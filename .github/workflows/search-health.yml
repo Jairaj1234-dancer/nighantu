@@ -1,0 +1,48 @@
+name: Search health
+
+# Weekly: pull Bing Webmaster figures into the dashboard. Skips cleanly when
+# BING_API_KEY is absent, so this can be committed before the key exists.
+#
+# Bing's SOAP and POX APIs were retired on 31 August 2026; this uses REST only.
+
+on:
+  schedule:
+    # 06:41 UTC Mondays (12:11 IST).
+    - cron: '41 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: monitors
+  cancel-in-progress: false
+
+env:
+  ATLAS_SITE: https://jairaj1234-dancer.github.io
+  ATLAS_BASE: /nighantu
+
+jobs:
+  bing:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+
+      - name: Pull Bing Webmaster figures
+        env:
+          BING_API_KEY: ${{ secrets.BING_API_KEY }}
+        run: node scripts/search-health.mjs
+
+      - name: Commit dashboard
+        run: |
+          git config user.name  "nighantu-monitor[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/monitor-state.json data/DASHBOARD.md
+          git commit -m "Search health $(date -u +%Y-%m-%d)" || exit 0
+          git pull --rebase --autostash origin main || true
+          git push origin HEAD:main

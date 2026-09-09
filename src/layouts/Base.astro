@@ -2,6 +2,7 @@
 import '../styles/global.css';
 import Seo from '../components/Seo.astro';
 import { SITE_NAME, rel } from '../lib/site';
+import ledger from '../data/page-dates.json';
 
 interface Props {
   title: string;
@@ -11,7 +12,11 @@ interface Props {
   wide?: boolean;
 }
 const { title, description, canonical, jsonld, wide = false } = Astro.props;
-const year = new Date().getFullYear();
+// From the content ledger, not the clock: a build-time year would rewrite every
+// page on 1 January and trigger a full, pointless resubmission.
+const year = Math.max(
+  ...Object.values(ledger as Record<string, { modified: string }>).map((e) => Number(e.modified.slice(0, 4))),
+);
 ---
 <!doctype html>
 <html lang="en">
@@ -57,6 +62,7 @@ const year = new Date().getFullYear();
           <a href={rel('/editorial-standards/')}>Editorial standards</a>
           <a href={rel('/reviewers/')}>Reviewers</a>
           <a href={rel('/corrections/')}>Corrections</a>
+          <a href={rel('/cite/')}>Cite</a>
           <a href={rel('/llms.txt')}>llms.txt</a>
         </nav>
         <p>

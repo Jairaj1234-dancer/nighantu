@@ -349,7 +349,9 @@ emitGlossaries();
 
 const manifest = {
   generatedAt: new Date().toISOString(),
-  vault: VAULT,
+  // Deliberately not the absolute vault path: this file is committed to a public
+  // repo and the full path exposes the operator's home directory and machine layout.
+  vault: path.basename(VAULT),
   counts: {
     scanned: all.length, denied: denied.length, aliases: aliases.length,
     standalone: publishSet.length, rolled: rolled.length, dropped: dropped.length,

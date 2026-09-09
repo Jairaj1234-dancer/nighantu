@@ -1,0 +1,75 @@
+name: Monitor
+
+# Daily detection sweep: site health, product links, competitor specs, content
+# freshness, and public community feeds. Files issues for new findings and updates
+# data/DASHBOARD.md.
+#
+# The commit at the end is load-bearing, not bookkeeping. Scheduled workflows in a
+# public repo are auto-disabled after 60 days with no repository activity, and only
+# new commits reliably reset that timer. A monitor that commits its own state keeps
+# itself alive.
+
+on:
+  schedule:
+    # 01:43 UTC daily (07:13 IST). Deliberately off the hour: Actions cron is
+    # best-effort and the shared pool is most congested at :00.
+    - cron: '43 1 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Report findings without opening issues'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  issues: write
+
+# Never "pages": that group belongs to the deploy workflow and sharing it would
+# cancel in-progress deploys.
+concurrency:
+  group: monitors
+  cancel-in-progress: false
+
+env:
+  ATLAS_SITE: https://jairaj1234-dancer.github.io
+  ATLAS_BASE: /nighantu
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+
+      - name: Run monitors
+        id: sweep
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            node scripts/monitor.mjs --dry-run
+          else
+            node scripts/monitor.mjs
+          fi
+
+      - name: Commit state and dashboard
+        if: ${{ inputs.dry_run != true }}
+        run: |
+          git config user.name  "nighantu-monitor[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/monitor-state.json data/DASHBOARD.md
+          if git diff --staged --quiet; then
+            # Nothing changed. Still touch the repo so the 60-day auto-disable clock
+            # resets, otherwise a perfectly healthy site silently kills its own
+            # monitoring after two quiet months.
+            date -u +"%Y-%m-%dT%H:%M:%SZ" > data/.monitor-heartbeat
+            git add data/.monitor-heartbeat
+          fi
+          git commit -m "Monitor sweep $(date -u +%Y-%m-%d)" || exit 0
+          git pull --rebase --autostash origin main || true
+          git push origin HEAD:main

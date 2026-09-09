@@ -13,24 +13,45 @@ explicit allow list and writes only the approved subset into `content/`, which *
 committed. Anything in `content/` is published.
 
 ```
-scripts/config.mjs    all policy: allow list, deny list, thresholds, redactions
-scripts/ingest.mjs    vault -> content/ (the only path in)
-scripts/answer.mjs    composes the 40-60 word answer block on each page
-scripts/audit.mjs     compliance gate; fails the build on a violation
-scripts/linkcheck.mjs verifies every internal link in dist/
-guides/               hand-written guide pages (the Shirodhara hub)
-content/              generated, committed, published
+scripts/config.mjs      all policy: allow list, deny list, thresholds, redactions
+scripts/ingest.mjs      vault -> content/ (the only path in)
+scripts/answer.mjs      composes the 40-60 word answer block on each page
+scripts/stamp-dates.mjs stable per-page published/modified dates
+scripts/audit.mjs       compliance gate; fails the build on a violation
+scripts/linkcheck.mjs   verifies every internal link in dist/
+scripts/indexnow.mjs    submits CHANGED urls to Bing/Yandex/Naver/Seznam
+scripts/monitor.mjs     the daily detection sweep
+scripts/monitors/       one module per check
+scripts/lib/            state, http, issue filing, dashboard rendering
+guides/                 hand-written guide pages (the Shirodhara hub)
+content/                generated, committed, published
+data/                   monitor state, citation log, DASHBOARD.md
 ```
+
+## Section counts
+
+| Section | Pages |
+| --- | --- |
+| Herbs | 504 |
+| Formulations | 143 |
+| Instruments | 37 |
+| Reference | 53 |
+| Classical texts | 2 |
+| Glossary | 14 |
+| Shirodhara guide | 13 |
+| **Built total** | **779** |
 
 ## Commands
 
 ```bash
 npm run ingest:dry     # show the publish set and the deny set, write nothing
 npm run ingest         # regenerate content/ from the vault
-npm run audit          # compliance gate (also runs inside npm run build)
-npm run build          # audit + astro build
+npm run stamp          # refresh the page date ledger
+npm run build          # stamp + audit + astro build
+npm run verify         # ledger check + audit + link check, after a build
+npm run monitor:dry    # run every monitor, open no issues
+npm run indexnow:dry   # show which URLs would be submitted
 npm run dev            # local dev server
-node scripts/linkcheck.mjs        # after a build
 ```
 
 ## What is excluded, and why
@@ -69,22 +90,47 @@ All three gates have been negative-tested: each fails on an injected fault and p
 
 Push to `main`. The workflow audits, builds, link-checks and deploys to GitHub Pages.
 
-Site URL and base path come from `ATLAS_SITE` and `ATLAS_BASE`, set in the workflow. Moving to
-a subdomain later (`atlas.ageayurveda.com`) is a CNAME at the registrar plus setting
-`ATLAS_BASE=/`, then re-running `npm run ingest` so the baked-in link prefixes update.
+Site URL and base path come from `ATLAS_SITE` and `ATLAS_BASE`, set in the workflow. The
+move to `nighantu.ageayurveda.com` is one command once the DNS CNAME exists:
+`./scripts/use-subdomain.sh nighantu.ageayurveda.com`. It refuses to run until DNS
+actually resolves, so it cannot break the live site by going early. See
+[NEXT-STEPS.md](NEXT-STEPS.md).
 
+## Automation
 
-- `llms.txt` (curated index) and `llms-full.txt` (every answer block and key fact).
-- A plain-Markdown twin of every page at its URL with `.md` appended.
-- `sitemap-index.xml` and an RSS feed.
-- Per page: a 40-60 word answer block above everything else, a key-facts table, question-form
-  headings, a citation block, and JSON-LD `Article` + `DefinedTerm` + `BreadcrumbList`.
-  `FAQPage` only where a real Q&A block exists.
-- Deliberately not `MedicalWebPage`, `Drug` or `MedicalIndication` schema: those invite a
-  regulatory reading of educational text and buy nothing in citation terms.
+Runs on GitHub Actions cron, which is free and unlimited on public repos and, unlike any
+local scheduler, survives the machine being closed.
+
+| Workflow | When | What |
+| --- | --- | --- |
+| `deploy.yml` | on push | build, three gates, deploy, submit changed URLs |
+| `monitor.yml` | daily 01:43 UTC | health, product links, competitor specs, freshness, public feeds |
+| `search-health.yml` | Mondays 06:41 UTC | Bing Webmaster figures |
+
+Findings become GitHub issues labelled `monitor`; trends go to
+[data/DASHBOARD.md](data/DASHBOARD.md), which is committed rather than published so the
+
+Three design points worth knowing before changing anything:
+
+- **The monitor commits on every run, even when nothing changed.** Scheduled workflows in a
+  public repo are auto-disabled after 60 days of no repository activity, and only commits
+  reliably reset that timer. The heartbeat file is what keeps the automation alive.
+- **Nothing posts to a community platform.** The feed monitor reads public RSS and files an
+  issue. Reddit's Data API terms bar commercial use without a licence, and a domain-level
+  ban would poison every future mention of the site.
+- **IndexNow submits only changed URLs.** Resubmitting unchanged ones earns throttling and
+  host deprioritisation. `scripts/stamp-dates.mjs` exists partly to make page hashes stable
+  enough for that to work.
+
+Credentials are optional and each job degrades gracefully without them. See
+[SETUP-CREDENTIALS.md](SETUP-CREDENTIALS.md).
 
 ## Licensing
 
+Content is [CC BY 4.0](LICENSE); scripts and site code are [MIT](LICENSE-CODE). Brand,
+product names and product photography are not licensed.
+
 Monograph text incorporates material from the Amidha Ayurveda Herb Database under
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Attribution is carried site-wide in
-the footer, on `/how-we-source/`, and in every Markdown twin.
+CC BY 4.0, and that attribution travels with any redistribution. Full statement, including
+what is deliberately not published and where the work is weakest, in
+[PROVENANCE.md](PROVENANCE.md) and [LICENSES.md](LICENSES.md).

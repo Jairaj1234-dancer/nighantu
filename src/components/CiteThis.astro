@@ -1,11 +1,12 @@
 ---
 import { SITE_NAME, PUBLISHER, abs, rel } from '../lib/site';
+import { prettyDate } from '../lib/dates';
 
-interface Props { title: string; canonical: string; updated?: Date }
-const { title, canonical, updated = new Date() } = Astro.props;
+interface Props { title: string; canonical: string; modified: string }
+const { title, canonical, modified } = Astro.props;
 const url = abs(canonical);
-const stamp = updated.toISOString().slice(0, 10);
-const pretty = updated.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
+const stamp = modified;
+const pretty = prettyDate(modified);
 ---
 <aside class="cite">
   <strong>Cite this page.</strong>

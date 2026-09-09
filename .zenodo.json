@@ -1,0 +1,30 @@
+{
+  "title": "Age Ayurveda Nighantu: a referenced encyclopedia of Ayurvedic materia medica",
+  "description": "<p>A <em>nighantu</em> is the classical Ayurvedic lexicon of medicinal substances. This is a modern one: single-herb monographs, classical formulations and Ayurvedic instruments, each opening with a definitional summary, stating identification and pharmacology as structured facts, citing the classical texts it draws on, and reporting published research with dates attached. It also includes a practice guide to Shirodhara.</p><p><strong>Provenance:</strong> the monographs are not original prose. They are restructured and extended derivatives incorporating material from the Amidha Ayurveda Herb Database under CC BY 4.0, with classical citations and editorial layers added by Age Ayurveda. See PROVENANCE.md in the repository for the full statement, including known limitations.</p><p><strong>Not clinically reviewed.</strong> No practitioner has reviewed the monographs line by line. This is educational reference material, not medical advice.</p>",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "creators": [
+    { "name": "Age Ayurveda", "affiliation": "Nitya Naturals Pvt Ltd, Prayagraj, India" }
+  ],
+  "keywords": [
+    "Ayurveda",
+    "materia medica",
+    "medicinal plants",
+    "dravyaguna",
+    "ethnobotany",
+    "Shirodhara",
+    "Panchakarma",
+    "traditional medicine",
+    "herbal reference"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://jairaj1234-dancer.github.io/nighantu/",
+      "relation": "isDerivedFrom",
+      "scheme": "url",
+      "resource_type": "dataset"
+    }
+  ],
+  "notes": "Dual-licensed: content CC BY 4.0, code MIT. Product names, brand marks and product photography are excluded from the licence grant."
+}

@@ -30,6 +30,13 @@ jobs:
       - run: npm ci
 
       # content/ is committed, so the build never needs the private source vault.
+
+      # The date ledger must be committed and current. If it is stale the build
+      # would fall back to older dates, so fail loudly rather than publish silently
+      # wrong dateModified values.
+      - name: Date ledger is current
+        run: node scripts/stamp-dates.mjs --check
+
       # The audit gates the build: a compliance violation fails the deploy.
       - name: Compliance audit (pre-build)
         run: node scripts/audit.mjs
@@ -58,12 +65,22 @@ jobs:
       - id: deployment
         uses: actions/deploy-pages@v4
 
-  # Tell Bing, Yandex, Naver and Seznam what changed. No account needed, and a
-  # failed ping never fails the deploy.
+  # Tell Bing, Yandex, Naver and Seznam what CHANGED. No account needed, and a failed
+  # ping never fails the deploy.
+  #
+  # Change detection is the contract, not an optimisation: IndexNow deprioritises and
+  # eventually 429s hosts that resubmit unchanged URLs. scripts/indexnow.mjs hashes the
+  # built pages against data/monitor-state.json and submits only genuine changes, then
+  # commits the updated baseline.
   notify:
     needs: deploy
     runs-on: ubuntu-latest
     continue-on-error: true
+    permissions:
+      contents: write
+    concurrency:
+      group: monitors
+      cancel-in-progress: false
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -71,5 +88,16 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      # Rebuilt rather than downloaded: the Pages artifact is a tarball for the
+      # deploy action, and indexnow.mjs needs dist/ on disk to hash pages.
       - run: npx astro build
       - run: node scripts/indexnow.mjs
+
+      - name: Commit the submission baseline
+        run: |
+          git config user.name  "nighantu-monitor[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/monitor-state.json
+          git commit -m "IndexNow baseline after deploy" || exit 0
+          git pull --rebase --autostash origin main || true
+          git push origin HEAD:main
