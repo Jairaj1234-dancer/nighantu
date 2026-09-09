@@ -1,13 +1,13 @@
 {
   "community": {
-    "checkedAt": "2026-09-09T12:28:38.390Z",
+    "checkedAt": "2026-09-09T12:37:18.291Z",
     "feeds": 4,
-    "matched": 2,
+    "matched": 0,
     "scanned": 25
   },
   "competitors": {
     "ajengineer": {
-      "checkedAt": "2026-09-09T12:28:32.205Z",
+      "checkedAt": "2026-09-09T12:37:14.652Z",
       "hash": "c8f0221ba8baca99",
       "signals": [
         "12 liter",
@@ -18,7 +18,7 @@
       "url": "https://www.ajengineer.co.in/ayurvedic-therapy-machine.html"
     },
     "ananda": {
-      "checkedAt": "2026-09-09T12:28:35.632Z",
+      "checkedAt": "2026-09-09T12:37:17.866Z",
       "hash": "4e12cc6bfe5dcfa5",
       "signals": [
         "$120",
@@ -27,7 +27,7 @@
       "url": "https://www.anandashirodhara.com/product-page/ananda-automatic-shirodhara-equipment"
     },
     "cristalmind": {
-      "checkedAt": "2026-09-09T12:28:31.048Z",
+      "checkedAt": "2026-09-09T12:37:14.132Z",
       "hash": "7b99df66ba52e31d",
       "signals": [
         "2-3 minutes",
@@ -37,13 +37,13 @@
       "url": "https://www.cristalmind.com/"
     },
     "esteem": {
-      "checkedAt": "2026-09-09T12:28:32.579Z",
+      "checkedAt": "2026-09-09T12:37:15.697Z",
       "hash": "e3b0c44298fc1c14",
       "signals": [],
       "url": "https://www.esteemservices.in/fully-automatic-shirodhara-machine.htm"
     },
     "kawachi": {
-      "checkedAt": "2026-09-09T12:28:34.382Z",
+      "checkedAt": "2026-09-09T12:37:17.371Z",
       "hash": "d51abf5a796bd560",
       "signals": [
         "₹8,999"
@@ -52,7 +52,7 @@
     }
   },
   "competitorSummary": {
-    "checkedAt": "2026-09-09T12:28:35.632Z",
+    "checkedAt": "2026-09-09T12:37:17.866Z",
     "items": [
       {
         "id": "cristalmind",
@@ -88,7 +88,7 @@
   },
   "feeds": {
     "r-ayurveda": {
-      "checkedAt": "2026-09-09T12:28:36.651Z",
+      "checkedAt": "2026-09-09T12:37:18.215Z",
       "seenIds": [
         "t3_1wbhvk6",
         "t3_1waw2la",
@@ -119,13 +119,13 @@
     }
   },
   "freshness": {
-    "checkedAt": "2026-09-09T12:28:35.635Z",
+    "checkedAt": "2026-09-09T12:37:17.869Z",
     "oldest": [],
     "overdue": 0,
     "total": 766
   },
   "health": {
-    "checkedAt": "2026-09-09T12:28:24.233Z",
+    "checkedAt": "2026-09-09T12:37:04.109Z",
     "failing": 0,
     "failingUrls": [],
     "total": 15
@@ -918,7 +918,7 @@
   "products": {
     "broken": 0,
     "brokenHandles": [],
-    "checkedAt": "2026-09-09T12:28:28.486Z",
+    "checkedAt": "2026-09-09T12:37:12.038Z",
     "total": 21
   },
   "search": {},
@@ -934,6 +934,6 @@
       "lastSeen": "2026-09-09T12:28:19.438Z"
     }
   },
-  "updatedAt": "2026-09-09T12:35:37.363Z",
+  "updatedAt": "2026-09-09T12:37:18.291Z",
   "version": 1
 }
