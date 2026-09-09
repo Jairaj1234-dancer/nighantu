@@ -4,6 +4,7 @@ import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import CiteThis from '../../components/CiteThis.astro';
 import { SITE_NAME, abs, rel } from '../../lib/site';
+import { pageDates } from '../../lib/dates';
 
 export async function getStaticPaths() {
   const entries = await getCollection('glossary');
@@ -14,6 +15,7 @@ const { entry } = Astro.props;
 const d = entry.data;
 const { Content } = await render(entry);
 const canonical = `/glossary/${d.slug}/`;
+const { modified } = pageDates('glossary', d.slug);
 
 const siblings = (await getCollection('glossary'))
   .map((e) => e.data)
@@ -48,5 +50,5 @@ const jsonld = {
   )}
 
   <div class="prose"><Content /></div>
-  <CiteThis title={d.title} canonical={canonical} />
+  <CiteThis title={d.title} canonical={canonical} modified={modified} />
 </Base>

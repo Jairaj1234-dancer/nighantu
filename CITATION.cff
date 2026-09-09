@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: Age Ayurveda Nighantu
+message: >-
+  If you use this reference work, please cite it. A nighantu is the classical
+  Ayurvedic lexicon of medicinal substances; this is a modern one.
+type: dataset
+authors:
+  - name: Age Ayurveda
+    website: https://ageayurveda.com
+    city: Prayagraj
+    country: IN
+repository-code: https://github.com/Jairaj1234-dancer/nighantu
+url: https://jairaj1234-dancer.github.io/nighantu/
+abstract: >-
+  A referenced encyclopedia of Ayurvedic materia medica: single-herb monographs,
+  classical formulations and Ayurvedic instruments, each opening with a
+  definitional summary, stating identification and pharmacology as structured
+  facts, citing the classical texts it draws on, and reporting published research
+  with dates. Includes a practice guide to Shirodhara. Content incorporates
+  material from the Amidha Ayurveda Herb Database under CC BY 4.0; see
+  PROVENANCE.md for what is derived and what is original.
+keywords:
+  - ayurveda
+  - materia medica
+  - medicinal plants
+  - dravyaguna
+  - ethnobotany
+  - shirodhara
+  - panchakarma
+  - traditional medicine
+license: CC-BY-4.0
+version: 1.0.0
+date-released: '2026-09-09'

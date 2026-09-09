@@ -4,12 +4,13 @@ import ProductModule from '../components/ProductModule.astro';
 import CiteThis from '../components/CiteThis.astro';
 import Crumbs from '../components/Crumbs.astro';
 import { SITE_NAME, PUBLISHER, abs, rel } from '../lib/site';
+import { pageDates } from '../lib/dates';
 
 interface Props { entry: any; siblings: any[] }
 const { entry, siblings } = Astro.props;
 const d = entry.data;
 const canonical = d.slug === 'shirodhara' ? '/shirodhara/' : `/shirodhara/${d.slug}/`;
-const now = new Date().toISOString();
+const { published, modified } = pageDates('guide', d.slug);
 
 const article = {
   '@context': 'https://schema.org',
@@ -19,8 +20,8 @@ const article = {
   description: d.answer,
   inLanguage: 'en',
   isAccessibleForFree: true,
-  datePublished: now,
-  dateModified: now,
+  datePublished: published,
+  dateModified: modified,
   mainEntityOfPage: abs(canonical),
   about: {
     '@type': 'DefinedTerm',
@@ -97,7 +98,7 @@ const breadcrumbs = {
     </nav>
 
     {d.products && <ProductModule slug={d.products} />}
-    <CiteThis title={d.title} canonical={canonical} />
+    <CiteThis title={d.title} canonical={canonical} modified={modified} />
 
     <p class="disclaimer">
       Educational reference only. Shirodhara is a traditional external practice; nothing here is

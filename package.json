@@ -6,9 +6,18 @@
   "scripts": {
     "ingest": "node scripts/ingest.mjs",
     "ingest:dry": "node scripts/ingest.mjs --dry-run",
+    "stamp": "node scripts/stamp-dates.mjs",
     "audit": "node scripts/audit.mjs",
+    "linkcheck": "node scripts/linkcheck.mjs",
+    "monitor": "node scripts/monitor.mjs",
+    "monitor:dry": "node scripts/monitor.mjs --dry-run",
+    "indexnow": "node scripts/indexnow.mjs",
+    "indexnow:dry": "node scripts/indexnow.mjs --dry-run",
+    "geo-audit": "node scripts/geo-audit.mjs",
+    "search-health": "node scripts/search-health.mjs",
     "dev": "astro dev",
-    "build": "node scripts/audit.mjs && astro build",
+    "build": "node scripts/stamp-dates.mjs && node scripts/audit.mjs && astro build",
+    "verify": "node scripts/stamp-dates.mjs --check && node scripts/audit.mjs && node scripts/linkcheck.mjs",
     "preview": "astro preview"
   },
   "dependencies": {

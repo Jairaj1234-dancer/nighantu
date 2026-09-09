@@ -1,0 +1,81 @@
+---
+import Page from '../layouts/Page.astro';
+import { getCollection } from 'astro:content';
+import { KINDS } from '../lib/collections';
+import { SITE_NAME, PUBLISHER, abs, rel } from '../lib/site';
+
+const counts: Record<string, number> = {};
+for (const k of KINDS) counts[k] = (await getCollection(k)).length;
+const total = Object.values(counts).reduce((a, b) => a + b, 0);
+const repo = 'https://github.com/Jairaj1234-dancer/nighantu';
+const year = 2026;
+---
+<Page
+  title="Cite the Nighantu"
+  description="How to cite the Age Ayurveda Nighantu, what licence applies, and what the work is derived from."
+  canonical="/cite/"
+  lede="How to cite this work, and what you are allowed to do with it."
+>
+
+## Citing a single page
+
+Every monograph carries its own citation at the foot, with the canonical URL and the
+date that page was last revised. Use that in preference to a site-level citation, because
+page revision dates differ and only the page knows its own.
+
+## Citing the work as a whole
+
+<p><strong>Plain:</strong></p>
+
+<p>{PUBLISHER}. <i>{SITE_NAME}</i>. {year}. <a href={abs('/')}>{abs('/')}</a></p>
+
+<p><strong>BibTeX:</strong></p>
+
+<pre><code>{`@misc{ageayurveda_nighantu_${year},
+  author       = {{${PUBLISHER}}},
+  title        = {{${SITE_NAME}: a referenced encyclopedia of Ayurvedic materia medica}},
+  year         = {${year}},
+  howpublished = {\\url{${abs('/')}}},
+  note         = {${total} monographs. Content CC BY 4.0.}
+}`}</code></pre>
+
+<p>
+  Machine-readable metadata is in <a href={`${repo}/blob/main/CITATION.cff`}>CITATION.cff</a>,
+  so GitHub's "Cite this repository" button works directly.
+</p>
+
+## Licence
+
+<table class="facts">
+  <caption>What applies where</caption>
+  <tbody>
+    <tr><th scope="row">Reference content</th><td>CC BY 4.0</td></tr>
+    <tr><th scope="row">Scripts and site code</th><td>MIT</td></tr>
+    <tr><th scope="row">Brand, product names, product photography</th><td>Not licensed</td></tr>
+  </tbody>
+</table>
+
+<p>
+  Attribute to {PUBLISHER}, {SITE_NAME}, with a link to the page you used.
+</p>
+
+## What this is derived from
+
+The monographs are not original prose. They restructure and extend material from the
+Amidha Ayurveda Herb Database, used under CC BY 4.0, with classical citations and
+editorial layers added by us. That upstream credit travels with any redistribution.
+
+The full statement, including what we deliberately do not publish and where the work is
+weakest, is in <a href={`${repo}/blob/main/PROVENANCE.md`}>PROVENANCE.md</a>. It is worth
+reading before citing: it records that no practitioner has reviewed the monographs line
+by line, so this must not be cited as clinically reviewed.
+
+## For automated readers
+
+<p>
+  Every page has a plain-Markdown twin at its URL with <code>.md</code> appended. There is a
+  curated index at <a href={rel('/llms.txt')}>llms.txt</a> and a full-text index at
+  <a href={rel('/llms-full.txt')}>llms-full.txt</a>. Quote and cite freely; a link back is
+  the whole of what the licence asks.
+</p>
+</Page>

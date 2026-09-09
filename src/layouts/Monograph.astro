@@ -5,12 +5,13 @@ import ProductModule from '../components/ProductModule.astro';
 import CiteThis from '../components/CiteThis.astro';
 import Crumbs from '../components/Crumbs.astro';
 import { SITE_NAME, PUBLISHER, abs, rel } from '../lib/site';
+import { pageDates } from '../lib/dates';
 
 interface Props { entry: any; sectionLabel: string; sectionHref: string }
 const { entry, sectionLabel, sectionHref } = Astro.props;
 const d = entry.data;
 const canonical = `${sectionHref}${d.slug}/`;
-const updated = new Date().toISOString();
+const { published, modified } = pageDates(d.kind, d.slug);
 
 const jsonld = {
   '@context': 'https://schema.org',
@@ -20,8 +21,8 @@ const jsonld = {
   description: d.answer,
   inLanguage: 'en',
   isAccessibleForFree: true,
-  datePublished: updated,
-  dateModified: updated,
+  datePublished: published,
+  dateModified: modified,
   mainEntityOfPage: abs(canonical),
   // DefinedTerm rather than a medical schema type: this is reference material
   // about a substance, not a claim about treating anything.
@@ -72,7 +73,7 @@ const breadcrumbs = {
     <div class="prose"><slot /></div>
 
     <ProductModule slug={d.slug} />
-    <CiteThis title={d.title} canonical={canonical} />
+    <CiteThis title={d.title} canonical={canonical} modified={modified} />
 
     <p class="disclaimer">
       Educational reference only. Nothing on this page is medical advice, a diagnosis, or a

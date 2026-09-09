@@ -1,0 +1,68 @@
+name: Citation panel
+
+# Monthly: run the 53-prompt panel against an answer engine with web search and
+# record whether Age Ayurveda or the Nighantu was cited. This is the only job that
+# costs money, and it is the only place a model is called anywhere in the automation.
+#
+# Skips itself cleanly when ANTHROPIC_API_KEY is not set, so the workflow can be
+# committed before the secret exists.
+
+on:
+  schedule:
+    # 05:23 UTC on the 1st (10:53 IST). Off the hour and off midnight, which is the
+    # single most congested slot on the Actions shared pool.
+    - cron: '23 5 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: monitors
+  cancel-in-progress: false
+
+jobs:
+  panel:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Check for the API key
+        id: key
+        run: |
+          if [ -n "${{ secrets.ANTHROPIC_API_KEY }}" ]; then
+            echo "present=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "present=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::ANTHROPIC_API_KEY is not set. Skipping the panel."
+          fi
+
+      - uses: actions/setup-node@v5
+        if: steps.key.outputs.present == 'true'
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+        if: steps.key.outputs.present == 'true'
+
+      - name: Run the panel
+        if: steps.key.outputs.present == 'true'
+        env:
+          # Passed as an env var, never interpolated into a shell string, so it
+          # cannot end up in the run log.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/geo-audit.mjs
+
+      - name: Report the change and commit
+        if: steps.key.outputs.present == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          node scripts/citation-report.mjs --issue || true
+          git config user.name  "nighantu-monitor[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/citation-log.csv data/DASHBOARD.md
+          git commit -m "Citation panel $(date -u +%Y-%m)" || exit 0
+          git pull --rebase --autostash origin main || true
+          git push origin HEAD:main
