@@ -1,0 +1,80 @@
+---
+title: "Swarna Vasant Malti Ras"
+slug: "swarna-vasant-malti-ras"
+kind: "herb"
+section: "Ayurveda"
+category: "Others"
+subcategory: "Rasa-Shastra-Alchemical-Preparations"
+group: "Swarna-Vasant-Malti-Ras"
+answer: "Swarna Vasant Malti Ras is a substance used in the Ayurvedic materia medica. Usual dose: 125 mg once or twice daily. Gold was found in plasma, erythrocytes, and semen."
+botanical: ""
+family: ""
+sanskrit: ""
+ayurvedicCategory: ""
+whoStatus: ""
+aliases: ["Swarna Vasant Malti Ras", "SwarnaVasantMaltiRas"]
+tags: ["ayurveda", "rasa-shastra", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
+productHints: []
+words: 464
+srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Swarna-Vasant-Malti-Ras/meta-analysis.md"
+---
+## Names and identification
+
+| Language | Name |
+|----------|------|
+| English | [Swarna Vasant Malti Ras](/ayurveda-atlas/herb/swarna-vasant-malti-ras/) |
+
+## How does it work?
+
+- [Swarna Bhasma](/ayurveda-atlas/herb/swarna-bhasma/) (gold nanoparticles) acts as an immunomodulator and [Rasayana](/ayurveda-atlas/reference/rasayana/), enhancing cellular immunity and tissue regeneration through interactions with immune cell receptors
+- Mukta Bhasma provides bioavailable calcium and conchiolin [peptides](/ayurveda-atlas/glossary/compounds-o-q/#peptides) that exert cooling, anti-inflammatory and antacid effects, pacifying Pitta dosha
+- Gold preparation increases sperm motility and prostatic activity, suggesting a hormonal modulation mechanism relevant to its traditional use as a [Vajikarana](/ayurveda-atlas/glossary/pharmacology/#vajikarana) ([aphrodisiac](/ayurveda-atlas/glossary/pharmacology/#aphrodisiac))
+
+## Which traditional uses are supported by research?
+
+- Rejuvenative and [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/): The clinical study confirmed systemic bioavailability of gold and absence of acute toxicity, partially supporting the traditional Rasayana (rejuvenative) claim, though large-scale controlled trials are needed
+- Chronic fever and respiratory conditions: Traditional use in Jirna Jwara (chronic fever), Kasa (cough), and Shwasa (asthma) is empirically supported by clinical practice but lacks rigorous clinical trial validation
+
+## What do recent clinical trials show?
+
+- **Evaluation of safety and efficacy of a gold containing Ayurvedic drug ([Swarna Vasant Malti Ras](/ayurveda-atlas/herb/swarna-vasant-malti-ras/))** (2002): 20 male individuals taking 100 mg twice daily for 40 days (cumulative gold intake: 160 mg at 4 mg/day) showed no toxic effects based on clinical examination, unaltered body weight, absence of urinary pathology, and 30 sensitive biochemical and enzymatic tests. Gold was found in plasma, erythrocytes, and semen.
+- **Pharmacological and toxicological insights into the ayurvedic formulation Rasasindura (relevant [mercury-sulfide](/ayurveda-atlas/glossary/compounds-l-o/#mercury-sulfide) compound studies)** (2025): Purified mercury-containing Ayurvedic preparations are safe at therapeutic concentrations when administered using a suitable vehicle; the Shodhana process converts mercury to an insoluble HgS form with reduced bioavailability, though higher concentrations could cause neurological toxicity.
+
+## Recent safety updates
+
+- The only published clinical safety study (2002) was small (n=20, male only) and of short duration (40 days); no long-term safety data exists in peer-reviewed literature
+- Contains mercury as HgS and multiple metal bhasmas - heavy metal accumulation is a concern with prolonged use; gold was detected in plasma, erythrocytes, urine, and semen indicating systemic distribution
+- Strictly contraindicated in pregnancy, lactation, and children; not recommended for patients with pre-existing renal or hepatic disorders due to heavy metal content
+- Must be sourced from GMP-certified manufacturers with batch-wise heavy metal testing; counterfeit or poorly prepared products pose significant toxicity risks
+
+## What is it made of?
+
+### Mineral/Elemental Profile
+
+- **Primary component:** Mineral-derived preparation
+- **Note:** Composition varies by specific preparation method
+
+**Analytical Methods:** XRD, ICP-OES, SEM-EDS
+
+## Dosage forms and preparation
+
+**Dosage Forms:** Vati
+
+**Standard Dosage:** 125 mg once or twice daily
+
+**Bioavailability:** Excellent; gold-containing Rasaushadhi with broad-spectrum action
+
+**Optimal Timing:** Morning with honey and ghee; or with [Chyawanprash](/ayurveda-atlas/formulation/chyawanprash/)
+
+**Standardized Extract:** Kajjali + [Swarna Bhasma](/ayurveda-atlas/herb/swarna-bhasma/) + Mukta Bhasma + potent Rasayana herbs
+
+**Shelf Life:** Indefinite
+
+**Storage:** Airtight, premium container
+
+**Marker Compounds:** Gold nanoparticles, Pearl calcium, Mercury sulfide, [Saffron](/ayurveda-atlas/herb/saffron/) (Kesar)
+
+**Quality Parameters:** Gold content verified, pearl content, standard Rasaushadhi tests
+
+**Vehicle (Anupana):** Honey + ghee, [Chyawanprash](/ayurveda-atlas/formulation/chyawanprash/), [Guduchi](/ayurveda-atlas/herb/guduchi/) Swarasa, or milk

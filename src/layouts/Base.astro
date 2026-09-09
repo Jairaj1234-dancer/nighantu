@@ -1,0 +1,71 @@
+---
+import '../styles/global.css';
+import Seo from '../components/Seo.astro';
+import { SITE_NAME, rel } from '../lib/site';
+
+interface Props {
+  title: string;
+  description: string;
+  canonical: string;
+  jsonld?: Record<string, unknown> | Record<string, unknown>[];
+  wide?: boolean;
+}
+const { title, description, canonical, jsonld, wide = false } = Astro.props;
+const year = new Date().getFullYear();
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Lora:wght@500;600&family=Montserrat:wght@400;600&display=swap"
+    />
+    <link rel="sitemap" href={rel('/sitemap-index.xml')} />
+    <link rel="alternate" type="application/rss+xml" title={SITE_NAME} href={rel('/rss.xml')} />
+    <Seo title={title} description={description} canonical={canonical} jsonld={jsonld} />
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <header class="masthead">
+      <div class="inner">
+        <a class="brand" href={rel('/')}>Ayurveda <span>Atlas</span></a>
+        <nav aria-label="Sections">
+          <a href={rel('/herb/')}>Herbs</a>
+          <a href={rel('/formulation/')}>Formulations</a>
+          <a href={rel('/device/')}>Instruments</a>
+          <a href={rel('/shirodhara/')}>Shirodhara</a>
+          <a href={rel('/glossary/')}>Glossary</a>
+          <a href={rel('/about/')}>About</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main" class={wide ? 'wrap-wide' : 'wrap'}>
+      <slot />
+    </main>
+
+    <footer class="site">
+      <div class="wrap-wide">
+        <nav aria-label="Site">
+          <a href={rel('/about/')}>About</a>
+          <a href={rel('/how-we-source/')}>How we source</a>
+          <a href={rel('/editorial-standards/')}>Editorial standards</a>
+          <a href={rel('/reviewers/')}>Reviewers</a>
+          <a href={rel('/corrections/')}>Corrections</a>
+          <a href={rel('/llms.txt')}>llms.txt</a>
+        </nav>
+        <p>
+          {SITE_NAME} is published by Age Ayurveda. Educational reference only; nothing
+          here is medical advice or a substitute for consulting a qualified practitioner.
+        </p>
+        <p>&copy; {year} Age Ayurveda. Monograph text incorporates material from the Amidha
+          Ayurveda Herb Database under <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">CC BY 4.0</a>.</p>
+      </div>
+    </footer>
+  </body>
+</html>

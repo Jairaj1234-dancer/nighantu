@@ -1,0 +1,103 @@
+---
+title: "Kanchanara Guggulu"
+slug: "kanchanara-guggulu"
+kind: "formulation"
+section: "Ayurveda"
+category: "Herbs"
+subcategory: "Classical-Formulations"
+group: "Guggulus-Resin-Based"
+answer: "Kanchanara Guggulu is a classical Ayurvedic guggulu, a resin-based preparation. The usual dose is 250-500 mg twice or thrice daily with warm water, as per AFI Part I. Listed in Ayurvedic Formulary of India (AFI) Part I; monographed in Ayurvedic Pharmacopoeia of India (API); included in CCRAS recommended formulations for Galaganda (thyroid disorders)."
+botanical: ""
+family: ""
+sanskrit: ""
+ayurvedicCategory: ""
+whoStatus: "Listed in Ayurvedic Formulary of India (AFI) Part I; monographed in Ayurvedic Pharmacopoeia of India (API); included in CCRAS recommended formulations for Galaganda (thyroid disorders)"
+aliases: ["Kanchanara Guggulu", "KanchanaraGuggulu"]
+tags: ["ayurveda", "formulation", "guggulu", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+productHints: []
+words: 645
+srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Kanchanara-Guggulu/meta-analysis.md"
+---
+## Names and identification
+
+| Language | Name |
+|----------|------|
+| English | Kanchanara [Guggulu](/ayurveda-atlas/formulation/guggulu/)|Kanchanara Guggulu |
+
+## Key Ingredients
+
+- Kanchanara Twak (Bauhinia variegata bark)
+- Shuddha [Guggulu](/ayurveda-atlas/formulation/guggulu/)|Shuddha Guggulu (Commiphora wightii)
+- [Triphala](/ayurveda-atlas/herb/triphala/) - [Haritaki](/ayurveda-atlas/herb/haritaki/) (Terminalia chebula), [Bibhitaki](/ayurveda-atlas/herb/bibhitaki/) (Terminalia bellirica), Amalaki (Emblica officinalis)
+- [Trikatu](/ayurveda-atlas/herb/trikatu/) - Shunthi ([Zingiber](/ayurveda-atlas/herb/zingiber/) officinale), Maricha (Piper nigrum), [Pippali](/ayurveda-atlas/herb/pippali/) (Piper longum)
+- [Varuna](/ayurveda-atlas/herb/varuna/) Twak (Crataeva nurvala bark)
+- Ela (Elettaria cardamomum)
+- Twak (Cinnamomum zeylanicum)
+- Tejpatra (Cinnamomum tamala)
+
+## Where is it described in the classical texts?
+
+Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also described in Bhaishajya Ratnavali (Gandamala/Granthi Chikitsa)
+
+## How does it work?
+
+- Thyroid function modulation: Kanchanara bark contains [flavonoids](/ayurveda-atlas/reference/flavonoids/) that balance Kapha dosha and reduce Medha Dhatu (adipose tissue), removing obstruction through Lekhana (scraping) action to normalize thyroid function
+- Anti-tumor and anti-proliferative: Guggulsterones and [quercetin](/ayurveda-atlas/reference/quercetinquercetin/) derivatives inhibit cell proliferation pathways, showing potential against benign tumors, cysts, and abnormal tissue growths (Granthi)
+- Anti-inflammatory and decongestant: Combined action of [Triphala](/ayurveda-atlas/herb/triphala/) antioxidants and guggulsterone-mediated NF-kB inhibition reduces glandular swelling and lymphatic congestion
+- Metabolic correction: [Trikatu](/ayurveda-atlas/herb/trikatu/) enhances metabolic fire (Agni), while Kanchanara bark's Kashaya (astringent) properties reduce pathological tissue accumulation
+- Aldose reductase inhibition: [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/) pentaacetate identified via molecular docking shows strong inhibition of aldose reductase, relevant to metabolic and diabetic complications
+
+## Which traditional uses are supported by research?
+
+- Thyroid disorder (Galaganda) management validated through clinical studies showing improvement in TSH levels and thyroid function in hypothyroid patients
+- Anti-tumor and cyst-resolving properties (Granthi) supported by anti-proliferative mechanisms identified through LC-MS/MS metabolomics and molecular docking studies
+- Lymphatic system support and PCOS management supported by Lekhana (scraping) and Kapha-reducing pharmacological mechanisms
+- Lipoma and benign growth management validated through traditional clinical observations and anti-proliferative compound identification
+
+## What do recent clinical trials show?
+
+- **Evaluation of Comparative Efficacy of Levothyroxine Versus Kshar Basti and [Kanchanar](/ayurveda-atlas/herb/kanchanar/) Guggul in the Treatment of Hypothyroidism: Protocol for Randomized Controlled Trial** (2024): RCT protocol registered comparing [Kanchanar](/ayurveda-atlas/herb/kanchanar/) Guggul with levothyroxine for hypothyroidism; enrollment began June 2024 with data analysis expected December 2025 and results by early 2026.
+- **From LC-MS/MS metabolomics profiling of Kanchanara [Guggulu](/ayurveda-atlas/formulation/guggulu/)|Kanchanara Guggulu to molecular docking and dynamics simulation of [quercetin](/ayurveda-atlas/reference/quercetinquercetin/) pentaacetate with aldose reductase** (2022): LC-MS/MS metabolomics identified 2,579 compounds including [quercetin](/ayurveda-atlas/reference/quercetinquercetin/) and [kaempferol](/ayurveda-atlas/reference/kaempferol/) derivatives; molecular docking revealed strong binding affinity of [quercetin](/ayurveda-atlas/reference/quercetinquercetin/) pentaacetate with aldose reductase enzyme.
+- **Clinical study to evaluate efficacy of [Kanchanar](/ayurveda-atlas/herb/kanchanar/) Gutika in the management of Galganda w.r.t. Hypothyroidism** (2021): Clinical study demonstrated improvement in thyroid function parameters (TSH normalization) with [Kanchanar](/ayurveda-atlas/herb/kanchanar/) formulation in hypothyroid patients.
+
+## Recent safety updates
+
+- Guggul may slow blood clotting and result in excess bleeding in people with clotting disorders; contraindicated before surgery (discontinue 2 weeks prior); may interact with anticoagulant and antiplatelet medications
+- Avoid in pregnancy and lactation; patients on thyroid replacement therapy should use only under physician supervision as the formulation may alter thyroid hormone levels; monitor thyroid function periodically during treatment
+
+## What is it made of?
+
+### Key Active Markers
+
+- Derived from constituent herbs (see individual herb profiles)
+- Standardized on primary bioactive markers
+
+**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
+
+## Dosage forms and preparation
+
+**Dosage Forms:** [Guggulu](/ayurveda-atlas/formulation/guggulu/) (resinous pill/tablet), Modern compressed tablet, Capsule (modern)
+
+**Standard Dosage:** 250-500 mg twice or thrice daily with warm water, as per AFI Part I
+
+**Bioavailability:** [Guggulu](/ayurveda-atlas/formulation/guggulu/) acts as yogavahi enhancing systemic delivery of Kanchanara flavonoids and [Varuna](/ayurveda-atlas/herb/varuna/) [lupeol](/ayurveda-atlas/reference/lupeol/). [Piperine](/ayurveda-atlas/reference/piperine/) from [Trikatu](/ayurveda-atlas/herb/trikatu/) enhances absorption. Kanchanara bark [polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols) are well-absorbed in guggulu matrix. Targets thyroid and lymphatic tissues.
+
+**Optimal Timing:** After meals, twice or thrice daily, for Galaganda (goiter/thyroid), Gandamala (lymph nodes), and Granthi (cysts/tumors)
+
+**Shelf Life:** 3 years from date of manufacture as per ASU guidelines for Guggulu preparations
+
+**Storage:** Store in airtight containers in a cool, dry place. Temperature not exceeding 30°C.
+
+**Marker Compounds:** Z-Guggulsterone, E-Guggulsterone, Lupeol (from [Varuna](/ayurveda-atlas/herb/varuna/)), Gallic acid, Piperine, Kaempferol (from Kanchanara)
+
+**Quality Parameters:** Weight variation (±5%), hardness, friability (<1%), disintegration time (<45 min), moisture (<6%), Z/E-guggulsterone content by HPLC, gallic acid, piperine, HPTLC fingerprint, microbial limits, heavy metals
+
+**Vehicle (Anupana):** Warm water or Varuna kwath
+
+### Synergistic Combinations
+
+- [Varunadi Kwath](/ayurveda-atlas/glossary/concepts-m-y/#varunadi-kwath)
+- [Chandraprabha](/ayurveda-atlas/herb/chandraprabha/) Vati
+- [Arogyavardhini Vati](/ayurveda-atlas/formulation/arogyavardhini-vati/)
+- [Triphala](/ayurveda-atlas/herb/triphala/) Guggulu

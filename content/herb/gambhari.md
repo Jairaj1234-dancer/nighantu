@@ -1,0 +1,104 @@
+---
+title: "Gambhari"
+slug: "gambhari"
+kind: "herb"
+section: "Ayurveda"
+category: "Herbs"
+subcategory: "Single-Herbs"
+group: "General-Herbs"
+answer: "Gambhari (Gmelina arborea Roxb.) is a plant used in Ayurveda, from the Lamiaceae (formerly Verbenaceae) family. Usual dose: 3-6g powder twice daily; 50-100ml decoction twice daily; 500mg extract capsule twice daily; 10-20g fruit pulp. Constituent of Dashamula in Ayurvedic Pharmacopoeia of India; referenced in WHO regional traditional medicine databases for South-East Asia."
+botanical: "Gmelina arborea Roxb."
+family: "Lamiaceae (formerly Verbenaceae)"
+sanskrit: ""
+ayurvedicCategory: ""
+whoStatus: "Constituent of Dashamula in Ayurvedic Pharmacopoeia of India; referenced in WHO regional traditional medicine databases for South-East Asia"
+aliases: ["Gmelina arborea Roxb."]
+tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
+productHints: []
+words: 581
+srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gambhari/meta-analysis.md"
+---
+## Names and identification
+
+| Language | Name |
+|----------|------|
+| English | Gambhari |
+| Latin/Botanical | *Gmelina arborea Roxb.* |
+
+## Key Phytochemical Constituents
+
+- Gmelinol (lignan)
+- Arboreol
+- Isoarboreol
+- Gmelanone
+- [Luteolin](/ayurveda-atlas/glossary/compounds-l-o/#luteolin)
+- [Apigenin](/ayurveda-atlas/glossary/compounds-1-a/#apigenin)-7-rutinoside
+- [Verbascoside](/ayurveda-atlas/glossary/compounds-t-z/#verbascoside) (iridoid glycoside)
+- Paulownin (lignan)
+
+## How does it work?
+
+- Anti-inflammatory: [Lignans](/ayurveda-atlas/glossary/compounds-g-l/#lignans) (gmelinol, paulownin) and [flavonoids](/ayurveda-atlas/reference/flavonoids/) inhibit COX-2, LOX-5, and suppress TNF-alpha and IL-6 production
+- [Cardioprotective](/ayurveda-atlas/reference/cardioprotective/): Iridoid [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) and flavonoids reduce myocardial oxidative stress and improve cardiac function through Nrf2 pathway activation
+- [Immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/): Verbascoside enhances macrophage phagocytic activity and modulates Th1/Th2 cytokine balance
+
+## Which traditional uses are supported by research?
+
+- Anti-arthritic and anti-inflammatory use validated by 45% reduction in swelling in rodent arthritis models over 14 days
+- Cardiotonic use (Hridya) supported by cardioprotective activity through reduction of myocardial oxidative stress
+- Wound healing use confirmed by promotion of fibroblast proliferation and collagen synthesis in excision wound models
+
+## What do recent clinical trials show?
+
+- **Gmelina arborea: An Indigenous Timber Species with High Medicinal Value (Review on Pharmacology, Pharmacognosy and Phytochemistry)** (2020): Identified 69 phytochemicals including lignans, iridoid glycosides, flavonoids, and flavone glycosides; confirmed multiple pharmacological activities in vitro and in vivo.
+- **Chemical Constituents and Pharmacological Potential of Gmelina arborea Roxb.** (2022): 4,8-dihydroxysesamin and arboreol ranked as potential SARS-CoV-2 target inhibitors with binding energy -10.7 to -8.2 kcal/mol in molecular docking studies.
+- **G. arborea Bark Extract in Rodent Arthritis Models** (2018): Bark extract reduced swelling in rodent arthritis models by up to 45% over 14 days, supporting traditional anti-arthritic use.
+
+## Recent safety updates
+
+- No significant toxicity reported in acute and subacute animal studies; traditional Dashamula formulation has a long safety record
+- Limited human clinical safety data; recommended to use within standard Ayurvedic dosage guidelines; not recommended in pregnancy without practitioner guidance
+
+## What is it made of?
+
+### Mineral/Elemental Profile
+
+- **Primary component:** Mineral-derived preparation
+- **Note:** Composition varies by specific preparation method
+
+**Analytical Methods:** XRD, ICP-OES, SEM-EDS
+
+## Dosage forms and preparation
+
+**Dosage Forms:** Churna (bark/fruit powder), Kashayam (decoction), Kwath Ghana (solid extract), Tablet, Capsule, Taila (medicated oil), Component of [Dashamoola](/ayurveda-atlas/herb/dashamoola/)
+
+**Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction twice daily; 500mg extract capsule twice daily; 10-20g fruit pulp
+
+**Bioavailability:** Gmelina arborea root bark and fruit contain iridoid glycosides (gmelinoside, arboreol), flavonoids, and lignans. Iridoid glycosides have moderate oral bioavailability (20-40%) and are partially hydrolyzed in the GI tract to release aglycones with higher absorption. Fruit pulp provides natural sugars and [mucilage](/ayurveda-atlas/glossary/compounds-l-o/#mucilage) that may enhance dissolution and GI transit time for better absorption. The bark Kashayam form is traditionally favored for systemic effects. Enhancement: self-emulsifying formulations for lipophilic lignans; co-administration with [Trikatu](/ayurveda-atlas/herb/trikatu/) for general bioenhancement.
+
+**Optimal Timing:** Before meals with warm water for general tonic and anti-inflammatory effects; Kashayam morning and evening
+
+**Standardized Extract:** Root bark extract standardized to NLT 2% total iridoid glycosides by HPLC. Fruit extract: characterized by sugar profile and HPTLC fingerprint. Extract ratio 6:1 to 8:1.
+
+**Shelf Life:** 2 years (bark powder); 2 years (fruit powder); 3 years (tablet/capsule); 3 years (Taila)
+
+**Storage:** Bark powder: airtight containers below 25 deg C, protected from moisture. Fruit preparations: refrigerate fresh pulp, dried powder in moisture-proof containers. Taila: amber glass at room temperature.
+
+**Marker Compounds:** Gmelinoside, Arboreol, Ursolic acid, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), Luteolin, [Apigenin](/ayurveda-atlas/glossary/compounds-1-a/#apigenin), Hentriacontanol
+
+### Extraction Methods
+
+- Aqueous decoction of root bark (traditional Kashayam)
+- Hydroalcoholic extraction (60:40 ethanol:water)
+- Cold maceration of fruit pulp
+- Spray-dried aqueous extract for Kwath Ghana
+- [Sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) processing for Taila
+
+### Synergistic Combinations
+
+- Key ingredient in Dashamoola (10-root formulation)
+- With [Bilva](/ayurveda-atlas/herb/bilva/) and [Shyonaka](/ayurveda-atlas/herb/shyonaka/) in Brihat Panchamoola
+- With [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) for tonic and [adaptogenic](/ayurveda-atlas/reference/adaptogenic/) synergy
+- With [Guduchi](/ayurveda-atlas/herb/guduchi/) for immunomodulatory combination
+- With [Shatavari](/ayurveda-atlas/herb/shatavari/) for [Rasayana](/ayurveda-atlas/reference/rasayana/) (rejuvenation) formulation

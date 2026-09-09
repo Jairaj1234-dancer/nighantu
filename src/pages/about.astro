@@ -1,0 +1,59 @@
+---
+import Page from '../layouts/Page.astro';
+import { rel, STORE } from '../lib/site';
+---
+<Page
+  title="About the Ayurveda Atlas"
+  description="What the Ayurveda Atlas is, who publishes it, and why a company that sells Ayurvedic products also publishes a reference encyclopedia."
+  canonical="/about/"
+  lede="A referenced encyclopedia of Ayurvedic materia medica, published by Age Ayurveda."
+>
+
+The Atlas exists because the reference material we needed internally did not exist anywhere
+public in a usable form. Ayurvedic herb information online is either a two-paragraph blog post
+or a paywalled academic database, and almost none of it distinguishes clearly between what a
+classical text says, what a modern trial found, and what a marketer wrote.
+
+So we built the reference we wanted: one page per herb, formulation and instrument, opening
+with a plain definition, stating identification and pharmacology as structured facts, citing
+the classical sources by name, and reporting research findings with dates attached.
+
+## Who publishes it
+
+Age Ayurveda, an Ayurvedic products company. We sell herbs, classical preparations and
+equipment at <a href={STORE}>ageayurveda.com</a>.
+
+That is a conflict of interest, and pretending otherwise would be worse than declaring it.
+Our position on it is set out in full in our <a href={rel('/editorial-standards/')}>editorial
+standards</a>. The short version: the reference pages are written as reference pages. Where a
+page describes something we sell, one clearly labelled block at the end of the page says so.
+There is no other commercial content on the site, no advertising, and no page written because
+a product needed a page.
+
+## What is here
+
+Monographs on single herbs, classical formulations and Ayurvedic instruments, a glossary of
+compounds, plant families and pharmacological terms, and a full practice guide to
+<a href={rel('/shirodhara/')}>Shirodhara</a>.
+
+## What is not here
+
+Dosage advice for individuals, diagnosis, treatment recommendations, and any claim that
+something cures or treats a condition. Traditional indications are reported as the tradition
+states them. Research findings are reported as the papers state them. Neither is a
+recommendation.
+
+We also do not publish the parts of our internal reference that cover manufacturing process
+detail, other medical traditions, or products that have not launched.
+
+## Using the material
+
+Read it, quote it, cite it. Attribution details are on
+<a href={rel('/how-we-source/')}>how we source</a>. Every page has a machine-readable
+Markdown twin at the same URL with <code>.md</code> appended, and there is a curated index at
+<a href={rel('/llms.txt')}>llms.txt</a>.
+
+## Corrections
+
+We would rather be corrected than be wrong. See <a href={rel('/corrections/')}>corrections</a>.
+</Page>

@@ -1,0 +1,167 @@
+#!/usr/bin/env node
+/**
+ * Compliance and safety gate. Runs before every build and in CI.
+ * Exits non-zero on any violation, so a bad ingest can never be published.
+ */
+import fs from 'node:fs';
+import path from 'node:path';
+import { FORBIDDEN_STRINGS, DENY_PATH_FRAGMENTS } from './config.mjs';
+import { walk, parseFrontmatter } from './lib.mjs';
+
+const failures = [];
+const fail = (check, detail) => failures.push({ check, detail });
+
+const CONTENT = 'content';
+const DIST = 'dist';
+
+// Terms that must never sit inside or adjacent to a product module.
+const DISEASE_TERMS = [
+  'cancer', 'diabetes', 'diabetic', 'arthritis', 'insomnia', 'anxiety', 'depression',
+  'hypertension', 'asthma', 'adhd', 'obesity', 'ulcer', 'eczema', 'psoriasis',
+  'migraine', 'alzheimer', 'parkinson', 'epilepsy', 'infertility', 'pcos',
+  'sinusitis', 'constipation', 'colitis', 'dementia', 'tumour', 'tumor',
+  'osteoarthritis', 'rheumatoid', 'hypothyroid', 'hyperthyroid', 'anaemia', 'anemia',
+];
+const CLAIM_VERBS = [
+  'cures', 'cure ', 'treats', 'treat ', 'heals', 'remedy for',
+  'relieves', 'prevents', 'reverses', 'eliminates',
+];
+// Heritage framing belongs on sales collateral, not on an editorial reference site.
+const HERITAGE_TERMS = ['baidyanath', 'house of baidyanath', 'est. 1917', 'since 1917'];
+// Names of traditions the site does not publish, used as a leak canary.
+const LEAK_TERMS = ['jie geng', 'dang shen', 'kabasura', 'sowa-rigpa', 'kampo designation'];
+
+function readContent() {
+  if (!fs.existsSync(CONTENT)) {
+    fail('content-exists', 'content/ is missing. Run `npm run ingest` first.');
+    return [];
+  }
+  return walk(CONTENT).map((rel) => {
+    const raw = fs.readFileSync(path.join(CONTENT, rel), 'utf8');
+    const { data, body } = parseFrontmatter(raw);
+    return { rel, raw, data, body, lower: raw.toLowerCase() };
+  });
+}
+
+const files = readContent();
+
+// 1. Nothing published may originate from a denied vault path.
+for (const f of files) {
+  const src = String(f.data.srcRel ?? '');
+  const hit = DENY_PATH_FRAGMENTS.find((d) => ('/' + src).includes(d));
+  if (hit) fail('denied-source', `${f.rel} came from a denied path (${hit}): ${src}`);
+}
+
+// 2. Commercial strings.
+for (const f of files) {
+  for (const s of FORBIDDEN_STRINGS) {
+    if (f.raw.includes(s)) fail('forbidden-string', `${f.rel} contains "${s}"`);
+  }
+}
+
+// 3. Cross-tradition leakage through hub pages.
+for (const f of files) {
+  for (const t of LEAK_TERMS) {
+    if (f.lower.includes(t)) fail('tradition-leak', `${f.rel} mentions "${t}"`);
+  }
+}
+
+// 4. Heritage framing.
+for (const f of files) {
+  for (const t of HERITAGE_TERMS) {
+    if (f.lower.includes(t)) fail('heritage-framing', `${f.rel} contains "${t}"`);
+  }
+}
+
+// 5. No wikilink syntax may survive into published content.
+for (const f of files) {
+  if (f.raw.includes('[[') || f.raw.includes(']]')) {
+    fail('wikilink-artifact', `${f.rel} still contains wikilink brackets`);
+  }
+}
+
+// 6. Every page needs an answer block, which is the point of the exercise.
+for (const f of files) {
+  const a = String(f.data.answer ?? '');
+  const words = (a.match(/\S+/g) || []).length;
+  if (words < 10) fail('answer-block', `${f.rel} answer block is only ${words} words`);
+  if (words > 75) fail('answer-block', `${f.rel} answer block is ${words} words (too long)`);
+}
+
+// 7. Chyawanprash facts are unresolved (herb count 45 vs 50 vs 18; Bhasma in
+//    pregnancy). Those pages ship without a count until the source is settled.
+const CP = /chyawanprash|chyavanprash/i;
+// Same-line, not a character window: on long index pages an unrelated
+// Chyawanprash mention elsewhere in the list produced false positives.
+const onSameLine = (text, a, b) => text
+  .split('\n')
+  .find((line) => a.test(line) && b.test(line)) ?? null;
+for (const f of files) {
+  if (!CP.test(f.raw)) continue;
+  // Only a herb count stated ABOUT Chyawanprash is a problem. "37 herbs" on a
+  // Rasayana overview page about something else is not.
+  const count = onSameLine(f.body, /\b\d{2}\s*(?:classical\s+)?herbs?\b/i, CP);
+  if (count) fail('chyawanprash-herb-count', `${f.rel} states a herb count near a Chyawanprash mention while the source is contested`);
+  const preg = onSameLine(f.body, /pregnan\w*/i, /bhasma|makardhwaj|makaradhwaj/i);
+  if (preg && CP.test(preg)) {
+    fail('chyawanprash-pregnancy', `${f.rel} pairs Bhasma/Makardhwaj with pregnancy guidance near Chyawanprash`);
+  }
+}
+
+// 8. Post-build: no disease term or claim verb inside a product module.
+//
+// Product NAMES are fixed and are never changed to make a claim easier to write
+// (ADHD Ease, Acid Relief and Natural Sleep Aid all carry a claim word in the
+// name itself). Renaming is a packaging and licensing decision, not a copy edit.
+// So the exact product titles are removed before scanning, and everything else
+// in the module is held to the full standard.
+const PRODUCT_TITLES = (() => {
+  try {
+    const data = JSON.parse(fs.readFileSync('src/data/products.json', 'utf8'));
+    return Object.values(data.products).map((p) => String(p.title).toLowerCase());
+  } catch { return []; }
+})();
+
+if (fs.existsSync(DIST)) {
+  const htmlFiles = [];
+  const walkDist = (d) => {
+    for (const e of fs.readdirSync(d, { withFileTypes: true })) {
+      const p = path.join(d, e.name);
+      if (e.isDirectory()) walkDist(p);
+      else if (e.name.endsWith('.html')) htmlFiles.push(p);
+    }
+  };
+  walkDist(DIST);
+  const MODULE = /<section[^>]*data-product-module[^>]*>([\s\S]*?)<\/section>/g;
+  for (const p of htmlFiles) {
+    const html = fs.readFileSync(p, 'utf8');
+    for (const m of html.matchAll(MODULE)) {
+      let text = m[1].replace(/<[^>]+>/g, ' ').toLowerCase();
+      for (const t of PRODUCT_TITLES) text = text.split(t).join(' ');
+      for (const t of DISEASE_TERMS) {
+        if (new RegExp(`\\b${t}\\b`).test(text)) fail('product-claim', `${p} product module mentions "${t}"`);
+      }
+      for (const v of CLAIM_VERBS) {
+        if (text.includes(v)) fail('product-claim', `${p} product module uses claim verb "${v.trim()}"`);
+      }
+    }
+  }
+  console.log(`audited ${htmlFiles.length} built pages`);
+}
+
+// ------------------------------------------------------------------ report
+const byCheck = {};
+for (const f of failures) (byCheck[f.check] ??= []).push(f.detail);
+
+console.log(`audited ${files.length} content files`);
+if (!failures.length) {
+  console.log('PASS: no compliance violations');
+  process.exit(0);
+}
+console.error(`\nFAIL: ${failures.length} violation(s)\n`);
+for (const [check, details] of Object.entries(byCheck)) {
+  console.error(`  ${check} (${details.length})`);
+  details.slice(0, 8).forEach((d) => console.error(`    - ${d}`));
+  if (details.length > 8) console.error(`    ... and ${details.length - 8} more`);
+}
+process.exit(1);

@@ -1,0 +1,4703 @@
+{
+  "generatedAt": "2026-09-09T09:45:17.157Z",
+  "vault": "/Users/jairajsharma/Desktop/Reference/Herb-Catalogue",
+  "counts": {
+    "scanned": 3286,
+    "denied": 1640,
+    "aliases": 2,
+    "standalone": 739,
+    "rolled": 818,
+    "dropped": 87
+  },
+  "productHints": {
+    "kapha-shirodhara-taila": [
+      "Kapha Shirodhara Oil (Nitya Naturals)"
+    ],
+    "pitta-shirodhara-taila": [
+      "Pitta Shirodhara Oil (Nitya Naturals)"
+    ],
+    "vata-shirodhara-taila": [
+      "Vata Shirodhara Oil (Nitya Naturals)"
+    ],
+    "brahmi": [
+      "Natural Sleep Aid",
+      "ADHD Ease",
+      "Grow and Glow Hair Oil",
+      "Nasja Oil"
+    ],
+    "jatamansi": [
+      "Natural Sleep Aid"
+    ],
+    "jyotishmati": [
+      "ADHD Ease"
+    ],
+    "shankhpushpi": [
+      "ADHD Ease"
+    ],
+    "tagara": [
+      "Natural Sleep Aid",
+      "ADHD Ease"
+    ],
+    "vacha": [
+      "ADHD Ease"
+    ],
+    "gudmar": [
+      "Sugar Formula"
+    ],
+    "isabgol": [
+      "Bowel Kare"
+    ],
+    "jamun": [
+      "Sugar Formula"
+    ],
+    "karela": [
+      "Sugar Formula"
+    ],
+    "methi": [
+      "Sugar Formula"
+    ],
+    "vijaysar": [
+      "Sugar Formula"
+    ],
+    "pippali": [
+      "Chyawanprash Avaleha"
+    ],
+    "yashtimadhu": [
+      "Immuno Plus",
+      "Yastimadhu"
+    ],
+    "avipattikar-herbs": [
+      "Acid Relief"
+    ],
+    "bhringraj": [
+      "Grow and Glow Hair Oil"
+    ],
+    "camphor": [
+      "Nitya Naturals Balm"
+    ],
+    "menthol": [
+      "Nitya Naturals Balm"
+    ],
+    "haritaki": [
+      "Acid Relief",
+      "Bowel Kare"
+    ],
+    "kalmegh": [
+      "Immuno Plus"
+    ],
+    "triphala-herbs": [
+      "Bowel Kare"
+    ],
+    "amla": [
+      "Immuno Plus",
+      "Acid Relief",
+      "Chyawanprash Avaleha",
+      "Chyawan Cap",
+      "Grow and Glow Hair Oil",
+      "Nutrijam"
+    ],
+    "ashwagandha": [
+      "Ashwagandha",
+      "Immuno Plus",
+      "Chyawanprash Avaleha",
+      "Natural Sleep Aid",
+      "ADHD Ease"
+    ],
+    "shatavari": [
+      "Chyawanprash Avaleha"
+    ],
+    "eucalyptus": [
+      "Nasja Oil",
+      "Nitya Naturals Balm"
+    ],
+    "tulsi": [
+      "Immuno Plus"
+    ],
+    "curcumin": [
+      "Haridra"
+    ],
+    "neem": [
+      "Sugar Formula"
+    ],
+    "turmeric": [
+      "Immuno Plus",
+      "Haridra"
+    ],
+    "chyawanprash-extract": [
+      "Chyawan Cap"
+    ],
+    "chyawanprash-herbs": [
+      "Nutrijam"
+    ],
+    "coconut-oil": [
+      "Grow and Glow Hair Oil"
+    ],
+    "sesame-oil": [
+      "Nasja Oil"
+    ]
+  },
+  "glossaryPages": [
+    {
+      "slug": "compounds-1-a",
+      "title": "Phytochemical compounds",
+      "range": "1-A",
+      "part": 1,
+      "partCount": 9,
+      "entryCount": 73,
+      "url": "/ayurveda-atlas/glossary/compounds-1-a/"
+    },
+    {
+      "slug": "compounds-a-c",
+      "title": "Phytochemical compounds",
+      "range": "A-C",
+      "part": 2,
+      "partCount": 9,
+      "entryCount": 73,
+      "url": "/ayurveda-atlas/glossary/compounds-a-c/"
+    },
+    {
+      "slug": "compounds-c-d",
+      "title": "Phytochemical compounds",
+      "range": "C-D",
+      "part": 3,
+      "partCount": 9,
+      "entryCount": 73,
+      "url": "/ayurveda-atlas/glossary/compounds-c-d/"
+    },
+    {
+      "slug": "compounds-d-g",
+      "title": "Phytochemical compounds",
+      "range": "D-G",
+      "part": 4,
+      "partCount": 9,
+      "entryCount": 73,
+      "url": "/ayurveda-atlas/glossary/compounds-d-g/"
+    },
+    {
+      "slug": "compounds-g-l",
+      "title": "Phytochemical compounds",
+      "range": "G-L",
+      "part": 5,
+      "partCount": 9,
+      "entryCount": 73,
+      "url": "/ayurveda-atlas/glossary/compounds-g-l/"
+    },
+    {
+      "slug": "compounds-l-o",
+      "title": "Phytochemical compounds",
+      "range": "L-O",
+      "part": 6,
+      "partCount": 9,
+      "entryCount": 73,
+      "url": "/ayurveda-atlas/glossary/compounds-l-o/"
+    },
+    {
+      "slug": "compounds-o-q",
+      "title": "Phytochemical compounds",
+      "range": "O-Q",
+      "part": 7,
+      "partCount": 9,
+      "entryCount": 73,
+      "url": "/ayurveda-atlas/glossary/compounds-o-q/"
+    },
+    {
+      "slug": "compounds-q-t",
+      "title": "Phytochemical compounds",
+      "range": "Q-T",
+      "part": 8,
+      "partCount": 9,
+      "entryCount": 73,
+      "url": "/ayurveda-atlas/glossary/compounds-q-t/"
+    },
+    {
+      "slug": "compounds-t-z",
+      "title": "Phytochemical compounds",
+      "range": "T-Z",
+      "part": 9,
+      "partCount": 9,
+      "entryCount": 65,
+      "url": "/ayurveda-atlas/glossary/compounds-t-z/"
+    },
+    {
+      "slug": "pharmacology",
+      "title": "Pharmacology terms",
+      "range": "A-V",
+      "part": 1,
+      "partCount": 1,
+      "entryCount": 10,
+      "url": "/ayurveda-atlas/glossary/pharmacology/"
+    },
+    {
+      "slug": "plant-families",
+      "title": "Plant families",
+      "range": "F",
+      "part": 1,
+      "partCount": 1,
+      "entryCount": 34,
+      "url": "/ayurveda-atlas/glossary/plant-families/"
+    },
+    {
+      "slug": "body-systems",
+      "title": "Body systems and doshas",
+      "range": "H",
+      "part": 1,
+      "partCount": 1,
+      "entryCount": 1,
+      "url": "/ayurveda-atlas/glossary/body-systems/"
+    },
+    {
+      "slug": "concepts-a-m",
+      "title": "Ayurvedic concepts",
+      "range": "A-M",
+      "part": 1,
+      "partCount": 2,
+      "entryCount": 62,
+      "url": "/ayurveda-atlas/glossary/concepts-a-m/"
+    },
+    {
+      "slug": "concepts-m-y",
+      "title": "Ayurvedic concepts",
+      "range": "M-Y",
+      "part": 2,
+      "partCount": 2,
+      "entryCount": 62,
+      "url": "/ayurveda-atlas/glossary/concepts-m-y/"
+    }
+  ],
+  "pages": [
+    {
+      "slug": "ashtanga-hridaya",
+      "kind": "text",
+      "title": "Ashtanga Hridaya",
+      "url": "/ayurveda-atlas/text/ashtanga-hridaya/"
+    },
+    {
+      "slug": "sharangadhara-samhita",
+      "kind": "text",
+      "title": "Sharangadhara Samhita",
+      "url": "/ayurveda-atlas/text/sharangadhara-samhita/"
+    },
+    {
+      "slug": "abhayarishta",
+      "kind": "formulation",
+      "title": "Abhayarishta",
+      "url": "/ayurveda-atlas/formulation/abhayarishta/"
+    },
+    {
+      "slug": "amritarishta",
+      "kind": "formulation",
+      "title": "Amritarishta",
+      "url": "/ayurveda-atlas/formulation/amritarishta/"
+    },
+    {
+      "slug": "aravindasava",
+      "kind": "formulation",
+      "title": "Aravindasava",
+      "url": "/ayurveda-atlas/formulation/aravindasava/"
+    },
+    {
+      "slug": "arishtaka",
+      "kind": "formulation",
+      "title": "Arishtaka",
+      "url": "/ayurveda-atlas/formulation/arishtaka/"
+    },
+    {
+      "slug": "arjunarishta",
+      "kind": "formulation",
+      "title": "Arjunarishta",
+      "url": "/ayurveda-atlas/formulation/arjunarishta/"
+    },
+    {
+      "slug": "ashokarishta",
+      "kind": "formulation",
+      "title": "Ashokarishta",
+      "url": "/ayurveda-atlas/formulation/ashokarishta/"
+    },
+    {
+      "slug": "ashwagandharishta",
+      "kind": "formulation",
+      "title": "Ashwagandharishta",
+      "url": "/ayurveda-atlas/formulation/ashwagandharishta/"
+    },
+    {
+      "slug": "balarishta",
+      "kind": "formulation",
+      "title": "Balarishta",
+      "url": "/ayurveda-atlas/formulation/balarishta/"
+    },
+    {
+      "slug": "dashamularishta",
+      "kind": "formulation",
+      "title": "Dashamularishta",
+      "url": "/ayurveda-atlas/formulation/dashamularishta/"
+    },
+    {
+      "slug": "dashmool-dashmoolarishta",
+      "kind": "formulation",
+      "title": "Dashmool Dashmoolarishta",
+      "url": "/ayurveda-atlas/formulation/dashmool-dashmoolarishta/"
+    },
+    {
+      "slug": "draksharishta",
+      "kind": "formulation",
+      "title": "Draksharishta",
+      "url": "/ayurveda-atlas/formulation/draksharishta/"
+    },
+    {
+      "slug": "jeerakarishtam",
+      "kind": "formulation",
+      "title": "Jeerakarishtam",
+      "url": "/ayurveda-atlas/formulation/jeerakarishtam/"
+    },
+    {
+      "slug": "kumaryasava",
+      "kind": "formulation",
+      "title": "Kumaryasava",
+      "url": "/ayurveda-atlas/formulation/kumaryasava/"
+    },
+    {
+      "slug": "kutajarishta",
+      "kind": "formulation",
+      "title": "Kutajarishta",
+      "url": "/ayurveda-atlas/formulation/kutajarishta/"
+    },
+    {
+      "slug": "mustakarishta",
+      "kind": "formulation",
+      "title": "Mustakarishta",
+      "url": "/ayurveda-atlas/formulation/mustakarishta/"
+    },
+    {
+      "slug": "patrangasava",
+      "kind": "formulation",
+      "title": "Patrangasava",
+      "url": "/ayurveda-atlas/formulation/patrangasava/"
+    },
+    {
+      "slug": "pippalyasava",
+      "kind": "formulation",
+      "title": "Pippalyasava",
+      "url": "/ayurveda-atlas/formulation/pippalyasava/"
+    },
+    {
+      "slug": "punarnavasava",
+      "kind": "formulation",
+      "title": "Punarnavasava",
+      "url": "/ayurveda-atlas/formulation/punarnavasava/"
+    },
+    {
+      "slug": "rohitakarishta",
+      "kind": "formulation",
+      "title": "Rohitakarishta",
+      "url": "/ayurveda-atlas/formulation/rohitakarishta/"
+    },
+    {
+      "slug": "saraswatarishta",
+      "kind": "formulation",
+      "title": "Saraswatarishta",
+      "url": "/ayurveda-atlas/formulation/saraswatarishta/"
+    },
+    {
+      "slug": "sarivadyasava",
+      "kind": "formulation",
+      "title": "Sarivadyasava",
+      "url": "/ayurveda-atlas/formulation/sarivadyasava/"
+    },
+    {
+      "slug": "srikhandasava",
+      "kind": "formulation",
+      "title": "Srikhandasava",
+      "url": "/ayurveda-atlas/formulation/srikhandasava/"
+    },
+    {
+      "slug": "vidangarishta",
+      "kind": "formulation",
+      "title": "Vidangarishta",
+      "url": "/ayurveda-atlas/formulation/vidangarishta/"
+    },
+    {
+      "slug": "ajamoda-arka",
+      "kind": "formulation",
+      "title": "Ajamoda Arka",
+      "url": "/ayurveda-atlas/formulation/ajamoda-arka/"
+    },
+    {
+      "slug": "ajamodadi-churna",
+      "kind": "formulation",
+      "title": "Ajamodadi Churna",
+      "url": "/ayurveda-atlas/formulation/ajamodadi-churna/"
+    },
+    {
+      "slug": "avipattikar-churna",
+      "kind": "formulation",
+      "title": "Avipattikar Churna",
+      "url": "/ayurveda-atlas/formulation/avipattikar-churna/"
+    },
+    {
+      "slug": "caturjata-churna",
+      "kind": "formulation",
+      "title": "Caturjata Churna",
+      "url": "/ayurveda-atlas/formulation/caturjata-churna/"
+    },
+    {
+      "slug": "dadimashtaka-churna",
+      "kind": "formulation",
+      "title": "Dadimashtaka Churna",
+      "url": "/ayurveda-atlas/formulation/dadimashtaka-churna/"
+    },
+    {
+      "slug": "dhatupaushtik-churna",
+      "kind": "formulation",
+      "title": "Dhatupaushtik Churna",
+      "url": "/ayurveda-atlas/formulation/dhatupaushtik-churna/"
+    },
+    {
+      "slug": "gangadhara-churna",
+      "kind": "formulation",
+      "title": "Gangadhara Churna",
+      "url": "/ayurveda-atlas/formulation/gangadhara-churna/"
+    },
+    {
+      "slug": "hinguvachadi-churna",
+      "kind": "formulation",
+      "title": "Hinguvachadi Churna",
+      "url": "/ayurveda-atlas/formulation/hinguvachadi-churna/"
+    },
+    {
+      "slug": "hingvashtak-churna",
+      "kind": "formulation",
+      "title": "Hingvashtak Churna",
+      "url": "/ayurveda-atlas/formulation/hingvashtak-churna/"
+    },
+    {
+      "slug": "hingwashtak-churna",
+      "kind": "formulation",
+      "title": "Hingwashtak Churna",
+      "url": "/ayurveda-atlas/formulation/hingwashtak-churna/"
+    },
+    {
+      "slug": "mahasudarshan-churna",
+      "kind": "formulation",
+      "title": "Mahasudarshan Churna",
+      "url": "/ayurveda-atlas/formulation/mahasudarshan-churna/"
+    },
+    {
+      "slug": "panchakola-churna",
+      "kind": "formulation",
+      "title": "Panchakola Churna",
+      "url": "/ayurveda-atlas/formulation/panchakola-churna/"
+    },
+    {
+      "slug": "pushyanuga-churna",
+      "kind": "formulation",
+      "title": "Pushyanuga Churna",
+      "url": "/ayurveda-atlas/formulation/pushyanuga-churna/"
+    },
+    {
+      "slug": "sitopaladi-churna",
+      "kind": "formulation",
+      "title": "Sitopaladi Churna",
+      "url": "/ayurveda-atlas/formulation/sitopaladi-churna/"
+    },
+    {
+      "slug": "sudarshan-churna",
+      "kind": "formulation",
+      "title": "Sudarshan Churna",
+      "url": "/ayurveda-atlas/formulation/sudarshan-churna/"
+    },
+    {
+      "slug": "talisadi-churna",
+      "kind": "formulation",
+      "title": "Talisadi Churna",
+      "url": "/ayurveda-atlas/formulation/talisadi-churna/"
+    },
+    {
+      "slug": "trikatu-churna",
+      "kind": "formulation",
+      "title": "Trikatu Churna",
+      "url": "/ayurveda-atlas/formulation/trikatu-churna/"
+    },
+    {
+      "slug": "triphala-churna",
+      "kind": "formulation",
+      "title": "Triphala Churna",
+      "url": "/ayurveda-atlas/formulation/triphala-churna/"
+    },
+    {
+      "slug": "amrita-ghrita",
+      "kind": "formulation",
+      "title": "Amrita Ghrita",
+      "url": "/ayurveda-atlas/formulation/amrita-ghrita/"
+    },
+    {
+      "slug": "amritaprasha-ghrita",
+      "kind": "formulation",
+      "title": "Amritaprasha Ghrita",
+      "url": "/ayurveda-atlas/formulation/amritaprasha-ghrita/"
+    },
+    {
+      "slug": "ashoka-ghrita",
+      "kind": "formulation",
+      "title": "Ashoka Ghrita",
+      "url": "/ayurveda-atlas/formulation/ashoka-ghrita/"
+    },
+    {
+      "slug": "brahmi-ghritam",
+      "kind": "formulation",
+      "title": "Brahmi Ghritam",
+      "url": "/ayurveda-atlas/formulation/brahmi-ghritam/"
+    },
+    {
+      "slug": "changeri-ghrita",
+      "kind": "formulation",
+      "title": "Changeri Ghrita",
+      "url": "/ayurveda-atlas/formulation/changeri-ghrita/"
+    },
+    {
+      "slug": "dadimadi-ghrita",
+      "kind": "formulation",
+      "title": "Dadimadi Ghrita",
+      "url": "/ayurveda-atlas/formulation/dadimadi-ghrita/"
+    },
+    {
+      "slug": "guggulutiktakam-ghritam",
+      "kind": "formulation",
+      "title": "Guggulutiktakam Ghritam",
+      "url": "/ayurveda-atlas/formulation/guggulutiktakam-ghritam/"
+    },
+    {
+      "slug": "indukantham-ghritam",
+      "kind": "formulation",
+      "title": "Indukantham Ghritam",
+      "url": "/ayurveda-atlas/formulation/indukantham-ghritam/"
+    },
+    {
+      "slug": "jatyadi-ghrita",
+      "kind": "formulation",
+      "title": "Jatyadi Ghrita",
+      "url": "/ayurveda-atlas/formulation/jatyadi-ghrita/"
+    },
+    {
+      "slug": "kalyanaka-ghrita",
+      "kind": "formulation",
+      "title": "Kalyanaka Ghrita",
+      "url": "/ayurveda-atlas/formulation/kalyanaka-ghrita/"
+    },
+    {
+      "slug": "kalyanaka-ghritam",
+      "kind": "formulation",
+      "title": "Kalyanaka Ghritam",
+      "url": "/ayurveda-atlas/formulation/kalyanaka-ghritam/"
+    },
+    {
+      "slug": "panchagavya-ghrita",
+      "kind": "formulation",
+      "title": "Panchagavya Ghrita",
+      "url": "/ayurveda-atlas/formulation/panchagavya-ghrita/"
+    },
+    {
+      "slug": "panchatikta-ghrita",
+      "kind": "formulation",
+      "title": "Panchatikta Ghrita",
+      "url": "/ayurveda-atlas/formulation/panchatikta-ghrita/"
+    },
+    {
+      "slug": "phala-ghrita",
+      "kind": "formulation",
+      "title": "Phala Ghrita",
+      "url": "/ayurveda-atlas/formulation/phala-ghrita/"
+    },
+    {
+      "slug": "sukumaram-ghritam",
+      "kind": "formulation",
+      "title": "Sukumaram Ghritam",
+      "url": "/ayurveda-atlas/formulation/sukumaram-ghritam/"
+    },
+    {
+      "slug": "varanadi-ghritam",
+      "kind": "formulation",
+      "title": "Varanadi Ghritam",
+      "url": "/ayurveda-atlas/formulation/varanadi-ghritam/"
+    },
+    {
+      "slug": "vidaryadi-ghrita",
+      "kind": "formulation",
+      "title": "Vidaryadi Ghrita",
+      "url": "/ayurveda-atlas/formulation/vidaryadi-ghrita/"
+    },
+    {
+      "slug": "gokshuradi-guggulu",
+      "kind": "formulation",
+      "title": "Gokshuradi Guggulu",
+      "url": "/ayurveda-atlas/formulation/gokshuradi-guggulu/"
+    },
+    {
+      "slug": "guggulu",
+      "kind": "formulation",
+      "title": "Guggulu",
+      "url": "/ayurveda-atlas/formulation/guggulu/"
+    },
+    {
+      "slug": "guggulu-herb",
+      "kind": "formulation",
+      "title": "Guggulu Herb",
+      "url": "/ayurveda-atlas/formulation/guggulu-herb/"
+    },
+    {
+      "slug": "kaishore-guggul",
+      "kind": "formulation",
+      "title": "Kaishore Guggul",
+      "url": "/ayurveda-atlas/formulation/kaishore-guggul/"
+    },
+    {
+      "slug": "kanchanara-guggulu",
+      "kind": "formulation",
+      "title": "Kanchanara Guggulu",
+      "url": "/ayurveda-atlas/formulation/kanchanara-guggulu/"
+    },
+    {
+      "slug": "mahayograj-guggul",
+      "kind": "formulation",
+      "title": "Mahayograj Guggul",
+      "url": "/ayurveda-atlas/formulation/mahayograj-guggul/"
+    },
+    {
+      "slug": "punarnavadi-guggulu",
+      "kind": "formulation",
+      "title": "Punarnavadi Guggulu",
+      "url": "/ayurveda-atlas/formulation/punarnavadi-guggulu/"
+    },
+    {
+      "slug": "simhanada-guggulu",
+      "kind": "formulation",
+      "title": "Simhanada Guggulu",
+      "url": "/ayurveda-atlas/formulation/simhanada-guggulu/"
+    },
+    {
+      "slug": "triphala-guggulu",
+      "kind": "formulation",
+      "title": "Triphala Guggulu",
+      "url": "/ayurveda-atlas/formulation/triphala-guggulu/"
+    },
+    {
+      "slug": "vyoshadi-guggulu",
+      "kind": "formulation",
+      "title": "Vyoshadi Guggulu",
+      "url": "/ayurveda-atlas/formulation/vyoshadi-guggulu/"
+    },
+    {
+      "slug": "yogaraja-guggulu",
+      "kind": "formulation",
+      "title": "Yogaraja Guggulu",
+      "url": "/ayurveda-atlas/formulation/yogaraja-guggulu/"
+    },
+    {
+      "slug": "amritottaram-kashayam",
+      "kind": "formulation",
+      "title": "Amritottaram Kashayam",
+      "url": "/ayurveda-atlas/formulation/amritottaram-kashayam/"
+    },
+    {
+      "slug": "aragvadhadi-kwath",
+      "kind": "formulation",
+      "title": "Aragvadhadi Kwath",
+      "url": "/ayurveda-atlas/formulation/aragvadhadi-kwath/"
+    },
+    {
+      "slug": "asanadi-kwath",
+      "kind": "formulation",
+      "title": "Asanadi Kwath",
+      "url": "/ayurveda-atlas/formulation/asanadi-kwath/"
+    },
+    {
+      "slug": "brihatyadi-kashayam",
+      "kind": "formulation",
+      "title": "Brihatyadi Kashayam",
+      "url": "/ayurveda-atlas/formulation/brihatyadi-kashayam/"
+    },
+    {
+      "slug": "dashamoola-katutraya-kashayam",
+      "kind": "formulation",
+      "title": "Dashamoola Katutraya Kashayam",
+      "url": "/ayurveda-atlas/formulation/dashamoola-katutraya-kashayam/"
+    },
+    {
+      "slug": "dashamula",
+      "kind": "formulation",
+      "title": "Dashamula",
+      "url": "/ayurveda-atlas/formulation/dashamula/"
+    },
+    {
+      "slug": "dhanwantaram-kashayam",
+      "kind": "formulation",
+      "title": "Dhanwantaram Kashayam",
+      "url": "/ayurveda-atlas/formulation/dhanwantaram-kashayam/"
+    },
+    {
+      "slug": "drakshadi-kashayam",
+      "kind": "formulation",
+      "title": "Drakshadi Kashayam",
+      "url": "/ayurveda-atlas/formulation/drakshadi-kashayam/"
+    },
+    {
+      "slug": "elakanadi-kashayam",
+      "kind": "formulation",
+      "title": "Elakanadi Kashayam",
+      "url": "/ayurveda-atlas/formulation/elakanadi-kashayam/"
+    },
+    {
+      "slug": "gandharvahastadi-kashayam",
+      "kind": "formulation",
+      "title": "Gandharvahastadi Kashayam",
+      "url": "/ayurveda-atlas/formulation/gandharvahastadi-kashayam/"
+    },
+    {
+      "slug": "guloochyadi-kashayam",
+      "kind": "formulation",
+      "title": "Guloochyadi Kashayam",
+      "url": "/ayurveda-atlas/formulation/guloochyadi-kashayam/"
+    },
+    {
+      "slug": "kulathadi-kwath",
+      "kind": "formulation",
+      "title": "Kulathadi Kwath",
+      "url": "/ayurveda-atlas/formulation/kulathadi-kwath/"
+    },
+    {
+      "slug": "rasnasaptakam-kashayam",
+      "kind": "formulation",
+      "title": "Rasnasaptakam Kashayam",
+      "url": "/ayurveda-atlas/formulation/rasnasaptakam-kashayam/"
+    },
+    {
+      "slug": "sukumara-kashayam",
+      "kind": "formulation",
+      "title": "Sukumara Kashayam",
+      "url": "/ayurveda-atlas/formulation/sukumara-kashayam/"
+    },
+    {
+      "slug": "varunadi-kashayam",
+      "kind": "formulation",
+      "title": "Varunadi Kashayam",
+      "url": "/ayurveda-atlas/formulation/varunadi-kashayam/"
+    },
+    {
+      "slug": "avaleha",
+      "kind": "formulation",
+      "title": "Avaleha",
+      "url": "/ayurveda-atlas/formulation/avaleha/"
+    },
+    {
+      "slug": "bilwadi-leha",
+      "kind": "formulation",
+      "title": "Bilwadi Leha",
+      "url": "/ayurveda-atlas/formulation/bilwadi-leha/"
+    },
+    {
+      "slug": "chyawanprash",
+      "kind": "formulation",
+      "title": "Chyawanprash",
+      "url": "/ayurveda-atlas/formulation/chyawanprash/"
+    },
+    {
+      "slug": "gulakanda",
+      "kind": "formulation",
+      "title": "Gulakanda",
+      "url": "/ayurveda-atlas/formulation/gulakanda/"
+    },
+    {
+      "slug": "haridra-khanda",
+      "kind": "formulation",
+      "title": "Haridra Khanda",
+      "url": "/ayurveda-atlas/formulation/haridra-khanda/"
+    },
+    {
+      "slug": "pippali-khanda",
+      "kind": "formulation",
+      "title": "Pippali Khanda",
+      "url": "/ayurveda-atlas/formulation/pippali-khanda/"
+    },
+    {
+      "slug": "vasa-avaleha",
+      "kind": "formulation",
+      "title": "Vasa Avaleha",
+      "url": "/ayurveda-atlas/formulation/vasa-avaleha/"
+    },
+    {
+      "slug": "agastya-haritaki-rasayana",
+      "kind": "formulation",
+      "title": "Agastya Haritaki Rasayana",
+      "url": "/ayurveda-atlas/formulation/agastya-haritaki-rasayana/"
+    },
+    {
+      "slug": "amalaka-rasayana",
+      "kind": "formulation",
+      "title": "Amalaka Rasayana",
+      "url": "/ayurveda-atlas/formulation/amalaka-rasayana/"
+    },
+    {
+      "slug": "amalaki-rasayana",
+      "kind": "formulation",
+      "title": "Amalaki Rasayana",
+      "url": "/ayurveda-atlas/formulation/amalaki-rasayana/"
+    },
+    {
+      "slug": "brahma-rasayana",
+      "kind": "formulation",
+      "title": "Brahma Rasayana",
+      "url": "/ayurveda-atlas/formulation/brahma-rasayana/"
+    },
+    {
+      "slug": "madhusnuhi-rasayana",
+      "kind": "formulation",
+      "title": "Madhusnuhi Rasayana",
+      "url": "/ayurveda-atlas/formulation/madhusnuhi-rasayana/"
+    },
+    {
+      "slug": "ardraka-svarasa",
+      "kind": "formulation",
+      "title": "Ardraka Svarasa",
+      "url": "/ayurveda-atlas/formulation/ardraka-svarasa/"
+    },
+    {
+      "slug": "bhringaraja-svarasa",
+      "kind": "formulation",
+      "title": "Bhringaraja Svarasa",
+      "url": "/ayurveda-atlas/formulation/bhringaraja-svarasa/"
+    },
+    {
+      "slug": "anu-taila",
+      "kind": "formulation",
+      "title": "Anu Taila",
+      "url": "/ayurveda-atlas/formulation/anu-taila/"
+    },
+    {
+      "slug": "badama-taila",
+      "kind": "formulation",
+      "title": "Badama Taila",
+      "url": "/ayurveda-atlas/formulation/badama-taila/"
+    },
+    {
+      "slug": "bakuchi-taila",
+      "kind": "formulation",
+      "title": "Bakuchi Taila",
+      "url": "/ayurveda-atlas/formulation/bakuchi-taila/"
+    },
+    {
+      "slug": "balaswagandhadi-thailam",
+      "kind": "formulation",
+      "title": "Balaswagandhadi Thailam",
+      "url": "/ayurveda-atlas/formulation/balaswagandhadi-thailam/"
+    },
+    {
+      "slug": "bhallataka-taila",
+      "kind": "formulation",
+      "title": "Bhallataka Taila",
+      "url": "/ayurveda-atlas/formulation/bhallataka-taila/"
+    },
+    {
+      "slug": "coconut-oil-narikela-taila",
+      "kind": "formulation",
+      "title": "Coconut Oil Narikela Taila",
+      "url": "/ayurveda-atlas/formulation/coconut-oil-narikela-taila/"
+    },
+    {
+      "slug": "dhanwantaram-thailam",
+      "kind": "formulation",
+      "title": "Dhanwantaram Thailam",
+      "url": "/ayurveda-atlas/formulation/dhanwantaram-thailam/"
+    },
+    {
+      "slug": "eladi-thailam",
+      "kind": "formulation",
+      "title": "Eladi Thailam",
+      "url": "/ayurveda-atlas/formulation/eladi-thailam/"
+    },
+    {
+      "slug": "eranda-taila",
+      "kind": "formulation",
+      "title": "Eranda Taila",
+      "url": "/ayurveda-atlas/formulation/eranda-taila/"
+    },
+    {
+      "slug": "himasagara-thailam",
+      "kind": "formulation",
+      "title": "Himasagara Thailam",
+      "url": "/ayurveda-atlas/formulation/himasagara-thailam/"
+    },
+    {
+      "slug": "irimedadi-taila",
+      "kind": "formulation",
+      "title": "Irimedadi Taila",
+      "url": "/ayurveda-atlas/formulation/irimedadi-taila/"
+    },
+    {
+      "slug": "jatyadi-taila",
+      "kind": "formulation",
+      "title": "Jatyadi Taila",
+      "url": "/ayurveda-atlas/formulation/jatyadi-taila/"
+    },
+    {
+      "slug": "kapha-shirodhara-taila",
+      "kind": "formulation",
+      "title": "Kapha Shirodhara Taila",
+      "url": "/ayurveda-atlas/formulation/kapha-shirodhara-taila/"
+    },
+    {
+      "slug": "karanja-taila",
+      "kind": "formulation",
+      "title": "Karanja Taila",
+      "url": "/ayurveda-atlas/formulation/karanja-taila/"
+    },
+    {
+      "slug": "karpas-asthyadi-thailam",
+      "kind": "formulation",
+      "title": "Karpas Asthyadi Thailam",
+      "url": "/ayurveda-atlas/formulation/karpas-asthyadi-thailam/"
+    },
+    {
+      "slug": "karpasasthyadi-thailam",
+      "kind": "formulation",
+      "title": "Karpasasthyadi Thailam",
+      "url": "/ayurveda-atlas/formulation/karpasasthyadi-thailam/"
+    },
+    {
+      "slug": "karpooradi-thailam",
+      "kind": "formulation",
+      "title": "Karpooradi Thailam",
+      "url": "/ayurveda-atlas/formulation/karpooradi-thailam/"
+    },
+    {
+      "slug": "kottamchukkadi-thailam",
+      "kind": "formulation",
+      "title": "Kottamchukkadi Thailam",
+      "url": "/ayurveda-atlas/formulation/kottamchukkadi-thailam/"
+    },
+    {
+      "slug": "kshirabala-thailam",
+      "kind": "formulation",
+      "title": "Kshirabala Thailam",
+      "url": "/ayurveda-atlas/formulation/kshirabala-thailam/"
+    },
+    {
+      "slug": "kumkumadi-tailam",
+      "kind": "formulation",
+      "title": "Kumkumadi Tailam",
+      "url": "/ayurveda-atlas/formulation/kumkumadi-tailam/"
+    },
+    {
+      "slug": "kumkumadi-thailam",
+      "kind": "formulation",
+      "title": "Kumkumadi Thailam",
+      "url": "/ayurveda-atlas/formulation/kumkumadi-thailam/"
+    },
+    {
+      "slug": "kuntalakanti-tailam",
+      "kind": "formulation",
+      "title": "Kuntalakanti Tailam",
+      "url": "/ayurveda-atlas/formulation/kuntalakanti-tailam/"
+    },
+    {
+      "slug": "lakshadi-thailam",
+      "kind": "formulation",
+      "title": "Lakshadi Thailam",
+      "url": "/ayurveda-atlas/formulation/lakshadi-thailam/"
+    },
+    {
+      "slug": "maha-narayana-thailam",
+      "kind": "formulation",
+      "title": "Maha Narayana Thailam",
+      "url": "/ayurveda-atlas/formulation/maha-narayana-thailam/"
+    },
+    {
+      "slug": "murivenna",
+      "kind": "formulation",
+      "title": "Murivenna",
+      "url": "/ayurveda-atlas/formulation/murivenna/"
+    },
+    {
+      "slug": "narayana-thailam",
+      "kind": "formulation",
+      "title": "Narayana Thailam",
+      "url": "/ayurveda-atlas/formulation/narayana-thailam/"
+    },
+    {
+      "slug": "neelibringadi-thailam",
+      "kind": "formulation",
+      "title": "Neelibringadi Thailam",
+      "url": "/ayurveda-atlas/formulation/neelibringadi-thailam/"
+    },
+    {
+      "slug": "pinda-thailam",
+      "kind": "formulation",
+      "title": "Pinda Thailam",
+      "url": "/ayurveda-atlas/formulation/pinda-thailam/"
+    },
+    {
+      "slug": "pitta-shirodhara-taila",
+      "kind": "formulation",
+      "title": "Pitta Shirodhara Taila",
+      "url": "/ayurveda-atlas/formulation/pitta-shirodhara-taila/"
+    },
+    {
+      "slug": "sahacharadi-thailam",
+      "kind": "formulation",
+      "title": "Sahacharadi Thailam",
+      "url": "/ayurveda-atlas/formulation/sahacharadi-thailam/"
+    },
+    {
+      "slug": "shadbindu-taila",
+      "kind": "formulation",
+      "title": "Shadbindu Taila",
+      "url": "/ayurveda-atlas/formulation/shadbindu-taila/"
+    },
+    {
+      "slug": "triphaladi-thailam",
+      "kind": "formulation",
+      "title": "Triphaladi Thailam",
+      "url": "/ayurveda-atlas/formulation/triphaladi-thailam/"
+    },
+    {
+      "slug": "vata-shirodhara-taila",
+      "kind": "formulation",
+      "title": "Vata Shirodhara Taila",
+      "url": "/ayurveda-atlas/formulation/vata-shirodhara-taila/"
+    },
+    {
+      "slug": "agnitundi-vati",
+      "kind": "formulation",
+      "title": "Agnitundi Vati",
+      "url": "/ayurveda-atlas/formulation/agnitundi-vati/"
+    },
+    {
+      "slug": "arogyavardhini-vati",
+      "kind": "formulation",
+      "title": "Arogyavardhini Vati",
+      "url": "/ayurveda-atlas/formulation/arogyavardhini-vati/"
+    },
+    {
+      "slug": "brahmi-vati",
+      "kind": "formulation",
+      "title": "Brahmi Vati",
+      "url": "/ayurveda-atlas/formulation/brahmi-vati/"
+    },
+    {
+      "slug": "chandraprabha-vati",
+      "kind": "formulation",
+      "title": "Chandraprabha Vati",
+      "url": "/ayurveda-atlas/formulation/chandraprabha-vati/"
+    },
+    {
+      "slug": "chitrakadi-vati",
+      "kind": "formulation",
+      "title": "Chitrakadi Vati",
+      "url": "/ayurveda-atlas/formulation/chitrakadi-vati/"
+    },
+    {
+      "slug": "dhanwantaram-gutika",
+      "kind": "formulation",
+      "title": "Dhanwantaram Gutika",
+      "url": "/ayurveda-atlas/formulation/dhanwantaram-gutika/"
+    },
+    {
+      "slug": "eladi-vati",
+      "kind": "formulation",
+      "title": "Eladi Vati",
+      "url": "/ayurveda-atlas/formulation/eladi-vati/"
+    },
+    {
+      "slug": "kanthasudharak-vati",
+      "kind": "formulation",
+      "title": "Kanthasudharak Vati",
+      "url": "/ayurveda-atlas/formulation/kanthasudharak-vati/"
+    },
+    {
+      "slug": "khadiradi-vati",
+      "kind": "formulation",
+      "title": "Khadiradi Vati",
+      "url": "/ayurveda-atlas/formulation/khadiradi-vati/"
+    },
+    {
+      "slug": "krimighna-vati",
+      "kind": "formulation",
+      "title": "Krimighna Vati",
+      "url": "/ayurveda-atlas/formulation/krimighna-vati/"
+    },
+    {
+      "slug": "lavangadi-vati",
+      "kind": "formulation",
+      "title": "Lavangadi Vati",
+      "url": "/ayurveda-atlas/formulation/lavangadi-vati/"
+    },
+    {
+      "slug": "sanjivani-vati",
+      "kind": "formulation",
+      "title": "Sanjivani Vati",
+      "url": "/ayurveda-atlas/formulation/sanjivani-vati/"
+    },
+    {
+      "slug": "agnimantha",
+      "kind": "herb",
+      "title": "Agnimantha",
+      "url": "/ayurveda-atlas/herb/agnimantha/"
+    },
+    {
+      "slug": "kembuka",
+      "kind": "herb",
+      "title": "Kembuka",
+      "url": "/ayurveda-atlas/herb/kembuka/"
+    },
+    {
+      "slug": "ahiphena",
+      "kind": "herb",
+      "title": "Ahiphena",
+      "url": "/ayurveda-atlas/herb/ahiphena/"
+    },
+    {
+      "slug": "bhanga",
+      "kind": "herb",
+      "title": "Bhanga",
+      "url": "/ayurveda-atlas/herb/bhanga/"
+    },
+    {
+      "slug": "bhutakeshi",
+      "kind": "herb",
+      "title": "Bhutakeshi",
+      "url": "/ayurveda-atlas/herb/bhutakeshi/"
+    },
+    {
+      "slug": "brahmi",
+      "kind": "herb",
+      "title": "Brahmi",
+      "url": "/ayurveda-atlas/herb/brahmi/"
+    },
+    {
+      "slug": "jatamansi",
+      "kind": "herb",
+      "title": "Jatamansi",
+      "url": "/ayurveda-atlas/herb/jatamansi/"
+    },
+    {
+      "slug": "jyotishmati",
+      "kind": "herb",
+      "title": "Jyotishmati",
+      "url": "/ayurveda-atlas/herb/jyotishmati/"
+    },
+    {
+      "slug": "kapikachhu",
+      "kind": "herb",
+      "title": "Kapikachhu",
+      "url": "/ayurveda-atlas/herb/kapikachhu/"
+    },
+    {
+      "slug": "mandukparni",
+      "kind": "herb",
+      "title": "Mandukparni",
+      "url": "/ayurveda-atlas/herb/mandukparni/"
+    },
+    {
+      "slug": "matsyakshi",
+      "kind": "herb",
+      "title": "Matsyakshi",
+      "url": "/ayurveda-atlas/herb/matsyakshi/"
+    },
+    {
+      "slug": "rudraksha",
+      "kind": "herb",
+      "title": "Rudraksha",
+      "url": "/ayurveda-atlas/herb/rudraksha/"
+    },
+    {
+      "slug": "shankhini",
+      "kind": "herb",
+      "title": "Shankhini",
+      "url": "/ayurveda-atlas/herb/shankhini/"
+    },
+    {
+      "slug": "shankhpushpi",
+      "kind": "herb",
+      "title": "Shankhpushpi",
+      "url": "/ayurveda-atlas/herb/shankhpushpi/"
+    },
+    {
+      "slug": "somavalli",
+      "kind": "herb",
+      "title": "Somavalli",
+      "url": "/ayurveda-atlas/herb/somavalli/"
+    },
+    {
+      "slug": "tagara",
+      "kind": "herb",
+      "title": "Tagara",
+      "url": "/ayurveda-atlas/herb/tagara/"
+    },
+    {
+      "slug": "vacha",
+      "kind": "herb",
+      "title": "Vacha",
+      "url": "/ayurveda-atlas/herb/vacha/"
+    },
+    {
+      "slug": "vatsanabha",
+      "kind": "herb",
+      "title": "Vatsanabha",
+      "url": "/ayurveda-atlas/herb/vatsanabha/"
+    },
+    {
+      "slug": "gudmar",
+      "kind": "herb",
+      "title": "Gudmar",
+      "url": "/ayurveda-atlas/herb/gudmar/"
+    },
+    {
+      "slug": "isabgol",
+      "kind": "herb",
+      "title": "Isabgol",
+      "url": "/ayurveda-atlas/herb/isabgol/"
+    },
+    {
+      "slug": "jamun",
+      "kind": "herb",
+      "title": "Jamun",
+      "url": "/ayurveda-atlas/herb/jamun/"
+    },
+    {
+      "slug": "karela",
+      "kind": "herb",
+      "title": "Karela",
+      "url": "/ayurveda-atlas/herb/karela/"
+    },
+    {
+      "slug": "methi",
+      "kind": "herb",
+      "title": "Methi",
+      "url": "/ayurveda-atlas/herb/methi/"
+    },
+    {
+      "slug": "vijaysar",
+      "kind": "herb",
+      "title": "Vijaysar",
+      "url": "/ayurveda-atlas/herb/vijaysar/"
+    },
+    {
+      "slug": "ajwain",
+      "kind": "herb",
+      "title": "Ajwain",
+      "url": "/ayurveda-atlas/herb/ajwain/"
+    },
+    {
+      "slug": "bhutika",
+      "kind": "herb",
+      "title": "Bhutika",
+      "url": "/ayurveda-atlas/herb/bhutika/"
+    },
+    {
+      "slug": "bilva",
+      "kind": "herb",
+      "title": "Bilva",
+      "url": "/ayurveda-atlas/herb/bilva/"
+    },
+    {
+      "slug": "changeri",
+      "kind": "herb",
+      "title": "Changeri",
+      "url": "/ayurveda-atlas/herb/changeri/"
+    },
+    {
+      "slug": "chitrak",
+      "kind": "herb",
+      "title": "Chitrak",
+      "url": "/ayurveda-atlas/herb/chitrak/"
+    },
+    {
+      "slug": "gavedhuka",
+      "kind": "herb",
+      "title": "Gavedhuka",
+      "url": "/ayurveda-atlas/herb/gavedhuka/"
+    },
+    {
+      "slug": "ginger",
+      "kind": "herb",
+      "title": "Ginger",
+      "url": "/ayurveda-atlas/herb/ginger/"
+    },
+    {
+      "slug": "grinjana",
+      "kind": "herb",
+      "title": "Grinjana",
+      "url": "/ayurveda-atlas/herb/grinjana/"
+    },
+    {
+      "slug": "hingu",
+      "kind": "herb",
+      "title": "Hingu",
+      "url": "/ayurveda-atlas/herb/hingu/"
+    },
+    {
+      "slug": "ishabgula",
+      "kind": "herb",
+      "title": "Ishabgula",
+      "url": "/ayurveda-atlas/herb/ishabgula/"
+    },
+    {
+      "slug": "mulaka",
+      "kind": "herb",
+      "title": "Mulaka",
+      "url": "/ayurveda-atlas/herb/mulaka/"
+    },
+    {
+      "slug": "nagarmotha",
+      "kind": "herb",
+      "title": "Nagarmotha",
+      "url": "/ayurveda-atlas/herb/nagarmotha/"
+    },
+    {
+      "slug": "palandu",
+      "kind": "herb",
+      "title": "Palandu",
+      "url": "/ayurveda-atlas/herb/palandu/"
+    },
+    {
+      "slug": "parnayavani",
+      "kind": "herb",
+      "title": "Parnayavani",
+      "url": "/ayurveda-atlas/herb/parnayavani/"
+    },
+    {
+      "slug": "pippali",
+      "kind": "herb",
+      "title": "Pippali",
+      "url": "/ayurveda-atlas/herb/pippali/"
+    },
+    {
+      "slug": "tanduliyaka",
+      "kind": "herb",
+      "title": "Tanduliyaka",
+      "url": "/ayurveda-atlas/herb/tanduliyaka/"
+    },
+    {
+      "slug": "trapusha",
+      "kind": "herb",
+      "title": "Trapusha",
+      "url": "/ayurveda-atlas/herb/trapusha/"
+    },
+    {
+      "slug": "trikatu",
+      "kind": "herb",
+      "title": "Trikatu",
+      "url": "/ayurveda-atlas/herb/trikatu/"
+    },
+    {
+      "slug": "upodika",
+      "kind": "herb",
+      "title": "Upodika",
+      "url": "/ayurveda-atlas/herb/upodika/"
+    },
+    {
+      "slug": "vartaku",
+      "kind": "herb",
+      "title": "Vartaku",
+      "url": "/ayurveda-atlas/herb/vartaku/"
+    },
+    {
+      "slug": "vidanga",
+      "kind": "herb",
+      "title": "Vidanga",
+      "url": "/ayurveda-atlas/herb/vidanga/"
+    },
+    {
+      "slug": "yashtimadhu",
+      "kind": "herb",
+      "title": "Yashtimadhu",
+      "url": "/ayurveda-atlas/herb/yashtimadhu/"
+    },
+    {
+      "slug": "anjatraya",
+      "kind": "herb",
+      "title": "Anjatraya",
+      "url": "/ayurveda-atlas/herb/anjatraya/"
+    },
+    {
+      "slug": "chakshushya",
+      "kind": "herb",
+      "title": "Chakshushya",
+      "url": "/ayurveda-atlas/herb/chakshushya/"
+    },
+    {
+      "slug": "indrayava",
+      "kind": "herb",
+      "title": "Indrayava",
+      "url": "/ayurveda-atlas/herb/indrayava/"
+    },
+    {
+      "slug": "katphala",
+      "kind": "herb",
+      "title": "Katphala",
+      "url": "/ayurveda-atlas/herb/katphala/"
+    },
+    {
+      "slug": "parpataka",
+      "kind": "herb",
+      "title": "Parpataka",
+      "url": "/ayurveda-atlas/herb/parpataka/"
+    },
+    {
+      "slug": "saptaparna",
+      "kind": "herb",
+      "title": "Saptaparna",
+      "url": "/ayurveda-atlas/herb/saptaparna/"
+    },
+    {
+      "slug": "adhaki",
+      "kind": "herb",
+      "title": "Adhaki",
+      "url": "/ayurveda-atlas/herb/adhaki/"
+    },
+    {
+      "slug": "agastya",
+      "kind": "herb",
+      "title": "Agastya",
+      "url": "/ayurveda-atlas/herb/agastya/"
+    },
+    {
+      "slug": "agnijara",
+      "kind": "herb",
+      "title": "Agnijara",
+      "url": "/ayurveda-atlas/herb/agnijara/"
+    },
+    {
+      "slug": "agnikarna",
+      "kind": "herb",
+      "title": "Agnikarna",
+      "url": "/ayurveda-atlas/herb/agnikarna/"
+    },
+    {
+      "slug": "agnikumarika",
+      "kind": "herb",
+      "title": "Agnikumarika",
+      "url": "/ayurveda-atlas/herb/agnikumarika/"
+    },
+    {
+      "slug": "aivana",
+      "kind": "herb",
+      "title": "Aivana",
+      "url": "/ayurveda-atlas/herb/aivana/"
+    },
+    {
+      "slug": "ajmoda",
+      "kind": "herb",
+      "title": "Ajmoda",
+      "url": "/ayurveda-atlas/herb/ajmoda/"
+    },
+    {
+      "slug": "ajwain-herb",
+      "kind": "herb",
+      "title": "Ajwain Herb",
+      "url": "/ayurveda-atlas/herb/ajwain-herb/"
+    },
+    {
+      "slug": "akarakarabha",
+      "kind": "herb",
+      "title": "Akarakarabha",
+      "url": "/ayurveda-atlas/herb/akarakarabha/"
+    },
+    {
+      "slug": "akhuparni",
+      "kind": "herb",
+      "title": "Akhuparni",
+      "url": "/ayurveda-atlas/herb/akhuparni/"
+    },
+    {
+      "slug": "akshotaka",
+      "kind": "herb",
+      "title": "Akshotaka",
+      "url": "/ayurveda-atlas/herb/akshotaka/"
+    },
+    {
+      "slug": "alabu",
+      "kind": "herb",
+      "title": "Alabu",
+      "url": "/ayurveda-atlas/herb/alabu/"
+    },
+    {
+      "slug": "ambasthaki",
+      "kind": "herb",
+      "title": "Ambasthaki",
+      "url": "/ayurveda-atlas/herb/ambasthaki/"
+    },
+    {
+      "slug": "amlaparni",
+      "kind": "herb",
+      "title": "Amlaparni",
+      "url": "/ayurveda-atlas/herb/amlaparni/"
+    },
+    {
+      "slug": "amlavetasa",
+      "kind": "herb",
+      "title": "Amlavetasa",
+      "url": "/ayurveda-atlas/herb/amlavetasa/"
+    },
+    {
+      "slug": "ankola",
+      "kind": "herb",
+      "title": "Ankola",
+      "url": "/ayurveda-atlas/herb/ankola/"
+    },
+    {
+      "slug": "apamarga",
+      "kind": "herb",
+      "title": "Apamarga",
+      "url": "/ayurveda-atlas/herb/apamarga/"
+    },
+    {
+      "slug": "aparajita",
+      "kind": "herb",
+      "title": "Aparajita",
+      "url": "/ayurveda-atlas/herb/aparajita/"
+    },
+    {
+      "slug": "aragwadha",
+      "kind": "herb",
+      "title": "Aragwadha",
+      "url": "/ayurveda-atlas/herb/aragwadha/"
+    },
+    {
+      "slug": "aranya-jeeraka",
+      "kind": "herb",
+      "title": "Aranya Jeeraka",
+      "url": "/ayurveda-atlas/herb/aranya-jeeraka/"
+    },
+    {
+      "slug": "asthishrinkhala",
+      "kind": "herb",
+      "title": "Asthishrinkhala",
+      "url": "/ayurveda-atlas/herb/asthishrinkhala/"
+    },
+    {
+      "slug": "atasi",
+      "kind": "herb",
+      "title": "Atasi",
+      "url": "/ayurveda-atlas/herb/atasi/"
+    },
+    {
+      "slug": "avipattikar",
+      "kind": "herb",
+      "title": "Avipattikar",
+      "url": "/ayurveda-atlas/herb/avipattikar/"
+    },
+    {
+      "slug": "avipattikar-herbs",
+      "kind": "herb",
+      "title": "Avipattikar Herbs",
+      "url": "/ayurveda-atlas/herb/avipattikar-herbs/"
+    },
+    {
+      "slug": "bala-mool",
+      "kind": "herb",
+      "title": "Bala Mool",
+      "url": "/ayurveda-atlas/herb/bala-mool/"
+    },
+    {
+      "slug": "bhadra",
+      "kind": "herb",
+      "title": "Bhadra",
+      "url": "/ayurveda-atlas/herb/bhadra/"
+    },
+    {
+      "slug": "bharangi",
+      "kind": "herb",
+      "title": "Bharangi",
+      "url": "/ayurveda-atlas/herb/bharangi/"
+    },
+    {
+      "slug": "bilva-majja",
+      "kind": "herb",
+      "title": "Bilva Majja",
+      "url": "/ayurveda-atlas/herb/bilva-majja/"
+    },
+    {
+      "slug": "bilwa-patra",
+      "kind": "herb",
+      "title": "Bilwa Patra",
+      "url": "/ayurveda-atlas/herb/bilwa-patra/"
+    },
+    {
+      "slug": "bitter-gourd",
+      "kind": "herb",
+      "title": "Bitter Gourd",
+      "url": "/ayurveda-atlas/herb/bitter-gourd/"
+    },
+    {
+      "slug": "bitter-gourd-herb",
+      "kind": "herb",
+      "title": "Bitter Gourd Herb",
+      "url": "/ayurveda-atlas/herb/bitter-gourd-herb/"
+    },
+    {
+      "slug": "brihati",
+      "kind": "herb",
+      "title": "Brihati",
+      "url": "/ayurveda-atlas/herb/brihati/"
+    },
+    {
+      "slug": "chakragaja",
+      "kind": "herb",
+      "title": "Chakragaja",
+      "url": "/ayurveda-atlas/herb/chakragaja/"
+    },
+    {
+      "slug": "chandrashura",
+      "kind": "herb",
+      "title": "Chandrashura",
+      "url": "/ayurveda-atlas/herb/chandrashura/"
+    },
+    {
+      "slug": "chavika",
+      "kind": "herb",
+      "title": "Chavika",
+      "url": "/ayurveda-atlas/herb/chavika/"
+    },
+    {
+      "slug": "chavya",
+      "kind": "herb",
+      "title": "Chavya",
+      "url": "/ayurveda-atlas/herb/chavya/"
+    },
+    {
+      "slug": "chhatraka",
+      "kind": "herb",
+      "title": "Chhatraka",
+      "url": "/ayurveda-atlas/herb/chhatraka/"
+    },
+    {
+      "slug": "chitraka-moola",
+      "kind": "herb",
+      "title": "Chitraka Moola",
+      "url": "/ayurveda-atlas/herb/chitraka-moola/"
+    },
+    {
+      "slug": "chitrakaharitaki",
+      "kind": "herb",
+      "title": "Chitrakaharitaki",
+      "url": "/ayurveda-atlas/herb/chitrakaharitaki/"
+    },
+    {
+      "slug": "coriander",
+      "kind": "herb",
+      "title": "Coriander",
+      "url": "/ayurveda-atlas/herb/coriander/"
+    },
+    {
+      "slug": "coriander-herb",
+      "kind": "herb",
+      "title": "Coriander Herb",
+      "url": "/ayurveda-atlas/herb/coriander-herb/"
+    },
+    {
+      "slug": "cumin",
+      "kind": "herb",
+      "title": "Cumin",
+      "url": "/ayurveda-atlas/herb/cumin/"
+    },
+    {
+      "slug": "cumin-herb",
+      "kind": "herb",
+      "title": "Cumin Herb",
+      "url": "/ayurveda-atlas/herb/cumin-herb/"
+    },
+    {
+      "slug": "dadima",
+      "kind": "herb",
+      "title": "Dadima",
+      "url": "/ayurveda-atlas/herb/dadima/"
+    },
+    {
+      "slug": "dadima-twak",
+      "kind": "herb",
+      "title": "Dadima Twak",
+      "url": "/ayurveda-atlas/herb/dadima-twak/"
+    },
+    {
+      "slug": "danti",
+      "kind": "herb",
+      "title": "Danti",
+      "url": "/ayurveda-atlas/herb/danti/"
+    },
+    {
+      "slug": "danti-moola",
+      "kind": "herb",
+      "title": "Danti Moola",
+      "url": "/ayurveda-atlas/herb/danti-moola/"
+    },
+    {
+      "slug": "dhamasa",
+      "kind": "herb",
+      "title": "Dhamasa",
+      "url": "/ayurveda-atlas/herb/dhamasa/"
+    },
+    {
+      "slug": "dhanyaka",
+      "kind": "herb",
+      "title": "Dhanyaka",
+      "url": "/ayurveda-atlas/herb/dhanyaka/"
+    },
+    {
+      "slug": "dhanyamla",
+      "kind": "herb",
+      "title": "Dhanyamla",
+      "url": "/ayurveda-atlas/herb/dhanyamla/"
+    },
+    {
+      "slug": "draksha",
+      "kind": "herb",
+      "title": "Draksha",
+      "url": "/ayurveda-atlas/herb/draksha/"
+    },
+    {
+      "slug": "drakshavaleha",
+      "kind": "herb",
+      "title": "Drakshavaleha",
+      "url": "/ayurveda-atlas/herb/drakshavaleha/"
+    },
+    {
+      "slug": "eranda",
+      "kind": "herb",
+      "title": "Eranda",
+      "url": "/ayurveda-atlas/herb/eranda/"
+    },
+    {
+      "slug": "eranda-moola",
+      "kind": "herb",
+      "title": "Eranda Moola",
+      "url": "/ayurveda-atlas/herb/eranda-moola/"
+    },
+    {
+      "slug": "eranda-paka",
+      "kind": "herb",
+      "title": "Eranda Paka",
+      "url": "/ayurveda-atlas/herb/eranda-paka/"
+    },
+    {
+      "slug": "eranda-patra",
+      "kind": "herb",
+      "title": "Eranda Patra",
+      "url": "/ayurveda-atlas/herb/eranda-patra/"
+    },
+    {
+      "slug": "fennel",
+      "kind": "herb",
+      "title": "Fennel",
+      "url": "/ayurveda-atlas/herb/fennel/"
+    },
+    {
+      "slug": "fennel-herb",
+      "kind": "herb",
+      "title": "Fennel Herb",
+      "url": "/ayurveda-atlas/herb/fennel-herb/"
+    },
+    {
+      "slug": "fenugreek-herb",
+      "kind": "herb",
+      "title": "Fenugreek Herb",
+      "url": "/ayurveda-atlas/herb/fenugreek-herb/"
+    },
+    {
+      "slug": "gajapippali",
+      "kind": "herb",
+      "title": "Gajapippali",
+      "url": "/ayurveda-atlas/herb/gajapippali/"
+    },
+    {
+      "slug": "gambhari",
+      "kind": "herb",
+      "title": "Gambhari",
+      "url": "/ayurveda-atlas/herb/gambhari/"
+    },
+    {
+      "slug": "gambhari-phala",
+      "kind": "herb",
+      "title": "Gambhari Phala",
+      "url": "/ayurveda-atlas/herb/gambhari-phala/"
+    },
+    {
+      "slug": "gandhak-rasayan",
+      "kind": "herb",
+      "title": "Gandhak Rasayan",
+      "url": "/ayurveda-atlas/herb/gandhak-rasayan/"
+    },
+    {
+      "slug": "gangeruki",
+      "kind": "herb",
+      "title": "Gangeruki",
+      "url": "/ayurveda-atlas/herb/gangeruki/"
+    },
+    {
+      "slug": "giloy-satva",
+      "kind": "herb",
+      "title": "Giloy Satva",
+      "url": "/ayurveda-atlas/herb/giloy-satva/"
+    },
+    {
+      "slug": "gojihva",
+      "kind": "herb",
+      "title": "Gojihva",
+      "url": "/ayurveda-atlas/herb/gojihva/"
+    },
+    {
+      "slug": "gokarna",
+      "kind": "herb",
+      "title": "Gokarna",
+      "url": "/ayurveda-atlas/herb/gokarna/"
+    },
+    {
+      "slug": "gorakhmundi",
+      "kind": "herb",
+      "title": "Gorakhmundi",
+      "url": "/ayurveda-atlas/herb/gorakhmundi/"
+    },
+    {
+      "slug": "gudmar-herb",
+      "kind": "herb",
+      "title": "Gudmar Herb",
+      "url": "/ayurveda-atlas/herb/gudmar-herb/"
+    },
+    {
+      "slug": "haridra",
+      "kind": "herb",
+      "title": "Haridra",
+      "url": "/ayurveda-atlas/herb/haridra/"
+    },
+    {
+      "slug": "himsra",
+      "kind": "herb",
+      "title": "Himsra",
+      "url": "/ayurveda-atlas/herb/himsra/"
+    },
+    {
+      "slug": "hingupatri",
+      "kind": "herb",
+      "title": "Hingupatri",
+      "url": "/ayurveda-atlas/herb/hingupatri/"
+    },
+    {
+      "slug": "holy-basil",
+      "kind": "herb",
+      "title": "Holy Basil",
+      "url": "/ayurveda-atlas/herb/holy-basil/"
+    },
+    {
+      "slug": "indravaruni",
+      "kind": "herb",
+      "title": "Indravaruni",
+      "url": "/ayurveda-atlas/herb/indravaruni/"
+    },
+    {
+      "slug": "ishwari",
+      "kind": "herb",
+      "title": "Ishwari",
+      "url": "/ayurveda-atlas/herb/ishwari/"
+    },
+    {
+      "slug": "jalavetasa",
+      "kind": "herb",
+      "title": "Jalavetasa",
+      "url": "/ayurveda-atlas/herb/jalavetasa/"
+    },
+    {
+      "slug": "jambu",
+      "kind": "herb",
+      "title": "Jambu",
+      "url": "/ayurveda-atlas/herb/jambu/"
+    },
+    {
+      "slug": "jambu-beeja",
+      "kind": "herb",
+      "title": "Jambu Beeja",
+      "url": "/ayurveda-atlas/herb/jambu-beeja/"
+    },
+    {
+      "slug": "jayapala",
+      "kind": "herb",
+      "title": "Jayapala",
+      "url": "/ayurveda-atlas/herb/jayapala/"
+    },
+    {
+      "slug": "jeeraka",
+      "kind": "herb",
+      "title": "Jeeraka",
+      "url": "/ayurveda-atlas/herb/jeeraka/"
+    },
+    {
+      "slug": "jivaka",
+      "kind": "herb",
+      "title": "Jivaka",
+      "url": "/ayurveda-atlas/herb/jivaka/"
+    },
+    {
+      "slug": "kachura",
+      "kind": "herb",
+      "title": "Kachura",
+      "url": "/ayurveda-atlas/herb/kachura/"
+    },
+    {
+      "slug": "kadali",
+      "kind": "herb",
+      "title": "Kadali",
+      "url": "/ayurveda-atlas/herb/kadali/"
+    },
+    {
+      "slug": "kadali-pushpa",
+      "kind": "herb",
+      "title": "Kadali Pushpa",
+      "url": "/ayurveda-atlas/herb/kadali-pushpa/"
+    },
+    {
+      "slug": "kakoli",
+      "kind": "herb",
+      "title": "Kakoli",
+      "url": "/ayurveda-atlas/herb/kakoli/"
+    },
+    {
+      "slug": "kalajaji",
+      "kind": "herb",
+      "title": "Kalajaji",
+      "url": "/ayurveda-atlas/herb/kalajaji/"
+    },
+    {
+      "slug": "kampillaka",
+      "kind": "herb",
+      "title": "Kampillaka",
+      "url": "/ayurveda-atlas/herb/kampillaka/"
+    },
+    {
+      "slug": "kanchanar",
+      "kind": "herb",
+      "title": "Kanchanar",
+      "url": "/ayurveda-atlas/herb/kanchanar/"
+    },
+    {
+      "slug": "kankola",
+      "kind": "herb",
+      "title": "Kankola",
+      "url": "/ayurveda-atlas/herb/kankola/"
+    },
+    {
+      "slug": "kankshi",
+      "kind": "herb",
+      "title": "Kankshi",
+      "url": "/ayurveda-atlas/herb/kankshi/"
+    },
+    {
+      "slug": "kantakari",
+      "kind": "herb",
+      "title": "Kantakari",
+      "url": "/ayurveda-atlas/herb/kantakari/"
+    },
+    {
+      "slug": "karkatashringi",
+      "kind": "herb",
+      "title": "Karkatashringi",
+      "url": "/ayurveda-atlas/herb/karkatashringi/"
+    },
+    {
+      "slug": "karmaranga",
+      "kind": "herb",
+      "title": "Karmaranga",
+      "url": "/ayurveda-atlas/herb/karmaranga/"
+    },
+    {
+      "slug": "karpura-camphor",
+      "kind": "herb",
+      "title": "Karpura Camphor",
+      "url": "/ayurveda-atlas/herb/karpura-camphor/"
+    },
+    {
+      "slug": "karvellaka",
+      "kind": "herb",
+      "title": "Karvellaka",
+      "url": "/ayurveda-atlas/herb/karvellaka/"
+    },
+    {
+      "slug": "kasani",
+      "kind": "herb",
+      "title": "Kasani",
+      "url": "/ayurveda-atlas/herb/kasani/"
+    },
+    {
+      "slug": "kataka",
+      "kind": "herb",
+      "title": "Kataka",
+      "url": "/ayurveda-atlas/herb/kataka/"
+    },
+    {
+      "slug": "kshavaka",
+      "kind": "herb",
+      "title": "Kshavaka",
+      "url": "/ayurveda-atlas/herb/kshavaka/"
+    },
+    {
+      "slug": "ksheera",
+      "kind": "herb",
+      "title": "Ksheera",
+      "url": "/ayurveda-atlas/herb/ksheera/"
+    },
+    {
+      "slug": "kshirabala-101-avarti",
+      "kind": "herb",
+      "title": "Kshirabala 101 Avarti",
+      "url": "/ayurveda-atlas/herb/kshirabala-101-avarti/"
+    },
+    {
+      "slug": "kulattha",
+      "kind": "herb",
+      "title": "Kulattha",
+      "url": "/ayurveda-atlas/herb/kulattha/"
+    },
+    {
+      "slug": "kumbhika",
+      "kind": "herb",
+      "title": "Kumbhika",
+      "url": "/ayurveda-atlas/herb/kumbhika/"
+    },
+    {
+      "slug": "kushmanda",
+      "kind": "herb",
+      "title": "Kushmanda",
+      "url": "/ayurveda-atlas/herb/kushmanda/"
+    },
+    {
+      "slug": "kusumbha",
+      "kind": "herb",
+      "title": "Kusumbha",
+      "url": "/ayurveda-atlas/herb/kusumbha/"
+    },
+    {
+      "slug": "lasuna",
+      "kind": "herb",
+      "title": "Lasuna",
+      "url": "/ayurveda-atlas/herb/lasuna/"
+    },
+    {
+      "slug": "lasuna-ksheerapaka",
+      "kind": "herb",
+      "title": "Lasuna Ksheerapaka",
+      "url": "/ayurveda-atlas/herb/lasuna-ksheerapaka/"
+    },
+    {
+      "slug": "lavali",
+      "kind": "herb",
+      "title": "Lavali",
+      "url": "/ayurveda-atlas/herb/lavali/"
+    },
+    {
+      "slug": "licorice-herb",
+      "kind": "herb",
+      "title": "Licorice Herb",
+      "url": "/ayurveda-atlas/herb/licorice-herb/"
+    },
+    {
+      "slug": "lodhrasva",
+      "kind": "herb",
+      "title": "Lodhrasva",
+      "url": "/ayurveda-atlas/herb/lodhrasva/"
+    },
+    {
+      "slug": "madanaphala",
+      "kind": "herb",
+      "title": "Madanaphala",
+      "url": "/ayurveda-atlas/herb/madanaphala/"
+    },
+    {
+      "slug": "mahabala",
+      "kind": "herb",
+      "title": "Mahabala",
+      "url": "/ayurveda-atlas/herb/mahabala/"
+    },
+    {
+      "slug": "mahamanjishthadi",
+      "kind": "herb",
+      "title": "Mahamanjishthadi",
+      "url": "/ayurveda-atlas/herb/mahamanjishthadi/"
+    },
+    {
+      "slug": "mahanimba",
+      "kind": "herb",
+      "title": "Mahanimba",
+      "url": "/ayurveda-atlas/herb/mahanimba/"
+    },
+    {
+      "slug": "mashaparni",
+      "kind": "herb",
+      "title": "Mashaparni",
+      "url": "/ayurveda-atlas/herb/mashaparni/"
+    },
+    {
+      "slug": "masi",
+      "kind": "herb",
+      "title": "Masi",
+      "url": "/ayurveda-atlas/herb/masi/"
+    },
+    {
+      "slug": "matulunga",
+      "kind": "herb",
+      "title": "Matulunga",
+      "url": "/ayurveda-atlas/herb/matulunga/"
+    },
+    {
+      "slug": "matulunga-rasa",
+      "kind": "herb",
+      "title": "Matulunga Rasa",
+      "url": "/ayurveda-atlas/herb/matulunga-rasa/"
+    },
+    {
+      "slug": "meda",
+      "kind": "herb",
+      "title": "Meda",
+      "url": "/ayurveda-atlas/herb/meda/"
+    },
+    {
+      "slug": "medasaka",
+      "kind": "herb",
+      "title": "Medasaka",
+      "url": "/ayurveda-atlas/herb/medasaka/"
+    },
+    {
+      "slug": "mishreya",
+      "kind": "herb",
+      "title": "Mishreya",
+      "url": "/ayurveda-atlas/herb/mishreya/"
+    },
+    {
+      "slug": "mochras",
+      "kind": "herb",
+      "title": "Mochras",
+      "url": "/ayurveda-atlas/herb/mochras/"
+    },
+    {
+      "slug": "mudgaparni",
+      "kind": "herb",
+      "title": "Mudgaparni",
+      "url": "/ayurveda-atlas/herb/mudgaparni/"
+    },
+    {
+      "slug": "murva",
+      "kind": "herb",
+      "title": "Murva",
+      "url": "/ayurveda-atlas/herb/murva/"
+    },
+    {
+      "slug": "nadi-hingu",
+      "kind": "herb",
+      "title": "Nadi Hingu",
+      "url": "/ayurveda-atlas/herb/nadi-hingu/"
+    },
+    {
+      "slug": "nagabala",
+      "kind": "herb",
+      "title": "Nagabala",
+      "url": "/ayurveda-atlas/herb/nagabala/"
+    },
+    {
+      "slug": "nikochaka",
+      "kind": "herb",
+      "title": "Nikochaka",
+      "url": "/ayurveda-atlas/herb/nikochaka/"
+    },
+    {
+      "slug": "nimba",
+      "kind": "herb",
+      "title": "Nimba",
+      "url": "/ayurveda-atlas/herb/nimba/"
+    },
+    {
+      "slug": "nirgundi",
+      "kind": "herb",
+      "title": "Nirgundi",
+      "url": "/ayurveda-atlas/herb/nirgundi/"
+    },
+    {
+      "slug": "nirgundi-herb",
+      "kind": "herb",
+      "title": "Nirgundi Herb",
+      "url": "/ayurveda-atlas/herb/nirgundi-herb/"
+    },
+    {
+      "slug": "nyagrodha",
+      "kind": "herb",
+      "title": "Nyagrodha",
+      "url": "/ayurveda-atlas/herb/nyagrodha/"
+    },
+    {
+      "slug": "palankya",
+      "kind": "herb",
+      "title": "Palankya",
+      "url": "/ayurveda-atlas/herb/palankya/"
+    },
+    {
+      "slug": "pippali-moola",
+      "kind": "herb",
+      "title": "Pippali Moola",
+      "url": "/ayurveda-atlas/herb/pippali-moola/"
+    },
+    {
+      "slug": "prasarini",
+      "kind": "herb",
+      "title": "Prasarini",
+      "url": "/ayurveda-atlas/herb/prasarini/"
+    },
+    {
+      "slug": "prishniparni",
+      "kind": "herb",
+      "title": "Prishniparni",
+      "url": "/ayurveda-atlas/herb/prishniparni/"
+    },
+    {
+      "slug": "pushkarmool",
+      "kind": "herb",
+      "title": "Pushkarmool",
+      "url": "/ayurveda-atlas/herb/pushkarmool/"
+    },
+    {
+      "slug": "putikaranja",
+      "kind": "herb",
+      "title": "Putikaranja",
+      "url": "/ayurveda-atlas/herb/putikaranja/"
+    },
+    {
+      "slug": "putranjivaka",
+      "kind": "herb",
+      "title": "Putranjivaka",
+      "url": "/ayurveda-atlas/herb/putranjivaka/"
+    },
+    {
+      "slug": "rasna",
+      "kind": "herb",
+      "title": "Rasna",
+      "url": "/ayurveda-atlas/herb/rasna/"
+    },
+    {
+      "slug": "rasona-garlic",
+      "kind": "herb",
+      "title": "Rasona Garlic",
+      "url": "/ayurveda-atlas/herb/rasona-garlic/"
+    },
+    {
+      "slug": "rasona-patra",
+      "kind": "herb",
+      "title": "Rasona Patra",
+      "url": "/ayurveda-atlas/herb/rasona-patra/"
+    },
+    {
+      "slug": "renuka",
+      "kind": "herb",
+      "title": "Renuka",
+      "url": "/ayurveda-atlas/herb/renuka/"
+    },
+    {
+      "slug": "riddhi",
+      "kind": "herb",
+      "title": "Riddhi",
+      "url": "/ayurveda-atlas/herb/riddhi/"
+    },
+    {
+      "slug": "rishabhaka",
+      "kind": "herb",
+      "title": "Rishabhaka",
+      "url": "/ayurveda-atlas/herb/rishabhaka/"
+    },
+    {
+      "slug": "saptala",
+      "kind": "herb",
+      "title": "Saptala",
+      "url": "/ayurveda-atlas/herb/saptala/"
+    },
+    {
+      "slug": "sarpagandha",
+      "kind": "herb",
+      "title": "Sarpagandha",
+      "url": "/ayurveda-atlas/herb/sarpagandha/"
+    },
+    {
+      "slug": "sarpaksi",
+      "kind": "herb",
+      "title": "Sarpaksi",
+      "url": "/ayurveda-atlas/herb/sarpaksi/"
+    },
+    {
+      "slug": "senna",
+      "kind": "herb",
+      "title": "Senna",
+      "url": "/ayurveda-atlas/herb/senna/"
+    },
+    {
+      "slug": "shallaki",
+      "kind": "herb",
+      "title": "Shallaki",
+      "url": "/ayurveda-atlas/herb/shallaki/"
+    },
+    {
+      "slug": "shalmali",
+      "kind": "herb",
+      "title": "Shalmali",
+      "url": "/ayurveda-atlas/herb/shalmali/"
+    },
+    {
+      "slug": "shalparni",
+      "kind": "herb",
+      "title": "Shalparni",
+      "url": "/ayurveda-atlas/herb/shalparni/"
+    },
+    {
+      "slug": "shana",
+      "kind": "herb",
+      "title": "Shana",
+      "url": "/ayurveda-atlas/herb/shana/"
+    },
+    {
+      "slug": "shatavari-ksheera",
+      "kind": "herb",
+      "title": "Shatavari Ksheera",
+      "url": "/ayurveda-atlas/herb/shatavari-ksheera/"
+    },
+    {
+      "slug": "shati",
+      "kind": "herb",
+      "title": "Shati",
+      "url": "/ayurveda-atlas/herb/shati/"
+    },
+    {
+      "slug": "shirisha",
+      "kind": "herb",
+      "title": "Shirisha",
+      "url": "/ayurveda-atlas/herb/shirisha/"
+    },
+    {
+      "slug": "shrigataka",
+      "kind": "herb",
+      "title": "Shrigataka",
+      "url": "/ayurveda-atlas/herb/shrigataka/"
+    },
+    {
+      "slug": "shvet-musli",
+      "kind": "herb",
+      "title": "Shvet Musli",
+      "url": "/ayurveda-atlas/herb/shvet-musli/"
+    },
+    {
+      "slug": "shyonaka",
+      "kind": "herb",
+      "title": "Shyonaka",
+      "url": "/ayurveda-atlas/herb/shyonaka/"
+    },
+    {
+      "slug": "sitopalasav",
+      "kind": "herb",
+      "title": "Sitopalasav",
+      "url": "/ayurveda-atlas/herb/sitopalasav/"
+    },
+    {
+      "slug": "soubhagya-shunthi",
+      "kind": "herb",
+      "title": "Soubhagya Shunthi",
+      "url": "/ayurveda-atlas/herb/soubhagya-shunthi/"
+    },
+    {
+      "slug": "sthneyaka",
+      "kind": "herb",
+      "title": "Sthneyaka",
+      "url": "/ayurveda-atlas/herb/sthneyaka/"
+    },
+    {
+      "slug": "sthuneyaka",
+      "kind": "herb",
+      "title": "Sthuneyaka",
+      "url": "/ayurveda-atlas/herb/sthuneyaka/"
+    },
+    {
+      "slug": "surana",
+      "kind": "herb",
+      "title": "Surana",
+      "url": "/ayurveda-atlas/herb/surana/"
+    },
+    {
+      "slug": "suryavarta",
+      "kind": "herb",
+      "title": "Suryavarta",
+      "url": "/ayurveda-atlas/herb/suryavarta/"
+    },
+    {
+      "slug": "talisa",
+      "kind": "herb",
+      "title": "Talisa",
+      "url": "/ayurveda-atlas/herb/talisa/"
+    },
+    {
+      "slug": "talisapatra",
+      "kind": "herb",
+      "title": "Talisapatra",
+      "url": "/ayurveda-atlas/herb/talisapatra/"
+    },
+    {
+      "slug": "tamalaki",
+      "kind": "herb",
+      "title": "Tamalaki",
+      "url": "/ayurveda-atlas/herb/tamalaki/"
+    },
+    {
+      "slug": "tila",
+      "kind": "herb",
+      "title": "Tila",
+      "url": "/ayurveda-atlas/herb/tila/"
+    },
+    {
+      "slug": "tila-patra",
+      "kind": "herb",
+      "title": "Tila Patra",
+      "url": "/ayurveda-atlas/herb/tila-patra/"
+    },
+    {
+      "slug": "tilaparni",
+      "kind": "herb",
+      "title": "Tilaparni",
+      "url": "/ayurveda-atlas/herb/tilaparni/"
+    },
+    {
+      "slug": "trivrit",
+      "kind": "herb",
+      "title": "Trivrit",
+      "url": "/ayurveda-atlas/herb/trivrit/"
+    },
+    {
+      "slug": "tumburu",
+      "kind": "herb",
+      "title": "Tumburu",
+      "url": "/ayurveda-atlas/herb/tumburu/"
+    },
+    {
+      "slug": "ushira",
+      "kind": "herb",
+      "title": "Ushira",
+      "url": "/ayurveda-atlas/herb/ushira/"
+    },
+    {
+      "slug": "ushirasva",
+      "kind": "herb",
+      "title": "Ushirasva",
+      "url": "/ayurveda-atlas/herb/ushirasva/"
+    },
+    {
+      "slug": "utingana",
+      "kind": "herb",
+      "title": "Utingana",
+      "url": "/ayurveda-atlas/herb/utingana/"
+    },
+    {
+      "slug": "vamsha",
+      "kind": "herb",
+      "title": "Vamsha",
+      "url": "/ayurveda-atlas/herb/vamsha/"
+    },
+    {
+      "slug": "vanapsa",
+      "kind": "herb",
+      "title": "Vanapsa",
+      "url": "/ayurveda-atlas/herb/vanapsa/"
+    },
+    {
+      "slug": "varshabhu",
+      "kind": "herb",
+      "title": "Varshabhu",
+      "url": "/ayurveda-atlas/herb/varshabhu/"
+    },
+    {
+      "slug": "vasa",
+      "kind": "herb",
+      "title": "Vasa",
+      "url": "/ayurveda-atlas/herb/vasa/"
+    },
+    {
+      "slug": "vasaka",
+      "kind": "herb",
+      "title": "Vasaka",
+      "url": "/ayurveda-atlas/herb/vasaka/"
+    },
+    {
+      "slug": "vathada",
+      "kind": "herb",
+      "title": "Vathada",
+      "url": "/ayurveda-atlas/herb/vathada/"
+    },
+    {
+      "slug": "vidari",
+      "kind": "herb",
+      "title": "Vidari",
+      "url": "/ayurveda-atlas/herb/vidari/"
+    },
+    {
+      "slug": "vidarikand",
+      "kind": "herb",
+      "title": "Vidarikand",
+      "url": "/ayurveda-atlas/herb/vidarikand/"
+    },
+    {
+      "slug": "vyaghri-haritaki",
+      "kind": "herb",
+      "title": "Vyaghri Haritaki",
+      "url": "/ayurveda-atlas/herb/vyaghri-haritaki/"
+    },
+    {
+      "slug": "water-hyssop",
+      "kind": "herb",
+      "title": "Water Hyssop",
+      "url": "/ayurveda-atlas/herb/water-hyssop/"
+    },
+    {
+      "slug": "yavani",
+      "kind": "herb",
+      "title": "Yavani",
+      "url": "/ayurveda-atlas/herb/yavani/"
+    },
+    {
+      "slug": "yavasa",
+      "kind": "herb",
+      "title": "Yavasa",
+      "url": "/ayurveda-atlas/herb/yavasa/"
+    },
+    {
+      "slug": "zingiber",
+      "kind": "herb",
+      "title": "Zingiber",
+      "url": "/ayurveda-atlas/herb/zingiber/"
+    },
+    {
+      "slug": "bhringraj",
+      "kind": "herb",
+      "title": "Bhringraj",
+      "url": "/ayurveda-atlas/herb/bhringraj/"
+    },
+    {
+      "slug": "arjuna",
+      "kind": "herb",
+      "title": "Arjuna",
+      "url": "/ayurveda-atlas/herb/arjuna/"
+    },
+    {
+      "slug": "arjuna-twak",
+      "kind": "herb",
+      "title": "Arjuna Twak",
+      "url": "/ayurveda-atlas/herb/arjuna-twak/"
+    },
+    {
+      "slug": "hrivera",
+      "kind": "herb",
+      "title": "Hrivera",
+      "url": "/ayurveda-atlas/herb/hrivera/"
+    },
+    {
+      "slug": "madayantika",
+      "kind": "herb",
+      "title": "Madayantika",
+      "url": "/ayurveda-atlas/herb/madayantika/"
+    },
+    {
+      "slug": "patala",
+      "kind": "herb",
+      "title": "Patala",
+      "url": "/ayurveda-atlas/herb/patala/"
+    },
+    {
+      "slug": "raktamoola",
+      "kind": "herb",
+      "title": "Raktamoola",
+      "url": "/ayurveda-atlas/herb/raktamoola/"
+    },
+    {
+      "slug": "rohitaka",
+      "kind": "herb",
+      "title": "Rohitaka",
+      "url": "/ayurveda-atlas/herb/rohitaka/"
+    },
+    {
+      "slug": "dashamoola",
+      "kind": "herb",
+      "title": "Dashamoola",
+      "url": "/ayurveda-atlas/herb/dashamoola/"
+    },
+    {
+      "slug": "devadali",
+      "kind": "herb",
+      "title": "Devadali",
+      "url": "/ayurveda-atlas/herb/devadali/"
+    },
+    {
+      "slug": "dhava",
+      "kind": "herb",
+      "title": "Dhava",
+      "url": "/ayurveda-atlas/herb/dhava/"
+    },
+    {
+      "slug": "latakaranja",
+      "kind": "herb",
+      "title": "Latakaranja",
+      "url": "/ayurveda-atlas/herb/latakaranja/"
+    },
+    {
+      "slug": "mahanarayan",
+      "kind": "herb",
+      "title": "Mahanarayan",
+      "url": "/ayurveda-atlas/herb/mahanarayan/"
+    },
+    {
+      "slug": "paribhadra",
+      "kind": "herb",
+      "title": "Paribhadra",
+      "url": "/ayurveda-atlas/herb/paribhadra/"
+    },
+    {
+      "slug": "simhamoola",
+      "kind": "herb",
+      "title": "Simhamoola",
+      "url": "/ayurveda-atlas/herb/simhamoola/"
+    },
+    {
+      "slug": "vriddhadaru",
+      "kind": "herb",
+      "title": "Vriddhadaru",
+      "url": "/ayurveda-atlas/herb/vriddhadaru/"
+    },
+    {
+      "slug": "vriddhi",
+      "kind": "herb",
+      "title": "Vriddhi",
+      "url": "/ayurveda-atlas/herb/vriddhi/"
+    },
+    {
+      "slug": "durva",
+      "kind": "herb",
+      "title": "Durva",
+      "url": "/ayurveda-atlas/herb/durva/"
+    },
+    {
+      "slug": "ikshu",
+      "kind": "herb",
+      "title": "Ikshu",
+      "url": "/ayurveda-atlas/herb/ikshu/"
+    },
+    {
+      "slug": "kasheruka",
+      "kind": "herb",
+      "title": "Kasheruka",
+      "url": "/ayurveda-atlas/herb/kasheruka/"
+    },
+    {
+      "slug": "kokilaksha",
+      "kind": "herb",
+      "title": "Kokilaksha",
+      "url": "/ayurveda-atlas/herb/kokilaksha/"
+    },
+    {
+      "slug": "kusha",
+      "kind": "herb",
+      "title": "Kusha",
+      "url": "/ayurveda-atlas/herb/kusha/"
+    },
+    {
+      "slug": "pashanabheda",
+      "kind": "herb",
+      "title": "Pashanabheda",
+      "url": "/ayurveda-atlas/herb/pashanabheda/"
+    },
+    {
+      "slug": "punarnava",
+      "kind": "herb",
+      "title": "Punarnava",
+      "url": "/ayurveda-atlas/herb/punarnava/"
+    },
+    {
+      "slug": "shigru-patra",
+      "kind": "herb",
+      "title": "Shigru Patra",
+      "url": "/ayurveda-atlas/herb/shigru-patra/"
+    },
+    {
+      "slug": "varuna",
+      "kind": "herb",
+      "title": "Varuna",
+      "url": "/ayurveda-atlas/herb/varuna/"
+    },
+    {
+      "slug": "black-pepper",
+      "kind": "herb",
+      "title": "Black Pepper",
+      "url": "/ayurveda-atlas/herb/black-pepper/"
+    },
+    {
+      "slug": "camphor",
+      "kind": "herb",
+      "title": "Camphor",
+      "url": "/ayurveda-atlas/herb/camphor/"
+    },
+    {
+      "slug": "ela",
+      "kind": "herb",
+      "title": "Ela",
+      "url": "/ayurveda-atlas/herb/ela/"
+    },
+    {
+      "slug": "eucalyptus-herb",
+      "kind": "herb",
+      "title": "Eucalyptus Herb",
+      "url": "/ayurveda-atlas/herb/eucalyptus-herb/"
+    },
+    {
+      "slug": "jatiphala",
+      "kind": "herb",
+      "title": "Jatiphala",
+      "url": "/ayurveda-atlas/herb/jatiphala/"
+    },
+    {
+      "slug": "javitri",
+      "kind": "herb",
+      "title": "Javitri",
+      "url": "/ayurveda-atlas/herb/javitri/"
+    },
+    {
+      "slug": "kalonji",
+      "kind": "herb",
+      "title": "Kalonji",
+      "url": "/ayurveda-atlas/herb/kalonji/"
+    },
+    {
+      "slug": "krishna-jeeraka",
+      "kind": "herb",
+      "title": "Krishna Jeeraka",
+      "url": "/ayurveda-atlas/herb/krishna-jeeraka/"
+    },
+    {
+      "slug": "laung",
+      "kind": "herb",
+      "title": "Laung",
+      "url": "/ayurveda-atlas/herb/laung/"
+    },
+    {
+      "slug": "lavanga",
+      "kind": "herb",
+      "title": "Lavanga",
+      "url": "/ayurveda-atlas/herb/lavanga/"
+    },
+    {
+      "slug": "menthol",
+      "kind": "herb",
+      "title": "Menthol",
+      "url": "/ayurveda-atlas/herb/menthol/"
+    },
+    {
+      "slug": "pudina",
+      "kind": "herb",
+      "title": "Pudina",
+      "url": "/ayurveda-atlas/herb/pudina/"
+    },
+    {
+      "slug": "rajika",
+      "kind": "herb",
+      "title": "Rajika",
+      "url": "/ayurveda-atlas/herb/rajika/"
+    },
+    {
+      "slug": "rohisha",
+      "kind": "herb",
+      "title": "Rohisha",
+      "url": "/ayurveda-atlas/herb/rohisha/"
+    },
+    {
+      "slug": "svetamarica",
+      "kind": "herb",
+      "title": "Svetamarica",
+      "url": "/ayurveda-atlas/herb/svetamarica/"
+    },
+    {
+      "slug": "tagetes",
+      "kind": "herb",
+      "title": "Tagetes",
+      "url": "/ayurveda-atlas/herb/tagetes/"
+    },
+    {
+      "slug": "tamalpatra",
+      "kind": "herb",
+      "title": "Tamalpatra",
+      "url": "/ayurveda-atlas/herb/tamalpatra/"
+    },
+    {
+      "slug": "tejapatra",
+      "kind": "herb",
+      "title": "Tejapatra",
+      "url": "/ayurveda-atlas/herb/tejapatra/"
+    },
+    {
+      "slug": "twak-cinnamon",
+      "kind": "herb",
+      "title": "Twak Cinnamon",
+      "url": "/ayurveda-atlas/herb/twak-cinnamon/"
+    },
+    {
+      "slug": "aloe-vera",
+      "kind": "herb",
+      "title": "Aloe Vera",
+      "url": "/ayurveda-atlas/herb/aloe-vera/"
+    },
+    {
+      "slug": "bhumi-jambuka",
+      "kind": "herb",
+      "title": "Bhumi Jambuka",
+      "url": "/ayurveda-atlas/herb/bhumi-jambuka/"
+    },
+    {
+      "slug": "bhumyamalaki",
+      "kind": "herb",
+      "title": "Bhumyamalaki",
+      "url": "/ayurveda-atlas/herb/bhumyamalaki/"
+    },
+    {
+      "slug": "bhunimba",
+      "kind": "herb",
+      "title": "Bhunimba",
+      "url": "/ayurveda-atlas/herb/bhunimba/"
+    },
+    {
+      "slug": "bibhitaki",
+      "kind": "herb",
+      "title": "Bibhitaki",
+      "url": "/ayurveda-atlas/herb/bibhitaki/"
+    },
+    {
+      "slug": "chirayata",
+      "kind": "herb",
+      "title": "Chirayata",
+      "url": "/ayurveda-atlas/herb/chirayata/"
+    },
+    {
+      "slug": "haritaki",
+      "kind": "herb",
+      "title": "Haritaki",
+      "url": "/ayurveda-atlas/herb/haritaki/"
+    },
+    {
+      "slug": "kakamachi",
+      "kind": "herb",
+      "title": "Kakamachi",
+      "url": "/ayurveda-atlas/herb/kakamachi/"
+    },
+    {
+      "slug": "kakatikta",
+      "kind": "herb",
+      "title": "Kakatikta",
+      "url": "/ayurveda-atlas/herb/kakatikta/"
+    },
+    {
+      "slug": "kalmegh",
+      "kind": "herb",
+      "title": "Kalmegh",
+      "url": "/ayurveda-atlas/herb/kalmegh/"
+    },
+    {
+      "slug": "katuki",
+      "kind": "herb",
+      "title": "Katuki",
+      "url": "/ayurveda-atlas/herb/katuki/"
+    },
+    {
+      "slug": "kiratatikta",
+      "kind": "herb",
+      "title": "Kiratatikta",
+      "url": "/ayurveda-atlas/herb/kiratatikta/"
+    },
+    {
+      "slug": "kutaj",
+      "kind": "herb",
+      "title": "Kutaj",
+      "url": "/ayurveda-atlas/herb/kutaj/"
+    },
+    {
+      "slug": "makoy",
+      "kind": "herb",
+      "title": "Makoy",
+      "url": "/ayurveda-atlas/herb/makoy/"
+    },
+    {
+      "slug": "moringa",
+      "kind": "herb",
+      "title": "Moringa",
+      "url": "/ayurveda-atlas/herb/moringa/"
+    },
+    {
+      "slug": "morning-glory",
+      "kind": "herb",
+      "title": "Morning Glory",
+      "url": "/ayurveda-atlas/herb/morning-glory/"
+    },
+    {
+      "slug": "patha",
+      "kind": "herb",
+      "title": "Patha",
+      "url": "/ayurveda-atlas/herb/patha/"
+    },
+    {
+      "slug": "patola",
+      "kind": "herb",
+      "title": "Patola",
+      "url": "/ayurveda-atlas/herb/patola/"
+    },
+    {
+      "slug": "patola-patra",
+      "kind": "herb",
+      "title": "Patola Patra",
+      "url": "/ayurveda-atlas/herb/patola-patra/"
+    },
+    {
+      "slug": "triphala",
+      "kind": "herb",
+      "title": "Triphala",
+      "url": "/ayurveda-atlas/herb/triphala/"
+    },
+    {
+      "slug": "triphala-herbs",
+      "kind": "herb",
+      "title": "Triphala Herbs",
+      "url": "/ayurveda-atlas/herb/triphala-herbs/"
+    },
+    {
+      "slug": "gokshura",
+      "kind": "herb",
+      "title": "Gokshura",
+      "url": "/ayurveda-atlas/herb/gokshura/"
+    },
+    {
+      "slug": "puga",
+      "kind": "herb",
+      "title": "Puga",
+      "url": "/ayurveda-atlas/herb/puga/"
+    },
+    {
+      "slug": "saffron",
+      "kind": "herb",
+      "title": "Saffron",
+      "url": "/ayurveda-atlas/herb/saffron/"
+    },
+    {
+      "slug": "talamuli",
+      "kind": "herb",
+      "title": "Talamuli",
+      "url": "/ayurveda-atlas/herb/talamuli/"
+    },
+    {
+      "slug": "varahikanda",
+      "kind": "herb",
+      "title": "Varahikanda",
+      "url": "/ayurveda-atlas/herb/varahikanda/"
+    },
+    {
+      "slug": "amla",
+      "kind": "herb",
+      "title": "Amla",
+      "url": "/ayurveda-atlas/herb/amla/"
+    },
+    {
+      "slug": "ashwagandha",
+      "kind": "herb",
+      "title": "Ashwagandha",
+      "url": "/ayurveda-atlas/herb/ashwagandha/"
+    },
+    {
+      "slug": "atibala",
+      "kind": "herb",
+      "title": "Atibala",
+      "url": "/ayurveda-atlas/herb/atibala/"
+    },
+    {
+      "slug": "bala",
+      "kind": "herb",
+      "title": "Bala",
+      "url": "/ayurveda-atlas/herb/bala/"
+    },
+    {
+      "slug": "chandraprabha",
+      "kind": "herb",
+      "title": "Chandraprabha",
+      "url": "/ayurveda-atlas/herb/chandraprabha/"
+    },
+    {
+      "slug": "guduchi",
+      "kind": "herb",
+      "title": "Guduchi",
+      "url": "/ayurveda-atlas/herb/guduchi/"
+    },
+    {
+      "slug": "jivanti",
+      "kind": "herb",
+      "title": "Jivanti",
+      "url": "/ayurveda-atlas/herb/jivanti/"
+    },
+    {
+      "slug": "priyala",
+      "kind": "herb",
+      "title": "Priyala",
+      "url": "/ayurveda-atlas/herb/priyala/"
+    },
+    {
+      "slug": "shatavari",
+      "kind": "herb",
+      "title": "Shatavari",
+      "url": "/ayurveda-atlas/herb/shatavari/"
+    },
+    {
+      "slug": "arka",
+      "kind": "herb",
+      "title": "Arka",
+      "url": "/ayurveda-atlas/herb/arka/"
+    },
+    {
+      "slug": "arka-ksheera",
+      "kind": "herb",
+      "title": "Arka Ksheera",
+      "url": "/ayurveda-atlas/herb/arka-ksheera/"
+    },
+    {
+      "slug": "arka-pushpa",
+      "kind": "herb",
+      "title": "Arka Pushpa",
+      "url": "/ayurveda-atlas/herb/arka-pushpa/"
+    },
+    {
+      "slug": "dronapushpi",
+      "kind": "herb",
+      "title": "Dronapushpi",
+      "url": "/ayurveda-atlas/herb/dronapushpi/"
+    },
+    {
+      "slug": "eucalyptus",
+      "kind": "herb",
+      "title": "Eucalyptus",
+      "url": "/ayurveda-atlas/herb/eucalyptus/"
+    },
+    {
+      "slug": "saireyaka",
+      "kind": "herb",
+      "title": "Saireyaka",
+      "url": "/ayurveda-atlas/herb/saireyaka/"
+    },
+    {
+      "slug": "shara",
+      "kind": "herb",
+      "title": "Shara",
+      "url": "/ayurveda-atlas/herb/shara/"
+    },
+    {
+      "slug": "tulsi",
+      "kind": "herb",
+      "title": "Tulsi",
+      "url": "/ayurveda-atlas/herb/tulsi/"
+    },
+    {
+      "slug": "amra-haridra",
+      "kind": "herb",
+      "title": "Amra Haridra",
+      "url": "/ayurveda-atlas/herb/amra-haridra/"
+    },
+    {
+      "slug": "ananta-mool",
+      "kind": "herb",
+      "title": "Ananta Mool",
+      "url": "/ayurveda-atlas/herb/ananta-mool/"
+    },
+    {
+      "slug": "bakuchi",
+      "kind": "herb",
+      "title": "Bakuchi",
+      "url": "/ayurveda-atlas/herb/bakuchi/"
+    },
+    {
+      "slug": "bimbi",
+      "kind": "herb",
+      "title": "Bimbi",
+      "url": "/ayurveda-atlas/herb/bimbi/"
+    },
+    {
+      "slug": "chakramarda",
+      "kind": "herb",
+      "title": "Chakramarda",
+      "url": "/ayurveda-atlas/herb/chakramarda/"
+    },
+    {
+      "slug": "chandana",
+      "kind": "herb",
+      "title": "Chandana",
+      "url": "/ayurveda-atlas/herb/chandana/"
+    },
+    {
+      "slug": "chopchini",
+      "kind": "herb",
+      "title": "Chopchini",
+      "url": "/ayurveda-atlas/herb/chopchini/"
+    },
+    {
+      "slug": "curcumin",
+      "kind": "herb",
+      "title": "Curcumin",
+      "url": "/ayurveda-atlas/herb/curcumin/"
+    },
+    {
+      "slug": "dadrughna",
+      "kind": "herb",
+      "title": "Dadrughna",
+      "url": "/ayurveda-atlas/herb/dadrughna/"
+    },
+    {
+      "slug": "daruharidra",
+      "kind": "herb",
+      "title": "Daruharidra",
+      "url": "/ayurveda-atlas/herb/daruharidra/"
+    },
+    {
+      "slug": "dhataki",
+      "kind": "herb",
+      "title": "Dhataki",
+      "url": "/ayurveda-atlas/herb/dhataki/"
+    },
+    {
+      "slug": "dugdhika",
+      "kind": "herb",
+      "title": "Dugdhika",
+      "url": "/ayurveda-atlas/herb/dugdhika/"
+    },
+    {
+      "slug": "jati",
+      "kind": "herb",
+      "title": "Jati",
+      "url": "/ayurveda-atlas/herb/jati/"
+    },
+    {
+      "slug": "kamala",
+      "kind": "herb",
+      "title": "Kamala",
+      "url": "/ayurveda-atlas/herb/kamala/"
+    },
+    {
+      "slug": "kamala-kesara",
+      "kind": "herb",
+      "title": "Kamala Kesara",
+      "url": "/ayurveda-atlas/herb/kamala-kesara/"
+    },
+    {
+      "slug": "kamalakanda",
+      "kind": "herb",
+      "title": "Kamalakanda",
+      "url": "/ayurveda-atlas/herb/kamalakanda/"
+    },
+    {
+      "slug": "kasamarda",
+      "kind": "herb",
+      "title": "Kasamarda",
+      "url": "/ayurveda-atlas/herb/kasamarda/"
+    },
+    {
+      "slug": "ketaki",
+      "kind": "herb",
+      "title": "Ketaki",
+      "url": "/ayurveda-atlas/herb/ketaki/"
+    },
+    {
+      "slug": "khadira",
+      "kind": "herb",
+      "title": "Khadira",
+      "url": "/ayurveda-atlas/herb/khadira/"
+    },
+    {
+      "slug": "koshataki",
+      "kind": "herb",
+      "title": "Koshataki",
+      "url": "/ayurveda-atlas/herb/koshataki/"
+    },
+    {
+      "slug": "kumud",
+      "kind": "herb",
+      "title": "Kumud",
+      "url": "/ayurveda-atlas/herb/kumud/"
+    },
+    {
+      "slug": "kumuda",
+      "kind": "herb",
+      "title": "Kumuda",
+      "url": "/ayurveda-atlas/herb/kumuda/"
+    },
+    {
+      "slug": "kurabaka",
+      "kind": "herb",
+      "title": "Kurabaka",
+      "url": "/ayurveda-atlas/herb/kurabaka/"
+    },
+    {
+      "slug": "lata-kasturi",
+      "kind": "herb",
+      "title": "Lata Kasturi",
+      "url": "/ayurveda-atlas/herb/lata-kasturi/"
+    },
+    {
+      "slug": "lodhra",
+      "kind": "herb",
+      "title": "Lodhra",
+      "url": "/ayurveda-atlas/herb/lodhra/"
+    },
+    {
+      "slug": "manjishtha",
+      "kind": "herb",
+      "title": "Manjishtha",
+      "url": "/ayurveda-atlas/herb/manjishtha/"
+    },
+    {
+      "slug": "manjistha",
+      "kind": "herb",
+      "title": "Manjistha",
+      "url": "/ayurveda-atlas/herb/manjistha/"
+    },
+    {
+      "slug": "neem",
+      "kind": "herb",
+      "title": "Neem",
+      "url": "/ayurveda-atlas/herb/neem/"
+    },
+    {
+      "slug": "nili",
+      "kind": "herb",
+      "title": "Nili",
+      "url": "/ayurveda-atlas/herb/nili/"
+    },
+    {
+      "slug": "nimba-beeja",
+      "kind": "herb",
+      "title": "Nimba Beeja",
+      "url": "/ayurveda-atlas/herb/nimba-beeja/"
+    },
+    {
+      "slug": "nimba-patra",
+      "kind": "herb",
+      "title": "Nimba Patra",
+      "url": "/ayurveda-atlas/herb/nimba-patra/"
+    },
+    {
+      "slug": "padmaka",
+      "kind": "herb",
+      "title": "Padmaka",
+      "url": "/ayurveda-atlas/herb/padmaka/"
+    },
+    {
+      "slug": "pattanga",
+      "kind": "herb",
+      "title": "Pattanga",
+      "url": "/ayurveda-atlas/herb/pattanga/"
+    },
+    {
+      "slug": "prapunnada",
+      "kind": "herb",
+      "title": "Prapunnada",
+      "url": "/ayurveda-atlas/herb/prapunnada/"
+    },
+    {
+      "slug": "priyangu",
+      "kind": "herb",
+      "title": "Priyangu",
+      "url": "/ayurveda-atlas/herb/priyangu/"
+    },
+    {
+      "slug": "rakta-chandana",
+      "kind": "herb",
+      "title": "Rakta Chandana",
+      "url": "/ayurveda-atlas/herb/rakta-chandana/"
+    },
+    {
+      "slug": "sariva",
+      "kind": "herb",
+      "title": "Sariva",
+      "url": "/ayurveda-atlas/herb/sariva/"
+    },
+    {
+      "slug": "satyanashi",
+      "kind": "herb",
+      "title": "Satyanashi",
+      "url": "/ayurveda-atlas/herb/satyanashi/"
+    },
+    {
+      "slug": "sharapunkha",
+      "kind": "herb",
+      "title": "Sharapunkha",
+      "url": "/ayurveda-atlas/herb/sharapunkha/"
+    },
+    {
+      "slug": "taruni",
+      "kind": "herb",
+      "title": "Taruni",
+      "url": "/ayurveda-atlas/herb/taruni/"
+    },
+    {
+      "slug": "turmeric",
+      "kind": "herb",
+      "title": "Turmeric",
+      "url": "/ayurveda-atlas/herb/turmeric/"
+    },
+    {
+      "slug": "utpala",
+      "kind": "herb",
+      "title": "Utpala",
+      "url": "/ayurveda-atlas/herb/utpala/"
+    },
+    {
+      "slug": "vyaghranakhi",
+      "kind": "herb",
+      "title": "Vyaghranakhi",
+      "url": "/ayurveda-atlas/herb/vyaghranakhi/"
+    },
+    {
+      "slug": "yuthika",
+      "kind": "herb",
+      "title": "Yuthika",
+      "url": "/ayurveda-atlas/herb/yuthika/"
+    },
+    {
+      "slug": "amra",
+      "kind": "herb",
+      "title": "Amra",
+      "url": "/ayurveda-atlas/herb/amra/"
+    },
+    {
+      "slug": "amra-beeja",
+      "kind": "herb",
+      "title": "Amra Beeja",
+      "url": "/ayurveda-atlas/herb/amra-beeja/"
+    },
+    {
+      "slug": "asana",
+      "kind": "herb",
+      "title": "Asana",
+      "url": "/ayurveda-atlas/herb/asana/"
+    },
+    {
+      "slug": "ashwattha",
+      "kind": "herb",
+      "title": "Ashwattha",
+      "url": "/ayurveda-atlas/herb/ashwattha/"
+    },
+    {
+      "slug": "babbula",
+      "kind": "herb",
+      "title": "Babbula",
+      "url": "/ayurveda-atlas/herb/babbula/"
+    },
+    {
+      "slug": "badara",
+      "kind": "herb",
+      "title": "Badara",
+      "url": "/ayurveda-atlas/herb/badara/"
+    },
+    {
+      "slug": "bakula",
+      "kind": "herb",
+      "title": "Bakula",
+      "url": "/ayurveda-atlas/herb/bakula/"
+    },
+    {
+      "slug": "bhurja",
+      "kind": "herb",
+      "title": "Bhurja",
+      "url": "/ayurveda-atlas/herb/bhurja/"
+    },
+    {
+      "slug": "bijapura",
+      "kind": "herb",
+      "title": "Bijapura",
+      "url": "/ayurveda-atlas/herb/bijapura/"
+    },
+    {
+      "slug": "chirabilva",
+      "kind": "herb",
+      "title": "Chirabilva",
+      "url": "/ayurveda-atlas/herb/chirabilva/"
+    },
+    {
+      "slug": "devadaru",
+      "kind": "herb",
+      "title": "Devadaru",
+      "url": "/ayurveda-atlas/herb/devadaru/"
+    },
+    {
+      "slug": "granthiparni",
+      "kind": "herb",
+      "title": "Granthiparni",
+      "url": "/ayurveda-atlas/herb/granthiparni/"
+    },
+    {
+      "slug": "hapusa",
+      "kind": "herb",
+      "title": "Hapusa",
+      "url": "/ayurveda-atlas/herb/hapusa/"
+    },
+    {
+      "slug": "ingudi",
+      "kind": "herb",
+      "title": "Ingudi",
+      "url": "/ayurveda-atlas/herb/ingudi/"
+    },
+    {
+      "slug": "kachnar",
+      "kind": "herb",
+      "title": "Kachnar",
+      "url": "/ayurveda-atlas/herb/kachnar/"
+    },
+    {
+      "slug": "kadamba",
+      "kind": "herb",
+      "title": "Kadamba",
+      "url": "/ayurveda-atlas/herb/kadamba/"
+    },
+    {
+      "slug": "kadara",
+      "kind": "herb",
+      "title": "Kadara",
+      "url": "/ayurveda-atlas/herb/kadara/"
+    },
+    {
+      "slug": "kankataka",
+      "kind": "herb",
+      "title": "Kankataka",
+      "url": "/ayurveda-atlas/herb/kankataka/"
+    },
+    {
+      "slug": "kapittha",
+      "kind": "herb",
+      "title": "Kapittha",
+      "url": "/ayurveda-atlas/herb/kapittha/"
+    },
+    {
+      "slug": "karanja",
+      "kind": "herb",
+      "title": "Karanja",
+      "url": "/ayurveda-atlas/herb/karanja/"
+    },
+    {
+      "slug": "karira",
+      "kind": "herb",
+      "title": "Karira",
+      "url": "/ayurveda-atlas/herb/karira/"
+    },
+    {
+      "slug": "karnikara",
+      "kind": "herb",
+      "title": "Karnikara",
+      "url": "/ayurveda-atlas/herb/karnikara/"
+    },
+    {
+      "slug": "karpasa",
+      "kind": "herb",
+      "title": "Karpasa",
+      "url": "/ayurveda-atlas/herb/karpasa/"
+    },
+    {
+      "slug": "karpasa-moola",
+      "kind": "herb",
+      "title": "Karpasa Moola",
+      "url": "/ayurveda-atlas/herb/karpasa-moola/"
+    },
+    {
+      "slug": "kharjura",
+      "kind": "herb",
+      "title": "Kharjura",
+      "url": "/ayurveda-atlas/herb/kharjura/"
+    },
+    {
+      "slug": "koshamra",
+      "kind": "herb",
+      "title": "Koshamra",
+      "url": "/ayurveda-atlas/herb/koshamra/"
+    },
+    {
+      "slug": "kovidara",
+      "kind": "herb",
+      "title": "Kovidara",
+      "url": "/ayurveda-atlas/herb/kovidara/"
+    },
+    {
+      "slug": "lakuca",
+      "kind": "herb",
+      "title": "Lakuca",
+      "url": "/ayurveda-atlas/herb/lakuca/"
+    },
+    {
+      "slug": "madhuka",
+      "kind": "herb",
+      "title": "Madhuka",
+      "url": "/ayurveda-atlas/herb/madhuka/"
+    },
+    {
+      "slug": "madhuka-pushpa",
+      "kind": "herb",
+      "title": "Madhuka Pushpa",
+      "url": "/ayurveda-atlas/herb/madhuka-pushpa/"
+    },
+    {
+      "slug": "madhukarkati",
+      "kind": "herb",
+      "title": "Madhukarkati",
+      "url": "/ayurveda-atlas/herb/madhukarkati/"
+    },
+    {
+      "slug": "mayurashikha",
+      "kind": "herb",
+      "title": "Mayurashikha",
+      "url": "/ayurveda-atlas/herb/mayurashikha/"
+    },
+    {
+      "slug": "narikela",
+      "kind": "herb",
+      "title": "Narikela",
+      "url": "/ayurveda-atlas/herb/narikela/"
+    },
+    {
+      "slug": "narikela-jala",
+      "kind": "herb",
+      "title": "Narikela Jala",
+      "url": "/ayurveda-atlas/herb/narikela-jala/"
+    },
+    {
+      "slug": "nimbu",
+      "kind": "herb",
+      "title": "Nimbu",
+      "url": "/ayurveda-atlas/herb/nimbu/"
+    },
+    {
+      "slug": "panasa",
+      "kind": "herb",
+      "title": "Panasa",
+      "url": "/ayurveda-atlas/herb/panasa/"
+    },
+    {
+      "slug": "parijata",
+      "kind": "herb",
+      "title": "Parijata",
+      "url": "/ayurveda-atlas/herb/parijata/"
+    },
+    {
+      "slug": "pilu",
+      "kind": "herb",
+      "title": "Pilu",
+      "url": "/ayurveda-atlas/herb/pilu/"
+    },
+    {
+      "slug": "plaksha",
+      "kind": "herb",
+      "title": "Plaksha",
+      "url": "/ayurveda-atlas/herb/plaksha/"
+    },
+    {
+      "slug": "sala",
+      "kind": "herb",
+      "title": "Sala",
+      "url": "/ayurveda-atlas/herb/sala/"
+    },
+    {
+      "slug": "sarja",
+      "kind": "herb",
+      "title": "Sarja",
+      "url": "/ayurveda-atlas/herb/sarja/"
+    },
+    {
+      "slug": "simsapa",
+      "kind": "herb",
+      "title": "Simsapa",
+      "url": "/ayurveda-atlas/herb/simsapa/"
+    },
+    {
+      "slug": "tala",
+      "kind": "herb",
+      "title": "Tala",
+      "url": "/ayurveda-atlas/herb/tala/"
+    },
+    {
+      "slug": "tinduka",
+      "kind": "herb",
+      "title": "Tinduka",
+      "url": "/ayurveda-atlas/herb/tinduka/"
+    },
+    {
+      "slug": "tintidika",
+      "kind": "herb",
+      "title": "Tintidika",
+      "url": "/ayurveda-atlas/herb/tintidika/"
+    },
+    {
+      "slug": "udumbara",
+      "kind": "herb",
+      "title": "Udumbara",
+      "url": "/ayurveda-atlas/herb/udumbara/"
+    },
+    {
+      "slug": "vetasa",
+      "kind": "herb",
+      "title": "Vetasa",
+      "url": "/ayurveda-atlas/herb/vetasa/"
+    },
+    {
+      "slug": "vrikshamla",
+      "kind": "herb",
+      "title": "Vrikshamla",
+      "url": "/ayurveda-atlas/herb/vrikshamla/"
+    },
+    {
+      "slug": "vrikshamla-phala",
+      "kind": "herb",
+      "title": "Vrikshamla Phala",
+      "url": "/ayurveda-atlas/herb/vrikshamla-phala/"
+    },
+    {
+      "slug": "ashoka",
+      "kind": "herb",
+      "title": "Ashoka",
+      "url": "/ayurveda-atlas/herb/ashoka/"
+    },
+    {
+      "slug": "bandhuka",
+      "kind": "herb",
+      "title": "Bandhuka",
+      "url": "/ayurveda-atlas/herb/bandhuka/"
+    },
+    {
+      "slug": "japa",
+      "kind": "herb",
+      "title": "Japa",
+      "url": "/ayurveda-atlas/herb/japa/"
+    },
+    {
+      "slug": "lajjalu",
+      "kind": "herb",
+      "title": "Lajjalu",
+      "url": "/ayurveda-atlas/herb/lajjalu/"
+    },
+    {
+      "slug": "mamsarohini",
+      "kind": "herb",
+      "title": "Mamsarohini",
+      "url": "/ayurveda-atlas/herb/mamsarohini/"
+    },
+    {
+      "slug": "nagadanti",
+      "kind": "herb",
+      "title": "Nagadanti",
+      "url": "/ayurveda-atlas/herb/nagadanti/"
+    },
+    {
+      "slug": "nagakesara",
+      "kind": "herb",
+      "title": "Nagakesara",
+      "url": "/ayurveda-atlas/herb/nagakesara/"
+    },
+    {
+      "slug": "palasha",
+      "kind": "herb",
+      "title": "Palasha",
+      "url": "/ayurveda-atlas/herb/palasha/"
+    },
+    {
+      "slug": "nadi-tarangini-ai-based-pulse-diagnostic-system",
+      "kind": "device",
+      "title": "Nadi Tarangini AI Based Pulse Diagnostic System",
+      "url": "/ayurveda-atlas/device/nadi-tarangini-ai-based-pulse-diagnostic-system/"
+    },
+    {
+      "slug": "pulse-diagnosis-tools-traditional",
+      "kind": "device",
+      "title": "Pulse Diagnosis Tools Traditional",
+      "url": "/ayurveda-atlas/device/pulse-diagnosis-tools-traditional/"
+    },
+    {
+      "slug": "urine-examination-vessel-oil-drop-test",
+      "kind": "device",
+      "title": "Urine Examination Vessel Oil Drop Test",
+      "url": "/ayurveda-atlas/device/urine-examination-vessel-oil-drop-test/"
+    },
+    {
+      "slug": "weighing-scales-for-dravya-medicinal-substances",
+      "kind": "device",
+      "title": "Weighing Scales for Dravya Medicinal Substances",
+      "url": "/ayurveda-atlas/device/weighing-scales-for-dravya-medicinal-substances/"
+    },
+    {
+      "slug": "agnikarma-thermal-cauterization-instruments",
+      "kind": "device",
+      "title": "Agnikarma Thermal Cauterization Instruments",
+      "url": "/ayurveda-atlas/device/agnikarma-thermal-cauterization-instruments/"
+    },
+    {
+      "slug": "medicated-alkaline-thread",
+      "kind": "device",
+      "title": "Medicated Alkaline Thread",
+      "url": "/ayurveda-atlas/device/medicated-alkaline-thread/"
+    },
+    {
+      "slug": "cauterization-rod-thermal-cautery-instrument",
+      "kind": "device",
+      "title": "Cauterization Rod Thermal Cautery Instrument",
+      "url": "/ayurveda-atlas/device/cauterization-rod-thermal-cautery-instrument/"
+    },
+    {
+      "slug": "kizhi-poultice-bags-bolus-bags",
+      "kind": "device",
+      "title": "Kizhi Poultice Bags Bolus Bags",
+      "url": "/ayurveda-atlas/device/kizhi-poultice-bags-bolus-bags/"
+    },
+    {
+      "slug": "lepa-paste-application-tools",
+      "kind": "device",
+      "title": "Lepa Paste Application Tools",
+      "url": "/ayurveda-atlas/device/lepa-paste-application-tools/"
+    },
+    {
+      "slug": "pizhichil-equipment-oil-bath-apparatus",
+      "kind": "device",
+      "title": "Pizhichil Equipment Oil Bath Apparatus",
+      "url": "/ayurveda-atlas/device/pizhichil-equipment-oil-bath-apparatus/"
+    },
+    {
+      "slug": "udvartana-powder-massage-tools",
+      "kind": "device",
+      "title": "Udvartana Powder Massage Tools",
+      "url": "/ayurveda-atlas/device/udvartana-powder-massage-tools/"
+    },
+    {
+      "slug": "copper-water-bottle",
+      "kind": "device",
+      "title": "Copper Water Bottle",
+      "url": "/ayurveda-atlas/device/copper-water-bottle/"
+    },
+    {
+      "slug": "ear-oiling-funnel-karna-purana-apparatus",
+      "kind": "device",
+      "title": "Ear Oiling Funnel Karna Purana Apparatus",
+      "url": "/ayurveda-atlas/device/ear-oiling-funnel-karna-purana-apparatus/"
+    },
+    {
+      "slug": "eye-bath-frame-netra-bastitarpana-apparatus",
+      "kind": "device",
+      "title": "Eye Bath Frame Netra BastiTarpana Apparatus",
+      "url": "/ayurveda-atlas/device/eye-bath-frame-netra-bastitarpana-apparatus/"
+    },
+    {
+      "slug": "kansa-bronze-foot-massage-bowl",
+      "kind": "device",
+      "title": "Kansa Bronze Foot Massage Bowl",
+      "url": "/ayurveda-atlas/device/kansa-bronze-foot-massage-bowl/"
+    },
+    {
+      "slug": "kansa-wand-bronze-massage-tool",
+      "kind": "device",
+      "title": "Kansa Wand Bronze Massage Tool",
+      "url": "/ayurveda-atlas/device/kansa-wand-bronze-massage-tool/"
+    },
+    {
+      "slug": "marma-point-therapy-tools",
+      "kind": "device",
+      "title": "Marma Point Therapy Tools",
+      "url": "/ayurveda-atlas/device/marma-point-therapy-tools/"
+    },
+    {
+      "slug": "neti-pot-nasal-irrigation-vessel",
+      "kind": "device",
+      "title": "Neti Pot Nasal Irrigation Vessel",
+      "url": "/ayurveda-atlas/device/neti-pot-nasal-irrigation-vessel/"
+    },
+    {
+      "slug": "oil-pulling-cup",
+      "kind": "device",
+      "title": "Oil Pulling Cup",
+      "url": "/ayurveda-atlas/device/oil-pulling-cup/"
+    },
+    {
+      "slug": "tongue-scraper-tongue-cleaner",
+      "kind": "device",
+      "title": "Tongue Scraper Tongue Cleaner",
+      "url": "/ayurveda-atlas/device/tongue-scraper-tongue-cleaner/"
+    },
+    {
+      "slug": "basti-enema-equipment",
+      "kind": "device",
+      "title": "Basti Enema Equipment",
+      "url": "/ayurveda-atlas/device/basti-enema-equipment/"
+    },
+    {
+      "slug": "nasya-dropper-nasya-administration-chair",
+      "kind": "device",
+      "title": "Nasya Dropper Nasya Administration Chair",
+      "url": "/ayurveda-atlas/device/nasya-dropper-nasya-administration-chair/"
+    },
+    {
+      "slug": "shirodhara-pot-apparatus",
+      "kind": "device",
+      "title": "Shirodhara Pot Apparatus",
+      "url": "/ayurveda-atlas/device/shirodhara-pot-apparatus/"
+    },
+    {
+      "slug": "sitz-bath-therapeutic-immersion-tub",
+      "kind": "device",
+      "title": "Sitz Bath Therapeutic Immersion Tub",
+      "url": "/ayurveda-atlas/device/sitz-bath-therapeutic-immersion-tub/"
+    },
+    {
+      "slug": "steam-chamber-swedana-box",
+      "kind": "device",
+      "title": "Steam Chamber Swedana Box",
+      "url": "/ayurveda-atlas/device/steam-chamber-swedana-box/"
+    },
+    {
+      "slug": "vamana-emesis-basin-chair",
+      "kind": "device",
+      "title": "Vamana Emesis Basin Chair",
+      "url": "/ayurveda-atlas/device/vamana-emesis-basin-chair/"
+    },
+    {
+      "slug": "cooking-vessel-boiling-pot-apparatus",
+      "kind": "device",
+      "title": "Cooking Vessel Boiling Pot Apparatus",
+      "url": "/ayurveda-atlas/device/cooking-vessel-boiling-pot-apparatus/"
+    },
+    {
+      "slug": "damaru-taborhourglass-apparatus-sublimation-device",
+      "kind": "device",
+      "title": "Damaru TaborHourglass Apparatus Sublimation Device",
+      "url": "/ayurveda-atlas/device/damaru-taborhourglass-apparatus-sublimation-device/"
+    },
+    {
+      "slug": "distillation-apparatus-arkahydrosol-distiller",
+      "kind": "device",
+      "title": "Distillation Apparatus ArkaHydrosol Distiller",
+      "url": "/ayurveda-atlas/device/distillation-apparatus-arkahydrosol-distiller/"
+    },
+    {
+      "slug": "incineration-furnace-puta-calcination-apparatus",
+      "kind": "device",
+      "title": "Incineration Furnace Puta Calcination Apparatus",
+      "url": "/ayurveda-atlas/device/incineration-furnace-puta-calcination-apparatus/"
+    },
+    {
+      "slug": "mortar-and-pestle",
+      "kind": "device",
+      "title": "Mortar and Pestle",
+      "url": "/ayurveda-atlas/device/mortar-and-pestle/"
+    },
+    {
+      "slug": "sand-bath-apparatus",
+      "kind": "device",
+      "title": "Sand Bath Apparatus",
+      "url": "/ayurveda-atlas/device/sand-bath-apparatus/"
+    },
+    {
+      "slug": "swingsuspension-apparatus-water-bath",
+      "kind": "device",
+      "title": "SwingSuspension Apparatus Water Bath",
+      "url": "/ayurveda-atlas/device/swingsuspension-apparatus-water-bath/"
+    },
+    {
+      "slug": "medicinal-leech-hirudo-medicinalis-indian-species",
+      "kind": "device",
+      "title": "Medicinal Leech Hirudo medicinalis Indian species",
+      "url": "/ayurveda-atlas/device/medicinal-leech-hirudo-medicinalis-indian-species/"
+    },
+    {
+      "slug": "brass-bronze-vessels-for-medicine-storage",
+      "kind": "device",
+      "title": "Brass Bronze Vessels for Medicine Storage",
+      "url": "/ayurveda-atlas/device/brass-bronze-vessels-for-medicine-storage/"
+    },
+    {
+      "slug": "copper-water-tumbler-copper-vessel",
+      "kind": "device",
+      "title": "Copper Water Tumbler Copper Vessel",
+      "url": "/ayurveda-atlas/device/copper-water-tumbler-copper-vessel/"
+    },
+    {
+      "slug": "vijaysar-wood-tumbler",
+      "kind": "device",
+      "title": "Vijaysar Wood Tumbler",
+      "url": "/ayurveda-atlas/device/vijaysar-wood-tumbler/"
+    },
+    {
+      "slug": "aja-dugdha-goat-milk",
+      "kind": "herb",
+      "title": "Aja Dugdha Goat Milk",
+      "url": "/ayurveda-atlas/herb/aja-dugdha-goat-milk/"
+    },
+    {
+      "slug": "dadhi",
+      "kind": "herb",
+      "title": "Dadhi",
+      "url": "/ayurveda-atlas/herb/dadhi/"
+    },
+    {
+      "slug": "ghrita",
+      "kind": "herb",
+      "title": "Ghrita",
+      "url": "/ayurveda-atlas/herb/ghrita/"
+    },
+    {
+      "slug": "godugdha",
+      "kind": "herb",
+      "title": "Godugdha",
+      "url": "/ayurveda-atlas/herb/godugdha/"
+    },
+    {
+      "slug": "gomutra",
+      "kind": "herb",
+      "title": "Gomutra",
+      "url": "/ayurveda-atlas/herb/gomutra/"
+    },
+    {
+      "slug": "gorochana",
+      "kind": "herb",
+      "title": "Gorochana",
+      "url": "/ayurveda-atlas/herb/gorochana/"
+    },
+    {
+      "slug": "kasturi",
+      "kind": "herb",
+      "title": "Kasturi",
+      "url": "/ayurveda-atlas/herb/kasturi/"
+    },
+    {
+      "slug": "madhu",
+      "kind": "herb",
+      "title": "Madhu",
+      "url": "/ayurveda-atlas/herb/madhu/"
+    },
+    {
+      "slug": "takra",
+      "kind": "herb",
+      "title": "Takra",
+      "url": "/ayurveda-atlas/herb/takra/"
+    },
+    {
+      "slug": "yava",
+      "kind": "herb",
+      "title": "Yava",
+      "url": "/ayurveda-atlas/herb/yava/"
+    },
+    {
+      "slug": "abhraka-bhasma",
+      "kind": "herb",
+      "title": "Abhraka Bhasma",
+      "url": "/ayurveda-atlas/herb/abhraka-bhasma/"
+    },
+    {
+      "slug": "godanti-bhasma",
+      "kind": "herb",
+      "title": "Godanti Bhasma",
+      "url": "/ayurveda-atlas/herb/godanti-bhasma/"
+    },
+    {
+      "slug": "gomeda-bhasma",
+      "kind": "herb",
+      "title": "Gomeda Bhasma",
+      "url": "/ayurveda-atlas/herb/gomeda-bhasma/"
+    },
+    {
+      "slug": "hajrul-yahood-bhasma",
+      "kind": "herb",
+      "title": "Hajrul Yahood Bhasma",
+      "url": "/ayurveda-atlas/herb/hajrul-yahood-bhasma/"
+    },
+    {
+      "slug": "haratala-bhasma",
+      "kind": "herb",
+      "title": "Haratala Bhasma",
+      "url": "/ayurveda-atlas/herb/haratala-bhasma/"
+    },
+    {
+      "slug": "kamsya-bhasma",
+      "kind": "herb",
+      "title": "Kamsya Bhasma",
+      "url": "/ayurveda-atlas/herb/kamsya-bhasma/"
+    },
+    {
+      "slug": "kanmad-bhasma",
+      "kind": "herb",
+      "title": "Kanmad Bhasma",
+      "url": "/ayurveda-atlas/herb/kanmad-bhasma/"
+    },
+    {
+      "slug": "kasis-bhasma",
+      "kind": "herb",
+      "title": "Kasis Bhasma",
+      "url": "/ayurveda-atlas/herb/kasis-bhasma/"
+    },
+    {
+      "slug": "kukkutanda-twak-bhasma",
+      "kind": "herb",
+      "title": "Kukkutanda Twak Bhasma",
+      "url": "/ayurveda-atlas/herb/kukkutanda-twak-bhasma/"
+    },
+    {
+      "slug": "loha-bhasma",
+      "kind": "herb",
+      "title": "Loha Bhasma",
+      "url": "/ayurveda-atlas/herb/loha-bhasma/"
+    },
+    {
+      "slug": "mandura-bhasma",
+      "kind": "herb",
+      "title": "Mandura Bhasma",
+      "url": "/ayurveda-atlas/herb/mandura-bhasma/"
+    },
+    {
+      "slug": "mrigashringa-bhasma",
+      "kind": "herb",
+      "title": "Mrigashringa Bhasma",
+      "url": "/ayurveda-atlas/herb/mrigashringa-bhasma/"
+    },
+    {
+      "slug": "naga-bhasma",
+      "kind": "herb",
+      "title": "Naga Bhasma",
+      "url": "/ayurveda-atlas/herb/naga-bhasma/"
+    },
+    {
+      "slug": "raupya-bhasma",
+      "kind": "herb",
+      "title": "Raupya Bhasma",
+      "url": "/ayurveda-atlas/herb/raupya-bhasma/"
+    },
+    {
+      "slug": "shankha-bhasma",
+      "kind": "herb",
+      "title": "Shankha Bhasma",
+      "url": "/ayurveda-atlas/herb/shankha-bhasma/"
+    },
+    {
+      "slug": "shukti-bhasma",
+      "kind": "herb",
+      "title": "Shukti Bhasma",
+      "url": "/ayurveda-atlas/herb/shukti-bhasma/"
+    },
+    {
+      "slug": "sphatika-bhasma",
+      "kind": "herb",
+      "title": "Sphatika Bhasma",
+      "url": "/ayurveda-atlas/herb/sphatika-bhasma/"
+    },
+    {
+      "slug": "swarna-bhasma",
+      "kind": "herb",
+      "title": "Swarna Bhasma",
+      "url": "/ayurveda-atlas/herb/swarna-bhasma/"
+    },
+    {
+      "slug": "tamra-bhasma",
+      "kind": "herb",
+      "title": "Tamra Bhasma",
+      "url": "/ayurveda-atlas/herb/tamra-bhasma/"
+    },
+    {
+      "slug": "tankana-bhasma",
+      "kind": "herb",
+      "title": "Tankana Bhasma",
+      "url": "/ayurveda-atlas/herb/tankana-bhasma/"
+    },
+    {
+      "slug": "trivanga-bhasma",
+      "kind": "herb",
+      "title": "Trivanga Bhasma",
+      "url": "/ayurveda-atlas/herb/trivanga-bhasma/"
+    },
+    {
+      "slug": "vaikranta-bhasma",
+      "kind": "herb",
+      "title": "Vaikranta Bhasma",
+      "url": "/ayurveda-atlas/herb/vaikranta-bhasma/"
+    },
+    {
+      "slug": "vajra-bhasma",
+      "kind": "herb",
+      "title": "Vajra Bhasma",
+      "url": "/ayurveda-atlas/herb/vajra-bhasma/"
+    },
+    {
+      "slug": "vanga-bhasma",
+      "kind": "herb",
+      "title": "Vanga Bhasma",
+      "url": "/ayurveda-atlas/herb/vanga-bhasma/"
+    },
+    {
+      "slug": "varatika-bhasma",
+      "kind": "herb",
+      "title": "Varatika Bhasma",
+      "url": "/ayurveda-atlas/herb/varatika-bhasma/"
+    },
+    {
+      "slug": "yashada-bhasma",
+      "kind": "herb",
+      "title": "Yashada Bhasma",
+      "url": "/ayurveda-atlas/herb/yashada-bhasma/"
+    },
+    {
+      "slug": "dhatri-loha",
+      "kind": "herb",
+      "title": "Dhatri Loha",
+      "url": "/ayurveda-atlas/herb/dhatri-loha/"
+    },
+    {
+      "slug": "lohasava",
+      "kind": "herb",
+      "title": "Lohasava",
+      "url": "/ayurveda-atlas/herb/lohasava/"
+    },
+    {
+      "slug": "madhu-mandur",
+      "kind": "herb",
+      "title": "Madhu Mandur",
+      "url": "/ayurveda-atlas/herb/madhu-mandur/"
+    },
+    {
+      "slug": "navayasa-loha",
+      "kind": "herb",
+      "title": "Navayasa Loha",
+      "url": "/ayurveda-atlas/herb/navayasa-loha/"
+    },
+    {
+      "slug": "pradarantak-lauh",
+      "kind": "herb",
+      "title": "Pradarantak Lauh",
+      "url": "/ayurveda-atlas/herb/pradarantak-lauh/"
+    },
+    {
+      "slug": "saptamrit-lauh",
+      "kind": "herb",
+      "title": "Saptamrit Lauh",
+      "url": "/ayurveda-atlas/herb/saptamrit-lauh/"
+    },
+    {
+      "slug": "shothari-loha",
+      "kind": "herb",
+      "title": "Shothari Loha",
+      "url": "/ayurveda-atlas/herb/shothari-loha/"
+    },
+    {
+      "slug": "tapyadi-loha",
+      "kind": "herb",
+      "title": "Tapyadi Loha",
+      "url": "/ayurveda-atlas/herb/tapyadi-loha/"
+    },
+    {
+      "slug": "shilajit",
+      "kind": "herb",
+      "title": "Shilajit",
+      "url": "/ayurveda-atlas/herb/shilajit/"
+    },
+    {
+      "slug": "akika-pishti",
+      "kind": "herb",
+      "title": "Akika Pishti",
+      "url": "/ayurveda-atlas/herb/akika-pishti/"
+    },
+    {
+      "slug": "jahar-mohra-pishti",
+      "kind": "herb",
+      "title": "Jahar Mohra Pishti",
+      "url": "/ayurveda-atlas/herb/jahar-mohra-pishti/"
+    },
+    {
+      "slug": "kaharuba-pishti",
+      "kind": "herb",
+      "title": "Kaharuba Pishti",
+      "url": "/ayurveda-atlas/herb/kaharuba-pishti/"
+    },
+    {
+      "slug": "manikya-pishti",
+      "kind": "herb",
+      "title": "Manikya Pishti",
+      "url": "/ayurveda-atlas/herb/manikya-pishti/"
+    },
+    {
+      "slug": "mukta-pishti",
+      "kind": "herb",
+      "title": "Mukta Pishti",
+      "url": "/ayurveda-atlas/herb/mukta-pishti/"
+    },
+    {
+      "slug": "neelam-pishti",
+      "kind": "herb",
+      "title": "Neelam Pishti",
+      "url": "/ayurveda-atlas/herb/neelam-pishti/"
+    },
+    {
+      "slug": "panna-pishti",
+      "kind": "herb",
+      "title": "Panna Pishti",
+      "url": "/ayurveda-atlas/herb/panna-pishti/"
+    },
+    {
+      "slug": "pravala-pishti",
+      "kind": "herb",
+      "title": "Pravala Pishti",
+      "url": "/ayurveda-atlas/herb/pravala-pishti/"
+    },
+    {
+      "slug": "hinguleshwar-ras",
+      "kind": "herb",
+      "title": "Hinguleshwar Ras",
+      "url": "/ayurveda-atlas/herb/hinguleshwar-ras/"
+    },
+    {
+      "slug": "icchabhedi-rasa",
+      "kind": "herb",
+      "title": "Icchabhedi Rasa",
+      "url": "/ayurveda-atlas/herb/icchabhedi-rasa/"
+    },
+    {
+      "slug": "krimi-kuthar-rasa",
+      "kind": "herb",
+      "title": "Krimi Kuthar Rasa",
+      "url": "/ayurveda-atlas/herb/krimi-kuthar-rasa/"
+    },
+    {
+      "slug": "kshara-parpati",
+      "kind": "herb",
+      "title": "Kshara Parpati",
+      "url": "/ayurveda-atlas/herb/kshara-parpati/"
+    },
+    {
+      "slug": "laghu-sutshekhar-ras",
+      "kind": "herb",
+      "title": "Laghu Sutshekhar Ras",
+      "url": "/ayurveda-atlas/herb/laghu-sutshekhar-ras/"
+    },
+    {
+      "slug": "mahalakshmi-vilas-rasa",
+      "kind": "herb",
+      "title": "Mahalakshmi Vilas Rasa",
+      "url": "/ayurveda-atlas/herb/mahalakshmi-vilas-rasa/"
+    },
+    {
+      "slug": "makaradhwaj-vati",
+      "kind": "herb",
+      "title": "Makaradhwaj Vati",
+      "url": "/ayurveda-atlas/herb/makaradhwaj-vati/"
+    },
+    {
+      "slug": "navaratna-raja-mriganka-rasa",
+      "kind": "herb",
+      "title": "Navaratna Raja Mriganka Rasa",
+      "url": "/ayurveda-atlas/herb/navaratna-raja-mriganka-rasa/"
+    },
+    {
+      "slug": "nityananda-rasa",
+      "kind": "herb",
+      "title": "Nityananda Rasa",
+      "url": "/ayurveda-atlas/herb/nityananda-rasa/"
+    },
+    {
+      "slug": "panchamrita-parpati",
+      "kind": "herb",
+      "title": "Panchamrita Parpati",
+      "url": "/ayurveda-atlas/herb/panchamrita-parpati/"
+    },
+    {
+      "slug": "rasamanikya",
+      "kind": "herb",
+      "title": "Rasamanikya",
+      "url": "/ayurveda-atlas/herb/rasamanikya/"
+    },
+    {
+      "slug": "sameer-pannag-rasa",
+      "kind": "herb",
+      "title": "Sameer Pannag Rasa",
+      "url": "/ayurveda-atlas/herb/sameer-pannag-rasa/"
+    },
+    {
+      "slug": "siddha-makardhwaj",
+      "kind": "herb",
+      "title": "Siddha Makardhwaj",
+      "url": "/ayurveda-atlas/herb/siddha-makardhwaj/"
+    },
+    {
+      "slug": "swarna-parpati",
+      "kind": "herb",
+      "title": "Swarna Parpati",
+      "url": "/ayurveda-atlas/herb/swarna-parpati/"
+    },
+    {
+      "slug": "swarna-vasant-malti-ras",
+      "kind": "herb",
+      "title": "Swarna Vasant Malti Ras",
+      "url": "/ayurveda-atlas/herb/swarna-vasant-malti-ras/"
+    },
+    {
+      "slug": "tribhuvan-kirti-rasa",
+      "kind": "herb",
+      "title": "Tribhuvan Kirti Rasa",
+      "url": "/ayurveda-atlas/herb/tribhuvan-kirti-rasa/"
+    },
+    {
+      "slug": "vasant-kusumakar-rasa",
+      "kind": "herb",
+      "title": "Vasant Kusumakar Rasa",
+      "url": "/ayurveda-atlas/herb/vasant-kusumakar-rasa/"
+    },
+    {
+      "slug": "vatagajankush-rasa",
+      "kind": "herb",
+      "title": "Vatagajankush Rasa",
+      "url": "/ayurveda-atlas/herb/vatagajankush-rasa/"
+    },
+    {
+      "slug": "saindhava-lavana",
+      "kind": "herb",
+      "title": "Saindhava Lavana",
+      "url": "/ayurveda-atlas/herb/saindhava-lavana/"
+    },
+    {
+      "slug": "samudra-lavana",
+      "kind": "herb",
+      "title": "Samudra Lavana",
+      "url": "/ayurveda-atlas/herb/samudra-lavana/"
+    },
+    {
+      "slug": "souvarchala-lavana",
+      "kind": "herb",
+      "title": "Souvarchala Lavana",
+      "url": "/ayurveda-atlas/herb/souvarchala-lavana/"
+    },
+    {
+      "slug": "vida-lavana",
+      "kind": "herb",
+      "title": "Vida Lavana",
+      "url": "/ayurveda-atlas/herb/vida-lavana/"
+    },
+    {
+      "slug": "yavakshara",
+      "kind": "herb",
+      "title": "Yavakshara",
+      "url": "/ayurveda-atlas/herb/yavakshara/"
+    },
+    {
+      "slug": "antiinflammatory-pain",
+      "kind": "hub",
+      "title": "Anti inflammatory & Pain",
+      "url": "/ayurveda-atlas/reference/antiinflammatory-pain/"
+    },
+    {
+      "slug": "brain-nervous-system",
+      "kind": "hub",
+      "title": "Brain & Nervous System",
+      "url": "/ayurveda-atlas/reference/brain-nervous-system/"
+    },
+    {
+      "slug": "diabetes-metabolism",
+      "kind": "hub",
+      "title": "Diabetes & Metabolism",
+      "url": "/ayurveda-atlas/reference/diabetes-metabolism/"
+    },
+    {
+      "slug": "digestive-health",
+      "kind": "hub",
+      "title": "Digestive Health",
+      "url": "/ayurveda-atlas/reference/digestive-health/"
+    },
+    {
+      "slug": "eye-health",
+      "kind": "hub",
+      "title": "Eye Health",
+      "url": "/ayurveda-atlas/reference/eye-health/"
+    },
+    {
+      "slug": "fever-infection",
+      "kind": "hub",
+      "title": "Fever & Infection",
+      "url": "/ayurveda-atlas/reference/fever-infection/"
+    },
+    {
+      "slug": "heart-cardiovascular",
+      "kind": "hub",
+      "title": "Heart & Cardiovascular",
+      "url": "/ayurveda-atlas/reference/heart-cardiovascular/"
+    },
+    {
+      "slug": "immune-system-rasayana",
+      "kind": "hub",
+      "title": "Immune System & Rasayana",
+      "url": "/ayurveda-atlas/reference/immune-system-rasayana/"
+    },
+    {
+      "slug": "joint-musculoskeletal",
+      "kind": "hub",
+      "title": "Joint & Musculoskeletal",
+      "url": "/ayurveda-atlas/reference/joint-musculoskeletal/"
+    },
+    {
+      "slug": "kidney-urinary",
+      "kind": "hub",
+      "title": "Kidney & Urinary",
+      "url": "/ayurveda-atlas/reference/kidney-urinary/"
+    },
+    {
+      "slug": "liver-detoxification",
+      "kind": "hub",
+      "title": "Liver & Detoxification",
+      "url": "/ayurveda-atlas/reference/liver-detoxification/"
+    },
+    {
+      "slug": "mens-health-vitality",
+      "kind": "hub",
+      "title": "Men's Health & Vitality",
+      "url": "/ayurveda-atlas/reference/mens-health-vitality/"
+    },
+    {
+      "slug": "respiratory-health",
+      "kind": "hub",
+      "title": "Respiratory Health",
+      "url": "/ayurveda-atlas/reference/respiratory-health/"
+    },
+    {
+      "slug": "skin-beauty",
+      "kind": "hub",
+      "title": "Skin & Beauty",
+      "url": "/ayurveda-atlas/reference/skin-beauty/"
+    },
+    {
+      "slug": "womens-health",
+      "kind": "hub",
+      "title": "Women's Health",
+      "url": "/ayurveda-atlas/reference/womens-health/"
+    },
+    {
+      "slug": "catechin",
+      "kind": "hub",
+      "title": "Catechin",
+      "url": "/ayurveda-atlas/reference/catechin/"
+    },
+    {
+      "slug": "ellagic-acid",
+      "kind": "hub",
+      "title": "Ellagic acid",
+      "url": "/ayurveda-atlas/reference/ellagic-acid/"
+    },
+    {
+      "slug": "flavonoids",
+      "kind": "hub",
+      "title": "Flavonoids",
+      "url": "/ayurveda-atlas/reference/flavonoids/"
+    },
+    {
+      "slug": "gallic-acid",
+      "kind": "hub",
+      "title": "Gallic acid",
+      "url": "/ayurveda-atlas/reference/gallic-acid/"
+    },
+    {
+      "slug": "kaempferol",
+      "kind": "hub",
+      "title": "Kaempferol",
+      "url": "/ayurveda-atlas/reference/kaempferol/"
+    },
+    {
+      "slug": "lupeol",
+      "kind": "hub",
+      "title": "Lupeol",
+      "url": "/ayurveda-atlas/reference/lupeol/"
+    },
+    {
+      "slug": "oleanolic-acid",
+      "kind": "hub",
+      "title": "Oleanolic acid",
+      "url": "/ayurveda-atlas/reference/oleanolic-acid/"
+    },
+    {
+      "slug": "piperine",
+      "kind": "hub",
+      "title": "Piperine",
+      "url": "/ayurveda-atlas/reference/piperine/"
+    },
+    {
+      "slug": "quercetinquercetin",
+      "kind": "hub",
+      "title": "Quercetin",
+      "url": "/ayurveda-atlas/reference/quercetinquercetin/"
+    },
+    {
+      "slug": "saponins",
+      "kind": "hub",
+      "title": "Saponins",
+      "url": "/ayurveda-atlas/reference/saponins/"
+    },
+    {
+      "slug": "stigmasterol",
+      "kind": "hub",
+      "title": "Stigmasterol",
+      "url": "/ayurveda-atlas/reference/stigmasterol/"
+    },
+    {
+      "slug": "tannins",
+      "kind": "hub",
+      "title": "Tannins",
+      "url": "/ayurveda-atlas/reference/tannins/"
+    },
+    {
+      "slug": "ursolic-acid",
+      "kind": "hub",
+      "title": "Ursolic acid",
+      "url": "/ayurveda-atlas/reference/ursolic-acid/"
+    },
+    {
+      "slug": "antiinflammatory-pain-across-traditions",
+      "kind": "hub",
+      "title": "Anti inflammatory & Pain — Across Traditions",
+      "url": "/ayurveda-atlas/reference/antiinflammatory-pain-across-traditions/"
+    },
+    {
+      "slug": "kidney-urinary-across-traditions",
+      "kind": "hub",
+      "title": "Kidney & Urinary — Across Traditions",
+      "url": "/ayurveda-atlas/reference/kidney-urinary-across-traditions/"
+    },
+    {
+      "slug": "fabaceae",
+      "kind": "hub",
+      "title": "Family: Fabaceae",
+      "url": "/ayurveda-atlas/reference/fabaceae/"
+    },
+    {
+      "slug": "rosaceae",
+      "kind": "hub",
+      "title": "Family: Rosaceae",
+      "url": "/ayurveda-atlas/reference/rosaceae/"
+    },
+    {
+      "slug": "zingiberaceae",
+      "kind": "hub",
+      "title": "Family: Zingiberaceae",
+      "url": "/ayurveda-atlas/reference/zingiberaceae/"
+    },
+    {
+      "slug": "adaptogenic",
+      "kind": "hub",
+      "title": "Adaptogenic Agents",
+      "url": "/ayurveda-atlas/reference/adaptogenic/"
+    },
+    {
+      "slug": "analgesic",
+      "kind": "hub",
+      "title": "Analgesic Agents",
+      "url": "/ayurveda-atlas/reference/analgesic/"
+    },
+    {
+      "slug": "anticancer",
+      "kind": "hub",
+      "title": "Anticancer Agents",
+      "url": "/ayurveda-atlas/reference/anticancer/"
+    },
+    {
+      "slug": "antidiabetic",
+      "kind": "hub",
+      "title": "Antidiabetic Agents",
+      "url": "/ayurveda-atlas/reference/antidiabetic/"
+    },
+    {
+      "slug": "antiinflammatory",
+      "kind": "hub",
+      "title": "Anti inflammatory Agents",
+      "url": "/ayurveda-atlas/reference/antiinflammatory/"
+    },
+    {
+      "slug": "antimicrobial",
+      "kind": "hub",
+      "title": "Antimicrobial Agents",
+      "url": "/ayurveda-atlas/reference/antimicrobial/"
+    },
+    {
+      "slug": "antioxidant",
+      "kind": "hub",
+      "title": "Antioxidant Agents",
+      "url": "/ayurveda-atlas/reference/antioxidant/"
+    },
+    {
+      "slug": "antipyretic",
+      "kind": "hub",
+      "title": "Antipyretic Agents",
+      "url": "/ayurveda-atlas/reference/antipyretic/"
+    },
+    {
+      "slug": "anxiolytic",
+      "kind": "hub",
+      "title": "Anxiolytic Agents",
+      "url": "/ayurveda-atlas/reference/anxiolytic/"
+    },
+    {
+      "slug": "bronchodilator",
+      "kind": "hub",
+      "title": "Bronchodilator Agents",
+      "url": "/ayurveda-atlas/reference/bronchodilator/"
+    },
+    {
+      "slug": "cardioprotective",
+      "kind": "hub",
+      "title": "Cardioprotective Agents",
+      "url": "/ayurveda-atlas/reference/cardioprotective/"
+    },
+    {
+      "slug": "diuretic",
+      "kind": "hub",
+      "title": "Diuretic Agents",
+      "url": "/ayurveda-atlas/reference/diuretic/"
+    },
+    {
+      "slug": "expectorant",
+      "kind": "hub",
+      "title": "Expectorant Agents",
+      "url": "/ayurveda-atlas/reference/expectorant/"
+    },
+    {
+      "slug": "hepatoprotective",
+      "kind": "hub",
+      "title": "Hepatoprotective Agents",
+      "url": "/ayurveda-atlas/reference/hepatoprotective/"
+    },
+    {
+      "slug": "immunomodulatory",
+      "kind": "hub",
+      "title": "Immunomodulatory Agents",
+      "url": "/ayurveda-atlas/reference/immunomodulatory/"
+    },
+    {
+      "slug": "laxative",
+      "kind": "hub",
+      "title": "Laxative Agents",
+      "url": "/ayurveda-atlas/reference/laxative/"
+    },
+    {
+      "slug": "medhya-nootropic",
+      "kind": "hub",
+      "title": "Medhya (Nootropic) Agents",
+      "url": "/ayurveda-atlas/reference/medhya-nootropic/"
+    },
+    {
+      "slug": "neuroprotective",
+      "kind": "hub",
+      "title": "Neuroprotective Agents",
+      "url": "/ayurveda-atlas/reference/neuroprotective/"
+    },
+    {
+      "slug": "rasayana",
+      "kind": "hub",
+      "title": "Rasayana Agents",
+      "url": "/ayurveda-atlas/reference/rasayana/"
+    },
+    {
+      "slug": "wound-healing",
+      "kind": "hub",
+      "title": "Wound Healing Agents",
+      "url": "/ayurveda-atlas/reference/wound-healing/"
+    }
+  ]
+}

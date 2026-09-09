@@ -1,0 +1,16 @@
+---
+import Base from './Base.astro';
+import Crumbs from '../components/Crumbs.astro';
+import { SITE_NAME } from '../lib/site';
+
+interface Props { title: string; description: string; canonical: string; lede?: string }
+const { title, description, canonical, lede } = Astro.props;
+---
+<Base title={`${title} · ${SITE_NAME}`} description={description} canonical={canonical}>
+  <article>
+    <Crumbs trail={[{ label: title }]} />
+    <h1>{title}</h1>
+    {lede && <p class="lede">{lede}</p>}
+    <div class="prose"><slot /></div>
+  </article>
+</Base>

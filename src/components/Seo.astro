@@ -1,0 +1,44 @@
+---
+import { SITE_NAME, PUBLISHER, STORE, abs } from '../lib/site';
+
+interface Props {
+  title: string;
+  description: string;
+  canonical: string;      // site-relative, e.g. /herb/ashwagandha/
+  jsonld?: Record<string, unknown> | Record<string, unknown>[];
+}
+const { title, description, canonical, jsonld } = Astro.props;
+const url = abs(canonical);
+
+const organization = {
+  '@type': 'Organization',
+  '@id': `${abs('/')}#organization`,
+  name: PUBLISHER,
+  url: STORE,
+  sameAs: [STORE, abs('/')],
+};
+
+const blocks = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    '@id': `${abs('/')}#website`,
+    name: SITE_NAME,
+    url: abs('/'),
+    publisher: organization,
+  },
+  ...(Array.isArray(jsonld) ? jsonld : jsonld ? [jsonld] : []),
+];
+---
+<title>{title}</title>
+<meta name="description" content={description} />
+<link rel="canonical" href={url} />
+<meta property="og:type" content="article" />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:url" content={url} />
+<meta property="og:site_name" content={SITE_NAME} />
+<meta name="twitter:card" content="summary" />
+{blocks.map((b) => (
+  <script type="application/ld+json" set:html={JSON.stringify(b)} is:inline />
+))}

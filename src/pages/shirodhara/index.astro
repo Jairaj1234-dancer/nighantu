@@ -1,0 +1,11 @@
+---
+import { getCollection, render } from 'astro:content';
+import Guide from '../../layouts/Guide.astro';
+
+const all = (await getCollection('guide')).sort((a, b) => a.data.order - b.data.order);
+const entry = all.find((e) => e.data.slug === 'shirodhara')!;
+const { Content } = await render(entry);
+---
+<Guide entry={entry} siblings={all.map((e) => e.data)}>
+  <Content />
+</Guide>

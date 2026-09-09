@@ -1,0 +1,16 @@
+---
+import { SITE_NAME, PUBLISHER, abs, rel } from '../lib/site';
+
+interface Props { title: string; canonical: string; updated?: Date }
+const { title, canonical, updated = new Date() } = Astro.props;
+const url = abs(canonical);
+const stamp = updated.toISOString().slice(0, 10);
+const pretty = updated.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
+---
+<aside class="cite">
+  <strong>Cite this page.</strong>
+  {PUBLISHER}. &ldquo;{title}.&rdquo; <i>{SITE_NAME}</i>. Last reviewed {pretty}.
+  <code>{url}</code>
+  <br />
+  <span>Machine-readable source: <a href={rel(`${canonical.replace(/\/$/, '')}.md`)}>Markdown</a>. Reviewed {stamp}.</span>
+</aside>

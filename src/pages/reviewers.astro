@@ -1,0 +1,50 @@
+---
+import Page from '../layouts/Page.astro';
+import { rel } from '../lib/site';
+---
+<Page
+  title="Reviewers"
+  description="The Ayurveda Atlas review position, stated honestly: what has been checked, by what process, and what has not yet been reviewed by a named practitioner."
+  canonical="/reviewers/"
+  lede="Where expert review currently stands. This page is deliberately unflattering."
+>
+
+## The current position
+
+**No individually named practitioner has yet signed off the monograph set.** We are not going
+to invent one, and we are not going to use a vague phrase like "reviewed by our Ayurvedic
+team" to imply something that has not happened.
+
+What has been done:
+
+- Every monograph derives from sourced reference material rather than from generated prose,
+  and the sources are listed on each page.
+- Pharmacopoeial and regulatory status fields come from the named pharmacopoeias, not from
+  secondary summaries.
+- The <a href={rel('/shirodhara/')}>Shirodhara guide</a> pages are written from classical
+  sources and from practice knowledge held inside Age Ayurveda, and they distinguish
+  explicitly between what the Samhitas contain and what is later Kerala tradition.
+- Mechanical checks run on every build: no page may state the contested classical herb count
+  for Chyawanprash, no disease term may appear inside a product block, and restricted and
+  metallic preparations are excluded from publication entirely.
+
+What has not been done:
+
+- Line-by-line review of each monograph by a qualified vaidya.
+- Independent verification of every research summary against the original paper.
+
+## Why this page exists
+
+Search engines and answer engines both weight named, credentialled review, and it would be
+easy to write a page that gestures at expertise without committing to any. That page would be
+a lie, and a reference work that lies about its own provenance is worth nothing.
+
+When a named practitioner has reviewed a section, this page will say who, which section, and
+when. Until then it says this.
+
+## If you are qualified and want to help
+
+We are looking for a qualified Ayurvedic physician willing to be credited by name for
+reviewing sections of the Atlas. Corrections from anyone, credentialled or not, are welcome
+at <a href={rel('/corrections/')}>corrections</a>.
+</Page>

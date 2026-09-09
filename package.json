@@ -1,0 +1,20 @@
+{
+  "name": "ayurveda-atlas",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "ingest": "node scripts/ingest.mjs",
+    "ingest:dry": "node scripts/ingest.mjs --dry-run",
+    "audit": "node scripts/audit.mjs",
+    "dev": "astro dev",
+    "build": "node scripts/audit.mjs && astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^5.6.1",
+    "@astrojs/sitemap": "^3.3.0",
+    "@astrojs/rss": "^4.0.11",
+    "gray-matter": "^4.0.3"
+  }
+}

@@ -1,0 +1,88 @@
+---
+title: "Madhu Mandur"
+slug: "madhu-mandur"
+kind: "herb"
+section: "Ayurveda"
+category: "Others"
+subcategory: "Mineral-Metal-Preparations"
+group: "Lohas-Iron-Preparations"
+answer: "Madhu Mandur is a substance used in the Ayurvedic materia medica. Iron deficiency anemia (Pandu Roga) - validated by clinical studies showing significant hemoglobin improvement, especially with honey co-administration Anemia in children - validated by clinical evaluation showing 21.86% hemoglobin increase with honey + Mandur Bhasma combination"
+botanical: ""
+family: ""
+sanskrit: ""
+ayurvedicCategory: ""
+whoStatus: "Mandura Bhasma is listed in the Ayurvedic Pharmacopoeia of India (API) with standardized monograph; preparation methods and quality parameters specified; widely recognized as a classical Ayurvedic hematinic"
+aliases: ["Madhu Mandur", "MadhuMandur"]
+tags: ["ayurveda", "loha", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+productHints: []
+words: 484
+srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Lohas-Iron-Preparations/Madhu-Mandur/meta-analysis.md"
+---
+## Names and identification
+
+| Language | Name |
+|----------|------|
+| English | [Madhu](/ayurveda-atlas/herb/madhu/) Mandur |
+
+## Where is it described in the classical texts?
+
+Charaka Samhita, Pandu Roga Chikitsa; Bhaishajya Ratnavali; Rasa Tarangini; the concept of Mandura processing is described across multiple classical texts
+
+## How does it work?
+
+- Mandura (iron rust/Fe2O3) provides iron in oxide form that is converted to bioavailable nano-particulate iron through classical calcination (Marana) process
+- Honey ([Madhu](/ayurveda-atlas/herb/madhu/)) acts as a potent bioenhancer increasing iron absorption by >100% compared to Mandur alone; also has Yogavahi (carrier) properties enhancing tissue penetration
+- [Triphala](/ayurveda-atlas/herb/triphala/) decoction used in processing provides vitamin C for iron absorption, [antioxidant](/ayurveda-atlas/reference/antioxidant/) protection, and Shodhana (purification) of the iron rust
+- [Gomutra](/ayurveda-atlas/herb/gomutra/) (cow's urine) in purification contains uric acid and [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes) that aid in conversion of toxic iron forms to safer oxide nanoparticles
+- Combined Deepana-Pachana (digestive fire enhancing) and Rakta-Vardhaka (blood building) action corrects both the cause (poor digestion/absorption) and effect (low hemoglobin) of anemia
+
+## Which traditional uses are supported by research?
+
+- Iron deficiency anemia (Pandu Roga) - validated by clinical studies showing significant hemoglobin improvement, especially with honey co-administration
+- Anemia in children - validated by clinical evaluation showing 21.86% hemoglobin increase with honey + Mandur Bhasma combination
+
+## What do recent clinical trials show?
+
+- **Clinical evaluation of potentiating effect of honey and Mandur Bhasma in anemic children** (2015): Honey combined with Mandur Bhasma showed 21.86% increase in hemoglobin vs 9.77% with Mandur Bhasma alone, demonstrating synergistic potentiating effect of honey
+- **Therapeutic Efficacy of [Mandura Bhasma](/ayurveda-atlas/herb/mandura-bhasma/) and [Rohitakarishta](/ayurveda-atlas/formulation/rohitakarishta/) in Severe Anemia: A Classical Ayurvedic Approach** (2025): Case study showed significant hemoglobin increase and drastic improvement in energy levels, appetite, and overall well-being in pediatric severe anemia
+- **Analytical standardization of [Mandura Bhasma](/ayurveda-atlas/herb/mandura-bhasma/) (incinerated iron oxide)** (2016): Standardized characterization of [Mandura Bhasma](/ayurveda-atlas/herb/mandura-bhasma/) confirmed nano-particulate iron oxide form meeting classical quality parameters (Rekhapurnatva, Varitaratva, Sukshmatva)
+
+## Recent safety updates
+
+- Honey potentiation allows lower effective iron dose, reducing risk of iron-related GI side effects
+- Mandura must undergo proper Shodhana (purification with [Triphala](/ayurveda-atlas/herb/triphala/), [Gomutra](/ayurveda-atlas/herb/gomutra/), etc.) to remove toxic contaminants from raw iron rust
+- Iron overload risk with chronic unsupervised use; particularly important to monitor in patients with hereditary hemochromatosis or thalassemia
+- Quality control essential - raw iron rust may contain variable heavy metal contaminants (lead, cadmium); only standardized preparations from licensed manufacturers should be used
+- API mandates strict limits on Loha percentage and permissible heavy metal contaminants in [Mandura Bhasma](/ayurveda-atlas/herb/mandura-bhasma/) preparations
+
+## What is it made of?
+
+### Mineral/Elemental Profile
+
+- **Primary component:** Mineral-derived preparation
+- **Note:** Composition varies by specific preparation method
+
+**Analytical Methods:** XRD, ICP-OES, SEM-EDS
+
+## Dosage forms and preparation
+
+**Dosage Forms:** Vati/tablet
+
+**Standard Dosage:** 250–500 mg twice daily
+
+**Bioavailability:** Enhanced; Mandura (iron rust) combined with honey ([Madhu](/ayurveda-atlas/herb/madhu/)) processing improves absorption
+
+**Optimal Timing:** After meals with buttermilk or [Triphala](/ayurveda-atlas/herb/triphala/) Kwatha
+
+**Standardized Extract:** [Mandura Bhasma](/ayurveda-atlas/herb/mandura-bhasma/) processed with honey and 40+ herbs
+
+**Shelf Life:** 3–5 years
+
+**Storage:** Airtight container
+
+**Marker Compounds:** Iron oxide (from Mandura), [Polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols) from multiple herbs, Trace minerals
+
+**Quality Parameters:** Iron content as labeled, uniformity of weight, disintegration <30 min
+
+**Vehicle (Anupana):** Buttermilk, [Triphala](/ayurveda-atlas/herb/triphala/) Kwatha, or honey

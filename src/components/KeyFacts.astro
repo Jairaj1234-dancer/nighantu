@@ -1,0 +1,33 @@
+---
+interface Props {
+  botanical?: string;
+  family?: string;
+  sanskrit?: string;
+  ayurvedicCategory?: string;
+  whoStatus?: string;
+  aliases?: string[];
+}
+const { botanical, family, sanskrit, ayurvedicCategory, whoStatus, aliases = [] } = Astro.props;
+
+const rows = [
+  ['Botanical name', botanical],
+  ['Family', family],
+  ['Sanskrit name', sanskrit],
+  ['Ayurvedic category', ayurvedicCategory],
+  ['Also known as', aliases.length > 1 ? [...new Set(aliases)].slice(0, 6).join(', ') : ''],
+  ['Pharmacopoeia status', whoStatus],
+].filter(([, v]) => v && String(v).trim().length > 0) as [string, string][];
+---
+{rows.length > 0 && (
+  <table class="facts">
+    <caption>Key facts</caption>
+    <tbody>
+      {rows.map(([k, v]) => (
+        <tr>
+          <th scope="row">{k}</th>
+          <td>{k === 'Botanical name' ? <i>{v}</i> : v}</td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+)}

@@ -1,0 +1,66 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import { SECTION_META, KINDS, initial } from '../../lib/collections';
+import { SITE_NAME, abs, rel } from '../../lib/site';
+
+export async function getStaticPaths() {
+  return KINDS.map((kind) => ({ params: { kind } }));
+}
+
+const { kind } = Astro.params as { kind: keyof typeof SECTION_META };
+const meta = SECTION_META[kind];
+const entries = (await getCollection(kind))
+  .map((e) => e.data)
+  .sort((a, b) => a.title.localeCompare(b.title, 'en'));
+
+const letters = [...new Set(entries.map((e) => initial(e.title)))].sort();
+const groups = letters.map((L) => ({ L, items: entries.filter((e) => initial(e.title) === L) }));
+
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: `${meta.label} · ${SITE_NAME}`,
+  description: meta.blurb,
+  url: abs(meta.href),
+  isPartOf: { '@id': `${abs('/')}#website` },
+  mainEntity: {
+    '@type': 'ItemList',
+    numberOfItems: entries.length,
+    itemListElement: entries.slice(0, 200).map((e, i) => ({
+      '@type': 'ListItem', position: i + 1, name: e.title, url: abs(`${meta.href}${e.slug}/`),
+    })),
+  },
+};
+---
+<Base
+  title={`${meta.label} · ${SITE_NAME}`}
+  description={`${entries.length} ${meta.label.toLowerCase()} in the Ayurveda Atlas. ${meta.blurb}`}
+  canonical={meta.href}
+  jsonld={jsonld}
+  wide
+>
+  <Crumbs trail={[{ label: meta.label }]} />
+  <h1>{meta.label}</h1>
+  <p class="lede">{meta.blurb}</p>
+  <p><span class="pill">{entries.length} entries</span></p>
+
+  <ul class="az">
+    {letters.map((L) => <li><a href={`#${L}`}>{L}</a></li>)}
+  </ul>
+
+  {groups.map(({ L, items }) => (
+    <section>
+      <h2 id={L}>{L}</h2>
+      <ul class="grid">
+        {items.map((e) => (
+          <li class="card">
+            <a href={rel(`${meta.href}${e.slug}/`)}>{e.title}</a>
+            {e.botanical && <p><i>{e.botanical}</i></p>}
+          </li>
+        ))}
+      </ul>
+    </section>
+  ))}
+</Base>

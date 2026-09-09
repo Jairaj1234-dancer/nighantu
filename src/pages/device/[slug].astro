@@ -1,0 +1,15 @@
+---
+import { getCollection, render } from 'astro:content';
+import Monograph from '../../layouts/Monograph.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('device');
+  return entries.map((entry) => ({ params: { slug: entry.data.slug }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+---
+<Monograph entry={entry} sectionLabel="Instruments" sectionHref="/device/">
+  <Content />
+</Monograph>

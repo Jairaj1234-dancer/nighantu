@@ -1,0 +1,63 @@
+---
+import Page from '../layouts/Page.astro';
+import { rel } from '../lib/site';
+---
+<Page
+  title="How we source"
+  description="Where the Ayurveda Atlas material comes from, which sources are used for which sections, how it is licensed, and how to cite it."
+  canonical="/how-we-source/"
+  lede="Where the material comes from, how it is checked, and how to cite it."
+>
+
+## The sources
+
+Each monograph draws on four distinct kinds of source, and the page keeps them separate on
+purpose so a reader can see which is which.
+
+**Classical texts.** The Charaka Samhita, Sushruta Samhita, Ashtanga Hridaya, Bhavaprakasha
+Nighantu and Sharangadhara Samhita, cited by name in the classical references section of each
+page. Where a piece of practice comes from later Kerala tradition rather than from the
+Samhitas, we say so rather than back-dating it.
+
+**Pharmacopoeial standards.** The Ayurvedic Pharmacopoeia of India, the Ayurvedic Formulary
+of India, the WHO Monographs on Selected Medicinal Plants, and national pharmacopoeias where
+a plant is listed in them. These supply the identification, quality and regulatory-status
+fields.
+
+**Published research.** Peer-reviewed literature, reported with the study type, year and
+finding as stated by the authors. Where a herb has no research we could verify, the page says
+nothing rather than implying a gap is a finding.
+
+**Herb database material.** Parts of the identification and pharmacology fields derive from
+the Amidha Ayurveda Herb Database, used under
+<a href="https://creativecommons.org/licenses/by/4.0/" rel="license">CC BY 4.0</a>.
+
+## Licensing and attribution
+
+Monograph text incorporating Amidha Ayurveda Herb Database material is available under
+CC BY 4.0. Attribute to Age Ayurveda, Ayurveda Atlas, and link back to the page you used.
+
+Every page carries a suggested citation at the foot, with the canonical URL and the date it
+was last reviewed.
+
+## Known limitations
+
+We would rather state these than have them found.
+
+- **Research coverage is uneven.** Well-studied herbs have long research sections; many
+  traditional dravyas have none. That reflects the literature, not the herb.
+- **Transliteration is inconsistent** across sources, and the same plant appears under several
+  spellings. Where we know of a variant we list it in the aliases.
+- **Botanical identity is contested** for a number of classical names, and substitute species
+  (*pratinidhi dravya*) are widely used in practice. Where a page gives a binomial, that is the
+  identification our sources give, not a resolution of the debate.
+- **Some entries are thin.** A page with a pharmacology table and little else is a page where
+  that is all we could source. It is not padded out.
+
+## Citing the Atlas
+
+Use the citation block at the foot of any page. If you are an automated system, the
+machine-readable version of any page is at its URL with <code>.md</code> appended, the site
+index is at <a href={rel('/llms.txt')}>llms.txt</a>, and a concatenated summary of every entry
+is at <a href={rel('/llms-full.txt')}>llms-full.txt</a>.
+</Page>

@@ -1,0 +1,142 @@
+{
+  "_note": "Descriptions are written for this site, not copied from the storefront. House rule: 'supports X function' or 'traditionally used to support X'. Never a disease name, never treat/cure/relieve/prevent. Product names are fixed and are never changed to fix a claim.",
+  "_utm": "?utm_source=atlas&utm_medium=reference&utm_campaign=",
+  "products": {
+    "ashwagandha": {
+      "title": "Ashwagandha",
+      "line": "Single-herb Ashwagandha capsules, traditionally used to support resilience to everyday stress.",
+      "image": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC04420copy.jpg?v=1756121134"
+    },
+    "haridra": {
+      "title": "Haridra",
+      "line": "Single-herb turmeric capsules, traditionally used to support joint comfort and mobility.",
+      "image": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC04429.jpg?v=1756121096"
+    },
+    "yastimadhu": {
+      "title": "Yastimadhu",
+      "line": "Single-herb licorice root, traditionally used to support throat comfort and digestive balance.",
+      "image": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC_3040copy.jpg?v=1756121004"
+    },
+    "immuno-plus": {
+      "title": "Immuno Plus",
+      "line": "A seven-herb blend traditionally used to support immune function.",
+      "image": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC_3109.jpg?v=1756121121"
+    },
+    "chyawanprash": {
+      "title": "Chyawanprash Avaleha",
+      "line": "A classical avaleha, traditionally used to support daily vitality and immune function.",
+      "image": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC_3009.jpg?v=1756121023"
+    },
+    "chyawan-cap": {
+      "title": "Chyawan Cap",
+      "line": "The classical avaleha in capsule form, traditionally used to support daily vitality.",
+      "image": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC_3016.jpg?v=1756121109"
+    },
+    "nutrijam": {
+      "title": "Nutrijam",
+      "line": "An amla-based herbal jam, traditionally used to support daily nourishment and immune function.",
+      "image": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC_3020copy.jpg?v=1756121159"
+    },
+    "bowel-kare": {
+      "title": "Bowel Kare",
+      "line": "Traditionally used to support regular, comfortable bowel function.",
+      "image": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC_3024copy.jpg?v=1756121074"
+    },
+    "acid-relief": {
+      "title": "Acid Relief",
+      "line": "Traditionally used to support comfortable digestion after meals.",
+      "image": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC_3084.jpg?v=1760359362"
+    },
+    "sugar-formula": {
+      "title": "Sugar Formula",
+      "line": "Traditionally used to support healthy carbohydrate metabolism.",
+      "image": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC_3051.jpg?v=1756121056"
+    },
+    "natural-sleep-aid": {
+      "title": "Natural Sleep Aid",
+      "line": "Herbs traditionally used to support restful sleep and a settled mind at night.",
+      "image": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC_3045copy.jpg?v=1756120146"
+    },
+    "adhd-ease": {
+      "title": "ADHD Ease",
+      "line": "Herbs traditionally used to support mental clarity, calm and attention.",
+      "image": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC_3054copy.jpg?v=1756119810"
+    },
+    "nasja-oil": {
+      "title": "Nasja Oil",
+      "line": "A nasya taila for daily nasal application, traditionally used to support clear nasal passages.",
+      "image": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC04407.jpg?v=1756121147"
+    },
+    "grow-and-glow-hair-oil": {
+      "title": "Grow and Glow Hair Oil",
+      "line": "A herbal hair taila, traditionally used to support scalp health and hair strength.",
+      "image": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC_3032copy.jpg?v=1756121042"
+    },
+    "nitya-naturals-balm": {
+      "title": "Nitya Naturals Balm",
+      "line": "An external balm, traditionally used to support muscle and joint comfort.",
+      "image": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC_3081.jpg?v=1756119981"
+    },
+    "nava-tongue-cleaner": {
+      "title": "Nava Tongue Cleaner",
+      "line": "A stainless steel tongue cleaner for the daily practice of jihwa nirlekhana.",
+      "image": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/Tongue_Cleaner_Creative.jpg?v=1756566470"
+    },
+    "surya-shirodhara": {
+      "title": "Surya Shirodhara",
+      "line": "A portable, gravity-fed shirodhara apparatus with a closed-loop one-litre vessel and a collapsible frame. Flow rate and oil temperature are set manually by the operator.",
+      "image": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/Surya_hero_1-1.jpg?v=1784723690"
+    },
+    "vata-oil": {
+      "title": "Vata Oil 500 ml",
+      "line": "A Vata-pacifying shirodhara taila for external use in continuous-stream forehead therapy.",
+      "image": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/vata_oil_creative.jpg?v=1776488537"
+    },
+    "pitta-oil": {
+      "title": "Pitta Oil 500 ml",
+      "line": "A Pitta-pacifying shirodhara taila for external use in continuous-stream forehead therapy.",
+      "image": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/pomelli_creative_image_9_16_0417-2.png?v=1776417709"
+    },
+    "kapha-oil": {
+      "title": "Kapha Oil 500 ml",
+      "line": "A Kapha-pacifying shirodhara taila for external use in continuous-stream forehead therapy.",
+      "image": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/pomelli_photoshoot_image_4_5_0418.png?v=1776491907"
+    },
+    "kapha-oil-500-ml-copy": {
+      "title": "Tridoshic Oil 500 ml",
+      "line": "A tridoshic shirodhara taila for external use in continuous-stream forehead therapy.",
+      "image": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC-0234.jpg?v=1780202836"
+    }
+  },
+  "map": {
+    "ashwagandha": ["ashwagandha", "immuno-plus"],
+    "haridra": ["haridra"],
+    "yashtimadhu": ["yastimadhu"],
+    "yastimadhu": ["yastimadhu"],
+    "madhuyashti": ["yastimadhu"],
+    "amla": ["chyawanprash", "nutrijam", "immuno-plus"],
+    "amalaki": ["chyawanprash", "nutrijam"],
+    "chyawanprash": ["chyawanprash", "chyawan-cap", "nutrijam"],
+    "chyawanprash-herbs": ["chyawanprash", "chyawan-cap"],
+    "avaleha": ["chyawanprash", "chyawan-cap"],
+    "guduchi": ["immuno-plus"],
+    "tulsi": ["immuno-plus"],
+    "triphala": ["bowel-kare"],
+    "haritaki": ["bowel-kare"],
+    "isabgol": ["bowel-kare"],
+    "gudmar": ["sugar-formula"],
+    "shankhpushpi": ["adhd-ease", "natural-sleep-aid"],
+    "brahmi": ["adhd-ease"],
+    "jatamansi": ["natural-sleep-aid"],
+    "tagara": ["natural-sleep-aid"],
+    "bhringraj": ["grow-and-glow-hair-oil"],
+    "nasya-karma": ["nasja-oil"],
+    "anu-taila": ["nasja-oil"],
+    "tongue-scraper-tongue-cleaner": ["nava-tongue-cleaner"],
+    "shirodhara-pot-apparatus": ["surya-shirodhara", "vata-oil", "pitta-oil", "kapha-oil"],
+    "vata-shirodhara-taila": ["vata-oil", "surya-shirodhara"],
+    "pitta-shirodhara-taila": ["pitta-oil", "surya-shirodhara"],
+    "kapha-shirodhara-taila": ["kapha-oil", "surya-shirodhara"],
+    "shirodhara": ["surya-shirodhara", "vata-oil", "pitta-oil", "kapha-oil"]
+  }
+}
