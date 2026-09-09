@@ -28,8 +28,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vatsanabha/meta-analys
 
 ## Which traditional uses are supported by research?
 
-- {'use': '[Antipyretic](/ayurveda-atlas/reference/antipyretic/) (Jvarahara)', 'validation': 'Aconitum [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) at sub-toxic doses suppress prostaglandin-mediated fever pathways. Traditional use as febrifuge validated by in vivo studies showing dose-dependent antipyretic activity comparable to paracetamol in animal models.'}
-- {'use': 'Anti-inflammatory and [analgesic](/ayurveda-atlas/reference/analgesic/) (Vedanasthapana, Shothahara)', 'validation': 'Low-dose processed aconitine preparations show significant anti-inflammatory activity by suppressing NF-kB pathway and COX-2 expression. Analgesic effect mediated through sodium channel modulation at sub-toxic doses. Used in traditional medicine across Himalayan regions for rheumatic pain.'}
+- {'use': '[Antipyretic](/nighantu/reference/antipyretic/) (Jvarahara)', 'validation': 'Aconitum [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) at sub-toxic doses suppress prostaglandin-mediated fever pathways. Traditional use as febrifuge validated by in vivo studies showing dose-dependent antipyretic activity comparable to paracetamol in animal models.'}
+- {'use': 'Anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) (Vedanasthapana, Shothahara)', 'validation': 'Low-dose processed aconitine preparations show significant anti-inflammatory activity by suppressing NF-kB pathway and COX-2 expression. Analgesic effect mediated through sodium channel modulation at sub-toxic doses. Used in traditional medicine across Himalayan regions for rheumatic pain.'}
 
 ## What do recent clinical trials show?
 
@@ -77,13 +77,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vatsanabha/meta-analys
 ### Extraction Methods
 
 - NOT extracted in crude form for internal use
-- Shodhana process: repeated trituration with cow's milk, cow's urine, or [Triphala](/ayurveda-atlas/herb/triphala/) decoction (7-21 cycles) to hydrolyze toxic ester alkaloids
+- Shodhana process: repeated trituration with cow's milk, cow's urine, or [Triphala](/nighantu/herb/triphala/) decoction (7-21 cycles) to hydrolyze toxic ester alkaloids
 - Traditional Shodhana as per Rasa Tarangini or Rasatarangini text
 - For analytical purposes only: methanol extraction for alkaloid quantification by LC-MS
 
 ### Synergistic Combinations
 
-- [Trikatu](/ayurveda-atlas/herb/trikatu/) - traditionally combined post-Shodhana for enhanced therapeutic action with reduced toxicity
+- [Trikatu](/nighantu/herb/trikatu/) - traditionally combined post-Shodhana for enhanced therapeutic action with reduced toxicity
 - Tankana (borax) - processing adjunct during Shodhana
-- [Ghrita](/ayurveda-atlas/herb/ghrita/) (ghee) - lipid vehicle that modulates absorption rate
-- Maricha ([black pepper](/ayurveda-atlas/herb/black-pepper/)) - traditional combination in processed Vatsanabha formulations
+- [Ghrita](/nighantu/herb/ghrita/) (ghee) - lipid vehicle that modulates absorption rate
+- Maricha ([black pepper](/nighantu/herb/black-pepper/)) - traditional combination in processed Vatsanabha formulations

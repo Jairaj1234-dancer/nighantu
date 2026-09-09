@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Narikela-Jala/meta-analy
 
 | Language | Name |
 |----------|------|
-| English | [Narikela](/ayurveda-atlas/herb/narikela/) Jala |
+| English | [Narikela](/nighantu/herb/narikela/) Jala |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -53,13 +53,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Narikela-Jala/meta-analy
 
 **Optimal Timing:** Best consumed fresh; as a supplement taken between meals or post-exercise for rehydration. Morning intake on empty stomach for metabolic benefits.
 
-**Standardized Extract:** Standardized spray-dried coconut water powder containing minimum 15% [potassium](/ayurveda-atlas/glossary/compounds-o-q/#potassium), 2% sodium, and detectable cytokinins (trans-zeatin >0.01 mg/g). Freeze-dried premium grade retaining >90% original electrolyte profile and enzymatic activity.
+**Standardized Extract:** Standardized spray-dried coconut water powder containing minimum 15% [potassium](/nighantu/glossary/compounds-o-q/#potassium), 2% sodium, and detectable cytokinins (trans-zeatin >0.01 mg/g). Freeze-dried premium grade retaining >90% original electrolyte profile and enzymatic activity.
 
 **Shelf Life:** Fresh: 24-48 hours refrigerated; UHT processed: 9-12 months; Spray-dried powder: 18-24 months; Freeze-dried powder: 24-36 months
 
 **Storage:** Fresh coconut water: 2-8 deg C, consume within 24 hours of opening. Processed liquid: ambient below 25 deg C, protect from light. Dried powders: below 25 deg C, RH <40%, in moisture-barrier aluminum-laminated sachets with desiccant.
 
-**Marker Compounds:** Potassium (K+), Sodium (Na+), [Magnesium](/ayurveda-atlas/glossary/compounds-l-o/#magnesium) (Mg2+), trans-Zeatin, Kinetin, L-arginine, Shikimic acid, Malic acid
+**Marker Compounds:** Potassium (K+), Sodium (Na+), [Magnesium](/nighantu/glossary/compounds-l-o/#magnesium) (Mg2+), trans-Zeatin, Kinetin, L-arginine, Shikimic acid, Malic acid
 
 ### Extraction Methods
 
@@ -72,7 +72,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Narikela-Jala/meta-analy
 ### Synergistic Combinations
 
 - Amalaki (Vitamin C enhances mineral absorption)
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) (immune support with electrolyte balance)
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) (rehydration with gastroprotection)
-- [Draksha](/ayurveda-atlas/herb/draksha/) (energy and electrolyte synergy)
+- [Guduchi](/nighantu/herb/guduchi/) (immune support with electrolyte balance)
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (rehydration with gastroprotection)
+- [Draksha](/nighantu/herb/draksha/) (energy and electrolyte synergy)
 - Ela (digestive comfort and flavor enhancement)

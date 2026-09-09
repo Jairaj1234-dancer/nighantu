@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Jatiphala/meta-anal
 
 **Standard Dosage:** 250-500mg powder (LOW DOSE - toxic at higher doses); 125-250mg extract; 1-3 drops essential oil (external/aromatherapy)
 
-**Bioavailability:** Myristica fragrans (nutmeg) contains [myristicin](/ayurveda-atlas/glossary/compounds-l-o/#myristicin), [elemicin](/ayurveda-atlas/glossary/compounds-d-g/#elemicin), [safrole](/ayurveda-atlas/glossary/compounds-q-t/#safrole), and trimyristin. Myristicin is well absorbed orally with high lipophilicity (logP ~2.5). Myristicin is metabolized to MMDA-like compounds by CYP [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes) (contributing to psychoactive effects at high doses). Essential oil components have high bioavailability via GI and inhalation routes. Trimyristin (myristic acid triglyceride) has standard lipid absorption.
+**Bioavailability:** Myristica fragrans (nutmeg) contains [myristicin](/nighantu/glossary/compounds-l-o/#myristicin), [elemicin](/nighantu/glossary/compounds-d-g/#elemicin), [safrole](/nighantu/glossary/compounds-q-t/#safrole), and trimyristin. Myristicin is well absorbed orally with high lipophilicity (logP ~2.5). Myristicin is metabolized to MMDA-like compounds by CYP [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) (contributing to psychoactive effects at high doses). Essential oil components have high bioavailability via GI and inhalation routes. Trimyristin (myristic acid triglyceride) has standard lipid absorption.
 
 **Optimal Timing:** After meals for digestive support; at bedtime with warm milk (pinch of powder) for sleep
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Jatiphala/meta-anal
 
 **Storage:** Cool, dry place below 25°C. Whole nutmeg is more stable than ground. Ground powder loses volatiles rapidly; nitrogen-flushed packaging recommended. Essential oil in amber glass, sealed.
 
-**Marker Compounds:** Myristicin, Elemicin, Safrole (toxic marker - monitor and limit), [Sabinene](/ayurveda-atlas/glossary/compounds-q-t/#sabinene), Alpha-pinene, Trimyristin, Myristic acid, Macelignan
+**Marker Compounds:** Myristicin, Elemicin, Safrole (toxic marker - monitor and limit), [Sabinene](/nighantu/glossary/compounds-q-t/#sabinene), Alpha-pinene, Trimyristin, Myristic acid, Macelignan
 
 ### Extraction Methods
 
@@ -71,7 +71,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Jatiphala/meta-anal
 
 ### Synergistic Combinations
 
-- With [Lavanga](/ayurveda-atlas/herb/lavanga/) (clove) for dental/oral care preparations
+- With [Lavanga](/nighantu/herb/lavanga/) (clove) for dental/oral care preparations
 - With Ela (cardamom) for digestive formulations
-- With [Pippali](/ayurveda-atlas/herb/pippali/) for bioavailability enhancement of co-administered herbs
+- With [Pippali](/nighantu/herb/pippali/) for bioavailability enhancement of co-administered herbs
 - With warm milk for sleep induction (traditional)

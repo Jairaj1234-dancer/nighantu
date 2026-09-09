@@ -45,13 +45,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Varuna/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (bark powder), Kwatha (decoction), Capsule, Tablet, Asava/Arishta (fermented liquid), [Ghrita](/ayurveda-atlas/herb/ghrita/) (medicated ghee)
+**Dosage Forms:** Churna (bark powder), Kwatha (decoction), Capsule, Tablet, Asava/Arishta (fermented liquid), [Ghrita](/nighantu/herb/ghrita/) (medicated ghee)
 
 **Standard Dosage:** 3-6 g bark powder twice daily; 50-100 mL decoction twice daily; 15-30 mL Varunadi Kwatha twice daily
 
-**Bioavailability:** [Lupeol](/ayurveda-atlas/reference/lupeol/) (pentacyclic triterpene) has very low oral bioavailability (<5%) due to extreme lipophilicity; lipid-based formulations or nanoparticle encapsulation can improve this 5-10 fold. Betulinic acid similarly shows poor absorption. [Saponins](/ayurveda-atlas/reference/saponins/) (varunosides) undergo partial hydrolysis by gut bacteria enhancing aglycone absorption. [Glucosinolates](/ayurveda-atlas/glossary/compounds-d-g/#glucosinolates) (glucocapparin) are well absorbed and metabolized to bioactive [isothiocyanates](/ayurveda-atlas/glossary/compounds-g-l/#isothiocyanates) by [myrosinase](/ayurveda-atlas/glossary/compounds-l-o/#myrosinase) or gut bacteria.
+**Bioavailability:** [Lupeol](/nighantu/reference/lupeol/) (pentacyclic triterpene) has very low oral bioavailability (<5%) due to extreme lipophilicity; lipid-based formulations or nanoparticle encapsulation can improve this 5-10 fold. Betulinic acid similarly shows poor absorption. [Saponins](/nighantu/reference/saponins/) (varunosides) undergo partial hydrolysis by gut bacteria enhancing aglycone absorption. [Glucosinolates](/nighantu/glossary/compounds-d-g/#glucosinolates) (glucocapparin) are well absorbed and metabolized to bioactive [isothiocyanates](/nighantu/glossary/compounds-g-l/#isothiocyanates) by [myrosinase](/nighantu/glossary/compounds-l-o/#myrosinase) or gut bacteria.
 
-**Optimal Timing:** Before meals on empty stomach for urinary conditions; morning dosing with first urine output to observe [diuretic](/ayurveda-atlas/reference/diuretic/) effect
+**Optimal Timing:** Before meals on empty stomach for urinary conditions; morning dosing with first urine output to observe [diuretic](/nighantu/reference/diuretic/) effect
 
 **Standardized Extract:** Bark extract standardized to >0.5% lupeol by HPLC; >5% total saponins by gravimetric method; glucocapparin/glucocleomin content quantified by HPLC
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Varuna/meta-analysis.md"
 
 **Storage:** Bark powder in airtight, moisture-proof containers at 15-25 deg C. Protect from insects (bark material susceptible to borers). Decoction containers should be glass or stainless steel.
 
-**Marker Compounds:** Lupeol, Betulinic acid, [Friedelin](/ayurveda-atlas/glossary/compounds-d-g/#friedelin), beta-[Sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), Glucocapparin, Glucocleomin, Varunosides, [Diosgenin](/ayurveda-atlas/glossary/compounds-d-g/#diosgenin) (trace)
+**Marker Compounds:** Lupeol, Betulinic acid, [Friedelin](/nighantu/glossary/compounds-d-g/#friedelin), beta-[Sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Glucocapparin, Glucocleomin, Varunosides, [Diosgenin](/nighantu/glossary/compounds-d-g/#diosgenin) (trace)
 
 ### Extraction Methods
 
@@ -71,8 +71,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Varuna/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Gokshura](/ayurveda-atlas/herb/gokshura/) (Tribulus terrestris) - synergistic litholytic and diuretic action (Varunadi formulations)
+- [Gokshura](/nighantu/herb/gokshura/) (Tribulus terrestris) - synergistic litholytic and diuretic action (Varunadi formulations)
 - Pashanbheda (Bergenia ligulata) - stone-dissolving combination
-- [Shilajit](/ayurveda-atlas/herb/shilajit/) - mineral-rich adjunct for urinary conditions
-- [Punarnava](/ayurveda-atlas/herb/punarnava/) (Boerhavia diffusa) - renal supportive synergy
-- [Yavakshara](/ayurveda-atlas/herb/yavakshara/) (barley alkali) - alkalinizing combination for urinary pH management
+- [Shilajit](/nighantu/herb/shilajit/) - mineral-rich adjunct for urinary conditions
+- [Punarnava](/nighantu/herb/punarnava/) (Boerhavia diffusa) - renal supportive synergy
+- [Yavakshara](/nighantu/herb/yavakshara/) (barley alkali) - alkalinizing combination for urinary pH management

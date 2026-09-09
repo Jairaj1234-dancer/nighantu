@@ -27,15 +27,15 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Ashokar
 
 ## Key Ingredients
 
-- [Ashoka](/ayurveda-atlas/herb/ashoka/) bark (Saraca asoca) - primary ingredient
-- [Dhataki](/ayurveda-atlas/herb/dhataki/) (Woodfordia fruticosa) - fermenting agent
+- [Ashoka](/nighantu/herb/ashoka/) bark (Saraca asoca) - primary ingredient
+- [Dhataki](/nighantu/herb/dhataki/) (Woodfordia fruticosa) - fermenting agent
 - Mustaka (Cyperus rotundus)
-- [Haritaki](/ayurveda-atlas/herb/haritaki/) (Terminalia chebula)
+- [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula)
 - Vibhitaki (Terminalia bellerica)
 - Amalaki (Emblica officinalis)
-- Shunti ([Zingiber](/ayurveda-atlas/herb/zingiber/) officinale) - [Ginger](/ayurveda-atlas/herb/ginger/)
-- [Daruharidra](/ayurveda-atlas/herb/daruharidra/) (Berberis aristata)
-- [Utpala](/ayurveda-atlas/herb/utpala/) (Nymphaea stellata)
+- Shunti ([Zingiber](/nighantu/herb/zingiber/) officinale) - [Ginger](/nighantu/herb/ginger/)
+- [Daruharidra](/nighantu/herb/daruharidra/) (Berberis aristata)
+- [Utpala](/nighantu/herb/utpala/) (Nymphaea stellata)
 - Jiraka (Cuminum cyminum)
 - Adulasa (Adhatoda vasica) - Malabar nut
 - Chandan (Santalum album) - Sandalwood
@@ -47,10 +47,10 @@ Bhaishajya Ratnavali (Stree Rogadhikara / Female disorders chapter). Also descri
 
 ## How does it work?
 
-- Uterine smooth muscle regulation: Saraca asoca bark phenolics produce rhythmic uterine contractions, controlling excessive bleeding through [hemostatic](/ayurveda-atlas/glossary/pharmacology/#hemostatic) action.
-- Estrogenic modulation: Phytoestrogens from [Ashoka](/ayurveda-atlas/herb/ashoka/) bark modulate estrogen receptor activity, balancing hormonal fluctuations in menopause and menorrhagia.
-- Astringent hemostasis: Kashaya (astringent) rasa of [Ashoka](/ayurveda-atlas/herb/ashoka/) bark constricts blood vessels and reduces capillary permeability in uterine tissue.
-- Fermentation-enhanced bioavailability: [Dhataki](/ayurveda-atlas/herb/dhataki/)-mediated fermentation and self-generated alcohol (3-9%) improve extraction and absorption of [catechin](/ayurveda-atlas/reference/catechin/), [epicatechin](/ayurveda-atlas/glossary/compounds-d-g/#epicatechin), and other [polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols).
+- Uterine smooth muscle regulation: Saraca asoca bark phenolics produce rhythmic uterine contractions, controlling excessive bleeding through [hemostatic](/nighantu/glossary/pharmacology/#hemostatic) action.
+- Estrogenic modulation: Phytoestrogens from [Ashoka](/nighantu/herb/ashoka/) bark modulate estrogen receptor activity, balancing hormonal fluctuations in menopause and menorrhagia.
+- Astringent hemostasis: Kashaya (astringent) rasa of [Ashoka](/nighantu/herb/ashoka/) bark constricts blood vessels and reduces capillary permeability in uterine tissue.
+- Fermentation-enhanced bioavailability: [Dhataki](/nighantu/herb/dhataki/)-mediated fermentation and self-generated alcohol (3-9%) improve extraction and absorption of [catechin](/nighantu/reference/catechin/), [epicatechin](/nighantu/glossary/compounds-d-g/#epicatechin), and other [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols).
 - Anti-inflammatory action: Reduces endometrial inflammation through cytokine modulation, addressing underlying causes of heavy menstrual bleeding.
 
 ## Which traditional uses are supported by research?
@@ -63,7 +63,7 @@ Bhaishajya Ratnavali (Stree Rogadhikara / Female disorders chapter). Also descri
 ## What do recent clinical trials show?
 
 - **Ayurveda Management of Menorrhagia (Raktapradara): Protocol for a Randomized Controlled Trial** (2025): Ongoing RCT with 79 patients enrolled as of December 2024. Treatment group receives 20 mL Ashokarishta with 250 mg Trinakantamani pishti and iron/folic acid tablets twice daily for 3 months. Data analysis expected by February 2026.
-- **Clinical evaluation of Ashokarishta, [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) Churna and Praval Pishti in management of menopausal syndrome** (2021): Combined Ashokarishta regimen showed statistically significant improvement in menopausal symptoms including hot flashes, mood disturbances, and hormonal parameters.
+- **Clinical evaluation of Ashokarishta, [Ashwagandha](/nighantu/herb/ashwagandha/) Churna and Praval Pishti in management of menopausal syndrome** (2021): Combined Ashokarishta regimen showed statistically significant improvement in menopausal symptoms including hot flashes, mood disturbances, and hormonal parameters.
 - **Herbal treatments for leiomyoma-induced menorrhagia: A clinical evaluation** (2023): Ashokarishta demonstrated significant control of menorrhagia in patients with uterine leiomyomas, with highly significant statistical results (P<0.001).
 - **Phytochemical and pharmacological evaluation of Ashokarishta fermentation bioactives** (2022): Fermentation process enhances bioavailability of Saraca asoca bark phenolics including catechin and epicatechin. Self-generated alcohol (3-9%) serves as natural extraction solvent for lipophilic compounds.
 
@@ -88,7 +88,7 @@ Bhaishajya Ratnavali (Stree Rogadhikara / Female disorders chapter). Also descri
 
 **Standard Dosage:** 15-30 mL twice daily after meals with equal water, as per AFI Part I
 
-**Bioavailability:** Alcohol from fermentation enhances solubility and absorption of [catechins](/ayurveda-atlas/glossary/compounds-c-d/#catechins) and [tannins](/ayurveda-atlas/reference/tannins/) from [Ashoka](/ayurveda-atlas/herb/ashoka/). Fermentation generates oestrogenic isoflavone metabolites with improved bioavailability compared to simple decoction.
+**Bioavailability:** Alcohol from fermentation enhances solubility and absorption of [catechins](/nighantu/glossary/compounds-c-d/#catechins) and [tannins](/nighantu/reference/tannins/) from [Ashoka](/nighantu/herb/ashoka/). Fermentation generates oestrogenic isoflavone metabolites with improved bioavailability compared to simple decoction.
 
 **Optimal Timing:** After meals, twice daily, preferably after lunch and dinner
 
@@ -96,7 +96,7 @@ Bhaishajya Ratnavali (Stree Rogadhikara / Female disorders chapter). Also descri
 
 **Storage:** Store in well-closed amber glass or HDPE containers in a cool, dry place. Protect from sunlight. Temperature not exceeding 30°C.
 
-**Marker Compounds:** Catechin, Epicatechin, Gallic acid, Ellagic acid, Procyanidin B2, [Berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine) (from [Daruharidra](/ayurveda-atlas/herb/daruharidra/))
+**Marker Compounds:** Catechin, Epicatechin, Gallic acid, Ellagic acid, Procyanidin B2, [Berberine](/nighantu/glossary/compounds-a-c/#berberine) (from [Daruharidra](/nighantu/herb/daruharidra/))
 
 **Quality Parameters:** pH (3.0-4.5), specific gravity (1.02-1.06), self-generated alcohol (5-12%), total solids, total sugar, total acidity, catechin content by HPLC, microbial limits, heavy metals, absence of methanol, organoleptic evaluation
 
@@ -104,8 +104,8 @@ Bhaishajya Ratnavali (Stree Rogadhikara / Female disorders chapter). Also descri
 
 ### Synergistic Combinations
 
-- [Pushyanuga Churna](/ayurveda-atlas/formulation/pushyanuga-churna/)
-- [Chandraprabha](/ayurveda-atlas/herb/chandraprabha/) Vati
-- [Lodhra](/ayurveda-atlas/herb/lodhra/) Churna
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) Churna
-- Ashoka [Ghrita](/ayurveda-atlas/herb/ghrita/)|[Ashoka](/ayurveda-atlas/herb/ashoka/) Ghrita
+- [Pushyanuga Churna](/nighantu/formulation/pushyanuga-churna/)
+- [Chandraprabha](/nighantu/herb/chandraprabha/) Vati
+- [Lodhra](/nighantu/herb/lodhra/) Churna
+- [Shatavari](/nighantu/herb/shatavari/) Churna
+- Ashoka [Ghrita](/nighantu/herb/ghrita/)|[Ashoka](/nighantu/herb/ashoka/) Ghrita

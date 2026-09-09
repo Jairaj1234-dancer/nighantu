@@ -49,9 +49,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Joint-Musculoskeletal/Paribhadra/meta-analy
 
 **Standard Dosage:** 1-3 g bark powder twice daily; 15-20 mL decoction twice daily; 500 mg standardized extract twice daily
 
-**Bioavailability:** Erythrina [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) (erysodine, erysovine) have moderate oral bioavailability (25-45%) with nicotinic receptor activity. [Isoflavonoids](/ayurveda-atlas/glossary/compounds-g-l/#isoflavonoids) show moderate absorption (20-35%). Alkaloid absorption may be pH-dependent with enhanced uptake in alkaline intestinal environment. First-pass hepatic metabolism is significant; consider sustained-release formulations for maintaining therapeutic levels.
+**Bioavailability:** Erythrina [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) (erysodine, erysovine) have moderate oral bioavailability (25-45%) with nicotinic receptor activity. [Isoflavonoids](/nighantu/glossary/compounds-g-l/#isoflavonoids) show moderate absorption (20-35%). Alkaloid absorption may be pH-dependent with enhanced uptake in alkaline intestinal environment. First-pass hepatic metabolism is significant; consider sustained-release formulations for maintaining therapeutic levels.
 
-**Optimal Timing:** After meals to reduce GI irritation from alkaloids. Evening dosing may be preferred for conditions requiring sedative/[anxiolytic](/ayurveda-atlas/reference/anxiolytic/) effect.
+**Optimal Timing:** After meals to reduce GI irritation from alkaloids. Evening dosing may be preferred for conditions requiring sedative/[anxiolytic](/nighantu/reference/anxiolytic/) effect.
 
 **Standardized Extract:** Paribhadra bark extract (8:1) standardized to total alkaloids 1-2% (as erysodine), total isoflavonoids >3%. Safety-tested for alkaloid content within therapeutic window.
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Joint-Musculoskeletal/Paribhadra/meta-analy
 
 **Storage:** Store in airtight containers, below 25 deg C, RH <55%, protected from light. Alkaloid-containing extracts require secure storage per schedule requirements. Keep out of reach of children.
 
-**Marker Compounds:** Erysodine, Erysovine, Erysopine, Erythraline, Erycristagallin, Isoflavonoids, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), Gallic acid
+**Marker Compounds:** Erysodine, Erysovine, Erysopine, Erythraline, Erycristagallin, Isoflavonoids, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Gallic acid
 
 ### Extraction Methods
 
@@ -71,8 +71,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Joint-Musculoskeletal/Paribhadra/meta-analy
 
 ### Synergistic Combinations
 
-- [Nirgundi](/ayurveda-atlas/herb/nirgundi/) (musculoskeletal pain and inflammation)
-- [Rasna](/ayurveda-atlas/herb/rasna/) (rheumatic conditions)
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) (sedative and anxiolytic combination)
-- [Eranda](/ayurveda-atlas/herb/eranda/) Taila (joint mobility and Vata disorders)
-- [Guggulu](/ayurveda-atlas/formulation/guggulu/) (anti-inflammatory and [analgesic](/ayurveda-atlas/reference/analgesic/))
+- [Nirgundi](/nighantu/herb/nirgundi/) (musculoskeletal pain and inflammation)
+- [Rasna](/nighantu/herb/rasna/) (rheumatic conditions)
+- [Ashwagandha](/nighantu/herb/ashwagandha/) (sedative and anxiolytic combination)
+- [Eranda](/nighantu/herb/eranda/) Taila (joint mobility and Vata disorders)
+- [Guggulu](/nighantu/formulation/guggulu/) (anti-inflammatory and [analgesic](/nighantu/reference/analgesic/))

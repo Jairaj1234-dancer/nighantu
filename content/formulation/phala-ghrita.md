@@ -23,25 +23,25 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Phala-Ghr
 
 | Language | Name |
 |----------|------|
-| English | Phala [Ghrita](/ayurveda-atlas/herb/ghrita/)|Phala Ghrita Phala Kalyana [Ghrita](/ayurveda-atlas/herb/ghrita/)|Phala Kalyana Ghrita |
+| English | Phala [Ghrita](/nighantu/herb/ghrita/)|Phala Ghrita Phala Kalyana [Ghrita](/nighantu/herb/ghrita/)|Phala Kalyana Ghrita |
 
 ## Key Ingredients
 
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) (Asparagus racemosus)
+- [Shatavari](/nighantu/herb/shatavari/) (Asparagus racemosus)
 - Manjishta (Rubia cordifolia)
-- [Madhuka](/ayurveda-atlas/herb/madhuka/) (Glycyrrhiza glabra)
+- [Madhuka](/nighantu/herb/madhuka/) (Glycyrrhiza glabra)
 - Kushta (Saussurea lappa)
-- [Triphala](/ayurveda-atlas/herb/triphala/) ([Haritaki](/ayurveda-atlas/herb/haritaki/), Vibhitaki, Amalaki)
-- [Bala](/ayurveda-atlas/herb/bala/) (Sida cordifolia)
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) (Withania somnifera)
-- [Haridra](/ayurveda-atlas/herb/haridra/) (Curcuma longa)
-- [Daruharidra](/ayurveda-atlas/herb/daruharidra/) (Berberis aristata)
-- [Vidarikand](/ayurveda-atlas/herb/vidarikand/) (Pueraria tuberosa)
+- [Triphala](/nighantu/herb/triphala/) ([Haritaki](/nighantu/herb/haritaki/), Vibhitaki, Amalaki)
+- [Bala](/nighantu/herb/bala/) (Sida cordifolia)
+- [Ashwagandha](/nighantu/herb/ashwagandha/) (Withania somnifera)
+- [Haridra](/nighantu/herb/haridra/) (Curcuma longa)
+- [Daruharidra](/nighantu/herb/daruharidra/) (Berberis aristata)
+- [Vidarikand](/nighantu/herb/vidarikand/) (Pueraria tuberosa)
 - Ajamoda (Trachyspermum ammi)
-- [Hingu](/ayurveda-atlas/herb/hingu/) (Ferula asafoetida)
-- [Draksha](/ayurveda-atlas/herb/draksha/) (Vitis vinifera / grapes)
-- [Ghrita](/ayurveda-atlas/herb/ghrita/) (cow ghee)
-- [Ksheera](/ayurveda-atlas/herb/ksheera/) (cow milk)
+- [Hingu](/nighantu/herb/hingu/) (Ferula asafoetida)
+- [Draksha](/nighantu/herb/draksha/) (Vitis vinifera / grapes)
+- [Ghrita](/nighantu/herb/ghrita/) (cow ghee)
+- [Ksheera](/nighantu/herb/ksheera/) (cow milk)
 
 ## Where is it described in the classical texts?
 
@@ -49,9 +49,9 @@ Ashtanga Hridayam by Acharya Vagbhata (for genital and reproductive disorders); 
 
 ## How does it work?
 
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) provides phytoestrogenic support, nourishing ovaries, promoting reproductive hormones, and increasing libido
-- Kushta (Saussurea lappa) acts as uterine stimulant with [aphrodisiac](/ayurveda-atlas/glossary/pharmacology/#aphrodisiac) properties, maintaining semen morphology in males
-- [Vidarikand](/ayurveda-atlas/herb/vidarikand/) maintains reproductive health by improving libido and fertility via [adaptogenic](/ayurveda-atlas/reference/adaptogenic/) and anabolic mechanisms
+- [Shatavari](/nighantu/herb/shatavari/) provides phytoestrogenic support, nourishing ovaries, promoting reproductive hormones, and increasing libido
+- Kushta (Saussurea lappa) acts as uterine stimulant with [aphrodisiac](/nighantu/glossary/pharmacology/#aphrodisiac) properties, maintaining semen morphology in males
+- [Vidarikand](/nighantu/herb/vidarikand/) maintains reproductive health by improving libido and fertility via [adaptogenic](/nighantu/reference/adaptogenic/) and anabolic mechanisms
 - Tikta (bitter) and Madhura (sweet) rasa combination provides Dipana-Pachana (digestive stimulation) along with tissue nourishment
 - Ghee and milk base provides enhanced bioavailability of fat-soluble reproductive hormones and phytoestrogens
 
@@ -64,9 +64,9 @@ Ashtanga Hridayam by Acharya Vagbhata (for genital and reproductive disorders); 
 
 ## What do recent clinical trials show?
 
-- **Effect of Phala [Ghrita](/ayurveda-atlas/herb/ghrita/)|Phala Ghrita on development of ovarian follicle followed by ovulation in patients of infertility due to ovarian factor in comparison with clomiphene citrate** (2022): Phala [Ghrita](/ayurveda-atlas/herb/ghrita/)|Phala Ghrita showed comparable results to clomiphene citrate in promoting ovarian follicle development and ovulation in infertile women with ovarian factor
-- **Efficacy of Phala-[Ghrita](/ayurveda-atlas/herb/ghrita/) on female infertility** (2024): 45 women administered 20ml twice daily for 3 months showed 21.43% conception rate and 23.80% reported relief from menstrual irregularities; no significant adverse effects observed
-- **Clinical Trial of Phalaghrita on Female Infertility** (2012): [Phala Ghrita](/ayurveda-atlas/formulation/phala-ghrita/) demonstrated positive effects as Prajasthapana (conception-promoting) and Yoni Pradosha Nashaka (uterine disorder correcting) in infertile women
+- **Effect of Phala [Ghrita](/nighantu/herb/ghrita/)|Phala Ghrita on development of ovarian follicle followed by ovulation in patients of infertility due to ovarian factor in comparison with clomiphene citrate** (2022): Phala [Ghrita](/nighantu/herb/ghrita/)|Phala Ghrita showed comparable results to clomiphene citrate in promoting ovarian follicle development and ovulation in infertile women with ovarian factor
+- **Efficacy of Phala-[Ghrita](/nighantu/herb/ghrita/) on female infertility** (2024): 45 women administered 20ml twice daily for 3 months showed 21.43% conception rate and 23.80% reported relief from menstrual irregularities; no significant adverse effects observed
+- **Clinical Trial of Phalaghrita on Female Infertility** (2012): [Phala Ghrita](/nighantu/formulation/phala-ghrita/) demonstrated positive effects as Prajasthapana (conception-promoting) and Yoni Pradosha Nashaka (uterine disorder correcting) in infertile women
 
 ## Recent safety updates
 
@@ -97,7 +97,7 @@ Ashtanga Hridayam by Acharya Vagbhata (for genital and reproductive disorders); 
 
 **Storage:** Airtight glass/stainless steel container, cool dry place, protected from light and moisture
 
-**Marker Compounds:** Shatavarin, [Withanolides](/ayurveda-atlas/glossary/compounds-t-z/#withanolides)
+**Marker Compounds:** Shatavarin, [Withanolides](/nighantu/glossary/compounds-t-z/#withanolides)
 
 **Quality Parameters:** Acid value <4, peroxide value <5 meq/kg, moisture <0.5%, rancidity test negative, marker: Shatavarin, Withanolides
 
@@ -105,4 +105,4 @@ Ashtanga Hridayam by Acharya Vagbhata (for genital and reproductive disorders); 
 
 ### Synergistic Combinations
 
-- Key herbs: [Shatavari](/ayurveda-atlas/herb/shatavari/), [Madhuka](/ayurveda-atlas/herb/madhuka/), [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/), fertility herbs; ghee enhances tissue penetration (yogavahi property)
+- Key herbs: [Shatavari](/nighantu/herb/shatavari/), [Madhuka](/nighantu/herb/madhuka/), [Ashwagandha](/nighantu/herb/ashwagandha/), fertility herbs; ghee enhances tissue penetration (yogavahi property)

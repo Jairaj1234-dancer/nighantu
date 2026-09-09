@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Camphor/meta-analys
 
 **Storage:** Airtight containers essential—sublimes at room temperature. Keep away from heat and flame. Separate from food products. Child-proof packaging mandatory. Store below 25°C in well-sealed glass or HDPE containers.
 
-**Marker Compounds:** d-Camphor (1,7,7-trimethylbicyclo[2.2.1]heptan-2-one), [Borneol](/ayurveda-atlas/glossary/compounds-a-c/#borneol), [Camphene](/ayurveda-atlas/glossary/compounds-a-c/#camphene), 1,8-[Cineole](/ayurveda-atlas/glossary/compounds-c-d/#cineole), Alpha-pinene, [Safrole](/ayurveda-atlas/glossary/compounds-q-t/#safrole) (in crude oil—must be below limits)
+**Marker Compounds:** d-Camphor (1,7,7-trimethylbicyclo[2.2.1]heptan-2-one), [Borneol](/nighantu/glossary/compounds-a-c/#borneol), [Camphene](/nighantu/glossary/compounds-a-c/#camphene), 1,8-[Cineole](/nighantu/glossary/compounds-c-d/#cineole), Alpha-pinene, [Safrole](/nighantu/glossary/compounds-q-t/#safrole) (in crude oil—must be below limits)
 
 ### Extraction Methods
 
@@ -61,8 +61,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Camphor/meta-analys
 
 ### Synergistic Combinations
 
-- With Nilgiri Taila ([eucalyptus](/ayurveda-atlas/herb/eucalyptus/) oil) for chest rub decongestant formulations
-- With [Menthol](/ayurveda-atlas/herb/menthol/) for [analgesic](/ayurveda-atlas/reference/analgesic/) balms
-- With [Sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) as base for anti-inflammatory Taila
-- With [Ajwain](/ayurveda-atlas/herb/ajwain/) for digestive and carminative vapors
-- With [Guggulu](/ayurveda-atlas/formulation/guggulu/) in certain traditional formulations
+- With Nilgiri Taila ([eucalyptus](/nighantu/herb/eucalyptus/) oil) for chest rub decongestant formulations
+- With [Menthol](/nighantu/herb/menthol/) for [analgesic](/nighantu/reference/analgesic/) balms
+- With [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) as base for anti-inflammatory Taila
+- With [Ajwain](/nighantu/herb/ajwain/) for digestive and carminative vapors
+- With [Guggulu](/nighantu/formulation/guggulu/) in certain traditional formulations

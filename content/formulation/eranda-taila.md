@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Eranda-Tail
 
 | Language | Name |
 |----------|------|
-| English | [Eranda](/ayurveda-atlas/herb/eranda/) Taila |
+| English | [Eranda](/nighantu/herb/eranda/) Taila |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Eranda-Tail
 
 **Standard Dosage:** 5-15 mL at bedtime with warm water or milk for purgation; 2-5 mL for regular use, as per AFI Part I
 
-**Bioavailability:** Ricinoleic acid is released from triglycerides by intestinal lipase, activating EP3 prostanoid receptors for [laxative](/ayurveda-atlas/reference/laxative/) effect. Onset 2-6 hours after ingestion. Topical absorption is good due to hydroxyl group enhancing skin penetration. Acts as excellent carrier for other drugs in topical formulations.
+**Bioavailability:** Ricinoleic acid is released from triglycerides by intestinal lipase, activating EP3 prostanoid receptors for [laxative](/nighantu/reference/laxative/) effect. Onset 2-6 hours after ingestion. Topical absorption is good due to hydroxyl group enhancing skin penetration. Acts as excellent carrier for other drugs in topical formulations.
 
 **Optimal Timing:** At bedtime for mild purgation (effect in 4-6 hours). For Virechana Karma: morning on empty stomach as per Panchakarma protocol.
 
@@ -57,15 +57,15 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Eranda-Tail
 
 **Storage:** Store in airtight amber glass or HDPE bottles in a cool, dry place. Temperature not exceeding 25°C. Highly viscous — handling considerations in cold weather.
 
-**Marker Compounds:** Ricinoleic acid, Oleic acid, Linoleic acid, [Stearic acid](/ayurveda-atlas/glossary/compounds-q-t/#stearic-acidstearic-acid)
+**Marker Compounds:** Ricinoleic acid, Oleic acid, Linoleic acid, [Stearic acid](/nighantu/glossary/compounds-q-t/#stearic-acidstearic-acid)
 
-**Quality Parameters:** Acid value (<4), peroxide value, saponification value (176-187), [iodine](/ayurveda-atlas/glossary/compounds-g-l/#iodine) value (82-90), hydroxyl value (150-170), refractive index (1.476-1.479), specific gravity (0.955-0.970), viscosity, ricinoleic acid content (80-90% by GC), ricin absence (must be nil in oil), moisture (<0.5%), heavy metals, microbial limits
+**Quality Parameters:** Acid value (<4), peroxide value, saponification value (176-187), [iodine](/nighantu/glossary/compounds-g-l/#iodine) value (82-90), hydroxyl value (150-170), refractive index (1.476-1.479), specific gravity (0.955-0.970), viscosity, ricinoleic acid content (80-90% by GC), ricin absence (must be nil in oil), moisture (<0.5%), heavy metals, microbial limits
 
-**Vehicle (Anupana):** Warm milk or warm water at bedtime for purgative use; [Triphala](/ayurveda-atlas/herb/triphala/) kwath for Virechana therapy
+**Vehicle (Anupana):** Warm milk or warm water at bedtime for purgative use; [Triphala](/nighantu/herb/triphala/) kwath for Virechana therapy
 
 ### Synergistic Combinations
 
-- [Gandharvahastadi Kashayam](/ayurveda-atlas/formulation/gandharvahastadi-kashayam/)
-- [Triphala](/ayurveda-atlas/herb/triphala/) Churna
-- [Haritaki](/ayurveda-atlas/herb/haritaki/) Churna
-- [Senna](/ayurveda-atlas/herb/senna/) (as co-laxative)
+- [Gandharvahastadi Kashayam](/nighantu/formulation/gandharvahastadi-kashayam/)
+- [Triphala](/nighantu/herb/triphala/) Churna
+- [Haritaki](/nighantu/herb/haritaki/) Churna
+- [Senna](/nighantu/herb/senna/) (as co-laxative)

@@ -53,13 +53,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sthuneyaka/meta-analysis.md"
 
 **Optimal Timing:** After meals with warm water or milk; taila for external application as needed
 
-**Standardized Extract:** Aqueous-ethanolic extract (5:1), characterized by HPTLC fingerprint; standardized to NLT 2% total phenolics and NLT 1% total [flavonoids](/ayurveda-atlas/reference/flavonoids/)
+**Standardized Extract:** Aqueous-ethanolic extract (5:1), characterized by HPTLC fingerprint; standardized to NLT 2% total phenolics and NLT 1% total [flavonoids](/nighantu/reference/flavonoids/)
 
 **Shelf Life:** 24 months for churna; 30 months for capsules; 24 months for taila
 
 **Storage:** Store below 25 deg C in airtight containers, protected from light and moisture. Taila in amber glass bottles.
 
-**Marker Compounds:** Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), [Lupeol](/ayurveda-atlas/reference/lupeol/), Gallic acid, Total [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) (if present), Total flavonoids
+**Marker Compounds:** Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Lupeol](/nighantu/reference/lupeol/), Gallic acid, Total [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) (if present), Total flavonoids
 
 ### Extraction Methods
 
@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sthuneyaka/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Bala](/ayurveda-atlas/herb/bala/) (Vatahara combinations)
-- [Eranda](/ayurveda-atlas/herb/eranda/) (anti-rheumatic formulations)
-- [Rasna](/ayurveda-atlas/herb/rasna/) ([analgesic](/ayurveda-atlas/reference/analgesic/) and anti-inflammatory synergy)
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) (Balya — strength-building formulations)
+- [Bala](/nighantu/herb/bala/) (Vatahara combinations)
+- [Eranda](/nighantu/herb/eranda/) (anti-rheumatic formulations)
+- [Rasna](/nighantu/herb/rasna/) ([analgesic](/nighantu/reference/analgesic/) and anti-inflammatory synergy)
+- [Ashwagandha](/nighantu/herb/ashwagandha/) (Balya — strength-building formulations)

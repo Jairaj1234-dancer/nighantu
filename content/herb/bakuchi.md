@@ -35,7 +35,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Bakuchi/meta-analysis.md"
 - Bavachinin (flavanone)
 - Bakuchalcone (chalcone)
 - Corylifolin
-- [Bergapten](/ayurveda-atlas/glossary/compounds-a-c/#bergapten) (5-methoxypsoralen)
+- [Bergapten](/nighantu/glossary/compounds-a-c/#bergapten) (5-methoxypsoralen)
 
 ## How does it work?
 
@@ -54,9 +54,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Bakuchi/meta-analysis.md"
 ## What do recent clinical trials show?
 
 - **Prospective, randomized, double-blind assessment of topical bakuchiol and retinol for facial photoageing** (2019): Bakuchiol is comparable with retinol in its ability to improve photoageing including wrinkles, pigmentation, elasticity, firmness, and overall photodamage, with significantly better tolerability and fewer side effects than retinol.
-- **Management of Baras (Vitiligo) with Babchi (Psoralea corylifolia) and Micro-needling: A Case Report** (2024): Combined therapy of Babchi (Psoralea corylifolia) oil with micro-needling showed significant repigmentation in a 62-year-old female vitiligo patient, attributed to active ingredients psoralen, [rhein](/ayurveda-atlas/glossary/compounds-q-t/#rhein), and bergapten promoting melanogenesis.
+- **Management of Baras (Vitiligo) with Babchi (Psoralea corylifolia) and Micro-needling: A Case Report** (2024): Combined therapy of Babchi (Psoralea corylifolia) oil with micro-needling showed significant repigmentation in a 62-year-old female vitiligo patient, attributed to active ingredients psoralen, [rhein](/nighantu/glossary/compounds-q-t/#rhein), and bergapten promoting melanogenesis.
 - **Encapsulated bakuchiol cream formula on facial skin quality** (2024): A 0.5% encapsulated bakuchiol cream formulation demonstrated superior pore size reduction compared to oil formulation, confirming enhanced delivery and efficacy of bakuchiol in anti-aging skincare.
-- **Multidirectional activity of bakuchiol against cellular mechanisms of facial ageing** (2022): Bakuchiol demonstrated holistic anti-aging treatment through stimulation of collagen I, III and IV synthesis, MMP-1 suppression, [antioxidant](/ayurveda-atlas/reference/antioxidant/) activity, and modulation of multiple skin aging pathways simultaneously.
+- **Multidirectional activity of bakuchiol against cellular mechanisms of facial ageing** (2022): Bakuchiol demonstrated holistic anti-aging treatment through stimulation of collagen I, III and IV synthesis, MMP-1 suppression, [antioxidant](/nighantu/reference/antioxidant/) activity, and modulation of multiple skin aging pathways simultaneously.
 
 ## Recent safety updates
 
@@ -82,11 +82,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Bakuchi/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (seed powder), Taila (seed oil — topical), Capsule, Tablet, Lepa (seed paste — topical), [Bakuchi Taila](/ayurveda-atlas/formulation/bakuchi-taila/) (for vitiligo), Ointment/cream
+**Dosage Forms:** Churna (seed powder), Taila (seed oil — topical), Capsule, Tablet, Lepa (seed paste — topical), [Bakuchi Taila](/nighantu/formulation/bakuchi-taila/) (for vitiligo), Ointment/cream
 
 **Standard Dosage:** 500mg-2g seed powder twice daily (internal); Bakuchi oil applied topically to affected areas; 250-500mg extract capsule. CAUTION: phototoxic — photosensitivity management required.
 
-**Bioavailability:** Good oral bioavailability for psoralen (~60-70% absorbed) and isopsoralen/angelicin. Psoralen reaches peak plasma levels in 1-2 hours. Bakuchiol has excellent oral bioavailability (~70%) and is also well absorbed transdermally. Psoralen undergoes hepatic metabolism via CYP [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes) and has a half-life of ~2 hours. Topical psoralen + UVA (PUVA) therapy principle: psoralen intercalates into DNA, UVA activates it — this is the basis of photochemotherapy for vitiligo and psoriasis.
+**Bioavailability:** Good oral bioavailability for psoralen (~60-70% absorbed) and isopsoralen/angelicin. Psoralen reaches peak plasma levels in 1-2 hours. Bakuchiol has excellent oral bioavailability (~70%) and is also well absorbed transdermally. Psoralen undergoes hepatic metabolism via CYP [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) and has a half-life of ~2 hours. Topical psoralen + UVA (PUVA) therapy principle: psoralen intercalates into DNA, UVA activates it — this is the basis of photochemotherapy for vitiligo and psoriasis.
 
 **Optimal Timing:** Internal: after meals to reduce GI irritation. Topical: apply oil to affected area 30-60 minutes before controlled sun exposure (morning sun, 10-15 minutes). Avoid application before prolonged sun exposure.
 
@@ -109,7 +109,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Bakuchi/meta-analysis.md"
 ### Synergistic Combinations
 
 - With Khadir (Acacia catechu) for leucoderma/vitiligo management
-- With [Haridra](/ayurveda-atlas/herb/haridra/) for skin depigmentation disorders
-- With [Manjistha](/ayurveda-atlas/herb/manjistha/) for comprehensive skin health
-- With [Nimba](/ayurveda-atlas/herb/nimba/) for anti-psoriatic action
+- With [Haridra](/nighantu/herb/haridra/) for skin depigmentation disorders
+- With [Manjistha](/nighantu/herb/manjistha/) for comprehensive skin health
+- With [Nimba](/nighantu/herb/nimba/) for anti-psoriatic action
 - Topical Bakuchi oil + controlled sun exposure (photochemotherapy principle)

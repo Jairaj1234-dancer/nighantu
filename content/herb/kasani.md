@@ -28,31 +28,31 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kasani/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Inulin](/ayurveda-atlas/glossary/compounds-g-l/#inulin) (up to 60%)
-- [Lactucin](/ayurveda-atlas/glossary/compounds-g-l/#lactucin) (sesquiterpene lactone)
-- [Lactucopicrin](/ayurveda-atlas/glossary/compounds-g-l/#lactucopicrin)
-- Cichoriin ([coumarin](/ayurveda-atlas/glossary/compounds-c-d/#coumarin) glycoside)
+- [Inulin](/nighantu/glossary/compounds-g-l/#inulin) (up to 60%)
+- [Lactucin](/nighantu/glossary/compounds-g-l/#lactucin) (sesquiterpene lactone)
+- [Lactucopicrin](/nighantu/glossary/compounds-g-l/#lactucopicrin)
+- Cichoriin ([coumarin](/nighantu/glossary/compounds-c-d/#coumarin) glycoside)
 - Chicoric acid (caffeic acid derivative)
-- [Esculetin](/ayurveda-atlas/glossary/compounds-d-g/#esculetin)
+- [Esculetin](/nighantu/glossary/compounds-d-g/#esculetin)
 - Chlorogenic acid
-- [Kaempferol](/ayurveda-atlas/reference/kaempferol/)
+- [Kaempferol](/nighantu/reference/kaempferol/)
 
 ## How does it work?
 
-- [Hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/): Chicoric acid and esculetin reduce hepatic oxidative stress, inhibit NF-kB activation, and promote hepatocyte regeneration; lactucopicrin provides cytoprotection
+- [Hepatoprotective](/nighantu/reference/hepatoprotective/): Chicoric acid and esculetin reduce hepatic oxidative stress, inhibit NF-kB activation, and promote hepatocyte regeneration; lactucopicrin provides cytoprotection
 - Prebiotic: Inulin (fructo-oligosaccharide) selectively promotes growth of beneficial Bifidobacteria and Lactobacillus species in the gut microbiome
-- [Antidiabetic](/ayurveda-atlas/reference/antidiabetic/): Chlorogenic acid and chicoric acid inhibit hepatic [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose)-6-phosphatase and enhance peripheral insulin sensitivity
+- [Antidiabetic](/nighantu/reference/antidiabetic/): Chlorogenic acid and chicoric acid inhibit hepatic [glucose](/nighantu/glossary/compounds-d-g/#glucose)-6-phosphatase and enhance peripheral insulin sensitivity
 
 ## Which traditional uses are supported by research?
 
-- Hepatoprotective use (Yakrit-Shodhaka) validated through clinical and preclinical studies showing reduction of liver [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes) and hepatocyte regeneration
+- Hepatoprotective use (Yakrit-Shodhaka) validated through clinical and preclinical studies showing reduction of liver [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) and hepatocyte regeneration
 - Digestive and prebiotic use confirmed by enhancement of beneficial gut microbiota (Bifidobacteria) through inulin fermentation
 - Antidiabetic use supported by clinical evidence of improved glycemic control and insulin sensitivity
 
 ## What do recent clinical trials show?
 
-- **Biological and Pharmacological Activities, Phytochemical Profile, and Ecological Sustainability of Cichorium intybus: An Account of Knowledge Gaps and Existing Approaches** (2025): Comprehensive review documenting photoprotective, hepatoprotective, antidiabetic, lipid-lowering, [antioxidant](/ayurveda-atlas/reference/antioxidant/), anti-inflammatory, antifungal, and [antitumor](/ayurveda-atlas/glossary/pharmacology/#antitumor) activities.
-- **Chemical Constituents and Their Pharmacological Activities of Plants from Cichorium Genus** (2020): Identified over 100 individual compounds from the plant; majority from roots; documented sesquiterpene lactones as key bioactive anti-inflammatory and [anticancer](/ayurveda-atlas/reference/anticancer/) agents.
+- **Biological and Pharmacological Activities, Phytochemical Profile, and Ecological Sustainability of Cichorium intybus: An Account of Knowledge Gaps and Existing Approaches** (2025): Comprehensive review documenting photoprotective, hepatoprotective, antidiabetic, lipid-lowering, [antioxidant](/nighantu/reference/antioxidant/), anti-inflammatory, antifungal, and [antitumor](/nighantu/glossary/pharmacology/#antitumor) activities.
+- **Chemical Constituents and Their Pharmacological Activities of Plants from Cichorium Genus** (2020): Identified over 100 individual compounds from the plant; majority from roots; documented sesquiterpene lactones as key bioactive anti-inflammatory and [anticancer](/nighantu/reference/anticancer/) agents.
 - **Kasani beej (Cichorium intybus): Ayurvedic View, Folk View, Phytochemistry and Modern Therapeutic Uses** (2021): Integrated Ayurvedic and modern pharmacological evidence for hepatoprotective, antidiabetic, and digestive uses; confirmed inulin as major prebiotic constituent.
 
 ## Recent safety updates
@@ -71,11 +71,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kasani/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Swarasa (fresh juice), Churna (powder), Kashayam (decoction), Capsule, Tablet, Satva ([starch](/ayurveda-atlas/glossary/compounds-q-t/#starch) extract)
+**Dosage Forms:** Swarasa (fresh juice), Churna (powder), Kashayam (decoction), Capsule, Tablet, Satva ([starch](/nighantu/glossary/compounds-q-t/#starch) extract)
 
 **Standard Dosage:** 10-20 mL fresh juice twice daily; 3-5 g powder; 50-100 mL decoction; 500 mg capsule twice daily
 
-**Bioavailability:** Chicoric acid and lactucin sesquiterpene lactones show moderate oral bioavailability (25-35%). Inulin (prebiotic fiber, 15-20% in root) is not absorbed but modulates gut microbiome favorably. Chlorogenic acid bioavailability ~33% with significant colonic metabolism. Co-administration with [piperine](/ayurveda-atlas/reference/piperine/) enhances phenolic acid absorption. Phytosome formulation of chicoric acid improves bioavailability 2.5-fold.
+**Bioavailability:** Chicoric acid and lactucin sesquiterpene lactones show moderate oral bioavailability (25-35%). Inulin (prebiotic fiber, 15-20% in root) is not absorbed but modulates gut microbiome favorably. Chlorogenic acid bioavailability ~33% with significant colonic metabolism. Co-administration with [piperine](/nighantu/reference/piperine/) enhances phenolic acid absorption. Phytosome formulation of chicoric acid improves bioavailability 2.5-fold.
 
 **Optimal Timing:** Before meals for hepatoprotective and digestive benefits; root decoction as coffee substitute in the morning; prebiotic (inulin) preparations between meals
 
@@ -97,8 +97,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kasani/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Bhumyamalaki](/ayurveda-atlas/herb/bhumyamalaki/) (Phyllanthus niruri) for hepatoprotective synergy
+- [Bhumyamalaki](/nighantu/herb/bhumyamalaki/) (Phyllanthus niruri) for hepatoprotective synergy
 - Kutki for liver disorders
-- [Punarnava](/ayurveda-atlas/herb/punarnava/) for hepatorenal protection
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) for comprehensive liver support
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) for gastroprotective combination
+- [Punarnava](/nighantu/herb/punarnava/) for hepatorenal protection
+- [Guduchi](/nighantu/herb/guduchi/) for comprehensive liver support
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) for gastroprotective combination

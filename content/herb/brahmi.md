@@ -24,7 +24,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Brahmi/meta-analysis.m
 | Language | Name |
 |----------|------|
 | English | Brahmi |
-| Common Names | [Water Hyssop](/ayurveda-atlas/herb/water-hyssop/), Brahmi, Bacopa |
+| Common Names | [Water Hyssop](/nighantu/herb/water-hyssop/), Brahmi, Bacopa |
 | Hindi | Brahmi |
 | Sanskrit | Brahmi, Saraswati |
 | Latin/Botanical | *Bacopa monnieri* |
@@ -48,22 +48,22 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Brahmi/meta-analysis.m
 - Bacopasaponins
 - Brahmine
 - Herpestine
-- D-[mannitol](/ayurveda-atlas/glossary/compounds-l-o/#mannitolmannitol)
+- D-[mannitol](/nighantu/glossary/compounds-l-o/#mannitolmannitol)
 
 ## Therapeutic Actions (Karma)
 
 - Nootropic
-- [Anxiolytic](/ayurveda-atlas/reference/anxiolytic/)
+- [Anxiolytic](/nighantu/reference/anxiolytic/)
 - Memory enhancer
-- [Neuroprotective](/ayurveda-atlas/reference/neuroprotective/)
-- [Antioxidant](/ayurveda-atlas/reference/antioxidant/)
+- [Neuroprotective](/nighantu/reference/neuroprotective/)
+- [Antioxidant](/nighantu/reference/antioxidant/)
 - Anti-epileptic
 
 ## How does it work?
 
-- Active compounds: Bacosides A and B (dammarane-type triterpenoid [saponins](/ayurveda-atlas/reference/saponins/)), betulinic acid, loliolide, asiatic acid, [quercetin](/ayurveda-atlas/reference/quercetinquercetin/).
-- Neuronal repair: Bacoside aglycone units ([jujubogenin](/ayurveda-atlas/glossary/compounds-g-l/#jujubogenin)/pseudojujubogenin) repair damaged neurons, stimulate kinase activity, restore synaptic function, and improve nerve transmission.
-- Acetylcholinesterase inhibition: [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/), wogonin, [apigenin](/ayurveda-atlas/glossary/compounds-1-a/#apigenin), and bacopaside X dose-dependently inhibit AChE, with bacopaside X most potent.
+- Active compounds: Bacosides A and B (dammarane-type triterpenoid [saponins](/nighantu/reference/saponins/)), betulinic acid, loliolide, asiatic acid, [quercetin](/nighantu/reference/quercetinquercetin/).
+- Neuronal repair: Bacoside aglycone units ([jujubogenin](/nighantu/glossary/compounds-g-l/#jujubogenin)/pseudojujubogenin) repair damaged neurons, stimulate kinase activity, restore synaptic function, and improve nerve transmission.
+- Acetylcholinesterase inhibition: [Quercetin](/nighantu/reference/quercetinquercetin/), wogonin, [apigenin](/nighantu/glossary/compounds-1-a/#apigenin), and bacopaside X dose-dependently inhibit AChE, with bacopaside X most potent.
 - Antioxidant: Increases glutathione peroxidase (GPx), superoxide dismutase (SOD), and catalase; decreases malondialdehyde (MDA).
 - Anti-inflammatory: Decreases IL-1beta, IL-6, and TNF-alpha; inhibits TNF-alpha and IL-6 release by activated N9 microglial cells.
 - NF-kB modulation: Reduces NF-kB phosphorylation to suppress neuroinflammation.
@@ -95,7 +95,7 @@ Named after Brahma (creator god) for its intellect-enhancing properties. One of 
 - Occasional reports of dry mouth, flu-like symptoms, headache, drowsiness (uncommon).
 - No serious or severe adverse effects reported in clinical trials.
 - Not linked to liver enzyme elevations or clinically apparent liver injury (LiverTox database).
-- Drug interactions: May increase side effects of drugs metabolized by the liver (CYP [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes)).
+- Drug interactions: May increase side effects of drugs metabolized by the liver (CYP [enzymes](/nighantu/glossary/compounds-d-g/#enzymes)).
 - Caution with cholinergic drugs (donepezil, rivastigmine, galantamine, tacrine) due to additive acetylcholine effects.
 - May increase thyroid hormone levels; avoid with thyroid hormone medications and in hyperthyroidism.
 - Contraindicated in pregnancy, stomach ulcers, intestinal/urinary blockages, slow heart rate, and lung disease.
@@ -144,7 +144,7 @@ Powder: 2-5g/day; Standardized extract (20% bacosides): 300-450mg/day
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Tablet, Capsule, Swarasa (fresh juice), [Ghrita](/ayurveda-atlas/herb/ghrita/) (ghee preparation), Taila (oil), Syrup, Brahmi Rasayana
+**Dosage Forms:** Churna (powder), Tablet, Capsule, Swarasa (fresh juice), [Ghrita](/nighantu/herb/ghrita/) (ghee preparation), Taila (oil), Syrup, Brahmi Rasayana
 
 **Standard Dosage:** 3-6g powder twice daily; 300-450mg standardized extract (50% bacosides); 10-20ml juice; 5-10g Brahmi Ghrita; 5-10ml syrup
 
@@ -158,7 +158,7 @@ Powder: 2-5g/day; Standardized extract (20% bacosides): 300-450mg/day
 
 **Storage:** Cool, dry place away from light and moisture. Standardized extracts in well-sealed containers. Ghrita in glass jars at room temperature. Hygroscopic powder requires airtight packaging with desiccant.
 
-**Marker Compounds:** Bacoside A (bacoside A3, bacopaside II, bacopasaponin C, jujubogenin isomer), Bacoside B, Bacosaponin C-F, [Luteolin](/ayurveda-atlas/glossary/compounds-l-o/#luteolin), [Apigenin](/ayurveda-atlas/glossary/compounds-1-a/#apigenin), Brahmine, Herpestine, Betulinic acid
+**Marker Compounds:** Bacoside A (bacoside A3, bacopaside II, bacopasaponin C, jujubogenin isomer), Bacoside B, Bacosaponin C-F, [Luteolin](/nighantu/glossary/compounds-l-o/#luteolin), [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin), Brahmine, Herpestine, Betulinic acid
 
 ### Extraction Methods
 
@@ -171,7 +171,7 @@ Powder: 2-5g/day; Standardized extract (20% bacosides): 300-450mg/day
 ### Synergistic Combinations
 
 - With Shankhapushpi for Medhya (cognitive enhancement) synergy
-- With [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) for stress-related cognitive decline
-- With [Jyotishmati](/ayurveda-atlas/herb/jyotishmati/) (Celastrus) for memory and learning
-- With [Mandukparni](/ayurveda-atlas/herb/mandukparni/) (Gotu kola) for neural regeneration
-- With [Vacha](/ayurveda-atlas/herb/vacha/) for speech and cognitive disorders
+- With [Ashwagandha](/nighantu/herb/ashwagandha/) for stress-related cognitive decline
+- With [Jyotishmati](/nighantu/herb/jyotishmati/) (Celastrus) for memory and learning
+- With [Mandukparni](/nighantu/herb/mandukparni/) (Gotu kola) for neural regeneration
+- With [Vacha](/nighantu/herb/vacha/) for speech and cognitive disorders

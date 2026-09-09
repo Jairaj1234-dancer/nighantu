@@ -49,32 +49,32 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Amla/meta-analysis.md"
 - Vitamin C (ascorbic acid)
 - Gallic acid
 - Ellagic acid
-- [Tannins](/ayurveda-atlas/reference/tannins/) (emblicanin A & B)
+- [Tannins](/nighantu/reference/tannins/) (emblicanin A & B)
 - Phyllemblin
 
 ## Therapeutic Actions (Karma)
 
-- [Antioxidant](/ayurveda-atlas/reference/antioxidant/) (highest natural Vitamin C)
+- [Antioxidant](/nighantu/reference/antioxidant/) (highest natural Vitamin C)
 - Rasayana (rejuvenative)
-- [Hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/)
+- [Hepatoprotective](/nighantu/reference/hepatoprotective/)
 - Anti-diabetic
 - Immunomodulator
 - Hair tonic
 
 ## How does it work?
 
-- Active compounds: Over 180 identified compounds including gallic acid, ellagic acid, chebulinic acid, tannins, [flavonoids](/ayurveda-atlas/reference/flavonoids/), [terpenoids](/ayurveda-atlas/glossary/compounds-t-z/#terpenoids), [polysaccharides](/ayurveda-atlas/glossary/compounds-o-q/#polysaccharides).
+- Active compounds: Over 180 identified compounds including gallic acid, ellagic acid, chebulinic acid, tannins, [flavonoids](/nighantu/reference/flavonoids/), [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids), [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides).
 - Antioxidant: Potent DPPH radical scavenging and reducing power; super antioxidant properties confirmed by genomic analysis.
 - Anti-inflammatory: RBC membrane stabilization; 15-lipoxygenase (15-LOX) inhibition; regulates multiple inflammopathic checkpoints.
-- Anti-diabetic (multi-mechanism): Inhibition of digestive [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes) (alpha-amylase, alpha-glucosidase), stimulation of glycogen storage, activation of insulin signaling, inhibition of advanced glycation end-products (AGEs).
-- Adipogenesis inhibition: Tannin content prevents adipogenesis and increases [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose) uptake by enhancing peripheral insulin sensitivity.
+- Anti-diabetic (multi-mechanism): Inhibition of digestive [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) (alpha-amylase, alpha-glucosidase), stimulation of glycogen storage, activation of insulin signaling, inhibition of advanced glycation end-products (AGEs).
+- Adipogenesis inhibition: Tannin content prevents adipogenesis and increases [glucose](/nighantu/glossary/compounds-d-g/#glucose) uptake by enhancing peripheral insulin sensitivity.
 - Neuroprotection: Targets MAPK3, SRC, MAPK1; modulates neuroactive ligand-receptor interactions and serotonergic synapses.
 - Hepatoprotective and nephroprotective: Cytoprotective effects on liver and kidney tissues.
-- [Immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) and antiviral: Broad-spectrum immune support and documented antiviral activity.
+- [Immunomodulatory](/nighantu/reference/immunomodulatory/) and antiviral: Broad-spectrum immune support and documented antiviral activity.
 
 ## How is it used traditionally?
 
-One of the three fruits in [Triphala](/ayurveda-atlas/herb/triphala/). Classified as best among Rasayana (rejuvenatives) and Vayasthapana (anti-aging) herbs by Charaka. Key ingredient in [Chyawanprash](/ayurveda-atlas/formulation/chyawanprash/).
+One of the three fruits in [Triphala](/nighantu/herb/triphala/). Classified as best among Rasayana (rejuvenatives) and Vayasthapana (anti-aging) herbs by Charaka. Key ingredient in [Chyawanprash](/nighantu/formulation/chyawanprash/).
 
 ## Where is it described in the classical texts?
 
@@ -155,11 +155,11 @@ Fresh fruit: 1-2 fruits/day; Powder (Churna): 3-6g/day; Juice: 10-20ml/day
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Swarasa (fresh juice), Capsule, Tablet, Avaleha/[Chyawanprash](/ayurveda-atlas/formulation/chyawanprash/) (confection), [Amalaki Rasayana](/ayurveda-atlas/formulation/amalaki-rasayana/), [Triphala](/ayurveda-atlas/herb/triphala/) component, Murabba (preserve), Taila (hair oil)
+**Dosage Forms:** Churna (powder), Swarasa (fresh juice), Capsule, Tablet, Avaleha/[Chyawanprash](/nighantu/formulation/chyawanprash/) (confection), [Amalaki Rasayana](/nighantu/formulation/amalaki-rasayana/), [Triphala](/nighantu/herb/triphala/) component, Murabba (preserve), Taila (hair oil)
 
 **Standard Dosage:** 3-6g powder twice daily; 15-30ml fresh juice; 500mg-1g extract capsule twice daily; 1-2 tsp Chyawanprash daily
 
-**Bioavailability:** Excellent bioavailability due to natural vitamin C content (ascorbic acid is well absorbed, but Amla vitamin C is more stable due to tannin complexation). Gallic acid and ellagic acid have moderate oral bioavailability (25-30%). [Ellagitannins](/ayurveda-atlas/glossary/compounds-d-g/#ellagitannins) are metabolized to urolithins by colonic microbiota. The tannin-vitamin C complex provides sustained release of vitamin C (higher AUC than synthetic ascorbic acid). Emblicanin A and B show good absorption.
+**Bioavailability:** Excellent bioavailability due to natural vitamin C content (ascorbic acid is well absorbed, but Amla vitamin C is more stable due to tannin complexation). Gallic acid and ellagic acid have moderate oral bioavailability (25-30%). [Ellagitannins](/nighantu/glossary/compounds-d-g/#ellagitannins) are metabolized to urolithins by colonic microbiota. The tannin-vitamin C complex provides sustained release of vitamin C (higher AUC than synthetic ascorbic acid). Emblicanin A and B show good absorption.
 
 **Optimal Timing:** Morning on empty stomach for Rasayana effects; with meals for iron absorption enhancement; at bedtime with warm milk for rejuvenation
 
@@ -169,7 +169,7 @@ Fresh fruit: 1-2 fruits/day; Powder (Churna): 3-6g/day; Juice: 10-20ml/day
 
 **Storage:** Airtight containers, cool and dry place below 25°C. Protect from light (photo-degradation of vitamin C and tannins). Hygroscopic powder requires desiccant in packaging.
 
-**Marker Compounds:** Gallic acid, Ellagic acid, Emblicanin A, Emblicanin B, Phyllemblin, [Corilagin](/ayurveda-atlas/glossary/compounds-c-d/#corilagin), Chebulagic acid, Ascorbic acid, Punigluconin
+**Marker Compounds:** Gallic acid, Ellagic acid, Emblicanin A, Emblicanin B, Phyllemblin, [Corilagin](/nighantu/glossary/compounds-c-d/#corilagin), Chebulagic acid, Ascorbic acid, Punigluconin
 
 ### Extraction Methods
 
@@ -181,8 +181,8 @@ Fresh fruit: 1-2 fruits/day; Powder (Churna): 3-6g/day; Juice: 10-20ml/day
 
 ### Synergistic Combinations
 
-- With [Haritaki](/ayurveda-atlas/herb/haritaki/) and Vibhitaki in Triphala (synergistic antioxidant and digestive action)
-- With [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) in Chyawanprash for Rasayana (rejuvenation)
-- With [Pippali](/ayurveda-atlas/herb/pippali/) for Dhatri Rasayana (iron absorption enhancement)
-- With [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) for gastric mucosal protection
+- With [Haritaki](/nighantu/herb/haritaki/) and Vibhitaki in Triphala (synergistic antioxidant and digestive action)
+- With [Ashwagandha](/nighantu/herb/ashwagandha/) in Chyawanprash for Rasayana (rejuvenation)
+- With [Pippali](/nighantu/herb/pippali/) for Dhatri Rasayana (iron absorption enhancement)
+- With [Yashtimadhu](/nighantu/herb/yashtimadhu/) for gastric mucosal protection
 - With Bhringaraja for hair health

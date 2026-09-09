@@ -49,11 +49,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Dhataki/meta-analysis.md"
 
 **Standard Dosage:** 3-6g flower powder twice daily; 50-100ml decoction twice daily; 500mg extract capsule twice daily. Primary traditional use is as fermentation agent in Aristha/Asava preparations.
 
-**Bioavailability:** Woodfordia fruticosa flowers are rich in [tannins](/ayurveda-atlas/reference/tannins/) (particularly [ellagitannins](/ayurveda-atlas/glossary/compounds-d-g/#ellagitannins) and gallotannins) and [flavonoids](/ayurveda-atlas/reference/flavonoids/). Tannin bioavailability is low in parent form but gut microbiota convert ellagitannins to urolithins (bioavailable metabolites). Flavonoid [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) ([myricetin](/ayurveda-atlas/glossary/compounds-l-o/#myricetin), [quercetin](/ayurveda-atlas/reference/quercetinquercetin/) glycosides) have moderate oral bioavailability (10-25%). The flower's traditional use as Sandhana Dravya (fermenter) introduces beneficial [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes) and yeasts. Enhancement: phytosome technology for flavonoid-rich fraction; nanoparticle formulation of tannin fraction.
+**Bioavailability:** Woodfordia fruticosa flowers are rich in [tannins](/nighantu/reference/tannins/) (particularly [ellagitannins](/nighantu/glossary/compounds-d-g/#ellagitannins) and gallotannins) and [flavonoids](/nighantu/reference/flavonoids/). Tannin bioavailability is low in parent form but gut microbiota convert ellagitannins to urolithins (bioavailable metabolites). Flavonoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) ([myricetin](/nighantu/glossary/compounds-l-o/#myricetin), [quercetin](/nighantu/reference/quercetinquercetin/) glycosides) have moderate oral bioavailability (10-25%). The flower's traditional use as Sandhana Dravya (fermenter) introduces beneficial [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) and yeasts. Enhancement: phytosome technology for flavonoid-rich fraction; nanoparticle formulation of tannin fraction.
 
 **Optimal Timing:** After meals with warm water for GI conditions; between meals for menstrual disorders
 
-**Standardized Extract:** Hydroalcoholic extract standardized to NLT 15% total tannins (as tannic acid equivalent) and NLT 2% total flavonoids (as [quercetin](/ayurveda-atlas/reference/quercetinquercetin/) equivalent). Extract ratio 6:1.
+**Standardized Extract:** Hydroalcoholic extract standardized to NLT 15% total tannins (as tannic acid equivalent) and NLT 2% total flavonoids (as [quercetin](/nighantu/reference/quercetinquercetin/) equivalent). Extract ratio 6:1.
 
 **Shelf Life:** 2 years (dried flowers in airtight container); 2 years (powder); 3 years (tablet/capsule)
 
@@ -71,7 +71,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Dhataki/meta-analysis.md"
 ### Synergistic Combinations
 
 - As Sandhana Dravya (fermentation initiator) with all Aristha/Asava preparations
-- With [Lodhra](/ayurveda-atlas/herb/lodhra/) for uterine tonic and menstrual regulation
-- With [Ashoka](/ayurveda-atlas/herb/ashoka/) for gynecological conditions
-- With [Nagakesara](/ayurveda-atlas/herb/nagakesara/) for [hemostatic](/ayurveda-atlas/glossary/pharmacology/#hemostatic) synergy
-- With [Ushira](/ayurveda-atlas/herb/ushira/) for Pitta-pacifying and hemostatic combination
+- With [Lodhra](/nighantu/herb/lodhra/) for uterine tonic and menstrual regulation
+- With [Ashoka](/nighantu/herb/ashoka/) for gynecological conditions
+- With [Nagakesara](/nighantu/herb/nagakesara/) for [hemostatic](/nighantu/glossary/pharmacology/#hemostatic) synergy
+- With [Ushira](/nighantu/herb/ushira/) for Pitta-pacifying and hemostatic combination

@@ -28,32 +28,32 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Brihati/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Solasodine](/ayurveda-atlas/glossary/compounds-q-t/#solasodine) (steroidal alkaloid)
-- [Solanine](/ayurveda-atlas/glossary/compounds-q-t/#solanine)
-- [Solamargine](/ayurveda-atlas/glossary/compounds-q-t/#solamargine)
-- Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
-- [Apigenin](/ayurveda-atlas/glossary/compounds-1-a/#apigenin)
-- [Luteolin](/ayurveda-atlas/glossary/compounds-l-o/#luteolin)
-- [Diosgenin](/ayurveda-atlas/glossary/compounds-d-g/#diosgenin)
-- Steroidal [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides)
+- [Solasodine](/nighantu/glossary/compounds-q-t/#solasodine) (steroidal alkaloid)
+- [Solanine](/nighantu/glossary/compounds-q-t/#solanine)
+- [Solamargine](/nighantu/glossary/compounds-q-t/#solamargine)
+- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin)
+- [Luteolin](/nighantu/glossary/compounds-l-o/#luteolin)
+- [Diosgenin](/nighantu/glossary/compounds-d-g/#diosgenin)
+- Steroidal [glycosides](/nighantu/glossary/compounds-g-l/#glycosides)
 
 ## How does it work?
 
 - Anti-inflammatory: Steroidal glycosides and solasodine inhibit NF-kB-mediated production of TNF-alpha and IL-6 in macrophages
-- Respiratory: [Alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) exert bronchodilatory effect through muscarinic receptor antagonism and mast cell stabilization
-- [Anticancer](/ayurveda-atlas/reference/anticancer/): Solamargine induces apoptosis in cancer cells via caspase-3 activation and mitochondrial membrane depolarization
+- Respiratory: [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) exert bronchodilatory effect through muscarinic receptor antagonism and mast cell stabilization
+- [Anticancer](/nighantu/reference/anticancer/): Solamargine induces apoptosis in cancer cells via caspase-3 activation and mitochondrial membrane depolarization
 
 ## Which traditional uses are supported by research?
 
-- Respiratory disorder treatment (Kasa-Shwasa) validated by bronchodilatory and anti-asthmatic activity in [histamine](/ayurveda-atlas/glossary/compounds-g-l/#histamine)-induced bronchospasm models
+- Respiratory disorder treatment (Kasa-Shwasa) validated by bronchodilatory and anti-asthmatic activity in [histamine](/nighantu/glossary/compounds-g-l/#histamine)-induced bronchospasm models
 - Anti-inflammatory use confirmed through significant reduction in carrageenan and formalin-induced edema in animal studies
 - Anthelmintic use (Krimighna) supported by in vitro activity against Pheretima posthuma and Ascaridia galli
 
 ## What do recent clinical trials show?
 
 - **Solanum indicum Linn.: Bridging the Gap Between Traditional Knowledge and Modern Scientific Discoveries** (2024): First-time nutritional composition analysis revealed 25.92% protein, 50.67% carbohydrate, and significant bioactive alkaloid and flavonoid content supporting multi-target pharmacological activity.
-- **Pharmacognostical Exploration and Pharmacological Potential of Solanum indicum Berries** (2023): Berry extracts showed significant [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) and anthelmintic activity; [flavonoids](/ayurveda-atlas/reference/flavonoids/) and [polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols) demonstrated potent free radical scavenging capacity.
-- **Solanum indicum Linn.: An Ethnopharmacological, Phytochemical and Pharmacological Review** (2017): Validated anti-inflammatory, [antioxidant](/ayurveda-atlas/reference/antioxidant/), [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) and cytotoxic effects of steroidal alkaloids and flavonoid constituents across multiple experimental models.
+- **Pharmacognostical Exploration and Pharmacological Potential of Solanum indicum Berries** (2023): Berry extracts showed significant [hepatoprotective](/nighantu/reference/hepatoprotective/) and anthelmintic activity; [flavonoids](/nighantu/reference/flavonoids/) and [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) demonstrated potent free radical scavenging capacity.
+- **Solanum indicum Linn.: An Ethnopharmacological, Phytochemical and Pharmacological Review** (2017): Validated anti-inflammatory, [antioxidant](/nighantu/reference/antioxidant/), [antimicrobial](/nighantu/reference/antimicrobial/) and cytotoxic effects of steroidal alkaloids and flavonoid constituents across multiple experimental models.
 
 ## Recent safety updates
 
@@ -77,21 +77,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Brihati/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Kashayam (decoction), Tablet, Capsule, Kwath Ghana (solid extract), As component of [Dashamoola](/ayurveda-atlas/herb/dashamoola/)
+**Dosage Forms:** Churna (powder), Kashayam (decoction), Tablet, Capsule, Kwath Ghana (solid extract), As component of [Dashamoola](/nighantu/herb/dashamoola/)
 
-**Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction; 500mg extract capsule; commonly used as part of [Dashamoola](/ayurveda-atlas/herb/dashamoola/) formulation
+**Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction; 500mg extract capsule; commonly used as part of [Dashamoola](/nighantu/herb/dashamoola/) formulation
 
-**Bioavailability:** Solasodine glycoalkaloids show moderate oral bioavailability (25-35%). Steroidal alkaloids are generally well absorbed due to lipophilicity. Diosgenin-related [saponins](/ayurveda-atlas/reference/saponins/) undergo hydrolysis in the gut. Caffeic acid and chlorogenic acid show good oral absorption (40-60%). Decoction form provides better extraction of alkaloids than cold preparations.
+**Bioavailability:** Solasodine glycoalkaloids show moderate oral bioavailability (25-35%). Steroidal alkaloids are generally well absorbed due to lipophilicity. Diosgenin-related [saponins](/nighantu/reference/saponins/) undergo hydrolysis in the gut. Caffeic acid and chlorogenic acid show good oral absorption (40-60%). Decoction form provides better extraction of alkaloids than cold preparations.
 
 **Optimal Timing:** Before meals with warm water for respiratory conditions; as Dashamoola Kashayam after meals for anti-inflammatory effects
 
-**Standardized Extract:** Root extract standardized to [solasonine](/ayurveda-atlas/glossary/compounds-q-t/#solasonine) NLT 0.5%; total steroidal alkaloids NLT 1.5%. Fruit extract standardized to solasodine NLT 1%.
+**Standardized Extract:** Root extract standardized to [solasonine](/nighantu/glossary/compounds-q-t/#solasonine) NLT 0.5%; total steroidal alkaloids NLT 1.5%. Fruit extract standardized to solasodine NLT 1%.
 
 **Shelf Life:** 2 years (powder); 3 years (tablet/capsule)
 
 **Storage:** Cool, dry place in airtight containers. Protect from moisture. Alkaloid content stable under proper storage conditions.
 
-**Marker Compounds:** Solasonine, Solamargine, Solasodine, Diosgenin, [Carpesterol](/ayurveda-atlas/glossary/compounds-a-c/#carpesterol), Caffeic acid, Chlorogenic acid, Beta-sitosterol
+**Marker Compounds:** Solasonine, Solamargine, Solasodine, Diosgenin, [Carpesterol](/nighantu/glossary/compounds-a-c/#carpesterol), Caffeic acid, Chlorogenic acid, Beta-sitosterol
 
 ### Extraction Methods
 
@@ -103,8 +103,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Brihati/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Kantakari](/ayurveda-atlas/herb/kantakari/) as Brihati-[Kantakari](/ayurveda-atlas/herb/kantakari/) Dvandva for respiratory disorders
-- With other Dashamoola herbs for anti-inflammatory and [analgesic](/ayurveda-atlas/reference/analgesic/) synergy
-- With [Vasa](/ayurveda-atlas/herb/vasa/) for bronchial conditions
-- With [Pippali](/ayurveda-atlas/herb/pippali/) for Kapha-Vata respiratory conditions
-- With [Guduchi](/ayurveda-atlas/herb/guduchi/) for fever management
+- With [Kantakari](/nighantu/herb/kantakari/) as Brihati-[Kantakari](/nighantu/herb/kantakari/) Dvandva for respiratory disorders
+- With other Dashamoola herbs for anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) synergy
+- With [Vasa](/nighantu/herb/vasa/) for bronchial conditions
+- With [Pippali](/nighantu/herb/pippali/) for Kapha-Vata respiratory conditions
+- With [Guduchi](/nighantu/herb/guduchi/) for fever management

@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ushirasva/meta-analysis.md"
 
 **Standard Dosage:** 15-30 mL twice daily after meals with equal quantity of water
 
-**Bioavailability:** Self-generated alcohol (5-10% v/v ethanol) in Asava acts as a natural solvent and bioenhancer, extracting and solubilizing both water-soluble and alcohol-soluble phytochemicals. Alcohol enhances GI absorption by 2-3 fold compared to aqueous decoction. Fermentation generates novel metabolites (organic acids, [peptides](/ayurveda-atlas/glossary/compounds-o-q/#peptides)) not present in raw herb. Sesquiterpenes from [Ushira](/ayurveda-atlas/herb/ushira/) are more bioavailable in the hydroalcoholic matrix of the Asava.
+**Bioavailability:** Self-generated alcohol (5-10% v/v ethanol) in Asava acts as a natural solvent and bioenhancer, extracting and solubilizing both water-soluble and alcohol-soluble phytochemicals. Alcohol enhances GI absorption by 2-3 fold compared to aqueous decoction. Fermentation generates novel metabolites (organic acids, [peptides](/nighantu/glossary/compounds-o-q/#peptides)) not present in raw herb. Sesquiterpenes from [Ushira](/nighantu/herb/ushira/) are more bioavailable in the hydroalcoholic matrix of the Asava.
 
 **Optimal Timing:** After meals with equal volume of water; morning and evening; not recommended on empty stomach due to alcohol content
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ushirasva/meta-analysis.md"
 
 **Storage:** Glass or earthen containers at room temperature. Do not refrigerate. Store away from direct sunlight. Cork or food-grade cap closure. Shake well before use as sediment may settle.
 
-**Marker Compounds:** [Khusimol](/ayurveda-atlas/glossary/compounds-g-l/#khusimol) (from Ushira), [Vetiverol](/ayurveda-atlas/glossary/compounds-t-z/#vetiverol), Ethanol (self-generated), Gallic acid (from [Dhataki](/ayurveda-atlas/herb/dhataki/)), Ellagic acid, Organic acids (lactic, acetic, succinic from fermentation)
+**Marker Compounds:** [Khusimol](/nighantu/glossary/compounds-g-l/#khusimol) (from Ushira), [Vetiverol](/nighantu/glossary/compounds-t-z/#vetiverol), Ethanol (self-generated), Gallic acid (from [Dhataki](/nighantu/herb/dhataki/)), Ellagic acid, Organic acids (lactic, acetic, succinic from fermentation)
 
 ### Extraction Methods
 
@@ -69,7 +69,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ushirasva/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- Dhataki pushpa (Woodfordia fruticosa) - essential fermenting agent providing [tannins](/ayurveda-atlas/reference/tannins/) and natural yeast
+- Dhataki pushpa (Woodfordia fruticosa) - essential fermenting agent providing [tannins](/nighantu/reference/tannins/) and natural yeast
 - Chandan (sandalwood) - often co-ingredient in cooling Asavas
 - Musta (Cyperus rotundus) - digestive and cooling synergy in fermented medium
-- [Padmaka](/ayurveda-atlas/herb/padmaka/) (Prunus cerasoides) - often combined for hemorrhagic conditions
+- [Padmaka](/nighantu/herb/padmaka/) (Prunus cerasoides) - often combined for hemorrhagic conditions

@@ -29,37 +29,37 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nyagrodha/meta-analysis.md"
 ## Key Phytochemical Constituents
 
 - Bengalinoside (glucoside)
-- [Leucocyanidin](/ayurveda-atlas/glossary/compounds-g-l/#leucocyanidin)
+- [Leucocyanidin](/nighantu/glossary/compounds-g-l/#leucocyanidin)
 - Leucopelargonidin
-- [Friedelin](/ayurveda-atlas/glossary/compounds-d-g/#friedelin)
-- Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
-- [Phytosterols](/ayurveda-atlas/glossary/compounds-o-q/#phytosterols)
+- [Friedelin](/nighantu/glossary/compounds-d-g/#friedelin)
+- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- [Phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols)
 - Bengalenol
 - Bengalenoside
 - Triterpene (penfluridol)
-- [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/)
-- [Rutin](/ayurveda-atlas/glossary/compounds-q-t/#rutin)
+- [Quercetin](/nighantu/reference/quercetinquercetin/)
+- [Rutin](/nighantu/glossary/compounds-q-t/#rutin)
 - Gallic acid
 
 ## How does it work?
 
-- [Antidiabetic](/ayurveda-atlas/reference/antidiabetic/) activity through leucocyanidin-mediated beta-cell regeneration and enhancement of insulin secretion
-- [Hypolipidemic](/ayurveda-atlas/glossary/pharmacology/#hypolipidemic) effects via inhibition of HMG-CoA reductase and upregulation of hepatic LDL receptors
+- [Antidiabetic](/nighantu/reference/antidiabetic/) activity through leucocyanidin-mediated beta-cell regeneration and enhancement of insulin secretion
+- [Hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic) effects via inhibition of HMG-CoA reductase and upregulation of hepatic LDL receptors
 - Anti-inflammatory action through suppression of TNF-alpha, IL-6, and prostaglandin synthesis
-- [Immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) activity via enhancement of macrophage phagocytosis and lymphocyte proliferation
+- [Immunomodulatory](/nighantu/reference/immunomodulatory/) activity via enhancement of macrophage phagocytosis and lymphocyte proliferation
 
 ## Which traditional uses are supported by research?
 
 - Antidiabetic use confirmed through multiple in vivo studies demonstrating significant hypoglycemic activity
-- Anti-diarrheal and dysentery treatment validated via castor oil-induced diarrhea models and [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) testing
+- Anti-diarrheal and dysentery treatment validated via castor oil-induced diarrhea models and [antimicrobial](/nighantu/reference/antimicrobial/) testing
 - Wound healing confirmed through excision wound models with accelerated closure and collagen synthesis
-- [Analgesic](/ayurveda-atlas/reference/analgesic/) properties validated in hot plate and tail flick animal models
+- [Analgesic](/nighantu/reference/analgesic/) properties validated in hot plate and tail flick animal models
 
 ## What do recent clinical trials show?
 
 - **Phytochemistry, Pharmacological Properties, and Recent Applications of Ficus benghalensis and Ficus religiosa** (2022): Comprehensive analysis of 80+ compounds from both species confirmed antidiabetic, anti-inflammatory, hypolipidemic and immunomodulatory activities with identification of leucocyanidin as a key bioactive flavonoid.
-- **Ficus benghalensis L. (Moraceae): A review on ethnomedicinal uses, phytochemistry and pharmacological activities** (2023): Validated antidiabetic potential of bark extracts with significant reduction of fasting blood [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose) in STZ-induced diabetic rats, attributed to leucocyanidin and beta-sitosterol.
-- **Ficus benghalensis - comprehensive review on nanotechnological applications and patents** (2023): Green synthesis of silver and gold nanoparticles using F. benghalensis leaf extracts showed enhanced antimicrobial and [anticancer](/ayurveda-atlas/reference/anticancer/) activities compared to crude extracts.
+- **Ficus benghalensis L. (Moraceae): A review on ethnomedicinal uses, phytochemistry and pharmacological activities** (2023): Validated antidiabetic potential of bark extracts with significant reduction of fasting blood [glucose](/nighantu/glossary/compounds-d-g/#glucose) in STZ-induced diabetic rats, attributed to leucocyanidin and beta-sitosterol.
+- **Ficus benghalensis - comprehensive review on nanotechnological applications and patents** (2023): Green synthesis of silver and gold nanoparticles using F. benghalensis leaf extracts showed enhanced antimicrobial and [anticancer](/nighantu/reference/anticancer/) activities compared to crude extracts.
 
 ## Recent safety updates
 
@@ -88,7 +88,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nyagrodha/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g bark powder daily; 20-40 mL bark decoction twice daily; 500 mg - 1 g standardized extract twice daily; topical paste as directed
 
-**Bioavailability:** Leucocyanidin and leucopelargonidin (dimeric [flavonoids](/ayurveda-atlas/reference/flavonoids/)) from banyan bark show limited oral bioavailability (10-20%) due to large molecular size and hydrolysis by gut microflora. [Tannins](/ayurveda-atlas/reference/tannins/) provide local GI tract effects (astringent, anti-diarrheal) without requiring systemic absorption. Beta-sitosterol has oral bioavailability of 5-10% and benefits from micellar solubilization or phytosome technology.
+**Bioavailability:** Leucocyanidin and leucopelargonidin (dimeric [flavonoids](/nighantu/reference/flavonoids/)) from banyan bark show limited oral bioavailability (10-20%) due to large molecular size and hydrolysis by gut microflora. [Tannins](/nighantu/reference/tannins/) provide local GI tract effects (astringent, anti-diarrheal) without requiring systemic absorption. Beta-sitosterol has oral bioavailability of 5-10% and benefits from micellar solubilization or phytosome technology.
 
 **Optimal Timing:** Bark decoction: morning and evening, between meals. For diabetes management: 30 minutes before meals. Topical applications: as needed, clean wound area first.
 
@@ -104,14 +104,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nyagrodha/meta-analysis.md"
 
 - Aqueous decoction (traditional Kwatha)
 - Hydroalcoholic extraction (50-60% ethanol)
-- Acetone-water extraction for [proanthocyanidins](/ayurveda-atlas/glossary/compounds-o-q/#proanthocyanidins)
+- Acetone-water extraction for [proanthocyanidins](/nighantu/glossary/compounds-o-q/#proanthocyanidins)
 - Cold maceration for tannin-rich extracts
 - Hot water extraction with spray drying for powdered extract
 
 ### Synergistic Combinations
 
-- [Ashoka](/ayurveda-atlas/herb/ashoka/) (uterine tonic combination)
-- [Lodhra](/ayurveda-atlas/herb/lodhra/) (gynecological formulations, leucorrhea)
-- [Udumbara](/ayurveda-atlas/herb/udumbara/) (anti-hemorrhagic synergy)
+- [Ashoka](/nighantu/herb/ashoka/) (uterine tonic combination)
+- [Lodhra](/nighantu/herb/lodhra/) (gynecological formulations, leucorrhea)
+- [Udumbara](/nighantu/herb/udumbara/) (anti-hemorrhagic synergy)
 - Kutaja (anti-diarrheal combination)
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) (wound healing paste)
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (wound healing paste)

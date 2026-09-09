@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kshirabala-101-Avarti/meta-an
 
 | Language | Name |
 |----------|------|
-| English | [Kshirabala 101 Avarti](/ayurveda-atlas/herb/kshirabala-101-avarti/) |
+| English | [Kshirabala 101 Avarti](/nighantu/herb/kshirabala-101-avarti/) |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -49,17 +49,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kshirabala-101-Avarti/meta-an
 
 **Standard Dosage:** Internal: 5-15 drops (0.25-0.75 mL) with warm milk or water; External: sufficient quantity for Abhyanga (massage); Nasya: 2-6 drops per nostril; Basti: 60-100 mL as per protocol
 
-**Bioavailability:** The 101-Avarti (101 repetitions of processing) concentrates bioactives and creates a nanoparticulate lipid system with markedly enhanced transdermal and transmucosal penetration. Each Avarti (cycle of adding milk, [Bala](/ayurveda-atlas/herb/bala/) decoction, and [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) with re-cooking) progressively reduces particle size and enhances oil-water interfacial properties. [Withanolides](/ayurveda-atlas/glossary/compounds-t-z/#withanolides) and [phytosterols](/ayurveda-atlas/glossary/compounds-o-q/#phytosterols) achieve 5-8 fold higher skin penetration compared to single-processed oil. Nasya administration provides rapid CNS delivery via olfactory pathway.
+**Bioavailability:** The 101-Avarti (101 repetitions of processing) concentrates bioactives and creates a nanoparticulate lipid system with markedly enhanced transdermal and transmucosal penetration. Each Avarti (cycle of adding milk, [Bala](/nighantu/herb/bala/) decoction, and [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) with re-cooking) progressively reduces particle size and enhances oil-water interfacial properties. [Withanolides](/nighantu/glossary/compounds-t-z/#withanolides) and [phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols) achieve 5-8 fold higher skin penetration compared to single-processed oil. Nasya administration provides rapid CNS delivery via olfactory pathway.
 
 **Optimal Timing:** External Abhyanga: morning before bath; Nasya: morning on empty stomach; Internal: before meals with warm milk; Basti: as per Panchakarma schedule
 
-**Standardized Extract:** Final 101-Avarti oil standardized to: acid value <4.0, saponification value 185-200, [iodine](/ayurveda-atlas/glossary/compounds-g-l/#iodine) value 100-120; total alkaloid content (as [ephedrine](/ayurveda-atlas/glossary/compounds-d-g/#ephedrine)) >0.01%; specific gravity 0.920-0.935
+**Standardized Extract:** Final 101-Avarti oil standardized to: acid value <4.0, saponification value 185-200, [iodine](/nighantu/glossary/compounds-g-l/#iodine) value 100-120; total alkaloid content (as [ephedrine](/nighantu/glossary/compounds-d-g/#ephedrine)) >0.01%; specific gravity 0.920-0.935
 
 **Shelf Life:** 36-60 months for properly prepared 101-Avarti oil (high processing creates exceptional stability); 24 months for soft gel capsules; 24 months for Nasya drops
 
-**Storage:** Store in amber glass or traditional copper vessels at 15-30°C. Exceptionally stable preparation due to repeated thermal processing and [antioxidant](/ayurveda-atlas/reference/antioxidant/) concentration. Protect from direct sunlight. No refrigeration required.
+**Storage:** Store in amber glass or traditional copper vessels at 15-30°C. Exceptionally stable preparation due to repeated thermal processing and [antioxidant](/nighantu/reference/antioxidant/) concentration. Protect from direct sunlight. No refrigeration required.
 
-**Marker Compounds:** Ephedrine (from Bala), [Pseudoephedrine](/ayurveda-atlas/glossary/compounds-o-q/#pseudoephedrine) (from Bala), Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), [Sesamin](/ayurveda-atlas/glossary/compounds-q-t/#sesamin) (from sesame oil), [Sesamolin](/ayurveda-atlas/glossary/compounds-q-t/#sesamolin), Withanolide derivatives, Conjugated linoleic acid, Oleic acid
+**Marker Compounds:** Ephedrine (from Bala), [Pseudoephedrine](/nighantu/glossary/compounds-o-q/#pseudoephedrine) (from Bala), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Sesamin](/nighantu/glossary/compounds-q-t/#sesamin) (from sesame oil), [Sesamolin](/nighantu/glossary/compounds-q-t/#sesamolin), Withanolide derivatives, Conjugated linoleic acid, Oleic acid
 
 ### Extraction Methods
 
@@ -69,7 +69,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kshirabala-101-Avarti/meta-an
 
 ### Synergistic Combinations
 
-- Bala (Sida cordifolia) is the primary herb — provides ephedrine [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids), phytosterols, and [mucilage](/ayurveda-atlas/glossary/compounds-l-o/#mucilage)
+- Bala (Sida cordifolia) is the primary herb — provides ephedrine [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids), phytosterols, and [mucilage](/nighantu/glossary/compounds-l-o/#mucilage)
 - Dhanvantaram Taila for complementary neuromuscular support
-- [Mahanarayan](/ayurveda-atlas/herb/mahanarayan/) Taila for arthritic conditions (sequential use)
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) for enhanced neurological rehabilitation
+- [Mahanarayan](/nighantu/herb/mahanarayan/) Taila for arthritic conditions (sequential use)
+- [Ashwagandha](/nighantu/herb/ashwagandha/) for enhanced neurological rehabilitation

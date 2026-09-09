@@ -28,32 +28,32 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ksheera/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- Casein [proteins](/ayurveda-atlas/glossary/compounds-o-q/#proteins) (alpha-s1, alpha-s2, beta, kappa)
+- Casein [proteins](/nighantu/glossary/compounds-o-q/#proteins) (alpha-s1, alpha-s2, beta, kappa)
 - Whey proteins (lactalbumin, lactoglobulin)
-- [Lactoferrin](/ayurveda-atlas/glossary/compounds-g-l/#lactoferrin)
-- [Immunoglobulins](/ayurveda-atlas/glossary/compounds-g-l/#immunoglobulins) (IgA, IgG, IgM)
+- [Lactoferrin](/nighantu/glossary/compounds-g-l/#lactoferrin)
+- [Immunoglobulins](/nighantu/glossary/compounds-g-l/#immunoglobulins) (IgA, IgG, IgM)
 - Conjugated linoleic acid (CLA)
-- Calcium and [phosphorus](/ayurveda-atlas/glossary/compounds-o-q/#phosphorus)
+- Calcium and [phosphorus](/nighantu/glossary/compounds-o-q/#phosphorus)
 - Vitamin D
 - Vitamin B12
 - Sphingomyelin
-- Opioid [peptides](/ayurveda-atlas/glossary/compounds-o-q/#peptides) (casomorphins)
+- Opioid [peptides](/nighantu/glossary/compounds-o-q/#peptides) (casomorphins)
 
 ## How does it work?
 
-- Lactoferrin exhibits [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) activity through iron sequestration (depriving pathogens of essential iron) and direct membrane disruption; also modulates innate immune response through TLR4 signaling
+- Lactoferrin exhibits [antimicrobial](/nighantu/reference/antimicrobial/) activity through iron sequestration (depriving pathogens of essential iron) and direct membrane disruption; also modulates innate immune response through TLR4 signaling
 - Casein-derived bioactive peptides (casomorphins) bind to opioid mu-receptors in the gut, providing antidiarrheal effects and modulating gastrointestinal motility and secretion
 - Milk serves as a pharmaceutical vehicle (Anupana) enhancing bioavailability of lipophilic herbal compounds through emulsification with milk fat, and provides buffering action that moderates pungent/irritant properties of co-administered herbs
 
 ## Which traditional uses are supported by research?
 
-- [Rasayana](/ayurveda-atlas/reference/rasayana/) (rejuvenating) and Ojas-enhancing properties validated through clinical nutrition studies confirming milk's role in improving immune function and tissue nourishment
+- [Rasayana](/nighantu/reference/rasayana/) (rejuvenating) and Ojas-enhancing properties validated through clinical nutrition studies confirming milk's role in improving immune function and tissue nourishment
 - Use as a pharmaceutical vehicle (Anupana/Ksheera Paka) validated - milk-based processing of herbs enhances bioavailability of lipophilic compounds while reducing irritant properties
 - Ksheera Basti (milk enema) efficacy for Vataroga (neurological/musculoskeletal conditions) supported by clinical evidence for sciatica management
 
 ## What do recent clinical trials show?
 
-- **Validation of therapeutic anti-inflammatory potential of [Arjuna](/ayurveda-atlas/herb/arjuna/) Ksheera Paka - A traditional Ayurvedic formulation of Terminalia [arjuna](/ayurveda-atlas/herb/arjuna/)** (2017): Milk-based processing (Ksheera Paka) of Terminalia [arjuna](/ayurveda-atlas/herb/arjuna/) enhanced anti-inflammatory activity, validating the traditional Ayurvedic practice of using milk as a pharmaceutical vehicle/adjuvant.
+- **Validation of therapeutic anti-inflammatory potential of [Arjuna](/nighantu/herb/arjuna/) Ksheera Paka - A traditional Ayurvedic formulation of Terminalia [arjuna](/nighantu/herb/arjuna/)** (2017): Milk-based processing (Ksheera Paka) of Terminalia [arjuna](/nighantu/herb/arjuna/) enhanced anti-inflammatory activity, validating the traditional Ayurvedic practice of using milk as a pharmaceutical vehicle/adjuvant.
 - **A Comprehensive Review of Ksheera Basti in the Management of Gridhrasi (Sciatica): Pharmacology, Mechanisms, and Clinical Evidence** (2024): Systematic review documenting efficacy of milk-based medicated enema (Ksheera Basti) for sciatica management through anti-inflammatory, nourishing, and nerve-regenerative mechanisms.
 - **A Review Study on Ashta Ksheera: their Nutritional and Therapeutic Values in Children** (2022): Eight types of milk (Ashta Ksheera) documented in Ayurveda possess distinct nutritional and therapeutic profiles for pediatric health applications.
 
@@ -74,11 +74,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ksheera/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Liquid (plain milk), Ksheera Paka (medicated milk decoction), Ksheera Basti (milk enema), [Ghrita](/ayurveda-atlas/herb/ghrita/) (clarified butter/Ghee derived from milk), [Takra](/ayurveda-atlas/herb/takra/) (buttermilk), [Dadhi](/ayurveda-atlas/herb/dadhi/) (curd/yogurt)
+**Dosage Forms:** Liquid (plain milk), Ksheera Paka (medicated milk decoction), Ksheera Basti (milk enema), [Ghrita](/nighantu/herb/ghrita/) (clarified butter/Ghee derived from milk), [Takra](/nighantu/herb/takra/) (buttermilk), [Dadhi](/nighantu/herb/dadhi/) (curd/yogurt)
 
 **Standard Dosage:** 100-250 mL warm milk as Anupana (vehicle) for herbs; Ksheera Paka: 100-200 mL once daily; Ksheera Basti: 200-500 mL as per Panchakarma protocol
 
-**Bioavailability:** Milk serves as a superior bioavailability enhancer (Anupana) for lipophilic drugs due to fat content (3.5-6% for cow's milk). Casein micelles act as natural nanocarriers for hydrophobic compounds. Calcium and [phospholipids](/ayurveda-atlas/glossary/compounds-o-q/#phospholipids) enhance absorption of fat-soluble [vitamins](/ayurveda-atlas/glossary/compounds-t-z/#vitamins) and phytochemicals. Lactoferrin improves iron bioavailability. Ksheera Paka extraction concentrates herb actives in milk lipid fraction. A2 milk (A2 beta-casein) is traditionally preferred in Ayurveda.
+**Bioavailability:** Milk serves as a superior bioavailability enhancer (Anupana) for lipophilic drugs due to fat content (3.5-6% for cow's milk). Casein micelles act as natural nanocarriers for hydrophobic compounds. Calcium and [phospholipids](/nighantu/glossary/compounds-o-q/#phospholipids) enhance absorption of fat-soluble [vitamins](/nighantu/glossary/compounds-t-z/#vitamins) and phytochemicals. Lactoferrin improves iron bioavailability. Ksheera Paka extraction concentrates herb actives in milk lipid fraction. A2 milk (A2 beta-casein) is traditionally preferred in Ayurveda.
 
 **Optimal Timing:** Warm milk at bedtime for sleep and Vata pacification; Ksheera Paka morning or evening depending on herb used; Ksheera Basti as per Panchakarma schedule
 
@@ -99,8 +99,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ksheera/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) Ksheera Paka for rejuvenation and sleep
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) with milk for [galactagogue](/ayurveda-atlas/glossary/pharmacology/#galactagogue) effect
-- [Haridra](/ayurveda-atlas/herb/haridra/) Dugdha ([Turmeric](/ayurveda-atlas/herb/turmeric/) milk) for anti-inflammatory and immune support
-- [Bala](/ayurveda-atlas/herb/bala/) with milk for strength building
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) with milk for fever management
+- [Ashwagandha](/nighantu/herb/ashwagandha/) Ksheera Paka for rejuvenation and sleep
+- [Shatavari](/nighantu/herb/shatavari/) with milk for [galactagogue](/nighantu/glossary/pharmacology/#galactagogue) effect
+- [Haridra](/nighantu/herb/haridra/) Dugdha ([Turmeric](/nighantu/herb/turmeric/) milk) for anti-inflammatory and immune support
+- [Bala](/nighantu/herb/bala/) with milk for strength building
+- [Guduchi](/nighantu/herb/guduchi/) with milk for fever management

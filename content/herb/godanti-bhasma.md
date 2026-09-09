@@ -23,19 +23,19 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Godanti-Bhasma/meta-
 
 | Language | Name |
 |----------|------|
-| English | [Godanti Bhasma](/ayurveda-atlas/herb/godanti-bhasma/) |
+| English | [Godanti Bhasma](/nighantu/herb/godanti-bhasma/) |
 
 ## Key Phytochemical Constituents
 
 - Calcium sulfate (CaSO4) as primary constituent
 - Calcium oxide (CaO) from decomposition during calcination
-- [Silicon](/ayurveda-atlas/glossary/compounds-q-t/#silicon) dioxide traces
-- [Magnesium](/ayurveda-atlas/glossary/compounds-l-o/#magnesium), [strontium](/ayurveda-atlas/glossary/compounds-q-t/#strontium) as trace elements
+- [Silicon](/nighantu/glossary/compounds-q-t/#silicon) dioxide traces
+- [Magnesium](/nighantu/glossary/compounds-l-o/#magnesium), [strontium](/nighantu/glossary/compounds-q-t/#strontium) as trace elements
 - Organic residues from herbal processing media
 
 ## How does it work?
 
-- [Antipyretic](/ayurveda-atlas/reference/antipyretic/) action through prostaglandin synthesis inhibition and thermoregulatory center modulation, effectively reducing yeast-induced hyperpyrexia in animal models
+- [Antipyretic](/nighantu/reference/antipyretic/) action through prostaglandin synthesis inhibition and thermoregulatory center modulation, effectively reducing yeast-induced hyperpyrexia in animal models
 - Gastroprotective effect through acid neutralization by calcium compounds and cytoprotective enhancement of gastric mucosal barrier against stress and NSAID-induced ulceration
 - Calcium supplementation through bioavailable calcium sulfate providing elemental calcium for bone metabolism, muscle function, and nerve transmission
 - Pitta-shamaka (cooling) action through alkaline pH buffering and reduction of inflammatory heat, addressing Pitta-predominant conditions systemically
@@ -48,9 +48,9 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Godanti-Bhasma/meta-
 
 ## What do recent clinical trials show?
 
-- **Toxicological and Pharmacological Assessment of [Godanti Bhasma](/ayurveda-atlas/herb/godanti-bhasma/)** (2015): Acute toxicity LD50 in Class IV (>2000 mcg/kg). Significant antipyretic activity against yeast-induced fever in rats. Significant gastroprotective activity with 44.72% protection in stress-induced ulcers and 45.35% in diclofenac-induced ulcers.
-- **Updated Overview on [Godanti Bhasma](/ayurveda-atlas/herb/godanti-bhasma/) (An Ayurvedic Formulation of Gypsum)** (2020): Comprehensive review confirmed [Godanti Bhasma](/ayurveda-atlas/herb/godanti-bhasma/) as a promising formulation for peptic ulcer disease, pyrexia of unknown origin, and calcium supplementation. Safe in dose-dependent manner.
-- **Review of analytical study of [Godanti Bhasma](/ayurveda-atlas/herb/godanti-bhasma/)** (2019): Analytical standardization confirmed calcium sulfate composition with consistent physicochemical parameters across properly prepared batches. Established quality markers for authentication.
+- **Toxicological and Pharmacological Assessment of [Godanti Bhasma](/nighantu/herb/godanti-bhasma/)** (2015): Acute toxicity LD50 in Class IV (>2000 mcg/kg). Significant antipyretic activity against yeast-induced fever in rats. Significant gastroprotective activity with 44.72% protection in stress-induced ulcers and 45.35% in diclofenac-induced ulcers.
+- **Updated Overview on [Godanti Bhasma](/nighantu/herb/godanti-bhasma/) (An Ayurvedic Formulation of Gypsum)** (2020): Comprehensive review confirmed [Godanti Bhasma](/nighantu/herb/godanti-bhasma/) as a promising formulation for peptic ulcer disease, pyrexia of unknown origin, and calcium supplementation. Safe in dose-dependent manner.
+- **Review of analytical study of [Godanti Bhasma](/nighantu/herb/godanti-bhasma/)** (2019): Analytical standardization confirmed calcium sulfate composition with consistent physicochemical parameters across properly prepared batches. Established quality markers for authentication.
 
 ## Recent safety updates
 

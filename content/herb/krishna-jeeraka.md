@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Krishna-Jeeraka/met
 
 | Language | Name |
 |----------|------|
-| English | Krishna [Jeeraka](/ayurveda-atlas/herb/jeeraka/)|Krishna Jeeraka |
+| English | Krishna [Jeeraka](/nighantu/herb/jeeraka/)|Krishna Jeeraka |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -49,17 +49,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Krishna-Jeeraka/met
 
 **Standard Dosage:** 1-3 g powder twice daily; 3-5 drops essential oil (diluted); 500 mg capsule twice daily; 5-10 mL Ark
 
-**Bioavailability:** [Thymoquinone](/ayurveda-atlas/glossary/compounds-t-z/#thymoquinone) (TQ) — primary bioactive — has moderate oral bioavailability (30-40%) limited by poor aqueous solubility and hepatic first-pass metabolism. SNEDDS and solid lipid nanoparticle formulations improve TQ bioavailability by 3-5 fold. [Piperine](/ayurveda-atlas/reference/piperine/) co-administration increases TQ plasma levels by 50%. Fixed oil serves as natural lipid carrier enhancing TQ self-emulsification. [Thymohydroquinone](/ayurveda-atlas/glossary/compounds-t-z/#thymohydroquinone) (reduced form) shows improved absorption.
+**Bioavailability:** [Thymoquinone](/nighantu/glossary/compounds-t-z/#thymoquinone) (TQ) — primary bioactive — has moderate oral bioavailability (30-40%) limited by poor aqueous solubility and hepatic first-pass metabolism. SNEDDS and solid lipid nanoparticle formulations improve TQ bioavailability by 3-5 fold. [Piperine](/nighantu/reference/piperine/) co-administration increases TQ plasma levels by 50%. Fixed oil serves as natural lipid carrier enhancing TQ self-emulsification. [Thymohydroquinone](/nighantu/glossary/compounds-t-z/#thymohydroquinone) (reduced form) shows improved absorption.
 
 **Optimal Timing:** After meals with honey (traditional); essential oil inhalation: anytime for respiratory benefit; before meals for appetite and digestive stimulation
 
 **Standardized Extract:** Cold-pressed seed oil standardized to minimum 2% thymoquinone by HPLC; essential oil to minimum 35% thymoquinone and 25% p-cymene by GC-MS
 
-**Shelf Life:** 18 months for seed powder; 24 months for cold-pressed oil (with tocopherol [antioxidant](/ayurveda-atlas/reference/antioxidant/)); 36 months for soft gel capsules; 24 months for essential oil
+**Shelf Life:** 18 months for seed powder; 24 months for cold-pressed oil (with tocopherol [antioxidant](/nighantu/reference/antioxidant/)); 36 months for soft gel capsules; 24 months for essential oil
 
 **Storage:** Cold-pressed oil in amber glass bottles at 4-15°C (refrigeration extends potency). Seeds in airtight containers away from light. Thymoquinone degrades in heat and light — cold chain preferred for premium products.
 
-**Marker Compounds:** Thymoquinone, Thymohydroquinone, [Thymol](/ayurveda-atlas/glossary/compounds-t-z/#thymol), [Carvacrol](/ayurveda-atlas/glossary/compounds-a-c/#carvacrol), p-Cymene, Alpha-pinene, [Nigellone](/ayurveda-atlas/glossary/compounds-l-o/#nigellone) (dithymoquinone), [Nigellidine](/ayurveda-atlas/glossary/compounds-l-o/#nigellidine), Nigellicine
+**Marker Compounds:** Thymoquinone, Thymohydroquinone, [Thymol](/nighantu/glossary/compounds-t-z/#thymol), [Carvacrol](/nighantu/glossary/compounds-a-c/#carvacrol), p-Cymene, Alpha-pinene, [Nigellone](/nighantu/glossary/compounds-l-o/#nigellone) (dithymoquinone), [Nigellidine](/nighantu/glossary/compounds-l-o/#nigellidine), Nigellicine
 
 ### Extraction Methods
 
@@ -71,8 +71,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Krishna-Jeeraka/met
 
 ### Synergistic Combinations
 
-- Honey ([Madhu](/ayurveda-atlas/herb/madhu/)) — classical Prophetic medicine combination for immune support
-- Haldi ([Turmeric](/ayurveda-atlas/herb/turmeric/)/[curcumin](/ayurveda-atlas/herb/curcumin/)) for anti-inflammatory and anti-cancer potentiation
-- [Methi](/ayurveda-atlas/herb/methi/) (Fenugreek) for metabolic syndrome
-- [Jeeraka](/ayurveda-atlas/herb/jeeraka/) ([Cumin](/ayurveda-atlas/herb/cumin/)) for digestive combination
+- Honey ([Madhu](/nighantu/herb/madhu/)) — classical Prophetic medicine combination for immune support
+- Haldi ([Turmeric](/nighantu/herb/turmeric/)/[curcumin](/nighantu/herb/curcumin/)) for anti-inflammatory and anti-cancer potentiation
+- [Methi](/nighantu/herb/methi/) (Fenugreek) for metabolic syndrome
+- [Jeeraka](/nighantu/herb/jeeraka/) ([Cumin](/nighantu/herb/cumin/)) for digestive combination
 - Amalaki for antioxidant synergy

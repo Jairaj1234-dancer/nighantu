@@ -27,20 +27,20 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Mahayograj-G
 
 ## Key Ingredients
 
-- Shuddha [Guggulu](/ayurveda-atlas/formulation/guggulu/)|Shuddha Guggulu (Commiphora wightii) - ~25% of formulation
-- [Trikatu](/ayurveda-atlas/herb/trikatu/) - Shunthi ([Zingiber](/ayurveda-atlas/herb/zingiber/) officinale), Maricha (Piper nigrum), [Pippali](/ayurveda-atlas/herb/pippali/) (Piper longum)
-- [Triphala](/ayurveda-atlas/herb/triphala/) - [Haritaki](/ayurveda-atlas/herb/haritaki/) (Terminalia chebula), [Bibhitaki](/ayurveda-atlas/herb/bibhitaki/) (Terminalia bellirica), Amalaki (Emblica officinalis)
+- Shuddha [Guggulu](/nighantu/formulation/guggulu/)|Shuddha Guggulu (Commiphora wightii) - ~25% of formulation
+- [Trikatu](/nighantu/herb/trikatu/) - Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale), Maricha (Piper nigrum), [Pippali](/nighantu/herb/pippali/) (Piper longum)
+- [Triphala](/nighantu/herb/triphala/) - [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula), [Bibhitaki](/nighantu/herb/bibhitaki/) (Terminalia bellirica), Amalaki (Emblica officinalis)
 - Chitraka (Plumbago zeylanica)
-- [Vidanga](/ayurveda-atlas/herb/vidanga/) (Embelia ribes)
+- [Vidanga](/nighantu/herb/vidanga/) (Embelia ribes)
 - Kushtha (Saussurea lappa)
-- [Rasna](/ayurveda-atlas/herb/rasna/) (Pluchea lanceolata)
-- [Devadaru](/ayurveda-atlas/herb/devadaru/) (Cedrus deodara)
+- [Rasna](/nighantu/herb/rasna/) (Pluchea lanceolata)
+- [Devadaru](/nighantu/herb/devadaru/) (Cedrus deodara)
 - Ela (Elettaria cardamomum)
-- Nagara ([Zingiber](/ayurveda-atlas/herb/zingiber/) officinale)
-- [Vanga Bhasma](/ayurveda-atlas/herb/vanga-bhasma/) (Tin calx)
-- [Naga Bhasma](/ayurveda-atlas/herb/naga-bhasma/) (Lead calx - purified)
-- [Loha Bhasma](/ayurveda-atlas/herb/loha-bhasma/) (Iron calx)
-- [Mandura Bhasma](/ayurveda-atlas/herb/mandura-bhasma/) (Iron rust calx)
+- Nagara ([Zingiber](/nighantu/herb/zingiber/) officinale)
+- [Vanga Bhasma](/nighantu/herb/vanga-bhasma/) (Tin calx)
+- [Naga Bhasma](/nighantu/herb/naga-bhasma/) (Lead calx - purified)
+- [Loha Bhasma](/nighantu/herb/loha-bhasma/) (Iron calx)
+- [Mandura Bhasma](/nighantu/herb/mandura-bhasma/) (Iron rust calx)
 - Rasa Sindhura (Mercury-Sulphur compound)
 
 ## Where is it described in the classical texts?
@@ -53,12 +53,12 @@ Bhaishajya Ratnavali (Amavata Chikitsa); also referenced in Sharangdhara Samhita
 - Ama digestion and metabolic correction: The formulation's primary action is on Ama (metabolic toxins); it digests Ama and prevents further formation by rectifying digestive processes and metabolic activities
 - Lipid metabolism modulation: Guggulsterones act as FXR antagonists, promoting bile acid synthesis and cholesterol excretion
 - Mineral supplementation via bhasma: Processed metallic calx (iron, tin) provide bioavailable trace minerals that support enzymatic processes and tissue repair in musculoskeletal system
-- Bioavailability enhancement: [Piperine](/ayurveda-atlas/reference/piperine/) from [Trikatu](/ayurveda-atlas/herb/trikatu/) inhibits hepatic and intestinal glucuronidation and P-glycoprotein efflux, enhancing absorption of all active phytoconstituents
+- Bioavailability enhancement: [Piperine](/nighantu/reference/piperine/) from [Trikatu](/nighantu/herb/trikatu/) inhibits hepatic and intestinal glucuronidation and P-glycoprotein efflux, enhancing absorption of all active phytoconstituents
 
 ## Which traditional uses are supported by research?
 
 - Rheumatoid arthritis (Amavata) management validated in double-blind clinical study showing 30% greater DAS28 score reduction than standard guggul extract
-- Comprehensive joint disorder relief validated through broad anti-inflammatory and [analgesic](/ayurveda-atlas/reference/analgesic/) mechanisms across multiple pharmacological studies
+- Comprehensive joint disorder relief validated through broad anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) mechanisms across multiple pharmacological studies
 - Gout management supported by uric acid reduction and anti-inflammatory mechanisms validated in clinical observations
 - Neurological and musculoskeletal pain relief supported by Vata-pacifying and nervine properties confirmed in traditional prescribing data
 
@@ -66,7 +66,7 @@ Bhaishajya Ratnavali (Amavata Chikitsa); also referenced in Sharangdhara Samhita
 
 - **Standardization and validation of phytometabolites by UHPLC and HPTLC for rapid quality assessment of Mahayograj Guggul** (2022): Identified and quantified gallic acid, protocatechuic acid, vanillic acid, cinnamic acid, piperine, guggulsterone-E, guggulsterone-Z, ferulic acid, ellagic acid, and picroside I across six commercial batches, providing scientific basis for quality control.
 - **Double-blind study comparing standard guggul extract vs full-spectrum Mahayograj Guggul in rheumatoid arthritis** (2021): 60 patients over 12 weeks showed the full-spectrum formula group had 30% greater reduction in DAS28 scores (Disease Activity Score) with fewer gastrointestinal complaints than the extract-only group.
-- **UHPLC and GC-MS/MS authentication of quality reproducibility in Mahayograj Guggul** (2022): Analytical methods employing UHPLC and GC-MS/MS provide validated reference for quality control evaluation of [Mahayograj Guggul](/ayurveda-atlas/formulation/mahayograj-guggul/) and similar traditional broad-spectrum formulations.
+- **UHPLC and GC-MS/MS authentication of quality reproducibility in Mahayograj Guggul** (2022): Analytical methods employing UHPLC and GC-MS/MS provide validated reference for quality control evaluation of [Mahayograj Guggul](/nighantu/formulation/mahayograj-guggul/) and similar traditional broad-spectrum formulations.
 
 ## Recent safety updates
 
@@ -88,11 +88,11 @@ Bhaishajya Ratnavali (Amavata Chikitsa); also referenced in Sharangdhara Samhita
 
 **Standard Dosage:** 2 tablets twice daily
 
-**Bioavailability:** [Guggulu](/ayurveda-atlas/formulation/guggulu/) resin acts as natural bioenhancer; guggulsterones have moderate oral bioavailability (~40%); lipophilic matrix aids absorption of co-formulated herbs
+**Bioavailability:** [Guggulu](/nighantu/formulation/guggulu/) resin acts as natural bioenhancer; guggulsterones have moderate oral bioavailability (~40%); lipophilic matrix aids absorption of co-formulated herbs
 
 **Optimal Timing:** After meals, twice daily
 
-**Shelf Life:** 2 years ([guggulu](/ayurveda-atlas/formulation/guggulu/) preparations per ASU); potency may decrease after 1 year
+**Shelf Life:** 2 years ([guggulu](/nighantu/formulation/guggulu/) preparations per ASU); potency may decrease after 1 year
 
 **Storage:** Airtight container, cool dry place; guggulu preparations are hygroscopic
 
@@ -104,4 +104,4 @@ Bhaishajya Ratnavali (Amavata Chikitsa); also referenced in Sharangdhara Samhita
 
 ### Synergistic Combinations
 
-- Key herbs: Guggulu with [Triphala](/ayurveda-atlas/herb/triphala/), [Trikatu](/ayurveda-atlas/herb/trikatu/), [Vidanga](/ayurveda-atlas/herb/vidanga/) + 20 herbs and bhasmas; guggulu potentiates anti-inflammatory and [hypolipidemic](/ayurveda-atlas/glossary/pharmacology/#hypolipidemic) actions
+- Key herbs: Guggulu with [Triphala](/nighantu/herb/triphala/), [Trikatu](/nighantu/herb/trikatu/), [Vidanga](/nighantu/herb/vidanga/) + 20 herbs and bhasmas; guggulu potentiates anti-inflammatory and [hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic) actions

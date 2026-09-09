@@ -23,12 +23,12 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Mukta-Pishti/meta-an
 
 | Language | Name |
 |----------|------|
-| English | [Mukta Pishti](/ayurveda-atlas/herb/mukta-pishti/) |
+| English | [Mukta Pishti](/nighantu/herb/mukta-pishti/) |
 
 ## How does it work?
 
 - Acid-neutralizing and gastroprotective: Calcium carbonate (aragonite form) directly neutralizes gastric acid; the ultra-fine particle size from traditional trituration enhances surface area and buffering capacity
-- [Anxiolytic](/ayurveda-atlas/reference/anxiolytic/) and cardiac calming: Conchiolin [peptides](/ayurveda-atlas/glossary/compounds-o-q/#peptides) may cross the blood-brain barrier and modulate GABAergic and serotonergic neurotransmission; calcium supplementation stabilizes cardiac rhythm, reducing palpitations
+- [Anxiolytic](/nighantu/reference/anxiolytic/) and cardiac calming: Conchiolin [peptides](/nighantu/glossary/compounds-o-q/#peptides) may cross the blood-brain barrier and modulate GABAergic and serotonergic neurotransmission; calcium supplementation stabilizes cardiac rhythm, reducing palpitations
 - Pitta-pacifying cooling action: The high calcium content combined with organic pearl matrix provides systemic cooling effect; reduces cortisol (stress hormone) levels, attenuating stress and improving sleep
 - Bone mineralization support: Bioavailable calcium from aragonite form is absorbed and contributes to bone mineral density
 
@@ -39,12 +39,12 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Mukta-Pishti/meta-an
 
 ## What do recent clinical trials show?
 
-- **Anti-ulcerogenic activity of the marine-pearl derived medicine [Mukta Pishti](/ayurveda-atlas/herb/mukta-pishti/) in rat model of pylorus ligation-induced peptic ulcer** (2025): [Mukta Pishti](/ayurveda-atlas/herb/mukta-pishti/) treatment significantly reduced ulcer index in stomach region and protected against epithelial damages, hemorrhages, and edema induced by pylorus ligation. Demonstrated gastroprotective properties through multiple mechanisms.
-- **[Mukta Pishti](/ayurveda-atlas/herb/mukta-pishti/) anxiolytic and cardiac studies (clinical practice evidence)** (2023): Clinical practice evidence supports [Mukta Pishti](/ayurveda-atlas/herb/mukta-pishti/)'s use in anxiety, palpitations, and stress-related conditions. Conchiolin peptides are hypothesized to cross the blood-brain barrier, modulating neurotransmitter pathways including [serotonin](/ayurveda-atlas/glossary/compounds-q-t/#serotonin) regulation. Reduces cortisol levels and improves sleep quality.
+- **Anti-ulcerogenic activity of the marine-pearl derived medicine [Mukta Pishti](/nighantu/herb/mukta-pishti/) in rat model of pylorus ligation-induced peptic ulcer** (2025): [Mukta Pishti](/nighantu/herb/mukta-pishti/) treatment significantly reduced ulcer index in stomach region and protected against epithelial damages, hemorrhages, and edema induced by pylorus ligation. Demonstrated gastroprotective properties through multiple mechanisms.
+- **[Mukta Pishti](/nighantu/herb/mukta-pishti/) anxiolytic and cardiac studies (clinical practice evidence)** (2023): Clinical practice evidence supports [Mukta Pishti](/nighantu/herb/mukta-pishti/)'s use in anxiety, palpitations, and stress-related conditions. Conchiolin peptides are hypothesized to cross the blood-brain barrier, modulating neurotransmitter pathways including [serotonin](/nighantu/glossary/compounds-q-t/#serotonin) regulation. Reduces cortisol levels and improves sleep quality.
 
 ## Recent safety updates
 
-- GENERALLY SAFE: [Mukta Pishti](/ayurveda-atlas/herb/mukta-pishti/) is one of the safest Ayurvedic mineral preparations as it contains no heavy metals (mercury, arsenic, lead) - it is essentially a processed natural calcium supplement
+- GENERALLY SAFE: [Mukta Pishti](/nighantu/herb/mukta-pishti/) is one of the safest Ayurvedic mineral preparations as it contains no heavy metals (mercury, arsenic, lead) - it is essentially a processed natural calcium supplement
 - Likely safe in pregnancy at recommended doses; used traditionally for pregnancy-related Pitta conditions under physician guidance
 - Dose-dependent caution: Exceeding 250 mg twice daily may cause bloating, constipation, or calcium imbalance; maximum recommended daily dose should not exceed 500 mg
 - Quality control concern: Without proper Shodhana, impurities like aragonite microshards can damage GI lining - always use authenticated, laboratory-tested products from GMP-certified manufacturers
@@ -77,7 +77,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Mukta-Pishti/meta-an
 
 **Storage:** Airtight glass container; cool, dry place
 
-**Marker Compounds:** Calcium carbonate (aragonite 82–86%), Conchiolin protein (3–5%), [Magnesium](/ayurveda-atlas/glossary/compounds-l-o/#magnesium), [Strontium](/ayurveda-atlas/glossary/compounds-q-t/#strontium), Trace minerals
+**Marker Compounds:** Calcium carbonate (aragonite 82–86%), Conchiolin protein (3–5%), [Magnesium](/nighantu/glossary/compounds-l-o/#magnesium), [Strontium](/nighantu/glossary/compounds-q-t/#strontium), Trace minerals
 
 **Quality Parameters:** Calcium >30%, particle size <25 μm, nacre structure preserved (XRD verification), no synthetic pearl
 

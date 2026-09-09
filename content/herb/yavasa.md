@@ -49,17 +49,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Yavasa/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g powder twice daily; 50-100 mL decoction twice daily; Kshara: 500 mg-1 g with buttermilk
 
-**Bioavailability:** Alhagrin and other [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) have moderate oral bioavailability (~25-35%). [Flavonoids](/ayurveda-atlas/reference/flavonoids/) ([isorhamnetin](/ayurveda-atlas/glossary/compounds-g-l/#isorhamnetin), [kaempferol](/ayurveda-atlas/reference/kaempferol/) [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides)) undergo typical Phase II conjugation with low to moderate systemic bioavailability (~10-20%). Manna sugar (a natural exudate) is largely composed of saccharides that are absorbed as dietary sugars. The Kshara (alkali) preparation has high bioavailability for mineral components, with alkaline pH facilitating intestinal absorption of certain phytochemicals.
+**Bioavailability:** Alhagrin and other [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) have moderate oral bioavailability (~25-35%). [Flavonoids](/nighantu/reference/flavonoids/) ([isorhamnetin](/nighantu/glossary/compounds-g-l/#isorhamnetin), [kaempferol](/nighantu/reference/kaempferol/) [glycosides](/nighantu/glossary/compounds-g-l/#glycosides)) undergo typical Phase II conjugation with low to moderate systemic bioavailability (~10-20%). Manna sugar (a natural exudate) is largely composed of saccharides that are absorbed as dietary sugars. The Kshara (alkali) preparation has high bioavailability for mineral components, with alkaline pH facilitating intestinal absorption of certain phytochemicals.
 
-**Optimal Timing:** After meals for general use; before meals for [diuretic](/ayurveda-atlas/reference/diuretic/) effect; Kshara with buttermilk after meals
+**Optimal Timing:** After meals for general use; before meals for [diuretic](/nighantu/reference/diuretic/) effect; Kshara with buttermilk after meals
 
-**Standardized Extract:** Hydroethanolic extract standardized to >2% total flavonoids (as isorhamnetin equivalent by HPLC); Kshara: [potassium](/ayurveda-atlas/glossary/compounds-o-q/#potassium) carbonate content >40% by titrimetry, pH 9-11
+**Standardized Extract:** Hydroethanolic extract standardized to >2% total flavonoids (as isorhamnetin equivalent by HPLC); Kshara: [potassium](/nighantu/glossary/compounds-o-q/#potassium) carbonate content >40% by titrimetry, pH 9-11
 
 **Shelf Life:** Powder: 12-18 months; Kshara: 24-36 months (inorganic alkali is stable); Capsules/Tablets: 24 months; Decoction: prepare fresh; Manna: 18-24 months
 
 **Storage:** Powder and capsules in airtight containers at 15-25 deg C. Kshara in airtight, moisture-proof glass or HDPE containers (highly hygroscopic). Manna in dry, airtight storage.
 
-**Marker Compounds:** Isorhamnetin, Kaempferol, [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/), Alhagrin, beta-[Sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), [Lupeol](/ayurveda-atlas/reference/lupeol/), Gallic acid, Manna sugars ([sucrose](/ayurveda-atlas/glossary/compounds-q-t/#sucrose), [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose))
+**Marker Compounds:** Isorhamnetin, Kaempferol, [Quercetin](/nighantu/reference/quercetinquercetin/), Alhagrin, beta-[Sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Lupeol](/nighantu/reference/lupeol/), Gallic acid, Manna sugars ([sucrose](/nighantu/glossary/compounds-q-t/#sucrose), [glucose](/nighantu/glossary/compounds-d-g/#glucose))
 
 ### Extraction Methods
 
@@ -71,7 +71,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Yavasa/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Gokshura](/ayurveda-atlas/herb/gokshura/) (Tribulus terrestris) - urinary tract support synergy
-- [Punarnava](/ayurveda-atlas/herb/punarnava/) (Boerhavia diffusa) - diuretic and anti-edema combination
+- [Gokshura](/nighantu/herb/gokshura/) (Tribulus terrestris) - urinary tract support synergy
+- [Punarnava](/nighantu/herb/punarnava/) (Boerhavia diffusa) - diuretic and anti-edema combination
 - Pashanbheda (Bergenia ligulata) - litholytic combination for urinary stones
-- [Varuna](/ayurveda-atlas/herb/varuna/) (Crataeva nurvala) - comprehensive urinary formula
+- [Varuna](/nighantu/herb/varuna/) (Crataeva nurvala) - comprehensive urinary formula

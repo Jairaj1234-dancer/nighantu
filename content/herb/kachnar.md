@@ -45,11 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kachnar/meta-analysis.md
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (bark powder), Tablet, Capsule, Kashayam (bark decoction), Kwath (decoction), [Guggulu](/ayurveda-atlas/formulation/guggulu/) formulation ([Kanchanara Guggulu](/ayurveda-atlas/formulation/kanchanara-guggulu/))
+**Dosage Forms:** Churna (bark powder), Tablet, Capsule, Kashayam (bark decoction), Kwath (decoction), [Guggulu](/nighantu/formulation/guggulu/) formulation ([Kanchanara Guggulu](/nighantu/formulation/kanchanara-guggulu/))
 
 **Standard Dosage:** 3-6g bark powder twice daily; 500mg-1g extract; 50-100ml decoction; 2-4 Kanchanara Guggulu tablets twice daily
 
-**Bioavailability:** Bauhinia variegata bark contains [flavonoids](/ayurveda-atlas/reference/flavonoids/) ([kaempferol](/ayurveda-atlas/reference/kaempferol/), [quercetin](/ayurveda-atlas/reference/quercetinquercetin/)), [tannins](/ayurveda-atlas/reference/tannins/), and [phytosterols](/ayurveda-atlas/glossary/compounds-o-q/#phytosterols). Quercetin has ~5-10% oral bioavailability enhanced by lipids and [piperine](/ayurveda-atlas/reference/piperine/). Kaempferol shows similar absorption profile. Tannins are poorly absorbed but may have local anti-inflammatory effects in GI tract. Guggulu combination (Kanchanara Guggulu) may enhance bioavailability via guggulsterone-mediated permeability enhancement.
+**Bioavailability:** Bauhinia variegata bark contains [flavonoids](/nighantu/reference/flavonoids/) ([kaempferol](/nighantu/reference/kaempferol/), [quercetin](/nighantu/reference/quercetinquercetin/)), [tannins](/nighantu/reference/tannins/), and [phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols). Quercetin has ~5-10% oral bioavailability enhanced by lipids and [piperine](/nighantu/reference/piperine/). Kaempferol shows similar absorption profile. Tannins are poorly absorbed but may have local anti-inflammatory effects in GI tract. Guggulu combination (Kanchanara Guggulu) may enhance bioavailability via guggulsterone-mediated permeability enhancement.
 
 **Optimal Timing:** Before meals with warm water; Kanchanara Guggulu: twice daily before meals
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kachnar/meta-analysis.md
 
 **Storage:** Cool, dry place below 25°C. Bark powder in airtight containers. Guggulu tablets are hygroscopic; moisture-proof packaging required.
 
-**Marker Compounds:** Quercetin, Kaempferol, Bauhinianin, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), [Lupeol](/ayurveda-atlas/reference/lupeol/), Gallic acid, Ellagic acid
+**Marker Compounds:** Quercetin, Kaempferol, Bauhinianin, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Lupeol](/nighantu/reference/lupeol/), Gallic acid, Ellagic acid
 
 ### Extraction Methods
 
@@ -71,6 +71,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kachnar/meta-analysis.md
 ### Synergistic Combinations
 
 - With Guggulu as Kanchanara Guggulu for thyroid disorders and lipomas
-- With [Varuna](/ayurveda-atlas/herb/varuna/) (Crataeva) for urinary calculi
-- With [Punarnava](/ayurveda-atlas/herb/punarnava/) for lymphatic drainage
-- With [Triphala](/ayurveda-atlas/herb/triphala/) for detoxification support
+- With [Varuna](/nighantu/herb/varuna/) (Crataeva) for urinary calculi
+- With [Punarnava](/nighantu/herb/punarnava/) for lymphatic drainage
+- With [Triphala](/nighantu/herb/triphala/) for detoxification support

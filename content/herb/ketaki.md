@@ -45,11 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Ketaki/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** [Arka](/ayurveda-atlas/herb/arka/) (distillate/hydrosol), Taila (infused oil), Lepa (paste), Churna (powder), Attar (essential oil perfume), Kewra water (flavoring)
+**Dosage Forms:** [Arka](/nighantu/herb/arka/) (distillate/hydrosol), Taila (infused oil), Lepa (paste), Churna (powder), Attar (essential oil perfume), Kewra water (flavoring)
 
-**Standard Dosage:** 5-10 mL [Arka](/ayurveda-atlas/herb/arka/) twice daily; 3-5 g powder; external oil application as needed; Kewra water: 5-10 drops as flavoring agent
+**Standard Dosage:** 5-10 mL [Arka](/nighantu/herb/arka/) twice daily; 3-5 g powder; external oil application as needed; Kewra water: 5-10 drops as flavoring agent
 
-**Bioavailability:** Volatile aromatic compounds (2-phenylethyl alcohol, methyl ether derivatives) are rapidly absorbed through inhalation and GI routes. Kewra water constituents have >80% oral bioavailability. [Terpenoids](/ayurveda-atlas/glossary/compounds-t-z/#terpenoids) from leaf extracts show moderate absorption. Arka (distillate) provides pre-dissolved volatile constituents with rapid absorption.
+**Bioavailability:** Volatile aromatic compounds (2-phenylethyl alcohol, methyl ether derivatives) are rapidly absorbed through inhalation and GI routes. Kewra water constituents have >80% oral bioavailability. [Terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids) from leaf extracts show moderate absorption. Arka (distillate) provides pre-dissolved volatile constituents with rapid absorption.
 
 **Optimal Timing:** Arka and internal preparations: after meals; aromatic/calming preparations: evening or before bed; no specific restriction for external applications
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Ketaki/meta-analysis.md"
 
 **Storage:** Kewra water in dark glass bottles, refrigerated (2-8°C) for optimal aroma retention. Essential oil in amber glass at 15-25°C. Powder in airtight containers. Attar in traditional copper/glass containers sealed with wax.
 
-**Marker Compounds:** 2-Phenylethyl methyl ether, Terpineol, [Linalool](/ayurveda-atlas/glossary/compounds-l-o/#linalool), [Geraniol](/ayurveda-atlas/glossary/compounds-d-g/#geraniol), Beta-phenylethyl alcohol, Pandanamine (alkaloid from leaves), Methyl beta-phenylpropionate
+**Marker Compounds:** 2-Phenylethyl methyl ether, Terpineol, [Linalool](/nighantu/glossary/compounds-l-o/#linalool), [Geraniol](/nighantu/glossary/compounds-d-g/#geraniol), Beta-phenylethyl alcohol, Pandanamine (alkaloid from leaves), Methyl beta-phenylpropionate
 
 ### Extraction Methods
 
@@ -71,7 +71,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Ketaki/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Chandana](/ayurveda-atlas/herb/chandana/) (Sandalwood) for attar and cooling formulations
+- [Chandana](/nighantu/herb/chandana/) (Sandalwood) for attar and cooling formulations
 - Gulab (Rose) for Hridya (cardiotonic) combinations
-- [Ushira](/ayurveda-atlas/herb/ushira/) (Vetiver) for cooling and anti-pitta therapy
-- [Jatamansi](/ayurveda-atlas/herb/jatamansi/) for calming and [anxiolytic](/ayurveda-atlas/reference/anxiolytic/) preparations
+- [Ushira](/nighantu/herb/ushira/) (Vetiver) for cooling and anti-pitta therapy
+- [Jatamansi](/nighantu/herb/jatamansi/) for calming and [anxiolytic](/nighantu/reference/anxiolytic/) preparations

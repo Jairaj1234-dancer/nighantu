@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Amritapra
 
 | Language | Name |
 |----------|------|
-| English | Amritaprasha [Ghrita](/ayurveda-atlas/herb/ghrita/)|Amritaprasha Ghrita |
+| English | Amritaprasha [Ghrita](/nighantu/herb/ghrita/)|Amritaprasha Ghrita |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -45,19 +45,19 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Amritapra
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** [Ghrita](/ayurveda-atlas/herb/ghrita/) (medicated ghee), Avaleha form, Soft gelatin capsules (modern)
+**Dosage Forms:** [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Avaleha form, Soft gelatin capsules (modern)
 
 **Standard Dosage:** 6-12 g twice daily, as per AFI
 
-**Bioavailability:** Lipid matrix of ghee enables superior absorption of fat-soluble [withanolides](/ayurveda-atlas/glossary/compounds-t-z/#withanolides) (from [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/)) and steroidal [saponins](/ayurveda-atlas/reference/saponins/) (from [Shatavari](/ayurveda-atlas/herb/shatavari/)). Multi-herb synergy provides broad-spectrum bioactive delivery. Ghee base facilitates crossing of biological membranes.
+**Bioavailability:** Lipid matrix of ghee enables superior absorption of fat-soluble [withanolides](/nighantu/glossary/compounds-t-z/#withanolides) (from [Ashwagandha](/nighantu/herb/ashwagandha/)) and steroidal [saponins](/nighantu/reference/saponins/) (from [Shatavari](/nighantu/herb/shatavari/)). Multi-herb synergy provides broad-spectrum bioactive delivery. Ghee base facilitates crossing of biological membranes.
 
 **Optimal Timing:** On empty stomach in the morning or before bedtime
 
-**Shelf Life:** 2 years from date of manufacture as per ASU guidelines for [Ghrita](/ayurveda-atlas/herb/ghrita/) preparations
+**Shelf Life:** 2 years from date of manufacture as per ASU guidelines for [Ghrita](/nighantu/herb/ghrita/) preparations
 
 **Storage:** Store in airtight glass or food-grade metal containers in a cool, dry place. Protect from moisture and light. Temperature not exceeding 25°C.
 
-**Marker Compounds:** Withanolide A, [Tinosporaside](/ayurveda-atlas/glossary/compounds-t-z/#tinosporaside), Shatavarin IV, [Berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine), Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
+**Marker Compounds:** Withanolide A, [Tinosporaside](/nighantu/glossary/compounds-t-z/#tinosporaside), Shatavarin IV, [Berberine](/nighantu/glossary/compounds-a-c/#berberine), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
 
 **Quality Parameters:** Acid value, peroxide value, saponification value, refractive index, moisture content (<0.5%), rancidity test (negative), HPTLC/HPLC fingerprinting for withanolides and tinosporaside, total phenolics, microbial limits, heavy metals, organoleptic evaluation
 
@@ -65,7 +65,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Amritapra
 
 ### Synergistic Combinations
 
-- [Brahma Rasayana](/ayurveda-atlas/formulation/brahma-rasayana/)
-- [Chyawanprash](/ayurveda-atlas/formulation/chyawanprash/)
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) Churna
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) Ghrita
+- [Brahma Rasayana](/nighantu/formulation/brahma-rasayana/)
+- [Chyawanprash](/nighantu/formulation/chyawanprash/)
+- [Ashwagandha](/nighantu/herb/ashwagandha/) Churna
+- [Shatavari](/nighantu/herb/shatavari/) Ghrita

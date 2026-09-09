@@ -24,41 +24,41 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chakragaja/meta-analysis.md"
 | Language | Name |
 |----------|------|
 | English | Chakragaja |
-| Latin/Botanical | *Cassia tora L. ([Senna](/ayurveda-atlas/herb/senna/) tora) / Uncertain identification* |
+| Latin/Botanical | *Cassia tora L. ([Senna](/nighantu/herb/senna/) tora) / Uncertain identification* |
 
 ## Key Phytochemical Constituents
 
-- [Chrysophanol](/ayurveda-atlas/glossary/compounds-c-d/#chrysophanol)
-- [Emodin](/ayurveda-atlas/glossary/compounds-d-g/#emodin)
-- [Physcion](/ayurveda-atlas/glossary/compounds-o-q/#physcion)
+- [Chrysophanol](/nighantu/glossary/compounds-c-d/#chrysophanol)
+- [Emodin](/nighantu/glossary/compounds-d-g/#emodin)
+- [Physcion](/nighantu/glossary/compounds-o-q/#physcion)
 - Obtusin
 - Chryso-obtusin
 - Rubrofusarin
 - Toralactone
 - Aurantio-obtusin
-- Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
-- [Campesterol](/ayurveda-atlas/glossary/compounds-a-c/#campesterol)
+- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- [Campesterol](/nighantu/glossary/compounds-a-c/#campesterol)
 
 ## How does it work?
 
-- Anthraquinone [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) (chrysophanol, emodin) exert antifungal activity by inhibiting fungal mitochondrial electron transport chain and disrupting cell wall biosynthesis in dermatophytes
-- Emodin and physcion modulate hepatic lipid metabolism through activation of AMPK pathway and inhibition of HMG-CoA reductase, providing [hypolipidemic](/ayurveda-atlas/glossary/pharmacology/#hypolipidemic) effects
-- Obtusin and chryso-obtusin exhibit [laxative](/ayurveda-atlas/reference/laxative/) effects by stimulating colonic peristalsis through activation of chloride channels and inhibition of Na+/K+-ATPase in intestinal epithelium
+- Anthraquinone [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) (chrysophanol, emodin) exert antifungal activity by inhibiting fungal mitochondrial electron transport chain and disrupting cell wall biosynthesis in dermatophytes
+- Emodin and physcion modulate hepatic lipid metabolism through activation of AMPK pathway and inhibition of HMG-CoA reductase, providing [hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic) effects
+- Obtusin and chryso-obtusin exhibit [laxative](/nighantu/reference/laxative/) effects by stimulating colonic peristalsis through activation of chloride channels and inhibition of Na+/K+-ATPase in intestinal epithelium
 
 ## Which traditional uses are supported by research?
 
-- Antifungal activity against ringworm (Dadru) validated through in vitro studies against Trichophyton and Microsporum species, supporting the traditional Ayurvedic name '[Dadrughna](/ayurveda-atlas/herb/dadrughna/)' (ringworm destroyer)
+- Antifungal activity against ringworm (Dadru) validated through in vitro studies against Trichophyton and Microsporum species, supporting the traditional Ayurvedic name '[Dadrughna](/nighantu/herb/dadrughna/)' (ringworm destroyer)
 - Laxative effects confirmed pharmacologically, supporting traditional use as a mild purgative in Ayurveda
 
 ## What do recent clinical trials show?
 
 - **Cassia tora: A comprehensive review on phytochemistry, pharmacology, and toxicological studies** (2023): Anthraquinone derivatives including chrysophanol and emodin demonstrated significant antifungal activity against dermatophytes, validating traditional use for ringworm and skin diseases.
-- **Anti-inflammatory and [antioxidant](/ayurveda-atlas/reference/antioxidant/) activities of Cassia tora seed extract** (2022): Seed extract showed dose-dependent inhibition of carrageenan-induced paw edema and significant free radical scavenging activity linked to anthraquinone and flavonoid content.
-- **[Hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) and hypolipidemic effects of Cassia tora in experimental models** (2021): Extract exhibited hepatoprotective effects against CCl4-induced liver damage and reduced serum cholesterol and triglyceride levels in hyperlipidemic rats.
+- **Anti-inflammatory and [antioxidant](/nighantu/reference/antioxidant/) activities of Cassia tora seed extract** (2022): Seed extract showed dose-dependent inhibition of carrageenan-induced paw edema and significant free radical scavenging activity linked to anthraquinone and flavonoid content.
+- **[Hepatoprotective](/nighantu/reference/hepatoprotective/) and hypolipidemic effects of Cassia tora in experimental models** (2021): Extract exhibited hepatoprotective effects against CCl4-induced liver damage and reduced serum cholesterol and triglyceride levels in hyperlipidemic rats.
 
 ## Recent safety updates
 
-- Note: Botanical identity of 'Chakragaja' is uncertain; most references associate it with Cassia tora ([Chakramarda](/ayurveda-atlas/herb/chakramarda/)). Information provided based on best available identification
+- Note: Botanical identity of 'Chakragaja' is uncertain; most references associate it with Cassia tora ([Chakramarda](/nighantu/herb/chakramarda/)). Information provided based on best available identification
 - Anthraquinone-containing laxatives should not be used continuously for more than 1-2 weeks due to risk of electrolyte imbalance and melanosis coli
 - Seeds should be roasted or processed before consumption as raw seeds may contain anti-nutritional factors; avoid during pregnancy due to potential uterotonic effects
 
@@ -96,7 +96,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chakragaja/meta-analysis.md"
 
 **Storage:** Cool, dry place in airtight containers. Follow general Ayurvedic herb storage guidelines.
 
-**Marker Compounds:** Beta-sitosterol, [Lupeol](/ayurveda-atlas/reference/lupeol/), Gallic acid, Flavonoid glycosides
+**Marker Compounds:** Beta-sitosterol, [Lupeol](/nighantu/reference/lupeol/), Gallic acid, Flavonoid glycosides
 
 ### Extraction Methods
 
@@ -107,7 +107,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chakragaja/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Haridra](/ayurveda-atlas/herb/haridra/) for skin conditions
-- With [Triphala](/ayurveda-atlas/herb/triphala/) for digestive health
-- With [Guduchi](/ayurveda-atlas/herb/guduchi/) for immune support
-- With [Nimba](/ayurveda-atlas/herb/nimba/) for dermatological applications
+- With [Haridra](/nighantu/herb/haridra/) for skin conditions
+- With [Triphala](/nighantu/herb/triphala/) for digestive health
+- With [Guduchi](/nighantu/herb/guduchi/) for immune support
+- With [Nimba](/nighantu/herb/nimba/) for dermatological applications

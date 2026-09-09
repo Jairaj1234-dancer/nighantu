@@ -28,7 +28,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Ashoka/meta-analysis.md"
 ## Key Ingredients
 
 - Saraca asoca bark (primary drug)
-- Key phytoconstituents: [catechin](/ayurveda-atlas/reference/catechin/), [epicatechin](/ayurveda-atlas/glossary/compounds-d-g/#epicatechin), [kaempferol](/ayurveda-atlas/reference/kaempferol/), [rutin](/ayurveda-atlas/glossary/compounds-q-t/#rutin), gallic acid, salicylic acid, procyanidin B2, [luteolin](/ayurveda-atlas/glossary/compounds-l-o/#luteolin), beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), lignin [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides)
+- Key phytoconstituents: [catechin](/nighantu/reference/catechin/), [epicatechin](/nighantu/glossary/compounds-d-g/#epicatechin), [kaempferol](/nighantu/reference/kaempferol/), [rutin](/nighantu/glossary/compounds-q-t/#rutin), gallic acid, salicylic acid, procyanidin B2, [luteolin](/nighantu/glossary/compounds-l-o/#luteolin), beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), lignin [glycosides](/nighantu/glossary/compounds-g-l/#glycosides)
 
 ## Where is it described in the classical texts?
 
@@ -38,13 +38,13 @@ Charaka Samhita (Chikitsa Sthana) and Sushruta Samhita reference Ashoka for Prad
 
 - Estrogenic activity: Phytoestrogens (catechin, epicatechin) bind estrogen receptors, modulating reproductive hormone levels (FSH, LH, estradiol, progesterone).
 - Aromatase inhibition: Procyanidin B2 and luteolin inhibit aromatase enzyme, relevant for PCOS and estrogen-dependent conditions.
-- [Antioxidant](/ayurveda-atlas/reference/antioxidant/) action: [Flavonoids](/ayurveda-atlas/reference/flavonoids/) (kaempferol, rutin, gallic acid) scavenge free radicals and reduce malonaldehyde levels.
+- [Antioxidant](/nighantu/reference/antioxidant/) action: [Flavonoids](/nighantu/reference/flavonoids/) (kaempferol, rutin, gallic acid) scavenge free radicals and reduce malonaldehyde levels.
 - Uterine smooth muscle modulation: Oxytocic effect on uterine musculature, producing rhythmic contractions that help control menorrhagia.
-- Anti-inflammatory pathway: Inhibition of COX-2 and pro-inflammatory cytokines, contributing to [analgesic](/ayurveda-atlas/reference/analgesic/) and [antipyretic](/ayurveda-atlas/reference/antipyretic/) effects.
+- Anti-inflammatory pathway: Inhibition of COX-2 and pro-inflammatory cytokines, contributing to [analgesic](/nighantu/reference/analgesic/) and [antipyretic](/nighantu/reference/antipyretic/) effects.
 
 ## Which traditional uses are supported by research?
 
-- Menorrhagia and metrorrhagia control (validated by clinical studies showing [hemostatic](/ayurveda-atlas/glossary/pharmacology/#hemostatic) and uterotonic effects)
+- Menorrhagia and metrorrhagia control (validated by clinical studies showing [hemostatic](/nighantu/glossary/pharmacology/#hemostatic) and uterotonic effects)
 - PCOS management (validated by 2023-2024 studies showing hormonal modulation and aromatase inhibition)
 - Antioxidant and skin health (validated by flavonoid-mediated free radical scavenging studies)
 - Antipyretic action (validated by preclinical seed extract studies)
@@ -52,9 +52,9 @@ Charaka Samhita (Chikitsa Sthana) and Sushruta Samhita reference Ashoka for Prad
 
 ## What do recent clinical trials show?
 
-- **Phytochemical-Based Study of Ethanolic Extract of Saraca asoca in Letrozole-Induced Polycystic Ovarian Syndrome in Female Adult Rats** (2023): HPLC analysis revealed kaempferol, rutin, epicatechin, salicylic acid, and gallic acid. EESA reduced body weight and cystic follicles, lowered serum testosterone, LH, insulin, and malonaldehyde levels, while increasing FSH, estradiol, progesterone, prolactin, and antioxidant [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes) in PCOS rats.
+- **Phytochemical-Based Study of Ethanolic Extract of Saraca asoca in Letrozole-Induced Polycystic Ovarian Syndrome in Female Adult Rats** (2023): HPLC analysis revealed kaempferol, rutin, epicatechin, salicylic acid, and gallic acid. EESA reduced body weight and cystic follicles, lowered serum testosterone, LH, insulin, and malonaldehyde levels, while increasing FSH, estradiol, progesterone, prolactin, and antioxidant [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) in PCOS rats.
 - **Aromatase inhibitors identified from Saraca asoca to treat infertility in women with polycystic ovary syndrome via in silico and in vivo studies** (2024): Of 10 flavonoids tested, procyanidin B2 and luteolin showed superior interaction with higher binding energy when docked against aromatase compared to the commercial inhibitor letrozole, suggesting potential for PCOS-related infertility treatment.
-- **A comprehensive review on Saraca asoca ([Fabaceae](/ayurveda-atlas/reference/fabaceae/)) - Historical perspective, traditional uses, biological activities, and conservation** (2023): Comprehensive review cataloguing anti-inflammatory, analgesic, antipyretic, antibacterial, antioxidant, [anticancer](/ayurveda-atlas/reference/anticancer/), and uterotonic activities. Emphasized need for more quality control, standardization, and clinical trials to utilize the plant as effective anti-cancer drug.
+- **A comprehensive review on Saraca asoca ([Fabaceae](/nighantu/reference/fabaceae/)) - Historical perspective, traditional uses, biological activities, and conservation** (2023): Comprehensive review cataloguing anti-inflammatory, analgesic, antipyretic, antibacterial, antioxidant, [anticancer](/nighantu/reference/anticancer/), and uterotonic activities. Emphasized need for more quality control, standardization, and clinical trials to utilize the plant as effective anti-cancer drug.
 - **Saraca asoca: From Traditional Herb to Modern Drug as a Cure for Various Diseases** (2023): Documented pharmacological role in treating uterine complications, menstrual disorders, bacterial infections, bleeding hemorrhoids, urinary and dermatological problems. Highlighted antibacterial, antioxidant, and antiviral properties with potential as a modern therapeutic agent.
 - **Systematic investigation on flavonoids, catechin, beta-sitosterol and lignin glycosides from Saraca asoca having anti-cancer and antioxidant properties with no side effect** (2021): Isolated flavonoids and lignin glycosides showed remarkable anticancer effects against various cancer cell lines with potent antioxidant activity and no observable side effects in the tested models.
 
@@ -75,11 +75,11 @@ Charaka Samhita (Chikitsa Sthana) and Sushruta Samhita reference Ashoka for Prad
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (bark powder), Kashayam (decoction), [Ashokarishta](/ayurveda-atlas/formulation/ashokarishta/) (fermented preparation), Capsule, Tablet, Ghana Vati (extract tablet), Syrup
+**Dosage Forms:** Churna (bark powder), Kashayam (decoction), [Ashokarishta](/nighantu/formulation/ashokarishta/) (fermented preparation), Capsule, Tablet, Ghana Vati (extract tablet), Syrup
 
-**Standard Dosage:** 3-6g bark powder twice daily; 50-100ml decoction; 15-30ml [Ashokarishta](/ayurveda-atlas/formulation/ashokarishta/) after meals; 500mg-1g extract capsule
+**Standard Dosage:** 3-6g bark powder twice daily; 50-100ml decoction; 15-30ml [Ashokarishta](/nighantu/formulation/ashokarishta/) after meals; 500mg-1g extract capsule
 
-**Bioavailability:** Moderate oral bioavailability. Saraca asoca bark contains catechin (~7% bioavailability), epicatechin (~20%), and [tannins](/ayurveda-atlas/reference/tannins/). Estrogenic [isoflavones](/ayurveda-atlas/glossary/compounds-g-l/#isoflavones) are well absorbed. Ashokarishta (fermented form) shows enhanced bioavailability due to self-generated alcohol content (5-10% ethanol), which acts as co-solvent for [polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols). Haemostatic tannins act locally in GI tract and systemically after absorption.
+**Bioavailability:** Moderate oral bioavailability. Saraca asoca bark contains catechin (~7% bioavailability), epicatechin (~20%), and [tannins](/nighantu/reference/tannins/). Estrogenic [isoflavones](/nighantu/glossary/compounds-g-l/#isoflavones) are well absorbed. Ashokarishta (fermented form) shows enhanced bioavailability due to self-generated alcohol content (5-10% ethanol), which acts as co-solvent for [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols). Haemostatic tannins act locally in GI tract and systemically after absorption.
 
 **Optimal Timing:** Ashokarishta after meals; bark powder with rice water or milk before meals; for menstrual disorders, start 3-5 days before expected cycle
 
@@ -89,7 +89,7 @@ Charaka Samhita (Chikitsa Sthana) and Sushruta Samhita reference Ashoka for Prad
 
 **Storage:** Bark powder in airtight containers, cool and dry. Ashokarishta in amber glass at room temperature. Capsules with desiccant.
 
-**Marker Compounds:** Catechin, Epicatechin, Procyanidin B2, [Leucocyanidin](/ayurveda-atlas/glossary/compounds-g-l/#leucocyanidin), Haematoxylin, Beta-sitosterol, [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/), Kaempferol, Gallic acid
+**Marker Compounds:** Catechin, Epicatechin, Procyanidin B2, [Leucocyanidin](/nighantu/glossary/compounds-g-l/#leucocyanidin), Haematoxylin, Beta-sitosterol, [Quercetin](/nighantu/reference/quercetinquercetin/), Kaempferol, Gallic acid
 
 ### Extraction Methods
 
@@ -101,8 +101,8 @@ Charaka Samhita (Chikitsa Sthana) and Sushruta Samhita reference Ashoka for Prad
 
 ### Synergistic Combinations
 
-- With [Lodhra](/ayurveda-atlas/herb/lodhra/) for menorrhagia and leucorrhea
-- With [Nagakesara](/ayurveda-atlas/herb/nagakesara/) for uterine bleeding disorders
-- With [Shatavari](/ayurveda-atlas/herb/shatavari/) for comprehensive female reproductive health
-- With [Dashamoola](/ayurveda-atlas/herb/dashamoola/) for uterine disorders with inflammation
-- Part of Ashokarishta with [Dhataki](/ayurveda-atlas/herb/dhataki/) pushpa, Musta, [Haritaki](/ayurveda-atlas/herb/haritaki/)
+- With [Lodhra](/nighantu/herb/lodhra/) for menorrhagia and leucorrhea
+- With [Nagakesara](/nighantu/herb/nagakesara/) for uterine bleeding disorders
+- With [Shatavari](/nighantu/herb/shatavari/) for comprehensive female reproductive health
+- With [Dashamoola](/nighantu/herb/dashamoola/) for uterine disorders with inflammation
+- Part of Ashokarishta with [Dhataki](/nighantu/herb/dhataki/) pushpa, Musta, [Haritaki](/nighantu/herb/haritaki/)

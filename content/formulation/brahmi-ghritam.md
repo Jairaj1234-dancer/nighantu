@@ -23,15 +23,15 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Brahmi-Gh
 
 | Language | Name |
 |----------|------|
-| English | [Brahmi](/ayurveda-atlas/herb/brahmi/) Ghritam |
+| English | [Brahmi](/nighantu/herb/brahmi/) Ghritam |
 
 ## Key Ingredients
 
-- [Brahmi](/ayurveda-atlas/herb/brahmi/) (Bacopa monnieri)
-- [Vacha](/ayurveda-atlas/herb/vacha/) (Acorus calamus)
+- [Brahmi](/nighantu/herb/brahmi/) (Bacopa monnieri)
+- [Vacha](/nighantu/herb/vacha/) (Acorus calamus)
 - Kushta (Saussurea lappa)
 - Shankhapushpi (Convolvulus pluricaulis)
-- Purana [Ghrita](/ayurveda-atlas/herb/ghrita/) (old cow ghee)
+- Purana [Ghrita](/nighantu/herb/ghrita/) (old cow ghee)
 
 ## Where is it described in the classical texts?
 
@@ -40,23 +40,23 @@ Charaka Samhita Chikitsa Sthana (Unmada and Apasmara Chikitsa); Ashtanga Hridaya
 ## How does it work?
 
 - Bacosides modulate cholinergic receptors and promote synaptic plasticity, enhancing memory and cognitive function
-- Sesquiterpenes from [Vacha](/ayurveda-atlas/herb/vacha/) upregulate GABA activity, calming neural over-excitation and providing anticonvulsant effects
+- Sesquiterpenes from [Vacha](/nighantu/herb/vacha/) upregulate GABA activity, calming neural over-excitation and providing anticonvulsant effects
 - Lipid-soluble ghee base facilitates transport of active compounds across the blood-brain barrier for enhanced CNS bioavailability
-- Combined [antioxidant](/ayurveda-atlas/reference/antioxidant/) action revitalizes brain functions and repairs oxidative damage in neural tissue
+- Combined [antioxidant](/nighantu/reference/antioxidant/) action revitalizes brain functions and repairs oxidative damage in neural tissue
 - Nourishes medha dhatu (brain tissue), improves srotas flow in rasa dhatu channels, and clears ama obstructions in neurological pathways
 
 ## Which traditional uses are supported by research?
 
 - Apasmara (epilepsy) management: validated through PTZ-induced seizure models showing significant anticonvulsant activity
 - Unmada (psychosis/psychiatric disorders): clinical reviews confirm efficacy in anxiety, depression, and ADHD in children
-- Smriti [Vriddhi](/ayurveda-atlas/herb/vriddhi/) (memory enhancement): double-blind studies show 20-40% improvement in memory retention and attention
-- CNS depressant and [anxiolytic](/ayurveda-atlas/reference/anxiolytic/) effects: experimental studies confirm anti-anxiety and calming properties
+- Smriti [Vriddhi](/nighantu/herb/vriddhi/) (memory enhancement): double-blind studies show 20-40% improvement in memory retention and attention
+- CNS depressant and [anxiolytic](/nighantu/reference/anxiolytic/) effects: experimental studies confirm anti-anxiety and calming properties
 
 ## What do recent clinical trials show?
 
-- **Organoleptic, physicochemical, phytochemical and pharmacological evaluation of six medicated ghee used for Ayurvedic management of Epilepsy** (2024): a licensed Indian manufacturer [Brahmi](/ayurveda-atlas/herb/brahmi/) [Ghrita](/ayurveda-atlas/herb/ghrita/) demonstrated superior protection against onset and duration of PTZ-induced convulsions in mice compared to other [Ghrita](/ayurveda-atlas/herb/ghrita/) formulations evaluated
-- **A Review on the [Neuroprotective](/ayurveda-atlas/reference/neuroprotective/) action of [Brahmi](/ayurveda-atlas/herb/brahmi/) [ghrita](/ayurveda-atlas/herb/ghrita/) - A Polyherbal Ayurvedic formulation** (2021): [Brahmi](/ayurveda-atlas/herb/brahmi/) [Ghrita](/ayurveda-atlas/herb/ghrita/) ingredients exhibit neuroprotective, [nootropic](/ayurveda-atlas/glossary/pharmacology/#nootropic), anxiolytic, anti-depressant, antioxidant, and anticonvulsant activity; the ghee base enables crossing the blood-brain barrier
-- **Effect of Bramhi [Ghrita](/ayurveda-atlas/herb/ghrita/) on learning and memory paradigms in experimental animals** (2023): [Ghrita](/ayurveda-atlas/herb/ghrita/) formulation improved learning and memory in animal models with 20-40% improvement in memory retention and attention spans after 60 days of standardized use
+- **Organoleptic, physicochemical, phytochemical and pharmacological evaluation of six medicated ghee used for Ayurvedic management of Epilepsy** (2024): a licensed Indian manufacturer [Brahmi](/nighantu/herb/brahmi/) [Ghrita](/nighantu/herb/ghrita/) demonstrated superior protection against onset and duration of PTZ-induced convulsions in mice compared to other [Ghrita](/nighantu/herb/ghrita/) formulations evaluated
+- **A Review on the [Neuroprotective](/nighantu/reference/neuroprotective/) action of [Brahmi](/nighantu/herb/brahmi/) [ghrita](/nighantu/herb/ghrita/) - A Polyherbal Ayurvedic formulation** (2021): [Brahmi](/nighantu/herb/brahmi/) [Ghrita](/nighantu/herb/ghrita/) ingredients exhibit neuroprotective, [nootropic](/nighantu/glossary/pharmacology/#nootropic), anxiolytic, anti-depressant, antioxidant, and anticonvulsant activity; the ghee base enables crossing the blood-brain barrier
+- **Effect of Bramhi [Ghrita](/nighantu/herb/ghrita/) on learning and memory paradigms in experimental animals** (2023): [Ghrita](/nighantu/herb/ghrita/) formulation improved learning and memory in animal models with 20-40% improvement in memory retention and attention spans after 60 days of standardized use
 
 ## Recent safety updates
 
@@ -75,19 +75,19 @@ Charaka Samhita Chikitsa Sthana (Unmada and Apasmara Chikitsa); Ashtanga Hridaya
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** [Ghrita](/ayurveda-atlas/herb/ghrita/) (medicated ghee), Soft gelatin capsules (modern)
+**Dosage Forms:** [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Soft gelatin capsules (modern)
 
 **Standard Dosage:** 6-12 g (1-2 teaspoons) twice daily, as per AFI Part I / Ashtanga Hridayam
 
-**Bioavailability:** Ghee provides optimal lipid matrix for absorption of bacosides (triterpenoid [saponins](/ayurveda-atlas/reference/saponins/)) which are both water and lipid-soluble. Oral bioavailability of bacosides is enhanced 2-3 fold in ghee medium compared to aqueous extract. Ghee facilitates crossing of blood-brain barrier for CNS action.
+**Bioavailability:** Ghee provides optimal lipid matrix for absorption of bacosides (triterpenoid [saponins](/nighantu/reference/saponins/)) which are both water and lipid-soluble. Oral bioavailability of bacosides is enhanced 2-3 fold in ghee medium compared to aqueous extract. Ghee facilitates crossing of blood-brain barrier for CNS action.
 
 **Optimal Timing:** Early morning on empty stomach and before bedtime for optimal cognitive benefit
 
-**Shelf Life:** 2 years from date of manufacture as per ASU guidelines for [Ghrita](/ayurveda-atlas/herb/ghrita/) preparations
+**Shelf Life:** 2 years from date of manufacture as per ASU guidelines for [Ghrita](/nighantu/herb/ghrita/) preparations
 
 **Storage:** Store in airtight glass or tin containers in a cool, dry place. Protect from moisture and light. Temperature not exceeding 25°C.
 
-**Marker Compounds:** Bacoside A, Bacoside B, Bacopasaponin C, Bacopaside I, Bacopaside II, [Jujubogenin](/ayurveda-atlas/glossary/compounds-g-l/#jujubogenin)
+**Marker Compounds:** Bacoside A, Bacoside B, Bacopasaponin C, Bacopaside I, Bacopaside II, [Jujubogenin](/nighantu/glossary/compounds-g-l/#jujubogenin)
 
 **Quality Parameters:** Acid value (<6), peroxide value (<10), saponification value, refractive index, moisture (<0.5%), rancidity test negative, bacoside A content by HPLC, total bacosides, HPTLC fingerprint, microbial limits, heavy metals
 
@@ -95,8 +95,8 @@ Charaka Samhita Chikitsa Sthana (Unmada and Apasmara Chikitsa); Ashtanga Hridaya
 
 ### Synergistic Combinations
 
-- [Brahma Rasayana](/ayurveda-atlas/formulation/brahma-rasayana/)
-- [Brahmi](/ayurveda-atlas/herb/brahmi/) Vati
-- [Saraswatarishta](/ayurveda-atlas/formulation/saraswatarishta/)
-- Medhya [Rasayana](/ayurveda-atlas/reference/rasayana/) herbs
+- [Brahma Rasayana](/nighantu/formulation/brahma-rasayana/)
+- [Brahmi](/nighantu/herb/brahmi/) Vati
+- [Saraswatarishta](/nighantu/formulation/saraswatarishta/)
+- Medhya [Rasayana](/nighantu/reference/rasayana/) herbs
 - Shankhapushpi Churna

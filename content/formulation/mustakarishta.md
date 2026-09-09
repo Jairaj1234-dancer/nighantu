@@ -27,13 +27,13 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Mustaka
 
 ## Key Ingredients
 
-- Musta/[Nagarmotha](/ayurveda-atlas/herb/nagarmotha/) (Cyperus rotundus)
-- [Dhataki](/ayurveda-atlas/herb/dhataki/) pushpa (Woodfordia fruticosa)
-- [Ajwain](/ayurveda-atlas/herb/ajwain/) (Trachyspermum ammi / Carom seeds)
-- Shunthi ([Zingiber](/ayurveda-atlas/herb/zingiber/) officinale / Dry [ginger](/ayurveda-atlas/herb/ginger/))
-- Maricha (Piper nigrum / [Black pepper](/ayurveda-atlas/herb/black-pepper/))
-- [Laung](/ayurveda-atlas/herb/laung/) (Syzygium aromaticum / Cloves)
-- [Methi](/ayurveda-atlas/herb/methi/) (Trigonella foenum-graecum / Fenugreek)
+- Musta/[Nagarmotha](/nighantu/herb/nagarmotha/) (Cyperus rotundus)
+- [Dhataki](/nighantu/herb/dhataki/) pushpa (Woodfordia fruticosa)
+- [Ajwain](/nighantu/herb/ajwain/) (Trachyspermum ammi / Carom seeds)
+- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale / Dry [ginger](/nighantu/herb/ginger/))
+- Maricha (Piper nigrum / [Black pepper](/nighantu/herb/black-pepper/))
+- [Laung](/nighantu/herb/laung/) (Syzygium aromaticum / Cloves)
+- [Methi](/nighantu/herb/methi/) (Trigonella foenum-graecum / Fenugreek)
 - Chitraka (Plumbago zeylanica)
 - Jaggery (fermentation medium)
 
@@ -43,17 +43,17 @@ Sharangdhara Samhita and Bhavaprakasha. Referenced in Bhaishajya Ratnavali under
 
 ## How does it work?
 
-- Anti-diarrheal and astringent action of [Nagarmotha](/ayurveda-atlas/herb/nagarmotha/) (Cyperus rotundus) reduces intestinal hypermotility and enhances water absorption
-- [Antimicrobial](/ayurveda-atlas/reference/antimicrobial/) activity from [Thymol](/ayurveda-atlas/glossary/compounds-t-z/#thymol), [Eugenol](/ayurveda-atlas/glossary/compounds-d-g/#eugenol), and [Piperine](/ayurveda-atlas/reference/piperine/) combats enteric pathogens causing diarrhea
-- Digestive stimulation through Agni-enhancing herbs (Chitraka, [Ajwain](/ayurveda-atlas/herb/ajwain/), Shunthi) corrects Agnimandya
-- Anti-inflammatory and [antioxidant](/ayurveda-atlas/reference/antioxidant/) compounds (alpha-Terpineol, 4H-Pyran-4-one) reduce intestinal inflammation
+- Anti-diarrheal and astringent action of [Nagarmotha](/nighantu/herb/nagarmotha/) (Cyperus rotundus) reduces intestinal hypermotility and enhances water absorption
+- [Antimicrobial](/nighantu/reference/antimicrobial/) activity from [Thymol](/nighantu/glossary/compounds-t-z/#thymol), [Eugenol](/nighantu/glossary/compounds-d-g/#eugenol), and [Piperine](/nighantu/reference/piperine/) combats enteric pathogens causing diarrhea
+- Digestive stimulation through Agni-enhancing herbs (Chitraka, [Ajwain](/nighantu/herb/ajwain/), Shunthi) corrects Agnimandya
+- Anti-inflammatory and [antioxidant](/nighantu/reference/antioxidant/) compounds (alpha-Terpineol, 4H-Pyran-4-one) reduce intestinal inflammation
 
 ## Which traditional uses are supported by research?
 
 - Diarrhea (Atisara) - validated by anti-diarrheal studies on Cyperus rotundus extracts
 - Indigestion (Agnimandya) - supported by Agni-enhancing mechanisms of formulation components
 - Dysentery - corroborated by antimicrobial activity of Thymol, Eugenol, and Piperine identified by GC-MS
-- Abdominal pain and colic - traditional use supported by [antispasmodic](/ayurveda-atlas/glossary/pharmacology/#antispasmodic) properties of Musta and [Ajwain](/ayurveda-atlas/herb/ajwain/)
+- Abdominal pain and colic - traditional use supported by [antispasmodic](/nighantu/glossary/pharmacology/#antispasmodic) properties of Musta and [Ajwain](/nighantu/herb/ajwain/)
 
 ## What do recent clinical trials show?
 
@@ -89,7 +89,7 @@ Sharangdhara Samhita and Bhavaprakasha. Referenced in Bhaishajya Ratnavali under
 
 **Storage:** Room temperature, tightly sealed, away from direct sunlight. Do not refrigerate.
 
-**Marker Compounds:** [Cyperene](/ayurveda-atlas/glossary/compounds-c-d/#cyperene), [Rotundone](/ayurveda-atlas/glossary/compounds-q-t/#rotundone)
+**Marker Compounds:** [Cyperene](/nighantu/glossary/compounds-c-d/#cyperene), [Rotundone](/nighantu/glossary/compounds-q-t/#rotundone)
 
 **Quality Parameters:** Alcohol content 5-12% v/v, pH 3.0-4.5, specific gravity 1.01-1.08, total solids 15-25%, marker: Cyperene, Rotundone
 
@@ -97,4 +97,4 @@ Sharangdhara Samhita and Bhavaprakasha. Referenced in Bhaishajya Ratnavali under
 
 ### Synergistic Combinations
 
-- Key herbs: Musta (Cyperus rotundus), [Dhataki](/ayurveda-atlas/herb/dhataki/), [Guda](/ayurveda-atlas/glossary/concepts-a-m/#guda); fermentation creates unique metabolite profile with enhanced therapeutic activity
+- Key herbs: Musta (Cyperus rotundus), [Dhataki](/nighantu/herb/dhataki/), [Guda](/nighantu/glossary/concepts-a-m/#guda); fermentation creates unique metabolite profile with enhanced therapeutic activity

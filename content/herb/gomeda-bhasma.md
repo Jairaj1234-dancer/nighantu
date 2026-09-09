@@ -23,21 +23,21 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Gomeda-Bhasma/meta-a
 
 | Language | Name |
 |----------|------|
-| English | [Gomeda Bhasma](/ayurveda-atlas/herb/gomeda-bhasma/) |
+| English | [Gomeda Bhasma](/nighantu/herb/gomeda-bhasma/) |
 
 ## Key Phytochemical Constituents
 
 - Calcium aluminium silicate as primary mineral matrix
 - Calcium oxide from thermal decomposition
 - Aluminium oxide (Al2O3)
-- [Silicon](/ayurveda-atlas/glossary/compounds-q-t/#silicon) dioxide (SiO2)
-- Iron and [manganese](/ayurveda-atlas/glossary/compounds-l-o/#manganese) traces (responsible for garnet color)
+- [Silicon](/nighantu/glossary/compounds-q-t/#silicon) dioxide (SiO2)
+- Iron and [manganese](/nighantu/glossary/compounds-l-o/#manganese) traces (responsible for garnet color)
 
 ## How does it work?
 
-- [Neuroprotective](/ayurveda-atlas/reference/neuroprotective/) action through mineral-mediated modulation of neuronal excitability and neurotransmitter balance, supporting management of epilepsy and insomnia
-- [Cardioprotective](/ayurveda-atlas/reference/cardioprotective/) effect through regulation of cardiac conduction pathways and anti-arrhythmic properties, particularly useful for tachycardia and palpitation
-- [Anxiolytic](/ayurveda-atlas/reference/anxiolytic/) and sedative action through CNS-modulating mineral constituents, promoting mental calm and stress reduction
+- [Neuroprotective](/nighantu/reference/neuroprotective/) action through mineral-mediated modulation of neuronal excitability and neurotransmitter balance, supporting management of epilepsy and insomnia
+- [Cardioprotective](/nighantu/reference/cardioprotective/) effect through regulation of cardiac conduction pathways and anti-arrhythmic properties, particularly useful for tachycardia and palpitation
+- [Anxiolytic](/nighantu/reference/anxiolytic/) and sedative action through CNS-modulating mineral constituents, promoting mental calm and stress reduction
 - Tridosha balancing through multi-mineral silicate composition providing trace elements needed for systemic homeostasis
 
 ## Which traditional uses are supported by research?
@@ -55,7 +55,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Gomeda-Bhasma/meta-a
 ## Recent safety updates
 
 - NO ABSOLUTE CONTRAINDICATIONS: Gomed Stone Bhasma has no reported absolute contraindications per Ayurvedic literature
-- LIMITED MODERN SAFETY DATA: Rigorous toxicological studies specifically on [Gomeda Bhasma](/ayurveda-atlas/herb/gomeda-bhasma/) are scarce. Most safety evidence is traditional/empirical.
+- LIMITED MODERN SAFETY DATA: Rigorous toxicological studies specifically on [Gomeda Bhasma](/nighantu/herb/gomeda-bhasma/) are scarce. Most safety evidence is traditional/empirical.
 - ALUMINIUM CONTENT: Contains aluminium oxide; chronic aluminium exposure concerns apply, particularly for renal-compromised patients
 - PRACTITIONER SUPERVISION: Must be used only under guidance of qualified Ayurvedic practitioner due to limited standardization data
 

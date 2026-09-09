@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda-Paka/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | [Eranda](/ayurveda-atlas/herb/eranda/) Paka |
+| English | [Eranda](/nighantu/herb/eranda/) Paka |
 | Latin/Botanical | *Ricinus communis L. (processed castor preparation)* |
 
 ## Key Phytochemical Constituents
@@ -31,13 +31,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda-Paka/meta-analysis.md"
 - Ricinoleic acid (primary active)
 - Oleic acid
 - Linoleic acid
-- [Stearic acid](/ayurveda-atlas/glossary/compounds-q-t/#stearic-acidstearic-acid)
+- [Stearic acid](/nighantu/glossary/compounds-q-t/#stearic-acidstearic-acid)
 - Palmitic acid
-- [Ricinine](/ayurveda-atlas/glossary/compounds-q-t/#ricinine) (alkaloid - reduced by processing)
+- [Ricinine](/nighantu/glossary/compounds-q-t/#ricinine) (alkaloid - reduced by processing)
 - Dehydrodihydroxycastor oil
 - Undecylenic acid
-- [Phytosterols](/ayurveda-atlas/glossary/compounds-o-q/#phytosterols)
-- [Tocopherols](/ayurveda-atlas/glossary/compounds-t-z/#tocopherols)
+- [Phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols)
+- [Tocopherols](/nighantu/glossary/compounds-t-z/#tocopherols)
 
 ## How does it work?
 
@@ -53,13 +53,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda-Paka/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Phytochemical Composition and Multifunctional Applications of Ricinus communis L.: Insights into Therapeutic, Pharmacological, and Industrial Potential** (2025): Comprehensive review documenting the diverse therapeutic applications of castor-derived preparations including anti-inflammatory, [antimicrobial](/ayurveda-atlas/reference/antimicrobial/), laxative, and wound healing properties across different formulation types.
-- **A phytochemical and pharmacological review of Ricinus communis L.** (2024): Essential oil, beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), cepharadiones, and [piperine](/ayurveda-atlas/reference/piperine/)-like compounds identified as key pharmacologically active constituents with [antioxidant](/ayurveda-atlas/reference/antioxidant/), anti-inflammatory, and antimicrobial activities.
-- **Therapeutic aspects of [Eranda](/ayurveda-atlas/herb/eranda/) Tail (Oil of Ricinus Communis) in Ayurvedic practice** (2023): [Eranda](/ayurveda-atlas/herb/eranda/) oil formulations including [Eranda](/ayurveda-atlas/herb/eranda/) Paka validated for their Deepana-Virechana (digestive stimulant and purgative) effects with enhanced bioavailability compared to raw castor oil when processed with jaggery.
+- **Phytochemical Composition and Multifunctional Applications of Ricinus communis L.: Insights into Therapeutic, Pharmacological, and Industrial Potential** (2025): Comprehensive review documenting the diverse therapeutic applications of castor-derived preparations including anti-inflammatory, [antimicrobial](/nighantu/reference/antimicrobial/), laxative, and wound healing properties across different formulation types.
+- **A phytochemical and pharmacological review of Ricinus communis L.** (2024): Essential oil, beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), cepharadiones, and [piperine](/nighantu/reference/piperine/)-like compounds identified as key pharmacologically active constituents with [antioxidant](/nighantu/reference/antioxidant/), anti-inflammatory, and antimicrobial activities.
+- **Therapeutic aspects of [Eranda](/nighantu/herb/eranda/) Tail (Oil of Ricinus Communis) in Ayurvedic practice** (2023): [Eranda](/nighantu/herb/eranda/) oil formulations including [Eranda](/nighantu/herb/eranda/) Paka validated for their Deepana-Virechana (digestive stimulant and purgative) effects with enhanced bioavailability compared to raw castor oil when processed with jaggery.
 
 ## Recent safety updates
 
-- [Eranda](/ayurveda-atlas/herb/eranda/) Paka (processed preparation) is considered much safer than raw castor seeds due to destruction of ricin toxin and reduction of ricinine during traditional processing with heat and jaggery
+- [Eranda](/nighantu/herb/eranda/) Paka (processed preparation) is considered much safer than raw castor seeds due to destruction of ricin toxin and reduction of ricinine during traditional processing with heat and jaggery
 - Raw castor seeds are extremely toxic (ricin is lethal at 1-10 mg in adults); only properly processed preparations should be used medicinally under qualified supervision
 - Excessive use may cause dehydration, electrolyte imbalance, and abdominal cramping; contraindicated in pregnancy (uterotonic effects), intestinal obstruction, and inflammatory bowel conditions
 
@@ -78,7 +78,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda-Paka/meta-analysis.md"
 
 **Standard Dosage:** 10-20g Paka preparation once or twice daily as per classical dosing. Specific dose varies by formulation text followed.
 
-**Bioavailability:** [Eranda](/ayurveda-atlas/herb/eranda/) Paka is a processed preparation where castor root or oil is cooked with milk, sugar/jaggery, and supporting herbs following the Paka (confection) method. The lipid matrix (from castor oil or ghee used in Paka) enhances absorption of lipophilic [terpenoids](/ayurveda-atlas/glossary/compounds-t-z/#terpenoids) and [sterols](/ayurveda-atlas/glossary/compounds-q-t/#sterols). The sugar matrix provides sustained release. Milk [proteins](/ayurveda-atlas/glossary/compounds-o-q/#proteins) may form complexes with [tannins](/ayurveda-atlas/reference/tannins/) reducing anti-nutritional effects. The Paka processing converts and concentrates bioactives while reducing harshness. This is a traditionally optimized sustained-release, bioavailability-enhanced formulation.
+**Bioavailability:** [Eranda](/nighantu/herb/eranda/) Paka is a processed preparation where castor root or oil is cooked with milk, sugar/jaggery, and supporting herbs following the Paka (confection) method. The lipid matrix (from castor oil or ghee used in Paka) enhances absorption of lipophilic [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids) and [sterols](/nighantu/glossary/compounds-q-t/#sterols). The sugar matrix provides sustained release. Milk [proteins](/nighantu/glossary/compounds-o-q/#proteins) may form complexes with [tannins](/nighantu/reference/tannins/) reducing anti-nutritional effects. The Paka processing converts and concentrates bioactives while reducing harshness. This is a traditionally optimized sustained-release, bioavailability-enhanced formulation.
 
 **Optimal Timing:** Morning on empty stomach or after meals with warm milk, as directed by classical text and practitioner
 
@@ -88,7 +88,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda-Paka/meta-analysis.md"
 
 **Storage:** Airtight glass or food-grade containers at room temperature (below 30 deg C). Use clean dry spoon for dispensing. Protect from moisture and direct sunlight.
 
-**Marker Compounds:** Ricinine (from [Eranda](/ayurveda-atlas/herb/eranda/) root), Total [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids), Ricinoleic acid (if oil used), Sugar content (Brix)
+**Marker Compounds:** Ricinine (from [Eranda](/nighantu/herb/eranda/) root), Total [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids), Ricinoleic acid (if oil used), Sugar content (Brix)
 
 ### Extraction Methods
 
@@ -99,5 +99,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda-Paka/meta-analysis.md"
 ### Synergistic Combinations
 
 - Contains synergistic ingredients as per classical formulation
-- With warm milk as Anupana for enhanced [Rasayana](/ayurveda-atlas/reference/rasayana/) effect
+- With warm milk as Anupana for enhanced [Rasayana](/nighantu/reference/rasayana/) effect
 - With Sunthi powder for digestive support alongside the Paka

@@ -15,7 +15,7 @@ const groups = [...new Set(pages.map((p) => p.group))].map((g) => ({
 }));
 const total = pages.reduce((n, p) => n + p.entryCount, 0);
 
-const description = `${total} short definitions for the compounds, plant families, pharmacological actions and Ayurvedic concepts referenced across the Atlas monographs.`;
+const description = `${total} short definitions for the compounds, plant families, pharmacological actions and Ayurvedic concepts referenced across the Nighantu monographs.`;
 const jsonld = {
   '@context': 'https://schema.org',
   '@type': 'CollectionPage',

@@ -41,11 +41,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gorakhmundi/meta-analysis.md"
 
 - Anti-obesity: Inhibits adipogenesis by suppressing PPAR-gamma and C/EBP-alpha transcription factors; promotes lipolysis through AMPK activation in adipocytes
 - Anti-inflammatory: Eudesmenolides and sphaeranthol inhibit COX-2, 5-LOX, and suppress pro-inflammatory cytokine (TNF-alpha, IL-6) production via NF-kB inhibition
-- [Anxiolytic](/ayurveda-atlas/reference/anxiolytic/)/Neuroleptic: Sphaeranthine modulates GABAergic and serotonergic neurotransmission, reducing anxiety-like behavior in animal models
+- [Anxiolytic](/nighantu/reference/anxiolytic/)/Neuroleptic: Sphaeranthine modulates GABAergic and serotonergic neurotransmission, reducing anxiety-like behavior in animal models
 
 ## Which traditional uses are supported by research?
 
-- Anti-obesity and [hypolipidemic](/ayurveda-atlas/glossary/pharmacology/#hypolipidemic) use validated through multiple RCTs showing significant weight loss and improved lipid parameters
+- Anti-obesity and [hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic) use validated through multiple RCTs showing significant weight loss and improved lipid parameters
 - Anxiolytic use confirmed through modulation of GABAergic neurotransmission in elevated plus maze and open field test models
 - Anti-diabetic use (Prameha-hara) supported by antihyperglycemic activity and insulin resistance prevention in glucocorticoid-induced diabetes model
 
@@ -75,17 +75,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gorakhmundi/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction twice daily; 10-20ml fresh juice; 500mg extract capsule twice daily
 
-**Bioavailability:** Sphaeranthus indicus (Gorakhmundi) contains sesquiterpene lactones (7-alpha-hydroxyeudesmanolide, sphaeranthanolide), [flavonoids](/ayurveda-atlas/reference/flavonoids/), and essential oil. Sesquiterpene lactones have moderate oral bioavailability (20-35%) with good GI absorption but hepatic first-pass metabolism. Flavonoid [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) show typical moderate bioavailability (15-25%). The essential oil fraction (eudesmanolides) is well absorbed but rapidly metabolized. Fresh juice provides labile constituents. Enhancement: lipid-based delivery systems for sesquiterpene lactones; phospholipid complexation; co-administration with [piperine](/ayurveda-atlas/reference/piperine/) for CYP inhibition.
+**Bioavailability:** Sphaeranthus indicus (Gorakhmundi) contains sesquiterpene lactones (7-alpha-hydroxyeudesmanolide, sphaeranthanolide), [flavonoids](/nighantu/reference/flavonoids/), and essential oil. Sesquiterpene lactones have moderate oral bioavailability (20-35%) with good GI absorption but hepatic first-pass metabolism. Flavonoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) show typical moderate bioavailability (15-25%). The essential oil fraction (eudesmanolides) is well absorbed but rapidly metabolized. Fresh juice provides labile constituents. Enhancement: lipid-based delivery systems for sesquiterpene lactones; phospholipid complexation; co-administration with [piperine](/nighantu/reference/piperine/) for CYP inhibition.
 
 **Optimal Timing:** Before meals with warm water for metabolic and anti-inflammatory effects; fresh juice on empty stomach in the morning
 
-**Standardized Extract:** Hydroalcoholic extract standardized to NLT 3% total sesquiterpene lactones (as 7-alpha-hydroxyeudesmanolide) by HPLC. Extract ratio 10:1. Also available: standardized to NLT 15% total [polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols).
+**Standardized Extract:** Hydroalcoholic extract standardized to NLT 3% total sesquiterpene lactones (as 7-alpha-hydroxyeudesmanolide) by HPLC. Extract ratio 10:1. Also available: standardized to NLT 15% total [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols).
 
 **Shelf Life:** Fresh juice: use within 6 hours; 2 years (powder); 2.5 years (tablet/capsule); 2 years (Taila)
 
 **Storage:** Dried herb and powder: airtight, light-resistant containers below 25 deg C. Protect from moisture. Sesquiterpene lactones are relatively stable when protected from light and heat.
 
-**Marker Compounds:** 7-Alpha-hydroxyeudesmanolide, Sphaeranthanolide, Sphaeranthol, Cryptomeridiol, [Stigmasterol](/ayurveda-atlas/reference/stigmasterol/), Beta-eudesmol, [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/), Eudesmanolides
+**Marker Compounds:** 7-Alpha-hydroxyeudesmanolide, Sphaeranthanolide, Sphaeranthol, Cryptomeridiol, [Stigmasterol](/nighantu/reference/stigmasterol/), Beta-eudesmol, [Quercetin](/nighantu/reference/quercetinquercetin/), Eudesmanolides
 
 ### Extraction Methods
 
@@ -97,8 +97,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gorakhmundi/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Guduchi](/ayurveda-atlas/herb/guduchi/) for immune-modulation and anti-inflammatory synergy
-- With [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) for [adaptogenic](/ayurveda-atlas/reference/adaptogenic/) and anti-stress combination
-- With [Punarnava](/ayurveda-atlas/herb/punarnava/) for anti-inflammatory and [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) action
-- With [Haridra](/ayurveda-atlas/herb/haridra/) for comprehensive anti-inflammatory formulation
-- With [Bala](/ayurveda-atlas/herb/bala/) for neuromuscular and tonic effects
+- With [Guduchi](/nighantu/herb/guduchi/) for immune-modulation and anti-inflammatory synergy
+- With [Ashwagandha](/nighantu/herb/ashwagandha/) for [adaptogenic](/nighantu/reference/adaptogenic/) and anti-stress combination
+- With [Punarnava](/nighantu/herb/punarnava/) for anti-inflammatory and [hepatoprotective](/nighantu/reference/hepatoprotective/) action
+- With [Haridra](/nighantu/herb/haridra/) for comprehensive anti-inflammatory formulation
+- With [Bala](/nighantu/herb/bala/) for neuromuscular and tonic effects

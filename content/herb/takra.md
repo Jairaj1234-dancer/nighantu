@@ -29,14 +29,14 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Takra/meta-analysis.md"
 
 - Lactic acid bacteria (Lactobacillus, Leuconostoc species)
 - Lactic acid and short-chain organic acids
-- Sphingolipids and [phospholipids](/ayurveda-atlas/glossary/compounds-o-q/#phospholipids) (from milk fat globule membrane)
-- Casein-derived bioactive [peptides](/ayurveda-atlas/glossary/compounds-o-q/#peptides)
-- [Lactoferrin](/ayurveda-atlas/glossary/compounds-g-l/#lactoferrin) (retained in whey fraction)
-- [Riboflavin](/ayurveda-atlas/glossary/compounds-q-t/#riboflavin) (vitamin B2), vitamin B12
-- Calcium, [potassium](/ayurveda-atlas/glossary/compounds-o-q/#potassium), [phosphorus](/ayurveda-atlas/glossary/compounds-o-q/#phosphorus)
+- Sphingolipids and [phospholipids](/nighantu/glossary/compounds-o-q/#phospholipids) (from milk fat globule membrane)
+- Casein-derived bioactive [peptides](/nighantu/glossary/compounds-o-q/#peptides)
+- [Lactoferrin](/nighantu/glossary/compounds-g-l/#lactoferrin) (retained in whey fraction)
+- [Riboflavin](/nighantu/glossary/compounds-q-t/#riboflavin) (vitamin B2), vitamin B12
+- Calcium, [potassium](/nighantu/glossary/compounds-o-q/#potassium), [phosphorus](/nighantu/glossary/compounds-o-q/#phosphorus)
 - Probiotics (varying by preparation method)
 - Low fat content (0.5-2%)
-- Milk fat globule membrane (MFGM) [proteins](/ayurveda-atlas/glossary/compounds-o-q/#proteins)
+- Milk fat globule membrane (MFGM) [proteins](/nighantu/glossary/compounds-o-q/#proteins)
 
 ## How does it work?
 
@@ -48,8 +48,8 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Takra/meta-analysis.md"
 ## Which traditional uses are supported by research?
 
 - Grahani Roga (malabsorption/IBS): Probiotic, sphingolipid, and digestive-stimulant mechanisms provide strong scientific basis for the classical primary indication of Takra
-- Arsha (hemorrhoids/piles): Anti-inflammatory lactic acid bacteria and improved bowel regularity validate traditional use; Takra with Chitraka or [Pippali](/ayurveda-atlas/herb/pippali/) enhances efficacy
-- Shotha (edema): [Diuretic](/ayurveda-atlas/reference/diuretic/) properties of potassium-rich, light buttermilk and its ability to reduce Kapha accumulation support traditional anti-edema applications
+- Arsha (hemorrhoids/piles): Anti-inflammatory lactic acid bacteria and improved bowel regularity validate traditional use; Takra with Chitraka or [Pippali](/nighantu/herb/pippali/) enhances efficacy
+- Shotha (edema): [Diuretic](/nighantu/reference/diuretic/) properties of potassium-rich, light buttermilk and its ability to reduce Kapha accumulation support traditional anti-edema applications
 
 ## What do recent clinical trials show?
 
@@ -99,4 +99,4 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Takra/meta-analysis.md"
 
 **Quality Parameters:** Fat <1% (for therapeutic Takra), live cultures, pH 3.8–4.5
 
-**Vehicle (Anupana):** Vehicle for digestive and [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) formulations; Takradhara uses it externally
+**Vehicle (Anupana):** Vehicle for digestive and [hepatoprotective](/nighantu/reference/hepatoprotective/) formulations; Takradhara uses it externally

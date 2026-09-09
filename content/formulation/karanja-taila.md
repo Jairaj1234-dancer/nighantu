@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Karanja-Tai
 
 | Language | Name |
 |----------|------|
-| English | [Karanja](/ayurveda-atlas/herb/karanja/) Taila |
+| English | [Karanja](/nighantu/herb/karanja/) Taila |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Karanja-Tai
 
 **Standard Dosage:** External application on affected skin, 1-2 times daily, as per AFI
 
-**Bioavailability:** Topical application provides direct dermal delivery of [karanjin](/ayurveda-atlas/glossary/compounds-g-l/#karanjin) and [pongamol](/ayurveda-atlas/glossary/compounds-o-q/#pongamol) ([furanoflavonoids](/ayurveda-atlas/glossary/compounds-d-g/#furanoflavonoids)). Oil base ensures sustained contact with skin. Karanjin has UV-absorbing properties providing photoprotective effect. Penetrates stratum corneum effectively.
+**Bioavailability:** Topical application provides direct dermal delivery of [karanjin](/nighantu/glossary/compounds-g-l/#karanjin) and [pongamol](/nighantu/glossary/compounds-o-q/#pongamol) ([furanoflavonoids](/nighantu/glossary/compounds-d-g/#furanoflavonoids)). Oil base ensures sustained contact with skin. Karanjin has UV-absorbing properties providing photoprotective effect. Penetrates stratum corneum effectively.
 
 **Optimal Timing:** After bathing or at bedtime for Kushtha (skin diseases), Dadru (ringworm), and Krimi (parasitic infections)
 
@@ -57,15 +57,15 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Karanja-Tai
 
 **Storage:** Store in amber glass bottles in a cool, dark place. Temperature not exceeding 25°C. Protect from light — karanjin is photosensitive.
 
-**Marker Compounds:** Karanjin, Pongamol, [Pongapin](/ayurveda-atlas/glossary/compounds-o-q/#pongapin), Pongaglabol, Furanoflavonoids
+**Marker Compounds:** Karanjin, Pongamol, [Pongapin](/nighantu/glossary/compounds-o-q/#pongapin), Pongaglabol, Furanoflavonoids
 
-**Quality Parameters:** Acid value, peroxide value, saponification value (185-195), [iodine](/ayurveda-atlas/glossary/compounds-g-l/#iodine) value (80-90), refractive index, specific gravity, karanjin content by HPLC (NLT 0.5%), pongamol content, furanoflavonoid assay, rancidity test negative, microbial limits, heavy metals
+**Quality Parameters:** Acid value, peroxide value, saponification value (185-195), [iodine](/nighantu/glossary/compounds-g-l/#iodine) value (80-90), refractive index, specific gravity, karanjin content by HPLC (NLT 0.5%), pongamol content, furanoflavonoid assay, rancidity test negative, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Not applicable — external use only. Apply thin layer and massage gently.
 
 ### Synergistic Combinations
 
-- [Bakuchi](/ayurveda-atlas/herb/bakuchi/) Taila
+- [Bakuchi](/nighantu/herb/bakuchi/) Taila
 - Mahamanjisthadi Kwath (internal)
-- [Gandhaka](/ayurveda-atlas/glossary/concepts-a-m/#gandhaka) [Rasayana](/ayurveda-atlas/reference/rasayana/) (internal)
-- [Khadira](/ayurveda-atlas/herb/khadira/) Kwath (topical wash)
+- [Gandhaka](/nighantu/glossary/concepts-a-m/#gandhaka) [Rasayana](/nighantu/reference/rasayana/) (internal)
+- [Khadira](/nighantu/herb/khadira/) Kwath (topical wash)

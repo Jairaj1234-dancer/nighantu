@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kamala-Kesara/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | [Kamala](/ayurveda-atlas/herb/kamala/) Kesara |
+| English | [Kamala](/nighantu/herb/kamala/) Kesara |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kamala-Kesara/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g of powder twice daily; 5-10 mL decoction twice daily
 
-**Bioavailability:** Contains [flavonoids](/ayurveda-atlas/reference/flavonoids/) and [carotenoids](/ayurveda-atlas/glossary/compounds-a-c/#carotenoids) with moderate oral bioavailability. Enhancement strategies include co-administration with [Pippali](/ayurveda-atlas/herb/pippali/) ([piperine](/ayurveda-atlas/reference/piperine/) source) or formulation with lipid-based carriers (self-emulsifying systems) to improve absorption of lipophilic pigments like [kaempferol](/ayurveda-atlas/reference/kaempferol/) [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides).
+**Bioavailability:** Contains [flavonoids](/nighantu/reference/flavonoids/) and [carotenoids](/nighantu/glossary/compounds-a-c/#carotenoids) with moderate oral bioavailability. Enhancement strategies include co-administration with [Pippali](/nighantu/herb/pippali/) ([piperine](/nighantu/reference/piperine/) source) or formulation with lipid-based carriers (self-emulsifying systems) to improve absorption of lipophilic pigments like [kaempferol](/nighantu/reference/kaempferol/) [glycosides](/nighantu/glossary/compounds-g-l/#glycosides).
 
 **Optimal Timing:** After meals for gastrointestinal comfort; morning and evening for reproductive health applications
 
@@ -59,18 +59,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kamala-Kesara/meta-analysis.md"
 
 **Storage:** Store in airtight, light-resistant containers at 15-25°C. Relative humidity below 60%. Protect from direct sunlight to prevent degradation of carotenoid pigments.
 
-**Marker Compounds:** Kaempferol, [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/), [Myricetin](/ayurveda-atlas/glossary/compounds-l-o/#myricetin) glycosides, Beta-carotene, [Nuciferine](/ayurveda-atlas/glossary/compounds-l-o/#nuciferine) (trace from associated tissues)
+**Marker Compounds:** Kaempferol, [Quercetin](/nighantu/reference/quercetinquercetin/), [Myricetin](/nighantu/glossary/compounds-l-o/#myricetin) glycosides, Beta-carotene, [Nuciferine](/nighantu/glossary/compounds-l-o/#nuciferine) (trace from associated tissues)
 
 ### Extraction Methods
 
 - Hydroalcoholic extraction (60-70% ethanol)
 - Supercritical CO2 extraction for carotenoid-rich fractions
-- Cold maceration in [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) for Taila preparations
+- Cold maceration in [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) for Taila preparations
 - Sequential water-ethanol extraction
 
 ### Synergistic Combinations
 
-- Kumkuma ([Saffron](/ayurveda-atlas/herb/saffron/)) for uterine tonic effects
-- [Nagakesara](/ayurveda-atlas/herb/nagakesara/) for [hemostatic](/ayurveda-atlas/glossary/pharmacology/#hemostatic) activity
-- [Ashoka](/ayurveda-atlas/herb/ashoka/) for menorrhagia management
-- [Lodhra](/ayurveda-atlas/herb/lodhra/) for gynecological formulations
+- Kumkuma ([Saffron](/nighantu/herb/saffron/)) for uterine tonic effects
+- [Nagakesara](/nighantu/herb/nagakesara/) for [hemostatic](/nighantu/glossary/pharmacology/#hemostatic) activity
+- [Ashoka](/nighantu/herb/ashoka/) for menorrhagia management
+- [Lodhra](/nighantu/herb/lodhra/) for gynecological formulations

@@ -30,23 +30,23 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gojihva/meta-analysis.md"
 
 - Shikonins and onosmins (naphthoquinones - most significant)
 - Naphthazarins and benzoquinones
-- Lycopsamine and supindine viridiflorate (pyrrolizidine [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) in leaves)
-- Choline and [tannins](/ayurveda-atlas/reference/tannins/)
-- [Flavonoids](/ayurveda-atlas/reference/flavonoids/) and phenolic compounds
-- [Saponins](/ayurveda-atlas/reference/saponins/) and [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides)
+- Lycopsamine and supindine viridiflorate (pyrrolizidine [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) in leaves)
+- Choline and [tannins](/nighantu/reference/tannins/)
+- [Flavonoids](/nighantu/reference/flavonoids/) and phenolic compounds
+- [Saponins](/nighantu/reference/saponins/) and [glycosides](/nighantu/glossary/compounds-g-l/#glycosides)
 
 ## How does it work?
 
 - Anti-asthmatic effect through mast cell stabilization and reduction of bronchial hyper-responsiveness via hydro-alcoholic extract
-- [Analgesic](/ayurveda-atlas/reference/analgesic/) activity through dose-dependent increase in latency period (258.9% at 500 mg/kg at 3h) via central pain modulation
-- [Anticancer](/ayurveda-atlas/reference/anticancer/) mechanisms through shikonin/onosmin-mediated topoisomerase inhibition, ROS generation, and apoptosis induction
+- [Analgesic](/nighantu/reference/analgesic/) activity through dose-dependent increase in latency period (258.9% at 500 mg/kg at 3h) via central pain modulation
+- [Anticancer](/nighantu/reference/anticancer/) mechanisms through shikonin/onosmin-mediated topoisomerase inhibition, ROS generation, and apoptosis induction
 - Anti-inflammatory action via inhibition of pro-inflammatory mediators and stabilization of lysosomal membranes
 
 ## Which traditional uses are supported by research?
 
 - Anti-asthmatic and respiratory tonic (Shvasa-hara) - validated through mast cell stabilization and bronchial hyper-responsiveness reduction studies
-- Cooling and [antipyretic](/ayurveda-atlas/reference/antipyretic/) (Jvarahara) - confirmed antipyretic activity in traditional Unani and Ayurvedic usage
-- Throat and oral health (Mukha-roga) - supported by [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) and anti-inflammatory studies
+- Cooling and [antipyretic](/nighantu/reference/antipyretic/) (Jvarahara) - confirmed antipyretic activity in traditional Unani and Ayurvedic usage
+- Throat and oral health (Mukha-roga) - supported by [antimicrobial](/nighantu/reference/antimicrobial/) and anti-inflammatory studies
 - Cardiotonic (Hridya) - traditional claim as heart tonic partially supported by pharmacological studies
 
 ## What do recent clinical trials show?
@@ -79,13 +79,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gojihva/meta-analysis.md"
 
 **Optimal Timing:** After meals with warm water for respiratory and urinary conditions; traditionally used as a component in compound formulations rather than standalone
 
-**Standardized Extract:** Aqueous extract with PA content verified below regulatory limits (<1 microgram PA/day at recommended dose). Total flavonoid content NLT 1.5% (as [quercetin](/ayurveda-atlas/reference/quercetinquercetin/) equivalent). Extract ratio 5:1. HPTLC fingerprint required.
+**Standardized Extract:** Aqueous extract with PA content verified below regulatory limits (<1 microgram PA/day at recommended dose). Total flavonoid content NLT 1.5% (as [quercetin](/nighantu/reference/quercetinquercetin/) equivalent). Extract ratio 5:1. HPTLC fingerprint required.
 
 **Shelf Life:** 1.5 years (powder); 2 years (tablet/capsule); fresh juice: use within 6 hours
 
 **Storage:** Airtight containers below 25 deg C, protected from moisture and light. Label must carry appropriate PA-related warnings if applicable to jurisdiction.
 
-**Marker Compounds:** Pyrrolizidine alkaloids (PA content - SAFETY MONITORING, must be below limits), Anchusine (naphthoquinone), Onosmin, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), Flavonoids, [Mucilage](/ayurveda-atlas/glossary/compounds-l-o/#mucilage) content
+**Marker Compounds:** Pyrrolizidine alkaloids (PA content - SAFETY MONITORING, must be below limits), Anchusine (naphthoquinone), Onosmin, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Flavonoids, [Mucilage](/nighantu/glossary/compounds-l-o/#mucilage) content
 
 ### Extraction Methods
 
@@ -96,7 +96,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gojihva/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Vasa](/ayurveda-atlas/herb/vasa/) (Adhatoda) for respiratory and bronchial conditions
-- With [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) for demulcent and anti-tussive synergy
+- With [Vasa](/nighantu/herb/vasa/) (Adhatoda) for respiratory and bronchial conditions
+- With [Yashtimadhu](/nighantu/herb/yashtimadhu/) for demulcent and anti-tussive synergy
 - With Behman (Centaurea behen) for cardiac tonic combination (Unani use)
 - With Khatmi (Althaea) for soothing urinary tract conditions

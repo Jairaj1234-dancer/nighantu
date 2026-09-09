@@ -28,30 +28,30 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Varshabhu/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- Punarnavine and related [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) (Boerhavia species)
-- [Ecdysterone](/ayurveda-atlas/glossary/compounds-d-g/#ecdysterone) (insect molting hormone analog)
+- Punarnavine and related [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) (Boerhavia species)
+- [Ecdysterone](/nighantu/glossary/compounds-d-g/#ecdysterone) (insect molting hormone analog)
 - Trianthenol
-- [Flavonoids](/ayurveda-atlas/reference/flavonoids/), phenolics, and [saponins](/ayurveda-atlas/reference/saponins/)
-- Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol) and [stigmasterol](/ayurveda-atlas/reference/stigmasterol/)
-- [Tannins](/ayurveda-atlas/reference/tannins/) and [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides)
+- [Flavonoids](/nighantu/reference/flavonoids/), phenolics, and [saponins](/nighantu/reference/saponins/)
+- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol) and [stigmasterol](/nighantu/reference/stigmasterol/)
+- [Tannins](/nighantu/reference/tannins/) and [glycosides](/nighantu/glossary/compounds-g-l/#glycosides)
 
 ## How does it work?
 
-- [Diuretic](/ayurveda-atlas/reference/diuretic/) activity through punarnavine-mediated modulation of renal tubular sodium-[potassium](/ayurveda-atlas/glossary/compounds-o-q/#potassium) ATPase
-- [Hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) effect via [antioxidant](/ayurveda-atlas/reference/antioxidant/) enzyme restoration and membrane stabilization against chemical toxins
+- [Diuretic](/nighantu/reference/diuretic/) activity through punarnavine-mediated modulation of renal tubular sodium-[potassium](/nighantu/glossary/compounds-o-q/#potassium) ATPase
+- [Hepatoprotective](/nighantu/reference/hepatoprotective/) effect via [antioxidant](/nighantu/reference/antioxidant/) enzyme restoration and membrane stabilization against chemical toxins
 - Anti-inflammatory mechanism through inhibition of COX-2, LOX, and NF-kB signaling pathways
-- [Immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) action through macrophage activation and complement system modulation
+- [Immunomodulatory](/nighantu/reference/immunomodulatory/) action through macrophage activation and complement system modulation
 
 ## Which traditional uses are supported by research?
 
 - Diuretic (Mutrala) - strongly validated through multiple pharmacological studies showing significant diuretic activity
 - Hepatoprotective (Yakrit-shodhana) - confirmed through studies showing protection against CCl4 and paracetamol-induced liver damage
 - Anti-inflammatory and anti-edema (Shotha-hara) - validated through carrageenan-induced paw edema and cotton pellet granuloma models
-- Rejuvenative ([Rasayana](/ayurveda-atlas/reference/rasayana/)) - supported by antioxidant, immunomodulatory, and anti-aging pharmacological data
+- Rejuvenative ([Rasayana](/nighantu/reference/rasayana/)) - supported by antioxidant, immunomodulatory, and anti-aging pharmacological data
 
 ## What do recent clinical trials show?
 
-- **Ethnomedicinal uses, phytochemistry and pharmacological properties of the genus Boerhavia** (2024): Reviewed 46 compounds isolated from Boerhavia erecta; documented anti-inflammatory, [anticancer](/ayurveda-atlas/reference/anticancer/), hepatoprotective, [antidiabetic](/ayurveda-atlas/reference/antidiabetic/), and antibacterial activities across the genus.
+- **Ethnomedicinal uses, phytochemistry and pharmacological properties of the genus Boerhavia** (2024): Reviewed 46 compounds isolated from Boerhavia erecta; documented anti-inflammatory, [anticancer](/nighantu/reference/anticancer/), hepatoprotective, [antidiabetic](/nighantu/reference/antidiabetic/), and antibacterial activities across the genus.
 - **A comprehensive review of phytochemistry, pharmacology, pharmacokinetics, and green nanotechnological significance of Boerhavia diffusa** (2025): Comprehensive review documenting punarnavine and other alkaloids, flavonoids, phenolics, and saponins as key constituents with diverse pharmacological activities.
 - **Boerhavia diffusa: Unravelling the Medicinal Tapestry from Ayurvedic Traditions to Modern Science** (2024): Established Boerhavia species as rasayana (rejuvenative) with confirmed anti-aging, immunomodulatory, and diuretic properties in modern pharmacological studies.
 
@@ -79,13 +79,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Varshabhu/meta-analysis.md"
 
 **Optimal Timing:** Morning on empty stomach for diuretic effect; before meals for hepatoprotective action
 
-**Standardized Extract:** Hydroethanolic extract standardized to >2% total alkaloids (by gravimetric method); >3% total flavonoids (as [rutin](/ayurveda-atlas/glossary/compounds-q-t/#rutin) equivalent by UV)
+**Standardized Extract:** Hydroethanolic extract standardized to >2% total alkaloids (by gravimetric method); >3% total flavonoids (as [rutin](/nighantu/glossary/compounds-q-t/#rutin) equivalent by UV)
 
 **Shelf Life:** Fresh juice: 24-48 hours refrigerated; Powder: 12-18 months; Capsules/Tablets: 24 months; Decoction: prepare fresh
 
 **Storage:** Dried material in airtight containers at 15-25 deg C, protected from moisture and light. Fresh juice at 2-8 deg C.
 
-**Marker Compounds:** Trianthemine, Ecdysterone, Rutin, [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/), beta-Sitosterol, Leptorumol, [Kaempferol](/ayurveda-atlas/reference/kaempferol/)
+**Marker Compounds:** Trianthemine, Ecdysterone, Rutin, [Quercetin](/nighantu/reference/quercetinquercetin/), beta-Sitosterol, Leptorumol, [Kaempferol](/nighantu/reference/kaempferol/)
 
 ### Extraction Methods
 
@@ -97,7 +97,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Varshabhu/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Punarnava](/ayurveda-atlas/herb/punarnava/) (Boerhavia diffusa) - synergistic diuretic and hepatoprotective action
-- [Gokshura](/ayurveda-atlas/herb/gokshura/) (Tribulus terrestris) - renal supportive combination
+- [Punarnava](/nighantu/herb/punarnava/) (Boerhavia diffusa) - synergistic diuretic and hepatoprotective action
+- [Gokshura](/nighantu/herb/gokshura/) (Tribulus terrestris) - renal supportive combination
 - Pashanbheda (Bergenia ligulata) - litholytic (stone-dissolving) synergy
-- [Varuna](/ayurveda-atlas/herb/varuna/) (Crataeva nurvala) - urinary tract support
+- [Varuna](/nighantu/herb/varuna/) (Crataeva nurvala) - urinary tract support

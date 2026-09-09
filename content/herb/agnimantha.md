@@ -56,20 +56,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Anti-inflammatory-Pain/Agnimantha/meta-anal
 
 - Premnine
 - Ganiarine
-- Clerodane [diterpenes](/ayurveda-atlas/glossary/compounds-d-g/#diterpenes)
-- [Flavonoids](/ayurveda-atlas/reference/flavonoids/)
+- Clerodane [diterpenes](/nighantu/glossary/compounds-d-g/#diterpenes)
+- [Flavonoids](/nighantu/reference/flavonoids/)
 
 ## Therapeutic Actions (Karma)
 
 - Anti-inflammatory
 - Digestive stimulant
 - Anti-rheumatic
-- [Diuretic](/ayurveda-atlas/reference/diuretic/)
-- [Analgesic](/ayurveda-atlas/reference/analgesic/)
+- [Diuretic](/nighantu/reference/diuretic/)
+- [Analgesic](/nighantu/reference/analgesic/)
 
 ## How is it used traditionally?
 
-Name means 'fire churner' — stimulates digestive fire. One of ten roots in [Dashamoola](/ayurveda-atlas/herb/dashamoola/). Used for Shotha (inflammation), Agnimandya (weak digestion), and Amavata (rheumatoid arthritis).
+Name means 'fire churner' — stimulates digestive fire. One of ten roots in [Dashamoola](/nighantu/herb/dashamoola/). Used for Shotha (inflammation), Agnimandya (weak digestion), and Amavata (rheumatoid arthritis).
 
 ## Where is it described in the classical texts?
 
@@ -98,13 +98,13 @@ Root powder: 3-6g/day; Decoction: 50-100ml/day
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Kashayam (decoction), Kwatha tablet, Capsule, Asava-Arishta (fermented preparation), [Guggulu](/ayurveda-atlas/formulation/guggulu/) combination
+**Dosage Forms:** Churna (powder), Kashayam (decoction), Kwatha tablet, Capsule, Asava-Arishta (fermented preparation), [Guggulu](/nighantu/formulation/guggulu/) combination
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction twice daily; 500mg-1g extract capsule
 
-**Bioavailability:** Moderate bioavailability. Key bioactives (flavonoids, [lignans](/ayurveda-atlas/glossary/compounds-g-l/#lignans), iridoid [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides)) show reasonable oral absorption. Prematurrins and 5-hydroxymethylfurfural are well absorbed. Enhancement via [piperine](/ayurveda-atlas/reference/piperine/) co-administration increases bioavailability by 30-40%. Ghee as anupana facilitates lipophilic constituent absorption.
+**Bioavailability:** Moderate bioavailability. Key bioactives (flavonoids, [lignans](/nighantu/glossary/compounds-g-l/#lignans), iridoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides)) show reasonable oral absorption. Prematurrins and 5-hydroxymethylfurfural are well absorbed. Enhancement via [piperine](/nighantu/reference/piperine/) co-administration increases bioavailability by 30-40%. Ghee as anupana facilitates lipophilic constituent absorption.
 
-**Optimal Timing:** Before meals with warm water for metabolic and digestive indications; with [Dashamoola](/ayurveda-atlas/herb/dashamoola/) kwatha for inflammatory conditions
+**Optimal Timing:** Before meals with warm water for metabolic and digestive indications; with [Dashamoola](/nighantu/herb/dashamoola/) kwatha for inflammatory conditions
 
 **Standardized Extract:** Standardized to minimum 2.5% total flavonoids (as 5-hydroxymethylfurfural equivalent). Root bark extract with minimum 1% prematurrins.
 
@@ -112,7 +112,7 @@ Root powder: 3-6g/day; Decoction: 50-100ml/day
 
 **Storage:** Cool, dry place below 25°C, RH < 60%. Protect from light. Asava-Arishta in amber glass bottles at room temperature.
 
-**Marker Compounds:** Premnatriol, Prematurrins A-D, 5-Hydroxymethylfurfural, Iridoid glycosides, [Agnuside](/ayurveda-atlas/glossary/compounds-1-a/#agnuside), Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
+**Marker Compounds:** Premnatriol, Prematurrins A-D, 5-Hydroxymethylfurfural, Iridoid glycosides, [Agnuside](/nighantu/glossary/compounds-1-a/#agnuside), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
 
 ### Extraction Methods
 
@@ -123,7 +123,7 @@ Root powder: 3-6g/day; Decoction: 50-100ml/day
 
 ### Synergistic Combinations
 
-- With [Bilva](/ayurveda-atlas/herb/bilva/) as part of [Dashamoola](/ayurveda-atlas/herb/dashamoola/) (ten roots) formulation
-- With [Shyonaka](/ayurveda-atlas/herb/shyonaka/), [Patala](/ayurveda-atlas/herb/patala/), [Gambhari](/ayurveda-atlas/herb/gambhari/) for anti-inflammatory action
-- With [Guduchi](/ayurveda-atlas/herb/guduchi/) for metabolic syndrome
-- With [Guggulu](/ayurveda-atlas/formulation/guggulu/) for thyroid support and lipid management
+- With [Bilva](/nighantu/herb/bilva/) as part of [Dashamoola](/nighantu/herb/dashamoola/) (ten roots) formulation
+- With [Shyonaka](/nighantu/herb/shyonaka/), [Patala](/nighantu/herb/patala/), [Gambhari](/nighantu/herb/gambhari/) for anti-inflammatory action
+- With [Guduchi](/nighantu/herb/guduchi/) for metabolic syndrome
+- With [Guggulu](/nighantu/formulation/guggulu/) for thyroid support and lipid management

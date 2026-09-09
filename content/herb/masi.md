@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Masi/meta-analysis.md"
 
 **Storage:** Store in airtight glass containers. Protect from moisture. Can be stored at room temperature. Avoid plastic containers as Bhasma may interact with polymers. Traditional storage in glass or porcelain containers sealed with beeswax.
 
-**Marker Compounds:** Iron oxide (Fe2O3/Fe3O4), Carbon (residual), Calcium oxide, [Silica](/ayurveda-atlas/glossary/compounds-q-t/#silica) (trace), [Magnesium](/ayurveda-atlas/glossary/compounds-l-o/#magnesium) oxide (trace)
+**Marker Compounds:** Iron oxide (Fe2O3/Fe3O4), Carbon (residual), Calcium oxide, [Silica](/nighantu/glossary/compounds-q-t/#silica) (trace), [Magnesium](/nighantu/glossary/compounds-l-o/#magnesium) oxide (trace)
 
 ### Extraction Methods
 
@@ -70,8 +70,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Masi/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Triphala](/ayurveda-atlas/herb/triphala/) (iron absorption enhancement)
-- [Loha Bhasma](/ayurveda-atlas/herb/loha-bhasma/) (iron supplementation synergy)
-- [Mandura Bhasma](/ayurveda-atlas/herb/mandura-bhasma/) (anemia management)
+- [Triphala](/nighantu/herb/triphala/) (iron absorption enhancement)
+- [Loha Bhasma](/nighantu/herb/loha-bhasma/) (iron supplementation synergy)
+- [Mandura Bhasma](/nighantu/herb/mandura-bhasma/) (anemia management)
 - Amalaki (vitamin C for iron absorption)
-- [Pippali](/ayurveda-atlas/herb/pippali/) (bioenhancer)
+- [Pippali](/nighantu/herb/pippali/) (bioenhancer)

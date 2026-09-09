@@ -48,19 +48,19 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Naga-Bhasma/meta-ana
 
 ## What do recent clinical trials show?
 
-- **Safety profile of [Naga Bhasma](/ayurveda-atlas/herb/naga-bhasma/) prepared by two classical methods** (2024): Compared toxicity profiles of two preparation methods: one using Parada/[Gandhaka](/ayurveda-atlas/glossary/concepts-a-m/#gandhaka)/[Nimbu](/ayurveda-atlas/herb/nimbu/) Swarasa and another using [Ashwattha](/ayurveda-atlas/herb/ashwattha/)-Twaka-Churna/Manahshila/[Nimbu](/ayurveda-atlas/herb/nimbu/) Swarasa. Properly prepared [Naga Bhasma](/ayurveda-atlas/herb/naga-bhasma/) was found safe in histopathology study on rats at 6 mg/100g/day dose.
+- **Safety profile of [Naga Bhasma](/nighantu/herb/naga-bhasma/) prepared by two classical methods** (2024): Compared toxicity profiles of two preparation methods: one using Parada/[Gandhaka](/nighantu/glossary/concepts-a-m/#gandhaka)/[Nimbu](/nighantu/herb/nimbu/) Swarasa and another using [Ashwattha](/nighantu/herb/ashwattha/)-Twaka-Churna/Manahshila/[Nimbu](/nighantu/herb/nimbu/) Swarasa. Properly prepared [Naga Bhasma](/nighantu/herb/naga-bhasma/) was found safe in histopathology study on rats at 6 mg/100g/day dose.
 - **Safety and toxicity issues associated with lead-based traditional herbo-metallic preparations** (2013): Review highlighted that modern scientists consider these preparations toxic due to large amounts of metal content. No rigorous evidence supports claims that lead-based Bhasmas are non-toxic. Documented case reports of lead poisoning contradict safety theories.
 - **Fatal Lead Toxicity From Ayurvedic Supplements in a Patient With Parkinson's Disease** (2024): Fatal case report of lead toxicity from Ayurvedic supplements. Patient had blood lead levels far exceeding acceptable thresholds. The medicine contained extremely high levels of lead and arsenic, hundreds of thousands of times above FDA limits.
-- **Synthesis, Characterization and Histopathological Study of a Lead-Based Indian Traditional Drug: [Naga Bhasma](/ayurveda-atlas/herb/naga-bhasma/)** (2010): Repeated calcination converts lead to nano-crystalline lead sulfide form. The Shodhana process removes heavy metals other than lead. However, the drug still contains lead as its primary constituent.
+- **Synthesis, Characterization and Histopathological Study of a Lead-Based Indian Traditional Drug: [Naga Bhasma](/nighantu/herb/naga-bhasma/)** (2010): Repeated calcination converts lead to nano-crystalline lead sulfide form. The Shodhana process removes heavy metals other than lead. However, the drug still contains lead as its primary constituent.
 
 ## Recent safety updates
 
-- EXTREME TOXICITY RISK: Lead has NO safe level of exposure per CDC, WHO, and FDA. Even properly prepared [Naga Bhasma](/ayurveda-atlas/herb/naga-bhasma/) contains lead as its primary constituent. FATAL CASES documented.
+- EXTREME TOXICITY RISK: Lead has NO safe level of exposure per CDC, WHO, and FDA. Even properly prepared [Naga Bhasma](/nighantu/herb/naga-bhasma/) contains lead as its primary constituent. FATAL CASES documented.
 - FATAL CASE REPORT (2024): Death from lead toxicity in a Parkinson's patient taking Ayurvedic supplements containing lead. Blood lead levels were 9x above acceptable threshold.
 - FDA EMBARGO AND WARNINGS: FDA has issued specific warnings against lead-containing Ayurvedic products (e.g., Balguti Kesaria). Products found to contain levels hundreds of thousands of times above FDA limits.
 - NEUROLOGICAL DAMAGE: Lead is a proven neurotoxin causing irreversible brain damage, cognitive impairment, and developmental delays especially in children. No purification process can eliminate this risk.
 - AUSTRALIAN TGA WARNING: Victoria Department of Health (January 2025) issued updated health advisory about Ayurvedic medicines containing lead and other heavy metals.
-- 65% CONTAMINATION RATE: Studies found lead in 65% of 252 Ayurvedic medicine samples tested, indicating widespread contamination beyond just [Naga Bhasma](/ayurveda-atlas/herb/naga-bhasma/).
+- 65% CONTAMINATION RATE: Studies found lead in 65% of 252 Ayurvedic medicine samples tested, indicating widespread contamination beyond just [Naga Bhasma](/nighantu/herb/naga-bhasma/).
 
 ## What is it made of?
 

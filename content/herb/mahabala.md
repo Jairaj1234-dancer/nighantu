@@ -28,32 +28,32 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mahabala/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- Ephedrine and [pseudoephedrine](/ayurveda-atlas/glossary/compounds-o-q/#pseudoephedrine) ([alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids))
+- Ephedrine and [pseudoephedrine](/nighantu/glossary/compounds-o-q/#pseudoephedrine) ([alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids))
 - Cryptolepine
 - Ecdysteroids (including 20-hydroxyecdysone)
-- [Flavonoids](/ayurveda-atlas/reference/flavonoids/) ([kaempferol](/ayurveda-atlas/reference/kaempferol/), [quercetin](/ayurveda-atlas/reference/quercetinquercetin/) derivatives)
+- [Flavonoids](/nighantu/reference/flavonoids/) ([kaempferol](/nighantu/reference/kaempferol/), [quercetin](/nighantu/reference/quercetinquercetin/) derivatives)
 - Phenolic compounds
-- Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
-- [Mucilage](/ayurveda-atlas/glossary/compounds-l-o/#mucilage)
-- [Saponins](/ayurveda-atlas/reference/saponins/)
+- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- [Mucilage](/nighantu/glossary/compounds-l-o/#mucilage)
+- [Saponins](/nighantu/reference/saponins/)
 - Fatty acids (linoleic, palmitic)
 
 ## How does it work?
 
 - Anti-inflammatory mechanism through inhibition of COX-2 and prostaglandin synthesis, with ecdysteroids contributing to tissue repair and regeneration
-- [Analgesic](/ayurveda-atlas/reference/analgesic/) action through both central and peripheral pain pathway modulation, with alkaloid fraction (ephedrine-related compounds) contributing to bronchodilatory effects
+- [Analgesic](/nighantu/reference/analgesic/) action through both central and peripheral pain pathway modulation, with alkaloid fraction (ephedrine-related compounds) contributing to bronchodilatory effects
 - Antimalarial mechanism involving disruption of Plasmodium parasite erythrocytic stages, with cryptolepine showing potent antiplasmodial activity
 
 ## Which traditional uses are supported by research?
 
 - Anti-inflammatory and analgesic properties validated through multiple in vivo models, confirming traditional use in Vataroga (joint and muscular conditions)
-- [Antimicrobial](/ayurveda-atlas/reference/antimicrobial/) activity confirmed against bacteria and fungi, supporting traditional use in wound healing and infectious conditions
+- [Antimicrobial](/nighantu/reference/antimicrobial/) activity confirmed against bacteria and fungi, supporting traditional use in wound healing and infectious conditions
 - Antimalaria activity validated against Plasmodium species, confirming ethnomedicinal use in fever and malaria treatment
 
 ## What do recent clinical trials show?
 
 - **Sida L.: Ethnobotany, Pharmacology, and Phytochemistry: A Review** (2025): Comprehensive genus-level review identifying approximately 142 chemical constituents across Sida species, with alkaloids, flavonoids, and ecdysteroids as predominant bioactive groups.
-- **Sida Rhombifolia linn: an empirical analysis on phytochemicals and an in vitro outcome on anti-inflammatory and [antioxidant](/ayurveda-atlas/reference/antioxidant/) perspective** (2025): Fresh 2024-collected plant samples demonstrated significant anti-inflammatory and antioxidant activities in vitro, with detailed phytochemical fingerprinting.
+- **Sida Rhombifolia linn: an empirical analysis on phytochemicals and an in vitro outcome on anti-inflammatory and [antioxidant](/nighantu/reference/antioxidant/) perspective** (2025): Fresh 2024-collected plant samples demonstrated significant anti-inflammatory and antioxidant activities in vitro, with detailed phytochemical fingerprinting.
 - **Preclinical safety assessment of the crude extract from Sida rhombifolia L. aerial parts in experimental models of acute and repeated-dose 28 days toxicity in rats** (2021): 28-day repeated dose toxicity study established safety parameters for aerial part crude extract in rat models, providing preclinical safety benchmarks.
 
 ## Recent safety updates
@@ -78,21 +78,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mahabala/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Kwatha (decoction), Taila (medicated oil), Capsules, Tablets, [Ghrita](/ayurveda-atlas/herb/ghrita/) (medicated ghee), Basti preparations (enema)
+**Dosage Forms:** Churna (powder), Kwatha (decoction), Taila (medicated oil), Capsules, Tablets, [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Basti preparations (enema)
 
 **Standard Dosage:** 3-6 g root powder per day; 50-100 mL decoction twice daily; Taila for external application as directed; 500-1000 mg extract capsules twice daily
 
-**Bioavailability:** Moderate oral bioavailability. Ephedrine-type alkaloids (in some Sida species) show good absorption with 85-95% oral bioavailability. Ecdysteroids show limited but consistent absorption (10-15%). Mucilaginous [polysaccharides](/ayurveda-atlas/glossary/compounds-o-q/#polysaccharides) are not absorbed but exert prebiotic effects. Oil-based preparations (Taila, Ghrita) significantly enhance absorption of lipophilic [terpenoids](/ayurveda-atlas/glossary/compounds-t-z/#terpenoids).
+**Bioavailability:** Moderate oral bioavailability. Ephedrine-type alkaloids (in some Sida species) show good absorption with 85-95% oral bioavailability. Ecdysteroids show limited but consistent absorption (10-15%). Mucilaginous [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides) are not absorbed but exert prebiotic effects. Oil-based preparations (Taila, Ghrita) significantly enhance absorption of lipophilic [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids).
 
 **Optimal Timing:** Morning for tonic and strength-building effects; before meals with warm water or milk; Taila application morning and evening with gentle massage; Basti as per Panchakarma schedule
 
-**Standardized Extract:** Root extract (8:1 hydroalcoholic) standardized to minimum 0.5% total alkaloids and 0.3% [ecdysterone](/ayurveda-atlas/glossary/compounds-d-g/#ecdysterone). Mahabala Taila prepared per AFI guidelines. Mucilage-free extract for capsule filling.
+**Standardized Extract:** Root extract (8:1 hydroalcoholic) standardized to minimum 0.5% total alkaloids and 0.3% [ecdysterone](/nighantu/glossary/compounds-d-g/#ecdysterone). Mahabala Taila prepared per AFI guidelines. Mucilage-free extract for capsule filling.
 
 **Shelf Life:** 24 months for root powder; 30 months for tablets/capsules; 36 months for Taila; 24 months for Ghrita preparations
 
 **Storage:** Root powder in airtight containers below 25 deg C. Taila in amber glass bottles, protected from light, at room temperature. Ghrita in clean, dry glass or stainless steel containers. All forms protected from moisture.
 
-**Marker Compounds:** Ecdysterone (20-hydroxyecdysone), Cryptolepine, Quindoline, Quindimine, Beta-sitosterol, [Stigmasterol](/ayurveda-atlas/reference/stigmasterol/), Mucilage polysaccharides, Ephedrine (trace, species-dependent)
+**Marker Compounds:** Ecdysterone (20-hydroxyecdysone), Cryptolepine, Quindoline, Quindimine, Beta-sitosterol, [Stigmasterol](/nighantu/reference/stigmasterol/), Mucilage polysaccharides, Ephedrine (trace, species-dependent)
 
 ### Extraction Methods
 
@@ -105,8 +105,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mahabala/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Bala](/ayurveda-atlas/herb/bala/) (complementary strength-building)
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) ([adaptogenic](/ayurveda-atlas/reference/adaptogenic/) and musculoskeletal synergy)
-- [Rasna](/ayurveda-atlas/herb/rasna/) (anti-inflammatory for joint conditions)
+- [Bala](/nighantu/herb/bala/) (complementary strength-building)
+- [Ashwagandha](/nighantu/herb/ashwagandha/) ([adaptogenic](/nighantu/reference/adaptogenic/) and musculoskeletal synergy)
+- [Rasna](/nighantu/herb/rasna/) (anti-inflammatory for joint conditions)
 - Dashamula (anti-Vata polyherbal combination)
-- [Eranda](/ayurveda-atlas/herb/eranda/) Taila (joint lubrication and anti-inflammatory)
+- [Eranda](/nighantu/herb/eranda/) Taila (joint lubrication and anti-inflammatory)

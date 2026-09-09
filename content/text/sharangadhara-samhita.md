@@ -53,7 +53,7 @@ Panchakarma, basti, nasya, and therapeutic applications.
 
 ## Why it matters for Chyawanprash
 
-**Madhyama Khanda Chapter 8 (Avaleha Kalpana)** is the canonical classical source for the 4-phase Avaleha manufacturing protocol used in [Chyawanprash](/ayurveda-atlas/formulation/chyawanprash/) and Chyawanprash Royale:
+**Madhyama Khanda Chapter 8 (Avaleha Kalpana)** is the canonical classical source for the 4-phase Avaleha manufacturing protocol used in [Chyawanprash](/nighantu/formulation/chyawanprash/) and Chyawanprash Royale:
 
 1. Kashaya preparation
 2. Paka (the long cook) — with pakva (consistency) tests defined: *mridu paka*, *madhyama*, *kharatara*, *khara*, *atikhara*
@@ -70,10 +70,10 @@ The **pakva stages** Sharangadhara defines (thread-tests between fingers) are st
 
 ## See also
 
-- [Ashtanga Hridaya](/ayurveda-atlas/text/ashtanga-hridaya/)
-- [Chyawanprash](/ayurveda-atlas/formulation/chyawanprash/)
+- [Ashtanga Hridaya](/nighantu/text/ashtanga-hridaya/)
+- [Chyawanprash](/nighantu/formulation/chyawanprash/)
 - Chyawanprash Royale
 - Formulation SOP
-- [Avaleha](/ayurveda-atlas/formulation/avaleha/)
+- [Avaleha](/nighantu/formulation/avaleha/)
 
-*Classical-text reference hub. The definitive pharmaceutics source for all [Avaleha kalpana](/ayurveda-atlas/formulation/avaleha/) work in this catalogue.*
+*Classical-text reference hub. The definitive pharmaceutics source for all [Avaleha kalpana](/nighantu/formulation/avaleha/) work in this catalogue.*

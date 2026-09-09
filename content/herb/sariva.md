@@ -55,7 +55,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Sariva/meta-analysis.md"
 - 2-hydroxy-4-methoxybenzaldehyde
 - Hemidesmin
 - Hemidesminine
-- [Coumarins](/ayurveda-atlas/glossary/compounds-c-d/#coumarins)
+- [Coumarins](/nighantu/glossary/compounds-c-d/#coumarins)
 
 ## Therapeutic Actions (Karma)
 
@@ -63,12 +63,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Sariva/meta-analysis.md"
 - Cooling
 - Anti-inflammatory
 - Skin healing
-- [Diuretic](/ayurveda-atlas/reference/diuretic/)
-- [Antioxidant](/ayurveda-atlas/reference/antioxidant/)
+- [Diuretic](/nighantu/reference/diuretic/)
+- [Antioxidant](/nighantu/reference/antioxidant/)
 
 ## How is it used traditionally?
 
-One of the safest blood purifiers in Ayurveda. Used for Kushtha (skin diseases), Raktapitta (bleeding disorders), Jwara (fever), and Daha (burning sensation). Component of famous formulation [Sarivadyasava](/ayurveda-atlas/formulation/sarivadyasava/).
+One of the safest blood purifiers in Ayurveda. Used for Kushtha (skin diseases), Raktapitta (bleeding disorders), Jwara (fever), and Daha (burning sensation). Component of famous formulation [Sarivadyasava](/nighantu/formulation/sarivadyasava/).
 
 ## Where is it described in the classical texts?
 
@@ -78,7 +78,7 @@ One of the safest blood purifiers in Ayurveda. Used for Kushtha (skin diseases),
 
 ## Recommended Dosage
 
-Root powder: 3-6g/day; Decoction: 50-100ml/day; Syrup ([Sarivadyasava](/ayurveda-atlas/formulation/sarivadyasava/)): 15-30ml
+Root powder: 3-6g/day; Decoction: 50-100ml/day; Syrup ([Sarivadyasava](/nighantu/formulation/sarivadyasava/)): 15-30ml
 
 ## Safety, contraindications and cautions
 
@@ -98,11 +98,11 @@ Root powder: 3-6g/day; Decoction: 50-100ml/day; Syrup ([Sarivadyasava](/ayurveda
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Kwatha (decoction), Churna (powder), Syrup ([Sarivadyasava](/ayurveda-atlas/formulation/sarivadyasava/)), Capsule, Ghana vati, Taila (medicated oil)
+**Dosage Forms:** Kwatha (decoction), Churna (powder), Syrup ([Sarivadyasava](/nighantu/formulation/sarivadyasava/)), Capsule, Ghana vati, Taila (medicated oil)
 
 **Standard Dosage:** 3-6 g root powder per day; 50-100 mL kwatha twice daily; 15-30 mL syrup twice daily; 500 mg extract capsule twice daily
 
-**Bioavailability:** [Phytosterols](/ayurveda-atlas/glossary/compounds-o-q/#phytosterols) and coumarins show moderate oral bioavailability (25-40%). Hemidesmine (a [coumarin](/ayurveda-atlas/glossary/compounds-c-d/#coumarin)) is lipophilic and benefits from lipid-based formulations. 2-hydroxy-4-methoxybenzaldehyde is volatile and rapidly absorbed. Co-administration with milk (traditional Ksheerapaka) enhances fat-soluble constituent absorption.
+**Bioavailability:** [Phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols) and coumarins show moderate oral bioavailability (25-40%). Hemidesmine (a [coumarin](/nighantu/glossary/compounds-c-d/#coumarin)) is lipophilic and benefits from lipid-based formulations. 2-hydroxy-4-methoxybenzaldehyde is volatile and rapidly absorbed. Co-administration with milk (traditional Ksheerapaka) enhances fat-soluble constituent absorption.
 
 **Optimal Timing:** After meals; can be taken with milk for enhanced Pitta-pacifying action. Suitable for all seasons.
 
@@ -112,7 +112,7 @@ Root powder: 3-6g/day; Decoction: 50-100ml/day; Syrup ([Sarivadyasava](/ayurveda
 
 **Storage:** Syrup: store at 15-25 deg C, refrigerate after opening. Churna and capsules: below 25 deg C, airtight, protect from light and moisture.
 
-**Marker Compounds:** 2-Hydroxy-4-methoxybenzaldehyde, Hemidesmine, Hemidesminine, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), [Lupeol](/ayurveda-atlas/reference/lupeol/), Coumarins (total)
+**Marker Compounds:** 2-Hydroxy-4-methoxybenzaldehyde, Hemidesmine, Hemidesminine, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Lupeol](/nighantu/reference/lupeol/), Coumarins (total)
 
 ### Extraction Methods
 
@@ -124,8 +124,8 @@ Root powder: 3-6g/day; Decoction: 50-100ml/day; Syrup ([Sarivadyasava](/ayurveda
 
 ### Synergistic Combinations
 
-- [Manjishtha](/ayurveda-atlas/herb/manjishtha/) (Raktashodhaka — blood purification synergy)
-- [Chandana](/ayurveda-atlas/herb/chandana/) (Pitta-pacifying, urinary tract formulations)
-- [Ushira](/ayurveda-atlas/herb/ushira/) (cooling and detoxifying combinations)
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) ([immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/)-detox synergy)
-- [Neem](/ayurveda-atlas/herb/neem/) (skin disorder formulations)
+- [Manjishtha](/nighantu/herb/manjishtha/) (Raktashodhaka — blood purification synergy)
+- [Chandana](/nighantu/herb/chandana/) (Pitta-pacifying, urinary tract formulations)
+- [Ushira](/nighantu/herb/ushira/) (cooling and detoxifying combinations)
+- [Guduchi](/nighantu/herb/guduchi/) ([immunomodulatory](/nighantu/reference/immunomodulatory/)-detox synergy)
+- [Neem](/nighantu/herb/neem/) (skin disorder formulations)

@@ -19,7 +19,7 @@ productHints: []
 words: 203
 srcRel: "Ayurveda/Medical-Devices/Kshara-Sutra-and-Para-Surgical-Instruments/Medicated-Alkaline-Thread/device-info.md"
 ---
-A specially prepared surgical thread coated with three layers: latex of Snuhi (Euphorbia neriifolia), [Apamarga](/ayurveda-atlas/herb/apamarga/) Kshara (Achyranthes aspera alkali), and [Haridra](/ayurveda-atlas/herb/haridra/) ([turmeric](/ayurveda-atlas/herb/turmeric/)) powder. Applied repeatedly (21 coatings) to create a medicated thread used for gradual cutting, drainage, and healing of fistulous tracts.
+A specially prepared surgical thread coated with three layers: latex of Snuhi (Euphorbia neriifolia), [Apamarga](/nighantu/herb/apamarga/) Kshara (Achyranthes aspera alkali), and [Haridra](/nighantu/herb/haridra/) ([turmeric](/nighantu/herb/turmeric/)) powder. Applied repeatedly (21 coatings) to create a medicated thread used for gradual cutting, drainage, and healing of fistulous tracts.
 
 ## Where is it described in the classical texts?
 
@@ -33,8 +33,8 @@ Fistula-in-ano (Bhagandara) - primary indication. Also used for hemorrhoids (Ars
 
 - Barbour's linen thread (No. 20)
 - Snuhi Kshira (Euphorbia neriifolia latex)
-- [Apamarga](/ayurveda-atlas/herb/apamarga/) Kshara (Achyranthes aspera alkali)
-- [Haridra](/ayurveda-atlas/herb/haridra/) Churna (Curcuma longa powder)
+- [Apamarga](/nighantu/herb/apamarga/) Kshara (Achyranthes aspera alkali)
+- [Haridra](/nighantu/herb/haridra/) Churna (Curcuma longa powder)
 
 ## Modern variants
 

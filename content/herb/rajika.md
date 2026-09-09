@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Rajika/meta-analysi
 
 **Standard Dosage:** 1-3 g seed powder daily; 5-10 mL mustard oil for cooking; topical paste as needed; 500 mg seed extract daily
 
-**Bioavailability:** Allyl isothiocyanate (AITC) from Brassica juncea (Rajika/brown mustard) has excellent oral bioavailability (>80%) with rapid absorption (Tmax <30 min). [Sinigrin](/ayurveda-atlas/glossary/compounds-q-t/#sinigrin) (glucosinolate precursor) is hydrolyzed by [myrosinase](/ayurveda-atlas/glossary/compounds-l-o/#myrosinase) to AITC upon tissue damage. Erucic acid in mustard oil is slowly metabolized and may accumulate; low-erucic acid varieties preferred for dietary use. [Selenium](/ayurveda-atlas/glossary/compounds-q-t/#selenium) content varies with soil and is well absorbed (~75%). Topical application of mustard oil provides warming counter-irritant effect through TRPA1 activation.
+**Bioavailability:** Allyl isothiocyanate (AITC) from Brassica juncea (Rajika/brown mustard) has excellent oral bioavailability (>80%) with rapid absorption (Tmax <30 min). [Sinigrin](/nighantu/glossary/compounds-q-t/#sinigrin) (glucosinolate precursor) is hydrolyzed by [myrosinase](/nighantu/glossary/compounds-l-o/#myrosinase) to AITC upon tissue damage. Erucic acid in mustard oil is slowly metabolized and may accumulate; low-erucic acid varieties preferred for dietary use. [Selenium](/nighantu/glossary/compounds-q-t/#selenium) content varies with soil and is well absorbed (~75%). Topical application of mustard oil provides warming counter-irritant effect through TRPA1 activation.
 
 **Optimal Timing:** Seed powder: with meals as digestive. Oil: cooking use or topical massage before bath. Paste/poultice: apply warm to affected area for 15-20 minutes, avoid prolonged skin contact (can cause blistering).
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Rajika/meta-analysi
 
 **Storage:** Seeds: cool, dry, pest-proof, below 25 deg C. Oil: amber glass or tin, below 25 deg C, protect from light (photooxidation). Essential oil: amber glass, tightly sealed, 15-25 deg C. Powder: airtight, dry, below 25 deg C.
 
-**Marker Compounds:** Sinigrin, Allyl isothiocyanate (AITC), Erucic acid, Oleic acid, Gluconapin, Selenium, [Sinapine](/ayurveda-atlas/glossary/compounds-q-t/#sinapine), Myrosinase (enzyme activity)
+**Marker Compounds:** Sinigrin, Allyl isothiocyanate (AITC), Erucic acid, Oleic acid, Gluconapin, Selenium, [Sinapine](/nighantu/glossary/compounds-q-t/#sinapine), Myrosinase (enzyme activity)
 
 ### Extraction Methods
 
@@ -71,8 +71,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Rajika/meta-analysi
 
 ### Synergistic Combinations
 
-- [Haridra](/ayurveda-atlas/herb/haridra/) (anti-inflammatory paste for joint pain)
+- [Haridra](/nighantu/herb/haridra/) (anti-inflammatory paste for joint pain)
 - Sarshapa/White mustard (combined mustard formulation)
-- [Saindhava Lavana](/ayurveda-atlas/herb/saindhava-lavana/) (digestive and appetizer combination)
+- [Saindhava Lavana](/nighantu/herb/saindhava-lavana/) (digestive and appetizer combination)
 - Rasona/Garlic (cardiovascular and metabolic combination)
-- [Tila](/ayurveda-atlas/herb/tila/)/Sesame (blended oil for Abhyanga massage)
+- [Tila](/nighantu/herb/tila/)/Sesame (blended oil for Abhyanga massage)

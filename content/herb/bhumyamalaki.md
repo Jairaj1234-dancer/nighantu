@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Bhumyamalaki/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 500mg standardized extract capsule twice daily; 10-20ml juice; 50-100ml decoction twice daily for hepatic conditions
 
-**Bioavailability:** [Phyllanthin](/ayurveda-atlas/glossary/compounds-o-q/#phyllanthin) and [hypophyllanthin](/ayurveda-atlas/glossary/compounds-g-l/#hypophyllanthin) show moderate oral bioavailability (25-35%). Significant hepatic first-pass metabolism of [lignans](/ayurveda-atlas/glossary/compounds-g-l/#lignans). Self-emulsifying drug delivery systems (SEDDS) improve lignan bioavailability by 2-3 fold. Phospholipid complexes (phytosomes) of Bhumyamalaki extract show enhanced [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) efficacy. Administration with warm water provides optimal absorption.
+**Bioavailability:** [Phyllanthin](/nighantu/glossary/compounds-o-q/#phyllanthin) and [hypophyllanthin](/nighantu/glossary/compounds-g-l/#hypophyllanthin) show moderate oral bioavailability (25-35%). Significant hepatic first-pass metabolism of [lignans](/nighantu/glossary/compounds-g-l/#lignans). Self-emulsifying drug delivery systems (SEDDS) improve lignan bioavailability by 2-3 fold. Phospholipid complexes (phytosomes) of Bhumyamalaki extract show enhanced [hepatoprotective](/nighantu/reference/hepatoprotective/) efficacy. Administration with warm water provides optimal absorption.
 
 **Optimal Timing:** Before meals on empty stomach for hepatoprotective effect; morning and evening for viral hepatitis support; with warm water
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Bhumyamalaki/meta-analysis.md"
 
 **Storage:** Cool, dry place away from light and moisture. Capsules in blister packs. Syrup in amber glass bottles. Temperature below 30°C.
 
-**Marker Compounds:** Phyllanthin, Hypophyllanthin, Niranthin, Phyltetralin, Gallic acid, Ellagic acid, [Corilagin](/ayurveda-atlas/glossary/compounds-c-d/#corilagin), [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/), Astragalin
+**Marker Compounds:** Phyllanthin, Hypophyllanthin, Niranthin, Phyltetralin, Gallic acid, Ellagic acid, [Corilagin](/nighantu/glossary/compounds-c-d/#corilagin), [Quercetin](/nighantu/reference/quercetinquercetin/), Astragalin
 
 ### Extraction Methods
 
@@ -72,7 +72,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Bhumyamalaki/meta-analysis.md"
 ### Synergistic Combinations
 
 - With Kutki (Picrorhiza) for enhanced hepatoprotective activity
-- With [Bhringraj](/ayurveda-atlas/herb/bhringraj/) for liver support formulations
-- With [Kalmegh](/ayurveda-atlas/herb/kalmegh/) (Andrographis) for viral hepatitis
-- With [Guduchi](/ayurveda-atlas/herb/guduchi/) for immune-hepatic synergy
-- With [Punarnava](/ayurveda-atlas/herb/punarnava/) for hepato-renal protection
+- With [Bhringraj](/nighantu/herb/bhringraj/) for liver support formulations
+- With [Kalmegh](/nighantu/herb/kalmegh/) (Andrographis) for viral hepatitis
+- With [Guduchi](/nighantu/herb/guduchi/) for immune-hepatic synergy
+- With [Punarnava](/nighantu/herb/punarnava/) for hepato-renal protection

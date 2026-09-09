@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Amra-Haridra/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Amra [Haridra](/ayurveda-atlas/herb/haridra/)|[Amra](/ayurveda-atlas/herb/amra/) Haridra |
+| English | Amra [Haridra](/nighantu/herb/haridra/)|[Amra](/nighantu/herb/amra/) Haridra |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -49,17 +49,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Amra-Haridra/meta-analysis.md"
 
 **Standard Dosage:** 2-4g powder twice daily; 500mg extract capsule twice daily; topical paste as needed
 
-**Bioavailability:** Moderate oral bioavailability. Curcuma amada (mango [ginger](/ayurveda-atlas/herb/ginger/)) contains curcuminoids similar to [turmeric](/ayurveda-atlas/herb/turmeric/) but in lower concentrations, plus unique difurocumenonol. Curcuminoid bioavailability is inherently low (<5%) but enhanced by [piperine](/ayurveda-atlas/reference/piperine/) (20-fold increase) or lipid formulations. The volatile oil content aids absorption. Phospholipid complexation (phytosome) technology can increase bioavailability 5-10x.
+**Bioavailability:** Moderate oral bioavailability. Curcuma amada (mango [ginger](/nighantu/herb/ginger/)) contains curcuminoids similar to [turmeric](/nighantu/herb/turmeric/) but in lower concentrations, plus unique difurocumenonol. Curcuminoid bioavailability is inherently low (<5%) but enhanced by [piperine](/nighantu/reference/piperine/) (20-fold increase) or lipid formulations. The volatile oil content aids absorption. Phospholipid complexation (phytosome) technology can increase bioavailability 5-10x.
 
 **Optimal Timing:** With meals containing fat/oil for enhanced curcuminoid absorption; with warm milk at bedtime for anti-inflammatory and immune benefits
 
-**Standardized Extract:** Rhizome extract standardized to minimum 1% total curcuminoids (as [curcumin](/ayurveda-atlas/herb/curcumin/)). Essential oil standardized to minimum 30% [myrcene](/ayurveda-atlas/glossary/compounds-l-o/#myrcene). Oleoresin with minimum 3% curcuminoids.
+**Standardized Extract:** Rhizome extract standardized to minimum 1% total curcuminoids (as [curcumin](/nighantu/herb/curcumin/)). Essential oil standardized to minimum 30% [myrcene](/nighantu/glossary/compounds-l-o/#myrcene). Oleoresin with minimum 3% curcuminoids.
 
 **Shelf Life:** 2 years (powder); 3 years (capsules/tablets); 3 years (essential oil); 18 months (oleoresin)
 
 **Storage:** Cool, dry place below 25°C, protected from light (curcuminoids are photosensitive). Airtight containers. Essential oil in amber glass.
 
-**Marker Compounds:** [Curcumin](/ayurveda-atlas/herb/curcumin/), [Demethoxycurcumin](/ayurveda-atlas/glossary/compounds-c-d/#demethoxycurcumin), [Bisdemethoxycurcumin](/ayurveda-atlas/glossary/compounds-a-c/#bisdemethoxycurcumin), Difurocumenonol, Myrcene, Beta-pinene, [Ocimene](/ayurveda-atlas/glossary/compounds-l-o/#ocimene), [Curdione](/ayurveda-atlas/glossary/compounds-c-d/#curdione)
+**Marker Compounds:** [Curcumin](/nighantu/herb/curcumin/), [Demethoxycurcumin](/nighantu/glossary/compounds-c-d/#demethoxycurcumin), [Bisdemethoxycurcumin](/nighantu/glossary/compounds-a-c/#bisdemethoxycurcumin), Difurocumenonol, Myrcene, Beta-pinene, [Ocimene](/nighantu/glossary/compounds-l-o/#ocimene), [Curdione](/nighantu/glossary/compounds-c-d/#curdione)
 
 ### Extraction Methods
 
@@ -71,7 +71,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Amra-Haridra/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With Maricha ([black pepper](/ayurveda-atlas/herb/black-pepper/)) for piperine-enhanced curcuminoid absorption
-- With [Haridra](/ayurveda-atlas/herb/haridra/) (common [turmeric](/ayurveda-atlas/herb/turmeric/)) for enhanced anti-inflammatory action
+- With Maricha ([black pepper](/nighantu/herb/black-pepper/)) for piperine-enhanced curcuminoid absorption
+- With [Haridra](/nighantu/herb/haridra/) (common [turmeric](/nighantu/herb/turmeric/)) for enhanced anti-inflammatory action
 - With Sunthi for digestive and anti-inflammatory synergy
-- With [Guduchi](/ayurveda-atlas/herb/guduchi/) for immune modulation
+- With [Guduchi](/nighantu/herb/guduchi/) for immune modulation

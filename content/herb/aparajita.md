@@ -28,32 +28,32 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aparajita/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Anthocyanins](/ayurveda-atlas/glossary/compounds-1-a/#anthocyanins) (delphinidin-3,5-diglucoside - ternatin series)
-- [Cyclotides](/ayurveda-atlas/glossary/compounds-c-d/#cyclotides) (ultra-stable macrocyclic [peptides](/ayurveda-atlas/glossary/compounds-o-q/#peptides))
-- [Kaempferol](/ayurveda-atlas/reference/kaempferol/) [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides)
-- [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/) and [myricetin](/ayurveda-atlas/glossary/compounds-l-o/#myricetin) glycosides
-- [Taraxerol](/ayurveda-atlas/glossary/compounds-t-z/#taraxerol) and taraxerone ([triterpenoids](/ayurveda-atlas/glossary/compounds-t-z/#triterpenoids))
-- [Aparajitin](/ayurveda-atlas/glossary/compounds-1-a/#aparajitin) (unique peptide)
+- [Anthocyanins](/nighantu/glossary/compounds-1-a/#anthocyanins) (delphinidin-3,5-diglucoside - ternatin series)
+- [Cyclotides](/nighantu/glossary/compounds-c-d/#cyclotides) (ultra-stable macrocyclic [peptides](/nighantu/glossary/compounds-o-q/#peptides))
+- [Kaempferol](/nighantu/reference/kaempferol/) [glycosides](/nighantu/glossary/compounds-g-l/#glycosides)
+- [Quercetin](/nighantu/reference/quercetinquercetin/) and [myricetin](/nighantu/glossary/compounds-l-o/#myricetin) glycosides
+- [Taraxerol](/nighantu/glossary/compounds-t-z/#taraxerol) and taraxerone ([triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids))
+- [Aparajitin](/nighantu/glossary/compounds-1-a/#aparajitin) (unique peptide)
 
 ## How does it work?
 
-- [Nootropic](/ayurveda-atlas/glossary/pharmacology/#nootropic) and memory-enhancing effects via acetylcholinesterase inhibition and modulation of cholinergic neurotransmission
+- [Nootropic](/nighantu/glossary/pharmacology/#nootropic) and memory-enhancing effects via acetylcholinesterase inhibition and modulation of cholinergic neurotransmission
 - Anti-inflammatory action through suppression of NF-kB pathway and interaction with SRC, ESR1, PI3KR1 protein targets
-- [Antioxidant](/ayurveda-atlas/reference/antioxidant/) activity via anthocyanin-mediated free radical scavenging and upregulation of endogenous antioxidant [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes)
-- [Anxiolytic](/ayurveda-atlas/reference/anxiolytic/) effect through GABAergic modulation comparable to benzodiazepines
+- [Antioxidant](/nighantu/reference/antioxidant/) activity via anthocyanin-mediated free radical scavenging and upregulation of endogenous antioxidant [enzymes](/nighantu/glossary/compounds-d-g/#enzymes)
+- [Anxiolytic](/nighantu/reference/anxiolytic/) effect through GABAergic modulation comparable to benzodiazepines
 
 ## Which traditional uses are supported by research?
 
-- Memory enhancer and nootropic (Medhya [Rasayana](/ayurveda-atlas/reference/rasayana/)) - validated through multiple studies showing improved memory and learning in animal models via cholinergic mechanism
+- Memory enhancer and nootropic (Medhya [Rasayana](/nighantu/reference/rasayana/)) - validated through multiple studies showing improved memory and learning in animal models via cholinergic mechanism
 - Anxiolytic and antidepressant (Unmada-nashaka) - confirmed anxiolytic and antidepressant effects comparable to standard drugs in preclinical studies
-- Anti-diabetic (Pramehaghna) - validated through in vivo studies showing blood [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose) reduction and improved insulin sensitivity
-- Complexion enhancer and eye health (Varnya, [Chakshushya](/ayurveda-atlas/herb/chakshushya/)) - partially validated through antioxidant and anti-inflammatory mechanisms
+- Anti-diabetic (Pramehaghna) - validated through in vivo studies showing blood [glucose](/nighantu/glossary/compounds-d-g/#glucose) reduction and improved insulin sensitivity
+- Complexion enhancer and eye health (Varnya, [Chakshushya](/nighantu/herb/chakshushya/)) - partially validated through antioxidant and anti-inflammatory mechanisms
 
 ## What do recent clinical trials show?
 
-- **Role of Aparajita (Clitoria ternatea) in Cancer Prevention and Therapy** (2025): Reviewed evidence from ethnomedicine, phytochemistry and pharmacology supporting [anticancer](/ayurveda-atlas/reference/anticancer/) potential through multiple molecular pathways including apoptosis induction and angiogenesis inhibition.
-- **Clitoria ternatea Flower Against Endometrial Pain: Network Pharmacology and Molecular Docking** (2024): Demonstrated 91.47% suppression of heat-induced hemolysis and 81.89% inhibition of paw edema at 400 mg/kg; molecular docking showed strong binding of flavylium, kaempferol, and [quercetin](/ayurveda-atlas/reference/quercetinquercetin/) to SRC, ESR1, and PI3KR1 targets.
-- **[Antidiabetic](/ayurveda-atlas/reference/antidiabetic/) and [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) effect of butterfly pea flower through antioxidant and anti-inflammatory mechanisms** (2024): Butterfly pea flower extract showed significant blood glucose reduction, LDH and ALT lowering, and hepatoprotective effects in diabetic-dyslipidemic rat models.
+- **Role of Aparajita (Clitoria ternatea) in Cancer Prevention and Therapy** (2025): Reviewed evidence from ethnomedicine, phytochemistry and pharmacology supporting [anticancer](/nighantu/reference/anticancer/) potential through multiple molecular pathways including apoptosis induction and angiogenesis inhibition.
+- **Clitoria ternatea Flower Against Endometrial Pain: Network Pharmacology and Molecular Docking** (2024): Demonstrated 91.47% suppression of heat-induced hemolysis and 81.89% inhibition of paw edema at 400 mg/kg; molecular docking showed strong binding of flavylium, kaempferol, and [quercetin](/nighantu/reference/quercetinquercetin/) to SRC, ESR1, and PI3KR1 targets.
+- **[Antidiabetic](/nighantu/reference/antidiabetic/) and [hepatoprotective](/nighantu/reference/hepatoprotective/) effect of butterfly pea flower through antioxidant and anti-inflammatory mechanisms** (2024): Butterfly pea flower extract showed significant blood glucose reduction, LDH and ALT lowering, and hepatoprotective effects in diabetic-dyslipidemic rat models.
 
 ## Recent safety updates
 
@@ -79,7 +79,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aparajita/meta-analysis.md"
 
 **Optimal Timing:** Morning on empty stomach for Medhya (cognitive) effects; blue tea anytime; root powder with warm milk at bedtime for Vata pacification
 
-**Standardized Extract:** Root extract (10:1) standardized to minimum 5% total [flavonoids](/ayurveda-atlas/reference/flavonoids/). Flower extract standardized to minimum 15% total anthocyanins (as delphinidin-3-glucoside equivalent). Cyclotide-enriched extract for research applications.
+**Standardized Extract:** Root extract (10:1) standardized to minimum 5% total [flavonoids](/nighantu/reference/flavonoids/). Flower extract standardized to minimum 15% total anthocyanins (as delphinidin-3-glucoside equivalent). Cyclotide-enriched extract for research applications.
 
 **Shelf Life:** 2 years (root powder); 18 months (flower powder — anthocyanins degrade); 3 years (capsules/tablets with stability); 1 year (blue tea bags)
 
@@ -97,8 +97,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aparajita/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Brahmi](/ayurveda-atlas/herb/brahmi/) for Medhya (nootropic) action — classical combination
+- With [Brahmi](/nighantu/herb/brahmi/) for Medhya (nootropic) action — classical combination
 - With Shankhapushpi for memory enhancement
-- With [Vacha](/ayurveda-atlas/herb/vacha/) for cognitive support and speech disorders
-- With [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) for anxiolytic synergy
-- With [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) for neuroprotection
+- With [Vacha](/nighantu/herb/vacha/) for cognitive support and speech disorders
+- With [Ashwagandha](/nighantu/herb/ashwagandha/) for anxiolytic synergy
+- With [Yashtimadhu](/nighantu/herb/yashtimadhu/) for neuroprotection

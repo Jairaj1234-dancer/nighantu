@@ -44,8 +44,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Ashwagandha/meta-analysis
 
 ## Key Phytochemical Constituents
 
-- [Withanolides](/ayurveda-atlas/glossary/compounds-t-z/#withanolides) (withaferin A, withanolide D)
-- [Alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) (isopelletierine, anaferine)
+- [Withanolides](/nighantu/glossary/compounds-t-z/#withanolides) (withaferin A, withanolide D)
+- [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) (isopelletierine, anaferine)
 - Steroidal lactones
 - Iron
 
@@ -55,16 +55,16 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Ashwagandha/meta-analysis
 - Anti-stress
 - Immunomodulator
 - Anti-inflammatory
-- [Nootropic](/ayurveda-atlas/glossary/pharmacology/#nootropic)
-- [Aphrodisiac](/ayurveda-atlas/glossary/pharmacology/#aphrodisiac)
+- [Nootropic](/nighantu/glossary/pharmacology/#nootropic)
+- [Aphrodisiac](/nighantu/glossary/pharmacology/#aphrodisiac)
 - Nervine tonic
 
 ## How does it work?
 
-- Active compounds: Withanolides (300+ C-28 steroidal lactones), primarily [withaferin-A](/ayurveda-atlas/glossary/compounds-t-z/#withaferin-a) and withanolide-D.
+- Active compounds: Withanolides (300+ C-28 steroidal lactones), primarily [withaferin-A](/nighantu/glossary/compounds-t-z/#withaferin-a) and withanolide-D.
 - NF-kB inhibition: Withanolides suppress nuclear factor kappa-B activation, reducing inflammatory signaling.
 - Neuroprotection: Inhibition of amyloid-beta oligomer aggregation; prevention of tau hyperphosphorylation; acetylcholinesterase and pseudo-cholinesterase inhibition.
-- [Antioxidant](/ayurveda-atlas/reference/antioxidant/): Modulation of Keap-1/Nrf2 pathway; reduction of pro-inflammatory markers IL-1beta, IL-6, MCP-1, and TNF-alpha.
+- [Antioxidant](/nighantu/reference/antioxidant/): Modulation of Keap-1/Nrf2 pathway; reduction of pro-inflammatory markers IL-1beta, IL-6, MCP-1, and TNF-alpha.
 - Dopaminergic activity: Enhancement of D2 receptor activity.
 - NMDA receptor modulation: Reduced expression of N-methyl-D-aspartate receptor.
 - Predicted therapeutic targets: Protein kinase C (alpha, delta, epsilon), Androgen Receptor, COX-2 (PTGS-2), and Phosphodiesterase-4D (PDE4D).
@@ -87,7 +87,7 @@ Classified as Balya (strength-promoting), Brimhana (nourishing), and Rasayana (r
 - **Effects of Ashwagandha on Physical Performance: Systematic Review and Bayesian Meta-Analysis** (2021): 13 studies analyzed; medium overall effect size for strength/power improvements in healthy individuals with ashwagandha supplementation.
 - **Effect of Ashwagandha Extract on Sleep: Systematic Review and Meta-Analysis** (2021): 5 RCTs with 400 participants showed small but significant improvement in overall sleep. Effects most prominent in adults with insomnia, at 600 mg/day dosage, over 8-week treatment duration.
 - **Ashwagandha Supplementation for Anxiety and Stress: Systematic Review and Meta-Analysis** (2022): 12 eligible papers with 1,002 participants demonstrated that ashwagandha supplementation significantly reduced anxiety and stress levels compared to placebo.
-- **Effects of Ashwagandha on Stress and Anxiety: Systematic Review and Meta-Analysis** (2024): Updated meta-analysis confirming significant [anxiolytic](/ayurveda-atlas/reference/anxiolytic/) and stress-reducing effects of ashwagandha across multiple randomized controlled trials.
+- **Effects of Ashwagandha on Stress and Anxiety: Systematic Review and Meta-Analysis** (2024): Updated meta-analysis confirming significant [anxiolytic](/nighantu/reference/anxiolytic/) and stress-reducing effects of ashwagandha across multiple randomized controlled trials.
 - **Withania somnifera Effects on Mental Health in Individuals with Mental Disorders: Systematic Review and Meta-Analysis** (2025): 14 studies with 360 participants found evidence supporting effectiveness in treating anxiety symptoms in individuals with diagnosed mental disorders.
 - **Effects of Ashwagandha on Mental Health in Adults: Systematic Review and Dose-Response Meta-Analysis of RCTs** (2026): Dose-response meta-analysis confirms ashwagandha holds promising potential in alleviating symptoms of stress, anxiety, and depression, with dose-dependent effects identified.
 
@@ -159,21 +159,21 @@ Root powder: 3-6g/day; Standardized extract (2.5-5% withanolides): 300-600mg/day
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (root powder), Capsule, Tablet, Ashwagandha [Ghrita](/ayurveda-atlas/herb/ghrita/), [Ashwagandharishta](/ayurveda-atlas/formulation/ashwagandharishta/) (fermented), Avaleha (confection), Granules, Nanoparticle formulations
+**Dosage Forms:** Churna (root powder), Capsule, Tablet, Ashwagandha [Ghrita](/nighantu/herb/ghrita/), [Ashwagandharishta](/nighantu/formulation/ashwagandharishta/) (fermented), Avaleha (confection), Granules, Nanoparticle formulations
 
 **Standard Dosage:** 3-6g root powder twice daily with warm milk; 300-600mg standardized extract (withanolides) twice daily; 15-30ml Ashwagandharishta after meals
 
-**Bioavailability:** Moderate oral bioavailability for withanolides (~20-30% for withaferin A). Withanoside IV is a prodrug converted to sominone by intestinal glucosidases. Cyclodextrin complexation improves withanolide solubility 3-5x. KSM-66 (full-spectrum root extract) and Sensoril (root + leaf extract) show clinically validated bioavailability. Milk (Kshirapaka) as anupana enhances absorption of lipophilic withanolides by 2-3x. [Piperine](/ayurveda-atlas/reference/piperine/) co-administration increases bioavailability by 30-40%. Phytosome technology (withanolide-phospholipid complex) shows 5x enhancement.
+**Bioavailability:** Moderate oral bioavailability for withanolides (~20-30% for withaferin A). Withanoside IV is a prodrug converted to sominone by intestinal glucosidases. Cyclodextrin complexation improves withanolide solubility 3-5x. KSM-66 (full-spectrum root extract) and Sensoril (root + leaf extract) show clinically validated bioavailability. Milk (Kshirapaka) as anupana enhances absorption of lipophilic withanolides by 2-3x. [Piperine](/nighantu/reference/piperine/) co-administration increases bioavailability by 30-40%. Phytosome technology (withanolide-phospholipid complex) shows 5x enhancement.
 
-**Optimal Timing:** At bedtime with warm milk for sleep and rejuvenation; morning and evening for [adaptogenic](/ayurveda-atlas/reference/adaptogenic/)/stress management; before meals for general health
+**Optimal Timing:** At bedtime with warm milk for sleep and rejuvenation; morning and evening for [adaptogenic](/nighantu/reference/adaptogenic/)/stress management; before meals for general health
 
-**Standardized Extract:** Root extract (KSM-66): standardized to minimum 5% withanolides by HPLC, full-spectrum. Sensoril (root + leaf): standardized to minimum 10% withanolide [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) and 32% oligosaccharides. Withanolide-enriched extract: minimum 8% total withanolides. Specify withaferin A content separately.
+**Standardized Extract:** Root extract (KSM-66): standardized to minimum 5% withanolides by HPLC, full-spectrum. Sensoril (root + leaf): standardized to minimum 10% withanolide [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) and 32% oligosaccharides. Withanolide-enriched extract: minimum 8% total withanolides. Specify withaferin A content separately.
 
 **Shelf Life:** 2 years (root powder); 3 years (standardized extract capsules/tablets); 5 years (Ashwagandharishta); 2 years (Ghrita)
 
 **Storage:** Airtight containers, cool and dry, below 25°C. Root powder with desiccant. Extract capsules in blister packs preferred for moisture protection. Ashwagandharishta in amber glass at room temperature.
 
-**Marker Compounds:** Withaferin A, Withanolide A, Withanolide D, Withanoside IV, Withanoside V, 12-Deoxywithastramonolide, [Withanone](/ayurveda-atlas/glossary/compounds-t-z/#withanone), Sitoindosides VII-X, Ashwagandhanolide
+**Marker Compounds:** Withaferin A, Withanolide A, Withanolide D, Withanoside IV, Withanoside V, 12-Deoxywithastramonolide, [Withanone](/nighantu/glossary/compounds-t-z/#withanone), Sitoindosides VII-X, Ashwagandhanolide
 
 ### Extraction Methods
 
@@ -185,9 +185,9 @@ Root powder: 3-6g/day; Standardized extract (2.5-5% withanolides): 300-600mg/day
 
 ### Synergistic Combinations
 
-- With [Brahmi](/ayurveda-atlas/herb/brahmi/) for cognitive enhancement and stress management
-- With [Shatavari](/ayurveda-atlas/herb/shatavari/) for adaptogenic synergy and reproductive health
-- With [Arjuna](/ayurveda-atlas/herb/arjuna/) for cardioprotection
-- With Amalaki and [Guduchi](/ayurveda-atlas/herb/guduchi/) for Rasayana (rejuvenation)
+- With [Brahmi](/nighantu/herb/brahmi/) for cognitive enhancement and stress management
+- With [Shatavari](/nighantu/herb/shatavari/) for adaptogenic synergy and reproductive health
+- With [Arjuna](/nighantu/herb/arjuna/) for cardioprotection
+- With Amalaki and [Guduchi](/nighantu/herb/guduchi/) for Rasayana (rejuvenation)
 - With warm milk and ghee as classic Rasayana preparation
 - With Kapikacchu for male reproductive health

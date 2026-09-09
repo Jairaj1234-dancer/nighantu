@@ -19,7 +19,7 @@ productHints: []
 words: 332
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Dashamula/meta-analysis.md"
 ---
-Classical group-dravya (Sanskrit *dasha* = ten, *mula* = root) — the ten-root formula cited in Charaka, Sushruta, Ashtanga Hridaya and Sharangadhara as the primary Vata-pacifying root ensemble. Appears across Ayurvedic kashayas, arishtas, tailas, ghritas and as the decoction base in classical Avaleha pharmacy, including [Chyawanprash](/ayurveda-atlas/formulation/chyawanprash/) and Chyawanprash Royale.
+Classical group-dravya (Sanskrit *dasha* = ten, *mula* = root) — the ten-root formula cited in Charaka, Sushruta, Ashtanga Hridaya and Sharangadhara as the primary Vata-pacifying root ensemble. Appears across Ayurvedic kashayas, arishtas, tailas, ghritas and as the decoction base in classical Avaleha pharmacy, including [Chyawanprash](/nighantu/formulation/chyawanprash/) and Chyawanprash Royale.
 
 ## The ten roots
 
@@ -58,7 +58,7 @@ Broad anti-inflammatory, analgesic, bronchodilator, and immunomodulatory activit
 
 ## Use in Chyawanprash
 
-Dashamula is a core component of the **kashaya phase** — the ten-root decoction in which [Amalaki](/ayurveda-atlas/herb/amla/) fruit is boiled during Phase 1 of classical Chyawanprash pharmacy. In Royale positioning, Dashamula is classified as **standard high-quality classical-grade**, not a Royale-tier premium-provenance ingredient.
+Dashamula is a core component of the **kashaya phase** — the ten-root decoction in which [Amalaki](/nighantu/herb/amla/) fruit is boiled during Phase 1 of classical Chyawanprash pharmacy. In Royale positioning, Dashamula is classified as **standard high-quality classical-grade**, not a Royale-tier premium-provenance ingredient.
 
 ## Safety
 

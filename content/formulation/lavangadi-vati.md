@@ -23,16 +23,16 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Lavangadi-Vati/meta
 
 | Language | Name |
 |----------|------|
-| English | [Lavangadi Vati](/ayurveda-atlas/formulation/lavangadi-vati/) |
+| English | [Lavangadi Vati](/nighantu/formulation/lavangadi-vati/) |
 
 ## Key Ingredients
 
-- [Lavanga](/ayurveda-atlas/herb/lavanga/) (Syzygium aromaticum - Clove)
-- [Khadira](/ayurveda-atlas/herb/khadira/) (Acacia catechu) heartwood extract
-- [Bibhitaki](/ayurveda-atlas/herb/bibhitaki/) (Terminalia bellirica) fruit rind
-- Maricha (Piper nigrum - [Black Pepper](/ayurveda-atlas/herb/black-pepper/))
-- [Pippali](/ayurveda-atlas/herb/pippali/) (Piper longum - Long Pepper)
-- Shunthi ([Zingiber](/ayurveda-atlas/herb/zingiber/) officinale - [Ginger](/ayurveda-atlas/herb/ginger/))
+- [Lavanga](/nighantu/herb/lavanga/) (Syzygium aromaticum - Clove)
+- [Khadira](/nighantu/herb/khadira/) (Acacia catechu) heartwood extract
+- [Bibhitaki](/nighantu/herb/bibhitaki/) (Terminalia bellirica) fruit rind
+- Maricha (Piper nigrum - [Black Pepper](/nighantu/herb/black-pepper/))
+- [Pippali](/nighantu/herb/pippali/) (Piper longum - Long Pepper)
+- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale - [Ginger](/nighantu/herb/ginger/))
 - Twak (Cinnamomum zeylanicum - Cinnamon)
 - Babool (Acacia arabica) decoction - as binding agent
 
@@ -42,24 +42,24 @@ Sharangdhara Samhita (Madhyama Khanda); also described in Bhaishajya Ratnavali (
 
 ## How does it work?
 
-- [Expectorant](/ayurveda-atlas/reference/expectorant/) and mucolytic: [Eugenol](/ayurveda-atlas/glossary/compounds-d-g/#eugenol) from [Lavanga](/ayurveda-atlas/herb/lavanga/) (clove) and warming herbs dilute thick mucus in the lungs, soothe airways, and facilitate expectoration of respiratory secretions
-- Anti-inflammatory throat and lung action: Combined eugenol, gingerols, and [piperine](/ayurveda-atlas/reference/piperine/) reduce inflammation in the throat, bronchi, and lung tissue, easing pain and preventing pus formation
-- [Antimicrobial](/ayurveda-atlas/reference/antimicrobial/) defense: Eugenol, piperine, and [catechins](/ayurveda-atlas/glossary/compounds-c-d/#catechins) from [Khadira](/ayurveda-atlas/herb/khadira/) provide broad-spectrum antimicrobial activity against respiratory pathogens (Streptococcus mutans, Staphylococcus aureus)
-- Kapha dissolution: Hot potency (Ushna Virya) of [Trikatu](/ayurveda-atlas/herb/trikatu/) and clove targets Kapha imbalances in the respiratory tract, easing cough, cold, and congestion
-- [Immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) action: Combined ingredients demonstrate antiallergic and immunomodulatory properties, supporting immune defense against respiratory infections
+- [Expectorant](/nighantu/reference/expectorant/) and mucolytic: [Eugenol](/nighantu/glossary/compounds-d-g/#eugenol) from [Lavanga](/nighantu/herb/lavanga/) (clove) and warming herbs dilute thick mucus in the lungs, soothe airways, and facilitate expectoration of respiratory secretions
+- Anti-inflammatory throat and lung action: Combined eugenol, gingerols, and [piperine](/nighantu/reference/piperine/) reduce inflammation in the throat, bronchi, and lung tissue, easing pain and preventing pus formation
+- [Antimicrobial](/nighantu/reference/antimicrobial/) defense: Eugenol, piperine, and [catechins](/nighantu/glossary/compounds-c-d/#catechins) from [Khadira](/nighantu/herb/khadira/) provide broad-spectrum antimicrobial activity against respiratory pathogens (Streptococcus mutans, Staphylococcus aureus)
+- Kapha dissolution: Hot potency (Ushna Virya) of [Trikatu](/nighantu/herb/trikatu/) and clove targets Kapha imbalances in the respiratory tract, easing cough, cold, and congestion
+- [Immunomodulatory](/nighantu/reference/immunomodulatory/) action: Combined ingredients demonstrate antiallergic and immunomodulatory properties, supporting immune defense against respiratory infections
 
 ## Which traditional uses are supported by research?
 
 - Cough and respiratory infection management validated through demonstrated antimicrobial activity against S. mutans and S. aureus and immunomodulatory properties
 - Throat irritation and sore throat relief validated through demulcent, anti-inflammatory, and expectorant mechanisms
-- Oral health (dental pain, oral infections) validated through eugenol's well-established [analgesic](/ayurveda-atlas/reference/analgesic/) and antimicrobial properties
+- Oral health (dental pain, oral infections) validated through eugenol's well-established [analgesic](/nighantu/reference/analgesic/) and antimicrobial properties
 - Kapha-related respiratory congestion validated through mucolytic and warming mechanisms of combined heating ingredients
 
 ## What do recent clinical trials show?
 
-- **[Lavangadi Vati](/ayurveda-atlas/formulation/lavangadi-vati/) - An Ayurvedic Epitome for Communicable respiratory diseases** (2022): Comprehensive evaluation demonstrated [antipyretic](/ayurveda-atlas/reference/antipyretic/), antiallergic, immunomodulatory, anti-inflammatory, and analgesic properties relevant to respiratory infections.
-- **In vitro antimicrobial assay of [Lavangadi Vati](/ayurveda-atlas/formulation/lavangadi-vati/) extract** (2020): Extract demonstrated inhibitory zones against Streptococcus mutans and Staphylococcus aureus, validating potential in oral and respiratory infection management.
-- **Development and Evaluation of [Lavangadi Vati](/ayurveda-atlas/formulation/lavangadi-vati/) in modified dosage form** (2021): Pharmaceutical development study explored optimized delivery forms maintaining the formulation's demulcent, anti-inflammatory, and expectorant properties while improving patient compliance.
+- **[Lavangadi Vati](/nighantu/formulation/lavangadi-vati/) - An Ayurvedic Epitome for Communicable respiratory diseases** (2022): Comprehensive evaluation demonstrated [antipyretic](/nighantu/reference/antipyretic/), antiallergic, immunomodulatory, anti-inflammatory, and analgesic properties relevant to respiratory infections.
+- **In vitro antimicrobial assay of [Lavangadi Vati](/nighantu/formulation/lavangadi-vati/) extract** (2020): Extract demonstrated inhibitory zones against Streptococcus mutans and Staphylococcus aureus, validating potential in oral and respiratory infection management.
+- **Development and Evaluation of [Lavangadi Vati](/nighantu/formulation/lavangadi-vati/) in modified dosage form** (2021): Pharmaceutical development study explored optimized delivery forms maintaining the formulation's demulcent, anti-inflammatory, and expectorant properties while improving patient compliance.
 
 ## Recent safety updates
 
@@ -81,7 +81,7 @@ Sharangdhara Samhita (Madhyama Khanda); also described in Bhaishajya Ratnavali (
 
 **Standard Dosage:** 1-2 tablets to dissolve in mouth
 
-**Bioavailability:** Tablet/pill form provides controlled disintegration; some vatis use honey/[guggulu](/ayurveda-atlas/formulation/guggulu/) as bioenhancing binders
+**Bioavailability:** Tablet/pill form provides controlled disintegration; some vatis use honey/[guggulu](/nighantu/formulation/guggulu/) as bioenhancing binders
 
 **Optimal Timing:** Before or after meals as indicated
 
@@ -89,7 +89,7 @@ Sharangdhara Samhita (Madhyama Khanda); also described in Bhaishajya Ratnavali (
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
-**Marker Compounds:** Eugenol, [Cineole](/ayurveda-atlas/glossary/compounds-c-d/#cineole)
+**Marker Compounds:** Eugenol, [Cineole](/nighantu/glossary/compounds-c-d/#cineole)
 
 **Quality Parameters:** Weight variation ±5%, disintegration <30 min, friability <1%, marker: Eugenol, Cineole
 
@@ -97,4 +97,4 @@ Sharangdhara Samhita (Madhyama Khanda); also described in Bhaishajya Ratnavali (
 
 ### Synergistic Combinations
 
-- Key herbs: [Lavanga](/ayurveda-atlas/herb/lavanga/) (clove), Karpura, [Jatiphala](/ayurveda-atlas/herb/jatiphala/)
+- Key herbs: [Lavanga](/nighantu/herb/lavanga/) (clove), Karpura, [Jatiphala](/nighantu/herb/jatiphala/)

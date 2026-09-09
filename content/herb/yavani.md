@@ -29,7 +29,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Yavani/meta-analysis.md"
 ## Key Phytochemical Constituents
 
 - Thymol (major active, 35-60% of essential oil)
-- [Carvacrol](/ayurveda-atlas/glossary/compounds-a-c/#carvacrol)
+- [Carvacrol](/nighantu/glossary/compounds-a-c/#carvacrol)
 - Gamma-terpinene
 - Para-cymene
 - Alpha-pinene and beta-pinene
@@ -37,22 +37,22 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Yavani/meta-analysis.md"
 
 ## How does it work?
 
-- [Antimicrobial](/ayurveda-atlas/reference/antimicrobial/) activity through thymol-mediated disruption of bacterial cell membrane integrity and inhibition of efflux pumps
-- [Antispasmodic](/ayurveda-atlas/glossary/pharmacology/#antispasmodic) and bronchodilatory effect via calcium channel blockade and anticholinergic smooth muscle relaxation
-- [Antihypertensive](/ayurveda-atlas/glossary/pharmacology/#antihypertensive) mechanism through thymol-mediated vasodilation and ACE inhibitory activity
+- [Antimicrobial](/nighantu/reference/antimicrobial/) activity through thymol-mediated disruption of bacterial cell membrane integrity and inhibition of efflux pumps
+- [Antispasmodic](/nighantu/glossary/pharmacology/#antispasmodic) and bronchodilatory effect via calcium channel blockade and anticholinergic smooth muscle relaxation
+- [Antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive) mechanism through thymol-mediated vasodilation and ACE inhibitory activity
 - Digestive stimulation through enhancement of digestive enzyme secretion and bile flow promotion
 
 ## Which traditional uses are supported by research?
 
 - Digestive stimulant and carminative (Deepana-Pachana) - strongly validated through enhanced enzyme secretion and antispasmodic activity
 - Anti-flatulence (Anaha-nashaka) - confirmed through antispasmodic and carminative effects reducing bloating and gas
-- Anti-cough and respiratory (Kasa-Shvasa-hara) - validated bronchodilatory and [expectorant](/ayurveda-atlas/reference/expectorant/) effects
+- Anti-cough and respiratory (Kasa-Shvasa-hara) - validated bronchodilatory and [expectorant](/nighantu/reference/expectorant/) effects
 - Anti-parasitic and anthelmintic (Krimighna) - confirmed nematicidal and anthelmintic activities of thymol against intestinal parasites
 
 ## What do recent clinical trials show?
 
 - **Unlocking the food treasures: Trachyspermum ammi - A comprehensive exploration from field to pharmacology** (2024): Comprehensive review covering morphology, food processing, chemical constituents, pharmacological significance, and novel dosage forms; highlighted emerging nanoencapsulation approaches for enhanced bioavailability of thymol.
-- **Emerging Traditional and Pharmacological Health Benefits of Trachyspermum ammi ([Ajwain](/ayurveda-atlas/herb/ajwain/)): Future Aspects** (2025): Highlighted emerging evidence for applications in neurodegenerative diseases, cancer, and metabolic disorders; advanced drug delivery systems including lipid-based formulations discussed.
+- **Emerging Traditional and Pharmacological Health Benefits of Trachyspermum ammi ([Ajwain](/nighantu/herb/ajwain/)): Future Aspects** (2025): Highlighted emerging evidence for applications in neurodegenerative diseases, cancer, and metabolic disorders; advanced drug delivery systems including lipid-based formulations discussed.
 - **Medicinal and Nutritional Importance of Trachyspermum ammi in Human Health** (2025): Reviewed comprehensive therapeutic potential including antibacterial, antifungal, antinociceptive, cytotoxic, antihypertensive, antispasmodic, bronchodilating, anthelmintic, and antifilarial activities.
 
 ## Recent safety updates
@@ -81,15 +81,15 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Yavani/meta-analysis.md"
 
 **Bioavailability:** Thymol (primary active, 35-60% of essential oil) has excellent oral bioavailability (~60-70%) with rapid GI absorption. Undergoes hepatic glucuronidation and sulfation with renal excretion. p-Cymene (precursor/co-constituent) is well absorbed but rapidly metabolized. gamma-Terpinene has moderate bioavailability. Thymol has significant antibacterial activity even at sub-MIC systemic concentrations. Local GI antimicrobial and carminative effects are pharmacologically important independent of systemic absorption.
 
-**Optimal Timing:** After meals for digestive/carminative action; before meals for appetite stimulation; [Ajwain](/ayurveda-atlas/herb/ajwain/) water (Ark) throughout the day for flatulence
+**Optimal Timing:** After meals for digestive/carminative action; before meals for appetite stimulation; [Ajwain](/nighantu/herb/ajwain/) water (Ark) throughout the day for flatulence
 
-**Standardized Extract:** Essential oil ([Ajwain](/ayurveda-atlas/herb/ajwain/) oil) standardized to >40% thymol by GC-FID; seed extract standardized to >3% thymol by HPLC; Satva (thymol crystals): >95% purity
+**Standardized Extract:** Essential oil ([Ajwain](/nighantu/herb/ajwain/) oil) standardized to >40% thymol by GC-FID; seed extract standardized to >3% thymol by HPLC; Satva (thymol crystals): >95% purity
 
 **Shelf Life:** Whole seeds: 24-36 months; Powder: 12-18 months; Essential oil: 24-36 months; Satva (thymol crystals): 36-48 months; Ark: 12-18 months
 
 **Storage:** Whole seeds in airtight containers at 15-25 deg C. Essential oil in amber glass, tightly sealed. Thymol crystals in airtight glass containers away from heat (melting point 49-51 deg C). Ark in glass bottles, protected from light.
 
-**Marker Compounds:** Thymol, p-Cymene, gamma-Terpinene, alpha-Pinene, beta-Pinene, Carvacrol, Terpinen-4-ol, [Limonene](/ayurveda-atlas/glossary/compounds-g-l/#limonene)
+**Marker Compounds:** Thymol, p-Cymene, gamma-Terpinene, alpha-Pinene, beta-Pinene, Carvacrol, Terpinen-4-ol, [Limonene](/nighantu/glossary/compounds-g-l/#limonene)
 
 ### Extraction Methods
 
@@ -102,8 +102,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Yavani/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Saindhava Lavana](/ayurveda-atlas/herb/saindhava-lavana/) (rock salt) - carminative and digestive synergy (Ajwain + Namak)
-- [Haritaki](/ayurveda-atlas/herb/haritaki/) - digestive and [laxative](/ayurveda-atlas/reference/laxative/) combination (Yavanyadi Churna)
-- [Hingu](/ayurveda-atlas/herb/hingu/) (asafoetida) - anti-flatulent synergy
-- Shunthi ([ginger](/ayurveda-atlas/herb/ginger/)) - comprehensive digestive stimulant formula
-- [Methi](/ayurveda-atlas/herb/methi/) (fenugreek) - gastric and metabolic combination
+- [Saindhava Lavana](/nighantu/herb/saindhava-lavana/) (rock salt) - carminative and digestive synergy (Ajwain + Namak)
+- [Haritaki](/nighantu/herb/haritaki/) - digestive and [laxative](/nighantu/reference/laxative/) combination (Yavanyadi Churna)
+- [Hingu](/nighantu/herb/hingu/) (asafoetida) - anti-flatulent synergy
+- Shunthi ([ginger](/nighantu/herb/ginger/)) - comprehensive digestive stimulant formula
+- [Methi](/nighantu/herb/methi/) (fenugreek) - gastric and metabolic combination

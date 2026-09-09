@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Granthiparni/meta-analys
 
 **Standard Dosage:** 3-5g powder twice daily; 50-100ml decoction twice daily; 10-15ml fresh juice; external application as needed. Limited modern dosage data - follow classical text guidelines.
 
-**Bioavailability:** Leonotis nepetifolia / Granthiparni (in some traditions identified with other species) - limited modern pharmacokinetic data. Contains diterpenoids (leonotinin-type), [flavonoids](/ayurveda-atlas/reference/flavonoids/), and [iridoids](/ayurveda-atlas/glossary/compounds-g-l/#iridoids). Diterpenoids from Lamiaceae family typically have moderate oral bioavailability (20-40%). Traditional preparations as Kashayam and Swarasa optimize water-soluble constituent extraction. Limited data necessitates conservative dosing recommendations. Enhancement strategies: standard approaches for diterpenoid-rich herbs (lipid-based formulations, [piperine](/ayurveda-atlas/reference/piperine/) co-administration).
+**Bioavailability:** Leonotis nepetifolia / Granthiparni (in some traditions identified with other species) - limited modern pharmacokinetic data. Contains diterpenoids (leonotinin-type), [flavonoids](/nighantu/reference/flavonoids/), and [iridoids](/nighantu/glossary/compounds-g-l/#iridoids). Diterpenoids from Lamiaceae family typically have moderate oral bioavailability (20-40%). Traditional preparations as Kashayam and Swarasa optimize water-soluble constituent extraction. Limited data necessitates conservative dosing recommendations. Enhancement strategies: standard approaches for diterpenoid-rich herbs (lipid-based formulations, [piperine](/nighantu/reference/piperine/) co-administration).
 
 **Optimal Timing:** Before meals with warm water as per classical guidelines; external paste applied 2-3 times daily to affected areas
 
@@ -59,18 +59,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Granthiparni/meta-analys
 
 **Storage:** Airtight containers in cool, dry place below 25 deg C. Limited stability data - conduct accelerated stability studies for any commercial formulation. Protect from moisture and light.
 
-**Marker Compounds:** Diterpenoids (leonotinin-type, if Leonotis sp.), Flavonoids, Iridoids, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), Ursolic acid
+**Marker Compounds:** Diterpenoids (leonotinin-type, if Leonotis sp.), Flavonoids, Iridoids, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Ursolic acid
 
 ### Extraction Methods
 
 - Fresh plant juice expression (Swarasa)
 - Aqueous decoction
 - Hydroalcoholic extraction (60:40 ethanol:water)
-- [Sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) processing for Taila
+- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) processing for Taila
 
 ### Synergistic Combinations
 
-- With [Haridra](/ayurveda-atlas/herb/haridra/) for anti-inflammatory topical applications
-- With [Guduchi](/ayurveda-atlas/herb/guduchi/) for immune support
-- With [Nimba](/ayurveda-atlas/herb/nimba/) for dermatological conditions
+- With [Haridra](/nighantu/herb/haridra/) for anti-inflammatory topical applications
+- With [Guduchi](/nighantu/herb/guduchi/) for immune support
+- With [Nimba](/nighantu/herb/nimba/) for dermatological conditions
 - With Kushtha (Saussurea) for skin disease management

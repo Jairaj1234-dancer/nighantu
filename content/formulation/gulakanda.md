@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Gulakanda/
 
 **Standard Dosage:** 10-20 g (1-2 teaspoons) once or twice daily, as per Unani/Ayurvedic classical texts
 
-**Bioavailability:** Sugar matrix provides instant energy and acts as carrier for rose [polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols). Gallic acid and [geraniol](/ayurveda-atlas/glossary/compounds-d-g/#geraniol) are well-absorbed orally. Rose phenolics have moderate-to-good oral bioavailability. Slow maceration process extracts water-soluble antioxidants effectively.
+**Bioavailability:** Sugar matrix provides instant energy and acts as carrier for rose [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols). Gallic acid and [geraniol](/nighantu/glossary/compounds-d-g/#geraniol) are well-absorbed orally. Rose phenolics have moderate-to-good oral bioavailability. Slow maceration process extracts water-soluble antioxidants effectively.
 
 **Optimal Timing:** After meals as a digestive, or at bedtime for its cooling (Sheeta Virya) properties. Especially useful in Pitta conditions and summer season.
 
@@ -57,9 +57,9 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Gulakanda/
 
 **Storage:** Store in airtight glass jars in a cool, dry place. Sun-set preparation should be sealed after maturation. Temperature not exceeding 25°C. Refrigeration extends shelf life.
 
-**Marker Compounds:** Geraniol, [Citronellol](/ayurveda-atlas/glossary/compounds-c-d/#citronellol), Gallic acid, [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/), [Kaempferol](/ayurveda-atlas/reference/kaempferol/), Cyanidin-3,5-diglucoside
+**Marker Compounds:** Geraniol, [Citronellol](/nighantu/glossary/compounds-c-d/#citronellol), Gallic acid, [Quercetin](/nighantu/reference/quercetinquercetin/), [Kaempferol](/nighantu/reference/kaempferol/), Cyanidin-3,5-diglucoside
 
-**Quality Parameters:** Total solids (NLT 70%), pH (3.5-5.0), moisture (<25%), total sugar, gallic acid content, total phenolics, total [flavonoids](/ayurveda-atlas/reference/flavonoids/), cyanidin content (rose pigments), geraniol content, microbial limits (TBC, yeast, mould), heavy metals, pesticide residues (rose petals are heavily sprayed — organic sourcing preferred)
+**Quality Parameters:** Total solids (NLT 70%), pH (3.5-5.0), moisture (<25%), total sugar, gallic acid content, total phenolics, total [flavonoids](/nighantu/reference/flavonoids/), cyanidin content (rose pigments), geraniol content, microbial limits (TBC, yeast, mould), heavy metals, pesticide residues (rose petals are heavily sprayed — organic sourcing preferred)
 
 **Vehicle (Anupana):** Can be taken with warm milk or cold water. Often mixed into paan (betel leaf).
 
@@ -67,5 +67,5 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Gulakanda/
 
 - Praval Pishti
 - Muktashukti Bhasma
-- [Avipattikar](/ayurveda-atlas/herb/avipattikar/) Churna
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) Churna
+- [Avipattikar](/nighantu/herb/avipattikar/) Churna
+- [Shatavari](/nighantu/herb/shatavari/) Churna

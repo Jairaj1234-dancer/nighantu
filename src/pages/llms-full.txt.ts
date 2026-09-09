@@ -6,7 +6,7 @@ import { abs, TAGLINE } from '../lib/site';
 /** Every monograph's answer block and key facts in one file. */
 export const GET: APIRoute = async () => {
   const out: string[] = [
-    '# Ayurveda Atlas, full text index',
+    '# Nighantu, full text index',
     '',
     TAGLINE,
     'Published by Age Ayurveda. Educational reference only, not medical advice.',

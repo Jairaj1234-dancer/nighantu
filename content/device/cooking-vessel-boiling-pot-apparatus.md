@@ -19,7 +19,7 @@ productHints: []
 words: 149
 srcRel: "Ayurveda/Medical-Devices/Preparation-and-Pharmaceutical-Equipment/Cooking-Vessel-Boiling-Pot-Apparatus/device-info.md"
 ---
-Standard cooking/boiling vessels used for preparing decoctions (Kashaya/Kwatha), medicated oils (Taila), medicated ghee ([Ghrita](/ayurveda-atlas/herb/ghrita/)), and other liquid preparations. Specific pot shapes and materials are prescribed for different preparations.
+Standard cooking/boiling vessels used for preparing decoctions (Kashaya/Kwatha), medicated oils (Taila), medicated ghee ([Ghrita](/nighantu/herb/ghrita/)), and other liquid preparations. Specific pot shapes and materials are prescribed for different preparations.
 
 ## Where is it described in the classical texts?
 
@@ -27,12 +27,12 @@ Sharangdhara Samhita Madhyama Khanda (all chapters on liquid preparations); Char
 
 ## How is it used traditionally?
 
-Preparation of Kashaya (decoction - reduced to 1/4), Hima (cold infusion), Phanta (hot infusion), Taila Paka (oil preparation), [Ghrita](/ayurveda-atlas/herb/ghrita/) Paka (ghee preparation), and Avaleha (confections).
+Preparation of Kashaya (decoction - reduced to 1/4), Hima (cold infusion), Phanta (hot infusion), Taila Paka (oil preparation), [Ghrita](/nighantu/herb/ghrita/) Paka (ghee preparation), and Avaleha (confections).
 
 ## Traditional materials
 
 - Earthenware (Mrit Patra) - preferred for Kashaya
-- Iron (Loha Patra) - for [Loha Bhasma](/ayurveda-atlas/herb/loha-bhasma/) processing
+- Iron (Loha Patra) - for [Loha Bhasma](/nighantu/herb/loha-bhasma/) processing
 - Copper (Tamra Patra)
 - Tin-coated vessels (Vanga)
 

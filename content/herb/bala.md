@@ -54,20 +54,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Bala/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Ephedrine](/ayurveda-atlas/glossary/compounds-d-g/#ephedrine)
-- [Pseudoephedrine](/ayurveda-atlas/glossary/compounds-o-q/#pseudoephedrine)
-- [Vasicinol](/ayurveda-atlas/glossary/compounds-t-z/#vasicinol)
-- [Phytosterols](/ayurveda-atlas/glossary/compounds-o-q/#phytosterols)
-- [Mucilage](/ayurveda-atlas/glossary/compounds-l-o/#mucilage)
+- [Ephedrine](/nighantu/glossary/compounds-d-g/#ephedrine)
+- [Pseudoephedrine](/nighantu/glossary/compounds-o-q/#pseudoephedrine)
+- [Vasicinol](/nighantu/glossary/compounds-t-z/#vasicinol)
+- [Phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols)
+- [Mucilage](/nighantu/glossary/compounds-l-o/#mucilage)
 
 ## Therapeutic Actions (Karma)
 
 - Nervine tonic
 - Anti-inflammatory
-- [Analgesic](/ayurveda-atlas/reference/analgesic/)
+- [Analgesic](/nighantu/reference/analgesic/)
 - Adaptogen
 - Strength promoter
-- [Diuretic](/ayurveda-atlas/reference/diuretic/)
+- [Diuretic](/nighantu/reference/diuretic/)
 
 ## How is it used traditionally?
 
@@ -103,21 +103,21 @@ Root powder: 3-6g/day; Oil (Bala Taila): external use
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Taila (oil), Kashayam (decoction), Capsule, Tablet, [Ghrita](/ayurveda-atlas/herb/ghrita/) (ghee preparation), Swarasa (fresh juice)
+**Dosage Forms:** Churna (powder), Taila (oil), Kashayam (decoction), Capsule, Tablet, [Ghrita](/nighantu/herb/ghrita/) (ghee preparation), Swarasa (fresh juice)
 
 **Standard Dosage:** 3-6g powder twice daily; 15-30ml decoction; Bala Taila for external use; 500mg standardized extract capsule
 
-**Bioavailability:** Ephedrine [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) show good oral bioavailability (>75%). Mucilaginous [polysaccharides](/ayurveda-atlas/glossary/compounds-o-q/#polysaccharides) may reduce absorption rate but extend duration. Fat-soluble constituents (phytosterols) benefit from lipid-based delivery (ghrita/taila). [Piperine](/ayurveda-atlas/reference/piperine/) co-administration increases alkaloid bioavailability by 25-30%.
+**Bioavailability:** Ephedrine [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) show good oral bioavailability (>75%). Mucilaginous [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides) may reduce absorption rate but extend duration. Fat-soluble constituents (phytosterols) benefit from lipid-based delivery (ghrita/taila). [Piperine](/nighantu/reference/piperine/) co-administration increases alkaloid bioavailability by 25-30%.
 
 **Optimal Timing:** Before meals with warm water or milk for strength-building; Taila applied warm in the morning for Vata disorders
 
-**Standardized Extract:** Root extract standardized to NLT 0.1% total alkaloids (as ephedrine); NLT 1.5% beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol); aqueous extract 10:1 ratio
+**Standardized Extract:** Root extract standardized to NLT 0.1% total alkaloids (as ephedrine); NLT 1.5% beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol); aqueous extract 10:1 ratio
 
 **Shelf Life:** 2 years (powder/capsule); 3 years (tablet); 5 years (Taila, properly prepared)
 
 **Storage:** Cool, dry place away from direct sunlight. Oil preparations in amber glass bottles. Powder in airtight containers to prevent moisture absorption due to mucilage.
 
-**Marker Compounds:** Ephedrine, Pseudoephedrine, Beta-sitosterol, [Stigmasterol](/ayurveda-atlas/reference/stigmasterol/), Palmitic acid, Linoleic acid, Mucilage polysaccharides
+**Marker Compounds:** Ephedrine, Pseudoephedrine, Beta-sitosterol, [Stigmasterol](/nighantu/reference/stigmasterol/), Palmitic acid, Linoleic acid, Mucilage polysaccharides
 
 ### Extraction Methods
 
@@ -129,8 +129,8 @@ Root powder: 3-6g/day; Oil (Bala Taila): external use
 
 ### Synergistic Combinations
 
-- With [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) for muscle strength and [Rasayana](/ayurveda-atlas/reference/rasayana/) (rejuvenation)
-- With [Dashamoola](/ayurveda-atlas/herb/dashamoola/) for musculoskeletal disorders
+- With [Ashwagandha](/nighantu/herb/ashwagandha/) for muscle strength and [Rasayana](/nighantu/reference/rasayana/) (rejuvenation)
+- With [Dashamoola](/nighantu/herb/dashamoola/) for musculoskeletal disorders
 - With Narayana Taila ingredients for pain management
-- With [Guduchi](/ayurveda-atlas/herb/guduchi/) for immune modulation
-- With [Shatavari](/ayurveda-atlas/herb/shatavari/) for female reproductive health
+- With [Guduchi](/nighantu/herb/guduchi/) for immune modulation
+- With [Shatavari](/nighantu/herb/shatavari/) for female reproductive health

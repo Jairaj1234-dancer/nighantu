@@ -23,21 +23,21 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Jatyadi-Tai
 
 | Language | Name |
 |----------|------|
-| English | [Jatyadi Taila](/ayurveda-atlas/formulation/jatyadi-taila/) |
+| English | [Jatyadi Taila](/nighantu/formulation/jatyadi-taila/) |
 
 ## Key Ingredients
 
-- [Jati](/ayurveda-atlas/herb/jati/) (Jasminum grandiflorum / Jasmine)
-- [Nimba](/ayurveda-atlas/herb/nimba/) (Azadirachta indica / [Neem](/ayurveda-atlas/herb/neem/))
-- [Haridra](/ayurveda-atlas/herb/haridra/) (Curcuma longa / [Turmeric](/ayurveda-atlas/herb/turmeric/))
-- [Manjistha](/ayurveda-atlas/herb/manjistha/) (Rubia cordifolia / Indian Madder)
-- [Haritaki](/ayurveda-atlas/herb/haritaki/) (Terminalia chebula / Chebulic Myrobalan)
-- [Karanja](/ayurveda-atlas/herb/karanja/) (Pongamia pinnata / Indian Beech)
-- [Daruharidra](/ayurveda-atlas/herb/daruharidra/) (Berberis aristata / Indian Barberry)
-- [Katuki](/ayurveda-atlas/herb/katuki/) (Picrorhiza kurroa)
-- [Patola](/ayurveda-atlas/herb/patola/) (Trichosanthes dioica / Pointed Gourd)
+- [Jati](/nighantu/herb/jati/) (Jasminum grandiflorum / Jasmine)
+- [Nimba](/nighantu/herb/nimba/) (Azadirachta indica / [Neem](/nighantu/herb/neem/))
+- [Haridra](/nighantu/herb/haridra/) (Curcuma longa / [Turmeric](/nighantu/herb/turmeric/))
+- [Manjistha](/nighantu/herb/manjistha/) (Rubia cordifolia / Indian Madder)
+- [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula / Chebulic Myrobalan)
+- [Karanja](/nighantu/herb/karanja/) (Pongamia pinnata / Indian Beech)
+- [Daruharidra](/nighantu/herb/daruharidra/) (Berberis aristata / Indian Barberry)
+- [Katuki](/nighantu/herb/katuki/) (Picrorhiza kurroa)
+- [Patola](/nighantu/herb/patola/) (Trichosanthes dioica / Pointed Gourd)
 - Siktha (Beeswax)
-- [Sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) ([Tila](/ayurveda-atlas/herb/tila/) taila) base
+- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) ([Tila](/nighantu/herb/tila/) taila) base
 
 ## Where is it described in the classical texts?
 
@@ -45,22 +45,22 @@ Sushruta Samhita (Chikitsa Sthana) and Ashtanga Hridayam. One of the premier Vra
 
 ## How does it work?
 
-- [Curcumin](/ayurveda-atlas/herb/curcumin/) from [Turmeric](/ayurveda-atlas/herb/turmeric/) promotes wound healing by upregulating TGF-beta and VEGF expression, enhancing collagen deposition, angiogenesis, and re-epithelialization
-- [Nimbidin](/ayurveda-atlas/glossary/compounds-l-o/#nimbidin) and [azadirachtin](/ayurveda-atlas/glossary/compounds-a-c/#azadirachtin) from [Neem](/ayurveda-atlas/herb/neem/) provide broad-spectrum [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) activity (>80% inhibition of common skin pathogens at 10% concentration), preventing wound infection
-- Karanjin (identified by HPTLC) from [Karanja](/ayurveda-atlas/herb/karanja/) provides anti-inflammatory and antimicrobial effects specifically targeting wound-colonizing bacteria
+- [Curcumin](/nighantu/herb/curcumin/) from [Turmeric](/nighantu/herb/turmeric/) promotes wound healing by upregulating TGF-beta and VEGF expression, enhancing collagen deposition, angiogenesis, and re-epithelialization
+- [Nimbidin](/nighantu/glossary/compounds-l-o/#nimbidin) and [azadirachtin](/nighantu/glossary/compounds-a-c/#azadirachtin) from [Neem](/nighantu/herb/neem/) provide broad-spectrum [antimicrobial](/nighantu/reference/antimicrobial/) activity (>80% inhibition of common skin pathogens at 10% concentration), preventing wound infection
+- Karanjin (identified by HPTLC) from [Karanja](/nighantu/herb/karanja/) provides anti-inflammatory and antimicrobial effects specifically targeting wound-colonizing bacteria
 - Beta-sitosterol and lupeol (identified by HPTLC) provide anti-inflammatory action and stimulate fibroblast proliferation, accelerating granulation tissue formation
 
 ## Which traditional uses are supported by research?
 
-- Chronic wound healing and venous ulcers - validated by three-arm RCT (2023) showing 20% faster wound area reduction compared to standard povidone-[iodine](/ayurveda-atlas/glossary/compounds-g-l/#iodine) dressings
+- Chronic wound healing and venous ulcers - validated by three-arm RCT (2023) showing 20% faster wound area reduction compared to standard povidone-[iodine](/nighantu/glossary/compounds-g-l/#iodine) dressings
 - Burn wound management - supported by in vivo studies demonstrating enhanced collagen deposition and epithelialization in excision wound models
-- Fissure-in-ano (anal fissures) wound healing - validated by clinical studies documenting accelerated healing when used alongside [Ksharasutra](/ayurveda-atlas/glossary/concepts-a-m/#ksharasutra) therapy
+- Fissure-in-ano (anal fissures) wound healing - validated by clinical studies documenting accelerated healing when used alongside [Ksharasutra](/nighantu/glossary/concepts-a-m/#ksharasutra) therapy
 
 ## What do recent clinical trials show?
 
-- **Wound healing efficacy of [Jatyadi Taila](/ayurveda-atlas/formulation/jatyadi-taila/): in vivo evaluation in rat excision wound model** (2011): Published in Journal of Ethnopharmacology/PubMed, the study demonstrated significant wound healing acceleration in rats, with enhanced collagen deposition, epithelialization, and wound contraction compared to control groups.
-- **Efficacy of Jatyadi, Madhughrita and honey tulle in wound management: three-arm RCT** (2023): Published in PMC, the randomized controlled trial comparing [Jatyadi Taila](/ayurveda-atlas/formulation/jatyadi-taila/) dressings vs. standard povidone-iodine for venous ulcers showed 20% faster wound area reduction in the Jatyadi group, with enhanced collagen deposition and angiogenesis on histopathology.
-- **QbD Optimized Nanoemulsion Based Topical Formulation of [Jatyadi Taila](/ayurveda-atlas/formulation/jatyadi-taila/) for enhanced wound healing** (2025): Published in Pharmaceutical Research (Springer), a nanoemulsion formulation of JT showed enhanced in vitro fibroblast proliferation and migration, with improved in vivo wound healing in full-thickness wound-bearing Wistar rats, demonstrating modern drug delivery can enhance traditional formulation efficacy.
+- **Wound healing efficacy of [Jatyadi Taila](/nighantu/formulation/jatyadi-taila/): in vivo evaluation in rat excision wound model** (2011): Published in Journal of Ethnopharmacology/PubMed, the study demonstrated significant wound healing acceleration in rats, with enhanced collagen deposition, epithelialization, and wound contraction compared to control groups.
+- **Efficacy of Jatyadi, Madhughrita and honey tulle in wound management: three-arm RCT** (2023): Published in PMC, the randomized controlled trial comparing [Jatyadi Taila](/nighantu/formulation/jatyadi-taila/) dressings vs. standard povidone-iodine for venous ulcers showed 20% faster wound area reduction in the Jatyadi group, with enhanced collagen deposition and angiogenesis on histopathology.
+- **QbD Optimized Nanoemulsion Based Topical Formulation of [Jatyadi Taila](/nighantu/formulation/jatyadi-taila/) for enhanced wound healing** (2025): Published in Pharmaceutical Research (Springer), a nanoemulsion formulation of JT showed enhanced in vitro fibroblast proliferation and migration, with improved in vivo wound healing in full-thickness wound-bearing Wistar rats, demonstrating modern drug delivery can enhance traditional formulation efficacy.
 
 ## Recent safety updates
 
@@ -82,15 +82,15 @@ Sushruta Samhita (Chikitsa Sthana) and Ashtanga Hridayam. One of the premier Vra
 
 **Standard Dosage:** Topical application on wounds, ulcers, fistula — sufficient quantity 1-2 times daily, as per AFI Part I
 
-**Bioavailability:** [Sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) base provides excellent wound penetration. [Sesamin](/ayurveda-atlas/glossary/compounds-q-t/#sesamin) and [sesamolin](/ayurveda-atlas/glossary/compounds-q-t/#sesamolin) from [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) add inherent anti-inflammatory activity. Oil vehicle maintains moist wound environment promoting granulation. Direct delivery of antimicrobials ([berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine), azadirachtin, [curcumin](/ayurveda-atlas/herb/curcumin/)) to wound bed.
+**Bioavailability:** [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) base provides excellent wound penetration. [Sesamin](/nighantu/glossary/compounds-q-t/#sesamin) and [sesamolin](/nighantu/glossary/compounds-q-t/#sesamolin) from [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) add inherent anti-inflammatory activity. Oil vehicle maintains moist wound environment promoting granulation. Direct delivery of antimicrobials ([berberine](/nighantu/glossary/compounds-a-c/#berberine), azadirachtin, [curcumin](/nighantu/herb/curcumin/)) to wound bed.
 
-**Optimal Timing:** After wound cleaning with [Triphala](/ayurveda-atlas/herb/triphala/) kwath, 1-2 times daily
+**Optimal Timing:** After wound cleaning with [Triphala](/nighantu/herb/triphala/) kwath, 1-2 times daily
 
 **Shelf Life:** 3 years from date of manufacture as per ASU guidelines for Taila
 
 **Storage:** Store in amber glass bottles in a cool, dry place. Temperature not exceeding 25°C. Enhanced microbial controls for wound-care product.
 
-**Marker Compounds:** [Berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine), Azadirachtin, [Curcumin](/ayurveda-atlas/herb/curcumin/), Karanjin, Sesamin, [Jasmone](/ayurveda-atlas/glossary/compounds-g-l/#jasmone)
+**Marker Compounds:** [Berberine](/nighantu/glossary/compounds-a-c/#berberine), Azadirachtin, [Curcumin](/nighantu/herb/curcumin/), Karanjin, Sesamin, [Jasmone](/nighantu/glossary/compounds-g-l/#jasmone)
 
 **Quality Parameters:** Acid value (<5), peroxide value (<10), saponification value, iodine value, refractive index, specific gravity, berberine content, azadirachtin, curcumin, rancidity test negative, sterility testing, HPTLC fingerprint, microbial limits (strict), heavy metals
 
@@ -98,7 +98,7 @@ Sushruta Samhita (Chikitsa Sthana) and Ashtanga Hridayam. One of the premier Vra
 
 ### Synergistic Combinations
 
-- Jatyadi [Ghrita](/ayurveda-atlas/herb/ghrita/)|Jatyadi Ghrita (ghee variant)
-- [Triphala](/ayurveda-atlas/herb/triphala/) Kwath (wound wash)
-- Kaishore [Guggulu](/ayurveda-atlas/formulation/guggulu/) (internal)
-- [Gandhaka](/ayurveda-atlas/glossary/concepts-a-m/#gandhaka) [Rasayana](/ayurveda-atlas/reference/rasayana/) (internal)
+- Jatyadi [Ghrita](/nighantu/herb/ghrita/)|Jatyadi Ghrita (ghee variant)
+- [Triphala](/nighantu/herb/triphala/) Kwath (wound wash)
+- Kaishore [Guggulu](/nighantu/formulation/guggulu/) (internal)
+- [Gandhaka](/nighantu/glossary/concepts-a-m/#gandhaka) [Rasayana](/nighantu/reference/rasayana/) (internal)

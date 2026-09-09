@@ -23,20 +23,20 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Sukumara-Kas
 
 | Language | Name |
 |----------|------|
-| English | [Sukumara Kashayam](/ayurveda-atlas/formulation/sukumara-kashayam/) |
+| English | [Sukumara Kashayam](/nighantu/formulation/sukumara-kashayam/) |
 
 ## Key Ingredients
 
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) (Withania somnifera)
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) (Asparagus racemosus)
-- [Eranda](/ayurveda-atlas/herb/eranda/) (Ricinus communis)
-- [Punarnava](/ayurveda-atlas/herb/punarnava/) (Boerhavia diffusa)
-- [Dashamoola](/ayurveda-atlas/herb/dashamoola/) (group of ten roots)
+- [Ashwagandha](/nighantu/herb/ashwagandha/) (Withania somnifera)
+- [Shatavari](/nighantu/herb/shatavari/) (Asparagus racemosus)
+- [Eranda](/nighantu/herb/eranda/) (Ricinus communis)
+- [Punarnava](/nighantu/herb/punarnava/) (Boerhavia diffusa)
+- [Dashamoola](/nighantu/herb/dashamoola/) (group of ten roots)
 - Payasya (Ipomoea digitata)
 - Krishnamoola (Piper longum root)
-- Sunthi ([Zingiber](/ayurveda-atlas/herb/zingiber/) officinale)
-- [Bala](/ayurveda-atlas/herb/bala/) (Sida cordifolia)
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) (Tinospora cordifolia)
+- Sunthi ([Zingiber](/nighantu/herb/zingiber/) officinale)
+- [Bala](/nighantu/herb/bala/) (Sida cordifolia)
+- [Guduchi](/nighantu/herb/guduchi/) (Tinospora cordifolia)
 
 ## Where is it described in the classical texts?
 
@@ -44,28 +44,28 @@ Sahasrayogam, Kashaya Yoga Prakarana; also referenced in Ashtanga Hridayam for t
 
 ## How does it work?
 
-- [Antispasmodic](/ayurveda-atlas/glossary/pharmacology/#antispasmodic) action on uterine and intestinal smooth muscle reduces menstrual cramps and abdominal pain
-- Potent [antioxidant](/ayurveda-atlas/reference/antioxidant/) activity (DPPH, FRAP, H2O2 scavenging) protects cells from oxidative damage
-- [Vata-balancing](/ayurveda-atlas/glossary/concepts-m-y/#vata-balancing) properties through [Dashamoola](/ayurveda-atlas/herb/dashamoola/) and [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) restore normal peristalsis and relieve constipation
-- Phytoestrogenic compounds from [Shatavari](/ayurveda-atlas/herb/shatavari/) and [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) support hormonal balance and reproductive health
+- [Antispasmodic](/nighantu/glossary/pharmacology/#antispasmodic) action on uterine and intestinal smooth muscle reduces menstrual cramps and abdominal pain
+- Potent [antioxidant](/nighantu/reference/antioxidant/) activity (DPPH, FRAP, H2O2 scavenging) protects cells from oxidative damage
+- [Vata-balancing](/nighantu/glossary/concepts-m-y/#vata-balancing) properties through [Dashamoola](/nighantu/herb/dashamoola/) and [Ashwagandha](/nighantu/herb/ashwagandha/) restore normal peristalsis and relieve constipation
+- Phytoestrogenic compounds from [Shatavari](/nighantu/herb/shatavari/) and [Ashwagandha](/nighantu/herb/ashwagandha/) support hormonal balance and reproductive health
 
 ## Which traditional uses are supported by research?
 
 - Dysmenorrhea and menstrual irregularity - validated by clinical observations showing antispasmodic and hormonal effects
-- Constipation and digestive disorders - supported by prokinetic action of [Dashamoola](/ayurveda-atlas/herb/dashamoola/) and [Eranda](/ayurveda-atlas/herb/eranda/) root constituents
+- Constipation and digestive disorders - supported by prokinetic action of [Dashamoola](/nighantu/herb/dashamoola/) and [Eranda](/nighantu/herb/eranda/) root constituents
 - Polycystic ovarian disease and uterine fibroids - partially validated by clinical case studies showing cyst size reduction
 - Infertility support - traditional use supported by phytoestrogenic activity of key ingredients
 
 ## What do recent clinical trials show?
 
-- **Antioxidant Study of One Ayurvedic Medicine, [Sukumara Kashayam](/ayurveda-atlas/formulation/sukumara-kashayam/)** (2017): Three antioxidant assays (DPPH, FRAP, and H2O2 scavenging) demonstrated significant antioxidant activity, suggesting free radical scavenging as a key mechanism of action for the 27-herb formulation.
-- **Efficacy of [Sukumara Kashayam](/ayurveda-atlas/formulation/sukumara-kashayam/) in Polycystic Ovarian Syndrome** (2019): Clinical observation showed reduction in ovarian cyst size and improved menstrual regularity in PCOS patients treated with [Sukumara Kashayam](/ayurveda-atlas/formulation/sukumara-kashayam/) over 3 months.
-- **Antispasmodic evaluation of [Sukumara Kashayam](/ayurveda-atlas/formulation/sukumara-kashayam/) constituents** (2020): In vitro smooth muscle relaxation assays confirmed the formulation's antispasmodic action on uterine tissue, correlating with traditional use for dysmenorrhea relief.
+- **Antioxidant Study of One Ayurvedic Medicine, [Sukumara Kashayam](/nighantu/formulation/sukumara-kashayam/)** (2017): Three antioxidant assays (DPPH, FRAP, and H2O2 scavenging) demonstrated significant antioxidant activity, suggesting free radical scavenging as a key mechanism of action for the 27-herb formulation.
+- **Efficacy of [Sukumara Kashayam](/nighantu/formulation/sukumara-kashayam/) in Polycystic Ovarian Syndrome** (2019): Clinical observation showed reduction in ovarian cyst size and improved menstrual regularity in PCOS patients treated with [Sukumara Kashayam](/nighantu/formulation/sukumara-kashayam/) over 3 months.
+- **Antispasmodic evaluation of [Sukumara Kashayam](/nighantu/formulation/sukumara-kashayam/) constituents** (2020): In vitro smooth muscle relaxation assays confirmed the formulation's antispasmodic action on uterine tissue, correlating with traditional use for dysmenorrhea relief.
 
 ## Recent safety updates
 
 - No known side effects at recommended dosage; overdose may induce gastric irritation. Should be used under Ayurvedic physician supervision.
-- In cases of shorter menstrual periods with heavy bleeding, [Sukumara Kashayam](/ayurveda-atlas/formulation/sukumara-kashayam/) may increase bleeding; contraindicated in menorrhagia without physician guidance.
+- In cases of shorter menstrual periods with heavy bleeding, [Sukumara Kashayam](/nighantu/formulation/sukumara-kashayam/) may increase bleeding; contraindicated in menorrhagia without physician guidance.
 - Individual sensitivities or allergies to specific herbal ingredients may exist, especially in Pitta-predominant conditions.
 
 ## What is it made of?
@@ -99,4 +99,4 @@ Sahasrayogam, Kashaya Yoga Prakarana; also referenced in Ashtanga Hridayam for t
 
 ### Synergistic Combinations
 
-- Classical combination of [Eranda](/ayurveda-atlas/herb/eranda/) mula, [Shatavari](/ayurveda-atlas/herb/shatavari/), [Triphala](/ayurveda-atlas/herb/triphala/), [Dashamoola](/ayurveda-atlas/herb/dashamoola/) provides synergistic therapeutic effect
+- Classical combination of [Eranda](/nighantu/herb/eranda/) mula, [Shatavari](/nighantu/herb/shatavari/), [Triphala](/nighantu/herb/triphala/), [Dashamoola](/nighantu/herb/dashamoola/) provides synergistic therapeutic effect

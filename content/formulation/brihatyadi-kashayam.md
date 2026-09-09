@@ -23,15 +23,15 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Brihatyadi-K
 
 | Language | Name |
 |----------|------|
-| English | [Brihatyadi Kashayam](/ayurveda-atlas/formulation/brihatyadi-kashayam/) |
+| English | [Brihatyadi Kashayam](/nighantu/formulation/brihatyadi-kashayam/) |
 
 ## Key Ingredients
 
-- [Brihati](/ayurveda-atlas/herb/brihati/) (Solanum indicum)
-- [Kantakari](/ayurveda-atlas/herb/kantakari/) (Solanum xanthocarpum)
-- [Prishniparni](/ayurveda-atlas/herb/prishniparni/) (Uraria picta)
+- [Brihati](/nighantu/herb/brihati/) (Solanum indicum)
+- [Kantakari](/nighantu/herb/kantakari/) (Solanum xanthocarpum)
+- [Prishniparni](/nighantu/herb/prishniparni/) (Uraria picta)
 - Shalaparni (Desmodium gangeticum)
-- [Gokshura](/ayurveda-atlas/herb/gokshura/) (Tribulus terrestris)
+- [Gokshura](/nighantu/herb/gokshura/) (Tribulus terrestris)
 
 ## Where is it described in the classical texts?
 
@@ -39,23 +39,23 @@ Ashtangahrudayam Chikitsasthana, Mutraghata Adhyaya 11/35. Also referenced in Ch
 
 ## How does it work?
 
-- [Diuretic](/ayurveda-atlas/reference/diuretic/) action of [Gokshura](/ayurveda-atlas/herb/gokshura/) improves urine flow and facilitates dissolution and passage of urinary calculi
-- Anti-inflammatory properties of [Brihati](/ayurveda-atlas/herb/brihati/) and [Kantakari](/ayurveda-atlas/herb/kantakari/) reduce urinary tract inflammation and cystitis
-- Coolant and diuretic properties of [Prishniparni](/ayurveda-atlas/herb/prishniparni/) support kidney function and reduce burning micturition
-- [Antimicrobial](/ayurveda-atlas/reference/antimicrobial/) activity of the combined formulation helps manage urinary tract infections
+- [Diuretic](/nighantu/reference/diuretic/) action of [Gokshura](/nighantu/herb/gokshura/) improves urine flow and facilitates dissolution and passage of urinary calculi
+- Anti-inflammatory properties of [Brihati](/nighantu/herb/brihati/) and [Kantakari](/nighantu/herb/kantakari/) reduce urinary tract inflammation and cystitis
+- Coolant and diuretic properties of [Prishniparni](/nighantu/herb/prishniparni/) support kidney function and reduce burning micturition
+- [Antimicrobial](/nighantu/reference/antimicrobial/) activity of the combined formulation helps manage urinary tract infections
 
 ## Which traditional uses are supported by research?
 
-- Urinary disorders (dysuria, retention) - validated by diuretic action studies on [Gokshura](/ayurveda-atlas/herb/gokshura/)
+- Urinary disorders (dysuria, retention) - validated by diuretic action studies on [Gokshura](/nighantu/herb/gokshura/)
 - Urinary calculi (stones) - supported by lithotriptic effects demonstrated in experimental models
 - Urinary tract infections - corroborated by antimicrobial activity of combined formulation
-- Respiratory conditions (adjunct use) - supported by anti-tussive and [expectorant](/ayurveda-atlas/reference/expectorant/) properties of [Brihati](/ayurveda-atlas/herb/brihati/) and [Kantakari](/ayurveda-atlas/herb/kantakari/)
+- Respiratory conditions (adjunct use) - supported by anti-tussive and [expectorant](/nighantu/reference/expectorant/) properties of [Brihati](/nighantu/herb/brihati/) and [Kantakari](/nighantu/herb/kantakari/)
 
 ## What do recent clinical trials show?
 
-- **Preliminary review of [Brihatyadi Kashayam](/ayurveda-atlas/formulation/brihatyadi-kashayam/) components** (2019): Review in Journal of Ayurveda and Integrative Medicine confirmed antimicrobial, anti-inflammatory, and [antioxidant](/ayurveda-atlas/reference/antioxidant/) properties of individual components.
-- **Diuretic and lithotriptic effects of [Gokshura](/ayurveda-atlas/herb/gokshura/) in urinary disorders** (2020): [Gokshura](/ayurveda-atlas/herb/gokshura/) (Tribulus terrestris) extract demonstrated significant diuretic and stone-dissolving properties in experimental urolithiasis models.
-- **Anti-inflammatory profile of Solanum indicum and S. xanthocarpum** (2021): Combined extracts showed anti-tussive, expectorant, antihistaminic, and [analgesic](/ayurveda-atlas/reference/analgesic/) properties with significant inhibition of inflammatory mediators.
+- **Preliminary review of [Brihatyadi Kashayam](/nighantu/formulation/brihatyadi-kashayam/) components** (2019): Review in Journal of Ayurveda and Integrative Medicine confirmed antimicrobial, anti-inflammatory, and [antioxidant](/nighantu/reference/antioxidant/) properties of individual components.
+- **Diuretic and lithotriptic effects of [Gokshura](/nighantu/herb/gokshura/) in urinary disorders** (2020): [Gokshura](/nighantu/herb/gokshura/) (Tribulus terrestris) extract demonstrated significant diuretic and stone-dissolving properties in experimental urolithiasis models.
+- **Anti-inflammatory profile of Solanum indicum and S. xanthocarpum** (2021): Combined extracts showed anti-tussive, expectorant, antihistaminic, and [analgesic](/nighantu/reference/analgesic/) properties with significant inhibition of inflammatory mediators.
 
 ## Recent safety updates
 
@@ -77,7 +77,7 @@ Ashtangahrudayam Chikitsasthana, Mutraghata Adhyaya 11/35. Also referenced in Ch
 
 **Standard Dosage:** 15-30 mL (liquid) or 2 tablets twice daily before meals, as per Sahasrayogam/AFI
 
-**Bioavailability:** Hot decoction form provides rapid absorption of steroidal [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) ([solasodine](/ayurveda-atlas/glossary/compounds-q-t/#solasodine)) and [saponins](/ayurveda-atlas/reference/saponins/). Oral bioavailability of solasodine is moderate — enhanced by hot aqueous medium.
+**Bioavailability:** Hot decoction form provides rapid absorption of steroidal [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) ([solasodine](/nighantu/glossary/compounds-q-t/#solasodine)) and [saponins](/nighantu/reference/saponins/). Oral bioavailability of solasodine is moderate — enhanced by hot aqueous medium.
 
 **Optimal Timing:** Before meals (Bhojana-purva), morning and evening
 
@@ -85,7 +85,7 @@ Ashtangahrudayam Chikitsasthana, Mutraghata Adhyaya 11/35. Also referenced in Ch
 
 **Storage:** Fresh kashayam: use same day. Concentrates: amber glass bottles at room temperature. Tablets: airtight containers at room temperature.
 
-**Marker Compounds:** Solasodine, [Solamargine](/ayurveda-atlas/glossary/compounds-q-t/#solamargine), [Solasonine](/ayurveda-atlas/glossary/compounds-q-t/#solasonine), [Diosgenin](/ayurveda-atlas/glossary/compounds-d-g/#diosgenin), [Carpesterol](/ayurveda-atlas/glossary/compounds-a-c/#carpesterol)
+**Marker Compounds:** Solasodine, [Solamargine](/nighantu/glossary/compounds-q-t/#solamargine), [Solasonine](/nighantu/glossary/compounds-q-t/#solasonine), [Diosgenin](/nighantu/glossary/compounds-d-g/#diosgenin), [Carpesterol](/nighantu/glossary/compounds-a-c/#carpesterol)
 
 **Quality Parameters:** pH, specific gravity, total solids, extractive values, solasodine content by HPLC, total alkaloids, HPTLC fingerprint, microbial limits, heavy metals
 
@@ -93,7 +93,7 @@ Ashtangahrudayam Chikitsasthana, Mutraghata Adhyaya 11/35. Also referenced in Ch
 
 ### Synergistic Combinations
 
-- [Dashamularishta](/ayurveda-atlas/formulation/dashamularishta/)
-- [Talisadi Churna](/ayurveda-atlas/formulation/talisadi-churna/)
-- [Sitopaladi Churna](/ayurveda-atlas/formulation/sitopaladi-churna/)
+- [Dashamularishta](/nighantu/formulation/dashamularishta/)
+- [Talisadi Churna](/nighantu/formulation/talisadi-churna/)
+- [Sitopaladi Churna](/nighantu/formulation/sitopaladi-churna/)
 - Kantakaryavaleha

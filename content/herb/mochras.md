@@ -31,15 +31,15 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mochras/meta-analysis.md"
 - Shamimicin (unique compound)
 - Bombasin and bombamalone
 - Bombamaloside (glycoside)
-- [Tannins](/ayurveda-atlas/reference/tannins/) (gallic acid, ellagic acid derivatives)
-- [Flavonoids](/ayurveda-atlas/reference/flavonoids/)
-- [Lupeol](/ayurveda-atlas/reference/lupeol/) and beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol) ([terpenoids](/ayurveda-atlas/glossary/compounds-t-z/#terpenoids)/[sterols](/ayurveda-atlas/glossary/compounds-q-t/#sterols))
+- [Tannins](/nighantu/reference/tannins/) (gallic acid, ellagic acid derivatives)
+- [Flavonoids](/nighantu/reference/flavonoids/)
+- [Lupeol](/nighantu/reference/lupeol/) and beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol) ([terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids)/[sterols](/nighantu/glossary/compounds-q-t/#sterols))
 
 ## How does it work?
 
-- Styptic and [hemostatic](/ayurveda-atlas/glossary/pharmacology/#hemostatic) action through tannin-mediated protein precipitation and vasoconstriction at wound sites
+- Styptic and [hemostatic](/nighantu/glossary/pharmacology/#hemostatic) action through tannin-mediated protein precipitation and vasoconstriction at wound sites
 - Anti-inflammatory activity via flavonoid-mediated inhibition of COX and LOX pathways
-- [Antioxidant](/ayurveda-atlas/reference/antioxidant/) mechanism through gallic acid and ellagic acid-mediated free radical scavenging
+- [Antioxidant](/nighantu/reference/antioxidant/) mechanism through gallic acid and ellagic acid-mediated free radical scavenging
 - Anti-diarrheal effect through astringent tannins reducing intestinal secretion and motility
 
 ## Which traditional uses are supported by research?
@@ -47,13 +47,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mochras/meta-analysis.md"
 - Hemostatic and styptic (Raktastambhana) - validated through astringent tannin-mediated hemostatic action in wound care
 - Anti-diarrheal (Atisara-nashaka) - confirmed through tannin-mediated reduction of intestinal secretion and hypermotility
 - Bone and tissue regeneration (Asthi-Sandhanakara) - traditional reputation as bone setter supported by anti-inflammatory and wound healing data
-- [Aphrodisiac](/ayurveda-atlas/glossary/pharmacology/#aphrodisiac) ([Vajikarana](/ayurveda-atlas/glossary/pharmacology/#vajikarana)) - traditional use of [Shalmali](/ayurveda-atlas/herb/shalmali/) resin for sexual health partially supported by nutritional and hormonal modulation studies
+- [Aphrodisiac](/nighantu/glossary/pharmacology/#aphrodisiac) ([Vajikarana](/nighantu/glossary/pharmacology/#vajikarana)) - traditional use of [Shalmali](/nighantu/herb/shalmali/) resin for sexual health partially supported by nutritional and hormonal modulation studies
 
 ## What do recent clinical trials show?
 
-- **Exploring the Therapeutic Potential of Bombax ceiba L. Flowers as Source of Functional Food Development** (2025): Reviewed therapeutic potential of Bombax ceiba including flowers and resin for functional food development; documented antioxidant, anti-inflammatory, and [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) properties.
+- **Exploring the Therapeutic Potential of Bombax ceiba L. Flowers as Source of Functional Food Development** (2025): Reviewed therapeutic potential of Bombax ceiba including flowers and resin for functional food development; documented antioxidant, anti-inflammatory, and [immunomodulatory](/nighantu/reference/immunomodulatory/) properties.
 - **Phytochemical analysis and antioxidant efficacy of the resin of Bombax ceiba (Salmali)** (2023): Confirmed significant antioxidant properties of the resin (Mochras) attributed to tannin and flavonoid content, validating traditional use as styptic and wound healing agent.
-- **Critical review on Bombax ceiba: phytochemistry, traditional uses, pharmacology, and toxicity** (2024): Comprehensive review documenting antioxidant, anti-inflammatory, anti-mutagenic, hypoglycemic, hypotensive, [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/), and fibrinolytic properties of various plant parts including resin.
+- **Critical review on Bombax ceiba: phytochemistry, traditional uses, pharmacology, and toxicity** (2024): Comprehensive review documenting antioxidant, anti-inflammatory, anti-mutagenic, hypoglycemic, hypotensive, [hepatoprotective](/nighantu/reference/hepatoprotective/), and fibrinolytic properties of various plant parts including resin.
 
 ## Recent safety updates
 
@@ -85,7 +85,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mochras/meta-analysis.md"
 
 **Storage:** Gum resin in airtight containers at room temperature; hygroscopic, protect from moisture. Bark powder below 25 deg C. Capsules in blister packs with desiccant. Topical preparations at 15-25 deg C.
 
-**Marker Compounds:** Lupeol, Shamimicin, Gallic acid, [Mangiferin](/ayurveda-atlas/glossary/compounds-l-o/#mangiferin), Bombax ceiba tannins, Beta-sitosterol, Hentriacontane, [Kaempferol](/ayurveda-atlas/reference/kaempferol/)
+**Marker Compounds:** Lupeol, Shamimicin, Gallic acid, [Mangiferin](/nighantu/glossary/compounds-l-o/#mangiferin), Bombax ceiba tannins, Beta-sitosterol, Hentriacontane, [Kaempferol](/nighantu/reference/kaempferol/)
 
 ### Extraction Methods
 
@@ -97,8 +97,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mochras/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Lodhra](/ayurveda-atlas/herb/lodhra/) (hemostatic and astringent synergy)
+- [Lodhra](/nighantu/herb/lodhra/) (hemostatic and astringent synergy)
 - Nagkesara (hemostatic combination)
 - Praval Pishti (astringent and cooling for bleeding disorders)
-- [Ashoka](/ayurveda-atlas/herb/ashoka/) (uterine tonic and menorrhagia)
+- [Ashoka](/nighantu/herb/ashoka/) (uterine tonic and menorrhagia)
 - Kutaja (antidiarrheal combination)

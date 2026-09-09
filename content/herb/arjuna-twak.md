@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Arjuna-Twak/meta-analysis
 
 | Language | Name |
 |----------|------|
-| English | [Arjuna](/ayurveda-atlas/herb/arjuna/) Twak |
+| English | [Arjuna](/nighantu/herb/arjuna/) Twak |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -49,17 +49,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Arjuna-Twak/meta-analysis
 
 **Standard Dosage:** 3-6g bark powder twice daily; 50-100ml decoction; 500mg-1g extract capsule; Kshirapaka preparation preferred
 
-**Bioavailability:** Same as [Arjuna](/ayurveda-atlas/herb/arjuna/) (this is the bark/Twak of Terminalia arjuna specifically designated). Arjunolic acid bioavailability ~8-12%. Kshirapaka enhances triterpene absorption significantly. Tannin-rich matrix provides sustained release of active compounds. [Piperine](/ayurveda-atlas/reference/piperine/) co-administration can enhance arjunolic acid bioavailability by 30-40%.
+**Bioavailability:** Same as [Arjuna](/nighantu/herb/arjuna/) (this is the bark/Twak of Terminalia arjuna specifically designated). Arjunolic acid bioavailability ~8-12%. Kshirapaka enhances triterpene absorption significantly. Tannin-rich matrix provides sustained release of active compounds. [Piperine](/nighantu/reference/piperine/) co-administration can enhance arjunolic acid bioavailability by 30-40%.
 
 **Optimal Timing:** Morning and evening with warm milk (Kshirapaka) for cardiovascular support. Continuous administration for chronic cardiac conditions.
 
-**Standardized Extract:** Bark extract standardized to minimum 2.5% arjunolic acid and minimum 18% total [tannins](/ayurveda-atlas/reference/tannins/) (as gallic acid). HPLC-verified arjunolic acid content for extract standardization.
+**Standardized Extract:** Bark extract standardized to minimum 2.5% arjunolic acid and minimum 18% total [tannins](/nighantu/reference/tannins/) (as gallic acid). HPLC-verified arjunolic acid content for extract standardization.
 
 **Shelf Life:** 2 years (bark powder); 3 years (capsules/tablets); 5 years (Ghana Vati in sealed packaging)
 
 **Storage:** Airtight containers, cool dry place, below 25°C. Protect from moisture — tannins are hygroscopic. Whole bark pieces store longer than powder.
 
-**Marker Compounds:** Arjunolic acid, Arjunic acid, [Arjunetin](/ayurveda-atlas/glossary/compounds-1-a/#arjunetin), Casuarinin, Gallic acid, Ellagic acid, Arjunaphthanol, [Friedelin](/ayurveda-atlas/glossary/compounds-d-g/#friedelin)
+**Marker Compounds:** Arjunolic acid, Arjunic acid, [Arjunetin](/nighantu/glossary/compounds-1-a/#arjunetin), Casuarinin, Gallic acid, Ellagic acid, Arjunaphthanol, [Friedelin](/nighantu/glossary/compounds-d-g/#friedelin)
 
 ### Extraction Methods
 
@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Arjuna-Twak/meta-analysis
 
 ### Synergistic Combinations
 
-- With [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) for cardiac strengthening
-- With [Punarnava](/ayurveda-atlas/herb/punarnava/) for congestive heart failure adjunct
+- With [Ashwagandha](/nighantu/herb/ashwagandha/) for cardiac strengthening
+- With [Punarnava](/nighantu/herb/punarnava/) for congestive heart failure adjunct
 - With Pushkaramoola for anginal symptoms
-- With [Dalchini](/ayurveda-atlas/herb/twak-cinnamon/) (cinnamon) for metabolic cardioprotection
+- With [Dalchini](/nighantu/herb/twak-cinnamon/) (cinnamon) for metabolic cardioprotection

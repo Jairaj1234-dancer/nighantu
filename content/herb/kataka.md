@@ -28,32 +28,32 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kataka/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Tannins](/ayurveda-atlas/reference/tannins/) (most abundant phytochemical class)
-- [Saponins](/ayurveda-atlas/reference/saponins/) ([galactomannan](/ayurveda-atlas/glossary/compounds-d-g/#galactomannan)-based)
-- [Alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) (strychnine-related, in lower amounts than S. nux-vomica)
-- [Flavonoids](/ayurveda-atlas/reference/flavonoids/) and phenols
+- [Tannins](/nighantu/reference/tannins/) (most abundant phytochemical class)
+- [Saponins](/nighantu/reference/saponins/) ([galactomannan](/nighantu/glossary/compounds-d-g/#galactomannan)-based)
+- [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) (strychnine-related, in lower amounts than S. nux-vomica)
+- [Flavonoids](/nighantu/reference/flavonoids/) and phenols
 - Lignins
-- [Sterols](/ayurveda-atlas/glossary/compounds-q-t/#sterols) and [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides)
+- [Sterols](/nighantu/glossary/compounds-q-t/#sterols) and [glycosides](/nighantu/glossary/compounds-g-l/#glycosides)
 
 ## How does it work?
 
 - Water purification via galactomannan protein-mediated coagulation and flocculation of suspended particles and microbes
 - Anti-inflammatory and antiarthritic action through inhibition of protein denaturation and membrane stabilization by tannin-rich fractions
-- Nephroprotective effect via [antioxidant](/ayurveda-atlas/reference/antioxidant/)-mediated protection of renal tubular cells against chemical toxins
-- [Antidiabetic](/ayurveda-atlas/reference/antidiabetic/) mechanism through alpha-glucosidase inhibition and improvement of insulin sensitivity
+- Nephroprotective effect via [antioxidant](/nighantu/reference/antioxidant/)-mediated protection of renal tubular cells against chemical toxins
+- [Antidiabetic](/nighantu/reference/antidiabetic/) mechanism through alpha-glucosidase inhibition and improvement of insulin sensitivity
 
 ## Which traditional uses are supported by research?
 
-- Water purification (Jala-shodhana) - strongly validated as natural coagulant and [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) agent for water treatment; extensively studied
-- Eye health ([Chakshushya](/ayurveda-atlas/herb/chakshushya/)) - traditional eye drops (Kataka seed water) supported by antimicrobial and anti-inflammatory data
+- Water purification (Jala-shodhana) - strongly validated as natural coagulant and [antimicrobial](/nighantu/reference/antimicrobial/) agent for water treatment; extensively studied
+- Eye health ([Chakshushya](/nighantu/herb/chakshushya/)) - traditional eye drops (Kataka seed water) supported by antimicrobial and anti-inflammatory data
 - Anti-diarrheal (Atisara-nashaka) - validated through tannin-mediated astringent and antimicrobial activity
-- Diabetes management (Prameha) - supported by preclinical antidiabetic studies showing blood [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose) reduction
+- Diabetes management (Prameha) - supported by preclinical antidiabetic studies showing blood [glucose](/nighantu/glossary/compounds-d-g/#glucose) reduction
 
 ## What do recent clinical trials show?
 
-- **The characteristics and efficiency of Strychnos potatorum as a medicinal plant and water purification agent: a review** (2025): Comprehensive review documenting dual application as water purification coagulant and medicinal plant; seed [proteins](/ayurveda-atlas/glossary/compounds-o-q/#proteins) act as effective natural coagulants and antimicrobial agents for water treatment.
+- **The characteristics and efficiency of Strychnos potatorum as a medicinal plant and water purification agent: a review** (2025): Comprehensive review documenting dual application as water purification coagulant and medicinal plant; seed [proteins](/nighantu/glossary/compounds-o-q/#proteins) act as effective natural coagulants and antimicrobial agents for water treatment.
 - **A systemic review on Ayurvedic and modern pharmacology of Strychnos potatorum Linn.** (2024): Systematic review validating traditional Ayurvedic applications through modern pharmacological evidence including antiarthritic, nephroprotective, antidiabetic, and anti-inflammatory activities.
-- **Strychnos potatorum: Phytochemical and pharmacological review** (2023): Documented comprehensive phytochemical profile with tannins, saponins, and alkaloids as major classes; validated antimicrobial, antidiarrheal, [antipyretic](/ayurveda-atlas/reference/antipyretic/), and contraceptive activities.
+- **Strychnos potatorum: Phytochemical and pharmacological review** (2023): Documented comprehensive phytochemical profile with tannins, saponins, and alkaloids as major classes; validated antimicrobial, antidiarrheal, [antipyretic](/nighantu/reference/antipyretic/), and contraceptive activities.
 
 ## Recent safety updates
 
@@ -92,7 +92,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kataka/meta-analysis.md"
 
 **Storage:** Store seeds and powder in airtight containers at 15-30°C. Protein-based extracts require refrigeration (2-8°C). Protect from insect infestation.
 
-**Marker Compounds:** Dimorphic acid, Mannose-specific lectin, Cationic polypeptides, Brucine (must be absent — distinguishes from S. nux-vomica), Diaboline, [Loganin](/ayurveda-atlas/glossary/compounds-l-o/#loganin), Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
+**Marker Compounds:** Dimorphic acid, Mannose-specific lectin, Cationic polypeptides, Brucine (must be absent — distinguishes from S. nux-vomica), Diaboline, [Loganin](/nighantu/glossary/compounds-l-o/#loganin), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
 
 ### Extraction Methods
 
@@ -103,7 +103,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kataka/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Triphala](/ayurveda-atlas/herb/triphala/) for eye wash formulations (Netra Prakshalana)
+- [Triphala](/nighantu/herb/triphala/) for eye wash formulations (Netra Prakshalana)
 - Saptamrit Lauha for ophthalmic combination
-- [Lodhra](/ayurveda-atlas/herb/lodhra/) for water purification enhancement
-- [Neem](/ayurveda-atlas/herb/neem/) for water disinfection synergy
+- [Lodhra](/nighantu/herb/lodhra/) for water purification enhancement
+- [Neem](/nighantu/herb/neem/) for water disinfection synergy

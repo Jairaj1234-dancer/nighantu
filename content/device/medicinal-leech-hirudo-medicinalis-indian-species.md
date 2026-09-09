@@ -32,7 +32,7 @@ Pitta and Rakta (blood) disorders, skin diseases, varicose veins, non-healing ul
 ## Traditional materials
 
 - Live Nirvisha (non-venomous) leeches
-- [Turmeric](/ayurveda-atlas/herb/turmeric/) water for leech care
+- [Turmeric](/nighantu/herb/turmeric/) water for leech care
 - Cotton for wound dressing
 
 ## Modern variants

@@ -71,7 +71,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nikochaka/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g dried powder twice daily; 15-20 mL decoction twice daily; external paste as directed
 
-**Bioavailability:** Limited modern pharmacokinetic data available. Traditional Ayurvedic texts indicate good absorption when administered with warm water (Ushna Jala Anupana). Alkaloid and tannin constituents expected to have moderate oral bioavailability (20-40%). Co-administration with [Pippali](/ayurveda-atlas/herb/pippali/) or [ginger](/ayurveda-atlas/herb/ginger/) may enhance absorption through bioenhancement.
+**Bioavailability:** Limited modern pharmacokinetic data available. Traditional Ayurvedic texts indicate good absorption when administered with warm water (Ushna Jala Anupana). Alkaloid and tannin constituents expected to have moderate oral bioavailability (20-40%). Co-administration with [Pippali](/nighantu/herb/pippali/) or [ginger](/nighantu/herb/ginger/) may enhance absorption through bioenhancement.
 
 **Optimal Timing:** Best taken before meals with warm water for digestive indications; after meals for systemic therapeutic effects.
 
@@ -81,7 +81,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nikochaka/meta-analysis.md"
 
 **Storage:** Store in airtight containers below 25 deg C, RH <60%, protected from light. Double-sealed polyethylene-lined containers recommended for bulk powder.
 
-**Marker Compounds:** Total [tannins](/ayurveda-atlas/reference/tannins/) (as tannic acid), Total phenolics (as gallic acid equivalents), Total [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids)
+**Marker Compounds:** Total [tannins](/nighantu/reference/tannins/) (as tannic acid), Total phenolics (as gallic acid equivalents), Total [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids)
 
 ### Extraction Methods
 
@@ -92,7 +92,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nikochaka/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Haridra](/ayurveda-atlas/herb/haridra/) (anti-inflammatory synergy)
-- [Triphala](/ayurveda-atlas/herb/triphala/) (enhanced detoxification)
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) ([immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) combination)
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) (gastroprotective synergy)
+- [Haridra](/nighantu/herb/haridra/) (anti-inflammatory synergy)
+- [Triphala](/nighantu/herb/triphala/) (enhanced detoxification)
+- [Guduchi](/nighantu/herb/guduchi/) ([immunomodulatory](/nighantu/reference/immunomodulatory/) combination)
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (gastroprotective synergy)

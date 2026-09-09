@@ -23,12 +23,12 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Kaharuba-Pishti/meta
 
 | Language | Name |
 |----------|------|
-| English | [Kaharuba Pishti](/ayurveda-atlas/herb/kaharuba-pishti/) |
+| English | [Kaharuba Pishti](/nighantu/herb/kaharuba-pishti/) |
 
 ## How does it work?
 
-- [Hemostatic](/ayurveda-atlas/glossary/pharmacology/#hemostatic) (Rakta Stambhaka): Succinic acid and mineral traces contribute to astringent and blood-coagulation promoting effects; used traditionally in bleeding disorders including hemorrhoids, bloody diarrhea, and excessive menstruation
-- Cardiotonic (Hridya): Succinic acid plays a role in the [citric acid](/ayurveda-atlas/glossary/compounds-c-d/#citric-acidcitric-acid) cycle (Krebs cycle) as succinate, supporting mitochondrial energy production in cardiac cells
+- [Hemostatic](/nighantu/glossary/pharmacology/#hemostatic) (Rakta Stambhaka): Succinic acid and mineral traces contribute to astringent and blood-coagulation promoting effects; used traditionally in bleeding disorders including hemorrhoids, bloody diarrhea, and excessive menstruation
+- Cardiotonic (Hridya): Succinic acid plays a role in the [citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid) cycle (Krebs cycle) as succinate, supporting mitochondrial energy production in cardiac cells
 - Anti-inflammatory: Succinic acid has documented anti-inflammatory properties; the amber matrix provides a slow-release delivery of this bioactive compound
 
 ## Which traditional uses are supported by research?
@@ -38,7 +38,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Kaharuba-Pishti/meta
 
 ## What do recent clinical trials show?
 
-- **Characterization and [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) study of Trinakantamani (Amber) Pishti** (2022): EDEX study showed Pishti particles reduced to 701nm from 1-2 micrometers raw size, potentially enhancing bioavailability. Heavy metals were below permissible limits. Microbial contamination within acceptable range. The nanoparticle size positions this as a form of traditional nanomedicine.
+- **Characterization and [antimicrobial](/nighantu/reference/antimicrobial/) study of Trinakantamani (Amber) Pishti** (2022): EDEX study showed Pishti particles reduced to 701nm from 1-2 micrometers raw size, potentially enhancing bioavailability. Heavy metals were below permissible limits. Microbial contamination within acceptable range. The nanoparticle size positions this as a form of traditional nanomedicine.
 - **Kaharva Pishti as Hridya (cardiotonic) and Rakta Stambhaka (hemostatic) formulation** (2018): Documented as a cardio-tonic and styptic formulation. Succinic acid content (3-8%) is the primary bioactive compound with documented anti-inflammatory and cellular energy-enhancing properties through mitochondrial support.
 
 ## Recent safety updates

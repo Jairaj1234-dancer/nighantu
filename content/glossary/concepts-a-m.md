@@ -16,7 +16,7 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 
 | Language | Name |
 |----------|------|
-| English | [Aja Dugdha](/ayurveda-atlas/glossary/concepts-a-m/#aja-dugdha) |
+| English | [Aja Dugdha](/nighantu/glossary/concepts-a-m/#aja-dugdha) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -57,11 +57,11 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 
 **Storage:** Refrigerated at 4°C
 
-**Marker Compounds:** A2 beta-casein, Medium-chain triglycerides, Calcium, [Phosphorus](/ayurveda-atlas/glossary/compounds-o-q/#phosphorus)
+**Marker Compounds:** A2 beta-casein, Medium-chain triglycerides, Calcium, [Phosphorus](/nighantu/glossary/compounds-o-q/#phosphorus)
 
-**Quality Parameters:** Fat content 3.5–4%, SNF >8%, no adulteration ([starch](/ayurveda-atlas/glossary/compounds-q-t/#starch)/urea negative)
+**Quality Parameters:** Fat content 3.5–4%, SNF >8%, no adulteration ([starch](/nighantu/glossary/compounds-q-t/#starch)/urea negative)
 
-**Vehicle (Anupana):** Used as anupana for [Rasayana](/ayurveda-atlas/reference/rasayana/) herbs and bhasmas
+**Vehicle (Anupana):** Used as anupana for [Rasayana](/nighantu/reference/rasayana/) herbs and bhasmas
 
 ### Asphota {#asphota}
 
@@ -95,7 +95,7 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 
 **Standard Dosage:** 3-5g powder twice daily; 40-80ml decoction twice daily; 10-20ml fresh juice
 
-**Bioavailability:** Limited modern pharmacokinetic data. Traditional herb with limited modern investigation. Presumed moderate bioavailability based on phytochemical class ([flavonoids](/ayurveda-atlas/reference/flavonoids/), [terpenoids](/ayurveda-atlas/glossary/compounds-t-z/#terpenoids)). Traditional anupana (warm water, honey, ghee) recommended based on Dosha indication.
+**Bioavailability:** Limited modern pharmacokinetic data. Traditional herb with limited modern investigation. Presumed moderate bioavailability based on phytochemical class ([flavonoids](/nighantu/reference/flavonoids/), [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids)). Traditional anupana (warm water, honey, ghee) recommended based on Dosha indication.
 
 **Optimal Timing:** Before meals with warm water as per traditional guidelines
 
@@ -116,9 +116,9 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 
 ### Synergistic Combinations
 
-- With [Guduchi](/ayurveda-atlas/herb/guduchi/) for fever management
-- With [Nimba](/ayurveda-atlas/herb/nimba/) for skin disorders
-- With [Triphala](/ayurveda-atlas/herb/triphala/) for digestive regulation
+- With [Guduchi](/nighantu/herb/guduchi/) for fever management
+- With [Nimba](/nighantu/herb/nimba/) for skin disorders
+- With [Triphala](/nighantu/herb/triphala/) for digestive regulation
 
 ### Brain & Nervous System — Across Traditions {#brain-nervous-system-across-traditions}
 
@@ -131,35 +131,35 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 
 #### Ayurveda Approach
 
-- [Vidarikand](/ayurveda-atlas/herb/vidarikand/) *Pueraria tuberosa (Willd.) DC.*
+- [Vidarikand](/nighantu/herb/vidarikand/) *Pueraria tuberosa (Willd.) DC.*
   Actions: Antioxidant, Anticancer, Aphrodisiac
-- [Gambhari Phala](/ayurveda-atlas/herb/gambhari-phala/) *Gmelina arborea Roxb.*
+- [Gambhari Phala](/nighantu/herb/gambhari-phala/) *Gmelina arborea Roxb.*
   Actions: Antioxidant, Galactagogue, Wound Healing
-- [Kushmanda](/ayurveda-atlas/herb/kushmanda/) *Benincasa hispida (Thunb.) Cogn.*
+- [Kushmanda](/nighantu/herb/kushmanda/) *Benincasa hispida (Thunb.) Cogn.*
   Actions: Antioxidant, Nootropic, Medhya (Nootropic)
-- [Kharjura](/ayurveda-atlas/herb/kharjura/) *Phoenix dactylifera L.*
+- [Kharjura](/nighantu/herb/kharjura/) *Phoenix dactylifera L.*
   Actions: Antioxidant, Anticancer, Aphrodisiac
-- [Jatamansi](/ayurveda-atlas/herb/jatamansi/)
+- [Jatamansi](/nighantu/herb/jatamansi/)
   Actions: Antioxidant, Nootropic, Medhya (Nootropic)
-- [Vacha](/ayurveda-atlas/herb/vacha/)
+- [Vacha](/nighantu/herb/vacha/)
   Actions: Antioxidant, Nootropic, Medhya (Nootropic)
-- [Aparajita](/ayurveda-atlas/herb/aparajita/) *Clitoria ternatea L.*
+- [Aparajita](/nighantu/herb/aparajita/) *Clitoria ternatea L.*
   Actions: Antioxidant, Anticancer, Nootropic
-- [Gokarna](/ayurveda-atlas/herb/gokarna/) *Clitoria ternatea L. (same species as [Aparajita](/ayurveda-atlas/herb/aparajita/); Gokarna is a regional Ayurvedic synonym)*
+- [Gokarna](/nighantu/herb/gokarna/) *Clitoria ternatea L. (same species as [Aparajita](/nighantu/herb/aparajita/); Gokarna is a regional Ayurvedic synonym)*
   Actions: Antioxidant, Wound Healing, Nootropic
-- [Nagabala](/ayurveda-atlas/herb/nagabala/) *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
+- [Nagabala](/nighantu/herb/nagabala/) *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
   Actions: Antioxidant, Aphrodisiac, Medhya (Nootropic)
-- [Shatavari Ksheera](/ayurveda-atlas/herb/shatavari-ksheera/) *Asparagus racemosus Willd.*
+- [Shatavari Ksheera](/nighantu/herb/shatavari-ksheera/) *Asparagus racemosus Willd.*
   Actions: Antioxidant, Anticancer, Galactagogue
-- [Shati](/ayurveda-atlas/herb/shati/) *Hedychium spicatum Buch.-Ham. ex Sm.*
+- [Shati](/nighantu/herb/shati/) *Hedychium spicatum Buch.-Ham. ex Sm.*
   Actions: Antioxidant, Bronchodilator, Antidiabetic
-- [Bijapura](/ayurveda-atlas/herb/bijapura/) *Citrus medica L.*
+- [Bijapura](/nighantu/herb/bijapura/) *Citrus medica L.*
   Actions: Antioxidant, Anticancer, Antidiabetic
-- [Akarakarabha](/ayurveda-atlas/herb/akarakarabha/) *Anacyclus pyrethrum (L.) Lag.*
+- [Akarakarabha](/nighantu/herb/akarakarabha/) *Anacyclus pyrethrum (L.) Lag.*
   Actions: Anticancer, Aphrodisiac, Wound Healing
-- [Amlaparni](/ayurveda-atlas/herb/amlaparni/) *Oxalis corniculata L.*
+- [Amlaparni](/nighantu/herb/amlaparni/) *Oxalis corniculata L.*
   Actions: Antioxidant, Anticancer, Wound Healing
-- [Dhanyaka](/ayurveda-atlas/herb/dhanyaka/) *Coriandrum sativum L.*
+- [Dhanyaka](/nighantu/herb/dhanyaka/) *Coriandrum sativum L.*
   Actions: Antioxidant, Antidiabetic, Neuroprotective
 
 ### Chana {#chana}
@@ -218,7 +218,7 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 
 **Storage:** Cool, dry place; flour in airtight container
 
-**Marker Compounds:** Protein (20–22%), Dietary fiber, Iron, [Folate](/ayurveda-atlas/glossary/compounds-d-g/#folate), [Isoflavones](/ayurveda-atlas/glossary/compounds-g-l/#isoflavones)
+**Marker Compounds:** Protein (20–22%), Dietary fiber, Iron, [Folate](/nighantu/glossary/compounds-d-g/#folate), [Isoflavones](/nighantu/glossary/compounds-g-l/#isoflavones)
 
 **Quality Parameters:** Moisture <12%, no weevil infestation, aflatoxin <15 ppb
 
@@ -228,7 +228,7 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 
 | Language | Name |
 |----------|------|
-| English | [Chyawanprash](/ayurveda-atlas/formulation/chyawanprash/) Extract |
+| English | [Chyawanprash](/nighantu/formulation/chyawanprash/) Extract |
 
 #### What is it made of?
 
@@ -253,17 +253,17 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 
 **Storage:** Store in airtight containers in a cool, dry place. Temperature not exceeding 25°C. Some variants require refrigeration. Protect from moisture.
 
-**Marker Compounds:** Ascorbic acid, Gallic acid, [Piperine](/ayurveda-atlas/reference/piperine/), Ellagic acid, [Cinnamaldehyde](/ayurveda-atlas/glossary/compounds-c-d/#cinnamaldehyde)
+**Marker Compounds:** Ascorbic acid, Gallic acid, [Piperine](/nighantu/reference/piperine/), Ellagic acid, [Cinnamaldehyde](/nighantu/glossary/compounds-c-d/#cinnamaldehyde)
 
-**Quality Parameters:** Total solids (NLT 70%), vitamin C content (typically higher per gram than classical), gallic acid content by HPLC, piperine content, total phenolics, total [flavonoids](/ayurveda-atlas/reference/flavonoids/), [antioxidant](/ayurveda-atlas/reference/antioxidant/) activity (ORAC/DPPH), sugar content (lower than classical), microbial limits, heavy metals, aflatoxins
+**Quality Parameters:** Total solids (NLT 70%), vitamin C content (typically higher per gram than classical), gallic acid content by HPLC, piperine content, total phenolics, total [flavonoids](/nighantu/reference/flavonoids/), [antioxidant](/nighantu/reference/antioxidant/) activity (ORAC/DPPH), sugar content (lower than classical), microbial limits, heavy metals, aflatoxins
 
 **Vehicle (Anupana):** Warm milk or warm water
 
 ### Synergistic Combinations
 
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) extract
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) extract
-- [Brahmi](/ayurveda-atlas/herb/brahmi/) extract
+- [Ashwagandha](/nighantu/herb/ashwagandha/) extract
+- [Shatavari](/nighantu/herb/shatavari/) extract
+- [Brahmi](/nighantu/herb/brahmi/) extract
 - Warm milk
 
 ### Chyawanprash Herbs {#chyawanprash-herbs}
@@ -272,7 +272,7 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 
 | Language | Name |
 |----------|------|
-| English | [Chyawanprash](/ayurveda-atlas/formulation/chyawanprash/) Herbs |
+| English | [Chyawanprash](/nighantu/formulation/chyawanprash/) Herbs |
 
 #### What is it made of?
 
@@ -289,7 +289,7 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 
 **Standard Dosage:** 3-6 g daily as powder or infusion, as per manufacturer's specifications based on classical ratios
 
-**Bioavailability:** Dry powder form provides rapid dissolution. Requires co-administration with lipid (ghee/milk) for optimal absorption of fat-soluble compounds. [Piperine](/ayurveda-atlas/reference/piperine/) enhances absorption of other herb constituents.
+**Bioavailability:** Dry powder form provides rapid dissolution. Requires co-administration with lipid (ghee/milk) for optimal absorption of fat-soluble compounds. [Piperine](/nighantu/reference/piperine/) enhances absorption of other herb constituents.
 
 **Optimal Timing:** Morning on empty stomach
 
@@ -297,15 +297,15 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 
 **Storage:** Store in airtight containers in a cool, dry place. Temperature not exceeding 25°C. Protect from moisture and light. Volatile oils dissipate if exposed — sealed packaging essential.
 
-**Marker Compounds:** Piperine, [Cinnamaldehyde](/ayurveda-atlas/glossary/compounds-c-d/#cinnamaldehyde), [Eugenol](/ayurveda-atlas/glossary/compounds-d-g/#eugenol), 1,8-[Cineole](/ayurveda-atlas/glossary/compounds-c-d/#cineole), 6-[Gingerol](/ayurveda-atlas/glossary/compounds-d-g/#gingerol)
+**Marker Compounds:** Piperine, [Cinnamaldehyde](/nighantu/glossary/compounds-c-d/#cinnamaldehyde), [Eugenol](/nighantu/glossary/compounds-d-g/#eugenol), 1,8-[Cineole](/nighantu/glossary/compounds-c-d/#cineole), 6-[Gingerol](/nighantu/glossary/compounds-d-g/#gingerol)
 
 **Quality Parameters:** Loss on drying (<10%), total ash, acid-insoluble ash, particle size (pass sieve #85), volatile oil content, HPTLC fingerprint for piperine, cinnamaldehyde, eugenol, microbial limits, heavy metals, aflatoxins, pesticide residues
 
-**Vehicle (Anupana):** Warm milk with ghee and honey (to approximate [Chyawanprash](/ayurveda-atlas/formulation/chyawanprash/) delivery)
+**Vehicle (Anupana):** Warm milk with ghee and honey (to approximate [Chyawanprash](/nighantu/formulation/chyawanprash/) delivery)
 
 ### Synergistic Combinations
 
-- Amalaki Churna (to reconstruct full [Chyawanprash](/ayurveda-atlas/formulation/chyawanprash/))
+- Amalaki Churna (to reconstruct full [Chyawanprash](/nighantu/formulation/chyawanprash/))
 - Ghee
 - Honey
 - Warm milk
@@ -316,7 +316,7 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 
 | Language | Name |
 |----------|------|
-| English | [Coconut Oil](/ayurveda-atlas/glossary/concepts-a-m/#coconut-oil) |
+| English | [Coconut Oil](/nighantu/glossary/concepts-a-m/#coconut-oil) |
 
 #### What is it made of?
 
@@ -335,7 +335,7 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 
 #### Dosage forms and preparation
 
-**Dosage Forms:** Cold-pressed oil, Virgin [coconut oil](/ayurveda-atlas/glossary/concepts-a-m/#coconut-oil), External application (Taila)
+**Dosage Forms:** Cold-pressed oil, Virgin [coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil), External application (Taila)
 
 **Standard Dosage:** 5–15 mL orally; external: as needed
 
@@ -343,7 +343,7 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 
 **Optimal Timing:** With meals; external use anytime
 
-**Standardized Extract:** Virgin cold-pressed [coconut oil](/ayurveda-atlas/glossary/concepts-a-m/#coconut-oil) ([Narikela](/ayurveda-atlas/herb/narikela/) Taila)
+**Standardized Extract:** Virgin cold-pressed [coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil) ([Narikela](/nighantu/herb/narikela/) Taila)
 
 **Shelf Life:** 12–24 months
 
@@ -351,7 +351,7 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 
 **Marker Compounds:** Lauric acid (45–53%), Myristic acid, Capric acid, Medium-chain triglycerides
 
-**Quality Parameters:** FFA <0.5%, peroxide value <5 meq/kg, moisture <0.1%, [iodine](/ayurveda-atlas/glossary/compounds-g-l/#iodine) value 7–10
+**Quality Parameters:** FFA <0.5%, peroxide value <5 meq/kg, moisture <0.1%, [iodine](/nighantu/glossary/compounds-g-l/#iodine) value 7–10
 
 **Vehicle (Anupana):** Base oil for medicated oils (Taila Kalpana); cooling Pitta-pacifying vehicle
 
@@ -373,7 +373,7 @@ Highly stable due to >90% saturated fat content. Resistant to oxidation
 
 | Language | Name |
 |----------|------|
-| English | [Dhanadanayanadi Kashayam](/ayurveda-atlas/glossary/concepts-a-m/#dhanadanayanadi-kashayam) |
+| English | [Dhanadanayanadi Kashayam](/nighantu/glossary/concepts-a-m/#dhanadanayanadi-kashayam) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -399,7 +399,7 @@ Highly stable due to >90% saturated fat content. Resistant to oxidation
 
 **Standard Dosage:** 15-30 mL or 2 tablets twice daily before meals, as per Sahasrayogam
 
-**Bioavailability:** Hot decoction provides rapid absorption of [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) and [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides). [Berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine) from [Daruharidra](/ayurveda-atlas/herb/daruharidra/) has moderate oral bioavailability (~5%) — enhanced in hot aqueous medium.
+**Bioavailability:** Hot decoction provides rapid absorption of [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) and [glycosides](/nighantu/glossary/compounds-g-l/#glycosides). [Berberine](/nighantu/glossary/compounds-a-c/#berberine) from [Daruharidra](/nighantu/herb/daruharidra/) has moderate oral bioavailability (~5%) — enhanced in hot aqueous medium.
 
 **Optimal Timing:** Before meals, morning and evening, for Jwara (fever) conditions
 
@@ -407,7 +407,7 @@ Highly stable due to >90% saturated fat content. Resistant to oxidation
 
 **Storage:** Fresh: use same day. Concentrates: amber glass at room temperature. Tablets: airtight containers at room temperature.
 
-**Marker Compounds:** [Berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine), [Palmatine](/ayurveda-atlas/glossary/compounds-o-q/#palmatine), [Jatrorrhizine](/ayurveda-atlas/glossary/compounds-g-l/#jatrorrhizine) (from [Daruharidra](/ayurveda-atlas/herb/daruharidra/))
+**Marker Compounds:** [Berberine](/nighantu/glossary/compounds-a-c/#berberine), [Palmatine](/nighantu/glossary/compounds-o-q/#palmatine), [Jatrorrhizine](/nighantu/glossary/compounds-g-l/#jatrorrhizine) (from [Daruharidra](/nighantu/herb/daruharidra/))
 
 **Quality Parameters:** pH, specific gravity, total solids, extractive values, berberine content from Daruharidra by HPLC, HPTLC fingerprint, microbial limits, heavy metals
 
@@ -415,9 +415,9 @@ Highly stable due to >90% saturated fat content. Resistant to oxidation
 
 ### Synergistic Combinations
 
-- [Amritarishta](/ayurveda-atlas/formulation/amritarishta/)
+- [Amritarishta](/nighantu/formulation/amritarishta/)
 - Sudarshana Churna
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) preparations
+- [Guduchi](/nighantu/herb/guduchi/) preparations
 - Musta Churna
 
 ### Diabetes & Metabolism — Across Traditions {#diabetes-metabolism-across-traditions}
@@ -431,35 +431,35 @@ Highly stable due to >90% saturated fat content. Resistant to oxidation
 
 #### Ayurveda Approach
 
-- [Vidarikand](/ayurveda-atlas/herb/vidarikand/) *Pueraria tuberosa (Willd.) DC.*
+- [Vidarikand](/nighantu/herb/vidarikand/) *Pueraria tuberosa (Willd.) DC.*
   Actions: Antioxidant, Anticancer, Aphrodisiac
-- [Kushmanda](/ayurveda-atlas/herb/kushmanda/) *Benincasa hispida (Thunb.) Cogn.*
+- [Kushmanda](/nighantu/herb/kushmanda/) *Benincasa hispida (Thunb.) Cogn.*
   Actions: Antioxidant, Nootropic, Medhya (Nootropic)
-- [Kharjura](/ayurveda-atlas/herb/kharjura/) *Phoenix dactylifera L.*
+- [Kharjura](/nighantu/herb/kharjura/) *Phoenix dactylifera L.*
   Actions: Antioxidant, Anticancer, Aphrodisiac
-- [Jatamansi](/ayurveda-atlas/herb/jatamansi/)
+- [Jatamansi](/nighantu/herb/jatamansi/)
   Actions: Antioxidant, Nootropic, Medhya (Nootropic)
-- [Akhuparni](/ayurveda-atlas/herb/akhuparni/) *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
+- [Akhuparni](/nighantu/herb/akhuparni/) *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
   Actions: Antioxidant, Anticancer, Nootropic
-- [Giloy Satva](/ayurveda-atlas/herb/giloy-satva/) *Tinospora cordifolia (Willd.) Miers (aqueous starch extract)*
+- [Giloy Satva](/nighantu/herb/giloy-satva/) *Tinospora cordifolia (Willd.) Miers (aqueous starch extract)*
   Actions: Antioxidant, Anticancer, Adaptogenic
-- [Jivanti](/ayurveda-atlas/herb/jivanti/) *Leptadenia reticulata (Retz.) Wight & Arn.*
+- [Jivanti](/nighantu/herb/jivanti/) *Leptadenia reticulata (Retz.) Wight & Arn.*
   Actions: Antioxidant, Anticancer, Galactagogue
-- [Madhuka](/ayurveda-atlas/herb/madhuka/) *Madhuca longifolia (J.Koenig ex L.) J.F.Macbr.*
+- [Madhuka](/nighantu/herb/madhuka/) *Madhuca longifolia (J.Koenig ex L.) J.F.Macbr.*
   Actions: Antioxidant, Anticancer, Galactagogue
-- [Ajwain](/ayurveda-atlas/herb/ajwain/) *Trachyspermum ammi*
+- [Ajwain](/nighantu/herb/ajwain/) *Trachyspermum ammi*
   Actions: Antioxidant, Bronchodilator, Antidiabetic
-- [Aparajita](/ayurveda-atlas/herb/aparajita/) *Clitoria ternatea L.*
+- [Aparajita](/nighantu/herb/aparajita/) *Clitoria ternatea L.*
   Actions: Antioxidant, Anticancer, Nootropic
-- [Shati](/ayurveda-atlas/herb/shati/) *Hedychium spicatum Buch.-Ham. ex Sm.*
+- [Shati](/nighantu/herb/shati/) *Hedychium spicatum Buch.-Ham. ex Sm.*
   Actions: Antioxidant, Bronchodilator, Antidiabetic
-- [Bijapura](/ayurveda-atlas/herb/bijapura/) *Citrus medica L.*
+- [Bijapura](/nighantu/herb/bijapura/) *Citrus medica L.*
   Actions: Antioxidant, Anticancer, Antidiabetic
-- [Kovidara](/ayurveda-atlas/herb/kovidara/) *Bauhinia purpurea L.*
+- [Kovidara](/nighantu/herb/kovidara/) *Bauhinia purpurea L.*
   Actions: Antioxidant, Anticancer, Wound Healing
-- [Sala](/ayurveda-atlas/herb/sala/) *Shorea robusta Gaertn.f.*
+- [Sala](/nighantu/herb/sala/) *Shorea robusta Gaertn.f.*
   Actions: Antioxidant, Anticancer, Hepatoprotective
-- [Amlaparni](/ayurveda-atlas/herb/amlaparni/) *Oxalis corniculata L.*
+- [Amlaparni](/nighantu/herb/amlaparni/) *Oxalis corniculata L.*
   Actions: Antioxidant, Anticancer, Wound Healing
 
 ### Digestive Health — Across Traditions {#digestive-health-across-traditions}
@@ -473,35 +473,35 @@ Highly stable due to >90% saturated fat content. Resistant to oxidation
 
 #### Ayurveda Approach
 
-- [Triphala Churna](/ayurveda-atlas/formulation/triphala-churna/)
+- [Triphala Churna](/nighantu/formulation/triphala-churna/)
   Actions: Antioxidant, Anticancer, Wound Healing
-- [Ajwain](/ayurveda-atlas/herb/ajwain/) *Trachyspermum ammi*
+- [Ajwain](/nighantu/herb/ajwain/) *Trachyspermum ammi*
   Actions: Antioxidant, Bronchodilator, Antidiabetic
-- [Pippali Moola](/ayurveda-atlas/herb/pippali-moola/) *Piper longum L. (root)*
+- [Pippali Moola](/nighantu/herb/pippali-moola/) *Piper longum L. (root)*
   Actions: Antioxidant, Anticancer, Bronchodilator
-- [Shati](/ayurveda-atlas/herb/shati/) *Hedychium spicatum Buch.-Ham. ex Sm.*
+- [Shati](/nighantu/herb/shati/) *Hedychium spicatum Buch.-Ham. ex Sm.*
   Actions: Antioxidant, Bronchodilator, Antidiabetic
-- [Pudina](/ayurveda-atlas/herb/pudina/) *Mentha spicata*
+- [Pudina](/nighantu/herb/pudina/) *Mentha spicata*
   Actions: Antioxidant, Bronchodilator, Antidiabetic
-- [Bijapura](/ayurveda-atlas/herb/bijapura/) *Citrus medica L.*
+- [Bijapura](/nighantu/herb/bijapura/) *Citrus medica L.*
   Actions: Antioxidant, Anticancer, Antidiabetic
-- [Dhanyaka](/ayurveda-atlas/herb/dhanyaka/) *Coriandrum sativum L.*
+- [Dhanyaka](/nighantu/herb/dhanyaka/) *Coriandrum sativum L.*
   Actions: Antioxidant, Antidiabetic, Neuroprotective
-- [Mishreya](/ayurveda-atlas/herb/mishreya/) *Foeniculum vulgare Mill.*
+- [Mishreya](/nighantu/herb/mishreya/) *Foeniculum vulgare Mill.*
   Actions: Antioxidant, Anticancer, Galactagogue
-- [Laung](/ayurveda-atlas/herb/laung/) *Syzygium aromaticum*
+- [Laung](/nighantu/herb/laung/) *Syzygium aromaticum*
   Actions: Antioxidant, Anticancer, Antitumor
-- [Mahasudarshan Churna](/ayurveda-atlas/formulation/mahasudarshan-churna/)
+- [Mahasudarshan Churna](/nighantu/formulation/mahasudarshan-churna/)
   Actions: Antioxidant, Hepatoprotective, Bronchodilator
-- [Rishabhaka](/ayurveda-atlas/herb/rishabhaka/) *Manilkara hexandra (Roxb.) Dubard*
+- [Rishabhaka](/nighantu/herb/rishabhaka/) *Manilkara hexandra (Roxb.) Dubard*
   Actions: Antioxidant, Aphrodisiac, Adaptogenic
-- [Mandukparni](/ayurveda-atlas/herb/mandukparni/)
+- [Mandukparni](/nighantu/herb/mandukparni/)
   Actions: Wound Healing, Nootropic, Medhya (Nootropic)
-- [Changeri](/ayurveda-atlas/herb/changeri/) *Oxalis corniculata L.*
+- [Changeri](/nighantu/herb/changeri/) *Oxalis corniculata L.*
   Actions: Antioxidant, Anticancer, Wound Healing
-- [Chitrak](/ayurveda-atlas/herb/chitrak/) *Plumbago zeylanica L.*
+- [Chitrak](/nighantu/herb/chitrak/) *Plumbago zeylanica L.*
   Actions: Antioxidant, Anticancer, Wound Healing
-- [Hingu](/ayurveda-atlas/herb/hingu/) *Ferula asafoetida*
+- [Hingu](/nighantu/herb/hingu/) *Ferula asafoetida*
   Actions: Antioxidant, Bronchodilator, Antimicrobial
 
 ### DistillationSublimation Apparatus Directional {#distillationsublimation-apparatus-directional}
@@ -540,7 +540,7 @@ Sublimation and distillation of mercury, sulfur, arsenic, and other volatile min
 
 | Language | Name |
 |----------|------|
-| English | [Drakshadi Kwath](/ayurveda-atlas/glossary/concepts-a-m/#drakshadi-kwath) |
+| English | [Drakshadi Kwath](/nighantu/glossary/concepts-a-m/#drakshadi-kwath) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -566,7 +566,7 @@ Sublimation and distillation of mercury, sulfur, arsenic, and other volatile min
 
 **Standard Dosage:** 40-80 mL twice daily, or 3-6 g Kwath Churna boiled in water, as per AFI
 
-**Bioavailability:** Same as [Drakshadi Kashayam](/ayurveda-atlas/formulation/drakshadi-kashayam/). Kwath Churna form allows fresh preparation at home — freshly prepared decoction has optimal bioavailability.
+**Bioavailability:** Same as [Drakshadi Kashayam](/nighantu/formulation/drakshadi-kashayam/). Kwath Churna form allows fresh preparation at home — freshly prepared decoction has optimal bioavailability.
 
 **Optimal Timing:** Before meals, morning and evening
 
@@ -574,18 +574,18 @@ Sublimation and distillation of mercury, sulfur, arsenic, and other volatile min
 
 **Storage:** Fresh kwath: same day. Kwath Churna: airtight containers in cool, dry place. Temperature not exceeding 30°C.
 
-**Marker Compounds:** [Resveratrol](/ayurveda-atlas/glossary/compounds-q-t/#resveratrolresveratrol), [Piperine](/ayurveda-atlas/reference/piperine/), Gallic acid, [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/), Ellagic acid
+**Marker Compounds:** [Resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol), [Piperine](/nighantu/reference/piperine/), Gallic acid, [Quercetin](/nighantu/reference/quercetinquercetin/), Ellagic acid
 
-**Quality Parameters:** Similar to [Drakshadi Kashayam](/ayurveda-atlas/formulation/drakshadi-kashayam/) — pH, specific gravity, total solids, [resveratrol](/ayurveda-atlas/glossary/compounds-q-t/#resveratrolresveratrol), total [polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols), HPTLC fingerprint, microbial limits, heavy metals
+**Quality Parameters:** Similar to [Drakshadi Kashayam](/nighantu/formulation/drakshadi-kashayam/) — pH, specific gravity, total solids, [resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol), total [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols), HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Taken as warm decoction; may add honey
 
 ### Synergistic Combinations
 
-- [Draksharishta](/ayurveda-atlas/formulation/draksharishta/)
+- [Draksharishta](/nighantu/formulation/draksharishta/)
 - Drakshadi Kashayam
-- [Avipattikar](/ayurveda-atlas/herb/avipattikar/) Churna
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/)
+- [Avipattikar](/nighantu/herb/avipattikar/) Churna
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/)
 
 ### Eye Health — Across Traditions {#eye-health-across-traditions}
 
@@ -598,35 +598,35 @@ Sublimation and distillation of mercury, sulfur, arsenic, and other volatile min
 
 #### Ayurveda Approach
 
-- [Triphala Churna](/ayurveda-atlas/formulation/triphala-churna/)
+- [Triphala Churna](/nighantu/formulation/triphala-churna/)
   Actions: Antioxidant, Anticancer, Wound Healing
-- [Vacha](/ayurveda-atlas/herb/vacha/)
+- [Vacha](/nighantu/herb/vacha/)
   Actions: Antioxidant, Nootropic, Medhya (Nootropic)
-- [Aparajita](/ayurveda-atlas/herb/aparajita/) *Clitoria ternatea L.*
+- [Aparajita](/nighantu/herb/aparajita/) *Clitoria ternatea L.*
   Actions: Antioxidant, Anticancer, Nootropic
-- [Gokarna](/ayurveda-atlas/herb/gokarna/) *Clitoria ternatea L. (same species as [Aparajita](/ayurveda-atlas/herb/aparajita/); Gokarna is a regional Ayurvedic synonym)*
+- [Gokarna](/nighantu/herb/gokarna/) *Clitoria ternatea L. (same species as [Aparajita](/nighantu/herb/aparajita/); Gokarna is a regional Ayurvedic synonym)*
   Actions: Antioxidant, Wound Healing, Nootropic
-- [Changeri](/ayurveda-atlas/herb/changeri/) *Oxalis corniculata L.*
+- [Changeri](/nighantu/herb/changeri/) *Oxalis corniculata L.*
   Actions: Antioxidant, Anticancer, Wound Healing
-- [Swarna Bhasma](/ayurveda-atlas/herb/swarna-bhasma/)
+- [Swarna Bhasma](/nighantu/herb/swarna-bhasma/)
   Actions: Antioxidant, Medhya (Nootropic), Rasayana
-- [Maha Narayana Thailam](/ayurveda-atlas/formulation/maha-narayana-thailam/)
+- [Maha Narayana Thailam](/nighantu/formulation/maha-narayana-thailam/)
   Actions: Antioxidant, Neuroprotective, Anti-inflammatory
-- [Kataka](/ayurveda-atlas/herb/kataka/) *Strychnos potatorum L.f.*
+- [Kataka](/nighantu/herb/kataka/) *Strychnos potatorum L.f.*
   Actions: Antioxidant, Antidiabetic, Anti-inflammatory
-- [Palankya](/ayurveda-atlas/herb/palankya/) *Spinacia oleracea L.*
+- [Palankya](/nighantu/herb/palankya/) *Spinacia oleracea L.*
   Actions: Antioxidant, Neuroprotective, Laxative
-- [Daruharidra](/ayurveda-atlas/herb/daruharidra/) *Berberis aristata DC.*
+- [Daruharidra](/nighantu/herb/daruharidra/) *Berberis aristata DC.*
   Actions: Antioxidant, Anticancer, Wound Healing
-- [Himasagara Thailam](/ayurveda-atlas/formulation/himasagara-thailam/)
+- [Himasagara Thailam](/nighantu/formulation/himasagara-thailam/)
   Actions: Anxiolytic, Neuroprotective, Anti-inflammatory
-- [Kshirabala Thailam](/ayurveda-atlas/formulation/kshirabala-thailam/)
+- [Kshirabala Thailam](/nighantu/formulation/kshirabala-thailam/)
   Actions: Bronchodilator, Neuroprotective, Anti-inflammatory
-- [Triphaladi Thailam](/ayurveda-atlas/formulation/triphaladi-thailam/)
+- [Triphaladi Thailam](/nighantu/formulation/triphaladi-thailam/)
   Actions: Antioxidant, Neuroprotective, Anti-inflammatory
-- [Prapunnada](/ayurveda-atlas/herb/prapunnada/)
+- [Prapunnada](/nighantu/herb/prapunnada/)
   Actions: Laxative, Rasayana, Hepatoprotective
-- [Yashada Bhasma](/ayurveda-atlas/herb/yashada-bhasma/)
+- [Yashada Bhasma](/nighantu/herb/yashada-bhasma/)
   Actions: Antioxidant, Wound Healing, Antidiabetic
 
 ### Fever & Infection — Across Traditions {#fever-infection-across-traditions}
@@ -639,35 +639,35 @@ Sublimation and distillation of mercury, sulfur, arsenic, and other volatile min
 
 #### Ayurveda Approach
 
-- [Gambhari Phala](/ayurveda-atlas/herb/gambhari-phala/) *Gmelina arborea Roxb.*
+- [Gambhari Phala](/nighantu/herb/gambhari-phala/) *Gmelina arborea Roxb.*
   Actions: Antioxidant, Galactagogue, Wound Healing
-- [Akhuparni](/ayurveda-atlas/herb/akhuparni/) *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
+- [Akhuparni](/nighantu/herb/akhuparni/) *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
   Actions: Antioxidant, Anticancer, Nootropic
-- [Giloy Satva](/ayurveda-atlas/herb/giloy-satva/) *Tinospora cordifolia (Willd.) Miers (aqueous starch extract)*
+- [Giloy Satva](/nighantu/herb/giloy-satva/) *Tinospora cordifolia (Willd.) Miers (aqueous starch extract)*
   Actions: Antioxidant, Anticancer, Adaptogenic
-- [Shati](/ayurveda-atlas/herb/shati/) *Hedychium spicatum Buch.-Ham. ex Sm.*
+- [Shati](/nighantu/herb/shati/) *Hedychium spicatum Buch.-Ham. ex Sm.*
   Actions: Antioxidant, Bronchodilator, Antidiabetic
-- [Pudina](/ayurveda-atlas/herb/pudina/) *Mentha spicata*
+- [Pudina](/nighantu/herb/pudina/) *Mentha spicata*
   Actions: Antioxidant, Bronchodilator, Antidiabetic
-- [Sala](/ayurveda-atlas/herb/sala/) *Shorea robusta Gaertn.f.*
+- [Sala](/nighantu/herb/sala/) *Shorea robusta Gaertn.f.*
   Actions: Antioxidant, Anticancer, Hepatoprotective
-- [Meda](/ayurveda-atlas/herb/meda/) *Polygonatum verticillatum (L.) All. / Polygonatum cirrhifolium (Wall.) Royle*
+- [Meda](/nighantu/herb/meda/) *Polygonatum verticillatum (L.) All. / Polygonatum cirrhifolium (Wall.) Royle*
   Actions: Galactagogue, Adaptogenic, Bronchodilator
-- [Giloy](/ayurveda-atlas/herb/guduchi/) *Tinospora cordifolia*
+- [Giloy](/nighantu/herb/guduchi/) *Tinospora cordifolia*
   Actions: Antioxidant, Anticancer, Medhya (Nootropic)
-- [Mahasudarshan Churna](/ayurveda-atlas/formulation/mahasudarshan-churna/)
+- [Mahasudarshan Churna](/nighantu/formulation/mahasudarshan-churna/)
   Actions: Antioxidant, Hepatoprotective, Bronchodilator
-- [Aragwadha](/ayurveda-atlas/herb/aragwadha/) *Cassia fistula L.*
+- [Aragwadha](/nighantu/herb/aragwadha/) *Cassia fistula L.*
   Actions: Antioxidant, Anticancer, Antidiabetic
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) *Tinospora cordifolia*
+- [Guduchi](/nighantu/herb/guduchi/) *Tinospora cordifolia*
   Actions: Antioxidant, Medhya (Nootropic), Adaptogenic
-- [Changeri](/ayurveda-atlas/herb/changeri/) *Oxalis corniculata L.*
+- [Changeri](/nighantu/herb/changeri/) *Oxalis corniculata L.*
   Actions: Antioxidant, Anticancer, Wound Healing
-- [Agnikarna](/ayurveda-atlas/herb/agnikarna/) *Gloriosa superba L. ([Agnikumarika](/ayurveda-atlas/herb/agnikumarika/)/Agnimukhi); also associated with Litsea species in some texts*
+- [Agnikarna](/nighantu/herb/agnikarna/) *Gloriosa superba L. ([Agnikumarika](/nighantu/herb/agnikumarika/)/Agnimukhi); also associated with Litsea species in some texts*
   Actions: Antioxidant, Anticancer, Wound Healing
-- [Kantakari](/ayurveda-atlas/herb/kantakari/) *Solanum xanthocarpum Schrad. & Wendl. (syn. S. surattense Burm. f., S. virginianum L.)*
+- [Kantakari](/nighantu/herb/kantakari/) *Solanum xanthocarpum Schrad. & Wendl. (syn. S. surattense Burm. f., S. virginianum L.)*
   Actions: Antioxidant, Bronchodilator, Anti-inflammatory
-- [Mahabala](/ayurveda-atlas/herb/mahabala/) *Sida rhombifolia L.*
+- [Mahabala](/nighantu/herb/mahabala/) *Sida rhombifolia L.*
   Actions: Antioxidant, Wound Healing, Adaptogenic
 
 ### Gairika {#gairika}
@@ -714,7 +714,7 @@ Sublimation and distillation of mercury, sulfur, arsenic, and other volatile min
 
 **Storage:** Dry, airtight container
 
-**Marker Compounds:** Iron oxide (Fe2O3, hematite), [Silica](/ayurveda-atlas/glossary/compounds-q-t/#silica), Alumina, Trace minerals
+**Marker Compounds:** Iron oxide (Fe2O3, hematite), [Silica](/nighantu/glossary/compounds-q-t/#silica), Alumina, Trace minerals
 
 **Quality Parameters:** Iron >50%, heavy metals within limits, no free silica (respirable)
 
@@ -748,7 +748,7 @@ Sublimation and distillation of mercury, sulfur, arsenic, and other volatile min
 
 #### Dosage forms and preparation
 
-**Dosage Forms:** Shuddha Gandhaka (purified sulfur), Gandhaka [Rasayana](/ayurveda-atlas/reference/rasayana/), Component in Kajjali
+**Dosage Forms:** Shuddha Gandhaka (purified sulfur), Gandhaka [Rasayana](/nighantu/reference/rasayana/), Component in Kajjali
 
 **Standard Dosage:** 125–500 mg twice daily (as Gandhaka Rasayana)
 
@@ -766,7 +766,7 @@ Sublimation and distillation of mercury, sulfur, arsenic, and other volatile min
 
 **Quality Parameters:** Purity >99.5%, arsenic <3 ppm (critical — arsenic contamination common in natural sulfur), no free acid
 
-**Vehicle (Anupana):** Milk, ghee, or [Triphala](/ayurveda-atlas/herb/triphala/)
+**Vehicle (Anupana):** Milk, ghee, or [Triphala](/nighantu/herb/triphala/)
 
 ### Godhuma {#godhuma}
 
@@ -817,13 +817,13 @@ Sublimation and distillation of mercury, sulfur, arsenic, and other volatile min
 
 **Optimal Timing:** Meals; wheat grass juice on empty stomach
 
-**Standardized Extract:** Wheat grass extract — [chlorophyll](/ayurveda-atlas/glossary/compounds-c-d/#chlorophyll)-rich
+**Standardized Extract:** Wheat grass extract — [chlorophyll](/nighantu/glossary/compounds-c-d/#chlorophyll)-rich
 
 **Shelf Life:** Grain: 12+ months; flour: 3–4 months; fresh juice: consume immediately
 
 **Storage:** Cool, dry place; flour in airtight container
 
-**Marker Compounds:** Gluten [proteins](/ayurveda-atlas/glossary/compounds-o-q/#proteins), Dietary fiber, B-[vitamins](/ayurveda-atlas/glossary/compounds-t-z/#vitamins), Iron, Chlorophyll (grass)
+**Marker Compounds:** Gluten [proteins](/nighantu/glossary/compounds-o-q/#proteins), Dietary fiber, B-[vitamins](/nighantu/glossary/compounds-t-z/#vitamins), Iron, Chlorophyll (grass)
 
 **Quality Parameters:** Moisture <12%, no ergot contamination, gluten content as labeled
 
@@ -833,7 +833,7 @@ Sublimation and distillation of mercury, sulfur, arsenic, and other volatile min
 
 | Language | Name |
 |----------|------|
-| English | [Gojihvadi Kwath](/ayurveda-atlas/glossary/concepts-a-m/#gojihvadi-kwath) |
+| English | [Gojihvadi Kwath](/nighantu/glossary/concepts-a-m/#gojihvadi-kwath) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -859,7 +859,7 @@ Sublimation and distillation of mercury, sulfur, arsenic, and other volatile min
 
 **Standard Dosage:** 40-80 mL twice daily, as per AFI
 
-**Bioavailability:** Hot decoction provides rapid absorption of [vasicine](/ayurveda-atlas/glossary/compounds-t-z/#vasicine) and [vasicinone](/ayurveda-atlas/glossary/compounds-t-z/#vasicinone) (bronchodilatory [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids)). Oral bioavailability of vasicine is good (~60-70%) in aqueous medium.
+**Bioavailability:** Hot decoction provides rapid absorption of [vasicine](/nighantu/glossary/compounds-t-z/#vasicine) and [vasicinone](/nighantu/glossary/compounds-t-z/#vasicinone) (bronchodilatory [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids)). Oral bioavailability of vasicine is good (~60-70%) in aqueous medium.
 
 **Optimal Timing:** Before meals, morning and evening, for respiratory conditions
 
@@ -867,17 +867,17 @@ Sublimation and distillation of mercury, sulfur, arsenic, and other volatile min
 
 **Storage:** Fresh: use same day. Kwath Churna: airtight containers in cool, dry place. Temperature not exceeding 30°C.
 
-**Marker Compounds:** Vasicine, Vasicinone, [Deoxyvasicine](/ayurveda-atlas/glossary/compounds-c-d/#deoxyvasicine), [Solasodine](/ayurveda-atlas/glossary/compounds-q-t/#solasodine) (from [Kantakari](/ayurveda-atlas/herb/kantakari/))
+**Marker Compounds:** Vasicine, Vasicinone, [Deoxyvasicine](/nighantu/glossary/compounds-c-d/#deoxyvasicine), [Solasodine](/nighantu/glossary/compounds-q-t/#solasodine) (from [Kantakari](/nighantu/herb/kantakari/))
 
-**Quality Parameters:** pH, specific gravity, total solids, vasicine content from [Vasa](/ayurveda-atlas/herb/vasa/) by HPLC, total alkaloids, HPTLC fingerprint, microbial limits, heavy metals
+**Quality Parameters:** pH, specific gravity, total solids, vasicine content from [Vasa](/nighantu/herb/vasa/) by HPLC, total alkaloids, HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Honey for Kasa-Shwasa (cough/asthma) conditions
 
 ### Synergistic Combinations
 
 - Vasarishta
-- [Sitopaladi Churna](/ayurveda-atlas/formulation/sitopaladi-churna/)
-- [Talisadi Churna](/ayurveda-atlas/formulation/talisadi-churna/)
+- [Sitopaladi Churna](/nighantu/formulation/sitopaladi-churna/)
+- [Talisadi Churna](/nighantu/formulation/talisadi-churna/)
 - Kanakasava
 
 ### Gold Silver Vessels for Medicine Preparation {#gold-silver-vessels-for-medicine-preparation}
@@ -910,11 +910,11 @@ Preparation of Suvarna Prashana (gold-based immunization), storage of precious B
 
 ### Gourd Instrument Gourd Cupping {#gourd-instrument-gourd-cupping}
 
-A dried bottle gourd ([Alabu](/ayurveda-atlas/herb/alabu/)/Lagenaria siceraria) used for dry cupping/suction over a small incision for blood-letting. Heat is applied inside the gourd to create vacuum.
+A dried bottle gourd ([Alabu](/nighantu/herb/alabu/)/Lagenaria siceraria) used for dry cupping/suction over a small incision for blood-letting. Heat is applied inside the gourd to create vacuum.
 
 #### Where is it described in the classical texts?
 
-Sushruta Samhita Sutrasthana Chapter 14. [Alabu](/ayurveda-atlas/herb/alabu/) is recommended for Kapha-type blood disorders.
+Sushruta Samhita Sutrasthana Chapter 14. [Alabu](/nighantu/herb/alabu/) is recommended for Kapha-type blood disorders.
 
 #### How is it used traditionally?
 
@@ -922,7 +922,7 @@ Blood-letting for Kapha-Rakta conditions, localized edema, skin disorders.
 
 #### Traditional materials
 
-- Dried bottle gourd ([Alabu](/ayurveda-atlas/herb/alabu/)/Lagenaria siceraria)
+- Dried bottle gourd ([Alabu](/nighantu/herb/alabu/)/Lagenaria siceraria)
 - Candle/wick for creating vacuum
 
 #### Modern variants
@@ -984,11 +984,11 @@ Blood-letting for Kapha-Rakta conditions, localized edema, skin disorders.
 
 **Storage:** Cool, dry place; wrap to prevent moisture absorption
 
-**Marker Compounds:** [Sucrose](/ayurveda-atlas/glossary/compounds-q-t/#sucrose) (65–85%), Iron (10–13 mg/100g), Calcium, [Magnesium](/ayurveda-atlas/glossary/compounds-l-o/#magnesium), Phenolic compounds
+**Marker Compounds:** [Sucrose](/nighantu/glossary/compounds-q-t/#sucrose) (65–85%), Iron (10–13 mg/100g), Calcium, [Magnesium](/nighantu/glossary/compounds-l-o/#magnesium), Phenolic compounds
 
 **Quality Parameters:** Sucrose >65%, moisture <10%, iron >8 mg/100g, no chemical bleaching (SO2 <70 ppm)
 
-**Vehicle (Anupana):** Sweet vehicle in Avaleha, Modaka, Guda [Pippali](/ayurveda-atlas/herb/pippali/); used in iron-deficiency formulations
+**Vehicle (Anupana):** Sweet vehicle in Avaleha, Modaka, Guda [Pippali](/nighantu/herb/pippali/); used in iron-deficiency formulations
 
 ### Hair Health — Across Traditions {#hair-health-across-traditions}
 
@@ -1001,34 +1001,34 @@ Blood-letting for Kapha-Rakta conditions, localized edema, skin disorders.
 
 #### Ayurveda Approach
 
-- [Jatamansi](/ayurveda-atlas/herb/jatamansi/)
+- [Jatamansi](/nighantu/herb/jatamansi/)
   Actions: Antioxidant, Nootropic, Medhya (Nootropic)
-- [Adhaki](/ayurveda-atlas/herb/adhaki/) *Cajanus cajan (L.) Millsp.*
+- [Adhaki](/nighantu/herb/adhaki/) *Cajanus cajan (L.) Millsp.*
   Actions: Antioxidant, Anticancer, Antidiabetic
-- [Kankshi](/ayurveda-atlas/herb/kankshi/) *Abrus precatorius L. (seed coat/outer coating)*
+- [Kankshi](/nighantu/herb/kankshi/) *Abrus precatorius L. (seed coat/outer coating)*
   Actions: Antioxidant, Hepatoprotective, Antitumor
-- [Amla](/ayurveda-atlas/herb/amla/) *Phyllanthus emblica (syn. Emblica officinalis)*
+- [Amla](/nighantu/herb/amla/) *Phyllanthus emblica (syn. Emblica officinalis)*
   Actions: Antioxidant, Neuroprotective, Rasayana
-- [Kasturi](/ayurveda-atlas/herb/kasturi/)
+- [Kasturi](/nighantu/herb/kasturi/)
   Actions: Antioxidant, Anticancer, Neuroprotective
-- [Atasi](/ayurveda-atlas/herb/atasi/) *Linum usitatissimum L.*
+- [Atasi](/nighantu/herb/atasi/) *Linum usitatissimum L.*
   Actions: Antioxidant, Laxative, Anti-inflammatory
-- [Triphaladi Thailam](/ayurveda-atlas/formulation/triphaladi-thailam/)
+- [Triphaladi Thailam](/nighantu/formulation/triphaladi-thailam/)
   Actions: Antioxidant, Neuroprotective, Anti-inflammatory
-- [Bhringraj](/ayurveda-atlas/herb/bhringraj/)
+- [Bhringraj](/nighantu/herb/bhringraj/)
   Actions: Antioxidant, Hepatoprotective, Anti-inflammatory
   Actions: Anticancer, Antimicrobial, Anti-inflammatory
-- [Bakuchi Taila](/ayurveda-atlas/formulation/bakuchi-taila/)
+- [Bakuchi Taila](/nighantu/formulation/bakuchi-taila/)
   Actions: Rasayana, Anti-inflammatory, Immunomodulatory
-- [Shadbindu Taila](/ayurveda-atlas/formulation/shadbindu-taila/)
+- [Shadbindu Taila](/nighantu/formulation/shadbindu-taila/)
   Actions: Antimicrobial, Anti-inflammatory, Analgesic
-- [Coconut Oil Narikela Taila](/ayurveda-atlas/formulation/coconut-oil-narikela-taila/)
+- [Coconut Oil Narikela Taila](/nighantu/formulation/coconut-oil-narikela-taila/)
   Actions: Antimicrobial, Anti-inflammatory
-- [Nili](/ayurveda-atlas/herb/nili/) *Indigofera tinctoria L.*
+- [Nili](/nighantu/herb/nili/) *Indigofera tinctoria L.*
   Actions: Wound Healing, Anti-inflammatory
-- [Bhringaraja Svarasa](/ayurveda-atlas/formulation/bhringaraja-svarasa/)
+- [Bhringaraja Svarasa](/nighantu/formulation/bhringaraja-svarasa/)
   Actions: Hepatoprotective
-- [Neelibringadi Thailam](/ayurveda-atlas/formulation/neelibringadi-thailam/)
+- [Neelibringadi Thailam](/nighantu/formulation/neelibringadi-thailam/)
   Actions: Antioxidant
 
 ### Hamsapadi {#hamsapadi}
@@ -1063,7 +1063,7 @@ Blood-letting for Kapha-Rakta conditions, localized edema, skin disorders.
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction
 
-**Bioavailability:** Limited modern bioavailability data. Traditional preparation as decoction with warm water enhances aqueous-soluble constituent absorption. Co-administration with [Pippali](/ayurveda-atlas/herb/pippali/) or [ginger](/ayurveda-atlas/herb/ginger/) may improve bioavailability via enhanced gastrointestinal absorption.
+**Bioavailability:** Limited modern bioavailability data. Traditional preparation as decoction with warm water enhances aqueous-soluble constituent absorption. Co-administration with [Pippali](/nighantu/herb/pippali/) or [ginger](/nighantu/herb/ginger/) may improve bioavailability via enhanced gastrointestinal absorption.
 
 **Optimal Timing:** Before meals with warm water or honey
 
@@ -1073,7 +1073,7 @@ Blood-letting for Kapha-Rakta conditions, localized edema, skin disorders.
 
 **Storage:** Cool, dry place (below 25°C), protected from light and moisture in airtight containers
 
-**Marker Compounds:** [Flavonoids](/ayurveda-atlas/reference/flavonoids/) (general TLC profiling), Phenolic acids (tentative identification)
+**Marker Compounds:** [Flavonoids](/nighantu/reference/flavonoids/) (general TLC profiling), Phenolic acids (tentative identification)
 
 ### Extraction Methods
 
@@ -1083,9 +1083,9 @@ Blood-letting for Kapha-Rakta conditions, localized edema, skin disorders.
 
 ### Synergistic Combinations
 
-- With [Guduchi](/ayurveda-atlas/herb/guduchi/) for [antipyretic](/ayurveda-atlas/reference/antipyretic/) action
+- With [Guduchi](/nighantu/herb/guduchi/) for [antipyretic](/nighantu/reference/antipyretic/) action
 - With Musta for digestive disorders
-- With [Haridra](/ayurveda-atlas/herb/haridra/) for anti-inflammatory support
+- With [Haridra](/nighantu/herb/haridra/) for anti-inflammatory support
 
 ### Hastikarna Palasha {#hastikarna-palasha}
 
@@ -1093,7 +1093,7 @@ Blood-letting for Kapha-Rakta conditions, localized edema, skin disorders.
 
 | Language | Name |
 |----------|------|
-| English | Hastikarna [Palasha](/ayurveda-atlas/herb/palasha/)|Hastikarna Palasha |
+| English | Hastikarna [Palasha](/nighantu/herb/palasha/)|Hastikarna Palasha |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -1119,7 +1119,7 @@ Blood-letting for Kapha-Rakta conditions, localized edema, skin disorders.
 
 **Standard Dosage:** 3-5g powder twice daily; 50-100ml decoction; external paste as needed
 
-**Bioavailability:** Limited modern pharmacokinetic data available. Traditional aqueous decoction preparation is standard route of administration. The leaf-based preparations likely contain [flavonoids](/ayurveda-atlas/reference/flavonoids/) with moderate oral absorption. Further bioavailability studies warranted.
+**Bioavailability:** Limited modern pharmacokinetic data available. Traditional aqueous decoction preparation is standard route of administration. The leaf-based preparations likely contain [flavonoids](/nighantu/reference/flavonoids/) with moderate oral absorption. Further bioavailability studies warranted.
 
 **Optimal Timing:** Before meals with warm water; external paste application on affected area twice daily
 
@@ -1129,7 +1129,7 @@ Blood-letting for Kapha-Rakta conditions, localized edema, skin disorders.
 
 **Storage:** Cool, dry place below 25°C in airtight containers, protected from light and moisture
 
-**Marker Compounds:** Butein, [Butrin](/ayurveda-atlas/glossary/compounds-a-c/#butrin), Palasonin, Flavonoids (general profiling)
+**Marker Compounds:** Butein, [Butrin](/nighantu/glossary/compounds-a-c/#butrin), Palasonin, Flavonoids (general profiling)
 
 ### Extraction Methods
 
@@ -1139,9 +1139,9 @@ Blood-letting for Kapha-Rakta conditions, localized edema, skin disorders.
 
 ### Synergistic Combinations
 
-- With [Nimba](/ayurveda-atlas/herb/nimba/) ([Neem](/ayurveda-atlas/herb/neem/)) for skin conditions
-- With [Haridra](/ayurveda-atlas/herb/haridra/) for anti-inflammatory action
-- With [Triphala](/ayurveda-atlas/herb/triphala/) for wound healing support
+- With [Nimba](/nighantu/herb/nimba/) ([Neem](/nighantu/herb/neem/)) for skin conditions
+- With [Haridra](/nighantu/herb/haridra/) for anti-inflammatory action
+- With [Triphala](/nighantu/herb/triphala/) for wound healing support
 
 ### Heart & Cardiovascular — Across Traditions {#heart-cardiovascular-across-traditions}
 
@@ -1154,35 +1154,35 @@ Blood-letting for Kapha-Rakta conditions, localized edema, skin disorders.
 
 #### Ayurveda Approach
 
-- [Gambhari Phala](/ayurveda-atlas/herb/gambhari-phala/) *Gmelina arborea Roxb.*
+- [Gambhari Phala](/nighantu/herb/gambhari-phala/) *Gmelina arborea Roxb.*
   Actions: Antioxidant, Galactagogue, Wound Healing
-- [Nagabala](/ayurveda-atlas/herb/nagabala/) *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
+- [Nagabala](/nighantu/herb/nagabala/) *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
   Actions: Antioxidant, Aphrodisiac, Medhya (Nootropic)
-- [Kovidara](/ayurveda-atlas/herb/kovidara/) *Bauhinia purpurea L.*
+- [Kovidara](/nighantu/herb/kovidara/) *Bauhinia purpurea L.*
   Actions: Antioxidant, Anticancer, Wound Healing
-- [Tila](/ayurveda-atlas/herb/tila/) *Sesamum indicum L.*
+- [Tila](/nighantu/herb/tila/) *Sesamum indicum L.*
   Actions: Antioxidant, Wound Healing, Adaptogenic
-- [Giloy](/ayurveda-atlas/herb/guduchi/) *Tinospora cordifolia*
+- [Giloy](/nighantu/herb/guduchi/) *Tinospora cordifolia*
   Actions: Antioxidant, Anticancer, Medhya (Nootropic)
-- [Pushkarmool](/ayurveda-atlas/herb/pushkarmool/) *Inula racemosa Hook. f.*
+- [Pushkarmool](/nighantu/herb/pushkarmool/) *Inula racemosa Hook. f.*
   Actions: Anticancer, Hepatoprotective, Bronchodilator
-- [Rasona Garlic](/ayurveda-atlas/herb/rasona-garlic/) *Allium sativum L.*
+- [Rasona Garlic](/nighantu/herb/rasona-garlic/) *Allium sativum L.*
   Actions: Antioxidant, Anticancer, Neuroprotective
-- [Shrigataka](/ayurveda-atlas/herb/shrigataka/) *Trapa natans L. (syn. Trapa bispinosa Roxb.)*
+- [Shrigataka](/nighantu/herb/shrigataka/) *Trapa natans L. (syn. Trapa bispinosa Roxb.)*
   Actions: Antioxidant, Anticancer, Antidiabetic
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) *Tinospora cordifolia*
+- [Guduchi](/nighantu/herb/guduchi/) *Tinospora cordifolia*
   Actions: Antioxidant, Medhya (Nootropic), Adaptogenic
-- [Karkatashringi](/ayurveda-atlas/herb/karkatashringi/) *Pistacia integerrima J.L. Stewart ex Brandis*
+- [Karkatashringi](/nighantu/herb/karkatashringi/) *Pistacia integerrima J.L. Stewart ex Brandis*
   Actions: Antioxidant, Anticancer, Bronchodilator
-- [Lasuna](/ayurveda-atlas/herb/lasuna/) *Allium sativum L.*
+- [Lasuna](/nighantu/herb/lasuna/) *Allium sativum L.*
   Actions: Antioxidant, Anticancer, Hepatoprotective
-- [Matulunga](/ayurveda-atlas/herb/matulunga/) *Citrus medica L.*
+- [Matulunga](/nighantu/herb/matulunga/) *Citrus medica L.*
   Actions: Antioxidant, Anticancer, Antidiabetic
-- [Sthneyaka](/ayurveda-atlas/herb/sthneyaka/) *Taxus baccata L. (possibly Taxus wallichiana Zucc. in Indian context)*
+- [Sthneyaka](/nighantu/herb/sthneyaka/) *Taxus baccata L. (possibly Taxus wallichiana Zucc. in Indian context)*
   Actions: Anticancer, Antispasmodic, Anti-inflammatory
-- [Amra](/ayurveda-atlas/herb/amra/) *Mangifera indica L.*
+- [Amra](/nighantu/herb/amra/) *Mangifera indica L.*
   Actions: Antioxidant, Anticancer, Hepatoprotective
-- [Bakula](/ayurveda-atlas/herb/bakula/) *Mimusops elengi L.*
+- [Bakula](/nighantu/herb/bakula/) *Mimusops elengi L.*
   Actions: Antioxidant, Anticancer, Anti-inflammatory
 
 ### Hijal {#hijal}
@@ -1217,7 +1217,7 @@ Blood-letting for Kapha-Rakta conditions, localized edema, skin disorders.
 
 **Standard Dosage:** 3-6g bark powder twice daily; 50-100ml decoction
 
-**Bioavailability:** Barringtonia acutangula bark is rich in [tannins](/ayurveda-atlas/reference/tannins/) and [saponins](/ayurveda-atlas/reference/saponins/). Tannins have limited oral bioavailability due to large molecular size and protein binding. Saponin fractions may show better absorption. Traditional decoction preparation may partially hydrolyze tannins improving absorption of smaller phenolic fragments.
+**Bioavailability:** Barringtonia acutangula bark is rich in [tannins](/nighantu/reference/tannins/) and [saponins](/nighantu/reference/saponins/). Tannins have limited oral bioavailability due to large molecular size and protein binding. Saponin fractions may show better absorption. Traditional decoction preparation may partially hydrolyze tannins improving absorption of smaller phenolic fragments.
 
 **Optimal Timing:** Before meals with warm water or honey
 
@@ -1237,8 +1237,8 @@ Blood-letting for Kapha-Rakta conditions, localized edema, skin disorders.
 
 ### Synergistic Combinations
 
-- With [Lodhra](/ayurveda-atlas/herb/lodhra/) for gynecological disorders
-- With [Ashoka](/ayurveda-atlas/herb/ashoka/) bark for uterine tonic action
+- With [Lodhra](/nighantu/herb/lodhra/) for gynecological disorders
+- With [Ashoka](/nighantu/herb/ashoka/) bark for uterine tonic action
 - With Kutaja for antidiarrheal effect
 
 ### Horn Instrument Cupping Horn {#horn-instrument-cupping-horn}
@@ -1282,35 +1282,35 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 #### Ayurveda Approach
 
-- [Jivanti](/ayurveda-atlas/herb/jivanti/) *Leptadenia reticulata (Retz.) Wight & Arn.*
+- [Jivanti](/nighantu/herb/jivanti/) *Leptadenia reticulata (Retz.) Wight & Arn.*
   Actions: Antioxidant, Anticancer, Galactagogue
-- [Akarakarabha](/ayurveda-atlas/herb/akarakarabha/) *Anacyclus pyrethrum (L.) Lag.*
+- [Akarakarabha](/nighantu/herb/akarakarabha/) *Anacyclus pyrethrum (L.) Lag.*
   Actions: Anticancer, Aphrodisiac, Wound Healing
-- [Danti](/ayurveda-atlas/herb/danti/) *Baliospermum montanum (Willd.) Muell.-Arg.*
+- [Danti](/nighantu/herb/danti/) *Baliospermum montanum (Willd.) Muell.-Arg.*
   Actions: Antioxidant, Anticancer, Hepatoprotective
-- [Giloy](/ayurveda-atlas/herb/guduchi/) *Tinospora cordifolia*
+- [Giloy](/nighantu/herb/guduchi/) *Tinospora cordifolia*
   Actions: Antioxidant, Anticancer, Medhya (Nootropic)
-- [Mahasudarshan Churna](/ayurveda-atlas/formulation/mahasudarshan-churna/)
+- [Mahasudarshan Churna](/nighantu/formulation/mahasudarshan-churna/)
   Actions: Antioxidant, Hepatoprotective, Bronchodilator
-- [Akshotaka](/ayurveda-atlas/herb/akshotaka/) *Juglans regia L.*
+- [Akshotaka](/nighantu/herb/akshotaka/) *Juglans regia L.*
   Actions: Antioxidant, Wound Healing, Adaptogenic
-- [Chhatraka](/ayurveda-atlas/herb/chhatraka/) *Agaricus campestris L.*
+- [Chhatraka](/nighantu/herb/chhatraka/) *Agaricus campestris L.*
   Actions: Antioxidant, Adaptogenic, Antitumor
-- [Kakoli](/ayurveda-atlas/herb/kakoli/) *Roscoea purpurea Sm. (also identified with Fritillaria roylei)*
+- [Kakoli](/nighantu/herb/kakoli/) *Roscoea purpurea Sm. (also identified with Fritillaria roylei)*
   Actions: Antioxidant, Anticancer, Galactagogue
-- [Rasona Garlic](/ayurveda-atlas/herb/rasona-garlic/) *Allium sativum L.*
+- [Rasona Garlic](/nighantu/herb/rasona-garlic/) *Allium sativum L.*
   Actions: Antioxidant, Anticancer, Neuroprotective
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) *Tinospora cordifolia*
+- [Guduchi](/nighantu/herb/guduchi/) *Tinospora cordifolia*
   Actions: Antioxidant, Medhya (Nootropic), Adaptogenic
-- [Gomutra](/ayurveda-atlas/herb/gomutra/)
+- [Gomutra](/nighantu/herb/gomutra/)
   Actions: Antioxidant, Anticancer, Hepatoprotective
-- [Balarishta](/ayurveda-atlas/formulation/balarishta/)
+- [Balarishta](/nighantu/formulation/balarishta/)
   Actions: Antioxidant, Adaptogenic, Neuroprotective
-- [Chyawanprash](/ayurveda-atlas/formulation/chyawanprash/)
+- [Chyawanprash](/nighantu/formulation/chyawanprash/)
   Actions: Antioxidant, Medhya (Nootropic), Adaptogenic
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/)
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/)
   Actions: Antioxidant, Adaptogenic, Neuroprotective
-- [Kalajaji](/ayurveda-atlas/herb/kalajaji/) *Nigella sativa L.*
+- [Kalajaji](/nighantu/herb/kalajaji/) *Nigella sativa L.*
   Actions: Antioxidant, Anticancer, Antidiabetic
 
 ### Jaitun Taila {#jaitun-taila}
@@ -1319,7 +1319,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 | Language | Name |
 |----------|------|
-| English | [Jaitun Taila](/ayurveda-atlas/glossary/concepts-a-m/#jaitun-taila) |
+| English | [Jaitun Taila](/nighantu/glossary/concepts-a-m/#jaitun-taila) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -1370,7 +1370,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Storage:** Cool, dark place; tinted glass bottles
 
-**Marker Compounds:** Oleic acid (55–83%), Hydroxytyrosol, [Oleuropein](/ayurveda-atlas/glossary/compounds-o-q/#oleuropein), [Squalene](/ayurveda-atlas/glossary/compounds-q-t/#squalene), Vitamin E
+**Marker Compounds:** Oleic acid (55–83%), Hydroxytyrosol, [Oleuropein](/nighantu/glossary/compounds-o-q/#oleuropein), [Squalene](/nighantu/glossary/compounds-q-t/#squalene), Vitamin E
 
 **Quality Parameters:** FFA <0.8% (EVOO), peroxide value <20 meq/kg, polyphenol content >250 mg/kg
 
@@ -1408,7 +1408,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** 1-3g powder twice daily; 30-60ml decoction
 
-**Bioavailability:** Phyla nodiflora (Lippia nodiflora) contains [flavonoids](/ayurveda-atlas/reference/flavonoids/) ([hispidulin](/ayurveda-atlas/glossary/compounds-g-l/#hispidulin), eupafolin) and [triterpenes](/ayurveda-atlas/glossary/compounds-t-z/#triterpenes) with moderate oral bioavailability. Hispidulin shows reasonable absorption with Tmax of ~2 hours. Lipid-based formulations may enhance terpenoid absorption.
+**Bioavailability:** Phyla nodiflora (Lippia nodiflora) contains [flavonoids](/nighantu/reference/flavonoids/) ([hispidulin](/nighantu/glossary/compounds-g-l/#hispidulin), eupafolin) and [triterpenes](/nighantu/glossary/compounds-t-z/#triterpenes) with moderate oral bioavailability. Hispidulin shows reasonable absorption with Tmax of ~2 hours. Lipid-based formulations may enhance terpenoid absorption.
 
 **Optimal Timing:** Before meals with warm water or honey
 
@@ -1418,7 +1418,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Storage:** Cool, dry place below 25°C, protected from light and moisture in airtight containers
 
-**Marker Compounds:** Hispidulin, Eupafolin, Nodifloretin, Betulinic acid, [Stigmasterol](/ayurveda-atlas/reference/stigmasterol/)
+**Marker Compounds:** Hispidulin, Eupafolin, Nodifloretin, Betulinic acid, [Stigmasterol](/nighantu/reference/stigmasterol/)
 
 ### Extraction Methods
 
@@ -1429,9 +1429,9 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 ### Synergistic Combinations
 
-- With [Pippali](/ayurveda-atlas/herb/pippali/) for respiratory disorders
-- With [Guduchi](/ayurveda-atlas/herb/guduchi/) for [antipyretic](/ayurveda-atlas/reference/antipyretic/) action
-- With [Kantakari](/ayurveda-atlas/herb/kantakari/) for cough and bronchitis
+- With [Pippali](/nighantu/herb/pippali/) for respiratory disorders
+- With [Guduchi](/nighantu/herb/guduchi/) for [antipyretic](/nighantu/reference/antipyretic/) action
+- With [Kantakari](/nighantu/herb/kantakari/) for cough and bronchitis
 
 ### Jamun Herb {#jamun-herb}
 
@@ -1456,7 +1456,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** 3-5g leaf powder twice daily; 50-100ml leaf decoction; 10-20ml fresh leaf juice
 
-**Bioavailability:** Syzygium cumini leaf (referred here as [Jamun](/ayurveda-atlas/herb/jamun/) Herb to differentiate from seed/fruit) contains [myricetin](/ayurveda-atlas/glossary/compounds-l-o/#myricetin), [quercetin](/ayurveda-atlas/reference/quercetinquercetin/), [isoquercetin](/ayurveda-atlas/glossary/compounds-g-l/#isoquercetin), and [tannins](/ayurveda-atlas/reference/tannins/). Myricetin has poor bioavailability (~2%) due to extensive glucuronidation. Quercetin bioavailability is ~5-10%, improved with lipids. Leaf extract shows hypoglycemic activity via different mechanisms than seed extract.
+**Bioavailability:** Syzygium cumini leaf (referred here as [Jamun](/nighantu/herb/jamun/) Herb to differentiate from seed/fruit) contains [myricetin](/nighantu/glossary/compounds-l-o/#myricetin), [quercetin](/nighantu/reference/quercetinquercetin/), [isoquercetin](/nighantu/glossary/compounds-g-l/#isoquercetin), and [tannins](/nighantu/reference/tannins/). Myricetin has poor bioavailability (~2%) due to extensive glucuronidation. Quercetin bioavailability is ~5-10%, improved with lipids. Leaf extract shows hypoglycemic activity via different mechanisms than seed extract.
 
 **Optimal Timing:** Before meals with water for blood sugar support; fresh juice in the morning on empty stomach
 
@@ -1464,7 +1464,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Shelf Life:** 1.5 years (leaf powder); 2 years (capsule); 3 months (fresh juice, preserved)
 
-**Storage:** Cool, dry place below 25°C, protected from light ([flavonoids](/ayurveda-atlas/reference/flavonoids/) are photosensitive). Airtight containers.
+**Storage:** Cool, dry place below 25°C, protected from light ([flavonoids](/nighantu/reference/flavonoids/) are photosensitive). Airtight containers.
 
 **Marker Compounds:** Myricetin, Quercetin, Isoquercetin, Gallic acid, Ellagic acid, Betulinic acid
 
@@ -1477,9 +1477,9 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 ### Synergistic Combinations
 
-- With [Neem](/ayurveda-atlas/herb/neem/) leaves for anti-hyperglycemic action
-- With [Tulsi](/ayurveda-atlas/herb/tulsi/) for immune support
-- With [Guduchi](/ayurveda-atlas/herb/guduchi/) for [antipyretic](/ayurveda-atlas/reference/antipyretic/) action
+- With [Neem](/nighantu/herb/neem/) leaves for anti-hyperglycemic action
+- With [Tulsi](/nighantu/herb/tulsi/) for immune support
+- With [Guduchi](/nighantu/herb/guduchi/) for [antipyretic](/nighantu/reference/antipyretic/) action
 
 ### Jatamansi Herb {#jatamansi-herb}
 
@@ -1504,17 +1504,17 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** 3-5g powder twice daily; 50-100ml decoction; external oil application as needed
 
-**Bioavailability:** When [Jatamansi](/ayurveda-atlas/herb/jatamansi/) Herb refers to the whole plant preparation (as distinguished from rhizome-only Jatamansi), the bioavailability profile is similar but with additional aerial part constituents including [flavonoids](/ayurveda-atlas/reference/flavonoids/) and phenolic acids. The sesquiterpene content may be lower per gram compared to rhizome-only preparations. Leaf and stem fractions contribute additional [antioxidant](/ayurveda-atlas/reference/antioxidant/) [polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols).
+**Bioavailability:** When [Jatamansi](/nighantu/herb/jatamansi/) Herb refers to the whole plant preparation (as distinguished from rhizome-only Jatamansi), the bioavailability profile is similar but with additional aerial part constituents including [flavonoids](/nighantu/reference/flavonoids/) and phenolic acids. The sesquiterpene content may be lower per gram compared to rhizome-only preparations. Leaf and stem fractions contribute additional [antioxidant](/nighantu/reference/antioxidant/) [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols).
 
 **Optimal Timing:** At bedtime for calming effect; twice daily for chronic neurological support
 
-**Standardized Extract:** Whole plant hydroalcoholic extract with HPTLC fingerprint for identity; standardization to [jatamansone](/ayurveda-atlas/glossary/compounds-g-l/#jatamansone) if detectable in aerial parts
+**Standardized Extract:** Whole plant hydroalcoholic extract with HPTLC fingerprint for identity; standardization to [jatamansone](/nighantu/glossary/compounds-g-l/#jatamansone) if detectable in aerial parts
 
 **Shelf Life:** 1.5 years (whole plant powder); 2 years (capsule)
 
 **Storage:** Cool, dry place below 25°C, protected from light and moisture in airtight containers
 
-**Marker Compounds:** Jatamansone (if present in aerial parts), [Nardosinone](/ayurveda-atlas/glossary/compounds-l-o/#nardosinone), Ursolic acid, Oleanolic acid, Chlorogenic acid
+**Marker Compounds:** Jatamansone (if present in aerial parts), [Nardosinone](/nighantu/glossary/compounds-l-o/#nardosinone), Ursolic acid, Oleanolic acid, Chlorogenic acid
 
 ### Extraction Methods
 
@@ -1524,8 +1524,8 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 ### Synergistic Combinations
 
-- With [Brahmi](/ayurveda-atlas/herb/brahmi/) for neurological support
-- With [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) for [adaptogenic](/ayurveda-atlas/reference/adaptogenic/) action
+- With [Brahmi](/nighantu/herb/brahmi/) for neurological support
+- With [Ashwagandha](/nighantu/herb/ashwagandha/) for [adaptogenic](/nighantu/reference/adaptogenic/) action
 - With Mandukaparni for cognitive enhancement
 
 ### Joint & Musculoskeletal — Across Traditions {#joint-musculoskeletal-across-traditions}
@@ -1539,34 +1539,34 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 #### Ayurveda Approach
 
-- [Laung](/ayurveda-atlas/herb/laung/) *Syzygium aromaticum*
+- [Laung](/nighantu/herb/laung/) *Syzygium aromaticum*
   Actions: Antioxidant, Anticancer, Antitumor
-- [Devadaru](/ayurveda-atlas/herb/devadaru/) *Cedrus deodara (Roxb. ex D.Don) G.Don*
+- [Devadaru](/nighantu/herb/devadaru/) *Cedrus deodara (Roxb. ex D.Don) G.Don*
   Actions: Antioxidant, Anticancer, Bronchodilator
-- [Jyotishmati](/ayurveda-atlas/herb/jyotishmati/)
+- [Jyotishmati](/nighantu/herb/jyotishmati/)
   Actions: Antioxidant, Wound Healing, Nootropic
-- [Balarishta](/ayurveda-atlas/formulation/balarishta/)
+- [Balarishta](/nighantu/formulation/balarishta/)
   Actions: Antioxidant, Adaptogenic, Neuroprotective
-- [Agnikarna](/ayurveda-atlas/herb/agnikarna/) *Gloriosa superba L. ([Agnikumarika](/ayurveda-atlas/herb/agnikumarika/)/Agnimukhi); also associated with Litsea species in some texts*
+- [Agnikarna](/nighantu/herb/agnikarna/) *Gloriosa superba L. ([Agnikumarika](/nighantu/herb/agnikumarika/)/Agnimukhi); also associated with Litsea species in some texts*
   Actions: Antioxidant, Anticancer, Wound Healing
-- [Mahabala](/ayurveda-atlas/herb/mahabala/) *Sida rhombifolia L.*
+- [Mahabala](/nighantu/herb/mahabala/) *Sida rhombifolia L.*
   Actions: Antioxidant, Wound Healing, Adaptogenic
-- [Nirgundi](/ayurveda-atlas/herb/nirgundi/) *Vitex negundo L.*
+- [Nirgundi](/nighantu/herb/nirgundi/) *Vitex negundo L.*
   Actions: Antioxidant, Antitumor, Anti-inflammatory
-- [Shirisha](/ayurveda-atlas/herb/shirisha/) *Albizia lebbeck (L.) Benth.*
+- [Shirisha](/nighantu/herb/shirisha/) *Albizia lebbeck (L.) Benth.*
   Actions: Antioxidant, Anticancer, Medhya (Nootropic)
-- [Trivrit](/ayurveda-atlas/herb/trivrit/) *Operculina turpethum (L.) Silva Manso (syn. Ipomoea turpethum R. Br.)*
+- [Trivrit](/nighantu/herb/trivrit/) *Operculina turpethum (L.) Silva Manso (syn. Ipomoea turpethum R. Br.)*
   Actions: Hepatoprotective, Antidiabetic, Laxative
   Actions: Antioxidant, Anticancer, Hepatoprotective
-- [Parijata](/ayurveda-atlas/herb/parijata/) *Nyctanthes arbor-tristis L.*
+- [Parijata](/nighantu/herb/parijata/) *Nyctanthes arbor-tristis L.*
   Actions: Antioxidant, Neuroprotective, Antimicrobial
-- [Plaksha](/ayurveda-atlas/herb/plaksha/) *Ficus lacor Buch.-Ham.*
+- [Plaksha](/nighantu/herb/plaksha/) *Ficus lacor Buch.-Ham.*
   Actions: Wound Healing, Antidiabetic, Antimicrobial
-- [Simhanada Guggulu](/ayurveda-atlas/formulation/simhanada-guggulu/)
+- [Simhanada Guggulu](/nighantu/formulation/simhanada-guggulu/)
   Actions: Antioxidant, Hypolipidemic, Laxative
-- [Ankola](/ayurveda-atlas/herb/ankola/) *Alangium salviifolium (L.f.) Wangerin*
+- [Ankola](/nighantu/herb/ankola/) *Alangium salviifolium (L.f.) Wangerin*
   Actions: Antioxidant, Anticancer, Wound Healing
-- [Eranda](/ayurveda-atlas/herb/eranda/) *Ricinus communis L.*
+- [Eranda](/nighantu/herb/eranda/) *Ricinus communis L.*
   Actions: Wound Healing, Laxative, Anti-inflammatory
 
 ### Kakajangha {#kakajangha}
@@ -1601,7 +1601,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** 3-5g powder twice daily; 30-60ml decoction; external paste as needed
 
-**Bioavailability:** Peristrophe bicalyculata - limited modern pharmacokinetic data. Contains [flavonoids](/ayurveda-atlas/reference/flavonoids/), [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids), and [terpenoids](/ayurveda-atlas/glossary/compounds-t-z/#terpenoids). Flavonoid components likely have moderate bioavailability similar to other Acanthaceae family members. Alkaloid fraction may contribute to observed biological activities. Traditional decoction preparation is the validated route of administration.
+**Bioavailability:** Peristrophe bicalyculata - limited modern pharmacokinetic data. Contains [flavonoids](/nighantu/reference/flavonoids/), [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids), and [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids). Flavonoid components likely have moderate bioavailability similar to other Acanthaceae family members. Alkaloid fraction may contribute to observed biological activities. Traditional decoction preparation is the validated route of administration.
 
 **Optimal Timing:** Before meals with warm water
 
@@ -1611,7 +1611,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Storage:** Cool, dry place below 25°C in airtight containers, protected from light and moisture
 
-**Marker Compounds:** Flavonoids (general TLC profiling), Alkaloids (Dragendorff's reagent positive), Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), [Lupeol](/ayurveda-atlas/reference/lupeol/)
+**Marker Compounds:** Flavonoids (general TLC profiling), Alkaloids (Dragendorff's reagent positive), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Lupeol](/nighantu/reference/lupeol/)
 
 ### Extraction Methods
 
@@ -1621,9 +1621,9 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 ### Synergistic Combinations
 
-- With [Guduchi](/ayurveda-atlas/herb/guduchi/) for [antipyretic](/ayurveda-atlas/reference/antipyretic/) action
-- With [Nimba](/ayurveda-atlas/herb/nimba/) for blood purification
-- With [Triphala](/ayurveda-atlas/herb/triphala/) for detoxification
+- With [Guduchi](/nighantu/herb/guduchi/) for [antipyretic](/nighantu/reference/antipyretic/) action
+- With [Nimba](/nighantu/herb/nimba/) for blood purification
+- With [Triphala](/nighantu/herb/triphala/) for detoxification
 
 ### Kalamba {#kalamba}
 
@@ -1657,7 +1657,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** 3-6g bark powder twice daily; 50-100ml decoction
 
-**Bioavailability:** Ipomoea aquatica (water spinach) or Mitragyna parvifolia (depending on regional interpretation of Kalamba). Contains [flavonoids](/ayurveda-atlas/reference/flavonoids/), [tannins](/ayurveda-atlas/reference/tannins/), and [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) with moderate oral absorption. Limited modern pharmacokinetic studies. Traditional aqueous decoction is the standard preparation method facilitating extraction of hydrophilic compounds.
+**Bioavailability:** Ipomoea aquatica (water spinach) or Mitragyna parvifolia (depending on regional interpretation of Kalamba). Contains [flavonoids](/nighantu/reference/flavonoids/), [tannins](/nighantu/reference/tannins/), and [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) with moderate oral absorption. Limited modern pharmacokinetic studies. Traditional aqueous decoction is the standard preparation method facilitating extraction of hydrophilic compounds.
 
 **Optimal Timing:** Before meals with warm water for fever; external paste for skin conditions
 
@@ -1677,8 +1677,8 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 ### Synergistic Combinations
 
-- With [Guduchi](/ayurveda-atlas/herb/guduchi/) for fever management
-- With [Nimba](/ayurveda-atlas/herb/nimba/) for blood purification
+- With [Guduchi](/nighantu/herb/guduchi/) for fever management
+- With [Nimba](/nighantu/herb/nimba/) for blood purification
 - With Kutaja for diarrheal conditions
 
 ### Kalyana Ksharam {#kalyana-ksharam}
@@ -1687,7 +1687,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 | Language | Name |
 |----------|------|
-| English | [Kalyana Ksharam](/ayurveda-atlas/glossary/concepts-a-m/#kalyana-ksharam) |
+| English | [Kalyana Ksharam](/nighantu/glossary/concepts-a-m/#kalyana-ksharam) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -1723,7 +1723,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Storage:** Airtight, moisture-proof container (hygroscopic)
 
-**Marker Compounds:** [Potassium](/ayurveda-atlas/glossary/compounds-o-q/#potassium) carbonate, Sodium carbonate, Potassium hydroxide, Plant-derived [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids)
+**Marker Compounds:** [Potassium](/nighantu/glossary/compounds-o-q/#potassium) carbonate, Sodium carbonate, Potassium hydroxide, Plant-derived [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids)
 
 **Quality Parameters:** pH 10–12, total alkalinity as labeled, no excess free alkali beyond therapeutic range
 
@@ -1816,13 +1816,13 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Optimal Timing:** Applied surgically; changed weekly
 
-**Standardized Extract:** Linen thread coated with Snuhi Kshira (Euphorbia latex) + [Apamarga](/ayurveda-atlas/herb/apamarga/) Kshara (Achyranthes ash alkali) + [Haridra](/ayurveda-atlas/herb/haridra/) ([turmeric](/ayurveda-atlas/herb/turmeric/))
+**Standardized Extract:** Linen thread coated with Snuhi Kshira (Euphorbia latex) + [Apamarga](/nighantu/herb/apamarga/) Kshara (Achyranthes ash alkali) + [Haridra](/nighantu/herb/haridra/) ([turmeric](/nighantu/herb/turmeric/))
 
 **Shelf Life:** 6–12 months (sealed, sterile packaging)
 
 **Storage:** Sterile container; cool, dry place; protected from light
 
-**Marker Compounds:** Latex proteases (from Snuhi), [Potassium](/ayurveda-atlas/glossary/compounds-o-q/#potassium) carbonate (from [Apamarga](/ayurveda-atlas/herb/apamarga/) Kshara), [Curcumin](/ayurveda-atlas/herb/curcumin/) (from [Haridra](/ayurveda-atlas/herb/haridra/))
+**Marker Compounds:** Latex proteases (from Snuhi), [Potassium](/nighantu/glossary/compounds-o-q/#potassium) carbonate (from [Apamarga](/nighantu/herb/apamarga/) Kshara), [Curcumin](/nighantu/herb/curcumin/) (from [Haridra](/nighantu/herb/haridra/))
 
 **Quality Parameters:** 21 coatings minimum (11 Snuhi + 7 Snuhi+Kshara + 3 Haridra), pH 9.5–10.5, thread strength >2 kg breaking load, sterility test pass
 
@@ -1834,7 +1834,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 | Language | Name |
 |----------|------|
-| English | [Kushmanda](/ayurveda-atlas/herb/kushmanda/) Avaleha |
+| English | [Kushmanda](/nighantu/herb/kushmanda/) Avaleha |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -1868,7 +1868,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Storage:** Airtight glass/HDPE jar, cool dry place
 
-**Marker Compounds:** [Cucurbitacins](/ayurveda-atlas/glossary/compounds-c-d/#cucurbitacins), Ascorbic acid
+**Marker Compounds:** [Cucurbitacins](/nighantu/glossary/compounds-c-d/#cucurbitacins), Ascorbic acid
 
 **Quality Parameters:** Total sugar 60-70%, moisture NMT 15%, pH 4.0-5.5, total ash, marker: cucurbitacins
 
@@ -1884,7 +1884,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 | Language | Name |
 |----------|------|
-| English | [Kushmanda](/ayurveda-atlas/herb/kushmanda/) Khanda |
+| English | [Kushmanda](/nighantu/herb/kushmanda/) Khanda |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -1918,7 +1918,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Storage:** Airtight container, dry place
 
-**Marker Compounds:** [Cucurbitacins](/ayurveda-atlas/glossary/compounds-c-d/#cucurbitacins)
+**Marker Compounds:** [Cucurbitacins](/nighantu/glossary/compounds-c-d/#cucurbitacins)
 
 **Quality Parameters:** Moisture NMT 8%, granule uniformity, total sugar content
 
@@ -1926,7 +1926,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 ### Synergistic Combinations
 
-- Pitta-pacifying herbs synergize with cooling [kushmanda](/ayurveda-atlas/herb/kushmanda/)
+- Pitta-pacifying herbs synergize with cooling [kushmanda](/nighantu/herb/kushmanda/)
 
 ### Kushmanda Svarasa {#kushmanda-svarasa}
 
@@ -1934,7 +1934,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 | Language | Name |
 |----------|------|
-| English | [Kushmanda](/ayurveda-atlas/herb/kushmanda/) Svarasa |
+| English | [Kushmanda](/nighantu/herb/kushmanda/) Svarasa |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -1960,7 +1960,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** 10-20ml twice daily
 
-**Bioavailability:** Fresh juice provides maximum bioavailability of water-soluble [vitamins](/ayurveda-atlas/glossary/compounds-t-z/#vitamins) and minerals
+**Bioavailability:** Fresh juice provides maximum bioavailability of water-soluble [vitamins](/nighantu/glossary/compounds-t-z/#vitamins) and minerals
 
 **Optimal Timing:** Morning on empty stomach
 
@@ -1968,7 +1968,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Storage:** Refrigerate immediately; use same day for svarasa
 
-**Marker Compounds:** Ascorbic acid, [Cucurbitacins](/ayurveda-atlas/glossary/compounds-c-d/#cucurbitacins)
+**Marker Compounds:** Ascorbic acid, [Cucurbitacins](/nighantu/glossary/compounds-c-d/#cucurbitacins)
 
 **Quality Parameters:** pH 5.0-6.5, total solids, microbial limits, vitamin C content
 
@@ -1985,7 +1985,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 | Language | Name |
 |----------|------|
-| English | [Kusumbha](/ayurveda-atlas/herb/kusumbha/) Taila |
+| English | [Kusumbha](/nighantu/herb/kusumbha/) Taila |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -2027,7 +2027,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 ### Synergistic Combinations
 
-- Key herbs: [Kusumbha](/ayurveda-atlas/herb/kusumbha/) (safflower) with specified herbs; oil base acts as lipid carrier for enhanced tissue penetration
+- Key herbs: [Kusumbha](/nighantu/herb/kusumbha/) (safflower) with specified herbs; oil base acts as lipid carrier for enhanced tissue penetration
 
 ### Laksha {#laksha}
 
@@ -2067,7 +2067,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 #### Dosage forms and preparation
 
-**Dosage Forms:** Purified resin, Laksha Churna, Laksha [Guggulu](/ayurveda-atlas/formulation/guggulu/)
+**Dosage Forms:** Purified resin, Laksha Churna, Laksha [Guggulu](/nighantu/formulation/guggulu/)
 
 **Standard Dosage:** 1–3 g powder; as per formulation
 
@@ -2093,7 +2093,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 | Language | Name |
 |----------|------|
-| English | [Lasunadi Vati](/ayurveda-atlas/glossary/concepts-a-m/#lasunadi-vati) |
+| English | [Lasunadi Vati](/nighantu/glossary/concepts-a-m/#lasunadi-vati) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -2119,7 +2119,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** 2 tablets twice daily
 
-**Bioavailability:** Tablet/pill form provides controlled disintegration; some vatis use honey/[guggulu](/ayurveda-atlas/formulation/guggulu/) as bioenhancing binders
+**Bioavailability:** Tablet/pill form provides controlled disintegration; some vatis use honey/[guggulu](/nighantu/formulation/guggulu/) as bioenhancing binders
 
 **Optimal Timing:** Before or after meals as indicated
 
@@ -2127,7 +2127,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
-**Marker Compounds:** [Allicin](/ayurveda-atlas/glossary/compounds-1-a/#allicin), [Ajoene](/ayurveda-atlas/glossary/compounds-1-a/#ajoene)
+**Marker Compounds:** [Allicin](/nighantu/glossary/compounds-1-a/#allicin), [Ajoene](/nighantu/glossary/compounds-1-a/#ajoene)
 
 **Quality Parameters:** Weight variation ±5%, disintegration <30 min, friability <1%, marker: Allicin, Ajoene
 
@@ -2135,7 +2135,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 ### Synergistic Combinations
 
-- Key herbs: [Lasuna](/ayurveda-atlas/herb/lasuna/) (garlic), Maricha, [Hingu](/ayurveda-atlas/herb/hingu/)
+- Key herbs: [Lasuna](/nighantu/herb/lasuna/) (garlic), Maricha, [Hingu](/nighantu/herb/hingu/)
 
 ### Lavan Bhaskar Churna {#lavan-bhaskar-churna}
 
@@ -2143,7 +2143,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 | Language | Name |
 |----------|------|
-| English | [Lavan Bhaskar Churna](/ayurveda-atlas/glossary/concepts-a-m/#lavan-bhaskar-churna) |
+| English | [Lavan Bhaskar Churna](/nighantu/glossary/concepts-a-m/#lavan-bhaskar-churna) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -2177,7 +2177,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
-**Marker Compounds:** [Piperine](/ayurveda-atlas/reference/piperine/), Sodium chloride content
+**Marker Compounds:** [Piperine](/nighantu/reference/piperine/), Sodium chloride content
 
 **Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Piperine, Sodium chloride content
 
@@ -2198,35 +2198,35 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 #### Ayurveda Approach
 
-- [Vidarikand](/ayurveda-atlas/herb/vidarikand/) *Pueraria tuberosa (Willd.) DC.*
+- [Vidarikand](/nighantu/herb/vidarikand/) *Pueraria tuberosa (Willd.) DC.*
   Actions: Antioxidant, Anticancer, Aphrodisiac
-- [Gambhari Phala](/ayurveda-atlas/herb/gambhari-phala/) *Gmelina arborea Roxb.*
+- [Gambhari Phala](/nighantu/herb/gambhari-phala/) *Gmelina arborea Roxb.*
   Actions: Antioxidant, Galactagogue, Wound Healing
-- [Kharjura](/ayurveda-atlas/herb/kharjura/) *Phoenix dactylifera L.*
+- [Kharjura](/nighantu/herb/kharjura/) *Phoenix dactylifera L.*
   Actions: Antioxidant, Anticancer, Aphrodisiac
-- [Jatamansi](/ayurveda-atlas/herb/jatamansi/)
+- [Jatamansi](/nighantu/herb/jatamansi/)
   Actions: Antioxidant, Nootropic, Medhya (Nootropic)
-- [Akhuparni](/ayurveda-atlas/herb/akhuparni/) *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
+- [Akhuparni](/nighantu/herb/akhuparni/) *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
   Actions: Antioxidant, Anticancer, Nootropic
-- [Giloy Satva](/ayurveda-atlas/herb/giloy-satva/) *Tinospora cordifolia (Willd.) Miers (aqueous starch extract)*
+- [Giloy Satva](/nighantu/herb/giloy-satva/) *Tinospora cordifolia (Willd.) Miers (aqueous starch extract)*
   Actions: Antioxidant, Anticancer, Adaptogenic
-- [Madhuka](/ayurveda-atlas/herb/madhuka/) *Madhuca longifolia (J.Koenig ex L.) J.F.Macbr.*
+- [Madhuka](/nighantu/herb/madhuka/) *Madhuca longifolia (J.Koenig ex L.) J.F.Macbr.*
   Actions: Antioxidant, Anticancer, Galactagogue
-- [Aparajita](/ayurveda-atlas/herb/aparajita/) *Clitoria ternatea L.*
+- [Aparajita](/nighantu/herb/aparajita/) *Clitoria ternatea L.*
   Actions: Antioxidant, Anticancer, Nootropic
-- [Shati](/ayurveda-atlas/herb/shati/) *Hedychium spicatum Buch.-Ham. ex Sm.*
+- [Shati](/nighantu/herb/shati/) *Hedychium spicatum Buch.-Ham. ex Sm.*
   Actions: Antioxidant, Bronchodilator, Antidiabetic
-- [Kovidara](/ayurveda-atlas/herb/kovidara/) *Bauhinia purpurea L.*
+- [Kovidara](/nighantu/herb/kovidara/) *Bauhinia purpurea L.*
   Actions: Antioxidant, Anticancer, Wound Healing
-- [Amlaparni](/ayurveda-atlas/herb/amlaparni/) *Oxalis corniculata L.*
+- [Amlaparni](/nighantu/herb/amlaparni/) *Oxalis corniculata L.*
   Actions: Antioxidant, Anticancer, Wound Healing
-- [Danti](/ayurveda-atlas/herb/danti/) *Baliospermum montanum (Willd.) Muell.-Arg.*
+- [Danti](/nighantu/herb/danti/) *Baliospermum montanum (Willd.) Muell.-Arg.*
   Actions: Antioxidant, Anticancer, Hepatoprotective
-- [Dhanyaka](/ayurveda-atlas/herb/dhanyaka/) *Coriandrum sativum L.*
+- [Dhanyaka](/nighantu/herb/dhanyaka/) *Coriandrum sativum L.*
   Actions: Antioxidant, Antidiabetic, Neuroprotective
-- [Mishreya](/ayurveda-atlas/herb/mishreya/) *Foeniculum vulgare Mill.*
+- [Mishreya](/nighantu/herb/mishreya/) *Foeniculum vulgare Mill.*
   Actions: Antioxidant, Anticancer, Galactagogue
-- [Nyagrodha](/ayurveda-atlas/herb/nyagrodha/) *Ficus benghalensis L.*
+- [Nyagrodha](/nighantu/herb/nyagrodha/) *Ficus benghalensis L.*
   Actions: Antioxidant, Anticancer, Wound Healing
 
 ### Lodhradi Churna {#lodhradi-churna}
@@ -2235,7 +2235,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 | Language | Name |
 |----------|------|
-| English | [Lodhradi Churna](/ayurveda-atlas/glossary/concepts-a-m/#lodhradi-churna) |
+| English | [Lodhradi Churna](/nighantu/glossary/concepts-a-m/#lodhradi-churna) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -2269,7 +2269,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
-**Marker Compounds:** [Loturine](/ayurveda-atlas/glossary/compounds-l-o/#loturine), Loturidine
+**Marker Compounds:** [Loturine](/nighantu/glossary/compounds-l-o/#loturine), Loturidine
 
 **Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Loturine, Loturidine
 
@@ -2285,7 +2285,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 | Language | Name |
 |----------|------|
-| English | [Madhuyashtyadi Thailam](/ayurveda-atlas/glossary/concepts-a-m/#madhuyashtyadi-thailam) |
+| English | [Madhuyashtyadi Thailam](/nighantu/glossary/concepts-a-m/#madhuyashtyadi-thailam) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -2307,11 +2307,11 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 #### Dosage forms and preparation
 
-**Dosage Forms:** Thailam (medicated [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)), External application
+**Dosage Forms:** Thailam (medicated [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)), External application
 
 **Standard Dosage:** External application for skin
 
-**Bioavailability:** Oil base ([sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
+**Bioavailability:** Oil base ([sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
 
 **Optimal Timing:** External: before bath or at bedtime. Internal: before meals
 
@@ -2319,15 +2319,15 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Storage:** Airtight amber glass/HDPE container, room temperature, protected from light
 
-**Marker Compounds:** [Glycyrrhizin](/ayurveda-atlas/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin), [Glabridin](/ayurveda-atlas/glossary/compounds-d-g/#glabridin)
+**Marker Compounds:** [Glycyrrhizin](/nighantu/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin), [Glabridin](/nighantu/glossary/compounds-d-g/#glabridin)
 
-**Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: [Glycyrrhizin](/ayurveda-atlas/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin), Glabridin
+**Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: [Glycyrrhizin](/nighantu/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin), Glabridin
 
 **Vehicle (Anupana):** External: massage into affected area. Internal: with warm water/milk
 
 ### Synergistic Combinations
 
-- Key herbs: [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/), [Manjistha](/ayurveda-atlas/herb/manjistha/), [Sariva](/ayurveda-atlas/herb/sariva/); oil base acts as lipid carrier for enhanced tissue penetration
+- Key herbs: [Yashtimadhu](/nighantu/herb/yashtimadhu/), [Manjistha](/nighantu/herb/manjistha/), [Sariva](/nighantu/herb/sariva/); oil base acts as lipid carrier for enhanced tissue penetration
 
 ### Mahakalyanaka Ghritam {#mahakalyanaka-ghritam}
 
@@ -2335,7 +2335,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 | Language | Name |
 |----------|------|
-| English | [Mahakalyanaka Ghritam](/ayurveda-atlas/glossary/concepts-a-m/#mahakalyanaka-ghritam) |
+| English | [Mahakalyanaka Ghritam](/nighantu/glossary/concepts-a-m/#mahakalyanaka-ghritam) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -2357,7 +2357,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 #### Dosage forms and preparation
 
-**Dosage Forms:** [Ghrita](/ayurveda-atlas/herb/ghrita/) (medicated ghee), Capsule (for convenience)
+**Dosage Forms:** [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Capsule (for convenience)
 
 **Standard Dosage:** 12-24ml twice daily with warm water
 
@@ -2365,7 +2365,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Optimal Timing:** Before meals on empty stomach for best absorption
 
-**Shelf Life:** 2 years (as per ASU guidelines for [ghrita](/ayurveda-atlas/herb/ghrita/) preparations); improves with aging (Purana Ghrita concept)
+**Shelf Life:** 2 years (as per ASU guidelines for [ghrita](/nighantu/herb/ghrita/) preparations); improves with aging (Purana Ghrita concept)
 
 **Storage:** Airtight glass/stainless steel container, cool dry place, protected from light and moisture
 
@@ -2377,7 +2377,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 ### Synergistic Combinations
 
-- Key herbs: [Triphala](/ayurveda-atlas/herb/triphala/), [Draksha](/ayurveda-atlas/herb/draksha/), [Vidari](/ayurveda-atlas/herb/vidari/), multiple herbs (30+); ghee enhances tissue penetration (yogavahi property)
+- Key herbs: [Triphala](/nighantu/herb/triphala/), [Draksha](/nighantu/herb/draksha/), [Vidari](/nighantu/herb/vidari/), multiple herbs (30+); ghee enhances tissue penetration (yogavahi property)
 
 ### Mahamarichyadi Taila {#mahamarichyadi-taila}
 
@@ -2385,7 +2385,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 | Language | Name |
 |----------|------|
-| English | [Mahamarichyadi Taila](/ayurveda-atlas/glossary/concepts-a-m/#mahamarichyadi-taila) |
+| English | [Mahamarichyadi Taila](/nighantu/glossary/concepts-a-m/#mahamarichyadi-taila) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -2407,11 +2407,11 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 #### Dosage forms and preparation
 
-**Dosage Forms:** Thailam (medicated [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)), External application
+**Dosage Forms:** Thailam (medicated [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)), External application
 
 **Standard Dosage:** External application for skin conditions
 
-**Bioavailability:** Oil base ([sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
+**Bioavailability:** Oil base ([sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
 
 **Optimal Timing:** External: before bath or at bedtime. Internal: before meals
 
@@ -2419,15 +2419,15 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Storage:** Airtight amber glass/HDPE container, room temperature, protected from light
 
-**Marker Compounds:** [Piperine](/ayurveda-atlas/reference/piperine/), [Curcumin](/ayurveda-atlas/herb/curcumin/)
+**Marker Compounds:** [Piperine](/nighantu/reference/piperine/), [Curcumin](/nighantu/herb/curcumin/)
 
-**Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Piperine, [Curcumin](/ayurveda-atlas/herb/curcumin/)
+**Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Piperine, [Curcumin](/nighantu/herb/curcumin/)
 
 **Vehicle (Anupana):** External: massage into affected area. Internal: with warm water/milk
 
 ### Synergistic Combinations
 
-- Key herbs: Maricha ([black pepper](/ayurveda-atlas/herb/black-pepper/)), [Haridra](/ayurveda-atlas/herb/haridra/), Kushtha; oil base acts as lipid carrier for enhanced tissue penetration
+- Key herbs: Maricha ([black pepper](/nighantu/herb/black-pepper/)), [Haridra](/nighantu/herb/haridra/), Kushtha; oil base acts as lipid carrier for enhanced tissue penetration
 
 ### Mahatiktaka Ghrita {#mahatiktaka-ghrita}
 
@@ -2435,7 +2435,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 | Language | Name |
 |----------|------|
-| English | Mahatiktaka [Ghrita](/ayurveda-atlas/herb/ghrita/)|Mahatiktaka Ghrita |
+| English | Mahatiktaka [Ghrita](/nighantu/herb/ghrita/)|Mahatiktaka Ghrita |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -2457,7 +2457,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 #### Dosage forms and preparation
 
-**Dosage Forms:** [Ghrita](/ayurveda-atlas/herb/ghrita/) (medicated ghee), Capsule (for convenience)
+**Dosage Forms:** [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Capsule (for convenience)
 
 **Standard Dosage:** 12-24ml twice daily
 
@@ -2465,19 +2465,19 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Optimal Timing:** Before meals on empty stomach for best absorption
 
-**Shelf Life:** 2 years (as per ASU guidelines for [ghrita](/ayurveda-atlas/herb/ghrita/) preparations); improves with aging (Purana Ghrita concept)
+**Shelf Life:** 2 years (as per ASU guidelines for [ghrita](/nighantu/herb/ghrita/) preparations); improves with aging (Purana Ghrita concept)
 
 **Storage:** Airtight glass/stainless steel container, cool dry place, protected from light and moisture
 
-**Marker Compounds:** Kutkin, [Berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine), [Tinosporin](/ayurveda-atlas/glossary/compounds-t-z/#tinosporin)
+**Marker Compounds:** Kutkin, [Berberine](/nighantu/glossary/compounds-a-c/#berberine), [Tinosporin](/nighantu/glossary/compounds-t-z/#tinosporin)
 
-**Quality Parameters:** Acid value <4, peroxide value <5 meq/kg, moisture <0.5%, rancidity test negative, marker: Kutkin, [Berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine), Tinosporin
+**Quality Parameters:** Acid value <4, peroxide value <5 meq/kg, moisture <0.5%, rancidity test negative, marker: Kutkin, [Berberine](/nighantu/glossary/compounds-a-c/#berberine), Tinosporin
 
 **Vehicle (Anupana):** Warm water or warm milk
 
 ### Synergistic Combinations
 
-- Key herbs: [Nimba](/ayurveda-atlas/herb/nimba/), [Patola](/ayurveda-atlas/herb/patola/), [Katuki](/ayurveda-atlas/herb/katuki/), [Guduchi](/ayurveda-atlas/herb/guduchi/) and bitter herbs; ghee enhances tissue penetration (yogavahi property)
+- Key herbs: [Nimba](/nighantu/herb/nimba/), [Patola](/nighantu/herb/patola/), [Katuki](/nighantu/herb/katuki/), [Guduchi](/nighantu/herb/guduchi/) and bitter herbs; ghee enhances tissue penetration (yogavahi property)
 
 ### Mahatriphala Ghrita {#mahatriphala-ghrita}
 
@@ -2485,7 +2485,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 | Language | Name |
 |----------|------|
-| English | Mahatriphala [Ghrita](/ayurveda-atlas/herb/ghrita/)|Mahatriphala Ghrita |
+| English | Mahatriphala [Ghrita](/nighantu/herb/ghrita/)|Mahatriphala Ghrita |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -2507,7 +2507,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 #### Dosage forms and preparation
 
-**Dosage Forms:** [Ghrita](/ayurveda-atlas/herb/ghrita/) (medicated ghee), Capsule (for convenience)
+**Dosage Forms:** [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Capsule (for convenience)
 
 **Standard Dosage:** 6-12ml twice daily for eye health
 
@@ -2515,19 +2515,19 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Optimal Timing:** Before meals on empty stomach for best absorption
 
-**Shelf Life:** 2 years (as per ASU guidelines for [ghrita](/ayurveda-atlas/herb/ghrita/) preparations); improves with aging (Purana Ghrita concept)
+**Shelf Life:** 2 years (as per ASU guidelines for [ghrita](/nighantu/herb/ghrita/) preparations); improves with aging (Purana Ghrita concept)
 
 **Storage:** Airtight glass/stainless steel container, cool dry place, protected from light and moisture
 
-**Marker Compounds:** Gallic acid, Ellagic acid, [Glycyrrhizin](/ayurveda-atlas/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin)
+**Marker Compounds:** Gallic acid, Ellagic acid, [Glycyrrhizin](/nighantu/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin)
 
-**Quality Parameters:** Acid value <4, peroxide value <5 meq/kg, moisture <0.5%, rancidity test negative, marker: Gallic acid, Ellagic acid, [Glycyrrhizin](/ayurveda-atlas/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin)
+**Quality Parameters:** Acid value <4, peroxide value <5 meq/kg, moisture <0.5%, rancidity test negative, marker: Gallic acid, Ellagic acid, [Glycyrrhizin](/nighantu/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin)
 
 **Vehicle (Anupana):** Warm water or warm milk
 
 ### Synergistic Combinations
 
-- Key herbs: [Triphala](/ayurveda-atlas/herb/triphala/) (Amalaki, [Haritaki](/ayurveda-atlas/herb/haritaki/), [Bibhitaki](/ayurveda-atlas/herb/bibhitaki/)), Bhringaraj, [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/); ghee enhances tissue penetration (yogavahi property)
+- Key herbs: [Triphala](/nighantu/herb/triphala/) (Amalaki, [Haritaki](/nighantu/herb/haritaki/), [Bibhitaki](/nighantu/herb/bibhitaki/)), Bhringaraj, [Yashtimadhu](/nighantu/herb/yashtimadhu/); ghee enhances tissue penetration (yogavahi property)
 
 ### Mahishi Dugdha {#mahishi-dugdha}
 
@@ -2535,7 +2535,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 | Language | Name |
 |----------|------|
-| English | [Mahishi Dugdha](/ayurveda-atlas/glossary/concepts-a-m/#mahishi-dugdha) |
+| English | [Mahishi Dugdha](/nighantu/glossary/concepts-a-m/#mahishi-dugdha) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -2587,7 +2587,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 | Language | Name |
 |----------|------|
-| English | Makshika [Madhu](/ayurveda-atlas/herb/madhu/)|Makshika Madhu |
+| English | Makshika [Madhu](/nighantu/herb/madhu/)|Makshika Madhu |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -2617,13 +2617,13 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Optimal Timing:** Not with hot substances (Ayurvedic contraindication); morning preferred for Kapha conditions
 
-**Standardized Extract:** Raw, unprocessed (Apakva [Madhu](/ayurveda-atlas/herb/madhu/)); aged 1+ year (Purana [Madhu](/ayurveda-atlas/herb/madhu/)) for therapeutic use
+**Standardized Extract:** Raw, unprocessed (Apakva [Madhu](/nighantu/herb/madhu/)); aged 1+ year (Purana [Madhu](/nighantu/herb/madhu/)) for therapeutic use
 
 **Shelf Life:** Indefinite if unadulterated; best within 1–2 years
 
 **Storage:** Room temperature; never refrigerate; glass or food-grade plastic
 
-**Marker Compounds:** [Fructose](/ayurveda-atlas/glossary/compounds-d-g/#fructose)/[glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose) (60–75%), Hydrogen peroxide, Methylglyoxal, Defensin-1, [Polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols)
+**Marker Compounds:** [Fructose](/nighantu/glossary/compounds-d-g/#fructose)/[glucose](/nighantu/glossary/compounds-d-g/#glucose) (60–75%), Hydrogen peroxide, Methylglyoxal, Defensin-1, [Polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols)
 
 **Quality Parameters:** Moisture <20%, HMF <40 mg/kg, diastase activity >8 DN, no added sugars (C4 sugar ratio test)
 
@@ -2683,7 +2683,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 | Language | Name |
 |----------|------|
-| English | Manibhadra [Guda](/ayurveda-atlas/glossary/concepts-a-m/#guda)|Manibhadra Guda |
+| English | Manibhadra [Guda](/nighantu/glossary/concepts-a-m/#guda)|Manibhadra Guda |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -2705,11 +2705,11 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 #### Dosage forms and preparation
 
-**Dosage Forms:** [Guda](/ayurveda-atlas/glossary/concepts-a-m/#guda) (jaggery-based preparation)
+**Dosage Forms:** [Guda](/nighantu/glossary/concepts-a-m/#guda) (jaggery-based preparation)
 
 **Standard Dosage:** 6-12g at bedtime
 
-**Bioavailability:** Jaggery matrix provides sustained release of [laxative](/ayurveda-atlas/reference/laxative/) compounds
+**Bioavailability:** Jaggery matrix provides sustained release of [laxative](/nighantu/reference/laxative/) compounds
 
 **Optimal Timing:** At bedtime for morning evacuation
 
@@ -2725,7 +2725,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 ### Synergistic Combinations
 
-- [Haritaki](/ayurveda-atlas/herb/haritaki/) with jaggery enhances mild laxative action
+- [Haritaki](/nighantu/herb/haritaki/) with jaggery enhances mild laxative action
 
 ### Manjisthadi Kwath {#manjisthadi-kwath}
 
@@ -2733,7 +2733,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 | Language | Name |
 |----------|------|
-| English | [Manjisthadi Kwath](/ayurveda-atlas/glossary/concepts-a-m/#manjisthadi-kwath) |
+| English | [Manjisthadi Kwath](/nighantu/glossary/concepts-a-m/#manjisthadi-kwath) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -2767,15 +2767,15 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Storage:** Fresh: refrigerate, use within 24h. Tablet/liquid: cool dry place, airtight
 
-**Marker Compounds:** [Alizarin](/ayurveda-atlas/glossary/compounds-1-a/#alizarin), [Purpurin](/ayurveda-atlas/glossary/compounds-o-q/#purpurin), [Berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine)
+**Marker Compounds:** [Alizarin](/nighantu/glossary/compounds-1-a/#alizarin), [Purpurin](/nighantu/glossary/compounds-o-q/#purpurin), [Berberine](/nighantu/glossary/compounds-a-c/#berberine)
 
-**Quality Parameters:** pH 4.0-6.5, specific gravity 1.01-1.05, total solids 2-8%, marker assay: Alizarin, Purpurin, [Berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine)
+**Quality Parameters:** pH 4.0-6.5, specific gravity 1.01-1.05, total solids 2-8%, marker assay: Alizarin, Purpurin, [Berberine](/nighantu/glossary/compounds-a-c/#berberine)
 
 **Vehicle (Anupana):** Warm, usually taken on empty stomach
 
 ### Synergistic Combinations
 
-- Classical combination of [Manjistha](/ayurveda-atlas/herb/manjistha/), [Guduchi](/ayurveda-atlas/herb/guduchi/), [Nimba](/ayurveda-atlas/herb/nimba/) provides synergistic therapeutic effect
+- Classical combination of [Manjistha](/nighantu/herb/manjistha/), [Guduchi](/nighantu/herb/guduchi/), [Nimba](/nighantu/herb/nimba/) provides synergistic therapeutic effect
 
 ### Marichyadi Vati {#marichyadi-vati}
 
@@ -2783,7 +2783,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 | Language | Name |
 |----------|------|
-| English | [Marichyadi Vati](/ayurveda-atlas/glossary/concepts-a-m/#marichyadi-vati) |
+| English | [Marichyadi Vati](/nighantu/glossary/concepts-a-m/#marichyadi-vati) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -2809,7 +2809,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** 2 tablets twice daily
 
-**Bioavailability:** Tablet/pill form provides controlled disintegration; some vatis use honey/[guggulu](/ayurveda-atlas/formulation/guggulu/) as bioenhancing binders
+**Bioavailability:** Tablet/pill form provides controlled disintegration; some vatis use honey/[guggulu](/nighantu/formulation/guggulu/) as bioenhancing binders
 
 **Optimal Timing:** Before or after meals as indicated
 
@@ -2817,7 +2817,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
-**Marker Compounds:** [Piperine](/ayurveda-atlas/reference/piperine/), [Gingerol](/ayurveda-atlas/glossary/compounds-d-g/#gingerol), [Piperlongumine](/ayurveda-atlas/glossary/compounds-o-q/#piperlongumine)
+**Marker Compounds:** [Piperine](/nighantu/reference/piperine/), [Gingerol](/nighantu/glossary/compounds-d-g/#gingerol), [Piperlongumine](/nighantu/glossary/compounds-o-q/#piperlongumine)
 
 **Quality Parameters:** Weight variation ±5%, disintegration <30 min, friability <1%, marker: Piperine, Gingerol, Piperlongumine
 
@@ -2825,7 +2825,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 ### Synergistic Combinations
 
-- Key herbs: Maricha ([black pepper](/ayurveda-atlas/herb/black-pepper/)), Shunthi, [Pippali](/ayurveda-atlas/herb/pippali/)
+- Key herbs: Maricha ([black pepper](/nighantu/herb/black-pepper/)), Shunthi, [Pippali](/nighantu/herb/pippali/)
 
 ### Masha {#masha}
 
@@ -2869,9 +2869,9 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 #### Dosage forms and preparation
 
-**Dosage Forms:** Whole bean, Dal (split), Flour, [Masha Taila](/ayurveda-atlas/glossary/concepts-a-m/#masha-taila)
+**Dosage Forms:** Whole bean, Dal (split), Flour, [Masha Taila](/nighantu/glossary/concepts-a-m/#masha-taila)
 
-**Standard Dosage:** As dietary: 30–50 g; [Masha Taila](/ayurveda-atlas/glossary/concepts-a-m/#masha-taila): external application
+**Standard Dosage:** As dietary: 30–50 g; [Masha Taila](/nighantu/glossary/concepts-a-m/#masha-taila): external application
 
 **Bioavailability:** Moderate; soaking and cooking required; anti-nutritional factors reduced by processing
 
@@ -2883,11 +2883,11 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Storage:** Cool, dry place; airtight container
 
-**Marker Compounds:** Protein (24%), Iron, [Phosphorus](/ayurveda-atlas/glossary/compounds-o-q/#phosphorus), Phytoestrogens
+**Marker Compounds:** Protein (24%), Iron, [Phosphorus](/nighantu/glossary/compounds-o-q/#phosphorus), Phytoestrogens
 
 **Quality Parameters:** Moisture <12%, no weevil infestation, cooking quality test
 
-**Vehicle (Anupana):** Ghee or [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)
+**Vehicle (Anupana):** Ghee or [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)
 
 ### Masha Taila {#masha-taila}
 
@@ -2895,7 +2895,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 | Language | Name |
 |----------|------|
-| English | [Masha](/ayurveda-atlas/glossary/concepts-a-m/#masha) Taila |
+| English | [Masha](/nighantu/glossary/concepts-a-m/#masha) Taila |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -2917,11 +2917,11 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 #### Dosage forms and preparation
 
-**Dosage Forms:** Thailam (medicated [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)), External application
+**Dosage Forms:** Thailam (medicated [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)), External application
 
 **Standard Dosage:** External massage for Vata disorders
 
-**Bioavailability:** Oil base ([sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
+**Bioavailability:** Oil base ([sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
 
 **Optimal Timing:** External: before bath or at bedtime. Internal: before meals
 
@@ -2929,7 +2929,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Storage:** Airtight amber glass/HDPE container, room temperature, protected from light
 
-**Marker Compounds:** [Withanolides](/ayurveda-atlas/glossary/compounds-t-z/#withanolides), [Sesamin](/ayurveda-atlas/glossary/compounds-q-t/#sesamin)
+**Marker Compounds:** [Withanolides](/nighantu/glossary/compounds-t-z/#withanolides), [Sesamin](/nighantu/glossary/compounds-q-t/#sesamin)
 
 **Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Withanolides, Sesamin
 
@@ -2937,7 +2937,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 ### Synergistic Combinations
 
-- Key herbs: [Masha](/ayurveda-atlas/glossary/concepts-a-m/#masha) (black gram), [Bala](/ayurveda-atlas/herb/bala/), [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/); oil base acts as lipid carrier for enhanced tissue penetration
+- Key herbs: [Masha](/nighantu/glossary/concepts-a-m/#masha) (black gram), [Bala](/nighantu/herb/bala/), [Ashwagandha](/nighantu/herb/ashwagandha/); oil base acts as lipid carrier for enhanced tissue penetration
 
 ### Mastu {#mastu}
 
@@ -2951,7 +2951,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| **Rasa** (Taste) | Kashaya, [Amla](/ayurveda-atlas/herb/amla/) | Primary taste |
+| **Rasa** (Taste) | Kashaya, [Amla](/nighantu/herb/amla/) | Primary taste |
 | **Guna** (Quality) | Laghu | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
@@ -2971,7 +2971,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** 50–100 mL
 
-**Bioavailability:** High; aqueous medium with predigested [proteins](/ayurveda-atlas/glossary/compounds-o-q/#proteins)
+**Bioavailability:** High; aqueous medium with predigested [proteins](/nighantu/glossary/compounds-o-q/#proteins)
 
 **Optimal Timing:** With meals or post-meal
 
@@ -2981,7 +2981,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Storage:** Refrigerated; use fresh
 
-**Marker Compounds:** Whey proteins, Lactic acid, Minerals, B-[vitamins](/ayurveda-atlas/glossary/compounds-t-z/#vitamins)
+**Marker Compounds:** Whey proteins, Lactic acid, Minerals, B-[vitamins](/nighantu/glossary/compounds-t-z/#vitamins)
 
 **Quality Parameters:** pH 4.5–5.5, no off-odors, microbial limits per FSSAI
 
@@ -3042,6 +3042,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Storage:** Cool, dry place
 
-**Marker Compounds:** Protein (25%), Iron, [Folate](/ayurveda-atlas/glossary/compounds-d-g/#folate), Dietary fiber, [Polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols)
+**Marker Compounds:** Protein (25%), Iron, [Folate](/nighantu/glossary/compounds-d-g/#folate), Dietary fiber, [Polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols)
 
 **Quality Parameters:** Moisture <12%, cooking time <30 min, no insect damage

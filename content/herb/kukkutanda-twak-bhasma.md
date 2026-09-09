@@ -23,20 +23,20 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kukkutanda-Twak-Bhas
 
 | Language | Name |
 |----------|------|
-| English | [Kukkutanda Twak Bhasma](/ayurveda-atlas/herb/kukkutanda-twak-bhasma/) |
+| English | [Kukkutanda Twak Bhasma](/nighantu/herb/kukkutanda-twak-bhasma/) |
 
 ## Key Phytochemical Constituents
 
 - Calcium (60.83%) - highest among similar preparations
 - Calcium oxide (CaO) nanoparticles after calcination
-- Copper, zinc, [magnesium](/ayurveda-atlas/glossary/compounds-l-o/#magnesium) as trace minerals
-- [Strontium](/ayurveda-atlas/glossary/compounds-q-t/#strontium) and [phosphorus](/ayurveda-atlas/glossary/compounds-o-q/#phosphorus) traces
-- Organic matrix [proteins](/ayurveda-atlas/glossary/compounds-o-q/#proteins) from eggshell membrane
+- Copper, zinc, [magnesium](/nighantu/glossary/compounds-l-o/#magnesium) as trace minerals
+- [Strontium](/nighantu/glossary/compounds-q-t/#strontium) and [phosphorus](/nighantu/glossary/compounds-o-q/#phosphorus) traces
+- Organic matrix [proteins](/nighantu/glossary/compounds-o-q/#proteins) from eggshell membrane
 
 ## How does it work?
 
 - Bioavailable calcium supplementation through CaO nanoparticles providing elemental calcium for bone mineralization, muscle contraction, nerve impulse transmission, and blood clotting
-- [Antimicrobial](/ayurveda-atlas/reference/antimicrobial/) action through CaO nanoparticle-mediated disruption of microbial cell membranes; more effective as antifungal agent than antibacterial
+- [Antimicrobial](/nighantu/reference/antimicrobial/) action through CaO nanoparticle-mediated disruption of microbial cell membranes; more effective as antifungal agent than antibacterial
 - Alkaline buffering through calcium oxide dissolution creating alkaline pH in stomach, neutralizing excess acid and providing gastroprotective effect
 - Bone density improvement through sustained release of bioavailable calcium with trace minerals (Mg, Zn) essential for optimal bone metabolism
 
@@ -51,7 +51,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kukkutanda-Twak-Bhas
 - **Calcium oxide (CaO) nanomaterial (Kukutanda twak Bhasma) from egg shell: Green synthesis, physical properties and antimicrobial behaviour** (2020): Green synthesis of CaO nanoparticles from eggshell validated. Kukkutandatwak Bhasma as nanomedicine showed more effectual antifungal activity than antibacterial activity.
 - **Analytical profile of Kukkutanda Tvak Bhasma prepared by two different methods** (2018): Comparative analytical study established quality parameters for two preparation methods. Confirmed calcium oxide as primary constituent with consistent physicochemical profiles.
 - **Preparation and Toxicity study of Kukkutand Twak Bhasma treated with different herbal juices** (2020): Toxicity study confirmed safety of eggshell Bhasma prepared with different herbal juices (Bhavana). All preparations found safe for medicinal use at recommended doses.
-- **A Review on [Kukkutanda Twak Bhasma](/ayurveda-atlas/herb/kukkutanda-twak-bhasma/) - comprehensive literature analysis** (2021): Comprehensive review confirmed Kukkutanda Twak as excellent organic calcium source with higher bioavailability than inorganic calcium. Documented traditional uses across multiple classical texts.
+- **A Review on [Kukkutanda Twak Bhasma](/nighantu/herb/kukkutanda-twak-bhasma/) - comprehensive literature analysis** (2021): Comprehensive review confirmed Kukkutanda Twak as excellent organic calcium source with higher bioavailability than inorganic calcium. Documented traditional uses across multiple classical texts.
 
 ## Recent safety updates
 

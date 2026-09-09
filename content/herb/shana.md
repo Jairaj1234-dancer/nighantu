@@ -49,17 +49,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shana/meta-analysis.md"
 
 **Standard Dosage:** 3-5 g seed/leaf powder per day; 50-100 mL kwatha twice daily; seed oil for external application
 
-**Bioavailability:** [Alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) from Crotalaria juncea show moderate oral absorption (25-40%). Pyrrolizidine alkaloids (if present) are hepatotoxic and must be strictly limited. Fiber content of seeds may reduce absorption of co-administered drugs. Seed oil fatty acids have high bioavailability.
+**Bioavailability:** [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) from Crotalaria juncea show moderate oral absorption (25-40%). Pyrrolizidine alkaloids (if present) are hepatotoxic and must be strictly limited. Fiber content of seeds may reduce absorption of co-administered drugs. Seed oil fatty acids have high bioavailability.
 
 **Optimal Timing:** External applications as needed; internal use (where appropriate): after meals
 
-**Standardized Extract:** Leaf extract (5:1 in 50% ethanol), tested for pyrrolizidine alkaloid absence (<LOD by LC-MS/MS); standardized to NLT 2% total [flavonoids](/ayurveda-atlas/reference/flavonoids/)
+**Standardized Extract:** Leaf extract (5:1 in 50% ethanol), tested for pyrrolizidine alkaloid absence (<LOD by LC-MS/MS); standardized to NLT 2% total [flavonoids](/nighantu/reference/flavonoids/)
 
 **Shelf Life:** 18 months for seed oil; 24 months for churna and capsules
 
 **Storage:** Store below 25 deg C in airtight containers. Seed oil in amber glass, nitrogen-flushed. Protect from light and moisture.
 
-**Marker Compounds:** [Vitexin](/ayurveda-atlas/glossary/compounds-t-z/#vitexin), [Isovitexin](/ayurveda-atlas/glossary/compounds-g-l/#isovitexin), Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), Pyrrolizidine alkaloids (must be absent/below detection limit)
+**Marker Compounds:** [Vitexin](/nighantu/glossary/compounds-t-z/#vitexin), [Isovitexin](/nighantu/glossary/compounds-g-l/#isovitexin), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Pyrrolizidine alkaloids (must be absent/below detection limit)
 
 ### Extraction Methods
 
@@ -70,6 +70,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shana/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Haridra](/ayurveda-atlas/herb/haridra/) (anti-inflammatory skin formulations)
-- [Neem](/ayurveda-atlas/herb/neem/) (dermatological combinations)
-- [Eranda](/ayurveda-atlas/herb/eranda/) (external anti-inflammatory applications)
+- [Haridra](/nighantu/herb/haridra/) (anti-inflammatory skin formulations)
+- [Neem](/nighantu/herb/neem/) (dermatological combinations)
+- [Eranda](/nighantu/herb/eranda/) (external anti-inflammatory applications)

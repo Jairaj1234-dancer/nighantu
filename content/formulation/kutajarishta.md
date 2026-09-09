@@ -28,11 +28,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Kutajar
 ## Key Ingredients
 
 - Kutaja bark (Holarrhena antidysenterica) - primary ingredient (4.8 kg)
-- Mridveeka / [Draksha](/ayurveda-atlas/herb/draksha/) (Vitis vinifera) - Dry grapes / Raisins (2.8 kg)
-- [Madhuka](/ayurveda-atlas/herb/madhuka/) pushpa (Madhuca indica) - Mahua flower (480 g)
+- Mridveeka / [Draksha](/nighantu/herb/draksha/) (Vitis vinifera) - Dry grapes / Raisins (2.8 kg)
+- [Madhuka](/nighantu/herb/madhuka/) pushpa (Madhuca indica) - Mahua flower (480 g)
 - Kashmari (Gmelina arborea) - stem bark/root (480 g)
-- [Guda](/ayurveda-atlas/glossary/concepts-a-m/#guda) (Jaggery) - fermentation substrate (4.8 kg)
-- [Dhataki](/ayurveda-atlas/herb/dhataki/) pushpa (Woodfordia fruticosa) - fermenting agent (960 g)
+- [Guda](/nighantu/glossary/concepts-a-m/#guda) (Jaggery) - fermentation substrate (4.8 kg)
+- [Dhataki](/nighantu/herb/dhataki/) pushpa (Woodfordia fruticosa) - fermenting agent (960 g)
 
 ## Where is it described in the classical texts?
 
@@ -41,10 +41,10 @@ Charaka Samhita (Chikitsa Sthana) - Kutaja referenced for Pravahika (dysentery w
 ## How does it work?
 
 - Calcium channel blockade: Kutaja (Holarrhena antidysenterica) extract blocks calcium channels in intestinal smooth muscle, reducing cramping and motility.
-- [Potassium](/ayurveda-atlas/glossary/compounds-o-q/#potassium) channel and nitric oxide pathway modulation: Antidiarrheal effect mediated through potassium channels and NO pathway (not alpha-2 adrenergic receptors).
+- [Potassium](/nighantu/glossary/compounds-o-q/#potassium) channel and nitric oxide pathway modulation: Antidiarrheal effect mediated through potassium channels and NO pathway (not alpha-2 adrenergic receptors).
 - Bacterial adenylate cyclase inhibition: Conessine (major steroidal alkaloid) inhibits bacterial adenylate cyclase, directly reducing toxin-mediated secretory diarrhea.
 - Antisecretory action: Reduces excessive intestinal fluid secretion by modulating electrolyte transport across intestinal epithelium.
-- [Antimicrobial](/ayurveda-atlas/reference/antimicrobial/) activity: [Alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) (conessine, kurchine) exhibit potent activity against enteric pathogens including E. histolytica, Shigella, and E. coli.
+- [Antimicrobial](/nighantu/reference/antimicrobial/) activity: [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) (conessine, kurchine) exhibit potent activity against enteric pathogens including E. histolytica, Shigella, and E. coli.
 
 ## Which traditional uses are supported by research?
 
@@ -97,4 +97,4 @@ Charaka Samhita (Chikitsa Sthana) - Kutaja referenced for Pravahika (dysentery w
 
 ### Synergistic Combinations
 
-- Key herbs: Kutaja (Holarrhena antidysenterica), [Dhataki](/ayurveda-atlas/herb/dhataki/); fermentation creates unique metabolite profile with enhanced therapeutic activity
+- Key herbs: Kutaja (Holarrhena antidysenterica), [Dhataki](/nighantu/herb/dhataki/); fermentation creates unique metabolite profile with enhanced therapeutic activity

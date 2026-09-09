@@ -27,10 +27,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Karela/meta-analysis.md
 
 ## How does it work?
 
-- Insulin receptor binding: Novel insulin receptor-binding protein enhances [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose) uptake and clearance by triggering insulin receptor signaling pathway.
+- Insulin receptor binding: Novel insulin receptor-binding protein enhances [glucose](/nighantu/glossary/compounds-d-g/#glucose) uptake and clearance by triggering insulin receptor signaling pathway.
 - Polypeptide-P: Insulin-mimetic protein (resembling bovine insulin) increases insulin secretion, tissue glucose uptake, liver/muscle glycogen synthesis, and glucose oxidation while decreasing hepatic gluconeogenesis.
-- [Charantin](/ayurveda-atlas/glossary/compounds-c-d/#charantin): Steroidal saponin (9.7 kDa) suppresses hepatic gluconeogenic [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes) glucose-6-phosphatase and [fructose](/ayurveda-atlas/glossary/compounds-d-g/#fructose)-1,6-bisphosphatase; accelerates glucose metabolism via pentose phosphate pathway.
-- AMPK activation: Cucurbitane [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) and momordicosides activate AMPK pathway, stimulating GLUT4 translocation to cell membrane in muscle and adipocyte cell lines.
+- [Charantin](/nighantu/glossary/compounds-c-d/#charantin): Steroidal saponin (9.7 kDa) suppresses hepatic gluconeogenic [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) glucose-6-phosphatase and [fructose](/nighantu/glossary/compounds-d-g/#fructose)-1,6-bisphosphatase; accelerates glucose metabolism via pentose phosphate pathway.
+- AMPK activation: Cucurbitane [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) and momordicosides activate AMPK pathway, stimulating GLUT4 translocation to cell membrane in muscle and adipocyte cell lines.
 - PPAR modulation: Increases mRNA expression of PPARgamma in adipose tissue, improving insulin resistance. Compound K16 upregulates AMPKalpha1, GLUT4, SIRT1, and PPARalpha.
 - PI3K/IRS-1 signaling: Activates insulin receptor substrate 1 and upregulates PI3K pathway, promoting GLUT-4 translocation in muscle and adipose tissue.
 - Beta-cell repair: Repairs damaged pancreatic beta-cells, increases insulin levels, and enhances insulin sensitivity.
@@ -52,7 +52,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Karela/meta-analysis.md
 
 **Keywords:** Adjuvant therapy, Hypoglycemic agents, Momordica charantia, Type 2 diabetes mellitus
 
-#### 2. Pharmacotherapeutic Potential of [Bitter Gourd](/ayurveda-atlas/herb/bitter-gourd/) (
+#### 2. Pharmacotherapeutic Potential of [Bitter Gourd](/nighantu/herb/bitter-gourd/) (
 
 **Authors:** Adarmanabadi Seyed Mohammad Hosein Hosseini, Abadi Orod Jalali Khalil, Amiri Amirhossein et al.
 **Journal:** Journal of integrative neuroscience (2024)
@@ -60,17 +60,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Karela/meta-analysis.md
 
 > Due to the growth of the elderly population, age-related neurological disorders are an increasing problem. Aging begins very gradually and later leads to several neurological issues such as lower neurotransmitter levels, oxidative stress, neuronal inflammation, and continual neuronal loss. These changes might contribute to brain disorders such as Alzheimer's disease (AD), dementia or mild cognitive impairment, and epilepsy and glioma, and can also aggravate these disorders if they were previously present. ...
 
-**Keywords:** Alzheimer's disease, Parkinson's disease, age-related neurological diseases, [bitter gourd](/ayurveda-atlas/herb/bitter-gourd/)
+**Keywords:** Alzheimer's disease, Parkinson's disease, age-related neurological diseases, [bitter gourd](/nighantu/herb/bitter-gourd/)
 
-#### 3. [Bitter gourd](/ayurveda-atlas/herb/bitter-gourd/) (Momordica Charantia): A dietary approach to hyperglycemia.
+#### 3. [Bitter gourd](/nighantu/herb/bitter-gourd/) (Momordica Charantia): A dietary approach to hyperglycemia.
 
 **Authors:** Krawinkel Michael B, Keding Gudrun B
 **Journal:** Nutrition reviews (2006)
 **PMID:** 16910221
 
-> [Bitter gourd](/ayurveda-atlas/herb/bitter-gourd/) (Momordica charantia) is a vegetable with pantropical distribution. It contains substances with [antidiabetic](/ayurveda-atlas/reference/antidiabetic/) properties such as charantin, [vicine](/ayurveda-atlas/glossary/compounds-t-z/#vicine), and polypeptide-p, as well as other unspecific bioactive components such as antioxidants. Metabolic and hypoglycemic effects of [bitter gourd](/ayurveda-atlas/herb/bitter-gourd/) extracts have been demonstrated in cell culture, animal, and human studies. The mechanism of action, whether it is via regulation of insulin release or altered glucose metabolism and its insulin-like effect, is still under debate. Adverse effects are also known. Nevertheless, [bitter gourd](/ayurveda-atlas/herb/bitter-gourd/) has the potential to become a component of the diet or a dietary supplement for diabetic and prediabetic patients. Well-designed interdisciplinary research by nutritionists, medical doctors, and agronomists is...
+> [Bitter gourd](/nighantu/herb/bitter-gourd/) (Momordica charantia) is a vegetable with pantropical distribution. It contains substances with [antidiabetic](/nighantu/reference/antidiabetic/) properties such as charantin, [vicine](/nighantu/glossary/compounds-t-z/#vicine), and polypeptide-p, as well as other unspecific bioactive components such as antioxidants. Metabolic and hypoglycemic effects of [bitter gourd](/nighantu/herb/bitter-gourd/) extracts have been demonstrated in cell culture, animal, and human studies. The mechanism of action, whether it is via regulation of insulin release or altered glucose metabolism and its insulin-like effect, is still under debate. Adverse effects are also known. Nevertheless, [bitter gourd](/nighantu/herb/bitter-gourd/) has the potential to become a component of the diet or a dietary supplement for diabetic and prediabetic patients. Well-designed interdisciplinary research by nutritionists, medical doctors, and agronomists is...
 
-#### 4. An Update Review on the Anthelmintic Activity of [Bitter Gourd](/ayurveda-atlas/herb/bitter-gourd/), 
+#### 4. An Update Review on the Anthelmintic Activity of [Bitter Gourd](/nighantu/herb/bitter-gourd/), 
 
 **Authors:** Poolperm Sutthaya, Jiraungkoorskul Wannee
 **Journal:** Pharmacognosy reviews (2017)
@@ -84,9 +84,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Karela/meta-analysis.md
 **Journal:** Cancers (2020)
 **PMID:** 32726914
 
-> Cancer is the second leading cause of death worldwide. Many dietary plant products show promising [anticancer](/ayurveda-atlas/reference/anticancer/) effects. Bitter melon or [bitter gourd](/ayurveda-atlas/herb/bitter-gourd/) (...
+> Cancer is the second leading cause of death worldwide. Many dietary plant products show promising [anticancer](/nighantu/reference/anticancer/) effects. Bitter melon or [bitter gourd](/nighantu/herb/bitter-gourd/) (...
 
-**Keywords:** [Cucurbitaceae](/ayurveda-atlas/glossary/plant-families/#cucurbitaceae), bitter melon (Momordica charantia), cancer prevention, cancer therapy, medicinal plant, signal transduction
+**Keywords:** [Cucurbitaceae](/nighantu/glossary/plant-families/#cucurbitaceae), bitter melon (Momordica charantia), cancer prevention, cancer therapy, medicinal plant, signal transduction
 
 #### 6. Promise of bitter melon (Momordica charantia) bioactives in cancer prevention and therapy.
 
@@ -104,11 +104,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Karela/meta-analysis.md
 **Journal:** Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association (2018)
 **PMID:** 29753870
 
-> Research over decades has progressively explored pharmacological actions of bitter gourd (Momordica charantia). Biologically and pharmacologically active molecules isolated from M. charantia have shown significant anti-cancer activity in cancer cell lines and xenografted mice. In this review spotlight was set on the bioactive compounds isolated from M. charantia that effectively inhibited cancer development and progression via regulation of protein network in cancer cells. We summarize most recent high-quality research work in cancer cell lines and xenografted mice related to tumor suppressive role-play of M. charantia and its bioactive compounds. Although M. charantia mediated health promoting, anti-diabetic, [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/), anti-inflammatory effects have been extensively investigated, ...
+> Research over decades has progressively explored pharmacological actions of bitter gourd (Momordica charantia). Biologically and pharmacologically active molecules isolated from M. charantia have shown significant anti-cancer activity in cancer cell lines and xenografted mice. In this review spotlight was set on the bioactive compounds isolated from M. charantia that effectively inhibited cancer development and progression via regulation of protein network in cancer cells. We summarize most recent high-quality research work in cancer cell lines and xenografted mice related to tumor suppressive role-play of M. charantia and its bioactive compounds. Although M. charantia mediated health promoting, anti-diabetic, [hepatoprotective](/nighantu/reference/hepatoprotective/), anti-inflammatory effects have been extensively investigated, ...
 
 **Keywords:** Bioactive components, Momordica charantia, Protein network, Signaling
 
-#### 8. Emerging [Antitumor](/ayurveda-atlas/glossary/pharmacology/#antitumor) Activities of the Bitter Melon (Momordica charantia).
+#### 8. Emerging [Antitumor](/nighantu/glossary/pharmacology/#antitumor) Activities of the Bitter Melon (Momordica charantia).
 
 **Authors:** Fang Evandro Fei, Froetscher Lynn, Scheibye-Knudsen Morten et al.
 **Journal:** Current protein & peptide science (2019)
@@ -153,17 +153,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Karela/meta-analysis.md
 
 **Standard Dosage:** 30-50 mL fresh juice daily (fasting); 3-6 g powder twice daily; 500 mg standardized extract capsule twice daily
 
-**Bioavailability:** Charantin (steroidal saponin) and polypeptide-p have moderate oral bioavailability. Vicine and [momordicin](/ayurveda-atlas/glossary/compounds-l-o/#momordicin) undergo partial GI degradation. Enteric coating protects acid-labile polypeptide-p from gastric degradation. Liposomal delivery of charantin shows 3-fold improvement in plasma levels. Co-administration with [black pepper](/ayurveda-atlas/herb/black-pepper/) extract ([piperine](/ayurveda-atlas/reference/piperine/)) enhances absorption of cucurbitane [triterpenoids](/ayurveda-atlas/glossary/compounds-t-z/#triterpenoids).
+**Bioavailability:** Charantin (steroidal saponin) and polypeptide-p have moderate oral bioavailability. Vicine and [momordicin](/nighantu/glossary/compounds-l-o/#momordicin) undergo partial GI degradation. Enteric coating protects acid-labile polypeptide-p from gastric degradation. Liposomal delivery of charantin shows 3-fold improvement in plasma levels. Co-administration with [black pepper](/nighantu/herb/black-pepper/) extract ([piperine](/nighantu/reference/piperine/)) enhances absorption of cucurbitane [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids).
 
 **Optimal Timing:** Fresh juice best taken early morning on empty stomach for glycemic control; powder/capsules 30 minutes before meals
 
-**Standardized Extract:** Standardized to minimum 2% charantin and 5% total [saponins](/ayurveda-atlas/reference/saponins/) by HPLC-ELSD; bitter principles >10% (as momordicin equivalents)
+**Standardized Extract:** Standardized to minimum 2% charantin and 5% total [saponins](/nighantu/reference/saponins/) by HPLC-ELSD; bitter principles >10% (as momordicin equivalents)
 
 **Shelf Life:** Fresh juice: 24-48 hours (refrigerated); Freeze-dried powder: 24 months; Capsules/tablets: 36 months; Churna: 18 months
 
 **Storage:** Fresh juice must be refrigerated (2-8°C) and consumed within 48 hours. Dried preparations in airtight containers at 15-30°C. Protect polypeptide-p containing preparations from heat and light.
 
-**Marker Compounds:** Charantin, Momordicin, Vicine, Polypeptide-p (p-insulin), Momordicoside, Cucurbitane triterpenoids, Gallic acid, [Catechin](/ayurveda-atlas/reference/catechin/)
+**Marker Compounds:** Charantin, Momordicin, Vicine, Polypeptide-p (p-insulin), Momordicoside, Cucurbitane triterpenoids, Gallic acid, [Catechin](/nighantu/reference/catechin/)
 
 ### Extraction Methods
 
@@ -175,8 +175,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Karela/meta-analysis.md
 
 ### Synergistic Combinations
 
-- [Gudmar](/ayurveda-atlas/herb/gudmar/) (Gymnema sylvestre) for comprehensive glycemic management
-- [Jamun](/ayurveda-atlas/herb/jamun/) (Syzygium cumini) seed for diabetic formulations
-- [Methi](/ayurveda-atlas/herb/methi/) (Fenugreek) for insulin sensitization
-- [Haridra](/ayurveda-atlas/herb/haridra/) ([Turmeric](/ayurveda-atlas/herb/turmeric/)) for metabolic syndrome
-- [Neem](/ayurveda-atlas/herb/neem/) for synergistic hypoglycemic activity
+- [Gudmar](/nighantu/herb/gudmar/) (Gymnema sylvestre) for comprehensive glycemic management
+- [Jamun](/nighantu/herb/jamun/) (Syzygium cumini) seed for diabetic formulations
+- [Methi](/nighantu/herb/methi/) (Fenugreek) for insulin sensitization
+- [Haridra](/nighantu/herb/haridra/) ([Turmeric](/nighantu/herb/turmeric/)) for metabolic syndrome
+- [Neem](/nighantu/herb/neem/) for synergistic hypoglycemic activity

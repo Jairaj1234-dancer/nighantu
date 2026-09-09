@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Joint-Musculoskeletal/Devadali/meta-analysi
 
 **Standard Dosage:** 5-10ml fresh juice twice daily; 3-6g powder twice daily; 50-100ml decoction twice daily; 500mg extract capsule twice daily
 
-**Bioavailability:** Luffa echinata (Devadali) contains [cucurbitacins](/ayurveda-atlas/glossary/compounds-c-d/#cucurbitacins) and [saponins](/ayurveda-atlas/reference/saponins/) with moderate oral bioavailability. Cucurbitacins are lipophilic [triterpenoids](/ayurveda-atlas/glossary/compounds-t-z/#triterpenoids) that absorb well from the GI tract but undergo hepatic metabolism. Fresh juice (Swarasa) provides highest bioavailability of volatile and labile constituents. Enhancement: lipid-based formulations or self-emulsifying systems improve cucurbitacin absorption. Co-administration with healthy fats (ghee, milk) as per traditional Anupana enhances lipophilic constituent uptake.
+**Bioavailability:** Luffa echinata (Devadali) contains [cucurbitacins](/nighantu/glossary/compounds-c-d/#cucurbitacins) and [saponins](/nighantu/reference/saponins/) with moderate oral bioavailability. Cucurbitacins are lipophilic [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids) that absorb well from the GI tract but undergo hepatic metabolism. Fresh juice (Swarasa) provides highest bioavailability of volatile and labile constituents. Enhancement: lipid-based formulations or self-emulsifying systems improve cucurbitacin absorption. Co-administration with healthy fats (ghee, milk) as per traditional Anupana enhances lipophilic constituent uptake.
 
 **Optimal Timing:** Before meals with warm water for hepatic conditions; fresh juice on empty stomach for maximum therapeutic effect
 
@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Joint-Musculoskeletal/Devadali/meta-analysi
 
 ### Synergistic Combinations
 
-- With [Katuki](/ayurveda-atlas/herb/katuki/) (Picrorhiza) for [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) synergy
-- With [Haritaki](/ayurveda-atlas/herb/haritaki/) for purgative and liver-cleansing action
+- With [Katuki](/nighantu/herb/katuki/) (Picrorhiza) for [hepatoprotective](/nighantu/reference/hepatoprotective/) synergy
+- With [Haritaki](/nighantu/herb/haritaki/) for purgative and liver-cleansing action
 - With Bhringaraj for jaundice management
-- With [Punarnava](/ayurveda-atlas/herb/punarnava/) for hepatorenal protective combination
+- With [Punarnava](/nighantu/herb/punarnava/) for hepatorenal protective combination

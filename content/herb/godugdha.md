@@ -27,20 +27,20 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Godugdha/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- Casein [proteins](/ayurveda-atlas/glossary/compounds-o-q/#proteins) (alpha-s1, alpha-s2, beta, kappa casein)
-- Whey proteins: [lactoferrin](/ayurveda-atlas/glossary/compounds-g-l/#lactoferrin) (7.3%), [immunoglobulins](/ayurveda-atlas/glossary/compounds-g-l/#immunoglobulins) (17.1%), beta-lactoglobulin, alpha-lactalbumin
+- Casein [proteins](/nighantu/glossary/compounds-o-q/#proteins) (alpha-s1, alpha-s2, beta, kappa casein)
+- Whey proteins: [lactoferrin](/nighantu/glossary/compounds-g-l/#lactoferrin) (7.3%), [immunoglobulins](/nighantu/glossary/compounds-g-l/#immunoglobulins) (17.1%), beta-lactoglobulin, alpha-lactalbumin
 - A2 beta-casein (in indigenous Indian breeds like Gir, Sahiwal)
 - Saturated and unsaturated fatty acids, conjugated linoleic acid (CLA)
-- Calcium, [phosphorus](/ayurveda-atlas/glossary/compounds-o-q/#phosphorus), [potassium](/ayurveda-atlas/glossary/compounds-o-q/#potassium), [magnesium](/ayurveda-atlas/glossary/compounds-l-o/#magnesium)
-- [Vitamins](/ayurveda-atlas/glossary/compounds-t-z/#vitamins) A, D, B2 ([riboflavin](/ayurveda-atlas/glossary/compounds-q-t/#riboflavin)), B12
-- Bioactive [peptides](/ayurveda-atlas/glossary/compounds-o-q/#peptides) (opioid, [antihypertensive](/ayurveda-atlas/glossary/pharmacology/#antihypertensive), [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/))
+- Calcium, [phosphorus](/nighantu/glossary/compounds-o-q/#phosphorus), [potassium](/nighantu/glossary/compounds-o-q/#potassium), [magnesium](/nighantu/glossary/compounds-l-o/#magnesium)
+- [Vitamins](/nighantu/glossary/compounds-t-z/#vitamins) A, D, B2 ([riboflavin](/nighantu/glossary/compounds-q-t/#riboflavin)), B12
+- Bioactive [peptides](/nighantu/glossary/compounds-o-q/#peptides) (opioid, [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive), [immunomodulatory](/nighantu/reference/immunomodulatory/))
 - Lactose and oligosaccharides
 
 ## How does it work?
 
-- Ojas enhancement: Rich bioactive peptides, immunoglobulins, and lactoferrin strengthen innate immunity and provide [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) defense
+- Ojas enhancement: Rich bioactive peptides, immunoglobulins, and lactoferrin strengthen innate immunity and provide [antimicrobial](/nighantu/reference/antimicrobial/) defense
 - Tridosha balancing (esp. Vata-Pitta): Cooling potency and sweet taste pacify Pitta, unctuous heavy qualities ground Vata; proper processing prevents Kapha aggravation
-- [Rasayana](/ayurveda-atlas/reference/rasayana/) (rejuvenation): Complete amino acid profile, calcium, and growth factors support tissue regeneration and dhatu nourishment across all seven tissues
+- [Rasayana](/nighantu/reference/rasayana/) (rejuvenation): Complete amino acid profile, calcium, and growth factors support tissue regeneration and dhatu nourishment across all seven tissues
 - Shodhana (detoxification) vehicle: Polar and non-polar dissolving capacity enables effective toxin extraction in Ayurvedic purification processes
 
 ## Which traditional uses are supported by research?
@@ -83,7 +83,7 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Godugdha/meta-analysis.md"
 
 **Bioavailability:** High; contains A1 and A2 casein variants; A2 preferred in Ayurveda
 
-**Optimal Timing:** Morning or evening; warm with spices ([turmeric](/ayurveda-atlas/herb/turmeric/), cardamom)
+**Optimal Timing:** Morning or evening; warm with spices ([turmeric](/nighantu/herb/turmeric/), cardamom)
 
 **Standardized Extract:** N/A — whole food vehicle
 
@@ -95,4 +95,4 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Godugdha/meta-analysis.md"
 
 **Quality Parameters:** Fat >3.5%, SNF >8.5%, bacterial count <2×10^5/mL, no adulteration
 
-**Vehicle (Anupana):** Most common anupana in Ayurveda; vehicle for bhasmas, Rasayanas, and [Vajikarana](/ayurveda-atlas/glossary/pharmacology/#vajikarana) drugs
+**Vehicle (Anupana):** Most common anupana in Ayurveda; vehicle for bhasmas, Rasayanas, and [Vajikarana](/nighantu/glossary/pharmacology/#vajikarana) drugs

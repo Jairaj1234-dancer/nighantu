@@ -44,24 +44,24 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Pippali/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Piperine](/ayurveda-atlas/reference/piperine/)
-- [Piperlongumine](/ayurveda-atlas/glossary/compounds-o-q/#piperlongumine)
-- [Pipernonaline](/ayurveda-atlas/glossary/compounds-o-q/#pipernonaline)
-- [Sesamin](/ayurveda-atlas/glossary/compounds-q-t/#sesamin)
-- [Piperlonguminine](/ayurveda-atlas/glossary/compounds-o-q/#piperlonguminine)
+- [Piperine](/nighantu/reference/piperine/)
+- [Piperlongumine](/nighantu/glossary/compounds-o-q/#piperlongumine)
+- [Pipernonaline](/nighantu/glossary/compounds-o-q/#pipernonaline)
+- [Sesamin](/nighantu/glossary/compounds-q-t/#sesamin)
+- [Piperlonguminine](/nighantu/glossary/compounds-o-q/#piperlonguminine)
 
 ## Therapeutic Actions (Karma)
 
 - Bioavailability enhancer
-- [Bronchodilator](/ayurveda-atlas/reference/bronchodilator/)
+- [Bronchodilator](/nighantu/reference/bronchodilator/)
 - Digestive stimulant
 - Immunomodulator
-- [Hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/)
+- [Hepatoprotective](/nighantu/reference/hepatoprotective/)
 - Rejuvenative
 
 ## How does it work?
 
-- Piperine inhibits CYP450 [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes) (especially CYP3A4) and UDP-glucuronosyltransferase, reducing first-pass metabolism and enhancing bioavailability of co-administered compounds.
+- Piperine inhibits CYP450 [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) (especially CYP3A4) and UDP-glucuronosyltransferase, reducing first-pass metabolism and enhancing bioavailability of co-administered compounds.
 - Piperine directly activates TRPV1 (capsaicin receptor) by binding to the capsaicin-binding pocket but in different poses than capsaicin, making it a weak agonist with distinct structural mechanism.
 - Piperine interacts with T671 on the pore-forming S6 segment of TRPV1 to induce channel opening.
 - Piperlongumine (from Piper longum) acts as a senolytic agent: selectively kills senescent cells by targeting OXR1 (Oxidation Resistance 1), binding directly and inducing its degradation via the ubiquitin-proteasome system in a senescent cell-specific manner.
@@ -71,7 +71,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Pippali/meta-analysis.md"
 
 ## How is it used traditionally?
 
-Component of [Trikatu](/ayurveda-atlas/herb/trikatu/). Unique in Ayurveda for Rasayana through Vardhamana (graduated dosing). Enhances bioavailability of other herbs. Used for Shwasa (asthma), Kasa (cough), and Agnimandya (weak digestion).
+Component of [Trikatu](/nighantu/herb/trikatu/). Unique in Ayurveda for Rasayana through Vardhamana (graduated dosing). Enhances bioavailability of other herbs. Used for Shwasa (asthma), Kasa (cough), and Agnimandya (weak digestion).
 
 ## Where is it described in the classical texts?
 
@@ -83,10 +83,10 @@ Component of [Trikatu](/ayurveda-atlas/herb/trikatu/). Unique in Ayurveda for Ra
 
 - **Safety and efficacy of Piper longum L. for acute respiratory infections: A systematic review** (2025): Systematic review registered in PROSPERO (2024) evaluating safety and efficacy of Piper longum for acute respiratory infections, reflecting growing clinical interest in respiratory applications.
 - **Randomized clinical trial on efficacy of Pippali in vardhamana and fixed dosage pattern in primary hypothyroidism** (2022): Published in J Ayurveda Integr Med, this RCT evaluated Pippali in graduated (vardhamana) versus fixed dosage patterns for primary hypothyroidism management.
-- **Randomized, double-blind, dose-ranging, pilot trial of piperine with [resveratrol](/ayurveda-atlas/glossary/compounds-q-t/#resveratrolresveratrol) on serum levels** (2021): Published in Eur J Cancer Prev, demonstrated piperine's bioavailability-enhancing effects on [resveratrol](/ayurveda-atlas/glossary/compounds-q-t/#resveratrolresveratrol) serum levels in a dose-ranging clinical trial.
-- **Piper longum L.: A comprehensive review on traditional uses, phytochemistry, pharmacology, and health-promoting activities** (2022): Comprehensive review cataloguing [analgesic](/ayurveda-atlas/reference/analgesic/), carminative, anti-diarrhoeic, immunostimulant properties and applications in asthma, insomnia, dementia, epilepsy, diabetes, and rheumatoid arthritis.
+- **Randomized, double-blind, dose-ranging, pilot trial of piperine with [resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol) on serum levels** (2021): Published in Eur J Cancer Prev, demonstrated piperine's bioavailability-enhancing effects on [resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol) serum levels in a dose-ranging clinical trial.
+- **Piper longum L.: A comprehensive review on traditional uses, phytochemistry, pharmacology, and health-promoting activities** (2022): Comprehensive review cataloguing [analgesic](/nighantu/reference/analgesic/), carminative, anti-diarrhoeic, immunostimulant properties and applications in asthma, insomnia, dementia, epilepsy, diabetes, and rheumatoid arthritis.
 - **Predicting Food-Drug Interactions between Piperine and CYP3A4 Substrate Drugs Using PBPK Modeling** (2024): PBPK modeling study quantifying piperine's food-drug interactions with CYP3A4 substrates, providing predictive framework for clinical interaction assessment.
-- **Piperlongumine as allosteric antagonist of TRPV2 impairs glioblastoma progression** (2021): Piperlongumine binds to a transient allosteric pocket on hTRPV2, demonstrating a new mode of [anticancer](/ayurveda-atlas/reference/anticancer/) activity against glioblastoma where TRPV2 is overexpressed.
+- **Piperlongumine as allosteric antagonist of TRPV2 impairs glioblastoma progression** (2021): Piperlongumine binds to a transient allosteric pocket on hTRPV2, demonstrating a new mode of [anticancer](/nighantu/reference/anticancer/) activity against glioblastoma where TRPV2 is overexpressed.
 
 ## Recent safety updates
 
@@ -145,21 +145,21 @@ Fruit powder: 1-3g/day; Vardhamana Pippali (graduated dosing): as per classical 
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Capsule, Tablet, Avaleha (confection), [Ghrita](/ayurveda-atlas/herb/ghrita/) (medicated ghee), Rasayana formulation, Vardhamana Pippali (graduated dose protocol), Honey-based preparation
+**Dosage Forms:** Churna (powder), Capsule, Tablet, Avaleha (confection), [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Rasayana formulation, Vardhamana Pippali (graduated dose protocol), Honey-based preparation
 
 **Standard Dosage:** 250-500 mg powder 1-3 times daily; 125-500 mg standardized extract twice daily; Vardhamana protocol: start 1 fruit, increase by 1 daily to 10, then taper
 
-**Bioavailability:** Piperine from Pippali (Piper longum) has excellent oral bioavailability (>90%) and is itself a potent bioenhancer. Piperlongumine shows moderate bioavailability (~35-50%) with rapid absorption. Piperine inhibits CYP3A4, CYP2D6, and P-glycoprotein, significantly enhancing bioavailability of co-administered compounds ([curcumin](/ayurveda-atlas/herb/curcumin/) bioavailability increased 20-fold). Piperine also inhibits UDP-glucuronosyltransferase, reducing Phase II metabolism of many phytochemicals.
+**Bioavailability:** Piperine from Pippali (Piper longum) has excellent oral bioavailability (>90%) and is itself a potent bioenhancer. Piperlongumine shows moderate bioavailability (~35-50%) with rapid absorption. Piperine inhibits CYP3A4, CYP2D6, and P-glycoprotein, significantly enhancing bioavailability of co-administered compounds ([curcumin](/nighantu/herb/curcumin/) bioavailability increased 20-fold). Piperine also inhibits UDP-glucuronosyltransferase, reducing Phase II metabolism of many phytochemicals.
 
 **Optimal Timing:** Before meals with honey for respiratory conditions. With meals or after meals for digestive purposes. As bioenhancer: taken simultaneously with the compound being enhanced.
 
 **Standardized Extract:** Pippali fruit extract standardized to piperine >5% (general supplement) or >95% (bioenhancer isolate). Piperlongumine-enriched extract >2%. Full-spectrum extract (4:1) with piperine >3% and total piperamides >8%.
 
-**Shelf Life:** Dried fruit: 24-36 months; Churna: 18-24 months; Standardized extract: 24-36 months; Piperine isolate: 36-48 months; [Ghrita](/ayurveda-atlas/herb/ghrita/): 24-36 months
+**Shelf Life:** Dried fruit: 24-36 months; Churna: 18-24 months; Standardized extract: 24-36 months; Piperine isolate: 36-48 months; [Ghrita](/nighantu/herb/ghrita/): 24-36 months
 
 **Storage:** Dried fruit and powder: airtight containers, below 25 deg C, RH <55%, protected from light (piperine photodegradation). Piperine isolate: amber glass, desiccated, 2-25 deg C. Ghrita: clean, dry containers, below 30 deg C.
 
-**Marker Compounds:** Piperine, Piperlongumine, Piperlonguminine, Pipernonaline, Retrofractamide A, [Pellitorine](/ayurveda-atlas/glossary/compounds-o-q/#pellitorine), Sesamin, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
+**Marker Compounds:** Piperine, Piperlongumine, Piperlonguminine, Pipernonaline, Retrofractamide A, [Pellitorine](/nighantu/glossary/compounds-o-q/#pellitorine), Sesamin, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
 
 ### Extraction Methods
 
@@ -171,8 +171,8 @@ Fruit powder: 1-3g/day; Vardhamana Pippali (graduated dosing): as per classical 
 
 ### Synergistic Combinations
 
-- [Haridra](/ayurveda-atlas/herb/haridra/)/[Curcumin](/ayurveda-atlas/herb/curcumin/) (20-fold bioavailability enhancement)
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) (Rasayana combination with enhanced withanolide absorption)
-- [Trikatu](/ayurveda-atlas/herb/trikatu/) combination (Pippali + Maricha + Shunthi for digestive fire)
-- [Sitopaladi Churna](/ayurveda-atlas/formulation/sitopaladi-churna/) (respiratory health formulation)
-- [Chyawanprash](/ayurveda-atlas/formulation/chyawanprash/) (key ingredient in classical Rasayana)
+- [Haridra](/nighantu/herb/haridra/)/[Curcumin](/nighantu/herb/curcumin/) (20-fold bioavailability enhancement)
+- [Ashwagandha](/nighantu/herb/ashwagandha/) (Rasayana combination with enhanced withanolide absorption)
+- [Trikatu](/nighantu/herb/trikatu/) combination (Pippali + Maricha + Shunthi for digestive fire)
+- [Sitopaladi Churna](/nighantu/formulation/sitopaladi-churna/) (respiratory health formulation)
+- [Chyawanprash](/nighantu/formulation/chyawanprash/) (key ingredient in classical Rasayana)

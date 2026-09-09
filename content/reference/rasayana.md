@@ -6,7 +6,7 @@ section: "_Hub"
 category: "Pharmacology"
 subcategory: "Rasayana.md"
 group: ""
-answer: "Rasayana Agents is a reference entry in the Ayurveda Atlas. 123 herbs and compounds with rasayana activity across traditions Abhraka Bhasma Agastya Haritaki Rasayana Aja Dugdha Aja Dugdha Goat Milk Akhuparni — Ipomoea reniformis Choisy (syn."
+answer: "Rasayana Agents is a reference entry in the Nighantu. 123 herbs and compounds with rasayana activity across traditions Abhraka Bhasma Agastya Haritaki Rasayana Aja Dugdha Aja Dugdha Goat Milk Akhuparni — Ipomoea reniformis Choisy (syn."
 botanical: "Juglans regia L."
 family: ""
 sanskrit: ""
@@ -23,61 +23,61 @@ srcRel: "_Hub/Pharmacology/Rasayana.md"
 
 ## Ayurveda (110)
 
-- [Abhraka Bhasma](/ayurveda-atlas/herb/abhraka-bhasma/)
-- [Agastya Haritaki Rasayana](/ayurveda-atlas/formulation/agastya-haritaki-rasayana/)
-- [Aja Dugdha](/ayurveda-atlas/glossary/concepts-a-m/#aja-dugdha)
-- [Aja Dugdha Goat Milk](/ayurveda-atlas/herb/aja-dugdha-goat-milk/)
-- [Akhuparni](/ayurveda-atlas/herb/akhuparni/) — *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
-- [Akshotaka](/ayurveda-atlas/herb/akshotaka/) — *Juglans regia L.*
-- [Amalaka Rasayana](/ayurveda-atlas/formulation/amalaka-rasayana/)
-- [Amalaki Rasayana](/ayurveda-atlas/formulation/amalaki-rasayana/)
-- [Amla](/ayurveda-atlas/herb/amla/) — *Phyllanthus emblica (syn. Emblica officinalis)*
-- [Amrita Ghrita](/ayurveda-atlas/formulation/amrita-ghrita/)
-- [Amritaprasha Ghrita](/ayurveda-atlas/formulation/amritaprasha-ghrita/)
-- [Aparajita](/ayurveda-atlas/herb/aparajita/) — *Clitoria ternatea L.*
-- [Aragvadhadi Kwath](/ayurveda-atlas/formulation/aragvadhadi-kwath/)
-- [Aravindasava](/ayurveda-atlas/formulation/aravindasava/)
-- [Ashwagandharishta](/ayurveda-atlas/formulation/ashwagandharishta/)
-- [Atibala](/ayurveda-atlas/herb/atibala/)
-- [Bakuchi Taila](/ayurveda-atlas/formulation/bakuchi-taila/)
-- [Bala](/ayurveda-atlas/herb/bala/) — *Sida cordifolia*
-- [Bala Mool](/ayurveda-atlas/herb/bala-mool/)
-- [Balarishta](/ayurveda-atlas/formulation/balarishta/)
-- [Brahma Rasayana](/ayurveda-atlas/formulation/brahma-rasayana/)
-- [Brahmi](/ayurveda-atlas/herb/brahmi/) — *Bacopa monnieri*
-- [Brahmi Ghritam](/ayurveda-atlas/formulation/brahmi-ghritam/)
-- [Brahmi Vati](/ayurveda-atlas/formulation/brahmi-vati/)
-- [Caturjata Churna](/ayurveda-atlas/formulation/caturjata-churna/)
-- [Chandraprabha](/ayurveda-atlas/herb/chandraprabha/) — *Compound formulation (37 herbs)*
-- [Chhatraka](/ayurveda-atlas/herb/chhatraka/) — *Agaricus campestris L.*
-- [Chyawanprash](/ayurveda-atlas/formulation/chyawanprash/)
-- [Dhatupaushtik Churna](/ayurveda-atlas/formulation/dhatupaushtik-churna/)
-- [Draksha](/ayurveda-atlas/herb/draksha/)
-- [Drakshavaleha](/ayurveda-atlas/herb/drakshavaleha/)
-- [Durva](/ayurveda-atlas/herb/durva/)
-- [Eranda Paka](/ayurveda-atlas/herb/eranda-paka/) — *Ricinus communis L. (processed castor preparation)*
-- [Gambhari](/ayurveda-atlas/herb/gambhari/) — *Gmelina arborea Roxb.*
-- [Gambhari Phala](/ayurveda-atlas/herb/gambhari-phala/) — *Gmelina arborea Roxb.*
-- [Gandhak Rasayan](/ayurveda-atlas/herb/gandhak-rasayan/) — *Purified Sulfur (Shuddha Gandhak) - mineral preparation*
-- [Gandhaka](/ayurveda-atlas/glossary/concepts-a-m/#gandhaka)
-- [Gangeruki](/ayurveda-atlas/herb/gangeruki/) — *Grewia tenax (Forssk.) Fiori*
-- [Ghrita](/ayurveda-atlas/herb/ghrita/)
+- [Abhraka Bhasma](/nighantu/herb/abhraka-bhasma/)
+- [Agastya Haritaki Rasayana](/nighantu/formulation/agastya-haritaki-rasayana/)
+- [Aja Dugdha](/nighantu/glossary/concepts-a-m/#aja-dugdha)
+- [Aja Dugdha Goat Milk](/nighantu/herb/aja-dugdha-goat-milk/)
+- [Akhuparni](/nighantu/herb/akhuparni/) — *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
+- [Akshotaka](/nighantu/herb/akshotaka/) — *Juglans regia L.*
+- [Amalaka Rasayana](/nighantu/formulation/amalaka-rasayana/)
+- [Amalaki Rasayana](/nighantu/formulation/amalaki-rasayana/)
+- [Amla](/nighantu/herb/amla/) — *Phyllanthus emblica (syn. Emblica officinalis)*
+- [Amrita Ghrita](/nighantu/formulation/amrita-ghrita/)
+- [Amritaprasha Ghrita](/nighantu/formulation/amritaprasha-ghrita/)
+- [Aparajita](/nighantu/herb/aparajita/) — *Clitoria ternatea L.*
+- [Aragvadhadi Kwath](/nighantu/formulation/aragvadhadi-kwath/)
+- [Aravindasava](/nighantu/formulation/aravindasava/)
+- [Ashwagandharishta](/nighantu/formulation/ashwagandharishta/)
+- [Atibala](/nighantu/herb/atibala/)
+- [Bakuchi Taila](/nighantu/formulation/bakuchi-taila/)
+- [Bala](/nighantu/herb/bala/) — *Sida cordifolia*
+- [Bala Mool](/nighantu/herb/bala-mool/)
+- [Balarishta](/nighantu/formulation/balarishta/)
+- [Brahma Rasayana](/nighantu/formulation/brahma-rasayana/)
+- [Brahmi](/nighantu/herb/brahmi/) — *Bacopa monnieri*
+- [Brahmi Ghritam](/nighantu/formulation/brahmi-ghritam/)
+- [Brahmi Vati](/nighantu/formulation/brahmi-vati/)
+- [Caturjata Churna](/nighantu/formulation/caturjata-churna/)
+- [Chandraprabha](/nighantu/herb/chandraprabha/) — *Compound formulation (37 herbs)*
+- [Chhatraka](/nighantu/herb/chhatraka/) — *Agaricus campestris L.*
+- [Chyawanprash](/nighantu/formulation/chyawanprash/)
+- [Dhatupaushtik Churna](/nighantu/formulation/dhatupaushtik-churna/)
+- [Draksha](/nighantu/herb/draksha/)
+- [Drakshavaleha](/nighantu/herb/drakshavaleha/)
+- [Durva](/nighantu/herb/durva/)
+- [Eranda Paka](/nighantu/herb/eranda-paka/) — *Ricinus communis L. (processed castor preparation)*
+- [Gambhari](/nighantu/herb/gambhari/) — *Gmelina arborea Roxb.*
+- [Gambhari Phala](/nighantu/herb/gambhari-phala/) — *Gmelina arborea Roxb.*
+- [Gandhak Rasayan](/nighantu/herb/gandhak-rasayan/) — *Purified Sulfur (Shuddha Gandhak) - mineral preparation*
+- [Gandhaka](/nighantu/glossary/concepts-a-m/#gandhaka)
+- [Gangeruki](/nighantu/herb/gangeruki/) — *Grewia tenax (Forssk.) Fiori*
+- [Ghrita](/nighantu/herb/ghrita/)
 
 ## Related Body Systems
 
-- [Anti-inflammatory & Pain](/ayurveda-atlas/reference/antiinflammatory-pain/)
-- [Brain & Nervous System](/ayurveda-atlas/reference/brain-nervous-system/)
-- [Diabetes & Metabolism](/ayurveda-atlas/reference/diabetes-metabolism/)
-- [Digestive Health](/ayurveda-atlas/reference/digestive-health/)
-- [Eye Health](/ayurveda-atlas/reference/eye-health/)
-- [Fever & Infection](/ayurveda-atlas/reference/fever-infection/)
-- [Hair Health](/ayurveda-atlas/glossary/body-systems/#hair-health)
-- [Heart & Cardiovascular](/ayurveda-atlas/reference/heart-cardiovascular/)
-- [Immune System & Rasayana](/ayurveda-atlas/reference/immune-system-rasayana/)
-- [Joint & Musculoskeletal](/ayurveda-atlas/reference/joint-musculoskeletal/)
-- [Kidney & Urinary](/ayurveda-atlas/reference/kidney-urinary/)
-- [Liver & Detoxification](/ayurveda-atlas/reference/liver-detoxification/)
-- [Men's Health & Vitality](/ayurveda-atlas/reference/mens-health-vitality/)
-- [Respiratory Health](/ayurveda-atlas/reference/respiratory-health/)
-- [Skin & Beauty](/ayurveda-atlas/reference/skin-beauty/)
-- [Women's Health](/ayurveda-atlas/reference/womens-health/)
+- [Anti-inflammatory & Pain](/nighantu/reference/antiinflammatory-pain/)
+- [Brain & Nervous System](/nighantu/reference/brain-nervous-system/)
+- [Diabetes & Metabolism](/nighantu/reference/diabetes-metabolism/)
+- [Digestive Health](/nighantu/reference/digestive-health/)
+- [Eye Health](/nighantu/reference/eye-health/)
+- [Fever & Infection](/nighantu/reference/fever-infection/)
+- [Hair Health](/nighantu/glossary/body-systems/#hair-health)
+- [Heart & Cardiovascular](/nighantu/reference/heart-cardiovascular/)
+- [Immune System & Rasayana](/nighantu/reference/immune-system-rasayana/)
+- [Joint & Musculoskeletal](/nighantu/reference/joint-musculoskeletal/)
+- [Kidney & Urinary](/nighantu/reference/kidney-urinary/)
+- [Liver & Detoxification](/nighantu/reference/liver-detoxification/)
+- [Men's Health & Vitality](/nighantu/reference/mens-health-vitality/)
+- [Respiratory Health](/nighantu/reference/respiratory-health/)
+- [Skin & Beauty](/nighantu/reference/skin-beauty/)
+- [Women's Health](/nighantu/reference/womens-health/)

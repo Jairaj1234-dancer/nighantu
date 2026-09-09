@@ -29,31 +29,31 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Madanaphala/meta-analysis.md"
 ## Key Phytochemical Constituents
 
 - Randianin (saponin)
-- Dumetoronins A-F ([saponins](/ayurveda-atlas/reference/saponins/))
+- Dumetoronins A-F ([saponins](/nighantu/reference/saponins/))
 - Randoside A (glycoside)
 - 10-Methylixoside (iridoid glycoside)
 - Ursosaponin
 - Randia acid
 - Tartaric acid
-- [Citric acid](/ayurveda-atlas/glossary/compounds-c-d/#citric-acidcitric-acid)
+- [Citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid)
 
 ## How does it work?
 
 - Emetic: Saponins (randianin, dumetoronins) irritate gastric mucosa and stimulate the chemoreceptor trigger zone (CTZ), inducing therapeutic emesis (Vamana)
-- Anti-inflammatory: Iridoid [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) and triterpenoid saponins suppress IL-1beta, TNF-alpha production, and inhibit COX-2 expression
-- [Immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/): Saponins and glycosides enhance phagocytic function and modulate adaptive immune response through T-helper cell modulation
+- Anti-inflammatory: Iridoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) and triterpenoid saponins suppress IL-1beta, TNF-alpha production, and inhibit COX-2 expression
+- [Immunomodulatory](/nighantu/reference/immunomodulatory/): Saponins and glycosides enhance phagocytic function and modulate adaptive immune response through T-helper cell modulation
 
 ## Which traditional uses are supported by research?
 
 - Therapeutic emetic use (Vamana) validated by saponin-mediated gastric mucosal irritation and CTZ stimulation
 - Anti-inflammatory use for respiratory disorders supported by IL-1beta reduction in human lung epithelial cells
-- Wound healing activity confirmed through [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) and collagen synthesis promotion in excision wound models
+- Wound healing activity confirmed through [antimicrobial](/nighantu/reference/antimicrobial/) and collagen synthesis promotion in excision wound models
 
 ## What do recent clinical trials show?
 
-- **Madanaphala (Randia dumetorum lam.): A Phyto-Pharmacological Review** (2023): Comprehensive review documenting antibacterial, anti-allergic, anti-inflammatory, [analgesic](/ayurveda-atlas/reference/analgesic/), immunomodulatory, emetic, and wound healing properties.
+- **Madanaphala (Randia dumetorum lam.): A Phyto-Pharmacological Review** (2023): Comprehensive review documenting antibacterial, anti-allergic, anti-inflammatory, [analgesic](/nighantu/reference/analgesic/), immunomodulatory, emetic, and wound healing properties.
 - **Standardized Randia dumetorum Extract Reduces IL-1beta in Human Lung Epithelial Cells** (2021): Extract reduced IL-1beta levels in cultured human lung epithelial cells, providing molecular basis for its traditional use in cough and respiratory disorders.
-- **Madanaphala (Randia dumetorum): A Pharmacological and Pharmacognostical Review** (2020): Validated emetic, [antipyretic](/ayurveda-atlas/reference/antipyretic/), anti-inflammatory, antiallergic, anthelmintic, immunomodulatory, analgesic, and wound healing properties of fruits and bark.
+- **Madanaphala (Randia dumetorum): A Pharmacological and Pharmacognostical Review** (2020): Validated emetic, [antipyretic](/nighantu/reference/antipyretic/), anti-inflammatory, antiallergic, anthelmintic, immunomodulatory, analgesic, and wound healing properties of fruits and bark.
 
 ## Recent safety updates
 
@@ -78,9 +78,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Madanaphala/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Kwatha (decoction), [Pippali](/ayurveda-atlas/herb/pippali/)-Madanaphala yoga (combination), Capsules, Tablets (for sub-emetic doses), Lepa (topical)
+**Dosage Forms:** Churna (powder), Kwatha (decoction), [Pippali](/nighantu/herb/pippali/)-Madanaphala yoga (combination), Capsules, Tablets (for sub-emetic doses), Lepa (topical)
 
-**Standard Dosage:** Emetic dose: 3-6 g powder with honey and rock salt for Vamana therapy. Sub-emetic dose: 500 mg-1 g for [expectorant](/ayurveda-atlas/reference/expectorant/) effect. External use as paste.
+**Standard Dosage:** Emetic dose: 3-6 g powder with honey and rock salt for Vamana therapy. Sub-emetic dose: 500 mg-1 g for [expectorant](/nighantu/reference/expectorant/) effect. External use as paste.
 
 **Bioavailability:** Saponins are moderately absorbed orally; emetic effect is primarily local on gastric mucosa via vagal stimulation. Randiasaponins show limited systemic bioavailability which is therapeutically appropriate as primary action is emetic/expectorant. Hepatic metabolism is rapid for absorbed fractions.
 
@@ -92,19 +92,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Madanaphala/meta-analysis.md"
 
 **Storage:** Store below 25 deg C in airtight containers. Protect from moisture as saponins are hygroscopic. Keep in restricted access storage due to emetic potency. Label clearly with 'For Practitioner Use Only' for Vamana preparations.
 
-**Marker Compounds:** Randiasaponin I-IV, Randianin, Ursolic acid, Oleanolic acid, Saponin glycosides, [Mannitol](/ayurveda-atlas/glossary/compounds-l-o/#mannitolmannitol)
+**Marker Compounds:** Randiasaponin I-IV, Randianin, Ursolic acid, Oleanolic acid, Saponin glycosides, [Mannitol](/nighantu/glossary/compounds-l-o/#mannitolmannitol)
 
 ### Extraction Methods
 
 - Aqueous extraction (for emetic preparations)
 - Hydroalcoholic extraction (50% ethanol)
 - Saponin-enriched extraction using butanol partitioning
-- Traditional processing with [Phanita](/ayurveda-atlas/glossary/concepts-m-y/#phanita) (sugar syrup) for Shodhana
+- Traditional processing with [Phanita](/nighantu/glossary/concepts-m-y/#phanita) (sugar syrup) for Shodhana
 
 ### Synergistic Combinations
 
 - Pippali (Vamana Dravya combination)
-- [Vacha](/ayurveda-atlas/herb/vacha/) (emetic potentiation in Panchakarma)
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) (emetic with gastric protection)
-- [Nimba](/ayurveda-atlas/herb/nimba/) (antiparasitic combination at sub-emetic doses)
-- [Madhu](/ayurveda-atlas/herb/madhu/)/Honey (traditional vehicle for emetic use)
+- [Vacha](/nighantu/herb/vacha/) (emetic potentiation in Panchakarma)
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (emetic with gastric protection)
+- [Nimba](/nighantu/herb/nimba/) (antiparasitic combination at sub-emetic doses)
+- [Madhu](/nighantu/herb/madhu/)/Honey (traditional vehicle for emetic use)

@@ -1,7 +1,7 @@
-export const SITE_NAME = 'Ayurveda Atlas';
+export const SITE_NAME = 'Age Ayurveda Nighantu';
 export const PUBLISHER = 'Age Ayurveda';
 export const STORE = 'https://ageayurveda.com';
-export const TAGLINE = 'A referenced encyclopedia of Ayurvedic herbs, classical formulations and instruments.';
+export const TAGLINE = 'A nighantu is the classical Ayurvedic lexicon of medicinal substances. This is a modern one: a referenced encyclopedia of Ayurvedic herbs, classical formulations and instruments.';
 
 /** Absolute URL for a site-relative path, honouring the configured base. */
 export function abs(path: string): string {

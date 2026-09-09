@@ -34,8 +34,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ankola/meta-analysis.md"
 - Alangicine
 - Salsoline
 - Salviifosides A
-- Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
-- [Emodin](/ayurveda-atlas/glossary/compounds-d-g/#emodin)
+- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- [Emodin](/nighantu/glossary/compounds-d-g/#emodin)
 - Lamarckianin
 - Alangimarine
 
@@ -43,18 +43,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ankola/meta-analysis.md"
 
 - Salviifosides A exerts COX-2 inhibitory effects, providing anti-inflammatory activity through selective cyclooxygenase-2 inhibition and reduction of prostaglandin E2 synthesis
 - Tubulosine alkaloid demonstrates cytotoxic activity against cancer cells by inhibiting protein synthesis and inducing apoptosis through activation of intrinsic mitochondrial pathways
-- Alangine and related [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) exhibit [antihypertensive](/ayurveda-atlas/glossary/pharmacology/#antihypertensive) effects through calcium channel blocking and ACE-inhibitory mechanisms in cardiovascular tissue
+- Alangine and related [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) exhibit [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive) effects through calcium channel blocking and ACE-inhibitory mechanisms in cardiovascular tissue
 
 ## Which traditional uses are supported by research?
 
-- [Antidiabetic](/ayurveda-atlas/reference/antidiabetic/) activity validated through in vivo studies showing significant blood [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose) reduction consistent with traditional Ayurvedic use for Prameha (diabetes)
+- [Antidiabetic](/nighantu/reference/antidiabetic/) activity validated through in vivo studies showing significant blood [glucose](/nighantu/glossary/compounds-d-g/#glucose) reduction consistent with traditional Ayurvedic use for Prameha (diabetes)
 - Antiarthritic and anti-inflammatory properties confirmed in preclinical models supporting traditional use for joint pain and rheumatism (Amavata) in Ayurveda
 - Antivenomous properties (traditional use as snakebite remedy) partially validated through in vitro studies showing neutralization of venom phospholipase activity
 
 ## What do recent clinical trials show?
 
-- **GCMS-based phytochemical profiling and in vitro pharmacological activities of plant Alangium salviifolium (L.f) Wang** (2024): All crude extracts showed considerable and comparable in vitro [antioxidant](/ayurveda-atlas/reference/antioxidant/) and antibacterial properties; GC-MS analysis identified multiple bioactive compounds including [terpenoids](/ayurveda-atlas/glossary/compounds-t-z/#terpenoids) and fatty acids.
-- **Ankol plant (Alangium salvifolium) - The treasure trove of bioactives and medicinal potential** (2022): Comprehensive review documenting the plant's significant [anticancer](/ayurveda-atlas/reference/anticancer/), [antitumor](/ayurveda-atlas/glossary/pharmacology/#antitumor), antibacterial, antinociceptive, and anti-inflammatory properties across different plant parts.
+- **GCMS-based phytochemical profiling and in vitro pharmacological activities of plant Alangium salviifolium (L.f) Wang** (2024): All crude extracts showed considerable and comparable in vitro [antioxidant](/nighantu/reference/antioxidant/) and antibacterial properties; GC-MS analysis identified multiple bioactive compounds including [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids) and fatty acids.
+- **Ankol plant (Alangium salvifolium) - The treasure trove of bioactives and medicinal potential** (2022): Comprehensive review documenting the plant's significant [anticancer](/nighantu/reference/anticancer/), [antitumor](/nighantu/glossary/pharmacology/#antitumor), antibacterial, antinociceptive, and anti-inflammatory properties across different plant parts.
 - **Pharmacological and phytochemical studies of Alangium salvifolium Wang - A review** (2017): Evidence-based studies reported efficacy against hypertension, diabetes, epilepsy, cancer, inflammation, and ulcer, with multiple alkaloid classes contributing to diverse pharmacological effects.
 
 ## Recent safety updates
@@ -108,6 +108,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ankola/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Eranda](/ayurveda-atlas/herb/eranda/) taila for Vata disorders (external)
-- With [Nirgundi](/ayurveda-atlas/herb/nirgundi/) for joint pain (external application)
-- With [Haridra](/ayurveda-atlas/herb/haridra/) for wound healing paste
+- With [Eranda](/nighantu/herb/eranda/) taila for Vata disorders (external)
+- With [Nirgundi](/nighantu/herb/nirgundi/) for joint pain (external application)
+- With [Haridra](/nighantu/herb/haridra/) for wound healing paste

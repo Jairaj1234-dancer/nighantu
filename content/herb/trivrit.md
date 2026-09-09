@@ -31,17 +31,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Trivrit/meta-analysis.md"
 - Alpha-turpethein (resin glycoside)
 - Beta-turpethein
 - Turpethinic acids A-E
-- [Scopoletin](/ayurveda-atlas/glossary/compounds-q-t/#scopoletin) ([coumarin](/ayurveda-atlas/glossary/compounds-c-d/#coumarin))
-- Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
-- [Lupeol](/ayurveda-atlas/reference/lupeol/)
-- [Betulin](/ayurveda-atlas/glossary/compounds-a-c/#betulin)
+- [Scopoletin](/nighantu/glossary/compounds-q-t/#scopoletin) ([coumarin](/nighantu/glossary/compounds-c-d/#coumarin))
+- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- [Lupeol](/nighantu/reference/lupeol/)
+- [Betulin](/nighantu/glossary/compounds-a-c/#betulin)
 - Operculinosides A-D
 
 ## How does it work?
 
-- Purgative: Turpethein resin [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) stimulate intestinal peristalsis and fluid secretion by irritating colonic mucosa and activating enteric neurons
+- Purgative: Turpethein resin [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) stimulate intestinal peristalsis and fluid secretion by irritating colonic mucosa and activating enteric neurons
 - Anti-inflammatory: Scopoletin inhibits COX-2 and iNOS expression; lupeol suppresses NF-kB-mediated inflammatory signaling
-- [Hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/): Betulin and beta-sitosterol reduce hepatic oxidative stress and lipid peroxidation, restoring liver enzyme levels
+- [Hepatoprotective](/nighantu/reference/hepatoprotective/): Betulin and beta-sitosterol reduce hepatic oxidative stress and lipid peroxidation, restoring liver enzyme levels
 
 ## Which traditional uses are supported by research?
 
@@ -51,8 +51,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Trivrit/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Operculina turpethum (Linn.) Silva Manso as a Medicinal Plant Species: A Review on Bioactive Components and Pharmacological Properties** (2017): Documented [antimicrobial](/ayurveda-atlas/reference/antimicrobial/), antihepatotoxic, antinephrotoxic, antiulcer, antidiarrheal, [antidiabetic](/ayurveda-atlas/reference/antidiabetic/), cytotoxic, [analgesic](/ayurveda-atlas/reference/analgesic/), anti-arthritic, and anti-inflammatory activities.
-- **Phytochemistry and Pharmacological Properties of Operculina turpethum** (2020): Confirmed [laxative](/ayurveda-atlas/reference/laxative/) activity of turpethein glycosides; identified scopoletin and lupeol as key anti-inflammatory compounds; documented [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) potential.
+- **Operculina turpethum (Linn.) Silva Manso as a Medicinal Plant Species: A Review on Bioactive Components and Pharmacological Properties** (2017): Documented [antimicrobial](/nighantu/reference/antimicrobial/), antihepatotoxic, antinephrotoxic, antiulcer, antidiarrheal, [antidiabetic](/nighantu/reference/antidiabetic/), cytotoxic, [analgesic](/nighantu/reference/analgesic/), anti-arthritic, and anti-inflammatory activities.
+- **Phytochemistry and Pharmacological Properties of Operculina turpethum** (2020): Confirmed [laxative](/nighantu/reference/laxative/) activity of turpethein glycosides; identified scopoletin and lupeol as key anti-inflammatory compounds; documented [immunomodulatory](/nighantu/reference/immunomodulatory/) potential.
 - **A Comprehensive Review on Trivrit (Operculina turpethum syn. Ipomoea turpethum)** (2016): Validated multiple Ayurvedic uses including purgative, anti-helminthic, and anti-inflammatory applications; proposed turpethinic acids as primary purgative principles.
 
 ## Recent safety updates
@@ -104,8 +104,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Trivrit/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Triphala](/ayurveda-atlas/herb/triphala/) - combined for Virechana (therapeutic purgation) in Panchakarma
-- Shunthi ([ginger](/ayurveda-atlas/herb/ginger/)) - reduces griping associated with purgation
-- Shatapushpa ([fennel](/ayurveda-atlas/herb/fennel/)) - carminative to prevent colic during purgation
-- [Ghrita](/ayurveda-atlas/herb/ghrita/) - vehicle for graduated purgation (milder action)
-- [Saindhava Lavana](/ayurveda-atlas/herb/saindhava-lavana/) - enhances purgative action
+- [Triphala](/nighantu/herb/triphala/) - combined for Virechana (therapeutic purgation) in Panchakarma
+- Shunthi ([ginger](/nighantu/herb/ginger/)) - reduces griping associated with purgation
+- Shatapushpa ([fennel](/nighantu/herb/fennel/)) - carminative to prevent colic during purgation
+- [Ghrita](/nighantu/herb/ghrita/) - vehicle for graduated purgation (milder action)
+- [Saindhava Lavana](/nighantu/herb/saindhava-lavana/) - enhances purgative action

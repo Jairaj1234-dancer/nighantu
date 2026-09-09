@@ -23,15 +23,15 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Pinda-Thail
 
 | Language | Name |
 |----------|------|
-| English | [Pinda Thailam](/ayurveda-atlas/formulation/pinda-thailam/) |
+| English | [Pinda Thailam](/nighantu/formulation/pinda-thailam/) |
 
 ## Key Ingredients
 
-- [Manjistha](/ayurveda-atlas/herb/manjistha/) (Rubia cordifolia / Indian Madder) - primary herb
-- [Sariva](/ayurveda-atlas/herb/sariva/) (Hemidesmus indicus / Indian Sarsaparilla)
+- [Manjistha](/nighantu/herb/manjistha/) (Rubia cordifolia / Indian Madder) - primary herb
+- [Sariva](/nighantu/herb/sariva/) (Hemidesmus indicus / Indian Sarsaparilla)
 - Madhuchhista (Beeswax)
 - Sarjarasa (Vateria indica resin / White Dammar)
-- [Sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) ([Tila](/ayurveda-atlas/herb/tila/) taila) base
+- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) ([Tila](/nighantu/herb/tila/) taila) base
 
 ## Where is it described in the classical texts?
 
@@ -39,22 +39,22 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa); also referenced in Sahasrayogam. A s
 
 ## How does it work?
 
-- Anthraquinones ([purpurin](/ayurveda-atlas/glossary/compounds-o-q/#purpurin), munjistin) from [Manjistha](/ayurveda-atlas/herb/manjistha/) provide potent anti-inflammatory and blood-purifying action, specifically targeting Rakta Dhatu (blood tissue) inflammation
-- [Sariva](/ayurveda-atlas/herb/sariva/)'s hemidesmin and 2-hydroxy-4-methoxy [benzaldehyde](/ayurveda-atlas/glossary/compounds-a-c/#benzaldehyde) provide cooling, blood-purifying action and reduce cutaneous inflammation through inhibition of pro-inflammatory cytokines
+- Anthraquinones ([purpurin](/nighantu/glossary/compounds-o-q/#purpurin), munjistin) from [Manjistha](/nighantu/herb/manjistha/) provide potent anti-inflammatory and blood-purifying action, specifically targeting Rakta Dhatu (blood tissue) inflammation
+- [Sariva](/nighantu/herb/sariva/)'s hemidesmin and 2-hydroxy-4-methoxy [benzaldehyde](/nighantu/glossary/compounds-a-c/#benzaldehyde) provide cooling, blood-purifying action and reduce cutaneous inflammation through inhibition of pro-inflammatory cytokines
 - Beeswax provides an occlusive barrier layer that holds the herbal constituents in contact with inflamed tissue for prolonged therapeutic action
-- Oleic and linoleic fatty acids from [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) act as anti-inflammatory lipid mediators and enhance transdermal penetration of active herbal compounds to deeper tissue layers
+- Oleic and linoleic fatty acids from [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) act as anti-inflammatory lipid mediators and enhance transdermal penetration of active herbal compounds to deeper tissue layers
 
 ## Which traditional uses are supported by research?
 
-- Inflammatory skin conditions (psoriasis, eczema) - validated by pharmacological confirmation of anti-inflammatory anthraquinones and [phytosterols](/ayurveda-atlas/glossary/compounds-o-q/#phytosterols) from [Manjistha](/ayurveda-atlas/herb/manjistha/) and [Sariva](/ayurveda-atlas/herb/sariva/)
+- Inflammatory skin conditions (psoriasis, eczema) - validated by pharmacological confirmation of anti-inflammatory anthraquinones and [phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols) from [Manjistha](/nighantu/herb/manjistha/) and [Sariva](/nighantu/herb/sariva/)
 - Gout and inflammatory joint conditions - validated by clinical study (2017) showing superior pain reduction in OA knees with oil-based therapy
 - Post-stroke rehabilitation (Pinda Sveda therapy) - validated by RCT (2019) demonstrating improved muscle strength in hemiparetic patients after 12 oil poultice sessions
 
 ## What do recent clinical trials show?
 
 - **Clinical evaluation of Pinda Taila in osteoarthritis of knee** (2017): Published in Journal of Ayurveda & Integrative Medicine, the oil-based method demonstrated superior pain score reduction in osteoarthritis knees compared to conventional therapy.
-- **[Pinda Thailam](/ayurveda-atlas/formulation/pinda-thailam/) in post-stroke hemiparetic patients** (2019): A randomized control study in Ayurvedic Research Journal demonstrated improved muscle strength in post-stroke hemiparetic patients after 12 sessions of oil poultice (Pinda Sveda) therapy versus exercise-only group.
-- **Phytochemical analysis of [Pinda Thailam](/ayurveda-atlas/formulation/pinda-thailam/) fatty acid and phytosterol profile** (2020): In-vitro analyses confirmed high levels of oleic and linoleic fatty acids, plus phytosterols, all contributing to measurable reduction in inflammatory markers in tissue culture models.
+- **[Pinda Thailam](/nighantu/formulation/pinda-thailam/) in post-stroke hemiparetic patients** (2019): A randomized control study in Ayurvedic Research Journal demonstrated improved muscle strength in post-stroke hemiparetic patients after 12 sessions of oil poultice (Pinda Sveda) therapy versus exercise-only group.
+- **Phytochemical analysis of [Pinda Thailam](/nighantu/formulation/pinda-thailam/) fatty acid and phytosterol profile** (2020): In-vitro analyses confirmed high levels of oleic and linoleic fatty acids, plus phytosterols, all contributing to measurable reduction in inflammatory markers in tissue culture models.
 
 ## Recent safety updates
 
@@ -72,11 +72,11 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa); also referenced in Sahasrayogam. A s
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Thailam (medicated [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)), External application
+**Dosage Forms:** Thailam (medicated [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)), External application
 
 **Standard Dosage:** External for wounds, burns, eczema
 
-**Bioavailability:** Oil base ([sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
+**Bioavailability:** Oil base ([sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
 
 **Optimal Timing:** External: before bath or at bedtime. Internal: before meals
 
@@ -84,7 +84,7 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa); also referenced in Sahasrayogam. A s
 
 **Storage:** Airtight amber glass/HDPE container, room temperature, protected from light
 
-**Marker Compounds:** [Alizarin](/ayurveda-atlas/glossary/compounds-1-a/#alizarin), Purpurin
+**Marker Compounds:** [Alizarin](/nighantu/glossary/compounds-1-a/#alizarin), Purpurin
 
 **Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Alizarin, Purpurin
 
@@ -92,4 +92,4 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa); also referenced in Sahasrayogam. A s
 
 ### Synergistic Combinations
 
-- Key herbs: [Manjistha](/ayurveda-atlas/herb/manjistha/), Sarjarasa, [Sariva](/ayurveda-atlas/herb/sariva/), beeswax; oil base acts as lipid carrier for enhanced tissue penetration
+- Key herbs: [Manjistha](/nighantu/herb/manjistha/), Sarjarasa, [Sariva](/nighantu/herb/sariva/), beeswax; oil base acts as lipid carrier for enhanced tissue penetration

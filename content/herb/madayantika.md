@@ -49,9 +49,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Madayantika/meta-analysis
 
 **Standard Dosage:** 3-6 g flower/fruit powder per day; 50-100 mL decoction twice daily; 10-20 mL juice; 5-10 g Avaleha preparation
 
-**Bioavailability:** Moderate bioavailability of [flavonoids](/ayurveda-atlas/reference/flavonoids/) and [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids). Indole alkaloids show good GI absorption. Monoterpene indole alkaloids undergo significant first-pass hepatic metabolism. [Tannins](/ayurveda-atlas/reference/tannins/) may reduce bioavailability of co-administered compounds. [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/) [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) are hydrolyzed in gut to absorbable aglycones.
+**Bioavailability:** Moderate bioavailability of [flavonoids](/nighantu/reference/flavonoids/) and [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids). Indole alkaloids show good GI absorption. Monoterpene indole alkaloids undergo significant first-pass hepatic metabolism. [Tannins](/nighantu/reference/tannins/) may reduce bioavailability of co-administered compounds. [Quercetin](/nighantu/reference/quercetinquercetin/) [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) are hydrolyzed in gut to absorbable aglycones.
 
-**Optimal Timing:** After meals for digestive and [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) effects; evening for cooling and Pitta-pacifying actions; topical application as needed
+**Optimal Timing:** After meals for digestive and [hepatoprotective](/nighantu/reference/hepatoprotective/) effects; evening for cooling and Pitta-pacifying actions; topical application as needed
 
 **Standardized Extract:** Flower extract (8:1 hydroalcoholic) standardized to minimum 2% total flavonoids (as quercetin equivalents). Fruit extract with minimum 1% lawsone. Essential oil from flowers for aromatic and therapeutic use.
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Madayantika/meta-analysis
 
 **Storage:** Store below 25 deg C in airtight, light-resistant containers. Flower preparations are photosensitive due to lawsone content. Protect from moisture. Avaleha in glass or food-grade containers at room temperature.
 
-**Marker Compounds:** Lawsone (2-hydroxy-1,4-naphthoquinone), [Luteolin](/ayurveda-atlas/glossary/compounds-l-o/#luteolin), [Apigenin](/ayurveda-atlas/glossary/compounds-1-a/#apigenin), Cosmosiin, Gallic acid, Tannic acid, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), Laxanthone
+**Marker Compounds:** Lawsone (2-hydroxy-1,4-naphthoquinone), [Luteolin](/nighantu/glossary/compounds-l-o/#luteolin), [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin), Cosmosiin, Gallic acid, Tannic acid, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Laxanthone
 
 ### Extraction Methods
 
@@ -71,8 +71,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Madayantika/meta-analysis
 
 ### Synergistic Combinations
 
-- [Chandana](/ayurveda-atlas/herb/chandana/)/Sandalwood (cooling and Pitta-pacifying)
-- [Ushira](/ayurveda-atlas/herb/ushira/) (cooling and blood purifying)
-- [Sariva](/ayurveda-atlas/herb/sariva/) (skin health combination)
-- [Padmaka](/ayurveda-atlas/herb/padmaka/) (complexion enhancer)
-- [Kumuda](/ayurveda-atlas/herb/kumuda/) (cardiac tonic combination)
+- [Chandana](/nighantu/herb/chandana/)/Sandalwood (cooling and Pitta-pacifying)
+- [Ushira](/nighantu/herb/ushira/) (cooling and blood purifying)
+- [Sariva](/nighantu/herb/sariva/) (skin health combination)
+- [Padmaka](/nighantu/herb/padmaka/) (complexion enhancer)
+- [Kumuda](/nighantu/herb/kumuda/) (cardiac tonic combination)

@@ -45,11 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Putranjivaka/meta-analysis.md
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (seed/bark powder), Kwatha (decoction), Capsule, Tablet, [Ghrita](/ayurveda-atlas/herb/ghrita/), Taila
+**Dosage Forms:** Churna (seed/bark powder), Kwatha (decoction), Capsule, Tablet, [Ghrita](/nighantu/herb/ghrita/), Taila
 
 **Standard Dosage:** 1-3 g seed powder daily; 3-5 g bark powder daily; 15-20 mL decoction twice daily; 500 mg standardized extract twice daily
 
-**Bioavailability:** Putranjiva roxburghii (Putranjivaka) contains [glucosinolates](/ayurveda-atlas/glossary/compounds-d-g/#glucosinolates) that undergo enzymatic hydrolysis ([myrosinase](/ayurveda-atlas/glossary/compounds-l-o/#myrosinase)) to release [isothiocyanates](/ayurveda-atlas/glossary/compounds-g-l/#isothiocyanates) with moderate bioavailability (30-45%). Triterpenoid [saponins](/ayurveda-atlas/reference/saponins/) show limited oral bioavailability (10-25%) but are partially converted by gut bacteria to sapogenins with improved absorption. Seed oil fatty acids are well absorbed. Limited modern pharmacokinetic data; traditional texts suggest enhanced absorption with ghee (Ghrita) as vehicle.
+**Bioavailability:** Putranjiva roxburghii (Putranjivaka) contains [glucosinolates](/nighantu/glossary/compounds-d-g/#glucosinolates) that undergo enzymatic hydrolysis ([myrosinase](/nighantu/glossary/compounds-l-o/#myrosinase)) to release [isothiocyanates](/nighantu/glossary/compounds-g-l/#isothiocyanates) with moderate bioavailability (30-45%). Triterpenoid [saponins](/nighantu/reference/saponins/) show limited oral bioavailability (10-25%) but are partially converted by gut bacteria to sapogenins with improved absorption. Seed oil fatty acids are well absorbed. Limited modern pharmacokinetic data; traditional texts suggest enhanced absorption with ghee (Ghrita) as vehicle.
 
 **Optimal Timing:** Traditional use for fertility: with ghee and milk, morning on empty stomach or before bedtime. General use: after meals with warm water.
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Putranjivaka/meta-analysis.md
 
 **Storage:** Seeds: cool, dry, pest-proof storage, below 20 deg C. Powder and extracts: airtight, below 25 deg C, RH <55%. Ghrita: clean, dry glass containers, below 30 deg C, protect from moisture.
 
-**Marker Compounds:** Glucosinolates (as glucococlearin), Putranjivic acid, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/ayurveda-atlas/reference/stigmasterol/), Oleic acid, Triterpenoid saponins, [Friedelin](/ayurveda-atlas/glossary/compounds-d-g/#friedelin)
+**Marker Compounds:** Glucosinolates (as glucococlearin), Putranjivic acid, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/nighantu/reference/stigmasterol/), Oleic acid, Triterpenoid saponins, [Friedelin](/nighantu/glossary/compounds-d-g/#friedelin)
 
 ### Extraction Methods
 
@@ -71,8 +71,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Putranjivaka/meta-analysis.md
 
 ### Synergistic Combinations
 
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) (fertility and reproductive health)
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) (female reproductive tonic combination)
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) (immune modulation and rejuvenation)
-- Amalaki ([antioxidant](/ayurveda-atlas/reference/antioxidant/) and rejuvenation)
-- [Bala](/ayurveda-atlas/herb/bala/) (strength and vitality combination)
+- [Ashwagandha](/nighantu/herb/ashwagandha/) (fertility and reproductive health)
+- [Shatavari](/nighantu/herb/shatavari/) (female reproductive tonic combination)
+- [Guduchi](/nighantu/herb/guduchi/) (immune modulation and rejuvenation)
+- Amalaki ([antioxidant](/nighantu/reference/antioxidant/) and rejuvenation)
+- [Bala](/nighantu/herb/bala/) (strength and vitality combination)

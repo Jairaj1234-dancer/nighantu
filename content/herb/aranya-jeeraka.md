@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aranya-Jeeraka/meta-analysis.
 
 | Language | Name |
 |----------|------|
-| English | Aranya [Jeeraka](/ayurveda-atlas/herb/jeeraka/)|Aranya Jeeraka |
+| English | Aranya [Jeeraka](/nighantu/herb/jeeraka/)|Aranya Jeeraka |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -45,11 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aranya-Jeeraka/meta-analysis.
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (seed powder), Capsule, Tablet, [Arka](/ayurveda-atlas/herb/arka/) (distillate), Essential oil (for external use)
+**Dosage Forms:** Churna (seed powder), Capsule, Tablet, [Arka](/nighantu/herb/arka/) (distillate), Essential oil (for external use)
 
 **Standard Dosage:** 1-3g seed powder twice daily; 500mg extract capsule; 2-5 drops essential oil diluted for external use
 
-**Bioavailability:** Moderate oral bioavailability. Wild [cumin](/ayurveda-atlas/herb/cumin/) (Aranya [Jeeraka](/ayurveda-atlas/herb/jeeraka/)|Aranya Jeeraka, potentially Cuminum cyminum var. or Vernonia anthelmintica depending on tradition) — volatile oil constituents are well absorbed. [Cuminaldehyde](/ayurveda-atlas/glossary/compounds-c-d/#cuminaldehyde) (if Cuminum) shows rapid GI absorption. Terpene compounds cross biological membranes effectively due to lipophilicity.
+**Bioavailability:** Moderate oral bioavailability. Wild [cumin](/nighantu/herb/cumin/) (Aranya [Jeeraka](/nighantu/herb/jeeraka/)|Aranya Jeeraka, potentially Cuminum cyminum var. or Vernonia anthelmintica depending on tradition) — volatile oil constituents are well absorbed. [Cuminaldehyde](/nighantu/glossary/compounds-c-d/#cuminaldehyde) (if Cuminum) shows rapid GI absorption. Terpene compounds cross biological membranes effectively due to lipophilicity.
 
 **Optimal Timing:** After meals with warm water for digestive support; before meals for appetite stimulation
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aranya-Jeeraka/meta-analysis.
 
 **Storage:** Seeds stored whole in airtight containers at room temperature. Essential oil in amber glass bottles. Powder in nitrogen-flushed packaging.
 
-**Marker Compounds:** Cuminaldehyde, [Cuminol](/ayurveda-atlas/glossary/compounds-c-d/#cuminol), p-Cymene, Beta-pinene, Gamma-terpinene, [Limonene](/ayurveda-atlas/glossary/compounds-g-l/#limonene)
+**Marker Compounds:** Cuminaldehyde, [Cuminol](/nighantu/glossary/compounds-c-d/#cuminol), p-Cymene, Beta-pinene, Gamma-terpinene, [Limonene](/nighantu/glossary/compounds-g-l/#limonene)
 
 ### Extraction Methods
 
@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aranya-Jeeraka/meta-analysis.
 
 ### Synergistic Combinations
 
-- With [Jeeraka](/ayurveda-atlas/herb/jeeraka/) (cultivated [cumin](/ayurveda-atlas/herb/cumin/)) for enhanced digestive action
-- With [Hingu](/ayurveda-atlas/herb/hingu/) for carminative synergy
+- With [Jeeraka](/nighantu/herb/jeeraka/) (cultivated [cumin](/nighantu/herb/cumin/)) for enhanced digestive action
+- With [Hingu](/nighantu/herb/hingu/) for carminative synergy
 - With Sunthi and Maricha for Deepana-Pachana (appetizer-digestive) action
-- With [Dhanyaka](/ayurveda-atlas/herb/dhanyaka/) ([coriander](/ayurveda-atlas/herb/coriander/)) for digestive comfort
+- With [Dhanyaka](/nighantu/herb/dhanyaka/) ([coriander](/nighantu/herb/coriander/)) for digestive comfort

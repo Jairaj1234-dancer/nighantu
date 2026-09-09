@@ -4,7 +4,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 const DIST = 'dist';
-const BASE = (process.env.ATLAS_BASE || '/ayurveda-atlas').replace(/\/$/, '');
+const BASE = (process.env.ATLAS_BASE || '/nighantu').replace(/\/$/, '');
 
 const html = [];
 const walk = (d) => {

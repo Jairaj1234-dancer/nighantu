@@ -49,28 +49,28 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Karnikara/meta-analysis.
 
 **Standard Dosage:** 2-4 g powder twice daily; 50-80 mL decoction twice daily; external oil application as needed
 
-**Bioavailability:** Iridoid [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) show moderate oral bioavailability with significant hepatic first-pass metabolism. Flavonoid constituents benefit from lipid co-administration. Self-microemulsifying formulations enhance bioavailability of lipophilic [terpenoids](/ayurveda-atlas/glossary/compounds-t-z/#terpenoids). Decoction form provides pre-hydrolyzed glycosides with improved absorption.
+**Bioavailability:** Iridoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) show moderate oral bioavailability with significant hepatic first-pass metabolism. Flavonoid constituents benefit from lipid co-administration. Self-microemulsifying formulations enhance bioavailability of lipophilic [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids). Decoction form provides pre-hydrolyzed glycosides with improved absorption.
 
 **Optimal Timing:** After meals with warm water; external application twice daily
 
-**Standardized Extract:** Standardized to minimum 2% total [flavonoids](/ayurveda-atlas/reference/flavonoids/) (as [luteolin](/ayurveda-atlas/glossary/compounds-l-o/#luteolin) equivalents) and 1% iridoid glycosides
+**Standardized Extract:** Standardized to minimum 2% total [flavonoids](/nighantu/reference/flavonoids/) (as [luteolin](/nighantu/glossary/compounds-l-o/#luteolin) equivalents) and 1% iridoid glycosides
 
 **Shelf Life:** 24 months for powder; 18 months for capsules; 36 months for oil preparations
 
 **Storage:** Store in airtight, light-resistant containers at 15-30°C. Oil preparations in amber glass bottles. Protect from moisture.
 
-**Marker Compounds:** Luteolin, [Apigenin](/ayurveda-atlas/glossary/compounds-1-a/#apigenin), Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), [Friedelin](/ayurveda-atlas/glossary/compounds-d-g/#friedelin), Pterospermone, [Kaempferol](/ayurveda-atlas/reference/kaempferol/) glycosides
+**Marker Compounds:** Luteolin, [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Friedelin](/nighantu/glossary/compounds-d-g/#friedelin), Pterospermone, [Kaempferol](/nighantu/reference/kaempferol/) glycosides
 
 ### Extraction Methods
 
 - Water decoction (traditional)
 - Hydroalcoholic extraction (60% ethanol)
-- Cold maceration in [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) for Taila
+- Cold maceration in [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) for Taila
 - Soxhlet extraction with ethanol for standardized extract
 
 ### Synergistic Combinations
 
-- [Shirisha](/ayurveda-atlas/herb/shirisha/) (Albizia lebbeck) for anti-allergic formulations
-- [Haridra](/ayurveda-atlas/herb/haridra/) for anti-inflammatory synergy
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) for immunomodulation
-- [Manjistha](/ayurveda-atlas/herb/manjistha/) for blood purification
+- [Shirisha](/nighantu/herb/shirisha/) (Albizia lebbeck) for anti-allergic formulations
+- [Haridra](/nighantu/herb/haridra/) for anti-inflammatory synergy
+- [Guduchi](/nighantu/herb/guduchi/) for immunomodulation
+- [Manjistha](/nighantu/herb/manjistha/) for blood purification

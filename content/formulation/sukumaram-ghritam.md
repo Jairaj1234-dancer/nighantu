@@ -23,21 +23,21 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Sukumaram
 
 | Language | Name |
 |----------|------|
-| English | [Sukumaram Ghritam](/ayurveda-atlas/formulation/sukumaram-ghritam/) |
+| English | [Sukumaram Ghritam](/nighantu/formulation/sukumaram-ghritam/) |
 
 ## Key Ingredients
 
 - Vidaryadi group of herbs
-- [Bala](/ayurveda-atlas/herb/bala/) (Sida cordifolia)
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) (Withania somnifera)
-- Kumari ([Aloe vera](/ayurveda-atlas/herb/aloe-vera/))
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) (Glycyrrhiza glabra / licorice)
-- [Dashamoola](/ayurveda-atlas/herb/dashamoola/) (ten roots)
-- [Bilva](/ayurveda-atlas/herb/bilva/) (Aegle marmelos)
-- [Kantakari](/ayurveda-atlas/herb/kantakari/) (Solanum xanthocarpum)
-- [Patala](/ayurveda-atlas/herb/patala/) (Stereospermum suaveolens)
-- [Punarnava](/ayurveda-atlas/herb/punarnava/) (Boerhaavia diffusa)
-- [Ghrita](/ayurveda-atlas/herb/ghrita/) (clarified cow butter)
+- [Bala](/nighantu/herb/bala/) (Sida cordifolia)
+- [Ashwagandha](/nighantu/herb/ashwagandha/) (Withania somnifera)
+- Kumari ([Aloe vera](/nighantu/herb/aloe-vera/))
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (Glycyrrhiza glabra / licorice)
+- [Dashamoola](/nighantu/herb/dashamoola/) (ten roots)
+- [Bilva](/nighantu/herb/bilva/) (Aegle marmelos)
+- [Kantakari](/nighantu/herb/kantakari/) (Solanum xanthocarpum)
+- [Patala](/nighantu/herb/patala/) (Stereospermum suaveolens)
+- [Punarnava](/nighantu/herb/punarnava/) (Boerhaavia diffusa)
+- [Ghrita](/nighantu/herb/ghrita/) (clarified cow butter)
 
 ## Where is it described in the classical texts?
 
@@ -46,10 +46,10 @@ Ashtanga Hridayam (Vidaryadi group of herbs); Sahasrayogam (Saptavarti preparati
 ## How does it work?
 
 - Vidaryadi herbs provide Vata-pacifying action, relieving spasmodic pain in uterus and promoting smooth muscle relaxation
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) ([withanolides](/ayurveda-atlas/glossary/compounds-t-z/#withanolides)) modulates hypothalamic-pituitary-ovarian axis, supporting hormonal balance and fertility
-- [Bala](/ayurveda-atlas/herb/bala/) and [Shatavari](/ayurveda-atlas/herb/shatavari/) provide phytoestrogenic support, nourishing the female reproductive system
-- [Dashamoola](/ayurveda-atlas/herb/dashamoola/)'s anti-inflammatory action reduces pelvic inflammation and congestion
-- Ghee medium enhances absorption of lipid-soluble phytoestrogens and [adaptogenic](/ayurveda-atlas/reference/adaptogenic/) compounds
+- [Ashwagandha](/nighantu/herb/ashwagandha/) ([withanolides](/nighantu/glossary/compounds-t-z/#withanolides)) modulates hypothalamic-pituitary-ovarian axis, supporting hormonal balance and fertility
+- [Bala](/nighantu/herb/bala/) and [Shatavari](/nighantu/herb/shatavari/) provide phytoestrogenic support, nourishing the female reproductive system
+- [Dashamoola](/nighantu/herb/dashamoola/)'s anti-inflammatory action reduces pelvic inflammation and congestion
+- Ghee medium enhances absorption of lipid-soluble phytoestrogens and [adaptogenic](/nighantu/reference/adaptogenic/) compounds
 
 ## Which traditional uses are supported by research?
 
@@ -60,8 +60,8 @@ Ashtanga Hridayam (Vidaryadi group of herbs); Sahasrayogam (Saptavarti preparati
 
 ## What do recent clinical trials show?
 
-- **Clinical Evaluation of Sukumara Ghritam and [Brahmi](/ayurveda-atlas/herb/brahmi/) Churnam in the Management of Menopausal Syndrome: A Prospective Open-Label Study** (2020): 49 women (40-55 years) treated with Sukumara Ghritam 6g before food for 84 days showed significant improvement in menopausal symptoms; all liver and renal function tests remained normal with no adverse events reported
-- **Sukumara [Ghrita](/ayurveda-atlas/herb/ghrita/) in gynecological disorders: clinical review** (2019): Vata-pacifying and endocrine-balancing herbs in ghee medium provide benefits ranging from dysmenorrhea relief and cycle regularization to postpartum rejuvenation and fertility support
+- **Clinical Evaluation of Sukumara Ghritam and [Brahmi](/nighantu/herb/brahmi/) Churnam in the Management of Menopausal Syndrome: A Prospective Open-Label Study** (2020): 49 women (40-55 years) treated with Sukumara Ghritam 6g before food for 84 days showed significant improvement in menopausal symptoms; all liver and renal function tests remained normal with no adverse events reported
+- **Sukumara [Ghrita](/nighantu/herb/ghrita/) in gynecological disorders: clinical review** (2019): Vata-pacifying and endocrine-balancing herbs in ghee medium provide benefits ranging from dysmenorrhea relief and cycle regularization to postpartum rejuvenation and fertility support
 - **Pharmacological evaluation of Sukumara Ghritam ingredients for reproductive health** (2021): Individual herbs demonstrated estrogenic, anti-inflammatory, and uterine tonic activities supporting traditional gynecological applications
 
 ## Recent safety updates
@@ -81,7 +81,7 @@ Ashtanga Hridayam (Vidaryadi group of herbs); Sahasrayogam (Saptavarti preparati
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** [Ghrita](/ayurveda-atlas/herb/ghrita/) (medicated ghee), Capsule (for convenience)
+**Dosage Forms:** [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Capsule (for convenience)
 
 **Standard Dosage:** 12-24ml for gynecological and abdominal conditions
 
@@ -89,7 +89,7 @@ Ashtanga Hridayam (Vidaryadi group of herbs); Sahasrayogam (Saptavarti preparati
 
 **Optimal Timing:** Before meals on empty stomach for best absorption
 
-**Shelf Life:** 2 years (as per ASU guidelines for [ghrita](/ayurveda-atlas/herb/ghrita/) preparations); improves with aging (Purana Ghrita concept)
+**Shelf Life:** 2 years (as per ASU guidelines for [ghrita](/nighantu/herb/ghrita/) preparations); improves with aging (Purana Ghrita concept)
 
 **Storage:** Airtight glass/stainless steel container, cool dry place, protected from light and moisture
 
@@ -101,4 +101,4 @@ Ashtanga Hridayam (Vidaryadi group of herbs); Sahasrayogam (Saptavarti preparati
 
 ### Synergistic Combinations
 
-- Key herbs: Sukumara herbs: [Eranda](/ayurveda-atlas/herb/eranda/), [Shatavari](/ayurveda-atlas/herb/shatavari/), [Triphala](/ayurveda-atlas/herb/triphala/) in ghee; ghee enhances tissue penetration (yogavahi property)
+- Key herbs: Sukumara herbs: [Eranda](/nighantu/herb/eranda/), [Shatavari](/nighantu/herb/shatavari/), [Triphala](/nighantu/herb/triphala/) in ghee; ghee enhances tissue penetration (yogavahi property)

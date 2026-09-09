@@ -23,13 +23,13 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Icchabhedi-Rasa/me
 
 | Language | Name |
 |----------|------|
-| English | [Icchabhedi Rasa](/ayurveda-atlas/herb/icchabhedi-rasa/) |
+| English | [Icchabhedi Rasa](/nighantu/herb/icchabhedi-rasa/) |
 
 ## How does it work?
 
 - Purgative action: Croton tiglium seeds contain croton oil with phorbol esters (particularly 12-O-tetradecanoylphorbol-13-acetate/TPA) that activate protein kinase C, stimulating intestinal secretion and peristalsis causing powerful catharsis
 - Mercury (as HgS from Kajjali) historically was used as a purgative in Western medicine as well (calomel); the mercurial component may enhance the cathartic action through irritation of intestinal mucosa
-- Shunthi ([ginger](/ayurveda-atlas/herb/ginger/)) and Maricha (pepper) serve as bioavailability enhancers and carminatives to reduce the griping pain associated with the powerful purgative action
+- Shunthi ([ginger](/nighantu/herb/ginger/)) and Maricha (pepper) serve as bioavailability enhancers and carminatives to reduce the griping pain associated with the powerful purgative action
 
 ## Which traditional uses are supported by research?
 
@@ -66,16 +66,16 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Icchabhedi-Rasa/me
 
 **Bioavailability:** Rapid onset purgative action within 4–6 hours
 
-**Optimal Timing:** Bedtime with warm water or [Triphala](/ayurveda-atlas/herb/triphala/) Kwatha
+**Optimal Timing:** Bedtime with warm water or [Triphala](/nighantu/herb/triphala/) Kwatha
 
-**Standardized Extract:** Kajjali (purified mercury-sulfur complex) with [Jayapala](/ayurveda-atlas/herb/jayapala/) (Croton)
+**Standardized Extract:** Kajjali (purified mercury-sulfur complex) with [Jayapala](/nighantu/herb/jayapala/) (Croton)
 
 **Shelf Life:** Indefinite
 
 **Storage:** Airtight container; clearly labeled as potent purgative
 
-**Marker Compounds:** Mercury sulfide, Croton oil (from [Jayapala](/ayurveda-atlas/herb/jayapala/)), Sulfur compounds
+**Marker Compounds:** Mercury sulfide, Croton oil (from [Jayapala](/nighantu/herb/jayapala/)), Sulfur compounds
 
 **Quality Parameters:** Free mercury <1 ppm, standard Rasaushadhi tests, uniform potency
 
-**Vehicle (Anupana):** Warm water or [Triphala](/ayurveda-atlas/herb/triphala/) Kwatha
+**Vehicle (Anupana):** Warm water or [Triphala](/nighantu/herb/triphala/) Kwatha

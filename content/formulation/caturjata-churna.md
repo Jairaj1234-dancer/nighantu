@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Caturjata-Churna/
 
 | Language | Name |
 |----------|------|
-| English | [Caturjata Churna](/ayurveda-atlas/formulation/caturjata-churna/) |
+| English | [Caturjata Churna](/nighantu/formulation/caturjata-churna/) |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -49,15 +49,15 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Caturjata-Churna/
 
 **Standard Dosage:** 1-3 g twice daily with honey or warm water, as per AFI
 
-**Bioavailability:** Volatile oils ([cinnamaldehyde](/ayurveda-atlas/glossary/compounds-c-d/#cinnamaldehyde), 1,8-[cineole](/ayurveda-atlas/glossary/compounds-c-d/#cineole)) are rapidly absorbed through GI mucosa. Aromatic compounds enhance gastric motility and improve absorption of co-administered formulations. Acts as a bioavailability enhancer when used as adjuvant.
+**Bioavailability:** Volatile oils ([cinnamaldehyde](/nighantu/glossary/compounds-c-d/#cinnamaldehyde), 1,8-[cineole](/nighantu/glossary/compounds-c-d/#cineole)) are rapidly absorbed through GI mucosa. Aromatic compounds enhance gastric motility and improve absorption of co-administered formulations. Acts as a bioavailability enhancer when used as adjuvant.
 
-**Optimal Timing:** After meals as digestive adjuvant, or mixed into [Rasayana](/ayurveda-atlas/reference/rasayana/) formulations
+**Optimal Timing:** After meals as digestive adjuvant, or mixed into [Rasayana](/nighantu/reference/rasayana/) formulations
 
 **Shelf Life:** 2 years from date of manufacture as per ASU guidelines for Churna preparations
 
 **Storage:** Store in airtight containers in a cool, dry place. Volatile oils dissipate if exposed to air. Double-sealed packaging recommended. Temperature not exceeding 25°C.
 
-**Marker Compounds:** Cinnamaldehyde, 1,8-Cineole, [Eugenol](/ayurveda-atlas/glossary/compounds-d-g/#eugenol) (from Tejpatra), Alpha-terpineol, Mesuaferrone A (from [Nagakesara](/ayurveda-atlas/herb/nagakesara/))
+**Marker Compounds:** Cinnamaldehyde, 1,8-Cineole, [Eugenol](/nighantu/glossary/compounds-d-g/#eugenol) (from Tejpatra), Alpha-terpineol, Mesuaferrone A (from [Nagakesara](/nighantu/herb/nagakesara/))
 
 **Quality Parameters:** Loss on drying (<10%), total ash, acid-insoluble ash, volatile oil content (NLT 0.5% v/w), cinnamaldehyde content by HPLC, 1,8-cineole content (from Ela), particle size (pass sieve #85), HPTLC fingerprint, microbial limits, heavy metals, aflatoxins
 
@@ -65,7 +65,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Caturjata-Churna/
 
 ### Synergistic Combinations
 
-- [Sitopaladi Churna](/ayurveda-atlas/formulation/sitopaladi-churna/)
-- [Talisadi Churna](/ayurveda-atlas/formulation/talisadi-churna/)
-- [Avipattikar](/ayurveda-atlas/herb/avipattikar/) Churna
+- [Sitopaladi Churna](/nighantu/formulation/sitopaladi-churna/)
+- [Talisadi Churna](/nighantu/formulation/talisadi-churna/)
+- [Avipattikar](/nighantu/herb/avipattikar/) Churna
 - Ghee-based Rasayanas (as flavoring adjuvant)

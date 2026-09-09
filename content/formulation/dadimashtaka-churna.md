@@ -23,13 +23,13 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Dadimashtaka-Chur
 
 | Language | Name |
 |----------|------|
-| English | [Dadimashtaka Churna](/ayurveda-atlas/formulation/dadimashtaka-churna/) |
+| English | [Dadimashtaka Churna](/nighantu/formulation/dadimashtaka-churna/) |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| **Rasa** (Taste) | Madhura, Kashaya, [Amla](/ayurveda-atlas/herb/amla/) | Primary taste |
+| **Rasa** (Taste) | Madhura, Kashaya, [Amla](/nighantu/herb/amla/) | Primary taste |
 | **Guna** (Quality) | Laghu | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Dadimashtaka-Chur
 
 **Standard Dosage:** 3-6 g twice daily with warm water or buttermilk, as per AFI Part I
 
-**Bioavailability:** Fine powder form with aromatic spices provides excellent GI absorption. [Piperine](/ayurveda-atlas/reference/piperine/) from [Trikatu](/ayurveda-atlas/herb/trikatu/) enhances bioavailability. Sugar matrix aids palatability and provides rapid energy. Pomegranate [polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols) are well-absorbed from powder form.
+**Bioavailability:** Fine powder form with aromatic spices provides excellent GI absorption. [Piperine](/nighantu/reference/piperine/) from [Trikatu](/nighantu/herb/trikatu/) enhances bioavailability. Sugar matrix aids palatability and provides rapid energy. Pomegranate [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) are well-absorbed from powder form.
 
 **Optimal Timing:** After meals, twice daily, for digestive conditions
 
@@ -57,7 +57,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Dadimashtaka-Chur
 
 **Storage:** Store in airtight containers in a cool, dry place. Protect from moisture (sugar component is hygroscopic). Temperature not exceeding 30°C.
 
-**Marker Compounds:** [Punicalagin](/ayurveda-atlas/glossary/compounds-o-q/#punicalagin), Piperine, [Cinnamaldehyde](/ayurveda-atlas/glossary/compounds-c-d/#cinnamaldehyde), 1,8-[Cineole](/ayurveda-atlas/glossary/compounds-c-d/#cineole), 6-[Gingerol](/ayurveda-atlas/glossary/compounds-d-g/#gingerol)
+**Marker Compounds:** [Punicalagin](/nighantu/glossary/compounds-o-q/#punicalagin), Piperine, [Cinnamaldehyde](/nighantu/glossary/compounds-c-d/#cinnamaldehyde), 1,8-[Cineole](/nighantu/glossary/compounds-c-d/#cineole), 6-[Gingerol](/nighantu/glossary/compounds-d-g/#gingerol)
 
 **Quality Parameters:** Loss on drying (<8%), total ash, acid-insoluble ash, particle size (pass sieve #85), pH of 10% solution, HPTLC fingerprint for piperine and punicalagin, volatile oil content, microbial limits, heavy metals, aflatoxins
 
@@ -65,7 +65,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Dadimashtaka-Chur
 
 ### Synergistic Combinations
 
-- Dadimadi [Ghrita](/ayurveda-atlas/herb/ghrita/)|Dadimadi Ghrita
-- [Bilwadi Leha](/ayurveda-atlas/formulation/bilwadi-leha/)
-- [Kutajarishta](/ayurveda-atlas/formulation/kutajarishta/)
+- Dadimadi [Ghrita](/nighantu/herb/ghrita/)|Dadimadi Ghrita
+- [Bilwadi Leha](/nighantu/formulation/bilwadi-leha/)
+- [Kutajarishta](/nighantu/formulation/kutajarishta/)
 - Lavanbhaskar Churna

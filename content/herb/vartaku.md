@@ -45,21 +45,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Vartaku/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Cooked vegetable ([Shaka](/ayurveda-atlas/glossary/concepts-m-y/#shaka)), Svarasa (juice), Churna (dried fruit powder), Capsule, Lepa (paste for external use)
+**Dosage Forms:** Cooked vegetable ([Shaka](/nighantu/glossary/concepts-m-y/#shaka)), Svarasa (juice), Churna (dried fruit powder), Capsule, Lepa (paste for external use)
 
 **Standard Dosage:** 50-100 g cooked vegetable daily; 3-6 g dried fruit powder twice daily; 20-40 mL juice daily
 
-**Bioavailability:** Nasunin (delphinidin-3-(p-coumaroylrutinoside)-5-glucoside), the key anthocyanin in purple eggplant skin, has low oral bioavailability (5-10%) due to pH-dependent instability and extensive Phase II metabolism. Chlorogenic acid (3-CQA, major phenolic) has moderate bioavailability (~25-35%). [Solasodine](/ayurveda-atlas/glossary/compounds-q-t/#solasodine) (steroidal alkaloid) is moderately absorbed but has dose-dependent toxicity. [Solanine](/ayurveda-atlas/glossary/compounds-q-t/#solanine)/alpha-solanine content must be monitored for safety.
+**Bioavailability:** Nasunin (delphinidin-3-(p-coumaroylrutinoside)-5-glucoside), the key anthocyanin in purple eggplant skin, has low oral bioavailability (5-10%) due to pH-dependent instability and extensive Phase II metabolism. Chlorogenic acid (3-CQA, major phenolic) has moderate bioavailability (~25-35%). [Solasodine](/nighantu/glossary/compounds-q-t/#solasodine) (steroidal alkaloid) is moderately absorbed but has dose-dependent toxicity. [Solanine](/nighantu/glossary/compounds-q-t/#solanine)/alpha-solanine content must be monitored for safety.
 
 **Optimal Timing:** As cooked vegetable with meals; dried preparations after meals
 
-**Standardized Extract:** Peel/skin extract standardized to >2% total [anthocyanins](/ayurveda-atlas/glossary/compounds-1-a/#anthocyanins) (as nasunin equivalent at pH 1.0, by differential pH method); chlorogenic acid >1.5% by HPLC; glycoalkaloids <20 mg/100g (safety limit)
+**Standardized Extract:** Peel/skin extract standardized to >2% total [anthocyanins](/nighantu/glossary/compounds-1-a/#anthocyanins) (as nasunin equivalent at pH 1.0, by differential pH method); chlorogenic acid >1.5% by HPLC; glycoalkaloids <20 mg/100g (safety limit)
 
 **Shelf Life:** Fresh fruit: 5-7 days refrigerated; Dried powder: 12-18 months; Capsules: 24 months; Juice: 48-72 hours refrigerated
 
 **Storage:** Fresh fruit at 8-12 deg C (cold injury below 7 deg C). Dried products in airtight, light-resistant containers at 15-25 deg C. Anthocyanin-containing products in opaque packaging.
 
-**Marker Compounds:** Nasunin, Chlorogenic acid, Caffeic acid, Solasodine, alpha-Solanine (limit test), Delphinidin, [Rutin](/ayurveda-atlas/glossary/compounds-q-t/#rutin), [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/)
+**Marker Compounds:** Nasunin, Chlorogenic acid, Caffeic acid, Solasodine, alpha-Solanine (limit test), Delphinidin, [Rutin](/nighantu/glossary/compounds-q-t/#rutin), [Quercetin](/nighantu/reference/quercetinquercetin/)
 
 ### Extraction Methods
 
@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Vartaku/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Methi](/ayurveda-atlas/herb/methi/) (fenugreek) - combined glycemic support in dietary formulation
-- [Haridra](/ayurveda-atlas/herb/haridra/) ([turmeric](/ayurveda-atlas/herb/turmeric/)) - anti-inflammatory synergy in cooked preparation
-- [Nimba](/ayurveda-atlas/herb/nimba/) ([neem](/ayurveda-atlas/herb/neem/)) - combined anti-diabetic formulation
-- [Karvellaka](/ayurveda-atlas/herb/karvellaka/) ([bitter gourd](/ayurveda-atlas/herb/bitter-gourd/)) - complementary anti-hyperglycemic action
+- [Methi](/nighantu/herb/methi/) (fenugreek) - combined glycemic support in dietary formulation
+- [Haridra](/nighantu/herb/haridra/) ([turmeric](/nighantu/herb/turmeric/)) - anti-inflammatory synergy in cooked preparation
+- [Nimba](/nighantu/herb/nimba/) ([neem](/nighantu/herb/neem/)) - combined anti-diabetic formulation
+- [Karvellaka](/nighantu/herb/karvellaka/) ([bitter gourd](/nighantu/herb/bitter-gourd/)) - complementary anti-hyperglycemic action

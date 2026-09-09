@@ -23,22 +23,22 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Saindhava-Lavana/meta-analysis.md
 
 | Language | Name |
 |----------|------|
-| English | [Saindhava Lavana](/ayurveda-atlas/herb/saindhava-lavana/) Rock Salt |
+| English | [Saindhava Lavana](/nighantu/herb/saindhava-lavana/) Rock Salt |
 
 ## Key Phytochemical Constituents
 
 - Sodium chloride (NaCl) - 97-99%
 - Up to 84 trace minerals and elements
-- [Potassium](/ayurveda-atlas/glossary/compounds-o-q/#potassium), [magnesium](/ayurveda-atlas/glossary/compounds-l-o/#magnesium), calcium
+- [Potassium](/nighantu/glossary/compounds-o-q/#potassium), [magnesium](/nighantu/glossary/compounds-l-o/#magnesium), calcium
 - Iron (responsible for pink color in some varieties)
-- [Manganese](/ayurveda-atlas/glossary/compounds-l-o/#manganese), zinc, chromium
+- [Manganese](/nighantu/glossary/compounds-l-o/#manganese), zinc, chromium
 - Sulfate, bicarbonate
-- [Iodine](/ayurveda-atlas/glossary/compounds-g-l/#iodine) (trace, variable)
-- [Selenium](/ayurveda-atlas/glossary/compounds-q-t/#selenium), copper, fluoride (trace)
+- [Iodine](/nighantu/glossary/compounds-g-l/#iodine) (trace, variable)
+- [Selenium](/nighantu/glossary/compounds-q-t/#selenium), copper, fluoride (trace)
 
 ## How does it work?
 
-- Digestive stimulation: Stimulates salivary amylase and gastric acid secretion; mineral content activates digestive [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes) and promotes bile flow without causing inflammatory heat
+- Digestive stimulation: Stimulates salivary amylase and gastric acid secretion; mineral content activates digestive [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) and promotes bile flow without causing inflammatory heat
 - Electrolyte homeostasis: Balanced mineral profile (Na, K, Mg, Ca) supports cellular osmotic balance, nerve impulse transmission, and muscle contraction without pure sodium overload
 - Tridosha balance: Unique cooling virya among salts prevents Pitta aggravation; slight sweetness and unctuousness pacify Vata; light quality prevents Kapha accumulation
 - Cardiac support: Balanced mineral profile and lower pure sodium concentration per weight compared to refined salt may support better cardiovascular function
@@ -46,14 +46,14 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Saindhava-Lavana/meta-analysis.md
 ## Which traditional uses are supported by research?
 
 - Agni Deepana (digestive stimulant): Validated by evidence showing rock salt stimulates salivary and gastric enzyme production and bile secretion without inflammatory side effects
-- Netra Hita (beneficial for eyes): Traditional eye wash preparations with Saindhava have [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) basis; trace minerals support ocular surface health
+- Netra Hita (beneficial for eyes): Traditional eye wash preparations with Saindhava have [antimicrobial](/nighantu/reference/antimicrobial/) basis; trace minerals support ocular surface health
 - Hridya (cardiotonic): Balanced mineral profile and lower sodium-per-weight ratio compared to refined salt provide modest cardiovascular advantage, partially validating the classical claim
 
 ## What do recent clinical trials show?
 
 - **Sendha Namak: The Ultimate Guide to Rock Salt's Health Benefits and Uses** (2024): Rock salt stimulates digestive enzyme and bile production, alleviates bloating, gas, and indigestion; its 84 trace minerals support electrolyte balance and cellular function.
-- **Salt in Ayurveda I** (2012): Systematic review confirmed [Saindhava Lavana](/ayurveda-atlas/herb/saindhava-lavana/)'s unique position as the only Tridosha-balancing salt; its cooling potency distinguishes it from all other salts which are heating, validating Charaka's classification.
-- **Lavana (salt) - An Ayurvedic Outlook on Saindhava (Rock salt)** (2024): World Journal of Pharmaceutical Research publication confirmed Saindhava's therapeutic properties including digestive stimulation, [aphrodisiac](/ayurveda-atlas/glossary/pharmacology/#aphrodisiac) effects, ophthalmological benefits, and anti-infective properties in alignment with classical Ayurvedic texts.
+- **Salt in Ayurveda I** (2012): Systematic review confirmed [Saindhava Lavana](/nighantu/herb/saindhava-lavana/)'s unique position as the only Tridosha-balancing salt; its cooling potency distinguishes it from all other salts which are heating, validating Charaka's classification.
+- **Lavana (salt) - An Ayurvedic Outlook on Saindhava (Rock salt)** (2024): World Journal of Pharmaceutical Research publication confirmed Saindhava's therapeutic properties including digestive stimulation, [aphrodisiac](/nighantu/glossary/pharmacology/#aphrodisiac) effects, ophthalmological benefits, and anti-infective properties in alignment with classical Ayurvedic texts.
 
 ## Recent safety updates
 

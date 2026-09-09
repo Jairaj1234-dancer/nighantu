@@ -45,11 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Tala/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Tala-Phala-Rasa (palm fruit juice), Jaggery (Tala-[Guda](/ayurveda-atlas/glossary/concepts-a-m/#guda)), Toddy (fermented sap — Tadi), Capsule, Oil (kernel oil)
+**Dosage Forms:** Churna (powder), Tala-Phala-Rasa (palm fruit juice), Jaggery (Tala-[Guda](/nighantu/glossary/concepts-a-m/#guda)), Toddy (fermented sap — Tadi), Capsule, Oil (kernel oil)
 
 **Standard Dosage:** 5-10 g fruit pulp powder per day; 50-100 mL fresh juice twice daily; 500-1000 mg extract capsule twice daily; Tala-Guda (palm jaggery) 10-20 g as sweetener
 
-**Bioavailability:** Sugar and mineral content ([potassium](/ayurveda-atlas/glossary/compounds-o-q/#potassium), iron, calcium) highly bioavailable from fresh sap and jaggery (>70% for sugars, 15-25% for minerals). [Polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols) from fruit have moderate bioavailability (20-35%). Kernel oil fatty acids (lauric, oleic) have high bioavailability (>75%). B-[vitamins](/ayurveda-atlas/glossary/compounds-t-z/#vitamins) in fresh sap are well-absorbed.
+**Bioavailability:** Sugar and mineral content ([potassium](/nighantu/glossary/compounds-o-q/#potassium), iron, calcium) highly bioavailable from fresh sap and jaggery (>70% for sugars, 15-25% for minerals). [Polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) from fruit have moderate bioavailability (20-35%). Kernel oil fatty acids (lauric, oleic) have high bioavailability (>75%). B-[vitamins](/nighantu/glossary/compounds-t-z/#vitamins) in fresh sap are well-absorbed.
 
 **Optimal Timing:** Fresh Neera: morning on empty stomach for cooling and nutritive effect. Jaggery: anytime as sweetener in formulations. Fruit pulp: after meals.
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Tala/meta-analysis.md"
 
 **Storage:** Fresh Neera: refrigerate immediately, consume within 24 hours. Jaggery: airtight containers at room temperature, protect from moisture (hygroscopic). Churna: below 25 deg C, airtight. Kernel oil: amber glass, nitrogen-flushed.
 
-**Marker Compounds:** Gallic acid, Flabelliferins (steroidal [saponins](/ayurveda-atlas/reference/saponins/)), Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), Borassosides, [Sucrose](/ayurveda-atlas/glossary/compounds-q-t/#sucrose) (sap/jaggery), Iron and Potassium (mineral markers)
+**Marker Compounds:** Gallic acid, Flabelliferins (steroidal [saponins](/nighantu/reference/saponins/)), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Borassosides, [Sucrose](/nighantu/glossary/compounds-q-t/#sucrose) (sap/jaggery), Iron and Potassium (mineral markers)
 
 ### Extraction Methods
 
@@ -71,7 +71,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Tala/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) (nourishing and cooling combination)
-- Amalaki ([antioxidant](/ayurveda-atlas/reference/antioxidant/) and nutritive synergy)
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) (mucosal protective formulations)
+- [Shatavari](/nighantu/herb/shatavari/) (nourishing and cooling combination)
+- Amalaki ([antioxidant](/nighantu/reference/antioxidant/) and nutritive synergy)
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (mucosal protective formulations)
 - Guda/jaggery (traditional sweetener and iron source in many Ayurvedic formulations)

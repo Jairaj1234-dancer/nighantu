@@ -23,13 +23,13 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Amritottaram
 
 | Language | Name |
 |----------|------|
-| English | [Amritottaram Kashayam](/ayurveda-atlas/formulation/amritottaram-kashayam/) |
+| English | [Amritottaram Kashayam](/nighantu/formulation/amritottaram-kashayam/) |
 
 ## Key Ingredients
 
-- Amrita/[Guduchi](/ayurveda-atlas/herb/guduchi/) (Tinospora cordifolia) - 6 parts
-- Shunthi/[Ginger](/ayurveda-atlas/herb/ginger/) ([Zingiber](/ayurveda-atlas/herb/zingiber/) officinale) - 2 parts
-- [Haritaki](/ayurveda-atlas/herb/haritaki/) (Terminalia chebula) - 4 parts
+- Amrita/[Guduchi](/nighantu/herb/guduchi/) (Tinospora cordifolia) - 6 parts
+- Shunthi/[Ginger](/nighantu/herb/ginger/) ([Zingiber](/nighantu/herb/zingiber/) officinale) - 2 parts
+- [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula) - 4 parts
 
 ## Where is it described in the classical texts?
 
@@ -37,10 +37,10 @@ Sahasrayogam, Jwara Chikitsa (fever treatment section). Also referenced in Rasa 
 
 ## How does it work?
 
-- [Immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) action through enhanced NK cell activity and macrophage phagocytosis ([Guduchi](/ayurveda-atlas/herb/guduchi/))
-- Mild [antipyretic](/ayurveda-atlas/reference/antipyretic/) action targeting root cause of fever by addressing AMA (metabolic toxins) or microbial infections
-- [Hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) activity through reduction of ALT/AST [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes) and hepatocyte regeneration ([Haritaki](/ayurveda-atlas/herb/haritaki/), [Guduchi](/ayurveda-atlas/herb/guduchi/))
-- Bioavailability enhancement by Shunthi ([ginger](/ayurveda-atlas/herb/ginger/)) improves absorption of active compounds from [Guduchi](/ayurveda-atlas/herb/guduchi/) and [Haritaki](/ayurveda-atlas/herb/haritaki/)
+- [Immunomodulatory](/nighantu/reference/immunomodulatory/) action through enhanced NK cell activity and macrophage phagocytosis ([Guduchi](/nighantu/herb/guduchi/))
+- Mild [antipyretic](/nighantu/reference/antipyretic/) action targeting root cause of fever by addressing AMA (metabolic toxins) or microbial infections
+- [Hepatoprotective](/nighantu/reference/hepatoprotective/) activity through reduction of ALT/AST [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) and hepatocyte regeneration ([Haritaki](/nighantu/herb/haritaki/), [Guduchi](/nighantu/herb/guduchi/))
+- Bioavailability enhancement by Shunthi ([ginger](/nighantu/herb/ginger/)) improves absorption of active compounds from [Guduchi](/nighantu/herb/guduchi/) and [Haritaki](/nighantu/herb/haritaki/)
 
 ## Which traditional uses are supported by research?
 
@@ -51,14 +51,14 @@ Sahasrayogam, Jwara Chikitsa (fever treatment section). Also referenced in Rasa 
 
 ## What do recent clinical trials show?
 
-- **NK cell activity enhancement by [Amritottaram Kashayam](/ayurveda-atlas/formulation/amritottaram-kashayam/)** (2018): Double-blind study in Journal of Ethnopharmacology observed increased natural killer cell activity after 30 days of daily 20 ml doses.
-- **Hepatoprotective effects of [Amritottaram Kashayam](/ayurveda-atlas/formulation/amritottaram-kashayam/) in mild hepatitis** (2019): Study in International Journal of Ayurveda reported decreased ALT and AST levels in mild hepatitis patients receiving 20 ml twice daily for 45 days.
-- **Immunomodulatory profiling of [Guduchi](/ayurveda-atlas/herb/guduchi/)-based Kashayams** (2021): Comprehensive immunological profiling showed upregulation of both innate and adaptive immune markers with significant enhancement of macrophage phagocytic activity.
+- **NK cell activity enhancement by [Amritottaram Kashayam](/nighantu/formulation/amritottaram-kashayam/)** (2018): Double-blind study in Journal of Ethnopharmacology observed increased natural killer cell activity after 30 days of daily 20 ml doses.
+- **Hepatoprotective effects of [Amritottaram Kashayam](/nighantu/formulation/amritottaram-kashayam/) in mild hepatitis** (2019): Study in International Journal of Ayurveda reported decreased ALT and AST levels in mild hepatitis patients receiving 20 ml twice daily for 45 days.
+- **Immunomodulatory profiling of [Guduchi](/nighantu/herb/guduchi/)-based Kashayams** (2021): Comprehensive immunological profiling showed upregulation of both innate and adaptive immune markers with significant enhancement of macrophage phagocytic activity.
 
 ## Recent safety updates
 
 - Well-tolerated with minimal side effects at recommended doses. All three ingredients have established safety profiles with immunomodulatory properties.
-- May potentiate immunosuppressant drugs; use cautiously in autoimmune conditions. [Ginger](/ayurveda-atlas/herb/ginger/) component may interact with anticoagulant medications.
+- May potentiate immunosuppressant drugs; use cautiously in autoimmune conditions. [Ginger](/nighantu/herb/ginger/) component may interact with anticoagulant medications.
 
 ## What is it made of?
 
@@ -83,15 +83,15 @@ Sahasrayogam, Jwara Chikitsa (fever treatment section). Also referenced in Rasa 
 
 **Storage:** Fresh kashayam: prepare and consume same day. Concentrated liquid: store in amber glass bottles at temperature not exceeding 25°C. Tablets: store in airtight containers at room temperature.
 
-**Marker Compounds:** [Berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine), [Tinosporaside](/ayurveda-atlas/glossary/compounds-t-z/#tinosporaside), 6-[Gingerol](/ayurveda-atlas/glossary/compounds-d-g/#gingerol), 6-Shogaol
+**Marker Compounds:** [Berberine](/nighantu/glossary/compounds-a-c/#berberine), [Tinosporaside](/nighantu/glossary/compounds-t-z/#tinosporaside), 6-[Gingerol](/nighantu/glossary/compounds-d-g/#gingerol), 6-Shogaol
 
-**Quality Parameters:** pH, specific gravity, total solids, extractive values (water-soluble, alcohol-soluble), HPTLC fingerprint for [berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine) and gingerols, microbial limits, heavy metals, disintegration time (for tablets), dissolution profile
+**Quality Parameters:** pH, specific gravity, total solids, extractive values (water-soluble, alcohol-soluble), HPTLC fingerprint for [berberine](/nighantu/glossary/compounds-a-c/#berberine) and gingerols, microbial limits, heavy metals, disintegration time (for tablets), dissolution profile
 
 **Vehicle (Anupana):** Warm water (for tablets); taken as is (for liquid kashayam)
 
 ### Synergistic Combinations
 
-- [Amritarishta](/ayurveda-atlas/formulation/amritarishta/)
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) Satva
+- [Amritarishta](/nighantu/formulation/amritarishta/)
+- [Guduchi](/nighantu/herb/guduchi/) Satva
 - Sudarshana Churna
 - Vilvadi Gulika

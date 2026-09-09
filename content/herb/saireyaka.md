@@ -49,28 +49,28 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Saireyaka/meta-analysis.
 
 **Standard Dosage:** 3-6 g churna per day in divided doses; 10-20 mL swarasa twice daily; 50-100 mL kwatha twice daily
 
-**Bioavailability:** Moderate oral bioavailability for flavonoid and alkaloid constituents (25-40%). [Lignans](/ayurveda-atlas/glossary/compounds-g-l/#lignans) show enhanced absorption with lipid co-administration. First-pass metabolism is moderate; [flavonoids](/ayurveda-atlas/reference/flavonoids/) undergo glucuronidation and sulfation in the intestinal wall.
+**Bioavailability:** Moderate oral bioavailability for flavonoid and alkaloid constituents (25-40%). [Lignans](/nighantu/glossary/compounds-g-l/#lignans) show enhanced absorption with lipid co-administration. First-pass metabolism is moderate; [flavonoids](/nighantu/reference/flavonoids/) undergo glucuronidation and sulfation in the intestinal wall.
 
 **Optimal Timing:** Before meals for Raktapitta (bleeding disorders) indications; morning dose for general Pitta-pacifying action
 
-**Standardized Extract:** Hydroalcoholic extract (8:1 DER), standardized to NLT 2.0% total flavonoids (as [luteolin](/ayurveda-atlas/glossary/compounds-l-o/#luteolin) equivalents by UV spectrophotometry); aqueous extract for traditional kwatha preparations
+**Standardized Extract:** Hydroalcoholic extract (8:1 DER), standardized to NLT 2.0% total flavonoids (as [luteolin](/nighantu/glossary/compounds-l-o/#luteolin) equivalents by UV spectrophotometry); aqueous extract for traditional kwatha preparations
 
 **Shelf Life:** 12 months for swarasa (refrigerated with preservative); 24 months for churna; 36 months for standardized extract capsules
 
 **Storage:** Swarasa: refrigerate at 2-8 deg C. Churna and capsules: store below 25 deg C in airtight containers, protected from light and moisture.
 
-**Marker Compounds:** Luteolin, [Apigenin](/ayurveda-atlas/glossary/compounds-1-a/#apigenin), Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), [Lupeol](/ayurveda-atlas/reference/lupeol/), [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/) [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides)
+**Marker Compounds:** Luteolin, [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Lupeol](/nighantu/reference/lupeol/), [Quercetin](/nighantu/reference/quercetinquercetin/) [glycosides](/nighantu/glossary/compounds-g-l/#glycosides)
 
 ### Extraction Methods
 
 - Aqueous decoction
 - Hydroalcoholic extraction (50-60% ethanol)
 - Cold pressing for fresh juice (swarasa)
-- Maceration in [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) for taila preparation
+- Maceration in [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) for taila preparation
 
 ### Synergistic Combinations
 
-- [Haridra](/ayurveda-atlas/herb/haridra/) (anti-inflammatory formulations for Raktapitta)
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) ([immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/)-[antipyretic](/ayurveda-atlas/reference/antipyretic/) synergy)
-- [Sariva](/ayurveda-atlas/herb/sariva/) (blood purification formulations)
-- [Manjishtha](/ayurveda-atlas/herb/manjishtha/) (Pitta-related skin conditions)
+- [Haridra](/nighantu/herb/haridra/) (anti-inflammatory formulations for Raktapitta)
+- [Guduchi](/nighantu/herb/guduchi/) ([immunomodulatory](/nighantu/reference/immunomodulatory/)-[antipyretic](/nighantu/reference/antipyretic/) synergy)
+- [Sariva](/nighantu/herb/sariva/) (blood purification formulations)
+- [Manjishtha](/nighantu/herb/manjishtha/) (Pitta-related skin conditions)

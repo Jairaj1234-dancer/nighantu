@@ -23,47 +23,47 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Lakshadi-Th
 
 | Language | Name |
 |----------|------|
-| English | [Lakshadi Thailam](/ayurveda-atlas/formulation/lakshadi-thailam/) |
+| English | [Lakshadi Thailam](/nighantu/formulation/lakshadi-thailam/) |
 
 ## Key Ingredients
 
-- [Laksha](/ayurveda-atlas/glossary/concepts-a-m/#laksha) (Laccifer lacca / Lac resin) - primary ingredient
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) (Withania somnifera)
-- [Haridra](/ayurveda-atlas/herb/haridra/) (Curcuma longa / [Turmeric](/ayurveda-atlas/herb/turmeric/))
-- [Devadaru](/ayurveda-atlas/herb/devadaru/) (Cedrus deodara / Himalayan Cedar)
-- [Nirgundi](/ayurveda-atlas/herb/nirgundi/) (Vitex negundo / Five-leaved Chaste Tree)
+- [Laksha](/nighantu/glossary/concepts-a-m/#laksha) (Laccifer lacca / Lac resin) - primary ingredient
+- [Ashwagandha](/nighantu/herb/ashwagandha/) (Withania somnifera)
+- [Haridra](/nighantu/herb/haridra/) (Curcuma longa / [Turmeric](/nighantu/herb/turmeric/))
+- [Devadaru](/nighantu/herb/devadaru/) (Cedrus deodara / Himalayan Cedar)
+- [Nirgundi](/nighantu/herb/nirgundi/) (Vitex negundo / Five-leaved Chaste Tree)
 - Pushkaramoola (Inula racemosa)
-- [Chandana](/ayurveda-atlas/herb/chandana/) (Santalum album / Sandalwood)
+- [Chandana](/nighantu/herb/chandana/) (Santalum album / Sandalwood)
 - Musta (Cyperus rotundus / Nutgrass)
-- [Katuki](/ayurveda-atlas/herb/katuki/) (Picrorhiza kurroa)
-- [Rasna](/ayurveda-atlas/herb/rasna/) (Pluchea lanceolata)
+- [Katuki](/nighantu/herb/katuki/) (Picrorhiza kurroa)
+- [Rasna](/nighantu/herb/rasna/) (Pluchea lanceolata)
 - Shatapushpa (Anethum graveolens / Dill)
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) (Glycyrrhiza glabra / Licorice)
-- [Dadhi](/ayurveda-atlas/herb/dadhi/) (Curd/Whey)
-- [Sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) ([Tila](/ayurveda-atlas/herb/tila/) taila) base
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (Glycyrrhiza glabra / Licorice)
+- [Dadhi](/nighantu/herb/dadhi/) (Curd/Whey)
+- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) ([Tila](/nighantu/herb/tila/) taila) base
 
 ## Where is it described in the classical texts?
 
-Ashtanga Hridayam (Uttarasthana - Balopacharaneeya / Paediatric chapter). One of the most important classical formulations for paediatric care ([Bala](/ayurveda-atlas/herb/bala/) Chikitsa) in Ayurveda, specifically mentioned for infant massage and child development.
+Ashtanga Hridayam (Uttarasthana - Balopacharaneeya / Paediatric chapter). One of the most important classical formulations for paediatric care ([Bala](/nighantu/herb/bala/) Chikitsa) in Ayurveda, specifically mentioned for infant massage and child development.
 
 ## How does it work?
 
-- Lac resin ([Laksha](/ayurveda-atlas/glossary/concepts-a-m/#laksha)) provides calcium-like compounds and promotes osteoblast activity, supporting bone mineralization and skeletal development in growing infants
-- [Withanolides](/ayurveda-atlas/glossary/compounds-t-z/#withanolides) from [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) provide [adaptogenic](/ayurveda-atlas/reference/adaptogenic/) and tissue-nourishing effects, supporting neuromuscular development through enhanced protein synthesis
-- [Curcumin](/ayurveda-atlas/herb/curcumin/) from [Turmeric](/ayurveda-atlas/herb/turmeric/) and antibacterial compounds from [Nirgundi](/ayurveda-atlas/herb/nirgundi/) and Nutgrass protect delicate infant skin from common bacterial and fungal infections
-- Dill (Shatapushpa) and Cedar ([Devadaru](/ayurveda-atlas/herb/devadaru/)) volatile oils provide mild warming and decongestant properties, protecting infants from cold and respiratory issues through transdermal absorption
+- Lac resin ([Laksha](/nighantu/glossary/concepts-a-m/#laksha)) provides calcium-like compounds and promotes osteoblast activity, supporting bone mineralization and skeletal development in growing infants
+- [Withanolides](/nighantu/glossary/compounds-t-z/#withanolides) from [Ashwagandha](/nighantu/herb/ashwagandha/) provide [adaptogenic](/nighantu/reference/adaptogenic/) and tissue-nourishing effects, supporting neuromuscular development through enhanced protein synthesis
+- [Curcumin](/nighantu/herb/curcumin/) from [Turmeric](/nighantu/herb/turmeric/) and antibacterial compounds from [Nirgundi](/nighantu/herb/nirgundi/) and Nutgrass protect delicate infant skin from common bacterial and fungal infections
+- Dill (Shatapushpa) and Cedar ([Devadaru](/nighantu/herb/devadaru/)) volatile oils provide mild warming and decongestant properties, protecting infants from cold and respiratory issues through transdermal absorption
 
 ## Which traditional uses are supported by research?
 
-- Infant bone and skeletal strengthening - supported by in vitro evidence of osteogenic potential of Lac resin and by [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/)'s established adaptogenic properties promoting growth
-- Infant skin protection and nourishment - validated by [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) studies confirming activity of [Nirgundi](/ayurveda-atlas/herb/nirgundi/), Nutgrass, and Licorice against common infant skin pathogens
+- Infant bone and skeletal strengthening - supported by in vitro evidence of osteogenic potential of Lac resin and by [Ashwagandha](/nighantu/herb/ashwagandha/)'s established adaptogenic properties promoting growth
+- Infant skin protection and nourishment - validated by [antimicrobial](/nighantu/reference/antimicrobial/) studies confirming activity of [Nirgundi](/nighantu/herb/nirgundi/), Nutgrass, and Licorice against common infant skin pathogens
 - Childhood respiratory protection (cold, cough prevention) - supported by the volatile oil components from Dill and Cedar providing decongestant effects through transdermal absorption during massage
 
 ## What do recent clinical trials show?
 
-- **Traditional knowledge review of [Lakshadi Thailam](/ayurveda-atlas/formulation/lakshadi-thailam/) in paediatric bone and muscle development** (2020): Comprehensive review of traditional evidence and modern pharmacological data on individual ingredients confirmed that [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/), [Turmeric](/ayurveda-atlas/herb/turmeric/), and Lac resin possess bone-strengthening, anti-inflammatory, and [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) properties relevant to infant development.
-- **Antimicrobial and skin-protective evaluation of [Lakshadi Thailam](/ayurveda-atlas/formulation/lakshadi-thailam/) ingredients** (2019): Individual ingredient analysis confirmed that [Nirgundi](/ayurveda-atlas/herb/nirgundi/), Nutgrass, and Licorice extracts possess significant antibacterial activity against common infant skin pathogens, supporting its traditional use for skin infection prevention in infants.
-- **Calcium-binding and osteogenic potential of Lac resin ([Laksha](/ayurveda-atlas/glossary/concepts-a-m/#laksha)) in bone tissue models** (2021): In vitro studies demonstrated that Lac resin components promote calcium deposition in osteoblast cultures and may support bone mineralization, providing a scientific basis for the traditional claim of bone-strengthening in children.
+- **Traditional knowledge review of [Lakshadi Thailam](/nighantu/formulation/lakshadi-thailam/) in paediatric bone and muscle development** (2020): Comprehensive review of traditional evidence and modern pharmacological data on individual ingredients confirmed that [Ashwagandha](/nighantu/herb/ashwagandha/), [Turmeric](/nighantu/herb/turmeric/), and Lac resin possess bone-strengthening, anti-inflammatory, and [immunomodulatory](/nighantu/reference/immunomodulatory/) properties relevant to infant development.
+- **Antimicrobial and skin-protective evaluation of [Lakshadi Thailam](/nighantu/formulation/lakshadi-thailam/) ingredients** (2019): Individual ingredient analysis confirmed that [Nirgundi](/nighantu/herb/nirgundi/), Nutgrass, and Licorice extracts possess significant antibacterial activity against common infant skin pathogens, supporting its traditional use for skin infection prevention in infants.
+- **Calcium-binding and osteogenic potential of Lac resin ([Laksha](/nighantu/glossary/concepts-a-m/#laksha)) in bone tissue models** (2021): In vitro studies demonstrated that Lac resin components promote calcium deposition in osteoblast cultures and may support bone mineralization, providing a scientific basis for the traditional claim of bone-strengthening in children.
 
 ## Recent safety updates
 
@@ -81,11 +81,11 @@ Ashtanga Hridayam (Uttarasthana - Balopacharaneeya / Paediatric chapter). One of
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Thailam (medicated [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)), External application
+**Dosage Forms:** Thailam (medicated [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)), External application
 
 **Standard Dosage:** External massage for infants and children
 
-**Bioavailability:** Oil base ([sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
+**Bioavailability:** Oil base ([sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
 
 **Optimal Timing:** External: before bath or at bedtime. Internal: before meals
 
@@ -101,4 +101,4 @@ Ashtanga Hridayam (Uttarasthana - Balopacharaneeya / Paediatric chapter). One of
 
 ### Synergistic Combinations
 
-- Key herbs: [Laksha](/ayurveda-atlas/glossary/concepts-a-m/#laksha), [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/), [Haridra](/ayurveda-atlas/herb/haridra/); oil base acts as lipid carrier for enhanced tissue penetration
+- Key herbs: [Laksha](/nighantu/glossary/concepts-a-m/#laksha), [Ashwagandha](/nighantu/herb/ashwagandha/), [Haridra](/nighantu/herb/haridra/); oil base acts as lipid carrier for enhanced tissue penetration

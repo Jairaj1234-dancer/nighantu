@@ -23,21 +23,21 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Raupya-Bhasma/meta-a
 
 | Language | Name |
 |----------|------|
-| English | [Raupya Bhasma](/ayurveda-atlas/herb/raupya-bhasma/) |
+| English | [Raupya Bhasma](/nighantu/herb/raupya-bhasma/) |
 
 ## Key Phytochemical Constituents
 
 - Silver nanoparticles (~16 nm spherical nanostructure)
 - Silver oxide (Ag2O)
-- Silver sulfide from processing with [Gandhaka](/ayurveda-atlas/glossary/concepts-a-m/#gandhaka)
+- Silver sulfide from processing with [Gandhaka](/nighantu/glossary/concepts-a-m/#gandhaka)
 - Trace elements from herbal processing media
 - Organic compounds adsorbed from plant juices used in trituration
 
 ## How does it work?
 
-- Sedative-hypnotic action through modulation of GABAergic pathways, supporting [anxiolytic](/ayurveda-atlas/reference/anxiolytic/) and sleep-promoting effects observed in reverse pharmacological studies
-- [Analgesic](/ayurveda-atlas/reference/analgesic/) activity via peripheral pain pathway modulation, comparable to aspirin in mechanism, likely through prostaglandin synthesis inhibition
-- [Antimicrobial](/ayurveda-atlas/reference/antimicrobial/) properties inherent to nano-silver particles due to disruption of bacterial cell membrane integrity and interference with microbial enzyme systems
+- Sedative-hypnotic action through modulation of GABAergic pathways, supporting [anxiolytic](/nighantu/reference/anxiolytic/) and sleep-promoting effects observed in reverse pharmacological studies
+- [Analgesic](/nighantu/reference/analgesic/) activity via peripheral pain pathway modulation, comparable to aspirin in mechanism, likely through prostaglandin synthesis inhibition
+- [Antimicrobial](/nighantu/reference/antimicrobial/) properties inherent to nano-silver particles due to disruption of bacterial cell membrane integrity and interference with microbial enzyme systems
 - Nervine tonic effect through central nervous system modulation, reducing neuralgias and supporting memory function as per traditional indications
 
 ## Which traditional uses are supported by research?
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Raupya-Bhasma/meta-a
 
 - **Sedative-hypnotic Effect of Ash of Silver in Mice: A Reverse Pharmacological Study** (2014): Ash of silver demonstrated significant sedative-hypnotic activity in mice, supporting traditional Ayurvedic claims for treating insomnia and anxiety. The 16 nm spherical nanostructure showed pharmacological activity at therapeutic doses.
 - **Analgesic activity and safety of ash of silver used in Indian system of medicine in mice** (2012): Silver ash exhibited significant analgesic activity comparable to aspirin in peripheral pain-producing methods. Safety assessment at therapeutic doses showed no acute toxicity.
-- **Evidence for safety of Ayurvedic herbal, herbo-metallic and Bhasma preparations on neurobehavioral activity and oxidative stress in rats** (2013): [Raupya Bhasma](/ayurveda-atlas/herb/raupya-bhasma/) along with other Bhasma preparations showed evidence of safety on neurobehavioral parameters and did not increase oxidative stress markers in rat models at therapeutic doses.
+- **Evidence for safety of Ayurvedic herbal, herbo-metallic and Bhasma preparations on neurobehavioral activity and oxidative stress in rats** (2013): [Raupya Bhasma](/nighantu/herb/raupya-bhasma/) along with other Bhasma preparations showed evidence of safety on neurobehavioral parameters and did not increase oxidative stress markers in rat models at therapeutic doses.
 
 ## Recent safety updates
 
@@ -78,7 +78,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Raupya-Bhasma/meta-a
 
 **Bioavailability:** Silver nanoparticles (30–60 nm); excellent tissue penetration
 
-**Optimal Timing:** With honey, ghee, or [Brahmi](/ayurveda-atlas/herb/brahmi/) Swarasa
+**Optimal Timing:** With honey, ghee, or [Brahmi](/nighantu/herb/brahmi/) Swarasa
 
 **Standardized Extract:** Calcined silver bhasma — premium Rasaushadhi
 
@@ -90,4 +90,4 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Raupya-Bhasma/meta-a
 
 **Quality Parameters:** Silver >80%, standard bhasma tests, particle size <100 nm, no free metallic silver
 
-**Vehicle (Anupana):** Honey, ghee, [Brahmi](/ayurveda-atlas/herb/brahmi/) juice, or [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) Churna
+**Vehicle (Anupana):** Honey, ghee, [Brahmi](/nighantu/herb/brahmi/) juice, or [Ashwagandha](/nighantu/herb/ashwagandha/) Churna

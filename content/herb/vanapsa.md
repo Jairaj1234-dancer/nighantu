@@ -28,26 +28,26 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vanapsa/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Cyclotides](/ayurveda-atlas/glossary/compounds-c-d/#cyclotides) (cyclic [peptides](/ayurveda-atlas/glossary/compounds-o-q/#peptides) - cycloviolacin O1, O2)
-- [Procyanidins](/ayurveda-atlas/glossary/compounds-o-q/#procyanidins) (procyanidin C1 - Na+/K+ ATPase inhibitor)
+- [Cyclotides](/nighantu/glossary/compounds-c-d/#cyclotides) (cyclic [peptides](/nighantu/glossary/compounds-o-q/#peptides) - cycloviolacin O1, O2)
+- [Procyanidins](/nighantu/glossary/compounds-o-q/#procyanidins) (procyanidin C1 - Na+/K+ ATPase inhibitor)
 - Salicylic acid derivatives
-- [Rutin](/ayurveda-atlas/glossary/compounds-q-t/#rutin) and [quercetin](/ayurveda-atlas/reference/quercetinquercetin/) ([flavonoids](/ayurveda-atlas/reference/flavonoids/))
+- [Rutin](/nighantu/glossary/compounds-q-t/#rutin) and [quercetin](/nighantu/reference/quercetinquercetin/) ([flavonoids](/nighantu/reference/flavonoids/))
 - Essential oils (methyl salicylate, nonadienal)
-- [Saponins](/ayurveda-atlas/reference/saponins/), [tannins](/ayurveda-atlas/reference/tannins/), and [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids)
+- [Saponins](/nighantu/reference/saponins/), [tannins](/nighantu/reference/tannins/), and [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids)
 
 ## How does it work?
 
 - Anti-inflammatory action via flavonoid-mediated inhibition of COX-2, LOX-5, and NF-kB inflammatory pathways
-- [Anticancer](/ayurveda-atlas/reference/anticancer/) activity through cyclotide-mediated disruption of cancer cell membranes and induction of apoptosis
-- [Diuretic](/ayurveda-atlas/reference/diuretic/) and cardiovascular effect via procyanidin C1-mediated inhibition of Na+/K+-ATPase
-- [Expectorant](/ayurveda-atlas/reference/expectorant/) and mucolytic action through saponin-mediated stimulation of respiratory tract secretions
+- [Anticancer](/nighantu/reference/anticancer/) activity through cyclotide-mediated disruption of cancer cell membranes and induction of apoptosis
+- [Diuretic](/nighantu/reference/diuretic/) and cardiovascular effect via procyanidin C1-mediated inhibition of Na+/K+-ATPase
+- [Expectorant](/nighantu/reference/expectorant/) and mucolytic action through saponin-mediated stimulation of respiratory tract secretions
 
 ## Which traditional uses are supported by research?
 
-- Respiratory disorders and cough (Kasa-hara) - validated through confirmed expectorant, anti-inflammatory, and [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) properties
-- [Antipyretic](/ayurveda-atlas/reference/antipyretic/) (Jvarahara) - confirmed diaphoretic and antipyretic activities in pharmacological studies
-- Skin health and complexion (Varnya) - traditional use in face preparations supported by anti-inflammatory and [antioxidant](/ayurveda-atlas/reference/antioxidant/) data
-- Sleep aid and [anxiolytic](/ayurveda-atlas/reference/anxiolytic/) (Nidrajanana) - traditional sedative use partially supported by flavonoid-mediated CNS-calming effects
+- Respiratory disorders and cough (Kasa-hara) - validated through confirmed expectorant, anti-inflammatory, and [antimicrobial](/nighantu/reference/antimicrobial/) properties
+- [Antipyretic](/nighantu/reference/antipyretic/) (Jvarahara) - confirmed diaphoretic and antipyretic activities in pharmacological studies
+- Skin health and complexion (Varnya) - traditional use in face preparations supported by anti-inflammatory and [antioxidant](/nighantu/reference/antioxidant/) data
+- Sleep aid and [anxiolytic](/nighantu/reference/anxiolytic/) (Nidrajanana) - traditional sedative use partially supported by flavonoid-mediated CNS-calming effects
 
 ## What do recent clinical trials show?
 
@@ -58,7 +58,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vanapsa/meta-analysis.md"
 ## Recent safety updates
 
 - Generally safe at traditional doses (flowers and leaves used in teas and syrups); cyclotides have cytotoxic potential at higher concentrations
-- High-dose or prolonged use may cause nausea, vomiting, and diarrhea; not well-studied in pregnancy; potential interactions with cardiac [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) due to Na+/K+-ATPase inhibition
+- High-dose or prolonged use may cause nausea, vomiting, and diarrhea; not well-studied in pregnancy; potential interactions with cardiac [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) due to Na+/K+-ATPase inhibition
 
 ## What is it made of?
 
@@ -81,7 +81,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vanapsa/meta-analysis.md"
 
 **Standard Dosage:** 3-5 g powder twice daily; 50-100 mL decoction twice daily; 15-30 mL syrup twice daily
 
-**Bioavailability:** Violin (cyclotide) is a peptide with poor oral bioavailability due to enzymatic degradation in GI tract, though cyclotides have unusual protease resistance due to cyclic backbone. Rutin and other flavonoids have moderate bioavailability (15-25%) improved by gut microbiota deglycosylation. Salicylic acid derivatives (methyl salicylate from leaves) have high oral bioavailability (~70-80%). [Mucilage](/ayurveda-atlas/glossary/compounds-l-o/#mucilage) provides local demulcent action without systemic absorption.
+**Bioavailability:** Violin (cyclotide) is a peptide with poor oral bioavailability due to enzymatic degradation in GI tract, though cyclotides have unusual protease resistance due to cyclic backbone. Rutin and other flavonoids have moderate bioavailability (15-25%) improved by gut microbiota deglycosylation. Salicylic acid derivatives (methyl salicylate from leaves) have high oral bioavailability (~70-80%). [Mucilage](/nighantu/glossary/compounds-l-o/#mucilage) provides local demulcent action without systemic absorption.
 
 **Optimal Timing:** Morning and evening for respiratory conditions; at bedtime with warm milk for mild sedative/calming effect
 
@@ -91,7 +91,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vanapsa/meta-analysis.md"
 
 **Storage:** Dried flowers in airtight, light-resistant containers at 15-25 deg C. Syrup in amber glass bottles. Protect from heat and humidity. Flower color fades on exposure to light.
 
-**Marker Compounds:** Rutin, [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/), [Kaempferol](/ayurveda-atlas/reference/kaempferol/), Violin (cyclotide), Methyl salicylate, Violine, Odoratine, Mucilage [polysaccharides](/ayurveda-atlas/glossary/compounds-o-q/#polysaccharides)
+**Marker Compounds:** Rutin, [Quercetin](/nighantu/reference/quercetinquercetin/), [Kaempferol](/nighantu/reference/kaempferol/), Violin (cyclotide), Methyl salicylate, Violine, Odoratine, Mucilage [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides)
 
 ### Extraction Methods
 
@@ -103,7 +103,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vanapsa/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) (licorice) - respiratory demulcent synergy
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (licorice) - respiratory demulcent synergy
 - Unnab (Ziziphus jujuba) - classical Unani-Ayurvedic cough formula
 - Gaozaban (Borago officinalis) - cooling and respiratory combination
 - Khatmi (Althaea officinalis) - mucilaginous respiratory synergy

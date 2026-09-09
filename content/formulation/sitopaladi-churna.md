@@ -23,13 +23,13 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Sitopaladi-Churna
 
 | Language | Name |
 |----------|------|
-| English | [Sitopaladi Churna](/ayurveda-atlas/formulation/sitopaladi-churna/) |
+| English | [Sitopaladi Churna](/nighantu/formulation/sitopaladi-churna/) |
 
 ## Key Ingredients
 
 - Sitopala (Mishri / Rock candy sugar)
 - Vanshalochana (Bambusa arundinacea) - Bamboo manna
-- [Pippali](/ayurveda-atlas/herb/pippali/) (Piper longum) - Long pepper
+- [Pippali](/nighantu/herb/pippali/) (Piper longum) - Long pepper
 - Ela (Elettaria cardamomum) - Cardamom
 - Tvak (Cinnamomum zeylanicum) - Cinnamon
 
@@ -39,11 +39,11 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 6. Also referenced in Chakradatta
 
 ## How does it work?
 
-- Mast cell stabilization: Inhibits mast cell degranulation (65-74% protection), preventing [histamine](/ayurveda-atlas/glossary/compounds-g-l/#histamine) release and allergic responses in respiratory tissue.
-- [Bronchodilator](/ayurveda-atlas/reference/bronchodilator/) action: [Piperine](/ayurveda-atlas/reference/piperine/) and essential oils relax bronchial smooth muscle, improving airway patency.
+- Mast cell stabilization: Inhibits mast cell degranulation (65-74% protection), preventing [histamine](/nighantu/glossary/compounds-g-l/#histamine) release and allergic responses in respiratory tissue.
+- [Bronchodilator](/nighantu/reference/bronchodilator/) action: [Piperine](/nighantu/reference/piperine/) and essential oils relax bronchial smooth muscle, improving airway patency.
 - Anti-inflammatory cytokine suppression: 45% inhibition of TNF-alpha in lung cell lines, reducing respiratory tract inflammation.
-- Bioavailability synergy: Piperine from [Pippali](/ayurveda-atlas/herb/pippali/) enhances absorption of [cinnamaldehyde](/ayurveda-atlas/glossary/compounds-c-d/#cinnamaldehyde) (from Tvak) by 30%, demonstrating classical formulation synergy.
-- [Antimicrobial](/ayurveda-atlas/reference/antimicrobial/) activity: Active against S. aureus and S. pneumoniae, providing direct action against respiratory pathogens.
+- Bioavailability synergy: Piperine from [Pippali](/nighantu/herb/pippali/) enhances absorption of [cinnamaldehyde](/nighantu/glossary/compounds-c-d/#cinnamaldehyde) (from Tvak) by 30%, demonstrating classical formulation synergy.
+- [Antimicrobial](/nighantu/reference/antimicrobial/) activity: Active against S. aureus and S. pneumoniae, providing direct action against respiratory pathogens.
 
 ## Which traditional uses are supported by research?
 
@@ -54,11 +54,11 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 6. Also referenced in Chakradatta
 
 ## What do recent clinical trials show?
 
-- **A Critical Review of [Sitopaladi Churna](/ayurveda-atlas/formulation/sitopaladi-churna/) in The Management of Respiratory Tract Infections: An Ayurvedic and Pharmacological Perspective** (2024): Validated effectiveness in alleviating RTI symptoms, enhancing respiratory functions, and reducing dependency on synthetic drugs. Modern pharmacological studies confirmed [expectorant](/ayurveda-atlas/reference/expectorant/), bronchodilator, anti-inflammatory, [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/), and antimicrobial properties.
-- **Mast cell stabilization potential of [Sitopaladi churna](/ayurveda-atlas/formulation/sitopaladi-churna/): An Ayurvedic formulation** (2021): Aqueous extract (300 mg/kg) and methanolic extract (150-300 mg/kg) showed 65-74% mast cell degranulation protection, comparable to standard drug ketotifen (79%), with statistical significance (P < 0.0001).
+- **A Critical Review of [Sitopaladi Churna](/nighantu/formulation/sitopaladi-churna/) in The Management of Respiratory Tract Infections: An Ayurvedic and Pharmacological Perspective** (2024): Validated effectiveness in alleviating RTI symptoms, enhancing respiratory functions, and reducing dependency on synthetic drugs. Modern pharmacological studies confirmed [expectorant](/nighantu/reference/expectorant/), bronchodilator, anti-inflammatory, [immunomodulatory](/nighantu/reference/immunomodulatory/), and antimicrobial properties.
+- **Mast cell stabilization potential of [Sitopaladi churna](/nighantu/formulation/sitopaladi-churna/): An Ayurvedic formulation** (2021): Aqueous extract (300 mg/kg) and methanolic extract (150-300 mg/kg) showed 65-74% mast cell degranulation protection, comparable to standard drug ketotifen (79%), with statistical significance (P < 0.0001).
 - **Randomized trial of Sitopaladi syrup for cough reduction** (2020): Significant reduction in cough frequency among 60 adult participants receiving Sitopaladi syrup versus placebo (p<0.05), supporting traditional use as antitussive.
-- **Antimicrobial screening of [Sitopaladi Churna](/ayurveda-atlas/formulation/sitopaladi-churna/)** (2021): Demonstrated moderate antimicrobial activity against Staphylococcus aureus and Streptococcus pneumoniae, common respiratory pathogens, validating traditional use in respiratory infections.
-- **In vitro anti-inflammatory activity of [Sitopaladi Churna](/ayurveda-atlas/formulation/sitopaladi-churna/) on human lung cell lines** (2022): Extract exhibited 45% inhibition of inflammatory cytokines (TNF-alpha) in human lung cell lines, with piperine from [Pippali](/ayurveda-atlas/herb/pippali/) enhancing bioavailability of cinnamaldehyde by up to 30%.
+- **Antimicrobial screening of [Sitopaladi Churna](/nighantu/formulation/sitopaladi-churna/)** (2021): Demonstrated moderate antimicrobial activity against Staphylococcus aureus and Streptococcus pneumoniae, common respiratory pathogens, validating traditional use in respiratory infections.
+- **In vitro anti-inflammatory activity of [Sitopaladi Churna](/nighantu/formulation/sitopaladi-churna/) on human lung cell lines** (2022): Extract exhibited 45% inhibition of inflammatory cytokines (TNF-alpha) in human lung cell lines, with piperine from [Pippali](/nighantu/herb/pippali/) enhancing bioavailability of cinnamaldehyde by up to 30%.
 
 ## Recent safety updates
 
@@ -89,7 +89,7 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 6. Also referenced in Chakradatta
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
-**Marker Compounds:** Piperine, [Cineole](/ayurveda-atlas/glossary/compounds-c-d/#cineole)
+**Marker Compounds:** Piperine, [Cineole](/nighantu/glossary/compounds-c-d/#cineole)
 
 **Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Piperine, Cineole
 

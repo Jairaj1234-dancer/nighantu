@@ -37,7 +37,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Jamun/meta-analysis.md"
 **Journal:** Molecules (Basel, Switzerland) (2022)
 **PMID:** 36364010
 
-**Keywords:** Jamun, Syzygium [cumin](/ayurveda-atlas/herb/cumin/), diabetes mellitus, hyperlipidemia, metabolic syndrome, obesity
+**Keywords:** Jamun, Syzygium [cumin](/nighantu/herb/cumin/), diabetes mellitus, hyperlipidemia, metabolic syndrome, obesity
 
 #### 2. Exploring the Chemical and Biological Potential of Jamun (Syzygium cumini (L.) Skeels) Leaves: A Comprehensive Review.
 
@@ -45,7 +45,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Jamun/meta-analysis.md"
 **Journal:** Chemistry & biodiversity (2023)
 **PMID:** 37667613
 
-> Leaves of jamun collected as agro by-produce during the cultivation of jamun is traditionally used as ayurvedic medicine to treat diabetes, gall bladder stones and other ailments. Most of the beneficial effects of jamun leaves are associated with phytochemicals found in jamun leaves such as gallic acid, [tannins](/ayurveda-atlas/reference/tannins/), mallic acid, [flavonoids](/ayurveda-atlas/reference/flavonoids/), essential oils, jambolin, ellagic acid, jambosine, antimellin and betulinic acid. Jamun possess curative activities like [anticancer](/ayurveda-atlas/reference/anticancer/), [antidiabetic](/ayurveda-atlas/reference/antidiabetic/), antifertility, anti-inflammatory, antidiarrheal, [antimicrobial](/ayurveda-atlas/reference/antimicrobial/), antinociceptive, [antioxidant](/ayurveda-atlas/reference/antioxidant/), antiradiation, chemotherapeutic, and gastroprotective. The main goal of this review article is to provide information on the nutritional content, phytochemical composition and health promoting properties of jamun leaves....
+> Leaves of jamun collected as agro by-produce during the cultivation of jamun is traditionally used as ayurvedic medicine to treat diabetes, gall bladder stones and other ailments. Most of the beneficial effects of jamun leaves are associated with phytochemicals found in jamun leaves such as gallic acid, [tannins](/nighantu/reference/tannins/), mallic acid, [flavonoids](/nighantu/reference/flavonoids/), essential oils, jambolin, ellagic acid, jambosine, antimellin and betulinic acid. Jamun possess curative activities like [anticancer](/nighantu/reference/anticancer/), [antidiabetic](/nighantu/reference/antidiabetic/), antifertility, anti-inflammatory, antidiarrheal, [antimicrobial](/nighantu/reference/antimicrobial/), antinociceptive, [antioxidant](/nighantu/reference/antioxidant/), antiradiation, chemotherapeutic, and gastroprotective. The main goal of this review article is to provide information on the nutritional content, phytochemical composition and health promoting properties of jamun leaves....
 
 **Keywords:** Jamun leaves, anti-cancer, anti-diabetic, biological activities, health promoting effects
 
@@ -118,17 +118,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Jamun/meta-analysis.md"
 
 **Standard Dosage:** 3-6g seed powder twice daily; 500mg-1g extract twice daily; 20-50ml fruit juice
 
-**Bioavailability:** Syzygium cumini (Jamun is the common Hindi name). Same pharmacokinetic profile as [Jambu](/ayurveda-atlas/herb/jambu/). Anthocyanin-rich fruit preparations have ~1-2% bioavailability but undergo extensive phase II metabolism. Urolithins (gut metabolites of [ellagitannins](/ayurveda-atlas/glossary/compounds-d-g/#ellagitannins)) are the primary bioavailable active metabolites with anti-inflammatory and anti-diabetic properties.
+**Bioavailability:** Syzygium cumini (Jamun is the common Hindi name). Same pharmacokinetic profile as [Jambu](/nighantu/herb/jambu/). Anthocyanin-rich fruit preparations have ~1-2% bioavailability but undergo extensive phase II metabolism. Urolithins (gut metabolites of [ellagitannins](/nighantu/glossary/compounds-d-g/#ellagitannins)) are the primary bioavailable active metabolites with anti-inflammatory and anti-diabetic properties.
 
 **Optimal Timing:** Seed powder: 30 minutes before meals for glycemic control. Fruit juice: between meals. Vinegar: before meals diluted in water.
 
-**Standardized Extract:** Seed extract standardized to 20% tannins (gallic acid equivalent) and 1% ellagic acid; fruit extract standardized to 5% [anthocyanins](/ayurveda-atlas/glossary/compounds-1-a/#anthocyanins) (as cyanidin-3-glucoside)
+**Standardized Extract:** Seed extract standardized to 20% tannins (gallic acid equivalent) and 1% ellagic acid; fruit extract standardized to 5% [anthocyanins](/nighantu/glossary/compounds-1-a/#anthocyanins) (as cyanidin-3-glucoside)
 
 **Shelf Life:** 2 years (seed powder); 3 years (extract capsule); 6 months (fruit juice, preserved); 1 year (vinegar)
 
 **Storage:** Cool, dry place below 25°C. Anthocyanin preparations must be protected from light and stored at acidic pH. Seed powder in airtight moisture-proof containers.
 
-**Marker Compounds:** Gallic acid, Ellagic acid, Cyanidin-3-glucoside, Delphinidin-3,5-diglucoside, Malvidin-3-glucoside, [Jamboline](/ayurveda-atlas/glossary/compounds-g-l/#jamboline), Oleanolic acid
+**Marker Compounds:** Gallic acid, Ellagic acid, Cyanidin-3-glucoside, Delphinidin-3,5-diglucoside, Malvidin-3-glucoside, [Jamboline](/nighantu/glossary/compounds-g-l/#jamboline), Oleanolic acid
 
 ### Extraction Methods
 
@@ -140,7 +140,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Jamun/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Karela](/ayurveda-atlas/herb/karela/) and [Gudmar](/ayurveda-atlas/herb/gudmar/) as triple anti-diabetic combination
+- With [Karela](/nighantu/herb/karela/) and [Gudmar](/nighantu/herb/gudmar/) as triple anti-diabetic combination
 - With Amalaki for antioxidant synergy
-- With [Haridra](/ayurveda-atlas/herb/haridra/) for anti-inflammatory action
-- With [Triphala](/ayurveda-atlas/herb/triphala/) for metabolic health
+- With [Haridra](/nighantu/herb/haridra/) for anti-inflammatory action
+- With [Triphala](/nighantu/herb/triphala/) for metabolic health

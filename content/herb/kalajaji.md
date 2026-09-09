@@ -28,40 +28,40 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kalajaji/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Thymoquinone](/ayurveda-atlas/glossary/compounds-t-z/#thymoquinone)
-- [Thymohydroquinone](/ayurveda-atlas/glossary/compounds-t-z/#thymohydroquinone)
-- Dithymoquinone ([nigellone](/ayurveda-atlas/glossary/compounds-l-o/#nigellone))
+- [Thymoquinone](/nighantu/glossary/compounds-t-z/#thymoquinone)
+- [Thymohydroquinone](/nighantu/glossary/compounds-t-z/#thymohydroquinone)
+- Dithymoquinone ([nigellone](/nighantu/glossary/compounds-l-o/#nigellone))
 - P-cymene
-- [Carvacrol](/ayurveda-atlas/glossary/compounds-a-c/#carvacrol)
+- [Carvacrol](/nighantu/glossary/compounds-a-c/#carvacrol)
 - Alpha-pinene
 - Alpha-hederin
-- [Thymol](/ayurveda-atlas/glossary/compounds-t-z/#thymol)
+- [Thymol](/nighantu/glossary/compounds-t-z/#thymol)
 - 4-Terpineol
-- [Kaempferol](/ayurveda-atlas/reference/kaempferol/)
+- [Kaempferol](/nighantu/reference/kaempferol/)
 
 ## How does it work?
 
-- Thymoquinone inhibits NF-kB nuclear translocation, suppresses COX-2 and iNOS expression, and modulates MAPK signaling pathways, providing broad-spectrum anti-inflammatory and [anticancer](/ayurveda-atlas/reference/anticancer/) effects
+- Thymoquinone inhibits NF-kB nuclear translocation, suppresses COX-2 and iNOS expression, and modulates MAPK signaling pathways, providing broad-spectrum anti-inflammatory and [anticancer](/nighantu/reference/anticancer/) effects
 - Alpha-hederin (triterpene saponin) disrupts cancer cell membranes through cholesterol binding and induces apoptosis via mitochondrial pathway activation (cytochrome c release, caspase-3/9 activation)
 - Thymoquinone protects pancreatic beta cells from oxidative damage and enhances insulin secretion through modulation of intracellular calcium homeostasis and AMPK pathway activation
 
 ## Which traditional uses are supported by research?
 
-- [Antidiabetic](/ayurveda-atlas/reference/antidiabetic/) activity validated through multiple clinical trials demonstrating improved glycemic control in type 2 diabetes patients, confirming traditional use for blood sugar management
-- Anti-inflammatory and [analgesic](/ayurveda-atlas/reference/analgesic/) effects confirmed in clinical and preclinical studies supporting traditional use for rheumatic conditions and pain relief
-- [Immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) effects validated through clinical evidence showing enhanced immune response, supporting the traditional Islamic medicine description as 'cure for everything except death'
+- [Antidiabetic](/nighantu/reference/antidiabetic/) activity validated through multiple clinical trials demonstrating improved glycemic control in type 2 diabetes patients, confirming traditional use for blood sugar management
+- Anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) effects confirmed in clinical and preclinical studies supporting traditional use for rheumatic conditions and pain relief
+- [Immunomodulatory](/nighantu/reference/immunomodulatory/) effects validated through clinical evidence showing enhanced immune response, supporting the traditional Islamic medicine description as 'cure for everything except death'
 
 ## What do recent clinical trials show?
 
-- **An updated review on the phytochemistry and pharmacological activity of black [cumin](/ayurveda-atlas/herb/cumin/) (Nigella sativa L.)** (2025): Exhaustive database retrieval (1956-2025) documenting phytochemical constituents, traditional medicinal applications, pharmacological research, toxicity, and nanobiotechnology applications of Black [Cumin](/ayurveda-atlas/herb/cumin/)|black cumin.
-- **Nigella sativa: A Comprehensive Review of Its Therapeutic Potential, Pharmacological Properties, and Clinical Applications** (2024): Systematic evaluation confirming [antioxidant](/ayurveda-atlas/reference/antioxidant/), anti-inflammatory, antibacterial, antifungal, antiviral, anticancer, antidiabetic, [neuroprotective](/ayurveda-atlas/reference/neuroprotective/), and gastroprotective effects with 51 clinical trials identified on ClinicalTrials.gov.
-- **Black [Cumin](/ayurveda-atlas/herb/cumin/)|Black Cumin Seed (Nigella sativa) Confers Anti-Adipogenic Effects in 3T3-L1 Cellular Model and Lipid-Lowering Properties in Human Subjects** (2025): Clinical evidence confirming anti-adipogenic effects in cell models and lipid-lowering properties in human subjects, supporting anti-obesity and cardiometabolic applications.
+- **An updated review on the phytochemistry and pharmacological activity of black [cumin](/nighantu/herb/cumin/) (Nigella sativa L.)** (2025): Exhaustive database retrieval (1956-2025) documenting phytochemical constituents, traditional medicinal applications, pharmacological research, toxicity, and nanobiotechnology applications of Black [Cumin](/nighantu/herb/cumin/)|black cumin.
+- **Nigella sativa: A Comprehensive Review of Its Therapeutic Potential, Pharmacological Properties, and Clinical Applications** (2024): Systematic evaluation confirming [antioxidant](/nighantu/reference/antioxidant/), anti-inflammatory, antibacterial, antifungal, antiviral, anticancer, antidiabetic, [neuroprotective](/nighantu/reference/neuroprotective/), and gastroprotective effects with 51 clinical trials identified on ClinicalTrials.gov.
+- **Black [Cumin](/nighantu/herb/cumin/)|Black Cumin Seed (Nigella sativa) Confers Anti-Adipogenic Effects in 3T3-L1 Cellular Model and Lipid-Lowering Properties in Human Subjects** (2025): Clinical evidence confirming anti-adipogenic effects in cell models and lipid-lowering properties in human subjects, supporting anti-obesity and cardiometabolic applications.
 
 ## Recent safety updates
 
 - Generally well tolerated; LD50 ranges from 28.8 mL/kg to 3,371 mg/kg in mice; subacute toxicity evaluations showed no toxicity at doses up to 6 g/kg of aqueous/methanol/chloroform extracts
 - Mild adverse effects reported in clinical trials include bloating, nausea, and burning sensation in dyspeptic patients; allergic contact dermatitis documented in case reports
-- Slight increase in kidney and liver [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes) observed with prolonged use of oil and crushed seeds; chronic toxicity studies found 2 mL/kg fixed oil slightly toxic over extended periods
+- Slight increase in kidney and liver [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) observed with prolonged use of oil and crushed seeds; chronic toxicity studies found 2 mL/kg fixed oil slightly toxic over extended periods
 
 ## What is it made of?
 
@@ -86,7 +86,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kalajaji/meta-analysis.md"
 
 **Standard Dosage:** 1-3g seed powder twice daily; 2.5-5ml seed oil daily; 500mg extract twice daily; 200-500mg thymoquinone-standardized extract
 
-**Bioavailability:** Nigella sativa (Black [Cumin](/ayurveda-atlas/herb/cumin/)|black cumin) contains thymoquinone (TQ) as primary active compound. TQ has moderate oral bioavailability (~58% in animal models) but is rapidly metabolized. TQ is lipophilic (logP 2.4); absorption is enhanced 3-5x when taken with fatty meals or in oil form. Nanostructured lipid carriers (NLC), SNEDDS, and cyclodextrin inclusion complexes significantly improve TQ bioavailability. Fixed oil form provides natural lipid carrier for TQ.
+**Bioavailability:** Nigella sativa (Black [Cumin](/nighantu/herb/cumin/)|black cumin) contains thymoquinone (TQ) as primary active compound. TQ has moderate oral bioavailability (~58% in animal models) but is rapidly metabolized. TQ is lipophilic (logP 2.4); absorption is enhanced 3-5x when taken with fatty meals or in oil form. Nanostructured lipid carriers (NLC), SNEDDS, and cyclodextrin inclusion complexes significantly improve TQ bioavailability. Fixed oil form provides natural lipid carrier for TQ.
 
 **Optimal Timing:** With meals (especially fatty meals) for optimal absorption; morning and evening doses. Traditional: mixed with honey on empty stomach.
 
@@ -96,7 +96,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kalajaji/meta-analysis.md"
 
 **Storage:** Oil: amber glass bottles, nitrogen-flushed, below 25°C, protected from light. Seeds: cool, dry place. Soft gels: below 25°C, moisture-proof packaging.
 
-**Marker Compounds:** Thymoquinone, Thymohydroquinone, Thymol, Carvacrol, p-Cymene, Nigellone (dithymoquinone), Alpha-hederin, [Nigellidine](/ayurveda-atlas/glossary/compounds-l-o/#nigellidine)
+**Marker Compounds:** Thymoquinone, Thymohydroquinone, Thymol, Carvacrol, p-Cymene, Nigellone (dithymoquinone), Alpha-hederin, [Nigellidine](/nighantu/glossary/compounds-l-o/#nigellidine)
 
 ### Extraction Methods
 
@@ -109,7 +109,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kalajaji/meta-analysis.md"
 ### Synergistic Combinations
 
 - With Honey (traditional Prophetic medicine combination)
-- With [Haridra](/ayurveda-atlas/herb/haridra/) for anti-inflammatory synergy
-- With [Methi](/ayurveda-atlas/herb/methi/) for blood sugar management
+- With [Haridra](/nighantu/herb/haridra/) for anti-inflammatory synergy
+- With [Methi](/nighantu/herb/methi/) for blood sugar management
 - With Amalaki for immune support and antioxidant action
 - With Habbatus Sauda oil and honey for respiratory support

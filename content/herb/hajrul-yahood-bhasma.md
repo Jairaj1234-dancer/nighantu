@@ -23,20 +23,20 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Hajrul-Yahood-Bhasma
 
 | Language | Name |
 |----------|------|
-| English | [Hajrul Yahood Bhasma](/ayurveda-atlas/herb/hajrul-yahood-bhasma/) |
+| English | [Hajrul Yahood Bhasma](/nighantu/herb/hajrul-yahood-bhasma/) |
 
 ## Key Phytochemical Constituents
 
 - Calcium silicate (CaSiO3) as primary constituent
 - Calcium oxide (CaO) from thermal decomposition
-- [Silicon](/ayurveda-atlas/glossary/compounds-q-t/#silicon) dioxide (SiO2)
-- Trace [magnesium](/ayurveda-atlas/glossary/compounds-l-o/#magnesium), iron, aluminum
+- [Silicon](/nighantu/glossary/compounds-q-t/#silicon) dioxide (SiO2)
+- Trace [magnesium](/nighantu/glossary/compounds-l-o/#magnesium), iron, aluminum
 - Organic compounds from radish/herbal trituration media
 
 ## How does it work?
 
 - Lithontriptic (stone-dissolving) action through calcium silicate-mediated chemical dissolution of calcium oxalate and calcium phosphate kidney stones
-- [Diuretic](/ayurveda-atlas/reference/diuretic/) action through osmotic and ionic mechanisms, increasing urinary volume and flow to facilitate stone passage from kidneys through ureters
+- [Diuretic](/nighantu/reference/diuretic/) action through osmotic and ionic mechanisms, increasing urinary volume and flow to facilitate stone passage from kidneys through ureters
 - Anodyne (pain-relieving) action reducing renal colic, observed clinically within 2-3 doses, likely through smooth muscle relaxation in urinary tract
 - Gastroprotective effect through acid neutralization and mucosal protection, demonstrated in clinical trial showing 72% ulcer healing rate
 
@@ -48,9 +48,9 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Hajrul-Yahood-Bhasma
 
 ## What do recent clinical trials show?
 
-- **Clinical evaluation of [Hajrul Yahood Bhasma](/ayurveda-atlas/herb/hajrul-yahood-bhasma/) with licorice decoction in gastric ulcers** (2015): Clinical trial on 60 patients reported 72% ulcer-healing rate when combined with licorice decoction vs 45% with standard ranitidine therapy. Published in Journal of Ayurveda & Integrative Medicine.
-- **Lithotriptic and diuretic activity assessment of [Hajrul Yahood Bhasma](/ayurveda-atlas/herb/hajrul-yahood-bhasma/)** (2018): Demonstrated lithontriptic (stone-dissolving) and diuretic action. Reduces renal colic within first 2-3 dosages through anodyne action. Helps dissolve and push kidney stones along the ureter.
-- **Physicochemical analysis and standardization of [Hajrul Yahood Bhasma](/ayurveda-atlas/herb/hajrul-yahood-bhasma/)** (2019): Established physicochemical quality parameters for standardization. Confirmed calcium silicate composition with consistent mineral profile across properly prepared batches.
+- **Clinical evaluation of [Hajrul Yahood Bhasma](/nighantu/herb/hajrul-yahood-bhasma/) with licorice decoction in gastric ulcers** (2015): Clinical trial on 60 patients reported 72% ulcer-healing rate when combined with licorice decoction vs 45% with standard ranitidine therapy. Published in Journal of Ayurveda & Integrative Medicine.
+- **Lithotriptic and diuretic activity assessment of [Hajrul Yahood Bhasma](/nighantu/herb/hajrul-yahood-bhasma/)** (2018): Demonstrated lithontriptic (stone-dissolving) and diuretic action. Reduces renal colic within first 2-3 dosages through anodyne action. Helps dissolve and push kidney stones along the ureter.
+- **Physicochemical analysis and standardization of [Hajrul Yahood Bhasma](/nighantu/herb/hajrul-yahood-bhasma/)** (2019): Established physicochemical quality parameters for standardization. Confirmed calcium silicate composition with consistent mineral profile across properly prepared batches.
 
 ## Recent safety updates
 
@@ -78,7 +78,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Hajrul-Yahood-Bhasma
 
 **Bioavailability:** Good; calcium carbonate form readily absorbed
 
-**Optimal Timing:** With meals; with [Shilajit](/ayurveda-atlas/herb/shilajit/) or [Gokshura](/ayurveda-atlas/herb/gokshura/) for urinary disorders
+**Optimal Timing:** With meals; with [Shilajit](/nighantu/herb/shilajit/) or [Gokshura](/nighantu/herb/gokshura/) for urinary disorders
 
 **Standardized Extract:** Calcined calcium carbonate (fossil stone) bhasma
 
@@ -86,8 +86,8 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Hajrul-Yahood-Bhasma
 
 **Storage:** Airtight, dry container
 
-**Marker Compounds:** Calcium carbonate, Calcium phosphate, [Silica](/ayurveda-atlas/glossary/compounds-q-t/#silica)
+**Marker Compounds:** Calcium carbonate, Calcium phosphate, [Silica](/nighantu/glossary/compounds-q-t/#silica)
 
 **Quality Parameters:** Calcium >30%, standard bhasma tests, no free calcium oxide
 
-**Vehicle (Anupana):** Honey, Gokshuradi Kwatha, or [Varuna](/ayurveda-atlas/herb/varuna/) Kwatha for urinary calculi
+**Vehicle (Anupana):** Honey, Gokshuradi Kwatha, or [Varuna](/nighantu/herb/varuna/) Kwatha for urinary calculi

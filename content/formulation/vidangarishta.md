@@ -27,21 +27,21 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Vidanga
 
 ## Key Ingredients
 
-- [Vidanga](/ayurveda-atlas/herb/vidanga/) (Embelia ribes)
-- [Triphala](/ayurveda-atlas/herb/triphala/) ([Haritaki](/ayurveda-atlas/herb/haritaki/), [Bibhitaki](/ayurveda-atlas/herb/bibhitaki/), Amalaki)
-- [Pippali](/ayurveda-atlas/herb/pippali/) (Piper longum)
-- [Rasna](/ayurveda-atlas/herb/rasna/) (Pluchea lanceolata)
+- [Vidanga](/nighantu/herb/vidanga/) (Embelia ribes)
+- [Triphala](/nighantu/herb/triphala/) ([Haritaki](/nighantu/herb/haritaki/), [Bibhitaki](/nighantu/herb/bibhitaki/), Amalaki)
+- [Pippali](/nighantu/herb/pippali/) (Piper longum)
+- [Rasna](/nighantu/herb/rasna/) (Pluchea lanceolata)
 - Kutaja (Holarrhena antidysenterica)
-- [Dalchini](/ayurveda-atlas/herb/twak-cinnamon/) (Cinnamomum zeylanicum)
+- [Dalchini](/nighantu/herb/twak-cinnamon/) (Cinnamomum zeylanicum)
 - Elaichi (Elettaria cardamomum)
-- [Kachnar](/ayurveda-atlas/herb/kachnar/) (Bauhinia variegata)
-- Shunthi ([Zingiber](/ayurveda-atlas/herb/zingiber/) officinale)
+- [Kachnar](/nighantu/herb/kachnar/) (Bauhinia variegata)
+- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale)
 - Maricha (Piper nigrum)
-- [Patha](/ayurveda-atlas/herb/patha/) (Cissampelos pareira)
-- [Lodhra](/ayurveda-atlas/herb/lodhra/) (Symplocos racemosa)
-- [Priyangu](/ayurveda-atlas/herb/priyangu/) (Callicarpa macrophylla)
+- [Patha](/nighantu/herb/patha/) (Cissampelos pareira)
+- [Lodhra](/nighantu/herb/lodhra/) (Symplocos racemosa)
+- [Priyangu](/nighantu/herb/priyangu/) (Callicarpa macrophylla)
 - Honey and Jaggery (fermentation medium)
-- [Dhataki](/ayurveda-atlas/herb/dhataki/) pushpa (Woodfordia fruticosa)
+- [Dhataki](/nighantu/herb/dhataki/) pushpa (Woodfordia fruticosa)
 
 ## Where is it described in the classical texts?
 
@@ -49,17 +49,17 @@ Sharangadharasamhita Madhyamakhanda. Also referenced in Bhavaprakasha Nighantu (
 
 ## How does it work?
 
-- [Embelin](/ayurveda-atlas/glossary/compounds-d-g/#embelin) (from [Vidanga](/ayurveda-atlas/herb/vidanga/)) exerts potent anthelmintic action by paralyzing intestinal parasites (roundworms, tapeworms)
+- [Embelin](/nighantu/glossary/compounds-d-g/#embelin) (from [Vidanga](/nighantu/herb/vidanga/)) exerts potent anthelmintic action by paralyzing intestinal parasites (roundworms, tapeworms)
 - Kutaja provides anti-dysenteric and anti-amoebic action complementing the antiparasitic activity
-- [Pippali](/ayurveda-atlas/herb/pippali/)-mediated bioavailability enhancement increases systemic absorption of embelin and other active compounds
-- [Immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) action of [Triphala](/ayurveda-atlas/herb/triphala/) and [Rasna](/ayurveda-atlas/herb/rasna/) strengthens host defense against parasitic reinfection
+- [Pippali](/nighantu/herb/pippali/)-mediated bioavailability enhancement increases systemic absorption of embelin and other active compounds
+- [Immunomodulatory](/nighantu/reference/immunomodulatory/) action of [Triphala](/nighantu/herb/triphala/) and [Rasna](/nighantu/herb/rasna/) strengthens host defense against parasitic reinfection
 
 ## Which traditional uses are supported by research?
 
 - Intestinal parasites (Krimi Roga) - validated by clinical pilot showing 78% worm load reduction
 - Abdominal bloating and flatulence - supported by digestive and carminative properties of formulation
 - Skin abscesses and boils - traditional use corroborated by antibacterial profiling studies
-- Urinary disorders and prostate enlargement - supported by anti-inflammatory and [diuretic](/ayurveda-atlas/reference/diuretic/) properties of components
+- Urinary disorders and prostate enlargement - supported by anti-inflammatory and [diuretic](/nighantu/reference/diuretic/) properties of components
 
 ## What do recent clinical trials show?
 
@@ -103,4 +103,4 @@ Sharangadharasamhita Madhyamakhanda. Also referenced in Bhavaprakasha Nighantu (
 
 ### Synergistic Combinations
 
-- Key herbs: [Vidanga](/ayurveda-atlas/herb/vidanga/) (Embelia ribes), [Dhataki](/ayurveda-atlas/herb/dhataki/), [Guda](/ayurveda-atlas/glossary/concepts-a-m/#guda); fermentation creates unique metabolite profile with enhanced therapeutic activity
+- Key herbs: [Vidanga](/nighantu/herb/vidanga/) (Embelia ribes), [Dhataki](/nighantu/herb/dhataki/), [Guda](/nighantu/glossary/concepts-a-m/#guda); fermentation creates unique metabolite profile with enhanced therapeutic activity

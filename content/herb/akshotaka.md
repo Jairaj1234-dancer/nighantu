@@ -31,31 +31,31 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akshotaka/meta-analysis.md"
 - Juglone (5-hydroxy-1,4-naphthoquinone)
 - Ellagic acid
 - Gallic acid
-- [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/)
+- [Quercetin](/nighantu/reference/quercetinquercetin/)
 - Alpha-linolenic acid (omega-3)
-- Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
+- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
 - Juglonol
 - Tellimagrandin I and II
-- [Catechin](/ayurveda-atlas/reference/catechin/)
-- [Kaempferol](/ayurveda-atlas/reference/kaempferol/)
+- [Catechin](/nighantu/reference/catechin/)
+- [Kaempferol](/nighantu/reference/kaempferol/)
 
 ## How does it work?
 
 - Juglone induces apoptosis in cancer cells through reactive oxygen species (ROS) generation and mitochondrial membrane depolarization, activating caspase-3 and caspase-9 pathways
-- Ellagic acid and gallic acid [polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols) inhibit NF-kB signaling and reduce COX-2/LOX expression, providing anti-inflammatory effects validated in multiple in vivo models
+- Ellagic acid and gallic acid [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) inhibit NF-kB signaling and reduce COX-2/LOX expression, providing anti-inflammatory effects validated in multiple in vivo models
 - Alpha-linolenic acid (ALA) reduces serum LDL-cholesterol and triglycerides via upregulation of hepatic LDL receptors and inhibition of HMG-CoA reductase, supporting cardiovascular protection
 
 ## Which traditional uses are supported by research?
 
-- [Antidiabetic](/ayurveda-atlas/reference/antidiabetic/) effects validated through clinical and preclinical studies showing improved glycemic control consistent with traditional Ayurvedic use of Akshotaka for Prameha (diabetes)
+- [Antidiabetic](/nighantu/reference/antidiabetic/) effects validated through clinical and preclinical studies showing improved glycemic control consistent with traditional Ayurvedic use of Akshotaka for Prameha (diabetes)
 - Anti-inflammatory and wound healing properties confirmed through in vitro and in vivo studies supporting traditional topical application of walnut bark and leaf preparations
-- [Neuroprotective](/ayurveda-atlas/reference/neuroprotective/) and cognitive benefits validated through clinical studies showing walnut consumption improves memory and cognitive function in elderly populations
+- [Neuroprotective](/nighantu/reference/neuroprotective/) and cognitive benefits validated through clinical studies showing walnut consumption improves memory and cognitive function in elderly populations
 
 ## What do recent clinical trials show?
 
-- **A Review of [Antioxidant](/ayurveda-atlas/reference/antioxidant/) Activity, Anti-Inflammatory Properties, Apoptosis-Regulatory Effects, and Immune System Modulation of Juglans regia L. (Walnut)** (2025): Walnut phytochemical profile contributes to therapeutic potential in combating oxidative stress and inflammation, regulating apoptosis and immune responses through multiple molecular pathways.
-- **Juglans regia L. (Walnut) Leaf Extract Ameliorates Pulmonary Edema Against Airway Inflammation via Upregulation of Tight Junction [Proteins](/ayurveda-atlas/glossary/compounds-o-q/#proteins) and Heme Oxygenase-1** (2025): Walnut leaf extract reduced pulmonary edema in asthmatic mice by upregulating tight junction proteins (claudin-1, occludin) and heme oxygenase-1, demonstrating anti-inflammatory airway protection.
-- **Traditional Applications, Ethnopharmacology, and Phytochemistry of Walnut Green Husk (Juglans regia L.): A Review** (2024): Walnut green husk contains quinones, diarylheptanes, [triterpenoids](/ayurveda-atlas/glossary/compounds-t-z/#triterpenoids), and [flavonoids](/ayurveda-atlas/reference/flavonoids/) with demonstrated [antitumor](/ayurveda-atlas/glossary/pharmacology/#antitumor), anti-inflammatory, antibacterial, and antioxidant properties.
+- **A Review of [Antioxidant](/nighantu/reference/antioxidant/) Activity, Anti-Inflammatory Properties, Apoptosis-Regulatory Effects, and Immune System Modulation of Juglans regia L. (Walnut)** (2025): Walnut phytochemical profile contributes to therapeutic potential in combating oxidative stress and inflammation, regulating apoptosis and immune responses through multiple molecular pathways.
+- **Juglans regia L. (Walnut) Leaf Extract Ameliorates Pulmonary Edema Against Airway Inflammation via Upregulation of Tight Junction [Proteins](/nighantu/glossary/compounds-o-q/#proteins) and Heme Oxygenase-1** (2025): Walnut leaf extract reduced pulmonary edema in asthmatic mice by upregulating tight junction proteins (claudin-1, occludin) and heme oxygenase-1, demonstrating anti-inflammatory airway protection.
+- **Traditional Applications, Ethnopharmacology, and Phytochemistry of Walnut Green Husk (Juglans regia L.): A Review** (2024): Walnut green husk contains quinones, diarylheptanes, [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids), and [flavonoids](/nighantu/reference/flavonoids/) with demonstrated [antitumor](/nighantu/glossary/pharmacology/#antitumor), anti-inflammatory, antibacterial, and antioxidant properties.
 
 ## Recent safety updates
 
@@ -78,7 +78,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akshotaka/meta-analysis.md"
 
 **Standard Dosage:** 3-6g kernel powder twice daily; 5-10ml oil internally; 1-2 walnut kernels daily as dietary supplement
 
-**Bioavailability:** Good bioavailability for lipid-soluble constituents (omega-3 ALA, [tocopherols](/ayurveda-atlas/glossary/compounds-t-z/#tocopherols)). ALA conversion to EPA/DHA is limited (5-10%) but direct walnut matrix enhances overall polyphenol absorption. [Ellagitannins](/ayurveda-atlas/glossary/compounds-d-g/#ellagitannins) are hydrolyzed to ellagic acid and then metabolized to urolithins by gut microbiota — urolithin bioavailability varies with individual microbiome composition (metabotype A vs B).
+**Bioavailability:** Good bioavailability for lipid-soluble constituents (omega-3 ALA, [tocopherols](/nighantu/glossary/compounds-t-z/#tocopherols)). ALA conversion to EPA/DHA is limited (5-10%) but direct walnut matrix enhances overall polyphenol absorption. [Ellagitannins](/nighantu/glossary/compounds-d-g/#ellagitannins) are hydrolyzed to ellagic acid and then metabolized to urolithins by gut microbiota — urolithin bioavailability varies with individual microbiome composition (metabotype A vs B).
 
 **Optimal Timing:** With meals or as snack. Oil taken in morning on empty stomach for general health. Kernel powder with warm milk at bedtime for brain nourishment.
 
@@ -88,7 +88,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akshotaka/meta-analysis.md"
 
 **Storage:** Kernels and powder in airtight containers, refrigerated or below 15°C. Oil in amber glass, nitrogen-flushed headspace, refrigerated after opening. Protect from heat, light, and oxygen.
 
-**Marker Compounds:** Alpha-linolenic acid (ALA), Ellagic acid, Juglone (hull), Gallic acid, Tellimagrandin, Gamma-tocopherol, [Pedunculagin](/ayurveda-atlas/glossary/compounds-o-q/#pedunculagin)
+**Marker Compounds:** Alpha-linolenic acid (ALA), Ellagic acid, Juglone (hull), Gallic acid, Tellimagrandin, Gamma-tocopherol, [Pedunculagin](/nighantu/glossary/compounds-o-q/#pedunculagin)
 
 ### Extraction Methods
 
@@ -99,7 +99,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akshotaka/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Brahmi](/ayurveda-atlas/herb/brahmi/) for cognitive support (synergistic neuroprotection)
-- With [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) for [adaptogenic](/ayurveda-atlas/reference/adaptogenic/) and brain health
-- With Kesar ([saffron](/ayurveda-atlas/herb/saffron/)) for mood and cognitive enhancement
-- With honey and ghee for [Rasayana](/ayurveda-atlas/reference/rasayana/) (rejuvenation) therapy
+- With [Brahmi](/nighantu/herb/brahmi/) for cognitive support (synergistic neuroprotection)
+- With [Ashwagandha](/nighantu/herb/ashwagandha/) for [adaptogenic](/nighantu/reference/adaptogenic/) and brain health
+- With Kesar ([saffron](/nighantu/herb/saffron/)) for mood and cognitive enhancement
+- With honey and ghee for [Rasayana](/nighantu/reference/rasayana/) (rejuvenation) therapy

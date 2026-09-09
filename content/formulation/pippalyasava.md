@@ -27,20 +27,20 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Pippaly
 
 ## Key Ingredients
 
-- [Pippali](/ayurveda-atlas/herb/pippali/) (Piper longum / Long pepper)
-- Maricha (Piper nigrum / [Black pepper](/ayurveda-atlas/herb/black-pepper/))
-- [Chavya](/ayurveda-atlas/herb/chavya/) (Piper cubeba)
-- [Haridra](/ayurveda-atlas/herb/haridra/) (Curcuma longa / [Turmeric](/ayurveda-atlas/herb/turmeric/))
+- [Pippali](/nighantu/herb/pippali/) (Piper longum / Long pepper)
+- Maricha (Piper nigrum / [Black pepper](/nighantu/herb/black-pepper/))
+- [Chavya](/nighantu/herb/chavya/) (Piper cubeba)
+- [Haridra](/nighantu/herb/haridra/) (Curcuma longa / [Turmeric](/nighantu/herb/turmeric/))
 - Chitraka (Plumbago zeylanica)
 - Musta (Cyperus rotundus)
-- [Vidanga](/ayurveda-atlas/herb/vidanga/) (Embelia ribes)
-- [Lodhra](/ayurveda-atlas/herb/lodhra/) (Symplocos racemosa)
+- [Vidanga](/nighantu/herb/vidanga/) (Embelia ribes)
+- [Lodhra](/nighantu/herb/lodhra/) (Symplocos racemosa)
 - Amalaki (Emblica officinalis)
 - Elaichi (Elettaria cardamomum)
-- [Ushira](/ayurveda-atlas/herb/ushira/) (Vetiveria zizanioides)
-- [Tagara](/ayurveda-atlas/herb/tagara/) (Valeriana wallichii)
-- [Dhataki](/ayurveda-atlas/herb/dhataki/) pushpa (Woodfordia fruticosa)
-- [Draksha](/ayurveda-atlas/herb/draksha/) (Vitis vinifera / Dry grapes)
+- [Ushira](/nighantu/herb/ushira/) (Vetiveria zizanioides)
+- [Tagara](/nighantu/herb/tagara/) (Valeriana wallichii)
+- [Dhataki](/nighantu/herb/dhataki/) pushpa (Woodfordia fruticosa)
+- [Draksha](/nighantu/herb/draksha/) (Vitis vinifera / Dry grapes)
 - Jaggery (fermentation medium)
 
 ## Where is it described in the classical texts?
@@ -49,9 +49,9 @@ Classical Ayurvedic texts under Sandhana Kalpana (fermented preparations). Refer
 
 ## How does it work?
 
-- Bioavailability enhancement by [piperine](/ayurveda-atlas/reference/piperine/) increases absorption of co-administered therapeutics by 30-200%
-- Agni (digestive fire) stimulation through [Trikatu](/ayurveda-atlas/herb/trikatu/) and Chitraka improves digestive and absorptive capacity
-- Bronchodilatory and [expectorant](/ayurveda-atlas/reference/expectorant/) action from [Pippali](/ayurveda-atlas/herb/pippali/) addresses respiratory conditions including cough and asthma
+- Bioavailability enhancement by [piperine](/nighantu/reference/piperine/) increases absorption of co-administered therapeutics by 30-200%
+- Agni (digestive fire) stimulation through [Trikatu](/nighantu/herb/trikatu/) and Chitraka improves digestive and absorptive capacity
+- Bronchodilatory and [expectorant](/nighantu/reference/expectorant/) action from [Pippali](/nighantu/herb/pippali/) addresses respiratory conditions including cough and asthma
 - Tridosha balancing through the multi-herb fermented formulation addresses broad-spectrum digestive and respiratory disorders
 
 ## Which traditional uses are supported by research?
@@ -63,9 +63,9 @@ Classical Ayurvedic texts under Sandhana Kalpana (fermented preparations). Refer
 
 ## What do recent clinical trials show?
 
-- **Analytical study on Pippalyasava composition** (2018): Published in JAIMS: comprehensive analysis confirmed the presence of piperine, curcuminoids, and [embelin](/ayurveda-atlas/glossary/compounds-d-g/#embelin) as key active constituents responsible for therapeutic effects.
+- **Analytical study on Pippalyasava composition** (2018): Published in JAIMS: comprehensive analysis confirmed the presence of piperine, curcuminoids, and [embelin](/nighantu/glossary/compounds-d-g/#embelin) as key active constituents responsible for therapeutic effects.
 - **Bioavailability enhancement by piperine in polyherbal formulations** (2020): Piperine significantly enhanced the bioavailability of co-administered phytochemicals by 30-200% through inhibition of hepatic and intestinal glucuronidation.
-- **Digestive and absorptive capacity enhancement by [Pippali](/ayurveda-atlas/herb/pippali/)-based Asavas** (2021): Clinical observation study showed improved Dhatwagni (tissue-level metabolic fire) and enhanced nutrient absorption in patients with malabsorption syndrome.
+- **Digestive and absorptive capacity enhancement by [Pippali](/nighantu/herb/pippali/)-based Asavas** (2021): Clinical observation study showed improved Dhatwagni (tissue-level metabolic fire) and enhanced nutrient absorption in patients with malabsorption syndrome.
 
 ## Recent safety updates
 
@@ -95,7 +95,7 @@ Classical Ayurvedic texts under Sandhana Kalpana (fermented preparations). Refer
 
 **Storage:** Room temperature, tightly sealed, away from direct sunlight. Do not refrigerate.
 
-**Marker Compounds:** Piperine, [Piperlongumine](/ayurveda-atlas/glossary/compounds-o-q/#piperlongumine)
+**Marker Compounds:** Piperine, [Piperlongumine](/nighantu/glossary/compounds-o-q/#piperlongumine)
 
 **Quality Parameters:** Alcohol content 5-12% v/v, pH 3.0-4.5, specific gravity 1.01-1.08, total solids 15-25%, marker: Piperine, Piperlongumine
 
@@ -103,4 +103,4 @@ Classical Ayurvedic texts under Sandhana Kalpana (fermented preparations). Refer
 
 ### Synergistic Combinations
 
-- Key herbs: [Pippali](/ayurveda-atlas/herb/pippali/), [Chavya](/ayurveda-atlas/herb/chavya/), Chitraka, [Dhataki](/ayurveda-atlas/herb/dhataki/); fermentation creates unique metabolite profile with enhanced therapeutic activity
+- Key herbs: [Pippali](/nighantu/herb/pippali/), [Chavya](/nighantu/herb/chavya/), Chitraka, [Dhataki](/nighantu/herb/dhataki/); fermentation creates unique metabolite profile with enhanced therapeutic activity

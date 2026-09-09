@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Souvarchala-Lavana/meta-analysis.
 
 | Language | Name |
 |----------|------|
-| English | [Souvarchala Lavana](/ayurveda-atlas/herb/souvarchala-lavana/) Sochal Salt Kala Namak |
+| English | [Souvarchala Lavana](/nighantu/herb/souvarchala-lavana/) Sochal Salt Kala Namak |
 
 ## Key Phytochemical Constituents
 
@@ -33,21 +33,21 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Souvarchala-Lavana/meta-analysis.
 - Hydrogen sulfide (H2S - volatile, gives egg-like odor)
 - Sodium bisulfate and sodium bisulfite
 - Iron compounds (Fe2+, Fe3+)
-- [Magnesium](/ayurveda-atlas/glossary/compounds-l-o/#magnesium) (trace)
-- [Potassium](/ayurveda-atlas/glossary/compounds-o-q/#potassium) (trace)
-- [Manganese](/ayurveda-atlas/glossary/compounds-l-o/#manganese) (trace)
+- [Magnesium](/nighantu/glossary/compounds-l-o/#magnesium) (trace)
+- [Potassium](/nighantu/glossary/compounds-o-q/#potassium) (trace)
+- [Manganese](/nighantu/glossary/compounds-l-o/#manganese) (trace)
 
 ## How does it work?
 
 - Digestive stimulant: Sulfur compounds stimulate bile production in liver and gastric acid secretion, enhancing overall digestive capacity and appetite
 - Anti-flatulent: Hydrogen sulfide at therapeutic doses modulates intestinal smooth muscle motility, reduces gas accumulation, and relieves abdominal heaviness
 - Mild anti-anemic: Iron sulfide provides bioavailable ferrous iron that can increase hemoglobin levels with regular dietary use
-- Srotoshodhana (channel clearing): Light, sharp, and hot qualities clear Kapha-obstructed channels; aromatic sulfur compounds have mild [expectorant](/ayurveda-atlas/reference/expectorant/) and decongestant properties
+- Srotoshodhana (channel clearing): Light, sharp, and hot qualities clear Kapha-obstructed channels; aromatic sulfur compounds have mild [expectorant](/nighantu/reference/expectorant/) and decongestant properties
 
 ## Which traditional uses are supported by research?
 
 - Gulma and Shula (abdominal tumor/colic pain): Bile-stimulating and smooth muscle-relaxing effects of sulfur compounds validate traditional use in abdominal pain and colic
-- Vibandha (constipation): Bile secretion enhancement and mild osmotic effect from mineral content support traditional [laxative](/ayurveda-atlas/reference/laxative/) indication
+- Vibandha (constipation): Bile secretion enhancement and mild osmotic effect from mineral content support traditional [laxative](/nighantu/reference/laxative/) indication
 - Pandu (anemia): Iron sulfide content providing bioavailable iron validates traditional use in anemia management as dietary supplement
 
 ## What do recent clinical trials show?

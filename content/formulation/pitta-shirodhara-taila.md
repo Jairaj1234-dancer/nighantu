@@ -30,15 +30,15 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Pitta-Shiro
 
 ## Key Ingredients
 
-- [Brahmi](/ayurveda-atlas/herb/brahmi/) (*Bacopa monnieri*) — medhya Rasayana, cool, composing
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) (*Tinospora cordifolia*) — tridoshaghna Rasayana, Pitta-shamaka
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) (*Asparagus racemosus*) — madhura, shita, snigdha
-- [Manjistha](/ayurveda-atlas/herb/manjistha/) (*Rubia cordifolia*) — rakta-prasadana, varnya
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) (*Glycyrrhiza glabra*) — madhura, shita, snigdha
+- [Brahmi](/nighantu/herb/brahmi/) (*Bacopa monnieri*) — medhya Rasayana, cool, composing
+- [Guduchi](/nighantu/herb/guduchi/) (*Tinospora cordifolia*) — tridoshaghna Rasayana, Pitta-shamaka
+- [Shatavari](/nighantu/herb/shatavari/) (*Asparagus racemosus*) — madhura, shita, snigdha
+- [Manjistha](/nighantu/herb/manjistha/) (*Rubia cordifolia*) — rakta-prasadana, varnya
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (*Glycyrrhiza glabra*) — madhura, shita, snigdha
 - Dhanyak (*Coriandrum sativum* — coriander) — shita-virya aromatic
-- [Nagarmotha](/ayurveda-atlas/herb/nagarmotha/) (*Cyperus rotundus*) — tikta-kashaya, shita-virya
+- [Nagarmotha](/nighantu/herb/nagarmotha/) (*Cyperus rotundus*) — tikta-kashaya, shita-virya
 - Lavender Oil (*Lavandula angustifolia*) — aromatic fraction for the shiro-dhara experience
-- [Tila Taila](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) (*Sesamum indicum* — sesame oil) — compounded as Pitta-tolerable base
+- [Tila Taila](/nighantu/glossary/concepts-m-y/#tila-taila) (*Sesamum indicum* — sesame oil) — compounded as Pitta-tolerable base
 - Sunflower Taila (*Helianthus annuus*) — light, cooling co-base
 
 ## Where is it described in the classical texts?

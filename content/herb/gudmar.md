@@ -30,7 +30,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Gudmar/meta-analysis.md
 - Gymnemic acids increase insulin secretion by stimulating Ca2+ influx through voltage-gated calcium channels and protein kinase activation, raising intracellular calcium.
 - Alternative mechanism: increases membrane porosity (disruption) and permeability of beta-cells, promoting insulin release independently of classical Ca2+ channel cascade.
 - Promotes regeneration of islet cells and increases number of pancreatic beta-cells and islets of Langerhans.
-- Increases utilization of [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose) by enhancing activities of [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes) responsible for insulin-dependent glucose utilization pathways.
+- Increases utilization of [glucose](/nighantu/glossary/compounds-d-g/#glucose) by enhancing activities of [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) responsible for insulin-dependent glucose utilization pathways.
 - Inhibits glucose absorption from intestine via gymnemic acid binding to intestinal receptors.
 - Gymnemic acids structurally mimic glucose molecules and compete for sweet taste receptors on the tongue, blocking sweet taste perception.
 
@@ -56,7 +56,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Gudmar/meta-analysis.md
 **Journal:** Clinical medicine (London, England) (2013)
 **PMID:** 23472485
 
-> This overview of systematic reviews (SRs) aims to evaluate critically the evidence regarding the adverse effects of herbal medicines (HMs). Five electronic databases were searched to identify all relevant SRs, with 50 SRs of 50 different HMs meeting our inclusion criteria. Most had only minor weaknesses in methods. Serious adverse effects were noted only for four HMs: Herbae pulvis standardisatus, Larrea tridentate, Piper methysticum and Cassia [senna](/ayurveda-atlas/herb/senna/). The most severe adverse effects were liver or kidney damage, colon perforation, carcinoma, coma and death. Moderately severe adverse effects were noted for 15 HMs: Pelargonium sidoides, Perna canaliculus, [Aloe vera](/ayurveda-atlas/herb/aloe-vera/), Mentha piperita, Medicago sativa, Cimicifuga racemosa, Caulophyllum thalictroides, Serenoa repens, Taraxacum officinale, Camelli...
+> This overview of systematic reviews (SRs) aims to evaluate critically the evidence regarding the adverse effects of herbal medicines (HMs). Five electronic databases were searched to identify all relevant SRs, with 50 SRs of 50 different HMs meeting our inclusion criteria. Most had only minor weaknesses in methods. Serious adverse effects were noted only for four HMs: Herbae pulvis standardisatus, Larrea tridentate, Piper methysticum and Cassia [senna](/nighantu/herb/senna/). The most severe adverse effects were liver or kidney damage, colon perforation, carcinoma, coma and death. Moderately severe adverse effects were noted for 15 HMs: Pelargonium sidoides, Perna canaliculus, [Aloe vera](/nighantu/herb/aloe-vera/), Mentha piperita, Medicago sativa, Cimicifuga racemosa, Caulophyllum thalictroides, Serenoa repens, Taraxacum officinale, Camelli...
 
 #### 3. The effect of Gymnema sylvestre supplementation on glycemic control in type 2 diabetes patients: A systematic review and meta-analysis.
 
@@ -89,7 +89,7 @@ METHODOLOGY: We performed a comparative study in 50 adult Mexican patients with 
 RESULTS: BBR significantly decreased (
 CONCLUSION: In patients with obesity, BBR has a better effect on body composition, blood pressure, and the gene expression of adipokines related to metabolic risk, while GS has a better effect on fasting glucose and adipokines related to insulin resistance, with minimal side effects....
 
-**Keywords:** Gymnema sylvestre, adipokine, apelin, [berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine), body composition, fasting glucose, gene expression, obesity, omentin, resistin
+**Keywords:** Gymnema sylvestre, adipokine, apelin, [berberine](/nighantu/glossary/compounds-a-c/#berberine), body composition, fasting glucose, gene expression, obesity, omentin, resistin
 
 #### 6. Gymnema sylvestre for Diabetes: From Traditional Herb to Future's Therapeutic.
 
@@ -114,7 +114,7 @@ CONCLUSION: In patients with obesity, BBR has a better effect on body compositio
 - **Systematic review and meta-analysis of Gymnema sylvestre supplementation on glycemic control in type 2 diabetes** (2021): Meta-analysis of 10 studies (419 participants) showed Gymnema sylvestre supplementation significantly reduces fasting blood glucose (FBG), postprandial blood glucose (PPBG), and glycated hemoglobin (HbA1c) compared to baseline.
 - **Efficacy of food supplement based on Gymnema sylvestre, Zea mays, Zinc and Chromium for carbohydrate metabolism** (2024): Monocentric RCT on 81 individuals with impaired fasting glucose (98-125 mg/dL) showed daily supplementation over 3 months led to highly significant reduction (p < 0.001) in FBG and HbA1c levels compared to placebo.
 - **14-day Gymnema sylvestre intervention to reduce sugar cravings in adults** (2022): Intervention with 4 mg Gymnema sylvestre containing 75% gymnemic acids plus fiber/vitamin supplement reduced sweet food intake and discretionary sugar consumption in free-living adults.
-- **Gymnema sylvestre as anti-inflammatory and anti-biofilm agent against anaerobic infections** (2025): First study to evaluate [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) activity of Gymnema sylvestre extract against planktonic culture and biofilms of anaerobic bacteria, expanding applications beyond traditional diabetes use.
+- **Gymnema sylvestre as anti-inflammatory and anti-biofilm agent against anaerobic infections** (2025): First study to evaluate [antimicrobial](/nighantu/reference/antimicrobial/) activity of Gymnema sylvestre extract against planktonic culture and biofilms of anaerobic bacteria, expanding applications beyond traditional diabetes use.
 - **Gymnema sylvestre extract protects pancreatic beta-cells from cytokine-induced apoptosis** (2020): Novel extract demonstrated protective effects on pancreatic beta-cells against cytokine-induced programmed cell death, supporting regenerative potential for diabetes management.
 
 ## Recent safety updates
@@ -141,7 +141,7 @@ CONCLUSION: In patients with obesity, BBR has a better effect on body compositio
 
 **Standard Dosage:** 3-6g leaf powder twice daily; 50-100ml decoction; 500mg standardized extract (25% gymnemic acids) twice daily; 400mg extract capsule 20 minutes before meals
 
-**Bioavailability:** Gymnema sylvestre leaves contain gymnemic acids (triterpenoid [saponins](/ayurveda-atlas/reference/saponins/)) as primary actives. Gymnemic acids have low to moderate oral bioavailability (10-20%) due to large molecular size and hydrophilicity. They act partially in the oral cavity (blocking sweet taste receptors) and in the GI tract (reducing glucose absorption through SGLT1 inhibition) - for these actions, local availability rather than systemic absorption is key. For systemic effects (pancreatic beta-cell regeneration), the absorbed fraction is relevant. Enhancement: deacylated gymnemic acid preparations; phospholipid complexation (Phytosome technology - GS Phytosome shows 5x improved absorption); nano-encapsulation; [piperine](/ayurveda-atlas/reference/piperine/) co-administration.
+**Bioavailability:** Gymnema sylvestre leaves contain gymnemic acids (triterpenoid [saponins](/nighantu/reference/saponins/)) as primary actives. Gymnemic acids have low to moderate oral bioavailability (10-20%) due to large molecular size and hydrophilicity. They act partially in the oral cavity (blocking sweet taste receptors) and in the GI tract (reducing glucose absorption through SGLT1 inhibition) - for these actions, local availability rather than systemic absorption is key. For systemic effects (pancreatic beta-cell regeneration), the absorbed fraction is relevant. Enhancement: deacylated gymnemic acid preparations; phospholipid complexation (Phytosome technology - GS Phytosome shows 5x improved absorption); nano-encapsulation; [piperine](/nighantu/reference/piperine/) co-administration.
 
 **Optimal Timing:** 20-30 minutes before meals (allows gymnemic acids to reach intestinal absorption sites before food glucose arrives); 1-2 tablets/capsules before each main meal; leaf chewing before meals in traditional practice
 
@@ -151,7 +151,7 @@ CONCLUSION: In patients with obesity, BBR has a better effect on body compositio
 
 **Storage:** Dried leaf and powder: airtight containers below 25 deg C, protected from moisture. Standardized extracts: moisture-proof packaging with desiccant. Gymnemic acids are relatively stable under normal storage conditions.
 
-**Marker Compounds:** Gymnemic acid I-XVIII (triterpenoid saponins), Gymnemasaponin I-V, Gymnemagenin (aglycone), Gurmarin (peptide, sweet-taste suppressor), Conduritol A, [Stigmasterol](/ayurveda-atlas/reference/stigmasterol/)
+**Marker Compounds:** Gymnemic acid I-XVIII (triterpenoid saponins), Gymnemasaponin I-V, Gymnemagenin (aglycone), Gurmarin (peptide, sweet-taste suppressor), Conduritol A, [Stigmasterol](/nighantu/reference/stigmasterol/)
 
 ### Extraction Methods
 
@@ -164,8 +164,8 @@ CONCLUSION: In patients with obesity, BBR has a better effect on body compositio
 ### Synergistic Combinations
 
 - With Meshashringi (same plant, Unani name) for anti-diabetic protocols
-- With [Karela](/ayurveda-atlas/herb/karela/) (Momordica) for synergistic hypoglycemic action
-- With [Daruharidra](/ayurveda-atlas/herb/daruharidra/) ([berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine)) for multi-target anti-diabetic formulation
-- With [Vijaysar](/ayurveda-atlas/herb/vijaysar/) (Pterocarpus) for comprehensive diabetes management
-- With [Methi](/ayurveda-atlas/herb/methi/) (fenugreek) for glycemic control through complementary mechanisms
-- With [Shilajit](/ayurveda-atlas/herb/shilajit/) for metabolic syndrome support
+- With [Karela](/nighantu/herb/karela/) (Momordica) for synergistic hypoglycemic action
+- With [Daruharidra](/nighantu/herb/daruharidra/) ([berberine](/nighantu/glossary/compounds-a-c/#berberine)) for multi-target anti-diabetic formulation
+- With [Vijaysar](/nighantu/herb/vijaysar/) (Pterocarpus) for comprehensive diabetes management
+- With [Methi](/nighantu/herb/methi/) (fenugreek) for glycemic control through complementary mechanisms
+- With [Shilajit](/nighantu/herb/shilajit/) for metabolic syndrome support

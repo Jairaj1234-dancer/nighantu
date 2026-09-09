@@ -30,37 +30,37 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Talisa/meta-analysis.md"
 
 - 1,4'-methoxyphenyl-aziridine (alkaloid)
 - Abiesin (biflavonoid)
-- Essential oils (alpha-pinene, beta-pinene, [limonene](/ayurveda-atlas/glossary/compounds-g-l/#limonene))
-- [Flavonoids](/ayurveda-atlas/reference/flavonoids/)
-- [Diterpenes](/ayurveda-atlas/glossary/compounds-d-g/#diterpenes)
-- [Steroids](/ayurveda-atlas/glossary/compounds-q-t/#steroids) (beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol))
+- Essential oils (alpha-pinene, beta-pinene, [limonene](/nighantu/glossary/compounds-g-l/#limonene))
+- [Flavonoids](/nighantu/reference/flavonoids/)
+- [Diterpenes](/nighantu/glossary/compounds-d-g/#diterpenes)
+- [Steroids](/nighantu/glossary/compounds-q-t/#steroids) (beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol))
 - Terpenes
 - Phenols
-- [Tannins](/ayurveda-atlas/reference/tannins/)
-- [Saponins](/ayurveda-atlas/reference/saponins/) and quinones
+- [Tannins](/nighantu/reference/tannins/)
+- [Saponins](/nighantu/reference/saponins/) and quinones
 
 ## How does it work?
 
 - Bronchodilatory mechanism through calcium channel antagonism causing relaxation of bronchial smooth muscle, combined with anti-inflammatory reduction of airway hyperreactivity
-- [Antispasmodic](/ayurveda-atlas/glossary/pharmacology/#antispasmodic) action through inhibition of smooth muscle contraction via calcium channel blocking, supporting both respiratory and gastrointestinal applications
+- [Antispasmodic](/nighantu/glossary/pharmacology/#antispasmodic) action through inhibition of smooth muscle contraction via calcium channel blocking, supporting both respiratory and gastrointestinal applications
 - Anti-platelet mechanism through inhibition of thromboxane synthesis and modulation of platelet aggregation pathways
 
 ## Which traditional uses are supported by research?
 
-- [Bronchodilator](/ayurveda-atlas/reference/bronchodilator/) and antitussive activity validated through pharmacological studies showing calcium channel-mediated smooth muscle relaxation, confirming use in Kasa (cough) and Shwasa (asthma)
+- [Bronchodilator](/nighantu/reference/bronchodilator/) and antitussive activity validated through pharmacological studies showing calcium channel-mediated smooth muscle relaxation, confirming use in Kasa (cough) and Shwasa (asthma)
 - Anti-inflammatory activity validated through in vivo models, supporting traditional use in respiratory inflammation
-- [Antipyretic](/ayurveda-atlas/reference/antipyretic/) activity supported by preclinical evidence, confirming traditional use in Jwara (fever)
+- [Antipyretic](/nighantu/reference/antipyretic/) activity supported by preclinical evidence, confirming traditional use in Jwara (fever)
 
 ## What do recent clinical trials show?
 
 - **Comprehensive Review on Talispatra (Abies webbiana)** (2024): Comprehensive review documenting the plant's ethnobotany, phytochemistry, and pharmacological properties, highlighting chemical composition including essential oils, flavonoids, and diterpenes contributing to its diverse therapeutic activities.
-- **Chemical Fingerprints of an Indian Traditional Herbal Drug [Talisapatra](/ayurveda-atlas/herb/talisapatra/) (Abies webbiana) and Comparison with English yew (Taxus baccata)** (2023): Established chemical fingerprinting methods to differentiate [Talisapatra](/ayurveda-atlas/herb/talisapatra/) from adulteration with Taxus baccata, identifying unique marker compounds for authentication.
+- **Chemical Fingerprints of an Indian Traditional Herbal Drug [Talisapatra](/nighantu/herb/talisapatra/) (Abies webbiana) and Comparison with English yew (Taxus baccata)** (2023): Established chemical fingerprinting methods to differentiate [Talisapatra](/nighantu/herb/talisapatra/) from adulteration with Taxus baccata, identifying unique marker compounds for authentication.
 - **Pharmacological Studies on the Antispasmodic, Bronchodilator and Anti-Platelet Activities of Abies webbiana** (2022): Demonstrated significant antispasmodic and bronchodilator activity supporting respiratory applications, along with anti-platelet effects mediated through calcium channel inhibition.
 
 ## Recent safety updates
 
-- Traditionally used at recommended Ayurvedic doses (1-3g powder, 50-100ml decoction) with no significant adverse effects documented; commonly used in respiratory formulations like [Talisadi Churna](/ayurveda-atlas/formulation/talisadi-churna/)
-- Potential for adulteration with Taxus baccata (yew), which contains toxic taxine [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids); proper botanical authentication is critical for safety
+- Traditionally used at recommended Ayurvedic doses (1-3g powder, 50-100ml decoction) with no significant adverse effects documented; commonly used in respiratory formulations like [Talisadi Churna](/nighantu/formulation/talisadi-churna/)
+- Potential for adulteration with Taxus baccata (yew), which contains toxic taxine [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids); proper botanical authentication is critical for safety
 
 ## What is it made of?
 
@@ -83,7 +83,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Talisa/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g of powder twice daily; 50-100 mL decoction twice daily
 
-**Bioavailability:** Moderate oral bioavailability; volatile terpenes (alpha-pinene, limonene) are rapidly absorbed from the GI tract but undergo significant first-pass hepatic metabolism. Co-administration with [piperine](/ayurveda-atlas/reference/piperine/) or lipid-based carriers can enhance systemic availability of non-volatile [terpenoids](/ayurveda-atlas/glossary/compounds-t-z/#terpenoids) by 30-40%.
+**Bioavailability:** Moderate oral bioavailability; volatile terpenes (alpha-pinene, limonene) are rapidly absorbed from the GI tract but undergo significant first-pass hepatic metabolism. Co-administration with [piperine](/nighantu/reference/piperine/) or lipid-based carriers can enhance systemic availability of non-volatile [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids) by 30-40%.
 
 **Optimal Timing:** After meals with warm water or honey for respiratory conditions; morning and evening administration recommended
 
@@ -93,7 +93,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Talisa/meta-analysis.md"
 
 **Storage:** Store in airtight, light-resistant containers at 15-25 deg C; protect from moisture and direct sunlight. Essential oil stored in amber glass bottles under nitrogen headspace.
 
-**Marker Compounds:** alpha-Pinene, beta-Pinene, Limonene, Bornyl acetate, [Camphene](/ayurveda-atlas/glossary/compounds-a-c/#camphene), delta-3-Carene, [Myrcene](/ayurveda-atlas/glossary/compounds-l-o/#myrcene)
+**Marker Compounds:** alpha-Pinene, beta-Pinene, Limonene, Bornyl acetate, [Camphene](/nighantu/glossary/compounds-a-c/#camphene), delta-3-Carene, [Myrcene](/nighantu/glossary/compounds-l-o/#myrcene)
 
 ### Extraction Methods
 
@@ -105,7 +105,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Talisa/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Pippali](/ayurveda-atlas/herb/pippali/) (Piper longum) - enhances respiratory bioactivity
-- Shunthi ([Zingiber](/ayurveda-atlas/herb/zingiber/) officinale) - synergistic bronchodilation
-- [Vasa](/ayurveda-atlas/herb/vasa/) (Adhatoda vasica) - complementary [expectorant](/ayurveda-atlas/reference/expectorant/) action
+- [Pippali](/nighantu/herb/pippali/) (Piper longum) - enhances respiratory bioactivity
+- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale) - synergistic bronchodilation
+- [Vasa](/nighantu/herb/vasa/) (Adhatoda vasica) - complementary [expectorant](/nighantu/reference/expectorant/) action
 - Honey as anupana - enhances mucolytic delivery

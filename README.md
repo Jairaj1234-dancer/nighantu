@@ -1,4 +1,4 @@
-# Ayurveda Atlas
+# Nighantu
 
 A static reference encyclopedia of Ayurvedic herbs, classical formulations and instruments,
 tracked links. It is deliberately separate from the Shopify storefront and never touches it.

@@ -28,19 +28,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Amlavetasa/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Garcinol](/ayurveda-atlas/glossary/compounds-d-g/#garcinol) (polyisoprenylated benzophenone)
+- [Garcinol](/nighantu/glossary/compounds-d-g/#garcinol) (polyisoprenylated benzophenone)
 - Hydroxycitric acid (HCA)
-- [Xanthones](/ayurveda-atlas/glossary/compounds-t-z/#xanthones) (mangostin derivatives)
+- [Xanthones](/nighantu/glossary/compounds-t-z/#xanthones) (mangostin derivatives)
 - Garpedunchromones A-C (new chromones, 2024)
 - Nujiangbiflavone A (new biflavonoid)
-- [Anthraquinones](/ayurveda-atlas/glossary/compounds-1-a/#anthraquinones) ([emodin](/ayurveda-atlas/glossary/compounds-d-g/#emodin), [chrysophanol](/ayurveda-atlas/glossary/compounds-c-d/#chrysophanol) - in Rheum emodi)
+- [Anthraquinones](/nighantu/glossary/compounds-1-a/#anthraquinones) ([emodin](/nighantu/glossary/compounds-d-g/#emodin), [chrysophanol](/nighantu/glossary/compounds-c-d/#chrysophanol) - in Rheum emodi)
 
 ## How does it work?
 
 - Anti-inflammatory activity through garcinol-mediated inhibition of NF-kB, COX-2, and 5-LOX pathways
 - Anti-obesity effect via hydroxycitric acid (HCA)-mediated inhibition of ATP-citrate lyase, blocking de novo fatty acid synthesis
-- [Hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) mechanism through [antioxidant](/ayurveda-atlas/reference/antioxidant/) enzyme restoration and anti-inflammatory action of xanthones and chromones
-- [Laxative](/ayurveda-atlas/reference/laxative/) effect (Rheum emodi) through anthraquinone-stimulated intestinal peristalsis
+- [Hepatoprotective](/nighantu/reference/hepatoprotective/) mechanism through [antioxidant](/nighantu/reference/antioxidant/) enzyme restoration and anti-inflammatory action of xanthones and chromones
+- [Laxative](/nighantu/reference/laxative/) effect (Rheum emodi) through anthraquinone-stimulated intestinal peristalsis
 
 ## Which traditional uses are supported by research?
 
@@ -52,8 +52,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Amlavetasa/meta-analysis.md"
 ## What do recent clinical trials show?
 
 - **Chromones and biflavonoids from Garcinia pedunculata and Garcinia nujiangensis** (2024): Isolated four new compounds (garpedunchromones A-C and nujiangbiflavone A) along with 15 known analogs; demonstrated significant anti-inflammatory activity of isolated compounds.
-- **The phytochemistry and pharmacology of three Rheum species: A comprehensive review with future perspectives** (2024): Comprehensive review on Rheum emodi documenting new compound isolation from both aerial parts and roots/rhizomes; highlighted anthraquinones and [stilbenes](/ayurveda-atlas/glossary/compounds-q-t/#stilbenes) as key bioactive classes.
-- **Medicinal and antioxidant activity of Garcinia pedunculata: a valuable underutilized fruit of Assam** (2023): Documented potent antioxidant activity along with antibacterial, antifungal, [antidiabetic](/ayurveda-atlas/reference/antidiabetic/), hepatoprotective, and [neuroprotective](/ayurveda-atlas/reference/neuroprotective/) properties of this underutilized fruit species.
+- **The phytochemistry and pharmacology of three Rheum species: A comprehensive review with future perspectives** (2024): Comprehensive review on Rheum emodi documenting new compound isolation from both aerial parts and roots/rhizomes; highlighted anthraquinones and [stilbenes](/nighantu/glossary/compounds-q-t/#stilbenes) as key bioactive classes.
+- **Medicinal and antioxidant activity of Garcinia pedunculata: a valuable underutilized fruit of Assam** (2023): Documented potent antioxidant activity along with antibacterial, antifungal, [antidiabetic](/nighantu/reference/antidiabetic/), hepatoprotective, and [neuroprotective](/nighantu/reference/neuroprotective/) properties of this underutilized fruit species.
 
 ## Recent safety updates
 
@@ -77,11 +77,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Amlavetasa/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Capsule, Tablet, Kashayam (decoction), Compound formulations ([Avipattikar](/ayurveda-atlas/herb/avipattikar/) churna component)
+**Dosage Forms:** Churna (powder), Capsule, Tablet, Kashayam (decoction), Compound formulations ([Avipattikar](/nighantu/herb/avipattikar/) churna component)
 
 **Standard Dosage:** 1-3g powder twice daily; 500mg extract capsule; as component in compound formulations per classical proportion
 
-**Bioavailability:** Good oral bioavailability. Garcinia pedunculata (or Rheum emodi in some traditions — identity debated). Hydroxycitric acid (HCA, if Garcinia) is water-soluble with good absorption (60-70% oral bioavailability). Anthraquinones (if Rheum) are absorbed and undergo extensive hepatic metabolism. Traditional use with [Saindhava lavana](/ayurveda-atlas/herb/saindhava-lavana/) enhances absorption.
+**Bioavailability:** Good oral bioavailability. Garcinia pedunculata (or Rheum emodi in some traditions — identity debated). Hydroxycitric acid (HCA, if Garcinia) is water-soluble with good absorption (60-70% oral bioavailability). Anthraquinones (if Rheum) are absorbed and undergo extensive hepatic metabolism. Traditional use with [Saindhava lavana](/nighantu/herb/saindhava-lavana/) enhances absorption.
 
 **Optimal Timing:** Before meals with warm water for hyperacidity; after meals for digestive support
 
@@ -91,7 +91,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Amlavetasa/meta-analysis.md"
 
 **Storage:** Cool, dry place below 25°C. Highly hygroscopic — use moisture-barrier packaging with desiccant. Protect from light.
 
-**Marker Compounds:** Hydroxycitric acid (Garcinia), Emodin (Rheum), Chrysophanol (Rheum), [Citric acid](/ayurveda-atlas/glossary/compounds-c-d/#citric-acidcitric-acid), Malic acid, Tartaric acid
+**Marker Compounds:** Hydroxycitric acid (Garcinia), Emodin (Rheum), Chrysophanol (Rheum), [Citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid), Malic acid, Tartaric acid
 
 ### Extraction Methods
 
@@ -104,5 +104,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Amlavetasa/meta-analysis.md"
 
 - Part of Avipattikar Churna for acid dyspepsia
 - With Ela (cardamom) for digestive comfort
-- With [Draksha](/ayurveda-atlas/herb/draksha/) (raisins) for mild laxative action
-- With Sunthi for [Amla](/ayurveda-atlas/herb/amla/) Pitta (hyperacidity)
+- With [Draksha](/nighantu/herb/draksha/) (raisins) for mild laxative action
+- With Sunthi for [Amla](/nighantu/herb/amla/) Pitta (hyperacidity)

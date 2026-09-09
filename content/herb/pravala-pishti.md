@@ -23,13 +23,13 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Pravala-Pishti/meta-
 
 | Language | Name |
 |----------|------|
-| English | [Pravala Pishti](/ayurveda-atlas/herb/pravala-pishti/) |
+| English | [Pravala Pishti](/nighantu/herb/pravala-pishti/) |
 
 ## How does it work?
 
 - Calcium supplementation: CaCO3 from coral provides bioavailable calcium for bone mineralization; the marine-derived form may have superior absorption compared to geological calcium carbonate due to trace mineral co-factors
 - Acid-neutralizing antacid: Calcium carbonate directly neutralizes excess gastric HCl, providing rapid relief from hyperacidity - mechanistically identical to pharmaceutical antacids
-- Pitta-pacifying and [hemostatic](/ayurveda-atlas/glossary/pharmacology/#hemostatic): The cooling property reduces Pitta-related bleeding disorders; calcium is essential for the coagulation cascade, supporting the traditional use in bleeding conditions
+- Pitta-pacifying and [hemostatic](/nighantu/glossary/pharmacology/#hemostatic): The cooling property reduces Pitta-related bleeding disorders; calcium is essential for the coagulation cascade, supporting the traditional use in bleeding conditions
 
 ## Which traditional uses are supported by research?
 
@@ -39,11 +39,11 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Pravala-Pishti/meta-
 ## What do recent clinical trials show?
 
 - **Effect of Praval Bhasma (Coral calx), a natural source of rich calcium on bone mineralization in rats** (2003): Praval Bhasma was effective in the prevention of calcium and estrogen deficit bone loss in experimental models, supporting its use as a natural calcium supplement for bone health.
-- **Clinical Efficacy and Safety of [Ashokarishta](/ayurveda-atlas/formulation/ashokarishta/), Ashvagandha Churna and [Pravala Pishti](/ayurveda-atlas/herb/pravala-pishti/) in the Management of Menopausal Syndrome** (2020): Multicenter open-label study across 9 centers with 359 menopausal women found that a combination including [Pravala Pishti](/ayurveda-atlas/herb/pravala-pishti/) was effective and safe for managing menopausal symptoms including bone density concerns and calcium deficiency.
+- **Clinical Efficacy and Safety of [Ashokarishta](/nighantu/formulation/ashokarishta/), Ashvagandha Churna and [Pravala Pishti](/nighantu/herb/pravala-pishti/) in the Management of Menopausal Syndrome** (2020): Multicenter open-label study across 9 centers with 359 menopausal women found that a combination including [Pravala Pishti](/nighantu/herb/pravala-pishti/) was effective and safe for managing menopausal symptoms including bone density concerns and calcium deficiency.
 
 ## Recent safety updates
 
-- GENERALLY SAFE: Like [Mukta Pishti](/ayurveda-atlas/herb/mukta-pishti/), [Pravala Pishti](/ayurveda-atlas/herb/pravala-pishti/) is a non-toxic mineral preparation containing no heavy metals when properly prepared - essentially a natural coral calcium supplement
+- GENERALLY SAFE: Like [Mukta Pishti](/nighantu/herb/mukta-pishti/), [Pravala Pishti](/nighantu/herb/pravala-pishti/) is a non-toxic mineral preparation containing no heavy metals when properly prepared - essentially a natural coral calcium supplement
 - Dose-dependent side effects: Excess intake (>2500 mg/day) can cause abdominal distension, flatulence, loss of appetite, and risk of kidney stone formation due to hypercalcemia
 - Environmental concern: Coral harvesting raises ecological sustainability questions; sourcing from sustainable or cultivated coral stocks is recommended
 - Quality control: Marine-derived products should be tested for marine pollutants, microbiological contamination, and heavy metal residues; GMP-certified sourcing essential
@@ -74,7 +74,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Pravala-Pishti/meta-
 
 **Storage:** Airtight, dry container
 
-**Marker Compounds:** Calcium carbonate (85–90%), [Magnesium](/ayurveda-atlas/glossary/compounds-l-o/#magnesium) (2–3%), [Strontium](/ayurveda-atlas/glossary/compounds-q-t/#strontium), Iron, Trace elements (70+ from marine origin)
+**Marker Compounds:** Calcium carbonate (85–90%), [Magnesium](/nighantu/glossary/compounds-l-o/#magnesium) (2–3%), [Strontium](/nighantu/glossary/compounds-q-t/#strontium), Iron, Trace elements (70+ from marine origin)
 
 **Quality Parameters:** Calcium >30%, magnesium >1%, standard pishti tests, coral authentication (not synthetic), marine pollutant screening
 

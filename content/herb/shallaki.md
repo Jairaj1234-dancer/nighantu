@@ -41,7 +41,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shallaki/meta-analysis.md"
 
 - Anti-inflammatory: AKBA is a potent direct inhibitor of 5-lipoxygenase (5-LOX), blocking leukotriene synthesis; also inhibits NF-kB, COX-2, MAPK, and NLRP3 inflammasome
 - Anti-arthritic: Boswellic acids inhibit MMP-3 and MMP-9 (matrix metalloproteinases), protecting cartilage from enzymatic degradation in osteoarthritis
-- [Immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/): Modulates T-cell and B-cell function, shifts Th1/Th2 balance, and reduces autoimmune inflammatory cascades
+- [Immunomodulatory](/nighantu/reference/immunomodulatory/): Modulates T-cell and B-cell function, shifts Th1/Th2 balance, and reduces autoimmune inflammatory cascades
 
 ## Which traditional uses are supported by research?
 
@@ -75,11 +75,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shallaki/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Capsule, Tablet, Cream/Gel (topical), Churna (powder), [Guggulu](/ayurveda-atlas/formulation/guggulu/)-based formulation, Vati (tablet), Soft gelatin capsule
+**Dosage Forms:** Capsule, Tablet, Cream/Gel (topical), Churna (powder), [Guggulu](/nighantu/formulation/guggulu/)-based formulation, Vati (tablet), Soft gelatin capsule
 
 **Standard Dosage:** 400-1200 mg standardized extract per day (typically 300-400 mg three times daily); 3-6 g crude resin powder per day; topical gel 5-10% applied 2-3 times daily
 
-**Bioavailability:** Boswellic acids have poor oral bioavailability (5-10%) due to low aqueous solubility and extensive first-pass metabolism. AKBA (acetyl-11-keto-beta-boswellic acid) is the most potent but least bioavailable constituent. Bioavailability enhanced 3-5x by: (1) phospholipid complexation (Phytosome/Bospure), (2) lecithin-based formulations, (3) co-administration with high-fat meal, (4) nano-emulsion formulations, (5) [piperine](/ayurveda-atlas/reference/piperine/) co-administration (1.5-2x enhancement). Casperome (lecithin-based delivery) achieves 52% higher plasma levels.
+**Bioavailability:** Boswellic acids have poor oral bioavailability (5-10%) due to low aqueous solubility and extensive first-pass metabolism. AKBA (acetyl-11-keto-beta-boswellic acid) is the most potent but least bioavailable constituent. Bioavailability enhanced 3-5x by: (1) phospholipid complexation (Phytosome/Bospure), (2) lecithin-based formulations, (3) co-administration with high-fat meal, (4) nano-emulsion formulations, (5) [piperine](/nighantu/reference/piperine/) co-administration (1.5-2x enhancement). Casperome (lecithin-based delivery) achieves 52% higher plasma levels.
 
 **Optimal Timing:** With meals (high-fat meal preferred) for optimal boswellic acid absorption; three divided doses for sustained anti-inflammatory effect
 
@@ -100,8 +100,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shallaki/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Curcumin](/ayurveda-atlas/herb/curcumin/)/[Haridra](/ayurveda-atlas/herb/haridra/) (potent anti-inflammatory synergy — clinically validated for osteoarthritis)
-- [Guggulu](/ayurveda-atlas/formulation/guggulu/) (joint health formulations)
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) (musculoskeletal support)
-- [Nirgundi](/ayurveda-atlas/herb/nirgundi/) (pain management formulations)
+- [Curcumin](/nighantu/herb/curcumin/)/[Haridra](/nighantu/herb/haridra/) (potent anti-inflammatory synergy — clinically validated for osteoarthritis)
+- [Guggulu](/nighantu/formulation/guggulu/) (joint health formulations)
+- [Ashwagandha](/nighantu/herb/ashwagandha/) (musculoskeletal support)
+- [Nirgundi](/nighantu/herb/nirgundi/) (pain management formulations)
 - Glucosamine + Chondroitin (comprehensive joint support nutraceutical)

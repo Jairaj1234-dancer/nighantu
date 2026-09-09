@@ -30,31 +30,31 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lavali/meta-analysis.md"
 
 - Ursolic acid
 - Oleanolic acid
-- [Lupeol](/ayurveda-atlas/reference/lupeol/)
-- [Betulin](/ayurveda-atlas/glossary/compounds-a-c/#betulin)
-- [Scopoletin](/ayurveda-atlas/glossary/compounds-q-t/#scopoletin)
+- [Lupeol](/nighantu/reference/lupeol/)
+- [Betulin](/nighantu/glossary/compounds-a-c/#betulin)
+- [Scopoletin](/nighantu/glossary/compounds-q-t/#scopoletin)
 - Phloroglucinol
 - Secoxyloganin
 - Iron (Fe)
 - Zinc (Zn)
-- [Tannins](/ayurveda-atlas/reference/tannins/)
+- [Tannins](/nighantu/reference/tannins/)
 
 ## How does it work?
 
 - Ursolic acid and oleanolic acid exhibit anti-inflammatory activity through inhibition of NF-kB pathway, suppression of COX-2/iNOS expression, and reduction of pro-inflammatory cytokine production
-- Scopoletin exerts [antidiabetic](/ayurveda-atlas/reference/antidiabetic/) effects through inhibition of alpha-glucosidase and aldose reductase [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes), reducing postprandial hyperglycemia and diabetic complications
-- Lupeol and betulin demonstrate [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) effects by enhancing [antioxidant](/ayurveda-atlas/reference/antioxidant/) enzyme activity (SOD, catalase, GPx) and reducing lipid peroxidation in hepatocytes
+- Scopoletin exerts [antidiabetic](/nighantu/reference/antidiabetic/) effects through inhibition of alpha-glucosidase and aldose reductase [enzymes](/nighantu/glossary/compounds-d-g/#enzymes), reducing postprandial hyperglycemia and diabetic complications
+- Lupeol and betulin demonstrate [hepatoprotective](/nighantu/reference/hepatoprotective/) effects by enhancing [antioxidant](/nighantu/reference/antioxidant/) enzyme activity (SOD, catalase, GPx) and reducing lipid peroxidation in hepatocytes
 
 ## Which traditional uses are supported by research?
 
 - Antidiabetic and antihyperglycemic activity partially validated through preliminary pharmacological studies supporting traditional tribal use for diabetes management
-- [Antimicrobial](/ayurveda-atlas/reference/antimicrobial/) properties confirmed in vitro against bacterial and fungal pathogens, supporting traditional use for treating dysentery and skin infections in folk medicine
+- [Antimicrobial](/nighantu/reference/antimicrobial/) properties confirmed in vitro against bacterial and fungal pathogens, supporting traditional use for treating dysentery and skin infections in folk medicine
 
 ## What do recent clinical trials show?
 
 - **PHYTOCHEMICAL PROFILING, ASSESSMENT OF TOTAL PHENOLIC CONTENT, TOTAL FLAVONOID CONTENT, AND ANTIOXIDANT ACTIVITY OF ETHNOMEDICINAL PLANT, MEYNA SPINOSA FROM ASSAM** (2024): Phytochemical profiling revealed significant total phenolic and flavonoid content with potent antioxidant activity in extracts from Assam-sourced M. spinosa, supporting its ethnomedicinal applications.
 - **A Review on Meyna spinosa Roxb. ex Link** (2023): Comprehensive review documenting antimicrobial, antioxidant, cytotoxic, antidiabetic, nephroprotective, and hepatoprotective potential, noting the plant remains significantly under-researched.
-- **A review on phytochemistry and pharmacology of an unexplored ethnomedicinal plant: Meyna spinosa Roxb. Ex** (2022): Chemical analysis by HRMS and AAS identified [triterpenes](/ayurveda-atlas/glossary/compounds-t-z/#triterpenes) (ursolic acid, oleanolic acid, lupeol, betulin), [coumarins](/ayurveda-atlas/glossary/compounds-c-d/#coumarins) (scopoletin), and essential microelements (iron, copper, zinc, [manganese](/ayurveda-atlas/glossary/compounds-l-o/#manganese)).
+- **A review on phytochemistry and pharmacology of an unexplored ethnomedicinal plant: Meyna spinosa Roxb. Ex** (2022): Chemical analysis by HRMS and AAS identified [triterpenes](/nighantu/glossary/compounds-t-z/#triterpenes) (ursolic acid, oleanolic acid, lupeol, betulin), [coumarins](/nighantu/glossary/compounds-c-d/#coumarins) (scopoletin), and essential microelements (iron, copper, zinc, [manganese](/nighantu/glossary/compounds-l-o/#manganese)).
 
 ## Recent safety updates
 
@@ -77,7 +77,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lavali/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g fruit powder per day; 50-100 mL decoction twice daily; 10-20 mL fresh juice
 
-**Bioavailability:** Moderate bioavailability of phenolic compounds and organic acids. Ascorbic acid and [flavonoids](/ayurveda-atlas/reference/flavonoids/) show reasonable GI absorption. Oxalic acid content may interfere with mineral absorption. [Anthocyanins](/ayurveda-atlas/glossary/compounds-1-a/#anthocyanins) (in ripe fruit) show limited but significant systemic availability.
+**Bioavailability:** Moderate bioavailability of phenolic compounds and organic acids. Ascorbic acid and [flavonoids](/nighantu/reference/flavonoids/) show reasonable GI absorption. Oxalic acid content may interfere with mineral absorption. [Anthocyanins](/nighantu/glossary/compounds-1-a/#anthocyanins) (in ripe fruit) show limited but significant systemic availability.
 
 **Optimal Timing:** Between meals for digestive benefits; morning for nutritive supplementation; avoid in patients with kidney disorders
 
@@ -87,7 +87,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lavali/meta-analysis.md"
 
 **Storage:** Fresh fruit at 5-10 deg C. Dried extracts in airtight, moisture-proof containers below 25 deg C with desiccant. Protect from light to preserve vitamin C content. Nitrogen-flush packaging recommended.
 
-**Marker Compounds:** Ascorbic acid, Oxalic acid, Gallic acid, [Epicatechin](/ayurveda-atlas/glossary/compounds-d-g/#epicatechin), [Proanthocyanidins](/ayurveda-atlas/glossary/compounds-o-q/#proanthocyanidins), [Saponins](/ayurveda-atlas/reference/saponins/), Caramboxin
+**Marker Compounds:** Ascorbic acid, Oxalic acid, Gallic acid, [Epicatechin](/nighantu/glossary/compounds-d-g/#epicatechin), [Proanthocyanidins](/nighantu/glossary/compounds-o-q/#proanthocyanidins), [Saponins](/nighantu/reference/saponins/), Caramboxin
 
 ### Extraction Methods
 
@@ -100,6 +100,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lavali/meta-analysis.md"
 ### Synergistic Combinations
 
 - Amalaki (synergistic vitamin C and antioxidant effect)
-- [Haritaki](/ayurveda-atlas/herb/haritaki/) (digestive and Tridosha balancing)
-- [Draksha](/ayurveda-atlas/herb/draksha/) (nutritive and blood-building combination)
-- [Pippali](/ayurveda-atlas/herb/pippali/) (bioenhancement of phenolic absorption)
+- [Haritaki](/nighantu/herb/haritaki/) (digestive and Tridosha balancing)
+- [Draksha](/nighantu/herb/draksha/) (nutritive and blood-building combination)
+- [Pippali](/nighantu/herb/pippali/) (bioenhancement of phenolic absorption)

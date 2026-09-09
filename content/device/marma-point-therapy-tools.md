@@ -31,7 +31,7 @@ Stimulation of Marma points for pain relief, energy balancing, muscle relaxation
 
 ## Traditional materials
 
-- Sandalwood sticks ([Chandana](/ayurveda-atlas/herb/chandana/) Danda)
+- Sandalwood sticks ([Chandana](/nighantu/herb/chandana/) Danda)
 - Ivory points (historical)
 - Metal-tipped probes
 - Therapist's fingers and thumbs

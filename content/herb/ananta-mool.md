@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Ananta-Mool/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | [Ananta Mool](/ayurveda-atlas/herb/ananta-mool/) |
+| English | [Ananta Mool](/nighantu/herb/ananta-mool/) |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Ananta-Mool/meta-analysis.md"
 
 **Standard Dosage:** 3-6g root powder twice daily; 50-100ml decoction; 500mg-1g extract capsule; 15-30ml syrup
 
-**Bioavailability:** Moderate oral bioavailability. Hemidesmus indicus (Indian Sarsaparilla) root contains 2-hydroxy-4-methoxybenzaldehyde as the primary aromatic compound with good GI absorption. Hemidesminine and other steroidal [saponins](/ayurveda-atlas/reference/saponins/) show moderate bioavailability. The pleasant aroma indicates volatile compound availability. [Coumarins](/ayurveda-atlas/glossary/compounds-c-d/#coumarins) are well absorbed. Milk or water as anupana recommended.
+**Bioavailability:** Moderate oral bioavailability. Hemidesmus indicus (Indian Sarsaparilla) root contains 2-hydroxy-4-methoxybenzaldehyde as the primary aromatic compound with good GI absorption. Hemidesminine and other steroidal [saponins](/nighantu/reference/saponins/) show moderate bioavailability. The pleasant aroma indicates volatile compound availability. [Coumarins](/nighantu/glossary/compounds-c-d/#coumarins) are well absorbed. Milk or water as anupana recommended.
 
 **Optimal Timing:** Between meals with cool water or milk for Pitta conditions; before meals with warm water for digestive and blood purification
 
@@ -59,20 +59,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Ananta-Mool/meta-analysis.md"
 
 **Storage:** Cool, dry place below 25°C. Root retains aroma better when stored whole — powder closer to use. Airtight containers essential to prevent volatile loss.
 
-**Marker Compounds:** 2-Hydroxy-4-methoxybenzaldehyde, Hemidesminine, Hemidesmin-1, Hemidesmin-2, Coumarins, [Lupeol](/ayurveda-atlas/reference/lupeol/), Alpha-amyrin, Hexadecanoic acid
+**Marker Compounds:** 2-Hydroxy-4-methoxybenzaldehyde, Hemidesminine, Hemidesmin-1, Hemidesmin-2, Coumarins, [Lupeol](/nighantu/reference/lupeol/), Alpha-amyrin, Hexadecanoic acid
 
 ### Extraction Methods
 
 - Aqueous decoction (1:8, reduced to 1/4)
-- Hydroalcoholic extraction (70:30) for saponin and [coumarin](/ayurveda-atlas/glossary/compounds-c-d/#coumarin) enrichment
+- Hydroalcoholic extraction (70:30) for saponin and [coumarin](/nighantu/glossary/compounds-c-d/#coumarin) enrichment
 - Steam distillation for aromatic fraction (2-hydroxy-4-methoxybenzaldehyde)
 - Cold maceration in water for sherbet preparation
 - Fermentation for Arishta
 
 ### Synergistic Combinations
 
-- With [Sariva](/ayurveda-atlas/herb/sariva/) (often considered synonymous in some texts) for blood purification
-- With [Manjistha](/ayurveda-atlas/herb/manjistha/) for skin disorders and blood purification
-- With [Chandana](/ayurveda-atlas/herb/chandana/) (sandalwood) for urinary tract cooling
-- With [Ushira](/ayurveda-atlas/herb/ushira/) (vetiver) for cooling and Pitta pacification
-- With [Guduchi](/ayurveda-atlas/herb/guduchi/) for immune modulation and fever
+- With [Sariva](/nighantu/herb/sariva/) (often considered synonymous in some texts) for blood purification
+- With [Manjistha](/nighantu/herb/manjistha/) for skin disorders and blood purification
+- With [Chandana](/nighantu/herb/chandana/) (sandalwood) for urinary tract cooling
+- With [Ushira](/nighantu/herb/ushira/) (vetiver) for cooling and Pitta pacification
+- With [Guduchi](/nighantu/herb/guduchi/) for immune modulation and fever

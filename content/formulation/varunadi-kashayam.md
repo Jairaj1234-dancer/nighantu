@@ -23,17 +23,17 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Varunadi-Kas
 
 | Language | Name |
 |----------|------|
-| English | [Varunadi Kashayam](/ayurveda-atlas/formulation/varunadi-kashayam/) |
+| English | [Varunadi Kashayam](/nighantu/formulation/varunadi-kashayam/) |
 
 ## Key Ingredients
 
-- [Varuna](/ayurveda-atlas/herb/varuna/) (Crataeva nurvala)
-- [Gokshura](/ayurveda-atlas/herb/gokshura/) (Tribulus terrestris)
-- Shunthi ([Zingiber](/ayurveda-atlas/herb/zingiber/) officinale)
-- [Yavakshara](/ayurveda-atlas/herb/yavakshara/) (Barley alkali)
-- Aerua lanata ([Pashanabheda](/ayurveda-atlas/herb/pashanabheda/))
+- [Varuna](/nighantu/herb/varuna/) (Crataeva nurvala)
+- [Gokshura](/nighantu/herb/gokshura/) (Tribulus terrestris)
+- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale)
+- [Yavakshara](/nighantu/herb/yavakshara/) (Barley alkali)
+- Aerua lanata ([Pashanabheda](/nighantu/herb/pashanabheda/))
 - Darbha (Desmostachya bipinnata)
-- Pathya/[Haritaki](/ayurveda-atlas/herb/haritaki/) (Terminalia chebula)
+- Pathya/[Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula)
 - Bilwa (Aegle marmelos)
 
 ## Where is it described in the classical texts?
@@ -42,8 +42,8 @@ Chakradutta. Also referenced in Sushruta Samhita and Bhaishajya Ratnavali for Mu
 
 ## How does it work?
 
-- Lithotriptic action of [Varuna](/ayurveda-atlas/herb/varuna/) and Aerua lanata breaks down urinary stones into small pieces for easy expulsion
-- Potent [diuretic](/ayurveda-atlas/reference/diuretic/) effect increases urine output, flushing kidneys and bladder to aid stone passage
+- Lithotriptic action of [Varuna](/nighantu/herb/varuna/) and Aerua lanata breaks down urinary stones into small pieces for easy expulsion
+- Potent [diuretic](/nighantu/reference/diuretic/) effect increases urine output, flushing kidneys and bladder to aid stone passage
 - Anti-inflammatory activity inhibits pro-inflammatory cytokines, reducing urinary tract and renal inflammation
 - Anti-obesity and lipid-lowering effects through inhibition of adipogenic regulators in visceral adipose tissue
 
@@ -57,7 +57,7 @@ Chakradutta. Also referenced in Sushruta Samhita and Bhaishajya Ratnavali for Mu
 ## What do recent clinical trials show?
 
 - **Anti-inflammatory effect of Varanadi Kashayam in THP-1-derived macrophages** (2019): PMC-published study demonstrated significant anti-inflammatory effects through inhibition of pro-inflammatory cytokines in THP-1 macrophage cell lines.
-- **Anti-obesity and lipid-lowering effects of Varanadi Kashayam** (2020): High-fat-diet-induced obese rats showed significantly reduced body weight gain, visceral fat mass, and serum lipid levels with [Varunadi kashayam](/ayurveda-atlas/formulation/varunadi-kashayam/) supplementation.
+- **Anti-obesity and lipid-lowering effects of Varanadi Kashayam** (2020): High-fat-diet-induced obese rats showed significantly reduced body weight gain, visceral fat mass, and serum lipid levels with [Varunadi kashayam](/nighantu/formulation/varunadi-kashayam/) supplementation.
 - **Drug Review on Varunadi Kashaya for Mutrashmari (Urolithiasis)** (2024): Comprehensive review confirmed diuretic, lithotriptic, anti-calculus, anti-inflammatory, and antiurolithiatic properties with Ruksha, Snigdha, and Laghu Guna dominance.
 
 ## Recent safety updates
@@ -88,7 +88,7 @@ Chakradutta. Also referenced in Sushruta Samhita and Bhaishajya Ratnavali for Mu
 
 **Storage:** Fresh: refrigerate, use within 24h. Tablet/liquid: cool dry place, airtight
 
-**Marker Compounds:** [Lupeol](/ayurveda-atlas/reference/lupeol/), Punarnavine, [Protodioscin](/ayurveda-atlas/glossary/compounds-o-q/#protodioscin)
+**Marker Compounds:** [Lupeol](/nighantu/reference/lupeol/), Punarnavine, [Protodioscin](/nighantu/glossary/compounds-o-q/#protodioscin)
 
 **Quality Parameters:** pH 4.0-6.5, specific gravity 1.01-1.05, total solids 2-8%, marker assay: Lupeol, Punarnavine, Protodioscin
 
@@ -96,4 +96,4 @@ Chakradutta. Also referenced in Sushruta Samhita and Bhaishajya Ratnavali for Mu
 
 ### Synergistic Combinations
 
-- Classical combination of [Varuna](/ayurveda-atlas/herb/varuna/) (Crataeva nurvala), [Punarnava](/ayurveda-atlas/herb/punarnava/), [Gokshura](/ayurveda-atlas/herb/gokshura/) provides synergistic therapeutic effect
+- Classical combination of [Varuna](/nighantu/herb/varuna/) (Crataeva nurvala), [Punarnava](/nighantu/herb/punarnava/), [Gokshura](/nighantu/herb/gokshura/) provides synergistic therapeutic effect

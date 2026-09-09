@@ -29,21 +29,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kshavaka/meta-analysis.md"
 ## Key Phytochemical Constituents
 
 - Amaranthine (betacyanin pigment)
-- Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
-- [Stigmasterol](/ayurveda-atlas/reference/stigmasterol/)
+- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- [Stigmasterol](/nighantu/reference/stigmasterol/)
 - Linoleic acid
-- [Rutin](/ayurveda-atlas/glossary/compounds-q-t/#rutin)
-- [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/)
-- [Kaempferol](/ayurveda-atlas/reference/kaempferol/) [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides)
+- [Rutin](/nighantu/glossary/compounds-q-t/#rutin)
+- [Quercetin](/nighantu/reference/quercetinquercetin/)
+- [Kaempferol](/nighantu/reference/kaempferol/) [glycosides](/nighantu/glossary/compounds-g-l/#glycosides)
 - Betalains
 - Hydroxycinnamates
-- [Saponins](/ayurveda-atlas/reference/saponins/)
+- [Saponins](/nighantu/reference/saponins/)
 
 ## How does it work?
 
-- Amaranthine and betalain pigments exert [antioxidant](/ayurveda-atlas/reference/antioxidant/) effects through electron donation and metal chelation, protecting cellular membranes from lipid peroxidation-induced damage
-- Rutin and [quercetin](/ayurveda-atlas/reference/quercetinquercetin/) glycosides inhibit COX-2, LOX, and phospholipase A2, reducing prostaglandin and leukotriene synthesis for anti-inflammatory and [analgesic](/ayurveda-atlas/reference/analgesic/) effects
-- Saponins exhibit [diuretic](/ayurveda-atlas/reference/diuretic/) activity through inhibition of renal tubular sodium reabsorption, increasing urine output and supporting traditional use for urinary disorders
+- Amaranthine and betalain pigments exert [antioxidant](/nighantu/reference/antioxidant/) effects through electron donation and metal chelation, protecting cellular membranes from lipid peroxidation-induced damage
+- Rutin and [quercetin](/nighantu/reference/quercetinquercetin/) glycosides inhibit COX-2, LOX, and phospholipase A2, reducing prostaglandin and leukotriene synthesis for anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) effects
+- Saponins exhibit [diuretic](/nighantu/reference/diuretic/) activity through inhibition of renal tubular sodium reabsorption, increasing urine output and supporting traditional use for urinary disorders
 
 ## Which traditional uses are supported by research?
 
@@ -52,9 +52,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kshavaka/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Amaranthus spinosus: Phytochemical and pharmacological review with emphasis on anti-inflammatory potential** (2023): Documented anti-inflammatory, antioxidant, diuretic, [antimicrobial](/ayurveda-atlas/reference/antimicrobial/), [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/), and [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) activities linked to betalain pigments and flavonoid glycosides.
+- **Amaranthus spinosus: Phytochemical and pharmacological review with emphasis on anti-inflammatory potential** (2023): Documented anti-inflammatory, antioxidant, diuretic, [antimicrobial](/nighantu/reference/antimicrobial/), [hepatoprotective](/nighantu/reference/hepatoprotective/), and [immunomodulatory](/nighantu/reference/immunomodulatory/) activities linked to betalain pigments and flavonoid glycosides.
 - **Evaluation of analgesic and anti-inflammatory activities of Amaranthus spinosus leaf extract** (2022): Leaf extract demonstrated significant dose-dependent analgesic and anti-inflammatory activity in carrageenan-induced paw edema and acetic acid writhing models.
-- **Antioxidant and hepatoprotective potential of Amaranthus spinosus against CCl4-induced liver damage** (2021): Ethanolic extract showed hepatoprotective activity by normalizing liver [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes) and reducing oxidative stress markers in CCl4-induced hepatotoxicity model.
+- **Antioxidant and hepatoprotective potential of Amaranthus spinosus against CCl4-induced liver damage** (2021): Ethanolic extract showed hepatoprotective activity by normalizing liver [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) and reducing oxidative stress markers in CCl4-induced hepatotoxicity model.
 
 ## Recent safety updates
 
@@ -83,7 +83,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kshavaka/meta-analysis.md"
 
 **Standard Dosage:** Nasya: pinch of fine powder (125-250 mg) per nostril; 2-3 g powder orally twice daily; 30-50 mL decoction
 
-**Bioavailability:** Nasal administration provides direct absorption through nasal mucosa bypassing first-pass metabolism — rapid onset of action within 5-15 minutes. Oral bioavailability of [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) is moderate. Sneeze-inducing (errhine/sternutatory) compounds are active at very low nasal doses. Absorption enhanced by Nasya oil pre-treatment ([Anu Taila](/ayurveda-atlas/formulation/anu-taila/) lubrication of nasal passages).
+**Bioavailability:** Nasal administration provides direct absorption through nasal mucosa bypassing first-pass metabolism — rapid onset of action within 5-15 minutes. Oral bioavailability of [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) is moderate. Sneeze-inducing (errhine/sternutatory) compounds are active at very low nasal doses. Absorption enhanced by Nasya oil pre-treatment ([Anu Taila](/nighantu/formulation/anu-taila/) lubrication of nasal passages).
 
 **Optimal Timing:** Nasya: morning on empty stomach after oil massage of face (classical Poorvakarma); oral preparations: after meals
 
@@ -93,7 +93,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kshavaka/meta-analysis.md"
 
 **Storage:** Nasya powder in small, tightly sealed glass vials with desiccant. Oral preparations in airtight containers at 15-30°C. Protect from moisture — hygroscopic fine powders degrade rapidly.
 
-**Marker Compounds:** Alkaloids (specific profile varies by species identification), Essential oil constituents, Saponins, [Tannins](/ayurveda-atlas/reference/tannins/)
+**Marker Compounds:** Alkaloids (specific profile varies by species identification), Essential oil constituents, Saponins, [Tannins](/nighantu/reference/tannins/)
 
 ### Extraction Methods
 
@@ -104,7 +104,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kshavaka/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- Maricha ([Black pepper](/ayurveda-atlas/herb/black-pepper/)) for Shirovirechana (nasal cleansing)
-- [Vacha](/ayurveda-atlas/herb/vacha/) (Acorus calamus) for nasal and cognitive formulations
-- [Vidanga](/ayurveda-atlas/herb/vidanga/) for parasitic and congestive conditions
-- [Apamarga](/ayurveda-atlas/herb/apamarga/) for Nasya combinations in sinusitis
+- Maricha ([Black pepper](/nighantu/herb/black-pepper/)) for Shirovirechana (nasal cleansing)
+- [Vacha](/nighantu/herb/vacha/) (Acorus calamus) for nasal and cognitive formulations
+- [Vidanga](/nighantu/herb/vidanga/) for parasitic and congestive conditions
+- [Apamarga](/nighantu/herb/apamarga/) for Nasya combinations in sinusitis

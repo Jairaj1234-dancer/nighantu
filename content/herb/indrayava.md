@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Fever-Infection/Indrayava/meta-analysis.md"
 
 **Standard Dosage:** 1-3g seed powder twice daily; 250-500mg extract; 30-60ml decoction
 
-**Bioavailability:** Holarrhena antidysenterica (Kutaja seeds = Indrayava) contains steroidal [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids), primarily conessine, with good oral absorption due to lipophilicity and basic nature. Conessine shows ~40-50% oral bioavailability with Tmax of 2-4 hours. Alkaloids are well absorbed in alkaline intestinal pH.
+**Bioavailability:** Holarrhena antidysenterica (Kutaja seeds = Indrayava) contains steroidal [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids), primarily conessine, with good oral absorption due to lipophilicity and basic nature. Conessine shows ~40-50% oral bioavailability with Tmax of 2-4 hours. Alkaloids are well absorbed in alkaline intestinal pH.
 
 **Optimal Timing:** Before meals with buttermilk (traditional) or warm water for GI disorders
 
@@ -71,6 +71,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Fever-Infection/Indrayava/meta-analysis.md"
 ### Synergistic Combinations
 
 - With Ativisha for antidiarrheal action
-- With [Bilva](/ayurveda-atlas/herb/bilva/) for dysentery management
+- With [Bilva](/nighantu/herb/bilva/) for dysentery management
 - With Musta for digestive disorders
 - With Kutaja bark for comprehensive anti-amoebic therapy

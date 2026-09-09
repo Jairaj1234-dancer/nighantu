@@ -38,19 +38,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Eucalyptus/meta-analysis
 
 **Dosage Forms:** Essential oil (primary), Inhalation (steam/vaporizer), Capsule (enteric-coated oil), Lozenge, Ointment/balm, Chest rub, Tincture
 
-**Standard Dosage:** Essential oil: 2-4 drops for steam inhalation; 200-600mg [cineole](/ayurveda-atlas/glossary/compounds-c-d/#cineole) in enteric-coated capsules daily (divided doses); topical: 1-3% in carrier; lozenges: as directed. Do not ingest undiluted essential oil.
+**Standard Dosage:** Essential oil: 2-4 drops for steam inhalation; 200-600mg [cineole](/nighantu/glossary/compounds-c-d/#cineole) in enteric-coated capsules daily (divided doses); topical: 1-3% in carrier; lozenges: as directed. Do not ingest undiluted essential oil.
 
-**Bioavailability:** Eucalyptus globulus essential oil is dominated by 1,8-cineole (eucalyptol, 60-85%). Cineole has excellent oral bioavailability (>70%) when given in enteric-coated form, with rapid absorption and distribution to respiratory tissues. Inhalation provides direct delivery to respiratory epithelium with systemic absorption via pulmonary circulation. Dermal absorption of cineole from topical preparations is moderate (5-10%) but sufficient for local anti-inflammatory and [analgesic](/ayurveda-atlas/reference/analgesic/) effects. First-pass metabolism is significant - enteric coating bypasses gastric degradation. Cineole is metabolized primarily by CYP3A4.
+**Bioavailability:** Eucalyptus globulus essential oil is dominated by 1,8-cineole (eucalyptol, 60-85%). Cineole has excellent oral bioavailability (>70%) when given in enteric-coated form, with rapid absorption and distribution to respiratory tissues. Inhalation provides direct delivery to respiratory epithelium with systemic absorption via pulmonary circulation. Dermal absorption of cineole from topical preparations is moderate (5-10%) but sufficient for local anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) effects. First-pass metabolism is significant - enteric coating bypasses gastric degradation. Cineole is metabolized primarily by CYP3A4.
 
 **Optimal Timing:** Steam inhalation: as needed for congestion, 2-3 times daily; oral capsules: after meals to reduce GI discomfort; topical: as needed, up to 3-4 times daily; chest rub: at bedtime
 
-**Standardized Extract:** Essential oil: Ph. Eur. grade standardized to NLT 70% 1,8-cineole by GC-FID. Pharmaceutical isolate: 99%+ cineole (eucalyptol). Leaf dry extract: NLT 2% total [polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols).
+**Standardized Extract:** Essential oil: Ph. Eur. grade standardized to NLT 70% 1,8-cineole by GC-FID. Pharmaceutical isolate: 99%+ cineole (eucalyptol). Leaf dry extract: NLT 2% total [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols).
 
 **Shelf Life:** 3-5 years (essential oil in sealed amber glass); 2 years (capsules); 2 years (ointment/balm); 3 years (lozenges)
 
 **Storage:** Essential oil: tightly sealed amber glass bottles, cool dark place (15-25 deg C). Keep away from heat sources and open flame. Capsules: below 25 deg C in blister packs. Child-resistant closure mandatory.
 
-**Marker Compounds:** 1,8-Cineole (eucalyptol), Alpha-pinene, [Limonene](/ayurveda-atlas/glossary/compounds-g-l/#limonene), Alpha-terpineol, Globulol, [Aromadendrene](/ayurveda-atlas/glossary/compounds-1-a/#aromadendrene), p-Cymene
+**Marker Compounds:** 1,8-Cineole (eucalyptol), Alpha-pinene, [Limonene](/nighantu/glossary/compounds-g-l/#limonene), Alpha-terpineol, Globulol, [Aromadendrene](/nighantu/glossary/compounds-1-a/#aromadendrene), p-Cymene
 
 ### Extraction Methods
 
@@ -62,8 +62,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Eucalyptus/meta-analysis
 
 ### Synergistic Combinations
 
-- With [Menthol](/ayurveda-atlas/herb/menthol/) ([Pudina](/ayurveda-atlas/herb/pudina/)) for enhanced decongestant effect
-- With [Camphor](/ayurveda-atlas/herb/camphor/) for chest rub formulations
-- With Tea tree oil for [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) synergy
+- With [Menthol](/nighantu/herb/menthol/) ([Pudina](/nighantu/herb/pudina/)) for enhanced decongestant effect
+- With [Camphor](/nighantu/herb/camphor/) for chest rub formulations
+- With Tea tree oil for [antimicrobial](/nighantu/reference/antimicrobial/) synergy
 - With Nilgiri Taila in traditional respiratory formulations
-- With [Tulsi](/ayurveda-atlas/herb/tulsi/) for immune-respiratory support
+- With [Tulsi](/nighantu/herb/tulsi/) for immune-respiratory support

@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Irimedadi-T
 
 | Language | Name |
 |----------|------|
-| English | [Irimedadi Taila](/ayurveda-atlas/formulation/irimedadi-taila/) |
+| English | [Irimedadi Taila](/nighantu/formulation/irimedadi-taila/) |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Irimedadi-T
 
 **Standard Dosage:** For Gandusha/Kavala (oil pulling): 15-20 mL held in mouth for 5-15 minutes, then spat out. For local application: apply to gums with finger or cotton, as per Sahasrayogam/AFI
 
-**Bioavailability:** Buccal/gingival absorption provides direct delivery to oral mucosa. Oil pulling (Gandusha) allows 5-15 minutes of mucosal contact time. [Tannins](/ayurveda-atlas/reference/tannins/) from [Khadira](/ayurveda-atlas/herb/khadira/) and [Bakula](/ayurveda-atlas/herb/bakula/) have astringent action on gingival tissues. [Sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) base has inherent [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) properties (sesaminol).
+**Bioavailability:** Buccal/gingival absorption provides direct delivery to oral mucosa. Oil pulling (Gandusha) allows 5-15 minutes of mucosal contact time. [Tannins](/nighantu/reference/tannins/) from [Khadira](/nighantu/herb/khadira/) and [Bakula](/nighantu/herb/bakula/) have astringent action on gingival tissues. [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) base has inherent [antimicrobial](/nighantu/reference/antimicrobial/) properties (sesaminol).
 
 **Optimal Timing:** Morning on empty stomach for Gandusha (oil pulling). Local application after meals for gum conditions.
 
@@ -57,7 +57,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Irimedadi-T
 
 **Storage:** Store in amber glass bottles in a cool, dry place. Temperature not exceeding 25°C. Oral-grade preparation requires enhanced cleanliness standards.
 
-**Marker Compounds:** [Catechin](/ayurveda-atlas/reference/catechin/), [Epicatechin](/ayurveda-atlas/glossary/compounds-d-g/#epicatechin) (from [Khadira](/ayurveda-atlas/herb/khadira/)), Mahanimbine (from [Bakula](/ayurveda-atlas/herb/bakula/)), [Sesamin](/ayurveda-atlas/glossary/compounds-q-t/#sesamin) (from [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)), Gallic acid
+**Marker Compounds:** [Catechin](/nighantu/reference/catechin/), [Epicatechin](/nighantu/glossary/compounds-d-g/#epicatechin) (from [Khadira](/nighantu/herb/khadira/)), Mahanimbine (from [Bakula](/nighantu/herb/bakula/)), [Sesamin](/nighantu/glossary/compounds-q-t/#sesamin) (from [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)), Gallic acid
 
 **Quality Parameters:** Acid value, peroxide value, saponification value, refractive index, specific gravity, catechin content from Khadira by HPLC, total tannins, total phenolics, rancidity test negative, HPTLC fingerprint, microbial limits (critical for oral use), heavy metals
 
@@ -65,7 +65,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Irimedadi-T
 
 ### Synergistic Combinations
 
-- [Khadiradi Vati](/ayurveda-atlas/formulation/khadiradi-vati/)
+- [Khadiradi Vati](/nighantu/formulation/khadiradi-vati/)
 - Dashana Samskara Churna
-- [Triphala](/ayurveda-atlas/herb/triphala/) Kwath (gargling)
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) Churna
+- [Triphala](/nighantu/herb/triphala/) Kwath (gargling)
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) Churna

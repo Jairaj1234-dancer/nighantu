@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ajwain_Herb/meta-analysis.md"
 
 **Standard Dosage:** 10-20ml fresh leaf juice twice daily; 2-4g dried leaf powder twice daily; 500mg extract capsule
 
-**Bioavailability:** Moderate bioavailability. The leaf (Coleus aromaticus / Plectranthus amboinicus, sometimes called [Ajwain](/ayurveda-atlas/herb/ajwain/) ka patta) contains [thymol](/ayurveda-atlas/glossary/compounds-t-z/#thymol) and [carvacrol](/ayurveda-atlas/glossary/compounds-a-c/#carvacrol) in lower concentrations than seed [Ajwain](/ayurveda-atlas/herb/ajwain/) but has additional [flavonoids](/ayurveda-atlas/reference/flavonoids/). Fresh juice preparations show better absorption profile than dried powder. [Mucilage](/ayurveda-atlas/glossary/compounds-l-o/#mucilage) content may slow but prolong absorption.
+**Bioavailability:** Moderate bioavailability. The leaf (Coleus aromaticus / Plectranthus amboinicus, sometimes called [Ajwain](/nighantu/herb/ajwain/) ka patta) contains [thymol](/nighantu/glossary/compounds-t-z/#thymol) and [carvacrol](/nighantu/glossary/compounds-a-c/#carvacrol) in lower concentrations than seed [Ajwain](/nighantu/herb/ajwain/) but has additional [flavonoids](/nighantu/reference/flavonoids/). Fresh juice preparations show better absorption profile than dried powder. [Mucilage](/nighantu/glossary/compounds-l-o/#mucilage) content may slow but prolong absorption.
 
 **Optimal Timing:** Warm fresh juice with honey for cough/cold — 2-3 times daily between meals
 
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ajwain_Herb/meta-analysis.md"
 
 **Storage:** Fresh leaves refrigerated (2-8°C). Dried herb in airtight containers away from light and moisture. Essential oil in amber glass at 15-25°C.
 
-**Marker Compounds:** Thymol, Carvacrol, Rosmarinic acid, [Eugenol](/ayurveda-atlas/glossary/compounds-d-g/#eugenol), Beta-caryophyllene, Cirsimaritin
+**Marker Compounds:** Thymol, Carvacrol, Rosmarinic acid, [Eugenol](/nighantu/glossary/compounds-d-g/#eugenol), Beta-caryophyllene, Cirsimaritin
 
 ### Extraction Methods
 
@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ajwain_Herb/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Tulsi](/ayurveda-atlas/herb/tulsi/) for respiratory infections and cough
-- With Adrak ([ginger](/ayurveda-atlas/herb/ginger/)) for cold and congestion
-- With [Madhu](/ayurveda-atlas/herb/madhu/) (honey) as [expectorant](/ayurveda-atlas/reference/expectorant/) combination
-- With [Haridra](/ayurveda-atlas/herb/haridra/) for anti-inflammatory action
+- With [Tulsi](/nighantu/herb/tulsi/) for respiratory infections and cough
+- With Adrak ([ginger](/nighantu/herb/ginger/)) for cold and congestion
+- With [Madhu](/nighantu/herb/madhu/) (honey) as [expectorant](/nighantu/reference/expectorant/) combination
+- With [Haridra](/nighantu/herb/haridra/) for anti-inflammatory action

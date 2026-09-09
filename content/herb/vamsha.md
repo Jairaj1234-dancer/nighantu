@@ -45,11 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vamsha/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Vamshalochana (bamboo manna) Churna, Capsule, Tablet, Avaleha ([Sitopaladi Churna](/ayurveda-atlas/formulation/sitopaladi-churna/)), Kwatha (decoction of leaves), Svarasa (stem juice)
+**Dosage Forms:** Vamshalochana (bamboo manna) Churna, Capsule, Tablet, Avaleha ([Sitopaladi Churna](/nighantu/formulation/sitopaladi-churna/)), Kwatha (decoction of leaves), Svarasa (stem juice)
 
 **Standard Dosage:** Vamshalochana: 250 mg-1 g twice daily; Bamboo shoot/leaf preparation: 3-6 g twice daily; as part of Sitopaladi Churna: 1-3 g with honey
 
-**Bioavailability:** Vamshalochana (bamboo manna/tabasheer) is primarily [silica](/ayurveda-atlas/glossary/compounds-q-t/#silica) (70-90% SiO2), mostly as amorphous opaline silica with moderate bioavailability (~25-35% as orthosilicic acid in gastric acid). Choline from bamboo leaves has high oral bioavailability (~70%). [Flavonoids](/ayurveda-atlas/reference/flavonoids/) ([orientin](/ayurveda-atlas/glossary/compounds-o-q/#orientin), [vitexin](/ayurveda-atlas/glossary/compounds-t-z/#vitexin), [isoorientin](/ayurveda-atlas/glossary/compounds-g-l/#isoorientin)) from leaves have moderate bioavailability (~15-25%). [Silicon](/ayurveda-atlas/glossary/compounds-q-t/#silicon) absorption is enhanced in acidic pH; co-administer with [citric acid](/ayurveda-atlas/glossary/compounds-c-d/#citric-acidcitric-acid) or Amalaki (vitamin C source).
+**Bioavailability:** Vamshalochana (bamboo manna/tabasheer) is primarily [silica](/nighantu/glossary/compounds-q-t/#silica) (70-90% SiO2), mostly as amorphous opaline silica with moderate bioavailability (~25-35% as orthosilicic acid in gastric acid). Choline from bamboo leaves has high oral bioavailability (~70%). [Flavonoids](/nighantu/reference/flavonoids/) ([orientin](/nighantu/glossary/compounds-o-q/#orientin), [vitexin](/nighantu/glossary/compounds-t-z/#vitexin), [isoorientin](/nighantu/glossary/compounds-g-l/#isoorientin)) from leaves have moderate bioavailability (~15-25%). [Silicon](/nighantu/glossary/compounds-q-t/#silicon) absorption is enhanced in acidic pH; co-administer with [citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid) or Amalaki (vitamin C source).
 
 **Optimal Timing:** After meals with honey for respiratory conditions; morning with warm milk for general tonic effect
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vamsha/meta-analysis.md"
 
 **Storage:** Vamshalochana in airtight containers, protected from moisture (silica is hygroscopic). Leaf products in airtight, light-resistant containers at 15-25 deg C.
 
-**Marker Compounds:** Silicon dioxide (amorphous), Orientin, Vitexin, Isoorientin, [Isovitexin](/ayurveda-atlas/glossary/compounds-g-l/#isovitexin), Choline, p-Coumaric acid, Ferulic acid, [Tricin](/ayurveda-atlas/glossary/compounds-t-z/#tricin)
+**Marker Compounds:** Silicon dioxide (amorphous), Orientin, Vitexin, Isoorientin, [Isovitexin](/nighantu/glossary/compounds-g-l/#isovitexin), Choline, p-Coumaric acid, Ferulic acid, [Tricin](/nighantu/glossary/compounds-t-z/#tricin)
 
 ### Extraction Methods
 
@@ -71,7 +71,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vamsha/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- Sitopaladi Churna components: Vamshalochana + [Pippali](/ayurveda-atlas/herb/pippali/) + Ela + Twak + Mishri - classical respiratory formula
-- [Pravala Pishti](/ayurveda-atlas/herb/pravala-pishti/) (coral calcium) - complementary mineral supplementation
+- Sitopaladi Churna components: Vamshalochana + [Pippali](/nighantu/herb/pippali/) + Ela + Twak + Mishri - classical respiratory formula
+- [Pravala Pishti](/nighantu/herb/pravala-pishti/) (coral calcium) - complementary mineral supplementation
 - Amalaki - vitamin C enhances silicon absorption
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) - demulcent synergy for respiratory conditions
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) - demulcent synergy for respiratory conditions

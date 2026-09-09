@@ -57,7 +57,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Bhallataka-
 
 **Storage:** Store in amber glass bottles in a cool, dry place. Handle with gloves — residual irritant potential. Clearly labeled with caution warnings. Temperature not exceeding 25°C.
 
-**Marker Compounds:** Semecarpol, Bhilawanol, Anacardic acid, Biflavonoids ([amentoflavone](/ayurveda-atlas/glossary/compounds-1-a/#amentoflavone), tetrahydroamentoflavone)
+**Marker Compounds:** Semecarpol, Bhilawanol, Anacardic acid, Biflavonoids ([amentoflavone](/nighantu/glossary/compounds-1-a/#amentoflavone), tetrahydroamentoflavone)
 
 **Quality Parameters:** Free phenol content (must be reduced to safe limits post-Shodhana), acid value, peroxide value, urushiol content (must be minimal/absent post-purification), HPTLC fingerprint, bhilawanol content, microbial limits, heavy metals, irritation/sensitization testing
 
@@ -65,7 +65,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Bhallataka-
 
 ### Synergistic Combinations
 
-- Triphala [Guggulu](/ayurveda-atlas/formulation/guggulu/)|[Triphala](/ayurveda-atlas/herb/triphala/) Guggulu
-- Kanchanara [Guggulu](/ayurveda-atlas/formulation/guggulu/)|Kanchanara Guggulu
-- [Vidanga](/ayurveda-atlas/herb/vidanga/) Churna
-- [Haridra](/ayurveda-atlas/herb/haridra/) Churna
+- Triphala [Guggulu](/nighantu/formulation/guggulu/)|[Triphala](/nighantu/herb/triphala/) Guggulu
+- Kanchanara [Guggulu](/nighantu/formulation/guggulu/)|Kanchanara Guggulu
+- [Vidanga](/nighantu/herb/vidanga/) Churna
+- [Haridra](/nighantu/herb/haridra/) Churna

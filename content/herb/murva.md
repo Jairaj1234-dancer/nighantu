@@ -28,16 +28,16 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Murva/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- C21 steroidal [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) (tenacissoside A-P, marsdenoside A-M)
+- C21 steroidal [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) (tenacissoside A-P, marsdenoside A-M)
 - Tenacigenoside A-L
 - Tenacigenin A-D
-- Eudesmane [sesquiterpenoids](/ayurveda-atlas/glossary/compounds-q-t/#sesquiterpenoids)
+- Eudesmane [sesquiterpenoids](/nighantu/glossary/compounds-q-t/#sesquiterpenoids)
 - Nor-sesquiterpenoids
 - Pyrrole glycosides
 - Phenolic glycosides
 - Gallic acid
-- [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/)
-- Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
+- [Quercetin](/nighantu/reference/quercetinquercetin/)
+- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
 
 ## How does it work?
 
@@ -50,12 +50,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Murva/meta-analysis.md"
 
 - Anti-tumor and anti-cancer activity validated through extensive in vitro and in vivo studies showing inhibition of multiple cancer cell lines (A549, HepG2, Caco-2, K562)
 - Anti-HIV activity confirmed through laboratory studies demonstrating inhibition of viral replication
-- [Immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) properties validated through polysaccharide-mediated activation of immune signaling pathways
+- [Immunomodulatory](/nighantu/reference/immunomodulatory/) properties validated through polysaccharide-mediated activation of immune signaling pathways
 
 ## What do recent clinical trials show?
 
-- **Three New [Steroids](/ayurveda-atlas/glossary/compounds-q-t/#steroids) from the Roots of Marsdenia tenacissima** (2024): Isolated two formerly undescribed eudesmane sesquiterpenoids and six known nor-sesquiterpenoids, along with an unreported pyrrole glycoside and two phenolic glycosides from the roots.
-- **A [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose)-rich heteropolysaccharide from Marsdenia tenacissima and its zinc-modified complex enhance immunoregulation** (2024): Demonstrated that a glucose-rich heteropolysaccharide and its zinc-modified complex enhance immunoregulation by activating the TLR4-MyD88-NF-kB signaling pathway.
+- **Three New [Steroids](/nighantu/glossary/compounds-q-t/#steroids) from the Roots of Marsdenia tenacissima** (2024): Isolated two formerly undescribed eudesmane sesquiterpenoids and six known nor-sesquiterpenoids, along with an unreported pyrrole glycoside and two phenolic glycosides from the roots.
+- **A [glucose](/nighantu/glossary/compounds-d-g/#glucose)-rich heteropolysaccharide from Marsdenia tenacissima and its zinc-modified complex enhance immunoregulation** (2024): Demonstrated that a glucose-rich heteropolysaccharide and its zinc-modified complex enhance immunoregulation by activating the TLR4-MyD88-NF-kB signaling pathway.
 - **Biomarker Discovery and Molecular Docking Reveal Marsdenia tenacissima Fermentation Product's Anti-Lung Cancer Components** (2025): Identified key anti-lung cancer bioactive components from fermentation products of M. tenacissima through biomarker discovery and molecular docking approaches.
 
 ## Recent safety updates
@@ -89,9 +89,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Murva/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g root powder per day; 50-100 mL decoction twice daily; 500-1000 mg extract capsules daily
 
-**Bioavailability:** Moderate bioavailability of [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) and [flavonoids](/ayurveda-atlas/reference/flavonoids/). Periplocin (cardiac glycoside) shows variable oral absorption (20-40%) with significant individual variation. [Lupeol](/ayurveda-atlas/reference/lupeol/) and other [terpenoids](/ayurveda-atlas/glossary/compounds-t-z/#terpenoids) are better absorbed with lipid co-administration. Fiber components act locally in GI tract.
+**Bioavailability:** Moderate bioavailability of [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) and [flavonoids](/nighantu/reference/flavonoids/). Periplocin (cardiac glycoside) shows variable oral absorption (20-40%) with significant individual variation. [Lupeol](/nighantu/reference/lupeol/) and other [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids) are better absorbed with lipid co-administration. Fiber components act locally in GI tract.
 
-**Optimal Timing:** Between meals for anti-inflammatory and [diuretic](/ayurveda-atlas/reference/diuretic/) effects; morning for digestive stimulation; topical application twice daily
+**Optimal Timing:** Between meals for anti-inflammatory and [diuretic](/nighantu/reference/diuretic/) effects; morning for digestive stimulation; topical application twice daily
 
 **Standardized Extract:** Root extract (10:1 hydroalcoholic) standardized to minimum 1% total alkaloids and controlled cardiac glycoside content (below 0.5% periplocin for safety). Fiber preparation for wound management applications. Aqueous extract for mild diuretic formulations.
 
@@ -111,8 +111,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Murva/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) (anti-inflammatory and immunomodulatory)
-- [Sariva](/ayurveda-atlas/herb/sariva/) (blood purification and cooling)
+- [Guduchi](/nighantu/herb/guduchi/) (anti-inflammatory and immunomodulatory)
+- [Sariva](/nighantu/herb/sariva/) (blood purification and cooling)
 - Musta (digestive and anti-inflammatory)
-- [Punarnava](/ayurveda-atlas/herb/punarnava/) (diuretic and anti-inflammatory)
-- [Gokshura](/ayurveda-atlas/herb/gokshura/) (renal protective combination)
+- [Punarnava](/nighantu/herb/punarnava/) (diuretic and anti-inflammatory)
+- [Gokshura](/nighantu/herb/gokshura/) (renal protective combination)

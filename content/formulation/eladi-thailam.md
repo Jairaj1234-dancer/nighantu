@@ -23,33 +23,33 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Eladi-Thail
 
 | Language | Name |
 |----------|------|
-| English | [Eladi Thailam](/ayurveda-atlas/formulation/eladi-thailam/) |
+| English | [Eladi Thailam](/nighantu/formulation/eladi-thailam/) |
 
 ## Key Ingredients
 
 - Ela (Elettaria cardamomum / Green Cardamom) - lead herb of Eladi Gana
 - Sthula Ela (Amomum subulatum / Black Cardamom)
 - Kunduruka (Boswellia serrata / Indian Frankincense)
-- Kumkuma (Crocus sativus / [Saffron](/ayurveda-atlas/herb/saffron/))
-- [Chandana](/ayurveda-atlas/herb/chandana/) (Santalum album / Sandalwood)
-- [Jatamansi](/ayurveda-atlas/herb/jatamansi/) (Nardostachys [jatamansi](/ayurveda-atlas/herb/jatamansi/))
+- Kumkuma (Crocus sativus / [Saffron](/nighantu/herb/saffron/))
+- [Chandana](/nighantu/herb/chandana/) (Santalum album / Sandalwood)
+- [Jatamansi](/nighantu/herb/jatamansi/) (Nardostachys [jatamansi](/nighantu/herb/jatamansi/))
 - Nagkesar (Mesua ferrea)
-- [Devadaru](/ayurveda-atlas/herb/devadaru/) (Cedrus deodara)
-- [Bala](/ayurveda-atlas/herb/bala/) (Sida cordifolia)
-- [Hrivera](/ayurveda-atlas/herb/hrivera/) (Pavonia odorata)
-- Karpura (Cinnamomum camphora / [Camphor](/ayurveda-atlas/herb/camphor/))
-- Coconut milk or [Sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) base
+- [Devadaru](/nighantu/herb/devadaru/) (Cedrus deodara)
+- [Bala](/nighantu/herb/bala/) (Sida cordifolia)
+- [Hrivera](/nighantu/herb/hrivera/) (Pavonia odorata)
+- Karpura (Cinnamomum camphora / [Camphor](/nighantu/herb/camphor/))
+- Coconut milk or [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) base
 
 ## Where is it described in the classical texts?
 
-Sahasrayogam (Taila Prakarana), specifically referencing the Eladi Gana - a traditional group of 18 aromatic herbs led by Cardamom (Ela). Available in both [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) and [coconut oil](/ayurveda-atlas/glossary/concepts-a-m/#coconut-oil) (Eladi Kera Thailam) bases.
+Sahasrayogam (Taila Prakarana), specifically referencing the Eladi Gana - a traditional group of 18 aromatic herbs led by Cardamom (Ela). Available in both [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) and [coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil) (Eladi Kera Thailam) bases.
 
 ## How does it work?
 
-- Volatile oils (1,8-[cineole](/ayurveda-atlas/glossary/compounds-c-d/#cineole)) from Cardamom provide anti-inflammatory and [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) action on skin surface, reducing bacterial and fungal colonization in skin disorders
+- Volatile oils (1,8-[cineole](/nighantu/glossary/compounds-c-d/#cineole)) from Cardamom provide anti-inflammatory and [antimicrobial](/nighantu/reference/antimicrobial/) action on skin surface, reducing bacterial and fungal colonization in skin disorders
 - Boswellic acids from Indian Frankincense inhibit 5-lipoxygenase enzyme, reducing leukotriene-mediated inflammation in eczema and dermatitis
 - Santalol from Sandalwood provides cooling, anti-inflammatory, and barrier-repair effects by reducing pro-inflammatory cytokines and transepidermal water loss
-- Nardostachin from [Jatamansi](/ayurveda-atlas/herb/jatamansi/) provides calming and antipruritic (anti-itch) effects through modulation of [histamine](/ayurveda-atlas/glossary/compounds-g-l/#histamine) receptors in the skin
+- Nardostachin from [Jatamansi](/nighantu/herb/jatamansi/) provides calming and antipruritic (anti-itch) effects through modulation of [histamine](/nighantu/glossary/compounds-g-l/#histamine) receptors in the skin
 
 ## Which traditional uses are supported by research?
 
@@ -60,8 +60,8 @@ Sahasrayogam (Taila Prakarana), specifically referencing the Eladi Gana - a trad
 ## What do recent clinical trials show?
 
 - **Randomised controlled double-blind pilot study on Eladi oil efficacy in acne vulgaris** (2019): Conducted by Middlesex University, the treatment group showed 42% improvement on Investigators Global Assessment scale, 60% reduction in inflammatory lesions, 59% reduction in non-inflammatory lesions, and 59% reduction in combined lesion count.
-- **Anti-inflammatory and antipruritic evaluation of [Eladi Thailam](/ayurveda-atlas/formulation/eladi-thailam/) in dermatological conditions** (2020): In vitro and clinical analysis confirmed the formulation's anti-inflammatory, antipruritic (anti-itch), and demulcent properties, aligning with traditional uses for urticaria and eczema.
-- **Allergic contact dermatitis case study with Ayurvedic oils including Eladi** (2014): Published in PMC, documented case of Type IV hypersensitivity following aromatherapy with Eladi [coconut oil](/ayurveda-atlas/glossary/concepts-a-m/#coconut-oil), presenting as generalized erythema and pruritus with flexural eczema, highlighting the importance of patch testing and constitutional assessment.
+- **Anti-inflammatory and antipruritic evaluation of [Eladi Thailam](/nighantu/formulation/eladi-thailam/) in dermatological conditions** (2020): In vitro and clinical analysis confirmed the formulation's anti-inflammatory, antipruritic (anti-itch), and demulcent properties, aligning with traditional uses for urticaria and eczema.
+- **Allergic contact dermatitis case study with Ayurvedic oils including Eladi** (2014): Published in PMC, documented case of Type IV hypersensitivity following aromatherapy with Eladi [coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil), presenting as generalized erythema and pruritus with flexural eczema, highlighting the importance of patch testing and constitutional assessment.
 
 ## Recent safety updates
 
@@ -83,7 +83,7 @@ Sahasrayogam (Taila Prakarana), specifically referencing the Eladi Gana - a trad
 
 **Standard Dosage:** External application: sufficient quantity on affected area, twice daily, as per Sahasrayogam/AFI
 
-**Bioavailability:** [Coconut oil](/ayurveda-atlas/glossary/concepts-a-m/#coconut-oil) base (rich in lauric acid and MCTs) provides excellent transdermal penetration. Aromatic compounds from Ela and Agaru are rapidly absorbed through skin. Direct dermal delivery bypasses first-pass metabolism for local skin conditions.
+**Bioavailability:** [Coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil) base (rich in lauric acid and MCTs) provides excellent transdermal penetration. Aromatic compounds from Ela and Agaru are rapidly absorbed through skin. Direct dermal delivery bypasses first-pass metabolism for local skin conditions.
 
 **Optimal Timing:** After bath or before bedtime for skin conditions. Can be used for facial application.
 
@@ -91,7 +91,7 @@ Sahasrayogam (Taila Prakarana), specifically referencing the Eladi Gana - a trad
 
 **Storage:** Store in amber glass bottles in a cool, dry place. Temperature not exceeding 25°C. Protect from light.
 
-**Marker Compounds:** 1,8-Cineole, Alpha-terpinyl acetate, [Linalool](/ayurveda-atlas/glossary/compounds-l-o/#linalool), Alpha-santalol (from [Chandana](/ayurveda-atlas/herb/chandana/) if included), Agarospirol (from Agaru)
+**Marker Compounds:** 1,8-Cineole, Alpha-terpinyl acetate, [Linalool](/nighantu/glossary/compounds-l-o/#linalool), Alpha-santalol (from [Chandana](/nighantu/herb/chandana/) if included), Agarospirol (from Agaru)
 
 **Quality Parameters:** Acid value (<5), peroxide value (<10), saponification value, refractive index, specific gravity, viscosity, 1,8-cineole content from Ela by GC, total volatile oils, rancidity test negative, HPTLC fingerprint, microbial limits, heavy metals
 
@@ -99,7 +99,7 @@ Sahasrayogam (Taila Prakarana), specifically referencing the Eladi Gana - a trad
 
 ### Synergistic Combinations
 
-- [Kumkumadi Thailam](/ayurveda-atlas/formulation/kumkumadi-thailam/)
+- [Kumkumadi Thailam](/nighantu/formulation/kumkumadi-thailam/)
 - Nalpamaradi Thailam
-- Eladi Keram ([coconut oil](/ayurveda-atlas/glossary/concepts-a-m/#coconut-oil) variant)
+- Eladi Keram ([coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil) variant)
 - Chandanadi Thailam

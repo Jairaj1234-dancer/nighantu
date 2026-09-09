@@ -23,17 +23,17 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Rasnasaptaka
 
 | Language | Name |
 |----------|------|
-| English | [Rasnasaptakam Kashayam](/ayurveda-atlas/formulation/rasnasaptakam-kashayam/) |
+| English | [Rasnasaptakam Kashayam](/nighantu/formulation/rasnasaptakam-kashayam/) |
 
 ## Key Ingredients
 
-- [Rasna](/ayurveda-atlas/herb/rasna/) (Pluchea lanceolata)
-- [Eranda](/ayurveda-atlas/herb/eranda/) (Ricinus communis)
-- [Devadaru](/ayurveda-atlas/herb/devadaru/) (Cedrus deodara)
-- [Punarnava](/ayurveda-atlas/herb/punarnava/) (Boerhavia diffusa)
-- [Aragwadha](/ayurveda-atlas/herb/aragwadha/) (Cassia fistula)
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) (Tinospora cordifolia)
-- Shunthi ([Zingiber](/ayurveda-atlas/herb/zingiber/) officinale)
+- [Rasna](/nighantu/herb/rasna/) (Pluchea lanceolata)
+- [Eranda](/nighantu/herb/eranda/) (Ricinus communis)
+- [Devadaru](/nighantu/herb/devadaru/) (Cedrus deodara)
+- [Punarnava](/nighantu/herb/punarnava/) (Boerhavia diffusa)
+- [Aragwadha](/nighantu/herb/aragwadha/) (Cassia fistula)
+- [Guduchi](/nighantu/herb/guduchi/) (Tinospora cordifolia)
+- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale)
 
 ## Where is it described in the classical texts?
 
@@ -41,23 +41,23 @@ Earliest reference in Ashtanga Hridaya commentaries. Hints of formula in Vangase
 
 ## How does it work?
 
-- Anti-inflammatory activity through inhibition of pro-inflammatory cytokines (TNF-alpha, IL-6) by [Rasna](/ayurveda-atlas/herb/rasna/) and [Guduchi](/ayurveda-atlas/herb/guduchi/)
-- Ama (toxin) digestion by [Rasna](/ayurveda-atlas/herb/rasna/)'s digestive action helps resolve metabolic waste contributing to joint inflammation
+- Anti-inflammatory activity through inhibition of pro-inflammatory cytokines (TNF-alpha, IL-6) by [Rasna](/nighantu/herb/rasna/) and [Guduchi](/nighantu/herb/guduchi/)
+- Ama (toxin) digestion by [Rasna](/nighantu/herb/rasna/)'s digestive action helps resolve metabolic waste contributing to joint inflammation
 - Vata-Kapha balancing through the synergistic seven-herb combination reduces joint stiffness and swelling
-- [Analgesic](/ayurveda-atlas/reference/analgesic/) action from [Devadaru](/ayurveda-atlas/herb/devadaru/) and [Eranda](/ayurveda-atlas/herb/eranda/) provides direct pain relief in musculoskeletal conditions
+- [Analgesic](/nighantu/reference/analgesic/) action from [Devadaru](/nighantu/herb/devadaru/) and [Eranda](/nighantu/herb/eranda/) provides direct pain relief in musculoskeletal conditions
 
 ## Which traditional uses are supported by research?
 
 - Joint pain and rheumatoid arthritis - validated by clinical trial showing 35% improvement in pain scores
 - Chronic low back pain - supported by double-blind trial at Amrita Institute
-- Fever associated with body aches - supported by anti-inflammatory and [antipyretic](/ayurveda-atlas/reference/antipyretic/) properties of [Guduchi](/ayurveda-atlas/herb/guduchi/)
-- Sciatica and neuralgia - traditional use corroborated by analgesic mechanisms of [Devadaru](/ayurveda-atlas/herb/devadaru/) and [Eranda](/ayurveda-atlas/herb/eranda/)
+- Fever associated with body aches - supported by anti-inflammatory and [antipyretic](/nighantu/reference/antipyretic/) properties of [Guduchi](/nighantu/herb/guduchi/)
+- Sciatica and neuralgia - traditional use corroborated by analgesic mechanisms of [Devadaru](/nighantu/herb/devadaru/) and [Eranda](/nighantu/herb/eranda/)
 
 ## What do recent clinical trials show?
 
-- **Preliminary Analytical Study of [Rasnasaptakam Kashayam](/ayurveda-atlas/formulation/rasnasaptakam-kashayam/)** (2018): Physicochemical and phytochemical analysis confirmed the presence of anti-inflammatory and analgesic compounds in the standardized decoction.
-- **Double-blind trial of [Rasnasaptakam Kashayam](/ayurveda-atlas/formulation/rasnasaptakam-kashayam/) in chronic low back pain** (2021): Amrita Institute trial showed 35% greater improvement in pain scores in the decoction-plus-physiotherapy group versus physiotherapy alone over 8 weeks.
-- **Anti-arthritic potential of [Rasna](/ayurveda-atlas/herb/rasna/)-based formulations** (2020): [Rasna](/ayurveda-atlas/herb/rasna/) extracts showed significant inhibition of cartilage degradation markers and reduced joint swelling in adjuvant-induced arthritis models.
+- **Preliminary Analytical Study of [Rasnasaptakam Kashayam](/nighantu/formulation/rasnasaptakam-kashayam/)** (2018): Physicochemical and phytochemical analysis confirmed the presence of anti-inflammatory and analgesic compounds in the standardized decoction.
+- **Double-blind trial of [Rasnasaptakam Kashayam](/nighantu/formulation/rasnasaptakam-kashayam/) in chronic low back pain** (2021): Amrita Institute trial showed 35% greater improvement in pain scores in the decoction-plus-physiotherapy group versus physiotherapy alone over 8 weeks.
+- **Anti-arthritic potential of [Rasna](/nighantu/herb/rasna/)-based formulations** (2020): [Rasna](/nighantu/herb/rasna/) extracts showed significant inhibition of cartilage degradation markers and reduced joint swelling in adjuvant-induced arthritis models.
 
 ## Recent safety updates
 
@@ -95,4 +95,4 @@ Earliest reference in Ashtanga Hridaya commentaries. Hints of formula in Vangase
 
 ### Synergistic Combinations
 
-- Classical combination of [Rasna](/ayurveda-atlas/herb/rasna/) and 6 other herbs provides synergistic therapeutic effect
+- Classical combination of [Rasna](/nighantu/herb/rasna/) and 6 other herbs provides synergistic therapeutic effect

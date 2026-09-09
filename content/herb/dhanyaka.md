@@ -28,22 +28,22 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhanyaka/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Linalool](/ayurveda-atlas/glossary/compounds-l-o/#linalool) (60-80% of seed essential oil - primary active)
+- [Linalool](/nighantu/glossary/compounds-l-o/#linalool) (60-80% of seed essential oil - primary active)
 - Gamma-terpinene
-- [Decanal](/ayurveda-atlas/glossary/compounds-c-d/#decanal)
+- [Decanal](/nighantu/glossary/compounds-c-d/#decanal)
 - Geranyl acetate
-- [Camphor](/ayurveda-atlas/herb/camphor/)
-- [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/) and [rutin](/ayurveda-atlas/glossary/compounds-q-t/#rutin) ([flavonoids](/ayurveda-atlas/reference/flavonoids/))
+- [Camphor](/nighantu/herb/camphor/)
+- [Quercetin](/nighantu/reference/quercetinquercetin/) and [rutin](/nighantu/glossary/compounds-q-t/#rutin) ([flavonoids](/nighantu/reference/flavonoids/))
 - Caffeic acid and chlorogenic acid (phenolics)
-- [Coumarins](/ayurveda-atlas/glossary/compounds-c-d/#coumarins)
-- [Tocopherols](/ayurveda-atlas/glossary/compounds-t-z/#tocopherols)
+- [Coumarins](/nighantu/glossary/compounds-c-d/#coumarins)
+- [Tocopherols](/nighantu/glossary/compounds-t-z/#tocopherols)
 - Fatty acids (petroselinic acid - unique)
 
 ## How does it work?
 
-- [Anxiolytic](/ayurveda-atlas/reference/anxiolytic/) and [neuroprotective](/ayurveda-atlas/reference/neuroprotective/) mechanism through linalool-mediated modulation of GABAergic neurotransmission and glutamate receptor inhibition, reducing neuronal excitotoxicity
-- Hypoglycemic mechanism through stimulation of insulin secretion from pancreatic beta cells and enhancement of peripheral [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose) uptake, mediated by flavonoid and essential oil fractions
-- [Antimicrobial](/ayurveda-atlas/reference/antimicrobial/) mechanism through linalool disruption of bacterial cell membrane integrity and inhibition of efflux pump activity, showing broad-spectrum activity
+- [Anxiolytic](/nighantu/reference/anxiolytic/) and [neuroprotective](/nighantu/reference/neuroprotective/) mechanism through linalool-mediated modulation of GABAergic neurotransmission and glutamate receptor inhibition, reducing neuronal excitotoxicity
+- Hypoglycemic mechanism through stimulation of insulin secretion from pancreatic beta cells and enhancement of peripheral [glucose](/nighantu/glossary/compounds-d-g/#glucose) uptake, mediated by flavonoid and essential oil fractions
+- [Antimicrobial](/nighantu/reference/antimicrobial/) mechanism through linalool disruption of bacterial cell membrane integrity and inhibition of efflux pump activity, showing broad-spectrum activity
 
 ## Which traditional uses are supported by research?
 
@@ -53,13 +53,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhanyaka/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Phytochemistry, Pharmacological Attributes, and Clinical Evaluations of Coriandrum sativum: A Comprehensive Review** (2025): Comprehensive review documenting antimicrobial, anti-inflammatory, [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/), nematicidal, [cardioprotective](/ayurveda-atlas/reference/cardioprotective/), antiulcer, [antidiabetic](/ayurveda-atlas/reference/antidiabetic/), [antioxidant](/ayurveda-atlas/reference/antioxidant/), neuroprotective, anti-leishmaniasis, and anti-infertility properties.
-- **[Coriander](/ayurveda-atlas/herb/coriander/): A holistic outlook on its chemistry and pharmacology** (2024): Holistic review documenting the full phytochemical spectrum including essential oils, flavonoids, phenolic compounds, and fatty acids, with emphasis on pharmacological mechanisms and drug delivery advancements.
-- **A comprehensive review of supernatural [coriander](/ayurveda-atlas/herb/coriander/) herb: phytochemical insights, pharmacological potential and future perspective** (2025): Updated review exploring [coriander](/ayurveda-atlas/herb/coriander/)'s rich phytochemical profile and its potential in modern drug development, with focus on novel delivery systems for enhanced bioavailability.
+- **Phytochemistry, Pharmacological Attributes, and Clinical Evaluations of Coriandrum sativum: A Comprehensive Review** (2025): Comprehensive review documenting antimicrobial, anti-inflammatory, [hepatoprotective](/nighantu/reference/hepatoprotective/), nematicidal, [cardioprotective](/nighantu/reference/cardioprotective/), antiulcer, [antidiabetic](/nighantu/reference/antidiabetic/), [antioxidant](/nighantu/reference/antioxidant/), neuroprotective, anti-leishmaniasis, and anti-infertility properties.
+- **[Coriander](/nighantu/herb/coriander/): A holistic outlook on its chemistry and pharmacology** (2024): Holistic review documenting the full phytochemical spectrum including essential oils, flavonoids, phenolic compounds, and fatty acids, with emphasis on pharmacological mechanisms and drug delivery advancements.
+- **A comprehensive review of supernatural [coriander](/nighantu/herb/coriander/) herb: phytochemical insights, pharmacological potential and future perspective** (2025): Updated review exploring [coriander](/nighantu/herb/coriander/)'s rich phytochemical profile and its potential in modern drug development, with focus on novel delivery systems for enhanced bioavailability.
 
 ## Recent safety updates
 
-- Widely consumed spice with GRAS status; generally safe at culinary and traditional therapeutic doses; rare cases of contact dermatitis and photosensitivity reported with fresh [coriander](/ayurveda-atlas/herb/coriander/) leaf handling
+- Widely consumed spice with GRAS status; generally safe at culinary and traditional therapeutic doses; rare cases of contact dermatitis and photosensitivity reported with fresh [coriander](/nighantu/herb/coriander/) leaf handling
 - High-dose essential oil ingestion may cause hepatic or renal effects; potential interaction with antidiabetic medications due to hypoglycemic potential; contraindicated in known Apiaceae allergy
 
 ## What is it made of?
@@ -79,11 +79,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhanyaka/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Kashayam (decoction), Hima (cold infusion), Tablet, Capsule, Essential oil, [Arka](/ayurveda-atlas/herb/arka/) (distillate)
+**Dosage Forms:** Churna (powder), Kashayam (decoction), Hima (cold infusion), Tablet, Capsule, Essential oil, [Arka](/nighantu/herb/arka/) (distillate)
 
 **Standard Dosage:** 3-6g seed powder twice daily; 50-100ml decoction or cold infusion twice daily; 500mg extract capsule twice daily; essential oil: 1-3 drops in carrier
 
-**Bioavailability:** Coriandrum sativum seeds contain linalool (60-70% of essential oil), flavonoids, and coumarins. Linalool has good oral bioavailability (>60%) due to favorable lipophilicity and small molecular size. Flavonoid [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) (rutin, [quercetin](/ayurveda-atlas/reference/quercetinquercetin/)-3-glucuronide) have moderate bioavailability (15-25%), improved by gut microbial deglycosylation. Cold infusion (Hima) preserves volatile constituents better than hot decoction. The traditional practice of light roasting (Bharjana) before use modifies volatile profile and may improve digestibility.
+**Bioavailability:** Coriandrum sativum seeds contain linalool (60-70% of essential oil), flavonoids, and coumarins. Linalool has good oral bioavailability (>60%) due to favorable lipophilicity and small molecular size. Flavonoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) (rutin, [quercetin](/nighantu/reference/quercetinquercetin/)-3-glucuronide) have moderate bioavailability (15-25%), improved by gut microbial deglycosylation. Cold infusion (Hima) preserves volatile constituents better than hot decoction. The traditional practice of light roasting (Bharjana) before use modifies volatile profile and may improve digestibility.
 
 **Optimal Timing:** After meals as digestive aid; before meals for appetite stimulation; Hima (cold infusion) throughout the day for Pitta conditions and burning sensation
 
@@ -93,7 +93,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhanyaka/meta-analysis.md"
 
 **Storage:** Whole seeds in airtight containers at room temperature. Powder: airtight, moisture-proof containers below 25 deg C - use quickly after grinding. Essential oil: amber glass, cool place, nitrogen headspace.
 
-**Marker Compounds:** Linalool, [Geraniol](/ayurveda-atlas/glossary/compounds-d-g/#geraniol), Geranyl acetate, [Camphor](/ayurveda-atlas/herb/camphor/), Rutin, [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/), Coumarins
+**Marker Compounds:** Linalool, [Geraniol](/nighantu/glossary/compounds-d-g/#geraniol), Geranyl acetate, [Camphor](/nighantu/herb/camphor/), Rutin, [Quercetin](/nighantu/reference/quercetinquercetin/), Coumarins
 
 ### Extraction Methods
 
@@ -105,8 +105,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhanyaka/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Jeeraka](/ayurveda-atlas/herb/jeeraka/) ([cumin](/ayurveda-atlas/herb/cumin/)) and Saunf ([fennel](/ayurveda-atlas/herb/fennel/)) as digestive triad
-- With Sunthi ([ginger](/ayurveda-atlas/herb/ginger/)) for enhanced carminative action
-- With [Guduchi](/ayurveda-atlas/herb/guduchi/) for [antipyretic](/ayurveda-atlas/reference/antipyretic/) combination
+- With [Jeeraka](/nighantu/herb/jeeraka/) ([cumin](/nighantu/herb/cumin/)) and Saunf ([fennel](/nighantu/herb/fennel/)) as digestive triad
+- With Sunthi ([ginger](/nighantu/herb/ginger/)) for enhanced carminative action
+- With [Guduchi](/nighantu/herb/guduchi/) for [antipyretic](/nighantu/reference/antipyretic/) combination
 - With Musta for diarrhea and dyspepsia
-- With [Mishreya](/ayurveda-atlas/herb/mishreya/) ([fennel](/ayurveda-atlas/herb/fennel/)) in Shadangapaniya for fever management
+- With [Mishreya](/nighantu/herb/mishreya/) ([fennel](/nighantu/herb/fennel/)) in Shadangapaniya for fever management

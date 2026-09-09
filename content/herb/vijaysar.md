@@ -79,7 +79,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Vijaysar/meta-analysis.
 
 > The present study was aimed to investigate the protective effect of ...
 
-**Keywords:** Aldose reductase, Blood insulin, Diabetic cataract, [Glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose), Pterocarpus marsupium
+**Keywords:** Aldose reductase, Blood insulin, Diabetic cataract, [Glucose](/nighantu/glossary/compounds-d-g/#glucose), Pterocarpus marsupium
 
 #### 6. Anti-cataract activity of Pterocarpus marsupium bark and Trigonella foenum-graecum seeds extract in alloxan diabetic rats.
 
@@ -87,7 +87,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Vijaysar/meta-analysis.
 **Journal:** Journal of ethnopharmacology (2004)
 **PMID:** 15234767
 
-> Long-term complications are frequently encountered in diabetes mellitus and are difficult to treat. This study was undertaken to assess the effect of three [antidiabetic](/ayurveda-atlas/reference/antidiabetic/) plants on the development of cataract in rats. An aqueous extract of Pterocarpus marsupium Linn bark (PM, Hindi name: Vijaysar) (1 g kg(-1) day(-1)), Ocimum sanctum Linn leaves (OS, Hindi name, [Tulsi](/ayurveda-atlas/herb/tulsi/)) (200 mg kg(-1) day(-1)) and alcoholic extract of Trigonella foenum-graecum Linn seeds (FG, Hindi name, [Methi](/ayurveda-atlas/herb/methi/)) (2 g kg(-1) day(-1)) were given to alloxan (120 mg kg(-1)) diabetic rats until the development of cataract. Serum glucose and body weight were monitored at regular intervals while cataract was examined through naked eye as well as slit lamp at 75, 100 and 115 days after alloxan administration. Administration of all the...
+> Long-term complications are frequently encountered in diabetes mellitus and are difficult to treat. This study was undertaken to assess the effect of three [antidiabetic](/nighantu/reference/antidiabetic/) plants on the development of cataract in rats. An aqueous extract of Pterocarpus marsupium Linn bark (PM, Hindi name: Vijaysar) (1 g kg(-1) day(-1)), Ocimum sanctum Linn leaves (OS, Hindi name, [Tulsi](/nighantu/herb/tulsi/)) (200 mg kg(-1) day(-1)) and alcoholic extract of Trigonella foenum-graecum Linn seeds (FG, Hindi name, [Methi](/nighantu/herb/methi/)) (2 g kg(-1) day(-1)) were given to alloxan (120 mg kg(-1)) diabetic rats until the development of cataract. Serum glucose and body weight were monitored at regular intervals while cataract was examined through naked eye as well as slit lamp at 75, 100 and 115 days after alloxan administration. Administration of all the...
 
 #### 7. Pterocarpus marsupium Roxb. heartwood extract synthesized chitosan nanoparticles and its biomedical applications.
 
@@ -120,17 +120,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Vijaysar/meta-analysis.
 
 **Standard Dosage:** 3-6 g heartwood powder twice daily; 50-100 mL decoction twice daily; Vijaysar tumbler water: 200 mL morning on empty stomach; 500 mg-1 g standardized extract capsule twice daily
 
-**Bioavailability:** [Pterostilbene](/ayurveda-atlas/glossary/compounds-o-q/#pterostilbene) (primary active stilbene) has remarkably good oral bioavailability (~80%) due to dimethylation of hydroxyl groups (compared to [resveratrol](/ayurveda-atlas/glossary/compounds-q-t/#resveratrolresveratrol)'s ~20%), better metabolic stability, and enhanced lipophilicity. [Marsupsin](/ayurveda-atlas/glossary/compounds-l-o/#marsupsin) shows moderate oral bioavailability (~30-40%). [Epicatechin](/ayurveda-atlas/glossary/compounds-d-g/#epicatechin) (flavanol) has moderate bioavailability (~20-30%). The traditional 'tumbler method' (overnight water extraction in Vijaysar wood cup) provides slow extraction of water-soluble actives including epicatechin and kino-tannic acid.
+**Bioavailability:** [Pterostilbene](/nighantu/glossary/compounds-o-q/#pterostilbene) (primary active stilbene) has remarkably good oral bioavailability (~80%) due to dimethylation of hydroxyl groups (compared to [resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol)'s ~20%), better metabolic stability, and enhanced lipophilicity. [Marsupsin](/nighantu/glossary/compounds-l-o/#marsupsin) shows moderate oral bioavailability (~30-40%). [Epicatechin](/nighantu/glossary/compounds-d-g/#epicatechin) (flavanol) has moderate bioavailability (~20-30%). The traditional 'tumbler method' (overnight water extraction in Vijaysar wood cup) provides slow extraction of water-soluble actives including epicatechin and kino-tannic acid.
 
 **Optimal Timing:** Morning on empty stomach for maximum glycemic impact; 30 minutes before meals; tumbler water first thing in morning
 
-**Standardized Extract:** Heartwood extract standardized to >5% pterostilbene and >2% epicatechin by HPLC; total [polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols) >20% (as tannic acid equivalent); marsupsin content >1%
+**Standardized Extract:** Heartwood extract standardized to >5% pterostilbene and >2% epicatechin by HPLC; total [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) >20% (as tannic acid equivalent); marsupsin content >1%
 
 **Shelf Life:** Heartwood chips: 36-48 months; Powder: 18-24 months; Capsules/Tablets: 24-36 months; Vijaysar tumbler: 6-12 months (replace when color fading stops); Aqueous extract: 12-18 months
 
 **Storage:** Heartwood and powder in airtight containers at 15-25 deg C. Protected from moisture. Vijaysar tumblers should be kept dry when not in use. Standardized extracts in light-resistant packaging (pterostilbene is moderately photosensitive).
 
-**Marker Compounds:** Pterostilbene, Marsupsin, [Pterosupin](/ayurveda-atlas/glossary/compounds-o-q/#pterosupin), Epicatechin, [Liquiritigenin](/ayurveda-atlas/glossary/compounds-l-o/#liquiritigenin), [Isoliquiritigenin](/ayurveda-atlas/glossary/compounds-g-l/#isoliquiritigenin), Kino-tannic acid, [Pterocarpol](/ayurveda-atlas/glossary/compounds-o-q/#pterocarpol), beta-Eudesmol
+**Marker Compounds:** Pterostilbene, Marsupsin, [Pterosupin](/nighantu/glossary/compounds-o-q/#pterosupin), Epicatechin, [Liquiritigenin](/nighantu/glossary/compounds-l-o/#liquiritigenin), [Isoliquiritigenin](/nighantu/glossary/compounds-g-l/#isoliquiritigenin), Kino-tannic acid, [Pterocarpol](/nighantu/glossary/compounds-o-q/#pterocarpol), beta-Eudesmol
 
 ### Extraction Methods
 
@@ -142,8 +142,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Vijaysar/meta-analysis.
 
 ### Synergistic Combinations
 
-- [Gudmar](/ayurveda-atlas/herb/gudmar/) (Gymnema sylvestre) - synergistic blood sugar management (gymnemic acids + pterostilbene)
-- [Jamun](/ayurveda-atlas/herb/jamun/) (Syzygium cumini) - complementary anti-diabetic action
-- [Karela](/ayurveda-atlas/herb/karela/) (Momordica charantia) - multi-target glycemic control
-- [Methi](/ayurveda-atlas/herb/methi/) (Trigonella foenum-graecum) - fiber and 4-hydroxyisoleucine synergy
-- [Haridra](/ayurveda-atlas/herb/haridra/) ([turmeric](/ayurveda-atlas/herb/turmeric/)) - anti-inflammatory and metabolic syndrome support
+- [Gudmar](/nighantu/herb/gudmar/) (Gymnema sylvestre) - synergistic blood sugar management (gymnemic acids + pterostilbene)
+- [Jamun](/nighantu/herb/jamun/) (Syzygium cumini) - complementary anti-diabetic action
+- [Karela](/nighantu/herb/karela/) (Momordica charantia) - multi-target glycemic control
+- [Methi](/nighantu/herb/methi/) (Trigonella foenum-graecum) - fiber and 4-hydroxyisoleucine synergy
+- [Haridra](/nighantu/herb/haridra/) ([turmeric](/nighantu/herb/turmeric/)) - anti-inflammatory and metabolic syndrome support

@@ -36,11 +36,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Guggulu_Herb
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Raw resin (for processing), Shuddha [Guggulu](/ayurveda-atlas/formulation/guggulu/)|Shuddha Guggulu (purified), Powder, Capsules (modern)
+**Dosage Forms:** Raw resin (for processing), Shuddha [Guggulu](/nighantu/formulation/guggulu/)|Shuddha Guggulu (purified), Powder, Capsules (modern)
 
 **Standard Dosage:** Only as Shuddha (purified) form: 250-500 mg twice daily, as per API/AFI
 
-**Bioavailability:** Raw resin has poor bioavailability and contains irritant fractions. Shodhana processing removes irritant oleoresin components while retaining guggulsterones. Purified [guggulu](/ayurveda-atlas/formulation/guggulu/) has significantly improved safety and moderate oral bioavailability of guggulsterones.
+**Bioavailability:** Raw resin has poor bioavailability and contains irritant fractions. Shodhana processing removes irritant oleoresin components while retaining guggulsterones. Purified [guggulu](/nighantu/formulation/guggulu/) has significantly improved safety and moderate oral bioavailability of guggulsterones.
 
 **Optimal Timing:** After Shodhana, as directed in specific Guggulu formulations
 
@@ -56,6 +56,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Guggulu_Herb
 
 ### Synergistic Combinations
 
-- [Triphala](/ayurveda-atlas/herb/triphala/) (for Shodhana and co-formulation)
-- [Trikatu](/ayurveda-atlas/herb/trikatu/) (as bioenhancer)
+- [Triphala](/nighantu/herb/triphala/) (for Shodhana and co-formulation)
+- [Trikatu](/nighantu/herb/trikatu/) (as bioenhancer)
 - Disease-specific herbs in compound Guggulu formulations

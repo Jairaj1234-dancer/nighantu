@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Jeeraka
 
 **Standard Dosage:** 15-30 mL twice daily after meals with equal water, as per Sahasrayogam/AFI
 
-**Bioavailability:** Fermentation enhances extraction of [cumin](/ayurveda-atlas/herb/cumin/) volatile oils and converts them to bioactive metabolites. Alcohol medium improves absorption of [cuminaldehyde](/ayurveda-atlas/glossary/compounds-c-d/#cuminaldehyde) and other [terpenoids](/ayurveda-atlas/glossary/compounds-t-z/#terpenoids). Classically used as post-partum restorative — good absorption during lactation.
+**Bioavailability:** Fermentation enhances extraction of [cumin](/nighantu/herb/cumin/) volatile oils and converts them to bioactive metabolites. Alcohol medium improves absorption of [cuminaldehyde](/nighantu/glossary/compounds-c-d/#cuminaldehyde) and other [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids). Classically used as post-partum restorative — good absorption during lactation.
 
 **Optimal Timing:** After meals, twice daily, especially post-partum (Sutika kala)
 
@@ -57,7 +57,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Jeeraka
 
 **Storage:** Store in well-closed amber glass or HDPE containers in a cool, dry place. Temperature not exceeding 30°C. Protect from sunlight.
 
-**Marker Compounds:** Cuminaldehyde, Cymene, Gamma-terpinene, Beta-pinene, [Cuminol](/ayurveda-atlas/glossary/compounds-c-d/#cuminol)
+**Marker Compounds:** Cuminaldehyde, Cymene, Gamma-terpinene, Beta-pinene, [Cuminol](/nighantu/glossary/compounds-c-d/#cuminol)
 
 **Quality Parameters:** pH (3.0-4.5), specific gravity, self-generated alcohol (5-12%), total solids, total sugar, total acidity, cuminaldehyde content by GC/HPLC, total volatile oils, microbial limits, heavy metals, absence of methanol
 
@@ -65,7 +65,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Jeeraka
 
 ### Synergistic Combinations
 
-- [Dashamularishta](/ayurveda-atlas/formulation/dashamularishta/) (post-partum)
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) Churna
-- [Balarishta](/ayurveda-atlas/formulation/balarishta/)
-- [Ashwagandharishta](/ayurveda-atlas/formulation/ashwagandharishta/)
+- [Dashamularishta](/nighantu/formulation/dashamularishta/) (post-partum)
+- [Shatavari](/nighantu/herb/shatavari/) Churna
+- [Balarishta](/nighantu/formulation/balarishta/)
+- [Ashwagandharishta](/nighantu/formulation/ashwagandharishta/)

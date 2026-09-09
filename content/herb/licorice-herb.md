@@ -38,19 +38,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Licorice_Herb/meta-analysis.m
 
 **Dosage Forms:** Churna (powder), Kwatha (decoction), Capsules, Tablets, Lozenges, Syrup, Granules, Soft extract, Spray-dried extract, Chewable tablets
 
-**Standard Dosage:** 1-3 g root powder per day; 250-500 mg standardized extract (DGL) up to 3 times daily; 5-15 mL syrup 3 times daily. Limit continuous use to 4-6 weeks for [glycyrrhizin](/ayurveda-atlas/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin)-containing products.
+**Standard Dosage:** 1-3 g root powder per day; 250-500 mg standardized extract (DGL) up to 3 times daily; 5-15 mL syrup 3 times daily. Limit continuous use to 4-6 weeks for [glycyrrhizin](/nighantu/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin)-containing products.
 
-**Bioavailability:** Glycyrrhizin is hydrolyzed by intestinal bacteria to glycyrrhetinic acid (active metabolite) with approximately 70-90% absorption. Glycyrrhetinic acid has a long half-life (6-10 hours). [Flavonoids](/ayurveda-atlas/reference/flavonoids/) ([liquiritigenin](/ayurveda-atlas/glossary/compounds-l-o/#liquiritigenin), [isoliquiritigenin](/ayurveda-atlas/glossary/compounds-g-l/#isoliquiritigenin)) show moderate oral bioavailability enhanced by phospholipid complexation. DGL (deglycyrrhizinated licorice) bypasses mineralocorticoid side effects while retaining mucosal protective actions.
+**Bioavailability:** Glycyrrhizin is hydrolyzed by intestinal bacteria to glycyrrhetinic acid (active metabolite) with approximately 70-90% absorption. Glycyrrhetinic acid has a long half-life (6-10 hours). [Flavonoids](/nighantu/reference/flavonoids/) ([liquiritigenin](/nighantu/glossary/compounds-l-o/#liquiritigenin), [isoliquiritigenin](/nighantu/glossary/compounds-g-l/#isoliquiritigenin)) show moderate oral bioavailability enhanced by phospholipid complexation. DGL (deglycyrrhizinated licorice) bypasses mineralocorticoid side effects while retaining mucosal protective actions.
 
 **Optimal Timing:** 30 minutes before meals for gastric protection (DGL); after meals for digestive comfort; between meals for adrenal support; before bed in warm milk for throat soothing
 
-**Standardized Extract:** Full-spectrum extract standardized to 20-25% glycyrrhizic acid. DGL extract with less than 3% glycyrrhizin, standardized to minimum 10% flavonoids. [Glabridin](/ayurveda-atlas/glossary/compounds-d-g/#glabridin)-enriched extract (minimum 2.5% glabridin) for skin-lightening applications. Soft extract (4:1) as pharmaceutical excipient.
+**Standardized Extract:** Full-spectrum extract standardized to 20-25% glycyrrhizic acid. DGL extract with less than 3% glycyrrhizin, standardized to minimum 10% flavonoids. [Glabridin](/nighantu/glossary/compounds-d-g/#glabridin)-enriched extract (minimum 2.5% glabridin) for skin-lightening applications. Soft extract (4:1) as pharmaceutical excipient.
 
 **Shelf Life:** 36 months for root powder; 36 months for dry extract in sealed containers; 24 months for capsules/tablets; 18 months for syrups; 24 months for lozenges
 
 **Storage:** Store below 25 deg C in airtight containers. Root powder is hygroscopic; protect from moisture (RH below 55%). Soft extract should be stored in well-closed containers to prevent drying. Liquid forms at room temperature away from light.
 
-**Marker Compounds:** Glycyrrhizin (glycyrrhizic acid), Glycyrrhetinic acid (18-beta), Liquiritigenin, Isoliquiritigenin, Glabridin, [Liquiritin](/ayurveda-atlas/glossary/compounds-l-o/#liquiritin), Glabrol, Licoricidin
+**Marker Compounds:** Glycyrrhizin (glycyrrhizic acid), Glycyrrhetinic acid (18-beta), Liquiritigenin, Isoliquiritigenin, Glabridin, [Liquiritin](/nighantu/glossary/compounds-l-o/#liquiritin), Glabrol, Licoricidin
 
 ### Extraction Methods
 
@@ -63,9 +63,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Licorice_Herb/meta-analysis.m
 
 ### Synergistic Combinations
 
-- Adhatoda/[Vasa](/ayurveda-atlas/herb/vasa/) (respiratory synergy for cough)
+- Adhatoda/[Vasa](/nighantu/herb/vasa/) (respiratory synergy for cough)
 - Amalaki (gastric mucosal protection)
-- [Tulsi](/ayurveda-atlas/herb/tulsi/) ([immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) and respiratory)
-- [Haridra](/ayurveda-atlas/herb/haridra/) (anti-inflammatory and [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/))
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) ([adaptogenic](/ayurveda-atlas/reference/adaptogenic/) and adrenal support)
-- [Pippali](/ayurveda-atlas/herb/pippali/) ([Trikatu](/ayurveda-atlas/herb/trikatu/) formulation for respiratory conditions)
+- [Tulsi](/nighantu/herb/tulsi/) ([immunomodulatory](/nighantu/reference/immunomodulatory/) and respiratory)
+- [Haridra](/nighantu/herb/haridra/) (anti-inflammatory and [hepatoprotective](/nighantu/reference/hepatoprotective/))
+- [Ashwagandha](/nighantu/herb/ashwagandha/) ([adaptogenic](/nighantu/reference/adaptogenic/) and adrenal support)
+- [Pippali](/nighantu/herb/pippali/) ([Trikatu](/nighantu/herb/trikatu/) formulation for respiratory conditions)

@@ -27,7 +27,7 @@ Rasaratna Samuchaya; Rasa Tarangini; Rasaprakasha Sudhakara. Specifically descri
 
 ## How is it used traditionally?
 
-Urdhwa Patana (upward sublimation/distillation) of volatile substances, particularly mercury (Parada), sulfur ([Gandhaka](/ayurveda-atlas/glossary/concepts-a-m/#gandhaka)), arsenic compounds, and other low-boiling-point substances used in Rasaushadhi preparation.
+Urdhwa Patana (upward sublimation/distillation) of volatile substances, particularly mercury (Parada), sulfur ([Gandhaka](/nighantu/glossary/concepts-a-m/#gandhaka)), arsenic compounds, and other low-boiling-point substances used in Rasaushadhi preparation.
 
 ## Traditional materials
 

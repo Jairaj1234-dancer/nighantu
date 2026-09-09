@@ -45,21 +45,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Medasaka/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Kwatha (decoction), Capsules, [Ghrita](/ayurveda-atlas/herb/ghrita/) (medicated ghee), Taila (medicated oil), Avaleha (confection)
+**Dosage Forms:** Churna (powder), Kwatha (decoction), Capsules, [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Taila (medicated oil), Avaleha (confection)
 
 **Standard Dosage:** 3-6 g powder per day in divided doses; 50-100 mL decoction twice daily; 500 mg extract capsules twice daily
 
-**Bioavailability:** Similar profile to [Meda](/ayurveda-atlas/herb/meda/). Saponin [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) undergo intestinal hydrolysis. Sapogenins show improved absorption with lipid vehicles. Mucilaginous fraction provides local GI effects without systemic absorption. Overall moderate bioavailability for steroidal components.
+**Bioavailability:** Similar profile to [Meda](/nighantu/herb/meda/). Saponin [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) undergo intestinal hydrolysis. Sapogenins show improved absorption with lipid vehicles. Mucilaginous fraction provides local GI effects without systemic absorption. Overall moderate bioavailability for steroidal components.
 
-**Optimal Timing:** With meals for nutritive effects; morning with warm milk for [Rasayana](/ayurveda-atlas/reference/rasayana/) action; Ghrita preparation with meals
+**Optimal Timing:** With meals for nutritive effects; morning with warm milk for [Rasayana](/nighantu/reference/rasayana/) action; Ghrita preparation with meals
 
-**Standardized Extract:** Tuber extract (8:1 hydroalcoholic) standardized to minimum 4% total steroidal [saponins](/ayurveda-atlas/reference/saponins/). [Mucilage](/ayurveda-atlas/glossary/compounds-l-o/#mucilage) fraction isolated for GI-targeted preparations. Combined Ashtavarga extract for premium Rasayana products.
+**Standardized Extract:** Tuber extract (8:1 hydroalcoholic) standardized to minimum 4% total steroidal [saponins](/nighantu/reference/saponins/). [Mucilage](/nighantu/glossary/compounds-l-o/#mucilage) fraction isolated for GI-targeted preparations. Combined Ashtavarga extract for premium Rasayana products.
 
 **Shelf Life:** Fresh tubers: 7-10 days refrigerated. Dried powder: 18 months. Extract capsules: 24 months. Ghrita: 24 months. Taila: 36 months.
 
 **Storage:** Same requirements as Meda. Store dried material below 25 deg C with desiccant protection. Ghrita and Taila at room temperature in glass or stainless steel containers. Protect from moisture and light.
 
-**Marker Compounds:** [Diosgenin](/ayurveda-atlas/glossary/compounds-d-g/#diosgenin), [Stigmasterol](/ayurveda-atlas/reference/stigmasterol/), Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), Hecogenin, [Polysaccharides](/ayurveda-atlas/glossary/compounds-o-q/#polysaccharides) (mucilage), Saponin glycosides
+**Marker Compounds:** [Diosgenin](/nighantu/glossary/compounds-d-g/#diosgenin), [Stigmasterol](/nighantu/reference/stigmasterol/), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Hecogenin, [Polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides) (mucilage), Saponin glycosides
 
 ### Extraction Methods
 
@@ -72,7 +72,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Medasaka/meta-analysis.md"
 ### Synergistic Combinations
 
 - Meda (complementary within Ashtavarga)
-- [Jivaka](/ayurveda-atlas/herb/jivaka/)-[Rishabhaka](/ayurveda-atlas/herb/rishabhaka/) (Ashtavarga group members)
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) (nutritive and reproductive tonic)
-- [Bala](/ayurveda-atlas/herb/bala/)-[Atibala](/ayurveda-atlas/herb/atibala/) (strengthening combination)
-- [Vidari](/ayurveda-atlas/herb/vidari/) Kanda (nutritive Rasayana)
+- [Jivaka](/nighantu/herb/jivaka/)-[Rishabhaka](/nighantu/herb/rishabhaka/) (Ashtavarga group members)
+- [Shatavari](/nighantu/herb/shatavari/) (nutritive and reproductive tonic)
+- [Bala](/nighantu/herb/bala/)-[Atibala](/nighantu/herb/atibala/) (strengthening combination)
+- [Vidari](/nighantu/herb/vidari/) Kanda (nutritive Rasayana)

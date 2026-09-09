@@ -17,7 +17,7 @@ export const GET: APIRoute = ({ props }) => {
       ? ['', '## Common questions', '', ...d.faq.flatMap((f: any) => [`### ${f.q}`, '', f.a, ''])]
       : []),
     '', '---', '',
-    'Published by Age Ayurveda in the Ayurveda Atlas. Educational reference only, not medical advice.',
+    'Published by Age Ayurveda in the Nighantu. Educational reference only, not medical advice.',
   ].join('\n');
   return new Response(body, { headers: { 'Content-Type': 'text/markdown; charset=utf-8' } });
 };

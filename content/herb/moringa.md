@@ -48,8 +48,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Moringa/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Isothiocyanates](/ayurveda-atlas/glossary/compounds-g-l/#isothiocyanates)
-- [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/)
+- [Isothiocyanates](/nighantu/glossary/compounds-g-l/#isothiocyanates)
+- [Quercetin](/nighantu/reference/quercetinquercetin/)
 - Chlorogenic acid
 - Beta-carotene
 - Vitamin C
@@ -60,10 +60,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Moringa/meta-analysis.md"
 
 - Nutritive (superfood)
 - Anti-inflammatory
-- [Antioxidant](/ayurveda-atlas/reference/antioxidant/)
+- [Antioxidant](/nighantu/reference/antioxidant/)
 - Anti-diabetic
-- [Antimicrobial](/ayurveda-atlas/reference/antimicrobial/)
-- [Hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/)
+- [Antimicrobial](/nighantu/reference/antimicrobial/)
+- [Hepatoprotective](/nighantu/reference/hepatoprotective/)
 
 ## How does it work?
 
@@ -72,13 +72,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Moringa/meta-analysis.md"
 - Dual NF-kB suppression and Nrf2 activation provides simultaneous anti-inflammatory and antioxidant effects.
 - MIC-1 upregulates glutathione S-transferases (GST), preventing cell damage through reduced glutathione reactions with xenobiotics and ROS.
 - Suppresses pro-inflammatory cytokines in LPS-stimulated macrophages.
-- Reduces reactive oxygen species in high-[glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose)-treated human renal proximal tubule cells (HK-2), relevant to diabetic nephropathy.
+- Reduces reactive oxygen species in high-[glucose](/nighantu/glossary/compounds-d-g/#glucose)-treated human renal proximal tubule cells (HK-2), relevant to diabetic nephropathy.
 - Transcriptomic analysis shows MIC-1 modulates inflammation, immunity, and oxidative stress pathways simultaneously.
-- Rich in isothiocyanates, [flavonoids](/ayurveda-atlas/reference/flavonoids/), phenolic acids, and [glucosinolates](/ayurveda-atlas/glossary/compounds-d-g/#glucosinolates) that act as indirect antioxidants.
+- Rich in isothiocyanates, [flavonoids](/nighantu/reference/flavonoids/), phenolic acids, and [glucosinolates](/nighantu/glossary/compounds-d-g/#glucosinolates) that act as indirect antioxidants.
 
 ## How is it used traditionally?
 
-Called 'Shigru' in Ayurveda. Used extensively in [Dashamoola](/ayurveda-atlas/herb/dashamoola/) preparations. Indicated for Shotha (inflammation), Krimi (parasites), and Vata disorders.
+Called 'Shigru' in Ayurveda. Used extensively in [Dashamoola](/nighantu/herb/dashamoola/) preparations. Indicated for Shotha (inflammation), Krimi (parasites), and Vata disorders.
 
 ## Where is it described in the classical texts?
 
@@ -92,7 +92,7 @@ Called 'Shigru' in Ayurveda. Used extensively in [Dashamoola](/ayurveda-atlas/he
 - **Effects of Moringa Oleifera leaf extract on glycemic control and inflammation in metabolic syndrome: a randomized controlled trial** (2025): RCT demonstrating Moringa leaf extract improves glycemic control and reduces inflammatory markers in patients with metabolic syndrome.
 - **Preclinical Evidence of the Therapeutic Effect of Moringa oleifera in Peptic Ulcer Disease: A Systematic Review and Meta-Analysis** (2026): Meta-analysis confirming gastroprotective and ulcer-healing effects in preclinical studies, but highlighting absence of clinical trials and need for translational research.
 - **Effects of Moringa oleifera leaves on blood glucose, blood pressure, and lipid profile of type 2 diabetic subjects: A parallel group randomized clinical trial** (2023): RCT demonstrating Moringa leaves can improve blood glucose, blood pressure, and lipid profiles in type 2 diabetes patients.
-- **[Neuroprotective](/ayurveda-atlas/reference/neuroprotective/) potential of Moringa oleifera mediated by NF-kB/Nrf2/HO-1 signaling pathway: A review** (2022): Review establishing the neuroprotective mechanisms of Moringa through the NF-kB/Nrf2/HO-1 signaling cascade.
+- **[Neuroprotective](/nighantu/reference/neuroprotective/) potential of Moringa oleifera mediated by NF-kB/Nrf2/HO-1 signaling pathway: A review** (2022): Review establishing the neuroprotective mechanisms of Moringa through the NF-kB/Nrf2/HO-1 signaling cascade.
 
 ## Recent safety updates
 
@@ -101,7 +101,7 @@ Called 'Shigru' in Ayurveda. Used extensively in [Dashamoola](/ayurveda-atlas/he
 - May inhibit conversion of thyroxine (T4) to triiodothyronine (T3) in animal studies - potential interaction with levothyroxine.
 - May decrease how quickly the liver breaks down some medications (CYP enzyme inhibition), potentially increasing drug effects and side effects.
 - May lower blood sugar - caution with diabetes medications to avoid hypoglycemia.
-- May lower blood pressure - potential additive effect with [antihypertensive](/ayurveda-atlas/glossary/pharmacology/#antihypertensive) drugs.
+- May lower blood pressure - potential additive effect with [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive) drugs.
 - Generally well tolerated at doses up to 4 g with no significant increase in adverse events in clinical studies.
 - Transient diarrhea is the most common side effect.
 - Rare case reports: Stevens-Johnson syndrome reported, and cutaneous toxicity with respiratory distress and tongue edema following moringa powder consumption.
@@ -138,7 +138,7 @@ Leaf powder: 2-6g/day; Fresh leaves: 10-20g/day
 
 **Standard Dosage:** 3-6 g leaf powder per day; 500-1500 mg standardized leaf extract daily; 5-10 mL Moringa oil for culinary/topical use; 1-2 g seed powder for water purification
 
-**Bioavailability:** Isothiocyanates (from glucosinolates) are well absorbed (~70-80%). [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/) [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) undergo intestinal hydrolysis with moderate aglycone absorption (~25%). Beta-carotene bioavailability is fat-dependent - co-administer with lipids. Iron and calcium in Moringa leaves show 20-30% absorption rate. Moringa oleifera coagulant protein shows local GI activity without significant systemic absorption.
+**Bioavailability:** Isothiocyanates (from glucosinolates) are well absorbed (~70-80%). [Quercetin](/nighantu/reference/quercetinquercetin/) [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) undergo intestinal hydrolysis with moderate aglycone absorption (~25%). Beta-carotene bioavailability is fat-dependent - co-administer with lipids. Iron and calcium in Moringa leaves show 20-30% absorption rate. Moringa oleifera coagulant protein shows local GI activity without significant systemic absorption.
 
 **Optimal Timing:** Morning with breakfast for nutritional supplementation; before meals for glycemic management; leaf tea between meals; Moringa oil topically at night for skin health
 
@@ -146,9 +146,9 @@ Leaf powder: 2-6g/day; Fresh leaves: 10-20g/day
 
 **Shelf Life:** Dried leaf powder: 18-24 months. Capsules/tablets: 24 months. Ben oil: 36+ months (exceptional oxidative stability). Tea bags: 18 months. Fresh leaves: 3-5 days refrigerated.
 
-**Storage:** Leaf powder in airtight, light-resistant containers below 25 deg C (beta-carotene and [chlorophyll](/ayurveda-atlas/glossary/compounds-c-d/#chlorophyll) are photosensitive). Ben oil at room temperature in dark glass bottles. Capsules in blister packs. Fresh leaves at 4-8 deg C. Protect all forms from humidity.
+**Storage:** Leaf powder in airtight, light-resistant containers below 25 deg C (beta-carotene and [chlorophyll](/nighantu/glossary/compounds-c-d/#chlorophyll) are photosensitive). Ben oil at room temperature in dark glass bottles. Capsules in blister packs. Fresh leaves at 4-8 deg C. Protect all forms from humidity.
 
-**Marker Compounds:** Moringin (4-(alpha-L-rhamnosyloxy)benzyl isothiocyanate), Quercetin, [Kaempferol](/ayurveda-atlas/reference/kaempferol/), Chlorogenic acid, Beta-carotene, Niazimicin, Benzyl isothiocyanate, Oleic acid (in seed oil)
+**Marker Compounds:** Moringin (4-(alpha-L-rhamnosyloxy)benzyl isothiocyanate), Quercetin, [Kaempferol](/nighantu/reference/kaempferol/), Chlorogenic acid, Beta-carotene, Niazimicin, Benzyl isothiocyanate, Oleic acid (in seed oil)
 
 ### Extraction Methods
 
@@ -163,7 +163,7 @@ Leaf powder: 2-6g/day; Fresh leaves: 10-20g/day
 ### Synergistic Combinations
 
 - Spirulina (comprehensive nutritional supplementation)
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) ([adaptogenic](/ayurveda-atlas/reference/adaptogenic/) and nutritive)
+- [Ashwagandha](/nighantu/herb/ashwagandha/) ([adaptogenic](/nighantu/reference/adaptogenic/) and nutritive)
 - Amalaki (antioxidant and vitamin C synergy)
-- [Haridra](/ayurveda-atlas/herb/haridra/) (anti-inflammatory and metabolic)
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) ([immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) and nutritive)
+- [Haridra](/nighantu/herb/haridra/) (anti-inflammatory and metabolic)
+- [Guduchi](/nighantu/herb/guduchi/) ([immunomodulatory](/nighantu/reference/immunomodulatory/) and nutritive)

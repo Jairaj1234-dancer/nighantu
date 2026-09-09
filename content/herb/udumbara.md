@@ -28,24 +28,24 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Udumbara/meta-analysis.m
 
 ## Key Phytochemical Constituents
 
-- [Bergenin](/ayurveda-atlas/glossary/compounds-a-c/#bergenin)
-- Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
-- [Lupeol](/ayurveda-atlas/reference/lupeol/)
-- [Friedelin](/ayurveda-atlas/glossary/compounds-d-g/#friedelin)
+- [Bergenin](/nighantu/glossary/compounds-a-c/#bergenin)
+- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- [Lupeol](/nighantu/reference/lupeol/)
+- [Friedelin](/nighantu/glossary/compounds-d-g/#friedelin)
 - Ceryl behenate
 - Gluacol
 - Ferulic acid
-- [Kaempferol](/ayurveda-atlas/reference/kaempferol/)
-- [Coumarin](/ayurveda-atlas/glossary/compounds-c-d/#coumarin)
+- [Kaempferol](/nighantu/reference/kaempferol/)
+- [Coumarin](/nighantu/glossary/compounds-c-d/#coumarin)
 - Racemosic acid
-- [Tannins](/ayurveda-atlas/reference/tannins/) (ellagic acid derivatives)
+- [Tannins](/nighantu/reference/tannins/) (ellagic acid derivatives)
 
 ## How does it work?
 
-- [Antidiabetic](/ayurveda-atlas/reference/antidiabetic/) action via beta-sitosterol-mediated enhancement of insulin secretion and improvement of peripheral [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose) uptake
-- [Hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) effect through bergenin-mediated reduction of liver enzyme levels and suppression of oxidative stress biomarkers
+- [Antidiabetic](/nighantu/reference/antidiabetic/) action via beta-sitosterol-mediated enhancement of insulin secretion and improvement of peripheral [glucose](/nighantu/glossary/compounds-d-g/#glucose) uptake
+- [Hepatoprotective](/nighantu/reference/hepatoprotective/) effect through bergenin-mediated reduction of liver enzyme levels and suppression of oxidative stress biomarkers
 - Anti-diarrheal activity through tannin-mediated astringent effects on intestinal mucosa and reduction of intestinal motility
-- [Antioxidant](/ayurveda-atlas/reference/antioxidant/) action via free radical scavenging by phenolics, [flavonoids](/ayurveda-atlas/reference/flavonoids/) and bergenin
+- [Antioxidant](/nighantu/reference/antioxidant/) action via free radical scavenging by phenolics, [flavonoids](/nighantu/reference/flavonoids/) and bergenin
 
 ## Which traditional uses are supported by research?
 
@@ -80,7 +80,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Udumbara/meta-analysis.m
 
 **Standard Dosage:** 3-6 g bark powder twice daily; 50-100 mL decoction twice daily; latex: 5-10 drops with honey
 
-**Bioavailability:** Ficusin and [psoralen](/ayurveda-atlas/glossary/compounds-o-q/#psoralen) (furocoumarins) have moderate oral bioavailability (~25-35%). [Leucocyanidin](/ayurveda-atlas/glossary/compounds-g-l/#leucocyanidin) and other condensed tannins are poorly absorbed systemically but exert potent local astringent effects on mucosa. beta-Sitosterol has moderate absorption (~10-15%) enhanced by lipid co-administration. Latex proteases (ficin-like [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes)) are active topically but denatured in GI tract.
+**Bioavailability:** Ficusin and [psoralen](/nighantu/glossary/compounds-o-q/#psoralen) (furocoumarins) have moderate oral bioavailability (~25-35%). [Leucocyanidin](/nighantu/glossary/compounds-g-l/#leucocyanidin) and other condensed tannins are poorly absorbed systemically but exert potent local astringent effects on mucosa. beta-Sitosterol has moderate absorption (~10-15%) enhanced by lipid co-administration. Latex proteases (ficin-like [enzymes](/nighantu/glossary/compounds-d-g/#enzymes)) are active topically but denatured in GI tract.
 
 **Optimal Timing:** Before meals for GI astringent action; after meals for general tonic; external application as needed
 
@@ -90,7 +90,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Udumbara/meta-analysis.m
 
 **Storage:** Bark powder in airtight containers at 15-25 deg C, protected from moisture and insects. Latex stored in amber glass at 2-8 deg C with preservative (0.1% sodium benzoate).
 
-**Marker Compounds:** Ficusin, Psoralen, [Bergapten](/ayurveda-atlas/glossary/compounds-a-c/#bergapten), Leucocyanidin, beta-Sitosterol, [Stigmasterol](/ayurveda-atlas/reference/stigmasterol/), Gallic acid, Ellagic acid, Lupeol, Ficin
+**Marker Compounds:** Ficusin, Psoralen, [Bergapten](/nighantu/glossary/compounds-a-c/#bergapten), Leucocyanidin, beta-Sitosterol, [Stigmasterol](/nighantu/reference/stigmasterol/), Gallic acid, Ellagic acid, Lupeol, Ficin
 
 ### Extraction Methods
 
@@ -102,7 +102,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Udumbara/meta-analysis.m
 
 ### Synergistic Combinations
 
-- [Ashoka](/ayurveda-atlas/herb/ashoka/) (Saraca asoca) - synergistic uterine tonic for menorrhagia
-- [Lodhra](/ayurveda-atlas/herb/lodhra/) (Symplocos racemosa) - astringent synergy for gynecological conditions
-- [Nyagrodha](/ayurveda-atlas/herb/nyagrodha/) (Ficus benghalensis) - Panchavalkal combination (five bark formula)
-- Gular bark in Panchvalkal with Ashvattha, [Plaksha](/ayurveda-atlas/herb/plaksha/), Parisha
+- [Ashoka](/nighantu/herb/ashoka/) (Saraca asoca) - synergistic uterine tonic for menorrhagia
+- [Lodhra](/nighantu/herb/lodhra/) (Symplocos racemosa) - astringent synergy for gynecological conditions
+- [Nyagrodha](/nighantu/herb/nyagrodha/) (Ficus benghalensis) - Panchavalkal combination (five bark formula)
+- Gular bark in Panchvalkal with Ashvattha, [Plaksha](/nighantu/herb/plaksha/), Parisha

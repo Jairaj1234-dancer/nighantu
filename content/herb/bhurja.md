@@ -49,17 +49,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Bhurja/meta-analysis.md"
 
 **Standard Dosage:** 3-6g bark powder twice daily; 50-100ml bark decoction; external paste as needed for wound care
 
-**Bioavailability:** [Betulin](/ayurveda-atlas/glossary/compounds-a-c/#betulin) and betulinic acid show low oral bioavailability (<5%) due to poor aqueous solubility. Cyclodextrin inclusion complexes or amorphous solid dispersions improve betulinic acid bioavailability by 4-8x. Lipid-based delivery (with ghee) moderately enhances absorption. Nanoformulations (PLGA nanoparticles) show significant improvement in preclinical models.
+**Bioavailability:** [Betulin](/nighantu/glossary/compounds-a-c/#betulin) and betulinic acid show low oral bioavailability (<5%) due to poor aqueous solubility. Cyclodextrin inclusion complexes or amorphous solid dispersions improve betulinic acid bioavailability by 4-8x. Lipid-based delivery (with ghee) moderately enhances absorption. Nanoformulations (PLGA nanoparticles) show significant improvement in preclinical models.
 
 **Optimal Timing:** With meals for general use; external paste applied morning and evening for skin conditions; decoction before meals for urinary disorders
 
-**Standardized Extract:** Bark extract standardized to betulin NLT 15%; betulinic acid NLT 3%. Total [triterpenes](/ayurveda-atlas/glossary/compounds-t-z/#triterpenes) NLT 20%.
+**Standardized Extract:** Bark extract standardized to betulin NLT 15%; betulinic acid NLT 3%. Total [triterpenes](/nighantu/glossary/compounds-t-z/#triterpenes) NLT 20%.
 
 **Shelf Life:** 2 years (powder); 3 years (capsule/tablet); 3 years (oil)
 
 **Storage:** Cool, dry place in airtight containers. Bark powder is relatively stable but protect from moisture.
 
-**Marker Compounds:** Betulin, Betulinic acid, [Lupeol](/ayurveda-atlas/reference/lupeol/), Oleanolic acid, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), Methyl salicylate (bark oil)
+**Marker Compounds:** Betulin, Betulinic acid, [Lupeol](/nighantu/reference/lupeol/), Oleanolic acid, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Methyl salicylate (bark oil)
 
 ### Extraction Methods
 
@@ -71,7 +71,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Bhurja/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Guggulu](/ayurveda-atlas/formulation/guggulu/) for anti-inflammatory and wound healing
-- With [Haridra](/ayurveda-atlas/herb/haridra/) for skin conditions
-- With [Manjishtha](/ayurveda-atlas/herb/manjishtha/) for blood purification
-- With [Lodhra](/ayurveda-atlas/herb/lodhra/) for astringent formulations
+- With [Guggulu](/nighantu/formulation/guggulu/) for anti-inflammatory and wound healing
+- With [Haridra](/nighantu/herb/haridra/) for skin conditions
+- With [Manjishtha](/nighantu/herb/manjishtha/) for blood purification
+- With [Lodhra](/nighantu/herb/lodhra/) for astringent formulations

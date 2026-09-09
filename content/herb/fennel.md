@@ -36,11 +36,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Fennel/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Essential oil, Capsule (oil or extract), Tablet, Gripe water (infant formulation), Tea/infusion, Tincture, [Arka](/ayurveda-atlas/herb/arka/) (distillate)
+**Dosage Forms:** Essential oil, Capsule (oil or extract), Tablet, Gripe water (infant formulation), Tea/infusion, Tincture, [Arka](/nighantu/herb/arka/) (distillate)
 
 **Standard Dosage:** Essential oil: 100-200mg (0.1-0.6ml) in enteric capsule daily; seed: 1-4g as tea/infusion 2-3 times daily; tincture: 2-5ml three times daily; gripe water: as directed for infants
 
-**Bioavailability:** Foeniculum vulgare essential oil contains trans-anethole (80-90%) as the dominant constituent. trans-Anethole has good oral bioavailability (>50%) with rapid GI absorption. It is metabolized by CYP [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes) to 4-methoxybenzoic acid. Estragole (minor component, 1-5%) has regulatory attention due to genotoxicity concerns in isolated form. [Fenchone](/ayurveda-atlas/glossary/compounds-d-g/#fenchone) (5-15%) has good bioavailability and contributes to carminative action. Aqueous infusion of seeds provides [flavonoids](/ayurveda-atlas/reference/flavonoids/) and phenolic acids with moderate bioavailability. Enhancement: microencapsulation of essential oil prevents volatile loss and provides sustained release.
+**Bioavailability:** Foeniculum vulgare essential oil contains trans-anethole (80-90%) as the dominant constituent. trans-Anethole has good oral bioavailability (>50%) with rapid GI absorption. It is metabolized by CYP [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) to 4-methoxybenzoic acid. Estragole (minor component, 1-5%) has regulatory attention due to genotoxicity concerns in isolated form. [Fenchone](/nighantu/glossary/compounds-d-g/#fenchone) (5-15%) has good bioavailability and contributes to carminative action. Aqueous infusion of seeds provides [flavonoids](/nighantu/reference/flavonoids/) and phenolic acids with moderate bioavailability. Enhancement: microencapsulation of essential oil prevents volatile loss and provides sustained release.
 
 **Optimal Timing:** After meals for digestive support; fennel tea throughout the day as a gentle carminative; gripe water for infants after feeding
 
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Fennel/meta-analysis.md"
 
 **Storage:** Whole seeds: airtight containers at room temperature. Essential oil: amber glass above 25 deg C (to prevent crystallization) in sealed containers. Ground seeds: nitrogen-flushed, sealed containers, use promptly. Protect from light.
 
-**Marker Compounds:** trans-Anethole, Fenchone, Estragole (methylchavicol) - monitored for safety, [Limonene](/ayurveda-atlas/glossary/compounds-g-l/#limonene), Alpha-pinene, Rosmarinic acid, [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/)-3-glucuronide
+**Marker Compounds:** trans-Anethole, Fenchone, Estragole (methylchavicol) - monitored for safety, [Limonene](/nighantu/glossary/compounds-g-l/#limonene), Alpha-pinene, Rosmarinic acid, [Quercetin](/nighantu/reference/quercetinquercetin/)-3-glucuronide
 
 ### Extraction Methods
 
@@ -62,8 +62,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Fennel/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Jeeraka](/ayurveda-atlas/herb/jeeraka/) ([cumin](/ayurveda-atlas/herb/cumin/)) and [Dhanyaka](/ayurveda-atlas/herb/dhanyaka/) ([coriander](/ayurveda-atlas/herb/coriander/)) for digestive triad
+- With [Jeeraka](/nighantu/herb/jeeraka/) ([cumin](/nighantu/herb/cumin/)) and [Dhanyaka](/nighantu/herb/dhanyaka/) ([coriander](/nighantu/herb/coriander/)) for digestive triad
 - With Saunf and Mishri (sugar candy) as traditional mouth freshener and digestive
 - With Sunthi for enhanced carminative action
-- With [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) for gastric soothing
-- With [Shatavari](/ayurveda-atlas/herb/shatavari/) for [galactagogue](/ayurveda-atlas/glossary/pharmacology/#galactagogue) (lactation support) combination
+- With [Yashtimadhu](/nighantu/herb/yashtimadhu/) for gastric soothing
+- With [Shatavari](/nighantu/herb/shatavari/) for [galactagogue](/nighantu/glossary/pharmacology/#galactagogue) (lactation support) combination

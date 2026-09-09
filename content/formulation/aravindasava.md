@@ -29,27 +29,27 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Aravind
 
 - Kamal/Aravinda (Nelumbo nucifera / Lotus)
 - Neel Kamal (Nymphaea stellata / Blue Water Lily)
-- [Gambhari](/ayurveda-atlas/herb/gambhari/) (Gmelina arborea)
-- [Manjishtha](/ayurveda-atlas/herb/manjishtha/) (Rubia cordifolia)
-- [Jatamansi](/ayurveda-atlas/herb/jatamansi/) (Nardostachys [jatamansi](/ayurveda-atlas/herb/jatamansi/))
-- [Bala](/ayurveda-atlas/herb/bala/) (Sida cordifolia)
-- [Triphala](/ayurveda-atlas/herb/triphala/) ([Haritaki](/ayurveda-atlas/herb/haritaki/), [Bibhitaki](/ayurveda-atlas/herb/bibhitaki/), Amalaki)
-- [Vacha](/ayurveda-atlas/herb/vacha/) (Acorus calamus)
-- [Arjuna](/ayurveda-atlas/herb/arjuna/) Chhal (Terminalia [arjuna](/ayurveda-atlas/herb/arjuna/) bark)
-- [Dhataki](/ayurveda-atlas/herb/dhataki/) pushpa (Woodfordia fruticosa)
-- [Trikatu](/ayurveda-atlas/herb/trikatu/) ([Pippali](/ayurveda-atlas/herb/pippali/), Maricha, Shunthi)
-- [Draksha](/ayurveda-atlas/herb/draksha/) (Vitis vinifera / Dry grapes)
+- [Gambhari](/nighantu/herb/gambhari/) (Gmelina arborea)
+- [Manjishtha](/nighantu/herb/manjishtha/) (Rubia cordifolia)
+- [Jatamansi](/nighantu/herb/jatamansi/) (Nardostachys [jatamansi](/nighantu/herb/jatamansi/))
+- [Bala](/nighantu/herb/bala/) (Sida cordifolia)
+- [Triphala](/nighantu/herb/triphala/) ([Haritaki](/nighantu/herb/haritaki/), [Bibhitaki](/nighantu/herb/bibhitaki/), Amalaki)
+- [Vacha](/nighantu/herb/vacha/) (Acorus calamus)
+- [Arjuna](/nighantu/herb/arjuna/) Chhal (Terminalia [arjuna](/nighantu/herb/arjuna/) bark)
+- [Dhataki](/nighantu/herb/dhataki/) pushpa (Woodfordia fruticosa)
+- [Trikatu](/nighantu/herb/trikatu/) ([Pippali](/nighantu/herb/pippali/), Maricha, Shunthi)
+- [Draksha](/nighantu/herb/draksha/) (Vitis vinifera / Dry grapes)
 
 ## Where is it described in the classical texts?
 
-Sahasrayogam and Bhaishajya Ratnavali, categorized under Raktaprasadana [Rasayana](/ayurveda-atlas/reference/rasayana/) (blood-enhancing tonics). Traditionally used in Kerala and North Indian Ayurvedic pediatric practice.
+Sahasrayogam and Bhaishajya Ratnavali, categorized under Raktaprasadana [Rasayana](/nighantu/reference/rasayana/) (blood-enhancing tonics). Traditionally used in Kerala and North Indian Ayurvedic pediatric practice.
 
 ## How does it work?
 
 - Agni (digestive fire) kindling through Ushna Virya and Katu Vipaka improves appetite and nutrient absorption in children
-- [Immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) action through [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) and [flavonoids](/ayurveda-atlas/reference/flavonoids/) enhances innate and adaptive immunity in developing children
-- Raktaprasadana (blood-enriching) activity of [Manjishtha](/ayurveda-atlas/herb/manjishtha/) and [Triphala](/ayurveda-atlas/herb/triphala/) supports healthy hematopoiesis
-- Medhya (intellect-promoting) action of [Vacha](/ayurveda-atlas/herb/vacha/) and [Jatamansi](/ayurveda-atlas/herb/jatamansi/) supports cognitive and mental development
+- [Immunomodulatory](/nighantu/reference/immunomodulatory/) action through [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) and [flavonoids](/nighantu/reference/flavonoids/) enhances innate and adaptive immunity in developing children
+- Raktaprasadana (blood-enriching) activity of [Manjishtha](/nighantu/herb/manjishtha/) and [Triphala](/nighantu/herb/triphala/) supports healthy hematopoiesis
+- Medhya (intellect-promoting) action of [Vacha](/nighantu/herb/vacha/) and [Jatamansi](/nighantu/herb/jatamansi/) supports cognitive and mental development
 
 ## Which traditional uses are supported by research?
 
@@ -84,7 +84,7 @@ Sahasrayogam and Bhaishajya Ratnavali, categorized under Raktaprasadana [Rasayan
 
 **Standard Dosage:** 5-10 mL (pediatric) to 15-25 mL (adult) twice daily after meals with equal water, as per AFI Part I
 
-**Bioavailability:** Self-generated alcohol and honey base enhance absorption. Cold infusion process preserves heat-sensitive actives better than Arishta process. Fermentation converts [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) to bioactive aglycones.
+**Bioavailability:** Self-generated alcohol and honey base enhance absorption. Cold infusion process preserves heat-sensitive actives better than Arishta process. Fermentation converts [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) to bioactive aglycones.
 
 **Optimal Timing:** After meals, twice daily. For infants: as directed by physician
 
@@ -92,7 +92,7 @@ Sahasrayogam and Bhaishajya Ratnavali, categorized under Raktaprasadana [Rasayan
 
 **Storage:** Store in well-closed amber glass or HDPE containers in a cool, dry place. Protect from sunlight. Temperature not exceeding 30°C.
 
-**Marker Compounds:** [Nuciferine](/ayurveda-atlas/glossary/compounds-l-o/#nuciferine), [Neferine](/ayurveda-atlas/glossary/compounds-l-o/#neferine), [Liensinine](/ayurveda-atlas/glossary/compounds-g-l/#liensinine), Armepavine
+**Marker Compounds:** [Nuciferine](/nighantu/glossary/compounds-l-o/#nuciferine), [Neferine](/nighantu/glossary/compounds-l-o/#neferine), [Liensinine](/nighantu/glossary/compounds-g-l/#liensinine), Armepavine
 
 **Quality Parameters:** pH (3.0-4.5), specific gravity, self-generated alcohol (5-10% v/v), total solids, total sugar, total acidity, microbial limits, heavy metals, HPTLC fingerprint for nuciferine, methanol absence
 
@@ -100,7 +100,7 @@ Sahasrayogam and Bhaishajya Ratnavali, categorized under Raktaprasadana [Rasayan
 
 ### Synergistic Combinations
 
-- [Balarishta](/ayurveda-atlas/formulation/balarishta/)
+- [Balarishta](/nighantu/formulation/balarishta/)
 - Bal Chaturbhadra Churna
 - Suvarna Prashan
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) Churna
+- [Ashwagandha](/nighantu/herb/ashwagandha/) Churna

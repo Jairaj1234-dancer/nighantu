@@ -30,21 +30,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Atasi/meta-analysis.md"
 
 - Alpha-linolenic acid (ALA, omega-3 fatty acid, ~55% of seed oil)
 - Secoisolariciresinol diglucoside (SDG - phytoestrogen lignan)
-- Dietary fiber (both soluble [mucilage](/ayurveda-atlas/glossary/compounds-l-o/#mucilage) and insoluble)
-- Cyclolinopeptides (cyclic [peptides](/ayurveda-atlas/glossary/compounds-o-q/#peptides))
-- [Flavonoids](/ayurveda-atlas/reference/flavonoids/) ([herbacetin](/ayurveda-atlas/glossary/compounds-g-l/#herbacetin) diglucoside)
-- Cyanogenic [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) (linamarin, linustatin)
+- Dietary fiber (both soluble [mucilage](/nighantu/glossary/compounds-l-o/#mucilage) and insoluble)
+- Cyclolinopeptides (cyclic [peptides](/nighantu/glossary/compounds-o-q/#peptides))
+- [Flavonoids](/nighantu/reference/flavonoids/) ([herbacetin](/nighantu/glossary/compounds-g-l/#herbacetin) diglucoside)
+- Cyanogenic [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) (linamarin, linustatin)
 
 ## How does it work?
 
-- [Cardioprotective](/ayurveda-atlas/reference/cardioprotective/) effects via ALA omega-3 fatty acid-mediated reduction of inflammatory eicosanoids and improvement of lipid profile
+- [Cardioprotective](/nighantu/reference/cardioprotective/) effects via ALA omega-3 fatty acid-mediated reduction of inflammatory eicosanoids and improvement of lipid profile
 - Anti-cancer activity through SDG lignan conversion to enterolactone/enterodiol by gut microbiota, modulating estrogen receptor signaling
 - Anti-inflammatory mechanism via inhibition of NF-kB pathway and reduction of pro-inflammatory cytokines (TNF-alpha, IL-6)
-- Hypoglycemic effect through soluble fiber-mediated delayed [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose) absorption and improved insulin sensitivity
+- Hypoglycemic effect through soluble fiber-mediated delayed [glucose](/nighantu/glossary/compounds-d-g/#glucose) absorption and improved insulin sensitivity
 
 ## Which traditional uses are supported by research?
 
-- [Laxative](/ayurveda-atlas/reference/laxative/) and digestive (Bhedana) - validated as bulk-forming laxative through mucilage fiber action; approved by German Commission E
+- [Laxative](/nighantu/reference/laxative/) and digestive (Bhedana) - validated as bulk-forming laxative through mucilage fiber action; approved by German Commission E
 - Skin and hair health (Tvachya, Keshya) - supported by ALA omega-3 anti-inflammatory effects on skin conditions including eczema
 - Anti-inflammatory (Shothaghna) - validated through multiple preclinical and clinical studies showing reduction in inflammatory markers
 - Cardiovascular health (Hridya) - confirmed through clinical trials showing reduction in blood pressure, cholesterol, and triglycerides
@@ -53,7 +53,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Atasi/meta-analysis.md"
 
 - **Flaxseed (Linum usitatissimum): phytochemistry, pharmacological characteristics and functional food applications** (2024): Comprehensive review confirming SDG lignan as major bioactive compound with potent anti-cancer, anti-inflammatory, and cardioprotective properties; highlighted nanoformulation approaches to enhance bioavailability.
 - **Flaxseed As Medicinal Herb (IAJPS)** (2025): Updated review documenting significant anti-cancer activity against breast, colon, and prostate cancers through SDG-mediated estrogen receptor modulation and apoptosis induction.
-- **Comprehensive Review on Linum usitatissimum: Phytochemistry, Pharmacology, and Ethnomedicinal Uses** (2024): Confirmed [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/), renoprotective, and immunosuppressive activities of pure compounds and crude extracts from flaxseed in multiple animal models.
+- **Comprehensive Review on Linum usitatissimum: Phytochemistry, Pharmacology, and Ethnomedicinal Uses** (2024): Confirmed [hepatoprotective](/nighantu/reference/hepatoprotective/), renoprotective, and immunosuppressive activities of pure compounds and crude extracts from flaxseed in multiple animal models.
 
 ## Recent safety updates
 
@@ -82,13 +82,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Atasi/meta-analysis.md"
 
 **Standard Dosage:** 5-10g ground seed daily (in divided doses); 5-15ml oil daily; 1-2 softgel capsules (1000mg each); seed meal 10-20g
 
-**Bioavailability:** ALA (alpha-linolenic acid) from flaxseed oil has good absorption (~96%) but limited conversion to EPA (5-10%) and DHA (<1%). SDG (secoisolariciresinol diglucoside) is converted by gut bacteria to enterolactone and enterodiol (mammalian [lignans](/ayurveda-atlas/glossary/compounds-g-l/#lignans)) — bioavailability depends on microbiome composition. Ground seed releases ALA and lignans much better than whole seeds (which may pass undigested). Mucilage (soluble fiber) slows gastric emptying and provides prebiotic effects.
+**Bioavailability:** ALA (alpha-linolenic acid) from flaxseed oil has good absorption (~96%) but limited conversion to EPA (5-10%) and DHA (<1%). SDG (secoisolariciresinol diglucoside) is converted by gut bacteria to enterolactone and enterodiol (mammalian [lignans](/nighantu/glossary/compounds-g-l/#lignans)) — bioavailability depends on microbiome composition. Ground seed releases ALA and lignans much better than whole seeds (which may pass undigested). Mucilage (soluble fiber) slows gastric emptying and provides prebiotic effects.
 
 **Optimal Timing:** Ground seed with meals (morning) for constipation and lipid management. Oil with food for omega-3 supplementation. Mucilage soaked overnight, consumed morning for prebiotic/laxative effect.
 
 **Standardized Extract:** Seed oil: minimum 50% ALA (alpha-linolenic acid). Lignan extract standardized to minimum 20% SDG (secoisolariciresinol diglucoside). Defatted flaxseed meal with minimum 2% SDG.
 
-**Shelf Life:** 1 year (whole seeds); 1 week (ground seed, room temperature); 6 months (oil, sealed); 2 years (softgels with [antioxidant](/ayurveda-atlas/reference/antioxidant/)); 2 years (lignan extract capsules)
+**Shelf Life:** 1 year (whole seeds); 1 week (ground seed, room temperature); 6 months (oil, sealed); 2 years (softgels with [antioxidant](/nighantu/reference/antioxidant/)); 2 years (lignan extract capsules)
 
 **Storage:** Whole seeds: cool, dry place at room temperature. Oil: refrigerated after opening, amber glass or opaque containers, nitrogen-flushed headspace. Ground seed: refrigerate or freeze, use quickly.
 
@@ -104,7 +104,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Atasi/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Isabgol](/ayurveda-atlas/herb/isabgol/) (psyllium) for constipation and lipid management
-- With [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) for anti-inflammatory synergy
-- With [Tila](/ayurveda-atlas/herb/tila/) (sesame) for balanced omega fatty acid supplementation
-- With [Haritaki](/ayurveda-atlas/herb/haritaki/) for digestive regularity
+- With [Isabgol](/nighantu/herb/isabgol/) (psyllium) for constipation and lipid management
+- With [Ashwagandha](/nighantu/herb/ashwagandha/) for anti-inflammatory synergy
+- With [Tila](/nighantu/herb/tila/) (sesame) for balanced omega fatty acid supplementation
+- With [Haritaki](/nighantu/herb/haritaki/) for digestive regularity

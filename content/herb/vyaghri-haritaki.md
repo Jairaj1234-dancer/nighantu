@@ -23,38 +23,38 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vyaghri-Haritaki/meta-analysi
 
 | Language | Name |
 |----------|------|
-| English | Vyaghri [Haritaki](/ayurveda-atlas/herb/haritaki/)|Vyaghri Haritaki |
-| Latin/Botanical | *Polyherbal formulation: Solanum surattense Burm.f. ([Kantakari](/ayurveda-atlas/herb/kantakari/)/Vyaghri) + Terminalia chebula Retz. ([Haritaki](/ayurveda-atlas/herb/haritaki/)) as principal herbs* |
+| English | Vyaghri [Haritaki](/nighantu/herb/haritaki/)|Vyaghri Haritaki |
+| Latin/Botanical | *Polyherbal formulation: Solanum surattense Burm.f. ([Kantakari](/nighantu/herb/kantakari/)/Vyaghri) + Terminalia chebula Retz. ([Haritaki](/nighantu/herb/haritaki/)) as principal herbs* |
 
 ## Key Phytochemical Constituents
 
-- [Solasonine](/ayurveda-atlas/glossary/compounds-q-t/#solasonine) and [solanine](/ayurveda-atlas/glossary/compounds-q-t/#solanine) (steroidal glycoalkaloids from [Kantakari](/ayurveda-atlas/herb/kantakari/))
-- [Solasodine](/ayurveda-atlas/glossary/compounds-q-t/#solasodine) (steroidal aglycone from [Kantakari](/ayurveda-atlas/herb/kantakari/))
-- Chebulinic acid and chebulagic acid (from [Haritaki](/ayurveda-atlas/herb/haritaki/))
-- Gallic acid and ellagic acid (from [Haritaki](/ayurveda-atlas/herb/haritaki/))
-- [Tannins](/ayurveda-atlas/reference/tannins/) (from [Haritaki](/ayurveda-atlas/herb/haritaki/) - 32-45%)
-- [Diosgenin](/ayurveda-atlas/glossary/compounds-d-g/#diosgenin) (from [Kantakari](/ayurveda-atlas/herb/kantakari/))
-- [Piperine](/ayurveda-atlas/reference/piperine/) (from [Pippali](/ayurveda-atlas/herb/pippali/), if included in formulation)
-- Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
-- [Carpesterol](/ayurveda-atlas/glossary/compounds-a-c/#carpesterol) (from [Kantakari](/ayurveda-atlas/herb/kantakari/) fruits)
+- [Solasonine](/nighantu/glossary/compounds-q-t/#solasonine) and [solanine](/nighantu/glossary/compounds-q-t/#solanine) (steroidal glycoalkaloids from [Kantakari](/nighantu/herb/kantakari/))
+- [Solasodine](/nighantu/glossary/compounds-q-t/#solasodine) (steroidal aglycone from [Kantakari](/nighantu/herb/kantakari/))
+- Chebulinic acid and chebulagic acid (from [Haritaki](/nighantu/herb/haritaki/))
+- Gallic acid and ellagic acid (from [Haritaki](/nighantu/herb/haritaki/))
+- [Tannins](/nighantu/reference/tannins/) (from [Haritaki](/nighantu/herb/haritaki/) - 32-45%)
+- [Diosgenin](/nighantu/glossary/compounds-d-g/#diosgenin) (from [Kantakari](/nighantu/herb/kantakari/))
+- [Piperine](/nighantu/reference/piperine/) (from [Pippali](/nighantu/herb/pippali/), if included in formulation)
+- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- [Carpesterol](/nighantu/glossary/compounds-a-c/#carpesterol) (from [Kantakari](/nighantu/herb/kantakari/) fruits)
 
 ## How does it work?
 
-- Antitussive and bronchodilatory mechanism through [Kantakari](/ayurveda-atlas/herb/kantakari/) steroidal [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) relaxing bronchial smooth muscle and reducing cough reflex sensitivity, combined with [Haritaki](/ayurveda-atlas/herb/haritaki/)'s mucolytic action
-- Anti-inflammatory and anti-allergic mechanism through solasonine and tannin-mediated inhibition of mast cell degranulation and reduction of [histamine](/ayurveda-atlas/glossary/compounds-g-l/#histamine) release in airways
-- Mild [laxative](/ayurveda-atlas/reference/laxative/) and detoxification mechanism through Haritaki's chebulinic acid stimulating gentle peristalsis and binding toxins in the GI tract
+- Antitussive and bronchodilatory mechanism through [Kantakari](/nighantu/herb/kantakari/) steroidal [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) relaxing bronchial smooth muscle and reducing cough reflex sensitivity, combined with [Haritaki](/nighantu/herb/haritaki/)'s mucolytic action
+- Anti-inflammatory and anti-allergic mechanism through solasonine and tannin-mediated inhibition of mast cell degranulation and reduction of [histamine](/nighantu/glossary/compounds-g-l/#histamine) release in airways
+- Mild [laxative](/nighantu/reference/laxative/) and detoxification mechanism through Haritaki's chebulinic acid stimulating gentle peristalsis and binding toxins in the GI tract
 
 ## Which traditional uses are supported by research?
 
 - Antitussive and anti-asthmatic efficacy validated through pharmacological studies confirming bronchodilatory and cough-suppressant properties, supporting premier use in Kasa (cough) and Shwasa (asthma)
-- Treatment of Pratishyaya (chronic rhinitis/sinusitis) supported by anti-inflammatory and [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) properties of constituent herbs
+- Treatment of Pratishyaya (chronic rhinitis/sinusitis) supported by anti-inflammatory and [antimicrobial](/nighantu/reference/antimicrobial/) properties of constituent herbs
 - Mild laxative and detoxification role validated through Haritaki's well-established purgative pharmacology, confirming traditional use in maintaining digestive health
 
 ## What do recent clinical trials show?
 
-- **Review of Evidence Based Study on [Vyaghri Haritaki](/ayurveda-atlas/herb/vyaghri-haritaki/) Avaleha with Special Reference to Certain Respiratory Disorders** (2021): Reviewed evidence for use in respiratory disorders, confirming antitussive and bronchodilatory activities of Kantakari and Haritaki with positive effects on airway dilation and immune modulation.
-- **A Meticulous Appraisal of [Vyaghri Haritaki](/ayurveda-atlas/herb/vyaghri-haritaki/) Avaleha: An Ayurvedic Medicament with reference to Stability Study** (2022): Comprehensive pharmaceutical assessment including stability study confirmed formulation integrity and shelf-life, establishing quality control parameters for commercial production.
-- **Comparative pharmacognostical and pharmaceutical evaluation of [Vyaghri haritaki](/ayurveda-atlas/herb/vyaghri-haritaki/) avaleha** (2021): Comparative analysis of formulations from different manufacturers established pharmacognostic standards and identified key quality markers for authentication.
+- **Review of Evidence Based Study on [Vyaghri Haritaki](/nighantu/herb/vyaghri-haritaki/) Avaleha with Special Reference to Certain Respiratory Disorders** (2021): Reviewed evidence for use in respiratory disorders, confirming antitussive and bronchodilatory activities of Kantakari and Haritaki with positive effects on airway dilation and immune modulation.
+- **A Meticulous Appraisal of [Vyaghri Haritaki](/nighantu/herb/vyaghri-haritaki/) Avaleha: An Ayurvedic Medicament with reference to Stability Study** (2022): Comprehensive pharmaceutical assessment including stability study confirmed formulation integrity and shelf-life, establishing quality control parameters for commercial production.
+- **Comparative pharmacognostical and pharmaceutical evaluation of [Vyaghri haritaki](/nighantu/herb/vyaghri-haritaki/) avaleha** (2021): Comparative analysis of formulations from different manufacturers established pharmacognostic standards and identified key quality markers for authentication.
 
 ## Recent safety updates
 
@@ -76,7 +76,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vyaghri-Haritaki/meta-analysi
 
 **Standard Dosage:** 5-10 g Avaleha twice daily with warm water or milk; 3-5 g churna twice daily; 500 mg-1 g extract capsule twice daily
 
-**Bioavailability:** This is a polyherbal formulation combining Kantakari (Solanum surattense) with Haritaki (Terminalia chebula). Solasodine (from Kantakari) has moderate oral bioavailability (~25-35%). Chebulagic acid and gallic acid (from Haritaki) are absorbed as described in Haritaki/[Triphala](/ayurveda-atlas/herb/triphala/) profiles. The Avaleha (jaggery/sugar-based confection) matrix serves as a taste-masking and slow-release vehicle. Ghee and honey used as processing adjuncts enhance bioavailability of both hydrophilic and lipophilic components.
+**Bioavailability:** This is a polyherbal formulation combining Kantakari (Solanum surattense) with Haritaki (Terminalia chebula). Solasodine (from Kantakari) has moderate oral bioavailability (~25-35%). Chebulagic acid and gallic acid (from Haritaki) are absorbed as described in Haritaki/[Triphala](/nighantu/herb/triphala/) profiles. The Avaleha (jaggery/sugar-based confection) matrix serves as a taste-masking and slow-release vehicle. Ghee and honey used as processing adjuncts enhance bioavailability of both hydrophilic and lipophilic components.
 
 **Optimal Timing:** After meals with warm water or milk; morning and evening; at bedtime for nocturnal cough/asthma
 
@@ -86,17 +86,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vyaghri-Haritaki/meta-analysi
 
 **Storage:** Avaleha in wide-mouth glass or food-grade plastic jars at 15-25 deg C. Do not refrigerate (crystallization of sugar). Use dry, clean spoon for dispensing. Capsules in standard pharmaceutical packaging.
 
-**Marker Compounds:** Solasodine (from Kantakari), Solanine (from Kantakari), Chebulagic acid (from Haritaki), Gallic acid (from Haritaki), Ellagic acid (from Haritaki), Piperine (from [Pippali](/ayurveda-atlas/herb/pippali/) adjunct), Carpesterol
+**Marker Compounds:** Solasodine (from Kantakari), Solanine (from Kantakari), Chebulagic acid (from Haritaki), Gallic acid (from Haritaki), Ellagic acid (from Haritaki), Piperine (from [Pippali](/nighantu/herb/pippali/) adjunct), Carpesterol
 
 ### Extraction Methods
 
-- Traditional Avaleha Kalpana: decoction of Kantakari + Haritaki concentrated and processed with jaggery, honey, ghee, and spices (Pippali, Twak, Ela, [Tamalpatra](/ayurveda-atlas/herb/tamalpatra/), [Nagakesara](/ayurveda-atlas/herb/nagakesara/))
+- Traditional Avaleha Kalpana: decoction of Kantakari + Haritaki concentrated and processed with jaggery, honey, ghee, and spices (Pippali, Twak, Ela, [Tamalpatra](/nighantu/herb/tamalpatra/), [Nagakesara](/nighantu/herb/nagakesara/))
 - Powdering and blending of individual herbs
 - Hydroethanolic extraction for standardized capsule form
 
 ### Synergistic Combinations
 
-- This IS a synergistic formulation: Kantakari ([bronchodilator](/ayurveda-atlas/reference/bronchodilator/), [expectorant](/ayurveda-atlas/reference/expectorant/)) + Haritaki (mild laxative, [Rasayana](/ayurveda-atlas/reference/rasayana/), respiratory tonic)
+- This IS a synergistic formulation: Kantakari ([bronchodilator](/nighantu/reference/bronchodilator/), [expectorant](/nighantu/reference/expectorant/)) + Haritaki (mild laxative, [Rasayana](/nighantu/reference/rasayana/), respiratory tonic)
 - Enhanced with Pippali (bioenhancer, respiratory stimulant)
 - Chaturjata (Twak, Ela, Tamalpatra, Nagakesara) - aromatic and carminative blend within the formulation
 - Honey and ghee as Yogavahi (bioenhancers and vehicles)

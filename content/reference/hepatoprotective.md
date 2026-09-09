@@ -6,7 +6,7 @@ section: "_Hub"
 category: "Pharmacology"
 subcategory: "Hepatoprotective.md"
 group: ""
-answer: "Hepatoprotective Agents is a reference entry in the Ayurveda Atlas. 277 herbs and compounds with hepatoprotective activity across traditions Abhraka Bhasma Adhaki — Cajanus cajan (L.) Millsp. Agastya — Sesbania grandiflora (L.) Pers."
+answer: "Hepatoprotective Agents is a reference entry in the Nighantu. 277 herbs and compounds with hepatoprotective activity across traditions Abhraka Bhasma Adhaki — Cajanus cajan (L.) Millsp. Agastya — Sesbania grandiflora (L.) Pers."
 botanical: "Trachyspermum ammi"
 family: ""
 sanskrit: ""
@@ -23,61 +23,61 @@ srcRel: "_Hub/Pharmacology/Hepatoprotective.md"
 
 ## Ayurveda (140)
 
-- [Abhraka Bhasma](/ayurveda-atlas/herb/abhraka-bhasma/)
-- [Adhaki](/ayurveda-atlas/herb/adhaki/) — *Cajanus cajan (L.) Millsp.*
-- [Agastya](/ayurveda-atlas/herb/agastya/) — *Sesbania grandiflora (L.) Pers.*
-- [Aja Dugdha Goat Milk](/ayurveda-atlas/herb/aja-dugdha-goat-milk/)
-- [Ajwain](/ayurveda-atlas/herb/ajwain/) — *Trachyspermum ammi*
-- [Akhuparni](/ayurveda-atlas/herb/akhuparni/) — *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
-- [Alabu](/ayurveda-atlas/herb/alabu/) — *Lagenaria siceraria (Molina) Standl.*
-- [Amla](/ayurveda-atlas/herb/amla/) — *Phyllanthus emblica (syn. Emblica officinalis)*
-- [Amlaparni](/ayurveda-atlas/herb/amlaparni/) — *Oxalis corniculata L.*
-- [Amlavetasa](/ayurveda-atlas/herb/amlavetasa/) — *Garcinia pedunculata Roxb. ex Buch.-Ham. (primary); Rheum emodi Wall. ex Meissn. (substitute)*
-- [Amra](/ayurveda-atlas/herb/amra/) — *Mangifera indica L.*
-- [Amritottaram Kashayam](/ayurveda-atlas/formulation/amritottaram-kashayam/)
-- [Aparajita](/ayurveda-atlas/herb/aparajita/) — *Clitoria ternatea L.*
-- [Aragwadha](/ayurveda-atlas/herb/aragwadha/) — *Cassia fistula L.*
-- [Arogyavardhini Vati](/ayurveda-atlas/formulation/arogyavardhini-vati/)
-- [Atasi](/ayurveda-atlas/herb/atasi/) — *Linum usitatissimum L.*
-- [Babbula](/ayurveda-atlas/herb/babbula/) — *Acacia nilotica (L.) Delile (syn. Vachellia nilotica)*
-- [Bhadra](/ayurveda-atlas/herb/bhadra/) — *Aerva lanata (L.) Juss. ex Schult.*
-- [Bharangi](/ayurveda-atlas/herb/bharangi/) — *Clerodendrum serratum (L.) Moon*
-- [Bhringaraja Svarasa](/ayurveda-atlas/formulation/bhringaraja-svarasa/)
-- [Bhringraj](/ayurveda-atlas/herb/bhringraj/)
-- [Bhumyamalaki](/ayurveda-atlas/herb/bhumyamalaki/)
-- [Bhunimba](/ayurveda-atlas/herb/bhunimba/)
-- [Brihati](/ayurveda-atlas/herb/brihati/) — *Solanum indicum L.*
-- [Chakragaja](/ayurveda-atlas/herb/chakragaja/) — *Cassia tora L. ([Senna](/ayurveda-atlas/herb/senna/) tora) / Uncertain identification*
-- [Chakramarda](/ayurveda-atlas/herb/chakramarda/) — *Cassia tora L. (syn. [Senna](/ayurveda-atlas/herb/senna/) tora)*
-- [Chavya](/ayurveda-atlas/herb/chavya/) — *Piper retrofractum Vahl (syn. Piper chaba Hunter)*
-- [Chirayata](/ayurveda-atlas/herb/chirayata/)
-- [Chitrak](/ayurveda-atlas/herb/chitrak/) — *Plumbago zeylanica L.*
-- [Chopchini](/ayurveda-atlas/herb/chopchini/) — *Smilax china L.*
-- [Danti](/ayurveda-atlas/herb/danti/) — *Baliospermum montanum (Willd.) Muell.-Arg.*
-- [Devadali](/ayurveda-atlas/herb/devadali/)
-- [Dhamasa](/ayurveda-atlas/herb/dhamasa/) — *Fagonia cretica L. / Fagonia arabica L.*
-- [Dhanyaka](/ayurveda-atlas/herb/dhanyaka/) — *Coriandrum sativum L.*
-- [Dhatri Loha](/ayurveda-atlas/herb/dhatri-loha/)
-- [Drakshavaleha](/ayurveda-atlas/herb/drakshavaleha/)
-- [Dronapushpi](/ayurveda-atlas/herb/dronapushpi/)
-- [Gambhari Phala](/ayurveda-atlas/herb/gambhari-phala/) — *Gmelina arborea Roxb.*
-- [Gangeruki](/ayurveda-atlas/herb/gangeruki/) — *Grewia tenax (Forssk.) Fiori*
+- [Abhraka Bhasma](/nighantu/herb/abhraka-bhasma/)
+- [Adhaki](/nighantu/herb/adhaki/) — *Cajanus cajan (L.) Millsp.*
+- [Agastya](/nighantu/herb/agastya/) — *Sesbania grandiflora (L.) Pers.*
+- [Aja Dugdha Goat Milk](/nighantu/herb/aja-dugdha-goat-milk/)
+- [Ajwain](/nighantu/herb/ajwain/) — *Trachyspermum ammi*
+- [Akhuparni](/nighantu/herb/akhuparni/) — *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
+- [Alabu](/nighantu/herb/alabu/) — *Lagenaria siceraria (Molina) Standl.*
+- [Amla](/nighantu/herb/amla/) — *Phyllanthus emblica (syn. Emblica officinalis)*
+- [Amlaparni](/nighantu/herb/amlaparni/) — *Oxalis corniculata L.*
+- [Amlavetasa](/nighantu/herb/amlavetasa/) — *Garcinia pedunculata Roxb. ex Buch.-Ham. (primary); Rheum emodi Wall. ex Meissn. (substitute)*
+- [Amra](/nighantu/herb/amra/) — *Mangifera indica L.*
+- [Amritottaram Kashayam](/nighantu/formulation/amritottaram-kashayam/)
+- [Aparajita](/nighantu/herb/aparajita/) — *Clitoria ternatea L.*
+- [Aragwadha](/nighantu/herb/aragwadha/) — *Cassia fistula L.*
+- [Arogyavardhini Vati](/nighantu/formulation/arogyavardhini-vati/)
+- [Atasi](/nighantu/herb/atasi/) — *Linum usitatissimum L.*
+- [Babbula](/nighantu/herb/babbula/) — *Acacia nilotica (L.) Delile (syn. Vachellia nilotica)*
+- [Bhadra](/nighantu/herb/bhadra/) — *Aerva lanata (L.) Juss. ex Schult.*
+- [Bharangi](/nighantu/herb/bharangi/) — *Clerodendrum serratum (L.) Moon*
+- [Bhringaraja Svarasa](/nighantu/formulation/bhringaraja-svarasa/)
+- [Bhringraj](/nighantu/herb/bhringraj/)
+- [Bhumyamalaki](/nighantu/herb/bhumyamalaki/)
+- [Bhunimba](/nighantu/herb/bhunimba/)
+- [Brihati](/nighantu/herb/brihati/) — *Solanum indicum L.*
+- [Chakragaja](/nighantu/herb/chakragaja/) — *Cassia tora L. ([Senna](/nighantu/herb/senna/) tora) / Uncertain identification*
+- [Chakramarda](/nighantu/herb/chakramarda/) — *Cassia tora L. (syn. [Senna](/nighantu/herb/senna/) tora)*
+- [Chavya](/nighantu/herb/chavya/) — *Piper retrofractum Vahl (syn. Piper chaba Hunter)*
+- [Chirayata](/nighantu/herb/chirayata/)
+- [Chitrak](/nighantu/herb/chitrak/) — *Plumbago zeylanica L.*
+- [Chopchini](/nighantu/herb/chopchini/) — *Smilax china L.*
+- [Danti](/nighantu/herb/danti/) — *Baliospermum montanum (Willd.) Muell.-Arg.*
+- [Devadali](/nighantu/herb/devadali/)
+- [Dhamasa](/nighantu/herb/dhamasa/) — *Fagonia cretica L. / Fagonia arabica L.*
+- [Dhanyaka](/nighantu/herb/dhanyaka/) — *Coriandrum sativum L.*
+- [Dhatri Loha](/nighantu/herb/dhatri-loha/)
+- [Drakshavaleha](/nighantu/herb/drakshavaleha/)
+- [Dronapushpi](/nighantu/herb/dronapushpi/)
+- [Gambhari Phala](/nighantu/herb/gambhari-phala/) — *Gmelina arborea Roxb.*
+- [Gangeruki](/nighantu/herb/gangeruki/) — *Grewia tenax (Forssk.) Fiori*
 
 ## Related Body Systems
 
-- [Anti-inflammatory & Pain](/ayurveda-atlas/reference/antiinflammatory-pain/)
-- [Brain & Nervous System](/ayurveda-atlas/reference/brain-nervous-system/)
-- [Diabetes & Metabolism](/ayurveda-atlas/reference/diabetes-metabolism/)
-- [Digestive Health](/ayurveda-atlas/reference/digestive-health/)
-- [Eye Health](/ayurveda-atlas/reference/eye-health/)
-- [Fever & Infection](/ayurveda-atlas/reference/fever-infection/)
-- [Hair Health](/ayurveda-atlas/glossary/body-systems/#hair-health)
-- [Heart & Cardiovascular](/ayurveda-atlas/reference/heart-cardiovascular/)
-- [Immune System & Rasayana](/ayurveda-atlas/reference/immune-system-rasayana/)
-- [Joint & Musculoskeletal](/ayurveda-atlas/reference/joint-musculoskeletal/)
-- [Kidney & Urinary](/ayurveda-atlas/reference/kidney-urinary/)
-- [Liver & Detoxification](/ayurveda-atlas/reference/liver-detoxification/)
-- [Men's Health & Vitality](/ayurveda-atlas/reference/mens-health-vitality/)
-- [Respiratory Health](/ayurveda-atlas/reference/respiratory-health/)
-- [Skin & Beauty](/ayurveda-atlas/reference/skin-beauty/)
-- [Women's Health](/ayurveda-atlas/reference/womens-health/)
+- [Anti-inflammatory & Pain](/nighantu/reference/antiinflammatory-pain/)
+- [Brain & Nervous System](/nighantu/reference/brain-nervous-system/)
+- [Diabetes & Metabolism](/nighantu/reference/diabetes-metabolism/)
+- [Digestive Health](/nighantu/reference/digestive-health/)
+- [Eye Health](/nighantu/reference/eye-health/)
+- [Fever & Infection](/nighantu/reference/fever-infection/)
+- [Hair Health](/nighantu/glossary/body-systems/#hair-health)
+- [Heart & Cardiovascular](/nighantu/reference/heart-cardiovascular/)
+- [Immune System & Rasayana](/nighantu/reference/immune-system-rasayana/)
+- [Joint & Musculoskeletal](/nighantu/reference/joint-musculoskeletal/)
+- [Kidney & Urinary](/nighantu/reference/kidney-urinary/)
+- [Liver & Detoxification](/nighantu/reference/liver-detoxification/)
+- [Men's Health & Vitality](/nighantu/reference/mens-health-vitality/)
+- [Respiratory Health](/nighantu/reference/respiratory-health/)
+- [Skin & Beauty](/nighantu/reference/skin-beauty/)
+- [Women's Health](/nighantu/reference/womens-health/)

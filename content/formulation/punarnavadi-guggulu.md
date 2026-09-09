@@ -23,17 +23,17 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Punarnavadi-
 
 | Language | Name |
 |----------|------|
-| English | Punarnavadi [Guggulu](/ayurveda-atlas/formulation/guggulu/)|Punarnavadi Guggulu |
+| English | Punarnavadi [Guggulu](/nighantu/formulation/guggulu/)|Punarnavadi Guggulu |
 
 ## Key Ingredients
 
-- [Punarnava](/ayurveda-atlas/herb/punarnava/) (Boerhavia diffusa)
-- Shuddha [Guggulu](/ayurveda-atlas/formulation/guggulu/)|Shuddha Guggulu (Commiphora wightii)
-- [Triphala](/ayurveda-atlas/herb/triphala/) - [Haritaki](/ayurveda-atlas/herb/haritaki/) (Terminalia chebula), [Bibhitaki](/ayurveda-atlas/herb/bibhitaki/) (Terminalia bellirica), Amalaki (Emblica officinalis)
-- [Trikatu](/ayurveda-atlas/herb/trikatu/) - Shunthi ([Zingiber](/ayurveda-atlas/herb/zingiber/) officinale), Maricha (Piper nigrum), [Pippali](/ayurveda-atlas/herb/pippali/) (Piper longum)
-- [Eranda](/ayurveda-atlas/herb/eranda/) Taila (Castor oil - Ricinus communis)
-- [Trivrit](/ayurveda-atlas/herb/trivrit/) (Operculina turpethum)
-- [Danti](/ayurveda-atlas/herb/danti/) (Baliospermum montanum)
+- [Punarnava](/nighantu/herb/punarnava/) (Boerhavia diffusa)
+- Shuddha [Guggulu](/nighantu/formulation/guggulu/)|Shuddha Guggulu (Commiphora wightii)
+- [Triphala](/nighantu/herb/triphala/) - [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula), [Bibhitaki](/nighantu/herb/bibhitaki/) (Terminalia bellirica), Amalaki (Emblica officinalis)
+- [Trikatu](/nighantu/herb/trikatu/) - Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale), Maricha (Piper nigrum), [Pippali](/nighantu/herb/pippali/) (Piper longum)
+- [Eranda](/nighantu/herb/eranda/) Taila (Castor oil - Ricinus communis)
+- [Trivrit](/nighantu/herb/trivrit/) (Operculina turpethum)
+- [Danti](/nighantu/herb/danti/) (Baliospermum montanum)
 
 ## Where is it described in the classical texts?
 
@@ -41,22 +41,22 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 
 ## How does it work?
 
-- [Diuretic](/ayurveda-atlas/reference/diuretic/) and anti-edema action: [Punarnava](/ayurveda-atlas/herb/punarnava/) (Boerhavia diffusa) contains punarnavine and rotenoids that promote diuresis and reduce edema without disturbing electrolyte balance
+- [Diuretic](/nighantu/reference/diuretic/) and anti-edema action: [Punarnava](/nighantu/herb/punarnava/) (Boerhavia diffusa) contains punarnavine and rotenoids that promote diuresis and reduce edema without disturbing electrolyte balance
 - Anti-inflammatory NF-kB modulation: Guggulsterones interfere with NF-kB, a key inflammation mediator, reducing inflammatory pathways in kidneys and joints
-- Renoprotective action: [Punarnava](/ayurveda-atlas/herb/punarnava/) improves glomerular filtration rate, reduces serum creatinine and blood urea nitrogen, and decreases albuminuria through nephroprotective mechanisms
-- [Hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) synergy: Combined [Punarnava](/ayurveda-atlas/herb/punarnava/) and [Triphala](/ayurveda-atlas/herb/triphala/) protect hepatocytes from oxidative damage, supporting liver-kidney detoxification axis
+- Renoprotective action: [Punarnava](/nighantu/herb/punarnava/) improves glomerular filtration rate, reduces serum creatinine and blood urea nitrogen, and decreases albuminuria through nephroprotective mechanisms
+- [Hepatoprotective](/nighantu/reference/hepatoprotective/) synergy: Combined [Punarnava](/nighantu/herb/punarnava/) and [Triphala](/nighantu/herb/triphala/) protect hepatocytes from oxidative damage, supporting liver-kidney detoxification axis
 
 ## Which traditional uses are supported by research?
 
 - Chronic renal failure management validated in clinical study of 100 patients showing significant reduction in creatinine (20.71%), blood urea (36.15%), and edema (71.56%)
 - Edema (Shotha) reduction validated through demonstrated diuretic properties without electrolyte imbalance
 - Kidney function improvement validated through enhanced filtration capacity and reduced proteinuria in clinical studies
-- Gout (Vatarakta) management validated when combined with Kaishore [Guggulu](/ayurveda-atlas/formulation/guggulu/) in clinical case series
+- Gout (Vatarakta) management validated when combined with Kaishore [Guggulu](/nighantu/formulation/guggulu/) in clinical case series
 
 ## What do recent clinical trials show?
 
 - **Effects of Ayurvedic treatment on 100 patients of chronic renal failure (other than diabetic nephropathy)** (2012): Study of 100 CRF patients showed serum creatinine reduced by 20.71%, blood urea reduced by 36.15%, albuminuria reduced by 36.70%, hemoglobin increased by 4.65%, and edema reduced by 71.56%.
-- **Combined Efficacy of Kaishore [Guggulu](/ayurveda-atlas/formulation/guggulu/) and Punarnavadi [Guggulu](/ayurveda-atlas/formulation/guggulu/)|Punarnavadi Guggulu in Management of Vatarakta (Gout)** (2018): Case series demonstrated significant improvement in gout symptoms when Punarnavadi [Guggulu](/ayurveda-atlas/formulation/guggulu/)|Punarnavadi Guggulu was combined with Kaishore [Guggulu](/ayurveda-atlas/formulation/guggulu/) over a treatment period.
+- **Combined Efficacy of Kaishore [Guggulu](/nighantu/formulation/guggulu/) and Punarnavadi [Guggulu](/nighantu/formulation/guggulu/)|Punarnavadi Guggulu in Management of Vatarakta (Gout)** (2018): Case series demonstrated significant improvement in gout symptoms when Punarnavadi [Guggulu](/nighantu/formulation/guggulu/)|Punarnavadi Guggulu was combined with Kaishore [Guggulu](/nighantu/formulation/guggulu/) over a treatment period.
 - **Clinical comparative study of management of chronic renal failure with Punarnavadi compound** (2010): Small study (N=30) found reduced ankle swelling within three weeks, improved kidney filtration capacity, and cleansed urinary tract with healthy urine output support.
 
 ## Recent safety updates
@@ -79,7 +79,7 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 
 **Standard Dosage:** 2 tablets twice daily
 
-**Bioavailability:** [Guggulu](/ayurveda-atlas/formulation/guggulu/) resin acts as natural bioenhancer; guggulsterones have moderate oral bioavailability (~40%); lipophilic matrix aids absorption of co-formulated herbs
+**Bioavailability:** [Guggulu](/nighantu/formulation/guggulu/) resin acts as natural bioenhancer; guggulsterones have moderate oral bioavailability (~40%); lipophilic matrix aids absorption of co-formulated herbs
 
 **Optimal Timing:** After meals, twice daily
 
@@ -95,4 +95,4 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 
 ### Synergistic Combinations
 
-- Key herbs: [Punarnava](/ayurveda-atlas/herb/punarnava/), Guggulu, [Triphala](/ayurveda-atlas/herb/triphala/), [Trikatu](/ayurveda-atlas/herb/trikatu/); guggulu potentiates anti-inflammatory and [hypolipidemic](/ayurveda-atlas/glossary/pharmacology/#hypolipidemic) actions
+- Key herbs: [Punarnava](/nighantu/herb/punarnava/), Guggulu, [Triphala](/nighantu/herb/triphala/), [Trikatu](/nighantu/herb/trikatu/); guggulu potentiates anti-inflammatory and [hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic) actions

@@ -40,9 +40,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gudmar_Herb/meta-analysis.md"
 
 **Standard Dosage:** Dried leaf: 2-4g as infusion/decoction 2-3 times daily; Leaf powder: 3-6g twice daily; 500mg whole leaf capsule 3 times daily; 3-5ml tincture three times daily. Whole herb products are less concentrated than standardized extracts.
 
-**Bioavailability:** Gymnema sylvestre whole leaf (as opposed to standardized extract) provides the full phytochemical matrix including gymnemic acids, [flavonoids](/ayurveda-atlas/reference/flavonoids/), [saponins](/ayurveda-atlas/reference/saponins/), [tannins](/ayurveda-atlas/reference/tannins/), and fiber. Gymnemic acid content in whole leaf is typically 1-4% (vs 25-75% in standardized extracts), meaning larger doses are needed. The fiber and tannin matrix may modulate absorption kinetics - slower release but potentially more sustained action. Whole leaf retains gurmarin peptide (partially destroyed during extraction) which contributes to sweet-taste suppression. Traditional decoction preparation partially hydrolyzes glycosidic bonds, potentially enhancing aglycone bioavailability.
+**Bioavailability:** Gymnema sylvestre whole leaf (as opposed to standardized extract) provides the full phytochemical matrix including gymnemic acids, [flavonoids](/nighantu/reference/flavonoids/), [saponins](/nighantu/reference/saponins/), [tannins](/nighantu/reference/tannins/), and fiber. Gymnemic acid content in whole leaf is typically 1-4% (vs 25-75% in standardized extracts), meaning larger doses are needed. The fiber and tannin matrix may modulate absorption kinetics - slower release but potentially more sustained action. Whole leaf retains gurmarin peptide (partially destroyed during extraction) which contributes to sweet-taste suppression. Traditional decoction preparation partially hydrolyzes glycosidic bonds, potentially enhancing aglycone bioavailability.
 
-**Optimal Timing:** Tea or capsule 15-30 minutes before meals for [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose) management; traditional leaf chewing before meals for sweet-taste suppression
+**Optimal Timing:** Tea or capsule 15-30 minutes before meals for [glucose](/nighantu/glossary/compounds-d-g/#glucose) management; traditional leaf chewing before meals for sweet-taste suppression
 
 **Standardized Extract:** Not applicable - this is a whole herb product. Characterize by: total gymnemic acid content (1-4%), HPTLC fingerprint, organoleptic profile, particle size distribution for powder, essential oil content.
 
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gudmar_Herb/meta-analysis.md"
 
 **Storage:** Dried leaf: airtight, moisture-proof containers below 25 deg C in dark place. Tea bags: individually sealed, nitrogen-flushed. Powder: airtight, opaque containers with desiccant.
 
-**Marker Compounds:** Gymnemic acids (total, 1-4% in whole leaf), Gurmarin (peptide), Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/ayurveda-atlas/reference/stigmasterol/), Flavonoids, Total tannins
+**Marker Compounds:** Gymnemic acids (total, 1-4% in whole leaf), Gurmarin (peptide), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/nighantu/reference/stigmasterol/), Flavonoids, Total tannins
 
 ### Extraction Methods
 
@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gudmar_Herb/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- Same synergies as [Gudmar](/ayurveda-atlas/herb/gudmar/) (standardized) but at whole-herb potency levels
-- With [Jamun](/ayurveda-atlas/herb/jamun/) (Syzygium) leaf for anti-diabetic tea blend
-- With [Neem](/ayurveda-atlas/herb/neem/) leaf for blood-purifying and metabolic tea
-- With [Tulsi](/ayurveda-atlas/herb/tulsi/) for immune-metabolic herbal tea combination
+- Same synergies as [Gudmar](/nighantu/herb/gudmar/) (standardized) but at whole-herb potency levels
+- With [Jamun](/nighantu/herb/jamun/) (Syzygium) leaf for anti-diabetic tea blend
+- With [Neem](/nighantu/herb/neem/) leaf for blood-purifying and metabolic tea
+- With [Tulsi](/nighantu/herb/tulsi/) for immune-metabolic herbal tea combination

@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Hrivera/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction; external oil as needed
 
-**Bioavailability:** Coleus vettiveroides (Vetiveria zizanioides, Khus) root contains sesquiterpenes ([vetiverol](/ayurveda-atlas/glossary/compounds-t-z/#vetiverol), vetivone) with moderate lipophilic absorption. Essential oil components are well absorbed transdermally. Oral bioavailability of sesquiterpenes is moderate; lipid-based formulations may enhance absorption.
+**Bioavailability:** Coleus vettiveroides (Vetiveria zizanioides, Khus) root contains sesquiterpenes ([vetiverol](/nighantu/glossary/compounds-t-z/#vetiverol), vetivone) with moderate lipophilic absorption. Essential oil components are well absorbed transdermally. Oral bioavailability of sesquiterpenes is moderate; lipid-based formulations may enhance absorption.
 
 **Optimal Timing:** Between meals with cool water or coconut water for Pitta disorders; externally as needed
 
@@ -59,17 +59,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Hrivera/meta-analysis.md"
 
 **Storage:** Cool, dry place below 25°C. Essential oil in amber glass containers. Root powder in airtight containers.
 
-**Marker Compounds:** Vetiverol, Vetivone (alpha and beta), [Khusimol](/ayurveda-atlas/glossary/compounds-g-l/#khusimol), [Isovalencenol](/ayurveda-atlas/glossary/compounds-g-l/#isovalencenol), Zizanal
+**Marker Compounds:** Vetiverol, Vetivone (alpha and beta), [Khusimol](/nighantu/glossary/compounds-g-l/#khusimol), [Isovalencenol](/nighantu/glossary/compounds-g-l/#isovalencenol), Zizanal
 
 ### Extraction Methods
 
 - Steam distillation (essential oil)
 - Hydroalcoholic extraction (70:30)
 - Aqueous decoction for internal use
-- Cold maceration in [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) for Taila preparation
+- Cold maceration in [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) for Taila preparation
 
 ### Synergistic Combinations
 
-- With [Chandana](/ayurveda-atlas/herb/chandana/) (sandalwood) for cooling and pitta-pacifying action
-- With [Ushira](/ayurveda-atlas/herb/ushira/) (vetiver) for urinary disorders
-- With [Sariva](/ayurveda-atlas/herb/sariva/) for blood purification
+- With [Chandana](/nighantu/herb/chandana/) (sandalwood) for cooling and pitta-pacifying action
+- With [Ushira](/nighantu/herb/ushira/) (vetiver) for urinary disorders
+- With [Sariva](/nighantu/herb/sariva/) for blood purification

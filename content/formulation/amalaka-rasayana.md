@@ -23,13 +23,13 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Rasayanas-Rejuvenatives/Amalaka-R
 
 | Language | Name |
 |----------|------|
-| English | [Amalaka Rasayana](/ayurveda-atlas/formulation/amalaka-rasayana/) |
+| English | [Amalaka Rasayana](/nighantu/formulation/amalaka-rasayana/) |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| **Rasa** (Taste) | [Amla](/ayurveda-atlas/herb/amla/), Madhura | Primary taste |
+| **Rasa** (Taste) | [Amla](/nighantu/herb/amla/), Madhura | Primary taste |
 | **Guna** (Quality) | Snigdha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
@@ -45,11 +45,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Rasayanas-Rejuvenatives/Amalaka-R
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** [Rasayana](/ayurveda-atlas/reference/rasayana/)/Avaleha (semi-solid), Churna form, Capsules (modern)
+**Dosage Forms:** [Rasayana](/nighantu/reference/rasayana/)/Avaleha (semi-solid), Churna form, Capsules (modern)
 
 **Standard Dosage:** 10-20 g daily, or as per classical text directions, as per Charaka Samhita
 
-**Bioavailability:** Ascorbic acid from Amalaki is stabilized by [tannins](/ayurveda-atlas/reference/tannins/), providing sustained-release [antioxidant](/ayurveda-atlas/reference/antioxidant/) activity. Ghee base enhances absorption of fat-soluble [polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols). Honey (added when cool) provides enzymatic enhancement of bioavailability.
+**Bioavailability:** Ascorbic acid from Amalaki is stabilized by [tannins](/nighantu/reference/tannins/), providing sustained-release [antioxidant](/nighantu/reference/antioxidant/) activity. Ghee base enhances absorption of fat-soluble [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols). Honey (added when cool) provides enzymatic enhancement of bioavailability.
 
 **Optimal Timing:** Early morning on empty stomach (Pratah kala, Abhukta)
 
@@ -65,7 +65,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Rasayanas-Rejuvenatives/Amalaka-R
 
 ### Synergistic Combinations
 
-- [Chyawanprash](/ayurveda-atlas/formulation/chyawanprash/)
-- [Brahma Rasayana](/ayurveda-atlas/formulation/brahma-rasayana/)
-- [Triphala](/ayurveda-atlas/herb/triphala/) Churna
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) Churna
+- [Chyawanprash](/nighantu/formulation/chyawanprash/)
+- [Brahma Rasayana](/nighantu/formulation/brahma-rasayana/)
+- [Triphala](/nighantu/herb/triphala/) Churna
+- [Ashwagandha](/nighantu/herb/ashwagandha/) Churna

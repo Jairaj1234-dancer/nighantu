@@ -23,11 +23,11 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Siddha-Makardhwaj/
 
 | Language | Name |
 |----------|------|
-| English | [Siddha Makardhwaj](/ayurveda-atlas/herb/siddha-makardhwaj/) |
+| English | [Siddha Makardhwaj](/nighantu/herb/siddha-makardhwaj/) |
 
 ## How does it work?
 
-- HgS nanoparticle complex with gold provides a stable, poorly soluble mineral matrix; the enhanced gold content in Siddha form is believed to improve [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) and [Rasayana](/ayurveda-atlas/reference/rasayana/) (rejuvenative) potency
+- HgS nanoparticle complex with gold provides a stable, poorly soluble mineral matrix; the enhanced gold content in Siddha form is believed to improve [immunomodulatory](/nighantu/reference/immunomodulatory/) and [Rasayana](/nighantu/reference/rasayana/) (rejuvenative) potency
 - Acts at the cellular level to enhance metabolic processes; gold nanoparticles interact with immune cells to boost innate immunity
 - The mercury sulfide component may modulate enzymatic pathways involved in cellular energy production, while gold particles serve as carrier for targeted tissue delivery
 
@@ -48,7 +48,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Siddha-Makardhwaj/
 - Errors in traditional preparation can lead to dangerous heavy metal toxicity - the safety is critically dependent on strict adherence to classical pharmaceutical procedures and quality control
 - No long-term human clinical safety data available; chronic exposure to even low-bioavailability mercury compounds raises concerns about cumulative renal and neurological effects
 - The higher gold content in Siddha form increases cost but may also increase the nanoparticle load; gold accumulation in organs has been documented in gold-containing Ayurvedic medicine studies
-- Strictly requires prescription and physician monitoring; periodic assessment of serum creatinine, BUN, liver [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes), and urinary mercury levels recommended during use
+- Strictly requires prescription and physician monitoring; periodic assessment of serum creatinine, BUN, liver [enzymes](/nighantu/glossary/compounds-d-g/#enzymes), and urinary mercury levels recommended during use
 
 ## What is it made of?
 
@@ -67,7 +67,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Siddha-Makardhwaj/
 
 **Bioavailability:** Superior to standard Makaradhwaj; enhanced by additional herbal processing (Siddha = perfected)
 
-**Optimal Timing:** With honey, ghee, or [Chyawanprash](/ayurveda-atlas/formulation/chyawanprash/)
+**Optimal Timing:** With honey, ghee, or [Chyawanprash](/nighantu/formulation/chyawanprash/)
 
 **Standardized Extract:** Makaradhwaj further processed (Siddha) with herbal Bhavana
 
@@ -79,4 +79,4 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Siddha-Makardhwaj/
 
 **Quality Parameters:** All Makaradhwaj tests + additional Siddhi verification
 
-**Vehicle (Anupana):** Honey + ghee, [Chyawanprash](/ayurveda-atlas/formulation/chyawanprash/), or condition-specific vehicles
+**Vehicle (Anupana):** Honey + ghee, [Chyawanprash](/nighantu/formulation/chyawanprash/), or condition-specific vehicles

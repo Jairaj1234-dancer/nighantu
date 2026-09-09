@@ -45,21 +45,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Shara/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Kwatha (decoction), Kshara (alkali preparation), Capsule, [Arka](/ayurveda-atlas/herb/arka/) (distillate)
+**Dosage Forms:** Churna (powder), Kwatha (decoction), Kshara (alkali preparation), Capsule, [Arka](/nighantu/herb/arka/) (distillate)
 
 **Standard Dosage:** 3-6 g powder per day; 50-100 mL kwatha twice daily; 500 mg - 1 g Kshara with appropriate vehicle
 
-**Bioavailability:** Phenolic acids and [flavonoids](/ayurveda-atlas/reference/flavonoids/) show moderate bioavailability (20-35%). Kshara (alkali) preparations are highly water-soluble and rapidly absorbed. [Silica](/ayurveda-atlas/glossary/compounds-q-t/#silica) content (from grass species) has low systemic bioavailability but contributes to local GI effects.
+**Bioavailability:** Phenolic acids and [flavonoids](/nighantu/reference/flavonoids/) show moderate bioavailability (20-35%). Kshara (alkali) preparations are highly water-soluble and rapidly absorbed. [Silica](/nighantu/glossary/compounds-q-t/#silica) content (from grass species) has low systemic bioavailability but contributes to local GI effects.
 
 **Optimal Timing:** Before meals for urinary and digestive indications; Kshara with warm water or honey
 
-**Standardized Extract:** Kshara (alkaline preparation) standardized to pH 10-12, total alkalinity NLT 50% as [potassium](/ayurveda-atlas/glossary/compounds-o-q/#potassium) carbonate equivalents; aqueous-ethanolic extract (4:1) for non-Kshara formulations
+**Standardized Extract:** Kshara (alkaline preparation) standardized to pH 10-12, total alkalinity NLT 50% as [potassium](/nighantu/glossary/compounds-o-q/#potassium) carbonate equivalents; aqueous-ethanolic extract (4:1) for non-Kshara formulations
 
 **Shelf Life:** Indefinite for Kshara in sealed containers; 24 months for churna; 30 months for capsules
 
 **Storage:** Kshara is hygroscopic — store in airtight glass or HDPE containers with desiccant. Churna below 25 deg C, protect from moisture.
 
-**Marker Compounds:** Potassium carbonate (in Kshara), Silica, p-Coumaric acid, Ferulic acid, [Tricin](/ayurveda-atlas/glossary/compounds-t-z/#tricin)
+**Marker Compounds:** Potassium carbonate (in Kshara), Silica, p-Coumaric acid, Ferulic acid, [Tricin](/nighantu/glossary/compounds-t-z/#tricin)
 
 ### Extraction Methods
 
@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Shara/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Kusha](/ayurveda-atlas/herb/kusha/) (similar grass-type herbs in Trina Panchamula)
+- [Kusha](/nighantu/herb/kusha/) (similar grass-type herbs in Trina Panchamula)
 - Darbha (five grasses combination for urinary disorders)
-- [Gokshura](/ayurveda-atlas/herb/gokshura/) ([diuretic](/ayurveda-atlas/reference/diuretic/) and litholytic synergy)
-- [Varuna](/ayurveda-atlas/herb/varuna/) (urinary calculus formulations)
+- [Gokshura](/nighantu/herb/gokshura/) ([diuretic](/nighantu/reference/diuretic/) and litholytic synergy)
+- [Varuna](/nighantu/herb/varuna/) (urinary calculus formulations)

@@ -23,13 +23,13 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kshirabala-
 
 | Language | Name |
 |----------|------|
-| English | [Kshirabala Thailam](/ayurveda-atlas/formulation/kshirabala-thailam/) |
+| English | [Kshirabala Thailam](/nighantu/formulation/kshirabala-thailam/) |
 
 ## Key Ingredients
 
-- [Bala](/ayurveda-atlas/herb/bala/) (Sida cordifolia) - primary herb
-- Cow's milk ([Ksheera](/ayurveda-atlas/herb/ksheera/))
-- [Sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) ([Tila](/ayurveda-atlas/herb/tila/) taila) base
+- [Bala](/nighantu/herb/bala/) (Sida cordifolia) - primary herb
+- Cow's milk ([Ksheera](/nighantu/herb/ksheera/))
+- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) ([Tila](/nighantu/herb/tila/) taila) base
 
 ## Where is it described in the classical texts?
 
@@ -37,22 +37,22 @@ Ashtanga Hridayam (Vatarakta Chikitsa chapter). The 101 Avarti (101 times proces
 
 ## How does it work?
 
-- [Ephedrine](/ayurveda-atlas/glossary/compounds-d-g/#ephedrine) and [pseudoephedrine](/ayurveda-atlas/glossary/compounds-o-q/#pseudoephedrine) [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) from [Bala](/ayurveda-atlas/herb/bala/) (Sida cordifolia) provide [analgesic](/ayurveda-atlas/reference/analgesic/), anti-inflammatory, and bronchodilatory effects via adrenergic receptor modulation
+- [Ephedrine](/nighantu/glossary/compounds-d-g/#ephedrine) and [pseudoephedrine](/nighantu/glossary/compounds-o-q/#pseudoephedrine) [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) from [Bala](/nighantu/herb/bala/) (Sida cordifolia) provide [analgesic](/nighantu/reference/analgesic/), anti-inflammatory, and bronchodilatory effects via adrenergic receptor modulation
 - Repeated processing (101 Avarti) concentrates lipophilic phytoconstituents and increases bioavailability of low molecular weight fatty acids facilitating transdermal and transmucosal absorption
-- Milk [proteins](/ayurveda-atlas/glossary/compounds-o-q/#proteins) and fats act as emulsifiers that stabilize herbal extracts and enhance penetration through biological membranes, including nasal mucosa during Nasya administration
-- Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol) and mucilaginous compounds from [Bala](/ayurveda-atlas/herb/bala/) nourish nerve tissue (Majja Dhatu) and strengthen neuromuscular junctions
+- Milk [proteins](/nighantu/glossary/compounds-o-q/#proteins) and fats act as emulsifiers that stabilize herbal extracts and enhance penetration through biological membranes, including nasal mucosa during Nasya administration
+- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol) and mucilaginous compounds from [Bala](/nighantu/herb/bala/) nourish nerve tissue (Majja Dhatu) and strengthen neuromuscular junctions
 
 ## Which traditional uses are supported by research?
 
-- Neurological disorders (facial paralysis, hemiplegia, sciatica) - validated by clinical studies showing [neuroprotective](/ayurveda-atlas/reference/neuroprotective/) activity and motor function improvement
+- Neurological disorders (facial paralysis, hemiplegia, sciatica) - validated by clinical studies showing [neuroprotective](/nighantu/reference/neuroprotective/) activity and motor function improvement
 - Cervical and lumbar spondylosis - supported by randomized trials demonstrating significant pain and stiffness reduction comparable to conventional treatment
-- Insomnia and anxiety (Vata-related mental disorders) - supported by the nervine tonic and GABA-modulatory properties of [Bala](/ayurveda-atlas/herb/bala/) alkaloids confirmed in pharmacological studies
+- Insomnia and anxiety (Vata-related mental disorders) - supported by the nervine tonic and GABA-modulatory properties of [Bala](/nighantu/herb/bala/) alkaloids confirmed in pharmacological studies
 
 ## What do recent clinical trials show?
 
 - **Neuroprotective effect of Kshirabala (101 Avarti) in experimental models of neurodegeneration** (2020): Kshirabala 101 demonstrated significant neuroprotective activity in rodent models, with reduced oxidative stress markers and improved motor function, supporting its classical indication for neurological disorders.
-- **Clinical evaluation of [Kshirabala 101 Avarti](/ayurveda-atlas/herb/kshirabala-101-avarti/) in cervical spondylosis** (2019): In a randomized trial of 60 patients, Kshirabala 101 Nasya combined with Abhyanga showed 45% reduction in neck pain and 35% improvement in cervical range of motion over 21 days.
-- **Anti-inflammatory and analgesic properties of [Kshirabala Thailam](/ayurveda-atlas/formulation/kshirabala-thailam/) in osteoarthritis management** (2021): Patients receiving Kshirabala 101 capsules along with external application showed significant reduction in WOMAC pain and stiffness scores for osteoarthritis, with outcomes comparable to standard NSAIDs.
+- **Clinical evaluation of [Kshirabala 101 Avarti](/nighantu/herb/kshirabala-101-avarti/) in cervical spondylosis** (2019): In a randomized trial of 60 patients, Kshirabala 101 Nasya combined with Abhyanga showed 45% reduction in neck pain and 35% improvement in cervical range of motion over 21 days.
+- **Anti-inflammatory and analgesic properties of [Kshirabala Thailam](/nighantu/formulation/kshirabala-thailam/) in osteoarthritis management** (2021): Patients receiving Kshirabala 101 capsules along with external application showed significant reduction in WOMAC pain and stiffness scores for osteoarthritis, with outcomes comparable to standard NSAIDs.
 
 ## Recent safety updates
 
@@ -82,7 +82,7 @@ Ashtanga Hridayam (Vatarakta Chikitsa chapter). The 101 Avarti (101 times proces
 
 **Storage:** Store in amber glass bottles in a cool, dry place. Temperature not exceeding 25°C. Protect from light. Nasya variant requires enhanced microbial standards.
 
-**Marker Compounds:** Ephedrine, Pseudoephedrine, Beta-sitosterol, [Sesamin](/ayurveda-atlas/glossary/compounds-q-t/#sesamin), [Sesamolin](/ayurveda-atlas/glossary/compounds-q-t/#sesamolin), Phospholipid complexes (from milk processing)
+**Marker Compounds:** Ephedrine, Pseudoephedrine, Beta-sitosterol, [Sesamin](/nighantu/glossary/compounds-q-t/#sesamin), [Sesamolin](/nighantu/glossary/compounds-q-t/#sesamolin), Phospholipid complexes (from milk processing)
 
 **Quality Parameters:** Acid value (<5), peroxide value (<10), saponification value, refractive index, specific gravity, viscosity (increases with avartana number), HPTLC fingerprint (band intensity increases with avartana), ephedrine equivalents, total alkaloids, microbial limits (strict for Nasya variant), heavy metals
 
@@ -90,7 +90,7 @@ Ashtanga Hridayam (Vatarakta Chikitsa chapter). The 101 Avarti (101 times proces
 
 ### Synergistic Combinations
 
-- [Dhanwantaram Thailam](/ayurveda-atlas/formulation/dhanwantaram-thailam/)
-- [Balarishta](/ayurveda-atlas/formulation/balarishta/) (internal)
-- [Dashamularishta](/ayurveda-atlas/formulation/dashamularishta/)
+- [Dhanwantaram Thailam](/nighantu/formulation/dhanwantaram-thailam/)
+- [Balarishta](/nighantu/formulation/balarishta/) (internal)
+- [Dashamularishta](/nighantu/formulation/dashamularishta/)
 - Mahanarayana Taila

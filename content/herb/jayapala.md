@@ -60,7 +60,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jayapala/meta-analysis.md"
 
 **Standard Dosage:** 60-125mg Shodhita (purified) seed powder ONLY under strict physician supervision. HIGHLY TOXIC in crude form.
 
-**Bioavailability:** Croton tiglium seed contains phorbol esters (12-O-tetradecanoylphorbol-13-acetate/TPA), croton oil (fixed oil with crotonic acid), and [proteins](/ayurveda-atlas/glossary/compounds-o-q/#proteins) (crotin - a ribosome-inactivating protein). Phorbol esters are rapidly absorbed through skin and GI tract. Croton oil is a powerful irritant and vesicant. High bioavailability contributes to toxicity; even small doses produce drastic purgation.
+**Bioavailability:** Croton tiglium seed contains phorbol esters (12-O-tetradecanoylphorbol-13-acetate/TPA), croton oil (fixed oil with crotonic acid), and [proteins](/nighantu/glossary/compounds-o-q/#proteins) (crotin - a ribosome-inactivating protein). Phorbol esters are rapidly absorbed through skin and GI tract. Croton oil is a powerful irritant and vesicant. High bioavailability contributes to toxicity; even small doses produce drastic purgation.
 
 **Optimal Timing:** Only under direct physician supervision in controlled clinical setting. Traditional use: early morning on empty stomach (Shodhita preparation only).
 
@@ -81,4 +81,4 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jayapala/meta-analysis.md"
 ### Synergistic Combinations
 
 - Traditionally combined only in specific polyherbal formulations under expert Vaidya guidance
-- With [Triphala](/ayurveda-atlas/herb/triphala/) for modulating purgative intensity (traditional, NOT for modern product development)
+- With [Triphala](/nighantu/herb/triphala/) for modulating purgative intensity (traditional, NOT for modern product development)

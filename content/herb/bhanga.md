@@ -28,7 +28,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Bhanga/meta-analysis.m
 
 ## Which traditional uses are supported by research?
 
-- {'use': '[Analgesic](/ayurveda-atlas/reference/analgesic/) and anti-spasmodic (Vedanasthapana, Shulahara)', 'validation': 'Multiple clinical trials and systematic reviews confirm cannabis/cannabinoids effective for chronic pain, neuropathic pain, and spasticity. Sativex (THC:CBD 1:1 spray) approved in 30+ countries for MS spasticity. FDA approved dronabinol and nabilone for pain.'}
+- {'use': '[Analgesic](/nighantu/reference/analgesic/) and anti-spasmodic (Vedanasthapana, Shulahara)', 'validation': 'Multiple clinical trials and systematic reviews confirm cannabis/cannabinoids effective for chronic pain, neuropathic pain, and spasticity. Sativex (THC:CBD 1:1 spray) approved in 30+ countries for MS spasticity. FDA approved dronabinol and nabilone for pain.'}
 - {'use': 'Appetite stimulant and anti-emetic (Deepana, Chhardinashaka)', 'validation': 'Dronabinol (synthetic THC, Marinol) FDA-approved for anorexia in AIDS wasting and chemotherapy-induced nausea/vomiting. CB1 receptor activation in hypothalamus stimulates appetite through modulation of ghrelin and leptin signaling.'}
 - {'use': 'Anticonvulsant (Apasmara)', 'validation': 'Epidiolex (pure CBD) FDA-approved for Dravet syndrome and Lennox-Gastaut syndrome. Multiple RCTs demonstrate significant seizure reduction. Validates traditional Ayurvedic use of Vijaya for Apasmara (epilepsy).'}
 
@@ -73,7 +73,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Bhanga/meta-analysis.m
 
 **Storage:** Airtight, light-protected containers. Temperature below 20°C. Nitrogen flushing for oil preparations. Secured storage per regulatory requirements. Protect from UV degradation of cannabinoids.
 
-**Marker Compounds:** Delta-9-THC, CBD (Cannabidiol), CBN (Cannabinol), THCA, CBDA, Beta-caryophyllene, [Myrcene](/ayurveda-atlas/glossary/compounds-l-o/#myrcene), Alpha-pinene
+**Marker Compounds:** Delta-9-THC, CBD (Cannabidiol), CBN (Cannabinol), THCA, CBDA, Beta-caryophyllene, [Myrcene](/nighantu/glossary/compounds-l-o/#myrcene), Alpha-pinene
 
 ### Extraction Methods
 
@@ -85,7 +85,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Bhanga/meta-analysis.m
 
 ### Synergistic Combinations
 
-- With [Black Pepper](/ayurveda-atlas/herb/black-pepper/) ([Piperine](/ayurveda-atlas/reference/piperine/)) for enhanced cannabinoid absorption
-- With [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) for [anxiolytic](/ayurveda-atlas/reference/anxiolytic/) synergy
+- With [Black Pepper](/nighantu/herb/black-pepper/) ([Piperine](/nighantu/reference/piperine/)) for enhanced cannabinoid absorption
+- With [Ashwagandha](/nighantu/herb/ashwagandha/) for [anxiolytic](/nighantu/reference/anxiolytic/) synergy
 - With Jatamamsi for sleep support
 - With Shankhapushpi for neurological conditions (traditional)

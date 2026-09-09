@@ -30,29 +30,29 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Saptala/meta-analysis.md"
 
 - Ingenol esters
 - Dracunculins (unique compounds)
-- Flavonoid [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides)
-- [Tannins](/ayurveda-atlas/reference/tannins/) and [coumarins](/ayurveda-atlas/glossary/compounds-c-d/#coumarins)
-- [Terpenoids](/ayurveda-atlas/glossary/compounds-t-z/#terpenoids) and [sterols](/ayurveda-atlas/glossary/compounds-q-t/#sterols)
+- Flavonoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides)
+- [Tannins](/nighantu/reference/tannins/) and [coumarins](/nighantu/glossary/compounds-c-d/#coumarins)
+- [Terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids) and [sterols](/nighantu/glossary/compounds-q-t/#sterols)
 - Latex compounds (diterpene esters)
 
 ## How does it work?
 
 - Anti-inflammatory activity through COX-2 inhibition by ingenol derivatives and flavonoid-mediated reduction of inflammation mediators
-- [Antioxidant](/ayurveda-atlas/reference/antioxidant/) mechanism via flavonoid glycoside-mediated scavenging of reactive oxygen species and hydroxyl radicals
-- [Analgesic](/ayurveda-atlas/reference/analgesic/) effect through both peripheral (prostaglandin inhibition) and central (opioid pathway modulation) mechanisms
+- [Antioxidant](/nighantu/reference/antioxidant/) mechanism via flavonoid glycoside-mediated scavenging of reactive oxygen species and hydroxyl radicals
+- [Analgesic](/nighantu/reference/analgesic/) effect through both peripheral (prostaglandin inhibition) and central (opioid pathway modulation) mechanisms
 - Purgative action through irritant diterpene ester stimulation of intestinal smooth muscle
 
 ## Which traditional uses are supported by research?
 
-- Purgative (Virechana) - validated through confirmed stimulant [laxative](/ayurveda-atlas/reference/laxative/) action of diterpene esters on intestinal smooth muscle
-- Skin diseases (Kushtha) - traditional use against psoriasis, ringworm, and warts partially supported by [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) and anti-inflammatory data
+- Purgative (Virechana) - validated through confirmed stimulant [laxative](/nighantu/reference/laxative/) action of diterpene esters on intestinal smooth muscle
+- Skin diseases (Kushtha) - traditional use against psoriasis, ringworm, and warts partially supported by [antimicrobial](/nighantu/reference/antimicrobial/) and anti-inflammatory data
 - Anti-rheumatic (Amavata) - supported by anti-inflammatory and analgesic studies in animal models
-- [Diuretic](/ayurveda-atlas/reference/diuretic/) (Mutrala) - traditional diuretic use cited in Ayurvedic texts; limited pharmacological validation
+- [Diuretic](/nighantu/reference/diuretic/) (Mutrala) - traditional diuretic use cited in Ayurvedic texts; limited pharmacological validation
 
 ## What do recent clinical trials show?
 
 - **Studies on phytochemical, antioxidant, anti-inflammatory and analgesic activities of Euphorbia dracunculoides** (2023): Demonstrated significant antioxidant activity against hydroxyl and phosphomolybdate radicals; strong anti-inflammatory activity reducing carrageenan-induced paw edema in rats; confirmed analgesic properties.
-- **Traditional Uses, Pharmacological, and Phytochemical Studies of Euphorbia: A Review** (2024): Comprehensive genus-level review documenting diverse pharmacological activities of Euphorbia species including anti-inflammatory, [anticancer](/ayurveda-atlas/reference/anticancer/), and antimicrobial properties with focus on ingenol and diterpene esters.
+- **Traditional Uses, Pharmacological, and Phytochemical Studies of Euphorbia: A Review** (2024): Comprehensive genus-level review documenting diverse pharmacological activities of Euphorbia species including anti-inflammatory, [anticancer](/nighantu/reference/anticancer/), and antimicrobial properties with focus on ingenol and diterpene esters.
 - **Pharmacological Significance and Toxicity of Extracted Compounds from Euphorbia Species Found in Southern Africa** (2025): Reviewed toxicity and pharmacological significance of Euphorbia-derived compounds; emphasized need for careful dosing due to irritant latex and diterpene ester toxicity potential.
 
 ## Recent safety updates
@@ -82,7 +82,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Saptala/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g churna per day; 30-50 mL kwatha twice daily. Start at low dose and titrate upward due to purgative activity.
 
-**Bioavailability:** Saponin glycosides have moderate oral bioavailability (20-30%); hydrolyzed by intestinal microflora to sapogenin aglycones, which are better absorbed. Purgative compounds act locally in the colon. Systemic absorption of triterpenoid [saponins](/ayurveda-atlas/reference/saponins/) is dose-dependent and enhanced by food.
+**Bioavailability:** Saponin glycosides have moderate oral bioavailability (20-30%); hydrolyzed by intestinal microflora to sapogenin aglycones, which are better absorbed. Purgative compounds act locally in the colon. Systemic absorption of triterpenoid [saponins](/nighantu/reference/saponins/) is dose-dependent and enhanced by food.
 
 **Optimal Timing:** Early morning on empty stomach for purgative action; take with warm water
 
@@ -92,7 +92,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Saptala/meta-analysis.md"
 
 **Storage:** Store below 25 deg C in airtight containers, protected from moisture and light. RH <55%.
 
-**Marker Compounds:** Oleanolic acid, [Hederagenin](/ayurveda-atlas/glossary/compounds-g-l/#hederagenin), Saponins (total by hemolytic index), Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
+**Marker Compounds:** Oleanolic acid, [Hederagenin](/nighantu/glossary/compounds-g-l/#hederagenin), Saponins (total by hemolytic index), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
 
 ### Extraction Methods
 
@@ -103,6 +103,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Saptala/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Trivrit](/ayurveda-atlas/herb/trivrit/) (synergistic purgative action for Virechana)
-- [Haritaki](/ayurveda-atlas/herb/haritaki/) (mild laxative formulations)
+- [Trivrit](/nighantu/herb/trivrit/) (synergistic purgative action for Virechana)
+- [Haritaki](/nighantu/herb/haritaki/) (mild laxative formulations)
 - Kutaja (anti-diarrheal formulations for amoebiasis)

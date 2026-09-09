@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Simsapa/meta-analysis.md
 
 **Standard Dosage:** 3-6 g bark/leaf powder per day; 50-100 mL kwatha twice daily; 500-1000 mg extract capsule twice daily
 
-**Bioavailability:** [Isoflavonoids](/ayurveda-atlas/glossary/compounds-g-l/#isoflavonoids) and pterocarpans show moderate bioavailability (25-40%). Tectoridin (isoflavone glycoside) is hydrolyzed by intestinal beta-glucosidases to tectorigenin, which has improved absorption. [Tannins](/ayurveda-atlas/reference/tannins/) may reduce bioavailability of co-administered minerals. Lipid co-administration enhances terpenoid absorption.
+**Bioavailability:** [Isoflavonoids](/nighantu/glossary/compounds-g-l/#isoflavonoids) and pterocarpans show moderate bioavailability (25-40%). Tectoridin (isoflavone glycoside) is hydrolyzed by intestinal beta-glucosidases to tectorigenin, which has improved absorption. [Tannins](/nighantu/reference/tannins/) may reduce bioavailability of co-administered minerals. Lipid co-administration enhances terpenoid absorption.
 
 **Optimal Timing:** Before meals for anti-diabetic applications; after meals for anti-inflammatory indications
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Simsapa/meta-analysis.md
 
 **Storage:** Store below 25 deg C in airtight containers, protected from light. Heartwood powder is relatively stable. RH <60%.
 
-**Marker Compounds:** Tectoridin, Tectorigenin, Dalbergin, Biochanin A, Caviunin, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), Melanoxin
+**Marker Compounds:** Tectoridin, Tectorigenin, Dalbergin, Biochanin A, Caviunin, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Melanoxin
 
 ### Extraction Methods
 
@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Simsapa/meta-analysis.md
 
 ### Synergistic Combinations
 
-- [Asana](/ayurveda-atlas/herb/asana/) ([Vijaysar](/ayurveda-atlas/herb/vijaysar/) — anti-diabetic synergy)
-- [Haridra](/ayurveda-atlas/herb/haridra/) (anti-inflammatory combinations)
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) ([immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) and anti-diabetic formulations)
+- [Asana](/nighantu/herb/asana/) ([Vijaysar](/nighantu/herb/vijaysar/) — anti-diabetic synergy)
+- [Haridra](/nighantu/herb/haridra/) (anti-inflammatory combinations)
+- [Guduchi](/nighantu/herb/guduchi/) ([immunomodulatory](/nighantu/reference/immunomodulatory/) and anti-diabetic formulations)
 - Meshashringi (blood sugar management combinations)

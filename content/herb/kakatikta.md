@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Kakatikta/meta-analysis.md"
 
 **Standard Dosage:** 3-5g powder twice daily; 30-60ml decoction
 
-**Bioavailability:** Limited modern pharmacokinetic data for this less commonly studied herb. Contains bitter principles, [flavonoids](/ayurveda-atlas/reference/flavonoids/), and [terpenoids](/ayurveda-atlas/glossary/compounds-t-z/#terpenoids) typical of its botanical family. Traditional decoction preparation is the standard route. Bitter taste receptors (T2Rs) are activated in GI tract, mediating digestive stimulation independent of systemic absorption.
+**Bioavailability:** Limited modern pharmacokinetic data for this less commonly studied herb. Contains bitter principles, [flavonoids](/nighantu/reference/flavonoids/), and [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids) typical of its botanical family. Traditional decoction preparation is the standard route. Bitter taste receptors (T2Rs) are activated in GI tract, mediating digestive stimulation independent of systemic absorption.
 
 **Optimal Timing:** Before meals for digestive stimulation; bitter taste is considered therapeutically important in Ayurveda (Tikta Rasa)
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Kakatikta/meta-analysis.md"
 
 **Storage:** Cool, dry place below 25°C, protected from moisture. Airtight containers.
 
-**Marker Compounds:** Bitter principles (quantified by bitterness value assay), Flavonoids (general profiling), [Alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) (if present), Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
+**Marker Compounds:** Bitter principles (quantified by bitterness value assay), Flavonoids (general profiling), [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) (if present), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
 
 ### Extraction Methods
 
@@ -70,5 +70,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Kakatikta/meta-analysis.md"
 ### Synergistic Combinations
 
 - With Chitraka for digestive fire (Agni deepana)
-- With Kutaki for [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) action
-- With [Guduchi](/ayurveda-atlas/herb/guduchi/) for [antipyretic](/ayurveda-atlas/reference/antipyretic/) and [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) effects
+- With Kutaki for [hepatoprotective](/nighantu/reference/hepatoprotective/) action
+- With [Guduchi](/nighantu/herb/guduchi/) for [antipyretic](/nighantu/reference/antipyretic/) and [immunomodulatory](/nighantu/reference/immunomodulatory/) effects

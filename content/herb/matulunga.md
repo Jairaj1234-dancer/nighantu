@@ -28,22 +28,22 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Matulunga/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Limonene](/ayurveda-atlas/glossary/compounds-g-l/#limonene)
-- [Citral](/ayurveda-atlas/glossary/compounds-c-d/#citral)
-- [Hesperidin](/ayurveda-atlas/glossary/compounds-g-l/#hesperidin)
-- [Naringin](/ayurveda-atlas/glossary/compounds-l-o/#naringin)
-- [Limonin](/ayurveda-atlas/glossary/compounds-l-o/#limonin)
+- [Limonene](/nighantu/glossary/compounds-g-l/#limonene)
+- [Citral](/nighantu/glossary/compounds-c-d/#citral)
+- [Hesperidin](/nighantu/glossary/compounds-g-l/#hesperidin)
+- [Naringin](/nighantu/glossary/compounds-l-o/#naringin)
+- [Limonin](/nighantu/glossary/compounds-l-o/#limonin)
 - Nomilin
-- [Citric acid](/ayurveda-atlas/glossary/compounds-c-d/#citric-acidcitric-acid)
+- [Citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid)
 - Vitamin C (ascorbic acid)
-- [Pectin](/ayurveda-atlas/glossary/compounds-o-q/#pectin)
-- [Citronellal](/ayurveda-atlas/glossary/compounds-c-d/#citronellal)
+- [Pectin](/nighantu/glossary/compounds-o-q/#pectin)
+- [Citronellal](/nighantu/glossary/compounds-c-d/#citronellal)
 
 ## How does it work?
 
-- Limonene activates GST (glutathione S-transferase) detoxification [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes) and inhibits Ras oncogene prenylation, providing chemopreventive effects against multiple cancer types
-- Hesperidin and naringin inhibit HMG-CoA reductase and enhance LDL receptor expression, reducing serum cholesterol levels and providing [cardioprotective](/ayurveda-atlas/reference/cardioprotective/) effects
-- [Citric acid](/ayurveda-atlas/glossary/compounds-c-d/#citric-acidcitric-acid) and vitamin C provide [antioxidant](/ayurveda-atlas/reference/antioxidant/) protection through direct free radical scavenging and regeneration of other antioxidants (vitamin E, glutathione); also enhance iron absorption from the gut
+- Limonene activates GST (glutathione S-transferase) detoxification [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) and inhibits Ras oncogene prenylation, providing chemopreventive effects against multiple cancer types
+- Hesperidin and naringin inhibit HMG-CoA reductase and enhance LDL receptor expression, reducing serum cholesterol levels and providing [cardioprotective](/nighantu/reference/cardioprotective/) effects
+- [Citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid) and vitamin C provide [antioxidant](/nighantu/reference/antioxidant/) protection through direct free radical scavenging and regeneration of other antioxidants (vitamin E, glutathione); also enhance iron absorption from the gut
 
 ## Which traditional uses are supported by research?
 
@@ -53,14 +53,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Matulunga/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **An Insight into Citrus medica Linn.: A Systematic Review on Phytochemical Profile and Biological Activities** (2023): Systematic review documenting [polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols), [flavonoids](/ayurveda-atlas/reference/flavonoids/), [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids), [terpenoids](/ayurveda-atlas/glossary/compounds-t-z/#terpenoids), [tannins](/ayurveda-atlas/reference/tannins/), [saponins](/ayurveda-atlas/reference/saponins/), and [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) with demonstrated [anticancer](/ayurveda-atlas/reference/anticancer/), [antidiabetic](/ayurveda-atlas/reference/antidiabetic/), [antimicrobial](/ayurveda-atlas/reference/antimicrobial/), [analgesic](/ayurveda-atlas/reference/analgesic/), and cardioprotective activities.
-- **Citrus medica: nutritional, phytochemical composition and health benefits - a review** (2024): Comprehensive review confirming nutraceutical benefits including anti-catarrhal, capillary protector, anti-hypertensive, [diuretic](/ayurveda-atlas/reference/diuretic/), anthelmintic, and antihyperglycemic properties.
+- **An Insight into Citrus medica Linn.: A Systematic Review on Phytochemical Profile and Biological Activities** (2023): Systematic review documenting [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols), [flavonoids](/nighantu/reference/flavonoids/), [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids), [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids), [tannins](/nighantu/reference/tannins/), [saponins](/nighantu/reference/saponins/), and [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) with demonstrated [anticancer](/nighantu/reference/anticancer/), [antidiabetic](/nighantu/reference/antidiabetic/), [antimicrobial](/nighantu/reference/antimicrobial/), [analgesic](/nighantu/reference/analgesic/), and cardioprotective activities.
+- **Citrus medica: nutritional, phytochemical composition and health benefits - a review** (2024): Comprehensive review confirming nutraceutical benefits including anti-catarrhal, capillary protector, anti-hypertensive, [diuretic](/nighantu/reference/diuretic/), anthelmintic, and antihyperglycemic properties.
 - **Etrog Citron (Citrus medica) as a Novel Source of Antimicrobial Agents: Overview of Its Bioactive Phytochemicals and Delivery Approaches** (2025): Documented novel antimicrobial delivery approaches using citron bioactive compounds with significant activity against foodborne and clinical pathogens.
 
 ## Recent safety updates
 
 - Generally recognized as safe for food use with long culinary history; extract safety confirmed at large dosages in preclinical studies with no significant toxicity
-- Essential oils may cause photosensitivity (phototoxic furanocoumarins like [bergapten](/ayurveda-atlas/glossary/compounds-a-c/#bergapten)); avoid sun exposure after topical application of citron essential oil
+- Essential oils may cause photosensitivity (phototoxic furanocoumarins like [bergapten](/nighantu/glossary/compounds-a-c/#bergapten)); avoid sun exposure after topical application of citron essential oil
 - Like other citrus fruits, citron may interfere with CYP3A4-metabolized drugs (statins, calcium channel blockers); avoid high-dose supplementation during pregnancy due to limited safety data
 
 ## What is it made of?
@@ -78,17 +78,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Matulunga/meta-analysis.md"
 
 **Standard Dosage:** 10-20 mL fresh juice daily; 3-5 g dried peel powder per day; 500 mg standardized extract capsules twice daily; essential oil for aromatherapy 3-5 drops
 
-**Bioavailability:** Limonene and other [monoterpenes](/ayurveda-atlas/glossary/compounds-l-o/#monoterpenes) are rapidly absorbed orally with good bioavailability (60-70%). Citrus flavonoids (hesperidin, naringin) have moderate bioavailability (~20-30%) improved by micronization. Ascorbic acid well absorbed in upper GI. Essential oil components rapidly absorbed via inhalation. Pectin and dietary fiber in fruit pulp are not absorbed but provide prebiotic benefits.
+**Bioavailability:** Limonene and other [monoterpenes](/nighantu/glossary/compounds-l-o/#monoterpenes) are rapidly absorbed orally with good bioavailability (60-70%). Citrus flavonoids (hesperidin, naringin) have moderate bioavailability (~20-30%) improved by micronization. Ascorbic acid well absorbed in upper GI. Essential oil components rapidly absorbed via inhalation. Pectin and dietary fiber in fruit pulp are not absorbed but provide prebiotic benefits.
 
 **Optimal Timing:** Morning for digestive stimulation; before meals for appetite enhancement; after meals for digestive comfort; aromatherapy as needed for nausea
 
-**Standardized Extract:** Cold-pressed essential oil standardized to minimum 65% D-limonene. Peel extract (10:1) standardized to minimum 10% hesperidin. Juice concentrate standardized to minimum 5% [citric acid](/ayurveda-atlas/glossary/compounds-c-d/#citric-acidcitric-acid) and 50 mg/100 mL vitamin C.
+**Standardized Extract:** Cold-pressed essential oil standardized to minimum 65% D-limonene. Peel extract (10:1) standardized to minimum 10% hesperidin. Juice concentrate standardized to minimum 5% [citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid) and 50 mg/100 mL vitamin C.
 
 **Shelf Life:** Fresh fruit: 2-4 weeks refrigerated. Essential oil: 24 months. Dried peel: 18 months. Capsules: 24 months. Avaleha: 24 months. Juice: 6 months pasteurized, 48 hours fresh.
 
 **Storage:** Essential oil in amber glass, tightly sealed, below 20 deg C (limonene oxidizes at higher temperatures). Dried peel in airtight containers with nitrogen flushing. Fresh juice refrigerated at 2-8 deg C. Avaleha at room temperature in glass containers.
 
-**Marker Compounds:** D-Limonene, Hesperidin, Naringin, Citral, [Linalool](/ayurveda-atlas/glossary/compounds-l-o/#linalool), [Citric acid](/ayurveda-atlas/glossary/compounds-c-d/#citric-acidcitric-acid), Ascorbic acid, [Nobiletin](/ayurveda-atlas/glossary/compounds-l-o/#nobiletin)
+**Marker Compounds:** D-Limonene, Hesperidin, Naringin, Citral, [Linalool](/nighantu/glossary/compounds-l-o/#linalool), [Citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid), Ascorbic acid, [Nobiletin](/nighantu/glossary/compounds-l-o/#nobiletin)
 
 ### Extraction Methods
 
@@ -101,8 +101,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Matulunga/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- Shunthi/[Ginger](/ayurveda-atlas/herb/ginger/) (digestive and anti-nausea synergy)
-- [Pippali](/ayurveda-atlas/herb/pippali/) (Agni-deepana combination)
+- Shunthi/[Ginger](/nighantu/herb/ginger/) (digestive and anti-nausea synergy)
+- [Pippali](/nighantu/herb/pippali/) (Agni-deepana combination)
 - Ela/Cardamom (carminative)
-- [Tulsi](/ayurveda-atlas/herb/tulsi/) (respiratory and immune support)
-- [Dadima](/ayurveda-atlas/herb/dadima/)/Pomegranate (digestive and cardiac)
+- [Tulsi](/nighantu/herb/tulsi/) (respiratory and immune support)
+- [Dadima](/nighantu/herb/dadima/)/Pomegranate (digestive and cardiac)

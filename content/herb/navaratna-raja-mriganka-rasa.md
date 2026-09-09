@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Navaratna-Raja-Mri
 
 | Language | Name |
 |----------|------|
-| English | [Navaratna Raja Mriganka Rasa](/ayurveda-atlas/herb/navaratna-raja-mriganka-rasa/) |
+| English | [Navaratna Raja Mriganka Rasa](/nighantu/herb/navaratna-raja-mriganka-rasa/) |
 
 ## Where is it described in the classical texts?
 
@@ -32,8 +32,8 @@ Rasendra Sara Sangraha by Gopalakrishna Bhatt (14th century CE); also referenced
 ## How does it work?
 
 - Navaratna (9 gems) concept provides synergistic mineral-gem therapy targeting all 7 Dhatus (body tissues) and 3 Doshas simultaneously
-- [Swarna Bhasma](/ayurveda-atlas/herb/swarna-bhasma/) (gold calx) acts as a potent [Rasayana](/ayurveda-atlas/reference/rasayana/) (rejuvenative) with [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) and [neuroprotective](/ayurveda-atlas/reference/neuroprotective/) effects at nanoparticle scale
-- Parada-[Gandhaka](/ayurveda-atlas/glossary/concepts-a-m/#gandhaka) (mercury-sulfur) Kajjali base provides catalytic carrier for other Bhasmas, enhancing their tissue penetration (Yogavahi property)
+- [Swarna Bhasma](/nighantu/herb/swarna-bhasma/) (gold calx) acts as a potent [Rasayana](/nighantu/reference/rasayana/) (rejuvenative) with [immunomodulatory](/nighantu/reference/immunomodulatory/) and [neuroprotective](/nighantu/reference/neuroprotective/) effects at nanoparticle scale
+- Parada-[Gandhaka](/nighantu/glossary/concepts-a-m/#gandhaka) (mercury-sulfur) Kajjali base provides catalytic carrier for other Bhasmas, enhancing their tissue penetration (Yogavahi property)
 - Multiple metal Bhasmas (iron, copper, silver, tin) provide trace mineral supplementation addressing multi-system deficiencies
 - Gemstone Bhasmas (ruby, emerald, topaz, cat's eye, diamond) are believed to provide subtle energy influences on specific organ systems and chakras in traditional Rasashastra theory
 - Coral and Pearl Bhasmas provide bio-calcium and act as cooling agents balancing the heating effect of metallic Bhasmas
@@ -51,7 +51,7 @@ Rasendra Sara Sangraha by Gopalakrishna Bhatt (14th century CE); also referenced
 ## Recent safety updates
 
 - Contains multiple heavy metals including mercury, lead, arsenic (Haratala), and copper - EXTREMELY high risk profile requiring strict medical supervision
-- [Naga Bhasma](/ayurveda-atlas/herb/naga-bhasma/) (lead calx) poses particular concern for lead poisoning; WHO and FDA have flagged Ayurvedic preparations containing lead
+- [Naga Bhasma](/nighantu/herb/naga-bhasma/) (lead calx) poses particular concern for lead poisoning; WHO and FDA have flagged Ayurvedic preparations containing lead
 - Mercury (Parada) content, even when purified, raises concerns about mercury bioaccumulation and neurotoxicity with chronic use
 - Shuddha Haratala (arsenic trisulfide) is a known carcinogen in inorganic form; traditional purification claims require modern analytical validation
 - Not recommended for self-medication under any circumstances; requires expert Vaidya supervision with baseline and periodic monitoring of blood mercury, lead, arsenic levels, and liver/kidney/neurological function

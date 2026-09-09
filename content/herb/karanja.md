@@ -28,23 +28,23 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Karanja/meta-analysis.md
 
 ## Key Phytochemical Constituents
 
-- [Karanjin](/ayurveda-atlas/glossary/compounds-g-l/#karanjin) (furanoflavone)
-- [Pongamol](/ayurveda-atlas/glossary/compounds-o-q/#pongamol) (chalcone)
+- [Karanjin](/nighantu/glossary/compounds-g-l/#karanjin) (furanoflavone)
+- [Pongamol](/nighantu/glossary/compounds-o-q/#pongamol) (chalcone)
 - Pongaglabrone
-- [Pongapin](/ayurveda-atlas/glossary/compounds-o-q/#pongapin)
+- [Pongapin](/nighantu/glossary/compounds-o-q/#pongapin)
 - Cycloart-23-ene-3beta,25-diol (triterpene)
 - Kanjone
 - Pinnatin
 - Glabrin
-- Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
+- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
 - Oleic acid
 - Linoleic acid
 
 ## How does it work?
 
 - Anti-inflammatory activity via karanjin-mediated selective COX-2 inhibition and modulation of prostaglandin synthesis
-- [Antimicrobial](/ayurveda-atlas/reference/antimicrobial/) action through disruption of bacterial cell membrane by [flavonoids](/ayurveda-atlas/reference/flavonoids/) and seed oil fatty acids
-- [Antidiabetic](/ayurveda-atlas/reference/antidiabetic/) activity via alpha-glucosidase inhibition and improved insulin sensitivity by pongamol and karanjin
+- [Antimicrobial](/nighantu/reference/antimicrobial/) action through disruption of bacterial cell membrane by [flavonoids](/nighantu/reference/flavonoids/) and seed oil fatty acids
+- [Antidiabetic](/nighantu/reference/antidiabetic/) activity via alpha-glucosidase inhibition and improved insulin sensitivity by pongamol and karanjin
 - Wound healing through promotion of keratinocyte migration, collagen synthesis and antimicrobial protection of wound bed
 
 ## Which traditional uses are supported by research?
@@ -56,9 +56,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Karanja/meta-analysis.md
 
 ## What do recent clinical trials show?
 
-- **Karanja (Milletia pinnata (L.) Panigrahi): a tropical tree with varied applications** (2023): Comprehensive review documented [antioxidant](/ayurveda-atlas/reference/antioxidant/), antimicrobial, anti-inflammatory, antidiabetic, cytotoxicity and [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) activities; identified karanjin and pongamol as compounds with most promising biological activities.
+- **Karanja (Milletia pinnata (L.) Panigrahi): a tropical tree with varied applications** (2023): Comprehensive review documented [antioxidant](/nighantu/reference/antioxidant/), antimicrobial, anti-inflammatory, antidiabetic, cytotoxicity and [immunomodulatory](/nighantu/reference/immunomodulatory/) activities; identified karanjin and pongamol as compounds with most promising biological activities.
 - **Karanj (Pongamia pinnata) - An Ayurvedic and Modern Overview** (2023): Validated multiple traditional uses including anti-dermatosis, wound healing and anti-hemorrhoidal applications; seed oil demonstrated significant antibacterial activity against skin pathogens.
-- **Medicinal uses, phytochemistry and pharmacology of Pongamia pinnata** (2024): Furanoflavonoid karanjin showed potent anti-inflammatory and [analgesic](/ayurveda-atlas/reference/analgesic/) activities through COX-2 selective inhibition and modulation of arachidonic acid cascade.
+- **Medicinal uses, phytochemistry and pharmacology of Pongamia pinnata** (2024): Furanoflavonoid karanjin showed potent anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) activities through COX-2 selective inhibition and modulation of arachidonic acid cascade.
 
 ## Recent safety updates
 
@@ -91,7 +91,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Karanja/meta-analysis.md
 
 **Standard Dosage:** 1-3 g powder twice daily (internal); Taila for external application as needed; 30-50 mL decoction twice daily
 
-**Bioavailability:** Karanjin and pongamol are highly lipophilic flavonoids with limited oral bioavailability (~15-20%). Self-nanoemulsifying drug delivery systems (SNEDDS) improve oral bioavailability by 4-5 fold. For dermatological use, penetration enhancers ([eucalyptus](/ayurveda-atlas/herb/eucalyptus/) oil, oleic acid) significantly improve transdermal delivery. [Piperine](/ayurveda-atlas/reference/piperine/) co-administration enhances systemic absorption.
+**Bioavailability:** Karanjin and pongamol are highly lipophilic flavonoids with limited oral bioavailability (~15-20%). Self-nanoemulsifying drug delivery systems (SNEDDS) improve oral bioavailability by 4-5 fold. For dermatological use, penetration enhancers ([eucalyptus](/nighantu/herb/eucalyptus/) oil, oleic acid) significantly improve transdermal delivery. [Piperine](/nighantu/reference/piperine/) co-administration enhances systemic absorption.
 
 **Optimal Timing:** Internal: after meals; external (oil/ointment): apply to affected areas twice daily, preferably morning and before bed
 
@@ -101,7 +101,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Karanja/meta-analysis.md
 
 **Storage:** Oil should be stored in amber glass bottles at 15-30°C, protected from light and heat. Powder in airtight containers. Add BHT (0.02%) or tocopherol (0.05%) as antioxidant for oil stability.
 
-**Marker Compounds:** Karanjin, Pongamol, Pongapin, Glabrin, Kanjone, Pongaglabol, Beta-sitosterol, [Furanoflavonoids](/ayurveda-atlas/glossary/compounds-d-g/#furanoflavonoids)
+**Marker Compounds:** Karanjin, Pongamol, Pongapin, Glabrin, Kanjone, Pongaglabol, Beta-sitosterol, [Furanoflavonoids](/nighantu/glossary/compounds-d-g/#furanoflavonoids)
 
 ### Extraction Methods
 
@@ -112,8 +112,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Karanja/meta-analysis.md
 
 ### Synergistic Combinations
 
-- [Nimba](/ayurveda-atlas/herb/nimba/) ([Neem](/ayurveda-atlas/herb/neem/)) for dermatological formulations and biopesticides
-- [Haridra](/ayurveda-atlas/herb/haridra/) ([Turmeric](/ayurveda-atlas/herb/turmeric/)) for anti-inflammatory skin preparations
-- [Vidanga](/ayurveda-atlas/herb/vidanga/) for anthelmintic activity
-- [Chakramarda](/ayurveda-atlas/herb/chakramarda/) for ringworm and fungal infections
-- [Bakuchi](/ayurveda-atlas/herb/bakuchi/) for leucoderma management
+- [Nimba](/nighantu/herb/nimba/) ([Neem](/nighantu/herb/neem/)) for dermatological formulations and biopesticides
+- [Haridra](/nighantu/herb/haridra/) ([Turmeric](/nighantu/herb/turmeric/)) for anti-inflammatory skin preparations
+- [Vidanga](/nighantu/herb/vidanga/) for anthelmintic activity
+- [Chakramarda](/nighantu/herb/chakramarda/) for ringworm and fungal infections
+- [Bakuchi](/nighantu/herb/bakuchi/) for leucoderma management

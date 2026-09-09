@@ -27,7 +27,7 @@ Rasaratna Samuchaya and Rasa Tarangini describe properties of various metal allo
 
 ## How is it used traditionally?
 
-Storage of medicated oils (Taila), ghees ([Ghrita](/ayurveda-atlas/herb/ghrita/)), decoctions (Kashaya/Kwatha), and other liquid Ayurvedic preparations. Kamsya (bronze) is especially recommended for eating and drinking to balance Pitta and purify blood.
+Storage of medicated oils (Taila), ghees ([Ghrita](/nighantu/herb/ghrita/)), decoctions (Kashaya/Kwatha), and other liquid Ayurvedic preparations. Kamsya (bronze) is especially recommended for eating and drinking to balance Pitta and purify blood.
 
 ## Traditional materials
 

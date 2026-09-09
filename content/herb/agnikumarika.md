@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agnikumarika/meta-analysis.md
 
 **Standard Dosage:** 2-5g powder twice daily; 40-80ml decoction; 10-20ml fresh juice
 
-**Bioavailability:** Limited modern pharmacokinetic data available. Traditional enhancement via [Trikatu](/ayurveda-atlas/herb/trikatu/) yoga ([black pepper](/ayurveda-atlas/herb/black-pepper/), long pepper, [ginger](/ayurveda-atlas/herb/ginger/)) or honey as anupana. Presence of volatile oils suggests reasonable absorption of lipophilic fractions. Aqueous constituents absorbed via paracellular and transcellular pathways.
+**Bioavailability:** Limited modern pharmacokinetic data available. Traditional enhancement via [Trikatu](/nighantu/herb/trikatu/) yoga ([black pepper](/nighantu/herb/black-pepper/), long pepper, [ginger](/nighantu/herb/ginger/)) or honey as anupana. Presence of volatile oils suggests reasonable absorption of lipophilic fractions. Aqueous constituents absorbed via paracellular and transcellular pathways.
 
 **Optimal Timing:** Before meals with warm water to stimulate Agni (digestive fire)
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agnikumarika/meta-analysis.md
 
 **Storage:** Airtight containers, cool and dry place, away from direct sunlight. Temperature below 25°C preferred.
 
-**Marker Compounds:** Total phenolics, Total [flavonoids](/ayurveda-atlas/reference/flavonoids/), Volatile oil content (if applicable), [Tannins](/ayurveda-atlas/reference/tannins/)
+**Marker Compounds:** Total phenolics, Total [flavonoids](/nighantu/reference/flavonoids/), Volatile oil content (if applicable), [Tannins](/nighantu/reference/tannins/)
 
 ### Extraction Methods
 
@@ -70,6 +70,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agnikumarika/meta-analysis.md
 
 ### Synergistic Combinations
 
-- With [Agnimantha](/ayurveda-atlas/herb/agnimantha/) for digestive fire (Agni) stimulation
-- With [Chitrak](/ayurveda-atlas/herb/chitrak/) for metabolism enhancement
+- With [Agnimantha](/nighantu/herb/agnimantha/) for digestive fire (Agni) stimulation
+- With [Chitrak](/nighantu/herb/chitrak/) for metabolism enhancement
 - With Sunthi (ginger) for digestive support

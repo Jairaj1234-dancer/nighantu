@@ -24,23 +24,23 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhanyamla/meta-analysis.md"
 | Language | Name |
 |----------|------|
 | English | Dhanyamla |
-| Latin/Botanical | *Fermented grain formulation (composite - Oryza sativa, Panicum sumatrense, Paspalum scrobiculatum, [Zingiber](/ayurveda-atlas/herb/zingiber/) officinale, Citrus aurantifolia, etc.)* |
+| Latin/Botanical | *Fermented grain formulation (composite - Oryza sativa, Panicum sumatrense, Paspalum scrobiculatum, [Zingiber](/nighantu/herb/zingiber/) officinale, Citrus aurantifolia, etc.)* |
 
 ## Key Phytochemical Constituents
 
 - Organic acids (lactic acid, acetic acid - from fermentation)
-- [Tannins](/ayurveda-atlas/reference/tannins/)
-- [Flavonoids](/ayurveda-atlas/reference/flavonoids/)
-- [Saponins](/ayurveda-atlas/reference/saponins/)
+- [Tannins](/nighantu/reference/tannins/)
+- [Flavonoids](/nighantu/reference/flavonoids/)
+- [Saponins](/nighantu/reference/saponins/)
 - Probiotic microorganisms (Lactobacillus spp., Acetobacter spp.)
-- [Polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols) from fermented grain matrix
+- [Polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) from fermented grain matrix
 
 ## How does it work?
 
 - Anti-inflammatory action through organic acid-mediated modulation of local tissue pH and reduction of inflammatory mediators in musculoskeletal disorders
 - Lekhana (scraping/fat-reducing) effect through fermentation-derived bioactive compounds enhancing lipid metabolism
 - Digestive stimulation (Deepana-Pachana) through enhancement of appetite and digestive enzyme activity via probiotic microflora and organic acids
-- [Analgesic](/ayurveda-atlas/reference/analgesic/) effect in Dhara therapy through transdermal absorption of anti-inflammatory compounds and thermal vasodilation
+- [Analgesic](/nighantu/reference/analgesic/) effect in Dhara therapy through transdermal absorption of anti-inflammatory compounds and thermal vasodilation
 
 ## Which traditional uses are supported by research?
 
@@ -51,7 +51,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhanyamla/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Pharmaceutical and Analytical Study of Dhanyamla** (2022): Quality assessment determined pH 4.13, specific gravity 1.0068 at 30 degrees C; phytochemical screening confirmed presence of tannins, flavonoids, and saponins with [antioxidant](/ayurveda-atlas/reference/antioxidant/) and [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) potential.
+- **Pharmaceutical and Analytical Study of Dhanyamla** (2022): Quality assessment determined pH 4.13, specific gravity 1.0068 at 30 degrees C; phytochemical screening confirmed presence of tannins, flavonoids, and saponins with [antioxidant](/nighantu/reference/antioxidant/) and [antimicrobial](/nighantu/reference/antimicrobial/) potential.
 - **Isolation and Characterization of Potential Microorganism from Dhanyamla** (2021): Isolated and characterized beneficial microorganisms from the fermentation process including Lactobacillus species, confirming probiotic characteristics that contribute to therapeutic properties.
 - **A Pharmacognostical and Pharmaceutical evaluation of Dhanyamla** (2021): Established standardization parameters for Dhanyamla preparation and validated the fermentation process for consistent therapeutic quality across batches.
 
@@ -79,7 +79,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhanyamla/meta-analysis.md"
 
 **Standard Dosage:** External use primarily: 500ml-2L for Dhara/Parisheka therapy (30-45 min sessions); Internal use: 15-30ml twice daily before meals (as digestive, in some traditions)
 
-**Bioavailability:** Dhanyamla is a fermented preparation (grains/cereals fermented in water) producing organic acids (lactic, acetic, citric). The low pH (3.0-4.5) and organic acid content ensure rapid penetration through skin during external therapies. For internal use, organic acids are readily absorbed from the GI tract. The fermentation process produces B-[vitamins](/ayurveda-atlas/glossary/compounds-t-z/#vitamins) and short-chain fatty acids that are highly bioavailable. No enhancement needed - the preparation itself is a bioavailability-optimized traditional formulation.
+**Bioavailability:** Dhanyamla is a fermented preparation (grains/cereals fermented in water) producing organic acids (lactic, acetic, citric). The low pH (3.0-4.5) and organic acid content ensure rapid penetration through skin during external therapies. For internal use, organic acids are readily absorbed from the GI tract. The fermentation process produces B-[vitamins](/nighantu/glossary/compounds-t-z/#vitamins) and short-chain fatty acids that are highly bioavailable. No enhancement needed - the preparation itself is a bioavailability-optimized traditional formulation.
 
 **Optimal Timing:** External Dhara therapy: morning sessions preferred, patient should not be fasting. Internal use: before meals for digestive stimulation
 
@@ -89,7 +89,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhanyamla/meta-analysis.md"
 
 **Storage:** Unpasteurized: refrigerate at 2-8 deg C. Pasteurized: store in airtight glass containers at room temperature away from direct sunlight. Do not use metal containers (acid corrosion). Traditional: earthen pot storage at cool ambient temperature.
 
-**Marker Compounds:** Lactic acid, Acetic acid, [Citric acid](/ayurveda-atlas/glossary/compounds-c-d/#citric-acidcitric-acid), Total organic acids, Alcohol content (ethanol), B-vitamins (B1, B2, B6, B12)
+**Marker Compounds:** Lactic acid, Acetic acid, [Citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid), Total organic acids, Alcohol content (ethanol), B-vitamins (B1, B2, B6, B12)
 
 ### Extraction Methods
 
@@ -99,7 +99,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhanyamla/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Dashamoola](/ayurveda-atlas/herb/dashamoola/) Kashayam for combined Dhara therapy in Vata disorders
-- With [Eranda](/ayurveda-atlas/herb/eranda/) Taila post-Dhanyamla Dhara for enhanced pain relief
+- With [Dashamoola](/nighantu/herb/dashamoola/) Kashayam for combined Dhara therapy in Vata disorders
+- With [Eranda](/nighantu/herb/eranda/) Taila post-Dhanyamla Dhara for enhanced pain relief
 - With rock salt (Saindhava) added to fermentation for mineral enrichment
-- Combined with [Triphala](/ayurveda-atlas/herb/triphala/) for internal digestive use
+- Combined with [Triphala](/nighantu/herb/triphala/) for internal digestive use

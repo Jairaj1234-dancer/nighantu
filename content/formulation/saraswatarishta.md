@@ -27,46 +27,46 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Saraswa
 
 ## Key Ingredients
 
-- [Brahmi](/ayurveda-atlas/herb/brahmi/) (Bacopa monnieri)
+- [Brahmi](/nighantu/herb/brahmi/) (Bacopa monnieri)
 - Shankhapushpi (Convolvulus pluricaulis)
-- [Vacha](/ayurveda-atlas/herb/vacha/) (Acorus calamus)
-- [Madhuka](/ayurveda-atlas/herb/madhuka/)/[Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) (Glycyrrhiza glabra)
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) (Withania somnifera)
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) (Asparagus racemosus)
-- [Haritaki](/ayurveda-atlas/herb/haritaki/) (Terminalia chebula)
-- [Dhataki](/ayurveda-atlas/herb/dhataki/) pushpa (Woodfordia fruticosa)
+- [Vacha](/nighantu/herb/vacha/) (Acorus calamus)
+- [Madhuka](/nighantu/herb/madhuka/)/[Yashtimadhu](/nighantu/herb/yashtimadhu/) (Glycyrrhiza glabra)
+- [Ashwagandha](/nighantu/herb/ashwagandha/) (Withania somnifera)
+- [Shatavari](/nighantu/herb/shatavari/) (Asparagus racemosus)
+- [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula)
+- [Dhataki](/nighantu/herb/dhataki/) pushpa (Woodfordia fruticosa)
 - Saunf (Foeniculum vulgare)
-- [Vidanga](/ayurveda-atlas/herb/vidanga/) (Embelia ribes)
+- [Vidanga](/nighantu/herb/vidanga/) (Embelia ribes)
 - Jaggery (fermentation medium)
 
 ## Where is it described in the classical texts?
 
-Charaka Samhita and Sushruta Samhita. Originally classified as a Medhya [Rasayana](/ayurveda-atlas/reference/rasayana/) (mind rejuvenator) from the Vedic period (circa 1000 BCE). Used in classical texts for neurological imbalances including neurosis, psychosis, epilepsy, and stuttering.
+Charaka Samhita and Sushruta Samhita. Originally classified as a Medhya [Rasayana](/nighantu/reference/rasayana/) (mind rejuvenator) from the Vedic period (circa 1000 BCE). Used in classical texts for neurological imbalances including neurosis, psychosis, epilepsy, and stuttering.
 
 ## How does it work?
 
-- Cholinergic modulation by [Brahmi](/ayurveda-atlas/herb/brahmi/) and Shankhapushpi enhances acetylcholine levels, improving memory and cognition
-- BDNF (Brain-Derived Neurotrophic Factor) boosting by [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) supports synaptic plasticity and neuroprotection
-- GABAergic and serotonergic modulation by [Vacha](/ayurveda-atlas/herb/vacha/) and [Brahmi](/ayurveda-atlas/herb/brahmi/) produces [anxiolytic](/ayurveda-atlas/reference/anxiolytic/) and anti-epileptic effects
-- [Neuroprotective](/ayurveda-atlas/reference/neuroprotective/) action through [antioxidant](/ayurveda-atlas/reference/antioxidant/) compounds reduces oxidative stress in neural tissue
+- Cholinergic modulation by [Brahmi](/nighantu/herb/brahmi/) and Shankhapushpi enhances acetylcholine levels, improving memory and cognition
+- BDNF (Brain-Derived Neurotrophic Factor) boosting by [Ashwagandha](/nighantu/herb/ashwagandha/) supports synaptic plasticity and neuroprotection
+- GABAergic and serotonergic modulation by [Vacha](/nighantu/herb/vacha/) and [Brahmi](/nighantu/herb/brahmi/) produces [anxiolytic](/nighantu/reference/anxiolytic/) and anti-epileptic effects
+- [Neuroprotective](/nighantu/reference/neuroprotective/) action through [antioxidant](/nighantu/reference/antioxidant/) compounds reduces oxidative stress in neural tissue
 
 ## Which traditional uses are supported by research?
 
 - Memory enhancement and cognitive support - validated by mouse model studies and clinical trial (n=100)
 - Speech disorders and stuttering in children - traditional use supported by cholinergic modulation mechanisms
-- Anxiety and mental fatigue - corroborated by GABA/[serotonin](/ayurveda-atlas/glossary/compounds-q-t/#serotonin) modulation studies
+- Anxiety and mental fatigue - corroborated by GABA/[serotonin](/nighantu/glossary/compounds-q-t/#serotonin) modulation studies
 - Epilepsy (adjunct) - supported by network pharmacology identifying anticonvulsant pathways
 
 ## What do recent clinical trials show?
 
 - **Memory Enhancing Activity of Saraswatarishta in Mice** (2020): Published in Biomedical and Pharmacology Journal: demonstrated improved memory retention and learning ability in dementia and amnesia mouse models.
 - **Saraswatarishta in mild cognitive impairment** (2019): Double-blind study (n=100) in Ayurveda Journal of Health showed significant reduction in mild cognitive impairment scales versus placebo.
-- **Network pharmacology analysis of Saraswatarishta in neurological disorders** (2021): Published in Neuroscience Research Notes: identified that phytoconstituents (Withanolide A, 10-[gingerol](/ayurveda-atlas/glossary/compounds-d-g/#gingerol), Withaferin A) show bioactivity comparable to Bromperidol (dementia/schizophrenia) and Atomoxetine (ADHD).
+- **Network pharmacology analysis of Saraswatarishta in neurological disorders** (2021): Published in Neuroscience Research Notes: identified that phytoconstituents (Withanolide A, 10-[gingerol](/nighantu/glossary/compounds-d-g/#gingerol), Withaferin A) show bioactivity comparable to Bromperidol (dementia/schizophrenia) and Atomoxetine (ADHD).
 
 ## Recent safety updates
 
 - Contains 5-10% self-generated alcohol from fermentation. Should be used cautiously in children, pregnant women, and individuals with liver conditions.
-- [Vacha](/ayurveda-atlas/herb/vacha/) (Acorus calamus) contains beta-asarone which has regulatory restrictions in some countries. Long-term use should be monitored by a qualified physician.
+- [Vacha](/nighantu/herb/vacha/) (Acorus calamus) contains beta-asarone which has regulatory restrictions in some countries. Long-term use should be monitored by a qualified physician.
 
 ## What is it made of?
 
@@ -91,7 +91,7 @@ Charaka Samhita and Sushruta Samhita. Originally classified as a Medhya [Rasayan
 
 **Storage:** Room temperature, tightly sealed, away from direct sunlight. Do not refrigerate.
 
-**Marker Compounds:** Bacosides A+B, [Withanolides](/ayurveda-atlas/glossary/compounds-t-z/#withanolides)
+**Marker Compounds:** Bacosides A+B, [Withanolides](/nighantu/glossary/compounds-t-z/#withanolides)
 
 **Quality Parameters:** Alcohol content 5-12% v/v, pH 3.0-4.5, specific gravity 1.01-1.08, total solids 15-25%, marker: Bacosides A+B, Withanolides
 
@@ -99,4 +99,4 @@ Charaka Samhita and Sushruta Samhita. Originally classified as a Medhya [Rasayan
 
 ### Synergistic Combinations
 
-- Key herbs: [Brahmi](/ayurveda-atlas/herb/brahmi/) (Bacopa), [Shatavari](/ayurveda-atlas/herb/shatavari/), [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/), [Haritaki](/ayurveda-atlas/herb/haritaki/), [Dhataki](/ayurveda-atlas/herb/dhataki/); fermentation creates unique metabolite profile with enhanced therapeutic activity
+- Key herbs: [Brahmi](/nighantu/herb/brahmi/) (Bacopa), [Shatavari](/nighantu/herb/shatavari/), [Ashwagandha](/nighantu/herb/ashwagandha/), [Haritaki](/nighantu/herb/haritaki/), [Dhataki](/nighantu/herb/dhataki/); fermentation creates unique metabolite profile with enhanced therapeutic activity

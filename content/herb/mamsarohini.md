@@ -45,11 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Mamsarohini/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Kwatha (decoction), Capsules, Tablets, Avaleha (confection), [Ghrita](/ayurveda-atlas/herb/ghrita/) (medicated ghee)
+**Dosage Forms:** Churna (powder), Kwatha (decoction), Capsules, Tablets, Avaleha (confection), [Ghrita](/nighantu/herb/ghrita/) (medicated ghee)
 
 **Standard Dosage:** 1-3 g rhizome powder per day; 30-50 mL decoction twice daily; 250-500 mg standardized extract twice daily
 
-**Bioavailability:** [Berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine) and related protoberberine [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) have inherently low oral bioavailability (approximately 5% for [berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine)). Significant intestinal and hepatic first-pass metabolism. P-glycoprotein efflux limits absorption. Co-administration with [piperine](/ayurveda-atlas/reference/piperine/) inhibits P-gp and CYP3A4, increasing berberine bioavailability by 2-fold. [Ghrita](/ayurveda-atlas/herb/ghrita/)-based preparations may improve lipophilic alkaloid absorption.
+**Bioavailability:** [Berberine](/nighantu/glossary/compounds-a-c/#berberine) and related protoberberine [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) have inherently low oral bioavailability (approximately 5% for [berberine](/nighantu/glossary/compounds-a-c/#berberine)). Significant intestinal and hepatic first-pass metabolism. P-glycoprotein efflux limits absorption. Co-administration with [piperine](/nighantu/reference/piperine/) inhibits P-gp and CYP3A4, increasing berberine bioavailability by 2-fold. [Ghrita](/nighantu/herb/ghrita/)-based preparations may improve lipophilic alkaloid absorption.
 
 **Optimal Timing:** Before meals for digestive and hepatic stimulant effects; empty stomach for maximum berberine absorption; evening dose for wound healing and tissue repair
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Mamsarohini/meta-analysis.md"
 
 **Storage:** Store below 25 deg C in airtight, light-resistant containers. Berberine is photosensitive - amber packaging mandatory. Protect from moisture. Ghrita in clean glass containers at room temperature.
 
-**Marker Compounds:** Berberine, [Palmatine](/ayurveda-atlas/glossary/compounds-o-q/#palmatine), [Jatrorrhizine](/ayurveda-atlas/glossary/compounds-g-l/#jatrorrhizine), [Columbamine](/ayurveda-atlas/glossary/compounds-c-d/#columbamine), [Magnoflorine](/ayurveda-atlas/glossary/compounds-l-o/#magnoflorine), Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), [Lupeol](/ayurveda-atlas/reference/lupeol/)
+**Marker Compounds:** Berberine, [Palmatine](/nighantu/glossary/compounds-o-q/#palmatine), [Jatrorrhizine](/nighantu/glossary/compounds-g-l/#jatrorrhizine), [Columbamine](/nighantu/glossary/compounds-c-d/#columbamine), [Magnoflorine](/nighantu/glossary/compounds-l-o/#magnoflorine), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Lupeol](/nighantu/reference/lupeol/)
 
 ### Extraction Methods
 
@@ -71,8 +71,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Mamsarohini/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- Kutki ([hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) and bitter tonic synergy)
-- [Haridra](/ayurveda-atlas/herb/haridra/) (anti-inflammatory and [antimicrobial](/ayurveda-atlas/reference/antimicrobial/))
-- [Daruharidra](/ayurveda-atlas/herb/daruharidra/) (berberine-type alkaloid potentiation)
+- Kutki ([hepatoprotective](/nighantu/reference/hepatoprotective/) and bitter tonic synergy)
+- [Haridra](/nighantu/herb/haridra/) (anti-inflammatory and [antimicrobial](/nighantu/reference/antimicrobial/))
+- [Daruharidra](/nighantu/herb/daruharidra/) (berberine-type alkaloid potentiation)
 - Chirata (bitter tonic and febrifuge combination)
-- [Pippali](/ayurveda-atlas/herb/pippali/) (bioenhancer for berberine absorption)
+- [Pippali](/nighantu/herb/pippali/) (bioenhancer for berberine absorption)

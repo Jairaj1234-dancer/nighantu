@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Kshara-Parpati/met
 
 | Language | Name |
 |----------|------|
-| English | [Kshara Parpati](/ayurveda-atlas/herb/kshara-parpati/) |
+| English | [Kshara Parpati](/nighantu/herb/kshara-parpati/) |
 
 ## Where is it described in the classical texts?
 
@@ -31,8 +31,8 @@ Siddha Yoga Sangraha, Ashmari Mutrakrichra Adhikara (Urinary Stones and Dysuria 
 
 ## How does it work?
 
-- Surya Kshara ([potassium](/ayurveda-atlas/glossary/compounds-o-q/#potassium) nitrate) acts as a potent alkalizing agent, increasing urinary pH to dissolve uric acid and calcium oxalate stones
-- [Diuretic](/ayurveda-atlas/reference/diuretic/) action of potassium nitrate increases urine volume, flushing out small calculi and preventing new stone formation
+- Surya Kshara ([potassium](/nighantu/glossary/compounds-o-q/#potassium) nitrate) acts as a potent alkalizing agent, increasing urinary pH to dissolve uric acid and calcium oxalate stones
+- [Diuretic](/nighantu/reference/diuretic/) action of potassium nitrate increases urine volume, flushing out small calculi and preventing new stone formation
 - Sphatika (alum) has astringent and antiseptic properties, reducing urinary tract inflammation and infection
 - Navasadara (ammonium chloride) has urine-acidifying properties at certain concentrations but in Parpati form acts synergistically as a balanced urinary modifier
 - Antacid-like action in the GI tract alleviates dyspepsia and acid-related digestive disorders
@@ -45,8 +45,8 @@ Siddha Yoga Sangraha, Ashmari Mutrakrichra Adhikara (Urinary Stones and Dysuria 
 
 ## What do recent clinical trials show?
 
-- **Pharmaceutical review study of Shweta Parpati on Mutrakrichra** (2019): Pharmaceutical review confirmed the standardized preparation method for [Kshara Parpati](/ayurveda-atlas/herb/kshara-parpati/) (Shweta Parpati) and its efficacy in urinary disorders based on traditional evidence
-- **Comparative study of Badarashma Pishti and [Kshara Parpati](/ayurveda-atlas/herb/kshara-parpati/) in management of Mutrashmari (urinary calculi)** (2018): Comparative study showed [Kshara Parpati](/ayurveda-atlas/herb/kshara-parpati/) effective in management of urinary calculi with diuretic and litholytic properties
+- **Pharmaceutical review study of Shweta Parpati on Mutrakrichra** (2019): Pharmaceutical review confirmed the standardized preparation method for [Kshara Parpati](/nighantu/herb/kshara-parpati/) (Shweta Parpati) and its efficacy in urinary disorders based on traditional evidence
+- **Comparative study of Badarashma Pishti and [Kshara Parpati](/nighantu/herb/kshara-parpati/) in management of Mutrashmari (urinary calculi)** (2018): Comparative study showed [Kshara Parpati](/nighantu/herb/kshara-parpati/) effective in management of urinary calculi with diuretic and litholytic properties
 
 ## Recent safety updates
 
@@ -73,7 +73,7 @@ Siddha Yoga Sangraha, Ashmari Mutrakrichra Adhikara (Urinary Stones and Dysuria 
 
 **Bioavailability:** Enhanced; Parpati form (thin flake) has increased surface area for absorption
 
-**Optimal Timing:** With buttermilk ([Takra](/ayurveda-atlas/herb/takra/)) or rice water (Tandulodaka)
+**Optimal Timing:** With buttermilk ([Takra](/nighantu/herb/takra/)) or rice water (Tandulodaka)
 
 **Standardized Extract:** Kajjali melted with Kshara (alkaline substance) and poured on banana leaf
 
@@ -85,4 +85,4 @@ Siddha Yoga Sangraha, Ashmari Mutrakrichra Adhikara (Urinary Stones and Dysuria 
 
 **Quality Parameters:** Thin flake formation, uniform thickness, standard Parpati tests, free mercury <1 ppm
 
-**Vehicle (Anupana):** Buttermilk ([Takra](/ayurveda-atlas/herb/takra/)) — classical combination
+**Vehicle (Anupana):** Buttermilk ([Takra](/nighantu/herb/takra/)) — classical combination

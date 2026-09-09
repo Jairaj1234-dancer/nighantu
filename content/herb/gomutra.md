@@ -30,19 +30,19 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Gomutra/meta-analysis.md"
 - Water (95%)
 - Urea (2.5%)
 - Minerals and 24 types of salts (2.5%)
-- [Enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes) (urokinase, creatinine)
+- [Enzymes](/nighantu/glossary/compounds-d-g/#enzymes) (urokinase, creatinine)
 - Hormones (erythropoietin-like factors)
 - Phenolic acids, volatile organic acids
-- Hippuric acid, [allantoin](/ayurveda-atlas/glossary/compounds-1-a/#allantoin)
+- Hippuric acid, [allantoin](/nighantu/glossary/compounds-1-a/#allantoin)
 - Aurum hydroxide (traces in some reports)
-- Carbolic acid, calcium, [manganese](/ayurveda-atlas/glossary/compounds-l-o/#manganese), iron
+- Carbolic acid, calcium, [manganese](/nighantu/glossary/compounds-l-o/#manganese), iron
 
 ## How does it work?
 
 - Bioenhancer activity: Increases absorption and bioavailability of co-administered drugs by modifying gut permeability and hepatic metabolism; US Patent 6,410,059 granted for bioenhancer property
-- [Antimicrobial](/ayurveda-atlas/reference/antimicrobial/) action: Phenolic acids, volatile fatty acids, and urea create hostile environment for bacterial and fungal pathogens; direct membrane disruption confirmed in vitro
+- [Antimicrobial](/nighantu/reference/antimicrobial/) action: Phenolic acids, volatile fatty acids, and urea create hostile environment for bacterial and fungal pathogens; direct membrane disruption confirmed in vitro
 - Immunomodulation: Stimulates macrophage activity and lymphocyte proliferation, enhancing both innate and adaptive immune responses
-- [Antioxidant](/ayurveda-atlas/reference/antioxidant/) and [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/): Phenolic compounds scavenge free radicals; allantoin promotes hepatocyte regeneration and wound healing
+- [Antioxidant](/nighantu/reference/antioxidant/) and [hepatoprotective](/nighantu/reference/hepatoprotective/): Phenolic compounds scavenge free radicals; allantoin promotes hepatocyte regeneration and wound healing
 
 ## Which traditional uses are supported by research?
 
@@ -52,8 +52,8 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Gomutra/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **In Silico and In Vitro Studies of Antibacterial Activity of Cow Urine Distillate (CUD)** (2024): CUD showed significant antibacterial activity against tested strains with zone of inhibition (ZOI) ranging from 13-24 mm and MIC values ranging from 12.5 to 50 microg/ml; in silico docking confirmed binding to bacterial target [proteins](/ayurveda-atlas/glossary/compounds-o-q/#proteins).
-- **Exploring the pharmacological potential of Red Sindhi Cow urine: An in vivo approach** (2024): Red Sindhi cow urine demonstrated antimicrobial, antioxidant, anti-inflammatory, [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/), [anticancer](/ayurveda-atlas/reference/anticancer/), hepatoprotective, and [antidiabetic](/ayurveda-atlas/reference/antidiabetic/) effects in in vivo models.
+- **In Silico and In Vitro Studies of Antibacterial Activity of Cow Urine Distillate (CUD)** (2024): CUD showed significant antibacterial activity against tested strains with zone of inhibition (ZOI) ranging from 13-24 mm and MIC values ranging from 12.5 to 50 microg/ml; in silico docking confirmed binding to bacterial target [proteins](/nighantu/glossary/compounds-o-q/#proteins).
+- **Exploring the pharmacological potential of Red Sindhi Cow urine: An in vivo approach** (2024): Red Sindhi cow urine demonstrated antimicrobial, antioxidant, anti-inflammatory, [immunomodulatory](/nighantu/reference/immunomodulatory/), [anticancer](/nighantu/reference/anticancer/), hepatoprotective, and [antidiabetic](/nighantu/reference/antidiabetic/) effects in in vivo models.
 - **Multidimensional Use of Cow Urine (Gomutra), One of the Ingredients of Panchagavya - A Narrative Review** (2022): Comprehensive review confirmed Gomutra's scientifically proven role as a bioenhancer that increases bioavailability of co-administered drugs, particularly antibiotics and antifungals.
 
 ## Recent safety updates
@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Gomutra/meta-analysis.md"
 - Heavy metal contamination is a significant concern; cow urine from industrially farmed cattle may contain lead, arsenic, and cadmium above safe limits
 - Not recommended as sole treatment for serious conditions (cancer, diabetes) despite traditional claims; should complement evidence-based medicine
 - Potential for microbial contamination if not properly distilled or processed; fresh urine must be processed within hours
-- May cause gastric irritation in sensitive individuals when consumed undiluted; Ayurvedic texts recommend specific processing ([Arka](/ayurveda-atlas/herb/arka/)/distillate form)
+- May cause gastric irritation in sensitive individuals when consumed undiluted; Ayurvedic texts recommend specific processing ([Arka](/nighantu/herb/arka/)/distillate form)
 
 ## What is it made of?
 
@@ -92,9 +92,9 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Gomutra/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Fresh urine, Gomutra [Arka](/ayurveda-atlas/herb/arka/) (distillate), Gomutra [Haritaki](/ayurveda-atlas/herb/haritaki/)
+**Dosage Forms:** Fresh urine, Gomutra [Arka](/nighantu/herb/arka/) (distillate), Gomutra [Haritaki](/nighantu/herb/haritaki/)
 
-**Standard Dosage:** 10–30 mL of [Arka](/ayurveda-atlas/herb/arka/); 5–10 mL fresh (diluted)
+**Standard Dosage:** 10–30 mL of [Arka](/nighantu/herb/arka/); 5–10 mL fresh (diluted)
 
 **Bioavailability:** Bioenhancer — increases absorption of co-administered herbs by 2–7x
 

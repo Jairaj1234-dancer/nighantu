@@ -37,9 +37,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Jyotishmati/meta-analy
 **Journal:** Journal of Ayurveda and integrative medicine (2015)
 **PMID:** 26166997
 
-> Jyotishmati, scientifically known as Celastrus paniculatus Wild (Celastraceae) is one of the most important medicinal plants in Ayurveda. The plant has shown significant pharmacological activities like anti-arthritic, wound healing, [hypolipidemic](/ayurveda-atlas/glossary/pharmacology/#hypolipidemic), and [antioxidant](/ayurveda-atlas/reference/antioxidant/)....
+> Jyotishmati, scientifically known as Celastrus paniculatus Wild (Celastraceae) is one of the most important medicinal plants in Ayurveda. The plant has shown significant pharmacological activities like anti-arthritic, wound healing, [hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic), and [antioxidant](/nighantu/reference/antioxidant/)....
 
-**Keywords:** Acetic acid, [analgesic](/ayurveda-atlas/reference/analgesic/), anti-inflammatory, carrageenan, hot plate, tail immersion
+**Keywords:** Acetic acid, [analgesic](/nighantu/reference/analgesic/), anti-inflammatory, carrageenan, hot plate, tail immersion
 
 #### 2. Phytochemistry and pharmacology of 
 
@@ -52,7 +52,7 @@ METHODS: All available information concerning
 RESULTS: 
 CONCLUSIONS: Several ...
 
-**Keywords:** Celastrus paniculatus, malkangni, [neuroprotective](/ayurveda-atlas/reference/neuroprotective/), [nootropic](/ayurveda-atlas/glossary/pharmacology/#nootropic), traditional uses, β-dihydroagarofuranoids sesquiterpenes
+**Keywords:** Celastrus paniculatus, malkangni, [neuroprotective](/nighantu/reference/neuroprotective/), [nootropic](/nighantu/glossary/pharmacology/#nootropic), traditional uses, β-dihydroagarofuranoids sesquiterpenes
 
 #### 3. Application of Green Technologies in Design-Based Extraction of 
 
@@ -70,7 +70,7 @@ CONCLUSIONS: Several ...
 **Journal:** Journal of complementary & integrative medicine (2023)
 **PMID:** 35005853
 
-> The most common human neurodegenerative diseases like Alzheimer's disease (AD), Parkinson's disease (PD), Huntington's disease (HD) etc. have been recognized to result from a complex interplay between genetic predisposition and defective cellular dynamics such as inappropriate accumulation of unfolded [proteins](/ayurveda-atlas/glossary/compounds-o-q/#proteins), oxygen free radicals and mitochondrial dysfunction. The treatment strategies available today for these neurodegenerative ailments are only palliative and are incapable of restraining the progression of the disease. Hence, there is an immense requirement for identification of drug candidates with the ability to alleviate neuronal damage along with controlling progression of the disease. From time immemorial mankind has been relying on plants for treating varied types of dreadful dise...
+> The most common human neurodegenerative diseases like Alzheimer's disease (AD), Parkinson's disease (PD), Huntington's disease (HD) etc. have been recognized to result from a complex interplay between genetic predisposition and defective cellular dynamics such as inappropriate accumulation of unfolded [proteins](/nighantu/glossary/compounds-o-q/#proteins), oxygen free radicals and mitochondrial dysfunction. The treatment strategies available today for these neurodegenerative ailments are only palliative and are incapable of restraining the progression of the disease. Hence, there is an immense requirement for identification of drug candidates with the ability to alleviate neuronal damage along with controlling progression of the disease. From time immemorial mankind has been relying on plants for treating varied types of dreadful dise...
 
 **Keywords:** Celastrus paniculatus, antioxidants, cognitive dysfunction, neurobehavioral, neuroprotective
 
@@ -90,7 +90,7 @@ CONCLUSIONS: Several ...
 **Journal:** Phytotherapy research : PTR (2022)
 **PMID:** 35199395
 
-> Celastrus paniculatus is a traditional herb belonging to the family Celastraceae and is widely used for a number of medicinal activities in the Indian Unani and Ayurvedic systems. In this study, the extensive literature search was carried out on phytochemistry, ethnobotanical uses and pharmacological activities of C. paniculatus (Willd.) in various scientific databases as well as patents. Research on phytochemical investigation has shown the presence of [monoterpenes](/ayurveda-atlas/glossary/compounds-l-o/#monoterpenes) ([linalool](/ayurveda-atlas/glossary/compounds-l-o/#linalool), α-terpinyl acetate, [nerol](/ayurveda-atlas/glossary/compounds-l-o/#nerol) acetate), sesqueterpene esters (such as malkanguniol, malkangunin, valerenal, globulol, [viridiflorol](/ayurveda-atlas/glossary/compounds-t-z/#viridiflorol), cubenol and agarofuran derivatives), diterpenoids (such as phytone, isophytol), [triterpenoids](/ayurveda-atlas/glossary/compounds-t-z/#triterpenoids) (such as [lupeol](/ayurveda-atlas/reference/lupeol/), pristimerin, paniculatadiol, zeylasteral, zeylasterone, β-amyrin, [squalene](/ayurveda-atlas/glossary/compounds-q-t/#squalene)), al...
+> Celastrus paniculatus is a traditional herb belonging to the family Celastraceae and is widely used for a number of medicinal activities in the Indian Unani and Ayurvedic systems. In this study, the extensive literature search was carried out on phytochemistry, ethnobotanical uses and pharmacological activities of C. paniculatus (Willd.) in various scientific databases as well as patents. Research on phytochemical investigation has shown the presence of [monoterpenes](/nighantu/glossary/compounds-l-o/#monoterpenes) ([linalool](/nighantu/glossary/compounds-l-o/#linalool), α-terpinyl acetate, [nerol](/nighantu/glossary/compounds-l-o/#nerol) acetate), sesqueterpene esters (such as malkanguniol, malkangunin, valerenal, globulol, [viridiflorol](/nighantu/glossary/compounds-t-z/#viridiflorol), cubenol and agarofuran derivatives), diterpenoids (such as phytone, isophytol), [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids) (such as [lupeol](/nighantu/reference/lupeol/), pristimerin, paniculatadiol, zeylasteral, zeylasterone, β-amyrin, [squalene](/nighantu/glossary/compounds-q-t/#squalene)), al...
 
 **Keywords:** Celastraceae, Celastrus paniculatus, Jyotishmati, Malkangni, pharmacological activities, phytochemistry
 
@@ -129,7 +129,7 @@ CONCLUSIONS: Several ...
 
 **Standard Dosage:** 5-15 drops seed oil twice daily; 500mg-1g seed powder; 250-500mg extract; 2-4 drops Nasya oil per nostril
 
-**Bioavailability:** Celastrus paniculatus seed oil contains sesquiterpenes, polyester [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) (celapanin, celastrine), and fatty acids. Seed oil fatty acids are well absorbed. Sesquiterpene and alkaloid components show good lipophilic absorption. Nasya (nasal) administration provides direct CNS access for nootropic effects, bypassing hepatic first-pass metabolism. Oil form has inherently good bioavailability for lipophilic actives.
+**Bioavailability:** Celastrus paniculatus seed oil contains sesquiterpenes, polyester [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) (celapanin, celastrine), and fatty acids. Seed oil fatty acids are well absorbed. Sesquiterpene and alkaloid components show good lipophilic absorption. Nasya (nasal) administration provides direct CNS access for nootropic effects, bypassing hepatic first-pass metabolism. Oil form has inherently good bioavailability for lipophilic actives.
 
 **Optimal Timing:** Morning on empty stomach with warm water/milk for cognitive effects; Nasya in early morning; gradual dose escalation over 2-3 weeks
 
@@ -150,8 +150,8 @@ CONCLUSIONS: Several ...
 
 ### Synergistic Combinations
 
-- With [Brahmi](/ayurveda-atlas/herb/brahmi/) for cognitive enhancement and memory
-- With [Shankhpushpi](/ayurveda-atlas/herb/shankhpushpi/) for mental clarity
-- With [Jatamansi](/ayurveda-atlas/herb/jatamansi/) for [anxiolytic](/ayurveda-atlas/reference/anxiolytic/) and nootropic synergy
-- With [Vacha](/ayurveda-atlas/herb/vacha/) for speech and memory disorders
-- With [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) for neuroprotection
+- With [Brahmi](/nighantu/herb/brahmi/) for cognitive enhancement and memory
+- With [Shankhpushpi](/nighantu/herb/shankhpushpi/) for mental clarity
+- With [Jatamansi](/nighantu/herb/jatamansi/) for [anxiolytic](/nighantu/reference/anxiolytic/) and nootropic synergy
+- With [Vacha](/nighantu/herb/vacha/) for speech and memory disorders
+- With [Ashwagandha](/nighantu/herb/ashwagandha/) for neuroprotection

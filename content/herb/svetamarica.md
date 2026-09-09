@@ -47,11 +47,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Svetamarica/meta-an
 
 **Dosage Forms:** Churna (powder), Vati (tablet), Capsule, Essential oil, Oleoresin
 
-**Standard Dosage:** 500 mg - 2 g powder per day; 250-500 mg extract capsule twice daily; primarily used as bioenhancer at 5-20 mg [piperine](/ayurveda-atlas/reference/piperine/) per dose
+**Standard Dosage:** 500 mg - 2 g powder per day; 250-500 mg extract capsule twice daily; primarily used as bioenhancer at 5-20 mg [piperine](/nighantu/reference/piperine/) per dose
 
-**Bioavailability:** Piperine has excellent oral bioavailability (>90%) and is itself one of the most studied bioavailability enhancers in pharmacology. Piperine inhibits CYP3A4, CYP2D6, CYP1A2, and P-glycoprotein, thereby increasing bioavailability of co-administered compounds by 30-200%. White pepper (Svetamarica) has identical piperine content to [black pepper](/ayurveda-atlas/herb/black-pepper/) but lacks the outer pericarp (and its associated compounds like [chavicine](/ayurveda-atlas/glossary/compounds-c-d/#chavicine)).
+**Bioavailability:** Piperine has excellent oral bioavailability (>90%) and is itself one of the most studied bioavailability enhancers in pharmacology. Piperine inhibits CYP3A4, CYP2D6, CYP1A2, and P-glycoprotein, thereby increasing bioavailability of co-administered compounds by 30-200%. White pepper (Svetamarica) has identical piperine content to [black pepper](/nighantu/herb/black-pepper/) but lacks the outer pericarp (and its associated compounds like [chavicine](/nighantu/glossary/compounds-c-d/#chavicine)).
 
-**Optimal Timing:** With meals (reduces GI irritation); co-administer simultaneously with target compound for bioenhancement; [Trikatu](/ayurveda-atlas/herb/trikatu/) traditionally taken before meals for Deepana-Pachana (digestive enhancement)
+**Optimal Timing:** With meals (reduces GI irritation); co-administer simultaneously with target compound for bioenhancement; [Trikatu](/nighantu/herb/trikatu/) traditionally taken before meals for Deepana-Pachana (digestive enhancement)
 
 **Standardized Extract:** Piperine extract (BioPerine equivalent): NLT 95% piperine by HPLC. White pepper oleoresin: NLT 40% piperine. Essential oil: standardized to monoterpene and sesquiterpene profile by GC-MS.
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Svetamarica/meta-an
 
 **Storage:** Below 25 deg C in airtight containers. Piperine is light-sensitive — use amber or opaque packaging. Essential oil in amber glass with nitrogen headspace. RH <55%.
 
-**Marker Compounds:** Piperine, [Piperyline](/ayurveda-atlas/glossary/compounds-o-q/#piperyline), [Piperanine](/ayurveda-atlas/glossary/compounds-o-q/#piperanine), [Piperettine](/ayurveda-atlas/glossary/compounds-o-q/#piperettine), Beta-caryophyllene (essential oil), [Limonene](/ayurveda-atlas/glossary/compounds-g-l/#limonene) (essential oil), [Sabinene](/ayurveda-atlas/glossary/compounds-q-t/#sabinene)
+**Marker Compounds:** Piperine, [Piperyline](/nighantu/glossary/compounds-o-q/#piperyline), [Piperanine](/nighantu/glossary/compounds-o-q/#piperanine), [Piperettine](/nighantu/glossary/compounds-o-q/#piperettine), Beta-caryophyllene (essential oil), [Limonene](/nighantu/glossary/compounds-g-l/#limonene) (essential oil), [Sabinene](/nighantu/glossary/compounds-q-t/#sabinene)
 
 ### Extraction Methods
 
@@ -71,8 +71,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Svetamarica/meta-an
 
 ### Synergistic Combinations
 
-- Virtually ALL Ayurvedic herbs ([Trikatu](/ayurveda-atlas/herb/trikatu/) component — universal bioenhancer)
-- [Curcumin](/ayurveda-atlas/herb/curcumin/)/[Haridra](/ayurveda-atlas/herb/haridra/) (20x bioavailability enhancement — most studied combination)
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) (enhanced withanolide absorption)
-- Boswellia/[Shallaki](/ayurveda-atlas/herb/shallaki/) (enhanced boswellic acid absorption)
-- CoQ10, [Resveratrol](/ayurveda-atlas/glossary/compounds-q-t/#resveratrolresveratrol), EGCG (nutraceutical bioenhancement)
+- Virtually ALL Ayurvedic herbs ([Trikatu](/nighantu/herb/trikatu/) component — universal bioenhancer)
+- [Curcumin](/nighantu/herb/curcumin/)/[Haridra](/nighantu/herb/haridra/) (20x bioavailability enhancement — most studied combination)
+- [Ashwagandha](/nighantu/herb/ashwagandha/) (enhanced withanolide absorption)
+- Boswellia/[Shallaki](/nighantu/herb/shallaki/) (enhanced boswellic acid absorption)
+- CoQ10, [Resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol), EGCG (nutraceutical bioenhancement)

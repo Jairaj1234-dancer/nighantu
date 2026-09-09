@@ -59,11 +59,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sitopalasav/meta-analysis.md"
 
 **Storage:** Store at room temperature (15-30 deg C) in glass or SS316L containers. Earthen pots traditional. Keep away from direct sunlight. Do not refrigerate (may cause precipitation). Container should be well-sealed but not airtight (allow minimal gas exchange for maturation).
 
-**Marker Compounds:** [Piperine](/ayurveda-atlas/reference/piperine/) (from [Pippali](/ayurveda-atlas/herb/pippali/)), Ethanol (self-generated, 5-12%), Organic acids (lactic, acetic — fermentation products), Total phenolics, Reducing sugars
+**Marker Compounds:** [Piperine](/nighantu/reference/piperine/) (from [Pippali](/nighantu/herb/pippali/)), Ethanol (self-generated, 5-12%), Organic acids (lactic, acetic — fermentation products), Total phenolics, Reducing sugars
 
 ### Extraction Methods
 
-- Traditional Sandhana Kalpana (fermentation): macerate herbs in water with jaggery/sugar; add [Dhataki](/ayurveda-atlas/herb/dhataki/) pushpa (Woodfordia fruticosa flowers) as fermenting agent; ferment in earthen/steel vessel for 30-90 days
+- Traditional Sandhana Kalpana (fermentation): macerate herbs in water with jaggery/sugar; add [Dhataki](/nighantu/herb/dhataki/) pushpa (Woodfordia fruticosa flowers) as fermenting agent; ferment in earthen/steel vessel for 30-90 days
 - No modern extraction alternative — fermentation IS the extraction process
 
 ### Synergistic Combinations

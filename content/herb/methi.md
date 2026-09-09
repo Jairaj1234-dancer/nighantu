@@ -27,11 +27,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Methi/meta-analysis.md"
 
 ## How does it work?
 
-- 4-Hydroxyisoleucine (4-OHIle): Non-protein amino acid that increases [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose)-induced insulin release in a glucose-concentration-dependent manner; stimulates glucose uptake by increasing surface GLUT4 via PI3K-dependent pathway in skeletal muscle.
+- 4-Hydroxyisoleucine (4-OHIle): Non-protein amino acid that increases [glucose](/nighantu/glossary/compounds-d-g/#glucose)-induced insulin release in a glucose-concentration-dependent manner; stimulates glucose uptake by increasing surface GLUT4 via PI3K-dependent pathway in skeletal muscle.
 - 4-OHIle anti-inflammatory: Ameliorates fatty acid-induced insulin resistance and inflammatory response in skeletal muscle cells.
-- [Diosgenin](/ayurveda-atlas/glossary/compounds-d-g/#diosgenin): Steroidal saponin serving as pharmaceutical precursor; inhibits aberrant crypt foci formation and induces apoptosis in colon cancer cells; anti-hypercholesterolemic and anti-inflammatory effects.
-- [Trigonelline](/ayurveda-atlas/glossary/compounds-t-z/#trigonelline): Alkaloid contributing to [antidiabetic](/ayurveda-atlas/reference/antidiabetic/) properties through multiple pathways.
-- Soluble fiber ([galactomannan](/ayurveda-atlas/glossary/compounds-d-g/#galactomannan)): High fiber content slows gastric emptying and glucose absorption, contributing to glycemic control.
+- [Diosgenin](/nighantu/glossary/compounds-d-g/#diosgenin): Steroidal saponin serving as pharmaceutical precursor; inhibits aberrant crypt foci formation and induces apoptosis in colon cancer cells; anti-hypercholesterolemic and anti-inflammatory effects.
+- [Trigonelline](/nighantu/glossary/compounds-t-z/#trigonelline): Alkaloid contributing to [antidiabetic](/nighantu/reference/antidiabetic/) properties through multiple pathways.
+- Soluble fiber ([galactomannan](/nighantu/glossary/compounds-d-g/#galactomannan)): High fiber content slows gastric emptying and glucose absorption, contributing to glycemic control.
 - Multi-tissue targeting: Pancreas (insulin secretion), skeletal muscle (glucose uptake via GLUT4), liver (gluconeogenesis reduction), adipose tissue (lipid metabolism), and gut (glucose absorption) are all modulated.
 - Hormonal modulation: Influences testosterone levels and reproductive hormones, relevant to PCOS and testosterone deficiency applications.
 
@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Methi/meta-analysis.md"
 **Journal:** Molecular nutrition & food research (2017)
 **PMID:** 28266134
 
-> Plant-derived natural products have long-standing utility toward treating degenerative diseases. It is estimated that about two-thirds of world population depend on traditional medicine for primary medical needs. Fenugreek (Trigonella foenum-graecum Linn.), a short-living annual medicinal plant belonging to [Fabaceae](/ayurveda-atlas/reference/fabaceae/) family, is used extensively in various parts of the world as herb, food, spice, and traditional medicine. Fenugreek is considered as one of the oldest medicinal plants and its health-promoting effects have been cited in Ayurveda and traditional Chinese medicine. The investigations into the chemical composition and pharmacological actions have seen a renaissance in recent years. Extensive preclinical and clinical research have outlined the pharmaceutical uses of fenugreek as ant...
+> Plant-derived natural products have long-standing utility toward treating degenerative diseases. It is estimated that about two-thirds of world population depend on traditional medicine for primary medical needs. Fenugreek (Trigonella foenum-graecum Linn.), a short-living annual medicinal plant belonging to [Fabaceae](/nighantu/reference/fabaceae/) family, is used extensively in various parts of the world as herb, food, spice, and traditional medicine. Fenugreek is considered as one of the oldest medicinal plants and its health-promoting effects have been cited in Ayurveda and traditional Chinese medicine. The investigations into the chemical composition and pharmacological actions have seen a renaissance in recent years. Extensive preclinical and clinical research have outlined the pharmaceutical uses of fenugreek as ant...
 
 **Keywords:** Cancer, Diabetes, Health benefits, Phytochemicals, Trigonella foenum-graecum
 
@@ -77,7 +77,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Methi/meta-analysis.md"
 **Journal:** Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association (2016)
 **PMID:** 27498339
 
-> Fenugreek (Trigonella foenum graecum), used as traditional medicine and natural additive food, has been shown to exert significant antiatherogenic, antidiabetic, antianorexic, [antioxidant](/ayurveda-atlas/reference/antioxidant/), anticarcinogenic, antihyperlipidemic, galactogogue and anti-inflammatory effects in several human and animal models. Besides, several medicinal pharmaceutical and nutraceutical properties, fenugreek have toxic effects as well. The aim of this review is discuss the cumulative evidence, which suggests that consumption of fenugreek induced some serious toxicological side effects. In this review, many teratogenic effects of fenugreek, from congenital malformations to death, were reported in human, rodent, rabbit, and chick. Moreover, results obtained in rats, mice and rabbits show a testicular toxicity and a...
+> Fenugreek (Trigonella foenum graecum), used as traditional medicine and natural additive food, has been shown to exert significant antiatherogenic, antidiabetic, antianorexic, [antioxidant](/nighantu/reference/antioxidant/), anticarcinogenic, antihyperlipidemic, galactogogue and anti-inflammatory effects in several human and animal models. Besides, several medicinal pharmaceutical and nutraceutical properties, fenugreek have toxic effects as well. The aim of this review is discuss the cumulative evidence, which suggests that consumption of fenugreek induced some serious toxicological side effects. In this review, many teratogenic effects of fenugreek, from congenital malformations to death, were reported in human, rodent, rabbit, and chick. Moreover, results obtained in rats, mice and rabbits show a testicular toxicity and a...
 
 **Keywords:** Allergenicity, Anti-fertility effect, Antigenicity, Clinical toxicity, Fenugreek, Genotoxicity, LD50, Neurotoxicity, Teratogenicity, Toxicity
 
@@ -99,7 +99,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Methi/meta-analysis.md"
 
 > Fenugreek (...
 
-**Keywords:** [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids), fenugreek, pharmacological potential, phytochemicals, [saponins](/ayurveda-atlas/reference/saponins/), trigonella foenum-graecum
+**Keywords:** [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids), fenugreek, pharmacological potential, phytochemicals, [saponins](/nighantu/reference/saponins/), trigonella foenum-graecum
 
 #### 7. 4-Hydroxyisoleucine from Fenugreek (Trigonella foenum-graecum): Effects on Insulin Resistance Associated with Obesity.
 
@@ -136,7 +136,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Methi/meta-analysis.md"
 - Maple syrup odor: Characteristic odor in sweat, urine, or skin of mothers and breastfed infants -- can mimic maple syrup urine disease in neonatal screening.
 - Suspected hypokalemia reported in some cases.
 - Pregnancy contraindicated: Not recommended during pregnancy due to potential uterotonic effects. Unknown if it passes into breast milk.
-- No known severe, serious, or moderate drug interactions documented, but caution with diabetes, asthma, and [potassium](/ayurveda-atlas/glossary/compounds-o-q/#potassium)-lowering medications.
+- No known severe, serious, or moderate drug interactions documented, but caution with diabetes, asthma, and [potassium](/nighantu/glossary/compounds-o-q/#potassium)-lowering medications.
 - Hepatotoxicity: No clinically apparent liver injury cases despite widespread use; prospective studies show no effect on serum enzyme levels at therapeutic doses.
 - Case report (2025): Ribociclib-induced hepatotoxicity potentially exacerbated by concurrent fenugreek supplement use, suggesting possible CYP-mediated interactions with oncology drugs.
 - No fatalities attributed to fenugreek use in the literature.
@@ -152,7 +152,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Methi/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (seed powder), Capsules, Tablets, Decoction, Sprouted seeds, Extract (hydroalcoholic), [Mucilage](/ayurveda-atlas/glossary/compounds-l-o/#mucilage) gel, Topical paste/hair mask
+**Dosage Forms:** Churna (seed powder), Capsules, Tablets, Decoction, Sprouted seeds, Extract (hydroalcoholic), [Mucilage](/nighantu/glossary/compounds-l-o/#mucilage) gel, Topical paste/hair mask
 
 **Standard Dosage:** 5-30 g seed powder per day (diabetes management); 500-1000 mg standardized extract twice daily; 5-10 g soaked/sprouted seeds daily
 
@@ -166,7 +166,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Methi/meta-analysis.md"
 
 **Storage:** Whole seeds in cool, dry conditions at room temperature. Ground powder in airtight containers below 25 deg C. Extract capsules in blister packs with desiccant. Mucilage gel refrigerated at 2-8 deg C after opening.
 
-**Marker Compounds:** 4-Hydroxyisoleucine, Diosgenin, Trigonelline, Galactomannan, Sotolon, [Yamogenin](/ayurveda-atlas/glossary/compounds-t-z/#yamogenin), Gitogenin, [Protodioscin](/ayurveda-atlas/glossary/compounds-o-q/#protodioscin)
+**Marker Compounds:** 4-Hydroxyisoleucine, Diosgenin, Trigonelline, Galactomannan, Sotolon, [Yamogenin](/nighantu/glossary/compounds-t-z/#yamogenin), Gitogenin, [Protodioscin](/nighantu/glossary/compounds-o-q/#protodioscin)
 
 ### Extraction Methods
 
@@ -179,9 +179,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Methi/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Karela](/ayurveda-atlas/herb/karela/)/[Bitter gourd](/ayurveda-atlas/herb/bitter-gourd/) (anti-diabetic synergy)
-- [Gudmar](/ayurveda-atlas/herb/gudmar/)/Gymnema (blood sugar management)
-- [Jamun](/ayurveda-atlas/herb/jamun/) (anti-diabetic combination)
+- [Karela](/nighantu/herb/karela/)/[Bitter gourd](/nighantu/herb/bitter-gourd/) (anti-diabetic synergy)
+- [Gudmar](/nighantu/herb/gudmar/)/Gymnema (blood sugar management)
+- [Jamun](/nighantu/herb/jamun/) (anti-diabetic combination)
 - Shunthi (digestive and metabolic)
-- [Haridra](/ayurveda-atlas/herb/haridra/) (anti-inflammatory and metabolic syndrome)
-- [Dalchini](/ayurveda-atlas/herb/twak-cinnamon/)/Cinnamon (insulin sensitization)
+- [Haridra](/nighantu/herb/haridra/) (anti-inflammatory and metabolic syndrome)
+- [Dalchini](/nighantu/herb/twak-cinnamon/)/Cinnamon (insulin sensitization)

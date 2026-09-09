@@ -59,18 +59,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Dadrughna/meta-analysis.md"
 
 **Storage:** Cool, dry place away from direct sunlight. Topical preparations stored below 30 deg C. Fresh paste to be used within 24 hours of preparation.
 
-**Marker Compounds:** Total phenolics (gallic acid equivalents), [Flavonoids](/ayurveda-atlas/reference/flavonoids/), [Anthraquinones](/ayurveda-atlas/glossary/compounds-1-a/#anthraquinones) (where applicable)
+**Marker Compounds:** Total phenolics (gallic acid equivalents), [Flavonoids](/nighantu/reference/flavonoids/), [Anthraquinones](/nighantu/glossary/compounds-1-a/#anthraquinones) (where applicable)
 
 ### Extraction Methods
 
 - Cold-pressed juice of fresh plant
 - Aqueous paste (Kalka) preparation
-- [Sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)-based Taila Paka (traditional oil processing)
+- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)-based Taila Paka (traditional oil processing)
 - Hydroalcoholic extraction (70:30)
 
 ### Synergistic Combinations
 
-- With [Karanja](/ayurveda-atlas/herb/karanja/) (Pongamia) oil for enhanced antifungal action
-- With [Haridra](/ayurveda-atlas/herb/haridra/) ([turmeric](/ayurveda-atlas/herb/turmeric/)) for anti-inflammatory and [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) synergy
-- With [Nimba](/ayurveda-atlas/herb/nimba/) ([neem](/ayurveda-atlas/herb/neem/)) for broad-spectrum dermatological use
-- With [Chakramarda](/ayurveda-atlas/herb/chakramarda/) (Cassia tora) for ringworm treatment
+- With [Karanja](/nighantu/herb/karanja/) (Pongamia) oil for enhanced antifungal action
+- With [Haridra](/nighantu/herb/haridra/) ([turmeric](/nighantu/herb/turmeric/)) for anti-inflammatory and [antimicrobial](/nighantu/reference/antimicrobial/) synergy
+- With [Nimba](/nighantu/herb/nimba/) ([neem](/nighantu/herb/neem/)) for broad-spectrum dermatological use
+- With [Chakramarda](/nighantu/herb/chakramarda/) (Cassia tora) for ringworm treatment

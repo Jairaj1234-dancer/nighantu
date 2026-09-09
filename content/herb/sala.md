@@ -28,38 +28,38 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Sala/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Bergenin](/ayurveda-atlas/glossary/compounds-a-c/#bergenin)
+- [Bergenin](/nighantu/glossary/compounds-a-c/#bergenin)
 - Ursolic acid
-- [Lupeol](/ayurveda-atlas/reference/lupeol/)
+- [Lupeol](/nighantu/reference/lupeol/)
 - Beta-caryophyllene
 - Alpha-amyrin
 - Beta-amyrin
 - Caryophyllene oxide
-- Amyrins (pentacyclic [triterpenoids](/ayurveda-atlas/glossary/compounds-t-z/#triterpenoids))
+- Amyrins (pentacyclic [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids))
 - Ashoresinol
-- Hopeaphenol ([resveratrol](/ayurveda-atlas/glossary/compounds-q-t/#resveratrolresveratrol) tetramer)
+- Hopeaphenol ([resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol) tetramer)
 - Shoreaphenol
-- [Stearic acid](/ayurveda-atlas/glossary/compounds-q-t/#stearic-acidstearic-acid) (seed oil)
+- [Stearic acid](/nighantu/glossary/compounds-q-t/#stearic-acidstearic-acid) (seed oil)
 
 ## How does it work?
 
 - Anti-inflammatory action via triterpenoid-mediated inhibition of NF-kB and reduction of pro-inflammatory cytokines (TNF-alpha, IL-6)
 - Wound healing through bergenin-mediated stimulation of collagen synthesis, fibroblast proliferation and angiogenesis
-- [Antidiabetic](/ayurveda-atlas/reference/antidiabetic/) activity via alpha-amylase/alpha-glucosidase inhibition and enhancement of GLUT4 translocation by ursolic acid
-- [Immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) effects through modulation of macrophage activation and cytokine balance
+- [Antidiabetic](/nighantu/reference/antidiabetic/) activity via alpha-amylase/alpha-glucosidase inhibition and enhancement of GLUT4 translocation by ursolic acid
+- [Immunomodulatory](/nighantu/reference/immunomodulatory/) effects through modulation of macrophage activation and cytokine balance
 
 ## Which traditional uses are supported by research?
 
 - Wound healing use validated through excision wound models with significantly accelerated closure and improved histological markers
 - Anti-inflammatory activity confirmed in carrageenan-induced paw edema and cotton pellet granuloma models
-- [Antipyretic](/ayurveda-atlas/reference/antipyretic/) activity confirmed in Brewer's yeast-induced fever model in rodents
+- [Antipyretic](/nighantu/reference/antipyretic/) activity confirmed in Brewer's yeast-induced fever model in rodents
 - Antibacterial properties validated against common wound pathogens including S. aureus and E. coli
 
 ## What do recent clinical trials show?
 
-- **Ecological, Cultural and Medicinal Values of Sal (Shorea robusta): A Multifaceted Native Tree of India** (2024): Documented 52 phytochemical compounds from various plant parts and confirmed anti-inflammatory, anti-obesity, immunomodulatory, [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) and wound healing activities through modern pharmacological studies.
-- **Sal (Shorea robusta) seed oil: A sustainable alternative for cocoa butter and edible oil** (2025): Sal seed oil characterized as a rich source of stearic and oleic acids with significant [antioxidant](/ayurveda-atlas/reference/antioxidant/) properties, validating its potential as a functional food ingredient and pharmaceutical excipient.
-- **A Review Update on Shorea robusta Gaertn f. (Sal)** (2023): Resin (rala) and bark extracts showed potent [analgesic](/ayurveda-atlas/reference/analgesic/), antipyretic, [anticancer](/ayurveda-atlas/reference/anticancer/), anticonvulsant and antidiabetic activities; bergenin identified as principal [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) compound.
+- **Ecological, Cultural and Medicinal Values of Sal (Shorea robusta): A Multifaceted Native Tree of India** (2024): Documented 52 phytochemical compounds from various plant parts and confirmed anti-inflammatory, anti-obesity, immunomodulatory, [antimicrobial](/nighantu/reference/antimicrobial/) and wound healing activities through modern pharmacological studies.
+- **Sal (Shorea robusta) seed oil: A sustainable alternative for cocoa butter and edible oil** (2025): Sal seed oil characterized as a rich source of stearic and oleic acids with significant [antioxidant](/nighantu/reference/antioxidant/) properties, validating its potential as a functional food ingredient and pharmaceutical excipient.
+- **A Review Update on Shorea robusta Gaertn f. (Sal)** (2023): Resin (rala) and bark extracts showed potent [analgesic](/nighantu/reference/analgesic/), antipyretic, [anticancer](/nighantu/reference/anticancer/), anticonvulsant and antidiabetic activities; bergenin identified as principal [hepatoprotective](/nighantu/reference/hepatoprotective/) compound.
 
 ## Recent safety updates
 
@@ -99,11 +99,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Sala/meta-analysis.md"
 - Aqueous decoction of bark
 - Resin collection by tapping (Sal resin/Ral)
 - Soxhlet extraction with ethyl acetate for triterpenoid enrichment
-- Cold maceration in [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)
+- Cold maceration in [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)
 
 ### Synergistic Combinations
 
-- [Lodhra](/ayurveda-atlas/herb/lodhra/) (astringent synergy for gynecological conditions)
-- [Ashoka](/ayurveda-atlas/herb/ashoka/) (uterine tonic formulations)
-- [Arjuna](/ayurveda-atlas/herb/arjuna/) (wound healing combinations)
-- [Shallaki](/ayurveda-atlas/herb/shallaki/) (anti-inflammatory and bone-support formulations)
+- [Lodhra](/nighantu/herb/lodhra/) (astringent synergy for gynecological conditions)
+- [Ashoka](/nighantu/herb/ashoka/) (uterine tonic formulations)
+- [Arjuna](/nighantu/herb/arjuna/) (wound healing combinations)
+- [Shallaki](/nighantu/herb/shallaki/) (anti-inflammatory and bone-support formulations)

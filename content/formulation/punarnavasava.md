@@ -27,19 +27,19 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Punarna
 
 ## Key Ingredients
 
-- [Punarnava](/ayurveda-atlas/herb/punarnava/) (Boerhavia diffusa)
-- [Gokshura](/ayurveda-atlas/herb/gokshura/) (Tribulus terrestris)
-- [Pippali](/ayurveda-atlas/herb/pippali/) (Piper longum)
-- Shunthi ([Zingiber](/ayurveda-atlas/herb/zingiber/) officinale)
+- [Punarnava](/nighantu/herb/punarnava/) (Boerhavia diffusa)
+- [Gokshura](/nighantu/herb/gokshura/) (Tribulus terrestris)
+- [Pippali](/nighantu/herb/pippali/) (Piper longum)
+- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale)
 - Maricha (Piper nigrum)
-- Darvi/[Daruharidra](/ayurveda-atlas/herb/daruharidra/) (Berberis aristata)
-- [Triphala](/ayurveda-atlas/herb/triphala/) ([Haritaki](/ayurveda-atlas/herb/haritaki/), [Bibhitaki](/ayurveda-atlas/herb/bibhitaki/), Amalaki)
-- [Vasaka](/ayurveda-atlas/herb/vasaka/) (Adhatoda vasica)
+- Darvi/[Daruharidra](/nighantu/herb/daruharidra/) (Berberis aristata)
+- [Triphala](/nighantu/herb/triphala/) ([Haritaki](/nighantu/herb/haritaki/), [Bibhitaki](/nighantu/herb/bibhitaki/), Amalaki)
+- [Vasaka](/nighantu/herb/vasaka/) (Adhatoda vasica)
 - Musta (Cyperus rotundus)
-- [Vidanga](/ayurveda-atlas/herb/vidanga/) (Embelia ribes)
-- [Kantakari](/ayurveda-atlas/herb/kantakari/) (Solanum xanthocarpum)
-- [Patola](/ayurveda-atlas/herb/patola/) (Trichosanthes dioica)
-- [Dhataki](/ayurveda-atlas/herb/dhataki/) pushpa (Woodfordia fruticosa)
+- [Vidanga](/nighantu/herb/vidanga/) (Embelia ribes)
+- [Kantakari](/nighantu/herb/kantakari/) (Solanum xanthocarpum)
+- [Patola](/nighantu/herb/patola/) (Trichosanthes dioica)
+- [Dhataki](/nighantu/herb/dhataki/) pushpa (Woodfordia fruticosa)
 
 ## Where is it described in the classical texts?
 
@@ -47,10 +47,10 @@ Charaka Samhita and Bhaishajya Ratnavali (circa 400-200 BCE origin). The Arishta
 
 ## How does it work?
 
-- [Diuretic](/ayurveda-atlas/reference/diuretic/) action of [Punarnava](/ayurveda-atlas/herb/punarnava/) and [Gokshura](/ayurveda-atlas/herb/gokshura/) promotes fluid excretion, reducing edema and ascites
-- [Hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) activity through boeravinones (from [Punarnava](/ayurveda-atlas/herb/punarnava/)) and chebulinic acid promotes liver cell regeneration
+- [Diuretic](/nighantu/reference/diuretic/) action of [Punarnava](/nighantu/herb/punarnava/) and [Gokshura](/nighantu/herb/gokshura/) promotes fluid excretion, reducing edema and ascites
+- [Hepatoprotective](/nighantu/reference/hepatoprotective/) activity through boeravinones (from [Punarnava](/nighantu/herb/punarnava/)) and chebulinic acid promotes liver cell regeneration
 - Nephroprotective action supports kidney function and reduces fluid retention in chronic kidney disease
-- Anti-inflammatory synergy from Musta, Amalaki, and [Vidanga](/ayurveda-atlas/herb/vidanga/) provides hepatoprotective and immune support
+- Anti-inflammatory synergy from Musta, Amalaki, and [Vidanga](/nighantu/herb/vidanga/) provides hepatoprotective and immune support
 
 ## Which traditional uses are supported by research?
 
@@ -68,7 +68,7 @@ Charaka Samhita and Bhaishajya Ratnavali (circa 400-200 BCE origin). The Arishta
 ## Recent safety updates
 
 - Contains 5-10% self-generated alcohol. Generally safe at standard dosage. May cause excessive urination at higher doses; maintain adequate hydration.
-- Patients on diuretic or [antihypertensive](/ayurveda-atlas/glossary/pharmacology/#antihypertensive) medications should use with medical supervision due to additive diuretic effects. Not recommended in severe hepatic or renal failure without physician guidance.
+- Patients on diuretic or [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive) medications should use with medical supervision due to additive diuretic effects. Not recommended in severe hepatic or renal failure without physician guidance.
 
 ## What is it made of?
 
@@ -101,4 +101,4 @@ Charaka Samhita and Bhaishajya Ratnavali (circa 400-200 BCE origin). The Arishta
 
 ### Synergistic Combinations
 
-- Key herbs: [Punarnava](/ayurveda-atlas/herb/punarnava/) (Boerhavia diffusa), [Dhataki](/ayurveda-atlas/herb/dhataki/), [Guda](/ayurveda-atlas/glossary/concepts-a-m/#guda); fermentation creates unique metabolite profile with enhanced therapeutic activity
+- Key herbs: [Punarnava](/nighantu/herb/punarnava/) (Boerhavia diffusa), [Dhataki](/nighantu/herb/dhataki/), [Guda](/nighantu/glossary/concepts-a-m/#guda); fermentation creates unique metabolite profile with enhanced therapeutic activity

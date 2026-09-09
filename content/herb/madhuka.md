@@ -32,25 +32,25 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Madhuka/meta-analysis.md
 - Mowrin (saponin)
 - Beta-amyrin
 - Alpha-amyrin
-- Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
-- [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/)
-- [Myricetin](/ayurveda-atlas/glossary/compounds-l-o/#myricetin)
+- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- [Quercetin](/nighantu/reference/quercetinquercetin/)
+- [Myricetin](/nighantu/glossary/compounds-l-o/#myricetin)
 - Dihydroquercetin
 - Palmitic acid
 - Oleic acid
-- [Stearic acid](/ayurveda-atlas/glossary/compounds-q-t/#stearic-acidstearic-acid)
+- [Stearic acid](/nighantu/glossary/compounds-q-t/#stearic-acidstearic-acid)
 - Mahuanol (protobassic acid)
 
 ## How does it work?
 
 - Anti-inflammatory activity via triterpenoid-mediated (madhucic acid, amyrins) inhibition of COX-2 and lipoxygenase pathways
-- [Antidiabetic](/ayurveda-atlas/reference/antidiabetic/) action through saponin-mediated (mowrin) enhancement of insulin secretion and improvement of [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose) tolerance
-- [Hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) effects via flavonoid-mediated ([quercetin](/ayurveda-atlas/reference/quercetinquercetin/), myricetin) reduction of oxidative stress and restoration of liver [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes)
-- Antiurolithiatic mechanism through inhibition of crystal nucleation, aggregation and [diuretic](/ayurveda-atlas/reference/diuretic/) action
+- [Antidiabetic](/nighantu/reference/antidiabetic/) action through saponin-mediated (mowrin) enhancement of insulin secretion and improvement of [glucose](/nighantu/glossary/compounds-d-g/#glucose) tolerance
+- [Hepatoprotective](/nighantu/reference/hepatoprotective/) effects via flavonoid-mediated ([quercetin](/nighantu/reference/quercetinquercetin/), myricetin) reduction of oxidative stress and restoration of liver [enzymes](/nighantu/glossary/compounds-d-g/#enzymes)
+- Antiurolithiatic mechanism through inhibition of crystal nucleation, aggregation and [diuretic](/nighantu/reference/diuretic/) action
 
 ## Which traditional uses are supported by research?
 
-- Anti-inflammatory and [analgesic](/ayurveda-atlas/reference/analgesic/) use validated through carrageenan-induced paw edema and hot plate models
+- Anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) use validated through carrageenan-induced paw edema and hot plate models
 - Antiulcer activity confirmed in aspirin-induced and ethanol-induced gastric ulcer models
 - Oral health use validated through antibacterial activity against Streptococcus mutans
 - Skin emollient use of seed oil (mahua butter) validated through moisturizing and barrier function studies
@@ -58,13 +58,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Madhuka/meta-analysis.md
 ## What do recent clinical trials show?
 
 - **Evaluation of Antibacterial Activity of Madhuca longifolia (Mahua) Stem Extract Against Streptococcus mutans: An In Vitro Study** (2024): Madhuca longifolia stem extract demonstrated significant antibacterial activity against Streptococcus mutans, validating traditional use for oral health and dental hygiene.
-- **Madhuca indica: A Review on the Phytochemical and Pharmacological Aspects** (2023): Documented antiulcer, anti-inflammatory, [antioxidant](/ayurveda-atlas/reference/antioxidant/), antidiabetic, hepatoprotective, [anticancer](/ayurveda-atlas/reference/anticancer/), [cardioprotective](/ayurveda-atlas/reference/cardioprotective/) and [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) activities with non-toxic profile even at high doses.
+- **Madhuca indica: A Review on the Phytochemical and Pharmacological Aspects** (2023): Documented antiulcer, anti-inflammatory, [antioxidant](/nighantu/reference/antioxidant/), antidiabetic, hepatoprotective, [anticancer](/nighantu/reference/anticancer/), [cardioprotective](/nighantu/reference/cardioprotective/) and [immunomodulatory](/nighantu/reference/immunomodulatory/) activities with non-toxic profile even at high doses.
 - **Exploring the therapeutic potential of Madhuca longifolia in traditional Chinese medicine for management of kidney stones and various diseases** (2024): Bark and seed extracts showed significant antiurolithiatic potential through inhibition of calcium oxalate crystal nucleation and aggregation in in vitro and in vivo models.
 
 ## Recent safety updates
 
 - Toxicity studies reveal non-toxic effects even at larger doses in preclinical models; flower-based preparations are widely consumed by tribal communities as food
-- Mahua flowers contain natural sugars that ferment to produce alcohol; distilled mahua liquor should be consumed responsibly. Seed oil (mahua butter) is edible but may contain [saponins](/ayurveda-atlas/reference/saponins/) requiring processing.
+- Mahua flowers contain natural sugars that ferment to produce alcohol; distilled mahua liquor should be consumed responsibly. Seed oil (mahua butter) is edible but may contain [saponins](/nighantu/reference/saponins/) requiring processing.
 
 ## What is it made of?
 
@@ -77,21 +77,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Madhuka/meta-analysis.md
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Kwatha (decoction), Taila (Mahua oil), Capsules, Tablets, Avaleha (confection), Asava/Arishta, [Ghrita](/ayurveda-atlas/herb/ghrita/) (medicated ghee)
+**Dosage Forms:** Churna (powder), Kwatha (decoction), Taila (Mahua oil), Capsules, Tablets, Avaleha (confection), Asava/Arishta, [Ghrita](/nighantu/herb/ghrita/) (medicated ghee)
 
 **Standard Dosage:** 3-6 g bark/flower powder per day; 20-50 mL decoction twice daily; 5-10 mL Mahua oil externally; 500-1000 mg standardized extract daily
 
 **Bioavailability:** Saponins show moderate oral bioavailability (15-25%). Sapogenins (bassic acid) are better absorbed than glycosylated forms. Madhuca longifolia oil is rich in oleic and stearic acids with good transdermal penetration. Flower sugars enhance palatability and serve as energy source. Ethanol in Asava preparations enhances saponin absorption significantly.
 
-**Optimal Timing:** Before meals for gastric protective effects; morning for tonic and [Rasayana](/ayurveda-atlas/reference/rasayana/) effects; topical application at night for skin conditions
+**Optimal Timing:** Before meals for gastric protective effects; morning for tonic and [Rasayana](/nighantu/reference/rasayana/) effects; topical application at night for skin conditions
 
-**Standardized Extract:** Bark extract (10:1) standardized to minimum 8% total saponins (as bassic acid equivalents). Flower extract standardized to minimum 40% total sugars and 3% [flavonoids](/ayurveda-atlas/reference/flavonoids/). Mahua oil (cold-pressed) meeting IP standards for topical use.
+**Standardized Extract:** Bark extract (10:1) standardized to minimum 8% total saponins (as bassic acid equivalents). Flower extract standardized to minimum 40% total sugars and 3% [flavonoids](/nighantu/reference/flavonoids/). Mahua oil (cold-pressed) meeting IP standards for topical use.
 
 **Shelf Life:** 24 months for bark powder; 18 months for flower powder (hygroscopic); 24 months for capsules/tablets; 36 months for Mahua oil; 5+ years for Asava/Arishta
 
 **Storage:** Bark powder below 25 deg C in airtight containers. Flower powder is extremely hygroscopic - store with desiccant, RH below 40%. Mahua oil in cool, dark conditions. Asava at room temperature in glass containers.
 
-**Marker Compounds:** Mowrin (Mi-saponin), Bassic acid, Madhucic acid, [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/), Dihydroquercetin, Beta-amyrin, Oleic acid, [Stearic acid](/ayurveda-atlas/glossary/compounds-q-t/#stearic-acidstearic-acid)
+**Marker Compounds:** Mowrin (Mi-saponin), Bassic acid, Madhucic acid, [Quercetin](/nighantu/reference/quercetinquercetin/), Dihydroquercetin, Beta-amyrin, Oleic acid, [Stearic acid](/nighantu/glossary/compounds-q-t/#stearic-acidstearic-acid)
 
 ### Extraction Methods
 
@@ -104,8 +104,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Madhuka/meta-analysis.md
 
 ### Synergistic Combinations
 
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) (gastroprotective synergy)
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) (hepatoprotective combination)
-- [Vidari](/ayurveda-atlas/herb/vidari/) ([galactagogue](/ayurveda-atlas/glossary/pharmacology/#galactagogue) combination)
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) (nutritive Rasayana)
-- [Arjuna](/ayurveda-atlas/herb/arjuna/) (cardiotonic with anti-lipidemic effect)
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (gastroprotective synergy)
+- [Guduchi](/nighantu/herb/guduchi/) (hepatoprotective combination)
+- [Vidari](/nighantu/herb/vidari/) ([galactagogue](/nighantu/glossary/pharmacology/#galactagogue) combination)
+- [Shatavari](/nighantu/herb/shatavari/) (nutritive Rasayana)
+- [Arjuna](/nighantu/herb/arjuna/) (cardiotonic with anti-lipidemic effect)

@@ -33,14 +33,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Indravaruni/meta-analysis.md"
 - Cucurbitacin I
 - Colocynthoside A and B
 - Colocynthin (glycoside)
-- [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/)
-- [Isovitexin](/ayurveda-atlas/glossary/compounds-g-l/#isovitexin)
+- [Quercetin](/nighantu/reference/quercetinquercetin/)
+- [Isovitexin](/nighantu/glossary/compounds-g-l/#isovitexin)
 - Caffeic acid
 
 ## How does it work?
 
-- [Antidiabetic](/ayurveda-atlas/reference/antidiabetic/): [Cucurbitacins](/ayurveda-atlas/glossary/compounds-c-d/#cucurbitacins) and [flavonoids](/ayurveda-atlas/reference/flavonoids/) stimulate insulin secretion, enhance [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose) uptake in peripheral tissues, and inhibit alpha-glucosidase
-- [Anticancer](/ayurveda-atlas/reference/anticancer/): Cucurbitacin B and E inhibit STAT3 and JAK2/STAT3 signaling, induce G2/M cell cycle arrest, and activate caspase-mediated apoptosis
+- [Antidiabetic](/nighantu/reference/antidiabetic/): [Cucurbitacins](/nighantu/glossary/compounds-c-d/#cucurbitacins) and [flavonoids](/nighantu/reference/flavonoids/) stimulate insulin secretion, enhance [glucose](/nighantu/glossary/compounds-d-g/#glucose) uptake in peripheral tissues, and inhibit alpha-glucosidase
+- [Anticancer](/nighantu/reference/anticancer/): Cucurbitacin B and E inhibit STAT3 and JAK2/STAT3 signaling, induce G2/M cell cycle arrest, and activate caspase-mediated apoptosis
 - Purgative: Colocynthin glycoside stimulates colonic motility through irritation of intestinal mucosa
 
 ## Which traditional uses are supported by research?
@@ -51,13 +51,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Indravaruni/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Citrullus colocynthis (L.) Schrad: A Promising Pharmaceutical Resource for Multiple Diseases** (2023): Comprehensive review of biological activities particularly in antidiabetic, anticancer, anti-inflammatory, [antioxidant](/ayurveda-atlas/reference/antioxidant/), insecticidal, and antibacterial applications.
+- **Citrullus colocynthis (L.) Schrad: A Promising Pharmaceutical Resource for Multiple Diseases** (2023): Comprehensive review of biological activities particularly in antidiabetic, anticancer, anti-inflammatory, [antioxidant](/nighantu/reference/antioxidant/), insecticidal, and antibacterial applications.
 - **Citrullus colocynthis (Bitter Apple Fruit): Promising Traditional Uses, Pharmacological Effects, and Potential Applications** (2022): Documented broad spectrum therapeutic properties; identified cucurbitacins as principal bioactive agents with significant anticancer mechanism through STAT3 and JAK inhibition.
 - **Colocynth Induced Multiorgan Toxicity: A Case Report** (2025): Case report documenting multiorgan dysfunction (hepatorenal, gastrointestinal) from high-dose colocynth ingestion, emphasizing need for dose-controlled use.
 
 ## Recent safety updates
 
-- UNSAFE when taken by mouth in uncontrolled doses; cucurbitacins cause severe GI irritation, bloody diarrhea, kidney damage; banned by US FDA in 1991 for OTC [laxative](/ayurveda-atlas/reference/laxative/) use
+- UNSAFE when taken by mouth in uncontrolled doses; cucurbitacins cause severe GI irritation, bloody diarrhea, kidney damage; banned by US FDA in 1991 for OTC [laxative](/nighantu/reference/laxative/) use
 - High doses can cause multiorgan toxicity (hepatorenal failure, electrolyte disturbance, hypoglycemia); must only be used in processed Ayurvedic preparations (Shodhita) under strict practitioner supervision
 
 ## What is it made of?
@@ -75,7 +75,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Indravaruni/meta-analysis.md"
 
 **Standard Dosage:** 1-3g fruit powder (use with caution due to purgative action); 250-500mg extract; external oil as directed
 
-**Bioavailability:** Citrullus colocynthis contains cucurbitacins (potent cytotoxic [triterpenoids](/ayurveda-atlas/glossary/compounds-t-z/#triterpenoids)) with good oral absorption due to lipophilicity. Colocynthin glycoside is hydrolyzed in GI tract to active aglycone. Narrow therapeutic index; precise dosing is critical. Bioavailability enhancement is not typically sought given potency and toxicity concerns.
+**Bioavailability:** Citrullus colocynthis contains cucurbitacins (potent cytotoxic [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids)) with good oral absorption due to lipophilicity. Colocynthin glycoside is hydrolyzed in GI tract to active aglycone. Narrow therapeutic index; precise dosing is critical. Bioavailability enhancement is not typically sought given potency and toxicity concerns.
 
 **Optimal Timing:** Under physician supervision only; typically at bedtime for purgative action; externally as needed for joint pain
 
@@ -96,6 +96,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Indravaruni/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Eranda](/ayurveda-atlas/herb/eranda/) (castor oil) for purgative formulations
-- With [Haridra](/ayurveda-atlas/herb/haridra/) to modulate inflammation
-- With [Triphala](/ayurveda-atlas/herb/triphala/) for regulated bowel cleansing
+- With [Eranda](/nighantu/herb/eranda/) (castor oil) for purgative formulations
+- With [Haridra](/nighantu/herb/haridra/) to modulate inflammation
+- With [Triphala](/nighantu/herb/triphala/) for regulated bowel cleansing

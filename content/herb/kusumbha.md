@@ -55,11 +55,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kusumbha/meta-analysis.md"
 
 **Standardized Extract:** Flower extract standardized to minimum 2% HSYA and 1% carthamin by HPLC; seed oil standardized to minimum 70% linoleic acid (high-linoleic variety) or 70% oleic acid (high-oleic variety)
 
-**Shelf Life:** 12 months for safflower oil (polyunsaturated — oxidation-prone); 18 months for flower powder; 24 months for capsules; 6 months for fresh oil without [antioxidant](/ayurveda-atlas/reference/antioxidant/)
+**Shelf Life:** 12 months for safflower oil (polyunsaturated — oxidation-prone); 18 months for flower powder; 24 months for capsules; 6 months for fresh oil without [antioxidant](/nighantu/reference/antioxidant/)
 
 **Storage:** Safflower oil in dark glass bottles, refrigerated (2-8°C) after opening. Flower powder in airtight, light-protected containers at 15-25°C. Nitrogen-flushed packaging extends oil stability.
 
-**Marker Compounds:** Hydroxysafflor yellow A (HSYA), Carthamin, Carthamidin, Safflor yellow B, Linoleic acid, Oleic acid, [Serotonin](/ayurveda-atlas/glossary/compounds-q-t/#serotonin) derivatives, N-feruloyl serotonin
+**Marker Compounds:** Hydroxysafflor yellow A (HSYA), Carthamin, Carthamidin, Safflor yellow B, Linoleic acid, Oleic acid, [Serotonin](/nighantu/glossary/compounds-q-t/#serotonin) derivatives, N-feruloyl serotonin
 
 ### Extraction Methods
 
@@ -71,8 +71,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kusumbha/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Haridra](/ayurveda-atlas/herb/haridra/) ([Turmeric](/ayurveda-atlas/herb/turmeric/)) for anti-inflammatory synergy
-- Kumkuma ([Saffron](/ayurveda-atlas/herb/saffron/)) for [cardioprotective](/ayurveda-atlas/reference/cardioprotective/) and emmenagogue combination
-- [Arjuna](/ayurveda-atlas/herb/arjuna/) for cardiovascular support
-- [Guggulu](/ayurveda-atlas/formulation/guggulu/) for [hypolipidemic](/ayurveda-atlas/glossary/pharmacology/#hypolipidemic) formulations
-- [Methi](/ayurveda-atlas/herb/methi/) for metabolic syndrome management
+- [Haridra](/nighantu/herb/haridra/) ([Turmeric](/nighantu/herb/turmeric/)) for anti-inflammatory synergy
+- Kumkuma ([Saffron](/nighantu/herb/saffron/)) for [cardioprotective](/nighantu/reference/cardioprotective/) and emmenagogue combination
+- [Arjuna](/nighantu/herb/arjuna/) for cardiovascular support
+- [Guggulu](/nighantu/formulation/guggulu/) for [hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic) formulations
+- [Methi](/nighantu/herb/methi/) for metabolic syndrome management

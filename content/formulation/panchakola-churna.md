@@ -23,15 +23,15 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Panchakola-Churna
 
 | Language | Name |
 |----------|------|
-| English | [Panchakola Churna](/ayurveda-atlas/formulation/panchakola-churna/) |
+| English | [Panchakola Churna](/nighantu/formulation/panchakola-churna/) |
 
 ## Key Ingredients
 
-- [Pippali](/ayurveda-atlas/herb/pippali/) (Piper longum) fruit
+- [Pippali](/nighantu/herb/pippali/) (Piper longum) fruit
 - Pippalimula (Piper longum) root
-- [Chavya](/ayurveda-atlas/herb/chavya/) (Piper chaba/retrofractum)
+- [Chavya](/nighantu/herb/chavya/) (Piper chaba/retrofractum)
 - Chitraka (Plumbago zeylanica) root
-- Shunthi/Nagara ([Zingiber](/ayurveda-atlas/herb/zingiber/) officinale) rhizome
+- Shunthi/Nagara ([Zingiber](/nighantu/herb/zingiber/) officinale) rhizome
 
 ## Where is it described in the classical texts?
 
@@ -39,25 +39,25 @@ Sushruta Samhita and Ashtanga Hridayam (as a group - Panchakola Gana); elaborate
 
 ## How does it work?
 
-- Digestive enzyme stimulation: [Piperine](/ayurveda-atlas/reference/piperine/) from [Pippali](/ayurveda-atlas/herb/pippali/) and [Chavya](/ayurveda-atlas/herb/chavya/) enhances secretion of digestive [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes) (lipase, amylase, trypsin) and stimulates gastric acid production
+- Digestive enzyme stimulation: [Piperine](/nighantu/reference/piperine/) from [Pippali](/nighantu/herb/pippali/) and [Chavya](/nighantu/herb/chavya/) enhances secretion of digestive [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) (lipase, amylase, trypsin) and stimulates gastric acid production
 - Bioavailability enhancement (Yogavahi): Piperine enhances bioavailability of co-administered compounds by up to 30% through P-glycoprotein modulation and glucuronidation inhibition
 - Agni kindling (Deepana): Hot potency (Ushna Virya) and pungent taste (Katu Rasa) of all five ingredients collectively kindle digestive fire (Jatharagni) and correct Mandagni (weak digestive fire)
-- [Antimicrobial](/ayurveda-atlas/reference/antimicrobial/) action in gut: [Plumbagin](/ayurveda-atlas/glossary/compounds-o-q/#plumbagin) from Chitraka provides antimicrobial and anti-inflammatory action in gut mucosa, maintaining healthy intestinal environment
+- [Antimicrobial](/nighantu/reference/antimicrobial/) action in gut: [Plumbagin](/nighantu/glossary/compounds-o-q/#plumbagin) from Chitraka provides antimicrobial and anti-inflammatory action in gut mucosa, maintaining healthy intestinal environment
 - Srota clearing: Hot potency clears blockages in digestive channels (Annavaha Srotas), gently purgates Ama, and improves nutrient absorption
 
 ## Which traditional uses are supported by research?
 
 - Digestive fire stimulation (Agni Deepana) validated through pilot trial showing improved gastric motility and reduced flatulence
-- Fat digestion enhancement validated through in vitro studies showing significant lipase activation by [Chavya](/ayurveda-atlas/herb/chavya/) and [Pippali](/ayurveda-atlas/herb/pippali/) extracts
+- Fat digestion enhancement validated through in vitro studies showing significant lipase activation by [Chavya](/nighantu/herb/chavya/) and [Pippali](/nighantu/herb/pippali/) extracts
 - Bioavailability enhancement validated through piperine's demonstrated ability to increase absorption of co-administered compounds
 - Ama Pachana (toxin digestion) validated through the combined digestive enzyme stimulation and antimicrobial gut-cleansing mechanisms
 
 ## What do recent clinical trials show?
 
-- **Randomized pilot trial on [Panchakola Churna](/ayurveda-atlas/formulation/panchakola-churna/) for gastric motility and flatulence** (2021): Banaras Hindu University pilot trial showed improved gastric motility and reduced flatulence scores in participants using the powder for seven days.
-- **In vitro lipase activation by [Chavya](/ayurveda-atlas/herb/chavya/) and [Pippali](/ayurveda-atlas/herb/pippali/) extracts** (2019): In vitro assays indicated significant lipase activation by [Chavya](/ayurveda-atlas/herb/chavya/) and [Pippali](/ayurveda-atlas/herb/pippali/) extracts, supporting fat-digestive claims; piperine enhanced bioavailability of co-administered herbal compounds by up to 30%.
+- **Randomized pilot trial on [Panchakola Churna](/nighantu/formulation/panchakola-churna/) for gastric motility and flatulence** (2021): Banaras Hindu University pilot trial showed improved gastric motility and reduced flatulence scores in participants using the powder for seven days.
+- **In vitro lipase activation by [Chavya](/nighantu/herb/chavya/) and [Pippali](/nighantu/herb/pippali/) extracts** (2019): In vitro assays indicated significant lipase activation by [Chavya](/nighantu/herb/chavya/) and [Pippali](/nighantu/herb/pippali/) extracts, supporting fat-digestive claims; piperine enhanced bioavailability of co-administered herbal compounds by up to 30%.
 - **Toxicological evaluation of Panchakola Avaleha, an Ayurvedic classical formulation, in albino rats** (2013): Toxicological evaluation in albino rats showed safety profile within acceptable limits, supporting traditional use at recommended doses.
-- **Antimicrobial screening of [Panchakola Churna](/ayurveda-atlas/formulation/panchakola-churna/)** (2019): Formulation showed strongest inhibitory activity against E. coli (76.49%), minimal inhibition against P. aeruginosa (28.43%), and no inhibition against B. subtilis.
+- **Antimicrobial screening of [Panchakola Churna](/nighantu/formulation/panchakola-churna/)** (2019): Formulation showed strongest inhibitory activity against E. coli (76.49%), minimal inhibition against P. aeruginosa (28.43%), and no inhibition against B. subtilis.
 
 ## Recent safety updates
 
@@ -87,7 +87,7 @@ Sushruta Samhita and Ashtanga Hridayam (as a group - Panchakola Gana); elaborate
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
-**Marker Compounds:** Piperine, [Gingerol](/ayurveda-atlas/glossary/compounds-d-g/#gingerol), Plumbagin
+**Marker Compounds:** Piperine, [Gingerol](/nighantu/glossary/compounds-d-g/#gingerol), Plumbagin
 
 **Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Piperine, Gingerol, Plumbagin
 

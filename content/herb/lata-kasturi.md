@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Lata-Kasturi/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Lata [Kasturi](/ayurveda-atlas/herb/kasturi/)|Lata Kasturi |
+| English | Lata [Kasturi](/nighantu/herb/kasturi/)|Lata Kasturi |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -53,13 +53,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Lata-Kasturi/meta-analysis.md"
 
 **Optimal Timing:** Morning for internal use as adaptogen; evening for aromatherapy and relaxation; topical use as needed
 
-**Standardized Extract:** Supercritical CO2 extract standardized to minimum 8% ambrettolide. Seed powder standardized to minimum 0.2% essential oil content. Hydroalcoholic extract (8:1) with minimum 1.5% total [flavonoids](/ayurveda-atlas/reference/flavonoids/).
+**Standardized Extract:** Supercritical CO2 extract standardized to minimum 8% ambrettolide. Seed powder standardized to minimum 0.2% essential oil content. Hydroalcoholic extract (8:1) with minimum 1.5% total [flavonoids](/nighantu/reference/flavonoids/).
 
 **Shelf Life:** 24 months for seed powder; 36 months for essential oil in sealed amber vials; 18 months for capsules; 24 months for medicated oils
 
 **Storage:** Store essential oil in amber glass bottles at 15-25 deg C, tightly sealed. Seed powder in airtight containers below 25 deg C, protected from moisture. Medicated oils in cool, dark conditions.
 
-**Marker Compounds:** Ambrettolide, Farnesol, Farnesyl acetate, Decyl acetate, [Myricetin](/ayurveda-atlas/glossary/compounds-l-o/#myricetin), [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/)-3-glucoside
+**Marker Compounds:** Ambrettolide, Farnesol, Farnesyl acetate, Decyl acetate, [Myricetin](/nighantu/glossary/compounds-l-o/#myricetin), [Quercetin](/nighantu/reference/quercetinquercetin/)-3-glucoside
 
 ### Extraction Methods
 
@@ -71,7 +71,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Lata-Kasturi/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Jatamansi](/ayurveda-atlas/herb/jatamansi/) (nervine and aromatic synergy)
-- [Chandana](/ayurveda-atlas/herb/chandana/)/Sandalwood (aromatic and cooling combination)
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) ([adaptogenic](/ayurveda-atlas/reference/adaptogenic/) and [aphrodisiac](/ayurveda-atlas/glossary/pharmacology/#aphrodisiac) synergy)
-- Kumkuma/[Saffron](/ayurveda-atlas/herb/saffron/) (luxury [Rasayana](/ayurveda-atlas/reference/rasayana/) formulation)
+- [Jatamansi](/nighantu/herb/jatamansi/) (nervine and aromatic synergy)
+- [Chandana](/nighantu/herb/chandana/)/Sandalwood (aromatic and cooling combination)
+- [Ashwagandha](/nighantu/herb/ashwagandha/) ([adaptogenic](/nighantu/reference/adaptogenic/) and [aphrodisiac](/nighantu/glossary/pharmacology/#aphrodisiac) synergy)
+- Kumkuma/[Saffron](/nighantu/herb/saffron/) (luxury [Rasayana](/nighantu/reference/rasayana/) formulation)

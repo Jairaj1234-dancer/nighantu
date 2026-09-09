@@ -28,33 +28,33 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rasona-Garlic/meta-analysis.m
 
 ## Key Phytochemical Constituents
 
-- [Allicin](/ayurveda-atlas/glossary/compounds-1-a/#allicin) (diallyl thiosulfinate)
-- [Alliin](/ayurveda-atlas/glossary/compounds-1-a/#alliin) (S-allylcysteine sulfoxide)
+- [Allicin](/nighantu/glossary/compounds-1-a/#allicin) (diallyl thiosulfinate)
+- [Alliin](/nighantu/glossary/compounds-1-a/#alliin) (S-allylcysteine sulfoxide)
 - Diallyl disulfide (DADS)
 - Diallyl trisulfide (DATS)
-- [Ajoene](/ayurveda-atlas/glossary/compounds-1-a/#ajoene) (E-ajoene, Z-ajoene)
+- [Ajoene](/nighantu/glossary/compounds-1-a/#ajoene) (E-ajoene, Z-ajoene)
 - S-allylcysteine (SAC)
 - Vinyldithiins
-- [Selenium](/ayurveda-atlas/glossary/compounds-q-t/#selenium)
-- [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/)
-- [Saponins](/ayurveda-atlas/reference/saponins/)
+- [Selenium](/nighantu/glossary/compounds-q-t/#selenium)
+- [Quercetin](/nighantu/reference/quercetinquercetin/)
+- [Saponins](/nighantu/reference/saponins/)
 
 ## How does it work?
 
 - Allicin inhibits HMG-CoA reductase and fatty acid synthase, reducing hepatic cholesterol and triglyceride synthesis; also inhibits platelet aggregation through thromboxane A2 pathway suppression
 - Diallyl disulfide (DADS) and diallyl trisulfide (DATS) induce cancer cell apoptosis through increased ROS generation, histone acetylation modulation, and cell cycle arrest at G2/M phase
-- S-allylcysteine (SAC) provides [neuroprotective](/ayurveda-atlas/reference/neuroprotective/) effects by scavenging peroxynitrite radicals, inhibiting beta-amyloid aggregation, and enhancing endogenous [antioxidant](/ayurveda-atlas/reference/antioxidant/) enzyme expression in brain tissue
+- S-allylcysteine (SAC) provides [neuroprotective](/nighantu/reference/neuroprotective/) effects by scavenging peroxynitrite radicals, inhibiting beta-amyloid aggregation, and enhancing endogenous [antioxidant](/nighantu/reference/antioxidant/) enzyme expression in brain tissue
 
 ## Which traditional uses are supported by research?
 
-- Cardiovascular protection (Hridya) validated through extensive clinical evidence showing reduction of blood pressure, serum cholesterol, and platelet aggregation, confirming traditional [Rasayana](/ayurveda-atlas/reference/rasayana/) use
-- [Antimicrobial](/ayurveda-atlas/reference/antimicrobial/) activity validated against broad spectrum of bacteria, fungi, viruses, and parasites, supporting traditional use for Krimighna (antimicrobial) applications in Ayurveda
+- Cardiovascular protection (Hridya) validated through extensive clinical evidence showing reduction of blood pressure, serum cholesterol, and platelet aggregation, confirming traditional [Rasayana](/nighantu/reference/rasayana/) use
+- [Antimicrobial](/nighantu/reference/antimicrobial/) activity validated against broad spectrum of bacteria, fungi, viruses, and parasites, supporting traditional use for Krimighna (antimicrobial) applications in Ayurveda
 - Immunostimulant properties confirmed through clinical and preclinical studies, supporting traditional use as Rasayana (rejuvenating/immune-boosting) herb
 
 ## What do recent clinical trials show?
 
 - **Garlic bioactive substances and their therapeutic applications for improving human health: a comprehensive review** (2024): Comprehensive review documenting allicin's role in cardiovascular protection, antioxidant effects through NADPH oxidase inhibition, and direct ROS scavenging within cells.
-- **Traditional uses, phytochemistry, pharmacology and toxicology of garlic (Allium sativum): A review of research from the last decade** (2022): Decade-long research review establishing antioxidant, hypoglycemic, anti-inflammatory, antihyperlipidemic, [anticancer](/ayurveda-atlas/reference/anticancer/), antimicrobial, [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/), and immunostimulant activities.
+- **Traditional uses, phytochemistry, pharmacology and toxicology of garlic (Allium sativum): A review of research from the last decade** (2022): Decade-long research review establishing antioxidant, hypoglycemic, anti-inflammatory, antihyperlipidemic, [anticancer](/nighantu/reference/anticancer/), antimicrobial, [hepatoprotective](/nighantu/reference/hepatoprotective/), and immunostimulant activities.
 - **Valorization of garlic (Allium sativum L.) byproducts: Bioactive compounds, biological properties, and applications** (2025): Garlic byproducts (leaves, stems, outer skin) contain significant bioactive compounds with antioxidant and antimicrobial properties, supporting waste-to-value applications.
 
 ## Recent safety updates
@@ -101,9 +101,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rasona-Garlic/meta-analysis.m
 
 ### Synergistic Combinations
 
-- [Pippali](/ayurveda-atlas/herb/pippali/) ([Trikatu](/ayurveda-atlas/herb/trikatu/) combination with enhanced bioavailability)
-- [Palandu](/ayurveda-atlas/herb/palandu/)/Onion (allium synergy for cardiovascular health)
-- [Arjuna](/ayurveda-atlas/herb/arjuna/) ([cardioprotective](/ayurveda-atlas/reference/cardioprotective/) combination)
-- [Guggulu](/ayurveda-atlas/formulation/guggulu/) (lipid-lowering synergy)
-- [Haridra](/ayurveda-atlas/herb/haridra/) (anti-inflammatory and antimicrobial)
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) (immune modulation)
+- [Pippali](/nighantu/herb/pippali/) ([Trikatu](/nighantu/herb/trikatu/) combination with enhanced bioavailability)
+- [Palandu](/nighantu/herb/palandu/)/Onion (allium synergy for cardiovascular health)
+- [Arjuna](/nighantu/herb/arjuna/) ([cardioprotective](/nighantu/reference/cardioprotective/) combination)
+- [Guggulu](/nighantu/formulation/guggulu/) (lipid-lowering synergy)
+- [Haridra](/nighantu/herb/haridra/) (anti-inflammatory and antimicrobial)
+- [Guduchi](/nighantu/herb/guduchi/) (immune modulation)

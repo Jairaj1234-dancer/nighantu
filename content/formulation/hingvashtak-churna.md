@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Hingvashtak-Churn
 
 | Language | Name |
 |----------|------|
-| English | [Hingvashtak Churna](/ayurveda-atlas/formulation/hingvashtak-churna/) |
+| English | [Hingvashtak Churna](/nighantu/formulation/hingvashtak-churna/) |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Hingvashtak-Churn
 
 **Standard Dosage:** 1-3 g twice daily with first morsel of food or before meals, as per AFI Part I
 
-**Bioavailability:** One of the most effective Agni-deepana formulations. [Piperine](/ayurveda-atlas/reference/piperine/) enhances bioavailability of all co-ingredients. [Cumin](/ayurveda-atlas/herb/cumin/) volatile oils stimulate gastric secretion within minutes. [Hingu](/ayurveda-atlas/herb/hingu/) (asafoetida) volatile oils are rapidly absorbed providing immediate carminative effect. Classical instruction to take with first morsel ensures mixing with food for optimal digestive action.
+**Bioavailability:** One of the most effective Agni-deepana formulations. [Piperine](/nighantu/reference/piperine/) enhances bioavailability of all co-ingredients. [Cumin](/nighantu/herb/cumin/) volatile oils stimulate gastric secretion within minutes. [Hingu](/nighantu/herb/hingu/) (asafoetida) volatile oils are rapidly absorbed providing immediate carminative effect. Classical instruction to take with first morsel ensures mixing with food for optimal digestive action.
 
 **Optimal Timing:** Immediately before meals or with first morsel of food (unique classical instruction)
 
@@ -57,15 +57,15 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Hingvashtak-Churn
 
 **Storage:** Store in airtight containers in a cool, dry place. Strong aromatic — sealed packaging essential. Temperature not exceeding 30°C. Use desiccant (salt component is hygroscopic).
 
-**Marker Compounds:** Piperine, 6-[Gingerol](/ayurveda-atlas/glossary/compounds-d-g/#gingerol), [Cuminaldehyde](/ayurveda-atlas/glossary/compounds-c-d/#cuminaldehyde), Ferulic acid, [Thymol](/ayurveda-atlas/glossary/compounds-t-z/#thymol) (from [Ajmoda](/ayurveda-atlas/herb/ajmoda/))
+**Marker Compounds:** Piperine, 6-[Gingerol](/nighantu/glossary/compounds-d-g/#gingerol), [Cuminaldehyde](/nighantu/glossary/compounds-c-d/#cuminaldehyde), Ferulic acid, [Thymol](/nighantu/glossary/compounds-t-z/#thymol) (from [Ajmoda](/nighantu/herb/ajmoda/))
 
-**Quality Parameters:** Loss on drying (<8%), total ash, acid-insoluble ash, particle size (pass sieve #85), piperine content by HPLC, cuminaldehyde content, ferulic acid from [Hingu](/ayurveda-atlas/herb/hingu/), volatile oil content (NLT 0.5%), HPTLC fingerprint, microbial limits, heavy metals
+**Quality Parameters:** Loss on drying (<8%), total ash, acid-insoluble ash, particle size (pass sieve #85), piperine content by HPLC, cuminaldehyde content, ferulic acid from [Hingu](/nighantu/herb/hingu/), volatile oil content (NLT 0.5%), HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** With first morsel of food, or with warm water/buttermilk before meals
 
 ### Synergistic Combinations
 
-- [Chitrakadi Vati](/ayurveda-atlas/formulation/chitrakadi-vati/)
-- [Agnitundi Vati](/ayurveda-atlas/formulation/agnitundi-vati/)
+- [Chitrakadi Vati](/nighantu/formulation/chitrakadi-vati/)
+- [Agnitundi Vati](/nighantu/formulation/agnitundi-vati/)
 - Lavanbhaskar Churna
-- [Shankha Vati](/ayurveda-atlas/glossary/concepts-m-y/#shankha-vati)
+- [Shankha Vati](/nighantu/glossary/concepts-m-y/#shankha-vati)

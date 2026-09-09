@@ -23,38 +23,38 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dadima-Twak/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | [Dadima](/ayurveda-atlas/herb/dadima/) Twak |
+| English | [Dadima](/nighantu/herb/dadima/) Twak |
 | Latin/Botanical | *Punica granatum L. (fruit rind/pericarp)* |
 
 ## Key Phytochemical Constituents
 
-- [Punicalagin](/ayurveda-atlas/glossary/compounds-o-q/#punicalagin)
-- [Punicalin](/ayurveda-atlas/glossary/compounds-o-q/#punicalin)
+- [Punicalagin](/nighantu/glossary/compounds-o-q/#punicalagin)
+- [Punicalin](/nighantu/glossary/compounds-o-q/#punicalin)
 - Ellagic acid
 - Gallic acid
 - Pelletierine
 - Isopelletierine
-- [Catechin](/ayurveda-atlas/reference/catechin/)
-- [Epicatechin](/ayurveda-atlas/glossary/compounds-d-g/#epicatechin)
-- [Corilagin](/ayurveda-atlas/glossary/compounds-c-d/#corilagin)
+- [Catechin](/nighantu/reference/catechin/)
+- [Epicatechin](/nighantu/glossary/compounds-d-g/#epicatechin)
+- [Corilagin](/nighantu/glossary/compounds-c-d/#corilagin)
 - Tannic acid
 
 ## How does it work?
 
 - Punicalagin and ellagic acid are hydrolyzed by gut microbiota to urolithins (A, B, C, D), which exert anti-inflammatory effects by inhibiting NF-kB and MAPK signaling pathways
-- Pelletierine and isopelletierine [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) exhibit anthelmintic activity by paralyzing tapeworm musculature through nicotinic receptor agonism, validated since antiquity
-- Gallic acid and [catechins](/ayurveda-atlas/glossary/compounds-c-d/#catechins) provide [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) activity through disruption of bacterial cell membrane integrity and inhibition of biofilm formation by chelating metal ions essential for bacterial adhesion
+- Pelletierine and isopelletierine [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) exhibit anthelmintic activity by paralyzing tapeworm musculature through nicotinic receptor agonism, validated since antiquity
+- Gallic acid and [catechins](/nighantu/glossary/compounds-c-d/#catechins) provide [antimicrobial](/nighantu/reference/antimicrobial/) activity through disruption of bacterial cell membrane integrity and inhibition of biofilm formation by chelating metal ions essential for bacterial adhesion
 
 ## Which traditional uses are supported by research?
 
-- Anthelmintic activity (against tapeworms) validated through identification of pelletierine alkaloids in rind, confirming traditional Ayurvedic use of [Dadima](/ayurveda-atlas/herb/dadima/) Twak for Krimi (intestinal parasites)
+- Anthelmintic activity (against tapeworms) validated through identification of pelletierine alkaloids in rind, confirming traditional Ayurvedic use of [Dadima](/nighantu/herb/dadima/) Twak for Krimi (intestinal parasites)
 - Antidiarrhoeal properties validated through tannin-mediated astringent effects on intestinal mucosa, supporting traditional use for Atisara (diarrhea) and Pravahika (dysentery)
 - Antimicrobial activity against oral pathogens and gastrointestinal bacteria confirmed, supporting traditional use of pomegranate rind decoction for Mukha Roga (oral diseases)
 
 ## What do recent clinical trials show?
 
-- **Update on the Potential of Punica granatum L. Traditional Uses and Pharmacological Uses: A Review** (2024): Comprehensive review documenting that pomegranate peel contains the highest concentration of bioactive polyphenolic compounds among all plant parts, with demonstrated anti-inflammatory, [cardioprotective](/ayurveda-atlas/reference/cardioprotective/), [anticancer](/ayurveda-atlas/reference/anticancer/), and antimicrobial properties.
-- **Phytochemical profile, nutritional composition of pomegranate peel and peel extract as a potential source of nutraceutical** (2024): Pomegranate peel extract showed significant [antioxidant](/ayurveda-atlas/reference/antioxidant/) capacity with highest concentrations of phenolic acids, [anthocyanins](/ayurveda-atlas/glossary/compounds-1-a/#anthocyanins), and [flavonoids](/ayurveda-atlas/reference/flavonoids/), positioning it as a nutraceutical ingredient.
+- **Update on the Potential of Punica granatum L. Traditional Uses and Pharmacological Uses: A Review** (2024): Comprehensive review documenting that pomegranate peel contains the highest concentration of bioactive polyphenolic compounds among all plant parts, with demonstrated anti-inflammatory, [cardioprotective](/nighantu/reference/cardioprotective/), [anticancer](/nighantu/reference/anticancer/), and antimicrobial properties.
+- **Phytochemical profile, nutritional composition of pomegranate peel and peel extract as a potential source of nutraceutical** (2024): Pomegranate peel extract showed significant [antioxidant](/nighantu/reference/antioxidant/) capacity with highest concentrations of phenolic acids, [anthocyanins](/nighantu/glossary/compounds-1-a/#anthocyanins), and [flavonoids](/nighantu/reference/flavonoids/), positioning it as a nutraceutical ingredient.
 - **Clinical evaluation of pomegranate extract (Grantria) standardized to ellagic acid, punicic acid and punicalagin** (2024): Randomized placebo-controlled study with 300 mg/day for 60 days significantly reduced wrinkles and improved skin radiance in healthy adults with good safety profile.
 
 ## Recent safety updates
@@ -87,7 +87,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dadima-Twak/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction twice daily; 500mg tablet/capsule twice daily
 
-**Bioavailability:** Punicalagins and [ellagitannins](/ayurveda-atlas/glossary/compounds-d-g/#ellagitannins) from pomegranate rind undergo hydrolysis in the gut to release ellagic acid, which is further metabolized by gut microbiota to urolithins (A, B). Bioavailability of parent [tannins](/ayurveda-atlas/reference/tannins/) is low (<1%); urolithin production varies with individual microbiome composition. Enhancement strategies: co-administration with [Pippali](/ayurveda-atlas/herb/pippali/) (Piper longum) or [black pepper](/ayurveda-atlas/herb/black-pepper/) to slow gut transit and increase tannin exposure; nano-encapsulation of ellagic acid improves systemic availability 3-6 fold; SNEDDS formulations show promise for lipophilic urolithin delivery.
+**Bioavailability:** Punicalagins and [ellagitannins](/nighantu/glossary/compounds-d-g/#ellagitannins) from pomegranate rind undergo hydrolysis in the gut to release ellagic acid, which is further metabolized by gut microbiota to urolithins (A, B). Bioavailability of parent [tannins](/nighantu/reference/tannins/) is low (<1%); urolithin production varies with individual microbiome composition. Enhancement strategies: co-administration with [Pippali](/nighantu/herb/pippali/) (Piper longum) or [black pepper](/nighantu/herb/black-pepper/) to slow gut transit and increase tannin exposure; nano-encapsulation of ellagic acid improves systemic availability 3-6 fold; SNEDDS formulations show promise for lipophilic urolithin delivery.
 
 **Optimal Timing:** Before meals with warm water; for anthelmintic use, on an empty stomach in the morning
 
@@ -110,5 +110,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dadima-Twak/meta-analysis.md"
 
 - With Kutaja (Holarrhena) for antidiarrheal synergy
 - With Musta (Cyperus rotundus) for GI astringent action
-- With [Haritaki](/ayurveda-atlas/herb/haritaki/) for comprehensive anthelmintic effect
-- With Sunthi ([ginger](/ayurveda-atlas/herb/ginger/)) to balance astringent-induced constipation
+- With [Haritaki](/nighantu/herb/haritaki/) for comprehensive anthelmintic effect
+- With Sunthi ([ginger](/nighantu/herb/ginger/)) to balance astringent-induced constipation

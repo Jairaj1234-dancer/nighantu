@@ -23,33 +23,33 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Pushyanuga-Churna
 
 | Language | Name |
 |----------|------|
-| English | [Pushyanuga Churna](/ayurveda-atlas/formulation/pushyanuga-churna/) |
+| English | [Pushyanuga Churna](/nighantu/formulation/pushyanuga-churna/) |
 
 ## Key Ingredients
 
-- [Patha](/ayurveda-atlas/herb/patha/) (Cissampelos pareira)
-- [Jambu](/ayurveda-atlas/herb/jambu/) Phalmajja (Syzygium cumini seed)
-- [Amra](/ayurveda-atlas/herb/amra/) Phalmajja (Mangifera indica seed)
+- [Patha](/nighantu/herb/patha/) (Cissampelos pareira)
+- [Jambu](/nighantu/herb/jambu/) Phalmajja (Syzygium cumini seed)
+- [Amra](/nighantu/herb/amra/) Phalmajja (Mangifera indica seed)
 - Pashanbheda (Bergenia ligulata)
 - Rasanjana (Berberis aristata extract)
-- [Lodhra](/ayurveda-atlas/herb/lodhra/) (Symplocos racemosa)
+- [Lodhra](/nighantu/herb/lodhra/) (Symplocos racemosa)
 - Mocharasa (Salmalia malabarica)
 - Manjishta (Rubia cordifolia)
-- [Kamala](/ayurveda-atlas/herb/kamala/) Keshar (Nelumbo nucifera)
+- [Kamala](/nighantu/herb/kamala/) Keshar (Nelumbo nucifera)
 - Ativisha (Aconitum heterophyllum)
-- [Nagarmotha](/ayurveda-atlas/herb/nagarmotha/) (Cyperus rotundus)
+- [Nagarmotha](/nighantu/herb/nagarmotha/) (Cyperus rotundus)
 - Maricha (Piper nigrum)
-- Shunthi ([Zingiber](/ayurveda-atlas/herb/zingiber/) officinale)
-- [Arjuna](/ayurveda-atlas/herb/arjuna/) Twak (Terminalia [arjuna](/ayurveda-atlas/herb/arjuna/) bark)
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) (Glycyrrhiza glabra)
+- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale)
+- [Arjuna](/nighantu/herb/arjuna/) Twak (Terminalia [arjuna](/nighantu/herb/arjuna/) bark)
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (Glycyrrhiza glabra)
 - Swarna Gairik (Red Ochre - Fe2O3)
-- [Dhataki](/ayurveda-atlas/herb/dhataki/) Pushpa (Woodfordia fruticosa flowers)
-- [Bilva](/ayurveda-atlas/herb/bilva/) Phalmajja (Aegle marmelos fruit pulp)
+- [Dhataki](/nighantu/herb/dhataki/) Pushpa (Woodfordia fruticosa flowers)
+- [Bilva](/nighantu/herb/bilva/) Phalmajja (Aegle marmelos fruit pulp)
 - Indrajav (Holarrhena antidysenterica seeds)
 - Anantmul (Hemidesmus indicus)
 - Shyonak Twak (Oroxylum indicum bark)
-- [Katphala](/ayurveda-atlas/herb/katphala/) (Myrica esculenta)
-- [Draksha](/ayurveda-atlas/herb/draksha/) (Vitis vinifera)
+- [Katphala](/nighantu/herb/katphala/) (Myrica esculenta)
+- [Draksha](/nighantu/herb/draksha/) (Vitis vinifera)
 
 ## Where is it described in the classical texts?
 
@@ -57,24 +57,24 @@ Charaka Samhita (Chikitsa Sthana, Chapter 30 - Yonivyapad Chikitsa); one of the 
 
 ## How does it work?
 
-- [Hemostatic](/ayurveda-atlas/glossary/pharmacology/#hemostatic) (Raktastambhaka) action: Kashaya Rasa (astringent taste) and Sheeta Veerya (cool potency) of majority ingredients constrict uterine blood vessels and strengthen endometrial tissue, reducing excessive menstrual bleeding
-- Hormonal regulation: [Lodhra](/ayurveda-atlas/herb/lodhra/) (Symplocos racemosa) triggers hypothalamic FSH and LH release, stimulating progesterone production that stabilizes the endometrium and controls dysfunctional uterine bleeding
-- [Antimicrobial](/ayurveda-atlas/reference/antimicrobial/) genitourinary defense: Rasanjana ([berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine)), [Lodhra](/ayurveda-atlas/herb/lodhra/), and multiple astringent herbs provide broad-spectrum antibacterial and antifungal activity in the female reproductive tract
-- Anti-inflammatory and wound healing: Manjishta (Rubia cordifolia) and [Arjuna](/ayurveda-atlas/herb/arjuna/) bark provide anti-inflammatory and tissue-healing action in the endometrium and reproductive tract
+- [Hemostatic](/nighantu/glossary/pharmacology/#hemostatic) (Raktastambhaka) action: Kashaya Rasa (astringent taste) and Sheeta Veerya (cool potency) of majority ingredients constrict uterine blood vessels and strengthen endometrial tissue, reducing excessive menstrual bleeding
+- Hormonal regulation: [Lodhra](/nighantu/herb/lodhra/) (Symplocos racemosa) triggers hypothalamic FSH and LH release, stimulating progesterone production that stabilizes the endometrium and controls dysfunctional uterine bleeding
+- [Antimicrobial](/nighantu/reference/antimicrobial/) genitourinary defense: Rasanjana ([berberine](/nighantu/glossary/compounds-a-c/#berberine)), [Lodhra](/nighantu/herb/lodhra/), and multiple astringent herbs provide broad-spectrum antibacterial and antifungal activity in the female reproductive tract
+- Anti-inflammatory and wound healing: Manjishta (Rubia cordifolia) and [Arjuna](/nighantu/herb/arjuna/) bark provide anti-inflammatory and tissue-healing action in the endometrium and reproductive tract
 - Pitta-Vata pacification: Cool potency and astringent/bitter tastes pacify Pitta (bleeding tendency) and Vata (pain, irregularity) in the reproductive system
 
 ## Which traditional uses are supported by research?
 
 - Menorrhagia (Raktapradara/DUB) management validated in clinical study showing highly significant (P<0.001) reduction in uterine hemorrhage with 68% good-to-fair response rate
 - Leucorrhoea (Shweta Pradara) management validated through demonstrated antimicrobial and astringent mechanisms in the female genitourinary tract
-- Hormonal balance for menstrual disorders validated through demonstrated FSH/LH/progesterone regulation by [Lodhra](/ayurveda-atlas/herb/lodhra/) extract
+- Hormonal balance for menstrual disorders validated through demonstrated FSH/LH/progesterone regulation by [Lodhra](/nighantu/herb/lodhra/) extract
 - Reproductive tract infection management validated through broad-spectrum antimicrobial activity against gynecological pathogens
 
 ## What do recent clinical trials show?
 
-- **Critical review of efficacy of Pushyanug Churna in Raktapradara (excessive menstrual bleeding)** (2024): Review confirmed astringent and hemostatic mechanisms of [Pushyanuga Churna](/ayurveda-atlas/formulation/pushyanuga-churna/) ingredients, with most components exhibiting Kashaya and Tikta Rasa, Laghu and Ruksha Guna, and Sheeta Veerya supporting hemostatic action.
+- **Critical review of efficacy of Pushyanug Churna in Raktapradara (excessive menstrual bleeding)** (2024): Review confirmed astringent and hemostatic mechanisms of [Pushyanuga Churna](/nighantu/formulation/pushyanuga-churna/) ingredients, with most components exhibiting Kashaya and Tikta Rasa, Laghu and Ruksha Guna, and Sheeta Veerya supporting hemostatic action.
 - **Clinical evaluation of Pushyanuga Choorna and Lodhrasava in Rakta Pradara (DUB)** (2007): Of 46 cases studied, 29.26% showed good response, 39.02% fair response, 21.95% poor response; treatment was highly significant (P<0.001) in reduction of uterine hemorrhage.
-- **Hormonal mechanism study: [Lodhra](/ayurveda-atlas/herb/lodhra/) (Symplocos racemosa) ethanolic extract effect on reproductive hormones** (2019): Ethanolic extract of Symplocos racemosa triggers hypothalamus to produce FSH and LH hormones, resulting in progesterone production and controlling bleeding through hormonal regulation.
+- **Hormonal mechanism study: [Lodhra](/nighantu/herb/lodhra/) (Symplocos racemosa) ethanolic extract effect on reproductive hormones** (2019): Ethanolic extract of Symplocos racemosa triggers hypothalamus to produce FSH and LH hormones, resulting in progesterone production and controlling bleeding through hormonal regulation.
 - **Antimicrobial screening of Pushyanug Churna against gynecological pathogens** (2018): Formulation demonstrated effectiveness against S. epidermidis, P. vulgaris, S. aureus, E. coli, P. aeruginosa, and S. typhi, plus antifungal activities relevant to female genitourinary infections.
 
 ## Recent safety updates
@@ -105,7 +105,7 @@ Charaka Samhita (Chikitsa Sthana, Chapter 30 - Yonivyapad Chikitsa); one of the 
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
-**Marker Compounds:** [Loturine](/ayurveda-atlas/glossary/compounds-l-o/#loturine), [Cyperene](/ayurveda-atlas/glossary/compounds-c-d/#cyperene), Atisin
+**Marker Compounds:** [Loturine](/nighantu/glossary/compounds-l-o/#loturine), [Cyperene](/nighantu/glossary/compounds-c-d/#cyperene), Atisin
 
 **Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Loturine, Cyperene, Atisin
 

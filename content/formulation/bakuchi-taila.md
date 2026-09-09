@@ -23,26 +23,26 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Bakuchi-Tai
 
 | Language | Name |
 |----------|------|
-| English | [Bakuchi](/ayurveda-atlas/herb/bakuchi/) Taila |
+| English | [Bakuchi](/nighantu/herb/bakuchi/) Taila |
 
 ## Key Ingredients
 
-- [Bakuchi](/ayurveda-atlas/herb/bakuchi/) (Psoralea corylifolia / Babchi) seeds - primary ingredient
-- [Psoralen](/ayurveda-atlas/glossary/compounds-o-q/#psoralen) - key active compound
-- [Isopsoralen](/ayurveda-atlas/glossary/compounds-g-l/#isopsoralen) (Angelicin)
+- [Bakuchi](/nighantu/herb/bakuchi/) (Psoralea corylifolia / Babchi) seeds - primary ingredient
+- [Psoralen](/nighantu/glossary/compounds-o-q/#psoralen) - key active compound
+- [Isopsoralen](/nighantu/glossary/compounds-g-l/#isopsoralen) (Angelicin)
 - Bakuchiol - bioactive meroterpene
-- Corylin, Psoralidin, Bavachin, Bavachinin - [flavonoids](/ayurveda-atlas/reference/flavonoids/)
-- [Sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) ([Tila](/ayurveda-atlas/herb/tila/) taila) base
+- Corylin, Psoralidin, Bavachin, Bavachinin - [flavonoids](/nighantu/reference/flavonoids/)
+- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) ([Tila](/nighantu/herb/tila/) taila) base
 
 ## Where is it described in the classical texts?
 
-Charaka Samhita (Chikitsa Sthana - Kushtha Chikitsa); Sushruta Samhita; Bhaishajya Ratnavali. [Bakuchi](/ayurveda-atlas/herb/bakuchi/) is classified under Kushtaghna (anti-dermatosis) drugs. Psoralea corylifolia is mentioned as an official drug in Ayurvedic Pharmacopoeia of India under the name '[Bakuchi](/ayurveda-atlas/herb/bakuchi/)'.
+Charaka Samhita (Chikitsa Sthana - Kushtha Chikitsa); Sushruta Samhita; Bhaishajya Ratnavali. [Bakuchi](/nighantu/herb/bakuchi/) is classified under Kushtaghna (anti-dermatosis) drugs. Psoralea corylifolia is mentioned as an official drug in Ayurvedic Pharmacopoeia of India under the name '[Bakuchi](/nighantu/herb/bakuchi/)'.
 
 ## How does it work?
 
 - Psoralen intercalates into DNA of melanocytes and, upon UV exposure, crosslinks DNA strands, stimulating melanocyte proliferation and melanin production (photochemotherapy mechanism - PUVA therapy basis)
 - Bakuchiol activates melanogenesis-related genes (TYR, TYRP1, DCT) in melanocytes independent of UV exposure, providing melanin-stimulating effects even without phototherapy
-- Flavonoids (corylin, psoralidin) provide anti-inflammatory and [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) effects on depigmented skin, reducing autoimmune attack on melanocytes in vitiligo
+- Flavonoids (corylin, psoralidin) provide anti-inflammatory and [immunomodulatory](/nighantu/reference/immunomodulatory/) effects on depigmented skin, reducing autoimmune attack on melanocytes in vitiligo
 - Psoralen enhances UV sensitivity of depigmented patches, promoting selective repigmentation when combined with controlled UV-B exposure therapy
 
 ## Which traditional uses are supported by research?
@@ -53,8 +53,8 @@ Charaka Samhita (Chikitsa Sthana - Kushtha Chikitsa); Sushruta Samhita; Bhaishaj
 
 ## What do recent clinical trials show?
 
-- **Studies on the composition and standardization of [Bakuchi](/ayurveda-atlas/herb/bakuchi/) oil used in the treatment of vitiligo** (2014): TLC fingerprint identified six fluorescent secondary metabolites (psoralen, isopsoralen, corylin, psoralidin, dehydroisopsoralidin, isobavachalcone) providing a standardization framework for quality control of [Bakuchi](/ayurveda-atlas/herb/bakuchi/) oil.
-- **[Bakuchi](/ayurveda-atlas/herb/bakuchi/) extract gel in vitiligo repigmentation: randomized controlled trial** (2019): Published in Phytotherapy Research, bakuchi extract gel improved vitiligo repigmentation by 40% compared to placebo over 6 months of treatment.
+- **Studies on the composition and standardization of [Bakuchi](/nighantu/herb/bakuchi/) oil used in the treatment of vitiligo** (2014): TLC fingerprint identified six fluorescent secondary metabolites (psoralen, isopsoralen, corylin, psoralidin, dehydroisopsoralidin, isobavachalcone) providing a standardization framework for quality control of [Bakuchi](/nighantu/herb/bakuchi/) oil.
+- **[Bakuchi](/nighantu/herb/bakuchi/) extract gel in vitiligo repigmentation: randomized controlled trial** (2019): Published in Phytotherapy Research, bakuchi extract gel improved vitiligo repigmentation by 40% compared to placebo over 6 months of treatment.
 - **Evaluation of hepatotoxicity of Psoralea corylifolia based on zebrafish model** (2024): Published in Frontiers in Pharmacology, the study identified bavachin, psoralidin, bavachinin, neobavaisoflavone, and bakuchiol as the main hepatotoxic constituents, with hepatotoxicity mechanism related to effects on liver lipid metabolism and mitochondrial dysfunction.
 
 ## Recent safety updates
@@ -93,7 +93,7 @@ Charaka Samhita (Chikitsa Sthana - Kushtha Chikitsa); Sushruta Samhita; Bhaishaj
 
 ### Synergistic Combinations
 
-- [Khadira](/ayurveda-atlas/herb/khadira/) (Acacia catechu) decoction
-- [Gandhaka](/ayurveda-atlas/glossary/concepts-a-m/#gandhaka) [Rasayana](/ayurveda-atlas/reference/rasayana/) (internal)
+- [Khadira](/nighantu/herb/khadira/) (Acacia catechu) decoction
+- [Gandhaka](/nighantu/glossary/concepts-a-m/#gandhaka) [Rasayana](/nighantu/reference/rasayana/) (internal)
 - Mahamanjisthadi Kwath
 - Bakuchi Churna (internal)

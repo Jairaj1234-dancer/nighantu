@@ -23,31 +23,31 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Panchatik
 
 | Language | Name |
 |----------|------|
-| English | Panchatikta [Ghrita](/ayurveda-atlas/herb/ghrita/)|Panchatikta Ghrita Mahatiktaka [Ghrita](/ayurveda-atlas/herb/ghrita/)|Mahatiktaka Ghrita |
+| English | Panchatikta [Ghrita](/nighantu/herb/ghrita/)|Panchatikta Ghrita Mahatiktaka [Ghrita](/nighantu/herb/ghrita/)|Mahatiktaka Ghrita |
 
 ## Key Ingredients
 
-- [Nimba](/ayurveda-atlas/herb/nimba/) (Azadirachta indica / [Neem](/ayurveda-atlas/herb/neem/))
-- [Patola](/ayurveda-atlas/herb/patola/) (Trichosanthes dioica)
+- [Nimba](/nighantu/herb/nimba/) (Azadirachta indica / [Neem](/nighantu/herb/neem/))
+- [Patola](/nighantu/herb/patola/) (Trichosanthes dioica)
 - Vyaghri (Solanum surattense)
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) (Tinospora cordifolia)
-- [Vasa](/ayurveda-atlas/herb/vasa/) (Adhatoda vasica)
-- [Haridra](/ayurveda-atlas/herb/haridra/) (Curcuma longa / [Turmeric](/ayurveda-atlas/herb/turmeric/))
-- [Triphala](/ayurveda-atlas/herb/triphala/) ([Haritaki](/ayurveda-atlas/herb/haritaki/), Vibhitaki, Amalaki)
-- [Chandana](/ayurveda-atlas/herb/chandana/) (Sandalwood)
-- [Pippali](/ayurveda-atlas/herb/pippali/) (Piper longum)
-- [Ghrita](/ayurveda-atlas/herb/ghrita/) (clarified cow butter)
+- [Guduchi](/nighantu/herb/guduchi/) (Tinospora cordifolia)
+- [Vasa](/nighantu/herb/vasa/) (Adhatoda vasica)
+- [Haridra](/nighantu/herb/haridra/) (Curcuma longa / [Turmeric](/nighantu/herb/turmeric/))
+- [Triphala](/nighantu/herb/triphala/) ([Haritaki](/nighantu/herb/haritaki/), Vibhitaki, Amalaki)
+- [Chandana](/nighantu/herb/chandana/) (Sandalwood)
+- [Pippali](/nighantu/herb/pippali/) (Piper longum)
+- [Ghrita](/nighantu/herb/ghrita/) (clarified cow butter)
 
 ## Where is it described in the classical texts?
 
-Bhaishajya Ratnavali Kushta Adhikara (Panchatikta [Ghrita](/ayurveda-atlas/herb/ghrita/)|Panchatikta Ghrita); Ashtanga Hridayam (Mahatiktaka [Ghrita](/ayurveda-atlas/herb/ghrita/)|Mahatiktaka Ghrita); Charaka Samhita Chikitsa Sthana; Sushruta Samhita
+Bhaishajya Ratnavali Kushta Adhikara (Panchatikta [Ghrita](/nighantu/herb/ghrita/)|Panchatikta Ghrita); Ashtanga Hridayam (Mahatiktaka [Ghrita](/nighantu/herb/ghrita/)|Mahatiktaka Ghrita); Charaka Samhita Chikitsa Sthana; Sushruta Samhita
 
 ## How does it work?
 
 - Five bitter herbs (Panchatikta) provide potent Pitta-Rakta pacification, reducing inflammatory cascades in blood and skin
-- [Neem](/ayurveda-atlas/herb/neem/) ([nimbidin](/ayurveda-atlas/glossary/compounds-l-o/#nimbidin), [azadirachtin](/ayurveda-atlas/glossary/compounds-a-c/#azadirachtin)) delivers antibacterial, antifungal, and anti-inflammatory action targeting dermatological pathogens
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) acts as an immunomodulator, restoring balanced immune response in autoimmune skin conditions
-- [Turmeric](/ayurveda-atlas/herb/turmeric/) ([curcumin](/ayurveda-atlas/herb/curcumin/)) inhibits NF-kB pathway, reducing chronic inflammation in psoriasis and eczema
+- [Neem](/nighantu/herb/neem/) ([nimbidin](/nighantu/glossary/compounds-l-o/#nimbidin), [azadirachtin](/nighantu/glossary/compounds-a-c/#azadirachtin)) delivers antibacterial, antifungal, and anti-inflammatory action targeting dermatological pathogens
+- [Guduchi](/nighantu/herb/guduchi/) acts as an immunomodulator, restoring balanced immune response in autoimmune skin conditions
+- [Turmeric](/nighantu/herb/turmeric/) ([curcumin](/nighantu/herb/curcumin/)) inhibits NF-kB pathway, reducing chronic inflammation in psoriasis and eczema
 - Ghee base serves as Snehana (oleation) medium for Panchakarma preparatory procedures enhancing detoxification
 
 ## Which traditional uses are supported by research?
@@ -59,14 +59,14 @@ Bhaishajya Ratnavali Kushta Adhikara (Panchatikta [Ghrita](/ayurveda-atlas/herb/
 
 ## What do recent clinical trials show?
 
-- **Exploring the stability of [Mahatiktaka Ghrita](/ayurveda-atlas/glossary/concepts-a-m/#mahatiktaka-ghrita): A comprehensive study on Microbial Integrity** (2024): [Mahatiktaka Ghrita](/ayurveda-atlas/glossary/concepts-a-m/#mahatiktaka-ghrita) remained free of bacterial and fungal growth for 494 days from preparation even at 30-42 degrees C room temperature, demonstrating excellent microbial stability and shelf life
-- **Clinical Evaluation of Efficacy and Safety of Classical Ayurveda Formulations, [Panchatikta Ghrita](/ayurveda-atlas/formulation/panchatikta-ghrita/) and Nalpamaradi Taila, in the Management of Psoriasis** (2019): Multicenter trial with 120 psoriasis patients showed [Panchatikta Ghrita](/ayurveda-atlas/formulation/panchatikta-ghrita/) at 6g twice daily for 12 weeks with acceptable safety and tolerability profile
-- **Clinical study on Efficacy of [Panchatikta Ghrita](/ayurveda-atlas/formulation/panchatikta-ghrita/) and Virechana on patients of psoriasis (Eka kushtha)** (2021): Combined leech therapy and [Panchatikta Ghrita](/ayurveda-atlas/formulation/panchatikta-ghrita/) achieved 65% improvement in psoriasis management, superior to individual therapy showing 45-47% improvement
+- **Exploring the stability of [Mahatiktaka Ghrita](/nighantu/glossary/concepts-a-m/#mahatiktaka-ghrita): A comprehensive study on Microbial Integrity** (2024): [Mahatiktaka Ghrita](/nighantu/glossary/concepts-a-m/#mahatiktaka-ghrita) remained free of bacterial and fungal growth for 494 days from preparation even at 30-42 degrees C room temperature, demonstrating excellent microbial stability and shelf life
+- **Clinical Evaluation of Efficacy and Safety of Classical Ayurveda Formulations, [Panchatikta Ghrita](/nighantu/formulation/panchatikta-ghrita/) and Nalpamaradi Taila, in the Management of Psoriasis** (2019): Multicenter trial with 120 psoriasis patients showed [Panchatikta Ghrita](/nighantu/formulation/panchatikta-ghrita/) at 6g twice daily for 12 weeks with acceptable safety and tolerability profile
+- **Clinical study on Efficacy of [Panchatikta Ghrita](/nighantu/formulation/panchatikta-ghrita/) and Virechana on patients of psoriasis (Eka kushtha)** (2021): Combined leech therapy and [Panchatikta Ghrita](/nighantu/formulation/panchatikta-ghrita/) achieved 65% improvement in psoriasis management, superior to individual therapy showing 45-47% improvement
 
 ## Recent safety updates
 
 - Multicenter clinical trial confirms acceptable safety and tolerability in psoriasis patients over 12-week treatment period
-- [Mahatiktaka Ghrita](/ayurveda-atlas/glossary/concepts-a-m/#mahatiktaka-ghrita) demonstrates excellent microbial stability for over 494 days without preservatives - inherent self-preserving quality
+- [Mahatiktaka Ghrita](/nighantu/glossary/concepts-a-m/#mahatiktaka-ghrita) demonstrates excellent microbial stability for over 494 days without preservatives - inherent self-preserving quality
 - Due to bitter taste, may cause mild nausea in sensitive individuals; ghee content requires caution in hyperlipidemic and diabetic patients
 
 ## What is it made of?
@@ -92,7 +92,7 @@ Bhaishajya Ratnavali Kushta Adhikara (Panchatikta [Ghrita](/ayurveda-atlas/herb/
 
 **Storage:** Airtight glass/stainless steel container, cool dry place, protected from light and moisture
 
-**Marker Compounds:** Kutkin, [Vasicine](/ayurveda-atlas/glossary/compounds-t-z/#vasicine), [Tinosporin](/ayurveda-atlas/glossary/compounds-t-z/#tinosporin)
+**Marker Compounds:** Kutkin, [Vasicine](/nighantu/glossary/compounds-t-z/#vasicine), [Tinosporin](/nighantu/glossary/compounds-t-z/#tinosporin)
 
 **Quality Parameters:** Acid value <4, peroxide value <5 meq/kg, moisture <0.5%, rancidity test negative, marker: Kutkin, Vasicine, Tinosporin
 
@@ -100,4 +100,4 @@ Bhaishajya Ratnavali Kushta Adhikara (Panchatikta [Ghrita](/ayurveda-atlas/herb/
 
 ### Synergistic Combinations
 
-- Key herbs: 5 bitter herbs: [Nimba](/ayurveda-atlas/herb/nimba/), [Guduchi](/ayurveda-atlas/herb/guduchi/), [Vasa](/ayurveda-atlas/herb/vasa/), [Katuki](/ayurveda-atlas/herb/katuki/), [Patola](/ayurveda-atlas/herb/patola/); ghee enhances tissue penetration (yogavahi property)
+- Key herbs: 5 bitter herbs: [Nimba](/nighantu/herb/nimba/), [Guduchi](/nighantu/herb/guduchi/), [Vasa](/nighantu/herb/vasa/), [Katuki](/nighantu/herb/katuki/), [Patola](/nighantu/herb/patola/); ghee enhances tissue penetration (yogavahi property)

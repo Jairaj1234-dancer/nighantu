@@ -27,9 +27,9 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Akika-Pishti/meta-an
 
 ## How does it work?
 
-- Pitta-pacifying cooling action: [Silica](/ayurveda-atlas/glossary/compounds-q-t/#silica)-based mineral matrix provides systemic cooling effect, calming aggravated Pitta dosha in conditions of heat, inflammation, and acute irritability
-- Cardiac tonic: Trace minerals (iron, [magnesium](/ayurveda-atlas/glossary/compounds-l-o/#magnesium), calcium) in the agate matrix support cardiovascular function; the cooling property reduces stress-related cardiac symptoms
-- [Hemostatic](/ayurveda-atlas/glossary/pharmacology/#hemostatic): [Silicon](/ayurveda-atlas/glossary/compounds-q-t/#silicon) dioxide and trace minerals may contribute to strengthening vascular walls and supporting coagulation, relevant to traditional use in bleeding disorders
+- Pitta-pacifying cooling action: [Silica](/nighantu/glossary/compounds-q-t/#silica)-based mineral matrix provides systemic cooling effect, calming aggravated Pitta dosha in conditions of heat, inflammation, and acute irritability
+- Cardiac tonic: Trace minerals (iron, [magnesium](/nighantu/glossary/compounds-l-o/#magnesium), calcium) in the agate matrix support cardiovascular function; the cooling property reduces stress-related cardiac symptoms
+- [Hemostatic](/nighantu/glossary/pharmacology/#hemostatic): [Silicon](/nighantu/glossary/compounds-q-t/#silicon) dioxide and trace minerals may contribute to strengthening vascular walls and supporting coagulation, relevant to traditional use in bleeding disorders
 
 ## Which traditional uses are supported by research?
 

@@ -32,18 +32,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aivana/meta-analysis.md"
 - Ursolic acid
 - Alpha-thujone
 - Beta-thujone
-- 1,8-[Cineole](/ayurveda-atlas/glossary/compounds-c-d/#cineole) (Eucalyptol)
-- [Camphor](/ayurveda-atlas/herb/camphor/)
-- [Luteolin](/ayurveda-atlas/glossary/compounds-l-o/#luteolin)
+- 1,8-[Cineole](/nighantu/glossary/compounds-c-d/#cineole) (Eucalyptol)
+- [Camphor](/nighantu/herb/camphor/)
+- [Luteolin](/nighantu/glossary/compounds-l-o/#luteolin)
 - Salvianolic acids A and B
-- [Hispidulin](/ayurveda-atlas/glossary/compounds-g-l/#hispidulin)
-- [Viridiflorol](/ayurveda-atlas/glossary/compounds-t-z/#viridiflorol)
+- [Hispidulin](/nighantu/glossary/compounds-g-l/#hispidulin)
+- [Viridiflorol](/nighantu/glossary/compounds-t-z/#viridiflorol)
 
 ## How does it work?
 
 - Rosmarinic acid downregulates COX-2 expression and reduces pro-inflammatory cytokine production (TNF-alpha, IL-1beta, IL-6) in cell models, exerting potent anti-inflammatory effects
-- Ursolic acid inhibits NF-kB pathway activation and demonstrates [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) activity by disrupting bacterial membrane integrity against Staphylococcus aureus
-- Luteolin and hispidulin provide [neuroprotective](/ayurveda-atlas/reference/neuroprotective/) effects by scavenging free radicals in neural tissues and modulating GABA receptor activity for [anxiolytic](/ayurveda-atlas/reference/anxiolytic/) effects
+- Ursolic acid inhibits NF-kB pathway activation and demonstrates [antimicrobial](/nighantu/reference/antimicrobial/) activity by disrupting bacterial membrane integrity against Staphylococcus aureus
+- Luteolin and hispidulin provide [neuroprotective](/nighantu/reference/neuroprotective/) effects by scavenging free radicals in neural tissues and modulating GABA receptor activity for [anxiolytic](/nighantu/reference/anxiolytic/) effects
 
 ## Which traditional uses are supported by research?
 
@@ -53,7 +53,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aivana/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Sage (Salvia officinalis L.): A botanical marvel with versatile pharmacological properties and sustainable applications in functional foods** (2024): Comprehensive review documenting sage's [anticancer](/ayurveda-atlas/reference/anticancer/), anti-inflammatory, [antioxidant](/ayurveda-atlas/reference/antioxidant/), antimicrobial, antimutagenic, antidementia, hypoglycemic, and [hypolipidemic](/ayurveda-atlas/glossary/pharmacology/#hypolipidemic) effects with functional food applications.
+- **Sage (Salvia officinalis L.): A botanical marvel with versatile pharmacological properties and sustainable applications in functional foods** (2024): Comprehensive review documenting sage's [anticancer](/nighantu/reference/anticancer/), anti-inflammatory, [antioxidant](/nighantu/reference/antioxidant/), antimicrobial, antimutagenic, antidementia, hypoglycemic, and [hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic) effects with functional food applications.
 - **Salvia extracts: Unraveling phenolic compounds and assessing their antiglycation, anti-inflammatory, and cytotoxic properties** (2024): Salvia extracts demonstrated significant antiglycation activity, anti-inflammatory effects, and cytotoxic properties against cancer cell lines linked to their phenolic compound profiles.
 - **Placebo-controlled clinical trial of sage extract on cognitive function in elderly volunteers** (2017): 600 mg/day of sage extract over 16 weeks significantly improved immediate and delayed recall tests in elderly subjects compared to placebo controls.
 
@@ -88,7 +88,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aivana/meta-analysis.md"
 
 **Standard Dosage:** 2-4g powder twice daily; 30-60ml decoction twice daily
 
-**Bioavailability:** Limited modern pharmacokinetic data. Traditional texts recommend administration with warm water or honey to optimize absorption. The herb's constituents are primarily water-soluble phenolics and [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides), suggesting reasonable aqueous-phase absorption.
+**Bioavailability:** Limited modern pharmacokinetic data. Traditional texts recommend administration with warm water or honey to optimize absorption. The herb's constituents are primarily water-soluble phenolics and [glycosides](/nighantu/glossary/compounds-g-l/#glycosides), suggesting reasonable aqueous-phase absorption.
 
 **Optimal Timing:** Before meals with warm water for digestive indications
 
@@ -98,7 +98,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aivana/meta-analysis.md"
 
 **Storage:** Cool, dry place below 30°C, protected from direct light and moisture.
 
-**Marker Compounds:** Total phenolics (Folin-Ciocalteu method), Total [flavonoids](/ayurveda-atlas/reference/flavonoids/), TLC fingerprint markers
+**Marker Compounds:** Total phenolics (Folin-Ciocalteu method), Total [flavonoids](/nighantu/reference/flavonoids/), TLC fingerprint markers
 
 ### Extraction Methods
 
@@ -108,6 +108,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aivana/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Triphala](/ayurveda-atlas/herb/triphala/) for gastrointestinal support
-- With [Guduchi](/ayurveda-atlas/herb/guduchi/) for immune modulation
+- With [Triphala](/nighantu/herb/triphala/) for gastrointestinal support
+- With [Guduchi](/nighantu/herb/guduchi/) for immune modulation
 - With Musta for digestive disorders

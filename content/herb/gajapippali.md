@@ -33,27 +33,27 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gajapippali/meta-analysis.md"
 - Scindapsinidine A (aglycon)
 - Scindapsinidine B (aglycon)
 - Rhamnose
-- [Flavonoids](/ayurveda-atlas/reference/flavonoids/)
+- [Flavonoids](/nighantu/reference/flavonoids/)
 - Phenolic compounds
-- [Saponins](/ayurveda-atlas/reference/saponins/)
+- [Saponins](/nighantu/reference/saponins/)
 
 ## How does it work?
 
-- [Antioxidant](/ayurveda-atlas/reference/antioxidant/): Flavonoids and phenolic compounds scavenge free radicals and enhance endogenous antioxidant [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes) (SOD, catalase) while reducing lipid peroxidation
-- [Anticancer](/ayurveda-atlas/reference/anticancer/): Cytotoxic [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) (scindapsin A, B) induce apoptosis in cancer cell lines; mechanism involves oxidative stress modulation
-- [Expectorant](/ayurveda-atlas/reference/expectorant/): Saponin content reduces surface tension of bronchial secretions, facilitating mucus clearance from airways
+- [Antioxidant](/nighantu/reference/antioxidant/): Flavonoids and phenolic compounds scavenge free radicals and enhance endogenous antioxidant [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) (SOD, catalase) while reducing lipid peroxidation
+- [Anticancer](/nighantu/reference/anticancer/): Cytotoxic [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) (scindapsin A, B) induce apoptosis in cancer cell lines; mechanism involves oxidative stress modulation
+- [Expectorant](/nighantu/reference/expectorant/): Saponin content reduces surface tension of bronchial secretions, facilitating mucus clearance from airways
 
 ## Which traditional uses are supported by research?
 
 - Respiratory disease treatment (Kasa-Shwasa) partially validated by expectorant activity of saponin-rich extracts
-- [Antipyretic](/ayurveda-atlas/reference/antipyretic/) use supported by traditional clinical evidence and preliminary pharmacological data
-- [Galactagogue](/ayurveda-atlas/glossary/pharmacology/#galactagogue) use (breast milk improvement) remains to be validated through modern clinical studies
+- [Antipyretic](/nighantu/reference/antipyretic/) use supported by traditional clinical evidence and preliminary pharmacological data
+- [Galactagogue](/nighantu/glossary/pharmacology/#galactagogue) use (breast milk improvement) remains to be validated through modern clinical studies
 
 ## What do recent clinical trials show?
 
 - **Ethnobotanical and Phytopharmacological Review of Scindapsus officinalis (Gajapippali)** (2017): Comprehensive review identifying scindapsin A and B as unique glycosides; highlighted significant research gaps in phytochemistry and recommended further investigation.
 - **Antioxidant and Anticancer Evaluation of Scindapsus officinalis Fruits** (2012): Methanolic fruit extract showed cytotoxicity against human cancer cell lines; antioxidant effects reflected by decreased LPO and increased SOD and catalase activity.
-- **Scindapsus officinalis Fruit: A Phytochemical and Pharmacological Review** (2015): Documented presence of [tannins](/ayurveda-atlas/reference/tannins/), saponins, [terpenoids](/ayurveda-atlas/glossary/compounds-t-z/#terpenoids), [steroids](/ayurveda-atlas/glossary/compounds-q-t/#steroids) in successive extracts and confirmed antioxidant potential from flavonoid and phenolic content.
+- **Scindapsus officinalis Fruit: A Phytochemical and Pharmacological Review** (2015): Documented presence of [tannins](/nighantu/reference/tannins/), saponins, [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids), [steroids](/nighantu/glossary/compounds-q-t/#steroids) in successive extracts and confirmed antioxidant potential from flavonoid and phenolic content.
 
 ## Recent safety updates
 
@@ -83,7 +83,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gajapippali/meta-analysis.md"
 
 **Standard Dosage:** 1-3g powder twice daily; 50ml decoction twice daily; 500mg extract capsule twice daily
 
-**Bioavailability:** Scindapsus officinalis (Gajapippali) fruit contains [piperine](/ayurveda-atlas/reference/piperine/)-like amides and terpenoids. The alkaloid amides have moderate oral bioavailability enhanced by the pungent principles that stimulate GI blood flow and inhibit drug-metabolizing enzymes (similar to [Pippali](/ayurveda-atlas/herb/pippali/) mechanism). The traditional use with warm water or honey as Anupana supports GI absorption. Enhancement: piperine-like constituents may self-enhance bioavailability through CYP3A4 and P-gp inhibition.
+**Bioavailability:** Scindapsus officinalis (Gajapippali) fruit contains [piperine](/nighantu/reference/piperine/)-like amides and terpenoids. The alkaloid amides have moderate oral bioavailability enhanced by the pungent principles that stimulate GI blood flow and inhibit drug-metabolizing enzymes (similar to [Pippali](/nighantu/herb/pippali/) mechanism). The traditional use with warm water or honey as Anupana supports GI absorption. Enhancement: piperine-like constituents may self-enhance bioavailability through CYP3A4 and P-gp inhibition.
 
 **Optimal Timing:** Before meals with warm water or honey for respiratory conditions; after meals for digestive support
 
@@ -93,7 +93,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gajapippali/meta-analysis.md"
 
 **Storage:** Airtight containers below 25 deg C, protected from moisture and light. Limited stability data - conduct accelerated stability studies for new formulations.
 
-**Marker Compounds:** Piperine analogs (amide [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids)), Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), Terpenoids, Total alkaloid content
+**Marker Compounds:** Piperine analogs (amide [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids)), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Terpenoids, Total alkaloid content
 
 ### Extraction Methods
 
@@ -106,5 +106,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gajapippali/meta-analysis.md"
 
 - With Pippali for enhanced respiratory and digestive action
 - With Sunthi and Maricha in Katu (pungent) formulations
-- With [Vasa](/ayurveda-atlas/herb/vasa/) (Adhatoda) for bronchial and respiratory conditions
-- With [Kantakari](/ayurveda-atlas/herb/kantakari/) for cough management
+- With [Vasa](/nighantu/herb/vasa/) (Adhatoda) for bronchial and respiratory conditions
+- With [Kantakari](/nighantu/herb/kantakari/) for cough management

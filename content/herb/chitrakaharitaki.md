@@ -24,43 +24,43 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chitrakaharitaki/meta-analysi
 | Language | Name |
 |----------|------|
 | English | Chitrakaharitaki |
-| Latin/Botanical | *Polyherbal formulation: Plumbago zeylanica ([Chitrak](/ayurveda-atlas/herb/chitrak/)) + Terminalia chebula ([Haritaki](/ayurveda-atlas/herb/haritaki/)) as principal herbs* |
+| Latin/Botanical | *Polyherbal formulation: Plumbago zeylanica ([Chitrak](/nighantu/herb/chitrak/)) + Terminalia chebula ([Haritaki](/nighantu/herb/haritaki/)) as principal herbs* |
 
 ## Key Phytochemical Constituents
 
-- [Plumbagin](/ayurveda-atlas/glossary/compounds-o-q/#plumbagin) (from [Chitrak](/ayurveda-atlas/herb/chitrak/) - naphthoquinone)
-- Chebulinic acid (from [Haritaki](/ayurveda-atlas/herb/haritaki/))
-- Gallic acid and ellagic acid (from [Haritaki](/ayurveda-atlas/herb/haritaki/) and [Amla](/ayurveda-atlas/herb/amla/))
-- [Tannins](/ayurveda-atlas/reference/tannins/) (hydrolyzable - from Terminalia species)
-- [Piperine](/ayurveda-atlas/reference/piperine/) (from [Pippali](/ayurveda-atlas/herb/pippali/) and Kalimirch)
-- Gingerols and shogaols (from [ginger](/ayurveda-atlas/herb/ginger/))
-- Vitamin C (from [Amla](/ayurveda-atlas/herb/amla/)/Indian gooseberry)
+- [Plumbagin](/nighantu/glossary/compounds-o-q/#plumbagin) (from [Chitrak](/nighantu/herb/chitrak/) - naphthoquinone)
+- Chebulinic acid (from [Haritaki](/nighantu/herb/haritaki/))
+- Gallic acid and ellagic acid (from [Haritaki](/nighantu/herb/haritaki/) and [Amla](/nighantu/herb/amla/))
+- [Tannins](/nighantu/reference/tannins/) (hydrolyzable - from Terminalia species)
+- [Piperine](/nighantu/reference/piperine/) (from [Pippali](/nighantu/herb/pippali/) and Kalimirch)
+- Gingerols and shogaols (from [ginger](/nighantu/herb/ginger/))
+- Vitamin C (from [Amla](/nighantu/herb/amla/)/Indian gooseberry)
 - Essential oils from cardamom and cinnamon
-- Bael [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) (from Aegle marmelos)
-- [Polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols) from Dashmoola combination
+- Bael [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) (from Aegle marmelos)
+- [Polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) from Dashmoola combination
 
 ## How does it work?
 
-- Mucolytic and [expectorant](/ayurveda-atlas/reference/expectorant/) mechanism through plumbagin and piperine stimulation of bronchial secretion clearance, combined with anti-inflammatory reduction of airway inflammation
-- Digestive enhancement through Agni deepana (digestive fire stimulation) via piperine and [gingerol](/ayurveda-atlas/glossary/compounds-d-g/#gingerol) activation of gastric acid secretion and enzyme release
-- [Immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) mechanism through synergistic action of vitamin C, tannins, and polyphenols enhancing both innate and adaptive immune responses
+- Mucolytic and [expectorant](/nighantu/reference/expectorant/) mechanism through plumbagin and piperine stimulation of bronchial secretion clearance, combined with anti-inflammatory reduction of airway inflammation
+- Digestive enhancement through Agni deepana (digestive fire stimulation) via piperine and [gingerol](/nighantu/glossary/compounds-d-g/#gingerol) activation of gastric acid secretion and enzyme release
+- [Immunomodulatory](/nighantu/reference/immunomodulatory/) mechanism through synergistic action of vitamin C, tannins, and polyphenols enhancing both innate and adaptive immune responses
 
 ## Which traditional uses are supported by research?
 
 - Respiratory disorder management (Kasa, Shwasa) validated through clinical observations and pharmacological review of mucolytic, antitussive, and bronchodilatory properties of constituent herbs
-- Digestive weakness (Agnimandya) treatment supported by documented carminative and digestive-stimulant properties of piperine, [ginger](/ayurveda-atlas/herb/ginger/), and other aromatic constituents
-- Anthelmintic (Krimi) activity supported by documented antiparasitic properties of [Chitrak](/ayurveda-atlas/herb/chitrak/) (plumbagin) and [Haritaki](/ayurveda-atlas/herb/haritaki/) (tannins)
+- Digestive weakness (Agnimandya) treatment supported by documented carminative and digestive-stimulant properties of piperine, [ginger](/nighantu/herb/ginger/), and other aromatic constituents
+- Anthelmintic (Krimi) activity supported by documented antiparasitic properties of [Chitrak](/nighantu/herb/chitrak/) (plumbagin) and [Haritaki](/nighantu/herb/haritaki/) (tannins)
 
 ## What do recent clinical trials show?
 
-- **A compendious review of Chitraka [Haritaki](/ayurveda-atlas/herb/haritaki/) Avaleha - A polyherbal Ayurveda formulation for bronchial asthma** (2021): Comprehensive review documenting the formulation's evolution from 9th century Vrindamadhava text to modern practice, with evidence supporting use in bronchial asthma through mucolytic, anti-inflammatory, and bronchodilatory actions.
-- **Pharmaceutical validation of modified Chitraka [Haritaki](/ayurveda-atlas/herb/haritaki/) Avaleha: An Ayurveda semisolid dosage form** (2021): Pharmaceutical standardization study with validated methods for quantifying reducing sugars, tannic acid, gallic acid, piperine, vitamin C, and total polyphenols, with stability confirmed over two years.
-- **Physico-chemical and Phytochemical Standardization of [Chitrak](/ayurveda-atlas/herb/chitrak/) [Haritaki](/ayurveda-atlas/herb/haritaki/) avaleha** (2022): Established comprehensive quality control parameters including physico-chemical, phytochemical, and HPTLC fingerprinting standards for batch-to-batch consistency.
+- **A compendious review of Chitraka [Haritaki](/nighantu/herb/haritaki/) Avaleha - A polyherbal Ayurveda formulation for bronchial asthma** (2021): Comprehensive review documenting the formulation's evolution from 9th century Vrindamadhava text to modern practice, with evidence supporting use in bronchial asthma through mucolytic, anti-inflammatory, and bronchodilatory actions.
+- **Pharmaceutical validation of modified Chitraka [Haritaki](/nighantu/herb/haritaki/) Avaleha: An Ayurveda semisolid dosage form** (2021): Pharmaceutical standardization study with validated methods for quantifying reducing sugars, tannic acid, gallic acid, piperine, vitamin C, and total polyphenols, with stability confirmed over two years.
+- **Physico-chemical and Phytochemical Standardization of [Chitrak](/nighantu/herb/chitrak/) [Haritaki](/nighantu/herb/haritaki/) avaleha** (2022): Established comprehensive quality control parameters including physico-chemical, phytochemical, and HPTLC fingerprinting standards for batch-to-batch consistency.
 
 ## Recent safety updates
 
 - Stability study confirmed formulation stability over two years under accelerated conditions; traditionally considered safe when prepared according to classical methods and taken at recommended doses (5-10g with warm water or milk)
-- Plumbagin from [Chitrak](/ayurveda-atlas/herb/chitrak/) has known dose-dependent toxicity; the avaleha preparation method with jaggery and honey matrices is designed to mitigate individual ingredient toxicity through traditional pharmaceutical processing
+- Plumbagin from [Chitrak](/nighantu/herb/chitrak/) has known dose-dependent toxicity; the avaleha preparation method with jaggery and honey matrices is designed to mitigate individual ingredient toxicity through traditional pharmaceutical processing
 
 ## What is it made of?
 
@@ -83,7 +83,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chitrakaharitaki/meta-analysi
 
 **Standard Dosage:** 5-10g (approximately 1-2 teaspoons) twice daily with warm water or milk. Classical Avaleha formulation per Ashtanga Hridaya/Charaka Samhita.
 
-**Bioavailability:** Compound formulation where jaggery/sugar matrix provides slow release of actives. Plumbagin from Chitraka is partially detoxified by cooking process. Chebulagic acid and gallic acid from Haritaki show enhanced absorption in the sugar-ghee matrix. Piperine from [Pippali](/ayurveda-atlas/herb/pippali/) (often an ingredient) bioenhances other components. Traditional Avaleha preparation method (cooking to Paka stage) optimizes extraction and bioavailability of all components simultaneously.
+**Bioavailability:** Compound formulation where jaggery/sugar matrix provides slow release of actives. Plumbagin from Chitraka is partially detoxified by cooking process. Chebulagic acid and gallic acid from Haritaki show enhanced absorption in the sugar-ghee matrix. Piperine from [Pippali](/nighantu/herb/pippali/) (often an ingredient) bioenhances other components. Traditional Avaleha preparation method (cooking to Paka stage) optimizes extraction and bioavailability of all components simultaneously.
 
 **Optimal Timing:** After meals with warm water or milk for digestive and respiratory conditions; traditionally used in Pratishyaya (coryza/cold) and Kasa (cough)
 
@@ -103,7 +103,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chitrakaharitaki/meta-analysi
 
 ### Synergistic Combinations
 
-- Internal synergies between Chitraka (Agni/digestive fire) and Haritaki (Anulomana/[laxative](/ayurveda-atlas/reference/laxative/)) are the therapeutic basis
+- Internal synergies between Chitraka (Agni/digestive fire) and Haritaki (Anulomana/[laxative](/nighantu/reference/laxative/)) are the therapeutic basis
 - With warm milk as Anupana for enhanced palatability and Vata pacification
-- With [Trikatu](/ayurveda-atlas/herb/trikatu/) for enhanced digestive support
-- With [Triphala](/ayurveda-atlas/herb/triphala/) for comprehensive GI tract management
+- With [Trikatu](/nighantu/herb/trikatu/) for enhanced digestive support
+- With [Triphala](/nighantu/herb/triphala/) for comprehensive GI tract management

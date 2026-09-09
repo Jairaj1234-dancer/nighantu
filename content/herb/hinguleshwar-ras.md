@@ -23,18 +23,18 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Hinguleshwar-Ras/m
 
 | Language | Name |
 |----------|------|
-| English | [Hinguleshwar Ras](/ayurveda-atlas/herb/hinguleshwar-ras/) |
+| English | [Hinguleshwar Ras](/nighantu/herb/hinguleshwar-ras/) |
 
 ## How does it work?
 
 - Cinnabar (HgS) has documented sedative and anti-anxiety properties, possibly through modulation of GABAergic neurotransmission and ion channel activity, relevant to its traditional use in calming cough
-- [Pippali](/ayurveda-atlas/herb/pippali/) (long pepper) contains [piperine](/ayurveda-atlas/reference/piperine/) which has mucolytic, anti-tussive, and bronchodilatory properties; also enhances bioavailability of other formulation components through inhibition of hepatic and intestinal CYP3A4 and P-glycoprotein
-- The combination provides anti-inflammatory action at respiratory mucosal surfaces while processed aconite contributes [analgesic](/ayurveda-atlas/reference/analgesic/) effects through sodium channel modulation
+- [Pippali](/nighantu/herb/pippali/) (long pepper) contains [piperine](/nighantu/reference/piperine/) which has mucolytic, anti-tussive, and bronchodilatory properties; also enhances bioavailability of other formulation components through inhibition of hepatic and intestinal CYP3A4 and P-glycoprotein
+- The combination provides anti-inflammatory action at respiratory mucosal surfaces while processed aconite contributes [analgesic](/nighantu/reference/analgesic/) effects through sodium channel modulation
 
 ## Which traditional uses are supported by research?
 
-- Cough and cold (Kasa-Pratishyaya): Cinnabar's documented sedative/anti-tussive properties and [Pippali](/ayurveda-atlas/herb/pippali/)'s mucolytic action provide mechanistic support for the traditional anti-tussive use
-- Respiratory congestion: The combination of bioenhancer ([Pippali](/ayurveda-atlas/herb/pippali/)), [expectorant](/ayurveda-atlas/reference/expectorant/), and anti-inflammatory ingredients aligns with traditional use in respiratory disorders
+- Cough and cold (Kasa-Pratishyaya): Cinnabar's documented sedative/anti-tussive properties and [Pippali](/nighantu/herb/pippali/)'s mucolytic action provide mechanistic support for the traditional anti-tussive use
+- Respiratory congestion: The combination of bioenhancer ([Pippali](/nighantu/herb/pippali/)), [expectorant](/nighantu/reference/expectorant/), and anti-inflammatory ingredients aligns with traditional use in respiratory disorders
 
 ## What do recent clinical trials show?
 
@@ -45,7 +45,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Hinguleshwar-Ras/m
 ## Recent safety updates
 
 - Contains cinnabar with approximately 86% mercury by weight - although processed HgS has lower bioavailability than organic mercury, the high absolute mercury content requires strict dose adherence
-- CRITICAL: Also contains Aconitum ferox ([Vatsanabha](/ayurveda-atlas/herb/vatsanabha/)) - even after purification, this is one of the most toxic plants known; cardiac arrhythmias and death possible from overdose
+- CRITICAL: Also contains Aconitum ferox ([Vatsanabha](/nighantu/herb/vatsanabha/)) - even after purification, this is one of the most toxic plants known; cardiac arrhythmias and death possible from overdose
 - Cinnabar is classified as less toxic than organic mercury forms, but chronic kidney accumulation remains a concern with extended use; renal function monitoring recommended
 - Not suitable for self-medication under any circumstances; both mercury and aconite content demand physician supervision and short-course therapy only
 
@@ -64,9 +64,9 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Hinguleshwar-Ras/m
 
 **Standard Dosage:** 125–250 mg twice daily
 
-**Bioavailability:** [Mercury-sulfide](/ayurveda-atlas/glossary/compounds-l-o/#mercury-sulfide) complex (cinnabar) in nanoparticulate form; detoxified through Shodhana-Marana
+**Bioavailability:** [Mercury-sulfide](/nighantu/glossary/compounds-l-o/#mercury-sulfide) complex (cinnabar) in nanoparticulate form; detoxified through Shodhana-Marana
 
-**Optimal Timing:** With honey and [ginger](/ayurveda-atlas/herb/ginger/) juice; before meals
+**Optimal Timing:** With honey and [ginger](/nighantu/herb/ginger/) juice; before meals
 
 **Standardized Extract:** Purified Hingula (cinnabar/HgS) processed with herbal media
 
@@ -78,4 +78,4 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Hinguleshwar-Ras/m
 
 **Quality Parameters:** Free mercury <1 ppm (critical), standard Rasaushadhi tests, particle size <100 nm
 
-**Vehicle (Anupana):** Honey + [ginger](/ayurveda-atlas/herb/ginger/) juice (Ardrak Swarasa); [Tulsi](/ayurveda-atlas/herb/tulsi/) juice
+**Vehicle (Anupana):** Honey + [ginger](/nighantu/herb/ginger/) juice (Ardrak Swarasa); [Tulsi](/nighantu/herb/tulsi/) juice

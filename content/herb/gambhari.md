@@ -32,16 +32,16 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gambhari/meta-analysis.md"
 - Arboreol
 - Isoarboreol
 - Gmelanone
-- [Luteolin](/ayurveda-atlas/glossary/compounds-l-o/#luteolin)
-- [Apigenin](/ayurveda-atlas/glossary/compounds-1-a/#apigenin)-7-rutinoside
-- [Verbascoside](/ayurveda-atlas/glossary/compounds-t-z/#verbascoside) (iridoid glycoside)
+- [Luteolin](/nighantu/glossary/compounds-l-o/#luteolin)
+- [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin)-7-rutinoside
+- [Verbascoside](/nighantu/glossary/compounds-t-z/#verbascoside) (iridoid glycoside)
 - Paulownin (lignan)
 
 ## How does it work?
 
-- Anti-inflammatory: [Lignans](/ayurveda-atlas/glossary/compounds-g-l/#lignans) (gmelinol, paulownin) and [flavonoids](/ayurveda-atlas/reference/flavonoids/) inhibit COX-2, LOX-5, and suppress TNF-alpha and IL-6 production
-- [Cardioprotective](/ayurveda-atlas/reference/cardioprotective/): Iridoid [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) and flavonoids reduce myocardial oxidative stress and improve cardiac function through Nrf2 pathway activation
-- [Immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/): Verbascoside enhances macrophage phagocytic activity and modulates Th1/Th2 cytokine balance
+- Anti-inflammatory: [Lignans](/nighantu/glossary/compounds-g-l/#lignans) (gmelinol, paulownin) and [flavonoids](/nighantu/reference/flavonoids/) inhibit COX-2, LOX-5, and suppress TNF-alpha and IL-6 production
+- [Cardioprotective](/nighantu/reference/cardioprotective/): Iridoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) and flavonoids reduce myocardial oxidative stress and improve cardiac function through Nrf2 pathway activation
+- [Immunomodulatory](/nighantu/reference/immunomodulatory/): Verbascoside enhances macrophage phagocytic activity and modulates Th1/Th2 cytokine balance
 
 ## Which traditional uses are supported by research?
 
@@ -71,11 +71,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gambhari/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (bark/fruit powder), Kashayam (decoction), Kwath Ghana (solid extract), Tablet, Capsule, Taila (medicated oil), Component of [Dashamoola](/ayurveda-atlas/herb/dashamoola/)
+**Dosage Forms:** Churna (bark/fruit powder), Kashayam (decoction), Kwath Ghana (solid extract), Tablet, Capsule, Taila (medicated oil), Component of [Dashamoola](/nighantu/herb/dashamoola/)
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction twice daily; 500mg extract capsule twice daily; 10-20g fruit pulp
 
-**Bioavailability:** Gmelina arborea root bark and fruit contain iridoid glycosides (gmelinoside, arboreol), flavonoids, and lignans. Iridoid glycosides have moderate oral bioavailability (20-40%) and are partially hydrolyzed in the GI tract to release aglycones with higher absorption. Fruit pulp provides natural sugars and [mucilage](/ayurveda-atlas/glossary/compounds-l-o/#mucilage) that may enhance dissolution and GI transit time for better absorption. The bark Kashayam form is traditionally favored for systemic effects. Enhancement: self-emulsifying formulations for lipophilic lignans; co-administration with [Trikatu](/ayurveda-atlas/herb/trikatu/) for general bioenhancement.
+**Bioavailability:** Gmelina arborea root bark and fruit contain iridoid glycosides (gmelinoside, arboreol), flavonoids, and lignans. Iridoid glycosides have moderate oral bioavailability (20-40%) and are partially hydrolyzed in the GI tract to release aglycones with higher absorption. Fruit pulp provides natural sugars and [mucilage](/nighantu/glossary/compounds-l-o/#mucilage) that may enhance dissolution and GI transit time for better absorption. The bark Kashayam form is traditionally favored for systemic effects. Enhancement: self-emulsifying formulations for lipophilic lignans; co-administration with [Trikatu](/nighantu/herb/trikatu/) for general bioenhancement.
 
 **Optimal Timing:** Before meals with warm water for general tonic and anti-inflammatory effects; Kashayam morning and evening
 
@@ -85,7 +85,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gambhari/meta-analysis.md"
 
 **Storage:** Bark powder: airtight containers below 25 deg C, protected from moisture. Fruit preparations: refrigerate fresh pulp, dried powder in moisture-proof containers. Taila: amber glass at room temperature.
 
-**Marker Compounds:** Gmelinoside, Arboreol, Ursolic acid, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), Luteolin, [Apigenin](/ayurveda-atlas/glossary/compounds-1-a/#apigenin), Hentriacontanol
+**Marker Compounds:** Gmelinoside, Arboreol, Ursolic acid, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Luteolin, [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin), Hentriacontanol
 
 ### Extraction Methods
 
@@ -93,12 +93,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gambhari/meta-analysis.md"
 - Hydroalcoholic extraction (60:40 ethanol:water)
 - Cold maceration of fruit pulp
 - Spray-dried aqueous extract for Kwath Ghana
-- [Sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) processing for Taila
+- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) processing for Taila
 
 ### Synergistic Combinations
 
 - Key ingredient in Dashamoola (10-root formulation)
-- With [Bilva](/ayurveda-atlas/herb/bilva/) and [Shyonaka](/ayurveda-atlas/herb/shyonaka/) in Brihat Panchamoola
-- With [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) for tonic and [adaptogenic](/ayurveda-atlas/reference/adaptogenic/) synergy
-- With [Guduchi](/ayurveda-atlas/herb/guduchi/) for immunomodulatory combination
-- With [Shatavari](/ayurveda-atlas/herb/shatavari/) for [Rasayana](/ayurveda-atlas/reference/rasayana/) (rejuvenation) formulation
+- With [Bilva](/nighantu/herb/bilva/) and [Shyonaka](/nighantu/herb/shyonaka/) in Brihat Panchamoola
+- With [Ashwagandha](/nighantu/herb/ashwagandha/) for tonic and [adaptogenic](/nighantu/reference/adaptogenic/) synergy
+- With [Guduchi](/nighantu/herb/guduchi/) for immunomodulatory combination
+- With [Shatavari](/nighantu/herb/shatavari/) for [Rasayana](/nighantu/reference/rasayana/) (rejuvenation) formulation

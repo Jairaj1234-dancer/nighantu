@@ -45,11 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Zingiber/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (Shunthi/dry [ginger](/ayurveda-atlas/herb/ginger/) powder), Svarasa (fresh ginger juice), Capsule, Tablet, Softgel (CO2 extract), Kwatha (decoction), Essential oil, Tincture, Crystallized/preserved ginger, Syrup, Paste
+**Dosage Forms:** Churna (Shunthi/dry [ginger](/nighantu/herb/ginger/) powder), Svarasa (fresh ginger juice), Capsule, Tablet, Softgel (CO2 extract), Kwatha (decoction), Essential oil, Tincture, Crystallized/preserved ginger, Syrup, Paste
 
 **Standard Dosage:** 1-3 g dry ginger powder twice daily; 5-10 mL fresh juice with honey; 250-500 mg standardized extract capsule twice daily; 1-2 g fresh ginger as food
 
-**Bioavailability:** 6-[Gingerol](/ayurveda-atlas/glossary/compounds-d-g/#gingerol) (fresh ginger) has moderate oral bioavailability (~30-40%) limited by rapid hepatic glucuronidation and sulfation. 6-Shogaol (dehydrated product of gingerol, predominant in dry ginger/Shunthi) has better bioavailability (~40-50%) and 2-3x greater biological potency. Zerumbone has low bioavailability (<15%) improved by SEDDS. Essential oil components ([zingiberene](/ayurveda-atlas/glossary/compounds-t-z/#zingiberene), beta-sesquiphellandrene) are rapidly absorbed but extensively metabolized. Fresh vs. dry ginger have distinct pharmacological profiles: fresh ginger is richer in gingerols (anti-emetic, GI motility) while dry ginger (Shunthi) is richer in shogaols (anti-inflammatory, [analgesic](/ayurveda-atlas/reference/analgesic/)). [Piperine](/ayurveda-atlas/reference/piperine/) co-administration enhances gingerol bioavailability by ~1.5-fold.
+**Bioavailability:** 6-[Gingerol](/nighantu/glossary/compounds-d-g/#gingerol) (fresh ginger) has moderate oral bioavailability (~30-40%) limited by rapid hepatic glucuronidation and sulfation. 6-Shogaol (dehydrated product of gingerol, predominant in dry ginger/Shunthi) has better bioavailability (~40-50%) and 2-3x greater biological potency. Zerumbone has low bioavailability (<15%) improved by SEDDS. Essential oil components ([zingiberene](/nighantu/glossary/compounds-t-z/#zingiberene), beta-sesquiphellandrene) are rapidly absorbed but extensively metabolized. Fresh vs. dry ginger have distinct pharmacological profiles: fresh ginger is richer in gingerols (anti-emetic, GI motility) while dry ginger (Shunthi) is richer in shogaols (anti-inflammatory, [analgesic](/nighantu/reference/analgesic/)). [Piperine](/nighantu/reference/piperine/) co-administration enhances gingerol bioavailability by ~1.5-fold.
 
 **Optimal Timing:** Before meals for digestive stimulation and anti-emetic effect; with meals for carminative action; morning with warm water for metabolism activation; 30-60 minutes before travel for motion sickness
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Zingiber/meta-analysis.md"
 
 **Storage:** Fresh ginger at 12-14 deg C, 65% RH (not below 10 deg C to avoid chilling injury). Dry ginger in airtight, moisture-proof containers at 15-25 deg C. Oleoresin and essential oil in amber glass, tightly sealed, at 15-25 deg C. Protect from light and heat.
 
-**Marker Compounds:** 6-Gingerol, 8-Gingerol, 10-Gingerol, 6-Shogaol, 8-Shogaol, 10-Shogaol, [Zingerone](/ayurveda-atlas/glossary/compounds-t-z/#zingerone), Zingiberene, beta-Sesquiphellandrene, ar-Curcumene, alpha-Zingiberene, beta-Bisabolene, Zerumbone
+**Marker Compounds:** 6-Gingerol, 8-Gingerol, 10-Gingerol, 6-Shogaol, 8-Shogaol, 10-Shogaol, [Zingerone](/nighantu/glossary/compounds-t-z/#zingerone), Zingiberene, beta-Sesquiphellandrene, ar-Curcumene, alpha-Zingiberene, beta-Bisabolene, Zerumbone
 
 ### Extraction Methods
 
@@ -73,9 +73,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Zingiber/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- Part of [Trikatu](/ayurveda-atlas/herb/trikatu/): Shunthi + Maricha + [Pippali](/ayurveda-atlas/herb/pippali/) - universal bioenhancer
+- Part of [Trikatu](/nighantu/herb/trikatu/): Shunthi + Maricha + [Pippali](/nighantu/herb/pippali/) - universal bioenhancer
 - Lemon + ginger - anti-nausea combination with complementary mechanisms
-- [Turmeric](/ayurveda-atlas/herb/turmeric/) ([Haridra](/ayurveda-atlas/herb/haridra/)) - anti-inflammatory synergy
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) (licorice) - GI protective combination
+- [Turmeric](/nighantu/herb/turmeric/) ([Haridra](/nighantu/herb/haridra/)) - anti-inflammatory synergy
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (licorice) - GI protective combination
 - Honey - traditional anupana for respiratory and digestive conditions
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) - [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) combination for viral infections
+- [Guduchi](/nighantu/herb/guduchi/) - [immunomodulatory](/nighantu/reference/immunomodulatory/) combination for viral infections

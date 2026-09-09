@@ -23,21 +23,21 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Mrigashringa-Bhasma/
 
 | Language | Name |
 |----------|------|
-| English | [Mrigashringa Bhasma](/ayurveda-atlas/herb/mrigashringa-bhasma/) |
+| English | [Mrigashringa Bhasma](/nighantu/herb/mrigashringa-bhasma/) |
 
 ## Key Phytochemical Constituents
 
 - Calcium (66%) as primary constituent
-- [Phosphorus](/ayurveda-atlas/glossary/compounds-o-q/#phosphorus) (32.46%)
-- [Potassium](/ayurveda-atlas/glossary/compounds-o-q/#potassium) (1.41%)
-- [Magnesium](/ayurveda-atlas/glossary/compounds-l-o/#magnesium) and carbonates
-- Sulfates, chlorides, [tannins](/ayurveda-atlas/reference/tannins/), and residual [proteins](/ayurveda-atlas/glossary/compounds-o-q/#proteins)
+- [Phosphorus](/nighantu/glossary/compounds-o-q/#phosphorus) (32.46%)
+- [Potassium](/nighantu/glossary/compounds-o-q/#potassium) (1.41%)
+- [Magnesium](/nighantu/glossary/compounds-l-o/#magnesium) and carbonates
+- Sulfates, chlorides, [tannins](/nighantu/reference/tannins/), and residual [proteins](/nighantu/glossary/compounds-o-q/#proteins)
 
 ## How does it work?
 
 - Calcium-phosphorus supplementation through natural ratio of Ca:P (approximately 2:1) optimal for bone mineralization and preventing calcium-phosphorus imbalance
 - Respiratory tract support through mucolytic and anti-inflammatory actions, facilitating expectoration and reducing bronchial inflammation in pneumonia and bronchitis
-- [Cardioprotective](/ayurveda-atlas/reference/cardioprotective/) action through calcium and potassium provision supporting cardiac muscle contraction, electrical conduction, and rhythm regulation
+- [Cardioprotective](/nighantu/reference/cardioprotective/) action through calcium and potassium provision supporting cardiac muscle contraction, electrical conduction, and rhythm regulation
 - Cartilage and joint repair through provision of calcium, phosphorus, and collagen-derived amino acids (from antler matrix) supporting connective tissue regeneration
 
 ## Which traditional uses are supported by research?
@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Mrigashringa-Bhasma/
 ## What do recent clinical trials show?
 
 - **Physico-chemical analysis of Mrig-Shring Bhasma - approach to standardization of calcium products in Ayurvedic health management** (2019): Standardization study confirmed Ca (66%), P (32.46%), K (1.41%) composition. Established physicochemical quality parameters for calcium products in Ayurvedic practice.
-- **An Ayurvedic proprietary herbal preparation, Calci-7, prevents ovariectomy-induced osteoporosis in rats** (2018): Calci-7 formulation containing [Mrigashringa Bhasma](/ayurveda-atlas/herb/mrigashringa-bhasma/) prevented ovariectomy-induced osteoporosis in rat models. Demonstrated bone-protective effects through calcium and phosphorus supplementation.
+- **An Ayurvedic proprietary herbal preparation, Calci-7, prevents ovariectomy-induced osteoporosis in rats** (2018): Calci-7 formulation containing [Mrigashringa Bhasma](/nighantu/herb/mrigashringa-bhasma/) prevented ovariectomy-induced osteoporosis in rat models. Demonstrated bone-protective effects through calcium and phosphorus supplementation.
 - **Literary Review on Mrigashringa - Antler or Horn** (2022): Comprehensive review confirmed traditional uses documented across Samhita and Nighantus. Established that Mrigashringa has been used since ancient period for cardiac, respiratory, and bone disorders.
 
 ## Recent safety updates

@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Patala/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g bark powder daily; 20-30 mL decoction twice daily; 500-750 mg standardized extract twice daily
 
-**Bioavailability:** [Lapachol](/ayurveda-atlas/glossary/compounds-g-l/#lapachol) and other naphthoquinones from Stereospermum suaveolens (Patala) have moderate oral bioavailability (25-40%). Lapachol is lipophilic and benefits from lipid-based delivery. [Flavonoids](/ayurveda-atlas/reference/flavonoids/) (dinatin, [scutellarein](/ayurveda-atlas/glossary/compounds-q-t/#scutellarein)) show 15-30% bioavailability. Iridoid [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) present are hydrolyzed by gut flora releasing aglycones with variable absorption kinetics.
+**Bioavailability:** [Lapachol](/nighantu/glossary/compounds-g-l/#lapachol) and other naphthoquinones from Stereospermum suaveolens (Patala) have moderate oral bioavailability (25-40%). Lapachol is lipophilic and benefits from lipid-based delivery. [Flavonoids](/nighantu/reference/flavonoids/) (dinatin, [scutellarein](/nighantu/glossary/compounds-q-t/#scutellarein)) show 15-30% bioavailability. Iridoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) present are hydrolyzed by gut flora releasing aglycones with variable absorption kinetics.
 
 **Optimal Timing:** After meals for general anti-inflammatory use. As part of Dashmool Kwatha: morning and evening between meals.
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Patala/meta-analysis.md"
 
 **Storage:** Dried bark: airtight containers, below 25 deg C, protected from moisture and pest infestation. Extracts: amber containers, cool and dry. Arishtam: amber glass, room temperature.
 
-**Marker Compounds:** Lapachol, Dinatin, Scutellarein, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/ayurveda-atlas/reference/stigmasterol/), p-Coumaric acid, Stereolensin, Stereochenol A
+**Marker Compounds:** Lapachol, Dinatin, Scutellarein, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/nighantu/reference/stigmasterol/), p-Coumaric acid, Stereolensin, Stereochenol A
 
 ### Extraction Methods
 
@@ -72,7 +72,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Patala/meta-analysis.md"
 ### Synergistic Combinations
 
 - Dashmool combination (key component of the ten-root formula for Vata disorders)
-- [Bilva](/ayurveda-atlas/herb/bilva/) (digestive and anti-inflammatory combination)
-- [Shyonaka](/ayurveda-atlas/herb/shyonaka/) (respiratory and anti-inflammatory synergy)
-- [Gambhari](/ayurveda-atlas/herb/gambhari/) (Dashmool synergy for pyrexia)
-- [Prasarini](/ayurveda-atlas/herb/prasarini/) (musculoskeletal pain combination)
+- [Bilva](/nighantu/herb/bilva/) (digestive and anti-inflammatory combination)
+- [Shyonaka](/nighantu/herb/shyonaka/) (respiratory and anti-inflammatory synergy)
+- [Gambhari](/nighantu/herb/gambhari/) (Dashmool synergy for pyrexia)
+- [Prasarini](/nighantu/herb/prasarini/) (musculoskeletal pain combination)

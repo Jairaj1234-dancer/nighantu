@@ -49,17 +49,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Kusha/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g root powder twice daily; 50-100 mL decoction; 250-500 mg Kshara; 10-20 mL juice
 
-**Bioavailability:** Flavonoid C-[glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) ([orientin](/ayurveda-atlas/glossary/compounds-o-q/#orientin), [vitexin](/ayurveda-atlas/glossary/compounds-t-z/#vitexin)) show moderate oral bioavailability with good intestinal stability. Triterpene [saponins](/ayurveda-atlas/reference/saponins/) are hydrolyzed by gut bacteria to bioactive sapogenins. Kshara preparation provides highly bioavailable alkaline mineral salts. Root decoction offers pre-hydrolyzed actives with improved absorption.
+**Bioavailability:** Flavonoid C-[glycosides](/nighantu/glossary/compounds-g-l/#glycosides) ([orientin](/nighantu/glossary/compounds-o-q/#orientin), [vitexin](/nighantu/glossary/compounds-t-z/#vitexin)) show moderate oral bioavailability with good intestinal stability. Triterpene [saponins](/nighantu/reference/saponins/) are hydrolyzed by gut bacteria to bioactive sapogenins. Kshara preparation provides highly bioavailable alkaline mineral salts. Root decoction offers pre-hydrolyzed actives with improved absorption.
 
-**Optimal Timing:** Decoction: before meals for urinary conditions; Kshara: between meals with water; juice: morning on empty stomach for [diuretic](/ayurveda-atlas/reference/diuretic/) effect
+**Optimal Timing:** Decoction: before meals for urinary conditions; Kshara: between meals with water; juice: morning on empty stomach for [diuretic](/nighantu/reference/diuretic/) effect
 
-**Standardized Extract:** Root extract standardized to minimum 2% total [flavonoids](/ayurveda-atlas/reference/flavonoids/) (as orientin equivalents); Kshara standardized to pH 9.0-10.5 and minimum 60% water-soluble alkaline content
+**Standardized Extract:** Root extract standardized to minimum 2% total [flavonoids](/nighantu/reference/flavonoids/) (as orientin equivalents); Kshara standardized to pH 9.0-10.5 and minimum 60% water-soluble alkaline content
 
 **Shelf Life:** 24 months for root powder; 36 months for Kshara; 18 months for capsules; decoction consumed same day
 
 **Storage:** Root powder in airtight containers at 15-30°C. Kshara in moisture-proof glass containers (highly hygroscopic). Protect from humidity.
 
-**Marker Compounds:** Orientin, Vitexin, [Isoorientin](/ayurveda-atlas/glossary/compounds-g-l/#isoorientin), [Tricin](/ayurveda-atlas/glossary/compounds-t-z/#tricin), Cylindrin, Arundoin, [Potassium](/ayurveda-atlas/glossary/compounds-o-q/#potassium) carbonate (Kshara), Silicic acid
+**Marker Compounds:** Orientin, Vitexin, [Isoorientin](/nighantu/glossary/compounds-g-l/#isoorientin), [Tricin](/nighantu/glossary/compounds-t-z/#tricin), Cylindrin, Arundoin, [Potassium](/nighantu/glossary/compounds-o-q/#potassium) carbonate (Kshara), Silicic acid
 
 ### Extraction Methods
 
@@ -71,7 +71,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Kusha/meta-analysis.md"
 ### Synergistic Combinations
 
 - Darbha (complementary Kusha grass for sacred/ritual-therapeutic use)
-- [Gokshura](/ayurveda-atlas/herb/gokshura/) for urinary health synergy
-- [Punarnava](/ayurveda-atlas/herb/punarnava/) for renal support
-- [Varuna](/ayurveda-atlas/herb/varuna/) for lithotriptic formulations
-- [Yavakshara](/ayurveda-atlas/herb/yavakshara/) for alkali therapy combination
+- [Gokshura](/nighantu/herb/gokshura/) for urinary health synergy
+- [Punarnava](/nighantu/herb/punarnava/) for renal support
+- [Varuna](/nighantu/herb/varuna/) for lithotriptic formulations
+- [Yavakshara](/nighantu/herb/yavakshara/) for alkali therapy combination

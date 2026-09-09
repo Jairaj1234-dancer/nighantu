@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Tanduliyaka/meta-analysis.
 
 **Standard Dosage:** 10-20 mL fresh juice twice daily; 3-5 g powder twice daily; 50-100 mL decoction twice daily
 
-**Bioavailability:** Betalains (amaranthine, isoamaranthine) show moderate oral bioavailability (~20-30%) with rapid absorption in the upper GI tract. [Polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols) and [flavonoids](/ayurveda-atlas/reference/flavonoids/) undergo extensive Phase II metabolism. The high dietary fiber content slows gastric emptying and may modulate absorption kinetics of co-administered drugs. Iron and calcium from the plant matrix have moderate bioavailability enhanced by vitamin C co-administration.
+**Bioavailability:** Betalains (amaranthine, isoamaranthine) show moderate oral bioavailability (~20-30%) with rapid absorption in the upper GI tract. [Polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) and [flavonoids](/nighantu/reference/flavonoids/) undergo extensive Phase II metabolism. The high dietary fiber content slows gastric emptying and may modulate absorption kinetics of co-administered drugs. Iron and calcium from the plant matrix have moderate bioavailability enhanced by vitamin C co-administration.
 
 **Optimal Timing:** Before meals for hematinic effect; morning administration with honey or jaggery as traditional vehicle
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Tanduliyaka/meta-analysis.
 
 **Storage:** Store in airtight, light-resistant containers at 15-25 deg C. Betalain-containing products require protection from light, heat, and humidity. Freeze-dried forms stored at 2-8 deg C for maximum stability.
 
-**Marker Compounds:** Amaranthine, Isoamaranthine, [Rutin](/ayurveda-atlas/glossary/compounds-q-t/#rutin), [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/), [Kaempferol](/ayurveda-atlas/reference/kaempferol/), beta-[Sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), Gallic acid, Ferulic acid
+**Marker Compounds:** Amaranthine, Isoamaranthine, [Rutin](/nighantu/glossary/compounds-q-t/#rutin), [Quercetin](/nighantu/reference/quercetinquercetin/), [Kaempferol](/nighantu/reference/kaempferol/), beta-[Sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Gallic acid, Ferulic acid
 
 ### Extraction Methods
 
@@ -73,5 +73,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Tanduliyaka/meta-analysis.
 
 - Amalaki (Emblica officinalis) - vitamin C enhances iron absorption from Tanduliyaka
 - Shunthi - digestive enhancement and anti-inflammatory synergy
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) - [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) potentiation
+- [Guduchi](/nighantu/herb/guduchi/) - [immunomodulatory](/nighantu/reference/immunomodulatory/) potentiation
 - Jaggery - traditional vehicle for hematinic formulations

@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Svarasas-Fresh-Juices/Bhringaraja
 
 | Language | Name |
 |----------|------|
-| English | [Bhringaraja Svarasa](/ayurveda-atlas/formulation/bhringaraja-svarasa/) |
+| English | [Bhringaraja Svarasa](/nighantu/formulation/bhringaraja-svarasa/) |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Svarasas-Fresh-Juices/Bhringaraja
 
 **Standard Dosage:** 10-20 mL twice daily for internal use; externally as hair oil base, as per AFI
 
-**Bioavailability:** Fresh svarasa provides highest bioavailability of [wedelolactone](/ayurveda-atlas/glossary/compounds-t-z/#wedelolactone) (coumestan) and eclalbatin. Rapid oral absorption with peak plasma levels at 1-2 hours. [Hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) activity is superior in fresh juice form compared to dried extracts.
+**Bioavailability:** Fresh svarasa provides highest bioavailability of [wedelolactone](/nighantu/glossary/compounds-t-z/#wedelolactone) (coumestan) and eclalbatin. Rapid oral absorption with peak plasma levels at 1-2 hours. [Hepatoprotective](/nighantu/reference/hepatoprotective/) activity is superior in fresh juice form compared to dried extracts.
 
 **Optimal Timing:** Morning on empty stomach for hepatoprotective effect; externally before bath for hair health
 
@@ -57,7 +57,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Svarasas-Fresh-Juices/Bhringaraja
 
 **Storage:** Fresh juice: use immediately or refrigerate at 2-8°C for up to 24 hours. Preserved: amber glass at room temperature. Oil: amber bottles at room temperature.
 
-**Marker Compounds:** Wedelolactone, [Demethylwedelolactone](/ayurveda-atlas/glossary/compounds-c-d/#demethylwedelolactone), Eclalbatin, Ecliptasaponin A-D, Beta-amyrin, [Luteolin](/ayurveda-atlas/glossary/compounds-l-o/#luteolin)
+**Marker Compounds:** Wedelolactone, [Demethylwedelolactone](/nighantu/glossary/compounds-c-d/#demethylwedelolactone), Eclalbatin, Ecliptasaponin A-D, Beta-amyrin, [Luteolin](/nighantu/glossary/compounds-l-o/#luteolin)
 
 **Quality Parameters:** pH, total solids, wedelolactone content by HPLC (NLT 0.05%), eclalbatin content, total phenolics, microbial limits, heavy metals, pesticide residues, colour and clarity
 
@@ -65,8 +65,8 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Svarasas-Fresh-Juices/Bhringaraja
 
 ### Synergistic Combinations
 
-- [Arogyavardhini Vati](/ayurveda-atlas/formulation/arogyavardhini-vati/) (hepatoprotective)
+- [Arogyavardhini Vati](/nighantu/formulation/arogyavardhini-vati/) (hepatoprotective)
 - Bhringaraja Taila (external)
-- [Triphala](/ayurveda-atlas/herb/triphala/) Churna
-- [Kumaryasava](/ayurveda-atlas/formulation/kumaryasava/)
-- [Punarnava](/ayurveda-atlas/herb/punarnava/) Mandura
+- [Triphala](/nighantu/herb/triphala/) Churna
+- [Kumaryasava](/nighantu/formulation/kumaryasava/)
+- [Punarnava](/nighantu/herb/punarnava/) Mandura

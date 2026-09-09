@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Lohas-Iron-Preparations/Tapy
 
 | Language | Name |
 |----------|------|
-| English | [Tapyadi Loha](/ayurveda-atlas/herb/tapyadi-loha/) |
+| English | [Tapyadi Loha](/nighantu/herb/tapyadi-loha/) |
 
 ## Where is it described in the classical texts?
 
@@ -31,28 +31,28 @@ Ayurveda Sara Sangraha (Ayurved Saar Sangrah); also referenced in classical Rasa
 
 ## How does it work?
 
-- Triple iron source ([Loha Bhasma](/ayurveda-atlas/herb/loha-bhasma/) + [Mandura Bhasma](/ayurveda-atlas/herb/mandura-bhasma/) + Swarnamakshik Bhasma) provides multi-form bioavailable iron for robust hemoglobin synthesis
-- [Raupya Bhasma](/ayurveda-atlas/herb/raupya-bhasma/) (silver calx) has [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) and Pitta-pacifying properties, supporting liver detoxification pathways
-- [Shilajit](/ayurveda-atlas/herb/shilajit/) acts as a potent bioenhancer containing fulvic acid that markedly improves mineral absorption and cellular iron uptake
-- [Daruharidra](/ayurveda-atlas/herb/daruharidra/) (Berberis aristata) contains [berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine), providing [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) and cholagogue effects supporting liver and biliary function
-- [Trikatu](/ayurveda-atlas/herb/trikatu/) enhances bioavailability and digestive fire (Agni deepana) for optimal nutrient assimilation
-- [Triphala](/ayurveda-atlas/herb/triphala/) provides [antioxidant](/ayurveda-atlas/reference/antioxidant/) protection, gentle bowel regulation (preventing iron-induced constipation), and vitamin C for iron absorption
+- Triple iron source ([Loha Bhasma](/nighantu/herb/loha-bhasma/) + [Mandura Bhasma](/nighantu/herb/mandura-bhasma/) + Swarnamakshik Bhasma) provides multi-form bioavailable iron for robust hemoglobin synthesis
+- [Raupya Bhasma](/nighantu/herb/raupya-bhasma/) (silver calx) has [antimicrobial](/nighantu/reference/antimicrobial/) and Pitta-pacifying properties, supporting liver detoxification pathways
+- [Shilajit](/nighantu/herb/shilajit/) acts as a potent bioenhancer containing fulvic acid that markedly improves mineral absorption and cellular iron uptake
+- [Daruharidra](/nighantu/herb/daruharidra/) (Berberis aristata) contains [berberine](/nighantu/glossary/compounds-a-c/#berberine), providing [hepatoprotective](/nighantu/reference/hepatoprotective/) and cholagogue effects supporting liver and biliary function
+- [Trikatu](/nighantu/herb/trikatu/) enhances bioavailability and digestive fire (Agni deepana) for optimal nutrient assimilation
+- [Triphala](/nighantu/herb/triphala/) provides [antioxidant](/nighantu/reference/antioxidant/) protection, gentle bowel regulation (preventing iron-induced constipation), and vitamin C for iron absorption
 
 ## Which traditional uses are supported by research?
 
 - Pandu (anemia) and Kamla (jaundice-like conditions) - validated through traditional clinical use and supported by the known hematinic and hepatoprotective actions of constituent ingredients
-- Liver and spleen disorders (Yakrit-Pliha Roga) - traditional use supported by hepatoprotective properties of [Daruharidra](/ayurveda-atlas/herb/daruharidra/) ([berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine)), [Shilajit](/ayurveda-atlas/herb/shilajit/), and [Triphala](/ayurveda-atlas/herb/triphala/); 2024 toxicity study showed no hepatotoxicity
+- Liver and spleen disorders (Yakrit-Pliha Roga) - traditional use supported by hepatoprotective properties of [Daruharidra](/nighantu/herb/daruharidra/) ([berberine](/nighantu/glossary/compounds-a-c/#berberine)), [Shilajit](/nighantu/herb/shilajit/), and [Triphala](/nighantu/herb/triphala/); 2024 toxicity study showed no hepatotoxicity
 
 ## What do recent clinical trials show?
 
-- **Acute and subacute oral toxicity evaluation of Ayurvedic formulation [Tapyadi Loha](/ayurveda-atlas/herb/tapyadi-loha/) in rats** (2024): [Tapyadi Loha](/ayurveda-atlas/herb/tapyadi-loha/) showed no mortality or signs of toxicity at single oral dose of 2000 mg/kg; 28-day repeated dose at 1000 mg/kg showed no behavioral, hematological, biochemical, or histopathological abnormalities - confirmed safe at tested doses
-- **Review article on efficacy of [Tapyadi Loha](/ayurveda-atlas/herb/tapyadi-loha/)** (2022): Comprehensive review confirmed traditional claims for efficacy in Pandu (anemia), Kamla (jaundice), and hepatosplenic disorders with mechanistic support from constituent pharmacology
+- **Acute and subacute oral toxicity evaluation of Ayurvedic formulation [Tapyadi Loha](/nighantu/herb/tapyadi-loha/) in rats** (2024): [Tapyadi Loha](/nighantu/herb/tapyadi-loha/) showed no mortality or signs of toxicity at single oral dose of 2000 mg/kg; 28-day repeated dose at 1000 mg/kg showed no behavioral, hematological, biochemical, or histopathological abnormalities - confirmed safe at tested doses
+- **Review article on efficacy of [Tapyadi Loha](/nighantu/herb/tapyadi-loha/)** (2022): Comprehensive review confirmed traditional claims for efficacy in Pandu (anemia), Kamla (jaundice), and hepatosplenic disorders with mechanistic support from constituent pharmacology
 
 ## Recent safety updates
 
 - 2024 toxicity study confirmed safety at single dose of 2000 mg/kg and 28-day repeated dose of 1000 mg/kg in rat models with no adverse effects
 - Contains multiple iron sources (Loha + Mandura + Swarnamakshik) - higher cumulative iron intake requires careful monitoring of serum ferritin and iron studies
-- [Raupya Bhasma](/ayurveda-atlas/herb/raupya-bhasma/) (silver) content requires verification of proper preparation (Shodhana) and heavy metal testing per API standards
+- [Raupya Bhasma](/nighantu/herb/raupya-bhasma/) (silver) content requires verification of proper preparation (Shodhana) and heavy metal testing per API standards
 - Contraindicated in hemochromatosis, iron overload conditions, active liver disease (despite hepatoprotective herbs), and during pregnancy without supervision
 - Should be used under strict medical supervision with regular LFT and KFT monitoring; recommended treatment duration should not be exceeded
 
@@ -85,4 +85,4 @@ Ayurveda Sara Sangraha (Ayurved Saar Sangrah); also referenced in classical Rasa
 
 **Quality Parameters:** Multi-metal assay, free metals below safety limits, standard tablet tests
 
-**Vehicle (Anupana):** Honey, [Guduchi](/ayurveda-atlas/herb/guduchi/) Swarasa, or [Triphala](/ayurveda-atlas/herb/triphala/) Kwatha
+**Vehicle (Anupana):** Honey, [Guduchi](/nighantu/herb/guduchi/) Swarasa, or [Triphala](/nighantu/herb/triphala/) Kwatha

@@ -27,12 +27,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Jatamansi/meta-analysi
 
 ## How does it work?
 
-- MAO-A and MAO-B inhibition: Decreases whole brain MAO-A and MAO-B activities, increasing levels of monoamines ([serotonin](/ayurveda-atlas/glossary/compounds-q-t/#serotonin), norepinephrine, dopamine).
+- MAO-A and MAO-B inhibition: Decreases whole brain MAO-A and MAO-B activities, increasing levels of monoamines ([serotonin](/nighantu/glossary/compounds-q-t/#serotonin), norepinephrine, dopamine).
 - Serotonin transporter regulation: Modulates serotonin reuptake, increasing synaptic 5-HT and 5-HIAA levels.
-- GABAergic modulation: Influences GABA pathways contributing to [anxiolytic](/ayurveda-atlas/reference/anxiolytic/) and sedative effects.
+- GABAergic modulation: Influences GABA pathways contributing to [anxiolytic](/nighantu/reference/anxiolytic/) and sedative effects.
 - Anti-oxidative stress: Counters oxidative stress and excitotoxic damage in neuronal tissue.
-- Alpha-glucosidase and alpha-amylase inhibition: Dual enzyme inhibition with preferential alpha-glucosidase selectivity for potential [antidiabetic](/ayurveda-atlas/reference/antidiabetic/) action.
-- [Neuroprotective](/ayurveda-atlas/reference/neuroprotective/) phytochemicals (jatamansinone, eselin, jatamansinol) bind MAO-B active site similarly to safinamide, suggesting potential in Parkinson's disease management.
+- Alpha-glucosidase and alpha-amylase inhibition: Dual enzyme inhibition with preferential alpha-glucosidase selectivity for potential [antidiabetic](/nighantu/reference/antidiabetic/) action.
+- [Neuroprotective](/nighantu/reference/neuroprotective/) phytochemicals (jatamansinone, eselin, jatamansinol) bind MAO-B active site similarly to safinamide, suggesting potential in Parkinson's disease management.
 
 ## Modern Research (Meta-Analysis)
 
@@ -46,7 +46,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Jatamansi/meta-analysi
 **Journal:** Fitoterapia (2024)
 **PMID:** 38042505
 
-> A member of the Valerianacae family, Nardostachys jatamansi is the smallest, most primitive, perennial, dwarf, hairy, rhizomatous, herbaceous species. It has an enlarged antiquity of usage as ayurvedic medicine, homeopathic medicine, ethnomedicine, and the Indian system of medicine, and is now used in the modern medicine industry. In the ayurvedic medical system, the rhizomes of the plant are used as a bitter tonic, stimulant, [antispasmodic](/ayurveda-atlas/glossary/pharmacology/#antispasmodic), epileptic treatment, and for hysteria. Pharmacological reports on Nardostachys jatamansi revealed its antifungal activity, [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) activity, central nervous system activity, anticonvulsant activity, neuroprotective activity, antiparkinson's activity, [antioxidant](/ayurveda-atlas/reference/antioxidant/) activity, antidiabetic activity, tranquilizing activity, antiestrogenic activity f...
+> A member of the Valerianacae family, Nardostachys jatamansi is the smallest, most primitive, perennial, dwarf, hairy, rhizomatous, herbaceous species. It has an enlarged antiquity of usage as ayurvedic medicine, homeopathic medicine, ethnomedicine, and the Indian system of medicine, and is now used in the modern medicine industry. In the ayurvedic medical system, the rhizomes of the plant are used as a bitter tonic, stimulant, [antispasmodic](/nighantu/glossary/pharmacology/#antispasmodic), epileptic treatment, and for hysteria. Pharmacological reports on Nardostachys jatamansi revealed its antifungal activity, [hepatoprotective](/nighantu/reference/hepatoprotective/) activity, central nervous system activity, anticonvulsant activity, neuroprotective activity, antiparkinson's activity, [antioxidant](/nighantu/reference/antioxidant/) activity, antidiabetic activity, tranquilizing activity, antiestrogenic activity f...
 
 **Keywords:** Nardostachys jatamansi, Pharmacological activities, Phytochemicals, Sesquiterpenes
 
@@ -58,7 +58,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Jatamansi/meta-analysi
 
 > Nardostachys jatamansi (D.Don) DC. (family Caprifoliaceae) is prized in the Chinese, Tibetan, Nepalese, Bhutanese, Indian and Japanese systems of medicine. Its medicinal properties are well documented in ancient literature such as the Ayurvedic classics, the Old Testament, Ben-Cao- Shi-Yi, and Homer's Iliad. The plant is critically endangered and found in the alpine and sub-alpine regions of the Himalayas....
 
-**Keywords:** Caprifoliaceae, Critically endangered, Himalayas, Jatamansi, [Nootropic](/ayurveda-atlas/glossary/pharmacology/#nootropic), Spikenard
+**Keywords:** Caprifoliaceae, Critically endangered, Himalayas, Jatamansi, [Nootropic](/nighantu/glossary/pharmacology/#nootropic), Spikenard
 
 #### 3. Jatamansinol from Nardostachys jatamansi (D.Don) DC. Protects Aβ
 
@@ -76,7 +76,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Jatamansi/meta-analysi
 **Journal:** Molecular neurobiology (2022)
 **PMID:** 35864434
 
-> Nardostachys jatamansi has long been used to prepare Medhya [Rasayana](/ayurveda-atlas/reference/rasayana/) in traditional Indian Ayurveda medicine to treat neurological disorders and enhance memory. Jatamansinol from the N. jatamansi against Alzheimer's disease (AD) showed that it could be a multitargeted drug against AD. Drosophila is an ideal model organism for studying a progressive age-related neurodegenerative disease such as AD since its neuronal organizations and functioning are highly similar to that of humans. The current study investigates the neuroprotective properties of jatamansinol against Tau-induced neurotoxicity in the AD Drosophila model. Results indicate jatamansinol is not an antifeedant for larva and adult Drosophila. Lifespan, locomotor activity, learning and memory, Tau protein expression level, eye dege...
+> Nardostachys jatamansi has long been used to prepare Medhya [Rasayana](/nighantu/reference/rasayana/) in traditional Indian Ayurveda medicine to treat neurological disorders and enhance memory. Jatamansinol from the N. jatamansi against Alzheimer's disease (AD) showed that it could be a multitargeted drug against AD. Drosophila is an ideal model organism for studying a progressive age-related neurodegenerative disease such as AD since its neuronal organizations and functioning are highly similar to that of humans. The current study investigates the neuroprotective properties of jatamansinol against Tau-induced neurotoxicity in the AD Drosophila model. Results indicate jatamansinol is not an antifeedant for larva and adult Drosophila. Lifespan, locomotor activity, learning and memory, Tau protein expression level, eye dege...
 
 **Keywords:** Drosophila, Memory, Nardostachys jatamansi, Oxidative stress, Pyranocoumarin, Tau protein
 
@@ -118,7 +118,7 @@ RESULTS: Both NJ-1A and Nar could significantly suppress LPS-induced production 
 **Journal:** Biological & pharmaceutical bulletin (2018)
 **PMID:** 29398668
 
-> The Nardostachys jatamansi DC (NJ) root has been used as a sedative or [analgesic](/ayurveda-atlas/reference/analgesic/) to treat neurological symptoms and pain in traditional Korean medicine. Here, we investigate the potential effects of NJ on Alzheimer's disease (AD) and reveal the molecular mechanism through which NJ exerts its effects. The neuroprotective effect of the NJ root ethanol extract against β amyloid (Aβ) toxicity was examined in vitro using a cell culture system and in vivo using a Drosophila AD model. The NJ extract and chlorogenic acid, a major component of NJ, inhibited Aβ-induced cell death in SH-SY5Y cells. Moreover, the NJ extract rescued the neurological phenotypes of the Aβ42-expressing flies (decreased survival and pupariation rate and a locomotor defect) and suppressed Aβ42-induced cell death in the brai...
+> The Nardostachys jatamansi DC (NJ) root has been used as a sedative or [analgesic](/nighantu/reference/analgesic/) to treat neurological symptoms and pain in traditional Korean medicine. Here, we investigate the potential effects of NJ on Alzheimer's disease (AD) and reveal the molecular mechanism through which NJ exerts its effects. The neuroprotective effect of the NJ root ethanol extract against β amyloid (Aβ) toxicity was examined in vitro using a cell culture system and in vivo using a Drosophila AD model. The NJ extract and chlorogenic acid, a major component of NJ, inhibited Aβ-induced cell death in SH-SY5Y cells. Moreover, the NJ extract rescued the neurological phenotypes of the Aβ42-expressing flies (decreased survival and pupariation rate and a locomotor defect) and suppressed Aβ42-induced cell death in the brai...
 
 **Keywords:** Alzheimer’s disease, Drosophila, Nardostachys jatamansi, anti-inflammation, antioxidant, extracellular-signal-regulated kinase
 
@@ -151,11 +151,11 @@ RESULTS: Both NJ-1A and Nar could significantly suppress LPS-induced production 
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Tablet, Capsule, Taila (oil), Kashayam (decoction), [Arka](/ayurveda-atlas/herb/arka/) (distillate), Essential oil, [Ghrita](/ayurveda-atlas/herb/ghrita/) (medicated ghee)
+**Dosage Forms:** Churna (powder), Tablet, Capsule, Taila (oil), Kashayam (decoction), [Arka](/nighantu/herb/arka/) (distillate), Essential oil, [Ghrita](/nighantu/herb/ghrita/) (medicated ghee)
 
 **Standard Dosage:** 1-3g powder twice daily; 250-500mg extract; 5-15ml medicated oil (external); 3-5 drops essential oil (aromatherapy)
 
-**Bioavailability:** Nardostachys jatamansi rhizome contains sesquiterpenes ([jatamansone](/ayurveda-atlas/glossary/compounds-g-l/#jatamansone)/valeranone), [iridoids](/ayurveda-atlas/glossary/compounds-g-l/#iridoids) (nardosinone), and [lignans](/ayurveda-atlas/glossary/compounds-g-l/#lignans). Jatamansone has moderate lipophilic absorption; Tmax ~2-3 hours. Nardosinone shows good blood-brain barrier penetration, supporting its anxiolytic/sedative effects. Co-administration with Ghee (traditional Ghrita preparation) enhances lipophilic compound absorption. Essential oil components absorbed via inhalation route for aromatherapy.
+**Bioavailability:** Nardostachys jatamansi rhizome contains sesquiterpenes ([jatamansone](/nighantu/glossary/compounds-g-l/#jatamansone)/valeranone), [iridoids](/nighantu/glossary/compounds-g-l/#iridoids) (nardosinone), and [lignans](/nighantu/glossary/compounds-g-l/#lignans). Jatamansone has moderate lipophilic absorption; Tmax ~2-3 hours. Nardosinone shows good blood-brain barrier penetration, supporting its anxiolytic/sedative effects. Co-administration with Ghee (traditional Ghrita preparation) enhances lipophilic compound absorption. Essential oil components absorbed via inhalation route for aromatherapy.
 
 **Optimal Timing:** At bedtime with warm milk or ghee for sleep and anxiety; morning dose with water for cognitive support
 
@@ -173,12 +173,12 @@ RESULTS: Both NJ-1A and Nar could significantly suppress LPS-induced production 
 - Steam distillation (essential oil, 1-2% yield from rhizome)
 - Supercritical CO2 extraction for sesquiterpene-enriched fraction
 - Aqueous decoction (traditional)
-- Oil maceration in sesame/[coconut oil](/ayurveda-atlas/glossary/concepts-a-m/#coconut-oil) for Taila
+- Oil maceration in sesame/[coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil) for Taila
 
 ### Synergistic Combinations
 
-- With [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) for anxiety and insomnia
-- With [Brahmi](/ayurveda-atlas/herb/brahmi/) for cognitive support and stress relief
-- With [Vacha](/ayurveda-atlas/herb/vacha/) for memory enhancement
-- With [Tagara](/ayurveda-atlas/herb/tagara/) (Valeriana) for sleep induction
-- With [Shankhpushpi](/ayurveda-atlas/herb/shankhpushpi/) for mental health support
+- With [Ashwagandha](/nighantu/herb/ashwagandha/) for anxiety and insomnia
+- With [Brahmi](/nighantu/herb/brahmi/) for cognitive support and stress relief
+- With [Vacha](/nighantu/herb/vacha/) for memory enhancement
+- With [Tagara](/nighantu/herb/tagara/) (Valeriana) for sleep induction
+- With [Shankhpushpi](/nighantu/herb/shankhpushpi/) for mental health support

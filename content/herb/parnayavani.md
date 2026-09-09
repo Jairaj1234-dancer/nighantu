@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Parnayavani/meta-analysis.
 
 **Standard Dosage:** 1-2 g dried herb powder twice daily; 5-10 mL fresh juice daily; 300-500 mg extract twice daily; 2-3 drops essential oil for steam inhalation
 
-**Bioavailability:** [Carvacrol](/ayurveda-atlas/glossary/compounds-a-c/#carvacrol) and [thymol](/ayurveda-atlas/glossary/compounds-t-z/#thymol) (major volatile phenols) have good oral bioavailability (50-70%) with rapid absorption from GI tract. These phenols undergo Phase II conjugation (glucuronidation, sulfation) in the liver. Inhalation route provides rapid pulmonary absorption of volatile compounds with near-complete bioavailability. Rosmarinic acid from the herb has moderate oral bioavailability (~25-35%).
+**Bioavailability:** [Carvacrol](/nighantu/glossary/compounds-a-c/#carvacrol) and [thymol](/nighantu/glossary/compounds-t-z/#thymol) (major volatile phenols) have good oral bioavailability (50-70%) with rapid absorption from GI tract. These phenols undergo Phase II conjugation (glucuronidation, sulfation) in the liver. Inhalation route provides rapid pulmonary absorption of volatile compounds with near-complete bioavailability. Rosmarinic acid from the herb has moderate oral bioavailability (~25-35%).
 
 **Optimal Timing:** For respiratory conditions: after meals or between meals, 2-3 times daily. Steam inhalation: as needed for congestion. Essential oil: not for internal use without proper formulation.
 
@@ -72,8 +72,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Parnayavani/meta-analysis.
 
 ### Synergistic Combinations
 
-- [Tulsi](/ayurveda-atlas/herb/tulsi/) (respiratory and [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) synergy)
-- Adrak/[Ginger](/ayurveda-atlas/herb/ginger/) (cough and cold combination)
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) (throat-soothing [expectorant](/ayurveda-atlas/reference/expectorant/) formula)
-- [Vasa](/ayurveda-atlas/herb/vasa/) ([bronchodilator](/ayurveda-atlas/reference/bronchodilator/) and mucolytic combination)
-- [Pippali](/ayurveda-atlas/herb/pippali/) (respiratory tract and bioenhancement)
+- [Tulsi](/nighantu/herb/tulsi/) (respiratory and [antimicrobial](/nighantu/reference/antimicrobial/) synergy)
+- Adrak/[Ginger](/nighantu/herb/ginger/) (cough and cold combination)
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (throat-soothing [expectorant](/nighantu/reference/expectorant/) formula)
+- [Vasa](/nighantu/herb/vasa/) ([bronchodilator](/nighantu/reference/bronchodilator/) and mucolytic combination)
+- [Pippali](/nighantu/herb/pippali/) (respiratory tract and bioenhancement)

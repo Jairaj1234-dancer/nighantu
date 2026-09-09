@@ -23,24 +23,24 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Chandraprabha-Vati/
 
 | Language | Name |
 |----------|------|
-| English | [Chandraprabha](/ayurveda-atlas/herb/chandraprabha/) Vati |
+| English | [Chandraprabha](/nighantu/herb/chandraprabha/) Vati |
 
 ## Key Ingredients
 
-- [Chandraprabha](/ayurveda-atlas/herb/chandraprabha/) ([Camphor](/ayurveda-atlas/herb/camphor/))
-- [Vacha](/ayurveda-atlas/herb/vacha/) (Acorus calamus)
+- [Chandraprabha](/nighantu/herb/chandraprabha/) ([Camphor](/nighantu/herb/camphor/))
+- [Vacha](/nighantu/herb/vacha/) (Acorus calamus)
 - Musta (Cyperus rotundus)
-- [Guggulu](/ayurveda-atlas/formulation/guggulu/) (Commiphora mukul)
-- [Shilajit](/ayurveda-atlas/herb/shilajit/) (mineral pitch)
-- [Loha Bhasma](/ayurveda-atlas/herb/loha-bhasma/) (iron calx)
-- [Triphala](/ayurveda-atlas/herb/triphala/) ([Haritaki](/ayurveda-atlas/herb/haritaki/), [Bibhitaki](/ayurveda-atlas/herb/bibhitaki/), Amalaki)
-- [Trikatu](/ayurveda-atlas/herb/trikatu/) (Shunthi, Maricha, [Pippali](/ayurveda-atlas/herb/pippali/))
-- [Vidanga](/ayurveda-atlas/herb/vidanga/) (Embelia ribes)
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) (Tinospora cordifolia)
-- [Devadaru](/ayurveda-atlas/herb/devadaru/) (Cedrus deodara)
+- [Guggulu](/nighantu/formulation/guggulu/) (Commiphora mukul)
+- [Shilajit](/nighantu/herb/shilajit/) (mineral pitch)
+- [Loha Bhasma](/nighantu/herb/loha-bhasma/) (iron calx)
+- [Triphala](/nighantu/herb/triphala/) ([Haritaki](/nighantu/herb/haritaki/), [Bibhitaki](/nighantu/herb/bibhitaki/), Amalaki)
+- [Trikatu](/nighantu/herb/trikatu/) (Shunthi, Maricha, [Pippali](/nighantu/herb/pippali/))
+- [Vidanga](/nighantu/herb/vidanga/) (Embelia ribes)
+- [Guduchi](/nighantu/herb/guduchi/) (Tinospora cordifolia)
+- [Devadaru](/nighantu/herb/devadaru/) (Cedrus deodara)
 - Daruharidr (Berberis aristata)
 - Chirata (Swertia chirayita)
-- [Danti](/ayurveda-atlas/herb/danti/) (Baliospermum montanum)
+- [Danti](/nighantu/herb/danti/) (Baliospermum montanum)
 - Total: 37 herbo-mineral ingredients
 
 ## Where is it described in the classical texts?
@@ -51,29 +51,29 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 7 (Vatika Adhikara). Also describ
 
 - Multi-target metabolic modulation: Network pharmacology reveals 328 bioactives acting on multiple targets for obesity, hyperglycemia, and dyslipidemia simultaneously.
 - Anti-inflammatory cytokine suppression: Reduces IL-6 and TNF-alpha secretion in urinary tract and bladder tissue.
-- Anti-hyperglycemic action: Modulates [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose) metabolism and insulin sensitivity pathways, attenuating lipid profile alterations.
-- Mineral bioavailability enhancement: [Shilajit](/ayurveda-atlas/herb/shilajit/)-derived fulvic acid increases absorption of zinc and [magnesium](/ayurveda-atlas/glossary/compounds-l-o/#magnesium) essential for enzymatic and reproductive functions.
-- [Diuretic](/ayurveda-atlas/reference/diuretic/) and litholytic effects: Promotes urine flow and may help dissolve urinary calculi through combined action of [Gokshura](/ayurveda-atlas/herb/gokshura/), [Shilajit](/ayurveda-atlas/herb/shilajit/), and other ingredients.
+- Anti-hyperglycemic action: Modulates [glucose](/nighantu/glossary/compounds-d-g/#glucose) metabolism and insulin sensitivity pathways, attenuating lipid profile alterations.
+- Mineral bioavailability enhancement: [Shilajit](/nighantu/herb/shilajit/)-derived fulvic acid increases absorption of zinc and [magnesium](/nighantu/glossary/compounds-l-o/#magnesium) essential for enzymatic and reproductive functions.
+- [Diuretic](/nighantu/reference/diuretic/) and litholytic effects: Promotes urine flow and may help dissolve urinary calculi through combined action of [Gokshura](/nighantu/herb/gokshura/), [Shilajit](/nighantu/herb/shilajit/), and other ingredients.
 
 ## Which traditional uses are supported by research?
 
 - Urinary tract disorders and cystitis (validated by in vitro anti-inflammatory studies on bladder cells)
-- Prameha/Diabetes management (validated by [antidiabetic](/ayurveda-atlas/reference/antidiabetic/) animal studies and clinical evaluation)
+- Prameha/Diabetes management (validated by [antidiabetic](/nighantu/reference/antidiabetic/) animal studies and clinical evaluation)
 - Metabolic syndrome management (validated by 2024 network pharmacology analysis)
 - Male reproductive health and oligospermia (validated by clinical study showing 15% improvement in sperm count and motility)
 
 ## What do recent clinical trials show?
 
-- **Network pharmacology analysis of [Chandraprabha](/ayurveda-atlas/herb/chandraprabha/) Vati: A new hope for the treatment of Metabolic Syndrome** (2024): Analyzed 328 bioactives from 16 of the 37 herbo-mineral ingredients using network pharmacology. Identified multiple targets addressing metabolic syndrome components including obesity, hyperglycemia, dyslipidemia, glucose intolerance, mitochondrial dysfunction, and inflammation.
-- **Anti-inflammatory activity of [Chandraprabha](/ayurveda-atlas/herb/chandraprabha/) Vati aqueous extract on bladder cells** (2020): Aqueous extracts reduced IL-6 and TNF-alpha secretion when bladder cells were exposed to E. coli endotoxins, demonstrating anti-inflammatory pathways relevant to UTI management.
-- **Antidiabetic activity of [Chandraprabha](/ayurveda-atlas/herb/chandraprabha/) Vati - A classical Ayurvedic formulation** (2021): Exhibited anti-hyperglycemic effect and attenuated alterations in lipid profile in animal studies. Showed significant reduction in blood glucose levels and improved lipid parameters.
-- **Metabolomics of [Shilajit](/ayurveda-atlas/herb/shilajit/) fulvic acid in [Chandraprabha](/ayurveda-atlas/herb/chandraprabha/) Vati** (2022): Metabolomics mapping showed increased bioavailability of trace minerals (zinc, magnesium) from [Shilajit](/ayurveda-atlas/herb/shilajit/) component, crucial for normal reproductive functions and metabolic health.
-- **Effect of Nishamalaki and [Chandraprabha](/ayurveda-atlas/herb/chandraprabha/) Vati in Management of Diabetic Patients** (2020): Clinical evaluation showed combined treatment significantly improved glycemic control parameters in diabetic patients, supporting the formulation's traditional use in Prameha (urinary/metabolic disorders).
+- **Network pharmacology analysis of [Chandraprabha](/nighantu/herb/chandraprabha/) Vati: A new hope for the treatment of Metabolic Syndrome** (2024): Analyzed 328 bioactives from 16 of the 37 herbo-mineral ingredients using network pharmacology. Identified multiple targets addressing metabolic syndrome components including obesity, hyperglycemia, dyslipidemia, glucose intolerance, mitochondrial dysfunction, and inflammation.
+- **Anti-inflammatory activity of [Chandraprabha](/nighantu/herb/chandraprabha/) Vati aqueous extract on bladder cells** (2020): Aqueous extracts reduced IL-6 and TNF-alpha secretion when bladder cells were exposed to E. coli endotoxins, demonstrating anti-inflammatory pathways relevant to UTI management.
+- **Antidiabetic activity of [Chandraprabha](/nighantu/herb/chandraprabha/) Vati - A classical Ayurvedic formulation** (2021): Exhibited anti-hyperglycemic effect and attenuated alterations in lipid profile in animal studies. Showed significant reduction in blood glucose levels and improved lipid parameters.
+- **Metabolomics of [Shilajit](/nighantu/herb/shilajit/) fulvic acid in [Chandraprabha](/nighantu/herb/chandraprabha/) Vati** (2022): Metabolomics mapping showed increased bioavailability of trace minerals (zinc, magnesium) from [Shilajit](/nighantu/herb/shilajit/) component, crucial for normal reproductive functions and metabolic health.
+- **Effect of Nishamalaki and [Chandraprabha](/nighantu/herb/chandraprabha/) Vati in Management of Diabetic Patients** (2020): Clinical evaluation showed combined treatment significantly improved glycemic control parameters in diabetic patients, supporting the formulation's traditional use in Prameha (urinary/metabolic disorders).
 
 ## Recent safety updates
 
 - No major side effects or serious adverse reactions reported at recommended therapeutic doses (250-500 mg twice daily). Over-dosage may cause mild burning sensation in the abdomen.
-- Contains [Loha Bhasma](/ayurveda-atlas/herb/loha-bhasma/) (iron calx) and other mineral bhasmas; should be avoided in conditions of iron overload and not taken concurrently with certain modern medicines without medical supervision.
+- Contains [Loha Bhasma](/nighantu/herb/loha-bhasma/) (iron calx) and other mineral bhasmas; should be avoided in conditions of iron overload and not taken concurrently with certain modern medicines without medical supervision.
 - Contraindicated in pregnancy. Extra precautions advised for children and elderly. Patients with renal impairment should consult a physician due to mineral content.
 
 ## What is it made of?
@@ -91,7 +91,7 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 7 (Vatika Adhikara). Also describ
 
 **Standard Dosage:** 250-500 mg twice daily with warm water or milk, as per AFI Part I
 
-**Bioavailability:** [Guggulu](/ayurveda-atlas/formulation/guggulu/) acts as yogavahi (bioenhancer), carrying active compounds to target tissues. Shilajatu (fulvic acid) enhances mineral absorption. Bhasma nano-particles (50-100 nm) provide high bioavailability. [Piperine](/ayurveda-atlas/reference/piperine/) from [Trikatu](/ayurveda-atlas/herb/trikatu/) enhances absorption of all co-ingredients.
+**Bioavailability:** [Guggulu](/nighantu/formulation/guggulu/) acts as yogavahi (bioenhancer), carrying active compounds to target tissues. Shilajatu (fulvic acid) enhances mineral absorption. Bhasma nano-particles (50-100 nm) provide high bioavailability. [Piperine](/nighantu/reference/piperine/) from [Trikatu](/nighantu/herb/trikatu/) enhances absorption of all co-ingredients.
 
 **Optimal Timing:** After meals, twice daily, or as directed. Often taken with meals for urogenital conditions.
 
@@ -99,15 +99,15 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 7 (Vatika Adhikara). Also describ
 
 **Storage:** Store in airtight containers in a cool, dry place. Protect from moisture. Temperature not exceeding 30°C.
 
-**Marker Compounds:** Fulvic acid (from Shilajatu), Z-Guggulsterone, E-Guggulsterone, Piperine, Gallic acid, [Embelin](/ayurveda-atlas/glossary/compounds-d-g/#embelin) (from [Vidanga](/ayurveda-atlas/herb/vidanga/))
+**Marker Compounds:** Fulvic acid (from Shilajatu), Z-Guggulsterone, E-Guggulsterone, Piperine, Gallic acid, [Embelin](/nighantu/glossary/compounds-d-g/#embelin) (from [Vidanga](/nighantu/herb/vidanga/))
 
-**Quality Parameters:** Weight variation (±5%), hardness, friability (<1%), disintegration time (<30 min), moisture (<6%), [Loha Bhasma](/ayurveda-atlas/herb/loha-bhasma/) quality tests, free mercury/arsenic (nil/within limits), total heavy metals within pharmacopoeial limits, Shilajatu identity (fulvic acid content), HPTLC fingerprint, microbial limits
+**Quality Parameters:** Weight variation (±5%), hardness, friability (<1%), disintegration time (<30 min), moisture (<6%), [Loha Bhasma](/nighantu/herb/loha-bhasma/) quality tests, free mercury/arsenic (nil/within limits), total heavy metals within pharmacopoeial limits, Shilajatu identity (fulvic acid content), HPTLC fingerprint, microbial limits
 
 **Vehicle (Anupana):** Warm water, milk, or as directed based on condition
 
 ### Synergistic Combinations
 
-- Gokshuradi [Guggulu](/ayurveda-atlas/formulation/guggulu/)|Gokshuradi Guggulu
+- Gokshuradi [Guggulu](/nighantu/formulation/guggulu/)|Gokshuradi Guggulu
 - Punarnavadi Kwath
 - Shilapravang Vati
-- [Varunadi Kwath](/ayurveda-atlas/glossary/concepts-m-y/#varunadi-kwath)
+- [Varunadi Kwath](/nighantu/glossary/concepts-m-y/#varunadi-kwath)

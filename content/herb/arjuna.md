@@ -46,22 +46,22 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Arjuna/meta-analysis.md"
 - Arjunolic acid
 - Arjunic acid
 - Arjungenin
-- [Arjunetin](/ayurveda-atlas/glossary/compounds-1-a/#arjunetin)
-- [Tannins](/ayurveda-atlas/reference/tannins/)
-- [Flavonoids](/ayurveda-atlas/reference/flavonoids/) ([luteolin](/ayurveda-atlas/glossary/compounds-l-o/#luteolin))
+- [Arjunetin](/nighantu/glossary/compounds-1-a/#arjunetin)
+- [Tannins](/nighantu/reference/tannins/)
+- [Flavonoids](/nighantu/reference/flavonoids/) ([luteolin](/nighantu/glossary/compounds-l-o/#luteolin))
 
 ## Therapeutic Actions (Karma)
 
 - Cardiotonic
-- [Antihypertensive](/ayurveda-atlas/glossary/pharmacology/#antihypertensive)
+- [Antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive)
 - Anti-ischemic
-- [Antioxidant](/ayurveda-atlas/reference/antioxidant/)
-- [Hypolipidemic](/ayurveda-atlas/glossary/pharmacology/#hypolipidemic)
+- [Antioxidant](/nighantu/reference/antioxidant/)
+- [Hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic)
 - Wound healing
 
 ## How does it work?
 
-- Arjunolic acid (pentacyclic triterpenoid saponin) is the primary [cardioprotective](/ayurveda-atlas/reference/cardioprotective/) compound, inhibiting thrombin-induced platelet aggregation (IC50: 0.048 mM, more potent than aspirin at 0.088 mM)
+- Arjunolic acid (pentacyclic triterpenoid saponin) is the primary [cardioprotective](/nighantu/reference/cardioprotective/) compound, inhibiting thrombin-induced platelet aggregation (IC50: 0.048 mM, more potent than aspirin at 0.088 mM)
 - Prevents doxorubicin-induced cardiac apoptosis by blocking JNK-p38 and p53 signaling pathways
 - Reverses cardiac fibrosis by inhibiting non-canonical TGF-beta signaling via TAK1 phosphorylation blockade, reducing p38 MAPK and NF-kB p65 activation
 - Boosts endogenous antioxidant defense: increases catalase, superoxide dismutase, and glutathione S-transferase activity
@@ -83,7 +83,7 @@ Named after Arjuna of Mahabharata. Vagbhata describes Arjuna Ksheerapaka for Hri
 ## What do recent clinical trials show?
 
 - **Terminalia arjuna, a Cardioprotective Herbal Medicine - Relevancy in the Modern Era of Pharmaceuticals and Green Nanomedicine** (2023): Review examining T. arjuna's pleiotropic cardiovascular effects including anti-atherogenic, hypotensive, inotropic, anti-inflammatory, anti-thrombotic and antioxidant actions, with exploration of nano-formulation approaches for improved bioavailability.
-- **Terminalia arjuna: An overview of its magical properties** (2025): Comprehensive overview documenting cardiovascular properties attributed to flavonoids, [polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols), [triterpenoids](/ayurveda-atlas/glossary/compounds-t-z/#triterpenoids), tannins, [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides), and minerals. Highlighted need for more rigorous clinical trials.
+- **Terminalia arjuna: An overview of its magical properties** (2025): Comprehensive overview documenting cardiovascular properties attributed to flavonoids, [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols), [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids), tannins, [glycosides](/nighantu/glossary/compounds-g-l/#glycosides), and minerals. Highlighted need for more rigorous clinical trials.
 - **Cardioprotective effects of arjunolic acid in LPS-stimulated H9C2 and C2C12 myotubes via the MyD88-dependent TLR4 signaling pathway** (2023): Demonstrated arjunolic acid exerts cardioprotection by inhibiting MyD88-dependent TLR4 signaling, reducing LPS-induced cardiac inflammation and oxidative stress in cellular models.
 - **Nutritional Composition, Phytochemical Profile, Extraction Methods of Bioactive Components, and Health Benefits of Terminalia Arjuna Bark** (2025): Detailed phytochemical profiling of T. arjuna bark identifying optimal extraction methods for maximizing yield of cardioprotective triterpenoids and polyphenols.
 - **Clinical efficacy of water extract of stem bark of T. arjuna in patients of chronic heart failure: double-blind RCT** (2016): When added to standard pharmacotherapy in chronic heart failure for 12 weeks, Arjuna extract showed no significant change in LVEF but improved functional capacity, antioxidant reserves, and symptom-related quality of life. (Most recent large RCT available)
@@ -93,7 +93,7 @@ Named after Arjuna of Mahabharata. Vagbhata describes Arjuna Ksheerapaka for Hri
 - No serious side effects reported with arjuna therapy in clinical studies; long-term safety data still limited
 - Adverse reactions similar to placebo: constipation, headache, abdominal discomfort, body ache
 - Drug interaction WARNING: may potentiate anticoagulant effects of warfarin due to inherent antiplatelet and anticoagulant properties similar to aspirin
-- Inhibits CYP3A4, CYP2D6, and CYP2C9 [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes) in human liver microsomes in vitro - caution with drugs metabolized by these enzymes
+- Inhibits CYP3A4, CYP2D6, and CYP2C9 [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) in human liver microsomes in vitro - caution with drugs metabolized by these enzymes
 - In vivo pharmacokinetic study showed aqueous extract did not significantly alter pharmacokinetic parameters of probe substrates, suggesting in vitro findings may not fully translate
 - High doses in animal studies associated with hepatotoxicity and hypothyroidism in rats
 - Co-administration with statins, calcium channel blockers, and other CYP3A4 substrates requires medical supervision
@@ -127,11 +127,11 @@ Bark powder: 3-6g/day (with milk or water); Ksheerapaka (milk decoction): 10-20m
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (bark powder), Capsule, Tablet, Kashayam (decoction), Kshirapaka (milk decoction), Arishta ([Arjunarishta](/ayurveda-atlas/formulation/arjunarishta/) — fermented), Ghana Vati (concentrated extract tablet)
+**Dosage Forms:** Churna (bark powder), Capsule, Tablet, Kashayam (decoction), Kshirapaka (milk decoction), Arishta ([Arjunarishta](/nighantu/formulation/arjunarishta/) — fermented), Ghana Vati (concentrated extract tablet)
 
 **Standard Dosage:** 3-6g bark powder twice daily with milk; 500mg-1g extract capsule twice daily; 15-30ml Arjunarishta after meals; Kshirapaka: 3-6g boiled in milk
 
-**Bioavailability:** Moderate oral bioavailability for arjunolic acid (major triterpene, ~8-12% bioavailability) and arjunic acid. Tannins (15-20%) are partially absorbed. Arjungenin is the active aglycone after glycoside hydrolysis. Kshirapaka (milk decoction) significantly enhances bioavailability — milk fat solubilizes [triterpenes](/ayurveda-atlas/glossary/compounds-t-z/#triterpenes), and milk [proteins](/ayurveda-atlas/glossary/compounds-o-q/#proteins) prevent tannin-mediated precipitation. This is a classical example where anupana (vehicle) profoundly affects pharmacokinetics. Nanoparticle and phytosome formulations under development show 3-5x enhanced bioavailability.
+**Bioavailability:** Moderate oral bioavailability for arjunolic acid (major triterpene, ~8-12% bioavailability) and arjunic acid. Tannins (15-20%) are partially absorbed. Arjungenin is the active aglycone after glycoside hydrolysis. Kshirapaka (milk decoction) significantly enhances bioavailability — milk fat solubilizes [triterpenes](/nighantu/glossary/compounds-t-z/#triterpenes), and milk [proteins](/nighantu/glossary/compounds-o-q/#proteins) prevent tannin-mediated precipitation. This is a classical example where anupana (vehicle) profoundly affects pharmacokinetics. Nanoparticle and phytosome formulations under development show 3-5x enhanced bioavailability.
 
 **Optimal Timing:** Kshirapaka or powder with milk early morning and evening for cardiac support. Arjunarishta after meals. Continuous use for minimum 3-6 months recommended for cardiac benefits.
 
@@ -141,7 +141,7 @@ Bark powder: 3-6g/day (with milk or water); Ksheerapaka (milk decoction): 10-20m
 
 **Storage:** Bark powder in airtight containers, cool and dry place below 25°C. Arjunarishta in amber glass at room temperature — improves with age. Capsules with desiccant.
 
-**Marker Compounds:** Arjunolic acid, Arjunic acid, Arjungenin, Arjunetin, Arjunaphthanol, Casuarinin, Gallic acid, Ellagic acid, Luteolin, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
+**Marker Compounds:** Arjunolic acid, Arjunic acid, Arjungenin, Arjunetin, Arjunaphthanol, Casuarinin, Gallic acid, Ellagic acid, Luteolin, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
 
 ### Extraction Methods
 
@@ -153,8 +153,8 @@ Bark powder: 3-6g/day (with milk or water); Ksheerapaka (milk decoction): 10-20m
 
 ### Synergistic Combinations
 
-- With [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) for cardioprotection and stress management
-- With [Punarnava](/ayurveda-atlas/herb/punarnava/) for heart failure and edema
+- With [Ashwagandha](/nighantu/herb/ashwagandha/) for cardioprotection and stress management
+- With [Punarnava](/nighantu/herb/punarnava/) for heart failure and edema
 - With Amalaki for antioxidant cardioprotection
 - With Pushkaramoola for angina and cardiac arrhythmia
-- With [Guggulu](/ayurveda-atlas/formulation/guggulu/) for lipid management
+- With [Guggulu](/nighantu/formulation/guggulu/) for lipid management

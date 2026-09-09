@@ -28,31 +28,31 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Palankya/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Lutein](/ayurveda-atlas/glossary/compounds-l-o/#lutein) and [zeaxanthin](/ayurveda-atlas/glossary/compounds-t-z/#zeaxanthin) ([carotenoids](/ayurveda-atlas/glossary/compounds-a-c/#carotenoids))
+- [Lutein](/nighantu/glossary/compounds-l-o/#lutein) and [zeaxanthin](/nighantu/glossary/compounds-t-z/#zeaxanthin) ([carotenoids](/nighantu/glossary/compounds-a-c/#carotenoids))
 - Beta-carotene
-- [Flavonoids](/ayurveda-atlas/reference/flavonoids/) (patuletin, spinacetin, jaceidin [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides))
+- [Flavonoids](/nighantu/reference/flavonoids/) (patuletin, spinacetin, jaceidin [glycosides](/nighantu/glossary/compounds-g-l/#glycosides))
 - Phenolic acids (p-coumaric acid, ferulic acid)
-- [Ecdysterone](/ayurveda-atlas/glossary/compounds-d-g/#ecdysterone) (phytoecdysteroid)
-- Oxalic acid, [folate](/ayurveda-atlas/glossary/compounds-d-g/#folate), iron, and vitamin K
+- [Ecdysterone](/nighantu/glossary/compounds-d-g/#ecdysterone) (phytoecdysteroid)
+- Oxalic acid, [folate](/nighantu/glossary/compounds-d-g/#folate), iron, and vitamin K
 
 ## How does it work?
 
 - Ocular health through lutein and zeaxanthin accumulation in macula, filtering blue light and protecting against age-related macular degeneration
 - Anti-cancer activity via glycolipid-mediated inhibition of DNA polymerase and anti-proliferative effects on cancer cell lines
 - Anti-inflammatory mechanism through ecdysterone-mediated modulation of NF-kB pathway and phenolic acid-mediated COX inhibition
-- [Neuroprotective](/ayurveda-atlas/reference/neuroprotective/) effects via carotenoid and flavonoid-mediated reduction of oxidative stress in neuronal tissue
+- [Neuroprotective](/nighantu/reference/neuroprotective/) effects via carotenoid and flavonoid-mediated reduction of oxidative stress in neuronal tissue
 
 ## Which traditional uses are supported by research?
 
-- Cooling and pitta-pacifying (Pittahara) - validated through confirmed anti-inflammatory and [antioxidant](/ayurveda-atlas/reference/antioxidant/) cooling properties
-- [Laxative](/ayurveda-atlas/reference/laxative/) (Bhedana) - confirmed mild laxative effect through dietary fiber and [magnesium](/ayurveda-atlas/glossary/compounds-l-o/#magnesium) content
+- Cooling and pitta-pacifying (Pittahara) - validated through confirmed anti-inflammatory and [antioxidant](/nighantu/reference/antioxidant/) cooling properties
+- [Laxative](/nighantu/reference/laxative/) (Bhedana) - confirmed mild laxative effect through dietary fiber and [magnesium](/nighantu/glossary/compounds-l-o/#magnesium) content
 - Blood builder (Raktavardhaka) - supported by high folate and iron content for hemoglobin synthesis (though iron bioavailability reduced by oxalates)
-- Eye health ([Chakshushya](/ayurveda-atlas/herb/chakshushya/)) - strongly validated through lutein and zeaxanthin's proven role in macular health and AMD prevention
+- Eye health ([Chakshushya](/nighantu/herb/chakshushya/)) - strongly validated through lutein and zeaxanthin's proven role in macular health and AMD prevention
 
 ## What do recent clinical trials show?
 
 - **Spinacia oleracea Linn Considered as One of the Most Perfect Foods: A Pharmacological and Phytochemical Review** (2024): Comprehensive review confirming spinach as a rich source of bioactive phytochemicals with validated antioxidant, anti-inflammatory, anti-cancer, anti-obesity, neurological, ocular, and musculoskeletal health benefits.
-- **Spinacia Oleracea: Exploring the Therapeutic Potential in Persian Medicine and Modern Pharmacology** (2024): Bridged traditional Persian/Ayurvedic uses with modern pharmacology; confirmed cooling, laxative, anti-inflammatory, and [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) properties through scientific evidence.
+- **Spinacia Oleracea: Exploring the Therapeutic Potential in Persian Medicine and Modern Pharmacology** (2024): Bridged traditional Persian/Ayurvedic uses with modern pharmacology; confirmed cooling, laxative, anti-inflammatory, and [hepatoprotective](/nighantu/reference/hepatoprotective/) properties through scientific evidence.
 - **Functional properties of spinach phytochemicals and bioactives** (2023): Documented functional properties of spinach glycolipids, carotenoids, and phenolics for prevention of inflammation, oxidative stress, and chronic diseases.
 
 ## Recent safety updates
@@ -79,7 +79,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Palankya/meta-analysis.md"
 
 **Optimal Timing:** Morning or afternoon with meals containing fat for optimal carotenoid absorption. Avoid taking with calcium supplements or dairy simultaneously (oxalate interference). Co-administer with vitamin C source for iron absorption.
 
-**Standardized Extract:** Spray-dried spinach extract (20:1 from fresh) with minimum iron 3%, total [chlorophyll](/ayurveda-atlas/glossary/compounds-c-d/#chlorophyll) >1%, lutein >0.5%. Low-oxalate processed extract with residual oxalate <200 mg/100g.
+**Standardized Extract:** Spray-dried spinach extract (20:1 from fresh) with minimum iron 3%, total [chlorophyll](/nighantu/glossary/compounds-c-d/#chlorophyll) >1%, lutein >0.5%. Low-oxalate processed extract with residual oxalate <200 mg/100g.
 
 **Shelf Life:** Fresh juice: 4-6 hours refrigerated; Dried powder: 12-18 months; Spray-dried extract: 18-24 months; Capsules: 18-24 months
 
@@ -99,7 +99,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Palankya/meta-analysis.md"
 ### Synergistic Combinations
 
 - Amalaki (Vitamin C enhances iron absorption from spinach)
-- [Pippali](/ayurveda-atlas/herb/pippali/) (bioenhancer for mineral absorption)
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) (blood building and immune combination)
+- [Pippali](/nighantu/herb/pippali/) (bioenhancer for mineral absorption)
+- [Guduchi](/nighantu/herb/guduchi/) (blood building and immune combination)
 - Mandoora Bhasma (iron supplementation synergy)
-- [Nimbu](/ayurveda-atlas/herb/nimbu/)/Lemon juice ([citric acid](/ayurveda-atlas/glossary/compounds-c-d/#citric-acidcitric-acid) reduces oxalate-iron binding)
+- [Nimbu](/nighantu/herb/nimbu/)/Lemon juice ([citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid) reduces oxalate-iron binding)

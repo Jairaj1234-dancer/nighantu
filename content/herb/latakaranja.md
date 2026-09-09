@@ -49,17 +49,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Joint-Musculoskeletal/Latakaranja/meta-anal
 
 **Standard Dosage:** 1-3 g seed powder per day; 3-6 g leaf/bark powder; 20-40 mL decoction twice daily. Internal use requires purification (Shodhana).
 
-**Bioavailability:** Moderate bioavailability of diterpenoid compounds. Caesalpins show variable absorption depending on GI pH. [Tannins](/ayurveda-atlas/reference/tannins/) in the extract may reduce absorption of concurrent medications. Cassane-type [diterpenes](/ayurveda-atlas/glossary/compounds-d-g/#diterpenes) undergo hepatic metabolism via CYP450 [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes).
+**Bioavailability:** Moderate bioavailability of diterpenoid compounds. Caesalpins show variable absorption depending on GI pH. [Tannins](/nighantu/reference/tannins/) in the extract may reduce absorption of concurrent medications. Cassane-type [diterpenes](/nighantu/glossary/compounds-d-g/#diterpenes) undergo hepatic metabolism via CYP450 [enzymes](/nighantu/glossary/compounds-d-g/#enzymes).
 
 **Optimal Timing:** Before meals for anti-malarial and antiparasitic indications; with meals for general tonic effects; topical application twice daily
 
-**Standardized Extract:** Purified seed kernel extract (10:1 hydroalcoholic) standardized to minimum 2% caesalpins. Leaf extract standardized to minimum 3% total [flavonoids](/ayurveda-atlas/reference/flavonoids/). Oil extract for topical use at 5-10% concentration.
+**Standardized Extract:** Purified seed kernel extract (10:1 hydroalcoholic) standardized to minimum 2% caesalpins. Leaf extract standardized to minimum 3% total [flavonoids](/nighantu/reference/flavonoids/). Oil extract for topical use at 5-10% concentration.
 
 **Shelf Life:** 24 months for purified powder and capsules; 36 months for tablets; 18 months for topical oil preparations
 
 **Storage:** Store below 25 deg C in airtight, light-resistant containers. Raw seeds can be stored for extended periods due to hard coat. Purified preparations require protection from moisture (RH below 60%).
 
-**Marker Compounds:** Caesalpin, Bonducin, Caesaldekarin, Norcaesalpin, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), Homoisoflavones
+**Marker Compounds:** Caesalpin, Bonducin, Caesaldekarin, Norcaesalpin, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Homoisoflavones
 
 ### Extraction Methods
 
@@ -71,7 +71,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Joint-Musculoskeletal/Latakaranja/meta-anal
 
 ### Synergistic Combinations
 
-- [Karanja](/ayurveda-atlas/herb/karanja/) (dermatological synergy)
-- [Nimba](/ayurveda-atlas/herb/nimba/)/[Neem](/ayurveda-atlas/herb/neem/) ([antimicrobial](/ayurveda-atlas/reference/antimicrobial/) combination)
-- [Haridra](/ayurveda-atlas/herb/haridra/) (anti-inflammatory and wound healing)
-- [Vidanga](/ayurveda-atlas/herb/vidanga/) (antiparasitic potentiation)
+- [Karanja](/nighantu/herb/karanja/) (dermatological synergy)
+- [Nimba](/nighantu/herb/nimba/)/[Neem](/nighantu/herb/neem/) ([antimicrobial](/nighantu/reference/antimicrobial/) combination)
+- [Haridra](/nighantu/herb/haridra/) (anti-inflammatory and wound healing)
+- [Vidanga](/nighantu/herb/vidanga/) (antiparasitic potentiation)
