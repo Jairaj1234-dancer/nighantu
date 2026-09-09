@@ -1,4 +1,4 @@
-# Ayurveda Atlas
+# Nighantu
 
 A static reference encyclopedia of Ayurvedic herbs, classical formulations and instruments,
 published by Age Ayurveda. It exists to earn citations in answer engines (ChatGPT, Claude,

@@ -5,7 +5,7 @@ import { abs, TAGLINE } from '../lib/site';
 
 export const GET: APIRoute = async () => {
   const out: string[] = [
-    '# Ayurveda Atlas',
+    '# Nighantu',
     '',
     `> ${TAGLINE} Published by Age Ayurveda. Every monograph carries a short definitional`,
     '> summary, a key-facts table, classical text references and dated research findings.',

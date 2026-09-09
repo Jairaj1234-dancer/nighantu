@@ -28,27 +28,27 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Khadira/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Catechin](/ayurveda-atlas/reference/catechin/) (flavan-3-ol - primary polyphenol)
-- [Epicatechin](/ayurveda-atlas/glossary/compounds-d-g/#epicatechin)
-- [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/) (flavonol)
-- [Fisetin](/ayurveda-atlas/glossary/compounds-d-g/#fisetinfisetin) (flavonoid with senolytic properties)
-- [Kaempferol](/ayurveda-atlas/reference/kaempferol/)
-- Catechu-tannic acid (condensed [tannins](/ayurveda-atlas/reference/tannins/))
+- [Catechin](/nighantu/reference/catechin/) (flavan-3-ol - primary polyphenol)
+- [Epicatechin](/nighantu/glossary/compounds-d-g/#epicatechin)
+- [Quercetin](/nighantu/reference/quercetinquercetin/) (flavonol)
+- [Fisetin](/nighantu/glossary/compounds-d-g/#fisetinfisetin) (flavonoid with senolytic properties)
+- [Kaempferol](/nighantu/reference/kaempferol/)
+- Catechu-tannic acid (condensed [tannins](/nighantu/reference/tannins/))
 - Acacatechin
-- [Procyanidins](/ayurveda-atlas/glossary/compounds-o-q/#procyanidins)
+- [Procyanidins](/nighantu/glossary/compounds-o-q/#procyanidins)
 
 ## How does it work?
 
-- Catechin-mediated [antioxidant](/ayurveda-atlas/reference/antioxidant/) defense: Catechin and epicatechin scavenge superoxide and hydroxyl radicals, inhibit lipid peroxidation in skin cell membranes, and upregulate endogenous antioxidant [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes)
+- Catechin-mediated [antioxidant](/nighantu/reference/antioxidant/) defense: Catechin and epicatechin scavenge superoxide and hydroxyl radicals, inhibit lipid peroxidation in skin cell membranes, and upregulate endogenous antioxidant [enzymes](/nighantu/glossary/compounds-d-g/#enzymes)
 - Cytotoxic T-cell immunomodulation: Acacia catechu regulates cytotoxic T-cell activity, suppressing overactive immune responses implicated in psoriasis and autoimmune dermatitis
-- Tannin astringent wound healing: Condensed tannins precipitate [proteins](/ayurveda-atlas/glossary/compounds-o-q/#proteins) on wound surfaces forming a protective layer, reduce wound exudation, and promote faster healing through vasoconstriction of superficial blood vessels
-- Blood purification (Rakta Shodhaka) mechanism: [Polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols) promote hepatic detoxification pathways and reduce circulating inflammatory mediators that manifest as skin eruptions
+- Tannin astringent wound healing: Condensed tannins precipitate [proteins](/nighantu/glossary/compounds-o-q/#proteins) on wound surfaces forming a protective layer, reduce wound exudation, and promote faster healing through vasoconstriction of superficial blood vessels
+- Blood purification (Rakta Shodhaka) mechanism: [Polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) promote hepatic detoxification pathways and reduce circulating inflammatory mediators that manifest as skin eruptions
 
 ## Which traditional uses are supported by research?
 
 - Psoriasis management (Ekakushtha): Validated by clinical study showing significant PASI score improvement in 40 patients treated with Khadira powder
 - Blood purification for skin diseases (Raktashodhaka): Khadirarishta formulation validated for eczema, acne, and chronic skin disorders through systemic polyphenol activity
-- Skin allergies and urticaria (Sheetapitta): Traditional use supported by demonstrated T-cell [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) properties
+- Skin allergies and urticaria (Sheetapitta): Traditional use supported by demonstrated T-cell [immunomodulatory](/nighantu/reference/immunomodulatory/) properties
 
 ## What do recent clinical trials show?
 
@@ -78,11 +78,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Khadira/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Kashayam (decoction), Kwatha (concentrated decoction), Sara (heartwood extract — Khadira Sara/Catechu), Tablet, Capsule, Ointment/Cream, [Khadiradi Vati](/ayurveda-atlas/formulation/khadiradi-vati/) (classical lozenge)
+**Dosage Forms:** Kashayam (decoction), Kwatha (concentrated decoction), Sara (heartwood extract — Khadira Sara/Catechu), Tablet, Capsule, Ointment/Cream, [Khadiradi Vati](/nighantu/formulation/khadiradi-vati/) (classical lozenge)
 
-**Standard Dosage:** 50-100 mL decoction twice daily; 500 mg-1 g Khadira Sara with honey; 3-5 g heartwood powder; [Khadiradi Vati](/ayurveda-atlas/formulation/khadiradi-vati/): 1-2 lozenges dissolved slowly in mouth
+**Standard Dosage:** 50-100 mL decoction twice daily; 500 mg-1 g Khadira Sara with honey; 3-5 g heartwood powder; [Khadiradi Vati](/nighantu/formulation/khadiradi-vati/): 1-2 lozenges dissolved slowly in mouth
 
-**Bioavailability:** Catechin and epicatechin have moderate oral bioavailability (20-30%) with significant Phase II conjugation. Catechin glucuronides and sulfates are the primary circulating forms. Catechu (concentrated extract) provides high-dose [catechins](/ayurveda-atlas/glossary/compounds-c-d/#catechins) with improved absorption due to condensed matrix. [Piperine](/ayurveda-atlas/reference/piperine/) co-administration inhibits glucuronidation and improves catechin bioavailability by ~50%. Phytosome technology (catechin-phospholipid complex) shows 4-fold improvement in plasma AUC.
+**Bioavailability:** Catechin and epicatechin have moderate oral bioavailability (20-30%) with significant Phase II conjugation. Catechin glucuronides and sulfates are the primary circulating forms. Catechu (concentrated extract) provides high-dose [catechins](/nighantu/glossary/compounds-c-d/#catechins) with improved absorption due to condensed matrix. [Piperine](/nighantu/reference/piperine/) co-administration inhibits glucuronidation and improves catechin bioavailability by ~50%. Phytosome technology (catechin-phospholipid complex) shows 4-fold improvement in plasma AUC.
 
 **Optimal Timing:** After meals for skin conditions; Khadiradi Vati: dissolve in mouth after meals for oral/throat health; decoction: twice daily between meals for blood purification
 
@@ -92,7 +92,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Khadira/meta-analysis.md"
 
 **Storage:** Khadira Sara is hygroscopic — store in airtight, moisture-proof containers at 15-30°C. Powder protected from humidity. Khadiradi Vati in blister packaging to prevent moisture absorption.
 
-**Marker Compounds:** Catechin, Epicatechin, Epicatechin gallate, [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/), [Fisetin](/ayurveda-atlas/glossary/compounds-d-g/#fisetinfisetin), Kaempferol, [Taxifolin](/ayurveda-atlas/glossary/compounds-t-z/#taxifolin), Procyanidins
+**Marker Compounds:** Catechin, Epicatechin, Epicatechin gallate, [Quercetin](/nighantu/reference/quercetinquercetin/), [Fisetin](/nighantu/glossary/compounds-d-g/#fisetinfisetin), Kaempferol, [Taxifolin](/nighantu/glossary/compounds-t-z/#taxifolin), Procyanidins
 
 ### Extraction Methods
 
@@ -104,9 +104,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Khadira/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Daruharidra](/ayurveda-atlas/herb/daruharidra/) for skin disorders and blood purification
-- [Sariva](/ayurveda-atlas/herb/sariva/) for comprehensive blood purifier (Raktashodhaka)
-- [Manjistha](/ayurveda-atlas/herb/manjistha/) for chronic skin diseases
-- [Haridra](/ayurveda-atlas/herb/haridra/) in Khadiradi formulations for oral health
-- [Nimba](/ayurveda-atlas/herb/nimba/) for allergic dermatitis and eczema
-- [Bakuchi](/ayurveda-atlas/herb/bakuchi/) for vitiligo management
+- [Daruharidra](/nighantu/herb/daruharidra/) for skin disorders and blood purification
+- [Sariva](/nighantu/herb/sariva/) for comprehensive blood purifier (Raktashodhaka)
+- [Manjistha](/nighantu/herb/manjistha/) for chronic skin diseases
+- [Haridra](/nighantu/herb/haridra/) in Khadiradi formulations for oral health
+- [Nimba](/nighantu/herb/nimba/) for allergic dermatitis and eczema
+- [Bakuchi](/nighantu/herb/bakuchi/) for vitiligo management

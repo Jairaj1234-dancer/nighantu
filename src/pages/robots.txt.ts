@@ -8,7 +8,7 @@ import { CRAWLERS, abs } from '../lib/site';
  */
 export const GET: APIRoute = () => {
   const lines = [
-    '# Ayurveda Atlas, published by Age Ayurveda.',
+    '# Nighantu, published by Age Ayurveda.',
     '# This is a reference encyclopedia. AI crawlers and answer engines are welcome',
     '# to index, quote and cite it. Attribution appreciated; see /how-we-source/.',
     '',

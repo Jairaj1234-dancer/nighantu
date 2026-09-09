@@ -23,20 +23,20 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Jatyadi-G
 
 | Language | Name |
 |----------|------|
-| English | Jatyadi [Ghrita](/ayurveda-atlas/herb/ghrita/)|Jatyadi Ghrita |
+| English | Jatyadi [Ghrita](/nighantu/herb/ghrita/)|Jatyadi Ghrita |
 
 ## Key Ingredients
 
-- [Jati](/ayurveda-atlas/herb/jati/) (Jasminum officinale / Jasmine)
-- [Nimba](/ayurveda-atlas/herb/nimba/) (Azadirachta indica / [Neem](/ayurveda-atlas/herb/neem/))
-- [Haridra](/ayurveda-atlas/herb/haridra/) (Curcuma longa / [Turmeric](/ayurveda-atlas/herb/turmeric/))
-- [Sariva](/ayurveda-atlas/herb/sariva/) (Hemidesmus indicus / Indian sarsaparilla)
-- [Haritaki](/ayurveda-atlas/herb/haritaki/) (Terminalia chebula)
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) (Glycyrrhiza glabra / Licorice)
+- [Jati](/nighantu/herb/jati/) (Jasminum officinale / Jasmine)
+- [Nimba](/nighantu/herb/nimba/) (Azadirachta indica / [Neem](/nighantu/herb/neem/))
+- [Haridra](/nighantu/herb/haridra/) (Curcuma longa / [Turmeric](/nighantu/herb/turmeric/))
+- [Sariva](/nighantu/herb/sariva/) (Hemidesmus indicus / Indian sarsaparilla)
+- [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula)
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (Glycyrrhiza glabra / Licorice)
 - Kutki (Picrorhiza kurroa)
 - Siktha (Beeswax)
-- [Tuttha](/ayurveda-atlas/glossary/concepts-m-y/#tuttha) (Copper sulfate)
-- [Ghrita](/ayurveda-atlas/herb/ghrita/) (clarified cow butter)
+- [Tuttha](/nighantu/glossary/concepts-m-y/#tuttha) (Copper sulfate)
+- [Ghrita](/nighantu/herb/ghrita/) (clarified cow butter)
 
 ## Where is it described in the classical texts?
 
@@ -44,10 +44,10 @@ Chakradatta (12th century CE) - earliest clear mention; Sushruta Samhita (wound 
 
 ## How does it work?
 
-- [Neem](/ayurveda-atlas/herb/neem/) ([nimbidin](/ayurveda-atlas/glossary/compounds-l-o/#nimbidin)) provides broad-spectrum antibacterial and antifungal action against wound-infecting pathogens including MRSA
-- [Turmeric](/ayurveda-atlas/herb/turmeric/) ([curcumin](/ayurveda-atlas/herb/curcumin/)) inhibits inflammatory mediators (COX-2, NF-kB) and promotes tissue granulation and re-epithelialization
+- [Neem](/nighantu/herb/neem/) ([nimbidin](/nighantu/glossary/compounds-l-o/#nimbidin)) provides broad-spectrum antibacterial and antifungal action against wound-infecting pathogens including MRSA
+- [Turmeric](/nighantu/herb/turmeric/) ([curcumin](/nighantu/herb/curcumin/)) inhibits inflammatory mediators (COX-2, NF-kB) and promotes tissue granulation and re-epithelialization
 - Jasmine extract provides anti-inflammatory and cooling properties that reduce wound edema and promote healing
-- Copper sulfate ([Tuttha](/ayurveda-atlas/glossary/concepts-m-y/#tuttha)) provides mild antiseptic and astringent action, promoting wound contraction
+- Copper sulfate ([Tuttha](/nighantu/glossary/concepts-m-y/#tuttha)) provides mild antiseptic and astringent action, promoting wound contraction
 - Beeswax (Siktha) creates protective barrier over wound surface while allowing gas exchange, maintaining moist healing environment
 - Ghee base provides lipid nutrition to wound bed, supporting cell membrane repair and tissue regeneration
 
@@ -60,14 +60,14 @@ Chakradatta (12th century CE) - earliest clear mention; Sushruta Samhita (wound 
 
 ## What do recent clinical trials show?
 
-- **Antibacterial and Anti-Inflammatory Potential of Polyherbal Formulation Used in Chronic Wound Healing** (2021): Jatyadi [Ghrita](/ayurveda-atlas/herb/ghrita/)|Jatyadi Ghrita extracts showed significant antibacterial activity against MRSA and multidrug-resistant P. aeruginosa in diabetic foot infections, with MICs ranging from 1.95 to 62.5 mg/mL against Gram-positive bacteria
-- **Topical application of Jatyadi [Ghrita](/ayurveda-atlas/herb/ghrita/)|Jatyadi Ghrita and [Jatyadi Taila](/ayurveda-atlas/formulation/jatyadi-taila/) accelerates wound healing in Sprague-Dawley rats** (2021): Significant wound area reduction of 92-97% on day 42 in gamma-radiation-induced skin wound model, with reduced skin damage scores and bacterial load
-- **Experimental and histopathological observation scoring methods for evaluation of wound healing properties of Jatyadi [Ghrita](/ayurveda-atlas/herb/ghrita/)|Jatyadi Ghrita** (2018): Jatyadi [Ghrita](/ayurveda-atlas/herb/ghrita/)|Jatyadi Ghrita showed wound healing activity comparable to mupirocin HCl, with clinical improvement from second day and significantly higher re-epithelialization rate from day 5 onward
+- **Antibacterial and Anti-Inflammatory Potential of Polyherbal Formulation Used in Chronic Wound Healing** (2021): Jatyadi [Ghrita](/nighantu/herb/ghrita/)|Jatyadi Ghrita extracts showed significant antibacterial activity against MRSA and multidrug-resistant P. aeruginosa in diabetic foot infections, with MICs ranging from 1.95 to 62.5 mg/mL against Gram-positive bacteria
+- **Topical application of Jatyadi [Ghrita](/nighantu/herb/ghrita/)|Jatyadi Ghrita and [Jatyadi Taila](/nighantu/formulation/jatyadi-taila/) accelerates wound healing in Sprague-Dawley rats** (2021): Significant wound area reduction of 92-97% on day 42 in gamma-radiation-induced skin wound model, with reduced skin damage scores and bacterial load
+- **Experimental and histopathological observation scoring methods for evaluation of wound healing properties of Jatyadi [Ghrita](/nighantu/herb/ghrita/)|Jatyadi Ghrita** (2018): Jatyadi [Ghrita](/nighantu/herb/ghrita/)|Jatyadi Ghrita showed wound healing activity comparable to mupirocin HCl, with clinical improvement from second day and significantly higher re-epithelialization rate from day 5 onward
 
 ## Recent safety updates
 
 - Clinical and experimental studies confirm safety for topical application on chronic wounds, burn wounds, and radiation-induced wounds
-- [Tuttha](/ayurveda-atlas/glossary/concepts-m-y/#tuttha) (copper sulfate) content requires careful quality control; excessive copper may cause local irritation in sensitive individuals
+- [Tuttha](/nighantu/glossary/concepts-m-y/#tuttha) (copper sulfate) content requires careful quality control; excessive copper may cause local irritation in sensitive individuals
 - For external use primarily; internal consumption only under strict Ayurvedic practitioner guidance; not for deep puncture wounds without proper wound assessment
 
 ## What is it made of?
@@ -81,27 +81,27 @@ Chakradatta (12th century CE) - earliest clear mention; Sushruta Samhita (wound 
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** [Ghrita](/ayurveda-atlas/herb/ghrita/) (medicated ghee for topical application), Ointment (modern), Cream (modern)
+**Dosage Forms:** [Ghrita](/nighantu/herb/ghrita/) (medicated ghee for topical application), Ointment (modern), Cream (modern)
 
 **Standard Dosage:** Topical application on wounds, ulcers, burns — thin layer 1-2 times daily, as per AFI Part I
 
-**Bioavailability:** Topical ghee base provides excellent wound-bed penetration. Lipid matrix protects active compounds from wound exudate degradation. [Berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine), [curcumin](/ayurveda-atlas/herb/curcumin/), and [azadirachtin](/ayurveda-atlas/glossary/compounds-a-c/#azadirachtin) provide [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) activity directly at wound site. Ghee base provides occlusive barrier promoting moist wound healing.
+**Bioavailability:** Topical ghee base provides excellent wound-bed penetration. Lipid matrix protects active compounds from wound exudate degradation. [Berberine](/nighantu/glossary/compounds-a-c/#berberine), [curcumin](/nighantu/herb/curcumin/), and [azadirachtin](/nighantu/glossary/compounds-a-c/#azadirachtin) provide [antimicrobial](/nighantu/reference/antimicrobial/) activity directly at wound site. Ghee base provides occlusive barrier promoting moist wound healing.
 
 **Optimal Timing:** After wound cleaning, 1-2 times daily. Apply thin layer and cover with sterile dressing if needed.
 
-**Shelf Life:** 2 years from date of manufacture as per ASU guidelines for [Ghrita](/ayurveda-atlas/herb/ghrita/)
+**Shelf Life:** 2 years from date of manufacture as per ASU guidelines for [Ghrita](/nighantu/herb/ghrita/)
 
 **Storage:** Store in airtight glass or tin containers in a cool, dry place. Temperature not exceeding 25°C. Topical wound preparation requires enhanced hygiene during storage and dispensing.
 
-**Marker Compounds:** [Berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine) (from [Daruharidra](/ayurveda-atlas/herb/daruharidra/)), Azadirachtin (from [Nimba](/ayurveda-atlas/herb/nimba/)), [Curcumin](/ayurveda-atlas/herb/curcumin/) (from [Haridra](/ayurveda-atlas/herb/haridra/)), [Karanjin](/ayurveda-atlas/glossary/compounds-g-l/#karanjin) (from Naktamala), [Jasmone](/ayurveda-atlas/glossary/compounds-g-l/#jasmone) (from [Jati](/ayurveda-atlas/herb/jati/))
+**Marker Compounds:** [Berberine](/nighantu/glossary/compounds-a-c/#berberine) (from [Daruharidra](/nighantu/herb/daruharidra/)), Azadirachtin (from [Nimba](/nighantu/herb/nimba/)), [Curcumin](/nighantu/herb/curcumin/) (from [Haridra](/nighantu/herb/haridra/)), [Karanjin](/nighantu/glossary/compounds-g-l/#karanjin) (from Naktamala), [Jasmone](/nighantu/glossary/compounds-g-l/#jasmone) (from [Jati](/nighantu/herb/jati/))
 
-**Quality Parameters:** Acid value (<6), peroxide value (<10), saponification value, refractive index, moisture (<0.5%), rancidity test negative, berberine content from [Daruharidra](/ayurveda-atlas/herb/daruharidra/) by HPLC, azadirachtin from [Nimba](/ayurveda-atlas/herb/nimba/), curcumin from [Haridra](/ayurveda-atlas/herb/haridra/), sterility testing (for wound application), HPTLC fingerprint, microbial limits (strict — wound application), heavy metals
+**Quality Parameters:** Acid value (<6), peroxide value (<10), saponification value, refractive index, moisture (<0.5%), rancidity test negative, berberine content from [Daruharidra](/nighantu/herb/daruharidra/) by HPLC, azadirachtin from [Nimba](/nighantu/herb/nimba/), curcumin from [Haridra](/nighantu/herb/haridra/), sterility testing (for wound application), HPTLC fingerprint, microbial limits (strict — wound application), heavy metals
 
-**Vehicle (Anupana):** Not applicable — topical application only. Clean wound with [Triphala](/ayurveda-atlas/herb/triphala/) Kwath before application.
+**Vehicle (Anupana):** Not applicable — topical application only. Clean wound with [Triphala](/nighantu/herb/triphala/) Kwath before application.
 
 ### Synergistic Combinations
 
-- [Jatyadi Taila](/ayurveda-atlas/formulation/jatyadi-taila/) (oil variant)
-- [Triphala](/ayurveda-atlas/herb/triphala/) Kwath (wound wash)
+- [Jatyadi Taila](/nighantu/formulation/jatyadi-taila/) (oil variant)
+- [Triphala](/nighantu/herb/triphala/) Kwath (wound wash)
 - Haridra Churna
 - Yastimadhuka Taila

@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Ajamodadi-Churna/
 
 | Language | Name |
 |----------|------|
-| English | [Ajamodadi Churna](/ayurveda-atlas/formulation/ajamodadi-churna/) |
+| English | [Ajamodadi Churna](/nighantu/formulation/ajamodadi-churna/) |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Ajamodadi-Churna/
 
 **Standard Dosage:** 3-6 g twice daily with warm water before meals, as per AFI Part I
 
-**Bioavailability:** Fine particle size enhances surface area for dissolution and absorption. [Piperine](/ayurveda-atlas/reference/piperine/) from [Pippali](/ayurveda-atlas/herb/pippali/) and Maricha acts as bioenhancer. Volatile oils from Ajamoda and [Hingu](/ayurveda-atlas/herb/hingu/) promote gastric motility and absorption.
+**Bioavailability:** Fine particle size enhances surface area for dissolution and absorption. [Piperine](/nighantu/reference/piperine/) from [Pippali](/nighantu/herb/pippali/) and Maricha acts as bioenhancer. Volatile oils from Ajamoda and [Hingu](/nighantu/herb/hingu/) promote gastric motility and absorption.
 
 **Optimal Timing:** Before meals (Bhojana-purva), 30 minutes before lunch and dinner
 
@@ -57,7 +57,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Ajamodadi-Churna/
 
 **Storage:** Store in airtight containers in a cool, dry place. Protect from moisture and light. Temperature not exceeding 30°C. Hygroscopic — avoid exposure to humid conditions.
 
-**Marker Compounds:** Piperine, [Thymol](/ayurveda-atlas/glossary/compounds-t-z/#thymol), 6-[Gingerol](/ayurveda-atlas/glossary/compounds-d-g/#gingerol), [Embelin](/ayurveda-atlas/glossary/compounds-d-g/#embelin) (from [Vidanga](/ayurveda-atlas/herb/vidanga/))
+**Marker Compounds:** Piperine, [Thymol](/nighantu/glossary/compounds-t-z/#thymol), 6-[Gingerol](/nighantu/glossary/compounds-d-g/#gingerol), [Embelin](/nighantu/glossary/compounds-d-g/#embelin) (from [Vidanga](/nighantu/herb/vidanga/))
 
 **Quality Parameters:** Loss on drying (<8%), total ash, acid-insoluble ash, particle size distribution (pass through sieve #85), bulk density, tapped density, heavy metals, microbial limits, aflatoxin levels, HPTLC fingerprint for piperine and thymol, uniformity of content
 
@@ -65,7 +65,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Ajamodadi-Churna/
 
 ### Synergistic Combinations
 
-- [Agnitundi Vati](/ayurveda-atlas/formulation/agnitundi-vati/)
-- [Chitrakadi Vati](/ayurveda-atlas/formulation/chitrakadi-vati/)
-- [Hingwashtak Churna](/ayurveda-atlas/formulation/hingwashtak-churna/)
-- [Shankha Bhasma](/ayurveda-atlas/herb/shankha-bhasma/)
+- [Agnitundi Vati](/nighantu/formulation/agnitundi-vati/)
+- [Chitrakadi Vati](/nighantu/formulation/chitrakadi-vati/)
+- [Hingwashtak Churna](/nighantu/formulation/hingwashtak-churna/)
+- [Shankha Bhasma](/nighantu/herb/shankha-bhasma/)

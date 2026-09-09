@@ -36,11 +36,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Fenugreek_Herb/meta-analysis.
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Fresh leaves (culinary/medicinal), Dried leaf powder (Kasuri [Methi](/ayurveda-atlas/herb/methi/)), Capsule (leaf extract), Tablet, Tea/infusion, Tincture
+**Dosage Forms:** Fresh leaves (culinary/medicinal), Dried leaf powder (Kasuri [Methi](/nighantu/herb/methi/)), Capsule (leaf extract), Tablet, Tea/infusion, Tincture
 
 **Standard Dosage:** Fresh leaves: 10-30g in cooking; Dried leaf powder: 2-5g twice daily; 500mg standardized leaf extract capsule twice daily; infusion: 3-5g dried leaf in hot water
 
-**Bioavailability:** Trigonella foenum-graecum leaves contain [flavonoids](/ayurveda-atlas/reference/flavonoids/) ([vitexin](/ayurveda-atlas/glossary/compounds-t-z/#vitexin), [orientin](/ayurveda-atlas/glossary/compounds-o-q/#orientin), [isovitexin](/ayurveda-atlas/glossary/compounds-g-l/#isovitexin)), [saponins](/ayurveda-atlas/reference/saponins/) (at lower levels than seeds), and [chlorophyll](/ayurveda-atlas/glossary/compounds-c-d/#chlorophyll). Flavone C-[glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) (vitexin, orientin) are absorbed intact via SGLT1 transporter with moderate bioavailability (20-35%). Leaf saponin content is lower than seeds, resulting in less GI disturbance. Fenugreek leaf [galactomannan](/ayurveda-atlas/glossary/compounds-d-g/#galactomannan) fiber modulates [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose) absorption (beneficial for glycemic control but may reduce absorption of co-administered drugs). Enhancement: microparticle formulation; cooking in oil/ghee improves lipophilic constituent absorption.
+**Bioavailability:** Trigonella foenum-graecum leaves contain [flavonoids](/nighantu/reference/flavonoids/) ([vitexin](/nighantu/glossary/compounds-t-z/#vitexin), [orientin](/nighantu/glossary/compounds-o-q/#orientin), [isovitexin](/nighantu/glossary/compounds-g-l/#isovitexin)), [saponins](/nighantu/reference/saponins/) (at lower levels than seeds), and [chlorophyll](/nighantu/glossary/compounds-c-d/#chlorophyll). Flavone C-[glycosides](/nighantu/glossary/compounds-g-l/#glycosides) (vitexin, orientin) are absorbed intact via SGLT1 transporter with moderate bioavailability (20-35%). Leaf saponin content is lower than seeds, resulting in less GI disturbance. Fenugreek leaf [galactomannan](/nighantu/glossary/compounds-d-g/#galactomannan) fiber modulates [glucose](/nighantu/glossary/compounds-d-g/#glucose) absorption (beneficial for glycemic control but may reduce absorption of co-administered drugs). Enhancement: microparticle formulation; cooking in oil/ghee improves lipophilic constituent absorption.
 
 **Optimal Timing:** With meals for glycemic modulation; dried leaf tea after meals as digestive; fresh leaves consumed as part of meals
 
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Fenugreek_Herb/meta-analysis.
 
 **Storage:** Fresh leaves: refrigerate in perforated bags. Dried leaves: airtight containers, dark, cool, and dry place. Protect from moisture - dried fenugreek leaves absorb moisture rapidly, becoming limp and losing aroma.
 
-**Marker Compounds:** Vitexin, Orientin, Isovitexin, Chlorogenic acid, [Diosgenin](/ayurveda-atlas/glossary/compounds-d-g/#diosgenin) (trace, lower than seed), [Trigonelline](/ayurveda-atlas/glossary/compounds-t-z/#trigonelline) (lower than seed), Iron content
+**Marker Compounds:** Vitexin, Orientin, Isovitexin, Chlorogenic acid, [Diosgenin](/nighantu/glossary/compounds-d-g/#diosgenin) (trace, lower than seed), [Trigonelline](/nighantu/glossary/compounds-t-z/#trigonelline) (lower than seed), Iron content
 
 ### Extraction Methods
 
@@ -63,6 +63,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Fenugreek_Herb/meta-analysis.
 ### Synergistic Combinations
 
 - With fenugreek seeds for comprehensive metabolic support
-- With [Gudmar](/ayurveda-atlas/herb/gudmar/) (Gymnema) for anti-diabetic synergy
-- With [Tulsi](/ayurveda-atlas/herb/tulsi/) for immune-metabolic combination
+- With [Gudmar](/nighantu/herb/gudmar/) (Gymnema) for anti-diabetic synergy
+- With [Tulsi](/nighantu/herb/tulsi/) for immune-metabolic combination
 - With Curry leaves for iron-rich nutritive formulation

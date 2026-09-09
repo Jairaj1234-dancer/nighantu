@@ -23,18 +23,18 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Mahalakshmi-Vilas-
 
 | Language | Name |
 |----------|------|
-| English | [Mahalakshmi Vilas Rasa](/ayurveda-atlas/herb/mahalakshmi-vilas-rasa/) |
+| English | [Mahalakshmi Vilas Rasa](/nighantu/herb/mahalakshmi-vilas-rasa/) |
 
 ## How does it work?
 
 - Multi-target anti-inflammatory action: Gold bhasma provides immunomodulation, copper bhasma offers anti-microbial activity, and mica bhasma supplies trace minerals - collectively targeting respiratory and skin inflammation
-- Respiratory action: [Camphor](/ayurveda-atlas/herb/camphor/) and nutmeg have documented bronchodilatory and [expectorant](/ayurveda-atlas/reference/expectorant/) properties; the metallic bhasmas may enhance mucosal immunity in the respiratory tract
-- [Antimicrobial](/ayurveda-atlas/reference/antimicrobial/): Gold, copper, and tin bhasmas have demonstrated antimicrobial properties in various studies, supporting the formulation's traditional use in infectious conditions
+- Respiratory action: [Camphor](/nighantu/herb/camphor/) and nutmeg have documented bronchodilatory and [expectorant](/nighantu/reference/expectorant/) properties; the metallic bhasmas may enhance mucosal immunity in the respiratory tract
+- [Antimicrobial](/nighantu/reference/antimicrobial/): Gold, copper, and tin bhasmas have demonstrated antimicrobial properties in various studies, supporting the formulation's traditional use in infectious conditions
 
 ## Which traditional uses are supported by research?
 
-- Upper respiratory disorders (Urdhwa Jatrugata Roga): Clinical practice experience supports efficacy in rhinitis, sinusitis, and respiratory infections; the [camphor](/ayurveda-atlas/herb/camphor/) and nutmeg components have documented mucolytic and bronchodilatory properties
-- Rheumatoid arthritis (Amavata): Traditional use supported by the multi-mineral anti-inflammatory composition; gold bhasma's [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) properties are relevant to autoimmune inflammatory conditions
+- Upper respiratory disorders (Urdhwa Jatrugata Roga): Clinical practice experience supports efficacy in rhinitis, sinusitis, and respiratory infections; the [camphor](/nighantu/herb/camphor/) and nutmeg components have documented mucolytic and bronchodilatory properties
+- Rheumatoid arthritis (Amavata): Traditional use supported by the multi-mineral anti-inflammatory composition; gold bhasma's [immunomodulatory](/nighantu/reference/immunomodulatory/) properties are relevant to autoimmune inflammatory conditions
 
 ## What do recent clinical trials show?
 
@@ -44,7 +44,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Mahalakshmi-Vilas-
 ## Recent safety updates
 
 - CRITICAL: Contains BOTH mercury (as Kajjali/HgS) AND arsenic (as Haratala/As2S3) - arsenic is a Group 1 carcinogen (IARC); combined exposure raises serious long-term safety concerns
-- Also contains tin ([Vanga Bhasma](/ayurveda-atlas/herb/vanga-bhasma/)) and copper ([Tamra Bhasma](/ayurveda-atlas/herb/tamra-bhasma/)) - the multi-metal composition increases cumulative heavy metal burden on kidneys and liver
+- Also contains tin ([Vanga Bhasma](/nighantu/herb/vanga-bhasma/)) and copper ([Tamra Bhasma](/nighantu/herb/tamra-bhasma/)) - the multi-metal composition increases cumulative heavy metal burden on kidneys and liver
 - Analytical characterization (2019) confirmed the presence of orpiment (arsenic trisulfide) as a distinct mineral phase - this arsenic compound requires rigorous quality control to ensure proper purification
 - Contraindicated in pregnancy, lactation, children under 12, and patients with renal or hepatic disorders; should not be used long-term
 - Requires GMP-certified sourcing with batch-wise testing for heavy metals; improperly purified Haratala poses significant arsenic poisoning risk
@@ -66,16 +66,16 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Mahalakshmi-Vilas-
 
 **Bioavailability:** Good; multi-metal Rasaushadhi with respiratory tropism
 
-**Optimal Timing:** With honey and Adrak Swarasa ([ginger](/ayurveda-atlas/herb/ginger/) juice)
+**Optimal Timing:** With honey and Adrak Swarasa ([ginger](/nighantu/herb/ginger/) juice)
 
-**Standardized Extract:** Kajjali + [Abhraka Bhasma](/ayurveda-atlas/herb/abhraka-bhasma/) + [Vanga Bhasma](/ayurveda-atlas/herb/vanga-bhasma/) + respiratory herbs
+**Standardized Extract:** Kajjali + [Abhraka Bhasma](/nighantu/herb/abhraka-bhasma/) + [Vanga Bhasma](/nighantu/herb/vanga-bhasma/) + respiratory herbs
 
 **Shelf Life:** Indefinite
 
 **Storage:** Airtight container
 
-**Marker Compounds:** Mercury sulfide, Mica-derived oxides, Tin oxide, [Pippali](/ayurveda-atlas/herb/pippali/) [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids)
+**Marker Compounds:** Mercury sulfide, Mica-derived oxides, Tin oxide, [Pippali](/nighantu/herb/pippali/) [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids)
 
 **Quality Parameters:** Standard Rasaushadhi tests, multi-metal assay
 
-**Vehicle (Anupana):** Honey + [ginger](/ayurveda-atlas/herb/ginger/) juice; [Sitopaladi Churna](/ayurveda-atlas/formulation/sitopaladi-churna/)
+**Vehicle (Anupana):** Honey + [ginger](/nighantu/herb/ginger/) juice; [Sitopaladi Churna](/nighantu/formulation/sitopaladi-churna/)

@@ -23,30 +23,30 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Kalyanaka
 
 | Language | Name |
 |----------|------|
-| English | Kalyanaka [Ghrita](/ayurveda-atlas/herb/ghrita/)|Kalyanaka Ghrita [Mahakalyanaka Ghritam](/ayurveda-atlas/glossary/concepts-a-m/#mahakalyanaka-ghritam) |
+| English | Kalyanaka [Ghrita](/nighantu/herb/ghrita/)|Kalyanaka Ghrita [Mahakalyanaka Ghritam](/nighantu/glossary/concepts-a-m/#mahakalyanaka-ghritam) |
 
 ## Key Ingredients
 
-- [Sariva](/ayurveda-atlas/herb/sariva/) (Hemidesmus indicus)
-- [Haridra](/ayurveda-atlas/herb/haridra/) (Curcuma longa)
-- [Daruharidra](/ayurveda-atlas/herb/daruharidra/) (Berberis aristata)
+- [Sariva](/nighantu/herb/sariva/) (Hemidesmus indicus)
+- [Haridra](/nighantu/herb/haridra/) (Curcuma longa)
+- [Daruharidra](/nighantu/herb/daruharidra/) (Berberis aristata)
 - Shalaparni (Desmodium gangeticum)
 - Prishnaparni (Uraria picta)
-- [Triphala](/ayurveda-atlas/herb/triphala/) ([Haritaki](/ayurveda-atlas/herb/haritaki/), Vibhitaki, Amalaki)
-- [Devadaru](/ayurveda-atlas/herb/devadaru/) (Cedrus deodara)
-- [Bhadra](/ayurveda-atlas/herb/bhadra/) Ela (Amomum subulatum)
-- [Ghrita](/ayurveda-atlas/herb/ghrita/) (cow ghee)
-- [Ksheera](/ayurveda-atlas/herb/ksheera/) (cow milk)
+- [Triphala](/nighantu/herb/triphala/) ([Haritaki](/nighantu/herb/haritaki/), Vibhitaki, Amalaki)
+- [Devadaru](/nighantu/herb/devadaru/) (Cedrus deodara)
+- [Bhadra](/nighantu/herb/bhadra/) Ela (Amomum subulatum)
+- [Ghrita](/nighantu/herb/ghrita/) (cow ghee)
+- [Ksheera](/nighantu/herb/ksheera/) (cow milk)
 
 ## Where is it described in the classical texts?
 
-Ashtanga Hrudayam Uttarasthana 6/26-33 ([Mahakalyanaka Ghritam](/ayurveda-atlas/glossary/concepts-a-m/#mahakalyanaka-ghritam)); Charaka Samhita (Kalyanaka [Ghrita](/ayurveda-atlas/herb/ghrita/)|Kalyanaka Ghrita); Chakradatta (Ksheerakalyanaka [Ghrita](/ayurveda-atlas/herb/ghrita/)); Bhaisajya Ratnavali; Sharangadhara Samhita; Sahasrayoga
+Ashtanga Hrudayam Uttarasthana 6/26-33 ([Mahakalyanaka Ghritam](/nighantu/glossary/concepts-a-m/#mahakalyanaka-ghritam)); Charaka Samhita (Kalyanaka [Ghrita](/nighantu/herb/ghrita/)|Kalyanaka Ghrita); Chakradatta (Ksheerakalyanaka [Ghrita](/nighantu/herb/ghrita/)); Bhaisajya Ratnavali; Sharangadhara Samhita; Sahasrayoga
 
 ## How does it work?
 
-- Polyherbal synergy of 28+ plant extracts in lipid medium enhances bioavailability of [neuroprotective](/ayurveda-atlas/reference/neuroprotective/) compounds
-- [Haridra](/ayurveda-atlas/herb/haridra/) ([curcumin](/ayurveda-atlas/herb/curcumin/)) provides anti-inflammatory and [antioxidant](/ayurveda-atlas/reference/antioxidant/) effects on neural tissue, reducing neuroinflammation
-- [Sariva](/ayurveda-atlas/herb/sariva/) and [Daruharidra](/ayurveda-atlas/herb/daruharidra/) provide cooling, pitta-pacifying action that calms aggravated mental states
+- Polyherbal synergy of 28+ plant extracts in lipid medium enhances bioavailability of [neuroprotective](/nighantu/reference/neuroprotective/) compounds
+- [Haridra](/nighantu/herb/haridra/) ([curcumin](/nighantu/herb/curcumin/)) provides anti-inflammatory and [antioxidant](/nighantu/reference/antioxidant/) effects on neural tissue, reducing neuroinflammation
+- [Sariva](/nighantu/herb/sariva/) and [Daruharidra](/nighantu/herb/daruharidra/) provide cooling, pitta-pacifying action that calms aggravated mental states
 - Lipid-based ghee medium crosses the blood-brain barrier, delivering active compounds directly to CNS
 - Balances Tridosha with emphasis on Vata-Pitta pacification, restoring equilibrium in Manovaha Srotas (mental channels)
 
@@ -59,9 +59,9 @@ Ashtanga Hrudayam Uttarasthana 6/26-33 ([Mahakalyanaka Ghritam](/ayurveda-atlas/
 
 ## What do recent clinical trials show?
 
-- **Product development and characterization of a lipid-based Ayurvedic polyherbal formulation: Kalyanaka [Ghrita](/ayurveda-atlas/herb/ghrita/)|Kalyanaka Ghrita** (2024): Organoleptic and physicochemical characters were comparable across three batches of KG; safety parameters including heavy metals were found within permissible limits
-- **An Open Label Pilot Study of Kalyanaka [Ghrita](/ayurveda-atlas/herb/ghrita/)|Kalyanaka Ghrita in the Management of Obsessive Compulsive Disorder** (2019): Kalyanaka [Ghrita](/ayurveda-atlas/herb/ghrita/)|Kalyanaka Ghrita therapy achieved 20.4% relief after treatment and 44.21% improvement at follow-up, providing clinically significant improvement in OCD symptoms
-- **Clinical Evaluation of [Kalyanaka Ghrita](/ayurveda-atlas/formulation/kalyanaka-ghrita/) in the Management of Cognitive Deficit in Children** (2020): [Kalyanaka Ghrita](/ayurveda-atlas/formulation/kalyanaka-ghrita/) is safe and effective in children with cognitive deficits, showing statistically significant improvement in cognitive function parameters
+- **Product development and characterization of a lipid-based Ayurvedic polyherbal formulation: Kalyanaka [Ghrita](/nighantu/herb/ghrita/)|Kalyanaka Ghrita** (2024): Organoleptic and physicochemical characters were comparable across three batches of KG; safety parameters including heavy metals were found within permissible limits
+- **An Open Label Pilot Study of Kalyanaka [Ghrita](/nighantu/herb/ghrita/)|Kalyanaka Ghrita in the Management of Obsessive Compulsive Disorder** (2019): Kalyanaka [Ghrita](/nighantu/herb/ghrita/)|Kalyanaka Ghrita therapy achieved 20.4% relief after treatment and 44.21% improvement at follow-up, providing clinically significant improvement in OCD symptoms
+- **Clinical Evaluation of [Kalyanaka Ghrita](/nighantu/formulation/kalyanaka-ghrita/) in the Management of Cognitive Deficit in Children** (2020): [Kalyanaka Ghrita](/nighantu/formulation/kalyanaka-ghrita/) is safe and effective in children with cognitive deficits, showing statistically significant improvement in cognitive function parameters
 
 ## Recent safety updates
 
@@ -92,7 +92,7 @@ Ashtanga Hrudayam Uttarasthana 6/26-33 ([Mahakalyanaka Ghritam](/ayurveda-atlas/
 
 **Storage:** Store in airtight glass or tin containers in a cool, dry place. Temperature not exceeding 25°C. Protect from light and moisture.
 
-**Marker Compounds:** Bacoside A, Alpha-santalol, Beta-asarone (within limits), [Piperine](/ayurveda-atlas/reference/piperine/), Gallic acid
+**Marker Compounds:** Bacoside A, Alpha-santalol, Beta-asarone (within limits), [Piperine](/nighantu/reference/piperine/), Gallic acid
 
 **Quality Parameters:** Same as Kalyanaka Ghrita — acid value, peroxide value, saponification value, refractive index, moisture, rancidity test, multi-marker HPTLC, microbial limits, heavy metals
 
@@ -100,7 +100,7 @@ Ashtanga Hrudayam Uttarasthana 6/26-33 ([Mahakalyanaka Ghritam](/ayurveda-atlas/
 
 ### Synergistic Combinations
 
-- [Brahmi](/ayurveda-atlas/herb/brahmi/) Ghritam
-- [Saraswatarishta](/ayurveda-atlas/formulation/saraswatarishta/)
+- [Brahmi](/nighantu/herb/brahmi/) Ghritam
+- [Saraswatarishta](/nighantu/formulation/saraswatarishta/)
 - Manasamitra Vatakam
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) Churna
+- [Ashwagandha](/nighantu/herb/ashwagandha/) Churna

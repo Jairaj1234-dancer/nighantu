@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Haratala-Bhasma/meta
 
 | Language | Name |
 |----------|------|
-| English | [Haratala Bhasma](/ayurveda-atlas/herb/haratala-bhasma/) |
+| English | [Haratala Bhasma](/nighantu/herb/haratala-bhasma/) |
 
 ## Key Phytochemical Constituents
 
@@ -37,8 +37,8 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Haratala-Bhasma/meta
 
 - Anti-leukemic potential: Shodhana may enhance synergistic effect of Haratala in cellular apoptosis for leukemia treatment, analogous to arsenic trioxide (approved drug) mechanism
 - Kaphahara (Kapha-reducing) action through stimulation of respiratory secretion clearance and bronchodilation, used traditionally for Shwasa (asthma) and Kasa (cough)
-- Kushthahara (skin disease management) through [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) and keratolytic effects on skin lesions, traditionally used for chronic dermatological conditions
-- Jvaraghna ([antipyretic](/ayurveda-atlas/reference/antipyretic/)) action through modulation of inflammatory pathways involved in fever generation
+- Kushthahara (skin disease management) through [antimicrobial](/nighantu/reference/antimicrobial/) and keratolytic effects on skin lesions, traditionally used for chronic dermatological conditions
+- Jvaraghna ([antipyretic](/nighantu/reference/antipyretic/)) action through modulation of inflammatory pathways involved in fever generation
 
 ## Which traditional uses are supported by research?
 
@@ -48,14 +48,14 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Haratala-Bhasma/meta
 
 ## What do recent clinical trials show?
 
-- **Acute and chronic toxicity of [Rasamanikya](/ayurveda-atlas/herb/rasamanikya/), an Ayurvedic arsenical formulation, in rats** (2012): At 2000 mg/kg single dose, no observable toxic effects or mortality. Safe at therapeutic and 5x therapeutic dose in chronic study. Ten healthy volunteers given 125 mg twice daily for 15 days showed increased blood arsenic without clinical toxicity signs.
+- **Acute and chronic toxicity of [Rasamanikya](/nighantu/herb/rasamanikya/), an Ayurvedic arsenical formulation, in rats** (2012): At 2000 mg/kg single dose, no observable toxic effects or mortality. Safe at therapeutic and 5x therapeutic dose in chronic study. Ten healthy volunteers given 125 mg twice daily for 15 days showed increased blood arsenic without clinical toxicity signs.
 - **Toxicological study of arsenic containing Ayurvedic drug Haratal Bhasma** (2016): Haratal Bhasma found non-toxic and safe at classical doses, attributed to compound form of arsenic (sulfide) which is insoluble in human body. Both acute and subacute toxicity studies showed no adverse effects.
-- **Comparative physico-chemical validation between Arsenic-based Indian traditional drugs Haratal Bhasma and [Rasamanikya](/ayurveda-atlas/herb/rasamanikya/)** (2016): Physicochemical comparison confirmed both preparations contain arsenic primarily in sulfide form rather than free arsenite/arsenate. Insoluble sulfide form accounts for lower observed toxicity compared to inorganic arsenic.
+- **Comparative physico-chemical validation between Arsenic-based Indian traditional drugs Haratal Bhasma and [Rasamanikya](/nighantu/herb/rasamanikya/)** (2016): Physicochemical comparison confirmed both preparations contain arsenic primarily in sulfide form rather than free arsenite/arsenate. Insoluble sulfide form accounts for lower observed toxicity compared to inorganic arsenic.
 
 ## Recent safety updates
 
 - ARSENIC IS A GROUP 1 CARCINOGEN: IARC classifies arsenic and arsenic compounds as definite human carcinogens. Long-term exposure causes multiple cancers (lung, skin, bladder, liver).
-- INSOLUBLE FORM REDUCES ACUTE TOXICITY: Properly prepared [Haratala Bhasma](/ayurveda-atlas/herb/haratala-bhasma/) contains arsenic in insoluble sulfide form, which may reduce acute oral toxicity compared to soluble arsenite/arsenate
+- INSOLUBLE FORM REDUCES ACUTE TOXICITY: Properly prepared [Haratala Bhasma](/nighantu/herb/haratala-bhasma/) contains arsenic in insoluble sulfide form, which may reduce acute oral toxicity compared to soluble arsenite/arsenate
 - BLOOD ARSENIC INCREASES: Even with purified preparation, blood arsenic levels increase significantly during use (confirmed in human volunteer study), indicating systemic absorption occurs
 - PREPARATION-CRITICAL: Without proper Shodhana and Marana, Haratala causes burning sensation, tremors, blood vitiation, skin disease, and potentially death. ONLY classically prepared products should be considered.
 - NO LONG-TERM SAFETY DATA: Short-term studies show apparent safety, but chronic arsenic exposure effects (cancer, neuropathy, cardiovascular disease) may take years to manifest

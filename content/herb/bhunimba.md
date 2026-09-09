@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Bhunimba/meta-analysis.md"
 
 **Standard Dosage:** 1-3g powder twice daily; 300-500mg standardized extract; 50-100ml decoction; traditionally used in small doses due to intense bitterness
 
-**Bioavailability:** [Andrographolide](/ayurveda-atlas/glossary/compounds-1-a/#andrographolide) shows moderate oral bioavailability (25-35%) with rapid absorption (Tmax 1.5-2h). Extensive first-pass metabolism via CYP3A4 and CYP2C9. Nanoparticle formulations improve bioavailability by 2-4x. Andrographolide-phospholipid complex (phytosome) shows significantly improved Cmax. Self-nanoemulsifying systems show promising results in preclinical studies.
+**Bioavailability:** [Andrographolide](/nighantu/glossary/compounds-1-a/#andrographolide) shows moderate oral bioavailability (25-35%) with rapid absorption (Tmax 1.5-2h). Extensive first-pass metabolism via CYP3A4 and CYP2C9. Nanoparticle formulations improve bioavailability by 2-4x. Andrographolide-phospholipid complex (phytosome) shows significantly improved Cmax. Self-nanoemulsifying systems show promising results in preclinical studies.
 
 **Optimal Timing:** Before meals with warm water for fever and infections; with honey for bitter taste mitigation; empty stomach for maximum absorption
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Bhunimba/meta-analysis.md"
 
 **Storage:** Cool, dry place away from light. Andrographolide is light-sensitive—use amber containers. Temperature below 25°C for extract-based products.
 
-**Marker Compounds:** Andrographolide, [Neoandrographolide](/ayurveda-atlas/glossary/compounds-l-o/#neoandrographolide), 14-deoxy-11,12-didehydroandrographolide, [Andrograpanin](/ayurveda-atlas/glossary/compounds-1-a/#andrograpanin), Andrographiside, Kalmeghin
+**Marker Compounds:** Andrographolide, [Neoandrographolide](/nighantu/glossary/compounds-l-o/#neoandrographolide), 14-deoxy-11,12-didehydroandrographolide, [Andrograpanin](/nighantu/glossary/compounds-1-a/#andrograpanin), Andrographiside, Kalmeghin
 
 ### Extraction Methods
 
@@ -71,8 +71,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Bhunimba/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Guduchi](/ayurveda-atlas/herb/guduchi/) for [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) and [antipyretic](/ayurveda-atlas/reference/antipyretic/) synergy
-- With Kutki for [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) formulations
-- With [Neem](/ayurveda-atlas/herb/neem/) for [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) and blood-purifying effects
-- With [Chirayata](/ayurveda-atlas/herb/chirayata/) for Jwara (fever) management
-- With [Haridra](/ayurveda-atlas/herb/haridra/) for anti-inflammatory combinations
+- With [Guduchi](/nighantu/herb/guduchi/) for [immunomodulatory](/nighantu/reference/immunomodulatory/) and [antipyretic](/nighantu/reference/antipyretic/) synergy
+- With Kutki for [hepatoprotective](/nighantu/reference/hepatoprotective/) formulations
+- With [Neem](/nighantu/herb/neem/) for [antimicrobial](/nighantu/reference/antimicrobial/) and blood-purifying effects
+- With [Chirayata](/nighantu/herb/chirayata/) for Jwara (fever) management
+- With [Haridra](/nighantu/herb/haridra/) for anti-inflammatory combinations

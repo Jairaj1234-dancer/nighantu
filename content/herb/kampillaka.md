@@ -28,26 +28,26 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kampillaka/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- Rottlerin ([kamala](/ayurveda-atlas/herb/kamala/) red)
+- Rottlerin ([kamala](/nighantu/herb/kamala/) red)
 - Isorottlerin
-- [Bergenin](/ayurveda-atlas/glossary/compounds-a-c/#bergenin)
+- [Bergenin](/nighantu/glossary/compounds-a-c/#bergenin)
 - Mallotophilippinens
 - Mallotucin D (cardenolide)
-- [Friedelin](/ayurveda-atlas/glossary/compounds-d-g/#friedelin) (triterpene)
-- Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
+- [Friedelin](/nighantu/glossary/compounds-d-g/#friedelin) (triterpene)
+- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
 - Kamaladiol
 
 ## How does it work?
 
 - Anti-inflammatory: Rottlerin inhibits both COX-1 and COX-2 more potently than ibuprofen and etoricoxib; also inhibits protein kinase C-delta (PKC-delta)
-- [Anticancer](/ayurveda-atlas/reference/anticancer/): Rottlerin induces apoptosis through inhibition of PKC-delta, NF-kB suppression, and activation of caspase-3/caspase-9 cascade
-- Anthelmintic: [Kamala](/ayurveda-atlas/herb/kamala/) (pericarp powder) contains rottlerin and isorottlerin which damage tegumental membrane of cestodes, causing paralysis and death
+- [Anticancer](/nighantu/reference/anticancer/): Rottlerin induces apoptosis through inhibition of PKC-delta, NF-kB suppression, and activation of caspase-3/caspase-9 cascade
+- Anthelmintic: [Kamala](/nighantu/herb/kamala/) (pericarp powder) contains rottlerin and isorottlerin which damage tegumental membrane of cestodes, causing paralysis and death
 
 ## Which traditional uses are supported by research?
 
 - Anthelmintic use (Krimighna) against tapeworms extensively validated by in vitro and in vivo studies against cestodes
 - Anti-inflammatory use confirmed by superior COX-1/COX-2 inhibition compared to standard NSAIDs
-- Skin disease treatment validated by [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) and antifungal activity of [Kamala](/ayurveda-atlas/herb/kamala/) extract against dermatophytes
+- Skin disease treatment validated by [antimicrobial](/nighantu/reference/antimicrobial/) and antifungal activity of [Kamala](/nighantu/herb/kamala/) extract against dermatophytes
 
 ## What do recent clinical trials show?
 
@@ -57,8 +57,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kampillaka/meta-analysis.md"
 
 ## Recent safety updates
 
-- Pericarp preparations ([Kamala](/ayurveda-atlas/herb/kamala/)) are safe at traditional anthelmintic doses; rottlerin has favorable pharmacokinetic profile with >35% oral bioavailability
-- High doses may cause gastrointestinal irritation and purgation; not recommended during pregnancy; topical use of [Kamala](/ayurveda-atlas/herb/kamala/) dye may cause contact sensitization in rare cases
+- Pericarp preparations ([Kamala](/nighantu/herb/kamala/)) are safe at traditional anthelmintic doses; rottlerin has favorable pharmacokinetic profile with >35% oral bioavailability
+- High doses may cause gastrointestinal irritation and purgation; not recommended during pregnancy; topical use of [Kamala](/nighantu/herb/kamala/) dye may cause contact sensitization in rare cases
 
 ## What is it made of?
 
@@ -83,7 +83,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kampillaka/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g powder with honey or warm water; for anthelmintic use: 3-6 g single dose; external application as needed
 
-**Bioavailability:** Rottlerin, the primary bioactive, has poor aqueous solubility (log P ~4.2). Bioavailability enhanced through solid lipid nanoparticle formulation, cyclodextrin complexation, or co-administration with lipid-rich adjuvants. [Piperine](/ayurveda-atlas/reference/piperine/) co-administration improves systemic availability by 30-40%.
+**Bioavailability:** Rottlerin, the primary bioactive, has poor aqueous solubility (log P ~4.2). Bioavailability enhanced through solid lipid nanoparticle formulation, cyclodextrin complexation, or co-administration with lipid-rich adjuvants. [Piperine](/nighantu/reference/piperine/) co-administration improves systemic availability by 30-40%.
 
 **Optimal Timing:** Early morning on empty stomach for anthelmintic use; external application any time as needed
 
@@ -104,7 +104,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kampillaka/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Vidanga](/ayurveda-atlas/herb/vidanga/) (Embelia ribes) for enhanced anthelmintic activity
-- [Haritaki](/ayurveda-atlas/herb/haritaki/) for purgative and anthelmintic combination
-- [Nimba](/ayurveda-atlas/herb/nimba/) ([Neem](/ayurveda-atlas/herb/neem/)) for parasitic infections
-- [Karanja](/ayurveda-atlas/herb/karanja/) for dermatological applications
+- [Vidanga](/nighantu/herb/vidanga/) (Embelia ribes) for enhanced anthelmintic activity
+- [Haritaki](/nighantu/herb/haritaki/) for purgative and anthelmintic combination
+- [Nimba](/nighantu/herb/nimba/) ([Neem](/nighantu/herb/neem/)) for parasitic infections
+- [Karanja](/nighantu/herb/karanja/) for dermatological applications

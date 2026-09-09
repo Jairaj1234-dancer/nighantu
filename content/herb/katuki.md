@@ -45,19 +45,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Katuki/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Capsule, Tablet, Kashayam (decoction), Arishta/Asava (fermented preparation), [Ghrita](/ayurveda-atlas/herb/ghrita/) (medicated ghee)
+**Dosage Forms:** Churna (powder), Capsule, Tablet, Kashayam (decoction), Arishta/Asava (fermented preparation), [Ghrita](/nighantu/herb/ghrita/) (medicated ghee)
 
-**Standard Dosage:** 1-3 g powder twice daily; 500 mg standardized extract capsule twice daily; 30-50 mL decoction; [Arogyavardhini Vati](/ayurveda-atlas/formulation/arogyavardhini-vati/): 2 tablets twice daily
+**Standard Dosage:** 1-3 g powder twice daily; 500 mg standardized extract capsule twice daily; 30-50 mL decoction; [Arogyavardhini Vati](/nighantu/formulation/arogyavardhini-vati/): 2 tablets twice daily
 
-**Bioavailability:** Kutkin (mixture of picroside I and kutkoside) has moderate oral bioavailability (~25-30%). Picroside I is absorbed primarily in the upper GI tract. Apocynin (metabolite) has rapid absorption. Self-emulsifying formulations improve kutkin bioavailability by 3-fold. [Piperine](/ayurveda-atlas/reference/piperine/) co-administration increases picroside I AUC by 60%. Ghrita (ghee) formulation provides lipid-enhanced absorption per traditional recommendation.
+**Bioavailability:** Kutkin (mixture of picroside I and kutkoside) has moderate oral bioavailability (~25-30%). Picroside I is absorbed primarily in the upper GI tract. Apocynin (metabolite) has rapid absorption. Self-emulsifying formulations improve kutkin bioavailability by 3-fold. [Piperine](/nighantu/reference/piperine/) co-administration increases picroside I AUC by 60%. Ghrita (ghee) formulation provides lipid-enhanced absorption per traditional recommendation.
 
-**Optimal Timing:** Before meals on empty stomach for [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) and cholagogue effects; with meals if GI irritation occurs; Arogyavardhini Vati: before meals with warm water
+**Optimal Timing:** Before meals on empty stomach for [hepatoprotective](/nighantu/reference/hepatoprotective/) and cholagogue effects; with meals if GI irritation occurs; Arogyavardhini Vati: before meals with warm water
 
 **Standardized Extract:** Standardized to minimum 4% kutkin (picroside I + kutkoside) by HPLC per Indian Pharmacopoeia; premium extracts standardized to 10-15% kutkin
 
 **Shelf Life:** 24 months for powder; 36 months for standardized extract capsules; 24 months for tablets
 
-**Storage:** Store in airtight, moisture-proof containers at 15-25°C. Picroside [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) are relatively stable but hygroscopic. Protect from light. Refrigerated storage (2-8°C) extends potency for high-value standardized extracts.
+**Storage:** Store in airtight, moisture-proof containers at 15-25°C. Picroside [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) are relatively stable but hygroscopic. Protect from light. Refrigerated storage (2-8°C) extends potency for high-value standardized extracts.
 
 **Marker Compounds:** Picroside I, Picroside II (Kutkoside), Apocynin (Acetovanillone), Androsin, Picein, Vanillic acid, Cucurbitacin glycosides
 
@@ -71,8 +71,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Katuki/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Guggulu](/ayurveda-atlas/formulation/guggulu/) in Arogyavardhini Vati for comprehensive metabolic and hepatic support
-- [Bhumyamalaki](/ayurveda-atlas/herb/bhumyamalaki/) for hepatoprotective synergy
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) for hepatitis management
-- [Nimba](/ayurveda-atlas/herb/nimba/) for cholestatic liver disease
-- [Chirayata](/ayurveda-atlas/herb/chirayata/) (Swertia) for bitter tonic and febrifuge combination
+- [Guggulu](/nighantu/formulation/guggulu/) in Arogyavardhini Vati for comprehensive metabolic and hepatic support
+- [Bhumyamalaki](/nighantu/herb/bhumyamalaki/) for hepatoprotective synergy
+- [Guduchi](/nighantu/herb/guduchi/) for hepatitis management
+- [Nimba](/nighantu/herb/nimba/) for cholestatic liver disease
+- [Chirayata](/nighantu/herb/chirayata/) (Swertia) for bitter tonic and febrifuge combination

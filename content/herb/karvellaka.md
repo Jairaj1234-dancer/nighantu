@@ -49,17 +49,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Karvellaka/meta-analysis.md"
 
 **Standard Dosage:** 30-50 mL fresh fruit juice daily; 3-6 g dried fruit powder twice daily; 500 mg extract capsule twice daily
 
-**Bioavailability:** Identical pharmacological profile to [Karela](/ayurveda-atlas/herb/karela/) (Momordica charantia) — both names refer to the same plant. [Charantin](/ayurveda-atlas/glossary/compounds-c-d/#charantin) and polypeptide-p bioavailability details as per [Karela](/ayurveda-atlas/herb/karela/) entry. Cucurbitane-type [triterpenoids](/ayurveda-atlas/glossary/compounds-t-z/#triterpenoids) show improved absorption with lipid co-administration.
+**Bioavailability:** Identical pharmacological profile to [Karela](/nighantu/herb/karela/) (Momordica charantia) — both names refer to the same plant. [Charantin](/nighantu/glossary/compounds-c-d/#charantin) and polypeptide-p bioavailability details as per [Karela](/nighantu/herb/karela/) entry. Cucurbitane-type [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids) show improved absorption with lipid co-administration.
 
 **Optimal Timing:** Early morning on empty stomach for glycemic benefits; before meals for appetite regulation
 
-**Standardized Extract:** Standardized to minimum 2% charantin and 10% total bitter principles (as [momordicin](/ayurveda-atlas/glossary/compounds-l-o/#momordicin)); MAP30 protein content quantified for seed-derived extracts
+**Standardized Extract:** Standardized to minimum 2% charantin and 10% total bitter principles (as [momordicin](/nighantu/glossary/compounds-l-o/#momordicin)); MAP30 protein content quantified for seed-derived extracts
 
 **Shelf Life:** 24 hours for fresh juice (refrigerated); 18 months for powder; 24 months for capsules and tablets
 
 **Storage:** Fresh juice requires refrigeration (2-8°C). Dried forms in airtight, moisture-proof containers at 15-30°C. Protein-containing extracts require cold chain (2-8°C).
 
-**Marker Compounds:** Charantin, Momordicin, [Vicine](/ayurveda-atlas/glossary/compounds-t-z/#vicine), MAP30 protein, Polypeptide-p, Cucurbitane triterpenoids, Momordicoside K, Momordicoside L
+**Marker Compounds:** Charantin, Momordicin, [Vicine](/nighantu/glossary/compounds-t-z/#vicine), MAP30 protein, Polypeptide-p, Cucurbitane triterpenoids, Momordicoside K, Momordicoside L
 
 ### Extraction Methods
 
@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Karvellaka/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Gudmar](/ayurveda-atlas/herb/gudmar/) (Gymnema) for anti-diabetic synergy
-- [Methi](/ayurveda-atlas/herb/methi/) (Fenugreek) for metabolic syndrome management
-- [Jamun](/ayurveda-atlas/herb/jamun/) seeds for comprehensive glycemic control
-- [Haridra](/ayurveda-atlas/herb/haridra/) for insulin sensitization
+- [Gudmar](/nighantu/herb/gudmar/) (Gymnema) for anti-diabetic synergy
+- [Methi](/nighantu/herb/methi/) (Fenugreek) for metabolic syndrome management
+- [Jamun](/nighantu/herb/jamun/) seeds for comprehensive glycemic control
+- [Haridra](/nighantu/herb/haridra/) for insulin sensitization

@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda-Moola/meta-analysis.md
 
 | Language | Name |
 |----------|------|
-| English | [Eranda](/ayurveda-atlas/herb/eranda/) Moola |
+| English | [Eranda](/nighantu/herb/eranda/) Moola |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda-Moola/meta-analysis.md
 
 **Standard Dosage:** 3-5g root powder twice daily; 50-100ml decoction twice daily; 500mg extract capsule/tablet twice daily
 
-**Bioavailability:** Castor root (Ricinus communis root) contains [ricinine](/ayurveda-atlas/glossary/compounds-q-t/#ricinine) alkaloid, [flavonoids](/ayurveda-atlas/reference/flavonoids/), and [sterols](/ayurveda-atlas/glossary/compounds-q-t/#sterols) distinct from the seed oil profile. Ricinine has good oral bioavailability (>50%) with rapid absorption. Flavonoids from root have moderate bioavailability (15-25%). Unlike the oil from seeds, root preparations are primarily used for anti-inflammatory and Vata-pacifying actions rather than purgation. Traditional decoction (Kashayam) preparation optimizes water-soluble alkaloid and glycoside extraction.
+**Bioavailability:** Castor root (Ricinus communis root) contains [ricinine](/nighantu/glossary/compounds-q-t/#ricinine) alkaloid, [flavonoids](/nighantu/reference/flavonoids/), and [sterols](/nighantu/glossary/compounds-q-t/#sterols) distinct from the seed oil profile. Ricinine has good oral bioavailability (>50%) with rapid absorption. Flavonoids from root have moderate bioavailability (15-25%). Unlike the oil from seeds, root preparations are primarily used for anti-inflammatory and Vata-pacifying actions rather than purgation. Traditional decoction (Kashayam) preparation optimizes water-soluble alkaloid and glycoside extraction.
 
 **Optimal Timing:** Before meals with warm water for Vata disorders and joint conditions; Kashayam in the morning and evening
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda-Moola/meta-analysis.md
 
 **Storage:** Airtight containers below 25 deg C, protected from moisture. Root powder is moderately hygroscopic - include desiccant in packaging.
 
-**Marker Compounds:** Ricinine, N-demethylricinine, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/ayurveda-atlas/reference/stigmasterol/), [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/) [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides), Gallic acid
+**Marker Compounds:** Ricinine, N-demethylricinine, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/nighantu/reference/stigmasterol/), [Quercetin](/nighantu/reference/quercetinquercetin/) [glycosides](/nighantu/glossary/compounds-g-l/#glycosides), Gallic acid
 
 ### Extraction Methods
 
@@ -70,8 +70,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda-Moola/meta-analysis.md
 
 ### Synergistic Combinations
 
-- With [Dashamoola](/ayurveda-atlas/herb/dashamoola/) for comprehensive Vata management
-- With [Rasna](/ayurveda-atlas/herb/rasna/) for anti-inflammatory synergy in joint disorders
-- With [Punarnava](/ayurveda-atlas/herb/punarnava/) for anti-inflammatory and [diuretic](/ayurveda-atlas/reference/diuretic/) combination
-- With [Bala](/ayurveda-atlas/herb/bala/) (Sida) for neuromuscular conditions
-- With [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) for Vata-pacifying [adaptogenic](/ayurveda-atlas/reference/adaptogenic/) combination
+- With [Dashamoola](/nighantu/herb/dashamoola/) for comprehensive Vata management
+- With [Rasna](/nighantu/herb/rasna/) for anti-inflammatory synergy in joint disorders
+- With [Punarnava](/nighantu/herb/punarnava/) for anti-inflammatory and [diuretic](/nighantu/reference/diuretic/) combination
+- With [Bala](/nighantu/herb/bala/) (Sida) for neuromuscular conditions
+- With [Ashwagandha](/nighantu/herb/ashwagandha/) for Vata-pacifying [adaptogenic](/nighantu/reference/adaptogenic/) combination

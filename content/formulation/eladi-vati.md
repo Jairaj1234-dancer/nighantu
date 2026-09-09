@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Eladi-Vati/meta-ana
 
 | Language | Name |
 |----------|------|
-| English | [Eladi Vati](/ayurveda-atlas/formulation/eladi-vati/) |
+| English | [Eladi Vati](/nighantu/formulation/eladi-vati/) |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -49,15 +49,15 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Eladi-Vati/meta-ana
 
 **Standard Dosage:** 1-2 tablets to be sucked/chewed, 2-3 times daily, as per AFI Part I
 
-**Bioavailability:** Buccal/sublingual route provides rapid absorption of volatile oils bypassing first-pass metabolism. Direct action on oropharyngeal mucosa. [Camphor](/ayurveda-atlas/herb/camphor/) and [menthol](/ayurveda-atlas/herb/menthol/) provide immediate sensory and therapeutic response. Onset of action within minutes.
+**Bioavailability:** Buccal/sublingual route provides rapid absorption of volatile oils bypassing first-pass metabolism. Direct action on oropharyngeal mucosa. [Camphor](/nighantu/herb/camphor/) and [menthol](/nighantu/herb/menthol/) provide immediate sensory and therapeutic response. Onset of action within minutes.
 
 **Optimal Timing:** As needed for throat/voice conditions, cough, or after meals for oral freshness
 
 **Shelf Life:** 2 years from date of manufacture as per ASU guidelines for Vati
 
-**Storage:** Store in airtight containers in a cool, dry place. Protect from moisture and heat (volatile oils and [camphor](/ayurveda-atlas/herb/camphor/) evaporate). Temperature not exceeding 25°C.
+**Storage:** Store in airtight containers in a cool, dry place. Protect from moisture and heat (volatile oils and [camphor](/nighantu/herb/camphor/) evaporate). Temperature not exceeding 25°C.
 
-**Marker Compounds:** 1,8-[Cineole](/ayurveda-atlas/glossary/compounds-c-d/#cineole), [Eugenol](/ayurveda-atlas/glossary/compounds-d-g/#eugenol), Camphor, [Myristicin](/ayurveda-atlas/glossary/compounds-l-o/#myristicin) (from [Jatiphala](/ayurveda-atlas/herb/jatiphala/)), [Cinnamaldehyde](/ayurveda-atlas/glossary/compounds-c-d/#cinnamaldehyde)
+**Marker Compounds:** 1,8-[Cineole](/nighantu/glossary/compounds-c-d/#cineole), [Eugenol](/nighantu/glossary/compounds-d-g/#eugenol), Camphor, [Myristicin](/nighantu/glossary/compounds-l-o/#myristicin) (from [Jatiphala](/nighantu/herb/jatiphala/)), [Cinnamaldehyde](/nighantu/glossary/compounds-c-d/#cinnamaldehyde)
 
 **Quality Parameters:** Weight variation (±5%), hardness (moderate — must dissolve in mouth), friability, dissolution time (5-15 min buccal), moisture (<6%), volatile oil content (NLT 0.5%), 1,8-cineole content, eugenol content, HPTLC fingerprint, microbial limits, heavy metals
 
@@ -65,7 +65,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Eladi-Vati/meta-ana
 
 ### Synergistic Combinations
 
-- [Khadiradi Vati](/ayurveda-atlas/formulation/khadiradi-vati/)
-- [Sitopaladi Churna](/ayurveda-atlas/formulation/sitopaladi-churna/)
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) Churna
-- [Talisadi Churna](/ayurveda-atlas/formulation/talisadi-churna/)
+- [Khadiradi Vati](/nighantu/formulation/khadiradi-vati/)
+- [Sitopaladi Churna](/nighantu/formulation/sitopaladi-churna/)
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) Churna
+- [Talisadi Churna](/nighantu/formulation/talisadi-churna/)

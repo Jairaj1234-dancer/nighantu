@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Bandhuka/meta-analysis.md"
 
 **Standard Dosage:** 3-6g flower powder twice daily; 10-20ml fresh juice; 50-100ml decoction; external paste as needed
 
-**Bioavailability:** Limited modern pharmacokinetic data. Flavonoid [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) likely undergo hepatic first-pass metabolism. Traditional use with honey ([Madhu](/ayurveda-atlas/herb/madhu/)) or ghee as Anupana may enhance mucosal absorption. Anthocyanin pigments show moderate oral bioavailability (15-25%). Note: limited modern evidence available for this herb.
+**Bioavailability:** Limited modern pharmacokinetic data. Flavonoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) likely undergo hepatic first-pass metabolism. Traditional use with honey ([Madhu](/nighantu/herb/madhu/)) or ghee as Anupana may enhance mucosal absorption. Anthocyanin pigments show moderate oral bioavailability (15-25%). Note: limited modern evidence available for this herb.
 
 **Optimal Timing:** With meals for general health; flower juice early morning on empty stomach for menstrual health; paste applied externally as needed
 
@@ -59,18 +59,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Bandhuka/meta-analysis.md"
 
 **Storage:** Store in airtight, light-protected containers. Anthocyanin pigments degrade with light and heat exposure. Maintain temperature below 25°C.
 
-**Marker Compounds:** Pelargonidin, Cyanidin glycosides, [Kaempferol](/ayurveda-atlas/reference/kaempferol/), [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/), Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), Octacosanol
+**Marker Compounds:** Pelargonidin, Cyanidin glycosides, [Kaempferol](/nighantu/reference/kaempferol/), [Quercetin](/nighantu/reference/quercetinquercetin/), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Octacosanol
 
 ### Extraction Methods
 
 - Aqueous extraction for flower decoctions
 - Hydroalcoholic extraction (50:50) for flavonoid-rich fractions
 - Cold maceration to preserve color pigments
-- Acidified ethanol extraction for [anthocyanins](/ayurveda-atlas/glossary/compounds-1-a/#anthocyanins)
+- Acidified ethanol extraction for [anthocyanins](/nighantu/glossary/compounds-1-a/#anthocyanins)
 
 ### Synergistic Combinations
 
-- With [Lodhra](/ayurveda-atlas/herb/lodhra/) for menstrual disorders
-- With [Ashoka](/ayurveda-atlas/herb/ashoka/) for uterine health
+- With [Lodhra](/nighantu/herb/lodhra/) for menstrual disorders
+- With [Ashoka](/nighantu/herb/ashoka/) for uterine health
 - With Nagakeshara for bleeding disorders
-- With [Durva](/ayurveda-atlas/herb/durva/) (Cynodon) for Pitta-related conditions
+- With [Durva](/nighantu/herb/durva/) (Cynodon) for Pitta-related conditions

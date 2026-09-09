@@ -23,22 +23,22 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Shadbindu-T
 
 | Language | Name |
 |----------|------|
-| English | [Shadbindu Taila](/ayurveda-atlas/formulation/shadbindu-taila/) |
+| English | [Shadbindu Taila](/nighantu/formulation/shadbindu-taila/) |
 
 ## Key Ingredients
 
-- [Bhringraj](/ayurveda-atlas/herb/bhringraj/) (Eclipta alba) - primary herb and juice medium
-- [Eranda](/ayurveda-atlas/herb/eranda/) (Ricinus communis / Castor)
-- [Tagara](/ayurveda-atlas/herb/tagara/) (Valeriana wallichii / Indian Valerian)
+- [Bhringraj](/nighantu/herb/bhringraj/) (Eclipta alba) - primary herb and juice medium
+- [Eranda](/nighantu/herb/eranda/) (Ricinus communis / Castor)
+- [Tagara](/nighantu/herb/tagara/) (Valeriana wallichii / Indian Valerian)
 - Shatahva (Anethum sowa / Dill)
-- [Jivanti](/ayurveda-atlas/herb/jivanti/) (Leptadenia reticulata)
-- [Rasna](/ayurveda-atlas/herb/rasna/) (Pluchea lanceolata)
-- [Vidanga](/ayurveda-atlas/herb/vidanga/) (Embelia ribes)
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) (Glycyrrhiza glabra / Licorice)
-- Shunthi ([Zingiber](/ayurveda-atlas/herb/zingiber/) officinale / [Ginger](/ayurveda-atlas/herb/ginger/))
-- [Saindhava Lavana](/ayurveda-atlas/herb/saindhava-lavana/) (Rock Salt)
-- Goat's milk (Aja [Ksheera](/ayurveda-atlas/herb/ksheera/))
-- [Sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) ([Tila](/ayurveda-atlas/herb/tila/) taila) base
+- [Jivanti](/nighantu/herb/jivanti/) (Leptadenia reticulata)
+- [Rasna](/nighantu/herb/rasna/) (Pluchea lanceolata)
+- [Vidanga](/nighantu/herb/vidanga/) (Embelia ribes)
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (Glycyrrhiza glabra / Licorice)
+- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale / [Ginger](/nighantu/herb/ginger/))
+- [Saindhava Lavana](/nighantu/herb/saindhava-lavana/) (Rock Salt)
+- Goat's milk (Aja [Ksheera](/nighantu/herb/ksheera/))
+- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) ([Tila](/nighantu/herb/tila/) taila) base
 
 ## Where is it described in the classical texts?
 
@@ -46,27 +46,27 @@ Ashtanga Hridayam (Sutrasthana); also referenced in Sharangadhara Samhita. The n
 
 ## How does it work?
 
-- [Kaempferol](/ayurveda-atlas/reference/kaempferol/) (confirmed by HPTLC) acts as a potent anti-inflammatory and [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) agent on nasal and sinus mucosa, reducing chronic inflammatory changes
-- Valeric acid derivatives from [Tagara](/ayurveda-atlas/herb/tagara/) (Valeriana) provide sedative and muscle-relaxant effects on nasal and sinus smooth muscle, promoting drainage of blocked sinuses
-- Shogaols from Shunthi ([ginger](/ayurveda-atlas/herb/ginger/)) provide mucolytic and vasodilatory effects, breaking down thick mucus and improving nasal airflow
-- Rock salt ([Saindhava Lavana](/ayurveda-atlas/herb/saindhava-lavana/)) provides osmotic action helping to draw out excess fluid from congested nasal tissues and has mild antimicrobial properties
+- [Kaempferol](/nighantu/reference/kaempferol/) (confirmed by HPTLC) acts as a potent anti-inflammatory and [antimicrobial](/nighantu/reference/antimicrobial/) agent on nasal and sinus mucosa, reducing chronic inflammatory changes
+- Valeric acid derivatives from [Tagara](/nighantu/herb/tagara/) (Valeriana) provide sedative and muscle-relaxant effects on nasal and sinus smooth muscle, promoting drainage of blocked sinuses
+- Shogaols from Shunthi ([ginger](/nighantu/herb/ginger/)) provide mucolytic and vasodilatory effects, breaking down thick mucus and improving nasal airflow
+- Rock salt ([Saindhava Lavana](/nighantu/herb/saindhava-lavana/)) provides osmotic action helping to draw out excess fluid from congested nasal tissues and has mild antimicrobial properties
 
 ## Which traditional uses are supported by research?
 
 - Chronic sinusitis and nasal polyps - validated by clinical study (2019) showing 70% marked improvement in sinusitis symptoms after 30 days of Nasya treatment
-- Headache and migraine (Shirahshula) - supported by the [analgesic](/ayurveda-atlas/reference/analgesic/) and anti-inflammatory actions of kaempferol and [Tagara](/ayurveda-atlas/herb/tagara/)'s [valepotriates](/ayurveda-atlas/glossary/compounds-t-z/#valepotriates) confirmed by HPTLC analysis
-- Hair loss prevention and premature greying - supported by the [Bhringraj](/ayurveda-atlas/herb/bhringraj/) juice base providing established hair growth-promoting [wedelolactone](/ayurveda-atlas/glossary/compounds-t-z/#wedelolactone) compounds via scalp and nasal administration
+- Headache and migraine (Shirahshula) - supported by the [analgesic](/nighantu/reference/analgesic/) and anti-inflammatory actions of kaempferol and [Tagara](/nighantu/herb/tagara/)'s [valepotriates](/nighantu/glossary/compounds-t-z/#valepotriates) confirmed by HPTLC analysis
+- Hair loss prevention and premature greying - supported by the [Bhringraj](/nighantu/herb/bhringraj/) juice base providing established hair growth-promoting [wedelolactone](/nighantu/glossary/compounds-t-z/#wedelolactone) compounds via scalp and nasal administration
 
 ## What do recent clinical trials show?
 
-- **Standardization of [Shadbindu Taila](/ayurveda-atlas/formulation/shadbindu-taila/): An Ayurvedic oil based medicine** (2013): Published in PMC, the study performed physicochemical, phytochemical, and HPTLC analysis. Five major spots were observed indicating therapeutic compounds, with kaempferol detected and identity confirmed. Oil was found free of heavy metals and non-irritant on rabbit skin.
-- **Clinical evaluation of [Shadbindu Taila](/ayurveda-atlas/formulation/shadbindu-taila/) Nasya in chronic sinusitis** (2019): In a controlled clinical study, patients receiving [Shadbindu Taila](/ayurveda-atlas/formulation/shadbindu-taila/) Nasya showed significant improvement in nasal congestion, headache, and facial pain scores, with 70% reporting marked improvement after 30 days of treatment.
-- **Phytochemical profiling and antimicrobial activity of [Shadbindu Taila](/ayurveda-atlas/formulation/shadbindu-taila/)** (2020): HPTLC fingerprinting confirmed the presence of kaempferol and other [flavonoids](/ayurveda-atlas/reference/flavonoids/) with demonstrated antimicrobial activity against common sinus pathogens, supporting its traditional use in sinusitis and ENT disorders.
+- **Standardization of [Shadbindu Taila](/nighantu/formulation/shadbindu-taila/): An Ayurvedic oil based medicine** (2013): Published in PMC, the study performed physicochemical, phytochemical, and HPTLC analysis. Five major spots were observed indicating therapeutic compounds, with kaempferol detected and identity confirmed. Oil was found free of heavy metals and non-irritant on rabbit skin.
+- **Clinical evaluation of [Shadbindu Taila](/nighantu/formulation/shadbindu-taila/) Nasya in chronic sinusitis** (2019): In a controlled clinical study, patients receiving [Shadbindu Taila](/nighantu/formulation/shadbindu-taila/) Nasya showed significant improvement in nasal congestion, headache, and facial pain scores, with 70% reporting marked improvement after 30 days of treatment.
+- **Phytochemical profiling and antimicrobial activity of [Shadbindu Taila](/nighantu/formulation/shadbindu-taila/)** (2020): HPTLC fingerprinting confirmed the presence of kaempferol and other [flavonoids](/nighantu/reference/flavonoids/) with demonstrated antimicrobial activity against common sinus pathogens, supporting its traditional use in sinusitis and ENT disorders.
 
 ## Recent safety updates
 
 - Found non-irritant on rabbit skin in standardization study. No heavy metals detected in properly manufactured formulations. Mild sneezing or nasal discharge may occur after instillation - this is considered a therapeutic response. Temporary burning or lacrimation possible.
-- Not recommended during acute nasal bleeding, fever, or immediately after meals. Avoid in children under 7 years without practitioner supervision. Preliminary safety data are positive but large-scale double-blind studies are still needed to fully characterize pharmacokinetics of herbal [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) in human nasal mucosa.
+- Not recommended during acute nasal bleeding, fever, or immediately after meals. Avoid in children under 7 years without practitioner supervision. Preliminary safety data are positive but large-scale double-blind studies are still needed to fully characterize pharmacokinetics of herbal [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) in human nasal mucosa.
 
 ## What is it made of?
 
@@ -79,11 +79,11 @@ Ashtanga Hridayam (Sutrasthana); also referenced in Sharangadhara Samhita. The n
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Thailam (medicated [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)), External application
+**Dosage Forms:** Thailam (medicated [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)), External application
 
 **Standard Dosage:** Nasya: 2-6 drops per nostril
 
-**Bioavailability:** Oil base ([sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
+**Bioavailability:** Oil base ([sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
 
 **Optimal Timing:** External: before bath or at bedtime. Internal: before meals
 
@@ -91,7 +91,7 @@ Ashtanga Hridayam (Sutrasthana); also referenced in Sharangadhara Samhita. The n
 
 **Storage:** Airtight amber glass/HDPE container, room temperature, protected from light
 
-**Marker Compounds:** Eclipta [saponins](/ayurveda-atlas/reference/saponins/), Ricinoleic acid
+**Marker Compounds:** Eclipta [saponins](/nighantu/reference/saponins/), Ricinoleic acid
 
 **Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Eclipta saponins, Ricinoleic acid
 
@@ -99,4 +99,4 @@ Ashtanga Hridayam (Sutrasthana); also referenced in Sharangadhara Samhita. The n
 
 ### Synergistic Combinations
 
-- Key herbs: Bhringaraj, [Eranda](/ayurveda-atlas/herb/eranda/), Shunthi, [Tagara](/ayurveda-atlas/herb/tagara/) for nasya; oil base acts as lipid carrier for enhanced tissue penetration
+- Key herbs: Bhringaraj, [Eranda](/nighantu/herb/eranda/), Shunthi, [Tagara](/nighantu/herb/tagara/) for nasya; oil base acts as lipid carrier for enhanced tissue penetration

@@ -39,8 +39,8 @@ Trituration (Mardana) of metals and minerals with herbal juices (Bhavana), grind
 
 ## Modern variants
 
-- Porcelain [mortar and pestle](/ayurveda-atlas/device/mortar-and-pestle/)
-- Agate [mortar and pestle](/ayurveda-atlas/device/mortar-and-pestle/)
+- Porcelain [mortar and pestle](/nighantu/device/mortar-and-pestle/)
+- Agate [mortar and pestle](/nighantu/device/mortar-and-pestle/)
 - Mechanical/motorized grinders (Ball mill)
 - Planetary ball mills
 

@@ -28,32 +28,32 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aragwadha/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Rhein](/ayurveda-atlas/glossary/compounds-q-t/#rhein) (anthraquinone)
-- [Emodin](/ayurveda-atlas/glossary/compounds-d-g/#emodin)
+- [Rhein](/nighantu/glossary/compounds-q-t/#rhein) (anthraquinone)
+- [Emodin](/nighantu/glossary/compounds-d-g/#emodin)
 - Fistulic acid
 - Sennosides A-D
-- [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/)
-- [Kaempferol](/ayurveda-atlas/reference/kaempferol/)
+- [Quercetin](/nighantu/reference/quercetinquercetin/)
+- [Kaempferol](/nighantu/reference/kaempferol/)
 - Oxyanthraquinone
-- [Catechin](/ayurveda-atlas/reference/catechin/)
+- [Catechin](/nighantu/reference/catechin/)
 
 ## How does it work?
 
-- [Laxative](/ayurveda-atlas/reference/laxative/): Sennosides and anthraquinone [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) stimulate colonic peristalsis by increasing Cl- secretion and inhibiting Na+/K+-ATPase in colonocytes
+- [Laxative](/nighantu/reference/laxative/): Sennosides and anthraquinone [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) stimulate colonic peristalsis by increasing Cl- secretion and inhibiting Na+/K+-ATPase in colonocytes
 - Anti-inflammatory: Rhein and emodin suppress NF-kB activation and reduce COX-2 expression in inflammatory cells
-- [Antidiabetic](/ayurveda-atlas/reference/antidiabetic/): [Flavonoids](/ayurveda-atlas/reference/flavonoids/) ([quercetin](/ayurveda-atlas/reference/quercetinquercetin/), kaempferol) inhibit alpha-amylase and alpha-glucosidase, reducing postprandial glycemic spikes
+- [Antidiabetic](/nighantu/reference/antidiabetic/): [Flavonoids](/nighantu/reference/flavonoids/) ([quercetin](/nighantu/reference/quercetinquercetin/), kaempferol) inhibit alpha-amylase and alpha-glucosidase, reducing postprandial glycemic spikes
 
 ## Which traditional uses are supported by research?
 
 - Mild laxative (Mridu Virechana) validated by clinical trial showing comparable efficacy to lactulose in geriatric constipation
-- Skin disease treatment confirmed by [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) and antifungal activity of leaf and bark extracts against dermatophytes
-- [Antipyretic](/ayurveda-atlas/reference/antipyretic/) use (Jwaraghna) supported by significant fever reduction in Brewer's yeast-induced pyrexia model
+- Skin disease treatment confirmed by [antimicrobial](/nighantu/reference/antimicrobial/) and antifungal activity of leaf and bark extracts against dermatophytes
+- [Antipyretic](/nighantu/reference/antipyretic/) use (Jwaraghna) supported by significant fever reduction in Brewer's yeast-induced pyrexia model
 
 ## What do recent clinical trials show?
 
-- **A Review of Cassia fistula Linn Potential Uses in Medicine** (2025): Comprehensive analysis revealed C. fistula possesses broad-spectrum therapeutic properties including [antioxidant](/ayurveda-atlas/reference/antioxidant/), anti-inflammatory, antidiabetic, [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/), antimicrobial, and [anticancer](/ayurveda-atlas/reference/anticancer/) activities.
+- **A Review of Cassia fistula Linn Potential Uses in Medicine** (2025): Comprehensive analysis revealed C. fistula possesses broad-spectrum therapeutic properties including [antioxidant](/nighantu/reference/antioxidant/), anti-inflammatory, antidiabetic, [hepatoprotective](/nighantu/reference/hepatoprotective/), antimicrobial, and [anticancer](/nighantu/reference/anticancer/) activities.
 - **Effect of Cassia fistula L. Syrup in Geriatric Constipation Compared with Lactulose: A Randomized Clinical Trial** (2022): Cassia fistula pod pulp syrup showed comparable efficacy to lactulose in treating geriatric constipation with fewer side effects.
-- **Cassia fistula: A Comprehensive Analysis of its Phytochemical Constituents and Pharmacological Activities** (2024): Identified [anthraquinones](/ayurveda-atlas/glossary/compounds-1-a/#anthraquinones), flavonoids, phenolic acids as key bioactives; demonstrated significant antidiabetic activity through alpha-amylase and alpha-glucosidase inhibition.
+- **Cassia fistula: A Comprehensive Analysis of its Phytochemical Constituents and Pharmacological Activities** (2024): Identified [anthraquinones](/nighantu/glossary/compounds-1-a/#anthraquinones), flavonoids, phenolic acids as key bioactives; demonstrated significant antidiabetic activity through alpha-amylase and alpha-glucosidase inhibition.
 
 ## Recent safety updates
 
@@ -87,13 +87,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aragwadha/meta-analysis.md"
 
 **Optimal Timing:** At bedtime with warm water or warm milk for laxative effect; morning empty stomach for skin conditions (internal detox); external paste anytime
 
-**Standardized Extract:** Fruit pulp extract standardized to minimum 2% total anthraquinones (as rhein equivalent). Bark extract standardized to minimum 3% total [polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols). Fistulic acid content minimum 0.5%.
+**Standardized Extract:** Fruit pulp extract standardized to minimum 2% total anthraquinones (as rhein equivalent). Bark extract standardized to minimum 3% total [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols). Fistulic acid content minimum 0.5%.
 
 **Shelf Life:** 2 years (powder/spray-dried pulp); 3 years (capsules/tablets); 6 months (fresh pulp extract, preserved); 18 months (decoction concentrate)
 
 **Storage:** Hygroscopic material — moisture-proof packaging essential. Cool, dry place below 25°C. Pods can be stored whole for up to 1 year at room temperature.
 
-**Marker Compounds:** Rhein, Fistulic acid, Sennosides (trace), [Chrysophanol](/ayurveda-atlas/glossary/compounds-c-d/#chrysophanol), Kaempferol, Oxyanthraquinones, Fistucacidin
+**Marker Compounds:** Rhein, Fistulic acid, Sennosides (trace), [Chrysophanol](/nighantu/glossary/compounds-c-d/#chrysophanol), Kaempferol, Oxyanthraquinones, Fistucacidin
 
 ### Extraction Methods
 
@@ -104,7 +104,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aragwadha/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Haritaki](/ayurveda-atlas/herb/haritaki/) for gentle laxative action
-- With [Nimba](/ayurveda-atlas/herb/nimba/) and [Haridra](/ayurveda-atlas/herb/haridra/) in Aragwadhadi lepa for skin disorders
-- With [Guduchi](/ayurveda-atlas/herb/guduchi/) for fever and skin diseases
-- With [Triphala](/ayurveda-atlas/herb/triphala/) for digestive regulation
+- With [Haritaki](/nighantu/herb/haritaki/) for gentle laxative action
+- With [Nimba](/nighantu/herb/nimba/) and [Haridra](/nighantu/herb/haridra/) in Aragwadhadi lepa for skin disorders
+- With [Guduchi](/nighantu/herb/guduchi/) for fever and skin diseases
+- With [Triphala](/nighantu/herb/triphala/) for digestive regulation

@@ -27,16 +27,16 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Abhayar
 
 ## Key Ingredients
 
-- Abhaya/[Haritaki](/ayurveda-atlas/herb/haritaki/) (Terminalia chebula)
-- [Draksha](/ayurveda-atlas/herb/draksha/) (Vitis vinifera / Dry grapes)
-- [Vidanga](/ayurveda-atlas/herb/vidanga/) (Embelia ribes)
-- [Dhataki](/ayurveda-atlas/herb/dhataki/) Pushpa (Woodfordia fruticosa)
-- [Dhanyaka](/ayurveda-atlas/herb/dhanyaka/) (Coriandrum sativum)
+- Abhaya/[Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula)
+- [Draksha](/nighantu/herb/draksha/) (Vitis vinifera / Dry grapes)
+- [Vidanga](/nighantu/herb/vidanga/) (Embelia ribes)
+- [Dhataki](/nighantu/herb/dhataki/) Pushpa (Woodfordia fruticosa)
+- [Dhanyaka](/nighantu/herb/dhanyaka/) (Coriandrum sativum)
 - Shatapushpa (Anethum graveolens)
-- Shunthi ([Zingiber](/ayurveda-atlas/herb/zingiber/) officinale)
-- [Gokshura](/ayurveda-atlas/herb/gokshura/) (Tribulus terrestris)
-- [Indravaruni](/ayurveda-atlas/herb/indravaruni/) (Citrullus colocynthis)
-- [Madhuka](/ayurveda-atlas/herb/madhuka/) (Madhuca longifolia)
+- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale)
+- [Gokshura](/nighantu/herb/gokshura/) (Tribulus terrestris)
+- [Indravaruni](/nighantu/herb/indravaruni/) (Citrullus colocynthis)
+- [Madhuka](/nighantu/herb/madhuka/) (Madhuca longifolia)
 - Jaggery (fermentation medium)
 
 ## Where is it described in the classical texts?
@@ -47,20 +47,20 @@ Bhaishajya Ratnavali, Arsha Rogadhikara (Piles treatment chapter). Also referenc
 
 - Cholagogue action increases bile secretion by the liver, stimulating intestinal peristalsis for smooth fecal passage
 - Venotonic effect reduces venous pressure in the hemorrhoidal plexus, shrinking piles
-- Mild [laxative](/ayurveda-atlas/reference/laxative/) action of [Haritaki](/ayurveda-atlas/herb/haritaki/) promotes regular bowel movements without dependency
-- Anti-inflammatory properties of [Vidanga](/ayurveda-atlas/herb/vidanga/) and [Haritaki](/ayurveda-atlas/herb/haritaki/) reduce swelling and pain in hemorrhoids
+- Mild [laxative](/nighantu/reference/laxative/) action of [Haritaki](/nighantu/herb/haritaki/) promotes regular bowel movements without dependency
+- Anti-inflammatory properties of [Vidanga](/nighantu/herb/vidanga/) and [Haritaki](/nighantu/herb/haritaki/) reduce swelling and pain in hemorrhoids
 
 ## Which traditional uses are supported by research?
 
 - Constipation (Vibandha) - validated by double-blind study showing significant relief in 4 weeks
-- Piles/Hemorrhoids (Arsha) - supported by venotonic and anti-inflammatory studies on [Haritaki](/ayurveda-atlas/herb/haritaki/)
+- Piles/Hemorrhoids (Arsha) - supported by venotonic and anti-inflammatory studies on [Haritaki](/nighantu/herb/haritaki/)
 - Abdominal distension and flatulence - corroborated by cholagogue mechanism increasing bile flow
-- Dysuria (difficult urination) - traditional use supported by [Gokshura](/ayurveda-atlas/herb/gokshura/)'s [diuretic](/ayurveda-atlas/reference/diuretic/) properties
+- Dysuria (difficult urination) - traditional use supported by [Gokshura](/nighantu/herb/gokshura/)'s [diuretic](/nighantu/reference/diuretic/) properties
 
 ## What do recent clinical trials show?
 
 - **Double-blind study of Abhayarishta in functional constipation** (2017): Study in Journal of Ethnopharmacology showed significant relief in functional constipation after four weeks of therapy compared to placebo.
-- **Anti-hemorrhoidal properties of [Haritaki](/ayurveda-atlas/herb/haritaki/)-based formulations** (2019): [Haritaki](/ayurveda-atlas/herb/haritaki/) extract demonstrated venotonic and anti-inflammatory effects, reducing hemorrhoidal swelling and venous pressure in experimental models.
+- **Anti-hemorrhoidal properties of [Haritaki](/nighantu/herb/haritaki/)-based formulations** (2019): [Haritaki](/nighantu/herb/haritaki/) extract demonstrated venotonic and anti-inflammatory effects, reducing hemorrhoidal swelling and venous pressure in experimental models.
 - **Cholagogue and laxative mechanisms of Abhayarishta** (2020): Mechanistic study confirmed increased bile secretion and enhanced peristaltic movement as primary pathways for constipation relief.
 
 ## Recent safety updates
@@ -99,7 +99,7 @@ Bhaishajya Ratnavali, Arsha Rogadhikara (Piles treatment chapter). Also referenc
 
 ### Synergistic Combinations
 
-- [Triphala](/ayurveda-atlas/herb/triphala/) Churna
-- [Kutajarishta](/ayurveda-atlas/formulation/kutajarishta/)
+- [Triphala](/nighantu/herb/triphala/) Churna
+- [Kutajarishta](/nighantu/formulation/kutajarishta/)
 - Bilvadi Leha
 - Panchasakara Churna

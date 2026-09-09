@@ -23,8 +23,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Black-Pepper/meta-a
 
 | Language | Name |
 |----------|------|
-| English | [Black Pepper](/ayurveda-atlas/herb/black-pepper/) |
-| Common Names | [Black Pepper](/ayurveda-atlas/herb/black-pepper/), King of Spices |
+| English | [Black Pepper](/nighantu/herb/black-pepper/) |
+| Common Names | [Black Pepper](/nighantu/herb/black-pepper/), King of Spices |
 | Hindi | Kali Mirch |
 | Sanskrit | Maricha, Krishna |
 | Latin/Botanical | *Piper nigrum* |
@@ -52,22 +52,22 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Black-Pepper/meta-a
 
 ## Key Phytochemical Constituents
 
-- [Piperine](/ayurveda-atlas/reference/piperine/)
+- [Piperine](/nighantu/reference/piperine/)
 - Piperonal
-- [Chavicine](/ayurveda-atlas/glossary/compounds-c-d/#chavicine)
+- [Chavicine](/nighantu/glossary/compounds-c-d/#chavicine)
 - Piperidine
 
 ## Therapeutic Actions (Karma)
 
 - Bioavailability enhancer
 - Digestive stimulant
-- [Antioxidant](/ayurveda-atlas/reference/antioxidant/)
+- [Antioxidant](/nighantu/reference/antioxidant/)
 - Thermogenic
 - Anti-parasitic
 
 ## How is it used traditionally?
 
-Component of [Trikatu](/ayurveda-atlas/herb/trikatu/) (three pungents). Piperine enhances absorption of [curcumin](/ayurveda-atlas/herb/curcumin/) by 2000%. Used for Agnimandya (weak digestion), Krimi (parasites), and Kasa (cough).
+Component of [Trikatu](/nighantu/herb/trikatu/) (three pungents). Piperine enhances absorption of [curcumin](/nighantu/herb/curcumin/) by 2000%. Used for Agnimandya (weak digestion), Krimi (parasites), and Kasa (cough).
 
 ## Where is it described in the classical texts?
 
@@ -77,7 +77,7 @@ Component of [Trikatu](/ayurveda-atlas/herb/trikatu/) (three pungents). Piperine
 
 ## Recommended Dosage
 
-Powder: 0.5-2g/day; As part of [Trikatu](/ayurveda-atlas/herb/trikatu/): 1-3g/day
+Powder: 0.5-2g/day; As part of [Trikatu](/nighantu/herb/trikatu/): 1-3g/day
 
 ## Safety, contraindications and cautions
 
@@ -99,11 +99,11 @@ Powder: 0.5-2g/day; As part of [Trikatu](/ayurveda-atlas/herb/trikatu/): 1-3g/da
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Tablet, Capsule, Taila (oil), [Trikatu](/ayurveda-atlas/herb/trikatu/) (combination with [Pippali](/ayurveda-atlas/herb/pippali/) and Shunthi), Essential oil, Standardized piperine extract
+**Dosage Forms:** Churna (powder), Tablet, Capsule, Taila (oil), [Trikatu](/nighantu/herb/trikatu/) (combination with [Pippali](/nighantu/herb/pippali/) and Shunthi), Essential oil, Standardized piperine extract
 
-**Standard Dosage:** 1-2g powder; 5-10mg piperine as bioenhancer; as [Trikatu](/ayurveda-atlas/herb/trikatu/): 1-3g; 500mg extract capsule; essential oil: 1-3 drops
+**Standard Dosage:** 1-2g powder; 5-10mg piperine as bioenhancer; as [Trikatu](/nighantu/herb/trikatu/): 1-3g; 500mg extract capsule; essential oil: 1-3 drops
 
-**Bioavailability:** Piperine itself shows excellent oral bioavailability (>90%) and is a potent bioenhancer for other compounds by inhibiting CYP3A4, CYP2D6, and P-glycoprotein (P-gp). Piperine enhances bioavailability of [curcumin](/ayurveda-atlas/herb/curcumin/) by 2000%, [resveratrol](/ayurveda-atlas/glossary/compounds-q-t/#resveratrolresveratrol) by 229%, CoQ10 by 30%, and beta-carotene by 60%. Thermogenic action increases GI blood flow and absorption. Self-bioenhancing herb—one of the most important Ayurvedic bioavailability modifiers (Yogavahi).
+**Bioavailability:** Piperine itself shows excellent oral bioavailability (>90%) and is a potent bioenhancer for other compounds by inhibiting CYP3A4, CYP2D6, and P-glycoprotein (P-gp). Piperine enhances bioavailability of [curcumin](/nighantu/herb/curcumin/) by 2000%, [resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol) by 229%, CoQ10 by 30%, and beta-carotene by 60%. Thermogenic action increases GI blood flow and absorption. Self-bioenhancing herb—one of the most important Ayurvedic bioavailability modifiers (Yogavahi).
 
 **Optimal Timing:** With meals to enhance digestion and nutrient absorption; as bioenhancer, taken concurrently with target compound; Trikatu before meals
 
@@ -113,7 +113,7 @@ Powder: 0.5-2g/day; As part of [Trikatu](/ayurveda-atlas/herb/trikatu/): 1-3g/da
 
 **Storage:** Whole peppercorns in airtight containers away from light. Ground pepper loses volatile oils rapidly—use immediately or store sealed. Piperine extracts are light-sensitive—amber packaging. Cool, dry conditions.
 
-**Marker Compounds:** Piperine, [Piperyline](/ayurveda-atlas/glossary/compounds-o-q/#piperyline), [Piperanine](/ayurveda-atlas/glossary/compounds-o-q/#piperanine), [Piperettine](/ayurveda-atlas/glossary/compounds-o-q/#piperettine), Beta-caryophyllene, [Limonene](/ayurveda-atlas/glossary/compounds-g-l/#limonene), [Sabinene](/ayurveda-atlas/glossary/compounds-q-t/#sabinene), Alpha-pinene, [Piperlongumine](/ayurveda-atlas/glossary/compounds-o-q/#piperlongumine)
+**Marker Compounds:** Piperine, [Piperyline](/nighantu/glossary/compounds-o-q/#piperyline), [Piperanine](/nighantu/glossary/compounds-o-q/#piperanine), [Piperettine](/nighantu/glossary/compounds-o-q/#piperettine), Beta-caryophyllene, [Limonene](/nighantu/glossary/compounds-g-l/#limonene), [Sabinene](/nighantu/glossary/compounds-q-t/#sabinene), Alpha-pinene, [Piperlongumine](/nighantu/glossary/compounds-o-q/#piperlongumine)
 
 ### Extraction Methods
 
@@ -126,8 +126,8 @@ Powder: 0.5-2g/day; As part of [Trikatu](/ayurveda-atlas/herb/trikatu/): 1-3g/da
 
 ### Synergistic Combinations
 
-- With [Pippali](/ayurveda-atlas/herb/pippali/) and Shunthi as Trikatu for digestive fire (Agni) enhancement
-- With [Curcumin](/ayurveda-atlas/herb/curcumin/)—piperine increases bioavailability by 20x
-- With [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) for enhanced withanolide absorption
+- With [Pippali](/nighantu/herb/pippali/) and Shunthi as Trikatu for digestive fire (Agni) enhancement
+- With [Curcumin](/nighantu/herb/curcumin/)—piperine increases bioavailability by 20x
+- With [Ashwagandha](/nighantu/herb/ashwagandha/) for enhanced withanolide absorption
 - With any herb as Yogavahi (bioenhancer)
-- With [Haritaki](/ayurveda-atlas/herb/haritaki/) in Avaleha for respiratory health
+- With [Haritaki](/nighantu/herb/haritaki/) in Avaleha for respiratory health

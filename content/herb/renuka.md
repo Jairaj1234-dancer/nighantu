@@ -28,12 +28,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Renuka/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Diterpenes](/ayurveda-atlas/glossary/compounds-d-g/#diterpenes) of clerodane type (rotundifuran, vitexilactone)
-- [Flavonoids](/ayurveda-atlas/reference/flavonoids/) ([casticin](/ayurveda-atlas/glossary/compounds-c-d/#casticin), penduletin, chrysoplenetin - 20 identified)
-- [Iridoids](/ayurveda-atlas/glossary/compounds-g-l/#iridoids) ([agnuside](/ayurveda-atlas/glossary/compounds-1-a/#agnuside), [aucubin](/ayurveda-atlas/glossary/compounds-a-c/#aucubin) - 10 identified)
-- Essential oils ([sabinene](/ayurveda-atlas/glossary/compounds-q-t/#sabinene), 1,8-[cineole](/ayurveda-atlas/glossary/compounds-c-d/#cineole), alpha-pinene, [limonene](/ayurveda-atlas/glossary/compounds-g-l/#limonene))
+- [Diterpenes](/nighantu/glossary/compounds-d-g/#diterpenes) of clerodane type (rotundifuran, vitexilactone)
+- [Flavonoids](/nighantu/reference/flavonoids/) ([casticin](/nighantu/glossary/compounds-c-d/#casticin), penduletin, chrysoplenetin - 20 identified)
+- [Iridoids](/nighantu/glossary/compounds-g-l/#iridoids) ([agnuside](/nighantu/glossary/compounds-1-a/#agnuside), [aucubin](/nighantu/glossary/compounds-a-c/#aucubin) - 10 identified)
+- Essential oils ([sabinene](/nighantu/glossary/compounds-q-t/#sabinene), 1,8-[cineole](/nighantu/glossary/compounds-c-d/#cineole), alpha-pinene, [limonene](/nighantu/glossary/compounds-g-l/#limonene))
 - Phenolic acids (p-hydroxybenzoic acid)
-- Diterpene [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids)
+- Diterpene [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids)
 
 ## How does it work?
 
@@ -81,7 +81,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Renuka/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g seed powder twice daily; 15-20 mL decoction twice daily; 500 mg standardized extract twice daily
 
-**Bioavailability:** Vitex agnus-castus (Renuka/[Nirgundi](/ayurveda-atlas/herb/nirgundi/)-related species) contains agnuside and casticin with moderate oral bioavailability (25-40%). Diterpene compounds (rotundifuran, vitexilactone) show variable absorption. The dopaminergic compounds that mediate prolactin-lowering effects have adequate bioavailability for hormonal activity at standard doses. Lipophilic flavonoids benefit from fat co-administration. Note: Some Ayurvedic texts identify Renuka as Vitex negundo seed; verify species identity for accurate phytochemical profile.
+**Bioavailability:** Vitex agnus-castus (Renuka/[Nirgundi](/nighantu/herb/nirgundi/)-related species) contains agnuside and casticin with moderate oral bioavailability (25-40%). Diterpene compounds (rotundifuran, vitexilactone) show variable absorption. The dopaminergic compounds that mediate prolactin-lowering effects have adequate bioavailability for hormonal activity at standard doses. Lipophilic flavonoids benefit from fat co-administration. Note: Some Ayurvedic texts identify Renuka as Vitex negundo seed; verify species identity for accurate phytochemical profile.
 
 **Optimal Timing:** Morning on empty stomach for hormonal effects. Continuous daily use for at least 3 menstrual cycles recommended for PMS/menstrual regulation. Take consistently at the same time daily.
 
@@ -91,7 +91,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Renuka/meta-analysis.md"
 
 **Storage:** Seeds and powder: airtight containers, below 25 deg C, RH <55%, protected from light. Extracts: amber containers, cool and dry. Store away from heat sources.
 
-**Marker Compounds:** Casticin, Agnuside, Rotundifuran, Vitexilactone, Aucubin, p-Hydroxybenzoic acid, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), Penduletin
+**Marker Compounds:** Casticin, Agnuside, Rotundifuran, Vitexilactone, Aucubin, p-Hydroxybenzoic acid, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Penduletin
 
 ### Extraction Methods
 
@@ -103,8 +103,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Renuka/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Ashoka](/ayurveda-atlas/herb/ashoka/) (menstrual regulation and hormonal balance)
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) (female reproductive health combination)
-- [Lodhra](/ayurveda-atlas/herb/lodhra/) (gynecological health synergy)
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) (immune modulation with hormonal support)
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) (endocrine [adaptogenic](/ayurveda-atlas/reference/adaptogenic/) combination)
+- [Ashoka](/nighantu/herb/ashoka/) (menstrual regulation and hormonal balance)
+- [Shatavari](/nighantu/herb/shatavari/) (female reproductive health combination)
+- [Lodhra](/nighantu/herb/lodhra/) (gynecological health synergy)
+- [Guduchi](/nighantu/herb/guduchi/) (immune modulation with hormonal support)
+- [Ashwagandha](/nighantu/herb/ashwagandha/) (endocrine [adaptogenic](/nighantu/reference/adaptogenic/) combination)

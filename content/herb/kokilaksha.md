@@ -45,21 +45,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Kokilaksha/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Kashayam (decoction), Capsule, Tablet, Taila (medicated oil), [Ksheera](/ayurveda-atlas/herb/ksheera/) Paka (milk decoction)
+**Dosage Forms:** Churna (powder), Kashayam (decoction), Capsule, Tablet, Taila (medicated oil), [Ksheera](/nighantu/herb/ksheera/) Paka (milk decoction)
 
-**Standard Dosage:** 3-6 g powder twice daily; 50-100 mL decoction; 500 mg capsule twice daily; 100 mL [Ksheera](/ayurveda-atlas/herb/ksheera/) Paka once daily
+**Standard Dosage:** 3-6 g powder twice daily; 50-100 mL decoction; 500 mg capsule twice daily; 100 mL [Ksheera](/nighantu/herb/ksheera/) Paka once daily
 
-**Bioavailability:** [Phytosterols](/ayurveda-atlas/glossary/compounds-o-q/#phytosterols) (beta-[ecdysterone](/ayurveda-atlas/glossary/compounds-d-g/#ecdysterone)) show moderate oral bioavailability (20-30%) with rapid hepatic metabolism. [Alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) (hygrine derivatives) have better systemic availability. Milk-based preparations (Ksheera Paka) significantly enhance phytoecdysteroid absorption due to lipid carrier effect. [Piperine](/ayurveda-atlas/reference/piperine/) co-administration improves ecdysterone bioavailability by inhibiting CYP3A4 metabolism.
+**Bioavailability:** [Phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols) (beta-[ecdysterone](/nighantu/glossary/compounds-d-g/#ecdysterone)) show moderate oral bioavailability (20-30%) with rapid hepatic metabolism. [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) (hygrine derivatives) have better systemic availability. Milk-based preparations (Ksheera Paka) significantly enhance phytoecdysteroid absorption due to lipid carrier effect. [Piperine](/nighantu/reference/piperine/) co-administration improves ecdysterone bioavailability by inhibiting CYP3A4 metabolism.
 
 **Optimal Timing:** With milk for reproductive and anabolic applications (evening preferred); before meals for urinary conditions; Ksheera Paka at bedtime
 
-**Standardized Extract:** Seed extract standardized to minimum 2% 20-hydroxyecdysone (beta-ecdysterone) and 5% total alkaloids by HPLC; whole plant extract to minimum 3% total [saponins](/ayurveda-atlas/reference/saponins/)
+**Standardized Extract:** Seed extract standardized to minimum 2% 20-hydroxyecdysone (beta-ecdysterone) and 5% total alkaloids by HPLC; whole plant extract to minimum 3% total [saponins](/nighantu/reference/saponins/)
 
 **Shelf Life:** 18 months for whole plant powder; 24 months for seed extract capsules; 24 hours for Ksheera Paka; 36 months for oil preparations
 
 **Storage:** Store in airtight containers at 15-30°C. Seed powder is prone to insect infestation — fumigate or use vacuum packaging. Ksheera Paka must be refrigerated and consumed within 24 hours.
 
-**Marker Compounds:** 20-Hydroxyecdysone (Beta-ecdysterone), 25-Hydroxydacryhainansterone, Asteracanthine, Asteracanthicine, [Lupeol](/ayurveda-atlas/reference/lupeol/), [Stigmasterol](/ayurveda-atlas/reference/stigmasterol/), Betulinic acid, [Apigenin](/ayurveda-atlas/glossary/compounds-1-a/#apigenin)
+**Marker Compounds:** 20-Hydroxyecdysone (Beta-ecdysterone), 25-Hydroxydacryhainansterone, Asteracanthine, Asteracanthicine, [Lupeol](/nighantu/reference/lupeol/), [Stigmasterol](/nighantu/reference/stigmasterol/), Betulinic acid, [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin)
 
 ### Extraction Methods
 
@@ -71,8 +71,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Kokilaksha/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Gokshura](/ayurveda-atlas/herb/gokshura/) for urinary and reproductive health synergy
-- [Kapikachhu](/ayurveda-atlas/herb/kapikachhu/) for male fertility enhancement
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) for anabolic and [adaptogenic](/ayurveda-atlas/reference/adaptogenic/) combination
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) for comprehensive reproductive tonic
-- [Punarnava](/ayurveda-atlas/herb/punarnava/) for nephroprotective formulations
+- [Gokshura](/nighantu/herb/gokshura/) for urinary and reproductive health synergy
+- [Kapikachhu](/nighantu/herb/kapikachhu/) for male fertility enhancement
+- [Ashwagandha](/nighantu/herb/ashwagandha/) for anabolic and [adaptogenic](/nighantu/reference/adaptogenic/) combination
+- [Shatavari](/nighantu/herb/shatavari/) for comprehensive reproductive tonic
+- [Punarnava](/nighantu/herb/punarnava/) for nephroprotective formulations

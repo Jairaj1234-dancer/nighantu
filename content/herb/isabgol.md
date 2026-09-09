@@ -37,7 +37,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Isabgol/meta-analysis.m
 **Journal:** Lancet (London, England) (2000)
 **PMID:** 10675182
 
-> Concurrent use of herbs may mimic, magnify, or oppose the effect of drugs. Plausible cases of herb-drug interactions include: bleeding when warfarin is combined with ginkgo (Ginkgo biloba), garlic (Allium sativum), dong quai (Angelica sinensis), or danshen (Salvia miltiorrhiza); mild [serotonin](/ayurveda-atlas/glossary/compounds-q-t/#serotonin) syndrome in patients who mix St John's wort (Hypericum perforatum) with serotonin-reuptake inhibitors; decreased bioavailability of digoxin, theophylline, cyclosporin, and phenprocoumon when these drugs are combined with St John's wort; induction of mania in depressed patients who mix antidepressants and Panax ginseng; exacerbation of extrapyramidal effects with neuroleptic drugs and betel nut (Areca catechu); increased risk of hypertension when tricyclic antidepressants are combined with yohimbine (...
+> Concurrent use of herbs may mimic, magnify, or oppose the effect of drugs. Plausible cases of herb-drug interactions include: bleeding when warfarin is combined with ginkgo (Ginkgo biloba), garlic (Allium sativum), dong quai (Angelica sinensis), or danshen (Salvia miltiorrhiza); mild [serotonin](/nighantu/glossary/compounds-q-t/#serotonin) syndrome in patients who mix St John's wort (Hypericum perforatum) with serotonin-reuptake inhibitors; decreased bioavailability of digoxin, theophylline, cyclosporin, and phenprocoumon when these drugs are combined with St John's wort; induction of mania in depressed patients who mix antidepressants and Panax ginseng; exacerbation of extrapyramidal effects with neuroleptic drugs and betel nut (Areca catechu); increased risk of hypertension when tricyclic antidepressants are combined with yohimbine (...
 
 #### 2. PLANTAGO OVATA: A COMPREHENSIVE REVIEW ON CULTIVATION, BIOCHEMICAL, PHARMACEUTICAL AND PHARMACOLOGICAL ASPECTS.
 
@@ -45,7 +45,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Isabgol/meta-analysis.m
 **Journal:** Acta poloniae pharmaceutica (2017)
 **PMID:** 29513942
 
-> The basic aspire of current study was to review different aspects of Plantago ovata together with its cultivation, growth, biochemistry, pharmaceutical and pharmacological attributes. Plantago ovata belongs to family [Plantaginaceae](/ayurveda-atlas/glossary/plant-families/#plantaginaceae). It is an annual herb, indigenous to Mediterranean region especially Southern Europe, North Africa and West Asia. Different electronic databases (Medline, Science Direct, Springer link, Pubmed, Google and Google Scholar) were analyzed for the literature on medicinal properties of Plantago ovata. The literature analysis has revealed that Plantago ovata has been endowed with diverse pharmaceutical and pharmacological activities. It is widely used in numerous medicines owing to its both pharmaceutical properties such as [mucilage](/ayurveda-atlas/glossary/compounds-l-o/#mucilage), superdisintegrant, gelling agent, s...
+> The basic aspire of current study was to review different aspects of Plantago ovata together with its cultivation, growth, biochemistry, pharmaceutical and pharmacological attributes. Plantago ovata belongs to family [Plantaginaceae](/nighantu/glossary/plant-families/#plantaginaceae). It is an annual herb, indigenous to Mediterranean region especially Southern Europe, North Africa and West Asia. Different electronic databases (Medline, Science Direct, Springer link, Pubmed, Google and Google Scholar) were analyzed for the literature on medicinal properties of Plantago ovata. The literature analysis has revealed that Plantago ovata has been endowed with diverse pharmaceutical and pharmacological activities. It is widely used in numerous medicines owing to its both pharmaceutical properties such as [mucilage](/nighantu/glossary/compounds-l-o/#mucilage), superdisintegrant, gelling agent, s...
 
 #### 3. The role and therapeutic effectiveness of 
 
@@ -55,7 +55,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Isabgol/meta-analysis.m
 
 **Keywords:** Plantago ovata husk, colorectal cancer, functional fibre, irritable bowel syndrome, ulcerative colitis
 
-#### 4. Antiulcerogenic and [antioxidant](/ayurveda-atlas/reference/antioxidant/) activities of Plantago ovata ethanolic extract in rats.
+#### 4. Antiulcerogenic and [antioxidant](/nighantu/reference/antioxidant/) activities of Plantago ovata ethanolic extract in rats.
 
 **Authors:** Khedher A, Dhibi S, Bouzenna H et al.
 **Journal:** Brazilian journal of biology = Revista brasleira de biologia (2022)
@@ -63,7 +63,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Isabgol/meta-analysis.m
 
 > This study aimed to determine the antiulcerogenic and antioxidant activities of Psyllium (Plantago ovata Forssk) seed ethanolic extract in rats. We assessed the antioxidant potential using free radical scavenging on DPPH, β-carotene bleaching activity, ferric reducing power, and hydroxyl radical scavenging activity. In the antiulcerogenic study, pre-treatment with Plantago ovata seeds ethanolic extract (POE) (400 mg/kg b.wt) significantly protected against ethanol-induced gastric ulcer in rats by decreasing the ulcer index value and preserving the integrity of the gastric mucosa. The oxidative stress status in the stomach tissues showed a significant increase in the antioxidant enzyme levels of superoxide dismutase, catalase, and glutathione peroxidase with a significant decrease in lipid ...
 
-#### 5. [Selenium](/ayurveda-atlas/glossary/compounds-q-t/#selenium) biofortification improves bioactive composition and antioxidant status in Plantago ovata Forsk., a medicinal plant.
+#### 5. [Selenium](/nighantu/glossary/compounds-q-t/#selenium) biofortification improves bioactive composition and antioxidant status in Plantago ovata Forsk., a medicinal plant.
 
 **Authors:** Dey Sankalan, Raychaudhuri Sarmistha Sen
 **Journal:** Genes and environment : the official journal of the Japanese Environmental Mutagen Society (2023)
@@ -81,7 +81,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Isabgol/meta-analysis.m
 
 > The diet of six normal and five ileostomy subjects was supplemented with 10 g/d Plantago ovata psyllium husk for 3 wk while six normal and four ileostomy subjects received 10 g/d psyllium seed. Fecal and ileostomy output, sterol excretion, serum cholesterol, and triglycerides were measured before and after supplementation. The husk had no effect on cholesterol or triglyceride concentrations in either normal or ileostomy subjects. Total and high-density-lipoprotein-cholesterol concentrations were reduced on average by 6.4% and 9.3%, respectively, in the normal group after seed supplementation. No effect on fecal bile acid excretion in the normal subjects was found after both regimes. Ileostomy bile acids were increased (on average 25%) after seed supplementation, whereas no effect on choles...
 
-#### 7. Swimming training and Plantago psyllium ameliorate cognitive impairment and [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose) tolerance in streptozotocin-nicotinamide-induced type 2 diabetic rats.
+#### 7. Swimming training and Plantago psyllium ameliorate cognitive impairment and [glucose](/nighantu/glossary/compounds-d-g/#glucose) tolerance in streptozotocin-nicotinamide-induced type 2 diabetic rats.
 
 **Authors:** Parsa Hesam, Moradi-Khaligh Zahra, Rajabi Sara et al.
 **Journal:** The journal of physiological sciences : JPS (2021)
@@ -135,7 +135,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Isabgol/meta-analysis.m
 
 ### Synergistic Combinations
 
-- With [Triphala](/ayurveda-atlas/herb/triphala/) for comprehensive bowel health
+- With [Triphala](/nighantu/herb/triphala/) for comprehensive bowel health
 - With probiotics for enhanced prebiotic action
-- With [Senna](/ayurveda-atlas/herb/senna/) for stronger [laxative](/ayurveda-atlas/reference/laxative/) effect (acute constipation)
-- With [Methi](/ayurveda-atlas/herb/methi/) (fenugreek) for cholesterol management
+- With [Senna](/nighantu/herb/senna/) for stronger [laxative](/nighantu/reference/laxative/) effect (acute constipation)
+- With [Methi](/nighantu/herb/methi/) (fenugreek) for cholesterol management

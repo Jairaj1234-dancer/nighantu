@@ -23,41 +23,41 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Vyoshadi-Gug
 
 | Language | Name |
 |----------|------|
-| English | Vyoshadi [Guggulu](/ayurveda-atlas/formulation/guggulu/)|Vyoshadi Guggulu |
+| English | Vyoshadi [Guggulu](/nighantu/formulation/guggulu/)|Vyoshadi Guggulu |
 
 ## Key Ingredients
 
-- Shuddha [Guggulu](/ayurveda-atlas/formulation/guggulu/)|Shuddha Guggulu (Commiphora wightii) - 9 parts
-- [Trikatu](/ayurveda-atlas/herb/trikatu/) - Shunthi ([Zingiber](/ayurveda-atlas/herb/zingiber/) officinale), Maricha (Piper nigrum), [Pippali](/ayurveda-atlas/herb/pippali/) (Piper longum)
+- Shuddha [Guggulu](/nighantu/formulation/guggulu/)|Shuddha Guggulu (Commiphora wightii) - 9 parts
+- [Trikatu](/nighantu/herb/trikatu/) - Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale), Maricha (Piper nigrum), [Pippali](/nighantu/herb/pippali/) (Piper longum)
 - Chitraka/Agni (Plumbago zeylanica)
 - Musta (Cyperus rotundus)
-- [Vidanga](/ayurveda-atlas/herb/vidanga/) (Embelia ribes)
-- [Triphala](/ayurveda-atlas/herb/triphala/) - [Haritaki](/ayurveda-atlas/herb/haritaki/) (Terminalia chebula), [Bibhitaki](/ayurveda-atlas/herb/bibhitaki/) (Terminalia bellirica), Amalaki (Emblica officinalis)
+- [Vidanga](/nighantu/herb/vidanga/) (Embelia ribes)
+- [Triphala](/nighantu/herb/triphala/) - [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula), [Bibhitaki](/nighantu/herb/bibhitaki/) (Terminalia bellirica), Amalaki (Emblica officinalis)
 
 ## Where is it described in the classical texts?
 
-Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya Ratnavali (Kasa/Pratishyaya Chikitsa) and Chakradatta; described under the [guggulu](/ayurveda-atlas/formulation/guggulu/) formulation group for Kapha-Vata disorders
+Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya Ratnavali (Kasa/Pratishyaya Chikitsa) and Chakradatta; described under the [guggulu](/nighantu/formulation/guggulu/) formulation group for Kapha-Vata disorders
 
 ## How does it work?
 
-- Thyroid stimulation: Guggulsterones from [Guggulu](/ayurveda-atlas/formulation/guggulu/) possess thyroid stimulating activity, increasing T3/T4 output and normalizing TSH levels through direct action on thyroid tissue
-- Anti-inflammatory cytokine inhibition: Guggulsterones inhibit pro-inflammatory cytokines (TNF-alpha, IL-6) while [Trikatu](/ayurveda-atlas/herb/trikatu/) promotes GI absorption of these active compounds
-- Respiratory decongestant: Hot potency of [Trikatu](/ayurveda-atlas/herb/trikatu/) and [Guggulu](/ayurveda-atlas/formulation/guggulu/) targets Kapha stagnation in lungs, relieving nasal inflammation, congestion, discharge, and respiratory irritation
-- Mucosal tonicity: Terminalia fruit [tannins](/ayurveda-atlas/reference/tannins/) (from [Triphala](/ayurveda-atlas/herb/triphala/)) strengthen mucosal tissue in the respiratory tract, improving barrier function against pathogens
+- Thyroid stimulation: Guggulsterones from [Guggulu](/nighantu/formulation/guggulu/) possess thyroid stimulating activity, increasing T3/T4 output and normalizing TSH levels through direct action on thyroid tissue
+- Anti-inflammatory cytokine inhibition: Guggulsterones inhibit pro-inflammatory cytokines (TNF-alpha, IL-6) while [Trikatu](/nighantu/herb/trikatu/) promotes GI absorption of these active compounds
+- Respiratory decongestant: Hot potency of [Trikatu](/nighantu/herb/trikatu/) and [Guggulu](/nighantu/formulation/guggulu/) targets Kapha stagnation in lungs, relieving nasal inflammation, congestion, discharge, and respiratory irritation
+- Mucosal tonicity: Terminalia fruit [tannins](/nighantu/reference/tannins/) (from [Triphala](/nighantu/herb/triphala/)) strengthen mucosal tissue in the respiratory tract, improving barrier function against pathogens
 - Metabolic and lipid regulation: Guggulsterones reduce cholesterol through FXR antagonism, stimulate phagocytosis by increasing leukocyte activity, and enhance overall metabolic function
 
 ## Which traditional uses are supported by research?
 
 - Thyroid function support (Galaganda) validated in RCT showing 16.61% TSH reduction with no adverse effects over 60-day treatment
 - Respiratory congestion and common cold (Pratishyaya) management validated through 30% improvement in cough frequency in clinical study
-- Obesity management validated in prospective multicenter study confirming safety and efficacy of combined Vyoshadi [Guggulu](/ayurveda-atlas/formulation/guggulu/)|Vyoshadi Guggulu with [Haritaki](/ayurveda-atlas/herb/haritaki/) Churna
+- Obesity management validated in prospective multicenter study confirming safety and efficacy of combined Vyoshadi [Guggulu](/nighantu/formulation/guggulu/)|Vyoshadi Guggulu with [Haritaki](/nighantu/herb/haritaki/) Churna
 - Voice hoarseness and throat disorders validated through anti-inflammatory and mucosal-strengthening mechanisms of combined ingredients
 
 ## What do recent clinical trials show?
 
-- **Efficacy of Vyoshadi [Guggulu](/ayurveda-atlas/formulation/guggulu/)|Vyoshadi Guggulu and Shadushana Churna in the management of subclinical hypothyroidism: An open-labelled randomized comparative pilot clinical trial** (2020): 30 patients randomized; Vyoshadi [Guggulu](/ayurveda-atlas/formulation/guggulu/)|Vyoshadi Guggulu (6g/day for 60 days) showed 16.61% decrease in serum TSH and 1.80% decrease in BMI; no adverse effects observed; LFT and RFT within normal limits throughout.
-- **Clinical Efficacy and Safety of [Vyoshadi Guggulu](/ayurveda-atlas/formulation/vyoshadi-guggulu/) and [Haritaki](/ayurveda-atlas/herb/haritaki/) Churna in the Management of Obesity: A Prospective Open-label Multicenter Study** (2017): Prospective multicenter study confirmed safety and efficacy for obesity management with no adverse events reported during treatment period.
-- **Clinical evaluation of [Vyoshadi Guggulu](/ayurveda-atlas/formulation/vyoshadi-guggulu/) for cough and respiratory congestion** (2018): Journal of Ayurveda and Integrative Medicine study showed 30% improvement in cough frequency with the formulation.
+- **Efficacy of Vyoshadi [Guggulu](/nighantu/formulation/guggulu/)|Vyoshadi Guggulu and Shadushana Churna in the management of subclinical hypothyroidism: An open-labelled randomized comparative pilot clinical trial** (2020): 30 patients randomized; Vyoshadi [Guggulu](/nighantu/formulation/guggulu/)|Vyoshadi Guggulu (6g/day for 60 days) showed 16.61% decrease in serum TSH and 1.80% decrease in BMI; no adverse effects observed; LFT and RFT within normal limits throughout.
+- **Clinical Efficacy and Safety of [Vyoshadi Guggulu](/nighantu/formulation/vyoshadi-guggulu/) and [Haritaki](/nighantu/herb/haritaki/) Churna in the Management of Obesity: A Prospective Open-label Multicenter Study** (2017): Prospective multicenter study confirmed safety and efficacy for obesity management with no adverse events reported during treatment period.
+- **Clinical evaluation of [Vyoshadi Guggulu](/nighantu/formulation/vyoshadi-guggulu/) for cough and respiratory congestion** (2018): Journal of Ayurveda and Integrative Medicine study showed 30% improvement in cough frequency with the formulation.
 
 ## Recent safety updates
 
@@ -87,7 +87,7 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 
 **Storage:** Airtight container, cool dry place; guggulu preparations are hygroscopic
 
-**Marker Compounds:** Guggulsterone, [Piperine](/ayurveda-atlas/reference/piperine/), [Gingerol](/ayurveda-atlas/glossary/compounds-d-g/#gingerol)
+**Marker Compounds:** Guggulsterone, [Piperine](/nighantu/reference/piperine/), [Gingerol](/nighantu/glossary/compounds-d-g/#gingerol)
 
 **Quality Parameters:** Weight variation ±5%, disintegration <60 min, hardness 4-8 kP, assay: Guggulsterone, Piperine, Gingerol, guggulsterone content
 
@@ -95,4 +95,4 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 
 ### Synergistic Combinations
 
-- Key herbs: [Trikatu](/ayurveda-atlas/herb/trikatu/) (Vyosha), Guggulu, [Triphala](/ayurveda-atlas/herb/triphala/); guggulu potentiates anti-inflammatory and [hypolipidemic](/ayurveda-atlas/glossary/pharmacology/#hypolipidemic) actions
+- Key herbs: [Trikatu](/nighantu/herb/trikatu/) (Vyosha), Guggulu, [Triphala](/nighantu/herb/triphala/); guggulu potentiates anti-inflammatory and [hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic) actions

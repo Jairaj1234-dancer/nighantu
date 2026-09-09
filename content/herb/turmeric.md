@@ -24,9 +24,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Turmeric/meta-analysis.md"
 | Language | Name |
 |----------|------|
 | English | Turmeric |
-| Common Names | Turmeric, Haldi, Indian [Saffron](/ayurveda-atlas/herb/saffron/) |
+| Common Names | Turmeric, Haldi, Indian [Saffron](/nighantu/herb/saffron/) |
 | Hindi | Haldi |
-| Sanskrit | [Haridra](/ayurveda-atlas/herb/haridra/), Gauri, Kanchani |
+| Sanskrit | [Haridra](/nighantu/herb/haridra/), Gauri, Kanchani |
 | Latin/Botanical | *Curcuma longa* |
 
 ## Parts Used
@@ -43,17 +43,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Turmeric/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Curcumin](/ayurveda-atlas/herb/curcumin/) (diferuloylmethane)
-- [Demethoxycurcumin](/ayurveda-atlas/glossary/compounds-c-d/#demethoxycurcumin)
-- [Bisdemethoxycurcumin](/ayurveda-atlas/glossary/compounds-a-c/#bisdemethoxycurcumin)
-- [Turmerone](/ayurveda-atlas/glossary/compounds-t-z/#turmerone)
+- [Curcumin](/nighantu/herb/curcumin/) (diferuloylmethane)
+- [Demethoxycurcumin](/nighantu/glossary/compounds-c-d/#demethoxycurcumin)
+- [Bisdemethoxycurcumin](/nighantu/glossary/compounds-a-c/#bisdemethoxycurcumin)
+- [Turmerone](/nighantu/glossary/compounds-t-z/#turmerone)
 - Ar-turmerone
 
 ## Therapeutic Actions (Karma)
 
 - Anti-inflammatory (potent COX-2 inhibitor)
-- [Antioxidant](/ayurveda-atlas/reference/antioxidant/)
-- [Hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/)
+- [Antioxidant](/nighantu/reference/antioxidant/)
+- [Hepatoprotective](/nighantu/reference/hepatoprotective/)
 - Anti-cancer (preclinical)
 - Wound healing
 - Anti-microbial
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Turmeric/meta-analysis.md"
 ## How does it work?
 
 - Primary: Inhibition of NF-kB signaling by preventing IkB-alpha degradation and reducing phosphorylation of NF-kB subunits p65 and p50.
-- NLRP3 inflammasome: [Curcumin](/ayurveda-atlas/herb/curcumin/) hinders activation of the NLRP3 inflammasome through NF-kB pathway modulation.
+- NLRP3 inflammasome: [Curcumin](/nighantu/herb/curcumin/) hinders activation of the NLRP3 inflammasome through NF-kB pathway modulation.
 - JAK/STAT pathway: Reduces JAK1/2 and STAT1/3 phosphorylation, inhibiting pro-inflammatory factor expression.
 - MAPK/ERK cascade: Regulates mitogen-activated protein kinase extracellular signal-regulated kinase phosphorylation.
 - p38 MAPK: Therapeutic modulation of p38 MAPK pathway with implications for chronic inflammatory diseases.
@@ -83,17 +83,17 @@ Used in virtually every Ayurvedic formulation. Sacred in Hindu rituals. Classifi
 
 ## What do recent clinical trials show?
 
-- **[Curcumin](/ayurveda-atlas/herb/curcumin/) on Human Health: Comprehensive Systematic Review and Meta-Analysis of 103 Randomized Controlled Trials** (2024): 103 RCTs covering 42 outcomes in 7,216 participants. High-credibility evidence for improvements in fasting blood sugar, CRP, HDL cholesterol, and body weight.
-- **[Curcumin](/ayurveda-atlas/herb/curcumin/) and Curcuma longa Extract Effects on Inflammatory Biomarkers in RA and SLE: Systematic Review and Meta-Analysis of RCTs** (2025): Curcuma longa significantly attenuated systemic inflammation, lowering C-reactive protein and TNF-alpha in rheumatoid arthritis and systemic lupus erythematosus patients.
-- **Efficacy and Safety of [Curcumin](/ayurveda-atlas/herb/curcumin/) in Treatment of Arthritis: Systematic Review and Meta-Analysis** (2022): 29 RCTs with 2,396 participants across 5 types of arthritis showed [curcumin](/ayurveda-atlas/herb/curcumin/) improved inflammation and pain levels with acceptable safety profile.
-- **Curcuma longa as Nutraceutical for Metabolic Syndrome: Systematic Review and Meta-Analysis** (2024): [Curcumin](/ayurveda-atlas/herb/curcumin/) significantly reduced fasting blood sugar, HbA1c, triglycerides, and LDL while elevating HDL and total antioxidant capacity in metabolic syndrome patients.
-- **[Curcumin](/ayurveda-atlas/herb/curcumin/) and Multiple Health Outcomes: Critical Umbrella Review of Intervention Meta-Analyses** (2025): Umbrella review synthesizing multiple meta-analyses confirmed broad therapeutic benefits but emphasized need for improved scientific quality in published studies.
+- **[Curcumin](/nighantu/herb/curcumin/) on Human Health: Comprehensive Systematic Review and Meta-Analysis of 103 Randomized Controlled Trials** (2024): 103 RCTs covering 42 outcomes in 7,216 participants. High-credibility evidence for improvements in fasting blood sugar, CRP, HDL cholesterol, and body weight.
+- **[Curcumin](/nighantu/herb/curcumin/) and Curcuma longa Extract Effects on Inflammatory Biomarkers in RA and SLE: Systematic Review and Meta-Analysis of RCTs** (2025): Curcuma longa significantly attenuated systemic inflammation, lowering C-reactive protein and TNF-alpha in rheumatoid arthritis and systemic lupus erythematosus patients.
+- **Efficacy and Safety of [Curcumin](/nighantu/herb/curcumin/) in Treatment of Arthritis: Systematic Review and Meta-Analysis** (2022): 29 RCTs with 2,396 participants across 5 types of arthritis showed [curcumin](/nighantu/herb/curcumin/) improved inflammation and pain levels with acceptable safety profile.
+- **Curcuma longa as Nutraceutical for Metabolic Syndrome: Systematic Review and Meta-Analysis** (2024): [Curcumin](/nighantu/herb/curcumin/) significantly reduced fasting blood sugar, HbA1c, triglycerides, and LDL while elevating HDL and total antioxidant capacity in metabolic syndrome patients.
+- **[Curcumin](/nighantu/herb/curcumin/) and Multiple Health Outcomes: Critical Umbrella Review of Intervention Meta-Analyses** (2025): Umbrella review synthesizing multiple meta-analyses confirmed broad therapeutic benefits but emphasized need for improved scientific quality in published studies.
 - **Potential Therapeutic Benefits of Curcumin in Depression or Anxiety Induced by Chronic Diseases** (2025): 15 RCTs with 1,123 participants showed curcumin has potential benefits for depression and anxiety symptoms in patients with chronic diseases.
 
 ## Recent safety updates
 
 - Hepatotoxicity is an emerging concern: DILIN (Drug-Induced Liver Injury Network) reported 10 cases of turmeric-associated liver injury with latency of 1-4 months.
-- Bioavailability enhancers ([piperine](/ayurveda-atlas/reference/piperine/)/[black pepper](/ayurveda-atlas/herb/black-pepper/)) increase risk: 20 mg piperine increases curcumin bioavailability 20-fold, and enhanced formulations are linked to greater liver injury risk.
+- Bioavailability enhancers ([piperine](/nighantu/reference/piperine/)/[black pepper](/nighantu/herb/black-pepper/)) increase risk: 20 mg piperine increases curcumin bioavailability 20-fold, and enhanced formulations are linked to greater liver injury risk.
 - Liver injury features: Marked aminotransferase elevations (often >1000 U/L) with hepatocellular pattern; autoantibodies may develop.
 - Genetic susceptibility identified: HLA-B*35:01 allele found in 7/10 DILIN patients, previously linked to green tea hepatotoxicity.
 - Recovery: Generally rapid after discontinuation; prednisone used in severe cases but may not be necessary.
@@ -162,7 +162,7 @@ Powder: 1-3g/day; Curcumin extract: 500-2000mg/day (with piperine for bioavailab
 
 **Storage:** Store in airtight, light-resistant containers at 15-25 deg C. Curcumin is extremely photosensitive; opaque packaging mandatory. Protect from alkaline environments. Phytosome/lipid formulations may require refrigeration (2-8 deg C) for optimal stability.
 
-**Marker Compounds:** Curcumin (diferuloylmethane), Demethoxycurcumin, Bisdemethoxycurcumin, ar-Turmerone, alpha-Turmerone, beta-Turmerone, Curcumol, [Zingiberene](/ayurveda-atlas/glossary/compounds-t-z/#zingiberene)
+**Marker Compounds:** Curcumin (diferuloylmethane), Demethoxycurcumin, Bisdemethoxycurcumin, ar-Turmerone, alpha-Turmerone, beta-Turmerone, Curcumol, [Zingiberene](/nighantu/glossary/compounds-t-z/#zingiberene)
 
 ### Extraction Methods
 
@@ -175,9 +175,9 @@ Powder: 1-3g/day; Curcumin extract: 500-2000mg/day (with piperine for bioavailab
 
 ### Synergistic Combinations
 
-- Piperine (from Maricha/[Pippali](/ayurveda-atlas/herb/pippali/)) - classical bioenhancer, 20x curcumin bioavailability
+- Piperine (from Maricha/[Pippali](/nighantu/herb/pippali/)) - classical bioenhancer, 20x curcumin bioavailability
 - Boswellia serrata - synergistic anti-inflammatory (joint health formulations)
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) - [adaptogenic](/ayurveda-atlas/reference/adaptogenic/) and anti-inflammatory synergy
-- [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/) - synergistic antioxidant and anti-inflammatory
-- [Ginger](/ayurveda-atlas/herb/ginger/) (Shunthi) - complementary anti-inflammatory via COX/LOX pathways
+- [Ashwagandha](/nighantu/herb/ashwagandha/) - [adaptogenic](/nighantu/reference/adaptogenic/) and anti-inflammatory synergy
+- [Quercetin](/nighantu/reference/quercetinquercetin/) - synergistic antioxidant and anti-inflammatory
+- [Ginger](/nighantu/herb/ginger/) (Shunthi) - complementary anti-inflammatory via COX/LOX pathways
 - Turmeric essential oil (ar-turmerone) - enhances curcumin absorption and has independent anti-inflammatory activity

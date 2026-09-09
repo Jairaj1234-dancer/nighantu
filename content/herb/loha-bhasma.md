@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Loha-Bhasma/meta-ana
 
 | Language | Name |
 |----------|------|
-| English | [Loha Bhasma](/ayurveda-atlas/herb/loha-bhasma/) |
+| English | [Loha Bhasma](/nighantu/herb/loha-bhasma/) |
 
 ## Key Phytochemical Constituents
 
@@ -31,14 +31,14 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Loha-Bhasma/meta-ana
 - Magnetite phase (Fe3O4) as primary constituent
 - Fe2+/Fe3+ ratio approximately 40%:60%
 - Trace carbon, sodium, and zinc as contaminants
-- Organic compounds from herbal processing media ([Triphala](/ayurveda-atlas/herb/triphala/), etc.)
+- Organic compounds from herbal processing media ([Triphala](/nighantu/herb/triphala/), etc.)
 
 ## How does it work?
 
 - Iron supplementation via bioavailable nano-iron oxide particles that enhance intestinal absorption through smaller particle size and increased surface area, bypassing typical ferrous iron GI side effects
 - Hematopoietic stimulation through provision of elemental iron in oxide form, supporting hemoglobin synthesis and red blood cell production in iron-deficiency states
 - Potential magnetic hyperthermia for cancer therapy: nanocrystalline magnetite in Lauha Bhasma can generate localized heat under alternating magnetic field for targeted cancer cell killing
-- Digestive fire (Agni) enhancement through iron-mediated stimulation of metabolic [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes) and improvement of nutrient absorption in the gastrointestinal tract
+- Digestive fire (Agni) enhancement through iron-mediated stimulation of metabolic [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) and improvement of nutrient absorption in the gastrointestinal tract
 
 ## Which traditional uses are supported by research?
 
@@ -51,7 +51,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Loha-Bhasma/meta-ana
 - **Structural investigation of Ayurveda Lauha (Iron) Bhasma** (2023): Medicinal grade Lauha Bhasma comprises slightly modified magnetite structure with Fe2+/Fe3+ ratio of approximately 40:60. SEM/XRD studies reveal nanocrystalline iron oxide with potential for targeted cancer cell killing via alternating external magnetic field.
 - **Dhatri Lauha in the management of iron deficiency anemia: A prospective open-label single-arm multi-center trial** (2023): Multi-center clinical trial at 12 centers assessed clinical safety and efficacy of Lauha-based formulation in iron-deficiency anemia patients. Showed comparable hemoglobin improvement to ferrous sulfate with fewer gastrointestinal side effects.
 - **Toxicity study of Lauha Bhasma (calcined iron) in albino rats** (2016): No signs of toxicity or mortality observed up to 100x therapeutic dose in acute toxicity study. Safe at 1x and 5x therapeutic dose in subacute study. Some biochemical alterations at highest dose levels (10x) with histopathological changes.
-- **Double-blind clinical trial comparing [Loha Bhasma](/ayurveda-atlas/herb/loha-bhasma/) to ferrous sulfate** (2018): [Loha Bhasma](/ayurveda-atlas/herb/loha-bhasma/) group showed comparable rise in hemoglobin over 8 weeks to ferrous sulfate group, with significantly fewer gastrointestinal side effects (constipation, nausea, metallic taste).
+- **Double-blind clinical trial comparing [Loha Bhasma](/nighantu/herb/loha-bhasma/) to ferrous sulfate** (2018): [Loha Bhasma](/nighantu/herb/loha-bhasma/) group showed comparable rise in hemoglobin over 8 weeks to ferrous sulfate group, with significantly fewer gastrointestinal side effects (constipation, nausea, metallic taste).
 
 ## Recent safety updates
 
@@ -80,9 +80,9 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Loha-Bhasma/meta-ana
 
 **Bioavailability:** Excellent; iron oxide nanoparticles (50–100 nm) — superior bioavailability to ferrous sulfate tablets per clinical studies
 
-**Optimal Timing:** After meals with honey, ghee, or [Triphala](/ayurveda-atlas/herb/triphala/) Kwatha
+**Optimal Timing:** After meals with honey, ghee, or [Triphala](/nighantu/herb/triphala/) Kwatha
 
-**Standardized Extract:** Shataputi [Loha Bhasma](/ayurveda-atlas/herb/loha-bhasma/) (100-Puta) — standard therapeutic grade
+**Standardized Extract:** Shataputi [Loha Bhasma](/nighantu/herb/loha-bhasma/) (100-Puta) — standard therapeutic grade
 
 **Shelf Life:** Indefinite
 
@@ -92,4 +92,4 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Loha-Bhasma/meta-ana
 
 **Quality Parameters:** Total iron >55%, Varitaratva, Rekhapurnatva, Apunarbhava, Nischandratva (lusterless), particle size <100 nm, arsenic <3 ppm, lead <10 ppm
 
-**Vehicle (Anupana):** Honey + ghee (unequal parts), [Triphala](/ayurveda-atlas/herb/triphala/) Kwatha, [Amla](/ayurveda-atlas/herb/amla/) juice, or [Mandura Bhasma](/ayurveda-atlas/herb/mandura-bhasma/) combination
+**Vehicle (Anupana):** Honey + ghee (unequal parts), [Triphala](/nighantu/herb/triphala/) Kwatha, [Amla](/nighantu/herb/amla/) juice, or [Mandura Bhasma](/nighantu/herb/mandura-bhasma/) combination

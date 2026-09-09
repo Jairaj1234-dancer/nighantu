@@ -23,22 +23,22 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Varanadi-
 
 | Language | Name |
 |----------|------|
-| English | [Varanadi Ghritam](/ayurveda-atlas/formulation/varanadi-ghritam/) |
+| English | [Varanadi Ghritam](/nighantu/formulation/varanadi-ghritam/) |
 
 ## Key Ingredients
 
 - Varana (Crataeva religiosa)
 - Sairyaka (Strobilanthes ciliatus)
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) (Asparagus racemosus)
+- [Shatavari](/nighantu/herb/shatavari/) (Asparagus racemosus)
 - Chitraka (Plumbago zeylanica)
-- [Bilva](/ayurveda-atlas/herb/bilva/) (Aegle marmelos)
-- [Brihati](/ayurveda-atlas/herb/brihati/) (Solanum indicum)
-- [Karanja](/ayurveda-atlas/herb/karanja/) (Pongamia glabra)
-- [Haritaki](/ayurveda-atlas/herb/haritaki/) (Terminalia chebula)
-- [Moringa](/ayurveda-atlas/herb/moringa/) ([Moringa](/ayurveda-atlas/herb/moringa/) oleifera)
+- [Bilva](/nighantu/herb/bilva/) (Aegle marmelos)
+- [Brihati](/nighantu/herb/brihati/) (Solanum indicum)
+- [Karanja](/nighantu/herb/karanja/) (Pongamia glabra)
+- [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula)
+- [Moringa](/nighantu/herb/moringa/) ([Moringa](/nighantu/herb/moringa/) oleifera)
 - Darbha (Desmostachya bipinnata)
 - Bhallataka (Semecarpus anacardium)
-- [Ghrita](/ayurveda-atlas/herb/ghrita/) (clarified cow butter)
+- [Ghrita](/nighantu/herb/ghrita/) (clarified cow butter)
 
 ## Where is it described in the classical texts?
 
@@ -47,23 +47,23 @@ Ashtanga Hridayam (Varunadi Gana by Vagbhata Acharya); Bhaishajya Ratnavali (Utt
 ## How does it work?
 
 - Varana (Crataeva religiosa) provides Lekhana (scraping) action that reduces abnormal tissue growths, cysts, and lipomas
-- Chitraka ([plumbagin](/ayurveda-atlas/glossary/compounds-o-q/#plumbagin)) enhances Agni and metabolism, reducing Kapha-[Meda](/ayurveda-atlas/herb/meda/) accumulation that underlies tumor and cyst formation
-- Bhallataka (Semecarpus anacardium) provides potent anti-tumor and [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) action in classical cancer adjuvant use
+- Chitraka ([plumbagin](/nighantu/glossary/compounds-o-q/#plumbagin)) enhances Agni and metabolism, reducing Kapha-[Meda](/nighantu/herb/meda/) accumulation that underlies tumor and cyst formation
+- Bhallataka (Semecarpus anacardium) provides potent anti-tumor and [immunomodulatory](/nighantu/reference/immunomodulatory/) action in classical cancer adjuvant use
 - Srotoshodhana (channel-clearing) action of combined herbs removes obstructions in body channels, preventing pathological accumulations
-- Ghee base delivers lipophilic active compounds to deep tissues ([Meda](/ayurveda-atlas/herb/meda/), Asthi dhatu) where tumors and lipomas reside
+- Ghee base delivers lipophilic active compounds to deep tissues ([Meda](/nighantu/herb/meda/), Asthi dhatu) where tumors and lipomas reside
 
 ## Which traditional uses are supported by research?
 
-- Granthi (tumors/cysts): case reports validate management of lipoma and abnormal growths with [Varanadi Ghritam](/ayurveda-atlas/formulation/varanadi-ghritam/)-based protocols
+- Granthi (tumors/cysts): case reports validate management of lipoma and abnormal growths with [Varanadi Ghritam](/nighantu/formulation/varanadi-ghritam/)-based protocols
 - Arbuda (tumors/cancer adjuvant): published study confirms biological response modifier activity in head and neck cancer patients
 - Medoroga (obesity/metabolic disorders): Lekhana and Medohara actions of ingredients validated pharmacologically
 - Gulma (abdominal masses): traditional use for abdominal growths supported by channel-clearing and anti-Kapha mechanisms
 
 ## What do recent clinical trials show?
 
-- **Efficacy of Varunadi Ghritha (polyherbal compound) in treated head and neck cancer cases as a biological response modifier** (2014): Varanadi [Ghrita](/ayurveda-atlas/herb/ghrita/) demonstrated biological response modifier activity in treated head and neck cancer patients, supporting immune function post-treatment
-- **Management of Medoja Granthi (pedunculated lipoma) by Ayurvedic approach** (2024): Case report documents successful management of pedunculated lipoma using Ayurvedic approach including [Varanadi Ghritam](/ayurveda-atlas/formulation/varanadi-ghritam/) as part of treatment protocol
-- **[Varanadi Ghritam](/ayurveda-atlas/formulation/varanadi-ghritam/) pharmacological evaluation for channel-clearing and Kapha-reducing activity** (2020): Individual ingredients validated for Srotoshodhana (channel-clearing) and Medohara (fat-reducing) activities supporting traditional use in growths and cysts
+- **Efficacy of Varunadi Ghritha (polyherbal compound) in treated head and neck cancer cases as a biological response modifier** (2014): Varanadi [Ghrita](/nighantu/herb/ghrita/) demonstrated biological response modifier activity in treated head and neck cancer patients, supporting immune function post-treatment
+- **Management of Medoja Granthi (pedunculated lipoma) by Ayurvedic approach** (2024): Case report documents successful management of pedunculated lipoma using Ayurvedic approach including [Varanadi Ghritam](/nighantu/formulation/varanadi-ghritam/) as part of treatment protocol
+- **[Varanadi Ghritam](/nighantu/formulation/varanadi-ghritam/) pharmacological evaluation for channel-clearing and Kapha-reducing activity** (2020): Individual ingredients validated for Srotoshodhana (channel-clearing) and Medohara (fat-reducing) activities supporting traditional use in growths and cysts
 
 ## Recent safety updates
 
@@ -82,7 +82,7 @@ Ashtanga Hridayam (Varunadi Gana by Vagbhata Acharya); Bhaishajya Ratnavali (Utt
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** [Ghrita](/ayurveda-atlas/herb/ghrita/) (medicated ghee), Capsule (for convenience)
+**Dosage Forms:** [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Capsule (for convenience)
 
 **Standard Dosage:** 12-24ml before meals
 
@@ -90,11 +90,11 @@ Ashtanga Hridayam (Varunadi Gana by Vagbhata Acharya); Bhaishajya Ratnavali (Utt
 
 **Optimal Timing:** Before meals on empty stomach for best absorption
 
-**Shelf Life:** 2 years (as per ASU guidelines for [ghrita](/ayurveda-atlas/herb/ghrita/) preparations); improves with aging (Purana Ghrita concept)
+**Shelf Life:** 2 years (as per ASU guidelines for [ghrita](/nighantu/herb/ghrita/) preparations); improves with aging (Purana Ghrita concept)
 
 **Storage:** Airtight glass/stainless steel container, cool dry place, protected from light and moisture
 
-**Marker Compounds:** [Lupeol](/ayurveda-atlas/reference/lupeol/), Plumbagin
+**Marker Compounds:** [Lupeol](/nighantu/reference/lupeol/), Plumbagin
 
 **Quality Parameters:** Acid value <4, peroxide value <5 meq/kg, moisture <0.5%, rancidity test negative, marker: Lupeol, Plumbagin
 
@@ -102,4 +102,4 @@ Ashtanga Hridayam (Varunadi Gana by Vagbhata Acharya); Bhaishajya Ratnavali (Utt
 
 ### Synergistic Combinations
 
-- Key herbs: [Varuna](/ayurveda-atlas/herb/varuna/), Chitraka, Agni herbs in ghee; ghee enhances tissue penetration (yogavahi property)
+- Key herbs: [Varuna](/nighantu/herb/varuna/), Chitraka, Agni herbs in ghee; ghee enhances tissue penetration (yogavahi property)

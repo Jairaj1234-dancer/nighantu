@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Guggulu/meta
 
 ## Therapeutic Actions (Karma)
 
-- [Hypolipidemic](/ayurveda-atlas/glossary/pharmacology/#hypolipidemic)
+- [Hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic)
 - Anti-inflammatory
 - Thyroid stimulant
 - Anti-obesity
@@ -63,7 +63,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Guggulu/meta
 - Inhibits NF-kB pathway: blocks LPS/IL-1b-induced ICAM-1 expression, NF-kB transcriptional activity, IkB phosphorylation/degradation, NF-kB DNA-binding activity, and IKK activity.
 - Downregulates inflammatory gene products COX-2 and MMP-9 (key players in arthritis development).
 - Regulates multiple transcription factors: NF-kB, STAT3, C/EBPalpha, androgen receptor, and glucocorticoid receptors.
-- Complex resin composition includes volatile oils, terpenoid constituents, minerals, amino acids, [polysaccharides](/ayurveda-atlas/glossary/compounds-o-q/#polysaccharides), and steroidal derivatives.
+- Complex resin composition includes volatile oils, terpenoid constituents, minerals, amino acids, [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides), and steroidal derivatives.
 - Hypolipidemic action mediated through FXR antagonism affecting bile acid metabolism and cholesterol homeostasis.
 
 ## How is it used traditionally?
@@ -79,10 +79,10 @@ Sushruta Samhita has an entire chapter (Guggulu Kalpa) dedicated to it. Describe
 
 ## What do recent clinical trials show?
 
-- **Phytopharmacology of Commiphora wightii (Guggulu): A Mini Review** (2025): Comprehensive review confirming anti-inflammatory, [antioxidant](/ayurveda-atlas/reference/antioxidant/), platelet-regulating, thyroid-stimulating, anti-cancer, anti-diabetic, hypolipidemic, [neuroprotective](/ayurveda-atlas/reference/neuroprotective/), [cardioprotective](/ayurveda-atlas/reference/cardioprotective/), [wound-healing](/ayurveda-atlas/reference/wound-healing/), and [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) properties of guggulu.
+- **Phytopharmacology of Commiphora wightii (Guggulu): A Mini Review** (2025): Comprehensive review confirming anti-inflammatory, [antioxidant](/nighantu/reference/antioxidant/), platelet-regulating, thyroid-stimulating, anti-cancer, anti-diabetic, hypolipidemic, [neuroprotective](/nighantu/reference/neuroprotective/), [cardioprotective](/nighantu/reference/cardioprotective/), [wound-healing](/nighantu/reference/wound-healing/), and [antimicrobial](/nighantu/reference/antimicrobial/) properties of guggulu.
 - **Guggulsterone as a Modulator of Lipid Signaling and Metabolic Reprogramming in Cancer** (2025): Guggulsterone identified as a classical lipid-lowering phytosteroidal FXR antagonist that modulates lipid signaling and metabolic reprogramming relevant to cancer treatment.
 - **The role of guggulsterone on the NF-kB pathway in inflammatory bowel disease: preclinical evidence** (2022): Guggulsterone significantly inhibits NF-kB signaling and attenuates expression of proinflammatory cytokines, showing therapeutic potential for IBD, Graves' orbitopathy, colorectal cancer, and atherosclerosis.
-- **Guggulu and [Triphala](/ayurveda-atlas/herb/triphala/) for the Treatment of Hypercholesterolaemia: A Placebo-Controlled, Double-Blind, Randomised Trial** (2020): Double-blind RCT evaluating guggulu and [triphala](/ayurveda-atlas/herb/triphala/) combination for hypercholesterolemia management, providing modern clinical evidence for the traditional Ayurvedic application.
+- **Guggulu and [Triphala](/nighantu/herb/triphala/) for the Treatment of Hypercholesterolaemia: A Placebo-Controlled, Double-Blind, Randomised Trial** (2020): Double-blind RCT evaluating guggulu and [triphala](/nighantu/herb/triphala/) combination for hypercholesterolemia management, providing modern clinical evidence for the traditional Ayurvedic application.
 - **Dissecting the allosteric FXR modulation: a chemical biology approach using guggulsterone as a chemical tool** (2022): Guggulsterone acts as a peculiar FXR antagonist with gene-selective modulation capability, suggesting a nuanced pharmacological profile beyond simple receptor antagonism.
 
 ## Recent safety updates
@@ -96,7 +96,7 @@ Sushruta Samhita has an entire chapter (Guggulu Kalpa) dedicated to it. Describe
 - Other reported side effects include headaches, nausea, vomiting, loose stools, diarrhea, belching, and hiccups.
 - Used safely in clinical trials up to 24 weeks, with some evidence of safety up to 75 weeks.
 - Commercial products often contain less or no claimed guggulsterone content - standardization of herbal products warranted.
-- Recommend rechecking lipids and liver [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes) at 8-12 weeks when using therapeutically.
+- Recommend rechecking lipids and liver [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) at 8-12 weeks when using therapeutically.
 
 ## Recommended Dosage
 
@@ -142,11 +142,11 @@ Purified guggulu: 500mg-2g/day; Guggulsterones: 25mg three times daily
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** [Shuddha Guggulu](/ayurveda-atlas/glossary/concepts-m-y/#shuddha-guggulu) (purified resin), Guggulu tablets, Capsules (modern)
+**Dosage Forms:** [Shuddha Guggulu](/nighantu/glossary/concepts-m-y/#shuddha-guggulu) (purified resin), Guggulu tablets, Capsules (modern)
 
-**Standard Dosage:** 250-500 mg ([Shuddha Guggulu](/ayurveda-atlas/glossary/concepts-m-y/#shuddha-guggulu)) twice daily, as per AFI Part I
+**Standard Dosage:** 250-500 mg ([Shuddha Guggulu](/nighantu/glossary/concepts-m-y/#shuddha-guggulu)) twice daily, as per AFI Part I
 
-**Bioavailability:** Guggulsterones are lipophilic and moderately absorbed orally (~40-50%). Act as yogavahi (biocarrier) — enhance bioavailability of co-administered drugs. [Triphala](/ayurveda-atlas/herb/triphala/) kwath Shodhana adds gallic acid and [tannins](/ayurveda-atlas/reference/tannins/) that modulate absorption. Resin matrix provides sustained release.
+**Bioavailability:** Guggulsterones are lipophilic and moderately absorbed orally (~40-50%). Act as yogavahi (biocarrier) — enhance bioavailability of co-administered drugs. [Triphala](/nighantu/herb/triphala/) kwath Shodhana adds gallic acid and [tannins](/nighantu/reference/tannins/) that modulate absorption. Resin matrix provides sustained release.
 
 **Optimal Timing:** After meals, twice daily
 
@@ -162,6 +162,6 @@ Purified guggulu: 500mg-2g/day; Guggulsterones: 25mg three times daily
 
 ### Synergistic Combinations
 
-- [Triphala](/ayurveda-atlas/herb/triphala/) Churna
-- [Trikatu](/ayurveda-atlas/herb/trikatu/) Churna
-- Specific herbs depending on formulation (Kanchanara, [Gokshura](/ayurveda-atlas/herb/gokshura/), Yogaraja, etc.)
+- [Triphala](/nighantu/herb/triphala/) Churna
+- [Trikatu](/nighantu/herb/trikatu/) Churna
+- Specific herbs depending on formulation (Kanchanara, [Gokshura](/nighantu/herb/gokshura/), Yogaraja, etc.)

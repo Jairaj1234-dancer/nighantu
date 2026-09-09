@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Bhumi-Jambuka/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | [Bhumi Jambuka](/ayurveda-atlas/herb/bhumi-jambuka/) |
+| English | [Bhumi Jambuka](/nighantu/herb/bhumi-jambuka/) |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -59,18 +59,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Bhumi-Jambuka/meta-analysis.md"
 
 **Storage:** Cool, dry place in airtight containers. Protect from moisture and light.
 
-**Marker Compounds:** Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), [Lupeol](/ayurveda-atlas/reference/lupeol/), Gallic acid, Flavonoid [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides), Phenolic acids
+**Marker Compounds:** Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Lupeol](/nighantu/reference/lupeol/), Gallic acid, Flavonoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides), Phenolic acids
 
 ### Extraction Methods
 
 - Aqueous decoction (traditional method)
 - Hydroalcoholic extraction (50:50)
-- Cold maceration for [mucilage](/ayurveda-atlas/glossary/compounds-l-o/#mucilage)-rich fractions
+- Cold maceration for [mucilage](/nighantu/glossary/compounds-l-o/#mucilage)-rich fractions
 - Fresh juice extraction
 
 ### Synergistic Combinations
 
-- With [Guduchi](/ayurveda-atlas/herb/guduchi/) for immune support
-- With [Triphala](/ayurveda-atlas/herb/triphala/) for digestive health
-- With [Neem](/ayurveda-atlas/herb/neem/) for skin conditions
-- With [Haridra](/ayurveda-atlas/herb/haridra/) for anti-inflammatory effects
+- With [Guduchi](/nighantu/herb/guduchi/) for immune support
+- With [Triphala](/nighantu/herb/triphala/) for digestive health
+- With [Neem](/nighantu/herb/neem/) for skin conditions
+- With [Haridra](/nighantu/herb/haridra/) for anti-inflammatory effects

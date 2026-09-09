@@ -23,13 +23,13 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Shankha-Bhasma/meta-
 
 | Language | Name |
 |----------|------|
-| English | [Shankha Bhasma](/ayurveda-atlas/herb/shankha-bhasma/) |
+| English | [Shankha Bhasma](/nighantu/herb/shankha-bhasma/) |
 
 ## Key Phytochemical Constituents
 
 - Calcium carbonate (CaCO3) as predominant constituent
 - Calcium oxide (CaO) formed during calcination
-- Trace [strontium](/ayurveda-atlas/glossary/compounds-q-t/#strontium), [magnesium](/ayurveda-atlas/glossary/compounds-l-o/#magnesium), sodium
+- Trace [strontium](/nighantu/glossary/compounds-q-t/#strontium), [magnesium](/nighantu/glossary/compounds-l-o/#magnesium), sodium
 - Marine-derived trace minerals
 - Organic matrix residues from shell protein (conchiolin)
 
@@ -42,15 +42,15 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Shankha-Bhasma/meta-
 
 ## Which traditional uses are supported by research?
 
-- Hyperacidity and GERD (Amlapitta): Clinical study confirmed significant GERD symptom resolution (p < 0.005) with lemon-purified [Shankha Bhasma](/ayurveda-atlas/herb/shankha-bhasma/)
+- Hyperacidity and GERD (Amlapitta): Clinical study confirmed significant GERD symptom resolution (p < 0.005) with lemon-purified [Shankha Bhasma](/nighantu/herb/shankha-bhasma/)
 - Digestive disorders (Agnimandya, Ajirna): High acid neutralization capacity validated traditional use as digestive aid and antacid
 - Calcium deficiency: Marine-derived bioavailable calcium content supports traditional use for bone health and Asthi Dhatu nourishment
 
 ## What do recent clinical trials show?
 
-- **Pharmaceutical Standardization and Physicochemical Characterization of Traditional Ayurvedic Marine Drug: Incinerated Conch Shell ([Shankha Bhasma](/ayurveda-atlas/herb/shankha-bhasma/))** (2018): Standardized compressed tablet form developed. Calcium content estimation and acid neutralization capacity confirmed strong antacid properties. Physicochemical parameters established for quality control.
-- **Clinical study on [Shankha Bhasma](/ayurveda-atlas/herb/shankha-bhasma/) in Gastroesophageal Reflux Disease (GERD)** (2019): Lemon-purified [Shankha Bhasma](/ayurveda-atlas/herb/shankha-bhasma/) showed significant resolution (p < 0.005) of GERD symptoms compared to sour gruel-purified [Shankha Bhasma](/ayurveda-atlas/herb/shankha-bhasma/), demonstrating purification method affects clinical efficacy.
-- **Acid Neutralization Capacity of [Shankha Bhasma](/ayurveda-atlas/herb/shankha-bhasma/) as Antacid** (2020): Confirmed high acid neutralization capacity comparable to commercial antacids. Calcium carbonate content and alkaline properties provide effective acid buffering in gastric conditions.
+- **Pharmaceutical Standardization and Physicochemical Characterization of Traditional Ayurvedic Marine Drug: Incinerated Conch Shell ([Shankha Bhasma](/nighantu/herb/shankha-bhasma/))** (2018): Standardized compressed tablet form developed. Calcium content estimation and acid neutralization capacity confirmed strong antacid properties. Physicochemical parameters established for quality control.
+- **Clinical study on [Shankha Bhasma](/nighantu/herb/shankha-bhasma/) in Gastroesophageal Reflux Disease (GERD)** (2019): Lemon-purified [Shankha Bhasma](/nighantu/herb/shankha-bhasma/) showed significant resolution (p < 0.005) of GERD symptoms compared to sour gruel-purified [Shankha Bhasma](/nighantu/herb/shankha-bhasma/), demonstrating purification method affects clinical efficacy.
+- **Acid Neutralization Capacity of [Shankha Bhasma](/nighantu/herb/shankha-bhasma/) as Antacid** (2020): Confirmed high acid neutralization capacity comparable to commercial antacids. Calcium carbonate content and alkaline properties provide effective acid buffering in gastric conditions.
 
 ## Recent safety updates
 

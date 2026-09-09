@@ -19,7 +19,7 @@ productHints: []
 words: 220
 srcRel: "Ayurveda/Medical-Devices/Kshara-Sutra-and-Para-Surgical-Instruments/Agnikarma-Thermal-Cauterization-Instruments/device-info.md"
 ---
-A set of metal rods (Shalaka) of specific shapes - Suchi (needle-point), Bindu (dot/round), Valaya (ring), Vilekha (line), Pratapta (red-hot) - for Agnikarma (therapeutic thermal cauterization). Also includes [Pippali](/ayurveda-atlas/herb/pippali/) (long pepper), Godanta (bovine tooth), and other organic materials that can be heated for cauterization of specific tissues.
+A set of metal rods (Shalaka) of specific shapes - Suchi (needle-point), Bindu (dot/round), Valaya (ring), Vilekha (line), Pratapta (red-hot) - for Agnikarma (therapeutic thermal cauterization). Also includes [Pippali](/nighantu/herb/pippali/) (long pepper), Godanta (bovine tooth), and other organic materials that can be heated for cauterization of specific tissues.
 
 ## Where is it described in the classical texts?
 
@@ -34,9 +34,9 @@ Chronic musculoskeletal pain, plantar fasciitis, tennis elbow, frozen shoulder, 
 - Panchadhatu (five-metal alloy) rods - for muscle/bone cauterization
 - Suvarna (gold) rods - for delicate areas
 - Iron (Loha) rods - general use
-- [Pippali](/ayurveda-atlas/herb/pippali/) (Piper longum) - for mucosal cauterization
+- [Pippali](/nighantu/herb/pippali/) (Piper longum) - for mucosal cauterization
 - Godanta (bovine tooth) - for bone cauterization
-- [Madhu](/ayurveda-atlas/herb/madhu/) (honey) and [Guda](/ayurveda-atlas/glossary/concepts-a-m/#guda) (jaggery) - for skin cauterization
+- [Madhu](/nighantu/herb/madhu/) (honey) and [Guda](/nighantu/glossary/concepts-a-m/#guda) (jaggery) - for skin cauterization
 
 ## Modern variants
 

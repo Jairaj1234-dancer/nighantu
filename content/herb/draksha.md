@@ -29,7 +29,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Draksha/meta-analysis.md"
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| **Rasa** (Taste) | Madhura, [Amla](/ayurveda-atlas/herb/amla/) | Primary taste |
+| **Rasa** (Taste) | Madhura, [Amla](/nighantu/herb/amla/) | Primary taste |
 | **Guna** (Quality) | Guru, Snigdha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
@@ -49,9 +49,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Draksha/meta-analysis.md"
 
 **Standard Dosage:** 10-20g dried grapes (Munakka) soaked and consumed; 50-100ml fresh juice; 5-10g powder twice daily; 1-2 teaspoons Avaleha twice daily
 
-**Bioavailability:** Vitis vinifera (grape/raisin) contains [polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols) including [resveratrol](/ayurveda-atlas/glossary/compounds-q-t/#resveratrolresveratrol), [proanthocyanidins](/ayurveda-atlas/glossary/compounds-o-q/#proanthocyanidins) (OPCs), and [anthocyanins](/ayurveda-atlas/glossary/compounds-1-a/#anthocyanins). [Resveratrol](/ayurveda-atlas/glossary/compounds-q-t/#resveratrolresveratrol) has low oral bioavailability (<1% as free resveratrol) due to rapid glucuronidation and sulfation. However, resveratrol metabolites (resveratrol-3-O-glucuronide, resveratrol-3-sulfate) retain partial biological activity. OPCs have moderate bioavailability (10-15% for monomers/dimers; lower for oligomers). Enhancement: trans-resveratrol in [piperine](/ayurveda-atlas/reference/piperine/) combination increases bioavailability 1544% (clinical data); cyclodextrin complexation improves aqueous solubility 400x; nanoparticle formulation; liposomal delivery. Traditional [Drakshavaleha](/ayurveda-atlas/herb/drakshavaleha/) preparation with ghee may enhance lipophilic compound absorption.
+**Bioavailability:** Vitis vinifera (grape/raisin) contains [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) including [resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol), [proanthocyanidins](/nighantu/glossary/compounds-o-q/#proanthocyanidins) (OPCs), and [anthocyanins](/nighantu/glossary/compounds-1-a/#anthocyanins). [Resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol) has low oral bioavailability (<1% as free resveratrol) due to rapid glucuronidation and sulfation. However, resveratrol metabolites (resveratrol-3-O-glucuronide, resveratrol-3-sulfate) retain partial biological activity. OPCs have moderate bioavailability (10-15% for monomers/dimers; lower for oligomers). Enhancement: trans-resveratrol in [piperine](/nighantu/reference/piperine/) combination increases bioavailability 1544% (clinical data); cyclodextrin complexation improves aqueous solubility 400x; nanoparticle formulation; liposomal delivery. Traditional [Drakshavaleha](/nighantu/herb/drakshavaleha/) preparation with ghee may enhance lipophilic compound absorption.
 
-**Optimal Timing:** Soaked Munakka in the morning on empty stomach for mild [laxative](/ayurveda-atlas/reference/laxative/) effect; juice/Avaleha after meals for digestive and tonic purposes; at bedtime with milk for [Rasayana](/ayurveda-atlas/reference/rasayana/) effect
+**Optimal Timing:** Soaked Munakka in the morning on empty stomach for mild [laxative](/nighantu/reference/laxative/) effect; juice/Avaleha after meals for digestive and tonic purposes; at bedtime with milk for [Rasayana](/nighantu/reference/rasayana/) effect
 
 **Standardized Extract:** Grape seed extract (GSE): standardized to NLT 95% total polyphenols and NLT 80% OPCs (oligomeric proanthocyanidins) by UV spectrophotometry. Resveratrol extract: NLT 50% trans-resveratrol. Whole fruit extract ratio 4:1.
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Draksha/meta-analysis.md"
 
 **Storage:** Dried fruit: airtight, moisture-proof packaging below 25 deg C - susceptible to moisture absorption and microbial growth. Extracts and capsules: cool, dry place, light-protected. Avaleha: airtight glass/food-grade container at room temperature.
 
-**Marker Compounds:** trans-Resveratrol, Oligomeric proanthocyanidins (OPCs), [Catechin](/ayurveda-atlas/reference/catechin/), [Epicatechin](/ayurveda-atlas/glossary/compounds-d-g/#epicatechin), [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/)-3-glucoside, Malvidin-3-glucoside (anthocyanin), Gallic acid
+**Marker Compounds:** trans-Resveratrol, Oligomeric proanthocyanidins (OPCs), [Catechin](/nighantu/reference/catechin/), [Epicatechin](/nighantu/glossary/compounds-d-g/#epicatechin), [Quercetin](/nighantu/reference/quercetinquercetin/)-3-glucoside, Malvidin-3-glucoside (anthocyanin), Gallic acid
 
 ### Extraction Methods
 
@@ -71,8 +71,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Draksha/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With Amalaki for [antioxidant](/ayurveda-atlas/reference/antioxidant/) synergy and Rasayana effect
-- With [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) for respiratory and GI soothing combination
-- With [Pippali](/ayurveda-atlas/herb/pippali/) for enhanced resveratrol bioavailability
-- With [Guduchi](/ayurveda-atlas/herb/guduchi/) for immune-tonic (Rasayana) formulation
+- With Amalaki for [antioxidant](/nighantu/reference/antioxidant/) synergy and Rasayana effect
+- With [Yashtimadhu](/nighantu/herb/yashtimadhu/) for respiratory and GI soothing combination
+- With [Pippali](/nighantu/herb/pippali/) for enhanced resveratrol bioavailability
+- With [Guduchi](/nighantu/herb/guduchi/) for immune-tonic (Rasayana) formulation
 - Used as Anupana (vehicle) for many formulations due to mild, sweet nature

@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Raktamoola/meta-analysis.
 
 **Standard Dosage:** 1-3 g root powder twice daily; 15-20 mL decoction twice daily; 500 mg standardized extract twice daily
 
-**Bioavailability:** Alkannin and shikonin (naphthoquinone enantiomers) from Raktamoola (Alkanna/Onosma species or Arnebia species) have moderate oral bioavailability (20-35%) due to lipophilicity. Shikonin undergoes hepatic metabolism via CYP450 [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes). Topical bioavailability is good for wound healing and dermatological applications due to lipophilic nature penetrating skin barrier. Beta-hydroxy-isovalerylshikonin shows enhanced topical penetration compared to free shikonin.
+**Bioavailability:** Alkannin and shikonin (naphthoquinone enantiomers) from Raktamoola (Alkanna/Onosma species or Arnebia species) have moderate oral bioavailability (20-35%) due to lipophilicity. Shikonin undergoes hepatic metabolism via CYP450 [enzymes](/nighantu/glossary/compounds-d-g/#enzymes). Topical bioavailability is good for wound healing and dermatological applications due to lipophilic nature penetrating skin barrier. Beta-hydroxy-isovalerylshikonin shows enhanced topical penetration compared to free shikonin.
 
 **Optimal Timing:** Oral: after meals. Topical: apply to clean wound/skin area twice daily. Oil preparation: gentle massage on affected area at night.
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Raktamoola/meta-analysis.
 
 **Storage:** Dried root: airtight, below 25 deg C, protected from light (naphthoquinone photodegradation). Extracts: amber containers, nitrogen-flushed, cool storage. Oil: amber glass, below 25 deg C.
 
-**Marker Compounds:** Shikonin, Alkannin, Beta-hydroxyisovalerylshikonin, Acetylshikonin, Deoxyshikonin, Arnebinol, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
+**Marker Compounds:** Shikonin, Alkannin, Beta-hydroxyisovalerylshikonin, Acetylshikonin, Deoxyshikonin, Arnebinol, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
 
 ### Extraction Methods
 
@@ -72,8 +72,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Raktamoola/meta-analysis.
 
 ### Synergistic Combinations
 
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) (wound healing synergy)
-- [Haridra](/ayurveda-atlas/herb/haridra/) (anti-inflammatory combination)
-- [Ghrita](/ayurveda-atlas/herb/ghrita/)/Ghee (lipid vehicle enhances naphthoquinone absorption)
-- [Manjistha](/ayurveda-atlas/herb/manjistha/) (blood purification and wound healing)
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (wound healing synergy)
+- [Haridra](/nighantu/herb/haridra/) (anti-inflammatory combination)
+- [Ghrita](/nighantu/herb/ghrita/)/Ghee (lipid vehicle enhances naphthoquinone absorption)
+- [Manjistha](/nighantu/herb/manjistha/) (blood purification and wound healing)
 - Kumari/Aloe (topical wound healing formulation)

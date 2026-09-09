@@ -45,21 +45,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ajmoda/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Capsule, Tablet, [Arka](/ayurveda-atlas/herb/arka/) (distillate), Taila (essential oil), Kwatha (decoction)
+**Dosage Forms:** Churna (powder), Capsule, Tablet, [Arka](/nighantu/herb/arka/) (distillate), Taila (essential oil), Kwatha (decoction)
 
 **Standard Dosage:** 1-3g powder twice daily; 500mg-1g extract capsule; 2-5 drops essential oil (diluted, for external use)
 
-**Bioavailability:** Good oral bioavailability due to volatile oil content. Apiol and [myristicin](/ayurveda-atlas/glossary/compounds-l-o/#myristicin) are well absorbed from the GI tract. Essential oil components enhance their own absorption and that of co-administered herbs. [Piperine](/ayurveda-atlas/reference/piperine/) co-administration may further increase plasma levels of key constituents by 25-30%.
+**Bioavailability:** Good oral bioavailability due to volatile oil content. Apiol and [myristicin](/nighantu/glossary/compounds-l-o/#myristicin) are well absorbed from the GI tract. Essential oil components enhance their own absorption and that of co-administered herbs. [Piperine](/nighantu/reference/piperine/) co-administration may further increase plasma levels of key constituents by 25-30%.
 
 **Optimal Timing:** After meals with warm water for digestive complaints; before meals for appetite stimulation
 
-**Standardized Extract:** Essential oil standardized to minimum 60% apiol. Seed extract standardized to minimum 3% volatile oil content and 1.5% total [coumarins](/ayurveda-atlas/glossary/compounds-c-d/#coumarins).
+**Standardized Extract:** Essential oil standardized to minimum 60% apiol. Seed extract standardized to minimum 3% volatile oil content and 1.5% total [coumarins](/nighantu/glossary/compounds-c-d/#coumarins).
 
 **Shelf Life:** 2 years (whole seeds); 1 year (powder, due to volatile loss); 3 years (capsules with sealed packaging); 3 years (essential oil in amber glass)
 
 **Storage:** Airtight containers, cool and dry place, protected from light. Essential oil in amber glass bottles at 15-25°C. Seeds best stored whole until processing.
 
-**Marker Compounds:** Apiol, Myristicin, [Thymol](/ayurveda-atlas/glossary/compounds-t-z/#thymol), [Carvacrol](/ayurveda-atlas/glossary/compounds-a-c/#carvacrol), [Limonene](/ayurveda-atlas/glossary/compounds-g-l/#limonene), Beta-pinene
+**Marker Compounds:** Apiol, Myristicin, [Thymol](/nighantu/glossary/compounds-t-z/#thymol), [Carvacrol](/nighantu/glossary/compounds-a-c/#carvacrol), [Limonene](/nighantu/glossary/compounds-g-l/#limonene), Beta-pinene
 
 ### Extraction Methods
 
@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ajmoda/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Hingu](/ayurveda-atlas/herb/hingu/) (asafoetida) for Vatanulomana (carminative action)
+- With [Hingu](/nighantu/herb/hingu/) (asafoetida) for Vatanulomana (carminative action)
 - With Sunthi and Maricha for digestive stimulation
-- With [Ajwain](/ayurveda-atlas/herb/ajwain/) for colic and flatulence
-- With [Saindhava lavana](/ayurveda-atlas/herb/saindhava-lavana/) for appetite stimulation
+- With [Ajwain](/nighantu/herb/ajwain/) for colic and flatulence
+- With [Saindhava lavana](/nighantu/herb/saindhava-lavana/) for appetite stimulation

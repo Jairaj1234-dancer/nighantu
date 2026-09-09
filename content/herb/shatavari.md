@@ -43,11 +43,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Shatavari/meta-analysis.m
 
 ## Key Phytochemical Constituents
 
-- Shatavarin I-IV (steroidal [saponins](/ayurveda-atlas/reference/saponins/))
-- [Racemosol](/ayurveda-atlas/glossary/compounds-q-t/#racemosol)
+- Shatavarin I-IV (steroidal [saponins](/nighantu/reference/saponins/))
+- [Racemosol](/nighantu/glossary/compounds-q-t/#racemosol)
 - Asparagamine A
-- [Isoflavones](/ayurveda-atlas/glossary/compounds-g-l/#isoflavones)
-- [Mucilage](/ayurveda-atlas/glossary/compounds-l-o/#mucilage)
+- [Isoflavones](/nighantu/glossary/compounds-g-l/#isoflavones)
+- [Mucilage](/nighantu/glossary/compounds-l-o/#mucilage)
 
 ## Therapeutic Actions (Karma)
 
@@ -56,7 +56,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Shatavari/meta-analysis.m
 - Phytoestrogenic
 - Anti-ulcerogenic
 - Immunomodulator
-- [Antioxidant](/ayurveda-atlas/reference/antioxidant/)
+- [Antioxidant](/nighantu/reference/antioxidant/)
 - Female reproductive tonic
 
 ## How does it work?
@@ -83,8 +83,8 @@ Name means 'she who possesses 100 husbands' — referring to female reproductive
 
 - **Efficacy and Safety of Shatavari Root Extract for the Management of Menopausal Symptoms: A Double-Blind, Multicenter, Randomized Controlled Trial** (2024): Multicenter RCT demonstrated Shatavari root extract was effective and safe for managing menopausal symptoms including hot flashes, night sweats, and mood disturbances.
 - **Efficacy and Safety of Shatavari (Asparagus racemosus) Root Extract for Perimenopause: Randomized, Double-Blind, Placebo-Controlled Study** (2025): 80 participants randomized to Shatavari 300 mg daily or placebo for 8 weeks. Shatavari root extract demonstrated effective and safe natural intervention for perimenopausal symptoms.
-- **Efficacy and safety of Shatavari root extract (Asparagus racemosus) for menopausal symptoms: a randomized, double-blind, three-arm, placebo-controlled study** (2025): 135 women aged 45-65 across three arms (Shatavari alone, Shatavari + [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/), placebo). Both Shatavari alone and the combination were effective; combination showed additive benefits for managing menopausal symptoms and overall health.
-- **Effects of Shatavari Root Extract on Sexual Wellness in Women: Prospective, Randomized, Double-Blind, Three-Arm, Parallel-Group, Placebo-Controlled Study** (2025): Standardized Shatavari root extract demonstrated safe and effective improvement in women's sexual health outcomes, with additive effects when combined with [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/).
+- **Efficacy and safety of Shatavari root extract (Asparagus racemosus) for menopausal symptoms: a randomized, double-blind, three-arm, placebo-controlled study** (2025): 135 women aged 45-65 across three arms (Shatavari alone, Shatavari + [Ashwagandha](/nighantu/herb/ashwagandha/), placebo). Both Shatavari alone and the combination were effective; combination showed additive benefits for managing menopausal symptoms and overall health.
+- **Effects of Shatavari Root Extract on Sexual Wellness in Women: Prospective, Randomized, Double-Blind, Three-Arm, Parallel-Group, Placebo-Controlled Study** (2025): Standardized Shatavari root extract demonstrated safe and effective improvement in women's sexual health outcomes, with additive effects when combined with [Ashwagandha](/nighantu/herb/ashwagandha/).
 - **Shatavari (Asparagus racemosus): A Promising Ally for Fertility** (2025): Review consolidating evidence that Shatavari enhances fertility rates and improves breast milk quality and quantity, supporting its traditional use in postpartum care.
 
 ## Recent safety updates
@@ -104,7 +104,7 @@ Root powder: 3-6g/day (with milk); Extract: 500mg-1g/day
 ## Safety, contraindications and cautions
 
 - Estrogen-sensitive conditions
-- Kidney disorders ([diuretic](/ayurveda-atlas/reference/diuretic/) effect)
+- Kidney disorders ([diuretic](/nighantu/reference/diuretic/) effect)
 - May increase Kapha (edema/congestion)
 
 ## What is it made of?
@@ -138,21 +138,21 @@ Root powder: 3-6g/day (with milk); Extract: 500mg-1g/day
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Capsule, Tablet, Granules (Shatavari Kalpa), [Ghrita](/ayurveda-atlas/herb/ghrita/) (medicated ghee), Kwatha (decoction), Ksheerapaka (milk decoction), Soft gelatin capsule, Syrup
+**Dosage Forms:** Churna (powder), Capsule, Tablet, Granules (Shatavari Kalpa), [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Kwatha (decoction), Ksheerapaka (milk decoction), Soft gelatin capsule, Syrup
 
 **Standard Dosage:** 3-6 g root powder per day; 500-1000 mg standardized extract twice daily; 1-2 tablespoons Shatavari Kalpa (granules) with milk; 10-20 mL syrup twice daily
 
-**Bioavailability:** Shatavarin (steroidal saponin) has moderate oral bioavailability (20-30%) — improved 2-3x by milk co-administration (traditional Ksheerapaka method, which provides lipid and calcium for enhanced saponin solubilization). Racemosol and [isoflavonoids](/ayurveda-atlas/glossary/compounds-g-l/#isoflavonoids) are lipophilic with moderate absorption. Mucilage content (25-30%) slows gastric emptying and provides sustained release effect. Phytosome/phospholipid complex formulations improve bioavailability by 2.5-3x.
+**Bioavailability:** Shatavarin (steroidal saponin) has moderate oral bioavailability (20-30%) — improved 2-3x by milk co-administration (traditional Ksheerapaka method, which provides lipid and calcium for enhanced saponin solubilization). Racemosol and [isoflavonoids](/nighantu/glossary/compounds-g-l/#isoflavonoids) are lipophilic with moderate absorption. Mucilage content (25-30%) slows gastric emptying and provides sustained release effect. Phytosome/phospholipid complex formulations improve bioavailability by 2.5-3x.
 
-**Optimal Timing:** With warm milk (traditional vehicle for Stanya — [galactagogue](/ayurveda-atlas/glossary/pharmacology/#galactagogue) action and [Vajikarana](/ayurveda-atlas/glossary/pharmacology/#vajikarana) — reproductive tonic); morning and bedtime doses; after meals for GI-protective effects
+**Optimal Timing:** With warm milk (traditional vehicle for Stanya — [galactagogue](/nighantu/glossary/pharmacology/#galactagogue) action and [Vajikarana](/nighantu/glossary/pharmacology/#vajikarana) — reproductive tonic); morning and bedtime doses; after meals for GI-protective effects
 
-**Standardized Extract:** Root extract (10:1 in 70% ethanol), standardized to NLT 40% saponins (as Shatavarin IV equivalents by HPLC-ELSD); or NLT 20% total saponins by gravimetric method. Aqueous extract standardized to NLT 30% [polysaccharides](/ayurveda-atlas/glossary/compounds-o-q/#polysaccharides) for [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) applications.
+**Standardized Extract:** Root extract (10:1 in 70% ethanol), standardized to NLT 40% saponins (as Shatavarin IV equivalents by HPLC-ELSD); or NLT 20% total saponins by gravimetric method. Aqueous extract standardized to NLT 30% [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides) for [immunomodulatory](/nighantu/reference/immunomodulatory/) applications.
 
 **Shelf Life:** 24 months for churna; 36 months for standardized extract capsules; 12 months for Shatavari Kalpa (sugar-based granules); 6-12 months for Ghrita
 
 **Storage:** Store below 25 deg C in airtight containers. Mucilage-rich powder is hygroscopic — maintain RH <50%. Ghrita in glass jars, protect from light. Kalpa in moisture-proof packaging.
 
-**Marker Compounds:** Shatavarin I, Shatavarin IV, Racemosol, Asparagamine A, Racemofuran, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/ayurveda-atlas/reference/stigmasterol/), [Diosgenin](/ayurveda-atlas/glossary/compounds-d-g/#diosgenin)
+**Marker Compounds:** Shatavarin I, Shatavarin IV, Racemosol, Asparagamine A, Racemofuran, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/nighantu/reference/stigmasterol/), [Diosgenin](/nighantu/glossary/compounds-d-g/#diosgenin)
 
 ### Extraction Methods
 
@@ -164,9 +164,9 @@ Root powder: 3-6g/day (with milk); Extract: 500mg-1g/day
 
 ### Synergistic Combinations
 
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) ([adaptogenic](/ayurveda-atlas/reference/adaptogenic/) synergy — male + female reproductive health)
-- [Lodhra](/ayurveda-atlas/herb/lodhra/) (gynecological formulations)
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) (immunomodulatory and galactagogue combination)
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) (ulcer-healing and mucosal protective synergy)
-- [Vidari](/ayurveda-atlas/herb/vidari/) (Brihana — nourishing tonic combinations)
-- [Jeeraka](/ayurveda-atlas/herb/jeeraka/) (galactagogue formulations for lactating mothers)
+- [Ashwagandha](/nighantu/herb/ashwagandha/) ([adaptogenic](/nighantu/reference/adaptogenic/) synergy — male + female reproductive health)
+- [Lodhra](/nighantu/herb/lodhra/) (gynecological formulations)
+- [Guduchi](/nighantu/herb/guduchi/) (immunomodulatory and galactagogue combination)
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (ulcer-healing and mucosal protective synergy)
+- [Vidari](/nighantu/herb/vidari/) (Brihana — nourishing tonic combinations)
+- [Jeeraka](/nighantu/herb/jeeraka/) (galactagogue formulations for lactating mothers)

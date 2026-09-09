@@ -23,13 +23,13 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Manikya-Pishti/meta-
 
 | Language | Name |
 |----------|------|
-| English | [Manikya Pishti](/ayurveda-atlas/herb/manikya-pishti/) |
+| English | [Manikya Pishti](/nighantu/herb/manikya-pishti/) |
 
 ## How does it work?
 
-- [Anticancer](/ayurveda-atlas/reference/anticancer/): 70nm aluminum oxide nanoparticles induce mitochondrial-dependent apoptosis in cancer cells through loss of mitochondrial membrane potential, cytochrome c release, and caspase cascade activation - a genuine nanomedicine mechanism
-- [Neuroprotective](/ayurveda-atlas/reference/neuroprotective/): Aluminum oxide nanoparticles at therapeutic doses demonstrate protective effects on neural tissue, possibly through modulation of oxidative stress pathways
-- [Immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/): Ruby nanoparticles may interact with immune cells to enhance innate immunity; the chromium trace content could play a role in [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose) metabolism regulation
+- [Anticancer](/nighantu/reference/anticancer/): 70nm aluminum oxide nanoparticles induce mitochondrial-dependent apoptosis in cancer cells through loss of mitochondrial membrane potential, cytochrome c release, and caspase cascade activation - a genuine nanomedicine mechanism
+- [Neuroprotective](/nighantu/reference/neuroprotective/): Aluminum oxide nanoparticles at therapeutic doses demonstrate protective effects on neural tissue, possibly through modulation of oxidative stress pathways
+- [Immunomodulatory](/nighantu/reference/immunomodulatory/): Ruby nanoparticles may interact with immune cells to enhance innate immunity; the chromium trace content could play a role in [glucose](/nighantu/glossary/compounds-d-g/#glucose) metabolism regulation
 
 ## Which traditional uses are supported by research?
 

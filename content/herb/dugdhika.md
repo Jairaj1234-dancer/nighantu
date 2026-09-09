@@ -49,17 +49,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Dugdhika/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 5-10ml fresh juice; 50-100ml decoction twice daily; 500mg extract capsule twice daily. Latex: topical application as directed.
 
-**Bioavailability:** Euphorbia thymifolia/hirta (Dugdhika) contains [flavonoids](/ayurveda-atlas/reference/flavonoids/) ([quercetin](/ayurveda-atlas/reference/quercetinquercetin/), [kaempferol](/ayurveda-atlas/reference/kaempferol/) [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides)), [tannins](/ayurveda-atlas/reference/tannins/), and [terpenoids](/ayurveda-atlas/glossary/compounds-t-z/#terpenoids). The milky latex contains diterpene esters with moderate dermal absorption for topical use. Oral bioavailability of flavonoid glycosides is moderate (15-25%); tannins act locally in GI tract. The latex [proteins](/ayurveda-atlas/glossary/compounds-o-q/#proteins) ([enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes)) are denatured by gastric acid. Enhancement: nanoparticle encapsulation of flavonoid-rich extract for improved oral delivery; liposomal gel for enhanced topical penetration of latex components.
+**Bioavailability:** Euphorbia thymifolia/hirta (Dugdhika) contains [flavonoids](/nighantu/reference/flavonoids/) ([quercetin](/nighantu/reference/quercetinquercetin/), [kaempferol](/nighantu/reference/kaempferol/) [glycosides](/nighantu/glossary/compounds-g-l/#glycosides)), [tannins](/nighantu/reference/tannins/), and [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids). The milky latex contains diterpene esters with moderate dermal absorption for topical use. Oral bioavailability of flavonoid glycosides is moderate (15-25%); tannins act locally in GI tract. The latex [proteins](/nighantu/glossary/compounds-o-q/#proteins) ([enzymes](/nighantu/glossary/compounds-d-g/#enzymes)) are denatured by gastric acid. Enhancement: nanoparticle encapsulation of flavonoid-rich extract for improved oral delivery; liposomal gel for enhanced topical penetration of latex components.
 
 **Optimal Timing:** After meals for GI conditions; topical application of latex/paste 2-3 times daily for skin conditions and warts
 
-**Standardized Extract:** Hydroalcoholic extract standardized to NLT 2% total flavonoids (as [quercetin](/ayurveda-atlas/reference/quercetinquercetin/) equivalent). Extract ratio 8:1. Total tannin content NLT 5% (as tannic acid equivalent).
+**Standardized Extract:** Hydroalcoholic extract standardized to NLT 2% total flavonoids (as [quercetin](/nighantu/reference/quercetinquercetin/) equivalent). Extract ratio 8:1. Total tannin content NLT 5% (as tannic acid equivalent).
 
 **Shelf Life:** Fresh juice: use within 4 hours; 1.5 years (powder); 2 years (tablet/capsule)
 
 **Storage:** Dried herb in airtight containers below 25 deg C. Protect from moisture and light. Fresh plant: refrigerate and use promptly. Latex: cannot be stored long-term in native form.
 
-**Marker Compounds:** Quercetin, [Quercitrin](/ayurveda-atlas/glossary/compounds-q-t/#quercitrin), Kaempferol, Gallic acid, Ellagic acid, Euphorbol, Beta-amyrin
+**Marker Compounds:** Quercetin, [Quercitrin](/nighantu/glossary/compounds-q-t/#quercitrin), Kaempferol, Gallic acid, Ellagic acid, Euphorbol, Beta-amyrin
 
 ### Extraction Methods
 
@@ -72,6 +72,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Dugdhika/meta-analysis.md"
 ### Synergistic Combinations
 
 - With Kutaja for anti-diarrheal and anti-dysenteric action
-- With [Nagakesara](/ayurveda-atlas/herb/nagakesara/) for [hemostatic](/ayurveda-atlas/glossary/pharmacology/#hemostatic) synergy in bleeding disorders
-- With [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) for [galactagogue](/ayurveda-atlas/glossary/pharmacology/#galactagogue) (milk-promoting) combination
-- With [Durva](/ayurveda-atlas/herb/durva/) for hemostatic and [wound-healing](/ayurveda-atlas/reference/wound-healing/) applications
+- With [Nagakesara](/nighantu/herb/nagakesara/) for [hemostatic](/nighantu/glossary/pharmacology/#hemostatic) synergy in bleeding disorders
+- With [Yashtimadhu](/nighantu/herb/yashtimadhu/) for [galactagogue](/nighantu/glossary/pharmacology/#galactagogue) (milk-promoting) combination
+- With [Durva](/nighantu/herb/durva/) for hemostatic and [wound-healing](/nighantu/reference/wound-healing/) applications

@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lasuna-Ksheerapaka/meta-analy
 
 | Language | Name |
 |----------|------|
-| English | [Lasuna](/ayurveda-atlas/herb/lasuna/) Ksheerapaka |
+| English | [Lasuna](/nighantu/herb/lasuna/) Ksheerapaka |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lasuna-Ksheerapaka/meta-analy
 
 **Standard Dosage:** 50-100 mL Ksheerapaka preparation twice daily (prepared from 5-10 g garlic in 200 mL milk reduced to half); concentrated powder 500-1000 mg twice daily
 
-**Bioavailability:** Milk lipids enhance absorption of garlic's lipophilic organosulfur compounds (diallyl sulfides). Casein [proteins](/ayurveda-atlas/glossary/compounds-o-q/#proteins) partially stabilize [allicin](/ayurveda-atlas/glossary/compounds-1-a/#allicin), slowing degradation. Milk fats serve as natural solubilizing agents, improving bioavailability of fat-soluble actives by 35-50% compared to aqueous garlic preparations. Calcium in milk may buffer gastric acid, further protecting alliinase activity.
+**Bioavailability:** Milk lipids enhance absorption of garlic's lipophilic organosulfur compounds (diallyl sulfides). Casein [proteins](/nighantu/glossary/compounds-o-q/#proteins) partially stabilize [allicin](/nighantu/glossary/compounds-1-a/#allicin), slowing degradation. Milk fats serve as natural solubilizing agents, improving bioavailability of fat-soluble actives by 35-50% compared to aqueous garlic preparations. Calcium in milk may buffer gastric acid, further protecting alliinase activity.
 
 **Optimal Timing:** Evening or bedtime administration for cardiovascular and Vata-pacifying effects; on empty stomach for respiratory conditions
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lasuna-Ksheerapaka/meta-analy
 
 **Storage:** Fresh Ksheerapaka must be consumed within hours or refrigerated at 2-8 deg C. Spray-dried and lyophilized powders stored below 25 deg C in moisture-proof, airtight containers with desiccant sachets. Protect from light and humidity (below 45% RH).
 
-**Marker Compounds:** S-allylcysteine, Diallyl disulfide, [Alliin](/ayurveda-atlas/glossary/compounds-1-a/#alliin) (residual), Casein-bound allyl sulfides, Allyl methyl sulfoxide
+**Marker Compounds:** S-allylcysteine, Diallyl disulfide, [Alliin](/nighantu/glossary/compounds-1-a/#alliin) (residual), Casein-bound allyl sulfides, Allyl methyl sulfoxide
 
 ### Extraction Methods
 
@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lasuna-Ksheerapaka/meta-analy
 
 ### Synergistic Combinations
 
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) Ksheerapaka ([Rasayana](/ayurveda-atlas/reference/rasayana/) combination)
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) (hormonal balance and gastric soothing)
-- [Pippali](/ayurveda-atlas/herb/pippali/) (bioenhancement of garlic actives)
-- [Haridra](/ayurveda-atlas/herb/haridra/) with warm milk (anti-inflammatory combination)
+- [Ashwagandha](/nighantu/herb/ashwagandha/) Ksheerapaka ([Rasayana](/nighantu/reference/rasayana/) combination)
+- [Shatavari](/nighantu/herb/shatavari/) (hormonal balance and gastric soothing)
+- [Pippali](/nighantu/herb/pippali/) (bioenhancement of garlic actives)
+- [Haridra](/nighantu/herb/haridra/) with warm milk (anti-inflammatory combination)

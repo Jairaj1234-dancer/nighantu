@@ -24,14 +24,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Chandraprabha/meta-analys
 | Language | Name |
 |----------|------|
 | English | Chandraprabha |
-| Common Names | [Chandraprabha Vati](/ayurveda-atlas/formulation/chandraprabha-vati/) |
-| Hindi | [Chandraprabha Vati](/ayurveda-atlas/formulation/chandraprabha-vati/) |
-| Sanskrit | [Chandraprabha Vati](/ayurveda-atlas/formulation/chandraprabha-vati/) |
+| Common Names | [Chandraprabha Vati](/nighantu/formulation/chandraprabha-vati/) |
+| Hindi | [Chandraprabha Vati](/nighantu/formulation/chandraprabha-vati/) |
+| Sanskrit | [Chandraprabha Vati](/nighantu/formulation/chandraprabha-vati/) |
 | Latin/Botanical | *Compound formulation (37 herbs)* |
 
 ## Parts Used
 
-- 37 ingredients including [Shilajit](/ayurveda-atlas/herb/shilajit/), [Guggulu](/ayurveda-atlas/formulation/guggulu/), Iron bhasma, [Loha bhasma](/ayurveda-atlas/herb/loha-bhasma/), and multiple herbs
+- 37 ingredients including [Shilajit](/nighantu/herb/shilajit/), [Guggulu](/nighantu/formulation/guggulu/), Iron bhasma, [Loha bhasma](/nighantu/herb/loha-bhasma/), and multiple herbs
 
 ## Dosha Effects
 
@@ -43,8 +43,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Chandraprabha/meta-analys
 
 ## Key Phytochemical Constituents
 
-- [Shilajit](/ayurveda-atlas/herb/shilajit/)
-- [Guggulu](/ayurveda-atlas/formulation/guggulu/)
+- [Shilajit](/nighantu/herb/shilajit/)
+- [Guggulu](/nighantu/formulation/guggulu/)
 - Iron
 - Combined herb actives
 
@@ -76,7 +76,7 @@ Name means 'moon-bright' — said to make body radiant. Classical compound for P
 
 ## What is it made of?
 
-**Part(s) Analyzed:** 37 ingredients including [Shilajit](/ayurveda-atlas/herb/shilajit/), [Guggulu](/ayurveda-atlas/formulation/guggulu/), Iron bhasma, [Loha bhasma](/ayurveda-atlas/herb/loha-bhasma/), and multiple herbs
+**Part(s) Analyzed:** 37 ingredients including [Shilajit](/nighantu/herb/shilajit/), [Guggulu](/nighantu/formulation/guggulu/), Iron bhasma, [Loha bhasma](/nighantu/herb/loha-bhasma/), and multiple herbs
 
 ### Mineral/Elemental Profile
 
@@ -89,9 +89,9 @@ Name means 'moon-bright' — said to make body radiant. Classical compound for P
 
 **Dosage Forms:** Vati (tablet), Churna (powder), Capsule, Modified tablet
 
-**Standard Dosage:** 2 tablets (500mg each) twice daily with milk or water; 1-2g powder. This is a classical polyherbal formulation ([Chandraprabha Vati](/ayurveda-atlas/formulation/chandraprabha-vati/)) containing 37 ingredients per Sharangadhara Samhita.
+**Standard Dosage:** 2 tablets (500mg each) twice daily with milk or water; 1-2g powder. This is a classical polyherbal formulation ([Chandraprabha Vati](/nighantu/formulation/chandraprabha-vati/)) containing 37 ingredients per Sharangadhara Samhita.
 
-**Bioavailability:** Complex polyherbal formulation—bioavailability is a composite of multiple actives. [Shilajit](/ayurveda-atlas/herb/shilajit/) (a key ingredient) contains fulvic acid which acts as a natural bioenhancer. [Guggulu](/ayurveda-atlas/formulation/guggulu/) resin base improves absorption of lipophilic components. Iron and mineral components ([Loha Bhasma](/ayurveda-atlas/herb/loha-bhasma/), etc.) are in nano/Bhasma form with enhanced bioavailability. Multiple herbs with [piperine](/ayurveda-atlas/reference/piperine/)-like bioenhancement (Maricha, [Pippali](/ayurveda-atlas/herb/pippali/) included in formulation). Self-bioenhancing formulation design—classical Ayurvedic pharmaceutical sophistication.
+**Bioavailability:** Complex polyherbal formulation—bioavailability is a composite of multiple actives. [Shilajit](/nighantu/herb/shilajit/) (a key ingredient) contains fulvic acid which acts as a natural bioenhancer. [Guggulu](/nighantu/formulation/guggulu/) resin base improves absorption of lipophilic components. Iron and mineral components ([Loha Bhasma](/nighantu/herb/loha-bhasma/), etc.) are in nano/Bhasma form with enhanced bioavailability. Multiple herbs with [piperine](/nighantu/reference/piperine/)-like bioenhancement (Maricha, [Pippali](/nighantu/herb/pippali/) included in formulation). Self-bioenhancing formulation design—classical Ayurvedic pharmaceutical sophistication.
 
 **Optimal Timing:** After meals with warm milk or water, twice daily; traditionally recommended for consistent use over 1-3 months for chronic conditions
 
@@ -101,7 +101,7 @@ Name means 'moon-bright' — said to make body radiant. Classical compound for P
 
 **Storage:** Cool, dry place in airtight containers. Vati formulation is relatively stable due to Guggulu matrix. Keep away from moisture—mineral ingredients can oxidize.
 
-**Marker Compounds:** Guggulsterone E and Z (from Guggulu), Fulvic acid (from Shilajit), Piperine (from Maricha), [Berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine) (from [Daruharidra](/ayurveda-atlas/herb/daruharidra/)), [Embelin](/ayurveda-atlas/glossary/compounds-d-g/#embelin) (from [Vidanga](/ayurveda-atlas/herb/vidanga/)), [Curcumin](/ayurveda-atlas/herb/curcumin/) (from [Haridra](/ayurveda-atlas/herb/haridra/))
+**Marker Compounds:** Guggulsterone E and Z (from Guggulu), Fulvic acid (from Shilajit), Piperine (from Maricha), [Berberine](/nighantu/glossary/compounds-a-c/#berberine) (from [Daruharidra](/nighantu/herb/daruharidra/)), [Embelin](/nighantu/glossary/compounds-d-g/#embelin) (from [Vidanga](/nighantu/herb/vidanga/)), [Curcumin](/nighantu/herb/curcumin/) (from [Haridra](/nighantu/herb/haridra/))
 
 ### Extraction Methods
 
@@ -113,6 +113,6 @@ Name means 'moon-bright' — said to make body radiant. Classical compound for P
 ### Synergistic Combinations
 
 - Internal synergies between 37 ingredients are the hallmark of this formulation
-- With [Gokshuradi Guggulu](/ayurveda-atlas/formulation/gokshuradi-guggulu/) for enhanced urological benefits
-- With [Arogyavardhini Vati](/ayurveda-atlas/formulation/arogyavardhini-vati/) for liver-kidney combined support
+- With [Gokshuradi Guggulu](/nighantu/formulation/gokshuradi-guggulu/) for enhanced urological benefits
+- With [Arogyavardhini Vati](/nighantu/formulation/arogyavardhini-vati/) for liver-kidney combined support
 - With Punarnavadi Kwath for nephrological conditions

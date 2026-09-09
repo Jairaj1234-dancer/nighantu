@@ -23,43 +23,43 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Maha-Naraya
 
 | Language | Name |
 |----------|------|
-| English | Maha [Narayana Thailam](/ayurveda-atlas/formulation/narayana-thailam/)|Maha Narayana Thailam |
+| English | Maha [Narayana Thailam](/nighantu/formulation/narayana-thailam/)|Maha Narayana Thailam |
 
 ## Key Ingredients
 
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) (Withania somnifera)
-- [Bala](/ayurveda-atlas/herb/bala/) (Sida cordifolia)
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) (Asparagus racemosus)
-- [Dashamoola](/ayurveda-atlas/herb/dashamoola/) (group of 10 roots)
-- [Rasna](/ayurveda-atlas/herb/rasna/) (Pluchea lanceolata)
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) (Tinospora cordifolia)
-- [Sariva](/ayurveda-atlas/herb/sariva/) (Hemidesmus indicus)
-- [Devadaru](/ayurveda-atlas/herb/devadaru/) (Cedrus deodara)
+- [Ashwagandha](/nighantu/herb/ashwagandha/) (Withania somnifera)
+- [Bala](/nighantu/herb/bala/) (Sida cordifolia)
+- [Shatavari](/nighantu/herb/shatavari/) (Asparagus racemosus)
+- [Dashamoola](/nighantu/herb/dashamoola/) (group of 10 roots)
+- [Rasna](/nighantu/herb/rasna/) (Pluchea lanceolata)
+- [Guduchi](/nighantu/herb/guduchi/) (Tinospora cordifolia)
+- [Sariva](/nighantu/herb/sariva/) (Hemidesmus indicus)
+- [Devadaru](/nighantu/herb/devadaru/) (Cedrus deodara)
 - Ashtavarga (8 Himalayan herbs - unique to Maha version)
-- [Sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) ([Tila](/ayurveda-atlas/herb/tila/) taila) base
-- Cow's milk ([Ksheera](/ayurveda-atlas/herb/ksheera/))
+- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) ([Tila](/nighantu/herb/tila/) taila) base
+- Cow's milk ([Ksheera](/nighantu/herb/ksheera/))
 
 ## Where is it described in the classical texts?
 
-Bhaishajya Ratnavali (Vatavyadhi Chikitsa, verses 151-162) by Govind Das Sen. The 'Maha' (great) version is an expanded formulation of [Narayana Thailam](/ayurveda-atlas/formulation/narayana-thailam/) with 50-56+ herbs including the rare Ashtavarga group. Also referenced in Sushruta Samhita commentaries.
+Bhaishajya Ratnavali (Vatavyadhi Chikitsa, verses 151-162) by Govind Das Sen. The 'Maha' (great) version is an expanded formulation of [Narayana Thailam](/nighantu/formulation/narayana-thailam/) with 50-56+ herbs including the rare Ashtavarga group. Also referenced in Sushruta Samhita commentaries.
 
 ## How does it work?
 
-- [Withanolides](/ayurveda-atlas/glossary/compounds-t-z/#withanolides) from [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) suppress NF-kB pathway activation, reducing inflammatory cytokines (TNF-alpha, IL-6) at joint tissue level
-- [Sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) base serves as a penetration enhancer, delivering lipophilic [saponins](/ayurveda-atlas/reference/saponins/), [lignans](/ayurveda-atlas/glossary/compounds-g-l/#lignans), and phenolics transdermally to deep musculoskeletal tissues
-- [Guduchi](/ayurveda-atlas/herb/guduchi/)'s [berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine) and tinosporine [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) provide [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) and anti-arthritic effects by modulating T-cell response and reducing rheumatoid factor
-- [Rasna](/ayurveda-atlas/herb/rasna/)'s clerodane [diterpenes](/ayurveda-atlas/glossary/compounds-d-g/#diterpenes) provide specific anti-inflammatory action on synovial membranes, reducing joint swelling and stiffness
+- [Withanolides](/nighantu/glossary/compounds-t-z/#withanolides) from [Ashwagandha](/nighantu/herb/ashwagandha/) suppress NF-kB pathway activation, reducing inflammatory cytokines (TNF-alpha, IL-6) at joint tissue level
+- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) base serves as a penetration enhancer, delivering lipophilic [saponins](/nighantu/reference/saponins/), [lignans](/nighantu/glossary/compounds-g-l/#lignans), and phenolics transdermally to deep musculoskeletal tissues
+- [Guduchi](/nighantu/herb/guduchi/)'s [berberine](/nighantu/glossary/compounds-a-c/#berberine) and tinosporine [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) provide [immunomodulatory](/nighantu/reference/immunomodulatory/) and anti-arthritic effects by modulating T-cell response and reducing rheumatoid factor
+- [Rasna](/nighantu/herb/rasna/)'s clerodane [diterpenes](/nighantu/glossary/compounds-d-g/#diterpenes) provide specific anti-inflammatory action on synovial membranes, reducing joint swelling and stiffness
 
 ## Which traditional uses are supported by research?
 
 - Osteoarthritis and joint pain management - validated by AYU Journal study (2018) showing 68% symptom reduction with 21 days of Abhyanga treatment
-- Vata-vyadhi (neuromuscular disorders) including paralysis, muscular atrophy, and tremors - supported by pharmacological studies confirming [neuroprotective](/ayurveda-atlas/reference/neuroprotective/) and anti-inflammatory compounds
-- Bone and joint strengthening (Asthi-Sandhi Balya) - supported by the identification of [phytosterols](/ayurveda-atlas/glossary/compounds-o-q/#phytosterols) and calcium-channel active compounds from [Dashamoola](/ayurveda-atlas/herb/dashamoola/) and [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/)
+- Vata-vyadhi (neuromuscular disorders) including paralysis, muscular atrophy, and tremors - supported by pharmacological studies confirming [neuroprotective](/nighantu/reference/neuroprotective/) and anti-inflammatory compounds
+- Bone and joint strengthening (Asthi-Sandhi Balya) - supported by the identification of [phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols) and calcium-channel active compounds from [Dashamoola](/nighantu/herb/dashamoola/) and [Ashwagandha](/nighantu/herb/ashwagandha/)
 
 ## What do recent clinical trials show?
 
 - **Clinical efficacy of Mahanarayana Thailam Abhyanga in osteoarthritis of knee** (2018): Published in AYU Journal, the study reported 68% symptom reduction in osteoarthritic knee patients receiving Abhyanga with Mahanarayana Thailam over 21 days of treatment.
-- **Anti-inflammatory and [analgesic](/ayurveda-atlas/reference/analgesic/) evaluation of Mahanarayana Taila polyherbal formulation** (2020): Pharmacological analysis confirmed the presence of saponins, lignans, and phenolics that exert anti-inflammatory, analgesic, and [antioxidant](/ayurveda-atlas/reference/antioxidant/) effects through COX-2 inhibition and free radical scavenging pathways.
+- **Anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) evaluation of Mahanarayana Taila polyherbal formulation** (2020): Pharmacological analysis confirmed the presence of saponins, lignans, and phenolics that exert anti-inflammatory, analgesic, and [antioxidant](/nighantu/reference/antioxidant/) effects through COX-2 inhibition and free radical scavenging pathways.
 - **Transdermal delivery efficacy of Mahanarayana Thailam in joint disorders** (2021): The lipid medium (sneha) of the formulation facilitated superior transdermal delivery of lipophilic phytoconstituents, resulting in higher tissue concentrations of active compounds at joint sites compared to simple oil application.
 
 ## Recent safety updates
@@ -78,11 +78,11 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa, verses 151-162) by Govind Das Sen. Th
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Thailam (medicated [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)), External application
+**Dosage Forms:** Thailam (medicated [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)), External application
 
 **Standard Dosage:** External massage or Basti (enema): 30-60ml
 
-**Bioavailability:** Oil base ([sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
+**Bioavailability:** Oil base ([sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
 
 **Optimal Timing:** External: before bath or at bedtime. Internal: before meals
 
@@ -90,7 +90,7 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa, verses 151-162) by Govind Das Sen. Th
 
 **Storage:** Airtight amber glass/HDPE container, room temperature, protected from light
 
-**Marker Compounds:** Withanolides, [Aegeline](/ayurveda-atlas/glossary/compounds-1-a/#aegeline), [Sesamin](/ayurveda-atlas/glossary/compounds-q-t/#sesamin)
+**Marker Compounds:** Withanolides, [Aegeline](/nighantu/glossary/compounds-1-a/#aegeline), [Sesamin](/nighantu/glossary/compounds-q-t/#sesamin)
 
 **Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Withanolides, Aegeline, Sesamin
 
@@ -98,4 +98,4 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa, verses 151-162) by Govind Das Sen. Th
 
 ### Synergistic Combinations
 
-- Key herbs: [Bilva](/ayurveda-atlas/herb/bilva/), [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/), [Brihati](/ayurveda-atlas/herb/brihati/), [Shatavari](/ayurveda-atlas/herb/shatavari/) + 20 more herbs; oil base acts as lipid carrier for enhanced tissue penetration
+- Key herbs: [Bilva](/nighantu/herb/bilva/), [Ashwagandha](/nighantu/herb/ashwagandha/), [Brihati](/nighantu/herb/brihati/), [Shatavari](/nighantu/herb/shatavari/) + 20 more herbs; oil base acts as lipid carrier for enhanced tissue penetration

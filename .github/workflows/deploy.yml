@@ -16,7 +16,7 @@ concurrency:
 
 env:
   ATLAS_SITE: https://jairaj1234-dancer.github.io
-  ATLAS_BASE: /ayurveda-atlas
+  ATLAS_BASE: /nighantu
 
 jobs:
   build:

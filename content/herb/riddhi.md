@@ -28,37 +28,37 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Riddhi/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Scopoletin](/ayurveda-atlas/glossary/compounds-q-t/#scopoletin) ([coumarin](/ayurveda-atlas/glossary/compounds-c-d/#coumarin))
+- [Scopoletin](/nighantu/glossary/compounds-q-t/#scopoletin) ([coumarin](/nighantu/glossary/compounds-c-d/#coumarin))
 - Gallic acid
 - Total phenols (high content)
 - Thiamins
-- [Tannins](/ayurveda-atlas/reference/tannins/)
+- [Tannins](/nighantu/reference/tannins/)
 - Calcium (high mineral content)
-- [Flavonoids](/ayurveda-atlas/reference/flavonoids/)
-- [Alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids)
-- [Glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides)
+- [Flavonoids](/nighantu/reference/flavonoids/)
+- [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids)
+- [Glycosides](/nighantu/glossary/compounds-g-l/#glycosides)
 
 ## How does it work?
 
-- Potent [antioxidant](/ayurveda-atlas/reference/antioxidant/) mechanism through free radical scavenging and nitric oxide inhibition, primarily mediated by scopoletin and gallic acid synergistic activity
-- [Immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) action through stimulation of both humoral and cell-mediated immune responses, supporting its traditional [Rasayana](/ayurveda-atlas/reference/rasayana/) (rejuvenation) role
-- [Neuroprotective](/ayurveda-atlas/reference/neuroprotective/) potential through antioxidant-mediated protection against oxidative neuronal damage, supporting traditional use as a memory enhancer
+- Potent [antioxidant](/nighantu/reference/antioxidant/) mechanism through free radical scavenging and nitric oxide inhibition, primarily mediated by scopoletin and gallic acid synergistic activity
+- [Immunomodulatory](/nighantu/reference/immunomodulatory/) action through stimulation of both humoral and cell-mediated immune responses, supporting its traditional [Rasayana](/nighantu/reference/rasayana/) (rejuvenation) role
+- [Neuroprotective](/nighantu/reference/neuroprotective/) potential through antioxidant-mediated protection against oxidative neuronal damage, supporting traditional use as a memory enhancer
 
 ## Which traditional uses are supported by research?
 
 - Antioxidant and free radical scavenging activity experimentally validated, confirming its traditional Rasayana (rejuvenation) role
-- [Aphrodisiac](/ayurveda-atlas/glossary/pharmacology/#aphrodisiac) and general tonic properties partially supported by nutritional profiling showing high calcium and mineral content
+- [Aphrodisiac](/nighantu/glossary/pharmacology/#aphrodisiac) and general tonic properties partially supported by nutritional profiling showing high calcium and mineral content
 - Immune-boosting activity supported by preliminary immunological studies, confirming traditional use as a vitality-enhancing herb
 
 ## What do recent clinical trials show?
 
 - **Pharmacognostic, physicochemical, phytochemical, nutraceutical evaluation and in vitro antioxidant potency of Habenaria intermedia D. Don** (2022): Comprehensive evaluation revealed high content of total phenols, thiamins, tannins, and calcium, with strong antioxidant and nitric oxide scavenging activity attributable to scopoletin and gallic acid.
-- **Pharmacognostical and phytochemical evaluation of rare and endangered Habenaria spp. (Riddhi and [Vriddhi](/ayurveda-atlas/herb/vriddhi/))** (2022): Comparative pharmacognostical analysis of Riddhi (H. intermedia) and [Vriddhi](/ayurveda-atlas/herb/vriddhi/) (H. edgeworthii) established authentication parameters and documented greater antioxidant potential of H. intermedia.
+- **Pharmacognostical and phytochemical evaluation of rare and endangered Habenaria spp. (Riddhi and [Vriddhi](/nighantu/herb/vriddhi/))** (2022): Comparative pharmacognostical analysis of Riddhi (H. intermedia) and [Vriddhi](/nighantu/herb/vriddhi/) (H. edgeworthii) established authentication parameters and documented greater antioxidant potential of H. intermedia.
 - **Riddhi (Habenaria intermedia): ancient Ayurvedic significance and use in various Nighantu scriptures** (2021): Systematic review of Riddhi across Ayurvedic Nighantu texts documented its significance as an Ashtavarga member and compiled traditional indications for rejuvenation, immunity, and aphrodisiac properties.
 
 ## Recent safety updates
 
-- No documented toxicity at traditional Ayurvedic doses; used safely as part of Ashtavarga and [Chyawanprash](/ayurveda-atlas/formulation/chyawanprash/) formulations for centuries
+- No documented toxicity at traditional Ayurvedic doses; used safely as part of Ashtavarga and [Chyawanprash](/nighantu/formulation/chyawanprash/) formulations for centuries
 - Critically endangered orchid species; authenticity of commercial samples is a major concern, with frequent adulteration by unrelated species posing potential safety risks
 
 ## What is it made of?
@@ -72,21 +72,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Riddhi/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (tuber powder), Capsule, Tablet, Avaleha (confection), [Ghrita](/ayurveda-atlas/herb/ghrita/) (medicated ghee), Milk decoction (Ksheerapaka)
+**Dosage Forms:** Churna (tuber powder), Capsule, Tablet, Avaleha (confection), [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Milk decoction (Ksheerapaka)
 
 **Standard Dosage:** 3-6 g tuber powder daily; 500 mg - 1 g standardized extract twice daily; Ghrita: 5-10 g with warm milk
 
-**Bioavailability:** Riddhi (Habenaria intermedia/Habenaria edgeworthii - terrestrial orchid) contains mucilaginous [polysaccharides](/ayurveda-atlas/glossary/compounds-o-q/#polysaccharides), glucomannans, and [saponins](/ayurveda-atlas/reference/saponins/). Polysaccharides act as prebiotics and immunomodulators locally in the GI tract without requiring systemic absorption. Steroidal saponins show limited oral bioavailability (10-25%) but are partially converted to sapogenins by gut bacteria. Traditional administration with milk or ghee enhances lipophilic compound absorption. Limited modern pharmacokinetic data available.
+**Bioavailability:** Riddhi (Habenaria intermedia/Habenaria edgeworthii - terrestrial orchid) contains mucilaginous [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides), glucomannans, and [saponins](/nighantu/reference/saponins/). Polysaccharides act as prebiotics and immunomodulators locally in the GI tract without requiring systemic absorption. Steroidal saponins show limited oral bioavailability (10-25%) but are partially converted to sapogenins by gut bacteria. Traditional administration with milk or ghee enhances lipophilic compound absorption. Limited modern pharmacokinetic data available.
 
-**Optimal Timing:** With warm milk at bedtime for Rasayana (rejuvenation) effects. Morning with ghee on empty stomach for strength and vitality. As part of [Chyawanprash](/ayurveda-atlas/formulation/chyawanprash/): 1-2 teaspoons morning and evening.
+**Optimal Timing:** With warm milk at bedtime for Rasayana (rejuvenation) effects. Morning with ghee on empty stomach for strength and vitality. As part of [Chyawanprash](/nighantu/formulation/chyawanprash/): 1-2 teaspoons morning and evening.
 
-**Standardized Extract:** Riddhi tuber extract (4:1) standardized to total saponins >5%, total polysaccharides (as [glucomannan](/ayurveda-atlas/glossary/compounds-d-g/#glucomannan)) >20%. Authentication by DNA barcoding mandatory. If substitute used, clearly labeled with substitute species and standardization parameters.
+**Standardized Extract:** Riddhi tuber extract (4:1) standardized to total saponins >5%, total polysaccharides (as [glucomannan](/nighantu/glossary/compounds-d-g/#glucomannan)) >20%. Authentication by DNA barcoding mandatory. If substitute used, clearly labeled with substitute species and standardization parameters.
 
 **Shelf Life:** Dried tuber: 18-24 months; Tuber powder: 12-18 months; Extract: 24 months; Ghrita: 24-36 months; Avaleha: 18-24 months
 
 **Storage:** Dried tubers: cool, dry, pest-proof, below 25 deg C, RH <50%. Powder: airtight containers, moisture-barrier packaging (highly hygroscopic due to polysaccharides). Ghrita: clean, dry glass containers, below 30 deg C. Store CITES documentation with inventory records.
 
-**Marker Compounds:** Glucomannan, Steroidal saponins, [Diosgenin](/ayurveda-atlas/glossary/compounds-d-g/#diosgenin) (if Dioscorea substitute), Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/ayurveda-atlas/reference/stigmasterol/), Phenanthrene derivatives (orchid-specific), [Mucilage](/ayurveda-atlas/glossary/compounds-l-o/#mucilage) polysaccharides
+**Marker Compounds:** Glucomannan, Steroidal saponins, [Diosgenin](/nighantu/glossary/compounds-d-g/#diosgenin) (if Dioscorea substitute), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/nighantu/reference/stigmasterol/), Phenanthrene derivatives (orchid-specific), [Mucilage](/nighantu/glossary/compounds-l-o/#mucilage) polysaccharides
 
 ### Extraction Methods
 
@@ -98,9 +98,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Riddhi/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) (Rasayana and strength combination - Ashtavarga member)
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) (reproductive health and rejuvenation)
-- [Meda](/ayurveda-atlas/herb/meda/) (paired Ashtavarga herb for rejuvenation)
-- [Kakoli](/ayurveda-atlas/herb/kakoli/) (Ashtavarga combination for vitality)
-- [Vidari](/ayurveda-atlas/herb/vidari/) (nutritive and anabolic combination)
-- [Bala](/ayurveda-atlas/herb/bala/) (strength and immunity)
+- [Ashwagandha](/nighantu/herb/ashwagandha/) (Rasayana and strength combination - Ashtavarga member)
+- [Shatavari](/nighantu/herb/shatavari/) (reproductive health and rejuvenation)
+- [Meda](/nighantu/herb/meda/) (paired Ashtavarga herb for rejuvenation)
+- [Kakoli](/nighantu/herb/kakoli/) (Ashtavarga combination for vitality)
+- [Vidari](/nighantu/herb/vidari/) (nutritive and anabolic combination)
+- [Bala](/nighantu/herb/bala/) (strength and immunity)

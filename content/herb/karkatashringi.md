@@ -30,28 +30,28 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Karkatashringi/meta-analysis.
 
 - Alpha-pinene
 - Beta-pinene
-- 1,8-[Cineole](/ayurveda-atlas/glossary/compounds-c-d/#cineole) (eucalyptol)
+- 1,8-[Cineole](/nighantu/glossary/compounds-c-d/#cineole) (eucalyptol)
 - Alpha-terpineol
-- [Aromadendrene](/ayurveda-atlas/glossary/compounds-1-a/#aromadendrene)
+- [Aromadendrene](/nighantu/glossary/compounds-1-a/#aromadendrene)
 - Pistagremic acid (triterpene)
 - Gallic acid
-- [Catechin](/ayurveda-atlas/reference/catechin/)
+- [Catechin](/nighantu/reference/catechin/)
 
 ## How does it work?
 
 - Bronchodilatory: Essential oil constituents (alpha-pinene, 1,8-cineole) relax bronchial smooth muscle and reduce airway inflammation through inhibition of PDE4
-- Anti-asthmatic: [Tannins](/ayurveda-atlas/reference/tannins/) and [flavonoids](/ayurveda-atlas/reference/flavonoids/) in galls stabilize mast cells and reduce [histamine](/ayurveda-atlas/glossary/compounds-g-l/#histamine)-mediated bronchoconstriction
+- Anti-asthmatic: [Tannins](/nighantu/reference/tannins/) and [flavonoids](/nighantu/reference/flavonoids/) in galls stabilize mast cells and reduce [histamine](/nighantu/glossary/compounds-g-l/#histamine)-mediated bronchoconstriction
 - Anticonvulsant: Alpha-pinene and terpineol modulate GABAergic neurotransmission, enhancing inhibitory signaling in CNS
 
 ## Which traditional uses are supported by research?
 
 - Anti-asthmatic use in children (Balaka Shwasa) supported by bronchial smooth muscle relaxation and mast cell stabilization in preclinical studies
-- Antitussive use (Kasa-hara) confirmed by reduction of cough frequency in SO2-induced cough model and [citric acid](/ayurveda-atlas/glossary/compounds-c-d/#citric-acidcitric-acid)-induced cough model
+- Antitussive use (Kasa-hara) confirmed by reduction of cough frequency in SO2-induced cough model and [citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid)-induced cough model
 - Digestive use (Deepana) supported by enhancement of gastric enzyme secretion and carminative activity of essential oil components
 
 ## What do recent clinical trials show?
 
-- **Pistacia integerrima (Shringi) - A Plant with Significant Pharmacological Activities** (2021): Comprehensive review documenting [antimicrobial](/ayurveda-atlas/reference/antimicrobial/), [antioxidant](/ayurveda-atlas/reference/antioxidant/), [analgesic](/ayurveda-atlas/reference/analgesic/), cytotoxicity, anti-inflammatory, [cardioprotective](/ayurveda-atlas/reference/cardioprotective/), [anticancer](/ayurveda-atlas/reference/anticancer/), and anticonvulsant activities of gall and other plant parts.
+- **Pistacia integerrima (Shringi) - A Plant with Significant Pharmacological Activities** (2021): Comprehensive review documenting [antimicrobial](/nighantu/reference/antimicrobial/), [antioxidant](/nighantu/reference/antioxidant/), [analgesic](/nighantu/reference/analgesic/), cytotoxicity, anti-inflammatory, [cardioprotective](/nighantu/reference/cardioprotective/), [anticancer](/nighantu/reference/anticancer/), and anticonvulsant activities of gall and other plant parts.
 - **Medicinal Plant Species: Pistacia integerrima Galls - A Comprehensive Review** (2023): Detailed analysis of insect galls (Karkatashringi) showing high tannin, flavonoid, and terpenoid content with superior antimicrobial and anti-inflammatory activity compared to other plant parts.
 - **Review - An Overview of Pistacia integerrima: Ethnobotany, Biological Activities and Phytochemistry** (2015): Documented traditional use across Asian medicine systems; confirmed the insect galls as the primary medicinal part with anticonvulsant and muscle relaxant properties.
 
@@ -94,7 +94,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Karkatashringi/meta-analysis.
 
 **Storage:** Store in airtight containers at room temperature (15-30°C). Highly stable due to inherent tannin-mediated antioxidant activity. Protect from moisture to prevent caking.
 
-**Marker Compounds:** Gallic acid, Ellagic acid, Tannic acid, Methyl gallate, 1,2,3,4,6-Penta-O-galloyl-beta-D-[glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose), Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
+**Marker Compounds:** Gallic acid, Ellagic acid, Tannic acid, Methyl gallate, 1,2,3,4,6-Penta-O-galloyl-beta-D-[glucose](/nighantu/glossary/compounds-d-g/#glucose), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
 
 ### Extraction Methods
 
@@ -105,8 +105,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Karkatashringi/meta-analysis.
 
 ### Synergistic Combinations
 
-- [Vasa](/ayurveda-atlas/herb/vasa/) (Adhatoda vasica) for pediatric respiratory formulations
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) (Licorice) for cough management
-- [Pippali](/ayurveda-atlas/herb/pippali/) for bronchodilation synergy
-- [Tulsi](/ayurveda-atlas/herb/tulsi/) for respiratory infections in children
-- [Sitopaladi Churna](/ayurveda-atlas/formulation/sitopaladi-churna/) as a base respiratory formulation
+- [Vasa](/nighantu/herb/vasa/) (Adhatoda vasica) for pediatric respiratory formulations
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (Licorice) for cough management
+- [Pippali](/nighantu/herb/pippali/) for bronchodilation synergy
+- [Tulsi](/nighantu/herb/tulsi/) for respiratory infections in children
+- [Sitopaladi Churna](/nighantu/formulation/sitopaladi-churna/) as a base respiratory formulation

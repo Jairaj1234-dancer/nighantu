@@ -28,26 +28,26 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kapittha/meta-analysis.m
 
 ## Key Phytochemical Constituents
 
-- [Psoralen](/ayurveda-atlas/glossary/compounds-o-q/#psoralen) (furanocoumarin)
-- [Bergapten](/ayurveda-atlas/glossary/compounds-a-c/#bergapten)
-- [Xanthotoxin](/ayurveda-atlas/glossary/compounds-t-z/#xanthotoxin)
-- [Luvangetin](/ayurveda-atlas/glossary/compounds-l-o/#luvangetin)
-- [Limonin](/ayurveda-atlas/glossary/compounds-l-o/#limonin) (limonoid)
-- [Stigmasterol](/ayurveda-atlas/reference/stigmasterol/)
-- [Orientin](/ayurveda-atlas/glossary/compounds-o-q/#orientin)
-- Vitedin ([vitexin](/ayurveda-atlas/glossary/compounds-t-z/#vitexin))
+- [Psoralen](/nighantu/glossary/compounds-o-q/#psoralen) (furanocoumarin)
+- [Bergapten](/nighantu/glossary/compounds-a-c/#bergapten)
+- [Xanthotoxin](/nighantu/glossary/compounds-t-z/#xanthotoxin)
+- [Luvangetin](/nighantu/glossary/compounds-l-o/#luvangetin)
+- [Limonin](/nighantu/glossary/compounds-l-o/#limonin) (limonoid)
+- [Stigmasterol](/nighantu/reference/stigmasterol/)
+- [Orientin](/nighantu/glossary/compounds-o-q/#orientin)
+- Vitedin ([vitexin](/nighantu/glossary/compounds-t-z/#vitexin))
 - Saponarin
 - Osthenol
-- [Sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)-O-beta-D-glucoside
-- [Coumarins](/ayurveda-atlas/glossary/compounds-c-d/#coumarins) (dictamnine)
+- [Sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)-O-beta-D-glucoside
+- [Coumarins](/nighantu/glossary/compounds-c-d/#coumarins) (dictamnine)
 - 2,6-Dimethoxybenzoquinone
 
 ## How does it work?
 
-- Antiulcer activity via [coumarin](/ayurveda-atlas/glossary/compounds-c-d/#coumarin)-mediated (luvangetin) enhancement of gastric mucosal defense and inhibition of acid secretion
-- [Antimicrobial](/ayurveda-atlas/reference/antimicrobial/) and antifungal action through furanocoumarins (psoralen, bergapten) disrupting microbial DNA replication upon photoactivation
-- [Antidiabetic](/ayurveda-atlas/reference/antidiabetic/) activity via flavonoid-mediated (orientin, vitedin) alpha-glucosidase inhibition and insulin sensitization
-- [Hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) effects through coumarin and flavonoid-mediated [antioxidant](/ayurveda-atlas/reference/antioxidant/) protection and restoration of hepatic [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes)
+- Antiulcer activity via [coumarin](/nighantu/glossary/compounds-c-d/#coumarin)-mediated (luvangetin) enhancement of gastric mucosal defense and inhibition of acid secretion
+- [Antimicrobial](/nighantu/reference/antimicrobial/) and antifungal action through furanocoumarins (psoralen, bergapten) disrupting microbial DNA replication upon photoactivation
+- [Antidiabetic](/nighantu/reference/antidiabetic/) activity via flavonoid-mediated (orientin, vitedin) alpha-glucosidase inhibition and insulin sensitization
+- [Hepatoprotective](/nighantu/reference/hepatoprotective/) effects through coumarin and flavonoid-mediated [antioxidant](/nighantu/reference/antioxidant/) protection and restoration of hepatic [enzymes](/nighantu/glossary/compounds-d-g/#enzymes)
 
 ## Which traditional uses are supported by research?
 
@@ -58,8 +58,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kapittha/meta-analysis.m
 
 ## What do recent clinical trials show?
 
-- **Ethnobotanical Significance, Phytopharmacology, and Toxicological Profile of Limonia acidissima L. (Rutaceae): A Review** (2024): Comprehensive review documented [anticancer](/ayurveda-atlas/reference/anticancer/), antidiabetic, anti-diarrheal, antimicrobial, antiulcer, wound healing, antioxidant, hepatoprotective, [neuroprotective](/ayurveda-atlas/reference/neuroprotective/), antispermatogenic, [diuretic](/ayurveda-atlas/reference/diuretic/), and adsorbent activities.
-- **Phytochemical Properties and Health Benefits of Limonia acidissima** (2024): Rich chemical composition including quinones, [lignans](/ayurveda-atlas/glossary/compounds-g-l/#lignans), [flavonoids](/ayurveda-atlas/reference/flavonoids/), [sterols](/ayurveda-atlas/glossary/compounds-q-t/#sterols), coumarins, [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids), [triterpenoids](/ayurveda-atlas/glossary/compounds-t-z/#triterpenoids), phenolic acids and volatile oils were characterized across all plant parts.
+- **Ethnobotanical Significance, Phytopharmacology, and Toxicological Profile of Limonia acidissima L. (Rutaceae): A Review** (2024): Comprehensive review documented [anticancer](/nighantu/reference/anticancer/), antidiabetic, anti-diarrheal, antimicrobial, antiulcer, wound healing, antioxidant, hepatoprotective, [neuroprotective](/nighantu/reference/neuroprotective/), antispermatogenic, [diuretic](/nighantu/reference/diuretic/), and adsorbent activities.
+- **Phytochemical Properties and Health Benefits of Limonia acidissima** (2024): Rich chemical composition including quinones, [lignans](/nighantu/glossary/compounds-g-l/#lignans), [flavonoids](/nighantu/reference/flavonoids/), [sterols](/nighantu/glossary/compounds-q-t/#sterols), coumarins, [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids), [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids), phenolic acids and volatile oils were characterized across all plant parts.
 - **Bioactive Compounds of Wood Apple (Limonia acidissima L.)** (2023): Fruit shell coumarins (osthenol, psoralen, xanthotoxin) demonstrated potent antifungal activity against common dermatophytes, validating traditional use for skin infections.
 
 ## Recent safety updates
@@ -82,28 +82,28 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kapittha/meta-analysis.m
 
 **Standard Dosage:** 10-20 mL fruit juice twice daily; 10-20 g Avaleha; 3-5 g powder with honey
 
-**Bioavailability:** Fruit pulp constituents ([marmelosin](/ayurveda-atlas/glossary/compounds-l-o/#marmelosin), psoralen derivatives) show moderate oral bioavailability. Coumarins and furocoumarins are lipophilic and benefit from co-administration with fat-containing foods. Avaleha form (with ghee and sugar) traditionally optimizes absorption of lipophilic actives. Nanosuspension technology can enhance aqueous delivery.
+**Bioavailability:** Fruit pulp constituents ([marmelosin](/nighantu/glossary/compounds-l-o/#marmelosin), psoralen derivatives) show moderate oral bioavailability. Coumarins and furocoumarins are lipophilic and benefit from co-administration with fat-containing foods. Avaleha form (with ghee and sugar) traditionally optimizes absorption of lipophilic actives. Nanosuspension technology can enhance aqueous delivery.
 
 **Optimal Timing:** Before meals for appetite stimulation; after meals for digestive support; Avaleha can be taken anytime
 
-**Standardized Extract:** Standardized to minimum 0.2% marmelosin and 5% total [polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols); fruit pulp standardized to minimum 15% total organic acids
+**Standardized Extract:** Standardized to minimum 0.2% marmelosin and 5% total [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols); fruit pulp standardized to minimum 15% total organic acids
 
 **Shelf Life:** 12 months for powder; 18 months for Avaleha and Murabba (sugar-preserved); 24 hours for fresh juice (refrigerated); 24 months for capsules
 
 **Storage:** Fresh fruit pulp and juice require refrigeration (2-8°C). Avaleha and Murabba store at ambient temperature in airtight glass jars. Powder in moisture-proof containers at 15-30°C.
 
-**Marker Compounds:** Marmelosin, Psoralen, Bergapten, [Citric acid](/ayurveda-atlas/glossary/compounds-c-d/#citric-acidcitric-acid), Tartaric acid, Tyramine, Feronia lactone
+**Marker Compounds:** Marmelosin, Psoralen, Bergapten, [Citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid), Tartaric acid, Tyramine, Feronia lactone
 
 ### Extraction Methods
 
 - Cold pressing of ripe fruit pulp
 - Hydroalcoholic extraction (50-60% ethanol)
-- Water extraction for [mucilage](/ayurveda-atlas/glossary/compounds-l-o/#mucilage)-rich fractions
+- Water extraction for [mucilage](/nighantu/glossary/compounds-l-o/#mucilage)-rich fractions
 - Sequential extraction: petroleum ether then ethanol then water
 
 ### Synergistic Combinations
 
-- [Bilva](/ayurveda-atlas/herb/bilva/) (Aegle marmelos) for digestive disorders
-- [Dadima](/ayurveda-atlas/herb/dadima/) (pomegranate) for anti-diarrheal synergy
-- [Draksha](/ayurveda-atlas/herb/draksha/) (grape) in Avaleha for nutritive formulations
+- [Bilva](/nighantu/herb/bilva/) (Aegle marmelos) for digestive disorders
+- [Dadima](/nighantu/herb/dadima/) (pomegranate) for anti-diarrheal synergy
+- [Draksha](/nighantu/herb/draksha/) (grape) in Avaleha for nutritive formulations
 - Ela (cardamom) for flavor and carminative enhancement

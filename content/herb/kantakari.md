@@ -28,32 +28,32 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kantakari/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Solasonine](/ayurveda-atlas/glossary/compounds-q-t/#solasonine)
-- [Solamargine](/ayurveda-atlas/glossary/compounds-q-t/#solamargine)
-- [Diosgenin](/ayurveda-atlas/glossary/compounds-d-g/#diosgenin)
-- [Solasodine](/ayurveda-atlas/glossary/compounds-q-t/#solasodine)
+- [Solasonine](/nighantu/glossary/compounds-q-t/#solasonine)
+- [Solamargine](/nighantu/glossary/compounds-q-t/#solamargine)
+- [Diosgenin](/nighantu/glossary/compounds-d-g/#diosgenin)
+- [Solasodine](/nighantu/glossary/compounds-q-t/#solasodine)
 - Caffeic acid
-- [Carpesterol](/ayurveda-atlas/glossary/compounds-a-c/#carpesterol)
-- Esculentin ([coumarin](/ayurveda-atlas/glossary/compounds-c-d/#coumarin))
+- [Carpesterol](/nighantu/glossary/compounds-a-c/#carpesterol)
+- Esculentin ([coumarin](/nighantu/glossary/compounds-c-d/#coumarin))
 - Beta-carotene
 
 ## How does it work?
 
-- Bronchodilatory: Steroidal [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) and glycoalkaloids inhibit [histamine](/ayurveda-atlas/glossary/compounds-g-l/#histamine) and acetylcholine-induced bronchospasm through muscarinic receptor antagonism
+- Bronchodilatory: Steroidal [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) and glycoalkaloids inhibit [histamine](/nighantu/glossary/compounds-g-l/#histamine) and acetylcholine-induced bronchospasm through muscarinic receptor antagonism
 - Anti-asthmatic: Solasodine stabilizes mast cells, reduces IgE-mediated degranulation, and suppresses eosinophil infiltration in airways
-- [Hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/): Caffeic acid and [coumarins](/ayurveda-atlas/glossary/compounds-c-d/#coumarins) (esculentin) reduce lipid peroxidation and restore hepatic glutathione levels
+- [Hepatoprotective](/nighantu/reference/hepatoprotective/): Caffeic acid and [coumarins](/nighantu/glossary/compounds-c-d/#coumarins) (esculentin) reduce lipid peroxidation and restore hepatic glutathione levels
 
 ## Which traditional uses are supported by research?
 
 - Bronchodilatory use for asthma and cough (Shwasa-Kasahara) validated through histamine-induced bronchospasm reversal in animal models
-- [Diuretic](/ayurveda-atlas/reference/diuretic/) action (Mutrala) confirmed by significant increase in urine volume and electrolyte excretion in rats
-- [Antipyretic](/ayurveda-atlas/reference/antipyretic/) use supported by fever reduction in Brewer's yeast-induced pyrexia model
+- [Diuretic](/nighantu/reference/diuretic/) action (Mutrala) confirmed by significant increase in urine volume and electrolyte excretion in rats
+- [Antipyretic](/nighantu/reference/antipyretic/) use supported by fever reduction in Brewer's yeast-induced pyrexia model
 
 ## What do recent clinical trials show?
 
-- **A Systematic Review on Solanum xanthocarpum L. (Solanaceae) Plant and Its Potential Pharmacological Activities** (2023): Systematic evaluation confirmed larvicidal, antibacterial, antihyperglycemic, [antioxidant](/ayurveda-atlas/reference/antioxidant/), and hepatoprotective activities with significant [bronchodilator](/ayurveda-atlas/reference/bronchodilator/) potential.
+- **A Systematic Review on Solanum xanthocarpum L. (Solanaceae) Plant and Its Potential Pharmacological Activities** (2023): Systematic evaluation confirmed larvicidal, antibacterial, antihyperglycemic, [antioxidant](/nighantu/reference/antioxidant/), and hepatoprotective activities with significant [bronchodilator](/nighantu/reference/bronchodilator/) potential.
 - **Phytochemical and Pharmacological Activities of Solanum surattense** (2023): Extract showed significant bronchodilator activity on histamine-induced airway constriction and reversed allergen-induced bronchospasm comparable to standard aminophylline.
-- **Morphology and Phytochemistry of Solanum xanthocarpum** (2021): Detailed phytochemical mapping identified solanocarpine, solanocarpidine, and diosgenin as primary steroidal constituents with anti-inflammatory and [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) activity.
+- **Morphology and Phytochemistry of Solanum xanthocarpum** (2021): Detailed phytochemical mapping identified solanocarpine, solanocarpidine, and diosgenin as primary steroidal constituents with anti-inflammatory and [immunomodulatory](/nighantu/reference/immunomodulatory/) activity.
 
 ## Recent safety updates
 
@@ -75,17 +75,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kantakari/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g powder twice daily; 10-20 mL juice; 50-100 mL decoction twice daily; 10-20 g Avaleha
 
-**Bioavailability:** Steroidal alkaloids (solasonine, solamargine) show moderate oral bioavailability (~25-35%). Glycoalkaloids undergo partial hydrolysis in acidic gastric pH releasing aglycones with improved membrane permeability. Liposomal encapsulation of solasodine enhances pulmonary delivery for respiratory applications. [Piperine](/ayurveda-atlas/reference/piperine/) co-administration increases bioavailability by ~40%.
+**Bioavailability:** Steroidal alkaloids (solasonine, solamargine) show moderate oral bioavailability (~25-35%). Glycoalkaloids undergo partial hydrolysis in acidic gastric pH releasing aglycones with improved membrane permeability. Liposomal encapsulation of solasodine enhances pulmonary delivery for respiratory applications. [Piperine](/nighantu/reference/piperine/) co-administration increases bioavailability by ~40%.
 
 **Optimal Timing:** After meals for respiratory conditions; Avaleha can be taken anytime with warm water or milk; decoction best taken morning and evening
 
-**Standardized Extract:** Standardized to minimum 0.5% total steroidal alkaloids (as solasonine) and 2% total [saponins](/ayurveda-atlas/reference/saponins/) by HPLC-ELSD
+**Standardized Extract:** Standardized to minimum 0.5% total steroidal alkaloids (as solasonine) and 2% total [saponins](/nighantu/reference/saponins/) by HPLC-ELSD
 
 **Shelf Life:** 24 months for powder and capsules; 18 months for syrup; 12 months for Avaleha; decoction to be consumed within 24 hours
 
 **Storage:** Store in airtight containers at 15-30°C. Syrup and Avaleha require preservative system (sodium benzoate 0.1% for syrups). Protect powder from moisture.
 
-**Marker Compounds:** Solasonine, Solamargine, Solasodine, Carpesterol, Diosgenin, [Apigenin](/ayurveda-atlas/glossary/compounds-1-a/#apigenin), Caffeic acid
+**Marker Compounds:** Solasonine, Solamargine, Solasodine, Carpesterol, Diosgenin, [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin), Caffeic acid
 
 ### Extraction Methods
 
@@ -97,8 +97,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kantakari/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Vasaka](/ayurveda-atlas/herb/vasaka/) (Adhatoda vasica) for bronchitis and asthma (Kantakari-Vasadi Kwatha)
-- [Tulsi](/ayurveda-atlas/herb/tulsi/) for respiratory infections
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) for cough suppressant formulations
-- [Pippali](/ayurveda-atlas/herb/pippali/) for Shwasa (asthma) management
-- [Bharangi](/ayurveda-atlas/herb/bharangi/) for Kasa-Shwasa (cough-asthma) synergy
+- [Vasaka](/nighantu/herb/vasaka/) (Adhatoda vasica) for bronchitis and asthma (Kantakari-Vasadi Kwatha)
+- [Tulsi](/nighantu/herb/tulsi/) for respiratory infections
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) for cough suppressant formulations
+- [Pippali](/nighantu/herb/pippali/) for Shwasa (asthma) management
+- [Bharangi](/nighantu/herb/bharangi/) for Kasa-Shwasa (cough-asthma) synergy

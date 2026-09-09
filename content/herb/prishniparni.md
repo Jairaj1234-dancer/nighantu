@@ -28,20 +28,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Prishniparni/meta-analysis.md
 
 ## Key Phytochemical Constituents
 
-- [Flavonoids](/ayurveda-atlas/reference/flavonoids/) ([isoflavones](/ayurveda-atlas/glossary/compounds-g-l/#isoflavones), flavone [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides))
-- [Alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids)
-- [Steroids](/ayurveda-atlas/glossary/compounds-q-t/#steroids) and [terpenoids](/ayurveda-atlas/glossary/compounds-t-z/#terpenoids)
+- [Flavonoids](/nighantu/reference/flavonoids/) ([isoflavones](/nighantu/glossary/compounds-g-l/#isoflavones), flavone [glycosides](/nighantu/glossary/compounds-g-l/#glycosides))
+- [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids)
+- [Steroids](/nighantu/glossary/compounds-q-t/#steroids) and [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids)
 - Phenolic compounds
-- [Saponins](/ayurveda-atlas/reference/saponins/)
-- [Tannins](/ayurveda-atlas/reference/tannins/)
+- [Saponins](/nighantu/reference/saponins/)
+- [Tannins](/nighantu/reference/tannins/)
 - Glycosides
 - Uraricoside
 
 ## How does it work?
 
-- [Cardioprotective](/ayurveda-atlas/reference/cardioprotective/) action through modulation of oxidative stress markers and improvement of cardiac enzyme profiles
-- Anti-inflammatory activity mediated by inhibition of pro-inflammatory cytokines and mediators, supporting its role in [Dashamoola](/ayurveda-atlas/herb/dashamoola/) formulation
-- [Hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) mechanism involving enhancement of liver [antioxidant](/ayurveda-atlas/reference/antioxidant/) enzyme systems (SOD, CAT, GPx) and reduction of lipid peroxidation
+- [Cardioprotective](/nighantu/reference/cardioprotective/) action through modulation of oxidative stress markers and improvement of cardiac enzyme profiles
+- Anti-inflammatory activity mediated by inhibition of pro-inflammatory cytokines and mediators, supporting its role in [Dashamoola](/nighantu/herb/dashamoola/) formulation
+- [Hepatoprotective](/nighantu/reference/hepatoprotective/) mechanism involving enhancement of liver [antioxidant](/nighantu/reference/antioxidant/) enzyme systems (SOD, CAT, GPx) and reduction of lipid peroxidation
 
 ## Which traditional uses are supported by research?
 
@@ -52,12 +52,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Prishniparni/meta-analysis.md
 ## What do recent clinical trials show?
 
 - **A Comprehensive Review of Prishniparni (Uraria picta Desv. Ex DC.) in Brihatrayee and various Nighantus** (2025): Provided a systematic compilation of all references to Prishniparni across classical Ayurvedic texts (Brihatrayee) and Nighantu literature, documenting its multifaceted traditional applications.
-- **[Anticancer](/ayurveda-atlas/reference/anticancer/) studies on methanolic extract of aerial parts of Uraria Picta (Jacq.) DC** (2021): Demonstrated significant anticancer activity of methanolic extract against various cancer cell lines, supporting its traditional use as an anti-tumor agent.
+- **[Anticancer](/nighantu/reference/anticancer/) studies on methanolic extract of aerial parts of Uraria Picta (Jacq.) DC** (2021): Demonstrated significant anticancer activity of methanolic extract against various cancer cell lines, supporting its traditional use as an anti-tumor agent.
 - **Antioxidant and Chemopreventive Potential of Uraria picta Root Extracts against DMBA/croton Oil Induced Skin Carcinogenesis in Mice** (2022): Root extracts showed significant chemopreventive potential against chemically induced skin cancer in mouse models through antioxidant mechanisms.
 
 ## Recent safety updates
 
-- Generally considered safe when used as part of traditional [Dashamoola](/ayurveda-atlas/herb/dashamoola/) formulations at recommended Ayurvedic doses; no significant toxicity reported in available literature
+- Generally considered safe when used as part of traditional [Dashamoola](/nighantu/herb/dashamoola/) formulations at recommended Ayurvedic doses; no significant toxicity reported in available literature
 - Limited modern toxicological studies available; long-term safety data in humans needs further investigation through controlled clinical trials
 
 ## What is it made of?
@@ -77,11 +77,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Prishniparni/meta-analysis.md
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Kwatha (decoction), Capsule, Tablet, [Ghrita](/ayurveda-atlas/herb/ghrita/), Taila
+**Dosage Forms:** Churna (powder), Kwatha (decoction), Capsule, Tablet, [Ghrita](/nighantu/herb/ghrita/), Taila
 
 **Standard Dosage:** 3-6 g whole herb powder daily; 20-30 mL decoction twice daily; 500-750 mg standardized extract twice daily
 
-**Bioavailability:** Uraria picta (Prishniparni) contains flavonoids and terpenoids with moderate oral bioavailability (20-35%). [Isoflavonoids](/ayurveda-atlas/glossary/compounds-g-l/#isoflavonoids) show absorption kinetics similar to soy isoflavones (20-40% bioavailability). Saponins undergo partial hydrolysis by gut bacteria. Part of Dashmool combination where synergistic absorption with other herbs may be enhanced.
+**Bioavailability:** Uraria picta (Prishniparni) contains flavonoids and terpenoids with moderate oral bioavailability (20-35%). [Isoflavonoids](/nighantu/glossary/compounds-g-l/#isoflavonoids) show absorption kinetics similar to soy isoflavones (20-40% bioavailability). Saponins undergo partial hydrolysis by gut bacteria. Part of Dashmool combination where synergistic absorption with other herbs may be enhanced.
 
 **Optimal Timing:** As part of Dashmool Kwatha: morning and evening between meals. Single herb: after meals with warm water for Vata disorders.
 
@@ -91,7 +91,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Prishniparni/meta-analysis.md
 
 **Storage:** Dried material: airtight containers, below 25 deg C, RH <55%, protected from pest infestation. Extracts: amber containers, cool and dry.
 
-**Marker Compounds:** Uraripictin, [Genistein](/ayurveda-atlas/glossary/compounds-d-g/#genistein), [Daidzein](/ayurveda-atlas/glossary/compounds-c-d/#daidzein), Medicarpin, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), [Lupeol](/ayurveda-atlas/reference/lupeol/), Oleanolic acid, Gallic acid
+**Marker Compounds:** Uraripictin, [Genistein](/nighantu/glossary/compounds-d-g/#genistein), [Daidzein](/nighantu/glossary/compounds-c-d/#daidzein), Medicarpin, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Lupeol](/nighantu/reference/lupeol/), Oleanolic acid, Gallic acid
 
 ### Extraction Methods
 
@@ -105,6 +105,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Prishniparni/meta-analysis.md
 
 - Dashmool combination (key member of Laghu Panchamool group)
 - Shalaparni (paired herb in Dashmool formulation)
-- [Bilva](/ayurveda-atlas/herb/bilva/) (anti-inflammatory and digestive synergy)
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) (strength and recovery)
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) (fever management combination)
+- [Bilva](/nighantu/herb/bilva/) (anti-inflammatory and digestive synergy)
+- [Ashwagandha](/nighantu/herb/ashwagandha/) (strength and recovery)
+- [Guduchi](/nighantu/herb/guduchi/) (fever management combination)

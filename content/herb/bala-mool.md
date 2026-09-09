@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bala-Mool/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | [Bala](/ayurveda-atlas/herb/bala/) Mool |
+| English | [Bala](/nighantu/herb/bala/) Mool |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -49,17 +49,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bala-Mool/meta-analysis.md"
 
 **Standard Dosage:** 3-5g root powder twice daily; 40-80ml decoction twice daily; 500mg extract capsule twice daily
 
-**Bioavailability:** Root-specific alkaloid content provides moderate to good oral bioavailability. Root [mucilage](/ayurveda-atlas/glossary/compounds-l-o/#mucilage) forms a gel matrix in the stomach that slows release—useful for sustained-effect formulations. Lipid vehicles (ghee, oil) enhance absorption of sterol components by 30-40%.
+**Bioavailability:** Root-specific alkaloid content provides moderate to good oral bioavailability. Root [mucilage](/nighantu/glossary/compounds-l-o/#mucilage) forms a gel matrix in the stomach that slows release—useful for sustained-effect formulations. Lipid vehicles (ghee, oil) enhance absorption of sterol components by 30-40%.
 
-**Optimal Timing:** Before meals with warm milk for [Rasayana](/ayurveda-atlas/reference/rasayana/) effect; with warm water for musculoskeletal complaints; Taila application in the evening for joint stiffness
+**Optimal Timing:** Before meals with warm milk for [Rasayana](/nighantu/reference/rasayana/) effect; with warm water for musculoskeletal complaints; Taila application in the evening for joint stiffness
 
-**Standardized Extract:** Root extract standardized to NLT 0.15% total [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids); NLT 2% beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol); total extract ratio 8:1
+**Standardized Extract:** Root extract standardized to NLT 0.15% total [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids); NLT 2% beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol); total extract ratio 8:1
 
 **Shelf Life:** 2 years (powder); 3 years (tablet/capsule)
 
 **Storage:** Store in airtight containers in a cool, dry environment. Root powder is hygroscopic; use desiccant packs in packaging.
 
-**Marker Compounds:** [Ephedrine](/ayurveda-atlas/glossary/compounds-d-g/#ephedrine), Beta-sitosterol, [Stigmasterol](/ayurveda-atlas/reference/stigmasterol/), Hypaphorine, [Vasicinone](/ayurveda-atlas/glossary/compounds-t-z/#vasicinone), Root mucilage [polysaccharides](/ayurveda-atlas/glossary/compounds-o-q/#polysaccharides)
+**Marker Compounds:** [Ephedrine](/nighantu/glossary/compounds-d-g/#ephedrine), Beta-sitosterol, [Stigmasterol](/nighantu/reference/stigmasterol/), Hypaphorine, [Vasicinone](/nighantu/glossary/compounds-t-z/#vasicinone), Root mucilage [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides)
 
 ### Extraction Methods
 
@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bala-Mool/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) root for synergistic [adaptogenic](/ayurveda-atlas/reference/adaptogenic/) effects
-- With [Eranda](/ayurveda-atlas/herb/eranda/) (castor) root for Vata-dominant joint disorders
-- With [Shatavari](/ayurveda-atlas/herb/shatavari/) root for reproductive tonification
-- With [Nagabala](/ayurveda-atlas/herb/nagabala/) root in [Mahabala](/ayurveda-atlas/herb/mahabala/) formulations
+- With [Ashwagandha](/nighantu/herb/ashwagandha/) root for synergistic [adaptogenic](/nighantu/reference/adaptogenic/) effects
+- With [Eranda](/nighantu/herb/eranda/) (castor) root for Vata-dominant joint disorders
+- With [Shatavari](/nighantu/herb/shatavari/) root for reproductive tonification
+- With [Nagabala](/nighantu/herb/nagabala/) root in [Mahabala](/nighantu/herb/mahabala/) formulations

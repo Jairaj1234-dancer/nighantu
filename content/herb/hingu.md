@@ -29,20 +29,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Hingu/meta-analysis.md"
 ## Key Phytochemical Constituents
 
 - Ferulic acid and its esters (resin fraction)
-- Sesquiterpene [coumarins](/ayurveda-atlas/glossary/compounds-c-d/#coumarins) (e.g., farnesiferol)
+- Sesquiterpene [coumarins](/nighantu/glossary/compounds-c-d/#coumarins) (e.g., farnesiferol)
 - Organosulfur compounds (sec-butyl propenyl disulfide)
-- [Umbelliferone](/ayurveda-atlas/glossary/compounds-t-z/#umbelliferone) ([coumarin](/ayurveda-atlas/glossary/compounds-c-d/#coumarin) derivative)
-- [Luteolin](/ayurveda-atlas/glossary/compounds-l-o/#luteolin) and other [terpenoids](/ayurveda-atlas/glossary/compounds-t-z/#terpenoids)
-- Gum [polysaccharides](/ayurveda-atlas/glossary/compounds-o-q/#polysaccharides) ([glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose), [galactose](/ayurveda-atlas/glossary/compounds-d-g/#galactose), arabinose)
-- Volatile [monoterpenes](/ayurveda-atlas/glossary/compounds-l-o/#monoterpenes) (alpha-pinene, beta-pinene)
+- [Umbelliferone](/nighantu/glossary/compounds-t-z/#umbelliferone) ([coumarin](/nighantu/glossary/compounds-c-d/#coumarin) derivative)
+- [Luteolin](/nighantu/glossary/compounds-l-o/#luteolin) and other [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids)
+- Gum [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides) ([glucose](/nighantu/glossary/compounds-d-g/#glucose), [galactose](/nighantu/glossary/compounds-d-g/#galactose), arabinose)
+- Volatile [monoterpenes](/nighantu/glossary/compounds-l-o/#monoterpenes) (alpha-pinene, beta-pinene)
 
 ## How does it work?
 
-- [Antispasmodic](/ayurveda-atlas/glossary/pharmacology/#antispasmodic) action through relaxation of smooth muscle via calcium channel antagonism, particularly in the gastrointestinal tract
+- [Antispasmodic](/nighantu/glossary/pharmacology/#antispasmodic) action through relaxation of smooth muscle via calcium channel antagonism, particularly in the gastrointestinal tract
 - Anti-inflammatory activity mediated by ferulic acid and sesquiterpene coumarins through inhibition of NF-kB and COX-2 pathways
-- Organosulfur compounds provide [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) activity by disrupting bacterial and fungal cell membrane integrity
-- Volatile oil components eliminated through the lungs provide [expectorant](/ayurveda-atlas/reference/expectorant/) and bronchodilatory effects for respiratory conditions
-- [Antioxidant](/ayurveda-atlas/reference/antioxidant/) mechanism via free radical scavenging by ferulic acid and polyphenolic compounds, protecting against oxidative stress in liver and kidney
+- Organosulfur compounds provide [antimicrobial](/nighantu/reference/antimicrobial/) activity by disrupting bacterial and fungal cell membrane integrity
+- Volatile oil components eliminated through the lungs provide [expectorant](/nighantu/reference/expectorant/) and bronchodilatory effects for respiratory conditions
+- [Antioxidant](/nighantu/reference/antioxidant/) mechanism via free radical scavenging by ferulic acid and polyphenolic compounds, protecting against oxidative stress in liver and kidney
 
 ## Which traditional uses are supported by research?
 
@@ -55,7 +55,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Hingu/meta-analysis.md"
 ## What do recent clinical trials show?
 
 - **Safety and Efficacy of Ferula asafoetida in Functional Dyspepsia: A Randomized, Double-Blinded, Placebo-Controlled Study** (2021): In 43 subjects with functional dyspepsia, 81% of the asafoetida group showed significant improvement in overall symptom scores and quality of life compared to placebo over a 30-day period.
-- **A Review of the Protective Effects of Ferula asafoetida on the Liver, Kidney, and Testes Against Formaldehyde-Induced Damage** (2025): Demonstrated [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/), nephroprotective, and reproductive-protective effects of asafoetida extract against formaldehyde-induced oxidative damage in animal models.
+- **A Review of the Protective Effects of Ferula asafoetida on the Liver, Kidney, and Testes Against Formaldehyde-Induced Damage** (2025): Demonstrated [hepatoprotective](/nighantu/reference/hepatoprotective/), nephroprotective, and reproductive-protective effects of asafoetida extract against formaldehyde-induced oxidative damage in animal models.
 - **Molecular mechanism of Ferula asafoetida for the treatment of asthma: Network pharmacology and molecular docking approach** (2023): Network pharmacology analysis identified key molecular targets and signaling pathways through which asafoetida components exert anti-asthmatic effects, validating traditional use for respiratory conditions.
 - **Ferula asafoetida: chemical composition, thermal behavior, antioxidant and antimicrobial activities of leaf and gum hydroalcoholic extracts** (2021): Characterized chemical composition and confirmed significant antioxidant capacity and broad-spectrum antimicrobial activity of both leaf and gum resin extracts.
 
@@ -63,7 +63,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Hingu/meta-analysis.md"
 
 - Likely unsafe during pregnancy as it may cause miscarriage; a case of severe methemoglobinemia was reported in a 5-week-old infant following ingestion of glycerated asafoetida solution
 - Generally recognized as safe (GRAS) in food amounts; possible side effects at medicinal doses include gas, diarrhea, headache, mouth/lip swelling, and burping; animal studies suggest liver toxicity at high doses (200 mg/kg for 6 weeks)
-- May interact with anticoagulant and [antihypertensive](/ayurveda-atlas/glossary/pharmacology/#antihypertensive) medications; individuals with bleeding disorders should exercise caution due to potential anticoagulant properties
+- May interact with anticoagulant and [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive) medications; individuals with bleeding disorders should exercise caution due to potential anticoagulant properties
 
 ## What is it made of?
 
@@ -76,7 +76,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Hingu/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Vati (pill/tablet), Capsule, [Arka](/ayurveda-atlas/herb/arka/) (distillate), Bhasma (processed form)
+**Dosage Forms:** Churna (powder), Vati (pill/tablet), Capsule, [Arka](/nighantu/herb/arka/) (distillate), Bhasma (processed form)
 
 **Standard Dosage:** 125-500mg powder with meals; 250-500mg Hingu Vati; typically used as culinary spice (pinch to 1/4 tsp)
 
@@ -101,7 +101,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Hingu/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Ajwain](/ayurveda-atlas/herb/ajwain/) for carminative action
-- With Sunthi ([ginger](/ayurveda-atlas/herb/ginger/)) for digestive stimulation
-- With [Jeeraka](/ayurveda-atlas/herb/jeeraka/) ([cumin](/ayurveda-atlas/herb/cumin/)) for flatulence relief
-- With [Saindhava Lavana](/ayurveda-atlas/herb/saindhava-lavana/) for Vata disorders
+- With [Ajwain](/nighantu/herb/ajwain/) for carminative action
+- With Sunthi ([ginger](/nighantu/herb/ginger/)) for digestive stimulation
+- With [Jeeraka](/nighantu/herb/jeeraka/) ([cumin](/nighantu/herb/cumin/)) for flatulence relief
+- With [Saindhava Lavana](/nighantu/herb/saindhava-lavana/) for Vata disorders

@@ -29,29 +29,29 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kankola/meta-analysis.md"
 ## Key Phytochemical Constituents
 
 - Cubebin (major lignan)
-- [Piperine](/ayurveda-atlas/reference/piperine/)
-- [Sesamin](/ayurveda-atlas/glossary/compounds-q-t/#sesamin) and hinokinin
+- [Piperine](/nighantu/reference/piperine/)
+- [Sesamin](/nighantu/glossary/compounds-q-t/#sesamin) and hinokinin
 - Cubebinionolide and cubebinone
 - Dihydrocubebin, yatein, clusin
-- Essential oil: [sabinene](/ayurveda-atlas/glossary/compounds-q-t/#sabinene), alpha-copaene, delta-cadinene
+- Essential oil: [sabinene](/nighantu/glossary/compounds-q-t/#sabinene), alpha-copaene, delta-cadinene
 
 ## How does it work?
 
 - Anti-inflammatory activity via cubebin-mediated inhibition of NF-kB pathway and suppression of pro-inflammatory cytokines
-- Antibacterial mechanism through disruption of bacterial cell membrane integrity by [lignans](/ayurveda-atlas/glossary/compounds-g-l/#lignans) and essential oil components
-- [Antidiabetic](/ayurveda-atlas/reference/antidiabetic/) effect through alpha-amylase and alpha-glucosidase enzyme inhibition reducing postprandial [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose) spikes
-- [Hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) and nephroprotective activities through [antioxidant](/ayurveda-atlas/reference/antioxidant/)-mediated protection against oxidative stress-induced organ damage
+- Antibacterial mechanism through disruption of bacterial cell membrane integrity by [lignans](/nighantu/glossary/compounds-g-l/#lignans) and essential oil components
+- [Antidiabetic](/nighantu/reference/antidiabetic/) effect through alpha-amylase and alpha-glucosidase enzyme inhibition reducing postprandial [glucose](/nighantu/glossary/compounds-d-g/#glucose) spikes
+- [Hepatoprotective](/nighantu/reference/hepatoprotective/) and nephroprotective activities through [antioxidant](/nighantu/reference/antioxidant/)-mediated protection against oxidative stress-induced organ damage
 
 ## Which traditional uses are supported by research?
 
 - Digestive and carminative (Deepana-Pachana) - validated through confirmed stimulant and carminative properties
-- Respiratory disorders and cough (Kasa-hara) - supported by traditional [expectorant](/ayurveda-atlas/reference/expectorant/) use; essential oil has [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) activity against respiratory pathogens
+- Respiratory disorders and cough (Kasa-hara) - supported by traditional [expectorant](/nighantu/reference/expectorant/) use; essential oil has [antimicrobial](/nighantu/reference/antimicrobial/) activity against respiratory pathogens
 - Urogenital health (Mutra-roga) - traditional use for urinary tract infections partially supported by antimicrobial data
 - Oral health freshener (Mukha-shodhana) - traditional oral care use supported by antibacterial activity
 
 ## What do recent clinical trials show?
 
-- **Unveiling the Potential of Piper cubeba L.f.: A Comprehensive Review Covering Phytochemistry, Pharmacology, and Cutting-edge Applications** (2024): Comprehensive review documenting lignans as the main active constituents with cubebin as the most abundant; validated antioxidant, antibacterial, anti-inflammatory, and [anticancer](/ayurveda-atlas/reference/anticancer/) effects.
+- **Unveiling the Potential of Piper cubeba L.f.: A Comprehensive Review Covering Phytochemistry, Pharmacology, and Cutting-edge Applications** (2024): Comprehensive review documenting lignans as the main active constituents with cubebin as the most abundant; validated antioxidant, antibacterial, anti-inflammatory, and [anticancer](/nighantu/reference/anticancer/) effects.
 - **Cubeb (Piper cubeba L.): nutritional value, phytochemical profiling and dermacosmeceutical properties** (2024): Identified novel dermacosmeceutical applications of cubeb extracts with documented antioxidant, anti-aging, and skin-protective properties alongside nutritional value.
 - **Extraction and Phytochemical Screening of Kankola (Piper cubeba) for in-vitro Antidiabetic Potential** (2024): Demonstrated significant in vitro antidiabetic potential through alpha-amylase and alpha-glucosidase inhibition assays.
 
@@ -80,7 +80,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kankola/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g powder twice daily; 3-5 drops essential oil (diluted); as adjuvant in formulations
 
-**Bioavailability:** Essential oil constituents (1,8-[cineole](/ayurveda-atlas/glossary/compounds-c-d/#cineole), [eugenol](/ayurveda-atlas/glossary/compounds-d-g/#eugenol)) are readily absorbed through oral and transdermal routes. Volatile [terpenoids](/ayurveda-atlas/glossary/compounds-t-z/#terpenoids) have good bioavailability but short plasma half-lives. Cyclodextrin inclusion complexes extend residence time. Co-administration with fats enhances absorption of sesquiterpenes.
+**Bioavailability:** Essential oil constituents (1,8-[cineole](/nighantu/glossary/compounds-c-d/#cineole), [eugenol](/nighantu/glossary/compounds-d-g/#eugenol)) are readily absorbed through oral and transdermal routes. Volatile [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids) have good bioavailability but short plasma half-lives. Cyclodextrin inclusion complexes extend residence time. Co-administration with fats enhances absorption of sesquiterpenes.
 
 **Optimal Timing:** After meals for digestive support; before meals for appetite stimulation
 
@@ -103,6 +103,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kankola/meta-analysis.md"
 ### Synergistic Combinations
 
 - Ela (Cardamom) for digestive formulations
-- [Lavanga](/ayurveda-atlas/herb/lavanga/) (Clove) for oral health preparations
-- [Jatiphala](/ayurveda-atlas/herb/jatiphala/) (Nutmeg) for carminative synergy
-- Maricha ([Black pepper](/ayurveda-atlas/herb/black-pepper/)) for bioavailability enhancement
+- [Lavanga](/nighantu/herb/lavanga/) (Clove) for oral health preparations
+- [Jatiphala](/nighantu/herb/jatiphala/) (Nutmeg) for carminative synergy
+- Maricha ([Black pepper](/nighantu/herb/black-pepper/)) for bioavailability enhancement

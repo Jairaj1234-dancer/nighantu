@@ -27,28 +27,28 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Sarivad
 
 ## Key Ingredients
 
-- [Sariva](/ayurveda-atlas/herb/sariva/) (Hemidesmus indicus / Indian Sarsaparilla)
-- Krishna [Sariva](/ayurveda-atlas/herb/sariva/) (Ichnocarpus frutescens)
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) (Tinospora cordifolia)
-- [Tulsi](/ayurveda-atlas/herb/tulsi/) (Ocimum sanctum)
-- [Brahmi](/ayurveda-atlas/herb/brahmi/) (Bacopa monnieri)
+- [Sariva](/nighantu/herb/sariva/) (Hemidesmus indicus / Indian Sarsaparilla)
+- Krishna [Sariva](/nighantu/herb/sariva/) (Ichnocarpus frutescens)
+- [Guduchi](/nighantu/herb/guduchi/) (Tinospora cordifolia)
+- [Tulsi](/nighantu/herb/tulsi/) (Ocimum sanctum)
+- [Brahmi](/nighantu/herb/brahmi/) (Bacopa monnieri)
 - Amalaki (Emblica officinalis)
 - Pipal bark (Ficus religiosa)
 - Kachoor (Curcuma zedoaria)
 - Gulab (Rosa centifolia)
-- Shunthi ([Zingiber](/ayurveda-atlas/herb/zingiber/) officinale)
-- [Dhataki](/ayurveda-atlas/herb/dhataki/) pushpa (Woodfordia fruticosa)
+- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale)
+- [Dhataki](/nighantu/herb/dhataki/) pushpa (Woodfordia fruticosa)
 - Sugar / Jaggery (fermentation medium)
 
 ## Where is it described in the classical texts?
 
-Bhaishajya Ratnavali, Prameha Pidika Adhyaya (chapter on diabetic complications). Charaka Samhita and Sushruta Samhita extol [Sariva](/ayurveda-atlas/herb/sariva/) as a premier herb for pacifying Pitta dosha.
+Bhaishajya Ratnavali, Prameha Pidika Adhyaya (chapter on diabetic complications). Charaka Samhita and Sushruta Samhita extol [Sariva](/nighantu/herb/sariva/) as a premier herb for pacifying Pitta dosha.
 
 ## How does it work?
 
 - Blood purification (Raktashodhana) through elimination of toxins via hepatic and renal pathways
-- Anti-inflammatory and cooling (Sheeta Virya) action of [Sariva](/ayurveda-atlas/herb/sariva/) pacifies Pitta dosha and reduces skin inflammation
-- [Immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) synergy from [Guduchi](/ayurveda-atlas/herb/guduchi/), [Tulsi](/ayurveda-atlas/herb/tulsi/), and Amalaki strengthens host defense against skin infections
+- Anti-inflammatory and cooling (Sheeta Virya) action of [Sariva](/nighantu/herb/sariva/) pacifies Pitta dosha and reduces skin inflammation
+- [Immunomodulatory](/nighantu/reference/immunomodulatory/) synergy from [Guduchi](/nighantu/herb/guduchi/), [Tulsi](/nighantu/herb/tulsi/), and Amalaki strengthens host defense against skin infections
 - Detoxification through enhanced liver and kidney function promotes elimination of metabolic waste products
 
 ## Which traditional uses are supported by research?
@@ -60,7 +60,7 @@ Bhaishajya Ratnavali, Prameha Pidika Adhyaya (chapter on diabetic complications)
 
 ## What do recent clinical trials show?
 
-- **Sarivadyasava as adjuvant in dengue fever management** (2018): Pilot study in Journal of Ethnopharmacology (n=30): Sarivadyasava plus standard antipyretics vs [antipyretic](/ayurveda-atlas/reference/antipyretic/) alone - combined therapy group saw faster temperature reduction (average 12 hours earlier).
+- **Sarivadyasava as adjuvant in dengue fever management** (2018): Pilot study in Journal of Ethnopharmacology (n=30): Sarivadyasava plus standard antipyretics vs [antipyretic](/nighantu/reference/antipyretic/) alone - combined therapy group saw faster temperature reduction (average 12 hours earlier).
 - **Sarivadyasava in psoriasis: open-label trial** (2020): Open-label trial (n=20) in Ayurveda & Health Journal: PASI scores improved by 25% at 4 weeks with reduced itching and scaling.
 - **Review of Sarivadyasava as an Ayurvedic remedy for skin disorders** (2021): Published review in World Journal of Pharmaceutical Research confirmed blood-purifying, detoxifying, and anti-inflammatory mechanisms supporting traditional use in eczema, psoriasis, and acne.
 
@@ -100,4 +100,4 @@ Bhaishajya Ratnavali, Prameha Pidika Adhyaya (chapter on diabetic complications)
 
 ### Synergistic Combinations
 
-- Key herbs: [Sariva](/ayurveda-atlas/herb/sariva/) (Hemidesmus), [Dhataki](/ayurveda-atlas/herb/dhataki/), [Guda](/ayurveda-atlas/glossary/concepts-a-m/#guda); fermentation creates unique metabolite profile with enhanced therapeutic activity
+- Key herbs: [Sariva](/nighantu/herb/sariva/) (Hemidesmus), [Dhataki](/nighantu/herb/dhataki/), [Guda](/nighantu/glossary/concepts-a-m/#guda); fermentation creates unique metabolite profile with enhanced therapeutic activity

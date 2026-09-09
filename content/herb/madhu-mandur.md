@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Lohas-Iron-Preparations/Madh
 
 | Language | Name |
 |----------|------|
-| English | [Madhu](/ayurveda-atlas/herb/madhu/) Mandur |
+| English | [Madhu](/nighantu/herb/madhu/) Mandur |
 
 ## Where is it described in the classical texts?
 
@@ -32,9 +32,9 @@ Charaka Samhita, Pandu Roga Chikitsa; Bhaishajya Ratnavali; Rasa Tarangini; the 
 ## How does it work?
 
 - Mandura (iron rust/Fe2O3) provides iron in oxide form that is converted to bioavailable nano-particulate iron through classical calcination (Marana) process
-- Honey ([Madhu](/ayurveda-atlas/herb/madhu/)) acts as a potent bioenhancer increasing iron absorption by >100% compared to Mandur alone; also has Yogavahi (carrier) properties enhancing tissue penetration
-- [Triphala](/ayurveda-atlas/herb/triphala/) decoction used in processing provides vitamin C for iron absorption, [antioxidant](/ayurveda-atlas/reference/antioxidant/) protection, and Shodhana (purification) of the iron rust
-- [Gomutra](/ayurveda-atlas/herb/gomutra/) (cow's urine) in purification contains uric acid and [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes) that aid in conversion of toxic iron forms to safer oxide nanoparticles
+- Honey ([Madhu](/nighantu/herb/madhu/)) acts as a potent bioenhancer increasing iron absorption by >100% compared to Mandur alone; also has Yogavahi (carrier) properties enhancing tissue penetration
+- [Triphala](/nighantu/herb/triphala/) decoction used in processing provides vitamin C for iron absorption, [antioxidant](/nighantu/reference/antioxidant/) protection, and Shodhana (purification) of the iron rust
+- [Gomutra](/nighantu/herb/gomutra/) (cow's urine) in purification contains uric acid and [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) that aid in conversion of toxic iron forms to safer oxide nanoparticles
 - Combined Deepana-Pachana (digestive fire enhancing) and Rakta-Vardhaka (blood building) action corrects both the cause (poor digestion/absorption) and effect (low hemoglobin) of anemia
 
 ## Which traditional uses are supported by research?
@@ -45,16 +45,16 @@ Charaka Samhita, Pandu Roga Chikitsa; Bhaishajya Ratnavali; Rasa Tarangini; the 
 ## What do recent clinical trials show?
 
 - **Clinical evaluation of potentiating effect of honey and Mandur Bhasma in anemic children** (2015): Honey combined with Mandur Bhasma showed 21.86% increase in hemoglobin vs 9.77% with Mandur Bhasma alone, demonstrating synergistic potentiating effect of honey
-- **Therapeutic Efficacy of [Mandura Bhasma](/ayurveda-atlas/herb/mandura-bhasma/) and [Rohitakarishta](/ayurveda-atlas/formulation/rohitakarishta/) in Severe Anemia: A Classical Ayurvedic Approach** (2025): Case study showed significant hemoglobin increase and drastic improvement in energy levels, appetite, and overall well-being in pediatric severe anemia
-- **Analytical standardization of [Mandura Bhasma](/ayurveda-atlas/herb/mandura-bhasma/) (incinerated iron oxide)** (2016): Standardized characterization of [Mandura Bhasma](/ayurveda-atlas/herb/mandura-bhasma/) confirmed nano-particulate iron oxide form meeting classical quality parameters (Rekhapurnatva, Varitaratva, Sukshmatva)
+- **Therapeutic Efficacy of [Mandura Bhasma](/nighantu/herb/mandura-bhasma/) and [Rohitakarishta](/nighantu/formulation/rohitakarishta/) in Severe Anemia: A Classical Ayurvedic Approach** (2025): Case study showed significant hemoglobin increase and drastic improvement in energy levels, appetite, and overall well-being in pediatric severe anemia
+- **Analytical standardization of [Mandura Bhasma](/nighantu/herb/mandura-bhasma/) (incinerated iron oxide)** (2016): Standardized characterization of [Mandura Bhasma](/nighantu/herb/mandura-bhasma/) confirmed nano-particulate iron oxide form meeting classical quality parameters (Rekhapurnatva, Varitaratva, Sukshmatva)
 
 ## Recent safety updates
 
 - Honey potentiation allows lower effective iron dose, reducing risk of iron-related GI side effects
-- Mandura must undergo proper Shodhana (purification with [Triphala](/ayurveda-atlas/herb/triphala/), [Gomutra](/ayurveda-atlas/herb/gomutra/), etc.) to remove toxic contaminants from raw iron rust
+- Mandura must undergo proper Shodhana (purification with [Triphala](/nighantu/herb/triphala/), [Gomutra](/nighantu/herb/gomutra/), etc.) to remove toxic contaminants from raw iron rust
 - Iron overload risk with chronic unsupervised use; particularly important to monitor in patients with hereditary hemochromatosis or thalassemia
 - Quality control essential - raw iron rust may contain variable heavy metal contaminants (lead, cadmium); only standardized preparations from licensed manufacturers should be used
-- API mandates strict limits on Loha percentage and permissible heavy metal contaminants in [Mandura Bhasma](/ayurveda-atlas/herb/mandura-bhasma/) preparations
+- API mandates strict limits on Loha percentage and permissible heavy metal contaminants in [Mandura Bhasma](/nighantu/herb/mandura-bhasma/) preparations
 
 ## What is it made of?
 
@@ -71,18 +71,18 @@ Charaka Samhita, Pandu Roga Chikitsa; Bhaishajya Ratnavali; Rasa Tarangini; the 
 
 **Standard Dosage:** 250–500 mg twice daily
 
-**Bioavailability:** Enhanced; Mandura (iron rust) combined with honey ([Madhu](/ayurveda-atlas/herb/madhu/)) processing improves absorption
+**Bioavailability:** Enhanced; Mandura (iron rust) combined with honey ([Madhu](/nighantu/herb/madhu/)) processing improves absorption
 
-**Optimal Timing:** After meals with buttermilk or [Triphala](/ayurveda-atlas/herb/triphala/) Kwatha
+**Optimal Timing:** After meals with buttermilk or [Triphala](/nighantu/herb/triphala/) Kwatha
 
-**Standardized Extract:** [Mandura Bhasma](/ayurveda-atlas/herb/mandura-bhasma/) processed with honey and 40+ herbs
+**Standardized Extract:** [Mandura Bhasma](/nighantu/herb/mandura-bhasma/) processed with honey and 40+ herbs
 
 **Shelf Life:** 3–5 years
 
 **Storage:** Airtight container
 
-**Marker Compounds:** Iron oxide (from Mandura), [Polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols) from multiple herbs, Trace minerals
+**Marker Compounds:** Iron oxide (from Mandura), [Polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) from multiple herbs, Trace minerals
 
 **Quality Parameters:** Iron content as labeled, uniformity of weight, disintegration <30 min
 
-**Vehicle (Anupana):** Buttermilk, [Triphala](/ayurveda-atlas/herb/triphala/) Kwatha, or honey
+**Vehicle (Anupana):** Buttermilk, [Triphala](/nighantu/herb/triphala/) Kwatha, or honey

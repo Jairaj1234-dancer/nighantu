@@ -23,20 +23,20 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Elakanadi-Ka
 
 | Language | Name |
 |----------|------|
-| English | [Elakanadi Kashayam](/ayurveda-atlas/formulation/elakanadi-kashayam/) |
+| English | [Elakanadi Kashayam](/nighantu/formulation/elakanadi-kashayam/) |
 
 ## Key Ingredients
 
 - Ela (Elettaria cardamomum / Cardamom)
-- Kana/[Pippali](/ayurveda-atlas/herb/pippali/) (Piper longum)
-- [Madhuka](/ayurveda-atlas/herb/madhuka/)/[Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) (Glycyrrhiza glabra)
-- Nagara/Shunthi ([Zingiber](/ayurveda-atlas/herb/zingiber/) officinale)
+- Kana/[Pippali](/nighantu/herb/pippali/) (Piper longum)
+- [Madhuka](/nighantu/herb/madhuka/)/[Yashtimadhu](/nighantu/herb/yashtimadhu/) (Glycyrrhiza glabra)
+- Nagara/Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale)
 - Abda/Musta (Cyperus rotundus)
-- [Vasa](/ayurveda-atlas/herb/vasa/) (Adhatoda vasica)
-- [Nimba](/ayurveda-atlas/herb/nimba/) (Azadirachta indica)
-- Amruta/[Guduchi](/ayurveda-atlas/herb/guduchi/) (Tinospora cordifolia)
-- [Dashamoola](/ayurveda-atlas/herb/dashamoola/) (group of ten roots)
-- Ambu/[Sariva](/ayurveda-atlas/herb/sariva/) (Hemidesmus indicus)
+- [Vasa](/nighantu/herb/vasa/) (Adhatoda vasica)
+- [Nimba](/nighantu/herb/nimba/) (Azadirachta indica)
+- Amruta/[Guduchi](/nighantu/herb/guduchi/) (Tinospora cordifolia)
+- [Dashamoola](/nighantu/herb/dashamoola/) (group of ten roots)
+- Ambu/[Sariva](/nighantu/herb/sariva/) (Hemidesmus indicus)
 
 ## Where is it described in the classical texts?
 
@@ -44,10 +44,10 @@ Sahasrayogam. Also referenced in commentaries of Charaka Samhita's Nighantu sect
 
 ## How does it work?
 
-- Bronchodilatory action from 1,8-[cineole](/ayurveda-atlas/glossary/compounds-c-d/#cineole) and [Vasa](/ayurveda-atlas/herb/vasa/) (Adhatoda vasica) relieves bronchospasm in asthma and bronchitis
-- Bioavailability enhancement by [piperine](/ayurveda-atlas/reference/piperine/) (from [Pippali](/ayurveda-atlas/herb/pippali/)) increases absorption of other active constituents
-- [Antiemetic](/ayurveda-atlas/glossary/pharmacology/#antiemetic) properties of Ela (cardamom) relieve nausea, vomiting, and hiccups
-- [Immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) and anti-inflammatory effects of [Guduchi](/ayurveda-atlas/herb/guduchi/) and [Nimba](/ayurveda-atlas/herb/nimba/) support respiratory immunity
+- Bronchodilatory action from 1,8-[cineole](/nighantu/glossary/compounds-c-d/#cineole) and [Vasa](/nighantu/herb/vasa/) (Adhatoda vasica) relieves bronchospasm in asthma and bronchitis
+- Bioavailability enhancement by [piperine](/nighantu/reference/piperine/) (from [Pippali](/nighantu/herb/pippali/)) increases absorption of other active constituents
+- [Antiemetic](/nighantu/glossary/pharmacology/#antiemetic) properties of Ela (cardamom) relieve nausea, vomiting, and hiccups
+- [Immunomodulatory](/nighantu/reference/immunomodulatory/) and anti-inflammatory effects of [Guduchi](/nighantu/herb/guduchi/) and [Nimba](/nighantu/herb/nimba/) support respiratory immunity
 
 ## Which traditional uses are supported by research?
 
@@ -58,14 +58,14 @@ Sahasrayogam. Also referenced in commentaries of Charaka Samhita's Nighantu sect
 
 ## What do recent clinical trials show?
 
-- **Anti-inflammatory, [antioxidant](/ayurveda-atlas/reference/antioxidant/) and anticancerous properties of [Elakanadi Kashayam](/ayurveda-atlas/formulation/elakanadi-kashayam/)** (2023): Published on ResearchGate confirming the polyherbal combination shows significant anti-inflammatory, antioxidative, and anticancerous properties through in vitro studies.
-- **Bronchodilatory effects of [Elakanadi Kashayam](/ayurveda-atlas/formulation/elakanadi-kashayam/) in chronic respiratory disease** (2021): Double-blind study in Phytotherapy Research showed significant reduction in cough frequency and sputum viscosity with 40 ml thrice daily for seven days.
-- **Analytical chemistry of [Elakanadi Kashayam](/ayurveda-atlas/formulation/elakanadi-kashayam/) phytoconstituents** (2020): Confirmed presence of 1,8-cineole and piperine in clinically relevant quantities, correlating with bronchodilatory and bioavailability-enhancing effects.
+- **Anti-inflammatory, [antioxidant](/nighantu/reference/antioxidant/) and anticancerous properties of [Elakanadi Kashayam](/nighantu/formulation/elakanadi-kashayam/)** (2023): Published on ResearchGate confirming the polyherbal combination shows significant anti-inflammatory, antioxidative, and anticancerous properties through in vitro studies.
+- **Bronchodilatory effects of [Elakanadi Kashayam](/nighantu/formulation/elakanadi-kashayam/) in chronic respiratory disease** (2021): Double-blind study in Phytotherapy Research showed significant reduction in cough frequency and sputum viscosity with 40 ml thrice daily for seven days.
+- **Analytical chemistry of [Elakanadi Kashayam](/nighantu/formulation/elakanadi-kashayam/) phytoconstituents** (2020): Confirmed presence of 1,8-cineole and piperine in clinically relevant quantities, correlating with bronchodilatory and bioavailability-enhancing effects.
 
 ## Recent safety updates
 
 - No known side effects at standard dosage. Overdosage may cause gastritis. Generally considered safe for long-term use under physician supervision.
-- May potentiate [antidiabetic](/ayurveda-atlas/reference/antidiabetic/) drugs and anticoagulants; blood sugar and clotting factors should be monitored closely. Large-scale RCTs and pharmacokinetic profiling still needed.
+- May potentiate [antidiabetic](/nighantu/reference/antidiabetic/) drugs and anticoagulants; blood sugar and clotting factors should be monitored closely. Large-scale RCTs and pharmacokinetic profiling still needed.
 
 ## What is it made of?
 
@@ -90,7 +90,7 @@ Sahasrayogam. Also referenced in commentaries of Charaka Samhita's Nighantu sect
 
 **Storage:** Fresh: use same day. Concentrates: amber glass at room temperature. Tablets: airtight containers at room temperature.
 
-**Marker Compounds:** 1,8-Cineole, Alpha-terpinyl acetate, [Linalool](/ayurveda-atlas/glossary/compounds-l-o/#linalool), Alpha-terpineol
+**Marker Compounds:** 1,8-Cineole, Alpha-terpinyl acetate, [Linalool](/nighantu/glossary/compounds-l-o/#linalool), Alpha-terpineol
 
 **Quality Parameters:** pH, specific gravity, total solids, volatile oil content, 1,8-cineole content, extractive values, HPTLC fingerprint, microbial limits, heavy metals
 
@@ -98,7 +98,7 @@ Sahasrayogam. Also referenced in commentaries of Charaka Samhita's Nighantu sect
 
 ### Synergistic Combinations
 
-- [Eladi Vati](/ayurveda-atlas/formulation/eladi-vati/)
-- [Sitopaladi Churna](/ayurveda-atlas/formulation/sitopaladi-churna/)
-- [Talisadi Churna](/ayurveda-atlas/formulation/talisadi-churna/)
+- [Eladi Vati](/nighantu/formulation/eladi-vati/)
+- [Sitopaladi Churna](/nighantu/formulation/sitopaladi-churna/)
+- [Talisadi Churna](/nighantu/formulation/talisadi-churna/)
 - Dasamula Kashayam

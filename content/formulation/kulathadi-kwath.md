@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Kulathadi-Kw
 
 | Language | Name |
 |----------|------|
-| English | [Kulathadi Kwath](/ayurveda-atlas/formulation/kulathadi-kwath/) |
+| English | [Kulathadi Kwath](/nighantu/formulation/kulathadi-kwath/) |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -32,7 +32,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Kulathadi-Kw
 | **Rasa** (Taste) | Kashaya | Primary taste |
 | **Guna** (Quality) | Laghu, Tikshna | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
-| **Vipaka** (Post-digestive) | [Amla](/ayurveda-atlas/herb/amla/) | Post-digestive effect |
+| **Vipaka** (Post-digestive) | [Amla](/nighantu/herb/amla/) | Post-digestive effect |
 
 ## What is it made of?
 
@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Kulathadi-Kw
 
 **Standard Dosage:** 40-80 mL twice daily before meals, as per classical texts
 
-**Bioavailability:** Hot decoction form provides rapid absorption. [Kulattha](/ayurveda-atlas/herb/kulattha/) [proteins](/ayurveda-atlas/glossary/compounds-o-q/#proteins) and phenolics are well-extracted in prolonged boiling. [Isoflavones](/ayurveda-atlas/glossary/compounds-g-l/#isoflavones) from horse gram have moderate oral bioavailability.
+**Bioavailability:** Hot decoction form provides rapid absorption. [Kulattha](/nighantu/herb/kulattha/) [proteins](/nighantu/glossary/compounds-o-q/#proteins) and phenolics are well-extracted in prolonged boiling. [Isoflavones](/nighantu/glossary/compounds-g-l/#isoflavones) from horse gram have moderate oral bioavailability.
 
 **Optimal Timing:** Before meals, morning and evening, especially for Ashmari (urinary calculi) and Mutra Roga (urinary disorders)
 
@@ -57,15 +57,15 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Kulathadi-Kw
 
 **Storage:** Fresh: use same day. Kwath Churna: airtight containers in cool, dry place. Temperature not exceeding 30°C.
 
-**Marker Compounds:** [Daidzein](/ayurveda-atlas/glossary/compounds-c-d/#daidzein), [Genistein](/ayurveda-atlas/glossary/compounds-d-g/#genistein), Phytic acid, Gallic acid, [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/)
+**Marker Compounds:** [Daidzein](/nighantu/glossary/compounds-c-d/#daidzein), [Genistein](/nighantu/glossary/compounds-d-g/#genistein), Phytic acid, Gallic acid, [Quercetin](/nighantu/reference/quercetinquercetin/)
 
-**Quality Parameters:** pH, specific gravity, total solids, total protein (from [Kulattha](/ayurveda-atlas/herb/kulattha/)), extractive values, HPTLC fingerprint, total phenolics, [antioxidant](/ayurveda-atlas/reference/antioxidant/) activity, microbial limits, heavy metals
+**Quality Parameters:** pH, specific gravity, total solids, total protein (from [Kulattha](/nighantu/herb/kulattha/)), extractive values, HPTLC fingerprint, total phenolics, [antioxidant](/nighantu/reference/antioxidant/) activity, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Taken as warm decoction; may add Yavakshar (alkali) for enhanced litholytic effect
 
 ### Synergistic Combinations
 
-- Gokshuradi [Guggulu](/ayurveda-atlas/formulation/guggulu/)|Gokshuradi Guggulu
-- [Chandraprabha](/ayurveda-atlas/herb/chandraprabha/) Vati
-- [Varunadi Kwath](/ayurveda-atlas/glossary/concepts-m-y/#varunadi-kwath)
-- [Punarnava](/ayurveda-atlas/herb/punarnava/) Kwath
+- Gokshuradi [Guggulu](/nighantu/formulation/guggulu/)|Gokshuradi Guggulu
+- [Chandraprabha](/nighantu/herb/chandraprabha/) Vati
+- [Varunadi Kwath](/nighantu/glossary/concepts-m-y/#varunadi-kwath)
+- [Punarnava](/nighantu/herb/punarnava/) Kwath

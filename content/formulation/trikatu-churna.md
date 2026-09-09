@@ -23,13 +23,13 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Trikatu-Churna/me
 
 | Language | Name |
 |----------|------|
-| English | [Trikatu](/ayurveda-atlas/herb/trikatu/) Churna |
+| English | [Trikatu](/nighantu/herb/trikatu/) Churna |
 
 ## Key Ingredients
 
-- Maricha (Piper nigrum - [Black Pepper](/ayurveda-atlas/herb/black-pepper/)) dried fruits
-- [Pippali](/ayurveda-atlas/herb/pippali/) (Piper longum - Long Pepper) dried fruits
-- Shunthi/Sunthi ([Zingiber](/ayurveda-atlas/herb/zingiber/) officinale - Dried [Ginger](/ayurveda-atlas/herb/ginger/)) rhizome
+- Maricha (Piper nigrum - [Black Pepper](/nighantu/herb/black-pepper/)) dried fruits
+- [Pippali](/nighantu/herb/pippali/) (Piper longum - Long Pepper) dried fruits
+- Shunthi/Sunthi ([Zingiber](/nighantu/herb/zingiber/) officinale - Dried [Ginger](/nighantu/herb/ginger/)) rhizome
 
 ## Where is it described in the classical texts?
 
@@ -37,10 +37,10 @@ Charaka Samhita (Sutra Sthana, Chapter 4); Sushruta Samhita; Ashtanga Hridayam; 
 
 ## How does it work?
 
-- Bioavailability enhancement: [Piperine](/ayurveda-atlas/reference/piperine/) inhibits hepatic and intestinal glucuronidation (UDP-glucuronosyltransferase) and transiently modulates P-glycoprotein efflux transporters, dramatically increasing absorption of co-administered compounds by up to 2000%
+- Bioavailability enhancement: [Piperine](/nighantu/reference/piperine/) inhibits hepatic and intestinal glucuronidation (UDP-glucuronosyltransferase) and transiently modulates P-glycoprotein efflux transporters, dramatically increasing absorption of co-administered compounds by up to 2000%
 - Digestive fire stimulation (Agni Deepana): Increases salivary amylase, gastric acid (HCl) secretion, and pancreatic enzyme (lipase, amylase, trypsin) activity, directly strengthening digestive fire
 - Thermogenic metabolism boost: Hot potency (Ushna Virya) and pungent taste (Katu Rasa) stimulate thermogenesis and metabolic rate through sympathetic nervous system activation and TRPV1 receptor agonism
-- Anti-inflammatory action: Gingerols and 6-shogaol from [ginger](/ayurveda-atlas/herb/ginger/) inhibit COX-2 and LOX pathways; piperine suppresses NF-kB activation and pro-inflammatory cytokine production
+- Anti-inflammatory action: Gingerols and 6-shogaol from [ginger](/nighantu/herb/ginger/) inhibit COX-2 and LOX pathways; piperine suppresses NF-kB activation and pro-inflammatory cytokine production
 
 ## Which traditional uses are supported by research?
 
@@ -51,9 +51,9 @@ Charaka Samhita (Sutra Sthana, Chapter 4); Sushruta Samhita; Ashtanga Hridayam; 
 
 ## What do recent clinical trials show?
 
-- **A placebo-controlled randomized clinical study of [Trikatu](/ayurveda-atlas/herb/trikatu/) in Grade-1 obesity management** (2024): Placebo-controlled RCT on 50 Grade-1 obese patients aged 20-70 years showed [Trikatu](/ayurveda-atlas/herb/trikatu/) alongside lifestyle modifications had significant effects on obesity management parameters.
-- **Phyto-pharmacological review on bioavailability enhancer: [Trikatu](/ayurveda-atlas/herb/trikatu/)** (2024): Comprehensive review confirmed [Trikatu](/ayurveda-atlas/herb/trikatu/) enhances bioavailability of co-administered drugs and phytoconstituents by transiently modulating P-glycoprotein transporters and hepatic/intestinal glucuronidation [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes).
-- **[Trikatu](/ayurveda-atlas/herb/trikatu/) - A combination of three bioavailability enhancers: piperine, gingerols, and 6-shogaol** (2018): Piperine from P. nigrum and P. longum enhances bioavailability by up to 2000% for some compounds; [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/), antiviral, and anti-inflammatory properties additionally confirmed.
+- **A placebo-controlled randomized clinical study of [Trikatu](/nighantu/herb/trikatu/) in Grade-1 obesity management** (2024): Placebo-controlled RCT on 50 Grade-1 obese patients aged 20-70 years showed [Trikatu](/nighantu/herb/trikatu/) alongside lifestyle modifications had significant effects on obesity management parameters.
+- **Phyto-pharmacological review on bioavailability enhancer: [Trikatu](/nighantu/herb/trikatu/)** (2024): Comprehensive review confirmed [Trikatu](/nighantu/herb/trikatu/) enhances bioavailability of co-administered drugs and phytoconstituents by transiently modulating P-glycoprotein transporters and hepatic/intestinal glucuronidation [enzymes](/nighantu/glossary/compounds-d-g/#enzymes).
+- **[Trikatu](/nighantu/herb/trikatu/) - A combination of three bioavailability enhancers: piperine, gingerols, and 6-shogaol** (2018): Piperine from P. nigrum and P. longum enhances bioavailability by up to 2000% for some compounds; [immunomodulatory](/nighantu/reference/immunomodulatory/), antiviral, and anti-inflammatory properties additionally confirmed.
 
 ## Recent safety updates
 
@@ -83,7 +83,7 @@ Charaka Samhita (Sutra Sthana, Chapter 4); Sushruta Samhita; Ashtanga Hridayam; 
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
-**Marker Compounds:** Piperine, 6-[Gingerol](/ayurveda-atlas/glossary/compounds-d-g/#gingerol), [Piperlongumine](/ayurveda-atlas/glossary/compounds-o-q/#piperlongumine)
+**Marker Compounds:** Piperine, 6-[Gingerol](/nighantu/glossary/compounds-d-g/#gingerol), [Piperlongumine](/nighantu/glossary/compounds-o-q/#piperlongumine)
 
 **Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Piperine, 6-Gingerol, Piperlongumine
 

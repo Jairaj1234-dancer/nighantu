@@ -42,27 +42,27 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Narikela/meta-analysis.m
 
 ## How does it work?
 
-- [Antimicrobial](/ayurveda-atlas/reference/antimicrobial/) action via lauric acid metabolite monolaurin disrupting bacterial and fungal cell membrane integrity
-- [Cardioprotective](/ayurveda-atlas/reference/cardioprotective/) effects through medium-chain fatty acid-mediated improvement of HDL/LDL ratio and [antioxidant](/ayurveda-atlas/reference/antioxidant/) action
-- Anti-inflammatory activity via virgin [coconut oil](/ayurveda-atlas/glossary/concepts-a-m/#coconut-oil) [polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols) inhibiting COX-2 and LOX pathways
-- Rehydration and electrolyte balance through coconut water providing isotonic [potassium](/ayurveda-atlas/glossary/compounds-o-q/#potassium), sodium and natural sugar solution
+- [Antimicrobial](/nighantu/reference/antimicrobial/) action via lauric acid metabolite monolaurin disrupting bacterial and fungal cell membrane integrity
+- [Cardioprotective](/nighantu/reference/cardioprotective/) effects through medium-chain fatty acid-mediated improvement of HDL/LDL ratio and [antioxidant](/nighantu/reference/antioxidant/) action
+- Anti-inflammatory activity via virgin [coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil) [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) inhibiting COX-2 and LOX pathways
+- Rehydration and electrolyte balance through coconut water providing isotonic [potassium](/nighantu/glossary/compounds-o-q/#potassium), sodium and natural sugar solution
 
 ## Which traditional uses are supported by research?
 
-- Urinary disorder (Mutraroga) treatment validated through [diuretic](/ayurveda-atlas/reference/diuretic/) and nephroprotective preclinical studies
-- Wound healing use of [coconut oil](/ayurveda-atlas/glossary/concepts-a-m/#coconut-oil) validated through antimicrobial and epithelialization studies
+- Urinary disorder (Mutraroga) treatment validated through [diuretic](/nighantu/reference/diuretic/) and nephroprotective preclinical studies
+- Wound healing use of [coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil) validated through antimicrobial and epithelialization studies
 - Rehydration use of coconut water validated through electrolyte composition analysis comparable to ORS formulations
-- Skin care (Charma roga) use validated through emollient, antimicrobial and anti-inflammatory properties of virgin [coconut oil](/ayurveda-atlas/glossary/concepts-a-m/#coconut-oil)
+- Skin care (Charma roga) use validated through emollient, antimicrobial and anti-inflammatory properties of virgin [coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil)
 
 ## What do recent clinical trials show?
 
 - **Narikela (Cocos nucifera L.): Unique medicinal recipes from Keraleeya Ayurveda Chikitsa Granthas** (2025): Documented unique Ayurvedic formulations using different parts of coconut tree from Kerala texts, validating use in urinary disorders, bleeding disorders, skin diseases and as rejuvenating agent.
-- **Antimicrobial Potential of Cocos nucifera (Coconut) Oil on Bacterial Isolates** (2024): [Coconut oil](/ayurveda-atlas/glossary/concepts-a-m/#coconut-oil) demonstrated significant antimicrobial activity attributed to lauric acid conversion to monolaurin, which disrupts bacterial cell membrane integrity through peptidoglycan mimicry.
-- **Cocos nucifera (L.) (Arecaceae): A phytochemical and pharmacological review** (2023): Confirmed antihelminthic, anti-inflammatory, antinociceptive, antioxidant, antifungal, [antitumor](/ayurveda-atlas/glossary/pharmacology/#antitumor), [antihypertensive](/ayurveda-atlas/glossary/pharmacology/#antihypertensive), cardioprotective and [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) activities across various coconut-derived products.
+- **Antimicrobial Potential of Cocos nucifera (Coconut) Oil on Bacterial Isolates** (2024): [Coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil) demonstrated significant antimicrobial activity attributed to lauric acid conversion to monolaurin, which disrupts bacterial cell membrane integrity through peptidoglycan mimicry.
+- **Cocos nucifera (L.) (Arecaceae): A phytochemical and pharmacological review** (2023): Confirmed antihelminthic, anti-inflammatory, antinociceptive, antioxidant, antifungal, [antitumor](/nighantu/glossary/pharmacology/#antitumor), [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive), cardioprotective and [hepatoprotective](/nighantu/reference/hepatoprotective/) activities across various coconut-derived products.
 
 ## Recent safety updates
 
-- [Coconut oil](/ayurveda-atlas/glossary/concepts-a-m/#coconut-oil) and coconut water are GRAS with extensive dietary use history; virgin [coconut oil](/ayurveda-atlas/glossary/concepts-a-m/#coconut-oil) is generally well-tolerated
+- [Coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil) and coconut water are GRAS with extensive dietary use history; virgin [coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil) is generally well-tolerated
 - Debate continues regarding saturated fat (lauric acid) content and cardiovascular risk; current evidence suggests neutral to beneficial effects when consumed in moderation. Coconut allergy (rare but documented) exists.
 
 ## What is it made of?
@@ -85,7 +85,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Narikela/meta-analysis.m
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** [Narikela Jala](/ayurveda-atlas/herb/narikela-jala/) (coconut water), Narikela Taila ([coconut oil](/ayurveda-atlas/glossary/concepts-a-m/#coconut-oil)), Churna (dried flesh/copra powder), Narikela [Ksheera](/ayurveda-atlas/herb/ksheera/) (coconut milk), Capsules (VCO softgels), Topical oil, Narikela Khanda (confection), Pulling oil
+**Dosage Forms:** [Narikela Jala](/nighantu/herb/narikela-jala/) (coconut water), Narikela Taila ([coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil)), Churna (dried flesh/copra powder), Narikela [Ksheera](/nighantu/herb/ksheera/) (coconut milk), Capsules (VCO softgels), Topical oil, Narikela Khanda (confection), Pulling oil
 
 **Standard Dosage:** 15-30 mL virgin coconut oil daily; 200-400 mL coconut water daily; 5-10 g copra powder; 50-100 mL coconut milk; 1-2 softgels (1000 mg VCO) twice daily
 
@@ -112,8 +112,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Narikela/meta-analysis.m
 
 ### Synergistic Combinations
 
-- [Amla](/ayurveda-atlas/herb/amla/) (hair oil combination)
-- [Bhringraj](/ayurveda-atlas/herb/bhringraj/) (hair and scalp health)
-- [Brahmi](/ayurveda-atlas/herb/brahmi/) (cognitive and hair oil)
-- [Camphor](/ayurveda-atlas/herb/camphor/) (topical [analgesic](/ayurveda-atlas/reference/analgesic/) in coconut oil base)
-- [Turmeric](/ayurveda-atlas/herb/turmeric/) (anti-inflammatory golden milk with coconut milk)
+- [Amla](/nighantu/herb/amla/) (hair oil combination)
+- [Bhringraj](/nighantu/herb/bhringraj/) (hair and scalp health)
+- [Brahmi](/nighantu/herb/brahmi/) (cognitive and hair oil)
+- [Camphor](/nighantu/herb/camphor/) (topical [analgesic](/nighantu/reference/analgesic/) in coconut oil base)
+- [Turmeric](/nighantu/herb/turmeric/) (anti-inflammatory golden milk with coconut milk)

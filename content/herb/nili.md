@@ -28,14 +28,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Nili/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Indirubin](/ayurveda-atlas/glossary/compounds-g-l/#indirubin) (bis-indole alkaloid - primary bioactive anti-inflammatory)
-- Indigo ([indigotin](/ayurveda-atlas/glossary/compounds-g-l/#indigotin) - blue pigment)
-- [Tryptanthrin](/ayurveda-atlas/glossary/compounds-t-z/#tryptanthrin) (indoloquinazoline alkaloid)
+- [Indirubin](/nighantu/glossary/compounds-g-l/#indirubin) (bis-indole alkaloid - primary bioactive anti-inflammatory)
+- Indigo ([indigotin](/nighantu/glossary/compounds-g-l/#indigotin) - blue pigment)
+- [Tryptanthrin](/nighantu/glossary/compounds-t-z/#tryptanthrin) (indoloquinazoline alkaloid)
 - Isatin (indole derivative)
 - Indigoside (glycoside)
 - Gallic acid (polyphenol)
-- [Kaempferol](/ayurveda-atlas/reference/kaempferol/) (flavonoid)
-- Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
+- [Kaempferol](/nighantu/reference/kaempferol/) (flavonoid)
+- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
 
 ## How does it work?
 
@@ -83,7 +83,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Nili/meta-analysis.md"
 
 **Standard Dosage:** 500 mg - 2 g dried powder daily; 5-10 mL infusion; topical oil or paste as directed
 
-**Bioavailability:** Indigo and indirubin (key bioactives from Indigofera species) show poor oral bioavailability (<15%) due to low aqueous solubility and extensive gut metabolism. Nano-formulation or complexation with [phospholipids](/ayurveda-atlas/glossary/compounds-o-q/#phospholipids) (Phytosome technology) can improve oral bioavailability 3-5 fold. Topical application provides direct delivery for dermatological and hair care indications.
+**Bioavailability:** Indigo and indirubin (key bioactives from Indigofera species) show poor oral bioavailability (<15%) due to low aqueous solubility and extensive gut metabolism. Nano-formulation or complexation with [phospholipids](/nighantu/glossary/compounds-o-q/#phospholipids) (Phytosome technology) can improve oral bioavailability 3-5 fold. Topical application provides direct delivery for dermatological and hair care indications.
 
 **Optimal Timing:** Oral use: after meals. Topical hair oil: apply at night, wash in morning. Skin applications: as directed, typically twice daily.
 
@@ -93,7 +93,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Nili/meta-analysis.md"
 
 **Storage:** Store in amber containers, protected from direct light and moisture. Temperature below 25 deg C. Oil formulations in amber glass bottles, cool dark storage. Bulk indigo extract in nitrogen-flushed containers.
 
-**Marker Compounds:** Indirubin, Indigo (indigotin), Isatin, Kaempferol, [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/), Gallic acid, Rotenoids
+**Marker Compounds:** Indirubin, Indigo (indigotin), Isatin, Kaempferol, [Quercetin](/nighantu/reference/quercetinquercetin/), Gallic acid, Rotenoids
 
 ### Extraction Methods
 
@@ -107,6 +107,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Nili/meta-analysis.md"
 
 - Bhringaraja (hair growth and pigmentation)
 - Neeli + Amalaki (hair health formulation)
-- [Haridra](/ayurveda-atlas/herb/haridra/) (anti-inflammatory skin conditions)
-- [Manjistha](/ayurveda-atlas/herb/manjistha/) (blood purification and skin clarity)
+- [Haridra](/nighantu/herb/haridra/) (anti-inflammatory skin conditions)
+- [Manjistha](/nighantu/herb/manjistha/) (blood purification and skin clarity)
 - Kumari/Aloe (enhanced wound healing)

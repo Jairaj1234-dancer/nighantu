@@ -31,23 +31,23 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Ghrita/meta-analysis.md"
 - Medium-chain fatty acids: caprylic, capric acid
 - Long-chain fatty acids: oleic acid (25%), palmitic, stearic, myristic
 - Conjugated linoleic acid (CLA)
-- Fat-soluble [vitamins](/ayurveda-atlas/glossary/compounds-t-z/#vitamins): A, D, E, K2
+- Fat-soluble [vitamins](/nighantu/glossary/compounds-t-z/#vitamins): A, D, E, K2
 - Cholesterol (0.3%)
-- Sphingolipids and [phospholipids](/ayurveda-atlas/glossary/compounds-o-q/#phospholipids)
-- [Carotenoids](/ayurveda-atlas/glossary/compounds-a-c/#carotenoids) (beta-carotene)
+- Sphingolipids and [phospholipids](/nighantu/glossary/compounds-o-q/#phospholipids)
+- [Carotenoids](/nighantu/glossary/compounds-a-c/#carotenoids) (beta-carotene)
 - Phenolic antioxidants (from Murchhana process)
-- Trace minerals ([selenium](/ayurveda-atlas/glossary/compounds-q-t/#selenium), zinc)
+- Trace minerals ([selenium](/nighantu/glossary/compounds-q-t/#selenium), zinc)
 
 ## How does it work?
 
 - Bioavailability enhancement: Lipophilic medium enhances absorption of fat-soluble drugs and herbs; Siddha Ghrita preparations increase bioavailability of active phytochemicals across the blood-brain barrier
 - Anti-inflammatory via butyrate: Butyric acid inhibits NF-kB pathway, reduces inflammatory cytokines, strengthens intestinal barrier integrity, and supports healthy gut microbiome
-- [Neuroprotective](/ayurveda-atlas/reference/neuroprotective/): Butyrate increases brain-derived neurotrophic factor (BDNF), promotes neurogenesis, and reduces neuroinflammation; fat-soluble vitamin content supports myelin health
+- [Neuroprotective](/nighantu/reference/neuroprotective/): Butyrate increases brain-derived neurotrophic factor (BDNF), promotes neurogenesis, and reduces neuroinflammation; fat-soluble vitamin content supports myelin health
 - Digestive fire (Agni) enhancement: Short and medium-chain fatty acids are rapidly absorbed and metabolized, stimulating hepatic bile secretion and pancreatic enzyme activity
 
 ## Which traditional uses are supported by research?
 
-- Medhya [Rasayana](/ayurveda-atlas/reference/rasayana/) (cognitive enhancement): Butyrate-mediated BDNF increase and fat-soluble vitamin transport validate traditional use of medicated ghees (Saraswata Ghrita, [Brahmi](/ayurveda-atlas/herb/brahmi/) Ghrita) for cognitive improvement
+- Medhya [Rasayana](/nighantu/reference/rasayana/) (cognitive enhancement): Butyrate-mediated BDNF increase and fat-soluble vitamin transport validate traditional use of medicated ghees (Saraswata Ghrita, [Brahmi](/nighantu/herb/brahmi/) Ghrita) for cognitive improvement
 - Agni Deepana without Pitta aggravation: Rapid metabolism of short/medium-chain fatty acids stimulates digestion while cooling virya prevents inflammatory overactivation - unique dual mechanism validated
 - Snehana (oleation therapy in Panchakarma): Lipophilic drug delivery and membrane fluidity enhancement scientifically support ghee's role as the primary internal oleation medium
 

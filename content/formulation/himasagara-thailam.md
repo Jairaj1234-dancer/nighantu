@@ -23,24 +23,24 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Himasagara-
 
 | Language | Name |
 |----------|------|
-| English | [Himasagara Thailam](/ayurveda-atlas/formulation/himasagara-thailam/) |
+| English | [Himasagara Thailam](/nighantu/formulation/himasagara-thailam/) |
 
 ## Key Ingredients
 
-- [Chandana](/ayurveda-atlas/herb/chandana/) (Santalum album / Sandalwood)
-- [Tagara](/ayurveda-atlas/herb/tagara/) (Valeriana wallichii / Indian Valerian)
-- [Manjistha](/ayurveda-atlas/herb/manjistha/) (Rubia cordifolia / Indian Madder)
+- [Chandana](/nighantu/herb/chandana/) (Santalum album / Sandalwood)
+- [Tagara](/nighantu/herb/tagara/) (Valeriana wallichii / Indian Valerian)
+- [Manjistha](/nighantu/herb/manjistha/) (Rubia cordifolia / Indian Madder)
 - Sarala (Pinus roxburghii / Chir Pine)
 - Agaru (Aquilaria agallocha / Agarwood)
-- Mamsi/[Jatamansi](/ayurveda-atlas/herb/jatamansi/) (Nardostachys [jatamansi](/ayurveda-atlas/herb/jatamansi/))
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) (Asparagus racemosus)
-- [Vidari](/ayurveda-atlas/herb/vidari/) (Pueraria tuberosa)
-- [Kushmanda](/ayurveda-atlas/herb/kushmanda/) (Benincasa hispida / Ash Gourd)
-- Amalaki (Emblica officinalis / [Amla](/ayurveda-atlas/herb/amla/))
-- [Gokshura](/ayurveda-atlas/herb/gokshura/) (Tribulus terrestris)
-- [Narikela](/ayurveda-atlas/herb/narikela/) Rasa (Tender Coconut Water)
-- [Sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) ([Tila](/ayurveda-atlas/herb/tila/) taila) base
-- Cow's milk ([Ksheera](/ayurveda-atlas/herb/ksheera/))
+- Mamsi/[Jatamansi](/nighantu/herb/jatamansi/) (Nardostachys [jatamansi](/nighantu/herb/jatamansi/))
+- [Shatavari](/nighantu/herb/shatavari/) (Asparagus racemosus)
+- [Vidari](/nighantu/herb/vidari/) (Pueraria tuberosa)
+- [Kushmanda](/nighantu/herb/kushmanda/) (Benincasa hispida / Ash Gourd)
+- Amalaki (Emblica officinalis / [Amla](/nighantu/herb/amla/))
+- [Gokshura](/nighantu/herb/gokshura/) (Tribulus terrestris)
+- [Narikela](/nighantu/herb/narikela/) Rasa (Tender Coconut Water)
+- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) ([Tila](/nighantu/herb/tila/) taila) base
+- Cow's milk ([Ksheera](/nighantu/herb/ksheera/))
 
 ## Where is it described in the classical texts?
 
@@ -48,22 +48,22 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa). The name 'Himasagara' means 'cool as
 
 ## How does it work?
 
-- Santalol from [Chandana](/ayurveda-atlas/herb/chandana/) (Sandalwood) provides cooling and anti-inflammatory effects by inhibiting cyclooxygenase and lipoxygenase pathways, addressing Pitta-type burning sensations
-- Valerenic acid from [Tagara](/ayurveda-atlas/herb/tagara/) provides GABA-A receptor agonist activity, inducing calming and [anxiolytic](/ayurveda-atlas/reference/anxiolytic/) effects beneficial for insomnia, anger outbursts, and psychiatric Vata-Pitta conditions
-- Multiple cooling juice bases ([Shatavari](/ayurveda-atlas/herb/shatavari/), [Vidari](/ayurveda-atlas/herb/vidari/), [Kushmanda](/ayurveda-atlas/herb/kushmanda/), Amalaki, coconut water) provide intensive Pitta-pacification through [phytosterols](/ayurveda-atlas/glossary/compounds-o-q/#phytosterols), [saponins](/ayurveda-atlas/reference/saponins/), and vitamin C
-- [Jatamansi](/ayurveda-atlas/herb/jatamansi/)'s nardostachin crosses the blood-brain barrier via nasal/topical absorption, providing [neuroprotective](/ayurveda-atlas/reference/neuroprotective/) and anti-depressant effects in burning sensation disorders
+- Santalol from [Chandana](/nighantu/herb/chandana/) (Sandalwood) provides cooling and anti-inflammatory effects by inhibiting cyclooxygenase and lipoxygenase pathways, addressing Pitta-type burning sensations
+- Valerenic acid from [Tagara](/nighantu/herb/tagara/) provides GABA-A receptor agonist activity, inducing calming and [anxiolytic](/nighantu/reference/anxiolytic/) effects beneficial for insomnia, anger outbursts, and psychiatric Vata-Pitta conditions
+- Multiple cooling juice bases ([Shatavari](/nighantu/herb/shatavari/), [Vidari](/nighantu/herb/vidari/), [Kushmanda](/nighantu/herb/kushmanda/), Amalaki, coconut water) provide intensive Pitta-pacification through [phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols), [saponins](/nighantu/reference/saponins/), and vitamin C
+- [Jatamansi](/nighantu/herb/jatamansi/)'s nardostachin crosses the blood-brain barrier via nasal/topical absorption, providing [neuroprotective](/nighantu/reference/neuroprotective/) and anti-depressant effects in burning sensation disorders
 
 ## Which traditional uses are supported by research?
 
 - Burning sensation (Daha) and Pitta-aggravated conditions - validated by clinical observations showing significant reduction in burning sensation and related symptoms after 21 days of treatment
 - Osteoarthritis pain management - validated by pilot trial (2018) showing 65% of patients reporting significant knee pain reduction over 4 weeks
-- Insomnia, anxiety, and psychiatric disorders (Unmada) - supported by GABA-A receptor agonist activity of [Tagara](/ayurveda-atlas/herb/tagara/) and neuroprotective action of [Jatamansi](/ayurveda-atlas/herb/jatamansi/) confirmed in pharmacological studies
+- Insomnia, anxiety, and psychiatric disorders (Unmada) - supported by GABA-A receptor agonist activity of [Tagara](/nighantu/herb/tagara/) and neuroprotective action of [Jatamansi](/nighantu/herb/jatamansi/) confirmed in pharmacological studies
 
 ## What do recent clinical trials show?
 
 - **Pilot trial of Himasagara Tailam in osteoarthritis management** (2018): Published in Journal of Ayurvedic Research, 65% of osteoarthritis patients reported significant knee pain reduction after 4 weeks of twice-daily massage with Himasagara Tailam.
-- **In vitro anti-inflammatory mechanism of [curcumin](/ayurveda-atlas/herb/curcumin/) and sandalwood compounds on synovial membranes** (2020): [Ginger](/ayurveda-atlas/herb/ginger/)/[turmeric](/ayurveda-atlas/herb/turmeric/)-derived compounds and sandalwood oil penetrate synovial membranes, blocking NF-kB pathways, corroborated by in vitro studies on [curcumin](/ayurveda-atlas/herb/curcumin/)'s anti-inflammatory mechanism.
-- **Neuroprotective evaluation of [Himasagara Thailam](/ayurveda-atlas/formulation/himasagara-thailam/) in burning sensation and Pitta disorders** (2021): Clinical observation study showed significant reduction in burning sensation (Daha), insomnia, and anxiety scores in patients with Pitta-aggravated Vata disorders after 21 days of Shiro Abhyanga with [Himasagara Thailam](/ayurveda-atlas/formulation/himasagara-thailam/).
+- **In vitro anti-inflammatory mechanism of [curcumin](/nighantu/herb/curcumin/) and sandalwood compounds on synovial membranes** (2020): [Ginger](/nighantu/herb/ginger/)/[turmeric](/nighantu/herb/turmeric/)-derived compounds and sandalwood oil penetrate synovial membranes, blocking NF-kB pathways, corroborated by in vitro studies on [curcumin](/nighantu/herb/curcumin/)'s anti-inflammatory mechanism.
+- **Neuroprotective evaluation of [Himasagara Thailam](/nighantu/formulation/himasagara-thailam/) in burning sensation and Pitta disorders** (2021): Clinical observation study showed significant reduction in burning sensation (Daha), insomnia, and anxiety scores in patients with Pitta-aggravated Vata disorders after 21 days of Shiro Abhyanga with [Himasagara Thailam](/nighantu/formulation/himasagara-thailam/).
 
 ## Recent safety updates
 
@@ -85,7 +85,7 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa). The name 'Himasagara' means 'cool as
 
 **Standard Dosage:** External application: sufficient quantity on affected area, 2-3 times daily, as per Sahasrayogam
 
-**Bioavailability:** Topical application provides direct dermal absorption of [camphor](/ayurveda-atlas/herb/camphor/) and cooling volatiles. [Camphor](/ayurveda-atlas/herb/camphor/) activates TRPM8 cold receptors producing cooling sensation. Alpha-santalol from sandalwood has anti-inflammatory activity via transdermal delivery. [Coconut oil](/ayurveda-atlas/glossary/concepts-a-m/#coconut-oil) MCTs enhance skin penetration.
+**Bioavailability:** Topical application provides direct dermal absorption of [camphor](/nighantu/herb/camphor/) and cooling volatiles. [Camphor](/nighantu/herb/camphor/) activates TRPM8 cold receptors producing cooling sensation. Alpha-santalol from sandalwood has anti-inflammatory activity via transdermal delivery. [Coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil) MCTs enhance skin penetration.
 
 **Optimal Timing:** As needed for headache, burning sensation, skin irritation. Apply 2-3 times daily or at bedtime.
 
@@ -93,7 +93,7 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa). The name 'Himasagara' means 'cool as
 
 **Storage:** Store in tightly sealed amber glass bottles. Camphor is volatile — airtight sealing essential. Temperature not exceeding 25°C. Protect from heat and light.
 
-**Marker Compounds:** Camphor, Alpha-santalol, Beta-santalol, [Vetiverol](/ayurveda-atlas/glossary/compounds-t-z/#vetiverol) (from Usheera), Lauric acid (from [coconut oil](/ayurveda-atlas/glossary/concepts-a-m/#coconut-oil))
+**Marker Compounds:** Camphor, Alpha-santalol, Beta-santalol, [Vetiverol](/nighantu/glossary/compounds-t-z/#vetiverol) (from Usheera), Lauric acid (from [coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil))
 
 **Quality Parameters:** Acid value, peroxide value, saponification value, refractive index, specific gravity, camphor content by GC, alpha-santalol content, total volatile oils, rancidity test negative, HPTLC fingerprint, microbial limits, heavy metals
 
@@ -102,6 +102,6 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa). The name 'Himasagara' means 'cool as
 ### Synergistic Combinations
 
 - Chandanadi Thailam
-- [Eladi Thailam](/ayurveda-atlas/formulation/eladi-thailam/)
+- [Eladi Thailam](/nighantu/formulation/eladi-thailam/)
 - Sandalwood paste (for topical use)
 - Usheera Kashayam (internal)

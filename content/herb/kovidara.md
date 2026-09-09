@@ -28,24 +28,24 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kovidara/meta-analysis.m
 
 ## Key Phytochemical Constituents
 
-- Astragalin ([kaempferol](/ayurveda-atlas/reference/kaempferol/)-3-glucoside)
-- [Isoquercetin](/ayurveda-atlas/glossary/compounds-g-l/#isoquercetin)
-- [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/)
+- Astragalin ([kaempferol](/nighantu/reference/kaempferol/)-3-glucoside)
+- [Isoquercetin](/nighantu/glossary/compounds-g-l/#isoquercetin)
+- [Quercetin](/nighantu/reference/quercetinquercetin/)
 - Pelargonidin-3-glucoside
 - Pelargonidin-3-triglucoside
 - Butein galactoside
-- Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
-- [Stigmasterol](/ayurveda-atlas/reference/stigmasterol/)
-- [Terpenoids](/ayurveda-atlas/glossary/compounds-t-z/#terpenoids) ([lupeol](/ayurveda-atlas/reference/lupeol/))
-- Cardiac [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides)
-- [Saponins](/ayurveda-atlas/reference/saponins/) (oleanane type)
+- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- [Stigmasterol](/nighantu/reference/stigmasterol/)
+- [Terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids) ([lupeol](/nighantu/reference/lupeol/))
+- Cardiac [glycosides](/nighantu/glossary/compounds-g-l/#glycosides)
+- [Saponins](/nighantu/reference/saponins/) (oleanane type)
 
 ## How does it work?
 
-- Anti-inflammatory action via flavonoid-mediated ([quercetin](/ayurveda-atlas/reference/quercetinquercetin/), astragalin) inhibition of COX-2 and suppression of prostaglandin synthesis
-- [Antidiabetic](/ayurveda-atlas/reference/antidiabetic/) activity through polyphenol-mediated enhancement of insulin sensitivity and alpha-glucosidase inhibition
-- [Analgesic](/ayurveda-atlas/reference/analgesic/) effect via peripheral and central pain pathway modulation, with maximum effect at 120 min post-administration
-- [Hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) and nephroprotective effects via [antioxidant](/ayurveda-atlas/reference/antioxidant/)-mediated restoration of SOD, catalase and reduction of lipid peroxidation
+- Anti-inflammatory action via flavonoid-mediated ([quercetin](/nighantu/reference/quercetinquercetin/), astragalin) inhibition of COX-2 and suppression of prostaglandin synthesis
+- [Antidiabetic](/nighantu/reference/antidiabetic/) activity through polyphenol-mediated enhancement of insulin sensitivity and alpha-glucosidase inhibition
+- [Analgesic](/nighantu/reference/analgesic/) effect via peripheral and central pain pathway modulation, with maximum effect at 120 min post-administration
+- [Hepatoprotective](/nighantu/reference/hepatoprotective/) and nephroprotective effects via [antioxidant](/nighantu/reference/antioxidant/)-mediated restoration of SOD, catalase and reduction of lipid peroxidation
 
 ## Which traditional uses are supported by research?
 
@@ -56,9 +56,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kovidara/meta-analysis.m
 
 ## What do recent clinical trials show?
 
-- **Genus Bauhinia (Fabaceae): A review from phytochemistry to pharmacology - Exploring traditional uses and toxicological insights across Asia** (2024): Comprehensive genus-level review confirmed [anticancer](/ayurveda-atlas/reference/anticancer/), antioxidant, [hypolipidemic](/ayurveda-atlas/glossary/pharmacology/#hypolipidemic), [antimicrobial](/ayurveda-atlas/reference/antimicrobial/), anti-inflammatory, antidiabetic, nephroprotective and antimalarial activities across Bauhinia species.
-- **Bauhinia purpurea: An Updated Pharmacological Profile** (2023): Documented cardiac activity, wound healing, antidiabetic, antiulcer, hepatoprotective, anti-diarrheal, [antipyretic](/ayurveda-atlas/reference/antipyretic/) and cytoprotective effects; ethanol extract showed significant analgesic activity at 100 mg/kg.
-- **Phytochemistry and pharmacological activities of five species of Bauhinia genus: A review** (2024): Identified [flavonoids](/ayurveda-atlas/reference/flavonoids/) (astragalin, [quercetin](/ayurveda-atlas/reference/quercetinquercetin/)), [steroids](/ayurveda-atlas/glossary/compounds-q-t/#steroids) and terpenoids as major bioactive classes across Bauhinia species with significant anti-inflammatory and antidiabetic potential.
+- **Genus Bauhinia (Fabaceae): A review from phytochemistry to pharmacology - Exploring traditional uses and toxicological insights across Asia** (2024): Comprehensive genus-level review confirmed [anticancer](/nighantu/reference/anticancer/), antioxidant, [hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic), [antimicrobial](/nighantu/reference/antimicrobial/), anti-inflammatory, antidiabetic, nephroprotective and antimalarial activities across Bauhinia species.
+- **Bauhinia purpurea: An Updated Pharmacological Profile** (2023): Documented cardiac activity, wound healing, antidiabetic, antiulcer, hepatoprotective, anti-diarrheal, [antipyretic](/nighantu/reference/antipyretic/) and cytoprotective effects; ethanol extract showed significant analgesic activity at 100 mg/kg.
+- **Phytochemistry and pharmacological activities of five species of Bauhinia genus: A review** (2024): Identified [flavonoids](/nighantu/reference/flavonoids/) (astragalin, [quercetin](/nighantu/reference/quercetinquercetin/)), [steroids](/nighantu/glossary/compounds-q-t/#steroids) and terpenoids as major bioactive classes across Bauhinia species with significant anti-inflammatory and antidiabetic potential.
 
 ## Recent safety updates
 
@@ -86,11 +86,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kovidara/meta-analysis.m
 
 **Standard Dosage:** 3-6 g bark powder twice daily; 50-100 mL decoction; 500 mg capsule twice daily
 
-**Bioavailability:** Similar pharmacological profile to [Kanchanar](/ayurveda-atlas/herb/kanchanar/) (both Bauhinia species). Flavonoids (kaempferol, [quercetin](/ayurveda-atlas/reference/quercetinquercetin/)) have moderate bioavailability (~20-25%). Tannin-protein interactions may reduce absorption if taken with protein-rich meals. [Guggulu](/ayurveda-atlas/formulation/guggulu/) combination (as in Kanchanar Guggulu analog) enhances bioavailability. Phytosome formulation of flavonoid fraction improves absorption 2-3 fold.
+**Bioavailability:** Similar pharmacological profile to [Kanchanar](/nighantu/herb/kanchanar/) (both Bauhinia species). Flavonoids (kaempferol, [quercetin](/nighantu/reference/quercetinquercetin/)) have moderate bioavailability (~20-25%). Tannin-protein interactions may reduce absorption if taken with protein-rich meals. [Guggulu](/nighantu/formulation/guggulu/) combination (as in Kanchanar Guggulu analog) enhances bioavailability. Phytosome formulation of flavonoid fraction improves absorption 2-3 fold.
 
 **Optimal Timing:** Before meals for thyroid and lymphatic conditions; after meals for general wellness and GI applications
 
-**Standardized Extract:** Standardized to minimum 8% total [tannins](/ayurveda-atlas/reference/tannins/) and 2% total flavonoids (as quercetin equivalents) by HPLC
+**Standardized Extract:** Standardized to minimum 8% total [tannins](/nighantu/reference/tannins/) and 2% total flavonoids (as quercetin equivalents) by HPLC
 
 **Shelf Life:** 24 months for bark powder; 18 months for capsules; 48 hours for fresh decoction (refrigerated)
 
@@ -109,5 +109,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kovidara/meta-analysis.m
 
 - Kanchanar (complementary Bauhinia species) for additive thyroid/lymphatic effects
 - Guggulu for thyroid and lipid management
-- [Varuna](/ayurveda-atlas/herb/varuna/) for urinary calculi
-- [Triphala](/ayurveda-atlas/herb/triphala/) for detoxification synergy
+- [Varuna](/nighantu/herb/varuna/) for urinary calculi
+- [Triphala](/nighantu/herb/triphala/) for detoxification synergy

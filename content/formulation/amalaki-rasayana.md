@@ -23,13 +23,13 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Rasayanas-Rejuvenatives/Amalaki-R
 
 | Language | Name |
 |----------|------|
-| English | [Amalaki Rasayana](/ayurveda-atlas/formulation/amalaki-rasayana/) |
+| English | [Amalaki Rasayana](/nighantu/formulation/amalaki-rasayana/) |
 
 ## Key Ingredients
 
 - Amalaki (Phyllanthus emblica / Indian gooseberry) - primary ingredient
-- [Ghrita](/ayurveda-atlas/herb/ghrita/) (cow ghee)
-- [Madhu](/ayurveda-atlas/herb/madhu/) (honey)
+- [Ghrita](/nighantu/herb/ghrita/) (cow ghee)
+- [Madhu](/nighantu/herb/madhu/) (honey)
 - Ratio: Amalaki powder : Ghee : Honey = 2:1:4
 
 ## Where is it described in the classical texts?
@@ -39,23 +39,23 @@ Charaka Samhita Chikitsa Sthana (Rasayana Adhyaya) - described as Vayasthapana R
 ## How does it work?
 
 - High vitamin C content enhances neutrophil function and collagen synthesis, supporting immune defense and tissue repair
-- Tannin complexes slow reactive oxygen species (ROS) formation, providing potent [antioxidant](/ayurveda-atlas/reference/antioxidant/) cellular protection
-- Flavonoid [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) influence cellular pathways related to inflammation, apoptosis, and cell proliferation
+- Tannin complexes slow reactive oxygen species (ROS) formation, providing potent [antioxidant](/nighantu/reference/antioxidant/) cellular protection
+- Flavonoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) influence cellular pathways related to inflammation, apoptosis, and cell proliferation
 - Telomerase activation prevents erosion of telomeres in aged individuals, potentially slowing cellular aging
 - DNA strand break repair maintained stably through enhanced nucleotide excision and base excision repair mechanisms
 
 ## Which traditional uses are supported by research?
 
 - Vayasthapana (anti-aging/rejuvenation): telomerase activation and telomere length maintenance validated in human clinical study
-- Hridya ([cardioprotective](/ayurveda-atlas/reference/cardioprotective/)): enhanced cardiac mitochondrial function and contractile performance validated in hypertrophy model
-- Rasayana (comprehensive rejuvenation): 2024 comprehensive review validates antioxidant, [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/), and anti-aging mechanisms
+- Hridya ([cardioprotective](/nighantu/reference/cardioprotective/)): enhanced cardiac mitochondrial function and contractile performance validated in hypertrophy model
+- Rasayana (comprehensive rejuvenation): 2024 comprehensive review validates antioxidant, [immunomodulatory](/nighantu/reference/immunomodulatory/), and anti-aging mechanisms
 - DNA repair and cellular protection: clinical study confirms maintained DNA strand break repair in aged individuals
 
 ## What do recent clinical trials show?
 
-- **Influence of [Amalaki Rasayana](/ayurveda-atlas/formulation/amalaki-rasayana/) on telomerase activity and telomere length in human blood mononuclear cells** (2017): 45-day administration in healthy aged volunteers (45-60 years) showed increased telomerase activity that facilitated maintenance of telomere length, potentially promoting healthy aging
-- **Pharmacological insights and therapeutic potential of [Amalaki Rasayana](/ayurveda-atlas/formulation/amalaki-rasayana/): A comprehensive review** (2024): Comprehensive review validates antioxidant, anti-aging, cardioprotective, [antihypertensive](/ayurveda-atlas/glossary/pharmacology/#antihypertensive), [anticancer](/ayurveda-atlas/reference/anticancer/), [antidiabetic](/ayurveda-atlas/reference/antidiabetic/), and immunomodulatory effects of [Amalaki Rasayana](/ayurveda-atlas/formulation/amalaki-rasayana/)
-- **[Amalaki rasayana](/ayurveda-atlas/formulation/amalaki-rasayana/) enhances cardiac mitochondrial and contractile functions and improves cardiac function in rats with hypertrophy** (2017): [Amalaki Rasayana](/ayurveda-atlas/formulation/amalaki-rasayana/) enhanced cardiac mitochondrial function and contractile performance, improving cardiac function in rats with cardiac hypertrophy
+- **Influence of [Amalaki Rasayana](/nighantu/formulation/amalaki-rasayana/) on telomerase activity and telomere length in human blood mononuclear cells** (2017): 45-day administration in healthy aged volunteers (45-60 years) showed increased telomerase activity that facilitated maintenance of telomere length, potentially promoting healthy aging
+- **Pharmacological insights and therapeutic potential of [Amalaki Rasayana](/nighantu/formulation/amalaki-rasayana/): A comprehensive review** (2024): Comprehensive review validates antioxidant, anti-aging, cardioprotective, [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive), [anticancer](/nighantu/reference/anticancer/), [antidiabetic](/nighantu/reference/antidiabetic/), and immunomodulatory effects of [Amalaki Rasayana](/nighantu/formulation/amalaki-rasayana/)
+- **[Amalaki rasayana](/nighantu/formulation/amalaki-rasayana/) enhances cardiac mitochondrial and contractile functions and improves cardiac function in rats with hypertrophy** (2017): [Amalaki Rasayana](/nighantu/formulation/amalaki-rasayana/) enhanced cardiac mitochondrial function and contractile performance, improving cardiac function in rats with cardiac hypertrophy
 
 ## Recent safety updates
 
@@ -88,13 +88,13 @@ Charaka Samhita Chikitsa Sthana (Rasayana Adhyaya) - described as Vayasthapana R
 
 **Marker Compounds:** Ascorbic acid, Gallic acid, Ellagic acid, Emblicanin A, Emblicanin B
 
-**Quality Parameters:** Ascorbic acid content (NLT 0.5% in churna), gallic acid by HPLC, total [tannins](/ayurveda-atlas/reference/tannins/), total ash, acid-insoluble ash, loss on drying (<10%), particle size for churna, pH for avaleha, microbial limits, heavy metals, aflatoxins
+**Quality Parameters:** Ascorbic acid content (NLT 0.5% in churna), gallic acid by HPLC, total [tannins](/nighantu/reference/tannins/), total ash, acid-insoluble ash, loss on drying (<10%), particle size for churna, pH for avaleha, microbial limits, heavy metals, aflatoxins
 
 **Vehicle (Anupana):** Warm milk or honey
 
 ### Synergistic Combinations
 
-- [Brahma Rasayana](/ayurveda-atlas/formulation/brahma-rasayana/)
-- [Chyawanprash](/ayurveda-atlas/formulation/chyawanprash/)
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) Satva
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) Churna
+- [Brahma Rasayana](/nighantu/formulation/brahma-rasayana/)
+- [Chyawanprash](/nighantu/formulation/chyawanprash/)
+- [Guduchi](/nighantu/herb/guduchi/) Satva
+- [Shatavari](/nighantu/herb/shatavari/) Churna

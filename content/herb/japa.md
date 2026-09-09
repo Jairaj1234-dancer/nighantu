@@ -49,17 +49,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Japa/meta-analysis.md"
 
 **Standard Dosage:** 3-6g dried flower powder twice daily; 500mg extract; 10-20ml fresh flower juice; external oil as needed
 
-**Bioavailability:** Hibiscus rosa-sinensis flowers contain [anthocyanins](/ayurveda-atlas/glossary/compounds-1-a/#anthocyanins) (cyanidin-3-sophoroside, cyanidin-3-glucoside), [quercetin](/ayurveda-atlas/reference/quercetinquercetin/), and [vitamins](/ayurveda-atlas/glossary/compounds-t-z/#vitamins). Anthocyanins have low bioavailability (~1-2%) but are active in the GI tract. [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/) bioavailability ~5-10%. Hibiscus acid and hydroxycitric acid are well absorbed. [Mucilage](/ayurveda-atlas/glossary/compounds-l-o/#mucilage) fraction acts locally. Lipid-based delivery or phospholipid complexation may enhance flavonoid absorption.
+**Bioavailability:** Hibiscus rosa-sinensis flowers contain [anthocyanins](/nighantu/glossary/compounds-1-a/#anthocyanins) (cyanidin-3-sophoroside, cyanidin-3-glucoside), [quercetin](/nighantu/reference/quercetinquercetin/), and [vitamins](/nighantu/glossary/compounds-t-z/#vitamins). Anthocyanins have low bioavailability (~1-2%) but are active in the GI tract. [Quercetin](/nighantu/reference/quercetinquercetin/) bioavailability ~5-10%. Hibiscus acid and hydroxycitric acid are well absorbed. [Mucilage](/nighantu/glossary/compounds-l-o/#mucilage) fraction acts locally. Lipid-based delivery or phospholipid complexation may enhance flavonoid absorption.
 
 **Optimal Timing:** With meals for internal use; hair oil application at night before washing
 
-**Standardized Extract:** Flower extract standardized to 5% anthocyanins (as cyanidin-3-glucoside); aqueous extract standardized to 10% total [polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols)
+**Standardized Extract:** Flower extract standardized to 5% anthocyanins (as cyanidin-3-glucoside); aqueous extract standardized to 10% total [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols)
 
 **Shelf Life:** 1 year (flower powder); 2 years (standardized extract capsule); 2 years (hair oil); 6 months (fresh juice)
 
 **Storage:** Cool, dry place below 25°C, protected from light (critical for anthocyanin stability). Amber containers. Nitrogen-flushed packaging for extract powder.
 
-**Marker Compounds:** Cyanidin-3-sophoroside, Cyanidin-3-glucoside, Quercetin, [Kaempferol](/ayurveda-atlas/reference/kaempferol/), Hibiscus acid, Vitamin C (ascorbic acid), Mucilage [polysaccharides](/ayurveda-atlas/glossary/compounds-o-q/#polysaccharides)
+**Marker Compounds:** Cyanidin-3-sophoroside, Cyanidin-3-glucoside, Quercetin, [Kaempferol](/nighantu/reference/kaempferol/), Hibiscus acid, Vitamin C (ascorbic acid), Mucilage [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides)
 
 ### Extraction Methods
 
@@ -67,11 +67,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Japa/meta-analysis.md"
 - Hydroalcoholic extraction (50:50 for flavonoid-rich extract)
 - Acidified ethanol for anthocyanin preservation
 - Cold pressing of fresh flowers for Swarasa
-- Oil infusion in coconut/[sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) for Taila
+- Oil infusion in coconut/[sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) for Taila
 
 ### Synergistic Combinations
 
 - With Bhringaraj for hair growth (external)
-- With Amalaki for [antioxidant](/ayurveda-atlas/reference/antioxidant/) action
-- With [Shatavari](/ayurveda-atlas/herb/shatavari/) for female reproductive health
-- With [Brahmi](/ayurveda-atlas/herb/brahmi/) oil for hair vitality (external)
+- With Amalaki for [antioxidant](/nighantu/reference/antioxidant/) action
+- With [Shatavari](/nighantu/herb/shatavari/) for female reproductive health
+- With [Brahmi](/nighantu/herb/brahmi/) oil for hair vitality (external)

@@ -28,20 +28,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tila/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Sesamin](/ayurveda-atlas/glossary/compounds-q-t/#sesamin) (lignan)
-- [Sesamolin](/ayurveda-atlas/glossary/compounds-q-t/#sesamolin) (lignan)
-- [Sesamol](/ayurveda-atlas/glossary/compounds-q-t/#sesamol)
+- [Sesamin](/nighantu/glossary/compounds-q-t/#sesamin) (lignan)
+- [Sesamolin](/nighantu/glossary/compounds-q-t/#sesamolin) (lignan)
+- [Sesamol](/nighantu/glossary/compounds-q-t/#sesamol)
 - Sesaminol
 - Alpha-tocopherol and gamma-tocopherol
-- [Phytosterols](/ayurveda-atlas/glossary/compounds-o-q/#phytosterols) (beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), [campesterol](/ayurveda-atlas/glossary/compounds-a-c/#campesterol), [stigmasterol](/ayurveda-atlas/reference/stigmasterol/))
+- [Phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols) (beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [campesterol](/nighantu/glossary/compounds-a-c/#campesterol), [stigmasterol](/nighantu/reference/stigmasterol/))
 - Oleic acid and linoleic acid
 - Phenolic acids
-- [Flavonoids](/ayurveda-atlas/reference/flavonoids/)
-- [Phospholipids](/ayurveda-atlas/glossary/compounds-o-q/#phospholipids)
+- [Flavonoids](/nighantu/reference/flavonoids/)
+- [Phospholipids](/nighantu/glossary/compounds-o-q/#phospholipids)
 
 ## How does it work?
 
-- [Hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) mechanism through NRF2 pathway activation by sesamol, upregulating phase II detoxification [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes) and [antioxidant](/ayurveda-atlas/reference/antioxidant/) defense systems
+- [Hepatoprotective](/nighantu/reference/hepatoprotective/) mechanism through NRF2 pathway activation by sesamol, upregulating phase II detoxification [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) and [antioxidant](/nighantu/reference/antioxidant/) defense systems
 - Cholesterol-lowering action via sesamin-mediated inhibition of intestinal cholesterol absorption and enhancement of hepatic LDL receptor expression
 - Anti-inflammatory mechanism through sesamin and sesamol inhibition of NF-kB signaling, reducing COX-2 expression and prostaglandin synthesis
 
@@ -49,13 +49,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tila/meta-analysis.md"
 
 - Hepatoprotective activity validated through multiple in vivo studies and NRF2 pathway research, confirming traditional use in liver disorders
 - Anti-inflammatory and wound healing properties confirmed through modern pharmacological studies, supporting traditional topical oil applications (Abhyanga)
-- Cholesterol-lowering and [cardioprotective](/ayurveda-atlas/reference/cardioprotective/) effects validated through clinical and preclinical studies, confirming Ayurvedic use for heart health and as a [Rasayana](/ayurveda-atlas/reference/rasayana/)
+- Cholesterol-lowering and [cardioprotective](/nighantu/reference/cardioprotective/) effects validated through clinical and preclinical studies, confirming Ayurvedic use for heart health and as a [Rasayana](/nighantu/reference/rasayana/)
 
 ## What do recent clinical trials show?
 
 - **Efficacy and classification of Sesamum indicum linn seeds with Rosa damascena mill oil in uncomplicated pelvic inflammatory disease using machine learning** (2024): Clinical study demonstrated therapeutic efficacy and safety of sesame seeds with Rosa damascena oil in uncomplicated pelvic inflammatory disease, with machine learning analysis for patient classification.
 - **Sesamol derivatives as NRF2 activators for protection against drug-induced liver injury** (2024): Computational study identified novel sesamol derivatives as potent NRF2 activators with potential hepatoprotective applications against drug-induced liver injury.
-- **Sesame (Sesamum indicum L.): A Comprehensive Review of Nutritional Value, Phytochemical Composition, Health Benefits** (2023): Extensive review documenting sesamin and sesamolin as key bioactive [lignans](/ayurveda-atlas/glossary/compounds-g-l/#lignans) with proven antioxidant, antimutagenic, estrogenic, anti-inflammatory, [antimicrobial](/ayurveda-atlas/reference/antimicrobial/), and [hypolipidemic](/ayurveda-atlas/glossary/pharmacology/#hypolipidemic) properties.
+- **Sesame (Sesamum indicum L.): A Comprehensive Review of Nutritional Value, Phytochemical Composition, Health Benefits** (2023): Extensive review documenting sesamin and sesamolin as key bioactive [lignans](/nighantu/glossary/compounds-g-l/#lignans) with proven antioxidant, antimutagenic, estrogenic, anti-inflammatory, [antimicrobial](/nighantu/reference/antimicrobial/), and [hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic) properties.
 
 ## Recent safety updates
 
@@ -75,9 +75,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tila/meta-analysis.md"
 
 **Dosage Forms:** Taila (oil), Churna (powder), Capsule (oil-filled softgel), Tablet, Paste (Kalka), Modaka (sweetmeat)
 
-**Standard Dosage:** 5-10 mL [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) internally; 3-6 g seed powder twice daily; 5-15 mL oil for external application (Abhyanga)
+**Standard Dosage:** 5-10 mL [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) internally; 3-6 g seed powder twice daily; 5-15 mL oil for external application (Abhyanga)
 
-**Bioavailability:** Sesamin and sesamolin (key lignans) have moderate oral bioavailability (~35-45%) and are converted by gut microflora and hepatic CYP enzymes to enterolactone and enterodiol, which have prolonged half-lives. Co-administration with [piperine](/ayurveda-atlas/reference/piperine/) inhibits CYP3A4-mediated metabolism, increasing sesamin bioavailability by ~1.5 fold. The oil matrix itself serves as a natural bioavailability enhancer for lipophilic co-administered compounds.
+**Bioavailability:** Sesamin and sesamolin (key lignans) have moderate oral bioavailability (~35-45%) and are converted by gut microflora and hepatic CYP enzymes to enterolactone and enterodiol, which have prolonged half-lives. Co-administration with [piperine](/nighantu/reference/piperine/) inhibits CYP3A4-mediated metabolism, increasing sesamin bioavailability by ~1.5 fold. The oil matrix itself serves as a natural bioavailability enhancer for lipophilic co-administered compounds.
 
 **Optimal Timing:** Morning on empty stomach for internal oleation (Snehapana); before bath for Abhyanga; with meals for nutritional supplementation
 
@@ -99,7 +99,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tila/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Tila Taila](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) as base oil for Ayurvedic medicated oils (enhances herb absorption transdermally)
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) in sesame oil base - enhanced [adaptogenic](/ayurveda-atlas/reference/adaptogenic/) delivery
-- [Bala](/ayurveda-atlas/herb/bala/) (Sida cordifolia) in Tila Taila - Bala Taila for musculoskeletal conditions
+- [Tila Taila](/nighantu/glossary/concepts-m-y/#tila-taila) as base oil for Ayurvedic medicated oils (enhances herb absorption transdermally)
+- [Ashwagandha](/nighantu/herb/ashwagandha/) in sesame oil base - enhanced [adaptogenic](/nighantu/reference/adaptogenic/) delivery
+- [Bala](/nighantu/herb/bala/) (Sida cordifolia) in Tila Taila - Bala Taila for musculoskeletal conditions
 - Jaggery + Tila - traditional hematinic combination

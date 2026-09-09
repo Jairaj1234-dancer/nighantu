@@ -27,35 +27,35 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Yashtimadhu/meta-analysis.
 
 ## How does it work?
 
-- NF-kB pathway inhibition: [Glycyrrhizin](/ayurveda-atlas/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) blocks HMGB1-TLR4-NF-kB signaling, reducing pro-inflammatory cytokines (IL-6, TNF-alpha) in macrophages.
+- NF-kB pathway inhibition: [Glycyrrhizin](/nighantu/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) blocks HMGB1-TLR4-NF-kB signaling, reducing pro-inflammatory cytokines (IL-6, TNF-alpha) in macrophages.
 - NLRP3 inflammasome: Inhibits NLRP3 inflammasome initiation and activation, attenuating IL-18, IL-1beta, TNF-alpha, IL-6, and PGE2 levels.
 - MAPK pathway: Attenuates activation of JNK, p38, and ERK mitogen-activated protein kinases.
 - Multi-pathway anti-inflammatory: Modulates NF-kB, MAPK, COX/LOX, and JAK/STAT pathways simultaneously.
 - Neuroprotection: Restores mTORC1-AMPK1 axis in autophagic regulation, preventing mitochondrial oxidative stress and apoptosis in Parkinson's models.
 - Anti-ulcer: Prevents adhesion of Helicobacter pylori to gastric mucosa. Network of 29 phytochemicals acting on 157 target genes.
-- Antiviral: [Glycyrrhizin](/ayurveda-atlas/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) inhibits viral replication and entry through multiple mechanisms including interference with viral surface glycoproteins.
-- [Immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/): Modulates both innate and adaptive immune responses via regulation of cytokine networks.
+- Antiviral: [Glycyrrhizin](/nighantu/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) inhibits viral replication and entry through multiple mechanisms including interference with viral surface glycoproteins.
+- [Immunomodulatory](/nighantu/reference/immunomodulatory/): Modulates both innate and adaptive immune responses via regulation of cytokine networks.
 - Pseudoaldosteronism mechanism: Glycyrrhizic acid inhibits 11-beta-hydroxysteroid dehydrogenase type 2, preventing cortisol-to-cortisone conversion, leading to mineralocorticoid excess.
-- Key active constituents: [Glycyrrhizin](/ayurveda-atlas/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) (glycyrrhizic acid, ~10% dry weight), [glabridin](/ayurveda-atlas/glossary/compounds-d-g/#glabridin), [liquiritigenin](/ayurveda-atlas/glossary/compounds-l-o/#liquiritigenin), [isoliquiritigenin](/ayurveda-atlas/glossary/compounds-g-l/#isoliquiritigenin), licochalcone A, and 18-beta-glycyrrhetinic acid.
+- Key active constituents: [Glycyrrhizin](/nighantu/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) (glycyrrhizic acid, ~10% dry weight), [glabridin](/nighantu/glossary/compounds-d-g/#glabridin), [liquiritigenin](/nighantu/glossary/compounds-l-o/#liquiritigenin), [isoliquiritigenin](/nighantu/glossary/compounds-g-l/#isoliquiritigenin), licochalcone A, and 18-beta-glycyrrhetinic acid.
 
 ## What do recent clinical trials show?
 
 - **Efficacy of Glycyrrhiza glabra on peptic ulcer disease: A systematic review and meta-analysis** (2025): Meta-analysis of 9 studies (618 participants, searched through August 2024) confirmed licorice is effective for gastric ulcers. Combination therapy with clarithromycin improved H. pylori eradication to 83.3% vs 62.5% in control group.
 - **Pharmacological mechanisms of Glycyrrhiza glabra in peptic ulcer: a systems biology and experimental approach** (2025): Network pharmacology analysis identified 29 phytochemicals and 157 common target genes involved in anti-ulcer mechanisms. Confirmed multi-target therapeutic approach for peptic ulcer management.
-- **[Neuroprotective](/ayurveda-atlas/reference/neuroprotective/) Effects of Glycyrrhiza glabra Total Extract and Isolated Compounds (Parkinson's model)** (2024): First report of neuroprotective activities of novel compounds isolated from licorice species in an in vitro Parkinson's disease model. Active [triterpenes](/ayurveda-atlas/glossary/compounds-t-z/#triterpenes) and [flavonoids](/ayurveda-atlas/reference/flavonoids/) inhibited cytotoxic pathways in neural tissues.
+- **[Neuroprotective](/nighantu/reference/neuroprotective/) Effects of Glycyrrhiza glabra Total Extract and Isolated Compounds (Parkinson's model)** (2024): First report of neuroprotective activities of novel compounds isolated from licorice species in an in vitro Parkinson's disease model. Active [triterpenes](/nighantu/glossary/compounds-t-z/#triterpenes) and [flavonoids](/nighantu/reference/flavonoids/) inhibited cytotoxic pathways in neural tissues.
 - **Metabolomics analysis highlights Yashtimadhu-mediated neuroprotection in rotenone-induced Parkinson's model via mTORC1-AMPK1 axis** (2022): Yashtimadhu confers neuroprotection by restoring the mTORC1-AMPK1 axis in autophagic regulation, preventing mitochondrial oxidative stress and apoptosis in a Parkinson's disease cellular model.
 - **A comprehensive review of Glycyrrhiza glabra in rheumatoid arthritis management** (2025): Comprehensive review established that licorice modulates NF-kB, MAPK, COX/LOX, and JAK/STAT pathways, reducing synovial hyperplasia, protecting cartilage, and restoring immune balance in rheumatoid arthritis.
-- **[Glycyrrhizin](/ayurveda-atlas/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) mitigates acute lung injury by inhibiting NLRP3 inflammasome** (2022): [Glycyrrhizin](/ayurveda-atlas/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) attenuates inflammation and inhibits NLRP3 inflammasome initiation and NF-kB signalling pathway activation, alleviating acute lung injury both in vitro and in vivo.
-- **Lipid-based Ayurvedic formulations of Yashtimadhu: Pharmaceutical standardization and shelf-life estimation** (2023): Standardization study of Yashtimadhu [Ghrita](/ayurveda-atlas/herb/ghrita/) and Yashtimadhu Taila providing pharmaceutical quality parameters and shelf-life data for traditional licorice formulations.
+- **[Glycyrrhizin](/nighantu/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) mitigates acute lung injury by inhibiting NLRP3 inflammasome** (2022): [Glycyrrhizin](/nighantu/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) attenuates inflammation and inhibits NLRP3 inflammasome initiation and NF-kB signalling pathway activation, alleviating acute lung injury both in vitro and in vivo.
+- **Lipid-based Ayurvedic formulations of Yashtimadhu: Pharmaceutical standardization and shelf-life estimation** (2023): Standardization study of Yashtimadhu [Ghrita](/nighantu/herb/ghrita/) and Yashtimadhu Taila providing pharmaceutical quality parameters and shelf-life data for traditional licorice formulations.
 
 ## Recent safety updates
 
 - CRITICAL: Chronic use or large doses (>30g/day for several weeks) of licorice can cause pseudoaldosteronism syndrome: hypertension, hypokalemia, sodium/water retention, suppressed renin and aldosterone.
-- [Glycyrrhizin](/ayurveda-atlas/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) threshold for mineralocorticoid side effects: 0.7-1.4g [glycyrrhizin](/ayurveda-atlas/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) (equivalent to 10-14g crude herb) in normal subjects.
+- [Glycyrrhizin](/nighantu/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) threshold for mineralocorticoid side effects: 0.7-1.4g [glycyrrhizin](/nighantu/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) (equivalent to 10-14g crude herb) in normal subjects.
 - Contraindicated in congestive heart failure, hypertension, renal disease, and hypokalemia.
-- Drug interaction: [Potassium](/ayurveda-atlas/glossary/compounds-o-q/#potassium) depletion increases risk of cardiotoxicity with cardiac [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) (digitalis).
+- Drug interaction: [Potassium](/nighantu/glossary/compounds-o-q/#potassium) depletion increases risk of cardiotoxicity with cardiac [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) (digitalis).
 - Drug interaction: May potentiate effects of corticosteroids and mineralocorticoids.
-- Drug interaction: May reduce efficacy of [antihypertensive](/ayurveda-atlas/glossary/pharmacology/#antihypertensive) medications by causing sodium/water retention.
+- Drug interaction: May reduce efficacy of [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive) medications by causing sodium/water retention.
 - Drug interaction: May interact with diuretics, increasing risk of hypokalemia.
 - Drug interaction: May interact with anticoagulants (warfarin) -- altered drug metabolism reported.
 - NCCIH (US NIH) warns that licorice root supplements can cause serious side effects when consumed in large amounts or for extended periods.
@@ -73,7 +73,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Yashtimadhu/meta-analysis.
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Kwatha (decoction), Capsule, Tablet, Avaleha, Taila (medicated oil), [Ghrita](/ayurveda-atlas/herb/ghrita/) (medicated ghee), Lozenge/pastille, Syrup, DGL (deglycyrrhizinated licorice) chewable tablet
+**Dosage Forms:** Churna (powder), Kwatha (decoction), Capsule, Tablet, Avaleha, Taila (medicated oil), [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Lozenge/pastille, Syrup, DGL (deglycyrrhizinated licorice) chewable tablet
 
 **Standard Dosage:** 1-3 g powder twice daily; 50-100 mL decoction; 250-500 mg standardized extract capsule twice daily; DGL: 380-760 mg chewed before meals; NOT to exceed 6 weeks continuous use at full dose
 
@@ -87,7 +87,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Yashtimadhu/meta-analysis.
 
 **Storage:** Airtight containers at 15-25 deg C. Root sticks very stable if kept dry. Powder protected from moisture (moderately hygroscopic). DGL products in standard pharmaceutical packaging.
 
-**Marker Compounds:** Glycyrrhizin (glycyrrhizic acid), 18-beta-Glycyrrhetinic acid, Liquiritigenin, Isoliquiritigenin, Glabridin, Glabrol, [Liquiritin](/ayurveda-atlas/glossary/compounds-l-o/#liquiritin), [Formononetin](/ayurveda-atlas/glossary/compounds-d-g/#formononetin), Hispaglabridin A
+**Marker Compounds:** Glycyrrhizin (glycyrrhizic acid), 18-beta-Glycyrrhetinic acid, Liquiritigenin, Isoliquiritigenin, Glabridin, Glabrol, [Liquiritin](/nighantu/glossary/compounds-l-o/#liquiritin), [Formononetin](/nighantu/glossary/compounds-d-g/#formononetin), Hispaglabridin A
 
 ### Extraction Methods
 
@@ -100,9 +100,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Yashtimadhu/meta-analysis.
 
 ### Synergistic Combinations
 
-- [Vasa](/ayurveda-atlas/herb/vasa/) (Adhatoda vasica) - respiratory combination ([expectorant](/ayurveda-atlas/reference/expectorant/) + demulcent)
+- [Vasa](/nighantu/herb/vasa/) (Adhatoda vasica) - respiratory combination ([expectorant](/nighantu/reference/expectorant/) + demulcent)
 - Amalaki - GI mucosal protection synergy
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) - [adaptogenic](/ayurveda-atlas/reference/adaptogenic/) stress-relief combination
-- [Tulsi](/ayurveda-atlas/herb/tulsi/) - respiratory immune support
-- [Pippali](/ayurveda-atlas/herb/pippali/) - bioenhancer for Yashtimadhu flavonoids
+- [Ashwagandha](/nighantu/herb/ashwagandha/) - [adaptogenic](/nighantu/reference/adaptogenic/) stress-relief combination
+- [Tulsi](/nighantu/herb/tulsi/) - respiratory immune support
+- [Pippali](/nighantu/herb/pippali/) - bioenhancer for Yashtimadhu flavonoids
 - Milk as vehicle - cooling and Pitta-pacifying combination

@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Triphala-Herbs/meta-analysis.md
 
 | Language | Name |
 |----------|------|
-| English | [Triphala](/ayurveda-atlas/herb/triphala/) Herbs |
+| English | [Triphala](/nighantu/herb/triphala/) Herbs |
 
 ## What is it made of?
 
@@ -36,15 +36,15 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Triphala-Herbs/meta-analysis.md
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Individual fruit powders ([Haritaki](/ayurveda-atlas/herb/haritaki/), [Bibhitaki](/ayurveda-atlas/herb/bibhitaki/), Amalaki churnas), Capsule (single herb), Tablet (single herb), Svarasa (Amalaki juice), Avaleha ([Chyawanprash](/ayurveda-atlas/formulation/chyawanprash/) from Amalaki)
+**Dosage Forms:** Individual fruit powders ([Haritaki](/nighantu/herb/haritaki/), [Bibhitaki](/nighantu/herb/bibhitaki/), Amalaki churnas), Capsule (single herb), Tablet (single herb), Svarasa (Amalaki juice), Avaleha ([Chyawanprash](/nighantu/formulation/chyawanprash/) from Amalaki)
 
-**Standard Dosage:** Haritaki: 3-6 g; Bibhitaki: 3-6 g; Amalaki: 3-6 g individually, or as combined in [Triphala](/ayurveda-atlas/herb/triphala/) 1:1:1 ratio
+**Standard Dosage:** Haritaki: 3-6 g; Bibhitaki: 3-6 g; Amalaki: 3-6 g individually, or as combined in [Triphala](/nighantu/herb/triphala/) 1:1:1 ratio
 
-**Bioavailability:** Haritaki: Chebulagic acid and chebulinic acid undergo partial hydrolysis to ellagic acid in gut (bioavailability ~8-12%); gallic acid well absorbed (~40%). Bibhitaki: beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol) moderate bioavailability (~15-25%); belleric acid low absorption improved with lipid vehicle. Amalaki: Ascorbic acid high bioavailability (~70-80%) but rapid renal clearance; emblicanin A/B moderate absorption (~20-30%). Individual herbs allow dose customization based on Dosha predominance.
+**Bioavailability:** Haritaki: Chebulagic acid and chebulinic acid undergo partial hydrolysis to ellagic acid in gut (bioavailability ~8-12%); gallic acid well absorbed (~40%). Bibhitaki: beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol) moderate bioavailability (~15-25%); belleric acid low absorption improved with lipid vehicle. Amalaki: Ascorbic acid high bioavailability (~70-80%) but rapid renal clearance; emblicanin A/B moderate absorption (~20-30%). Individual herbs allow dose customization based on Dosha predominance.
 
 **Optimal Timing:** Haritaki: at bedtime; Bibhitaki: morning with honey; Amalaki: any time, ideally morning on empty stomach
 
-**Standardized Extract:** Haritaki: >20% total [tannins](/ayurveda-atlas/reference/tannins/), >3% chebulagic acid; Bibhitaki: >15% total tannins, >0.5% belleric acid; Amalaki: >30% total tannins, Vitamin C >2%, >1.5% gallic acid (all by HPLC/UV methods)
+**Standardized Extract:** Haritaki: >20% total [tannins](/nighantu/reference/tannins/), >3% chebulagic acid; Bibhitaki: >15% total tannins, >0.5% belleric acid; Amalaki: >30% total tannins, Vitamin C >2%, >1.5% gallic acid (all by HPLC/UV methods)
 
 **Shelf Life:** Individual powders: 12-18 months; Amalaki juice (spray-dried): 18 months; Capsules: 24 months; Chyawanprash: 24-36 months
 
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Triphala-Herbs/meta-analysis.md
 
 ### Synergistic Combinations
 
-- Haritaki + [Saindhava Lavana](/ayurveda-atlas/herb/saindhava-lavana/) - Vata-pacifying combination
+- Haritaki + [Saindhava Lavana](/nighantu/herb/saindhava-lavana/) - Vata-pacifying combination
 - Bibhitaki + Honey - Kapha-pacifying combination
-- Amalaki + [Ghrita](/ayurveda-atlas/herb/ghrita/) - Pitta-pacifying [Rasayana](/ayurveda-atlas/reference/rasayana/)
+- Amalaki + [Ghrita](/nighantu/herb/ghrita/) - Pitta-pacifying [Rasayana](/nighantu/reference/rasayana/)
 - Individual herbs serve as components of hundreds of classical formulations

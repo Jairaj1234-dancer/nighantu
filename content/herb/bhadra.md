@@ -32,30 +32,30 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bhadra/meta-analysis.md"
 - Methylaervine
 - Aervoside
 - Ervolanine
-- [Kaempferol](/ayurveda-atlas/reference/kaempferol/)
-- [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/)
-- [Isorhamnetin](/ayurveda-atlas/glossary/compounds-g-l/#isorhamnetin)
-- [Lupeol](/ayurveda-atlas/reference/lupeol/)
+- [Kaempferol](/nighantu/reference/kaempferol/)
+- [Quercetin](/nighantu/reference/quercetinquercetin/)
+- [Isorhamnetin](/nighantu/glossary/compounds-g-l/#isorhamnetin)
+- [Lupeol](/nighantu/reference/lupeol/)
 - Methyl grevillate
 - Beta-sitosteryl acetate
 
 ## How does it work?
 
-- Canthin-6-one [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) exhibit anti-urolithiatic activity by inhibiting calcium oxalate crystal nucleation and aggregation in renal tubules, preventing kidney stone formation
-- Kaempferol and [quercetin](/ayurveda-atlas/reference/quercetinquercetin/) [flavonoids](/ayurveda-atlas/reference/flavonoids/) provide nephroprotective effects through [antioxidant](/ayurveda-atlas/reference/antioxidant/)-mediated reduction of oxidative stress and inhibition of NF-kB-driven inflammatory pathways in renal tissue
-- Beta-carboline alkaloids demonstrate [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) activity by intercalating with bacterial DNA and inhibiting topoisomerase II, disrupting cell division
+- Canthin-6-one [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) exhibit anti-urolithiatic activity by inhibiting calcium oxalate crystal nucleation and aggregation in renal tubules, preventing kidney stone formation
+- Kaempferol and [quercetin](/nighantu/reference/quercetinquercetin/) [flavonoids](/nighantu/reference/flavonoids/) provide nephroprotective effects through [antioxidant](/nighantu/reference/antioxidant/)-mediated reduction of oxidative stress and inhibition of NF-kB-driven inflammatory pathways in renal tissue
+- Beta-carboline alkaloids demonstrate [antimicrobial](/nighantu/reference/antimicrobial/) activity by intercalating with bacterial DNA and inhibiting topoisomerase II, disrupting cell division
 
 ## Which traditional uses are supported by research?
 
-- Anti-urolithiasis (kidney stone dissolution) activity validated through in vivo and in vitro studies confirming traditional Ayurvedic use of [Pashanabheda](/ayurveda-atlas/herb/pashanabheda/) for Ashmari (urinary calculi)
-- [Diuretic](/ayurveda-atlas/reference/diuretic/) activity confirmed through pharmacological studies supporting traditional use for strangury and urinary disorders in Ayurveda
+- Anti-urolithiasis (kidney stone dissolution) activity validated through in vivo and in vitro studies confirming traditional Ayurvedic use of [Pashanabheda](/nighantu/herb/pashanabheda/) for Ashmari (urinary calculi)
+- [Diuretic](/nighantu/reference/diuretic/) activity confirmed through pharmacological studies supporting traditional use for strangury and urinary disorders in Ayurveda
 - Anti-asthmatic and bronchodilatory effects validated in preclinical models consistent with traditional use for respiratory conditions
 
 ## What do recent clinical trials show?
 
-- **Aerva lanata: A Comprehensive Profile in the Pharmaceutical and Food Industries** (2023): Documented extensive phytochemical profile including canthin-6-one and beta-carboline alkaloids, flavonoids, phenolic acids, [steroids](/ayurveda-atlas/glossary/compounds-q-t/#steroids), and [terpenoids](/ayurveda-atlas/glossary/compounds-t-z/#terpenoids) with diverse pharmacological activities.
-- **Pharmacological Properties of the Plant Aerva lanata - A Comprehensive Review** (2022): Compiled evidence for anti-asthmatic, nephroprotective, antidiuretic, [antidiabetic](/ayurveda-atlas/reference/antidiabetic/), antimicrobial, cytotoxic, anti-HIV, [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/), anti-inflammatory, and antioxidant activities.
-- **Aerva lanata: A review on phytochemistry and pharmacological aspects** (2012): Documented diuretic, anti-inflammatory, hypoglycemic, antiparasitic, antimicrobial, [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/), anti-urolithiasis, and antifertility properties with identification of key alkaloids and flavonoids.
+- **Aerva lanata: A Comprehensive Profile in the Pharmaceutical and Food Industries** (2023): Documented extensive phytochemical profile including canthin-6-one and beta-carboline alkaloids, flavonoids, phenolic acids, [steroids](/nighantu/glossary/compounds-q-t/#steroids), and [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids) with diverse pharmacological activities.
+- **Pharmacological Properties of the Plant Aerva lanata - A Comprehensive Review** (2022): Compiled evidence for anti-asthmatic, nephroprotective, antidiuretic, [antidiabetic](/nighantu/reference/antidiabetic/), antimicrobial, cytotoxic, anti-HIV, [immunomodulatory](/nighantu/reference/immunomodulatory/), anti-inflammatory, and antioxidant activities.
+- **Aerva lanata: A review on phytochemistry and pharmacological aspects** (2012): Documented diuretic, anti-inflammatory, hypoglycemic, antiparasitic, antimicrobial, [hepatoprotective](/nighantu/reference/hepatoprotective/), anti-urolithiasis, and antifertility properties with identification of key alkaloids and flavonoids.
 
 ## Recent safety updates
 
@@ -87,7 +87,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bhadra/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction; 500mg extract capsule twice daily
 
-**Bioavailability:** Limited modern pharmacokinetic data available. Traditional texts recommend administration with warm water or honey to enhance absorption. Aromatic volatile constituents show rapid absorption but short half-life. Decoction form provides better bioavailability for water-soluble [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) than dry powder.
+**Bioavailability:** Limited modern pharmacokinetic data available. Traditional texts recommend administration with warm water or honey to enhance absorption. Aromatic volatile constituents show rapid absorption but short half-life. Decoction form provides better bioavailability for water-soluble [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) than dry powder.
 
 **Optimal Timing:** Before meals with warm water for digestive benefits; after meals for general health support
 
@@ -97,7 +97,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bhadra/meta-analysis.md"
 
 **Storage:** Cool, dry place away from light and moisture. Airtight packaging recommended.
 
-**Marker Compounds:** Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), [Betulin](/ayurveda-atlas/glossary/compounds-a-c/#betulin), Gallic acid, Kaempferol, Flavonoid glycosides
+**Marker Compounds:** Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Betulin](/nighantu/glossary/compounds-a-c/#betulin), Gallic acid, Kaempferol, Flavonoid glycosides
 
 ### Extraction Methods
 
@@ -109,6 +109,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bhadra/meta-analysis.md"
 ### Synergistic Combinations
 
 - With Musta (Cyperus rotundus) for digestive formulations
-- With [Haridra](/ayurveda-atlas/herb/haridra/) for anti-inflammatory effects
-- With [Vacha](/ayurveda-atlas/herb/vacha/) for cognitive enhancement
-- With [Pippali](/ayurveda-atlas/herb/pippali/) for respiratory support
+- With [Haridra](/nighantu/herb/haridra/) for anti-inflammatory effects
+- With [Vacha](/nighantu/herb/vacha/) for cognitive enhancement
+- With [Pippali](/nighantu/herb/pippali/) for respiratory support

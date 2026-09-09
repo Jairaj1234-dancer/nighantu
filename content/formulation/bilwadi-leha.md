@@ -23,20 +23,20 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Bilwadi-Le
 
 | Language | Name |
 |----------|------|
-| English | [Bilwadi Leha](/ayurveda-atlas/formulation/bilwadi-leha/) |
+| English | [Bilwadi Leha](/nighantu/formulation/bilwadi-leha/) |
 
 ## Key Ingredients
 
 - Bilwa (Aegle marmelos / Bael)
-- [Guda](/ayurveda-atlas/glossary/concepts-a-m/#guda) (Jaggery - one year old)
+- [Guda](/nighantu/glossary/concepts-a-m/#guda) (Jaggery - one year old)
 - Musta (Cyperus rotundus / Nutgrass)
-- [Dhanyaka](/ayurveda-atlas/herb/dhanyaka/) (Coriandrum sativum / [Coriander](/ayurveda-atlas/herb/coriander/))
-- [Jeeraka](/ayurveda-atlas/herb/jeeraka/) (Cuminum cyminum / [Cumin](/ayurveda-atlas/herb/cumin/))
+- [Dhanyaka](/nighantu/herb/dhanyaka/) (Coriandrum sativum / [Coriander](/nighantu/herb/coriander/))
+- [Jeeraka](/nighantu/herb/jeeraka/) (Cuminum cyminum / [Cumin](/nighantu/herb/cumin/))
 - Ajaji (Carum carvi / Caraway)
 - Ela (Elettaria cardamomum / Cardamom)
 - Twak (Cinnamomum zeylanicum / Cinnamon)
-- [Nagakesara](/ayurveda-atlas/herb/nagakesara/) (Mesua ferrea / Indian ironwood)
-- [Trikatu](/ayurveda-atlas/herb/trikatu/) (Shunthi, Maricha, [Pippali](/ayurveda-atlas/herb/pippali/))
+- [Nagakesara](/nighantu/herb/nagakesara/) (Mesua ferrea / Indian ironwood)
+- [Trikatu](/nighantu/herb/trikatu/) (Shunthi, Maricha, [Pippali](/nighantu/herb/pippali/))
 
 ## Where is it described in the classical texts?
 
@@ -46,16 +46,16 @@ Bhaishajya Ratnavali; Sharangadhara Samhita; Kerala Ayurveda tradition (medieval
 
 - Bilwa (Aegle marmelos) provides potent anti-diarrheal action through tannin-mediated astringent effect on intestinal mucosa
 - Musta (Cyperus rotundus) provides Grahi (absorbent) and Deepana (digestive stimulant) properties, normalizing stool consistency
-- [Trikatu](/ayurveda-atlas/herb/trikatu/) stimulates Agni (digestive fire), correcting Mandagni (weak digestion) that underlies IBS pathogenesis in Ayurveda
-- Carminative spices ([cumin](/ayurveda-atlas/herb/cumin/), [coriander](/ayurveda-atlas/herb/coriander/), cardamom, caraway) reduce intestinal gas, bloating, and abdominal spasm
-- Jaggery base provides prebiotic support and mild [laxative](/ayurveda-atlas/reference/laxative/) action, balancing the astringent herbs for normalized bowel function
+- [Trikatu](/nighantu/herb/trikatu/) stimulates Agni (digestive fire), correcting Mandagni (weak digestion) that underlies IBS pathogenesis in Ayurveda
+- Carminative spices ([cumin](/nighantu/herb/cumin/), [coriander](/nighantu/herb/coriander/), cardamom, caraway) reduce intestinal gas, bloating, and abdominal spasm
+- Jaggery base provides prebiotic support and mild [laxative](/nighantu/reference/laxative/) action, balancing the astringent herbs for normalized bowel function
 
 ## Which traditional uses are supported by research?
 
 - Grahani (IBS): clinical trial validates 67-100% improvement across all IBS symptoms including pain, bloating, diarrhea, and mucus passage
-- Atisara (diarrhea): anti-diarrheal action of Bilwa validated pharmacologically through astringent and [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) mechanisms
+- Atisara (diarrhea): anti-diarrheal action of Bilwa validated pharmacologically through astringent and [antimicrobial](/nighantu/reference/antimicrobial/) mechanisms
 - Pravahika (dysentery): traditional use supported by antimicrobial and intestinal mucosal protective properties of Bael
-- Agnimandya (digestive weakness): [Trikatu](/ayurveda-atlas/herb/trikatu/) and carminative spices confirmed to enhance digestive enzyme activity and reduce flatulence
+- Agnimandya (digestive weakness): [Trikatu](/nighantu/herb/trikatu/) and carminative spices confirmed to enhance digestive enzyme activity and reduce flatulence
 
 ## What do recent clinical trials show?
 
@@ -84,7 +84,7 @@ Bhaishajya Ratnavali; Sharangadhara Samhita; Kerala Ayurveda tradition (medieval
 
 **Standard Dosage:** 6-12 g twice daily, as per AFI Part I
 
-**Bioavailability:** Avaleha base with sugar and ghee enhances absorption of [marmelosin](/ayurveda-atlas/glossary/compounds-l-o/#marmelosin) and other [coumarins](/ayurveda-atlas/glossary/compounds-c-d/#coumarins). Semi-solid matrix provides sustained-release properties. Honey (added when cool) provides enzymatic bioenhancement and preservative action.
+**Bioavailability:** Avaleha base with sugar and ghee enhances absorption of [marmelosin](/nighantu/glossary/compounds-l-o/#marmelosin) and other [coumarins](/nighantu/glossary/compounds-c-d/#coumarins). Semi-solid matrix provides sustained-release properties. Honey (added when cool) provides enzymatic bioenhancement and preservative action.
 
 **Optimal Timing:** After meals or between meals, twice daily, for chronic diarrhea and IBS-type conditions
 
@@ -92,7 +92,7 @@ Bhaishajya Ratnavali; Sharangadhara Samhita; Kerala Ayurveda tradition (medieval
 
 **Storage:** Store in wide-mouth glass or food-grade HDPE jars with airtight lids in a cool, dry place. Temperature not exceeding 25°C. Protect from moisture.
 
-**Marker Compounds:** Marmelosin, [Marmelide](/ayurveda-atlas/glossary/compounds-l-o/#marmelide), Aegelin, [Skimmianine](/ayurveda-atlas/glossary/compounds-q-t/#skimmianine), [Umbelliferone](/ayurveda-atlas/glossary/compounds-t-z/#umbelliferone)
+**Marker Compounds:** Marmelosin, [Marmelide](/nighantu/glossary/compounds-l-o/#marmelide), Aegelin, [Skimmianine](/nighantu/glossary/compounds-q-t/#skimmianine), [Umbelliferone](/nighantu/glossary/compounds-t-z/#umbelliferone)
 
 **Quality Parameters:** Total solids (minimum 65%), pH, moisture content (<25%), total sugar, total fat, ash value, marmelosin content from Bilwa by HPLC, microbial limits, heavy metals, HPTLC fingerprint, organoleptic evaluation
 
@@ -100,7 +100,7 @@ Bhaishajya Ratnavali; Sharangadhara Samhita; Kerala Ayurveda tradition (medieval
 
 ### Synergistic Combinations
 
-- [Kutajarishta](/ayurveda-atlas/formulation/kutajarishta/)
-- [Gangadhara Churna](/ayurveda-atlas/formulation/gangadhara-churna/)
+- [Kutajarishta](/nighantu/formulation/kutajarishta/)
+- [Gangadhara Churna](/nighantu/formulation/gangadhara-churna/)
 - Bilwa Churna
-- Dadimadi [Ghrita](/ayurveda-atlas/herb/ghrita/)|Dadimadi Ghrita
+- Dadimadi [Ghrita](/nighantu/herb/ghrita/)|Dadimadi Ghrita

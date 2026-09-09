@@ -23,25 +23,25 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Vasant-Kusumakar-R
 
 | Language | Name |
 |----------|------|
-| English | [Vasant Kusumakar Rasa](/ayurveda-atlas/herb/vasant-kusumakar-rasa/) |
+| English | [Vasant Kusumakar Rasa](/nighantu/herb/vasant-kusumakar-rasa/) |
 
 ## How does it work?
 
-- Pancreatic beta-cell regeneration and insulin secretion enhancement through [Swarna Bhasma](/ayurveda-atlas/herb/swarna-bhasma/)'s bioactive nanoparticles stimulating [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose) metabolism
-- [Antioxidant](/ayurveda-atlas/reference/antioxidant/) and anti-inflammatory action: reduces oxidative stress markers (MDA, ROS) and inflammatory cytokines (TNF-alpha, IL-6, NF-kB) in target tissues including heart, brain, and retina
-- [Neuroprotective](/ayurveda-atlas/reference/neuroprotective/) mechanism: modulates neurotransmitter levels ([serotonin](/ayurveda-atlas/glossary/compounds-q-t/#serotonin), dopamine, acetylcholine) and reduces neuroinflammation in diabetic encephalopathy
-- [Cardioprotective](/ayurveda-atlas/reference/cardioprotective/) action: improves hemodynamic parameters and reduces cardiac biomarkers (CK-MB, LDH, troponin-I) through reduction of myocardial oxidative damage
+- Pancreatic beta-cell regeneration and insulin secretion enhancement through [Swarna Bhasma](/nighantu/herb/swarna-bhasma/)'s bioactive nanoparticles stimulating [glucose](/nighantu/glossary/compounds-d-g/#glucose) metabolism
+- [Antioxidant](/nighantu/reference/antioxidant/) and anti-inflammatory action: reduces oxidative stress markers (MDA, ROS) and inflammatory cytokines (TNF-alpha, IL-6, NF-kB) in target tissues including heart, brain, and retina
+- [Neuroprotective](/nighantu/reference/neuroprotective/) mechanism: modulates neurotransmitter levels ([serotonin](/nighantu/glossary/compounds-q-t/#serotonin), dopamine, acetylcholine) and reduces neuroinflammation in diabetic encephalopathy
+- [Cardioprotective](/nighantu/reference/cardioprotective/) action: improves hemodynamic parameters and reduces cardiac biomarkers (CK-MB, LDH, troponin-I) through reduction of myocardial oxidative damage
 
 ## Which traditional uses are supported by research?
 
 - Anti-diabetic activity: Multiple preclinical studies (2020-2024) validate traditional use in Prameha (diabetes) showing dose-dependent blood glucose reduction, improved insulin sensitivity, and protection against diabetic complications including retinopathy, cardiomyopathy, and encephalopathy
-- Rejuvenative ([Rasayana](/ayurveda-atlas/reference/rasayana/)) action: Traditional use as a rejuvenative tonic partially validated by studies showing antioxidant properties and multi-organ protective effects in diabetic animal models
+- Rejuvenative ([Rasayana](/nighantu/reference/rasayana/)) action: Traditional use as a rejuvenative tonic partially validated by studies showing antioxidant properties and multi-organ protective effects in diabetic animal models
 
 ## What do recent clinical trials show?
 
-- **Cardioprotective Effects of [Vasant Kusumakar Rasa](/ayurveda-atlas/herb/vasant-kusumakar-rasa/) in Type 2 Diabetic Cardiomyopathy in Rats** (2024): VKR treatment significantly improved glycemic and lipid profiles, serum insulin, CK-MB, LDH, and cardiac troponin-I in diabetic rats, and improved hemodynamic parameters while reducing cardiac tissue inflammation.
-- **[Vasant Kusumakar Rasa](/ayurveda-atlas/herb/vasant-kusumakar-rasa/) Ameliorates Diabetic Encephalopathy by Reducing Oxidative Stress and Neuroinflammation** (2024): VKR at doses 28 mg/kg and 56 mg/kg administered intragastrically to diabetic rats for 16 weeks showed neuroprotective effects by reducing oxidative stress, neuroinflammation, and improving neurotransmitter levels in diabetic encephalopathy.
-- **[Antidiabetic](/ayurveda-atlas/reference/antidiabetic/) Activity of Vasant Kusumakar Ras in Streptozotocin and High Fat Diet Induced Type 2 Diabetes Mellitus in Sprague Dawley Rats** (2023): VKR treatment reduced blood glucose levels in a dose-dependent manner in a streptozotocin and high-fat-diet induced type 2 diabetes model, and also prevented diabetic retinopathy in earlier related studies.
+- **Cardioprotective Effects of [Vasant Kusumakar Rasa](/nighantu/herb/vasant-kusumakar-rasa/) in Type 2 Diabetic Cardiomyopathy in Rats** (2024): VKR treatment significantly improved glycemic and lipid profiles, serum insulin, CK-MB, LDH, and cardiac troponin-I in diabetic rats, and improved hemodynamic parameters while reducing cardiac tissue inflammation.
+- **[Vasant Kusumakar Rasa](/nighantu/herb/vasant-kusumakar-rasa/) Ameliorates Diabetic Encephalopathy by Reducing Oxidative Stress and Neuroinflammation** (2024): VKR at doses 28 mg/kg and 56 mg/kg administered intragastrically to diabetic rats for 16 weeks showed neuroprotective effects by reducing oxidative stress, neuroinflammation, and improving neurotransmitter levels in diabetic encephalopathy.
+- **[Antidiabetic](/nighantu/reference/antidiabetic/) Activity of Vasant Kusumakar Ras in Streptozotocin and High Fat Diet Induced Type 2 Diabetes Mellitus in Sprague Dawley Rats** (2023): VKR treatment reduced blood glucose levels in a dose-dependent manner in a streptozotocin and high-fat-diet induced type 2 diabetes model, and also prevented diabetic retinopathy in earlier related studies.
 
 ## Recent safety updates
 

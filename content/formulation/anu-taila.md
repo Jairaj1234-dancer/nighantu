@@ -23,33 +23,33 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Anu-Taila/m
 
 | Language | Name |
 |----------|------|
-| English | [Anu Taila](/ayurveda-atlas/formulation/anu-taila/) |
+| English | [Anu Taila](/nighantu/formulation/anu-taila/) |
 
 ## Key Ingredients
 
-- [Jivanti](/ayurveda-atlas/herb/jivanti/) (Leptadenia reticulata)
-- [Devadaru](/ayurveda-atlas/herb/devadaru/) (Cedrus deodara)
-- Shveta [Chandana](/ayurveda-atlas/herb/chandana/) (Santalum album / White Sandalwood)
-- [Daruharidra](/ayurveda-atlas/herb/daruharidra/) (Berberis aristata)
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) (Glycyrrhiza glabra / Licorice)
+- [Jivanti](/nighantu/herb/jivanti/) (Leptadenia reticulata)
+- [Devadaru](/nighantu/herb/devadaru/) (Cedrus deodara)
+- Shveta [Chandana](/nighantu/herb/chandana/) (Santalum album / White Sandalwood)
+- [Daruharidra](/nighantu/herb/daruharidra/) (Berberis aristata)
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (Glycyrrhiza glabra / Licorice)
 - Agaru (Aquilaria agallocha / Agarwood)
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) (Asparagus racemosus)
-- [Jatamansi](/ayurveda-atlas/herb/jatamansi/) (Nardostachys [jatamansi](/ayurveda-atlas/herb/jatamansi/))
-- [Nagarmotha](/ayurveda-atlas/herb/nagarmotha/) (Cyperus scariosus)
+- [Shatavari](/nighantu/herb/shatavari/) (Asparagus racemosus)
+- [Jatamansi](/nighantu/herb/jatamansi/) (Nardostachys [jatamansi](/nighantu/herb/jatamansi/))
+- [Nagarmotha](/nighantu/herb/nagarmotha/) (Cyperus scariosus)
 - Tejpatra (Cinnamomum tamala)
 - Shankhapushpi (Convolvulus pluricaulis)
-- [Sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) ([Tila](/ayurveda-atlas/herb/tila/) taila) base
+- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) ([Tila](/nighantu/herb/tila/) taila) base
 
 ## Where is it described in the classical texts?
 
-Ashtanga Hridayam (Sutrasthana Chapter 20 - Nasya Vidhi) by Vagbhata. Described as the foremost Nasya oil for Dinacharya (daily regimen). Contains 25+ herbs infused in [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila). Also referenced in Charaka Samhita.
+Ashtanga Hridayam (Sutrasthana Chapter 20 - Nasya Vidhi) by Vagbhata. Described as the foremost Nasya oil for Dinacharya (daily regimen). Contains 25+ herbs infused in [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila). Also referenced in Charaka Samhita.
 
 ## How does it work?
 
-- Transnasal drug delivery through olfactory neuroepithelium provides direct access to the CNS (nose-to-brain pathway), bypassing the blood-brain barrier for [neuroprotective](/ayurveda-atlas/reference/neuroprotective/) herb constituents
-- [Sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) base (Murchana-processed) increases saponification and refractive index while decreasing free fatty acids and peroxide levels, dramatically improving stability and bioavailability of low molecular weight fatty acids
-- Sandalwood's santalol and [Jatamansi](/ayurveda-atlas/herb/jatamansi/)'s nardostachin provide anti-inflammatory and calming effects on nasal mucosa, reducing allergic rhinitis symptoms
-- [Glycyrrhizin](/ayurveda-atlas/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) from Licorice provides mucosal protective and antiviral effects, creating a biological barrier in nasal epithelium against airborne pathogens
+- Transnasal drug delivery through olfactory neuroepithelium provides direct access to the CNS (nose-to-brain pathway), bypassing the blood-brain barrier for [neuroprotective](/nighantu/reference/neuroprotective/) herb constituents
+- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) base (Murchana-processed) increases saponification and refractive index while decreasing free fatty acids and peroxide levels, dramatically improving stability and bioavailability of low molecular weight fatty acids
+- Sandalwood's santalol and [Jatamansi](/nighantu/herb/jatamansi/)'s nardostachin provide anti-inflammatory and calming effects on nasal mucosa, reducing allergic rhinitis symptoms
+- [Glycyrrhizin](/nighantu/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) from Licorice provides mucosal protective and antiviral effects, creating a biological barrier in nasal epithelium against airborne pathogens
 
 ## Which traditional uses are supported by research?
 
@@ -59,8 +59,8 @@ Ashtanga Hridayam (Sutrasthana Chapter 20 - Nasya Vidhi) by Vagbhata. Described 
 
 ## What do recent clinical trials show?
 
-- **Nasal application of [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)-based [Anu Taila](/ayurveda-atlas/formulation/anu-taila/) as biological mask for respiratory health during COVID-19** (2023): Published in PMC/ScienceDirect, prophylactic nasal instillation of Anu oil in a hamster SARS-CoV2 challenge model exhibited reduced viral load in lungs, reduced body weight loss, and reduced pneumonitis with histopathological analysis revealing reduced lung pathology.
-- **Effectiveness of Nasya medicines in facial paralysis (Ardita): systematic review** (2016): Systematic review found that participants receiving Nasya intervention with [Anu Taila](/ayurveda-atlas/formulation/anu-taila/) had 78.2% to 90.9% relief from symptoms of facial pain, speech disorder, and earache, graded as marked improvement.
+- **Nasal application of [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)-based [Anu Taila](/nighantu/formulation/anu-taila/) as biological mask for respiratory health during COVID-19** (2023): Published in PMC/ScienceDirect, prophylactic nasal instillation of Anu oil in a hamster SARS-CoV2 challenge model exhibited reduced viral load in lungs, reduced body weight loss, and reduced pneumonitis with histopathological analysis revealing reduced lung pathology.
+- **Effectiveness of Nasya medicines in facial paralysis (Ardita): systematic review** (2016): Systematic review found that participants receiving Nasya intervention with [Anu Taila](/nighantu/formulation/anu-taila/) had 78.2% to 90.9% relief from symptoms of facial pain, speech disorder, and earache, graded as marked improvement.
 - **Clinical pilot study on nasal instillation of Anu Tailam for sinusitis** (2018): Anu Tailam nasal drops administered twice daily reduced nasal congestion scores by 40% over four weeks and improved nasal airflow scores after 14 days in a pilot clinical trial.
 
 ## Recent safety updates
@@ -91,15 +91,15 @@ Ashtanga Hridayam (Sutrasthana Chapter 20 - Nasya Vidhi) by Vagbhata. Described 
 
 **Storage:** Store in amber glass bottles with dropper caps in a cool, dry place. Protect from light. Temperature not exceeding 25°C. Nasal preparations require enhanced microbial controls.
 
-**Marker Compounds:** [Sesamin](/ayurveda-atlas/glossary/compounds-q-t/#sesamin), [Sesamolin](/ayurveda-atlas/glossary/compounds-q-t/#sesamolin), Jivantine, [Cinnamaldehyde](/ayurveda-atlas/glossary/compounds-c-d/#cinnamaldehyde) (from Tvak), Alpha-vetivone (from Usheera)
+**Marker Compounds:** [Sesamin](/nighantu/glossary/compounds-q-t/#sesamin), [Sesamolin](/nighantu/glossary/compounds-q-t/#sesamolin), Jivantine, [Cinnamaldehyde](/nighantu/glossary/compounds-c-d/#cinnamaldehyde) (from Tvak), Alpha-vetivone (from Usheera)
 
-**Quality Parameters:** Acid value (<5), peroxide value (<10), saponification value, [iodine](/ayurveda-atlas/glossary/compounds-g-l/#iodine) value, refractive index, specific gravity, viscosity, rancidity test (negative), sterility testing (for nasal use), particulate matter testing, HPTLC fingerprint, heavy metals, pesticide residues
+**Quality Parameters:** Acid value (<5), peroxide value (<10), saponification value, [iodine](/nighantu/glossary/compounds-g-l/#iodine) value, refractive index, specific gravity, viscosity, rancidity test (negative), sterility testing (for nasal use), particulate matter testing, HPTLC fingerprint, heavy metals, pesticide residues
 
 **Vehicle (Anupana):** Not applicable — administered nasally. Warm oil (slightly above body temperature) preferred for Nasya.
 
 ### Synergistic Combinations
 
-- [Shadbindu Taila](/ayurveda-atlas/formulation/shadbindu-taila/)
-- [Vacha](/ayurveda-atlas/herb/vacha/) Churna
-- [Brahmi](/ayurveda-atlas/herb/brahmi/) [Ghrita](/ayurveda-atlas/herb/ghrita/)
+- [Shadbindu Taila](/nighantu/formulation/shadbindu-taila/)
+- [Vacha](/nighantu/herb/vacha/) Churna
+- [Brahmi](/nighantu/herb/brahmi/) [Ghrita](/nighantu/herb/ghrita/)
 - Nasya Karma procedures

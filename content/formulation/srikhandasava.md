@@ -27,24 +27,24 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Srikhan
 
 ## Key Ingredients
 
-- Shrikhanda/[Chandana](/ayurveda-atlas/herb/chandana/) (Santalum album / White Sandalwood)
+- Shrikhanda/[Chandana](/nighantu/herb/chandana/) (Santalum album / White Sandalwood)
 - Raktachandana (Pterocarpus marsupium / Red Sandalwood)
-- Maricha (Piper nigrum / [Black pepper](/ayurveda-atlas/herb/black-pepper/))
-- [Jatamansi](/ayurveda-atlas/herb/jatamansi/) (Nardostachys [jatamansi](/ayurveda-atlas/herb/jatamansi/))
-- [Haridra](/ayurveda-atlas/herb/haridra/) (Curcuma longa / [Turmeric](/ayurveda-atlas/herb/turmeric/))
-- [Daruharidra](/ayurveda-atlas/herb/daruharidra/) (Berberis aristata)
+- Maricha (Piper nigrum / [Black pepper](/nighantu/herb/black-pepper/))
+- [Jatamansi](/nighantu/herb/jatamansi/) (Nardostachys [jatamansi](/nighantu/herb/jatamansi/))
+- [Haridra](/nighantu/herb/haridra/) (Curcuma longa / [Turmeric](/nighantu/herb/turmeric/))
+- [Daruharidra](/nighantu/herb/daruharidra/) (Berberis aristata)
 - Chitraka (Plumbago zeylanica)
 - Musta (Cyperus rotundus)
-- [Ushira](/ayurveda-atlas/herb/ushira/) (Vetiveria zizanioides)
+- [Ushira](/nighantu/herb/ushira/) (Vetiveria zizanioides)
 - Nagakeshara (Mesua ferrea)
-- [Patha](/ayurveda-atlas/herb/patha/) (Cyclea peltata)
+- [Patha](/nighantu/herb/patha/) (Cyclea peltata)
 - Amalaki (Emblica officinalis)
-- [Pippali](/ayurveda-atlas/herb/pippali/) (Piper longum)
-- [Chavya](/ayurveda-atlas/herb/chavya/) (Piper cubeba)
+- [Pippali](/nighantu/herb/pippali/) (Piper longum)
+- [Chavya](/nighantu/herb/chavya/) (Piper cubeba)
 - Elaichi (Elettaria cardamomum)
-- [Lodhra](/ayurveda-atlas/herb/lodhra/) (Symplocos racemosa)
-- [Dhataki](/ayurveda-atlas/herb/dhataki/) pushpa (Woodfordia fruticosa)
-- [Draksha](/ayurveda-atlas/herb/draksha/) (Vitis vinifera / Dry grapes)
+- [Lodhra](/nighantu/herb/lodhra/) (Symplocos racemosa)
+- [Dhataki](/nighantu/herb/dhataki/) pushpa (Woodfordia fruticosa)
+- [Draksha](/nighantu/herb/draksha/) (Vitis vinifera / Dry grapes)
 - Jaggery (fermentation medium)
 
 ## Where is it described in the classical texts?
@@ -53,23 +53,23 @@ Bhaishajya Ratnavali, Madatyaya Adhikara (chapter on intoxication/alcoholism). A
 
 ## How does it work?
 
-- Sheeta Virya (cooling potency) of [Chandana](/ayurveda-atlas/herb/chandana/) and [Ushira](/ayurveda-atlas/herb/ushira/) pacifies aggravated Pitta dosha and reduces burning sensations
-- Potent [antioxidant](/ayurveda-atlas/reference/antioxidant/) activity (santalols, [flavonoids](/ayurveda-atlas/reference/flavonoids/), phenolics) protects tissues from oxidative damage
-- [Antimicrobial](/ayurveda-atlas/reference/antimicrobial/) action against S. aureus and E. coli supports traditional dermatological and urinary tract applications
-- Nervine calming effects of [Jatamansi](/ayurveda-atlas/herb/jatamansi/) and [Ushira](/ayurveda-atlas/herb/ushira/) address insomnia, irritability, and mental agitation from Pitta excess
+- Sheeta Virya (cooling potency) of [Chandana](/nighantu/herb/chandana/) and [Ushira](/nighantu/herb/ushira/) pacifies aggravated Pitta dosha and reduces burning sensations
+- Potent [antioxidant](/nighantu/reference/antioxidant/) activity (santalols, [flavonoids](/nighantu/reference/flavonoids/), phenolics) protects tissues from oxidative damage
+- [Antimicrobial](/nighantu/reference/antimicrobial/) action against S. aureus and E. coli supports traditional dermatological and urinary tract applications
+- Nervine calming effects of [Jatamansi](/nighantu/herb/jatamansi/) and [Ushira](/nighantu/herb/ushira/) address insomnia, irritability, and mental agitation from Pitta excess
 
 ## Which traditional uses are supported by research?
 
 - Burning sensation (Daha) from Pitta aggravation - validated by cooling and anti-inflammatory studies
-- Adverse effects of alcohol/intoxication - traditional Madatyaya use supported by [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) and antioxidant mechanisms
-- Burning micturition and UTI - corroborated by antimicrobial activity and cooling [diuretic](/ayurveda-atlas/reference/diuretic/) properties
+- Adverse effects of alcohol/intoxication - traditional Madatyaya use supported by [hepatoprotective](/nighantu/reference/hepatoprotective/) and antioxidant mechanisms
+- Burning micturition and UTI - corroborated by antimicrobial activity and cooling [diuretic](/nighantu/reference/diuretic/) properties
 - Skin conditions with burning and inflammation - supported by antioxidant and antimicrobial profiling
 
 ## What do recent clinical trials show?
 
 - **Antioxidant Studies of One Ayurvedic Medicine, Srikhandasavam** (2024): PMC-published study confirmed high antioxidant activity through DPPH, FRAP, and ABTS assays, validating the formulation's Pitta-pacifying and tissue-protective properties.
 - **Pharmacognosy analysis of sandalwood-based Asavas** (2020): High levels of santalols, flavonoids, and phenolics confirmed with significant free-radical scavenging activity and antimicrobial effects against S. aureus and E. coli.
-- **Cooling and anti-inflammatory effects of [Chandana](/ayurveda-atlas/herb/chandana/)-based formulations** (2021): Sandalwood preparations demonstrated significant reduction in inflammatory markers and subjective burning sensation scores in Pitta-aggravated conditions.
+- **Cooling and anti-inflammatory effects of [Chandana](/nighantu/herb/chandana/)-based formulations** (2021): Sandalwood preparations demonstrated significant reduction in inflammatory markers and subjective burning sensation scores in Pitta-aggravated conditions.
 
 ## Recent safety updates
 
@@ -107,4 +107,4 @@ Bhaishajya Ratnavali, Madatyaya Adhikara (chapter on intoxication/alcoholism). A
 
 ### Synergistic Combinations
 
-- Key herbs: [Chandana](/ayurveda-atlas/herb/chandana/) (sandalwood), [Dhataki](/ayurveda-atlas/herb/dhataki/), [Guda](/ayurveda-atlas/glossary/concepts-a-m/#guda); fermentation creates unique metabolite profile with enhanced therapeutic activity
+- Key herbs: [Chandana](/nighantu/herb/chandana/) (sandalwood), [Dhataki](/nighantu/herb/dhataki/), [Guda](/nighantu/glossary/concepts-a-m/#guda); fermentation creates unique metabolite profile with enhanced therapeutic activity

@@ -9,7 +9,7 @@ export const OUT = 'content';
 // Public origin and path prefix. GitHub Pages project sites live under
 // /<repo>/; a custom subdomain later means setting ATLAS_BASE back to "/".
 export const SITE = process.env.ATLAS_SITE || 'https://jairaj1234-dancer.github.io';
-export const BASE = (process.env.ATLAS_BASE || '/ayurveda-atlas').replace(/\/$/, '');
+export const BASE = (process.env.ATLAS_BASE || '/nighantu').replace(/\/$/, '');
 export const withBase = (p) => `${BASE}${p.startsWith('/') ? p : `/${p}`}`;
 
 // Only these top-level vault sections may ever be published.

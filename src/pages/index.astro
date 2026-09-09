@@ -19,7 +19,7 @@ const jsonld = [
     '@id': `${abs('/')}#organization`,
     name: PUBLISHER,
     url: STORE,
-    description: 'Ayurvedic products and equipment, and publisher of the Ayurveda Atlas reference encyclopedia.',
+    description: 'Ayurvedic products and equipment, and publisher of the Nighantu reference encyclopedia.',
     sameAs: [STORE, abs('/')],
   },
   {
@@ -33,11 +33,17 @@ const jsonld = [
 ];
 ---
 <Base title={`${SITE_NAME} · a referenced encyclopedia of Ayurvedic materia medica`} description={description} canonical="/" jsonld={jsonld} wide>
-  <h1>Ayurveda Atlas</h1>
+  <h1>Age Ayurveda Nighantu</h1>
+  <p class="answer">
+    A <strong>nighantu</strong> is the classical Ayurvedic lexicon of medicinal substances. The
+    tradition has produced them for centuries, from the Dhanvantari Nighantu to the Bhavaprakasha
+    Nighantu and the Raja Nighantu, each cataloguing dravyas with their names, properties and
+    uses. This is a modern one: {total} referenced entries on herbs, classical formulations and
+    Ayurvedic instruments, free to read, quote and cite.
+  </p>
   <p class="lede">
-    A referenced encyclopedia of Ayurvedic herbs, classical formulations and instruments.
     Every entry opens with a plain definition, states its key facts in a table, cites the
-    classical texts it comes from, and reports published research with dates.
+    classical texts it comes from, and reports published research with dates attached.
   </p>
   <p>
     <span class="pill">{total} monographs</span>{' '}

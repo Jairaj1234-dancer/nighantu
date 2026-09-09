@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Dhanwantaram-Gutika
 
 | Language | Name |
 |----------|------|
-| English | [Dhanwantaram Gutika](/ayurveda-atlas/formulation/dhanwantaram-gutika/) |
+| English | [Dhanwantaram Gutika](/nighantu/formulation/dhanwantaram-gutika/) |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -57,7 +57,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Dhanwantaram-Gutika
 
 **Storage:** Store in airtight containers in a cool, dry place. Temperature not exceeding 30°C.
 
-**Marker Compounds:** Withanolide A (from [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/)), [Ephedrine](/ayurveda-atlas/glossary/compounds-d-g/#ephedrine) (from [Bala](/ayurveda-atlas/herb/bala/)), Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), [Lupeol](/ayurveda-atlas/reference/lupeol/) (from [Dashamoola](/ayurveda-atlas/herb/dashamoola/))
+**Marker Compounds:** Withanolide A (from [Ashwagandha](/nighantu/herb/ashwagandha/)), [Ephedrine](/nighantu/glossary/compounds-d-g/#ephedrine) (from [Bala](/nighantu/herb/bala/)), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Lupeol](/nighantu/reference/lupeol/) (from [Dashamoola](/nighantu/herb/dashamoola/))
 
 **Quality Parameters:** Weight variation (±5%), hardness, friability (<1%), disintegration time, moisture (<6%), HPTLC fingerprint for key markers, heavy metals, microbial limits. If Bhasma-containing: additional Bhasma quality tests
 
@@ -65,7 +65,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Dhanwantaram-Gutika
 
 ### Synergistic Combinations
 
-- [Dhanwantaram Thailam](/ayurveda-atlas/formulation/dhanwantaram-thailam/)
-- [Dhanwantaram Kashayam](/ayurveda-atlas/formulation/dhanwantaram-kashayam/)
-- [Balarishta](/ayurveda-atlas/formulation/balarishta/)
-- [Dashamularishta](/ayurveda-atlas/formulation/dashamularishta/)
+- [Dhanwantaram Thailam](/nighantu/formulation/dhanwantaram-thailam/)
+- [Dhanwantaram Kashayam](/nighantu/formulation/dhanwantaram-kashayam/)
+- [Balarishta](/nighantu/formulation/balarishta/)
+- [Dashamularishta](/nighantu/formulation/dashamularishta/)

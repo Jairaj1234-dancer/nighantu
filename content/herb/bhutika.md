@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Bhutika/meta-analysis.md"
 
 **Storage:** Airtight, light-protected containers. Essential oils in amber glass with minimal headspace. Temperature below 25°C. Volatile components dissipate in open storage.
 
-**Marker Compounds:** [Thymol](/ayurveda-atlas/glossary/compounds-t-z/#thymol), [Carvacrol](/ayurveda-atlas/glossary/compounds-a-c/#carvacrol), Para-cymene, Gamma-terpinene, Beta-pinene, Terpinen-4-ol
+**Marker Compounds:** [Thymol](/nighantu/glossary/compounds-t-z/#thymol), [Carvacrol](/nighantu/glossary/compounds-a-c/#carvacrol), Para-cymene, Gamma-terpinene, Beta-pinene, Terpinen-4-ol
 
 ### Extraction Methods
 
@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Bhutika/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Guggulu](/ayurveda-atlas/formulation/guggulu/) for Dhupana (fumigation) formulations
-- With [Neem](/ayurveda-atlas/herb/neem/) for [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) and insecticidal applications
-- With [Vacha](/ayurveda-atlas/herb/vacha/) for aromatic and cognitive formulations
-- With [Tulsi](/ayurveda-atlas/herb/tulsi/) for respiratory health
+- With [Guggulu](/nighantu/formulation/guggulu/) for Dhupana (fumigation) formulations
+- With [Neem](/nighantu/herb/neem/) for [antimicrobial](/nighantu/reference/antimicrobial/) and insecticidal applications
+- With [Vacha](/nighantu/herb/vacha/) for aromatic and cognitive formulations
+- With [Tulsi](/nighantu/herb/tulsi/) for respiratory health

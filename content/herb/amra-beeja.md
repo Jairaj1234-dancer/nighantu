@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Amra-Beeja/meta-analysis
 
 | Language | Name |
 |----------|------|
-| English | [Amra](/ayurveda-atlas/herb/amra/) Beeja |
+| English | [Amra](/nighantu/herb/amra/) Beeja |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -49,17 +49,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Amra-Beeja/meta-analysis
 
 **Standard Dosage:** 3-6g kernel powder twice daily; 500mg-1g extract capsule twice daily; 50ml decoction twice daily
 
-**Bioavailability:** Moderate to good bioavailability. The seed kernel (Mangifera indica kernel) is rich in [tannins](/ayurveda-atlas/reference/tannins/) (gallic acid, ellagic acid) and fats. Gallic acid has high oral bioavailability (~70%). Tannin-protein interactions in GI tract can reduce protein absorption but the tannins themselves are bioactive. Fat content of kernel aids absorption of lipophilic compounds. Defatted kernel extract shows better aqueous dissolution.
+**Bioavailability:** Moderate to good bioavailability. The seed kernel (Mangifera indica kernel) is rich in [tannins](/nighantu/reference/tannins/) (gallic acid, ellagic acid) and fats. Gallic acid has high oral bioavailability (~70%). Tannin-protein interactions in GI tract can reduce protein absorption but the tannins themselves are bioactive. Fat content of kernel aids absorption of lipophilic compounds. Defatted kernel extract shows better aqueous dissolution.
 
 **Optimal Timing:** Before meals with buttermilk or rice water for diarrhea; with honey for bleeding disorders
 
-**Standardized Extract:** Kernel extract (10:1) standardized to minimum 20% total [polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols) (as gallic acid equivalent). Defatted kernel powder with minimum 15% tannins.
+**Standardized Extract:** Kernel extract (10:1) standardized to minimum 20% total [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) (as gallic acid equivalent). Defatted kernel powder with minimum 15% tannins.
 
 **Shelf Life:** 18 months (kernel powder, defatted); 12 months (with fat, due to rancidity risk); 2 years (capsules/tablets); 6 months (decoction)
 
 **Storage:** Cool, dry place below 25°C. Defatted powder in airtight containers. Full-fat powder requires nitrogen-flushed packaging and refrigeration.
 
-**Marker Compounds:** Gallic acid, Ellagic acid, Gallotannins, [Pentagalloylglucose](/ayurveda-atlas/glossary/compounds-o-q/#pentagalloylglucose), Methyl gallate, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
+**Marker Compounds:** Gallic acid, Ellagic acid, Gallotannins, [Pentagalloylglucose](/nighantu/glossary/compounds-o-q/#pentagalloylglucose), Methyl gallate, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
 
 ### Extraction Methods
 
@@ -71,6 +71,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Amra-Beeja/meta-analysis
 ### Synergistic Combinations
 
 - With Kutaja for diarrhea and dysentery management
-- With [Lodhra](/ayurveda-atlas/herb/lodhra/) for menorrhagia (excessive menstrual bleeding)
-- With [Nagakesara](/ayurveda-atlas/herb/nagakesara/) for bleeding disorders
+- With [Lodhra](/nighantu/herb/lodhra/) for menorrhagia (excessive menstrual bleeding)
+- With [Nagakesara](/nighantu/herb/nagakesara/) for bleeding disorders
 - With Musta for GI disorders

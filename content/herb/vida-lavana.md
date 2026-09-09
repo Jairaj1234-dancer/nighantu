@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Vida-Lavana/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | [Vida Lavana](/ayurveda-atlas/herb/vida-lavana/) Black Salt |
+| English | [Vida Lavana](/nighantu/herb/vida-lavana/) Black Salt |
 
 ## Key Phytochemical Constituents
 
@@ -34,7 +34,7 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Vida-Lavana/meta-analysis.md"
 - Sodium bisulfite (NaHSO3)
 - Iron sulfide (FeS) - responsible for dark color
 - Iron (Fe2+/Fe3+ compounds)
-- Calcium, [magnesium](/ayurveda-atlas/glossary/compounds-l-o/#magnesium) (traces)
+- Calcium, [magnesium](/nighantu/glossary/compounds-l-o/#magnesium) (traces)
 - Hydrogen sulfide (volatile, gives characteristic odor)
 
 ## How does it work?
@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Vida-Lavana/meta-analysis.md"
 - Digestive stimulation: Sulfur compounds stimulate gastric acid and bile production; alkaline processing creates compounds that buffer excess acidity while enhancing overall digestive function
 - Anti-flatulent: Sodium sulfide and hydrogen sulfide at low concentrations modulate gut motility and reduce gas formation by inhibiting fermentative bacteria
 - Mild anti-anemic: Iron compounds (Fe2+ from iron sulfide) contribute bioavailable iron when consumed regularly in food
-- Srotoshodhana (channel clearing): Light and sharp qualities clear obstructed channels; sulfur compounds have mild mucolytic and [expectorant](/ayurveda-atlas/reference/expectorant/) action
+- Srotoshodhana (channel clearing): Light and sharp qualities clear obstructed channels; sulfur compounds have mild mucolytic and [expectorant](/nighantu/reference/expectorant/) action
 
 ## Which traditional uses are supported by research?
 
@@ -52,16 +52,16 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Vida-Lavana/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **The Untold Health Benefits of Herbal Black Salt (Kala Namak): A Scientific Overview** (2024): Herbal black salt contains lower sodium content than table salt and is rich in iron, calcium, and magnesium; sulfur compounds provide digestive stimulation and [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) activity. However, studies on black salt remain sparse compared to Himalayan pink salt.
-- **[Vida Lavana](/ayurveda-atlas/herb/vida-lavana/) (Manihari Namak) - The Natural Ayurvedic Salt for Balance** (2024): [Vida Lavana](/ayurveda-atlas/herb/vida-lavana/) is traditionally used as a digestive balancer; its unique preparation with alkaline processing creates therapeutic sulfur compounds not found in natural salts.
-- **Salt in Ayurveda: Comparative Analysis of Pancha Lavana** (2023): [Vida Lavana](/ayurveda-atlas/herb/vida-lavana/) demonstrated the highest anti-flatulent activity among the Pancha Lavana due to its sulfide content; iron compounds contribute to mild anti-anemic effects.
+- **The Untold Health Benefits of Herbal Black Salt (Kala Namak): A Scientific Overview** (2024): Herbal black salt contains lower sodium content than table salt and is rich in iron, calcium, and magnesium; sulfur compounds provide digestive stimulation and [antimicrobial](/nighantu/reference/antimicrobial/) activity. However, studies on black salt remain sparse compared to Himalayan pink salt.
+- **[Vida Lavana](/nighantu/herb/vida-lavana/) (Manihari Namak) - The Natural Ayurvedic Salt for Balance** (2024): [Vida Lavana](/nighantu/herb/vida-lavana/) is traditionally used as a digestive balancer; its unique preparation with alkaline processing creates therapeutic sulfur compounds not found in natural salts.
+- **Salt in Ayurveda: Comparative Analysis of Pancha Lavana** (2023): [Vida Lavana](/nighantu/herb/vida-lavana/) demonstrated the highest anti-flatulent activity among the Pancha Lavana due to its sulfide content; iron compounds contribute to mild anti-anemic effects.
 
 ## Recent safety updates
 
 - Daily consumption should not exceed 6 grams; excessive sulfide intake can cause gastrointestinal distress, nausea, and headache
 - Hydrogen sulfide is toxic at high concentrations; traditional preparation methods control sulfide levels to therapeutic range
 - Not recommended for individuals with sulfur sensitivity or sulfite allergies
-- Adulteration with synthetic food-grade additives (for color and smell) is common in commercial products; traditionally prepared [Vida Lavana](/ayurveda-atlas/herb/vida-lavana/) preferred
+- Adulteration with synthetic food-grade additives (for color and smell) is common in commercial products; traditionally prepared [Vida Lavana](/nighantu/herb/vida-lavana/) preferred
 
 ## What is it made of?
 

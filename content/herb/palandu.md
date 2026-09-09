@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Palandu/meta-analysis.md"
 
 **Standard Dosage:** 5-15 mL fresh onion juice daily; 500-1000 mg dried onion extract daily; 1-3 g dehydrated onion powder daily
 
-**Bioavailability:** [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/) from onion is among the most bioavailable dietary sources (~50-65% absorption) due to the presence of [quercetin](/ayurveda-atlas/reference/quercetinquercetin/) glucosides (especially quercetin-4'-glucoside) which are actively transported by SGLT1 in the small intestine. [Allicin](/ayurveda-atlas/glossary/compounds-1-a/#allicin) and thiosulfinates are rapidly absorbed but quickly metabolized to diallyl sulfides. S-allyl cysteine shows >90% oral bioavailability. Cooking reduces quercetin content by 20-30% but may improve digestibility.
+**Bioavailability:** [Quercetin](/nighantu/reference/quercetinquercetin/) from onion is among the most bioavailable dietary sources (~50-65% absorption) due to the presence of [quercetin](/nighantu/reference/quercetinquercetin/) glucosides (especially quercetin-4'-glucoside) which are actively transported by SGLT1 in the small intestine. [Allicin](/nighantu/glossary/compounds-1-a/#allicin) and thiosulfinates are rapidly absorbed but quickly metabolized to diallyl sulfides. S-allyl cysteine shows >90% oral bioavailability. Cooking reduces quercetin content by 20-30% but may improve digestibility.
 
 **Optimal Timing:** Fresh juice: morning on empty stomach or with meals. Supplements: with meals to reduce GI irritation and improve quercetin absorption with dietary fat. Ear drops: as directed by practitioner.
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Palandu/meta-analysis.md"
 
 **Storage:** Fresh onion juice: refrigerated 2-8 deg C, use immediately. Dried forms: below 25 deg C, RH <40%, moisture-barrier packaging. Protect from light (quercetin photodegradation). Enteric-coated products in blister packs to prevent moisture ingress.
 
-**Marker Compounds:** Quercetin, Quercetin-4'-glucoside, Quercetin-3,4'-diglucoside, Allicin, S-allyl cysteine, Diallyl disulfide, [Kaempferol](/ayurveda-atlas/reference/kaempferol/), [Isorhamnetin](/ayurveda-atlas/glossary/compounds-g-l/#isorhamnetin)
+**Marker Compounds:** Quercetin, Quercetin-4'-glucoside, Quercetin-3,4'-diglucoside, Allicin, S-allyl cysteine, Diallyl disulfide, [Kaempferol](/nighantu/reference/kaempferol/), [Isorhamnetin](/nighantu/glossary/compounds-g-l/#isorhamnetin)
 
 ### Extraction Methods
 
@@ -73,7 +73,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Palandu/meta-analysis.md"
 ### Synergistic Combinations
 
 - Rasona/Garlic (cardiovascular synergy - combined allium formulation)
-- [Haridra](/ayurveda-atlas/herb/haridra/) (anti-inflammatory combination)
-- [Methi](/ayurveda-atlas/herb/methi/)/Fenugreek (blood sugar management)
-- [Madhu](/ayurveda-atlas/herb/madhu/)/Honey (cough and cold remedy)
-- Adrak/[Ginger](/ayurveda-atlas/herb/ginger/) (digestive and anti-inflammatory)
+- [Haridra](/nighantu/herb/haridra/) (anti-inflammatory combination)
+- [Methi](/nighantu/herb/methi/)/Fenugreek (blood sugar management)
+- [Madhu](/nighantu/herb/madhu/)/Honey (cough and cold remedy)
+- Adrak/[Ginger](/nighantu/herb/ginger/) (digestive and anti-inflammatory)

@@ -38,19 +38,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Coriander_Herb/meta-analysis.
 
 **Dosage Forms:** Swarasa (fresh leaf juice), Churna (dried leaf powder), Lepa (paste), Kashayam (decoction), Culinary herb (fresh)
 
-**Standard Dosage:** 10-20ml fresh juice; 2-4g dried leaf powder; external paste as needed; liberally used as fresh culinary herb. Cilantro/[coriander](/ayurveda-atlas/herb/coriander/) leaves used as fresh herb primarily.
+**Standard Dosage:** 10-20ml fresh juice; 2-4g dried leaf powder; external paste as needed; liberally used as fresh culinary herb. Cilantro/[coriander](/nighantu/herb/coriander/) leaves used as fresh herb primarily.
 
-**Bioavailability:** Fresh leaf (cilantro) volatile composition differs from seed—contains [decanal](/ayurveda-atlas/glossary/compounds-c-d/#decanal), dodecanal, and 2-decenal instead of [linalool](/ayurveda-atlas/glossary/compounds-l-o/#linalool). Aldehydes show rapid oral and transmucosal absorption. [Chlorophyll](/ayurveda-atlas/glossary/compounds-c-d/#chlorophyll) and [carotenoids](/ayurveda-atlas/glossary/compounds-a-c/#carotenoids) in fresh leaves provide [antioxidant](/ayurveda-atlas/reference/antioxidant/) support but have limited systemic absorption. Fresh juice (Swarasa) provides maximum volatile bioavailability. Drying significantly reduces volatile aldehyde content—fresh herb is pharmacologically distinct from dried.
+**Bioavailability:** Fresh leaf (cilantro) volatile composition differs from seed—contains [decanal](/nighantu/glossary/compounds-c-d/#decanal), dodecanal, and 2-decenal instead of [linalool](/nighantu/glossary/compounds-l-o/#linalool). Aldehydes show rapid oral and transmucosal absorption. [Chlorophyll](/nighantu/glossary/compounds-c-d/#chlorophyll) and [carotenoids](/nighantu/glossary/compounds-a-c/#carotenoids) in fresh leaves provide [antioxidant](/nighantu/reference/antioxidant/) support but have limited systemic absorption. Fresh juice (Swarasa) provides maximum volatile bioavailability. Drying significantly reduces volatile aldehyde content—fresh herb is pharmacologically distinct from dried.
 
 **Optimal Timing:** Fresh juice early morning for detoxification; as culinary herb with meals; external paste as needed for skin conditions
 
-**Standardized Extract:** Freeze-dried leaf powder retaining NLT 0.1% volatile aldehydes; fresh juice concentrate (not practical for stable products). Dried leaf extract standardized to [quercetin](/ayurveda-atlas/reference/quercetinquercetin/) NLT 1%.
+**Standardized Extract:** Freeze-dried leaf powder retaining NLT 0.1% volatile aldehydes; fresh juice concentrate (not practical for stable products). Dried leaf extract standardized to [quercetin](/nighantu/reference/quercetinquercetin/) NLT 1%.
 
 **Shelf Life:** 5-7 days (fresh herb, refrigerated); 1 year (dried leaf powder); 6 months (freeze-dried); 2 days (fresh juice)
 
 **Storage:** Fresh herb refrigerated at 2-5°C with damp paper towel in sealed bag. Dried leaves in airtight, light-protected containers. Freeze-dried product in nitrogen-flushed, moisture-proof packaging.
 
-**Marker Compounds:** Decanal, Dodecanal, 2-Decenal, Linalool (trace in leaves), [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/), [Kaempferol](/ayurveda-atlas/reference/kaempferol/), [Apigenin](/ayurveda-atlas/glossary/compounds-1-a/#apigenin), Chlorogenic acid, Beta-carotene, [Lutein](/ayurveda-atlas/glossary/compounds-l-o/#lutein)
+**Marker Compounds:** Decanal, Dodecanal, 2-Decenal, Linalool (trace in leaves), [Quercetin](/nighantu/reference/quercetinquercetin/), [Kaempferol](/nighantu/reference/kaempferol/), [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin), Chlorogenic acid, Beta-carotene, [Lutein](/nighantu/glossary/compounds-l-o/#lutein)
 
 ### Extraction Methods
 
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Coriander_Herb/meta-analysis.
 
 ### Synergistic Combinations
 
-- With Mint ([Pudina](/ayurveda-atlas/herb/pudina/)) for digestive and cooling formulations
-- With [Neem](/ayurveda-atlas/herb/neem/) for detoxification and skin health
+- With Mint ([Pudina](/nighantu/herb/pudina/)) for digestive and cooling formulations
+- With [Neem](/nighantu/herb/neem/) for detoxification and skin health
 - With Amalaki for Pitta-pacifying combinations
-- With [Haridra](/ayurveda-atlas/herb/haridra/) for anti-inflammatory leaf preparations
+- With [Haridra](/nighantu/herb/haridra/) for anti-inflammatory leaf preparations

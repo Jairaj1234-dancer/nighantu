@@ -38,7 +38,7 @@ export const GET: APIRoute = ({ props }) => {
     '---',
     '',
     ...(d.sources?.length ? ['## Sources', '', ...d.sources.map((s: string) => `- ${s}`), ''] : []),
-    'Published by Age Ayurveda in the Ayurveda Atlas. Educational reference only, not medical advice.',
+    'Published by Age Ayurveda in the Nighantu. Educational reference only, not medical advice.',
     'Incorporates material from the Amidha Ayurveda Herb Database under CC BY 4.0.',
   ].join('\n');
 

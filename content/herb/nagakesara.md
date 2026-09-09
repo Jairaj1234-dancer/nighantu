@@ -49,9 +49,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Nagakesara/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g stamen powder per day; 250-500 mg standardized extract twice daily; 30-50 mL decoction twice daily; topical as directed
 
-**Bioavailability:** [Xanthones](/ayurveda-atlas/glossary/compounds-t-z/#xanthones) (mesua ferrin) show moderate oral bioavailability (~25-35%). [Coumarins](/ayurveda-atlas/glossary/compounds-c-d/#coumarins) are well absorbed in the upper GI tract. Mesuol has good lipophilicity favoring absorption. Fixed oil from seeds enhances absorption of co-administered lipophilic compounds. First-pass hepatic metabolism is moderate for xanthone compounds.
+**Bioavailability:** [Xanthones](/nighantu/glossary/compounds-t-z/#xanthones) (mesua ferrin) show moderate oral bioavailability (~25-35%). [Coumarins](/nighantu/glossary/compounds-c-d/#coumarins) are well absorbed in the upper GI tract. Mesuol has good lipophilicity favoring absorption. Fixed oil from seeds enhances absorption of co-administered lipophilic compounds. First-pass hepatic metabolism is moderate for xanthone compounds.
 
-**Optimal Timing:** Between meals for [hemostatic](/ayurveda-atlas/glossary/pharmacology/#hemostatic) and Pitta-pacifying effects; morning for skin health; after meals for digestive action; topical application morning and evening
+**Optimal Timing:** Between meals for [hemostatic](/nighantu/glossary/pharmacology/#hemostatic) and Pitta-pacifying effects; morning for skin health; after meals for digestive action; topical application morning and evening
 
 **Standardized Extract:** Stamen extract (8:1 hydroalcoholic) standardized to minimum 2% total xanthones (as mesuaferrin equivalents) and minimum 1% mesuol. Cold-pressed seed oil for topical formulations. Aqueous extract for astringent and hemostatic preparations.
 
@@ -72,8 +72,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Nagakesara/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Lodhra](/ayurveda-atlas/herb/lodhra/) (hemostatic combination - premier pairing)
-- [Ashoka](/ayurveda-atlas/herb/ashoka/) (menorrhagia management)
-- [Mochras](/ayurveda-atlas/herb/mochras/) (hemostatic synergy)
+- [Lodhra](/nighantu/herb/lodhra/) (hemostatic combination - premier pairing)
+- [Ashoka](/nighantu/herb/ashoka/) (menorrhagia management)
+- [Mochras](/nighantu/herb/mochras/) (hemostatic synergy)
 - Praval Pishti (cooling hemostatic)
-- [Haridra](/ayurveda-atlas/herb/haridra/) (anti-inflammatory and wound healing)
+- [Haridra](/nighantu/herb/haridra/) (anti-inflammatory and wound healing)

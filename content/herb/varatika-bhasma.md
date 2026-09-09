@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Varatika-Bhasma/meta
 
 | Language | Name |
 |----------|------|
-| English | [Varatika Bhasma](/ayurveda-atlas/herb/varatika-bhasma/) |
+| English | [Varatika Bhasma](/nighantu/herb/varatika-bhasma/) |
 
 ## Key Phytochemical Constituents
 
@@ -31,7 +31,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Varatika-Bhasma/meta
 - Ash content (2.06%)
 - Organic carbon (1.09%)
 - Total nitrogen (0.72%)
-- [Potassium](/ayurveda-atlas/glossary/compounds-o-q/#potassium) (3.49%)
+- [Potassium](/nighantu/glossary/compounds-o-q/#potassium) (3.49%)
 - Zinc (1.48 ppm) and Iron (113.6 ppm) as trace elements
 
 ## How does it work?
@@ -86,7 +86,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Varatika-Bhasma/meta
 
 **Storage:** Airtight container
 
-**Marker Compounds:** Calcium carbonate (90%+), Conchiolin, Trace [strontium](/ayurveda-atlas/glossary/compounds-q-t/#strontium)
+**Marker Compounds:** Calcium carbonate (90%+), Conchiolin, Trace [strontium](/nighantu/glossary/compounds-q-t/#strontium)
 
 **Quality Parameters:** Calcium >35%, standard bhasma tests
 

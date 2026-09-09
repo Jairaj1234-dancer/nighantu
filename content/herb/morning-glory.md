@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Morning_Glory/meta-analysis.md"
 
 **Standard Dosage:** Seeds: NOT recommended for internal use due to ergot alkaloid content. Leaf/Root: 3-5 g powder per day; 50-100 mL decoction of leaves twice daily; topical as directed. CAUTION: Some species contain lysergic acid amide (LSA).
 
-**Bioavailability:** Ergoline [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) (LSA, ergine) in seeds have high oral bioavailability (~40-60%) with rapid CNS penetration - this is a SAFETY concern. Leaf and root preparations contain different phytochemistry with [flavonoids](/ayurveda-atlas/reference/flavonoids/) and glycoresins showing moderate absorption. Purgative glycoresins act locally on intestinal mucosa.
+**Bioavailability:** Ergoline [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) (LSA, ergine) in seeds have high oral bioavailability (~40-60%) with rapid CNS penetration - this is a SAFETY concern. Leaf and root preparations contain different phytochemistry with [flavonoids](/nighantu/reference/flavonoids/) and glycoresins showing moderate absorption. Purgative glycoresins act locally on intestinal mucosa.
 
 **Optimal Timing:** Morning on empty stomach for purgative action (under medical supervision); topical application as needed; specific timing per Virechana Panchakarma protocol
 
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Morning_Glory/meta-analysis.md"
 
 **Storage:** Store below 25 deg C in airtight containers. Protect from light and moisture. Restricted access storage for raw seed material (if held for research). All finished products labeled with appropriate warnings.
 
-**Marker Compounds:** Glycoresins (turpethinic acids, if I. turpethum), [Scopoletin](/ayurveda-atlas/glossary/compounds-q-t/#scopoletin), [Umbelliferone](/ayurveda-atlas/glossary/compounds-t-z/#umbelliferone), [Kaempferol](/ayurveda-atlas/reference/kaempferol/), Caffeic acid, LSA/Ergine (MUST be absent in formulations)
+**Marker Compounds:** Glycoresins (turpethinic acids, if I. turpethum), [Scopoletin](/nighantu/glossary/compounds-q-t/#scopoletin), [Umbelliferone](/nighantu/glossary/compounds-t-z/#umbelliferone), [Kaempferol](/nighantu/reference/kaempferol/), Caffeic acid, LSA/Ergine (MUST be absent in formulations)
 
 ### Extraction Methods
 
@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Morning_Glory/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Trivrit](/ayurveda-atlas/herb/trivrit/) (purgative combination for Virechana)
-- [Danti](/ayurveda-atlas/herb/danti/) (cathartic synergy)
-- [Eranda](/ayurveda-atlas/herb/eranda/)/Castor ([laxative](/ayurveda-atlas/reference/laxative/) combination)
-- [Haridra](/ayurveda-atlas/herb/haridra/) (anti-inflammatory for topical use)
+- [Trivrit](/nighantu/herb/trivrit/) (purgative combination for Virechana)
+- [Danti](/nighantu/herb/danti/) (cathartic synergy)
+- [Eranda](/nighantu/herb/eranda/)/Castor ([laxative](/nighantu/reference/laxative/) combination)
+- [Haridra](/nighantu/herb/haridra/) (anti-inflammatory for topical use)

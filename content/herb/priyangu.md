@@ -30,25 +30,25 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Priyangu/meta-analysis.md"
 
 - Calliterpenone (diterpenoid)
 - Calliterpenone monoacetate
-- [Luteolin](/ayurveda-atlas/glossary/compounds-l-o/#luteolin)
-- [Apigenin](/ayurveda-atlas/glossary/compounds-1-a/#apigenin)
+- [Luteolin](/nighantu/glossary/compounds-l-o/#luteolin)
+- [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin)
 - Ursolic acid
 - Betulinic acid
-- Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
+- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
 - Luteolin-7-O-glucuronide
 
 ## How does it work?
 
 - Anti-inflammatory: Calliterpenone and luteolin inhibit pro-inflammatory mediators; demonstrated in carrageenan-induced edema models.
 - Uterine tonic action: Traditional Garbhashaya Shodhana (uterine cleansing) attributed to combined terpenoid and flavonoid activity on uterine smooth muscle.
-- [Antipyretic](/ayurveda-atlas/reference/antipyretic/): Reduces elevated body temperature through prostaglandin synthesis inhibition, comparable to paracetamol in animal models.
-- [Antimicrobial](/ayurveda-atlas/reference/antimicrobial/): [Flavonoids](/ayurveda-atlas/reference/flavonoids/) and [terpenoids](/ayurveda-atlas/glossary/compounds-t-z/#terpenoids) disrupt microbial cell membranes; effective against both Gram-positive and Gram-negative bacteria.
-- [Antidiabetic](/ayurveda-atlas/reference/antidiabetic/): Alpha-glucosidase inhibition and insulin-sensitizing effects demonstrated in preclinical diabetes models.
+- [Antipyretic](/nighantu/reference/antipyretic/): Reduces elevated body temperature through prostaglandin synthesis inhibition, comparable to paracetamol in animal models.
+- [Antimicrobial](/nighantu/reference/antimicrobial/): [Flavonoids](/nighantu/reference/flavonoids/) and [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids) disrupt microbial cell membranes; effective against both Gram-positive and Gram-negative bacteria.
+- [Antidiabetic](/nighantu/reference/antidiabetic/): Alpha-glucosidase inhibition and insulin-sensitizing effects demonstrated in preclinical diabetes models.
 
 ## Which traditional uses are supported by research?
 
 - Anti-inflammatory activity confirmed in carrageenan-induced paw edema models.
-- [Analgesic](/ayurveda-atlas/reference/analgesic/) activity validated and found comparable to standard analgesics.
+- [Analgesic](/nighantu/reference/analgesic/) activity validated and found comparable to standard analgesics.
 - Antipyretic effects demonstrated in experimental fever models.
 - Antimicrobial activity confirmed against multiple pathogens.
 - Anti-arthritic potential validated in Freund's adjuvant arthritis model.
@@ -56,7 +56,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Priyangu/meta-analysis.md"
 ## What do recent clinical trials show?
 
 - **Pharmacological and Traditional Insights into Callicarpa macrophylla: A Comprehensive Review** (2025): Comprehensive review establishing antifungal, anti-inflammatory, antibacterial, analgesic, anti-diabetic, anti-arthritic, and antipyretic activities of crude extracts and isolated compounds. Called for validation of traditional gynecological uses in human clinical models.
-- **Callicarpa macrophylla: A Review Update on its Botany, Ethnobotany, Phytochemistry and Pharmacology** (2021): Updated phytochemical profiling identifying calliterpenone as the key diterpenoid along with flavonoids (luteolin, [apigenin](/ayurveda-atlas/glossary/compounds-1-a/#apigenin)), [triterpenoids](/ayurveda-atlas/glossary/compounds-t-z/#triterpenoids) (ursolic acid, betulinic acid), and [sterols](/ayurveda-atlas/glossary/compounds-q-t/#sterols). Wide-spectrum pharmacological activities documented.
+- **Callicarpa macrophylla: A Review Update on its Botany, Ethnobotany, Phytochemistry and Pharmacology** (2021): Updated phytochemical profiling identifying calliterpenone as the key diterpenoid along with flavonoids (luteolin, [apigenin](/nighantu/glossary/compounds-1-a/#apigenin)), [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids) (ursolic acid, betulinic acid), and [sterols](/nighantu/glossary/compounds-q-t/#sterols). Wide-spectrum pharmacological activities documented.
 - **Systematic review of Priyangu (Callicarpa macrophylla)** (2021): Systematic review in Journal of Ayurveda and Integrated Medical Sciences analyzing classical references and modern evidence. Traditional gynecological applications (Yonishodhana, obstetric conditions) need validation through controlled clinical trials.
 - **Callicarpa macrophylla: A Review of its Phytochemistry, Pharmacology, Folklore Claims and Ayurvedic Studies** (2020): Review documenting anti-inflammatory activity through inhibition of carrageenan-induced paw edema and analgesic activity comparable to standard drugs. Anti-arthritic potential confirmed in Freund's adjuvant arthritis model.
 
@@ -99,20 +99,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Priyangu/meta-analysis.md"
 
 **Storage:** Dried flowers: airtight containers, below 25 deg C, RH <50%, protected from light. Extracts: amber containers, cool and dry. Taila: amber glass, room temperature.
 
-**Marker Compounds:** Betulinic acid, Calliterpenone, [Lupeol](/ayurveda-atlas/reference/lupeol/), Beta-sitosterol, Ursolic acid, [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/), [Kaempferol](/ayurveda-atlas/reference/kaempferol/), Oleanolic acid
+**Marker Compounds:** Betulinic acid, Calliterpenone, [Lupeol](/nighantu/reference/lupeol/), Beta-sitosterol, Ursolic acid, [Quercetin](/nighantu/reference/quercetinquercetin/), [Kaempferol](/nighantu/reference/kaempferol/), Oleanolic acid
 
 ### Extraction Methods
 
 - Hydroalcoholic extraction (60% ethanol) of flowers
 - Aqueous decoction of bark
 - Methanol extraction for betulinic acid isolation
-- Oil infusion of flowers in [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) base
+- Oil infusion of flowers in [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) base
 - Cold maceration for gentle extraction of heat-sensitive flower compounds
 
 ### Synergistic Combinations
 
-- [Ashoka](/ayurveda-atlas/herb/ashoka/) (uterine health and menorrhagia management)
-- [Lodhra](/ayurveda-atlas/herb/lodhra/) (astringent and gynecological synergy)
-- [Nagakesara](/ayurveda-atlas/herb/nagakesara/) (hemorrhagic conditions)
-- [Chandana](/ayurveda-atlas/herb/chandana/) (complexion-enhancing formulation)
-- [Manjistha](/ayurveda-atlas/herb/manjistha/) (blood purification and skin health)
+- [Ashoka](/nighantu/herb/ashoka/) (uterine health and menorrhagia management)
+- [Lodhra](/nighantu/herb/lodhra/) (astringent and gynecological synergy)
+- [Nagakesara](/nighantu/herb/nagakesara/) (hemorrhagic conditions)
+- [Chandana](/nighantu/herb/chandana/) (complexion-enhancing formulation)
+- [Manjistha](/nighantu/herb/manjistha/) (blood purification and skin health)

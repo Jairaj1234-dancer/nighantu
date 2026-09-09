@@ -23,21 +23,21 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Agnitundi-Vati/meta
 
 | Language | Name |
 |----------|------|
-| English | [Agnitundi Vati](/ayurveda-atlas/formulation/agnitundi-vati/) |
+| English | [Agnitundi Vati](/nighantu/formulation/agnitundi-vati/) |
 
 ## Key Ingredients
 
 - Shuddha Hingula (Purified Cinnabar - HgS)
-- Shuddha [Vatsanabha](/ayurveda-atlas/herb/vatsanabha/) (Purified Aconitum ferox)
-- Shuddha [Gandhaka](/ayurveda-atlas/glossary/concepts-a-m/#gandhaka) (Purified Sulphur)
-- [Pippali](/ayurveda-atlas/herb/pippali/) (Piper longum)
-- Shunthi ([Zingiber](/ayurveda-atlas/herb/zingiber/) officinale)
+- Shuddha [Vatsanabha](/nighantu/herb/vatsanabha/) (Purified Aconitum ferox)
+- Shuddha [Gandhaka](/nighantu/glossary/concepts-a-m/#gandhaka) (Purified Sulphur)
+- [Pippali](/nighantu/herb/pippali/) (Piper longum)
+- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale)
 - Maricha (Piper nigrum)
-- [Hingu](/ayurveda-atlas/herb/hingu/)/Hing (Ferula asafoetida)
-- [Triphala](/ayurveda-atlas/herb/triphala/) - [Haritaki](/ayurveda-atlas/herb/haritaki/) (Terminalia chebula), [Bibhitaki](/ayurveda-atlas/herb/bibhitaki/) (Terminalia bellirica), Amalaki (Emblica officinalis)
+- [Hingu](/nighantu/herb/hingu/)/Hing (Ferula asafoetida)
+- [Triphala](/nighantu/herb/triphala/) - [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula), [Bibhitaki](/nighantu/herb/bibhitaki/) (Terminalia bellirica), Amalaki (Emblica officinalis)
 - Chitraka (Plumbago zeylanica)
 - Ajamoda (Apium graveolens/Trachyspermum roxburghianum)
-- [Chavya](/ayurveda-atlas/herb/chavya/) (Piper chaba)
+- [Chavya](/nighantu/herb/chavya/) (Piper chaba)
 
 ## Where is it described in the classical texts?
 
@@ -45,10 +45,10 @@ Yoga Ratnakara (Agnimandya/Ajirna Chikitsa); also described in Bhaishajya Ratnav
 
 ## How does it work?
 
-- Digestive fire kindling (Agni Deepana): [Trikatu](/ayurveda-atlas/herb/trikatu/) and Chitraka stimulate gastric acid and digestive enzyme secretion; Katu Rasa (pungent taste) directly stimulates Jatharagni
+- Digestive fire kindling (Agni Deepana): [Trikatu](/nighantu/herb/trikatu/) and Chitraka stimulate gastric acid and digestive enzyme secretion; Katu Rasa (pungent taste) directly stimulates Jatharagni
 - Carminative action: Hing (Ferula asafoetida) is a potent carminative reducing flatulence by calming Annavaha Srotas (digestive channels) and preventing gas accumulation
 - Ama mobilization: Ushna Virya (hot potency) penetrates deep tissues (Dhatus) to mobilize and digest accumulated metabolic toxins (Ama)
-- [Antispasmodic](/ayurveda-atlas/glossary/pharmacology/#antispasmodic) effect: Combined herbal ingredients relax smooth muscle spasms in the GI tract, relieving cramping and colic pain
+- [Antispasmodic](/nighantu/glossary/pharmacology/#antispasmodic) effect: Combined herbal ingredients relax smooth muscle spasms in the GI tract, relieving cramping and colic pain
 - Vata-Kapha correction: The formulation normalizes Vata (gas, bloating) and Kapha (heaviness, sluggish digestion) doshas in the digestive tract through hot, sharp, and dry qualities
 
 ## Which traditional uses are supported by research?
@@ -60,13 +60,13 @@ Yoga Ratnakara (Agnimandya/Ajirna Chikitsa); also described in Bhaishajya Ratnav
 
 ## What do recent clinical trials show?
 
-- **Clinical impact of [Agnitundi Vati](/ayurveda-atlas/formulation/agnitundi-vati/) on non-ulcer dyspepsia** (2020): Journal of Ayurveda and Integrative Medicine study showed significant reduction in bloating and epigastric discomfort after two weeks of twice-daily administration in non-ulcer dyspepsia patients.
-- **Carminative and antispasmodic properties of [Agnitundi Vati](/ayurveda-atlas/formulation/agnitundi-vati/) herbal components** (2019): Pharmacological evaluation confirmed antispasmodic, carminative, and digestive-stimulant properties; gas-relieving and bloating-reducing effects validated in controlled setting.
-- **Ayurvedic pharmacodynamics of [Agnitundi Vati](/ayurveda-atlas/formulation/agnitundi-vati/) in digestive disorders** (2018): Katu taste kindles Agni, Ushna Virya penetrates deep tissues to mobilize Ama, and post-digestive warming Vipaka maintains steady metabolism, collectively normalizing Vata and Kapha in the digestive tract.
+- **Clinical impact of [Agnitundi Vati](/nighantu/formulation/agnitundi-vati/) on non-ulcer dyspepsia** (2020): Journal of Ayurveda and Integrative Medicine study showed significant reduction in bloating and epigastric discomfort after two weeks of twice-daily administration in non-ulcer dyspepsia patients.
+- **Carminative and antispasmodic properties of [Agnitundi Vati](/nighantu/formulation/agnitundi-vati/) herbal components** (2019): Pharmacological evaluation confirmed antispasmodic, carminative, and digestive-stimulant properties; gas-relieving and bloating-reducing effects validated in controlled setting.
+- **Ayurvedic pharmacodynamics of [Agnitundi Vati](/nighantu/formulation/agnitundi-vati/) in digestive disorders** (2018): Katu taste kindles Agni, Ushna Virya penetrates deep tissues to mobilize Ama, and post-digestive warming Vipaka maintains steady metabolism, collectively normalizing Vata and Kapha in the digestive tract.
 
 ## Recent safety updates
 
-- Contains purified heavy metals (Hingula/cinnabar) and toxic materials ([Vatsanabha](/ayurveda-atlas/herb/vatsanabha/)/aconite) - must be taken STRICTLY under qualified Ayurvedic physician supervision; self-medication dangerous; not for OTC use
+- Contains purified heavy metals (Hingula/cinnabar) and toxic materials ([Vatsanabha](/nighantu/herb/vatsanabha/)/aconite) - must be taken STRICTLY under qualified Ayurvedic physician supervision; self-medication dangerous; not for OTC use
 - Contraindicated in pregnancy, lactation, and children below 7 years; avoid in Pitta-predominant conditions, gastric ulcer, and gastric hyperacidity; short-term therapeutic use only; long-term use requires periodic monitoring of mercury levels and organ function
 
 ## What is it made of?
@@ -84,7 +84,7 @@ Yoga Ratnakara (Agnimandya/Ajirna Chikitsa); also described in Bhaishajya Ratnav
 
 **Standard Dosage:** 125-250 mg twice daily before meals, as per AFI Part I
 
-**Bioavailability:** Vati form provides controlled release. Shodhana (purification) of [Vatsanabha](/ayurveda-atlas/herb/vatsanabha/) reduces toxic aconitine [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) while retaining therapeutic activity. [Hingu](/ayurveda-atlas/herb/hingu/) and [Pippali](/ayurveda-atlas/herb/pippali/) enhance gastric absorption.
+**Bioavailability:** Vati form provides controlled release. Shodhana (purification) of [Vatsanabha](/nighantu/herb/vatsanabha/) reduces toxic aconitine [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) while retaining therapeutic activity. [Hingu](/nighantu/herb/hingu/) and [Pippali](/nighantu/herb/pippali/) enhance gastric absorption.
 
 **Optimal Timing:** Before meals (Bhojana-purva), preferably 30 minutes before lunch and dinner
 
@@ -92,7 +92,7 @@ Yoga Ratnakara (Agnimandya/Ajirna Chikitsa); also described in Bhaishajya Ratnav
 
 **Storage:** Store in a cool, dry place in airtight glass or HDPE containers. Protect from moisture and light. Temperature not exceeding 30°C.
 
-**Marker Compounds:** [Piperine](/ayurveda-atlas/reference/piperine/), 6-[Gingerol](/ayurveda-atlas/glossary/compounds-d-g/#gingerol), Ferulic acid (from [Hingu](/ayurveda-atlas/herb/hingu/))
+**Marker Compounds:** [Piperine](/nighantu/reference/piperine/), 6-[Gingerol](/nighantu/glossary/compounds-d-g/#gingerol), Ferulic acid (from [Hingu](/nighantu/herb/hingu/))
 
 **Quality Parameters:** Weight variation (±5%), hardness, friability (<1%), disintegration time (<30 min), uniformity of content, moisture content (<6%), microbial limits, heavy metals, alkaloid content assay for aconitine equivalents (must be within safe limits post-Shodhana), HPTLC fingerprint
 
@@ -100,7 +100,7 @@ Yoga Ratnakara (Agnimandya/Ajirna Chikitsa); also described in Bhaishajya Ratnav
 
 ### Synergistic Combinations
 
-- [Hingwashtak Churna](/ayurveda-atlas/formulation/hingwashtak-churna/)
-- [Shankha Vati](/ayurveda-atlas/glossary/concepts-m-y/#shankha-vati)
+- [Hingwashtak Churna](/nighantu/formulation/hingwashtak-churna/)
+- [Shankha Vati](/nighantu/glossary/concepts-m-y/#shankha-vati)
 - Lavanbhaskar Churna
-- [Chitrakadi Vati](/ayurveda-atlas/formulation/chitrakadi-vati/)
+- [Chitrakadi Vati](/nighantu/formulation/chitrakadi-vati/)

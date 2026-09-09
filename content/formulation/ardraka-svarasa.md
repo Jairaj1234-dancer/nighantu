@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Svarasas-Fresh-Juices/Ardraka-Sva
 
 | Language | Name |
 |----------|------|
-| English | [Ardraka Svarasa](/ayurveda-atlas/formulation/ardraka-svarasa/) |
+| English | [Ardraka Svarasa](/nighantu/formulation/ardraka-svarasa/) |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -49,15 +49,15 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Svarasas-Fresh-Juices/Ardraka-Sva
 
 **Standard Dosage:** 5-10 mL twice daily, as per AFI
 
-**Bioavailability:** Svarasa (fresh juice) provides highest bioavailability of gingerols compared to dried forms. 6-[Gingerol](/ayurveda-atlas/glossary/compounds-d-g/#gingerol) is absorbed rapidly with peak plasma levels at 1-2 hours. Fresh juice retains volatile compounds that enhance absorption and first-pass metabolism modulation.
+**Bioavailability:** Svarasa (fresh juice) provides highest bioavailability of gingerols compared to dried forms. 6-[Gingerol](/nighantu/glossary/compounds-d-g/#gingerol) is absorbed rapidly with peak plasma levels at 1-2 hours. Fresh juice retains volatile compounds that enhance absorption and first-pass metabolism modulation.
 
 **Optimal Timing:** Before meals for digestive indications; any time for respiratory conditions
 
-**Shelf Life:** Same day use (fresh), 6 months (preserved with [citric acid](/ayurveda-atlas/glossary/compounds-c-d/#citric-acidcitric-acid)/sodium benzoate), 2 years (spray-dried powder in capsules)
+**Shelf Life:** Same day use (fresh), 6 months (preserved with [citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid)/sodium benzoate), 2 years (spray-dried powder in capsules)
 
 **Storage:** Fresh: use immediately or refrigerate at 2-8°C for up to 24 hours. Preserved: amber glass bottles at room temperature. Capsules: airtight containers at room temperature.
 
-**Marker Compounds:** 6-Gingerol, 8-Gingerol, 10-Gingerol, 6-Shogaol, [Zingerone](/ayurveda-atlas/glossary/compounds-t-z/#zingerone), [Zingiberene](/ayurveda-atlas/glossary/compounds-t-z/#zingiberene)
+**Marker Compounds:** 6-Gingerol, 8-Gingerol, 10-Gingerol, 6-Shogaol, [Zingerone](/nighantu/glossary/compounds-t-z/#zingerone), [Zingiberene](/nighantu/glossary/compounds-t-z/#zingiberene)
 
 **Quality Parameters:** pH (5.0-6.5), total solids, volatile oil content, gingerol content by HPLC (NLT 1% 6-gingerol in fresh juice), total phenolics, microbial limits, heavy metals, pesticide residues, clarity
 
@@ -65,7 +65,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Svarasas-Fresh-Juices/Ardraka-Sva
 
 ### Synergistic Combinations
 
-- [Trikatu](/ayurveda-atlas/herb/trikatu/) Churna
-- [Sitopaladi Churna](/ayurveda-atlas/formulation/sitopaladi-churna/)
-- Honey ([Madhu](/ayurveda-atlas/herb/madhu/))
+- [Trikatu](/nighantu/herb/trikatu/) Churna
+- [Sitopaladi Churna](/nighantu/formulation/sitopaladi-churna/)
+- Honey ([Madhu](/nighantu/herb/madhu/))
 - Lemon juice

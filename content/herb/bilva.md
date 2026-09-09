@@ -27,11 +27,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Bilva/meta-analysis.md"
 
 ## How does it work?
 
-- Antidiarrheal bidirectional motility modulation: Slows intestinal motility during diarrhea and eases it in constipation, attributed to balance of [tannins](/ayurveda-atlas/reference/tannins/) and [mucilage](/ayurveda-atlas/glossary/compounds-l-o/#mucilage) -- a rare bidirectional property.
-- Anti-inflammatory: Marmelosin ([imperatorin](/ayurveda-atlas/glossary/compounds-g-l/#imperatorin)) inhibits TNF-alpha mediated inflammatory markers and possesses [antioxidant](/ayurveda-atlas/reference/antioxidant/) properties.
-- [Antidiabetic](/ayurveda-atlas/reference/antidiabetic/): Aegeline and marmelosin improve insulin signaling and reduce fasting [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose); oral extract increases body weight, pancreas weight, and insulin levels with improved beta-cell functional state.
-- [Coumarins](/ayurveda-atlas/glossary/compounds-c-d/#coumarins) (marmelosin, imperatorin, psoralen) are the most frequently reported bioactive class linked to antidiabetic, antioxidant, and [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) activities.
-- [Neuroprotective](/ayurveda-atlas/reference/neuroprotective/): Network pharmacology identifies multi-target mechanisms against Alzheimer's disease-related [proteins](/ayurveda-atlas/glossary/compounds-o-q/#proteins).
+- Antidiarrheal bidirectional motility modulation: Slows intestinal motility during diarrhea and eases it in constipation, attributed to balance of [tannins](/nighantu/reference/tannins/) and [mucilage](/nighantu/glossary/compounds-l-o/#mucilage) -- a rare bidirectional property.
+- Anti-inflammatory: Marmelosin ([imperatorin](/nighantu/glossary/compounds-g-l/#imperatorin)) inhibits TNF-alpha mediated inflammatory markers and possesses [antioxidant](/nighantu/reference/antioxidant/) properties.
+- [Antidiabetic](/nighantu/reference/antidiabetic/): Aegeline and marmelosin improve insulin signaling and reduce fasting [glucose](/nighantu/glossary/compounds-d-g/#glucose); oral extract increases body weight, pancreas weight, and insulin levels with improved beta-cell functional state.
+- [Coumarins](/nighantu/glossary/compounds-c-d/#coumarins) (marmelosin, imperatorin, psoralen) are the most frequently reported bioactive class linked to antidiabetic, antioxidant, and [antimicrobial](/nighantu/reference/antimicrobial/) activities.
+- [Neuroprotective](/nighantu/reference/neuroprotective/): Network pharmacology identifies multi-target mechanisms against Alzheimer's disease-related [proteins](/nighantu/glossary/compounds-o-q/#proteins).
 - Antimicrobial and anti-biofilm: Fruit extract demonstrates activity against multi-drug-resistant Staphylococcus aureus biofilms.
 
 ## What do recent clinical trials show?
@@ -69,7 +69,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Bilva/meta-analysis.md"
 
 **Standard Dosage:** 3-6g fruit pulp powder twice daily; 500mg extract capsule; 50-100ml decoction; Bilva Avaleha 10-20g; unripe fruit preferred for diarrhea
 
-**Bioavailability:** Marmelosin shows moderate oral bioavailability (30-40%). Coumarins are generally well absorbed from the GI tract. Mucilage from ripe fruit may slow absorption but provide sustained release. [Skimmianine](/ayurveda-atlas/glossary/compounds-q-t/#skimmianine) has good lipid solubility and crosses BBB. Psoralen-type furanocoumarins are photosensitizing—relevant for topical formulations. Decoction provides optimal extraction of antidiarrheal mucilaginous compounds.
+**Bioavailability:** Marmelosin shows moderate oral bioavailability (30-40%). Coumarins are generally well absorbed from the GI tract. Mucilage from ripe fruit may slow absorption but provide sustained release. [Skimmianine](/nighantu/glossary/compounds-q-t/#skimmianine) has good lipid solubility and crosses BBB. Psoralen-type furanocoumarins are photosensitizing—relevant for topical formulations. Decoction provides optimal extraction of antidiarrheal mucilaginous compounds.
 
 **Optimal Timing:** Before meals with buttermilk for diarrhea; after meals for digestive support; Avaleha anytime as a tonic
 
@@ -79,12 +79,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Bilva/meta-analysis.md"
 
 **Storage:** Cool, dry place away from light (furanocoumarins are photosensitive). Powder in airtight containers with desiccant. Avaleha in glass jars.
 
-**Marker Compounds:** Marmelosin, [Marmelide](/ayurveda-atlas/glossary/compounds-l-o/#marmelide), Skimmianine, Aegeline, Marmeline, Psoralen, Imperatorin, [Luvangetin](/ayurveda-atlas/glossary/compounds-l-o/#luvangetin), Umbelliferone
+**Marker Compounds:** Marmelosin, [Marmelide](/nighantu/glossary/compounds-l-o/#marmelide), Skimmianine, Aegeline, Marmeline, Psoralen, Imperatorin, [Luvangetin](/nighantu/glossary/compounds-l-o/#luvangetin), Umbelliferone
 
 ### Extraction Methods
 
 - Aqueous decoction of unripe fruit for antidiarrheal use
-- Hydroalcoholic extraction (70:30) for [coumarin](/ayurveda-atlas/glossary/compounds-c-d/#coumarin)-rich extract
+- Hydroalcoholic extraction (70:30) for [coumarin](/nighantu/glossary/compounds-c-d/#coumarin)-rich extract
 - Ethanol extraction (95%) for alkaloid-rich fractions from leaves
 - Cold pressing of ripe fruit for pulp extract
 - Steam distillation of leaves for essential oil
@@ -93,6 +93,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Bilva/meta-analysis.md"
 
 - With Kutaja (Holarrhena) for chronic diarrhea and IBS
 - With Musta for digestive disorders
-- With Sunthi (dry [ginger](/ayurveda-atlas/herb/ginger/)) for appetizer formulations
-- With [Dadima](/ayurveda-atlas/herb/dadima/) for malabsorption syndromes
-- With [Dhanyaka](/ayurveda-atlas/herb/dhanyaka/) ([coriander](/ayurveda-atlas/herb/coriander/)) for GI health
+- With Sunthi (dry [ginger](/nighantu/herb/ginger/)) for appetizer formulations
+- With [Dadima](/nighantu/herb/dadima/) for malabsorption syndromes
+- With [Dhanyaka](/nighantu/herb/dhanyaka/) ([coriander](/nighantu/herb/coriander/)) for GI health

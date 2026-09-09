@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Danti-Moola/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | [Danti](/ayurveda-atlas/herb/danti/) Moola |
+| English | [Danti](/nighantu/herb/danti/) Moola |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Danti-Moola/meta-analysis.md"
 
 **Dosage Forms:** Churna (powder) - Shodhita only, Kashayam (decoction), Tablet, Kwath Ghana (solid decoction extract)
 
-**Standard Dosage:** 1-2g Shodhita root powder as purgative; 500mg-1g for mild [laxative](/ayurveda-atlas/reference/laxative/); 30-50ml decoction. Must be used under qualified practitioner supervision.
+**Standard Dosage:** 1-2g Shodhita root powder as purgative; 500mg-1g for mild [laxative](/nighantu/reference/laxative/); 30-50ml decoction. Must be used under qualified practitioner supervision.
 
 **Bioavailability:** Root contains higher concentration of diterpene esters than stem. Purgative principles act locally in the intestine with limited systemic absorption desired. Post-Shodhana processing in cow's milk denatures protein-bound toxins and reduces phorbol ester load by 60-80%. Bioavailability of therapeutic laxative principles is adequate via oral route without enhancement.
 
@@ -57,9 +57,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Danti-Moola/meta-analysis.md"
 
 **Shelf Life:** 1 year (Shodhita powder in moisture-proof container); 2 years (tablet)
 
-**Storage:** Airtight, light-resistant containers below 25 deg C and below 45% RH. Must be labeled 'Shodhita [Danti](/ayurveda-atlas/herb/danti/) Moola - for use under medical supervision only.' Store separately from general herbs.
+**Storage:** Airtight, light-resistant containers below 25 deg C and below 45% RH. Must be labeled 'Shodhita [Danti](/nighantu/herb/danti/) Moola - for use under medical supervision only.' Store separately from general herbs.
 
-**Marker Compounds:** Phorbol-12,13-didecanoate (toxicity marker - must be below specified limit post-Shodhana), [Montanin](/ayurveda-atlas/glossary/compounds-l-o/#montanin), Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), Jatrophenone
+**Marker Compounds:** Phorbol-12,13-didecanoate (toxicity marker - must be below specified limit post-Shodhana), [Montanin](/nighantu/glossary/compounds-l-o/#montanin), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Jatrophenone
 
 ### Extraction Methods
 
@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Danti-Moola/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Trivrit](/ayurveda-atlas/herb/trivrit/) for Virechana (therapeutic purgation) in Panchakarma
-- With [Triphala](/ayurveda-atlas/herb/triphala/) for balanced laxative formulation
-- With [Saindhava Lavana](/ayurveda-atlas/herb/saindhava-lavana/) (rock salt) to improve palatability and reduce griping
-- With [Draksha](/ayurveda-atlas/herb/draksha/) (raisin) decoction as Anupana to soften purgative action
+- With [Trivrit](/nighantu/herb/trivrit/) for Virechana (therapeutic purgation) in Panchakarma
+- With [Triphala](/nighantu/herb/triphala/) for balanced laxative formulation
+- With [Saindhava Lavana](/nighantu/herb/saindhava-lavana/) (rock salt) to improve palatability and reduce griping
+- With [Draksha](/nighantu/herb/draksha/) (raisin) decoction as Anupana to soften purgative action

@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Badama-Tail
 
 | Language | Name |
 |----------|------|
-| English | [Badama Taila](/ayurveda-atlas/formulation/badama-taila/) |
+| English | [Badama Taila](/nighantu/formulation/badama-taila/) |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Badama-Tail
 
 **Standard Dosage:** 5-10 mL orally once daily; externally as required, as per AFI/classical texts
 
-**Bioavailability:** Rich in oleic acid (omega-9) which provides excellent absorption. Fat-soluble [vitamins](/ayurveda-atlas/glossary/compounds-t-z/#vitamins) (E, A) are readily bioavailable. Topical application provides direct dermal absorption of [tocopherols](/ayurveda-atlas/glossary/compounds-t-z/#tocopherols) and fatty acids. Oral consumption provides systemic lipid nutrition.
+**Bioavailability:** Rich in oleic acid (omega-9) which provides excellent absorption. Fat-soluble [vitamins](/nighantu/glossary/compounds-t-z/#vitamins) (E, A) are readily bioavailable. Topical application provides direct dermal absorption of [tocopherols](/nighantu/glossary/compounds-t-z/#tocopherols) and fatty acids. Oral consumption provides systemic lipid nutrition.
 
 **Optimal Timing:** Before bedtime (internal use) or after bath (external skin application)
 
@@ -57,15 +57,15 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Badama-Tail
 
 **Storage:** Store in airtight amber glass bottles or food-grade tin containers in a cool, dark place. Refrigeration extends shelf life. Temperature not exceeding 25°C.
 
-**Marker Compounds:** Oleic acid, Linoleic acid, Alpha-tocopherol (Vitamin E), Palmitic acid, [Amygdalin](/ayurveda-atlas/glossary/compounds-1-a/#amygdalin) (traces in sweet variety)
+**Marker Compounds:** Oleic acid, Linoleic acid, Alpha-tocopherol (Vitamin E), Palmitic acid, [Amygdalin](/nighantu/glossary/compounds-1-a/#amygdalin) (traces in sweet variety)
 
-**Quality Parameters:** Acid value (<4), peroxide value (<10), saponification value (188-200), [iodine](/ayurveda-atlas/glossary/compounds-g-l/#iodine) value (93-106), refractive index (1.470-1.474 at 25°C), specific gravity (0.910-0.918), unsaponifiable matter (<1.5%), rancidity test negative, oleic acid content (60-80% by GC), pesticide residues, heavy metals, aflatoxins
+**Quality Parameters:** Acid value (<4), peroxide value (<10), saponification value (188-200), [iodine](/nighantu/glossary/compounds-g-l/#iodine) value (93-106), refractive index (1.470-1.474 at 25°C), specific gravity (0.910-0.918), unsaponifiable matter (<1.5%), rancidity test negative, oleic acid content (60-80% by GC), pesticide residues, heavy metals, aflatoxins
 
 **Vehicle (Anupana):** Warm milk for internal use; can be mixed with essential oils for external use
 
 ### Synergistic Combinations
 
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) Churna (with warm milk)
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) Churna
-- [Brahmi](/ayurveda-atlas/herb/brahmi/) oil (for scalp)
+- [Shatavari](/nighantu/herb/shatavari/) Churna (with warm milk)
+- [Ashwagandha](/nighantu/herb/ashwagandha/) Churna
+- [Brahmi](/nighantu/herb/brahmi/) oil (for scalp)
 - Rose water (topical blending)

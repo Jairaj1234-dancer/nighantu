@@ -29,21 +29,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mishreya/meta-analysis.md"
 ## Key Phytochemical Constituents
 
 - Trans-anethole (60-90% of essential oil - primary active)
-- [Fenchone](/ayurveda-atlas/glossary/compounds-d-g/#fenchone)
+- [Fenchone](/nighantu/glossary/compounds-d-g/#fenchone)
 - Estragole (methyl chavicol)
 - Alpha-pinene
-- [Limonene](/ayurveda-atlas/glossary/compounds-g-l/#limonene)
-- Beta-[myrcene](/ayurveda-atlas/glossary/compounds-l-o/#myrcene)
+- [Limonene](/nighantu/glossary/compounds-g-l/#limonene)
+- Beta-[myrcene](/nighantu/glossary/compounds-l-o/#myrcene)
 - P-cymene
-- [Camphene](/ayurveda-atlas/glossary/compounds-a-c/#camphene)
-- [Flavonoids](/ayurveda-atlas/reference/flavonoids/) ([quercetin](/ayurveda-atlas/reference/quercetinquercetin/), [kaempferol](/ayurveda-atlas/reference/kaempferol/))
+- [Camphene](/nighantu/glossary/compounds-a-c/#camphene)
+- [Flavonoids](/nighantu/reference/flavonoids/) ([quercetin](/nighantu/reference/quercetinquercetin/), [kaempferol](/nighantu/reference/kaempferol/))
 - Phenolic acids (rosmarinic acid, chlorogenic acid)
 
 ## How does it work?
 
-- [Antispasmodic](/ayurveda-atlas/glossary/pharmacology/#antispasmodic) and carminative mechanism through trans-anethole blocking calcium channels in GI smooth muscle, reducing intestinal spasm and gas-related pain
-- Estrogenic activity mediated by trans-anethole and its polymers (dianethole, photoanethole) acting as weak estrogen receptor agonists, supporting [galactagogue](/ayurveda-atlas/glossary/pharmacology/#galactagogue) and menstrual regulation properties
-- [Hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) mechanism through [antioxidant](/ayurveda-atlas/reference/antioxidant/)-mediated reduction of hepatic lipid peroxidation and enhancement of glutathione and catalase enzyme levels
+- [Antispasmodic](/nighantu/glossary/pharmacology/#antispasmodic) and carminative mechanism through trans-anethole blocking calcium channels in GI smooth muscle, reducing intestinal spasm and gas-related pain
+- Estrogenic activity mediated by trans-anethole and its polymers (dianethole, photoanethole) acting as weak estrogen receptor agonists, supporting [galactagogue](/nighantu/glossary/pharmacology/#galactagogue) and menstrual regulation properties
+- [Hepatoprotective](/nighantu/reference/hepatoprotective/) mechanism through [antioxidant](/nighantu/reference/antioxidant/)-mediated reduction of hepatic lipid peroxidation and enhancement of glutathione and catalase enzyme levels
 
 ## Which traditional uses are supported by research?
 
@@ -53,13 +53,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mishreya/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Cardiovascular Effects, Phytochemistry, Drug Interactions, and Safety Profile of Foeniculum vulgare Mill. ([Fennel](/ayurveda-atlas/herb/fennel/)): A Comprehensive Review** (2025): Comprehensive review documenting [fennel](/ayurveda-atlas/herb/fennel/)'s cardiovascular effects including [antihypertensive](/ayurveda-atlas/glossary/pharmacology/#antihypertensive), [cardioprotective](/ayurveda-atlas/reference/cardioprotective/), and vasorelaxant properties, along with detailed drug interaction profiling and safety assessment.
+- **Cardiovascular Effects, Phytochemistry, Drug Interactions, and Safety Profile of Foeniculum vulgare Mill. ([Fennel](/nighantu/herb/fennel/)): A Comprehensive Review** (2025): Comprehensive review documenting [fennel](/nighantu/herb/fennel/)'s cardiovascular effects including [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive), [cardioprotective](/nighantu/reference/cardioprotective/), and vasorelaxant properties, along with detailed drug interaction profiling and safety assessment.
 - **Ethnomedicinal Uses of Foeniculum vulgare Among Indigenous Communities in Rajasthan** (2024): Documented extensive ethnomedicinal applications among indigenous Rajasthani communities, confirming continued traditional use patterns in contemporary practice.
-- **Foeniculum vulgare Mill: A Review of Its Botany, Phytochemistry, Pharmacology, Contemporary Application, and Toxicology** (2024): Updated comprehensive review documenting antispasmodic, anti-inflammatory, [analgesic](/ayurveda-atlas/reference/analgesic/), hepatoprotective, [diuretic](/ayurveda-atlas/reference/diuretic/), antioxidant, and [anticancer](/ayurveda-atlas/reference/anticancer/) activities across traditional medicine systems.
+- **Foeniculum vulgare Mill: A Review of Its Botany, Phytochemistry, Pharmacology, Contemporary Application, and Toxicology** (2024): Updated comprehensive review documenting antispasmodic, anti-inflammatory, [analgesic](/nighantu/reference/analgesic/), hepatoprotective, [diuretic](/nighantu/reference/diuretic/), antioxidant, and [anticancer](/nighantu/reference/anticancer/) activities across traditional medicine systems.
 
 ## Recent safety updates
 
-- GRAS (Generally Recognized as Safe) by FDA; however, estragole component has raised genotoxicity concerns - EMA recommends limiting estragole exposure; [fennel](/ayurveda-atlas/herb/fennel/) products should be standardized for estragole content
+- GRAS (Generally Recognized as Safe) by FDA; however, estragole component has raised genotoxicity concerns - EMA recommends limiting estragole exposure; [fennel](/nighantu/herb/fennel/) products should be standardized for estragole content
 - Phytoestrogenic effects warrant caution in hormone-sensitive conditions (breast cancer, endometriosis); potential interactions with anticoagulants and ciprofloxacin; allergic cross-reactivity possible in patients with celery/carrot/mugwort allergy (celery-birch-mugwort-spice syndrome)
 
 ## What is it made of?
@@ -100,9 +100,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mishreya/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Ajwain](/ayurveda-atlas/herb/ajwain/) (digestive carminative combination)
-- Sunthi/[Ginger](/ayurveda-atlas/herb/ginger/) (anti-nausea and digestive)
-- Jeera/[Cumin](/ayurveda-atlas/herb/cumin/) (digestive trio with Ajwain)
+- [Ajwain](/nighantu/herb/ajwain/) (digestive carminative combination)
+- Sunthi/[Ginger](/nighantu/herb/ginger/) (anti-nausea and digestive)
+- Jeera/[Cumin](/nighantu/herb/cumin/) (digestive trio with Ajwain)
 - Shatapushpa/Dill (galactagogue synergy)
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) (antacid and demulcent)
-- [Pudina](/ayurveda-atlas/herb/pudina/)/Mint (cooling digestive)
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (antacid and demulcent)
+- [Pudina](/nighantu/herb/pudina/)/Mint (cooling digestive)

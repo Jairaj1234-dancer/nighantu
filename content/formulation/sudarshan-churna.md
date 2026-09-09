@@ -23,24 +23,24 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Sudarshan-Churna/
 
 | Language | Name |
 |----------|------|
-| English | [Sudarshan Churna](/ayurveda-atlas/formulation/sudarshan-churna/) |
+| English | [Sudarshan Churna](/nighantu/formulation/sudarshan-churna/) |
 
 ## Key Ingredients
 
-- [Kiratatikta](/ayurveda-atlas/herb/kiratatikta/)/Chirayita (Swertia chirata) - 50% of total remaining ingredients
-- [Haritaki](/ayurveda-atlas/herb/haritaki/) (Terminalia chebula)
-- [Bibhitaki](/ayurveda-atlas/herb/bibhitaki/) (Terminalia bellirica)
+- [Kiratatikta](/nighantu/herb/kiratatikta/)/Chirayita (Swertia chirata) - 50% of total remaining ingredients
+- [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula)
+- [Bibhitaki](/nighantu/herb/bibhitaki/) (Terminalia bellirica)
 - Amalaki (Emblica officinalis)
-- [Neem](/ayurveda-atlas/herb/neem/) (Azadirachta indica)
+- [Neem](/nighantu/herb/neem/) (Azadirachta indica)
 - Musta (Cyperus rotundus)
-- [Pippali](/ayurveda-atlas/herb/pippali/) (Piper longum)
-- Shunthi ([Zingiber](/ayurveda-atlas/herb/zingiber/) officinale)
-- [Daruharidra](/ayurveda-atlas/herb/daruharidra/) (Berberis aristata)
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) (Glycyrrhiza glabra)
-- [Haridra](/ayurveda-atlas/herb/haridra/) (Curcuma longa)
+- [Pippali](/nighantu/herb/pippali/) (Piper longum)
+- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale)
+- [Daruharidra](/nighantu/herb/daruharidra/) (Berberis aristata)
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (Glycyrrhiza glabra)
+- [Haridra](/nighantu/herb/haridra/) (Curcuma longa)
 - Kaleeyaka (Santalum album)
-- [Devadaru](/ayurveda-atlas/herb/devadaru/) (Cedrus deodara)
-- [Vacha](/ayurveda-atlas/herb/vacha/) (Acorus calamus)
+- [Devadaru](/nighantu/herb/devadaru/) (Cedrus deodara)
+- [Vacha](/nighantu/herb/vacha/) (Acorus calamus)
 
 ## Where is it described in the classical texts?
 
@@ -48,23 +48,23 @@ Bhavaprakasha Nighantu (16th century); composed of 42 medicinal plants in the st
 
 ## How does it work?
 
-- [Antipyretic](/ayurveda-atlas/reference/antipyretic/) pathway: Swertiamarin (terpenoid) in Swertia chirayita activates hypothalamic thermoregulatory centers and inhibits prostaglandin synthesis via COX-2 suppression, reducing fever
-- Antimalarial action: Chirayita and [Neem](/ayurveda-atlas/herb/neem/) contain bitter compounds (swertiamarin, [nimbin](/ayurveda-atlas/glossary/compounds-l-o/#nimbin)) with documented antiplasmodial activity against Plasmodium species
-- Diaphoretic and [diuretic](/ayurveda-atlas/reference/diuretic/): The combination induces perspiration and promotes urination, eliminating metabolic toxins and breaking the fever cycle
-- Agni-Ama axis regulation: Bitter-cool herbs clear Pitta and neutralize toxins while warming pungents (Shunthi, [Pippali](/ayurveda-atlas/herb/pippali/)) kindle Agni to metabolize Ama, restoring digestive equilibrium
+- [Antipyretic](/nighantu/reference/antipyretic/) pathway: Swertiamarin (terpenoid) in Swertia chirayita activates hypothalamic thermoregulatory centers and inhibits prostaglandin synthesis via COX-2 suppression, reducing fever
+- Antimalarial action: Chirayita and [Neem](/nighantu/herb/neem/) contain bitter compounds (swertiamarin, [nimbin](/nighantu/glossary/compounds-l-o/#nimbin)) with documented antiplasmodial activity against Plasmodium species
+- Diaphoretic and [diuretic](/nighantu/reference/diuretic/): The combination induces perspiration and promotes urination, eliminating metabolic toxins and breaking the fever cycle
+- Agni-Ama axis regulation: Bitter-cool herbs clear Pitta and neutralize toxins while warming pungents (Shunthi, [Pippali](/nighantu/herb/pippali/)) kindle Agni to metabolize Ama, restoring digestive equilibrium
 
 ## Which traditional uses are supported by research?
 
 - Fever management (Jwara Chikitsa) validated through pilot study showing 25% faster fever resolution compared to placebo
-- Antimalarial activity validated through documented antiplasmodial properties of Swertia chirata and [Neem](/ayurveda-atlas/herb/neem/)
-- [Antimicrobial](/ayurveda-atlas/reference/antimicrobial/) activity validated against gram-positive and gram-negative bacteria in disc diffusion assays
-- Appetite restoration and digestive improvement validated through Agni-enhancing mechanisms of [Trikatu](/ayurveda-atlas/herb/trikatu/) components
+- Antimalarial activity validated through documented antiplasmodial properties of Swertia chirata and [Neem](/nighantu/herb/neem/)
+- [Antimicrobial](/nighantu/reference/antimicrobial/) activity validated against gram-positive and gram-negative bacteria in disc diffusion assays
+- Appetite restoration and digestive improvement validated through Agni-enhancing mechanisms of [Trikatu](/nighantu/herb/trikatu/) components
 
 ## What do recent clinical trials show?
 
-- **A Critical Review on [Sudarshan Churna](/ayurveda-atlas/formulation/sudarshan-churna/)** (2022): Comprehensive review documented antipyretic, antimalarial, antiviral, [antidiabetic](/ayurveda-atlas/reference/antidiabetic/), antimicrobial activities with detailed pharmacological evidence for traditional fever management claims.
-- **Antimicrobial activity of aqueous extract of [Sudarshan Churna](/ayurveda-atlas/formulation/sudarshan-churna/) by paper disc diffusion method** (2019): Extract was found active against gram-negative bacteria K. pneumoniae, E. coli and gram-positive bacteria S. aureus and P. vulgaris.
-- **Pilot study on antipyretic efficacy of [Sudarshan Churna](/ayurveda-atlas/formulation/sudarshan-churna/)** (2019): 25% faster drop in fever among subjects taking 3g twice daily compared to placebo, with additional benefits on appetite and energy restoration.
+- **A Critical Review on [Sudarshan Churna](/nighantu/formulation/sudarshan-churna/)** (2022): Comprehensive review documented antipyretic, antimalarial, antiviral, [antidiabetic](/nighantu/reference/antidiabetic/), antimicrobial activities with detailed pharmacological evidence for traditional fever management claims.
+- **Antimicrobial activity of aqueous extract of [Sudarshan Churna](/nighantu/formulation/sudarshan-churna/) by paper disc diffusion method** (2019): Extract was found active against gram-negative bacteria K. pneumoniae, E. coli and gram-positive bacteria S. aureus and P. vulgaris.
+- **Pilot study on antipyretic efficacy of [Sudarshan Churna](/nighantu/formulation/sudarshan-churna/)** (2019): 25% faster drop in fever among subjects taking 3g twice daily compared to placebo, with additional benefits on appetite and energy restoration.
 
 ## Recent safety updates
 
@@ -94,9 +94,9 @@ Bhavaprakasha Nighantu (16th century); composed of 42 medicinal plants in the st
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
-**Marker Compounds:** Swertimerin, [Curcumin](/ayurveda-atlas/herb/curcumin/), [Tinosporin](/ayurveda-atlas/glossary/compounds-t-z/#tinosporin)
+**Marker Compounds:** Swertimerin, [Curcumin](/nighantu/herb/curcumin/), [Tinosporin](/nighantu/glossary/compounds-t-z/#tinosporin)
 
-**Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Swertimerin, [Curcumin](/ayurveda-atlas/herb/curcumin/), Tinosporin
+**Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Swertimerin, [Curcumin](/nighantu/herb/curcumin/), Tinosporin
 
 **Vehicle (Anupana):** Warm water
 

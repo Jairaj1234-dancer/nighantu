@@ -19,7 +19,7 @@ productHints: []
 words: 140
 srcRel: "Ayurveda/Medical-Devices/Diagnostic-Instruments/Urine-Examination-Vessel-Oil-Drop-Test/device-info.md"
 ---
-A vessel used for the traditional Ayurvedic urine examination (Mutra Pariksha) technique where a drop of [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) is placed on the surface of the patient's urine sample and the pattern of oil spread is observed for diagnostic assessment.
+A vessel used for the traditional Ayurvedic urine examination (Mutra Pariksha) technique where a drop of [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) is placed on the surface of the patient's urine sample and the pattern of oil spread is observed for diagnostic assessment.
 
 ## Where is it described in the classical texts?
 
@@ -33,7 +33,7 @@ Assessment of Dosha imbalance through urine analysis. The direction, speed, and 
 
 - Wide-mouthed earthen vessel
 - Glass vessel (modern)
-- [Sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) ([Tila](/ayurveda-atlas/herb/tila/) Taila) dropper
+- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) ([Tila](/nighantu/herb/tila/) Taila) dropper
 
 ## Modern variants
 

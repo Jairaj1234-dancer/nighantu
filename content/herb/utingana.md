@@ -49,17 +49,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Utingana/meta-analysis.md"
 
 **Standard Dosage:** 3-5 g powder twice daily; 50-100 mL decoction twice daily
 
-**Bioavailability:** [Alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) and [flavonoids](/ayurveda-atlas/reference/flavonoids/) show moderate oral bioavailability (20-35%). Polyphenolic compounds undergo Phase II hepatic conjugation. The saponin fraction is poorly absorbed (<10%) but contributes to local GI effects. Co-administration with [Trikatu](/ayurveda-atlas/herb/trikatu/) or [piperine](/ayurveda-atlas/reference/piperine/)-containing herbs can enhance systemic absorption of the alkaloid fraction.
+**Bioavailability:** [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) and [flavonoids](/nighantu/reference/flavonoids/) show moderate oral bioavailability (20-35%). Polyphenolic compounds undergo Phase II hepatic conjugation. The saponin fraction is poorly absorbed (<10%) but contributes to local GI effects. Co-administration with [Trikatu](/nighantu/herb/trikatu/) or [piperine](/nighantu/reference/piperine/)-containing herbs can enhance systemic absorption of the alkaloid fraction.
 
 **Optimal Timing:** After meals with warm water; morning and evening administration
 
-**Standardized Extract:** Hydroethanolic extract standardized to >2% total alkaloids (by titrimetric method) and >3% total flavonoids (as [quercetin](/ayurveda-atlas/reference/quercetinquercetin/) equivalent)
+**Standardized Extract:** Hydroethanolic extract standardized to >2% total alkaloids (by titrimetric method) and >3% total flavonoids (as [quercetin](/nighantu/reference/quercetinquercetin/) equivalent)
 
 **Shelf Life:** Powder: 12-18 months; Capsules/Tablets: 24 months; Decoction: prepare fresh daily
 
 **Storage:** Airtight, moisture-proof containers at 15-25 deg C, protected from light and humidity.
 
-**Marker Compounds:** Quercetin, [Rutin](/ayurveda-atlas/glossary/compounds-q-t/#rutin), [Kaempferol](/ayurveda-atlas/reference/kaempferol/), beta-[Sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), Gallic acid, Ursolic acid
+**Marker Compounds:** Quercetin, [Rutin](/nighantu/glossary/compounds-q-t/#rutin), [Kaempferol](/nighantu/reference/kaempferol/), beta-[Sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Gallic acid, Ursolic acid
 
 ### Extraction Methods
 
@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Utingana/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) (Tinospora cordifolia) - [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) combination
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) - [adaptogenic](/ayurveda-atlas/reference/adaptogenic/) synergy
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) - rejuvenative combination
-- Amalaki - [antioxidant](/ayurveda-atlas/reference/antioxidant/) potentiation
+- [Guduchi](/nighantu/herb/guduchi/) (Tinospora cordifolia) - [immunomodulatory](/nighantu/reference/immunomodulatory/) combination
+- [Ashwagandha](/nighantu/herb/ashwagandha/) - [adaptogenic](/nighantu/reference/adaptogenic/) synergy
+- [Shatavari](/nighantu/herb/shatavari/) - rejuvenative combination
+- Amalaki - [antioxidant](/nighantu/reference/antioxidant/) potentiation

@@ -23,23 +23,23 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Swarna-Vasant-Malt
 
 | Language | Name |
 |----------|------|
-| English | [Swarna Vasant Malti Ras](/ayurveda-atlas/herb/swarna-vasant-malti-ras/) |
+| English | [Swarna Vasant Malti Ras](/nighantu/herb/swarna-vasant-malti-ras/) |
 
 ## How does it work?
 
-- [Swarna Bhasma](/ayurveda-atlas/herb/swarna-bhasma/) (gold nanoparticles) acts as an immunomodulator and [Rasayana](/ayurveda-atlas/reference/rasayana/), enhancing cellular immunity and tissue regeneration through interactions with immune cell receptors
-- Mukta Bhasma provides bioavailable calcium and conchiolin [peptides](/ayurveda-atlas/glossary/compounds-o-q/#peptides) that exert cooling, anti-inflammatory and antacid effects, pacifying Pitta dosha
-- Gold preparation increases sperm motility and prostatic activity, suggesting a hormonal modulation mechanism relevant to its traditional use as a [Vajikarana](/ayurveda-atlas/glossary/pharmacology/#vajikarana) ([aphrodisiac](/ayurveda-atlas/glossary/pharmacology/#aphrodisiac))
+- [Swarna Bhasma](/nighantu/herb/swarna-bhasma/) (gold nanoparticles) acts as an immunomodulator and [Rasayana](/nighantu/reference/rasayana/), enhancing cellular immunity and tissue regeneration through interactions with immune cell receptors
+- Mukta Bhasma provides bioavailable calcium and conchiolin [peptides](/nighantu/glossary/compounds-o-q/#peptides) that exert cooling, anti-inflammatory and antacid effects, pacifying Pitta dosha
+- Gold preparation increases sperm motility and prostatic activity, suggesting a hormonal modulation mechanism relevant to its traditional use as a [Vajikarana](/nighantu/glossary/pharmacology/#vajikarana) ([aphrodisiac](/nighantu/glossary/pharmacology/#aphrodisiac))
 
 ## Which traditional uses are supported by research?
 
-- Rejuvenative and [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/): The clinical study confirmed systemic bioavailability of gold and absence of acute toxicity, partially supporting the traditional Rasayana (rejuvenative) claim, though large-scale controlled trials are needed
+- Rejuvenative and [immunomodulatory](/nighantu/reference/immunomodulatory/): The clinical study confirmed systemic bioavailability of gold and absence of acute toxicity, partially supporting the traditional Rasayana (rejuvenative) claim, though large-scale controlled trials are needed
 - Chronic fever and respiratory conditions: Traditional use in Jirna Jwara (chronic fever), Kasa (cough), and Shwasa (asthma) is empirically supported by clinical practice but lacks rigorous clinical trial validation
 
 ## What do recent clinical trials show?
 
-- **Evaluation of safety and efficacy of a gold containing Ayurvedic drug ([Swarna Vasant Malti Ras](/ayurveda-atlas/herb/swarna-vasant-malti-ras/))** (2002): 20 male individuals taking 100 mg twice daily for 40 days (cumulative gold intake: 160 mg at 4 mg/day) showed no toxic effects based on clinical examination, unaltered body weight, absence of urinary pathology, and 30 sensitive biochemical and enzymatic tests. Gold was found in plasma, erythrocytes, and semen.
-- **Pharmacological and toxicological insights into the ayurvedic formulation Rasasindura (relevant [mercury-sulfide](/ayurveda-atlas/glossary/compounds-l-o/#mercury-sulfide) compound studies)** (2025): Purified mercury-containing Ayurvedic preparations are safe at therapeutic concentrations when administered using a suitable vehicle; the Shodhana process converts mercury to an insoluble HgS form with reduced bioavailability, though higher concentrations could cause neurological toxicity.
+- **Evaluation of safety and efficacy of a gold containing Ayurvedic drug ([Swarna Vasant Malti Ras](/nighantu/herb/swarna-vasant-malti-ras/))** (2002): 20 male individuals taking 100 mg twice daily for 40 days (cumulative gold intake: 160 mg at 4 mg/day) showed no toxic effects based on clinical examination, unaltered body weight, absence of urinary pathology, and 30 sensitive biochemical and enzymatic tests. Gold was found in plasma, erythrocytes, and semen.
+- **Pharmacological and toxicological insights into the ayurvedic formulation Rasasindura (relevant [mercury-sulfide](/nighantu/glossary/compounds-l-o/#mercury-sulfide) compound studies)** (2025): Purified mercury-containing Ayurvedic preparations are safe at therapeutic concentrations when administered using a suitable vehicle; the Shodhana process converts mercury to an insoluble HgS form with reduced bioavailability, though higher concentrations could cause neurological toxicity.
 
 ## Recent safety updates
 
@@ -65,16 +65,16 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Swarna-Vasant-Malt
 
 **Bioavailability:** Excellent; gold-containing Rasaushadhi with broad-spectrum action
 
-**Optimal Timing:** Morning with honey and ghee; or with [Chyawanprash](/ayurveda-atlas/formulation/chyawanprash/)
+**Optimal Timing:** Morning with honey and ghee; or with [Chyawanprash](/nighantu/formulation/chyawanprash/)
 
-**Standardized Extract:** Kajjali + [Swarna Bhasma](/ayurveda-atlas/herb/swarna-bhasma/) + Mukta Bhasma + potent Rasayana herbs
+**Standardized Extract:** Kajjali + [Swarna Bhasma](/nighantu/herb/swarna-bhasma/) + Mukta Bhasma + potent Rasayana herbs
 
 **Shelf Life:** Indefinite
 
 **Storage:** Airtight, premium container
 
-**Marker Compounds:** Gold nanoparticles, Pearl calcium, Mercury sulfide, [Saffron](/ayurveda-atlas/herb/saffron/) (Kesar)
+**Marker Compounds:** Gold nanoparticles, Pearl calcium, Mercury sulfide, [Saffron](/nighantu/herb/saffron/) (Kesar)
 
 **Quality Parameters:** Gold content verified, pearl content, standard Rasaushadhi tests
 
-**Vehicle (Anupana):** Honey + ghee, [Chyawanprash](/ayurveda-atlas/formulation/chyawanprash/), [Guduchi](/ayurveda-atlas/herb/guduchi/) Swarasa, or milk
+**Vehicle (Anupana):** Honey + ghee, [Chyawanprash](/nighantu/formulation/chyawanprash/), [Guduchi](/nighantu/herb/guduchi/) Swarasa, or milk

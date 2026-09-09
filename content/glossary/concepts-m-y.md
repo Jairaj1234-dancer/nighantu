@@ -21,35 +21,35 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 #### Ayurveda Approach
 
-- [Vidarikand](/ayurveda-atlas/herb/vidarikand/) *Pueraria tuberosa (Willd.) DC.*
+- [Vidarikand](/nighantu/herb/vidarikand/) *Pueraria tuberosa (Willd.) DC.*
   Actions: Antioxidant, Anticancer, Aphrodisiac
-- [Kharjura](/ayurveda-atlas/herb/kharjura/) *Phoenix dactylifera L.*
+- [Kharjura](/nighantu/herb/kharjura/) *Phoenix dactylifera L.*
   Actions: Antioxidant, Anticancer, Aphrodisiac
-- [Giloy Satva](/ayurveda-atlas/herb/giloy-satva/) *Tinospora cordifolia (Willd.) Miers (aqueous starch extract)*
+- [Giloy Satva](/nighantu/herb/giloy-satva/) *Tinospora cordifolia (Willd.) Miers (aqueous starch extract)*
   Actions: Antioxidant, Anticancer, Adaptogenic
-- [Ajwain](/ayurveda-atlas/herb/ajwain/) *Trachyspermum ammi*
+- [Ajwain](/nighantu/herb/ajwain/) *Trachyspermum ammi*
   Actions: Antioxidant, Bronchodilator, Antidiabetic
-- [Nagabala](/ayurveda-atlas/herb/nagabala/) *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
+- [Nagabala](/nighantu/herb/nagabala/) *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
   Actions: Antioxidant, Aphrodisiac, Medhya (Nootropic)
-- [Akarakarabha](/ayurveda-atlas/herb/akarakarabha/) *Anacyclus pyrethrum (L.) Lag.*
+- [Akarakarabha](/nighantu/herb/akarakarabha/) *Anacyclus pyrethrum (L.) Lag.*
   Actions: Anticancer, Aphrodisiac, Wound Healing
-- [Danti](/ayurveda-atlas/herb/danti/) *Baliospermum montanum (Willd.) Muell.-Arg.*
+- [Danti](/nighantu/herb/danti/) *Baliospermum montanum (Willd.) Muell.-Arg.*
   Actions: Antioxidant, Anticancer, Hepatoprotective
-- [Mochras](/ayurveda-atlas/herb/mochras/) *Salmalia malabarica (DC.) Schott & Endl. (syn. Bombax ceiba L.) - resin exudate*
+- [Mochras](/nighantu/herb/mochras/) *Salmalia malabarica (DC.) Schott & Endl. (syn. Bombax ceiba L.) - resin exudate*
   Actions: Antioxidant, Aphrodisiac, Wound Healing
-- [Giloy](/ayurveda-atlas/herb/guduchi/) *Tinospora cordifolia*
+- [Giloy](/nighantu/herb/guduchi/) *Tinospora cordifolia*
   Actions: Antioxidant, Anticancer, Medhya (Nootropic)
-- [Kapittha](/ayurveda-atlas/herb/kapittha/) *Limonia acidissima Groff (syn. Feronia limonia (L.) Swingle)*
+- [Kapittha](/nighantu/herb/kapittha/) *Limonia acidissima Groff (syn. Feronia limonia (L.) Swingle)*
   Actions: Antioxidant, Anticancer, Wound Healing
-- [Rishabhaka](/ayurveda-atlas/herb/rishabhaka/) *Manilkara hexandra (Roxb.) Dubard*
+- [Rishabhaka](/nighantu/herb/rishabhaka/) *Manilkara hexandra (Roxb.) Dubard*
   Actions: Antioxidant, Aphrodisiac, Adaptogenic
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) *Tinospora cordifolia*
+- [Guduchi](/nighantu/herb/guduchi/) *Tinospora cordifolia*
   Actions: Antioxidant, Medhya (Nootropic), Adaptogenic
-- [Himsra](/ayurveda-atlas/herb/himsra/) *Capparis spinosa L.*
+- [Himsra](/nighantu/herb/himsra/) *Capparis spinosa L.*
   Actions: Antioxidant, Anticancer, Antidiabetic
-- [Saffron](/ayurveda-atlas/herb/saffron/) *Crocus sativus*
+- [Saffron](/nighantu/herb/saffron/) *Crocus sativus*
   Actions: Antioxidant, Anticancer, Aphrodisiac
-- [Ashoka](/ayurveda-atlas/herb/ashoka/)
+- [Ashoka](/nighantu/herb/ashoka/)
   Actions: Antioxidant, Anticancer, Hemostatic
 
 ### Mudga {#mudga}
@@ -111,11 +111,11 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 **Storage:** Cool, dry place; sprouts refrigerated
 
-**Marker Compounds:** Protein (24%), [Vitexin](/ayurveda-atlas/glossary/compounds-t-z/#vitexin), [Isovitexin](/ayurveda-atlas/glossary/compounds-g-l/#isovitexin), Iron, Dietary fiber
+**Marker Compounds:** Protein (24%), [Vitexin](/nighantu/glossary/compounds-t-z/#vitexin), [Isovitexin](/nighantu/glossary/compounds-g-l/#isovitexin), Iron, Dietary fiber
 
 **Quality Parameters:** Moisture <12%, germination rate >85% for sprout quality, no aflatoxin
 
-**Vehicle (Anupana):** Ghee; [cumin](/ayurveda-atlas/herb/cumin/)-[coriander](/ayurveda-atlas/herb/coriander/) seasoning for digestibility
+**Vehicle (Anupana):** Ghee; [cumin](/nighantu/herb/cumin/)-[coriander](/nighantu/herb/coriander/) seasoning for digestibility
 
 ### Nag Bhasma {#nag-bhasma}
 
@@ -123,7 +123,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 | Language | Name |
 |----------|------|
-| English | [Nag Bhasma](/ayurveda-atlas/glossary/concepts-m-y/#nag-bhasma) |
+| English | [Nag Bhasma](/nighantu/glossary/concepts-m-y/#nag-bhasma) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -171,7 +171,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 | Language | Name |
 |----------|------|
-| English | [Narikela](/ayurveda-atlas/herb/narikela/) Lavana |
+| English | [Narikela](/nighantu/herb/narikela/) Lavana |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -207,7 +207,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 **Storage:** Airtight container; moisture-protected
 
-**Marker Compounds:** Sodium chloride, [Potassium](/ayurveda-atlas/glossary/compounds-o-q/#potassium) carbonate (from coconut ash), Coconut carbon, Trace minerals
+**Marker Compounds:** Sodium chloride, [Potassium](/nighantu/glossary/compounds-o-q/#potassium) carbonate (from coconut ash), Coconut carbon, Trace minerals
 
 **Quality Parameters:** Chloride content as labeled, heavy metals within limits, no excess free alkali
 
@@ -219,7 +219,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 | Language | Name |
 |----------|------|
-| English | [Navakarshika Churna](/ayurveda-atlas/glossary/concepts-m-y/#navakarshika-churna) |
+| English | [Navakarshika Churna](/nighantu/glossary/concepts-m-y/#navakarshika-churna) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -253,9 +253,9 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
-**Marker Compounds:** Gallic acid, [Tinosporin](/ayurveda-atlas/glossary/compounds-t-z/#tinosporin), [Berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine)
+**Marker Compounds:** Gallic acid, [Tinosporin](/nighantu/glossary/compounds-t-z/#tinosporin), [Berberine](/nighantu/glossary/compounds-a-c/#berberine)
 
-**Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Gallic acid, Tinosporin, [Berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine)
+**Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Gallic acid, Tinosporin, [Berberine](/nighantu/glossary/compounds-a-c/#berberine)
 
 **Vehicle (Anupana):** Warm water
 
@@ -299,13 +299,13 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 **Optimal Timing:** With meals
 
-**Standardized Extract:** N/A — dairy product; precursor for [Ghrita](/ayurveda-atlas/herb/ghrita/) preparation
+**Standardized Extract:** N/A — dairy product; precursor for [Ghrita](/nighantu/herb/ghrita/) preparation
 
 **Shelf Life:** 5–7 days refrigerated
 
 **Storage:** Refrigerated at 4°C
 
-**Marker Compounds:** Milk fat (80%+), Fat-soluble [vitamins](/ayurveda-atlas/glossary/compounds-t-z/#vitamins), Short-chain fatty acids
+**Marker Compounds:** Milk fat (80%+), Fat-soluble [vitamins](/nighantu/glossary/compounds-t-z/#vitamins), Short-chain fatty acids
 
 **Quality Parameters:** Fat >80%, moisture <16%, no rancidity
 
@@ -317,7 +317,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 | Language | Name |
 |----------|------|
-| English | [Nimba](/ayurveda-atlas/herb/nimba/) Taila |
+| English | [Nimba](/nighantu/herb/nimba/) Taila |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -339,11 +339,11 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 #### Dosage forms and preparation
 
-**Dosage Forms:** Thailam (medicated [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)), External application
+**Dosage Forms:** Thailam (medicated [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)), External application
 
 **Standard Dosage:** External application for skin conditions
 
-**Bioavailability:** Oil base ([sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
+**Bioavailability:** Oil base ([sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
 
 **Optimal Timing:** External: before bath or at bedtime. Internal: before meals
 
@@ -351,7 +351,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 **Storage:** Airtight amber glass/HDPE container, room temperature, protected from light
 
-**Marker Compounds:** [Azadirachtin](/ayurveda-atlas/glossary/compounds-a-c/#azadirachtin), [Nimbin](/ayurveda-atlas/glossary/compounds-l-o/#nimbin), [Nimbidin](/ayurveda-atlas/glossary/compounds-l-o/#nimbidin)
+**Marker Compounds:** [Azadirachtin](/nighantu/glossary/compounds-a-c/#azadirachtin), [Nimbin](/nighantu/glossary/compounds-l-o/#nimbin), [Nimbidin](/nighantu/glossary/compounds-l-o/#nimbidin)
 
 **Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Azadirachtin, Nimbin, Nimbidin
 
@@ -359,7 +359,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 ### Synergistic Combinations
 
-- Key herbs: [Nimba](/ayurveda-atlas/herb/nimba/) ([neem](/ayurveda-atlas/herb/neem/)) leaves and bark; oil base acts as lipid carrier for enhanced tissue penetration
+- Key herbs: [Nimba](/nighantu/herb/nimba/) ([neem](/nighantu/herb/neem/)) leaves and bark; oil base acts as lipid carrier for enhanced tissue penetration
 
 ### Nimbadi Churna {#nimbadi-churna}
 
@@ -367,7 +367,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 | Language | Name |
 |----------|------|
-| English | [Nimbadi Churna](/ayurveda-atlas/glossary/concepts-m-y/#nimbadi-churna) |
+| English | [Nimbadi Churna](/nighantu/glossary/concepts-m-y/#nimbadi-churna) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -401,9 +401,9 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
-**Marker Compounds:** [Azadirachtin](/ayurveda-atlas/glossary/compounds-a-c/#azadirachtin), [Curcumin](/ayurveda-atlas/herb/curcumin/), Gallic acid
+**Marker Compounds:** [Azadirachtin](/nighantu/glossary/compounds-a-c/#azadirachtin), [Curcumin](/nighantu/herb/curcumin/), Gallic acid
 
-**Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Azadirachtin, [Curcumin](/ayurveda-atlas/herb/curcumin/), Gallic acid
+**Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Azadirachtin, [Curcumin](/nighantu/herb/curcumin/), Gallic acid
 
 **Vehicle (Anupana):** Warm water
 
@@ -417,7 +417,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 | Language | Name |
 |----------|------|
-| English | [Nirgundi](/ayurveda-atlas/herb/nirgundi/) Ghana Vati |
+| English | [Nirgundi](/nighantu/herb/nirgundi/) Ghana Vati |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -443,7 +443,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 **Standard Dosage:** 2 tablets thrice daily
 
-**Bioavailability:** Tablet/pill form provides controlled disintegration; some vatis use honey/[guggulu](/ayurveda-atlas/formulation/guggulu/) as bioenhancing binders
+**Bioavailability:** Tablet/pill form provides controlled disintegration; some vatis use honey/[guggulu](/nighantu/formulation/guggulu/) as bioenhancing binders
 
 **Optimal Timing:** Before or after meals as indicated
 
@@ -451,7 +451,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
-**Marker Compounds:** [Casticin](/ayurveda-atlas/glossary/compounds-c-d/#casticin), [Agnuside](/ayurveda-atlas/glossary/compounds-1-a/#agnuside), [Vitexin](/ayurveda-atlas/glossary/compounds-t-z/#vitexin)
+**Marker Compounds:** [Casticin](/nighantu/glossary/compounds-c-d/#casticin), [Agnuside](/nighantu/glossary/compounds-1-a/#agnuside), [Vitexin](/nighantu/glossary/compounds-t-z/#vitexin)
 
 **Quality Parameters:** Weight variation ±5%, disintegration <30 min, friability <1%, marker: Casticin, Agnuside, Vitexin
 
@@ -459,7 +459,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 ### Synergistic Combinations
 
-- Key herbs: [Nirgundi](/ayurveda-atlas/herb/nirgundi/) (Vitex negundo) aqueous extract, concentrated (ghana)
+- Key herbs: [Nirgundi](/nighantu/herb/nirgundi/) (Vitex negundo) aqueous extract, concentrated (ghana)
 
 ### Nirgundi Taila {#nirgundi-taila}
 
@@ -467,7 +467,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 | Language | Name |
 |----------|------|
-| English | [Nirgundi](/ayurveda-atlas/herb/nirgundi/) Taila |
+| English | [Nirgundi](/nighantu/herb/nirgundi/) Taila |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -489,11 +489,11 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 #### Dosage forms and preparation
 
-**Dosage Forms:** Thailam (medicated [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)), External application
+**Dosage Forms:** Thailam (medicated [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)), External application
 
 **Standard Dosage:** External massage for joint pain
 
-**Bioavailability:** Oil base ([sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
+**Bioavailability:** Oil base ([sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
 
 **Optimal Timing:** External: before bath or at bedtime. Internal: before meals
 
@@ -501,7 +501,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 **Storage:** Airtight amber glass/HDPE container, room temperature, protected from light
 
-**Marker Compounds:** [Casticin](/ayurveda-atlas/glossary/compounds-c-d/#casticin), [Agnuside](/ayurveda-atlas/glossary/compounds-1-a/#agnuside)
+**Marker Compounds:** [Casticin](/nighantu/glossary/compounds-c-d/#casticin), [Agnuside](/nighantu/glossary/compounds-1-a/#agnuside)
 
 **Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Casticin, Agnuside
 
@@ -509,7 +509,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 ### Synergistic Combinations
 
-- Key herbs: [Nirgundi](/ayurveda-atlas/herb/nirgundi/) (Vitex negundo); oil base acts as lipid carrier for enhanced tissue penetration
+- Key herbs: [Nirgundi](/nighantu/herb/nirgundi/) (Vitex negundo); oil base acts as lipid carrier for enhanced tissue penetration
 
 ### Panchamla Thailam {#panchamla-thailam}
 
@@ -517,16 +517,16 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 | Language | Name |
 |----------|------|
-| English | [Panchamla Thailam](/ayurveda-atlas/glossary/concepts-m-y/#panchamla-thailam) |
+| English | [Panchamla Thailam](/nighantu/glossary/concepts-m-y/#panchamla-thailam) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| **Rasa** (Taste) | [Amla](/ayurveda-atlas/herb/amla/) | Primary taste |
+| **Rasa** (Taste) | [Amla](/nighantu/herb/amla/) | Primary taste |
 | **Guna** (Quality) | Snigdha, Tikshna | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
-| **Vipaka** (Post-digestive) | [Amla](/ayurveda-atlas/herb/amla/) | Post-digestive effect |
+| **Vipaka** (Post-digestive) | [Amla](/nighantu/herb/amla/) | Post-digestive effect |
 
 #### What is it made of?
 
@@ -539,11 +539,11 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 #### Dosage forms and preparation
 
-**Dosage Forms:** Thailam (medicated [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)), External application
+**Dosage Forms:** Thailam (medicated [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)), External application
 
 **Standard Dosage:** External application for Vata disorders
 
-**Bioavailability:** Oil base ([sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
+**Bioavailability:** Oil base ([sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
 
 **Optimal Timing:** External: before bath or at bedtime. Internal: before meals
 
@@ -551,15 +551,15 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 **Storage:** Airtight amber glass/HDPE container, room temperature, protected from light
 
-**Marker Compounds:** [Citric acid](/ayurveda-atlas/glossary/compounds-c-d/#citric-acidcitric-acid), Gallic acid
+**Marker Compounds:** [Citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid), Gallic acid
 
-**Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: [Citric acid](/ayurveda-atlas/glossary/compounds-c-d/#citric-acidcitric-acid), Gallic acid
+**Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: [Citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid), Gallic acid
 
 **Vehicle (Anupana):** External: massage into affected area. Internal: with warm water/milk
 
 ### Synergistic Combinations
 
-- Key herbs: 5 sour substances: [Amla](/ayurveda-atlas/herb/amla/), [Dadima](/ayurveda-atlas/herb/dadima/), [Changeri](/ayurveda-atlas/herb/changeri/), [Bijapura](/ayurveda-atlas/herb/bijapura/), [Matulunga](/ayurveda-atlas/herb/matulunga/); oil base acts as lipid carrier for enhanced tissue penetration
+- Key herbs: 5 sour substances: [Amla](/nighantu/herb/amla/), [Dadima](/nighantu/herb/dadima/), [Changeri](/nighantu/herb/changeri/), [Bijapura](/nighantu/herb/bijapura/), [Matulunga](/nighantu/herb/matulunga/); oil base acts as lipid carrier for enhanced tissue penetration
 
 ### Panchavalkala Kwath {#panchavalkala-kwath}
 
@@ -567,7 +567,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 | Language | Name |
 |----------|------|
-| English | [Panchavalkala Kwath](/ayurveda-atlas/glossary/concepts-m-y/#panchavalkala-kwath) |
+| English | [Panchavalkala Kwath](/nighantu/glossary/concepts-m-y/#panchavalkala-kwath) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -601,7 +601,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 **Storage:** Fresh: refrigerate, use within 24h. Tablet/liquid: cool dry place, airtight
 
-**Marker Compounds:** [Tannins](/ayurveda-atlas/reference/tannins/), [Flavonoids](/ayurveda-atlas/reference/flavonoids/)
+**Marker Compounds:** [Tannins](/nighantu/reference/tannins/), [Flavonoids](/nighantu/reference/flavonoids/)
 
 **Quality Parameters:** pH 4.0-6.5, specific gravity 1.01-1.05, total solids 2-8%, marker assay: Tannins, Flavonoids
 
@@ -609,7 +609,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 ### Synergistic Combinations
 
-- Classical combination of 5 barks: Vata, [Udumbara](/ayurveda-atlas/herb/udumbara/), [Ashwattha](/ayurveda-atlas/herb/ashwattha/), [Plaksha](/ayurveda-atlas/herb/plaksha/), Parisha provides synergistic therapeutic effect
+- Classical combination of 5 barks: Vata, [Udumbara](/nighantu/herb/udumbara/), [Ashwattha](/nighantu/herb/ashwattha/), [Plaksha](/nighantu/herb/plaksha/), Parisha provides synergistic therapeutic effect
 
 ### Parpatakarishta {#parpatakarishta}
 
@@ -651,7 +651,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 **Storage:** Room temperature, tightly sealed, away from direct sunlight. Do not refrigerate.
 
-**Marker Compounds:** Fumarine, [Protopine](/ayurveda-atlas/glossary/compounds-o-q/#protopine)
+**Marker Compounds:** Fumarine, [Protopine](/nighantu/glossary/compounds-o-q/#protopine)
 
 **Quality Parameters:** Alcohol content 5-12% v/v, pH 3.0-4.5, specific gravity 1.01-1.08, total solids 15-25%, marker: Fumarine, Protopine
 
@@ -659,7 +659,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 ### Synergistic Combinations
 
-- Key herbs: [Parpataka](/ayurveda-atlas/herb/parpataka/) (Fumaria), [Dhataki](/ayurveda-atlas/herb/dhataki/), [Guda](/ayurveda-atlas/glossary/concepts-a-m/#guda); fermentation creates unique metabolite profile with enhanced therapeutic activity
+- Key herbs: [Parpataka](/nighantu/herb/parpataka/) (Fumaria), [Dhataki](/nighantu/herb/dhataki/), [Guda](/nighantu/glossary/concepts-a-m/#guda); fermentation creates unique metabolite profile with enhanced therapeutic activity
 
 ### Patolamuladi Kwath {#patolamuladi-kwath}
 
@@ -667,7 +667,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 | Language | Name |
 |----------|------|
-| English | [Patolamuladi Kwath](/ayurveda-atlas/glossary/concepts-m-y/#patolamuladi-kwath) |
+| English | [Patolamuladi Kwath](/nighantu/glossary/concepts-m-y/#patolamuladi-kwath) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -701,7 +701,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 **Storage:** Fresh: refrigerate, use within 24h. Tablet/liquid: cool dry place, airtight
 
-**Marker Compounds:** Cucurbitacin B, Kutkin, [Tinosporin](/ayurveda-atlas/glossary/compounds-t-z/#tinosporin)
+**Marker Compounds:** Cucurbitacin B, Kutkin, [Tinosporin](/nighantu/glossary/compounds-t-z/#tinosporin)
 
 **Quality Parameters:** pH 4.0-6.5, specific gravity 1.01-1.05, total solids 2-8%, marker assay: Cucurbitacin B, Kutkin, Tinosporin
 
@@ -709,7 +709,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 ### Synergistic Combinations
 
-- Classical combination of [Patola](/ayurveda-atlas/herb/patola/), [Katuki](/ayurveda-atlas/herb/katuki/), [Guduchi](/ayurveda-atlas/herb/guduchi/), [Nimba](/ayurveda-atlas/herb/nimba/) provides synergistic therapeutic effect
+- Classical combination of [Patola](/nighantu/herb/patola/), [Katuki](/nighantu/herb/katuki/), [Guduchi](/nighantu/herb/guduchi/), [Nimba](/nighantu/herb/nimba/) provides synergistic therapeutic effect
 
 ### Phala Kalyana Ghrita {#phala-kalyana-ghrita}
 
@@ -717,7 +717,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 | Language | Name |
 |----------|------|
-| English | Phala Kalyana [Ghrita](/ayurveda-atlas/herb/ghrita/)|Phala Kalyana Ghrita |
+| English | Phala Kalyana [Ghrita](/nighantu/herb/ghrita/)|Phala Kalyana Ghrita |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -739,7 +739,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 #### Dosage forms and preparation
 
-**Dosage Forms:** [Ghrita](/ayurveda-atlas/herb/ghrita/) (medicated ghee), Capsule (for convenience)
+**Dosage Forms:** [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Capsule (for convenience)
 
 **Standard Dosage:** 12-24ml with milk for fertility
 
@@ -747,7 +747,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 **Optimal Timing:** Before meals on empty stomach for best absorption
 
-**Shelf Life:** 2 years (as per ASU guidelines for [ghrita](/ayurveda-atlas/herb/ghrita/) preparations); improves with aging (Purana Ghrita concept)
+**Shelf Life:** 2 years (as per ASU guidelines for [ghrita](/nighantu/herb/ghrita/) preparations); improves with aging (Purana Ghrita concept)
 
 **Storage:** Airtight glass/stainless steel container, cool dry place, protected from light and moisture
 
@@ -759,7 +759,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 ### Synergistic Combinations
 
-- Key herbs: Kashmari, [Brihati](/ayurveda-atlas/herb/brihati/), Shalaparni, fertility herbs + milk; ghee enhances tissue penetration (yogavahi property)
+- Key herbs: Kashmari, [Brihati](/nighantu/herb/brihati/), Shalaparni, fertility herbs + milk; ghee enhances tissue penetration (yogavahi property)
 
 ### Phalatrikadi Kwath {#phalatrikadi-kwath}
 
@@ -767,7 +767,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 | Language | Name |
 |----------|------|
-| English | [Phalatrikadi Kwath](/ayurveda-atlas/glossary/concepts-m-y/#phalatrikadi-kwath) |
+| English | [Phalatrikadi Kwath](/nighantu/glossary/concepts-m-y/#phalatrikadi-kwath) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -801,7 +801,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 **Storage:** Fresh: refrigerate, use within 24h. Tablet/liquid: cool dry place, airtight
 
-**Marker Compounds:** Gallic acid, [Tinosporin](/ayurveda-atlas/glossary/compounds-t-z/#tinosporin)
+**Marker Compounds:** Gallic acid, [Tinosporin](/nighantu/glossary/compounds-t-z/#tinosporin)
 
 **Quality Parameters:** pH 4.0-6.5, specific gravity 1.01-1.05, total solids 2-8%, marker assay: Gallic acid, Tinosporin
 
@@ -809,7 +809,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 ### Synergistic Combinations
 
-- Classical combination of [Triphala](/ayurveda-atlas/herb/triphala/), [Guduchi](/ayurveda-atlas/herb/guduchi/), Musta provides synergistic therapeutic effect
+- Classical combination of [Triphala](/nighantu/herb/triphala/), [Guduchi](/nighantu/herb/guduchi/), Musta provides synergistic therapeutic effect
 
 ### Phanita {#phanita}
 
@@ -853,7 +853,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 **Storage:** Cool, dry place; airtight container
 
-**Marker Compounds:** [Sucrose](/ayurveda-atlas/glossary/compounds-q-t/#sucrose), [Glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose), [Fructose](/ayurveda-atlas/glossary/compounds-d-g/#fructose), Iron, Minerals
+**Marker Compounds:** [Sucrose](/nighantu/glossary/compounds-q-t/#sucrose), [Glucose](/nighantu/glossary/compounds-d-g/#glucose), [Fructose](/nighantu/glossary/compounds-d-g/#fructose), Iron, Minerals
 
 **Quality Parameters:** Brix 65–70°, no fermentation, no adulteration
 
@@ -865,60 +865,60 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 #### Single Herbs (28)
 
-- [Chandana](/ayurveda-atlas/herb/chandana/) — *Santalum album L.*
-- [Coriander](/ayurveda-atlas/herb/coriander/)
-- [Coriander Herb](/ayurveda-atlas/herb/coriander-herb/)
-- [Dhataki](/ayurveda-atlas/herb/dhataki/)
-- [Durva](/ayurveda-atlas/herb/durva/)
-- [Gambhari Phala](/ayurveda-atlas/herb/gambhari-phala/) — *Gmelina arborea Roxb.*
-- [Hrivera](/ayurveda-atlas/herb/hrivera/)
-- [Ikshu](/ayurveda-atlas/herb/ikshu/)
-- [Jati](/ayurveda-atlas/herb/jati/)
-- [Kamala](/ayurveda-atlas/herb/kamala/) — *Nelumbo nucifera Gaertn.*
-- [Kumbhika](/ayurveda-atlas/herb/kumbhika/)
-- [Kumud](/ayurveda-atlas/herb/kumud/)
-- [Kumuda](/ayurveda-atlas/herb/kumuda/)
-- [Madayantika](/ayurveda-atlas/herb/madayantika/)
-- [Nagakesara](/ayurveda-atlas/herb/nagakesara/)
-- [Palankya](/ayurveda-atlas/herb/palankya/) — *Spinacia oleracea L.*
-- [Rohisha](/ayurveda-atlas/herb/rohisha/)
-- [Saffron](/ayurveda-atlas/herb/saffron/) — *Crocus sativus*
-- [Saireyaka](/ayurveda-atlas/herb/saireyaka/)
-- [Sariva](/ayurveda-atlas/herb/sariva/) — *Hemidesmus indicus*
-- [Sharapunkha](/ayurveda-atlas/herb/sharapunkha/)
-- [Shrigataka](/ayurveda-atlas/herb/shrigataka/) — *Trapa natans L. (syn. Trapa bispinosa Roxb.)*
-- [Taruni](/ayurveda-atlas/herb/taruni/)
-- [Trapusha](/ayurveda-atlas/herb/trapusha/)
-- [Triphala Herbs](/ayurveda-atlas/herb/triphala-herbs/)
-- [Ushira](/ayurveda-atlas/herb/ushira/) — *Vetiveria zizanioides (L.) Nash (syn. Chrysopogon zizanioides (L.) Roberty)*
-- [Utpala](/ayurveda-atlas/herb/utpala/)
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/)
+- [Chandana](/nighantu/herb/chandana/) — *Santalum album L.*
+- [Coriander](/nighantu/herb/coriander/)
+- [Coriander Herb](/nighantu/herb/coriander-herb/)
+- [Dhataki](/nighantu/herb/dhataki/)
+- [Durva](/nighantu/herb/durva/)
+- [Gambhari Phala](/nighantu/herb/gambhari-phala/) — *Gmelina arborea Roxb.*
+- [Hrivera](/nighantu/herb/hrivera/)
+- [Ikshu](/nighantu/herb/ikshu/)
+- [Jati](/nighantu/herb/jati/)
+- [Kamala](/nighantu/herb/kamala/) — *Nelumbo nucifera Gaertn.*
+- [Kumbhika](/nighantu/herb/kumbhika/)
+- [Kumud](/nighantu/herb/kumud/)
+- [Kumuda](/nighantu/herb/kumuda/)
+- [Madayantika](/nighantu/herb/madayantika/)
+- [Nagakesara](/nighantu/herb/nagakesara/)
+- [Palankya](/nighantu/herb/palankya/) — *Spinacia oleracea L.*
+- [Rohisha](/nighantu/herb/rohisha/)
+- [Saffron](/nighantu/herb/saffron/) — *Crocus sativus*
+- [Saireyaka](/nighantu/herb/saireyaka/)
+- [Sariva](/nighantu/herb/sariva/) — *Hemidesmus indicus*
+- [Sharapunkha](/nighantu/herb/sharapunkha/)
+- [Shrigataka](/nighantu/herb/shrigataka/) — *Trapa natans L. (syn. Trapa bispinosa Roxb.)*
+- [Taruni](/nighantu/herb/taruni/)
+- [Trapusha](/nighantu/herb/trapusha/)
+- [Triphala Herbs](/nighantu/herb/triphala-herbs/)
+- [Ushira](/nighantu/herb/ushira/) — *Vetiveria zizanioides (L.) Nash (syn. Chrysopogon zizanioides (L.) Roberty)*
+- [Utpala](/nighantu/herb/utpala/)
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/)
 
 #### Classical Formulations (6)
 
-- [Coconut Oil Narikela Taila](/ayurveda-atlas/formulation/coconut-oil-narikela-taila/)
-- [Himasagara Thailam](/ayurveda-atlas/formulation/himasagara-thailam/)
-- [Kalyanaka Ghritam](/ayurveda-atlas/formulation/kalyanaka-ghritam/)
-- [Kushmanda Khanda](/ayurveda-atlas/glossary/concepts-a-m/#kushmanda-khanda)
-- [Panchatikta Ghrita](/ayurveda-atlas/formulation/panchatikta-ghrita/)
-- [Srikhandasava](/ayurveda-atlas/formulation/srikhandasava/)
+- [Coconut Oil Narikela Taila](/nighantu/formulation/coconut-oil-narikela-taila/)
+- [Himasagara Thailam](/nighantu/formulation/himasagara-thailam/)
+- [Kalyanaka Ghritam](/nighantu/formulation/kalyanaka-ghritam/)
+- [Kushmanda Khanda](/nighantu/glossary/concepts-a-m/#kushmanda-khanda)
+- [Panchatikta Ghrita](/nighantu/formulation/panchatikta-ghrita/)
+- [Srikhandasava](/nighantu/formulation/srikhandasava/)
 
 #### Other Preparations (10)
 
-- [Akika Pishti](/ayurveda-atlas/herb/akika-pishti/)
-- [Coconut Oil](/ayurveda-atlas/glossary/concepts-a-m/#coconut-oil)
-- [Godanti Bhasma](/ayurveda-atlas/herb/godanti-bhasma/)
-- [Laghu Sutshekhar Ras](/ayurveda-atlas/herb/laghu-sutshekhar-ras/)
-- [Mukta Pishti](/ayurveda-atlas/herb/mukta-pishti/)
-- [Panna Pishti](/ayurveda-atlas/herb/panna-pishti/)
-- [Pravala Pishti](/ayurveda-atlas/herb/pravala-pishti/)
-- [Shankha Bhasma](/ayurveda-atlas/herb/shankha-bhasma/)
-- [Sita](/ayurveda-atlas/glossary/concepts-m-y/#sita)
-- [Tapyadi Loha](/ayurveda-atlas/herb/tapyadi-loha/)
+- [Akika Pishti](/nighantu/herb/akika-pishti/)
+- [Coconut Oil](/nighantu/glossary/concepts-a-m/#coconut-oil)
+- [Godanti Bhasma](/nighantu/herb/godanti-bhasma/)
+- [Laghu Sutshekhar Ras](/nighantu/herb/laghu-sutshekhar-ras/)
+- [Mukta Pishti](/nighantu/herb/mukta-pishti/)
+- [Panna Pishti](/nighantu/herb/panna-pishti/)
+- [Pravala Pishti](/nighantu/herb/pravala-pishti/)
+- [Shankha Bhasma](/nighantu/herb/shankha-bhasma/)
+- [Sita](/nighantu/glossary/concepts-m-y/#sita)
+- [Tapyadi Loha](/nighantu/herb/tapyadi-loha/)
 
 #### See Also
 
-- [Vata-Balancing Herbs](/ayurveda-atlas/glossary/concepts-m-y/#vata-balancing)
+- [Vata-Balancing Herbs](/nighantu/glossary/concepts-m-y/#vata-balancing)
 
 ### Prabhakar Vati {#prabhakar-vati}
 
@@ -926,7 +926,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 | Language | Name |
 |----------|------|
-| English | [Prabhakar Vati](/ayurveda-atlas/glossary/concepts-m-y/#prabhakar-vati) |
+| English | [Prabhakar Vati](/nighantu/glossary/concepts-m-y/#prabhakar-vati) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -952,7 +952,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 **Standard Dosage:** 2 tablets twice daily for cardiac health
 
-**Bioavailability:** Tablet/pill form provides controlled disintegration; some vatis use honey/[guggulu](/ayurveda-atlas/formulation/guggulu/) as bioenhancing binders
+**Bioavailability:** Tablet/pill form provides controlled disintegration; some vatis use honey/[guggulu](/nighantu/formulation/guggulu/) as bioenhancing binders
 
 **Optimal Timing:** Before or after meals as indicated
 
@@ -968,7 +968,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 ### Synergistic Combinations
 
-- Key herbs: [Arjuna](/ayurveda-atlas/herb/arjuna/), [Shilajit](/ayurveda-atlas/herb/shilajit/), [Guggulu](/ayurveda-atlas/formulation/guggulu/), minerals
+- Key herbs: [Arjuna](/nighantu/herb/arjuna/), [Shilajit](/nighantu/herb/shilajit/), [Guggulu](/nighantu/formulation/guggulu/), minerals
 
 ### Rajamasha {#rajamasha}
 
@@ -1022,7 +1022,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 | Language | Name |
 |----------|------|
-| English | [Rajapravartini Vati](/ayurveda-atlas/glossary/concepts-m-y/#rajapravartini-vati) |
+| English | [Rajapravartini Vati](/nighantu/glossary/concepts-m-y/#rajapravartini-vati) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -1048,7 +1048,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 **Standard Dosage:** 1-2 tablets twice daily
 
-**Bioavailability:** Tablet/pill form provides controlled disintegration; some vatis use honey/[guggulu](/ayurveda-atlas/formulation/guggulu/) as bioenhancing binders
+**Bioavailability:** Tablet/pill form provides controlled disintegration; some vatis use honey/[guggulu](/nighantu/formulation/guggulu/) as bioenhancing binders
 
 **Optimal Timing:** Before or after meals as indicated
 
@@ -1064,7 +1064,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 ### Synergistic Combinations
 
-- Key herbs: [Kasis bhasma](/ayurveda-atlas/herb/kasis-bhasma/), [Hingu](/ayurveda-atlas/herb/hingu/), Tankan, Aloe
+- Key herbs: [Kasis bhasma](/nighantu/herb/kasis-bhasma/), [Hingu](/nighantu/herb/hingu/), Tankan, Aloe
 
 ### Rasnadi Kwath {#rasnadi-kwath}
 
@@ -1072,7 +1072,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 | Language | Name |
 |----------|------|
-| English | [Rasnadi Kwath](/ayurveda-atlas/glossary/concepts-m-y/#rasnadi-kwath) |
+| English | [Rasnadi Kwath](/nighantu/glossary/concepts-m-y/#rasnadi-kwath) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -1106,7 +1106,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 **Storage:** Fresh: refrigerate, use within 24h. Tablet/liquid: cool dry place, airtight
 
-**Marker Compounds:** Isorasnol, [Tinosporin](/ayurveda-atlas/glossary/compounds-t-z/#tinosporin)
+**Marker Compounds:** Isorasnol, [Tinosporin](/nighantu/glossary/compounds-t-z/#tinosporin)
 
 **Quality Parameters:** pH 4.0-6.5, specific gravity 1.01-1.05, total solids 2-8%, marker assay: Isorasnol, Tinosporin
 
@@ -1114,7 +1114,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 ### Synergistic Combinations
 
-- Classical combination of [Rasna](/ayurveda-atlas/herb/rasna/), [Guduchi](/ayurveda-atlas/herb/guduchi/), [Devadaru](/ayurveda-atlas/herb/devadaru/), [Eranda](/ayurveda-atlas/herb/eranda/) mula provides synergistic therapeutic effect
+- Classical combination of [Rasna](/nighantu/herb/rasna/), [Guduchi](/nighantu/herb/guduchi/), [Devadaru](/nighantu/herb/devadaru/), [Eranda](/nighantu/herb/eranda/) mula provides synergistic therapeutic effect
 
 ### Rasnairandadi Kwath {#rasnairandadi-kwath}
 
@@ -1122,7 +1122,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 | Language | Name |
 |----------|------|
-| English | [Rasnairandadi Kwath](/ayurveda-atlas/glossary/concepts-m-y/#rasnairandadi-kwath) |
+| English | [Rasnairandadi Kwath](/nighantu/glossary/concepts-m-y/#rasnairandadi-kwath) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -1164,7 +1164,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 ### Synergistic Combinations
 
-- Classical combination of [Rasna](/ayurveda-atlas/herb/rasna/), [Eranda](/ayurveda-atlas/herb/eranda/), [Guduchi](/ayurveda-atlas/herb/guduchi/), [Devadaru](/ayurveda-atlas/herb/devadaru/), [Dashamoola](/ayurveda-atlas/herb/dashamoola/) provides synergistic therapeutic effect
+- Classical combination of [Rasna](/nighantu/herb/rasna/), [Eranda](/nighantu/herb/eranda/), [Guduchi](/nighantu/herb/guduchi/), [Devadaru](/nighantu/herb/devadaru/), [Dashamoola](/nighantu/herb/dashamoola/) provides synergistic therapeutic effect
 
 ### Respiratory Health — Across Traditions {#respiratory-health-across-traditions}
 
@@ -1177,35 +1177,35 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 #### Ayurveda Approach
 
-- [Ajwain](/ayurveda-atlas/herb/ajwain/) *Trachyspermum ammi*
+- [Ajwain](/nighantu/herb/ajwain/) *Trachyspermum ammi*
   Actions: Antioxidant, Bronchodilator, Antidiabetic
-- [Pippali Moola](/ayurveda-atlas/herb/pippali-moola/) *Piper longum L. (root)*
+- [Pippali Moola](/nighantu/herb/pippali-moola/) *Piper longum L. (root)*
   Actions: Antioxidant, Anticancer, Bronchodilator
-- [Shati](/ayurveda-atlas/herb/shati/) *Hedychium spicatum Buch.-Ham. ex Sm.*
+- [Shati](/nighantu/herb/shati/) *Hedychium spicatum Buch.-Ham. ex Sm.*
   Actions: Antioxidant, Bronchodilator, Antidiabetic
-- [Pudina](/ayurveda-atlas/herb/pudina/) *Mentha spicata*
+- [Pudina](/nighantu/herb/pudina/) *Mentha spicata*
   Actions: Antioxidant, Bronchodilator, Antidiabetic
-- [Bijapura](/ayurveda-atlas/herb/bijapura/) *Citrus medica L.*
+- [Bijapura](/nighantu/herb/bijapura/) *Citrus medica L.*
   Actions: Antioxidant, Anticancer, Antidiabetic
-- [Vasa](/ayurveda-atlas/herb/vasa/) *Adhatoda vasica Nees (syn. Justicia adhatoda L.)*
+- [Vasa](/nighantu/herb/vasa/) *Adhatoda vasica Nees (syn. Justicia adhatoda L.)*
   Actions: Antioxidant, Anticancer, Hepatoprotective
-- [Laung](/ayurveda-atlas/herb/laung/) *Syzygium aromaticum*
+- [Laung](/nighantu/herb/laung/) *Syzygium aromaticum*
   Actions: Antioxidant, Anticancer, Antitumor
-- [Devadaru](/ayurveda-atlas/herb/devadaru/) *Cedrus deodara (Roxb. ex D.Don) G.Don*
+- [Devadaru](/nighantu/herb/devadaru/) *Cedrus deodara (Roxb. ex D.Don) G.Don*
   Actions: Antioxidant, Anticancer, Bronchodilator
-- [Kapittha](/ayurveda-atlas/herb/kapittha/) *Limonia acidissima Groff (syn. Feronia limonia (L.) Swingle)*
+- [Kapittha](/nighantu/herb/kapittha/) *Limonia acidissima Groff (syn. Feronia limonia (L.) Swingle)*
   Actions: Antioxidant, Anticancer, Wound Healing
-- [Mahasudarshan Churna](/ayurveda-atlas/formulation/mahasudarshan-churna/)
+- [Mahasudarshan Churna](/nighantu/formulation/mahasudarshan-churna/)
   Actions: Antioxidant, Hepatoprotective, Bronchodilator
-- [Bhadra](/ayurveda-atlas/herb/bhadra/) *Aerva lanata (L.) Juss. ex Schult.*
+- [Bhadra](/nighantu/herb/bhadra/) *Aerva lanata (L.) Juss. ex Schult.*
   Actions: Antioxidant, Hepatoprotective, Bronchodilator
-- [Chandrashura](/ayurveda-atlas/herb/chandrashura/) *Lepidium sativum L.*
+- [Chandrashura](/nighantu/herb/chandrashura/) *Lepidium sativum L.*
   Actions: Antioxidant, Galactagogue, Antidiabetic
-- [Kulattha](/ayurveda-atlas/herb/kulattha/) *Macrotyloma uniflorum (Lam.) Verdc. (syn. Dolichos biflorus L.)*
+- [Kulattha](/nighantu/herb/kulattha/) *Macrotyloma uniflorum (Lam.) Verdc. (syn. Dolichos biflorus L.)*
   Actions: Antioxidant, Bronchodilator, Antidiabetic
-- [Pushkarmool](/ayurveda-atlas/herb/pushkarmool/) *Inula racemosa Hook. f.*
+- [Pushkarmool](/nighantu/herb/pushkarmool/) *Inula racemosa Hook. f.*
   Actions: Anticancer, Hepatoprotective, Bronchodilator
-- [Vanapsa](/ayurveda-atlas/herb/vanapsa/) *Viola odorata L.*
+- [Vanapsa](/nighantu/herb/vanapsa/) *Viola odorata L.*
   Actions: Antioxidant, Anticancer, Diuretic
 
 ### Samudra Phena {#samudra-phena}
@@ -1214,7 +1214,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 | Language | Name |
 |----------|------|
-| English | [Samudra Phena](/ayurveda-atlas/glossary/concepts-m-y/#samudra-phena) |
+| English | [Samudra Phena](/nighantu/glossary/concepts-m-y/#samudra-phena) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -1262,7 +1262,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 | Language | Name |
 |----------|------|
-| English | [Sarshapa Taila](/ayurveda-atlas/glossary/concepts-m-y/#sarshapa-taila) |
+| English | [Sarshapa Taila](/nighantu/glossary/concepts-m-y/#sarshapa-taila) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -1312,7 +1312,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 | Language | Name |
 |----------|------|
-| English | Satavari [Ghrita](/ayurveda-atlas/herb/ghrita/)|Satavari Ghrita |
+| English | Satavari [Ghrita](/nighantu/herb/ghrita/)|Satavari Ghrita |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -1334,7 +1334,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 #### Dosage forms and preparation
 
-**Dosage Forms:** [Ghrita](/ayurveda-atlas/herb/ghrita/) (medicated ghee), Capsule (for convenience)
+**Dosage Forms:** [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Capsule (for convenience)
 
 **Standard Dosage:** 12-24ml with warm milk for reproductive health
 
@@ -1342,19 +1342,19 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 **Optimal Timing:** Before meals on empty stomach for best absorption
 
-**Shelf Life:** 2 years (as per ASU guidelines for [ghrita](/ayurveda-atlas/herb/ghrita/) preparations); improves with aging (Purana Ghrita concept)
+**Shelf Life:** 2 years (as per ASU guidelines for [ghrita](/nighantu/herb/ghrita/) preparations); improves with aging (Purana Ghrita concept)
 
 **Storage:** Airtight glass/stainless steel container, cool dry place, protected from light and moisture
 
-**Marker Compounds:** Shatavarin IV, [Glycyrrhizin](/ayurveda-atlas/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin)
+**Marker Compounds:** Shatavarin IV, [Glycyrrhizin](/nighantu/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin)
 
-**Quality Parameters:** Acid value <4, peroxide value <5 meq/kg, moisture <0.5%, rancidity test negative, marker: Shatavarin IV, [Glycyrrhizin](/ayurveda-atlas/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin)
+**Quality Parameters:** Acid value <4, peroxide value <5 meq/kg, moisture <0.5%, rancidity test negative, marker: Shatavarin IV, [Glycyrrhizin](/nighantu/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin)
 
 **Vehicle (Anupana):** Warm water or warm milk
 
 ### Synergistic Combinations
 
-- Key herbs: [Shatavari](/ayurveda-atlas/herb/shatavari/), [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/), [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/); ghee enhances tissue penetration (yogavahi property)
+- Key herbs: [Shatavari](/nighantu/herb/shatavari/), [Yashtimadhu](/nighantu/herb/yashtimadhu/), [Ashwagandha](/nighantu/herb/ashwagandha/); ghee enhances tissue penetration (yogavahi property)
 
 ### Satina {#satina}
 
@@ -1388,17 +1388,17 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 **Standard Dosage:** 3-5 g powder per day; 50-100 mL kwatha twice daily; 500-1000 mg extract capsule twice daily
 
-**Bioavailability:** Moderate bioavailability for [phytosterols](/ayurveda-atlas/glossary/compounds-o-q/#phytosterols) and flavonoid [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) (20-35%). Saponin constituents undergo intestinal hydrolysis. Lipophilic aglycones show improved absorption with lipid-based formulations.
+**Bioavailability:** Moderate bioavailability for [phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols) and flavonoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) (20-35%). Saponin constituents undergo intestinal hydrolysis. Lipophilic aglycones show improved absorption with lipid-based formulations.
 
 **Optimal Timing:** After meals with warm water or milk; morning and evening doses
 
-**Standardized Extract:** Aqueous-ethanolic extract (6:1), standardized to NLT 2% total [saponins](/ayurveda-atlas/reference/saponins/) by [vanillin](/ayurveda-atlas/glossary/compounds-t-z/#vanillin)-sulfuric acid method; total phenolic content NLT 3% as gallic acid equivalents
+**Standardized Extract:** Aqueous-ethanolic extract (6:1), standardized to NLT 2% total [saponins](/nighantu/reference/saponins/) by [vanillin](/nighantu/glossary/compounds-t-z/#vanillin)-sulfuric acid method; total phenolic content NLT 3% as gallic acid equivalents
 
 **Shelf Life:** 24 months for churna; 30 months for capsules and tablets
 
 **Storage:** Store below 25 deg C in airtight containers, protected from light and moisture. RH <60%.
 
-**Marker Compounds:** Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/ayurveda-atlas/reference/stigmasterol/), Oleanolic acid, Gallic acid
+**Marker Compounds:** Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/nighantu/reference/stigmasterol/), Oleanolic acid, Gallic acid
 
 ### Extraction Methods
 
@@ -1409,9 +1409,9 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 ### Synergistic Combinations
 
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) (general tonic synergy)
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) ([adaptogenic](/ayurveda-atlas/reference/adaptogenic/) combinations)
-- [Vidari](/ayurveda-atlas/herb/vidari/) (nourishing and Brihana formulations)
+- [Shatavari](/nighantu/herb/shatavari/) (general tonic synergy)
+- [Ashwagandha](/nighantu/herb/ashwagandha/) ([adaptogenic](/nighantu/reference/adaptogenic/) combinations)
+- [Vidari](/nighantu/herb/vidari/) (nourishing and Brihana formulations)
 
 ### Sesame Oil {#sesame-oil}
 
@@ -1419,7 +1419,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 | Language | Name |
 |----------|------|
-| English | [Sesame Oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) |
+| English | [Sesame Oil](/nighantu/glossary/concepts-m-y/#tila-taila) |
 
 #### What is it made of?
 
@@ -1432,7 +1432,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 #### Dosage forms and preparation
 
-**Dosage Forms:** Cold-pressed oil ([Tila](/ayurveda-atlas/herb/tila/) Taila), Medicated oils, External application
+**Dosage Forms:** Cold-pressed oil ([Tila](/nighantu/herb/tila/) Taila), Medicated oils, External application
 
 **Standard Dosage:** 5–15 mL orally; external: as needed for Abhyanga
 
@@ -1440,15 +1440,15 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 **Optimal Timing:** External: morning Abhyanga; oral: with meals
 
-**Standardized Extract:** Cold-pressed black [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) ([Tila](/ayurveda-atlas/herb/tila/) Taila) — king of oils in Ayurveda
+**Standardized Extract:** Cold-pressed black [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) ([Tila](/nighantu/herb/tila/) Taila) — king of oils in Ayurveda
 
 **Shelf Life:** 12–18 months
 
 **Storage:** Cool, dark place; amber glass preferred
 
-**Marker Compounds:** [Sesamin](/ayurveda-atlas/glossary/compounds-q-t/#sesamin), [Sesamolin](/ayurveda-atlas/glossary/compounds-q-t/#sesamolin), [Sesamol](/ayurveda-atlas/glossary/compounds-q-t/#sesamol), Linoleic acid (40–48%), Oleic acid (35–43%), Vitamin E
+**Marker Compounds:** [Sesamin](/nighantu/glossary/compounds-q-t/#sesamin), [Sesamolin](/nighantu/glossary/compounds-q-t/#sesamolin), [Sesamol](/nighantu/glossary/compounds-q-t/#sesamol), Linoleic acid (40–48%), Oleic acid (35–43%), Vitamin E
 
-**Quality Parameters:** FFA <1.5%, peroxide value <10 meq/kg, sesamin content >0.4%, [iodine](/ayurveda-atlas/glossary/compounds-g-l/#iodine) value 104–120
+**Quality Parameters:** FFA <1.5%, peroxide value <10 meq/kg, sesamin content >0.4%, [iodine](/nighantu/glossary/compounds-g-l/#iodine) value 104–120
 
 **Vehicle (Anupana):** Premier oil vehicle (Taila) in Ayurveda; base for >300 medicated oils
 
@@ -1492,7 +1492,7 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 
 #### Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Kwatha (decoction), Vati (tablet), Capsule, [Phanita](/ayurveda-atlas/glossary/concepts-m-y/#phanita) (syrup)
+**Dosage Forms:** Churna (powder), Kwatha (decoction), Vati (tablet), Capsule, [Phanita](/nighantu/glossary/concepts-m-y/#phanita) (syrup)
 
 **Standard Dosage:** 3-6 g powder per day; 50-100 mL kwatha twice daily; 500-1000 mg extract capsule twice daily
 
@@ -1506,7 +1506,7 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 
 **Storage:** Store below 25 deg C in airtight containers, protected from light and moisture.
 
-**Marker Compounds:** Gallic acid, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/), [Tannins](/ayurveda-atlas/reference/tannins/) (total)
+**Marker Compounds:** Gallic acid, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Quercetin](/nighantu/reference/quercetinquercetin/), [Tannins](/nighantu/reference/tannins/) (total)
 
 ### Extraction Methods
 
@@ -1517,9 +1517,9 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 
 ### Synergistic Combinations
 
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) ([immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) combinations)
-- [Haritaki](/ayurveda-atlas/herb/haritaki/) (digestive and mild [laxative](/ayurveda-atlas/reference/laxative/) formulations)
-- Amalaki ([antioxidant](/ayurveda-atlas/reference/antioxidant/) synergy)
+- [Guduchi](/nighantu/herb/guduchi/) ([immunomodulatory](/nighantu/reference/immunomodulatory/) combinations)
+- [Haritaki](/nighantu/herb/haritaki/) (digestive and mild [laxative](/nighantu/reference/laxative/) formulations)
+- Amalaki ([antioxidant](/nighantu/reference/antioxidant/) synergy)
 
 ### Shallaki Herb {#shallaki-herb}
 
@@ -1544,17 +1544,17 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 
 **Standard Dosage:** 3-6 g bark/leaf powder per day; 50-100 mL kwatha twice daily; 500-1000 mg extract capsule twice daily
 
-**Bioavailability:** Flavonoid [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) from the herb (as distinct from resin) show moderate bioavailability (25-35%). [Tannins](/ayurveda-atlas/reference/tannins/) and phenolic acids are partially absorbed and undergo extensive phase II metabolism (glucuronidation, sulfation). Terpenoid constituents benefit from lipid co-administration.
+**Bioavailability:** Flavonoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) from the herb (as distinct from resin) show moderate bioavailability (25-35%). [Tannins](/nighantu/reference/tannins/) and phenolic acids are partially absorbed and undergo extensive phase II metabolism (glucuronidation, sulfation). Terpenoid constituents benefit from lipid co-administration.
 
 **Optimal Timing:** After meals with warm water; traditionally used as part of multi-herb kwatha formulations
 
-**Standardized Extract:** Aqueous-ethanolic bark extract (6:1), characterized by HPTLC fingerprint; standardized to NLT 2% total phenolics (as gallic acid equivalents) and NLT 1% total [flavonoids](/ayurveda-atlas/reference/flavonoids/)
+**Standardized Extract:** Aqueous-ethanolic bark extract (6:1), characterized by HPTLC fingerprint; standardized to NLT 2% total phenolics (as gallic acid equivalents) and NLT 1% total [flavonoids](/nighantu/reference/flavonoids/)
 
 **Shelf Life:** 24 months for churna; 30 months for capsules
 
 **Storage:** Store below 25 deg C in airtight containers, protected from light and moisture.
 
-**Marker Compounds:** Gallic acid, Ellagic acid, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), Incensole, [Lupeol](/ayurveda-atlas/reference/lupeol/)
+**Marker Compounds:** Gallic acid, Ellagic acid, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Incensole, [Lupeol](/nighantu/reference/lupeol/)
 
 ### Extraction Methods
 
@@ -1565,10 +1565,10 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 
 ### Synergistic Combinations
 
-- [Guggulu](/ayurveda-atlas/formulation/guggulu/) (Yogaraj Guggulu-type formulations)
-- Shunthi (anti-inflammatory and [analgesic](/ayurveda-atlas/reference/analgesic/) combination)
-- [Eranda](/ayurveda-atlas/herb/eranda/) (Vatahara — anti-rheumatic formulations)
-- [Nirgundi](/ayurveda-atlas/herb/nirgundi/) (external pain relief preparations)
+- [Guggulu](/nighantu/formulation/guggulu/) (Yogaraj Guggulu-type formulations)
+- Shunthi (anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) combination)
+- [Eranda](/nighantu/herb/eranda/) (Vatahara — anti-rheumatic formulations)
+- [Nirgundi](/nighantu/herb/nirgundi/) (external pain relief preparations)
 
 ### Shankha Vati {#shankha-vati}
 
@@ -1576,13 +1576,13 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 
 | Language | Name |
 |----------|------|
-| English | [Shankha Vati](/ayurveda-atlas/glossary/concepts-m-y/#shankha-vati) |
+| English | [Shankha Vati](/nighantu/glossary/concepts-m-y/#shankha-vati) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| **Rasa** (Taste) | Lavana, [Amla](/ayurveda-atlas/herb/amla/) | Primary taste |
+| **Rasa** (Taste) | Lavana, [Amla](/nighantu/herb/amla/) | Primary taste |
 | **Guna** (Quality) | Laghu, Tikshna | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
@@ -1602,7 +1602,7 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 
 **Standard Dosage:** 1-2 tablets after meals
 
-**Bioavailability:** Tablet/pill form provides controlled disintegration; some vatis use honey/[guggulu](/ayurveda-atlas/formulation/guggulu/) as bioenhancing binders
+**Bioavailability:** Tablet/pill form provides controlled disintegration; some vatis use honey/[guggulu](/nighantu/formulation/guggulu/) as bioenhancing binders
 
 **Optimal Timing:** Before or after meals as indicated
 
@@ -1610,7 +1610,7 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
-**Marker Compounds:** Calcium carbonate, [Piperine](/ayurveda-atlas/reference/piperine/), [Gingerol](/ayurveda-atlas/glossary/compounds-d-g/#gingerol)
+**Marker Compounds:** Calcium carbonate, [Piperine](/nighantu/reference/piperine/), [Gingerol](/nighantu/glossary/compounds-d-g/#gingerol)
 
 **Quality Parameters:** Weight variation ±5%, disintegration <30 min, friability <1%, marker: Calcium carbonate, Piperine, Gingerol
 
@@ -1618,7 +1618,7 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 
 ### Synergistic Combinations
 
-- Key herbs: [Shankha bhasma](/ayurveda-atlas/herb/shankha-bhasma/), Shunthi, Maricha, [Pippali](/ayurveda-atlas/herb/pippali/), [Hingu](/ayurveda-atlas/herb/hingu/)
+- Key herbs: [Shankha bhasma](/nighantu/herb/shankha-bhasma/), Shunthi, Maricha, [Pippali](/nighantu/herb/pippali/), [Hingu](/nighantu/herb/hingu/)
 
 ### Shringyadi Churna {#shringyadi-churna}
 
@@ -1626,7 +1626,7 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 
 | Language | Name |
 |----------|------|
-| English | [Shringyadi Churna](/ayurveda-atlas/glossary/concepts-m-y/#shringyadi-churna) |
+| English | [Shringyadi Churna](/nighantu/glossary/concepts-m-y/#shringyadi-churna) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -1660,7 +1660,7 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
-**Marker Compounds:** Pistacienoic acid, [Piperine](/ayurveda-atlas/reference/piperine/)
+**Marker Compounds:** Pistacienoic acid, [Piperine](/nighantu/reference/piperine/)
 
 **Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Pistacienoic acid, Piperine
 
@@ -1676,7 +1676,7 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 
 | Language | Name |
 |----------|------|
-| English | Shuddha [Guggulu](/ayurveda-atlas/formulation/guggulu/)|Shuddha Guggulu |
+| English | Shuddha [Guggulu](/nighantu/formulation/guggulu/)|Shuddha Guggulu |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -1702,11 +1702,11 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 
 **Standard Dosage:** 250-500mg twice daily
 
-**Bioavailability:** [Guggulu](/ayurveda-atlas/formulation/guggulu/) resin acts as natural bioenhancer; guggulsterones have moderate oral bioavailability (~40%); lipophilic matrix aids absorption of co-formulated herbs
+**Bioavailability:** [Guggulu](/nighantu/formulation/guggulu/) resin acts as natural bioenhancer; guggulsterones have moderate oral bioavailability (~40%); lipophilic matrix aids absorption of co-formulated herbs
 
 **Optimal Timing:** After meals, twice daily
 
-**Shelf Life:** 2 years ([guggulu](/ayurveda-atlas/formulation/guggulu/) preparations per ASU); potency may decrease after 1 year
+**Shelf Life:** 2 years ([guggulu](/nighantu/formulation/guggulu/) preparations per ASU); potency may decrease after 1 year
 
 **Storage:** Airtight container, cool dry place; guggulu preparations are hygroscopic
 
@@ -1718,7 +1718,7 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 
 ### Synergistic Combinations
 
-- Key herbs: Purified guggulu resin only; guggulu potentiates anti-inflammatory and [hypolipidemic](/ayurveda-atlas/glossary/pharmacology/#hypolipidemic) actions
+- Key herbs: Purified guggulu resin only; guggulu potentiates anti-inflammatory and [hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic) actions
 
 ### Sita {#sita}
 
@@ -1762,7 +1762,7 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 
 **Storage:** Dry, airtight container; moisture-sensitive
 
-**Marker Compounds:** [Sucrose](/ayurveda-atlas/glossary/compounds-q-t/#sucrose) (>99%), Trace minerals from traditional preparation
+**Marker Compounds:** [Sucrose](/nighantu/glossary/compounds-q-t/#sucrose) (>99%), Trace minerals from traditional preparation
 
 **Quality Parameters:** Purity >99%, moisture <0.5%, no chemical additives, traditional thread (Tantu) formation test
 
@@ -1779,35 +1779,35 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 
 #### Ayurveda Approach
 
-- [Vidarikand](/ayurveda-atlas/herb/vidarikand/) *Pueraria tuberosa (Willd.) DC.*
+- [Vidarikand](/nighantu/herb/vidarikand/) *Pueraria tuberosa (Willd.) DC.*
   Actions: Antioxidant, Anticancer, Aphrodisiac
-- [Jatamansi](/ayurveda-atlas/herb/jatamansi/)
+- [Jatamansi](/nighantu/herb/jatamansi/)
   Actions: Antioxidant, Nootropic, Medhya (Nootropic)
-- [Madhuka](/ayurveda-atlas/herb/madhuka/) *Madhuca longifolia (J.Koenig ex L.) J.F.Macbr.*
+- [Madhuka](/nighantu/herb/madhuka/) *Madhuca longifolia (J.Koenig ex L.) J.F.Macbr.*
   Actions: Antioxidant, Anticancer, Galactagogue
-- [Gokarna](/ayurveda-atlas/herb/gokarna/) *Clitoria ternatea L. (same species as [Aparajita](/ayurveda-atlas/herb/aparajita/); Gokarna is a regional Ayurvedic synonym)*
+- [Gokarna](/nighantu/herb/gokarna/) *Clitoria ternatea L. (same species as [Aparajita](/nighantu/herb/aparajita/); Gokarna is a regional Ayurvedic synonym)*
   Actions: Antioxidant, Wound Healing, Nootropic
-- [Pudina](/ayurveda-atlas/herb/pudina/) *Mentha spicata*
+- [Pudina](/nighantu/herb/pudina/) *Mentha spicata*
   Actions: Antioxidant, Bronchodilator, Antidiabetic
-- [Amlaparni](/ayurveda-atlas/herb/amlaparni/) *Oxalis corniculata L.*
+- [Amlaparni](/nighantu/herb/amlaparni/) *Oxalis corniculata L.*
   Actions: Antioxidant, Anticancer, Wound Healing
-- [Danti](/ayurveda-atlas/herb/danti/) *Baliospermum montanum (Willd.) Muell.-Arg.*
+- [Danti](/nighantu/herb/danti/) *Baliospermum montanum (Willd.) Muell.-Arg.*
   Actions: Antioxidant, Anticancer, Hepatoprotective
-- [Laung](/ayurveda-atlas/herb/laung/) *Syzygium aromaticum*
+- [Laung](/nighantu/herb/laung/) *Syzygium aromaticum*
   Actions: Antioxidant, Anticancer, Antitumor
-- [Devadaru](/ayurveda-atlas/herb/devadaru/) *Cedrus deodara (Roxb. ex D.Don) G.Don*
+- [Devadaru](/nighantu/herb/devadaru/) *Cedrus deodara (Roxb. ex D.Don) G.Don*
   Actions: Antioxidant, Anticancer, Bronchodilator
-- [Narikela](/ayurveda-atlas/herb/narikela/) *Cocos nucifera L.*
+- [Narikela](/nighantu/herb/narikela/) *Cocos nucifera L.*
   Actions: Antioxidant, Hepatoprotective, Wound Healing
-- [Aivana](/ayurveda-atlas/herb/aivana/) *Salvia officinalis L.*
+- [Aivana](/nighantu/herb/aivana/) *Salvia officinalis L.*
   Actions: Antioxidant, Anticancer, Wound Healing
-- [Aragwadha](/ayurveda-atlas/herb/aragwadha/) *Cassia fistula L.*
+- [Aragwadha](/nighantu/herb/aragwadha/) *Cassia fistula L.*
   Actions: Antioxidant, Anticancer, Antidiabetic
-- [Kshavaka](/ayurveda-atlas/herb/kshavaka/) *Amaranthus spinosus L.*
+- [Kshavaka](/nighantu/herb/kshavaka/) *Amaranthus spinosus L.*
   Actions: Antioxidant, Hepatoprotective, Wound Healing
-- [Shrigataka](/ayurveda-atlas/herb/shrigataka/) *Trapa natans L. (syn. Trapa bispinosa Roxb.)*
+- [Shrigataka](/nighantu/herb/shrigataka/) *Trapa natans L. (syn. Trapa bispinosa Roxb.)*
   Actions: Antioxidant, Anticancer, Antidiabetic
-- [Ushira](/ayurveda-atlas/herb/ushira/) *Vetiveria zizanioides (L.) Nash (syn. Chrysopogon zizanioides (L.) Roberty)*
+- [Ushira](/nighantu/herb/ushira/) *Vetiveria zizanioides (L.) Nash (syn. Chrysopogon zizanioides (L.) Roberty)*
   Actions: Antioxidant, Wound Healing, Nootropic
 
 ### Somaraji Taila {#somaraji-taila}
@@ -1816,7 +1816,7 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 
 | Language | Name |
 |----------|------|
-| English | [Somaraji Taila](/ayurveda-atlas/glossary/concepts-m-y/#somaraji-taila) |
+| English | [Somaraji Taila](/nighantu/glossary/concepts-m-y/#somaraji-taila) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -1838,11 +1838,11 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 
 #### Dosage forms and preparation
 
-**Dosage Forms:** Thailam (medicated [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)), External application
+**Dosage Forms:** Thailam (medicated [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)), External application
 
 **Standard Dosage:** External for skin conditions (leukoderma)
 
-**Bioavailability:** Oil base ([sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
+**Bioavailability:** Oil base ([sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
 
 **Optimal Timing:** External: before bath or at bedtime. Internal: before meals
 
@@ -1850,7 +1850,7 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 
 **Storage:** Airtight amber glass/HDPE container, room temperature, protected from light
 
-**Marker Compounds:** [Psoralen](/ayurveda-atlas/glossary/compounds-o-q/#psoralen), [Isopsoralen](/ayurveda-atlas/glossary/compounds-g-l/#isopsoralen), [Karanjin](/ayurveda-atlas/glossary/compounds-g-l/#karanjin)
+**Marker Compounds:** [Psoralen](/nighantu/glossary/compounds-o-q/#psoralen), [Isopsoralen](/nighantu/glossary/compounds-g-l/#isopsoralen), [Karanjin](/nighantu/glossary/compounds-g-l/#karanjin)
 
 **Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Psoralen, Isopsoralen, Karanjin
 
@@ -1858,7 +1858,7 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 
 ### Synergistic Combinations
 
-- Key herbs: [Bakuchi](/ayurveda-atlas/herb/bakuchi/) (Psoralea corylifolia), [Karanja](/ayurveda-atlas/herb/karanja/); oil base acts as lipid carrier for enhanced tissue penetration
+- Key herbs: [Bakuchi](/nighantu/herb/bakuchi/) (Psoralea corylifolia), [Karanja](/nighantu/herb/karanja/); oil base acts as lipid carrier for enhanced tissue penetration
 
 ### Suranjana {#suranjana}
 
@@ -1892,7 +1892,7 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 
 **Standard Dosage:** 1–3 g internally; external: paste application
 
-**Bioavailability:** Moderate; [colchicine](/ayurveda-atlas/glossary/compounds-c-d/#colchicine)-like [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) absorbed through GI tract and transdermally
+**Bioavailability:** Moderate; [colchicine](/nighantu/glossary/compounds-c-d/#colchicine)-like [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) absorbed through GI tract and transdermally
 
 **Optimal Timing:** With warm water or castor oil for joint conditions
 
@@ -1906,7 +1906,7 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 
 **Quality Parameters:** Colchicine content within therapeutic range (critical — narrow therapeutic index), heavy metals within limits
 
-**Vehicle (Anupana):** Warm water, [Eranda](/ayurveda-atlas/herb/eranda/) Taila (castor oil), or Dashamula Kwatha
+**Vehicle (Anupana):** Warm water, [Eranda](/nighantu/herb/eranda/) Taila (castor oil), or Dashamula Kwatha
 
 ### Sutra Neti ThreadCatheter {#sutra-neti-threadcatheter}
 
@@ -1942,7 +1942,7 @@ Deep nasal cleansing, removal of chronic nasal blockages, preparation for advanc
 
 | Language | Name |
 |----------|------|
-| English | Svalpa [Khadiradi Vati](/ayurveda-atlas/formulation/khadiradi-vati/)|Svalpa Khadiradi Vati |
+| English | Svalpa [Khadiradi Vati](/nighantu/formulation/khadiradi-vati/)|Svalpa Khadiradi Vati |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -1968,7 +1968,7 @@ Deep nasal cleansing, removal of chronic nasal blockages, preparation for advanc
 
 **Standard Dosage:** 1-2 tablets to dissolve in mouth
 
-**Bioavailability:** Tablet/pill form provides controlled disintegration; some vatis use honey/[guggulu](/ayurveda-atlas/formulation/guggulu/) as bioenhancing binders
+**Bioavailability:** Tablet/pill form provides controlled disintegration; some vatis use honey/[guggulu](/nighantu/formulation/guggulu/) as bioenhancing binders
 
 **Optimal Timing:** Before or after meals as indicated
 
@@ -1976,7 +1976,7 @@ Deep nasal cleansing, removal of chronic nasal blockages, preparation for advanc
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
-**Marker Compounds:** [Catechin](/ayurveda-atlas/reference/catechin/), [Epicatechin](/ayurveda-atlas/glossary/compounds-d-g/#epicatechin)
+**Marker Compounds:** [Catechin](/nighantu/reference/catechin/), [Epicatechin](/nighantu/glossary/compounds-d-g/#epicatechin)
 
 **Quality Parameters:** Weight variation ±5%, disintegration <30 min, friability <1%, marker: Catechin, Epicatechin
 
@@ -1984,7 +1984,7 @@ Deep nasal cleansing, removal of chronic nasal blockages, preparation for advanc
 
 ### Synergistic Combinations
 
-- Key herbs: [Khadira](/ayurveda-atlas/herb/khadira/) (Acacia catechu), [Javitri](/ayurveda-atlas/herb/javitri/), Karpura, Ela
+- Key herbs: [Khadira](/nighantu/herb/khadira/) (Acacia catechu), [Javitri](/nighantu/herb/javitri/), Karpura, Ela
 
 ### Swarnamakshika {#swarnamakshika}
 
@@ -2020,7 +2020,7 @@ Deep nasal cleansing, removal of chronic nasal blockages, preparation for advanc
 
 **Bioavailability:** Good; chalcopyrite converted to iron-copper nanooxide complex
 
-**Optimal Timing:** With honey or [Triphala](/ayurveda-atlas/herb/triphala/) Kwatha after meals
+**Optimal Timing:** With honey or [Triphala](/nighantu/herb/triphala/) Kwatha after meals
 
 **Standardized Extract:** Calcined chalcopyrite (copper-iron sulfide) bhasma
 
@@ -2032,7 +2032,7 @@ Deep nasal cleansing, removal of chronic nasal blockages, preparation for advanc
 
 **Quality Parameters:** Iron + copper content as labeled, free metals <1 ppm, standard bhasma tests
 
-**Vehicle (Anupana):** Honey, [Triphala](/ayurveda-atlas/herb/triphala/) Kwatha, or [Guduchi](/ayurveda-atlas/herb/guduchi/) Swarasa
+**Vehicle (Anupana):** Honey, [Triphala](/nighantu/herb/triphala/) Kwatha, or [Guduchi](/nighantu/herb/guduchi/) Swarasa
 
 ### Tila Taila {#tila-taila}
 
@@ -2040,7 +2040,7 @@ Deep nasal cleansing, removal of chronic nasal blockages, preparation for advanc
 
 | Language | Name |
 |----------|------|
-| English | [Tila](/ayurveda-atlas/herb/tila/) Taila |
+| English | [Tila](/nighantu/herb/tila/) Taila |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -2062,11 +2062,11 @@ Deep nasal cleansing, removal of chronic nasal blockages, preparation for advanc
 
 #### Dosage forms and preparation
 
-**Dosage Forms:** Thailam (medicated [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)), External application
+**Dosage Forms:** Thailam (medicated [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)), External application
 
 **Standard Dosage:** Massage: liberal; Internal: 5-15ml
 
-**Bioavailability:** Oil base ([sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
+**Bioavailability:** Oil base ([sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
 
 **Optimal Timing:** External: before bath or at bedtime. Internal: before meals
 
@@ -2074,7 +2074,7 @@ Deep nasal cleansing, removal of chronic nasal blockages, preparation for advanc
 
 **Storage:** Airtight amber glass/HDPE container, room temperature, protected from light
 
-**Marker Compounds:** [Sesamin](/ayurveda-atlas/glossary/compounds-q-t/#sesamin), [Sesamolin](/ayurveda-atlas/glossary/compounds-q-t/#sesamolin), [Sesamol](/ayurveda-atlas/glossary/compounds-q-t/#sesamol)
+**Marker Compounds:** [Sesamin](/nighantu/glossary/compounds-q-t/#sesamin), [Sesamolin](/nighantu/glossary/compounds-q-t/#sesamolin), [Sesamol](/nighantu/glossary/compounds-q-t/#sesamol)
 
 **Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Sesamin, Sesamolin, Sesamol
 
@@ -2082,7 +2082,7 @@ Deep nasal cleansing, removal of chronic nasal blockages, preparation for advanc
 
 ### Synergistic Combinations
 
-- Key herbs: Pure [Tila](/ayurveda-atlas/herb/tila/) (sesame) — base oil for many preparations; oil base acts as lipid carrier for enhanced tissue penetration
+- Key herbs: Pure [Tila](/nighantu/herb/tila/) (sesame) — base oil for many preparations; oil base acts as lipid carrier for enhanced tissue penetration
 
 ### Tortoise shaped Apparatus {#tortoise-shaped-apparatus}
 
@@ -2165,7 +2165,7 @@ Slow evaporation, gentle drying, and low-temperature processing of sensitive Ras
 
 | Language | Name |
 |----------|------|
-| English | [Ushiradi Churna](/ayurveda-atlas/glossary/concepts-m-y/#ushiradi-churna) |
+| English | [Ushiradi Churna](/nighantu/glossary/concepts-m-y/#ushiradi-churna) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -2199,7 +2199,7 @@ Slow evaporation, gentle drying, and low-temperature processing of sensitive Ras
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
-**Marker Compounds:** [Vetiverol](/ayurveda-atlas/glossary/compounds-t-z/#vetiverol), Santalol
+**Marker Compounds:** [Vetiverol](/nighantu/glossary/compounds-t-z/#vetiverol), Santalol
 
 **Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Vetiverol, Santalol
 
@@ -2215,7 +2215,7 @@ Slow evaporation, gentle drying, and low-temperature processing of sensitive Ras
 
 | Language | Name |
 |----------|------|
-| English | [Ushtra Dugdha](/ayurveda-atlas/glossary/concepts-m-y/#ushtra-dugdha) |
+| English | [Ushtra Dugdha](/nighantu/glossary/concepts-m-y/#ushtra-dugdha) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -2241,7 +2241,7 @@ Slow evaporation, gentle drying, and low-temperature processing of sensitive Ras
 
 **Standard Dosage:** 100–250 mL daily
 
-**Bioavailability:** High; unique insulin-like [proteins](/ayurveda-atlas/glossary/compounds-o-q/#proteins); does not curdle in stomach acid
+**Bioavailability:** High; unique insulin-like [proteins](/nighantu/glossary/compounds-o-q/#proteins); does not curdle in stomach acid
 
 **Optimal Timing:** Morning, empty stomach for diabetes management
 
@@ -2251,7 +2251,7 @@ Slow evaporation, gentle drying, and low-temperature processing of sensitive Ras
 
 **Storage:** Fresh: refrigerated; powder: cool, dry place
 
-**Marker Compounds:** Insulin-like proteins, [Lactoferrin](/ayurveda-atlas/glossary/compounds-g-l/#lactoferrin), [Immunoglobulins](/ayurveda-atlas/glossary/compounds-g-l/#immunoglobulins), Vitamin C
+**Marker Compounds:** Insulin-like proteins, [Lactoferrin](/nighantu/glossary/compounds-g-l/#lactoferrin), [Immunoglobulins](/nighantu/glossary/compounds-g-l/#immunoglobulins), Vitamin C
 
 **Quality Parameters:** Fat 2.5–3.5%, protein >3%, no adulteration
 
@@ -2263,7 +2263,7 @@ Slow evaporation, gentle drying, and low-temperature processing of sensitive Ras
 
 | Language | Name |
 |----------|------|
-| English | [Vacha](/ayurveda-atlas/herb/vacha/) Taila |
+| English | [Vacha](/nighantu/herb/vacha/) Taila |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -2285,11 +2285,11 @@ Slow evaporation, gentle drying, and low-temperature processing of sensitive Ras
 
 #### Dosage forms and preparation
 
-**Dosage Forms:** Thailam (medicated [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)), External application
+**Dosage Forms:** Thailam (medicated [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)), External application
 
 **Standard Dosage:** Nasya: 2-4 drops; External: scalp massage
 
-**Bioavailability:** Oil base ([sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
+**Bioavailability:** Oil base ([sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
 
 **Optimal Timing:** External: before bath or at bedtime. Internal: before meals
 
@@ -2305,7 +2305,7 @@ Slow evaporation, gentle drying, and low-temperature processing of sensitive Ras
 
 ### Synergistic Combinations
 
-- Key herbs: [Vacha](/ayurveda-atlas/herb/vacha/) (Acorus calamus); oil base acts as lipid carrier for enhanced tissue penetration
+- Key herbs: [Vacha](/nighantu/herb/vacha/) (Acorus calamus); oil base acts as lipid carrier for enhanced tissue penetration
 
 ### Vaiswanara Churna {#vaiswanara-churna}
 
@@ -2313,7 +2313,7 @@ Slow evaporation, gentle drying, and low-temperature processing of sensitive Ras
 
 | Language | Name |
 |----------|------|
-| English | [Vaiswanara Churna](/ayurveda-atlas/glossary/concepts-m-y/#vaiswanara-churna) |
+| English | [Vaiswanara Churna](/nighantu/glossary/concepts-m-y/#vaiswanara-churna) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -2347,7 +2347,7 @@ Slow evaporation, gentle drying, and low-temperature processing of sensitive Ras
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
-**Marker Compounds:** [Thymol](/ayurveda-atlas/glossary/compounds-t-z/#thymol), [Gingerol](/ayurveda-atlas/glossary/compounds-d-g/#gingerol), Chebulagic acid
+**Marker Compounds:** [Thymol](/nighantu/glossary/compounds-t-z/#thymol), [Gingerol](/nighantu/glossary/compounds-d-g/#gingerol), Chebulagic acid
 
 **Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Thymol, Gingerol, Chebulagic acid
 
@@ -2363,7 +2363,7 @@ Slow evaporation, gentle drying, and low-temperature processing of sensitive Ras
 
 | Language | Name |
 |----------|------|
-| English | [Vajraka Thailam](/ayurveda-atlas/glossary/concepts-m-y/#vajraka-thailam) |
+| English | [Vajraka Thailam](/nighantu/glossary/concepts-m-y/#vajraka-thailam) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -2385,11 +2385,11 @@ Slow evaporation, gentle drying, and low-temperature processing of sensitive Ras
 
 #### Dosage forms and preparation
 
-**Dosage Forms:** Thailam (medicated [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)), External application
+**Dosage Forms:** Thailam (medicated [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)), External application
 
 **Standard Dosage:** External massage
 
-**Bioavailability:** Oil base ([sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
+**Bioavailability:** Oil base ([sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
 
 **Optimal Timing:** External: before bath or at bedtime. Internal: before meals
 
@@ -2397,7 +2397,7 @@ Slow evaporation, gentle drying, and low-temperature processing of sensitive Ras
 
 **Storage:** Airtight amber glass/HDPE container, room temperature, protected from light
 
-**Marker Compounds:** [Sesamin](/ayurveda-atlas/glossary/compounds-q-t/#sesamin)
+**Marker Compounds:** [Sesamin](/nighantu/glossary/compounds-q-t/#sesamin)
 
 **Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Sesamin
 
@@ -2413,7 +2413,7 @@ Slow evaporation, gentle drying, and low-temperature processing of sensitive Ras
 
 | Language | Name |
 |----------|------|
-| English | [Vajrakapata Rasa](/ayurveda-atlas/glossary/concepts-m-y/#vajrakapata-rasa) |
+| English | [Vajrakapata Rasa](/nighantu/glossary/concepts-m-y/#vajrakapata-rasa) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -2453,11 +2453,11 @@ Slow evaporation, gentle drying, and low-temperature processing of sensitive Ras
 
 **Quality Parameters:** Standard Rasaushadhi tests, free metals below limits
 
-**Vehicle (Anupana):** Honey, [Brahmi](/ayurveda-atlas/herb/brahmi/) Swarasa, or as directed
+**Vehicle (Anupana):** Honey, [Brahmi](/nighantu/herb/brahmi/) Swarasa, or as directed
 
 ### Vamshalochana {#vamshalochana}
 
-Siliceous exudate from the internodes of female bamboo (*Bambusa bambos* / *B. arundinacea*) — classical Ayurveda treats it as a cooling, astringent, medhya and kasahara dravya. It is a key **prakshep dravya** in classical Avaleha pharmacy, including [Chyawanprash](/ayurveda-atlas/formulation/chyawanprash/) and related Rasayanas.
+Siliceous exudate from the internodes of female bamboo (*Bambusa bambos* / *B. arundinacea*) — classical Ayurveda treats it as a cooling, astringent, medhya and kasahara dravya. It is a key **prakshep dravya** in classical Avaleha pharmacy, including [Chyawanprash](/nighantu/formulation/chyawanprash/) and related Rasayanas.
 
 #### Identification
 
@@ -2472,7 +2472,7 @@ Translucent to opaque whitish-grey siliceous nodules, hard and brittle, sourced 
 
 #### Use in Chyawanprash
 
-Added in the **Prakshep phase** (lukewarm, post-paka) along with [Pippali](/ayurveda-atlas/herb/pippali/), [Twak](/ayurveda-atlas/herb/twak-cinnamon/), [Ela](/ayurveda-atlas/herb/ela/), [Tejpatra](/ayurveda-atlas/herb/tejapatra/) and [Nagakesara](/ayurveda-atlas/herb/nagakesara/). Provides the sweet-cooling balancing note and the classical medhya-rasayana signature. See Prakshep Dravya.
+Added in the **Prakshep phase** (lukewarm, post-paka) along with [Pippali](/nighantu/herb/pippali/), [Twak](/nighantu/herb/twak-cinnamon/), [Ela](/nighantu/herb/ela/), [Tejpatra](/nighantu/herb/tejapatra/) and [Nagakesara](/nighantu/herb/nagakesara/). Provides the sweet-cooling balancing note and the classical medhya-rasayana signature. See Prakshep Dravya.
 
 #### Adulteration note
 
@@ -2490,7 +2490,7 @@ Generally regarded as safe at classical prakshep doses (50–500 mg/day as part 
 
 | Language | Name |
 |----------|------|
-| English | [Varunadi Kwath](/ayurveda-atlas/glossary/concepts-m-y/#varunadi-kwath) |
+| English | [Varunadi Kwath](/nighantu/glossary/concepts-m-y/#varunadi-kwath) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -2524,7 +2524,7 @@ Generally regarded as safe at classical prakshep doses (50–500 mg/day as part 
 
 **Storage:** Fresh: refrigerate, use within 24h. Tablet/liquid: cool dry place, airtight
 
-**Marker Compounds:** [Lupeol](/ayurveda-atlas/reference/lupeol/), Punarnavine
+**Marker Compounds:** [Lupeol](/nighantu/reference/lupeol/), Punarnavine
 
 **Quality Parameters:** pH 4.0-6.5, specific gravity 1.01-1.05, total solids 2-8%, marker assay: Lupeol, Punarnavine
 
@@ -2532,7 +2532,7 @@ Generally regarded as safe at classical prakshep doses (50–500 mg/day as part 
 
 ### Synergistic Combinations
 
-- Classical combination of [Varuna](/ayurveda-atlas/herb/varuna/), [Punarnava](/ayurveda-atlas/herb/punarnava/), [Gokshura](/ayurveda-atlas/herb/gokshura/), Pashanbheda provides synergistic therapeutic effect
+- Classical combination of [Varuna](/nighantu/herb/varuna/), [Punarnava](/nighantu/herb/punarnava/), [Gokshura](/nighantu/herb/gokshura/), Pashanbheda provides synergistic therapeutic effect
 
 ### Vata Balancing Herbs {#vata-balancing}
 
@@ -2540,34 +2540,34 @@ Generally regarded as safe at classical prakshep doses (50–500 mg/day as part 
 
 #### Single Herbs (10)
 
-- [Eranda Moola](/ayurveda-atlas/herb/eranda-moola/)
-- [Eranda Patra](/ayurveda-atlas/herb/eranda-patra/) — *Ricinus communis L. (leaves)*
-- [Kharjura](/ayurveda-atlas/herb/kharjura/) — *Phoenix dactylifera L.*
-- [Lasuna Ksheerapaka](/ayurveda-atlas/herb/lasuna-ksheerapaka/)
-- [Nagabala](/ayurveda-atlas/herb/nagabala/) — *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
-- [Triphala Herbs](/ayurveda-atlas/herb/triphala-herbs/)
-- [Vathada](/ayurveda-atlas/herb/vathada/)
-- [Vidari](/ayurveda-atlas/herb/vidari/)
-- [Vidarikand](/ayurveda-atlas/herb/vidarikand/) — *Pueraria tuberosa (Willd.) DC.*
-- [Vriddhadaru](/ayurveda-atlas/herb/vriddhadaru/)
+- [Eranda Moola](/nighantu/herb/eranda-moola/)
+- [Eranda Patra](/nighantu/herb/eranda-patra/) — *Ricinus communis L. (leaves)*
+- [Kharjura](/nighantu/herb/kharjura/) — *Phoenix dactylifera L.*
+- [Lasuna Ksheerapaka](/nighantu/herb/lasuna-ksheerapaka/)
+- [Nagabala](/nighantu/herb/nagabala/) — *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
+- [Triphala Herbs](/nighantu/herb/triphala-herbs/)
+- [Vathada](/nighantu/herb/vathada/)
+- [Vidari](/nighantu/herb/vidari/)
+- [Vidarikand](/nighantu/herb/vidarikand/) — *Pueraria tuberosa (Willd.) DC.*
+- [Vriddhadaru](/nighantu/herb/vriddhadaru/)
 
 #### Classical Formulations (6)
 
-- [Dashmool Dashmoolarishta](/ayurveda-atlas/formulation/dashmool-dashmoolarishta/)
-- [Dhanwantaram Thailam](/ayurveda-atlas/formulation/dhanwantaram-thailam/)
-- [Indukantham Ghritam](/ayurveda-atlas/formulation/indukantham-ghritam/)
-- [Mahayograj Guggul](/ayurveda-atlas/formulation/mahayograj-guggul/)
-- [Narayana Thailam](/ayurveda-atlas/formulation/narayana-thailam/)
-- [Sukumaram Ghritam](/ayurveda-atlas/formulation/sukumaram-ghritam/)
+- [Dashmool Dashmoolarishta](/nighantu/formulation/dashmool-dashmoolarishta/)
+- [Dhanwantaram Thailam](/nighantu/formulation/dhanwantaram-thailam/)
+- [Indukantham Ghritam](/nighantu/formulation/indukantham-ghritam/)
+- [Mahayograj Guggul](/nighantu/formulation/mahayograj-guggul/)
+- [Narayana Thailam](/nighantu/formulation/narayana-thailam/)
+- [Sukumaram Ghritam](/nighantu/formulation/sukumaram-ghritam/)
 
 #### Other Preparations (2)
 
-- [Phanita](/ayurveda-atlas/glossary/concepts-m-y/#phanita)
-- [Vatagajankush Rasa](/ayurveda-atlas/herb/vatagajankush-rasa/)
+- [Phanita](/nighantu/glossary/concepts-m-y/#phanita)
+- [Vatagajankush Rasa](/nighantu/herb/vatagajankush-rasa/)
 
 #### See Also
 
-- [Pitta-Balancing Herbs](/ayurveda-atlas/glossary/concepts-m-y/#pitta-balancing)
+- [Pitta-Balancing Herbs](/nighantu/glossary/concepts-m-y/#pitta-balancing)
 
 ### Venesection Instruments Blood Letting Blades {#venesection-instruments-blood-letting-blades}
 
@@ -2604,7 +2604,7 @@ Therapeutic venesection for Pitta-Rakta disorders, hypertension, skin diseases, 
 
 | Language | Name |
 |----------|------|
-| English | [Vidaryadi Kashayam](/ayurveda-atlas/glossary/concepts-m-y/#vidaryadi-kashayam) |
+| English | [Vidaryadi Kashayam](/nighantu/glossary/concepts-m-y/#vidaryadi-kashayam) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -2638,7 +2638,7 @@ Therapeutic venesection for Pitta-Rakta disorders, hypertension, skin diseases, 
 
 **Storage:** Fresh: refrigerate, use within 24h. Tablet/liquid: cool dry place, airtight
 
-**Marker Compounds:** [Puerarin](/ayurveda-atlas/glossary/compounds-o-q/#puerarin), Shatavarin
+**Marker Compounds:** [Puerarin](/nighantu/glossary/compounds-o-q/#puerarin), Shatavarin
 
 **Quality Parameters:** pH 4.0-6.5, specific gravity 1.01-1.05, total solids 2-8%, marker assay: Puerarin, Shatavarin
 
@@ -2646,7 +2646,7 @@ Therapeutic venesection for Pitta-Rakta disorders, hypertension, skin diseases, 
 
 ### Synergistic Combinations
 
-- Classical combination of [Vidari](/ayurveda-atlas/herb/vidari/), [Shatavari](/ayurveda-atlas/herb/shatavari/), [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/), [Bala](/ayurveda-atlas/herb/bala/) provides synergistic therapeutic effect
+- Classical combination of [Vidari](/nighantu/herb/vidari/), [Shatavari](/nighantu/herb/shatavari/), [Ashwagandha](/nighantu/herb/ashwagandha/), [Bala](/nighantu/herb/bala/) provides synergistic therapeutic effect
 
 ### Vidaryadyasava {#vidaryadyasava}
 
@@ -2688,7 +2688,7 @@ Therapeutic venesection for Pitta-Rakta disorders, hypertension, skin diseases, 
 
 **Storage:** Room temperature, tightly sealed, away from direct sunlight. Do not refrigerate.
 
-**Marker Compounds:** [Puerarin](/ayurveda-atlas/glossary/compounds-o-q/#puerarin), Shatavarin
+**Marker Compounds:** [Puerarin](/nighantu/glossary/compounds-o-q/#puerarin), Shatavarin
 
 **Quality Parameters:** Alcohol content 5-12% v/v, pH 3.0-4.5, specific gravity 1.01-1.08, total solids 15-25%, marker: Puerarin, Shatavarin
 
@@ -2696,7 +2696,7 @@ Therapeutic venesection for Pitta-Rakta disorders, hypertension, skin diseases, 
 
 ### Synergistic Combinations
 
-- Key herbs: [Vidari](/ayurveda-atlas/herb/vidari/), [Shatavari](/ayurveda-atlas/herb/shatavari/), [Guduchi](/ayurveda-atlas/herb/guduchi/), [Dhataki](/ayurveda-atlas/herb/dhataki/); fermentation creates unique metabolite profile with enhanced therapeutic activity
+- Key herbs: [Vidari](/nighantu/herb/vidari/), [Shatavari](/nighantu/herb/shatavari/), [Guduchi](/nighantu/herb/guduchi/), [Dhataki](/nighantu/herb/dhataki/); fermentation creates unique metabolite profile with enhanced therapeutic activity
 
 ### Vidhyadhara Apparatus Specialized Distillation {#vidhyadhara-apparatus-specialized-distillation}
 
@@ -2805,7 +2805,7 @@ Complex distillation and sublimation of mercury compounds and other volatile met
 
 **Storage:** Cool, dry place; protected from insects
 
-**Marker Compounds:** [Starch](/ayurveda-atlas/glossary/compounds-q-t/#starch) (80%), Protein (6–7%), B-[vitamins](/ayurveda-atlas/glossary/compounds-t-z/#vitamins), Iron, Oryzanol (in bran)
+**Marker Compounds:** [Starch](/nighantu/glossary/compounds-q-t/#starch) (80%), Protein (6–7%), B-[vitamins](/nighantu/glossary/compounds-t-z/#vitamins), Iron, Oryzanol (in bran)
 
 **Quality Parameters:** Moisture <14%, broken grains <5% (for aged rice), no aflatoxin
 
@@ -2817,7 +2817,7 @@ Complex distillation and sublimation of mercury compounds and other volatile met
 
 | Language | Name |
 |----------|------|
-| English | [Vyoshadi Vati](/ayurveda-atlas/glossary/concepts-m-y/#vyoshadi-vati) |
+| English | [Vyoshadi Vati](/nighantu/glossary/concepts-m-y/#vyoshadi-vati) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -2843,7 +2843,7 @@ Complex distillation and sublimation of mercury compounds and other volatile met
 
 **Standard Dosage:** 2 tablets twice daily for throat/voice
 
-**Bioavailability:** Tablet/pill form provides controlled disintegration; some vatis use honey/[guggulu](/ayurveda-atlas/formulation/guggulu/) as bioenhancing binders
+**Bioavailability:** Tablet/pill form provides controlled disintegration; some vatis use honey/[guggulu](/nighantu/formulation/guggulu/) as bioenhancing binders
 
 **Optimal Timing:** Before or after meals as indicated
 
@@ -2851,7 +2851,7 @@ Complex distillation and sublimation of mercury compounds and other volatile met
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
-**Marker Compounds:** [Piperine](/ayurveda-atlas/reference/piperine/), [Gingerol](/ayurveda-atlas/glossary/compounds-d-g/#gingerol), [Plumbagin](/ayurveda-atlas/glossary/compounds-o-q/#plumbagin)
+**Marker Compounds:** [Piperine](/nighantu/reference/piperine/), [Gingerol](/nighantu/glossary/compounds-d-g/#gingerol), [Plumbagin](/nighantu/glossary/compounds-o-q/#plumbagin)
 
 **Quality Parameters:** Weight variation ±5%, disintegration <30 min, friability <1%, marker: Piperine, Gingerol, Plumbagin
 
@@ -2859,7 +2859,7 @@ Complex distillation and sublimation of mercury compounds and other volatile met
 
 ### Synergistic Combinations
 
-- Key herbs: [Trikatu](/ayurveda-atlas/herb/trikatu/), Chitraka, Musta
+- Key herbs: [Trikatu](/nighantu/herb/trikatu/), Chitraka, Musta
 
 ### Women's Health — Across Traditions {#womens-health-across-traditions}
 
@@ -2872,35 +2872,35 @@ Complex distillation and sublimation of mercury compounds and other volatile met
 
 #### Ayurveda Approach
 
-- [Jivanti](/ayurveda-atlas/herb/jivanti/) *Leptadenia reticulata (Retz.) Wight & Arn.*
+- [Jivanti](/nighantu/herb/jivanti/) *Leptadenia reticulata (Retz.) Wight & Arn.*
   Actions: Antioxidant, Anticancer, Galactagogue
-- [Mishreya](/ayurveda-atlas/herb/mishreya/) *Foeniculum vulgare Mill.*
+- [Mishreya](/nighantu/herb/mishreya/) *Foeniculum vulgare Mill.*
   Actions: Antioxidant, Anticancer, Galactagogue
-- [Vasa](/ayurveda-atlas/herb/vasa/) *Adhatoda vasica Nees (syn. Justicia adhatoda L.)*
+- [Vasa](/nighantu/herb/vasa/) *Adhatoda vasica Nees (syn. Justicia adhatoda L.)*
   Actions: Antioxidant, Anticancer, Hepatoprotective
-- [Aragwadha](/ayurveda-atlas/herb/aragwadha/) *Cassia fistula L.*
+- [Aragwadha](/nighantu/herb/aragwadha/) *Cassia fistula L.*
   Actions: Antioxidant, Anticancer, Antidiabetic
-- [Agnikarna](/ayurveda-atlas/herb/agnikarna/) *Gloriosa superba L. ([Agnikumarika](/ayurveda-atlas/herb/agnikumarika/)/Agnimukhi); also associated with Litsea species in some texts*
+- [Agnikarna](/nighantu/herb/agnikarna/) *Gloriosa superba L. ([Agnikumarika](/nighantu/herb/agnikumarika/)/Agnimukhi); also associated with Litsea species in some texts*
   Actions: Antioxidant, Anticancer, Wound Healing
-- [Kantakari](/ayurveda-atlas/herb/kantakari/) *Solanum xanthocarpum Schrad. & Wendl. (syn. S. surattense Burm. f., S. virginianum L.)*
+- [Kantakari](/nighantu/herb/kantakari/) *Solanum xanthocarpum Schrad. & Wendl. (syn. S. surattense Burm. f., S. virginianum L.)*
   Actions: Antioxidant, Bronchodilator, Anti-inflammatory
-- [Ashoka](/ayurveda-atlas/herb/ashoka/)
+- [Ashoka](/nighantu/herb/ashoka/)
   Actions: Antioxidant, Anticancer, Hemostatic
-- [Ambasthaki](/ayurveda-atlas/herb/ambasthaki/) *Cissampelos pareira L.*
+- [Ambasthaki](/nighantu/herb/ambasthaki/) *Cissampelos pareira L.*
   Actions: Antioxidant, Anticancer, Antidiabetic
-- [Priyangu](/ayurveda-atlas/herb/priyangu/) *Callicarpa macrophylla Vahl.*
+- [Priyangu](/nighantu/herb/priyangu/) *Callicarpa macrophylla Vahl.*
   Actions: Antidiabetic, Anti-inflammatory, Antipyretic
-- [Pushyanuga Churna](/ayurveda-atlas/formulation/pushyanuga-churna/)
+- [Pushyanuga Churna](/nighantu/formulation/pushyanuga-churna/)
   Actions: Wound Healing, Antimicrobial, Anti-inflammatory
-- [Nagarmotha](/ayurveda-atlas/herb/nagarmotha/) *Cyperus rotundus*
+- [Nagarmotha](/nighantu/herb/nagarmotha/) *Cyperus rotundus*
   Actions: Laxative, Analgesic, Anti-inflammatory
-- [Kusumbha](/ayurveda-atlas/herb/kusumbha/)
+- [Kusumbha](/nighantu/herb/kusumbha/)
   Actions: Antioxidant, Hypolipidemic, Anti-inflammatory
-- [Lodhra](/ayurveda-atlas/herb/lodhra/) *Symplocos racemosa Roxb.*
+- [Lodhra](/nighantu/herb/lodhra/) *Symplocos racemosa Roxb.*
   Actions: Antioxidant, Wound Healing, Anti-inflammatory
-- [Mamsarohini](/ayurveda-atlas/herb/mamsarohini/)
+- [Mamsarohini](/nighantu/herb/mamsarohini/)
   Actions: Wound Healing, Hepatoprotective, Anti-inflammatory
-- [Pradarantak Lauh](/ayurveda-atlas/herb/pradarantak-lauh/)
+- [Pradarantak Lauh](/nighantu/herb/pradarantak-lauh/)
   Actions: Antioxidant, Rasayana, Anti-inflammatory
 
 ### Yakuti Rasayana {#yakuti-rasayana}
@@ -2909,7 +2909,7 @@ Complex distillation and sublimation of mercury compounds and other volatile met
 
 | Language | Name |
 |----------|------|
-| English | [Yakuti Rasayana](/ayurveda-atlas/glossary/concepts-m-y/#yakuti-rasayana) |
+| English | [Yakuti Rasayana](/nighantu/glossary/concepts-m-y/#yakuti-rasayana) |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -2931,7 +2931,7 @@ Complex distillation and sublimation of mercury compounds and other volatile met
 
 #### Dosage forms and preparation
 
-**Dosage Forms:** [Rasayana](/ayurveda-atlas/reference/rasayana/) (confection), Capsule
+**Dosage Forms:** [Rasayana](/nighantu/reference/rasayana/) (confection), Capsule
 
 **Standard Dosage:** 3-6g twice daily with milk
 

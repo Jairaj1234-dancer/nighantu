@@ -23,27 +23,27 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Tribhuvan-Kirti-Ra
 
 | Language | Name |
 |----------|------|
-| English | [Tribhuvan Kirti Rasa](/ayurveda-atlas/herb/tribhuvan-kirti-rasa/) |
+| English | [Tribhuvan Kirti Rasa](/nighantu/herb/tribhuvan-kirti-rasa/) |
 
 ## How does it work?
 
-- [Antipyretic](/ayurveda-atlas/reference/antipyretic/) action: [Trikatu](/ayurveda-atlas/herb/trikatu/) ([ginger](/ayurveda-atlas/herb/ginger/), [black pepper](/ayurveda-atlas/herb/black-pepper/), long pepper) combination stimulates Agni (digestive fire) and has proven bioactive compounds (gingerols, [piperine](/ayurveda-atlas/reference/piperine/)) with demonstrated antipyretic and anti-inflammatory effects through COX-2 inhibition
-- Immunostimulatory: [Tulsi](/ayurveda-atlas/herb/tulsi/) (basil) juice provides [eugenol](/ayurveda-atlas/glossary/compounds-d-g/#eugenol), ursolic acid, and rosmarinic acid with documented [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/), antiviral, and antibacterial properties
-- Diaphoretic action: The combination induces sweating to reduce fever; [Vatsanabha](/ayurveda-atlas/herb/vatsanabha/) (processed aconite) in micro-doses has [analgesic](/ayurveda-atlas/reference/analgesic/) and anti-inflammatory effects by modulating sodium channel activity
+- [Antipyretic](/nighantu/reference/antipyretic/) action: [Trikatu](/nighantu/herb/trikatu/) ([ginger](/nighantu/herb/ginger/), [black pepper](/nighantu/herb/black-pepper/), long pepper) combination stimulates Agni (digestive fire) and has proven bioactive compounds (gingerols, [piperine](/nighantu/reference/piperine/)) with demonstrated antipyretic and anti-inflammatory effects through COX-2 inhibition
+- Immunostimulatory: [Tulsi](/nighantu/herb/tulsi/) (basil) juice provides [eugenol](/nighantu/glossary/compounds-d-g/#eugenol), ursolic acid, and rosmarinic acid with documented [immunomodulatory](/nighantu/reference/immunomodulatory/), antiviral, and antibacterial properties
+- Diaphoretic action: The combination induces sweating to reduce fever; [Vatsanabha](/nighantu/herb/vatsanabha/) (processed aconite) in micro-doses has [analgesic](/nighantu/reference/analgesic/) and anti-inflammatory effects by modulating sodium channel activity
 
 ## Which traditional uses are supported by research?
 
-- Antipyretic in all types of fever (Jvara): The [Trikatu](/ayurveda-atlas/herb/trikatu/) and [Tulsi](/ayurveda-atlas/herb/tulsi/) components have well-documented antipyretic and anti-inflammatory properties validated in multiple pharmacological studies; the combined formulation's efficacy in fever is empirically well-established in clinical practice
-- Respiratory infections (Pratishyaya - common cold): The diaphoretic, [antimicrobial](/ayurveda-atlas/reference/antimicrobial/), and immunostimulatory properties of [Tulsi](/ayurveda-atlas/herb/tulsi/), [Trikatu](/ayurveda-atlas/herb/trikatu/), and processed aconite provide a plausible multi-target mechanism for traditional use in upper respiratory infections
+- Antipyretic in all types of fever (Jvara): The [Trikatu](/nighantu/herb/trikatu/) and [Tulsi](/nighantu/herb/tulsi/) components have well-documented antipyretic and anti-inflammatory properties validated in multiple pharmacological studies; the combined formulation's efficacy in fever is empirically well-established in clinical practice
+- Respiratory infections (Pratishyaya - common cold): The diaphoretic, [antimicrobial](/nighantu/reference/antimicrobial/), and immunostimulatory properties of [Tulsi](/nighantu/herb/tulsi/), [Trikatu](/nighantu/herb/trikatu/), and processed aconite provide a plausible multi-target mechanism for traditional use in upper respiratory infections
 
 ## What do recent clinical trials show?
 
-- **Pharmacological Activity of Constituents of [Tribhuvan Kirti Rasa](/ayurveda-atlas/herb/tribhuvan-kirti-rasa/): A Review** (2022): Review of pharmacological activities of individual constituents confirmed antipyretic, anti-inflammatory, and antimicrobial properties. Mercury is present in processed insoluble form (Rasa Sindoor) detoxified via Shodhana and Marana. Scientists call for more randomized controlled trials focusing on immune markers, lung function, and safety monitoring.
+- **Pharmacological Activity of Constituents of [Tribhuvan Kirti Rasa](/nighantu/herb/tribhuvan-kirti-rasa/): A Review** (2022): Review of pharmacological activities of individual constituents confirmed antipyretic, anti-inflammatory, and antimicrobial properties. Mercury is present in processed insoluble form (Rasa Sindoor) detoxified via Shodhana and Marana. Scientists call for more randomized controlled trials focusing on immune markers, lung function, and safety monitoring.
 - **Pharmacological and toxicological insights into the ayurvedic formulation Rasasindura** (2025): Mercury sulfide (HgS) based preparations are safe at therapeutic concentrations when administered with suitable vehicle, but higher concentrations cause neurological toxicity. The insoluble HgS form has reduced GI absorption compared to other mercury compounds.
 
 ## Recent safety updates
 
-- CRITICAL: Contains Aconitum ferox ([Vatsanabha](/ayurveda-atlas/herb/vatsanabha/)), one of the most toxic plants known - even after Shodhana purification, overdose can cause fatal cardiac arrhythmias and neurotoxicity; strict dose adherence is essential
+- CRITICAL: Contains Aconitum ferox ([Vatsanabha](/nighantu/herb/vatsanabha/)), one of the most toxic plants known - even after Shodhana purification, overdose can cause fatal cardiac arrhythmias and neurotoxicity; strict dose adherence is essential
 - Contains mercury as HgS from Kajjali and cinnabar; dual heavy metal and botanical toxicity risk makes this one of the more hazardous rasa shastra formulations
 - Self-medication is explicitly warned against due to aconite content; severe poisoning and death can result from overdose or improperly purified ingredients
 - No long-term safety clinical trials available; all safety claims are based on traditional practice and extrapolation from related formulation studies
@@ -66,16 +66,16 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Tribhuvan-Kirti-Ra
 
 **Bioavailability:** Good; standard Rasaushadhi with anti-pyretic and anti-infective action
 
-**Optimal Timing:** With honey and [Tulsi](/ayurveda-atlas/herb/tulsi/) juice; or with Ardrak Swarasa
+**Optimal Timing:** With honey and [Tulsi](/nighantu/herb/tulsi/) juice; or with Ardrak Swarasa
 
-**Standardized Extract:** Kajjali + Shuddha [Vatsanabha](/ayurveda-atlas/herb/vatsanabha/) (purified aconite) + anti-infective herbs
+**Standardized Extract:** Kajjali + Shuddha [Vatsanabha](/nighantu/herb/vatsanabha/) (purified aconite) + anti-infective herbs
 
 **Shelf Life:** Indefinite
 
 **Storage:** Airtight container
 
-**Marker Compounds:** Mercury sulfide, Aconitine derivatives (purified), Piperine, [Trikatu](/ayurveda-atlas/herb/trikatu/) [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids)
+**Marker Compounds:** Mercury sulfide, Aconitine derivatives (purified), Piperine, [Trikatu](/nighantu/herb/trikatu/) [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids)
 
 **Quality Parameters:** Standard Rasaushadhi tests, free aconitine below safety limits, free mercury <1 ppm
 
-**Vehicle (Anupana):** Honey + [Tulsi](/ayurveda-atlas/herb/tulsi/) juice (for fever); [ginger](/ayurveda-atlas/herb/ginger/) juice (for cold)
+**Vehicle (Anupana):** Honey + [Tulsi](/nighantu/herb/tulsi/) juice (for fever); [ginger](/nighantu/herb/ginger/) juice (for cold)

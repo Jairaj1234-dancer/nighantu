@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Amritar
 
 **Standard Dosage:** 15-30 mL twice daily after meals with equal quantity of water, as per AFI Part I
 
-**Bioavailability:** Self-generated alcohol (5-12%) acts as preservative and bioenhancer, enabling extraction and absorption of [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) and [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides). Fermentation produces novel bioactive metabolites not present in the original decoction. Rapid oral absorption of water-alcohol soluble fraction.
+**Bioavailability:** Self-generated alcohol (5-12%) acts as preservative and bioenhancer, enabling extraction and absorption of [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) and [glycosides](/nighantu/glossary/compounds-g-l/#glycosides). Fermentation produces novel bioactive metabolites not present in the original decoction. Rapid oral absorption of water-alcohol soluble fraction.
 
 **Optimal Timing:** After meals (Bhojana-uttara), twice daily
 
@@ -57,15 +57,15 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Amritar
 
 **Storage:** Store in well-closed amber glass or HDPE containers in a cool, dry place. Protect from direct sunlight. Temperature not exceeding 30°C.
 
-**Marker Compounds:** [Berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine), [Tinosporaside](/ayurveda-atlas/glossary/compounds-t-z/#tinosporaside), [Columbin](/ayurveda-atlas/glossary/compounds-c-d/#columbin), [Magnoflorine](/ayurveda-atlas/glossary/compounds-l-o/#magnoflorine)
+**Marker Compounds:** [Berberine](/nighantu/glossary/compounds-a-c/#berberine), [Tinosporaside](/nighantu/glossary/compounds-t-z/#tinosporaside), [Columbin](/nighantu/glossary/compounds-c-d/#columbin), [Magnoflorine](/nighantu/glossary/compounds-l-o/#magnoflorine)
 
-**Quality Parameters:** pH (3.0-4.5), specific gravity (1.01-1.05), self-generated alcohol (5-12% v/v), total solids, total sugar, total acidity, microbial limits, heavy metals, HPTLC for [berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine) and tinosporaside, absence of methanol, organoleptic evaluation
+**Quality Parameters:** pH (3.0-4.5), specific gravity (1.01-1.05), self-generated alcohol (5-12% v/v), total solids, total sugar, total acidity, microbial limits, heavy metals, HPTLC for [berberine](/nighantu/glossary/compounds-a-c/#berberine) and tinosporaside, absence of methanol, organoleptic evaluation
 
 **Vehicle (Anupana):** Equal quantity of lukewarm water
 
 ### Synergistic Combinations
 
-- Amrita [Ghrita](/ayurveda-atlas/herb/ghrita/)|Amrita Ghrita
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) Satva
+- Amrita [Ghrita](/nighantu/herb/ghrita/)|Amrita Ghrita
+- [Guduchi](/nighantu/herb/guduchi/) Satva
 - Sudarshana Churna
 - Panchanimba Churna

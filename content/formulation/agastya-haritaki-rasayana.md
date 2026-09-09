@@ -23,33 +23,33 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Rasayanas-Rejuvenatives/Agastya-H
 
 | Language | Name |
 |----------|------|
-| English | Agastya [Haritaki](/ayurveda-atlas/herb/haritaki/) Rasayana|[Agastya](/ayurveda-atlas/herb/agastya/) [Haritaki](/ayurveda-atlas/herb/haritaki/) Rasayana |
+| English | Agastya [Haritaki](/nighantu/herb/haritaki/) Rasayana|[Agastya](/nighantu/herb/agastya/) [Haritaki](/nighantu/herb/haritaki/) Rasayana |
 
 ## Key Ingredients
 
-- [Haritaki](/ayurveda-atlas/herb/haritaki/) (Terminalia chebula) - primary herb
+- [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula) - primary herb
 - Dashamula (group of ten roots)
-- [Bala](/ayurveda-atlas/herb/bala/) (Sida cordifolia)
+- [Bala](/nighantu/herb/bala/) (Sida cordifolia)
 - Atmagupta / Kapikacchu (Mucuna pruriens)
-- [Gajapippali](/ayurveda-atlas/herb/gajapippali/) (Scindapsus officinalis)
-- [Pippali](/ayurveda-atlas/herb/pippali/) moola (root of Piper longum)
-- [Bharangi](/ayurveda-atlas/herb/bharangi/) (Clerodendrum serratum)
+- [Gajapippali](/nighantu/herb/gajapippali/) (Scindapsus officinalis)
+- [Pippali](/nighantu/herb/pippali/) moola (root of Piper longum)
+- [Bharangi](/nighantu/herb/bharangi/) (Clerodendrum serratum)
 - Pushkaramoola (Inula racemosa)
 - Chitraka (Plumbago zeylanica)
-- [Yava](/ayurveda-atlas/herb/yava/) (Hordeum vulgare / Barley)
-- [Ghrita](/ayurveda-atlas/herb/ghrita/) (cow ghee)
-- [Madhu](/ayurveda-atlas/herb/madhu/) (honey)
+- [Yava](/nighantu/herb/yava/) (Hordeum vulgare / Barley)
+- [Ghrita](/nighantu/herb/ghrita/) (cow ghee)
+- [Madhu](/nighantu/herb/madhu/) (honey)
 
 ## Where is it described in the classical texts?
 
-Charaka Samhita, Chikitsa Sthana 17th chapter (Kasa Chikitsa: 57-62); Ashtanga Hridayam; attributed to sage [Agastya](/ayurveda-atlas/herb/agastya/); Rasatarangini (17th century CE)
+Charaka Samhita, Chikitsa Sthana 17th chapter (Kasa Chikitsa: 57-62); Ashtanga Hridayam; attributed to sage [Agastya](/nighantu/herb/agastya/); Rasatarangini (17th century CE)
 
 ## How does it work?
 
-- [Haritaki](/ayurveda-atlas/herb/haritaki/) (chebulinic acid, gallic acid) provides [antioxidant](/ayurveda-atlas/reference/antioxidant/), anti-inflammatory, and bronchodilatory effects on respiratory mucosa
+- [Haritaki](/nighantu/herb/haritaki/) (chebulinic acid, gallic acid) provides [antioxidant](/nighantu/reference/antioxidant/), anti-inflammatory, and bronchodilatory effects on respiratory mucosa
 - Dashamula group provides potent anti-inflammatory action, reducing bronchial inflammation and edema in chronic respiratory disease
-- [Bharangi](/ayurveda-atlas/herb/bharangi/) (clerodendrin) acts as a specific [bronchodilator](/ayurveda-atlas/reference/bronchodilator/), relaxing airway smooth muscle and reducing bronchospasm
-- Pushkaramoola ([inulin](/ayurveda-atlas/glossary/compounds-g-l/#inulin), [alantolactone](/ayurveda-atlas/glossary/compounds-1-a/#alantolactone)) provides direct anti-asthmatic action through mast cell stabilization
+- [Bharangi](/nighantu/herb/bharangi/) (clerodendrin) acts as a specific [bronchodilator](/nighantu/reference/bronchodilator/), relaxing airway smooth muscle and reducing bronchospasm
+- Pushkaramoola ([inulin](/nighantu/glossary/compounds-g-l/#inulin), [alantolactone](/nighantu/glossary/compounds-1-a/#alantolactone)) provides direct anti-asthmatic action through mast cell stabilization
 - Approximately 100 synergistic components work collectively for comprehensive respiratory support and Rasayana (rejuvenation) effects
 
 ## Which traditional uses are supported by research?
@@ -57,19 +57,19 @@ Charaka Samhita, Chikitsa Sthana 17th chapter (Kasa Chikitsa: 57-62); Ashtanga H
 - Tamaka Shwasa (bronchial asthma): critical review validates bronchodilatory and anti-inflammatory mechanisms for chronic asthma management
 - Kasa (chronic cough): primary classical indication from Charaka Samhita Kasa Chikitsa validated through pharmacological studies
 - Pranvaha Srotas health (respiratory channels): clinical study confirms measurable improvement in cardiorespiratory parameters
-- Pratishyaya (allergic rhinitis/sinusitis): traditional respiratory indication supported by [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) and anti-allergic properties
+- Pratishyaya (allergic rhinitis/sinusitis): traditional respiratory indication supported by [immunomodulatory](/nighantu/reference/immunomodulatory/) and anti-allergic properties
 
 ## What do recent clinical trials show?
 
-- **Agastya [Haritaki](/ayurveda-atlas/herb/haritaki/) Rasayana|[Agastya](/ayurveda-atlas/herb/agastya/) [Haritaki](/ayurveda-atlas/herb/haritaki/) Rasayana: A Critical Review** (2019): Comprehensive critical review documented therapeutic actions including bronchodilatory, anti-inflammatory, immunomodulatory, and mucolytic properties validated through pharmacological studies
-- **Evaluation of the Effect of Pranayama and Agastya [Haritaki](/ayurveda-atlas/herb/haritaki/) Rasayana|[Agastya](/ayurveda-atlas/herb/agastya/) Haritaki Rasayana on Pranvaha Srotas** (2021): Clinical study demonstrated measurable improvement in cardiorespiratory parameters with [Agastya](/ayurveda-atlas/herb/agastya/) Haritaki Rasayana administration
-- **[Agastya](/ayurveda-atlas/herb/agastya/) Haritaki: A Comprehensive Review of its standardization and therapeutic potential** (2023): HPTLC analysis and physicochemical standardization established quality parameters; formulation demonstrated consistent therapeutic activity across standardized batches
+- **Agastya [Haritaki](/nighantu/herb/haritaki/) Rasayana|[Agastya](/nighantu/herb/agastya/) [Haritaki](/nighantu/herb/haritaki/) Rasayana: A Critical Review** (2019): Comprehensive critical review documented therapeutic actions including bronchodilatory, anti-inflammatory, immunomodulatory, and mucolytic properties validated through pharmacological studies
+- **Evaluation of the Effect of Pranayama and Agastya [Haritaki](/nighantu/herb/haritaki/) Rasayana|[Agastya](/nighantu/herb/agastya/) Haritaki Rasayana on Pranvaha Srotas** (2021): Clinical study demonstrated measurable improvement in cardiorespiratory parameters with [Agastya](/nighantu/herb/agastya/) Haritaki Rasayana administration
+- **[Agastya](/nighantu/herb/agastya/) Haritaki: A Comprehensive Review of its standardization and therapeutic potential** (2023): HPTLC analysis and physicochemical standardization established quality parameters; formulation demonstrated consistent therapeutic activity across standardized batches
 
 ## Recent safety updates
 
 - Considered very safe for long-term use compared to other Ayurvedic respiratory medicines; advantageous safety profile for chronic administration
 - Some formulations may contain trace heavy metals from botanical sources - appropriate quality control and testing recommended
-- Generally well-tolerated; excessive doses may cause mild loose stools due to Haritaki's [laxative](/ayurveda-atlas/reference/laxative/) properties
+- Generally well-tolerated; excessive doses may cause mild loose stools due to Haritaki's [laxative](/nighantu/reference/laxative/) properties
 
 ## What is it made of?
 
@@ -86,7 +86,7 @@ Charaka Samhita, Chikitsa Sthana 17th chapter (Kasa Chikitsa: 57-62); Ashtanga H
 
 **Standard Dosage:** 6-12 g twice daily, or as directed, as per AFI Part I
 
-**Bioavailability:** Ghee and sugar base enhances absorption of lipophilic actives. [Piperine](/ayurveda-atlas/reference/piperine/) from [Pippali](/ayurveda-atlas/herb/pippali/) acts as a natural bioenhancer increasing absorption of other phytoconstituents by up to 30%.
+**Bioavailability:** Ghee and sugar base enhances absorption of lipophilic actives. [Piperine](/nighantu/reference/piperine/) from [Pippali](/nighantu/herb/pippali/) acts as a natural bioenhancer increasing absorption of other phytoconstituents by up to 30%.
 
 **Optimal Timing:** Early morning on empty stomach and/or before bedtime
 
@@ -102,8 +102,8 @@ Charaka Samhita, Chikitsa Sthana 17th chapter (Kasa Chikitsa: 57-62); Ashtanga H
 
 ### Synergistic Combinations
 
-- [Sitopaladi Churna](/ayurveda-atlas/formulation/sitopaladi-churna/)
-- [Talisadi Churna](/ayurveda-atlas/formulation/talisadi-churna/)
+- [Sitopaladi Churna](/nighantu/formulation/sitopaladi-churna/)
+- [Talisadi Churna](/nighantu/formulation/talisadi-churna/)
 - Kanakasava
 - Vasarishta
-- [Dashamularishta](/ayurveda-atlas/formulation/dashamularishta/)
+- [Dashamularishta](/nighantu/formulation/dashamularishta/)

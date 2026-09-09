@@ -2,7 +2,7 @@ import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 
 const SITE = process.env.ATLAS_SITE || 'https://jairaj1234-dancer.github.io';
-const BASE = process.env.ATLAS_BASE || '/ayurveda-atlas';
+const BASE = process.env.ATLAS_BASE || '/nighantu';
 
 export default defineConfig({
   site: SITE,

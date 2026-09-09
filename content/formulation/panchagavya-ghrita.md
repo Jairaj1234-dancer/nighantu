@@ -23,16 +23,16 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Panchagav
 
 | Language | Name |
 |----------|------|
-| English | Panchagavya [Ghrita](/ayurveda-atlas/herb/ghrita/)|Panchagavya Ghrita |
+| English | Panchagavya [Ghrita](/nighantu/herb/ghrita/)|Panchagavya Ghrita |
 
 ## Key Ingredients
 
-- Go-[Ksheera](/ayurveda-atlas/herb/ksheera/) (cow milk)
-- Go-[Ghrita](/ayurveda-atlas/herb/ghrita/) (cow ghee/clarified butter)
+- Go-[Ksheera](/nighantu/herb/ksheera/) (cow milk)
+- Go-[Ghrita](/nighantu/herb/ghrita/) (cow ghee/clarified butter)
 - Go-Mutra (cow urine)
-- Go-[Dadhi](/ayurveda-atlas/herb/dadhi/) (cow curd)
+- Go-[Dadhi](/nighantu/herb/dadhi/) (cow curd)
 - Go-Maya Rasa (cow dung juice)
-- Maha Panchagavya variant additionally contains 42 herbal drugs including [Brahmi](/ayurveda-atlas/herb/brahmi/), Shankhapushpi, and [Vacha](/ayurveda-atlas/herb/vacha/)
+- Maha Panchagavya variant additionally contains 42 herbal drugs including [Brahmi](/nighantu/herb/brahmi/), Shankhapushpi, and [Vacha](/nighantu/herb/vacha/)
 
 ## Where is it described in the classical texts?
 
@@ -41,9 +41,9 @@ Sushruta Samhita (mania, epilepsy, fever, hepatitis); Charaka Samhita; Ashtanga 
 ## How does it work?
 
 - Panchagavya components provide ketogenic substrate through high-fat cow ghee content, mimicking ketogenic diet mechanism in epilepsy management
-- [Brahmi](/ayurveda-atlas/herb/brahmi/) (bacosides) and Shankhapushpi provide [neuroprotective](/ayurveda-atlas/reference/neuroprotective/) and anticonvulsant action via GABAergic pathway modulation
-- [Vacha](/ayurveda-atlas/herb/vacha/) (Acorus calamus) provides CNS-active compounds that reduce neural excitability and seizure threshold
-- Phytochemical profile includes [proteins](/ayurveda-atlas/glossary/compounds-o-q/#proteins), amino acids, [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids), [steroids](/ayurveda-atlas/glossary/compounds-q-t/#steroids), phenolics, [tannins](/ayurveda-atlas/reference/tannins/), and [flavonoids](/ayurveda-atlas/reference/flavonoids/) with [antioxidant](/ayurveda-atlas/reference/antioxidant/) action reducing oxidative stress in brain
+- [Brahmi](/nighantu/herb/brahmi/) (bacosides) and Shankhapushpi provide [neuroprotective](/nighantu/reference/neuroprotective/) and anticonvulsant action via GABAergic pathway modulation
+- [Vacha](/nighantu/herb/vacha/) (Acorus calamus) provides CNS-active compounds that reduce neural excitability and seizure threshold
+- Phytochemical profile includes [proteins](/nighantu/glossary/compounds-o-q/#proteins), amino acids, [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids), [steroids](/nighantu/glossary/compounds-q-t/#steroids), phenolics, [tannins](/nighantu/reference/tannins/), and [flavonoids](/nighantu/reference/flavonoids/) with [antioxidant](/nighantu/reference/antioxidant/) action reducing oxidative stress in brain
 - Synergistic interaction with conventional anticonvulsants (phenytoin, carbamazepine) enables dose reduction and improved tolerability
 
 ## Which traditional uses are supported by research?
@@ -51,13 +51,13 @@ Sushruta Samhita (mania, epilepsy, fever, hepatitis); Charaka Samhita; Ashtanga 
 - Apasmara (epilepsy): clinical study shows 25% complete seizure freedom, and dose-dependent 16.6-100% seizure protection in animal models
 - Unmada (psychosis/mania): classical psychiatric indication supported by neuroprotective and GABAergic pharmacological evidence
 - Adjuvant anti-epileptic therapy: demonstrated synergistic interaction with phenytoin and carbamazepine enabling dose reduction
-- [Kamala](/ayurveda-atlas/herb/kamala/) (jaundice/liver disorders): traditional [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) use referenced in Sushruta Samhita
+- [Kamala](/nighantu/herb/kamala/) (jaundice/liver disorders): traditional [hepatoprotective](/nighantu/reference/hepatoprotective/) use referenced in Sushruta Samhita
 
 ## What do recent clinical trials show?
 
-- **Panchagavya [Ghrita](/ayurveda-atlas/herb/ghrita/)|Panchagavya Ghrita, an Ayurvedic formulation attenuates seizures, cognitive impairment and oxidative stress in pentylenetetrazole induced seizures in rats** (2015): Pretreatment with PG at 500-4000 mg/kg exhibited 16.6-100% protection against generalized tonic-clonic seizures in PTZ model; 4000 mg/kg provided complete seizure protection
-- **Pharmacodynamic and pharmacokinetic interaction of Panchagavya [Ghrita](/ayurveda-atlas/herb/ghrita/)|Panchagavya Ghrita with phenytoin and carbamazepine in maximal electroshock induced seizures in rats** (2016): Co-administration of PG with low doses of phenytoin and carbamazepine caused complete seizure protection, suggesting potential as an adjunct in epilepsy with improved efficacy and tolerability
-- **Efficacy of Maha-Pancha Gavya [Ghrita](/ayurveda-atlas/herb/ghrita/) in the Management of Epilepsy (Apasmara)** (2020): 25% patients became completely seizure-free; 25% had 50% reduction in seizure frequency; 33.3% had 25% frequency reduction after treatment
+- **Panchagavya [Ghrita](/nighantu/herb/ghrita/)|Panchagavya Ghrita, an Ayurvedic formulation attenuates seizures, cognitive impairment and oxidative stress in pentylenetetrazole induced seizures in rats** (2015): Pretreatment with PG at 500-4000 mg/kg exhibited 16.6-100% protection against generalized tonic-clonic seizures in PTZ model; 4000 mg/kg provided complete seizure protection
+- **Pharmacodynamic and pharmacokinetic interaction of Panchagavya [Ghrita](/nighantu/herb/ghrita/)|Panchagavya Ghrita with phenytoin and carbamazepine in maximal electroshock induced seizures in rats** (2016): Co-administration of PG with low doses of phenytoin and carbamazepine caused complete seizure protection, suggesting potential as an adjunct in epilepsy with improved efficacy and tolerability
+- **Efficacy of Maha-Pancha Gavya [Ghrita](/nighantu/herb/ghrita/) in the Management of Epilepsy (Apasmara)** (2020): 25% patients became completely seizure-free; 25% had 50% reduction in seizure frequency; 33.3% had 25% frequency reduction after treatment
 
 ## Recent safety updates
 
@@ -76,7 +76,7 @@ Sushruta Samhita (mania, epilepsy, fever, hepatitis); Charaka Samhita; Ashtanga 
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** [Ghrita](/ayurveda-atlas/herb/ghrita/) (medicated ghee), Capsule (for convenience)
+**Dosage Forms:** [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Capsule (for convenience)
 
 **Standard Dosage:** 6-12ml twice daily for neurological conditions
 
@@ -84,7 +84,7 @@ Sushruta Samhita (mania, epilepsy, fever, hepatitis); Charaka Samhita; Ashtanga 
 
 **Optimal Timing:** Before meals on empty stomach for best absorption
 
-**Shelf Life:** 2 years (as per ASU guidelines for [ghrita](/ayurveda-atlas/herb/ghrita/) preparations); improves with aging (Purana Ghrita concept)
+**Shelf Life:** 2 years (as per ASU guidelines for [ghrita](/nighantu/herb/ghrita/) preparations); improves with aging (Purana Ghrita concept)
 
 **Storage:** Airtight glass/stainless steel container, cool dry place, protected from light and moisture
 
@@ -96,4 +96,4 @@ Sushruta Samhita (mania, epilepsy, fever, hepatitis); Charaka Samhita; Ashtanga 
 
 ### Synergistic Combinations
 
-- Key herbs: 5 cow products: milk, curd, ghee, urine, dung + Kushtha, [Brahmi](/ayurveda-atlas/herb/brahmi/); ghee enhances tissue penetration (yogavahi property)
+- Key herbs: 5 cow products: milk, curd, ghee, urine, dung + Kushtha, [Brahmi](/nighantu/herb/brahmi/); ghee enhances tissue penetration (yogavahi property)

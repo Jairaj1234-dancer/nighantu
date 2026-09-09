@@ -28,15 +28,15 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Patrang
 ## Key Ingredients
 
 - Patranga (Caesalpinia sappan / Sappan wood)
-- [Khadira](/ayurveda-atlas/herb/khadira/) (Acacia catechu)
-- [Vasaka](/ayurveda-atlas/herb/vasaka/) (Adhatoda vasica)
+- [Khadira](/nighantu/herb/khadira/) (Acacia catechu)
+- [Vasaka](/nighantu/herb/vasaka/) (Adhatoda vasica)
 - Semal flowers (Bombax ceiba)
-- [Bala](/ayurveda-atlas/herb/bala/) (Sida cordifolia)
+- [Bala](/nighantu/herb/bala/) (Sida cordifolia)
 - Gurhal (Hibiscus rosa-sinensis)
-- [Trikatu](/ayurveda-atlas/herb/trikatu/) ([Pippali](/ayurveda-atlas/herb/pippali/), Maricha, Shunthi)
+- [Trikatu](/nighantu/herb/trikatu/) ([Pippali](/nighantu/herb/pippali/), Maricha, Shunthi)
 - Trivrutta (Operculina turpethum)
-- [Devadaru](/ayurveda-atlas/herb/devadaru/) (Cedrus deodara)
-- [Dhataki](/ayurveda-atlas/herb/dhataki/) pushpa (Woodfordia fruticosa)
+- [Devadaru](/nighantu/herb/devadaru/) (Cedrus deodara)
+- [Dhataki](/nighantu/herb/dhataki/) pushpa (Woodfordia fruticosa)
 - Jaggery (fermentation medium)
 
 ## Where is it described in the classical texts?
@@ -45,15 +45,15 @@ Brihat Trayi (the three great classics of Ayurveda). Mentioned in Charaka Samhit
 
 ## How does it work?
 
-- [Hemostatic](/ayurveda-atlas/glossary/pharmacology/#hemostatic) and astringent action of Patranga and [Khadira](/ayurveda-atlas/herb/khadira/) controls heavy menstrual bleeding (menorrhagia)
-- Anti-inflammatory action of [Vasaka](/ayurveda-atlas/herb/vasaka/) and [Devadaru](/ayurveda-atlas/herb/devadaru/) reduces uterine inflammation and pain
-- Uterine tonic properties of [Bala](/ayurveda-atlas/herb/bala/) and Gurhal strengthen reproductive tissue and improve hormonal balance
+- [Hemostatic](/nighantu/glossary/pharmacology/#hemostatic) and astringent action of Patranga and [Khadira](/nighantu/herb/khadira/) controls heavy menstrual bleeding (menorrhagia)
+- Anti-inflammatory action of [Vasaka](/nighantu/herb/vasaka/) and [Devadaru](/nighantu/herb/devadaru/) reduces uterine inflammation and pain
+- Uterine tonic properties of [Bala](/nighantu/herb/bala/) and Gurhal strengthen reproductive tissue and improve hormonal balance
 - Antacid and digestive action addresses associated digestive complaints with less rebound acidity than conventional antacids
 
 ## Which traditional uses are supported by research?
 
 - Heavy menstrual bleeding (Raktapradar/Menorrhagia) - validated by hemostatic and astringent mechanism studies
-- Leucorrhea (Shweta Pradar) - supported by uterine tonic and [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) properties
+- Leucorrhea (Shweta Pradar) - supported by uterine tonic and [antimicrobial](/nighantu/reference/antimicrobial/) properties
 - PCOS and menstrual irregularity - supported by clinical study showing improved menstrual regularity
 - Endometriosis-related pain - corroborated by clinical observation of pain and inflammation reduction
 
@@ -99,4 +99,4 @@ Brihat Trayi (the three great classics of Ayurveda). Mentioned in Charaka Samhit
 
 ### Synergistic Combinations
 
-- Key herbs: Patranga (Caesalpinia sappan), [Dhataki](/ayurveda-atlas/herb/dhataki/), other herbs; fermentation creates unique metabolite profile with enhanced therapeutic activity
+- Key herbs: Patranga (Caesalpinia sappan), [Dhataki](/nighantu/herb/dhataki/), other herbs; fermentation creates unique metabolite profile with enhanced therapeutic activity

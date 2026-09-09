@@ -45,11 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kumud/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Kashayam (decoction), Swarasa (juice), Kalka (paste), [Ghrita](/ayurveda-atlas/herb/ghrita/) (medicated ghee), Capsule
+**Dosage Forms:** Churna (powder), Kashayam (decoction), Swarasa (juice), Kalka (paste), [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Capsule
 
 **Standard Dosage:** 3-6 g powder twice daily; 50-100 mL decoction; 10-20 mL juice; 5-10 g medicated ghee
 
-**Bioavailability:** [Flavonoids](/ayurveda-atlas/reference/flavonoids/) ([quercetin](/ayurveda-atlas/reference/quercetinquercetin/), [kaempferol](/ayurveda-atlas/reference/kaempferol/) [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides)) from water lily show moderate oral bioavailability. [Alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) (nymphayol) are well-absorbed orally. [Ghrita](/ayurveda-atlas/herb/ghrita/) (ghee) preparations provide lipid carrier for enhanced absorption of lipophilic compounds. Mucilaginous rhizome constituents create sustained-release matrix in GI tract.
+**Bioavailability:** [Flavonoids](/nighantu/reference/flavonoids/) ([quercetin](/nighantu/reference/quercetinquercetin/), [kaempferol](/nighantu/reference/kaempferol/) [glycosides](/nighantu/glossary/compounds-g-l/#glycosides)) from water lily show moderate oral bioavailability. [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) (nymphayol) are well-absorbed orally. [Ghrita](/nighantu/herb/ghrita/) (ghee) preparations provide lipid carrier for enhanced absorption of lipophilic compounds. Mucilaginous rhizome constituents create sustained-release matrix in GI tract.
 
 **Optimal Timing:** After meals for digestive cooling; Ghrita preparation: twice daily with warm water; flower preparations: evening for calming effect
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kumud/meta-analysis.md"
 
 **Storage:** Store dried material in airtight, moisture-proof containers at 15-30°C. Rhizome powder is hygroscopic. Ghrita in clean glass jars at room temperature. Flower preparations protected from light.
 
-**Marker Compounds:** Nymphayol, Nupharin, [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/), Kaempferol, [Myricetin](/ayurveda-atlas/glossary/compounds-l-o/#myricetin), Gallic acid, Nymphaesterone, [Starch](/ayurveda-atlas/glossary/compounds-q-t/#starch) [polysaccharides](/ayurveda-atlas/glossary/compounds-o-q/#polysaccharides)
+**Marker Compounds:** Nymphayol, Nupharin, [Quercetin](/nighantu/reference/quercetinquercetin/), Kaempferol, [Myricetin](/nighantu/glossary/compounds-l-o/#myricetin), Gallic acid, Nymphaesterone, [Starch](/nighantu/glossary/compounds-q-t/#starch) [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides)
 
 ### Extraction Methods
 
@@ -71,8 +71,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kumud/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Kumuda](/ayurveda-atlas/herb/kumuda/) for complementary aquatic plant synergy
-- [Padmaka](/ayurveda-atlas/herb/padmaka/) for cardiac support
-- [Chandana](/ayurveda-atlas/herb/chandana/) for cooling and Pitta-pacifying formulations
-- [Ushira](/ayurveda-atlas/herb/ushira/) for anti-inflammatory combinations
-- [Sariva](/ayurveda-atlas/herb/sariva/) for blood purification
+- [Kumuda](/nighantu/herb/kumuda/) for complementary aquatic plant synergy
+- [Padmaka](/nighantu/herb/padmaka/) for cardiac support
+- [Chandana](/nighantu/herb/chandana/) for cooling and Pitta-pacifying formulations
+- [Ushira](/nighantu/herb/ushira/) for anti-inflammatory combinations
+- [Sariva](/nighantu/herb/sariva/) for blood purification

@@ -32,13 +32,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Devadaru/meta-analysis.m
 - Alpha-himachalene
 - Beta-himachalene
 - Gamma-himachalene
-- [Taxifolin](/ayurveda-atlas/glossary/compounds-t-z/#taxifolin) (dihydroquercetin)
+- [Taxifolin](/nighantu/glossary/compounds-t-z/#taxifolin) (dihydroquercetin)
 - Cedrusone A
 - Deodarin
 - Cedeodarin
 - Cedrin
 - Alpha-terpineol
-- [Limonene](/ayurveda-atlas/glossary/compounds-g-l/#limonene)
+- [Limonene](/nighantu/glossary/compounds-g-l/#limonene)
 - Isopimaric acid
 - Wikstromol (lignan)
 
@@ -46,25 +46,25 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Devadaru/meta-analysis.m
 
 - Spasmolytic activity of himachalol via non-specific smooth muscle relaxation similar to papaverine (calcium channel antagonism)
 - Anti-inflammatory action through flavonoid-mediated (taxifolin) inhibition of COX-2, LOX, and NF-kB signaling pathways
-- [Neuroprotective](/ayurveda-atlas/reference/neuroprotective/) effects via [antioxidant](/ayurveda-atlas/reference/antioxidant/)-mediated reduction of oxidative stress in neuronal cells and modulation of neurotransmitter levels
-- [Antimicrobial](/ayurveda-atlas/reference/antimicrobial/) activity through essential oil [terpenoids](/ayurveda-atlas/glossary/compounds-t-z/#terpenoids) disrupting microbial cell membrane integrity
+- [Neuroprotective](/nighantu/reference/neuroprotective/) effects via [antioxidant](/nighantu/reference/antioxidant/)-mediated reduction of oxidative stress in neuronal cells and modulation of neurotransmitter levels
+- [Antimicrobial](/nighantu/reference/antimicrobial/) activity through essential oil [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids) disrupting microbial cell membrane integrity
 
 ## Which traditional uses are supported by research?
 
 - Anti-inflammatory and anti-arthritic use validated in carrageenan-induced paw edema and Freund's adjuvant models
-- [Diuretic](/ayurveda-atlas/reference/diuretic/) and antiurolithiatic effects confirmed in ethylene glycol-induced urolithiasis models in rats
+- [Diuretic](/nighantu/reference/diuretic/) and antiurolithiatic effects confirmed in ethylene glycol-induced urolithiasis models in rats
 - Antifungal activity validated against Aspergillus fumigatus and dermatophyte species using essential oil
 - Respiratory ailment use supported by bronchodilatory and antiasthmatic activity in preclinical models
 
 ## What do recent clinical trials show?
 
-- **Cedrus deodara (Roxb.): a review on the recent update on its pharmacological and phytochemical profile** (2023): Comprehensive review of 105 chemical constituents identified [anticancer](/ayurveda-atlas/reference/anticancer/), antimicrobial, neuroprotective, [antidiabetic](/ayurveda-atlas/reference/antidiabetic/), antiurolithiatic and antiasthmatic activities; noted non-toxic profile in rabbit and sheep skin models.
+- **Cedrus deodara (Roxb.): a review on the recent update on its pharmacological and phytochemical profile** (2023): Comprehensive review of 105 chemical constituents identified [anticancer](/nighantu/reference/anticancer/), antimicrobial, neuroprotective, [antidiabetic](/nighantu/reference/antidiabetic/), antiurolithiatic and antiasthmatic activities; noted non-toxic profile in rabbit and sheep skin models.
 - **Ethnobotanical Uses, Phytochemistry, Biological Potential and Structural Modification of Himachalane Present in Cedrus deodara** (2024): Himachalane sesquiterpenes showed potent insecticidal, antifungal and spasmolytic activities; structural modifications enhanced bioavailability and target selectivity.
-- **Cedrus deodara: A review of traditional use, phytochemical composition and pharmacology** (2023): Confirmed taxifolin and deodarin as major bark [flavonoids](/ayurveda-atlas/reference/flavonoids/) with potent antioxidant and anti-inflammatory properties; wood essential oil showed significant [analgesic](/ayurveda-atlas/reference/analgesic/) effects.
+- **Cedrus deodara: A review of traditional use, phytochemical composition and pharmacology** (2023): Confirmed taxifolin and deodarin as major bark [flavonoids](/nighantu/reference/flavonoids/) with potent antioxidant and anti-inflammatory properties; wood essential oil showed significant [analgesic](/nighantu/reference/analgesic/) effects.
 
 ## Recent safety updates
 
-- Non-toxic and non-irritating to rabbit and sheep skin in dermal studies; no adverse effects on blood urea nitrogen or blood [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose) levels at tested doses
+- Non-toxic and non-irritating to rabbit and sheep skin in dermal studies; no adverse effects on blood urea nitrogen or blood [glucose](/nighantu/glossary/compounds-d-g/#glucose) levels at tested doses
 - Mode of action, efficacy, optimal dose range and long-term safety in humans require further investigation; essential oil should be used in diluted form to avoid skin sensitization
 
 ## What is it made of?
@@ -95,7 +95,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Devadaru/meta-analysis.m
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction twice daily; 500mg extract capsule twice daily; Taila for external application
 
-**Bioavailability:** Cedrus deodara heartwood contains sesquiterpenes (himachalenes) and terpenoids with moderate lipophilicity. Oral bioavailability of sesquiterpenes is moderate (15-30%) with hepatic first-pass metabolism. Taila preparations enhance absorption of lipophilic terpenoids through lymphatic uptake. Volatile oil components absorbed well from GI tract but rapidly metabolized. Enhancement: cyclodextrin complexation improves aqueous solubility of himachalenes; co-administration with [Trikatu](/ayurveda-atlas/herb/trikatu/) enhances absorption.
+**Bioavailability:** Cedrus deodara heartwood contains sesquiterpenes (himachalenes) and terpenoids with moderate lipophilicity. Oral bioavailability of sesquiterpenes is moderate (15-30%) with hepatic first-pass metabolism. Taila preparations enhance absorption of lipophilic terpenoids through lymphatic uptake. Volatile oil components absorbed well from GI tract but rapidly metabolized. Enhancement: cyclodextrin complexation improves aqueous solubility of himachalenes; co-administration with [Trikatu](/nighantu/herb/trikatu/) enhances absorption.
 
 **Optimal Timing:** After meals with warm water for respiratory conditions; Taila application with gentle massage for joint disorders, preferably in the evening
 
@@ -117,8 +117,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Devadaru/meta-analysis.m
 
 ### Synergistic Combinations
 
-- With [Guggulu](/ayurveda-atlas/formulation/guggulu/) for anti-inflammatory and anti-arthritic synergy
-- With [Rasna](/ayurveda-atlas/herb/rasna/) for Vata-Kapha joint disorders
-- With [Eranda](/ayurveda-atlas/herb/eranda/) Taila for external application in musculoskeletal pain
-- With [Nirgundi](/ayurveda-atlas/herb/nirgundi/) for analgesic enhancement
-- With [Haridra](/ayurveda-atlas/herb/haridra/) for anti-inflammatory potentiation
+- With [Guggulu](/nighantu/formulation/guggulu/) for anti-inflammatory and anti-arthritic synergy
+- With [Rasna](/nighantu/herb/rasna/) for Vata-Kapha joint disorders
+- With [Eranda](/nighantu/herb/eranda/) Taila for external application in musculoskeletal pain
+- With [Nirgundi](/nighantu/herb/nirgundi/) for analgesic enhancement
+- With [Haridra](/nighantu/herb/haridra/) for anti-inflammatory potentiation

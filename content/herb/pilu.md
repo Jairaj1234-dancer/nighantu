@@ -49,17 +49,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Pilu/meta-analysis.md"
 
 **Standard Dosage:** 2-4 g bark powder daily; 15-20 mL decoction twice daily; 500-750 mg standardized extract twice daily; dental use as needed
 
-**Bioavailability:** Salvadorine and other [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) from Salvadora persica (Pilu/Miswak) show moderate oral bioavailability (25-40%). Benzyl isothiocyanate is rapidly absorbed from GI tract but also rapidly metabolized. Fluoride content (natural) in stems provides topical dental mineralization effect. Chloride ions in extract enhance salivary production locally. Systemic absorption from chewing stick use is minimal but sufficient for dental benefits.
+**Bioavailability:** Salvadorine and other [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) from Salvadora persica (Pilu/Miswak) show moderate oral bioavailability (25-40%). Benzyl isothiocyanate is rapidly absorbed from GI tract but also rapidly metabolized. Fluoride content (natural) in stems provides topical dental mineralization effect. Chloride ions in extract enhance salivary production locally. Systemic absorption from chewing stick use is minimal but sufficient for dental benefits.
 
 **Optimal Timing:** Chewing stick: morning before meals (traditional dental hygiene). Oral supplements: after meals. Toothpaste/powder: twice daily brushing.
 
-**Standardized Extract:** Salvadora persica bark extract (8:1) standardized to salvadorine >1%, total [isothiocyanates](/ayurveda-atlas/glossary/compounds-g-l/#isothiocyanates) >0.5%, fluoride content documented. Stem aqueous extract for dental formulations with validated [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) activity (MIC testing).
+**Standardized Extract:** Salvadora persica bark extract (8:1) standardized to salvadorine >1%, total [isothiocyanates](/nighantu/glossary/compounds-g-l/#isothiocyanates) >0.5%, fluoride content documented. Stem aqueous extract for dental formulations with validated [antimicrobial](/nighantu/reference/antimicrobial/) activity (MIC testing).
 
 **Shelf Life:** Fresh chewing sticks: 1-2 weeks at ambient; Dried bark powder: 18-24 months; Extract: 24 months; Toothpaste: 24-36 months
 
 **Storage:** Fresh sticks: cool, moist environment to prevent drying. Dried material: airtight containers, below 25 deg C, RH <50%. Volatile-containing extracts: sealed, amber containers, cool storage.
 
-**Marker Compounds:** Salvadorine, Benzyl isothiocyanate, Salvadourea, Fluoride, Chloride, [Silica](/ayurveda-atlas/glossary/compounds-q-t/#silica), Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), Trimethylamine
+**Marker Compounds:** Salvadorine, Benzyl isothiocyanate, Salvadourea, Fluoride, Chloride, [Silica](/nighantu/glossary/compounds-q-t/#silica), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Trimethylamine
 
 ### Extraction Methods
 
@@ -73,7 +73,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Pilu/meta-analysis.md"
 ### Synergistic Combinations
 
 - Babool/Acacia (dental care formulation synergy)
-- [Lavanga](/ayurveda-atlas/herb/lavanga/)/Clove ([analgesic](/ayurveda-atlas/reference/analgesic/) and antimicrobial dental combination)
-- [Haridra](/ayurveda-atlas/herb/haridra/) (anti-inflammatory oral care)
-- [Nimba](/ayurveda-atlas/herb/nimba/) (antimicrobial mouthwash combination)
-- [Khadira](/ayurveda-atlas/herb/khadira/) (astringent gum health)
+- [Lavanga](/nighantu/herb/lavanga/)/Clove ([analgesic](/nighantu/reference/analgesic/) and antimicrobial dental combination)
+- [Haridra](/nighantu/herb/haridra/) (anti-inflammatory oral care)
+- [Nimba](/nighantu/herb/nimba/) (antimicrobial mouthwash combination)
+- [Khadira](/nighantu/herb/khadira/) (astringent gum health)

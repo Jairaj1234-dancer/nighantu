@@ -28,30 +28,30 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Alabu/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Cucurbitacins](/ayurveda-atlas/glossary/compounds-c-d/#cucurbitacins) (cucurbitacin B, D, E)
-- Flavone C-[glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) and beta-glycosides
-- [Triterpenoids](/ayurveda-atlas/glossary/compounds-t-z/#triterpenoids) and [sterols](/ayurveda-atlas/glossary/compounds-q-t/#sterols)
-- [Pectin](/ayurveda-atlas/glossary/compounds-o-q/#pectin) and dietary soluble fibers
+- [Cucurbitacins](/nighantu/glossary/compounds-c-d/#cucurbitacins) (cucurbitacin B, D, E)
+- Flavone C-[glycosides](/nighantu/glossary/compounds-g-l/#glycosides) and beta-glycosides
+- [Triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids) and [sterols](/nighantu/glossary/compounds-q-t/#sterols)
+- [Pectin](/nighantu/glossary/compounds-o-q/#pectin) and dietary soluble fibers
 - Beta-carotene and ascorbic acid
-- [Saponins](/ayurveda-atlas/reference/saponins/)
+- [Saponins](/nighantu/reference/saponins/)
 
 ## How does it work?
 
-- [Cardioprotective](/ayurveda-atlas/reference/cardioprotective/) activity through reduction of serum lipids and modulation of cardiac enzyme markers
-- [Hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) mechanism via [antioxidant](/ayurveda-atlas/reference/antioxidant/) enzyme restoration and reduction of lipid peroxidation
-- Anti-inflammatory activity through inhibition of COX and LOX pathways by [flavonoids](/ayurveda-atlas/reference/flavonoids/)
+- [Cardioprotective](/nighantu/reference/cardioprotective/) activity through reduction of serum lipids and modulation of cardiac enzyme markers
+- [Hepatoprotective](/nighantu/reference/hepatoprotective/) mechanism via [antioxidant](/nighantu/reference/antioxidant/) enzyme restoration and reduction of lipid peroxidation
+- Anti-inflammatory activity through inhibition of COX and LOX pathways by [flavonoids](/nighantu/reference/flavonoids/)
 - Hypoglycemic effect via alpha-glucosidase inhibition and enhanced insulin sensitivity
 
 ## Which traditional uses are supported by research?
 
 - Cardiotonic and heart-protective (Hridya) - validated through preclinical studies showing cholesterol and triglyceride reduction
-- Cooling and [diuretic](/ayurveda-atlas/reference/diuretic/) (Sheetala, Mutrala) - confirmed diuretic properties in pharmacological studies
+- Cooling and [diuretic](/nighantu/reference/diuretic/) (Sheetala, Mutrala) - confirmed diuretic properties in pharmacological studies
 - Hepatoprotective (Yakrit-shodhana) - validated against drug-induced liver toxicity in animal models
 - Anti-obesity and weight management - confirmed antihyperlipidemic and anti-obesity effects in multiple studies
 
 ## What do recent clinical trials show?
 
-- **Comprehensive review on Lagenaria siceraria** (2025): Updated pharmacological review documenting cardioprotective, hepatoprotective, anti-urolithiatic, and [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) activities across multiple in vivo models.
+- **Comprehensive review on Lagenaria siceraria** (2025): Updated pharmacological review documenting cardioprotective, hepatoprotective, anti-urolithiatic, and [immunomodulatory](/nighantu/reference/immunomodulatory/) activities across multiple in vivo models.
 - **Biotechnology and pharmacological evaluation of Indian vegetable crop Lagenaria siceraria** (2024): Confirmed antihyperlipidemic and cardioprotective effects through reduction of serum cholesterol and triglycerides in animal models.
 - **Effect of Lagenaria siceraria fruit extract on hepatotoxicity induced by antitubercular drugs** (2023): Demonstrated significant hepatoprotective activity against antitubercular drug-induced liver injury in albino rats, validating traditional liver-protective claims.
 
@@ -76,7 +76,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Alabu/meta-analysis.md"
 
 **Standard Dosage:** 20-50ml fresh juice twice daily; 3-6g dried powder; as dietary vegetable (ad libitum)
 
-**Bioavailability:** Good bioavailability for water-soluble nutrients (cucurbitins, [vitamins](/ayurveda-atlas/glossary/compounds-t-z/#vitamins), minerals). Fresh juice retains maximum bioactivity. Cucurbitacins (bitter principles, present in bitter variety) are lipophilic with good oral absorption but GI irritant potential. The sweet variety (Lagenaria siceraria) is commonly used; bitter variety (tumbi) used with caution.
+**Bioavailability:** Good bioavailability for water-soluble nutrients (cucurbitins, [vitamins](/nighantu/glossary/compounds-t-z/#vitamins), minerals). Fresh juice retains maximum bioactivity. Cucurbitacins (bitter principles, present in bitter variety) are lipophilic with good oral absorption but GI irritant potential. The sweet variety (Lagenaria siceraria) is commonly used; bitter variety (tumbi) used with caution.
 
 **Optimal Timing:** Fresh juice early morning on empty stomach for cardiovascular and metabolic benefits. Avoid at night (diuretic effect).
 
@@ -86,7 +86,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Alabu/meta-analysis.md"
 
 **Storage:** Fresh juice must be consumed within hours; refrigerate if necessary (2-8°C). Dried powder in airtight containers, cool and dry place.
 
-**Marker Compounds:** Cucurbitacin B (below safety limit), Cucurbitacin D (below safety limit), Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), Saponins, Vitamin C, [Potassium](/ayurveda-atlas/glossary/compounds-o-q/#potassium) content
+**Marker Compounds:** Cucurbitacin B (below safety limit), Cucurbitacin D (below safety limit), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Saponins, Vitamin C, [Potassium](/nighantu/glossary/compounds-o-q/#potassium) content
 
 ### Extraction Methods
 
@@ -97,7 +97,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Alabu/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Arjuna](/ayurveda-atlas/herb/arjuna/) for cardioprotective action
-- With [Punarnava](/ayurveda-atlas/herb/punarnava/) for diuretic effect and edema
-- With [Guduchi](/ayurveda-atlas/herb/guduchi/) for hepatoprotective support
-- With [Gokshura](/ayurveda-atlas/herb/gokshura/) for urinary tract health
+- With [Arjuna](/nighantu/herb/arjuna/) for cardioprotective action
+- With [Punarnava](/nighantu/herb/punarnava/) for diuretic effect and edema
+- With [Guduchi](/nighantu/herb/guduchi/) for hepatoprotective support
+- With [Gokshura](/nighantu/herb/gokshura/) for urinary tract health

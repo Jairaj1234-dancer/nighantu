@@ -28,33 +28,33 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kamala/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Neferine](/ayurveda-atlas/glossary/compounds-l-o/#neferine) (bisbenzylisoquinoline alkaloid - primary bioactive)
-- [Liensinine](/ayurveda-atlas/glossary/compounds-g-l/#liensinine) (alkaloid)
-- [Nuciferine](/ayurveda-atlas/glossary/compounds-l-o/#nuciferine) (aporphine alkaloid)
-- [Kaempferol](/ayurveda-atlas/reference/kaempferol/) and kaempferol-3-O-robinobioside ([flavonoids](/ayurveda-atlas/reference/flavonoids/))
-- [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/) and [quercetin](/ayurveda-atlas/reference/quercetinquercetin/)-3-glucuronide
-- [Anthocyanins](/ayurveda-atlas/glossary/compounds-1-a/#anthocyanins) (cyanidin, delphinidin derivatives)
-- [Hyperoside](/ayurveda-atlas/glossary/compounds-g-l/#hyperoside) (flavonoid glycoside)
-- Gallic acid and other [polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols)
+- [Neferine](/nighantu/glossary/compounds-l-o/#neferine) (bisbenzylisoquinoline alkaloid - primary bioactive)
+- [Liensinine](/nighantu/glossary/compounds-g-l/#liensinine) (alkaloid)
+- [Nuciferine](/nighantu/glossary/compounds-l-o/#nuciferine) (aporphine alkaloid)
+- [Kaempferol](/nighantu/reference/kaempferol/) and kaempferol-3-O-robinobioside ([flavonoids](/nighantu/reference/flavonoids/))
+- [Quercetin](/nighantu/reference/quercetinquercetin/) and [quercetin](/nighantu/reference/quercetinquercetin/)-3-glucuronide
+- [Anthocyanins](/nighantu/glossary/compounds-1-a/#anthocyanins) (cyanidin, delphinidin derivatives)
+- [Hyperoside](/nighantu/glossary/compounds-g-l/#hyperoside) (flavonoid glycoside)
+- Gallic acid and other [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols)
 
 ## How does it work?
 
 - Neferine anti-photoaging through UVB mitochondrial protection: Neferine inhibits UVB-induced oxidative stress-mediated autophagy and mitochondrial dysfunction, providing robust photoprotective activity for skin cells
-- Flavonoid tyrosinase and collagenase dual inhibition: Kaempferol derivatives and [quercetin](/ayurveda-atlas/reference/quercetinquercetin/) glucuronide simultaneously inhibit tyrosinase (reducing melanin synthesis) and MMP-1/MMP-3 collagenase (preventing collagen breakdown), providing combined brightening and anti-aging effects
-- NF-kB and MAPK anti-inflammatory signaling: Lotus flavonoids and [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) modulate NF-kB, MAPK, and COX-2 pathways, suppressing TNF-alpha, IL-1beta, IL-6, NO, and PGE2 production for anti-inflammatory skin protection
-- Liensinine and [isoliensinine](/ayurveda-atlas/glossary/compounds-g-l/#isoliensinine) MMP-3 inhibition: Molecular dynamics studies identified liensinine and isoliensinine as potent MMP-3 inhibitors, preventing extracellular matrix degradation and maintaining skin structural integrity
+- Flavonoid tyrosinase and collagenase dual inhibition: Kaempferol derivatives and [quercetin](/nighantu/reference/quercetinquercetin/) glucuronide simultaneously inhibit tyrosinase (reducing melanin synthesis) and MMP-1/MMP-3 collagenase (preventing collagen breakdown), providing combined brightening and anti-aging effects
+- NF-kB and MAPK anti-inflammatory signaling: Lotus flavonoids and [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) modulate NF-kB, MAPK, and COX-2 pathways, suppressing TNF-alpha, IL-1beta, IL-6, NO, and PGE2 production for anti-inflammatory skin protection
+- Liensinine and [isoliensinine](/nighantu/glossary/compounds-g-l/#isoliensinine) MMP-3 inhibition: Molecular dynamics studies identified liensinine and isoliensinine as potent MMP-3 inhibitors, preventing extracellular matrix degradation and maintaining skin structural integrity
 
 ## Which traditional uses are supported by research?
 
 - Skin brightening and complexion (Varnya): Validated by clinical trial showing significant whitening effect in 21 volunteers with lotus callus extract cosmetics
-- Anti-aging and skin rejuvenation: Validated by in silico and in vitro studies identifying kaempferol-3-O-robinobioside as potent inhibitor of skin aging [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes)
+- Anti-aging and skin rejuvenation: Validated by in silico and in vitro studies identifying kaempferol-3-O-robinobioside as potent inhibitor of skin aging [enzymes](/nighantu/glossary/compounds-d-g/#enzymes)
 - Anti-inflammatory skin soothing (Pitta-shamana): Validated by demonstrated NF-kB, MAPK, and COX-2 modulation reducing inflammatory mediators in skin
 
 ## What do recent clinical trials show?
 
 - **Exploring Major Flavonoid Phytochemicals from Nelumbo nucifera as Potential Skin Anti-Aging Agents: In Silico and In Vitro Evaluations** (2023): Among seven flavonoids studied, kaempferol-3-O-robinobioside showed the highest docking scores against three skin aging-related enzymes (MMP-1, elastase, tyrosinase), identifying it as the most promising anti-aging candidate from lotus.
 - **Skin-Whitening Effect of a Callus Extract of Nelumbo nucifera** (2023): Clinical trial with 21 volunteers confirmed significant whitening effect of cosmetics containing lotus callus extract, with demonstrated tyrosinase and collagenase inhibition in vitro supporting skin brightening and anti-aging claims.
-- **Chemical Composition and Bioactivity of Nelumbo nucifera Flower Extract Fractions: [Antioxidant](/ayurveda-atlas/reference/antioxidant/) and Anti-Inflammatory Properties** (2025): Flower extract fractions demonstrated potent antioxidant and anti-inflammatory activities, with stamen extracts showing strongest tyrosinase and collagenase inhibition relevant to anti-aging and skin whitening applications.
+- **Chemical Composition and Bioactivity of Nelumbo nucifera Flower Extract Fractions: [Antioxidant](/nighantu/reference/antioxidant/) and Anti-Inflammatory Properties** (2025): Flower extract fractions demonstrated potent antioxidant and anti-inflammatory activities, with stamen extracts showing strongest tyrosinase and collagenase inhibition relevant to anti-aging and skin whitening applications.
 
 ## Recent safety updates
 
@@ -82,7 +82,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kamala/meta-analysis.md"
 
 **Standard Dosage:** 3-6g flower powder twice daily; 500mg-1g extract; 3-5g seed powder; 50-100ml root decoction
 
-**Bioavailability:** Nelumbo nucifera (sacred lotus) contains alkaloids (nuciferine, liensinine, neferine), flavonoids (kaempferol, [quercetin](/ayurveda-atlas/reference/quercetinquercetin/) [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides)), and megastigmanes. Nuciferine has moderate oral bioavailability (~20-30%) with good lipophilicity (logP 3.2) and crosses blood-brain barrier. Neferine has ~35% oral bioavailability in animal models. Liensinine shows variable absorption. Seed contains resistant [starch](/ayurveda-atlas/glossary/compounds-q-t/#starch) acting as prebiotic. Different plant parts have distinctly different phytochemistry and applications.
+**Bioavailability:** Nelumbo nucifera (sacred lotus) contains alkaloids (nuciferine, liensinine, neferine), flavonoids (kaempferol, [quercetin](/nighantu/reference/quercetinquercetin/) [glycosides](/nighantu/glossary/compounds-g-l/#glycosides)), and megastigmanes. Nuciferine has moderate oral bioavailability (~20-30%) with good lipophilicity (logP 3.2) and crosses blood-brain barrier. Neferine has ~35% oral bioavailability in animal models. Liensinine shows variable absorption. Seed contains resistant [starch](/nighantu/glossary/compounds-q-t/#starch) acting as prebiotic. Different plant parts have distinctly different phytochemistry and applications.
 
 **Optimal Timing:** Flower preparations: with cool water between meals. Seed: as snack or with milk. Leaf extract: before meals for weight management. Root decoction: before meals.
 
@@ -92,7 +92,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kamala/meta-analysis.md"
 
 **Storage:** Cool, dry place below 25°C, protected from light and moisture. Flower preparations particularly sensitive to light and moisture. Seeds in airtight containers. Nitrogen-flushed packaging for standardized extracts.
 
-**Marker Compounds:** Nuciferine (leaf), Neferine (seed embryo), Liensinine (seed embryo), Isoliensinine, Kaempferol-3-glucoside, [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/), Megastigmane glycosides (flower), Nelumboroside A
+**Marker Compounds:** Nuciferine (leaf), Neferine (seed embryo), Liensinine (seed embryo), Isoliensinine, Kaempferol-3-glucoside, [Quercetin](/nighantu/reference/quercetinquercetin/), Megastigmane glycosides (flower), Nelumboroside A
 
 ### Extraction Methods
 
@@ -105,7 +105,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kamala/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Ashoka](/ayurveda-atlas/herb/ashoka/) for female reproductive health (flower)
-- With [Brahmi](/ayurveda-atlas/herb/brahmi/) for cognitive enhancement (leaf/nuciferine)
-- With [Chandana](/ayurveda-atlas/herb/chandana/) (sandalwood) for Pitta-pacifying formulations
+- With [Ashoka](/nighantu/herb/ashoka/) for female reproductive health (flower)
+- With [Brahmi](/nighantu/herb/brahmi/) for cognitive enhancement (leaf/nuciferine)
+- With [Chandana](/nighantu/herb/chandana/) (sandalwood) for Pitta-pacifying formulations
 - With Amalaki for antioxidant synergy

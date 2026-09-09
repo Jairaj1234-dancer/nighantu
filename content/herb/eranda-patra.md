@@ -23,31 +23,31 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda-Patra/meta-analysis.md
 
 | Language | Name |
 |----------|------|
-| English | [Eranda](/ayurveda-atlas/herb/eranda/) Patra |
+| English | [Eranda](/nighantu/herb/eranda/) Patra |
 | Latin/Botanical | *Ricinus communis L. (leaves)* |
 
 ## Key Phytochemical Constituents
 
-- [Ricinine](/ayurveda-atlas/glossary/compounds-q-t/#ricinine) (alkaloid)
-- [Rutin](/ayurveda-atlas/glossary/compounds-q-t/#rutin)
-- [Phytol](/ayurveda-atlas/glossary/compounds-o-q/#phytol)
+- [Ricinine](/nighantu/glossary/compounds-q-t/#ricinine) (alkaloid)
+- [Rutin](/nighantu/glossary/compounds-q-t/#rutin)
+- [Phytol](/nighantu/glossary/compounds-o-q/#phytol)
 - Phytyl palmitate
-- [Kaempferol](/ayurveda-atlas/reference/kaempferol/)
-- [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/)
+- [Kaempferol](/nighantu/reference/kaempferol/)
+- [Quercetin](/nighantu/reference/quercetinquercetin/)
 - Gallic acid
 - N-demethylricinine
-- Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
-- [Tannins](/ayurveda-atlas/reference/tannins/)
+- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- [Tannins](/nighantu/reference/tannins/)
 
 ## How does it work?
 
 - Ricinine alkaloid exhibits anti-inflammatory activity through inhibition of NF-kB pathway and suppression of pro-inflammatory cytokines (TNF-alpha, IL-1beta, IL-6) in macrophage models
-- [Flavonoids](/ayurveda-atlas/reference/flavonoids/) (rutin, kaempferol, [quercetin](/ayurveda-atlas/reference/quercetinquercetin/)) provide wound healing activity by promoting fibroblast proliferation, collagen synthesis, and angiogenesis while reducing oxidative stress at wound sites
+- [Flavonoids](/nighantu/reference/flavonoids/) (rutin, kaempferol, [quercetin](/nighantu/reference/quercetinquercetin/)) provide wound healing activity by promoting fibroblast proliferation, collagen synthesis, and angiogenesis while reducing oxidative stress at wound sites
 - Phytol acts as an immunomodulator and anti-inflammatory agent by modulating the Nrf2/HO-1 pathway and reducing reactive oxygen species generation in inflammatory tissue
 
 ## Which traditional uses are supported by research?
 
-- Anti-inflammatory and [analgesic](/ayurveda-atlas/reference/analgesic/) effects validated in carrageenan-induced paw edema and acetic acid writhing models, supporting traditional Ayurvedic use of [Eranda](/ayurveda-atlas/herb/eranda/) Patra poultice for Vataroga (pain and inflammation)
+- Anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) effects validated in carrageenan-induced paw edema and acetic acid writhing models, supporting traditional Ayurvedic use of [Eranda](/nighantu/herb/eranda/) Patra poultice for Vataroga (pain and inflammation)
 - Wound healing activity confirmed through in vivo studies showing enhanced granulation and epithelialization, supporting traditional topical application for Vrana (wounds)
 - Antibacterial properties validated against multiple pathogenic bacteria, supporting traditional use for infectious conditions
 
@@ -78,7 +78,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda-Patra/meta-analysis.md
 
 **Standard Dosage:** External use primarily: leaf paste/poultice applied to affected area; 5-10ml fresh leaf juice (limited internal use, practitioner guidance); 3-5g dried leaf powder twice daily
 
-**Bioavailability:** Castor leaves (Ricinus communis) contain flavonoids ([quercetin](/ayurveda-atlas/reference/quercetinquercetin/), kaempferol [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides)), ricinine (low levels), and leaf-specific [terpenoids](/ayurveda-atlas/glossary/compounds-t-z/#terpenoids). Topical application of leaf paste provides direct local anti-inflammatory and analgesic effect. Percutaneous absorption of flavonoids is enhanced by leaf [mucilage](/ayurveda-atlas/glossary/compounds-l-o/#mucilage) and natural surfactants. For internal use (limited), flavonoid bioavailability is moderate. Patra Pinda Sweda (leaf bolus steam therapy) delivers volatiles through dermal and inhalation routes simultaneously. Fresh leaf juice has higher bioactive content than dried material.
+**Bioavailability:** Castor leaves (Ricinus communis) contain flavonoids ([quercetin](/nighantu/reference/quercetinquercetin/), kaempferol [glycosides](/nighantu/glossary/compounds-g-l/#glycosides)), ricinine (low levels), and leaf-specific [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids). Topical application of leaf paste provides direct local anti-inflammatory and analgesic effect. Percutaneous absorption of flavonoids is enhanced by leaf [mucilage](/nighantu/glossary/compounds-l-o/#mucilage) and natural surfactants. For internal use (limited), flavonoid bioavailability is moderate. Patra Pinda Sweda (leaf bolus steam therapy) delivers volatiles through dermal and inhalation routes simultaneously. Fresh leaf juice has higher bioactive content than dried material.
 
 **Optimal Timing:** External application: warm poultice or paste applied to affected joints/muscles, preferably in the evening. Patra Pinda Sweda: therapeutic sessions typically 30-45 minutes. Internal use: before meals if prescribed.
 
@@ -88,19 +88,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda-Patra/meta-analysis.md
 
 **Storage:** Fresh leaves: cool, damp cloth wrapping, refrigerate. Dried leaf powder: airtight, light-resistant containers below 25 deg C. Taila: amber glass bottles at room temperature.
 
-**Marker Compounds:** Quercetin, Kaempferol, Ricinine (trace - safety marker), Rutin, Beta-sitosterol, [Chlorophyll](/ayurveda-atlas/glossary/compounds-c-d/#chlorophyll) content (freshness indicator)
+**Marker Compounds:** Quercetin, Kaempferol, Ricinine (trace - safety marker), Rutin, Beta-sitosterol, [Chlorophyll](/nighantu/glossary/compounds-c-d/#chlorophyll) content (freshness indicator)
 
 ### Extraction Methods
 
 - Fresh leaf juice expression (Swarasa)
 - Leaf paste preparation (Kalka) for topical use
 - Aqueous decoction of dried leaves
-- [Sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)-based leaf Taila (traditional oil processing)
+- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)-based leaf Taila (traditional oil processing)
 - Leaf bolus preparation for Patra Pinda Sweda therapy
 
 ### Synergistic Combinations
 
-- With [Nirgundi](/ayurveda-atlas/herb/nirgundi/) leaves in Patra Pinda Sweda for musculoskeletal pain
-- With [Eranda](/ayurveda-atlas/herb/eranda/) Taila for comprehensive anti-Vata therapy
-- With [Haridra](/ayurveda-atlas/herb/haridra/) paste for anti-inflammatory poultice
-- With [Rasna](/ayurveda-atlas/herb/rasna/) and [Devadaru](/ayurveda-atlas/herb/devadaru/) in Vata-pacifying external formulations
+- With [Nirgundi](/nighantu/herb/nirgundi/) leaves in Patra Pinda Sweda for musculoskeletal pain
+- With [Eranda](/nighantu/herb/eranda/) Taila for comprehensive anti-Vata therapy
+- With [Haridra](/nighantu/herb/haridra/) paste for anti-inflammatory poultice
+- With [Rasna](/nighantu/herb/rasna/) and [Devadaru](/nighantu/herb/devadaru/) in Vata-pacifying external formulations

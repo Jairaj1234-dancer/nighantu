@@ -27,11 +27,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Trikatu/meta-analysis.md"
 | Common Names | Trikatu, Three Pungents |
 | Hindi | Trikatu |
 | Sanskrit | Trikatu, Tryushana |
-| Latin/Botanical | *Compound: Piper longum + P. nigrum + [Zingiber](/ayurveda-atlas/herb/zingiber/) officinale* |
+| Latin/Botanical | *Compound: Piper longum + P. nigrum + [Zingiber](/nighantu/herb/zingiber/) officinale* |
 
 ## Parts Used
 
-- Long pepper + [Black pepper](/ayurveda-atlas/herb/black-pepper/) + Dry [ginger](/ayurveda-atlas/herb/ginger/) (equal parts)
+- Long pepper + [Black pepper](/nighantu/herb/black-pepper/) + Dry [ginger](/nighantu/herb/ginger/) (equal parts)
 
 ## Dosha Effects
 
@@ -43,15 +43,15 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Trikatu/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Piperine](/ayurveda-atlas/reference/piperine/) (from both peppers)
-- Gingerols/Shogaols (from [ginger](/ayurveda-atlas/herb/ginger/))
+- [Piperine](/nighantu/reference/piperine/) (from both peppers)
+- Gingerols/Shogaols (from [ginger](/nighantu/herb/ginger/))
 
 ## Therapeutic Actions (Karma)
 
 - Bioavailability enhancer
 - Digestive stimulant
 - Thermogenic
-- [Expectorant](/ayurveda-atlas/reference/expectorant/)
+- [Expectorant](/nighantu/reference/expectorant/)
 - Metabolism booster
 
 ## How is it used traditionally?
@@ -76,7 +76,7 @@ Powder: 1-3g/day before meals with honey
 
 ## What is it made of?
 
-**Part(s) Analyzed:** Long pepper + [Black pepper](/ayurveda-atlas/herb/black-pepper/) + Dry [ginger](/ayurveda-atlas/herb/ginger/) (equal parts)
+**Part(s) Analyzed:** Long pepper + [Black pepper](/nighantu/herb/black-pepper/) + Dry [ginger](/nighantu/herb/ginger/) (equal parts)
 
 ### Key Active Markers
 
@@ -89,11 +89,11 @@ Powder: 1-3g/day before meals with honey
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Vati (tablet), Capsule, [Guggulu](/ayurveda-atlas/formulation/guggulu/) combination, Kwatha additive
+**Dosage Forms:** Churna (powder), Vati (tablet), Capsule, [Guggulu](/nighantu/formulation/guggulu/) combination, Kwatha additive
 
 **Standard Dosage:** 0.5-1 g powder twice daily with honey or warm water; 250-500 mg tablet/capsule twice daily
 
-**Bioavailability:** Trikatu is itself a bioenhancer formulation. Piperine (from Maricha and [Pippali](/ayurveda-atlas/herb/pippali/)) inhibits CYP3A4, CYP1A2, P-glycoprotein, and intestinal glucuronidation, increasing bioavailability of co-administered compounds by 30-200%. Gingerols and shogaols from Shunthi have moderate bioavailability (~30-40%). Piperine has good oral bioavailability (~50-60%) with rapid absorption (Tmax 1-2 hours). The combination provides thermogenic effects that enhance GI blood flow and absorption.
+**Bioavailability:** Trikatu is itself a bioenhancer formulation. Piperine (from Maricha and [Pippali](/nighantu/herb/pippali/)) inhibits CYP3A4, CYP1A2, P-glycoprotein, and intestinal glucuronidation, increasing bioavailability of co-administered compounds by 30-200%. Gingerols and shogaols from Shunthi have moderate bioavailability (~30-40%). Piperine has good oral bioavailability (~50-60%) with rapid absorption (Tmax 1-2 hours). The combination provides thermogenic effects that enhance GI blood flow and absorption.
 
 **Optimal Timing:** Before meals (15-30 minutes) for digestive stimulation and bioenhancer effect; avoid at bedtime due to thermogenic activity
 
@@ -103,7 +103,7 @@ Powder: 1-3g/day before meals with honey
 
 **Storage:** Airtight containers at 15-25 deg C, protected from moisture and light. Piperine is photosensitive; use opaque packaging. Powder tends to absorb moisture; include desiccant sachets.
 
-**Marker Compounds:** Piperine, [Piperlongumine](/ayurveda-atlas/glossary/compounds-o-q/#piperlongumine), [Piperanine](/ayurveda-atlas/glossary/compounds-o-q/#piperanine), 6-[Gingerol](/ayurveda-atlas/glossary/compounds-d-g/#gingerol), 8-Gingerol, 10-Gingerol, 6-Shogaol, [Zingerone](/ayurveda-atlas/glossary/compounds-t-z/#zingerone)
+**Marker Compounds:** Piperine, [Piperlongumine](/nighantu/glossary/compounds-o-q/#piperlongumine), [Piperanine](/nighantu/glossary/compounds-o-q/#piperanine), 6-[Gingerol](/nighantu/glossary/compounds-d-g/#gingerol), 8-Gingerol, 10-Gingerol, 6-Shogaol, [Zingerone](/nighantu/glossary/compounds-t-z/#zingerone)
 
 ### Extraction Methods
 
@@ -115,7 +115,7 @@ Powder: 1-3g/day before meals with honey
 ### Synergistic Combinations
 
 - Acts as universal bioenhancer (Yogavahi) for virtually all Ayurvedic formulations
-- [Triphala](/ayurveda-atlas/herb/triphala/) + Trikatu - digestive and metabolic combination (Trifala Trikatu)
-- [Guggulu](/ayurveda-atlas/formulation/guggulu/) - enhanced anti-inflammatory and lipid-lowering formulations
-- [Sitopaladi Churna](/ayurveda-atlas/formulation/sitopaladi-churna/) - respiratory formula containing Trikatu components
-- [Chitrak](/ayurveda-atlas/herb/chitrak/) (Plumbago zeylanica) - enhanced thermogenic action
+- [Triphala](/nighantu/herb/triphala/) + Trikatu - digestive and metabolic combination (Trifala Trikatu)
+- [Guggulu](/nighantu/formulation/guggulu/) - enhanced anti-inflammatory and lipid-lowering formulations
+- [Sitopaladi Churna](/nighantu/formulation/sitopaladi-churna/) - respiratory formula containing Trikatu components
+- [Chitrak](/nighantu/herb/chitrak/) (Plumbago zeylanica) - enhanced thermogenic action

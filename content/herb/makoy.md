@@ -49,17 +49,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Makoy/meta-analysis.md"
 
 **Standard Dosage:** 10-20 mL fresh juice twice daily; 3-6 g powder per day; 50-100 mL decoction twice daily; 500 mg extract capsules twice daily
 
-**Bioavailability:** Steroidal [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) ([solasonine](/ayurveda-atlas/glossary/compounds-q-t/#solasonine), [solamargine](/ayurveda-atlas/glossary/compounds-q-t/#solamargine)) have moderate oral bioavailability (~25-35%). Glycoalkaloids are partially hydrolyzed in the GI tract to more absorbable aglycones. [Hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) effects are primarily via first-pass liver exposure. [Diosgenin](/ayurveda-atlas/glossary/compounds-d-g/#diosgenin) absorption is enhanced by lipid co-administration.
+**Bioavailability:** Steroidal [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) ([solasonine](/nighantu/glossary/compounds-q-t/#solasonine), [solamargine](/nighantu/glossary/compounds-q-t/#solamargine)) have moderate oral bioavailability (~25-35%). Glycoalkaloids are partially hydrolyzed in the GI tract to more absorbable aglycones. [Hepatoprotective](/nighantu/reference/hepatoprotective/) effects are primarily via first-pass liver exposure. [Diosgenin](/nighantu/glossary/compounds-d-g/#diosgenin) absorption is enhanced by lipid co-administration.
 
 **Optimal Timing:** Morning on empty stomach for hepatoprotective effects; before meals for digestive benefits; fresh juice preferably in morning
 
-**Standardized Extract:** Standardized whole plant extract (8:1 hydroalcoholic) with minimum 1% total steroidal alkaloids (as solasonine equivalents) and controlled [solanine](/ayurveda-atlas/glossary/compounds-q-t/#solanine) below 0.1%. Spray-dried juice powder (10:1) preserving hepatoprotective glycoproteins.
+**Standardized Extract:** Standardized whole plant extract (8:1 hydroalcoholic) with minimum 1% total steroidal alkaloids (as solasonine equivalents) and controlled [solanine](/nighantu/glossary/compounds-q-t/#solanine) below 0.1%. Spray-dried juice powder (10:1) preserving hepatoprotective glycoproteins.
 
 **Shelf Life:** Fresh juice: 4-6 hours at room temperature, 24-48 hours refrigerated. Dried powder: 18 months. Capsules/tablets: 24 months. Syrup: 18 months with preservative.
 
 **Storage:** Fresh plant material processed within 6 hours of harvest. Dried powder below 25 deg C in airtight, light-resistant containers. Syrup at room temperature in amber bottles. Capsules/tablets in blister packs with desiccant.
 
-**Marker Compounds:** Solasonine, Solamargine, [Solasodine](/ayurveda-atlas/glossary/compounds-q-t/#solasodine), Solanine (controlled), Diosgenin, [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/), Caffeic acid, [Riboflavin](/ayurveda-atlas/glossary/compounds-q-t/#riboflavin)
+**Marker Compounds:** Solasonine, Solamargine, [Solasodine](/nighantu/glossary/compounds-q-t/#solasodine), Solanine (controlled), Diosgenin, [Quercetin](/nighantu/reference/quercetinquercetin/), Caffeic acid, [Riboflavin](/nighantu/glossary/compounds-q-t/#riboflavin)
 
 ### Extraction Methods
 
@@ -72,7 +72,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Makoy/meta-analysis.md"
 ### Synergistic Combinations
 
 - Bhumi Amalaki (hepatoprotective synergy)
-- [Kalmegh](/ayurveda-atlas/herb/kalmegh/) (liver protection and bitter tonic)
+- [Kalmegh](/nighantu/herb/kalmegh/) (liver protection and bitter tonic)
 - Kutki (hepatic combination)
-- [Punarnava](/ayurveda-atlas/herb/punarnava/) (hepatorenal protective)
-- [Haridra](/ayurveda-atlas/herb/haridra/) (anti-inflammatory and liver support)
+- [Punarnava](/nighantu/herb/punarnava/) (hepatorenal protective)
+- [Haridra](/nighantu/herb/haridra/) (anti-inflammatory and liver support)

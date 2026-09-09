@@ -28,24 +28,24 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akarakarabha/meta-analysis.md
 
 ## Key Phytochemical Constituents
 
-- [Pellitorine](/ayurveda-atlas/glossary/compounds-o-q/#pellitorine) (N-isobutylamide)
+- [Pellitorine](/nighantu/glossary/compounds-o-q/#pellitorine) (N-isobutylamide)
 - Pyrethrin
 - Anacycline
-- [Sesamin](/ayurveda-atlas/glossary/compounds-q-t/#sesamin)
-- [Inulin](/ayurveda-atlas/glossary/compounds-g-l/#inulin) (fructans)
+- [Sesamin](/nighantu/glossary/compounds-q-t/#sesamin)
+- [Inulin](/nighantu/glossary/compounds-g-l/#inulin) (fructans)
 - Santolina alcohol (40.7% of essential oil)
-- Pyrrolo[3,2-g]isoquinoline [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) (12 newly described, 2024)
+- Pyrrolo[3,2-g]isoquinoline [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) (12 newly described, 2024)
 
 ## How does it work?
 
 - Anti-inflammatory activity through inhibition of nitric oxide (NO) production in macrophages via novel alkaloid compounds
-- [Aphrodisiac](/ayurveda-atlas/glossary/pharmacology/#aphrodisiac) and testosterone-enhancing effect through modulation of hypothalamic-pituitary-gonadal axis
-- [Analgesic](/ayurveda-atlas/reference/analgesic/) and sialagogue action via N-isobutylamide (pellitorine) stimulation of nerve endings
-- [Immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) activity through modulation of innate and adaptive immune responses
+- [Aphrodisiac](/nighantu/glossary/pharmacology/#aphrodisiac) and testosterone-enhancing effect through modulation of hypothalamic-pituitary-gonadal axis
+- [Analgesic](/nighantu/reference/analgesic/) and sialagogue action via N-isobutylamide (pellitorine) stimulation of nerve endings
+- [Immunomodulatory](/nighantu/reference/immunomodulatory/) activity through modulation of innate and adaptive immune responses
 
 ## Which traditional uses are supported by research?
 
-- Aphrodisiac and male fertility enhancer ([Vajikarana](/ayurveda-atlas/glossary/pharmacology/#vajikarana)) - validated through studies showing increased testosterone and sperm parameters in animal models
+- Aphrodisiac and male fertility enhancer ([Vajikarana](/nighantu/glossary/pharmacology/#vajikarana)) - validated through studies showing increased testosterone and sperm parameters in animal models
 - Oral health and toothache remedy (Dantavedanashaka) - confirmed analgesic properties of pellitorine on nerve endings
 - Cognitive enhancer and nervine tonic (Medhya) - supported by neuropharmacological studies showing memory enhancement
 - Anti-inflammatory and anti-rheumatic - validated by in vivo anti-inflammatory studies
@@ -53,8 +53,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akarakarabha/meta-analysis.md
 ## What do recent clinical trials show?
 
 - **Alkaloids from Anacyclus pyrethrum** (2024): Twelve undescribed alkaloids including eight pyrrolo[3,2-g]isoquinoline and four pyrrolo[2,3-g]quinoline alkaloids were isolated from roots; some showed significant inhibition of NO production in LPS-induced RAW 264.7 cells.
-- **Phytochemical characterization, [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) properties and in silico modeling of Anacyclus pyrethrum essential oil** (2024): Identified santolina alcohol as the major essential oil component (40.7%), followed by [germacrene-D](/ayurveda-atlas/glossary/compounds-d-g/#germacrene-d) (8.9%); in silico molecular docking showed strong binding to bacterial target [proteins](/ayurveda-atlas/glossary/compounds-o-q/#proteins).
-- **Comprehensive review of ethnopharmacology, pharmacology and phytochemistry of Anacyclus pyrethrum DC** (2025): Comprehensive review covering the full spectrum of pharmacological activities including immunomodulatory, wound healing, and [anticancer](/ayurveda-atlas/reference/anticancer/) properties with validated traditional uses.
+- **Phytochemical characterization, [antimicrobial](/nighantu/reference/antimicrobial/) properties and in silico modeling of Anacyclus pyrethrum essential oil** (2024): Identified santolina alcohol as the major essential oil component (40.7%), followed by [germacrene-D](/nighantu/glossary/compounds-d-g/#germacrene-d) (8.9%); in silico molecular docking showed strong binding to bacterial target [proteins](/nighantu/glossary/compounds-o-q/#proteins).
+- **Comprehensive review of ethnopharmacology, pharmacology and phytochemistry of Anacyclus pyrethrum DC** (2025): Comprehensive review covering the full spectrum of pharmacological activities including immunomodulatory, wound healing, and [anticancer](/nighantu/reference/anticancer/) properties with validated traditional uses.
 
 ## Recent safety updates
 
@@ -104,7 +104,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akarakarabha/meta-analysis.md
 
 ### Synergistic Combinations
 
-- With [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) for nervous system toning and Vajikarana (aphrodisiac)
-- With [Jatiphala](/ayurveda-atlas/herb/jatiphala/) (nutmeg) for stammering and speech disorders
-- With [Lavanga](/ayurveda-atlas/herb/lavanga/) (clove) and Karpura ([camphor](/ayurveda-atlas/herb/camphor/)) for toothache
-- With [Pippali](/ayurveda-atlas/herb/pippali/) for bioenhancement and respiratory conditions
+- With [Ashwagandha](/nighantu/herb/ashwagandha/) for nervous system toning and Vajikarana (aphrodisiac)
+- With [Jatiphala](/nighantu/herb/jatiphala/) (nutmeg) for stammering and speech disorders
+- With [Lavanga](/nighantu/herb/lavanga/) (clove) and Karpura ([camphor](/nighantu/herb/camphor/)) for toothache
+- With [Pippali](/nighantu/herb/pippali/) for bioenhancement and respiratory conditions

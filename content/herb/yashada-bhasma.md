@@ -23,20 +23,20 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Yashada-Bhasma/meta-
 
 | Language | Name |
 |----------|------|
-| English | [Yashada Bhasma](/ayurveda-atlas/herb/yashada-bhasma/) |
+| English | [Yashada Bhasma](/nighantu/herb/yashada-bhasma/) |
 
 ## Key Phytochemical Constituents
 
 - Zinc oxide (ZnO) nanoparticles (200-500 nm) with hexagonal wurtzite structure
-- Trace iron, [manganese](/ayurveda-atlas/glossary/compounds-l-o/#manganese), copper from processing
+- Trace iron, [manganese](/nighantu/glossary/compounds-l-o/#manganese), copper from processing
 - Organic compounds from herbal trituration media
-- [Silicon](/ayurveda-atlas/glossary/compounds-q-t/#silicon) and aluminum as trace impurities from crucible materials
+- [Silicon](/nighantu/glossary/compounds-q-t/#silicon) and aluminum as trace impurities from crucible materials
 
 ## How does it work?
 
-- Anti-diabetic action through improvement of [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose) tolerance, reduction of blood glucose levels, and modulation of insulin secretion via zinc-mediated enhancement of insulin receptor sensitivity
-- [Antioxidant](/ayurveda-atlas/reference/antioxidant/) activity through zinc-dependent superoxide dismutase (SOD) activation and ROS scavenging, protecting cells from oxidative stress damage
-- [Antimicrobial](/ayurveda-atlas/reference/antimicrobial/) effect via ZnO nanoparticle-mediated disruption of bacterial cell membranes and generation of reactive oxygen species toxic to microorganisms
+- Anti-diabetic action through improvement of [glucose](/nighantu/glossary/compounds-d-g/#glucose) tolerance, reduction of blood glucose levels, and modulation of insulin secretion via zinc-mediated enhancement of insulin receptor sensitivity
+- [Antioxidant](/nighantu/reference/antioxidant/) activity through zinc-dependent superoxide dismutase (SOD) activation and ROS scavenging, protecting cells from oxidative stress damage
+- [Antimicrobial](/nighantu/reference/antimicrobial/) effect via ZnO nanoparticle-mediated disruption of bacterial cell membranes and generation of reactive oxygen species toxic to microorganisms
 - Wound healing promotion through zinc-dependent collagen synthesis, cell proliferation stimulation, and immune cell recruitment to injury sites
 - Anti-angiogenic activity through modulation of vascular endothelial growth factor (VEGF) pathways, relevant for tumor suppression applications
 
@@ -48,8 +48,8 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Yashada-Bhasma/meta-
 
 ## What do recent clinical trials show?
 
-- **Characterization and potential novel applications of zinc-based traditional medicine, Yashad Bhasma** (2025): Comprehensive characterization of [Yashada Bhasma](/ayurveda-atlas/herb/yashada-bhasma/) revealing antimicrobial, antioxidant, and anti-angiogenic activities. Novel applications identified beyond traditional uses.
-- **Jasada bhasma, a Zinc-Based Ayurvedic Preparation: Contemporary Evidence of [Antidiabetic](/ayurveda-atlas/reference/antidiabetic/) Activity Inspires Development of a Nanomedicine** (2015): Four weeks treatment with zinc ash (1-10 mg/kg) improved glucose tolerance (16-19%), lowered blood glucose (20-33%), and reduced serum insulin levels (27-32%). Inspired development of modern zinc nanomedicine.
+- **Characterization and potential novel applications of zinc-based traditional medicine, Yashad Bhasma** (2025): Comprehensive characterization of [Yashada Bhasma](/nighantu/herb/yashada-bhasma/) revealing antimicrobial, antioxidant, and anti-angiogenic activities. Novel applications identified beyond traditional uses.
+- **Jasada bhasma, a Zinc-Based Ayurvedic Preparation: Contemporary Evidence of [Antidiabetic](/nighantu/reference/antidiabetic/) Activity Inspires Development of a Nanomedicine** (2015): Four weeks treatment with zinc ash (1-10 mg/kg) improved glucose tolerance (16-19%), lowered blood glucose (20-33%), and reduced serum insulin levels (27-32%). Inspired development of modern zinc nanomedicine.
 - **Investigating the Role of Classical Ayurveda-Based Incineration Process on the Synthesis of Zinc Oxide Based Jasada Bhasma Nanoparticles and Zn2+ Bioavailability** (2023): Classical calcination process produces nano ZnO particles with enhanced Zn2+ bioavailability compared to commercial zinc supplements. The Ayurvedic process creates unique surface chemistry favoring absorption.
 - **Safety and bioactivity studies of Jasad Bhasma and its in-process intermediate in Swiss mice** (2017): No major cytotoxicity at tested dose levels. No behavioral abnormality, clinical signs, or mortality. SGOT, SGPT, and serum urea not significantly altered, indicating no major organ toxicity. Zinc Bhasma appears safe for human use.
 
@@ -91,4 +91,4 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Yashada-Bhasma/meta-
 
 **Quality Parameters:** Zinc content >65%, free zinc <1 ppm, standard bhasma tests, particle size <100 nm
 
-**Vehicle (Anupana):** Honey, [Guduchi](/ayurveda-atlas/herb/guduchi/) Swarasa, or [Nimba](/ayurveda-atlas/herb/nimba/) Swarasa for Prameha
+**Vehicle (Anupana):** Honey, [Guduchi](/nighantu/herb/guduchi/) Swarasa, or [Nimba](/nighantu/herb/nimba/) Swarasa for Prameha

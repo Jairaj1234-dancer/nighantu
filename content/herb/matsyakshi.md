@@ -49,17 +49,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Matsyakshi/meta-analys
 
 **Standard Dosage:** 3-6 g powder per day in divided doses; 50-100 mL decoction twice daily; 10-20 mL fresh juice; 500 mg extract capsules twice daily
 
-**Bioavailability:** [Flavonoids](/ayurveda-atlas/reference/flavonoids/) and phenolic compounds show moderate GI absorption (20-35%). [Saponins](/ayurveda-atlas/reference/saponins/) undergo intestinal hydrolysis. [Alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) (if present) have variable bioavailability depending on structural class. Aqueous decoction provides reasonable extraction of water-soluble actives.
+**Bioavailability:** [Flavonoids](/nighantu/reference/flavonoids/) and phenolic compounds show moderate GI absorption (20-35%). [Saponins](/nighantu/reference/saponins/) undergo intestinal hydrolysis. [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) (if present) have variable bioavailability depending on structural class. Aqueous decoction provides reasonable extraction of water-soluble actives.
 
 **Optimal Timing:** Morning for tonic and nutritive effects; between meals for eye health benefits (traditional use); with meals as nutritive supplement
 
-**Standardized Extract:** Whole herb extract (10:1 hydroalcoholic) standardized to minimum 3% total flavonoids (as [quercetin](/ayurveda-atlas/reference/quercetinquercetin/) equivalents). Freeze-dried juice powder preserving enzymatic activity. Aqueous extract for ophthalmic preparations (filtered and sterilized).
+**Standardized Extract:** Whole herb extract (10:1 hydroalcoholic) standardized to minimum 3% total flavonoids (as [quercetin](/nighantu/reference/quercetinquercetin/) equivalents). Freeze-dried juice powder preserving enzymatic activity. Aqueous extract for ophthalmic preparations (filtered and sterilized).
 
 **Shelf Life:** Fresh herb: 2-3 days refrigerated. Dried powder: 18 months. Capsules/tablets: 24 months. Fresh juice: 4-6 hours.
 
 **Storage:** Dried herb below 25 deg C in airtight containers with moisture protection. Fresh plant material at 4-8 deg C, process within 24 hours. Capsules in blister packs with desiccant.
 
-**Marker Compounds:** [Stigmasterol](/ayurveda-atlas/reference/stigmasterol/), Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), [Campesterol](/ayurveda-atlas/glossary/compounds-a-c/#campesterol), Oleanolic acid, Quercetin, [Kaempferol](/ayurveda-atlas/reference/kaempferol/), [Lupeol](/ayurveda-atlas/reference/lupeol/), Beta-carotene
+**Marker Compounds:** [Stigmasterol](/nighantu/reference/stigmasterol/), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Campesterol](/nighantu/glossary/compounds-a-c/#campesterol), Oleanolic acid, Quercetin, [Kaempferol](/nighantu/reference/kaempferol/), [Lupeol](/nighantu/reference/lupeol/), Beta-carotene
 
 ### Extraction Methods
 
@@ -71,8 +71,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Matsyakshi/meta-analys
 
 ### Synergistic Combinations
 
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) (female reproductive health synergy)
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) ([adaptogenic](/ayurveda-atlas/reference/adaptogenic/) tonic combination)
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) ([immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) and [Rasayana](/ayurveda-atlas/reference/rasayana/))
-- [Punarnava](/ayurveda-atlas/herb/punarnava/) (renal and hepatic protective)
-- [Bala](/ayurveda-atlas/herb/bala/) (strength and vitality)
+- [Shatavari](/nighantu/herb/shatavari/) (female reproductive health synergy)
+- [Ashwagandha](/nighantu/herb/ashwagandha/) ([adaptogenic](/nighantu/reference/adaptogenic/) tonic combination)
+- [Guduchi](/nighantu/herb/guduchi/) ([immunomodulatory](/nighantu/reference/immunomodulatory/) and [Rasayana](/nighantu/reference/rasayana/))
+- [Punarnava](/nighantu/herb/punarnava/) (renal and hepatic protective)
+- [Bala](/nighantu/herb/bala/) (strength and vitality)

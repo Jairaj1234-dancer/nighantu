@@ -6,7 +6,7 @@ export const GET: APIRoute = async () => {
   const body = [
     `# ${entry.data.title}`, '', `> ${entry.data.answer}`, '', entry.body?.trim() ?? '',
     '', '---', '',
-    'Published by Age Ayurveda in the Ayurveda Atlas. Educational reference only, not medical advice.',
+    'Published by Age Ayurveda in the Nighantu. Educational reference only, not medical advice.',
   ].join('\n');
   return new Response(body, { headers: { 'Content-Type': 'text/markdown; charset=utf-8' } });
 };

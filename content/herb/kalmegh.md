@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Kalmegh/meta-analysis.md"
 
 **Standard Dosage:** 1-3g powder twice daily; 400-600mg standardized extract twice daily; 10-20ml fresh juice; 30-60ml decoction
 
-**Bioavailability:** Andrographis paniculata contains [andrographolide](/ayurveda-atlas/glossary/compounds-1-a/#andrographolide) (primary bioactive diterpene lactone) with moderate oral bioavailability (~2.67% in rats, higher in humans ~21%). Andrographolide is lipophilic but has limited aqueous solubility (50 μg/mL). Enhancement strategies: (1) Solid dispersion with PVP or HPMC improves dissolution 4-6x; (2) Self-nanoemulsifying formulations (SNEDDS) enhance bioavailability 3-4x; (3) Phospholipid complexation (phytosome); (4) Cyclodextrin inclusion complexes; (5) Nanoparticle formulations. Andrographolide undergoes hepatic metabolism via CYP [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes) and glucuronidation.
+**Bioavailability:** Andrographis paniculata contains [andrographolide](/nighantu/glossary/compounds-1-a/#andrographolide) (primary bioactive diterpene lactone) with moderate oral bioavailability (~2.67% in rats, higher in humans ~21%). Andrographolide is lipophilic but has limited aqueous solubility (50 μg/mL). Enhancement strategies: (1) Solid dispersion with PVP or HPMC improves dissolution 4-6x; (2) Self-nanoemulsifying formulations (SNEDDS) enhance bioavailability 3-4x; (3) Phospholipid complexation (phytosome); (4) Cyclodextrin inclusion complexes; (5) Nanoparticle formulations. Andrographolide undergoes hepatic metabolism via CYP [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) and glucuronidation.
 
 **Optimal Timing:** Before meals with warm water; for acute conditions (colds/flu): start at first symptom, 3 times daily for 5-7 days
 
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Kalmegh/meta-analysis.md"
 
 **Storage:** Cool, dry place below 25°C, protected from light and moisture. Andrographolide is relatively stable in solid form but degrades in solution. Amber containers for liquid preparations.
 
-**Marker Compounds:** Andrographolide, [Neoandrographolide](/ayurveda-atlas/glossary/compounds-l-o/#neoandrographolide), 14-Deoxyandrographolide, 14-Deoxy-11,12-didehydroandrographolide, [Andrograpanin](/ayurveda-atlas/glossary/compounds-1-a/#andrograpanin), Isoandrographolide
+**Marker Compounds:** Andrographolide, [Neoandrographolide](/nighantu/glossary/compounds-l-o/#neoandrographolide), 14-Deoxyandrographolide, 14-Deoxy-11,12-didehydroandrographolide, [Andrograpanin](/nighantu/glossary/compounds-1-a/#andrograpanin), Isoandrographolide
 
 ### Extraction Methods
 
@@ -62,8 +62,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Kalmegh/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Guduchi](/ayurveda-atlas/herb/guduchi/) for immune modulation and fever
-- With [Tulsi](/ayurveda-atlas/herb/tulsi/) for respiratory infection support
-- With [Katuki](/ayurveda-atlas/herb/katuki/) (Picrorhiza) for [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) synergy
-- With [Haridra](/ayurveda-atlas/herb/haridra/) for anti-inflammatory action
-- With [Neem](/ayurveda-atlas/herb/neem/) for [antipyretic](/ayurveda-atlas/reference/antipyretic/) effect
+- With [Guduchi](/nighantu/herb/guduchi/) for immune modulation and fever
+- With [Tulsi](/nighantu/herb/tulsi/) for respiratory infection support
+- With [Katuki](/nighantu/herb/katuki/) (Picrorhiza) for [hepatoprotective](/nighantu/reference/hepatoprotective/) synergy
+- With [Haridra](/nighantu/herb/haridra/) for anti-inflammatory action
+- With [Neem](/nighantu/herb/neem/) for [antipyretic](/nighantu/reference/antipyretic/) effect

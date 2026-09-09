@@ -27,19 +27,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Hair-Health/Bhringraj/meta-analysis.md"
 
 ## How does it work?
 
-- Hair growth: [Wedelolactone](/ayurveda-atlas/glossary/compounds-t-z/#wedelolactone) activates Wnt/beta-catenin signaling pathway, increases dermal papilla cell proliferation, and binds VEGF receptor.
+- Hair growth: [Wedelolactone](/nighantu/glossary/compounds-t-z/#wedelolactone) activates Wnt/beta-catenin signaling pathway, increases dermal papilla cell proliferation, and binds VEGF receptor.
 - Hair growth: Inhibits 5-alpha-reductase activity (similar to finasteride); inhibits TGF-beta1 expression, promoting hair matrix cell proliferation.
 - Hair growth: Promotes anagen phase induction and sustenance through regulation of FGF-7 (upregulation) and FGF-5 (downregulation).
-- Hepatoprotection: Wedelolactone and [demethylwedelolactone](/ayurveda-atlas/glossary/compounds-c-d/#demethylwedelolactone) display hepatocyto-protective action, enabling liver cell regeneration and ameliorating hepatic injury from oxidative stress.
+- Hepatoprotection: Wedelolactone and [demethylwedelolactone](/nighantu/glossary/compounds-c-d/#demethylwedelolactone) display hepatocyto-protective action, enabling liver cell regeneration and ameliorating hepatic injury from oxidative stress.
 - Hepatoprotection: Reduces fat deposition, mononuclear infiltration, and necrotic foci while stimulating hepatocyte regeneration.
-- Anti-inflammatory: Flavonoid constituents ([luteolin](/ayurveda-atlas/glossary/compounds-l-o/#luteolin), [apigenin](/ayurveda-atlas/glossary/compounds-1-a/#apigenin)) provide [antioxidant](/ayurveda-atlas/reference/antioxidant/) and anti-inflammatory effects on scalp tissue.
-- [Antihypertensive](/ayurveda-atlas/glossary/pharmacology/#antihypertensive): Increases urine volume and modulates lipid metabolism markers.
+- Anti-inflammatory: Flavonoid constituents ([luteolin](/nighantu/glossary/compounds-l-o/#luteolin), [apigenin](/nighantu/glossary/compounds-1-a/#apigenin)) provide [antioxidant](/nighantu/reference/antioxidant/) and anti-inflammatory effects on scalp tissue.
+- [Antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive): Increases urine volume and modulates lipid metabolism markers.
 
 ## What do recent clinical trials show?
 
 - **Molecular insights into the hair growth-promoting mechanisms of Eclipta alba** (2025): Wedelolactone activates the Wnt/beta-catenin signaling pathway and binds VEGF receptor. Cell-based assays showed a 45% increase in human dermal papilla cell proliferation with over 95% viability.
 - **Discovery of petroleum ether extract of Eclipta targeting p53/Fas pathway for chemotherapy-induced alopecia** (2024): Network pharmacology and experimental validation confirmed Eclipta extract modulates the p53/Fas pathway, promoting hair matrix cell proliferation by inhibiting TGF-beta1 expression.
-- **Eclipta prostrata ethnomedicinal uses, chemical constituents, and biological activities (comprehensive review)** (2021): Systematic review of over 100 studies confirmed hepatoprotective, anti-inflammatory, [antimicrobial](/ayurveda-atlas/reference/antimicrobial/), antioxidant, and hair-growth-promoting activities. Identified wedelolactone, eclalbasaponins, ursolic acid, and luteolin as key bioactives.
+- **Eclipta prostrata ethnomedicinal uses, chemical constituents, and biological activities (comprehensive review)** (2021): Systematic review of over 100 studies confirmed hepatoprotective, anti-inflammatory, [antimicrobial](/nighantu/reference/antimicrobial/), antioxidant, and hair-growth-promoting activities. Identified wedelolactone, eclalbasaponins, ursolic acid, and luteolin as key bioactives.
 - **Clinical observation of Eclipta leaf powder in mild hypertensive subjects** (2022): Supplementation with Eclipta leaf powder resulted in a 15% reduction in mean arterial pressure, 17% reduction in total cholesterol, and increased urine volume and antioxidant markers in mild hypertensive subjects.
 - **Exploring the potential of Eclipta alba: a promising approach (5-alpha-reductase inhibition)** (2023): Lab study demonstrated Eclipta alba extract has a similar inhibitory effect on 5-alpha-reductase as finasteride, relevant to male pattern baldness treatment.
 
@@ -72,13 +72,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Hair-Health/Bhringraj/meta-analysis.md"
 
 **Optimal Timing:** Morning on empty stomach for liver health; Taila application 30 minutes before hair wash; juice early morning for general rejuvenation
 
-**Standardized Extract:** Whole herb extract standardized to wedelolactone NLT 5%; ecliptasaponin NLT 1%. Hair oil: 10% w/v Bhringraj extract in sesame/[coconut oil](/ayurveda-atlas/glossary/concepts-a-m/#coconut-oil) base.
+**Standardized Extract:** Whole herb extract standardized to wedelolactone NLT 5%; ecliptasaponin NLT 1%. Hair oil: 10% w/v Bhringraj extract in sesame/[coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil) base.
 
 **Shelf Life:** 2 years (powder); 3 years (tablet/capsule); 3-5 years (Taila); 3 days (fresh juice, refrigerated)
 
 **Storage:** Powder and tablets in airtight containers away from light. Oil preparations in amber glass bottles. Fresh juice must be refrigerated and used within 72 hours.
 
-**Marker Compounds:** Wedelolactone, Demethylwedelolactone, Ecliptasaponin A-D, Eclalbatin, Luteolin, [Apigenin](/ayurveda-atlas/glossary/compounds-1-a/#apigenin), Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/ayurveda-atlas/reference/stigmasterol/), Coumestan
+**Marker Compounds:** Wedelolactone, Demethylwedelolactone, Ecliptasaponin A-D, Eclalbatin, Luteolin, [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/nighantu/reference/stigmasterol/), Coumestan
 
 ### Extraction Methods
 
@@ -91,8 +91,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Hair-Health/Bhringraj/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Amla](/ayurveda-atlas/herb/amla/) for hair growth and Keshya Taila formulations
-- With [Bhumyamalaki](/ayurveda-atlas/herb/bhumyamalaki/) for hepatoprotective synergy
+- With [Amla](/nighantu/herb/amla/) for hair growth and Keshya Taila formulations
+- With [Bhumyamalaki](/nighantu/herb/bhumyamalaki/) for hepatoprotective synergy
 - With Kutki for liver disorders
-- With [Brahmi](/ayurveda-atlas/herb/brahmi/) for hair oil and cognitive benefits
-- With coconut oil or [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) as base for scalp application
+- With [Brahmi](/nighantu/herb/brahmi/) for hair oil and cognitive benefits
+- With coconut oil or [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) as base for scalp application

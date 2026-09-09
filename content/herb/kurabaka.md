@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kurabaka/meta-analysis.md"
 
 **Standard Dosage:** 2-4 g powder twice daily; 40-80 mL decoction; external oil and paste application as needed
 
-**Bioavailability:** Essential oil [terpenoids](/ayurveda-atlas/glossary/compounds-t-z/#terpenoids) from flowers are readily absorbed via oral and transdermal routes. [Flavonoids](/ayurveda-atlas/reference/flavonoids/) show moderate oral bioavailability. Bark [tannins](/ayurveda-atlas/reference/tannins/) exert primarily local GI action with limited systemic absorption. Lipid-based formulations (Taila) enhance transdermal penetration of bioactives for topical applications.
+**Bioavailability:** Essential oil [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids) from flowers are readily absorbed via oral and transdermal routes. [Flavonoids](/nighantu/reference/flavonoids/) show moderate oral bioavailability. Bark [tannins](/nighantu/reference/tannins/) exert primarily local GI action with limited systemic absorption. Lipid-based formulations (Taila) enhance transdermal penetration of bioactives for topical applications.
 
 **Optimal Timing:** After meals for internal use; external applications morning and evening; flower preparations for aromatic therapy anytime
 
@@ -59,19 +59,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kurabaka/meta-analysis.md"
 
 **Storage:** Store powder in airtight containers at 15-30°C. Essential oil in amber glass. Flower-based preparations protect from light and moisture.
 
-**Marker Compounds:** Barlerin, Shanzhiside, Lupulin, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), Iridoid [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides), Essential oil terpenoids, Flavonoid glycosides
+**Marker Compounds:** Barlerin, Shanzhiside, Lupulin, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Iridoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides), Essential oil terpenoids, Flavonoid glycosides
 
 ### Extraction Methods
 
 - Steam distillation for essential oil from flowers
 - Hydroalcoholic extraction (60% ethanol) of bark
 - Water decoction (traditional)
-- Cold maceration in [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) for Taila
+- Cold maceration in [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) for Taila
 - Hydrodistillation of flowers
 
 ### Synergistic Combinations
 
-- [Kanchanar](/ayurveda-atlas/herb/kanchanar/) for anti-inflammatory synergy
-- [Ashoka](/ayurveda-atlas/herb/ashoka/) for menstrual disorder management
-- [Lodhra](/ayurveda-atlas/herb/lodhra/) for gynecological formulations
-- [Haridra](/ayurveda-atlas/herb/haridra/) for skin health preparations
+- [Kanchanar](/nighantu/herb/kanchanar/) for anti-inflammatory synergy
+- [Ashoka](/nighantu/herb/ashoka/) for menstrual disorder management
+- [Lodhra](/nighantu/herb/lodhra/) for gynecological formulations
+- [Haridra](/nighantu/herb/haridra/) for skin health preparations

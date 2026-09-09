@@ -23,15 +23,15 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Kanchanara-G
 
 | Language | Name |
 |----------|------|
-| English | Kanchanara [Guggulu](/ayurveda-atlas/formulation/guggulu/)|Kanchanara Guggulu |
+| English | Kanchanara [Guggulu](/nighantu/formulation/guggulu/)|Kanchanara Guggulu |
 
 ## Key Ingredients
 
 - Kanchanara Twak (Bauhinia variegata bark)
-- Shuddha [Guggulu](/ayurveda-atlas/formulation/guggulu/)|Shuddha Guggulu (Commiphora wightii)
-- [Triphala](/ayurveda-atlas/herb/triphala/) - [Haritaki](/ayurveda-atlas/herb/haritaki/) (Terminalia chebula), [Bibhitaki](/ayurveda-atlas/herb/bibhitaki/) (Terminalia bellirica), Amalaki (Emblica officinalis)
-- [Trikatu](/ayurveda-atlas/herb/trikatu/) - Shunthi ([Zingiber](/ayurveda-atlas/herb/zingiber/) officinale), Maricha (Piper nigrum), [Pippali](/ayurveda-atlas/herb/pippali/) (Piper longum)
-- [Varuna](/ayurveda-atlas/herb/varuna/) Twak (Crataeva nurvala bark)
+- Shuddha [Guggulu](/nighantu/formulation/guggulu/)|Shuddha Guggulu (Commiphora wightii)
+- [Triphala](/nighantu/herb/triphala/) - [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula), [Bibhitaki](/nighantu/herb/bibhitaki/) (Terminalia bellirica), Amalaki (Emblica officinalis)
+- [Trikatu](/nighantu/herb/trikatu/) - Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale), Maricha (Piper nigrum), [Pippali](/nighantu/herb/pippali/) (Piper longum)
+- [Varuna](/nighantu/herb/varuna/) Twak (Crataeva nurvala bark)
 - Ela (Elettaria cardamomum)
 - Twak (Cinnamomum zeylanicum)
 - Tejpatra (Cinnamomum tamala)
@@ -42,11 +42,11 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also described in Bhaishajya 
 
 ## How does it work?
 
-- Thyroid function modulation: Kanchanara bark contains [flavonoids](/ayurveda-atlas/reference/flavonoids/) that balance Kapha dosha and reduce Medha Dhatu (adipose tissue), removing obstruction through Lekhana (scraping) action to normalize thyroid function
-- Anti-tumor and anti-proliferative: Guggulsterones and [quercetin](/ayurveda-atlas/reference/quercetinquercetin/) derivatives inhibit cell proliferation pathways, showing potential against benign tumors, cysts, and abnormal tissue growths (Granthi)
-- Anti-inflammatory and decongestant: Combined action of [Triphala](/ayurveda-atlas/herb/triphala/) antioxidants and guggulsterone-mediated NF-kB inhibition reduces glandular swelling and lymphatic congestion
-- Metabolic correction: [Trikatu](/ayurveda-atlas/herb/trikatu/) enhances metabolic fire (Agni), while Kanchanara bark's Kashaya (astringent) properties reduce pathological tissue accumulation
-- Aldose reductase inhibition: [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/) pentaacetate identified via molecular docking shows strong inhibition of aldose reductase, relevant to metabolic and diabetic complications
+- Thyroid function modulation: Kanchanara bark contains [flavonoids](/nighantu/reference/flavonoids/) that balance Kapha dosha and reduce Medha Dhatu (adipose tissue), removing obstruction through Lekhana (scraping) action to normalize thyroid function
+- Anti-tumor and anti-proliferative: Guggulsterones and [quercetin](/nighantu/reference/quercetinquercetin/) derivatives inhibit cell proliferation pathways, showing potential against benign tumors, cysts, and abnormal tissue growths (Granthi)
+- Anti-inflammatory and decongestant: Combined action of [Triphala](/nighantu/herb/triphala/) antioxidants and guggulsterone-mediated NF-kB inhibition reduces glandular swelling and lymphatic congestion
+- Metabolic correction: [Trikatu](/nighantu/herb/trikatu/) enhances metabolic fire (Agni), while Kanchanara bark's Kashaya (astringent) properties reduce pathological tissue accumulation
+- Aldose reductase inhibition: [Quercetin](/nighantu/reference/quercetinquercetin/) pentaacetate identified via molecular docking shows strong inhibition of aldose reductase, relevant to metabolic and diabetic complications
 
 ## Which traditional uses are supported by research?
 
@@ -57,9 +57,9 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also described in Bhaishajya 
 
 ## What do recent clinical trials show?
 
-- **Evaluation of Comparative Efficacy of Levothyroxine Versus Kshar Basti and [Kanchanar](/ayurveda-atlas/herb/kanchanar/) Guggul in the Treatment of Hypothyroidism: Protocol for Randomized Controlled Trial** (2024): RCT protocol registered comparing [Kanchanar](/ayurveda-atlas/herb/kanchanar/) Guggul with levothyroxine for hypothyroidism; enrollment began June 2024 with data analysis expected December 2025 and results by early 2026.
-- **From LC-MS/MS metabolomics profiling of Kanchanara [Guggulu](/ayurveda-atlas/formulation/guggulu/)|Kanchanara Guggulu to molecular docking and dynamics simulation of [quercetin](/ayurveda-atlas/reference/quercetinquercetin/) pentaacetate with aldose reductase** (2022): LC-MS/MS metabolomics identified 2,579 compounds including [quercetin](/ayurveda-atlas/reference/quercetinquercetin/) and [kaempferol](/ayurveda-atlas/reference/kaempferol/) derivatives; molecular docking revealed strong binding affinity of [quercetin](/ayurveda-atlas/reference/quercetinquercetin/) pentaacetate with aldose reductase enzyme.
-- **Clinical study to evaluate efficacy of [Kanchanar](/ayurveda-atlas/herb/kanchanar/) Gutika in the management of Galganda w.r.t. Hypothyroidism** (2021): Clinical study demonstrated improvement in thyroid function parameters (TSH normalization) with [Kanchanar](/ayurveda-atlas/herb/kanchanar/) formulation in hypothyroid patients.
+- **Evaluation of Comparative Efficacy of Levothyroxine Versus Kshar Basti and [Kanchanar](/nighantu/herb/kanchanar/) Guggul in the Treatment of Hypothyroidism: Protocol for Randomized Controlled Trial** (2024): RCT protocol registered comparing [Kanchanar](/nighantu/herb/kanchanar/) Guggul with levothyroxine for hypothyroidism; enrollment began June 2024 with data analysis expected December 2025 and results by early 2026.
+- **From LC-MS/MS metabolomics profiling of Kanchanara [Guggulu](/nighantu/formulation/guggulu/)|Kanchanara Guggulu to molecular docking and dynamics simulation of [quercetin](/nighantu/reference/quercetinquercetin/) pentaacetate with aldose reductase** (2022): LC-MS/MS metabolomics identified 2,579 compounds including [quercetin](/nighantu/reference/quercetinquercetin/) and [kaempferol](/nighantu/reference/kaempferol/) derivatives; molecular docking revealed strong binding affinity of [quercetin](/nighantu/reference/quercetinquercetin/) pentaacetate with aldose reductase enzyme.
+- **Clinical study to evaluate efficacy of [Kanchanar](/nighantu/herb/kanchanar/) Gutika in the management of Galganda w.r.t. Hypothyroidism** (2021): Clinical study demonstrated improvement in thyroid function parameters (TSH normalization) with [Kanchanar](/nighantu/herb/kanchanar/) formulation in hypothyroid patients.
 
 ## Recent safety updates
 
@@ -77,11 +77,11 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also described in Bhaishajya 
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** [Guggulu](/ayurveda-atlas/formulation/guggulu/) (resinous pill/tablet), Modern compressed tablet, Capsule (modern)
+**Dosage Forms:** [Guggulu](/nighantu/formulation/guggulu/) (resinous pill/tablet), Modern compressed tablet, Capsule (modern)
 
 **Standard Dosage:** 250-500 mg twice or thrice daily with warm water, as per AFI Part I
 
-**Bioavailability:** [Guggulu](/ayurveda-atlas/formulation/guggulu/) acts as yogavahi enhancing systemic delivery of Kanchanara flavonoids and [Varuna](/ayurveda-atlas/herb/varuna/) [lupeol](/ayurveda-atlas/reference/lupeol/). [Piperine](/ayurveda-atlas/reference/piperine/) from [Trikatu](/ayurveda-atlas/herb/trikatu/) enhances absorption. Kanchanara bark [polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols) are well-absorbed in guggulu matrix. Targets thyroid and lymphatic tissues.
+**Bioavailability:** [Guggulu](/nighantu/formulation/guggulu/) acts as yogavahi enhancing systemic delivery of Kanchanara flavonoids and [Varuna](/nighantu/herb/varuna/) [lupeol](/nighantu/reference/lupeol/). [Piperine](/nighantu/reference/piperine/) from [Trikatu](/nighantu/herb/trikatu/) enhances absorption. Kanchanara bark [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) are well-absorbed in guggulu matrix. Targets thyroid and lymphatic tissues.
 
 **Optimal Timing:** After meals, twice or thrice daily, for Galaganda (goiter/thyroid), Gandamala (lymph nodes), and Granthi (cysts/tumors)
 
@@ -89,7 +89,7 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also described in Bhaishajya 
 
 **Storage:** Store in airtight containers in a cool, dry place. Temperature not exceeding 30°C.
 
-**Marker Compounds:** Z-Guggulsterone, E-Guggulsterone, Lupeol (from [Varuna](/ayurveda-atlas/herb/varuna/)), Gallic acid, Piperine, Kaempferol (from Kanchanara)
+**Marker Compounds:** Z-Guggulsterone, E-Guggulsterone, Lupeol (from [Varuna](/nighantu/herb/varuna/)), Gallic acid, Piperine, Kaempferol (from Kanchanara)
 
 **Quality Parameters:** Weight variation (±5%), hardness, friability (<1%), disintegration time (<45 min), moisture (<6%), Z/E-guggulsterone content by HPLC, gallic acid, piperine, HPTLC fingerprint, microbial limits, heavy metals
 
@@ -97,7 +97,7 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also described in Bhaishajya 
 
 ### Synergistic Combinations
 
-- [Varunadi Kwath](/ayurveda-atlas/glossary/concepts-m-y/#varunadi-kwath)
-- [Chandraprabha](/ayurveda-atlas/herb/chandraprabha/) Vati
-- [Arogyavardhini Vati](/ayurveda-atlas/formulation/arogyavardhini-vati/)
-- [Triphala](/ayurveda-atlas/herb/triphala/) Guggulu
+- [Varunadi Kwath](/nighantu/glossary/concepts-m-y/#varunadi-kwath)
+- [Chandraprabha](/nighantu/herb/chandraprabha/) Vati
+- [Arogyavardhini Vati](/nighantu/formulation/arogyavardhini-vati/)
+- [Triphala](/nighantu/herb/triphala/) Guggulu

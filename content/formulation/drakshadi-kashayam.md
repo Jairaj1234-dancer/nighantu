@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Drakshadi-Ka
 
 | Language | Name |
 |----------|------|
-| English | [Drakshadi Kashayam](/ayurveda-atlas/formulation/drakshadi-kashayam/) |
+| English | [Drakshadi Kashayam](/nighantu/formulation/drakshadi-kashayam/) |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Drakshadi-Ka
 
 **Standard Dosage:** 15-30 mL or 2 tablets twice daily before meals, as per Sahasrayogam
 
-**Bioavailability:** Natural sugars from [Draksha](/ayurveda-atlas/herb/draksha/) aid palatability and provide quick energy. [Resveratrol](/ayurveda-atlas/glossary/compounds-q-t/#resveratrolresveratrol) has moderate oral bioavailability (~20-30%) — enhanced in hot aqueous medium. [Polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols) are rapidly absorbed from decoction form.
+**Bioavailability:** Natural sugars from [Draksha](/nighantu/herb/draksha/) aid palatability and provide quick energy. [Resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol) has moderate oral bioavailability (~20-30%) — enhanced in hot aqueous medium. [Polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) are rapidly absorbed from decoction form.
 
 **Optimal Timing:** Before meals, morning and evening
 
@@ -57,15 +57,15 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Drakshadi-Ka
 
 **Storage:** Fresh: use same day. Concentrates: amber glass at room temperature. Tablets: airtight containers at room temperature.
 
-**Marker Compounds:** [Resveratrol](/ayurveda-atlas/glossary/compounds-q-t/#resveratrolresveratrol), [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/), Gallic acid, [Catechin](/ayurveda-atlas/reference/catechin/), Tartaric acid
+**Marker Compounds:** [Resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol), [Quercetin](/nighantu/reference/quercetinquercetin/), Gallic acid, [Catechin](/nighantu/reference/catechin/), Tartaric acid
 
-**Quality Parameters:** pH, specific gravity, total solids, total sugar (higher due to [Draksha](/ayurveda-atlas/herb/draksha/)), extractive values, resveratrol content by HPLC, total polyphenols, HPTLC fingerprint, microbial limits, heavy metals
+**Quality Parameters:** pH, specific gravity, total solids, total sugar (higher due to [Draksha](/nighantu/herb/draksha/)), extractive values, resveratrol content by HPLC, total polyphenols, HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** As is (warm decoction) or with honey
 
 ### Synergistic Combinations
 
-- [Draksharishta](/ayurveda-atlas/formulation/draksharishta/)
-- [Drakshadi Kwath](/ayurveda-atlas/glossary/concepts-a-m/#drakshadi-kwath)
-- [Abhayarishta](/ayurveda-atlas/formulation/abhayarishta/)
-- [Triphala](/ayurveda-atlas/herb/triphala/) Churna
+- [Draksharishta](/nighantu/formulation/draksharishta/)
+- [Drakshadi Kwath](/nighantu/glossary/concepts-a-m/#drakshadi-kwath)
+- [Abhayarishta](/nighantu/formulation/abhayarishta/)
+- [Triphala](/nighantu/herb/triphala/) Churna

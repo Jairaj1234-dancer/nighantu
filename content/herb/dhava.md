@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Joint-Musculoskeletal/Dhava/meta-analysis.m
 
 **Standard Dosage:** 3-6g bark powder twice daily; 50-100ml decoction twice daily; 500mg extract capsule twice daily
 
-**Bioavailability:** Anogeissus latifolia (Dhava) bark contains [tannins](/ayurveda-atlas/reference/tannins/), [flavonoids](/ayurveda-atlas/reference/flavonoids/), and ellagic acid derivatives. Tannin-rich fraction has low systemic bioavailability but effective local GI action (astringent, anti-diarrheal). Ellagic acid undergoes gut microbial metabolism to urolithins. Flavonoid fraction has moderate bioavailability (15-30%). Enhancement: co-administration with lipid vehicles improves flavonoid absorption; the traditional practice of preparing Kashayam with jaggery ([Guda](/ayurveda-atlas/glossary/concepts-a-m/#guda)) may enhance palatability and provide matrix for improved absorption.
+**Bioavailability:** Anogeissus latifolia (Dhava) bark contains [tannins](/nighantu/reference/tannins/), [flavonoids](/nighantu/reference/flavonoids/), and ellagic acid derivatives. Tannin-rich fraction has low systemic bioavailability but effective local GI action (astringent, anti-diarrheal). Ellagic acid undergoes gut microbial metabolism to urolithins. Flavonoid fraction has moderate bioavailability (15-30%). Enhancement: co-administration with lipid vehicles improves flavonoid absorption; the traditional practice of preparing Kashayam with jaggery ([Guda](/nighantu/glossary/concepts-a-m/#guda)) may enhance palatability and provide matrix for improved absorption.
 
 **Optimal Timing:** Before meals with warm water or honey for digestive conditions; after meals for diarrhea management
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Joint-Musculoskeletal/Dhava/meta-analysis.m
 
 **Storage:** Airtight containers below 25 deg C, protected from moisture. Tannin-rich bark powder is hygroscopic - use moisture-proof packaging with desiccant.
 
-**Marker Compounds:** Ellagic acid, Gallic acid, 3,3'-di-O-methylellagic acid, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), Anogeissinin, [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/)
+**Marker Compounds:** Ellagic acid, Gallic acid, 3,3'-di-O-methylellagic acid, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Anogeissinin, [Quercetin](/nighantu/reference/quercetinquercetin/)
 
 ### Extraction Methods
 
@@ -71,6 +71,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Joint-Musculoskeletal/Dhava/meta-analysis.m
 ### Synergistic Combinations
 
 - With Kutaja for enhanced anti-diarrheal action
-- With [Dadima](/ayurveda-atlas/herb/dadima/) Twak for astringent synergy in dysentery
+- With [Dadima](/nighantu/herb/dadima/) Twak for astringent synergy in dysentery
 - With Musta for digestive disorder management
-- With [Lodhra](/ayurveda-atlas/herb/lodhra/) for [hemostatic](/ayurveda-atlas/glossary/pharmacology/#hemostatic) and [wound-healing](/ayurveda-atlas/reference/wound-healing/) applications
+- With [Lodhra](/nighantu/herb/lodhra/) for [hemostatic](/nighantu/glossary/pharmacology/#hemostatic) and [wound-healing](/nighantu/reference/wound-healing/) applications

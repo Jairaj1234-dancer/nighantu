@@ -30,7 +30,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Babbula/meta-analysis.md
 
 - Gallic acid
 - Protocatechuic acid
-- [Catechin](/ayurveda-atlas/reference/catechin/)
+- [Catechin](/nighantu/reference/catechin/)
 - Epigallocatechin-7-gallate
 - Epigallocatechin-5,7-digallate
 - Pyrocatechol
@@ -43,10 +43,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Babbula/meta-analysis.md
 
 ## How does it work?
 
-- [Antimicrobial](/ayurveda-atlas/reference/antimicrobial/) activity via polyphenol-mediated (gallic acid, catechin) disruption of bacterial cell wall synthesis and enzyme inhibition
+- [Antimicrobial](/nighantu/reference/antimicrobial/) activity via polyphenol-mediated (gallic acid, catechin) disruption of bacterial cell wall synthesis and enzyme inhibition
 - Anti-inflammatory action through tannin-mediated inhibition of COX-2, LOX and suppression of NF-kB nuclear translocation
 - Antidiarrheal effect through tannin astringent action on intestinal mucosa and inhibition of intestinal secretion
-- [Antidiabetic](/ayurveda-atlas/reference/antidiabetic/) activity via polyphenol-mediated alpha-amylase and alpha-glucosidase inhibition
+- [Antidiabetic](/nighantu/reference/antidiabetic/) activity via polyphenol-mediated alpha-amylase and alpha-glucosidase inhibition
 
 ## Which traditional uses are supported by research?
 
@@ -57,9 +57,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Babbula/meta-analysis.md
 
 ## What do recent clinical trials show?
 
-- **A comprehensive review on the chemical composition and pharmacological activities of Acacia arabica** (2024): Identified [tannins](/ayurveda-atlas/reference/tannins/), [flavonoids](/ayurveda-atlas/reference/flavonoids/), [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids), fatty acids and [polysaccharides](/ayurveda-atlas/glossary/compounds-o-q/#polysaccharides) as major phytoconstituent classes with confirmed anti-inflammatory, [antioxidant](/ayurveda-atlas/reference/antioxidant/), antidiarrheal, [antihypertensive](/ayurveda-atlas/glossary/pharmacology/#antihypertensive), antibacterial and [anticancer](/ayurveda-atlas/reference/anticancer/) activities.
+- **A comprehensive review on the chemical composition and pharmacological activities of Acacia arabica** (2024): Identified [tannins](/nighantu/reference/tannins/), [flavonoids](/nighantu/reference/flavonoids/), [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids), fatty acids and [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides) as major phytoconstituent classes with confirmed anti-inflammatory, [antioxidant](/nighantu/reference/antioxidant/), antidiarrheal, [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive), antibacterial and [anticancer](/nighantu/reference/anticancer/) activities.
 - **Bioactive Compounds, Pharmacological Actions, and Pharmacokinetics of Genus Acacia** (2023): Genus Acacia compounds showed potent acetylcholinesterase inhibitory activity alongside antimicrobial, antidiabetic and gastroprotective effects in preclinical models.
-- **Medicinal properties of different parts of Acacia nilotica (Babul), its phytoconstituents and diverse pharmacological activities** (2024): Documented antiplatelet aggregatory, molluscicidal, antimutagenic and [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) activities in addition to established antimicrobial and anti-inflammatory effects.
+- **Medicinal properties of different parts of Acacia nilotica (Babul), its phytoconstituents and diverse pharmacological activities** (2024): Documented antiplatelet aggregatory, molluscicidal, antimutagenic and [hepatoprotective](/nighantu/reference/hepatoprotective/) activities in addition to established antimicrobial and anti-inflammatory effects.
 
 ## Recent safety updates
 
@@ -92,7 +92,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Babbula/meta-analysis.md
 
 **Standard Dosage:** 3-6g bark powder twice daily; 50-100ml decoction; 1-3g gum with water; tooth powder as needed for dental hygiene
 
-**Bioavailability:** Moderate oral bioavailability. Acacia nilotica (Babool/Babul) bark is rich in tannins (12-20% gallic acid-based tannins) and condensed tannins ([proanthocyanidins](/ayurveda-atlas/glossary/compounds-o-q/#proanthocyanidins)). Gallic acid has good oral bioavailability (~70%). Tannins form complexes with salivary [proteins](/ayurveda-atlas/glossary/compounds-o-q/#proteins) — oral health effects are partly local/topical. Gum Arabic-type polysaccharides (from gum exudate) act as prebiotics in the colon. [Piperine](/ayurveda-atlas/reference/piperine/) co-administration enhances absorption of phenolic compounds.
+**Bioavailability:** Moderate oral bioavailability. Acacia nilotica (Babool/Babul) bark is rich in tannins (12-20% gallic acid-based tannins) and condensed tannins ([proanthocyanidins](/nighantu/glossary/compounds-o-q/#proanthocyanidins)). Gallic acid has good oral bioavailability (~70%). Tannins form complexes with salivary [proteins](/nighantu/glossary/compounds-o-q/#proteins) — oral health effects are partly local/topical. Gum Arabic-type polysaccharides (from gum exudate) act as prebiotics in the colon. [Piperine](/nighantu/reference/piperine/) co-administration enhances absorption of phenolic compounds.
 
 **Optimal Timing:** Bark decoction as gargle morning and evening for oral health. Internal: before meals for digestive astringent action. Tooth powder at bedtime.
 
@@ -100,9 +100,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Babbula/meta-analysis.md
 
 **Shelf Life:** 2 years (bark powder); 3 years (gum); 3 years (capsules/tablets); 2 years (tooth powder); 5 years (Ghana Vati)
 
-**Storage:** Bark powder in airtight containers, cool and dry. Gum in dry, ventilated storage — susceptible to insect infestation (fumigate naturally with [neem](/ayurveda-atlas/herb/neem/)). Below 25°C, RH < 60%.
+**Storage:** Bark powder in airtight containers, cool and dry. Gum in dry, ventilated storage — susceptible to insect infestation (fumigate naturally with [neem](/nighantu/herb/neem/)). Below 25°C, RH < 60%.
 
-**Marker Compounds:** Gallic acid, Ellagic acid, Catechin, [Epicatechin](/ayurveda-atlas/glossary/compounds-d-g/#epicatechin), Niloticane, Arabinose (gum), [Galactose](/ayurveda-atlas/glossary/compounds-d-g/#galactose) (gum), Methylgallate, Condensed tannins (proanthocyanidins)
+**Marker Compounds:** Gallic acid, Ellagic acid, Catechin, [Epicatechin](/nighantu/glossary/compounds-d-g/#epicatechin), Niloticane, Arabinose (gum), [Galactose](/nighantu/glossary/compounds-d-g/#galactose) (gum), Methylgallate, Condensed tannins (proanthocyanidins)
 
 ### Extraction Methods
 
@@ -114,8 +114,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Babbula/meta-analysis.md
 
 ### Synergistic Combinations
 
-- With [Khadira](/ayurveda-atlas/herb/khadira/) for oral health and Mukhapaka (stomatitis)
-- With [Haridra](/ayurveda-atlas/herb/haridra/) for wound healing (external paste)
-- With [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) for GI mucosal protection
-- With [Triphala](/ayurveda-atlas/herb/triphala/) for dental and gum health
-- With [Lodhra](/ayurveda-atlas/herb/lodhra/) for leucorrhea and uterine tonic action
+- With [Khadira](/nighantu/herb/khadira/) for oral health and Mukhapaka (stomatitis)
+- With [Haridra](/nighantu/herb/haridra/) for wound healing (external paste)
+- With [Yashtimadhu](/nighantu/herb/yashtimadhu/) for GI mucosal protection
+- With [Triphala](/nighantu/herb/triphala/) for dental and gum health
+- With [Lodhra](/nighantu/herb/lodhra/) for leucorrhea and uterine tonic action

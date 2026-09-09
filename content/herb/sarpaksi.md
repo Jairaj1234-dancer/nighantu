@@ -53,13 +53,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sarpaksi/meta-analysis.md"
 
 **Optimal Timing:** Before meals for anti-inflammatory and antivenom indications; fresh juice preferred for acute applications
 
-**Standardized Extract:** Hydroalcoholic whole plant extract (5:1), standardized to NLT 2% total [flavonoids](/ayurveda-atlas/reference/flavonoids/) (as [quercetin](/ayurveda-atlas/reference/quercetinquercetin/) equivalents); aqueous extract for traditional preparations
+**Standardized Extract:** Hydroalcoholic whole plant extract (5:1), standardized to NLT 2% total [flavonoids](/nighantu/reference/flavonoids/) (as [quercetin](/nighantu/reference/quercetinquercetin/) equivalents); aqueous extract for traditional preparations
 
 **Shelf Life:** 7 days for swarasa (refrigerated); 24 months for churna; 30 months for capsules
 
 **Storage:** Swarasa: refrigerate at 2-8 deg C, use within 7 days. Churna and capsules: below 25 deg C, airtight containers, protect from moisture.
 
-**Marker Compounds:** Quercetin, [Kaempferol](/ayurveda-atlas/reference/kaempferol/), Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), Ursolic acid, Camptothecin (trace — must be below safety limit <0.001%)
+**Marker Compounds:** Quercetin, [Kaempferol](/nighantu/reference/kaempferol/), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Ursolic acid, Camptothecin (trace — must be below safety limit <0.001%)
 
 ### Extraction Methods
 
@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sarpaksi/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Shirisha](/ayurveda-atlas/herb/shirisha/) (anti-allergic and antivenom synergy)
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) ([immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) formulations)
-- [Haridra](/ayurveda-atlas/herb/haridra/) (anti-inflammatory combinations)
-- [Neem](/ayurveda-atlas/herb/neem/) (dermatological formulations)
+- [Shirisha](/nighantu/herb/shirisha/) (anti-allergic and antivenom synergy)
+- [Guduchi](/nighantu/herb/guduchi/) ([immunomodulatory](/nighantu/reference/immunomodulatory/) formulations)
+- [Haridra](/nighantu/herb/haridra/) (anti-inflammatory combinations)
+- [Neem](/nighantu/herb/neem/) (dermatological formulations)

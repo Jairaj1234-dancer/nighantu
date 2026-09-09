@@ -6,7 +6,7 @@ section: "_Hub"
 category: "Pharmacology"
 subcategory: "Medhya-Nootropic.md"
 group: ""
-answer: "Medhya (Nootropic) Agents is a reference entry in the Ayurveda Atlas. 34 herbs and compounds with medhya (nootropic) activity across traditions Akarakarabha — Anacyclus pyrethrum (L.) Lag. Akhuparni — Ipomoea reniformis Choisy (syn."
+answer: "Medhya (Nootropic) Agents is a reference entry in the Nighantu. 34 herbs and compounds with medhya (nootropic) activity across traditions Akarakarabha — Anacyclus pyrethrum (L.) Lag. Akhuparni — Ipomoea reniformis Choisy (syn."
 botanical: "Clitoria ternatea L."
 family: ""
 sanskrit: ""
@@ -23,51 +23,51 @@ srcRel: "_Hub/Pharmacology/Medhya-Nootropic.md"
 
 ## Ayurveda (31)
 
-- [Akarakarabha](/ayurveda-atlas/herb/akarakarabha/) — *Anacyclus pyrethrum (L.) Lag.*
-- [Akhuparni](/ayurveda-atlas/herb/akhuparni/) — *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
-- [Aparajita](/ayurveda-atlas/herb/aparajita/) — *Clitoria ternatea L.*
-- [Aravindasava](/ayurveda-atlas/formulation/aravindasava/)
-- [Brahma Rasayana](/ayurveda-atlas/formulation/brahma-rasayana/)
-- [Brahmi](/ayurveda-atlas/herb/brahmi/) — *Bacopa monnieri*
-- [Brahmi Ghritam](/ayurveda-atlas/formulation/brahmi-ghritam/)
-- [Brahmi Vati](/ayurveda-atlas/formulation/brahmi-vati/)
-- [Chyawanprash](/ayurveda-atlas/formulation/chyawanprash/)
-- [Gambhari Phala](/ayurveda-atlas/herb/gambhari-phala/) — *Gmelina arborea Roxb.*
-- [Ghrita](/ayurveda-atlas/herb/ghrita/)
-- [Giloy](/ayurveda-atlas/herb/guduchi/) — *Tinospora cordifolia*
-- [Gokarna](/ayurveda-atlas/herb/gokarna/) — *Clitoria ternatea L. (same species as [Aparajita](/ayurveda-atlas/herb/aparajita/); Gokarna is a regional Ayurvedic synonym)*
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) — *Tinospora cordifolia*
-- [Jatamansi](/ayurveda-atlas/herb/jatamansi/)
-- [Kalyanaka Ghrita](/ayurveda-atlas/formulation/kalyanaka-ghrita/)
-- [Kalyanaka Ghritam](/ayurveda-atlas/formulation/kalyanaka-ghritam/)
-- [Kushmanda](/ayurveda-atlas/herb/kushmanda/) — *Benincasa hispida (Thunb.) Cogn.*
-- [Mandukparni](/ayurveda-atlas/herb/mandukparni/)
-- [Nagabala](/ayurveda-atlas/herb/nagabala/) — *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
-- [Raupya Bhasma](/ayurveda-atlas/herb/raupya-bhasma/)
-- [Saraswatarishta](/ayurveda-atlas/formulation/saraswatarishta/)
-- [Shankhini](/ayurveda-atlas/herb/shankhini/)
-- [Shirisha](/ayurveda-atlas/herb/shirisha/) — *Albizia lebbeck (L.) Benth.*
-- [Somavalli](/ayurveda-atlas/herb/somavalli/)
-- [Swarna Bhasma](/ayurveda-atlas/herb/swarna-bhasma/)
-- [Tagara](/ayurveda-atlas/herb/tagara/)
-- [Ushira](/ayurveda-atlas/herb/ushira/) — *Vetiveria zizanioides (L.) Nash (syn. Chrysopogon zizanioides (L.) Roberty)*
-- [Vacha](/ayurveda-atlas/herb/vacha/)
-- [Vathada](/ayurveda-atlas/herb/vathada/)
-- [Water Hyssop](/ayurveda-atlas/herb/water-hyssop/)
+- [Akarakarabha](/nighantu/herb/akarakarabha/) — *Anacyclus pyrethrum (L.) Lag.*
+- [Akhuparni](/nighantu/herb/akhuparni/) — *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
+- [Aparajita](/nighantu/herb/aparajita/) — *Clitoria ternatea L.*
+- [Aravindasava](/nighantu/formulation/aravindasava/)
+- [Brahma Rasayana](/nighantu/formulation/brahma-rasayana/)
+- [Brahmi](/nighantu/herb/brahmi/) — *Bacopa monnieri*
+- [Brahmi Ghritam](/nighantu/formulation/brahmi-ghritam/)
+- [Brahmi Vati](/nighantu/formulation/brahmi-vati/)
+- [Chyawanprash](/nighantu/formulation/chyawanprash/)
+- [Gambhari Phala](/nighantu/herb/gambhari-phala/) — *Gmelina arborea Roxb.*
+- [Ghrita](/nighantu/herb/ghrita/)
+- [Giloy](/nighantu/herb/guduchi/) — *Tinospora cordifolia*
+- [Gokarna](/nighantu/herb/gokarna/) — *Clitoria ternatea L. (same species as [Aparajita](/nighantu/herb/aparajita/); Gokarna is a regional Ayurvedic synonym)*
+- [Guduchi](/nighantu/herb/guduchi/) — *Tinospora cordifolia*
+- [Jatamansi](/nighantu/herb/jatamansi/)
+- [Kalyanaka Ghrita](/nighantu/formulation/kalyanaka-ghrita/)
+- [Kalyanaka Ghritam](/nighantu/formulation/kalyanaka-ghritam/)
+- [Kushmanda](/nighantu/herb/kushmanda/) — *Benincasa hispida (Thunb.) Cogn.*
+- [Mandukparni](/nighantu/herb/mandukparni/)
+- [Nagabala](/nighantu/herb/nagabala/) — *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
+- [Raupya Bhasma](/nighantu/herb/raupya-bhasma/)
+- [Saraswatarishta](/nighantu/formulation/saraswatarishta/)
+- [Shankhini](/nighantu/herb/shankhini/)
+- [Shirisha](/nighantu/herb/shirisha/) — *Albizia lebbeck (L.) Benth.*
+- [Somavalli](/nighantu/herb/somavalli/)
+- [Swarna Bhasma](/nighantu/herb/swarna-bhasma/)
+- [Tagara](/nighantu/herb/tagara/)
+- [Ushira](/nighantu/herb/ushira/) — *Vetiveria zizanioides (L.) Nash (syn. Chrysopogon zizanioides (L.) Roberty)*
+- [Vacha](/nighantu/herb/vacha/)
+- [Vathada](/nighantu/herb/vathada/)
+- [Water Hyssop](/nighantu/herb/water-hyssop/)
 
 ## Related Body Systems
 
-- [Anti-inflammatory & Pain](/ayurveda-atlas/reference/antiinflammatory-pain/)
-- [Brain & Nervous System](/ayurveda-atlas/reference/brain-nervous-system/)
-- [Diabetes & Metabolism](/ayurveda-atlas/reference/diabetes-metabolism/)
-- [Digestive Health](/ayurveda-atlas/reference/digestive-health/)
-- [Eye Health](/ayurveda-atlas/reference/eye-health/)
-- [Fever & Infection](/ayurveda-atlas/reference/fever-infection/)
-- [Hair Health](/ayurveda-atlas/glossary/body-systems/#hair-health)
-- [Heart & Cardiovascular](/ayurveda-atlas/reference/heart-cardiovascular/)
-- [Immune System & Rasayana](/ayurveda-atlas/reference/immune-system-rasayana/)
-- [Joint & Musculoskeletal](/ayurveda-atlas/reference/joint-musculoskeletal/)
-- [Kidney & Urinary](/ayurveda-atlas/reference/kidney-urinary/)
-- [Liver & Detoxification](/ayurveda-atlas/reference/liver-detoxification/)
-- [Men's Health & Vitality](/ayurveda-atlas/reference/mens-health-vitality/)
-- [Skin & Beauty](/ayurveda-atlas/reference/skin-beauty/)
+- [Anti-inflammatory & Pain](/nighantu/reference/antiinflammatory-pain/)
+- [Brain & Nervous System](/nighantu/reference/brain-nervous-system/)
+- [Diabetes & Metabolism](/nighantu/reference/diabetes-metabolism/)
+- [Digestive Health](/nighantu/reference/digestive-health/)
+- [Eye Health](/nighantu/reference/eye-health/)
+- [Fever & Infection](/nighantu/reference/fever-infection/)
+- [Hair Health](/nighantu/glossary/body-systems/#hair-health)
+- [Heart & Cardiovascular](/nighantu/reference/heart-cardiovascular/)
+- [Immune System & Rasayana](/nighantu/reference/immune-system-rasayana/)
+- [Joint & Musculoskeletal](/nighantu/reference/joint-musculoskeletal/)
+- [Kidney & Urinary](/nighantu/reference/kidney-urinary/)
+- [Liver & Detoxification](/nighantu/reference/liver-detoxification/)
+- [Men's Health & Vitality](/nighantu/reference/mens-health-vitality/)
+- [Skin & Beauty](/nighantu/reference/skin-beauty/)

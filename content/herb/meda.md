@@ -28,27 +28,27 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Meda/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- Steroidal [saponins](/ayurveda-atlas/reference/saponins/) (including [diosgenin](/ayurveda-atlas/glossary/compounds-d-g/#diosgenin))
-- [Alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids)
-- [Flavonoids](/ayurveda-atlas/reference/flavonoids/)
-- Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
-- Phenols and [tannins](/ayurveda-atlas/reference/tannins/)
-- [Anthraquinones](/ayurveda-atlas/glossary/compounds-1-a/#anthraquinones)
-- [Terpenoids](/ayurveda-atlas/glossary/compounds-t-z/#terpenoids)
+- Steroidal [saponins](/nighantu/reference/saponins/) (including [diosgenin](/nighantu/glossary/compounds-d-g/#diosgenin))
+- [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids)
+- [Flavonoids](/nighantu/reference/flavonoids/)
+- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- Phenols and [tannins](/nighantu/reference/tannins/)
+- [Anthraquinones](/nighantu/glossary/compounds-1-a/#anthraquinones)
+- [Terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids)
 - Lysine and serine (amino acids)
 - Aspartic acid
 - Phytohormones
 
 ## How does it work?
 
-- Hypoglycemic activity through enhancement of insulin secretion and improvement of [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose) uptake by peripheral tissues, mediated by saponin fraction
-- Anti-inflammatory and [analgesic](/ayurveda-atlas/reference/analgesic/) mechanisms involving inhibition of lipoxygenase pathway and reduction of pro-inflammatory mediators
-- Bronchodilatory action through tracheorelaxant effect on bronchial smooth muscle, with [antispasmodic](/ayurveda-atlas/glossary/pharmacology/#antispasmodic) properties mediated by calcium channel modulation
+- Hypoglycemic activity through enhancement of insulin secretion and improvement of [glucose](/nighantu/glossary/compounds-d-g/#glucose) uptake by peripheral tissues, mediated by saponin fraction
+- Anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) mechanisms involving inhibition of lipoxygenase pathway and reduction of pro-inflammatory mediators
+- Bronchodilatory action through tracheorelaxant effect on bronchial smooth muscle, with [antispasmodic](/nighantu/glossary/pharmacology/#antispasmodic) properties mediated by calcium channel modulation
 
 ## Which traditional uses are supported by research?
 
-- Antimalarial and [antipyretic](/ayurveda-atlas/reference/antipyretic/) properties validated through in vivo studies using Plasmodium models and fever-inducing paradigms
-- [Diuretic](/ayurveda-atlas/reference/diuretic/) activity confirmed through experimental models, supporting traditional use in urinary disorders and as a body purifier
+- Antimalarial and [antipyretic](/nighantu/reference/antipyretic/) properties validated through in vivo studies using Plasmodium models and fever-inducing paradigms
+- [Diuretic](/nighantu/reference/diuretic/) activity confirmed through experimental models, supporting traditional use in urinary disorders and as a body purifier
 - Antibacterial and antifungal activity validated against multiple pathogenic organisms, confirming traditional use in infection management
 
 ## What do recent clinical trials show?
@@ -73,21 +73,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Meda/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Kwatha (decoction), Capsules, Tablets, [Ghrita](/ayurveda-atlas/herb/ghrita/) (medicated ghee), Avaleha (confection), Lehya
+**Dosage Forms:** Churna (powder), Kwatha (decoction), Capsules, Tablets, [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Avaleha (confection), Lehya
 
 **Standard Dosage:** 3-6 g tuber powder per day; 50-100 mL decoction twice daily; 500-1000 mg extract capsules daily
 
-**Bioavailability:** Steroidal saponins show moderate oral bioavailability (15-25%). Sapogenins released by intestinal hydrolysis are better absorbed than glycosylated forms. Mucilaginous [polysaccharides](/ayurveda-atlas/glossary/compounds-o-q/#polysaccharides) are not absorbed but provide prebiotic and gut-protective effects. Ghrita-based preparations enhance sapogenin bioavailability by 40-60%.
+**Bioavailability:** Steroidal saponins show moderate oral bioavailability (15-25%). Sapogenins released by intestinal hydrolysis are better absorbed than glycosylated forms. Mucilaginous [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides) are not absorbed but provide prebiotic and gut-protective effects. Ghrita-based preparations enhance sapogenin bioavailability by 40-60%.
 
-**Optimal Timing:** With meals or with milk for [Rasayana](/ayurveda-atlas/reference/rasayana/) and nutritive effects; morning for tonic action; with Ghrita for reproductive health
+**Optimal Timing:** With meals or with milk for [Rasayana](/nighantu/reference/rasayana/) and nutritive effects; morning for tonic action; with Ghrita for reproductive health
 
-**Standardized Extract:** Tuber extract (8:1 hydroalcoholic) standardized to minimum 5% total steroidal saponins (as diosgenin equivalents). [Mucilage](/ayurveda-atlas/glossary/compounds-l-o/#mucilage)-rich aqueous extract for GI applications. Ghrita preparation per classical Ashtavarga Ghrita formula.
+**Standardized Extract:** Tuber extract (8:1 hydroalcoholic) standardized to minimum 5% total steroidal saponins (as diosgenin equivalents). [Mucilage](/nighantu/glossary/compounds-l-o/#mucilage)-rich aqueous extract for GI applications. Ghrita preparation per classical Ashtavarga Ghrita formula.
 
 **Shelf Life:** Fresh tubers: 7-10 days refrigerated. Dried powder: 18 months. Extract capsules: 24 months. Ghrita: 24 months.
 
 **Storage:** Fresh tubers at 5-10 deg C. Dried material below 25 deg C in airtight containers with desiccant due to hygroscopic mucilage. Ghrita in glass containers at room temperature. Protect from light and excessive heat.
 
-**Marker Compounds:** Diosgenin, Polygonatum saponins, Convallarin, Convallamarin, Polysaccharides (fructans), Beta-sitosterol, [Stigmasterol](/ayurveda-atlas/reference/stigmasterol/)
+**Marker Compounds:** Diosgenin, Polygonatum saponins, Convallarin, Convallamarin, Polysaccharides (fructans), Beta-sitosterol, [Stigmasterol](/nighantu/reference/stigmasterol/)
 
 ### Extraction Methods
 
@@ -100,7 +100,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Meda/meta-analysis.md"
 ### Synergistic Combinations
 
 - Mahameda (complementary Ashtavarga pair)
-- [Riddhi](/ayurveda-atlas/herb/riddhi/)-[Vriddhi](/ayurveda-atlas/herb/vriddhi/) (Ashtavarga group combination)
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) (Rasayana and reproductive tonic)
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) ([adaptogenic](/ayurveda-atlas/reference/adaptogenic/) and nutritive)
-- [Vidari](/ayurveda-atlas/herb/vidari/) (nutritive and [galactagogue](/ayurveda-atlas/glossary/pharmacology/#galactagogue))
+- [Riddhi](/nighantu/herb/riddhi/)-[Vriddhi](/nighantu/herb/vriddhi/) (Ashtavarga group combination)
+- [Shatavari](/nighantu/herb/shatavari/) (Rasayana and reproductive tonic)
+- [Ashwagandha](/nighantu/herb/ashwagandha/) ([adaptogenic](/nighantu/reference/adaptogenic/) and nutritive)
+- [Vidari](/nighantu/herb/vidari/) (nutritive and [galactagogue](/nighantu/glossary/pharmacology/#galactagogue))

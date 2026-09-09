@@ -30,35 +30,35 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shati/meta-analysis.md"
 
 - Hedychenone (furanoid diterpene)
 - 7-Hydroxyhedychenone
-- Essential oil (4%): 1,8-[cineole](/ayurveda-atlas/glossary/compounds-c-d/#cineole), [camphene](/ayurveda-atlas/glossary/compounds-a-c/#camphene), beta-phellandrene, alpha-pinene
-- Gamma-terpinene, [limonene](/ayurveda-atlas/glossary/compounds-g-l/#limonene), [myrcene](/ayurveda-atlas/glossary/compounds-l-o/#myrcene), [sabinene](/ayurveda-atlas/glossary/compounds-q-t/#sabinene)
-- Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol) and its glucoside
-- [Linalool](/ayurveda-atlas/glossary/compounds-l-o/#linalool) and beta-terpineol
+- Essential oil (4%): 1,8-[cineole](/nighantu/glossary/compounds-c-d/#cineole), [camphene](/nighantu/glossary/compounds-a-c/#camphene), beta-phellandrene, alpha-pinene
+- Gamma-terpinene, [limonene](/nighantu/glossary/compounds-g-l/#limonene), [myrcene](/nighantu/glossary/compounds-l-o/#myrcene), [sabinene](/nighantu/glossary/compounds-q-t/#sabinene)
+- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol) and its glucoside
+- [Linalool](/nighantu/glossary/compounds-l-o/#linalool) and beta-terpineol
 
 ## How does it work?
 
-- Anti-inflammatory and [analgesic](/ayurveda-atlas/reference/analgesic/) activity through terpenoid-mediated inhibition of prostaglandin synthesis and COX pathways
-- Anti-asthmatic effect via antihistaminic action and bronchodilation through 1,8-cineole and other [monoterpenes](/ayurveda-atlas/glossary/compounds-l-o/#monoterpenes)
+- Anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) activity through terpenoid-mediated inhibition of prostaglandin synthesis and COX pathways
+- Anti-asthmatic effect via antihistaminic action and bronchodilation through 1,8-cineole and other [monoterpenes](/nighantu/glossary/compounds-l-o/#monoterpenes)
 - CNS-depressant and tranquilizing activity through modulation of GABAergic neurotransmission
-- [Hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) mechanism via [antioxidant](/ayurveda-atlas/reference/antioxidant/) restoration and reduction of lipid peroxidation by hedychenone
+- [Hepatoprotective](/nighantu/reference/hepatoprotective/) mechanism via [antioxidant](/nighantu/reference/antioxidant/) restoration and reduction of lipid peroxidation by hedychenone
 
 ## Which traditional uses are supported by research?
 
-- Cough and respiratory disorders (Kasa-hara, Shvasa-hara) - validated through confirmed antihistaminic, bronchodilatory, and [expectorant](/ayurveda-atlas/reference/expectorant/) properties
-- Fever reduction (Jvarahara) - confirmed [antipyretic](/ayurveda-atlas/reference/antipyretic/) activity through anti-inflammatory mechanisms
-- Anti-emetic and nausea relief (Chhardi-nigrahana) - traditional digestive use supported by carminative and [antiemetic](/ayurveda-atlas/glossary/pharmacology/#antiemetic) studies
+- Cough and respiratory disorders (Kasa-hara, Shvasa-hara) - validated through confirmed antihistaminic, bronchodilatory, and [expectorant](/nighantu/reference/expectorant/) properties
+- Fever reduction (Jvarahara) - confirmed [antipyretic](/nighantu/reference/antipyretic/) activity through anti-inflammatory mechanisms
+- Anti-emetic and nausea relief (Chhardi-nigrahana) - traditional digestive use supported by carminative and [antiemetic](/nighantu/glossary/pharmacology/#antiemetic) studies
 - Anti-inflammatory (Shotha-hara) - validated through in vivo carrageenan-induced paw edema models
 
 ## What do recent clinical trials show?
 
-- **Hedychium spicatum (Shati): A Comprehensive Review of its Pharmacological Activities and Phytochemical Constituents** (2025): Comprehensive review establishing the complete pharmacological profile including anti-inflammatory, [antimicrobial](/ayurveda-atlas/reference/antimicrobial/), hepatoprotective, [antidiabetic](/ayurveda-atlas/reference/antidiabetic/), pediculicidal, and anthelmintic activities.
+- **Hedychium spicatum (Shati): A Comprehensive Review of its Pharmacological Activities and Phytochemical Constituents** (2025): Comprehensive review establishing the complete pharmacological profile including anti-inflammatory, [antimicrobial](/nighantu/reference/antimicrobial/), hepatoprotective, [antidiabetic](/nighantu/reference/antidiabetic/), pediculicidal, and anthelmintic activities.
 - **Standardisation and Antimicrobial Activity of Hedychium spicatum (Shati)** (2024): Established standardization parameters for rhizome preparations; hydroalcoholic extracts demonstrated significant antimicrobial activity against all tested fungi and bacteria.
 - **Hedychium spicatum: comprehensive insight into ethnobotany, phytochemistry, pharmacological and therapeutic attributes** (2024): Detailed review documenting terpenoid-rich phytochemistry with validated traditional uses including respiratory, anti-inflammatory, and CNS-depressant activities.
 
 ## Recent safety updates
 
 - Generally safe at recommended Ayurvedic doses; essential oil may cause skin sensitization in topical applications at high concentrations
-- Limited chronic toxicity data available; not recommended during pregnancy due to potential uterine effects of [terpenoids](/ayurveda-atlas/glossary/compounds-t-z/#terpenoids)
+- Limited chronic toxicity data available; not recommended during pregnancy due to potential uterine effects of [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids)
 
 ## What is it made of?
 
@@ -81,7 +81,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shati/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g rhizome powder per day; 50-100 mL kwatha twice daily; 5-10 g avaleha with honey twice daily; 500 mg capsule twice daily
 
-**Bioavailability:** Sesquiterpene lactones and essential oil constituents show moderate to good oral bioavailability (30-50%). Volatile compounds ([camphor](/ayurveda-atlas/herb/camphor/), [borneol](/ayurveda-atlas/glossary/compounds-a-c/#borneol)) are rapidly absorbed through both oral and inhalation routes. Cucurbitacin content (if present) has dose-dependent toxicity — bioavailability monitoring important.
+**Bioavailability:** Sesquiterpene lactones and essential oil constituents show moderate to good oral bioavailability (30-50%). Volatile compounds ([camphor](/nighantu/herb/camphor/), [borneol](/nighantu/glossary/compounds-a-c/#borneol)) are rapidly absorbed through both oral and inhalation routes. Cucurbitacin content (if present) has dose-dependent toxicity — bioavailability monitoring important.
 
 **Optimal Timing:** After meals for respiratory indications; avaleha with honey for cough (Kasa) management; inhalation as needed
 
@@ -103,8 +103,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shati/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Pippali](/ayurveda-atlas/herb/pippali/) (Kasa-Shvasa formulations — respiratory disorders)
-- [Vasa](/ayurveda-atlas/herb/vasa/) ([bronchodilator](/ayurveda-atlas/reference/bronchodilator/) and expectorant synergy)
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) (mucosal protective-expectorant combination)
-- [Pushkarmool](/ayurveda-atlas/herb/pushkarmool/) (comprehensive respiratory formulation)
-- [Tulsi](/ayurveda-atlas/herb/tulsi/) (antimicrobial-respiratory synergy)
+- [Pippali](/nighantu/herb/pippali/) (Kasa-Shvasa formulations — respiratory disorders)
+- [Vasa](/nighantu/herb/vasa/) ([bronchodilator](/nighantu/reference/bronchodilator/) and expectorant synergy)
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (mucosal protective-expectorant combination)
+- [Pushkarmool](/nighantu/herb/pushkarmool/) (comprehensive respiratory formulation)
+- [Tulsi](/nighantu/herb/tulsi/) (antimicrobial-respiratory synergy)

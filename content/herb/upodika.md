@@ -45,11 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Upodika/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** [Shaka](/ayurveda-atlas/glossary/concepts-m-y/#shaka) (cooked vegetable), Svarasa (fresh juice), Churna (powder), Capsule, Kwatha (decoction)
+**Dosage Forms:** [Shaka](/nighantu/glossary/concepts-m-y/#shaka) (cooked vegetable), Svarasa (fresh juice), Churna (powder), Capsule, Kwatha (decoction)
 
 **Standard Dosage:** Cooked greens: 50-100 g daily as food; Fresh juice: 20-40 mL twice daily; Powder: 3-5 g twice daily
 
-**Bioavailability:** Betalains (betacyanins and betaxanthins) show moderate oral bioavailability (20-30%) with rapid absorption. Oxalic acid is highly bioavailable and can contribute to calcium oxalate kidney stone risk at high doses. [Saponins](/ayurveda-atlas/reference/saponins/) from Basella have low oral bioavailability (<10%) but act locally as mucosal demulcents. Iron and calcium bioavailability is moderate but reduced by the high oxalate content; co-administration with vitamin C improves iron absorption.
+**Bioavailability:** Betalains (betacyanins and betaxanthins) show moderate oral bioavailability (20-30%) with rapid absorption. Oxalic acid is highly bioavailable and can contribute to calcium oxalate kidney stone risk at high doses. [Saponins](/nighantu/reference/saponins/) from Basella have low oral bioavailability (<10%) but act locally as mucosal demulcents. Iron and calcium bioavailability is moderate but reduced by the high oxalate content; co-administration with vitamin C improves iron absorption.
 
 **Optimal Timing:** With meals as food; fresh juice in morning on empty stomach for nutritive effect
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Upodika/meta-analysis.md"
 
 **Storage:** Fresh material at 4-8 deg C in perforated bags. Dried products in airtight, light-resistant, moisture-proof containers at 15-25 deg C. Betalain-containing products in opaque packaging.
 
-**Marker Compounds:** Basellasaponin A, Basellasaponin B, Betacyanin, Betaxanthin, [Rutin](/ayurveda-atlas/glossary/compounds-q-t/#rutin), [Kaempferol](/ayurveda-atlas/reference/kaempferol/), beta-[Sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), Oxalic acid
+**Marker Compounds:** Basellasaponin A, Basellasaponin B, Betacyanin, Betaxanthin, [Rutin](/nighantu/glossary/compounds-q-t/#rutin), [Kaempferol](/nighantu/reference/kaempferol/), beta-[Sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Oxalic acid
 
 ### Extraction Methods
 
@@ -72,5 +72,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Upodika/meta-analysis.md"
 
 - Amalaki - vitamin C enhances iron absorption from Upodika
 - Shunthi - digestive enhancement and anti-emetic synergy
-- [Ghrita](/ayurveda-atlas/herb/ghrita/) (ghee) - vehicle for enhanced nutrient absorption and Pitta reduction
-- [Mudga](/ayurveda-atlas/glossary/concepts-m-y/#mudga) (mung bean) - light, nutritious combination in convalescence diets
+- [Ghrita](/nighantu/herb/ghrita/) (ghee) - vehicle for enhanced nutrient absorption and Pitta reduction
+- [Mudga](/nighantu/glossary/concepts-m-y/#mudga) (mung bean) - light, nutritious combination in convalescence diets

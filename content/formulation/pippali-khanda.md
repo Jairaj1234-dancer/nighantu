@@ -23,16 +23,16 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Pippali-Kh
 
 | Language | Name |
 |----------|------|
-| English | [Pippali](/ayurveda-atlas/herb/pippali/) Khanda |
+| English | [Pippali](/nighantu/herb/pippali/) Khanda |
 
 ## Key Ingredients
 
-- [Pippali](/ayurveda-atlas/herb/pippali/) (Piper longum / Long pepper) - primary ingredient
-- [Ghrita](/ayurveda-atlas/herb/ghrita/) (clarified cow butter)
-- [Madhu](/ayurveda-atlas/herb/madhu/) (honey)
+- [Pippali](/nighantu/herb/pippali/) (Piper longum / Long pepper) - primary ingredient
+- [Ghrita](/nighantu/herb/ghrita/) (clarified cow butter)
+- [Madhu](/nighantu/herb/madhu/) (honey)
 - Sharkara (sugar)
-- Shunthi ([Zingiber](/ayurveda-atlas/herb/zingiber/) officinale / [Ginger](/ayurveda-atlas/herb/ginger/))
-- Maricha (Piper nigrum / [Black pepper](/ayurveda-atlas/herb/black-pepper/))
+- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale / [Ginger](/nighantu/herb/ginger/))
+- Maricha (Piper nigrum / [Black pepper](/nighantu/herb/black-pepper/))
 - Twak (Cinnamomum zeylanicum / Cinnamon)
 - Ela (Elettaria cardamomum / Cardamom)
 - Patra (Cinnamomum tamala / Bay leaf)
@@ -43,24 +43,24 @@ Charaka Samhita (earliest mention as Pippalimula, circa 100 BCE); Sushruta Samhi
 
 ## How does it work?
 
-- [Piperine](/ayurveda-atlas/reference/piperine/) alkaloid provides potent bioavailability enhancement by inhibiting hepatic and intestinal glucuronidation [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes)
-- Volatile oils (pinene, [limonene](/ayurveda-atlas/glossary/compounds-g-l/#limonene)) impart mucolytic and bronchodilatory actions, clearing respiratory passages and reducing congestion
+- [Piperine](/nighantu/reference/piperine/) alkaloid provides potent bioavailability enhancement by inhibiting hepatic and intestinal glucuronidation [enzymes](/nighantu/glossary/compounds-d-g/#enzymes)
+- Volatile oils (pinene, [limonene](/nighantu/glossary/compounds-g-l/#limonene)) impart mucolytic and bronchodilatory actions, clearing respiratory passages and reducing congestion
 - Anti-inflammatory action of piperine reduces bronchial mucosal inflammation and hyperreactivity in chronic respiratory conditions
-- Resins and [tannins](/ayurveda-atlas/reference/tannins/) provide mild astringent and anti-inflammatory properties supporting respiratory tissue healing
+- Resins and [tannins](/nighantu/reference/tannins/) provide mild astringent and anti-inflammatory properties supporting respiratory tissue healing
 - Deepana-Pachana (digestive stimulation) corrects Mandagni and improves nutrient absorption, addressing debility underlying respiratory weakness
 
 ## Which traditional uses are supported by research?
 
 - Kasa-Shwasa (cough and asthma): 25% spasm reduction in tracheal tissue validates classical bronchodilatory use
-- Rasayana (rejuvenation): Vardhamana [Pippali](/ayurveda-atlas/herb/pippali/) protocol for promoting strength, respiratory resilience, and slowing age-related decline - clinically observed
+- Rasayana (rejuvenation): Vardhamana [Pippali](/nighantu/herb/pippali/) protocol for promoting strength, respiratory resilience, and slowing age-related decline - clinically observed
 - Agnimandya (digestive weakness): piperine-mediated enhancement of digestive enzyme activity well-validated pharmacologically
 - Pranavaha Srotas strengthening (respiratory channel health): volatile oil mucolytic and bronchodilatory actions confirmed experimentally
 
 ## What do recent clinical trials show?
 
-- **Piperine bioavailability enhancement and respiratory pharmacology** (2023): Research on isolated tracheal tissue showed 25% decrease in spasm index upon exposure to [Pippali](/ayurveda-atlas/herb/pippali/) extract, supporting classical bronchodilatory claims
-- **Piper longum fruit - comprehensive pharmacological review** (2022): Piperine demonstrated [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/), anti-inflammatory, bronchodilatory, and bioavailability-enhancing properties through multiple validated mechanisms
-- **[Pippali](/ayurveda-atlas/herb/pippali/) Rasayana rejuvenative and respiratory effects: clinical observations** (2021): Classical Vardhamana [Pippali](/ayurveda-atlas/herb/pippali/) protocol showed improvement in respiratory resilience, digestive strength, and overall vitality in observational clinical setting
+- **Piperine bioavailability enhancement and respiratory pharmacology** (2023): Research on isolated tracheal tissue showed 25% decrease in spasm index upon exposure to [Pippali](/nighantu/herb/pippali/) extract, supporting classical bronchodilatory claims
+- **Piper longum fruit - comprehensive pharmacological review** (2022): Piperine demonstrated [immunomodulatory](/nighantu/reference/immunomodulatory/), anti-inflammatory, bronchodilatory, and bioavailability-enhancing properties through multiple validated mechanisms
+- **[Pippali](/nighantu/herb/pippali/) Rasayana rejuvenative and respiratory effects: clinical observations** (2021): Classical Vardhamana [Pippali](/nighantu/herb/pippali/) protocol showed improvement in respiratory resilience, digestive strength, and overall vitality in observational clinical setting
 
 ## Recent safety updates
 
@@ -91,7 +91,7 @@ Charaka Samhita (earliest mention as Pippalimula, circa 100 BCE); Sushruta Samhi
 
 **Storage:** Airtight container
 
-**Marker Compounds:** Piperine, [Piperlongumine](/ayurveda-atlas/glossary/compounds-o-q/#piperlongumine)
+**Marker Compounds:** Piperine, [Piperlongumine](/nighantu/glossary/compounds-o-q/#piperlongumine)
 
 **Quality Parameters:** Moisture NMT 8%, piperine content NLT 0.5%, total ash
 

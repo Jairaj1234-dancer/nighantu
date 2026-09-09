@@ -27,7 +27,7 @@ Charaka Samhita Sutrasthana Chapter 5 (Dinacharya); Sushruta Samhita Chikitsasth
 
 ## How is it used traditionally?
 
-Ear disorders (tinnitus, hearing loss, earache), TMJ disorders, neck stiffness, Vata balance, and prevention of ear diseases. Commonly used oils: [Bilva](/ayurveda-atlas/herb/bilva/) Taila, [Apamarga](/ayurveda-atlas/herb/apamarga/) Kshara Taila.
+Ear disorders (tinnitus, hearing loss, earache), TMJ disorders, neck stiffness, Vata balance, and prevention of ear diseases. Commonly used oils: [Bilva](/nighantu/herb/bilva/) Taila, [Apamarga](/nighantu/herb/apamarga/) Kshara Taila.
 
 ## Traditional materials
 

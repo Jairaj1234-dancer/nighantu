@@ -28,36 +28,36 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shirisha/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Catechin](/ayurveda-atlas/reference/catechin/)
+- [Catechin](/nighantu/reference/catechin/)
 - D-catechin
 - Melacacidin
-- Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
+- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
 - Albiziahexoside
 - Betulnic acid
-- Echinocystic acid [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides)
-- Lebbekosides A-C ([saponins](/ayurveda-atlas/reference/saponins/))
-- [Friedelin](/ayurveda-atlas/glossary/compounds-d-g/#friedelin)
-- [Lupeol](/ayurveda-atlas/reference/lupeol/)
-- [Tannins](/ayurveda-atlas/reference/tannins/)
-- [Flavonoids](/ayurveda-atlas/reference/flavonoids/) ([quercetin](/ayurveda-atlas/reference/quercetinquercetin/) derivatives)
+- Echinocystic acid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides)
+- Lebbekosides A-C ([saponins](/nighantu/reference/saponins/))
+- [Friedelin](/nighantu/glossary/compounds-d-g/#friedelin)
+- [Lupeol](/nighantu/reference/lupeol/)
+- [Tannins](/nighantu/reference/tannins/)
+- [Flavonoids](/nighantu/reference/flavonoids/) ([quercetin](/nighantu/reference/quercetinquercetin/) derivatives)
 
 ## How does it work?
 
-- Anti-allergic activity via catechin-mediated mast cell stabilization (IC50 85 mcg/ml) and inhibition of [histamine](/ayurveda-atlas/glossary/compounds-g-l/#histamine) release from IgE-sensitized mast cells
+- Anti-allergic activity via catechin-mediated mast cell stabilization (IC50 85 mcg/ml) and inhibition of [histamine](/nighantu/glossary/compounds-g-l/#histamine) release from IgE-sensitized mast cells
 - Antihistaminic action through suppression of H1 receptor gene transcription and histidine decarboxylase enzyme activity in nasal mucosa
 - Anti-inflammatory effects via saponin-mediated (echinocystic acid) inhibition of COX-2, LOX and NF-kB signaling
-- [Neuroprotective](/ayurveda-atlas/reference/neuroprotective/) mechanism through modulation of unfolded protein response (UPR) and reduction of ER stress-induced apoptosis
+- [Neuroprotective](/nighantu/reference/neuroprotective/) mechanism through modulation of unfolded protein response (UPR) and reduction of ER stress-induced apoptosis
 
 ## Which traditional uses are supported by research?
 
 - Anti-allergic and anti-asthmatic use validated through mast cell stabilization, antihistaminic activity and clinical studies showing improved PEFR and reduced eosinophil count
 - Anti-inflammatory use confirmed in carrageenan-induced paw edema and adjuvant arthritis models
-- Vishaghna (anti-toxic) use supported by [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) and detoxification studies
+- Vishaghna (anti-toxic) use supported by [hepatoprotective](/nighantu/reference/hepatoprotective/) and detoxification studies
 - Anti-diarrheal activity confirmed through castor oil-induced diarrhea models with significant reduction in frequency
 
 ## What do recent clinical trials show?
 
-- **A Comprehensive Review of the Phytochemicals, Nutritional Values, and Therapeutic Applications of Albizia lebbeck** (2024): Updated review documented anti-inflammatory, [anticancer](/ayurveda-atlas/reference/anticancer/), [antioxidant](/ayurveda-atlas/reference/antioxidant/), neuroprotective, anti-diarrheal and [antidiabetic](/ayurveda-atlas/reference/antidiabetic/) activities attributed to catechin, melacacidin and echinocystic acid glycosides.
+- **A Comprehensive Review of the Phytochemicals, Nutritional Values, and Therapeutic Applications of Albizia lebbeck** (2024): Updated review documented anti-inflammatory, [anticancer](/nighantu/reference/anticancer/), [antioxidant](/nighantu/reference/antioxidant/), neuroprotective, anti-diarrheal and [antidiabetic](/nighantu/reference/antidiabetic/) activities attributed to catechin, melacacidin and echinocystic acid glycosides.
 - **Albizia lebbeck suppresses histamine signaling by the inhibition of histamine H1 receptor and histidine decarboxylase gene transcriptions** (2023): Demonstrated that bark extract suppresses allergic responses at the transcriptional level by inhibiting H1R and HDC mRNA expression and reducing histamine content in nasal mucosa.
 - **Neuroprotective effects of Albizia lebbeck leaf extract against glutamate-induced endoplasmic reticulum stress in human microglial cells** (2023): Leaf extract protected human microglial cells from glutamate-induced ER stress and apoptosis through modulation of UPR signaling pathway, suggesting novel neuroprotective applications.
 
@@ -103,14 +103,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shirisha/meta-analysis.md"
 
 - Aqueous decoction
 - Hydroalcoholic extraction (60% ethanol)
-- Maceration in [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) for nasya preparation
+- Maceration in [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) for nasya preparation
 - Soxhlet extraction for saponin enrichment
 - Traditional avaleha preparation
 
 ### Synergistic Combinations
 
-- [Haridra](/ayurveda-atlas/herb/haridra/) (potent anti-allergic synergy — Shirisha-Haridra combination for allergic rhinitis)
-- [Vasa](/ayurveda-atlas/herb/vasa/) (asthma and respiratory allergy formulations)
-- [Pippali](/ayurveda-atlas/herb/pippali/) (Shvasa-Kasa formulations)
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) (anti-inflammatory and anti-allergic combination)
-- [Kantakari](/ayurveda-atlas/herb/kantakari/) (comprehensive anti-asthma formulation)
+- [Haridra](/nighantu/herb/haridra/) (potent anti-allergic synergy — Shirisha-Haridra combination for allergic rhinitis)
+- [Vasa](/nighantu/herb/vasa/) (asthma and respiratory allergy formulations)
+- [Pippali](/nighantu/herb/pippali/) (Shvasa-Kasa formulations)
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (anti-inflammatory and anti-allergic combination)
+- [Kantakari](/nighantu/herb/kantakari/) (comprehensive anti-asthma formulation)

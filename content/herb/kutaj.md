@@ -45,7 +45,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Kutaj/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (bark powder), Kashayam (decoction), Kvatha Ghana (solid extract), Capsule, Tablet, [Kutajarishta](/ayurveda-atlas/formulation/kutajarishta/) (fermented preparation), Kutaja Parpati
+**Dosage Forms:** Churna (bark powder), Kashayam (decoction), Kvatha Ghana (solid extract), Capsule, Tablet, [Kutajarishta](/nighantu/formulation/kutajarishta/) (fermented preparation), Kutaja Parpati
 
 **Standard Dosage:** 3-6 g bark powder twice daily; 50-100 mL decoction; 500 mg standardized extract capsule twice daily; 15-30 mL Kutajarishta; Kutaja Parpati: 250-500 mg twice daily with buttermilk
 
@@ -53,7 +53,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Kutaj/meta-analysis.md"
 
 **Optimal Timing:** Before meals for anti-diarrheal and digestive effects; Kutajarishta: after meals with equal quantity of water; Kutaja Parpati: with buttermilk after meals
 
-**Standardized Extract:** Bark extract standardized to minimum 2% total steroidal [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) (as conessine) by HPLC; Kutajarishta: pH 3.5-4.5, total alkaloids >0.1%, self-generated alcohol 5-10%
+**Standardized Extract:** Bark extract standardized to minimum 2% total steroidal [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) (as conessine) by HPLC; Kutajarishta: pH 3.5-4.5, total alkaloids >0.1%, self-generated alcohol 5-10%
 
 **Shelf Life:** 24 months for bark powder; 36 months for Kutajarishta (improves with aging); 24 months for capsules and tablets; 36 months for Ghana Vati
 
@@ -72,7 +72,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Kutaj/meta-analysis.md"
 ### Synergistic Combinations
 
 - Ativisha (Aconitum heterophyllum) for acute diarrhea (Kutaja + Ativisha is a classical combination)
-- [Bilva](/ayurveda-atlas/herb/bilva/) (Aegle marmelos) for chronic dysentery
-- [Dadima](/ayurveda-atlas/herb/dadima/) (Pomegranate) for IBS management
+- [Bilva](/nighantu/herb/bilva/) (Aegle marmelos) for chronic dysentery
+- [Dadima](/nighantu/herb/dadima/) (Pomegranate) for IBS management
 - Musta for digestive and anti-diarrheal synergy
 - Kutajarishta with Dadima for comprehensive Atisara (diarrhea) management

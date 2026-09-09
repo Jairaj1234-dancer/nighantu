@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vathada/meta-analysis.md"
 
 **Standard Dosage:** 5-10 almonds (soaked and peeled) daily; 5-10 mL almond oil internally; 3-6 g kernel powder with milk twice daily
 
-**Bioavailability:** Alpha-tocopherol (vitamin E) from almonds has good bioavailability (~40-50%) enhanced by the lipid matrix. Almond protein has high digestibility (>85%). Monounsaturated fatty acids (oleic acid) are well absorbed (>90%). [Polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols) from almond skin have low bioavailability (~5-15%) but are converted to bioactive metabolites by gut microbiota. Soaking and peeling (traditional Ayurvedic practice) improves digestibility by removing tannin-rich skin and neutralizing phytic acid.
+**Bioavailability:** Alpha-tocopherol (vitamin E) from almonds has good bioavailability (~40-50%) enhanced by the lipid matrix. Almond protein has high digestibility (>85%). Monounsaturated fatty acids (oleic acid) are well absorbed (>90%). [Polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) from almond skin have low bioavailability (~5-15%) but are converted to bioactive metabolites by gut microbiota. Soaking and peeling (traditional Ayurvedic practice) improves digestibility by removing tannin-rich skin and neutralizing phytic acid.
 
 **Optimal Timing:** Morning with warm milk for Medhya (cognitive) effect; soaked almonds (overnight) eaten first thing in morning; oil at bedtime with milk for Vata-pacifying action
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vathada/meta-analysis.md"
 
 **Storage:** Kernels and powder in airtight containers at 15-25 deg C; refrigeration (2-8 deg C) extends shelf life. Oil in dark glass bottles, protect from light and heat. Include allergen warning: CONTAINS TREE NUTS.
 
-**Marker Compounds:** alpha-Tocopherol, Oleic acid, Linoleic acid, Palmitic acid, [Amygdalin](/ayurveda-atlas/glossary/compounds-1-a/#amygdalin) (absent/trace in sweet variety), [Catechin](/ayurveda-atlas/reference/catechin/) (skin), [Epicatechin](/ayurveda-atlas/glossary/compounds-d-g/#epicatechin) (skin), [Kaempferol](/ayurveda-atlas/reference/kaempferol/), [Phytosterols](/ayurveda-atlas/glossary/compounds-o-q/#phytosterols)
+**Marker Compounds:** alpha-Tocopherol, Oleic acid, Linoleic acid, Palmitic acid, [Amygdalin](/nighantu/glossary/compounds-1-a/#amygdalin) (absent/trace in sweet variety), [Catechin](/nighantu/reference/catechin/) (skin), [Epicatechin](/nighantu/glossary/compounds-d-g/#epicatechin) (skin), [Kaempferol](/nighantu/reference/kaempferol/), [Phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols)
 
 ### Extraction Methods
 
@@ -71,7 +71,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vathada/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- Kesar (Crocus sativus/[saffron](/ayurveda-atlas/herb/saffron/)) - traditional brain tonic combination (Badam + Kesar in milk)
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) - cognitive and strength-building synergy
+- Kesar (Crocus sativus/[saffron](/nighantu/herb/saffron/)) - traditional brain tonic combination (Badam + Kesar in milk)
+- [Ashwagandha](/nighantu/herb/ashwagandha/) - cognitive and strength-building synergy
 - Mishri (rock sugar) - traditional Medhya (brain tonic) combination
 - Warm milk as vehicle - enhances absorption and Vata-pacifying action

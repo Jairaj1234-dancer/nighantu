@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kanmad-Bhasma/meta-a
 
 | Language | Name |
 |----------|------|
-| English | [Kanmad Bhasma](/ayurveda-atlas/herb/kanmad-bhasma/) |
+| English | [Kanmad Bhasma](/nighantu/herb/kanmad-bhasma/) |
 
 ## Key Phytochemical Constituents
 
@@ -43,7 +43,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kanmad-Bhasma/meta-a
 ## Which traditional uses are supported by research?
 
 - Iron-deficiency anemia (Pandu Roga): Iron supplementation efficacy well-established; magnetite form provides superior bioavailability per Ayurvedic and modern analysis
-- Diabetes (Madhumeha): Traditional use supported by iron's role in [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose) metabolism regulation and insulin sensitivity enhancement
+- Diabetes (Madhumeha): Traditional use supported by iron's role in [glucose](/nighantu/glossary/compounds-d-g/#glucose) metabolism regulation and insulin sensitivity enhancement
 - Chronic fevers (Jeerna Jwara): Anti-microbial and immune-supporting properties of iron compounds provide partial mechanistic validation
 
 ## What do recent clinical trials show?
@@ -54,7 +54,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kanmad-Bhasma/meta-a
 
 ## Recent safety updates
 
-- SUPERIOR TO ORDINARY IRON: Kanta [Loha Bhasma](/ayurveda-atlas/herb/loha-bhasma/) considered safest and most potent iron preparation in Ayurveda due to natural magnetite source
+- SUPERIOR TO ORDINARY IRON: Kanta [Loha Bhasma](/nighantu/herb/loha-bhasma/) considered safest and most potent iron preparation in Ayurveda due to natural magnetite source
 - DOSE LIMIT: Should not exceed 500 mg/day. Overuse can cause constipation, stomach upset, or iron toxicity.
 - PROPER PREPARATION ESSENTIAL: Must undergo complete Shodhana, Marana, and Amruteekarana processes. Improperly prepared magnetite may contain heavy metal contaminants.
 - IRON OVERLOAD MONITORING: Like all iron preparations, periodic hemoglobin, serum ferritin, and liver function monitoring recommended during prolonged use
@@ -86,7 +86,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kanmad-Bhasma/meta-a
 
 **Storage:** Airtight container
 
-**Marker Compounds:** Calcium silicate, Iron oxide, [Magnesium](/ayurveda-atlas/glossary/compounds-l-o/#magnesium)
+**Marker Compounds:** Calcium silicate, Iron oxide, [Magnesium](/nighantu/glossary/compounds-l-o/#magnesium)
 
 **Quality Parameters:** Standard bhasma tests, heavy metals within limits
 

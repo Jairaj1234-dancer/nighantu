@@ -27,7 +27,7 @@ Charaka Samhita Sutrasthana Chapter 5 (Dinacharya); Sushruta Samhita Chikitsasth
 
 ## How is it used traditionally?
 
-Oral health, prevention of dental caries and gingivitis, strengthening gums and teeth, treatment of jaw disorders, improving voice quality, treating oral ulcers. Recommended with [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) ([Tila](/ayurveda-atlas/herb/tila/) Taila) as primary medium.
+Oral health, prevention of dental caries and gingivitis, strengthening gums and teeth, treatment of jaw disorders, improving voice quality, treating oral ulcers. Recommended with [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) ([Tila](/nighantu/herb/tila/) Taila) as primary medium.
 
 ## Traditional materials
 

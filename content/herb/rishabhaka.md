@@ -30,31 +30,31 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rishabhaka/meta-analysis.md"
 
 - Protobassic acid
 - 16-alpha-hydroxyprotobassic acid
-- [Taraxerol](/ayurveda-atlas/glossary/compounds-t-z/#taraxerol)
+- [Taraxerol](/nighantu/glossary/compounds-t-z/#taraxerol)
 - Alpha-amyrin and beta-amyrin
-- Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol) and its glucoside
-- [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/) and dihydroderivatives
-- [Myricetin](/ayurveda-atlas/glossary/compounds-l-o/#myricetin)
-- [Quercitol](/ayurveda-atlas/glossary/compounds-q-t/#quercitol)
+- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol) and its glucoside
+- [Quercetin](/nighantu/reference/quercetinquercetin/) and dihydroderivatives
+- [Myricetin](/nighantu/glossary/compounds-l-o/#myricetin)
+- [Quercitol](/nighantu/glossary/compounds-q-t/#quercitol)
 - Ursolic acid
-- [Saponins](/ayurveda-atlas/reference/saponins/) (novel triterpenoid saponins)
+- [Saponins](/nighantu/reference/saponins/) (novel triterpenoid saponins)
 
 ## How does it work?
 
-- Anti-inflammatory mechanism involving inhibition of COX and LOX [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes) by triterpenoid saponins, with novel saponin isolates showing dose-dependent activity
-- [Antidiabetic](/ayurveda-atlas/reference/antidiabetic/) action through alpha-glucosidase and alpha-amylase inhibition by flavonoid constituents ([quercetin](/ayurveda-atlas/reference/quercetinquercetin/), myricetin), reducing postprandial [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose) absorption
+- Anti-inflammatory mechanism involving inhibition of COX and LOX [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) by triterpenoid saponins, with novel saponin isolates showing dose-dependent activity
+- [Antidiabetic](/nighantu/reference/antidiabetic/) action through alpha-glucosidase and alpha-amylase inhibition by flavonoid constituents ([quercetin](/nighantu/reference/quercetinquercetin/), myricetin), reducing postprandial [glucose](/nighantu/glossary/compounds-d-g/#glucose) absorption
 - Immunostimulatory mechanism involving activation of macrophages and enhancement of phagocytic activity, supporting its traditional use as a tonic
 
 ## Which traditional uses are supported by research?
 
-- [Aphrodisiac](/ayurveda-atlas/glossary/pharmacology/#aphrodisiac) and tonic properties supported by preclinical studies demonstrating [adaptogenic](/ayurveda-atlas/reference/adaptogenic/) effects, confirming traditional [Vajikarana](/ayurveda-atlas/glossary/pharmacology/#vajikarana) use
+- [Aphrodisiac](/nighantu/glossary/pharmacology/#aphrodisiac) and tonic properties supported by preclinical studies demonstrating [adaptogenic](/nighantu/reference/adaptogenic/) effects, confirming traditional [Vajikarana](/nighantu/glossary/pharmacology/#vajikarana) use
 - Antibacterial activity validated against multiple pathogenic strains, supporting traditional use in infectious and dental conditions
 - Antiulcer activity confirmed through gastroprotective studies in animal models, validating traditional use in digestive disorders
 
 ## What do recent clinical trials show?
 
-- **Manilkara hexandra: A multi-purpose medicinal plant - a review of its phytochemistry and pharmacological potential** (2025): Comprehensive review documenting the plant's rich phytochemical profile and broad pharmacological spectrum including [antioxidant](/ayurveda-atlas/reference/antioxidant/), [antimicrobial](/ayurveda-atlas/reference/antimicrobial/), antidiabetic, anti-inflammatory, and [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) activities.
-- **Development and validation of HPTLC and HPLC methods for simultaneous determination of myricetin and [quercetin](/ayurveda-atlas/reference/quercetinquercetin/) in Manilkara hexandra** (2024): Validated analytical methods for simultaneous estimation of myricetin and [quercetin](/ayurveda-atlas/reference/quercetinquercetin/) as quality markers in leaf extract, following ICH guidelines for standardization.
+- **Manilkara hexandra: A multi-purpose medicinal plant - a review of its phytochemistry and pharmacological potential** (2025): Comprehensive review documenting the plant's rich phytochemical profile and broad pharmacological spectrum including [antioxidant](/nighantu/reference/antioxidant/), [antimicrobial](/nighantu/reference/antimicrobial/), antidiabetic, anti-inflammatory, and [immunomodulatory](/nighantu/reference/immunomodulatory/) activities.
+- **Development and validation of HPTLC and HPLC methods for simultaneous determination of myricetin and [quercetin](/nighantu/reference/quercetinquercetin/) in Manilkara hexandra** (2024): Validated analytical methods for simultaneous estimation of myricetin and [quercetin](/nighantu/reference/quercetinquercetin/) as quality markers in leaf extract, following ICH guidelines for standardization.
 - **Review on Phytochemistry, Biology and Nano Formulations of Manilkara hexandra: An Update** (2022): Updated review documenting nano-formulation approaches for enhanced bioavailability and recent evidence of antiviral activity against SARS-CoV-2.
 
 ## Recent safety updates
@@ -96,7 +96,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rishabhaka/meta-analysis.md"
 
 **Storage:** Store below 25 deg C in airtight containers, protected from light and moisture. Relative humidity <60%.
 
-**Marker Compounds:** [Stigmasterol](/ayurveda-atlas/reference/stigmasterol/), Beta-sitosterol, [Diosgenin](/ayurveda-atlas/glossary/compounds-d-g/#diosgenin), Hecogenin, Saponins (total)
+**Marker Compounds:** [Stigmasterol](/nighantu/reference/stigmasterol/), Beta-sitosterol, [Diosgenin](/nighantu/glossary/compounds-d-g/#diosgenin), Hecogenin, Saponins (total)
 
 ### Extraction Methods
 
@@ -107,6 +107,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rishabhaka/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) (adaptogenic synergy)
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) (reproductive tonic combination)
-- [Vidari](/ayurveda-atlas/herb/vidari/) (anabolic synergy for Balya formulations)
+- [Ashwagandha](/nighantu/herb/ashwagandha/) (adaptogenic synergy)
+- [Shatavari](/nighantu/herb/shatavari/) (reproductive tonic combination)
+- [Vidari](/nighantu/herb/vidari/) (anabolic synergy for Balya formulations)

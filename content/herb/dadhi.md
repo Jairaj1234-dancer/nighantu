@@ -29,14 +29,14 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Dadhi/meta-analysis.md"
 
 - Lactic acid bacteria (Lactobacillus bulgaricus, Streptococcus thermophilus)
 - Lactic acid (responsible for sour taste)
-- [Proteins](/ayurveda-atlas/glossary/compounds-o-q/#proteins): casein, whey proteins, bioactive [peptides](/ayurveda-atlas/glossary/compounds-o-q/#peptides)
+- [Proteins](/nighantu/glossary/compounds-o-q/#proteins): casein, whey proteins, bioactive [peptides](/nighantu/glossary/compounds-o-q/#peptides)
 - Calcium (higher bioavailability than milk due to lactic acid)
-- [Vitamins](/ayurveda-atlas/glossary/compounds-t-z/#vitamins): B2 ([riboflavin](/ayurveda-atlas/glossary/compounds-q-t/#riboflavin)), B12, [folate](/ayurveda-atlas/glossary/compounds-d-g/#folate)
-- [Phosphorus](/ayurveda-atlas/glossary/compounds-o-q/#phosphorus), [potassium](/ayurveda-atlas/glossary/compounds-o-q/#potassium), [magnesium](/ayurveda-atlas/glossary/compounds-l-o/#magnesium), zinc
+- [Vitamins](/nighantu/glossary/compounds-t-z/#vitamins): B2 ([riboflavin](/nighantu/glossary/compounds-q-t/#riboflavin)), B12, [folate](/nighantu/glossary/compounds-d-g/#folate)
+- [Phosphorus](/nighantu/glossary/compounds-o-q/#phosphorus), [potassium](/nighantu/glossary/compounds-o-q/#potassium), [magnesium](/nighantu/glossary/compounds-l-o/#magnesium), zinc
 - Conjugated linoleic acid (CLA)
 - Exopolysaccharides (from bacterial fermentation)
 - Short-chain fatty acids (produced during fermentation)
-- Bacteriocins ([antimicrobial](/ayurveda-atlas/reference/antimicrobial/) peptides)
+- Bacteriocins ([antimicrobial](/nighantu/reference/antimicrobial/) peptides)
 
 ## How does it work?
 

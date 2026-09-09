@@ -27,7 +27,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Rasamanikya/meta-a
 
 ## How does it work?
 
-- Arsenic sulfide (As2S3) in processed form has demonstrated [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) and anti-proliferative properties - similar to the mechanism by which arsenic trioxide (As2O3) is used in modern oncology for acute promyelocytic leukemia treatment
+- Arsenic sulfide (As2S3) in processed form has demonstrated [immunomodulatory](/nighantu/reference/immunomodulatory/) and anti-proliferative properties - similar to the mechanism by which arsenic trioxide (As2O3) is used in modern oncology for acute promyelocytic leukemia treatment
 - Anti-dermatological action: Arsenic compounds modulate keratinocyte proliferation and immune cell activity in skin, relevant to traditional use in skin diseases; may act through inhibition of NF-kB and modulation of apoptotic pathways
 - The insoluble sulfide form provides a slow-release mechanism with lower peak blood arsenic levels compared to soluble arsenic compounds, potentially providing therapeutic effects at reduced toxicity
 
@@ -79,4 +79,4 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Rasamanikya/meta-a
 
 **Quality Parameters:** Free arsenic <3 ppm (critical), characteristic ruby-red color (Manikya = ruby), standard tests
 
-**Vehicle (Anupana):** Honey, ghee, or [Haridra](/ayurveda-atlas/herb/haridra/) Khand
+**Vehicle (Anupana):** Honey, ghee, or [Haridra](/nighantu/herb/haridra/) Khand

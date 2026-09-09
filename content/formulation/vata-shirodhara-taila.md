@@ -30,14 +30,14 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Vata-Shirod
 
 ## Key Ingredients
 
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) (*Withania somnifera*) — Rasayana, balya, medhya
-- [Bala](/ayurveda-atlas/herb/bala/) (*Sida cordifolia*) — Vata-hara, brimhana
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) (*Asparagus racemosus*) — madhura-rasa, shita-virya, snigdha
-- [Bhringraj](/ayurveda-atlas/herb/bhringraj/) (*Eclipta alba* / *E. prostrata*) — keshya, supports scalp and settled head
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) (*Glycyrrhiza glabra*) — madhura, shita, snigdha
-- [Tulsi](/ayurveda-atlas/herb/tulsi/) (*Ocimum tenuiflorum*) — aromatic, sattvic
-- [Tagara](/ayurveda-atlas/herb/tagara/) (*Valeriana jatamansi / V. wallichii*) — medhya, nidrajanaka
-- [Tila Taila](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) (*Sesamum indicum* — sesame oil) — classical Snehakarma base
+- [Ashwagandha](/nighantu/herb/ashwagandha/) (*Withania somnifera*) — Rasayana, balya, medhya
+- [Bala](/nighantu/herb/bala/) (*Sida cordifolia*) — Vata-hara, brimhana
+- [Shatavari](/nighantu/herb/shatavari/) (*Asparagus racemosus*) — madhura-rasa, shita-virya, snigdha
+- [Bhringraj](/nighantu/herb/bhringraj/) (*Eclipta alba* / *E. prostrata*) — keshya, supports scalp and settled head
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (*Glycyrrhiza glabra*) — madhura, shita, snigdha
+- [Tulsi](/nighantu/herb/tulsi/) (*Ocimum tenuiflorum*) — aromatic, sattvic
+- [Tagara](/nighantu/herb/tagara/) (*Valeriana jatamansi / V. wallichii*) — medhya, nidrajanaka
+- [Tila Taila](/nighantu/glossary/concepts-m-y/#tila-taila) (*Sesamum indicum* — sesame oil) — classical Snehakarma base
 - Jaitun Taila (*Olea europaea* — olive oil) — supporting emollient base
 - Lavender Oil (*Lavandula angustifolia*) — aromatic fraction for the shiro-dhara experience
 

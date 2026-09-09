@@ -23,21 +23,21 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Sphatika-Bhasma/meta
 
 | Language | Name |
 |----------|------|
-| English | [Sphatika Bhasma](/ayurveda-atlas/herb/sphatika-bhasma/) |
+| English | [Sphatika Bhasma](/nighantu/herb/sphatika-bhasma/) |
 
 ## Key Phytochemical Constituents
 
-- [Potassium](/ayurveda-atlas/glossary/compounds-o-q/#potassium) aluminium sulfate (KAl(SO4)2) in dehydrated form
+- [Potassium](/nighantu/glossary/compounds-o-q/#potassium) aluminium sulfate (KAl(SO4)2) in dehydrated form
 - Aluminium oxide (Al2O3) from thermal decomposition
 - Potassium sulfate (K2SO4)
-- Trace iron, [silica](/ayurveda-atlas/glossary/compounds-q-t/#silica)
+- Trace iron, [silica](/nighantu/glossary/compounds-q-t/#silica)
 - Residual water of crystallization in small amounts
 
 ## How does it work?
 
 - Astringent action through aluminium-mediated protein precipitation on tissue surfaces, causing contraction of blood vessels and mucous membranes to control bleeding
-- Broad-spectrum [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) effect through disruption of bacterial cell walls and inhibition of enzymatic processes; superior anti-biofilm activity compared to raw alum
-- Styptic ([hemostatic](/ayurveda-atlas/glossary/pharmacology/#hemostatic)) action through local vasoconstriction and platelet aggregation promotion at wound sites, controlling hemorrhage
+- Broad-spectrum [antimicrobial](/nighantu/reference/antimicrobial/) effect through disruption of bacterial cell walls and inhibition of enzymatic processes; superior anti-biofilm activity compared to raw alum
+- Styptic ([hemostatic](/nighantu/glossary/pharmacology/#hemostatic)) action through local vasoconstriction and platelet aggregation promotion at wound sites, controlling hemorrhage
 - Kapha-reducing action through drying and astringent properties that reduce excessive secretions in respiratory and digestive tracts
 
 ## Which traditional uses are supported by research?
@@ -48,9 +48,9 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Sphatika-Bhasma/meta
 
 ## What do recent clinical trials show?
 
-- **In Vitro Evaluation of Antimicrobial and [Antioxidant](/ayurveda-atlas/reference/antioxidant/) Activities of Alum and Its Bhasma ([Sphatika Bhasma](/ayurveda-atlas/herb/sphatika-bhasma/))** (2022): [Sphatika Bhasma](/ayurveda-atlas/herb/sphatika-bhasma/) showed lower MIC values than raw alum, with broad-spectrum antibacterial activity against gram-positive and gram-negative organisms. Better anti-biofilm activity than raw alum. Moderate antifungal activity also demonstrated.
+- **In Vitro Evaluation of Antimicrobial and [Antioxidant](/nighantu/reference/antioxidant/) Activities of Alum and Its Bhasma ([Sphatika Bhasma](/nighantu/herb/sphatika-bhasma/))** (2022): [Sphatika Bhasma](/nighantu/herb/sphatika-bhasma/) showed lower MIC values than raw alum, with broad-spectrum antibacterial activity against gram-positive and gram-negative organisms. Better anti-biofilm activity than raw alum. Moderate antifungal activity also demonstrated.
 - **An overview of Sphatika (Alum) in Ayurvedic literature** (2021): Comprehensive review documented traditional uses across multiple classical texts. Confirmed Sphatika's role in bleeding disorders, respiratory diseases, and skin conditions.
-- **Antimicrobial assessment of [Sphatika Bhasma](/ayurveda-atlas/herb/sphatika-bhasma/) in dental applications** (2020): Demonstrated significant antimicrobial activity against oral pathogens, supporting traditional use for dental and oral hygiene applications.
+- **Antimicrobial assessment of [Sphatika Bhasma](/nighantu/herb/sphatika-bhasma/) in dental applications** (2020): Demonstrated significant antimicrobial activity against oral pathogens, supporting traditional use for dental and oral hygiene applications.
 
 ## Recent safety updates
 

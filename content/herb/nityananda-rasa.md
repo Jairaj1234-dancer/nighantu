@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Nityananda-Rasa/me
 
 | Language | Name |
 |----------|------|
-| English | [Nityananda Rasa](/ayurveda-atlas/herb/nityananda-rasa/) |
+| English | [Nityananda Rasa](/nighantu/herb/nityananda-rasa/) |
 
 ## Where is it described in the classical texts?
 
@@ -31,17 +31,17 @@ Bhaishajya Ratnavali, Shlipada Rogadhikara (Elephantiasis Chapter), Verses 33-41
 
 ## How does it work?
 
-- Parada-[Gandhaka](/ayurveda-atlas/glossary/concepts-a-m/#gandhaka) (mercury-sulphur) Kajjali forms mercuric sulphide which acts as a potent catalyst (Yogavahi) enhancing the therapeutic potency of all other ingredients
-- [Tamra Bhasma](/ayurveda-atlas/herb/tamra-bhasma/) (copper calx) has Lekhaniya (scraping/reducing) property, reducing excess Kapha and [Meda](/ayurveda-atlas/herb/meda/) (fat tissue) - relevant to obesity and elephantiasis
+- Parada-[Gandhaka](/nighantu/glossary/concepts-a-m/#gandhaka) (mercury-sulphur) Kajjali forms mercuric sulphide which acts as a potent catalyst (Yogavahi) enhancing the therapeutic potency of all other ingredients
+- [Tamra Bhasma](/nighantu/herb/tamra-bhasma/) (copper calx) has Lekhaniya (scraping/reducing) property, reducing excess Kapha and [Meda](/nighantu/herb/meda/) (fat tissue) - relevant to obesity and elephantiasis
 - Multiple metal Bhasmas (iron, tin, copper, bronze) provide mineral supplementation and metabolic activation
-- [Trikatu](/ayurveda-atlas/herb/trikatu/) enhances bioavailability of all mineral and herbal components through digestive fire stimulation
-- [Triphala](/ayurveda-atlas/herb/triphala/) provides detoxification support, [antioxidant](/ayurveda-atlas/reference/antioxidant/) protection, and gentle [laxative](/ayurveda-atlas/reference/laxative/) action to aid elimination of metabolic waste
-- [Vidanga](/ayurveda-atlas/herb/vidanga/) and Chitraka provide anthelmintic and anti-parasitic action relevant to filariasis-caused elephantiasis
+- [Trikatu](/nighantu/herb/trikatu/) enhances bioavailability of all mineral and herbal components through digestive fire stimulation
+- [Triphala](/nighantu/herb/triphala/) provides detoxification support, [antioxidant](/nighantu/reference/antioxidant/) protection, and gentle [laxative](/nighantu/reference/laxative/) action to aid elimination of metabolic waste
+- [Vidanga](/nighantu/herb/vidanga/) and Chitraka provide anthelmintic and anti-parasitic action relevant to filariasis-caused elephantiasis
 
 ## Which traditional uses are supported by research?
 
 - Shlipada (elephantiasis/lymphatic filariasis) - primary traditional indication referenced in Bhaishajya Ratnavali; modern toxicity study supports safety at therapeutic doses enabling continued traditional use under supervision
-- Gout (Vatarakta) and obesity (Sthoulya) - traditional use supported by the Kapha-[Meda](/ayurveda-atlas/herb/meda/) reducing (Lekhaniya) properties of [Tamra Bhasma](/ayurveda-atlas/herb/tamra-bhasma/) and the metabolic-enhancing actions of [Trikatu](/ayurveda-atlas/herb/trikatu/)
+- Gout (Vatarakta) and obesity (Sthoulya) - traditional use supported by the Kapha-[Meda](/nighantu/herb/meda/) reducing (Lekhaniya) properties of [Tamra Bhasma](/nighantu/herb/tamra-bhasma/) and the metabolic-enhancing actions of [Trikatu](/nighantu/herb/trikatu/)
 
 ## What do recent clinical trials show?
 
@@ -74,9 +74,9 @@ Bhaishajya Ratnavali, Shlipada Rogadhikara (Elephantiasis Chapter), Verses 33-41
 
 **Bioavailability:** Good; Rasaushadhi with GI tropism
 
-**Optimal Timing:** Before meals with buttermilk or [ginger](/ayurveda-atlas/herb/ginger/) juice
+**Optimal Timing:** Before meals with buttermilk or [ginger](/nighantu/herb/ginger/) juice
 
-**Standardized Extract:** Kajjali with digestive and [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) herbs
+**Standardized Extract:** Kajjali with digestive and [hepatoprotective](/nighantu/reference/hepatoprotective/) herbs
 
 **Shelf Life:** Indefinite
 
@@ -86,4 +86,4 @@ Bhaishajya Ratnavali, Shlipada Rogadhikara (Elephantiasis Chapter), Verses 33-41
 
 **Quality Parameters:** Standard Rasaushadhi tests, free mercury <1 ppm
 
-**Vehicle (Anupana):** Buttermilk or [ginger](/ayurveda-atlas/herb/ginger/) juice
+**Vehicle (Anupana):** Buttermilk or [ginger](/nighantu/herb/ginger/) juice

@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Dashamu
 
 **Standard Dosage:** 15-30 mL twice daily after meals with equal water, as per AFI Part I
 
-**Bioavailability:** Fermented medium enhances extraction and bioavailability of [triterpenes](/ayurveda-atlas/glossary/compounds-t-z/#triterpenes), [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids), and [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) from all ten roots. Self-generated alcohol provides preservative and bioenhancing action. Post-fermentation metabolites show enhanced anti-inflammatory activity.
+**Bioavailability:** Fermented medium enhances extraction and bioavailability of [triterpenes](/nighantu/glossary/compounds-t-z/#triterpenes), [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids), and [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) from all ten roots. Self-generated alcohol provides preservative and bioenhancing action. Post-fermentation metabolites show enhanced anti-inflammatory activity.
 
 **Optimal Timing:** After meals, twice daily. Classically used post-partum (Sutika Paricharya) starting from 7th day after delivery.
 
@@ -57,15 +57,15 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Dashamu
 
 **Storage:** Store in well-closed amber glass or HDPE containers in a cool, dry place. Temperature not exceeding 30°C. Protect from sunlight.
 
-**Marker Compounds:** [Lupeol](/ayurveda-atlas/reference/lupeol/), Ursolic acid, [Marmelosin](/ayurveda-atlas/glossary/compounds-l-o/#marmelosin), Pectolinarigenin (from Shalaparni), [Solasodine](/ayurveda-atlas/glossary/compounds-q-t/#solasodine)
+**Marker Compounds:** [Lupeol](/nighantu/reference/lupeol/), Ursolic acid, [Marmelosin](/nighantu/glossary/compounds-l-o/#marmelosin), Pectolinarigenin (from Shalaparni), [Solasodine](/nighantu/glossary/compounds-q-t/#solasodine)
 
-**Quality Parameters:** pH (3.0-4.5), specific gravity (1.02-1.06), self-generated alcohol (5-12%), total solids, total sugar, total acidity, lupeol content, HPTLC fingerprint showing [Dashamoola](/ayurveda-atlas/herb/dashamoola/) profile, microbial limits, heavy metals, absence of methanol
+**Quality Parameters:** pH (3.0-4.5), specific gravity (1.02-1.06), self-generated alcohol (5-12%), total solids, total sugar, total acidity, lupeol content, HPTLC fingerprint showing [Dashamoola](/nighantu/herb/dashamoola/) profile, microbial limits, heavy metals, absence of methanol
 
 **Vehicle (Anupana):** Equal quantity of warm water
 
 ### Synergistic Combinations
 
-- [Balarishta](/ayurveda-atlas/formulation/balarishta/)
-- [Ashwagandharishta](/ayurveda-atlas/formulation/ashwagandharishta/)
-- [Dashamoola](/ayurveda-atlas/herb/dashamoola/) Kwath
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) Churna (post-partum use)
+- [Balarishta](/nighantu/formulation/balarishta/)
+- [Ashwagandharishta](/nighantu/formulation/ashwagandharishta/)
+- [Dashamoola](/nighantu/herb/dashamoola/) Kwath
+- [Shatavari](/nighantu/herb/shatavari/) Churna (post-partum use)

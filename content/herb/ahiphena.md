@@ -28,7 +28,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Ahiphena/meta-analysis
 
 ## Which traditional uses are supported by research?
 
-- {'use': '[Analgesic](/ayurveda-atlas/reference/analgesic/) and pain management', 'validation': 'Morphine remains the gold standard analgesic in modern medicine. WHO Essential Medicines List includes morphine for moderate to severe pain. Multiple systematic reviews confirm efficacy for cancer pain, post-surgical pain, and chronic pain management.'}
+- {'use': '[Analgesic](/nighantu/reference/analgesic/) and pain management', 'validation': 'Morphine remains the gold standard analgesic in modern medicine. WHO Essential Medicines List includes morphine for moderate to severe pain. Multiple systematic reviews confirm efficacy for cancer pain, post-surgical pain, and chronic pain management.'}
 - {'use': 'Anti-diarrheal (Atisara/Pravahika)', 'validation': "Codeine and morphine's constipating effect via mu-receptor-mediated GI motility reduction is well-established. Loperamide (Imodium), a synthetic opioid derivative, is the standard OTC anti-diarrheal, validating the traditional use of opium for dysentery and diarrhea in Ayurveda."}
 - {'use': 'Antitussive (cough suppressant - Kasa)', 'validation': 'Codeine remains widely prescribed as an antitussive. Noscapine (narcotine) from opium is a non-addictive cough suppressant available OTC in many countries. WHO acknowledges codeine as effective antitussive.'}
 
@@ -36,7 +36,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Ahiphena/meta-analysis
 
 - **The origins and spread of the opium poppy (Papaver somniferum L.) revealed by genomics and seed morphometrics** (2025): Genomic analysis revealed that P. somniferum subsp. setigerum is the only taxa genetically close to somniferum and can be better described as a subspecies, providing new insights into domestication history of opium poppy.
 - **Spatiotemporal dynamics of benzylisoquinoline alkaloid gene expression and co-expression networks during Papaver somniferum developmental stages** (2025): Identified 23 co-expression modules with stage- and organ-specific dynamics in BIA biosynthesis. Key genes TYDC, PPO, and GsSRK demonstrated distinct regulatory roles during flowering and fruit maturation.
-- **Update of the Scientific Opinion on opium [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) in poppy seeds (EFSA)** (2024): EFSA established acute reference dose (ARfD) of 10 micrograms morphine equivalents/kg body weight. Poppy seed consumption can result in significant opiate exposure especially in unwashed seeds.
+- **Update of the Scientific Opinion on opium [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) in poppy seeds (EFSA)** (2024): EFSA established acute reference dose (ARfD) of 10 micrograms morphine equivalents/kg body weight. Poppy seed consumption can result in significant opiate exposure especially in unwashed seeds.
 - **Forensic Application of Genetic and Toxicological Analyses for Identification and Characterization of Opium Poppy** (2022): Advanced LC-MS/MS methods can now quantify 99 alkaloids from opium poppy, enabling precise forensic identification and toxicological profiling of illicit and licit poppy sources.
 
 ## Recent safety updates
@@ -83,6 +83,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Ahiphena/meta-analysis
 
 ### Synergistic Combinations
 
-- With [Jatiphala](/ayurveda-atlas/herb/jatiphala/) (nutmeg) in Ahiphenasava for diarrhea (classical)
+- With [Jatiphala](/nighantu/herb/jatiphala/) (nutmeg) in Ahiphenasava for diarrhea (classical)
 - With Sunthi and Maricha in small quantities for severe cough (under supervision)
 - With Tagar for severe insomnia (classical, restricted)

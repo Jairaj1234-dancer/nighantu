@@ -49,27 +49,27 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lodhrasva/meta-analysis.md"
 
 **Standard Dosage:** 15-30 mL twice daily after meals, mixed with equal quantity of water
 
-**Bioavailability:** Self-generated alcohol (5-10%) in fermented preparation acts as a natural solvent and bioenhancer, improving absorption of [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) and [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) by 40-60% compared to aqueous decoctions. Fermentation generates probiotic metabolites that enhance gut absorption. Phenolic acids formed during fermentation are highly bioavailable.
+**Bioavailability:** Self-generated alcohol (5-10%) in fermented preparation acts as a natural solvent and bioenhancer, improving absorption of [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) and [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) by 40-60% compared to aqueous decoctions. Fermentation generates probiotic metabolites that enhance gut absorption. Phenolic acids formed during fermentation are highly bioavailable.
 
 **Optimal Timing:** After meals, diluted with equal water. Evening dose preferred for gynecological indications.
 
-**Standardized Extract:** Traditionally, Lodhrasva is itself the final extract product. Alcohol content 5-10% v/v. Total solids 15-25% w/v. pH 3.5-4.5. Reducing sugars 3-8%. Contains bio-transformed alkaloids with enhanced activity compared to raw [Lodhra](/ayurveda-atlas/herb/lodhra/).
+**Standardized Extract:** Traditionally, Lodhrasva is itself the final extract product. Alcohol content 5-10% v/v. Total solids 15-25% w/v. pH 3.5-4.5. Reducing sugars 3-8%. Contains bio-transformed alkaloids with enhanced activity compared to raw [Lodhra](/nighantu/herb/lodhra/).
 
 **Shelf Life:** No expiry when stored properly (traditional view); commercial shelf life 5-10 years. Quality improves with aging up to a point. Regulatory shelf life typically assigned as 5 years.
 
 **Storage:** Store at room temperature (15-30 deg C) in glass or earthenware containers. Avoid airtight sealing - use cork or breathable closure to allow micro-aeration. Protect from direct sunlight. Do not refrigerate as cold temperatures can arrest ongoing micro-fermentation that contributes to quality.
 
-**Marker Compounds:** [Loturine](/ayurveda-atlas/glossary/compounds-l-o/#loturine) (bio-transformed), Ellagic acid, Gallic acid, Ethanol (self-generated), Acetic acid, Lactic acid, Symplocosine derivatives
+**Marker Compounds:** [Loturine](/nighantu/glossary/compounds-l-o/#loturine) (bio-transformed), Ellagic acid, Gallic acid, Ethanol (self-generated), Acetic acid, Lactic acid, Symplocosine derivatives
 
 ### Extraction Methods
 
-- Traditional Sandhana Kalpana (fermentation) using Lodhra bark, [Dhataki](/ayurveda-atlas/herb/dhataki/) flowers, jaggery/sugar, and water
+- Traditional Sandhana Kalpana (fermentation) using Lodhra bark, [Dhataki](/nighantu/herb/dhataki/) flowers, jaggery/sugar, and water
 - Controlled fermentation at 25-30 deg C for 30-45 days
 - Modern controlled fermentation with pH and temperature monitoring
 
 ### Synergistic Combinations
 
-- [Ashoka](/ayurveda-atlas/herb/ashoka/) (uterine tonic in [Ashokarishta](/ayurveda-atlas/formulation/ashokarishta/)-type combination)
+- [Ashoka](/nighantu/herb/ashoka/) (uterine tonic in [Ashokarishta](/nighantu/formulation/ashokarishta/)-type combination)
 - Dhataki pushpa (essential fermentation initiator and synergist)
 - Musta (menstrual regulation)
-- [Udumbara](/ayurveda-atlas/herb/udumbara/) (astringent and [hemostatic](/ayurveda-atlas/glossary/pharmacology/#hemostatic))
+- [Udumbara](/nighantu/herb/udumbara/) (astringent and [hemostatic](/nighantu/glossary/pharmacology/#hemostatic))

@@ -32,31 +32,31 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kadamba/meta-analysis.md
 - Dihydrocadambine
 - Isodihydrocadambine
 - Isocadambine
-- Quinovic acid [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides)
+- Quinovic acid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides)
 - Chlorogenic acid
 - 3-alpha-Dihydrocadambine
-- Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
+- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
 - Ursolic acid
 - Cadamine
-- [Saponins](/ayurveda-atlas/reference/saponins/) (triterpene type)
+- [Saponins](/nighantu/reference/saponins/) (triterpene type)
 
 ## How does it work?
 
-- Anti-inflammatory action via inhibition of NF-kB pathway and suppression of pro-inflammatory cytokines by cadambine [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids)
-- [Antidiabetic](/ayurveda-atlas/reference/antidiabetic/) activity through alpha-amylase and alpha-glucosidase inhibition by chlorogenic acid and alkaloid fractions
+- Anti-inflammatory action via inhibition of NF-kB pathway and suppression of pro-inflammatory cytokines by cadambine [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids)
+- [Antidiabetic](/nighantu/reference/antidiabetic/) activity through alpha-amylase and alpha-glucosidase inhibition by chlorogenic acid and alkaloid fractions
 - Antimalarial activity via disruption of plasmodium cell membrane integrity by quinovic acid glycosides
-- [Hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) effects through free radical scavenging and restoration of hepatic [antioxidant](/ayurveda-atlas/reference/antioxidant/) [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes) (SOD, catalase, GPx)
+- [Hepatoprotective](/nighantu/reference/hepatoprotective/) effects through free radical scavenging and restoration of hepatic [antioxidant](/nighantu/reference/antioxidant/) [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) (SOD, catalase, GPx)
 
 ## Which traditional uses are supported by research?
 
-- [Antimicrobial](/ayurveda-atlas/reference/antimicrobial/) activity against wound-infecting pathogens validated through disc diffusion and MIC studies
+- [Antimicrobial](/nighantu/reference/antimicrobial/) activity against wound-infecting pathogens validated through disc diffusion and MIC studies
 - Anti-diarrheal use confirmed in castor oil-induced diarrhea models with significant reduction in stool frequency
-- [Antipyretic](/ayurveda-atlas/reference/antipyretic/) activity validated in Brewer's yeast-induced pyrexia model in rats
+- [Antipyretic](/nighantu/reference/antipyretic/) activity validated in Brewer's yeast-induced pyrexia model in rats
 - Anti-inflammatory use confirmed through carrageenan-induced paw edema inhibition studies
 
 ## What do recent clinical trials show?
 
-- **A review of Kadamba (Neolamarckia cadamba): an invaluable medicinal plant** (2025): Comprehensive review confirmed diverse pharmacological effects including antioxidant, antimicrobial, antidiabetic, anti-inflammatory, hepatoprotective, [anticancer](/ayurveda-atlas/reference/anticancer/), antimalarial and antidiarrheal activities validated through in vitro and in vivo studies.
+- **A review of Kadamba (Neolamarckia cadamba): an invaluable medicinal plant** (2025): Comprehensive review confirmed diverse pharmacological effects including antioxidant, antimicrobial, antidiabetic, anti-inflammatory, hepatoprotective, [anticancer](/nighantu/reference/anticancer/), antimalarial and antidiarrheal activities validated through in vitro and in vivo studies.
 - **Neolamarckia cadamba: A Comprehensive review on its Physiological, Ecological, Phytochemical and Pharmacological Perspectives** (2023): Identified cadambine and chlorogenic acid as primary bioactive compounds responsible for anti-inflammatory and antioxidant mechanisms; highlighted need for clinical translation.
 - **Neolamarckia cadamba in Obesity Management** (2024): Cadamba bark and fruit extracts showed significant anti-obesity potential through lipase inhibition and modulation of adipogenesis-related gene expression in preclinical models.
 
@@ -92,7 +92,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kadamba/meta-analysis.md
 
 **Standard Dosage:** 3-6g bark powder twice daily; 50-100ml decoction; external paste as needed
 
-**Bioavailability:** Neolamarckia cadamba (syn. Anthocephalus cadamba) bark contains indole alkaloids (cadambine, isocadambine), [triterpenes](/ayurveda-atlas/glossary/compounds-t-z/#triterpenes), and [flavonoids](/ayurveda-atlas/reference/flavonoids/). Indole alkaloids generally show moderate to good oral bioavailability due to lipophilicity. Cadambine is absorbed in the small intestine. Tannin fraction may reduce absorption of co-administered compounds.
+**Bioavailability:** Neolamarckia cadamba (syn. Anthocephalus cadamba) bark contains indole alkaloids (cadambine, isocadambine), [triterpenes](/nighantu/glossary/compounds-t-z/#triterpenes), and [flavonoids](/nighantu/reference/flavonoids/). Indole alkaloids generally show moderate to good oral bioavailability due to lipophilicity. Cadambine is absorbed in the small intestine. Tannin fraction may reduce absorption of co-administered compounds.
 
 **Optimal Timing:** Before meals with warm water for fever and diabetes; external paste for wounds morning and evening
 
@@ -113,7 +113,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kadamba/meta-analysis.md
 
 ### Synergistic Combinations
 
-- With [Lodhra](/ayurveda-atlas/herb/lodhra/) for gynecological disorders
-- With [Ashoka](/ayurveda-atlas/herb/ashoka/) for uterine tonic action
-- With [Nimba](/ayurveda-atlas/herb/nimba/) for skin conditions and fever
-- With [Guduchi](/ayurveda-atlas/herb/guduchi/) for anti-diabetic action
+- With [Lodhra](/nighantu/herb/lodhra/) for gynecological disorders
+- With [Ashoka](/nighantu/herb/ashoka/) for uterine tonic action
+- With [Nimba](/nighantu/herb/nimba/) for skin conditions and fever
+- With [Guduchi](/nighantu/herb/guduchi/) for anti-diabetic action

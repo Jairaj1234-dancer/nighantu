@@ -49,30 +49,30 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Chirayata/meta-analysis.md"
 
 **Standard Dosage:** 1-3g powder twice daily; 30-60ml decoction; 250-500mg extract capsule; 15-30ml Arishta. Extremely bitter—lower doses for compliance.
 
-**Bioavailability:** [Amarogentin](/ayurveda-atlas/glossary/compounds-1-a/#amarogentin) shows moderate oral bioavailability (25-35%) with rapid absorption. [Swertiamarin](/ayurveda-atlas/glossary/compounds-q-t/#swertiamarin) is well absorbed (40-50% bioavailability) and metabolized to erythrocentaurin. Xanthone [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) undergo gut microbial deglycosylation. Bitter taste activates bitter taste receptors (T2Rs) in the gut which contribute to therapeutic effect—whole decoction may be more effective than encapsulated isolates.
+**Bioavailability:** [Amarogentin](/nighantu/glossary/compounds-1-a/#amarogentin) shows moderate oral bioavailability (25-35%) with rapid absorption. [Swertiamarin](/nighantu/glossary/compounds-q-t/#swertiamarin) is well absorbed (40-50% bioavailability) and metabolized to erythrocentaurin. Xanthone [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) undergo gut microbial deglycosylation. Bitter taste activates bitter taste receptors (T2Rs) in the gut which contribute to therapeutic effect—whole decoction may be more effective than encapsulated isolates.
 
-**Optimal Timing:** Before meals for bitter tonic and [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) effects; morning dose preferred for fever; with honey to partially mask bitterness
+**Optimal Timing:** Before meals for bitter tonic and [hepatoprotective](/nighantu/reference/hepatoprotective/) effects; morning dose preferred for fever; with honey to partially mask bitterness
 
-**Standardized Extract:** Whole plant extract standardized to amarogentin NLT 0.1%; swertiamarin NLT 3%; total secoiridoids NLT 5%; [mangiferin](/ayurveda-atlas/glossary/compounds-l-o/#mangiferin) NLT 1%
+**Standardized Extract:** Whole plant extract standardized to amarogentin NLT 0.1%; swertiamarin NLT 3%; total secoiridoids NLT 5%; [mangiferin](/nighantu/glossary/compounds-l-o/#mangiferin) NLT 1%
 
 **Shelf Life:** 2 years (powder); 3 years (tablet/capsule); 5 years (Arishta)
 
 **Storage:** Cool, dry place in airtight containers. Protect from moisture—secoiridoids can hydrolyze. Light-protected packaging for xanthone stability.
 
-**Marker Compounds:** Amarogentin, Swertiamarin, [Sweroside](/ayurveda-atlas/glossary/compounds-q-t/#sweroside), Mangiferin, Swerchirin, [Gentianine](/ayurveda-atlas/glossary/compounds-d-g/#gentianine), Oleanolic acid, Ursolic acid, Decussatin
+**Marker Compounds:** Amarogentin, Swertiamarin, [Sweroside](/nighantu/glossary/compounds-q-t/#sweroside), Mangiferin, Swerchirin, [Gentianine](/nighantu/glossary/compounds-d-g/#gentianine), Oleanolic acid, Ursolic acid, Decussatin
 
 ### Extraction Methods
 
 - Aqueous decoction for traditional Kashayam
 - Hydroalcoholic extraction (70:30) for secoiridoid-rich fraction
 - Methanol extraction for xanthone profiling
-- Cold maceration for heat-sensitive [iridoids](/ayurveda-atlas/glossary/compounds-g-l/#iridoids)
+- Cold maceration for heat-sensitive [iridoids](/nighantu/glossary/compounds-g-l/#iridoids)
 - Spray drying for instant Kwath powder
 
 ### Synergistic Combinations
 
 - With Kutki for hepatoprotective synergy
-- With [Guduchi](/ayurveda-atlas/herb/guduchi/) for antimalarial and [antipyretic](/ayurveda-atlas/reference/antipyretic/) combinations
-- With [Neem](/ayurveda-atlas/herb/neem/) for blood purification and skin diseases
-- With [Katuki](/ayurveda-atlas/herb/katuki/) for [Kamala](/ayurveda-atlas/herb/kamala/) (jaundice) management
-- With [Bhunimba](/ayurveda-atlas/herb/bhunimba/) for comprehensive bitter tonic formulations
+- With [Guduchi](/nighantu/herb/guduchi/) for antimalarial and [antipyretic](/nighantu/reference/antipyretic/) combinations
+- With [Neem](/nighantu/herb/neem/) for blood purification and skin diseases
+- With [Katuki](/nighantu/herb/katuki/) for [Kamala](/nighantu/herb/kamala/) (jaundice) management
+- With [Bhunimba](/nighantu/herb/bhunimba/) for comprehensive bitter tonic formulations

@@ -30,10 +30,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vacha/meta-analysis.md
 - Acetylcholinesterase (AChE) inhibition: Beta-asarone is the major constituent showing maximum AChE inhibitory potential, protecting cognitive function in Alzheimer's disease models.
 - Anti-neuroinflammatory: Beta-asarone suppresses TNF-alpha and IL-1beta secretion, reducing neuroinflammation.
 - Blood-brain barrier penetration: Both alpha- and beta-asarone cross the blood-brain barrier, enabling direct CNS activity.
-- [Antioxidant](/ayurveda-atlas/reference/antioxidant/) neuroprotection: Alpha-asarone normalizes increased superoxide dismutase and lipid peroxidation, restores catalase, glutathione peroxidase, reduced glutathione, and [vitamins](/ayurveda-atlas/glossary/compounds-t-z/#vitamins) C and E in brain regions.
+- [Antioxidant](/nighantu/reference/antioxidant/) neuroprotection: Alpha-asarone normalizes increased superoxide dismutase and lipid peroxidation, restores catalase, glutathione peroxidase, reduced glutathione, and [vitamins](/nighantu/glossary/compounds-t-z/#vitamins) C and E in brain regions.
 - GABAergic and NMDA modulation: Alpha-asarone shows anticonvulsant activity via GABA antagonist and NMDA receptor agonist properties.
 - Sedative/tranquilizing: Asarones potentiate hypnosis in vivo through CNS depressant activity.
-- [Antimicrobial](/ayurveda-atlas/reference/antimicrobial/): Volatile compounds demonstrate activity against P. aeruginosa and S. aureus through membrane disruption.
+- [Antimicrobial](/nighantu/reference/antimicrobial/): Volatile compounds demonstrate activity against P. aeruginosa and S. aureus through membrane disruption.
 
 ## Modern Research (Meta-Analysis)
 
@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vacha/meta-analysis.md
 
 > Vacha (...
 
-**Keywords:** Acorus calamus, clinical trial, ethnomedicinal, metabolic application, neurological, [neuroprotective](/ayurveda-atlas/reference/neuroprotective/), pharmacological action, phytochemistry, toxicity
+**Keywords:** Acorus calamus, clinical trial, ethnomedicinal, metabolic application, neurological, [neuroprotective](/nighantu/reference/neuroprotective/), pharmacological action, phytochemistry, toxicity
 
 #### 2. Acorus calamus var. angustatus Besser: Insight into current research on ethnopharmacological use, phytochemistry, pharmacology, toxicology, and pharmacokinetics.
 
@@ -87,7 +87,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vacha/meta-analysis.md
 **Journal:** Natural product research (2014)
 **PMID:** 24824923
 
-> Acorus calamus L., a tall, perennial, grass-like monocot plant from the Acoraceae family, is a well-known plant in Indian traditional medicines for centuries. It is a highly valued herb as it acts as a rejuvenator for brain and nervous system. It is a main medhya drug, which has the property of improving the memory power and intellect. Rhizomes of the plant are widely used in the treatment of number of ailments such as epilepsy, mental ailments, chronic diarrhoea, dysentery, fever, abdominal tumours, kidney and liver troubles, and rheumatism. A. calamus leaves, rhizomes and its essential oil possess many biological activities such as [antispasmodic](/ayurveda-atlas/glossary/pharmacology/#antispasmodic), carminative and are compiled in a simple approach in this review. This review presents a pragmatic description that deals with chemical constit...
+> Acorus calamus L., a tall, perennial, grass-like monocot plant from the Acoraceae family, is a well-known plant in Indian traditional medicines for centuries. It is a highly valued herb as it acts as a rejuvenator for brain and nervous system. It is a main medhya drug, which has the property of improving the memory power and intellect. Rhizomes of the plant are widely used in the treatment of number of ailments such as epilepsy, mental ailments, chronic diarrhoea, dysentery, fever, abdominal tumours, kidney and liver troubles, and rheumatism. A. calamus leaves, rhizomes and its essential oil possess many biological activities such as [antispasmodic](/nighantu/glossary/pharmacology/#antispasmodic), carminative and are compiled in a simple approach in this review. This review presents a pragmatic description that deals with chemical constit...
 
 **Keywords:** Acorus calamus, anticarcinogenic, antimicrobial, conservation, pharmacological activities, phytoconstituents, toxicity
 
@@ -97,9 +97,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vacha/meta-analysis.md
 **Journal:** Mini reviews in medicinal chemistry (2021)
 **PMID:** 33494677
 
-> Major approach in controlling as well as eradicating the cancerous growth is through radiotherapy, but this treatment leads to toxicity in the normal cells, leading to secondary malignancies, teratogenesis, and necrosis. More than 15,000 malignancies occur due to exposure to harmful radiations during computed tomography scans. Natural products are non-toxic; there have been reports that herbal products, when given along with radiation, have shown increased tumor control property. The discussed agents in this review have potential antioxidant, [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/), free radical scavenging, metal chelating, and anti-inflammatory properties....
+> Major approach in controlling as well as eradicating the cancerous growth is through radiotherapy, but this treatment leads to toxicity in the normal cells, leading to secondary malignancies, teratogenesis, and necrosis. More than 15,000 malignancies occur due to exposure to harmful radiations during computed tomography scans. Natural products are non-toxic; there have been reports that herbal products, when given along with radiation, have shown increased tumor control property. The discussed agents in this review have potential antioxidant, [immunomodulatory](/nighantu/reference/immunomodulatory/), free radical scavenging, metal chelating, and anti-inflammatory properties....
 
-**Keywords:** Acorus calamus, Podophyllum hexandrum, Radioprotective agents, Tinospora cordifolia., Xylopia aethiopica, [hesperidin](/ayurveda-atlas/glossary/compounds-g-l/#hesperidin)
+**Keywords:** Acorus calamus, Podophyllum hexandrum, Radioprotective agents, Tinospora cordifolia., Xylopia aethiopica, [hesperidin](/nighantu/glossary/compounds-g-l/#hesperidin)
 
 #### 7. Is it safe to use Acorus calamus as a source of promising bioactive compounds in prevention and treatment of cardiovascular diseases?
 
@@ -107,7 +107,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vacha/meta-analysis.md
 **Journal:** Chemico-biological interactions (2018)
 **PMID:** 29273563
 
-> Acorus calamus has a rich history in natural medicine, and offers many health benefits. The plant has anti-inflammatory, antimicrobial, [diuretic](/ayurveda-atlas/reference/diuretic/), antiurolithiatic and other properties. Moreover, various parts, especially the rhizome and roots, are sources of a range of bioactive phenolic compounds with beneficial effects on the cardiovascular system. This review article summarizes the current knowledge of the chemical composition of different parts of A. calamus and their roles in the prevention and treatment of cardiovascular diseases. However, as no human studies have been performed, the review only includes in vitro and animal studies. The paper also briefly reviews the toxicity of A. calamus and its products for human health, especially regarding the cardiovascular system....
+> Acorus calamus has a rich history in natural medicine, and offers many health benefits. The plant has anti-inflammatory, antimicrobial, [diuretic](/nighantu/reference/diuretic/), antiurolithiatic and other properties. Moreover, various parts, especially the rhizome and roots, are sources of a range of bioactive phenolic compounds with beneficial effects on the cardiovascular system. This review article summarizes the current knowledge of the chemical composition of different parts of A. calamus and their roles in the prevention and treatment of cardiovascular diseases. However, as no human studies have been performed, the review only includes in vitro and animal studies. The paper also briefly reviews the toxicity of A. calamus and its products for human health, especially regarding the cardiovascular system....
 
 **Keywords:** Acorus calamus, Bioactive compounds, Cardiovascular diseases, Toxic properties
 
@@ -117,7 +117,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vacha/meta-analysis.md
 **Journal:** Heliyon (2019)
 **PMID:** 31193009
 
-> Cancer is one of the major non-communicable diseases posing substantial challenges in both developing and developed countries. The options available for treatment of different cancer are associated with various limitations, including severe toxicity, drug resistance, poor outcomes and a high risk of relapse. Hence, an increased attention and necessity for screening of various phytochemicals from natural sources for superior and safer alternative has been ongoing for several decades. In recent years, phytochemicals like galantamine, erwinaze, rivastigmine, [resveratrol](/ayurveda-atlas/glossary/compounds-q-t/#resveratrolresveratrol) from natural sources have been found to be important therapeutic targets for the treatment of various diseases including cancer, neurodegeneration, diabetes, and cardiovascular effects. ...
+> Cancer is one of the major non-communicable diseases posing substantial challenges in both developing and developed countries. The options available for treatment of different cancer are associated with various limitations, including severe toxicity, drug resistance, poor outcomes and a high risk of relapse. Hence, an increased attention and necessity for screening of various phytochemicals from natural sources for superior and safer alternative has been ongoing for several decades. In recent years, phytochemicals like galantamine, erwinaze, rivastigmine, [resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol) from natural sources have been found to be important therapeutic targets for the treatment of various diseases including cancer, neurodegeneration, diabetes, and cardiovascular effects. ...
 
 **Keywords:** Biochemistry, Cancer research, Cell biology, Evidence-based medicine, Molecular biology, Oncology
 
@@ -156,7 +156,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vacha/meta-analysis.md
 
 **Standard Dosage:** 250 mg-1 g powder twice daily (low dose due to beta-asarone content); Nasya: 2-4 drops per nostril; NOT for prolonged internal use
 
-**Bioavailability:** beta-Asarone (primary active compound) has good oral bioavailability (~45-60%) with rapid absorption and blood-brain barrier penetration. However, it is classified as potentially genotoxic and carcinogenic (EFSA, FDA), severely limiting acceptable daily intake. alpha-Asarone has similar pharmacokinetics but lower toxicity concerns. Acoramone and other [phenylpropanoids](/ayurveda-atlas/glossary/compounds-o-q/#phenylpropanoids) are moderately bioavailable. Nasya administration allows direct CNS delivery via olfactory pathway, requiring lower doses.
+**Bioavailability:** beta-Asarone (primary active compound) has good oral bioavailability (~45-60%) with rapid absorption and blood-brain barrier penetration. However, it is classified as potentially genotoxic and carcinogenic (EFSA, FDA), severely limiting acceptable daily intake. alpha-Asarone has similar pharmacokinetics but lower toxicity concerns. Acoramone and other [phenylpropanoids](/nighantu/glossary/compounds-o-q/#phenylpropanoids) are moderately bioavailable. Nasya administration allows direct CNS delivery via olfactory pathway, requiring lower doses.
 
 **Optimal Timing:** Morning on empty stomach for cognitive enhancement; Nasya in early morning; NOT recommended at bedtime
 
@@ -166,7 +166,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vacha/meta-analysis.md
 
 **Storage:** Airtight, light-resistant containers at 15-25 deg C. Keep out of reach of children. Label must clearly state beta-asarone content and regulatory status for target market.
 
-**Marker Compounds:** beta-Asarone, alpha-Asarone, Acoramone, [Eugenol](/ayurveda-atlas/glossary/compounds-d-g/#eugenol), Cis-methyl isoeugenol, Calamenol, [Galangin](/ayurveda-atlas/glossary/compounds-d-g/#galangin), Acorenone
+**Marker Compounds:** beta-Asarone, alpha-Asarone, Acoramone, [Eugenol](/nighantu/glossary/compounds-d-g/#eugenol), Cis-methyl isoeugenol, Calamenol, [Galangin](/nighantu/glossary/compounds-d-g/#galangin), Acorenone
 
 ### Extraction Methods
 
@@ -178,8 +178,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vacha/meta-analysis.md
 
 ### Synergistic Combinations
 
-- [Brahmi](/ayurveda-atlas/herb/brahmi/) (Bacopa monnieri) - [nootropic](/ayurveda-atlas/glossary/pharmacology/#nootropic) synergy
+- [Brahmi](/nighantu/herb/brahmi/) (Bacopa monnieri) - [nootropic](/nighantu/glossary/pharmacology/#nootropic) synergy
 - Shankhapushpi (Convolvulus pluricaulis) - cognitive enhancement combination
-- [Jatamansi](/ayurveda-atlas/herb/jatamansi/) (Nardostachys jatamansi) - calming and memory-enhancing synergy
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) - [adaptogenic](/ayurveda-atlas/reference/adaptogenic/) and neuroprotective combination
+- [Jatamansi](/nighantu/herb/jatamansi/) (Nardostachys jatamansi) - calming and memory-enhancing synergy
+- [Ashwagandha](/nighantu/herb/ashwagandha/) - [adaptogenic](/nighantu/reference/adaptogenic/) and neuroprotective combination
 - Honey as anupana - facilitates CNS penetration per traditional texts

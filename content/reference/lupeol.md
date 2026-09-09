@@ -6,7 +6,7 @@ section: "_Hub"
 category: "Compounds"
 subcategory: "Lupeol.md"
 group: ""
-answer: "Lupeol is a reference entry in the Ayurveda Atlas. Found in 63 entries across the catalogue Ananta Mool Bakula — Mimusops elengi L. Bhadra — Aerva lanata (L.) Juss. Bhumi Jambuka Bhurja Bimbi Chakragaja — Cassia tora L."
+answer: "Lupeol is a reference entry in the Nighantu. Found in 63 entries across the catalogue Ananta Mool Bakula — Mimusops elengi L. Bhadra — Aerva lanata (L.) Juss. Bhumi Jambuka Bhurja Bimbi Chakragaja — Cassia tora L."
 botanical: "Mimusops elengi L."
 family: ""
 sanskrit: ""
@@ -23,75 +23,75 @@ srcRel: "_Hub/Compounds/Lupeol.md"
 
 ## Ayurveda
 
-- [Ananta Mool](/ayurveda-atlas/herb/ananta-mool/)
-- [Bakula](/ayurveda-atlas/herb/bakula/) — *Mimusops elengi L.*
-- [Bhadra](/ayurveda-atlas/herb/bhadra/) — *Aerva lanata (L.) Juss. ex Schult.*
-- [Bhumi Jambuka](/ayurveda-atlas/herb/bhumi-jambuka/)
-- [Bhurja](/ayurveda-atlas/herb/bhurja/)
-- [Bimbi](/ayurveda-atlas/herb/bimbi/)
-- [Chakragaja](/ayurveda-atlas/herb/chakragaja/) — *Cassia tora L. ([Senna](/ayurveda-atlas/herb/senna/) tora) / Uncertain identification*
-- [Chirabilva](/ayurveda-atlas/herb/chirabilva/)
-- [Dashamoola](/ayurveda-atlas/herb/dashamoola/) — *Compound: 10 roots (5 large trees + 5 small plants)*
-- [Dashamoola Katutraya Kashayam](/ayurveda-atlas/formulation/dashamoola-katutraya-kashayam/)
-- [Dashamularishta](/ayurveda-atlas/formulation/dashamularishta/)
-- [Dashmool Dashmoolarishta](/ayurveda-atlas/formulation/dashmool-dashmoolarishta/)
-- [Dhanwantaram Gutika](/ayurveda-atlas/formulation/dhanwantaram-gutika/)
-- [Dhanwantaram Kashayam](/ayurveda-atlas/formulation/dhanwantaram-kashayam/)
-- [Dhanwantaram Thailam](/ayurveda-atlas/formulation/dhanwantaram-thailam/)
-- [Indukantham Ghritam](/ayurveda-atlas/formulation/indukantham-ghritam/)
-- [Kachnar](/ayurveda-atlas/herb/kachnar/)
-- [Kakajangha](/ayurveda-atlas/glossary/concepts-a-m/#kakajangha)
-- [Kanchanar](/ayurveda-atlas/herb/kanchanar/) — *Bauhinia variegata L.*
-- [Kanchanara Guggulu](/ayurveda-atlas/formulation/kanchanara-guggulu/)
-- [Kokilaksha](/ayurveda-atlas/herb/kokilaksha/)
-- [Kovidara](/ayurveda-atlas/herb/kovidara/) — *Bauhinia purpurea L.*
-- [Kushmanda](/ayurveda-atlas/herb/kushmanda/) — *Benincasa hispida (Thunb.) Cogn.*
-- [Lakuca](/ayurveda-atlas/herb/lakuca/)
-- [Lavali](/ayurveda-atlas/herb/lavali/) — *Meyna spinosa Roxb. ex Link*
-- [Mamsarohini](/ayurveda-atlas/herb/mamsarohini/)
-- [Mashaparni](/ayurveda-atlas/herb/mashaparni/) — *Teramnus labialis (L.f.) Spreng.*
-- [Matsyakshi](/ayurveda-atlas/herb/matsyakshi/)
-- [Mochras](/ayurveda-atlas/herb/mochras/) — *Salmalia malabarica (DC.) Schott & Endl. (syn. Bombax ceiba L.) - resin exudate*
-- [Murva](/ayurveda-atlas/herb/murva/) — *Marsdenia tenacissima (Roxb.) Moon*
-- [Nagabala](/ayurveda-atlas/herb/nagabala/) — *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
-- [Palasha](/ayurveda-atlas/herb/palasha/)
-- [Parijata](/ayurveda-atlas/herb/parijata/) — *Nyctanthes arbor-tristis L.*
-- [Patola](/ayurveda-atlas/herb/patola/)
-- [Plaksha](/ayurveda-atlas/herb/plaksha/) — *Ficus lacor Buch.-Ham.*
-- [Prishniparni](/ayurveda-atlas/herb/prishniparni/) — *Uraria picta (Jacq.) DC.*
-- [Priyala](/ayurveda-atlas/herb/priyala/)
-- [Priyangu](/ayurveda-atlas/herb/priyangu/) — *Callicarpa macrophylla Vahl.*
-- [Rakta Chandana](/ayurveda-atlas/herb/rakta-chandana/) — *Pterocarpus santalinus L.f.*
-- [Rohitaka](/ayurveda-atlas/herb/rohitaka/)
-- [Sahacharadi Thailam](/ayurveda-atlas/formulation/sahacharadi-thailam/)
-- [Saireyaka](/ayurveda-atlas/herb/saireyaka/)
-- [Sala](/ayurveda-atlas/herb/sala/) — *Shorea robusta Gaertn.f.*
-- [Sariva](/ayurveda-atlas/herb/sariva/) — *Hemidesmus indicus*
-- [Shallaki Herb](/ayurveda-atlas/glossary/concepts-m-y/#shallaki-herb)
-- [Shalmali](/ayurveda-atlas/herb/shalmali/)
-- [Shalparni](/ayurveda-atlas/herb/shalparni/) — *Desmodium gangeticum (L.) DC.*
-- [Shirisha](/ayurveda-atlas/herb/shirisha/) — *Albizia lebbeck (L.) Benth.*
-- [Simhamoola](/ayurveda-atlas/herb/simhamoola/)
-- [Sthuneyaka](/ayurveda-atlas/herb/sthuneyaka/)
-- [Surana](/ayurveda-atlas/herb/surana/) — *Amorphophallus campanulatus (Roxb.) Blume ex Decne. (syn. Amorphophallus paeoniifolius (Dennst.) Nicolson)*
-- [Tinduka](/ayurveda-atlas/herb/tinduka/) — *Diospyros peregrina (Gaertn.) Gurke (syn. D. embryopteris Pers., D. malabarica (Desr.) Kostel.)*
-- [Trivrit](/ayurveda-atlas/herb/trivrit/) — *Operculina turpethum (L.) Silva Manso (syn. Ipomoea turpethum R. Br.)*
-- [Udumbara](/ayurveda-atlas/herb/udumbara/) — *Ficus racemosa Linn.*
-- [Varanadi Ghritam](/ayurveda-atlas/formulation/varanadi-ghritam/)
-- [Varuna](/ayurveda-atlas/herb/varuna/)
-- [Varunadi Kashayam](/ayurveda-atlas/formulation/varunadi-kashayam/)
-- [Varunadi Kwath](/ayurveda-atlas/glossary/concepts-m-y/#varunadi-kwath)
-- [Yavasa](/ayurveda-atlas/herb/yavasa/)
+- [Ananta Mool](/nighantu/herb/ananta-mool/)
+- [Bakula](/nighantu/herb/bakula/) — *Mimusops elengi L.*
+- [Bhadra](/nighantu/herb/bhadra/) — *Aerva lanata (L.) Juss. ex Schult.*
+- [Bhumi Jambuka](/nighantu/herb/bhumi-jambuka/)
+- [Bhurja](/nighantu/herb/bhurja/)
+- [Bimbi](/nighantu/herb/bimbi/)
+- [Chakragaja](/nighantu/herb/chakragaja/) — *Cassia tora L. ([Senna](/nighantu/herb/senna/) tora) / Uncertain identification*
+- [Chirabilva](/nighantu/herb/chirabilva/)
+- [Dashamoola](/nighantu/herb/dashamoola/) — *Compound: 10 roots (5 large trees + 5 small plants)*
+- [Dashamoola Katutraya Kashayam](/nighantu/formulation/dashamoola-katutraya-kashayam/)
+- [Dashamularishta](/nighantu/formulation/dashamularishta/)
+- [Dashmool Dashmoolarishta](/nighantu/formulation/dashmool-dashmoolarishta/)
+- [Dhanwantaram Gutika](/nighantu/formulation/dhanwantaram-gutika/)
+- [Dhanwantaram Kashayam](/nighantu/formulation/dhanwantaram-kashayam/)
+- [Dhanwantaram Thailam](/nighantu/formulation/dhanwantaram-thailam/)
+- [Indukantham Ghritam](/nighantu/formulation/indukantham-ghritam/)
+- [Kachnar](/nighantu/herb/kachnar/)
+- [Kakajangha](/nighantu/glossary/concepts-a-m/#kakajangha)
+- [Kanchanar](/nighantu/herb/kanchanar/) — *Bauhinia variegata L.*
+- [Kanchanara Guggulu](/nighantu/formulation/kanchanara-guggulu/)
+- [Kokilaksha](/nighantu/herb/kokilaksha/)
+- [Kovidara](/nighantu/herb/kovidara/) — *Bauhinia purpurea L.*
+- [Kushmanda](/nighantu/herb/kushmanda/) — *Benincasa hispida (Thunb.) Cogn.*
+- [Lakuca](/nighantu/herb/lakuca/)
+- [Lavali](/nighantu/herb/lavali/) — *Meyna spinosa Roxb. ex Link*
+- [Mamsarohini](/nighantu/herb/mamsarohini/)
+- [Mashaparni](/nighantu/herb/mashaparni/) — *Teramnus labialis (L.f.) Spreng.*
+- [Matsyakshi](/nighantu/herb/matsyakshi/)
+- [Mochras](/nighantu/herb/mochras/) — *Salmalia malabarica (DC.) Schott & Endl. (syn. Bombax ceiba L.) - resin exudate*
+- [Murva](/nighantu/herb/murva/) — *Marsdenia tenacissima (Roxb.) Moon*
+- [Nagabala](/nighantu/herb/nagabala/) — *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
+- [Palasha](/nighantu/herb/palasha/)
+- [Parijata](/nighantu/herb/parijata/) — *Nyctanthes arbor-tristis L.*
+- [Patola](/nighantu/herb/patola/)
+- [Plaksha](/nighantu/herb/plaksha/) — *Ficus lacor Buch.-Ham.*
+- [Prishniparni](/nighantu/herb/prishniparni/) — *Uraria picta (Jacq.) DC.*
+- [Priyala](/nighantu/herb/priyala/)
+- [Priyangu](/nighantu/herb/priyangu/) — *Callicarpa macrophylla Vahl.*
+- [Rakta Chandana](/nighantu/herb/rakta-chandana/) — *Pterocarpus santalinus L.f.*
+- [Rohitaka](/nighantu/herb/rohitaka/)
+- [Sahacharadi Thailam](/nighantu/formulation/sahacharadi-thailam/)
+- [Saireyaka](/nighantu/herb/saireyaka/)
+- [Sala](/nighantu/herb/sala/) — *Shorea robusta Gaertn.f.*
+- [Sariva](/nighantu/herb/sariva/) — *Hemidesmus indicus*
+- [Shallaki Herb](/nighantu/glossary/concepts-m-y/#shallaki-herb)
+- [Shalmali](/nighantu/herb/shalmali/)
+- [Shalparni](/nighantu/herb/shalparni/) — *Desmodium gangeticum (L.) DC.*
+- [Shirisha](/nighantu/herb/shirisha/) — *Albizia lebbeck (L.) Benth.*
+- [Simhamoola](/nighantu/herb/simhamoola/)
+- [Sthuneyaka](/nighantu/herb/sthuneyaka/)
+- [Surana](/nighantu/herb/surana/) — *Amorphophallus campanulatus (Roxb.) Blume ex Decne. (syn. Amorphophallus paeoniifolius (Dennst.) Nicolson)*
+- [Tinduka](/nighantu/herb/tinduka/) — *Diospyros peregrina (Gaertn.) Gurke (syn. D. embryopteris Pers., D. malabarica (Desr.) Kostel.)*
+- [Trivrit](/nighantu/herb/trivrit/) — *Operculina turpethum (L.) Silva Manso (syn. Ipomoea turpethum R. Br.)*
+- [Udumbara](/nighantu/herb/udumbara/) — *Ficus racemosa Linn.*
+- [Varanadi Ghritam](/nighantu/formulation/varanadi-ghritam/)
+- [Varuna](/nighantu/herb/varuna/)
+- [Varunadi Kashayam](/nighantu/formulation/varunadi-kashayam/)
+- [Varunadi Kwath](/nighantu/glossary/concepts-m-y/#varunadi-kwath)
+- [Yavasa](/nighantu/herb/yavasa/)
 
 ## Often Found With
 
-- [Beta-sitosterol](/ayurveda-atlas/glossary/compounds-a-c/#betasitosterol) (44 shared sources)
-- [Gallic acid](/ayurveda-atlas/reference/gallic-acid/) (25 shared sources)
-- [Kaempferol](/ayurveda-atlas/reference/kaempferol/) (13 shared sources)
-- [Stigmasterol](/ayurveda-atlas/reference/stigmasterol/) (10 shared sources)
-- [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/) (10 shared sources)
-- [Ursolic acid](/ayurveda-atlas/reference/ursolic-acid/) (9 shared sources)
-- [Ellagic acid](/ayurveda-atlas/reference/ellagic-acid/) (9 shared sources)
-- [Tannins](/ayurveda-atlas/reference/tannins/) (9 shared sources)
-- [Friedelin](/ayurveda-atlas/glossary/compounds-d-g/#friedelin) (9 shared sources)
-- [Oleanolic acid](/ayurveda-atlas/reference/oleanolic-acid/) (8 shared sources)
+- [Beta-sitosterol](/nighantu/glossary/compounds-a-c/#betasitosterol) (44 shared sources)
+- [Gallic acid](/nighantu/reference/gallic-acid/) (25 shared sources)
+- [Kaempferol](/nighantu/reference/kaempferol/) (13 shared sources)
+- [Stigmasterol](/nighantu/reference/stigmasterol/) (10 shared sources)
+- [Quercetin](/nighantu/reference/quercetinquercetin/) (10 shared sources)
+- [Ursolic acid](/nighantu/reference/ursolic-acid/) (9 shared sources)
+- [Ellagic acid](/nighantu/reference/ellagic-acid/) (9 shared sources)
+- [Tannins](/nighantu/reference/tannins/) (9 shared sources)
+- [Friedelin](/nighantu/glossary/compounds-d-g/#friedelin) (9 shared sources)
+- [Oleanolic acid](/nighantu/reference/oleanolic-acid/) (8 shared sources)

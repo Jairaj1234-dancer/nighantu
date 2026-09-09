@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Taruni/meta-analysis.md"
 
 **Standard Dosage:** 1-2 teaspoons (5-10 g) gulkand twice daily; 15-30 mL rose water internally; 1-3 g powder twice daily
 
-**Bioavailability:** [Geraniol](/ayurveda-atlas/glossary/compounds-d-g/#geraniol), [citronellol](/ayurveda-atlas/glossary/compounds-c-d/#citronellol), and [nerol](/ayurveda-atlas/glossary/compounds-l-o/#nerol) (major essential oil components) are well absorbed orally with bioavailability >40%. [Anthocyanins](/ayurveda-atlas/glossary/compounds-1-a/#anthocyanins) and [flavonoids](/ayurveda-atlas/reference/flavonoids/) from rose petals have low oral bioavailability (5-15%) due to instability at intestinal pH and extensive Phase II conjugation. Tannin-protein binding in GI tract further reduces polyphenol absorption. Rose water (hydrosol) provides water-soluble aromatic compounds with good mucosal absorption.
+**Bioavailability:** [Geraniol](/nighantu/glossary/compounds-d-g/#geraniol), [citronellol](/nighantu/glossary/compounds-c-d/#citronellol), and [nerol](/nighantu/glossary/compounds-l-o/#nerol) (major essential oil components) are well absorbed orally with bioavailability >40%. [Anthocyanins](/nighantu/glossary/compounds-1-a/#anthocyanins) and [flavonoids](/nighantu/reference/flavonoids/) from rose petals have low oral bioavailability (5-15%) due to instability at intestinal pH and extensive Phase II conjugation. Tannin-protein binding in GI tract further reduces polyphenol absorption. Rose water (hydrosol) provides water-soluble aromatic compounds with good mucosal absorption.
 
 **Optimal Timing:** Gulkand after meals for digestive cooling; rose water can be taken any time; powder formulations after meals
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Taruni/meta-analysis.md"
 
 **Storage:** Gulkand stored in glass jars at room temperature, protected from direct sunlight. Essential oil in sealed amber glass under nitrogen at 2-8 deg C. Rose water in dark glass bottles at 15-25 deg C. Petal powder in airtight, light-proof containers.
 
-**Marker Compounds:** Citronellol, Geraniol, Nerol, Phenylethyl alcohol, [Eugenol](/ayurveda-atlas/glossary/compounds-d-g/#eugenol), Cyanidin-3,5-di-O-glucoside, [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/), [Kaempferol](/ayurveda-atlas/reference/kaempferol/), Gallic acid
+**Marker Compounds:** Citronellol, Geraniol, Nerol, Phenylethyl alcohol, [Eugenol](/nighantu/glossary/compounds-d-g/#eugenol), Cyanidin-3,5-di-O-glucoside, [Quercetin](/nighantu/reference/quercetinquercetin/), [Kaempferol](/nighantu/reference/kaempferol/), Gallic acid
 
 ### Extraction Methods
 
@@ -74,5 +74,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Taruni/meta-analysis.md"
 
 - Amalaki - cooling and Pitta-pacifying synergy
 - Mishri (rock sugar) - traditional adjuvant in Gulkand
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) - female reproductive tonic synergy
+- [Shatavari](/nighantu/herb/shatavari/) - female reproductive tonic synergy
 - Chandan (sandalwood) - cooling and cardiotonic combination

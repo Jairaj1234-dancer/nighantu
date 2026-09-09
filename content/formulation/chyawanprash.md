@@ -28,36 +28,36 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Chyawanpra
 ## Key Ingredients
 
 - Amalaki (Phyllanthus emblica / Indian gooseberry) - primary ingredient
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) (Tinospora cordifolia)
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) (Asparagus racemosus)
-- [Brahmi](/ayurveda-atlas/herb/brahmi/) (Bacopa monnieri)
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) (Withania somnifera)
-- [Bala](/ayurveda-atlas/herb/bala/) (Sida cordifolia)
-- [Pippali](/ayurveda-atlas/herb/pippali/) (Piper longum)
-- [Gokshura](/ayurveda-atlas/herb/gokshura/) (Tribulus terrestris)
+- [Guduchi](/nighantu/herb/guduchi/) (Tinospora cordifolia)
+- [Shatavari](/nighantu/herb/shatavari/) (Asparagus racemosus)
+- [Brahmi](/nighantu/herb/brahmi/) (Bacopa monnieri)
+- [Ashwagandha](/nighantu/herb/ashwagandha/) (Withania somnifera)
+- [Bala](/nighantu/herb/bala/) (Sida cordifolia)
+- [Pippali](/nighantu/herb/pippali/) (Piper longum)
+- [Gokshura](/nighantu/herb/gokshura/) (Tribulus terrestris)
 - Dashamula (ten roots)
-- [Ghrita](/ayurveda-atlas/herb/ghrita/) (cow ghee)
-- [Tila](/ayurveda-atlas/herb/tila/) Taila ([sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila))
-- [Madhu](/ayurveda-atlas/herb/madhu/) (honey)
+- [Ghrita](/nighantu/herb/ghrita/) (cow ghee)
+- [Tila](/nighantu/herb/tila/) Taila ([sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila))
+- [Madhu](/nighantu/herb/madhu/) (honey)
 - Sharkara (sugar)
 - 50+ herbs total in classical formulation
 
 ## Where is it described in the classical texts?
 
-Charaka Samhita Chikitsasthana ([Rasayana](/ayurveda-atlas/reference/rasayana/) Adhyaya) - oldest reference; Ashtanga Hridaya; the formulation is attributed to the sage Chyawan and described as 3000+ year old Rasayana
+Charaka Samhita Chikitsasthana ([Rasayana](/nighantu/reference/rasayana/) Adhyaya) - oldest reference; Ashtanga Hridaya; the formulation is attributed to the sage Chyawan and described as 3000+ year old Rasayana
 
 ## How does it work?
 
-- Amalaki provides extremely high vitamin C content and [polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols) (gallic acid, [catechin](/ayurveda-atlas/reference/catechin/), [quercetin](/ayurveda-atlas/reference/quercetinquercetin/)) with potent [antioxidant](/ayurveda-atlas/reference/antioxidant/) and free radical scavenging activity
-- HPLC-identified phenolics (gallic acid, protocatechuic acid, caffeic acid, [rutin](/ayurveda-atlas/glossary/compounds-q-t/#rutin), ferulic acid) contribute synergistic antioxidant, anti-inflammatory, and cytoprotective effects
-- [Adaptogenic](/ayurveda-atlas/reference/adaptogenic/) herbs ([Ashwagandha](/ayurveda-atlas/herb/ashwagandha/), [Shatavari](/ayurveda-atlas/herb/shatavari/)) modulate HPA axis for stress resilience and immune homeostasis
-- [Piperine](/ayurveda-atlas/reference/piperine/) from [Pippali](/ayurveda-atlas/herb/pippali/) enhances bioavailability of other active compounds through inhibition of hepatic and intestinal glucuronidation
+- Amalaki provides extremely high vitamin C content and [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) (gallic acid, [catechin](/nighantu/reference/catechin/), [quercetin](/nighantu/reference/quercetinquercetin/)) with potent [antioxidant](/nighantu/reference/antioxidant/) and free radical scavenging activity
+- HPLC-identified phenolics (gallic acid, protocatechuic acid, caffeic acid, [rutin](/nighantu/glossary/compounds-q-t/#rutin), ferulic acid) contribute synergistic antioxidant, anti-inflammatory, and cytoprotective effects
+- [Adaptogenic](/nighantu/reference/adaptogenic/) herbs ([Ashwagandha](/nighantu/herb/ashwagandha/), [Shatavari](/nighantu/herb/shatavari/)) modulate HPA axis for stress resilience and immune homeostasis
+- [Piperine](/nighantu/reference/piperine/) from [Pippali](/nighantu/herb/pippali/) enhances bioavailability of other active compounds through inhibition of hepatic and intestinal glucuronidation
 - Multi-herb synergy provides broad-spectrum immunomodulation: enhanced neutrophil function, NK cell activity, and antibody production
-- Ghee and [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) base provides lipid medium for enhanced absorption of fat-soluble antioxidants and adaptogens
+- Ghee and [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) base provides lipid medium for enhanced absorption of fat-soluble antioxidants and adaptogens
 
 ## Which traditional uses are supported by research?
 
-- Rasayana (rejuvenation/immunity): meta-analysis of 5 RCTs validates [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) and prophylactic benefits including COVID-19 prevention
+- Rasayana (rejuvenation/immunity): meta-analysis of 5 RCTs validates [immunomodulatory](/nighantu/reference/immunomodulatory/) and prophylactic benefits including COVID-19 prevention
 - Medhya Rasayana (cognitive enhancement): 2025 research validates role as cognitive enhancer for brain vitality and mental acuity
 - Vyadhikshamatva (disease resistance): immunomodulatory effects validated in zebrafish inflammation models and human clinical trials
 - Balya (strength-promoting): daily use validated for general vitality, respiratory health, and anti-aging benefits across multiple studies
@@ -65,7 +65,7 @@ Charaka Samhita Chikitsasthana ([Rasayana](/ayurveda-atlas/reference/rasayana/) 
 ## What do recent clinical trials show?
 
 - **Safety and Efficacy of Chyawanprash as a Prophylaxis Treatment for COVID-19: A Systematic Review and Meta-Analysis of Randomized Control Trials** (2024): Meta-analysis of 5 RCTs confirmed Chyawanprash provided prophylactic benefit against COVID-19 with 3-times immunity boost and no adverse effects across all age groups
-- **The Role of Chyawanprash as Medhya Rasayana** (2025): Recent research highlights Chyawanprash's role as a cognitive enhancer (Medhya Rasayana), enhancing vitality, cognition, and brain strength through multiple [neuroprotective](/ayurveda-atlas/reference/neuroprotective/) mechanisms
+- **The Role of Chyawanprash as Medhya Rasayana** (2025): Recent research highlights Chyawanprash's role as a cognitive enhancer (Medhya Rasayana), enhancing vitality, cognition, and brain strength through multiple [neuroprotective](/nighantu/reference/neuroprotective/) mechanisms
 - **Chyawanprash regulates immune response in Zebrafish model of inflammation by moderating inflammatory biomarkers** (2021): Chyawanprash exerted strong prophylactic effect in zebrafish models, efficiently protecting from inflammatory manifestations at human equivalent dose through immunomodulation
 
 ## Recent safety updates
@@ -89,7 +89,7 @@ Charaka Samhita Chikitsasthana ([Rasayana](/ayurveda-atlas/reference/rasayana/) 
 
 **Standard Dosage:** 10-20 g (1-2 tablespoons) once or twice daily, as per AFI Part I / Charaka Samhita
 
-**Bioavailability:** Ghee and [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) base provides lipid-mediated absorption of fat-soluble actives ([withanolides](/ayurveda-atlas/glossary/compounds-t-z/#withanolides), piperine). Honey (added cool) provides enzymatic bioenhancement. Piperine increases bioavailability of curcuminoids and other phenolics by 20-2000%. Amalaki tannin-vitamin C complex provides sustained antioxidant release over 6-8 hours.
+**Bioavailability:** Ghee and [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) base provides lipid-mediated absorption of fat-soluble actives ([withanolides](/nighantu/glossary/compounds-t-z/#withanolides), piperine). Honey (added cool) provides enzymatic bioenhancement. Piperine increases bioavailability of curcuminoids and other phenolics by 20-2000%. Amalaki tannin-vitamin C complex provides sustained antioxidant release over 6-8 hours.
 
 **Optimal Timing:** Morning on empty stomach, followed by warm milk. Second dose before bedtime if taking twice daily.
 
@@ -99,7 +99,7 @@ Charaka Samhita Chikitsasthana ([Rasayana](/ayurveda-atlas/reference/rasayana/) 
 
 **Premium Sourcing Tier:** See Chyawanprash Royale for the luxury-tier provenance variant featuring Junglee Amla, Karaunj wild monofloral honey, Mongra Kashmiri Keshar, Majdool dates, Afghan Anjeer, and Munakkha.
 
-**Marker Compounds:** Ascorbic acid (Vitamin C), Gallic acid, Piperine, [Cinnamaldehyde](/ayurveda-atlas/glossary/compounds-c-d/#cinnamaldehyde), 1,8-[Cineole](/ayurveda-atlas/glossary/compounds-c-d/#cineole), Ellagic acid, [Eugenol](/ayurveda-atlas/glossary/compounds-d-g/#eugenol)
+**Marker Compounds:** Ascorbic acid (Vitamin C), Gallic acid, Piperine, [Cinnamaldehyde](/nighantu/glossary/compounds-c-d/#cinnamaldehyde), 1,8-[Cineole](/nighantu/glossary/compounds-c-d/#cineole), Ellagic acid, [Eugenol](/nighantu/glossary/compounds-d-g/#eugenol)
 
 **Quality Parameters:** Total solids (NLT 65%), pH (3.5-5.0), vitamin C content (NLT 25 mg/100g in classical, higher in modern), total fat, total sugar, moisture (<25%), HPLC for gallic acid, piperine, cinnamaldehyde, HPTLC fingerprint, microbial limits (TBC, yeast, mould, coliforms), heavy metals, aflatoxins, pesticide residues
 
@@ -107,7 +107,7 @@ Charaka Samhita Chikitsasthana ([Rasayana](/ayurveda-atlas/reference/rasayana/) 
 
 ### Synergistic Combinations
 
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) Churna
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) Churna
-- [Brahmi](/ayurveda-atlas/herb/brahmi/) Ghritam
+- [Ashwagandha](/nighantu/herb/ashwagandha/) Churna
+- [Shatavari](/nighantu/herb/shatavari/) Churna
+- [Brahmi](/nighantu/herb/brahmi/) Ghritam
 - Warm milk (primary anupana)

@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Eye-Health/Anjatraya/meta-analysis.md"
 
 **Storage:** Cool, dry place protected from light and moisture. Temperature below 30°C.
 
-**Marker Compounds:** TLC fingerprint markers (to be established), Total phenolics, Total [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) (if applicable), Ash values as quality parameter
+**Marker Compounds:** TLC fingerprint markers (to be established), Total phenolics, Total [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) (if applicable), Ash values as quality parameter
 
 ### Extraction Methods
 
@@ -70,5 +70,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Eye-Health/Anjatraya/meta-analysis.md"
 ### Synergistic Combinations
 
 - Traditional compound formulations as per classical texts
-- With [Triphala](/ayurveda-atlas/herb/triphala/) for general health support
-- With [Guduchi](/ayurveda-atlas/herb/guduchi/) for immune modulation
+- With [Triphala](/nighantu/herb/triphala/) for general health support
+- With [Guduchi](/nighantu/herb/guduchi/) for immune modulation

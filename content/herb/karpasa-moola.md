@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Karpasa-Moola/meta-analy
 
 | Language | Name |
 |----------|------|
-| English | [Karpasa](/ayurveda-atlas/herb/karpasa/) Moola |
+| English | [Karpasa](/nighantu/herb/karpasa/) Moola |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -49,17 +49,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Karpasa-Moola/meta-analy
 
 **Standard Dosage:** 3-6 g root powder twice daily with warm milk; 50-100 mL decoction twice daily
 
-**Bioavailability:** Root-specific [betaine](/ayurveda-atlas/glossary/compounds-a-c/#betaine) and flavonoid [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) show moderate oral bioavailability. Decoction form pre-hydrolyzes glycosides improving aglycone absorption. Milk as Anupana (vehicle) enhances lipophilic constituent absorption and provides buffering action. [Gossypol](/ayurveda-atlas/glossary/compounds-g-l/#gossypol) content in roots is significantly lower than seeds.
+**Bioavailability:** Root-specific [betaine](/nighantu/glossary/compounds-a-c/#betaine) and flavonoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) show moderate oral bioavailability. Decoction form pre-hydrolyzes glycosides improving aglycone absorption. Milk as Anupana (vehicle) enhances lipophilic constituent absorption and provides buffering action. [Gossypol](/nighantu/glossary/compounds-g-l/#gossypol) content in roots is significantly lower than seeds.
 
-**Optimal Timing:** After meals with warm milk for [galactagogue](/ayurveda-atlas/glossary/pharmacology/#galactagogue) and uterine tonic applications; before meals for digestive indications
+**Optimal Timing:** After meals with warm milk for [galactagogue](/nighantu/glossary/pharmacology/#galactagogue) and uterine tonic applications; before meals for digestive indications
 
-**Standardized Extract:** Standardized to minimum 2% total [flavonoids](/ayurveda-atlas/reference/flavonoids/) (as [gossypetin](/ayurveda-atlas/glossary/compounds-g-l/#gossypetin) equivalents); gossypol content <0.01% for safe internal use
+**Standardized Extract:** Standardized to minimum 2% total [flavonoids](/nighantu/reference/flavonoids/) (as [gossypetin](/nighantu/glossary/compounds-g-l/#gossypetin) equivalents); gossypol content <0.01% for safe internal use
 
 **Shelf Life:** 24 months for powder; 18 months for capsules; decoction consumed within 24 hours
 
 **Storage:** Store in airtight containers at 15-30°C. Protect from moisture and insect infestation. Root material is prone to fungal contamination — monitor aflatoxin levels.
 
-**Marker Compounds:** Gossypetin, [Herbacetin](/ayurveda-atlas/glossary/compounds-g-l/#herbacetin), Betaine, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), Gossypol (trace — must be quantified), [Friedelin](/ayurveda-atlas/glossary/compounds-d-g/#friedelin)
+**Marker Compounds:** Gossypetin, [Herbacetin](/nighantu/glossary/compounds-g-l/#herbacetin), Betaine, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Gossypol (trace — must be quantified), [Friedelin](/nighantu/glossary/compounds-d-g/#friedelin)
 
 ### Extraction Methods
 
@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Karpasa-Moola/meta-analy
 
 ### Synergistic Combinations
 
-- [Ashoka](/ayurveda-atlas/herb/ashoka/) bark for uterine tonic synergy
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) for galactagogue enhancement
-- [Dashamoola](/ayurveda-atlas/herb/dashamoola/) for anti-inflammatory root combination
-- [Bala](/ayurveda-atlas/herb/bala/) for strength and uterine support
+- [Ashoka](/nighantu/herb/ashoka/) bark for uterine tonic synergy
+- [Shatavari](/nighantu/herb/shatavari/) for galactagogue enhancement
+- [Dashamoola](/nighantu/herb/dashamoola/) for anti-inflammatory root combination
+- [Bala](/nighantu/herb/bala/) for strength and uterine support

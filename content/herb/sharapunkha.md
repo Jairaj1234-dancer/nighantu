@@ -49,17 +49,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Sharapunkha/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g powder per day; 10-20 mL swarasa twice daily; 50-100 mL kwatha twice daily; 500 mg extract capsule twice daily
 
-**Bioavailability:** Flavonoid [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) ([rutin](/ayurveda-atlas/glossary/compounds-q-t/#rutin), [quercetin](/ayurveda-atlas/reference/quercetinquercetin/)) show moderate oral bioavailability (20-35%). Rotenoids are lipophilic and benefit from lipid-based delivery. [Isoflavonoids](/ayurveda-atlas/glossary/compounds-g-l/#isoflavonoids) undergo intestinal metabolism by gut microflora. Co-administration with [piperine](/ayurveda-atlas/reference/piperine/) improves flavonoid bioavailability by 1.5-2x.
+**Bioavailability:** Flavonoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) ([rutin](/nighantu/glossary/compounds-q-t/#rutin), [quercetin](/nighantu/reference/quercetinquercetin/)) show moderate oral bioavailability (20-35%). Rotenoids are lipophilic and benefit from lipid-based delivery. [Isoflavonoids](/nighantu/glossary/compounds-g-l/#isoflavonoids) undergo intestinal metabolism by gut microflora. Co-administration with [piperine](/nighantu/reference/piperine/) improves flavonoid bioavailability by 1.5-2x.
 
 **Optimal Timing:** Before meals on empty stomach for hepatosplenic conditions; morning dose preferred for Pitta-pacifying action
 
-**Standardized Extract:** Whole plant extract (8:1 in 60% ethanol), standardized to NLT 3% total [flavonoids](/ayurveda-atlas/reference/flavonoids/) (as rutin equivalents by HPLC); rotenoid content NMT 0.5% for safety; total phenolics NLT 5% by Folin-Ciocalteu
+**Standardized Extract:** Whole plant extract (8:1 in 60% ethanol), standardized to NLT 3% total [flavonoids](/nighantu/reference/flavonoids/) (as rutin equivalents by HPLC); rotenoid content NMT 0.5% for safety; total phenolics NLT 5% by Folin-Ciocalteu
 
 **Shelf Life:** 7 days for swarasa (refrigerated); 24 months for churna; 36 months for standardized capsules
 
 **Storage:** Swarasa: refrigerate at 2-8 deg C. Churna and capsules: below 25 deg C in airtight containers, protected from light and moisture.
 
-**Marker Compounds:** Rutin, [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/), [Luteolin](/ayurveda-atlas/glossary/compounds-l-o/#luteolin), Rotenone (must be below safety limit), Deguelin, Tephrosin, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
+**Marker Compounds:** Rutin, [Quercetin](/nighantu/reference/quercetinquercetin/), [Luteolin](/nighantu/glossary/compounds-l-o/#luteolin), Rotenone (must be below safety limit), Deguelin, Tephrosin, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
 
 ### Extraction Methods
 
@@ -71,8 +71,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Sharapunkha/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- Kutki ([hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/)-splenoprotective synergy)
-- [Bhumyamalaki](/ayurveda-atlas/herb/bhumyamalaki/) (liver and spleen disorder formulations)
-- [Rohitaka](/ayurveda-atlas/herb/rohitaka/) (Pleeha-Yakrit conditions)
-- [Punarnava](/ayurveda-atlas/herb/punarnava/) (hepato-renal formulations)
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) ([immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/)-hepatoprotective combination)
+- Kutki ([hepatoprotective](/nighantu/reference/hepatoprotective/)-splenoprotective synergy)
+- [Bhumyamalaki](/nighantu/herb/bhumyamalaki/) (liver and spleen disorder formulations)
+- [Rohitaka](/nighantu/herb/rohitaka/) (Pleeha-Yakrit conditions)
+- [Punarnava](/nighantu/herb/punarnava/) (hepato-renal formulations)
+- [Guduchi](/nighantu/herb/guduchi/) ([immunomodulatory](/nighantu/reference/immunomodulatory/)-hepatoprotective combination)

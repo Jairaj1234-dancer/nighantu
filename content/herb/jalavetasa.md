@@ -28,17 +28,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jalavetasa/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- Mucilaginous [polysaccharides](/ayurveda-atlas/glossary/compounds-o-q/#polysaccharides)
-- [Flavonoids](/ayurveda-atlas/reference/flavonoids/) ([quercetin](/ayurveda-atlas/reference/quercetinquercetin/) and derivatives)
+- Mucilaginous [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides)
+- [Flavonoids](/nighantu/reference/flavonoids/) ([quercetin](/nighantu/reference/quercetinquercetin/) and derivatives)
 - Trace minerals
 - Cellulose and hemicellulose
-- [Chlorophyll](/ayurveda-atlas/glossary/compounds-c-d/#chlorophyll) pigments
+- [Chlorophyll](/nighantu/glossary/compounds-c-d/#chlorophyll) pigments
 
 ## How does it work?
 
 - Demulcent action through mucilaginous polysaccharide coating of inflamed mucosal surfaces in throat, gut, and urinary tract
-- Mild [diuretic](/ayurveda-atlas/reference/diuretic/) effect through flavonoid-mediated modulation of renal tubular function
-- Anti-inflammatory mechanism via [quercetin](/ayurveda-atlas/reference/quercetinquercetin/)-mediated inhibition of inflammatory mediators in local tissues
+- Mild [diuretic](/nighantu/reference/diuretic/) effect through flavonoid-mediated modulation of renal tubular function
+- Anti-inflammatory mechanism via [quercetin](/nighantu/reference/quercetinquercetin/)-mediated inhibition of inflammatory mediators in local tissues
 
 ## Which traditional uses are supported by research?
 
@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jalavetasa/meta-analysis.md"
 ## What do recent clinical trials show?
 
 - **Review on the medicinal and edible aspects of aquatic plants** (2023): Reviewed aquatic plants including Vallisneria species for their edible and medicinal potential; confirmed presence of mucilaginous compounds and flavonoids with soothing and anti-inflammatory properties.
-- **Vallisneria spiralis in Ayurveda: Uses, Benefits and Medicinal Properties** (2024): Documented traditional applications as demulcent, mild diuretic, and cooling agent with flavonoid-based [antioxidant](/ayurveda-atlas/reference/antioxidant/) properties relevant to skin soothing and urinary health.
+- **Vallisneria spiralis in Ayurveda: Uses, Benefits and Medicinal Properties** (2024): Documented traditional applications as demulcent, mild diuretic, and cooling agent with flavonoid-based [antioxidant](/nighantu/reference/antioxidant/) properties relevant to skin soothing and urinary health.
 
 ## Recent safety updates
 
@@ -77,7 +77,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jalavetasa/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction
 
-**Bioavailability:** Limited modern pharmacokinetic data. Salix caprea (goat willow) bark contains [salicin](/ayurveda-atlas/glossary/compounds-q-t/#salicin) (a prodrug of salicylic acid) with well-characterized bioavailability. Salicin is hydrolyzed to saligenin in the GI tract and oxidized to salicylic acid in the liver with overall bioavailability of ~80% for the active salicylic acid metabolite. Slower onset but longer duration compared to synthetic aspirin.
+**Bioavailability:** Limited modern pharmacokinetic data. Salix caprea (goat willow) bark contains [salicin](/nighantu/glossary/compounds-q-t/#salicin) (a prodrug of salicylic acid) with well-characterized bioavailability. Salicin is hydrolyzed to saligenin in the GI tract and oxidized to salicylic acid in the liver with overall bioavailability of ~80% for the active salicylic acid metabolite. Slower onset but longer duration compared to synthetic aspirin.
 
 **Optimal Timing:** After meals with warm water to reduce gastric irritation; for pain relief, as needed up to 3 times daily
 
@@ -87,7 +87,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jalavetasa/meta-analysis.md"
 
 **Storage:** Cool, dry place below 25°C, protected from moisture. Bark powder in airtight containers.
 
-**Marker Compounds:** Salicin, Salicortin, Tremulacin, [Catechin](/ayurveda-atlas/reference/catechin/), Flavonoids
+**Marker Compounds:** Salicin, Salicortin, Tremulacin, [Catechin](/nighantu/reference/catechin/), Flavonoids
 
 ### Extraction Methods
 
@@ -97,6 +97,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jalavetasa/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Guggulu](/ayurveda-atlas/formulation/guggulu/) for anti-inflammatory action
-- With [Nirgundi](/ayurveda-atlas/herb/nirgundi/) for [analgesic](/ayurveda-atlas/reference/analgesic/) synergy
-- With [Rasna](/ayurveda-atlas/herb/rasna/) for rheumatic conditions
+- With [Guggulu](/nighantu/formulation/guggulu/) for anti-inflammatory action
+- With [Nirgundi](/nighantu/herb/nirgundi/) for [analgesic](/nighantu/reference/analgesic/) synergy
+- With [Rasna](/nighantu/herb/rasna/) for rheumatic conditions

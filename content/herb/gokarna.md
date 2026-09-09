@@ -24,29 +24,29 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gokarna/meta-analysis.md"
 | Language | Name |
 |----------|------|
 | English | Gokarna |
-| Latin/Botanical | *Clitoria ternatea L. (same species as [Aparajita](/ayurveda-atlas/herb/aparajita/); Gokarna is a regional Ayurvedic synonym)* |
+| Latin/Botanical | *Clitoria ternatea L. (same species as [Aparajita](/nighantu/herb/aparajita/); Gokarna is a regional Ayurvedic synonym)* |
 
 ## Key Phytochemical Constituents
 
-- Ternatin [anthocyanins](/ayurveda-atlas/glossary/compounds-1-a/#anthocyanins) (delphinidin-based polyacylated anthocyanins)
-- [Cyclotides](/ayurveda-atlas/glossary/compounds-c-d/#cyclotides) (macrocyclic [peptides](/ayurveda-atlas/glossary/compounds-o-q/#peptides) with disulfide bonds)
-- [Taraxerol](/ayurveda-atlas/glossary/compounds-t-z/#taraxerol) and taraxerone
-- [Kaempferol](/ayurveda-atlas/reference/kaempferol/), [quercetin](/ayurveda-atlas/reference/quercetinquercetin/), [myricetin](/ayurveda-atlas/glossary/compounds-l-o/#myricetin) [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides)
+- Ternatin [anthocyanins](/nighantu/glossary/compounds-1-a/#anthocyanins) (delphinidin-based polyacylated anthocyanins)
+- [Cyclotides](/nighantu/glossary/compounds-c-d/#cyclotides) (macrocyclic [peptides](/nighantu/glossary/compounds-o-q/#peptides) with disulfide bonds)
+- [Taraxerol](/nighantu/glossary/compounds-t-z/#taraxerol) and taraxerone
+- [Kaempferol](/nighantu/reference/kaempferol/), [quercetin](/nighantu/reference/quercetinquercetin/), [myricetin](/nighantu/glossary/compounds-l-o/#myricetin) [glycosides](/nighantu/glossary/compounds-g-l/#glycosides)
 - Cliotide T1-T12 (cyclotides unique to this species)
 - Stigmast-4-ene-3,6-dione
 
 ## How does it work?
 
-- [Nootropic](/ayurveda-atlas/glossary/pharmacology/#nootropic) effect via enhancement of acetylcholine levels through acetylcholinesterase inhibition in hippocampus
-- [Anxiolytic](/ayurveda-atlas/reference/anxiolytic/) mechanism through potentiation of GABAergic neurotransmission in limbic system
-- [Antioxidant](/ayurveda-atlas/reference/antioxidant/) action via ternatin anthocyanin-mediated scavenging of ROS and upregulation of SOD, catalase, and glutathione peroxidase
-- Wound healing through cyclotide-mediated [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) activity and collagen synthesis stimulation
+- [Nootropic](/nighantu/glossary/pharmacology/#nootropic) effect via enhancement of acetylcholine levels through acetylcholinesterase inhibition in hippocampus
+- [Anxiolytic](/nighantu/reference/anxiolytic/) mechanism through potentiation of GABAergic neurotransmission in limbic system
+- [Antioxidant](/nighantu/reference/antioxidant/) action via ternatin anthocyanin-mediated scavenging of ROS and upregulation of SOD, catalase, and glutathione peroxidase
+- Wound healing through cyclotide-mediated [antimicrobial](/nighantu/reference/antimicrobial/) activity and collagen synthesis stimulation
 
 ## Which traditional uses are supported by research?
 
 - Brain tonic and intellect enhancer (Medhya) - validated through multiple animal studies showing improved memory retention and learning
 - Anxiolytic (Manasa-Dosha-hara) - confirmed through pharmacological studies showing benzodiazepine-like anxiolytic activity
-- Eye health ([Chakshushya](/ayurveda-atlas/herb/chakshushya/)) - partially validated through antioxidant protection of ocular tissues
+- Eye health ([Chakshushya](/nighantu/herb/chakshushya/)) - partially validated through antioxidant protection of ocular tissues
 - Complexion and skin health (Varnya) - supported by antioxidant and anti-inflammatory mechanisms
 
 ## What do recent clinical trials show?
@@ -58,7 +58,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gokarna/meta-analysis.md"
 ## Recent safety updates
 
 - Blue flower tea is widely consumed globally with no significant adverse effects at culinary doses; classified as safe food colorant
-- Potential mild [diuretic](/ayurveda-atlas/reference/diuretic/) and blood platelet aggregation inhibition effects; caution with anticoagulant medications; limited clinical trial data for therapeutic doses
+- Potential mild [diuretic](/nighantu/reference/diuretic/) and blood platelet aggregation inhibition effects; caution with anticoagulant medications; limited clinical trial data for therapeutic doses
 
 ## What is it made of?
 
@@ -75,7 +75,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gokarna/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction twice daily; 10-20ml fresh juice; 500mg extract capsule twice daily
 
-**Bioavailability:** Clitoria ternatea (Gokarna / [Aparajita](/ayurveda-atlas/herb/aparajita/) / Butterfly Pea) contains anthocyanins (ternatins), flavonol glycosides (kaempferol, [quercetin](/ayurveda-atlas/reference/quercetinquercetin/)), and triterpenoid [saponins](/ayurveda-atlas/reference/saponins/). Ternatins (polyacylated anthocyanins) are unique to this species and have moderate oral bioavailability with pH-dependent stability (more stable than common anthocyanins due to polyacylation). [Flavonoids](/ayurveda-atlas/reference/flavonoids/) show 15-25% bioavailability. Cyclotides (cyclic peptides) in the plant have poor oral bioavailability but show unique biological activities. Enhancement: liposomal delivery of ternatin-rich fraction; nano-emulsion of bioactive peptides; co-administration with ascorbic acid stabilizes anthocyanins.
+**Bioavailability:** Clitoria ternatea (Gokarna / [Aparajita](/nighantu/herb/aparajita/) / Butterfly Pea) contains anthocyanins (ternatins), flavonol glycosides (kaempferol, [quercetin](/nighantu/reference/quercetinquercetin/)), and triterpenoid [saponins](/nighantu/reference/saponins/). Ternatins (polyacylated anthocyanins) are unique to this species and have moderate oral bioavailability with pH-dependent stability (more stable than common anthocyanins due to polyacylation). [Flavonoids](/nighantu/reference/flavonoids/) show 15-25% bioavailability. Cyclotides (cyclic peptides) in the plant have poor oral bioavailability but show unique biological activities. Enhancement: liposomal delivery of ternatin-rich fraction; nano-emulsion of bioactive peptides; co-administration with ascorbic acid stabilizes anthocyanins.
 
 **Optimal Timing:** Morning doses for nootropic/cognitive effects; root decoction before meals; flower tea can be consumed throughout the day
 
@@ -85,20 +85,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gokarna/meta-analysis.md"
 
 **Storage:** Dried flowers and powder: airtight, light-resistant, nitrogen-flushed containers below 25 deg C at pH <5 (acidified matrix). Light and alkaline pH rapidly degrade anthocyanins. Root powder: standard conditions, airtight below 25 deg C.
 
-**Marker Compounds:** Ternatin A1/A2/B1/B2 (polyacylated anthocyanins), Kaempferol glycosides, [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/) glycosides, Taraxerol, Clitorin, Cyclotides (CT1, CT2), [Aparajitin](/ayurveda-atlas/glossary/compounds-1-a/#aparajitin) (root)
+**Marker Compounds:** Ternatin A1/A2/B1/B2 (polyacylated anthocyanins), Kaempferol glycosides, [Quercetin](/nighantu/reference/quercetinquercetin/) glycosides, Taraxerol, Clitorin, Cyclotides (CT1, CT2), [Aparajitin](/nighantu/glossary/compounds-1-a/#aparajitin) (root)
 
 ### Extraction Methods
 
 - Aqueous extraction (traditional - preserves anthocyanins at acidic pH)
 - Hydroalcoholic extraction (50:50 ethanol:water, acidified)
 - Fresh flower juice for anthocyanin-rich preparations
-- Acidified aqueous extraction (0.1% [citric acid](/ayurveda-atlas/glossary/compounds-c-d/#citric-acidcitric-acid)) for maximum anthocyanin yield
+- Acidified aqueous extraction (0.1% [citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid)) for maximum anthocyanin yield
 - Root decoction for nootropic applications
 
 ### Synergistic Combinations
 
 - With Shankhapushpi for nootropic and cognitive enhancement synergy
-- With [Brahmi](/ayurveda-atlas/herb/brahmi/) for memory and learning support
-- With [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) for [adaptogenic](/ayurveda-atlas/reference/adaptogenic/)-nootropic combination
-- With [Jyotishmati](/ayurveda-atlas/herb/jyotishmati/) (Celastrus) for enhanced cognitive effects
-- With [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) for [neuroprotective](/ayurveda-atlas/reference/neuroprotective/) combination
+- With [Brahmi](/nighantu/herb/brahmi/) for memory and learning support
+- With [Ashwagandha](/nighantu/herb/ashwagandha/) for [adaptogenic](/nighantu/reference/adaptogenic/)-nootropic combination
+- With [Jyotishmati](/nighantu/herb/jyotishmati/) (Celastrus) for enhanced cognitive effects
+- With [Yashtimadhu](/nighantu/herb/yashtimadhu/) for [neuroprotective](/nighantu/reference/neuroprotective/) combination

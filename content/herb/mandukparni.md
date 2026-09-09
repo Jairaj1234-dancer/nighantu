@@ -45,11 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Mandukparni/meta-analy
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Svarasa (fresh juice), Churna (powder), Capsules, Tablets, Syrup, [Ghrita](/ayurveda-atlas/herb/ghrita/) (medicated ghee - [Brahmi](/ayurveda-atlas/herb/brahmi/) Ghrita), Medhya [Rasayana](/ayurveda-atlas/reference/rasayana/) formulations, Topical cream
+**Dosage Forms:** Svarasa (fresh juice), Churna (powder), Capsules, Tablets, Syrup, [Ghrita](/nighantu/herb/ghrita/) (medicated ghee - [Brahmi](/nighantu/herb/brahmi/) Ghrita), Medhya [Rasayana](/nighantu/reference/rasayana/) formulations, Topical cream
 
 **Standard Dosage:** 10-20 mL fresh juice daily; 3-6 g powder per day; 500-1000 mg standardized extract daily; 5-10 g Ghrita preparation daily
 
-**Bioavailability:** [Asiaticoside](/ayurveda-atlas/glossary/compounds-a-c/#asiaticoside) has moderate oral bioavailability (~30-40%). [Madecassoside](/ayurveda-atlas/glossary/compounds-l-o/#madecassoside) shows similar absorption profile. Triterpene [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) are hydrolyzed to aglycones (asiatic acid, madecassic acid) which are better absorbed. Lipid-based formulations (Ghrita, phospholipid complexes) increase bioavailability 2-3 fold. Phytosome technology with phosphatidylcholine (TECA-Phytosome) achieves 3-5x enhanced absorption.
+**Bioavailability:** [Asiaticoside](/nighantu/glossary/compounds-a-c/#asiaticoside) has moderate oral bioavailability (~30-40%). [Madecassoside](/nighantu/glossary/compounds-l-o/#madecassoside) shows similar absorption profile. Triterpene [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) are hydrolyzed to aglycones (asiatic acid, madecassic acid) which are better absorbed. Lipid-based formulations (Ghrita, phospholipid complexes) increase bioavailability 2-3 fold. Phytosome technology with phosphatidylcholine (TECA-Phytosome) achieves 3-5x enhanced absorption.
 
 **Optimal Timing:** Morning on empty stomach for cognitive enhancement (Medhya effect); Ghrita preparation with warm milk at bedtime; topical application twice daily for wound healing
 
@@ -73,8 +73,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Mandukparni/meta-analy
 ### Synergistic Combinations
 
 - Brahmi/Bacopa (cognitive enhancement - Medhya Rasayana pair)
-- [Shankhpushpi](/ayurveda-atlas/herb/shankhpushpi/) (memory and cognitive synergy)
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) ([adaptogenic](/ayurveda-atlas/reference/adaptogenic/) and [nootropic](/ayurveda-atlas/glossary/pharmacology/#nootropic) combination)
-- [Jatamansi](/ayurveda-atlas/herb/jatamansi/) ([anxiolytic](/ayurveda-atlas/reference/anxiolytic/) and [neuroprotective](/ayurveda-atlas/reference/neuroprotective/))
-- [Vacha](/ayurveda-atlas/herb/vacha/) (speech and cognitive clarity)
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) (Medhya Rasayana formula)
+- [Shankhpushpi](/nighantu/herb/shankhpushpi/) (memory and cognitive synergy)
+- [Ashwagandha](/nighantu/herb/ashwagandha/) ([adaptogenic](/nighantu/reference/adaptogenic/) and [nootropic](/nighantu/glossary/pharmacology/#nootropic) combination)
+- [Jatamansi](/nighantu/herb/jatamansi/) ([anxiolytic](/nighantu/reference/anxiolytic/) and [neuroprotective](/nighantu/reference/neuroprotective/))
+- [Vacha](/nighantu/herb/vacha/) (speech and cognitive clarity)
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (Medhya Rasayana formula)

@@ -28,34 +28,34 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Chitrak/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Plumbagin](/ayurveda-atlas/glossary/compounds-o-q/#plumbagin) (5-hydroxy-2-methyl-1,4-naphthoquinone)
+- [Plumbagin](/nighantu/glossary/compounds-o-q/#plumbagin) (5-hydroxy-2-methyl-1,4-naphthoquinone)
 - 3,3'-biplumbagin
 - Chitranone
 - Zeylanone
 - Isozeylanone
 - Droserone
 - Elliptinone
-- Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
+- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
 
 ## How does it work?
 
 - NF-kB inhibition: Plumbagin suppresses NF-kB-regulated transcription of pro-inflammatory cytokines (IFN-gamma, IL-6, iNOS).
 - Digestive fire enhancement (Deepana-Pachana): Stimulates gastric secretion and enhances digestive enzyme activity through pungent and hot potency.
-- [Anticancer](/ayurveda-atlas/reference/anticancer/) activity: Anti-proliferative, chemopreventive, radiosensitizing, anti-angiogenic, and anti-metastatic actions via multiple signaling pathways.
-- [Antioxidant](/ayurveda-atlas/reference/antioxidant/) mechanism: Generates phenoxyl radicals upon reaction with hydroxyl, alkyl peroxyl, and glutathiyl radicals, scavenging reactive oxygen species.
-- [Antimicrobial](/ayurveda-atlas/reference/antimicrobial/) action: Disrupts microbial cell membranes and inhibits essential [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes) in pathogenic organisms.
+- [Anticancer](/nighantu/reference/anticancer/) activity: Anti-proliferative, chemopreventive, radiosensitizing, anti-angiogenic, and anti-metastatic actions via multiple signaling pathways.
+- [Antioxidant](/nighantu/reference/antioxidant/) mechanism: Generates phenoxyl radicals upon reaction with hydroxyl, alkyl peroxyl, and glutathiyl radicals, scavenging reactive oxygen species.
+- [Antimicrobial](/nighantu/reference/antimicrobial/) action: Disrupts microbial cell membranes and inhibits essential [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) in pathogenic organisms.
 
 ## Which traditional uses are supported by research?
 
 - Deepana-Pachana (digestive stimulant) activity confirmed by gastric secretion enhancement studies.
 - Anti-inflammatory properties validated through NF-kB pathway inhibition research.
 - Antimicrobial activity confirmed against multiple bacterial and fungal strains.
-- [Hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) effects demonstrated in animal models of liver injury.
+- [Hepatoprotective](/nighantu/reference/hepatoprotective/) effects demonstrated in animal models of liver injury.
 - Wound healing properties validated in preclinical models.
 
 ## What do recent clinical trials show?
 
-- **Phytochemistry and pharmacological studies of Plumbago zeylanica L.: a medicinal plant review** (2021): Comprehensive review documenting broad pharmacological activities including antibacterial, antifungal, anti-inflammatory, [antidiabetic](/ayurveda-atlas/reference/antidiabetic/), anticancer, antioxidant, hepatoprotective, cytotoxic, and wound healing properties of P. zeylanica.
+- **Phytochemistry and pharmacological studies of Plumbago zeylanica L.: a medicinal plant review** (2021): Comprehensive review documenting broad pharmacological activities including antibacterial, antifungal, anti-inflammatory, [antidiabetic](/nighantu/reference/antidiabetic/), anticancer, antioxidant, hepatoprotective, cytotoxic, and wound healing properties of P. zeylanica.
 - **Standard operating procedure of Purification of Chitraka (Plumbago zeylanica Linn.) along with pharmacognostical and analytical profiles of Plumbagin** (2021): Established SOPs for traditional Shodhana (purification) of Chitrak root, with analytical profiling confirming plumbagin retention after purification. Purification process reduces toxicity while preserving therapeutic activity.
 - **Different Derivatives of Plumbagin Analogue: Bioavailability and Their Toxicity Studies** (2025): Investigated plumbagin derivatives to address poor bioavailability due to low solubility and metabolic instability. Novel analogues showed improved pharmacokinetic profiles with reduced toxicity compared to parent compound.
 - **Anticancer and anti-inflammatory mechanisms of plumbagin: NF-kB pathway studies** (2022): Plumbagin inhibits NF-kB-regulated gene transcription of proinflammatory cytokines including IFN-gamma, IL-6, and inducible nitric oxide synthase. Demonstrated anti-cancer, anti-proliferative, chemopreventive, and anti-metastatic activities.
@@ -83,7 +83,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Chitrak/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (root powder), Tablet, Capsule, Kashayam (decoction), [Chitrakaharitaki](/ayurveda-atlas/herb/chitrakaharitaki/) Avaleha, [Chitrakadi Vati](/ayurveda-atlas/formulation/chitrakadi-vati/)
+**Dosage Forms:** Churna (root powder), Tablet, Capsule, Kashayam (decoction), [Chitrakaharitaki](/nighantu/herb/chitrakaharitaki/) Avaleha, [Chitrakadi Vati](/nighantu/formulation/chitrakadi-vati/)
 
 **Standard Dosage:** 1-3g root powder twice daily; 250-500mg extract capsule; 50-100ml decoction. CAUTION: Potent herb—do not exceed recommended dose. Contraindicated in pregnancy.
 
@@ -109,8 +109,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Chitrak/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Haritaki](/ayurveda-atlas/herb/haritaki/) in [Chitrakaharitaki](/ayurveda-atlas/herb/chitrakaharitaki/) for digestive disorders
-- With [Pippali](/ayurveda-atlas/herb/pippali/) for Agni (digestive fire) enhancement
-- With [Vidanga](/ayurveda-atlas/herb/vidanga/) for Krimi (parasitic infection) management
+- With [Haritaki](/nighantu/herb/haritaki/) in [Chitrakaharitaki](/nighantu/herb/chitrakaharitaki/) for digestive disorders
+- With [Pippali](/nighantu/herb/pippali/) for Agni (digestive fire) enhancement
+- With [Vidanga](/nighantu/herb/vidanga/) for Krimi (parasitic infection) management
 - With Shunthi for Ama (metabolic toxin) digestion
-- With [Guduchi](/ayurveda-atlas/herb/guduchi/) for autoimmune modulation
+- With [Guduchi](/nighantu/herb/guduchi/) for autoimmune modulation

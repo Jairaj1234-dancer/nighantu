@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arkas-Distillates/Ajamoda-Arka/me
 
 | Language | Name |
 |----------|------|
-| English | Ajamoda [Arka](/ayurveda-atlas/herb/arka/)|Ajamoda Arka |
+| English | Ajamoda [Arka](/nighantu/herb/arka/)|Ajamoda Arka |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -45,11 +45,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arkas-Distillates/Ajamoda-Arka/me
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** [Arka](/ayurveda-atlas/herb/arka/) (distillate), Liquid drops (modern)
+**Dosage Forms:** [Arka](/nighantu/herb/arka/) (distillate), Liquid drops (modern)
 
 **Standard Dosage:** 15-30 mL twice daily after meals, as per AFI
 
-**Bioavailability:** [Arka](/ayurveda-atlas/herb/arka/) (distillate) form provides rapid absorption of volatile aromatic compounds through GI tract. Nano-dispersed volatile oils in aqueous medium enhance bioavailability compared to crude drug.
+**Bioavailability:** [Arka](/nighantu/herb/arka/) (distillate) form provides rapid absorption of volatile aromatic compounds through GI tract. Nano-dispersed volatile oils in aqueous medium enhance bioavailability compared to crude drug.
 
 **Optimal Timing:** After meals (Bhojana-uttara), twice daily
 
@@ -57,7 +57,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arkas-Distillates/Ajamoda-Arka/me
 
 **Storage:** Store in well-closed amber glass bottles in a cool place. Protect from direct sunlight. Temperature not exceeding 25°C. Shake well before use.
 
-**Marker Compounds:** [Thymol](/ayurveda-atlas/glossary/compounds-t-z/#thymol), [Carvacrol](/ayurveda-atlas/glossary/compounds-a-c/#carvacrol), p-Cymene, gamma-Terpinene, Apiol
+**Marker Compounds:** [Thymol](/nighantu/glossary/compounds-t-z/#thymol), [Carvacrol](/nighantu/glossary/compounds-a-c/#carvacrol), p-Cymene, gamma-Terpinene, Apiol
 
 **Quality Parameters:** pH (5.5-7.0), specific gravity, total solids, volatile oil content, clarity and colour evaluation, microbial limits, heavy metals, odour and taste evaluation, GC-MS for volatile compound profiling
 
@@ -65,7 +65,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arkas-Distillates/Ajamoda-Arka/me
 
 ### Synergistic Combinations
 
-- [Hingwashtak Churna](/ayurveda-atlas/formulation/hingwashtak-churna/)
+- [Hingwashtak Churna](/nighantu/formulation/hingwashtak-churna/)
 - Ajmodadi Churna
-- [Shankha Vati](/ayurveda-atlas/glossary/concepts-m-y/#shankha-vati)
+- [Shankha Vati](/nighantu/glossary/concepts-m-y/#shankha-vati)
 - Lavanbhaskar Churna

@@ -27,29 +27,29 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Rohitak
 
 ## Key Ingredients
 
-- [Rohitaka](/ayurveda-atlas/herb/rohitaka/) bark (Tecomella undulata)
-- [Dhataki](/ayurveda-atlas/herb/dhataki/) Pushpa (Woodfordia fruticosa)
-- [Pippali](/ayurveda-atlas/herb/pippali/) (Piper longum)
-- [Pippali](/ayurveda-atlas/herb/pippali/) Mula (Piper longum root)
-- [Chavya](/ayurveda-atlas/herb/chavya/) (Piper cubeba)
+- [Rohitaka](/nighantu/herb/rohitaka/) bark (Tecomella undulata)
+- [Dhataki](/nighantu/herb/dhataki/) Pushpa (Woodfordia fruticosa)
+- [Pippali](/nighantu/herb/pippali/) (Piper longum)
+- [Pippali](/nighantu/herb/pippali/) Mula (Piper longum root)
+- [Chavya](/nighantu/herb/chavya/) (Piper cubeba)
 - Chitraka (Plumbago zeylanica)
-- Shunthi ([Zingiber](/ayurveda-atlas/herb/zingiber/) officinale)
-- [Dalchini](/ayurveda-atlas/herb/twak-cinnamon/) (Cinnamomum zeylanicum)
+- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale)
+- [Dalchini](/nighantu/herb/twak-cinnamon/) (Cinnamomum zeylanicum)
 - Tejpat (Cinnamomum tamala)
 - Badi Elaichi (Amomum subulatum)
-- [Triphala](/ayurveda-atlas/herb/triphala/) ([Haritaki](/ayurveda-atlas/herb/haritaki/), Bahera, [Amla](/ayurveda-atlas/herb/amla/))
+- [Triphala](/nighantu/herb/triphala/) ([Haritaki](/nighantu/herb/haritaki/), Bahera, [Amla](/nighantu/herb/amla/))
 - Jaggery (fermentation medium)
 
 ## Where is it described in the classical texts?
 
-Bhaishajya Ratnavali and Charaka Samhita. [Rohitaka](/ayurveda-atlas/herb/rohitaka/) herb is classically prescribed for liver (Yakrit), blood (Rakta), and spleen (Pleeha) disorders. Also referenced in Sushruta Samhita.
+Bhaishajya Ratnavali and Charaka Samhita. [Rohitaka](/nighantu/herb/rohitaka/) herb is classically prescribed for liver (Yakrit), blood (Rakta), and spleen (Pleeha) disorders. Also referenced in Sushruta Samhita.
 
 ## How does it work?
 
-- [Hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) action through betulinic acid reduces liver enzyme elevation and promotes hepatocyte regeneration
+- [Hepatoprotective](/nighantu/reference/hepatoprotective/) action through betulinic acid reduces liver enzyme elevation and promotes hepatocyte regeneration
 - Cholagogue action increases bile flow, protecting liver and gallbladder function
 - Spleno-protective action reduces inflammation and blockage in the enlarged spleen, restoring normal function
-- Synergistic action of [Trikatu](/ayurveda-atlas/herb/trikatu/) (pungent trio) with [Rohitaka](/ayurveda-atlas/herb/rohitaka/) enhances bioavailability and deepens tissue penetration
+- Synergistic action of [Trikatu](/nighantu/herb/trikatu/) (pungent trio) with [Rohitaka](/nighantu/herb/rohitaka/) enhances bioavailability and deepens tissue penetration
 
 ## Which traditional uses are supported by research?
 
@@ -61,7 +61,7 @@ Bhaishajya Ratnavali and Charaka Samhita. [Rohitaka](/ayurveda-atlas/herb/rohita
 ## What do recent clinical trials show?
 
 - **Hepatoprotection of Tecomella undulata against experimentally induced liver injury in rats** (2019): Methanolic extract at 200 mg/kg showed significant hepatoprotective effect by lowering SGOT, SGPT, ALP, total bilirubin and cholesterol, with increased protein and albumin levels comparable to silymarin.
-- **Betulinic acid in [Rohitaka](/ayurveda-atlas/herb/rohitaka/): hepatoprotective mechanism** (2020): Hepatoprotective potential of Tecomella undulata bark is partially attributed to betulinic acid content, demonstrated through liver enzyme normalization and histological improvement.
+- **Betulinic acid in [Rohitaka](/nighantu/herb/rohitaka/): hepatoprotective mechanism** (2020): Hepatoprotective potential of Tecomella undulata bark is partially attributed to betulinic acid content, demonstrated through liver enzyme normalization and histological improvement.
 - **Ayurvedic management of splenomegaly with Rohitakarishta** (2021): Three-month Ayurvedic treatment protocol including Rohitakarishta showed effectiveness in reducing spleen size and providing relief from systemic symptoms.
 
 ## Recent safety updates
@@ -92,7 +92,7 @@ Bhaishajya Ratnavali and Charaka Samhita. [Rohitaka](/ayurveda-atlas/herb/rohita
 
 **Storage:** Room temperature, tightly sealed, away from direct sunlight. Do not refrigerate.
 
-**Marker Compounds:** Rohitukine, [Lapachol](/ayurveda-atlas/glossary/compounds-g-l/#lapachol)
+**Marker Compounds:** Rohitukine, [Lapachol](/nighantu/glossary/compounds-g-l/#lapachol)
 
 **Quality Parameters:** Alcohol content 5-12% v/v, pH 3.0-4.5, specific gravity 1.01-1.08, total solids 15-25%, marker: Rohitukine, Lapachol
 
@@ -100,4 +100,4 @@ Bhaishajya Ratnavali and Charaka Samhita. [Rohitaka](/ayurveda-atlas/herb/rohita
 
 ### Synergistic Combinations
 
-- Key herbs: [Rohitaka](/ayurveda-atlas/herb/rohitaka/) (Tecomella undulata), [Dhataki](/ayurveda-atlas/herb/dhataki/); fermentation creates unique metabolite profile with enhanced therapeutic activity
+- Key herbs: [Rohitaka](/nighantu/herb/rohitaka/) (Tecomella undulata), [Dhataki](/nighantu/herb/dhataki/); fermentation creates unique metabolite profile with enhanced therapeutic activity

@@ -45,21 +45,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kumuda/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Kashayam (decoction), Swarasa (juice of rhizome), Lepa (paste), [Ghrita](/ayurveda-atlas/herb/ghrita/) (medicated ghee), Capsule
+**Dosage Forms:** Churna (powder), Kashayam (decoction), Swarasa (juice of rhizome), Lepa (paste), [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Capsule
 
 **Standard Dosage:** 3-6 g powder twice daily; 50-100 mL decoction; 10-20 mL rhizome juice; 5-10 g medicated ghee
 
-**Bioavailability:** Similar to [Kumud](/ayurveda-atlas/herb/kumud/) — [flavonoids](/ayurveda-atlas/reference/flavonoids/) and [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) show moderate oral bioavailability. Nymphaein and nupharidine alkaloids are well-absorbed orally. Ghee-based preparations enhance bioavailability of terpenoid and flavonoid fractions. Aqueous preparations provide rapid absorption of polar [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides).
+**Bioavailability:** Similar to [Kumud](/nighantu/herb/kumud/) — [flavonoids](/nighantu/reference/flavonoids/) and [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) show moderate oral bioavailability. Nymphaein and nupharidine alkaloids are well-absorbed orally. Ghee-based preparations enhance bioavailability of terpenoid and flavonoid fractions. Aqueous preparations provide rapid absorption of polar [glycosides](/nighantu/glossary/compounds-g-l/#glycosides).
 
-**Optimal Timing:** After meals for Pitta-pacifying and cooling effects; [Ghrita](/ayurveda-atlas/herb/ghrita/) preparations: morning and evening; flower infusion: evening for calming effects
+**Optimal Timing:** After meals for Pitta-pacifying and cooling effects; [Ghrita](/nighantu/herb/ghrita/) preparations: morning and evening; flower infusion: evening for calming effects
 
-**Standardized Extract:** Rhizome extract standardized to minimum 2% total alkaloids; flower extract to minimum 1.5% total [anthocyanins](/ayurveda-atlas/glossary/compounds-1-a/#anthocyanins) (as cyanidin-3-glucoside equivalents)
+**Standardized Extract:** Rhizome extract standardized to minimum 2% total alkaloids; flower extract to minimum 1.5% total [anthocyanins](/nighantu/glossary/compounds-1-a/#anthocyanins) (as cyanidin-3-glucoside equivalents)
 
 **Shelf Life:** 18 months for dried powder; 24 months for capsules; 12 months for Ghrita; 6 months for flower preparations (pigment degradation)
 
 **Storage:** Store in airtight, light-resistant containers at 15-30°C. Flower-based preparations are particularly photosensitive — amber glass or opaque packaging required. Rhizome powder in moisture-proof containers.
 
-**Marker Compounds:** Nymphaein, Nupharidine, Nupharin, [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/)-3-O-glucoside, Cyanidin-3-glucoside, Delphinidin, [Myricetin](/ayurveda-atlas/glossary/compounds-l-o/#myricetin), Gallic acid
+**Marker Compounds:** Nymphaein, Nupharidine, Nupharin, [Quercetin](/nighantu/reference/quercetinquercetin/)-3-O-glucoside, Cyanidin-3-glucoside, Delphinidin, [Myricetin](/nighantu/glossary/compounds-l-o/#myricetin), Gallic acid
 
 ### Extraction Methods
 
@@ -71,8 +71,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kumuda/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Kamala](/ayurveda-atlas/herb/kamala/)-Kesara for cooling reproductive health formulations
-- [Kumud](/ayurveda-atlas/herb/kumud/) for complementary water lily combination
-- [Sariva](/ayurveda-atlas/herb/sariva/) for Raktapitta (bleeding disorders)
-- [Priyangu](/ayurveda-atlas/herb/priyangu/) for [hemostatic](/ayurveda-atlas/glossary/pharmacology/#hemostatic) synergy
-- [Chandana](/ayurveda-atlas/herb/chandana/) (Sandalwood) for Daha (burning sensation) management
+- [Kamala](/nighantu/herb/kamala/)-Kesara for cooling reproductive health formulations
+- [Kumud](/nighantu/herb/kumud/) for complementary water lily combination
+- [Sariva](/nighantu/herb/sariva/) for Raktapitta (bleeding disorders)
+- [Priyangu](/nighantu/herb/priyangu/) for [hemostatic](/nighantu/glossary/pharmacology/#hemostatic) synergy
+- [Chandana](/nighantu/herb/chandana/) (Sandalwood) for Daha (burning sensation) management

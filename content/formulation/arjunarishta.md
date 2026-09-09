@@ -27,22 +27,22 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Arjunar
 
 ## Key Ingredients
 
-- [Arjuna](/ayurveda-atlas/herb/arjuna/) bark (Terminalia [arjuna](/ayurveda-atlas/herb/arjuna/))
-- [Draksha](/ayurveda-atlas/herb/draksha/) (Vitis vinifera / Dry grapes)
-- [Madhuka](/ayurveda-atlas/herb/madhuka/) (Madhuca longifolia)
-- [Dhataki](/ayurveda-atlas/herb/dhataki/) pushpa (Woodfordia fruticosa)
+- [Arjuna](/nighantu/herb/arjuna/) bark (Terminalia [arjuna](/nighantu/herb/arjuna/))
+- [Draksha](/nighantu/herb/draksha/) (Vitis vinifera / Dry grapes)
+- [Madhuka](/nighantu/herb/madhuka/) (Madhuca longifolia)
+- [Dhataki](/nighantu/herb/dhataki/) pushpa (Woodfordia fruticosa)
 - Mahua flowers
 - Jaggery (fermentation medium)
 - Water
 
 ## Where is it described in the classical texts?
 
-Charaka Samhita (1st-2nd century CE) and Sushruta Samhita (3rd-4th century CE), where it is described as [Arjuna](/ayurveda-atlas/herb/arjuna/) Asava for strengthening the heart and enhancing stamina. [Arjuna](/ayurveda-atlas/herb/arjuna/) is praised as Hridya (cardiac tonic) in classical texts.
+Charaka Samhita (1st-2nd century CE) and Sushruta Samhita (3rd-4th century CE), where it is described as [Arjuna](/nighantu/herb/arjuna/) Asava for strengthening the heart and enhancing stamina. [Arjuna](/nighantu/herb/arjuna/) is praised as Hridya (cardiac tonic) in classical texts.
 
 ## How does it work?
 
-- [Cardioprotective](/ayurveda-atlas/reference/cardioprotective/) action through [flavonoids](/ayurveda-atlas/reference/flavonoids/), [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) ([arjunetin](/ayurveda-atlas/glossary/compounds-1-a/#arjunetin), arjunolic acid), and coenzyme Q10 protecting myocardial cells
-- [Antioxidant](/ayurveda-atlas/reference/antioxidant/) activity (ellagic acid, gallic acid, [quercetin](/ayurveda-atlas/reference/quercetinquercetin/), [kaempferol](/ayurveda-atlas/reference/kaempferol/)) prevents oxidative damage to cardiac tissue
+- [Cardioprotective](/nighantu/reference/cardioprotective/) action through [flavonoids](/nighantu/reference/flavonoids/), [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) ([arjunetin](/nighantu/glossary/compounds-1-a/#arjunetin), arjunolic acid), and coenzyme Q10 protecting myocardial cells
+- [Antioxidant](/nighantu/reference/antioxidant/) activity (ellagic acid, gallic acid, [quercetin](/nighantu/reference/quercetinquercetin/), [kaempferol](/nighantu/reference/kaempferol/)) prevents oxidative damage to cardiac tissue
 - Anti-hypertensive effect through mild ACE inhibition and vasodilation
 - Myocardial calcium channel stabilization provides antiarrhythmic effects and reduces left ventricle hypertrophy
 
@@ -51,18 +51,18 @@ Charaka Samhita (1st-2nd century CE) and Sushruta Samhita (3rd-4th century CE), 
 - Heart tonic (Hridya) - validated by cardioprotective studies showing reduced post-ischemic damage
 - Cardiac weakness and palpitations - supported by antiarrhythmic and calcium channel stabilization research
 - Hypertension management - corroborated by ACE inhibition and vasodilatory mechanisms
-- Hyperlipidemia - traditional use supported by antioxidant profile and lipid-lowering properties of [Arjuna](/ayurveda-atlas/herb/arjuna/)
+- Hyperlipidemia - traditional use supported by antioxidant profile and lipid-lowering properties of [Arjuna](/nighantu/herb/arjuna/)
 
 ## What do recent clinical trials show?
 
-- **Cardioprotective effects of Terminalia [arjuna](/ayurveda-atlas/herb/arjuna/) extract post-ischemia** (2019): Study in Journal of Ethnopharmacology showed [Arjuna](/ayurveda-atlas/herb/arjuna/) bark extract reduces cardiac cell damage in post-ischemic models through antioxidant and membrane-stabilizing effects.
-- **HPLC Analysis and Standardization of Arjunarishta** (2020): Developed HPLC-PDA method for standardization using ellagic acid, gallic acid, ethyl gallate, [quercetin](/ayurveda-atlas/reference/quercetinquercetin/), and kaempferol as marker compounds, confirming antioxidant profile.
-- **Cardiac remodeling and antiarrhythmic effects of [Arjuna](/ayurveda-atlas/herb/arjuna/) bark extracts** (2021): Animal model studies showed reduced left ventricle hypertrophy and antiarrhythmic potential through stabilizing effects on myocardial calcium channels.
+- **Cardioprotective effects of Terminalia [arjuna](/nighantu/herb/arjuna/) extract post-ischemia** (2019): Study in Journal of Ethnopharmacology showed [Arjuna](/nighantu/herb/arjuna/) bark extract reduces cardiac cell damage in post-ischemic models through antioxidant and membrane-stabilizing effects.
+- **HPLC Analysis and Standardization of Arjunarishta** (2020): Developed HPLC-PDA method for standardization using ellagic acid, gallic acid, ethyl gallate, [quercetin](/nighantu/reference/quercetinquercetin/), and kaempferol as marker compounds, confirming antioxidant profile.
+- **Cardiac remodeling and antiarrhythmic effects of [Arjuna](/nighantu/herb/arjuna/) bark extracts** (2021): Animal model studies showed reduced left ventricle hypertrophy and antiarrhythmic potential through stabilizing effects on myocardial calcium channels.
 
 ## Recent safety updates
 
 - Generally well-tolerated. Contains 5-10% self-generated alcohol. Should be used cautiously in patients on cardiac medications (digoxin, beta-blockers, calcium channel blockers) due to potential interactions.
-- May potentiate [antihypertensive](/ayurveda-atlas/glossary/pharmacology/#antihypertensive) drugs leading to excessive blood pressure reduction. Patients with hypotension should use with caution. Not recommended during pregnancy.
+- May potentiate [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive) drugs leading to excessive blood pressure reduction. Patients with hypotension should use with caution. Not recommended during pregnancy.
 
 ## What is it made of?
 
@@ -79,7 +79,7 @@ Charaka Samhita (1st-2nd century CE) and Sushruta Samhita (3rd-4th century CE), 
 
 **Standard Dosage:** 15-30 mL twice daily after meals with equal water, as per AFI Part I
 
-**Bioavailability:** Alcohol base enhances absorption of arjunic acid and arjungenin (triterpene [saponins](/ayurveda-atlas/reference/saponins/)). Fermentation generates bioactive metabolites with improved cardiac bioavailability. [Tannins](/ayurveda-atlas/reference/tannins/) provide sustained-release cardioprotective activity.
+**Bioavailability:** Alcohol base enhances absorption of arjunic acid and arjungenin (triterpene [saponins](/nighantu/reference/saponins/)). Fermentation generates bioactive metabolites with improved cardiac bioavailability. [Tannins](/nighantu/reference/tannins/) provide sustained-release cardioprotective activity.
 
 **Optimal Timing:** After meals, twice daily, preferably morning and evening for cardiac indications
 
@@ -95,7 +95,7 @@ Charaka Samhita (1st-2nd century CE) and Sushruta Samhita (3rd-4th century CE), 
 
 ### Synergistic Combinations
 
-- [Pushyanuga Churna](/ayurveda-atlas/formulation/pushyanuga-churna/)
+- [Pushyanuga Churna](/nighantu/formulation/pushyanuga-churna/)
 - Hridayarnava Rasa
 - Prabhakara Vati
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) Churna for cardio-[adaptogenic](/ayurveda-atlas/reference/adaptogenic/) synergy
+- [Ashwagandha](/nighantu/herb/ashwagandha/) Churna for cardio-[adaptogenic](/nighantu/reference/adaptogenic/) synergy

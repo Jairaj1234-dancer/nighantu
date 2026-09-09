@@ -29,29 +29,29 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Danti/meta-analysis.md"
 ## Key Phytochemical Constituents
 
 - Phorbol esters (diterpene esters - purgative principle)
-- [Alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) (6.2-9.5%)
-- [Flavonoids](/ayurveda-atlas/reference/flavonoids/) (35.63-43.33%)
+- [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) (6.2-9.5%)
+- [Flavonoids](/nighantu/reference/flavonoids/) (35.63-43.33%)
 - Phenolics (38.43-43.44%)
-- [Tannins](/ayurveda-atlas/reference/tannins/) (13.26-18.3%)
-- [Terpenoids](/ayurveda-atlas/glossary/compounds-t-z/#terpenoids) (25.36-33.4%) and [saponins](/ayurveda-atlas/reference/saponins/) (9.9-13.2%)
+- [Tannins](/nighantu/reference/tannins/) (13.26-18.3%)
+- [Terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids) (25.36-33.4%) and [saponins](/nighantu/reference/saponins/) (9.9-13.2%)
 
 ## How does it work?
 
 - Purgative (Virechana) action through phorbol ester-mediated stimulation of intestinal secretion and peristalsis via protein kinase C activation
-- [Anticancer](/ayurveda-atlas/reference/anticancer/) activity via induction of apoptosis and cell cycle arrest in cancer cell lines by terpenoid and flavonoid fractions
-- [Hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) effect through phenolic and flavonoid-mediated [antioxidant](/ayurveda-atlas/reference/antioxidant/) protection and restoration of liver enzyme levels
-- [Immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) action through stimulation of both humoral and cell-mediated immune responses
+- [Anticancer](/nighantu/reference/anticancer/) activity via induction of apoptosis and cell cycle arrest in cancer cell lines by terpenoid and flavonoid fractions
+- [Hepatoprotective](/nighantu/reference/hepatoprotective/) effect through phenolic and flavonoid-mediated [antioxidant](/nighantu/reference/antioxidant/) protection and restoration of liver enzyme levels
+- [Immunomodulatory](/nighantu/reference/immunomodulatory/) action through stimulation of both humoral and cell-mediated immune responses
 
 ## Which traditional uses are supported by research?
 
-- Strong purgative (Tikshna Virechana) - validated through phorbol ester-mediated stimulant [laxative](/ayurveda-atlas/reference/laxative/) mechanism; used in Panchakarma Virechana therapy
-- Skin diseases and leprosy (Kushtha) - [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) and anti-inflammatory data support traditional dermatological use
+- Strong purgative (Tikshna Virechana) - validated through phorbol ester-mediated stimulant [laxative](/nighantu/reference/laxative/) mechanism; used in Panchakarma Virechana therapy
+- Skin diseases and leprosy (Kushtha) - [antimicrobial](/nighantu/reference/antimicrobial/) and anti-inflammatory data support traditional dermatological use
 - Anti-helminthic (Krimighna) - confirmed in vitro anthelmintic activity against Pheretima posthuma
-- Anti-dropsy and edema (Shotha-hara) - traditional use supported by [diuretic](/ayurveda-atlas/reference/diuretic/) and anti-inflammatory pharmacological data
+- Anti-dropsy and edema (Shotha-hara) - traditional use supported by [diuretic](/nighantu/reference/diuretic/) and anti-inflammatory pharmacological data
 
 ## What do recent clinical trials show?
 
-- **A Review on Pharmacological activities and Medicinal properties of Baliospermum montanum** (2023): Comprehensive review documenting anticancer, antimicrobial, antifungal, antioxidant, immunomodulatory, hepatoprotective, [antidiabetic](/ayurveda-atlas/reference/antidiabetic/), and anti-inflammatory activities across multiple plant parts.
+- **A Review on Pharmacological activities and Medicinal properties of Baliospermum montanum** (2023): Comprehensive review documenting anticancer, antimicrobial, antifungal, antioxidant, immunomodulatory, hepatoprotective, [antidiabetic](/nighantu/reference/antidiabetic/), and anti-inflammatory activities across multiple plant parts.
 - **Bioactive compounds guided diversity of endophytic fungi from Baliospermum montanum** (2024): Explored endophytic fungi from B. montanum as sources of bioactive compounds, identifying novel antimicrobial and anticancer metabolites produced by fungal endophytes.
 - **Baliospermum montanum (Danti): Ethnobotany, phytochemistry and pharmacology - A review** (2023): Established quantitative phytochemical profile across plant parts (root, stem, leaf, flower, latex) with highest flavonoid and phenolic content in leaves.
 
@@ -75,7 +75,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Danti/meta-analysis.md"
 
 **Standard Dosage:** 1-3g powder as purgative (single dose); 500mg-1g for mild laxative effect; use under practitioner supervision due to potent action
 
-**Bioavailability:** Contains phorbol esters and diterpenoids with moderate oral bioavailability. The resinous purgative principles are released in the GI tract and act locally on intestinal mucosa. Systemic absorption of toxic [diterpenes](/ayurveda-atlas/glossary/compounds-d-g/#diterpenes) can cause adverse effects at high doses. Co-processing with Shodhan (purification with cow's milk or Kanji) reduces toxic constituents while preserving laxative activity. No significant enhancement strategies needed for purgative action as local GI activity is the target.
+**Bioavailability:** Contains phorbol esters and diterpenoids with moderate oral bioavailability. The resinous purgative principles are released in the GI tract and act locally on intestinal mucosa. Systemic absorption of toxic [diterpenes](/nighantu/glossary/compounds-d-g/#diterpenes) can cause adverse effects at high doses. Co-processing with Shodhan (purification with cow's milk or Kanji) reduces toxic constituents while preserving laxative activity. No significant enhancement strategies needed for purgative action as local GI activity is the target.
 
 **Optimal Timing:** Early morning on empty stomach with warm water for purgative action; at bedtime for milder laxative effect
 
@@ -85,7 +85,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Danti/meta-analysis.md"
 
 **Storage:** Store in airtight, light-resistant containers below 25 deg C. Label must clearly state 'Shodhita' (purified) and carry appropriate caution warnings. Keep out of reach of children.
 
-**Marker Compounds:** 12-Deoxyphorbol esters (for toxicity monitoring, must be reduced post-Shodhana), [Montanin](/ayurveda-atlas/glossary/compounds-l-o/#montanin), Baliospermin, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
+**Marker Compounds:** 12-Deoxyphorbol esters (for toxicity monitoring, must be reduced post-Shodhana), [Montanin](/nighantu/glossary/compounds-l-o/#montanin), Baliospermin, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
 
 ### Extraction Methods
 
@@ -96,7 +96,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Danti/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Trivrit](/ayurveda-atlas/herb/trivrit/) (Operculina turpethum) in [Avipattikar](/ayurveda-atlas/herb/avipattikar/) Churna for graded purgation
-- With [Haritaki](/ayurveda-atlas/herb/haritaki/) for balanced bowel regulation
-- With Sunthi ([ginger](/ayurveda-atlas/herb/ginger/)) to reduce griping pain during purgation
-- With [Yavani](/ayurveda-atlas/herb/yavani/) (Trachyspermum) to prevent colic
+- With [Trivrit](/nighantu/herb/trivrit/) (Operculina turpethum) in [Avipattikar](/nighantu/herb/avipattikar/) Churna for graded purgation
+- With [Haritaki](/nighantu/herb/haritaki/) for balanced bowel regulation
+- With Sunthi ([ginger](/nighantu/herb/ginger/)) to reduce griping pain during purgation
+- With [Yavani](/nighantu/herb/yavani/) (Trachyspermum) to prevent colic

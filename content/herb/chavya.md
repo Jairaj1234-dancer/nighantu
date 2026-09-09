@@ -28,32 +28,32 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chavya/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Piperine](/ayurveda-atlas/reference/piperine/)
+- [Piperine](/nighantu/reference/piperine/)
 - Retrofractamide A
 - Retrofractamide C
-- [Piperlongumine](/ayurveda-atlas/glossary/compounds-o-q/#piperlongumine) (piplartine)
+- [Piperlongumine](/nighantu/glossary/compounds-o-q/#piperlongumine) (piplartine)
 - Chabamide
-- [Pellitorine](/ayurveda-atlas/glossary/compounds-o-q/#pellitorine)
+- [Pellitorine](/nighantu/glossary/compounds-o-q/#pellitorine)
 - Guineensine
 - Methyl piperate
 
 ## How does it work?
 
 - Bioavailability enhancement: Piperine inhibits hepatic CYP3A4 and intestinal P-glycoprotein, increasing oral bioavailability of co-administered compounds
-- Anti-obesity: Piperidine [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) activate AMPK pathway, promoting fatty acid oxidation and inhibiting lipogenesis in adipocytes
-- [Anticancer](/ayurveda-atlas/reference/anticancer/): Piperlongumine induces ROS-mediated apoptosis selectively in cancer cells through glutathione S-transferase pi 1 (GSTP1) inhibition
+- Anti-obesity: Piperidine [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) activate AMPK pathway, promoting fatty acid oxidation and inhibiting lipogenesis in adipocytes
+- [Anticancer](/nighantu/reference/anticancer/): Piperlongumine induces ROS-mediated apoptosis selectively in cancer cells through glutathione S-transferase pi 1 (GSTP1) inhibition
 
 ## Which traditional uses are supported by research?
 
 - Digestive stimulant (Deepana-Pachana) validated by enhancement of gastric acid and enzyme secretion in animal models
-- Bioenhancer activity confirmed by increased bioavailability of [curcumin](/ayurveda-atlas/herb/curcumin/), rifampicin, and other drugs when co-administered with piperine
+- Bioenhancer activity confirmed by increased bioavailability of [curcumin](/nighantu/herb/curcumin/), rifampicin, and other drugs when co-administered with piperine
 - Anti-obesity use supported by AMPK activation and lipid metabolism modulation in preclinical studies
 
 ## What do recent clinical trials show?
 
 - **Bioactive Compounds of Piper chaba and Their Pharmacological Relevance: A Phytochemistry-Focused Review** (2025): Identified over 100 bioactive compounds; chabamides and piplartine show promising therapeutic properties through modulation of cellular redox balance and apoptosis induction in cancer models.
 - **Piperidine Alkaloids from Piper retrofractum Protect Against High-fat Diet-induced Obesity** (2023): Piperidine alkaloids regulated lipid metabolism and activated AMP-activated protein kinase (AMPK), reducing fat accumulation in high-fat diet mouse models.
-- **Utilization and Bioactivity of Java Long Pepper (Piper retrofractum Vahl)** (2021): Documented [antioxidant](/ayurveda-atlas/reference/antioxidant/), [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/), cytotoxic, larvicidal, antitubercular, and anti-obesity properties of multiple phytoconstituent classes.
+- **Utilization and Bioactivity of Java Long Pepper (Piper retrofractum Vahl)** (2021): Documented [antioxidant](/nighantu/reference/antioxidant/), [hepatoprotective](/nighantu/reference/hepatoprotective/), cytotoxic, larvicidal, antitubercular, and anti-obesity properties of multiple phytoconstituent classes.
 
 ## Recent safety updates
 
@@ -79,11 +79,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chavya/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Tablet, Capsule, Kashayam (decoction), Component of [Trikatu](/ayurveda-atlas/herb/trikatu/) and digestive formulations
+**Dosage Forms:** Churna (powder), Tablet, Capsule, Kashayam (decoction), Component of [Trikatu](/nighantu/herb/trikatu/) and digestive formulations
 
 **Standard Dosage:** 1-3g powder twice daily with warm water; 500mg extract capsule; 50-100ml decoction; commonly used as part of compound digestive formulations
 
-**Bioavailability:** Piper chaba/P. retrofractum root and stem—piperine alkaloids show excellent oral bioavailability (>80%). Root contains higher concentration of piperlongumine compared to fruit. Thermogenic and bioenhancer properties identical to [Chavika](/ayurveda-atlas/herb/chavika/) (fruit of the same species). Enhances bioavailability of co-administered compounds through CYP3A4 and P-gp modulation.
+**Bioavailability:** Piper chaba/P. retrofractum root and stem—piperine alkaloids show excellent oral bioavailability (>80%). Root contains higher concentration of piperlongumine compared to fruit. Thermogenic and bioenhancer properties identical to [Chavika](/nighantu/herb/chavika/) (fruit of the same species). Enhances bioavailability of co-administered compounds through CYP3A4 and P-gp modulation.
 
 **Optimal Timing:** Before meals with warm water for digestive stimulation; with meals for enhanced nutrient absorption; not recommended at bedtime due to stimulant properties
 
@@ -93,7 +93,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chavya/meta-analysis.md"
 
 **Storage:** Airtight containers in cool, dry conditions. Protect from moisture. Separate from aromatic-sensitive products.
 
-**Marker Compounds:** Piperine, Piperlongumine, [Pipernonaline](/ayurveda-atlas/glossary/compounds-o-q/#pipernonaline), [Piperlonguminine](/ayurveda-atlas/glossary/compounds-o-q/#piperlonguminine), Retrofractamide A, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
+**Marker Compounds:** Piperine, Piperlongumine, [Pipernonaline](/nighantu/glossary/compounds-o-q/#pipernonaline), [Piperlonguminine](/nighantu/glossary/compounds-o-q/#piperlonguminine), Retrofractamide A, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
 
 ### Extraction Methods
 
@@ -104,8 +104,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chavya/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With Chitraka and [Pippali](/ayurveda-atlas/herb/pippali/) for potent Agni (digestive fire) formulations
-- With [Trikatu](/ayurveda-atlas/herb/trikatu/) ingredients for enhanced digestion
-- With [Haritaki](/ayurveda-atlas/herb/haritaki/) for Deepana-Pachana (appetizer-digestive) combinations
-- With [Vidanga](/ayurveda-atlas/herb/vidanga/) for anthelmintic formulations
+- With Chitraka and [Pippali](/nighantu/herb/pippali/) for potent Agni (digestive fire) formulations
+- With [Trikatu](/nighantu/herb/trikatu/) ingredients for enhanced digestion
+- With [Haritaki](/nighantu/herb/haritaki/) for Deepana-Pachana (appetizer-digestive) combinations
+- With [Vidanga](/nighantu/herb/vidanga/) for anthelmintic formulations
 - With Shunthi for Ama (metabolic toxin) digestion

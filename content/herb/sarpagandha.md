@@ -30,7 +30,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sarpagandha/meta-analysis.md"
 
 - Reserpine
 - Ajmaline
-- [Ajmalicine](/ayurveda-atlas/glossary/compounds-1-a/#ajmalicine) (raubasine)
+- [Ajmalicine](/nighantu/glossary/compounds-1-a/#ajmalicine) (raubasine)
 - Serpentine
 - Yohimbine
 - Rescinnamine
@@ -40,18 +40,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sarpagandha/meta-analysis.md"
 ## How does it work?
 
 - Antihypertensive: Reserpine irreversibly inhibits vesicular monoamine transporter 2 (VMAT2), depleting catecholamine (norepinephrine, dopamine) stores in sympathetic nerve terminals, reducing peripheral vascular resistance
-- Sedative/Antipsychotic: Central depletion of monoamines (dopamine, [serotonin](/ayurveda-atlas/glossary/compounds-q-t/#serotonin), norepinephrine) produces tranquilizing effect; historically used before synthetic antipsychotics
+- Sedative/Antipsychotic: Central depletion of monoamines (dopamine, [serotonin](/nighantu/glossary/compounds-q-t/#serotonin), norepinephrine) produces tranquilizing effect; historically used before synthetic antipsychotics
 - Anti-arrhythmic: Ajmaline blocks sodium channels (Class Ia antiarrhythmic), prolonging cardiac action potential and effective refractory period
 
 ## Which traditional uses are supported by research?
 
 - Antihypertensive use (Raktachapa-hara) extensively validated; reserpine was one of the first effective antihypertensive drugs used in Western medicine
-- Sedative and [anxiolytic](/ayurveda-atlas/reference/anxiolytic/) use (Nidrajanana) confirmed through VMAT2 inhibition and central monoamine depletion mechanism
+- Sedative and [anxiolytic](/nighantu/reference/anxiolytic/) use (Nidrajanana) confirmed through VMAT2 inhibition and central monoamine depletion mechanism
 - Anti-arrhythmic use validated: ajmaline is still used clinically in the Ajmaline test for diagnosis of Brugada syndrome
 
 ## What do recent clinical trials show?
 
-- **Rauwolfia serpentina: A Comprehensive Review of its Chemistry and Traditional Uses** (2024): Identified over 50 [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids); reserpine confirmed as principal antihypertensive alkaloid; comprehensive review of CNS-active compounds for anxiety, schizophrenia, and insomnia.
+- **Rauwolfia serpentina: A Comprehensive Review of its Chemistry and Traditional Uses** (2024): Identified over 50 [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids); reserpine confirmed as principal antihypertensive alkaloid; comprehensive review of CNS-active compounds for anxiety, schizophrenia, and insomnia.
 - **Rauwolfia Serpentina: Phytochemistry, Mechanisms of Action and Modern Applications** (2025): Updated review documenting molecular mechanisms of reserpine including vesicular monoamine transporter (VMAT) inhibition and its relevance to modern psychiatric pharmacotherapy.
 - **Exploring the Riches of Rauvolfia serpentina: Botany, Pharmacology, and Conservation Perspectives** (2024): Documented conservation crisis with IUCN endangered status and CITES Appendix II listing; proposed in situ and ex situ conservation strategies including tissue culture propagation.
 
@@ -103,7 +103,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sarpagandha/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Jatamansi](/ayurveda-atlas/herb/jatamansi/) (antihypertensive synergy with anxiolytic benefit)
-- [Shankhpushpi](/ayurveda-atlas/herb/shankhpushpi/) (calming and blood pressure-lowering combination)
-- [Brahmi](/ayurveda-atlas/herb/brahmi/) (cognitive support with anti-anxiety action)
-- [Arjuna](/ayurveda-atlas/herb/arjuna/) (comprehensive cardiovascular formulation)
+- [Jatamansi](/nighantu/herb/jatamansi/) (antihypertensive synergy with anxiolytic benefit)
+- [Shankhpushpi](/nighantu/herb/shankhpushpi/) (calming and blood pressure-lowering combination)
+- [Brahmi](/nighantu/herb/brahmi/) (cognitive support with anti-anxiety action)
+- [Arjuna](/nighantu/herb/arjuna/) (comprehensive cardiovascular formulation)

@@ -19,15 +19,15 @@ productHints: []
 words: 185
 srcRel: "Ayurveda/Medical-Devices/Preparation-and-Pharmaceutical-Equipment/Distillation-Apparatus-ArkaHydrosol-Distiller/device-info.md"
 ---
-A traditional distillation apparatus used for preparing [Arka](/ayurveda-atlas/herb/arka/) (hydrosol/distilled herbal water). Consists of an earthen or metal pot (Ghata) with a lid that has a collection pipe (Nala), a condenser arrangement, and a collection vessel. Herbal material and water are placed in the lower pot and heated.
+A traditional distillation apparatus used for preparing [Arka](/nighantu/herb/arka/) (hydrosol/distilled herbal water). Consists of an earthen or metal pot (Ghata) with a lid that has a collection pipe (Nala), a condenser arrangement, and a collection vessel. Herbal material and water are placed in the lower pot and heated.
 
 ## Where is it described in the classical texts?
 
-Sharangdhara Samhita Madhyama Khanda Chapter 9 ([Arka](/ayurveda-atlas/herb/arka/) Prakarana); Rasa Tarangini; Bhavaprakasha. [Arka](/ayurveda-atlas/herb/arka/) Kalpana is one of the unique pharmaceutical preparations of Ayurveda.
+Sharangdhara Samhita Madhyama Khanda Chapter 9 ([Arka](/nighantu/herb/arka/) Prakarana); Rasa Tarangini; Bhavaprakasha. [Arka](/nighantu/herb/arka/) Kalpana is one of the unique pharmaceutical preparations of Ayurveda.
 
 ## How is it used traditionally?
 
-Preparation of [Arka](/ayurveda-atlas/herb/arka/) (distilled herbal waters/hydrosols) such as [Ajwain](/ayurveda-atlas/herb/ajwain/) [Arka](/ayurveda-atlas/herb/arka/) (for digestion), Gulab [Arka](/ayurveda-atlas/herb/arka/) (rose water for eyes), [Pudina](/ayurveda-atlas/herb/pudina/) Arka (for stomach), etc. Essential oils and aromatic waters are by-products.
+Preparation of [Arka](/nighantu/herb/arka/) (distilled herbal waters/hydrosols) such as [Ajwain](/nighantu/herb/ajwain/) [Arka](/nighantu/herb/arka/) (for digestion), Gulab [Arka](/nighantu/herb/arka/) (rose water for eyes), [Pudina](/nighantu/herb/pudina/) Arka (for stomach), etc. Essential oils and aromatic waters are by-products.
 
 ## Traditional materials
 

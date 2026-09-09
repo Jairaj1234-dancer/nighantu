@@ -28,11 +28,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Haritaki/meta-analysis.md"
 ## How does it work?
 
 - Rich in phenolcarboxylic and tannic antioxidants (chebulagic acid, chebulinic acid, gallic acid, ellagic acid) that prevent oxidative stress and inhibit peroxide-induced reactions.
-- Chebulagic acid and chebulinic acid exert [antioxidant](/ayurveda-atlas/reference/antioxidant/) effects via ROS scavenging and iron chelation.
-- [Neuroprotective](/ayurveda-atlas/reference/neuroprotective/): ellagic acid-containing extracts protect against H2O2-induced and amyloid-beta (Abeta25-35) toxicity in PC12 cells.
+- Chebulagic acid and chebulinic acid exert [antioxidant](/nighantu/reference/antioxidant/) effects via ROS scavenging and iron chelation.
+- [Neuroprotective](/nighantu/reference/neuroprotective/): ellagic acid-containing extracts protect against H2O2-induced and amyloid-beta (Abeta25-35) toxicity in PC12 cells.
 - Anti-inflammatory effects attributed to chebulagic and gallic acid inhibition of inflammatory pathways.
-- Gallic acid and ellagic acid inhibit cytochrome P450 [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes) and protect against mitochondrial dysfunction by increasing Cytochrome C oxidase levels.
-- [Antimicrobial](/ayurveda-atlas/reference/antimicrobial/) activity through tannin-mediated disruption of microbial cell membranes and enzyme inhibition.
+- Gallic acid and ellagic acid inhibit cytochrome P450 [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) and protect against mitochondrial dysfunction by increasing Cytochrome C oxidase levels.
+- [Antimicrobial](/nighantu/reference/antimicrobial/) activity through tannin-mediated disruption of microbial cell membranes and enzyme inhibition.
 
 ## Modern Research (Meta-Analysis)
 
@@ -64,7 +64,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Haritaki/meta-analysis.md"
 **Journal:** Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica (2016)
 **PMID:** 28871682
 
-> Terminalia chebula Retz, known as the "king" of Mongolian and Tibetan medicines, is a drug for a wide range of diseases. The main chemical components of myrobalan include triterpene acid, galloyl [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose), anthraquinonoid. The modern pharmacological studies show that myrobalan has multiple biological activities, including antimicrobial, anti-inflammatory, antioxidation as well as anti-tumor. Based on domestic and foreign literatures in recent years, this paper gave a review on the advance of studies for pharmacological activity of T. chebula. and its active components, so as to provide a reference for the in-depth studies on the pharmacological action of myrobalan, and the further development and utilization of myrobalan....
+> Terminalia chebula Retz, known as the "king" of Mongolian and Tibetan medicines, is a drug for a wide range of diseases. The main chemical components of myrobalan include triterpene acid, galloyl [glucose](/nighantu/glossary/compounds-d-g/#glucose), anthraquinonoid. The modern pharmacological studies show that myrobalan has multiple biological activities, including antimicrobial, anti-inflammatory, antioxidation as well as anti-tumor. Based on domestic and foreign literatures in recent years, this paper gave a review on the advance of studies for pharmacological activity of T. chebula. and its active components, so as to provide a reference for the in-depth studies on the pharmacological action of myrobalan, and the further development and utilization of myrobalan....
 
 **Keywords:** Terminalia chebula, anti-tumor, chebulagic acid, pharmacological activity
 
@@ -74,7 +74,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Haritaki/meta-analysis.md"
 **Journal:** Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan (2016)
 **PMID:** 27400482
 
-> Terminalia chebula (family: [Combretaceae](/ayurveda-atlas/glossary/plant-families/#combretaceae)) is widely used in the traditional medicine of India and Iran to treat diseases that include dementia, constipation, and diabetes. This tree is known in Iranian traditional medicine (ITM) as halileh or halilaj and the fruit is used to develop treatments. It is described in ITM as an astringent that has a "cold" and "dry" temperament. References to the medicinal properties of Terminalia chebula were collected from important ITM sources and from modern medical databases (PubMed, Scirus, ScienceDirect, and Scopus). The medicinal properties described for this tree in ITM were compared with those reported in studies of modern phytotherapy. The results confirm that the tree referred to as halileh in traditional books is the Terminalia chebula used in pres...
+> Terminalia chebula (family: [Combretaceae](/nighantu/glossary/plant-families/#combretaceae)) is widely used in the traditional medicine of India and Iran to treat diseases that include dementia, constipation, and diabetes. This tree is known in Iranian traditional medicine (ITM) as halileh or halilaj and the fruit is used to develop treatments. It is described in ITM as an astringent that has a "cold" and "dry" temperament. References to the medicinal properties of Terminalia chebula were collected from important ITM sources and from modern medical databases (PubMed, Scirus, ScienceDirect, and Scopus). The medicinal properties described for this tree in ITM were compared with those reported in studies of modern phytotherapy. The results confirm that the tree referred to as halileh in traditional books is the Terminalia chebula used in pres...
 
 #### 5. The potential of 
 
@@ -92,13 +92,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Haritaki/meta-analysis.md"
 
 **Keywords:** Haritaki, Myrobalan, Pharmacological activities, Phytochemistry, Terminalia chebula
 
-#### 7. [Hypolipidemic](/ayurveda-atlas/glossary/pharmacology/#hypolipidemic) activity of haritaki (terminalia chebula) in atherogenic diet induced hyperlipidemic rats.
+#### 7. [Hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic) activity of haritaki (terminalia chebula) in atherogenic diet induced hyperlipidemic rats.
 
 **Authors:** Maruthappan V, Shree K Sakthi
 **Journal:** Journal of advanced pharmaceutical technology & research (2010)
 **PMID:** 22247850
 
-> Haritaki (Terminalia chebula) family Combretaceae is an important plant used traditionally for medicinal purposes. It is component of the classic Ayurvedic combination called "[Triphala](/ayurveda-atlas/herb/triphala/)". Hyperlipidemia was induced by treated orally with atherogemc diet. In atherogenic diet induced hyperlipidemic model, the rats receiving treatment with Haritaki showed significant reduction in total cholesterol, triglycerides, total protein and elevation of high density lipoprotein cholesterol. Haritaki was found to possess significant hypolipidemic activity. The results also suggest that Haritaki at 1.05 and 2.10 mg/kg b.wt. concentrations are an excellent lipid-lowering agent....
+> Haritaki (Terminalia chebula) family Combretaceae is an important plant used traditionally for medicinal purposes. It is component of the classic Ayurvedic combination called "[Triphala](/nighantu/herb/triphala/)". Hyperlipidemia was induced by treated orally with atherogemc diet. In atherogenic diet induced hyperlipidemic model, the rats receiving treatment with Haritaki showed significant reduction in total cholesterol, triglycerides, total protein and elevation of high density lipoprotein cholesterol. Haritaki was found to possess significant hypolipidemic activity. The results also suggest that Haritaki at 1.05 and 2.10 mg/kg b.wt. concentrations are an excellent lipid-lowering agent....
 
 **Keywords:** Cholesterol, Haritaki, Hyperlipidemic, Triglyceride
 
@@ -108,7 +108,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Haritaki/meta-analysis.md"
 **Journal:** Phytotherapy research : PTR (2020)
 **PMID:** 32307775
 
-> Fruits of Terminalia chebula Retz. (Combretaceae) are widely used as crude drugs in various traditional medicine systems. The aim of this article is to review the available scientific information regarding the traditional uses, bioactive chemical constituents and the pharmacological activities of T. chebula. Numerous researches conducted on T. chebula have confirmed the presence of wide range of the phytochemicals such as [flavonoids](/ayurveda-atlas/reference/flavonoids/), [tannins](/ayurveda-atlas/reference/tannins/), phenolic acids and other bioactive compounds. T. chebula is also widely studied regarding its pharmacological activities such as antioxidant, [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/), neuroprotective, cytotoxic, [antidiabetic](/ayurveda-atlas/reference/antidiabetic/), anti-inflammatory activities among others. However, more in vivo and clinical studies for mechanism-based pharmacological evaluation should be conducte...
+> Fruits of Terminalia chebula Retz. (Combretaceae) are widely used as crude drugs in various traditional medicine systems. The aim of this article is to review the available scientific information regarding the traditional uses, bioactive chemical constituents and the pharmacological activities of T. chebula. Numerous researches conducted on T. chebula have confirmed the presence of wide range of the phytochemicals such as [flavonoids](/nighantu/reference/flavonoids/), [tannins](/nighantu/reference/tannins/), phenolic acids and other bioactive compounds. T. chebula is also widely studied regarding its pharmacological activities such as antioxidant, [hepatoprotective](/nighantu/reference/hepatoprotective/), neuroprotective, cytotoxic, [antidiabetic](/nighantu/reference/antidiabetic/), anti-inflammatory activities among others. However, more in vivo and clinical studies for mechanism-based pharmacological evaluation should be conducte...
 
 **Keywords:** Combretaceae, Terminalia chebula, antioxidants, bioactivity, phenolic acids, tannins
 
@@ -118,7 +118,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Haritaki/meta-analysis.md"
 - **Potential of Terminalia chebula in alleviating mild cognitive impairment: a review** (2024): Comprehensive review identified 171 chemical constituents and 11 active constituents targeting MCI. Flavonoids alleviate cognitive impairment primarily through antioxidative, anti-inflammatory, and neuroprotective properties.
 - **Hepatoprotective Activity of Haritaki (Terminalia chebula Retz): A Systematic Review** (2024): Systematic review confirmed hepatoprotective effects of Terminalia chebula, supporting traditional Ayurvedic claims for liver protection.
 - **Comprehensive review on diverse pharmacological perspectives of Terminalia chebula Retz** (2022): Documented antioxidative, antiproliferative, antimicrobial, proapoptotic, antidiabetic, anti-aging, hepatoprotective, anti-inflammatory, antimutagenic, and antiepileptic properties through multiple laboratory approaches.
-- **Comprehensive metabolome profiling of [Triphala](/ayurveda-atlas/herb/triphala/) components including Terminalia chebula** (2024): Advanced metabolome profiling revealed detailed phytochemical composition of Terminalia chebula as part of [Triphala](/ayurveda-atlas/herb/triphala/) formulation, identifying bioactive metabolites responsible for therapeutic effects.
+- **Comprehensive metabolome profiling of [Triphala](/nighantu/herb/triphala/) components including Terminalia chebula** (2024): Advanced metabolome profiling revealed detailed phytochemical composition of Terminalia chebula as part of [Triphala](/nighantu/herb/triphala/) formulation, identifying bioactive metabolites responsible for therapeutic effects.
 
 ## Recent safety updates
 
@@ -127,7 +127,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Haritaki/meta-analysis.md"
 - May lower blood sugar: potential interaction with diabetes medications requiring dose adjustment.
 - Stop use at least 2 weeks before scheduled surgery due to potential blood sugar interference.
 - Side effects to monitor: diarrhea, stomatitis, dehydration, fever, fatigue.
-- High-dose Terminalia ([arjuna](/ayurveda-atlas/herb/arjuna/) species) associated with hepatotoxicity and hypothyroidism in rat studies; caution with high doses of related species.
+- High-dose Terminalia ([arjuna](/nighantu/herb/arjuna/) species) associated with hepatotoxicity and hypothyroidism in rat studies; caution with high doses of related species.
 
 ## What is it made of?
 
@@ -164,13 +164,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Haritaki/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Tablet, Capsule, Kashayam (decoction), Avaleha (confection/jam), [Triphala](/ayurveda-atlas/herb/triphala/) formulations
+**Dosage Forms:** Churna (powder), Tablet, Capsule, Kashayam (decoction), Avaleha (confection/jam), [Triphala](/nighantu/herb/triphala/) formulations
 
 **Standard Dosage:** 3-6g powder at bedtime; 500mg-1g extract twice daily; 15-30ml decoction
 
 **Bioavailability:** Tannin-rich composition (chebulagic acid, chebulinic acid) shows moderate oral absorption. Gallic acid component has good bioavailability (~30%). Chebulic acid demonstrates reasonable absorption. Traditional practice of taking with warm water or specific Anupana (vehicle) for different conditions enhances absorption of specific fractions.
 
-**Optimal Timing:** At bedtime with warm water for [laxative](/ayurveda-atlas/reference/laxative/) effect; before meals for digestive stimulation; with specific Anupana depending on target dosha and condition per classical texts
+**Optimal Timing:** At bedtime with warm water for [laxative](/nighantu/reference/laxative/) effect; before meals for digestive stimulation; with specific Anupana depending on target dosha and condition per classical texts
 
 **Standardized Extract:** Aqueous extract standardized to minimum 30% tannins (as gallic acid equivalent); hydroalcoholic extract standardized to 5% chebulagic acid and 2% gallic acid
 
@@ -178,7 +178,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Haritaki/meta-analysis.md"
 
 **Storage:** Cool, dry place below 25°C. Protect from moisture as tannins are hygroscopic. Airtight containers essential.
 
-**Marker Compounds:** Chebulagic acid, Chebulinic acid, Gallic acid, Ellagic acid, Chebulic acid, [Corilagin](/ayurveda-atlas/glossary/compounds-c-d/#corilagin), Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
+**Marker Compounds:** Chebulagic acid, Chebulinic acid, Gallic acid, Ellagic acid, Chebulic acid, [Corilagin](/nighantu/glossary/compounds-c-d/#corilagin), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
 
 ### Extraction Methods
 
@@ -190,7 +190,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Haritaki/meta-analysis.md"
 ### Synergistic Combinations
 
 - With Amalaki and Vibhitaki as Triphala for comprehensive GI health
-- With [Guggulu](/ayurveda-atlas/formulation/guggulu/) for lipid management
-- With [Pippali](/ayurveda-atlas/herb/pippali/) for respiratory conditions
+- With [Guggulu](/nighantu/formulation/guggulu/) for lipid management
+- With [Pippali](/nighantu/herb/pippali/) for respiratory conditions
 - With Honey as Anupana for Kapha disorders
 - With Jaggery for iron absorption and anemia

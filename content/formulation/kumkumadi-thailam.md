@@ -23,20 +23,20 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kumkumadi-T
 
 | Language | Name |
 |----------|------|
-| English | [Kumkumadi Thailam](/ayurveda-atlas/formulation/kumkumadi-thailam/) |
+| English | [Kumkumadi Thailam](/nighantu/formulation/kumkumadi-thailam/) |
 
 ## Key Ingredients
 
-- Kumkuma (Crocus sativus / [Saffron](/ayurveda-atlas/herb/saffron/)) - key ingredient
-- [Manjistha](/ayurveda-atlas/herb/manjistha/) (Rubia cordifolia / Indian Madder)
-- [Pattanga](/ayurveda-atlas/herb/pattanga/) (Caesalpinia sappan / Sappan Wood)
-- [Kamala](/ayurveda-atlas/herb/kamala/) Keshara (Nelumbo nucifera / Lotus pollen)
-- [Chandana](/ayurveda-atlas/herb/chandana/) (Santalum album / Sandalwood)
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) (Glycyrrhiza glabra / Licorice)
-- [Padmaka](/ayurveda-atlas/herb/padmaka/) (Prunus cerasoides)
-- [Ushira](/ayurveda-atlas/herb/ushira/) (Vetiveria zizanioides)
+- Kumkuma (Crocus sativus / [Saffron](/nighantu/herb/saffron/)) - key ingredient
+- [Manjistha](/nighantu/herb/manjistha/) (Rubia cordifolia / Indian Madder)
+- [Pattanga](/nighantu/herb/pattanga/) (Caesalpinia sappan / Sappan Wood)
+- [Kamala](/nighantu/herb/kamala/) Keshara (Nelumbo nucifera / Lotus pollen)
+- [Chandana](/nighantu/herb/chandana/) (Santalum album / Sandalwood)
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (Glycyrrhiza glabra / Licorice)
+- [Padmaka](/nighantu/herb/padmaka/) (Prunus cerasoides)
+- [Ushira](/nighantu/herb/ushira/) (Vetiveria zizanioides)
 - Darvi (Berberis aristata)
-- [Sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) ([Tila](/ayurveda-atlas/herb/tila/) taila) base
+- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) ([Tila](/nighantu/herb/tila/) taila) base
 - Goat's milk
 
 ## Where is it described in the classical texts?
@@ -45,10 +45,10 @@ Bhaishajya Ratnavali (Kshudra Roga Chikitsa chapter); also documented in Ashtang
 
 ## How does it work?
 
-- [Crocin](/ayurveda-atlas/glossary/compounds-c-d/#crocin) and [crocetin](/ayurveda-atlas/glossary/compounds-c-d/#crocetin) from [Saffron](/ayurveda-atlas/herb/saffron/) inhibit tyrosinase enzyme activity, reducing melanin synthesis and providing skin-brightening effect
-- [Anthraquinones](/ayurveda-atlas/glossary/compounds-1-a/#anthraquinones) from [Manjistha](/ayurveda-atlas/herb/manjistha/) ([purpurin](/ayurveda-atlas/glossary/compounds-o-q/#purpurin), munjistin) provide blood-purifying and anti-inflammatory action, reducing post-inflammatory hyperpigmentation
+- [Crocin](/nighantu/glossary/compounds-c-d/#crocin) and [crocetin](/nighantu/glossary/compounds-c-d/#crocetin) from [Saffron](/nighantu/herb/saffron/) inhibit tyrosinase enzyme activity, reducing melanin synthesis and providing skin-brightening effect
+- [Anthraquinones](/nighantu/glossary/compounds-1-a/#anthraquinones) from [Manjistha](/nighantu/herb/manjistha/) ([purpurin](/nighantu/glossary/compounds-o-q/#purpurin), munjistin) provide blood-purifying and anti-inflammatory action, reducing post-inflammatory hyperpigmentation
 - Sandalwood's santalol compounds reduce transepidermal water loss (TEWL) and provide anti-inflammatory barrier repair through modulation of inflammatory cytokines
-- [Glycyrrhizin](/ayurveda-atlas/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) from Licorice inhibits melanogenesis via downregulation of MITF (microphthalmia-associated transcription factor) and acts as a skin-soothing agent
+- [Glycyrrhizin](/nighantu/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) from Licorice inhibits melanogenesis via downregulation of MITF (microphthalmia-associated transcription factor) and acts as a skin-soothing agent
 
 ## Which traditional uses are supported by research?
 
@@ -58,14 +58,14 @@ Bhaishajya Ratnavali (Kshudra Roga Chikitsa chapter); also documented in Ashtang
 
 ## What do recent clinical trials show?
 
-- **Clinical trial on skin hydration and melanin index with [Kumkumadi Tailam](/ayurveda-atlas/formulation/kumkumadi-tailam/)** (2019): A clinical trial (N=30) measuring skin hydration, elasticity, and melanin index after 8 weeks of topical application observed a 25% increase in hydration and 20% decrease in melanin spots.
-- **Randomized trial on melanin reduction with [Kumkumadi Tailam](/ayurveda-atlas/formulation/kumkumadi-tailam/)** (2020): A randomized trial published in the Journal of Ethnopharmacology showed a 30% reduction in melanin index after 8 weeks of nightly application, demonstrating significant skin-brightening effect.
-- **Mixed sandalwood-[saffron](/ayurveda-atlas/herb/saffron/) formulations and skin barrier repair** (2021): Journal of Cosmetic Dermatology reported that sandalwood-[saffron](/ayurveda-atlas/herb/saffron/) formulations significantly reduce transepidermal water loss (TEWL), supporting skin barrier repair and validating the synergistic effects of Kumkumadi's key ingredients.
+- **Clinical trial on skin hydration and melanin index with [Kumkumadi Tailam](/nighantu/formulation/kumkumadi-tailam/)** (2019): A clinical trial (N=30) measuring skin hydration, elasticity, and melanin index after 8 weeks of topical application observed a 25% increase in hydration and 20% decrease in melanin spots.
+- **Randomized trial on melanin reduction with [Kumkumadi Tailam](/nighantu/formulation/kumkumadi-tailam/)** (2020): A randomized trial published in the Journal of Ethnopharmacology showed a 30% reduction in melanin index after 8 weeks of nightly application, demonstrating significant skin-brightening effect.
+- **Mixed sandalwood-[saffron](/nighantu/herb/saffron/) formulations and skin barrier repair** (2021): Journal of Cosmetic Dermatology reported that sandalwood-[saffron](/nighantu/herb/saffron/) formulations significantly reduce transepidermal water loss (TEWL), supporting skin barrier repair and validating the synergistic effects of Kumkumadi's key ingredients.
 
 ## Recent safety updates
 
-- Minor side effects include redness, mild itching, or oiliness if over-applied. Individuals with sensitive skin or allergies to [saffron](/ayurveda-atlas/herb/saffron/) or sandalwood may experience mild irritation or rash. Patch test strongly recommended before regular use.
-- Contraindicated in active skin tuberculosis, eczema with oozing, or fungal infections. Should not be combined with topical [steroids](/ayurveda-atlas/glossary/compounds-q-t/#steroids) or retinoids without dermatologist consultation. Direct eye contact causes burning sensation. Overuse on oily skin can increase oiliness and acne.
+- Minor side effects include redness, mild itching, or oiliness if over-applied. Individuals with sensitive skin or allergies to [saffron](/nighantu/herb/saffron/) or sandalwood may experience mild irritation or rash. Patch test strongly recommended before regular use.
+- Contraindicated in active skin tuberculosis, eczema with oozing, or fungal infections. Should not be combined with topical [steroids](/nighantu/glossary/compounds-q-t/#steroids) or retinoids without dermatologist consultation. Direct eye contact causes burning sensation. Overuse on oily skin can increase oiliness and acne.
 
 ## What is it made of?
 
@@ -82,22 +82,22 @@ Bhaishajya Ratnavali (Kshudra Roga Chikitsa chapter); also documented in Ashtang
 
 **Standard Dosage:** External: 2-5 drops on face/skin, once daily at bedtime, as per Sahasrayogam
 
-**Bioavailability:** Identical to [Kumkumadi Tailam](/ayurveda-atlas/formulation/kumkumadi-tailam/). If [coconut oil](/ayurveda-atlas/glossary/concepts-a-m/#coconut-oil) base is used (Kerala variant), lauric acid provides enhanced [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) activity on facial skin.
+**Bioavailability:** Identical to [Kumkumadi Tailam](/nighantu/formulation/kumkumadi-tailam/). If [coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil) base is used (Kerala variant), lauric acid provides enhanced [antimicrobial](/nighantu/reference/antimicrobial/) activity on facial skin.
 
 **Optimal Timing:** At bedtime for overnight skin rejuvenation
 
 **Shelf Life:** 3 years from date of manufacture as per ASU guidelines for Taila
 
-**Storage:** Same as [Kumkumadi Tailam](/ayurveda-atlas/formulation/kumkumadi-tailam/). Dark amber glass bottles, temperature not exceeding 25°C.
+**Storage:** Same as [Kumkumadi Tailam](/nighantu/formulation/kumkumadi-tailam/). Dark amber glass bottles, temperature not exceeding 25°C.
 
-**Marker Compounds:** Crocin, Crocetin, [Safranal](/ayurveda-atlas/glossary/compounds-q-t/#safranal), Alpha-santalol, Purpurin, [Alizarin](/ayurveda-atlas/glossary/compounds-1-a/#alizarin)
+**Marker Compounds:** Crocin, Crocetin, [Safranal](/nighantu/glossary/compounds-q-t/#safranal), Alpha-santalol, Purpurin, [Alizarin](/nighantu/glossary/compounds-1-a/#alizarin)
 
-**Quality Parameters:** Same as Kumkumadi Tailam — acid value, peroxide value, crocin content, alpha-santalol, total [carotenoids](/ayurveda-atlas/glossary/compounds-a-c/#carotenoids), rancidity test, HPTLC fingerprint, microbial limits, heavy metals, dermatological safety
+**Quality Parameters:** Same as Kumkumadi Tailam — acid value, peroxide value, crocin content, alpha-santalol, total [carotenoids](/nighantu/glossary/compounds-a-c/#carotenoids), rancidity test, HPTLC fingerprint, microbial limits, heavy metals, dermatological safety
 
 **Vehicle (Anupana):** Not applicable — topical facial use
 
 ### Synergistic Combinations
 
-- [Eladi Thailam](/ayurveda-atlas/formulation/eladi-thailam/)
+- [Eladi Thailam](/nighantu/formulation/eladi-thailam/)
 - Nalpamaradi Thailam
 - Mukhalepa (facial pack preparations)

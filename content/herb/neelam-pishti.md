@@ -23,28 +23,28 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Neelam-Pishti/meta-a
 
 | Language | Name |
 |----------|------|
-| English | [Neelam Pishti](/ayurveda-atlas/herb/neelam-pishti/) |
+| English | [Neelam Pishti](/nighantu/herb/neelam-pishti/) |
 
 ## How does it work?
 
-- Aluminum oxide nanoparticles: Similar to ruby-based [Manikya Pishti](/ayurveda-atlas/herb/manikya-pishti/), the Al2O3 base may exert [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) and [neuroprotective](/ayurveda-atlas/reference/neuroprotective/) effects at therapeutic doses
+- Aluminum oxide nanoparticles: Similar to ruby-based [Manikya Pishti](/nighantu/herb/manikya-pishti/), the Al2O3 base may exert [immunomodulatory](/nighantu/reference/immunomodulatory/) and [neuroprotective](/nighantu/reference/neuroprotective/) effects at therapeutic doses
 - Trace cobalt and titanium: These elements may contribute to unique biological activities distinct from ruby; cobalt is an essential component of vitamin B12 and participates in erythropoiesis
 - Tridosha balancing: Per Ayurvedic pharmacology, the cooling and stabilizing properties address imbalances across all three doshas, with particular emphasis on Vata pacification for neurological and musculoskeletal conditions
 
 ## Which traditional uses are supported by research?
 
-- Respiratory conditions (Shwasa, Kasa): Traditional indications for dyspnea and cough lack specific clinical validation for [Neelam Pishti](/ayurveda-atlas/herb/neelam-pishti/); the aluminum oxide base has no established respiratory pharmacology
+- Respiratory conditions (Shwasa, Kasa): Traditional indications for dyspnea and cough lack specific clinical validation for [Neelam Pishti](/nighantu/herb/neelam-pishti/); the aluminum oxide base has no established respiratory pharmacology
 - General tonic and Tridosha balancer: Traditional claim of nourishing all Dhatus and pacifying Tridosha has theoretical Ayurvedic rationale but no modern scientific validation
 
 ## What do recent clinical trials show?
 
-- **A comprehensive review on Pishti Kalpana (including [Neelam Pishti](/ayurveda-atlas/herb/neelam-pishti/) characterization)** (2022): Review documented that Pishti preparations including [Neelam Pishti](/ayurveda-atlas/herb/neelam-pishti/) achieve microfine particle sizes with rapid absorption potential, positioning them within traditional nanomedicine. Manufacturing techniques, therapeutic indications, and analytical characterization were reviewed but specific clinical trials on [Neelam Pishti](/ayurveda-atlas/herb/neelam-pishti/) remain extremely scarce.
-- **A review article on Pishti in Ayurveda** (2020): Comprehensive review of Pishti Kalpana documented [Neelam Pishti](/ayurveda-atlas/herb/neelam-pishti/)'s traditional indications for dyspnea, cough, intermittent fever, and as an [aphrodisiac](/ayurveda-atlas/glossary/pharmacology/#aphrodisiac). Noted that it pacifies Tridosha and nourishes all Dhatus but peer-reviewed safety evaluations are virtually absent.
+- **A comprehensive review on Pishti Kalpana (including [Neelam Pishti](/nighantu/herb/neelam-pishti/) characterization)** (2022): Review documented that Pishti preparations including [Neelam Pishti](/nighantu/herb/neelam-pishti/) achieve microfine particle sizes with rapid absorption potential, positioning them within traditional nanomedicine. Manufacturing techniques, therapeutic indications, and analytical characterization were reviewed but specific clinical trials on [Neelam Pishti](/nighantu/herb/neelam-pishti/) remain extremely scarce.
+- **A review article on Pishti in Ayurveda** (2020): Comprehensive review of Pishti Kalpana documented [Neelam Pishti](/nighantu/herb/neelam-pishti/)'s traditional indications for dyspnea, cough, intermittent fever, and as an [aphrodisiac](/nighantu/glossary/pharmacology/#aphrodisiac). Noted that it pacifies Tridosha and nourishes all Dhatus but peer-reviewed safety evaluations are virtually absent.
 
 ## Recent safety updates
 
-- Very limited safety data: No peer-reviewed safety studies specific to [Neelam Pishti](/ayurveda-atlas/herb/neelam-pishti/) exist in published literature
-- Primary component is aluminum oxide (Al2O3) - same concerns as [Manikya Pishti](/ayurveda-atlas/herb/manikya-pishti/) regarding chronic aluminum exposure and potential neurotoxicity at high doses
+- Very limited safety data: No peer-reviewed safety studies specific to [Neelam Pishti](/nighantu/herb/neelam-pishti/) exist in published literature
+- Primary component is aluminum oxide (Al2O3) - same concerns as [Manikya Pishti](/nighantu/herb/manikya-pishti/) regarding chronic aluminum exposure and potential neurotoxicity at high doses
 - Cobalt trace content requires monitoring if used long-term as excessive cobalt exposure can cause cardiomyopathy (cobalt toxicity)
 - Extremely small recommended dose (62.5-125 mg) reflects the traditional recognition of potency; must be taken under strict medical supervision
 

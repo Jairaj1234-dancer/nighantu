@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Kiratatikta/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g powder twice daily; 30-50 mL decoction; 500 mg capsule twice daily; Ghana Vati: 250-500 mg twice daily
 
-**Bioavailability:** [Amarogentin](/ayurveda-atlas/glossary/compounds-1-a/#amarogentin) (secoiridoid glycoside) and [swertiamarin](/ayurveda-atlas/glossary/compounds-q-t/#swertiamarin) show good oral bioavailability (35-45%). [Xanthones](/ayurveda-atlas/glossary/compounds-t-z/#xanthones) (swertianin, [mangiferin](/ayurveda-atlas/glossary/compounds-l-o/#mangiferin)) have lower bioavailability (15-20%) due to low aqueous solubility. [Piperine](/ayurveda-atlas/reference/piperine/) co-administration enhances xanthone absorption by 40%. Nano-emulsion formulations of amarogentin show 3-fold improved bioavailability. Bitter principles stimulate gastric secretion enhancing absorption of co-administered nutrients.
+**Bioavailability:** [Amarogentin](/nighantu/glossary/compounds-1-a/#amarogentin) (secoiridoid glycoside) and [swertiamarin](/nighantu/glossary/compounds-q-t/#swertiamarin) show good oral bioavailability (35-45%). [Xanthones](/nighantu/glossary/compounds-t-z/#xanthones) (swertianin, [mangiferin](/nighantu/glossary/compounds-l-o/#mangiferin)) have lower bioavailability (15-20%) due to low aqueous solubility. [Piperine](/nighantu/reference/piperine/) co-administration enhances xanthone absorption by 40%. Nano-emulsion formulations of amarogentin show 3-fold improved bioavailability. Bitter principles stimulate gastric secretion enhancing absorption of co-administered nutrients.
 
 **Optimal Timing:** Before meals (30 minutes) for appetite stimulation and digestive enzyme activation; for fever: every 6-8 hours; for liver conditions: twice daily with warm water
 
@@ -57,9 +57,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Kiratatikta/meta-analysis.md"
 
 **Shelf Life:** 24 months for powder; 36 months for standardized extract capsules; 24 months for Ghana Vati; 36 months for tincture
 
-**Storage:** Store in airtight, moisture-proof containers at 15-25°C. Secoiridoid [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) are relatively stable. Protect from light. Tinctures in amber glass bottles.
+**Storage:** Store in airtight, moisture-proof containers at 15-25°C. Secoiridoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) are relatively stable. Protect from light. Tinctures in amber glass bottles.
 
-**Marker Compounds:** Amarogentin, Swertiamarin, Swertianin, Mangiferin, Swerchirin, [Gentiopicrin](/ayurveda-atlas/glossary/compounds-d-g/#gentiopicrin), Oleanolic acid, Ursolic acid
+**Marker Compounds:** Amarogentin, Swertiamarin, Swertianin, Mangiferin, Swerchirin, [Gentiopicrin](/nighantu/glossary/compounds-d-g/#gentiopicrin), Oleanolic acid, Ursolic acid
 
 ### Extraction Methods
 
@@ -71,8 +71,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Kiratatikta/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- Kutki (Picrorhiza) for comprehensive [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) formulation
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) for fever and hepatitis management
-- [Nimba](/ayurveda-atlas/herb/nimba/) for anti-malarial and febrifuge synergy
-- [Haritaki](/ayurveda-atlas/herb/haritaki/) for digestive and [antipyretic](/ayurveda-atlas/reference/antipyretic/) combination
-- [Bhumyamalaki](/ayurveda-atlas/herb/bhumyamalaki/) for hepatitis B and C support
+- Kutki (Picrorhiza) for comprehensive [hepatoprotective](/nighantu/reference/hepatoprotective/) formulation
+- [Guduchi](/nighantu/herb/guduchi/) for fever and hepatitis management
+- [Nimba](/nighantu/herb/nimba/) for anti-malarial and febrifuge synergy
+- [Haritaki](/nighantu/herb/haritaki/) for digestive and [antipyretic](/nighantu/reference/antipyretic/) combination
+- [Bhumyamalaki](/nighantu/herb/bhumyamalaki/) for hepatitis B and C support

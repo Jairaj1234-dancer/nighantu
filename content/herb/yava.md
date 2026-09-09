@@ -30,26 +30,26 @@ srcRel: "Ayurveda/Others/Dietary-Food-Items/Yava/meta-analysis.md"
 - Beta-glucan (soluble fiber, 3-8%)
 - Protein (8-15%): hordein, glutelin
 - Phenolic acids: ferulic, p-coumaric, caffeic acid
-- [Flavonoids](/ayurveda-atlas/reference/flavonoids/): [catechins](/ayurveda-atlas/glossary/compounds-c-d/#catechins), [proanthocyanidins](/ayurveda-atlas/glossary/compounds-o-q/#proanthocyanidins), [quercetin](/ayurveda-atlas/reference/quercetinquercetin/)
-- Tocols ([tocopherols](/ayurveda-atlas/glossary/compounds-t-z/#tocopherols) and tocotrienols - vitamin E forms)
-- [Phytosterols](/ayurveda-atlas/glossary/compounds-o-q/#phytosterols): beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), [campesterol](/ayurveda-atlas/glossary/compounds-a-c/#campesterol)
-- B [vitamins](/ayurveda-atlas/glossary/compounds-t-z/#vitamins): B1, B3, B6, [folate](/ayurveda-atlas/glossary/compounds-d-g/#folate)
-- Minerals: [selenium](/ayurveda-atlas/glossary/compounds-q-t/#selenium), chromium, [magnesium](/ayurveda-atlas/glossary/compounds-l-o/#magnesium), [phosphorus](/ayurveda-atlas/glossary/compounds-o-q/#phosphorus), iron
-- Resistant [starch](/ayurveda-atlas/glossary/compounds-q-t/#starch)
+- [Flavonoids](/nighantu/reference/flavonoids/): [catechins](/nighantu/glossary/compounds-c-d/#catechins), [proanthocyanidins](/nighantu/glossary/compounds-o-q/#proanthocyanidins), [quercetin](/nighantu/reference/quercetinquercetin/)
+- Tocols ([tocopherols](/nighantu/glossary/compounds-t-z/#tocopherols) and tocotrienols - vitamin E forms)
+- [Phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols): beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [campesterol](/nighantu/glossary/compounds-a-c/#campesterol)
+- B [vitamins](/nighantu/glossary/compounds-t-z/#vitamins): B1, B3, B6, [folate](/nighantu/glossary/compounds-d-g/#folate)
+- Minerals: [selenium](/nighantu/glossary/compounds-q-t/#selenium), chromium, [magnesium](/nighantu/glossary/compounds-l-o/#magnesium), [phosphorus](/nighantu/glossary/compounds-o-q/#phosphorus), iron
+- Resistant [starch](/nighantu/glossary/compounds-q-t/#starch)
 - Arabinoxylan (insoluble fiber)
 
 ## How does it work?
 
 - Lekhana (scraping/fat reduction): Beta-glucan forms viscous gel in the gut that traps bile acids, forcing hepatic cholesterol conversion; reduces LDL cholesterol by 5-10% and promotes fat mobilization
-- Glycemic control: Resistant starch and beta-glucan slow carbohydrate digestion and [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose) absorption, reducing postprandial glycemic spikes; chromium content improves insulin sensitivity
-- [Antioxidant](/ayurveda-atlas/reference/antioxidant/): Tocols and phenolic acids neutralize free radicals, protect LDL from oxidation, and reduce inflammatory markers
+- Glycemic control: Resistant starch and beta-glucan slow carbohydrate digestion and [glucose](/nighantu/glossary/compounds-d-g/#glucose) absorption, reducing postprandial glycemic spikes; chromium content improves insulin sensitivity
+- [Antioxidant](/nighantu/reference/antioxidant/): Tocols and phenolic acids neutralize free radicals, protect LDL from oxidation, and reduce inflammatory markers
 - Prebiotic: Beta-glucan and arabinoxylan fermented by colonic bacteria produce short-chain fatty acids (butyrate, propionate) that nourish colonocytes and modulate lipid metabolism
 
 ## Which traditional uses are supported by research?
 
 - Prameha (diabetes/metabolic disorders): Beta-glucan mediated glycemic control and insulin sensitization strongly validate the classical designation as the best grain for diabetes; FDA-approved health claim supports this
 - Sthaulya and Medoroga (obesity and lipid disorders): Lekhana (scraping) action validated by beta-glucan's bile acid trapping, cholesterol reduction, and fat metabolism enhancement
-- Mutra Roga (urinary disorders): Barley water (Yava Kshira) as a traditional kidney tonic validated by [diuretic](/ayurveda-atlas/reference/diuretic/) properties and anti-urolithiatic activity of barley alkaline compounds
+- Mutra Roga (urinary disorders): Barley water (Yava Kshira) as a traditional kidney tonic validated by [diuretic](/nighantu/reference/diuretic/) properties and anti-urolithiatic activity of barley alkaline compounds
 
 ## What do recent clinical trials show?
 
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Others/Dietary-Food-Items/Yava/meta-analysis.md"
 - Contains gluten (hordein); strictly contraindicated in celiac disease and non-celiac gluten sensitivity
 - High fiber content may cause bloating and flatulence during initial dietary introduction; gradual increase recommended
 - Phytic acid content may reduce mineral absorption (iron, zinc, calcium); traditional soaking and fermentation reduce phytic acid
-- Barley sprout beverages may contain harmful levels of barley [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids); source quality and processing method matter
+- Barley sprout beverages may contain harmful levels of barley [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids); source quality and processing method matter
 
 ## What is it made of?
 

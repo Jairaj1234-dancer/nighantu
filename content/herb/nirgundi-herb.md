@@ -36,34 +36,34 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nirgundi_Herb/meta-analysis.m
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (whole herb powder), Kwatha (decoction), Capsule, Tablet, Taila (medicated oil), [Ghrita](/ayurveda-atlas/herb/ghrita/) (medicated ghee), Swarasa, External poultice
+**Dosage Forms:** Churna (whole herb powder), Kwatha (decoction), Capsule, Tablet, Taila (medicated oil), [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Swarasa, External poultice
 
 **Standard Dosage:** 2-4 g whole herb powder daily in divided doses; 15-30 mL decoction twice daily; 500 mg - 1 g standardized whole herb extract twice daily
 
-**Bioavailability:** Whole herb (including stem, leaf, root, and flower) provides a broader phytochemical profile compared to leaf-only preparations. Iridoid [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides) ([agnuside](/ayurveda-atlas/glossary/compounds-1-a/#agnuside), [aucubin](/ayurveda-atlas/glossary/compounds-a-c/#aucubin)) have moderate oral bioavailability (20-35%). [Lignans](/ayurveda-atlas/glossary/compounds-g-l/#lignans) from stem bark are absorbed more slowly (Tmax 3-4 h) providing sustained activity. Whole herb aqueous decoction has enhanced bioavailability of polar constituents compared to alcohol extract.
+**Bioavailability:** Whole herb (including stem, leaf, root, and flower) provides a broader phytochemical profile compared to leaf-only preparations. Iridoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) ([agnuside](/nighantu/glossary/compounds-1-a/#agnuside), [aucubin](/nighantu/glossary/compounds-a-c/#aucubin)) have moderate oral bioavailability (20-35%). [Lignans](/nighantu/glossary/compounds-g-l/#lignans) from stem bark are absorbed more slowly (Tmax 3-4 h) providing sustained activity. Whole herb aqueous decoction has enhanced bioavailability of polar constituents compared to alcohol extract.
 
-**Optimal Timing:** Oral preparations: after meals. Taila/external application: before bath or at bedtime. [Ghrita](/ayurveda-atlas/herb/ghrita/): on empty stomach with warm water for systemic Vata management.
+**Optimal Timing:** Oral preparations: after meals. Taila/external application: before bath or at bedtime. [Ghrita](/nighantu/herb/ghrita/): on empty stomach with warm water for systemic Vata management.
 
-**Standardized Extract:** Whole herb extract (6:1) standardized to total iridoid glycosides >2% (as agnuside), total [flavonoids](/ayurveda-atlas/reference/flavonoids/) >3% (as [casticin](/ayurveda-atlas/glossary/compounds-c-d/#casticin)). Ghrita preparation with validated saponification value and acid value per API norms.
+**Standardized Extract:** Whole herb extract (6:1) standardized to total iridoid glycosides >2% (as agnuside), total [flavonoids](/nighantu/reference/flavonoids/) >3% (as [casticin](/nighantu/glossary/compounds-c-d/#casticin)). Ghrita preparation with validated saponification value and acid value per API norms.
 
 **Shelf Life:** Dried whole herb: 12-18 months; Churna: 12-18 months; Extract: 24-36 months; Taila: 24-36 months; Ghrita: 24-36 months (can extend with proper storage)
 
 **Storage:** Dried herb: well-ventilated, airtight containers, below 25 deg C, RH <55%. Ghrita: clean, dry glass or food-grade containers, below 30 deg C, protect from moisture. Taila: amber glass, room temperature.
 
-**Marker Compounds:** Agnuside, Aucubin, Casticin, [Vitexin](/ayurveda-atlas/glossary/compounds-t-z/#vitexin), [Luteolin](/ayurveda-atlas/glossary/compounds-l-o/#luteolin)-7-glucoside, Lignan glycosides, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), p-Hydroxybenzoic acid
+**Marker Compounds:** Agnuside, Aucubin, Casticin, [Vitexin](/nighantu/glossary/compounds-t-z/#vitexin), [Luteolin](/nighantu/glossary/compounds-l-o/#luteolin)-7-glucoside, Lignan glycosides, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), p-Hydroxybenzoic acid
 
 ### Extraction Methods
 
 - Sequential aqueous-alcoholic extraction for comprehensive phytochemical capture
 - Traditional decoction (1:16 w/v, reduced to 1/4 volume)
 - Hydroalcoholic percolation (50% ethanol)
-- Oil infusion of whole herb in sesame/[coconut oil](/ayurveda-atlas/glossary/concepts-a-m/#coconut-oil) base
+- Oil infusion of whole herb in sesame/[coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil) base
 - Ghee-based extraction (Ghrita Paka method)
 
 ### Synergistic Combinations
 
 - Dashmool combination (10-root formulation for Vata disorders)
 - Maharasnadi Kwatha ingredients (comprehensive musculoskeletal formula)
-- [Bala](/ayurveda-atlas/herb/bala/) (muscle strength and nerve health)
-- [Punarnava](/ayurveda-atlas/herb/punarnava/) (anti-edema and [diuretic](/ayurveda-atlas/reference/diuretic/) combination)
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) (immune modulation with pain relief)
+- [Bala](/nighantu/herb/bala/) (muscle strength and nerve health)
+- [Punarnava](/nighantu/herb/punarnava/) (anti-edema and [diuretic](/nighantu/reference/diuretic/) combination)
+- [Guduchi](/nighantu/herb/guduchi/) (immune modulation with pain relief)

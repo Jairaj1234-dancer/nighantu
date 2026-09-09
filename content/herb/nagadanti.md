@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Nagadanti/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g root powder per day; 3-5 g leaf powder; 20-40 mL decoction twice daily; 5-10 mL leaf juice. Use with caution; purgative at higher doses.
 
-**Bioavailability:** Jatrophin and curcin (toxic [proteins](/ayurveda-atlas/glossary/compounds-o-q/#proteins)) have limited oral bioavailability due to GI degradation, but are still potent at low concentrations. [Flavonoids](/ayurveda-atlas/reference/flavonoids/) show moderate absorption. Diterpene esters are lipophilic with variable oral absorption. Purgative principles (curcanoleic acid) act primarily on intestinal mucosa with minimal systemic absorption.
+**Bioavailability:** Jatrophin and curcin (toxic [proteins](/nighantu/glossary/compounds-o-q/#proteins)) have limited oral bioavailability due to GI degradation, but are still potent at low concentrations. [Flavonoids](/nighantu/reference/flavonoids/) show moderate absorption. Diterpene esters are lipophilic with variable oral absorption. Purgative principles (curcanoleic acid) act primarily on intestinal mucosa with minimal systemic absorption.
 
 **Optimal Timing:** Morning on empty stomach for purgative action; as per Virechana Panchakarma schedule; topical as needed
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Nagadanti/meta-analysis.md"
 
 **Storage:** Store below 25 deg C in airtight containers. Restricted access due to potent purgative action. Label 'Not for unsupervised use.' Protect from moisture and light. Keep raw material separately from finished products.
 
-**Marker Compounds:** [Montanin](/ayurveda-atlas/glossary/compounds-l-o/#montanin), Baliospermin, Jatrophin, 12-Deoxyphorbol esters, Curcanoleic acid, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/ayurveda-atlas/reference/stigmasterol/)
+**Marker Compounds:** [Montanin](/nighantu/glossary/compounds-l-o/#montanin), Baliospermin, Jatrophin, 12-Deoxyphorbol esters, Curcanoleic acid, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/nighantu/reference/stigmasterol/)
 
 ### Extraction Methods
 
@@ -71,8 +71,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Nagadanti/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Trivrit](/ayurveda-atlas/herb/trivrit/) (purgative combination for controlled Virechana)
-- [Haritaki](/ayurveda-atlas/herb/haritaki/) (mild [laxative](/ayurveda-atlas/reference/laxative/) combination)
-- [Eranda](/ayurveda-atlas/herb/eranda/)/Castor (laxative synergy)
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) ([hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) co-administration)
-- [Nimba](/ayurveda-atlas/herb/nimba/) ([antimicrobial](/ayurveda-atlas/reference/antimicrobial/) topical combination)
+- [Trivrit](/nighantu/herb/trivrit/) (purgative combination for controlled Virechana)
+- [Haritaki](/nighantu/herb/haritaki/) (mild [laxative](/nighantu/reference/laxative/) combination)
+- [Eranda](/nighantu/herb/eranda/)/Castor (laxative synergy)
+- [Guduchi](/nighantu/herb/guduchi/) ([hepatoprotective](/nighantu/reference/hepatoprotective/) co-administration)
+- [Nimba](/nighantu/herb/nimba/) ([antimicrobial](/nighantu/reference/antimicrobial/) topical combination)

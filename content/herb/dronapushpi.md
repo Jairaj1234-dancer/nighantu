@@ -49,9 +49,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Dronapushpi/meta-analysi
 
 **Standard Dosage:** 5-10ml fresh juice twice daily; 3-6g powder twice daily; 50-100ml decoction twice daily; 500mg extract capsule twice daily
 
-**Bioavailability:** Leucas cephalotes contains [flavonoids](/ayurveda-atlas/reference/flavonoids/) ([luteolin](/ayurveda-atlas/glossary/compounds-l-o/#luteolin), [apigenin](/ayurveda-atlas/glossary/compounds-1-a/#apigenin) [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides)), [terpenoids](/ayurveda-atlas/glossary/compounds-t-z/#terpenoids), and phenolic acids. Flavonoid glycosides have moderate oral bioavailability (15-30%) with gut deglycosylation releasing more permeable aglycones. Volatile terpenoid fraction is well absorbed but rapidly metabolized. Fresh juice (Swarasa) provides complete phytochemical matrix including labile compounds lost during drying. Enhancement: phospholipid complexation of flavonoid fraction; nano-emulsion of essential oil components.
+**Bioavailability:** Leucas cephalotes contains [flavonoids](/nighantu/reference/flavonoids/) ([luteolin](/nighantu/glossary/compounds-l-o/#luteolin), [apigenin](/nighantu/glossary/compounds-1-a/#apigenin) [glycosides](/nighantu/glossary/compounds-g-l/#glycosides)), [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids), and phenolic acids. Flavonoid glycosides have moderate oral bioavailability (15-30%) with gut deglycosylation releasing more permeable aglycones. Volatile terpenoid fraction is well absorbed but rapidly metabolized. Fresh juice (Swarasa) provides complete phytochemical matrix including labile compounds lost during drying. Enhancement: phospholipid complexation of flavonoid fraction; nano-emulsion of essential oil components.
 
-**Optimal Timing:** Before meals with warm water for respiratory conditions; fresh juice on empty stomach for [antipyretic](/ayurveda-atlas/reference/antipyretic/) and [hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) use
+**Optimal Timing:** Before meals with warm water for respiratory conditions; fresh juice on empty stomach for [antipyretic](/nighantu/reference/antipyretic/) and [hepatoprotective](/nighantu/reference/hepatoprotective/) use
 
 **Standardized Extract:** Hydroalcoholic extract standardized to NLT 2% total flavonoids (as luteolin equivalent) by HPLC. Extract ratio 6:1. HPTLC fingerprint with characteristic bands at Rf values specific to luteolin and apigenin.
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Dronapushpi/meta-analysi
 
 **Storage:** Dried herb and powder in airtight containers below 25 deg C, protected from moisture. Fresh plant: refrigerate and process promptly. Taila in amber glass bottles.
 
-**Marker Compounds:** Luteolin, Apigenin, Oleanolic acid, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), Leucolactone, Nicotiflorin
+**Marker Compounds:** Luteolin, Apigenin, Oleanolic acid, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Leucolactone, Nicotiflorin
 
 ### Extraction Methods
 
@@ -71,7 +71,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Dronapushpi/meta-analysi
 
 ### Synergistic Combinations
 
-- With [Tulsi](/ayurveda-atlas/herb/tulsi/) (Ocimum) for respiratory and antipyretic synergy
-- With [Shirisha](/ayurveda-atlas/herb/shirisha/) (Albizia) for anti-allergic combination
-- With [Haridra](/ayurveda-atlas/herb/haridra/) for anti-inflammatory and [wound-healing](/ayurveda-atlas/reference/wound-healing/) applications
-- With [Kantakari](/ayurveda-atlas/herb/kantakari/) for cough and bronchial conditions
+- With [Tulsi](/nighantu/herb/tulsi/) (Ocimum) for respiratory and antipyretic synergy
+- With [Shirisha](/nighantu/herb/shirisha/) (Albizia) for anti-allergic combination
+- With [Haridra](/nighantu/herb/haridra/) for anti-inflammatory and [wound-healing](/nighantu/reference/wound-healing/) applications
+- With [Kantakari](/nighantu/herb/kantakari/) for cough and bronchial conditions

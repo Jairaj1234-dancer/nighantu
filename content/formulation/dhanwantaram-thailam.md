@@ -23,30 +23,30 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Dhanwantara
 
 | Language | Name |
 |----------|------|
-| English | [Dhanwantaram Thailam](/ayurveda-atlas/formulation/dhanwantaram-thailam/) |
+| English | [Dhanwantaram Thailam](/nighantu/formulation/dhanwantaram-thailam/) |
 
 ## Key Ingredients
 
-- [Bala](/ayurveda-atlas/herb/bala/) (Sida cordifolia)
-- [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) (Withania somnifera)
-- [Dashamoola](/ayurveda-atlas/herb/dashamoola/) (ten roots - [Bilva](/ayurveda-atlas/herb/bilva/), [Agnimantha](/ayurveda-atlas/herb/agnimantha/), [Shyonaka](/ayurveda-atlas/herb/shyonaka/), [Patala](/ayurveda-atlas/herb/patala/), [Gambhari](/ayurveda-atlas/herb/gambhari/), [Brihati](/ayurveda-atlas/herb/brihati/), [Kantakari](/ayurveda-atlas/herb/kantakari/), [Gokshura](/ayurveda-atlas/herb/gokshura/), Shalaparni, [Prishniparni](/ayurveda-atlas/herb/prishniparni/))
-- [Manjistha](/ayurveda-atlas/herb/manjistha/) (Rubia cordifolia)
-- [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) (Glycyrrhiza glabra)
-- [Sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) ([Tila](/ayurveda-atlas/herb/tila/) taila) base
-- Cow's milk ([Ksheera](/ayurveda-atlas/herb/ksheera/))
-- [Shatavari](/ayurveda-atlas/herb/shatavari/) (Asparagus racemosus)
-- [Devadaru](/ayurveda-atlas/herb/devadaru/) (Cedrus deodara)
+- [Bala](/nighantu/herb/bala/) (Sida cordifolia)
+- [Ashwagandha](/nighantu/herb/ashwagandha/) (Withania somnifera)
+- [Dashamoola](/nighantu/herb/dashamoola/) (ten roots - [Bilva](/nighantu/herb/bilva/), [Agnimantha](/nighantu/herb/agnimantha/), [Shyonaka](/nighantu/herb/shyonaka/), [Patala](/nighantu/herb/patala/), [Gambhari](/nighantu/herb/gambhari/), [Brihati](/nighantu/herb/brihati/), [Kantakari](/nighantu/herb/kantakari/), [Gokshura](/nighantu/herb/gokshura/), Shalaparni, [Prishniparni](/nighantu/herb/prishniparni/))
+- [Manjistha](/nighantu/herb/manjistha/) (Rubia cordifolia)
+- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (Glycyrrhiza glabra)
+- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) ([Tila](/nighantu/herb/tila/) taila) base
+- Cow's milk ([Ksheera](/nighantu/herb/ksheera/))
+- [Shatavari](/nighantu/herb/shatavari/) (Asparagus racemosus)
+- [Devadaru](/nighantu/herb/devadaru/) (Cedrus deodara)
 - Musta (Cyperus rotundus)
 
 ## Where is it described in the classical texts?
 
-Ashtanga Hridayam (Sutrasthana); also referenced in Sahasrayogam (Taila Prakarana). Contains 28+ herbs processed in [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) with milk.
+Ashtanga Hridayam (Sutrasthana); also referenced in Sahasrayogam (Taila Prakarana). Contains 28+ herbs processed in [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) with milk.
 
 ## How does it work?
 
-- Sitosterols and [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) from [Dashamoola](/ayurveda-atlas/herb/dashamoola/) provide [analgesic](/ayurveda-atlas/reference/analgesic/) effects by inhibiting prostaglandin synthesis and COX-2 pathways
-- [Sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) base (snighda, ushna properties) acts as a lipophilic vehicle carrying active herb constituents deep into srotas (tissue channels) via transdermal absorption
-- [Withanolides](/ayurveda-atlas/glossary/compounds-t-z/#withanolides) from [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) modulate GABA-ergic neurotransmission and reduce cortisol, supporting nervine tonic and Vata-pacifying action
+- Sitosterols and [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) from [Dashamoola](/nighantu/herb/dashamoola/) provide [analgesic](/nighantu/reference/analgesic/) effects by inhibiting prostaglandin synthesis and COX-2 pathways
+- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) base (snighda, ushna properties) acts as a lipophilic vehicle carrying active herb constituents deep into srotas (tissue channels) via transdermal absorption
+- [Withanolides](/nighantu/glossary/compounds-t-z/#withanolides) from [Ashwagandha](/nighantu/herb/ashwagandha/) modulate GABA-ergic neurotransmission and reduce cortisol, supporting nervine tonic and Vata-pacifying action
 - Oleic acid and linoleic acid in the formulation enhance skin barrier function and serve as penetration enhancers for phytoconstituents
 
 ## Which traditional uses are supported by research?
@@ -58,8 +58,8 @@ Ashtanga Hridayam (Sutrasthana); also referenced in Sahasrayogam (Taila Prakaran
 ## What do recent clinical trials show?
 
 - **GC-MS Study of the Ayurvedic Formulation Dhanwantharam Thailam Used for Rheumatism** (2024): GC-MS profiling revealed crucial bioactive molecules including oleic acid, dodecanoic acid 1,2,3-propanetriyl ester, ethenyl ester, and 9,12-octadecadienoyl chloride (Z,Z), correlating with its documented anti-rheumatic and analgesic properties.
-- **Clinical evaluation of [Dhanwantaram Thailam](/ayurveda-atlas/formulation/dhanwantaram-thailam/) in postpartum care** (2019): Postpartum women receiving [Dhanwantaram Thailam](/ayurveda-atlas/formulation/dhanwantaram-thailam/) abhyanga showed significant improvement in muscle tone recovery, reduced low back pain, and faster uterine involution compared to control group over 40 days.
-- **Pharmacological evaluation of [Dhanwantaram Thailam](/ayurveda-atlas/formulation/dhanwantaram-thailam/) in neuromuscular disorders** (2020): In a pilot study with 30 patients with neuromuscular weakness, daily application showed 55% improvement in grip strength and 40% reduction in pain scores over 21 days of panchakarma therapy.
+- **Clinical evaluation of [Dhanwantaram Thailam](/nighantu/formulation/dhanwantaram-thailam/) in postpartum care** (2019): Postpartum women receiving [Dhanwantaram Thailam](/nighantu/formulation/dhanwantaram-thailam/) abhyanga showed significant improvement in muscle tone recovery, reduced low back pain, and faster uterine involution compared to control group over 40 days.
+- **Pharmacological evaluation of [Dhanwantaram Thailam](/nighantu/formulation/dhanwantaram-thailam/) in neuromuscular disorders** (2020): In a pilot study with 30 patients with neuromuscular weakness, daily application showed 55% improvement in grip strength and 40% reduction in pain scores over 21 days of panchakarma therapy.
 
 ## Recent safety updates
 
@@ -81,7 +81,7 @@ Ashtanga Hridayam (Sutrasthana); also referenced in Sahasrayogam (Taila Prakaran
 
 **Standard Dosage:** External: sufficient quantity for Abhyanga. Internal: 5-10 mL with warm milk, as per Sahasrayogam/AFI
 
-**Bioavailability:** Oil base provides excellent transdermal delivery during Abhyanga. Multi-avartana processing concentrates herb actives in oil matrix — 101-avartana is significantly more potent than single-avartana. Milk processing adds [phospholipids](/ayurveda-atlas/glossary/compounds-o-q/#phospholipids) enhancing skin penetration. For internal use, [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) MCTs aid absorption.
+**Bioavailability:** Oil base provides excellent transdermal delivery during Abhyanga. Multi-avartana processing concentrates herb actives in oil matrix — 101-avartana is significantly more potent than single-avartana. Milk processing adds [phospholipids](/nighantu/glossary/compounds-o-q/#phospholipids) enhancing skin penetration. For internal use, [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) MCTs aid absorption.
 
 **Optimal Timing:** External: morning before bath or as part of Panchakarma therapy. Internal: before meals or at bedtime.
 
@@ -89,15 +89,15 @@ Ashtanga Hridayam (Sutrasthana); also referenced in Sahasrayogam (Taila Prakaran
 
 **Storage:** Store in amber glass or HDPE bottles in a cool, dry place. Temperature not exceeding 25°C. Protect from light.
 
-**Marker Compounds:** [Sesamin](/ayurveda-atlas/glossary/compounds-q-t/#sesamin), [Sesamolin](/ayurveda-atlas/glossary/compounds-q-t/#sesamolin), [Ephedrine](/ayurveda-atlas/glossary/compounds-d-g/#ephedrine), Withanolide A, [Lupeol](/ayurveda-atlas/reference/lupeol/), Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
+**Marker Compounds:** [Sesamin](/nighantu/glossary/compounds-q-t/#sesamin), [Sesamolin](/nighantu/glossary/compounds-q-t/#sesamolin), [Ephedrine](/nighantu/glossary/compounds-d-g/#ephedrine), Withanolide A, [Lupeol](/nighantu/reference/lupeol/), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
 
-**Quality Parameters:** Acid value (<5), peroxide value (<10), saponification value, [iodine](/ayurveda-atlas/glossary/compounds-g-l/#iodine) value, refractive index, specific gravity, viscosity, rancidity test negative, HPTLC fingerprint, ephedrine/withanolide markers, microbial limits, heavy metals
+**Quality Parameters:** Acid value (<5), peroxide value (<10), saponification value, [iodine](/nighantu/glossary/compounds-g-l/#iodine) value, refractive index, specific gravity, viscosity, rancidity test negative, HPTLC fingerprint, ephedrine/withanolide markers, microbial limits, heavy metals
 
 **Vehicle (Anupana):** For internal use: warm milk. External: warm oil applied during Abhyanga.
 
 ### Synergistic Combinations
 
-- [Dhanwantaram Kashayam](/ayurveda-atlas/formulation/dhanwantaram-kashayam/) (internal)
-- [Kshirabala Thailam](/ayurveda-atlas/formulation/kshirabala-thailam/)
-- [Balarishta](/ayurveda-atlas/formulation/balarishta/)
-- [Dashamularishta](/ayurveda-atlas/formulation/dashamularishta/)
+- [Dhanwantaram Kashayam](/nighantu/formulation/dhanwantaram-kashayam/) (internal)
+- [Kshirabala Thailam](/nighantu/formulation/kshirabala-thailam/)
+- [Balarishta](/nighantu/formulation/balarishta/)
+- [Dashamularishta](/nighantu/formulation/dashamularishta/)

@@ -23,38 +23,38 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bilwa-Patra/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | [Bilwa Patra](/ayurveda-atlas/herb/bilwa-patra/) |
+| English | [Bilwa Patra](/nighantu/herb/bilwa-patra/) |
 | Latin/Botanical | *Aegle marmelos (L.) Correa (leaves)* |
 
 ## Key Phytochemical Constituents
 
-- [Aegeline](/ayurveda-atlas/glossary/compounds-1-a/#aegeline)
+- [Aegeline](/nighantu/glossary/compounds-1-a/#aegeline)
 - Fragrine
 - Aegelenine
-- [Skimmianine](/ayurveda-atlas/glossary/compounds-q-t/#skimmianine)
+- [Skimmianine](/nighantu/glossary/compounds-q-t/#skimmianine)
 - Marmesin
-- [Rutin](/ayurveda-atlas/glossary/compounds-q-t/#rutin)
-- [Eugenol](/ayurveda-atlas/glossary/compounds-d-g/#eugenol)
+- [Rutin](/nighantu/glossary/compounds-q-t/#rutin)
+- [Eugenol](/nighantu/glossary/compounds-d-g/#eugenol)
 - Marmesinin
-- [Luvangetin](/ayurveda-atlas/glossary/compounds-l-o/#luvangetin)
-- Essential oils ([cineole](/ayurveda-atlas/glossary/compounds-c-d/#cineole), caryophyllene)
+- [Luvangetin](/nighantu/glossary/compounds-l-o/#luvangetin)
+- Essential oils ([cineole](/nighantu/glossary/compounds-c-d/#cineole), caryophyllene)
 
 ## How does it work?
 
-- Aegeline activates PPAR-gamma receptors in adipose and muscle tissue, enhancing insulin sensitivity and [glucose](/ayurveda-atlas/glossary/compounds-d-g/#glucose) uptake, providing the mechanistic basis for hypoglycemic activity
-- Skimmianine and marmesin exhibit [antimicrobial](/ayurveda-atlas/reference/antimicrobial/) activity through inhibition of bacterial DNA gyrase and disruption of fungal [ergosterol](/ayurveda-atlas/glossary/compounds-d-g/#ergosterol) biosynthesis
-- Leaf essential oils (eugenol, cineole) provide anti-inflammatory effects through inhibition of COX-2 and LOX [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes) and suppression of NF-kB nuclear translocation
+- Aegeline activates PPAR-gamma receptors in adipose and muscle tissue, enhancing insulin sensitivity and [glucose](/nighantu/glossary/compounds-d-g/#glucose) uptake, providing the mechanistic basis for hypoglycemic activity
+- Skimmianine and marmesin exhibit [antimicrobial](/nighantu/reference/antimicrobial/) activity through inhibition of bacterial DNA gyrase and disruption of fungal [ergosterol](/nighantu/glossary/compounds-d-g/#ergosterol) biosynthesis
+- Leaf essential oils (eugenol, cineole) provide anti-inflammatory effects through inhibition of COX-2 and LOX [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) and suppression of NF-kB nuclear translocation
 
 ## Which traditional uses are supported by research?
 
-- Hypoglycemic/[antidiabetic](/ayurveda-atlas/reference/antidiabetic/) activity of bael leaves validated through multiple in vivo studies and limited clinical evidence supporting traditional use for Prameha (diabetes) in Ayurveda
+- Hypoglycemic/[antidiabetic](/nighantu/reference/antidiabetic/) activity of bael leaves validated through multiple in vivo studies and limited clinical evidence supporting traditional use for Prameha (diabetes) in Ayurveda
 - Antimicrobial and anti-infective properties confirmed in vitro against multiple pathogens, supporting traditional use of leaf paste/decoction for infectious diseases
-- Anti-inflammatory and [analgesic](/ayurveda-atlas/reference/analgesic/) effects validated in carrageenan-induced paw edema models, supporting traditional use for Shotha (inflammation) and pain conditions
+- Anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) effects validated in carrageenan-induced paw edema models, supporting traditional use for Shotha (inflammation) and pain conditions
 
 ## What do recent clinical trials show?
 
-- **Ethnopharmacological Profile, Phytochemistry and Therapeutic Potential of Aegle marmelos L. for the Treatment of Neurological Disorders** (2025): Bioactive compounds from bael leaves including [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids), [flavonoids](/ayurveda-atlas/reference/flavonoids/), and essential oils show therapeutic potential for neurological disorders through [neuroprotective](/ayurveda-atlas/reference/neuroprotective/) and anti-neuroinflammatory mechanisms.
-- **Pharmacognostical, Phytochemical, and Pharmacological Aspects of Aegle marmelos: An Update** (2024): Updated review documenting hypoglycemic, anti-inflammatory, antimicrobial, [anticancer](/ayurveda-atlas/reference/anticancer/), radioprotective, chemopreventive, and antioxidative activity specifically of leaf preparations.
+- **Ethnopharmacological Profile, Phytochemistry and Therapeutic Potential of Aegle marmelos L. for the Treatment of Neurological Disorders** (2025): Bioactive compounds from bael leaves including [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids), [flavonoids](/nighantu/reference/flavonoids/), and essential oils show therapeutic potential for neurological disorders through [neuroprotective](/nighantu/reference/neuroprotective/) and anti-neuroinflammatory mechanisms.
+- **Pharmacognostical, Phytochemical, and Pharmacological Aspects of Aegle marmelos: An Update** (2024): Updated review documenting hypoglycemic, anti-inflammatory, antimicrobial, [anticancer](/nighantu/reference/anticancer/), radioprotective, chemopreventive, and antioxidative activity specifically of leaf preparations.
 - **Evaluation of the Effect of Aegle marmelos (Bael Leaf) Extract on Human Fibroblast Viability: An In Vitro Study** (2024): Bael leaf extract exhibited minimal cytotoxicity on gingival fibroblasts at low concentrations, supporting safety for potential dental applications.
 
 ## Recent safety updates
@@ -78,7 +78,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bilwa-Patra/meta-analysis.md"
 
 **Standard Dosage:** 3-5g leaf powder twice daily; 10-20ml fresh juice; 50-100ml decoction; 500mg extract capsule twice daily
 
-**Bioavailability:** Leaf [coumarins](/ayurveda-atlas/glossary/compounds-c-d/#coumarins) (marmesin, [imperatorin](/ayurveda-atlas/glossary/compounds-g-l/#imperatorin)) show moderate to good oral bioavailability (35-50%). Skimmianine crosses the blood-brain barrier. Essential oil components ([limonene](/ayurveda-atlas/glossary/compounds-g-l/#limonene), alpha-phellandrene) are rapidly absorbed. Caution: furanocoumarins can inhibit CYP3A4, potentially altering bioavailability of co-administered drugs. Fresh juice provides highest bioavailability of volatile constituents.
+**Bioavailability:** Leaf [coumarins](/nighantu/glossary/compounds-c-d/#coumarins) (marmesin, [imperatorin](/nighantu/glossary/compounds-g-l/#imperatorin)) show moderate to good oral bioavailability (35-50%). Skimmianine crosses the blood-brain barrier. Essential oil components ([limonene](/nighantu/glossary/compounds-g-l/#limonene), alpha-phellandrene) are rapidly absorbed. Caution: furanocoumarins can inhibit CYP3A4, potentially altering bioavailability of co-administered drugs. Fresh juice provides highest bioavailability of volatile constituents.
 
 **Optimal Timing:** Morning on empty stomach for diabetic support; before meals with honey for respiratory conditions; fresh juice early morning
 
@@ -93,14 +93,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bilwa-Patra/meta-analysis.md"
 ### Extraction Methods
 
 - Aqueous decoction of dried leaves
-- Hydroalcoholic extraction (60:40) for alkaloid and [coumarin](/ayurveda-atlas/glossary/compounds-c-d/#coumarin) enrichment
+- Hydroalcoholic extraction (60:40) for alkaloid and [coumarin](/nighantu/glossary/compounds-c-d/#coumarin) enrichment
 - Steam distillation for leaf essential oil
 - Fresh juice expression (Swarasa)
 - Ethanol maceration for research-grade extracts
 
 ### Synergistic Combinations
 
-- With [Tulsi](/ayurveda-atlas/herb/tulsi/) leaves for respiratory and [antipyretic](/ayurveda-atlas/reference/antipyretic/) formulations
-- With [Neem](/ayurveda-atlas/herb/neem/) leaves for antidiabetic synergy
-- With [Guduchi](/ayurveda-atlas/herb/guduchi/) for Jwara (fever) management
-- With [Karela](/ayurveda-atlas/herb/karela/) for blood sugar management
+- With [Tulsi](/nighantu/herb/tulsi/) leaves for respiratory and [antipyretic](/nighantu/reference/antipyretic/) formulations
+- With [Neem](/nighantu/herb/neem/) leaves for antidiabetic synergy
+- With [Guduchi](/nighantu/herb/guduchi/) for Jwara (fever) management
+- With [Karela](/nighantu/herb/karela/) for blood sugar management

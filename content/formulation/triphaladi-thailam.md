@@ -23,43 +23,43 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Triphaladi-
 
 | Language | Name |
 |----------|------|
-| English | [Triphaladi Thailam](/ayurveda-atlas/formulation/triphaladi-thailam/) |
+| English | [Triphaladi Thailam](/nighantu/formulation/triphaladi-thailam/) |
 
 ## Key Ingredients
 
-- [Haritaki](/ayurveda-atlas/herb/haritaki/) (Terminalia chebula)
+- [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula)
 - Vibhitaki (Terminalia bellirica)
-- Amalaki (Emblica officinalis / [Amla](/ayurveda-atlas/herb/amla/))
-- Amrutavalli (Tinospora cordifolia / [Guduchi](/ayurveda-atlas/herb/guduchi/))
-- [Ketaki](/ayurveda-atlas/herb/ketaki/) (Pandanus tectorius / Kewra)
+- Amalaki (Emblica officinalis / [Amla](/nighantu/herb/amla/))
+- Amrutavalli (Tinospora cordifolia / [Guduchi](/nighantu/herb/guduchi/))
+- [Ketaki](/nighantu/herb/ketaki/) (Pandanus tectorius / Kewra)
 - Asanaka (Pterocarpus marsupium / Indian Kino)
-- [Bala](/ayurveda-atlas/herb/bala/) (Sida cordifolia)
-- [Eranda](/ayurveda-atlas/herb/eranda/) (Ricinus communis / Castor)
+- [Bala](/nighantu/herb/bala/) (Sida cordifolia)
+- [Eranda](/nighantu/herb/eranda/) (Ricinus communis / Castor)
 - Indravalli (Citrullus colocynthis)
-- [Sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) ([Tila](/ayurveda-atlas/herb/tila/) taila) or [Coconut oil](/ayurveda-atlas/glossary/concepts-a-m/#coconut-oil) base
+- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) ([Tila](/nighantu/herb/tila/) taila) or [Coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil) base
 
 ## Where is it described in the classical texts?
 
-Sahasrayogam (Taila Prakarana). Available as both [Triphaladi Thailam](/ayurveda-atlas/formulation/triphaladi-thailam/) ([sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) base) and Triphaladi Kera Thailam ([coconut oil](/ayurveda-atlas/glossary/concepts-a-m/#coconut-oil) base). Referenced for head-related disorders (Shiro Roga) in Kerala Ayurvedic tradition.
+Sahasrayogam (Taila Prakarana). Available as both [Triphaladi Thailam](/nighantu/formulation/triphaladi-thailam/) ([sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) base) and Triphaladi Kera Thailam ([coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil) base). Referenced for head-related disorders (Shiro Roga) in Kerala Ayurvedic tradition.
 
 ## How does it work?
 
-- Gallic acid and chebulagic acid from [Triphala](/ayurveda-atlas/herb/triphala/) provide potent [antioxidant](/ayurveda-atlas/reference/antioxidant/) protection to neural and optic tissues, reducing oxidative stress-related headaches and visual fatigue
-- [Guduchi](/ayurveda-atlas/herb/guduchi/)'s (Tinospora) [berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine) and tinosporine provide anti-inflammatory and [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) effects on meningeal and scalp tissues, reducing chronic headache inflammation
-- [Pterostilbene](/ayurveda-atlas/glossary/compounds-o-q/#pterostilbene) from Asanaka (Pterocarpus marsupium) provides retinal neuroprotection and microvascular support, relevant to eye disorders (Netra Roga)
-- Volatile compounds from [Ketaki](/ayurveda-atlas/herb/ketaki/) (Pandanus) provide cooling and calming effects on the scalp and head region through transdermal absorption during Shiro Abhyanga (head massage)
+- Gallic acid and chebulagic acid from [Triphala](/nighantu/herb/triphala/) provide potent [antioxidant](/nighantu/reference/antioxidant/) protection to neural and optic tissues, reducing oxidative stress-related headaches and visual fatigue
+- [Guduchi](/nighantu/herb/guduchi/)'s (Tinospora) [berberine](/nighantu/glossary/compounds-a-c/#berberine) and tinosporine provide anti-inflammatory and [immunomodulatory](/nighantu/reference/immunomodulatory/) effects on meningeal and scalp tissues, reducing chronic headache inflammation
+- [Pterostilbene](/nighantu/glossary/compounds-o-q/#pterostilbene) from Asanaka (Pterocarpus marsupium) provides retinal neuroprotection and microvascular support, relevant to eye disorders (Netra Roga)
+- Volatile compounds from [Ketaki](/nighantu/herb/ketaki/) (Pandanus) provide cooling and calming effects on the scalp and head region through transdermal absorption during Shiro Abhyanga (head massage)
 
 ## Which traditional uses are supported by research?
 
 - Chronic headache and migraine (Shirahshula) - validated by clinical observations (2019) showing 60% patient improvement with Nasya administration over 21 days
-- Eye disorders and visual fatigue (Netra Roga) - supported by pharmacological evidence of [pterostilbene](/ayurveda-atlas/glossary/compounds-o-q/#pterostilbene) from Asanaka providing retinal neuroprotection, and antioxidant action of [Triphala](/ayurveda-atlas/herb/triphala/) on optic tissue
-- Premature hair greying and hair fall - supported by the antioxidant protection from [Triphala](/ayurveda-atlas/herb/triphala/) and [Amla](/ayurveda-atlas/herb/amla/)'s established hair-strengthening properties through follicular nourishment
+- Eye disorders and visual fatigue (Netra Roga) - supported by pharmacological evidence of [pterostilbene](/nighantu/glossary/compounds-o-q/#pterostilbene) from Asanaka providing retinal neuroprotection, and antioxidant action of [Triphala](/nighantu/herb/triphala/) on optic tissue
+- Premature hair greying and hair fall - supported by the antioxidant protection from [Triphala](/nighantu/herb/triphala/) and [Amla](/nighantu/herb/amla/)'s established hair-strengthening properties through follicular nourishment
 
 ## What do recent clinical trials show?
 
-- **Antioxidant and anti-inflammatory evaluation of [Triphala](/ayurveda-atlas/herb/triphala/) constituents for neuroprotection** (2020): Gallic acid, chebulagic acid, and emblicanin from [Triphala](/ayurveda-atlas/herb/triphala/) demonstrated significant [neuroprotective](/ayurveda-atlas/reference/neuroprotective/) and antioxidant activity in neuronal cell models, supporting traditional use for headache and eye-related complaints.
-- **Clinical observation of [Triphaladi Thailam](/ayurveda-atlas/formulation/triphaladi-thailam/) Nasya in chronic headache management** (2019): Observational study in South Indian Ayurvedic clinics reported that Nasya with [Triphaladi Thailam](/ayurveda-atlas/formulation/triphaladi-thailam/) provided significant relief from chronic headaches, sinusitis, and rhinitis in 60% of patients over 21-day treatment protocol.
-- **[Pterostilbene](/ayurveda-atlas/glossary/compounds-o-q/#pterostilbene) from Pterocarpus marsupium and ocular health benefits** (2021): Studies confirmed that Pterocarpus marsupium (Asanaka) contains [pterostilbene](/ayurveda-atlas/glossary/compounds-o-q/#pterostilbene) and [epicatechin](/ayurveda-atlas/glossary/compounds-d-g/#epicatechin) with demonstrated retinal protective effects and anti-diabetic properties, supporting the formulation's traditional use for eye health.
+- **Antioxidant and anti-inflammatory evaluation of [Triphala](/nighantu/herb/triphala/) constituents for neuroprotection** (2020): Gallic acid, chebulagic acid, and emblicanin from [Triphala](/nighantu/herb/triphala/) demonstrated significant [neuroprotective](/nighantu/reference/neuroprotective/) and antioxidant activity in neuronal cell models, supporting traditional use for headache and eye-related complaints.
+- **Clinical observation of [Triphaladi Thailam](/nighantu/formulation/triphaladi-thailam/) Nasya in chronic headache management** (2019): Observational study in South Indian Ayurvedic clinics reported that Nasya with [Triphaladi Thailam](/nighantu/formulation/triphaladi-thailam/) provided significant relief from chronic headaches, sinusitis, and rhinitis in 60% of patients over 21-day treatment protocol.
+- **[Pterostilbene](/nighantu/glossary/compounds-o-q/#pterostilbene) from Pterocarpus marsupium and ocular health benefits** (2021): Studies confirmed that Pterocarpus marsupium (Asanaka) contains [pterostilbene](/nighantu/glossary/compounds-o-q/#pterostilbene) and [epicatechin](/nighantu/glossary/compounds-d-g/#epicatechin) with demonstrated retinal protective effects and anti-diabetic properties, supporting the formulation's traditional use for eye health.
 
 ## Recent safety updates
 
@@ -77,11 +77,11 @@ Sahasrayogam (Taila Prakarana). Available as both [Triphaladi Thailam](/ayurveda
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Thailam (medicated [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)), External application
+**Dosage Forms:** Thailam (medicated [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)), External application
 
 **Standard Dosage:** External eye application (netra tarpana): prescribed amount
 
-**Bioavailability:** Oil base ([sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
+**Bioavailability:** Oil base ([sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
 
 **Optimal Timing:** External: before bath or at bedtime. Internal: before meals
 
@@ -89,12 +89,12 @@ Sahasrayogam (Taila Prakarana). Available as both [Triphaladi Thailam](/ayurveda
 
 **Storage:** Airtight amber glass/HDPE container, room temperature, protected from light
 
-**Marker Compounds:** Gallic acid, [Glycyrrhizin](/ayurveda-atlas/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin)
+**Marker Compounds:** Gallic acid, [Glycyrrhizin](/nighantu/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin)
 
-**Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Gallic acid, [Glycyrrhizin](/ayurveda-atlas/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin)
+**Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Gallic acid, [Glycyrrhizin](/nighantu/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin)
 
 **Vehicle (Anupana):** External: massage into affected area. Internal: with warm water/milk
 
 ### Synergistic Combinations
 
-- Key herbs: [Triphala](/ayurveda-atlas/herb/triphala/), [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) for eye health; oil base acts as lipid carrier for enhanced tissue penetration
+- Key herbs: [Triphala](/nighantu/herb/triphala/), [Yashtimadhu](/nighantu/herb/yashtimadhu/) for eye health; oil base acts as lipid carrier for enhanced tissue penetration

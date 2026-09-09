@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Eucalyptus_Herb/met
 
 **Standard Dosage:** 2-4g dried leaf as infusion 2-3 times daily; 500-1000mg standardized leaf extract capsule twice daily; 2-5ml tincture three times daily; poultice applied externally as needed
 
-**Bioavailability:** [Eucalyptus](/ayurveda-atlas/herb/eucalyptus/) leaves contain [polyphenols](/ayurveda-atlas/glossary/compounds-o-q/#polyphenols) ([tannins](/ayurveda-atlas/reference/tannins/), ellagic acid, [flavonoids](/ayurveda-atlas/reference/flavonoids/)) in addition to essential oil. Aqueous infusion extracts primarily polyphenols and residual volatile oil. Polyphenol bioavailability is moderate (10-20% for flavonoids, low for condensed tannins). [Ellagitannins](/ayurveda-atlas/glossary/compounds-d-g/#ellagitannins) are metabolized by gut flora to urolithins. The residual essential oil (1,8-[cineole](/ayurveda-atlas/glossary/compounds-c-d/#cineole)) in dried leaf preparations contributes aroma and mild [expectorant](/ayurveda-atlas/reference/expectorant/) action but at lower levels than pure essential oil. Enhancement: standardized leaf extracts with defined polyphenol content in phytosome form.
+**Bioavailability:** [Eucalyptus](/nighantu/herb/eucalyptus/) leaves contain [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) ([tannins](/nighantu/reference/tannins/), ellagic acid, [flavonoids](/nighantu/reference/flavonoids/)) in addition to essential oil. Aqueous infusion extracts primarily polyphenols and residual volatile oil. Polyphenol bioavailability is moderate (10-20% for flavonoids, low for condensed tannins). [Ellagitannins](/nighantu/glossary/compounds-d-g/#ellagitannins) are metabolized by gut flora to urolithins. The residual essential oil (1,8-[cineole](/nighantu/glossary/compounds-c-d/#cineole)) in dried leaf preparations contributes aroma and mild [expectorant](/nighantu/reference/expectorant/) action but at lower levels than pure essential oil. Enhancement: standardized leaf extracts with defined polyphenol content in phytosome form.
 
 **Optimal Timing:** Infusion/tea: 2-3 times daily between meals for respiratory conditions; capsule: after meals twice daily; poultice: as needed for local pain relief
 
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Eucalyptus_Herb/met
 
 **Storage:** Dried leaves in airtight containers below 25 deg C, protected from moisture and light. Tincture: amber glass, room temperature. Tea bags: individually sealed, nitrogen-flushed for aroma retention.
 
-**Marker Compounds:** Ellagic acid, Gallic acid, [Rutin](/ayurveda-atlas/glossary/compounds-q-t/#rutin), [Quercetin](/ayurveda-atlas/reference/quercetinquercetin/), 1,8-Cineole (residual), Eucalyptin, Macrocarpal A
+**Marker Compounds:** Ellagic acid, Gallic acid, [Rutin](/nighantu/glossary/compounds-q-t/#rutin), [Quercetin](/nighantu/reference/quercetinquercetin/), 1,8-Cineole (residual), Eucalyptin, Macrocarpal A
 
 ### Extraction Methods
 
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Eucalyptus_Herb/met
 
 ### Synergistic Combinations
 
-- With [Tulsi](/ayurveda-atlas/herb/tulsi/) leaf for respiratory and immune support
+- With [Tulsi](/nighantu/herb/tulsi/) leaf for respiratory and immune support
 - With Adulsa (Adhatoda) for bronchial conditions
-- With [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) for sore throat and cough
-- With [Ginger](/ayurveda-atlas/herb/ginger/) for enhanced expectorant and warming effect
+- With [Yashtimadhu](/nighantu/herb/yashtimadhu/) for sore throat and cough
+- With [Ginger](/nighantu/herb/ginger/) for enhanced expectorant and warming effect

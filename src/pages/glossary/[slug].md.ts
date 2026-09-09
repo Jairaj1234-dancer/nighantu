@@ -11,7 +11,7 @@ export const GET: APIRoute = ({ props }) => {
   const body = [
     `# ${entry.data.title}`, '', `> ${entry.data.answer}`, '',
     entry.body?.trim() ?? '', '', '---', '',
-    'Published by Age Ayurveda in the Ayurveda Atlas. Educational reference only.',
+    'Published by Age Ayurveda in the Nighantu. Educational reference only.',
     'Incorporates material from the Amidha Ayurveda Herb Database under CC BY 4.0.',
   ].join('\n');
   return new Response(body, { headers: { 'Content-Type': 'text/markdown; charset=utf-8' } });

@@ -130,7 +130,7 @@ export function composeAnswer({ title, kind, facts, sections, lead, group }) {
       bits.push(`The usual dose is ${dosage.replace(/^[A-Z]/, (c) => c.toLowerCase())}.`);
     }
   } else if (kind === 'hub') {
-    bits.push(`${title} is a reference entry in the Ayurveda Atlas.`);
+    bits.push(`${title} is a reference entry in the Nighantu.`);
     const opening = sentences(lead, 2) || sentences(text, 2);
     if (opening) bits.push(opening);
   } else {

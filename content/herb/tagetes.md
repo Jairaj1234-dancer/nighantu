@@ -45,11 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Tagetes/meta-analys
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Essential oil (topical/aromatherapy), Churna (flower powder), Tincture, Capsule, Cream/Ointment, Eye drops ([lutein](/ayurveda-atlas/glossary/compounds-l-o/#lutein)-based)
+**Dosage Forms:** Essential oil (topical/aromatherapy), Churna (flower powder), Tincture, Capsule, Cream/Ointment, Eye drops ([lutein](/nighantu/glossary/compounds-l-o/#lutein)-based)
 
 **Standard Dosage:** 1-3 g flower powder per day; 2-5 drops essential oil diluted in carrier for topical use; 10-20 mg lutein supplement per day (from Tagetes extract); topical cream 2-5% essential oil
 
-**Bioavailability:** Lutein and [zeaxanthin](/ayurveda-atlas/glossary/compounds-t-z/#zeaxanthin) (xanthophyll [carotenoids](/ayurveda-atlas/glossary/compounds-a-c/#carotenoids)) show moderate oral bioavailability (20-40%), significantly enhanced by co-administration with dietary fat (2-3x improvement with 5-10 g fat). Lutein is preferentially deposited in the macular region of the retina. Essential oil constituents (tagetone, [ocimene](/ayurveda-atlas/glossary/compounds-l-o/#ocimene)) are rapidly absorbed transdermally. Thiophene derivatives have moderate oral bioavailability.
+**Bioavailability:** Lutein and [zeaxanthin](/nighantu/glossary/compounds-t-z/#zeaxanthin) (xanthophyll [carotenoids](/nighantu/glossary/compounds-a-c/#carotenoids)) show moderate oral bioavailability (20-40%), significantly enhanced by co-administration with dietary fat (2-3x improvement with 5-10 g fat). Lutein is preferentially deposited in the macular region of the retina. Essential oil constituents (tagetone, [ocimene](/nighantu/glossary/compounds-l-o/#ocimene)) are rapidly absorbed transdermally. Thiophene derivatives have moderate oral bioavailability.
 
 **Optimal Timing:** Lutein supplements: with the largest meal of the day (requires dietary fat for absorption). Essential oil topical: evening application (phototoxicity risk). Flower powder: with meals.
 
@@ -74,5 +74,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Tagetes/meta-analys
 - Bilberry (comprehensive eye health formulation)
 - Astaxanthin (carotenoid synergy for macular protection)
 - Omega-3 fatty acids (enhanced lutein absorption and retinal protection)
-- [Saffron](/ayurveda-atlas/herb/saffron/) (macular degeneration support)
+- [Saffron](/nighantu/herb/saffron/) (macular degeneration support)
 - Vitamin E + Zinc (AREDS-type eye supplement combination)

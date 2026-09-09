@@ -50,10 +50,10 @@ Vagbhata also codifies the **viruddha (incompatibility) doctrine** — Sutrastha
 
 ## See also
 
-- [Sharangadhara Samhita](/ayurveda-atlas/text/sharangadhara-samhita/)
-- [Chyawanprash](/ayurveda-atlas/formulation/chyawanprash/)
+- [Sharangadhara Samhita](/nighantu/text/sharangadhara-samhita/)
+- [Chyawanprash](/nighantu/formulation/chyawanprash/)
 - Chyawanprash Royale
-- [Rasayana](/ayurveda-atlas/reference/rasayana/)
-- [Avaleha](/ayurveda-atlas/formulation/avaleha/)
+- [Rasayana](/nighantu/reference/rasayana/)
+- [Avaleha](/nighantu/formulation/avaleha/)
 
 *Classical-text reference hub. Expand with chapter-level citation index as needed.*

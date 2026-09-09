@@ -30,28 +30,28 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Kasturi/meta-analysis.md"
 - Muscone (3-methylcyclopentadecanone) - primary active component
 - Muscopyridine and muscopyranol
 - Cholesterol and fatty acids
-- [Proteins](/ayurveda-atlas/glossary/compounds-o-q/#proteins) and [peptides](/ayurveda-atlas/glossary/compounds-o-q/#peptides)
-- Wax esters and [steroids](/ayurveda-atlas/glossary/compounds-q-t/#steroids) (5-alpha-androst-16-en-3-one)
+- [Proteins](/nighantu/glossary/compounds-o-q/#proteins) and [peptides](/nighantu/glossary/compounds-o-q/#peptides)
+- Wax esters and [steroids](/nighantu/glossary/compounds-q-t/#steroids) (5-alpha-androst-16-en-3-one)
 - Phenolic compounds
 - Ammonia and other volatile compounds
-- Mineral salts ([potassium](/ayurveda-atlas/glossary/compounds-o-q/#potassium), calcium, sodium)
+- Mineral salts ([potassium](/nighantu/glossary/compounds-o-q/#potassium), calcium, sodium)
 
 ## How does it work?
 
 - Neuroprotection: Muscone crosses blood-brain barrier, activates cAMP/PKA signaling, reduces neuroinflammation, and protects neurons against ischemia-reperfusion injury
 - Anti-inflammatory: Inhibits NF-kB pathway, reduces TNF-alpha, IL-1beta, and IL-6 production; suppresses microglial activation
-- [Cardioprotective](/ayurveda-atlas/reference/cardioprotective/): Stimulates cardiac contractility, improves coronary blood flow, and exhibits antiarrhythmic properties through calcium channel modulation
-- [Anticancer](/ayurveda-atlas/reference/anticancer/): Induces apoptosis in cancer cell lines through mitochondrial pathway and cell cycle arrest
+- [Cardioprotective](/nighantu/reference/cardioprotective/): Stimulates cardiac contractility, improves coronary blood flow, and exhibits antiarrhythmic properties through calcium channel modulation
+- [Anticancer](/nighantu/reference/anticancer/): Induces apoptosis in cancer cell lines through mitochondrial pathway and cell cycle arrest
 
 ## Which traditional uses are supported by research?
 
 - Hridya (cardiac tonic): Muscone's cardioprotective and inotropic effects validate traditional use in cardiac formulations including Kasturi Bhairava Rasa and Mrigamadasava
 - Unmada and Apasmara (psychiatric/neurological disorders): Muscone's ability to cross BBB and modulate neuroinflammation supports classical Ayurvedic use in stroke, seizures, and psychiatric conditions
-- Vishamjwara (intermittent fevers) and Sannipata: Anti-inflammatory and [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) properties provide basis for traditional use in severe febrile and toxic conditions
+- Vishamjwara (intermittent fevers) and Sannipata: Anti-inflammatory and [immunomodulatory](/nighantu/reference/immunomodulatory/) properties provide basis for traditional use in severe febrile and toxic conditions
 
 ## What do recent clinical trials show?
 
-- **Zoology, chemical composition, pharmacology, quality control and future perspective of Musk (Moschus): a review** (2021): Comprehensive review confirmed muscone possesses potent anti-inflammatory, [neuroprotective](/ayurveda-atlas/reference/neuroprotective/), anticancer, [antioxidant](/ayurveda-atlas/reference/antioxidant/), and cardiovascular protective effects; muscone activates cAMP/PKA signaling pathway for neuroprotection.
+- **Zoology, chemical composition, pharmacology, quality control and future perspective of Musk (Moschus): a review** (2021): Comprehensive review confirmed muscone possesses potent anti-inflammatory, [neuroprotective](/nighantu/reference/neuroprotective/), anticancer, [antioxidant](/nighantu/reference/antioxidant/), and cardiovascular protective effects; muscone activates cAMP/PKA signaling pathway for neuroprotection.
 - **Review on Kasturi (Musk) - Ayurvedic and Pharmacological Perspectives** (2023): Musk has been validated for use in cardiac, mental, and neurological disorders; muscone shows ability to cross the blood-brain barrier and reduce neuroinflammation in animal models of stroke and traumatic brain injury.
 - **Synthetic Muscone Analogues: Neuroprotective and Anti-inflammatory Studies** (2024): Synthetic muscone analogues demonstrate comparable neuroprotective and anti-inflammatory effects to natural musk in preclinical models, offering a sustainable alternative to endangered species-derived products.
 

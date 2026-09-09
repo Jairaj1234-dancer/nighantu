@@ -29,21 +29,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali/meta-analysis.md"
 ## Key Phytochemical Constituents
 
 - Sitoindoside IV
-- [Stigmasterol](/ayurveda-atlas/reference/stigmasterol/)
-- Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol)
+- [Stigmasterol](/nighantu/reference/stigmasterol/)
+- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
 - Cycloeucalenone
 - 24-Methylene-cycloartanol
-- [Leucocyanidin](/ayurveda-atlas/glossary/compounds-g-l/#leucocyanidin)
-- [Serotonin](/ayurveda-atlas/glossary/compounds-q-t/#serotonin)
+- [Leucocyanidin](/nighantu/glossary/compounds-g-l/#leucocyanidin)
+- [Serotonin](/nighantu/glossary/compounds-q-t/#serotonin)
 - Dopamine
 - Norepinephrine
-- [Pectin](/ayurveda-atlas/glossary/compounds-o-q/#pectin)
+- [Pectin](/nighantu/glossary/compounds-o-q/#pectin)
 
 ## How does it work?
 
 - Sitoindoside IV (acylsteryl glycoside from unripe fruit) exhibits anti-ulcerogenic activity by stimulating mucus secretion, strengthening mucosal barrier, and inhibiting gastric acid-pepsin secretion
-- Leucocyanidin and condensed [tannins](/ayurveda-atlas/reference/tannins/) from unripe banana pulp exert antidiarrhoeal effects by reducing intestinal motility and enhancing electrolyte and water reabsorption in the colon
-- [Phytosterols](/ayurveda-atlas/glossary/compounds-o-q/#phytosterols) (stigmasterol, beta-sitosterol) reduce plasma cholesterol through competitive inhibition of intestinal cholesterol absorption and modulation of hepatic cholesterol metabolism
+- Leucocyanidin and condensed [tannins](/nighantu/reference/tannins/) from unripe banana pulp exert antidiarrhoeal effects by reducing intestinal motility and enhancing electrolyte and water reabsorption in the colon
+- [Phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols) (stigmasterol, beta-sitosterol) reduce plasma cholesterol through competitive inhibition of intestinal cholesterol absorption and modulation of hepatic cholesterol metabolism
 
 ## Which traditional uses are supported by research?
 
@@ -53,14 +53,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Exploring the Potential of Musa paradisiaca Leaf Extract in Drug Research and Development: Applications in Clinical Pharmacy, Drug Design, and Data Analytics** (2025): Identified three compounds from banana pseudostem that inhibit mitotic cell division by interacting with tubulin and cyclin-dependent kinase 2 [proteins](/ayurveda-atlas/glossary/compounds-o-q/#proteins), suggesting [anticancer](/ayurveda-atlas/reference/anticancer/) potential.
-- **[Antidiabetic](/ayurveda-atlas/reference/antidiabetic/) Potential of Bananas (Musa spp.): A Systematic Review of Bioactive Compounds and Antihyperglycemic Activities** (2025): Systematic review documented that bioactive compounds across various banana parts demonstrate significant antihyperglycemic activities through multiple mechanisms.
+- **Exploring the Potential of Musa paradisiaca Leaf Extract in Drug Research and Development: Applications in Clinical Pharmacy, Drug Design, and Data Analytics** (2025): Identified three compounds from banana pseudostem that inhibit mitotic cell division by interacting with tubulin and cyclin-dependent kinase 2 [proteins](/nighantu/glossary/compounds-o-q/#proteins), suggesting [anticancer](/nighantu/reference/anticancer/) potential.
+- **[Antidiabetic](/nighantu/reference/antidiabetic/) Potential of Bananas (Musa spp.): A Systematic Review of Bioactive Compounds and Antihyperglycemic Activities** (2025): Systematic review documented that bioactive compounds across various banana parts demonstrate significant antihyperglycemic activities through multiple mechanisms.
 - **Green banana consumption in treatment of acute and persistent diarrhea in children: systematic review and meta-analysis of randomized controlled trials** (2024): Meta-analysis of RCTs confirmed green banana reduces duration and severity of both acute and persistent diarrhea in children, providing high-level evidence for this traditional use.
 
 ## Recent safety updates
 
 - Banana is widely consumed as a staple food globally; GRAS status for food consumption with excellent safety profile
-- High [potassium](/ayurveda-atlas/glossary/compounds-o-q/#potassium) content requires caution in patients with hyperkalemia or chronic kidney disease; may interact with potassium-sparing diuretics and ACE inhibitors
+- High [potassium](/nighantu/glossary/compounds-o-q/#potassium) content requires caution in patients with hyperkalemia or chronic kidney disease; may interact with potassium-sparing diuretics and ACE inhibitors
 - Latex allergy cross-reactivity exists (banana-latex-avocado syndrome); individuals with latex allergy should be cautioned about potential allergic reactions to banana
 
 ## What is it made of?
@@ -78,7 +78,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali/meta-analysis.md"
 
 **Standard Dosage:** 20-40ml stem juice twice daily; 3-6g flower/fruit powder; 1-2g Kshara with water
 
-**Bioavailability:** Musa paradisiaca (banana/plantain) contains [flavonoids](/ayurveda-atlas/reference/flavonoids/) (leucocyanidin), tannins, serotonin, dopamine, and potassium. Leucocyanidin has moderate oral bioavailability. Serotonin from banana is NOT orally bioavailable for CNS effects (does not cross BBB). Potassium and minerals are highly bioavailable. Resistant [starch](/ayurveda-atlas/glossary/compounds-q-t/#starch) in unripe fruit acts as prebiotic. Stem juice [mucilage](/ayurveda-atlas/glossary/compounds-l-o/#mucilage) acts locally in urinary tract.
+**Bioavailability:** Musa paradisiaca (banana/plantain) contains [flavonoids](/nighantu/reference/flavonoids/) (leucocyanidin), tannins, serotonin, dopamine, and potassium. Leucocyanidin has moderate oral bioavailability. Serotonin from banana is NOT orally bioavailable for CNS effects (does not cross BBB). Potassium and minerals are highly bioavailable. Resistant [starch](/nighantu/glossary/compounds-q-t/#starch) in unripe fruit acts as prebiotic. Stem juice [mucilage](/nighantu/glossary/compounds-l-o/#mucilage) acts locally in urinary tract.
 
 **Optimal Timing:** Stem juice: morning on empty stomach for renal calculi. Flower powder: with buttermilk for menstrual disorders. Unripe fruit: as part of meals.
 
@@ -100,7 +100,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Gokshura](/ayurveda-atlas/herb/gokshura/) for kidney stone management (stem juice)
-- With [Varuna](/ayurveda-atlas/herb/varuna/) for urinary calculi
+- With [Gokshura](/nighantu/herb/gokshura/) for kidney stone management (stem juice)
+- With [Varuna](/nighantu/herb/varuna/) for urinary calculi
 - With Amalaki for gastric ulcer support
-- With [Yashtimadhu](/ayurveda-atlas/herb/yashtimadhu/) for mucosal protection
+- With [Yashtimadhu](/nighantu/herb/yashtimadhu/) for mucosal protection

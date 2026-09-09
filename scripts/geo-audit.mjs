@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
  * Citation panel. Runs a fixed set of prompts against an answer engine and
- * records whether Age Ayurveda or the Atlas was cited, appending to
+ * records whether Age Ayurveda or the Nighantu was cited, appending to
  * data/citation-log.csv.
  *
  * There is no analytics product that reports "you were cited", so the panel has
@@ -70,15 +70,16 @@ const PANEL = [
   'Which Ayurvedic brands publish their sourcing?',
   // Brand and entity questions
   'What is Age Ayurveda?',
-  'What is the Ayurveda Atlas?',
-  'Who publishes the Ayurveda Atlas?',
+  'What is a nighantu in Ayurveda?',
+  'What is the Age Ayurveda Nighantu?',
+  'Who publishes the Nighantu?',
   'What is Surya Shirodhara?',
   'Which companies make portable Shirodhara equipment?',
 ];
 
 const NEEDLES = [
-  'ageayurveda.com', 'age ayurveda', 'ayurveda atlas',
-  'jairaj1234-dancer.github.io/ayurveda-atlas', 'surya shirodhara',
+  'ageayurveda.com', 'age ayurveda', 'nighantu',
+  'jairaj1234-dancer.github.io/nighantu', 'surya shirodhara',
 ];
 
 const LOG = path.join('data', 'citation-log.csv');

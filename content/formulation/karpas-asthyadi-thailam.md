@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Karpas-Asth
 
 **Standard Dosage:** External: sufficient quantity for local application/massage. Internal (where applicable): 5-10 mL as directed, as per Sahasrayogam
 
-**Bioavailability:** Oil base provides transdermal delivery of active compounds to musculoskeletal tissues. Massage enhances blood flow and deeper penetration. [Sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) with milk processing adds [phospholipids](/ayurveda-atlas/glossary/compounds-o-q/#phospholipids) for enhanced skin absorption.
+**Bioavailability:** Oil base provides transdermal delivery of active compounds to musculoskeletal tissues. Massage enhances blood flow and deeper penetration. [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) with milk processing adds [phospholipids](/nighantu/glossary/compounds-o-q/#phospholipids) for enhanced skin absorption.
 
 **Optimal Timing:** External: morning before bath or evening. For joint/bone conditions.
 
@@ -57,7 +57,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Karpas-Asth
 
 **Storage:** Store in amber glass or HDPE bottles in a cool, dry place. Temperature not exceeding 25°C. Protect from light.
 
-**Marker Compounds:** [Gossypol](/ayurveda-atlas/glossary/compounds-g-l/#gossypol) (monitored for safety), Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), [Sesamin](/ayurveda-atlas/glossary/compounds-q-t/#sesamin), [Sesamolin](/ayurveda-atlas/glossary/compounds-q-t/#sesamolin)
+**Marker Compounds:** [Gossypol](/nighantu/glossary/compounds-g-l/#gossypol) (monitored for safety), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Sesamin](/nighantu/glossary/compounds-q-t/#sesamin), [Sesamolin](/nighantu/glossary/compounds-q-t/#sesamolin)
 
 **Quality Parameters:** Acid value, peroxide value, saponification value, refractive index, specific gravity, viscosity, gossypol content (must be within safe limits), rancidity test negative, HPTLC fingerprint, microbial limits, heavy metals
 
@@ -65,7 +65,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Karpas-Asth
 
 ### Synergistic Combinations
 
-- [Karpasasthyadi Thailam](/ayurveda-atlas/formulation/karpasasthyadi-thailam/) (variant spelling)
-- [Dhanwantaram Thailam](/ayurveda-atlas/formulation/dhanwantaram-thailam/)
-- [Bala](/ayurveda-atlas/herb/bala/) Taila
-- [Dashamularishta](/ayurveda-atlas/formulation/dashamularishta/) (internal)
+- [Karpasasthyadi Thailam](/nighantu/formulation/karpasasthyadi-thailam/) (variant spelling)
+- [Dhanwantaram Thailam](/nighantu/formulation/dhanwantaram-thailam/)
+- [Bala](/nighantu/herb/bala/) Taila
+- [Dashamularishta](/nighantu/formulation/dashamularishta/) (internal)

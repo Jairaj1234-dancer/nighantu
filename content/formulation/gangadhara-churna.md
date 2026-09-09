@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Gangadhara-Churna
 
 | Language | Name |
 |----------|------|
-| English | [Gangadhara Churna](/ayurveda-atlas/formulation/gangadhara-churna/) |
+| English | [Gangadhara Churna](/nighantu/formulation/gangadhara-churna/) |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Gangadhara-Churna
 
 **Standard Dosage:** 3-6 g twice daily with warm water or buttermilk, as per AFI
 
-**Bioavailability:** Fine powder form provides rapid dissolution and absorption. Shunthi acts as bioenhancer. Ativisha [alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) (post-Shodhana) are well-absorbed orally with onset within 30-60 minutes.
+**Bioavailability:** Fine powder form provides rapid dissolution and absorption. Shunthi acts as bioenhancer. Ativisha [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) (post-Shodhana) are well-absorbed orally with onset within 30-60 minutes.
 
 **Optimal Timing:** Before meals, twice daily, for Atisara (diarrhea) and Grahani (IBS) conditions
 
@@ -57,15 +57,15 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Gangadhara-Churna
 
 **Storage:** Store in airtight containers in a cool, dry place. Temperature not exceeding 30°C.
 
-**Marker Compounds:** [Atisine](/ayurveda-atlas/glossary/compounds-a-c/#atisine), [Heteratisine](/ayurveda-atlas/glossary/compounds-g-l/#heteratisine) (from Ativisha), Rotundine, [Cyperene](/ayurveda-atlas/glossary/compounds-c-d/#cyperene) (from Musta), 6-[Gingerol](/ayurveda-atlas/glossary/compounds-d-g/#gingerol), [Loturine](/ayurveda-atlas/glossary/compounds-l-o/#loturine) (from [Lodhra](/ayurveda-atlas/herb/lodhra/))
+**Marker Compounds:** [Atisine](/nighantu/glossary/compounds-a-c/#atisine), [Heteratisine](/nighantu/glossary/compounds-g-l/#heteratisine) (from Ativisha), Rotundine, [Cyperene](/nighantu/glossary/compounds-c-d/#cyperene) (from Musta), 6-[Gingerol](/nighantu/glossary/compounds-d-g/#gingerol), [Loturine](/nighantu/glossary/compounds-l-o/#loturine) (from [Lodhra](/nighantu/herb/lodhra/))
 
 **Quality Parameters:** Loss on drying (<8%), total ash, acid-insoluble ash, particle size (pass sieve #85), HPTLC fingerprint for atisine/ativine (from Ativisha), rotundine (from Musta), microbial limits, heavy metals, alkaloid content within safe limits
 
-**Vehicle (Anupana):** Buttermilk ([Takra](/ayurveda-atlas/herb/takra/)) or warm water
+**Vehicle (Anupana):** Buttermilk ([Takra](/nighantu/herb/takra/)) or warm water
 
 ### Synergistic Combinations
 
-- [Kutajarishta](/ayurveda-atlas/formulation/kutajarishta/)
-- [Bilwadi Leha](/ayurveda-atlas/formulation/bilwadi-leha/)
-- Dadimadi [Ghrita](/ayurveda-atlas/herb/ghrita/)|Dadimadi Ghrita
-- Changeri [Ghrita](/ayurveda-atlas/herb/ghrita/)|[Changeri](/ayurveda-atlas/herb/changeri/) Ghrita
+- [Kutajarishta](/nighantu/formulation/kutajarishta/)
+- [Bilwadi Leha](/nighantu/formulation/bilwadi-leha/)
+- Dadimadi [Ghrita](/nighantu/herb/ghrita/)|Dadimadi Ghrita
+- Changeri [Ghrita](/nighantu/herb/ghrita/)|[Changeri](/nighantu/herb/changeri/) Ghrita

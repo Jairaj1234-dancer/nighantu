@@ -29,10 +29,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Lakuca/meta-analysis.md"
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| **Rasa** (Taste) | [Amla](/ayurveda-atlas/herb/amla/), Kashaya | Primary taste |
+| **Rasa** (Taste) | [Amla](/nighantu/herb/amla/), Kashaya | Primary taste |
 | **Guna** (Quality) | Guru | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
-| **Vipaka** (Post-digestive) | [Amla](/ayurveda-atlas/herb/amla/) | Post-digestive effect |
+| **Vipaka** (Post-digestive) | [Amla](/nighantu/herb/amla/) | Post-digestive effect |
 
 ## What is it made of?
 
@@ -49,17 +49,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Lakuca/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g powder per day; 50-100 mL decoction twice daily; seed powder 1-3 g
 
-**Bioavailability:** Low to moderate bioavailability due to presence of latex [proteins](/ayurveda-atlas/glossary/compounds-o-q/#proteins) and complex [polysaccharides](/ayurveda-atlas/glossary/compounds-o-q/#polysaccharides). [Alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) (particularly [lactucin](/ayurveda-atlas/glossary/compounds-g-l/#lactucin)-type) show moderate GI absorption. Lipid-based delivery systems enhance bioavailability of sesquiterpene lactones by approximately 30%.
+**Bioavailability:** Low to moderate bioavailability due to presence of latex [proteins](/nighantu/glossary/compounds-o-q/#proteins) and complex [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides). [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) (particularly [lactucin](/nighantu/glossary/compounds-g-l/#lactucin)-type) show moderate GI absorption. Lipid-based delivery systems enhance bioavailability of sesquiterpene lactones by approximately 30%.
 
 **Optimal Timing:** Evening administration for sleep-promoting effects; before meals for digestive applications
 
-**Standardized Extract:** Standardized hydroalcoholic extract (8:1), minimum 0.5% sesquiterpene lactones (as lactucin equivalents). Latex extract standardized to 1% [lactucopicrin](/ayurveda-atlas/glossary/compounds-g-l/#lactucopicrin).
+**Standardized Extract:** Standardized hydroalcoholic extract (8:1), minimum 0.5% sesquiterpene lactones (as lactucin equivalents). Latex extract standardized to 1% [lactucopicrin](/nighantu/glossary/compounds-g-l/#lactucopicrin).
 
 **Shelf Life:** 18 months for powder; 30 months for coated tablets/capsules; 12 months for liquid extracts
 
 **Storage:** Store below 25 deg C in airtight, light-resistant containers. Latex preparations are highly sensitive to light and oxidation; store under nitrogen in amber containers at 2-8 deg C.
 
-**Marker Compounds:** Lactucin, Lactucopicrin, Beta-amyrin, [Lupeol](/ayurveda-atlas/reference/lupeol/), [Taraxasterol](/ayurveda-atlas/glossary/compounds-q-t/#taraxasterol), Germanicol
+**Marker Compounds:** Lactucin, Lactucopicrin, Beta-amyrin, [Lupeol](/nighantu/reference/lupeol/), [Taraxasterol](/nighantu/glossary/compounds-q-t/#taraxasterol), Germanicol
 
 ### Extraction Methods
 
@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Lakuca/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Jatamansi](/ayurveda-atlas/herb/jatamansi/) (sedative potentiation)
-- [Tagara](/ayurveda-atlas/herb/tagara/) ([anxiolytic](/ayurveda-atlas/reference/anxiolytic/) synergy)
-- [Brahmi](/ayurveda-atlas/herb/brahmi/) (cognitive support)
-- [Sarpagandha](/ayurveda-atlas/herb/sarpagandha/) ([antihypertensive](/ayurveda-atlas/glossary/pharmacology/#antihypertensive) combination)
+- [Jatamansi](/nighantu/herb/jatamansi/) (sedative potentiation)
+- [Tagara](/nighantu/herb/tagara/) ([anxiolytic](/nighantu/reference/anxiolytic/) synergy)
+- [Brahmi](/nighantu/herb/brahmi/) (cognitive support)
+- [Sarpagandha](/nighantu/herb/sarpagandha/) ([antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive) combination)

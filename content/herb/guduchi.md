@@ -24,8 +24,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Guduchi/meta-analysis.md"
 | Language | Name |
 |----------|------|
 | English | Guduchi |
-| Common Names | Guduchi, [Giloy](/ayurveda-atlas/herb/guduchi/), Heart-leaved Moonseed |
-| Hindi | [Giloy](/ayurveda-atlas/herb/guduchi/) |
+| Common Names | Guduchi, [Giloy](/nighantu/herb/guduchi/), Heart-leaved Moonseed |
+| Hindi | [Giloy](/nighantu/herb/guduchi/) |
 | Sanskrit | Guduchi, Amrita |
 | Latin/Botanical | *Tinospora cordifolia* |
 
@@ -44,21 +44,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Guduchi/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine)
-- [Tinosporin](/ayurveda-atlas/glossary/compounds-t-z/#tinosporin)
-- [Columbin](/ayurveda-atlas/glossary/compounds-c-d/#columbin)
+- [Berberine](/nighantu/glossary/compounds-a-c/#berberine)
+- [Tinosporin](/nighantu/glossary/compounds-t-z/#tinosporin)
+- [Columbin](/nighantu/glossary/compounds-c-d/#columbin)
 - Giloin
 
 ## Therapeutic Actions (Karma)
 
 - Immunomodulator
-- [Antipyretic](/ayurveda-atlas/reference/antipyretic/)
+- [Antipyretic](/nighantu/reference/antipyretic/)
 - Anti-inflammatory
-- [Hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/)
+- [Hepatoprotective](/nighantu/reference/hepatoprotective/)
 
 ## How is it used traditionally?
 
-Same as [Giloy](/ayurveda-atlas/herb/guduchi/) — alternate name used in classical texts. See [Giloy](/ayurveda-atlas/herb/guduchi/) entry.
+Same as [Giloy](/nighantu/herb/guduchi/) — alternate name used in classical texts. See [Giloy](/nighantu/herb/guduchi/) entry.
 
 ## Where is it described in the classical texts?
 
@@ -111,11 +111,11 @@ Stem powder: 3-6g/day; Satva: 500mg-1g/day
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Swarasa (fresh stem juice), Churna (stem powder), Satva (aqueous [starch](/ayurveda-atlas/glossary/compounds-q-t/#starch) extract), Kashayam (decoction), Ghana Vati (solid extract tablet), Capsule, [Ghrita](/ayurveda-atlas/herb/ghrita/) (medicated ghee), Kwath Ghana
+**Dosage Forms:** Swarasa (fresh stem juice), Churna (stem powder), Satva (aqueous [starch](/nighantu/glossary/compounds-q-t/#starch) extract), Kashayam (decoction), Ghana Vati (solid extract tablet), Capsule, [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Kwath Ghana
 
 **Standard Dosage:** 10-20ml fresh stem juice; 3-6g powder twice daily; 500mg-1g Satva with honey twice daily; 50-100ml decoction; 500mg Ghana Vati twice daily
 
-**Bioavailability:** Guduchi is synonymous with [Giloy](/ayurveda-atlas/herb/guduchi/) (Tinospora cordifolia) - see Giloy entry for detailed bioavailability data. In brief: diterpenoid lactones ([tinosporaside](/ayurveda-atlas/glossary/compounds-t-z/#tinosporaside), columbin) have moderate oral bioavailability (20-35%); [berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine) fraction has low bioavailability (<5%); polysaccharide fraction (Satva) acts primarily through GALT. Fresh stem juice (Swarasa) is traditionally most valued. [Neem](/ayurveda-atlas/herb/neem/)-Guduchi (grown on Azadirachta indica) is considered therapeutically superior per classical texts. Enhancement: [piperine](/ayurveda-atlas/reference/piperine/) co-administration; phytosome technology for diterpenoid fraction.
+**Bioavailability:** Guduchi is synonymous with [Giloy](/nighantu/herb/guduchi/) (Tinospora cordifolia) - see Giloy entry for detailed bioavailability data. In brief: diterpenoid lactones ([tinosporaside](/nighantu/glossary/compounds-t-z/#tinosporaside), columbin) have moderate oral bioavailability (20-35%); [berberine](/nighantu/glossary/compounds-a-c/#berberine) fraction has low bioavailability (<5%); polysaccharide fraction (Satva) acts primarily through GALT. Fresh stem juice (Swarasa) is traditionally most valued. [Neem](/nighantu/herb/neem/)-Guduchi (grown on Azadirachta indica) is considered therapeutically superior per classical texts. Enhancement: [piperine](/nighantu/reference/piperine/) co-administration; phytosome technology for diterpenoid fraction.
 
 **Optimal Timing:** Fresh juice or Satva on empty stomach with honey for immune support; Kashayam before meals for fever; Ghana Vati twice daily with meals
 
@@ -125,7 +125,7 @@ Stem powder: 3-6g/day; Satva: 500mg-1g/day
 
 **Storage:** Fresh stem: process within 48 hours. Powder: airtight below 25 deg C. Satva: double-sealed moisture-proof containers with desiccant - extremely hygroscopic. Ghana Vati: blister-packed, room temperature.
 
-**Marker Compounds:** Tinosporaside, Columbin, Berberine, [Palmatine](/ayurveda-atlas/glossary/compounds-o-q/#palmatine), Cordifolioside A, [Arabinogalactan](/ayurveda-atlas/glossary/compounds-1-a/#arabinogalactan) (Satva), 20-beta-hydroxyecdysone, [Magnoflorine](/ayurveda-atlas/glossary/compounds-l-o/#magnoflorine)
+**Marker Compounds:** Tinosporaside, Columbin, Berberine, [Palmatine](/nighantu/glossary/compounds-o-q/#palmatine), Cordifolioside A, [Arabinogalactan](/nighantu/glossary/compounds-1-a/#arabinogalactan) (Satva), 20-beta-hydroxyecdysone, [Magnoflorine](/nighantu/glossary/compounds-l-o/#magnoflorine)
 
 ### Extraction Methods
 
@@ -137,9 +137,9 @@ Stem powder: 3-6g/day; Satva: 500mg-1g/day
 
 ### Synergistic Combinations
 
-- With Sunthi (dry [ginger](/ayurveda-atlas/herb/ginger/)) for Amapachana (toxin digestion) and fever - classical combination
-- With Amalaki for [antioxidant](/ayurveda-atlas/reference/antioxidant/) and immune Rasayana
-- With [Ashwagandha](/ayurveda-atlas/herb/ashwagandha/) for immune-[adaptogenic](/ayurveda-atlas/reference/adaptogenic/) synergy
+- With Sunthi (dry [ginger](/nighantu/herb/ginger/)) for Amapachana (toxin digestion) and fever - classical combination
+- With Amalaki for [antioxidant](/nighantu/reference/antioxidant/) and immune Rasayana
+- With [Ashwagandha](/nighantu/herb/ashwagandha/) for immune-[adaptogenic](/nighantu/reference/adaptogenic/) synergy
 - With Neem for antipyretic and blood-purifying action
-- With [Gokshura](/ayurveda-atlas/herb/gokshura/) for urinary and immune support
-- With [Pippali](/ayurveda-atlas/herb/pippali/) for bioenhanced immune formulation
+- With [Gokshura](/nighantu/herb/gokshura/) for urinary and immune support
+- With [Pippali](/nighantu/herb/pippali/) for bioenhanced immune formulation

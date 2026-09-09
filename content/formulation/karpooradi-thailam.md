@@ -23,34 +23,34 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Karpooradi-
 
 | Language | Name |
 |----------|------|
-| English | [Karpooradi Thailam](/ayurveda-atlas/formulation/karpooradi-thailam/) |
+| English | [Karpooradi Thailam](/nighantu/formulation/karpooradi-thailam/) |
 
 ## Key Ingredients
 
-- Karpoora (Cinnamomum camphora / [Camphor](/ayurveda-atlas/herb/camphor/)) - primary ingredient
+- Karpoora (Cinnamomum camphora / [Camphor](/nighantu/herb/camphor/)) - primary ingredient
 - Ajamoda (Apium graveolens / Celery/Wild Celery)
-- [Coconut oil](/ayurveda-atlas/glossary/concepts-a-m/#coconut-oil) ([Narikela](/ayurveda-atlas/herb/narikela/) taila) base (or [Sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) in some preparations)
+- [Coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil) ([Narikela](/nighantu/herb/narikela/) taila) base (or [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) in some preparations)
 
 ## Where is it described in the classical texts?
 
-Sahasrayogam (Taila Prakarana). A characteristically simple 3-ingredient formulation from Kerala tradition. The name means 'oil based on [camphor](/ayurveda-atlas/herb/camphor/) (Karpoora)'. Primarily used as a warming chest rub and pain-relief oil.
+Sahasrayogam (Taila Prakarana). A characteristically simple 3-ingredient formulation from Kerala tradition. The name means 'oil based on [camphor](/nighantu/herb/camphor/) (Karpoora)'. Primarily used as a warming chest rub and pain-relief oil.
 
 ## How does it work?
 
-- [Camphor](/ayurveda-atlas/herb/camphor/) activates TRPM8 (cold-sensitive) and TRPA1 receptors on sensory neurons, producing [analgesic](/ayurveda-atlas/reference/analgesic/) and counter-irritant effects that override pain signals
-- [Camphor](/ayurveda-atlas/herb/camphor/) vapors stimulate cold-sensitive receptors in respiratory epithelium, causing reflex bronchodilation and subjective relief of nasal and chest congestion
-- [Apigenin](/ayurveda-atlas/glossary/compounds-1-a/#apigenin) from Ajamoda (celery) provides anti-inflammatory and smooth muscle relaxant effects, complementing [camphor](/ayurveda-atlas/herb/camphor/)'s decongestant action on airways
-- COX-2 downregulation by [camphor](/ayurveda-atlas/herb/camphor/) reduces prostaglandin-mediated inflammation at the site of topical application, validated in rat paw edema models
+- [Camphor](/nighantu/herb/camphor/) activates TRPM8 (cold-sensitive) and TRPA1 receptors on sensory neurons, producing [analgesic](/nighantu/reference/analgesic/) and counter-irritant effects that override pain signals
+- [Camphor](/nighantu/herb/camphor/) vapors stimulate cold-sensitive receptors in respiratory epithelium, causing reflex bronchodilation and subjective relief of nasal and chest congestion
+- [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin) from Ajamoda (celery) provides anti-inflammatory and smooth muscle relaxant effects, complementing [camphor](/nighantu/herb/camphor/)'s decongestant action on airways
+- COX-2 downregulation by [camphor](/nighantu/herb/camphor/) reduces prostaglandin-mediated inflammation at the site of topical application, validated in rat paw edema models
 
 ## Which traditional uses are supported by research?
 
 - Joint pain and musculoskeletal conditions - validated by pilot study (2020) showing significant VAS score reduction in knee OA over 8 weeks of topical use
-- Respiratory congestion (chest rub application) - validated by pharmacological evidence of TRPM8 receptor-mediated reflex bronchodilation from [camphor](/ayurveda-atlas/herb/camphor/) vapors
+- Respiratory congestion (chest rub application) - validated by pharmacological evidence of TRPM8 receptor-mediated reflex bronchodilation from [camphor](/nighantu/herb/camphor/) vapors
 - Kapha-predominant conditions with stiffness and congestion - supported by anti-inflammatory COX-2 mechanism (2022) and smooth muscle relaxant action of celery compounds
 
 ## What do recent clinical trials show?
 
-- **Pilot study on [Karpooradi Thailam](/ayurveda-atlas/formulation/karpooradi-thailam/) in knee osteoarthritis** (2020): Published in Journal of Ethnopharmacology, the study found significant reduction in VAS (Visual Analog Scale) pain scores for knee osteoarthritis after eight weeks of topical application.
+- **Pilot study on [Karpooradi Thailam](/nighantu/formulation/karpooradi-thailam/) in knee osteoarthritis** (2020): Published in Journal of Ethnopharmacology, the study found significant reduction in VAS (Visual Analog Scale) pain scores for knee osteoarthritis after eight weeks of topical application.
 - **Anti-inflammatory activity evaluation via COX-2 downregulation in rat model** (2022): A double-blind trial highlighted anti-inflammatory activity of camphor-based formulation via downregulation of COX-2 in rat paw edema models, providing mechanistic evidence for pain relief.
 - **Transdermal absorption and bronchodilatory effects of camphor in topical formulations** (2021): Pharmacokinetic studies confirmed that camphor in oil bases achieves rapid transdermal absorption and provides reflex bronchodilation through stimulation of cold-sensitive TRPM8 receptors in respiratory epithelium when vapors are inhaled.
 
@@ -82,7 +82,7 @@ Sahasrayogam (Taila Prakarana). A characteristically simple 3-ingredient formula
 
 **Storage:** Store in tightly sealed amber glass bottles. Camphor is highly volatile — loss occurs with loose sealing. Temperature not exceeding 25°C. Keep away from heat sources and flame (camphor is flammable).
 
-**Marker Compounds:** Camphor, 1,8-[Cineole](/ayurveda-atlas/glossary/compounds-c-d/#cineole) (eucalyptol), [Borneol](/ayurveda-atlas/glossary/compounds-a-c/#borneol), [Camphene](/ayurveda-atlas/glossary/compounds-a-c/#camphene)
+**Marker Compounds:** Camphor, 1,8-[Cineole](/nighantu/glossary/compounds-c-d/#cineole) (eucalyptol), [Borneol](/nighantu/glossary/compounds-a-c/#borneol), [Camphene](/nighantu/glossary/compounds-a-c/#camphene)
 
 **Quality Parameters:** Acid value, peroxide value, camphor content by GC (10-20% w/v), eucalyptol content (if included), total volatile oils, refractive index, specific gravity, rancidity test negative, HPTLC fingerprint, microbial limits, heavy metals
 
@@ -90,7 +90,7 @@ Sahasrayogam (Taila Prakarana). A characteristically simple 3-ingredient formula
 
 ### Synergistic Combinations
 
-- [Himasagara Thailam](/ayurveda-atlas/formulation/himasagara-thailam/)
+- [Himasagara Thailam](/nighantu/formulation/himasagara-thailam/)
 - Chandanadi Thailam
-- [Eucalyptus](/ayurveda-atlas/herb/eucalyptus/) oil
+- [Eucalyptus](/nighantu/herb/eucalyptus/) oil
 - Mentholated preparations

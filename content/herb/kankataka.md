@@ -29,10 +29,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kankataka/meta-analysis.
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| **Rasa** (Taste) | [Amla](/ayurveda-atlas/herb/amla/) | Primary taste |
+| **Rasa** (Taste) | [Amla](/nighantu/herb/amla/) | Primary taste |
 | **Guna** (Quality) | Laghu | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
-| **Vipaka** (Post-digestive) | [Amla](/ayurveda-atlas/herb/amla/) | Post-digestive effect |
+| **Vipaka** (Post-digestive) | [Amla](/nighantu/herb/amla/) | Post-digestive effect |
 
 ## What is it made of?
 
@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kankataka/meta-analysis.
 
 **Standard Dosage:** 2-4 g powder twice daily; 30-60 mL decoction twice daily
 
-**Bioavailability:** [Alkaloids](/ayurveda-atlas/glossary/compounds-1-a/#alkaloids) and [flavonoids](/ayurveda-atlas/reference/flavonoids/) show moderate oral absorption. Traditional co-processing with [Trikatu](/ayurveda-atlas/herb/trikatu/) ([Pippali](/ayurveda-atlas/herb/pippali/), Maricha, Shunthi) enhances bioavailability of active alkaloids. Emulsification with [sesame oil](/ayurveda-atlas/glossary/concepts-m-y/#tila-taila) improves lipophilic constituent delivery.
+**Bioavailability:** [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) and [flavonoids](/nighantu/reference/flavonoids/) show moderate oral absorption. Traditional co-processing with [Trikatu](/nighantu/herb/trikatu/) ([Pippali](/nighantu/herb/pippali/), Maricha, Shunthi) enhances bioavailability of active alkaloids. Emulsification with [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) improves lipophilic constituent delivery.
 
 **Optimal Timing:** After meals with warm water; for skin conditions, external application twice daily
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kankataka/meta-analysis.
 
 **Storage:** Store in airtight containers at ambient temperature (15-30°C). Protect from moisture and direct sunlight.
 
-**Marker Compounds:** Gallic acid, Beta-[sitosterol](/ayurveda-atlas/glossary/compounds-q-t/#sitosterol), Flavonoid [glycosides](/ayurveda-atlas/glossary/compounds-g-l/#glycosides), [Tannins](/ayurveda-atlas/reference/tannins/)
+**Marker Compounds:** Gallic acid, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Flavonoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides), [Tannins](/nighantu/reference/tannins/)
 
 ### Extraction Methods
 
@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kankataka/meta-analysis.
 
 ### Synergistic Combinations
 
-- [Guduchi](/ayurveda-atlas/herb/guduchi/) for [immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) enhancement
-- [Haridra](/ayurveda-atlas/herb/haridra/) for anti-inflammatory synergy
-- Amalaki for [antioxidant](/ayurveda-atlas/reference/antioxidant/) potentiation
-- [Nimba](/ayurveda-atlas/herb/nimba/) for skin disorders
+- [Guduchi](/nighantu/herb/guduchi/) for [immunomodulatory](/nighantu/reference/immunomodulatory/) enhancement
+- [Haridra](/nighantu/herb/haridra/) for anti-inflammatory synergy
+- Amalaki for [antioxidant](/nighantu/reference/antioxidant/) potentiation
+- [Nimba](/nighantu/herb/nimba/) for skin disorders
