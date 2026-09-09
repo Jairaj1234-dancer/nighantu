@@ -57,3 +57,7 @@ reheated rather than tolerated.
 Note that most portable equipment, including the device described on this site, delivers the
 stream but does not regulate temperature. The operator warms the oil and sets the flow by
 hand. Any vendor implying otherwise about a gravity-fed device is overstating what it does.
+
+Powered machines do hold temperature, and whether that is worth buying depends on how you work.
+See [comparing Shirodhara equipment](../choosing-equipment/) for the published specifications of
+what is currently on sale, and an honest account of what each type is good at.

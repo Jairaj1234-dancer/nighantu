@@ -1,7 +1,7 @@
 ---
 title: "Shirodhara terms"
 slug: "glossary"
-order: 12
+order: 13
 description: "The Sanskrit terms that come up around this practice, defined."
 answer: "A short glossary of the Sanskrit terms used around Shirodhara: murdha taila, dhara, taila dhara, takra dhara, shiro abhyanga, shiro pichu, shiro basti, snehana, sukhoshna, lekhana and sthapani marma."
 ---

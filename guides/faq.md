@@ -1,7 +1,7 @@
 ---
 title: "Shirodhara questions"
 slug: "faq"
-order: 11
+order: 12
 description: "The things people actually ask, answered plainly."
 answer: "Common questions about Shirodhara: what it feels like, how often to have it, which oil to use, whether it can be done at home, how much oil a session needs, and what to do afterwards. Answers below are the practical, non-clinical version."
 faq:
