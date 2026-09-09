@@ -1,7 +1,7 @@
 ---
 title: "Shirodhara notes for therapists"
 slug: "for-therapists"
-order: 10
+order: 11
 description: "Room setup, hygiene, oil economics and the practical shape of a working session."
 answer: "For a practising therapist the constraints are room turnaround, oil cost per session, hygiene policy on reuse, and whether the setup allows single-operator work. A portable closed-loop apparatus changes the economics most where a dedicated wet room is not available, because it removes the fit-out cost entirely."
 products: "shirodhara"

@@ -41,6 +41,9 @@ the vessel, which is what makes single-operator sessions practical.
 **Flow control.** A wick works but is imprecise. Modern vessels use a valve or a shaped
 orifice for a repeatable stream.
 
+For what is actually on sale today, and how the powered and gravity approaches compare on
+published specifications, see [comparing Shirodhara equipment](../choosing-equipment/).
+
 What did **not** change is the physics. It is still gravity, still a single continuous thread,
 still the same height above the forehead. Electric circulation and heated reservoirs exist in
 clinic-grade equipment, but they are a convenience layer over the same procedure.
