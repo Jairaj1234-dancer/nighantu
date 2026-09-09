@@ -12,7 +12,31 @@ to the site yet, and it is not registered with any search engine.
 
 ## 1. Add the DNS record (15 minutes, unblocks everything else)
 
-At whoever ageayurveda.com is registered with, add one record:
+ageayurveda.com is registered at **GoDaddy**, and GoDaddy's own nameservers
+(`ns25/ns26.domaincontrol.com`) hold the DNS, so this is done in the GoDaddy account.
+
+### Option A: let me do it, via the GoDaddy API
+
+GoDaddy lowered its API threshold to a single domain in April 2026, so your account qualifies.
+
+1. Go to https://developer.godaddy.com/keys and create a **Production** key (not OTE, which is
+   the test environment).
+2. Save it to a file, so the credentials never pass through a chat transcript:
+
+   ```bash
+   printf '%s\n%s\n' 'YOUR_KEY' 'YOUR_SECRET' > ~/.godaddy-api
+   chmod 600 ~/.godaddy-api
+   ```
+
+3. Tell me it is there, and I run `./scripts/add-dns-record.sh nighantu ageayurveda.com`.
+
+The script reads existing records first and prints the ones it will not touch, sets only the one
+new CNAME, then waits for propagation. Your root A record and the `www` CNAME pointing at
+Shopify, and your MX mail records, are never modified.
+
+### Option B: do it by hand in the GoDaddy UI
+
+**Domains, then DNS, then Add New Record:**
 
 | Field | Value |
 | --- | --- |
@@ -54,6 +78,17 @@ Search Console property, and the site serves its own root `robots.txt` and `llms
 
 ## 2. Register with search engines (20 minutes)
 
+**Already done, no login needed: IndexNow.** All 778 URLs have been pushed to Bing directly
+(HTTP 200) and through the IndexNow aggregator, which fans out to Yandex, Naver and Seznam. A
+self-generated key is hosted at the host root, and `scripts/indexnow.mjs` now runs automatically
+after every deploy, so new and changed pages are pushed without anyone doing anything.
+
+This matters because Bing feeds ChatGPT's search results, so the fastest route into an answer
+engine did not need an account at all.
+
+**Still needs your login:** Google has no equivalent. Search Console is the only way in, and
+Request Indexing is the fastest way to get a new site crawled.
+
 Do this after the subdomain if it is coming soon, otherwise do it now on the current URL and
 redo it later.
 
@@ -70,10 +105,11 @@ redo it later.
 
 **Bing Webmaster Tools** at https://www.bing.com/webmasters
 
-1. You can import directly from Search Console once that is set up, which takes about a minute.
-2. Submit the same sitemap.
-3. Turn on **IndexNow**. Bing matters more than its search share suggests, because it feeds
-   ChatGPT's search results.
+Optional now, since IndexNow submission is already working without it. Worth doing anyway for
+the reporting: you can import directly from Search Console once that is set up, which takes about
+a minute, and Bing will then show you which of the submitted URLs it actually indexed. If you do
+sign up, keep the existing key rather than generating a new one:
+`bf9a6ad9a651b9775c941d4fd074a13a`.
 
 ---
 
