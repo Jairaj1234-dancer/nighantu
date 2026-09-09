@@ -1,0 +1,97 @@
+---
+title: "Amritottaram Kashayam"
+slug: "amritottaram-kashayam"
+kind: "formulation"
+section: "Ayurveda"
+category: "Herbs"
+subcategory: "Classical-Formulations"
+group: "Kashayams-Decoctions"
+answer: "Amritottaram Kashayam is a classical Ayurvedic kashaya, a water decoction. The usual dose is 15-30 mL (liquid) or 2 tablets twice daily before meals, as per AFI. Listed in the Ayurvedic Formulary of India (AFI)."
+botanical: ""
+family: ""
+sanskrit: ""
+ayurvedicCategory: ""
+whoStatus: "Listed in the Ayurvedic Formulary of India (AFI). Referenced in Sahasrayogam and Bhaishajya Ratnavali. Simple three-ingredient formulation widely used in Ayurvedic clinical practice."
+aliases: ["Amritottaram Kashayam", "AmritottaramKashayam"]
+tags: ["ayurveda", "formulation", "kashayam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+productHints: []
+words: 494
+srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Amritottaram-Kashayam/meta-analysis.md"
+---
+## Names and identification
+
+| Language | Name |
+|----------|------|
+| English | [Amritottaram Kashayam](/ayurveda-atlas/formulation/amritottaram-kashayam/) |
+
+## Key Ingredients
+
+- Amrita/[Guduchi](/ayurveda-atlas/herb/guduchi/) (Tinospora cordifolia) - 6 parts
+- Shunthi/[Ginger](/ayurveda-atlas/herb/ginger/) ([Zingiber](/ayurveda-atlas/herb/zingiber/) officinale) - 2 parts
+- [Haritaki](/ayurveda-atlas/herb/haritaki/) (Terminalia chebula) - 4 parts
+
+## Where is it described in the classical texts?
+
+Sahasrayogam, Jwara Chikitsa (fever treatment section). Also referenced in Rasa Tarangini and Bhaishajya Ratnavali under divya kashaya for strengthening innate defense mechanisms.
+
+## How does it work?
+
+- [Immunomodulatory](/ayurveda-atlas/reference/immunomodulatory/) action through enhanced NK cell activity and macrophage phagocytosis ([Guduchi](/ayurveda-atlas/herb/guduchi/))
+- Mild [antipyretic](/ayurveda-atlas/reference/antipyretic/) action targeting root cause of fever by addressing AMA (metabolic toxins) or microbial infections
+- [Hepatoprotective](/ayurveda-atlas/reference/hepatoprotective/) activity through reduction of ALT/AST [enzymes](/ayurveda-atlas/glossary/compounds-d-g/#enzymes) and hepatocyte regeneration ([Haritaki](/ayurveda-atlas/herb/haritaki/), [Guduchi](/ayurveda-atlas/herb/guduchi/))
+- Bioavailability enhancement by Shunthi ([ginger](/ayurveda-atlas/herb/ginger/)) improves absorption of active compounds from [Guduchi](/ayurveda-atlas/herb/guduchi/) and [Haritaki](/ayurveda-atlas/herb/haritaki/)
+
+## Which traditional uses are supported by research?
+
+- Fever management (Jwara Chikitsa) - validated by immunomodulatory and antipyretic studies
+- Liver protection in mild hepatitis - supported by ALT/AST reduction in clinical study
+- General immunity enhancement - validated by NK cell and macrophage activation research
+- Digestive support during febrile illness - supported by Shunthi's established digestive properties
+
+## What do recent clinical trials show?
+
+- **NK cell activity enhancement by [Amritottaram Kashayam](/ayurveda-atlas/formulation/amritottaram-kashayam/)** (2018): Double-blind study in Journal of Ethnopharmacology observed increased natural killer cell activity after 30 days of daily 20 ml doses.
+- **Hepatoprotective effects of [Amritottaram Kashayam](/ayurveda-atlas/formulation/amritottaram-kashayam/) in mild hepatitis** (2019): Study in International Journal of Ayurveda reported decreased ALT and AST levels in mild hepatitis patients receiving 20 ml twice daily for 45 days.
+- **Immunomodulatory profiling of [Guduchi](/ayurveda-atlas/herb/guduchi/)-based Kashayams** (2021): Comprehensive immunological profiling showed upregulation of both innate and adaptive immune markers with significant enhancement of macrophage phagocytic activity.
+
+## Recent safety updates
+
+- Well-tolerated with minimal side effects at recommended doses. All three ingredients have established safety profiles with immunomodulatory properties.
+- May potentiate immunosuppressant drugs; use cautiously in autoimmune conditions. [Ginger](/ayurveda-atlas/herb/ginger/) component may interact with anticoagulant medications.
+
+## What is it made of?
+
+### Mineral/Elemental Profile
+
+- **Primary component:** Mineral-derived preparation
+- **Note:** Composition varies by specific preparation method
+
+**Analytical Methods:** XRD, ICP-OES, SEM-EDS
+
+## Dosage forms and preparation
+
+**Dosage Forms:** Kashayam (decoction), Kashayam tablets (modern), Concentrated liquid (modern)
+
+**Standard Dosage:** 15-30 mL (liquid) or 2 tablets twice daily before meals, as per AFI
+
+**Bioavailability:** Hot decoction form provides rapid absorption. Gingerols from Shunthi act as bioenhancers and improve gastric motility for faster absorption. Tablet form may have slightly delayed onset compared to fresh kashayam.
+
+**Optimal Timing:** On empty stomach or before meals (Abhukta/Bhojana-purva), morning and evening
+
+**Shelf Life:** 1 day (fresh kashayam), 6 months (concentrated liquid with preservative), 3 years (tablet form) as per ASU guidelines
+
+**Storage:** Fresh kashayam: prepare and consume same day. Concentrated liquid: store in amber glass bottles at temperature not exceeding 25°C. Tablets: store in airtight containers at room temperature.
+
+**Marker Compounds:** [Berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine), [Tinosporaside](/ayurveda-atlas/glossary/compounds-t-z/#tinosporaside), 6-[Gingerol](/ayurveda-atlas/glossary/compounds-d-g/#gingerol), 6-Shogaol
+
+**Quality Parameters:** pH, specific gravity, total solids, extractive values (water-soluble, alcohol-soluble), HPTLC fingerprint for [berberine](/ayurveda-atlas/glossary/compounds-a-c/#berberine) and gingerols, microbial limits, heavy metals, disintegration time (for tablets), dissolution profile
+
+**Vehicle (Anupana):** Warm water (for tablets); taken as is (for liquid kashayam)
+
+### Synergistic Combinations
+
+- [Amritarishta](/ayurveda-atlas/formulation/amritarishta/)
+- [Guduchi](/ayurveda-atlas/herb/guduchi/) Satva
+- Sudarshana Churna
+- Vilvadi Gulika

@@ -1,0 +1,11 @@
+---
+import { rel } from '../lib/site';
+interface Props { trail: { label: string; href?: string }[] }
+const { trail } = Astro.props;
+---
+<nav class="crumbs" aria-label="Breadcrumb">
+  <a href={rel('/')}>Atlas</a>
+  {trail.map((t) => (
+    <>{' / '}{t.href ? <a href={rel(t.href)}>{t.label}</a> : <span>{t.label}</span>}</>
+  ))}
+</nav>

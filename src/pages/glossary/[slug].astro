@@ -1,0 +1,52 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import CiteThis from '../../components/CiteThis.astro';
+import { SITE_NAME, abs, rel } from '../../lib/site';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('glossary');
+  return entries.map((entry) => ({ params: { slug: entry.data.slug }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const d = entry.data;
+const { Content } = await render(entry);
+const canonical = `/glossary/${d.slug}/`;
+
+const siblings = (await getCollection('glossary'))
+  .map((e) => e.data)
+  .filter((e) => e.group === d.group)
+  .sort((a, b) => a.part - b.part);
+
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@type': 'DefinedTermSet',
+  name: d.title,
+  description: d.answer,
+  url: abs(canonical),
+  inLanguage: 'en',
+  publisher: { '@id': `${abs('/')}#organization` },
+};
+---
+<Base title={`${d.title} · ${SITE_NAME}`} description={d.answer} canonical={canonical} jsonld={jsonld}>
+  <Crumbs trail={[{ label: 'Glossary', href: '/glossary/' }, { label: d.title }]} />
+  <h1>{d.title}</h1>
+  <p class="answer">{d.answer}</p>
+
+  {siblings.length > 1 && (
+    <ul class="az" aria-label="Other parts of this glossary">
+      {siblings.map((s) => (
+        <li>
+          <a href={rel(`/glossary/${s.slug}/`)} aria-current={s.slug === d.slug ? 'page' : undefined}>
+            {s.range}
+          </a>
+        </li>
+      ))}
+    </ul>
+  )}
+
+  <div class="prose"><Content /></div>
+  <CiteThis title={d.title} canonical={canonical} />
+</Base>

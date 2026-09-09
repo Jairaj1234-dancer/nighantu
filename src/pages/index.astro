@@ -1,0 +1,88 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import { KINDS, SECTION_META } from '../lib/collections';
+import { SITE_NAME, PUBLISHER, STORE, TAGLINE, abs, rel } from '../lib/site';
+
+const counts: Record<string, number> = {};
+for (const k of KINDS) counts[k] = (await getCollection(k)).length;
+const glossary = (await getCollection('glossary')).map((e) => e.data);
+const glossaryTotal = glossary.reduce((n, g) => n + g.entryCount, 0);
+const total = Object.values(counts).reduce((a, b) => a + b, 0);
+
+const description = `${TAGLINE} ${total} monographs on herbs, classical formulations and instruments, plus ${glossaryTotal} glossary definitions. Published by ${PUBLISHER}.`;
+
+const jsonld = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    '@id': `${abs('/')}#organization`,
+    name: PUBLISHER,
+    url: STORE,
+    description: 'Ayurvedic products and equipment, and publisher of the Ayurveda Atlas reference encyclopedia.',
+    sameAs: [STORE, abs('/')],
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: SITE_NAME,
+    description,
+    url: abs('/'),
+    isPartOf: { '@id': `${abs('/')}#website` },
+  },
+];
+---
+<Base title={`${SITE_NAME} · a referenced encyclopedia of Ayurvedic materia medica`} description={description} canonical="/" jsonld={jsonld} wide>
+  <h1>Ayurveda Atlas</h1>
+  <p class="lede">
+    A referenced encyclopedia of Ayurvedic herbs, classical formulations and instruments.
+    Every entry opens with a plain definition, states its key facts in a table, cites the
+    classical texts it comes from, and reports published research with dates.
+  </p>
+  <p>
+    <span class="pill">{total} monographs</span>{' '}
+    <span class="pill">{glossaryTotal} glossary definitions</span>{' '}
+    <span class="pill">Free to read and quote</span>
+  </p>
+
+  <h2>Sections</h2>
+  <ul class="grid">
+    {KINDS.filter((k) => counts[k] > 0).map((k) => (
+      <li class="card">
+        <a href={rel(SECTION_META[k].href)}>{SECTION_META[k].label}</a>
+        <p>{counts[k]} entries. {SECTION_META[k].blurb}</p>
+      </li>
+    ))}
+    <li class="card">
+      <a href={rel('/glossary/')}>Glossary</a>
+      <p>{glossaryTotal} short definitions for compounds, plant families and pharmacology terms.</p>
+    </li>
+  </ul>
+
+  <h2>Guides</h2>
+  <ul class="grid">
+    <li class="card">
+      <a href={rel('/shirodhara/')}>Shirodhara</a>
+      <p>The full practice guide: classical basis, choosing the oil by dosha, temperature and
+        duration, session protocol, cautions, equipment and notes for therapists.</p>
+    </li>
+  </ul>
+
+  <h2>How to use this</h2>
+  <p>
+    Each monograph has a plain-Markdown twin: append <code>.md</code> to any entry URL, for
+    example <a href={rel('/herb/ashwagandha.md')}>/herb/ashwagandha.md</a>. There is a curated
+    site map for language models at <a href={rel('/llms.txt')}>llms.txt</a> and a full text
+    index at <a href={rel('/llms-full.txt')}>llms-full.txt</a>. Everything here may be quoted
+    and cited; see <a href={rel('/how-we-source/')}>how we source</a> for attribution.
+  </p>
+
+  <h2>What this is not</h2>
+  <p>
+    This is reference material, not medical advice. Traditional uses and research findings are
+    reported as their sources state them, never as claims about what any product does. The
+    site is published by {PUBLISHER}, which sells Ayurvedic products; where an entry relates to
+    something we sell, that is disclosed on the page itself and nowhere else. See our
+    <a href={rel('/editorial-standards/')}>editorial standards</a>.
+  </p>
+</Base>

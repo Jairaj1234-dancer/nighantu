@@ -1,0 +1,20 @@
+---
+import { getCollection, render } from 'astro:content';
+import Guide from '../../layouts/Guide.astro';
+
+export async function getStaticPaths() {
+  const all = (await getCollection('guide')).sort((a, b) => a.data.order - b.data.order);
+  return all
+    .filter((e) => e.data.slug !== 'shirodhara')
+    .map((entry) => ({
+      params: { slug: entry.data.slug },
+      props: { entry, siblings: all.map((e) => e.data) },
+    }));
+}
+
+const { entry, siblings } = Astro.props;
+const { Content } = await render(entry);
+---
+<Guide entry={entry} siblings={siblings}>
+  <Content />
+</Guide>

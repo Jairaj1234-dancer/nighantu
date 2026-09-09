@@ -1,0 +1,36 @@
+---
+import data from '../data/products.json';
+import { STORE } from '../lib/site';
+
+interface Props { slug: string }
+const { slug } = Astro.props;
+
+const handles: string[] = (data.map as Record<string, string[]>)[slug] ?? [];
+const items = handles
+  .map((h) => ({ handle: h, ...(data.products as Record<string, any>)[h] }))
+  .filter((p) => p.title);
+---
+{items.length > 0 && (
+  <section class="product" data-product-module aria-labelledby="available-heading">
+    <h2 id="available-heading">Available from Age Ayurveda</h2>
+    <p class="note">
+      This encyclopedia is published by Age Ayurveda. The products below are ours, and are
+      listed here because they contain or use what this page describes.
+    </p>
+    <ul>
+      {items.map((p) => (
+        <li>
+          <img src={p.image} alt="" loading="lazy" width="68" height="68" />
+          <div>
+            <a
+              class="pname"
+              href={`${STORE}/products/${p.handle}?utm_source=atlas&utm_medium=reference&utm_campaign=${slug}`}
+              rel="noopener"
+            >{p.title}</a>
+            <span class="pline">{p.line}</span>
+          </div>
+        </li>
+      ))}
+    </ul>
+  </section>
+)}

@@ -1,0 +1,84 @@
+---
+import Base from './Base.astro';
+import KeyFacts from '../components/KeyFacts.astro';
+import ProductModule from '../components/ProductModule.astro';
+import CiteThis from '../components/CiteThis.astro';
+import Crumbs from '../components/Crumbs.astro';
+import { SITE_NAME, PUBLISHER, abs, rel } from '../lib/site';
+
+interface Props { entry: any; sectionLabel: string; sectionHref: string }
+const { entry, sectionLabel, sectionHref } = Astro.props;
+const d = entry.data;
+const canonical = `${sectionHref}${d.slug}/`;
+const updated = new Date().toISOString();
+
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  '@id': `${abs(canonical)}#article`,
+  headline: d.title,
+  description: d.answer,
+  inLanguage: 'en',
+  isAccessibleForFree: true,
+  datePublished: updated,
+  dateModified: updated,
+  mainEntityOfPage: abs(canonical),
+  // DefinedTerm rather than a medical schema type: this is reference material
+  // about a substance, not a claim about treating anything.
+  about: {
+    '@type': 'DefinedTerm',
+    name: d.title,
+    ...(d.botanical ? { alternateName: d.botanical } : {}),
+    inDefinedTermSet: { '@type': 'DefinedTermSet', name: SITE_NAME, url: abs('/') },
+  },
+  author: { '@type': 'Organization', name: PUBLISHER, url: abs('/') },
+  publisher: { '@id': `${abs('/')}#organization` },
+  ...(d.sources?.length ? { citation: d.sources } : {}),
+  license: 'https://creativecommons.org/licenses/by/4.0/',
+};
+
+const breadcrumbs = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Atlas', item: abs('/') },
+    { '@type': 'ListItem', position: 2, name: sectionLabel, item: abs(sectionHref) },
+    { '@type': 'ListItem', position: 3, name: d.title, item: abs(canonical) },
+  ],
+};
+---
+<Base
+  title={`${d.title} · ${SITE_NAME}`}
+  description={d.answer}
+  canonical={canonical}
+  jsonld={[jsonld, breadcrumbs]}
+>
+  <article>
+    <Crumbs trail={[{ label: sectionLabel, href: sectionHref }, { label: d.title }]} />
+    <h1>{d.title}</h1>
+    {d.botanical && <p class="binomial">{d.botanical}</p>}
+
+    <p class="answer">{d.answer}</p>
+
+    <KeyFacts
+      botanical={d.botanical}
+      family={d.family}
+      sanskrit={d.sanskrit}
+      ayurvedicCategory={d.ayurvedicCategory}
+      whoStatus={d.whoStatus}
+      aliases={d.aliases}
+    />
+
+    <div class="prose"><slot /></div>
+
+    <ProductModule slug={d.slug} />
+    <CiteThis title={d.title} canonical={canonical} />
+
+    <p class="disclaimer">
+      Educational reference only. Nothing on this page is medical advice, a diagnosis, or a
+      recommendation to take anything. Traditional uses and research findings are reported as
+      published, not as claims about what any product does. See our
+      <a href={rel('/editorial-standards/')}>editorial standards</a>.
+    </p>
+  </article>
+</Base>

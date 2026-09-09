@@ -1,0 +1,80 @@
+---
+title: "Laghu Sutshekhar Ras"
+slug: "laghu-sutshekhar-ras"
+kind: "herb"
+section: "Ayurveda"
+category: "Others"
+subcategory: "Rasa-Shastra-Alchemical-Preparations"
+group: "Laghu-Sutshekhar-Ras"
+answer: "Laghu Sutshekhar Ras is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg twice daily. Called for more robust clinical trials. Pilot study on Sutshekhar Ras in functional dyspepsia (J Ayurveda Integr Med) (2019): 68% of patients with functional dyspepsia experienced symptom relief within two weeks of treatment, suggesting rapid onset of action for acid-related symptoms."
+botanical: ""
+family: ""
+sanskrit: ""
+ayurvedicCategory: ""
+whoStatus: ""
+aliases: ["Laghu Sutshekhar Ras", "LaghuSutshekharRas"]
+tags: ["ayurveda", "rasa-shastra", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
+productHints: []
+words: 405
+srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Laghu-Sutshekhar-Ras/meta-analysis.md"
+---
+## Names and identification
+
+| Language | Name |
+|----------|------|
+| English | [Laghu Sutshekhar Ras](/ayurveda-atlas/herb/laghu-sutshekhar-ras/) |
+
+## How does it work?
+
+- Acid-neutralizing action: [Shankha Bhasma](/ayurveda-atlas/herb/shankha-bhasma/) (calcium carbonate from conch shell) directly neutralizes excess gastric acid, functioning as a natural antacid similar to pharmaceutical calcium carbonate preparations
+- Gastroprotective action: [Saffron](/ayurveda-atlas/herb/saffron/) (Kesar) and [camphor](/ayurveda-atlas/herb/camphor/) (Karpura) have demonstrated anti-inflammatory and mucosal protective properties; [piperine](/ayurveda-atlas/reference/piperine/) from [Trikatu](/ayurveda-atlas/herb/trikatu/) enhances bioavailability of other components
+- Pitta-pacifying mechanism: The cooling properties of pearl, coral, and conch shell bhasmas collectively reduce excessive Pitta (heat/acid) in the GI tract per Ayurvedic pharmacology
+
+## Which traditional uses are supported by research?
+
+- Hyperacidity and acid reflux (Amlapitta): Pilot clinical study (2019) showed 68% symptom relief in functional dyspepsia within 2 weeks, supporting traditional use as an antacid and digestive aid
+- Digestive disorders: The calcium carbonate content from [Shankha Bhasma](/ayurveda-atlas/herb/shankha-bhasma/) has a well-established acid-neutralizing mechanism directly relevant to the traditional indication, providing strong mechanistic validation
+
+## What do recent clinical trials show?
+
+- **The Efficacy of Sutashekhara Rasa in Ayurvedic Treatment** (2024): Review documented that Sutashekhara Rasa has shown efficacy in managing functional dyspepsia and hyperacidity, with traditional acid-neutralizing and gastroprotective properties attributed to [Shankha Bhasma](/ayurveda-atlas/herb/shankha-bhasma/) and other cooling ingredients. Called for more robust clinical trials.
+- **Pilot study on Sutshekhar Ras in functional dyspepsia (J Ayurveda Integr Med)** (2019): 68% of patients with functional dyspepsia experienced symptom relief within two weeks of treatment, suggesting rapid onset of action for acid-related symptoms.
+
+## Recent safety updates
+
+- Contains mercury (as Kajjali/HgS) and processed Datura seeds - both are potent toxins requiring strict purification and dose control
+- The 'Laghu' (lighter) formulation contains reduced metallic content compared to full Sutshekhar Ras, potentially offering a better safety margin
+- Mercury content requires caution especially with long-term use; GMP-certified, lab-tested products are essential to verify heavy metal levels within Ayurvedic Pharmacopoeia limits
+- Contraindicated in pregnancy, lactation, and children; patients with renal or hepatic disorders should avoid due to heavy metal processing burden on these organs
+
+## What is it made of?
+
+### Mineral/Elemental Profile
+
+- **Primary component:** Mineral-derived preparation
+- **Note:** Composition varies by specific preparation method
+
+**Analytical Methods:** XRD, ICP-OES, SEM-EDS
+
+## Dosage forms and preparation
+
+**Dosage Forms:** Vati
+
+**Standard Dosage:** 125–250 mg twice daily
+
+**Bioavailability:** Good; simplified Sutshekhar Ras with enhanced Pitta-shamaka action
+
+**Optimal Timing:** Before meals with honey or Amalaki Swarasa
+
+**Standardized Extract:** Shuddha Parada (purified mercury) + [Gandhaka](/ayurveda-atlas/glossary/concepts-a-m/#gandhaka) + cooling herbs
+
+**Shelf Life:** Indefinite
+
+**Storage:** Airtight container
+
+**Marker Compounds:** Mercury sulfide, Sulfur compounds, Bhringaraj compounds, Amalaki [tannins](/ayurveda-atlas/reference/tannins/)
+
+**Quality Parameters:** Free mercury <1 ppm, standard Rasaushadhi tests
+
+**Vehicle (Anupana):** Honey, pomegranate juice, or Amalaki Swarasa
