@@ -19,9 +19,9 @@ Last run: **2026-09-09**  ·  Site: https://jairaj1234-dancer.github.io/nighantu
 
 | Metric | Value |
 | --- | --- |
-| URLs tracked | 778 |
+| URLs tracked | 779 |
 | Last IndexNow submission | 2026-09-09 |
-| URLs in that submission | 0 |
+| URLs in that submission | 779 |
 
 _Bing Webmaster not configured. Add `BING_API_KEY` to enable._
 
@@ -51,7 +51,7 @@ _Checked 2026-09-09. Feeds the comparison table's accuracy promise._
 
 ## Community signals
 
-25 items scanned across 4 public feeds, 2 matched.
+25 items scanned across 4 public feeds, 0 matched.
 
 _Read-only. Nothing is posted to any platform._
 
