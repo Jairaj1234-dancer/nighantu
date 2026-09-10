@@ -167,6 +167,28 @@ export function isStrippedSection(h) {
  * the bold facts block. Without this, real plants describe themselves as an
  * unnamed "substance".
  */
+/** Genus species, with a real specific epithet. Rejects "Shelf stability". */
+const LOOKS_BINOMIAL = (v) => /^[A-Z][a-z]{2,}\s+[a-z][a-z-]{2,}\b/.test(v.trim())
+  && !/^(Shelf|Quality|Standard|Primary|Total|Loss|Active|Marker|Analytical|Storage|Polyherbal|Compound|Mineral)\b/i.test(v.trim());
+
+/**
+ * Normalise a stated botanical name, or return '' if it is not one.
+ *
+ * The vault's "Botanical Name" field is free text. It legitimately holds things like
+ * "Compound: Terminalia chebula + T. bellirica + Phyllanthus emblica" for Triphala and
+ * "Uncertain - possibly a regional name" where identity is contested. Those are honest
+ * notes but they are not binomials, and rendering them in a row labelled "Botanical
+ * name" states something false. They stay in the page body; they leave this field.
+ */
+export function normaliseBinomial(raw) {
+  let v = stripMarkup(raw ?? '').trim();
+  if (!v) return '';
+  // Malformed vault links leave "Target|Label"; the label is the readable half.
+  if (v.includes('|')) v = v.split('|').pop().trim();
+  if (/^(compound|uncertain|polyherbal|mineral|not\b|varies|multiple)/i.test(v)) return '';
+  return LOOKS_BINOMIAL(v) ? v : '';
+}
+
 export function inferBotanical(sections, facts) {
   if (facts['Botanical Name']) return stripMarkup(facts['Botanical Name']);
   const all = sections.map((x) => x.content).join('\n');
@@ -181,7 +203,7 @@ export function inferBotanical(sections, facts) {
   }
 
   const italic = /(?:\*|_)([A-Z][a-z]+\s+[a-z-]{4,}(?:\s+(?:L\.|[A-Z][a-z]+\.?))?)(?:\*|_)/.exec(all);
-  if (italic) return italic[1].trim();
+  if (italic && LOOKS_BINOMIAL(italic[1])) return italic[1].trim();
 
   // No frequency-based guessing beyond this point. A wrong binomial would flow
   // into the key-facts table and the JSON-LD; an empty field is the safer miss.

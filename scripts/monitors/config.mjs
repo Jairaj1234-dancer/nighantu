@@ -80,6 +80,31 @@ export const FEED_KEYWORDS = [
   'taila', 'abhyanga', 'dosha', 'vata', 'pitta', 'kapha', 'ayurvedic oil',
 ];
 
+/**
+ * Site-wide Reddit search terms. Search beats per-subreddit /new because the question
+ * is usually asked somewhere other than the obvious subreddit. Kept deliberately short:
+ * Reddit returns HTTP 429 within seconds of a burst, so this runs once a day with a
+ * six-second gap between requests.
+ */
+export const FEED_QUERIES = [
+  'shirodhara',
+  'panchakarma',
+  'ashwagandha dosage',
+  'triphala',
+  'ayurvedic oil',
+  'abhyanga',
+  'chyawanprash',
+  'brahmi OR bacopa',
+  'shatavari',
+  'ayurveda herb',
+];
+
+/** A few subreddit firehoses, for questions the search terms miss. */
+export const FEED_SUBS = ['Ayurveda', 'herbalism', 'HerbalMedicine'];
+
+/** How many threads to surface per day, at most. */
+export const THREAD_TARGET = 10;
+
 /** Pages older than this are flagged for review. */
 export const FRESHNESS_DAYS = 180;
 
