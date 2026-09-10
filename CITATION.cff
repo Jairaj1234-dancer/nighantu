@@ -10,6 +10,13 @@ authors:
     city: Prayagraj
     country: IN
 repository-code: https://github.com/Jairaj1234-dancer/nighantu
+identifiers:
+  # Software Heritage archives the repository permanently and mints a SWHID for each
+  # snapshot. It needs no account, unlike every DOI service, which makes this the one
+  # genuinely permanent identifier available to this project today.
+  - type: swh
+    value: swh:1:snp:e844fab74cc615fd98733fa08c781feb61adb05e
+    description: Software Heritage snapshot, archived 2026-09-10
 url: https://jairaj1234-dancer.github.io/nighantu/
 abstract: >-
   A referenced encyclopedia of Ayurvedic materia medica: single-herb monographs,
