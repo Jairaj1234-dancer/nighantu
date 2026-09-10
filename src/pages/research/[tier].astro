@@ -1,0 +1,78 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import research from '../../data/research.json';
+import { TIER_ORDER, TIER_LABEL, TIER_NOTE } from '../../lib/tiers';
+import { SITE_NAME, abs, rel } from '../../lib/site';
+
+export async function getStaticPaths() {
+  const { summary } = research as any;
+  return TIER_ORDER
+    .filter((t) => summary.byTier[t])
+    .map((t) => ({ params: { tier: t.toLowerCase() }, props: { tier: t } }));
+}
+
+const { tier } = Astro.props;
+const all = (research as any).papers.filter((p: any) => p.tier === tier);
+const label = TIER_LABEL[tier];
+const canonical = `/research/${tier.toLowerCase()}/`;
+
+// Newest first within a tier: recency is the useful secondary sort for a bibliography.
+all.sort((a: any, b: any) => (b.year ?? 0) - (a.year ?? 0) || a.title.localeCompare(b.title));
+
+const description = `${all.length} ${label.toLowerCase()} concerning Ayurvedic materia medica, `
+  + 'each with a PubMed identifier and the herbs or formulations it concerns.';
+
+const fmtAuthors = (a: string[] = []) =>
+  (!a.length ? '' : a.length <= 3 ? a.join(', ') : `${a.slice(0, 3).join(', ')} and others`);
+
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: `${label} · ${SITE_NAME}`,
+  description,
+  url: abs(canonical),
+  isPartOf: { '@id': `${abs('/research/')}#dataset` },
+};
+---
+<Base title={`${label} · ${SITE_NAME}`} description={description} canonical={canonical} jsonld={jsonld} wide>
+  <Crumbs trail={[{ label: 'Research index', href: '/research/' }, { label }]} />
+  <h1>{label}</h1>
+  <p class="answer">{description} {TIER_NOTE[tier]}</p>
+
+  <ul class="az">
+    {TIER_ORDER.filter((t) => (research as any).summary.byTier[t]).map((t) => (
+      <li>
+        <a href={rel(`/research/${t.toLowerCase()}/`)} aria-current={t === tier ? 'page' : undefined}>
+          {TIER_LABEL[t]} ({(research as any).summary.byTier[t]})
+        </a>
+      </li>
+    ))}
+  </ul>
+
+  <ol class="reflist papers">
+    {all.map((p: any) => (
+      <li>
+        {fmtAuthors(p.authors) && <span class="refauthors">{fmtAuthors(p.authors)}. </span>}
+        {p.year && <span class="refyear">{p.year}. </span>}
+        <a href={p.url} rel="noopener">{p.title}</a>
+        {p.journal && <span class="refjournal"> {p.journal}.</span>}
+        <span class="refids">
+          {' '}PMID <a href={p.url} rel="noopener">{p.pmid}</a>
+          {p.doi && <> &middot; <a href={`https://doi.org/${p.doi}`} rel="noopener">doi:{p.doi}</a></>}
+        </span>
+        <div class="subjects">
+          {p.subjects.map((s: any, i: number) => (
+            <>{i > 0 && ' · '}<a href={rel(`/${s.kind}/${s.slug}/`)}>{s.title}</a></>
+          ))}
+        </div>
+      </li>
+    ))}
+  </ol>
+
+  <p style="margin-top:2rem">
+    <a href={rel('/research/')}>Back to the research index</a> ·
+    download the whole set as <a href={rel('/research.json')}>JSON</a> or
+    <a href={rel('/research.csv')}>CSV</a>.
+  </p>
+</Base>

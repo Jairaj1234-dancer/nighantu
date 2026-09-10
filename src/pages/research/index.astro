@@ -1,0 +1,141 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import research from '../../data/research.json';
+import { TIER_ORDER, TIER_LABEL, TIER_NOTE } from '../../lib/tiers';
+import { SITE_NAME, PUBLISHER, abs, rel } from '../../lib/site';
+
+const { summary } = research as any;
+const [minY, maxY] = summary.yearRange;
+
+const description = `${summary.papers} published papers concerning Ayurvedic materia medica, `
+  + `each with a PubMed identifier and cross-referenced to the herbs and formulations it concerns. `
+  + `Covers ${summary.subjectsCovered} subjects, ${minY} to ${maxY}. Free to download under CC BY 4.0.`;
+
+const jsonld = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Dataset',
+    '@id': `${abs('/research/')}#dataset`,
+    name: 'Age Ayurveda Nighantu research index',
+    description,
+    url: abs('/research/'),
+    license: 'https://creativecommons.org/licenses/by/4.0/',
+    isAccessibleForFree: true,
+    inLanguage: 'en',
+    creator: { '@id': `${abs('/')}#organization` },
+    publisher: { '@id': `${abs('/')}#organization` },
+    temporalCoverage: `${minY}/${maxY}`,
+    variableMeasured: ['PubMed identifier', 'DOI', 'journal', 'year', 'study type', 'subject herb or formulation'],
+    keywords: ['Ayurveda', 'materia medica', 'medicinal plants', 'bibliography', 'PubMed', 'ethnopharmacology'],
+    distribution: [
+      { '@type': 'DataDownload', name: 'JSON', encodingFormat: 'application/json', contentUrl: abs('/research.json') },
+      { '@type': 'DataDownload', name: 'CSV', encodingFormat: 'text/csv', contentUrl: abs('/research.csv') },
+    ],
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Nighantu', item: abs('/') },
+      { '@type': 'ListItem', position: 2, name: 'Research index', item: abs('/research/') },
+    ],
+  },
+];
+
+const decades = Object.entries(summary.byDecade as Record<string, number>)
+  .sort((a, b) => a[0].localeCompare(b[0]));
+const maxDecade = Math.max(...decades.map(([, n]) => n));
+---
+<Base title={`Research index · ${SITE_NAME}`} description={description} canonical="/research/" jsonld={jsonld} wide>
+  <Crumbs trail={[{ label: 'Research index' }]} />
+  <h1>Research index</h1>
+  <p class="answer">
+    Every published paper cited anywhere in this encyclopedia, listed once, with its PubMed
+    identifier and DOI, and cross-referenced to the herbs and formulations it concerns.
+    {summary.papers} papers across {summary.subjectsCovered} subjects, {minY} to {maxY}.
+  </p>
+
+  <p class="lede">
+    This exists because the inverse view is useful and nobody publishes it: not "what does the
+    literature say about this herb", but "what literature exists, and which herbs does each
+    paper concern". Free to download and reuse under CC BY 4.0.
+  </p>
+
+  <table class="facts">
+    <caption>At a glance</caption>
+    <tbody>
+      <tr><th scope="row">Papers</th><td>{summary.papers}</td></tr>
+      <tr><th scope="row">With a DOI</th><td>{summary.withDoi}</td></tr>
+      <tr><th scope="row">Subjects covered</th><td>{summary.subjectsCovered}</td></tr>
+      <tr><th scope="row">Cited by more than one subject</th><td>{summary.citedByMultiple}</td></tr>
+      <tr><th scope="row">Years</th><td>{minY} to {maxY}</td></tr>
+    </tbody>
+  </table>
+
+  <h2>By study type</h2>
+  <p>
+    Grouped by what kind of study it is, strongest first. This ordering is about the design of
+    the study, not about whether the herb works. A large body of laboratory work is not weak
+    evidence of an effect in people; it is not evidence of an effect in people at all.
+  </p>
+  <ul class="grid">
+    {TIER_ORDER.filter((t) => summary.byTier[t]).map((t) => (
+      <li class="card">
+        <a href={rel(`/research/${t.toLowerCase()}/`)}>{TIER_LABEL[t]}</a>
+        <p><strong>{summary.byTier[t]}</strong> papers. {TIER_NOTE[t]}</p>
+      </li>
+    ))}
+  </ul>
+
+  <h2>By decade</h2>
+  <div class="tablewrap">
+    <table>
+      <thead><tr><th>Decade</th><th>Papers</th><th></th></tr></thead>
+      <tbody>
+        {decades.map(([d, n]) => (
+          <tr>
+            <td>{d}</td>
+            <td style="text-align:right;font-variant-numeric:tabular-nums">{n}</td>
+            <td style="width:60%">
+              <span style={`display:inline-block;height:.6rem;background:var(--green);width:${Math.round((n / maxDecade) * 100)}%`}></span>
+            </td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+
+  <h2>Most frequent journals</h2>
+  <div class="tablewrap">
+    <table>
+      <thead><tr><th>Journal</th><th style="text-align:right">Papers</th></tr></thead>
+      <tbody>
+        {summary.topJournals.map((j: any) => (
+          <tr><td>{j.name}</td><td style="text-align:right;font-variant-numeric:tabular-nums">{j.count}</td></tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+
+  <h2>Download</h2>
+  <p>
+    The whole index, same data as these pages.
+    <a href={rel('/research.json')}>JSON</a> · <a href={rel('/research.csv')}>CSV</a>.
+    Licensed CC BY 4.0; attribute to {PUBLISHER}, {SITE_NAME}, with a link back. See
+    <a href={rel('/cite/')}>how to cite</a>.
+  </p>
+
+  <h2>What this is not</h2>
+  <p>
+    A listing here means a paper exists and concerns the subject. It does not mean the paper
+    found a benefit, that the finding replicated, or that the herb works. Several entries report
+    null or negative results, and many are laboratory studies with no human data at all. Read the
+    paper.
+  </p>
+  <p>
+    Coverage is limited to what PubMed indexes. Much of the classical formulation literature is
+    published in Indian journals that PubMed does not carry, so a thin entry for a churna or a
+    ghrita reflects the reach of the index rather than the state of the evidence.
+  </p>
+</Base>

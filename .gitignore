@@ -5,3 +5,7 @@ dist/
 *.log
 .env
 .env.*
+
+# Generated from src/data/research.json at build time
+public/research.json
+public/research.csv

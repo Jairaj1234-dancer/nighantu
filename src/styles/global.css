@@ -207,3 +207,11 @@ footer.site nav { display: flex; gap: 1rem; flex-wrap: wrap; margin-bottom: .75r
 .refyear { color: var(--ink-soft); }
 .refjournal { font-style: italic; color: var(--ink-soft); }
 .refids { font-size: .82rem; color: var(--ink-soft); }
+
+/* research index */
+.reflist.papers li { margin-bottom: 1.1rem; }
+.subjects {
+  margin-top: .25rem; font-size: .82rem; color: var(--ink-soft);
+}
+.subjects a { color: var(--ink-soft); }
+.subjects a:hover { color: var(--green); }

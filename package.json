@@ -16,7 +16,7 @@
     "geo-audit": "node scripts/geo-audit.mjs",
     "search-health": "node scripts/search-health.mjs",
     "dev": "astro dev",
-    "build": "node scripts/stamp-dates.mjs && node scripts/audit.mjs && astro build",
+    "build": "node scripts/stamp-dates.mjs && node scripts/research-index.mjs && node scripts/audit.mjs && astro build",
     "verify": "node scripts/stamp-dates.mjs --check && node scripts/audit.mjs && node scripts/linkcheck.mjs",
     "preview": "astro preview"
   },
