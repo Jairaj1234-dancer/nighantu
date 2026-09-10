@@ -1,0 +1,67 @@
+name: Refresh citations
+
+# Monthly: re-query PubMed for new literature, rebuild the research index, and
+# resubmit only the pages that actually changed.
+#
+# No account and no API key: NCBI allows 3 requests a second unauthenticated,
+# provided the tool and email parameters are sent, which scripts/lib/pubmed.mjs does.
+
+on:
+  schedule:
+    # 04:37 UTC on the 3rd. Off the hour and away from the 1st, which the citation
+    # panel already uses, so the two never contend for the same runner slot.
+    - cron: '37 4 3 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: monitors
+  cancel-in-progress: false
+
+env:
+  ATLAS_SITE: https://jairaj1234-dancer.github.io
+  ATLAS_BASE: /nighantu
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+
+      # The companion database is a local-only source. In CI only the committed
+      # citations and live PubMed are available, which is why citations.mjs merges
+      # rather than regenerating from scratch.
+      - name: Re-query PubMed
+        run: node scripts/citations.mjs
+
+      - name: Rebuild the research index
+        run: node scripts/research-index.mjs
+
+      - name: Rebuild and gate
+        run: |
+          node scripts/stamp-dates.mjs
+          node scripts/audit.mjs
+          npx astro build
+          node scripts/linkcheck.mjs
+
+      - name: Report what changed
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: node scripts/citations-report.mjs --issue || true
+
+      - name: Commit
+        run: |
+          git config user.name  "nighantu-monitor[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/citations.json src/data/research.json src/data/page-dates.json public/research.json public/research.csv
+          git commit -m "Citation refresh $(date -u +%Y-%m)" || exit 0
+          git pull --rebase --autostash origin main || true
+          git push origin HEAD:main

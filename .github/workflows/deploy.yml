@@ -37,6 +37,11 @@ jobs:
       - name: Date ledger is current
         run: node scripts/stamp-dates.mjs --check
 
+      # public/research.{json,csv} are generated, not committed, so they must exist
+      # before astro copies public/ into dist/.
+      - name: Generate the research downloads
+        run: node scripts/research-index.mjs
+
       # The audit gates the build: a compliance violation fails the deploy.
       - name: Compliance audit (pre-build)
         run: node scripts/audit.mjs
