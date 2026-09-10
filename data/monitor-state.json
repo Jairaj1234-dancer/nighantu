@@ -136,7 +136,7 @@
   },
   "indexnow": {
     "hashes": {
-      "https://jairaj1234-dancer.github.io/nighantu/": "2739cf1b48698d83",
+      "https://jairaj1234-dancer.github.io/nighantu/": "86774443aa2492fe",
       "https://jairaj1234-dancer.github.io/nighantu/about/": "cdea74e3a79e9d43",
       "https://jairaj1234-dancer.github.io/nighantu/cite/": "6275f1739bd80453",
       "https://jairaj1234-dancer.github.io/nighantu/corrections/": "78214dff199c9702",
@@ -916,8 +916,8 @@
       "https://jairaj1234-dancer.github.io/nighantu/text/ashtanga-hridaya/": "13ee754e25c6c41a",
       "https://jairaj1234-dancer.github.io/nighantu/text/sharangadhara-samhita/": "44b450b607d88ad5"
     },
-    "lastSubmittedAt": "2026-09-10T06:42:57.157Z",
-    "lastSubmittedCount": 74
+    "lastSubmittedAt": "2026-09-10T06:50:55.790Z",
+    "lastSubmittedCount": 1
   },
   "products": {
     "broken": 0,
@@ -938,6 +938,6 @@
       "lastSeen": "2026-09-09T12:28:19.438Z"
     }
   },
-  "updatedAt": "2026-09-10T06:45:35.825Z",
+  "updatedAt": "2026-09-10T06:50:55.790Z",
   "version": 1
 }
