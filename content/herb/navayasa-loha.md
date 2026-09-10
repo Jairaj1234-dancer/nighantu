@@ -16,7 +16,7 @@ aliases: ["Navayasa Loha", "NavayasaLoha"]
 tags: ["ayurveda", "loha", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 486
+words: 413
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Lohas-Iron-Preparations/Navayasa-Loha/meta-analysis.md"
 ---
 ## Names and identification
@@ -45,9 +45,9 @@ Bhaishajya Ratnavali, Pandu Roga Chikitsa (Anemia Treatment Chapter)
 
 ## What do recent clinical trials show?
 
-- **Effect of Navayasa Lauha on experimentally-induced iron deficiency anemia** (2022): Demonstrated significant hematinic activity of Navayasa Lauha in experimental iron deficiency anemia models with improved hematological parameters
-- **An Observational Clinical Study of Navayasa Lauha Tablets w.s.r. to Iron Deficiency Anemia** (2016): Observational study showed Navayasa Lauha effectively improved hemoglobin and clinical symptoms of anemia with better tolerability compared to conventional iron therapy
-- **Clinical Efficacy and Safety of Navayasa Churna in the Management of Iron Deficiency Anemia** (2017): Provided significant relief in cardinal symptoms of anemia and improved hemoglobin levels; liver and kidney function tests remained normal throughout the study with no adverse effects
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

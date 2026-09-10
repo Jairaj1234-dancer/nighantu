@@ -16,7 +16,7 @@ aliases: ["Nigella sativa"]
 tags: ["ayurveda", "herb", "single-herb", "kitchen-spices-culinary", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 812
+words: 863
 srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Kalonji/meta-analysis.md"
 ---
 ## Names and identification
@@ -55,11 +55,16 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Kalonji/meta-analys
 
 ## What do recent clinical trials show?
 
-- **Nigella sativa: A Comprehensive Review of Its Therapeutic Potential, Pharmacological Properties, and Clinical Applications** (2024): Comprehensive review covering main compounds of Nigella sativa with their therapeutic effects, molecular structure, properties, and mechanisms of action, establishing scientific basis for traditional medicinal uses.
-- **Nigella sativa and health outcomes: An overview of systematic reviews and meta-analyses** (2023): Umbrella review of systematic reviews and meta-analyses confirmed significant effects of N. sativa on glycemic control, lipid profiles, blood pressure, body weight, and inflammation markers across multiple clinical trials.
-- **Potential Pharmacological Applications of Nigella Seeds against Chronic Inflammatory Diseases: Progress and Future Opportunities** (2023): Highlighted thymoquinone's anti-inflammatory mechanisms targeting NF-kB, MAPK, and JAK/STAT pathways, with therapeutic potential in rheumatoid arthritis, IBD, asthma, and neuroinflammatory conditions.
-- **Nigella sativa (black seed) safety: an overview** (2023): Safety overview establishing that N. sativa has a very low degree of toxicity; LD50 varies from 28.8 mL/kg to 3,371 mg/kg in mice; aqueous extracts at doses up to 6 g/kg showed no toxicity in subacute evaluations.
-- **Phase-I Study: Safe use of thymoquinone-rich black seed oil formulation confirmed in healthy volunteers** (2022): Phase I clinical trial confirmed safe use of 200 mg black seed oil formulation with 5% TQ (10 mg TQ daily) over 90 days in 35 healthy volunteers versus placebo, with no significant adverse effects.
+- Alberts A, Moldoveanu ET, Niculescu AG and others 2024. [Nigella sativa: A Comprehensive Review of Its Therapeutic Potential, Pharmacological Properties, and Clinical Applications](https://pubmed.ncbi.nlm.nih.gov/39769174/). *International journal of molecular sciences*. PMID [39769174](https://pubmed.ncbi.nlm.nih.gov/39769174/) · [doi:10.3390/ijms252413410](https://doi.org/10.3390/ijms252413410)  
+  Comprehensive review covering main compounds of Nigella sativa with their therapeutic effects, molecular structure, properties, and mechanisms of action, establishing scientific basis for traditional medicinal uses.
+- Li Z, Wang Y, Xu Q and others 2023. [Nigella sativa and health outcomes: An overview of systematic reviews and meta-analyses](https://pubmed.ncbi.nlm.nih.gov/37057067/). *Frontiers in nutrition*. PMID [37057067](https://pubmed.ncbi.nlm.nih.gov/37057067/) · [doi:10.3389/fnut.2023.1107750](https://doi.org/10.3389/fnut.2023.1107750)  
+  Umbrella review of systematic reviews and meta-analyses confirmed significant effects of N. sativa on glycemic control, lipid profiles, blood pressure, body weight, and inflammation markers across multiple clinical trials.
+- Wahab S, Alsayari A 2023. [Potential Pharmacological Applications of Nigella Seeds with a Focus on Nigella sativa and Its Constituents against Chronic Inflammatory Diseases: Progress and Future Opportunities](https://pubmed.ncbi.nlm.nih.gov/38005726/). *Plants (Basel, Switzerland)*. PMID [38005726](https://pubmed.ncbi.nlm.nih.gov/38005726/) · [doi:10.3390/plants12223829](https://doi.org/10.3390/plants12223829)  
+  Highlighted thymoquinone's anti-inflammatory mechanisms targeting NF-kB, MAPK, and JAK/STAT pathways, with therapeutic potential in rheumatoid arthritis, IBD, asthma, and neuroinflammatory conditions.
+- Mashayekhi-Sardoo H, Rezaee R, Karimi G 2020. [Nigella sativa (black seed) safety: an overview](https://pubmed.ncbi.nlm.nih.gov/37551386/). *Asian biomedicine : research, reviews and news*. PMID [37551386](https://pubmed.ncbi.nlm.nih.gov/37551386/) · [doi:10.1515/abm-2020-0020](https://doi.org/10.1515/abm-2020-0020)  
+  Safety overview establishing that N. sativa has a very low degree of toxicity; LD50 varies from 28.8 mL/kg to 3,371 mg/kg in mice; aqueous extracts at doses up to 6 g/kg showed no toxicity in subacute evaluations.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: ["Meyna spinosa Roxb. ex Link"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 571
+words: 541
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lavali/meta-analysis.md"
 ---
 ## Names and identification
@@ -52,9 +52,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lavali/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **PHYTOCHEMICAL PROFILING, ASSESSMENT OF TOTAL PHENOLIC CONTENT, TOTAL FLAVONOID CONTENT, AND ANTIOXIDANT ACTIVITY OF ETHNOMEDICINAL PLANT, MEYNA SPINOSA FROM ASSAM** (2024): Phytochemical profiling revealed significant total phenolic and flavonoid content with potent antioxidant activity in extracts from Assam-sourced M. spinosa, supporting its ethnomedicinal applications.
-- **A Review on Meyna spinosa Roxb. ex Link** (2023): Comprehensive review documenting antimicrobial, antioxidant, cytotoxic, antidiabetic, nephroprotective, and hepatoprotective potential, noting the plant remains significantly under-researched.
-- **A review on phytochemistry and pharmacology of an unexplored ethnomedicinal plant: Meyna spinosa Roxb. Ex** (2022): Chemical analysis by HRMS and AAS identified [triterpenes](/nighantu/glossary/compounds-t-z/#triterpenes) (ursolic acid, oleanolic acid, lupeol, betulin), [coumarins](/nighantu/glossary/compounds-c-d/#coumarins) (scopoletin), and essential microelements (iron, copper, zinc, [manganese](/nighantu/glossary/compounds-l-o/#manganese)).
+- Boruah JLH, Gogoi M, Famhawite V and others 2025. [Phytochemical Characterization, Prooxidant, Antiproliferative and Anti-Inflammatory Potential of Meyna spinosa Roxb. Ex Link Ripe Fruit](https://pubmed.ncbi.nlm.nih.gov/39715024/). *Chemistry & biodiversity*. PMID [39715024](https://pubmed.ncbi.nlm.nih.gov/39715024/) · [doi:10.1002/cbdv.202402342](https://doi.org/10.1002/cbdv.202402342)  
+  Comprehensive review documenting antimicrobial, antioxidant, cytotoxic, antidiabetic, nephroprotective, and hepatoprotective potential, noting the plant remains significantly under-researched.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

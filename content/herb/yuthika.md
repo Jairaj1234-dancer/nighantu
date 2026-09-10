@@ -16,7 +16,7 @@ aliases: ["Jasminum auriculatum Vahl"]
 tags: ["ayurveda", "herb", "single-herb", "skin-beauty", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 738
+words: 710
 srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Yuthika/meta-analysis.md"
 ---
 ## Names and identification
@@ -52,9 +52,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Yuthika/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Evaluation of wound healing, antioxidant and antimicrobial efficacy of Jasminum auriculatum Vahl. leaves** (2016): Ethanolic leaf extract demonstrated potent wound healing activity with enhanced collagen synthesis, significant antioxidant DPPH scavenging activity, and broad-spectrum antimicrobial efficacy against wound-infecting pathogens.
-- **Harnessing Jasminum Bioactive Compounds: Updated comprehensive review** (2024): Updated review identified diverse phytochemical classes in Jasminum auriculatum including [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids), flavonoids, [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids), and phenolic acids, with confirmed bioactivities relevant to skincare and wound management.
-- **Phytochemical diversity and volatile metabolite profiling of Jasminum auriculatum through mutation breeding** (2024): Mutation breeding studies characterized phytochemical diversity and volatile metabolite shifts in J. auriculatum varieties, identifying enhanced fragrance compound profiles and bioactive potential for cosmetic applications.
+- Arun M, Satish S, Anima P 2016. [Evaluation of wound healing, antioxidant and antimicrobial efficacy of Jasminum auriculatum Vahl. leaves](https://pubmed.ncbi.nlm.nih.gov/27462552/). *Avicenna journal of phytomedicine*. PMID [27462552](https://pubmed.ncbi.nlm.nih.gov/27462552/)  
+  Ethanolic leaf extract demonstrated potent wound healing activity with enhanced collagen synthesis, significant antioxidant DPPH scavenging activity, and broad-spectrum antimicrobial efficacy against wound-infecting pathogens.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

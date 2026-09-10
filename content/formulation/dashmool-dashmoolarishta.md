@@ -16,7 +16,7 @@ aliases: ["Dashmool Dashmoolarishta", "DashmoolDashmoolarishta"]
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 694
+words: 677
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Dashmool-Dashmoolarishta/meta-analysis.md"
 ---
 ## Names and identification
@@ -52,11 +52,12 @@ Charaka Samhita (Sutra Sthana, Shadvirechanashatashritiya Adhyaya) - [Dashamoola
 
 ## What do recent clinical trials show?
 
-- **Experimental evaluation of analgesic, anti-inflammatory and anti-platelet potential of [Dashamoola](/nighantu/herb/dashamoola/)** (2020): [Dashamoola](/nighantu/herb/dashamoola/) in arishta and kwath forms demonstrated significant analgesic, anti-inflammatory, and anti-platelet effects, validating traditional use in pain and arthritis management.
-- **Evaluation of oral multi-herbal preparation of Dashmoolarishta on mice model of osteoarthritis** (2021): Significant improvement in pain parameters and pathological markers in MIA-induced osteoarthritis mouse model, with reduction in inflammatory mediators and cartilage preservation.
-- **Evaluation of efficacy of Dashmoolarishta in cervicitis: A proof-of-concept study** (2020): All parameters including dysuria, vaginal discharge, and inflammation showed significant decrease after Dashmoolarishta administration, supporting its traditional gynecological applications.
-- **Dashmoola in Stri Roga: A review on its therapeutic benefits** (2023): Comprehensive review documenting therapeutic benefits specifically in gynecological conditions (Stri Roga), validating traditional postpartum care applications and uterine health benefits.
-- **Comparative study of Dasamoola Kwatha and Dasamoolarishta with special reference to preparation methods and uses** (2021): Compared decoction (kwatha) versus fermented (arishta) forms, finding that self-generated alcohol (5-7%) in arishta enhances extraction and bioavailability of active herbal compounds.
+- Parekar RR, Bolegave SS, Marathe PA and others 2015. [Experimental evaluation of analgesic, anti-inflammatory and anti-platelet potential of Dashamoola](https://pubmed.ncbi.nlm.nih.gov/25878458/). *Journal of Ayurveda and integrative medicine*. PMID [25878458](https://pubmed.ncbi.nlm.nih.gov/25878458/) · [doi:10.4103/0975-9476.146565](https://doi.org/10.4103/0975-9476.146565)  
+  [Dashamoola](/nighantu/herb/dashamoola/) in arishta and kwath forms demonstrated significant analgesic, anti-inflammatory, and anti-platelet effects, validating traditional use in pain and arthritis management.
+- Shetty YC, Godbharle S, Brahma S and others 2017. [Evaluation of oral multi-herbal preparation of Dashmoolarishta on mice model of osteoarthritis](https://pubmed.ncbi.nlm.nih.gov/29040066/). *Journal of basic and clinical physiology and pharmacology*. PMID [29040066](https://pubmed.ncbi.nlm.nih.gov/29040066/) · [doi:10.1515/jbcpp-2016-0141](https://doi.org/10.1515/jbcpp-2016-0141)  
+  Significant improvement in pain parameters and pathological markers in MIA-induced osteoarthritis mouse model, with reduction in inflammatory mediators and cartilage preservation.
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

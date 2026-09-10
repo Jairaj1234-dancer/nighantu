@@ -16,7 +16,7 @@ aliases: ["Dadima Twak", "DadimaTwak", "Punica granatum L. (fruit rind/pericarp)
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 668
+words: 697
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dadima-Twak/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dadima-Twak/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Update on the Potential of Punica granatum L. Traditional Uses and Pharmacological Uses: A Review** (2024): Comprehensive review documenting that pomegranate peel contains the highest concentration of bioactive polyphenolic compounds among all plant parts, with demonstrated anti-inflammatory, [cardioprotective](/nighantu/reference/cardioprotective/), [anticancer](/nighantu/reference/anticancer/), and antimicrobial properties.
-- **Phytochemical profile, nutritional composition of pomegranate peel and peel extract as a potential source of nutraceutical** (2024): Pomegranate peel extract showed significant [antioxidant](/nighantu/reference/antioxidant/) capacity with highest concentrations of phenolic acids, [anthocyanins](/nighantu/glossary/compounds-1-a/#anthocyanins), and [flavonoids](/nighantu/reference/flavonoids/), positioning it as a nutraceutical ingredient.
-- **Clinical evaluation of pomegranate extract (Grantria) standardized to ellagic acid, punicic acid and punicalagin** (2024): Randomized placebo-controlled study with 300 mg/day for 60 days significantly reduced wrinkles and improved skin radiance in healthy adults with good safety profile.
+- Dogara AM, Hama HA, Ozdemir D 2024. [Update on the Potential of Punica granatum L. Traditional Uses and Pharmacological Uses: A Review](https://pubmed.ncbi.nlm.nih.gov/39649727/). *Advances in pharmacological and pharmaceutical sciences*. PMID [39649727](https://pubmed.ncbi.nlm.nih.gov/39649727/) · [doi:10.1155/adpp/6523809](https://doi.org/10.1155/adpp/6523809)  
+  Comprehensive review documenting that pomegranate peel contains the highest concentration of bioactive polyphenolic compounds among all plant parts, with demonstrated anti-inflammatory, [cardioprotective](/nighantu/reference/cardioprotective/), [anticancer](/nighantu/reference/anticancer/), and antimicrobial properties.
+- Azmat F, Safdar M, Ahmad H and others 2024. [Phytochemical profile, nutritional composition of pomegranate peel and peel extract as a potential source of nutraceutical: A comprehensive review](https://pubmed.ncbi.nlm.nih.gov/38370077/). *Food science & nutrition*. PMID [38370077](https://pubmed.ncbi.nlm.nih.gov/38370077/) · [doi:10.1002/fsn3.3777](https://doi.org/10.1002/fsn3.3777)  
+  Pomegranate peel extract showed significant [antioxidant](/nighantu/reference/antioxidant/) capacity with highest concentrations of phenolic acids, [anthocyanins](/nighantu/glossary/compounds-1-a/#anthocyanins), and [flavonoids](/nighantu/reference/flavonoids/), positioning it as a nutraceutical ingredient.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

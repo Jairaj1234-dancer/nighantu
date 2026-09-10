@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Bhasmas"
-answer: "Abhraka Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg with honey/ghee. Tridosha-balancing and Rasayana properties support anti-cancer potential. Toxicity profile of standardized Krishna Vajra Abhraka bhasma made from biotite mica (2024): Acute toxicity classified Abhraka Bhasma in GHS Class V (safe) with LD50 > 2000 mg/kg."
+answer: "Abhraka Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg with honey/ghee. [Abhraka Bhasma (mica based nanomedicine): an ayurvedic herbomineral perspective in breast cancer management](https://pubmed.ncbi.nlm.nih.gov/41487493/). PMID [41487493](https://pubmed.ncbi.nlm.nih.gov/41487493/) · [doi:10.3389/fphar.2025.1656846](https://doi.org/10.3389/fphar.2025.1656846) Abhraka Bhasma exhibits dose-dependent cytotoxicity, apoptosis induction, immunomodulatory activity, and inhibition of teratoma-formation in breast cancer cell lines."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Abhraka Bhasma", "AbhrakaBhasma"]
 tags: ["ayurveda", "bhasma", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 642
+words: 689
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Abhraka-Bhasma/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,10 +51,14 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Abhraka-Bhasma/meta-
 
 ## What do recent clinical trials show?
 
-- **[Abhraka Bhasma](/nighantu/herb/abhraka-bhasma/) (mica based nanomedicine): an ayurvedic herbomineral perspective in breast cancer management** (2025): [Abhraka Bhasma](/nighantu/herb/abhraka-bhasma/) exhibits dose-dependent cytotoxicity, apoptosis induction, immunomodulatory activity, and inhibition of teratoma-formation in breast cancer cell lines. Tridosha-balancing and Rasayana properties support anti-cancer potential.
-- **Toxicity profile of standardized Krishna Vajra [Abhraka bhasma](/nighantu/herb/abhraka-bhasma/) made from biotite mica** (2024): Acute toxicity classified [Abhraka Bhasma](/nighantu/herb/abhraka-bhasma/) in GHS Class V (safe) with LD50 > 2000 mg/kg. Low therapeutic doses non-toxic, but mid and high doses induced reversible hepatotoxicity in subacute studies.
-- **Understanding the effects of [Abhraka Bhasma](/nighantu/herb/abhraka-bhasma/) on genotoxicity and its DNA repair potential in mouse model** (2023): [Abhraka Bhasma](/nighantu/herb/abhraka-bhasma/) is not genotoxic or reproductive toxic. Shows protective role against ethyl methanesulfonate-induced chromosomal damage and enhanced constitutive DNA base excision repair in mice.
-- **Abhrak Bhasma (Biotite mica nanoparticles) Induces Cytotoxicity in Adenocarcinoma Human Alveolar Basal Epithelial Cells (A549)** (2022): Demonstrated selective cytotoxicity against A549 lung adenocarcinoma cells, supporting potential anti-cancer application of mica nanoparticles.
+- Soman Pillai D, Karavettekudy Ranjit A 2025. [Abhraka Bhasma (mica based nanomedicine): an ayurvedic herbomineral perspective in breast cancer management](https://pubmed.ncbi.nlm.nih.gov/41487493/). *Frontiers in pharmacology*. PMID [41487493](https://pubmed.ncbi.nlm.nih.gov/41487493/) · [doi:10.3389/fphar.2025.1656846](https://doi.org/10.3389/fphar.2025.1656846)  
+  [Abhraka Bhasma](/nighantu/herb/abhraka-bhasma/) exhibits dose-dependent cytotoxicity, apoptosis induction, immunomodulatory activity, and inhibition of teratoma-formation in breast cancer cell lines. Tridosha-balancing and Rasayana properties support anti-cancer potential.
+- Pandit VA, Singhal SK, Deshmane GB and others 2024. [Toxicity profile of standardized Krishna Vajra Abhraka bhasma made from biotite mica](https://pubmed.ncbi.nlm.nih.gov/39616794/). *Journal of Ayurveda and integrative medicine*. PMID [39616794](https://pubmed.ncbi.nlm.nih.gov/39616794/) · [doi:10.1016/j.jaim.2024.100980](https://doi.org/10.1016/j.jaim.2024.100980)  
+  Acute toxicity classified [Abhraka Bhasma](/nighantu/herb/abhraka-bhasma/) in GHS Class V (safe) with LD50 > 2000 mg/kg. Low therapeutic doses non-toxic, but mid and high doses induced reversible hepatotoxicity in subacute studies.
+- Kulala DS, Prasad K, Reddy PS and others 2023. [Understanding the effects of Abhraka Bhasma on genotoxicity and its DNA repair potential in mouse model](https://pubmed.ncbi.nlm.nih.gov/35973910/). *Journal of Ayurveda and integrative medicine*. PMID [35973910](https://pubmed.ncbi.nlm.nih.gov/35973910/) · [doi:10.1016/j.jaim.2022.100598](https://doi.org/10.1016/j.jaim.2022.100598)  
+  [Abhraka Bhasma](/nighantu/herb/abhraka-bhasma/) is not genotoxic or reproductive toxic. Shows protective role against ethyl methanesulfonate-induced chromosomal damage and enhanced constitutive DNA base excision repair in mice.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

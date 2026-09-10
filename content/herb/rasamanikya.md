@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Rasa-Shastra-Alchemical-Preparations"
 group: "Rasamanikya"
-answer: "Rasamanikya is a substance used in the Ayurvedic materia medica. Usual dose: 60–125 mg twice daily. However, systematic toxicity studies are limited. Process Standardization of Rasamanikya (2011): Established standardized manufacturing procedures. Shodhana significantly reduced arsenic content compared to raw orpiment."
+answer: "Rasamanikya is a substance used in the Ayurvedic materia medica. Usual dose: 60–125 mg twice daily. [Process standardization of rasamanikya](https://pubmed.ncbi.nlm.nih.gov/22131676/). PMID [22131676](https://pubmed.ncbi.nlm.nih.gov/22131676/) · [doi:10.4103/0974-8520.68195](https://doi.org/10.4103/0974-8520.68195) Established standardized manufacturing procedures. Shodhana significantly reduced arsenic content compared to raw orpiment."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "rasa-shastra", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 579
+words: 528
 srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Rasamanikya/meta-analysis.md"
 ---
 ## Names and identification
@@ -38,9 +38,10 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Rasamanikya/meta-a
 
 ## What do recent clinical trials show?
 
-- **Acute and chronic toxicity of Rasamanikya - an Ayurvedic arsenical formulation in rats** (2012): Haratal Bhasma and Raw Haratal exhibited nearly non-toxicological profile when administered in specific doses, attributed to arsenic being in a compound sulfide form that is insoluble in the human body. However, systematic toxicity studies are limited.
-- **Process Standardization of Rasamanikya** (2011): Established standardized manufacturing procedures. Shodhana significantly reduced arsenic content compared to raw orpiment. ICP-AES confirmed arsenic and sulfur as major constituents. Different preparation methods yielded products with varying arsenic concentrations.
-- **Rasamanikya clinical safety pilot study in healthy volunteers** (2015): Ten healthy volunteers administered Rasamanikya for 15 consecutive days showed significantly increased arsenic levels in blood without any signs of clinical toxicity, suggesting that the processed sulfide form has different pharmacokinetics than inorganic arsenicals.
+- Srimannarayana K, Patgiri BJ, Prajapati PK 2010. [Process standardization of rasamanikya](https://pubmed.ncbi.nlm.nih.gov/22131676/). *Ayu*. PMID [22131676](https://pubmed.ncbi.nlm.nih.gov/22131676/) · [doi:10.4103/0974-8520.68195](https://doi.org/10.4103/0974-8520.68195)  
+  Established standardized manufacturing procedures. Shodhana significantly reduced arsenic content compared to raw orpiment. ICP-AES confirmed arsenic and sulfur as major constituents. Different preparation methods yielded products with varying arsenic concentrations.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

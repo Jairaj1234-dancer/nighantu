@@ -16,7 +16,7 @@ aliases: ["Lakshadi Thailam", "LakshadiThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 659
+words: 577
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Lakshadi-Thailam/meta-analysis.md"
 ---
 ## Names and identification
@@ -61,9 +61,9 @@ Ashtanga Hridayam (Uttarasthana - Balopacharaneeya / Paediatric chapter). One of
 
 ## What do recent clinical trials show?
 
-- **Traditional knowledge review of [Lakshadi Thailam](/nighantu/formulation/lakshadi-thailam/) in paediatric bone and muscle development** (2020): Comprehensive review of traditional evidence and modern pharmacological data on individual ingredients confirmed that [Ashwagandha](/nighantu/herb/ashwagandha/), [Turmeric](/nighantu/herb/turmeric/), and Lac resin possess bone-strengthening, anti-inflammatory, and [immunomodulatory](/nighantu/reference/immunomodulatory/) properties relevant to infant development.
-- **Antimicrobial and skin-protective evaluation of [Lakshadi Thailam](/nighantu/formulation/lakshadi-thailam/) ingredients** (2019): Individual ingredient analysis confirmed that [Nirgundi](/nighantu/herb/nirgundi/), Nutgrass, and Licorice extracts possess significant antibacterial activity against common infant skin pathogens, supporting its traditional use for skin infection prevention in infants.
-- **Calcium-binding and osteogenic potential of Lac resin ([Laksha](/nighantu/glossary/concepts-a-m/#laksha)) in bone tissue models** (2021): In vitro studies demonstrated that Lac resin components promote calcium deposition in osteoblast cultures and may support bone mineralization, providing a scientific basis for the traditional claim of bone-strengthening in children.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

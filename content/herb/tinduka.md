@@ -16,7 +16,7 @@ aliases: ["Diospyros peregrina (Gaertn.) Gurke (syn. D. embryopteris Pers.", "D.
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 629
+words: 653
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Tinduka/meta-analysis.md"
 ---
 ## Names and identification
@@ -56,9 +56,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Tinduka/meta-analysis.md
 
 ## What do recent clinical trials show?
 
-- **Diospyros malabarica fruit preparation mediates immunotherapeutic modulation and epigenetic regulation to evoke protection against non-small cell lung cancer (NSCLC)** (2024): Fruit preparation showed significant anticancer activity against NSCLC through immunomodulation and epigenetic regulation, demonstrating histone modification and immune cell activation in tumor microenvironment.
-- **A Comparative Study of Diospyros malabarica (Gaub) Extracts in Various Polarity-Dependent Solvents for Evaluation of Phytoconstituents and Biological Activities** (2023): Ethyl acetate and methanol extracts showed highest [antioxidant](/nighantu/reference/antioxidant/), antimicrobial and cytotoxic activities; identified polarity-dependent variation in phytoconstituent recovery and bioactivity.
-- **Anticancer therapeutic potential of genus Diospyros: From phytochemistry to clinical applications** (2024): Genus-level review identified diospyrin and betulinic acid as potent anticancer compounds with activity against breast, lung, cervical and hepatocellular carcinoma cell lines through apoptosis induction.
+- Bhootra S, Jill N, Rajak R and others 2023. [Diospyros malabarica fruit preparation mediates immunotherapeutic modulation and epigenetic regulation to evoke protection against non-small cell lung cancer (NSCLC)](https://pubmed.ncbi.nlm.nih.gov/37149067/). *Journal of ethnopharmacology*. PMID [37149067](https://pubmed.ncbi.nlm.nih.gov/37149067/) · [doi:10.1016/j.jep.2023.116525](https://doi.org/10.1016/j.jep.2023.116525)  
+  Fruit preparation showed significant anticancer activity against NSCLC through immunomodulation and epigenetic regulation, demonstrating histone modification and immune cell activation in tumor microenvironment.
+- Rauf A, Akram Z, Hafeez N and others 2024. [Anticancer therapeutic potential of genus Diospyros: From phytochemistry to clinical applications-A review](https://pubmed.ncbi.nlm.nih.gov/39479648/). *Food science & nutrition*. PMID [39479648](https://pubmed.ncbi.nlm.nih.gov/39479648/) · [doi:10.1002/fsn3.4375](https://doi.org/10.1002/fsn3.4375)  
+  Genus-level review identified diospyrin and betulinic acid as potent anticancer compounds with activity against breast, lung, cervical and hepatocellular carcinoma cell lines through apoptosis induction.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

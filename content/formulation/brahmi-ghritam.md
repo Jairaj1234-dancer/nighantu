@@ -16,7 +16,7 @@ aliases: ["Brahmi Ghritam", "BrahmiGhritam"]
 tags: ["ayurveda", "formulation", "ghritam", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 562
+words: 553
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Brahmi-Ghritam/meta-analysis.md"
 ---
 ## Names and identification
@@ -54,9 +54,10 @@ Charaka Samhita Chikitsa Sthana (Unmada and Apasmara Chikitsa); Ashtanga Hridaya
 
 ## What do recent clinical trials show?
 
-- **Organoleptic, physicochemical, phytochemical and pharmacological evaluation of six medicated ghee used for Ayurvedic management of Epilepsy** (2024): a licensed Indian manufacturer [Brahmi](/nighantu/herb/brahmi/) [Ghrita](/nighantu/herb/ghrita/) demonstrated superior protection against onset and duration of PTZ-induced convulsions in mice compared to other [Ghrita](/nighantu/herb/ghrita/) formulations evaluated
-- **A Review on the [Neuroprotective](/nighantu/reference/neuroprotective/) action of [Brahmi](/nighantu/herb/brahmi/) [ghrita](/nighantu/herb/ghrita/) - A Polyherbal Ayurvedic formulation** (2021): [Brahmi](/nighantu/herb/brahmi/) [Ghrita](/nighantu/herb/ghrita/) ingredients exhibit neuroprotective, [nootropic](/nighantu/glossary/pharmacology/#nootropic), anxiolytic, anti-depressant, antioxidant, and anticonvulsant activity; the ghee base enables crossing the blood-brain barrier
-- **Effect of Bramhi [Ghrita](/nighantu/herb/ghrita/) on learning and memory paradigms in experimental animals** (2023): [Ghrita](/nighantu/herb/ghrita/) formulation improved learning and memory in animal models with 20-40% improvement in memory retention and attention spans after 60 days of standardized use
+- Moon S, Raut N, Moon H and others 2024. [Organoleptic, physicochemical, phytochemical and pharmacological evaluation of six medicated ghee used for Ayurvedic management of Epilepsy](https://pubmed.ncbi.nlm.nih.gov/39644797/). *Journal of Ayurveda and integrative medicine*. PMID [39644797](https://pubmed.ncbi.nlm.nih.gov/39644797/) · [doi:10.1016/j.jaim.2024.100995](https://doi.org/10.1016/j.jaim.2024.100995)  
+  a licensed Indian manufacturer [Brahmi](/nighantu/herb/brahmi/) [Ghrita](/nighantu/herb/ghrita/) demonstrated superior protection against onset and duration of PTZ-induced convulsions in mice compared to other [Ghrita](/nighantu/herb/ghrita/) formulations evaluated
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

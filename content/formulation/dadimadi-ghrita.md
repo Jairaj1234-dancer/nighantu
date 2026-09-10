@@ -16,7 +16,7 @@ aliases: ["Dadimadi Ghrita", "DadimadiGhrita"]
 tags: ["ayurveda", "formulation", "ghritam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 569
+words: 497
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Dadimadi-Ghrita/meta-analysis.md"
 ---
 ## Names and identification
@@ -55,9 +55,9 @@ Ashtanga Hridaya (Brihat Trayi compendia, 1st century CE); Charaka Samhita; Sush
 
 ## What do recent clinical trials show?
 
-- **Clinical Efficacy and Safety of Punarnavadi Mandura and Dadimadi [Ghrita](/nighantu/herb/ghrita/)|Dadimadi Ghrita in the Management of Iron Deficiency Anemia** (2017): 103 patients administered 10g twice daily for 12 weeks showed statistically significant increase in serum iron levels and improvement in anemia symptoms; all safety parameters within stipulated range with no adverse drug reactions
-- **Effect of Dadimadi [Ghrita](/nighantu/herb/ghrita/)|Dadimadi Ghrita in Garbhini Pandu (Anaemia in Pregnancy)** (2019): 35 pregnant subjects treated with 10ml daily for 30 days showed improved digestive power and nourishment without side effects to fetus or mother
-- **Clinical Efficacy of Dadimadi [Ghrita](/nighantu/herb/ghrita/)|Dadimadi Ghrita in Pandu (Anemia)** (2020): Dadimadi [Ghrita](/nighantu/herb/ghrita/)|Dadimadi Ghrita demonstrated significant improvement in hemoglobin levels, reduction in weakness, fatigue, dizziness, and headache in anemia patients
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

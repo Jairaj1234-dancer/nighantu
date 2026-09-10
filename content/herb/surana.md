@@ -16,7 +16,7 @@ aliases: ["Amorphophallus campanulatus (Roxb.) Blume ex Decne. (syn. Amorphophal
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 639
+words: 566
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Surana/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Surana/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Therapeutic Potential of Surana (Amorphophallus campanulatus): A Systematic Review Integrating Classical Ayurvedic and Contemporary Scientific Evidences** (2024): Systematic review integrating Ayurvedic and modern evidence confirmed efficacy in gastrointestinal, hepatic, and inflammatory disorders, with clinical trials showing promising results in hemorrhoids and IBS management.
-- **Bioactive Chemicals and Biological Activities of Elephant Foot Yam (Amorphophallus paeoniifolius)** (2024): Documented comprehensive bioactive chemical profile with validated [antioxidant](/nighantu/reference/antioxidant/), antibacterial, antifungal, hepatoprotective, [anticancer](/nighantu/reference/anticancer/), cytotoxic, and [immunomodulatory](/nighantu/reference/immunomodulatory/) activities.
-- **Medicinal and Nutritional Importance of Amorphophallus campanulatus in Human Health** (2024): Reviewed nutritional and medicinal significance, highlighting the corm's potential as a functional food with therapeutic applications in metabolic and inflammatory disorders.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

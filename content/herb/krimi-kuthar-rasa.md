@@ -16,7 +16,7 @@ aliases: ["Krimi Kuthar Rasa", "KrimiKutharRasa"]
 tags: ["ayurveda", "rasa-shastra", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 506
+words: 514
 srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Krimi-Kuthar-Rasa/meta-analysis.md"
 ---
 ## Names and identification
@@ -46,8 +46,10 @@ Bhaishajya Ratnavali, Krimi Rogadhikara (Parasitic Diseases Chapter); also refer
 
 ## What do recent clinical trials show?
 
-- **Lead, Mercury, and Arsenic in US- and Indian-Manufactured Ayurvedic Medicines Sold via the Internet** (2008): One-fifth of Ayurvedic medicines purchased online contained detectable lead, mercury, or arsenic exceeding acceptable daily intake standards; relevant to mercury-containing formulations like [Krimi Kuthar Rasa](/nighantu/herb/krimi-kuthar-rasa/)
-- **Anthelmintic evaluation of [Vidanga](/nighantu/herb/vidanga/) (Embelia ribes) and related traditional formulations** (2019): [Vidanga](/nighantu/herb/vidanga/), a key ingredient of [Krimi Kuthar Rasa](/nighantu/herb/krimi-kuthar-rasa/), demonstrated significant in-vitro and in-vivo anthelmintic activity against roundworms and tapeworms, supporting the traditional antiparasitic claim
+- Saper RB, Phillips RS, Sehgal A and others 2008. [Lead, mercury, and arsenic in US- and Indian-manufactured Ayurvedic medicines sold via the Internet](https://pubmed.ncbi.nlm.nih.gov/18728265/). *JAMA*. PMID [18728265](https://pubmed.ncbi.nlm.nih.gov/18728265/) · [doi:10.1001/jama.300.8.915](https://doi.org/10.1001/jama.300.8.915)  
+  One-fifth of Ayurvedic medicines purchased online contained detectable lead, mercury, or arsenic exceeding acceptable daily intake standards; relevant to mercury-containing formulations like [Krimi Kuthar Rasa](/nighantu/herb/krimi-kuthar-rasa/)
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

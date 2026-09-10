@@ -16,7 +16,7 @@ aliases: ["Uncertain - possibly a regional/historical Ayurvedic name with unclea
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 469
+words: 503
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nikochaka/meta-analysis.md"
 ---
 ## Names and identification
@@ -45,8 +45,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nikochaka/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Note on identification status** (2026): No specific published research was found for the term 'Nikochaka' in available scientific databases. The herb may be a rare or obsolete Sanskrit name requiring specialist Ayurvedic lexicography for positive identification.
-- **Challenges in Botanical Identification of Classical Ayurvedic Drug Names** (2023): Over 12,000 Sanskrit plant names have been identified in classical Ayurvedic texts, and establishing exact botanical identities for many remains an ongoing scholarly challenge.
+- Darwish WS, Chen Z, Li Y and others 2021. [Retraction Note to: Deoxynivalenol-induced alterations in the redox status of HepG2 cells: identification of lipid hydroperoxides, the role of Nrf2-Keap1 signaling, and protective effects of zinc](https://pubmed.ncbi.nlm.nih.gov/34414528/). *Mycotoxin research*. PMID [34414528](https://pubmed.ncbi.nlm.nih.gov/34414528/) · [doi:10.1007/s12550-021-00440-0](https://doi.org/10.1007/s12550-021-00440-0)  
+  No specific published research was found for the term 'Nikochaka' in available scientific databases. The herb may be a rare or obsolete Sanskrit name requiring specialist Ayurvedic lexicography for positive identification.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

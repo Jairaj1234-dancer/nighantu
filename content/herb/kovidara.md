@@ -16,7 +16,7 @@ aliases: ["Bauhinia purpurea L."]
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 535
+words: 569
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kovidara/meta-analysis.md"
 ---
 ## Names and identification
@@ -56,9 +56,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kovidara/meta-analysis.m
 
 ## What do recent clinical trials show?
 
-- **Genus Bauhinia (Fabaceae): A review from phytochemistry to pharmacology - Exploring traditional uses and toxicological insights across Asia** (2024): Comprehensive genus-level review confirmed [anticancer](/nighantu/reference/anticancer/), antioxidant, [hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic), [antimicrobial](/nighantu/reference/antimicrobial/), anti-inflammatory, antidiabetic, nephroprotective and antimalarial activities across Bauhinia species.
-- **Bauhinia purpurea: An Updated Pharmacological Profile** (2023): Documented cardiac activity, wound healing, antidiabetic, antiulcer, hepatoprotective, anti-diarrheal, [antipyretic](/nighantu/reference/antipyretic/) and cytoprotective effects; ethanol extract showed significant analgesic activity at 100 mg/kg.
-- **Phytochemistry and pharmacological activities of five species of Bauhinia genus: A review** (2024): Identified [flavonoids](/nighantu/reference/flavonoids/) (astragalin, [quercetin](/nighantu/reference/quercetinquercetin/)), [steroids](/nighantu/glossary/compounds-q-t/#steroids) and terpenoids as major bioactive classes across Bauhinia species with significant anti-inflammatory and antidiabetic potential.
+- Verma R, Dash S, Ankita and others 2024. [Genus Bauhinia (Fabaceae): A review from phytochemistry to pharmacology- Exploring traditional uses and toxicological insights across Asia](https://pubmed.ncbi.nlm.nih.gov/39571414/). *Phytomedicine : international journal of phytotherapy and phytopharmacology*. PMID [39571414](https://pubmed.ncbi.nlm.nih.gov/39571414/) · [doi:10.1016/j.phymed.2024.156246](https://doi.org/10.1016/j.phymed.2024.156246)  
+  Comprehensive genus-level review confirmed [anticancer](/nighantu/reference/anticancer/), antioxidant, [hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic), [antimicrobial](/nighantu/reference/antimicrobial/), anti-inflammatory, antidiabetic, nephroprotective and antimalarial activities across Bauhinia species.
+- Gudavalli D, Pandey K, Ede VG and others 2024. [Phytochemistry and pharmacological activities of five species of Bauhinia genus: A review](https://pubmed.ncbi.nlm.nih.gov/38286316/). *Fitoterapia*. PMID [38286316](https://pubmed.ncbi.nlm.nih.gov/38286316/) · [doi:10.1016/j.fitote.2024.105830](https://doi.org/10.1016/j.fitote.2024.105830)  
+  Identified [flavonoids](/nighantu/reference/flavonoids/) (astragalin, [quercetin](/nighantu/reference/quercetinquercetin/)), [steroids](/nighantu/glossary/compounds-q-t/#steroids) and terpenoids as major bioactive classes across Bauhinia species with significant anti-inflammatory and antidiabetic potential.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

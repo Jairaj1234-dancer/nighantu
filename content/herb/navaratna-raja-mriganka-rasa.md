@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Rasa-Shastra-Alchemical-Preparations"
 group: "Navaratna-Raja-Mriganka-Rasa"
-answer: "Navaratna Raja Mriganka Rasa is a substance used in the Ayurvedic materia medica. Usual dose: 30–60 mg. Usual dose: 30–60 mg."
+answer: "Navaratna Raja Mriganka Rasa is a substance used in the Ayurvedic materia medica. Usual dose: 30–60 mg. An absence here means we could not identify the source, not that no work exists."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Navaratna Raja Mriganka Rasa", "NavaratnaRajaMrigankaRasa"]
 tags: ["ayurveda", "rasa-shastra", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 509
+words: 468
 srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Navaratna-Raja-Mriganka-Rasa/meta-analysis.md"
 ---
 ## Names and identification
@@ -45,8 +45,9 @@ Rasendra Sara Sangraha by Gopalakrishna Bhatt (14th century CE); also referenced
 
 ## What do recent clinical trials show?
 
-- **Assessment of Chronic Toxicity of Ayurvedic Herbo-Metallic Formulations (Rasaraj Rasa class) in Wistar Rats** (2023): Chronic toxicity study on related Navaratna-class formulations showed safety at therapeutic doses but histopathological changes in liver and brain at high doses
-- **Critical Review on Vishayukta Rasayogas in Rasendra Sara Sangraha** (2022): Review of toxic-mineral containing formulations from Rasendra Sara Sangraha found that proper Shodhana (purification) and Marana (calcination) processes significantly reduce bioavailable toxicity of heavy metals
+
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

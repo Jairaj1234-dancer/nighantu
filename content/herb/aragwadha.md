@@ -16,7 +16,7 @@ aliases: ["Cassia fistula L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 567
+words: 503
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aragwadha/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aragwadha/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **A Review of Cassia fistula Linn Potential Uses in Medicine** (2025): Comprehensive analysis revealed C. fistula possesses broad-spectrum therapeutic properties including [antioxidant](/nighantu/reference/antioxidant/), anti-inflammatory, antidiabetic, [hepatoprotective](/nighantu/reference/hepatoprotective/), antimicrobial, and [anticancer](/nighantu/reference/anticancer/) activities.
-- **Effect of Cassia fistula L. Syrup in Geriatric Constipation Compared with Lactulose: A Randomized Clinical Trial** (2022): Cassia fistula pod pulp syrup showed comparable efficacy to lactulose in treating geriatric constipation with fewer side effects.
-- **Cassia fistula: A Comprehensive Analysis of its Phytochemical Constituents and Pharmacological Activities** (2024): Identified [anthraquinones](/nighantu/glossary/compounds-1-a/#anthraquinones), flavonoids, phenolic acids as key bioactives; demonstrated significant antidiabetic activity through alpha-amylase and alpha-glucosidase inhibition.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

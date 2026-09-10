@@ -16,7 +16,7 @@ aliases: ["Elakanadi Kashayam", "ElakanadiKashayam"]
 tags: ["ayurveda", "formulation", "kashayam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 480
+words: 439
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Elakanadi-Kashayam/meta-analysis.md"
 ---
 ## Names and identification
@@ -58,9 +58,9 @@ Sahasrayogam. Also referenced in commentaries of Charaka Samhita's Nighantu sect
 
 ## What do recent clinical trials show?
 
-- **Anti-inflammatory, [antioxidant](/nighantu/reference/antioxidant/) and anticancerous properties of [Elakanadi Kashayam](/nighantu/formulation/elakanadi-kashayam/)** (2023): Published on ResearchGate confirming the polyherbal combination shows significant anti-inflammatory, antioxidative, and anticancerous properties through in vitro studies.
-- **Bronchodilatory effects of [Elakanadi Kashayam](/nighantu/formulation/elakanadi-kashayam/) in chronic respiratory disease** (2021): Double-blind study in Phytotherapy Research showed significant reduction in cough frequency and sputum viscosity with 40 ml thrice daily for seven days.
-- **Analytical chemistry of [Elakanadi Kashayam](/nighantu/formulation/elakanadi-kashayam/) phytoconstituents** (2020): Confirmed presence of 1,8-cineole and piperine in clinically relevant quantities, correlating with bronchodilatory and bioavailability-enhancing effects.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

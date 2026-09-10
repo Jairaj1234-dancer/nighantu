@@ -16,7 +16,7 @@ aliases: ["Eranda Patra", "ErandaPatra", "Ricinus communis L. (leaves)"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 703
+words: 739
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda-Patra/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda-Patra/meta-analysis.md
 
 ## What do recent clinical trials show?
 
-- **Phytochemical Composition and Multifunctional Applications of Ricinus communis L.: Insights into Therapeutic, Pharmacological, and Industrial Potential** (2025): GC-MS analysis of leaf extracts revealed 48-53 peaks identifying dominant compounds including phytol, phytyl palmitate, and tetracontane with significant antibacterial and anti-inflammatory activities.
-- **A phytochemical and pharmacological review of Ricinus communis L.** (2024): Leaf extracts demonstrated significant anti-inflammatory, analgesic, and antibacterial effects supporting traditional medicinal applications; chloroform fraction showed highest antibacterial efficacy.
-- **Antibacterial activity of Ricinus communis leaf extract against bovine mastitis pathogens** (2023): Castor leaf extract showed strong bactericidal activity against emerging Bacillus strains causing bovine mastitis, with chloroform fraction demonstrating the highest efficacy.
+- Ramothloa TP, Mkolo NM, Motshudi MC and others 2025. [Phytochemical Composition and Multifunctional Applications of Ricinus communis L.: Insights into Therapeutic, Pharmacological, and Industrial Potential](https://pubmed.ncbi.nlm.nih.gov/40807390/). *Molecules (Basel, Switzerland)*. PMID [40807390](https://pubmed.ncbi.nlm.nih.gov/40807390/) · [doi:10.3390/molecules30153214](https://doi.org/10.3390/molecules30153214)  
+  GC-MS analysis of leaf extracts revealed 48-53 peaks identifying dominant compounds including phytol, phytyl palmitate, and tetracontane with significant antibacterial and anti-inflammatory activities.
+- Ramothloa TP, Mkolo NM, Motshudi MC and others 2025. [Phytochemical Composition and Multifunctional Applications of Ricinus communis L.: Insights into Therapeutic, Pharmacological, and Industrial Potential](https://pubmed.ncbi.nlm.nih.gov/40807390/). *Molecules (Basel, Switzerland)*. PMID [40807390](https://pubmed.ncbi.nlm.nih.gov/40807390/) · [doi:10.3390/molecules30153214](https://doi.org/10.3390/molecules30153214)  
+  Leaf extracts demonstrated significant anti-inflammatory, analgesic, and antibacterial effects supporting traditional medicinal applications; chloroform fraction showed highest antibacterial efficacy.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

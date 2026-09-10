@@ -16,7 +16,7 @@ aliases: ["Haridra Khanda", "HaridraKhanda"]
 tags: ["ayurveda", "formulation", "leham", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 606
+words: 545
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Haridra-Khanda/meta-analysis.md"
 ---
 ## Names and identification
@@ -62,9 +62,9 @@ Charaka Samhita; Sushruta Samhita; Sharangadhara Samhita; Atharva Veda and Upani
 
 ## What do recent clinical trials show?
 
-- **Ayurvedic herbal formulations [Haridra](/nighantu/herb/haridra/) Khanda and [Manjisthadi Kwath](/nighantu/glossary/concepts-a-m/#manjisthadi-kwath) (brihat) in the management of allergic rhinitis: A pharmacological study** (2024): In vivo and in vitro pharmacological validation using LC-ESI-MS/MS plasma histamine measurement confirmed anti-allergic mechanism of [Haridra](/nighantu/herb/haridra/) Khanda in experimental anaphylaxis and mast cell degranulation models
-- **A Clinical evaluation of [Haridra](/nighantu/herb/haridra/) Khanda and Pippalyadi Taila in allergic conditions** (2009): Clinical evaluation confirmed [Haridra](/nighantu/herb/haridra/) Khanda's efficacy in managing various allergic conditions including urticaria and allergic rhinitis
-- **Preliminary pharmacognostical and physico-chemical assay of [Haridra](/nighantu/herb/haridra/) Khanda granules** (2015): Standardized quality control parameters established for [Haridra Khanda](/nighantu/formulation/haridra-khanda/) granules ensuring consistent therapeutic potency
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

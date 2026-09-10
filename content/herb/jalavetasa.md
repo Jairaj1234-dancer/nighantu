@@ -16,7 +16,7 @@ aliases: ["Vallisneria spiralis L. (aquatic medicinal plant grouped under Jalaj 
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 454
+words: 419
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jalavetasa/meta-analysis.md"
 ---
 ## Names and identification
@@ -48,8 +48,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jalavetasa/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Review on the medicinal and edible aspects of aquatic plants** (2023): Reviewed aquatic plants including Vallisneria species for their edible and medicinal potential; confirmed presence of mucilaginous compounds and flavonoids with soothing and anti-inflammatory properties.
-- **Vallisneria spiralis in Ayurveda: Uses, Benefits and Medicinal Properties** (2024): Documented traditional applications as demulcent, mild diuretic, and cooling agent with flavonoid-based [antioxidant](/nighantu/reference/antioxidant/) properties relevant to skin soothing and urinary health.
+
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

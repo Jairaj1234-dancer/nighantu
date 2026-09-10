@@ -16,7 +16,7 @@ aliases: ["Salmalia malabarica (DC.) Schott & Endl. (syn. Bombax ceiba L.) - res
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 607
+words: 588
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mochras/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mochras/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Exploring the Therapeutic Potential of Bombax ceiba L. Flowers as Source of Functional Food Development** (2025): Reviewed therapeutic potential of Bombax ceiba including flowers and resin for functional food development; documented antioxidant, anti-inflammatory, and [immunomodulatory](/nighantu/reference/immunomodulatory/) properties.
-- **Phytochemical analysis and antioxidant efficacy of the resin of Bombax ceiba (Salmali)** (2023): Confirmed significant antioxidant properties of the resin (Mochras) attributed to tannin and flavonoid content, validating traditional use as styptic and wound healing agent.
-- **Critical review on Bombax ceiba: phytochemistry, traditional uses, pharmacology, and toxicity** (2024): Comprehensive review documenting antioxidant, anti-inflammatory, anti-mutagenic, hypoglycemic, hypotensive, [hepatoprotective](/nighantu/reference/hepatoprotective/), and fibrinolytic properties of various plant parts including resin.
+- Kumari N, Radha, Puri S and others 2025. [Exploring the Therapeutic Potential of Bombax ceiba L. Flowers as Source of Functional Food Development: A Review](https://pubmed.ncbi.nlm.nih.gov/40825150/). *Chemistry & biodiversity*. PMID [40825150](https://pubmed.ncbi.nlm.nih.gov/40825150/) · [doi:10.1002/cbdv.202500247](https://doi.org/10.1002/cbdv.202500247)  
+  Reviewed therapeutic potential of Bombax ceiba including flowers and resin for functional food development; documented antioxidant, anti-inflammatory, and [immunomodulatory](/nighantu/reference/immunomodulatory/) properties.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

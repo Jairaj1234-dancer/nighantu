@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Bhasmas"
-answer: "Vaikranta Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg. Established analytical parameters for standardization. Comparative study of Vaikranta Bhasma from two samples (2019): Comparative analysis of two tourmaline sources showed variations in mineral composition, emphasizing need for source material standardization."
+answer: "Vaikranta Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg. [Physico-chemical study of Vaikrānta bhasma](https://pubmed.ncbi.nlm.nih.gov/24991067/). PMID [24991067](https://pubmed.ncbi.nlm.nih.gov/24991067/) · [doi:10.4103/0257-7941.131971](https://doi.org/10.4103/0257-7941.131971) SEM, EDX, FTIR, and ICP analysis confirmed Vaikranta Bhasma as multi-mineral compound with iron and silica as major constituents."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Vaikranta Bhasma", "VaikrantaBhasma"]
 tags: ["ayurveda", "bhasma", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 423
+words: 412
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Vaikranta-Bhasma/meta-analysis.md"
 ---
 ## Names and identification
@@ -49,9 +49,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Vaikranta-Bhasma/met
 
 ## What do recent clinical trials show?
 
-- **Physico-chemical study of [Vaikranta Bhasma](/nighantu/herb/vaikranta-bhasma/)** (2014): SEM, EDX, FTIR, and ICP analysis confirmed [Vaikranta Bhasma](/nighantu/herb/vaikranta-bhasma/) as multi-mineral compound with iron and silica as major constituents. Established analytical parameters for standardization.
-- **Comparative study of [Vaikranta Bhasma](/nighantu/herb/vaikranta-bhasma/) from two samples** (2019): Comparative analysis of two tourmaline sources showed variations in mineral composition, emphasizing need for source material standardization.
-- **Single dose toxicity study of [Vaikranta Bhasma](/nighantu/herb/vaikranta-bhasma/) in CF rats** (2015): Acute toxicity assessment showed no observable toxic effects at tested dose levels in rats, establishing preliminary safety profile.
+- Tripathi R, Rathore AS, Mehra BL and others 2013. [Physico-chemical study of Vaikrānta bhasma](https://pubmed.ncbi.nlm.nih.gov/24991067/). *Ancient science of life*. PMID [24991067](https://pubmed.ncbi.nlm.nih.gov/24991067/) · [doi:10.4103/0257-7941.131971](https://doi.org/10.4103/0257-7941.131971)  
+  SEM, EDX, FTIR, and ICP analysis confirmed [Vaikranta Bhasma](/nighantu/herb/vaikranta-bhasma/) as multi-mineral compound with iron and silica as major constituents. Established analytical parameters for standardization.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: ["Citrus limon (L.) Osbeck"]
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 646
+words: 688
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Nimbu/meta-analysis.md"
 ---
 ## Names and identification
@@ -57,9 +57,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Nimbu/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Citrus limon (Lemon) Phenomenon - A Review of the Chemistry, Pharmacological Properties, Applications** (2024): Comprehensive review confirmed antioxidant, anti-inflammatory, antimicrobial, [antidiabetic](/nighantu/reference/antidiabetic/), anticancer and [hepatoprotective](/nighantu/reference/hepatoprotective/) activities attributed to [flavonoids](/nighantu/reference/flavonoids/), limonoids, [coumarins](/nighantu/glossary/compounds-c-d/#coumarins) and terpenes.
-- **Phytochemistry and biological activities of Citrus sinensis and Citrus limon: an update** (2023): Lemon [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) (hesperidin, diosmin) showed significant vasoprotective and capillary-strengthening effects along with [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive) activity in clinical observations.
-- **Features, Pharmacological Chemistry, Molecular Mechanism and Health Benefits of Lemon** (2024): D-limonene demonstrated anticancer potential through induction of phase II detoxification [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) and inhibition of Ras-MAPK signaling pathway in cancer cell models.
+- Klimek-Szczykutowicz M, Szopa A, Ekiert H 2020. [Citrus limon (Lemon) Phenomenon-A Review of the Chemistry, Pharmacological Properties, Applications in the Modern Pharmaceutical, Food, and Cosmetics Industries, and Biotechnological Studies](https://pubmed.ncbi.nlm.nih.gov/31963590/). *Plants (Basel, Switzerland)*. PMID [31963590](https://pubmed.ncbi.nlm.nih.gov/31963590/) · [doi:10.3390/plants9010119](https://doi.org/10.3390/plants9010119)  
+  Comprehensive review confirmed antioxidant, anti-inflammatory, antimicrobial, [antidiabetic](/nighantu/reference/antidiabetic/), anticancer and [hepatoprotective](/nighantu/reference/hepatoprotective/) activities attributed to [flavonoids](/nighantu/reference/flavonoids/), limonoids, [coumarins](/nighantu/glossary/compounds-c-d/#coumarins) and terpenes.
+- Singh N, Yarla NS, Siddiqi NJ and others 2021. [Features, Pharmacological Chemistry, Molecular Mechanism and Health Benefits of Lemon](https://pubmed.ncbi.nlm.nih.gov/32901586/). *Medicinal chemistry (Shariqah (United Arab Emirates))*. PMID [32901586](https://pubmed.ncbi.nlm.nih.gov/32901586/) · [doi:10.2174/1573406416666200909104050](https://doi.org/10.2174/1573406416666200909104050)  
+  D-limonene demonstrated anticancer potential through induction of phase II detoxification [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) and inhibition of Ras-MAPK signaling pathway in cancer cell models.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

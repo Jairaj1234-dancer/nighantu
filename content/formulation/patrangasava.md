@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 469
+words: 434
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Patrangasava/meta-analysis.md"
 ---
 ## Names and identification
@@ -59,9 +59,9 @@ Brihat Trayi (the three great classics of Ayurveda). Mentioned in Charaka Samhit
 
 ## What do recent clinical trials show?
 
-- **Patrangasava in functional dyspepsia: a randomized pilot** (2019): Int J Ayurveda Med: Patrangasava vs standard antacid in functional dyspepsia - both improved, but Patrangasava users had less rebound acidity over 4 weeks.
-- **Efficacy of Patrangasava in menstrual regularity in PCOS** (2020): Study found Patrangasava effective in improving menstrual regularity in women with PCOS through hormonal balancing mechanisms.
-- **Patrangasava in endometriosis-related pain and inflammation** (2021): Clinical observation showed Patrangasava was effective in reducing pain and inflammation in women with endometriosis.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

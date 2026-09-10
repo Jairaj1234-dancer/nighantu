@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Bhasmas"
-answer: "Shukti Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 250–500 mg. Provided quality benchmarks for consistent manufacturing. Clinical trial of Shukti Bhasma for heartburn and acid reflux (2020): 68% symptom reduction in heartburn patients."
+answer: "Shukti Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 250–500 mg. An absence here means we could not identify the source, not that no work exists."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Shukti Bhasma", "ShuktiBhasma"]
 tags: ["ayurveda", "bhasma", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 484
+words: 377
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Shukti-Bhasma/meta-analysis.md"
 ---
 ## Names and identification
@@ -48,10 +48,9 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Shukti-Bhasma/meta-a
 
 ## What do recent clinical trials show?
 
-- **Standardization of Mukta [Shukti Bhasma](/nighantu/herb/shukti-bhasma/) - an Ayurvedic Medicine** (2020): Established comprehensive standardization parameters including particle size, calcium content, acid neutralization capacity, and heavy metal limits. Provided quality benchmarks for consistent manufacturing.
-- **Clinical trial of [Shukti Bhasma](/nighantu/herb/shukti-bhasma/) for heartburn and acid reflux** (2020): 68% symptom reduction in heartburn patients. Demonstrated significant antacid and gastroprotective activity comparable to standard antacid therapy.
-- **[Shukti Bhasma](/nighantu/herb/shukti-bhasma/) in osteopenic subjects - DEXA scan evaluation** (2019): Study on 25 osteopenic subjects taking 500 mg daily showed mean 2.5% improvement in lumbar spine bone mineral density after six months on DEXA scans.
-- **Review of Siddha Marine Drug - Muthuchippi (Pearl Oyster Shell) for Various Medicinal Properties** (2024): Comprehensive review confirmed calcined pearl oyster shell used across Indian medical systems (Ayurveda, Siddha) for musculoskeletal, anorectal, respiratory, and gastrointestinal diseases.
+
+
+*4 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

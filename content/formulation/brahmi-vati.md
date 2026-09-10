@@ -16,7 +16,7 @@ aliases: ["Brahmi Vati", "BrahmiVati"]
 tags: ["ayurveda", "formulation", "vati", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 705
+words: 757
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Brahmi-Vati/meta-analysis.md"
 ---
 ## Names and identification
@@ -58,10 +58,14 @@ Rasaratna Samuchchaya (16th century); also described in Bhaishajya Ratnavali (Un
 
 ## What do recent clinical trials show?
 
-- **Neurocognitive Effect of [Nootropic](/nighantu/glossary/pharmacology/#nootropic) Drug [Brahmi](/nighantu/herb/brahmi/) (Bacopa monnieri) in Alzheimer's Disease** (2017): Bacosides enhance nerve impulse transmission, promote repair of damaged neurons by upregulating neuronal synthesis and kinase activity, and restore synaptic function.
-- **Meta-analysis of nine clinical studies and 2024 update on Bacopa monnieri cognitive effects** (2024): Benefits for memory, cognitive function, and stress/anxiety reduction confirmed across multiple clinical trials; improvements in verbal learning, delayed word recall, memory acquisition, and anxiety reduction consistently demonstrated.
-- **Mechanisms, Efficacy, and Safety of Bacopa monnieri ([Brahmi](/nighantu/herb/brahmi/)) for Cognitive and Brain Enhancement** (2023): Evidence-based review confirmed [Brahmi](/nighantu/herb/brahmi/)'s pharmacological effects including memory boosting in Alzheimer's Disease, antiparkinson, antistroke, and anticonvulsant potentials through multiple neurotransmitter pathway modulation.
-- **The Molecular Links of Re-Emerging Therapy: A Review of Evidence of [Brahmi](/nighantu/herb/brahmi/) (Bacopa monniera)** (2016): Comprehensive molecular analysis identified bacosides, brahmine, herpestine, and [flavonoids](/nighantu/reference/flavonoids/) as key active compounds mediating neuroprotective, antioxidant, and anti-inflammatory mechanisms.
+- Chaudhari KS, Tiwari NR, Tiwari RR and others 2017. [Neurocognitive Effect of Nootropic Drug Brahmi (Bacopa monnieri) in Alzheimer's Disease](https://pubmed.ncbi.nlm.nih.gov/28588366/). *Annals of neurosciences*. PMID [28588366](https://pubmed.ncbi.nlm.nih.gov/28588366/) · [doi:10.1159/000475900](https://doi.org/10.1159/000475900)  
+  Bacosides enhance nerve impulse transmission, promote repair of damaged neurons by upregulating neuronal synthesis and kinase activity, and restore synaptic function.
+- Stough C, Singh H, Zangara A 2015. [Mechanisms, Efficacy, and Safety of Bacopa monnieri (Brahmi) for Cognitive and Brain Enhancement](https://pubmed.ncbi.nlm.nih.gov/26413128/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [26413128](https://pubmed.ncbi.nlm.nih.gov/26413128/) · [doi:10.1155/2015/717605](https://doi.org/10.1155/2015/717605)  
+  Evidence-based review confirmed [Brahmi](/nighantu/herb/brahmi/)'s pharmacological effects including memory boosting in Alzheimer's Disease, antiparkinson, antistroke, and anticonvulsant potentials through multiple neurotransmitter pathway modulation.
+- Mathur D, Goyal K, Koul V and others 2016. [The Molecular Links of Re-Emerging Therapy: A Review of Evidence of Brahmi (Bacopa monniera)](https://pubmed.ncbi.nlm.nih.gov/26973531/). *Frontiers in pharmacology*. PMID [26973531](https://pubmed.ncbi.nlm.nih.gov/26973531/) · [doi:10.3389/fphar.2016.00044](https://doi.org/10.3389/fphar.2016.00044)  
+  Comprehensive molecular analysis identified bacosides, brahmine, herpestine, and [flavonoids](/nighantu/reference/flavonoids/) as key active compounds mediating neuroprotective, antioxidant, and anti-inflammatory mechanisms.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

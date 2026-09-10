@@ -16,7 +16,7 @@ aliases: ["Cajanus cajan (L.) Millsp."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 536
+words: 567
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Adhaki/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Adhaki/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Enhanced Production of Anti-Inflammatory and Antibacterial Prenylated Isoflavonoids in Pigeon Pea Hairy Root Cultures** (2025): Three new prenylated isoflavonoids (cajaisoflavanone A, cajaisoflavanone B, and cajasan) were isolated from hairy root cultures; cajasan exhibited significant anti-inflammatory activity by reducing nitrite and IL-6 levels.
-- **Nutritional Composition, Bioactive Compounds, Food Applications, and Health Benefits of Pigeon Pea: A Review** (2024): Comprehensive review documenting the antioxidant, anti-inflammatory, antibacterial, antidiabetic, and [anticancer](/nighantu/reference/anticancer/) effects of Cajanus cajan and its strategies for promoting dietary use.
-- **Safety Assessment and Hepatic-Renal Protection of Cajanus cajan Root and Its Soy Isoflavone Contents** (2023): No mutagenic or cytotoxic effects found in ethanolic extract of C. cajan roots in 90-day Wistar rat study; safe daily human intake estimated at 972 mg/60 kg person/day.
+- Gajurel G, Sharma AR, Abdel-Karim S and others 2025. [Enhanced Production of Anti-Inflammatory and Antibacterial Prenylated Isoflavonoids in Pigeon Pea (Cajanus cajan) Hairy Root Cultures](https://pubmed.ncbi.nlm.nih.gov/40009762/). *Journal of agricultural and food chemistry*. PMID [40009762](https://pubmed.ncbi.nlm.nih.gov/40009762/) · [doi:10.1021/acs.jafc.4c12406](https://doi.org/10.1021/acs.jafc.4c12406)  
+  Three new prenylated isoflavonoids (cajaisoflavanone A, cajaisoflavanone B, and cajasan) were isolated from hairy root cultures; cajasan exhibited significant anti-inflammatory activity by reducing nitrite and IL-6 levels.
+- Vo TL, Cai XM, Liao JW and others 2023. [Safety Assessment and Hepatic-Renal Protection of Cajanus cajan (L.) Millsp. Root and Its Soy Isoflavone Contents](https://pubmed.ncbi.nlm.nih.gov/37764747/). *Nutrients*. PMID [37764747](https://pubmed.ncbi.nlm.nih.gov/37764747/) · [doi:10.3390/nu15183963](https://doi.org/10.3390/nu15183963)  
+  No mutagenic or cytotoxic effects found in ethanolic extract of C. cajan roots in 90-day Wistar rat study; safe daily human intake estimated at 972 mg/60 kg person/day.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

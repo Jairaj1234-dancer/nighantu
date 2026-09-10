@@ -16,7 +16,7 @@ aliases: ["Ela", "Elettaria cardamomum", "Cardamom", "Green Cardamom", "Elaichi"
 tags: ["ayurveda", "herb", "single-herb", "kitchen-spices-culinary", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 871
+words: 941
 srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Ela/meta-analysis.md"
 ---
 ## Names and identification
@@ -55,11 +55,16 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Ela/meta-analysis.m
 
 ## What do recent clinical trials show?
 
-- **Effect of cardamom consumption on inflammation and blood pressure in adults: A systematic review and meta-analysis of randomized clinical trials** (2024): Meta-analysis of 8 RCTs (595 patients) showed cardamom supplementation significantly reduces inflammatory markers (TNF-alpha, hs-CRP, IL-6) and blood pressure (both systolic and diastolic) in patients with metabolic syndrome and related disorders.
-- **The effect of Elettaria cardamomum (cardamom) on the metabolic syndrome: Narrative review** (2022): Confirmed lipid-modifying, antihypertensive, anti-inflammatory, antioxidant, and antithrombotic properties of green cardamom attributed to polyphenol compounds, with therapeutic potential for metabolic syndrome.
-- **Cardamom supplementation improves inflammatory and oxidative stress biomarkers in hyperlipidemic, overweight, and obese pre-diabetic women: RCT** (2021): Double-blind RCT in 80 pre-diabetic women showed 3 g/day cardamom for 8 weeks significantly improved inflammatory markers and oxidative stress biomarkers compared to placebo.
-- **Anticancer Potential of Cardamom (Elettaria cardamomum) Essential Oil Against TNBC, Glioma and Kidney Cancer In Vitro** (2023): Demonstrated anticancer activity of cardamom essential oil against triple-negative breast cancer, glioma, and kidney cancer cell lines in vitro.
-- **Antibacterial and anti-inflammatory activities of cardamom extracts: Potential therapeutic benefits for periodontal infections** (2020): Validated antibacterial and anti-inflammatory properties of cardamom extracts with specific therapeutic potential for managing periodontal infections.
+- Heydarian A, Tahvilian N, Shahinfar H and others 2024. [Effect of cardamom consumption on inflammation and blood pressure in adults: A systematic review and meta-analysis of randomized clinical trials](https://pubmed.ncbi.nlm.nih.gov/38268891/). *Food science & nutrition*. PMID [38268891](https://pubmed.ncbi.nlm.nih.gov/38268891/) · [doi:10.1002/fsn3.3738](https://doi.org/10.1002/fsn3.3738)  
+  Meta-analysis of 8 RCTs (595 patients) showed cardamom supplementation significantly reduces inflammatory markers (TNF-alpha, hs-CRP, IL-6) and blood pressure (both systolic and diastolic) in patients with metabolic syndrome and related disorders.
+- Yahyazadeh R, Ghasemzadeh Rahbardar M, Razavi BM and others 2021. [The effect of Elettaria cardamomum (cardamom) on the metabolic syndrome: Narrative review](https://pubmed.ncbi.nlm.nih.gov/35317114/). *Iranian journal of basic medical sciences*. PMID [35317114](https://pubmed.ncbi.nlm.nih.gov/35317114/) · [doi:10.22038/IJBMS.2021.54417.12228](https://doi.org/10.22038/IJBMS.2021.54417.12228)  
+  Confirmed lipid-modifying, antihypertensive, anti-inflammatory, antioxidant, and antithrombotic properties of green cardamom attributed to polyphenol compounds, with therapeutic potential for metabolic syndrome.
+- Kazemi S, Yaghooblou F, Siassi F and others 2017. [Cardamom supplementation improves inflammatory and oxidative stress biomarkers in hyperlipidemic, overweight, and obese pre-diabetic women: a randomized double-blind clinical trial](https://pubmed.ncbi.nlm.nih.gov/28480505/). *Journal of the science of food and agriculture*. PMID [28480505](https://pubmed.ncbi.nlm.nih.gov/28480505/) · [doi:10.1002/jsfa.8414](https://doi.org/10.1002/jsfa.8414)  
+  Double-blind RCT in 80 pre-diabetic women showed 3 g/day cardamom for 8 weeks significantly improved inflammatory markers and oxidative stress biomarkers compared to placebo.
+- Souissi M, Azelmat J, Chaieb K and others 2020. [Antibacterial and anti-inflammatory activities of cardamom (Elettaria cardamomum) extracts: Potential therapeutic benefits for periodontal infections](https://pubmed.ncbi.nlm.nih.gov/31430531/). *Anaerobe*. PMID [31430531](https://pubmed.ncbi.nlm.nih.gov/31430531/) · [doi:10.1016/j.anaerobe.2019.102089](https://doi.org/10.1016/j.anaerobe.2019.102089)  
+  Validated antibacterial and anti-inflammatory properties of cardamom extracts with specific therapeutic potential for managing periodontal infections.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

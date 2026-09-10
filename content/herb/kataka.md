@@ -16,7 +16,7 @@ aliases: ["Strychnos potatorum L.f."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 590
+words: 562
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kataka/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kataka/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **The characteristics and efficiency of Strychnos potatorum as a medicinal plant and water purification agent: a review** (2025): Comprehensive review documenting dual application as water purification coagulant and medicinal plant; seed [proteins](/nighantu/glossary/compounds-o-q/#proteins) act as effective natural coagulants and antimicrobial agents for water treatment.
-- **A systemic review on Ayurvedic and modern pharmacology of Strychnos potatorum Linn.** (2024): Systematic review validating traditional Ayurvedic applications through modern pharmacological evidence including antiarthritic, nephroprotective, antidiabetic, and anti-inflammatory activities.
-- **Strychnos potatorum: Phytochemical and pharmacological review** (2023): Documented comprehensive phytochemical profile with tannins, saponins, and alkaloids as major classes; validated antimicrobial, antidiarrheal, [antipyretic](/nighantu/reference/antipyretic/), and contraceptive activities.
+- Yadav KN, Kadam PV, Patel JA and others 2014. [Strychnos potatorum: Phytochemical and pharmacological review](https://pubmed.ncbi.nlm.nih.gov/24600197/). *Pharmacognosy reviews*. PMID [24600197](https://pubmed.ncbi.nlm.nih.gov/24600197/) · [doi:10.4103/0973-7847.125533](https://doi.org/10.4103/0973-7847.125533)  
+  Documented comprehensive phytochemical profile with tannins, saponins, and alkaloids as major classes; validated antimicrobial, antidiarrheal, [antipyretic](/nighantu/reference/antipyretic/), and contraceptive activities.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

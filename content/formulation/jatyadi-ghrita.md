@@ -16,7 +16,7 @@ aliases: ["Jatyadi Ghrita", "JatyadiGhrita"]
 tags: ["ayurveda", "formulation", "ghritam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 675
+words: 657
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Jatyadi-Ghrita/meta-analysis.md"
 ---
 ## Names and identification
@@ -60,9 +60,10 @@ Chakradatta (12th century CE) - earliest clear mention; Sushruta Samhita (wound 
 
 ## What do recent clinical trials show?
 
-- **Antibacterial and Anti-Inflammatory Potential of Polyherbal Formulation Used in Chronic Wound Healing** (2021): Jatyadi [Ghrita](/nighantu/herb/ghrita/)|Jatyadi Ghrita extracts showed significant antibacterial activity against MRSA and multidrug-resistant P. aeruginosa in diabetic foot infections, with MICs ranging from 1.95 to 62.5 mg/mL against Gram-positive bacteria
-- **Topical application of Jatyadi [Ghrita](/nighantu/herb/ghrita/)|Jatyadi Ghrita and [Jatyadi Taila](/nighantu/formulation/jatyadi-taila/) accelerates wound healing in Sprague-Dawley rats** (2021): Significant wound area reduction of 92-97% on day 42 in gamma-radiation-induced skin wound model, with reduced skin damage scores and bacterial load
-- **Experimental and histopathological observation scoring methods for evaluation of wound healing properties of Jatyadi [Ghrita](/nighantu/herb/ghrita/)|Jatyadi Ghrita** (2018): Jatyadi [Ghrita](/nighantu/herb/ghrita/)|Jatyadi Ghrita showed wound healing activity comparable to mupirocin HCl, with clinical improvement from second day and significantly higher re-epithelialization rate from day 5 onward
+- Mandrika I, Kumar S, Zandersone B and others 2021. [Antibacterial and Anti-Inflammatory Potential of Polyherbal Formulation Used in Chronic Wound Healing](https://pubmed.ncbi.nlm.nih.gov/34306164/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [34306164](https://pubmed.ncbi.nlm.nih.gov/34306164/) · [doi:10.1155/2021/9991454](https://doi.org/10.1155/2021/9991454)  
+  Jatyadi [Ghrita](/nighantu/herb/ghrita/)|Jatyadi Ghrita extracts showed significant antibacterial activity against MRSA and multidrug-resistant P. aeruginosa in diabetic foot infections, with MICs ranging from 1.95 to 62.5 mg/mL against Gram-positive bacteria
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

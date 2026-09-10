@@ -16,7 +16,7 @@ aliases: ["Alangium salviifolium (L.f.) Wangerin"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 586
+words: 513
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ankola/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ankola/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **GCMS-based phytochemical profiling and in vitro pharmacological activities of plant Alangium salviifolium (L.f) Wang** (2024): All crude extracts showed considerable and comparable in vitro [antioxidant](/nighantu/reference/antioxidant/) and antibacterial properties; GC-MS analysis identified multiple bioactive compounds including [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids) and fatty acids.
-- **Ankol plant (Alangium salvifolium) - The treasure trove of bioactives and medicinal potential** (2022): Comprehensive review documenting the plant's significant [anticancer](/nighantu/reference/anticancer/), [antitumor](/nighantu/glossary/pharmacology/#antitumor), antibacterial, antinociceptive, and anti-inflammatory properties across different plant parts.
-- **Pharmacological and phytochemical studies of Alangium salvifolium Wang - A review** (2017): Evidence-based studies reported efficacy against hypertension, diabetes, epilepsy, cancer, inflammation, and ulcer, with multiple alkaloid classes contributing to diverse pharmacological effects.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: ["Allium sativum L.", "Rasona Garlic", "RasonaGarlic"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 754
+words: 811
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rasona-Garlic/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rasona-Garlic/meta-analysis.m
 
 ## What do recent clinical trials show?
 
-- **Garlic bioactive substances and their therapeutic applications for improving human health: a comprehensive review** (2024): Comprehensive review documenting allicin's role in cardiovascular protection, antioxidant effects through NADPH oxidase inhibition, and direct ROS scavenging within cells.
-- **Traditional uses, phytochemistry, pharmacology and toxicology of garlic (Allium sativum): A review of research from the last decade** (2022): Decade-long research review establishing antioxidant, hypoglycemic, anti-inflammatory, antihyperlipidemic, [anticancer](/nighantu/reference/anticancer/), antimicrobial, [hepatoprotective](/nighantu/reference/hepatoprotective/), and immunostimulant activities.
-- **Valorization of garlic (Allium sativum L.) byproducts: Bioactive compounds, biological properties, and applications** (2025): Garlic byproducts (leaves, stems, outer skin) contain significant bioactive compounds with antioxidant and antimicrobial properties, supporting waste-to-value applications.
+- El-Saadony MT, Saad AM, Korma SA and others 2024. [Garlic bioactive substances and their therapeutic applications for improving human health: a comprehensive review](https://pubmed.ncbi.nlm.nih.gov/38915405/). *Frontiers in immunology*. PMID [38915405](https://pubmed.ncbi.nlm.nih.gov/38915405/) · [doi:10.3389/fimmu.2024.1277074](https://doi.org/10.3389/fimmu.2024.1277074)  
+  Comprehensive review documenting allicin's role in cardiovascular protection, antioxidant effects through NADPH oxidase inhibition, and direct ROS scavenging within cells.
+- Tudu CK, Dutta T, Ghorai M and others 2022. [Traditional uses, phytochemistry, pharmacology and toxicology of garlic (Allium sativum), a storehouse of diverse phytochemicals: A review of research from the last decade focusing on health and nutritional implications](https://pubmed.ncbi.nlm.nih.gov/36386956/). *Frontiers in nutrition*. PMID [36386956](https://pubmed.ncbi.nlm.nih.gov/36386956/) · [doi:10.3389/fnut.2022.929554](https://doi.org/10.3389/fnut.2022.929554)  
+  Decade-long research review establishing antioxidant, hypoglycemic, anti-inflammatory, antihyperlipidemic, [anticancer](/nighantu/reference/anticancer/), antimicrobial, [hepatoprotective](/nighantu/reference/hepatoprotective/), and immunostimulant activities.
+- Jain M, Patil N, Mohammed A and others 2025. [Valorization of garlic (Allium sativum L.) byproducts: Bioactive compounds, biological properties, and applications](https://pubmed.ncbi.nlm.nih.gov/40135462/). *Journal of food science*. PMID [40135462](https://pubmed.ncbi.nlm.nih.gov/40135462/) · [doi:10.1111/1750-3841.70152](https://doi.org/10.1111/1750-3841.70152)  
+  Garlic byproducts (leaves, stems, outer skin) contain significant bioactive compounds with antioxidant and antimicrobial properties, supporting waste-to-value applications.
 
 ## Recent safety updates
 

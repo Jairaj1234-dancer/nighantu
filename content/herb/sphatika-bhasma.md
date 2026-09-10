@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Bhasmas"
-answer: "Sphatika Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg internally; external: as powder or solution. Better anti-biofilm activity than raw alum. Moderate antifungal activity also demonstrated."
+answer: "Sphatika Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg internally; external: as powder or solution. An absence here means we could not identify the source, not that no work exists."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Sphatika Bhasma", "SphatikaBhasma"]
 tags: ["ayurveda", "bhasma", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 480
+words: 408
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Sphatika-Bhasma/meta-analysis.md"
 ---
 ## Names and identification
@@ -48,9 +48,9 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Sphatika-Bhasma/meta
 
 ## What do recent clinical trials show?
 
-- **In Vitro Evaluation of Antimicrobial and [Antioxidant](/nighantu/reference/antioxidant/) Activities of Alum and Its Bhasma ([Sphatika Bhasma](/nighantu/herb/sphatika-bhasma/))** (2022): [Sphatika Bhasma](/nighantu/herb/sphatika-bhasma/) showed lower MIC values than raw alum, with broad-spectrum antibacterial activity against gram-positive and gram-negative organisms. Better anti-biofilm activity than raw alum. Moderate antifungal activity also demonstrated.
-- **An overview of Sphatika (Alum) in Ayurvedic literature** (2021): Comprehensive review documented traditional uses across multiple classical texts. Confirmed Sphatika's role in bleeding disorders, respiratory diseases, and skin conditions.
-- **Antimicrobial assessment of [Sphatika Bhasma](/nighantu/herb/sphatika-bhasma/) in dental applications** (2020): Demonstrated significant antimicrobial activity against oral pathogens, supporting traditional use for dental and oral hygiene applications.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

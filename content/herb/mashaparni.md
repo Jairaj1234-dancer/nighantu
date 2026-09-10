@@ -16,7 +16,7 @@ aliases: ["Teramnus labialis (L.f.) Spreng."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 536
+words: 483
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mashaparni/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mashaparni/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **A Comprehensive Review on Pharmacological Activity and Secondary Metabolites of Teramnus labialis L.** (2023): Documented the full spectrum of pharmacological activities including antibacterial, [hepatoprotective](/nighantu/reference/hepatoprotective/), [antioxidant](/nighantu/reference/antioxidant/), anti-inflammatory, and antidiabetic properties with identification of key secondary metabolites.
-- **Immunomodulatory activity of Mashaparni - Teramnus labialis Spreng** (2022): Demonstrated significant immunomodulatory activity using antigen-induced rat paw edema model in Wistar albino rats, with dose-dependent immune response enhancement.
-- **Anti-inflammatory constituents of Teramnus labialis** (2021): Bioassay-guided fractionation identified vitexin as the key anti-inflammatory compound with dose-dependent 5-lipoxygenase inhibitory activity.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

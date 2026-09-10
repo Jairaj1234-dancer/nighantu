@@ -16,7 +16,7 @@ aliases: ["Malaxis muscifera (Lindl.) Kuntze / Malaxis acuminata D. Don"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 518
+words: 511
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jivaka/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jivaka/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Malaxis acuminata: An Important Ingredient of Ashtavarga** (2024): Review documenting phytochemical profiling with 103 active ingredients identified from M. acuminata and 49 from M. muscifera, highlighting the species' complex chemical makeup.
-- **Malaxis muscifera (Lindley) O. Kuntze and Malaxis acuminata D. Don: Jeevak - a comprehensive review** (2023): Comprehensive documentation of both species as Jivaka sources in the Ashtavarga group, covering taxonomy, phytochemistry, and pharmacological profile.
-- **Secondary metabolite profiling, anti-inflammatory potential, in vitro photoprotective and skin-aging related enzyme inhibitory activities of Malaxis acuminata** (2023): Demonstrated significant anti-inflammatory potential and photoprotective activity with skin anti-aging enzyme inhibition properties of the metabolite profile.
+- Bose B, Choudhury H, Tandon P and others 2017. [Studies on secondary metabolite profiling, anti-inflammatory potential, in vitro photoprotective and skin-aging related enzyme inhibitory activities of Malaxis acuminata, a threatened orchid of nutraceutical importance](https://pubmed.ncbi.nlm.nih.gov/28743100/). *Journal of photochemistry and photobiology. B, Biology*. PMID [28743100](https://pubmed.ncbi.nlm.nih.gov/28743100/) · [doi:10.1016/j.jphotobiol.2017.07.010](https://doi.org/10.1016/j.jphotobiol.2017.07.010)  
+  Demonstrated significant anti-inflammatory potential and photoprotective activity with skin anti-aging enzyme inhibition properties of the metabolite profile.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

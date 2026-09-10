@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 530
+words: 502
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Abhayarishta/meta-analysis.md"
 ---
 ## Names and identification
@@ -59,9 +59,9 @@ Bhaishajya Ratnavali, Arsha Rogadhikara (Piles treatment chapter). Also referenc
 
 ## What do recent clinical trials show?
 
-- **Double-blind study of Abhayarishta in functional constipation** (2017): Study in Journal of Ethnopharmacology showed significant relief in functional constipation after four weeks of therapy compared to placebo.
-- **Anti-hemorrhoidal properties of [Haritaki](/nighantu/herb/haritaki/)-based formulations** (2019): [Haritaki](/nighantu/herb/haritaki/) extract demonstrated venotonic and anti-inflammatory effects, reducing hemorrhoidal swelling and venous pressure in experimental models.
-- **Cholagogue and laxative mechanisms of Abhayarishta** (2020): Mechanistic study confirmed increased bile secretion and enhanced peristaltic movement as primary pathways for constipation relief.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

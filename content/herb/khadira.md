@@ -16,7 +16,7 @@ aliases: ["Acacia catechu (L.f.) Willd."]
 tags: ["ayurveda", "herb", "single-herb", "skin-beauty", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 694
+words: 616
 srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Khadira/meta-analysis.md"
 ---
 ## Names and identification
@@ -52,9 +52,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Khadira/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Therapeutic Effect of Khadira (Acacia catechu) in Ekakustha (Psoriasis)** (2020): Clinical study of 40 psoriasis patients receiving 3 g dry Khadira powder twice daily showed significant improvement in PASI (Psoriasis Area Severity Index) scores before and after treatment.
-- **Khadirarishta polyherbal formulation for chronic skin and blood disorders** (2023): Khadirarishta, with Acacia catechu as its chief constituent, demonstrated efficacy as a potent Rakta Shodhak (blood purifier), offering systemic benefits for eczema, acne, and psoriasis through its polyphenol-rich fermented preparation.
-- **Acacia catechu cytotoxic T-cell regulatory activity for skin immunomodulation** (2021): Catechu was reported to regulate cytotoxic T-cells, demonstrating immunomodulatory properties relevant to autoimmune skin conditions like psoriasis and atopic dermatitis.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

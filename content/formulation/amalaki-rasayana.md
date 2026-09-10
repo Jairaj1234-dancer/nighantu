@@ -16,7 +16,7 @@ aliases: ["Amalaki Rasayana", "AmalakiRasayana"]
 tags: ["ayurveda", "formulation", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 548
+words: 598
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Rasayanas-Rejuvenatives/Amalaki-Rasayana/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,12 @@ Charaka Samhita Chikitsa Sthana (Rasayana Adhyaya) - described as Vayasthapana R
 
 ## What do recent clinical trials show?
 
-- **Influence of [Amalaki Rasayana](/nighantu/formulation/amalaki-rasayana/) on telomerase activity and telomere length in human blood mononuclear cells** (2017): 45-day administration in healthy aged volunteers (45-60 years) showed increased telomerase activity that facilitated maintenance of telomere length, potentially promoting healthy aging
-- **Pharmacological insights and therapeutic potential of [Amalaki Rasayana](/nighantu/formulation/amalaki-rasayana/): A comprehensive review** (2024): Comprehensive review validates antioxidant, anti-aging, cardioprotective, [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive), [anticancer](/nighantu/reference/anticancer/), [antidiabetic](/nighantu/reference/antidiabetic/), and immunomodulatory effects of [Amalaki Rasayana](/nighantu/formulation/amalaki-rasayana/)
-- **[Amalaki rasayana](/nighantu/formulation/amalaki-rasayana/) enhances cardiac mitochondrial and contractile functions and improves cardiac function in rats with hypertrophy** (2017): [Amalaki Rasayana](/nighantu/formulation/amalaki-rasayana/) enhanced cardiac mitochondrial function and contractile performance, improving cardiac function in rats with cardiac hypertrophy
+- Guruprasad KP, Dash S, Shivakumar MB and others 2017. [Influence of Amalaki Rasayana on telomerase activity and telomere length in human blood mononuclear cells](https://pubmed.ncbi.nlm.nih.gov/28602428/). *Journal of Ayurveda and integrative medicine*. PMID [28602428](https://pubmed.ncbi.nlm.nih.gov/28602428/) · [doi:10.1016/j.jaim.2017.01.007](https://doi.org/10.1016/j.jaim.2017.01.007)  
+  45-day administration in healthy aged volunteers (45-60 years) showed increased telomerase activity that facilitated maintenance of telomere length, potentially promoting healthy aging
+- Kumar V, Aneesh KA, Kshemada K and others 2017. [Amalaki rasayana, a traditional Indian drug enhances cardiac mitochondrial and contractile functions and improves cardiac function in rats with hypertrophy](https://pubmed.ncbi.nlm.nih.gov/28819266/). *Scientific reports*. PMID [28819266](https://pubmed.ncbi.nlm.nih.gov/28819266/) · [doi:10.1038/s41598-017-09225-x](https://doi.org/10.1038/s41598-017-09225-x)  
+  [Amalaki Rasayana](/nighantu/formulation/amalaki-rasayana/) enhanced cardiac mitochondrial function and contractile performance, improving cardiac function in rats with cardiac hypertrophy
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

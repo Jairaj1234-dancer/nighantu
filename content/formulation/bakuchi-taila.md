@@ -16,7 +16,7 @@ aliases: ["Bakuchi Taila", "BakuchiTaila"]
 tags: ["ayurveda", "formulation", "taila", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 670
+words: 663
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Bakuchi-Taila/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,10 @@ Charaka Samhita (Chikitsa Sthana - Kushtha Chikitsa); Sushruta Samhita; Bhaishaj
 
 ## What do recent clinical trials show?
 
-- **Studies on the composition and standardization of [Bakuchi](/nighantu/herb/bakuchi/) oil used in the treatment of vitiligo** (2014): TLC fingerprint identified six fluorescent secondary metabolites (psoralen, isopsoralen, corylin, psoralidin, dehydroisopsoralidin, isobavachalcone) providing a standardization framework for quality control of [Bakuchi](/nighantu/herb/bakuchi/) oil.
-- **[Bakuchi](/nighantu/herb/bakuchi/) extract gel in vitiligo repigmentation: randomized controlled trial** (2019): Published in Phytotherapy Research, bakuchi extract gel improved vitiligo repigmentation by 40% compared to placebo over 6 months of treatment.
-- **Evaluation of hepatotoxicity of Psoralea corylifolia based on zebrafish model** (2024): Published in Frontiers in Pharmacology, the study identified bavachin, psoralidin, bavachinin, neobavaisoflavone, and bakuchiol as the main hepatotoxic constituents, with hepatotoxicity mechanism related to effects on liver lipid metabolism and mitochondrial dysfunction.
+- Gao SY, Zhao JC, Xia Q and others 2024. [Evaluation of the hepatotoxicity of Psoralea corylifolia L. based on a zebrafish model](https://pubmed.ncbi.nlm.nih.gov/38449808/). *Frontiers in pharmacology*. PMID [38449808](https://pubmed.ncbi.nlm.nih.gov/38449808/) · [doi:10.3389/fphar.2024.1308655](https://doi.org/10.3389/fphar.2024.1308655)  
+  Published in Frontiers in Pharmacology, the study identified bavachin, psoralidin, bavachinin, neobavaisoflavone, and bakuchiol as the main hepatotoxic constituents, with hepatotoxicity mechanism related to effects on liver lipid metabolism and mitochondrial dysfunction.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: ["Trapa natans L. (syn. Trapa bispinosa Roxb.)"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 621
+words: 675
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shrigataka/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shrigataka/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Trapa natans L. Extract Attenuates Inflammation and Oxidative Damage in Cisplatin-Induced Cardiotoxicity in Rats by Promoting M2 Macrophage Polarization** (2025): Water chestnut extract attenuated cisplatin-induced cardiotoxicity by promoting M2 macrophage polarization, reducing inflammation and oxidative damage in cardiac tissue.
-- **Water chestnut (Trapa natans L.): Nutritional, phytochemical and pharmacological aspects - An Overview** (2024): Comprehensive review documenting [immunomodulatory](/nighantu/reference/immunomodulatory/), anti-inflammatory, antioxidant, [anticancer](/nighantu/reference/anticancer/), [analgesic](/nighantu/reference/analgesic/), anti-ulcer, antidiabetic, and [hepatoprotective](/nighantu/reference/hepatoprotective/) effects linked to phenolic compounds and [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids).
-- **Hypoglycemic Constituents Isolated from Trapa natans L. Pericarps** (2016): Hydrolyzable tannins, lignin, flavonoid, norlignan, and phenolic compounds from water chestnut pericarps enhanced glucose uptake activity in C2C12 myotubes, identifying specific antidiabetic constituents.
+- Matovic V, Ljujic B, Radojevic I and others 2025. [Trapa natans L. Extract Attenuates Inflammation and Oxidative Damage in Cisplatin-Induced Cardiotoxicity in Rats by Promoting M2 Macrophage Polarization](https://pubmed.ncbi.nlm.nih.gov/39886549/). *Mediators of inflammation*. PMID [39886549](https://pubmed.ncbi.nlm.nih.gov/39886549/) · [doi:10.1155/mi/6587305](https://doi.org/10.1155/mi/6587305)  
+  Water chestnut extract attenuated cisplatin-induced cardiotoxicity by promoting M2 macrophage polarization, reducing inflammation and oxidative damage in cardiac tissue.
+- Rehman AU, Khan AU, Sohaib M and others 2024. [Comparative Analysis of Nutritional Properties, Phytochemical Profile, and Antioxidant Activities between Red and Green Water Chestnut (Trapa natans) Fruits](https://pubmed.ncbi.nlm.nih.gov/38928824/). *Foods (Basel, Switzerland)*. PMID [38928824](https://pubmed.ncbi.nlm.nih.gov/38928824/) · [doi:10.3390/foods13121883](https://doi.org/10.3390/foods13121883)  
+  Comprehensive review documenting [immunomodulatory](/nighantu/reference/immunomodulatory/), anti-inflammatory, antioxidant, [anticancer](/nighantu/reference/anticancer/), [analgesic](/nighantu/reference/analgesic/), anti-ulcer, antidiabetic, and [hepatoprotective](/nighantu/reference/hepatoprotective/) effects linked to phenolic compounds and [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids).
+- Huang HC, Chao CL, Liaw CC and others 2016. [Hypoglycemic Constituents Isolated from Trapa natans L. Pericarps](https://pubmed.ncbi.nlm.nih.gov/27115849/). *Journal of agricultural and food chemistry*. PMID [27115849](https://pubmed.ncbi.nlm.nih.gov/27115849/) · [doi:10.1021/acs.jafc.6b01208](https://doi.org/10.1021/acs.jafc.6b01208)  
+  Hydrolyzable tannins, lignin, flavonoid, norlignan, and phenolic compounds from water chestnut pericarps enhanced glucose uptake activity in C2C12 myotubes, identifying specific antidiabetic constituents.
 
 ## Recent safety updates
 

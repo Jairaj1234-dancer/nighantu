@@ -16,7 +16,7 @@ aliases: ["Neolamarckia cadamba (Roxb.) Bosser"]
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 547
+words: 480
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kadamba/meta-analysis.md"
 ---
 ## Names and identification
@@ -56,9 +56,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kadamba/meta-analysis.md
 
 ## What do recent clinical trials show?
 
-- **A review of Kadamba (Neolamarckia cadamba): an invaluable medicinal plant** (2025): Comprehensive review confirmed diverse pharmacological effects including antioxidant, antimicrobial, antidiabetic, anti-inflammatory, hepatoprotective, [anticancer](/nighantu/reference/anticancer/), antimalarial and antidiarrheal activities validated through in vitro and in vivo studies.
-- **Neolamarckia cadamba: A Comprehensive review on its Physiological, Ecological, Phytochemical and Pharmacological Perspectives** (2023): Identified cadambine and chlorogenic acid as primary bioactive compounds responsible for anti-inflammatory and antioxidant mechanisms; highlighted need for clinical translation.
-- **Neolamarckia cadamba in Obesity Management** (2024): Cadamba bark and fruit extracts showed significant anti-obesity potential through lipase inhibition and modulation of adipogenesis-related gene expression in preclinical models.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

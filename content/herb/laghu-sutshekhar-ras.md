@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Rasa-Shastra-Alchemical-Preparations"
 group: "Laghu-Sutshekhar-Ras"
-answer: "Laghu Sutshekhar Ras is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg twice daily. Called for more robust clinical trials. Pilot study on Sutshekhar Ras in functional dyspepsia (J Ayurveda Integr Med) (2019): 68% of patients with functional dyspepsia experienced symptom relief within two weeks of treatment, suggesting rapid onset of action for acid-related symptoms."
+answer: "Laghu Sutshekhar Ras is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg twice daily. An absence here means we could not identify the source, not that no work exists."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Laghu Sutshekhar Ras", "LaghuSutshekharRas"]
 tags: ["ayurveda", "rasa-shastra", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 405
+words: 357
 srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Laghu-Sutshekhar-Ras/meta-analysis.md"
 ---
 ## Names and identification
@@ -38,8 +38,9 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Laghu-Sutshekhar-R
 
 ## What do recent clinical trials show?
 
-- **The Efficacy of Sutashekhara Rasa in Ayurvedic Treatment** (2024): Review documented that Sutashekhara Rasa has shown efficacy in managing functional dyspepsia and hyperacidity, with traditional acid-neutralizing and gastroprotective properties attributed to [Shankha Bhasma](/nighantu/herb/shankha-bhasma/) and other cooling ingredients. Called for more robust clinical trials.
-- **Pilot study on Sutshekhar Ras in functional dyspepsia (J Ayurveda Integr Med)** (2019): 68% of patients with functional dyspepsia experienced symptom relief within two weeks of treatment, suggesting rapid onset of action for acid-related symptoms.
+
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

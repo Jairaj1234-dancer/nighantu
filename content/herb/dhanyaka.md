@@ -16,7 +16,7 @@ aliases: ["Coriandrum sativum L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 669
+words: 640
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhanyaka/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhanyaka/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Phytochemistry, Pharmacological Attributes, and Clinical Evaluations of Coriandrum sativum: A Comprehensive Review** (2025): Comprehensive review documenting antimicrobial, anti-inflammatory, [hepatoprotective](/nighantu/reference/hepatoprotective/), nematicidal, [cardioprotective](/nighantu/reference/cardioprotective/), antiulcer, [antidiabetic](/nighantu/reference/antidiabetic/), [antioxidant](/nighantu/reference/antioxidant/), neuroprotective, anti-leishmaniasis, and anti-infertility properties.
-- **[Coriander](/nighantu/herb/coriander/): A holistic outlook on its chemistry and pharmacology** (2024): Holistic review documenting the full phytochemical spectrum including essential oils, flavonoids, phenolic compounds, and fatty acids, with emphasis on pharmacological mechanisms and drug delivery advancements.
-- **A comprehensive review of supernatural [coriander](/nighantu/herb/coriander/) herb: phytochemical insights, pharmacological potential and future perspective** (2025): Updated review exploring [coriander](/nighantu/herb/coriander/)'s rich phytochemical profile and its potential in modern drug development, with focus on novel delivery systems for enhanced bioavailability.
+- Chaurasia PK, Bharati SL 2025. [Coriander: A holistic outlook on its chemistry and pharmacology](https://pubmed.ncbi.nlm.nih.gov/39719783/). *Food chemistry*. PMID [39719783](https://pubmed.ncbi.nlm.nih.gov/39719783/) · [doi:10.1016/j.foodchem.2024.142444](https://doi.org/10.1016/j.foodchem.2024.142444)  
+  Holistic review documenting the full phytochemical spectrum including essential oils, flavonoids, phenolic compounds, and fatty acids, with emphasis on pharmacological mechanisms and drug delivery advancements.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

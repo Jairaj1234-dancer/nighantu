@@ -16,7 +16,7 @@ aliases: ["Nigella sativa L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 682
+words: 655
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kalajaji/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kalajaji/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **An updated review on the phytochemistry and pharmacological activity of black [cumin](/nighantu/herb/cumin/) (Nigella sativa L.)** (2025): Exhaustive database retrieval (1956-2025) documenting phytochemical constituents, traditional medicinal applications, pharmacological research, toxicity, and nanobiotechnology applications of Black [Cumin](/nighantu/herb/cumin/)|black cumin.
-- **Nigella sativa: A Comprehensive Review of Its Therapeutic Potential, Pharmacological Properties, and Clinical Applications** (2024): Systematic evaluation confirming [antioxidant](/nighantu/reference/antioxidant/), anti-inflammatory, antibacterial, antifungal, antiviral, anticancer, antidiabetic, [neuroprotective](/nighantu/reference/neuroprotective/), and gastroprotective effects with 51 clinical trials identified on ClinicalTrials.gov.
-- **Black [Cumin](/nighantu/herb/cumin/)|Black Cumin Seed (Nigella sativa) Confers Anti-Adipogenic Effects in 3T3-L1 Cellular Model and Lipid-Lowering Properties in Human Subjects** (2025): Clinical evidence confirming anti-adipogenic effects in cell models and lipid-lowering properties in human subjects, supporting anti-obesity and cardiometabolic applications.
+- Alberts A, Moldoveanu ET, Niculescu AG and others 2024. [Nigella sativa: A Comprehensive Review of Its Therapeutic Potential, Pharmacological Properties, and Clinical Applications](https://pubmed.ncbi.nlm.nih.gov/39769174/). *International journal of molecular sciences*. PMID [39769174](https://pubmed.ncbi.nlm.nih.gov/39769174/) · [doi:10.3390/ijms252413410](https://doi.org/10.3390/ijms252413410)  
+  Systematic evaluation confirming [antioxidant](/nighantu/reference/antioxidant/), anti-inflammatory, antibacterial, antifungal, antiviral, anticancer, antidiabetic, [neuroprotective](/nighantu/reference/neuroprotective/), and gastroprotective effects with 51 clinical trials identified on ClinicalTrials.gov.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

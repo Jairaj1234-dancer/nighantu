@@ -16,7 +16,7 @@ aliases: ["Asparagus racemosus Willd.", "Shatavari Ksheera", "ShatavariKsheera"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 582
+words: 616
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shatavari-Ksheera/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shatavari-Ksheera/meta-analys
 
 ## What do recent clinical trials show?
 
-- **[Shatavari](/nighantu/herb/shatavari/) (Asparagus racemosus): A Promising Ally for Fertility** (2025): Systematic review evaluating effects on reproductive health; found enhancement of fertility rates and improvement of breast milk quality and quantity for postpartum care.
-- **Efficacy and Safety of [Shatavari](/nighantu/herb/shatavari/) Root Extract for Menopausal Symptoms: A Randomized, Double-blind, Three-arm, Placebo-controlled Study** (2025): RCT demonstrated significant reduction in menopausal symptoms (hot flushes, sleep disturbance, mood changes) with good safety profile; only mild adverse events reported.
-- **Modulation of Various Pharmacological Pathways by Asparagus Saponins: Special Emphasis on [Shatavarin-IV](/nighantu/glossary/compounds-q-t/#shatavarin-iv)** (2026): Shatavarin IV showed potent [antioxidant](/nighantu/reference/antioxidant/), [anticancer](/nighantu/reference/anticancer/), anti-inflammatory, [cardioprotective](/nighantu/reference/cardioprotective/), immunomodulatory, [neuroprotective](/nighantu/reference/neuroprotective/), antibacterial, [antidiabetic](/nighantu/reference/antidiabetic/), and [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive) properties through multi-pathway modulation.
+- Oyovwi MO, Chijiokwu EA, Ben-Azu B and others 2025. [Shatavari (Asparagus racemosus): A Promising Ally for Fertility](https://pubmed.ncbi.nlm.nih.gov/40974515/). *Current nutrition reports*. PMID [40974515](https://pubmed.ncbi.nlm.nih.gov/40974515/) · [doi:10.1007/s13668-025-00694-5](https://doi.org/10.1007/s13668-025-00694-5)  
+  Systematic review evaluating effects on reproductive health; found enhancement of fertility rates and improvement of breast milk quality and quantity for postpartum care.
+- Ademola J, Ajgaonkar A, Debnath T and others 2025. [Efficacy and safety of Shatavari root extract (Asparagus racemosus) for menopausal symptoms: a randomized, double-blind, three-arm, placebo-controlled study](https://pubmed.ncbi.nlm.nih.gov/41394012/). *Frontiers in reproductive health*. PMID [41394012](https://pubmed.ncbi.nlm.nih.gov/41394012/) · [doi:10.3389/frph.2025.1654503](https://doi.org/10.3389/frph.2025.1654503)  
+  RCT demonstrated significant reduction in menopausal symptoms (hot flushes, sleep disturbance, mood changes) with good safety profile; only mild adverse events reported.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

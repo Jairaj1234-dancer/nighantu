@@ -16,7 +16,7 @@ aliases: ["Phoenix dactylifera L."]
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 629
+words: 681
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kharjura/meta-analysis.md"
 ---
 ## Names and identification
@@ -55,9 +55,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kharjura/meta-analysis.m
 
 ## What do recent clinical trials show?
 
-- **Phytotherapeutic potential and pharmaceutical impact of Phoenix dactylifera (date palm): current research and future prospects** (2024): Comprehensive review confirmed [analgesic](/nighantu/reference/analgesic/), anti-inflammatory, hepatoprotective, [anticancer](/nighantu/reference/anticancer/), antioxidant, anti-proliferative, antifungal and antibacterial activities with identification of key polyphenolic and saponin fractions.
-- **Phytopharmacological Review on Date Palm (Phoenix dactylifera)** (2023): Documented [antidiabetic](/nighantu/reference/antidiabetic/) activity attributed to saponins, phenols, [steroids](/nighantu/glossary/compounds-q-t/#steroids) and flavonoids; fruit extracts showed significant amelioration of diabetic nephropathy markers in STZ-induced diabetic rats.
-- **Medicinal Properties of Phoenix dactylifera L: A Review** (2024): Date palm pollen extract demonstrated significant fertility-enhancing effects in male rats with increased sperm count, motility and testosterone levels, validating traditional aphrodisiac use.
+- Qadir A, Shakeel F, Ali A and others 2020. [Phytotherapeutic potential and pharmaceutical impact of Phoenix dactylifera (date palm): current research and future prospects](https://pubmed.ncbi.nlm.nih.gov/32180616/). *Journal of food science and technology*. PMID [32180616](https://pubmed.ncbi.nlm.nih.gov/32180616/) · [doi:10.1007/s13197-019-04096-8](https://doi.org/10.1007/s13197-019-04096-8)  
+  Comprehensive review confirmed [analgesic](/nighantu/reference/analgesic/), anti-inflammatory, hepatoprotective, [anticancer](/nighantu/reference/anticancer/), antioxidant, anti-proliferative, antifungal and antibacterial activities with identification of key polyphenolic and saponin fractions.
+- Mahomoodally MF, Khadaroo SK, Hosenally M and others 2024. [Nutritional, medicinal and functional properties of different parts of the date palm and its fruit (Phoenix dactylifera L.) - A systematic review](https://pubmed.ncbi.nlm.nih.gov/37070182/). *Critical reviews in food science and nutrition*. PMID [37070182](https://pubmed.ncbi.nlm.nih.gov/37070182/) · [doi:10.1080/10408398.2023.2191285](https://doi.org/10.1080/10408398.2023.2191285)  
+  Date palm pollen extract demonstrated significant fertility-enhancing effects in male rats with increased sperm count, motility and testosterone levels, validating traditional aphrodisiac use.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

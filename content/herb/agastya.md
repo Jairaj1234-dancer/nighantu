@@ -16,7 +16,7 @@ aliases: ["Sesbania grandiflora (L.) Pers."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 467
+words: 526
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agastya/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agastya/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Phenolic Composition, Antioxidant and Anti-fibrotic Effects of Sesbania grandiflora** (2022): Aqueous ethanol extract of leaves demonstrated significant antioxidant and anti-fibrotic capacity, with leaves showing greater activity than flowers.
-- **Distribution, Phytochemical Insights, and Cytotoxic Potential of the Sesbania Genus** (2025): Comprehensive review revealing activation of caspase cascades and induction of apoptosis in cancer cells, attributed to flavonoids and alkaloids.
-- **Chemical Components of Sesbania grandiflora Root and Their Antituberculosis Activity** (2013): Isoflavanoids (isovestitol, medicarpin, sativan) and betulinic acid exhibited antituberculosis activity against M. tuberculosis H37Rv with MIC values of 50-100 mcg/mL.
+- Arthanari S, Periyasamy P 2020. [Phenolic composition, antioxidant and anti-fibrotic effects of Sesbania grandiflora L. (Agastya) - An edible medicinal plant](https://pubmed.ncbi.nlm.nih.gov/35813364/). *Ayu*. PMID [35813364](https://pubmed.ncbi.nlm.nih.gov/35813364/) · [doi:10.4103/ayu.AYU_198_19](https://doi.org/10.4103/ayu.AYU_198_19)  
+  Aqueous ethanol extract of leaves demonstrated significant antioxidant and anti-fibrotic capacity, with leaves showing greater activity than flowers.
+- Mokhtar FA, Ahmed M, Al Dhanhani AS and others 2025. [Distribution, Phytochemical Insights, and Cytotoxic Potential of the Sesbania Genus: A Comprehensive Review of Sesbania grandiflora, Sesbania sesban, and Sesbania cannabina](https://pubmed.ncbi.nlm.nih.gov/39861127/). *Pharmaceuticals (Basel, Switzerland)*. PMID [39861127](https://pubmed.ncbi.nlm.nih.gov/39861127/) · [doi:10.3390/ph18010064](https://doi.org/10.3390/ph18010064)  
+  Comprehensive review revealing activation of caspase cascades and induction of apoptosis in cancer cells, attributed to flavonoids and alkaloids.
+- Hasan N, Osman H, Mohamad S and others 2012. [The Chemical Components of Sesbania grandiflora Root and Their Antituberculosis Activity](https://pubmed.ncbi.nlm.nih.gov/24280680/). *Pharmaceuticals (Basel, Switzerland)*. PMID [24280680](https://pubmed.ncbi.nlm.nih.gov/24280680/) · [doi:10.3390/ph5080882](https://doi.org/10.3390/ph5080882)  
+  Isoflavanoids (isovestitol, medicarpin, sativan) and betulinic acid exhibited antituberculosis activity against M. tuberculosis H37Rv with MIC values of 50-100 mcg/mL.
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: ["Sphaeranthus indicus L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 601
+words: 637
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gorakhmundi/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gorakhmundi/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Anti-obesity Effects of Sphaeranthus indicus: Systematic Review of Clinical and Animal Studies** (2025): Systematic review found significant reductions in body weight (2-5 kg over 8-12 weeks), BMI, body fat percentage, and improved lipid parameters with minimal adverse events.
-- **The Herbal Blend of Sphaeranthus indicus and Garcinia mangostana Reduces Adiposity in High-Fat Diet Obese Mice** (2024): Meratrim (450 mg/kg) significantly reduced body weight and fat mass without affecting food consumption in C57BL/6NTac mice on high-fat diet.
-- **Safety and Toxicological Evaluation of Meratrim: An Herbal Formulation for Weight Management** (2015): LD50 > 5000 mg/kg (acute oral) and > 2000 mg/kg (dermal); non-mutagenic in genotoxicity studies; confirmed safe for weight management applications.
+- Kang S, Kim H, Bang C and others 2024. [The Herbal Blend of Sphaeranthus indicus and Garcinia mangostana Reduces Adiposity in High-Fat Diet Obese Mice](https://pubmed.ncbi.nlm.nih.gov/39335940/). *Foods (Basel, Switzerland)*. PMID [39335940](https://pubmed.ncbi.nlm.nih.gov/39335940/) · [doi:10.3390/foods13183013](https://doi.org/10.3390/foods13183013)  
+  Meratrim (450 mg/kg) significantly reduced body weight and fat mass without affecting food consumption in C57BL/6NTac mice on high-fat diet.
+- Saiyed ZM, Sengupta K, Krishnaraju AV and others 2015. [Safety and toxicological evaluation of Meratrim®: an herbal formulation for weight management](https://pubmed.ncbi.nlm.nih.gov/25680508/). *Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association*. PMID [25680508](https://pubmed.ncbi.nlm.nih.gov/25680508/) · [doi:10.1016/j.fct.2015.02.010](https://doi.org/10.1016/j.fct.2015.02.010)  
+  LD50 > 5000 mg/kg (acute oral) and > 2000 mg/kg (dermal); non-mutagenic in genotoxicity studies; confirmed safe for weight management applications.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Rasa-Shastra-Alchemical-Preparations"
 group: "Makaradhwaj-Vati"
-answer: "Makaradhwaj Vati is a substance used in the Ayurvedic materia medica. Usual dose: 30–60 mg twice daily (potent — precise dosing). NOAEL was established at 27 mg/kg and NOEL at 13.5 mg/kg."
+answer: "Makaradhwaj Vati is a substance used in the Ayurvedic materia medica. Usual dose: 30–60 mg twice daily (potent — precise dosing). [Ninety days repeated dose oral toxicity study of Makaradhwaja in Wistar rats](https://pubmed.ncbi.nlm.nih.gov/30254400/)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Makaradhwaj Vati", "MakaradhwajVati"]
 tags: ["ayurveda", "rasa-shastra", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 572
+words: 596
 srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Makaradhwaj-Vati/meta-analysis.md"
 ---
 ## Names and identification
@@ -38,9 +38,12 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Makaradhwaj-Vati/m
 
 ## What do recent clinical trials show?
 
-- **Ninety days repeated dose oral toxicity study of Makaradhwaja in Wistar rats** (2017): At doses of 2.7, 13.5, and 27 mg/kg/day for 90 days, no treatment-related changes were observed in body weight, feed consumption, biochemical parameters, or histopathology. NOAEL was established at 27 mg/kg and NOEL at 13.5 mg/kg. The Ayurvedic preparation method alters physicochemical properties of raw mercury rendering it significantly less harmful.
-- **Safety evaluation of mercury based Ayurvedic formulation (Sidh Makardhwaj) on brain cerebrum, liver & kidney in rats** (2014): Up to five times the equivalent human dose administered for 28 days did not show any toxicological effects on rat brain cerebrum, liver, and kidney despite per-day ingested mercury being many-fold higher than EPA reference dose. The Shodhana process may modify metal properties abolishing toxicity while retaining pharmacological activity.
-- **Pharmacological and toxicological insights into the ayurvedic formulation Rasasindura** (2025): Purified mercury preparations (HgS-based) are safe at therapeutic concentrations; microarray studies revealed potential anti-inflammatory, anti-obesity, anti-diabetic, anti-cancer, and immunomodulatory activities. Higher concentrations cause primarily neurological toxic effects.
+- Jamadagni S, Jamadagni PS, Singh RK and others 2017. [Ninety days repeated dose oral toxicity study of Makaradhwaja in Wistar rats](https://pubmed.ncbi.nlm.nih.gov/30254400/). *Ayu*. PMID [30254400](https://pubmed.ncbi.nlm.nih.gov/30254400/) · [doi:10.4103/ayu.AYU_33_17](https://doi.org/10.4103/ayu.AYU_33_17)  
+  At doses of 2.7, 13.5, and 27 mg/kg/day for 90 days, no treatment-related changes were observed in body weight, feed consumption, biochemical parameters, or histopathology. NOAEL was established at 27 mg/kg and NOEL at 13.5 mg/kg. The Ayurvedic preparation method alters physicochemical properties of raw mercury rendering it significantly less harmful.
+- Kumar G, Srivastava A, Sharma SK and others 2014. [Safety evaluation of mercury based Ayurvedic formulation (Sidh Makardhwaj) on brain cerebrum, liver & kidney in rats](https://pubmed.ncbi.nlm.nih.gov/24927349/). *The Indian journal of medical research*. PMID [24927349](https://pubmed.ncbi.nlm.nih.gov/24927349/)  
+  Up to five times the equivalent human dose administered for 28 days did not show any toxicological effects on rat brain cerebrum, liver, and kidney despite per-day ingested mercury being many-fold higher than EPA reference dose. The Shodhana process may modify metal properties abolishing toxicity while retaining pharmacological activity.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

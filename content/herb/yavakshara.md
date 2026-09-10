@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Salts-Minerals-Metals"
 group: "Yavakshara"
-answer: "Yavakshara is a substance used in the Ayurvedic materia medica. Usual dose: 0.5–2 g with warm water or buttermilk. Yavakshara: Powerful Alkali Preparation for Digestive and Urinary Health (2024): Comprehensive review confirmed Yavakshara's antacid mechanism: alkaline salts buffer excess HCl in stomach, while Ushna virya promotes digestive enzyme activity to improve Ama (toxin) breakdown."
+answer: "Yavakshara is a substance used in the Ayurvedic materia medica. Usual dose: 0.5–2 g with warm water or buttermilk. An absence here means we could not identify the source, not that no work exists."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "mineral", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 477
+words: 401
 srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Yavakshara/meta-analysis.md"
 ---
 ## Names and identification
@@ -50,9 +50,9 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Yavakshara/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Anti-urolithiatic and [Antioxidant](/nighantu/reference/antioxidant/) Activity of Barley (Hordeum vulgare) Seeds** (2023): Clinical study on Wistar albino rats confirmed antiurolithiatic and antioxidant activity of barley seed preparations; potassium carbonate alkalinity helps dissolve calcium oxalate crystals in urinary system.
-- **Yavakshara: Powerful Alkali Preparation for Digestive and Urinary Health** (2024): Comprehensive review confirmed Yavakshara's antacid mechanism: alkaline salts buffer excess HCl in stomach, while Ushna virya promotes digestive enzyme activity to improve Ama (toxin) breakdown.
-- **Kshara Preparations in Ayurveda: Physicochemical Analysis and Therapeutic Review** (2023): Standardized analysis showed Yavakshara pH 10-11, demonstrating strong alkaline buffering capacity; in vitro dissolution of uric acid and calcium oxalate crystals confirmed at therapeutic concentrations.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

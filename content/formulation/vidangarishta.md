@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 471
+words: 432
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Vidangarishta/meta-analysis.md"
 ---
 ## Names and identification
@@ -63,9 +63,9 @@ Sharangadharasamhita Madhyamakhanda. Also referenced in Bhavaprakasha Nighantu (
 
 ## What do recent clinical trials show?
 
-- **In vitro anthelmintic efficacy of embelin against roundworms and tapeworms** (2017): Published in International Journal of Ayurveda Research: embelin showed significant efficacy against roundworms and tapeworms in in vitro models.
-- **Clinical pilot trial of Vidangarishta for intestinal parasites** (2019): Pilot trial (n=45) at Mumbai Ayurvedic hospital: 78% reduction in worm load after 14 days, compared to 85% with standard albendazole.
-- **Antibacterial and antiparasitic profiling of Vidangarishta** (2020): Comprehensive screening confirmed broad-spectrum antibacterial and antiparasitic activity of the fermented formulation against multiple enteric pathogens.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

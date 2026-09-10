@@ -16,7 +16,7 @@ aliases: ["Garcinia pedunculata Roxb. ex Buch.-Ham. (primary); Rheum emodi Wall.
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 581
+words: 618
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Amlavetasa/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Amlavetasa/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Chromones and biflavonoids from Garcinia pedunculata and Garcinia nujiangensis** (2024): Isolated four new compounds (garpedunchromones A-C and nujiangbiflavone A) along with 15 known analogs; demonstrated significant anti-inflammatory activity of isolated compounds.
-- **The phytochemistry and pharmacology of three Rheum species: A comprehensive review with future perspectives** (2024): Comprehensive review on Rheum emodi documenting new compound isolation from both aerial parts and roots/rhizomes; highlighted anthraquinones and [stilbenes](/nighantu/glossary/compounds-q-t/#stilbenes) as key bioactive classes.
-- **Medicinal and antioxidant activity of Garcinia pedunculata: a valuable underutilized fruit of Assam** (2023): Documented potent antioxidant activity along with antibacterial, antifungal, [antidiabetic](/nighantu/reference/antidiabetic/), hepatoprotective, and [neuroprotective](/nighantu/reference/neuroprotective/) properties of this underutilized fruit species.
+- Fan X, Guo J, Feng D and others 2024. [Chromones and biflavonoids from Garcinia pedunculata and Garcinia nujiangensis and their anti-inflammatory activity](https://pubmed.ncbi.nlm.nih.gov/38810815/). *Phytochemistry*. PMID [38810815](https://pubmed.ncbi.nlm.nih.gov/38810815/) · [doi:10.1016/j.phytochem.2024.114166](https://doi.org/10.1016/j.phytochem.2024.114166)  
+  Isolated four new compounds (garpedunchromones A-C and nujiangbiflavone A) along with 15 known analogs; demonstrated significant anti-inflammatory activity of isolated compounds.
+- Yang X, Dai L, Yan F and others 2024. [The phytochemistry and pharmacology of three Rheum species: A comprehensive review with future perspectives](https://pubmed.ncbi.nlm.nih.gov/38852474/). *Phytomedicine : international journal of phytotherapy and phytopharmacology*. PMID [38852474](https://pubmed.ncbi.nlm.nih.gov/38852474/) · [doi:10.1016/j.phymed.2024.155772](https://doi.org/10.1016/j.phymed.2024.155772)  
+  Comprehensive review on Rheum emodi documenting new compound isolation from both aerial parts and roots/rhizomes; highlighted anthraquinones and [stilbenes](/nighantu/glossary/compounds-q-t/#stilbenes) as key bioactive classes.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

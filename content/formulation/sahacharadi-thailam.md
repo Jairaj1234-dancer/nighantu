@@ -16,7 +16,7 @@ aliases: ["Sahacharadi Thailam", "SahacharadiThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 549
+words: 485
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Sahacharadi-Thailam/meta-analysis.md"
 ---
 ## Names and identification
@@ -56,9 +56,9 @@ Sahasrayogam (Taila Prakarana); also referenced in Ashtanga Hridayam. A signatur
 
 ## What do recent clinical trials show?
 
-- **Pilot study on [Sahacharadi Thailam](/nighantu/formulation/sahacharadi-thailam/) in osteoarthritis management** (2018): Published in Journal of Ayurveda & Integrative Medicine, the study showed a 30% reduction in WOMAC pain scores after eight weeks of nightly massage for osteoarthritis patients.
-- **Phytochemical analysis of Sahachara (Strobilanthes ciliata) anti-inflammatory activity** (2020): Catechins, tannins, and epicatechol from Sahachara bark were confirmed to deliver astringent and anti-inflammatory effects by inhibiting prostaglandin synthesis pathways.
-- **Evaluation of [Sahacharadi Thailam](/nighantu/formulation/sahacharadi-thailam/) in sciatica (Gridhrasi) management** (2019): Clinical study with 40 patients demonstrated significant reduction in sciatic nerve pain, improvement in straight leg raising test, and reduced disability scores after Kati Basti with [Sahacharadi Thailam](/nighantu/formulation/sahacharadi-thailam/) over 14 sessions.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

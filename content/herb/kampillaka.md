@@ -16,7 +16,7 @@ aliases: ["Mallotus philippensis (Lam.) Mull. Arg."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 519
+words: 464
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kampillaka/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kampillaka/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Pharmacokinetic Assessment of Rottlerin from Mallotus philippensis Using LC-MS/MS Bioanalytical Method** (2021): Rottlerin displayed excellent half-life (>2 hours) and oral bioavailability (>35%), superior to other natural phenolics; validated sensitive bioanalytical method (LLOQ: 1.9 ng/mL).
-- **In-vitro Anti-inflammatory Potential of Standardized Rottlerin Enriched Fraction** (2023): Rottlerin-enriched fraction (70% rottlerin) showed superior COX-1 and COX-2 inhibition compared to reference drugs etoricoxib and ibuprofen.
-- **Cytotoxicity of Rottlerin Against Human Cancer Cell Lines** (2011): Isolated rottlerin demonstrated significant in vitro cytotoxicity against multiple human cancer cell lines through apoptosis induction.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

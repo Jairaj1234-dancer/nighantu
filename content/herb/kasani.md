@@ -16,7 +16,7 @@ aliases: ["Cichorium intybus L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 583
+words: 561
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kasani/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kasani/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Biological and Pharmacological Activities, Phytochemical Profile, and Ecological Sustainability of Cichorium intybus: An Account of Knowledge Gaps and Existing Approaches** (2025): Comprehensive review documenting photoprotective, hepatoprotective, antidiabetic, lipid-lowering, [antioxidant](/nighantu/reference/antioxidant/), anti-inflammatory, antifungal, and [antitumor](/nighantu/glossary/pharmacology/#antitumor) activities.
-- **Chemical Constituents and Their Pharmacological Activities of Plants from Cichorium Genus** (2020): Identified over 100 individual compounds from the plant; majority from roots; documented sesquiterpene lactones as key bioactive anti-inflammatory and [anticancer](/nighantu/reference/anticancer/) agents.
-- **Kasani beej (Cichorium intybus): Ayurvedic View, Folk View, Phytochemistry and Modern Therapeutic Uses** (2021): Integrated Ayurvedic and modern pharmacological evidence for hepatoprotective, antidiabetic, and digestive uses; confirmed inulin as major prebiotic constituent.
+- Aisa HA, Xin XL, Tang D 2020. [Chemical constituents and their pharmacological activities of plants from Cichorium genus](https://pubmed.ncbi.nlm.nih.gov/36119016/). *Chinese herbal medicines*. PMID [36119016](https://pubmed.ncbi.nlm.nih.gov/36119016/) · [doi:10.1016/j.chmed.2020.05.001](https://doi.org/10.1016/j.chmed.2020.05.001)  
+  Identified over 100 individual compounds from the plant; majority from roots; documented sesquiterpene lactones as key bioactive anti-inflammatory and [anticancer](/nighantu/reference/anticancer/) agents.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

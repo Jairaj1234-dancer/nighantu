@@ -16,7 +16,7 @@ aliases: ["Pippali Khanda", "PippaliKhanda"]
 tags: ["ayurveda", "formulation", "leham", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 447
+words: 416
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Pippali-Khanda/meta-analysis.md"
 ---
 ## Names and identification
@@ -58,9 +58,9 @@ Charaka Samhita (earliest mention as Pippalimula, circa 100 BCE); Sushruta Samhi
 
 ## What do recent clinical trials show?
 
-- **Piperine bioavailability enhancement and respiratory pharmacology** (2023): Research on isolated tracheal tissue showed 25% decrease in spasm index upon exposure to [Pippali](/nighantu/herb/pippali/) extract, supporting classical bronchodilatory claims
-- **Piper longum fruit - comprehensive pharmacological review** (2022): Piperine demonstrated [immunomodulatory](/nighantu/reference/immunomodulatory/), anti-inflammatory, bronchodilatory, and bioavailability-enhancing properties through multiple validated mechanisms
-- **[Pippali](/nighantu/herb/pippali/) Rasayana rejuvenative and respiratory effects: clinical observations** (2021): Classical Vardhamana [Pippali](/nighantu/herb/pippali/) protocol showed improvement in respiratory resilience, digestive strength, and overall vitality in observational clinical setting
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

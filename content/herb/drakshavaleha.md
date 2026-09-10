@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 712
+words: 695
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Drakshavaleha/meta-analysis.md"
 ---
 ## Names and identification
@@ -59,9 +59,10 @@ Ashtanga Hridaya Chikitsasthana 16/29-31 (Pandu Roga / anemia chapter); referenc
 
 ## What do recent clinical trials show?
 
-- **A Clinical Study of [Draksha](/nighantu/herb/draksha/) Gritha in the Management of Anaemia in Pregnancy (Garbhini Pandu)** (2020): [Draksha](/nighantu/herb/draksha/)-based formulation showed statistically highly significant results (p<0.001) in managing anemia in pregnancy with improvement in hemoglobin levels
-- **Effect of Drakshavaleha in cyclophosphamide induced weight loss and reduction in crown-rump length in developing mice embryo** (2013): Oral administration of Drakshavaleha to pregnant mice minimized cyclophosphamide-induced body weight loss with statistically significant recovery (P<0.001)
-- **Drakshavaleha and Punarnavadi Mandura in iron deficiency anemia: mechanism review** (2021): Combined [immunomodulatory](/nighantu/reference/immunomodulatory/), [antioxidant](/nighantu/reference/antioxidant/), and bioavailability-enhancing activities of ingredients act collectively against Pandu Roga symptomatology
+- Kumar S, Singh G, Reddy KR 2013. [Effect of Drakshavaleha in cyclophosphamide induced weight loss and reduction in crown-rump length in developing mice embryo](https://pubmed.ncbi.nlm.nih.gov/24250134/). *Ayu*. PMID [24250134](https://pubmed.ncbi.nlm.nih.gov/24250134/) · [doi:10.4103/0974-8520.119686](https://doi.org/10.4103/0974-8520.119686)  
+  Oral administration of Drakshavaleha to pregnant mice minimized cyclophosphamide-induced body weight loss with statistically significant recovery (P<0.001)
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

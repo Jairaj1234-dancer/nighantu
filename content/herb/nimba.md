@@ -16,7 +16,7 @@ aliases: ["Azadirachta indica A. Juss."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 684
+words: 700
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nimba/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nimba/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **[Neem](/nighantu/herb/neem/) in Dermatology: Shedding Light on the Traditional Panacea** (2022): Comprehensive dermatology review confirmed [neem](/nighantu/herb/neem/)'s efficacy in treating acne, eczema, psoriasis, warts, and fungal infections through anti-inflammatory, antimicrobial, and antioxidant mechanisms, while noting the need for more rigorous clinical trials.
-- **Effectiveness of [Neem](/nighantu/herb/neem/) Face Wash for Acne Prevention and Treatment** (2024): Clinical study of 120 participants using Purifying [Neem](/nighantu/herb/neem/) Face Wash showed 79% demonstrated decrease in inflammatory acne lesions and 72% showed decrease in non-inflammatory acne lesions.
-- **Effect of Neem Leaf Paste Application on Dandruff** (2025): Clinical study demonstrated neem leaf paste application significantly reduced dandruff symptoms, validating traditional antifungal use for scalp conditions caused by Malassezia species.
+- Gopinath H, Karthikeyan K 2021. [Neem in Dermatology: Shedding Light on the Traditional Panacea](https://pubmed.ncbi.nlm.nih.gov/35283494/). *Indian journal of dermatology*. PMID [35283494](https://pubmed.ncbi.nlm.nih.gov/35283494/) · [doi:10.4103/ijd.ijd_562_21](https://doi.org/10.4103/ijd.ijd_562_21)  
+  Comprehensive dermatology review confirmed [neem](/nighantu/herb/neem/)'s efficacy in treating acne, eczema, psoriasis, warts, and fungal infections through anti-inflammatory, antimicrobial, and antioxidant mechanisms, while noting the need for more rigorous clinical trials.
+- Dani PB, Ghorpade VK 2025. [Effect of Neem Leaf Paste Application on Dandruff](https://pubmed.ncbi.nlm.nih.gov/40242687/). *Cureus*. PMID [40242687](https://pubmed.ncbi.nlm.nih.gov/40242687/) · [doi:10.7759/cureus.80685](https://doi.org/10.7759/cureus.80685)  
+  Clinical study demonstrated neem leaf paste application significantly reduced dandruff symptoms, validating traditional antifungal use for scalp conditions caused by Malassezia species.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

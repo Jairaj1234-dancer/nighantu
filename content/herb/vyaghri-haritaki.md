@@ -16,7 +16,7 @@ aliases: ["Polyherbal formulation: Solanum surattense Burm.f. (Kantakari/Vyaghri
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 683
+words: 606
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vyaghri-Haritaki/meta-analysis.md"
 ---
 ## Names and identification
@@ -52,9 +52,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vyaghri-Haritaki/meta-analysi
 
 ## What do recent clinical trials show?
 
-- **Review of Evidence Based Study on [Vyaghri Haritaki](/nighantu/herb/vyaghri-haritaki/) Avaleha with Special Reference to Certain Respiratory Disorders** (2021): Reviewed evidence for use in respiratory disorders, confirming antitussive and bronchodilatory activities of Kantakari and Haritaki with positive effects on airway dilation and immune modulation.
-- **A Meticulous Appraisal of [Vyaghri Haritaki](/nighantu/herb/vyaghri-haritaki/) Avaleha: An Ayurvedic Medicament with reference to Stability Study** (2022): Comprehensive pharmaceutical assessment including stability study confirmed formulation integrity and shelf-life, establishing quality control parameters for commercial production.
-- **Comparative pharmacognostical and pharmaceutical evaluation of [Vyaghri haritaki](/nighantu/herb/vyaghri-haritaki/) avaleha** (2021): Comparative analysis of formulations from different manufacturers established pharmacognostic standards and identified key quality markers for authentication.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

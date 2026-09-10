@@ -16,7 +16,7 @@ aliases: ["Vasa Avaleha", "VasaAvaleha"]
 tags: ["ayurveda", "formulation", "leham", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 477
+words: 390
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Vasa-Avaleha/meta-analysis.md"
 ---
 ## Names and identification
@@ -54,9 +54,9 @@ Charaka Samhita (2500 BCE/1000 BCE); Sushruta Samhita (500 BCE); various Nighant
 
 ## What do recent clinical trials show?
 
-- **Efficacy of [Vasa](/nighantu/herb/vasa/) Avaleha and its granules on Tamaka Shwasa (bronchial asthma): Open-label randomized clinical study** (2016): 66 patients treated with 6g twice daily for 28 days showed significant improvement in asthma symptoms, increased peak expiratory flow rate, decreased eosinophil count, and reduced need for modern emergency drugs
-- **Clinical Efficacy and Safety of Vasavaleha in the Management of Stable Chronic Bronchitis: A Prospective Open Label Multicenter Study** (2018): Vasavaleha significantly improved all clinical symptoms and lung function test results with mucolytic, bronchodilator, and anti-allergic properties and no adverse effects
-- **Conversion of a Semisolid Ayurvedic Preparation (Vasavaleha) to an Oral Solution form and Evaluation of its Clinical Effects on Bronchial Asthma** (2023): Novel syrup formulation of Vasavaleha maintained clinical efficacy for bronchial asthma while improving patient compliance and ease of administration
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

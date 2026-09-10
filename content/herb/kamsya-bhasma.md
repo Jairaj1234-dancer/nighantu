@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Bhasmas"
-answer: "Kamsya Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg. Confirmed that Kamsya formulations are beneficial in Krimi (worm infestations) and Kushta (skin diseases). Therapeutic potentials of metals in ancient India: A review through Charaka Samhita (2011): Historical review confirmed bronze's use since Charaka period for therapeutic instruments and preparations."
+answer: "Kamsya Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg. An absence here means we could not identify the source, not that no work exists. Most evidence is traditional/empirical."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Kamsya Bhasma", "KamsyaBhasma"]
 tags: ["ayurveda", "bhasma", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 441
+words: 366
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kamsya-Bhasma/meta-analysis.md"
 ---
 ## Names and identification
@@ -48,9 +48,9 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kamsya-Bhasma/meta-a
 
 ## What do recent clinical trials show?
 
-- **A Brief Review of Kamsya (Bronze) Through Ayurvedic Literature** (2023): Comprehensive literature review documented traditional uses, preparation methods, and pharmacological properties. Confirmed that Kamsya formulations are beneficial in Krimi (worm infestations) and Kushta (skin diseases).
-- **Therapeutic potentials of metals in ancient India: A review through Charaka Samhita** (2011): Historical review confirmed bronze's use since Charaka period for therapeutic instruments and preparations. Cooling properties of Kansa utilized in eye treatments and Pitta-reducing formulations.
-- **Exploring the Potential of Ayurvedic Bhasmas as nanomedicine** (2023): Bhasma nano-particles (1-2 microns) in [Kamsya Bhasma](/nighantu/herb/kamsya-bhasma/) aid biological systems in assimilation and absorption. The nano-particulate form is considered harmless at therapeutic levels.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

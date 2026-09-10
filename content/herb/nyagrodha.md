@@ -16,7 +16,7 @@ aliases: ["Ficus benghalensis L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 596
+words: 571
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nyagrodha/meta-analysis.md"
 ---
 ## Names and identification
@@ -57,9 +57,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nyagrodha/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Phytochemistry, Pharmacological Properties, and Recent Applications of Ficus benghalensis and Ficus religiosa** (2022): Comprehensive analysis of 80+ compounds from both species confirmed antidiabetic, anti-inflammatory, hypolipidemic and immunomodulatory activities with identification of leucocyanidin as a key bioactive flavonoid.
-- **Ficus benghalensis L. (Moraceae): A review on ethnomedicinal uses, phytochemistry and pharmacological activities** (2023): Validated antidiabetic potential of bark extracts with significant reduction of fasting blood [glucose](/nighantu/glossary/compounds-d-g/#glucose) in STZ-induced diabetic rats, attributed to leucocyanidin and beta-sitosterol.
-- **Ficus benghalensis - comprehensive review on nanotechnological applications and patents** (2023): Green synthesis of silver and gold nanoparticles using F. benghalensis leaf extracts showed enhanced antimicrobial and [anticancer](/nighantu/reference/anticancer/) activities compared to crude extracts.
+- Murugesu S, Selamat J, Perumal V 2021. [Phytochemistry, Pharmacological Properties, and Recent Applications of Ficus benghalensis and Ficus religiosa](https://pubmed.ncbi.nlm.nih.gov/34961220/). *Plants (Basel, Switzerland)*. PMID [34961220](https://pubmed.ncbi.nlm.nih.gov/34961220/) · [doi:10.3390/plants10122749](https://doi.org/10.3390/plants10122749)  
+  Comprehensive analysis of 80+ compounds from both species confirmed antidiabetic, anti-inflammatory, hypolipidemic and immunomodulatory activities with identification of leucocyanidin as a key bioactive flavonoid.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

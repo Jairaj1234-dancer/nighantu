@@ -16,7 +16,7 @@ aliases: ["Khadiradi Vati", "KhadiradiVati"]
 tags: ["ayurveda", "formulation", "vati", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 656
+words: 605
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Khadiradi-Vati/meta-analysis.md"
 ---
 ## Names and identification
@@ -58,9 +58,9 @@ Sharangdhara Samhita (Madhyama Khanda); described in various Samhitas and classi
 
 ## What do recent clinical trials show?
 
-- **A Critical Review on [Khadiradi Vati](/nighantu/formulation/khadiradi-vati/) - An Ayurvedic Formulation** (2024): Comprehensive review documented that the formulation's flavonoids, [phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols), and [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) provide anti-inflammatory and [antioxidant](/nighantu/reference/antioxidant/) actions effective in treating tonsillitis, gingivitis, and other oral diseases.
-- **In-vitro antimicrobial activity of [Khadiradi Vati](/nighantu/formulation/khadiradi-vati/) against oral pathogens** (2020): AYU Journal research confirmed action against Streptococcus and E. coli strains, validating traditional oral antiseptic claims.
-- **Clinical trial of [Khadiradi Vati](/nighantu/formulation/khadiradi-vati/) on cough and throat conditions** (2018): Journal of Ayurveda and Integrative Medicine small clinical trial showed 65% improvement in cough scores within two weeks of treatment.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: ["Fagonia cretica L. / Fagonia arabica L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 591
+words: 626
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhamasa/meta-analysis.md"
 ---
 ## Names and identification
@@ -52,9 +52,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhamasa/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Liposomal formulation of Fagonia arabica L. enhances antithrombotic efficacy: phytochemical, pharmacological, and computational investigations** (2025): Developed liposomal nanoparticles of saponin-rich extract, enhancing bioavailability and confirming thrombolytic and anticoagulant potential through in vitro and computational molecular docking studies.
-- **Validating anti-inflammatory and cytotoxic properties of Fagonia cretica L. through metabolic, in vitro, and in silico profiling** (2024): Metabolic profiling by LC-HRMS identified 21 compounds (flavonoids, diterpenes, sterols, [triterpenes](/nighantu/glossary/compounds-t-z/#triterpenes)); demonstrated COX-1/COX-2 inhibition and cytotoxic activity against MCF-7, HepG2, and CACO2 cell lines.
-- **Fagonia cretica contains natural compounds with potent DPP-4 inhibitory activity** (2023): Identified natural DPP-4 (dipeptidyl peptidase-4) inhibitors in Fagonia cretica, suggesting potential antidiabetic applications comparable to synthetic gliptins.
+- Badawy SA, Hassan AR, Shafaa MW and others 2025. [Liposomal formulation of Fagonia arabica L. enhances antithrombotic efficacy: phytochemical, pharmacological, and computational investigations](https://pubmed.ncbi.nlm.nih.gov/41306891/). *RSC advances*. PMID [41306891](https://pubmed.ncbi.nlm.nih.gov/41306891/) · [doi:10.1039/d5ra06347g](https://doi.org/10.1039/d5ra06347g)  
+  Developed liposomal nanoparticles of saponin-rich extract, enhancing bioavailability and confirming thrombolytic and anticoagulant potential through in vitro and computational molecular docking studies.
+- Mohamed EIA, Elwekeel AH, Mohamed DEA and others 2024. [Validating anti-inflammatory and cytotoxic properties of Fagonia cretica L. through metabolic, in vitro, and in silico profiling](https://pubmed.ncbi.nlm.nih.gov/39609685/). *BMC complementary medicine and therapies*. PMID [39609685](https://pubmed.ncbi.nlm.nih.gov/39609685/) · [doi:10.1186/s12906-024-04684-y](https://doi.org/10.1186/s12906-024-04684-y)  
+  Metabolic profiling by LC-HRMS identified 21 compounds (flavonoids, diterpenes, sterols, [triterpenes](/nighantu/glossary/compounds-t-z/#triterpenes)); demonstrated COX-1/COX-2 inhibition and cytotoxic activity against MCF-7, HepG2, and CACO2 cell lines.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

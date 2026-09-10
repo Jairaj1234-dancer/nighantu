@@ -16,7 +16,7 @@ aliases: ["Leptadenia reticulata (Retz.) Wight & Arn."]
 tags: ["ayurveda", "herb", "single-herb", "rasayana-immunity", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 596
+words: 554
 srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Jivanti/meta-analysis.md"
 ---
 ## Names and identification
@@ -54,9 +54,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Jivanti/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **A comprehensive review on ayurvedic herb Leptadenia reticulata (Jeevanti): a phytochemistry and pharmacological perspective** (2024): Comprehensive review documenting diverse pharmacological activities including [antidiabetic](/nighantu/reference/antidiabetic/), [antimicrobial](/nighantu/reference/antimicrobial/), antioxidant, anti-abortifacient, [anticancer](/nighantu/reference/anticancer/), [antipyretic](/nighantu/reference/antipyretic/), [analgesic](/nighantu/reference/analgesic/), anti-inflammatory, and antiulcer properties.
-- **Unveiling the galactagogue mechanism of Leptadenia reticulata active components: in-silico molecular docking studies on dopamine, oxytocin, and thyroid hormone receptors** (2024): Molecular docking studies revealed that L. reticulata active compounds interact with dopamine D2 receptor, oxytocin receptor, and thyroid hormone receptor, providing mechanistic basis for galactagogue activity.
-- **Phytochemical comparison and evaluation of anti-inflammatory and anti-diabetic activity of three source plants of Jivanti** (2021): Comparative study of three botanical sources of Jivanti showed L. reticulata exhibited strongest anti-inflammatory and antidiabetic activity linked to its unique phytosterol and flavonoid profile.
+- Kumari S, Saini R, Bhatnagar A and others 2024. [A comprehensive review on ayurvedic herb Leptadenia reticulata (Jeevanti): a phytochemistry and pharmacological perspective](https://pubmed.ncbi.nlm.nih.gov/37990540/). *Natural product research*. PMID [37990540](https://pubmed.ncbi.nlm.nih.gov/37990540/) · [doi:10.1080/14786419.2023.2282119](https://doi.org/10.1080/14786419.2023.2282119)  
+  Comprehensive review documenting diverse pharmacological activities including [antidiabetic](/nighantu/reference/antidiabetic/), [antimicrobial](/nighantu/reference/antimicrobial/), antioxidant, anti-abortifacient, [anticancer](/nighantu/reference/anticancer/), [antipyretic](/nighantu/reference/antipyretic/), [analgesic](/nighantu/reference/analgesic/), anti-inflammatory, and antiulcer properties.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

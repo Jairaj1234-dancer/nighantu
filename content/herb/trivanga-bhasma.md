@@ -16,7 +16,7 @@ aliases: ["Trivanga Bhasma", "TrivangaBhasma"]
 tags: ["ayurveda", "bhasma", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 564
+words: 545
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Trivanga-Bhasma/meta-analysis.md"
 ---
 ## Names and identification
@@ -48,10 +48,12 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Trivanga-Bhasma/meta
 
 ## What do recent clinical trials show?
 
-- **Repeated dose oral toxicity of [Trivanga Bhasma](/nighantu/herb/trivanga-bhasma/) in Swiss albino mice** (2013): No treatment-related effects up to 10x therapeutic dose (78 mg/kg body weight = NOEL). Normal cyto-architecture at therapeutic doses. Toxicity in liver and kidney observed only at very high dose (10x TED).
-- **Anti-diabetic effect of [Trivanga Bhasma](/nighantu/herb/trivanga-bhasma/) - An ancient Indian Nanomedicine** (2018): TB with herbal ingredient showed better anti-diabetic effects in STZ-induced diabetic rats. Fasting blood sugar significantly reduced after 30 days of treatment compared to diabetic control.
-- **Formulation, characterization and comparative evaluation of [Trivanga Bhasma](/nighantu/herb/trivanga-bhasma/): a herbo-mineral Indian traditional medicine** (2014): Physicochemical characterization confirmed trimetallic composition. Comparative evaluation of preparations from different sources showed variations in metal content ratios.
-- **Toxicological Evaluation of [Trivanga Bhasma](/nighantu/herb/trivanga-bhasma/) via 28-day Repeated Oral Dose** (2019): 28-day repeated dose study confirmed safety at therapeutic and 2x-5x therapeutic doses. Histopathological and tissue analysis showed toxicity only at 10x TED in liver and kidney.
+- Jamadagni PS, Jamadagni SB, Singh R and others 2013. [Repeated dose oral toxicity of Trivanga Bhasma in Swiss albino mice](https://pubmed.ncbi.nlm.nih.gov/24049417/). *Ayu*. PMID [24049417](https://pubmed.ncbi.nlm.nih.gov/24049417/) · [doi:10.4103/0974-8520.115449](https://doi.org/10.4103/0974-8520.115449)  
+  No treatment-related effects up to 10x therapeutic dose (78 mg/kg body weight = NOEL). Normal cyto-architecture at therapeutic doses. Toxicity in liver and kidney observed only at very high dose (10x TED).
+- Rasheed A, Naik M, Mohammed-Haneefa KP and others 2014. [Formulation, characterization and comparative evaluation of Trivanga bhasma: a herbo-mineral Indian traditional medicine](https://pubmed.ncbi.nlm.nih.gov/25015442/). *Pakistan journal of pharmaceutical sciences*. PMID [25015442](https://pubmed.ncbi.nlm.nih.gov/25015442/)  
+  Physicochemical characterization confirmed trimetallic composition. Comparative evaluation of preparations from different sources showed variations in metal content ratios.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

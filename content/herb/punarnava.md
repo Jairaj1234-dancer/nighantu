@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "kidney-urinary", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 806
+words: 745
 srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Punarnava/meta-analysis.md"
 ---
 ## Names and identification
@@ -39,11 +39,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Punarnava/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Hepatoprotective Potential of Boerhavia diffusa Against Alcohol-Induced Toxicity in HepG2 Cells: In Vitro and In Silico Study** (2026): Rotenoid-enriched fraction from B. diffusa roots (major constituents Boeravinone A and B) showed hepatoprotective potential against ethanol-induced toxicity in HepG2 cells confirmed by in vitro assays and in silico molecular docking.
-- **Anti-Obesity Action of Boerhavia diffusa in Rats by Blocking Cannabinoid Receptors** (2022): Molecular docking revealed B. diffusa phytoconstituents bind to cannabinoid receptors. In vivo study in HFD-induced obese rats showed significant reduction in body weight, organ fat pad weight, and improved lipid profile and liver biomarkers.
-- **Ethnomedicinal values of Boerhaavia diffusa L. as a panacea against multiple human ailments: a state of art review** (2023): Comprehensive review confirmed activities including immunomodulation, hepatoprotection, antifibrinolysis, [anticancer](/nighantu/reference/anticancer/), [antidiabetic](/nighantu/reference/antidiabetic/), anti-inflammatory, and diuretic effects. Highlighted need for additional clinical trials.
-- **Boerhavia diffusa plant extract as therapeutics against mutant nephrin protein in Type 1 nephrotic syndrome: molecular docking and dynamics** (2022): Virtual screening of 66 bioactive compounds from B. diffusa against wild type and mutant nephrin protein models showed potential therapeutic application for nephrotic syndrome.
-- **Pilot clinical trial of Punarnava in hypertension management** (2021): Randomized pilot trial with 10 hypertensive outpatients over 4 weeks demonstrated Punarnava was effective in reducing blood pressure, supporting traditional use as an [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive).
+- Khalid M, Alqarni MH, Shoaib A and others 2022. [Anti-Obesity Action of Boerhavia diffusa in Rats against High-Fat Diet-Induced Obesity by Blocking the Cannabinoid Receptors](https://pubmed.ncbi.nlm.nih.gov/35567159/). *Plants (Basel, Switzerland)*. PMID [35567159](https://pubmed.ncbi.nlm.nih.gov/35567159/) · [doi:10.3390/plants11091158](https://doi.org/10.3390/plants11091158)  
+  Molecular docking revealed B. diffusa phytoconstituents bind to cannabinoid receptors. In vivo study in HFD-induced obese rats showed significant reduction in body weight, organ fat pad weight, and improved lipid profile and liver biomarkers.
+- Das S, Singh PK, Ameeruddin S and others 2023. [Ethnomedicinal values of Boerhaavia diffusa L. as a panacea against multiple human ailments: a state of art review](https://pubmed.ncbi.nlm.nih.gov/38033469/). *Frontiers in chemistry*. PMID [38033469](https://pubmed.ncbi.nlm.nih.gov/38033469/) · [doi:10.3389/fchem.2023.1297300](https://doi.org/10.3389/fchem.2023.1297300)  
+  Comprehensive review confirmed activities including immunomodulation, hepatoprotection, antifibrinolysis, [anticancer](/nighantu/reference/anticancer/), [antidiabetic](/nighantu/reference/antidiabetic/), anti-inflammatory, and diuretic effects. Highlighted need for additional clinical trials.
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

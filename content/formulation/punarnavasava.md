@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 498
+words: 441
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Punarnavasava/meta-analysis.md"
 ---
 ## Names and identification
@@ -61,9 +61,9 @@ Charaka Samhita and Bhaishajya Ratnavali (circa 400-200 BCE origin). The Arishta
 
 ## What do recent clinical trials show?
 
-- **Punarnavasava in edema associated with chronic kidney disease** (2018): Randomized double-blind trial in International Journal of Ayurveda Research: 30 CKD patients receiving 20 ml twice daily for 8 weeks showed statistically significant reduction in ankle circumference (mean decrease 1.8 cm) versus placebo.
-- **Hepatoprotective effects of Punarnavasava components** (2019): Animal model research in Journal of Ethnopharmacology showed boeravinones and chebulinic acid promote hepatic cell regeneration following mild toxin-induced injury.
-- **Pilot study of Punarnavasava in peripheral edema** (2017): AYU journal study showed 80% of participants with peripheral edema reported significant reduction after 6 weeks of 20 ml twice daily combined with dietary adjustments.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

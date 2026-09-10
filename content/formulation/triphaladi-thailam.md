@@ -16,7 +16,7 @@ aliases: ["Triphaladi Thailam", "TriphaladiThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 618
+words: 548
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Triphaladi-Thailam/meta-analysis.md"
 ---
 ## Names and identification
@@ -57,9 +57,9 @@ Sahasrayogam (Taila Prakarana). Available as both [Triphaladi Thailam](/nighantu
 
 ## What do recent clinical trials show?
 
-- **Antioxidant and anti-inflammatory evaluation of [Triphala](/nighantu/herb/triphala/) constituents for neuroprotection** (2020): Gallic acid, chebulagic acid, and emblicanin from [Triphala](/nighantu/herb/triphala/) demonstrated significant [neuroprotective](/nighantu/reference/neuroprotective/) and antioxidant activity in neuronal cell models, supporting traditional use for headache and eye-related complaints.
-- **Clinical observation of [Triphaladi Thailam](/nighantu/formulation/triphaladi-thailam/) Nasya in chronic headache management** (2019): Observational study in South Indian Ayurvedic clinics reported that Nasya with [Triphaladi Thailam](/nighantu/formulation/triphaladi-thailam/) provided significant relief from chronic headaches, sinusitis, and rhinitis in 60% of patients over 21-day treatment protocol.
-- **[Pterostilbene](/nighantu/glossary/compounds-o-q/#pterostilbene) from Pterocarpus marsupium and ocular health benefits** (2021): Studies confirmed that Pterocarpus marsupium (Asanaka) contains [pterostilbene](/nighantu/glossary/compounds-o-q/#pterostilbene) and [epicatechin](/nighantu/glossary/compounds-d-g/#epicatechin) with demonstrated retinal protective effects and anti-diabetic properties, supporting the formulation's traditional use for eye health.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

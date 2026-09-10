@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Dietary-Food-Items"
 group: "Yava"
-answer: "Yava is a substance used in the Ayurvedic materia medica. Usual dose: as dietary: 30–50 g; Yava Kshara: 0.5–2 g; Yavagu: 100–200 mL. Yava (Hordeum vulgare L.) as a Pathya (wholesome diet) (2021): Systematic textual analysis confirmed Yava is recommended as Pathya in 117 disease conditions by Charaka, Sushruta, and Vagbhata; strongest evidence for Prameha (diabetes), Sthaulya (obesity), and Medoroga (lipid disorders)."
+answer: "Yava is a substance used in the Ayurvedic materia medica. Usual dose: as dietary: 30–50 g; Yava Kshara: 0.5–2 g; Yavagu: 100–200 mL. An absence here means we could not identify the source, not that no work exists."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "dietary", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 534
+words: 444
 srcRel: "Ayurveda/Others/Dietary-Food-Items/Yava/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,9 @@ srcRel: "Ayurveda/Others/Dietary-Food-Items/Yava/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **A Comprehensive Review of Yava (Hordeum Vulgare): Ayurvedic and Biomedical Perspectives** (2024): Comprehensive review emphasized barley's role in managing lifestyle disorders (obesity, diabetes, cardiovascular disease), combining classical Ayurvedic wisdom with modern evidence for beta-glucan's cholesterol-lowering and glycemic control effects.
-- **Yava (Hordeum vulgare L.) as a Pathya (wholesome diet)** (2021): Systematic textual analysis confirmed Yava is recommended as Pathya in 117 disease conditions by Charaka, Sushruta, and Vagbhata; strongest evidence for Prameha (diabetes), Sthaulya (obesity), and Medoroga (lipid disorders).
-- **Barley dietary fiber vs wheat dietary fiber in cholesterol management** (2024): Clinical evidence confirmed barley beta-glucan is more effective than wheat dietary fiber at lowering blood cholesterol in hypercholesterolemic subjects; FDA-approved health claim for barley beta-glucan and coronary heart disease risk reduction.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

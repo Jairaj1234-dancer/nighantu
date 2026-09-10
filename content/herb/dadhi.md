@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Animal-Derived-Products"
 group: "Dadhi"
-answer: "Dadhi is a substance used in the Ayurvedic materia medica. Usual dose: 50–200 mL with meals. A comprehensive review of herbs utilized in milk products of dairy industry: Insights from Ayurveda (2024): Ayurvedic herb-infused dairy products (including Siddha Dadhi) show enhanced bioactive properties; herbal fermentation with curd cultures produces novel probiotic-phytochemical synergies."
+answer: "Dadhi is a substance used in the Ayurvedic materia medica. Usual dose: 50–200 mL with meals. An absence here means we could not identify the source, not that no work exists."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "animal-product", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 524
+words: 446
 srcRel: "Ayurveda/Others/Animal-Derived-Products/Dadhi/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,9 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Dadhi/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Therapeutic use of Curd in Digestive Disorders in Ayurveda** (2023): Comprehensive review confirmed curd's therapeutic role in digestive disorders including diarrhea, IBS, constipation, and gastroenteritis; its probiotic bacteria and lactic acid normalize gut flora and enhance nutrient absorption.
-- **A comprehensive review of herbs utilized in milk products of dairy industry: Insights from Ayurveda** (2024): Ayurvedic herb-infused dairy products (including Siddha Dadhi) show enhanced bioactive properties; herbal fermentation with curd cultures produces novel probiotic-phytochemical synergies.
-- **An Ayurvedic Classical Review of Dadhi (Curd)** (2023): Classical texts describe Siddha Dadhi (curd processed with specific herbs) as therapeutic for different conditions; modern probiotic research validates the gut-health mechanisms described in ancient texts.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

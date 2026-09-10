@@ -16,7 +16,7 @@ aliases: ["Panchagavya Ghrita", "PanchagavyaGhrita"]
 tags: ["ayurveda", "formulation", "ghritam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 546
+words: 471
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Panchagavya-Ghrita/meta-analysis.md"
 ---
 ## Names and identification
@@ -55,9 +55,9 @@ Sushruta Samhita (mania, epilepsy, fever, hepatitis); Charaka Samhita; Ashtanga 
 
 ## What do recent clinical trials show?
 
-- **Panchagavya [Ghrita](/nighantu/herb/ghrita/)|Panchagavya Ghrita, an Ayurvedic formulation attenuates seizures, cognitive impairment and oxidative stress in pentylenetetrazole induced seizures in rats** (2015): Pretreatment with PG at 500-4000 mg/kg exhibited 16.6-100% protection against generalized tonic-clonic seizures in PTZ model; 4000 mg/kg provided complete seizure protection
-- **Pharmacodynamic and pharmacokinetic interaction of Panchagavya [Ghrita](/nighantu/herb/ghrita/)|Panchagavya Ghrita with phenytoin and carbamazepine in maximal electroshock induced seizures in rats** (2016): Co-administration of PG with low doses of phenytoin and carbamazepine caused complete seizure protection, suggesting potential as an adjunct in epilepsy with improved efficacy and tolerability
-- **Efficacy of Maha-Pancha Gavya [Ghrita](/nighantu/herb/ghrita/) in the Management of Epilepsy (Apasmara)** (2020): 25% patients became completely seizure-free; 25% had 50% reduction in seizure frequency; 33.3% had 25% frequency reduction after treatment
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

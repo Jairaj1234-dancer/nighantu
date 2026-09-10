@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Rasa-Shastra-Alchemical-Preparations"
 group: "Vatagajankush-Rasa"
-answer: "Vatagajankush Rasa is a substance used in the Ayurvedic materia medica. Usual dose: 125 mg twice daily. The formulation showed efficacy in managing Vata-predominant musculoskeletal disorders."
+answer: "Vatagajankush Rasa is a substance used in the Ayurvedic materia medica. Usual dose: 125 mg twice daily. [Ayurveda-modern medicine interface: A critical appraisal of studies of Ayurvedic medicines to treat osteoarthritis and rheumatoid arthritis](https://pubmed.ncbi.nlm.nih.gov/21547047/)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Vatagajankush Rasa", "VatagajankushRasa"]
 tags: ["ayurveda", "rasa-shastra", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 456
+words: 465
 srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Vatagajankush-Rasa/meta-analysis.md"
 ---
 ## Names and identification
@@ -38,8 +38,10 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Vatagajankush-Rasa
 
 ## What do recent clinical trials show?
 
-- **A Clinical Study on the Effect of Vatagajankusha Rasa in Gridhrasi (Sciatica)** (2023): Clinical study demonstrated significant improvement in sciatica symptoms including pain reduction, improved mobility, and reduced nerve compression signs. The formulation showed efficacy in managing Vata-predominant musculoskeletal disorders.
-- **Ayurveda-modern medicine interface: Critical appraisal of studies of Ayurvedic medicines to treat osteoarthritis and rheumatoid arthritis** (2011): Review noted that Ayurvedic herbo-mineral formulations including [Vatagajankush Rasa](/nighantu/herb/vatagajankush-rasa/) showed promise in managing chronic pain and reducing inflammatory markers, but more large-scale randomized controlled trials are needed for standardized dosing and safety parameters.
+- Chopra A, Saluja M, Tillu G 2010. [Ayurveda-modern medicine interface: A critical appraisal of studies of Ayurvedic medicines to treat osteoarthritis and rheumatoid arthritis](https://pubmed.ncbi.nlm.nih.gov/21547047/). *Journal of Ayurveda and integrative medicine*. PMID [21547047](https://pubmed.ncbi.nlm.nih.gov/21547047/) · [doi:10.4103/0975-9476.72620](https://doi.org/10.4103/0975-9476.72620)  
+  Review noted that Ayurvedic herbo-mineral formulations including [Vatagajankush Rasa](/nighantu/herb/vatagajankush-rasa/) showed promise in managing chronic pain and reducing inflammatory markers, but more large-scale randomized controlled trials are needed for standardized dosing and safety parameters.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

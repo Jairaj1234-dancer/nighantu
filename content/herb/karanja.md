@@ -16,7 +16,7 @@ aliases: ["Millettia pinnata (L.) Panigrahi (syn. Pongamia pinnata (L.) Pierre)"
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 604
+words: 591
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Karanja/meta-analysis.md"
 ---
 ## Names and identification
@@ -56,9 +56,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Karanja/meta-analysis.md
 
 ## What do recent clinical trials show?
 
-- **Karanja (Milletia pinnata (L.) Panigrahi): a tropical tree with varied applications** (2023): Comprehensive review documented [antioxidant](/nighantu/reference/antioxidant/), antimicrobial, anti-inflammatory, antidiabetic, cytotoxicity and [immunomodulatory](/nighantu/reference/immunomodulatory/) activities; identified karanjin and pongamol as compounds with most promising biological activities.
-- **Karanj (Pongamia pinnata) - An Ayurvedic and Modern Overview** (2023): Validated multiple traditional uses including anti-dermatosis, wound healing and anti-hemorrhoidal applications; seed oil demonstrated significant antibacterial activity against skin pathogens.
-- **Medicinal uses, phytochemistry and pharmacology of Pongamia pinnata** (2024): Furanoflavonoid karanjin showed potent anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) activities through COX-2 selective inhibition and modulation of arachidonic acid cascade.
+- Al Muqarrabun LM, Ahmat N, Ruzaina SA and others 2013. [Medicinal uses, phytochemistry and pharmacology of Pongamia pinnata (L.) Pierre: a review](https://pubmed.ncbi.nlm.nih.gov/24016802/). *Journal of ethnopharmacology*. PMID [24016802](https://pubmed.ncbi.nlm.nih.gov/24016802/) · [doi:10.1016/j.jep.2013.08.041](https://doi.org/10.1016/j.jep.2013.08.041)  
+  Furanoflavonoid karanjin showed potent anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) activities through COX-2 selective inhibition and modulation of arachidonic acid cascade.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

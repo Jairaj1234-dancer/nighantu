@@ -16,7 +16,7 @@ aliases: ["Haratala Bhasma", "HaratalaBhasma"]
 tags: ["ayurveda", "bhasma", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 581
+words: 476
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Haratala-Bhasma/meta-analysis.md"
 ---
 ## Names and identification
@@ -48,9 +48,9 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Haratala-Bhasma/meta
 
 ## What do recent clinical trials show?
 
-- **Acute and chronic toxicity of [Rasamanikya](/nighantu/herb/rasamanikya/), an Ayurvedic arsenical formulation, in rats** (2012): At 2000 mg/kg single dose, no observable toxic effects or mortality. Safe at therapeutic and 5x therapeutic dose in chronic study. Ten healthy volunteers given 125 mg twice daily for 15 days showed increased blood arsenic without clinical toxicity signs.
-- **Toxicological study of arsenic containing Ayurvedic drug Haratal Bhasma** (2016): Haratal Bhasma found non-toxic and safe at classical doses, attributed to compound form of arsenic (sulfide) which is insoluble in human body. Both acute and subacute toxicity studies showed no adverse effects.
-- **Comparative physico-chemical validation between Arsenic-based Indian traditional drugs Haratal Bhasma and [Rasamanikya](/nighantu/herb/rasamanikya/)** (2016): Physicochemical comparison confirmed both preparations contain arsenic primarily in sulfide form rather than free arsenite/arsenate. Insoluble sulfide form accounts for lower observed toxicity compared to inorganic arsenic.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

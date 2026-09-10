@@ -16,7 +16,7 @@ aliases: ["Varatika Bhasma", "VaratikaBhasma"]
 tags: ["ayurveda", "bhasma", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 431
+words: 374
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Varatika-Bhasma/meta-analysis.md"
 ---
 ## Names and identification
@@ -49,9 +49,9 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Varatika-Bhasma/meta
 
 ## What do recent clinical trials show?
 
-- **Ayurvedic Approach for Synthesis, Safety and Antacid Activity of Kapardika Bhasma: Marine Natural Calcium** (2020): Established process standardization through physicochemical analysis. Toxicity testing confirmed safety. In vitro antacid activity demonstrated potential as active drug molecule for GI diseases.
-- **Characterization and standardization of Kapardika Bhasma** (2019): XRD and SEM analysis confirmed calcium carbonate to calcium oxide conversion during calcination. Established quality parameters for batch consistency.
-- **Clinical evaluation of Kapardika Bhasma in hyperacidity** (2018): Clinical observations confirmed significant acid-neutralizing capacity and symptom relief in patients with hyperacidity and dyspepsia.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

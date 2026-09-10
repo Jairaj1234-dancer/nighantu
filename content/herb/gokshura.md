@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "mens-health-vitality", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 711
+words: 641
 srcRel: "Ayurveda/Herbs/Single-Herbs/Mens-Health-Vitality/Gokshura/meta-analysis.md"
 ---
 ## Names and identification
@@ -36,10 +36,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Mens-Health-Vitality/Gokshura/meta-analysis
 
 ## What do recent clinical trials show?
 
-- **Systematic review and meta-analysis of Tribulus terrestris for erectile dysfunction management** (2025): Meta-analysis of 8 RCTs showed Tribulus terrestris significantly elevated IIEF-5 and IIEF-15 scores compared to pre-supplementation and outperformed placebo. However, no significant difference in total testosterone levels was found between groups. No difference in adverse events versus placebo.
-- **Effects of Tribulus Supplementation on Erectile Dysfunction and Testosterone Levels in Men - Systematic Review** (2025): Systematic review of 10 eligible studies (9 clinical trials + 1 quasi-experimental) from 162 screened articles. Jadad score revealed low methodological quality for 50% of studies, highlighting need for higher-quality trials.
-- **Profertility and [Aphrodisiac](/nighantu/glossary/pharmacology/#aphrodisiac) Activities of Tribulus terrestris: Evidence from Meta-Analyses** (2023): Meta-analysis of 30 studies with pooled analysis on 133 human subjects demonstrated significant improvements in sperm concentration and sperm motility, supporting profertility claims.
-- **Effect of Tribulus terrestris on testicular morphology and sperm production in rat model** (2024): Experimental study in rat models investigating effects on testicular morphology and spermatogenesis, contributing to understanding of reproductive mechanisms.
+- Vilar Neto JO, de Moraes WMAM, Pinto DV and others 2025. [Effects of Tribulus (Tribulus terrestris L.) Supplementation on Erectile Dysfunction and Testosterone Levels in Men-A Systematic Review of Clinical Trials](https://pubmed.ncbi.nlm.nih.gov/40219032/). *Nutrients*. PMID [40219032](https://pubmed.ncbi.nlm.nih.gov/40219032/) · [doi:10.3390/nu17071275](https://doi.org/10.3390/nu17071275)  
+  Systematic review of 10 eligible studies (9 clinical trials + 1 quasi-experimental) from 162 screened articles. Jadad score revealed low methodological quality for 50% of studies, highlighting need for higher-quality trials.
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

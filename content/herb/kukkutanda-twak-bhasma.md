@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Bhasmas"
-answer: "Kukkutanda Twak Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 250–500 mg twice daily. Kukkutandatwak Bhasma as nanomedicine showed more effectual antifungal activity than antibacterial activity. Analytical profile of Kukkutanda Tvak Bhasma prepared by two different methods (2018): Comparative analytical study established quality parameters for two preparation methods."
+answer: "Kukkutanda Twak Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 250–500 mg twice daily. [Analytical profile of Kukkutanda Tvak Bhasma (incinerated hen egg shells) prepared by two different methods](https://pubmed.ncbi.nlm.nih.gov/30254398/)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Kukkutanda Twak Bhasma", "KukkutandaTwakBhasma"]
 tags: ["ayurveda", "bhasma", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 521
+words: 457
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kukkutanda-Twak-Bhasma/meta-analysis.md"
 ---
 ## Names and identification
@@ -48,10 +48,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kukkutanda-Twak-Bhas
 
 ## What do recent clinical trials show?
 
-- **Calcium oxide (CaO) nanomaterial (Kukutanda twak Bhasma) from egg shell: Green synthesis, physical properties and antimicrobial behaviour** (2020): Green synthesis of CaO nanoparticles from eggshell validated. Kukkutandatwak Bhasma as nanomedicine showed more effectual antifungal activity than antibacterial activity.
-- **Analytical profile of Kukkutanda Tvak Bhasma prepared by two different methods** (2018): Comparative analytical study established quality parameters for two preparation methods. Confirmed calcium oxide as primary constituent with consistent physicochemical profiles.
-- **Preparation and Toxicity study of Kukkutand Twak Bhasma treated with different herbal juices** (2020): Toxicity study confirmed safety of eggshell Bhasma prepared with different herbal juices (Bhavana). All preparations found safe for medicinal use at recommended doses.
-- **A Review on [Kukkutanda Twak Bhasma](/nighantu/herb/kukkutanda-twak-bhasma/) - comprehensive literature analysis** (2021): Comprehensive review confirmed Kukkutanda Twak as excellent organic calcium source with higher bioavailability than inorganic calcium. Documented traditional uses across multiple classical texts.
+- Singh TR, Fanasiya KM, Bedarkar P and others 2017. [Analytical profile of Kukkutanda Tvak Bhasma (incinerated hen egg shells) prepared by two different methods](https://pubmed.ncbi.nlm.nih.gov/30254398/). *Ayu*. PMID [30254398](https://pubmed.ncbi.nlm.nih.gov/30254398/) · [doi:10.4103/ayu.AYU_209_17](https://doi.org/10.4103/ayu.AYU_209_17)  
+  Comparative analytical study established quality parameters for two preparation methods. Confirmed calcium oxide as primary constituent with consistent physicochemical profiles.
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

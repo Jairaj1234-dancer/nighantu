@@ -16,7 +16,7 @@ aliases: ["Vidaryadi Ghrita", "VidaryadiGhrita"]
 tags: ["ayurveda", "formulation", "ghritam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 519
+words: 469
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Vidaryadi-Ghrita/meta-analysis.md"
 ---
 ## Names and identification
@@ -59,9 +59,9 @@ Ashtanga Hridayam Chikitsasthana 3/9 (main reference); Vidaryadi Gana described 
 
 ## What do recent clinical trials show?
 
-- **Effect of Vidaryadi [Ghrita](/nighantu/herb/ghrita/)|Vidaryadi Ghrita and Ksheerabala Oil in the management of hearing loss: a case series** (2024): Vidaryadi [Ghrita](/nighantu/herb/ghrita/)|Vidaryadi Ghrita combined with Ksheerabala Oil showed effectiveness in managing hearing loss (Badhirya), demonstrating broader therapeutic potential beyond respiratory indications
-- **Vidaryadi Ghritam - Pharmacological review of Vidaryadi Gana herbs** (2021): Individual ingredients validated for [immunomodulatory](/nighantu/reference/immunomodulatory/), adaptogenic, and respiratory-protective activities supporting classical Vata-Pitta shamana indications
-- **Vidaryadi [Ghrita](/nighantu/herb/ghrita/)|Vidaryadi Ghrita in Rajayakshma (phthisis) and Kshaya (debility): clinical review** (2020): Classical herbal group demonstrates significant nutritive, anabolic, and tissue-building properties validated for use in wasting diseases and post-illness recovery
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: ["Salvia officinalis L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 552
+words: 476
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aivana/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aivana/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Sage (Salvia officinalis L.): A botanical marvel with versatile pharmacological properties and sustainable applications in functional foods** (2024): Comprehensive review documenting sage's [anticancer](/nighantu/reference/anticancer/), anti-inflammatory, [antioxidant](/nighantu/reference/antioxidant/), antimicrobial, antimutagenic, antidementia, hypoglycemic, and [hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic) effects with functional food applications.
-- **Salvia extracts: Unraveling phenolic compounds and assessing their antiglycation, anti-inflammatory, and cytotoxic properties** (2024): Salvia extracts demonstrated significant antiglycation activity, anti-inflammatory effects, and cytotoxic properties against cancer cell lines linked to their phenolic compound profiles.
-- **Placebo-controlled clinical trial of sage extract on cognitive function in elderly volunteers** (2017): 600 mg/day of sage extract over 16 weeks significantly improved immediate and delayed recall tests in elderly subjects compared to placebo controls.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

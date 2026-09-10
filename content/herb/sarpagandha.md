@@ -16,7 +16,7 @@ aliases: ["Rauvolfia serpentina (L.) Benth. ex Kurz"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 584
+words: 516
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sarpagandha/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sarpagandha/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Rauwolfia serpentina: A Comprehensive Review of its Chemistry and Traditional Uses** (2024): Identified over 50 [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids); reserpine confirmed as principal antihypertensive alkaloid; comprehensive review of CNS-active compounds for anxiety, schizophrenia, and insomnia.
-- **Rauwolfia Serpentina: Phytochemistry, Mechanisms of Action and Modern Applications** (2025): Updated review documenting molecular mechanisms of reserpine including vesicular monoamine transporter (VMAT) inhibition and its relevance to modern psychiatric pharmacotherapy.
-- **Exploring the Riches of Rauvolfia serpentina: Botany, Pharmacology, and Conservation Perspectives** (2024): Documented conservation crisis with IUCN endangered status and CITES Appendix II listing; proposed in situ and ex situ conservation strategies including tissue culture propagation.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

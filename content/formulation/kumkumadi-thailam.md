@@ -16,7 +16,7 @@ aliases: ["Kumkumadi Thailam", "KumkumadiThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 609
+words: 540
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kumkumadi-Thailam/meta-analysis.md"
 ---
 ## Names and identification
@@ -58,9 +58,9 @@ Bhaishajya Ratnavali (Kshudra Roga Chikitsa chapter); also documented in Ashtang
 
 ## What do recent clinical trials show?
 
-- **Clinical trial on skin hydration and melanin index with [Kumkumadi Tailam](/nighantu/formulation/kumkumadi-tailam/)** (2019): A clinical trial (N=30) measuring skin hydration, elasticity, and melanin index after 8 weeks of topical application observed a 25% increase in hydration and 20% decrease in melanin spots.
-- **Randomized trial on melanin reduction with [Kumkumadi Tailam](/nighantu/formulation/kumkumadi-tailam/)** (2020): A randomized trial published in the Journal of Ethnopharmacology showed a 30% reduction in melanin index after 8 weeks of nightly application, demonstrating significant skin-brightening effect.
-- **Mixed sandalwood-[saffron](/nighantu/herb/saffron/) formulations and skin barrier repair** (2021): Journal of Cosmetic Dermatology reported that sandalwood-[saffron](/nighantu/herb/saffron/) formulations significantly reduce transepidermal water loss (TEWL), supporting skin barrier repair and validating the synergistic effects of Kumkumadi's key ingredients.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

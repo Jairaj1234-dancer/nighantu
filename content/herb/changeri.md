@@ -16,7 +16,7 @@ aliases: ["Oxalis corniculata L."]
 tags: ["ayurveda", "herb", "single-herb", "digestive-health", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 573
+words: 558
 srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Changeri/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Changeri/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Ethnopharmacology and therapeutic potentials of Oxalis corniculata: an in-depth study** (2024): Comprehensive ethnopharmacological review confirming diverse therapeutic potential including anti-inflammatory, antimicrobial, neuroprotective, hypoglycemic, and [anticancer](/nighantu/reference/anticancer/) effects with identification of key bioactive compounds.
-- **Oxalis corniculata L. As a Source of Natural Antioxidants: Phytochemistry, Bioactivities, and Application Potential** (2025): Identified dominant metabolite classes (flavonoids, polysaccharides, organic acids) and validated antioxidant-driven pharmacological properties including neuroprotective and anti-inflammatory activities.
-- **Phytochemical and Pharmacological Properties of Oxalis corniculata: A Review** (2024): Documented the plant's role in approved Chinese patent medicines, underscoring its safety and translational value for modern pharmaceutical development.
+- Zhong T, He J, Zhao H and others 2025. [Oxalis corniculata L. As a Source of Natural Antioxidants: Phytochemistry, Bioactivities, and Application Potential](https://pubmed.ncbi.nlm.nih.gov/41300509/). *Antioxidants (Basel, Switzerland)*. PMID [41300509](https://pubmed.ncbi.nlm.nih.gov/41300509/) · [doi:10.3390/antiox14111352](https://doi.org/10.3390/antiox14111352)  
+  Identified dominant metabolite classes (flavonoids, polysaccharides, organic acids) and validated antioxidant-driven pharmacological properties including neuroprotective and anti-inflammatory activities.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

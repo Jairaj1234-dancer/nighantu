@@ -16,7 +16,7 @@ aliases: ["Amla", "Amalaki", "Dhatri", "Phyllanthus emblica", "Phyllanthus embli
 tags: ["ayurveda", "herb", "single-herb", "rasayana-immunity", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "AgeAyurveda Product Catalog", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu, Ashtanga Hridaya)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: ["Immuno Plus", "Acid Relief", "Chyawanprash Avaleha", "Chyawan Cap", "Grow and Glow Hair Oil", "Nutrijam"]
-words: 1031
+words: 1153
 srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Amla/meta-analysis.md"
 ---
 ## Names and identification
@@ -85,12 +85,18 @@ One of the three fruits in [Triphala](/nighantu/herb/triphala/). Classified as b
 
 ## What do recent clinical trials show?
 
-- **Impact of Emblica Officinalis (Amla) on Lipid Profile, Glucose, and C-Reactive Protein: Systematic Review and Meta-Analysis of RCTs** (2023): Meta-analysis of RCTs showed amla supplementation significantly improved lipid profiles (reduced LDL, elevated HDL), lowered glucose levels, and reduced C-reactive protein in adults.
-- **Phyllanthus Emblica as Add-On Therapy for COVID-19: Randomized Double-Blind Controlled Trial** (2022): Amla add-on therapy showed significant improvements in fever, cough severity, shortness of breath, myalgia, increased oxygen saturation, and reduced lung involvement on CT in COVID-19 patients.
-- **Amla Fruit on Female Androgenetic Alopecia: Randomized Controlled Trial** (2023): Triple-blind RCT with 60 women showed amla syrup (3x daily for 12 weeks) helped treat androgenic hair loss and increased the anagen (growth) phase of hair follicles.
-- **Clinical Evaluation of Amla in Healthy Subjects: Randomized Double-Blind Crossover Placebo-Controlled Study** (2020): 500 mg/day amla for 18 weeks improved blood fluidity, lowered von Willebrand factor, reduced oxidative stress markers, improved HDL, and lowered LDL cholesterol.
-- **Exploring Mechanism of Action of Phyllanthus emblica in Epilepsy via Network Pharmacology** (2025): Network pharmacology identified neuroactive ligand-receptor interactions, nitrogen metabolism, and serotonergic synapses as key pathways. Molecular docking showed strong binding to MAPK3, SRC, and MAPK1 targets.
-- **Phyllanthus emblica Branch Extract Against Skin Aging: RCT** (2021): 20 volunteers over 84 days showed lightened skin color, enhanced elasticity/hydration, and reduced wrinkles correlating to younger skin properties.
+- Setayesh L, Haghighat N, Rasaei N and others 2023. [The impact of Emblica Officinalis (Amla) on lipid profile, glucose, and C-reactive protein: A systematic review and meta-analysis of randomized controlled trials](https://pubmed.ncbi.nlm.nih.gov/36934568/). *Diabetes & metabolic syndrome*. PMID [36934568](https://pubmed.ncbi.nlm.nih.gov/36934568/) · [doi:10.1016/j.dsx.2023.102729](https://doi.org/10.1016/j.dsx.2023.102729)  
+  Meta-analysis of RCTs showed amla supplementation significantly improved lipid profiles (reduced LDL, elevated HDL), lowered glucose levels, and reduced C-reactive protein in adults.
+- Varnasseri M, Siahpoosh A, Hoseinynejad K and others 2022. [The effects of add-on therapy of Phyllanthus Emblica (Amla) on laboratory confirmed COVID-19 Cases: A randomized, double-blind, controlled trial](https://pubmed.ncbi.nlm.nih.gov/35093510/). *Complementary therapies in medicine*. PMID [35093510](https://pubmed.ncbi.nlm.nih.gov/35093510/) · [doi:10.1016/j.ctim.2022.102808](https://doi.org/10.1016/j.ctim.2022.102808)  
+  Amla add-on therapy showed significant improvements in fever, cough severity, shortness of breath, myalgia, increased oxygen saturation, and reduced lung involvement on CT in COVID-19 patients.
+- Akhbari M, Firooz A, Rahimi R and others 2024. [The effect of an oral product containing Amla fruit (Phyllanthus emblica L.) on female androgenetic alopecia: A randomized controlled trial](https://pubmed.ncbi.nlm.nih.gov/37487962/). *Journal of ethnopharmacology*. PMID [37487962](https://pubmed.ncbi.nlm.nih.gov/37487962/) · [doi:10.1016/j.jep.2023.116958](https://doi.org/10.1016/j.jep.2023.116958)  
+  Triple-blind RCT with 60 women showed amla syrup (3x daily for 12 weeks) helped treat androgenic hair loss and increased the anagen (growth) phase of hair follicles.
+- Kapoor MP, Suzuki K, Derek T and others 2020. [Clinical evaluation of Emblica Officinalis Gatertn (Amla) in healthy human subjects: Health benefits and safety results from a randomized, double-blind, crossover placebo-controlled study](https://pubmed.ncbi.nlm.nih.gov/31890983/). *Contemporary clinical trials communications*. PMID [31890983](https://pubmed.ncbi.nlm.nih.gov/31890983/) · [doi:10.1016/j.conctc.2019.100499](https://doi.org/10.1016/j.conctc.2019.100499)  
+  500 mg/day amla for 18 weeks improved blood fluidity, lowered von Willebrand factor, reduced oxidative stress markers, improved HDL, and lowered LDL cholesterol.
+- Xiao L, Chen W, Guo W and others 2025. [Exploring the mechanism of action of Phyllanthus emblica in the treatment of epilepsy based on network pharmacology and molecular docking](https://pubmed.ncbi.nlm.nih.gov/39960946/). *Medicine*. PMID [39960946](https://pubmed.ncbi.nlm.nih.gov/39960946/) · [doi:10.1097/MD.0000000000041414](https://doi.org/10.1097/MD.0000000000041414)  
+  Network pharmacology identified neuroactive ligand-receptor interactions, nitrogen metabolism, and serotonergic synapses as key pathways. Molecular docking showed strong binding to MAPK3, SRC, and MAPK1 targets.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

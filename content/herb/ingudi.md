@@ -16,7 +16,7 @@ aliases: ["Balanites aegyptiaca (L.) Delile"]
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 524
+words: 504
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Ingudi/meta-analysis.md"
 ---
 ## Names and identification
@@ -56,9 +56,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Ingudi/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Balanites aegyptiaca (L.) Delile: a review of its traditional uses, phytochemistry and biological activities** (2025): Comprehensive review identified 84+ physiologically active compounds including saponins, flavonoids, coumarins and [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) with confirmed [antioxidant](/nighantu/reference/antioxidant/), anticancer, antidiabetic, antimicrobial and [hepatoprotective](/nighantu/reference/hepatoprotective/) activities.
-- **Phytochemical and pharmacological profiling of Balanites aegyptiaca: Exploring the therapeutic potential** (2025): Highlighted anticancer potential of balanitin saponins with IC50 of 0.3 mcM against A549 lung cancer and 0.5 mcM against U373 glioblastoma cell lines.
-- **Investigation of Potential In Vitro Anticancer and Antimicrobial Activities of Balanites aegyptiaca Fruit Extract** (2023): Fruit extract demonstrated significant antiproliferative activity against lung, liver and brain carcinoma cell lines with concurrent antimicrobial effects against clinical isolates.
+- Ibrahim OHM, Al-Qurashi AD, Asiry KA and others 2022. [Investigation of Potential In Vitro Anticancer and Antimicrobial Activities of Balanites aegyptiaca (L.) Delile Fruit Extract and Its Phytochemical Components](https://pubmed.ncbi.nlm.nih.gov/36235487/). *Plants (Basel, Switzerland)*. PMID [36235487](https://pubmed.ncbi.nlm.nih.gov/36235487/) · [doi:10.3390/plants11192621](https://doi.org/10.3390/plants11192621)  
+  Fruit extract demonstrated significant antiproliferative activity against lung, liver and brain carcinoma cell lines with concurrent antimicrobial effects against clinical isolates.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

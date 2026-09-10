@@ -16,7 +16,7 @@ aliases: ["Pueraria tuberosa (Willd.) DC."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 542
+words: 535
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vidarikand/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vidarikand/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Pueraria tuberosa: A Review on Traditional Uses, Pharmacology, and Phytochemistry** (2021): Comprehensive review documenting [anticancer](/nighantu/reference/anticancer/), anticonvulsant, [antidiabetic](/nighantu/reference/antidiabetic/), anti-inflammatory, [antioxidant](/nighantu/reference/antioxidant/), cardioprotective, [hepatoprotective](/nighantu/reference/hepatoprotective/), [immunomodulatory](/nighantu/reference/immunomodulatory/), nephroprotective, nootropic, and neuroprotective activities.
-- **Pueraria tuberosa (Vidarikanda): An Emerging Cosmeceutical Herb** (2019): Identified cosmeceutical potential with anti-aging, skin-lightening, and UV-protective properties attributed to isoflavones and antioxidant compounds.
-- **Randomized Double-blind Trial of Vidarikand Extract in Perimenopausal Women** (2021): 500 mg Vidarikand extract twice daily showed 45% reduction in hot flush frequency compared to placebo in 80 perimenopausal women.
+- Bharti R, Chopra BS, Raut S and others 2020. [Pueraria tuberosa: A Review on Traditional Uses, Pharmacology, and Phytochemistry](https://pubmed.ncbi.nlm.nih.gov/33708108/). *Frontiers in pharmacology*. PMID [33708108](https://pubmed.ncbi.nlm.nih.gov/33708108/) · [doi:10.3389/fphar.2020.582506](https://doi.org/10.3389/fphar.2020.582506)  
+  Comprehensive review documenting [anticancer](/nighantu/reference/anticancer/), anticonvulsant, [antidiabetic](/nighantu/reference/antidiabetic/), anti-inflammatory, [antioxidant](/nighantu/reference/antioxidant/), cardioprotective, [hepatoprotective](/nighantu/reference/hepatoprotective/), [immunomodulatory](/nighantu/reference/immunomodulatory/), nephroprotective, nootropic, and neuroprotective activities.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

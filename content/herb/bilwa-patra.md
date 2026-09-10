@@ -16,7 +16,7 @@ aliases: ["Aegle marmelos (L.) Correa (leaves)", "Bilwa Patra", "BilwaPatra"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 600
+words: 635
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bilwa-Patra/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bilwa-Patra/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Ethnopharmacological Profile, Phytochemistry and Therapeutic Potential of Aegle marmelos L. for the Treatment of Neurological Disorders** (2025): Bioactive compounds from bael leaves including [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids), [flavonoids](/nighantu/reference/flavonoids/), and essential oils show therapeutic potential for neurological disorders through [neuroprotective](/nighantu/reference/neuroprotective/) and anti-neuroinflammatory mechanisms.
-- **Pharmacognostical, Phytochemical, and Pharmacological Aspects of Aegle marmelos: An Update** (2024): Updated review documenting hypoglycemic, anti-inflammatory, antimicrobial, [anticancer](/nighantu/reference/anticancer/), radioprotective, chemopreventive, and antioxidative activity specifically of leaf preparations.
-- **Evaluation of the Effect of Aegle marmelos (Bael Leaf) Extract on Human Fibroblast Viability: An In Vitro Study** (2024): Bael leaf extract exhibited minimal cytotoxicity on gingival fibroblasts at low concentrations, supporting safety for potential dental applications.
+- Sharma A, Gugulothu D, Virmani T and others 2025. [Ethnopharmacological Profile, Phytochemistry and Therapeutic Potential of Aegle marmelos L. for the Treatment of Neurological Disorders](https://pubmed.ncbi.nlm.nih.gov/40535825/). *Journal of nutrition and metabolism*. PMID [40535825](https://pubmed.ncbi.nlm.nih.gov/40535825/) · [doi:10.1155/jnme/2275526](https://doi.org/10.1155/jnme/2275526)  
+  Bioactive compounds from bael leaves including [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids), [flavonoids](/nighantu/reference/flavonoids/), and essential oils show therapeutic potential for neurological disorders through [neuroprotective](/nighantu/reference/neuroprotective/) and anti-neuroinflammatory mechanisms.
+- Dey M, Rao S, Pl R and others 2024. [Evaluation of the Effect of Aegle marmelos (Bael Leaf) Extract on Human Fibroblast Viability: An In Vitro Study](https://pubmed.ncbi.nlm.nih.gov/39600753/). *Cureus*. PMID [39600753](https://pubmed.ncbi.nlm.nih.gov/39600753/) · [doi:10.7759/cureus.72466](https://doi.org/10.7759/cureus.72466)  
+  Bael leaf extract exhibited minimal cytotoxicity on gingival fibroblasts at low concentrations, supporting safety for potential dental applications.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

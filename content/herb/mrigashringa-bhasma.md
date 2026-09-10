@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Bhasmas"
-answer: "Mrigashringa Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 250–500 mg. Established physicochemical quality parameters for calcium products in Ayurvedic practice. An Ayurvedic proprietary herbal preparation, Calci-7, prevents ovariectomy-induced osteoporosis in rats (2018): Calci-7 formulation containing Mrigashringa Bhasma prevented ovariectomy-induced osteoporosis in rat models."
+answer: "Mrigashringa Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 250–500 mg. [An ayurvedic proprietary herbal preparation, Calci-7, prevents ovariectomy-induced osteoporosis in rats](https://pubmed.ncbi.nlm.nih.gov/29491679/). PMID [29491679](https://pubmed.ncbi.nlm.nih.gov/29491679/) · [doi:10.4103/ayu.AYU_4_16](https://doi.org/10.4103/ayu.AYU_4_16) Calci-7 formulation containing Mrigashringa Bhasma prevented ovariectomy-induced osteoporosis in rat models."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Mrigashringa Bhasma", "MrigashringaBhasma"]
 tags: ["ayurveda", "bhasma", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 439
+words: 412
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Mrigashringa-Bhasma/meta-analysis.md"
 ---
 ## Names and identification
@@ -48,9 +48,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Mrigashringa-Bhasma/
 
 ## What do recent clinical trials show?
 
-- **Physico-chemical analysis of Mrig-Shring Bhasma - approach to standardization of calcium products in Ayurvedic health management** (2019): Standardization study confirmed Ca (66%), P (32.46%), K (1.41%) composition. Established physicochemical quality parameters for calcium products in Ayurvedic practice.
-- **An Ayurvedic proprietary herbal preparation, Calci-7, prevents ovariectomy-induced osteoporosis in rats** (2018): Calci-7 formulation containing [Mrigashringa Bhasma](/nighantu/herb/mrigashringa-bhasma/) prevented ovariectomy-induced osteoporosis in rat models. Demonstrated bone-protective effects through calcium and phosphorus supplementation.
-- **Literary Review on Mrigashringa - Antler or Horn** (2022): Comprehensive review confirmed traditional uses documented across Samhita and Nighantus. Established that Mrigashringa has been used since ancient period for cardiac, respiratory, and bone disorders.
+- Faldu KG, Duvva H, Shah JS and others 2016. [An ayurvedic proprietary herbal preparation, Calci-7, prevents ovariectomy-induced osteoporosis in rats](https://pubmed.ncbi.nlm.nih.gov/29491679/). *Ayu*. PMID [29491679](https://pubmed.ncbi.nlm.nih.gov/29491679/) · [doi:10.4103/ayu.AYU_4_16](https://doi.org/10.4103/ayu.AYU_4_16)  
+  Calci-7 formulation containing [Mrigashringa Bhasma](/nighantu/herb/mrigashringa-bhasma/) prevented ovariectomy-induced osteoporosis in rat models. Demonstrated bone-protective effects through calcium and phosphorus supplementation.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

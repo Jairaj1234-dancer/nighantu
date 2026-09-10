@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Rasa-Shastra-Alchemical-Preparations"
 group: "Swarna-Parpati"
-answer: "Swarna Parpati is a substance used in the Ayurvedic materia medica. Usual dose: 15–30 mg. Usual dose: 15–30 mg."
+answer: "Swarna Parpati is a substance used in the Ayurvedic materia medica. Usual dose: 15–30 mg. [Evaluation of safety and efficacy of a gold containing Ayurvedic drug](https://pubmed.ncbi.nlm.nih.gov/11831371/). Indian journal of experimental biology."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Swarna Parpati", "SwarnaParpati"]
 tags: ["ayurveda", "rasa-shastra", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 520
+words: 539
 srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Swarna-Parpati/meta-analysis.md"
 ---
 ## Names and identification
@@ -45,9 +45,12 @@ Rasa Tarangini, Chapter 27, Verses 45-47; also referenced in other Parpati Kalpa
 
 ## What do recent clinical trials show?
 
-- **Evaluation of safety and efficacy of a gold containing Ayurvedic drug** (2002): Cumulative intake of 160 mg gold at 4 mg/day showed no toxic effects on human body as evidenced by clinical examination, stable body weight, absence of urinary pathology, and normal results on 30 biochemical and enzymatic tests
-- **Blood compatibility studies of [Swarna Bhasma](/nighantu/herb/swarna-bhasma/) (gold bhasma), an Ayurvedic drug** (2011): [Swarna Bhasma](/nighantu/herb/swarna-bhasma/) found safe at all tested levels with no significant treatment-related clinical signs; demonstrated blood compatibility
-- **Review article on [Swarna Parpati](/nighantu/herb/swarna-parpati/) with special reference to Aushadhi Gunadharma Shastra** (2020): Comprehensive review confirmed classical pharmacological properties of [Swarna Parpati](/nighantu/herb/swarna-parpati/) including Agni Deepana, Rasayana, and Ojovardhaka effects with traditional clinical evidence for respiratory and wasting diseases
+- Sharma DC, Jha J, Sharma P and others 2001. [Evaluation of safety and efficacy of a gold containing Ayurvedic drug](https://pubmed.ncbi.nlm.nih.gov/11831371/). *Indian journal of experimental biology*. PMID [11831371](https://pubmed.ncbi.nlm.nih.gov/11831371/)  
+  Cumulative intake of 160 mg gold at 4 mg/day showed no toxic effects on human body as evidenced by clinical examination, stable body weight, absence of urinary pathology, and normal results on 30 biochemical and enzymatic tests
+- Paul W, Sharma CP 2011. [Blood compatibility studies of Swarna bhasma (gold bhasma), an Ayurvedic drug](https://pubmed.ncbi.nlm.nih.gov/21897638/). *International journal of Ayurveda research*. PMID [21897638](https://pubmed.ncbi.nlm.nih.gov/21897638/) · [doi:10.4103/0974-7788.83183](https://doi.org/10.4103/0974-7788.83183)  
+  [Swarna Bhasma](/nighantu/herb/swarna-bhasma/) found safe at all tested levels with no significant treatment-related clinical signs; demonstrated blood compatibility
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

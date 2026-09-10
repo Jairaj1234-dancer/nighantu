@@ -16,7 +16,7 @@ aliases: ["Neelibringadi Thailam", "NeelibringadiThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 627
+words: 566
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Neelibringadi-Thailam/meta-analysis.md"
 ---
 ## Names and identification
@@ -59,9 +59,9 @@ Sahasrayogam (Taila Prakarana, 12th century CE Kerala tradition). One of the mos
 
 ## What do recent clinical trials show?
 
-- **Hair growth-promoting activity of [Bhringraj](/nighantu/herb/bhringraj/) and [Amla](/nighantu/herb/amla/) in animal models** (2018): Published in Journal of Ethnopharmacology, a pilot study reported 30% decrease in hair shedding after 12 weeks of nightly scalp massage with [Neelibringadi Thailam](/nighantu/formulation/neelibringadi-thailam/).
-- **Topical [Bhringraj](/nighantu/herb/bhringraj/)-containing oils and hair density** (2017): Indian Journal of Dermatology study found that topical use of [Bhringraj](/nighantu/herb/bhringraj/)-containing oils showed significant hair density increase over placebo in 60 subjects over 16 weeks.
-- **Anti-dermatophyte activity of Neeli (Indigofera tinctoria) leaf extract** (2020): Published in Phytotherapy Research, the study demonstrated potent anti-dermatophyte activity of Neeli leaf extract against Trichophyton strains in vitro, supporting the traditional dandruff control claims of the formulation.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

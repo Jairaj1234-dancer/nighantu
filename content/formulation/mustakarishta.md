@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 444
+words: 413
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Mustakarishta/meta-analysis.md"
 ---
 ## Names and identification
@@ -57,9 +57,9 @@ Sharangdhara Samhita and Bhavaprakasha. Referenced in Bhaishajya Ratnavali under
 
 ## What do recent clinical trials show?
 
-- **GC-MS profiling of Mushtakarishtam active compounds** (2019): GC-MS analysis identified Carbamic acid, 4H-Pyran-4-one, alpha-Terpineol, Thymol, Eugenol, and Piperine with anti-inflammatory, antioxidant, antibacterial, and digestive properties.
-- **Comparative account of traditionally fermented biomedicine: Mustakarishta** (2018): Comparative fermentation study confirmed consistent presence of therapeutically active metabolites across traditional and standardized preparation methods.
-- **Anti-diarrheal and astringent properties of Cyperus rotundus** (2020): Cyperus rotundus extract demonstrated significant anti-diarrheal activity through intestinal motility reduction and water absorption enhancement in experimental models.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

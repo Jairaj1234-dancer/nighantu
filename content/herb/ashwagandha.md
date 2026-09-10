@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "rasayana-immunity", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "AgeAyurveda Product Catalog", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu, Ashtanga Hridaya)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: ["Ashwagandha", "Immuno Plus", "Chyawanprash Avaleha", "Natural Sleep Aid", "ADHD Ease"]
-words: 1040
+words: 1163
 srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Ashwagandha/meta-analysis.md"
 ---
 ## Names and identification
@@ -84,12 +84,18 @@ Classified as Balya (strength-promoting), Brimhana (nourishing), and Rasayana (r
 
 ## What do recent clinical trials show?
 
-- **Effects of Ashwagandha on Physical Performance: Systematic Review and Bayesian Meta-Analysis** (2021): 13 studies analyzed; medium overall effect size for strength/power improvements in healthy individuals with ashwagandha supplementation.
-- **Effect of Ashwagandha Extract on Sleep: Systematic Review and Meta-Analysis** (2021): 5 RCTs with 400 participants showed small but significant improvement in overall sleep. Effects most prominent in adults with insomnia, at 600 mg/day dosage, over 8-week treatment duration.
-- **Ashwagandha Supplementation for Anxiety and Stress: Systematic Review and Meta-Analysis** (2022): 12 eligible papers with 1,002 participants demonstrated that ashwagandha supplementation significantly reduced anxiety and stress levels compared to placebo.
-- **Effects of Ashwagandha on Stress and Anxiety: Systematic Review and Meta-Analysis** (2024): Updated meta-analysis confirming significant [anxiolytic](/nighantu/reference/anxiolytic/) and stress-reducing effects of ashwagandha across multiple randomized controlled trials.
-- **Withania somnifera Effects on Mental Health in Individuals with Mental Disorders: Systematic Review and Meta-Analysis** (2025): 14 studies with 360 participants found evidence supporting effectiveness in treating anxiety symptoms in individuals with diagnosed mental disorders.
-- **Effects of Ashwagandha on Mental Health in Adults: Systematic Review and Dose-Response Meta-Analysis of RCTs** (2026): Dose-response meta-analysis confirms ashwagandha holds promising potential in alleviating symptoms of stress, anxiety, and depression, with dose-dependent effects identified.
+- Bonilla DA, Moreno Y, Gho C and others 2021. [Effects of Ashwagandha (Withania somnifera) on Physical Performance: Systematic Review and Bayesian Meta-Analysis](https://pubmed.ncbi.nlm.nih.gov/33670194/). *Journal of functional morphology and kinesiology*. PMID [33670194](https://pubmed.ncbi.nlm.nih.gov/33670194/) · [doi:10.3390/jfmk6010020](https://doi.org/10.3390/jfmk6010020)  
+  13 studies analyzed; medium overall effect size for strength/power improvements in healthy individuals with ashwagandha supplementation.
+- Cheah KL, Norhayati MN, Husniati Yaacob L and others 2021. [Effect of Ashwagandha (Withania somnifera) extract on sleep: A systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/34559859/). *PloS one*. PMID [34559859](https://pubmed.ncbi.nlm.nih.gov/34559859/) · [doi:10.1371/journal.pone.0257843](https://doi.org/10.1371/journal.pone.0257843)  
+  5 RCTs with 400 participants showed small but significant improvement in overall sleep. Effects most prominent in adults with insomnia, at 600 mg/day dosage, over 8-week treatment duration.
+- Akhgarjand C, Asoudeh F, Bagheri A and others 2022. [Does Ashwagandha supplementation have a beneficial effect on the management of anxiety and stress? A systematic review and meta-analysis of randomized controlled trials](https://pubmed.ncbi.nlm.nih.gov/36017529/). *Phytotherapy research : PTR*. PMID [36017529](https://pubmed.ncbi.nlm.nih.gov/36017529/) · [doi:10.1002/ptr.7598](https://doi.org/10.1002/ptr.7598)  
+  12 eligible papers with 1,002 participants demonstrated that ashwagandha supplementation significantly reduced anxiety and stress levels compared to placebo.
+- Arumugam V, Vijayakumar V, Balakrishnan A and others 2024. [Effects of Ashwagandha (Withania Somnifera) on stress and anxiety: A systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/39348746/). *Explore (New York, N.Y.)*. PMID [39348746](https://pubmed.ncbi.nlm.nih.gov/39348746/) · [doi:10.1016/j.explore.2024.103062](https://doi.org/10.1016/j.explore.2024.103062)  
+  Updated meta-analysis confirming significant [anxiolytic](/nighantu/reference/anxiolytic/) and stress-reducing effects of ashwagandha across multiple randomized controlled trials.
+- Marchi M, Grenzi P, Travascio A and others 2025. [The effect of Withania somnifera (Ashwagandha) on mental health symptoms in individuals with mental disorders: systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/41140145/). *BJPsych open*. PMID [41140145](https://pubmed.ncbi.nlm.nih.gov/41140145/) · [doi:10.1192/bjo.2025.10885](https://doi.org/10.1192/bjo.2025.10885)  
+  14 studies with 360 participants found evidence supporting effectiveness in treating anxiety symptoms in individuals with diagnosed mental disorders.
+- Alsanie SA, Alhodieb FS, Askarpour M 2026. [Effects of ashwagandha (Withania somnifera) on mental health in adults: A systematic review and dose-response meta-analysis of randomized controlled trials](https://pubmed.ncbi.nlm.nih.gov/41644067/). *Complementary therapies in medicine*. PMID [41644067](https://pubmed.ncbi.nlm.nih.gov/41644067/) · [doi:10.1016/j.ctim.2026.103325](https://doi.org/10.1016/j.ctim.2026.103325)  
+  Dose-response meta-analysis confirms ashwagandha holds promising potential in alleviating symptoms of stress, anxiety, and depression, with dose-dependent effects identified.
 
 ## Recent safety updates
 

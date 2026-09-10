@@ -16,7 +16,7 @@ aliases: ["Hajrul Yahood Bhasma", "HajrulYahoodBhasma"]
 tags: ["ayurveda", "bhasma", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 462
+words: 383
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Hajrul-Yahood-Bhasma/meta-analysis.md"
 ---
 ## Names and identification
@@ -48,9 +48,9 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Hajrul-Yahood-Bhasma
 
 ## What do recent clinical trials show?
 
-- **Clinical evaluation of [Hajrul Yahood Bhasma](/nighantu/herb/hajrul-yahood-bhasma/) with licorice decoction in gastric ulcers** (2015): Clinical trial on 60 patients reported 72% ulcer-healing rate when combined with licorice decoction vs 45% with standard ranitidine therapy. Published in Journal of Ayurveda & Integrative Medicine.
-- **Lithotriptic and diuretic activity assessment of [Hajrul Yahood Bhasma](/nighantu/herb/hajrul-yahood-bhasma/)** (2018): Demonstrated lithontriptic (stone-dissolving) and diuretic action. Reduces renal colic within first 2-3 dosages through anodyne action. Helps dissolve and push kidney stones along the ureter.
-- **Physicochemical analysis and standardization of [Hajrul Yahood Bhasma](/nighantu/herb/hajrul-yahood-bhasma/)** (2019): Established physicochemical quality parameters for standardization. Confirmed calcium silicate composition with consistent mineral profile across properly prepared batches.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: ["Solanum indicum L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 518
+words: 460
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Brihati/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Brihati/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Solanum indicum Linn.: Bridging the Gap Between Traditional Knowledge and Modern Scientific Discoveries** (2024): First-time nutritional composition analysis revealed 25.92% protein, 50.67% carbohydrate, and significant bioactive alkaloid and flavonoid content supporting multi-target pharmacological activity.
-- **Pharmacognostical Exploration and Pharmacological Potential of Solanum indicum Berries** (2023): Berry extracts showed significant [hepatoprotective](/nighantu/reference/hepatoprotective/) and anthelmintic activity; [flavonoids](/nighantu/reference/flavonoids/) and [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) demonstrated potent free radical scavenging capacity.
-- **Solanum indicum Linn.: An Ethnopharmacological, Phytochemical and Pharmacological Review** (2017): Validated anti-inflammatory, [antioxidant](/nighantu/reference/antioxidant/), [antimicrobial](/nighantu/reference/antimicrobial/) and cytotoxic effects of steroidal alkaloids and flavonoid constituents across multiple experimental models.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

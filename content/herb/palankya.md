@@ -16,7 +16,7 @@ aliases: ["Spinacia oleracea L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 666
+words: 688
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Palankya/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Palankya/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Spinacia oleracea Linn Considered as One of the Most Perfect Foods: A Pharmacological and Phytochemical Review** (2024): Comprehensive review confirming spinach as a rich source of bioactive phytochemicals with validated antioxidant, anti-inflammatory, anti-cancer, anti-obesity, neurological, ocular, and musculoskeletal health benefits.
-- **Spinacia Oleracea: Exploring the Therapeutic Potential in Persian Medicine and Modern Pharmacology** (2024): Bridged traditional Persian/Ayurvedic uses with modern pharmacology; confirmed cooling, laxative, anti-inflammatory, and [hepatoprotective](/nighantu/reference/hepatoprotective/) properties through scientific evidence.
-- **Functional properties of spinach phytochemicals and bioactives** (2023): Documented functional properties of spinach glycolipids, carotenoids, and phenolics for prevention of inflammation, oxidative stress, and chronic diseases.
+- Akbari F, Mollaei M, Argani P and others 2024. [Spinacia Oleracea: Exploring the Therapeutic Potential in Persian Medicine and Modern Pharmacology](https://pubmed.ncbi.nlm.nih.gov/38549540/). *Current drug discovery technologies*. PMID [38549540](https://pubmed.ncbi.nlm.nih.gov/38549540/) · [doi:10.2174/0115701638275971240201060710](https://doi.org/10.2174/0115701638275971240201060710)  
+  Bridged traditional Persian/Ayurvedic uses with modern pharmacology; confirmed cooling, laxative, anti-inflammatory, and [hepatoprotective](/nighantu/reference/hepatoprotective/) properties through scientific evidence.
+- Roberts JL, Moreau R 2016. [Functional properties of spinach (Spinacia oleracea L.) phytochemicals and bioactives](https://pubmed.ncbi.nlm.nih.gov/27353735/). *Food & function*. PMID [27353735](https://pubmed.ncbi.nlm.nih.gov/27353735/) · [doi:10.1039/c6fo00051g](https://doi.org/10.1039/c6fo00051g)  
+  Documented functional properties of spinach glycolipids, carotenoids, and phenolics for prevention of inflammation, oxidative stress, and chronic diseases.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

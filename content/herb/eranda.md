@@ -16,7 +16,7 @@ aliases: ["Ricinus communis L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 669
+words: 724
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **A Phytochemical and Pharmacological Review of Ricinus communis L.** (2024): Comprehensive review from Scopus, PubMed, and Web of Science documented analgesic, anti-bacterial, anti-cancer, anti-diabetic, and anti-inflammatory properties with three key compounds ([quercetin](/nighantu/reference/quercetinquercetin/), ellagic acid, [apigenin](/nighantu/glossary/compounds-1-a/#apigenin)) highlighted.
-- **Phytochemical Composition and Multifunctional Applications of Ricinus communis L.** (2025): Detailed multifunctional applications in therapeutic, pharmacological, and industrial domains; identified novel bioactive compounds with anti-cancer and [immunomodulatory](/nighantu/reference/immunomodulatory/) potential.
-- **Nutraceutical Usages and Nutrigenomics of Castor** (2023): Explored nutrigenomic interactions of ricinoleic acid, demonstrating anti-inflammatory gene expression modulation through PPAR-gamma activation.
+- Ramothloa TP, Mkolo NM, Motshudi MC and others 2025. [Phytochemical Composition and Multifunctional Applications of Ricinus communis L.: Insights into Therapeutic, Pharmacological, and Industrial Potential](https://pubmed.ncbi.nlm.nih.gov/40807390/). *Molecules (Basel, Switzerland)*. PMID [40807390](https://pubmed.ncbi.nlm.nih.gov/40807390/) · [doi:10.3390/molecules30153214](https://doi.org/10.3390/molecules30153214)  
+  Comprehensive review from Scopus, PubMed, and Web of Science documented analgesic, anti-bacterial, anti-cancer, anti-diabetic, and anti-inflammatory properties with three key compounds ([quercetin](/nighantu/reference/quercetinquercetin/), ellagic acid, [apigenin](/nighantu/glossary/compounds-1-a/#apigenin)) highlighted.
+- Ramothloa TP, Mkolo NM, Motshudi MC and others 2025. [Phytochemical Composition and Multifunctional Applications of Ricinus communis L.: Insights into Therapeutic, Pharmacological, and Industrial Potential](https://pubmed.ncbi.nlm.nih.gov/40807390/). *Molecules (Basel, Switzerland)*. PMID [40807390](https://pubmed.ncbi.nlm.nih.gov/40807390/) · [doi:10.3390/molecules30153214](https://doi.org/10.3390/molecules30153214)  
+  Detailed multifunctional applications in therapeutic, pharmacological, and industrial domains; identified novel bioactive compounds with anti-cancer and [immunomodulatory](/nighantu/reference/immunomodulatory/) potential.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

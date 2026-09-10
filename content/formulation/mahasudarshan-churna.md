@@ -16,7 +16,7 @@ aliases: ["Mahasudarshan Churna", "MahasudarshanChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 566
+words: 571
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Mahasudarshan-Churna/meta-analysis.md"
 ---
 ## Names and identification
@@ -64,9 +64,10 @@ Bhavaprakasha Nighantu (16th century, Sudarshan group of preparations); also des
 
 ## What do recent clinical trials show?
 
-- **Validation and quantification of major biomarkers in [Mahasudarshan Churna](/nighantu/formulation/mahasudarshan-churna/) through high-performance thin-layer chromatography** (2020): Developed validated HPTLC method for quantification of [mangiferin](/nighantu/glossary/compounds-l-o/#mangiferin) (xanthonoid), oleanolic acid and ursolic acid ([triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids)), gallic acid, [quercetin](/nighantu/reference/quercetinquercetin/), and [curcumin](/nighantu/herb/curcumin/) as biomarkers in the formulation.
-- **PLOS One pilot study on antipyretic efficacy of Sudarshan/Mahasudarshan formulations** (2019): Pilot study found 25% faster drop in fever among subjects taking 3g twice daily compared to placebo.
-- **Pharmacological studies on antipyretic, antimicrobial, [antioxidant](/nighantu/reference/antioxidant/), antihistamine, and [analgesic](/nighantu/reference/analgesic/) activities of [Sudarshan Churna](/nighantu/formulation/sudarshan-churna/)** (2020): Various pharmacological studies proved antipyretic, antimicrobial, antioxidant, antihistamine, and analgesic activities, plus docking studies against SARS-CoV-2 targets.
+- Kaur P, Gupta RC, Dey A and others 2020. [Validation and quantification of major biomarkers in 'Mahasudarshan Churna'- an ayurvedic polyherbal formulation through high-performance thin-layer chromatography](https://pubmed.ncbi.nlm.nih.gov/32527318/). *BMC complementary medicine and therapies*. PMID [32527318](https://pubmed.ncbi.nlm.nih.gov/32527318/) · [doi:10.1186/s12906-020-02970-z](https://doi.org/10.1186/s12906-020-02970-z)  
+  Developed validated HPTLC method for quantification of [mangiferin](/nighantu/glossary/compounds-l-o/#mangiferin) (xanthonoid), oleanolic acid and ursolic acid ([triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids)), gallic acid, [quercetin](/nighantu/reference/quercetinquercetin/), and [curcumin](/nighantu/herb/curcumin/) as biomarkers in the formulation.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

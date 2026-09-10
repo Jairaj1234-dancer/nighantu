@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 534
+words: 484
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Aravindasava/meta-analysis.md"
 ---
 ## Names and identification
@@ -60,9 +60,9 @@ Sahasrayogam and Bhaishajya Ratnavali, categorized under Raktaprasadana [Rasayan
 
 ## What do recent clinical trials show?
 
-- **Immunomodulatory effects of polyherbal Asavas in pediatric populations** (2019): Observational study noted enhanced immune parameters (IgG, IgA levels) in children receiving age-appropriate doses of polyherbal Asavas including Aravindasava.
-- **Digestive tonic properties of Aravindasava in pediatric malnutrition** (2020): Small open-label study showed improved appetite scores and weight gain in malnourished children after 8 weeks of diluted Aravindasava administration.
-- **Safety assessment of fermented Ayurvedic preparations in children** (2021): Review concluded that alcohol content (8-12%) in Asavas requires careful dose titration in children; diluted doses in children above 5 years showed acceptable safety profiles in short-term use.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

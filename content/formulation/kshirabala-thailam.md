@@ -16,7 +16,7 @@ aliases: ["Kshirabala Thailam", "KshirabalaThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 628
+words: 555
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kshirabala-Thailam/meta-analysis.md"
 ---
 ## Names and identification
@@ -50,9 +50,9 @@ Ashtanga Hridayam (Vatarakta Chikitsa chapter). The 101 Avarti (101 times proces
 
 ## What do recent clinical trials show?
 
-- **Neuroprotective effect of Kshirabala (101 Avarti) in experimental models of neurodegeneration** (2020): Kshirabala 101 demonstrated significant neuroprotective activity in rodent models, with reduced oxidative stress markers and improved motor function, supporting its classical indication for neurological disorders.
-- **Clinical evaluation of [Kshirabala 101 Avarti](/nighantu/herb/kshirabala-101-avarti/) in cervical spondylosis** (2019): In a randomized trial of 60 patients, Kshirabala 101 Nasya combined with Abhyanga showed 45% reduction in neck pain and 35% improvement in cervical range of motion over 21 days.
-- **Anti-inflammatory and analgesic properties of [Kshirabala Thailam](/nighantu/formulation/kshirabala-thailam/) in osteoarthritis management** (2021): Patients receiving Kshirabala 101 capsules along with external application showed significant reduction in WOMAC pain and stiffness scores for osteoarthritis, with outcomes comparable to standard NSAIDs.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

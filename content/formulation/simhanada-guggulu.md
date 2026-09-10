@@ -16,7 +16,7 @@ aliases: ["Simhanada Guggulu", "SimhanadaGuggulu"]
 tags: ["ayurveda", "formulation", "guggulu", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 545
+words: 480
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Simhanada-Guggulu/meta-analysis.md"
 ---
 ## Names and identification
@@ -54,9 +54,9 @@ Bhaishajya Ratnavali (Amavata Chikitsa Prakarana, Chapter 29); also described in
 
 ## What do recent clinical trials show?
 
-- **Vivid Action of Simhanada [Guggulu](/nighantu/formulation/guggulu/)|Simhanada Guggulu in the Management of Amavata (Rheumatoid Arthritis): A Review** (2021): Comprehensive review established that Simhanada [Guggulu](/nighantu/formulation/guggulu/)|Simhanada Guggulu components act as Disease Modifying Anti-Rheumatic Drugs (DMARDs), with Rasa, Guna, Virya, Vipak, and Karma properties working to reduce clinical symptoms of Amavata.
-- **Comprehensive Review of Simhanada [Guggulu](/nighantu/formulation/guggulu/)|Simhanada Guggulu: A Formula for Amavata (Rheumatoid Arthritis)** (2024): Review confirmed antirheumatic, detoxifying, antitoxin, [antimicrobial](/nighantu/reference/antimicrobial/), antipruritic, depurative, laxative, anti-gout, and demulcent qualities with demonstrated ability to reduce inflammation, pain, stiffness, and swelling while improving joint flexibility.
-- **Revised Pharmacognostical and physico-chemical analysis of Simhanada [Guggulu](/nighantu/formulation/guggulu/)|Simhanada Guggulu** (2019): Pharmacognostical characterization and physicochemical standardization provided quality control parameters for commercial preparations.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

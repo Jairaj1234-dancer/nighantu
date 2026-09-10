@@ -16,7 +16,7 @@ aliases: ["Polygonatum verticillatum (L.) All. / Polygonatum cirrhifolium (Wall.
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 588
+words: 575
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Meda/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Meda/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Morphological, phytochemical and genetic diversity of threatened Polygonatum verticillatum populations of different altitudes and habitat types in Himalayan region** (2021): Documented significant phytochemical variation across altitudinal populations, with higher altitude specimens showing elevated saponin and phenolic content, providing insights for conservation and standardization.
-- **Species of the Genus Polygonatum found in the Western Himalayas** (2023): Comprehensive taxonomic and phytochemical survey of Polygonatum species in the Western Himalayas, identifying key chemical markers and documenting conservation status.
-- **Polygonatum verticillatum (L.) All. And Polygonatum cirrhifolium (Wall.) Royle: Two threatened vital healers from Asthavarga** (2023): Reviewed both species as critical components of the Ashtavarga group, documenting their medicinal importance and the urgent need for conservation in the Garhwal Himalaya region.
+- Suyal R, Jugran AK, Rawal RS and others 2021. [Morphological, phytochemical and genetic diversity of threatened Polygonatum verticillatum (L.) All. populations of different altitudes and habitat types in Himalayan region](https://pubmed.ncbi.nlm.nih.gov/34539117/). *Physiology and molecular biology of plants : an international journal of functional plant biology*. PMID [34539117](https://pubmed.ncbi.nlm.nih.gov/34539117/) · [doi:10.1007/s12298-021-01044-9](https://doi.org/10.1007/s12298-021-01044-9)  
+  Documented significant phytochemical variation across altitudinal populations, with higher altitude specimens showing elevated saponin and phenolic content, providing insights for conservation and standardization.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

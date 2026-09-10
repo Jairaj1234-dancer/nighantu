@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "digestive-health", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "PubMed / NCBI (63 publications)", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu, Ashtanga Hridaya)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 1956
+words: 1912
 srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Ginger/meta-analysis.md"
 ---
 ## Names and identification
@@ -165,12 +165,14 @@ Called 'Vishwabheshaja' (universal medicine). Fresh (Ardraka) and dry (Shunthi) 
 
 ## What do recent clinical trials show?
 
-- **Pharmacological properties of ginger: what do meta-analyses say? A systematic review** (2025): Comprehensive systematic review synthesizing evidence from all meta-analyses published 2010-2025. Confirms pharmacological effects across anti-inflammatory, antiemetic, [antidiabetic](/nighantu/reference/antidiabetic/), and analgesic domains, though high heterogeneity and potential bias highlight need for larger RCTs.
-- **Effect of ginger on inflammatory markers: systematic review and meta-analysis of 16 RCTs** (2020): Meta-analysis of 16 RCTs (1010 participants) investigated efficacy of ginger supplementation on inflammatory markers CRP, hs-CRP, TNF-alpha, sICAM, and IL-6. Confirmed significant anti-inflammatory effects.
-- **Clinical research on ginger: insights from ClinicalTrials.gov analysis** (2024): Analysis of 89 registered clinical trials: treatment objectives predominant (47.2%), covering antiemetic activity, analgesic function, quality of life, blood pressure, energy expenditure, and xerostomia reduction. Identified low reporting rate of final results.
-- **Anti-colitis efficacy comparison of gingerols and shogaols in DSS-induced colitis mouse model** (2023): 10-shogaol identified as most potent compound in blocking iNOS and COX-2 expression and NF-kB activity. 8- and 10-shogaols showed greatest efficacy in decreasing DSS-induced serum TNF levels among all ginger compounds tested.
-- **Ginger constituent 6-shogaol inhibits inflammation and angiogenesis in primary human endothelial cells** (2022): 6-shogaol demonstrated anti-inflammatory and anti-angiogenic effects in primary human endothelial cells, suggesting dual mechanisms relevant to chronic inflammatory diseases and tumor angiogenesis.
-- **Critical review of ginger antioxidant, anti-inflammatory, and [immunomodulatory](/nighantu/reference/immunomodulatory/) activities** (2024): Comprehensive review confirmed ginger's triple action as antioxidant, anti-inflammatory, and immunomodulatory agent, with doses of 1-3 g daily commonly used for therapeutic effects and 500-1500 mg daily in divided doses for pregnancy-associated nausea.
+- Matin M, Matin FB, Ksepka N and others 2024. [The Clinical Research on Ginger (Zingiber officinale): Insights from ClinicalTrials.gov analysis](https://pubmed.ncbi.nlm.nih.gov/38944033/). *Planta medica*. PMID [38944033](https://pubmed.ncbi.nlm.nih.gov/38944033/) · [doi:10.1055/a-2357-7064](https://doi.org/10.1055/a-2357-7064)  
+  Analysis of 89 registered clinical trials: treatment objectives predominant (47.2%), covering antiemetic activity, analgesic function, quality of life, blood pressure, energy expenditure, and xerostomia reduction. Identified low reporting rate of final results.
+- Bischoff-Kont I, Primke T, Niebergall LS and others 2022. [Ginger Constituent 6-Shogaol Inhibits Inflammation- and Angiogenesis-Related Cell Functions in Primary Human Endothelial Cells](https://pubmed.ncbi.nlm.nih.gov/35281937/). *Frontiers in pharmacology*. PMID [35281937](https://pubmed.ncbi.nlm.nih.gov/35281937/) · [doi:10.3389/fphar.2022.844767](https://doi.org/10.3389/fphar.2022.844767)  
+  6-shogaol demonstrated anti-inflammatory and anti-angiogenic effects in primary human endothelial cells, suggesting dual mechanisms relevant to chronic inflammatory diseases and tumor angiogenesis.
+- Ayustaningwarno F, Anjani G, Ayu AM and others 2024. [A critical review of Ginger's (Zingiber officinale) antioxidant, anti-inflammatory, and immunomodulatory activities](https://pubmed.ncbi.nlm.nih.gov/38903613/). *Frontiers in nutrition*. PMID [38903613](https://pubmed.ncbi.nlm.nih.gov/38903613/) · [doi:10.3389/fnut.2024.1364836](https://doi.org/10.3389/fnut.2024.1364836)  
+  Comprehensive review confirmed ginger's triple action as antioxidant, anti-inflammatory, and immunomodulatory agent, with doses of 1-3 g daily commonly used for therapeutic effects and 500-1500 mg daily in divided doses for pregnancy-associated nausea.
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

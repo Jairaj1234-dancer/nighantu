@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 602
+words: 548
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Murivenna/meta-analysis.md"
 ---
 ## Names and identification
@@ -54,9 +54,9 @@ A signature Kerala Ayurvedic formulation (Chikitsamanjari / Kerala Vaidya tradit
 
 ## What do recent clinical trials show?
 
-- **Wound healing potential of Murivenna in excision wound model** (2021): In-vivo study at Kerala University showed Murivenna Thailam enhanced collagen deposition in rat incision models, confirming its wound healing properties.
-- **Antimicrobial efficacy of Murivenna against common wound pathogens** (2019): Study from Amrita Vishwa Vidyapeetham demonstrated broad-spectrum antimicrobial effect against Staphylococcus aureus and E. coli, supporting its use as a wound-protective oil.
-- **Clinical evaluation of Murivenna application on Episiotomy Wound** (2021): Published in Journal of Ayurveda and Integrated Medical Sciences, Murivenna showed better pain-relieving and tenderness-diminishing properties compared to [Jatyadi Taila](/nighantu/formulation/jatyadi-taila/) in episiotomy wound management in 30 patients.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

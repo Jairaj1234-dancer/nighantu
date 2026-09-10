@@ -16,7 +16,7 @@ aliases: ["Phala Ghrita", "PhalaGhrita"]
 tags: ["ayurveda", "formulation", "ghritam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 540
+words: 514
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Phala-Ghrita/meta-analysis.md"
 ---
 ## Names and identification
@@ -64,9 +64,10 @@ Ashtanga Hridayam by Acharya Vagbhata (for genital and reproductive disorders); 
 
 ## What do recent clinical trials show?
 
-- **Effect of Phala [Ghrita](/nighantu/herb/ghrita/)|Phala Ghrita on development of ovarian follicle followed by ovulation in patients of infertility due to ovarian factor in comparison with clomiphene citrate** (2022): Phala [Ghrita](/nighantu/herb/ghrita/)|Phala Ghrita showed comparable results to clomiphene citrate in promoting ovarian follicle development and ovulation in infertile women with ovarian factor
-- **Efficacy of Phala-[Ghrita](/nighantu/herb/ghrita/) on female infertility** (2024): 45 women administered 20ml twice daily for 3 months showed 21.43% conception rate and 23.80% reported relief from menstrual irregularities; no significant adverse effects observed
-- **Clinical Trial of Phalaghrita on Female Infertility** (2012): [Phala Ghrita](/nighantu/formulation/phala-ghrita/) demonstrated positive effects as Prajasthapana (conception-promoting) and Yoni Pradosha Nashaka (uterine disorder correcting) in infertile women
+- Otta SP, Tripaty RN 2002. [Clinical trial of phalaghrita on female infertility](https://pubmed.ncbi.nlm.nih.gov/22557087/). *Ancient science of life*. PMID [22557087](https://pubmed.ncbi.nlm.nih.gov/22557087/)  
+  [Phala Ghrita](/nighantu/formulation/phala-ghrita/) demonstrated positive effects as Prajasthapana (conception-promoting) and Yoni Pradosha Nashaka (uterine disorder correcting) in infertile women
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

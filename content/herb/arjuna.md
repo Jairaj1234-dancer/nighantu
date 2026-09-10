@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "heart-circulation", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu, Ashtanga Hridaya)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 932
+words: 995
 srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Arjuna/meta-analysis.md"
 ---
 ## Names and identification
@@ -82,11 +82,16 @@ Named after Arjuna of Mahabharata. Vagbhata describes Arjuna Ksheerapaka for Hri
 
 ## What do recent clinical trials show?
 
-- **Terminalia arjuna, a Cardioprotective Herbal Medicine - Relevancy in the Modern Era of Pharmaceuticals and Green Nanomedicine** (2023): Review examining T. arjuna's pleiotropic cardiovascular effects including anti-atherogenic, hypotensive, inotropic, anti-inflammatory, anti-thrombotic and antioxidant actions, with exploration of nano-formulation approaches for improved bioavailability.
-- **Terminalia arjuna: An overview of its magical properties** (2025): Comprehensive overview documenting cardiovascular properties attributed to flavonoids, [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols), [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids), tannins, [glycosides](/nighantu/glossary/compounds-g-l/#glycosides), and minerals. Highlighted need for more rigorous clinical trials.
-- **Cardioprotective effects of arjunolic acid in LPS-stimulated H9C2 and C2C12 myotubes via the MyD88-dependent TLR4 signaling pathway** (2023): Demonstrated arjunolic acid exerts cardioprotection by inhibiting MyD88-dependent TLR4 signaling, reducing LPS-induced cardiac inflammation and oxidative stress in cellular models.
-- **Nutritional Composition, Phytochemical Profile, Extraction Methods of Bioactive Components, and Health Benefits of Terminalia Arjuna Bark** (2025): Detailed phytochemical profiling of T. arjuna bark identifying optimal extraction methods for maximizing yield of cardioprotective triterpenoids and polyphenols.
-- **Clinical efficacy of water extract of stem bark of T. arjuna in patients of chronic heart failure: double-blind RCT** (2016): When added to standard pharmacotherapy in chronic heart failure for 12 weeks, Arjuna extract showed no significant change in LVEF but improved functional capacity, antioxidant reserves, and symptom-related quality of life. (Most recent large RCT available)
+- Ramesh P, Palaniappan A 2023. [Terminalia arjuna, a Cardioprotective Herbal Medicine-Relevancy in the Modern Era of Pharmaceuticals and Green Nanomedicine-A Review](https://pubmed.ncbi.nlm.nih.gov/36678623/). *Pharmaceuticals (Basel, Switzerland)*. PMID [36678623](https://pubmed.ncbi.nlm.nih.gov/36678623/) · [doi:10.3390/ph16010126](https://doi.org/10.3390/ph16010126)  
+  Review examining T. arjuna's pleiotropic cardiovascular effects including anti-atherogenic, hypotensive, inotropic, anti-inflammatory, anti-thrombotic and antioxidant actions, with exploration of nano-formulation approaches for improved bioavailability.
+- Rajaram V, Namasivayam A, Shanmugam R and others 2024. [Terminalia arjuna: An overview of its magical properties](https://pubmed.ncbi.nlm.nih.gov/40230946/). *Bioinformation*. PMID [40230946](https://pubmed.ncbi.nlm.nih.gov/40230946/) · [doi:10.6026/9732063002002080](https://doi.org/10.6026/9732063002002080)  
+  Comprehensive overview documenting cardiovascular properties attributed to flavonoids, [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols), [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids), tannins, [glycosides](/nighantu/glossary/compounds-g-l/#glycosides), and minerals. Highlighted need for more rigorous clinical trials.
+- Hasan MM, Madhavan P, Ahmad Noruddin NA and others 2023. [Cardioprotective effects of arjunolic acid in LPS-stimulated H9C2 and C2C12 myotubes via the My88-dependent TLR4 signaling pathway](https://pubmed.ncbi.nlm.nih.gov/37497554/). *Pharmaceutical biology*. PMID [37497554](https://pubmed.ncbi.nlm.nih.gov/37497554/) · [doi:10.1080/13880209.2023.2230251](https://doi.org/10.1080/13880209.2023.2230251)  
+  Demonstrated arjunolic acid exerts cardioprotection by inhibiting MyD88-dependent TLR4 signaling, reducing LPS-induced cardiac inflammation and oxidative stress in cellular models.
+- Maulik SK, Wilson V, Seth S and others 2016. [Clinical efficacy of water extract of stem bark of Terminalia arjuna (Roxb. ex DC.) Wight & Arn. in patients of chronic heart failure: a double-blind, randomized controlled trial](https://pubmed.ncbi.nlm.nih.gov/26988798/). *Phytomedicine : international journal of phytotherapy and phytopharmacology*. PMID [26988798](https://pubmed.ncbi.nlm.nih.gov/26988798/) · [doi:10.1016/j.phymed.2016.02.007](https://doi.org/10.1016/j.phymed.2016.02.007)  
+  When added to standard pharmacotherapy in chronic heart failure for 12 weeks, Arjuna extract showed no significant change in LVEF but improved functional capacity, antioxidant reserves, and symptom-related quality of life. (Most recent large RCT available)
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

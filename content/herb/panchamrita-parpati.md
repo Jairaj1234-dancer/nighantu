@@ -16,7 +16,7 @@ aliases: ["Panchamrita Parpati", "PanchamritaParpati"]
 tags: ["ayurveda", "rasa-shastra", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 518
+words: 438
 srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Panchamrita-Parpati/meta-analysis.md"
 ---
 ## Names and identification
@@ -45,9 +45,9 @@ Rasa Yoga Sagara; Siddha Yoga Sangraha; also referenced in Rasa Tarangini and ot
 
 ## What do recent clinical trials show?
 
-- **Standardization and Qualitative Parameters for Large Scale Production of [Panchamrita Parpati](/nighantu/herb/panchamrita-parpati/) - An Ayurvedic Drug** (2016): Successfully modified preparation method for large-scale production with average yield of 86.02% from raw materials; established standardization parameters
-- **Randomized Controlled Comparative Clinical Study to Evaluate the Efficacy of Chaturbhadra Kwath with [Panchamrita Parpati](/nighantu/herb/panchamrita-parpati/) Vati in the Management of Grahani** (2023): RCT showed [Panchamrita Parpati](/nighantu/herb/panchamrita-parpati/) in combination with Chaturbhadra Kwath effective in managing Grahani (malabsorption/IBS-like condition)
-- **A Clinical Study of Role of Panchamrut Parpati in Grahani Vyadhi and Life Style Principle** (2024): Clinical study confirmed efficacy of Panchamrit Parpati in Grahani Vyadhi with improvement in digestive symptoms and overall quality of life
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

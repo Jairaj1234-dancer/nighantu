@@ -16,7 +16,7 @@ aliases: ["Phyllanthus niruri L. / Phyllanthus amarus Schum. & Thonn."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 658
+words: 690
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tamalaki/meta-analysis.md"
 ---
 ## Names and identification
@@ -54,9 +54,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tamalaki/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Phyllanthus niruri (stone breaker) herbal therapy for kidney stones: a systematic review and meta-analysis of clinical efficacy** (2024): Systematic review and meta-analysis provided limited but supportive clinical evidence for modest efficacy in reducing kidney stone burden, with one RCT showing 62% reduction in stone recurrence with 500 mg twice daily over 12 months.
-- **Hypophyllanthin and Phyllanthin from Phyllanthus niruri Synergize Doxorubicin Anticancer Properties against Resistant Breast Cancer Cells** (2023): Demonstrated synergistic anticancer activity of phyllanthin and hypophyllanthin with doxorubicin against resistant breast cancer cell lines, suggesting potential as chemotherapy adjuvants.
-- **An update on the bioactivities and health benefits of two plant-derived [lignans](/nighantu/glossary/compounds-g-l/#lignans), phyllanthin and hypophyllanthin** (2023): Updated review documenting hepatoprotective, anti-inflammatory, anticancer, antiviral, [antidiabetic](/nighantu/reference/antidiabetic/), and [neuroprotective](/nighantu/reference/neuroprotective/) activities of the two signature lignans.
+- Dhawan S, Olweny EO 2020. [Phyllanthus niruri (stone breaker) herbal therapy for kidney stones; a systematic review and meta-analysis of clinical efficacy, and Google Trends analysis of public interest](https://pubmed.ncbi.nlm.nih.gov/32333735/). *The Canadian journal of urology*. PMID [32333735](https://pubmed.ncbi.nlm.nih.gov/32333735/)  
+  Systematic review and meta-analysis provided limited but supportive clinical evidence for modest efficacy in reducing kidney stone burden, with one RCT showing 62% reduction in stone recurrence with 500 mg twice daily over 12 months.
+- Abdel-Sattar OE, Allam RM, Al-Abd AM and others 2023. [Hypophyllanthin and Phyllanthin from Phyllanthus niruri Synergize Doxorubicin Anticancer Properties against Resistant Breast Cancer Cells](https://pubmed.ncbi.nlm.nih.gov/37576627/). *ACS omega*. PMID [37576627](https://pubmed.ncbi.nlm.nih.gov/37576627/) · [doi:10.1021/acsomega.3c02953](https://doi.org/10.1021/acsomega.3c02953)  
+  Demonstrated synergistic anticancer activity of phyllanthin and hypophyllanthin with doxorubicin against resistant breast cancer cell lines, suggesting potential as chemotherapy adjuvants.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: ["Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefol
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 588
+words: 530
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nagabala/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nagabala/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Grewia hirsuta Vahl Chemical Constituents and Biological Activities** (2022): Identified phenolics (vanillic, syringic, protocatechuic acids), kaempferol, and documented antioxidant, anti-inflammatory, and [antimicrobial](/nighantu/reference/antimicrobial/) activities of methanol extract.
-- **Traditional Uses, Phytochemistry, Quality Control and Biological Activities of Genus Grewia** (2022): Comprehensive Grewia genus review documenting [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids), [steroids](/nighantu/glossary/compounds-q-t/#steroids), [glycosides](/nighantu/glossary/compounds-g-l/#glycosides), flavones, lignanes, phenolics, [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids), and lactones with diverse biological activities.
-- **Phytochemical and Pharmacological Properties of the Genus Grewia: A Review** (2019): Documented free radical scavenging activity and antioxidant properties of G. hirsuta methanol extract; proposed potential for neuroprotective and cardioprotective applications.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: ["Shadbindu Taila", "ShadbinduTaila"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 647
+words: 624
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Shadbindu-Taila/meta-analysis.md"
 ---
 ## Names and identification
@@ -59,9 +59,10 @@ Ashtanga Hridayam (Sutrasthana); also referenced in Sharangadhara Samhita. The n
 
 ## What do recent clinical trials show?
 
-- **Standardization of [Shadbindu Taila](/nighantu/formulation/shadbindu-taila/): An Ayurvedic oil based medicine** (2013): Published in PMC, the study performed physicochemical, phytochemical, and HPTLC analysis. Five major spots were observed indicating therapeutic compounds, with kaempferol detected and identity confirmed. Oil was found free of heavy metals and non-irritant on rabbit skin.
-- **Clinical evaluation of [Shadbindu Taila](/nighantu/formulation/shadbindu-taila/) Nasya in chronic sinusitis** (2019): In a controlled clinical study, patients receiving [Shadbindu Taila](/nighantu/formulation/shadbindu-taila/) Nasya showed significant improvement in nasal congestion, headache, and facial pain scores, with 70% reporting marked improvement after 30 days of treatment.
-- **Phytochemical profiling and antimicrobial activity of [Shadbindu Taila](/nighantu/formulation/shadbindu-taila/)** (2020): HPTLC fingerprinting confirmed the presence of kaempferol and other [flavonoids](/nighantu/reference/flavonoids/) with demonstrated antimicrobial activity against common sinus pathogens, supporting its traditional use in sinusitis and ENT disorders.
+- Shailajan S, Menon SN, Tiwari BR and others 2013. [Standardization of Shadbindu Taila: An Ayurvedic oil based medicine](https://pubmed.ncbi.nlm.nih.gov/24049414/). *Ayu*. PMID [24049414](https://pubmed.ncbi.nlm.nih.gov/24049414/) · [doi:10.4103/0974-8520.115442](https://doi.org/10.4103/0974-8520.115442)  
+  Published in PMC, the study performed physicochemical, phytochemical, and HPTLC analysis. Five major spots were observed indicating therapeutic compounds, with kaempferol detected and identity confirmed. Oil was found free of heavy metals and non-irritant on rabbit skin.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

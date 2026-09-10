@@ -16,7 +16,7 @@ aliases: ["Shorea robusta Gaertn.f."]
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 578
+words: 497
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Sala/meta-analysis.md"
 ---
 ## Names and identification
@@ -57,9 +57,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Sala/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Ecological, Cultural and Medicinal Values of Sal (Shorea robusta): A Multifaceted Native Tree of India** (2024): Documented 52 phytochemical compounds from various plant parts and confirmed anti-inflammatory, anti-obesity, immunomodulatory, [antimicrobial](/nighantu/reference/antimicrobial/) and wound healing activities through modern pharmacological studies.
-- **Sal (Shorea robusta) seed oil: A sustainable alternative for cocoa butter and edible oil** (2025): Sal seed oil characterized as a rich source of stearic and oleic acids with significant [antioxidant](/nighantu/reference/antioxidant/) properties, validating its potential as a functional food ingredient and pharmaceutical excipient.
-- **A Review Update on Shorea robusta Gaertn f. (Sal)** (2023): Resin (rala) and bark extracts showed potent [analgesic](/nighantu/reference/analgesic/), antipyretic, [anticancer](/nighantu/reference/anticancer/), anticonvulsant and antidiabetic activities; bergenin identified as principal [hepatoprotective](/nighantu/reference/hepatoprotective/) compound.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

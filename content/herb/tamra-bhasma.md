@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Bhasmas"
-answer: "Tamra Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 30–60 mg (strict dosing — copper preparation). Without Amritikarana, higher doses showed hepatotoxic and nephrotoxic potential. The additional purification step significantly reduces residual toxicity."
-botanical: ""
+answer: "Tamra Bhasma (Toxicology international) is a plant used in Ayurveda. Usual dose: 30–60 mg (strict dosing — copper preparation). [Acute and subchronic toxicity study of Tamra Bhasma (incinerated copper) prepared with and without Amritikarana](https://pubmed.ncbi.nlm.nih.gov/27297506/)."
+botanical: "Toxicology international"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: ["Tamra Bhasma", "TamraBhasma"]
 tags: ["ayurveda", "bhasma", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 602
+words: 636
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Tamra-Bhasma/meta-analysis.md"
 ---
 ## Names and identification
@@ -48,10 +48,14 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Tamra-Bhasma/meta-an
 
 ## What do recent clinical trials show?
 
-- **Acute and subchronic toxicity study of [Tamra Bhasma](/nighantu/herb/tamra-bhasma/) (incinerated copper) prepared with and without Amritikarana** (2016): [Tamra Bhasma](/nighantu/herb/tamra-bhasma/) with Amritikarana showed improved safety profile. Without Amritikarana, higher doses showed hepatotoxic and nephrotoxic potential. The additional purification step significantly reduces residual toxicity.
-- **Acute and Subchronic Toxicity Study of [Tamra Bhasma](/nighantu/herb/tamra-bhasma/) prepared from Ashodhita and Shodhita Tamra in Rats** (2013): CRITICAL: [Tamra Bhasma](/nighantu/herb/tamra-bhasma/) prepared from unpurified copper is toxic even at therapeutic equivalent dose. Properly purified copper Bhasma is safe at up to 5x therapeutic dose. At 10x dose, even purified form causes hepatotoxicity, nephrotoxicity, and gastric mucosal damage.
-- **Review of research works done on [Tamra Bhasma](/nighantu/herb/tamra-bhasma/) at Institute for Post-Graduate Teaching and Research in Ayurveda, Jamnagar** (2013): Comprehensive review of multiple studies confirmed clinical safety at therapeutic equivalent doses. No adverse effects reported in any clinical studies. Strong antioxidant and free radical scavenging properties demonstrated.
-- **Effect of [Tamra Bhasma](/nighantu/herb/tamra-bhasma/) (Calcined Copper) on Ponderal and Biochemical Parameters** (2014): At therapeutic doses, Tamra Bhasma showed no significant adverse effects on body weight, organ weight, or biochemical parameters in experimental animals.
+- Chaudhari SY, Nariya MB, Galib R and others 2016. [Acute and subchronic toxicity study of Tamra Bhasma (incinerated copper) prepared with and without Amritikarana](https://pubmed.ncbi.nlm.nih.gov/27297506/). *Journal of Ayurveda and integrative medicine*. PMID [27297506](https://pubmed.ncbi.nlm.nih.gov/27297506/) · [doi:10.1016/j.jaim.2015.11.001](https://doi.org/10.1016/j.jaim.2015.11.001)  
+  [Tamra Bhasma](/nighantu/herb/tamra-bhasma/) with Amritikarana showed improved safety profile. Without Amritikarana, higher doses showed hepatotoxic and nephrotoxic potential. The additional purification step significantly reduces residual toxicity.
+- Jagtap CY, Ashok BK, Patgiri BJ and others 2013. [Acute and Subchronic Toxicity Study of Tamra Bhasma (Incinerated Copper) prepared from Ashodhita (Unpurified) and Shodhita (Purified) Tamra in Rats](https://pubmed.ncbi.nlm.nih.gov/24082351/). *Indian journal of pharmaceutical sciences*. PMID [24082351](https://pubmed.ncbi.nlm.nih.gov/24082351/) · [doi:10.4103/0250-474X.117433](https://doi.org/10.4103/0250-474X.117433)  
+  CRITICAL: [Tamra Bhasma](/nighantu/herb/tamra-bhasma/) prepared from unpurified copper is toxic even at therapeutic equivalent dose. Properly purified copper Bhasma is safe at up to 5x therapeutic dose. At 10x dose, even purified form causes hepatotoxicity, nephrotoxicity, and gastric mucosal damage.
+- Chaudhari SY, Ruknuddin G, Biswajyoti JP and others 2014. [Effect of tamra bhasma (calcined copper) on ponderal and biochemical parameters](https://pubmed.ncbi.nlm.nih.gov/25253924/). *Toxicology international*. PMID [25253924](https://pubmed.ncbi.nlm.nih.gov/25253924/) · [doi:10.4103/0971-6580.139796](https://doi.org/10.4103/0971-6580.139796)  
+  At therapeutic doses, Tamra Bhasma showed no significant adverse effects on body weight, organ weight, or biochemical parameters in experimental animals.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: ["Paederia foetida L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 602
+words: 605
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Prasarini/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Prasarini/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **A Review on Phytochemistry of Paederia foetida Linn** (2023): Comprehensive review of iridoid glycosides, [flavonoids](/nighantu/reference/flavonoids/), volatile oils and other metabolites with documented antinociceptive, anti-inflammatory, antidiarrheal, antitussive, and [antitumor](/nighantu/glossary/pharmacology/#antitumor) activities.
-- **The Antibacterial and Antibiofilm Potential of Paederia foetida Leaves Extract** (2023): Leaf extract showed significant antibacterial and antibiofilm activity against pathogenic bacteria, with potential for combating biofilm-associated infections.
-- **Gastroprotective Mechanism of Paederia foetida (Rubiaceae)** (2015): Demonstrated gastroprotective activity through prostaglandin E2-mediated mechanism, increasing gastric mucus secretion and reducing acid output in ulcer models.
+- Chanda S, Deb L, Tiwari RK and others 2015. [Gastroprotective mechanism of Paederia foetida Linn. (Rubiaceae)--a popular edible plant used by the tribal community of North-East India](https://pubmed.ncbi.nlm.nih.gov/26335308/). *BMC complementary and alternative medicine*. PMID [26335308](https://pubmed.ncbi.nlm.nih.gov/26335308/) · [doi:10.1186/s12906-015-0831-0](https://doi.org/10.1186/s12906-015-0831-0)  
+  Demonstrated gastroprotective activity through prostaglandin E2-mediated mechanism, increasing gastric mucus secretion and reducing acid output in ulcer models.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

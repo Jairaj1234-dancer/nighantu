@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Animal-Derived-Products"
 group: "Madhu"
-answer: "Madhu is a substance used in the Ayurvedic materia medica. Usual dose: 5–15 mL; as vehicle: sufficient quantity. Modern Honey-Based Delivery Systems for Wound Healing: A Review of Current Trends (2025): Honey-containing hydrogels with nanoparticle integration show superior wound healing outcomes; medical-grade honey exhibits lowest MBC against S."
+answer: "Madhu is a substance used in the Ayurvedic materia medica. Usual dose: 5–15 mL; as vehicle: sufficient quantity. An absence here means we could not identify the source, not that no work exists."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Madhu", "Bhramara-madhu", "Bhramara Madhu", "Honey", "Makshika", "Ksh
 tags: ["ayurveda", "animal-product", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 601
+words: 514
 srcRel: "Ayurveda/Others/Animal-Derived-Products/Madhu/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,9 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Madhu/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Review on the Rationality of Using Madhu (Honey) as Anupana** (2025): Sharangadhara Samhita features 54 formulations using Madhu as Anupana; Madhu's Yogavahi property as a bioavailability enhancer has pharmacological basis in its enzyme content, osmotic properties, and ability to penetrate tissues.
-- **Modern Honey-Based Delivery Systems for Wound Healing: A Review of Current Trends** (2025): Honey-containing hydrogels with nanoparticle integration show superior wound healing outcomes; medical-grade honey exhibits lowest MBC against S. pseudintermedius, E. faecalis, and P. aeruginosa.
-- **Mechanistic Roles of Different Varieties of Honey on Wound Healing** (2024): Different honey varieties have distinct wound healing mechanisms; antibacterial efficacy depends on MGO content, hydrogen peroxide production, and pH, with medical-grade honey significantly reducing infection rates and hospital stays.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

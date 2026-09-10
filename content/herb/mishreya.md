@@ -16,7 +16,7 @@ aliases: ["Foeniculum vulgare Mill."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 637
+words: 670
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mishreya/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mishreya/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Cardiovascular Effects, Phytochemistry, Drug Interactions, and Safety Profile of Foeniculum vulgare Mill. ([Fennel](/nighantu/herb/fennel/)): A Comprehensive Review** (2025): Comprehensive review documenting [fennel](/nighantu/herb/fennel/)'s cardiovascular effects including [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive), [cardioprotective](/nighantu/reference/cardioprotective/), and vasorelaxant properties, along with detailed drug interaction profiling and safety assessment.
-- **Ethnomedicinal Uses of Foeniculum vulgare Among Indigenous Communities in Rajasthan** (2024): Documented extensive ethnomedicinal applications among indigenous Rajasthani communities, confirming continued traditional use patterns in contemporary practice.
-- **Foeniculum vulgare Mill: A Review of Its Botany, Phytochemistry, Pharmacology, Contemporary Application, and Toxicology** (2024): Updated comprehensive review documenting antispasmodic, anti-inflammatory, [analgesic](/nighantu/reference/analgesic/), hepatoprotective, [diuretic](/nighantu/reference/diuretic/), antioxidant, and [anticancer](/nighantu/reference/anticancer/) activities across traditional medicine systems.
+- Zahi A, Rani A, Aktary N and others 2025. [Cardiovascular Effects, Phytochemistry, Drug Interactions, and Safety Profile of Foeniculum vulgare Mill. (Fennel): A Comprehensive Review](https://pubmed.ncbi.nlm.nih.gov/41305003/). *Pharmaceuticals (Basel, Switzerland)*. PMID [41305003](https://pubmed.ncbi.nlm.nih.gov/41305003/) · [doi:10.3390/ph18111761](https://doi.org/10.3390/ph18111761)  
+  Comprehensive review documenting [fennel](/nighantu/herb/fennel/)'s cardiovascular effects including [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive), [cardioprotective](/nighantu/reference/cardioprotective/), and vasorelaxant properties, along with detailed drug interaction profiling and safety assessment.
+- Badgujar SB, Patel VV, Bandivdekar AH 2014. [Foeniculum vulgare Mill: a review of its botany, phytochemistry, pharmacology, contemporary application, and toxicology](https://pubmed.ncbi.nlm.nih.gov/25162032/). *BioMed research international*. PMID [25162032](https://pubmed.ncbi.nlm.nih.gov/25162032/) · [doi:10.1155/2014/842674](https://doi.org/10.1155/2014/842674)  
+  Updated comprehensive review documenting antispasmodic, anti-inflammatory, [analgesic](/nighantu/reference/analgesic/), hepatoprotective, [diuretic](/nighantu/reference/diuretic/), antioxidant, and [anticancer](/nighantu/reference/anticancer/) activities across traditional medicine systems.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

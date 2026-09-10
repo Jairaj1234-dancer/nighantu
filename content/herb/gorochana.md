@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Animal-Derived-Products"
 group: "Gorochana"
-answer: "Gorochana is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg with honey or ghee. Pharmacological Studies on Calculus Bovis (Niuhuang) in Traditional Chinese and Ayurvedic Medicine (2020): Calculus Bovis demonstrated anti-inflammatory, antipyretic, anticonvulsant, and sedative effects in animal models; bile acids showed hepatoprotective activity through choleretic and anti-cholestatic mechanisms."
+answer: "Gorochana is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg with honey or ghee. [Tool from traditional medicines is useful for health-medication: Bezoar Bovis and taurine](https://pubmed.ncbi.nlm.nih.gov/19239140/). Advances in experimental medicine and biology."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "animal-product", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 470
+words: 458
 srcRel: "Ayurveda/Others/Animal-Derived-Products/Gorochana/meta-analysis.md"
 ---
 ## Names and identification
@@ -50,9 +50,10 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Gorochana/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Tool from traditional medicines is useful for health-medication: Bezoar Bovis and [taurine](/nighantu/glossary/compounds-t-z/#taurinetaurine)** (2009): Water extract of Bezoar Bovis (BB) exhibited protection against arrhythmias produced by low and high Ca2+ environments; [taurine](/nighantu/glossary/compounds-t-z/#taurinetaurine), a major constituent, showed cardioprotective and hepatoprotective activity.
-- **Pharmacological Studies on Calculus Bovis (Niuhuang) in Traditional Chinese and Ayurvedic Medicine** (2020): Calculus Bovis demonstrated anti-inflammatory, antipyretic, anticonvulsant, and sedative effects in animal models; bile acids showed hepatoprotective activity through choleretic and anti-cholestatic mechanisms.
-- **Gorochanaadi Gulika - Traditional Formulation Review** (2023): Gorochana-containing classical formulations showed efficacy in managing pediatric febrile seizures, psychiatric conditions, and poisoning cases in observational clinical settings.
+- Takahashi K, Azuma Y, Kobayashi S and others 2009. [Tool from traditional medicines is useful for health-medication: Bezoar Bovis and taurine](https://pubmed.ncbi.nlm.nih.gov/19239140/). *Advances in experimental medicine and biology*. PMID [19239140](https://pubmed.ncbi.nlm.nih.gov/19239140/) · [doi:10.1007/978-0-387-75681-3_10](https://doi.org/10.1007/978-0-387-75681-3_10)  
+  Water extract of Bezoar Bovis (BB) exhibited protection against arrhythmias produced by low and high Ca2+ environments; [taurine](/nighantu/glossary/compounds-t-z/#taurinetaurine), a major constituent, showed cardioprotective and hepatoprotective activity.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

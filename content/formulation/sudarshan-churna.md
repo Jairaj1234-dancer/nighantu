@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Churnas-Powders"
-answer: "Sudarshan Churna is a classical Ayurvedic churna, a fine herbal powder. The usual dose is 3-6g with warm water for fever. Antimicrobial activity of aqueous extract of Sudarshan Churna by paper disc diffusion method (2019): Extract was found active against gram-negative bacteria K."
+answer: "Sudarshan Churna is a classical Ayurvedic churna, a fine herbal powder. The usual dose is 3-6g with warm water for fever. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Sudarshan Churna", "SudarshanChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 512
+words: 464
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Sudarshan-Churna/meta-analysis.md"
 ---
 ## Names and identification
@@ -62,9 +62,9 @@ Bhavaprakasha Nighantu (16th century); composed of 42 medicinal plants in the st
 
 ## What do recent clinical trials show?
 
-- **A Critical Review on [Sudarshan Churna](/nighantu/formulation/sudarshan-churna/)** (2022): Comprehensive review documented antipyretic, antimalarial, antiviral, [antidiabetic](/nighantu/reference/antidiabetic/), antimicrobial activities with detailed pharmacological evidence for traditional fever management claims.
-- **Antimicrobial activity of aqueous extract of [Sudarshan Churna](/nighantu/formulation/sudarshan-churna/) by paper disc diffusion method** (2019): Extract was found active against gram-negative bacteria K. pneumoniae, E. coli and gram-positive bacteria S. aureus and P. vulgaris.
-- **Pilot study on antipyretic efficacy of [Sudarshan Churna](/nighantu/formulation/sudarshan-churna/)** (2019): 25% faster drop in fever among subjects taking 3g twice daily compared to placebo, with additional benefits on appetite and energy restoration.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

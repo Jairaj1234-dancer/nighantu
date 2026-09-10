@@ -16,7 +16,7 @@ aliases: ["Fermented grain formulation (composite - Oryza sativa", "Panicum suma
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 672
+words: 615
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhanyamla/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhanyamla/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Pharmaceutical and Analytical Study of Dhanyamla** (2022): Quality assessment determined pH 4.13, specific gravity 1.0068 at 30 degrees C; phytochemical screening confirmed presence of tannins, flavonoids, and saponins with [antioxidant](/nighantu/reference/antioxidant/) and [antimicrobial](/nighantu/reference/antimicrobial/) potential.
-- **Isolation and Characterization of Potential Microorganism from Dhanyamla** (2021): Isolated and characterized beneficial microorganisms from the fermentation process including Lactobacillus species, confirming probiotic characteristics that contribute to therapeutic properties.
-- **A Pharmacognostical and Pharmaceutical evaluation of Dhanyamla** (2021): Established standardization parameters for Dhanyamla preparation and validated the fermentation process for consistent therapeutic quality across batches.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

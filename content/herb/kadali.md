@@ -16,7 +16,7 @@ aliases: ["Musa paradisiaca L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 632
+words: 654
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Exploring the Potential of Musa paradisiaca Leaf Extract in Drug Research and Development: Applications in Clinical Pharmacy, Drug Design, and Data Analytics** (2025): Identified three compounds from banana pseudostem that inhibit mitotic cell division by interacting with tubulin and cyclin-dependent kinase 2 [proteins](/nighantu/glossary/compounds-o-q/#proteins), suggesting [anticancer](/nighantu/reference/anticancer/) potential.
-- **[Antidiabetic](/nighantu/reference/antidiabetic/) Potential of Bananas (Musa spp.): A Systematic Review of Bioactive Compounds and Antihyperglycemic Activities** (2025): Systematic review documented that bioactive compounds across various banana parts demonstrate significant antihyperglycemic activities through multiple mechanisms.
-- **Green banana consumption in treatment of acute and persistent diarrhea in children: systematic review and meta-analysis of randomized controlled trials** (2024): Meta-analysis of RCTs confirmed green banana reduces duration and severity of both acute and persistent diarrhea in children, providing high-level evidence for this traditional use.
+- Kwok JJN, Chen MK, Ong CW and others 2025. [Antidiabetic Potential of Bananas (Musa spp.): A Systematic Review of Bioactive Compounds and Antihyperglycemic Activities](https://pubmed.ncbi.nlm.nih.gov/40011287/). *Current nutrition reports*. PMID [40011287](https://pubmed.ncbi.nlm.nih.gov/40011287/) · [doi:10.1007/s13668-025-00629-0](https://doi.org/10.1007/s13668-025-00629-0)  
+  Systematic review documented that bioactive compounds across various banana parts demonstrate significant antihyperglycemic activities through multiple mechanisms.
+- Gallo Ruelas M, Gomez-Herrera GP, Noa-Peralta KF and others 2024. [Role of green banana consumption in the treatment of acute and persistent diarrhea in children: a systematic review and meta-analysis of randomized controlled trials](https://pubmed.ncbi.nlm.nih.gov/38972965/). *European journal of pediatrics*. PMID [38972965](https://pubmed.ncbi.nlm.nih.gov/38972965/) · [doi:10.1007/s00431-024-05679-0](https://doi.org/10.1007/s00431-024-05679-0)  
+  Meta-analysis of RCTs confirmed green banana reduces duration and severity of both acute and persistent diarrhea in children, providing high-level evidence for this traditional use.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

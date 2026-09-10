@@ -16,7 +16,7 @@ aliases: ["Cassia angustifolia Vahl (syn. Senna alexandrina Mill.)"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 646
+words: 619
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Senna/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Senna/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **The prospects and potential of the horticultural and pharmacological medicinal herb senna (Cassia angustifolia Vahl.): A review** (2023): Comprehensive review of senna's pharmacological potential beyond laxative use, documenting antimicrobial, antioxidant, anti-inflammatory, [antidiabetic](/nighantu/reference/antidiabetic/), and [anticancer](/nighantu/reference/anticancer/) properties of various senna species.
-- **A Review of Recent Studies on the Antioxidant and Anti-Infectious Properties of Senna Plants** (2022): Documented significant antioxidant and anti-infectious properties of Senna species beyond traditional laxative use, with potential applications in antimicrobial therapy.
-- **European Medicines Agency Assessment Report - Senna alexandrina: Revision of community herbal monograph** (2024): Updated EMA herbal monograph confirming well-established use as a short-term laxative with defined dose limits and duration restrictions not exceeding 1-2 weeks.
+- Alshehri MM, Quispe C, Herrera-Bravo J and others 2022. [A Review of Recent Studies on the Antioxidant and Anti-Infectious Properties of Senna Plants](https://pubmed.ncbi.nlm.nih.gov/35154569/). *Oxidative medicine and cellular longevity*. PMID [35154569](https://pubmed.ncbi.nlm.nih.gov/35154569/) · [doi:10.1155/2022/6025900](https://doi.org/10.1155/2022/6025900)  
+  Documented significant antioxidant and anti-infectious properties of Senna species beyond traditional laxative use, with potential applications in antimicrobial therapy.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Rasa-Shastra-Alchemical-Preparations"
 group: "Icchabhedi-Rasa"
-answer: "Icchabhedi Rasa is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg (potent purgative — single dose or as directed). Provided standardization parameters for quality control of this potent purgative formulation."
+answer: "Icchabhedi Rasa is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg (potent purgative — single dose or as directed). An absence here means we could not identify the source, not that no work exists."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Icchabhedi Rasa", "IcchabhediRasa"]
 tags: ["ayurveda", "rasa-shastra", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 474
+words: 422
 srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Icchabhedi-Rasa/meta-analysis.md"
 ---
 ## Names and identification
@@ -38,8 +38,9 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Icchabhedi-Rasa/me
 
 ## What do recent clinical trials show?
 
-- **Pharmaceutical Standardization of Ichhabhedi Rasa - An Ayurvedic Formulation** (2019): Study established physicochemical standards for the preparation including loss on drying, total ash, acid-insoluble ash, and heavy metal content. Provided standardization parameters for quality control of this potent purgative formulation.
-- **Exploring the safety of Ayurvedic mercurial preparation Rasa Sindura: a scoping review** (2024): Scoping review of mercury-based Ayurvedic preparations found that properly prepared HgS-based formulations demonstrated safety in preclinical models, but called for comprehensive human clinical safety studies and long-term toxicity assessments.
+
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

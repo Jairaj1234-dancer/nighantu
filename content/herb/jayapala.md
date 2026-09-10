@@ -16,7 +16,7 @@ aliases: ["Croton tiglium L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 742
+words: 792
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jayapala/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,9 +33,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jayapala/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Impact of Shodhana an Ayurvedic purification process on cytotoxicity and mutagenicity of Croton tiglium Linn.** (2023): Shodhana process significantly reduced cytotoxicity and mutagenicity of Croton tiglium seeds. Purified seeds showed reduced DNA damage potential in Ames test and reduced cytotoxicity in cell viability assays while retaining purgative efficacy.
-- **Purgative Effect, Acute Toxicity, and Quantification of PMA and Crotonic Acid in Croton tiglium Seeds Before and After Treatment by Thai Traditional Detoxification Process** (2025): Thai traditional detoxification (analogous to Shodhana) reduced phorbol-12-myristate-13-acetate content from 5.2 mg/100g to 1.8 mg/100g, with crotonic acid becoming undetectable in purified samples.
-- **Detoxification of Croton tiglium L. seeds by Ayurvedic process of Shodhana** (2024): Cow's milk used in Shodhana removes oil-soluble phorbol esters and crotonic acid from seeds. The casein and fat globules in milk act as extraction media for toxic nonpolar constituents, providing scientific rationale for the ancient purification method.
+- Jamadagni P, Ranade A, Bharsakale S and others 2023. [Impact of Shodhana an Ayurvedic purification process on cytotoxicity and mutagenicity of Croton tiglium Linn](https://pubmed.ncbi.nlm.nih.gov/37230917/). *Journal of Ayurveda and integrative medicine*. PMID [37230917](https://pubmed.ncbi.nlm.nih.gov/37230917/) · [doi:10.1016/j.jaim.2023.100710](https://doi.org/10.1016/j.jaim.2023.100710)  
+  Shodhana process significantly reduced cytotoxicity and mutagenicity of Croton tiglium seeds. Purified seeds showed reduced DNA damage potential in Ames test and reduced cytotoxicity in cell viability assays while retaining purgative efficacy.
+- Poowanna R, Pulbutr P, Kijjoa A and others 2025. [Purgative Effect, Acute Toxicity, and Quantification of Phorbol-12-Myristate-13-Acetate and Crotonic Acid in Croton tiglium L. Seeds Before and After Treatment by Thai Traditional Detoxification Process](https://pubmed.ncbi.nlm.nih.gov/40869036/). *International journal of molecular sciences*. PMID [40869036](https://pubmed.ncbi.nlm.nih.gov/40869036/) · [doi:10.3390/ijms26167714](https://doi.org/10.3390/ijms26167714)  
+  Thai traditional detoxification (analogous to Shodhana) reduced phorbol-12-myristate-13-acetate content from 5.2 mg/100g to 1.8 mg/100g, with crotonic acid becoming undetectable in purified samples.
+- Pal PK, Nandi MK, Singh NK 2014. [Detoxification of Croton tiglium L. seeds by Ayurvedic process of Śodhana](https://pubmed.ncbi.nlm.nih.gov/25538350/). *Ancient science of life*. PMID [25538350](https://pubmed.ncbi.nlm.nih.gov/25538350/) · [doi:10.4103/0257-7941.144619](https://doi.org/10.4103/0257-7941.144619)  
+  Cow's milk used in Shodhana removes oil-soluble phorbol esters and crotonic acid from seeds. The casein and fat globules in milk act as extraction media for toxic nonpolar constituents, providing scientific rationale for the ancient purification method.
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: ["Talisadi Churna", "TalisadiChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 595
+words: 474
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Talisadi-Churna/meta-analysis.md"
 ---
 ## Names and identification
@@ -57,10 +57,9 @@ Charaka Chikitsa Sthana 8/145-148. Sharangdhara Samhita, Madhyama Khanda 6/130-1
 
 ## What do recent clinical trials show?
 
-- **Clinical study to evaluate the efficacy of Ayurvedic intervention in management of chronic bronchitis** (2022): Open-label prospective study on 75 patients with chronic bronchitis treated with 3 gm [Talisadi Churna](/nighantu/formulation/talisadi-churna/) thrice daily for 12 weeks. Significant improvement in wheezing, breathlessness, cough, and expectoration, with statistically significant changes in Leicester Cough Questionnaire (LCQ), St. George's Respiratory Questionnaire (SGRQ), and Peak Expiratory Flow Rate (PEFR).
-- **Pilot study on sputum viscosity reduction with [Talisadi Churna](/nighantu/formulation/talisadi-churna/)** (2020): Significant reduction in sputum viscosity and cough frequency after 2 weeks of use in adult subjects with productive cough.
-- **Pharmacological review validating bronchodilator effects of [Talisadi Churna](/nighantu/formulation/talisadi-churna/)** (2021): Validated bronchodilator effects attributed to piperine and essential oils. In vitro research showed significant inhibition of pro-inflammatory cytokines IL-6 and TNF-alpha by gingerol compounds in Shunthi component.
-- **Comparative trial of [Talisadi Churna](/nighantu/formulation/talisadi-churna/) versus standard herbal cough syrup** (2020): Comparative efficacy trial demonstrated comparable cough relief to standard herbal cough syrup but with fewer side effects in the Talisadi group.
+
+
+*4 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: ["Anacyclus pyrethrum (L.) Lag."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 563
+words: 586
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akarakarabha/meta-analysis.md"
 ---
 ## Names and identification
@@ -52,9 +52,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akarakarabha/meta-analysis.md
 
 ## What do recent clinical trials show?
 
-- **Alkaloids from Anacyclus pyrethrum** (2024): Twelve undescribed alkaloids including eight pyrrolo[3,2-g]isoquinoline and four pyrrolo[2,3-g]quinoline alkaloids were isolated from roots; some showed significant inhibition of NO production in LPS-induced RAW 264.7 cells.
-- **Phytochemical characterization, [antimicrobial](/nighantu/reference/antimicrobial/) properties and in silico modeling of Anacyclus pyrethrum essential oil** (2024): Identified santolina alcohol as the major essential oil component (40.7%), followed by [germacrene-D](/nighantu/glossary/compounds-d-g/#germacrene-d) (8.9%); in silico molecular docking showed strong binding to bacterial target [proteins](/nighantu/glossary/compounds-o-q/#proteins).
-- **Comprehensive review of ethnopharmacology, pharmacology and phytochemistry of Anacyclus pyrethrum DC** (2025): Comprehensive review covering the full spectrum of pharmacological activities including immunomodulatory, wound healing, and [anticancer](/nighantu/reference/anticancer/) properties with validated traditional uses.
+- Chen H, Aisa HA 2025. [Alkaloids from Anacyclus pyrethrum](https://pubmed.ncbi.nlm.nih.gov/39216630/). *Phytochemistry*. PMID [39216630](https://pubmed.ncbi.nlm.nih.gov/39216630/) · [doi:10.1016/j.phytochem.2024.114255](https://doi.org/10.1016/j.phytochem.2024.114255)  
+  Twelve undescribed alkaloids including eight pyrrolo[3,2-g]isoquinoline and four pyrrolo[2,3-g]quinoline alkaloids were isolated from roots; some showed significant inhibition of NO production in LPS-induced RAW 264.7 cells.
+- Baz AE, Mrabti HN, Ashmawy NS and others 2024. [Phytochemical characterization, antimicrobial properties and in silico modeling perspectives of Anacyclus pyrethrum essential oil](https://pubmed.ncbi.nlm.nih.gov/39220961/). *Heliyon*. PMID [39220961](https://pubmed.ncbi.nlm.nih.gov/39220961/) · [doi:10.1016/j.heliyon.2024.e35079](https://doi.org/10.1016/j.heliyon.2024.e35079)  
+  Identified santolina alcohol as the major essential oil component (40.7%), followed by [germacrene-D](/nighantu/glossary/compounds-d-g/#germacrene-d) (8.9%); in silico molecular docking showed strong binding to bacterial target [proteins](/nighantu/glossary/compounds-o-q/#proteins).
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

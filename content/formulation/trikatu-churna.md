@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Churnas-Powders"
-answer: "Trikatu Churna is a classical Ayurvedic churna, a fine herbal powder. The usual dose is 1-3g before meals. Phyto-pharmacological review on bioavailability enhancer: Trikatu (2024): Comprehensive review confirmed Trikatu enhances bioavailability of co-administered drugs and phytoconstituents by transiently modulating P-glycoprotein transporters and hepatic/intestinal glucuronidation enzymes."
+answer: "Trikatu Churna is a classical Ayurvedic churna, a fine herbal powder. The usual dose is 1-3g before meals. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Trikatu Churna", "TrikatuChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 524
+words: 471
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Trikatu-Churna/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,9 @@ Charaka Samhita (Sutra Sthana, Chapter 4); Sushruta Samhita; Ashtanga Hridayam; 
 
 ## What do recent clinical trials show?
 
-- **A placebo-controlled randomized clinical study of [Trikatu](/nighantu/herb/trikatu/) in Grade-1 obesity management** (2024): Placebo-controlled RCT on 50 Grade-1 obese patients aged 20-70 years showed [Trikatu](/nighantu/herb/trikatu/) alongside lifestyle modifications had significant effects on obesity management parameters.
-- **Phyto-pharmacological review on bioavailability enhancer: [Trikatu](/nighantu/herb/trikatu/)** (2024): Comprehensive review confirmed [Trikatu](/nighantu/herb/trikatu/) enhances bioavailability of co-administered drugs and phytoconstituents by transiently modulating P-glycoprotein transporters and hepatic/intestinal glucuronidation [enzymes](/nighantu/glossary/compounds-d-g/#enzymes).
-- **[Trikatu](/nighantu/herb/trikatu/) - A combination of three bioavailability enhancers: piperine, gingerols, and 6-shogaol** (2018): Piperine from P. nigrum and P. longum enhances bioavailability by up to 2000% for some compounds; [immunomodulatory](/nighantu/reference/immunomodulatory/), antiviral, and anti-inflammatory properties additionally confirmed.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

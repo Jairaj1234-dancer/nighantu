@@ -16,7 +16,7 @@ aliases: ["Kottamchukkadi Thailam", "KottamchukkadiThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 644
+words: 579
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kottamchukkadi-Thailam/meta-analysis.md"
 ---
 ## Names and identification
@@ -57,9 +57,9 @@ Sahasrayogam (Taila Prakarana). A signature Kerala Ayurvedic formulation for Vat
 
 ## What do recent clinical trials show?
 
-- **Pilot study on [Kottamchukkadi Thailam](/nighantu/formulation/kottamchukkadi-thailam/) in knee osteoarthritis** (2020): Published in the Journal of Ayurveda and Integrative Medicine, the study reported that 65% of subjects with knee osteoarthritis experienced reduced pain and improved joint flexibility after daily massage.
-- **Randomized controlled trial comparing Kottamchukkadi massage plus physiotherapy** (2021): Participants receiving Kottamchukkadi massage combined with physiotherapy showed 25% more pain relief than physiotherapy alone, indicating significant additive therapeutic benefit.
-- **In vitro COX-2 inhibition and transdermal absorption studies on [Kottamchukkadi Thailam](/nighantu/formulation/kottamchukkadi-thailam/)** (2022): Oil extracts demonstrated COX-2 enzyme inhibition correlating with reduced prostaglandin formation. Piperine from [Pippali](/nighantu/herb/pippali/) increased transdermal absorption of other active constituents by up to 40% in healthy volunteers.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

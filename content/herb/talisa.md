@@ -16,7 +16,7 @@ aliases: ["Abies webbiana Lindl. (syn. Abies spectabilis (D. Don) Mirb.)"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 563
+words: 542
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Talisa/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Talisa/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Comprehensive Review on Talispatra (Abies webbiana)** (2024): Comprehensive review documenting the plant's ethnobotany, phytochemistry, and pharmacological properties, highlighting chemical composition including essential oils, flavonoids, and diterpenes contributing to its diverse therapeutic activities.
-- **Chemical Fingerprints of an Indian Traditional Herbal Drug [Talisapatra](/nighantu/herb/talisapatra/) (Abies webbiana) and Comparison with English yew (Taxus baccata)** (2023): Established chemical fingerprinting methods to differentiate [Talisapatra](/nighantu/herb/talisapatra/) from adulteration with Taxus baccata, identifying unique marker compounds for authentication.
-- **Pharmacological Studies on the Antispasmodic, Bronchodilator and Anti-Platelet Activities of Abies webbiana** (2022): Demonstrated significant antispasmodic and bronchodilator activity supporting respiratory applications, along with anti-platelet effects mediated through calcium channel inhibition.
+- Yasin M, Hussain Janbaz K, Imran I and others 2014. [Pharmacological studies on the antispasmodic, bronchodilator and anti-platelet activities of Abies webbiana](https://pubmed.ncbi.nlm.nih.gov/24395464/). *Phytotherapy research : PTR*. PMID [24395464](https://pubmed.ncbi.nlm.nih.gov/24395464/) · [doi:10.1002/ptr.5112](https://doi.org/10.1002/ptr.5112)  
+  Demonstrated significant antispasmodic and bronchodilator activity supporting respiratory applications, along with anti-platelet effects mediated through calcium channel inhibition.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: ["Gandhak Rasayan", "GandhakRasayan", "Purified Sulfur (Shuddha Gandhak
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 739
+words: 721
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gandhak-Rasayan/meta-analysis.md"
 ---
 ## Names and identification
@@ -49,9 +49,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gandhak-Rasayan/meta-analysis
 
 ## What do recent clinical trials show?
 
-- **Chronic toxicity studies of [Gandhaka](/nighantu/glossary/concepts-a-m/#gandhaka) Rasayana - A herbo-mineral preparation used in Ayurvedic practice** (2022): 180-day chronic toxicity study in animal models showed the formulation is safe at traditional therapeutic doses; no significant toxic effects on hematological, biochemical, or histopathological parameters.
-- **Exploratory study to document large-scale sulfur purification in Ayurveda pharmaceutics** (2024): Documented large-scale Gandhak Shodhana (purification) processes under GMP conditions, confirming effective reduction of arsenic, lead, and mercury contaminants through traditional purification cycles.
-- **Toxicological Assessment of Gandhak: Ayurvedic Shodhana and Safety Perspectives** (2024): Comprehensive toxicological assessment confirmed that Shodhana process significantly reduces toxic heavy metal contaminants, making purified sulfur suitable for medicinal use with established safety margins.
+- Mundugaru R, Ballal SR, Bhat S and others 2021. [Chronic toxicity studies of gandhaka rasayana - A herbo-mineral preparation used in Ayurvedic practice](https://pubmed.ncbi.nlm.nih.gov/34736857/). *Journal of Ayurveda and integrative medicine*. PMID [34736857](https://pubmed.ncbi.nlm.nih.gov/34736857/) · [doi:10.1016/j.jaim.2021.05.011](https://doi.org/10.1016/j.jaim.2021.05.011)  
+  180-day chronic toxicity study in animal models showed the formulation is safe at traditional therapeutic doses; no significant toxic effects on hematological, biochemical, or histopathological parameters.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

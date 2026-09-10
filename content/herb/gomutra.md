@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Animal-Derived-Products"
 group: "Gomutra"
-answer: "Gomutra is a substance used in the Ayurvedic materia medica. Usual dose: 10–30 mL of Arka; 5–10 mL fresh (diluted). Exploring the pharmacological potential of Red Sindhi Cow urine: An in vivo approach (2024): Red Sindhi cow urine demonstrated antimicrobial, antioxidant, anti-inflammatory, immunomodulatory, anticancer, hepatoprotective, and antidiabetic effects in in vivo models."
+answer: "Gomutra is a substance used in the Ayurvedic materia medica. Usual dose: 10–30 mL of Arka; 5–10 mL fresh (diluted). [In Silico and In Vitro Studies of Antibacterial Activity of Cow Urine Distillate (CUD)](https://pubmed.ncbi.nlm.nih.gov/38225974/)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "animal-product", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 530
+words: 511
 srcRel: "Ayurveda/Others/Animal-Derived-Products/Gomutra/meta-analysis.md"
 ---
 ## Names and identification
@@ -52,9 +52,10 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Gomutra/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **In Silico and In Vitro Studies of Antibacterial Activity of Cow Urine Distillate (CUD)** (2024): CUD showed significant antibacterial activity against tested strains with zone of inhibition (ZOI) ranging from 13-24 mm and MIC values ranging from 12.5 to 50 microg/ml; in silico docking confirmed binding to bacterial target [proteins](/nighantu/glossary/compounds-o-q/#proteins).
-- **Exploring the pharmacological potential of Red Sindhi Cow urine: An in vivo approach** (2024): Red Sindhi cow urine demonstrated antimicrobial, antioxidant, anti-inflammatory, [immunomodulatory](/nighantu/reference/immunomodulatory/), [anticancer](/nighantu/reference/anticancer/), hepatoprotective, and [antidiabetic](/nighantu/reference/antidiabetic/) effects in in vivo models.
-- **Multidimensional Use of Cow Urine (Gomutra), One of the Ingredients of Panchagavya - A Narrative Review** (2022): Comprehensive review confirmed Gomutra's scientifically proven role as a bioenhancer that increases bioavailability of co-administered drugs, particularly antibiotics and antifungals.
+- Pant L, Thapa S, Dahal B and others 2024. [In Silico and In Vitro Studies of Antibacterial Activity of Cow Urine Distillate (CUD)](https://pubmed.ncbi.nlm.nih.gov/38225974/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [38225974](https://pubmed.ncbi.nlm.nih.gov/38225974/) · [doi:10.1155/2024/1904763](https://doi.org/10.1155/2024/1904763)  
+  CUD showed significant antibacterial activity against tested strains with zone of inhibition (ZOI) ranging from 13-24 mm and MIC values ranging from 12.5 to 50 microg/ml; in silico docking confirmed binding to bacterial target [proteins](/nighantu/glossary/compounds-o-q/#proteins).
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Bhasmas"
-answer: "Shankha Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 250–500 mg twice daily. Calcium content estimation and acid neutralization capacity confirmed strong antacid properties. Physicochemical parameters established for quality control."
-botanical: ""
+answer: "Shankha Bhasma (Marine drugs) is a plant used in Ayurveda. Usual dose: 250–500 mg twice daily. [Pharmaceutical Standardization and Physicochemical Characterization of Traditional Ayurvedic Marine Drug: Incinerated Conch Shell (Shankha Bhasma)](https://pubmed.ncbi.nlm.nih.gov/30445775/). PMID [30445775](https://pubmed.ncbi.nlm.nih.gov/30445775/) · [doi:10.3390/md16110450](https://doi.org/10.3390/md16110450) Standardized compressed tablet form developed."
+botanical: "Marine drugs"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: ["Shankha Bhasma", "ShankhaBhasma"]
 tags: ["ayurveda", "bhasma", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 453
+words: 427
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Shankha-Bhasma/meta-analysis.md"
 ---
 ## Names and identification
@@ -48,9 +48,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Shankha-Bhasma/meta-
 
 ## What do recent clinical trials show?
 
-- **Pharmaceutical Standardization and Physicochemical Characterization of Traditional Ayurvedic Marine Drug: Incinerated Conch Shell ([Shankha Bhasma](/nighantu/herb/shankha-bhasma/))** (2018): Standardized compressed tablet form developed. Calcium content estimation and acid neutralization capacity confirmed strong antacid properties. Physicochemical parameters established for quality control.
-- **Clinical study on [Shankha Bhasma](/nighantu/herb/shankha-bhasma/) in Gastroesophageal Reflux Disease (GERD)** (2019): Lemon-purified [Shankha Bhasma](/nighantu/herb/shankha-bhasma/) showed significant resolution (p < 0.005) of GERD symptoms compared to sour gruel-purified [Shankha Bhasma](/nighantu/herb/shankha-bhasma/), demonstrating purification method affects clinical efficacy.
-- **Acid Neutralization Capacity of [Shankha Bhasma](/nighantu/herb/shankha-bhasma/) as Antacid** (2020): Confirmed high acid neutralization capacity comparable to commercial antacids. Calcium carbonate content and alkaline properties provide effective acid buffering in gastric conditions.
+- Chavan S, Tayade S, Gupta V and others 2018. [Pharmaceutical Standardization and Physicochemical Characterization of Traditional Ayurvedic Marine Drug: Incinerated Conch Shell (Shankha Bhasma)](https://pubmed.ncbi.nlm.nih.gov/30445775/). *Marine drugs*. PMID [30445775](https://pubmed.ncbi.nlm.nih.gov/30445775/) · [doi:10.3390/md16110450](https://doi.org/10.3390/md16110450)  
+  Standardized compressed tablet form developed. Calcium content estimation and acid neutralization capacity confirmed strong antacid properties. Physicochemical parameters established for quality control.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

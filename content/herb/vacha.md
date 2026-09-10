@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Brain-Nervous-System"
-answer: "Vacha is a substance used in the Ayurvedic materia medica. Usual dose: 250 mg-1 g powder twice daily (low dose due to beta-asarone content); Nasya: 2-4 drops per nostril; NOT for prolonged internal use. WHO/JECFA evaluated beta-asarone in Food Additives Series No."
-botanical: ""
+answer: "Vacha (Microbial pathogenesis) is a plant used in Ayurveda. Usual dose: 250 mg-1 g powder twice daily (low dose due to beta-asarone content); Nasya: 2-4 drops per nostril; NOT for prolonged internal use. WHO/JECFA evaluated beta-asarone in Food Additives Series No."
+botanical: "Microbial pathogenesis"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "brain-nervous-system", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "PubMed / NCBI (1037 publications)", "AgeAyurveda Product Catalog", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: ["ADHD Ease"]
-words: 1919
+words: 2023
 srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vacha/meta-analysis.md"
 ---
 ## Names and identification
@@ -123,12 +123,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vacha/meta-analysis.md
 
 ## What do recent clinical trials show?
 
-- **Reporting negative Ames test results for Indian Acorus calamus L., rhizome, extracts, and beta-asarone** (2025): Indian A. calamus rhizome extracts and beta-asarone tested negative in Ames mutagenicity assay, challenging earlier assumptions about genotoxicity, though carcinogenicity concerns from chronic feeding studies remain.
-- **Screening for Active Compounds of Acorus calamus against SARS-CoV-2 Viral Protease and Mechanism Prediction** (2024): Identified 8 active components from 24 isolated compounds that exhibited significant inhibitory effects on SARS-CoV-2 PLpro, suggesting antiviral potential.
-- **Comprehensive In Vitro Safety Assessment of Acorus calamus Rhizome Oil Using OECD-Compliant New Approach Methods** (2025): Classified as GHS Category 1B sensitiser and Category 2 irritant using OECD-compliant new approach methods, providing standardized safety classification for the rhizome oil.
-- **Acorus calamus as a promising source of new antibacterial agent against Pseudomonas aeruginosa and Staphylococcus aureus** (2025): Volatile compounds from A. calamus demonstrated significant antibacterial activity against both P. aeruginosa and S. aureus, with mode of action deciphered.
-- **Alpha-asarone, beta-asarone, and gamma-asarone: Current status of toxicological evaluation** (2021): Comprehensive toxicological review found cardiotoxicity, hepatotoxicity, reproductive toxicity, mutagenicity, and carcinogenicity described for propenylic asarone isomers with varying reliability levels. Toxicological data remain rare and not critically evaluated in the 21st century.
-- **The Neuroprotective Role of Acorus calamus in Developmental and Histopathological Changes in Autism-Induced Wistar Rats** (2022): Demonstrated neuroprotective effects in autism-induced animal models, showing developmental and histopathological improvements in brain tissue.
+- Narayana DBA, Mukne A 2025. [Reporting negative Ames test results for Indian Acorus calamus L., rhizome, extracts, and beta asarone](https://pubmed.ncbi.nlm.nih.gov/40844059/). *Indian journal of pharmacology*. PMID [40844059](https://pubmed.ncbi.nlm.nih.gov/40844059/) · [doi:10.4103/ijp.ijp_391_24](https://doi.org/10.4103/ijp.ijp_391_24)  
+  Indian A. calamus rhizome extracts and beta-asarone tested negative in Ames mutagenicity assay, challenging earlier assumptions about genotoxicity, though carcinogenicity concerns from chronic feeding studies remain.
+- Huang Y, Li Z, Ma Y and others 2024. [Screening for Active Compounds of Acorus calamus against SARS-CoV-2 Viral Protease and Mechanism Prediction](https://pubmed.ncbi.nlm.nih.gov/38543111/). *Pharmaceuticals (Basel, Switzerland)*. PMID [38543111](https://pubmed.ncbi.nlm.nih.gov/38543111/) · [doi:10.3390/ph17030325](https://doi.org/10.3390/ph17030325)  
+  Identified 8 active components from 24 isolated compounds that exhibited significant inhibitory effects on SARS-CoV-2 PLpro, suggesting antiviral potential.
+- Desai KR, Ranade JR, Nagane RM and others 2025. [Comprehensive In Vitro Safety Assessment of Acorus calamus Rhizome Oil Using OECD-Compliant New Approach Methods: Classification as a GHS Category 1B Sensitiser and Category 2 Irritant](https://pubmed.ncbi.nlm.nih.gov/41441227/). *Toxics*. PMID [41441227](https://pubmed.ncbi.nlm.nih.gov/41441227/) · [doi:10.3390/toxics13121006](https://doi.org/10.3390/toxics13121006)  
+  Classified as GHS Category 1B sensitiser and Category 2 irritant using OECD-compliant new approach methods, providing standardized safety classification for the rhizome oil.
+- Al-Mijalli SH, Mrabti HN, Abdallah EM and others 2025. [Acorus calamus as a promising source of new antibacterial agent against Pseudomonas aeruginosa and Staphylococcus aureus: Deciphering volatile compounds and mode of action](https://pubmed.ncbi.nlm.nih.gov/39894234/). *Microbial pathogenesis*. PMID [39894234](https://pubmed.ncbi.nlm.nih.gov/39894234/) · [doi:10.1016/j.micpath.2025.107357](https://doi.org/10.1016/j.micpath.2025.107357)  
+  Volatile compounds from A. calamus demonstrated significant antibacterial activity against both P. aeruginosa and S. aureus, with mode of action deciphered.
+- Uebel T, Hermes L, Haupenthal S and others 2021. [α-Asarone, β-asarone, and γ-asarone: Current status of toxicological evaluation](https://pubmed.ncbi.nlm.nih.gov/33236787/). *Journal of applied toxicology : JAT*. PMID [33236787](https://pubmed.ncbi.nlm.nih.gov/33236787/) · [doi:10.1002/jat.4112](https://doi.org/10.1002/jat.4112)  
+  Comprehensive toxicological review found cardiotoxicity, hepatotoxicity, reproductive toxicity, mutagenicity, and carcinogenicity described for propenylic asarone isomers with varying reliability levels. Toxicological data remain rare and not critically evaluated in the 21st century.
+- Ukkirapandian K, E K, Udaykumar KP and others 2022. [The Neuroprotective Role of Acorus calamus in Developmental and Histopathological Changes in Autism-Induced Wistar Rats](https://pubmed.ncbi.nlm.nih.gov/36340563/). *Cureus*. PMID [36340563](https://pubmed.ncbi.nlm.nih.gov/36340563/) · [doi:10.7759/cureus.29717](https://doi.org/10.7759/cureus.29717)  
+  Demonstrated neuroprotective effects in autism-induced animal models, showing developmental and histopathological improvements in brain tissue.
 
 ## Recent safety updates
 

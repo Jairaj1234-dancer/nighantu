@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 547
+words: 556
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Kumaryasava/meta-analysis.md"
 ---
 ## Names and identification
@@ -55,9 +55,10 @@ Charaka Samhita and Ashtanga Hridaya. Chavannapalli's commentary on Madhava Nida
 
 ## What do recent clinical trials show?
 
-- **Hepatoprotective potential of Kumaryasava against CCl4-induced hepatic toxicity in Wistar rats** (2015): PMC-published study demonstrated both Kumaryasava and its concentrate protected against CCl4-induced hepatotoxicity, evidenced by reduced SGOT, SGPT, ALP levels and elevated serum albumin.
-- **Kumaryasava in PCOS: a double-blind trial** (2019): Trial at Kolkata Ayurvedic University (n=120) demonstrated improved hormonal profiles with lower LH/FSH ratio in PCOS patients after 8 weeks of 15 ml twice daily.
-- **Digestive and hepatic effects of [Aloe vera](/nighantu/herb/aloe-vera/)-based Asavas** (2020): Comprehensive review confirmed Kumaryasava's deepana (appetite stimulant), pachana (digestive), and hepatoprotective properties through multiple pathways.
+- Khan MA, Gupta A, Sastry JL and others 2015. [Hepatoprotective potential of kumaryasava and its concentrate against CCl4-induced hepatic toxicity in Wistar rats](https://pubmed.ncbi.nlm.nih.gov/26681887/). *Journal of pharmacy & bioallied sciences*. PMID [26681887](https://pubmed.ncbi.nlm.nih.gov/26681887/) · [doi:10.4103/0975-7406.168029](https://doi.org/10.4103/0975-7406.168029)  
+  PMC-published study demonstrated both Kumaryasava and its concentrate protected against CCl4-induced hepatotoxicity, evidenced by reduced SGOT, SGPT, ALP levels and elevated serum albumin.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

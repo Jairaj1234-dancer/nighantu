@@ -16,7 +16,7 @@ aliases: ["Solanum xanthocarpum Schrad. & Wendl. (syn. S. surattense Burm. f.", 
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 510
+words: 462
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kantakari/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kantakari/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **A Systematic Review on Solanum xanthocarpum L. (Solanaceae) Plant and Its Potential Pharmacological Activities** (2023): Systematic evaluation confirmed larvicidal, antibacterial, antihyperglycemic, [antioxidant](/nighantu/reference/antioxidant/), and hepatoprotective activities with significant [bronchodilator](/nighantu/reference/bronchodilator/) potential.
-- **Phytochemical and Pharmacological Activities of Solanum surattense** (2023): Extract showed significant bronchodilator activity on histamine-induced airway constriction and reversed allergen-induced bronchospasm comparable to standard aminophylline.
-- **Morphology and Phytochemistry of Solanum xanthocarpum** (2021): Detailed phytochemical mapping identified solanocarpine, solanocarpidine, and diosgenin as primary steroidal constituents with anti-inflammatory and [immunomodulatory](/nighantu/reference/immunomodulatory/) activity.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

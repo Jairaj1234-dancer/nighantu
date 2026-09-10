@@ -16,7 +16,7 @@ aliases: ["Marsdenia tenacissima (Roxb.) Moon"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 591
+words: 648
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Murva/meta-analysis.md"
 ---
 ## Names and identification
@@ -54,9 +54,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Murva/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Three New [Steroids](/nighantu/glossary/compounds-q-t/#steroids) from the Roots of Marsdenia tenacissima** (2024): Isolated two formerly undescribed eudesmane sesquiterpenoids and six known nor-sesquiterpenoids, along with an unreported pyrrole glycoside and two phenolic glycosides from the roots.
-- **A [glucose](/nighantu/glossary/compounds-d-g/#glucose)-rich heteropolysaccharide from Marsdenia tenacissima and its zinc-modified complex enhance immunoregulation** (2024): Demonstrated that a glucose-rich heteropolysaccharide and its zinc-modified complex enhance immunoregulation by activating the TLR4-MyD88-NF-kB signaling pathway.
-- **Biomarker Discovery and Molecular Docking Reveal Marsdenia tenacissima Fermentation Product's Anti-Lung Cancer Components** (2025): Identified key anti-lung cancer bioactive components from fermentation products of M. tenacissima through biomarker discovery and molecular docking approaches.
+- Du TT, Fan MH, Liu JL and others 2024. [Three New Steroids from the Roots of Marsdenia tenacissima](https://pubmed.ncbi.nlm.nih.gov/39211952/). *Chemistry & biodiversity*. PMID [39211952](https://pubmed.ncbi.nlm.nih.gov/39211952/) · [doi:10.1002/cbdv.202401801](https://doi.org/10.1002/cbdv.202401801)  
+  Isolated two formerly undescribed eudesmane sesquiterpenoids and six known nor-sesquiterpenoids, along with an unreported pyrrole glycoside and two phenolic glycosides from the roots.
+- Li C, Wang K, Wang C and others 2024. [A glucose-rich heteropolysaccharide from Marsdenia tenacissima (Roxb.) Wight et Arn. and its zinc-modified complex enhance immunoregulation by regulating TLR4-Myd88-NF-κB pathway](https://pubmed.ncbi.nlm.nih.gov/39537046/). *International journal of biological macromolecules*. PMID [39537046](https://pubmed.ncbi.nlm.nih.gov/39537046/) · [doi:10.1016/j.ijbiomac.2024.137529](https://doi.org/10.1016/j.ijbiomac.2024.137529)  
+  Demonstrated that a glucose-rich heteropolysaccharide and its zinc-modified complex enhance immunoregulation by activating the TLR4-MyD88-NF-kB signaling pathway.
+- Li R, Li L, Li R and others 2025. [Biomarker Discovery and Molecular Docking Reveal Marsdenia tenacissima Fermentation Product's Anti-Lung Cancer Components](https://pubmed.ncbi.nlm.nih.gov/40699827/). *Current issues in molecular biology*. PMID [40699827](https://pubmed.ncbi.nlm.nih.gov/40699827/) · [doi:10.3390/cimb47060427](https://doi.org/10.3390/cimb47060427)  
+  Identified key anti-lung cancer bioactive components from fermentation products of M. tenacissima through biomarker discovery and molecular docking approaches.
 
 ## Recent safety updates
 

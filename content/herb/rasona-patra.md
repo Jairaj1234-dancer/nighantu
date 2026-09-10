@@ -16,7 +16,7 @@ aliases: ["Allium sativum L. (leaves/greens)", "Rasona Patra", "RasonaPatra"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 652
+words: 693
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rasona-Patra/meta-analysis.md"
 ---
 ## Names and identification
@@ -52,9 +52,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rasona-Patra/meta-analysis.md
 
 ## What do recent clinical trials show?
 
-- **Valorization of garlic (Allium sativum L.) byproducts: Bioactive compounds, biological properties, and applications** (2025): Garlic leaves and stems contain significant bioactive sulfur compounds, flavonoids, and phenolic acids with demonstrated antioxidant and antimicrobial properties, establishing their value as functional food ingredients.
-- **Chemical Constituents and Pharmacological Activities of Garlic (Allium sativum L.): A Review** (2020): All parts of garlic including leaves contain organosulfur compounds with antioxidant, anti-inflammatory, and antimicrobial activities, though bulb preparations have been more extensively studied.
-- **Revealing the Therapeutic Uses of Garlic and Its Potential for Drug Discovery** (2022): Garlic foliage, flowers, and cloves all contain active sulfur compounds utilized in traditional medicine systems globally for diverse therapeutic applications.
+- Jain M, Patil N, Mohammed A and others 2025. [Valorization of garlic (Allium sativum L.) byproducts: Bioactive compounds, biological properties, and applications](https://pubmed.ncbi.nlm.nih.gov/40135462/). *Journal of food science*. PMID [40135462](https://pubmed.ncbi.nlm.nih.gov/40135462/) · [doi:10.1111/1750-3841.70152](https://doi.org/10.1111/1750-3841.70152)  
+  Garlic leaves and stems contain significant bioactive sulfur compounds, flavonoids, and phenolic acids with demonstrated antioxidant and antimicrobial properties, establishing their value as functional food ingredients.
+- El-Saber Batiha G, Magdy Beshbishy A, G Wasef L and others 2020. [Chemical Constituents and Pharmacological Activities of Garlic (Allium sativum L.): A Review](https://pubmed.ncbi.nlm.nih.gov/32213941/). *Nutrients*. PMID [32213941](https://pubmed.ncbi.nlm.nih.gov/32213941/) · [doi:10.3390/nu12030872](https://doi.org/10.3390/nu12030872)  
+  All parts of garlic including leaves contain organosulfur compounds with antioxidant, anti-inflammatory, and antimicrobial activities, though bulb preparations have been more extensively studied.
+- Tesfaye A 2021. [Revealing the Therapeutic Uses of Garlic (Allium sativum) and Its Potential for Drug Discovery](https://pubmed.ncbi.nlm.nih.gov/35002548/). *TheScientificWorldJournal*. PMID [35002548](https://pubmed.ncbi.nlm.nih.gov/35002548/) · [doi:10.1155/2021/8817288](https://doi.org/10.1155/2021/8817288)  
+  Garlic foliage, flowers, and cloves all contain active sulfur compounds utilized in traditional medicine systems globally for diverse therapeutic applications.
 
 ## Recent safety updates
 

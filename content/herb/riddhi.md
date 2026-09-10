@@ -16,7 +16,7 @@ aliases: ["Habenaria intermedia D. Don"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 643
+words: 557
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Riddhi/meta-analysis.md"
 ---
 ## Names and identification
@@ -52,9 +52,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Riddhi/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Pharmacognostic, physicochemical, phytochemical, nutraceutical evaluation and in vitro antioxidant potency of Habenaria intermedia D. Don** (2022): Comprehensive evaluation revealed high content of total phenols, thiamins, tannins, and calcium, with strong antioxidant and nitric oxide scavenging activity attributable to scopoletin and gallic acid.
-- **Pharmacognostical and phytochemical evaluation of rare and endangered Habenaria spp. (Riddhi and [Vriddhi](/nighantu/herb/vriddhi/))** (2022): Comparative pharmacognostical analysis of Riddhi (H. intermedia) and [Vriddhi](/nighantu/herb/vriddhi/) (H. edgeworthii) established authentication parameters and documented greater antioxidant potential of H. intermedia.
-- **Riddhi (Habenaria intermedia): ancient Ayurvedic significance and use in various Nighantu scriptures** (2021): Systematic review of Riddhi across Ayurvedic Nighantu texts documented its significance as an Ashtavarga member and compiled traditional indications for rejuvenation, immunity, and aphrodisiac properties.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

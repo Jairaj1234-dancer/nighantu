@@ -16,7 +16,7 @@ aliases: ["Aerva lanata (L.) Juss. ex Schult."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 531
+words: 518
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bhadra/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bhadra/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Aerva lanata: A Comprehensive Profile in the Pharmaceutical and Food Industries** (2023): Documented extensive phytochemical profile including canthin-6-one and beta-carboline alkaloids, flavonoids, phenolic acids, [steroids](/nighantu/glossary/compounds-q-t/#steroids), and [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids) with diverse pharmacological activities.
-- **Pharmacological Properties of the Plant Aerva lanata - A Comprehensive Review** (2022): Compiled evidence for anti-asthmatic, nephroprotective, antidiuretic, [antidiabetic](/nighantu/reference/antidiabetic/), antimicrobial, cytotoxic, anti-HIV, [immunomodulatory](/nighantu/reference/immunomodulatory/), anti-inflammatory, and antioxidant activities.
-- **Aerva lanata: A review on phytochemistry and pharmacological aspects** (2012): Documented diuretic, anti-inflammatory, hypoglycemic, antiparasitic, antimicrobial, [hepatoprotective](/nighantu/reference/hepatoprotective/), anti-urolithiasis, and antifertility properties with identification of key alkaloids and flavonoids.
+- Goyal M, Pareek A, Nagori BP and others 2011. [Aerva lanata: A review on phytochemistry and pharmacological aspects](https://pubmed.ncbi.nlm.nih.gov/22279378/). *Pharmacognosy reviews*. PMID [22279378](https://pubmed.ncbi.nlm.nih.gov/22279378/) · [doi:10.4103/0973-7847.91120](https://doi.org/10.4103/0973-7847.91120)  
+  Documented diuretic, anti-inflammatory, hypoglycemic, antiparasitic, antimicrobial, [hepatoprotective](/nighantu/reference/hepatoprotective/), anti-urolithiasis, and antifertility properties with identification of key alkaloids and flavonoids.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

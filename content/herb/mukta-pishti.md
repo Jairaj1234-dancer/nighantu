@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Pishtis"
-answer: "Mukta Pishti is a substance used in the Ayurvedic materia medica. Usual dose: 60–125 mg twice daily (Pishti); Bhasma: 30–60 mg. Demonstrated gastroprotective properties through multiple mechanisms. Mukta Pishti anxiolytic and cardiac studies (clinical practice evidence) (2023): Clinical practice evidence supports Mukta Pishti's use in anxiety, palpitations, and stress-related conditions."
+answer: "Mukta Pishti is a substance used in the Ayurvedic materia medica. Usual dose: 60–125 mg twice daily (Pishti); Bhasma: 30–60 mg. [Anti-ulcerogenic activity of the marine-pearl derived medicine mukta Pishti in Rat model of pylorus ligation-induced peptic ulcer](https://pubmed.ncbi.nlm.nih.gov/39828143/)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Mukta Pishti", "MuktaPishti"]
 tags: ["ayurveda", "pishti", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 521
+words: 520
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Mukta-Pishti/meta-analysis.md"
 ---
 ## Names and identification
@@ -39,8 +39,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Mukta-Pishti/meta-an
 
 ## What do recent clinical trials show?
 
-- **Anti-ulcerogenic activity of the marine-pearl derived medicine [Mukta Pishti](/nighantu/herb/mukta-pishti/) in rat model of pylorus ligation-induced peptic ulcer** (2025): [Mukta Pishti](/nighantu/herb/mukta-pishti/) treatment significantly reduced ulcer index in stomach region and protected against epithelial damages, hemorrhages, and edema induced by pylorus ligation. Demonstrated gastroprotective properties through multiple mechanisms.
-- **[Mukta Pishti](/nighantu/herb/mukta-pishti/) anxiolytic and cardiac studies (clinical practice evidence)** (2023): Clinical practice evidence supports [Mukta Pishti](/nighantu/herb/mukta-pishti/)'s use in anxiety, palpitations, and stress-related conditions. Conchiolin peptides are hypothesized to cross the blood-brain barrier, modulating neurotransmitter pathways including [serotonin](/nighantu/glossary/compounds-q-t/#serotonin) regulation. Reduces cortisol levels and improves sleep quality.
+- Balkrishna A, Sinha S, Shukla S and others 2025. [Anti-ulcerogenic activity of the marine-pearl derived medicine mukta Pishti in Rat model of pylorus ligation-induced peptic ulcer](https://pubmed.ncbi.nlm.nih.gov/39828143/). *Journal of ethnopharmacology*. PMID [39828143](https://pubmed.ncbi.nlm.nih.gov/39828143/) · [doi:10.1016/j.jep.2025.119378](https://doi.org/10.1016/j.jep.2025.119378)  
+  [Mukta Pishti](/nighantu/herb/mukta-pishti/) treatment significantly reduced ulcer index in stomach region and protected against epithelial damages, hemorrhages, and edema induced by pylorus ligation. Demonstrated gastroprotective properties through multiple mechanisms.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

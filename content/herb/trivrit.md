@@ -16,7 +16,7 @@ aliases: ["Operculina turpethum (L.) Silva Manso (syn. Ipomoea turpethum R. Br.)
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 566
+words: 554
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Trivrit/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Trivrit/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Operculina turpethum (Linn.) Silva Manso as a Medicinal Plant Species: A Review on Bioactive Components and Pharmacological Properties** (2017): Documented [antimicrobial](/nighantu/reference/antimicrobial/), antihepatotoxic, antinephrotoxic, antiulcer, antidiarrheal, [antidiabetic](/nighantu/reference/antidiabetic/), cytotoxic, [analgesic](/nighantu/reference/analgesic/), anti-arthritic, and anti-inflammatory activities.
-- **Phytochemistry and Pharmacological Properties of Operculina turpethum** (2020): Confirmed [laxative](/nighantu/reference/laxative/) activity of turpethein glycosides; identified scopoletin and lupeol as key anti-inflammatory compounds; documented [immunomodulatory](/nighantu/reference/immunomodulatory/) potential.
-- **A Comprehensive Review on Trivrit (Operculina turpethum syn. Ipomoea turpethum)** (2016): Validated multiple Ayurvedic uses including purgative, anti-helminthic, and anti-inflammatory applications; proposed turpethinic acids as primary purgative principles.
+- Gupta S, Ved A 2017. [Operculina turpethum (Linn.) Silva Manso as a Medicinal Plant Species: A Review on Bioactive Components and Pharmacological Properties](https://pubmed.ncbi.nlm.nih.gov/28989252/). *Pharmacognosy reviews*. PMID [28989252](https://pubmed.ncbi.nlm.nih.gov/28989252/) · [doi:10.4103/phrev.phrev_6_17](https://doi.org/10.4103/phrev.phrev_6_17)  
+  Documented [antimicrobial](/nighantu/reference/antimicrobial/), antihepatotoxic, antinephrotoxic, antiulcer, antidiarrheal, [antidiabetic](/nighantu/reference/antidiabetic/), cytotoxic, [analgesic](/nighantu/reference/analgesic/), anti-arthritic, and anti-inflammatory activities.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

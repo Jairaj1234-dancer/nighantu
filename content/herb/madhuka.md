@@ -16,7 +16,7 @@ aliases: ["Madhuca longifolia (J.Koenig ex L.) J.F.Macbr."]
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 637
+words: 653
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Madhuka/meta-analysis.md"
 ---
 ## Names and identification
@@ -57,9 +57,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Madhuka/meta-analysis.md
 
 ## What do recent clinical trials show?
 
-- **Evaluation of Antibacterial Activity of Madhuca longifolia (Mahua) Stem Extract Against Streptococcus mutans: An In Vitro Study** (2024): Madhuca longifolia stem extract demonstrated significant antibacterial activity against Streptococcus mutans, validating traditional use for oral health and dental hygiene.
-- **Madhuca indica: A Review on the Phytochemical and Pharmacological Aspects** (2023): Documented antiulcer, anti-inflammatory, [antioxidant](/nighantu/reference/antioxidant/), antidiabetic, hepatoprotective, [anticancer](/nighantu/reference/anticancer/), [cardioprotective](/nighantu/reference/cardioprotective/) and [immunomodulatory](/nighantu/reference/immunomodulatory/) activities with non-toxic profile even at high doses.
-- **Exploring the therapeutic potential of Madhuca longifolia in traditional Chinese medicine for management of kidney stones and various diseases** (2024): Bark and seed extracts showed significant antiurolithiatic potential through inhibition of calcium oxalate crystal nucleation and aggregation in in vitro and in vivo models.
+- Fatma A, Ahuja V, Ahuja A and others 2024. [Evaluation of Antibacterial Activity of Madhuca longifolia (Mahua) Stem Extract Against Streptococcus mutans: An In Vitro Study](https://pubmed.ncbi.nlm.nih.gov/38348007/). *Cureus*. PMID [38348007](https://pubmed.ncbi.nlm.nih.gov/38348007/) · [doi:10.7759/cureus.52210](https://doi.org/10.7759/cureus.52210)  
+  Madhuca longifolia stem extract demonstrated significant antibacterial activity against Streptococcus mutans, validating traditional use for oral health and dental hygiene.
+- Roat P, Hada S, Chechani B and others 2023. [Madhuca indica: A Review on the Phytochemical and Pharmacological Aspects](https://pubmed.ncbi.nlm.nih.gov/37313437/). *Pharmaceutical chemistry journal*. PMID [37313437](https://pubmed.ncbi.nlm.nih.gov/37313437/) · [doi:10.1007/s11094-023-02878-1](https://doi.org/10.1007/s11094-023-02878-1)  
+  Documented antiulcer, anti-inflammatory, [antioxidant](/nighantu/reference/antioxidant/), antidiabetic, hepatoprotective, [anticancer](/nighantu/reference/anticancer/), [cardioprotective](/nighantu/reference/cardioprotective/) and [immunomodulatory](/nighantu/reference/immunomodulatory/) activities with non-toxic profile even at high doses.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

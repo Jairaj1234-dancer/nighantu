@@ -16,7 +16,7 @@ aliases: ["Tila", "Sesamum indicum", "Sesamum indicum L.", "Sesame", "Til"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 649
+words: 684
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tila/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tila/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Efficacy and classification of Sesamum indicum linn seeds with Rosa damascena mill oil in uncomplicated pelvic inflammatory disease using machine learning** (2024): Clinical study demonstrated therapeutic efficacy and safety of sesame seeds with Rosa damascena oil in uncomplicated pelvic inflammatory disease, with machine learning analysis for patient classification.
-- **Sesamol derivatives as NRF2 activators for protection against drug-induced liver injury** (2024): Computational study identified novel sesamol derivatives as potent NRF2 activators with potential hepatoprotective applications against drug-induced liver injury.
-- **Sesame (Sesamum indicum L.): A Comprehensive Review of Nutritional Value, Phytochemical Composition, Health Benefits** (2023): Extensive review documenting sesamin and sesamolin as key bioactive [lignans](/nighantu/glossary/compounds-g-l/#lignans) with proven antioxidant, antimutagenic, estrogenic, anti-inflammatory, [antimicrobial](/nighantu/reference/antimicrobial/), and [hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic) properties.
+- Sumbul, Sultana A, Heyat MBB and others 2024. [Efficacy and classification of Sesamum indicum linn seeds with Rosa damascena mill oil in uncomplicated pelvic inflammatory disease using machine learning](https://pubmed.ncbi.nlm.nih.gov/38629105/). *Frontiers in chemistry*. PMID [38629105](https://pubmed.ncbi.nlm.nih.gov/38629105/) · [doi:10.3389/fchem.2024.1361980](https://doi.org/10.3389/fchem.2024.1361980)  
+  Clinical study demonstrated therapeutic efficacy and safety of sesame seeds with Rosa damascena oil in uncomplicated pelvic inflammatory disease, with machine learning analysis for patient classification.
+- Wei P, Zhao F, Wang Z and others 2022. [Sesame (Sesamum indicum L.): A Comprehensive Review of Nutritional Value, Phytochemical Composition, Health Benefits, Development of Food, and Industrial Applications](https://pubmed.ncbi.nlm.nih.gov/36235731/). *Nutrients*. PMID [36235731](https://pubmed.ncbi.nlm.nih.gov/36235731/) · [doi:10.3390/nu14194079](https://doi.org/10.3390/nu14194079)  
+  Extensive review documenting sesamin and sesamolin as key bioactive [lignans](/nighantu/glossary/compounds-g-l/#lignans) with proven antioxidant, antimutagenic, estrogenic, anti-inflammatory, [antimicrobial](/nighantu/reference/antimicrobial/), and [hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic) properties.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

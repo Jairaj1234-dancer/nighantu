@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Bhasmas"
-answer: "Gomeda Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg. Bhasma form showed enhanced bioavailability compared to raw gemstone. Nanoparticulate characteristics observed after proper calcination. Bhasma: The ancient Indian nanomedicine - comprehensive review (2014): Gemstone Bhasmas including Gomeda described as non-toxic nanomedicines when prepared following classical Ayurvedic processes."
+answer: "Gomeda Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg. [Bhasma : The ancient Indian nanomedicine](https://pubmed.ncbi.nlm.nih.gov/24696811/). Journal of advanced pharmaceutical technology & research. PMID [24696811](https://pubmed.ncbi.nlm.nih.gov/24696811/) · [doi:10.4103/2231-4040.126980](https://doi.org/10.4103/2231-4040.126980) Gemstone Bhasmas including Gomeda described as non-toxic nanomedicines when prepared following classical Ayurvedic processes."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Gomeda Bhasma", "GomedaBhasma"]
 tags: ["ayurveda", "bhasma", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 420
+words: 406
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Gomeda-Bhasma/meta-analysis.md"
 ---
 ## Names and identification
@@ -48,9 +48,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Gomeda-Bhasma/meta-a
 
 ## What do recent clinical trials show?
 
-- **Characterization of Gomed Mani Bhasma - physicochemical analysis** (2018): Analytical characterization confirmed calcium aluminium silicate composition. Bhasma form showed enhanced bioavailability compared to raw gemstone. Nanoparticulate characteristics observed after proper calcination.
-- **Bhasma: The ancient Indian nanomedicine - comprehensive review** (2014): Gemstone Bhasmas including Gomeda described as non-toxic nanomedicines when prepared following classical Ayurvedic processes. The incineration process is key to converting toxic starting materials to safe therapeutic forms.
-- **Ayurvedic therapeutic evaluation of Gomed in neurological and cardiac conditions** (2019): Traditional therapeutic claims for neurological (epilepsy, paralysis, insomnia) and cardiac (palpitation, arrhythmia) conditions documented through clinical practice observations.
+- Pal D, Sahu CK, Haldar A 2014. [Bhasma : The ancient Indian nanomedicine](https://pubmed.ncbi.nlm.nih.gov/24696811/). *Journal of advanced pharmaceutical technology & research*. PMID [24696811](https://pubmed.ncbi.nlm.nih.gov/24696811/) · [doi:10.4103/2231-4040.126980](https://doi.org/10.4103/2231-4040.126980)  
+  Gemstone Bhasmas including Gomeda described as non-toxic nanomedicines when prepared following classical Ayurvedic processes. The incineration process is key to converting toxic starting materials to safe therapeutic forms.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

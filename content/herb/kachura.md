@@ -16,7 +16,7 @@ aliases: ["Curcuma zedoaria (Christm.) Roscoe"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 549
+words: 499
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kachura/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kachura/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Proliferative Effects of Curcuma zedoaria Extract on Ovarian Tumor Cells** (2025): Investigated antiproliferative effects on ovarian cancer cells, contributing to understanding of dose-dependent anticancer mechanisms of zedoaria extracts.
-- **Phytochemical Assessment and Pharmacological Evaluation of Curcuma zedoaria Methanolic Extract** (2024): Documented comprehensive phytochemical profile and evaluated cardioprotective potential against cyclophosphamide-induced cardiotoxicity in animal models.
-- **Germacrone from Curcuma zedoaria: cardioprotective effects against isoproterenol-induced cardiac injury** (2024): Demonstrated that germacrone attenuates oxidative stress, apoptosis, inflammation, and cardiac remodeling in isoproterenol-induced cardiac injury models.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

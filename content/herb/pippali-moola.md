@@ -16,7 +16,7 @@ aliases: ["Piper longum L. (root)", "Pippali Moola", "PippaliMoola"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 642
+words: 608
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Pippali-Moola/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Pippali-Moola/meta-analysis.m
 
 ## What do recent clinical trials show?
 
-- **Safety and efficacy of Piper longum L. for acute respiratory infections: A systematic review** (2025): Systematic review evaluating safety and efficacy of Piper longum preparations for acute respiratory infections; found no good quality RCTs comparing to placebo, highlighting need for controlled clinical trials.
-- **Piper longum L.: A comprehensive review on traditional uses, phytochemistry, pharmacology, and health-promoting activities** (2022): Essential oils from roots and fruits documented as [antimicrobial](/nighantu/reference/antimicrobial/), antiparasitic, anti-inflammatory, [analgesic](/nighantu/reference/analgesic/), antioxidant, [anticancer](/nighantu/reference/anticancer/), [neuroprotective](/nighantu/reference/neuroprotective/), [hepatoprotective](/nighantu/reference/hepatoprotective/), and immunomodulatory agents.
-- **Bioactives and Lipase Inhibitors from Underutilized Part of Piper longum: A Sustainable Source for Pseudoalkaloids and Alkamides** (2024): Root (Pipermoola) identified as therapeutically valuable nutraceutical source due to pseudoalkaloids and alkamides with lipase inhibitory activity, supporting anti-obesity potential.
+- Biswas P, Ghorai M, Mishra T and others 2022. [Piper longum L.: A comprehensive review on traditional uses, phytochemistry, pharmacology, and health-promoting activities](https://pubmed.ncbi.nlm.nih.gov/36256521/). *Phytotherapy research : PTR*. PMID [36256521](https://pubmed.ncbi.nlm.nih.gov/36256521/) · [doi:10.1002/ptr.7649](https://doi.org/10.1002/ptr.7649)  
+  Essential oils from roots and fruits documented as [antimicrobial](/nighantu/reference/antimicrobial/), antiparasitic, anti-inflammatory, [analgesic](/nighantu/reference/analgesic/), antioxidant, [anticancer](/nighantu/reference/anticancer/), [neuroprotective](/nighantu/reference/neuroprotective/), [hepatoprotective](/nighantu/reference/hepatoprotective/), and immunomodulatory agents.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

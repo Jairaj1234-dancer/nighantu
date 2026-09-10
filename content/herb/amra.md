@@ -16,7 +16,7 @@ aliases: ["Mangifera indica L."]
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 614
+words: 657
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Amra/meta-analysis.md"
 ---
 ## Names and identification
@@ -57,9 +57,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Amra/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **A Review on Ethnopharmacological Applications, Pharmacological Activities, and Bioactive Compounds of Mangifera indica (Mango)** (2023): Documented anticancer, anti-inflammatory, antidiabetic, antioxidant, antibacterial, gastroprotective, [hepatoprotective](/nighantu/reference/hepatoprotective/) and [immunomodulatory](/nighantu/reference/immunomodulatory/) activities attributed primarily to mangiferin and gallotannins.
-- **Nutritional and medicinal values of Mangifera indica L. fruit** (2024): Mangiferin demonstrated potent antidiabetic activity through AMPK activation, improved [glucose](/nighantu/glossary/compounds-d-g/#glucose) uptake and insulin sensitization in adipocytes and hepatocytes.
-- **Pharmacological Activities of Mango (Mangifera indica): A Comprehensive Review** (2024): Leaf and bark extracts showed significant anticancer activity in MCF-7 breast cancer and HeLa cervical cancer cell lines through apoptosis induction via caspase-3 activation.
+- Ediriweera MK, Tennekoon KH, Samarakoon SR 2017. [A Review on Ethnopharmacological Applications, Pharmacological Activities, and Bioactive Compounds of Mangifera indica (Mango)](https://pubmed.ncbi.nlm.nih.gov/29456572/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [29456572](https://pubmed.ncbi.nlm.nih.gov/29456572/) · [doi:10.1155/2017/6949835](https://doi.org/10.1155/2017/6949835)  
+  Documented anticancer, anti-inflammatory, antidiabetic, antioxidant, antibacterial, gastroprotective, [hepatoprotective](/nighantu/reference/hepatoprotective/) and [immunomodulatory](/nighantu/reference/immunomodulatory/) activities attributed primarily to mangiferin and gallotannins.
+- Ediriweera MK, Tennekoon KH, Samarakoon SR 2017. [A Review on Ethnopharmacological Applications, Pharmacological Activities, and Bioactive Compounds of Mangifera indica (Mango)](https://pubmed.ncbi.nlm.nih.gov/29456572/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [29456572](https://pubmed.ncbi.nlm.nih.gov/29456572/) · [doi:10.1155/2017/6949835](https://doi.org/10.1155/2017/6949835)  
+  Leaf and bark extracts showed significant anticancer activity in MCF-7 breast cancer and HeLa cervical cancer cell lines through apoptosis induction via caspase-3 activation.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

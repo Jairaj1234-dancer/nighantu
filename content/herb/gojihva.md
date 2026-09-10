@@ -16,7 +16,7 @@ aliases: ["Onosma bracteatum Wall."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 626
+words: 654
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gojihva/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gojihva/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Bioactivity guided phytochemical investigations of Onosma bracteatum Wall - a controversial species of Gojihva** (2023): PhD thesis documenting bioactivity-guided isolation of three new compounds along with 34 known compounds from the plant, establishing its phytochemical fingerprint.
-- **Ethnobotanical, Phytochemistry, and Pharmacological Activity of Onosma (Boraginaceae): An Updated Review** (2022): Comprehensive review identifying shikonins and onosmins as the most significant bioactive constituents with potent anticancer, anti-inflammatory, and antimicrobial properties.
-- **Onosma L. as a source of anticancer agents: phytochemistry to mechanistic insight** (2022): Reviewed anticancer potential of Onosma species with mechanistic insights into naphthoquinone-mediated apoptosis induction and cell cycle arrest in cancer cells.
+- Jabbar AA, Abdullah FO, Hassan AO and others 2022. [Ethnobotanical, Phytochemistry, and Pharmacological Activity of Onosma (Boraginaceae): An Updated Review](https://pubmed.ncbi.nlm.nih.gov/36557820/). *Molecules (Basel, Switzerland)*. PMID [36557820](https://pubmed.ncbi.nlm.nih.gov/36557820/) · [doi:10.3390/molecules27248687](https://doi.org/10.3390/molecules27248687)  
+  Comprehensive review identifying shikonins and onosmins as the most significant bioactive constituents with potent anticancer, anti-inflammatory, and antimicrobial properties.
+- Kumar A, Attri S, Kaur S and others 2022. [Onosma L. as a source of anticancer agents: phytochemistry to mechanistic insight](https://pubmed.ncbi.nlm.nih.gov/36338520/). *Exploration of targeted anti-tumor therapy*. PMID [36338520](https://pubmed.ncbi.nlm.nih.gov/36338520/) · [doi:10.37349/etat.2022.00109](https://doi.org/10.37349/etat.2022.00109)  
+  Reviewed anticancer potential of Onosma species with mechanistic insights into naphthoquinone-mediated apoptosis induction and cell cycle arrest in cancer cells.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

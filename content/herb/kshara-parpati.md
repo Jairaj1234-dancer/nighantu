@@ -16,7 +16,7 @@ aliases: ["Kshara Parpati", "KsharaParpati"]
 tags: ["ayurveda", "rasa-shastra", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 415
+words: 381
 srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Kshara-Parpati/meta-analysis.md"
 ---
 ## Names and identification
@@ -45,8 +45,9 @@ Siddha Yoga Sangraha, Ashmari Mutrakrichra Adhikara (Urinary Stones and Dysuria 
 
 ## What do recent clinical trials show?
 
-- **Pharmaceutical review study of Shweta Parpati on Mutrakrichra** (2019): Pharmaceutical review confirmed the standardized preparation method for [Kshara Parpati](/nighantu/herb/kshara-parpati/) (Shweta Parpati) and its efficacy in urinary disorders based on traditional evidence
-- **Comparative study of Badarashma Pishti and [Kshara Parpati](/nighantu/herb/kshara-parpati/) in management of Mutrashmari (urinary calculi)** (2018): Comparative study showed [Kshara Parpati](/nighantu/herb/kshara-parpati/) effective in management of urinary calculi with diuretic and litholytic properties
+
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

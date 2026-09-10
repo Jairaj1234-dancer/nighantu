@@ -16,7 +16,7 @@ aliases: ["Punarnavadi Guggulu", "PunarnavadiGuggulu"]
 tags: ["ayurveda", "formulation", "guggulu", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 532
+words: 568
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Punarnavadi-Guggulu/meta-analysis.md"
 ---
 ## Names and identification
@@ -55,9 +55,12 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 
 ## What do recent clinical trials show?
 
-- **Effects of Ayurvedic treatment on 100 patients of chronic renal failure (other than diabetic nephropathy)** (2012): Study of 100 CRF patients showed serum creatinine reduced by 20.71%, blood urea reduced by 36.15%, albuminuria reduced by 36.70%, hemoglobin increased by 4.65%, and edema reduced by 71.56%.
-- **Combined Efficacy of Kaishore [Guggulu](/nighantu/formulation/guggulu/) and Punarnavadi [Guggulu](/nighantu/formulation/guggulu/)|Punarnavadi Guggulu in Management of Vatarakta (Gout)** (2018): Case series demonstrated significant improvement in gout symptoms when Punarnavadi [Guggulu](/nighantu/formulation/guggulu/)|Punarnavadi Guggulu was combined with Kaishore [Guggulu](/nighantu/formulation/guggulu/) over a treatment period.
-- **Clinical comparative study of management of chronic renal failure with Punarnavadi compound** (2010): Small study (N=30) found reduced ankle swelling within three weeks, improved kidney filtration capacity, and cleansed urinary tract with healthy urine output support.
+- Patel MV, Gupta SN, Patel NG 2011. [Effects of Ayurvedic treatment on 100 patients of chronic renal failure (other than diabetic nephropathy)](https://pubmed.ncbi.nlm.nih.gov/22661841/). *Ayu*. PMID [22661841](https://pubmed.ncbi.nlm.nih.gov/22661841/) · [doi:10.4103/0974-8520.96120](https://doi.org/10.4103/0974-8520.96120)  
+  Study of 100 CRF patients showed serum creatinine reduced by 20.71%, blood urea reduced by 36.15%, albuminuria reduced by 36.70%, hemoglobin increased by 4.65%, and edema reduced by 71.56%.
+- Prashanth GS, Baghel MS, Ravishankar B and others 2010. [A clinical comparative study of the management of chronic renal failure with Punarnavadi compound](https://pubmed.ncbi.nlm.nih.gov/22131708/). *Ayu*. PMID [22131708](https://pubmed.ncbi.nlm.nih.gov/22131708/) · [doi:10.4103/0974-8520.72388](https://doi.org/10.4103/0974-8520.72388)  
+  Small study (N=30) found reduced ankle swelling within three weeks, improved kidney filtration capacity, and cleansed urinary tract with healthy urine output support.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: ["Guloochyadi Kashayam", "GuloochyadiKashayam"]
 tags: ["ayurveda", "formulation", "kashayam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 472
+words: 434
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Guloochyadi-Kashayam/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,9 @@ Sharangdhara Samhita Madhyamakhanda 2/8; Astanga Hridayam. Earliest explicit men
 
 ## What do recent clinical trials show?
 
-- **Randomized trial of Guduchyadi Kashayam on NK cell markers** (2018): 15% increase in natural killer cell markers among healthy volunteers taking 30 ml twice daily for 60 days, compared to placebo.
-- **Pharmacological potential of Guduchyadi Kwatham in combating COVID-19** (2020): Network pharmacology analysis identified multiple anti-inflammatory, antiviral, and immunomodulatory pathways through which the formulation could combat viral infections.
-- **Anti-inflammatory effects of Guduchyadi Kashayam in mild IBD** (2021): Double-blind trial showed 15% reduction in serum C-reactive protein in mild inflammatory bowel disease patients.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

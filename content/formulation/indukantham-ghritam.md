@@ -16,7 +16,7 @@ aliases: ["Indukantham Ghritam", "IndukanthamGhritam"]
 tags: ["ayurveda", "formulation", "ghritam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 543
+words: 547
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Indukantham-Ghritam/meta-analysis.md"
 ---
 ## Names and identification
@@ -58,9 +58,10 @@ Sahasrayogam (ancient classical Ayurvedic text from Kerala tradition); mentioned
 
 ## What do recent clinical trials show?
 
-- **Indukanta Ghritam - A Review** (2021): Comprehensive review established gastroprotective, [antioxidant](/nighantu/reference/antioxidant/), and immunomodulatory activities of individual ingredients, proposing modes of action in acid peptic disorders
-- **A polyherbal ayurvedic drug - Indukantha Ghritha as an adjuvant to cancer chemotherapy via immunomodulation** (2008): Indukantha Ghritha demonstrated potential as an adjuvant to cancer chemotherapy through immunomodulatory action, supporting immune function during cytotoxic treatment
-- **Screening of activities of individual ingredients of Indukanta Ghritam for acid peptic disorders** (2021): Individual herb activities validated gastroprotective mechanisms including acid neutralization, mucosal protection, and digestive stimulation
+- George SK, Rajesh R, Kumar S S and others 2008. [A polyherbal ayurvedic drug--Indukantha Ghritha as an adjuvant to cancer chemotherapy via immunomodulation](https://pubmed.ncbi.nlm.nih.gov/18765169/). *Immunobiology*. PMID [18765169](https://pubmed.ncbi.nlm.nih.gov/18765169/) · [doi:10.1016/j.imbio.2008.02.004](https://doi.org/10.1016/j.imbio.2008.02.004)  
+  Indukantha Ghritha demonstrated potential as an adjuvant to cancer chemotherapy through immunomodulatory action, supporting immune function during cytotoxic treatment
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: ["Triphala Guggulu", "TriphalaGuggulu"]
 tags: ["ayurveda", "formulation", "guggulu", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 606
+words: 601
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Triphala-Guggulu/meta-analysis.md"
 ---
 ## Names and identification
@@ -54,10 +54,12 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also described in Sushruta Sa
 
 ## What do recent clinical trials show?
 
-- **The Anti-Obesity Effects of [Triphala](/nighantu/herb/triphala/) and [Triphala](/nighantu/herb/triphala/) Guggul: A Systematic Review and Meta-Analysis of Clinical Trials** (2025): Systematic review and meta-analysis of clinical trials from PubMed, Scopus, and Web of Science confirmed anti-obesity potential, though some individual trials showed mixed results on lipid parameters.
-- **Anti-obesity Effects of Triphala at Biochemical and Molecular Level in High-Fat Diet-induced Obese Rats** (2024): All Triphala-treated groups showed significant decrease in body weight, serum glucose, total cholesterol, triglycerides, leptin, IL-6, CRP, and MDA levels, with increased HDL, adiponectin, SOD, serotonin, and dopamine.
-- **Network Pharmacology Revealing the Therapeutic Potential of Bioactive Components of Triphala against Obesity** (2024): Triphala bioactive compounds show strong binding affinity to AKT1 and PPARG receptors central to insulin signaling, lipid metabolism, and inflammation; suppression of PI3K/Akt pathway may inhibit adipogenesis.
-- **[Guggulu](/nighantu/formulation/guggulu/) and Triphala for the Treatment of Hypercholesterolaemia: A Placebo-Controlled, Double-Blind, Randomised Trial** (2020): Three months of treatment did not show statistically superior effects versus placebo on total and LDL cholesterol, BMI, and waist circumference, indicating need for longer treatment duration or higher doses.
+- Inpan R, Sakuludomkan C, Na Takuathung M and others 2024. [Network Pharmacology Revealing the Therapeutic Potential of Bioactive Components of Triphala and Their Molecular Mechanisms against Obesity](https://pubmed.ncbi.nlm.nih.gov/39409084/). *International journal of molecular sciences*. PMID [39409084](https://pubmed.ncbi.nlm.nih.gov/39409084/) · [doi:10.3390/ijms251910755](https://doi.org/10.3390/ijms251910755)  
+  Triphala bioactive compounds show strong binding affinity to AKT1 and PPARG receptors central to insulin signaling, lipid metabolism, and inflammation; suppression of PI3K/Akt pathway may inhibit adipogenesis.
+- Donato F, Raffetti E, Toninelli G and others 2021. [Guggulu and Triphala for the Treatment of Hypercholesterolaemia: A Placebo-Controlled, Double-Blind, Randomised Trial](https://pubmed.ncbi.nlm.nih.gov/33242870/). *Complementary medicine research*. PMID [33242870](https://pubmed.ncbi.nlm.nih.gov/33242870/) · [doi:10.1159/000510985](https://doi.org/10.1159/000510985)  
+  Three months of treatment did not show statistically superior effects versus placebo on total and LDL cholesterol, BMI, and waist circumference, indicating need for longer treatment duration or higher doses.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

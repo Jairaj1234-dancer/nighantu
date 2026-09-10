@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Salts-Minerals-Metals"
 group: "Vida-Lavana"
-answer: "Vida Lavana is a substance used in the Ayurvedic materia medica. Usual dose: 0.5–2 g in formulations. However, studies on black salt remain sparse compared to Himalayan pink salt."
+answer: "Vida Lavana is a substance used in the Ayurvedic materia medica. Usual dose: 0.5–2 g in formulations. An absence here means we could not identify the source, not that no work exists."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Vida Lavana", "VidaLavana"]
 tags: ["ayurveda", "mineral", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 501
+words: 408
 srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Vida-Lavana/meta-analysis.md"
 ---
 ## Names and identification
@@ -52,9 +52,9 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Vida-Lavana/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **The Untold Health Benefits of Herbal Black Salt (Kala Namak): A Scientific Overview** (2024): Herbal black salt contains lower sodium content than table salt and is rich in iron, calcium, and magnesium; sulfur compounds provide digestive stimulation and [antimicrobial](/nighantu/reference/antimicrobial/) activity. However, studies on black salt remain sparse compared to Himalayan pink salt.
-- **[Vida Lavana](/nighantu/herb/vida-lavana/) (Manihari Namak) - The Natural Ayurvedic Salt for Balance** (2024): [Vida Lavana](/nighantu/herb/vida-lavana/) is traditionally used as a digestive balancer; its unique preparation with alkaline processing creates therapeutic sulfur compounds not found in natural salts.
-- **Salt in Ayurveda: Comparative Analysis of Pancha Lavana** (2023): [Vida Lavana](/nighantu/herb/vida-lavana/) demonstrated the highest anti-flatulent activity among the Pancha Lavana due to its sulfide content; iron compounds contribute to mild anti-anemic effects.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Churnas-Powders"
-answer: "Pushyanuga Churna is a classical Ayurvedic churna, a fine herbal powder. The usual dose is 3-6g twice daily for gynecological conditions. Clinical evaluation of Pushyanuga Choorna and Lodhrasava in Rakta Pradara (DUB) (2007): Of 46 cases studied, 29.26% showed good response, 39.02% fair response, 21.95% poor response; treatment was highly significant (P<0.001) in reduction of uterine hemorrhage."
+answer: "Pushyanuga Churna is a classical Ayurvedic churna, a fine herbal powder. The usual dose is 3-6g twice daily for gynecological conditions. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Pushyanuga Churna", "PushyanugaChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 681
+words: 576
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Pushyanuga-Churna/meta-analysis.md"
 ---
 ## Names and identification
@@ -72,10 +72,9 @@ Charaka Samhita (Chikitsa Sthana, Chapter 30 - Yonivyapad Chikitsa); one of the 
 
 ## What do recent clinical trials show?
 
-- **Critical review of efficacy of Pushyanug Churna in Raktapradara (excessive menstrual bleeding)** (2024): Review confirmed astringent and hemostatic mechanisms of [Pushyanuga Churna](/nighantu/formulation/pushyanuga-churna/) ingredients, with most components exhibiting Kashaya and Tikta Rasa, Laghu and Ruksha Guna, and Sheeta Veerya supporting hemostatic action.
-- **Clinical evaluation of Pushyanuga Choorna and Lodhrasava in Rakta Pradara (DUB)** (2007): Of 46 cases studied, 29.26% showed good response, 39.02% fair response, 21.95% poor response; treatment was highly significant (P<0.001) in reduction of uterine hemorrhage.
-- **Hormonal mechanism study: [Lodhra](/nighantu/herb/lodhra/) (Symplocos racemosa) ethanolic extract effect on reproductive hormones** (2019): Ethanolic extract of Symplocos racemosa triggers hypothalamus to produce FSH and LH hormones, resulting in progesterone production and controlling bleeding through hormonal regulation.
-- **Antimicrobial screening of Pushyanug Churna against gynecological pathogens** (2018): Formulation demonstrated effectiveness against S. epidermidis, P. vulgaris, S. aureus, E. coli, P. aeruginosa, and S. typhi, plus antifungal activities relevant to female genitourinary infections.
+
+
+*4 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

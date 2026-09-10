@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Ishwari (Aristolochia indica L.) is a plant used in Ayurveda, from the Aristolochiaceae family. Usual dose: 1-3g powder twice daily; 30-60ml decoction. IARC Monographs on Aristolochic Acid Species - Group 1 Classification (2024): Reaffirmed IARC Group 1 classification (sufficient evidence of carcinogenicity in humans) for aristolochic acids; linked to Balkan endemic nephropathy and urothelial cancers worldwide."
+answer: "Ishwari (Aristolochia indica L.) is a plant used in Ayurveda, from the Aristolochiaceae family. Usual dose: 1-3g powder twice daily; 30-60ml decoction. [Characterization of the aqueous extract of the root of Aristolochia indica: evaluation of its traditional use as an antidote for snake bites](https://pubmed.ncbi.nlm.nih.gov/23174522/)."
 botanical: "Aristolochia indica L."
 family: "Aristolochiaceae"
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Aristolochia indica L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 624
+words: 598
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ishwari/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ishwari/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Herbal products containing aristolochic acids: A call to revisit the context of safety** (2023): Called for comprehensive safety reassessment of all herbal products containing aristolochic acids; emphasized that even low-dose chronic exposure poses significant cancer and nephrotoxicity risk.
-- **Characterization of the aqueous extract of the root of Aristolochia indica: evaluation as an antidote for snake bites** (2023): Identified aristolochic acid content of root extract as 3.08 +/- 1.88 x 10^-3 mg/mL; acute and sub-chronic studies showed no toxicity at lower doses, but high doses caused liver and kidney damage.
-- **IARC Monographs on Aristolochic Acid Species - Group 1 Classification** (2024): Reaffirmed IARC Group 1 classification (sufficient evidence of carcinogenicity in humans) for aristolochic acids; linked to Balkan endemic nephropathy and urothelial cancers worldwide.
+- Bhattacharjee P, Bhattacharyya D 2013. [Characterization of the aqueous extract of the root of Aristolochia indica: evaluation of its traditional use as an antidote for snake bites](https://pubmed.ncbi.nlm.nih.gov/23174522/). *Journal of ethnopharmacology*. PMID [23174522](https://pubmed.ncbi.nlm.nih.gov/23174522/) · [doi:10.1016/j.jep.2012.10.056](https://doi.org/10.1016/j.jep.2012.10.056)  
+  Identified aristolochic acid content of root extract as 3.08 +/- 1.88 x 10^-3 mg/mL; acute and sub-chronic studies showed no toxicity at lower doses, but high doses caused liver and kidney damage.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

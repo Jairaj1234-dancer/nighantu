@@ -16,7 +16,7 @@ aliases: ["Twak", "Twak Cinnamon", "Twak-Cinnamon", "TwakCinnamon", "Cinnamomum 
 tags: ["ayurveda", "herb", "single-herb", "kitchen-spices-culinary", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 858
+words: 924
 srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Twak-Cinnamon/meta-analysis.md"
 ---
 ## Names and identification
@@ -55,11 +55,16 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Twak-Cinnamon/meta-
 
 ## What do recent clinical trials show?
 
-- **The effects of cinnamon on patients with metabolic diseases: an umbrella review of meta-analyses of randomized controlled trials** (2025): Comprehensive umbrella review across PubMed, Web of Science, Embase, Scopus, and Cochrane Library (up to March 2025) confirmed cinnamon supplementation improves metabolic parameters in diabetes, metabolic syndrome, PCOS, NAFLD, and hypertension.
-- **Safety of Cinnamon: An Umbrella Review of Meta-Analyses and Systematic Reviews of Randomized Clinical Trials** (2022): Systematic safety review found cinnamon supplementation to be generally safe in clinical trial settings with no serious adverse events reported; confirmed anti-inflammatory, antioxidant, and metabolic benefits.
-- **Analysis of the effectiveness of cinnamon (Cinnamomum verum) in the reduction of glycemic and lipid levels in Type 2 Diabetes** (2020): Phase II double-blind, placebo-controlled trial of 3 grams/day Cinnamomum verum for 90 days showed significant reductions in glycemic and lipid levels in adults with type 2 diabetes.
-- **Cinnamon as a Complementary Therapeutic Approach for Dysglycemia and Dyslipidemia Control in Type 2 Diabetes Mellitus** (2022): Reviewed molecular mechanisms of cinnamon's [antidiabetic](/nighantu/reference/antidiabetic/) activity: enhances insulin receptor signaling, increases GLUT4 translocation, activates AMPK pathway, and inhibits alpha-glucosidase.
-- **The therapeutic perspective of cinnamon (Cinnamomum verum) consumption against metabolic syndrome** (2024): Demonstrated diverse pharmacological properties including antioxidant, anti-inflammatory, [antitumor](/nighantu/glossary/pharmacology/#antitumor), [immunomodulatory](/nighantu/reference/immunomodulatory/), antidiabetic, and lipid-lowering effects, positioning cinnamon as a complementary therapeutic agent for metabolic syndrome.
+- Gou H, Zhong L, Wei Q and others 2025. [The effects of cinnamon on patients with metabolic diseases: an umbrella review of meta-analyses of randomized controlled trials](https://pubmed.ncbi.nlm.nih.gov/41256917/). *Frontiers in nutrition*. PMID [41256917](https://pubmed.ncbi.nlm.nih.gov/41256917/) · [doi:10.3389/fnut.2025.1683477](https://doi.org/10.3389/fnut.2025.1683477)  
+  Comprehensive umbrella review across PubMed, Web of Science, Embase, Scopus, and Cochrane Library (up to March 2025) confirmed cinnamon supplementation improves metabolic parameters in diabetes, metabolic syndrome, PCOS, NAFLD, and hypertension.
+- Gu DT, Tung TH, Jiesisibieke ZL and others 2021. [Safety of Cinnamon: An Umbrella Review of Meta-Analyses and Systematic Reviews of Randomized Clinical Trials](https://pubmed.ncbi.nlm.nih.gov/35115937/). *Frontiers in pharmacology*. PMID [35115937](https://pubmed.ncbi.nlm.nih.gov/35115937/) · [doi:10.3389/fphar.2021.790901](https://doi.org/10.3389/fphar.2021.790901)  
+  Systematic safety review found cinnamon supplementation to be generally safe in clinical trial settings with no serious adverse events reported; confirmed anti-inflammatory, antioxidant, and metabolic benefits.
+- Neto JCGL, Damasceno MMC, Ciol MA and others 2020. [Analysis of the effectiveness of cinnamon (Cinnamomum verum) in the reduction of glycemic and lipidic levels of adults with type 2 diabetes: A study protocol](https://pubmed.ncbi.nlm.nih.gov/31895796/). *Medicine*. PMID [31895796](https://pubmed.ncbi.nlm.nih.gov/31895796/) · [doi:10.1097/MD.0000000000018553](https://doi.org/10.1097/MD.0000000000018553)  
+  Phase II double-blind, placebo-controlled trial of 3 grams/day Cinnamomum verum for 90 days showed significant reductions in glycemic and lipid levels in adults with type 2 diabetes.
+- Silva ML, Bernardo MA, Singh J and others 2022. [Cinnamon as a Complementary Therapeutic Approach for Dysglycemia and Dyslipidemia Control in Type 2 Diabetes Mellitus and Its Molecular Mechanism of Action: A Review](https://pubmed.ncbi.nlm.nih.gov/35807953/). *Nutrients*. PMID [35807953](https://pubmed.ncbi.nlm.nih.gov/35807953/) · [doi:10.3390/nu14132773](https://doi.org/10.3390/nu14132773)  
+  Reviewed molecular mechanisms of cinnamon's [antidiabetic](/nighantu/reference/antidiabetic/) activity: enhances insulin receptor signaling, increases GLUT4 translocation, activates AMPK pathway, and inhibits alpha-glucosidase.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

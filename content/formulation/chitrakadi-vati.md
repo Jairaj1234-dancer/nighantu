@@ -16,7 +16,7 @@ aliases: ["Chitrakadi Vati", "ChitrakadiVati"]
 tags: ["ayurveda", "formulation", "vati", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 604
+words: 557
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Chitrakadi-Vati/meta-analysis.md"
 ---
 ## Names and identification
@@ -60,9 +60,9 @@ Chakradatta (Agnimandya/Ajirna Chikitsa); also described in Yoga Ratnakara, Bhai
 
 ## What do recent clinical trials show?
 
-- **Randomized trial on [Chitrakadi Vati](/nighantu/formulation/chitrakadi-vati/) in functional dyspepsia** (2020): Small randomized trial (Journal of Ayurvedic Research) noted 70% improvement in patients with functional dyspepsia.
-- **Preparation and Standardization of [Chitrakadi Vati](/nighantu/formulation/chitrakadi-vati/): HPTLC identification of key phytoconstituents** (2022): HPTLC method identified and quantified key phytoconstituents including Piperine, [Bergapten](/nighantu/glossary/compounds-a-c/#bergapten), Plumbagin, and [Lupeol](/nighantu/reference/lupeol/), establishing analytical quality control parameters.
-- **Clinical evaluation of [Chitrakadi Vati](/nighantu/formulation/chitrakadi-vati/) in heartburn and acid reflux symptoms** (2019): Cooling Vipaka from Amalaki balanced excessive Pitta, relieving heartburn symptoms in up to 60% of participants over four weeks of treatment.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

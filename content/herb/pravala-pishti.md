@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Pishtis"
-answer: "Pravala Pishti is a substance used in the Ayurvedic materia medica. Usual dose: 250–500 mg twice daily. Usual dose: 250–500 mg twice daily."
-botanical: ""
+answer: "Pravala Pishti (Pharmacological research) is a plant used in Ayurveda. Usual dose: 250–500 mg twice daily. [Effect of Praval bhasma (Coral calx), a natural source of rich calcium on bone mineralization in rats](https://pubmed.ncbi.nlm.nih.gov/14527824/)."
+botanical: "Pharmacological research"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: ["Pravala Pishti", "PravalaPishti"]
 tags: ["ayurveda", "pishti", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 483
+words: 475
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Pravala-Pishti/meta-analysis.md"
 ---
 ## Names and identification
@@ -38,8 +38,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Pravala-Pishti/meta-
 
 ## What do recent clinical trials show?
 
-- **Effect of Praval Bhasma (Coral calx), a natural source of rich calcium on bone mineralization in rats** (2003): Praval Bhasma was effective in the prevention of calcium and estrogen deficit bone loss in experimental models, supporting its use as a natural calcium supplement for bone health.
-- **Clinical Efficacy and Safety of [Ashokarishta](/nighantu/formulation/ashokarishta/), Ashvagandha Churna and [Pravala Pishti](/nighantu/herb/pravala-pishti/) in the Management of Menopausal Syndrome** (2020): Multicenter open-label study across 9 centers with 359 menopausal women found that a combination including [Pravala Pishti](/nighantu/herb/pravala-pishti/) was effective and safe for managing menopausal symptoms including bone density concerns and calcium deficiency.
+- Reddy PN, Lakshmana M, Udupa UV 2003. [Effect of Praval bhasma (Coral calx), a natural source of rich calcium on bone mineralization in rats](https://pubmed.ncbi.nlm.nih.gov/14527824/). *Pharmacological research*. PMID [14527824](https://pubmed.ncbi.nlm.nih.gov/14527824/) · [doi:10.1016/s1043-6618(03)00224-x](https://doi.org/10.1016/s1043-6618(03)00224-x)  
+  Praval Bhasma was effective in the prevention of calcium and estrogen deficit bone loss in experimental models, supporting its use as a natural calcium supplement for bone health.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

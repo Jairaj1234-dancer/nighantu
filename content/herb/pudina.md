@@ -16,7 +16,7 @@ aliases: ["Mentha spicata"]
 tags: ["ayurveda", "herb", "single-herb", "kitchen-spices-culinary", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 789
+words: 850
 srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Pudina/meta-analysis.md"
 ---
 ## Names and identification
@@ -55,10 +55,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Pudina/meta-analysi
 
 ## What do recent clinical trials show?
 
-- **Medicinal Uses, Phytochemistry, Pharmacology, and Toxicology of Mentha spicata** (2022): Comprehensive review confirming antibacterial, antifungal, antioxidant, [hepatoprotective](/nighantu/reference/hepatoprotective/), [antidiabetic](/nighantu/reference/antidiabetic/), cytotoxic, anti-inflammatory, larvicidal, antigenotoxic, and antiandrogenic activities of M. spicata extracts and essential oils.
-- **The traditional uses, phytochemistry and pharmacology of spearmint (Mentha spicata L.): A review** (2021): Identified 35 chemical constituents in spearmint; validated pharmacological properties support traditional uses including digestive, cooling, and toxin-clearing applications in Ayurveda.
-- **Biological Properties and Bioactive Components of Mentha spicata L. Essential Oil: Obesity, Alzheimer's, Dermatophytosis, and Drug-Resistant Infections** (2020): Demonstrated pancreatic lipase inhibition by carvone and M. spicata essential oil for obesity management; also showed strong inhibitory effect on MRSA biofilm formation for drug-resistant infections.
-- **Spearmint extract clinical trial for IBS symptoms** (2021): Double-blind trial using 300 mg spearmint extract twice daily for eight weeks showed significantly less bloating and abdominal discomfort compared to placebo in IBS patients.
+- El Menyiy N, Mrabti HN, El Omari N and others 2022. [Medicinal Uses, Phytochemistry, Pharmacology, and Toxicology of Mentha spicata](https://pubmed.ncbi.nlm.nih.gov/35463088/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [35463088](https://pubmed.ncbi.nlm.nih.gov/35463088/) · [doi:10.1155/2022/7990508](https://doi.org/10.1155/2022/7990508)  
+  Comprehensive review confirming antibacterial, antifungal, antioxidant, [hepatoprotective](/nighantu/reference/hepatoprotective/), [antidiabetic](/nighantu/reference/antidiabetic/), cytotoxic, anti-inflammatory, larvicidal, antigenotoxic, and antiandrogenic activities of M. spicata extracts and essential oils.
+- Mahendran G, Verma SK, Rahman LU 2021. [The traditional uses, phytochemistry and pharmacology of spearmint (Mentha spicata L.): A review](https://pubmed.ncbi.nlm.nih.gov/34087400/). *Journal of ethnopharmacology*. PMID [34087400](https://pubmed.ncbi.nlm.nih.gov/34087400/) · [doi:10.1016/j.jep.2021.114266](https://doi.org/10.1016/j.jep.2021.114266)  
+  Identified 35 chemical constituents in spearmint; validated pharmacological properties support traditional uses including digestive, cooling, and toxin-clearing applications in Ayurveda.
+- Ali-Shtayeh MS, Jamous RM, Abu-Zaitoun SY and others 2019. [Biological Properties and Bioactive Components of Mentha spicata L. Essential Oil: Focus on Potential Benefits in the Treatment of Obesity, Alzheimer's Disease, Dermatophytosis, and Drug-Resistant Infections](https://pubmed.ncbi.nlm.nih.gov/31772594/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [31772594](https://pubmed.ncbi.nlm.nih.gov/31772594/) · [doi:10.1155/2019/3834265](https://doi.org/10.1155/2019/3834265)  
+  Demonstrated pancreatic lipase inhibition by carvone and M. spicata essential oil for obesity management; also showed strong inhibitory effect on MRSA biofilm formation for drug-resistant infections.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

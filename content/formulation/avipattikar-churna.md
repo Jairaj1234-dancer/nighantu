@@ -16,7 +16,7 @@ aliases: ["Avipattikar Churna", "AvipattikarChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 661
+words: 536
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Avipattikar-Churna/meta-analysis.md"
 ---
 ## Names and identification
@@ -63,10 +63,9 @@ Bhaishajya Ratnavali (Amlapitta Rogadhikara). Also referenced in Sharangdhara Sa
 
 ## What do recent clinical trials show?
 
-- **Mechanistic insights into the anti-ulcerative effects of [Avipattikar](/nighantu/herb/avipattikar/) churna: a network pharmacology and experimental approach** (2025): Network analysis revealed [Quercetin](/nighantu/reference/quercetinquercetin/), Ellagic acid, Turpetholic acid, Copaene, and [Eugenol](/nighantu/glossary/compounds-d-g/#eugenol) as active agents in peptic ulcer. The formulation suppresses NF-kB signaling pathway, significantly reducing TNF-alpha and IL-6, decreasing inflammatory cell infiltration, promoting ulcer healing, and inducing apoptosis.
-- **Qualitative and quantitative determination of phytoconstituents in manually prepared [Avipattikar](/nighantu/herb/avipattikar/) Churna** (2023): HPLC-based phytochemical profiling identified and quantified key bioactive markers including gallic acid, [piperine](/nighantu/reference/piperine/), and [gingerol](/nighantu/glossary/compounds-d-g/#gingerol) content, establishing quality control parameters for standardized preparation.
-- **Anti-secretory and anti-ulcerogenic activities of [Avipattikar](/nighantu/herb/avipattikar/) Churna on peptic ulcers in experimental rats** (2021): Demonstrated anti-secretory and anti-ulcerogenic effects comparable to ranitidine in peptic ulcer disease models. No complications, side effects, or addiction reported.
-- **Updated review on recent in-vitro, in-vivo and clinical researches of [Avipattikar](/nighantu/herb/avipattikar/) Churna** (2020): Comprehensive review confirmed that 21-45 days is required to show marked improvement in gastric disorders. Herbs have anti-inflammatory, antioxidant, and cytoprotective activities; sugar component provides acid neutralization.
+
+
+*4 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

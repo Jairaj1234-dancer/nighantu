@@ -16,7 +16,7 @@ aliases: ["Limonia acidissima Groff (syn. Feronia limonia (L.) Swingle)"]
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 552
+words: 538
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kapittha/meta-analysis.md"
 ---
 ## Names and identification
@@ -58,9 +58,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kapittha/meta-analysis.m
 
 ## What do recent clinical trials show?
 
-- **Ethnobotanical Significance, Phytopharmacology, and Toxicological Profile of Limonia acidissima L. (Rutaceae): A Review** (2024): Comprehensive review documented [anticancer](/nighantu/reference/anticancer/), antidiabetic, anti-diarrheal, antimicrobial, antiulcer, wound healing, antioxidant, hepatoprotective, [neuroprotective](/nighantu/reference/neuroprotective/), antispermatogenic, [diuretic](/nighantu/reference/diuretic/), and adsorbent activities.
-- **Phytochemical Properties and Health Benefits of Limonia acidissima** (2024): Rich chemical composition including quinones, [lignans](/nighantu/glossary/compounds-g-l/#lignans), [flavonoids](/nighantu/reference/flavonoids/), [sterols](/nighantu/glossary/compounds-q-t/#sterols), coumarins, [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids), [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids), phenolic acids and volatile oils were characterized across all plant parts.
-- **Bioactive Compounds of Wood Apple (Limonia acidissima L.)** (2023): Fruit shell coumarins (osthenol, psoralen, xanthotoxin) demonstrated potent antifungal activity against common dermatophytes, validating traditional use for skin infections.
+- Mohanty S, Pattnaik A 2025. [Ethnobotanical Significance, Phytopharmacology, and Toxicological Profile of Limonia acidissima L. (Rutaceae): A Review](https://pubmed.ncbi.nlm.nih.gov/38676498/). *Combinatorial chemistry & high throughput screening*. PMID [38676498](https://pubmed.ncbi.nlm.nih.gov/38676498/) · [doi:10.2174/0113862073285538240417051928](https://doi.org/10.2174/0113862073285538240417051928)  
+  Comprehensive review documented [anticancer](/nighantu/reference/anticancer/), antidiabetic, anti-diarrheal, antimicrobial, antiulcer, wound healing, antioxidant, hepatoprotective, [neuroprotective](/nighantu/reference/neuroprotective/), antispermatogenic, [diuretic](/nighantu/reference/diuretic/), and adsorbent activities.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

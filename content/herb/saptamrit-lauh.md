@@ -16,7 +16,7 @@ aliases: ["Saptamrit Lauh", "SaptamritLauh"]
 tags: ["ayurveda", "loha", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 477
+words: 497
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Lohas-Iron-Preparations/Saptamrit-Lauh/meta-analysis.md"
 ---
 ## Names and identification
@@ -45,9 +45,12 @@ Bhaishajya Ratnavali, Netra Rogadhikara (Eye Diseases Chapter); also referenced 
 
 ## What do recent clinical trials show?
 
-- **Role of the indigenous drug Saptamrita Lauha in hemorrhagic retinopathies** (1992): Study on 48 eyes showed rapid absorption of retinal hemorrhages (mean 16-17 days); recurrence was 25% in treated groups vs 50-60% in controls for both diabetic and hypertensive retinopathy
-- **Comparative study on the effect of Saptamrita Lauha and Yoga therapy in myopia** (2014): 60 patients (age 8-30 years) receiving Saptamrita Lauha 250 mg twice daily showed improvement in myopic refractive error and visual acuity
-- **Clinical study on effect of Saptamruta Lauha in Timira (visual disorders)** (2020): Clinical study demonstrated improvement in visual acuity and reduction in eye strain symptoms with [Saptamrit Lauh](/nighantu/herb/saptamrit-lauh/) administration
+- Sharma KR, Bhatia RP, Kumar V 1992. [Role of the indigenous drug saptamrita lauha in hemorrhagic retinopathies](https://pubmed.ncbi.nlm.nih.gov/1543325/). *Annals of ophthalmology*. PMID [1543325](https://pubmed.ncbi.nlm.nih.gov/1543325/)  
+  Study on 48 eyes showed rapid absorption of retinal hemorrhages (mean 16-17 days); recurrence was 25% in treated groups vs 50-60% in controls for both diabetic and hypertensive retinopathy
+- Bansal C 2014. [Comparative study on the effect of Saptamrita Lauha and Yoga therapy in myopia](https://pubmed.ncbi.nlm.nih.gov/25364195/). *Ayu*. PMID [25364195](https://pubmed.ncbi.nlm.nih.gov/25364195/) · [doi:10.4103/0974-8520.141904](https://doi.org/10.4103/0974-8520.141904)  
+  60 patients (age 8-30 years) receiving Saptamrita Lauha 250 mg twice daily showed improvement in myopic refractive error and visual acuity
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

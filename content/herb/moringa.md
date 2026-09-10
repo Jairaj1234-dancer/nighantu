@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "liver-detox", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu, Ashtanga Hridaya)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 1017
+words: 1096
 srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Moringa/meta-analysis.md"
 ---
 ## Names and identification
@@ -87,12 +87,18 @@ Called 'Shigru' in Ayurveda. Used extensively in [Dashamoola](/nighantu/herb/das
 
 ## What do recent clinical trials show?
 
-- **Effects of Moringa oleifera Lam. Supplementation on Cardiometabolic Outcomes: A Meta-Analysis of Randomized Controlled Trials with GRADE Assessment** (2025): Comprehensive GRADE-assessed meta-analysis of RCTs evaluating moringa supplementation on anthropometric measures, lipid profile, glycemic indices, and blood pressure in adults.
-- **Effect of Moringa oleifera on inflammatory diseases: an umbrella review of 26 systematic reviews** (2025): Umbrella review covering 573 primary articles concluded Moringa oleifera is a promising plant for treating inflammatory diseases, acting primarily through NF-kB and Nrf2 pathways.
-- **Effects of Moringa Oleifera leaf extract on glycemic control and inflammation in metabolic syndrome: a randomized controlled trial** (2025): RCT demonstrating Moringa leaf extract improves glycemic control and reduces inflammatory markers in patients with metabolic syndrome.
-- **Preclinical Evidence of the Therapeutic Effect of Moringa oleifera in Peptic Ulcer Disease: A Systematic Review and Meta-Analysis** (2026): Meta-analysis confirming gastroprotective and ulcer-healing effects in preclinical studies, but highlighting absence of clinical trials and need for translational research.
-- **Effects of Moringa oleifera leaves on blood glucose, blood pressure, and lipid profile of type 2 diabetic subjects: A parallel group randomized clinical trial** (2023): RCT demonstrating Moringa leaves can improve blood glucose, blood pressure, and lipid profiles in type 2 diabetes patients.
-- **[Neuroprotective](/nighantu/reference/neuroprotective/) potential of Moringa oleifera mediated by NF-kB/Nrf2/HO-1 signaling pathway: A review** (2022): Review establishing the neuroprotective mechanisms of Moringa through the NF-kB/Nrf2/HO-1 signaling cascade.
+- Crișan D, Gavrilaș L, Păltinean R and others 2025. [Effects of Moringa oleifera Lam. Supplementation on Cardiometabolic Outcomes: A Meta-Analysis of Randomized Controlled Trials with GRADE Assessment](https://pubmed.ncbi.nlm.nih.gov/41305552/). *Nutrients*. PMID [41305552](https://pubmed.ncbi.nlm.nih.gov/41305552/) · [doi:10.3390/nu17223501](https://doi.org/10.3390/nu17223501)  
+  Comprehensive GRADE-assessed meta-analysis of RCTs evaluating moringa supplementation on anthropometric measures, lipid profile, glycemic indices, and blood pressure in adults.
+- da Silva Parente TSJ, Sarandy MM, de Araújo ERD and others 2025. [Effect of Moringa oleifera on inflammatory diseases: an umbrella review of 26 systematic reviews](https://pubmed.ncbi.nlm.nih.gov/40458803/). *Frontiers in pharmacology*. PMID [40458803](https://pubmed.ncbi.nlm.nih.gov/40458803/) · [doi:10.3389/fphar.2025.1572337](https://doi.org/10.3389/fphar.2025.1572337)  
+  Umbrella review covering 573 primary articles concluded Moringa oleifera is a promising plant for treating inflammatory diseases, acting primarily through NF-kB and Nrf2 pathways.
+- Akiode SO, Adeniran AG, Akano OP and others 2026. [Preclinical evidence of the therapeutic effect of Moringa oleifera in peptic ulcer disease: a systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/41939826/). *Frontiers in pharmacology*. PMID [41939826](https://pubmed.ncbi.nlm.nih.gov/41939826/) · [doi:10.3389/fphar.2026.1689789](https://doi.org/10.3389/fphar.2026.1689789)  
+  Meta-analysis confirming gastroprotective and ulcer-healing effects in preclinical studies, but highlighting absence of clinical trials and need for translational research.
+- C Afiaenyi I, K Ngwu E, M Okafor A and others 2025. [Effects of Moringa oleifera leaves on the blood glucose, blood pressure, and lipid profile of type 2 diabetic subjects: A parallel group randomized clinical trial of efficacy](https://pubmed.ncbi.nlm.nih.gov/37229639/). *Nutrition and health*. PMID [37229639](https://pubmed.ncbi.nlm.nih.gov/37229639/) · [doi:10.1177/02601060231176873](https://doi.org/10.1177/02601060231176873)  
+  RCT demonstrating Moringa leaves can improve blood glucose, blood pressure, and lipid profiles in type 2 diabetes patients.
+- Mundkar M, Bijalwan A, Soni D and others 2022. [Neuroprotective potential of Moringa oleifera mediated by NF-kB/Nrf2/HO-1 signaling pathway: A review](https://pubmed.ncbi.nlm.nih.gov/36206551/). *Journal of food biochemistry*. PMID [36206551](https://pubmed.ncbi.nlm.nih.gov/36206551/) · [doi:10.1111/jfbc.14451](https://doi.org/10.1111/jfbc.14451)  
+  Review establishing the neuroprotective mechanisms of Moringa through the NF-kB/Nrf2/HO-1 signaling cascade.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

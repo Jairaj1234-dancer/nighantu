@@ -16,7 +16,7 @@ aliases: ["Juglans regia L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 656
+words: 693
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akshotaka/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akshotaka/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **A Review of [Antioxidant](/nighantu/reference/antioxidant/) Activity, Anti-Inflammatory Properties, Apoptosis-Regulatory Effects, and Immune System Modulation of Juglans regia L. (Walnut)** (2025): Walnut phytochemical profile contributes to therapeutic potential in combating oxidative stress and inflammation, regulating apoptosis and immune responses through multiple molecular pathways.
-- **Juglans regia L. (Walnut) Leaf Extract Ameliorates Pulmonary Edema Against Airway Inflammation via Upregulation of Tight Junction [Proteins](/nighantu/glossary/compounds-o-q/#proteins) and Heme Oxygenase-1** (2025): Walnut leaf extract reduced pulmonary edema in asthmatic mice by upregulating tight junction proteins (claudin-1, occludin) and heme oxygenase-1, demonstrating anti-inflammatory airway protection.
-- **Traditional Applications, Ethnopharmacology, and Phytochemistry of Walnut Green Husk (Juglans regia L.): A Review** (2024): Walnut green husk contains quinones, diarylheptanes, [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids), and [flavonoids](/nighantu/reference/flavonoids/) with demonstrated [antitumor](/nighantu/glossary/pharmacology/#antitumor), anti-inflammatory, antibacterial, and antioxidant properties.
+- Ghasemzadeh Rahbardar M, Rashki M, Boskabady MH 2025. [A Review of Antioxidant Activity, Anti-Inflammatory Properties, Apoptosis-Regulatory Effects, and Immune System Modulation of Juglans regia L. (Walnut)](https://pubmed.ncbi.nlm.nih.gov/41179368/). *Food science & nutrition*. PMID [41179368](https://pubmed.ncbi.nlm.nih.gov/41179368/) · [doi:10.1002/fsn3.71081](https://doi.org/10.1002/fsn3.71081)  
+  Walnut phytochemical profile contributes to therapeutic potential in combating oxidative stress and inflammation, regulating apoptosis and immune responses through multiple molecular pathways.
+- Arshed N, Shabbir A, Khan HM and others 2025. [Juglans regia L. (Walnut) Leaf Extract Ameliorates Pulmonary Edema Against Airway Inflammation via Upregulation of Tight Junction Proteins and Heme Oxygenase-1 in the Lungs of Asthmatic Mice](https://pubmed.ncbi.nlm.nih.gov/40421046/). *Journal of tropical medicine*. PMID [40421046](https://pubmed.ncbi.nlm.nih.gov/40421046/) · [doi:10.1155/jotm/6976932](https://doi.org/10.1155/jotm/6976932)  
+  Walnut leaf extract reduced pulmonary edema in asthmatic mice by upregulating tight junction proteins (claudin-1, occludin) and heme oxygenase-1, demonstrating anti-inflammatory airway protection.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

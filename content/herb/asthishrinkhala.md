@@ -16,7 +16,7 @@ aliases: ["Cissus quadrangularis L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 666
+words: 645
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Asthishrinkhala/meta-analysis.md"
 ---
 ## Names and identification
@@ -54,9 +54,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Asthishrinkhala/meta-analysis
 
 ## What do recent clinical trials show?
 
-- **The effects of Cissus quadrangularis on bone-related biomarkers in humans: a systematic review and meta-analysis** (2025): Meta-analysis of human studies confirmed that Cissus quadrangularis supplementation significantly improved bone-related biomarkers including alkaline phosphatase and calcium levels, promoting bone healing and density improvement.
-- **A Critical Review On Mechanism Of Herbal Drugs Cissus quadrangularis in Bone Healing for Osteoporosis and Bone Fracture** (2024): Mechanistic review established that the plant accelerates fracture healing through enhanced osteoblast proliferation, collagen formation, and mineralization at fracture sites.
-- **Cissus quadrangularis extract enhances biomineralization through up-regulation of MAPK-dependent alkaline phosphatase activity in osteoblasts** (2024): Demonstrated that extract enhances bone mineralization through MAPK pathway-dependent upregulation of alkaline phosphatase in osteoblast cells.
+- Na Takuathung M, Aisara J, Sawong S and others 2025. [The effects of Cissus quadrangularis on bone-related biomarkers in humans: a systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/40707943/). *BMC complementary medicine and therapies*. PMID [40707943](https://pubmed.ncbi.nlm.nih.gov/40707943/) · [doi:10.1186/s12906-025-04995-8](https://doi.org/10.1186/s12906-025-04995-8)  
+  Meta-analysis of human studies confirmed that Cissus quadrangularis supplementation significantly improved bone-related biomarkers including alkaline phosphatase and calcium levels, promoting bone healing and density improvement.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "hair-health", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "AgeAyurveda Product Catalog", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: ["Grow and Glow Hair Oil"]
-words: 727
+words: 679
 srcRel: "Ayurveda/Herbs/Single-Herbs/Hair-Health/Bhringraj/meta-analysis.md"
 ---
 ## Names and identification
@@ -37,11 +37,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Hair-Health/Bhringraj/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Molecular insights into the hair growth-promoting mechanisms of Eclipta alba** (2025): Wedelolactone activates the Wnt/beta-catenin signaling pathway and binds VEGF receptor. Cell-based assays showed a 45% increase in human dermal papilla cell proliferation with over 95% viability.
-- **Discovery of petroleum ether extract of Eclipta targeting p53/Fas pathway for chemotherapy-induced alopecia** (2024): Network pharmacology and experimental validation confirmed Eclipta extract modulates the p53/Fas pathway, promoting hair matrix cell proliferation by inhibiting TGF-beta1 expression.
-- **Eclipta prostrata ethnomedicinal uses, chemical constituents, and biological activities (comprehensive review)** (2021): Systematic review of over 100 studies confirmed hepatoprotective, anti-inflammatory, [antimicrobial](/nighantu/reference/antimicrobial/), antioxidant, and hair-growth-promoting activities. Identified wedelolactone, eclalbasaponins, ursolic acid, and luteolin as key bioactives.
-- **Clinical observation of Eclipta leaf powder in mild hypertensive subjects** (2022): Supplementation with Eclipta leaf powder resulted in a 15% reduction in mean arterial pressure, 17% reduction in total cholesterol, and increased urine volume and antioxidant markers in mild hypertensive subjects.
-- **Exploring the potential of Eclipta alba: a promising approach (5-alpha-reductase inhibition)** (2023): Lab study demonstrated Eclipta alba extract has a similar inhibitory effect on 5-alpha-reductase as finasteride, relevant to male pattern baldness treatment.
+- Wang W, Wang H, Luo Y and others 2024. [Discovery of petroleum ether extract of eclipta targeting p53/Fas pathway for the treatment of chemotherapy-induced alopecia: Network pharmacology and experimental validation](https://pubmed.ncbi.nlm.nih.gov/38844249/). *Journal of ethnopharmacology*. PMID [38844249](https://pubmed.ncbi.nlm.nih.gov/38844249/) · [doi:10.1016/j.jep.2024.118405](https://doi.org/10.1016/j.jep.2024.118405)  
+  Network pharmacology and experimental validation confirmed Eclipta extract modulates the p53/Fas pathway, promoting hair matrix cell proliferation by inhibiting TGF-beta1 expression.
+- Timalsina D, Devkota HP 2021. [Eclipta prostrata (L.) L. (Asteraceae): Ethnomedicinal Uses, Chemical Constituents, and Biological Activities](https://pubmed.ncbi.nlm.nih.gov/34827736/). *Biomolecules*. PMID [34827736](https://pubmed.ncbi.nlm.nih.gov/34827736/) · [doi:10.3390/biom11111738](https://doi.org/10.3390/biom11111738)  
+  Systematic review of over 100 studies confirmed hepatoprotective, anti-inflammatory, [antimicrobial](/nighantu/reference/antimicrobial/), antioxidant, and hair-growth-promoting activities. Identified wedelolactone, eclalbasaponins, ursolic acid, and luteolin as key bioactives.
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

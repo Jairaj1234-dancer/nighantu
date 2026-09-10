@@ -16,7 +16,7 @@ aliases: ["Kanchanara Guggulu", "KanchanaraGuggulu"]
 tags: ["ayurveda", "formulation", "guggulu", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 645
+words: 626
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Kanchanara-Guggulu/meta-analysis.md"
 ---
 ## Names and identification
@@ -57,9 +57,10 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also described in Bhaishajya 
 
 ## What do recent clinical trials show?
 
-- **Evaluation of Comparative Efficacy of Levothyroxine Versus Kshar Basti and [Kanchanar](/nighantu/herb/kanchanar/) Guggul in the Treatment of Hypothyroidism: Protocol for Randomized Controlled Trial** (2024): RCT protocol registered comparing [Kanchanar](/nighantu/herb/kanchanar/) Guggul with levothyroxine for hypothyroidism; enrollment began June 2024 with data analysis expected December 2025 and results by early 2026.
-- **From LC-MS/MS metabolomics profiling of Kanchanara [Guggulu](/nighantu/formulation/guggulu/)|Kanchanara Guggulu to molecular docking and dynamics simulation of [quercetin](/nighantu/reference/quercetinquercetin/) pentaacetate with aldose reductase** (2022): LC-MS/MS metabolomics identified 2,579 compounds including [quercetin](/nighantu/reference/quercetinquercetin/) and [kaempferol](/nighantu/reference/kaempferol/) derivatives; molecular docking revealed strong binding affinity of [quercetin](/nighantu/reference/quercetinquercetin/) pentaacetate with aldose reductase enzyme.
-- **Clinical study to evaluate efficacy of [Kanchanar](/nighantu/herb/kanchanar/) Gutika in the management of Galganda w.r.t. Hypothyroidism** (2021): Clinical study demonstrated improvement in thyroid function parameters (TSH normalization) with [Kanchanar](/nighantu/herb/kanchanar/) formulation in hypothyroid patients.
+- Kulkarni SP, Parwe S 2024. [Evaluation of Comparative Efficacy of Levothyroxine Versus Kshar Basti and Kanchanar Guggul in the Treatment of Hypothyroidism: Protocol for a Randomized Controlled Trial](https://pubmed.ncbi.nlm.nih.gov/39255475/). *JMIR research protocols*. PMID [39255475](https://pubmed.ncbi.nlm.nih.gov/39255475/) · [doi:10.2196/57287](https://doi.org/10.2196/57287)  
+  RCT protocol registered comparing [Kanchanar](/nighantu/herb/kanchanar/) Guggul with levothyroxine for hypothyroidism; enrollment began June 2024 with data analysis expected December 2025 and results by early 2026.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

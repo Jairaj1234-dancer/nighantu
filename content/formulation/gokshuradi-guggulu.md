@@ -16,7 +16,7 @@ aliases: ["Gokshuradi Guggulu", "GokshuradiGuggulu"]
 tags: ["ayurveda", "formulation", "guggulu", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 581
+words: 521
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Gokshuradi-Guggulu/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,9 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 
 ## What do recent clinical trials show?
 
-- **Diuretic Activity of Gokshuradi [Guggulu](/nighantu/formulation/guggulu/)|Gokshuradi Guggulu (A Multi-Herbal Formulation) In Rats** (2019): Rat study found that Gokshuradi [Guggulu](/nighantu/formulation/guggulu/)|Gokshuradi Guggulu did not possess significant diuretic activity at tested doses, suggesting that traditional diuretic claims require further validation with different dosing protocols.
-- **Pilot study on Gokshuradi [Guggulu](/nighantu/formulation/guggulu/)|Gokshuradi Guggulu for urinary stone recurrence prevention** (2018): Pilot study reported 40% decrease in stone recurrence over 6 months with the formulation, suggesting preventive potential against urolithiasis.
-- **Narrative review of [guggulu](/nighantu/formulation/guggulu/) formulations reflecting their percentage of [guggulu](/nighantu/formulation/guggulu/), pharmaceutics and pharmacology** (2020): Comprehensive review documented that [Gokshura](/nighantu/herb/gokshura/) steroidal saponins increase glomerular filtration rate while guggulsterones modulate cytokine pathways to reduce inflammation.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

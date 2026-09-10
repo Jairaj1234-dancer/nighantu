@@ -16,7 +16,7 @@ aliases: ["Pistacia integerrima J.L. Stewart ex Brandis"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 571
+words: 552
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Karkatashringi/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Karkatashringi/meta-analysis.
 
 ## What do recent clinical trials show?
 
-- **Pistacia integerrima (Shringi) - A Plant with Significant Pharmacological Activities** (2021): Comprehensive review documenting [antimicrobial](/nighantu/reference/antimicrobial/), [antioxidant](/nighantu/reference/antioxidant/), [analgesic](/nighantu/reference/analgesic/), cytotoxicity, anti-inflammatory, [cardioprotective](/nighantu/reference/cardioprotective/), [anticancer](/nighantu/reference/anticancer/), and anticonvulsant activities of gall and other plant parts.
-- **Medicinal Plant Species: Pistacia integerrima Galls - A Comprehensive Review** (2023): Detailed analysis of insect galls (Karkatashringi) showing high tannin, flavonoid, and terpenoid content with superior antimicrobial and anti-inflammatory activity compared to other plant parts.
-- **Review - An Overview of Pistacia integerrima: Ethnobotany, Biological Activities and Phytochemistry** (2015): Documented traditional use across Asian medicine systems; confirmed the insect galls as the primary medicinal part with anticonvulsant and muscle relaxant properties.
+- Bibi Y, Zia M, Qayyum A 2015. [Review-An overview of Pistacia integerrima a medicinal plant species: Ethnobotany, biological activities and phytochemistry](https://pubmed.ncbi.nlm.nih.gov/26004708/). *Pakistan journal of pharmaceutical sciences*. PMID [26004708](https://pubmed.ncbi.nlm.nih.gov/26004708/)  
+  Documented traditional use across Asian medicine systems; confirmed the insect galls as the primary medicinal part with anticonvulsant and muscle relaxant properties.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

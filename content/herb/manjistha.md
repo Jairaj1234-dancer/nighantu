@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "skin-beauty", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 765
+words: 852
 srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Manjistha/meta-analysis.md"
 ---
 ## Names and identification
@@ -38,12 +38,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Manjistha/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **A comprehensive review of Rubia cordifolia L.: Traditional uses, phytochemistry, pharmacological activities, and clinical applications** (2022): Identified over 100 compounds including anthraquinones, naphthoquinones, bicyclic hexapeptides, [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids), and [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides). Established multiple pharmacological activities: neuroprotective, anti-tumor, antibacterial, anti-inflammatory, antioxidant, and immunosuppressive.
-- **Modulatory effects of [Triphala](/nighantu/herb/triphala/) and Manjistha dietary supplementation on human gut microbiota: A double-blind, randomized, placebo-controlled pilot study** (2020): 4-week RCT with 2000 mg/day Manjistha showed modulatory effects on gut microbiota composition evaluated through 16S rRNA profiling, suggesting prebiotic-like activity.
-- **Crosstalk of Cancer Signaling Pathways by Cyclic Hexapeptides and Anthraquinones from Rubia cordifolia** (2021): Cyclic hexapeptides (RA-V, RA-VII) showed potent anticancer activity through inhibition of multiple cancer signaling pathways. Anthraquinones play a supporting but lesser role compared to cyclic hexapeptides in anticancer potential.
-- **Randomized comparative clinical study of Manjistha [Ghrita](/nighantu/herb/ghrita/) in management of Striae Gravidarum** (2022): Clinical study showed Manjistha [Ghrita](/nighantu/herb/ghrita/) (topical formulation) was effective in managing striae gravidarum (stretch marks) in pregnant women compared to plain ghee control.
-- **Dynamic analysis of growth characteristics and anthraquinones biosynthesis in Rubia cordifolia** (2024): Elucidated the biosynthetic pathway of anthraquinones in R. cordifolia, identifying 28 distinct anthraquinones including alizarin, munjistin, rubiadin, purpurin, and xanthopurpurin, with structure-activity relationships for hydroxyl substitutions.
-- **Therapeutic potential of purpurin, a natural anthraquinone dye, in neuroprotection** (2025): Purpurin from Rubia cordifolia demonstrated neuroprotective potential for neurological disorders through antioxidant and anti-inflammatory mechanisms.
+- Wen M, Chen Q, Chen W and others 2022. [A comprehensive review of Rubia cordifolia L.: Traditional uses, phytochemistry, pharmacological activities, and clinical applications](https://pubmed.ncbi.nlm.nih.gov/36160419/). *Frontiers in pharmacology*. PMID [36160419](https://pubmed.ncbi.nlm.nih.gov/36160419/) · [doi:10.3389/fphar.2022.965390](https://doi.org/10.3389/fphar.2022.965390)  
+  Identified over 100 compounds including anthraquinones, naphthoquinones, bicyclic hexapeptides, [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids), and [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides). Established multiple pharmacological activities: neuroprotective, anti-tumor, antibacterial, anti-inflammatory, antioxidant, and immunosuppressive.
+- Peterson CT, Pourang A, Dhaliwal S and others 2020. [Modulatory Effects of Triphala and Manjistha Dietary Supplementation on Human Gut Microbiota: A Double-Blind, Randomized, Placebo-Controlled Pilot Study](https://pubmed.ncbi.nlm.nih.gov/32955913/). *Journal of alternative and complementary medicine (New York, N.Y.)*. PMID [32955913](https://pubmed.ncbi.nlm.nih.gov/32955913/) · [doi:10.1089/acm.2020.0148](https://doi.org/10.1089/acm.2020.0148)  
+  4-week RCT with 2000 mg/day Manjistha showed modulatory effects on gut microbiota composition evaluated through 16S rRNA profiling, suggesting prebiotic-like activity.
+- Balachandran P, Ibrahim MA, Zhang J and others 2021. [Crosstalk of Cancer Signaling Pathways by Cyclic Hexapeptides and Anthraquinones from Rubia cordifolia](https://pubmed.ncbi.nlm.nih.gov/33572569/). *Molecules (Basel, Switzerland)*. PMID [33572569](https://pubmed.ncbi.nlm.nih.gov/33572569/) · [doi:10.3390/molecules26030735](https://doi.org/10.3390/molecules26030735)  
+  Cyclic hexapeptides (RA-V, RA-VII) showed potent anticancer activity through inhibition of multiple cancer signaling pathways. Anthraquinones play a supporting but lesser role compared to cyclic hexapeptides in anticancer potential.
+- Lian C, Liu X, Guo K and others 2024. [Dynamic analysis of growth characteristics, secondary metabolites accumulation, and an in-depth understanding of anthraquinones biosynthesis in Rubia cordifolia Linn](https://pubmed.ncbi.nlm.nih.gov/39840364/). *Frontiers in plant science*. PMID [39840364](https://pubmed.ncbi.nlm.nih.gov/39840364/) · [doi:10.3389/fpls.2024.1504863](https://doi.org/10.3389/fpls.2024.1504863)  
+  Elucidated the biosynthetic pathway of anthraquinones in R. cordifolia, identifying 28 distinct anthraquinones including alizarin, munjistin, rubiadin, purpurin, and xanthopurpurin, with structure-activity relationships for hydroxyl substitutions.
+- Mustafa AM, Sayed GA, Hatem S and others 2025. [Therapeutic potential of purpurin, a natural anthraquinone dye, in neuroprotection and neurological disorders](https://pubmed.ncbi.nlm.nih.gov/41045341/). *Inflammopharmacology*. PMID [41045341](https://pubmed.ncbi.nlm.nih.gov/41045341/) · [doi:10.1007/s10787-025-01977-7](https://doi.org/10.1007/s10787-025-01977-7)  
+  Purpurin from Rubia cordifolia demonstrated neuroprotective potential for neurological disorders through antioxidant and anti-inflammatory mechanisms.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

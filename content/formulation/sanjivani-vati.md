@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Vatis-Tablets"
-answer: "Sanjivani Vati is a classical Ayurvedic vati, a herbal tablet or pill. The usual dose is 1-2 tablets twice daily. Scientific Review on Sanjivani Vati with reference to Pharmacological Actions and Therapeutic Indications (2019): Ingredients demonstrate antimicrobial activities against Salmonella typhi and Helicobacter pylori; formulation works on metabolic processes at cellular level, improving tissue formation and nutrition."
+answer: "Sanjivani Vati is a classical Ayurvedic vati, a herbal tablet or pill. The usual dose is 1-2 tablets twice daily. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Sanjivani Vati", "SanjivaniVati"]
 tags: ["ayurveda", "formulation", "vati", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 574
+words: 498
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Sanjivani-Vati/meta-analysis.md"
 ---
 ## Names and identification
@@ -60,9 +60,9 @@ Sharangdhara Samhita (Madhyama Khanda); also described in Charaka Samhita, Sushr
 
 ## What do recent clinical trials show?
 
-- **Probable Mode of Action of [Sanjivani Vati](/nighantu/formulation/sanjivani-vati/) - A Critical Review** (2018): Detailed analysis established that drugs in [Sanjivani Vati](/nighantu/formulation/sanjivani-vati/) primarily have Katu and Tikta Rasa with Deepana, Pachana, Anulomana, Jwaraghna, Krimighna, Triptighna, and Vishaghna properties working synergistically for Ama pachana and detoxification.
-- **Scientific Review on [Sanjivani Vati](/nighantu/formulation/sanjivani-vati/) with reference to Pharmacological Actions and Therapeutic Indications** (2019): Ingredients demonstrate antimicrobial activities against Salmonella typhi and Helicobacter pylori; formulation works on metabolic processes at cellular level, improving tissue formation and nutrition.
-- **[Sanjivani Vati](/nighantu/formulation/sanjivani-vati/) pharmacological assessment of Amahara and Jwaraghna actions** (2020): [Sanjivani Vati](/nighantu/formulation/sanjivani-vati/) shows Amahara action (toxin expulsion) curing diseases from Mandagni (digestive impairment); diaphoretic effect induces perspiration, breaks fever cycle, and averts body temperature rise.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

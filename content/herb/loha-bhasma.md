@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Bhasmas"
-answer: "Loha Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg twice daily. SEM/XRD studies reveal nanocrystalline iron oxide with potential for targeted cancer cell killing via alternating external magnetic field."
+answer: "Loha Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg twice daily. [Structural investigation of Ayurveda Lauha (Iron) Bhasma](https://pubmed.ncbi.nlm.nih.gov/36822148/). Journal of Ayurveda and integrative medicine. PMID [36822148](https://pubmed.ncbi.nlm.nih.gov/36822148/) · [doi:10.1016/j.jaim.2023.100690](https://doi.org/10.1016/j.jaim.2023.100690) Medicinal grade Lauha Bhasma comprises slightly modified magnetite structure with Fe2+/Fe3+ ratio of approximately 40:60."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Loha Bhasma", "LohaBhasma"]
 tags: ["ayurveda", "bhasma", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 634
+words: 676
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Loha-Bhasma/meta-analysis.md"
 ---
 ## Names and identification
@@ -48,10 +48,14 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Loha-Bhasma/meta-ana
 
 ## What do recent clinical trials show?
 
-- **Structural investigation of Ayurveda Lauha (Iron) Bhasma** (2023): Medicinal grade Lauha Bhasma comprises slightly modified magnetite structure with Fe2+/Fe3+ ratio of approximately 40:60. SEM/XRD studies reveal nanocrystalline iron oxide with potential for targeted cancer cell killing via alternating external magnetic field.
-- **Dhatri Lauha in the management of iron deficiency anemia: A prospective open-label single-arm multi-center trial** (2023): Multi-center clinical trial at 12 centers assessed clinical safety and efficacy of Lauha-based formulation in iron-deficiency anemia patients. Showed comparable hemoglobin improvement to ferrous sulfate with fewer gastrointestinal side effects.
-- **Toxicity study of Lauha Bhasma (calcined iron) in albino rats** (2016): No signs of toxicity or mortality observed up to 100x therapeutic dose in acute toxicity study. Safe at 1x and 5x therapeutic dose in subacute study. Some biochemical alterations at highest dose levels (10x) with histopathological changes.
-- **Double-blind clinical trial comparing [Loha Bhasma](/nighantu/herb/loha-bhasma/) to ferrous sulfate** (2018): [Loha Bhasma](/nighantu/herb/loha-bhasma/) group showed comparable rise in hemoglobin over 8 weeks to ferrous sulfate group, with significantly fewer gastrointestinal side effects (constipation, nausea, metallic taste).
+- Tiwari MK, Singh A, Khooha A and others 2023. [Structural investigation of Ayurveda Lauha (Iron) Bhasma](https://pubmed.ncbi.nlm.nih.gov/36822148/). *Journal of Ayurveda and integrative medicine*. PMID [36822148](https://pubmed.ncbi.nlm.nih.gov/36822148/) · [doi:10.1016/j.jaim.2023.100690](https://doi.org/10.1016/j.jaim.2023.100690)  
+  Medicinal grade Lauha Bhasma comprises slightly modified magnetite structure with Fe2+/Fe3+ ratio of approximately 40:60. SEM/XRD studies reveal nanocrystalline iron oxide with potential for targeted cancer cell killing via alternating external magnetic field.
+- Srikanth N, Rao BC, Yadav B and others 2021. [Dhatri Lauha in the management of iron deficiency anemia: A prospective open-label single-arm multi-center trial](https://pubmed.ncbi.nlm.nih.gov/37153071/). *Ayu*. PMID [37153071](https://pubmed.ncbi.nlm.nih.gov/37153071/) · [doi:10.4103/ayu.ayu_379_21](https://doi.org/10.4103/ayu.ayu_379_21)  
+  Multi-center clinical trial at 12 centers assessed clinical safety and efficacy of Lauha-based formulation in iron-deficiency anemia patients. Showed comparable hemoglobin improvement to ferrous sulfate with fewer gastrointestinal side effects.
+- Joshi N, Dash MK, Dwivedi L and others 2016. [Toxicity study of Lauha Bhasma (calcined iron) in albino rats](https://pubmed.ncbi.nlm.nih.gov/27143800/). *Ancient science of life*. PMID [27143800](https://pubmed.ncbi.nlm.nih.gov/27143800/) · [doi:10.4103/0257-7941.179870](https://doi.org/10.4103/0257-7941.179870)  
+  No signs of toxicity or mortality observed up to 100x therapeutic dose in acute toxicity study. Safe at 1x and 5x therapeutic dose in subacute study. Some biochemical alterations at highest dose levels (10x) with histopathological changes.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

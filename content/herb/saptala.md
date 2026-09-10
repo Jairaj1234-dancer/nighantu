@@ -16,7 +16,7 @@ aliases: ["Euphorbia dracunculoides Lam."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 553
+words: 608
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Saptala/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Saptala/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Studies on phytochemical, antioxidant, anti-inflammatory and analgesic activities of Euphorbia dracunculoides** (2023): Demonstrated significant antioxidant activity against hydroxyl and phosphomolybdate radicals; strong anti-inflammatory activity reducing carrageenan-induced paw edema in rats; confirmed analgesic properties.
-- **Traditional Uses, Pharmacological, and Phytochemical Studies of Euphorbia: A Review** (2024): Comprehensive genus-level review documenting diverse pharmacological activities of Euphorbia species including anti-inflammatory, [anticancer](/nighantu/reference/anticancer/), and antimicrobial properties with focus on ingenol and diterpene esters.
-- **Pharmacological Significance and Toxicity of Extracted Compounds from Euphorbia Species Found in Southern Africa** (2025): Reviewed toxicity and pharmacological significance of Euphorbia-derived compounds; emphasized need for careful dosing due to irritant latex and diterpene ester toxicity potential.
+- Majid M, Khan MR, Shah NA and others 2015. [Studies on phytochemical, antioxidant, anti-inflammatory and analgesic activities of Euphorbia dracunculoides](https://pubmed.ncbi.nlm.nih.gov/26445953/). *BMC complementary and alternative medicine*. PMID [26445953](https://pubmed.ncbi.nlm.nih.gov/26445953/) · [doi:10.1186/s12906-015-0868-0](https://doi.org/10.1186/s12906-015-0868-0)  
+  Demonstrated significant antioxidant activity against hydroxyl and phosphomolybdate radicals; strong anti-inflammatory activity reducing carrageenan-induced paw edema in rats; confirmed analgesic properties.
+- Amtaghri S, Akdad M, Slaoui M and others 2022. [Traditional Uses, Pharmacological, and Phytochemical Studies of Euphorbia: A Review](https://pubmed.ncbi.nlm.nih.gov/35838213/). *Current topics in medicinal chemistry*. PMID [35838213](https://pubmed.ncbi.nlm.nih.gov/35838213/) · [doi:10.2174/1568026622666220713143436](https://doi.org/10.2174/1568026622666220713143436)  
+  Comprehensive genus-level review documenting diverse pharmacological activities of Euphorbia species including anti-inflammatory, [anticancer](/nighantu/reference/anticancer/), and antimicrobial properties with focus on ingenol and diterpene esters.
+- Kgosiemang IKR, Lefojane R, Adegoke AM and others 2025. [Pharmacological Significance, Medicinal Use, and Toxicity of Extracted and Isolated Compounds from Euphorbia Species Found in Southern Africa: A Review](https://pubmed.ncbi.nlm.nih.gov/39943031/). *Plants (Basel, Switzerland)*. PMID [39943031](https://pubmed.ncbi.nlm.nih.gov/39943031/) · [doi:10.3390/plants14030469](https://doi.org/10.3390/plants14030469)  
+  Reviewed toxicity and pharmacological significance of Euphorbia-derived compounds; emphasized need for careful dosing due to irritant latex and diterpene ester toxicity potential.
 
 ## Recent safety updates
 

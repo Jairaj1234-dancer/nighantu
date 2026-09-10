@@ -16,7 +16,7 @@ aliases: ["Allium sativum L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 624
+words: 670
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lasuna/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lasuna/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **The Pharmacological and Therapeutic Versatility of Allium Species: A Comprehensive Exploration of Bioactive Constituents and Biological Activities** (2025): Comprehensive review documenting anti-inflammatory, antioxidant, antimicrobial, anticancer, antiviral, antidiabetic, and [hepatoprotective](/nighantu/reference/hepatoprotective/) effects of organosulfur compounds.
-- **Valorization of Garlic Byproducts: Bioactive Compounds, Biological Properties, and Applications** (2025): Identified bioactive compounds in garlic byproducts (skin, stem); documented novel applications in food preservation and pharmaceutical formulations.
-- **Traditional Uses, Phytochemistry, Pharmacology and Toxicology of Garlic: A Review of Research from the Last Decade** (2022): Decade-long review confirming garlic's multi-target pharmacological activities including antihyperlipidemic, [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive), anti-obesity, antimicrobial, and anti-Alzheimer activities.
+- Jain M, Patil N, Mohammed A and others 2025. [Valorization of garlic (Allium sativum L.) byproducts: Bioactive compounds, biological properties, and applications](https://pubmed.ncbi.nlm.nih.gov/40135462/). *Journal of food science*. PMID [40135462](https://pubmed.ncbi.nlm.nih.gov/40135462/) · [doi:10.1111/1750-3841.70152](https://doi.org/10.1111/1750-3841.70152)  
+  Identified bioactive compounds in garlic byproducts (skin, stem); documented novel applications in food preservation and pharmaceutical formulations.
+- Tudu CK, Dutta T, Ghorai M and others 2022. [Traditional uses, phytochemistry, pharmacology and toxicology of garlic (Allium sativum), a storehouse of diverse phytochemicals: A review of research from the last decade focusing on health and nutritional implications](https://pubmed.ncbi.nlm.nih.gov/36386956/). *Frontiers in nutrition*. PMID [36386956](https://pubmed.ncbi.nlm.nih.gov/36386956/) · [doi:10.3389/fnut.2022.929554](https://doi.org/10.3389/fnut.2022.929554)  
+  Decade-long review confirming garlic's multi-target pharmacological activities including antihyperlipidemic, [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive), anti-obesity, antimicrobial, and anti-Alzheimer activities.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

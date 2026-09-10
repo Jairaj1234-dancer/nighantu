@@ -16,7 +16,7 @@ aliases: ["Cassia occidentalis L. (syn. Senna occidentalis)"]
 tags: ["ayurveda", "herb", "single-herb", "skin-beauty", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 616
+words: 638
 srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kasamarda/meta-analysis.md"
 ---
 ## Names and identification
@@ -52,9 +52,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kasamarda/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Antifungal activity of root of Kasamarda (Cassia occidentalis)** (2024): Water and ethanol extracts demonstrated antifungal activity against Candida albicans, Rhodotorula glutinis, and Aspergillus niger, with ethanol extracts proving most effective, suggesting viable alternative treatment for fungal skin disorders.
-- **Medicinal Plants for Skin Disorders: Phytochemistry and Pharmacological Insights** (2025): Cassia occidentalis was identified among key medicinal plants for skin disorders, with documented antibacterial, antifungal, anti-diabetic, anti-inflammatory, anticancerous, antimutagenic, and [hepatoprotective](/nighantu/reference/hepatoprotective/) activities.
-- **Cassia occidentalis L.: A review on its ethnobotany, phytochemical and pharmacological profile** (2023): Comprehensive pharmacological review confirmed a wide range of biological activities including potent antifungal properties attributable to anthraquinone and chromone constituents.
+- Bolatkyzy N, Shepilov D, Turmanov R and others 2025. [Medicinal Plants for Skin Disorders: Phytochemistry and Pharmacological Insights](https://pubmed.ncbi.nlm.nih.gov/40807461/). *Molecules (Basel, Switzerland)*. PMID [40807461](https://pubmed.ncbi.nlm.nih.gov/40807461/) · [doi:10.3390/molecules30153281](https://doi.org/10.3390/molecules30153281)  
+  Cassia occidentalis was identified among key medicinal plants for skin disorders, with documented antibacterial, antifungal, anti-diabetic, anti-inflammatory, anticancerous, antimutagenic, and [hepatoprotective](/nighantu/reference/hepatoprotective/) activities.
+- Yadav JP, Arya V, Yadav S and others 2010. [Cassia occidentalis L.: a review on its ethnobotany, phytochemical and pharmacological profile](https://pubmed.ncbi.nlm.nih.gov/19796670/). *Fitoterapia*. PMID [19796670](https://pubmed.ncbi.nlm.nih.gov/19796670/) · [doi:10.1016/j.fitote.2009.09.008](https://doi.org/10.1016/j.fitote.2009.09.008)  
+  Comprehensive pharmacological review confirmed a wide range of biological activities including potent antifungal properties attributable to anthraquinone and chromone constituents.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

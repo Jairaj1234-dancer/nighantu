@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "mineral", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 785
+words: 706
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Mineral-Exudates/Shilajit/meta-analysis.md"
 ---
 ## Names and identification
@@ -38,13 +38,14 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Mineral-Exudates/Shilajit/me
 
 ## What do recent clinical trials show?
 
-- **Systematic Review of Shilajit: Clinical Efficacy and Safety** (2024): PRISMA-guided systematic review of 15 clinical studies (1,254 participants) across chronic fatigue syndrome, high-altitude sickness, cognitive decline, and infertility. Generally mild adverse events (GI discomfort, headache); no serious adverse events reported.
-- **Shilajit extract preserves bone mineral density in postmenopausal women with osteopenia** (2022): Randomized, double-blind, placebo-controlled trial demonstrated Shilajit extract reduced oxidative stress, inflammation, and bone loss in a dose-dependent manner to preserve BMD in postmenopausal women with osteopenia.
-- **Pre-clinical Evaluation of Shilajit in Cancer: A Systematic Review** (2025): Systematic review found promising preclinical [anticancer](/nighantu/reference/anticancer/) evidence but no randomized controlled clinical trials or human studies evaluating Shilajit as a primary anticancer therapy.
-- **Unlocking the potential of Shilajit in Vascular Dementia - pathology and management** (2025): Review exploring Shilajit's [neuroprotective](/nighantu/reference/neuroprotective/) potential in vascular dementia via cAMP/NO signaling and anti-inflammatory pathways, with fulvic acid blocking tau self-aggregation relevant to Alzheimer's research.
-- **Shilajit as a Neuroprotective Agent Against Amyloid Beta-induced Cytotoxicity and Inflammation** (2024): Demonstrated Shilajit's protective effects against amyloid-beta induced neurotoxicity and neuroinflammation in cellular models, supporting potential for neurodegenerative disease applications.
-- **Effects of oral Shilajit tablets on sexual function and sexual quality of life in reproductive-aged women** (2023): Triple-blind randomized clinical trial showed significant improvement in sexual function and sexual quality of life in reproductive-aged women following Shilajit supplementation.
-- **Chemical Analysis of Native Himalayan Shilajit: An Evaluation of an Ayurvedic Formulation** (2025): ACS Omega publication providing detailed chemical characterization of Himalayan Shilajit identifying dibenzo-alpha-pyrones, fulvic acids, humic acids, trace minerals, and heavy metal profiles.
+- Stohs SJ 2014. [Safety and efficacy of shilajit (mumie, moomiyo)](https://pubmed.ncbi.nlm.nih.gov/23733436/). *Phytotherapy research : PTR*. PMID [23733436](https://pubmed.ncbi.nlm.nih.gov/23733436/) · [doi:10.1002/ptr.5018](https://doi.org/10.1002/ptr.5018)  
+  PRISMA-guided systematic review of 15 clinical studies (1,254 participants) across chronic fatigue syndrome, high-altitude sickness, cognitive decline, and infertility. Generally mild adverse events (GI discomfort, headache); no serious adverse events reported.
+- Das SS, Ramkumar M, Singh H and others 2026. [Pre-clinical Evaluation of Shilajit in Cancer: A Systematic Review](https://pubmed.ncbi.nlm.nih.gov/41640940/). *Cureus*. PMID [41640940](https://pubmed.ncbi.nlm.nih.gov/41640940/) · [doi:10.7759/cureus.101736](https://doi.org/10.7759/cureus.101736)  
+  Systematic review found promising preclinical [anticancer](/nighantu/reference/anticancer/) evidence but no randomized controlled clinical trials or human studies evaluating Shilajit as a primary anticancer therapy.
+- Basavaraja D, Katkar R, Dhaka P and others 2025. [Chemical Analysis of Native Himalayan Shilajit: An Evaluation of an Ayurvedic Formulation](https://pubmed.ncbi.nlm.nih.gov/41404054/). *ACS omega*. PMID [41404054](https://pubmed.ncbi.nlm.nih.gov/41404054/) · [doi:10.1021/acsomega.5c05533](https://doi.org/10.1021/acsomega.5c05533)  
+  ACS Omega publication providing detailed chemical characterization of Himalayan Shilajit identifying dibenzo-alpha-pyrones, fulvic acids, humic acids, trace minerals, and heavy metal profiles.
+
+*4 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

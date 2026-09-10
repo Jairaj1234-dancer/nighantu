@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Bhasmas"
-answer: "Kasis Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg. Demonstrated hepatoprotective activity against carbon tetrachloride-induced hepatotoxicity in rat models. Preparation and standardization of Kasis Bhasma by two methods (2020): Comparative study of two preparation methods established physicochemical standards for quality control."
+answer: "Kasis Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg. An absence here means we could not identify the source, not that no work exists. SAFER THAN RAW FORM: Calcined Kasis Bhasma is nontoxic compared to unpurified Kasisa."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Kasis Bhasma", "KasisBhasma"]
 tags: ["ayurveda", "bhasma", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 443
+words: 382
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kasis-Bhasma/meta-analysis.md"
 ---
 ## Names and identification
@@ -48,9 +48,9 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kasis-Bhasma/meta-an
 
 ## What do recent clinical trials show?
 
-- **Toxicity studies of iron-containing ayurvedic drug Kasisa Bhasma** (2016): Kasisa Bhasma found nontoxic and safer compared to unpurified Kasisa. Demonstrated hepatoprotective activity against carbon tetrachloride-induced hepatotoxicity in rat models.
-- **Preparation and standardization of [Kasis Bhasma](/nighantu/herb/kasis-bhasma/) by two methods** (2020): Comparative study of two preparation methods established physicochemical standards for quality control. Both methods yielded products meeting classical Bhasma parameters.
-- **Clinical evaluation of [Kasis Bhasma](/nighantu/herb/kasis-bhasma/) in iron-deficiency anemia** (2019): [Kasis Bhasma](/nighantu/herb/kasis-bhasma/) improved hemoglobin levels and ferritin without the gastrointestinal side effects commonly seen with conventional ferrous sulfate supplementation.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

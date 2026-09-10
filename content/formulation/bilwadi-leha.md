@@ -16,7 +16,7 @@ aliases: ["Bilwadi Leha", "BilwadiLeha"]
 tags: ["ayurveda", "formulation", "leham", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 573
+words: 580
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Bilwadi-Leha/meta-analysis.md"
 ---
 ## Names and identification
@@ -59,9 +59,10 @@ Bhaishajya Ratnavali; Sharangadhara Samhita; Kerala Ayurveda tradition (medieval
 
 ## What do recent clinical trials show?
 
-- **Clinical evaluation of Bilvadileha in the management of irritable bowel syndrome** (2014): 46 IBS patients treated for 12 weeks showed 67.09% improvement in abdominal pain, 100% resolution of bloating, 86.96% improvement in IBS-D, 100% resolution of mucus passage, and 97.50% improvement in urgency
-- **Bilwadi Churna standardization and analytical profiling for IBS management** (2022): Physicochemical standardization established quality control parameters for Bilwadi formulations used in IBS and diarrhea management
-- **Aegle marmelos pharmacological review for gastrointestinal disorders** (2021): Bael (primary ingredient) validated for anti-diarrheal, antimicrobial, and anti-ulcer properties supporting traditional Grahani (IBS) management
+- Tiwari R, Pandya DH, Baghel MS 2013. [Clinical evaluation of Bilvadileha in the management of irritable bowel syndrome](https://pubmed.ncbi.nlm.nih.gov/24696573/). *Ayu*. PMID [24696573](https://pubmed.ncbi.nlm.nih.gov/24696573/) · [doi:10.4103/0974-8520.127717](https://doi.org/10.4103/0974-8520.127717)  
+  46 IBS patients treated for 12 weeks showed 67.09% improvement in abdominal pain, 100% resolution of bloating, 86.96% improvement in IBS-D, 100% resolution of mucus passage, and 97.50% improvement in urgency
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

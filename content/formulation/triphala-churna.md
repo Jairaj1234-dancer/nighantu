@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Churnas-Powders"
-answer: "Triphala Churna is a classical Ayurvedic churna, a fine herbal powder. The usual dose is 3-6g at bedtime or before meals. New Study Suggests Triphala Has Prebiotic Properties (2024): Triphala promotes growth of beneficial gut bacteria including Bifidobacterium and Lactobacillus acidophilus while inhibiting growth of pathogenic bacteria, demonstrating significant prebiotic potential."
+answer: "Triphala Churna is a classical Ayurvedic churna, a fine herbal powder. The usual dose is 3-6g at bedtime or before meals. [Triphala: current applications and new perspectives on the treatment of functional gastrointestinal disorders](https://pubmed.ncbi.nlm.nih.gov/30034512/)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Triphala Churna", "TriphalaChurna"]
 tags: ["ayurveda", "formulation", "churna", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 607
+words: 608
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Triphala-Churna/meta-analysis.md"
 ---
 ## Names and identification
@@ -52,10 +52,12 @@ Charaka Samhita (Sutra Sthana, Chapters 4 and 25; Chikitsa Sthana, Chapter 1 - [
 
 ## What do recent clinical trials show?
 
-- **[Triphala](/nighantu/herb/triphala/) polyphenols and their role in supporting metabolic and gastrointestinal wellness** (2025): Scientific review validated pharmacological significance of [Triphala](/nighantu/herb/triphala/)'s polyphenols - gallic acid, chebulagic acid, ellagic acid, [flavonoids](/nighantu/reference/flavonoids/), and tannins - in supporting metabolic and gastrointestinal wellness and oxidative stress-related conditions.
-- **New Study Suggests [Triphala](/nighantu/herb/triphala/) Has Prebiotic Properties** (2024): [Triphala](/nighantu/herb/triphala/) promotes growth of beneficial gut bacteria including Bifidobacterium and Lactobacillus acidophilus while inhibiting growth of pathogenic bacteria, demonstrating significant prebiotic potential.
-- **[Triphala](/nighantu/herb/triphala/): current applications and new perspectives on the treatment of functional gastrointestinal disorders** (2018): Research confirmed Triphala restores epithelial lining of the digestive tract, exhibits mild laxative properties facilitating colonic transit, and demonstrates free radical scavenging, antioxidant, anti-inflammatory, immunomodulating, antibacterial, and [anticancer](/nighantu/reference/anticancer/) effects.
-- **Therapeutic Uses of Triphala in Ayurvedic Medicine - Comprehensive PMC Review** (2017): Validated therapeutic effects including appetite stimulation, gastric hyperacidity reduction, dental caries prevention, [antipyretic](/nighantu/reference/antipyretic/), [analgesic](/nighantu/reference/analgesic/), antibacterial, antimutagenic, wound healing, [hepatoprotective](/nighantu/reference/hepatoprotective/), chemoprotective, and radioprotective activities.
+- Tarasiuk A, Mosińska P, Fichna J 2018. [Triphala: current applications and new perspectives on the treatment of functional gastrointestinal disorders](https://pubmed.ncbi.nlm.nih.gov/30034512/). *Chinese medicine*. PMID [30034512](https://pubmed.ncbi.nlm.nih.gov/30034512/) · [doi:10.1186/s13020-018-0197-6](https://doi.org/10.1186/s13020-018-0197-6)  
+  Research confirmed Triphala restores epithelial lining of the digestive tract, exhibits mild laxative properties facilitating colonic transit, and demonstrates free radical scavenging, antioxidant, anti-inflammatory, immunomodulating, antibacterial, and [anticancer](/nighantu/reference/anticancer/) effects.
+- Peterson CT, Denniston K, Chopra D 2017. [Therapeutic Uses of Triphala in Ayurvedic Medicine](https://pubmed.ncbi.nlm.nih.gov/28696777/). *Journal of alternative and complementary medicine (New York, N.Y.)*. PMID [28696777](https://pubmed.ncbi.nlm.nih.gov/28696777/) · [doi:10.1089/acm.2017.0083](https://doi.org/10.1089/acm.2017.0083)  
+  Validated therapeutic effects including appetite stimulation, gastric hyperacidity reduction, dental caries prevention, [antipyretic](/nighantu/reference/antipyretic/), [analgesic](/nighantu/reference/analgesic/), antibacterial, antimutagenic, wound healing, [hepatoprotective](/nighantu/reference/hepatoprotective/), chemoprotective, and radioprotective activities.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

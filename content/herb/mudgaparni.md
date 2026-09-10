@@ -16,7 +16,7 @@ aliases: ["Phaseolus trilobus Ait. (syn. Vigna trilobata (L.) Verdc.)"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 543
+words: 468
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mudgaparni/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mudgaparni/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Phytochemical and pharmacological attributes of Phaseolus trilobus - A major herbal ingredient of Pharma products** (2022): Comprehensive review of active components including flavonoids, isoflavonoids, tannins, stigmasterol, and [vitamins](/nighantu/glossary/compounds-t-z/#vitamins), with validation of hepatoprotective, antidiabetic, and antioxidant properties.
-- **Hepatoprotective activity of Phaseolus trilobus root extract in cholestatic liver injury** (2021): Root extract at 400 mg/kg demonstrated significant hepatoprotective effects against oxidative stress-induced cholestatic hepatic injury, with normalization of liver enzyme markers.
-- **Antidiabetic evaluation of Phaseolus trilobus root extract in diabetic rats** (2021): Oral administration at 400 mg/kg showed significant body weight increase and blood glucose reduction by 15th and 20th day post-induction compared to untreated diabetic controls.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

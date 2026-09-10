@@ -16,7 +16,7 @@ aliases: ["Guggulutiktakam Ghritam", "GuggulutiktakamGhritam"]
 tags: ["ayurveda", "formulation", "ghritam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 584
+words: 589
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Guggulutiktakam-Ghritam/meta-analysis.md"
 ---
 ## Names and identification
@@ -60,9 +60,10 @@ Ashtanga Hridayam (written circa 750 CE by Vagbhata); also known as Pancatikta [
 
 ## What do recent clinical trials show?
 
-- **Anti-hyperglycemic, anti-hyperlipidemic, and anti-inflammatory effect of Guggulutiktaka [Ghrita](/nighantu/herb/ghrita/) on high-fat diet-induced obese rats** (2022): Guggulutiktaka [Ghrita](/nighantu/herb/ghrita/) demonstrated significant anti-hyperglycemic, anti-hyperlipidemic, and anti-inflammatory effects in high-fat diet-induced obese rats, modulating proinflammatory cytokines
-- **Role of Guggulutiktaka [Ghrita](/nighantu/herb/ghrita/) in the management of osteoarthritis with special reference to knee joint** (2015): Pilot study showed effective reduction in pain, swelling, tenderness, and restriction of movements in osteoarthritis patients without noxious effects
-- **Guggulutiktaka Ghritam modulates proinflammatory cytokines** (2022): Demonstrated modulation of proinflammatory cytokines in chronic inflammatory conditions, supporting its classical use in Vatarakta (gout) and bone disorders
+- Sheik SM, Bakthavatchalam P, Shenoy RP and others 2022. [Anti-hyperglycemic, anti-hyperlipidemic, and anti-inflammatory effect of the drug Guggulutiktaka ghrita on high-fat diet-induced obese rats](https://pubmed.ncbi.nlm.nih.gov/35759880/). *Journal of Ayurveda and integrative medicine*. PMID [35759880](https://pubmed.ncbi.nlm.nih.gov/35759880/) · [doi:10.1016/j.jaim.2022.100583](https://doi.org/10.1016/j.jaim.2022.100583)  
+  Guggulutiktaka [Ghrita](/nighantu/herb/ghrita/) demonstrated significant anti-hyperglycemic, anti-hyperlipidemic, and anti-inflammatory effects in high-fat diet-induced obese rats, modulating proinflammatory cytokines
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

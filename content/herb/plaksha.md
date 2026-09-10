@@ -16,7 +16,7 @@ aliases: ["Ficus lacor Buch.-Ham."]
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 601
+words: 529
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Plaksha/meta-analysis.md"
 ---
 ## Names and identification
@@ -56,9 +56,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Plaksha/meta-analysis.md
 
 ## What do recent clinical trials show?
 
-- **A comprehensive review on phytochemical, pharmacognostical properties and pharmacological activities of Ficus lacor L. (Moraceae)** (2023): Documented antihyperglycemic, anti-inflammatory, [hepatoprotective](/nighantu/reference/hepatoprotective/), anti-arthritic, antiallergic and immunostimulatory activities with identification of key bioactive flavonoids and triterpenoids.
-- **Formulation and Efficacy of Plaksha (Ficus lacor) Ointment in the Management of Non-Healing Ulcer** (2021): Plaksha bark ointment formulation showed significant wound healing activity in non-healing ulcer patients, validating traditional Ayurvedic topical application for Vrana (wounds).
-- **Pharmacognostical Evaluation of the Fruit of Plaksha - Ficus lacor Buch. Ham.** (2023): Pharmacognostic standardization of fruit identified diagnostic microscopic features and confirmed presence of flavonoids, [tannins](/nighantu/reference/tannins/), [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) and triterpenoids as quality markers.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

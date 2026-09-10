@@ -16,7 +16,7 @@ aliases: ["Bacopa monnieri"]
 tags: ["ayurveda", "herb", "single-herb", "brain-nervous-system", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "AgeAyurveda Product Catalog", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu, Ashtanga Hridaya)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: ["Natural Sleep Aid", "ADHD Ease", "Grow and Glow Hair Oil", "Nasja Oil"]
-words: 918
+words: 1004
 srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Brahmi/meta-analysis.md"
 ---
 ## Names and identification
@@ -82,11 +82,16 @@ Named after Brahma (creator god) for its intellect-enhancing properties. One of 
 
 ## What do recent clinical trials show?
 
-- **Systematic Review of 22 Clinical Trials on Bacopa monnieri** (2024): 22 clinical trials across diverse populations (children with inattention/hyperactivity, healthy adults, neurodegenerative disease patients) showed promising results for cognitive enhancement, though trials varied widely in dose and duration.
-- **Bacopa monnieri Extract (Bacumen) on Cognition, Stress, and Fatigue: Randomized Double-Blind Placebo-Controlled Trial** (2025): 12-week supplementation did not show greater cognitive performance improvement vs placebo, but significantly reduced self-reported stress reactivity and fatigue after cognitive-demanding tasks.
-- **Bacopa monnieri for Amnestic Mild Cognitive Impairment and Early Alzheimer's: Double-Blind RCT Protocol** (2026): Exploratory trial protocol registered for evaluating efficacy on cognitive function and blood metabolite alterations in MCI and early Alzheimer's patients.
-- **Neuroprotective and Cognitive-Enhancing Effects of Bacopa monnieri: Systematic Review on Inflammation, Oxidative Stress, Mitochondrial Dysfunction, and Apoptosis** (2024): Comprehensive review confirmed Bacopa's neuroprotective effects through anti-inflammatory, antioxidant, neurotransmitter modulation, neurotrophic factor induction, and anti-apoptotic mechanisms.
-- **Amelioration of Amyloid-beta Induced Alzheimer's Disease by Bacopa monnieri Through Modulation of Mitochondrial Dysfunction and GSK-3beta/Wnt/beta-catenin Signaling** (2023): Bacopa monnieri demonstrated significant amelioration of amyloid-beta-induced Alzheimer's pathology via mitochondrial function restoration and GSK-3beta/Wnt/beta-catenin pathway modulation.
+- Lopresti AL, Smith SJ 2025. [The Effects of a Bacopa monnieri Extract (Bacumen(®)) on Cognition, Stress, and Fatigue in Healthy Adults: A Randomized, Double-Blind, Placebo-Controlled Trial](https://pubmed.ncbi.nlm.nih.gov/41091332/). *Clinical drug investigation*. PMID [41091332](https://pubmed.ncbi.nlm.nih.gov/41091332/) · [doi:10.1007/s40261-025-01492-1](https://doi.org/10.1007/s40261-025-01492-1)  
+  12-week supplementation did not show greater cognitive performance improvement vs placebo, but significantly reduced self-reported stress reactivity and fatigue after cognitive-demanding tasks.
+- Dwivedi A, Anjali A, Narzari H and others 2026. [Efficacy of Bacopa monnieri (Linn.) on Cognitive Function and Alterations in Blood Metabolites in Patients With Amnestic Mild Cognitive Impairment and Early Alzheimer Disease: Protocol for an Exploratory Double-Blind, Randomized, Placebo-Controlled Trial](https://pubmed.ncbi.nlm.nih.gov/41740144/). *JMIR research protocols*. PMID [41740144](https://pubmed.ncbi.nlm.nih.gov/41740144/) · [doi:10.2196/82891](https://doi.org/10.2196/82891)  
+  Exploratory trial protocol registered for evaluating efficacy on cognitive function and blood metabolite alterations in MCI and early Alzheimer's patients.
+- Valotto Neto LJ, Reverete de Araujo M, Moretti Junior RC and others 2024. [Investigating the Neuroprotective and Cognitive-Enhancing Effects of Bacopa monnieri: A Systematic Review Focused on Inflammation, Oxidative Stress, Mitochondrial Dysfunction, and Apoptosis](https://pubmed.ncbi.nlm.nih.gov/38671841/). *Antioxidants (Basel, Switzerland)*. PMID [38671841](https://pubmed.ncbi.nlm.nih.gov/38671841/) · [doi:10.3390/antiox13040393](https://doi.org/10.3390/antiox13040393)  
+  Comprehensive review confirmed Bacopa's neuroprotective effects through anti-inflammatory, antioxidant, neurotransmitter modulation, neurotrophic factor induction, and anti-apoptotic mechanisms.
+- Sushma, Sahu MR, Murugan NA and others 2024. [Amelioration of Amyloid-β Induced Alzheimer's Disease by Bacopa monnieri through Modulation of Mitochondrial Dysfunction and GSK-3β/Wnt/β-Catenin Signaling](https://pubmed.ncbi.nlm.nih.gov/38143280/). *Molecular nutrition & food research*. PMID [38143280](https://pubmed.ncbi.nlm.nih.gov/38143280/) · [doi:10.1002/mnfr.202300245](https://doi.org/10.1002/mnfr.202300245)  
+  Bacopa monnieri demonstrated significant amelioration of amyloid-beta-induced Alzheimer's pathology via mitochondrial function restoration and GSK-3beta/Wnt/beta-catenin pathway modulation.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

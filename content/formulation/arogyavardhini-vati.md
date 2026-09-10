@@ -16,7 +16,7 @@ aliases: ["Arogyavardhini Vati", "ArogyavardhiniVati"]
 tags: ["ayurveda", "formulation", "vati", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 749
+words: 760
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Arogyavardhini-Vati/meta-analysis.md"
 ---
 ## Names and identification
@@ -63,10 +63,12 @@ Rasa Ratna Samuchchaya (Chapter 20); also described in Rasendra Sara Sangraha an
 
 ## What do recent clinical trials show?
 
-- **[Arogyavardhini Vati](/nighantu/formulation/arogyavardhini-vati/) - Critical Analysis of a Miracle Drug** (2024): Comprehensive review confirmed efficacy in hepatitis, non-alcoholic and alcoholic fatty liver, ascites (Jalodara), and autoimmune liver disease through hepatoprotective, anti-inflammatory, and antioxidant mechanisms.
-- **Tissue distribution of mercury and copper after Aarogyavardhini Vati treatment in rat model of CCl4 induced chronic hepatotoxicity** (2021): [Arogyavardhini Vati](/nighantu/formulation/arogyavardhini-vati/) did not exhibit biologically significant toxicity from mercury or copper content when administered for prolonged duration in rats with chronic hepatotoxicity, supporting traditional safety claims at recommended doses.
-- **Hepatoprotective evaluation of Arogyavardhini Rasa against D-galactosamine induced hepatic damage** (2017): Pretreatment with Arogyavardhini attenuated liver damage indicators in a dose-dependent manner, with significant reduction in MDA concentration and improvement in glutathione and superoxide dismutase levels.
-- **Safety and efficacy evaluation of Ayurvedic treatment ([Arjuna](/nighantu/herb/arjuna/) powder and [Arogyavardhini Vati](/nighantu/formulation/arogyavardhini-vati/)) in dyslipidemia patients** (2013): Pilot prospective cohort study demonstrated hypolipidemic activity comparable to fenofibrate in Triton WR-1339-induced hyperlipidemic models.
+- Jamadagni S, Jamadagni P, Angom B and others 2020. [Tissue distribution of mercury and copper after Aarogyavardhini Vati treatment in rat model of CCl(4) induced chronic hepatotoxicity](https://pubmed.ncbi.nlm.nih.gov/32035767/). *Journal of Ayurveda and integrative medicine*. PMID [32035767](https://pubmed.ncbi.nlm.nih.gov/32035767/) · [doi:10.1016/j.jaim.2019.09.005](https://doi.org/10.1016/j.jaim.2019.09.005)  
+  [Arogyavardhini Vati](/nighantu/formulation/arogyavardhini-vati/) did not exhibit biologically significant toxicity from mercury or copper content when administered for prolonged duration in rats with chronic hepatotoxicity, supporting traditional safety claims at recommended doses.
+- Kumar G, Srivastava A, Sharma SK and others 2012. [Safety and efficacy evaluation of Ayurvedic treatment (Arjuna powder and Arogyavardhini Vati) in dyslipidemia patients: A pilot prospective cohort clinical study](https://pubmed.ncbi.nlm.nih.gov/23559790/). *Ayu*. PMID [23559790](https://pubmed.ncbi.nlm.nih.gov/23559790/) · [doi:10.4103/0974-8520.105238](https://doi.org/10.4103/0974-8520.105238)  
+  Pilot prospective cohort study demonstrated hypolipidemic activity comparable to fenofibrate in Triton WR-1339-induced hyperlipidemic models.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

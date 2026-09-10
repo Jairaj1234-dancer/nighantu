@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Bhasmas"
-answer: "Raupya Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 15–30 mg. The 16 nm spherical nanostructure showed pharmacological activity at therapeutic doses. Analgesic activity and safety of ash of silver used in Indian system of medicine in mice (2012): Silver ash exhibited significant analgesic activity comparable to aspirin in peripheral pain-producing methods."
+answer: "Raupya Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 15–30 mg. [Sedative-hypnotic Effect of Ash of Silver in Mice: A Reverse Pharmacological Study](https://pubmed.ncbi.nlm.nih.gov/25379470/). Journal of traditional and complementary medicine."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Raupya Bhasma", "RaupyaBhasma"]
 tags: ["ayurveda", "bhasma", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 568
+words: 611
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Raupya-Bhasma/meta-analysis.md"
 ---
 ## Names and identification
@@ -48,9 +48,12 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Raupya-Bhasma/meta-a
 
 ## What do recent clinical trials show?
 
-- **Sedative-hypnotic Effect of Ash of Silver in Mice: A Reverse Pharmacological Study** (2014): Ash of silver demonstrated significant sedative-hypnotic activity in mice, supporting traditional Ayurvedic claims for treating insomnia and anxiety. The 16 nm spherical nanostructure showed pharmacological activity at therapeutic doses.
-- **Analgesic activity and safety of ash of silver used in Indian system of medicine in mice** (2012): Silver ash exhibited significant analgesic activity comparable to aspirin in peripheral pain-producing methods. Safety assessment at therapeutic doses showed no acute toxicity.
-- **Evidence for safety of Ayurvedic herbal, herbo-metallic and Bhasma preparations on neurobehavioral activity and oxidative stress in rats** (2013): [Raupya Bhasma](/nighantu/herb/raupya-bhasma/) along with other Bhasma preparations showed evidence of safety on neurobehavioral parameters and did not increase oxidative stress markers in rat models at therapeutic doses.
+- Inder D, Kumar P 2014. [Sedative-hypnotic Effect of Ash of Silver in Mice: A Reverse Pharmacological Study](https://pubmed.ncbi.nlm.nih.gov/25379470/). *Journal of traditional and complementary medicine*. PMID [25379470](https://pubmed.ncbi.nlm.nih.gov/25379470/) · [doi:10.4103/2225-4110.129198](https://doi.org/10.4103/2225-4110.129198)  
+  Ash of silver demonstrated significant sedative-hypnotic activity in mice, supporting traditional Ayurvedic claims for treating insomnia and anxiety. The 16 nm spherical nanostructure showed pharmacological activity at therapeutic doses.
+- Inder D, Rehan HS, Bajaj VK and others 2012. [Analgesic activity and safety of ash of silver used in Indian system of medicine in mice: a reverse pharmacological study](https://pubmed.ncbi.nlm.nih.gov/22345869/). *Indian journal of pharmacology*. PMID [22345869](https://pubmed.ncbi.nlm.nih.gov/22345869/) · [doi:10.4103/0253-7613.91866](https://doi.org/10.4103/0253-7613.91866)  
+  Silver ash exhibited significant analgesic activity comparable to aspirin in peripheral pain-producing methods. Safety assessment at therapeutic doses showed no acute toxicity.
+- Kumar G, Gupta YK 2012. [Evidence for safety of Ayurvedic herbal, herbo-metallic and Bhasma preparations on neurobehavioral activity and oxidative stress in rats](https://pubmed.ncbi.nlm.nih.gov/23723678/). *Ayu*. PMID [23723678](https://pubmed.ncbi.nlm.nih.gov/23723678/) · [doi:10.4103/0974-8520.110514](https://doi.org/10.4103/0974-8520.110514)  
+  [Raupya Bhasma](/nighantu/herb/raupya-bhasma/) along with other Bhasma preparations showed evidence of safety on neurobehavioral parameters and did not increase oxidative stress markers in rat models at therapeutic doses.
 
 ## Recent safety updates
 

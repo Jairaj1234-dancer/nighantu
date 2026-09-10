@@ -16,7 +16,7 @@ aliases: ["Dhanwantaram Kashayam", "DhanwantaramKashayam"]
 tags: ["ayurveda", "formulation", "kashayam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 485
+words: 441
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Dhanwantaram-Kashayam/meta-analysis.md"
 ---
 ## Names and identification
@@ -57,9 +57,9 @@ Ashtanga Hridayam (Sutrasthana), named after Lord Dhanwantari. Also referenced i
 
 ## What do recent clinical trials show?
 
-- **Anti-inflammatory activity of [Dashamoola](/nighantu/herb/dashamoola/) extracts in vitro** (2019): In vitro assays revealed [Dashamoola](/nighantu/herb/dashamoola/) extracts inhibit COX-2 and 5-LOX [enzymes](/nighantu/glossary/compounds-d-g/#enzymes), providing scientific validation for the anti-inflammatory claims from classical texts.
-- **Neuroprotective properties of Dhanwantaram formulation constituents** (2020): [Bala](/nighantu/herb/bala/) and [Ashwagandha](/nighantu/herb/ashwagandha/) components demonstrated neuroprotective effects through BDNF upregulation and reduction of neuroinflammatory markers in animal models.
-- **Postpartum recovery with [Dhanwantaram Kashayam](/nighantu/formulation/dhanwantaram-kashayam/): an observational study** (2021): Observational study in Kerala showed faster uterine involution and improved pain scores in postpartum women receiving [Dhanwantaram Kashayam](/nighantu/formulation/dhanwantaram-kashayam/) compared to standard care alone.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

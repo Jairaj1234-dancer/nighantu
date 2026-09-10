@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "loha", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 514
+words: 434
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Lohas-Iron-Preparations/Lohasava/meta-analysis.md"
 ---
 ## Names and identification
@@ -45,9 +45,9 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 10, Verses 34-38; also referenced
 
 ## What do recent clinical trials show?
 
-- **Scientific evaluation of some Ayurvedic preparations for correction of iron deficiency and anemia** (2002): Lohasava found to be an even more effective hematinic preparation than conventional iron therapy; showed statistically significant increases in hemoglobin, PCV, RBC count, and iron parameters
-- **Formulation and standardization of Lohasava: an Ayurvedic Aasava formulation** (2024): Standardization study assessed pH, specific gravity, viscosity, acid values, total solid content, alcohol content, and heavy metal content; all parameters found within acceptable limits with good fermentation indicators
-- **Toxicity studies of Ayurvedic iron preparations including Lohasava at five times therapeutic dose** (2010): No serious toxic effects observed at 5x therapeutic dose in animal models with significant recovery after recovery period
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "skin-beauty", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "AgeAyurveda Product Catalog", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu, Ashtanga Hridaya)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: ["Immuno Plus", "Haridra"]
-words: 1061
+words: 1202
 srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Turmeric/meta-analysis.md"
 ---
 ## Names and identification
@@ -83,12 +83,18 @@ Used in virtually every Ayurvedic formulation. Sacred in Hindu rituals. Classifi
 
 ## What do recent clinical trials show?
 
-- **[Curcumin](/nighantu/herb/curcumin/) on Human Health: Comprehensive Systematic Review and Meta-Analysis of 103 Randomized Controlled Trials** (2024): 103 RCTs covering 42 outcomes in 7,216 participants. High-credibility evidence for improvements in fasting blood sugar, CRP, HDL cholesterol, and body weight.
-- **[Curcumin](/nighantu/herb/curcumin/) and Curcuma longa Extract Effects on Inflammatory Biomarkers in RA and SLE: Systematic Review and Meta-Analysis of RCTs** (2025): Curcuma longa significantly attenuated systemic inflammation, lowering C-reactive protein and TNF-alpha in rheumatoid arthritis and systemic lupus erythematosus patients.
-- **Efficacy and Safety of [Curcumin](/nighantu/herb/curcumin/) in Treatment of Arthritis: Systematic Review and Meta-Analysis** (2022): 29 RCTs with 2,396 participants across 5 types of arthritis showed [curcumin](/nighantu/herb/curcumin/) improved inflammation and pain levels with acceptable safety profile.
-- **Curcuma longa as Nutraceutical for Metabolic Syndrome: Systematic Review and Meta-Analysis** (2024): [Curcumin](/nighantu/herb/curcumin/) significantly reduced fasting blood sugar, HbA1c, triglycerides, and LDL while elevating HDL and total antioxidant capacity in metabolic syndrome patients.
-- **[Curcumin](/nighantu/herb/curcumin/) and Multiple Health Outcomes: Critical Umbrella Review of Intervention Meta-Analyses** (2025): Umbrella review synthesizing multiple meta-analyses confirmed broad therapeutic benefits but emphasized need for improved scientific quality in published studies.
-- **Potential Therapeutic Benefits of Curcumin in Depression or Anxiety Induced by Chronic Diseases** (2025): 15 RCTs with 1,123 participants showed curcumin has potential benefits for depression and anxiety symptoms in patients with chronic diseases.
+- Jafari A, Abbastabar M, Alaghi A and others 2024. [Curcumin on Human Health: A Comprehensive Systematic Review and Meta-Analysis of 103 Randomized Controlled Trials](https://pubmed.ncbi.nlm.nih.gov/39478418/). *Phytotherapy research : PTR*. PMID [39478418](https://pubmed.ncbi.nlm.nih.gov/39478418/) · [doi:10.1002/ptr.8340](https://doi.org/10.1002/ptr.8340)  
+  103 RCTs covering 42 outcomes in 7,216 participants. High-credibility evidence for improvements in fasting blood sugar, CRP, HDL cholesterol, and body weight.
+- Liu AJ, Wu PC, Chen YP and others 2025. [Effects of curcumin and Curcuma longa extract on inflammatory biomarkers in patients with rheumatoid arthritis (RA) and systemic lupus erythematosus (SLE): a systematic review and meta-analysis of randomized controlled trials](https://pubmed.ncbi.nlm.nih.gov/41372521/). *Inflammation research : official journal of the European Histamine Research Society ... [et al.]*. PMID [41372521](https://pubmed.ncbi.nlm.nih.gov/41372521/) · [doi:10.1007/s00011-025-02135-z](https://doi.org/10.1007/s00011-025-02135-z)  
+  Curcuma longa significantly attenuated systemic inflammation, lowering C-reactive protein and TNF-alpha in rheumatoid arthritis and systemic lupus erythematosus patients.
+- Zeng L, Yang T, Yang K and others 2022. [Efficacy and Safety of Curcumin and Curcuma longa Extract in the Treatment of Arthritis: A Systematic Review and Meta-Analysis of Randomized Controlled Trial](https://pubmed.ncbi.nlm.nih.gov/35935936/). *Frontiers in immunology*. PMID [35935936](https://pubmed.ncbi.nlm.nih.gov/35935936/) · [doi:10.3389/fimmu.2022.891822](https://doi.org/10.3389/fimmu.2022.891822)  
+  29 RCTs with 2,396 participants across 5 types of arthritis showed [curcumin](/nighantu/herb/curcumin/) improved inflammation and pain levels with acceptable safety profile.
+- Kehinde SA, Qaisrani ZN, Pattanayaiying R and others 2025. [Clinical Potential of Curcuma longa Linn. as Nutraceutical/Dietary Supplement for Metabolic Syndrome: Systematic Review and Meta-Analysis of Randomized Controlled Trials](https://pubmed.ncbi.nlm.nih.gov/41517125/). *Foods (Basel, Switzerland)*. PMID [41517125](https://pubmed.ncbi.nlm.nih.gov/41517125/) · [doi:10.3390/foods15010060](https://doi.org/10.3390/foods15010060)  
+  [Curcumin](/nighantu/herb/curcumin/) significantly reduced fasting blood sugar, HbA1c, triglycerides, and LDL while elevating HDL and total antioxidant capacity in metabolic syndrome patients.
+- Xu Q, Lian H, Zhou R and others 2025. [Curcumin and multiple health outcomes: critical umbrella review of intervention meta-analyses](https://pubmed.ncbi.nlm.nih.gov/40538540/). *Frontiers in pharmacology*. PMID [40538540](https://pubmed.ncbi.nlm.nih.gov/40538540/) · [doi:10.3389/fphar.2025.1601204](https://doi.org/10.3389/fphar.2025.1601204)  
+  Umbrella review synthesizing multiple meta-analyses confirmed broad therapeutic benefits but emphasized need for improved scientific quality in published studies.
+- Yuan J, Pi C, Shen H and others 2025. [Potential therapeutic benefits of curcumin in depression or anxiety induced by chronic diseases: a systematic review of mechanistic and clinical evidence](https://pubmed.ncbi.nlm.nih.gov/40918536/). *Frontiers in pharmacology*. PMID [40918536](https://pubmed.ncbi.nlm.nih.gov/40918536/) · [doi:10.3389/fphar.2025.1638645](https://doi.org/10.3389/fphar.2025.1638645)  
+  15 RCTs with 1,123 participants showed curcumin has potential benefits for depression and anxiety symptoms in patients with chronic diseases.
 
 ## Recent safety updates
 

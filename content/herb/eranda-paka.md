@@ -16,7 +16,7 @@ aliases: ["Eranda Paka", "ErandaPaka", "Ricinus communis L. (processed castor pr
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 677
+words: 705
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda-Paka/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda-Paka/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Phytochemical Composition and Multifunctional Applications of Ricinus communis L.: Insights into Therapeutic, Pharmacological, and Industrial Potential** (2025): Comprehensive review documenting the diverse therapeutic applications of castor-derived preparations including anti-inflammatory, [antimicrobial](/nighantu/reference/antimicrobial/), laxative, and wound healing properties across different formulation types.
-- **A phytochemical and pharmacological review of Ricinus communis L.** (2024): Essential oil, beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), cepharadiones, and [piperine](/nighantu/reference/piperine/)-like compounds identified as key pharmacologically active constituents with [antioxidant](/nighantu/reference/antioxidant/), anti-inflammatory, and antimicrobial activities.
-- **Therapeutic aspects of [Eranda](/nighantu/herb/eranda/) Tail (Oil of Ricinus Communis) in Ayurvedic practice** (2023): [Eranda](/nighantu/herb/eranda/) oil formulations including [Eranda](/nighantu/herb/eranda/) Paka validated for their Deepana-Virechana (digestive stimulant and purgative) effects with enhanced bioavailability compared to raw castor oil when processed with jaggery.
+- Ramothloa TP, Mkolo NM, Motshudi MC and others 2025. [Phytochemical Composition and Multifunctional Applications of Ricinus communis L.: Insights into Therapeutic, Pharmacological, and Industrial Potential](https://pubmed.ncbi.nlm.nih.gov/40807390/). *Molecules (Basel, Switzerland)*. PMID [40807390](https://pubmed.ncbi.nlm.nih.gov/40807390/) · [doi:10.3390/molecules30153214](https://doi.org/10.3390/molecules30153214)  
+  Comprehensive review documenting the diverse therapeutic applications of castor-derived preparations including anti-inflammatory, [antimicrobial](/nighantu/reference/antimicrobial/), laxative, and wound healing properties across different formulation types.
+- Ramothloa TP, Mkolo NM, Motshudi MC and others 2025. [Phytochemical Composition and Multifunctional Applications of Ricinus communis L.: Insights into Therapeutic, Pharmacological, and Industrial Potential](https://pubmed.ncbi.nlm.nih.gov/40807390/). *Molecules (Basel, Switzerland)*. PMID [40807390](https://pubmed.ncbi.nlm.nih.gov/40807390/) · [doi:10.3390/molecules30153214](https://doi.org/10.3390/molecules30153214)  
+  Essential oil, beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), cepharadiones, and [piperine](/nighantu/reference/piperine/)-like compounds identified as key pharmacologically active constituents with [antioxidant](/nighantu/reference/antioxidant/), anti-inflammatory, and antimicrobial activities.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

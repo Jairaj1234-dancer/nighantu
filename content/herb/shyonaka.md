@@ -16,7 +16,7 @@ aliases: ["Oroxylum indicum (L.) Kurz"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 596
+words: 632
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shyonaka/meta-analysis.md"
 ---
 ## Names and identification
@@ -57,9 +57,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shyonaka/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Phytomedicine Potential of Oroxylum indicum Root and Its Constituents: Targeting Alzheimer's Disease** (2025): Root extract and key constituents (baicalein, chrysin, oroxylin A) inhibited beta-amyloid aggregation and acetylcholinesterase activity, with potent [antioxidant](/nighantu/reference/antioxidant/) modulation of [proteins](/nighantu/glossary/compounds-o-q/#proteins) implicated in amyloidogenesis and tau phosphorylation.
-- **In-silico evaluation of Oroxylum indicum vent compounds in the plausible treatment and prevention of nasopharyngeal cancer** (2024): Molecular docking studies identified promising compounds against nasopharyngeal carcinoma targets, including both Epstein-Barr virus and cancer cell proliferation pathways.
-- **Chemical screening and evaluation of hepatoprotective activity of Oroxylum indicum seed** (2024): Seed extracts demonstrated significant hepatoprotective activity with restoration of liver enzyme profiles in experimentally induced hepatotoxicity models.
+- Summat R, Waiwut P, Daodee S and others 2025. [Phytomedicine Potential of Oroxylum indicum Root and Its Constituents: Targeting Alzheimer's Disease](https://pubmed.ncbi.nlm.nih.gov/39861577/). *Plants (Basel, Switzerland)*. PMID [39861577](https://pubmed.ncbi.nlm.nih.gov/39861577/) · [doi:10.3390/plants14020223](https://doi.org/10.3390/plants14020223)  
+  Root extract and key constituents (baicalein, chrysin, oroxylin A) inhibited beta-amyloid aggregation and acetylcholinesterase activity, with potent [antioxidant](/nighantu/reference/antioxidant/) modulation of [proteins](/nighantu/glossary/compounds-o-q/#proteins) implicated in amyloidogenesis and tau phosphorylation.
+- Thrigulla SR, Singh G, Soni H and others 2024. [In-silico evaluation of Oroxylum indicum vent compounds in the plausible treatment and prevention of nasopharyngeal cancer](https://pubmed.ncbi.nlm.nih.gov/38805854/). *Journal of Ayurveda and integrative medicine*. PMID [38805854](https://pubmed.ncbi.nlm.nih.gov/38805854/) · [doi:10.1016/j.jaim.2024.100986](https://doi.org/10.1016/j.jaim.2024.100986)  
+  Molecular docking studies identified promising compounds against nasopharyngeal carcinoma targets, including both Epstein-Barr virus and cancer cell proliferation pathways.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: ["Jatyadi Taila", "JatyadiTaila"]
 tags: ["ayurveda", "formulation", "taila", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 682
+words: 740
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Jatyadi-Taila/meta-analysis.md"
 ---
 ## Names and identification
@@ -58,9 +58,12 @@ Sushruta Samhita (Chikitsa Sthana) and Ashtanga Hridayam. One of the premier Vra
 
 ## What do recent clinical trials show?
 
-- **Wound healing efficacy of [Jatyadi Taila](/nighantu/formulation/jatyadi-taila/): in vivo evaluation in rat excision wound model** (2011): Published in Journal of Ethnopharmacology/PubMed, the study demonstrated significant wound healing acceleration in rats, with enhanced collagen deposition, epithelialization, and wound contraction compared to control groups.
-- **Efficacy of Jatyadi, Madhughrita and honey tulle in wound management: three-arm RCT** (2023): Published in PMC, the randomized controlled trial comparing [Jatyadi Taila](/nighantu/formulation/jatyadi-taila/) dressings vs. standard povidone-iodine for venous ulcers showed 20% faster wound area reduction in the Jatyadi group, with enhanced collagen deposition and angiogenesis on histopathology.
-- **QbD Optimized Nanoemulsion Based Topical Formulation of [Jatyadi Taila](/nighantu/formulation/jatyadi-taila/) for enhanced wound healing** (2025): Published in Pharmaceutical Research (Springer), a nanoemulsion formulation of JT showed enhanced in vitro fibroblast proliferation and migration, with improved in vivo wound healing in full-thickness wound-bearing Wistar rats, demonstrating modern drug delivery can enhance traditional formulation efficacy.
+- Shailajan S, Menon S, Pednekar S and others 2011. [Wound healing efficacy of Jatyadi Taila: in vivo evaluation in rat using excision wound model](https://pubmed.ncbi.nlm.nih.gov/21907784/). *Journal of ethnopharmacology*. PMID [21907784](https://pubmed.ncbi.nlm.nih.gov/21907784/) · [doi:10.1016/j.jep.2011.08.050](https://doi.org/10.1016/j.jep.2011.08.050)  
+  Published in Journal of Ethnopharmacology/PubMed, the study demonstrated significant wound healing acceleration in rats, with enhanced collagen deposition, epithelialization, and wound contraction compared to control groups.
+- Prasannan D, Shindhe PS, Jadar PG and others 2023. [Efficacy of Jatyadi, Madhughrita and honey tulle in wound management: a three-arm randomized controlled clinical trial](https://pubmed.ncbi.nlm.nih.gov/37271064/). *Journal of Ayurveda and integrative medicine*. PMID [37271064](https://pubmed.ncbi.nlm.nih.gov/37271064/) · [doi:10.1016/j.jaim.2023.100719](https://doi.org/10.1016/j.jaim.2023.100719)  
+  Published in PMC, the randomized controlled trial comparing [Jatyadi Taila](/nighantu/formulation/jatyadi-taila/) dressings vs. standard povidone-iodine for venous ulcers showed 20% faster wound area reduction in the Jatyadi group, with enhanced collagen deposition and angiogenesis on histopathology.
+- Chavan SV, Guha S, Raza K and others 2025. [QbD Optimized Nanoemulsion Based Topical Formulation of Jatyadi Taila: Unveiling its In Vitro and In Vivo Efficacy for Enhanced Wound Healing](https://pubmed.ncbi.nlm.nih.gov/41350969/). *Pharmaceutical research*. PMID [41350969](https://pubmed.ncbi.nlm.nih.gov/41350969/) · [doi:10.1007/s11095-025-03929-w](https://doi.org/10.1007/s11095-025-03929-w)  
+  Published in Pharmaceutical Research (Springer), a nanoemulsion formulation of JT showed enhanced in vitro fibroblast proliferation and migration, with improved in vivo wound healing in full-thickness wound-bearing Wistar rats, demonstrating modern drug delivery can enhance traditional formulation efficacy.
 
 ## Recent safety updates
 

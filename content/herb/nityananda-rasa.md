@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Rasa-Shastra-Alchemical-Preparations"
 group: "Nityananda-Rasa"
-answer: "Nityananda Rasa is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg twice daily. Usual dose: 125–250 mg twice daily."
+answer: "Nityananda Rasa is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg twice daily. [Assessment of sub-chronic oral toxicity of Nityanand Rasa: An ayurvedic herbo-metallic formulation](https://pubmed.ncbi.nlm.nih.gov/37054826/). An absence here means we could not identify the source, not that no work exists."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Nityananda Rasa", "NityanandaRasa"]
 tags: ["ayurveda", "rasa-shastra", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 497
+words: 513
 srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Nityananda-Rasa/meta-analysis.md"
 ---
 ## Names and identification
@@ -45,8 +45,10 @@ Bhaishajya Ratnavali, Shlipada Rogadhikara (Elephantiasis Chapter), Verses 33-41
 
 ## What do recent clinical trials show?
 
-- **Assessment of sub-chronic oral toxicity of Nityanand Rasa: An Ayurvedic herbo-metallic formulation** (2023): 90-day study in Wistar rats at 30, 300, and 600 mg/kg: no mortality or severe behavioral changes; mild histopathological changes in liver/brain at high dose; mild genotoxicity at high dose; no detectable mercury but significant arsenic in blood at high dose; considered safe at therapeutic doses
-- **Assessment of heavy metals in Ayurvedic herbo-metallic formulations** (2022): Analysis of mercury-containing Ayurvedic formulations showed that traditional Shodhana processes significantly reduce free mercury but do not eliminate all heavy metal bioavailability
+- Kshirsagar SR, Kumari M, Bajad SM and others 2023. [Assessment of sub-chronic oral toxicity of Nityanand Rasa: An ayurvedic herbo-metallic formulation](https://pubmed.ncbi.nlm.nih.gov/37054826/). *Journal of ethnopharmacology*. PMID [37054826](https://pubmed.ncbi.nlm.nih.gov/37054826/) · [doi:10.1016/j.jep.2023.116494](https://doi.org/10.1016/j.jep.2023.116494)  
+  90-day study in Wistar rats at 30, 300, and 600 mg/kg: no mortality or severe behavioral changes; mild histopathological changes in liver/brain at high dose; mild genotoxicity at high dose; no detectable mercury but significant arsenic in blood at high dose; considered safe at therapeutic doses
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

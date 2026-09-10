@@ -16,7 +16,7 @@ aliases: ["Dashamoola Katutraya Kashayam", "DashamoolaKatutrayaKashayam"]
 tags: ["ayurveda", "formulation", "kashayam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 527
+words: 484
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Dashamoola-Katutraya-Kashayam/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,9 @@ Ashtanga Hridaya ([Dashamoola](/nighantu/herb/dashamoola/) Kwatham section). Ref
 
 ## What do recent clinical trials show?
 
-- **Randomized trial of [Dashamoola](/nighantu/herb/dashamoola/) Katutraya in osteoarthritis** (2021): RCT (n=60) in Journal of Ethnopharmacology showed significant reduction in CRP and ESR in osteoarthritis patients compared to NSAIDs.
-- **Bioavailability enhancement by [Trikatu](/nighantu/herb/trikatu/) in [Dashamoola](/nighantu/herb/dashamoola/) formulations** (2020): Pharmacokinetic research in Indian Journal of Pharmacology showed [Pippali](/nighantu/herb/pippali/) and Maricha increase systemic bioavailability of [Dashamoola](/nighantu/herb/dashamoola/) glycosides by up to 50%.
-- **Dashamoola Katutraya in mild-to-moderate asthma** (2022): Clinical trial in Goa showed 30% improvement in FEV1 scores after 8 weeks when 40 ml twice daily was added to conventional asthma therapy.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

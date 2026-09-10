@@ -16,7 +16,7 @@ aliases: ["Chandraprabha Vati", "ChandraprabhaVati"]
 tags: ["ayurveda", "formulation", "vati", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 726
+words: 585
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Chandraprabha-Vati/meta-analysis.md"
 ---
 ## Names and identification
@@ -64,11 +64,9 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 7 (Vatika Adhikara). Also describ
 
 ## What do recent clinical trials show?
 
-- **Network pharmacology analysis of [Chandraprabha](/nighantu/herb/chandraprabha/) Vati: A new hope for the treatment of Metabolic Syndrome** (2024): Analyzed 328 bioactives from 16 of the 37 herbo-mineral ingredients using network pharmacology. Identified multiple targets addressing metabolic syndrome components including obesity, hyperglycemia, dyslipidemia, glucose intolerance, mitochondrial dysfunction, and inflammation.
-- **Anti-inflammatory activity of [Chandraprabha](/nighantu/herb/chandraprabha/) Vati aqueous extract on bladder cells** (2020): Aqueous extracts reduced IL-6 and TNF-alpha secretion when bladder cells were exposed to E. coli endotoxins, demonstrating anti-inflammatory pathways relevant to UTI management.
-- **Antidiabetic activity of [Chandraprabha](/nighantu/herb/chandraprabha/) Vati - A classical Ayurvedic formulation** (2021): Exhibited anti-hyperglycemic effect and attenuated alterations in lipid profile in animal studies. Showed significant reduction in blood glucose levels and improved lipid parameters.
-- **Metabolomics of [Shilajit](/nighantu/herb/shilajit/) fulvic acid in [Chandraprabha](/nighantu/herb/chandraprabha/) Vati** (2022): Metabolomics mapping showed increased bioavailability of trace minerals (zinc, magnesium) from [Shilajit](/nighantu/herb/shilajit/) component, crucial for normal reproductive functions and metabolic health.
-- **Effect of Nishamalaki and [Chandraprabha](/nighantu/herb/chandraprabha/) Vati in Management of Diabetic Patients** (2020): Clinical evaluation showed combined treatment significantly improved glycemic control parameters in diabetic patients, supporting the formulation's traditional use in Prameha (urinary/metabolic disorders).
+
+
+*5 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

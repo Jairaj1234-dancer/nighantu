@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 494
+words: 444
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Sarivadyasava/meta-analysis.md"
 ---
 ## Names and identification
@@ -60,9 +60,9 @@ Bhaishajya Ratnavali, Prameha Pidika Adhyaya (chapter on diabetic complications)
 
 ## What do recent clinical trials show?
 
-- **Sarivadyasava as adjuvant in dengue fever management** (2018): Pilot study in Journal of Ethnopharmacology (n=30): Sarivadyasava plus standard antipyretics vs [antipyretic](/nighantu/reference/antipyretic/) alone - combined therapy group saw faster temperature reduction (average 12 hours earlier).
-- **Sarivadyasava in psoriasis: open-label trial** (2020): Open-label trial (n=20) in Ayurveda & Health Journal: PASI scores improved by 25% at 4 weeks with reduced itching and scaling.
-- **Review of Sarivadyasava as an Ayurvedic remedy for skin disorders** (2021): Published review in World Journal of Pharmaceutical Research confirmed blood-purifying, detoxifying, and anti-inflammatory mechanisms supporting traditional use in eczema, psoriasis, and acne.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

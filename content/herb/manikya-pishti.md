@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Pishtis"
-answer: "Manikya Pishti is a substance used in the Ayurvedic materia medica. Usual dose: 15–30 mg (precious stone — precise dosing). Cell death followed mitochondrial-dependent apoptosis involving loss of mitochondrial membrane potential, cytochrome c release, caspase activation, and DNA degradation."
+answer: "Manikya Pishti is a substance used in the Ayurvedic materia medica. Usual dose: 15–30 mg (precious stone — precise dosing). [Manikya Bhasma is a nanomedicine to affect cancer cell viability through induction of apoptosis](https://pubmed.ncbi.nlm.nih.gov/33358658/)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Manikya Pishti", "ManikyaPishti"]
 tags: ["ayurveda", "pishti", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 450
+words: 425
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Manikya-Pishti/meta-analysis.md"
 ---
 ## Names and identification
@@ -38,9 +38,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Manikya-Pishti/meta-
 
 ## What do recent clinical trials show?
 
-- **Manikya Bhasma is a nanomedicine to affect cancer cell viability through induction of apoptosis** (2021): Manikya Bhasma (70nm particles) reduced viability of MDAMB-231, HeLa, HCT-116, DLD-1, and MG-63 cancer cells with IC50 of 105.73-155.47 micrograms/ml. Cell death followed mitochondrial-dependent apoptosis involving loss of mitochondrial membrane potential, cytochrome c release, caspase activation, and DNA degradation.
-- **Toxicity analysis of Manikya Rasa in rats** (2019): Comprehensive toxicity study demonstrated that traditionally prepared Manikya Rasa can be safely utilized without significant toxic side effects. Careful pharmacological preparation and analysis provided evidence-based understanding of the safety profile.
-- **Manikya Bhasma neuroprotective action on experimental models** (2020): Research demonstrated neuroprotective action of Manikya Bhasma in experimental models, suggesting potential applications in neurological disorders and supporting the traditional use for cognitive enhancement.
+- Jha S, Trivedi V 2021. [Manikya Bhasma is a nanomedicine to affect cancer cell viability through induction of apoptosis](https://pubmed.ncbi.nlm.nih.gov/33358658/). *Journal of Ayurveda and integrative medicine*. PMID [33358658](https://pubmed.ncbi.nlm.nih.gov/33358658/) · [doi:10.1016/j.jaim.2020.11.001](https://doi.org/10.1016/j.jaim.2020.11.001)  
+  Manikya Bhasma (70nm particles) reduced viability of MDAMB-231, HeLa, HCT-116, DLD-1, and MG-63 cancer cells with IC50 of 105.73-155.47 micrograms/ml. Cell death followed mitochondrial-dependent apoptosis involving loss of mitochondrial membrane potential, cytochrome c release, caspase activation, and DNA degradation.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: ["Desmodium gangeticum (L.) DC."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 529
+words: 455
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shalparni/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shalparni/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **A brief review on chemoprofiling and pharmacological potential of Desmodium gangeticum (L.) DC** (2025): Comprehensive review documenting the plant's rich phytochemical profile and wide-ranging pharmacological activities including antimicrobial, antioxidant, [anticancer](/nighantu/reference/anticancer/), and cardioprotective properties.
-- **Chemo-Profiling by UPLC-QTOF-MS, GC-MS/MS analysis and In Vitro Bioactivity Assessment of Desmodium gangeticum DC** (2024): Advanced analytical profiling using UPLC-QTOF-MS and GC-MS/MS revealed detailed chemical fingerprints and confirmed significant antioxidant, anti-inflammatory, and antibacterial activities across multiple solvent extracts.
-- **Ethnomedical uses, Phytochemistry, Pharmacological and therapeutic properties of Desmodium gangeticum (L.) DC.: A Scoping Review** (2023): Systematic scoping review documented the plant's extensive ethnomedicinal uses and correlated traditional applications with modern pharmacological evidence.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

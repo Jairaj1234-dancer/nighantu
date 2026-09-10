@@ -16,7 +16,7 @@ aliases: ["Amritottaram Kashayam", "AmritottaramKashayam"]
 tags: ["ayurveda", "formulation", "kashayam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 494
+words: 448
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Amritottaram-Kashayam/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,9 @@ Sahasrayogam, Jwara Chikitsa (fever treatment section). Also referenced in Rasa 
 
 ## What do recent clinical trials show?
 
-- **NK cell activity enhancement by [Amritottaram Kashayam](/nighantu/formulation/amritottaram-kashayam/)** (2018): Double-blind study in Journal of Ethnopharmacology observed increased natural killer cell activity after 30 days of daily 20 ml doses.
-- **Hepatoprotective effects of [Amritottaram Kashayam](/nighantu/formulation/amritottaram-kashayam/) in mild hepatitis** (2019): Study in International Journal of Ayurveda reported decreased ALT and AST levels in mild hepatitis patients receiving 20 ml twice daily for 45 days.
-- **Immunomodulatory profiling of [Guduchi](/nighantu/herb/guduchi/)-based Kashayams** (2021): Comprehensive immunological profiling showed upregulation of both innate and adaptive immune markers with significant enhancement of macrophage phagocytic activity.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

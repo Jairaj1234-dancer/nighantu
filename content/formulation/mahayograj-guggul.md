@@ -16,7 +16,7 @@ aliases: ["Mahayograj Guggul", "MahayograjGuggul"]
 tags: ["ayurveda", "formulation", "guggulu", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 623
+words: 539
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Mahayograj-Guggul/meta-analysis.md"
 ---
 ## Names and identification
@@ -64,9 +64,9 @@ Bhaishajya Ratnavali (Amavata Chikitsa); also referenced in Sharangdhara Samhita
 
 ## What do recent clinical trials show?
 
-- **Standardization and validation of phytometabolites by UHPLC and HPTLC for rapid quality assessment of Mahayograj Guggul** (2022): Identified and quantified gallic acid, protocatechuic acid, vanillic acid, cinnamic acid, piperine, guggulsterone-E, guggulsterone-Z, ferulic acid, ellagic acid, and picroside I across six commercial batches, providing scientific basis for quality control.
-- **Double-blind study comparing standard guggul extract vs full-spectrum Mahayograj Guggul in rheumatoid arthritis** (2021): 60 patients over 12 weeks showed the full-spectrum formula group had 30% greater reduction in DAS28 scores (Disease Activity Score) with fewer gastrointestinal complaints than the extract-only group.
-- **UHPLC and GC-MS/MS authentication of quality reproducibility in Mahayograj Guggul** (2022): Analytical methods employing UHPLC and GC-MS/MS provide validated reference for quality control evaluation of [Mahayograj Guggul](/nighantu/formulation/mahayograj-guggul/) and similar traditional broad-spectrum formulations.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

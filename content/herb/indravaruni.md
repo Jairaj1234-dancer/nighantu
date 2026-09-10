@@ -16,7 +16,7 @@ aliases: ["Citrullus colocynthis (L.) Schrad."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 503
+words: 551
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Indravaruni/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Indravaruni/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Citrullus colocynthis (L.) Schrad: A Promising Pharmaceutical Resource for Multiple Diseases** (2023): Comprehensive review of biological activities particularly in antidiabetic, anticancer, anti-inflammatory, [antioxidant](/nighantu/reference/antioxidant/), insecticidal, and antibacterial applications.
-- **Citrullus colocynthis (Bitter Apple Fruit): Promising Traditional Uses, Pharmacological Effects, and Potential Applications** (2022): Documented broad spectrum therapeutic properties; identified cucurbitacins as principal bioactive agents with significant anticancer mechanism through STAT3 and JAK inhibition.
-- **Colocynth Induced Multiorgan Toxicity: A Case Report** (2025): Case report documenting multiorgan dysfunction (hepatorenal, gastrointestinal) from high-dose colocynth ingestion, emphasizing need for dose-controlled use.
+- Cheng X, Qin M, Chen R and others 2023. [Citrullus colocynthis (L.) Schrad.: A Promising Pharmaceutical Resource for Multiple Diseases](https://pubmed.ncbi.nlm.nih.gov/37687049/). *Molecules (Basel, Switzerland)*. PMID [37687049](https://pubmed.ncbi.nlm.nih.gov/37687049/) · [doi:10.3390/molecules28176221](https://doi.org/10.3390/molecules28176221)  
+  Comprehensive review of biological activities particularly in antidiabetic, anticancer, anti-inflammatory, [antioxidant](/nighantu/reference/antioxidant/), insecticidal, and antibacterial applications.
+- Li QY, Munawar M, Saeed M and others 2021. [Citrullus colocynthis (L.) Schrad (Bitter Apple Fruit): Promising Traditional Uses, Pharmacological Effects, Aspects, and Potential Applications](https://pubmed.ncbi.nlm.nih.gov/35145403/). *Frontiers in pharmacology*. PMID [35145403](https://pubmed.ncbi.nlm.nih.gov/35145403/) · [doi:10.3389/fphar.2021.791049](https://doi.org/10.3389/fphar.2021.791049)  
+  Documented broad spectrum therapeutic properties; identified cucurbitacins as principal bioactive agents with significant anticancer mechanism through STAT3 and JAK inhibition.
+- Alemseged NM, Ibrahim MA, Sheikabdullahi MA 2025. [Colocynth induced multiorgan toxicity: a case report](https://pubmed.ncbi.nlm.nih.gov/41088384/). *Journal of medical case reports*. PMID [41088384](https://pubmed.ncbi.nlm.nih.gov/41088384/) · [doi:10.1186/s13256-025-05542-2](https://doi.org/10.1186/s13256-025-05542-2)  
+  Case report documenting multiorgan dysfunction (hepatorenal, gastrointestinal) from high-dose colocynth ingestion, emphasizing need for dose-controlled use.
 
 ## Recent safety updates
 

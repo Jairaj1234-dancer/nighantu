@@ -16,7 +16,7 @@ aliases: ["Kanthasudharak Vati", "KanthasudharakVati"]
 tags: ["ayurveda", "formulation", "vati", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 595
+words: 539
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Kanthasudharak-Vati/meta-analysis.md"
 ---
 ## Names and identification
@@ -56,9 +56,9 @@ Referenced in Bhaishajya Ratnavali and Yoga Ratnakara (Kasa/Swarabheda Chikitsa 
 
 ## What do recent clinical trials show?
 
-- **Anti-inflammatory and antimicrobial evaluation of [Kanthasudharak Vati](/nighantu/formulation/kanthasudharak-vati/) ingredients** (2020): Plant compounds demonstrated protective [antioxidant](/nighantu/reference/antioxidant/) properties, anti-inflammatory effects, and mucolytic ability to break down and expel mucus from the respiratory system.
-- **[Glycyrrhizin](/nighantu/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) from [Yashtimadhu](/nighantu/herb/yashtimadhu/): expectorant and mucosal soothing properties in upper respiratory conditions** (2019): [Glycyrrhizin](/nighantu/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) acts as a potent expectorant expelling phlegm from lungs and soothing inflamed pharyngeal mucosa; anti-inflammatory and antiviral properties demonstrated in respiratory infection models.
-- **Eugenol from clove and [camphor](/nighantu/herb/camphor/): antimicrobial synergy in oral and throat formulations** (2018): Eugenol and [camphor](/nighantu/herb/camphor/) demonstrated synergistic antimicrobial action against common respiratory and oral pathogens with additional analgesic and anti-inflammatory properties.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

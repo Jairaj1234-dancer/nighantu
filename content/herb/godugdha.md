@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Animal-Derived-Products"
 group: "Godugdha"
-answer: "Godugdha is a substance used in the Ayurvedic materia medica. Usual dose: 100–250 mL twice daily. Usual dose: 100–250 mL twice daily."
+answer: "Godugdha is a substance used in the Ayurvedic materia medica. Usual dose: 100–250 mL twice daily. [A2 milk consumption and its health benefits: an update](https://pubmed.ncbi.nlm.nih.gov/38274187/). Food science and biotechnology. 2 further claims previously listed here could not be traced to a published paper and have been removed."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "animal-product", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 529
+words: 492
 srcRel: "Ayurveda/Others/Animal-Derived-Products/Godugdha/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,10 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Godugdha/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **A2 milk consumption and its health benefits: an update** (2024): A2 milk (from indigenous cow breeds) avoids BCM-7 production during digestion, reducing gastrointestinal discomfort, systemic inflammation, and potentially lowering risk of type-1 diabetes and cardiovascular disease compared to A1 milk.
-- **Rationalized approach towards milk consumption integrating Ayurveda principles and recent advances for health promotion** (2024): Integrating Ayurvedic principles of milk processing (boiling with specific herbs, proper timing) with modern understanding enhances bioavailability and reduces potential adverse effects of modern dairy production methods.
-- **Medicinal Potential of Milk: A Meta-Analysis of Bioactive Compounds** (2025): Meta-analysis confirms cow milk bioactive compounds including lactoferrin and immunoglobulins demonstrate antimicrobial, antiviral, and immunomodulatory activities, though clinical evidence in humans remains limited compared to in vitro and animal studies.
+- Jeong H, Park YS, Yoon SS 2024. [A2 milk consumption and its health benefits: an update](https://pubmed.ncbi.nlm.nih.gov/38274187/). *Food science and biotechnology*. PMID [38274187](https://pubmed.ncbi.nlm.nih.gov/38274187/) · [doi:10.1007/s10068-023-01428-5](https://doi.org/10.1007/s10068-023-01428-5)  
+  A2 milk (from indigenous cow breeds) avoids BCM-7 production during digestion, reducing gastrointestinal discomfort, systemic inflammation, and potentially lowering risk of type-1 diabetes and cardiovascular disease compared to A1 milk.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

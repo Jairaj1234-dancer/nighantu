@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Bhasmas"
-answer: "Tankana Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg. Dermatological application of Tankan Bhasma for acne (2022): Topical formulations of Tankan Bhasma reduced acne severity index by 18% over one month in a dermatology department study."
+answer: "Tankana Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg. An absence here means we could not identify the source, not that no work exists. PREGNANCY CONTRAINDICATED: Tankan Bhasma can cross the placental barrier."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Tankana Bhasma", "TankanaBhasma"]
 tags: ["ayurveda", "bhasma", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 475
+words: 419
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Tankana-Bhasma/meta-analysis.md"
 ---
 ## Names and identification
@@ -48,9 +48,9 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Tankana-Bhasma/meta-
 
 ## What do recent clinical trials show?
 
-- **Anti-inflammatory assessment of Tankan Bhasma in animal models** (2021): Decreased TNF-alpha and IL-6 markers after oral dosing in animal models at Gujarat Ayurved University, aligning with classical claims of respiratory decongestion and anti-inflammatory effects.
-- **Dermatological application of Tankan Bhasma for acne** (2022): Topical formulations of Tankan Bhasma reduced acne severity index by 18% over one month in a dermatology department study.
-- **Physicochemical evaluation of Ayurvedic mineral drug Tankan Bhasma** (2019): Comprehensive physicochemical characterization established quality parameters for standardization. Confirmed sodium borate composition and particle size distribution.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
