@@ -14,6 +14,7 @@ import {
 } from './lib.mjs';
 import { composeAnswer } from './answer.mjs';
 import { applyToSection, shortfallNote } from './lib/claims.mjs';
+import { binomialFor } from './lib/binomials.mjs';
 
 const DRY = process.argv.includes('--dry-run');
 const LIMIT = (() => {
@@ -47,6 +48,7 @@ const RESEARCH_HEADINGS = new Set([
   'Recent safety updates',
 ]);
 const citeTally = { cited: 0, dropped: 0 };
+let verifiedBinomials = 0;
 
 const kindOf = (rel) => {
   if (rel.includes('Medical-Devices')) return 'device';
@@ -141,6 +143,12 @@ for (const p of kept) {
   if (p.kind === 'herb') {
     const inferred = inferBotanical(p.render.rendered, p.facts);
     if (inferred && !p.facts['Botanical Name']) p.facts['Botanical Name'] = inferred;
+    // Last resort: an identification that survived independent verification.
+    if (!p.facts['Botanical Name']) {
+      const slug = slugify(DUPLICATE_CANONICAL.get(p.identity) ?? p.identity);
+      const verified = binomialFor(slug);
+      if (verified) { p.facts['Botanical Name'] = verified; verifiedBinomials += 1; }
+    }
   }
   // Applies to every kind: the field must be a binomial or be absent.
   if (p.facts['Botanical Name']) {
@@ -401,4 +409,5 @@ fs.writeFileSync('src/data/manifest.json', JSON.stringify(manifest, null, 2));
 
 console.log(`ingested ${publishSet.length} standalone pages, ${rolled.length} glossary entries`);
 console.log(`research claims: ${citeTally.cited} cited with a PMID, ${citeTally.dropped} removed as untraceable`);
+if (verifiedBinomials) console.log(`botanical names: ${verifiedBinomials} filled from verified identifications`);
 console.log(`excluded ${denied.length} files (${denied.filter(([r]) => r.includes('Chyawanprash-Royale')).length} Chyawanprash-Royale)`);
