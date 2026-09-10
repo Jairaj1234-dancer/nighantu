@@ -10,7 +10,7 @@ import {
   walk, isDenied, identityOf, slugify, parseFrontmatter, splitSections,
   parseFacts, stripMarkup, dropLines, rewriteHeading, isLifted, isStrippedSection,
   wordCount, resolveWikilinks, dropUnresolvedListItems, redact, inferBotanical,
-  stripSubsections, yamlValue,
+  normaliseBinomial, stripSubsections, yamlValue,
 } from './lib.mjs';
 import { composeAnswer } from './answer.mjs';
 
@@ -114,8 +114,20 @@ function renderSections(p) {
 
 for (const p of kept) {
   p.render = renderSections(p);
-  const inferred = inferBotanical(p.render.rendered, p.facts);
-  if (inferred && !p.facts['Botanical Name']) p.facts['Botanical Name'] = inferred;
+  // Only single herbs have a binomial. A formulation is a compound of many plants, and
+  // inheriting the first ingredient's species put "Withania somnifera" on a multi-herb
+  // taila and "Shelf stability" on another, both of which shipped to the key-facts
+  // table and the JSON-LD.
+  if (p.kind === 'herb') {
+    const inferred = inferBotanical(p.render.rendered, p.facts);
+    if (inferred && !p.facts['Botanical Name']) p.facts['Botanical Name'] = inferred;
+  }
+  // Applies to every kind: the field must be a binomial or be absent.
+  if (p.facts['Botanical Name']) {
+    const clean = normaliseBinomial(p.facts['Botanical Name']);
+    if (clean) p.facts['Botanical Name'] = clean;
+    else delete p.facts['Botanical Name'];
+  }
   p.substance = wordCount(p.render.lead) + p.render.rendered.reduce((n, s) => n + wordCount(s.content), 0);
   p.standalone = p.substance >= (THRESHOLDS[p.kind] ?? 250);
 }
