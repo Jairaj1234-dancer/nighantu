@@ -16,7 +16,7 @@ aliases: ["Gandharvahastadi Kashayam", "GandharvahastadiKashayam"]
 tags: ["ayurveda", "formulation", "kashayam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 495
+words: 456
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Gandharvahastadi-Kashayam/meta-analysis.md"
 ---
 ## Names and identification
@@ -56,9 +56,9 @@ Bhaishajya Ratnavali and Sharangadhara Samhita, classified under Vata-Kapha bala
 
 ## What do recent clinical trials show?
 
-- **[Bronchodilator](/nighantu/reference/bronchodilator/) and anti-inflammatory effects of Kashayas in bronchial asthma** (2020): Study in Ayurveda and Integrative Medicine confirmed bronchodilator and anti-inflammatory effects of similar Kashaya formulations containing shared ingredients.
-- **[Laxative](/nighantu/reference/laxative/) action of Ricinus communis root extract** (2019): Pharmacological study confirmed that castor root extract stimulates intestinal motility through prostaglandin-mediated mechanisms, validating traditional laxative use.
-- **Case series on chronic constipation management with [Gandharvahastadi Kashayam](/nighantu/formulation/gandharvahastadi-kashayam/)** (2019): Case series in International Journal of Herbal Medicine showed successful treatment of chronic constipation over 21 days without dependency.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

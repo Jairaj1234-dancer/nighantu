@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Pishtis"
-answer: "Jahar Mohra Pishti is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg. XRD analysis confirmed the chemical identity as hydrous magnesium silicate (serpentine group). The preparation was characterized as a potent cardiotonic in Ayurvedic tradition."
+answer: "Jahar Mohra Pishti is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg. An absence here means we could not identify the source, not that no work exists."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Jahar Mohra Pishti", "JaharMohraPishti"]
 tags: ["ayurveda", "pishti", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 433
+words: 374
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Jahar-Mohra-Pishti/meta-analysis.md"
 ---
 ## Names and identification
@@ -38,8 +38,9 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Jahar-Mohra-Pishti/m
 
 ## What do recent clinical trials show?
 
-- **Standard Operating Procedure of [Jahar Mohra Pishti](/nighantu/herb/jahar-mohra-pishti/): A Potent Cardio Tonic** (2016): Established standardized manufacturing protocol including Shodhana and Mardana processes. XRD analysis confirmed the chemical identity as hydrous magnesium silicate (serpentine group). The preparation was characterized as a potent cardiotonic in Ayurvedic tradition.
-- **[Jahar Mohra Pishti](/nighantu/herb/jahar-mohra-pishti/) physicochemical characterization** (2021): Analytical characterization confirmed magnesium silicate composition with trace minerals. The Pishti form achieves micro-fine particle size suitable for enhanced bioavailability. Safety profile is not well-established in peer-reviewed literature but clinical experience suggests tolerability below 500 mg/day.
+
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

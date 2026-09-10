@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Animal-Derived-Products"
 group: "Ghrita"
-answer: "Ghrita is a substance used in the Ayurvedic materia medica. Usual dose: 5–10 mL orally; variable in Snehapana (oleation therapy, up to 200 mL). Rancidity indicates degradation. Generated for the AgeAyurveda Herb Catalogue"
+answer: "Ghrita is a substance used in the Ayurvedic materia medica. Usual dose: 5–10 mL orally; variable in Snehapana (oleation therapy, up to 200 mL). [Health benefits of ghee: Review of Ayurveda and modern science perspectives](https://pubmed.ncbi.nlm.nih.gov/38181707/)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Ghrita", "Ghritam", "Ghee", "Ghrtam", "Go-Ghrita", "Cow Ghee", "Clari
 tags: ["ayurveda", "animal-product", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 653
+words: 669
 srcRel: "Ayurveda/Others/Animal-Derived-Products/Ghrita/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,12 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Ghrita/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Health benefits of ghee: Review of Ayurveda and modern science perspectives** (2024): Systematic review of studies from 1994-2024 with 19,948 participants found ghee intake had neutral to positive effects on lipid profiles; butyrate content provides anti-inflammatory and neuroprotective benefits.
-- **Ghee's health benefits on cardiovascular health and lipid profile: Insights from a systematic review and meta-analysis** (2024): Meta-analysis of 18 studies found ghee consumption was associated with neutral to marginally positive lipid effects when consumed in moderate quantities; excessive consumption marginally increased coronary heart disease risk.
-- **Recent advancements and comprehensive analyses of butyric acid in cardiovascular diseases** (2025): Butyric acid (abundant in ghee) diminishes atherosclerotic lesions, enhances plaque stability by inhibiting NF-kB activation, decreases inflammatory markers (IL-1beta, IL-6, TNF-alpha), and increases BDNF for neuroprotection.
+- Kataria D, Singh G 2024. [Health benefits of ghee: Review of Ayurveda and modern science perspectives](https://pubmed.ncbi.nlm.nih.gov/38181707/). *Journal of Ayurveda and integrative medicine*. PMID [38181707](https://pubmed.ncbi.nlm.nih.gov/38181707/) · [doi:10.1016/j.jaim.2023.100819](https://doi.org/10.1016/j.jaim.2023.100819)  
+  Systematic review of studies from 1994-2024 with 19,948 participants found ghee intake had neutral to positive effects on lipid profiles; butyrate content provides anti-inflammatory and neuroprotective benefits.
+- Xu Q, Liu X, Wang Z and others 2025. [Recent advancements and comprehensive analyses of butyric acid in cardiovascular diseases](https://pubmed.ncbi.nlm.nih.gov/40791947/). *Frontiers in cardiovascular medicine*. PMID [40791947](https://pubmed.ncbi.nlm.nih.gov/40791947/) · [doi:10.3389/fcvm.2025.1608658](https://doi.org/10.3389/fcvm.2025.1608658)  
+  Butyric acid (abundant in ghee) diminishes atherosclerotic lesions, enhances plaque stability by inhibiting NF-kB activation, decreases inflammatory markers (IL-1beta, IL-6, TNF-alpha), and increases BDNF for neuroprotection.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

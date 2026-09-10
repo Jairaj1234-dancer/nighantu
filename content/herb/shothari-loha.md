@@ -16,7 +16,7 @@ aliases: ["Shothari Loha", "ShothariLoha"]
 tags: ["ayurveda", "loha", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 404
+words: 372
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Lohas-Iron-Preparations/Shothari-Loha/meta-analysis.md"
 ---
 ## Names and identification
@@ -45,8 +45,9 @@ Bhaishajya Ratnavali, Shotharoga Adhikara (Inflammation/Edema Chapter), Verse 42
 
 ## What do recent clinical trials show?
 
-- **Traditional Ayurvedic anti-inflammatory formulations - [Shothari Loha](/nighantu/herb/shothari-loha/) review** (2020): Review confirmed traditional claims of anti-edema and anti-inflammatory properties based on the known pharmacological actions of [Trikatu](/nighantu/herb/trikatu/) and [Yavakshara](/nighantu/herb/yavakshara/) components
-- **Pharmacological evaluation of [Trikatu](/nighantu/herb/trikatu/)-based Loha formulations in inflammation models** (2019): [Trikatu](/nighantu/herb/trikatu/) components ([ginger](/nighantu/herb/ginger/), [black pepper](/nighantu/herb/black-pepper/), long pepper) demonstrated significant anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) activity in preclinical models supporting traditional use in Shotha (edema)
+
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

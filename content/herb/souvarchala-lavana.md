@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Salts-Minerals-Metals"
 group: "Souvarchala-Lavana"
-answer: "Souvarchala Lavana is a substance used in the Ayurvedic materia medica. Usual dose: 0.5–2 g as digestive; in formulations: as directed. Salt in Ayurveda I - Comprehensive Review (2012): Sauvarchala Lavana is confirmed as Srotoshodhaka (channel clearing), Hridya (cardiotonic), and Sugandhi (aromatic); analytical studies confirm its unique mineral composition differs from other Pancha Lavana members."
+answer: "Souvarchala Lavana is a substance used in the Ayurvedic materia medica. Usual dose: 0.5–2 g as digestive; in formulations: as directed. An absence here means we could not identify the source, not that no work exists."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Souvarchala Lavana", "SouvarchalaLavana"]
 tags: ["ayurveda", "mineral", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 511
+words: 429
 srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Souvarchala-Lavana/meta-analysis.md"
 ---
 ## Names and identification
@@ -52,9 +52,9 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Souvarchala-Lavana/meta-analysis.
 
 ## What do recent clinical trials show?
 
-- **The Untold Health Benefits of Herbal Black Salt (Kala Namak): A Scientific Overview** (2024): Kala Namak is a traditional South Asian culinary and medicinal ingredient with lower sodium content than table salt; iron-sulfide compounds provide unique therapeutic effects including digestive stimulation and mild anti-anemic action.
-- **Salt in Ayurveda I - Comprehensive Review** (2012): Sauvarchala Lavana is confirmed as Srotoshodhaka (channel clearing), Hridya (cardiotonic), and Sugandhi (aromatic); analytical studies confirm its unique mineral composition differs from other Pancha Lavana members.
-- **Physicochemical Analysis of Sauvarchala Lavana Prepared by Traditional Methods** (2023): Traditional kiln-firing preparation produces consistent sulfide and iron content; pH, mineral profile, and sulfur compound ratios were reproducible across batches, supporting standardization potential.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

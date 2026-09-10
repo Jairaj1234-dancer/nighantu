@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 466
+words: 428
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Saraswatarishta/meta-analysis.md"
 ---
 ## Names and identification
@@ -59,9 +59,9 @@ Charaka Samhita and Sushruta Samhita. Originally classified as a Medhya [Rasayan
 
 ## What do recent clinical trials show?
 
-- **Memory Enhancing Activity of Saraswatarishta in Mice** (2020): Published in Biomedical and Pharmacology Journal: demonstrated improved memory retention and learning ability in dementia and amnesia mouse models.
-- **Saraswatarishta in mild cognitive impairment** (2019): Double-blind study (n=100) in Ayurveda Journal of Health showed significant reduction in mild cognitive impairment scales versus placebo.
-- **Network pharmacology analysis of Saraswatarishta in neurological disorders** (2021): Published in Neuroscience Research Notes: identified that phytoconstituents (Withanolide A, 10-[gingerol](/nighantu/glossary/compounds-d-g/#gingerol), Withaferin A) show bioactivity comparable to Bromperidol (dementia/schizophrenia) and Atomoxetine (ADHD).
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

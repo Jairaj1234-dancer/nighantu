@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 484
+words: 436
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Rohitakarishta/meta-analysis.md"
 ---
 ## Names and identification
@@ -60,9 +60,9 @@ Bhaishajya Ratnavali and Charaka Samhita. [Rohitaka](/nighantu/herb/rohitaka/) h
 
 ## What do recent clinical trials show?
 
-- **Hepatoprotection of Tecomella undulata against experimentally induced liver injury in rats** (2019): Methanolic extract at 200 mg/kg showed significant hepatoprotective effect by lowering SGOT, SGPT, ALP, total bilirubin and cholesterol, with increased protein and albumin levels comparable to silymarin.
-- **Betulinic acid in [Rohitaka](/nighantu/herb/rohitaka/): hepatoprotective mechanism** (2020): Hepatoprotective potential of Tecomella undulata bark is partially attributed to betulinic acid content, demonstrated through liver enzyme normalization and histological improvement.
-- **Ayurvedic management of splenomegaly with Rohitakarishta** (2021): Three-month Ayurvedic treatment protocol including Rohitakarishta showed effectiveness in reducing spleen size and providing relief from systemic symptoms.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

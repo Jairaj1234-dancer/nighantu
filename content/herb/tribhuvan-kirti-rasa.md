@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Rasa-Shastra-Alchemical-Preparations"
 group: "Tribhuvan-Kirti-Rasa"
-answer: "Tribhuvan Kirti Rasa is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg twice daily. Mercury is present in processed insoluble form (Rasa Sindoor) detoxified via Shodhana and Marana."
+answer: "Tribhuvan Kirti Rasa is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg twice daily. An absence here means we could not identify the source, not that no work exists."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Tribhuvan Kirti Rasa", "TribhuvanKirtiRasa"]
 tags: ["ayurveda", "rasa-shastra", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 499
+words: 430
 srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Tribhuvan-Kirti-Rasa/meta-analysis.md"
 ---
 ## Names and identification
@@ -38,8 +38,9 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Tribhuvan-Kirti-Ra
 
 ## What do recent clinical trials show?
 
-- **Pharmacological Activity of Constituents of [Tribhuvan Kirti Rasa](/nighantu/herb/tribhuvan-kirti-rasa/): A Review** (2022): Review of pharmacological activities of individual constituents confirmed antipyretic, anti-inflammatory, and antimicrobial properties. Mercury is present in processed insoluble form (Rasa Sindoor) detoxified via Shodhana and Marana. Scientists call for more randomized controlled trials focusing on immune markers, lung function, and safety monitoring.
-- **Pharmacological and toxicological insights into the ayurvedic formulation Rasasindura** (2025): Mercury sulfide (HgS) based preparations are safe at therapeutic concentrations when administered with suitable vehicle, but higher concentrations cause neurological toxicity. The insoluble HgS form has reduced GI absorption compared to other mercury compounds.
+
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

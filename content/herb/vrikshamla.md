@@ -16,7 +16,7 @@ aliases: ["Garcinia indica (Thouars) Choisy (also includes reference to Garcinia
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 713
+words: 738
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Vrikshamla/meta-analysis.md"
 ---
 ## Names and identification
@@ -55,9 +55,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Vrikshamla/meta-analysis
 
 ## What do recent clinical trials show?
 
-- **Pharmacological Activity of Garcinia indica (Kokum): An Updated Review** (2024): Updated review confirmed antioxidant, anti-obesity, anti-arthritic, anti-inflammatory, antibacterial, [hepatoprotective](/nighantu/reference/hepatoprotective/), cardioprotective, antidepressant and [anxiolytic](/nighantu/reference/anxiolytic/) effects attributed to garcinol and HCA.
-- **Hepatotoxicity of dietary supplements containing Garcinia gummi-gutta (L.) N. Robson** (2025): Systematic review identified 34 case reports of hepatotoxicity including 1 death and 9 liver transplants from Garcinia cambogia supplements; proposed HLA-B*35:01 genetic predisposition mechanism. Note: This primarily relates to G. cambogia but cross-contamination risk exists with G. indica.
-- **Garcinia indica (Thouars) Choisy: Its Ethnobotanical Knowledge, Phytochemical Studies, Pharmacological Aspects** (2023): Garcinol demonstrated potent anticancer activity through inhibition of NF-kB signaling, HAT (histone acetyltransferase) inhibition and induction of apoptosis in multiple cancer cell lines.
+- Lim SH, Lee HS, Lee CH and others 2021. [Pharmacological Activity of Garcinia indica (Kokum): An Updated Review](https://pubmed.ncbi.nlm.nih.gov/34959738/). *Pharmaceuticals (Basel, Switzerland)*. PMID [34959738](https://pubmed.ncbi.nlm.nih.gov/34959738/) · [doi:10.3390/ph14121338](https://doi.org/10.3390/ph14121338)  
+  Updated review confirmed antioxidant, anti-obesity, anti-arthritic, anti-inflammatory, antibacterial, [hepatoprotective](/nighantu/reference/hepatoprotective/), cardioprotective, antidepressant and [anxiolytic](/nighantu/reference/anxiolytic/) effects attributed to garcinol and HCA.
+- van Breemen RB, Roe AL, Akhtar N 2025. [Hepatotoxicity of dietary supplements containing Garcinia gummi-gutta (L.) N. Robson](https://pubmed.ncbi.nlm.nih.gov/41262061/). *Pharmaceutical biology*. PMID [41262061](https://pubmed.ncbi.nlm.nih.gov/41262061/) · [doi:10.1080/13880209.2025.2591467](https://doi.org/10.1080/13880209.2025.2591467)  
+  Systematic review identified 34 case reports of hepatotoxicity including 1 death and 9 liver transplants from Garcinia cambogia supplements; proposed HLA-B*35:01 genetic predisposition mechanism. Note: This primarily relates to G. cambogia but cross-contamination risk exists with G. indica.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

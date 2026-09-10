@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Pishtis"
-answer: "Panna Pishti is a substance used in the Ayurvedic materia medica. Usual dose: 15–30 mg. Recent scientific interest in Pishti surged due to microfine particle size and rapid absorption potential within the domain of traditional nanomedicine."
+answer: "Panna Pishti is a substance used in the Ayurvedic materia medica. Usual dose: 15–30 mg. An absence here means we could not identify the source, not that no work exists."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Panna Pishti", "PannaPishti"]
 tags: ["ayurveda", "pishti", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 438
+words: 371
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Panna-Pishti/meta-analysis.md"
 ---
 ## Names and identification
@@ -38,8 +38,9 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Panna-Pishti/meta-an
 
 ## What do recent clinical trials show?
 
-- **A comprehensive review on Pishti Kalpana (including [Panna Pishti](/nighantu/herb/panna-pishti/) characterization)** (2022): Review documented [Panna Pishti](/nighantu/herb/panna-pishti/) among commonly used gemstone-based Pishti preparations. Recent scientific interest in Pishti surged due to microfine particle size and rapid absorption potential within the domain of traditional nanomedicine. However, specific studies on [Panna Pishti](/nighantu/herb/panna-pishti/)'s effects are extremely limited.
-- **Clinical Safety of Selected Ayurvedic Formulations and Panchakarma procedures** (2020): Broad safety review of Ayurvedic formulations noted that gemstone-based Pishtis including [Panna Pishti](/nighantu/herb/panna-pishti/) are generally considered safer than rasa shastra mercury/arsenic preparations, but standardized safety profiles are needed for all mineral preparations.
+
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

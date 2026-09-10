@@ -16,7 +16,7 @@ aliases: ["Himasagara Thailam", "HimasagaraThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 689
+words: 623
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Himasagara-Thailam/meta-analysis.md"
 ---
 ## Names and identification
@@ -61,9 +61,9 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa). The name 'Himasagara' means 'cool as
 
 ## What do recent clinical trials show?
 
-- **Pilot trial of Himasagara Tailam in osteoarthritis management** (2018): Published in Journal of Ayurvedic Research, 65% of osteoarthritis patients reported significant knee pain reduction after 4 weeks of twice-daily massage with Himasagara Tailam.
-- **In vitro anti-inflammatory mechanism of [curcumin](/nighantu/herb/curcumin/) and sandalwood compounds on synovial membranes** (2020): [Ginger](/nighantu/herb/ginger/)/[turmeric](/nighantu/herb/turmeric/)-derived compounds and sandalwood oil penetrate synovial membranes, blocking NF-kB pathways, corroborated by in vitro studies on [curcumin](/nighantu/herb/curcumin/)'s anti-inflammatory mechanism.
-- **Neuroprotective evaluation of [Himasagara Thailam](/nighantu/formulation/himasagara-thailam/) in burning sensation and Pitta disorders** (2021): Clinical observation study showed significant reduction in burning sensation (Daha), insomnia, and anxiety scores in patients with Pitta-aggravated Vata disorders after 21 days of Shiro Abhyanga with [Himasagara Thailam](/nighantu/formulation/himasagara-thailam/).
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

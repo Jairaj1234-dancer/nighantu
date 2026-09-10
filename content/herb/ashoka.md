@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "womens-health", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 833
+words: 815
 srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Ashoka/meta-analysis.md"
 ---
 ## Names and identification
@@ -52,11 +52,14 @@ Charaka Samhita (Chikitsa Sthana) and Sushruta Samhita reference Ashoka for Prad
 
 ## What do recent clinical trials show?
 
-- **Phytochemical-Based Study of Ethanolic Extract of Saraca asoca in Letrozole-Induced Polycystic Ovarian Syndrome in Female Adult Rats** (2023): HPLC analysis revealed kaempferol, rutin, epicatechin, salicylic acid, and gallic acid. EESA reduced body weight and cystic follicles, lowered serum testosterone, LH, insulin, and malonaldehyde levels, while increasing FSH, estradiol, progesterone, prolactin, and antioxidant [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) in PCOS rats.
-- **Aromatase inhibitors identified from Saraca asoca to treat infertility in women with polycystic ovary syndrome via in silico and in vivo studies** (2024): Of 10 flavonoids tested, procyanidin B2 and luteolin showed superior interaction with higher binding energy when docked against aromatase compared to the commercial inhibitor letrozole, suggesting potential for PCOS-related infertility treatment.
-- **A comprehensive review on Saraca asoca ([Fabaceae](/nighantu/reference/fabaceae/)) - Historical perspective, traditional uses, biological activities, and conservation** (2023): Comprehensive review cataloguing anti-inflammatory, analgesic, antipyretic, antibacterial, antioxidant, [anticancer](/nighantu/reference/anticancer/), and uterotonic activities. Emphasized need for more quality control, standardization, and clinical trials to utilize the plant as effective anti-cancer drug.
-- **Saraca asoca: From Traditional Herb to Modern Drug as a Cure for Various Diseases** (2023): Documented pharmacological role in treating uterine complications, menstrual disorders, bacterial infections, bleeding hemorrhoids, urinary and dermatological problems. Highlighted antibacterial, antioxidant, and antiviral properties with potential as a modern therapeutic agent.
-- **Systematic investigation on flavonoids, catechin, beta-sitosterol and lignin glycosides from Saraca asoca having anti-cancer and antioxidant properties with no side effect** (2021): Isolated flavonoids and lignin glycosides showed remarkable anticancer effects against various cancer cell lines with potent antioxidant activity and no observable side effects in the tested models.
+- Bu N, Jamil A, Hussain L and others 2023. [Phytochemical-Based Study of Ethanolic Extract of Saraca asoca in Letrozole-Induced Polycystic Ovarian Syndrome in Female Adult Rats](https://pubmed.ncbi.nlm.nih.gov/38024692/). *ACS omega*. PMID [38024692](https://pubmed.ncbi.nlm.nih.gov/38024692/) · [doi:10.1021/acsomega.3c05274](https://doi.org/10.1021/acsomega.3c05274)  
+  HPLC analysis revealed kaempferol, rutin, epicatechin, salicylic acid, and gallic acid. EESA reduced body weight and cystic follicles, lowered serum testosterone, LH, insulin, and malonaldehyde levels, while increasing FSH, estradiol, progesterone, prolactin, and antioxidant [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) in PCOS rats.
+- Himaja K, Veerapandiyan K, Usha B 2025. [Aromatase inhibitors identified from Saraca asoca to treat infertility in women with polycystic ovary syndrome via in silico and in vivo studies](https://pubmed.ncbi.nlm.nih.gov/38315510/). *Journal of biomolecular structure & dynamics*. PMID [38315510](https://pubmed.ncbi.nlm.nih.gov/38315510/) · [doi:10.1080/07391102.2024.2310793](https://doi.org/10.1080/07391102.2024.2310793)  
+  Of 10 flavonoids tested, procyanidin B2 and luteolin showed superior interaction with higher binding energy when docked against aromatase compared to the commercial inhibitor letrozole, suggesting potential for PCOS-related infertility treatment.
+- Urumarudappa SKJ, Rosario S, G R and others 2023. [A comprehensive review on Saraca asoca (Fabaceae) - Historical perspective, traditional uses, biological activities, and conservation](https://pubmed.ncbi.nlm.nih.gov/37390875/). *Journal of ethnopharmacology*. PMID [37390875](https://pubmed.ncbi.nlm.nih.gov/37390875/) · [doi:10.1016/j.jep.2023.116861](https://doi.org/10.1016/j.jep.2023.116861)  
+  Comprehensive review cataloguing anti-inflammatory, analgesic, antipyretic, antibacterial, antioxidant, [anticancer](/nighantu/reference/anticancer/), and uterotonic activities. Emphasized need for more quality control, standardization, and clinical trials to utilize the plant as effective anti-cancer drug.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

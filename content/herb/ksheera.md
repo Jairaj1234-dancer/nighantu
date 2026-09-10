@@ -16,7 +16,7 @@ aliases: ["Not applicable (animal product - Bos taurus milk primarily)"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 726
+words: 703
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ksheera/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ksheera/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Validation of therapeutic anti-inflammatory potential of [Arjuna](/nighantu/herb/arjuna/) Ksheera Paka - A traditional Ayurvedic formulation of Terminalia [arjuna](/nighantu/herb/arjuna/)** (2017): Milk-based processing (Ksheera Paka) of Terminalia [arjuna](/nighantu/herb/arjuna/) enhanced anti-inflammatory activity, validating the traditional Ayurvedic practice of using milk as a pharmaceutical vehicle/adjuvant.
-- **A Comprehensive Review of Ksheera Basti in the Management of Gridhrasi (Sciatica): Pharmacology, Mechanisms, and Clinical Evidence** (2024): Systematic review documenting efficacy of milk-based medicated enema (Ksheera Basti) for sciatica management through anti-inflammatory, nourishing, and nerve-regenerative mechanisms.
-- **A Review Study on Ashta Ksheera: their Nutritional and Therapeutic Values in Children** (2022): Eight types of milk (Ashta Ksheera) documented in Ayurveda possess distinct nutritional and therapeutic profiles for pediatric health applications.
+- Dube N, Nimgulkar C, Bharatraj DK 2017. [Validation of therapeutic anti-inflammatory potential of Arjuna Ksheera Paka - A traditional Ayurvedic formulation of Terminalia arjuna](https://pubmed.ncbi.nlm.nih.gov/29034188/). *Journal of traditional and complementary medicine*. PMID [29034188](https://pubmed.ncbi.nlm.nih.gov/29034188/) · [doi:10.1016/j.jtcme.2016.11.006](https://doi.org/10.1016/j.jtcme.2016.11.006)  
+  Milk-based processing (Ksheera Paka) of Terminalia [arjuna](/nighantu/herb/arjuna/) enhanced anti-inflammatory activity, validating the traditional Ayurvedic practice of using milk as a pharmaceutical vehicle/adjuvant.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

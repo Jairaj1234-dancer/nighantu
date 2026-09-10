@@ -16,7 +16,7 @@ aliases: ["Kadali Pushpa", "KadaliPushpa", "Musa paradisiaca L. (inflorescence/f
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 580
+words: 616
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali-Pushpa/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali-Pushpa/meta-analysis.m
 
 ## What do recent clinical trials show?
 
-- **Musa paradisiaca L. Inflorescence Abrogates Neutrophil Activation by Downregulating TLR4/NF-KB Signaling Pathway in LPS-Induced Acute Lung Injury Model** (2025): Banana inflorescence extract reduced neutrophil activation and lung inflammation by downregulating TLR4/NF-kB signaling pathway in acute lung injury, demonstrating potent anti-inflammatory potential.
-- **Valorization of Nam Wah Banana (Musa paradisiaca L.) Byproducts as a Source of Bioactive Compounds with [Antioxidant](/nighantu/reference/antioxidant/) and Anti-inflammatory Properties** (2023): Banana flower extract showed promising antioxidant, anti-inflammatory, and anti-obese effects attributed to significant total phenol content and flavonoid composition.
-- **Antioxidant, anti-inflammatory and anti-obesity activities of banana flower extract evaluation** (2022): Banana flower extract demonstrated significant reduction in lipid accumulation in adipocyte models and inhibition of pro-inflammatory markers, supporting its nutraceutical potential.
+- Gadelha FAAF, Cavalcanti RFP, Vieira CID and others 2024. [Musa paradisiaca L. Inflorescence Abrogates Neutrophil Activation by Downregulating TLR4/NF-KB Signaling Pathway in LPS-Induced Acute Lung Injury Model](https://pubmed.ncbi.nlm.nih.gov/39861071/). *Pharmaceuticals (Basel, Switzerland)*. PMID [39861071](https://pubmed.ncbi.nlm.nih.gov/39861071/) · [doi:10.3390/ph18010008](https://doi.org/10.3390/ph18010008)  
+  Banana inflorescence extract reduced neutrophil activation and lung inflammation by downregulating TLR4/NF-kB signaling pathway in acute lung injury, demonstrating potent anti-inflammatory potential.
+- Widoyanti AAE, Chaikong K, Rangsinth P and others 2023. [Valorization of Nam Wah Banana (Musa paradisiaca L.) Byproducts as a Source of Bioactive Compounds with Antioxidant and Anti-inflammatory Properties: In Vitro and In Silico Studies](https://pubmed.ncbi.nlm.nih.gov/37959074/). *Foods (Basel, Switzerland)*. PMID [37959074](https://pubmed.ncbi.nlm.nih.gov/37959074/) · [doi:10.3390/foods12213955](https://doi.org/10.3390/foods12213955)  
+  Banana flower extract showed promising antioxidant, anti-inflammatory, and anti-obese effects attributed to significant total phenol content and flavonoid composition.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

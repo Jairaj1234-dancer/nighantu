@@ -16,7 +16,7 @@ aliases: ["Yogaraja Guggulu", "YogarajaGuggulu"]
 tags: ["ayurveda", "formulation", "guggulu", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 580
+words: 573
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Yogaraja-Guggulu/meta-analysis.md"
 ---
 ## Names and identification
@@ -63,9 +63,10 @@ Ashtanga Hridayam (Chikitsa Sthana, Chapter 21 - Vatarakta Chikitsa); also descr
 
 ## What do recent clinical trials show?
 
-- **Evaluation of Yograj [Guggulu](/nighantu/formulation/guggulu/), [Ashwagandha](/nighantu/herb/ashwagandha/) Churna and Narayana Taila in management of Osteoarthritis Knee in tribal dominant community** (2025): Among 201 patients completing 8-week study, statistically significant improvement in pain and functional scores (p < 0.05) with significant reduction in NSAID rescue medicine intake and associated side effects.
-- **Clinical Evaluation of Yogaraj [Guggulu](/nighantu/formulation/guggulu/), Gandharvahasta Taila, and Dhanwantara Taila in the Management of Osteoarthritis Knees** (2018): Randomized trial showed 35% reduction in pain after 8 weeks compared to placebo, with improvement in joint mobility and quality of life scores.
-- **Guggul-based formulas for joint discomfort and stiffness** (2018): International Journal of Ayurveda Research study found participants using guggul-based formulas reported reduction in mild joint discomfort and stiffness over a six-week period.
+- Kachare K, Makhija D, Sharma A and others 2025. [Evaluation of Yograj Guggulu, Ashwagandha Churna and Narayana Taila in management of Osteoarthritis Knee: A study in tribal dominant community](https://pubmed.ncbi.nlm.nih.gov/40215578/). *Journal of Ayurveda and integrative medicine*. PMID [40215578](https://pubmed.ncbi.nlm.nih.gov/40215578/) · [doi:10.1016/j.jaim.2024.101077](https://doi.org/10.1016/j.jaim.2024.101077)  
+  Among 201 patients completing 8-week study, statistically significant improvement in pain and functional scores (p < 0.05) with significant reduction in NSAID rescue medicine intake and associated side effects.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

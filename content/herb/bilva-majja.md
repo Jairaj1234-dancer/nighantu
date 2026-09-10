@@ -16,7 +16,7 @@ aliases: ["Aegle marmelos (L.) Correa (fruit pulp)", "Bilva Majja", "BilvaMajja"
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 593
+words: 631
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bilva-Majja/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bilva-Majja/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Comprehensive chemo-profiling of coumarins enriched extract derived from Aegle marmelos (L.) Correa fruit pulp, as an anti-diabetic and anti-inflammatory agent** (2023): Coumarins enriched from bael fruit pulp demonstrated significant anti-diabetic and anti-inflammatory activity, validating potential for phytopharmaceutical development.
-- **Phytochemicals and [antioxidant](/nighantu/reference/antioxidant/) properties of bael (Aegle marmelos L.) pulp powder and its products** (2024): Bael pulp powder showed high antioxidant capacity linked to [carotenoids](/nighantu/glossary/compounds-a-c/#carotenoids), phenolics, and [flavonoids](/nighantu/reference/flavonoids/) with potential for functional food development.
-- **Aegle marmelos a review of its phytochemical profile and pharmacological activity** (2025): Fruit pulp contains bioactive coumarins, [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids), and [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids) exhibiting antidiarrhoeal, [antimicrobial](/nighantu/reference/antimicrobial/), antiviral, radioprotective, and [anticancer](/nighantu/reference/anticancer/) properties.
+- Tiwari R, Mishra S, Danaboina G and others 2023. [Comprehensive chemo-profiling of coumarins enriched extract derived from Aegle marmelos (L.) Correa fruit pulp, as an anti-diabetic and anti-inflammatory agent](https://pubmed.ncbi.nlm.nih.gov/37564748/). *Saudi pharmaceutical journal : SPJ : the official publication of the Saudi Pharmaceutical Society*. PMID [37564748](https://pubmed.ncbi.nlm.nih.gov/37564748/) · [doi:10.1016/j.jsps.2023.101708](https://doi.org/10.1016/j.jsps.2023.101708)  
+  Coumarins enriched from bael fruit pulp demonstrated significant anti-diabetic and anti-inflammatory activity, validating potential for phytopharmaceutical development.
+- Manandhar B, Paudel KR, Sharma B and others 2018. [Phytochemical profile and pharmacological activity of Aegle marmelos Linn](https://pubmed.ncbi.nlm.nih.gov/29709412/). *Journal of integrative medicine*. PMID [29709412](https://pubmed.ncbi.nlm.nih.gov/29709412/) · [doi:10.1016/j.joim.2018.04.007](https://doi.org/10.1016/j.joim.2018.04.007)  
+  Fruit pulp contains bioactive coumarins, [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids), and [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids) exhibiting antidiarrhoeal, [antimicrobial](/nighantu/reference/antimicrobial/), antiviral, radioprotective, and [anticancer](/nighantu/reference/anticancer/) properties.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: ["Vitex negundo L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 599
+words: 649
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nirgundi/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nirgundi/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Vitex negundo Linn.: A Decade of Advances in Phytochemistry, Pharmacological Activities, and Biotechnological Interventions (2015-2025)** (2025): Comprehensive 10-year review covering phytochemistry, pharmacology, analytical standardization, and biotechnological advancements; confirmed multi-target therapeutic potential.
-- **Chemical Diversity and Medicinal Potential of Vitex negundo L.: From Traditional Knowledge to Modern Clinical Trials** (2023): Identified pharmacologically significant flavonoids (vitexin, casticin), iridoid glycosides (agnuside), [lignans](/nighantu/glossary/compounds-g-l/#lignans), and essential oils with validated analgesic and anti-inflammatory mechanisms.
-- **Traditional Medicinal Uses, Phytochemistry, Biological Properties, and Health Applications of Vitex sp.** (2022): Broad review of Vitex genus confirming anti-inflammatory, [antipyretic](/nighantu/reference/antipyretic/), anti-arthritic, [antioxidant](/nighantu/reference/antioxidant/), antibacterial, [antitumor](/nighantu/glossary/pharmacology/#antitumor), [anxiolytic](/nighantu/reference/anxiolytic/), nephroprotective, and anti-HIV activities.
+- Phate PV, Patil AS 2026. [Vitex negundo Linn.: A decade of advances in phytochemistry, pharmacological activities, and biotechnological interventions (2015-2025) - A comprehensive review](https://pubmed.ncbi.nlm.nih.gov/41650524/). *Phytomedicine : international journal of phytotherapy and phytopharmacology*. PMID [41650524](https://pubmed.ncbi.nlm.nih.gov/41650524/) · [doi:10.1016/j.phymed.2026.157895](https://doi.org/10.1016/j.phymed.2026.157895)  
+  Comprehensive 10-year review covering phytochemistry, pharmacology, analytical standardization, and biotechnological advancements; confirmed multi-target therapeutic potential.
+- Sharma D, Radha, Kumar M and others 2023. [Chemical Diversity and Medicinal Potential of Vitex negundo L.: From Traditional Knowledge to Modern Clinical Trials](https://pubmed.ncbi.nlm.nih.gov/37851484/). *Chemistry & biodiversity*. PMID [37851484](https://pubmed.ncbi.nlm.nih.gov/37851484/) · [doi:10.1002/cbdv.202301086](https://doi.org/10.1002/cbdv.202301086)  
+  Identified pharmacologically significant flavonoids (vitexin, casticin), iridoid glycosides (agnuside), [lignans](/nighantu/glossary/compounds-g-l/#lignans), and essential oils with validated analgesic and anti-inflammatory mechanisms.
+- Kamal N, Mio Asni NS, Rozlan INA and others 2022. [Traditional Medicinal Uses, Phytochemistry, Biological Properties, and Health Applications of Vitex sp](https://pubmed.ncbi.nlm.nih.gov/35893648/). *Plants (Basel, Switzerland)*. PMID [35893648](https://pubmed.ncbi.nlm.nih.gov/35893648/) · [doi:10.3390/plants11151944](https://doi.org/10.3390/plants11151944)  
+  Broad review of Vitex genus confirming anti-inflammatory, [antipyretic](/nighantu/reference/antipyretic/), anti-arthritic, [antioxidant](/nighantu/reference/antioxidant/), antibacterial, [antitumor](/nighantu/glossary/pharmacology/#antitumor), [anxiolytic](/nighantu/reference/anxiolytic/), nephroprotective, and anti-HIV activities.
 
 ## Recent safety updates
 

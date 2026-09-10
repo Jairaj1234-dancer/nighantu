@@ -16,7 +16,7 @@ aliases: ["Cassia tora L. (Senna tora) / Uncertain identification"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 526
+words: 464
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chakragaja/meta-analysis.md"
 ---
 ## Names and identification
@@ -52,9 +52,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chakragaja/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Cassia tora: A comprehensive review on phytochemistry, pharmacology, and toxicological studies** (2023): Anthraquinone derivatives including chrysophanol and emodin demonstrated significant antifungal activity against dermatophytes, validating traditional use for ringworm and skin diseases.
-- **Anti-inflammatory and [antioxidant](/nighantu/reference/antioxidant/) activities of Cassia tora seed extract** (2022): Seed extract showed dose-dependent inhibition of carrageenan-induced paw edema and significant free radical scavenging activity linked to anthraquinone and flavonoid content.
-- **[Hepatoprotective](/nighantu/reference/hepatoprotective/) and hypolipidemic effects of Cassia tora in experimental models** (2021): Extract exhibited hepatoprotective effects against CCl4-induced liver damage and reduced serum cholesterol and triglyceride levels in hyperlipidemic rats.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

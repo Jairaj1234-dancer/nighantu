@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Salts-Minerals-Metals"
 group: "Saindhava-Lavana"
-answer: "Saindhava Lavana is a substance used in the Ayurvedic materia medica. Usual dose: 1–3 g as seasoning; in formulations: as directed. Salt in Ayurveda I (2012): Systematic review confirmed Saindhava Lavana's unique position as the only Tridosha-balancing salt; its cooling potency distinguishes it from all other salts which are heating, validating Charaka's classification."
+answer: "Saindhava Lavana is a substance used in the Ayurvedic materia medica. Usual dose: 1–3 g as seasoning; in formulations: as directed. An absence here means we could not identify the source, not that no work exists."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Saindhava Lavana", "SaindhavaLavana"]
 tags: ["ayurveda", "mineral", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 545
+words: 469
 srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Saindhava-Lavana/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,9 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Saindhava-Lavana/meta-analysis.md
 
 ## What do recent clinical trials show?
 
-- **Sendha Namak: The Ultimate Guide to Rock Salt's Health Benefits and Uses** (2024): Rock salt stimulates digestive enzyme and bile production, alleviates bloating, gas, and indigestion; its 84 trace minerals support electrolyte balance and cellular function.
-- **Salt in Ayurveda I** (2012): Systematic review confirmed [Saindhava Lavana](/nighantu/herb/saindhava-lavana/)'s unique position as the only Tridosha-balancing salt; its cooling potency distinguishes it from all other salts which are heating, validating Charaka's classification.
-- **Lavana (salt) - An Ayurvedic Outlook on Saindhava (Rock salt)** (2024): World Journal of Pharmaceutical Research publication confirmed Saindhava's therapeutic properties including digestive stimulation, [aphrodisiac](/nighantu/glossary/pharmacology/#aphrodisiac) effects, ophthalmological benefits, and anti-infective properties in alignment with classical Ayurvedic texts.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: ["Prunus cerasoides D. Don"]
 tags: ["ayurveda", "herb", "single-herb", "skin-beauty", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 639
+words: 622
 srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Padmaka/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Padmaka/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **An Insight Review on Phytochemistry, Pharmacological Evidences, and Biosynthesis of Key Metabolites of Indian Himalayan Cherry** (2025): Comprehensive review identified over fifty diverse phytochemicals including flavones, [isoflavones](/nighantu/glossary/compounds-g-l/#isoflavones), chalcones, [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids), [glycosides](/nighantu/glossary/compounds-g-l/#glycosides), and [sterols](/nighantu/glossary/compounds-q-t/#sterols), confirming significant pharmacological potential for antioxidant, [antimicrobial](/nighantu/reference/antimicrobial/), and anti-pyretic applications.
-- **Antioxidant and antibacterial evaluation of leaf extracts of Prunus cerasoides: In Vitro and In Silico study** (2024): Leaf extracts demonstrated significant antioxidant activity through DPPH radical scavenging and strong antibacterial effects, validating traditional use for skin health through computational molecular docking studies.
-- **Development of Padmaka-based face serum for skincare applications** (2024): A Padmaka-based face serum was successfully developed and evaluated for skincare applications, demonstrating good stability, spreadability, and potential skin-enhancing benefits.
+- Jyotshna, Shanker K 2025. [An Insight Review on Phytochemistry, Pharmacological Evidences, and Biosynthesis of Key Metabolites of Indian Himalayan Cherry (Prunus cerasoides Don.) with Emphasis on its Safety and Use in Tradtional Phytomedicine](https://pubmed.ncbi.nlm.nih.gov/39552266/). *Chemistry & biodiversity*. PMID [39552266](https://pubmed.ncbi.nlm.nih.gov/39552266/) · [doi:10.1002/cbdv.202401814](https://doi.org/10.1002/cbdv.202401814)  
+  Comprehensive review identified over fifty diverse phytochemicals including flavones, [isoflavones](/nighantu/glossary/compounds-g-l/#isoflavones), chalcones, [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids), [glycosides](/nighantu/glossary/compounds-g-l/#glycosides), and [sterols](/nighantu/glossary/compounds-q-t/#sterols), confirming significant pharmacological potential for antioxidant, [antimicrobial](/nighantu/reference/antimicrobial/), and anti-pyretic applications.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

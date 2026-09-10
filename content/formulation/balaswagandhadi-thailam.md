@@ -16,7 +16,7 @@ aliases: ["Balaswagandhadi Thailam", "BalaswagandhadiThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 651
+words: 635
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Balaswagandhadi-Thailam/meta-analysis.md"
 ---
 ## Names and identification
@@ -55,9 +55,10 @@ Sahasrayogam (Taila Prakarana). A classic Brimhana (nourishing/strengthening) fo
 
 ## What do recent clinical trials show?
 
-- **GC-MS Analysis of the Ayurvedic Oil Balaswagandhadi Tailam** (2024): Published in PMC, the GC-MS study identified key bioactive compounds including vitamin E, campesterol, gamma-sitosterol, beta-eudesmol, and multiple fatty acid esters, validating the presence of pharmacologically active molecules in the traditional formulation.
-- **Clinical evaluation of [Balaswagandhadi Thailam](/nighantu/formulation/balaswagandhadi-thailam/) Abhyanga in muscle weakness** (2019): A randomized controlled trial with 60 patients showed 30% reduction in pain scores after four weeks of daily abhyanga with [Balaswagandhadi Thailam](/nighantu/formulation/balaswagandhadi-thailam/) compared to control oil.
-- **Anti-inflammatory and antioxidant properties of Withania somnifera and Sida cordifolia in medicated oil formulations** (2021): Pharmacological analysis confirmed that W. somnifera and S. cordifolia possess significant anti-inflammatory and antioxidant properties, supporting traditional use for managing inflammatory conditions and promoting tissue health.
+- Sudhan A, Prabhu K, Jones S and others 2024. [GC-MS Analysis of the Ayurvedic Oil Balaswagandhadi Tailam](https://pubmed.ncbi.nlm.nih.gov/40061637/). *Journal of pharmacy & bioallied sciences*. PMID [40061637](https://pubmed.ncbi.nlm.nih.gov/40061637/) · [doi:10.4103/jpbs.jpbs_839_24](https://doi.org/10.4103/jpbs.jpbs_839_24)  
+  Published in PMC, the GC-MS study identified key bioactive compounds including vitamin E, campesterol, gamma-sitosterol, beta-eudesmol, and multiple fatty acid esters, validating the presence of pharmacologically active molecules in the traditional formulation.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

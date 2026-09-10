@@ -16,7 +16,7 @@ aliases: ["Amaranthus spinosus L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 600
+words: 588
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kshavaka/meta-analysis.md"
 ---
 ## Names and identification
@@ -52,9 +52,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kshavaka/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Amaranthus spinosus: Phytochemical and pharmacological review with emphasis on anti-inflammatory potential** (2023): Documented anti-inflammatory, antioxidant, diuretic, [antimicrobial](/nighantu/reference/antimicrobial/), [hepatoprotective](/nighantu/reference/hepatoprotective/), and [immunomodulatory](/nighantu/reference/immunomodulatory/) activities linked to betalain pigments and flavonoid glycosides.
-- **Evaluation of analgesic and anti-inflammatory activities of Amaranthus spinosus leaf extract** (2022): Leaf extract demonstrated significant dose-dependent analgesic and anti-inflammatory activity in carrageenan-induced paw edema and acetic acid writhing models.
-- **Antioxidant and hepatoprotective potential of Amaranthus spinosus against CCl4-induced liver damage** (2021): Ethanolic extract showed hepatoprotective activity by normalizing liver [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) and reducing oxidative stress markers in CCl4-induced hepatotoxicity model.
+- Zeashan H, Amresh G, Singh S and others 2009. [Hepatoprotective and antioxidant activity of Amaranthus spinosus against CCl4 induced toxicity](https://pubmed.ncbi.nlm.nih.gov/19465104/). *Journal of ethnopharmacology*. PMID [19465104](https://pubmed.ncbi.nlm.nih.gov/19465104/) · [doi:10.1016/j.jep.2009.05.010](https://doi.org/10.1016/j.jep.2009.05.010)  
+  Ethanolic extract showed hepatoprotective activity by normalizing liver [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) and reducing oxidative stress markers in CCl4-induced hepatotoxicity model.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: ["Albizia lebbeck (L.) Benth."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 620
+words: 651
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shirisha/meta-analysis.md"
 ---
 ## Names and identification
@@ -57,9 +57,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shirisha/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **A Comprehensive Review of the Phytochemicals, Nutritional Values, and Therapeutic Applications of Albizia lebbeck** (2024): Updated review documented anti-inflammatory, [anticancer](/nighantu/reference/anticancer/), [antioxidant](/nighantu/reference/antioxidant/), neuroprotective, anti-diarrheal and [antidiabetic](/nighantu/reference/antidiabetic/) activities attributed to catechin, melacacidin and echinocystic acid glycosides.
-- **Albizia lebbeck suppresses histamine signaling by the inhibition of histamine H1 receptor and histidine decarboxylase gene transcriptions** (2023): Demonstrated that bark extract suppresses allergic responses at the transcriptional level by inhibiting H1R and HDC mRNA expression and reducing histamine content in nasal mucosa.
-- **Neuroprotective effects of Albizia lebbeck leaf extract against glutamate-induced endoplasmic reticulum stress in human microglial cells** (2023): Leaf extract protected human microglial cells from glutamate-induced ER stress and apoptosis through modulation of UPR signaling pathway, suggesting novel neuroprotective applications.
+- Nurul IM, Mizuguchi H, Shahriar M and others 2011. [Albizia lebbeck suppresses histamine signaling by the inhibition of histamine H1 receptor and histidine decarboxylase gene transcriptions](https://pubmed.ncbi.nlm.nih.gov/21782040/). *International immunopharmacology*. PMID [21782040](https://pubmed.ncbi.nlm.nih.gov/21782040/) · [doi:10.1016/j.intimp.2011.07.003](https://doi.org/10.1016/j.intimp.2011.07.003)  
+  Demonstrated that bark extract suppresses allergic responses at the transcriptional level by inhibiting H1R and HDC mRNA expression and reducing histamine content in nasal mucosa.
+- Phoraksa O, Chimkerd C, Thiyajai P and others 2023. [Neuroprotective Effects of Albizia lebbeck (L.) Benth. Leaf Extract against Glutamate-Induced Endoplasmic Reticulum Stress and Apoptosis in Human Microglial Cells](https://pubmed.ncbi.nlm.nih.gov/37513900/). *Pharmaceuticals (Basel, Switzerland)*. PMID [37513900](https://pubmed.ncbi.nlm.nih.gov/37513900/) · [doi:10.3390/ph16070989](https://doi.org/10.3390/ph16070989)  
+  Leaf extract protected human microglial cells from glutamate-induced ER stress and apoptosis through modulation of UPR signaling pathway, suggesting novel neuroprotective applications.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

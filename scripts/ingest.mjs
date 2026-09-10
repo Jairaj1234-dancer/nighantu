@@ -13,6 +13,7 @@ import {
   normaliseBinomial, stripSubsections, yamlValue,
 } from './lib.mjs';
 import { composeAnswer } from './answer.mjs';
+import { applyToSection, shortfallNote } from './lib/claims.mjs';
 
 const DRY = process.argv.includes('--dry-run');
 const LIMIT = (() => {
@@ -38,6 +39,15 @@ for (const rel of all) {
 }
 
 // ---------------------------------------------------------------- stage 2: parse
+/** Sections whose bullets were presented as studies. */
+const RESEARCH_HEADINGS = new Set([
+  'What do recent clinical trials show?',
+  'What does modern research show?',
+  'Which traditional uses are supported by research?',
+  'Recent safety updates',
+]);
+const citeTally = { cited: 0, dropped: 0 };
+
 const kindOf = (rel) => {
   if (rel.includes('Medical-Devices')) return 'device';
   if (rel.includes('Classical-Formulations')) return 'formulation';
@@ -102,7 +112,17 @@ function renderSections(p) {
       }
       continue;
     }
-    const content = stripSubsections(dropLines(s.content));
+    let content = stripSubsections(dropLines(s.content));
+
+    // Research bullets are rewritten against the PubMed verdicts, so re-ingesting
+    // from the vault can never reintroduce an unverifiable claim.
+    if (RESEARCH_HEADINGS.has(rewriteHeading(s.heading))) {
+      const r = applyToSection(p.kind, slugify(DUPLICATE_CANONICAL.get(p.identity) ?? p.identity), content);
+      content = r.content + shortfallNote(p.kind, r.dropped);
+      citeTally.cited += r.cited;
+      citeTally.dropped += r.dropped;
+    }
+
     if (!content || !/[A-Za-z]/.test(content.replace(/^#+.*$/gm, ''))) continue;
     out.push({ heading: rewriteHeading(s.heading), content });
   }
@@ -380,4 +400,5 @@ fs.mkdirSync('src/data', { recursive: true });
 fs.writeFileSync('src/data/manifest.json', JSON.stringify(manifest, null, 2));
 
 console.log(`ingested ${publishSet.length} standalone pages, ${rolled.length} glossary entries`);
+console.log(`research claims: ${citeTally.cited} cited with a PMID, ${citeTally.dropped} removed as untraceable`);
 console.log(`excluded ${denied.length} files (${denied.filter(([r]) => r.includes('Chyawanprash-Royale')).length} Chyawanprash-Royale)`);

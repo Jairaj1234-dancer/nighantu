@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "brain-nervous-system", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "AgeAyurveda Product Catalog", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: ["ADHD Ease"]
-words: 712
+words: 722
 srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Shankhpushpi/meta-analysis.md"
 ---
 ## Names and identification
@@ -38,11 +38,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Shankhpushpi/meta-anal
 
 ## What do recent clinical trials show?
 
-- **Role of Shankhpushpi in neurological disorders: An umbrella review covering evidence from ethnopharmacology to clinical studies** (2022): Comprehensive umbrella review validated ethnomedicinal uses ([antispasmodic](/nighantu/glossary/pharmacology/#antispasmodic), [analgesic](/nighantu/reference/analgesic/), anti-inflammatory, anti-anxiety, memory-boosting) through neuropharmacological studies. Highlighted need for multicentric clinical trials across diverse populations.
-- **Protective Mechanisms of Nootropic Herb Shankhpushpi against Dementia: Network Pharmacology and Computational Approach** (2022): Network pharmacology identified scopoletin as having highest binding affinity with PTGS1, NOS3, PPARG, ACHE, MAOA, MAOB, and TRKB molecular targets. [Quercetin](/nighantu/reference/quercetinquercetin/) showed highest affinity with PTGS2. These compounds ameliorate cognitive deficits through PPARgamma signaling activation.
-- **Novel insights on acetylcholinesterase inhibition by Convolvulus pluricaulis in zebrafish** (2022): Zebrafish model demonstrated that C. pluricaulis treatment inhibits AChE activity comparable to standard AChE inhibitors. CP was superior as evidenced by retention of avoidance response behavior in adult zebrafish.
-- **Therapeutic mechanism of Convolvulus pluricaulis against Alzheimer's disease: Network pharmacology and molecular dynamics approach** (2024): Molecular dynamics simulations identified key active compounds (scopoletin, 4-hydroxycinnamic acid, ayapanin) that interact with Alzheimer's-associated molecular targets, providing mechanistic basis for traditional nootropic use.
-- **Shankhpushpi: Exploring its Cognitive Enhancing Mechanisms and Therapeutic Potential in Neurodegenerative Disorders** (2023): Demonstrated that C. pluricaulis modulates synaptic plasticity in rat brain hippocampus and ameliorates human microtubule-associated protein tau (hMAPtau) induced neurotoxicity in Alzheimer's Drosophila model, extending lifespan.
+- Sharma R, Singla RK, Banerjee S and others 2022. [Role of Shankhpushpi (Convolvulus pluricaulis) in neurological disorders: An umbrella review covering evidence from ethnopharmacology to clinical studies](https://pubmed.ncbi.nlm.nih.gov/35878793/). *Neuroscience and biobehavioral reviews*. PMID [35878793](https://pubmed.ncbi.nlm.nih.gov/35878793/) · [doi:10.1016/j.neubiorev.2022.104795](https://doi.org/10.1016/j.neubiorev.2022.104795)  
+  Comprehensive umbrella review validated ethnomedicinal uses ([antispasmodic](/nighantu/glossary/pharmacology/#antispasmodic), [analgesic](/nighantu/reference/analgesic/), anti-inflammatory, anti-anxiety, memory-boosting) through neuropharmacological studies. Highlighted need for multicentric clinical trials across diverse populations.
+- Hannan MA, Sultana A, Rahman MH and others 2022. [Protective Mechanisms of Nootropic Herb Shankhpushpi (Convolvulus pluricaulis) against Dementia: Network Pharmacology and Computational Approach](https://pubmed.ncbi.nlm.nih.gov/36225186/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [36225186](https://pubmed.ncbi.nlm.nih.gov/36225186/) · [doi:10.1155/2022/1015310](https://doi.org/10.1155/2022/1015310)  
+  Network pharmacology identified scopoletin as having highest binding affinity with PTGS1, NOS3, PPARG, ACHE, MAOA, MAOB, and TRKB molecular targets. [Quercetin](/nighantu/reference/quercetinquercetin/) showed highest affinity with PTGS2. These compounds ameliorate cognitive deficits through PPARgamma signaling activation.
+- Karunakaran KB, Thiyagaraj A, Santhakumar K 2022. [Novel insights on acetylcholinesterase inhibition by Convolvulus pluricaulis, scopolamine and their combination in zebrafish](https://pubmed.ncbi.nlm.nih.gov/35212831/). *Natural products and bioprospecting*. PMID [35212831](https://pubmed.ncbi.nlm.nih.gov/35212831/) · [doi:10.1007/s13659-022-00332-5](https://doi.org/10.1007/s13659-022-00332-5)  
+  Zebrafish model demonstrated that C. pluricaulis treatment inhibits AChE activity comparable to standard AChE inhibitors. CP was superior as evidenced by retention of avoidance response behavior in adult zebrafish.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

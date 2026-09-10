@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 519
+words: 530
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Srikhandasava/meta-analysis.md"
 ---
 ## Names and identification
@@ -67,9 +67,10 @@ Bhaishajya Ratnavali, Madatyaya Adhikara (chapter on intoxication/alcoholism). A
 
 ## What do recent clinical trials show?
 
-- **Antioxidant Studies of One Ayurvedic Medicine, Srikhandasavam** (2024): PMC-published study confirmed high antioxidant activity through DPPH, FRAP, and ABTS assays, validating the formulation's Pitta-pacifying and tissue-protective properties.
-- **Pharmacognosy analysis of sandalwood-based Asavas** (2020): High levels of santalols, flavonoids, and phenolics confirmed with significant free-radical scavenging activity and antimicrobial effects against S. aureus and E. coli.
-- **Cooling and anti-inflammatory effects of [Chandana](/nighantu/herb/chandana/)-based formulations** (2021): Sandalwood preparations demonstrated significant reduction in inflammatory markers and subjective burning sensation scores in Pitta-aggravated conditions.
+- Sanapati K, Kalaivannan J, Jones S and others 2024. [Antioxidant Studies of One Ayurvedic Medicine, Srikhandasavam](https://pubmed.ncbi.nlm.nih.gov/40061773/). *Journal of pharmacy & bioallied sciences*. PMID [40061773](https://pubmed.ncbi.nlm.nih.gov/40061773/) · [doi:10.4103/jpbs.jpbs_990_24](https://doi.org/10.4103/jpbs.jpbs_990_24)  
+  PMC-published study confirmed high antioxidant activity through DPPH, FRAP, and ABTS assays, validating the formulation's Pitta-pacifying and tissue-protective properties.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

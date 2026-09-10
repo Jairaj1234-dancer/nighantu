@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Rasa-Shastra-Alchemical-Preparations"
 group: "Mahalakshmi-Vilas-Rasa"
-answer: "Mahalakshmi Vilas Rasa is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg twice daily. Identified cinnabar (HgS), cassiterite (SnO2), orpiment (As2S3), and mica. Drug was tested for residual pesticides and microbiological contamination, found within permissible limits."
+answer: "Mahalakshmi Vilas Rasa is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg twice daily. [Chemical characterization of an Ayurvedic herbo-mineral preparation- Mahalaxmivilas Rasa](https://pubmed.ncbi.nlm.nih.gov/30466809/). Journal of Ayurveda and integrative medicine."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Mahalakshmi Vilas Rasa", "MahalakshmiVilasRasa"]
 tags: ["ayurveda", "rasa-shastra", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 465
+words: 509
 srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Mahalakshmi-Vilas-Rasa/meta-analysis.md"
 ---
 ## Names and identification
@@ -38,8 +38,10 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Mahalakshmi-Vilas-
 
 ## What do recent clinical trials show?
 
-- **Chemical characterization of an Ayurvedic herbo-mineral preparation - Mahalaxmivilas Rasa** (2019): Elemental analysis confirmed presence of Mercury, Sulfur, Calcium, Copper, Gold, Iron & Tin. Identified cinnabar (HgS), cassiterite (SnO2), orpiment (As2S3), and mica. Drug was tested for residual pesticides and microbiological contamination, found within permissible limits. Provided analytical characterization data for quality standardization.
-- **Heavy Metals in Indian Traditional Systems of Medicine: A Systematic Scoping Review** (2021): Systematic review identified inadequate regulatory mechanisms for heavy metal-containing traditional medicines. Well-prepared formulations may have lesser toxicity chances, but preparation errors can lead to dangerous health issues. Called for standardized quality control and long-term safety studies.
+- Srikanth N, Singh A, Ota S and others 2019. [Chemical characterization of an Ayurvedic herbo-mineral preparation- Mahalaxmivilas Rasa](https://pubmed.ncbi.nlm.nih.gov/30466809/). *Journal of Ayurveda and integrative medicine*. PMID [30466809](https://pubmed.ncbi.nlm.nih.gov/30466809/) · [doi:10.1016/j.jaim.2018.01.002](https://doi.org/10.1016/j.jaim.2018.01.002)  
+  Elemental analysis confirmed presence of Mercury, Sulfur, Calcium, Copper, Gold, Iron & Tin. Identified cinnabar (HgS), cassiterite (SnO2), orpiment (As2S3), and mica. Drug was tested for residual pesticides and microbiological contamination, found within permissible limits. Provided analytical characterization data for quality standardization.
+- Mukhopadhyay S, Abraham SE, Holla B and others 2021. [Heavy Metals in Indian Traditional Systems of Medicine: A Systematic Scoping Review and Recommendations for Integrative Medicine Practice](https://pubmed.ncbi.nlm.nih.gov/34142855/). *Journal of alternative and complementary medicine (New York, N.Y.)*. PMID [34142855](https://pubmed.ncbi.nlm.nih.gov/34142855/) · [doi:10.1089/acm.2021.0083](https://doi.org/10.1089/acm.2021.0083)  
+  Systematic review identified inadequate regulatory mechanisms for heavy metal-containing traditional medicines. Well-prepared formulations may have lesser toxicity chances, but preparation errors can lead to dangerous health issues. Called for standardized quality control and long-term safety studies.
 
 ## Recent safety updates
 

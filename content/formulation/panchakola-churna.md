@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Churnas-Powders"
-answer: "Panchakola Churna is a classical Ayurvedic churna, a fine herbal powder. The usual dose is 1-3g before meals. In vitro lipase activation by Chavya and Pippali extracts (2019): In vitro assays indicated significant lipase activation by Chavya and Pippali extracts, supporting fat-digestive claims; piperine enhanced bioavailability of co-administered herbal compounds by up to 30%."
+answer: "Panchakola Churna is a classical Ayurvedic churna, a fine herbal powder. The usual dose is 1-3g before meals. [Toxicological evaluation of Panchakola Avaleha, an Ayurvedic classical formulation, in albino rats](https://pubmed.ncbi.nlm.nih.gov/23559809/). PMID [23559809](https://pubmed.ncbi.nlm.nih.gov/23559809/) · [doi:10.4103/0974-8520.105257](https://doi.org/10.4103/0974-8520.105257) Toxicological evaluation in albino rats showed safety profile within acceptable limits, supporting traditional use at recommended doses."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Panchakola Churna", "PanchakolaChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 553
+words: 512
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Panchakola-Churna/meta-analysis.md"
 ---
 ## Names and identification
@@ -54,10 +54,10 @@ Sushruta Samhita and Ashtanga Hridayam (as a group - Panchakola Gana); elaborate
 
 ## What do recent clinical trials show?
 
-- **Randomized pilot trial on [Panchakola Churna](/nighantu/formulation/panchakola-churna/) for gastric motility and flatulence** (2021): Banaras Hindu University pilot trial showed improved gastric motility and reduced flatulence scores in participants using the powder for seven days.
-- **In vitro lipase activation by [Chavya](/nighantu/herb/chavya/) and [Pippali](/nighantu/herb/pippali/) extracts** (2019): In vitro assays indicated significant lipase activation by [Chavya](/nighantu/herb/chavya/) and [Pippali](/nighantu/herb/pippali/) extracts, supporting fat-digestive claims; piperine enhanced bioavailability of co-administered herbal compounds by up to 30%.
-- **Toxicological evaluation of Panchakola Avaleha, an Ayurvedic classical formulation, in albino rats** (2013): Toxicological evaluation in albino rats showed safety profile within acceptable limits, supporting traditional use at recommended doses.
-- **Antimicrobial screening of [Panchakola Churna](/nighantu/formulation/panchakola-churna/)** (2019): Formulation showed strongest inhibitory activity against E. coli (76.49%), minimal inhibition against P. aeruginosa (28.43%), and no inhibition against B. subtilis.
+- Singh RK, Banerjee R, Upadhyay S and others 2012. [Toxicological evaluation of Panchakola Avaleha, an Ayurvedic classical formulation, in albino rats](https://pubmed.ncbi.nlm.nih.gov/23559809/). *Ayu*. PMID [23559809](https://pubmed.ncbi.nlm.nih.gov/23559809/) · [doi:10.4103/0974-8520.105257](https://doi.org/10.4103/0974-8520.105257)  
+  Toxicological evaluation in albino rats showed safety profile within acceptable limits, supporting traditional use at recommended doses.
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

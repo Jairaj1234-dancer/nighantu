@@ -16,7 +16,7 @@ aliases: ["Kumkumadi Tailam", "KumkumadiTailam", "Polyherbal formulation (Kumkum
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 651
+words: 596
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kumkumadi-Tailam/meta-analysis.md"
 ---
 ## Names and identification
@@ -52,9 +52,9 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kumkumadi-T
 
 ## What do recent clinical trials show?
 
-- **Topical Kumkumadi oil skin hydration clinical study** (2020): A double-blind clinical trial in the Journal of Cosmetic Dermatology demonstrated that topical Kumkumadi oil improved skin hydration by 22% over placebo, with visible improvements in skin texture and radiance.
-- **[Saffron](/nighantu/herb/saffron/) extract anti-tyrosinase activity study** (2019): [Saffron](/nighantu/herb/saffron/) extract within Kumkumadi formulation showed significant anti-tyrosinase activity, slowing melanin synthesis and demonstrating the biochemical basis for traditional skin brightening claims.
-- **[Saffron](/nighantu/herb/saffron/)-based formulation for pigmentation reduction** (2014): Study of 100 participants aged 25-55 showed [saffron](/nighantu/herb/saffron/) significantly reduces pigmentation and skin redness, with 75% of participants reporting noticeable improvement in skin tone and decreased redness.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: ["Cissampelos pareira L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 505
+words: 550
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ambasthaki/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ambasthaki/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Phytochemical Screening and In Vitro [Antioxidant](/nighantu/reference/antioxidant/) and Anticancer Evaluation of Stem and Leaf Extracts of Cissampelos pareira L.** (2025): Identified exceptionally high phenolic (95.73 mg GAE/g in leaves) and flavonoid (82.68 mg CE/g in leaves) content; demonstrated significant anticancer activity against multiple cancer cell lines.
-- **Chemical profiling and quantification of potential active constituents responsible for antiplasmodial activity of Cissampelos pareira** (2023): Identified and quantified specific isoquinoline alkaloids responsible for the potent antiplasmodial (antimalarial) activity of the plant, validating traditional use against fevers.
-- **Cissampelos pareira L.: A review of its traditional uses, phytochemistry, and pharmacology** (2024): Comprehensive review documenting 54 phytomolecules isolated from the plant, primarily isoquinoline alkaloids, with validated antimalarial, anti-inflammatory, and anticancer pharmacological activities.
+- Thim-Uam A, Thepmalee C, Chaiwangyen W and others 2025. [Phytochemical Screening and In Vitro Antioxidant and Anticancer Evaluation of Stem and Leaf Extracts of Cissampelos pareira L](https://pubmed.ncbi.nlm.nih.gov/40689394/). *Mediators of inflammation*. PMID [40689394](https://pubmed.ncbi.nlm.nih.gov/40689394/) · [doi:10.1155/mi/7555073](https://doi.org/10.1155/mi/7555073)  
+  Identified exceptionally high phenolic (95.73 mg GAE/g in leaves) and flavonoid (82.68 mg CE/g in leaves) content; demonstrated significant anticancer activity against multiple cancer cell lines.
+- Bhatt V, Kumari S, Upadhyay P and others 2020. [Chemical profiling and quantification of potential active constituents responsible for the antiplasmodial activity of Cissampelos pareira](https://pubmed.ncbi.nlm.nih.gov/32726676/). *Journal of ethnopharmacology*. PMID [32726676](https://pubmed.ncbi.nlm.nih.gov/32726676/) · [doi:10.1016/j.jep.2020.113185](https://doi.org/10.1016/j.jep.2020.113185)  
+  Identified and quantified specific isoquinoline alkaloids responsible for the potent antiplasmodial (antimalarial) activity of the plant, validating traditional use against fevers.
+- Kumari S, Anmol, Bhatt V and others 2021. [Cissampelos pareira L.: A review of its traditional uses, phytochemistry, and pharmacology](https://pubmed.ncbi.nlm.nih.gov/33485976/). *Journal of ethnopharmacology*. PMID [33485976](https://pubmed.ncbi.nlm.nih.gov/33485976/) · [doi:10.1016/j.jep.2021.113850](https://doi.org/10.1016/j.jep.2021.113850)  
+  Comprehensive review documenting 54 phytomolecules isolated from the plant, primarily isoquinoline alkaloids, with validated antimalarial, anti-inflammatory, and anticancer pharmacological activities.
 
 ## Recent safety updates
 

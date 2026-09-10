@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Bhasmas"
-answer: "Mandura Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 250–500 mg twice daily. All safety parameters within stipulated range. No adverse drug reactions or events reported. Haematinic Evaluation of Lauha Bhasma and Mandura Bhasma on HgCl2-induced Anemia in Rats (2009): Both Lauha and Mandura Bhasma showed hematinic activity in experimentally induced anemia."
+answer: "Mandura Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 250–500 mg twice daily. [Physicochemical characterization of an Iron based Indian traditional medicine: Mandura Bhasma](https://pubmed.ncbi.nlm.nih.gov/23284206/). PMID [23284206](https://pubmed.ncbi.nlm.nih.gov/23284206/) Iron oxide nanoparticles confirmed by XRD and SEM analysis."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Mandura Bhasma", "ManduraBhasma"]
 tags: ["ayurveda", "bhasma", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 535
+words: 440
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Mandura-Bhasma/meta-analysis.md"
 ---
 ## Names and identification
@@ -48,10 +48,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Mandura-Bhasma/meta-
 
 ## What do recent clinical trials show?
 
-- **Clinical Efficacy and Safety of Punarnavadi Mandura in Iron Deficiency Anemia** (2017): Punarnavadi Mandura (compound formulation with [Mandura Bhasma](/nighantu/herb/mandura-bhasma/)) was found safe and effective in patients with iron deficiency anemia. All safety parameters within stipulated range. No adverse drug reactions or events reported.
-- **Haematinic Evaluation of Lauha Bhasma and [Mandura Bhasma](/nighantu/herb/mandura-bhasma/) on HgCl2-induced Anemia in Rats** (2009): Both Lauha and [Mandura Bhasma](/nighantu/herb/mandura-bhasma/) showed hematinic activity in experimentally induced anemia. [Mandura Bhasma](/nighantu/herb/mandura-bhasma/) at 55 mg/kg (5x therapeutic dose) for 60 days exhibited no serious toxic effects.
-- **Physicochemical characterization of an Iron based Indian traditional medicine: [Mandura Bhasma](/nighantu/herb/mandura-bhasma/)** (2012): Iron oxide nanoparticles confirmed by XRD and SEM analysis. Particle size and iron oxide phases characterized, providing basis for standardization and quality control.
-- **Clinical trial of Mandur Bhasma in women with iron-deficiency anemia** (2018): Significant rise in hemoglobin levels (average gain 1.2 g/dL over 8 weeks) in women taking 250 mg daily. In women with heavy menstrual flow, reduced menstrual blood loss by over 40% within two cycles.
+- Mulik SB, Jha CB 2011. [Physicochemical characterization of an Iron based Indian traditional medicine: Mandura Bhasma](https://pubmed.ncbi.nlm.nih.gov/23284206/). *Ancient science of life*. PMID [23284206](https://pubmed.ncbi.nlm.nih.gov/23284206/)  
+  Iron oxide nanoparticles confirmed by XRD and SEM analysis. Particle size and iron oxide phases characterized, providing basis for standardization and quality control.
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

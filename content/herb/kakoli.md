@@ -16,7 +16,7 @@ aliases: ["Roscoea purpurea Sm. (also identified with Fritillaria roylei)"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 553
+words: 552
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kakoli/meta-analysis.md"
 ---
 ## Names and identification
@@ -52,9 +52,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kakoli/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **In-depth phytochemical profiling of Roscoea purpurea (Kakoli): Comparative UHPLC-MS/QToF and GC-MS/MS analysis of supercritical CO2 fluid and conventional solvent-based extractive processes** (2024): First-time identification of carotenoid metabolite 15-methyl retinol in the species; fatty acid analysis of supercritical fluid extract revealed elevated unsaturated fatty acids, particularly oleic and linoleic acids.
-- **Bioactive Compounds and Biological Activities of Roscoea purpurea Sm.** (2023): Documented diverse bioactive compounds and validated immunomodulatory, hepatoprotective, antidiabetic, hypolipidemic, [anticancer](/nighantu/reference/anticancer/), and antioxidant activities of rhizome extracts.
-- **Traditional uses, phytochemistry and biological activities of Roscoea purpurea Sm.** (2021): Comprehensive review establishing the ethnopharmacological profile, phytochemical landscape, and evidence base for traditional Ashtavarga applications.
+- Balkrishna A, Joshi M, Varshney Y and others 2024. [In-depth phytochemical profiling of Roscoea purpurea (Kakoli): Comparative UHPLC-MS/QToF and GC-MS/MS analysis of supercritical CO(2) fluid - and conventional solvent - based extractive processes](https://pubmed.ncbi.nlm.nih.gov/39197202/). *Journal of pharmaceutical and biomedical analysis*. PMID [39197202](https://pubmed.ncbi.nlm.nih.gov/39197202/) · [doi:10.1016/j.jpba.2024.116444](https://doi.org/10.1016/j.jpba.2024.116444)  
+  First-time identification of carotenoid metabolite 15-methyl retinol in the species; fatty acid analysis of supercritical fluid extract revealed elevated unsaturated fatty acids, particularly oleic and linoleic acids.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

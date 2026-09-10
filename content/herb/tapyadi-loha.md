@@ -16,7 +16,7 @@ aliases: ["Tapyadi Loha", "TapyadiLoha"]
 tags: ["ayurveda", "loha", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 467
+words: 484
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Lohas-Iron-Preparations/Tapyadi-Loha/meta-analysis.md"
 ---
 ## Names and identification
@@ -45,8 +45,10 @@ Ayurveda Sara Sangraha (Ayurved Saar Sangrah); also referenced in classical Rasa
 
 ## What do recent clinical trials show?
 
-- **Acute and subacute oral toxicity evaluation of Ayurvedic formulation [Tapyadi Loha](/nighantu/herb/tapyadi-loha/) in rats** (2024): [Tapyadi Loha](/nighantu/herb/tapyadi-loha/) showed no mortality or signs of toxicity at single oral dose of 2000 mg/kg; 28-day repeated dose at 1000 mg/kg showed no behavioral, hematological, biochemical, or histopathological abnormalities - confirmed safe at tested doses
-- **Review article on efficacy of [Tapyadi Loha](/nighantu/herb/tapyadi-loha/)** (2022): Comprehensive review confirmed traditional claims for efficacy in Pandu (anemia), Kamla (jaundice), and hepatosplenic disorders with mechanistic support from constituent pharmacology
+- Hinge PH, Tambe MS, Murudkar PH and others 2024. [Acute and subacute oral toxicity evaluation of Ayurvedic formulation Tapyadi loha in rats](https://pubmed.ncbi.nlm.nih.gov/39165010/). *Drug and chemical toxicology*. PMID [39165010](https://pubmed.ncbi.nlm.nih.gov/39165010/) · [doi:10.1080/01480545.2024.2389965](https://doi.org/10.1080/01480545.2024.2389965)  
+  [Tapyadi Loha](/nighantu/herb/tapyadi-loha/) showed no mortality or signs of toxicity at single oral dose of 2000 mg/kg; 28-day repeated dose at 1000 mg/kg showed no behavioral, hematological, biochemical, or histopathological abnormalities - confirmed safe at tested doses
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

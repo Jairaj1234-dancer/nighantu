@@ -16,7 +16,7 @@ aliases: ["Bauhinia variegata L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 584
+words: 557
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kanchanar/meta-analysis.md"
 ---
 ## Names and identification
@@ -56,9 +56,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kanchanar/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Evaluation of Comparative Efficacy of Levothyroxine Versus Kshar Basti and Kanchanar Guggul in the Treatment of Hypothyroidism: Protocol for a Randomized Controlled Trial** (2024): Registered RCT comparing Kanchanar [Guggulu](/nighantu/formulation/guggulu/) formulation with levothyroxine for hypothyroidism management, with enrollment from June 2024 to December 2025; recognizes growing clinical evidence.
-- **Exploring the Therapeutic Potential of Bauhinia variegata: A Review of Botanical, Phytochemical, Pharmacological, and Medicinal Insights** (2024): Confirmed anti-goitrogenic, hepatoprotective, [immunomodulatory](/nighantu/reference/immunomodulatory/), anti-mutagenic and cytotoxic activities; kaempferol and [quercetin](/nighantu/reference/quercetinquercetin/) identified as key anti-thyroid bioactive constituents.
-- **From LC-MS/MS metabolomics profiling of Kanchanara [Guggulu](/nighantu/formulation/guggulu/)|Kanchanara Guggulu to molecular docking with aldose reductase** (2023): LC-MS/MS profiling identified [quercetin](/nighantu/reference/quercetinquercetin/) pentaacetate as a potent aldose reductase inhibitor, suggesting additional antidiabetic and anti-cataract potential beyond thyroid applications.
+- Kulkarni SP, Parwe S 2024. [Evaluation of Comparative Efficacy of Levothyroxine Versus Kshar Basti and Kanchanar Guggul in the Treatment of Hypothyroidism: Protocol for a Randomized Controlled Trial](https://pubmed.ncbi.nlm.nih.gov/39255475/). *JMIR research protocols*. PMID [39255475](https://pubmed.ncbi.nlm.nih.gov/39255475/) · [doi:10.2196/57287](https://doi.org/10.2196/57287)  
+  Registered RCT comparing Kanchanar [Guggulu](/nighantu/formulation/guggulu/) formulation with levothyroxine for hypothyroidism management, with enrollment from June 2024 to December 2025; recognizes growing clinical evidence.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

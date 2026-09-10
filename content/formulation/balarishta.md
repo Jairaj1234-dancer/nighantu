@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 498
+words: 472
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Balarishta/meta-analysis.md"
 ---
 ## Names and identification
@@ -58,9 +58,9 @@ Bhaishajya Ratnavali (13th century CE), where it was called Baladwaya Arishta or
 
 ## What do recent clinical trials show?
 
-- **Nervine tonic properties of Sida cordifolia-based formulations** (2019): Sida cordifolia extracts demonstrated significant neuroprotective effects through [antioxidant](/nighantu/reference/antioxidant/) mechanisms and modulation of neurotransmitter levels.
-- **Anti-rheumatic and analgesic evaluation of Balarishta components** (2020): Combined herbal extract showed significant anti-inflammatory and analgesic activity in adjuvant-induced arthritis models, validating traditional rheumatic use.
-- **Immunomodulatory and adaptogenic activity of [Bala](/nighantu/herb/bala/)-[Ashwagandha](/nighantu/herb/ashwagandha/) combinations** (2021): Synergistic combination enhanced stress resistance and immune function parameters in chronically fatigued animal models.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

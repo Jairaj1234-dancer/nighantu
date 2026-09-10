@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 475
+words: 439
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Pippalyasava/meta-analysis.md"
 ---
 ## Names and identification
@@ -63,9 +63,9 @@ Classical Ayurvedic texts under Sandhana Kalpana (fermented preparations). Refer
 
 ## What do recent clinical trials show?
 
-- **Analytical study on Pippalyasava composition** (2018): Published in JAIMS: comprehensive analysis confirmed the presence of piperine, curcuminoids, and [embelin](/nighantu/glossary/compounds-d-g/#embelin) as key active constituents responsible for therapeutic effects.
-- **Bioavailability enhancement by piperine in polyherbal formulations** (2020): Piperine significantly enhanced the bioavailability of co-administered phytochemicals by 30-200% through inhibition of hepatic and intestinal glucuronidation.
-- **Digestive and absorptive capacity enhancement by [Pippali](/nighantu/herb/pippali/)-based Asavas** (2021): Clinical observation study showed improved Dhatwagni (tissue-level metabolic fire) and enhanced nutrient absorption in patients with malabsorption syndrome.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

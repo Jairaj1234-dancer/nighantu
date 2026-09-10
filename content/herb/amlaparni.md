@@ -16,7 +16,7 @@ aliases: ["Oxalis corniculata L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 515
+words: 552
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Amlaparni/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Amlaparni/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Oxalis corniculata L. As a Source of Natural Antioxidants: Phytochemistry, Bioactivities, and Application Potential** (2025): Comprehensive review highlighting flavonoids, [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides), and organic acids as dominant metabolites with antioxidant, anti-inflammatory, antimicrobial, [neuroprotective](/nighantu/reference/neuroprotective/), hypoglycemic, and [anticancer](/nighantu/reference/anticancer/) effects.
-- **Ethnopharmacology and therapeutic potentials of Oxalis corniculata: an in-depth study** (2024): Documented broad spectrum of pharmacological activities including antioxidant, antimicrobial, anti-inflammatory, anticancer, astringent, anthelmintic, cardio-relaxant, and [diuretic](/nighantu/reference/diuretic/) properties.
-- **A Review on Phyto-pharmacology of Oxalis corniculata** (2021): Plant demonstrated significant hepatoprotective, antidiabetic, and wound healing activities in preclinical models, supporting traditional ethnomedicinal claims.
+- Zhong T, He J, Zhao H and others 2025. [Oxalis corniculata L. As a Source of Natural Antioxidants: Phytochemistry, Bioactivities, and Application Potential](https://pubmed.ncbi.nlm.nih.gov/41300509/). *Antioxidants (Basel, Switzerland)*. PMID [41300509](https://pubmed.ncbi.nlm.nih.gov/41300509/) · [doi:10.3390/antiox14111352](https://doi.org/10.3390/antiox14111352)  
+  Comprehensive review highlighting flavonoids, [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides), and organic acids as dominant metabolites with antioxidant, anti-inflammatory, antimicrobial, [neuroprotective](/nighantu/reference/neuroprotective/), hypoglycemic, and [anticancer](/nighantu/reference/anticancer/) effects.
+- Sarfraz I, Rasul A, Hussain G and others 2022. [A Review on Phyto-pharmacology of Oxalis corniculata](https://pubmed.ncbi.nlm.nih.gov/34391377/). *Combinatorial chemistry & high throughput screening*. PMID [34391377](https://pubmed.ncbi.nlm.nih.gov/34391377/) · [doi:10.2174/1386207324666210813121431](https://doi.org/10.2174/1386207324666210813121431)  
+  Plant demonstrated significant hepatoprotective, antidiabetic, and wound healing activities in preclinical models, supporting traditional ethnomedicinal claims.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

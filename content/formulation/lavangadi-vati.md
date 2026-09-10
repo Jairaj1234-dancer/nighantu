@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Vatis-Tablets"
-answer: "Lavangadi Vati is a classical Ayurvedic vati, a herbal tablet or pill. The usual dose is 1-2 tablets to dissolve in mouth. In vitro antimicrobial assay of Lavangadi Vati extract (2020): Extract demonstrated inhibitory zones against Streptococcus mutans and Staphylococcus aureus, validating potential in oral and respiratory infection management."
+answer: "Lavangadi Vati is a classical Ayurvedic vati, a herbal tablet or pill. The usual dose is 1-2 tablets to dissolve in mouth. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Lavangadi Vati", "LavangadiVati"]
 tags: ["ayurveda", "formulation", "vati", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 521
+words: 480
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Lavangadi-Vati/meta-analysis.md"
 ---
 ## Names and identification
@@ -57,9 +57,9 @@ Sharangdhara Samhita (Madhyama Khanda); also described in Bhaishajya Ratnavali (
 
 ## What do recent clinical trials show?
 
-- **[Lavangadi Vati](/nighantu/formulation/lavangadi-vati/) - An Ayurvedic Epitome for Communicable respiratory diseases** (2022): Comprehensive evaluation demonstrated [antipyretic](/nighantu/reference/antipyretic/), antiallergic, immunomodulatory, anti-inflammatory, and analgesic properties relevant to respiratory infections.
-- **In vitro antimicrobial assay of [Lavangadi Vati](/nighantu/formulation/lavangadi-vati/) extract** (2020): Extract demonstrated inhibitory zones against Streptococcus mutans and Staphylococcus aureus, validating potential in oral and respiratory infection management.
-- **Development and Evaluation of [Lavangadi Vati](/nighantu/formulation/lavangadi-vati/) in modified dosage form** (2021): Pharmaceutical development study explored optimized delivery forms maintaining the formulation's demulcent, anti-inflammatory, and expectorant properties while improving patient compliance.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

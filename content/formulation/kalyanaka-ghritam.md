@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Ghritams-Medicated-Ghee"
-answer: "Kalyanaka Ghritam is a classical Ayurvedic ghrita, a medicated ghee. The usual dose is 6-12 g twice daily on empty stomach, as per Sahasrayogam/Ashtanga Hridayam. Ghee matrix provides superior absorption of both lipophilic and hydrophilic herbal actives."
+answer: "Kalyanaka Ghritam is a classical Ayurvedic ghrita, a medicated ghee. The usual dose is 6-12 g twice daily on empty stomach, as per Sahasrayogam/Ashtanga Hridayam. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Kalyanaka Ghritam", "KalyanakaGhritam"]
 tags: ["ayurveda", "formulation", "ghritam", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 551
+words: 487
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Kalyanaka-Ghritam/meta-analysis.md"
 ---
 ## Names and identification
@@ -59,9 +59,9 @@ Ashtanga Hrudayam Uttarasthana 6/26-33 ([Mahakalyanaka Ghritam](/nighantu/glossa
 
 ## What do recent clinical trials show?
 
-- **Product development and characterization of a lipid-based Ayurvedic polyherbal formulation: Kalyanaka [Ghrita](/nighantu/herb/ghrita/)|Kalyanaka Ghrita** (2024): Organoleptic and physicochemical characters were comparable across three batches of KG; safety parameters including heavy metals were found within permissible limits
-- **An Open Label Pilot Study of Kalyanaka [Ghrita](/nighantu/herb/ghrita/)|Kalyanaka Ghrita in the Management of Obsessive Compulsive Disorder** (2019): Kalyanaka [Ghrita](/nighantu/herb/ghrita/)|Kalyanaka Ghrita therapy achieved 20.4% relief after treatment and 44.21% improvement at follow-up, providing clinically significant improvement in OCD symptoms
-- **Clinical Evaluation of [Kalyanaka Ghrita](/nighantu/formulation/kalyanaka-ghrita/) in the Management of Cognitive Deficit in Children** (2020): [Kalyanaka Ghrita](/nighantu/formulation/kalyanaka-ghrita/) is safe and effective in children with cognitive deficits, showing statistically significant improvement in cognitive function parameters
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

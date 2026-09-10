@@ -16,7 +16,7 @@ aliases: ["Trachyspermum ammi"]
 tags: ["ayurveda", "herb", "single-herb", "digestive-health", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 684
+words: 630
 srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Ajwain/meta-analysis.md"
 ---
 ## Names and identification
@@ -55,10 +55,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Ajwain/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Unlocking the food treasures: Trachyspermum ammi - A comprehensive exploration from field to pharmacology** (2024): Comprehensive review confirming ajwain's [antioxidant](/nighantu/reference/antioxidant/), anti-inflammatory, antihypertensive, anti-diabetic, and lipid-lowering activities with potential in treating chronic diseases including diabetes, cardiovascular diseases, and cancer.
-- **Emerging Traditional and Pharmacological Health Benefits of Trachyspermum ammi (Ajwain): Future Aspects** (2025): Emerging evidence suggests ajwain may have [neuroprotective](/nighantu/reference/neuroprotective/) effects, particularly in preventing neurodegenerative diseases such as Alzheimer's and Parkinson's disease. Also highlighted potential role in gut microbiota modulation.
-- **Acute and Sub-Acute Toxicity Studies and Pharmacodynamic Studies of Standardized Extract of Trachyspermum ammi** (2020): Standardized ajwain extract showed no toxicity in acute and sub-acute studies, while demonstrating significant anti-inflammatory action against chemically induced inflammation in rat models.
-- **Medicinal and Nutritional Importance of Trachyspermum ammi in Human Health** (2025): Confirmed antiseptic, stimulant, carminative, [diuretic](/nighantu/reference/diuretic/), anesthetic, antimicrobial, antiviral, nematicidal, antiulcer, antihypertensive, antitussive, bronchodilatory, antiplatelet, [hepatoprotective](/nighantu/reference/hepatoprotective/), and antihyperlipidemic effects.
+- Saraswat N, Sachan N, Chandra P 2021. [Acute and Sub-Acute Toxicity Studies and Pharmacodynamic Studies of Standardized Extract of Trachyspermum ammi (L.) Sprague (Fruits) Against Chemically Induced Inflammation in Rats](https://pubmed.ncbi.nlm.nih.gov/32957888/). *Current drug discovery technologies*. PMID [32957888](https://pubmed.ncbi.nlm.nih.gov/32957888/) · [doi:10.2174/1570163817999200918103041](https://doi.org/10.2174/1570163817999200918103041)  
+  Standardized ajwain extract showed no toxicity in acute and sub-acute studies, while demonstrating significant anti-inflammatory action against chemically induced inflammation in rat models.
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

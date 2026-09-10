@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "diabetes-metabolism", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "PubMed / NCBI (418 publications)", "AgeAyurveda Product Catalog", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: ["Sugar Formula"]
-words: 1703
+words: 1811
 srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Gudmar/meta-analysis.md"
 ---
 ## Names and identification
@@ -111,11 +111,16 @@ CONCLUSION: In patients with obesity, BBR has a better effect on body compositio
 
 ## What do recent clinical trials show?
 
-- **Systematic review and meta-analysis of Gymnema sylvestre supplementation on glycemic control in type 2 diabetes** (2021): Meta-analysis of 10 studies (419 participants) showed Gymnema sylvestre supplementation significantly reduces fasting blood glucose (FBG), postprandial blood glucose (PPBG), and glycated hemoglobin (HbA1c) compared to baseline.
-- **Efficacy of food supplement based on Gymnema sylvestre, Zea mays, Zinc and Chromium for carbohydrate metabolism** (2024): Monocentric RCT on 81 individuals with impaired fasting glucose (98-125 mg/dL) showed daily supplementation over 3 months led to highly significant reduction (p < 0.001) in FBG and HbA1c levels compared to placebo.
-- **14-day Gymnema sylvestre intervention to reduce sugar cravings in adults** (2022): Intervention with 4 mg Gymnema sylvestre containing 75% gymnemic acids plus fiber/vitamin supplement reduced sweet food intake and discretionary sugar consumption in free-living adults.
-- **Gymnema sylvestre as anti-inflammatory and anti-biofilm agent against anaerobic infections** (2025): First study to evaluate [antimicrobial](/nighantu/reference/antimicrobial/) activity of Gymnema sylvestre extract against planktonic culture and biofilms of anaerobic bacteria, expanding applications beyond traditional diabetes use.
-- **Gymnema sylvestre extract protects pancreatic beta-cells from cytokine-induced apoptosis** (2020): Novel extract demonstrated protective effects on pancreatic beta-cells against cytokine-induced programmed cell death, supporting regenerative potential for diabetes management.
+- Devangan S, Varghese B, Johny E and others 2021. [The effect of Gymnema sylvestre supplementation on glycemic control in type 2 diabetes patients: A systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/34467577/). *Phytotherapy research : PTR*. PMID [34467577](https://pubmed.ncbi.nlm.nih.gov/34467577/) · [doi:10.1002/ptr.7265](https://doi.org/10.1002/ptr.7265)  
+  Meta-analysis of 10 studies (419 participants) showed Gymnema sylvestre supplementation significantly reduces fasting blood glucose (FBG), postprandial blood glucose (PPBG), and glycated hemoglobin (HbA1c) compared to baseline.
+- Buccato DG, Ullah H, De Lellis LF and others 2024. [Efficacy and Tolerability of a Food Supplement Based on Zea mays L., Gymnema sylvestre (Retz.) R.br.ex Sm, Zinc and Chromium for the Maintenance of Normal Carbohydrate Metabolism: A Monocentric, Randomized, Double-Blind, Placebo-Controlled Clinical Trial](https://pubmed.ncbi.nlm.nih.gov/39125340/). *Nutrients*. PMID [39125340](https://pubmed.ncbi.nlm.nih.gov/39125340/) · [doi:10.3390/nu16152459](https://doi.org/10.3390/nu16152459)  
+  Monocentric RCT on 81 individuals with impaired fasting glucose (98-125 mg/dL) showed daily supplementation over 3 months led to highly significant reduction (p < 0.001) in FBG and HbA1c levels compared to placebo.
+- Turner S, Diako C, Kruger R and others 2022. [The Effect of a 14-Day gymnema sylvestre Intervention to Reduce Sugar Cravings in Adults](https://pubmed.ncbi.nlm.nih.gov/36558446/). *Nutrients*. PMID [36558446](https://pubmed.ncbi.nlm.nih.gov/36558446/) · [doi:10.3390/nu14245287](https://doi.org/10.3390/nu14245287)  
+  Intervention with 4 mg Gymnema sylvestre containing 75% gymnemic acids plus fiber/vitamin supplement reduced sweet food intake and discretionary sugar consumption in free-living adults.
+- Miranda DG, Tomé FM, Miguel MMV and others 2025. [Gymnema sylvestre as a Potential Anti-Inflammatory and Anti-Biofilm Agent Against Anaerobic Infections: An In Vitro Study](https://pubmed.ncbi.nlm.nih.gov/40006756/). *Plants (Basel, Switzerland)*. PMID [40006756](https://pubmed.ncbi.nlm.nih.gov/40006756/) · [doi:10.3390/plants14040497](https://doi.org/10.3390/plants14040497)  
+  First study to evaluate [antimicrobial](/nighantu/reference/antimicrobial/) activity of Gymnema sylvestre extract against planktonic culture and biofilms of anaerobic bacteria, expanding applications beyond traditional diabetes use.
+- Al-Romaiyan A, Liu B, Persaud S and others 2020. [A novel Gymnema sylvestre extract protects pancreatic beta-cells from cytokine-induced apoptosis](https://pubmed.ncbi.nlm.nih.gov/31515869/). *Phytotherapy research : PTR*. PMID [31515869](https://pubmed.ncbi.nlm.nih.gov/31515869/) · [doi:10.1002/ptr.6512](https://doi.org/10.1002/ptr.6512)  
+  Novel extract demonstrated protective effects on pancreatic beta-cells against cytokine-induced programmed cell death, supporting regenerative potential for diabetes management.
 
 ## Recent safety updates
 

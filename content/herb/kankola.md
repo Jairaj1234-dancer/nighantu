@@ -16,7 +16,7 @@ aliases: ["Piper cubeba L.f."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 539
+words: 521
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kankola/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kankola/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Unveiling the Potential of Piper cubeba L.f.: A Comprehensive Review Covering Phytochemistry, Pharmacology, and Cutting-edge Applications** (2024): Comprehensive review documenting lignans as the main active constituents with cubebin as the most abundant; validated antioxidant, antibacterial, anti-inflammatory, and [anticancer](/nighantu/reference/anticancer/) effects.
-- **Cubeb (Piper cubeba L.): nutritional value, phytochemical profiling and dermacosmeceutical properties** (2024): Identified novel dermacosmeceutical applications of cubeb extracts with documented antioxidant, anti-aging, and skin-protective properties alongside nutritional value.
-- **Extraction and Phytochemical Screening of Kankola (Piper cubeba) for in-vitro Antidiabetic Potential** (2024): Demonstrated significant in vitro antidiabetic potential through alpha-amylase and alpha-glucosidase inhibition assays.
+- Drissi BE, Mahdi I, Ortaakarsu AB and others 2024. [Cubeb (Piper cubeba L.): nutritional value, phytochemical profiling and dermacosmeceutical properties](https://pubmed.ncbi.nlm.nih.gov/38835963/). *Frontiers in nutrition*. PMID [38835963](https://pubmed.ncbi.nlm.nih.gov/38835963/) · [doi:10.3389/fnut.2024.1352548](https://doi.org/10.3389/fnut.2024.1352548)  
+  Identified novel dermacosmeceutical applications of cubeb extracts with documented antioxidant, anti-aging, and skin-protective properties alongside nutritional value.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

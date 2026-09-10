@@ -16,7 +16,7 @@ aliases: ["Kaishore Guggul", "KaishoreGuggul"]
 tags: ["ayurveda", "formulation", "guggulu", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 629
+words: 562
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Kaishore-Guggul/meta-analysis.md"
 ---
 ## Names and identification
@@ -58,9 +58,9 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 
 ## What do recent clinical trials show?
 
-- **A Combined Efficacy of Kaishore [Guggulu](/nighantu/formulation/guggulu/) and Punarnavadi [Guggulu](/nighantu/formulation/guggulu/)|Punarnavadi Guggulu in the Management of Vatarakta (Gout): A Case Series** (2024): Case study of 66-year-old male with persistent bilateral knee discomfort and severe gout treated with Kaishora [Guggulu](/nighantu/formulation/guggulu/) showed significant clinical improvement over 25-day treatment period.
-- **An Ayurvedic polyherbal formulation Kaishore [Guggulu](/nighantu/formulation/guggulu/): Phenolic compound analysis and anti-oxidant activity** (2015): Phenolic and flavonoid content analysis with DPPH radical scavenging and FRAP antioxidant power assays confirmed strong antioxidant activity of the formulation.
-- **Open-label interventional prospective study on Kaishore [Guggulu](/nighantu/formulation/guggulu/) in Vatarakta** (2018): 35 patients enrolled (32 completed); 42-day treatment showed significant reduction in uric acid levels, pain scores, and inflammatory markers in gout patients.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

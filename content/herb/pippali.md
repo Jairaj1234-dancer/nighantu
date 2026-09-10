@@ -16,7 +16,7 @@ aliases: ["Pippali", "Piper longum", "Long Pepper", "Magadhi"]
 tags: ["ayurveda", "herb", "single-herb", "digestive-health", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "AgeAyurveda Product Catalog", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu, Ashtanga Hridaya)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: ["Chyawanprash Avaleha"]
-words: 995
+words: 1042
 srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Pippali/meta-analysis.md"
 ---
 ## Names and identification
@@ -81,12 +81,16 @@ Component of [Trikatu](/nighantu/herb/trikatu/). Unique in Ayurveda for Rasayana
 
 ## What do recent clinical trials show?
 
-- **Safety and efficacy of Piper longum L. for acute respiratory infections: A systematic review** (2025): Systematic review registered in PROSPERO (2024) evaluating safety and efficacy of Piper longum for acute respiratory infections, reflecting growing clinical interest in respiratory applications.
-- **Randomized clinical trial on efficacy of Pippali in vardhamana and fixed dosage pattern in primary hypothyroidism** (2022): Published in J Ayurveda Integr Med, this RCT evaluated Pippali in graduated (vardhamana) versus fixed dosage patterns for primary hypothyroidism management.
-- **Randomized, double-blind, dose-ranging, pilot trial of piperine with [resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol) on serum levels** (2021): Published in Eur J Cancer Prev, demonstrated piperine's bioavailability-enhancing effects on [resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol) serum levels in a dose-ranging clinical trial.
-- **Piper longum L.: A comprehensive review on traditional uses, phytochemistry, pharmacology, and health-promoting activities** (2022): Comprehensive review cataloguing [analgesic](/nighantu/reference/analgesic/), carminative, anti-diarrhoeic, immunostimulant properties and applications in asthma, insomnia, dementia, epilepsy, diabetes, and rheumatoid arthritis.
-- **Predicting Food-Drug Interactions between Piperine and CYP3A4 Substrate Drugs Using PBPK Modeling** (2024): PBPK modeling study quantifying piperine's food-drug interactions with CYP3A4 substrates, providing predictive framework for clinical interaction assessment.
-- **Piperlongumine as allosteric antagonist of TRPV2 impairs glioblastoma progression** (2021): Piperlongumine binds to a transient allosteric pocket on hTRPV2, demonstrating a new mode of [anticancer](/nighantu/reference/anticancer/) activity against glioblastoma where TRPV2 is overexpressed.
+- Shah SB, Guttal GK, Chikkanna U and others 2022. [Efficacy of Pippali in vardhamana and fixed dosage pattern in primary hypothyroidism - A randomized clinical trial](https://pubmed.ncbi.nlm.nih.gov/35661936/). *Journal of Ayurveda and integrative medicine*. PMID [35661936](https://pubmed.ncbi.nlm.nih.gov/35661936/) · [doi:10.1016/j.jaim.2022.100555](https://doi.org/10.1016/j.jaim.2022.100555)  
+  Published in J Ayurveda Integr Med, this RCT evaluated Pippali in graduated (vardhamana) versus fixed dosage patterns for primary hypothyroidism management.
+- Bailey HH, Johnson JJ, Lozar T and others 2021. [A randomized, double-blind, dose-ranging, pilot trial of piperine with resveratrol on the effects on serum levels of resveratrol](https://pubmed.ncbi.nlm.nih.gov/32868637/). *European journal of cancer prevention : the official journal of the European Cancer Prevention Organisation (ECP)*. PMID [32868637](https://pubmed.ncbi.nlm.nih.gov/32868637/) · [doi:10.1097/CEJ.0000000000000621](https://doi.org/10.1097/CEJ.0000000000000621)  
+  Published in Eur J Cancer Prev, demonstrated piperine's bioavailability-enhancing effects on [resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol) serum levels in a dose-ranging clinical trial.
+- Biswas P, Ghorai M, Mishra T and others 2022. [Piper longum L.: A comprehensive review on traditional uses, phytochemistry, pharmacology, and health-promoting activities](https://pubmed.ncbi.nlm.nih.gov/36256521/). *Phytotherapy research : PTR*. PMID [36256521](https://pubmed.ncbi.nlm.nih.gov/36256521/) · [doi:10.1002/ptr.7649](https://doi.org/10.1002/ptr.7649)  
+  Comprehensive review cataloguing [analgesic](/nighantu/reference/analgesic/), carminative, anti-diarrhoeic, immunostimulant properties and applications in asthma, insomnia, dementia, epilepsy, diabetes, and rheumatoid arthritis.
+- Conde J, Pumroy RA, Baker C and others 2021. [Allosteric Antagonist Modulation of TRPV2 by Piperlongumine Impairs Glioblastoma Progression](https://pubmed.ncbi.nlm.nih.gov/34079902/). *ACS central science*. PMID [34079902](https://pubmed.ncbi.nlm.nih.gov/34079902/) · [doi:10.1021/acscentsci.1c00070](https://doi.org/10.1021/acscentsci.1c00070)  
+  Piperlongumine binds to a transient allosteric pocket on hTRPV2, demonstrating a new mode of [anticancer](/nighantu/reference/anticancer/) activity against glioblastoma where TRPV2 is overexpressed.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

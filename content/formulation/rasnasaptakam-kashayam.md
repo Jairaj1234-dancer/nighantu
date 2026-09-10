@@ -16,7 +16,7 @@ aliases: ["Rasnasaptakam Kashayam", "RasnasaptakamKashayam"]
 tags: ["ayurveda", "formulation", "kashayam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 442
+words: 407
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Rasnasaptakam-Kashayam/meta-analysis.md"
 ---
 ## Names and identification
@@ -55,9 +55,9 @@ Earliest reference in Ashtanga Hridaya commentaries. Hints of formula in Vangase
 
 ## What do recent clinical trials show?
 
-- **Preliminary Analytical Study of [Rasnasaptakam Kashayam](/nighantu/formulation/rasnasaptakam-kashayam/)** (2018): Physicochemical and phytochemical analysis confirmed the presence of anti-inflammatory and analgesic compounds in the standardized decoction.
-- **Double-blind trial of [Rasnasaptakam Kashayam](/nighantu/formulation/rasnasaptakam-kashayam/) in chronic low back pain** (2021): Amrita Institute trial showed 35% greater improvement in pain scores in the decoction-plus-physiotherapy group versus physiotherapy alone over 8 weeks.
-- **Anti-arthritic potential of [Rasna](/nighantu/herb/rasna/)-based formulations** (2020): [Rasna](/nighantu/herb/rasna/) extracts showed significant inhibition of cartilage degradation markers and reduced joint swelling in adjuvant-induced arthritis models.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: ["Ferula asafoetida"]
 tags: ["ayurveda", "herb", "single-herb", "digestive-health", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 732
+words: 796
 srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Hingu/meta-analysis.md"
 ---
 ## Names and identification
@@ -54,10 +54,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Hingu/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Safety and Efficacy of Ferula asafoetida in Functional Dyspepsia: A Randomized, Double-Blinded, Placebo-Controlled Study** (2021): In 43 subjects with functional dyspepsia, 81% of the asafoetida group showed significant improvement in overall symptom scores and quality of life compared to placebo over a 30-day period.
-- **A Review of the Protective Effects of Ferula asafoetida on the Liver, Kidney, and Testes Against Formaldehyde-Induced Damage** (2025): Demonstrated [hepatoprotective](/nighantu/reference/hepatoprotective/), nephroprotective, and reproductive-protective effects of asafoetida extract against formaldehyde-induced oxidative damage in animal models.
-- **Molecular mechanism of Ferula asafoetida for the treatment of asthma: Network pharmacology and molecular docking approach** (2023): Network pharmacology analysis identified key molecular targets and signaling pathways through which asafoetida components exert anti-asthmatic effects, validating traditional use for respiratory conditions.
-- **Ferula asafoetida: chemical composition, thermal behavior, antioxidant and antimicrobial activities of leaf and gum hydroalcoholic extracts** (2021): Characterized chemical composition and confirmed significant antioxidant capacity and broad-spectrum antimicrobial activity of both leaf and gum resin extracts.
+- Mala KN, Thomas J, Syam DS and others 2018. [Safety and Efficacy of Ferula asafoetida in Functional Dyspepsia: A Randomized, Double-Blinded, Placebo-Controlled Study](https://pubmed.ncbi.nlm.nih.gov/30224930/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [30224930](https://pubmed.ncbi.nlm.nih.gov/30224930/) · [doi:10.1155/2018/4813601](https://doi.org/10.1155/2018/4813601)  
+  In 43 subjects with functional dyspepsia, 81% of the asafoetida group showed significant improvement in overall symptom scores and quality of life compared to placebo over a 30-day period.
+- Thulluri SP, Selvaraj K, Yerraguntla DP and others 2025. [A Review of the Protective Effects of Ferula asafoetida on the Liver, Kidney, and Testes Against Formaldehyde-Induced Damage](https://pubmed.ncbi.nlm.nih.gov/40144445/). *Cureus*. PMID [40144445](https://pubmed.ncbi.nlm.nih.gov/40144445/) · [doi:10.7759/cureus.79545](https://doi.org/10.7759/cureus.79545)  
+  Demonstrated [hepatoprotective](/nighantu/reference/hepatoprotective/), nephroprotective, and reproductive-protective effects of asafoetida extract against formaldehyde-induced oxidative damage in animal models.
+- Qasim M, Abdullah M, Ali Ashfaq U and others 2023. [Molecular mechanism of Ferula asafoetida for the treatment of asthma: Network pharmacology and molecular docking approach](https://pubmed.ncbi.nlm.nih.gov/36568408/). *Saudi journal of biological sciences*. PMID [36568408](https://pubmed.ncbi.nlm.nih.gov/36568408/) · [doi:10.1016/j.sjbs.2022.103527](https://doi.org/10.1016/j.sjbs.2022.103527)  
+  Network pharmacology analysis identified key molecular targets and signaling pathways through which asafoetida components exert anti-asthmatic effects, validating traditional use for respiratory conditions.
+- Niazmand R, Razavizadeh BM 2021. [Ferula asafoetida: chemical composition, thermal behavior, antioxidant and antimicrobial activities of leaf and gum hydroalcoholic extracts](https://pubmed.ncbi.nlm.nih.gov/33967312/). *Journal of food science and technology*. PMID [33967312](https://pubmed.ncbi.nlm.nih.gov/33967312/) · [doi:10.1007/s13197-020-04724-8](https://doi.org/10.1007/s13197-020-04724-8)  
+  Characterized chemical composition and confirmed significant antioxidant capacity and broad-spectrum antimicrobial activity of both leaf and gum resin extracts.
 
 ## Recent safety updates
 

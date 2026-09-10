@@ -16,7 +16,7 @@ aliases: ["Dhanwantaram Thailam", "DhanwantaramThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 641
+words: 626
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Dhanwantaram-Thailam/meta-analysis.md"
 ---
 ## Names and identification
@@ -57,9 +57,10 @@ Ashtanga Hridayam (Sutrasthana); also referenced in Sahasrayogam (Taila Prakaran
 
 ## What do recent clinical trials show?
 
-- **GC-MS Study of the Ayurvedic Formulation Dhanwantharam Thailam Used for Rheumatism** (2024): GC-MS profiling revealed crucial bioactive molecules including oleic acid, dodecanoic acid 1,2,3-propanetriyl ester, ethenyl ester, and 9,12-octadecadienoyl chloride (Z,Z), correlating with its documented anti-rheumatic and analgesic properties.
-- **Clinical evaluation of [Dhanwantaram Thailam](/nighantu/formulation/dhanwantaram-thailam/) in postpartum care** (2019): Postpartum women receiving [Dhanwantaram Thailam](/nighantu/formulation/dhanwantaram-thailam/) abhyanga showed significant improvement in muscle tone recovery, reduced low back pain, and faster uterine involution compared to control group over 40 days.
-- **Pharmacological evaluation of [Dhanwantaram Thailam](/nighantu/formulation/dhanwantaram-thailam/) in neuromuscular disorders** (2020): In a pilot study with 30 patients with neuromuscular weakness, daily application showed 55% improvement in grip strength and 40% reduction in pain scores over 21 days of panchakarma therapy.
+- Brindha TR, Prabhu K, Jones S and others 2024. [The GC-MS Study of the Ayurvedic Formulation "Dhanwantharam Thailam" Used for Rheumatism](https://pubmed.ncbi.nlm.nih.gov/38882853/). *Journal of pharmacy & bioallied sciences*. PMID [38882853](https://pubmed.ncbi.nlm.nih.gov/38882853/) · [doi:10.4103/jpbs.jpbs_14_24](https://doi.org/10.4103/jpbs.jpbs_14_24)  
+  GC-MS profiling revealed crucial bioactive molecules including oleic acid, dodecanoic acid 1,2,3-propanetriyl ester, ethenyl ester, and 9,12-octadecadienoyl chloride (Z,Z), correlating with its documented anti-rheumatic and analgesic properties.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

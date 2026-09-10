@@ -61,9 +61,10 @@ Ashtanga Hridayam (Varunadi Gana by Vagbhata Acharya); Bhaishajya Ratnavali (Utt
 
 ## What do recent clinical trials show?
 
-- **Efficacy of Varunadi Ghritha (polyherbal compound) in treated head and neck cancer cases as a biological response modifier** (2014): Varanadi [Ghrita](/nighantu/herb/ghrita/) demonstrated biological response modifier activity in treated head and neck cancer patients, supporting immune function post-treatment
-- **Management of Medoja Granthi (pedunculated lipoma) by Ayurvedic approach** (2024): Case report documents successful management of pedunculated lipoma using Ayurvedic approach including [Varanadi Ghritam](/nighantu/formulation/varanadi-ghritam/) as part of treatment protocol
-- **[Varanadi Ghritam](/nighantu/formulation/varanadi-ghritam/) pharmacological evaluation for channel-clearing and Kapha-reducing activity** (2020): Individual ingredients validated for Srotoshodhana (channel-clearing) and Medohara (fat-reducing) activities supporting traditional use in growths and cysts
+- Ravindran D, Hariharan I, Muwonge R and others 2014. [Efficacy of Varunadi Ghritha (polyherbal compound) in treated head and neck cancer cases as a biological response modifier](https://pubmed.ncbi.nlm.nih.gov/25558162/). *Ayu*. PMID [25558162](https://pubmed.ncbi.nlm.nih.gov/25558162/) · [doi:10.4103/0974-8520.146236](https://doi.org/10.4103/0974-8520.146236)  
+  Varanadi [Ghrita](/nighantu/herb/ghrita/) demonstrated biological response modifier activity in treated head and neck cancer patients, supporting immune function post-treatment
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

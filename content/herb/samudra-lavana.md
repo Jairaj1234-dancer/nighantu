@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Salts-Minerals-Metals"
 group: "Samudra-Lavana"
-answer: "Samudra Lavana is a substance used in the Ayurvedic materia medica. Usual dose: as dietary salt; medicinal: 1–3 g. Mineral Content and Therapeutic Applications of Natural Sea Salts (2023): Sea salt retains more trace minerals than refined table salt; magnesium and potassium content may offer modest cardiovascular benefits, though sodium content still poses hypertension risk at excessive intake."
+answer: "Samudra Lavana is a substance used in the Ayurvedic materia medica. Usual dose: as dietary salt; medicinal: 1–3 g. An absence here means we could not identify the source, not that no work exists."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Samudra Lavana", "SamudraLavana"]
 tags: ["ayurveda", "mineral", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 464
+words: 382
 srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Samudra-Lavana/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,9 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Samudra-Lavana/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Salt in Ayurveda I - Comparative Study of Ayurvedic Salts** (2012): Systematic analysis confirmed [Samudra Lavana](/nighantu/herb/samudra-lavana/)'s distinct properties among Pancha Lavana: it is purgative, slightly demulcent, and helps alleviate colic while being lighter than Saindhava for certain applications.
-- **Mineral Content and Therapeutic Applications of Natural Sea Salts** (2023): Sea salt retains more trace minerals than refined table salt; magnesium and potassium content may offer modest cardiovascular benefits, though sodium content still poses hypertension risk at excessive intake.
-- **Comparative Mineral Analysis of Traditional Ayurvedic Salts** (2024): Analytical comparison showed [Samudra Lavana](/nighantu/herb/samudra-lavana/) contains higher magnesium and lower purity NaCl than refined salt; mineral profile varies significantly by geographic source and processing method.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

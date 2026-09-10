@@ -16,7 +16,7 @@ aliases: ["Gloriosa superba L. (Agnikumarika/Agnimukhi); also associated with Li
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 574
+words: 557
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agnikarna/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agnikarna/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **An overview on the phytopharmacological insights into Gloriosa superba L.: a promising endangered plant species** (2024): Comprehensive review documenting diverse medicinal properties of the endangered species including antimicrobial, larvicidal, antithrombotic, antitumor, analgesic, and anti-inflammatory activities from its alkaloid-rich profile.
-- **Screening the elite chemotypes of Gloriosa superba L. in India for [anticancer](/nighantu/reference/anticancer/) colchicine production** (2023): Identified elite chemotypes across India with highest colchicine content through HPTLC analysis, establishing parameters for sustainable medicinal sourcing of this endangered species.
-- **[Antioxidant](/nighantu/reference/antioxidant/) Activity and Anticancer Study on Phytochemicals from Tubers of Gloriosa superba against Hep-G2 cells** (2023): Demonstrated significant antioxidant and anticancer activity of tuber extracts against human hepatocellular carcinoma (Hep-G2) cell lines.
+- Pandey DK, Kaur P, Kumar V and others 2021. [Screening the elite chemotypes of Gloriosa superba L. in India for the production of anticancer colchicine: simultaneous microwave-assisted extraction and HPTLC studies](https://pubmed.ncbi.nlm.nih.gov/33546591/). *BMC plant biology*. PMID [33546591](https://pubmed.ncbi.nlm.nih.gov/33546591/) · [doi:10.1186/s12870-021-02843-8](https://doi.org/10.1186/s12870-021-02843-8)  
+  Identified elite chemotypes across India with highest colchicine content through HPTLC analysis, establishing parameters for sustainable medicinal sourcing of this endangered species.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

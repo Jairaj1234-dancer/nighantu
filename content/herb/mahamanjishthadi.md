@@ -16,7 +16,7 @@ aliases: ["Polyherbal formulation: Rubia cordifolia L. (Manjistha) as principal 
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 705
+words: 636
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mahamanjishthadi/meta-analysis.md"
 ---
 ## Names and identification
@@ -52,9 +52,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mahamanjishthadi/meta-analysi
 
 ## What do recent clinical trials show?
 
-- **Ayurvedic herbal formulations [Haridra](/nighantu/herb/haridra/) Khanda and [Manjisthadi Kwath](/nighantu/glossary/concepts-a-m/#manjisthadi-kwath) (brihat) in the management of allergic rhinitis: A pharmacological study** (2024): In vivo pharmacological study validated anti-allergic effects using histamine challenge models in guinea pigs, with Manjishthadi Kwath showing 19.71% inhibition of histamine-induced bronchoconstriction.
-- **Therapeutic Review of Mahamanjishthadi Kwatha in Skin Disorders** (2025): Comprehensive therapeutic review documenting the formulation's efficacy across various skin conditions through blood-purifying, anti-inflammatory, and immunomodulatory mechanisms.
-- **Physicochemical characterization and antimicrobial properties of Mahamanjishthadi kadha: An Ayurvedic formulation** (2023): Established physicochemical characterization parameters and confirmed significant antimicrobial activity against skin pathogens, providing quality control standards.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

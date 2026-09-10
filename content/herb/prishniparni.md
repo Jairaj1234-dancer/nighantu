@@ -16,7 +16,7 @@ aliases: ["Uraria picta (Jacq.) DC."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 550
+words: 473
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Prishniparni/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Prishniparni/meta-analysis.md
 
 ## What do recent clinical trials show?
 
-- **A Comprehensive Review of Prishniparni (Uraria picta Desv. Ex DC.) in Brihatrayee and various Nighantus** (2025): Provided a systematic compilation of all references to Prishniparni across classical Ayurvedic texts (Brihatrayee) and Nighantu literature, documenting its multifaceted traditional applications.
-- **[Anticancer](/nighantu/reference/anticancer/) studies on methanolic extract of aerial parts of Uraria Picta (Jacq.) DC** (2021): Demonstrated significant anticancer activity of methanolic extract against various cancer cell lines, supporting its traditional use as an anti-tumor agent.
-- **Antioxidant and Chemopreventive Potential of Uraria picta Root Extracts against DMBA/croton Oil Induced Skin Carcinogenesis in Mice** (2022): Root extracts showed significant chemopreventive potential against chemically induced skin cancer in mouse models through antioxidant mechanisms.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Guggulus-Resin-Based"
-answer: "Vyoshadi Guggulu is a classical Ayurvedic guggulu, a resin-based preparation. The usual dose is 2 tablets twice daily. Clinical Efficacy and Safety of Vyoshadi Guggulu and Haritaki Churna in the Management of Obesity: A Prospective Open-label Multicenter Study (2017): Prospective multicenter study confirmed safety and efficacy for obesity management with no adverse events reported during treatment period."
+answer: "Vyoshadi Guggulu is a classical Ayurvedic guggulu, a resin-based preparation. The usual dose is 2 tablets twice daily. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Vyoshadi Guggulu", "VyoshadiGuggulu"]
 tags: ["ayurveda", "formulation", "guggulu", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 579
+words: 501
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Vyoshadi-Guggulu/meta-analysis.md"
 ---
 ## Names and identification
@@ -55,9 +55,9 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 
 ## What do recent clinical trials show?
 
-- **Efficacy of Vyoshadi [Guggulu](/nighantu/formulation/guggulu/)|Vyoshadi Guggulu and Shadushana Churna in the management of subclinical hypothyroidism: An open-labelled randomized comparative pilot clinical trial** (2020): 30 patients randomized; Vyoshadi [Guggulu](/nighantu/formulation/guggulu/)|Vyoshadi Guggulu (6g/day for 60 days) showed 16.61% decrease in serum TSH and 1.80% decrease in BMI; no adverse effects observed; LFT and RFT within normal limits throughout.
-- **Clinical Efficacy and Safety of [Vyoshadi Guggulu](/nighantu/formulation/vyoshadi-guggulu/) and [Haritaki](/nighantu/herb/haritaki/) Churna in the Management of Obesity: A Prospective Open-label Multicenter Study** (2017): Prospective multicenter study confirmed safety and efficacy for obesity management with no adverse events reported during treatment period.
-- **Clinical evaluation of [Vyoshadi Guggulu](/nighantu/formulation/vyoshadi-guggulu/) for cough and respiratory congestion** (2018): Journal of Ayurveda and Integrative Medicine study showed 30% improvement in cough frequency with the formulation.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

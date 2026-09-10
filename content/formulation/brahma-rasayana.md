@@ -16,7 +16,7 @@ aliases: ["Brahma Rasayana", "BrahmaRasayana"]
 tags: ["ayurveda", "formulation", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 646
+words: 637
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Rasayanas-Rejuvenatives/Brahma-Rasayana/meta-analysis.md"
 ---
 ## Names and identification
@@ -70,9 +70,10 @@ Charaka Samhita Chikitsa Sthana ([Rasayana](/nighantu/reference/rasayana/) Adhya
 
 ## What do recent clinical trials show?
 
-- **[Brahmi](/nighantu/herb/brahmi/) Rasayana Improves Learning and Memory in Mice** (2005): [Brahma Rasayana](/nighantu/formulation/brahma-rasayana/) improved learning and memory in mice models, proving useful as a memory restorative agent potentially applicable in dementia treatment
-- **Randomized trial of [Brahma Rasayana](/nighantu/formulation/brahma-rasayana/) churna on word recall and cognitive function** (2018): Subjects taking 5g twice daily showed 25% improvement in word recall tests over eight weeks versus placebo in Journal of Ayurveda and Integrative Medicine
-- **Randomized trial of Brahmarasayanam on memory scales (MMSE)** (2021): Banaras Hindu University study showed participants taking standardized Brahmarasayanam achieved 30% better performance on memory scales (MMSE) over 16 weeks versus placebo
+- Joshi H, Parle M 2006. [Brahmi rasayana improves learning and memory in mice](https://pubmed.ncbi.nlm.nih.gov/16550227/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [16550227](https://pubmed.ncbi.nlm.nih.gov/16550227/) · [doi:10.1093/ecam/nek014](https://doi.org/10.1093/ecam/nek014)  
+  [Brahma Rasayana](/nighantu/formulation/brahma-rasayana/) improved learning and memory in mice models, proving useful as a memory restorative agent potentially applicable in dementia treatment
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

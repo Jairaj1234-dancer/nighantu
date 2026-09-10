@@ -16,7 +16,7 @@ aliases: ["Sida rhombifolia L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 622
+words: 676
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mahabala/meta-analysis.md"
 ---
 ## Names and identification
@@ -52,9 +52,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mahabala/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Sida L.: Ethnobotany, Pharmacology, and Phytochemistry: A Review** (2025): Comprehensive genus-level review identifying approximately 142 chemical constituents across Sida species, with alkaloids, flavonoids, and ecdysteroids as predominant bioactive groups.
-- **Sida Rhombifolia linn: an empirical analysis on phytochemicals and an in vitro outcome on anti-inflammatory and [antioxidant](/nighantu/reference/antioxidant/) perspective** (2025): Fresh 2024-collected plant samples demonstrated significant anti-inflammatory and antioxidant activities in vitro, with detailed phytochemical fingerprinting.
-- **Preclinical safety assessment of the crude extract from Sida rhombifolia L. aerial parts in experimental models of acute and repeated-dose 28 days toxicity in rats** (2021): 28-day repeated dose toxicity study established safety parameters for aerial part crude extract in rat models, providing preclinical safety benchmarks.
+- Jiménez-Ferrer E, Herrera-Ruiz M, Campos-Vidal Y and others 2025. [Sida L.: Ethnobotany, Pharmacology, and Phytochemistry: A Review](https://pubmed.ncbi.nlm.nih.gov/41095255/). *Plants (Basel, Switzerland)*. PMID [41095255](https://pubmed.ncbi.nlm.nih.gov/41095255/) · [doi:10.3390/plants14193115](https://doi.org/10.3390/plants14193115)  
+  Comprehensive genus-level review identifying approximately 142 chemical constituents across Sida species, with alkaloids, flavonoids, and ecdysteroids as predominant bioactive groups.
+- Aniyan KY, Ganesan A, Krithika CL and others 2025. [Sida Rhombifolia linn: an empirical analysis on phytochemicals and an in vitro outcome on anti-inflammatory and antioxidant perspective](https://pubmed.ncbi.nlm.nih.gov/41315559/). *Scientific reports*. PMID [41315559](https://pubmed.ncbi.nlm.nih.gov/41315559/) · [doi:10.1038/s41598-025-26447-6](https://doi.org/10.1038/s41598-025-26447-6)  
+  Fresh 2024-collected plant samples demonstrated significant anti-inflammatory and antioxidant activities in vitro, with detailed phytochemical fingerprinting.
+- Cristina da Costa Araldi I, Piber de Souza T, de Souza Vencato M and others 2021. [Preclinical safety assessment of the crude extract from Sida rhombifolia L. aerial parts in experimental models of acute and repeated-dose 28 days toxicity in rats](https://pubmed.ncbi.nlm.nih.gov/34139276/). *Regulatory toxicology and pharmacology : RTP*. PMID [34139276](https://pubmed.ncbi.nlm.nih.gov/34139276/) · [doi:10.1016/j.yrtph.2021.104974](https://doi.org/10.1016/j.yrtph.2021.104974)  
+  28-day repeated dose toxicity study established safety parameters for aerial part crude extract in rat models, providing preclinical safety benchmarks.
 
 ## Recent safety updates
 

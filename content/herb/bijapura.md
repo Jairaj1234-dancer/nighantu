@@ -16,7 +16,7 @@ aliases: ["Citrus medica L."]
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 599
+words: 586
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Bijapura/meta-analysis.md"
 ---
 ## Names and identification
@@ -57,9 +57,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Bijapura/meta-analysis.m
 
 ## What do recent clinical trials show?
 
-- **A Review on Phytochemical and Pharmacological Properties of Citrus medica Linn** (2023): Confirmed [analgesic](/nighantu/reference/analgesic/), [anticancer](/nighantu/reference/anticancer/), antiulcer, antidiabetic, hypoglycemic, hypocholesterolemic and antimicrobial activities across different plant parts; peel essential oil showed strongest antimicrobial potency.
-- **Citrus medica: Nutritional, phytochemical composition and health benefits - a review** (2024): Documented anti-catarrhal, capillary protector, [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive), [diuretic](/nighantu/reference/diuretic/), cardioprotective, strong antioxidant and anticancer activities attributed to [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols), [flavonoids](/nighantu/reference/flavonoids/) and terpenes.
-- **Citrus Medica L. (Citron) - phytochemical and pharmacological review** (2023): Peel extracts showed significant anticholinesterase activity suggesting [neuroprotective](/nighantu/reference/neuroprotective/) potential, while seed extracts demonstrated estrogenic activity in preclinical models.
+- Chhikara N , Kour R , Jaglan S  and others 2018. [Citrus medica: nutritional, phytochemical composition and health benefits - a review](https://pubmed.ncbi.nlm.nih.gov/29594287/). *Food & function*. PMID [29594287](https://pubmed.ncbi.nlm.nih.gov/29594287/) · [doi:10.1039/c7fo02035j](https://doi.org/10.1039/c7fo02035j)  
+  Documented anti-catarrhal, capillary protector, [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive), [diuretic](/nighantu/reference/diuretic/), cardioprotective, strong antioxidant and anticancer activities attributed to [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols), [flavonoids](/nighantu/reference/flavonoids/) and terpenes.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

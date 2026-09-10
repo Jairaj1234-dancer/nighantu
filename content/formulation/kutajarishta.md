@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 587
+words: 511
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Kutajarishta/meta-analysis.md"
 ---
 ## Names and identification
@@ -55,10 +55,9 @@ Charaka Samhita (Chikitsa Sthana) - Kutaja referenced for Pravahika (dysentery w
 
 ## What do recent clinical trials show?
 
-- **Clinical trial of Kutajarishta efficacy against Entamoeba histolytica** (2020): Documented efficacy against E. histolytica, reducing stool frequency by up to 60% within 5 days in patients with amoebic dysentery.
-- **Randomized controlled trial of Kutajarishta versus loperamide** (2022): Similar stool consistency normalization compared to loperamide but with faster digestive comfort improvement in the Kutajarishta group, suggesting superior tolerability.
-- **Antidiarrhoeal mechanisms of Kutajarishta: antimotility and antisecretory effects** (2021): Antidiarrheal effect acts through potassium channels and nitric oxide pathway, not through alpha-2 adrenergic receptors. Produces combined antisecretory and antimotility effects.
-- **Pharmacological evaluation of Kutajarishta action on intestinal motility** (2020): Experimental study confirmed dose-dependent reduction in intestinal motility. Conessine, the major steroidal alkaloid from Kutaja bark, inhibits bacterial adenylate cyclase, reducing secretory diarrhea.
+
+
+*4 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

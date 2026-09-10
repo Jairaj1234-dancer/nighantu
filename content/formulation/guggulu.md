@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "guggulu", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu, Ashtanga Hridaya)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 797
+words: 823
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Guggulu/meta-analysis.md"
 ---
 ## Names and identification
@@ -79,11 +79,14 @@ Sushruta Samhita has an entire chapter (Guggulu Kalpa) dedicated to it. Describe
 
 ## What do recent clinical trials show?
 
-- **Phytopharmacology of Commiphora wightii (Guggulu): A Mini Review** (2025): Comprehensive review confirming anti-inflammatory, [antioxidant](/nighantu/reference/antioxidant/), platelet-regulating, thyroid-stimulating, anti-cancer, anti-diabetic, hypolipidemic, [neuroprotective](/nighantu/reference/neuroprotective/), [cardioprotective](/nighantu/reference/cardioprotective/), [wound-healing](/nighantu/reference/wound-healing/), and [antimicrobial](/nighantu/reference/antimicrobial/) properties of guggulu.
-- **Guggulsterone as a Modulator of Lipid Signaling and Metabolic Reprogramming in Cancer** (2025): Guggulsterone identified as a classical lipid-lowering phytosteroidal FXR antagonist that modulates lipid signaling and metabolic reprogramming relevant to cancer treatment.
-- **The role of guggulsterone on the NF-kB pathway in inflammatory bowel disease: preclinical evidence** (2022): Guggulsterone significantly inhibits NF-kB signaling and attenuates expression of proinflammatory cytokines, showing therapeutic potential for IBD, Graves' orbitopathy, colorectal cancer, and atherosclerosis.
-- **Guggulu and [Triphala](/nighantu/herb/triphala/) for the Treatment of Hypercholesterolaemia: A Placebo-Controlled, Double-Blind, Randomised Trial** (2020): Double-blind RCT evaluating guggulu and [triphala](/nighantu/herb/triphala/) combination for hypercholesterolemia management, providing modern clinical evidence for the traditional Ayurvedic application.
-- **Dissecting the allosteric FXR modulation: a chemical biology approach using guggulsterone as a chemical tool** (2022): Guggulsterone acts as a peculiar FXR antagonist with gene-selective modulation capability, suggesting a nuanced pharmacological profile beyond simple receptor antagonism.
+- Ganamurali N, Devarajan M, Sabarathinam S 2026. [Guggulsterone, a Classical Lipid-Lowering Phytosteroidal FXR Antagonist, as a Modulator of Lipid Signaling and Metabolic Reprogramming in Cancer](https://pubmed.ncbi.nlm.nih.gov/41326956/). *Lipids*. PMID [41326956](https://pubmed.ncbi.nlm.nih.gov/41326956/) · [doi:10.1002/lipd.70030](https://doi.org/10.1002/lipd.70030)  
+  Guggulsterone identified as a classical lipid-lowering phytosteroidal FXR antagonist that modulates lipid signaling and metabolic reprogramming relevant to cancer treatment.
+- Donato F, Raffetti E, Toninelli G and others 2021. [Guggulu and Triphala for the Treatment of Hypercholesterolaemia: A Placebo-Controlled, Double-Blind, Randomised Trial](https://pubmed.ncbi.nlm.nih.gov/33242870/). *Complementary medicine research*. PMID [33242870](https://pubmed.ncbi.nlm.nih.gov/33242870/) · [doi:10.1159/000510985](https://doi.org/10.1159/000510985)  
+  Double-blind RCT evaluating guggulu and [triphala](/nighantu/herb/triphala/) combination for hypercholesterolemia management, providing modern clinical evidence for the traditional Ayurvedic application.
+- Passeri D, Carotti A, Pittol JMR and others 2019. [Dissecting the allosteric FXR modulation: a chemical biology approach using guggulsterone as a chemical tool](https://pubmed.ncbi.nlm.nih.gov/31673308/). *MedChemComm*. PMID [31673308](https://pubmed.ncbi.nlm.nih.gov/31673308/) · [doi:10.1039/c9md00264b](https://doi.org/10.1039/c9md00264b)  
+  Guggulsterone acts as a peculiar FXR antagonist with gene-selective modulation capability, suggesting a nuanced pharmacological profile beyond simple receptor antagonism.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

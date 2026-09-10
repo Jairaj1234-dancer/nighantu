@@ -16,7 +16,7 @@ aliases: ["Macrotyloma uniflorum (Lam.) Verdc. (syn. Dolichos biflorus L.)"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 648
+words: 620
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kulattha/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kulattha/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Traditional uses, phytochemistry, pharmacology, and nutraceutical potential of horse gram (Macrotyloma uniflorum): A systematic review** (2024): Comprehensive systematic review documenting antioxidant, antidiabetic, anti-inflammatory, anticarcinogenic, [antimicrobial](/nighantu/reference/antimicrobial/), antidiarrheal, and [neuroprotective](/nighantu/reference/neuroprotective/) effects of horse gram bioactive compounds.
-- **Therapeutic and nutritive uses of Macrotyloma uniflorum (Lam.) Verdc. (Horsegram), a somewhat neglected plant of the family Fabaceae** (2023): Documented horse gram as a neglected but therapeutically valuable legume with traditional applications in kidney stones, bronchitis, asthma, and heart diseases validated by preliminary pharmacological evidence.
-- **A Review on Phytochemical Pharmacological and Pharmacognostical Profile of Horse Gram** (2024): Detailed pharmacognostical and phytochemical analysis establishing quality markers and documenting comprehensive pharmacological profile including antilithiatic activity.
+- Oli P, Joshi K, Punetha S 2024. [Traditional uses, phytochemistry, pharmacology, and nutraceutical potential of horse gram (Macrotyloma uniflorum): A systematic review](https://pubmed.ncbi.nlm.nih.gov/39656760/). *Journal of food science*. PMID [39656760](https://pubmed.ncbi.nlm.nih.gov/39656760/) · [doi:10.1111/1750-3841.17594](https://doi.org/10.1111/1750-3841.17594)  
+  Comprehensive systematic review documenting antioxidant, antidiabetic, anti-inflammatory, anticarcinogenic, [antimicrobial](/nighantu/reference/antimicrobial/), antidiarrheal, and [neuroprotective](/nighantu/reference/neuroprotective/) effects of horse gram bioactive compounds.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

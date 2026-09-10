@@ -16,7 +16,7 @@ aliases: ["Ficus racemosa Linn."]
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 591
+words: 517
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Udumbara/meta-analysis.md"
 ---
 ## Names and identification
@@ -56,9 +56,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Udumbara/meta-analysis.m
 
 ## What do recent clinical trials show?
 
-- **A Comprehensive Review of the Phytochemistry, Pharmacology and Therapeutic Benefits of Ficus racemosa Linn.** (2024): Documented 52+ bioactive compounds from different plant parts with demonstrated antidiabetic, hepatoprotective, cognitive-enhancing and radioprotective activities in preclinical models.
-- **Exploring the pharmacognostic properties and pharmacological activities of phytocompounds present in Ficus racemosa** (2023): Beta-sitosterol from stem bark showed potent antidiabetic activity comparable to glibenclamide, while bergenin demonstrated significant hepatoprotective effects against CCl4-induced liver damage.
-- **The role of Udumbara unripe fruit in agnidushti with reference to digestive system diseases** (2023): Unripe fruit preparations significantly improved digestive fire markers and reduced symptoms in functional dyspepsia patients, validating traditional Ayurvedic digestive use.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

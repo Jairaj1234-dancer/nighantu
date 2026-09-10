@@ -16,7 +16,7 @@ aliases: ["Berberis aristata DC."]
 tags: ["ayurveda", "herb", "single-herb", "skin-beauty", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 747
+words: 752
 srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Daruharidra/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,10 +53,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Daruharidra/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Berberine from a Dermatologic Perspective** (2025): Comprehensive dermatology review confirming berberine's anti-inflammatory, [antioxidant](/nighantu/reference/antioxidant/), and antimicrobial properties show promise for treating eczema, vitiligo, psoriasis, and acne while maintaining a favorable safety profile.
-- **Topical berberine ameliorates imiquimod-induced psoriasis-like dermatitis via JAK1/STAT1 suppression** (2024): Topical berberine application significantly ameliorated psoriasis-like dermatitis in mice by suppressing the JAK1/STAT1 signaling pathway, reducing inflammatory markers and epidermal hyperplasia.
-- **Evaluation of Berberis integerrima root extract combined with spearmint essential oil in acne vulgaris treatment: Randomized controlled clinical trial** (2024): Berberis root extract combined with spearmint oil demonstrated significant clinical improvement in acne vulgaris patients in a randomized controlled trial, validating the anti-acne potential of berberine-containing plants.
-- **Targeting Skin Neoplasms: A Review of Berberine's [Anticancer](/nighantu/reference/anticancer/) Properties** (2025): Berberine demonstrated anticancer properties against various skin neoplasms through modulation of apoptotic pathways, cell cycle arrest, and inhibition of tumor proliferation signaling.
+- Saeidi S, Ghanadian SM, Poostiyan N and others 2024. [Evaluation of the effectiveness of Berberis integerrima Bunge root extract combined with spearmint essential oil in the treatment of acne vulgaris: A randomized controlled clinical trial](https://pubmed.ncbi.nlm.nih.gov/38545754/). *Journal of cosmetic dermatology*. PMID [38545754](https://pubmed.ncbi.nlm.nih.gov/38545754/) · [doi:10.1111/jocd.16291](https://doi.org/10.1111/jocd.16291)  
+  Berberis root extract combined with spearmint oil demonstrated significant clinical improvement in acne vulgaris patients in a randomized controlled trial, validating the anti-acne potential of berberine-containing plants.
+- Duda-Madej A, Lipska P, Viscardi S and others 2025. [Targeting Skin Neoplasms: A Review of Berberine's Anticancer Properties](https://pubmed.ncbi.nlm.nih.gov/40710294/). *Cells*. PMID [40710294](https://pubmed.ncbi.nlm.nih.gov/40710294/) · [doi:10.3390/cells14141041](https://doi.org/10.3390/cells14141041)  
+  Berberine demonstrated anticancer properties against various skin neoplasms through modulation of apoptotic pathways, cell cycle arrest, and inhibition of tumor proliferation signaling.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

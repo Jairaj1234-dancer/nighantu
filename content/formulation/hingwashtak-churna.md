@@ -16,7 +16,7 @@ aliases: ["Hingwashtak Churna", "HingwashtakChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 660
+words: 553
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Hingwashtak-Churna/meta-analysis.md"
 ---
 ## Names and identification
@@ -58,11 +58,9 @@ Bhaishajya Ratnavali (Agnimandya / Ajirna Rogadhikara). Also referenced in Yoga 
 
 ## What do recent clinical trials show?
 
-- **Randomized trial of [Hingwashtak Churna](/nighantu/formulation/hingwashtak-churna/) in functional dyspepsia** (2020): Randomized trial on 60 patients with functional dyspepsia showed 45% improvement in global symptom scores with 1.5 g daily dose over 4 weeks versus placebo.
-- **Formulation and evaluation of [Hingwashtak Churna](/nighantu/formulation/hingwashtak-churna/) for digestive property** (2020): Evaluated gastroprotective effects of aqueous extract using ibuprofen and ethanol-induced ulcer models in rats, demonstrating significant mucosal protection.
-- **Preparation and quality evaluation of [Hingwashtak Churna](/nighantu/formulation/hingwashtak-churna/)** (2020): Standardization study establishing quality parameters including ash value, extractive values, and phytochemical fingerprinting for market formulations.
-- **Probable mode of action of Hingvastaka Churna: A critical review** (2021): Critical pharmacological review establishing mechanisms including carminative, appetizer, [analgesic](/nighantu/reference/analgesic/), and anti-spasmodic actions through synergistic herb interactions.
-- **In vitro antimicrobial activity of [Hingwashtak Churna](/nighantu/formulation/hingwashtak-churna/) components** (2020): Strong antimicrobial activity against E. coli and S. aureus attributed primarily to ferulic acid in asafoetida component, supporting traditional use in digestive infections.
+
+
+*5 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

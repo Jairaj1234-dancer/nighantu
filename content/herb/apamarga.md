@@ -51,9 +51,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Apamarga/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **HR-MS Profiling of Apamarga Ksharodaka and Computational Screening for Wound Healing Applications** (2025): HR-MS identified 25 compounds in Apamarga Ksharodaka; Homovanillic acid and Biochanin A showed significant binding affinities to [wound-healing](/nighantu/reference/wound-healing/) targets (MMP-9, TGF-beta).
-- **Pharmaceutico-Analytical Profile of Apamarga Ksharodaka and Kshara** (2025): Standardized analytical profiling of Apamarga Kshara validated its alkaline nature and confirmed presence of bioactive potassium-rich compounds relevant to Ayurvedic Kshara therapy.
-- **Diverse Bioactivity of Traditional Herb Achyranthes aspera in Ethnomedicine** (2025): Comprehensive review demonstrated anti-inflammatory properties through modification of pro-inflammatory cytokines (TNF-alpha, IL-6) and validated multiple ethnomedicinal applications.
+- Garg AK, Chouhan P, Sen B 2025. [High resolution-mass spectrometry (hR-MS) profiling of Apamarga Ksharodaka (herbal alkaline water from Achyranthes aspera Linn.) and computational screening of bioactive phytochemicals for wound healing applications](https://pubmed.ncbi.nlm.nih.gov/41085550/). *Natural product research*. PMID [41085550](https://pubmed.ncbi.nlm.nih.gov/41085550/) · [doi:10.1080/14786419.2025.2568949](https://doi.org/10.1080/14786419.2025.2568949)  
+  HR-MS identified 25 compounds in Apamarga Ksharodaka; Homovanillic acid and Biochanin A showed significant binding affinities to [wound-healing](/nighantu/reference/wound-healing/) targets (MMP-9, TGF-beta).
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

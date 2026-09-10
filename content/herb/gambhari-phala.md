@@ -16,7 +16,7 @@ aliases: ["Gambhari Phala", "GambhariPhala", "Gmelina arborea Roxb."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 667
+words: 641
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gambhari-Phala/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gambhari-Phala/meta-analysis.
 
 ## What do recent clinical trials show?
 
-- **Chemical constituents and pharmacological potential of Gmelina arborea Roxb. (Lamiaceae): A review** (2024): Sixty-nine phytochemicals including lignans, acylated iridoid glycosides, acylated rhamnopyranoses, [flavonoids](/nighantu/reference/flavonoids/), and flavone glycosides identified with demonstrated antioxidant, [antimicrobial](/nighantu/reference/antimicrobial/), and anti-inflammatory activities.
-- **Pharmacognostic and Pharmacological Properties of [Gambhari](/nighantu/herb/gambhari/) Fruit (Gmelina arborea ROXB.): A Review** (2023): Fruit preparations showed significant cardioprotective, [antidiabetic](/nighantu/reference/antidiabetic/), [immunomodulatory](/nighantu/reference/immunomodulatory/), and wound healing activities; fruit identified as best among substances for bleeding disorders in Ayurveda.
-- **Gmelina arborea - an indigenous timber species of India with high medicinal value: A review on its pharmacology, pharmacognosy and phytochemistry** (2021): Documented wide spectrum of pharmacological properties including wound healing, cytotoxic, cardioprotective, antimicrobial, anti-inflammatory, antioxidant, and antidiabetic potential.
+- Warrier RR, Priya SM, Kalaiselvi R 2021. [Gmelina arborea- an indigenous timber species of India with high medicinal value: A review on its pharmacology, pharmacognosy and phytochemistry](https://pubmed.ncbi.nlm.nih.gov/33217516/). *Journal of ethnopharmacology*. PMID [33217516](https://pubmed.ncbi.nlm.nih.gov/33217516/) · [doi:10.1016/j.jep.2020.113593](https://doi.org/10.1016/j.jep.2020.113593)  
+  Documented wide spectrum of pharmacological properties including wound healing, cytotoxic, cardioprotective, antimicrobial, anti-inflammatory, antioxidant, and antidiabetic potential.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

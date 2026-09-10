@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Pishtis"
-answer: "Neelam Pishti is a substance used in the Ayurvedic materia medica. Usual dose: 15–30 mg. Manufacturing techniques, therapeutic indications, and analytical characterization were reviewed but specific clinical trials on Neelam Pishti remain extremely scarce."
+answer: "Neelam Pishti is a substance used in the Ayurvedic materia medica. Usual dose: 15–30 mg. An absence here means we could not identify the source, not that no work exists."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Neelam Pishti", "NeelamPishti"]
 tags: ["ayurveda", "pishti", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 429
+words: 362
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Neelam-Pishti/meta-analysis.md"
 ---
 ## Names and identification
@@ -38,8 +38,9 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Neelam-Pishti/meta-a
 
 ## What do recent clinical trials show?
 
-- **A comprehensive review on Pishti Kalpana (including [Neelam Pishti](/nighantu/herb/neelam-pishti/) characterization)** (2022): Review documented that Pishti preparations including [Neelam Pishti](/nighantu/herb/neelam-pishti/) achieve microfine particle sizes with rapid absorption potential, positioning them within traditional nanomedicine. Manufacturing techniques, therapeutic indications, and analytical characterization were reviewed but specific clinical trials on [Neelam Pishti](/nighantu/herb/neelam-pishti/) remain extremely scarce.
-- **A review article on Pishti in Ayurveda** (2020): Comprehensive review of Pishti Kalpana documented [Neelam Pishti](/nighantu/herb/neelam-pishti/)'s traditional indications for dyspnea, cough, intermittent fever, and as an [aphrodisiac](/nighantu/glossary/pharmacology/#aphrodisiac). Noted that it pacifies Tridosha and nourishes all Dhatus but peer-reviewed safety evaluations are virtually absent.
+
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

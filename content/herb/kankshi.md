@@ -16,7 +16,7 @@ aliases: ["Abrus precatorius L. (seed coat/outer coating)"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 609
+words: 584
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kankshi/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kankshi/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **The traditional uses, phytochemistry and pharmacology of Abrus precatorius L.: A comprehensive review** (2024): Identified over 166 chemical compounds covering flavonoids, phenolics, [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids), [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids), and [proteins](/nighantu/glossary/compounds-o-q/#proteins); documented wide range of pharmacological functions including antitumor, antimicrobial, and immunomodulatory activities.
-- **Abrus precatorius: A deep insight into ethnobotanical, phytochemistry and pharmacology** (2024): Comprehensive review documenting antimicrobial, [antioxidant](/nighantu/reference/antioxidant/), and [hepatoprotective](/nighantu/reference/hepatoprotective/) activities of various plant parts, with emphasis on the differential toxicity between seed coat and kernel.
-- **Abrus precatorius: comprehensive insight into phytochemical, therapeutic activities and safety** (2023): Established that the hard seed coat significantly reduces toxicity of intact seeds; ingestion of whole uncrushed seeds typically results in only mild symptoms and complete recovery.
+- Qian H, Wang L, Li Y and others 2022. [The traditional uses, phytochemistry and pharmacology of Abrus precatorius L.: A comprehensive review](https://pubmed.ncbi.nlm.nih.gov/35714881/). *Journal of ethnopharmacology*. PMID [35714881](https://pubmed.ncbi.nlm.nih.gov/35714881/) · [doi:10.1016/j.jep.2022.115463](https://doi.org/10.1016/j.jep.2022.115463)  
+  Identified over 166 chemical compounds covering flavonoids, phenolics, [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids), [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids), and [proteins](/nighantu/glossary/compounds-o-q/#proteins); documented wide range of pharmacological functions including antitumor, antimicrobial, and immunomodulatory activities.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

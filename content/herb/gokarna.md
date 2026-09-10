@@ -16,7 +16,7 @@ aliases: ["Clitoria ternatea L. (same species as Aparajita; Gokarna is a regiona
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 655
+words: 680
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gokarna/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gokarna/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **The Ayurvedic medicine Clitoria ternatea - from traditional use to scientific assessment** (2024): Documented extensive pharmacological and toxicological evaluation confirming nootropic, anxiolytic, antidepressant, anticonvulsant, and tranquilizing properties with a favorable safety profile.
-- **A comprehensive review of Clitoria ternatea L. flower** (2025): Updated review covering botanical, phytochemical, and pharmacological profile including emerging applications in food science, cosmetics, and nutraceuticals alongside traditional medicinal uses.
-- **Comparative Elemental Analysis and Pharmacological Evaluation of Clitoria ternatea Flowers: Blue and White Varieties from Kerala** (2024): Compared blue and white flower varieties from coastal Kerala, finding differential elemental composition and pharmacological potency, with blue variety showing higher anthocyanin and antioxidant content.
+- Mukherjee PK, Kumar V, Kumar NS and others 2008. [The Ayurvedic medicine Clitoria ternatea--from traditional use to scientific assessment](https://pubmed.ncbi.nlm.nih.gov/18926895/). *Journal of ethnopharmacology*. PMID [18926895](https://pubmed.ncbi.nlm.nih.gov/18926895/) · [doi:10.1016/j.jep.2008.09.009](https://doi.org/10.1016/j.jep.2008.09.009)  
+  Documented extensive pharmacological and toxicological evaluation confirming nootropic, anxiolytic, antidepressant, anticonvulsant, and tranquilizing properties with a favorable safety profile.
+- Jeyaraj EJ, Lim YY, Choo WS 2021. [Extraction methods of butterfly pea (Clitoria ternatea) flower and biological activities of its phytochemicals](https://pubmed.ncbi.nlm.nih.gov/33967304/). *Journal of food science and technology*. PMID [33967304](https://pubmed.ncbi.nlm.nih.gov/33967304/) · [doi:10.1007/s13197-020-04745-3](https://doi.org/10.1007/s13197-020-04745-3)  
+  Updated review covering botanical, phytochemical, and pharmacological profile including emerging applications in food science, cosmetics, and nutraceuticals alongside traditional medicinal uses.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

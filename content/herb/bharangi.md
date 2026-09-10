@@ -16,7 +16,7 @@ aliases: ["Clerodendrum serratum (L.) Moon"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 524
+words: 517
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bharangi/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bharangi/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Clerodendrum serratum Extract Attenuates Production of Inflammatory Mediators in Ovalbumin-induced Asthma in Rats** (2023): Ethanolic root extract significantly diminished infiltration of inflammatory cells, IgE, cytokines, and nitrites in blood serum and bronchoalveolar fluid in OVA-induced asthma model.
-- **Formulation and Evaluation of Herbal Gel Containing Clerodendrum serratum** (2025): Developed standardized topical gel formulation showing good anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) activity, supporting dermal application for pain and inflammation.
-- **Hepatoprotective Potential of C. serratum Seed Extracts** (2025): Seed extracts demonstrated hepatoprotective activity and confirmed non-toxic nature at therapeutic doses in CCl4-induced hepatotoxicity models.
+- Arora P, Ansari SH, Nainwal LM 2022. [Clerodendrum serratum extract attenuates production of inflammatory mediators in ovalbumin-induced asthma in rats](https://pubmed.ncbi.nlm.nih.gov/38143476/). *Turkish journal of chemistry*. PMID [38143476](https://pubmed.ncbi.nlm.nih.gov/38143476/) · [doi:10.3906/kim-2107-22](https://doi.org/10.3906/kim-2107-22)  
+  Ethanolic root extract significantly diminished infiltration of inflammatory cells, IgE, cytokines, and nitrites in blood serum and bronchoalveolar fluid in OVA-induced asthma model.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

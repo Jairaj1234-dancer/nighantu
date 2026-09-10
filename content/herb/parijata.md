@@ -16,7 +16,7 @@ aliases: ["Nyctanthes arbor-tristis L."]
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 615
+words: 594
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Parijata/meta-analysis.md"
 ---
 ## Names and identification
@@ -57,9 +57,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Parijata/meta-analysis.m
 
 ## What do recent clinical trials show?
 
-- **Nyctanthes arbor-tristis Linn. (Night Jasmine): extraction techniques, phytochemical constituents, and biological impacts of extracts and essential oil** (2024): Systematic evaluation of extraction methods showed that ethanol-based extracts yielded highest iridoid glycoside content with potent anti-inflammatory, antioxidant, and [antimicrobial](/nighantu/reference/antimicrobial/) activities.
-- **Nyctanthes arbor-tristis: A Multifaceted Medicinal Plant in Traditional and Contemporary Medicine** (2025): Comprehensive review confirmed [neuroprotective](/nighantu/reference/neuroprotective/), immunomodulatory, and hepatoprotective potential of arbortristosides and nyctanthin through modulation of oxidative stress and inflammatory cascades.
-- **Phytochemicals from Nyctanthes arbor-tristis and their pharmacological activities** (2023): Isolated iridoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) showed dose-dependent antimalarial activity against Plasmodium falciparum and significant anti-arthritic effects in adjuvant-induced arthritis models.
+- Aggarwal A, Mehta DK, Bhardwaj A and others 2026. [Nyctanthes arbor-tristis: A Multifaceted Medicinal Plant in Traditional and Contemporary Medicine](https://pubmed.ncbi.nlm.nih.gov/41213599/). *Planta medica*. PMID [41213599](https://pubmed.ncbi.nlm.nih.gov/41213599/) · [doi:10.1055/a-2706-7358](https://doi.org/10.1055/a-2706-7358)  
+  Comprehensive review confirmed [neuroprotective](/nighantu/reference/neuroprotective/), immunomodulatory, and hepatoprotective potential of arbortristosides and nyctanthin through modulation of oxidative stress and inflammatory cascades.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

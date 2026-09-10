@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 669
+words: 685
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Draksharishta/meta-analysis.md"
 ---
 ## Names and identification
@@ -58,10 +58,12 @@ Bhaishajya Ratnavali (Agnimandya / Pandu Rogadhikara). Also referenced in Ayurve
 
 ## What do recent clinical trials show?
 
-- **Investigation of the central and peripheral analgesic and anti-inflammatory activity of Draksharishta** (2020): Carrageenan-induced paw edema and acetic acid writhing tests showed significant results (P < 0.05), indicating peripheral analgesic and anti-inflammatory action. DRK significantly suppressed inflammatory pain (P < 0.05) but not neurogenic pain.
-- **Determination of Quality Standards for Draksharishta, a Polyherbal Ayurvedic Formulation** (2021): TLC profiling identified gallic acid, catechin, and [resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol) as key bioactive markers. Established physicochemical quality standards including pH, specific gravity, alcohol content, total solids, and reducing sugars.
-- **Digestive enzyme modulation and gut microbiome support by Draksharishta** (2023): Emerging research validates digestive enzyme modulation through grape-derived polyphenols and fermentation-generated bioactives, with potential prebiotic effects on gut microbiome diversity.
-- **Clinical evaluation of Draksharishta in general debility and convalescence** (2022): Clinical observations showed improvement in appetite, energy levels, and general well-being in patients recovering from chronic illness, supporting its traditional use as a restorative tonic.
+- Kabir AU, Samad MB, D Costa NM and others 2012. [Investigation of the central and peripheral analgesic and anti-inflammatory activity of Draksharishta an Indian Ayurvedic formulation](https://pubmed.ncbi.nlm.nih.gov/24826047/). *Journal of basic and clinical pharmacy*. PMID [24826047](https://pubmed.ncbi.nlm.nih.gov/24826047/) · [doi:10.4103/0976-0105.105335](https://doi.org/10.4103/0976-0105.105335)  
+  Carrageenan-induced paw edema and acetic acid writhing tests showed significant results (P < 0.05), indicating peripheral analgesic and anti-inflammatory action. DRK significantly suppressed inflammatory pain (P < 0.05) but not neurogenic pain.
+- Pillai D, Pandita N 2016. [Determination of Quality Standards for Draksharishta, a Polyherbal Ayurvedic Formulation](https://pubmed.ncbi.nlm.nih.gov/27168691/). *Indian journal of pharmaceutical sciences*. PMID [27168691](https://pubmed.ncbi.nlm.nih.gov/27168691/) · [doi:10.4103/0250-474x.180262](https://doi.org/10.4103/0250-474x.180262)  
+  TLC profiling identified gallic acid, catechin, and [resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol) as key bioactive markers. Established physicochemical quality standards including pH, specific gravity, alcohol content, total solids, and reducing sugars.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

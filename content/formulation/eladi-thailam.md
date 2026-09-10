@@ -16,7 +16,7 @@ aliases: ["Eladi Thailam", "EladiThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 675
+words: 595
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Eladi-Thailam/meta-analysis.md"
 ---
 ## Names and identification
@@ -59,9 +59,9 @@ Sahasrayogam (Taila Prakarana), specifically referencing the Eladi Gana - a trad
 
 ## What do recent clinical trials show?
 
-- **Randomised controlled double-blind pilot study on Eladi oil efficacy in acne vulgaris** (2019): Conducted by Middlesex University, the treatment group showed 42% improvement on Investigators Global Assessment scale, 60% reduction in inflammatory lesions, 59% reduction in non-inflammatory lesions, and 59% reduction in combined lesion count.
-- **Anti-inflammatory and antipruritic evaluation of [Eladi Thailam](/nighantu/formulation/eladi-thailam/) in dermatological conditions** (2020): In vitro and clinical analysis confirmed the formulation's anti-inflammatory, antipruritic (anti-itch), and demulcent properties, aligning with traditional uses for urticaria and eczema.
-- **Allergic contact dermatitis case study with Ayurvedic oils including Eladi** (2014): Published in PMC, documented case of Type IV hypersensitivity following aromatherapy with Eladi [coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil), presenting as generalized erythema and pruritus with flexural eczema, highlighting the importance of patch testing and constitutional assessment.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

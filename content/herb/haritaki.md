@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "liver-detox", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "PubMed / NCBI (696 publications)", "AgeAyurveda Product Catalog", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: ["Acid Relief", "Bowel Kare"]
-words: 1577
+words: 1604
 srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Haritaki/meta-analysis.md"
 ---
 ## Names and identification
@@ -114,11 +114,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Haritaki/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Randomized double-blind placebo-controlled trial of standardized Terminalia chebula fruit extracts for skin health** (2023): 8-week RCT (NCT04597502) on healthy females aged 25-65 supplemented with 250 mg Synastol TC twice daily showed that oral T. chebula extract significantly reduced facial sebum excretion, erythema, and wrinkle severity.
-- **Potential of Terminalia chebula in alleviating mild cognitive impairment: a review** (2024): Comprehensive review identified 171 chemical constituents and 11 active constituents targeting MCI. Flavonoids alleviate cognitive impairment primarily through antioxidative, anti-inflammatory, and neuroprotective properties.
-- **Hepatoprotective Activity of Haritaki (Terminalia chebula Retz): A Systematic Review** (2024): Systematic review confirmed hepatoprotective effects of Terminalia chebula, supporting traditional Ayurvedic claims for liver protection.
-- **Comprehensive review on diverse pharmacological perspectives of Terminalia chebula Retz** (2022): Documented antioxidative, antiproliferative, antimicrobial, proapoptotic, antidiabetic, anti-aging, hepatoprotective, anti-inflammatory, antimutagenic, and antiepileptic properties through multiple laboratory approaches.
-- **Comprehensive metabolome profiling of [Triphala](/nighantu/herb/triphala/) components including Terminalia chebula** (2024): Advanced metabolome profiling revealed detailed phytochemical composition of Terminalia chebula as part of [Triphala](/nighantu/herb/triphala/) formulation, identifying bioactive metabolites responsible for therapeutic effects.
+- Chakkalakal M, Pan A, Nadora D and others 2023. [Randomized Double-Blind Placebo-Controlled Supplementation with Standardized Terminalia chebula Fruit Extracts Reduces Facial Sebum Excretion, Erythema, and Wrinkle Severity](https://pubmed.ncbi.nlm.nih.gov/36836126/). *Journal of clinical medicine*. PMID [36836126](https://pubmed.ncbi.nlm.nih.gov/36836126/) · [doi:10.3390/jcm12041591](https://doi.org/10.3390/jcm12041591)  
+  8-week RCT (NCT04597502) on healthy females aged 25-65 supplemented with 250 mg Synastol TC twice daily showed that oral T. chebula extract significantly reduced facial sebum excretion, erythema, and wrinkle severity.
+- Gao H, Lu H, Fang N and others 2024. [The potential of Terminalia chebula in alleviating mild cognitive impairment: a review](https://pubmed.ncbi.nlm.nih.gov/39494343/). *Frontiers in pharmacology*. PMID [39494343](https://pubmed.ncbi.nlm.nih.gov/39494343/) · [doi:10.3389/fphar.2024.1484040](https://doi.org/10.3389/fphar.2024.1484040)  
+  Comprehensive review identified 171 chemical constituents and 11 active constituents targeting MCI. Flavonoids alleviate cognitive impairment primarily through antioxidative, anti-inflammatory, and neuroprotective properties.
+- Hassan Bulbul MR, Uddin Chowdhury MN, Naima TA and others 2022. [A comprehensive review on the diverse pharmacological perspectives of Terminalia chebula Retz](https://pubmed.ncbi.nlm.nih.gov/36051270/). *Heliyon*. PMID [36051270](https://pubmed.ncbi.nlm.nih.gov/36051270/) · [doi:10.1016/j.heliyon.2022.e10220](https://doi.org/10.1016/j.heliyon.2022.e10220)  
+  Documented antioxidative, antiproliferative, antimicrobial, proapoptotic, antidiabetic, anti-aging, hepatoprotective, anti-inflammatory, antimutagenic, and antiepileptic properties through multiple laboratory approaches.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

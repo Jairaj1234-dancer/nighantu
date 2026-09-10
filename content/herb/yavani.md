@@ -16,7 +16,7 @@ aliases: ["Trachyspermum ammi (L.) Sprague"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 625
+words: 557
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Yavani/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Yavani/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Unlocking the food treasures: Trachyspermum ammi - A comprehensive exploration from field to pharmacology** (2024): Comprehensive review covering morphology, food processing, chemical constituents, pharmacological significance, and novel dosage forms; highlighted emerging nanoencapsulation approaches for enhanced bioavailability of thymol.
-- **Emerging Traditional and Pharmacological Health Benefits of Trachyspermum ammi ([Ajwain](/nighantu/herb/ajwain/)): Future Aspects** (2025): Highlighted emerging evidence for applications in neurodegenerative diseases, cancer, and metabolic disorders; advanced drug delivery systems including lipid-based formulations discussed.
-- **Medicinal and Nutritional Importance of Trachyspermum ammi in Human Health** (2025): Reviewed comprehensive therapeutic potential including antibacterial, antifungal, antinociceptive, cytotoxic, antihypertensive, antispasmodic, bronchodilating, anthelmintic, and antifilarial activities.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

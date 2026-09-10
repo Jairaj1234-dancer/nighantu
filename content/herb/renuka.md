@@ -16,7 +16,7 @@ aliases: ["Vitex agnus-castus L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 644
+words: 686
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Renuka/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Renuka/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Vitex agnus-castus in Menopause: Phytochemistry, Mechanistic Insights, Clinical Applications, and Safety Perspectives** (2025): Comprehensive review of VAC in menopause management documenting phytoestrogenic, dopaminergic, and opioidergic mechanisms; reviewed clinical evidence for vasomotor symptom reduction and hormonal balance.
-- **Vitex agnus castus effects on hyperprolactinaemia** (2024): Demonstrated that VAC extract inhibits prolactin release through interaction with dopamine D2 receptors; clinical evidence supports efficacy in treating hyperprolactinemia-related conditions.
-- **Vitex agnus castus Extract Ze 440: Diterpene and Triterpene Interactions With Dopamine D2 Receptor** (2024): Identified specific diterpene and triterpene compounds that interact with dopamine D2 receptors; molecular docking studies confirmed binding mechanisms for prolactin suppression.
+- Sopjani M, Murati V, Mataj-Berisha D and others 2026. [Vitex agnus-castus in Menopause: Phytochemistry, Mechanistic Insights, Clinical Applications, and Safety Perspectives](https://pubmed.ncbi.nlm.nih.gov/41630367/). *Phytotherapy research : PTR*. PMID [41630367](https://pubmed.ncbi.nlm.nih.gov/41630367/) · [doi:10.1002/ptr.70237](https://doi.org/10.1002/ptr.70237)  
+  Comprehensive review of VAC in menopause management documenting phytoestrogenic, dopaminergic, and opioidergic mechanisms; reviewed clinical evidence for vasomotor symptom reduction and hormonal balance.
+- Puglia LT, Lowry J, Tamagno G 2023. [Vitex agnus castus effects on hyperprolactinaemia](https://pubmed.ncbi.nlm.nih.gov/38075075/). *Frontiers in endocrinology*. PMID [38075075](https://pubmed.ncbi.nlm.nih.gov/38075075/) · [doi:10.3389/fendo.2023.1269781](https://doi.org/10.3389/fendo.2023.1269781)  
+  Demonstrated that VAC extract inhibits prolactin release through interaction with dopamine D2 receptors; clinical evidence supports efficacy in treating hyperprolactinemia-related conditions.
+- Reinhardt JK, Schertler L, Bussmann H and others 2024. [Vitex agnus castus Extract Ze 440: Diterpene and Triterpene's Interactions with Dopamine D2 Receptor](https://pubmed.ncbi.nlm.nih.gov/39519010/). *International journal of molecular sciences*. PMID [39519010](https://pubmed.ncbi.nlm.nih.gov/39519010/) · [doi:10.3390/ijms252111456](https://doi.org/10.3390/ijms252111456)  
+  Identified specific diterpene and triterpene compounds that interact with dopamine D2 receptors; molecular docking studies confirmed binding mechanisms for prolactin suppression.
 
 ## Recent safety updates
 

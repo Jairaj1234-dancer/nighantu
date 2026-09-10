@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Animal-Derived-Products"
 group: "Kasturi"
-answer: "Kasturi is a substance used in the Ayurvedic materia medica. Usual dose: 30–125 mg. Review on Kasturi (Musk) - Ayurvedic and Pharmacological Perspectives (2023): Musk has been validated for use in cardiac, mental, and neurological disorders; muscone shows ability to cross the blood-brain barrier and reduce neuroinflammation in animal models of stroke and traumatic brain injury."
-botanical: ""
+answer: "Kasturi (Chinese medicine) is a plant used in Ayurveda. Usual dose: 30–125 mg. [Zoology, chemical composition, pharmacology, quality control and future perspective of Musk (Moschus): a review](https://pubmed.ncbi.nlm.nih.gov/34147113/). 2 further claims previously listed here could not be traced to a published paper and have been removed."
+botanical: "Chinese medicine"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "animal-product", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 476
+words: 447
 srcRel: "Ayurveda/Others/Animal-Derived-Products/Kasturi/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,10 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Kasturi/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Zoology, chemical composition, pharmacology, quality control and future perspective of Musk (Moschus): a review** (2021): Comprehensive review confirmed muscone possesses potent anti-inflammatory, [neuroprotective](/nighantu/reference/neuroprotective/), anticancer, [antioxidant](/nighantu/reference/antioxidant/), and cardiovascular protective effects; muscone activates cAMP/PKA signaling pathway for neuroprotection.
-- **Review on Kasturi (Musk) - Ayurvedic and Pharmacological Perspectives** (2023): Musk has been validated for use in cardiac, mental, and neurological disorders; muscone shows ability to cross the blood-brain barrier and reduce neuroinflammation in animal models of stroke and traumatic brain injury.
-- **Synthetic Muscone Analogues: Neuroprotective and Anti-inflammatory Studies** (2024): Synthetic muscone analogues demonstrate comparable neuroprotective and anti-inflammatory effects to natural musk in preclinical models, offering a sustainable alternative to endangered species-derived products.
+- Liu K, Xie L, Deng M and others 2021. [Zoology, chemical composition, pharmacology, quality control and future perspective of Musk (Moschus): a review](https://pubmed.ncbi.nlm.nih.gov/34147113/). *Chinese medicine*. PMID [34147113](https://pubmed.ncbi.nlm.nih.gov/34147113/) · [doi:10.1186/s13020-021-00457-8](https://doi.org/10.1186/s13020-021-00457-8)  
+  Comprehensive review confirmed muscone possesses potent anti-inflammatory, [neuroprotective](/nighantu/reference/neuroprotective/), anticancer, [antioxidant](/nighantu/reference/antioxidant/), and cardiovascular protective effects; muscone activates cAMP/PKA signaling pathway for neuroprotection.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

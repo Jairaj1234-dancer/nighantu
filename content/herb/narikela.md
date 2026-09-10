@@ -16,7 +16,7 @@ aliases: ["Cocos nucifera L."]
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 767
+words: 799
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Narikela/meta-analysis.md"
 ---
 ## Names and identification
@@ -56,9 +56,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Narikela/meta-analysis.m
 
 ## What do recent clinical trials show?
 
-- **Narikela (Cocos nucifera L.): Unique medicinal recipes from Keraleeya Ayurveda Chikitsa Granthas** (2025): Documented unique Ayurvedic formulations using different parts of coconut tree from Kerala texts, validating use in urinary disorders, bleeding disorders, skin diseases and as rejuvenating agent.
-- **Antimicrobial Potential of Cocos nucifera (Coconut) Oil on Bacterial Isolates** (2024): [Coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil) demonstrated significant antimicrobial activity attributed to lauric acid conversion to monolaurin, which disrupts bacterial cell membrane integrity through peptidoglycan mimicry.
-- **Cocos nucifera (L.) (Arecaceae): A phytochemical and pharmacological review** (2023): Confirmed antihelminthic, anti-inflammatory, antinociceptive, antioxidant, antifungal, [antitumor](/nighantu/glossary/pharmacology/#antitumor), [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive), cardioprotective and [hepatoprotective](/nighantu/reference/hepatoprotective/) activities across various coconut-derived products.
+- Bhardwaj V 2025. [Antimicrobial Potential of Cocos nucifera (Coconut) Oil on Bacterial Isolates](https://pubmed.ncbi.nlm.nih.gov/37594604/). *Advances in experimental medicine and biology*. PMID [37594604](https://pubmed.ncbi.nlm.nih.gov/37594604/) · [doi:10.1007/5584_2023_786](https://doi.org/10.1007/5584_2023_786)  
+  [Coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil) demonstrated significant antimicrobial activity attributed to lauric acid conversion to monolaurin, which disrupts bacterial cell membrane integrity through peptidoglycan mimicry.
+- Lima EB, Sousa CN, Meneses LN and others 2015. [Cocos nucifera (L.) (Arecaceae): A phytochemical and pharmacological review](https://pubmed.ncbi.nlm.nih.gov/26292222/). *Brazilian journal of medical and biological research = Revista brasileira de pesquisas medicas e biologicas*. PMID [26292222](https://pubmed.ncbi.nlm.nih.gov/26292222/) · [doi:10.1590/1414-431X20154773](https://doi.org/10.1590/1414-431X20154773)  
+  Confirmed antihelminthic, anti-inflammatory, antinociceptive, antioxidant, antifungal, [antitumor](/nighantu/glossary/pharmacology/#antitumor), [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive), cardioprotective and [hepatoprotective](/nighantu/reference/hepatoprotective/) activities across various coconut-derived products.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

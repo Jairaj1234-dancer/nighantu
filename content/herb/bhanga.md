@@ -16,7 +16,7 @@ aliases: ["Cannabis sativa L. / Cannabis indica Lam."]
 tags: ["ayurveda", "herb", "single-herb", "brain-nervous-system", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 823
+words: 800
 srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Bhanga/meta-analysis.md"
 ---
 ## Names and identification
@@ -34,10 +34,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Bhanga/meta-analysis.m
 
 ## What do recent clinical trials show?
 
-- **A user-informed perspective of the toxicological data gap in India's cannabis landscape** (2025): Unregulated cannabis products in India (Ganja, Charas) pose significant toxicological risks not primarily from cannabinoids but from unpredictable potency, pesticide contamination, and adulteration in absence of quality control.
-- **Beyond regulation: Reimagining India's narcotic drugs and psychotropic substances policy with public health perspective** (2025): Called for evidence-based reform of India's NDPS policy, recognizing that blanket prohibition has not reduced cannabis use but has prevented research into therapeutic applications and created unregulated market risks.
-- **Cannabis (Bhanga) in Classical Text of Ayurveda: An Evidence-Based Rationale** (2024): Documented over 191 Ayurvedic formulations containing cannabis treating 29+ disease conditions. Classical texts prescribe specific Shodhana processes that significantly reduce psychoactive effects while retaining therapeutic properties.
-- **Jatin v. State of Kerala - Cannabis Jurisprudence in India** (2025): Kerala High Court reaffirmed that 'cannabis plant' covers any plant of genus Cannabis regardless of growth stage. Cultivation is medium-neutral and prohibited without license under NDPS Act.
+- Riyaz M 2025. [A user-informed perspective of the toxicological data gap in India's cannabis landscape](https://pubmed.ncbi.nlm.nih.gov/41626284/). *Frontiers in toxicology*. PMID [41626284](https://pubmed.ncbi.nlm.nih.gov/41626284/) · [doi:10.3389/ftox.2025.1734313](https://doi.org/10.3389/ftox.2025.1734313)  
+  Unregulated cannabis products in India (Ganja, Charas) pose significant toxicological risks not primarily from cannabinoids but from unpredictable potency, pesticide contamination, and adulteration in absence of quality control.
+- Sahasrabuddhe A, Purohit N 2025. [Beyond regulation: Reimagining India's narcotic drugs and psychotropic substances policy with public health perspective](https://pubmed.ncbi.nlm.nih.gov/40443815/). *Indian journal of psychiatry*. PMID [40443815](https://pubmed.ncbi.nlm.nih.gov/40443815/) · [doi:10.4103/indianjpsychiatry.indianjpsychiatry_818_24](https://doi.org/10.4103/indianjpsychiatry.indianjpsychiatry_818_24)  
+  Called for evidence-based reform of India's NDPS policy, recognizing that blanket prohibition has not reduced cannabis use but has prevented research into therapeutic applications and created unregulated market risks.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

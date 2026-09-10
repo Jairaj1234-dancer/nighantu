@@ -16,7 +16,7 @@ aliases: ["Giloy Satva", "GiloySatva", "Tinospora cordifolia (Willd.) Miers (aqu
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 735
+words: 766
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Giloy-Satva/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Giloy-Satva/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Immunomodulatory properties of [Giloy](/nighantu/herb/guduchi/) (Tinospora cordifolia) leaves and its applications in value-added products** (2025): Demonstrated immunomodulatory properties through NF-kB pathway modulation and interleukin regulation, with applications in functional food product development.
-- **Tinospora cordifolia ([Giloy](/nighantu/herb/guduchi/)): An insight on the multifarious pharmacological paradigms** (2024): Comprehensive review documenting significant immunomodulatory, antioxidant, anti-inflammatory, antidiabetic, hepatoprotective, antibacterial, [anticancer](/nighantu/reference/anticancer/), and [neuroprotective](/nighantu/reference/neuroprotective/) properties of the plant.
-- **Phytochemistry and pharmacological activities of Tinospora genus: An updated review** (2025): Updated genus-level review identifying over 60 bioactive compounds including alkaloids, diterpenoid lactones, glycosides, [steroids](/nighantu/glossary/compounds-q-t/#steroids), and [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides) contributing to complex pharmacological profile.
+- Singh J, Saxena E, Chaudhary AR and others 2025. [Immunomodulatory properties of Giloy (Tinospora cordifolia) leaves and its applications in value-added products](https://pubmed.ncbi.nlm.nih.gov/39758376/). *Heliyon*. PMID [39758376](https://pubmed.ncbi.nlm.nih.gov/39758376/) · [doi:10.1016/j.heliyon.2024.e40948](https://doi.org/10.1016/j.heliyon.2024.e40948)  
+  Demonstrated immunomodulatory properties through NF-kB pathway modulation and interleukin regulation, with applications in functional food product development.
+- Gupta A, Gupta P, Bajpai G 2024. [Tinospora cordifolia (Giloy): An insight on the multifarious pharmacological paradigms of a most promising medicinal ayurvedic herb](https://pubmed.ncbi.nlm.nih.gov/38390130/). *Heliyon*. PMID [38390130](https://pubmed.ncbi.nlm.nih.gov/38390130/) · [doi:10.1016/j.heliyon.2024.e26125](https://doi.org/10.1016/j.heliyon.2024.e26125)  
+  Comprehensive review documenting significant immunomodulatory, antioxidant, anti-inflammatory, antidiabetic, hepatoprotective, antibacterial, [anticancer](/nighantu/reference/anticancer/), and [neuroprotective](/nighantu/reference/neuroprotective/) properties of the plant.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

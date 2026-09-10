@@ -16,7 +16,7 @@ aliases: ["Sitopaladi Churna", "SitopaladiChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 591
+words: 505
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Sitopaladi-Churna/meta-analysis.md"
 ---
 ## Names and identification
@@ -54,11 +54,10 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 6. Also referenced in Chakradatta
 
 ## What do recent clinical trials show?
 
-- **A Critical Review of [Sitopaladi Churna](/nighantu/formulation/sitopaladi-churna/) in The Management of Respiratory Tract Infections: An Ayurvedic and Pharmacological Perspective** (2024): Validated effectiveness in alleviating RTI symptoms, enhancing respiratory functions, and reducing dependency on synthetic drugs. Modern pharmacological studies confirmed [expectorant](/nighantu/reference/expectorant/), bronchodilator, anti-inflammatory, [immunomodulatory](/nighantu/reference/immunomodulatory/), and antimicrobial properties.
-- **Mast cell stabilization potential of [Sitopaladi churna](/nighantu/formulation/sitopaladi-churna/): An Ayurvedic formulation** (2021): Aqueous extract (300 mg/kg) and methanolic extract (150-300 mg/kg) showed 65-74% mast cell degranulation protection, comparable to standard drug ketotifen (79%), with statistical significance (P < 0.0001).
-- **Randomized trial of Sitopaladi syrup for cough reduction** (2020): Significant reduction in cough frequency among 60 adult participants receiving Sitopaladi syrup versus placebo (p<0.05), supporting traditional use as antitussive.
-- **Antimicrobial screening of [Sitopaladi Churna](/nighantu/formulation/sitopaladi-churna/)** (2021): Demonstrated moderate antimicrobial activity against Staphylococcus aureus and Streptococcus pneumoniae, common respiratory pathogens, validating traditional use in respiratory infections.
-- **In vitro anti-inflammatory activity of [Sitopaladi Churna](/nighantu/formulation/sitopaladi-churna/) on human lung cell lines** (2022): Extract exhibited 45% inhibition of inflammatory cytokines (TNF-alpha) in human lung cell lines, with piperine from [Pippali](/nighantu/herb/pippali/) enhancing bioavailability of cinnamaldehyde by up to 30%.
+- Makhija IK, Shreedhara CS, Ram HN 2013. [Mast cell stabilization potential of Sitopaladi churna: An ayurvedic formulation](https://pubmed.ncbi.nlm.nih.gov/24174826/). *Pharmacognosy research*. PMID [24174826](https://pubmed.ncbi.nlm.nih.gov/24174826/) · [doi:10.4103/0974-8490.118824](https://doi.org/10.4103/0974-8490.118824)  
+  Aqueous extract (300 mg/kg) and methanolic extract (150-300 mg/kg) showed 65-74% mast cell degranulation protection, comparable to standard drug ketotifen (79%), with statistical significance (P < 0.0001).
+
+*4 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: ["Piper retrofractum Vahl (syn. Piper chaba Hunter)"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 534
+words: 531
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chavya/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chavya/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Bioactive Compounds of Piper chaba and Their Pharmacological Relevance: A Phytochemistry-Focused Review** (2025): Identified over 100 bioactive compounds; chabamides and piplartine show promising therapeutic properties through modulation of cellular redox balance and apoptosis induction in cancer models.
-- **Piperidine Alkaloids from Piper retrofractum Protect Against High-fat Diet-induced Obesity** (2023): Piperidine alkaloids regulated lipid metabolism and activated AMP-activated protein kinase (AMPK), reducing fat accumulation in high-fat diet mouse models.
-- **Utilization and Bioactivity of Java Long Pepper (Piper retrofractum Vahl)** (2021): Documented [antioxidant](/nighantu/reference/antioxidant/), [hepatoprotective](/nighantu/reference/hepatoprotective/), cytotoxic, larvicidal, antitubercular, and anti-obesity properties of multiple phytoconstituent classes.
+- Kim KJ, Lee MS, Jo K and others 2011. [Piperidine alkaloids from Piper retrofractum Vahl. protect against high-fat diet-induced obesity by regulating lipid metabolism and activating AMP-activated protein kinase](https://pubmed.ncbi.nlm.nih.gov/21741367/). *Biochemical and biophysical research communications*. PMID [21741367](https://pubmed.ncbi.nlm.nih.gov/21741367/) · [doi:10.1016/j.bbrc.2011.06.153](https://doi.org/10.1016/j.bbrc.2011.06.153)  
+  Piperidine alkaloids regulated lipid metabolism and activated AMP-activated protein kinase (AMPK), reducing fat accumulation in high-fat diet mouse models.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

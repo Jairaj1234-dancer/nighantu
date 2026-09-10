@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Animal-Derived-Products"
 group: "Aja-Dugdha-Goat-Milk"
-answer: "Aja Dugdha Goat Milk is a substance used in the Ayurvedic materia medica. Usual dose: 100–200 mL twice daily. Bioactive peptides with antioxidant and ACE inhibitory properties in goat milk protein hydrolysates (2025): Peptidomics and molecular docking studies identified novel bioactive peptides in goat milk hydrolysates with significant antioxidant and ACE-inhibitory (antihypertensive) properties."
+answer: "Aja Dugdha Goat Milk is a substance used in the Ayurvedic materia medica. Usual dose: 100–200 mL twice daily. [Bioactive peptides with antioxidant and ACE inhibitory properties in goat milk protein hydrolysates: Peptidomics and molecular docking study](https://pubmed.ncbi.nlm.nih.gov/39863228/)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Aja Dugdha Goat Milk", "AjaDugdhaGoatMilk"]
 tags: ["ayurveda", "animal-product", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 491
+words: 462
 srcRel: "Ayurveda/Others/Animal-Derived-Products/Aja-Dugdha-Goat-Milk/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,10 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Aja-Dugdha-Goat-Milk/meta-analy
 
 ## What do recent clinical trials show?
 
-- **An Insight into Therapeutic and Nutritional Profile of [Aja Dugdha](/nighantu/glossary/concepts-a-m/#aja-dugdha) (Goat's Milk): A Review** (2023): Goat milk possesses [anticancer](/nighantu/reference/anticancer/), [hepatoprotective](/nighantu/reference/hepatoprotective/), [cardioprotective](/nighantu/reference/cardioprotective/), and [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive) effects; its A2 beta-casein does not release BCM-7, making it hypoallergenic and suitable for cow milk protein allergy patients.
-- **Bioactive peptides with [antioxidant](/nighantu/reference/antioxidant/) and ACE inhibitory properties in goat milk protein hydrolysates** (2025): Peptidomics and molecular docking studies identified novel bioactive peptides in goat milk hydrolysates with significant antioxidant and ACE-inhibitory (antihypertensive) properties.
-- **[Aja Dugdha](/nighantu/glossary/concepts-a-m/#aja-dugdha): Bridging Ayurvedic Tradition and Modern Nutrition** (2024): Modern studies confirm goat milk's rich nutrient profile, hypoallergenic properties, and beneficial bioactive components validate its traditional Ayurvedic use as a [Rasayana](/nighantu/reference/rasayana/), particularly in Kumkadi Taila formulation for hyperpigmentation.
+- Zhang W, Abubaker MA, Li Z and others 2025. [Bioactive peptides with antioxidant and ACE inhibitory properties in goat milk protein hydrolysates: Peptidomics and molecular docking study](https://pubmed.ncbi.nlm.nih.gov/39863228/). *International journal of biological macromolecules*. PMID [39863228](https://pubmed.ncbi.nlm.nih.gov/39863228/) · [doi:10.1016/j.ijbiomac.2025.140286](https://doi.org/10.1016/j.ijbiomac.2025.140286)  
+  Peptidomics and molecular docking studies identified novel bioactive peptides in goat milk hydrolysates with significant antioxidant and ACE-inhibitory (antihypertensive) properties.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

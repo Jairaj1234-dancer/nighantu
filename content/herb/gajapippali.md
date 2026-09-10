@@ -16,7 +16,7 @@ aliases: ["Scindapsus officinalis (Roxb.) Schott"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 536
+words: 525
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gajapippali/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gajapippali/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Ethnobotanical and Phytopharmacological Review of Scindapsus officinalis (Gajapippali)** (2017): Comprehensive review identifying scindapsin A and B as unique glycosides; highlighted significant research gaps in phytochemistry and recommended further investigation.
-- **Antioxidant and Anticancer Evaluation of Scindapsus officinalis Fruits** (2012): Methanolic fruit extract showed cytotoxicity against human cancer cell lines; antioxidant effects reflected by decreased LPO and increased SOD and catalase activity.
-- **Scindapsus officinalis Fruit: A Phytochemical and Pharmacological Review** (2015): Documented presence of [tannins](/nighantu/reference/tannins/), saponins, [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids), [steroids](/nighantu/glossary/compounds-q-t/#steroids) in successive extracts and confirmed antioxidant potential from flavonoid and phenolic content.
+- Shivhare SC, Patidar AO, Malviya KG and others 2011. [Antioxidant and anticancer evaluation of Scindapsus officinalis (Roxb.) Schott fruits](https://pubmed.ncbi.nlm.nih.gov/22529657/). *Ayu*. PMID [22529657](https://pubmed.ncbi.nlm.nih.gov/22529657/) · [doi:10.4103/0974-8520.93921](https://doi.org/10.4103/0974-8520.93921)  
+  Methanolic fruit extract showed cytotoxicity against human cancer cell lines; antioxidant effects reflected by decreased LPO and increased SOD and catalase activity.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

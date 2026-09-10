@@ -16,7 +16,7 @@ aliases: ["Baliospermum montanum (Willd.) Muell.-Arg."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 621
+words: 611
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Danti/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Danti/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **A Review on Pharmacological activities and Medicinal properties of Baliospermum montanum** (2023): Comprehensive review documenting anticancer, antimicrobial, antifungal, antioxidant, immunomodulatory, hepatoprotective, [antidiabetic](/nighantu/reference/antidiabetic/), and anti-inflammatory activities across multiple plant parts.
-- **Bioactive compounds guided diversity of endophytic fungi from Baliospermum montanum** (2024): Explored endophytic fungi from B. montanum as sources of bioactive compounds, identifying novel antimicrobial and anticancer metabolites produced by fungal endophytes.
-- **Baliospermum montanum (Danti): Ethnobotany, phytochemistry and pharmacology - A review** (2023): Established quantitative phytochemical profile across plant parts (root, stem, leaf, flower, latex) with highest flavonoid and phenolic content in leaves.
+- Jagannath S, Konappa N, Lokesh A and others 2021. [Bioactive compounds guided diversity of endophytic fungi from Baliospermum montanum and their potential extracellular enzymes](https://pubmed.ncbi.nlm.nih.gov/33245903/). *Analytical biochemistry*. PMID [33245903](https://pubmed.ncbi.nlm.nih.gov/33245903/) · [doi:10.1016/j.ab.2020.114024](https://doi.org/10.1016/j.ab.2020.114024)  
+  Explored endophytic fungi from B. montanum as sources of bioactive compounds, identifying novel antimicrobial and anticancer metabolites produced by fungal endophytes.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

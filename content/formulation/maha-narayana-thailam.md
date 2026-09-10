@@ -16,7 +16,7 @@ aliases: ["Maha Narayana Thailam", "MahaNarayanaThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 591
+words: 525
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Maha-Narayana-Thailam/meta-analysis.md"
 ---
 ## Names and identification
@@ -58,9 +58,9 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa, verses 151-162) by Govind Das Sen. Th
 
 ## What do recent clinical trials show?
 
-- **Clinical efficacy of Mahanarayana Thailam Abhyanga in osteoarthritis of knee** (2018): Published in AYU Journal, the study reported 68% symptom reduction in osteoarthritic knee patients receiving Abhyanga with Mahanarayana Thailam over 21 days of treatment.
-- **Anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) evaluation of Mahanarayana Taila polyherbal formulation** (2020): Pharmacological analysis confirmed the presence of saponins, lignans, and phenolics that exert anti-inflammatory, analgesic, and [antioxidant](/nighantu/reference/antioxidant/) effects through COX-2 inhibition and free radical scavenging pathways.
-- **Transdermal delivery efficacy of Mahanarayana Thailam in joint disorders** (2021): The lipid medium (sneha) of the formulation facilitated superior transdermal delivery of lipophilic phytoconstituents, resulting in higher tissue concentrations of active compounds at joint sites compared to simple oil application.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

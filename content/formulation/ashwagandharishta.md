@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 493
+words: 467
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Ashwagandharishta/meta-analysis.md"
 ---
 ## Names and identification
@@ -59,9 +59,9 @@ Bhavaprakasha (circa 16th century CE) and Sharangadhara Samhita. Described as a 
 
 ## What do recent clinical trials show?
 
-- **Cortisol reduction and stress relief with Ashwagandharishta** (2019): Placebo-controlled study showed significant reduction in cortisol levels and perceived stress scores after 8 weeks of daily dosing.
-- **Ashwagandharishta in chronic fatigue syndrome** (2020): Randomized trial (n=80) reported significant improvement in fatigue severity scores after 12 weeks of 12 ml twice-daily dosing.
-- **Ashwagandharishta as adjuvant in dengue convalescence** (2021): Small clinical trial showed 68% faster convalescence in dengue patients supplemented with Ashwagandharishta.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: ["Pinda Thailam", "PindaThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 554
+words: 492
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Pinda-Thailam/meta-analysis.md"
 ---
 ## Names and identification
@@ -52,9 +52,9 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa); also referenced in Sahasrayogam. A s
 
 ## What do recent clinical trials show?
 
-- **Clinical evaluation of Pinda Taila in osteoarthritis of knee** (2017): Published in Journal of Ayurveda & Integrative Medicine, the oil-based method demonstrated superior pain score reduction in osteoarthritis knees compared to conventional therapy.
-- **[Pinda Thailam](/nighantu/formulation/pinda-thailam/) in post-stroke hemiparetic patients** (2019): A randomized control study in Ayurvedic Research Journal demonstrated improved muscle strength in post-stroke hemiparetic patients after 12 sessions of oil poultice (Pinda Sveda) therapy versus exercise-only group.
-- **Phytochemical analysis of [Pinda Thailam](/nighantu/formulation/pinda-thailam/) fatty acid and phytosterol profile** (2020): In-vitro analyses confirmed high levels of oleic and linoleic fatty acids, plus phytosterols, all contributing to measurable reduction in inflammatory markers in tissue culture models.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

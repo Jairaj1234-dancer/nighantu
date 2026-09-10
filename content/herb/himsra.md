@@ -16,7 +16,7 @@ aliases: ["Capparis spinosa L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 560
+words: 585
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Himsra/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Himsra/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Capparis spinosa: A rich source of phenolic compounds - comprehensive review of phytochemistry, health benefits, and biotechnological applications** (2024): Comprehensive review establishing caper as a rich source of phenolic compounds with documented antioxidant, anti-inflammatory, hepatoprotective, and neuroprotective properties.
-- **Capparis L. (Capparaceae): A Scoping Review of Phytochemistry, Ethnopharmacology and Pharmacological Activities** (2025): Scoping review covering the entire genus documenting the diversity of bioactive compounds and their validated pharmacological activities including antidiabetic and [anticancer](/nighantu/reference/anticancer/) potential.
-- **Caper bush adaptation to harsh soils: bioactive compounds and antioxidant capacity** (2025): Demonstrated that caper plants adapted to harsh soil conditions maintain high levels of bioactive compounds including [glucosinolates](/nighantu/glossary/compounds-d-g/#glucosinolates), phenolics, and flavonoids with strong antioxidant capacity.
+- Alsharif B, Boylan F 2025. [Capparis L. (Capparaceae): A Scoping Review of Phytochemistry, Ethnopharmacology and Pharmacological Activities](https://pubmed.ncbi.nlm.nih.gov/41011598/). *Molecules (Basel, Switzerland)*. PMID [41011598](https://pubmed.ncbi.nlm.nih.gov/41011598/) · [doi:10.3390/molecules30183705](https://doi.org/10.3390/molecules30183705)  
+  Scoping review covering the entire genus documenting the diversity of bioactive compounds and their validated pharmacological activities including antidiabetic and [anticancer](/nighantu/reference/anticancer/) potential.
+- Yousefi E, Abedi M, Aghajanzadeh TA and others 2025. [Caper bush (Capparis spinosa L.) bioactive compounds and antioxidant capacity as affected by adaptation to harsh soils](https://pubmed.ncbi.nlm.nih.gov/40195406/). *Scientific reports*. PMID [40195406](https://pubmed.ncbi.nlm.nih.gov/40195406/) · [doi:10.1038/s41598-025-97298-4](https://doi.org/10.1038/s41598-025-97298-4)  
+  Demonstrated that caper plants adapted to harsh soil conditions maintain high levels of bioactive compounds including [glucosinolates](/nighantu/glossary/compounds-d-g/#glucosinolates), phenolics, and flavonoids with strong antioxidant capacity.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

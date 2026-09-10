@@ -16,7 +16,7 @@ aliases: ["Santalum album L."]
 tags: ["ayurveda", "herb", "single-herb", "skin-beauty", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 698
+words: 655
 srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Chandana/meta-analysis.md"
 ---
 ## Names and identification
@@ -52,9 +52,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Chandana/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Antioxidant and Anti-Aging Potential of Indian Sandalwood Oil against Environmental Stressors In Vitro and Ex Vivo** (2021): Indian sandalwood oil demonstrated protective and anti-aging effects by scavenging reactive oxygen species (ROS) in skin cells and human skin explants, and inhibited pollutant-induced MMP-1 (collagenase) expression relevant to preventing skin aging.
-- **Sandalwood Album Oil as a Botanical Therapeutic in Dermatology** (2017): Clinical trials demonstrated sandalwood album oil efficacy in treating acne, psoriasis, eczema, common warts, and molluscum contagiosum through anti-inflammatory, antimicrobial, and anti-proliferative mechanisms.
-- **Santalwood biofunctional AI-designed sandalwood extract for anti-aging** (2024): An AI-optimized Santalum album extract was developed as a biofunctional ingredient to defy skin aging, transforming dull skin appearance to vibrant and glowing through targeted bioactive compound selection.
+- Moy RL, Levenson C 2017. [Sandalwood Album Oil as a Botanical Therapeutic in Dermatology](https://pubmed.ncbi.nlm.nih.gov/29344319/). *The Journal of clinical and aesthetic dermatology*. PMID [29344319](https://pubmed.ncbi.nlm.nih.gov/29344319/)  
+  Clinical trials demonstrated sandalwood album oil efficacy in treating acne, psoriasis, eczema, common warts, and molluscum contagiosum through anti-inflammatory, antimicrobial, and anti-proliferative mechanisms.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

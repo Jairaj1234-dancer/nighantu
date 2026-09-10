@@ -16,7 +16,7 @@ aliases: ["Curcuma longa L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 753
+words: 804
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Haridra/meta-analysis.md"
 ---
 ## Names and identification
@@ -52,10 +52,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Haridra/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Advancements in Dermatological Applications of [Curcumin](/nighantu/herb/curcumin/): Clinical Efficacy and Mechanistic Insights** (2024): Comprehensive review demonstrated [curcumin](/nighantu/herb/curcumin/)'s significant potential for atopic dermatitis, psoriasis, chronic wounds, skin cancer, and infections through anti-inflammatory, antioxidant, [anticancer](/nighantu/reference/anticancer/), and antimicrobial mechanisms with improved PASI scores in psoriasis patients.
-- **A Scoping Review of Clinical Trials on the Efficacy of [Curcumin](/nighantu/herb/curcumin/) and Its Formulations for Wound Healing** (2025): Scoping review of clinical trials confirmed curcumin reduces wound healing times, improves collagen deposition, increases fibroblast and vascular density in wounds, supporting its use as a wound healing agent.
-- **Curcumin: A Potential Anti-Photoaging Agent** (2025): Curcumin prevents ultraviolet radiation-induced skin photoaging by inhibiting melanin production, reducing wrinkles, providing antioxidant protection, and suppressing inflammatory responses through multiple molecular targets.
-- **Curcumin microemulgel for plaque psoriasis treatment: clinical trial** (2024): A randomized, double-blind, placebo-controlled trial demonstrated that 0.5% curcumin microemulgel significantly improved plaque psoriasis symptoms and quality of life with topical application.
+- Mo Z, Yuan J, Guan X and others 2024. [Advancements in Dermatological Applications of Curcumin: Clinical Efficacy and Mechanistic Insights in the Management of Skin Disorders](https://pubmed.ncbi.nlm.nih.gov/38765192/). *Clinical, cosmetic and investigational dermatology*. PMID [38765192](https://pubmed.ncbi.nlm.nih.gov/38765192/) · [doi:10.2147/CCID.S467442](https://doi.org/10.2147/CCID.S467442)  
+  Comprehensive review demonstrated [curcumin](/nighantu/herb/curcumin/)'s significant potential for atopic dermatitis, psoriasis, chronic wounds, skin cancer, and infections through anti-inflammatory, antioxidant, [anticancer](/nighantu/reference/anticancer/), and antimicrobial mechanisms with improved PASI scores in psoriasis patients.
+- Parvizi MM, Arefkia A, Dehghan Y and others 2025. [A Scoping Review of Clinical Trials on the Efficacy of Curcumin and Its Formulations for Wound Healing](https://pubmed.ncbi.nlm.nih.gov/41388841/). *Journal of cosmetic dermatology*. PMID [41388841](https://pubmed.ncbi.nlm.nih.gov/41388841/) · [doi:10.1111/jocd.70615](https://doi.org/10.1111/jocd.70615)  
+  Scoping review of clinical trials confirmed curcumin reduces wound healing times, improves collagen deposition, increases fibroblast and vascular density in wounds, supporting its use as a wound healing agent.
+- Nie Y, Li Y 2025. [Curcumin: a potential anti-photoaging agent](https://pubmed.ncbi.nlm.nih.gov/40395726/). *Frontiers in pharmacology*. PMID [40395726](https://pubmed.ncbi.nlm.nih.gov/40395726/) · [doi:10.3389/fphar.2025.1559032](https://doi.org/10.3389/fphar.2025.1559032)  
+  Curcumin prevents ultraviolet radiation-induced skin photoaging by inhibiting melanin production, reducing wrinkles, providing antioxidant protection, and suppressing inflammatory responses through multiple molecular targets.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

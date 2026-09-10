@@ -16,7 +16,7 @@ aliases: ["Plumbago zeylanica L."]
 tags: ["ayurveda", "herb", "single-herb", "digestive-health", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 661
+words: 653
 srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Chitrak/meta-analysis.md"
 ---
 ## Names and identification
@@ -55,10 +55,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Chitrak/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Phytochemistry and pharmacological studies of Plumbago zeylanica L.: a medicinal plant review** (2021): Comprehensive review documenting broad pharmacological activities including antibacterial, antifungal, anti-inflammatory, [antidiabetic](/nighantu/reference/antidiabetic/), anticancer, antioxidant, hepatoprotective, cytotoxic, and wound healing properties of P. zeylanica.
-- **Standard operating procedure of Purification of Chitraka (Plumbago zeylanica Linn.) along with pharmacognostical and analytical profiles of Plumbagin** (2021): Established SOPs for traditional Shodhana (purification) of Chitrak root, with analytical profiling confirming plumbagin retention after purification. Purification process reduces toxicity while preserving therapeutic activity.
-- **Different Derivatives of Plumbagin Analogue: Bioavailability and Their Toxicity Studies** (2025): Investigated plumbagin derivatives to address poor bioavailability due to low solubility and metabolic instability. Novel analogues showed improved pharmacokinetic profiles with reduced toxicity compared to parent compound.
-- **Anticancer and anti-inflammatory mechanisms of plumbagin: NF-kB pathway studies** (2022): Plumbagin inhibits NF-kB-regulated gene transcription of proinflammatory cytokines including IFN-gamma, IL-6, and inducible nitric oxide synthase. Demonstrated anti-cancer, anti-proliferative, chemopreventive, and anti-metastatic activities.
+- Bhinde SS, Ravi AK, Patgiri BJ and others 2020. [Standard operating procedure of Purification of Chitraka (Plumbago zeylanica Linn.) along with pharmacognostical and analytical profiles of Plumbagin](https://pubmed.ncbi.nlm.nih.gov/34908796/). *Ayu*. PMID [34908796](https://pubmed.ncbi.nlm.nih.gov/34908796/) · [doi:10.4103/ayu.AYU_299_20](https://doi.org/10.4103/ayu.AYU_299_20)  
+  Established SOPs for traditional Shodhana (purification) of Chitrak root, with analytical profiling confirming plumbagin retention after purification. Purification process reduces toxicity while preserving therapeutic activity.
+- Thekkumkara S, Longchar A, Venkidasamy B and others 2025. [Different Derivatives of Plumbagin Analogue: Bioavailability and Their Toxicity Studies](https://pubmed.ncbi.nlm.nih.gov/40842665/). *Food science & nutrition*. PMID [40842665](https://pubmed.ncbi.nlm.nih.gov/40842665/) · [doi:10.1002/fsn3.70720](https://doi.org/10.1002/fsn3.70720)  
+  Investigated plumbagin derivatives to address poor bioavailability due to low solubility and metabolic instability. Novel analogues showed improved pharmacokinetic profiles with reduced toxicity compared to parent compound.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

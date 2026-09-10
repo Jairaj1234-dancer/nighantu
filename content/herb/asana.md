@@ -16,7 +16,7 @@ aliases: ["Pterocarpus marsupium Roxb."]
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 620
+words: 607
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Asana/meta-analysis.md"
 ---
 ## Names and identification
@@ -57,9 +57,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Asana/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Validation of Antidiabetic Potential of Pterocarpus marsupium: An In Silico Approach** (2025): In silico molecular docking of 7 isolated heartwood compounds with 10 antidiabetic macromolecular targets confirmed epicatechin and [pterostilbene](/nighantu/glossary/compounds-o-q/#pterostilbene) as potent PTP1B and alpha-amylase inhibitors.
-- **Therapeutic Potential of Pterocarpus marsupium: From Traditional Medicine to Modern Pharmacological Applications with Its Phytochemistry** (2024): Confirmed cardioprotective, anti-inflammatory, antibacterial, antioxidant and antidiabetic properties; epicatechin demonstrated beta-cell regeneration and insulin secretion enhancement.
-- **In Silico Analysis of PTP1B Inhibitors and TLC-MS Bioautography of Heartwood Extract of Pterocarpus marsupium** (2023): Identified [pterostilbene](/nighantu/glossary/compounds-o-q/#pterostilbene) and epicatechin as specific PTP1B inhibitors and alpha-amylase inhibitors through bioautography-guided isolation and molecular docking.
+- Irfan Dar M, Qureshi MI, Zahiruddin S and others 2022. [In Silico Analysis of PTP1B Inhibitors and TLC-MS Bioautography-Based Identification of Free Radical Scavenging and α-Amylase Inhibitory Compounds from Heartwood Extract of Pterocarpus marsupium](https://pubmed.ncbi.nlm.nih.gov/36570189/). *ACS omega*. PMID [36570189](https://pubmed.ncbi.nlm.nih.gov/36570189/) · [doi:10.1021/acsomega.2c04283](https://doi.org/10.1021/acsomega.2c04283)  
+  Identified [pterostilbene](/nighantu/glossary/compounds-o-q/#pterostilbene) and epicatechin as specific PTP1B inhibitors and alpha-amylase inhibitors through bioautography-guided isolation and molecular docking.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

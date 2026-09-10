@@ -16,7 +16,7 @@ aliases: ["Acacia nilotica (L.) Delile (syn. Vachellia nilotica)"]
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 659
+words: 637
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Babbula/meta-analysis.md"
 ---
 ## Names and identification
@@ -57,9 +57,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Babbula/meta-analysis.md
 
 ## What do recent clinical trials show?
 
-- **A comprehensive review on the chemical composition and pharmacological activities of Acacia arabica** (2024): Identified [tannins](/nighantu/reference/tannins/), [flavonoids](/nighantu/reference/flavonoids/), [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids), fatty acids and [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides) as major phytoconstituent classes with confirmed anti-inflammatory, [antioxidant](/nighantu/reference/antioxidant/), antidiarrheal, [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive), antibacterial and [anticancer](/nighantu/reference/anticancer/) activities.
-- **Bioactive Compounds, Pharmacological Actions, and Pharmacokinetics of Genus Acacia** (2023): Genus Acacia compounds showed potent acetylcholinesterase inhibitory activity alongside antimicrobial, antidiabetic and gastroprotective effects in preclinical models.
-- **Medicinal properties of different parts of Acacia nilotica (Babul), its phytoconstituents and diverse pharmacological activities** (2024): Documented antiplatelet aggregatory, molluscicidal, antimutagenic and [hepatoprotective](/nighantu/reference/hepatoprotective/) activities in addition to established antimicrobial and anti-inflammatory effects.
+- Batiha GE, Akhtar N, Alsayegh AA and others 2022. [Bioactive Compounds, Pharmacological Actions, and Pharmacokinetics of Genus Acacia](https://pubmed.ncbi.nlm.nih.gov/36364163/). *Molecules (Basel, Switzerland)*. PMID [36364163](https://pubmed.ncbi.nlm.nih.gov/36364163/) · [doi:10.3390/molecules27217340](https://doi.org/10.3390/molecules27217340)  
+  Genus Acacia compounds showed potent acetylcholinesterase inhibitory activity alongside antimicrobial, antidiabetic and gastroprotective effects in preclinical models.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

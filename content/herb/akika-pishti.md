@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Pishtis"
-answer: "Akika Pishti is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg twice daily. The non-toxic nature and compatibility with long-term use under qualified supervision make Akik Pishti a relatively safe mineral-based remedy."
+answer: "Akika Pishti is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg twice daily. An absence here means we could not identify the source, not that no work exists."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Akika Pishti", "AkikaPishti"]
 tags: ["ayurveda", "pishti", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 458
+words: 389
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Akika-Pishti/meta-analysis.md"
 ---
 ## Names and identification
@@ -38,8 +38,9 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Akika-Pishti/meta-an
 
 ## What do recent clinical trials show?
 
-- **Akik Pishti analytical and safety review** (2020): Akik Bhasma/Pishti contains rich amounts of silicon dioxide, which is classified as safe when ingested orally. The non-toxic nature and compatibility with long-term use under qualified supervision make Akik Pishti a relatively safe mineral-based remedy. However, inhalation must be strictly avoided as it can cause silicosis.
-- **Review on Pishti Kalpana in Ayurveda (comprehensive review including Akik Pishti)** (2022): Recent scientific interest in Pishti preparations has surged due to microfine particle size and rapid absorption potential, positioning them within the emerging domain of traditional nanomedicine. However, high-quality clinical trials on Akik Pishti are scarce.
+
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: ["Cuminum cyminum L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 618
+words: 592
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jeeraka/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jeeraka/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Exploring the therapeutic potentials of cuminaldehyde: a comprehensive review of biological activities, mechanisms, and novel delivery systems** (2025): Comprehensive review documenting cuminaldehyde's anti-microbial, anti-neurodegenerative, anti-inflammatory, anti-cancer, anti-diabetic, anti-obesity, and anti-parasitic effects, with novel delivery system development.
-- **Chemical composition, biological activities, uses, nutritional and mineral contents of [cumin](/nighantu/herb/cumin/) (Cuminum cyminum)** (2024): Detailed analysis of [cumin](/nighantu/herb/cumin/)'s chemical composition including essential oils, flavonoids, phenolic compounds, and mineral content, with documentation of diverse biological activities.
-- **A review on traditional uses, phytochemistry, pharmacology, and clinical research of dietary spice Cuminum cyminum L.** (2021): Comprehensive clinical and preclinical evidence review documenting [cumin](/nighantu/herb/cumin/)'s efficacy in metabolic disorders, diabetes management, hyperlipidemia, and weight management.
+- Singh N, Yadav SS, Kumar S and others 2021. [A review on traditional uses, phytochemistry, pharmacology, and clinical research of dietary spice Cuminum cyminum L](https://pubmed.ncbi.nlm.nih.gov/33893678/). *Phytotherapy research : PTR*. PMID [33893678](https://pubmed.ncbi.nlm.nih.gov/33893678/) · [doi:10.1002/ptr.7133](https://doi.org/10.1002/ptr.7133)  
+  Comprehensive clinical and preclinical evidence review documenting [cumin](/nighantu/herb/cumin/)'s efficacy in metabolic disorders, diabetes management, hyperlipidemia, and weight management.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

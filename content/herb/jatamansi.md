@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "brain-nervous-system", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "PubMed / NCBI (325 publications)", "AgeAyurveda Product Catalog", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: ["Natural Sleep Aid"]
-words: 1845
+words: 1781
 srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Jatamansi/meta-analysis.md"
 ---
 ## Names and identification
@@ -124,12 +124,14 @@ RESULTS: Both NJ-1A and Nar could significantly suppress LPS-induced production 
 
 ## What do recent clinical trials show?
 
-- **Efficacy of Nardostachys jatamansi (D.Don) DC in post stroke depression: A randomized, double blind, controlled trial** (2023): N. jatamansi was effective in managing post-stroke depression without adverse effects. After 6 weeks, statistically significant reductions in HDRS17 score and SF-36 (p < 0.001) were observed, while control group showed no significant difference (P = 0.108 and 0.29).
-- **Efficacy of Nardostachys Jatamansi DC as an Adjuvant to Escitalopram in the Treatment of Major Depressive Disorder - A randomized double-blind placebo-controlled study** (2025): Randomized double-blind placebo-controlled study demonstrated that N. jatamansi DC is effective as an adjuvant to escitalopram in treating major depressive disorder, suggesting compatibility with conventional antidepressant medications.
-- **Comparative Study of Efficacy of Jatamansi and Imipramine in Generalized Anxiety Disorder (G.A.D.): A Randomized Controlled Double Blind Clinical Trial** (2022): Preclinical and clinical studies demonstrated anxiolytic activity of Jatamansi comparable to imipramine in generalized anxiety disorder, supporting its traditional use in neuropsychiatric conditions.
-- **Computational-experimental integration identifies potent carbohydrate-hydrolyzing enzyme inhibitors from Nardostachys jatamansi** (2025): Methanolic extract exhibited superior dual enzyme inhibitory activity against both alpha-glucosidase and alpha-amylase, surpassing clinical standard acarbose, with preferential alpha-glucosidase selectivity and distinctive sigmoidal dose-response kinetics.
-- **Multifaceted Computational Approach to Explore Nardostachys Jatamansi Neuroprotective Phytochemicals as Potential MAO-B Inhibitors for Parkinson's Disease** (2024): Phytochemicals jatamansinone, eselin, and jatamansinol exhibited strong binding affinities with MAO-B comparable to reference inhibitor safinamide, effectively occupying the active site and interacting with key residues such as Tyr326.
-- **Antidepressant activities and regulative effects on serotonin transporter of Nardostachys jatamansi DC** (2021): N. jatamansi extract regulates serotonin transporter function, contributing to its antidepressant mechanism. Acute administration significantly increased serotonin (5-HT) and 5-HIAA levels; 15-day treatment increased serotonin and other monoamines.
+- Jismi VS, Ramakrishna KK, Mehta UM and others 2025. [Efficacy of Nardostachys Jatamansi DC as an adjuvant to escitalopram in the treatment of major depressive disorder - A randomized double-blind placebo-controlled study](https://pubmed.ncbi.nlm.nih.gov/40651126/). *Asian journal of psychiatry*. PMID [40651126](https://pubmed.ncbi.nlm.nih.gov/40651126/) · [doi:10.1016/j.ajp.2025.104611](https://doi.org/10.1016/j.ajp.2025.104611)  
+  Randomized double-blind placebo-controlled study demonstrated that N. jatamansi DC is effective as an adjuvant to escitalopram in treating major depressive disorder, suggesting compatibility with conventional antidepressant medications.
+- Iqbal MJ, Malik I, Bernal G and others 2025. [Computational-experimental integration identifies potent carbohydrate-hydrolyzing enzyme inhibitors from Nardostachys jatamansi: molecular docking, dynamics and pharmacokinetic predictions](https://pubmed.ncbi.nlm.nih.gov/41601970/). *Frontiers in pharmacology*. PMID [41601970](https://pubmed.ncbi.nlm.nih.gov/41601970/) · [doi:10.3389/fphar.2025.1713452](https://doi.org/10.3389/fphar.2025.1713452)  
+  Methanolic extract exhibited superior dual enzyme inhibitory activity against both alpha-glucosidase and alpha-amylase, surpassing clinical standard acarbose, with preferential alpha-glucosidase selectivity and distinctive sigmoidal dose-response kinetics.
+- Li R, Wang ZM, Wang Y and others 2021. [Antidepressant activities and regulative effects on serotonin transporter of Nardostachys jatamansi DC](https://pubmed.ncbi.nlm.nih.gov/33220358/). *Journal of ethnopharmacology*. PMID [33220358](https://pubmed.ncbi.nlm.nih.gov/33220358/) · [doi:10.1016/j.jep.2020.113601](https://doi.org/10.1016/j.jep.2020.113601)  
+  N. jatamansi extract regulates serotonin transporter function, contributing to its antidepressant mechanism. Acute administration significantly increased serotonin (5-HT) and 5-HIAA levels; 15-day treatment increased serotonin and other monoamines.
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

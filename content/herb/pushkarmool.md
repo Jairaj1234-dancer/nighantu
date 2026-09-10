@@ -16,7 +16,7 @@ aliases: ["Inula racemosa Hook. f."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 568
+words: 566
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Pushkarmool/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Pushkarmool/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Inula racemosa Hook. f. Pushkarmool: Its Ethnobotanical Uses, Phytochemicals, and Pharmacological Activities** (2023): Comprehensive review documenting 67 isolated compounds mostly [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids); demonstrated anticancer, antiproliferative, antiplatelet, [antidiabetic](/nighantu/reference/antidiabetic/), and cardioprotective activities.
-- **Ethnopharmacology, Phytochemistry, Agrotechnology, and Conservation of Inula racemosa** (2021): Documented critically endangered status and proposed agrotechnology protocols; confirmed broad spectrum of anti-inflammatory, [antimicrobial](/nighantu/reference/antimicrobial/), and [hepatoprotective](/nighantu/reference/hepatoprotective/) activities.
-- **A Comprehensive Review on the Ethnopharmacological Potential of Inula racemosa** (2024): Confirmed potential in addressing respiratory disorders, cardiovascular diseases, and inflammatory ailments; alantolactone and isoalantolactone identified as primary bioactive sesquiterpene lactones.
+- Rathore S, Raj Y, Debnath P and others 2022. [Ethnopharmacology, phytochemistry, agrotechnology, and conservation of Inula racemosa Hook f. - A critically endangered medicinal plant of the western Himalaya](https://pubmed.ncbi.nlm.nih.gov/34600078/). *Journal of ethnopharmacology*. PMID [34600078](https://pubmed.ncbi.nlm.nih.gov/34600078/) · [doi:10.1016/j.jep.2021.114613](https://doi.org/10.1016/j.jep.2021.114613)  
+  Documented critically endangered status and proposed agrotechnology protocols; confirmed broad spectrum of anti-inflammatory, [antimicrobial](/nighantu/reference/antimicrobial/), and [hepatoprotective](/nighantu/reference/hepatoprotective/) activities.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Rasa-Shastra-Alchemical-Preparations"
 group: "Swarna-Vasant-Malti-Ras"
-answer: "Swarna Vasant Malti Ras is a substance used in the Ayurvedic materia medica. Usual dose: 125 mg once or twice daily. Gold was found in plasma, erythrocytes, and semen."
+answer: "Swarna Vasant Malti Ras is a substance used in the Ayurvedic materia medica. Usual dose: 125 mg once or twice daily. [Evaluation of safety and efficacy of a gold containing Ayurvedic drug](https://pubmed.ncbi.nlm.nih.gov/11831371/)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Swarna Vasant Malti Ras", "SwarnaVasantMaltiRas"]
 tags: ["ayurveda", "rasa-shastra", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 464
+words: 455
 srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Swarna-Vasant-Malti-Ras/meta-analysis.md"
 ---
 ## Names and identification
@@ -38,8 +38,10 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Swarna-Vasant-Malt
 
 ## What do recent clinical trials show?
 
-- **Evaluation of safety and efficacy of a gold containing Ayurvedic drug ([Swarna Vasant Malti Ras](/nighantu/herb/swarna-vasant-malti-ras/))** (2002): 20 male individuals taking 100 mg twice daily for 40 days (cumulative gold intake: 160 mg at 4 mg/day) showed no toxic effects based on clinical examination, unaltered body weight, absence of urinary pathology, and 30 sensitive biochemical and enzymatic tests. Gold was found in plasma, erythrocytes, and semen.
-- **Pharmacological and toxicological insights into the ayurvedic formulation Rasasindura (relevant [mercury-sulfide](/nighantu/glossary/compounds-l-o/#mercury-sulfide) compound studies)** (2025): Purified mercury-containing Ayurvedic preparations are safe at therapeutic concentrations when administered using a suitable vehicle; the Shodhana process converts mercury to an insoluble HgS form with reduced bioavailability, though higher concentrations could cause neurological toxicity.
+- Sharma DC, Jha J, Sharma P and others 2001. [Evaluation of safety and efficacy of a gold containing Ayurvedic drug](https://pubmed.ncbi.nlm.nih.gov/11831371/). *Indian journal of experimental biology*. PMID [11831371](https://pubmed.ncbi.nlm.nih.gov/11831371/)  
+  20 male individuals taking 100 mg twice daily for 40 days (cumulative gold intake: 160 mg at 4 mg/day) showed no toxic effects based on clinical examination, unaltered body weight, absence of urinary pathology, and 30 sensitive biochemical and enzymatic tests. Gold was found in plasma, erythrocytes, and semen.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

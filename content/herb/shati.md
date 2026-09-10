@@ -16,7 +16,7 @@ aliases: ["Hedychium spicatum Buch.-Ham. ex Sm."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 551
+words: 497
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shati/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shati/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Hedychium spicatum (Shati): A Comprehensive Review of its Pharmacological Activities and Phytochemical Constituents** (2025): Comprehensive review establishing the complete pharmacological profile including anti-inflammatory, [antimicrobial](/nighantu/reference/antimicrobial/), hepatoprotective, [antidiabetic](/nighantu/reference/antidiabetic/), pediculicidal, and anthelmintic activities.
-- **Standardisation and Antimicrobial Activity of Hedychium spicatum (Shati)** (2024): Established standardization parameters for rhizome preparations; hydroalcoholic extracts demonstrated significant antimicrobial activity against all tested fungi and bacteria.
-- **Hedychium spicatum: comprehensive insight into ethnobotany, phytochemistry, pharmacological and therapeutic attributes** (2024): Detailed review documenting terpenoid-rich phytochemistry with validated traditional uses including respiratory, anti-inflammatory, and CNS-depressant activities.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

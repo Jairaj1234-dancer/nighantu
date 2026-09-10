@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Bhasmas"
-answer: "Kanmad Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg. Crystal Structure and Magnetic Property Studies on Nanocrystalline Lauh (Iron) Bhasma (2017): Confirmed nanocrystalline form with both magnetic and luminescence properties."
+answer: "Kanmad Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg. [Structural investigation of Ayurveda Lauha (Iron) Bhasma](https://pubmed.ncbi.nlm.nih.gov/36822148/). Journal of Ayurveda and integrative medicine. 2 further claims previously listed here could not be traced to a published paper and have been removed."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Kanmad Bhasma", "KanmadBhasma"]
 tags: ["ayurveda", "bhasma", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 458
+words: 424
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kanmad-Bhasma/meta-analysis.md"
 ---
 ## Names and identification
@@ -48,9 +48,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kanmad-Bhasma/meta-a
 
 ## What do recent clinical trials show?
 
-- **Structural investigation of Ayurveda Lauha (Iron) Bhasma - magnetic property studies** (2023): Lauha Bhasma from magnetite has great potential for noninvasive localized target killing of cancer cells via necrosis by application of alternating external magnetic field or photoelectron generation through X-rays.
-- **Crystal Structure and Magnetic Property Studies on Nanocrystalline Lauh (Iron) Bhasma** (2017): Confirmed nanocrystalline form with both magnetic and luminescence properties. Can be employed as magnetic material for various technological applications beyond traditional medicine.
-- **A Review on Kanta Loha (Magnetite) - Comprehensive literature analysis** (2022): Kanta Loha is the best variety of iron per Rasa Shastra texts. Must contain at least 60% iron and not exceed specified heavy metal limits. Effective against anemia, diabetes, and chronic fevers.
+- Tiwari MK, Singh A, Khooha A and others 2023. [Structural investigation of Ayurveda Lauha (Iron) Bhasma](https://pubmed.ncbi.nlm.nih.gov/36822148/). *Journal of Ayurveda and integrative medicine*. PMID [36822148](https://pubmed.ncbi.nlm.nih.gov/36822148/) · [doi:10.1016/j.jaim.2023.100690](https://doi.org/10.1016/j.jaim.2023.100690)  
+  Lauha Bhasma from magnetite has great potential for noninvasive localized target killing of cancer cells via necrosis by application of alternating external magnetic field or photoelectron generation through X-rays.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

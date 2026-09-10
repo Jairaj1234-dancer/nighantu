@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 502
+words: 461
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Arjunarishta/meta-analysis.md"
 ---
 ## Names and identification
@@ -55,9 +55,9 @@ Charaka Samhita (1st-2nd century CE) and Sushruta Samhita (3rd-4th century CE), 
 
 ## What do recent clinical trials show?
 
-- **Cardioprotective effects of Terminalia [arjuna](/nighantu/herb/arjuna/) extract post-ischemia** (2019): Study in Journal of Ethnopharmacology showed [Arjuna](/nighantu/herb/arjuna/) bark extract reduces cardiac cell damage in post-ischemic models through antioxidant and membrane-stabilizing effects.
-- **HPLC Analysis and Standardization of Arjunarishta** (2020): Developed HPLC-PDA method for standardization using ellagic acid, gallic acid, ethyl gallate, [quercetin](/nighantu/reference/quercetinquercetin/), and kaempferol as marker compounds, confirming antioxidant profile.
-- **Cardiac remodeling and antiarrhythmic effects of [Arjuna](/nighantu/herb/arjuna/) bark extracts** (2021): Animal model studies showed reduced left ventricle hypertrophy and antiarrhythmic potential through stabilizing effects on myocardial calcium channels.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

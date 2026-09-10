@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Bhasmas"
-answer: "Swarna Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 15–30 mg (premium preparation — precise dosing). Gold nanoparticles in Swarna Bhasma exhibited superior cellular internalization compared to chemically synthesized gold nanoparticles."
+answer: "Swarna Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 15–30 mg (premium preparation — precise dosing). [Enhanced Internalization of Indian Ayurvedic Swarna Bhasma (Gold Nanopowder) for Effective Interaction with Human Cells](https://pubmed.ncbi.nlm.nih.gov/29954495/)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Swarna Bhasma", "SwarnaBhasma"]
 tags: ["ayurveda", "bhasma", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 733
+words: 705
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Swarna-Bhasma/meta-analysis.md"
 ---
 ## Names and identification
@@ -50,10 +50,12 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Swarna-Bhasma/meta-a
 
 ## What do recent clinical trials show?
 
-- **Enhanced Internalization of Indian Ayurvedic [Swarna Bhasma](/nighantu/herb/swarna-bhasma/) (Gold Nanopowder) for Effective Interaction with Human Cells** (2018): Gold ash particles showed no impact on cellular viability of HeLa and HFF-1 cells even at high concentrations or long incubation times. Gold nanoparticles in [Swarna Bhasma](/nighantu/herb/swarna-bhasma/) exhibited superior cellular internalization compared to chemically synthesized gold nanoparticles.
-- **Physicochemical characterization of Suvarna Bhasma, its toxicity profiling in rat and behavioural assessment in zebrafish model** (2020): Comprehensive toxicity profiling found [Swarna Bhasma](/nighantu/herb/swarna-bhasma/) safe at therapeutic and higher dose levels in rats. Zebrafish behavioral models showed no neurotoxic effects. Physicochemical analysis confirmed nano-particulate gold composition.
-- **[Swarna Bhasma](/nighantu/herb/swarna-bhasma/) as a Nanomedicine in Ayurveda: A Comprehensive Review on its Efficacy in Remediation of Rheumatoid Arthritis** (2024): Nano-sized gold particles possess anti-inflammatory and [immunomodulatory](/nighantu/reference/immunomodulatory/) effects, influencing NF-kB signaling pathways associated with autoimmunity. Demonstrated potential as therapeutic intervention for rheumatoid arthritis through regulation of T cells and macrophages.
-- **Toxicity Study of [Swarna Bhasma](/nighantu/herb/swarna-bhasma/) in Wistar Rats** (2017): [Swarna Bhasma](/nighantu/herb/swarna-bhasma/) found safe at all tested dose levels (3-30 mg/kg for 90 days) with no significant treatment-related clinical signs. No major alterations in histopathological evaluation of major organs.
+- Kashani AS, Kuruvinashetti K, Beauet D and others 2018. [Enhanced Internalization of Indian Ayurvedic Swarna Bhasma (Gold Nanopowder) for Effective Interaction with Human Cells](https://pubmed.ncbi.nlm.nih.gov/29954495/). *Journal of nanoscience and nanotechnology*. PMID [29954495](https://pubmed.ncbi.nlm.nih.gov/29954495/) · [doi:10.1166/jnn.2018.15503](https://doi.org/10.1166/jnn.2018.15503)  
+  Gold ash particles showed no impact on cellular viability of HeLa and HFF-1 cells even at high concentrations or long incubation times. Gold nanoparticles in [Swarna Bhasma](/nighantu/herb/swarna-bhasma/) exhibited superior cellular internalization compared to chemically synthesized gold nanoparticles.
+- Biswas S, Dhumal R, Selkar N and others 2020. [Physicochemical characterization of Suvarna Bhasma, its toxicity profiling in rat and behavioural assessment in zebrafish model](https://pubmed.ncbi.nlm.nih.gov/31730889/). *Journal of ethnopharmacology*. PMID [31730889](https://pubmed.ncbi.nlm.nih.gov/31730889/) · [doi:10.1016/j.jep.2019.112388](https://doi.org/10.1016/j.jep.2019.112388)  
+  Comprehensive toxicity profiling found [Swarna Bhasma](/nighantu/herb/swarna-bhasma/) safe at therapeutic and higher dose levels in rats. Zebrafish behavioral models showed no neurotoxic effects. Physicochemical analysis confirmed nano-particulate gold composition.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

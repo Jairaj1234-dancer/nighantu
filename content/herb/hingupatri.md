@@ -51,8 +51,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Hingupatri/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Ferula assa-foetida L.: an important Central and South Asian traditional spice and medicinal herb - a comprehensive review** (2024): Comprehensive review documenting the full phytochemical profile and pharmacological activities of Ferula species including [antioxidant](/nighantu/reference/antioxidant/), antiviral, antifungal, cancer chemopreventive, [antidiabetic](/nighantu/reference/antidiabetic/), and molluscicidal activities.
-- **Ferula asafoetida: Traditional uses and pharmacological activity** (2023): Confirmed antispasmodic, expectorant, antiviral, and antifungal properties validating traditional Ayurvedic use as digestive, respiratory, and anti-infectious agent.
+- Mahendra P, Bisht S 2012. [Ferula asafoetida: Traditional uses and pharmacological activity](https://pubmed.ncbi.nlm.nih.gov/23055640/). *Pharmacognosy reviews*. PMID [23055640](https://pubmed.ncbi.nlm.nih.gov/23055640/) · [doi:10.4103/0973-7847.99948](https://doi.org/10.4103/0973-7847.99948)  
+  Confirmed antispasmodic, expectorant, antiviral, and antifungal properties validating traditional Ayurvedic use as digestive, respiratory, and anti-infectious agent.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

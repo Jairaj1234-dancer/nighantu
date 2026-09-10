@@ -16,7 +16,7 @@ aliases: ["Benincasa hispida (Thunb.) Cogn."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 593
+words: 584
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kushmanda/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kushmanda/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **A Literature-Based Update on Benincasa hispida: Traditional Uses, Nutraceutical, and Phytopharmacological Profiles** (2021): Comprehensive review documenting antioxidant, anti-inflammatory, [analgesic](/nighantu/reference/analgesic/), anti-asthmatic, diuretic, nephroprotective, [antidiabetic](/nighantu/reference/antidiabetic/), [hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic), and [antimicrobial](/nighantu/reference/antimicrobial/) effects.
-- **Therapeutic Potential of Benincasa hispida for the Treatment of Alzheimer Disease** (2024): Extract treatment at 250-500 mg/kg alleviated acetylcholine, dopamine, and serotonin levels; increased SOD, catalase, and GSH while reducing MDA in AlCl3-induced Alzheimer's model.
-- **Pharmacological Update on Benincasa hispida (Thunb.): A Review** (2024): Updated pharmacological profile confirmed anti-inflammatory, neuroprotective, and antidiabetic activities; highlighted need for human clinical trials.
+- Islam MT, Quispe C, El-Kersh DM and others 2021. [A Literature-Based Update on Benincasa hispida (Thunb.) Cogn.: Traditional Uses, Nutraceutical, and Phytopharmacological Profiles](https://pubmed.ncbi.nlm.nih.gov/34925698/). *Oxidative medicine and cellular longevity*. PMID [34925698](https://pubmed.ncbi.nlm.nih.gov/34925698/) · [doi:10.1155/2021/6349041](https://doi.org/10.1155/2021/6349041)  
+  Comprehensive review documenting antioxidant, anti-inflammatory, [analgesic](/nighantu/reference/analgesic/), anti-asthmatic, diuretic, nephroprotective, [antidiabetic](/nighantu/reference/antidiabetic/), [hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic), and [antimicrobial](/nighantu/reference/antimicrobial/) effects.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

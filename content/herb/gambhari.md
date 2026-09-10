@@ -16,7 +16,7 @@ aliases: ["Gmelina arborea Roxb."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 581
+words: 571
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gambhari/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gambhari/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Gmelina arborea: An Indigenous Timber Species with High Medicinal Value (Review on Pharmacology, Pharmacognosy and Phytochemistry)** (2020): Identified 69 phytochemicals including lignans, iridoid glycosides, flavonoids, and flavone glycosides; confirmed multiple pharmacological activities in vitro and in vivo.
-- **Chemical Constituents and Pharmacological Potential of Gmelina arborea Roxb.** (2022): 4,8-dihydroxysesamin and arboreol ranked as potential SARS-CoV-2 target inhibitors with binding energy -10.7 to -8.2 kcal/mol in molecular docking studies.
-- **G. arborea Bark Extract in Rodent Arthritis Models** (2018): Bark extract reduced swelling in rodent arthritis models by up to 45% over 14 days, supporting traditional anti-arthritic use.
+- Warrier RR, Priya SM, Kalaiselvi R 2021. [Gmelina arborea- an indigenous timber species of India with high medicinal value: A review on its pharmacology, pharmacognosy and phytochemistry](https://pubmed.ncbi.nlm.nih.gov/33217516/). *Journal of ethnopharmacology*. PMID [33217516](https://pubmed.ncbi.nlm.nih.gov/33217516/) · [doi:10.1016/j.jep.2020.113593](https://doi.org/10.1016/j.jep.2020.113593)  
+  Identified 69 phytochemicals including lignans, iridoid glycosides, flavonoids, and flavone glycosides; confirmed multiple pharmacological activities in vitro and in vivo.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

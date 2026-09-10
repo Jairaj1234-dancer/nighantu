@@ -16,7 +16,7 @@ aliases: ["Caesalpinia sappan L."]
 tags: ["ayurveda", "herb", "single-herb", "skin-beauty", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 676
+words: 707
 srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Pattanga/meta-analysis.md"
 ---
 ## Names and identification
@@ -52,9 +52,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Pattanga/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Efficacy of topically applied Sappan wood (Caesalpinia sappan L.) ethanol extract during incision wound healing in albino rats** (2024): A 6.5% sappanwood ethanol extract demonstrated significant improvement in incision wound healing in albino rats, with enhanced tissue repair attributed to brazilin and related bioactive secondary metabolites.
-- **Suppression of melanin synthesis by phenolic constituents of sappanwood** (2013): Brazilin and 4-O-methylsappanol strongly suppressed melanin synthesis in human melanoma HMV-II cells stimulated with forskolin, establishing the melanin-inhibitory basis for traditional complexion-enhancing use.
-- **Anti-inflammatory and Wound Healing Effects of Caesalpinia sappan L.** (2015): Sappanwood extract demonstrated significant anti-inflammatory effects through inhibition of NO and prostaglandin production, combined with enhanced wound healing through fibroblast stimulation and collagen synthesis.
+- Sucita RE, Fikri F, Purnomo A and others 2024. [The efficacy of topically applied Sappan wood (Caesalpinia sappan L.) ethanol extract during incision wound healing in albino rats](https://pubmed.ncbi.nlm.nih.gov/39175965/). *Open veterinary journal*. PMID [39175965](https://pubmed.ncbi.nlm.nih.gov/39175965/) · [doi:10.5455/OVJ.2024.v14.i7.5](https://doi.org/10.5455/OVJ.2024.v14.i7.5)  
+  A 6.5% sappanwood ethanol extract demonstrated significant improvement in incision wound healing in albino rats, with enhanced tissue repair attributed to brazilin and related bioactive secondary metabolites.
+- Mitani K, Takano F, Kawabata T and others 2013. [Suppression of melanin synthesis by the phenolic constituents of sappanwood (Caesalpinia sappan)](https://pubmed.ncbi.nlm.nih.gov/23154842/). *Planta medica*. PMID [23154842](https://pubmed.ncbi.nlm.nih.gov/23154842/) · [doi:10.1055/s-0032-1327897](https://doi.org/10.1055/s-0032-1327897)  
+  Brazilin and 4-O-methylsappanol strongly suppressed melanin synthesis in human melanoma HMV-II cells stimulated with forskolin, establishing the melanin-inhibitory basis for traditional complexion-enhancing use.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

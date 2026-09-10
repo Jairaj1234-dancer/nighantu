@@ -86,9 +86,18 @@ export const TIER_LABEL = {
   D: 'Laboratory and animal studies',
 };
 
-/** Strip markdown, our own injected wikilinks, and trailing punctuation. */
+/**
+ * Strip markdown, wikilinks and trailing punctuation.
+ *
+ * Both forms matter: verify-claims reads published content where wikilinks are already
+ * resolved to [label](url), while ingest applies verdicts BEFORE resolution, where the
+ * same title still reads [[target|label]]. Handling only one form silently breaks the
+ * key match between the two, which cost 119 recoverable citations before it was caught.
+ */
 export function cleanTitle(t) {
   return String(t)
+    .replace(/\[\[([^\]|]*)\|([^\]]*)\]\]/g, '$2')
+    .replace(/\[\[([^\]]*)\]\]/g, '$1')
     .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')
     .replace(/[*_`]/g, '')
     .replace(/\s+/g, ' ')

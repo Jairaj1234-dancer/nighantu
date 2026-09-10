@@ -16,7 +16,7 @@ aliases: ["Taxus baccata L. (possibly Taxus wallichiana Zucc. in Indian context)
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 594
+words: 578
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sthneyaka/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sthneyaka/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **A brief review on phytochemistry and pharmacology of Taxus baccata L** (2022): Documented analgesic, [antipyretic](/nighantu/reference/antipyretic/), anti-inflammatory, [immunomodulatory](/nighantu/reference/immunomodulatory/), antiallergic, anticonvulsant, antibacterial, antifungal, antiplatelet, [antispasmodic](/nighantu/glossary/pharmacology/#antispasmodic), and vasorelaxing activities across different Taxus species.
-- **Phytochemical Characterization of Taxus baccata L. Aril with Emphasis on Evaluation of Antiproliferative and Pro-Apoptotic Activity of Rhodoxanthin** (2022): Rhodoxanthin carotenoid isolated from yew aril demonstrated antiproliferative and pro-apoptotic activity against cancer cell lines, identifying a novel bioactive compound beyond taxanes.
-- **Phytochemical Screening and Antibacterial Activity of Taxus baccata L. against Pectobacterium spp. and Dickeya chrysanthemi** (2023): Yew extract demonstrated significant antibacterial activity against plant pathogenic bacteria, extending documented [antimicrobial](/nighantu/reference/antimicrobial/) applications beyond human medicine.
+- Dumitraş DA, Bunea A, Vodnar DC and others 2022. [Phytochemical Characterization of Taxus baccata L. Aril with Emphasis on Evaluation of the Antiproliferative and Pro-Apoptotic Activity of Rhodoxanthin](https://pubmed.ncbi.nlm.nih.gov/35739936/). *Antioxidants (Basel, Switzerland)*. PMID [35739936](https://pubmed.ncbi.nlm.nih.gov/35739936/) · [doi:10.3390/antiox11061039](https://doi.org/10.3390/antiox11061039)  
+  Rhodoxanthin carotenoid isolated from yew aril demonstrated antiproliferative and pro-apoptotic activity against cancer cell lines, identifying a novel bioactive compound beyond taxanes.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Kashayams-Decoctions"
-answer: "Sukumara Kashayam is a classical Ayurvedic kashaya, a water decoction. The usual dose is 15-30ml twice daily. Listed in the Ayurvedic Formulary of India (AFI). Efficacy of Sukumara Kashayam in Polycystic Ovarian Syndrome (2019): Clinical observation showed reduction in ovarian cyst size and improved menstrual regularity in PCOS patients treated with Sukumara Kashayam over 3 months."
+answer: "Sukumara Kashayam is a classical Ayurvedic kashaya, a water decoction. The usual dose is 15-30ml twice daily. Listed in the Ayurvedic Formulary of India (AFI). Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Sukumara Kashayam", "SukumaraKashayam"]
 tags: ["ayurveda", "formulation", "kashayam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 486
+words: 432
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Sukumara-Kashayam/meta-analysis.md"
 ---
 ## Names and identification
@@ -58,9 +58,9 @@ Sahasrayogam, Kashaya Yoga Prakarana; also referenced in Ashtanga Hridayam for t
 
 ## What do recent clinical trials show?
 
-- **Antioxidant Study of One Ayurvedic Medicine, [Sukumara Kashayam](/nighantu/formulation/sukumara-kashayam/)** (2017): Three antioxidant assays (DPPH, FRAP, and H2O2 scavenging) demonstrated significant antioxidant activity, suggesting free radical scavenging as a key mechanism of action for the 27-herb formulation.
-- **Efficacy of [Sukumara Kashayam](/nighantu/formulation/sukumara-kashayam/) in Polycystic Ovarian Syndrome** (2019): Clinical observation showed reduction in ovarian cyst size and improved menstrual regularity in PCOS patients treated with [Sukumara Kashayam](/nighantu/formulation/sukumara-kashayam/) over 3 months.
-- **Antispasmodic evaluation of [Sukumara Kashayam](/nighantu/formulation/sukumara-kashayam/) constituents** (2020): In vitro smooth muscle relaxation assays confirmed the formulation's antispasmodic action on uterine tissue, correlating with traditional use for dysmenorrhea relief.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

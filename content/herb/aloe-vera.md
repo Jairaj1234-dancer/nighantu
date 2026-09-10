@@ -16,7 +16,7 @@ aliases: ["Aloe Vera", "Aloe barbadensis Mill. (syn. Aloe vera (L.) Burm.f.)", "
 tags: ["ayurveda", "herb", "single-herb", "liver-detox", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 830
+words: 741
 srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Aloe-Vera/meta-analysis.md"
 ---
 ## Names and identification
@@ -38,12 +38,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Aloe-Vera/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **[Aloe vera](/nighantu/herb/aloe-vera/) and health outcomes: umbrella review of systematic reviews and meta-analyses** (2020): Of 71 unique outcomes reviewed, 47 (67%) were nominally statistically significant, but only 3 outcomes supported by highly suggestive evidence (prevention of second-degree infusion phlebitis, chemotherapy-induced mucositis), while 42 outcomes had weak evidence.
-- **Aloe Barbadensis Miller: Pharmacological activities and clinical evidence for disease prevention** (2024): Comprehensive review establishing evidence for [Aloe vera](/nighantu/herb/aloe-vera/) in disease prevention, covering pharmacological activities across multiple body systems with clinical validation.
-- **[Aloe vera](/nighantu/herb/aloe-vera/) extensive review focused on recent studies** (2024): Updated review documenting broad spectrum of pharmacological activities with focus on recent clinical and preclinical evidence for therapeutic applications.
-- **Meta-analysis of Aloe vera in glycemic control for non-insulin dependent diabetics** (2021): Meta-analysis of 9 studies showed significant decrease in fasting blood [glucose](/nighantu/glossary/compounds-d-g/#glucose) by 46.6 mg/dL and HbA1c by 1.05% following oral Aloe vera use in non-insulin dependent diabetics.
-- **Aloe vera gel syrup for GERD treatment** (2022): Five clinical studies showed 10 mL Aloe vera gel syrup twice daily significantly eliminated GERD symptoms without adverse effects, comparable to omeprazole or ranitidine.
-- **Aloe vera [sterols](/nighantu/glossary/compounds-q-t/#sterols) for anti-aging skin effects** (2021): RCT on women (n=28, aged 40+) showed daily consumption of Aloe vera gel powder (40 mcg aloe sterols) improved facial wrinkles, skin hydration, and stimulated collagen and hyaluronic acid production.
+- Sadoyu S, Rungruang C, Wattanavijitkul T and others 2021. [Aloe vera and health outcomes: An umbrella review of systematic reviews and meta-analyses](https://pubmed.ncbi.nlm.nih.gov/32924222/). *Phytotherapy research : PTR*. PMID [32924222](https://pubmed.ncbi.nlm.nih.gov/32924222/) · [doi:10.1002/ptr.6833](https://doi.org/10.1002/ptr.6833)  
+  Of 71 unique outcomes reviewed, 47 (67%) were nominally statistically significant, but only 3 outcomes supported by highly suggestive evidence (prevention of second-degree infusion phlebitis, chemotherapy-induced mucositis), while 42 outcomes had weak evidence.
+- Catalano A, Ceramella J, Iacopetta D and others 2024. [Aloe vera-An Extensive Review Focused on Recent Studies](https://pubmed.ncbi.nlm.nih.gov/38998660/). *Foods (Basel, Switzerland)*. PMID [38998660](https://pubmed.ncbi.nlm.nih.gov/38998660/) · [doi:10.3390/foods13132155](https://doi.org/10.3390/foods13132155)  
+  Updated review documenting broad spectrum of pharmacological activities with focus on recent clinical and preclinical evidence for therapeutic applications.
+
+*4 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

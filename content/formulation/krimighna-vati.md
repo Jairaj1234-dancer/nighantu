@@ -16,7 +16,7 @@ aliases: ["Krimighna Vati", "KrimighnaVati"]
 tags: ["ayurveda", "formulation", "vati", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 618
+words: 574
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Krimighna-Vati/meta-analysis.md"
 ---
 ## Names and identification
@@ -56,9 +56,9 @@ Charaka Samhita (Vimana Sthana, Chapter 7 - Krimighna Gana/Dashemani); also refe
 
 ## What do recent clinical trials show?
 
-- **Krimighna Dashemani - An Ayurvedic Anthelmintic Compound for Hymenolepis nana: A Case Study** (2024): Case study demonstrated efficacy of Krimighna Dashemani formulation against Hymenolepis nana (dwarf tapeworm) infection, confirming traditional anthelmintic claims.
-- **Antiparasitic mechanisms of [Vidanga](/nighantu/herb/vidanga/) (Embelia ribes) embelin alkaloids** (2020): Embelin alkaloids from [Vidanga](/nighantu/herb/vidanga/) impair parasitic cell membranes through interference with mitochondrial electron transport chain, showing broad-spectrum anthelmintic activity.
-- **[Neem](/nighantu/herb/neem/) (Azadirachta indica) azadirachtin and [nimbin](/nighantu/glossary/compounds-l-o/#nimbin): antiparasitic and antimicrobial evaluation** (2019): Azadirachtin disrupts parasitic growth by interfering with ecdysone-mediated molting; nimbin provides additional antimicrobial action against gut pathogens.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

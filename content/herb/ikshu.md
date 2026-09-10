@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Kidney-Urinary"
-answer: "Ikshu is a substance used in the Ayurvedic materia medica. Usual dose: 50-100ml fresh sugarcane juice daily; 3-6g root powder; 10-20g jaggery as vehicle. Sugarcane Molasses Polyphenol Extract Attenuates Alcohol-Induced Chronic Liver Damage (2025): Sugarcane polyphenols mitigate alcoholic liver damage via antioxidant and anti-inflammatory mechanisms through CYP2E1/Keap1/NF-kB pathway modulation; novel strategy for hepatoprotection."
+answer: "Ikshu is a substance used in the Ayurvedic materia medica. Usual dose: 50-100ml fresh sugarcane juice daily; 3-6g root powder; 10-20g jaggery as vehicle. [Flavonoids and phenolic acids from sugarcane: Distribution in the plant, changes during processing, and potential benefits to industry and health](https://pubmed.ncbi.nlm.nih.gov/38369931/)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "kidney-urinary", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 631
+words: 679
 srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Ikshu/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Ikshu/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Flavonoids and phenolic acids from sugarcane: Distribution, changes during processing, and potential health benefits** (2024): Comprehensive review identified six key polyphenol classes in sugarcane with antioxidant, anti-inflammatory, hepatoprotective, and [anticancer](/nighantu/reference/anticancer/) activities; processing significantly reduces polyphenol content, supporting Ayurvedic preference for fresh juice.
-- **Sugarcane Molasses Polyphenol Extract Attenuates Alcohol-Induced Chronic Liver Damage** (2025): Sugarcane polyphenols mitigate alcoholic liver damage via antioxidant and anti-inflammatory mechanisms through CYP2E1/Keap1/NF-kB pathway modulation; novel strategy for hepatoprotection.
-- **Polyphenol-enriched sugarcane extract supplementation: Remote clinical trial** (2024): Six-month double-blinded randomized controlled crossover trial in Australia evaluating sugarcane polyphenol extract for gut, heart, and mental health outcomes in healthy adults.
+- Hewawansa UHAJ, Houghton MJ, Barber E and others 2024. [Flavonoids and phenolic acids from sugarcane: Distribution in the plant, changes during processing, and potential benefits to industry and health](https://pubmed.ncbi.nlm.nih.gov/38369931/). *Comprehensive reviews in food science and food safety*. PMID [38369931](https://pubmed.ncbi.nlm.nih.gov/38369931/) · [doi:10.1111/1541-4337.13307](https://doi.org/10.1111/1541-4337.13307)  
+  Comprehensive review identified six key polyphenol classes in sugarcane with antioxidant, anti-inflammatory, hepatoprotective, and [anticancer](/nighantu/reference/anticancer/) activities; processing significantly reduces polyphenol content, supporting Ayurvedic preference for fresh juice.
+- Wang M, Zhao L, Wang Y and others 2025. [Sugarcane Molasses Polyphenol Extract Attenuates Alcohol-Induced Chronic Liver Damage via Antioxidant, Anti-Inflammatory, and CYP2E1/Keap1/NF-κB Pathway Modulation](https://pubmed.ncbi.nlm.nih.gov/40362898/). *Nutrients*. PMID [40362898](https://pubmed.ncbi.nlm.nih.gov/40362898/) · [doi:10.3390/nu17091589](https://doi.org/10.3390/nu17091589)  
+  Sugarcane polyphenols mitigate alcoholic liver damage via antioxidant and anti-inflammatory mechanisms through CYP2E1/Keap1/NF-kB pathway modulation; novel strategy for hepatoprotection.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

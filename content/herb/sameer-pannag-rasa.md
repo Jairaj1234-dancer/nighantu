@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Rasa-Shastra-Alchemical-Preparations"
 group: "Sameer-Pannag-Rasa"
-answer: "Sameer Pannag Rasa is a substance used in the Ayurvedic materia medica. Usual dose: 125 mg twice daily."
+answer: "Sameer Pannag Rasa is a substance used in the Ayurvedic materia medica. Usual dose: 125 mg twice daily. [Effect of Sameera Pannaga Rasa (arsenomercurial formulation) in the management of Tamaka Shwasa (bronchial asthma) - Randomized double blind clinical study](https://pubmed.ncbi.nlm.nih.gov/24696570/)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Sameer Pannag Rasa", "SameerPannagRasa"]
 tags: ["ayurveda", "rasa-shastra", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 547
+words: 495
 srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Sameer-Pannag-Rasa/meta-analysis.md"
 ---
 ## Names and identification
@@ -38,9 +38,10 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Sameer-Pannag-Rasa
 
 ## What do recent clinical trials show?
 
-- **Effect of Sameera Pannaga Rasa in the management of Tamaka Shwasa (bronchial asthma) - Randomized double blind clinical study** (2014): 52 patients treated with 30 mg twice daily for 4 weeks showed significant improvement in subjective asthma parameters, control of asthma recurrence, increased peak expiratory flow rate, considerable decrease in total and absolute acute eosinophil count and ESR.
-- **Subacute Oral Toxicity Study of Arsenic Compound Sameerpannag Rasa in Albino Rats** (2020): Histopathology studies reveal that consumption of Sameerpannag Rasa at therapeutic dose and five times the therapeutic dose for 28 days did not cause any significant changes in tissues of liver, kidney, lungs, heart, or brain. Found non-toxic in acute toxicity study.
-- **Therapeutic Potential of Sameera Pannaga Rasa (An Arsenical Formulation)** (2022): Comprehensive review documented the formulation's use across respiratory, skin, and systemic disorders. Identified significant research gaps including long-term human safety data, pharmacokinetics of micro-particulate mercury and arsenic, and need for comparisons with standard bronchodilators.
+- Mashru M, Galib R, Shukla VJ and others 2013. [Effect of Sameera Pannaga Rasa (arsenomercurial formulation) in the management of Tamaka Shwasa (bronchial asthma) - Randomized double blind clinical study](https://pubmed.ncbi.nlm.nih.gov/24696570/). *Ayu*. PMID [24696570](https://pubmed.ncbi.nlm.nih.gov/24696570/) · [doi:10.4103/0974-8520.127692](https://doi.org/10.4103/0974-8520.127692)  
+  52 patients treated with 30 mg twice daily for 4 weeks showed significant improvement in subjective asthma parameters, control of asthma recurrence, increased peak expiratory flow rate, considerable decrease in total and absolute acute eosinophil count and ESR.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

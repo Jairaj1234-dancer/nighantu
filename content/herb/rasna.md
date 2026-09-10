@@ -16,7 +16,7 @@ aliases: ["Pluchea lanceolata (DC.) Oliv. & Hiern / Alpinia galanga (L.) Willd."
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 602
+words: 638
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rasna/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rasna/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Pluchea lanceolata (Rasana): Chemical and Biological Potential of Rasayana Herb Used in Traditional System of Medicine** (2012): Documented triterpenoids, [sterols](/nighantu/glossary/compounds-q-t/#sterols), flavonoids and lactones as prominent constituents; validated anti-inflammatory, analgesic, and immunomodulatory activities.
-- **Comparative Pharmacognostic and Phytochemical Analysis of Three Market Samples of Rasna** (2023): Comparative study of Pluchea lanceolata, Alpinia officinarum, and Alpinia calcarata established distinctive phytochemical markers for quality control and authentication.
-- **Current Pharmacological and Phytochemical Studies of Alpinia galanga** (2021): Alpinia galanga rhizome extracts demonstrated anti-cancer, [antioxidant](/nighantu/reference/antioxidant/), antibacterial, antiviral, cardiovascular protective, and digestive system protective effects.
+- Srivastava P, Shanker K 2012. [Pluchea lanceolata (Rasana): Chemical and biological potential of Rasayana herb used in traditional system of medicine](https://pubmed.ncbi.nlm.nih.gov/22877846/). *Fitoterapia*. PMID [22877846](https://pubmed.ncbi.nlm.nih.gov/22877846/) · [doi:10.1016/j.fitote.2012.07.008](https://doi.org/10.1016/j.fitote.2012.07.008)  
+  Documented triterpenoids, [sterols](/nighantu/glossary/compounds-q-t/#sterols), flavonoids and lactones as prominent constituents; validated anti-inflammatory, analgesic, and immunomodulatory activities.
+- Kaushik D, Yadav J, Kaushik P and others 2011. [Current pharmacological and phytochemical studies of the plant Alpinia galanga](https://pubmed.ncbi.nlm.nih.gov/22015185/). *Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine*. PMID [22015185](https://pubmed.ncbi.nlm.nih.gov/22015185/) · [doi:10.3736/jcim20111004](https://doi.org/10.3736/jcim20111004)  
+  Alpinia galanga rhizome extracts demonstrated anti-cancer, [antioxidant](/nighantu/reference/antioxidant/), antibacterial, antiviral, cardiovascular protective, and digestive system protective effects.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Bhasmas"
-answer: "Vanga Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg. GIT, liver, and pancreas showed no pathological changes. Study on the Vrsya property (testicular regenerative potential) of Vanga Bhasma (2012): Vanga Bhasma demonstrated testicular regenerative potential in animal models, supporting traditional Ayurvedic use as Vajikarana (aphrodisiac) preparation."
+answer: "Vanga Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg. [TOXICITY STUDIES ON VANGA BHASMA (Part I - with special reference to G. Liver and Pancreas)](https://pubmed.ncbi.nlm.nih.gov/22557446/). PMID [22557446](https://pubmed.ncbi.nlm.nih.gov/22557446/) No significant toxicity attributable to Vanga Bhasma observed even at 8 times higher dose than therapeutic dose on 10-day exposure."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Vanga Bhasma", "VangaBhasma"]
 tags: ["ayurveda", "bhasma", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 479
+words: 522
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Vanga-Bhasma/meta-analysis.md"
 ---
 ## Names and identification
@@ -48,9 +48,12 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Vanga-Bhasma/meta-an
 
 ## What do recent clinical trials show?
 
-- **Toxicity Studies on [Vanga Bhasma](/nighantu/herb/vanga-bhasma/) (Part I - with special reference to GIT, Liver and Pancreas)** (2012): No significant toxicity attributable to [Vanga Bhasma](/nighantu/herb/vanga-bhasma/) observed even at 8 times higher dose than therapeutic dose on 10-day exposure. GIT, liver, and pancreas showed no pathological changes.
-- **Study on the Vrsya property (testicular regenerative potential) of [Vanga Bhasma](/nighantu/herb/vanga-bhasma/)** (2012): [Vanga Bhasma](/nighantu/herb/vanga-bhasma/) demonstrated testicular regenerative potential in animal models, supporting traditional Ayurvedic use as Vajikarana (aphrodisiac) preparation.
-- **Chemical Compositions of Metals in Bhasmas and Tibetan Zuotai Are a Major Determinant of Their Therapeutic Effects and Toxicity** (2019): Chemical form of metals (oxide vs sulfide vs metallic) in Bhasmas is the major determinant of therapeutic effect vs toxicity. Properly prepared [Vanga Bhasma](/nighantu/herb/vanga-bhasma/) with tin in oxide form shows lower toxicity than metallic tin.
+- Nagaraju V, Joshi D, Aryya NC 1984. [TOXICITY STUDIES ON VANGA BHASMA (Part I - with special reference to G. I. T. Liver and Pancreas)](https://pubmed.ncbi.nlm.nih.gov/22557446/). *Ancient science of life*. PMID [22557446](https://pubmed.ncbi.nlm.nih.gov/22557446/)  
+  No significant toxicity attributable to [Vanga Bhasma](/nighantu/herb/vanga-bhasma/) observed even at 8 times higher dose than therapeutic dose on 10-day exposure. GIT, liver, and pancreas showed no pathological changes.
+- Nagaraju V, Joshi D, Aryya NC 1985. [Study on the vrsya property (testicular regenerative potential) of vanga bhasma](https://pubmed.ncbi.nlm.nih.gov/22557499/). *Ancient science of life*. PMID [22557499](https://pubmed.ncbi.nlm.nih.gov/22557499/)  
+  [Vanga Bhasma](/nighantu/herb/vanga-bhasma/) demonstrated testicular regenerative potential in animal models, supporting traditional Ayurvedic use as Vajikarana (aphrodisiac) preparation.
+- Liu J, Zhang F, Ravikanth V and others 2019. [Chemical Compositions of Metals in Bhasmas and Tibetan Zuotai Are a Major Determinant of Their Therapeutic Effects and Toxicity](https://pubmed.ncbi.nlm.nih.gov/30941186/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [30941186](https://pubmed.ncbi.nlm.nih.gov/30941186/) · [doi:10.1155/2019/1697804](https://doi.org/10.1155/2019/1697804)  
+  Chemical form of metals (oxide vs sulfide vs metallic) in Bhasmas is the major determinant of therapeutic effect vs toxicity. Properly prepared [Vanga Bhasma](/nighantu/herb/vanga-bhasma/) with tin in oxide form shows lower toxicity than metallic tin.
 
 ## Recent safety updates
 

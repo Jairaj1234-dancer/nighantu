@@ -16,7 +16,7 @@ aliases: ["Karpooradi Thailam", "KarpooradiThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 645
+words: 579
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Karpooradi-Thailam/meta-analysis.md"
 ---
 ## Names and identification
@@ -50,9 +50,9 @@ Sahasrayogam (Taila Prakarana). A characteristically simple 3-ingredient formula
 
 ## What do recent clinical trials show?
 
-- **Pilot study on [Karpooradi Thailam](/nighantu/formulation/karpooradi-thailam/) in knee osteoarthritis** (2020): Published in Journal of Ethnopharmacology, the study found significant reduction in VAS (Visual Analog Scale) pain scores for knee osteoarthritis after eight weeks of topical application.
-- **Anti-inflammatory activity evaluation via COX-2 downregulation in rat model** (2022): A double-blind trial highlighted anti-inflammatory activity of camphor-based formulation via downregulation of COX-2 in rat paw edema models, providing mechanistic evidence for pain relief.
-- **Transdermal absorption and bronchodilatory effects of camphor in topical formulations** (2021): Pharmacokinetic studies confirmed that camphor in oil bases achieves rapid transdermal absorption and provides reflex bronchodilation through stimulation of cold-sensitive TRPM8 receptors in respiratory epithelium when vapors are inhaled.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

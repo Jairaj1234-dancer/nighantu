@@ -16,7 +16,7 @@ aliases: ["Sukumaram Ghritam", "SukumaramGhritam"]
 tags: ["ayurveda", "formulation", "ghritam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 514
+words: 453
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Sukumaram-Ghritam/meta-analysis.md"
 ---
 ## Names and identification
@@ -60,9 +60,9 @@ Ashtanga Hridayam (Vidaryadi group of herbs); Sahasrayogam (Saptavarti preparati
 
 ## What do recent clinical trials show?
 
-- **Clinical Evaluation of Sukumara Ghritam and [Brahmi](/nighantu/herb/brahmi/) Churnam in the Management of Menopausal Syndrome: A Prospective Open-Label Study** (2020): 49 women (40-55 years) treated with Sukumara Ghritam 6g before food for 84 days showed significant improvement in menopausal symptoms; all liver and renal function tests remained normal with no adverse events reported
-- **Sukumara [Ghrita](/nighantu/herb/ghrita/) in gynecological disorders: clinical review** (2019): Vata-pacifying and endocrine-balancing herbs in ghee medium provide benefits ranging from dysmenorrhea relief and cycle regularization to postpartum rejuvenation and fertility support
-- **Pharmacological evaluation of Sukumara Ghritam ingredients for reproductive health** (2021): Individual herbs demonstrated estrogenic, anti-inflammatory, and uterine tonic activities supporting traditional gynecological applications
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

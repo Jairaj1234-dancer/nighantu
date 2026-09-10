@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "digestive-health", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 825
+words: 707
 srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Bilva/meta-analysis.md"
 ---
 ## Names and identification
@@ -36,12 +36,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Bilva/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Ethnopharmacological Profile, Phytochemistry and Therapeutic Potential of Aegle marmelos L. for the Treatment of Neurological Disorders** (2025): Comprehensive review highlighting neuroprotective potential of A. marmelos bioactive compounds including marmelosin, aegeline, and imperatorin, while emphasizing the need for more clinical trials to validate potency and safety in neurological applications.
-- **Phytochemical and pharmacological profile of Aegle marmelos (L.) Correa: A comprehensive review of therapeutic potential, mechanisms of action, and translational relevance** (2026): Comprehensive synthesis of in vitro, in vivo, and clinical evidence on pharmacological potential. Translation to clinical practice is challenged by limited high-quality clinical trials, variability in bioactive content across extracts, and lack of standardized dosing.
-- **Aegle marmelos leaf juice as a complementary therapy to control type 2 diabetes - Randomised controlled trial** (2021): Randomized controlled trial showed glycated hemoglobin (HbA1c) reduced by MD -1.6% (95% CI -3 to -0.3) compared to control, supporting antidiabetic efficacy of bael leaf juice.
-- **Unraveling the neuroprotective potential of Aegle marmelos in Alzheimer's disease: a network pharmacology and molecular docking approach** (2026): Network pharmacology and molecular docking study identified multiple targets for neuroprotection in Alzheimer's disease, suggesting multi-target therapeutic potential.
-- **ADMET Profiling and Molecular Docking Studies of Bael Fruit Constituents against Proteins Responsible for Life-Threatening Diseases** (2025): ADMET profiling of bael fruit constituents revealed favorable drug-likeness and pharmacokinetic properties for multiple bioactive compounds targeting proteins involved in life-threatening diseases.
-- **Quality control assessment of Aegle marmelos: combined HPTLC, heavy metal, pesticide and aflatoxin analysis** (2022): Established quality control standards using HPTLC alongside heavy metal, pesticide, and aflatoxin analysis, addressing contamination risks in commercial bael products.
+- Sharma A, Gugulothu D, Virmani T and others 2025. [Ethnopharmacological Profile, Phytochemistry and Therapeutic Potential of Aegle marmelos L. for the Treatment of Neurological Disorders](https://pubmed.ncbi.nlm.nih.gov/40535825/). *Journal of nutrition and metabolism*. PMID [40535825](https://pubmed.ncbi.nlm.nih.gov/40535825/) · [doi:10.1155/jnme/2275526](https://doi.org/10.1155/jnme/2275526)  
+  Comprehensive review highlighting neuroprotective potential of A. marmelos bioactive compounds including marmelosin, aegeline, and imperatorin, while emphasizing the need for more clinical trials to validate potency and safety in neurological applications.
+- Chopra NK, Mehta V, Nagu P 2026. [Unraveling the neuroprotective potential of Aegle marmelos in Alzheimer's disease: a network pharmacology and molecular docking approach](https://pubmed.ncbi.nlm.nih.gov/41613637/). *In silico pharmacology*. PMID [41613637](https://pubmed.ncbi.nlm.nih.gov/41613637/) · [doi:10.1007/s40203-026-00559-x](https://doi.org/10.1007/s40203-026-00559-x)  
+  Network pharmacology and molecular docking study identified multiple targets for neuroprotection in Alzheimer's disease, suggesting multi-target therapeutic potential.
+
+*4 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

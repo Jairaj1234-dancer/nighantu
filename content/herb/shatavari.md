@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "rasayana-immunity", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "AgeAyurveda Product Catalog", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu, Ashtanga Hridaya)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: ["Chyawanprash Avaleha"]
-words: 910
+words: 989
 srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Shatavari/meta-analysis.md"
 ---
 ## Names and identification
@@ -81,11 +81,16 @@ Name means 'she who possesses 100 husbands' — referring to female reproductive
 
 ## What do recent clinical trials show?
 
-- **Efficacy and Safety of Shatavari Root Extract for the Management of Menopausal Symptoms: A Double-Blind, Multicenter, Randomized Controlled Trial** (2024): Multicenter RCT demonstrated Shatavari root extract was effective and safe for managing menopausal symptoms including hot flashes, night sweats, and mood disturbances.
-- **Efficacy and Safety of Shatavari (Asparagus racemosus) Root Extract for Perimenopause: Randomized, Double-Blind, Placebo-Controlled Study** (2025): 80 participants randomized to Shatavari 300 mg daily or placebo for 8 weeks. Shatavari root extract demonstrated effective and safe natural intervention for perimenopausal symptoms.
-- **Efficacy and safety of Shatavari root extract (Asparagus racemosus) for menopausal symptoms: a randomized, double-blind, three-arm, placebo-controlled study** (2025): 135 women aged 45-65 across three arms (Shatavari alone, Shatavari + [Ashwagandha](/nighantu/herb/ashwagandha/), placebo). Both Shatavari alone and the combination were effective; combination showed additive benefits for managing menopausal symptoms and overall health.
-- **Effects of Shatavari Root Extract on Sexual Wellness in Women: Prospective, Randomized, Double-Blind, Three-Arm, Parallel-Group, Placebo-Controlled Study** (2025): Standardized Shatavari root extract demonstrated safe and effective improvement in women's sexual health outcomes, with additive effects when combined with [Ashwagandha](/nighantu/herb/ashwagandha/).
-- **Shatavari (Asparagus racemosus): A Promising Ally for Fertility** (2025): Review consolidating evidence that Shatavari enhances fertility rates and improves breast milk quality and quantity, supporting its traditional use in postpartum care.
+- Gudise VS, Dasari MP, Kuricheti SSK 2024. [Efficacy and Safety of Shatavari Root Extract for the Management of Menopausal Symptoms: A Double-Blind, Multicenter, Randomized Controlled Trial](https://pubmed.ncbi.nlm.nih.gov/38725785/). *Cureus*. PMID [38725785](https://pubmed.ncbi.nlm.nih.gov/38725785/) · [doi:10.7759/cureus.57879](https://doi.org/10.7759/cureus.57879)  
+  Multicenter RCT demonstrated Shatavari root extract was effective and safe for managing menopausal symptoms including hot flashes, night sweats, and mood disturbances.
+- Mahajan S, Avad P, Langade J 2025. [Efficacy and Safety of Shatavari (Asparagus racemosus) Root Extract for Perimenopause: Randomized, Double-Blind, Placebo-Controlled Study](https://pubmed.ncbi.nlm.nih.gov/41209045/). *International journal of women's health*. PMID [41209045](https://pubmed.ncbi.nlm.nih.gov/41209045/) · [doi:10.2147/IJWH.S544267](https://doi.org/10.2147/IJWH.S544267)  
+  80 participants randomized to Shatavari 300 mg daily or placebo for 8 weeks. Shatavari root extract demonstrated effective and safe natural intervention for perimenopausal symptoms.
+- Ademola J, Ajgaonkar A, Debnath T and others 2025. [Efficacy and safety of Shatavari root extract (Asparagus racemosus) for menopausal symptoms: a randomized, double-blind, three-arm, placebo-controlled study](https://pubmed.ncbi.nlm.nih.gov/41394012/). *Frontiers in reproductive health*. PMID [41394012](https://pubmed.ncbi.nlm.nih.gov/41394012/) · [doi:10.3389/frph.2025.1654503](https://doi.org/10.3389/frph.2025.1654503)  
+  135 women aged 45-65 across three arms (Shatavari alone, Shatavari + [Ashwagandha](/nighantu/herb/ashwagandha/), placebo). Both Shatavari alone and the combination were effective; combination showed additive benefits for managing menopausal symptoms and overall health.
+- Ademola J, Mahajan S, Srivathsan M and others 2026. [Effects of Shatavari (Asparagus racemosus) Root Extract on Sexual Wellness in Women: Findings from a Prospective, Randomized, Double-Blind, Three-Arm, Parallel-Group, Placebo-Controlled Study](https://pubmed.ncbi.nlm.nih.gov/41710148/). *International journal of women's health*. PMID [41710148](https://pubmed.ncbi.nlm.nih.gov/41710148/) · [doi:10.2147/IJWH.S561213](https://doi.org/10.2147/IJWH.S561213)  
+  Standardized Shatavari root extract demonstrated safe and effective improvement in women's sexual health outcomes, with additive effects when combined with [Ashwagandha](/nighantu/herb/ashwagandha/).
+- Oyovwi MO, Chijiokwu EA, Ben-Azu B and others 2025. [Shatavari (Asparagus racemosus): A Promising Ally for Fertility](https://pubmed.ncbi.nlm.nih.gov/40974515/). *Current nutrition reports*. PMID [40974515](https://pubmed.ncbi.nlm.nih.gov/40974515/) · [doi:10.1007/s13668-025-00694-5](https://doi.org/10.1007/s13668-025-00694-5)  
+  Review consolidating evidence that Shatavari enhances fertility rates and improves breast milk quality and quantity, supporting its traditional use in postpartum care.
 
 ## Recent safety updates
 

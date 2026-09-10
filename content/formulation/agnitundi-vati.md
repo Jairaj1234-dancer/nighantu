@@ -16,7 +16,7 @@ aliases: ["Agnitundi Vati", "AgnitundiVati"]
 tags: ["ayurveda", "formulation", "vati", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 596
+words: 540
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Agnitundi-Vati/meta-analysis.md"
 ---
 ## Names and identification
@@ -60,9 +60,9 @@ Yoga Ratnakara (Agnimandya/Ajirna Chikitsa); also described in Bhaishajya Ratnav
 
 ## What do recent clinical trials show?
 
-- **Clinical impact of [Agnitundi Vati](/nighantu/formulation/agnitundi-vati/) on non-ulcer dyspepsia** (2020): Journal of Ayurveda and Integrative Medicine study showed significant reduction in bloating and epigastric discomfort after two weeks of twice-daily administration in non-ulcer dyspepsia patients.
-- **Carminative and antispasmodic properties of [Agnitundi Vati](/nighantu/formulation/agnitundi-vati/) herbal components** (2019): Pharmacological evaluation confirmed antispasmodic, carminative, and digestive-stimulant properties; gas-relieving and bloating-reducing effects validated in controlled setting.
-- **Ayurvedic pharmacodynamics of [Agnitundi Vati](/nighantu/formulation/agnitundi-vati/) in digestive disorders** (2018): Katu taste kindles Agni, Ushna Virya penetrates deep tissues to mobilize Ama, and post-digestive warming Vipaka maintains steady metabolism, collectively normalizing Vata and Kapha in the digestive tract.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

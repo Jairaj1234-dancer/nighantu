@@ -51,9 +51,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Alabu/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Comprehensive review on Lagenaria siceraria** (2025): Updated pharmacological review documenting cardioprotective, hepatoprotective, anti-urolithiatic, and [immunomodulatory](/nighantu/reference/immunomodulatory/) activities across multiple in vivo models.
-- **Biotechnology and pharmacological evaluation of Indian vegetable crop Lagenaria siceraria** (2024): Confirmed antihyperlipidemic and cardioprotective effects through reduction of serum cholesterol and triglycerides in animal models.
-- **Effect of Lagenaria siceraria fruit extract on hepatotoxicity induced by antitubercular drugs** (2023): Demonstrated significant hepatoprotective activity against antitubercular drug-induced liver injury in albino rats, validating traditional liver-protective claims.
+- Roopan SM, Devi Rajeswari V, Kalpana VN and others 2016. [Biotechnology and pharmacological evaluation of Indian vegetable crop Lagenaria siceraria: an overview](https://pubmed.ncbi.nlm.nih.gov/26637422/). *Applied microbiology and biotechnology*. PMID [26637422](https://pubmed.ncbi.nlm.nih.gov/26637422/) · [doi:10.1007/s00253-015-7190-0](https://doi.org/10.1007/s00253-015-7190-0)  
+  Confirmed antihyperlipidemic and cardioprotective effects through reduction of serum cholesterol and triglycerides in animal models.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

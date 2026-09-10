@@ -16,7 +16,7 @@ aliases: ["Randia dumetorum (Retz.) Lam. (syn. Randia spinosa", "Catunaregam spi
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 569
+words: 519
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Madanaphala/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Madanaphala/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Madanaphala (Randia dumetorum lam.): A Phyto-Pharmacological Review** (2023): Comprehensive review documenting antibacterial, anti-allergic, anti-inflammatory, [analgesic](/nighantu/reference/analgesic/), immunomodulatory, emetic, and wound healing properties.
-- **Standardized Randia dumetorum Extract Reduces IL-1beta in Human Lung Epithelial Cells** (2021): Extract reduced IL-1beta levels in cultured human lung epithelial cells, providing molecular basis for its traditional use in cough and respiratory disorders.
-- **Madanaphala (Randia dumetorum): A Pharmacological and Pharmacognostical Review** (2020): Validated emetic, [antipyretic](/nighantu/reference/antipyretic/), anti-inflammatory, antiallergic, anthelmintic, immunomodulatory, analgesic, and wound healing properties of fruits and bark.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

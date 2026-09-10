@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Diabetes-Metabolism"
-answer: "Methi is a substance used in the Ayurvedic materia medica. Usual dose: 5-30 g seed powder per day (diabetes management); 500-1000 mg standardized extract twice daily; 5-10 g soaked/sprouted seeds daily. WHO published monograph on fenugreek seeds (Semen Trigonellae Foenugraeci) in WHO Monographs on Selected Medicinal Plants, Volume 3 (2007)."
-botanical: ""
+answer: "Methi (Pharmacological research) is a plant used in Ayurveda. Usual dose: 5-30 g seed powder per day (diabetes management); 500-1000 mg standardized extract twice daily; 5-10 g soaked/sprouted seeds daily. WHO published monograph on fenugreek seeds (Semen Trigonellae Foenugraeci) in WHO Monographs on Selected Medicinal Plants, Volume 3 (2007)."
+botanical: "Pharmacological research"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "diabetes-metabolism", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "PubMed / NCBI (1948 publications)", "AgeAyurveda Product Catalog", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: ["Sugar Formula"]
-words: 1678
+words: 1749
 srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Methi/meta-analysis.md"
 ---
 ## Names and identification
@@ -121,12 +121,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Methi/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Effects of fenugreek supplementation on the components of metabolic syndrome: A systematic review and dose-response meta-analysis of randomized clinical trials** (2022): Dose-response meta-analysis demonstrated beneficial effects of fenugreek supplementation on multiple metabolic syndrome components including glycemic and lipid parameters in randomized clinical trials.
-- **The Effect of Fenugreek in Type 2 Diabetes and Prediabetes: A Systematic Review and Meta-Analysis of Randomized Controlled Trials** (2023): Systematic review and meta-analysis confirmed beneficial effects on glycemic control parameters and lipid profiles in T2DM, supporting fenugreek as complementary diabetes therapy.
-- **Fenugreek (Trigonella foenum-graecum) as a Natural Therapeutic Agent in Type 2 Diabetes, PCOS, and Testosterone Deficiency: A Consolidated Clinical Review** (2025): Consolidated clinical review assessed fenugreek's efficacy in modulating glucose metabolism, lipid profiles, and hormonal balance across T2DM, PCOS, and age-related testosterone deficiency.
-- **Exploring the Adverse Effects of Fenugreek in Humans: A Scoping Review** (2025): Scoping review of 60 articles (Jan 1990-Sep 2024): 14 clinical trials reported adverse effects, 23 reported none, 13 did not report. Most common adverse effect was mild gastrointestinal discomfort. No fatalities attributed to fenugreek use.
-- **Therapeutic effect of fenugreek supplementation on type 2 diabetes mellitus: A systematic review and meta-analysis of clinical trials** (2024): Meta-analysis confirmed therapeutic benefit of fenugreek supplementation for T2DM management, with significant improvements in glycemic markers.
-- **Randomized double blind placebo controlled trial to assess the safety and efficacy of a patented fenugreek seed extract in Type 2 diabetics** (2023): Patented fenugreek seed extract demonstrated both safety and efficacy in T2DM patients in a rigorous randomized double-blind placebo-controlled design.
+- Fakhr L, Chehregosha F, Zarezadeh M and others 2023. [Effects of fenugreek supplementation on the components of metabolic syndrome: A systematic review and dose-response meta-analysis of randomized clinical trials](https://pubmed.ncbi.nlm.nih.gov/36470549/). *Pharmacological research*. PMID [36470549](https://pubmed.ncbi.nlm.nih.gov/36470549/) · [doi:10.1016/j.phrs.2022.106594](https://doi.org/10.1016/j.phrs.2022.106594)  
+  Dose-response meta-analysis demonstrated beneficial effects of fenugreek supplementation on multiple metabolic syndrome components including glycemic and lipid parameters in randomized clinical trials.
+- Kim J, Noh W, Kim A and others 2023. [The Effect of Fenugreek in Type 2 Diabetes and Prediabetes: A Systematic Review and Meta-Analysis of Randomized Controlled Trials](https://pubmed.ncbi.nlm.nih.gov/37762302/). *International journal of molecular sciences*. PMID [37762302](https://pubmed.ncbi.nlm.nih.gov/37762302/) · [doi:10.3390/ijms241813999](https://doi.org/10.3390/ijms241813999)  
+  Systematic review and meta-analysis confirmed beneficial effects on glycemic control parameters and lipid profiles in T2DM, supporting fenugreek as complementary diabetes therapy.
+- Amiri Ardekani E, Parvizi MM, Zare R and others 2026. [Exploring the Adverse Effects of Fenugreek in Humans: A Scoping Review](https://pubmed.ncbi.nlm.nih.gov/41625343/). *Iranian journal of medical sciences*. PMID [41625343](https://pubmed.ncbi.nlm.nih.gov/41625343/) · [doi:10.30476/ijms.2025.106073.4017](https://doi.org/10.30476/ijms.2025.106073.4017)  
+  Scoping review of 60 articles (Jan 1990-Sep 2024): 14 clinical trials reported adverse effects, 23 reported none, 13 did not report. Most common adverse effect was mild gastrointestinal discomfort. No fatalities attributed to fenugreek use.
+- Vajdi M, Noshadi N, Bonyadian A and others 2024. [Therapeutic effect of fenugreek supplementation on type 2 diabetes mellitus: A systematic review and meta-analysis of clinical trials](https://pubmed.ncbi.nlm.nih.gov/39286181/). *Heliyon*. PMID [39286181](https://pubmed.ncbi.nlm.nih.gov/39286181/) · [doi:10.1016/j.heliyon.2024.e36649](https://doi.org/10.1016/j.heliyon.2024.e36649)  
+  Meta-analysis confirmed therapeutic benefit of fenugreek supplementation for T2DM management, with significant improvements in glycemic markers.
+- Majeed M, Majeed S, Narayanan NK and others 2019. [A pilot, randomized, double-blind, placebo-controlled trial to assess the safety and efficacy of a novel Boswellia serrata extract in the management of osteoarthritis of the knee](https://pubmed.ncbi.nlm.nih.gov/30838706/). *Phytotherapy research : PTR*. PMID [30838706](https://pubmed.ncbi.nlm.nih.gov/30838706/) · [doi:10.1002/ptr.6338](https://doi.org/10.1002/ptr.6338)  
+  Patented fenugreek seed extract demonstrated both safety and efficacy in T2DM patients in a rigorous randomized double-blind placebo-controlled design.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

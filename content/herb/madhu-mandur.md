@@ -16,7 +16,7 @@ aliases: ["Madhu Mandur", "MadhuMandur"]
 tags: ["ayurveda", "loha", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 484
+words: 414
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Lohas-Iron-Preparations/Madhu-Mandur/meta-analysis.md"
 ---
 ## Names and identification
@@ -44,9 +44,9 @@ Charaka Samhita, Pandu Roga Chikitsa; Bhaishajya Ratnavali; Rasa Tarangini; the 
 
 ## What do recent clinical trials show?
 
-- **Clinical evaluation of potentiating effect of honey and Mandur Bhasma in anemic children** (2015): Honey combined with Mandur Bhasma showed 21.86% increase in hemoglobin vs 9.77% with Mandur Bhasma alone, demonstrating synergistic potentiating effect of honey
-- **Therapeutic Efficacy of [Mandura Bhasma](/nighantu/herb/mandura-bhasma/) and [Rohitakarishta](/nighantu/formulation/rohitakarishta/) in Severe Anemia: A Classical Ayurvedic Approach** (2025): Case study showed significant hemoglobin increase and drastic improvement in energy levels, appetite, and overall well-being in pediatric severe anemia
-- **Analytical standardization of [Mandura Bhasma](/nighantu/herb/mandura-bhasma/) (incinerated iron oxide)** (2016): Standardized characterization of [Mandura Bhasma](/nighantu/herb/mandura-bhasma/) confirmed nano-particulate iron oxide form meeting classical quality parameters (Rekhapurnatva, Varitaratva, Sukshmatva)
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

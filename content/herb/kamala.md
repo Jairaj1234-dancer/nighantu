@@ -16,7 +16,7 @@ aliases: ["Nelumbo nucifera Gaertn."]
 tags: ["ayurveda", "herb", "single-herb", "skin-beauty", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 756
+words: 807
 srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kamala/meta-analysis.md"
 ---
 ## Names and identification
@@ -52,9 +52,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kamala/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Exploring Major Flavonoid Phytochemicals from Nelumbo nucifera as Potential Skin Anti-Aging Agents: In Silico and In Vitro Evaluations** (2023): Among seven flavonoids studied, kaempferol-3-O-robinobioside showed the highest docking scores against three skin aging-related enzymes (MMP-1, elastase, tyrosinase), identifying it as the most promising anti-aging candidate from lotus.
-- **Skin-Whitening Effect of a Callus Extract of Nelumbo nucifera** (2023): Clinical trial with 21 volunteers confirmed significant whitening effect of cosmetics containing lotus callus extract, with demonstrated tyrosinase and collagenase inhibition in vitro supporting skin brightening and anti-aging claims.
-- **Chemical Composition and Bioactivity of Nelumbo nucifera Flower Extract Fractions: [Antioxidant](/nighantu/reference/antioxidant/) and Anti-Inflammatory Properties** (2025): Flower extract fractions demonstrated potent antioxidant and anti-inflammatory activities, with stamen extracts showing strongest tyrosinase and collagenase inhibition relevant to anti-aging and skin whitening applications.
+- Nutho B, Tungmunnithum D 2023. [Exploring Major Flavonoid Phytochemicals from Nelumbo nucifera Gaertn. as Potential Skin Anti-Aging Agents: In Silico and In Vitro Evaluations](https://pubmed.ncbi.nlm.nih.gov/38068894/). *International journal of molecular sciences*. PMID [38068894](https://pubmed.ncbi.nlm.nih.gov/38068894/) · [doi:10.3390/ijms242316571](https://doi.org/10.3390/ijms242316571)  
+  Among seven flavonoids studied, kaempferol-3-O-robinobioside showed the highest docking scores against three skin aging-related enzymes (MMP-1, elastase, tyrosinase), identifying it as the most promising anti-aging candidate from lotus.
+- Moon SH, Kim E, Kim HI and others 2023. [Skin-Whitening Effect of a Callus Extract of Nelumbo nucifera Isolate Haman](https://pubmed.ncbi.nlm.nih.gov/38068559/). *Plants (Basel, Switzerland)*. PMID [38068559](https://pubmed.ncbi.nlm.nih.gov/38068559/) · [doi:10.3390/plants12233923](https://doi.org/10.3390/plants12233923)  
+  Clinical trial with 21 volunteers confirmed significant whitening effect of cosmetics containing lotus callus extract, with demonstrated tyrosinase and collagenase inhibition in vitro supporting skin brightening and anti-aging claims.
+- Choo JH, Lee SY, Min K and others 2025. [Chemical Composition and Bioactivity of Nelumbo nucifera Gaertn. Flower Extract Fractions: In Vitro Antioxidant and Anti-Inflammatory Properties](https://pubmed.ncbi.nlm.nih.gov/41614829/). *Current issues in molecular biology*. PMID [41614829](https://pubmed.ncbi.nlm.nih.gov/41614829/) · [doi:10.3390/cimb47121065](https://doi.org/10.3390/cimb47121065)  
+  Flower extract fractions demonstrated potent antioxidant and anti-inflammatory activities, with stamen extracts showing strongest tyrosinase and collagenase inhibition relevant to anti-aging and skin whitening applications.
 
 ## Recent safety updates
 

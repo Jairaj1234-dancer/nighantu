@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Bhasmas"
-answer: "Vajra Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 15–30 mg (rare and premium). An exploration of the preliminary unit operative pharmaceutical process of Vajra Bhasma (diamond ash) (2022): Detailed pharmaceutical study documented the classical preparation process with modern analytical tools."
+answer: "Vajra Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 15–30 mg (rare and premium). [Nanoscale Diamond-Based Formulation as an Immunomodulator and Potential Therapeutic for Lymphoma](https://pubmed.ncbi.nlm.nih.gov/35444547/). 2 further claims previously listed here could not be traced to a published paper and have been removed."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Vajra Bhasma", "VajraBhasma"]
 tags: ["ayurveda", "bhasma", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 506
+words: 480
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Vajra-Bhasma/meta-analysis.md"
 ---
 ## Names and identification
@@ -48,9 +48,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Vajra-Bhasma/meta-an
 
 ## What do recent clinical trials show?
 
-- **Nanoscale Diamond-Based Formulation as an Immunomodulator and Potential Therapeutic for Lymphoma** (2022): Functional nanodiamond-based Heerak Bhasma demonstrated immunostimulation that significantly reduced tumor cell proliferation, induced apoptosis, reduced tumor volume, inhibited metastasis, and increased life span of tumor-bearing animals.
-- **An exploration of the preliminary unit operative pharmaceutical process of [Vajra Bhasma](/nighantu/herb/vajra-bhasma/) (diamond ash)** (2022): Detailed pharmaceutical study documented the classical preparation process with modern analytical tools. Confirmed temperature, duration, and media requirements for standardized preparation.
-- **Comprehensive Appraisal on Shodhana Methods of Precious Gemstone: Vajra (Diamond)** (2021): Systematic review of purification methods for diamond in Ayurvedic texts. Established standardized protocols for Shodhana that ensure removal of impurities and toxins before calcination.
+- Paladhi A, Rej A, Sarkar D and others 2022. [Nanoscale Diamond-Based Formulation as an Immunomodulator and Potential Therapeutic for Lymphoma](https://pubmed.ncbi.nlm.nih.gov/35444547/). *Frontiers in pharmacology*. PMID [35444547](https://pubmed.ncbi.nlm.nih.gov/35444547/) · [doi:10.3389/fphar.2022.852065](https://doi.org/10.3389/fphar.2022.852065)  
+  Functional nanodiamond-based Heerak Bhasma demonstrated immunostimulation that significantly reduced tumor cell proliferation, induced apoptosis, reduced tumor volume, inhibited metastasis, and increased life span of tumor-bearing animals.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

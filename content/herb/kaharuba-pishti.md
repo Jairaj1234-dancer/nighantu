@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Pishtis"
-answer: "Kaharuba Pishti is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg. Heavy metals were below permissible limits. Microbial contamination within acceptable range. The nanoparticle size positions this as a form of traditional nanomedicine."
+answer: "Kaharuba Pishti is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg. [Characterization and antimicrobial study of Trinakantamani (Amber) Pishti](https://pubmed.ncbi.nlm.nih.gov/35813362/). PMID [35813362](https://pubmed.ncbi.nlm.nih.gov/35813362/) · [doi:10.4103/ayu.AYU_155_19](https://doi.org/10.4103/ayu.AYU_155_19) EDEX study showed Pishti particles reduced to 701nm from 1-2 micrometers raw size, potentially enhancing bioavailability."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Kaharuba Pishti", "KaharubaPishti"]
 tags: ["ayurveda", "pishti", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 414
+words: 422
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Kaharuba-Pishti/meta-analysis.md"
 ---
 ## Names and identification
@@ -38,8 +38,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Kaharuba-Pishti/meta
 
 ## What do recent clinical trials show?
 
-- **Characterization and [antimicrobial](/nighantu/reference/antimicrobial/) study of Trinakantamani (Amber) Pishti** (2022): EDEX study showed Pishti particles reduced to 701nm from 1-2 micrometers raw size, potentially enhancing bioavailability. Heavy metals were below permissible limits. Microbial contamination within acceptable range. The nanoparticle size positions this as a form of traditional nanomedicine.
-- **Kaharva Pishti as Hridya (cardiotonic) and Rakta Stambhaka (hemostatic) formulation** (2018): Documented as a cardio-tonic and styptic formulation. Succinic acid content (3-8%) is the primary bioactive compound with documented anti-inflammatory and cellular energy-enhancing properties through mitochondrial support.
+- Joshi N, Ahuja MR, Rastogi GK and others 2020. [Characterization and antimicrobial study of Trinakantamani (Amber) Pishti](https://pubmed.ncbi.nlm.nih.gov/35813362/). *Ayu*. PMID [35813362](https://pubmed.ncbi.nlm.nih.gov/35813362/) · [doi:10.4103/ayu.AYU_155_19](https://doi.org/10.4103/ayu.AYU_155_19)  
+  EDEX study showed Pishti particles reduced to 701nm from 1-2 micrometers raw size, potentially enhancing bioavailability. Heavy metals were below permissible limits. Microbial contamination within acceptable range. The nanoparticle size positions this as a form of traditional nanomedicine.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

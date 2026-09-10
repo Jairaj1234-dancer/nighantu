@@ -16,7 +16,7 @@ aliases: ["Pradarantak Lauh", "PradarantakLauh"]
 tags: ["ayurveda", "loha", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 397
+words: 365
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Lohas-Iron-Preparations/Pradarantak-Lauh/meta-analysis.md"
 ---
 ## Names and identification
@@ -45,8 +45,9 @@ Bhaishajya Ratnavali, Stri Rogadhikara (Gynecological Disorders Chapter), Verses
 
 ## What do recent clinical trials show?
 
-- **Role of Ayurvedic intervention in the management of anemia - including Pradarantaka Lauha** (2020): Ayurvedic iron preparations including Pradarantaka Lauha reported significant improvement in hematological parameters compared to baseline values
-- **Evaluation of [Pradarantak Lauh](/nighantu/herb/pradarantak-lauh/) in management of Pradara (abnormal uterine bleeding)** (2019): Clinical evaluation showed reduction in menstrual blood loss volume and duration with improvement in hemoglobin levels in patients with menorrhagia
+
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

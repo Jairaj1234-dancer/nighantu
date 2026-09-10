@@ -16,7 +16,7 @@ aliases: ["Vetiveria zizanioides (L.) Nash (syn. Chrysopogon zizanioides (L.) Ro
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 604
+words: 657
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ushira/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ushira/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Pharmacological and Therapeutic Potential of Chrysopogon zizanioides (Vetiver): A Comprehensive Review** (2025): Comprehensive review documenting antioxidant, anti-inflammatory, antifungal, antibacterial, antitubercular, antihyperglycemic, antidepressant, [hepatoprotective](/nighantu/reference/hepatoprotective/), and nephroprotective activities of vetiver essential oil.
-- **Vetiver, Vetiveria zizanioides (L.) Nash: Biotechnology, Biorefineries, and the Production of Volatile Phytochemicals** (2025): Reviewed biotechnological approaches for sustainable production of vetiver volatile phytochemicals, including cell culture and biorefinery strategies for commercial applications.
-- **Chemical Composition, Antioxidant, and Antimicrobial Activities of Vetiveria zizanioides Essential Oil Extracted by Carbon Dioxide Expanded Ethanol** (2024): Identified 22 components in CO2-expanded ethanol extract with valerenol, valerenal, and beta-cadinene as major constituents, showing significant antioxidant and antimicrobial activities.
+- Gunasekar CJ, Majdalawieh AF, Abu-Yousef IA and others 2025. [Pharmacological and Therapeutic Potential of Chrysopogon zizanioides (Vetiver): A Comprehensive Review of Its Medicinal Applications and Future Prospects](https://pubmed.ncbi.nlm.nih.gov/41008619/). *Biomolecules*. PMID [41008619](https://pubmed.ncbi.nlm.nih.gov/41008619/) · [doi:10.3390/biom15091312](https://doi.org/10.3390/biom15091312)  
+  Comprehensive review documenting antioxidant, anti-inflammatory, antifungal, antibacterial, antitubercular, antihyperglycemic, antidepressant, [hepatoprotective](/nighantu/reference/hepatoprotective/), and nephroprotective activities of vetiver essential oil.
+- Barcellos-Silva IGC, Dos Santos FKF, Kharkwal H and others 2025. [Vetiver, Vetiveria zizanioides (L.) Nash: Biotechnology, Biorefineries, and the Production of Volatile Phytochemicals](https://pubmed.ncbi.nlm.nih.gov/40431000/). *Plants (Basel, Switzerland)*. PMID [40431000](https://pubmed.ncbi.nlm.nih.gov/40431000/) · [doi:10.3390/plants14101435](https://doi.org/10.3390/plants14101435)  
+  Reviewed biotechnological approaches for sustainable production of vetiver volatile phytochemicals, including cell culture and biorefinery strategies for commercial applications.
+- David A, Wang F, Sun X and others 2019. [Chemical Composition, Antioxidant, and Antimicrobial Activities of Vetiveria zizanioides (L.) Nash Essential Oil Extracted by Carbon Dioxide Expanded Ethanol](https://pubmed.ncbi.nlm.nih.gov/31108854/). *Molecules (Basel, Switzerland)*. PMID [31108854](https://pubmed.ncbi.nlm.nih.gov/31108854/) · [doi:10.3390/molecules24101897](https://doi.org/10.3390/molecules24101897)  
+  Identified 22 components in CO2-expanded ethanol extract with valerenol, valerenal, and beta-cadinene as major constituents, showing significant antioxidant and antimicrobial activities.
 
 ## Recent safety updates
 

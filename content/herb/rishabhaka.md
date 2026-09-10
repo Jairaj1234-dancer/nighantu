@@ -16,7 +16,7 @@ aliases: ["Manilkara hexandra (Roxb.) Dubard"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 544
+words: 527
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rishabhaka/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rishabhaka/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Manilkara hexandra: A multi-purpose medicinal plant - a review of its phytochemistry and pharmacological potential** (2025): Comprehensive review documenting the plant's rich phytochemical profile and broad pharmacological spectrum including [antioxidant](/nighantu/reference/antioxidant/), [antimicrobial](/nighantu/reference/antimicrobial/), antidiabetic, anti-inflammatory, and [immunomodulatory](/nighantu/reference/immunomodulatory/) activities.
-- **Development and validation of HPTLC and HPLC methods for simultaneous determination of myricetin and [quercetin](/nighantu/reference/quercetinquercetin/) in Manilkara hexandra** (2024): Validated analytical methods for simultaneous estimation of myricetin and [quercetin](/nighantu/reference/quercetinquercetin/) as quality markers in leaf extract, following ICH guidelines for standardization.
-- **Review on Phytochemistry, Biology and Nano Formulations of Manilkara hexandra: An Update** (2022): Updated review documenting nano-formulation approaches for enhanced bioavailability and recent evidence of antiviral activity against SARS-CoV-2.
+- Ibrahim AE, Saraya RE, Saleh H and others 2019. [Development and validation of eco-friendly micellar-HPLC and HPTLC-densitometry methods for the simultaneous determination of paritaprevir, ritonavir and ombitasvir in pharmaceutical dosage forms](https://pubmed.ncbi.nlm.nih.gov/31049430/). *Heliyon*. PMID [31049430](https://pubmed.ncbi.nlm.nih.gov/31049430/) · [doi:10.1016/j.heliyon.2019.e01518](https://doi.org/10.1016/j.heliyon.2019.e01518)  
+  Validated analytical methods for simultaneous estimation of myricetin and [quercetin](/nighantu/reference/quercetinquercetin/) as quality markers in leaf extract, following ICH guidelines for standardization.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

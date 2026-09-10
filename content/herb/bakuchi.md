@@ -16,7 +16,7 @@ aliases: ["Psoralea corylifolia L. (syn. Cullen corylifolium)"]
 tags: ["ayurveda", "herb", "single-herb", "skin-beauty", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 808
+words: 805
 srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Bakuchi/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,10 +53,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Bakuchi/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Prospective, randomized, double-blind assessment of topical bakuchiol and retinol for facial photoageing** (2019): Bakuchiol is comparable with retinol in its ability to improve photoageing including wrinkles, pigmentation, elasticity, firmness, and overall photodamage, with significantly better tolerability and fewer side effects than retinol.
-- **Management of Baras (Vitiligo) with Babchi (Psoralea corylifolia) and Micro-needling: A Case Report** (2024): Combined therapy of Babchi (Psoralea corylifolia) oil with micro-needling showed significant repigmentation in a 62-year-old female vitiligo patient, attributed to active ingredients psoralen, [rhein](/nighantu/glossary/compounds-q-t/#rhein), and bergapten promoting melanogenesis.
-- **Encapsulated bakuchiol cream formula on facial skin quality** (2024): A 0.5% encapsulated bakuchiol cream formulation demonstrated superior pore size reduction compared to oil formulation, confirming enhanced delivery and efficacy of bakuchiol in anti-aging skincare.
-- **Multidirectional activity of bakuchiol against cellular mechanisms of facial ageing** (2022): Bakuchiol demonstrated holistic anti-aging treatment through stimulation of collagen I, III and IV synthesis, MMP-1 suppression, [antioxidant](/nighantu/reference/antioxidant/) activity, and modulation of multiple skin aging pathways simultaneously.
+- Dhaliwal S, Rybak I, Ellis SR and others 2019. [Prospective, randomized, double-blind assessment of topical bakuchiol and retinol for facial photoageing](https://pubmed.ncbi.nlm.nih.gov/29947134/). *The British journal of dermatology*. PMID [29947134](https://pubmed.ncbi.nlm.nih.gov/29947134/) · [doi:10.1111/bjd.16918](https://doi.org/10.1111/bjd.16918)  
+  Bakuchiol is comparable with retinol in its ability to improve photoageing including wrinkles, pigmentation, elasticity, firmness, and overall photodamage, with significantly better tolerability and fewer side effects than retinol.
+- Bluemke A, Ring AP, Immeyer J and others 2022. [Multidirectional activity of bakuchiol against cellular mechanisms of facial ageing - Experimental evidence for a holistic treatment approach](https://pubmed.ncbi.nlm.nih.gov/35514037/). *International journal of cosmetic science*. PMID [35514037](https://pubmed.ncbi.nlm.nih.gov/35514037/) · [doi:10.1111/ics.12784](https://doi.org/10.1111/ics.12784)  
+  Bakuchiol demonstrated holistic anti-aging treatment through stimulation of collagen I, III and IV synthesis, MMP-1 suppression, [antioxidant](/nighantu/reference/antioxidant/) activity, and modulation of multiple skin aging pathways simultaneously.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

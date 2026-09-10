@@ -16,7 +16,7 @@ aliases: ["Agaricus campestris L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 591
+words: 575
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chhatraka/meta-analysis.md"
 ---
 ## Names and identification
@@ -52,9 +52,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chhatraka/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Genus Agaricus Species Found in the Himalayas: Agaricus campestris L. and Agaricus augustus Fr.** (2023): Documented phytochemical and nutritional composition of Himalayan Agaricus species including bioactive compounds with antioxidant and immunomodulatory potential.
-- **Insulin-releasing and insulin-like activity of Agaricus campestris (mushroom)** (1998): A. campestris demonstrated antihyperglycaemic, insulin-releasing and insulin-like activity, countering hyperglycemia in streptozotocin-diabetic mice - a landmark study validating antidiabetic potential.
-- **Bioactive compounds and pharmacological activities of edible Agaricus species** (2022): Review documented [flavonoids](/nighantu/reference/flavonoids/), [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids), [saponins](/nighantu/reference/saponins/), and [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) in Agaricus campestris with antioxidant, [antimicrobial](/nighantu/reference/antimicrobial/), immunomodulatory, and [antitumor](/nighantu/glossary/pharmacology/#antitumor) properties.
+- Gray AM, Flatt PR 1998. [Insulin-releasing and insulin-like activity of Agaricus campestris (mushroom)](https://pubmed.ncbi.nlm.nih.gov/9659289/). *The Journal of endocrinology*. PMID [9659289](https://pubmed.ncbi.nlm.nih.gov/9659289/) · [doi:10.1677/joe.0.1570259](https://doi.org/10.1677/joe.0.1570259)  
+  A. campestris demonstrated antihyperglycaemic, insulin-releasing and insulin-like activity, countering hyperglycemia in streptozotocin-diabetic mice - a landmark study validating antidiabetic potential.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

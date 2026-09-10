@@ -16,7 +16,7 @@ aliases: ["Agastya Haritaki Rasayana", "AgastyaHaritakiRasayana"]
 tags: ["ayurveda", "formulation", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 577
+words: 536
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Rasayanas-Rejuvenatives/Agastya-Haritaki-Rasayana/meta-analysis.md"
 ---
 ## Names and identification
@@ -61,9 +61,9 @@ Charaka Samhita, Chikitsa Sthana 17th chapter (Kasa Chikitsa: 57-62); Ashtanga H
 
 ## What do recent clinical trials show?
 
-- **Agastya [Haritaki](/nighantu/herb/haritaki/) Rasayana|[Agastya](/nighantu/herb/agastya/) [Haritaki](/nighantu/herb/haritaki/) Rasayana: A Critical Review** (2019): Comprehensive critical review documented therapeutic actions including bronchodilatory, anti-inflammatory, immunomodulatory, and mucolytic properties validated through pharmacological studies
-- **Evaluation of the Effect of Pranayama and Agastya [Haritaki](/nighantu/herb/haritaki/) Rasayana|[Agastya](/nighantu/herb/agastya/) Haritaki Rasayana on Pranvaha Srotas** (2021): Clinical study demonstrated measurable improvement in cardiorespiratory parameters with [Agastya](/nighantu/herb/agastya/) Haritaki Rasayana administration
-- **[Agastya](/nighantu/herb/agastya/) Haritaki: A Comprehensive Review of its standardization and therapeutic potential** (2023): HPTLC analysis and physicochemical standardization established quality parameters; formulation demonstrated consistent therapeutic activity across standardized batches
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

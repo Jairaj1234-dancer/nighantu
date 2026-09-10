@@ -16,7 +16,7 @@ aliases: ["Naga Bhasma", "NagaBhasma"]
 tags: ["ayurveda", "bhasma", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 637
+words: 543
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Naga-Bhasma/meta-analysis.md"
 ---
 ## Names and identification
@@ -48,10 +48,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Naga-Bhasma/meta-ana
 
 ## What do recent clinical trials show?
 
-- **Safety profile of [Naga Bhasma](/nighantu/herb/naga-bhasma/) prepared by two classical methods** (2024): Compared toxicity profiles of two preparation methods: one using Parada/[Gandhaka](/nighantu/glossary/concepts-a-m/#gandhaka)/[Nimbu](/nighantu/herb/nimbu/) Swarasa and another using [Ashwattha](/nighantu/herb/ashwattha/)-Twaka-Churna/Manahshila/[Nimbu](/nighantu/herb/nimbu/) Swarasa. Properly prepared [Naga Bhasma](/nighantu/herb/naga-bhasma/) was found safe in histopathology study on rats at 6 mg/100g/day dose.
-- **Safety and toxicity issues associated with lead-based traditional herbo-metallic preparations** (2013): Review highlighted that modern scientists consider these preparations toxic due to large amounts of metal content. No rigorous evidence supports claims that lead-based Bhasmas are non-toxic. Documented case reports of lead poisoning contradict safety theories.
-- **Fatal Lead Toxicity From Ayurvedic Supplements in a Patient With Parkinson's Disease** (2024): Fatal case report of lead toxicity from Ayurvedic supplements. Patient had blood lead levels far exceeding acceptable thresholds. The medicine contained extremely high levels of lead and arsenic, hundreds of thousands of times above FDA limits.
-- **Synthesis, Characterization and Histopathological Study of a Lead-Based Indian Traditional Drug: [Naga Bhasma](/nighantu/herb/naga-bhasma/)** (2010): Repeated calcination converts lead to nano-crystalline lead sulfide form. The Shodhana process removes heavy metals other than lead. However, the drug still contains lead as its primary constituent.
+- Singh SK, Gautam DN, Kumar M and others 2010. [Synthesis, characterization and histopathological study of a lead-based Indian traditional drug: naga bhasma](https://pubmed.ncbi.nlm.nih.gov/20582186/). *Indian journal of pharmaceutical sciences*. PMID [20582186](https://pubmed.ncbi.nlm.nih.gov/20582186/) · [doi:10.4103/0250-474X.62232](https://doi.org/10.4103/0250-474X.62232)  
+  Repeated calcination converts lead to nano-crystalline lead sulfide form. The Shodhana process removes heavy metals other than lead. However, the drug still contains lead as its primary constituent.
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

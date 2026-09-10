@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Bhasmas"
-answer: "Godanti Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 250–500 mg twice daily. Significant antipyretic activity against yeast-induced fever in rats. Significant gastroprotective activity with 44.72% protection in stress-induced ulcers and 45.35% in diclofenac-induced ulcers."
+answer: "Godanti Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 250–500 mg twice daily. An absence here means we could not identify the source, not that no work exists."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Godanti Bhasma", "GodantiBhasma"]
 tags: ["ayurveda", "bhasma", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 452
+words: 378
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Godanti-Bhasma/meta-analysis.md"
 ---
 ## Names and identification
@@ -48,9 +48,9 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Godanti-Bhasma/meta-
 
 ## What do recent clinical trials show?
 
-- **Toxicological and Pharmacological Assessment of [Godanti Bhasma](/nighantu/herb/godanti-bhasma/)** (2015): Acute toxicity LD50 in Class IV (>2000 mcg/kg). Significant antipyretic activity against yeast-induced fever in rats. Significant gastroprotective activity with 44.72% protection in stress-induced ulcers and 45.35% in diclofenac-induced ulcers.
-- **Updated Overview on [Godanti Bhasma](/nighantu/herb/godanti-bhasma/) (An Ayurvedic Formulation of Gypsum)** (2020): Comprehensive review confirmed [Godanti Bhasma](/nighantu/herb/godanti-bhasma/) as a promising formulation for peptic ulcer disease, pyrexia of unknown origin, and calcium supplementation. Safe in dose-dependent manner.
-- **Review of analytical study of [Godanti Bhasma](/nighantu/herb/godanti-bhasma/)** (2019): Analytical standardization confirmed calcium sulfate composition with consistent physicochemical parameters across properly prepared batches. Established quality markers for authentication.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

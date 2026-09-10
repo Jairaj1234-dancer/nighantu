@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Rasa-Shastra-Alchemical-Preparations"
 group: "Siddha-Makardhwaj"
-answer: "Siddha Makardhwaj is a substance used in the Ayurvedic materia medica. Usual dose: 30–60 mg twice daily. The Ayurvedic detoxification process (Sodhana) may modify metal properties, abolishing toxicity while retaining pharmacological activity."
+answer: "Siddha Makardhwaj is a substance used in the Ayurvedic materia medica. Usual dose: 30–60 mg twice daily. [Safety evaluation of mercury based Ayurvedic formulation (Sidh Makardhwaj) on brain cerebrum, liver & kidney in rats](https://pubmed.ncbi.nlm.nih.gov/24927349/)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Siddha Makardhwaj", "SiddhaMakardhwaj"]
 tags: ["ayurveda", "rasa-shastra", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 543
+words: 599
 srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Siddha-Makardhwaj/meta-analysis.md"
 ---
 ## Names and identification
@@ -38,9 +38,12 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Siddha-Makardhwaj/
 
 ## What do recent clinical trials show?
 
-- **Safety evaluation of mercury based Ayurvedic formulation (Sidh Makardhwaj) on brain cerebrum, liver & kidney in rats** (2014): At therapeutic dose (10 mg/kg) and up to 5x the human dose for 28 days, no significant toxicity was observed in liver, kidney, or brain cerebrum of rats, despite mercury content far exceeding EPA reference dose. The Ayurvedic detoxification process (Sodhana) may modify metal properties, abolishing toxicity while retaining pharmacological activity.
-- **Ninety days repeated dose oral toxicity study of Makaradhwaja in Wistar rats** (2017): NOAEL established at 27 mg/kg/day for 90 consecutive days. No treatment-related histopathological changes observed. Significant increase in kidney weight at high dose noted but not correlated with biochemical or histopathological changes.
-- **Heavy Metals in Indian Traditional Systems of Medicine: A Systematic Scoping Review** (2021): Systematic review identified that while individual studies show safety of properly prepared formulations at therapeutic doses, regulatory mechanisms have been insufficient, and heavy metal toxicity with traditional Indian medicine preparations continues to be a public health concern. Errors in preparation can lead to dangerous health issues.
+- Kumar G, Srivastava A, Sharma SK and others 2014. [Safety evaluation of mercury based Ayurvedic formulation (Sidh Makardhwaj) on brain cerebrum, liver & kidney in rats](https://pubmed.ncbi.nlm.nih.gov/24927349/). *The Indian journal of medical research*. PMID [24927349](https://pubmed.ncbi.nlm.nih.gov/24927349/)  
+  At therapeutic dose (10 mg/kg) and up to 5x the human dose for 28 days, no significant toxicity was observed in liver, kidney, or brain cerebrum of rats, despite mercury content far exceeding EPA reference dose. The Ayurvedic detoxification process (Sodhana) may modify metal properties, abolishing toxicity while retaining pharmacological activity.
+- Jamadagni S, Jamadagni PS, Singh RK and others 2017. [Ninety days repeated dose oral toxicity study of Makaradhwaja in Wistar rats](https://pubmed.ncbi.nlm.nih.gov/30254400/). *Ayu*. PMID [30254400](https://pubmed.ncbi.nlm.nih.gov/30254400/) · [doi:10.4103/ayu.AYU_33_17](https://doi.org/10.4103/ayu.AYU_33_17)  
+  NOAEL established at 27 mg/kg/day for 90 consecutive days. No treatment-related histopathological changes observed. Significant increase in kidney weight at high dose noted but not correlated with biochemical or histopathological changes.
+- Mukhopadhyay S, Abraham SE, Holla B and others 2021. [Heavy Metals in Indian Traditional Systems of Medicine: A Systematic Scoping Review and Recommendations for Integrative Medicine Practice](https://pubmed.ncbi.nlm.nih.gov/34142855/). *Journal of alternative and complementary medicine (New York, N.Y.)*. PMID [34142855](https://pubmed.ncbi.nlm.nih.gov/34142855/) · [doi:10.1089/acm.2021.0083](https://doi.org/10.1089/acm.2021.0083)  
+  Systematic review identified that while individual studies show safety of properly prepared formulations at therapeutic doses, regulatory mechanisms have been insufficient, and heavy metal toxicity with traditional Indian medicine preparations continues to be a public health concern. Errors in preparation can lead to dangerous health issues.
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: ["Citrus medica L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 676
+words: 702
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Matulunga/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Matulunga/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **An Insight into Citrus medica Linn.: A Systematic Review on Phytochemical Profile and Biological Activities** (2023): Systematic review documenting [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols), [flavonoids](/nighantu/reference/flavonoids/), [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids), [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids), [tannins](/nighantu/reference/tannins/), [saponins](/nighantu/reference/saponins/), and [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) with demonstrated [anticancer](/nighantu/reference/anticancer/), [antidiabetic](/nighantu/reference/antidiabetic/), [antimicrobial](/nighantu/reference/antimicrobial/), [analgesic](/nighantu/reference/analgesic/), and cardioprotective activities.
-- **Citrus medica: nutritional, phytochemical composition and health benefits - a review** (2024): Comprehensive review confirming nutraceutical benefits including anti-catarrhal, capillary protector, anti-hypertensive, [diuretic](/nighantu/reference/diuretic/), anthelmintic, and antihyperglycemic properties.
-- **Etrog Citron (Citrus medica) as a Novel Source of Antimicrobial Agents: Overview of Its Bioactive Phytochemicals and Delivery Approaches** (2025): Documented novel antimicrobial delivery approaches using citron bioactive compounds with significant activity against foodborne and clinical pathogens.
+- Chhikara N , Kour R , Jaglan S  and others 2018. [Citrus medica: nutritional, phytochemical composition and health benefits - a review](https://pubmed.ncbi.nlm.nih.gov/29594287/). *Food & function*. PMID [29594287](https://pubmed.ncbi.nlm.nih.gov/29594287/) · [doi:10.1039/c7fo02035j](https://doi.org/10.1039/c7fo02035j)  
+  Comprehensive review confirming nutraceutical benefits including anti-catarrhal, capillary protector, anti-hypertensive, [diuretic](/nighantu/reference/diuretic/), anthelmintic, and antihyperglycemic properties.
+- Dahan A, Yarmolinsky L, Nakonechny F and others 2025. [Etrog Citron (Citrus medica) as a Novel Source of Antimicrobial Agents: Overview of Its Bioactive Phytochemicals and Delivery Approaches](https://pubmed.ncbi.nlm.nih.gov/40574073/). *Pharmaceutics*. PMID [40574073](https://pubmed.ncbi.nlm.nih.gov/40574073/) · [doi:10.3390/pharmaceutics17060761](https://doi.org/10.3390/pharmaceutics17060761)  
+  Documented novel antimicrobial delivery approaches using citron bioactive compounds with significant activity against foodborne and clinical pathogens.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

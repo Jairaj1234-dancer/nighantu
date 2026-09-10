@@ -16,7 +16,7 @@ aliases: ["Cedrus deodara (Roxb. ex D.Don) G.Don"]
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 652
+words: 631
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Devadaru/meta-analysis.md"
 ---
 ## Names and identification
@@ -58,9 +58,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Devadaru/meta-analysis.m
 
 ## What do recent clinical trials show?
 
-- **Cedrus deodara (Roxb.): a review on the recent update on its pharmacological and phytochemical profile** (2023): Comprehensive review of 105 chemical constituents identified [anticancer](/nighantu/reference/anticancer/), antimicrobial, neuroprotective, [antidiabetic](/nighantu/reference/antidiabetic/), antiurolithiatic and antiasthmatic activities; noted non-toxic profile in rabbit and sheep skin models.
-- **Ethnobotanical Uses, Phytochemistry, Biological Potential and Structural Modification of Himachalane Present in Cedrus deodara** (2024): Himachalane sesquiterpenes showed potent insecticidal, antifungal and spasmolytic activities; structural modifications enhanced bioavailability and target selectivity.
-- **Cedrus deodara: A review of traditional use, phytochemical composition and pharmacology** (2023): Confirmed taxifolin and deodarin as major bark [flavonoids](/nighantu/reference/flavonoids/) with potent antioxidant and anti-inflammatory properties; wood essential oil showed significant [analgesic](/nighantu/reference/analgesic/) effects.
+- Bisht A, Jain S, Misra A and others 2021. [Cedrus deodara (Roxb. ex D.Don) G.Don: A review of traditional use, phytochemical composition and pharmacology](https://pubmed.ncbi.nlm.nih.gov/34166738/). *Journal of ethnopharmacology*. PMID [34166738](https://pubmed.ncbi.nlm.nih.gov/34166738/) · [doi:10.1016/j.jep.2021.114361](https://doi.org/10.1016/j.jep.2021.114361)  
+  Confirmed taxifolin and deodarin as major bark [flavonoids](/nighantu/reference/flavonoids/) with potent antioxidant and anti-inflammatory properties; wood essential oil showed significant [analgesic](/nighantu/reference/analgesic/) effects.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

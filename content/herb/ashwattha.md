@@ -16,7 +16,7 @@ aliases: ["Ficus religiosa L."]
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 587
+words: 572
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Ashwattha/meta-analysis.md"
 ---
 ## Names and identification
@@ -58,9 +58,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Ashwattha/meta-analysis.
 
 ## What do recent clinical trials show?
 
-- **Comprehensive review on ethnomedicinal, phytochemistry and pharmacological profile of Ficus Religiosa L.** (2024): Confirmed broad-spectrum pharmacological properties including anti-Parkinson, anti-amnesic, anticholinesterase, [anticancer](/nighantu/reference/anticancer/) and memory-enhancing activities via modulation of oxidative stress and neuroinflammatory pathways.
-- **A review on the ethnopharmacology, metabolites, pharmacological uses, and toxicology of Ficus species** (2025): Identified novel phenolic sesquiterpenes, furanocoumarins and flavonoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) with potent anti-inflammatory and neuroprotective mechanisms across Ficus species including F. religiosa.
-- **Phytochemical Screening of Ficus Religiosa Root Bark** (2024): Root bark phytochemical screening revealed rich presence of [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids), flavonoids, [tannins](/nighantu/reference/tannins/), [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids), [saponins](/nighantu/reference/saponins/) and glycosides with significant antioxidant capacity (DPPH IC50 values).
+- Chen M, Liu J, Zou S and others 2025. [A review on the ethnopharmacology, metabolites, pharmacological uses, and toxicology of Ficus hirta (Moraceae) Vahl](https://pubmed.ncbi.nlm.nih.gov/40385474/). *Frontiers in pharmacology*. PMID [40385474](https://pubmed.ncbi.nlm.nih.gov/40385474/) · [doi:10.3389/fphar.2025.1545348](https://doi.org/10.3389/fphar.2025.1545348)  
+  Identified novel phenolic sesquiterpenes, furanocoumarins and flavonoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) with potent anti-inflammatory and neuroprotective mechanisms across Ficus species including F. religiosa.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

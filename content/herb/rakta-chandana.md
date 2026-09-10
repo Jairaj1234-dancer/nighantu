@@ -16,7 +16,7 @@ aliases: ["Pterocarpus santalinus L.f.", "Rakta Chandana", "RaktaChandana"]
 tags: ["ayurveda", "herb", "single-herb", "skin-beauty", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 686
+words: 719
 srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Rakta-Chandana/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Rakta-Chandana/meta-analysis.md
 
 ## What do recent clinical trials show?
 
-- **Therapeutic Potential of Pterocarpus santalinus L. - Phytoconstituent Review** (2016): Comprehensive review highlighted dermatological applications of [pterostilbene](/nighantu/glossary/compounds-o-q/#pterostilbene), savinin, and betulin as potential leads for anti-aging, UV-B protective, and wound healing applications in skin care.
-- **Wound Healing Potential of Pterocarpus santalinus Linn: A Pharmacological Evaluation** (2005): Red sandalwood ointment significantly accelerated wound healing in punch and burn wound models, with enhanced collagenesis and supporting biochemical data in both normal and diabetic rats.
-- **Pterocarpus santalinus Selectively Inhibits Pro-Inflammatory Genes in IL-1 Stimulated Endothelial Cells** (2022): Red sandalwood extract selectively inhibited a subset of pro-inflammatory gene expression in IL-1 stimulated endothelial cells, demonstrating targeted anti-inflammatory activity relevant to inflammatory skin conditions.
+- Biswas TK, Maity LN, Mukherjee B 2004. [Wound healing potential of Pterocarpus santalinus linn: a pharmacological evaluation](https://pubmed.ncbi.nlm.nih.gov/15866805/). *The international journal of lower extremity wounds*. PMID [15866805](https://pubmed.ncbi.nlm.nih.gov/15866805/) · [doi:10.1177/1534734604268385](https://doi.org/10.1177/1534734604268385)  
+  Red sandalwood ointment significantly accelerated wound healing in punch and burn wound models, with enhanced collagenesis and supporting biochemical data in both normal and diabetic rats.
+- Natalia P, Zwirchmayr J, Rudžionytė I and others 2021. [Pterocarpus santalinus Selectively Inhibits a Subset of Pro-Inflammatory Genes in Interleukin-1 Stimulated Endothelial Cells](https://pubmed.ncbi.nlm.nih.gov/35115943/). *Frontiers in pharmacology*. PMID [35115943](https://pubmed.ncbi.nlm.nih.gov/35115943/) · [doi:10.3389/fphar.2021.802153](https://doi.org/10.3389/fphar.2021.802153)  
+  Red sandalwood extract selectively inhibited a subset of pro-inflammatory gene expression in IL-1 stimulated endothelial cells, demonstrating targeted anti-inflammatory activity relevant to inflammatory skin conditions.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

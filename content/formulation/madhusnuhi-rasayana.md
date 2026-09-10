@@ -16,7 +16,7 @@ aliases: ["Madhusnuhi Rasayana", "MadhusnuhiRasayana"]
 tags: ["ayurveda", "formulation", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 493
+words: 454
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Rasayanas-Rejuvenatives/Madhusnuhi-Rasayana/meta-analysis.md"
 ---
 ## Names and identification
@@ -65,9 +65,9 @@ Sahasrayogam (under Lehya Kalpana); 15th-16th century texts describe it as maste
 
 ## What do recent clinical trials show?
 
-- **A comparative clinical study to evaluate the effect of [Madhusnuhi Rasayana](/nighantu/formulation/madhusnuhi-rasayana/) and Shiva Gutika in Kitibha Kushta with special reference to psoriasis** (2023): [Madhusnuhi Rasayana](/nighantu/formulation/madhusnuhi-rasayana/) demonstrated significant efficacy in managing Kitibha Kushta (psoriasis), comparable to Shiva Gutika in clinical outcomes
-- **Pharmaceutical study on Brihat [Madhusnuhi Rasayana](/nighantu/formulation/madhusnuhi-rasayana/)** (2020): Pharmaceutical feasibility validated with organoleptic evaluation confirming consistent quality in standardized preparation methods
-- **Smilax china (Chopachini/Madhusnuhi) - pharmacological evaluation** (2017): Smilax china demonstrated anti-inflammatory, anti-rheumatic, anti-syphilitic, and blood-purifying activities supporting traditional [Rasayana](/nighantu/reference/rasayana/) claims
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

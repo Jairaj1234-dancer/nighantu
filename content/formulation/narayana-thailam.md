@@ -16,7 +16,7 @@ aliases: ["Narayana Thailam", "NarayanaThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 606
+words: 533
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Narayana-Thailam/meta-analysis.md"
 ---
 ## Names and identification
@@ -59,9 +59,9 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa, verses 140-150) by Govind Das Sen. Th
 
 ## What do recent clinical trials show?
 
-- **Observational study of Narayana Tailam Abhyanga in osteoarthritis** (2018): Classical sources and modern observational studies note significant reduction in stiffness and swelling in osteoarthritis patients after 21 days of twice-daily Abhyanga with Narayana Tailam.
-- **Pilot trial of Narayana Tailam in lower back spasms at BHU** (2019): In a pilot trial at Banaras Hindu University, subjects with lower back spasms reported 60% improvement in pain scores after four weeks of nightly oleation and steam fomentation (Swedana) using Narayana Tailam.
-- **Transdermal delivery mechanism of Ayurvedic medicated oils including Narayana Tailam** (2020): The [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) lipid medium facilitates transdermal delivery of lipophilic phytoconstituents like saponins, lignans, and phenolics, which exert anti-inflammatory, analgesic, and [antioxidant](/nighantu/reference/antioxidant/) effects at musculoskeletal target sites.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

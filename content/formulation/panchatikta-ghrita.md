@@ -16,7 +16,7 @@ aliases: ["Panchatikta Ghrita", "PanchatiktaGhrita"]
 tags: ["ayurveda", "formulation", "ghritam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 547
+words: 466
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Panchatikta-Ghrita/meta-analysis.md"
 ---
 ## Names and identification
@@ -59,9 +59,9 @@ Bhaishajya Ratnavali Kushta Adhikara (Panchatikta [Ghrita](/nighantu/herb/ghrita
 
 ## What do recent clinical trials show?
 
-- **Exploring the stability of [Mahatiktaka Ghrita](/nighantu/glossary/concepts-a-m/#mahatiktaka-ghrita): A comprehensive study on Microbial Integrity** (2024): [Mahatiktaka Ghrita](/nighantu/glossary/concepts-a-m/#mahatiktaka-ghrita) remained free of bacterial and fungal growth for 494 days from preparation even at 30-42 degrees C room temperature, demonstrating excellent microbial stability and shelf life
-- **Clinical Evaluation of Efficacy and Safety of Classical Ayurveda Formulations, [Panchatikta Ghrita](/nighantu/formulation/panchatikta-ghrita/) and Nalpamaradi Taila, in the Management of Psoriasis** (2019): Multicenter trial with 120 psoriasis patients showed [Panchatikta Ghrita](/nighantu/formulation/panchatikta-ghrita/) at 6g twice daily for 12 weeks with acceptable safety and tolerability profile
-- **Clinical study on Efficacy of [Panchatikta Ghrita](/nighantu/formulation/panchatikta-ghrita/) and Virechana on patients of psoriasis (Eka kushtha)** (2021): Combined leech therapy and [Panchatikta Ghrita](/nighantu/formulation/panchatikta-ghrita/) achieved 65% improvement in psoriasis management, superior to individual therapy showing 45-47% improvement
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

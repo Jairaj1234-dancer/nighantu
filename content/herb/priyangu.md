@@ -16,7 +16,7 @@ aliases: ["Callicarpa macrophylla Vahl."]
 tags: ["ayurveda", "herb", "single-herb", "skin-beauty", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 661
+words: 538
 srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Priyangu/meta-analysis.md"
 ---
 ## Names and identification
@@ -55,10 +55,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Priyangu/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Pharmacological and Traditional Insights into Callicarpa macrophylla: A Comprehensive Review** (2025): Comprehensive review establishing antifungal, anti-inflammatory, antibacterial, analgesic, anti-diabetic, anti-arthritic, and antipyretic activities of crude extracts and isolated compounds. Called for validation of traditional gynecological uses in human clinical models.
-- **Callicarpa macrophylla: A Review Update on its Botany, Ethnobotany, Phytochemistry and Pharmacology** (2021): Updated phytochemical profiling identifying calliterpenone as the key diterpenoid along with flavonoids (luteolin, [apigenin](/nighantu/glossary/compounds-1-a/#apigenin)), [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids) (ursolic acid, betulinic acid), and [sterols](/nighantu/glossary/compounds-q-t/#sterols). Wide-spectrum pharmacological activities documented.
-- **Systematic review of Priyangu (Callicarpa macrophylla)** (2021): Systematic review in Journal of Ayurveda and Integrated Medical Sciences analyzing classical references and modern evidence. Traditional gynecological applications (Yonishodhana, obstetric conditions) need validation through controlled clinical trials.
-- **Callicarpa macrophylla: A Review of its Phytochemistry, Pharmacology, Folklore Claims and Ayurvedic Studies** (2020): Review documenting anti-inflammatory activity through inhibition of carrageenan-induced paw edema and analgesic activity comparable to standard drugs. Anti-arthritic potential confirmed in Freund's adjuvant arthritis model.
+
+
+*4 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

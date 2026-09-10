@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Animal-Derived-Products"
 group: "Takra"
-answer: "Takra is a substance used in the Ayurvedic materia medica. Usual dose: 100–200 mL with meals. Takra: An Integrative Review on its Efficacy in Irritable Bowel Syndrome (2024): Integrative review of clinical and preclinical evidence supports Takra's efficacy in IBS management through probiotic restoration, sphingolipid-mediated gut barrier strengthening, and Agni-enhancing mechanisms."
+answer: "Takra is a substance used in the Ayurvedic materia medica. Usual dose: 100–200 mL with meals. An absence here means we could not identify the source, not that no work exists."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "animal-product", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 539
+words: 463
 srcRel: "Ayurveda/Others/Animal-Derived-Products/Takra/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,9 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Takra/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **The Essence of Takra: A Comprehensive Overview of Buttermilk in Ayurveda** (2025): Comprehensive review confirmed Takra's multifaceted therapeutic benefits including digestive, anti-inflammatory, and probiotic properties; innovative preparations of buttermilk present promising research opportunities.
-- **Takra: An Integrative Review on its Efficacy in Irritable Bowel Syndrome** (2024): Integrative review of clinical and preclinical evidence supports Takra's efficacy in IBS management through probiotic restoration, sphingolipid-mediated gut barrier strengthening, and Agni-enhancing mechanisms.
-- **Buttermilk (Takra) for Gut Health: A Review from the Standpoint of Ayurveda** (2023): Takra contains sphingolipids, lactoferrins, and beneficial proteins that are easily digestible; probiotic content confirmed as beneficial for diarrheal disease, constipation, inflammatory bowel disease, and IBS.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

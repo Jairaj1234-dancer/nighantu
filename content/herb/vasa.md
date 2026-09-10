@@ -16,7 +16,7 @@ aliases: ["Adhatoda vasica Nees (syn. Justicia adhatoda L.)"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 599
+words: 583
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vasa/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vasa/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **[Vasaka](/nighantu/herb/vasaka/) (Adhatoda vasica): A Comprehensive Review on Its Phytochemistry, Pharmacology and Therapeutic Potential** (2025): Recent advances (2022-2025) in phytochemical profiling and pharmacological research expanded understanding of multi-target mechanisms against COPD, oxidative stress, microbial infections, and metabolic disorders.
-- **Adhatoda vasica (Malabar Nut): A Comprehensive Review of Phytochemistry and Pharmacological Potential** (2025): Documented antibacterial, antifungal, [anticancer](/nighantu/reference/anticancer/), [immunomodulatory](/nighantu/reference/immunomodulatory/), antitussive, [hepatoprotective](/nighantu/reference/hepatoprotective/), [antioxidant](/nighantu/reference/antioxidant/), antimalarial, and anti-Alzheimer's activities.
-- **Valorization of Adhatoda vasica Leaves: Extraction, In Vitro Analyses and In Silico Approaches** (2023): In silico and in vitro studies validated vasicine as potent [bronchodilator](/nighantu/reference/bronchodilator/) with favorable binding to beta-2 adrenergic receptor and muscarinic M3 receptor antagonism.
+- Rudrapal M, Vallinayagam S, Aldosari S and others 2023. [Valorization of Adhatoda vasica leaves: Extraction, in vitro analyses and in silico approaches](https://pubmed.ncbi.nlm.nih.gov/37063312/). *Frontiers in nutrition*. PMID [37063312](https://pubmed.ncbi.nlm.nih.gov/37063312/) · [doi:10.3389/fnut.2023.1161471](https://doi.org/10.3389/fnut.2023.1161471)  
+  In silico and in vitro studies validated vasicine as potent [bronchodilator](/nighantu/reference/bronchodilator/) with favorable binding to beta-2 adrenergic receptor and muscarinic M3 receptor antagonism.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

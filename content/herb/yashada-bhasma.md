@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Bhasmas"
-answer: "Yashada Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg. Novel applications identified beyond traditional uses. Jasada bhasma, a Zinc-Based Ayurvedic Preparation: Contemporary Evidence of Antidiabetic Activity Inspires Development of a Nanomedicine (2015): Four weeks treatment with zinc ash (1-10 mg/kg) improved glucose tolerance (16-19%), lowered blood glucose (20-33%), and reduced serum insulin levels (27-32%)."
+answer: "Yashada Bhasma is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg. [Characterization and potential novel applications of zinc-based traditional medicine, Yashad Bhasma](https://pubmed.ncbi.nlm.nih.gov/40886520/). Journal of Ayurveda and integrative medicine."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Yashada Bhasma", "YashadaBhasma"]
 tags: ["ayurveda", "bhasma", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 584
+words: 646
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Yashada-Bhasma/meta-analysis.md"
 ---
 ## Names and identification
@@ -48,10 +48,14 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Yashada-Bhasma/meta-
 
 ## What do recent clinical trials show?
 
-- **Characterization and potential novel applications of zinc-based traditional medicine, Yashad Bhasma** (2025): Comprehensive characterization of [Yashada Bhasma](/nighantu/herb/yashada-bhasma/) revealing antimicrobial, antioxidant, and anti-angiogenic activities. Novel applications identified beyond traditional uses.
-- **Jasada bhasma, a Zinc-Based Ayurvedic Preparation: Contemporary Evidence of [Antidiabetic](/nighantu/reference/antidiabetic/) Activity Inspires Development of a Nanomedicine** (2015): Four weeks treatment with zinc ash (1-10 mg/kg) improved glucose tolerance (16-19%), lowered blood glucose (20-33%), and reduced serum insulin levels (27-32%). Inspired development of modern zinc nanomedicine.
-- **Investigating the Role of Classical Ayurveda-Based Incineration Process on the Synthesis of Zinc Oxide Based Jasada Bhasma Nanoparticles and Zn2+ Bioavailability** (2023): Classical calcination process produces nano ZnO particles with enhanced Zn2+ bioavailability compared to commercial zinc supplements. The Ayurvedic process creates unique surface chemistry favoring absorption.
-- **Safety and bioactivity studies of Jasad Bhasma and its in-process intermediate in Swiss mice** (2017): No major cytotoxicity at tested dose levels. No behavioral abnormality, clinical signs, or mortality. SGOT, SGPT, and serum urea not significantly altered, indicating no major organ toxicity. Zinc Bhasma appears safe for human use.
+- Nille GC, Bhuyan M, Gupta LN and others 2025. [Characterization and potential novel applications of zinc-based traditional medicine, Yashad Bhasma](https://pubmed.ncbi.nlm.nih.gov/40886520/). *Journal of Ayurveda and integrative medicine*. PMID [40886520](https://pubmed.ncbi.nlm.nih.gov/40886520/) · [doi:10.1016/j.jaim.2025.101188](https://doi.org/10.1016/j.jaim.2025.101188)  
+  Comprehensive characterization of [Yashada Bhasma](/nighantu/herb/yashada-bhasma/) revealing antimicrobial, antioxidant, and anti-angiogenic activities. Novel applications identified beyond traditional uses.
+- Umrani RD, Paknikar KM 2015. [Jasada bhasma, a Zinc-Based Ayurvedic Preparation: Contemporary Evidence of Antidiabetic Activity Inspires Development of a Nanomedicine](https://pubmed.ncbi.nlm.nih.gov/25866533/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [25866533](https://pubmed.ncbi.nlm.nih.gov/25866533/) · [doi:10.1155/2015/193156](https://doi.org/10.1155/2015/193156)  
+  Four weeks treatment with zinc ash (1-10 mg/kg) improved glucose tolerance (16-19%), lowered blood glucose (20-33%), and reduced serum insulin levels (27-32%). Inspired development of modern zinc nanomedicine.
+- Balkrishna A, Sharma D, Sharma RK and others 2023. [Investigating the Role of Classical Ayurveda-Based Incineration Process on the Synthesis of Zinc Oxide Based Jasada Bhasma Nanoparticles and Zn(2+) Bioavailability](https://pubmed.ncbi.nlm.nih.gov/36713743/). *ACS omega*. PMID [36713743](https://pubmed.ncbi.nlm.nih.gov/36713743/) · [doi:10.1021/acsomega.2c05391](https://doi.org/10.1021/acsomega.2c05391)  
+  Classical calcination process produces nano ZnO particles with enhanced Zn2+ bioavailability compared to commercial zinc supplements. The Ayurvedic process creates unique surface chemistry favoring absorption.
+- Chavare A, Chowdari P, Ghosh S and others 2017. [Safety and bioactivity studies of Jasad Bhasma and its in-process intermediate in Swiss mice](https://pubmed.ncbi.nlm.nih.gov/27377339/). *Journal of ethnopharmacology*. PMID [27377339](https://pubmed.ncbi.nlm.nih.gov/27377339/) · [doi:10.1016/j.jep.2016.06.048](https://doi.org/10.1016/j.jep.2016.06.048)  
+  No major cytotoxicity at tested dose levels. No behavioral abnormality, clinical signs, or mortality. SGOT, SGPT, and serum urea not significantly altered, indicating no major organ toxicity. Zinc Bhasma appears safe for human use.
 
 ## Recent safety updates
 

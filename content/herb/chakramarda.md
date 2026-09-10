@@ -16,7 +16,7 @@ aliases: ["Cassia tora L. (syn. Senna tora)"]
 tags: ["ayurveda", "herb", "single-herb", "skin-beauty", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 673
+words: 656
 srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Chakramarda/meta-analysis.md"
 ---
 ## Names and identification
@@ -52,9 +52,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Chakramarda/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Cassia tora: Pharmacognosy, phytochemistry and pharmacological activities review** (2025): Comprehensive review confirmed significant antimicrobial, antifungal, anti-inflammatory, [hepatoprotective](/nighantu/reference/hepatoprotective/), and anthelmintic properties, with anthraquinone constituents showing potent activity against dermatophytes and skin pathogens.
-- **Identification of anthraquinones from Cassia tora seeds and antifungal activity** (2020): Chrysophanol, physcion, and emodin isolated from seeds showed strong antifungal activity against dermatophytes including T. mentagrophyte, with subfractions showing 4 to 8-fold higher activity than crude extract.
-- **Anthraquinones from Cassia tora (Leguminosae) seed antifungal property against phytopathogenic fungi** (2004): Emodin, physcion, and rhein demonstrated strong and moderate fungicidal activities against multiple fungal species (B. cinerea, E. graminis, P. infestans, R. solani), establishing the antifungal basis for traditional ringworm treatment.
+- Kim YM, Lee CH, Kim HG and others 2004. [Anthraquinones isolated from Cassia tora (Leguminosae) seed show an antifungal property against phytopathogenic fungi](https://pubmed.ncbi.nlm.nih.gov/15453672/). *Journal of agricultural and food chemistry*. PMID [15453672](https://pubmed.ncbi.nlm.nih.gov/15453672/) · [doi:10.1021/jf049379p](https://doi.org/10.1021/jf049379p)  
+  Emodin, physcion, and rhein demonstrated strong and moderate fungicidal activities against multiple fungal species (B. cinerea, E. graminis, P. infestans, R. solani), establishing the antifungal basis for traditional ringworm treatment.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

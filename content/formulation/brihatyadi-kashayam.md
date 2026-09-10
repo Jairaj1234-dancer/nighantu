@@ -16,7 +16,7 @@ aliases: ["Brihatyadi Kashayam", "BrihatyadiKashayam"]
 tags: ["ayurveda", "formulation", "kashayam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 449
+words: 419
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Brihatyadi-Kashayam/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,9 @@ Ashtangahrudayam Chikitsasthana, Mutraghata Adhyaya 11/35. Also referenced in Ch
 
 ## What do recent clinical trials show?
 
-- **Preliminary review of [Brihatyadi Kashayam](/nighantu/formulation/brihatyadi-kashayam/) components** (2019): Review in Journal of Ayurveda and Integrative Medicine confirmed antimicrobial, anti-inflammatory, and [antioxidant](/nighantu/reference/antioxidant/) properties of individual components.
-- **Diuretic and lithotriptic effects of [Gokshura](/nighantu/herb/gokshura/) in urinary disorders** (2020): [Gokshura](/nighantu/herb/gokshura/) (Tribulus terrestris) extract demonstrated significant diuretic and stone-dissolving properties in experimental urolithiasis models.
-- **Anti-inflammatory profile of Solanum indicum and S. xanthocarpum** (2021): Combined extracts showed anti-tussive, expectorant, antihistaminic, and [analgesic](/nighantu/reference/analgesic/) properties with significant inhibition of inflammatory mediators.
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: ["Amrita Ghrita", "AmritaGhrita"]
 tags: ["ayurveda", "formulation", "ghritam", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 574
+words: 530
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Amrita-Ghrita/meta-analysis.md"
 ---
 ## Names and identification
@@ -63,9 +63,9 @@ Bhavishya Ratnavali (Amrita [Ghrita](/nighantu/herb/ghrita/)|Amrita Ghrita); Ras
 
 ## What do recent clinical trials show?
 
-- **Serum immunoglobulin enhancement with [Amrita Ghrita](/nighantu/formulation/amrita-ghrita/) in elderly subjects** (2021): Randomized controlled trial reported 22% increase in serum immunoglobulin levels among elderly participants taking 5ml daily for 8 weeks
-- **Amrita: The ancient herb with modern healing potential and safety features** (2023): Comprehensive review confirms [Guduchi](/nighantu/herb/guduchi/)/Tinospora cordifolia as a Rasayana with enhanced general body resistance, anti-stress adaptogenic properties, and potential for infection resistance
-- **[Amritaprasha Ghrita](/nighantu/formulation/amritaprasha-ghrita/) - pharmacological evaluation of rejuvenative properties** (2020): Multi-herb formulation demonstrated [antioxidant](/nighantu/reference/antioxidant/), immunomodulatory, and adaptogenic activities in preclinical models supporting classical Rasayana claims
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: ["Polyherbal formulation: Plumbago zeylanica (Chitrak) + Terminalia che
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 704
+words: 684
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chitrakaharitaki/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,9 +53,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chitrakaharitaki/meta-analysi
 
 ## What do recent clinical trials show?
 
-- **A compendious review of Chitraka [Haritaki](/nighantu/herb/haritaki/) Avaleha - A polyherbal Ayurveda formulation for bronchial asthma** (2021): Comprehensive review documenting the formulation's evolution from 9th century Vrindamadhava text to modern practice, with evidence supporting use in bronchial asthma through mucolytic, anti-inflammatory, and bronchodilatory actions.
-- **Pharmaceutical validation of modified Chitraka [Haritaki](/nighantu/herb/haritaki/) Avaleha: An Ayurveda semisolid dosage form** (2021): Pharmaceutical standardization study with validated methods for quantifying reducing sugars, tannic acid, gallic acid, piperine, vitamin C, and total polyphenols, with stability confirmed over two years.
-- **Physico-chemical and Phytochemical Standardization of [Chitrak](/nighantu/herb/chitrak/) [Haritaki](/nighantu/herb/haritaki/) avaleha** (2022): Established comprehensive quality control parameters including physico-chemical, phytochemical, and HPTLC fingerprinting standards for batch-to-batch consistency.
+- Bhinde SM, Bhinde SS, Kori VK and others 2020. [A compendious review of Chitraka Haritaki Avaleha - A polyherbal Ayurveda formulation for bronchial asthma](https://pubmed.ncbi.nlm.nih.gov/34566379/). *Ayu*. PMID [34566379](https://pubmed.ncbi.nlm.nih.gov/34566379/) · [doi:10.4103/ayu.AYU_340_20](https://doi.org/10.4103/ayu.AYU_340_20)  
+  Comprehensive review documenting the formulation's evolution from 9th century Vrindamadhava text to modern practice, with evidence supporting use in bronchial asthma through mucolytic, anti-inflammatory, and bronchodilatory actions.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: ["Symplocos racemosa Roxb."]
 tags: ["ayurveda", "herb", "single-herb", "skin-beauty", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 654
+words: 520
 srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Lodhra/meta-analysis.md"
 ---
 ## Names and identification
@@ -55,11 +55,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Lodhra/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Formulation and Evaluation of Herbal Infusion of Symplocos racemosa for Leucorrhoea Management** (2024): Herbal infusion formulation using Lodhra bark standardized for active [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) showed promising results in managing leucorrhoea (vaginal discharge), supporting traditional gynecological application.
-- **Review of Lodhra (Symplocos racemosa Roxb.) - Its Other Types and Therapeutic Potential** (2024): Comprehensive review documenting three Lodhra varieties (Lodhra, Patti-Lodhra, Savara-Lodhra) with therapeutic potential in gynecological disorders, fever, inflammation, and liver disorders. Bark confirmed as primary medicinal part.
-- **Clinical study on wound healing with Lodhra paste** (2020): Clinical trial published in International Journal of Ayurveda Research found that Lodhra paste application resulted in faster wound closure compared to placebo group.
-- **Observational study on menstrual bleeding reduction with Lodhra** (2021): Pune hospital observational study documented significant menstrual bleeding reduction in women taking Lodhra decoction, consistent with traditional prescriptions for menorrhagia.
-- **Meta-analysis of Lodhra gynecological outcomes** (2022): Meta-analysis highlighted the lack of large randomized controlled trials on Lodhra's gynecological outcomes despite promising preliminary data from small-scale studies.
+
+
+*5 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

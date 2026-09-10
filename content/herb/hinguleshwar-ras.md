@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Rasa-Shastra-Alchemical-Preparations"
 group: "Hinguleshwar-Ras"
-answer: "Hinguleshwar Ras is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg twice daily. (2008): Cinnabar (HgS) is insoluble and poorly absorbed from the GI tract. Absorbed mercury from cinnabar accumulates mainly in kidneys, resembling inorganic mercury disposition."
+answer: "Hinguleshwar Ras is a substance used in the Ayurvedic materia medica. Usual dose: 125–250 mg twice daily. [Mercury in traditional medicines: is cinnabar toxicologically similar to common mercurials?](https://pubmed.ncbi.nlm.nih.gov/18445765/). Experimental biology and medicine (Maywood, N.J.)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Hinguleshwar Ras", "HinguleshwarRas"]
 tags: ["ayurveda", "rasa-shastra", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 474
+words: 501
 srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Hinguleshwar-Ras/meta-analysis.md"
 ---
 ## Names and identification
@@ -38,9 +38,12 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Hinguleshwar-Ras/m
 
 ## What do recent clinical trials show?
 
-- **Mercury in Traditional Medicines: Is Cinnabar Toxicologically Similar to Common Mercurials?** (2008): Cinnabar (HgS) is insoluble and poorly absorbed from the GI tract. Absorbed mercury from cinnabar accumulates mainly in kidneys, resembling inorganic mercury disposition. In risk assessment, cinnabar is less toxic than many other forms of mercury. Adverse effects at therapeutic doses of sulfide drugs like cinnabar are rare, generally reversible and tolerable.
-- **New insights and rethinking of cinnabar for chemical and its pharmacological dynamics** (2019): Cinnabar after traditional Shodhana significantly reduces heavy metal levels to safe limits. The processed HgS form has sedative, hypnotic, and anti-anxiety properties potentially related to GABAergic system modulation.
-- **Pharmacological and toxicological insights into the ayurvedic formulation Rasasindura** (2025): Purified mercury-containing preparations are safe at therapeutic concentrations with suitable vehicles, with reduced toxicity attributed to the insoluble HgS form. Higher concentrations mainly cause neurological toxicity.
+- Liu J, Shi JZ, Yu LM and others 2008. [Mercury in traditional medicines: is cinnabar toxicologically similar to common mercurials?](https://pubmed.ncbi.nlm.nih.gov/18445765/). *Experimental biology and medicine (Maywood, N.J.)*. PMID [18445765](https://pubmed.ncbi.nlm.nih.gov/18445765/) · [doi:10.3181/0712-MR-336](https://doi.org/10.3181/0712-MR-336)  
+  Cinnabar (HgS) is insoluble and poorly absorbed from the GI tract. Absorbed mercury from cinnabar accumulates mainly in kidneys, resembling inorganic mercury disposition. In risk assessment, cinnabar is less toxic than many other forms of mercury. Adverse effects at therapeutic doses of sulfide drugs like cinnabar are rare, generally reversible and tolerable.
+- Jain A, Sarsaiya S, Wu Q and others 2019. [New insights and rethinking of cinnabar for chemical and its pharmacological dynamics](https://pubmed.ncbi.nlm.nih.gov/31431119/). *Bioengineered*. PMID [31431119](https://pubmed.ncbi.nlm.nih.gov/31431119/) · [doi:10.1080/21655979.2019.1652491](https://doi.org/10.1080/21655979.2019.1652491)  
+  Cinnabar after traditional Shodhana significantly reduces heavy metal levels to safe limits. The processed HgS form has sedative, hypnotic, and anti-anxiety properties potentially related to GABAergic system modulation.
+
+*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

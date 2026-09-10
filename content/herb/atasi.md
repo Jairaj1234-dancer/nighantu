@@ -16,7 +16,7 @@ aliases: ["Linum usitatissimum L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 681
+words: 674
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Atasi/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Atasi/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Flaxseed (Linum usitatissimum): phytochemistry, pharmacological characteristics and functional food applications** (2024): Comprehensive review confirming SDG lignan as major bioactive compound with potent anti-cancer, anti-inflammatory, and cardioprotective properties; highlighted nanoformulation approaches to enhance bioavailability.
-- **Flaxseed As Medicinal Herb (IAJPS)** (2025): Updated review documenting significant anti-cancer activity against breast, colon, and prostate cancers through SDG-mediated estrogen receptor modulation and apoptosis induction.
-- **Comprehensive Review on Linum usitatissimum: Phytochemistry, Pharmacology, and Ethnomedicinal Uses** (2024): Confirmed [hepatoprotective](/nighantu/reference/hepatoprotective/), renoprotective, and immunosuppressive activities of pure compounds and crude extracts from flaxseed in multiple animal models.
+- Akter Y, Junaid M, Afrose SS and others 2021. [A Comprehensive Review on Linum usitatissimum Medicinal Plant: Its Phytochemistry, Pharmacology, and Ethnomedicinal Uses](https://pubmed.ncbi.nlm.nih.gov/33535948/). *Mini reviews in medicinal chemistry*. PMID [33535948](https://pubmed.ncbi.nlm.nih.gov/33535948/) · [doi:10.2174/1389557521666210203153436](https://doi.org/10.2174/1389557521666210203153436)  
+  Confirmed [hepatoprotective](/nighantu/reference/hepatoprotective/), renoprotective, and immunosuppressive activities of pure compounds and crude extracts from flaxseed in multiple animal models.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

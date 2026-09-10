@@ -16,7 +16,7 @@ aliases: ["Aconitum ferox Wall. ex Ser."]
 tags: ["ayurveda", "herb", "single-herb", "brain-nervous-system", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 872
+words: 845
 srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vatsanabha/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,10 +33,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vatsanabha/meta-analys
 
 ## What do recent clinical trials show?
 
-- **Forensic and toxicological insights into aconite poisoning: A retrospective analysis of clinical and postmortem findings** (2025): Retrospective analysis of 35 aconite poisoning cases: 17 fatalities (49% mortality rate) and 18 recoveries. Key finding: no correlation between ingested amount and outcome, suggesting individual susceptibility plays major role.
-- **Mass aconite poisoning from a mislabelled spice product** (2025): 11 patients presented with perioral paraesthesia (91%), nausea/vomiting/abdominal pain (64%) after consuming mislabelled aconite-containing spice product. Highlights danger of Aconitum species entering food supply chain.
-- **Jesaconitine monitoring in a case of severe aconitum poisoning with torsade de pointes treated via ECMO** (2025): First case report of successful monitoring of jesaconitine levels during ECMO treatment for severe aconite poisoning with torsade de pointes arrhythmia. ECMO provided life-saving hemodynamic support.
-- **A Comparative HPLC Quantification of Vatsanabha Root Processed in Cow's Urine and Cow's Milk** (2024): HPLC analysis confirmed that traditional Shodhana with cow's urine converts pseudoaconitine and aconitine into far less toxic veratroyl pseudoaconine and benzoylaconine. Cow's urine method showed superior detoxification compared to cow's milk.
+- Kent JT, Sathya A, Juurlink DN and others 2025. [Mass aconite poisoning from a mislabelled spice product](https://pubmed.ncbi.nlm.nih.gov/40637172/). *Clinical toxicology (Philadelphia, Pa.)*. PMID [40637172](https://pubmed.ncbi.nlm.nih.gov/40637172/) · [doi:10.1080/15563650.2025.2526115](https://doi.org/10.1080/15563650.2025.2526115)  
+  11 patients presented with perioral paraesthesia (91%), nausea/vomiting/abdominal pain (64%) after consuming mislabelled aconite-containing spice product. Highlights danger of Aconitum species entering food supply chain.
+- Tomita Y, Suzuki K, Kaizaki-Mitsumoto A and others 2025. [Jesaconitine monitoring in a case of severe aconitum poisoning with torsade de pointes treated via extracorporeal membrane oxygenation](https://pubmed.ncbi.nlm.nih.gov/39980743/). *Acute medicine & surgery*. PMID [39980743](https://pubmed.ncbi.nlm.nih.gov/39980743/) · [doi:10.1002/ams2.70047](https://doi.org/10.1002/ams2.70047)  
+  First case report of successful monitoring of jesaconitine levels during ECMO treatment for severe aconite poisoning with torsade de pointes arrhythmia. ECMO provided life-saving hemodynamic support.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -16,7 +16,7 @@ aliases: ["Clitoria ternatea L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 650
+words: 646
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aparajita/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,9 +51,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aparajita/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-- **Role of Aparajita (Clitoria ternatea) in Cancer Prevention and Therapy** (2025): Reviewed evidence from ethnomedicine, phytochemistry and pharmacology supporting [anticancer](/nighantu/reference/anticancer/) potential through multiple molecular pathways including apoptosis induction and angiogenesis inhibition.
-- **Clitoria ternatea Flower Against Endometrial Pain: Network Pharmacology and Molecular Docking** (2024): Demonstrated 91.47% suppression of heat-induced hemolysis and 81.89% inhibition of paw edema at 400 mg/kg; molecular docking showed strong binding of flavylium, kaempferol, and [quercetin](/nighantu/reference/quercetinquercetin/) to SRC, ESR1, and PI3KR1 targets.
-- **[Antidiabetic](/nighantu/reference/antidiabetic/) and [hepatoprotective](/nighantu/reference/hepatoprotective/) effect of butterfly pea flower through antioxidant and anti-inflammatory mechanisms** (2024): Butterfly pea flower extract showed significant blood glucose reduction, LDH and ALT lowering, and hepatoprotective effects in diabetic-dyslipidemic rat models.
+- Ahmed N, Tabassum N, Rashid PT and others 2024. [Clitoria ternatea L. (Butterfly Pea) Flower Against Endometrial Pain: Integrating Preliminary In Vivo and In Vitro Experimentations Supported by Network Pharmacology, Molecular Docking, and Molecular Dynamics Simulation Studies](https://pubmed.ncbi.nlm.nih.gov/39598271/). *Life (Basel, Switzerland)*. PMID [39598271](https://pubmed.ncbi.nlm.nih.gov/39598271/) · [doi:10.3390/life14111473](https://doi.org/10.3390/life14111473)  
+  Demonstrated 91.47% suppression of heat-induced hemolysis and 81.89% inhibition of paw edema at 400 mg/kg; molecular docking showed strong binding of flavylium, kaempferol, and [quercetin](/nighantu/reference/quercetinquercetin/) to SRC, ESR1, and PI3KR1 targets.
+
+*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
