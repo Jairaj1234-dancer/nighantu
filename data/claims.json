@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-10T06:48:45.980Z",
+ "updatedAt": "2026-09-10T06:50:42.774Z",
  "claims": {
   "formulation/abhayarishta#0": {
    "slug": "abhayarishta",
@@ -5213,6 +5213,1019 @@
     "Randomized Controlled Trial"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/21506190/",
+   "checkedAt": "2026-09-10"
+  },
+  "herb/aja-dugdha-goat-milk#350": {
+   "slug": "aja-dugdha-goat-milk",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "An Insight into Therapeutic and Nutritional Profile of Aja Dugdha (Goat's Milk): A Review",
+   "claimedYear": 2023,
+   "finding": "Goat milk possesses [anticancer](/nighantu/reference/anticancer/), [hepatoprotective](/nighantu/reference/hepatoprotective/), [cardioprotective](/nighantu/reference/cardioprotective/), and [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive) effects; its A2 beta-casein does not release BCM-7, making it hypoallergenic and suitable for cow milk protein allergy patients.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "herb/aja-dugdha-goat-milk#351": {
+   "slug": "aja-dugdha-goat-milk",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Bioactive peptides with antioxidant and ACE inhibitory properties in goat milk protein hydrolysates",
+   "claimedYear": 2025,
+   "finding": "Peptidomics and molecular docking studies identified novel bioactive peptides in goat milk hydrolysates with significant antioxidant and ACE-inhibitory (antihypertensive) properties.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "39863228",
+   "doi": "10.1016/j.ijbiomac.2025.140286",
+   "actualTitle": "Bioactive peptides with antioxidant and ACE inhibitory properties in goat milk protein hydrolysates: Peptidomics and molecular docking study",
+   "journal": "International journal of biological macromolecules",
+   "year": 2025,
+   "authors": [
+    "Zhang W",
+    "Abubaker MA",
+    "Li Z",
+    "He Y",
+    "Shu Q",
+    "Li L",
+    "Liu Y"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39863228/",
+   "checkedAt": "2026-09-10"
+  },
+  "herb/aja-dugdha-goat-milk#352": {
+   "slug": "aja-dugdha-goat-milk",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Aja Dugdha: Bridging Ayurvedic Tradition and Modern Nutrition",
+   "claimedYear": 2024,
+   "finding": "Modern studies confirm goat milk's rich nutrient profile, hypoallergenic properties, and beneficial bioactive components validate its traditional Ayurvedic use as a [Rasayana](/nighantu/reference/rasayana/), particularly in Kumkadi Taila formulation for hyperpigmentation.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "herb/ajwain#353": {
+   "slug": "ajwain",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Unlocking the food treasures: Trachyspermum ammi - A comprehensive exploration from field to pharmacology",
+   "claimedYear": 2024,
+   "finding": "Comprehensive review confirming ajwain's [antioxidant](/nighantu/reference/antioxidant/), anti-inflammatory, antihypertensive, anti-diabetic, and lipid-lowering activities with potential in treating chronic diseases including diabetes, cardiovascular diseases, and cancer.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "herb/ajwain#354": {
+   "slug": "ajwain",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Emerging Traditional and Pharmacological Health Benefits of Trachyspermum ammi (Ajwain): Future Aspects",
+   "claimedYear": 2025,
+   "finding": "Emerging evidence suggests ajwain may have [neuroprotective](/nighantu/reference/neuroprotective/) effects, particularly in preventing neurodegenerative diseases such as Alzheimer's and Parkinson's disease. Also highlighted potential role in gut microbiota modulation.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "herb/ajwain#355": {
+   "slug": "ajwain",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Acute and Sub-Acute Toxicity Studies and Pharmacodynamic Studies of Standardized Extract of Trachyspermum ammi",
+   "claimedYear": 2020,
+   "finding": "Standardized ajwain extract showed no toxicity in acute and sub-acute studies, while demonstrating significant anti-inflammatory action against chemically induced inflammation in rat models.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "32957888",
+   "doi": "10.2174/1570163817999200918103041",
+   "actualTitle": "Acute and Sub-Acute Toxicity Studies and Pharmacodynamic Studies of Standardized Extract of Trachyspermum ammi (L.) Sprague (Fruits) Against Chemically Induced Inflammation in Rats",
+   "journal": "Current drug discovery technologies",
+   "year": 2021,
+   "authors": [
+    "Saraswat N",
+    "Sachan N",
+    "Chandra P"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32957888/",
+   "checkedAt": "2026-09-10"
+  },
+  "herb/ajwain#356": {
+   "slug": "ajwain",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Medicinal and Nutritional Importance of Trachyspermum ammi in Human Health",
+   "claimedYear": 2025,
+   "finding": "Confirmed antiseptic, stimulant, carminative, [diuretic](/nighantu/reference/diuretic/), anesthetic, antimicrobial, antiviral, nematicidal, antiulcer, antihypertensive, antitussive, bronchodilatory, antiplatelet, [hepatoprotective](/nighantu/reference/hepatoprotective/), and antihyperlipidemic effects.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "herb/akarakarabha#357": {
+   "slug": "akarakarabha",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Alkaloids from Anacyclus pyrethrum",
+   "claimedYear": 2024,
+   "finding": "Twelve undescribed alkaloids including eight pyrrolo[3,2-g]isoquinoline and four pyrrolo[2,3-g]quinoline alkaloids were isolated from roots; some showed significant inhibition of NO production in LPS-induced RAW 264.7 cells.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "39216630",
+   "doi": "10.1016/j.phytochem.2024.114255",
+   "actualTitle": "Alkaloids from Anacyclus pyrethrum",
+   "journal": "Phytochemistry",
+   "year": 2025,
+   "authors": [
+    "Chen H",
+    "Aisa HA"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39216630/",
+   "checkedAt": "2026-09-10"
+  },
+  "herb/akarakarabha#358": {
+   "slug": "akarakarabha",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Phytochemical characterization, antimicrobial properties and in silico modeling of Anacyclus pyrethrum essential oil",
+   "claimedYear": 2024,
+   "finding": "Identified santolina alcohol as the major essential oil component (40.7%), followed by [germacrene-D](/nighantu/glossary/compounds-d-g/#germacrene-d) (8.9%); in silico molecular docking showed strong binding to bacterial target [proteins](/nighantu/glossary/compounds-o-q/#proteins).",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "39220961",
+   "doi": "10.1016/j.heliyon.2024.e35079",
+   "actualTitle": "Phytochemical characterization, antimicrobial properties and in silico modeling perspectives of Anacyclus pyrethrum essential oil",
+   "journal": "Heliyon",
+   "year": 2024,
+   "authors": [
+    "Baz AE",
+    "Mrabti HN",
+    "Ashmawy NS",
+    "Khan SA",
+    "Abdallah EM",
+    "Al-Mijalli SH",
+    "Alenazy R",
+    "Alshabrmi FM",
+    "Bouyahya A",
+    "El Hachlafi N",
+    "Ardianto C",
+    "Ifadotunnikmah F",
+    "Hmimid F"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39220961/",
+   "checkedAt": "2026-09-10"
+  },
+  "herb/akarakarabha#359": {
+   "slug": "akarakarabha",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Comprehensive review of ethnopharmacology, pharmacology and phytochemistry of Anacyclus pyrethrum DC",
+   "claimedYear": 2025,
+   "finding": "Comprehensive review covering the full spectrum of pharmacological activities including immunomodulatory, wound healing, and [anticancer](/nighantu/reference/anticancer/) properties with validated traditional uses.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "herb/akhuparni#360": {
+   "slug": "akhuparni",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Therapeutic Potential of Ipomoea reniformis: Pharmacological Applications and Major Bioactive Constituents",
+   "claimedYear": 2025,
+   "finding": "Comprehensive review confirming diverse pharmacological activities including [antioxidant](/nighantu/reference/antioxidant/), antihypertensive, [analgesic](/nighantu/reference/analgesic/), hepatoprotective, [antidiabetic](/nighantu/reference/antidiabetic/), anticonvulsant, and anticancer effects with scopoletin and [quercetin](/nighantu/reference/quercetinquercetin/) as key bioactive markers.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "herb/akhuparni#361": {
+   "slug": "akhuparni",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Methanolic extract of Merremia emarginata attenuates renal damage in streptozotocin-induced diabetic nephropathy in rats",
+   "claimedYear": 2024,
+   "finding": "Demonstrated significant nephroprotective and antidiabetic effects in diabetic nephropathy rat models through attenuation of oxidative stress and inflammatory markers.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "herb/akhuparni#362": {
+   "slug": "akhuparni",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Evaluation of antiulcer and antioxidant potential of Ipomoea reniformis leaf extract",
+   "claimedYear": 2023,
+   "finding": "Confirmed significant antiulcer activity in experimentally induced gastric ulcer models along with potent antioxidant capacity.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "herb/akika-pishti#363": {
+   "slug": "akika-pishti",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Akik Pishti analytical and safety review",
+   "claimedYear": 2020,
+   "finding": "Akik Bhasma/Pishti contains rich amounts of silicon dioxide, which is classified as safe when ingested orally. The non-toxic nature and compatibility with long-term use under qualified supervision make Akik Pishti a relatively safe mineral-based remedy. However, inhalation must be strictly avoided as it can cause silicosis.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "herb/akika-pishti#364": {
+   "slug": "akika-pishti",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Review on Pishti Kalpana in Ayurveda (comprehensive review including Akik Pishti)",
+   "claimedYear": 2022,
+   "finding": "Recent scientific interest in Pishti preparations has surged due to microfine particle size and rapid absorption potential, positioning them within the emerging domain of traditional nanomedicine. However, high-quality clinical trials on Akik Pishti are scarce.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "herb/akshotaka#365": {
+   "slug": "akshotaka",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "A Review of Antioxidant Activity, Anti-Inflammatory Properties, Apoptosis-Regulatory Effects, and Immune System Modulation of Juglans regia L. (Walnut)",
+   "claimedYear": 2025,
+   "finding": "Walnut phytochemical profile contributes to therapeutic potential in combating oxidative stress and inflammation, regulating apoptosis and immune responses through multiple molecular pathways.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "41179368",
+   "doi": "10.1002/fsn3.71081",
+   "actualTitle": "A Review of Antioxidant Activity, Anti-Inflammatory Properties, Apoptosis-Regulatory Effects, and Immune System Modulation of Juglans regia L. (Walnut)",
+   "journal": "Food science & nutrition",
+   "year": 2025,
+   "authors": [
+    "Ghasemzadeh Rahbardar M",
+    "Rashki M",
+    "Boskabady MH"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41179368/",
+   "checkedAt": "2026-09-10"
+  },
+  "herb/akshotaka#366": {
+   "slug": "akshotaka",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Juglans regia L. (Walnut) Leaf Extract Ameliorates Pulmonary Edema Against Airway Inflammation via Upregulation of Tight Junction Proteins and Heme Oxygenase-1",
+   "claimedYear": 2025,
+   "finding": "Walnut leaf extract reduced pulmonary edema in asthmatic mice by upregulating tight junction proteins (claudin-1, occludin) and heme oxygenase-1, demonstrating anti-inflammatory airway protection.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "40421046",
+   "doi": "10.1155/jotm/6976932",
+   "actualTitle": "Juglans regia L. (Walnut) Leaf Extract Ameliorates Pulmonary Edema Against Airway Inflammation via Upregulation of Tight Junction Proteins and Heme Oxygenase-1 in the Lungs of Asthmatic Mice",
+   "journal": "Journal of tropical medicine",
+   "year": 2025,
+   "authors": [
+    "Arshed N",
+    "Shabbir A",
+    "Khan HM",
+    "Fatima T",
+    "Haji EM",
+    "Alswailmi FK",
+    "Almutairy AF",
+    "Ahmad A"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40421046/",
+   "checkedAt": "2026-09-10"
+  },
+  "herb/akshotaka#367": {
+   "slug": "akshotaka",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Traditional Applications, Ethnopharmacology, and Phytochemistry of Walnut Green Husk (Juglans regia L.): A Review",
+   "claimedYear": 2024,
+   "finding": "Walnut green husk contains quinones, diarylheptanes, [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids), and [flavonoids](/nighantu/reference/flavonoids/) with demonstrated [antitumor](/nighantu/glossary/pharmacology/#antitumor), anti-inflammatory, antibacterial, and antioxidant properties.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "herb/alabu#368": {
+   "slug": "alabu",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Comprehensive review on Lagenaria siceraria",
+   "claimedYear": 2025,
+   "finding": "Updated pharmacological review documenting cardioprotective, hepatoprotective, anti-urolithiatic, and [immunomodulatory](/nighantu/reference/immunomodulatory/) activities across multiple in vivo models.",
+   "status": "plausible",
+   "matchedBy": "species-keywords",
+   "pmid": "37673199",
+   "doi": "10.1016/j.jep.2023.117111",
+   "actualTitle": "Safety and antidiabetic activity of Lagenaria siceraria (Molina) Standl. juice in streptozotocin -induced diabetic rats",
+   "journal": "Journal of ethnopharmacology",
+   "year": 2024,
+   "authors": [
+    "Das MJ",
+    "Banerjee D",
+    "Banerjee A",
+    "Muchahary S",
+    "Sinha A",
+    "Gogoi D",
+    "Chattopadhyay P",
+    "Dasgupta S",
+    "Deka SC"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37673199/",
+   "checkedAt": "2026-09-10"
+  },
+  "herb/alabu#369": {
+   "slug": "alabu",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Biotechnology and pharmacological evaluation of Indian vegetable crop Lagenaria siceraria",
+   "claimedYear": 2024,
+   "finding": "Confirmed antihyperlipidemic and cardioprotective effects through reduction of serum cholesterol and triglycerides in animal models.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "26637422",
+   "doi": "10.1007/s00253-015-7190-0",
+   "actualTitle": "Biotechnology and pharmacological evaluation of Indian vegetable crop Lagenaria siceraria: an overview",
+   "journal": "Applied microbiology and biotechnology",
+   "year": 2016,
+   "authors": [
+    "Roopan SM",
+    "Devi Rajeswari V",
+    "Kalpana VN",
+    "Elango G"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26637422/",
+   "checkedAt": "2026-09-10"
+  },
+  "herb/alabu#370": {
+   "slug": "alabu",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Effect of Lagenaria siceraria fruit extract on hepatotoxicity induced by antitubercular drugs",
+   "claimedYear": 2023,
+   "finding": "Demonstrated significant hepatoprotective activity against antitubercular drug-induced liver injury in albino rats, validating traditional liver-protective claims.",
+   "status": "plausible",
+   "matchedBy": "species-keywords",
+   "pmid": "37151678",
+   "doi": "10.1016/j.heliyon.2023.e15453",
+   "actualTitle": "In vivo antimalarial activity of the 80% methanolic crude fruit extract of Lagenaria siceraria (Molina) Standl. against Plasmodium berghei infected mice",
+   "journal": "Heliyon",
+   "year": 2023,
+   "authors": [
+    "Habte G",
+    "Tamiru S",
+    "Eyasu K"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37151678/",
+   "checkedAt": "2026-09-10"
+  },
+  "herb/aloe-vera#371": {
+   "slug": "aloe-vera",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Aloe vera and health outcomes: umbrella review of systematic reviews and meta-analyses",
+   "claimedYear": 2020,
+   "finding": "Of 71 unique outcomes reviewed, 47 (67%) were nominally statistically significant, but only 3 outcomes supported by highly suggestive evidence (prevention of second-degree infusion phlebitis, chemotherapy-induced mucositis), while 42 outcomes had weak evidence.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "32924222",
+   "doi": "10.1002/ptr.6833",
+   "actualTitle": "Aloe vera and health outcomes: An umbrella review of systematic reviews and meta-analyses",
+   "journal": "Phytotherapy research : PTR",
+   "year": 2021,
+   "authors": [
+    "Sadoyu S",
+    "Rungruang C",
+    "Wattanavijitkul T",
+    "Sawangjit R",
+    "Thakkinstian A",
+    "Chaiyakunapruk N"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32924222/",
+   "checkedAt": "2026-09-10"
+  },
+  "herb/aloe-vera#372": {
+   "slug": "aloe-vera",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Aloe Barbadensis Miller: Pharmacological activities and clinical evidence for disease prevention",
+   "claimedYear": 2024,
+   "finding": "Comprehensive review establishing evidence for [Aloe vera](/nighantu/herb/aloe-vera/) in disease prevention, covering pharmacological activities across multiple body systems with clinical validation.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "herb/aloe-vera#373": {
+   "slug": "aloe-vera",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Aloe vera extensive review focused on recent studies",
+   "claimedYear": 2024,
+   "finding": "Updated review documenting broad spectrum of pharmacological activities with focus on recent clinical and preclinical evidence for therapeutic applications.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "38998660",
+   "doi": "10.3390/foods13132155",
+   "actualTitle": "Aloe vera-An Extensive Review Focused on Recent Studies",
+   "journal": "Foods (Basel, Switzerland)",
+   "year": 2024,
+   "authors": [
+    "Catalano A",
+    "Ceramella J",
+    "Iacopetta D",
+    "Marra M",
+    "Conforti F",
+    "Lupi FR",
+    "Gabriele D",
+    "Borges F",
+    "Sinicropi MS"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38998660/",
+   "checkedAt": "2026-09-10"
+  },
+  "herb/aloe-vera#374": {
+   "slug": "aloe-vera",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Meta-analysis of Aloe vera in glycemic control for non-insulin dependent diabetics",
+   "claimedYear": 2021,
+   "finding": "Meta-analysis of 9 studies showed significant decrease in fasting blood [glucose](/nighantu/glossary/compounds-d-g/#glucose) by 46.6 mg/dL and HbA1c by 1.05% following oral Aloe vera use in non-insulin dependent diabetics.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "herb/aloe-vera#375": {
+   "slug": "aloe-vera",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Aloe vera gel syrup for GERD treatment",
+   "claimedYear": 2022,
+   "finding": "Five clinical studies showed 10 mL Aloe vera gel syrup twice daily significantly eliminated GERD symptoms without adverse effects, comparable to omeprazole or ranitidine.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "herb/aloe-vera#376": {
+   "slug": "aloe-vera",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Aloe vera sterols for anti-aging skin effects",
+   "claimedYear": 2021,
+   "finding": "RCT on women (n=28, aged 40+) showed daily consumption of Aloe vera gel powder (40 mcg aloe sterols) improved facial wrinkles, skin hydration, and stimulated collagen and hyaluronic acid production.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "herb/ambasthaki#377": {
+   "slug": "ambasthaki",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Phytochemical Screening and In Vitro Antioxidant and Anticancer Evaluation of Stem and Leaf Extracts of Cissampelos pareira L",
+   "claimedYear": 2025,
+   "finding": "Identified exceptionally high phenolic (95.73 mg GAE/g in leaves) and flavonoid (82.68 mg CE/g in leaves) content; demonstrated significant anticancer activity against multiple cancer cell lines.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "40689394",
+   "doi": "10.1155/mi/7555073",
+   "actualTitle": "Phytochemical Screening and In Vitro Antioxidant and Anticancer Evaluation of Stem and Leaf Extracts of Cissampelos pareira L",
+   "journal": "Mediators of inflammation",
+   "year": 2025,
+   "authors": [
+    "Thim-Uam A",
+    "Thepmalee C",
+    "Chaiwangyen W",
+    "Kangwan N",
+    "Chokchaisiri R",
+    "Nuntaboon P",
+    "Songkrao A",
+    "Onsa-Ard A"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40689394/",
+   "checkedAt": "2026-09-10"
+  },
+  "herb/ambasthaki#378": {
+   "slug": "ambasthaki",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Chemical profiling and quantification of potential active constituents responsible for antiplasmodial activity of Cissampelos pareira",
+   "claimedYear": 2023,
+   "finding": "Identified and quantified specific isoquinoline alkaloids responsible for the potent antiplasmodial (antimalarial) activity of the plant, validating traditional use against fevers.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "32726676",
+   "doi": "10.1016/j.jep.2020.113185",
+   "actualTitle": "Chemical profiling and quantification of potential active constituents responsible for the antiplasmodial activity of Cissampelos pareira",
+   "journal": "Journal of ethnopharmacology",
+   "year": 2020,
+   "authors": [
+    "Bhatt V",
+    "Kumari S",
+    "Upadhyay P",
+    "Agrawal P",
+    "Anmol",
+    "Sahal D",
+    "Sharma U"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32726676/",
+   "checkedAt": "2026-09-10"
+  },
+  "herb/ambasthaki#379": {
+   "slug": "ambasthaki",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Cissampelos pareira L.: A review of its traditional uses, phytochemistry, and pharmacology",
+   "claimedYear": 2024,
+   "finding": "Comprehensive review documenting 54 phytomolecules isolated from the plant, primarily isoquinoline alkaloids, with validated antimalarial, anti-inflammatory, and anticancer pharmacological activities.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "33485976",
+   "doi": "10.1016/j.jep.2021.113850",
+   "actualTitle": "Cissampelos pareira L.: A review of its traditional uses, phytochemistry, and pharmacology",
+   "journal": "Journal of ethnopharmacology",
+   "year": 2021,
+   "authors": [
+    "Kumari S",
+    "Anmol",
+    "Bhatt V",
+    "Suresh PS",
+    "Sharma U"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33485976/",
+   "checkedAt": "2026-09-10"
+  },
+  "herb/amla#380": {
+   "slug": "amla",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Impact of Emblica Officinalis (Amla) on Lipid Profile, Glucose, and C-Reactive Protein: Systematic Review and Meta-Analysis of RCTs",
+   "claimedYear": 2023,
+   "finding": "Meta-analysis of RCTs showed amla supplementation significantly improved lipid profiles (reduced LDL, elevated HDL), lowered glucose levels, and reduced C-reactive protein in adults.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "36934568",
+   "doi": "10.1016/j.dsx.2023.102729",
+   "actualTitle": "The impact of Emblica Officinalis (Amla) on lipid profile, glucose, and C-reactive protein: A systematic review and meta-analysis of randomized controlled trials",
+   "journal": "Diabetes & metabolic syndrome",
+   "year": 2023,
+   "authors": [
+    "Setayesh L",
+    "Haghighat N",
+    "Rasaei N",
+    "Rezaei M",
+    "Casazza K",
+    "Nadery M",
+    "Yamrali I",
+    "Zamani M",
+    "Asbaghi O"
+   ],
+   "pubtypes": [
+    "Meta-Analysis",
+    "Systematic Review",
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36934568/",
+   "checkedAt": "2026-09-10"
+  },
+  "herb/amla#381": {
+   "slug": "amla",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Phyllanthus Emblica as Add-On Therapy for COVID-19: Randomized Double-Blind Controlled Trial",
+   "claimedYear": 2022,
+   "finding": "Amla add-on therapy showed significant improvements in fever, cough severity, shortness of breath, myalgia, increased oxygen saturation, and reduced lung involvement on CT in COVID-19 patients.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "35093510",
+   "doi": "10.1016/j.ctim.2022.102808",
+   "actualTitle": "The effects of add-on therapy of Phyllanthus Emblica (Amla) on laboratory confirmed COVID-19 Cases: A randomized, double-blind, controlled trial",
+   "journal": "Complementary therapies in medicine",
+   "year": 2022,
+   "authors": [
+    "Varnasseri M",
+    "Siahpoosh A",
+    "Hoseinynejad K",
+    "Amini F",
+    "Karamian M",
+    "Yad MJY",
+    "Cheraghian B",
+    "Khosravi AD"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35093510/",
+   "checkedAt": "2026-09-10"
+  },
+  "herb/amla#382": {
+   "slug": "amla",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Amla Fruit on Female Androgenetic Alopecia: Randomized Controlled Trial",
+   "claimedYear": 2023,
+   "finding": "Triple-blind RCT with 60 women showed amla syrup (3x daily for 12 weeks) helped treat androgenic hair loss and increased the anagen (growth) phase of hair follicles.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "37487962",
+   "doi": "10.1016/j.jep.2023.116958",
+   "actualTitle": "The effect of an oral product containing Amla fruit (Phyllanthus emblica L.) on female androgenetic alopecia: A randomized controlled trial",
+   "journal": "Journal of ethnopharmacology",
+   "year": 2024,
+   "authors": [
+    "Akhbari M",
+    "Firooz A",
+    "Rahimi R",
+    "Shirzad M",
+    "Esmaealzadeh N",
+    "Shirbeigi L"
+   ],
+   "pubtypes": [
+    "Randomized Controlled Trial",
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37487962/",
+   "checkedAt": "2026-09-10"
+  },
+  "herb/amla#383": {
+   "slug": "amla",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Clinical Evaluation of Amla in Healthy Subjects: Randomized Double-Blind Crossover Placebo-Controlled Study",
+   "claimedYear": 2020,
+   "finding": "500 mg/day amla for 18 weeks improved blood fluidity, lowered von Willebrand factor, reduced oxidative stress markers, improved HDL, and lowered LDL cholesterol.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "31890983",
+   "doi": "10.1016/j.conctc.2019.100499",
+   "actualTitle": "Clinical evaluation of Emblica Officinalis Gatertn (Amla) in healthy human subjects: Health benefits and safety results from a randomized, double-blind, crossover placebo-controlled study",
+   "journal": "Contemporary clinical trials communications",
+   "year": 2020,
+   "authors": [
+    "Kapoor MP",
+    "Suzuki K",
+    "Derek T",
+    "Ozeki M",
+    "Okubo T"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31890983/",
+   "checkedAt": "2026-09-10"
+  },
+  "herb/amla#384": {
+   "slug": "amla",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Exploring Mechanism of Action of Phyllanthus emblica in Epilepsy via Network Pharmacology",
+   "claimedYear": 2025,
+   "finding": "Network pharmacology identified neuroactive ligand-receptor interactions, nitrogen metabolism, and serotonergic synapses as key pathways. Molecular docking showed strong binding to MAPK3, SRC, and MAPK1 targets.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "39960946",
+   "doi": "10.1097/MD.0000000000041414",
+   "actualTitle": "Exploring the mechanism of action of Phyllanthus emblica in the treatment of epilepsy based on network pharmacology and molecular docking",
+   "journal": "Medicine",
+   "year": 2025,
+   "authors": [
+    "Xiao L",
+    "Chen W",
+    "Guo W",
+    "Li H",
+    "Chen R",
+    "Chen Q"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39960946/",
+   "checkedAt": "2026-09-10"
+  },
+  "herb/amla#385": {
+   "slug": "amla",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Phyllanthus emblica Branch Extract Against Skin Aging: RCT",
+   "claimedYear": 2021,
+   "finding": "20 volunteers over 84 days showed lightened skin color, enhanced elasticity/hydration, and reduced wrinkles correlating to younger skin properties.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "herb/amlaparni#386": {
+   "slug": "amlaparni",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Oxalis corniculata L. As a Source of Natural Antioxidants: Phytochemistry, Bioactivities, and Application Potential",
+   "claimedYear": 2025,
+   "finding": "Comprehensive review highlighting flavonoids, [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides), and organic acids as dominant metabolites with antioxidant, anti-inflammatory, antimicrobial, [neuroprotective](/nighantu/reference/neuroprotective/), hypoglycemic, and [anticancer](/nighantu/reference/anticancer/) effects.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "41300509",
+   "doi": "10.3390/antiox14111352",
+   "actualTitle": "Oxalis corniculata L. As a Source of Natural Antioxidants: Phytochemistry, Bioactivities, and Application Potential",
+   "journal": "Antioxidants (Basel, Switzerland)",
+   "year": 2025,
+   "authors": [
+    "Zhong T",
+    "He J",
+    "Zhao H",
+    "Tan C",
+    "Zhou W",
+    "Wu C",
+    "Kang J"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41300509/",
+   "checkedAt": "2026-09-10"
+  },
+  "herb/amlaparni#387": {
+   "slug": "amlaparni",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Ethnopharmacology and therapeutic potentials of Oxalis corniculata: an in-depth study",
+   "claimedYear": 2024,
+   "finding": "Documented broad spectrum of pharmacological activities including antioxidant, antimicrobial, anti-inflammatory, anticancer, astringent, anthelmintic, cardio-relaxant, and [diuretic](/nighantu/reference/diuretic/) properties.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "herb/amlaparni#388": {
+   "slug": "amlaparni",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "A Review on Phyto-pharmacology of Oxalis corniculata",
+   "claimedYear": 2021,
+   "finding": "Plant demonstrated significant hepatoprotective, antidiabetic, and wound healing activities in preclinical models, supporting traditional ethnomedicinal claims.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "34391377",
+   "doi": "10.2174/1386207324666210813121431",
+   "actualTitle": "A Review on Phyto-pharmacology of Oxalis corniculata",
+   "journal": "Combinatorial chemistry & high throughput screening",
+   "year": 2022,
+   "authors": [
+    "Sarfraz I",
+    "Rasul A",
+    "Hussain G",
+    "Shah MA",
+    "Nageen B",
+    "Jabeen F",
+    "Selamoğlu Z",
+    "Uçak İ",
+    "Asrar M",
+    "Adem S"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34391377/",
+   "checkedAt": "2026-09-10"
+  },
+  "herb/amlavetasa#389": {
+   "slug": "amlavetasa",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Chromones and biflavonoids from Garcinia pedunculata and Garcinia nujiangensis",
+   "claimedYear": 2024,
+   "finding": "Isolated four new compounds (garpedunchromones A-C and nujiangbiflavone A) along with 15 known analogs; demonstrated significant anti-inflammatory activity of isolated compounds.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "38810815",
+   "doi": "10.1016/j.phytochem.2024.114166",
+   "actualTitle": "Chromones and biflavonoids from Garcinia pedunculata and Garcinia nujiangensis and their anti-inflammatory activity",
+   "journal": "Phytochemistry",
+   "year": 2024,
+   "authors": [
+    "Fan X",
+    "Guo J",
+    "Feng D",
+    "Li D",
+    "Hua H"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38810815/",
+   "checkedAt": "2026-09-10"
+  },
+  "herb/amlavetasa#390": {
+   "slug": "amlavetasa",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "The phytochemistry and pharmacology of three Rheum species: A comprehensive review with future perspectives",
+   "claimedYear": 2024,
+   "finding": "Comprehensive review on Rheum emodi documenting new compound isolation from both aerial parts and roots/rhizomes; highlighted anthraquinones and [stilbenes](/nighantu/glossary/compounds-q-t/#stilbenes) as key bioactive classes.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "38852474",
+   "doi": "10.1016/j.phymed.2024.155772",
+   "actualTitle": "The phytochemistry and pharmacology of three Rheum species: A comprehensive review with future perspectives",
+   "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+   "year": 2024,
+   "authors": [
+    "Yang X",
+    "Dai L",
+    "Yan F",
+    "Ma Y",
+    "Guo X",
+    "Jenis J",
+    "Wang Y",
+    "Zhang J",
+    "Miao X",
+    "Shang X"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38852474/",
+   "checkedAt": "2026-09-10"
+  },
+  "herb/amlavetasa#391": {
+   "slug": "amlavetasa",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Medicinal and antioxidant activity of Garcinia pedunculata: a valuable underutilized fruit of Assam",
+   "claimedYear": 2023,
+   "finding": "Documented potent antioxidant activity along with antibacterial, antifungal, [antidiabetic](/nighantu/reference/antidiabetic/), hepatoprotective, and [neuroprotective](/nighantu/reference/neuroprotective/) properties of this underutilized fruit species.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "herb/amra#392": {
+   "slug": "amra",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "A Review on Ethnopharmacological Applications, Pharmacological Activities, and Bioactive Compounds of Mangifera indica (Mango)",
+   "claimedYear": 2023,
+   "finding": "Documented anticancer, anti-inflammatory, antidiabetic, antioxidant, antibacterial, gastroprotective, [hepatoprotective](/nighantu/reference/hepatoprotective/) and [immunomodulatory](/nighantu/reference/immunomodulatory/) activities attributed primarily to mangiferin and gallotannins.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "29456572",
+   "doi": "10.1155/2017/6949835",
+   "actualTitle": "A Review on Ethnopharmacological Applications, Pharmacological Activities, and Bioactive Compounds of Mangifera indica (Mango)",
+   "journal": "Evidence-based complementary and alternative medicine : eCAM",
+   "year": 2017,
+   "authors": [
+    "Ediriweera MK",
+    "Tennekoon KH",
+    "Samarakoon SR"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29456572/",
+   "checkedAt": "2026-09-10"
+  },
+  "herb/amra#393": {
+   "slug": "amra",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Nutritional and medicinal values of Mangifera indica L. fruit",
+   "claimedYear": 2024,
+   "finding": "Mangiferin demonstrated potent antidiabetic activity through AMPK activation, improved [glucose](/nighantu/glossary/compounds-d-g/#glucose) uptake and insulin sensitization in adipocytes and hepatocytes.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "herb/amra#394": {
+   "slug": "amra",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Pharmacological Activities of Mango (Mangifera indica): A Comprehensive Review",
+   "claimedYear": 2024,
+   "finding": "Leaf and bark extracts showed significant anticancer activity in MCF-7 breast cancer and HeLa cervical cancer cell lines through apoptosis induction via caspase-3 activation.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "29456572",
+   "doi": "10.1155/2017/6949835",
+   "actualTitle": "A Review on Ethnopharmacological Applications, Pharmacological Activities, and Bioactive Compounds of Mangifera indica (Mango)",
+   "journal": "Evidence-based complementary and alternative medicine : eCAM",
+   "year": 2017,
+   "authors": [
+    "Ediriweera MK",
+    "Tennekoon KH",
+    "Samarakoon SR"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29456572/",
+   "checkedAt": "2026-09-10"
+  },
+  "herb/ankola#395": {
+   "slug": "ankola",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "GCMS-based phytochemical profiling and in vitro pharmacological activities of plant Alangium salviifolium (L.f) Wang",
+   "claimedYear": 2024,
+   "finding": "All crude extracts showed considerable and comparable in vitro [antioxidant](/nighantu/reference/antioxidant/) and antibacterial properties; GC-MS analysis identified multiple bioactive compounds including [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids) and fatty acids.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "herb/ankola#396": {
+   "slug": "ankola",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Ankol plant (Alangium salvifolium) - The treasure trove of bioactives and medicinal potential",
+   "claimedYear": 2022,
+   "finding": "Comprehensive review documenting the plant's significant [anticancer](/nighantu/reference/anticancer/), [antitumor](/nighantu/glossary/pharmacology/#antitumor), antibacterial, antinociceptive, and anti-inflammatory properties across different plant parts.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "herb/ankola#397": {
+   "slug": "ankola",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Pharmacological and phytochemical studies of Alangium salvifolium Wang - A review",
+   "claimedYear": 2017,
+   "finding": "Evidence-based studies reported efficacy against hypertension, diabetes, epilepsy, cancer, inflammation, and ulcer, with multiple alkaloid classes contributing to diverse pharmacological effects.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "herb/apamarga#398": {
+   "slug": "apamarga",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "HR-MS Profiling of Apamarga Ksharodaka and Computational Screening for Wound Healing Applications",
+   "claimedYear": 2025,
+   "finding": "HR-MS identified 25 compounds in Apamarga Ksharodaka; Homovanillic acid and Biochanin A showed significant binding affinities to [wound-healing](/nighantu/reference/wound-healing/) targets (MMP-9, TGF-beta).",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "41085550",
+   "doi": "10.1080/14786419.2025.2568949",
+   "actualTitle": "High resolution-mass spectrometry (hR-MS) profiling of Apamarga Ksharodaka (herbal alkaline water from Achyranthes aspera Linn.) and computational screening of bioactive phytochemicals for wound healing applications",
+   "journal": "Natural product research",
+   "year": 2025,
+   "authors": [
+    "Garg AK",
+    "Chouhan P",
+    "Sen B"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41085550/",
+   "checkedAt": "2026-09-10"
+  },
+  "herb/apamarga#399": {
+   "slug": "apamarga",
+   "kind": "herb",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Pharmaceutico-Analytical Profile of Apamarga Ksharodaka and Kshara",
+   "claimedYear": 2025,
+   "finding": "Standardized analytical profiling of Apamarga Kshara validated its alkaline nature and confirmed presence of bioactive potassium-rich compounds relevant to Ayurvedic Kshara therapy.",
+   "status": "none",
+   "matchedBy": null,
    "checkedAt": "2026-09-10"
   }
  }
