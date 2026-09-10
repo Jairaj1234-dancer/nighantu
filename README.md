@@ -104,7 +104,13 @@ actually resolves, so it cannot break the live site by going early. See
 ## GEO surface
 
 - `robots.txt` allows the answer-engine crawlers by name as well as by wildcard.
-- `llms.txt` (curated index) and `llms-full.txt` (every answer block and key fact).
+- `llms.txt` and `llms-full.txt` are served, but **do not count them as a retrieval
+  mechanism**. An Ahrefs study across 137,000 sites found 97% of `llms.txt` files received
+  zero requests in May 2026; no major AI provider has confirmed reading the format; Google's
+  John Mueller has said server logs show AI bots do not even request it. SE Ranking found no
+  correlation with AI citations across ~300,000 domains. They stay because serving them costs
+  nothing and the convention may yet be adopted. They are not evidence of AI-readiness and
+  should not be presented as such.
 - A plain-Markdown twin of every page at its URL with `.md` appended.
 - `sitemap-index.xml` and an RSS feed.
 - Per page: a 40-60 word answer block above everything else, a key-facts table, question-form
@@ -112,6 +118,21 @@ actually resolves, so it cannot break the live site by going early. See
   `FAQPage` only where a real Q&A block exists.
 - Deliberately not `MedicalWebPage`, `Drug` or `MedicalIndication` schema: those invite a
   regulatory reading of educational text and buy nothing in citation terms.
+
+## Which index feeds which assistant
+
+Worth knowing before optimising for "AI visibility", which is not one thing:
+
+| Assistant | Retrieval layer |
+| --- | --- |
+| ChatGPT | Bing's index, blended with OpenAI's OAI-SearchBot |
+| Claude | Brave Search (per Anthropic's subprocessor listing, 19 March 2025) |
+| Google AI Overviews | Google's index |
+| Perplexity | Google SERP data plus its own crawler |
+
+Three separate indexes. Google is load-bearing for two of the four. Brave has no
+webmaster tool and no submission route at all, so Claude is reached only by being
+crawlable and linked.
 
 ## Automation
 

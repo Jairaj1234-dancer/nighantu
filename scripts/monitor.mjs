@@ -21,8 +21,9 @@ import * as competitors from './monitors/competitors.mjs';
 import * as freshness from './monitors/freshness.mjs';
 import * as community from './monitors/community.mjs';
 import * as threads from './monitors/threads.mjs';
+import * as indexation from './monitors/indexation.mjs';
 
-const MONITORS = [health, products, competitors, freshness, community, threads];
+const MONITORS = [health, products, competitors, freshness, community, threads, indexation];
 
 const DRY = process.argv.includes('--dry-run');
 const onlyIdx = process.argv.indexOf('--only');

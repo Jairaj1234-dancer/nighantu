@@ -35,8 +35,11 @@ Rotate any time; nothing caches it.
 
 **Buys:** submission quota, impressions and clicks pulled into the dashboard weekly, so
 search health becomes something you read rather than something you remember to check.
-Bing matters more than its search share suggests because its index is one of the sources
-behind Copilot and ChatGPT search.
+
+More importantly: **ChatGPT retrieves from Bing's index**, blended with OpenAI's own
+OAI-SearchBot. IndexNow has already submitted all URLs without an account, but whether
+Bing has actually *indexed* them cannot be checked from outside. This account is the only
+way to find out, and the only way to push specific URLs if it has not.
 
 **Costs:** nothing. Self-serve, no approval.
 

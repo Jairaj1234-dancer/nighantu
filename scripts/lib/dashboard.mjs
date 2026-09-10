@@ -119,6 +119,31 @@ export function renderDashboard(state, { site }) {
     lines.push('_Not yet run._', '');
   }
 
+  lines.push('## Indexation', '');
+  if (state.indexation?.checkedAt) {
+    const ix = state.indexation;
+    const row = (name, v) => {
+      const detail = v.swhid || v.url || v.crawl || v.note || '';
+      return `| ${name} | ${v.status} | ${String(detail).slice(0, 64)} |`;
+    };
+    lines.push(
+      '| Index | Status | Detail |', '| --- | --- | --- |',
+      row('Common Crawl', ix.commonCrawl),
+      row('Wayback Machine', ix.wayback),
+      row('Software Heritage', ix.softwareHeritage),
+      row('Google', ix.google),
+      row('Bing', ix.bing),
+      row('Brave', ix.brave),
+      '',
+      '_Google, Bing and Brave are marked unknown rather than guessed: checking membership',
+      'needs an API key or scraping a results page against the engine\'s terms. Common Crawl,',
+      'Wayback and Software Heritage all publish free, documented APIs._',
+      '',
+    );
+  } else {
+    lines.push('_Not yet run._', '');
+  }
+
   lines.push('## Answerable threads', '');
   if (state.threadStats?.checkedAt) {
     const t = state.threadStats;
