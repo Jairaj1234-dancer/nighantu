@@ -1,0 +1,1581 @@
+{
+ "updatedAt": "2026-09-10T06:43:21.853Z",
+ "claims": {
+  "formulation/abhayarishta#0": {
+   "slug": "abhayarishta",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Double-blind study of Abhayarishta in functional constipation",
+   "claimedYear": 2017,
+   "finding": "Study in Journal of Ethnopharmacology showed significant relief in functional constipation after four weeks of therapy compared to placebo.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/abhayarishta#1": {
+   "slug": "abhayarishta",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Anti-hemorrhoidal properties of Haritaki-based formulations",
+   "claimedYear": 2019,
+   "finding": "[Haritaki](/nighantu/herb/haritaki/) extract demonstrated venotonic and anti-inflammatory effects, reducing hemorrhoidal swelling and venous pressure in experimental models.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/abhayarishta#2": {
+   "slug": "abhayarishta",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Cholagogue and laxative mechanisms of Abhayarishta",
+   "claimedYear": 2020,
+   "finding": "Mechanistic study confirmed increased bile secretion and enhanced peristaltic movement as primary pathways for constipation relief.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/agastya-haritaki-rasayana#3": {
+   "slug": "agastya-haritaki-rasayana",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Agastya Haritaki Rasayana|Agastya Haritaki Rasayana: A Critical Review",
+   "claimedYear": 2019,
+   "finding": "Comprehensive critical review documented therapeutic actions including bronchodilatory, anti-inflammatory, immunomodulatory, and mucolytic properties validated through pharmacological studies",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/agastya-haritaki-rasayana#4": {
+   "slug": "agastya-haritaki-rasayana",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Evaluation of the Effect of Pranayama and Agastya Haritaki Rasayana|Agastya Haritaki Rasayana on Pranvaha Srotas",
+   "claimedYear": 2021,
+   "finding": "Clinical study demonstrated measurable improvement in cardiorespiratory parameters with [Agastya](/nighantu/herb/agastya/) Haritaki Rasayana administration",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/agastya-haritaki-rasayana#5": {
+   "slug": "agastya-haritaki-rasayana",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Agastya Haritaki: A Comprehensive Review of its standardization and therapeutic potential",
+   "claimedYear": 2023,
+   "finding": "HPTLC analysis and physicochemical standardization established quality parameters; formulation demonstrated consistent therapeutic activity across standardized batches",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/agnitundi-vati#6": {
+   "slug": "agnitundi-vati",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Clinical impact of Agnitundi Vati on non-ulcer dyspepsia",
+   "claimedYear": 2020,
+   "finding": "Journal of Ayurveda and Integrative Medicine study showed significant reduction in bloating and epigastric discomfort after two weeks of twice-daily administration in non-ulcer dyspepsia patients.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/agnitundi-vati#7": {
+   "slug": "agnitundi-vati",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Carminative and antispasmodic properties of Agnitundi Vati herbal components",
+   "claimedYear": 2019,
+   "finding": "Pharmacological evaluation confirmed antispasmodic, carminative, and digestive-stimulant properties; gas-relieving and bloating-reducing effects validated in controlled setting.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/agnitundi-vati#8": {
+   "slug": "agnitundi-vati",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Ayurvedic pharmacodynamics of Agnitundi Vati in digestive disorders",
+   "claimedYear": 2018,
+   "finding": "Katu taste kindles Agni, Ushna Virya penetrates deep tissues to mobilize Ama, and post-digestive warming Vipaka maintains steady metabolism, collectively normalizing Vata and Kapha in the digestive tract.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/amalaki-rasayana#9": {
+   "slug": "amalaki-rasayana",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Influence of Amalaki Rasayana on telomerase activity and telomere length in human blood mononuclear cells",
+   "claimedYear": 2017,
+   "finding": "45-day administration in healthy aged volunteers (45-60 years) showed increased telomerase activity that facilitated maintenance of telomere length, potentially promoting healthy aging",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "28602428",
+   "doi": "10.1016/j.jaim.2017.01.007",
+   "actualTitle": "Influence of Amalaki Rasayana on telomerase activity and telomere length in human blood mononuclear cells",
+   "journal": "Journal of Ayurveda and integrative medicine",
+   "year": 2017,
+   "authors": [
+    "Guruprasad KP",
+    "Dash S",
+    "Shivakumar MB",
+    "Shetty PR",
+    "Raghu KS",
+    "Shamprasad BR",
+    "Udupi V",
+    "Acharya RV",
+    "Vidya PB",
+    "Nayak J",
+    "Mana AE",
+    "Moni R",
+    "Sankaran MT",
+    "Satyamoorthy K"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28602428/",
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/amalaki-rasayana#10": {
+   "slug": "amalaki-rasayana",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Pharmacological insights and therapeutic potential of Amalaki Rasayana: A comprehensive review",
+   "claimedYear": 2024,
+   "finding": "Comprehensive review validates antioxidant, anti-aging, cardioprotective, [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive), [anticancer](/nighantu/reference/anticancer/), [antidiabetic](/nighantu/reference/antidiabetic/), and immunomodulatory effects of [Amalaki Rasayana](/nighantu/formulation/amalaki-rasayana/)",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/amalaki-rasayana#11": {
+   "slug": "amalaki-rasayana",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Amalaki rasayana enhances cardiac mitochondrial and contractile functions and improves cardiac function in rats with hypertrophy",
+   "claimedYear": 2017,
+   "finding": "[Amalaki Rasayana](/nighantu/formulation/amalaki-rasayana/) enhanced cardiac mitochondrial function and contractile performance, improving cardiac function in rats with cardiac hypertrophy",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "28819266",
+   "doi": "10.1038/s41598-017-09225-x",
+   "actualTitle": "Amalaki rasayana, a traditional Indian drug enhances cardiac mitochondrial and contractile functions and improves cardiac function in rats with hypertrophy",
+   "journal": "Scientific reports",
+   "year": 2017,
+   "authors": [
+    "Kumar V",
+    "Aneesh KA",
+    "Kshemada K",
+    "Ajith KGS",
+    "Binil RSS",
+    "Deora N",
+    "Sanjay G",
+    "Jaleel A",
+    "Muraleedharan TS",
+    "Anandan EM",
+    "Mony RS",
+    "Valiathan MS",
+    "Santhosh KTR",
+    "Kartha CC"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28819266/",
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/amrita-ghrita#12": {
+   "slug": "amrita-ghrita",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Serum immunoglobulin enhancement with Amrita Ghrita in elderly subjects",
+   "claimedYear": 2021,
+   "finding": "Randomized controlled trial reported 22% increase in serum immunoglobulin levels among elderly participants taking 5ml daily for 8 weeks",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/amrita-ghrita#13": {
+   "slug": "amrita-ghrita",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Amrita: The ancient herb with modern healing potential and safety features",
+   "claimedYear": 2023,
+   "finding": "Comprehensive review confirms [Guduchi](/nighantu/herb/guduchi/)/Tinospora cordifolia as a Rasayana with enhanced general body resistance, anti-stress adaptogenic properties, and potential for infection resistance",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/amrita-ghrita#14": {
+   "slug": "amrita-ghrita",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Amritaprasha Ghrita - pharmacological evaluation of rejuvenative properties",
+   "claimedYear": 2020,
+   "finding": "Multi-herb formulation demonstrated [antioxidant](/nighantu/reference/antioxidant/), immunomodulatory, and adaptogenic activities in preclinical models supporting classical Rasayana claims",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/amritottaram-kashayam#15": {
+   "slug": "amritottaram-kashayam",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "NK cell activity enhancement by Amritottaram Kashayam",
+   "claimedYear": 2018,
+   "finding": "Double-blind study in Journal of Ethnopharmacology observed increased natural killer cell activity after 30 days of daily 20 ml doses.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/amritottaram-kashayam#16": {
+   "slug": "amritottaram-kashayam",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Hepatoprotective effects of Amritottaram Kashayam in mild hepatitis",
+   "claimedYear": 2019,
+   "finding": "Study in International Journal of Ayurveda reported decreased ALT and AST levels in mild hepatitis patients receiving 20 ml twice daily for 45 days.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/amritottaram-kashayam#17": {
+   "slug": "amritottaram-kashayam",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Immunomodulatory profiling of Guduchi-based Kashayams",
+   "claimedYear": 2021,
+   "finding": "Comprehensive immunological profiling showed upregulation of both innate and adaptive immune markers with significant enhancement of macrophage phagocytic activity.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/anu-taila#18": {
+   "slug": "anu-taila",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Nasal application of sesame oil-based Anu Taila as biological mask for respiratory health during COVID-19",
+   "claimedYear": 2023,
+   "finding": "Published in PMC/ScienceDirect, prophylactic nasal instillation of Anu oil in a hamster SARS-CoV2 challenge model exhibited reduced viral load in lungs, reduced body weight loss, and reduced pneumonitis with histopathological analysis revealing reduced lung pathology.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "37660545",
+   "doi": "10.1016/j.jaim.2023.100773",
+   "actualTitle": "Nasal application of sesame oil-based Anu taila as 'biological mask' for respiratory health during COVID-19",
+   "journal": "Journal of Ayurveda and integrative medicine",
+   "year": 2023,
+   "authors": [
+    "Vijay B",
+    "Diwan B",
+    "Devkumar P",
+    "Shankar P",
+    "Vishnuprasad CN",
+    "Singh G",
+    "Kataria D",
+    "Shankar D"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37660545/",
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/anu-taila#19": {
+   "slug": "anu-taila",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Effectiveness of Nasya medicines in facial paralysis (Ardita): systematic review",
+   "claimedYear": 2016,
+   "finding": "Systematic review found that participants receiving Nasya intervention with [Anu Taila](/nighantu/formulation/anu-taila/) had 78.2% to 90.9% relief from symptoms of facial pain, speech disorder, and earache, graded as marked improvement.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "27532316",
+   "doi": "10.11124/JBISRIR-2016-2402",
+   "actualTitle": "The effectiveness of ayurvedic oil-based nasal instillation (Nasya) medicines in the treatment of facial paralysis (Ardita): a systematic review",
+   "journal": "JBI database of systematic reviews and implementation reports",
+   "year": 2016,
+   "authors": [
+    "Vivera MJ",
+    "Gomersall JS"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27532316/",
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/anu-taila#20": {
+   "slug": "anu-taila",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Clinical pilot study on nasal instillation of Anu Tailam for sinusitis",
+   "claimedYear": 2018,
+   "finding": "Anu Tailam nasal drops administered twice daily reduced nasal congestion scores by 40% over four weeks and improved nasal airflow scores after 14 days in a pilot clinical trial.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/aravindasava#21": {
+   "slug": "aravindasava",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Immunomodulatory effects of polyherbal Asavas in pediatric populations",
+   "claimedYear": 2019,
+   "finding": "Observational study noted enhanced immune parameters (IgG, IgA levels) in children receiving age-appropriate doses of polyherbal Asavas including Aravindasava.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/aravindasava#22": {
+   "slug": "aravindasava",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Digestive tonic properties of Aravindasava in pediatric malnutrition",
+   "claimedYear": 2020,
+   "finding": "Small open-label study showed improved appetite scores and weight gain in malnourished children after 8 weeks of diluted Aravindasava administration.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/aravindasava#23": {
+   "slug": "aravindasava",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Safety assessment of fermented Ayurvedic preparations in children",
+   "claimedYear": 2021,
+   "finding": "Review concluded that alcohol content (8-12%) in Asavas requires careful dose titration in children; diluted doses in children above 5 years showed acceptable safety profiles in short-term use.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/arjunarishta#24": {
+   "slug": "arjunarishta",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Cardioprotective effects of Terminalia arjuna extract post-ischemia",
+   "claimedYear": 2019,
+   "finding": "Study in Journal of Ethnopharmacology showed [Arjuna](/nighantu/herb/arjuna/) bark extract reduces cardiac cell damage in post-ischemic models through antioxidant and membrane-stabilizing effects.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/arjunarishta#25": {
+   "slug": "arjunarishta",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "HPLC Analysis and Standardization of Arjunarishta",
+   "claimedYear": 2020,
+   "finding": "Developed HPLC-PDA method for standardization using ellagic acid, gallic acid, ethyl gallate, [quercetin](/nighantu/reference/quercetinquercetin/), and kaempferol as marker compounds, confirming antioxidant profile.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/arjunarishta#26": {
+   "slug": "arjunarishta",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Cardiac remodeling and antiarrhythmic effects of Arjuna bark extracts",
+   "claimedYear": 2021,
+   "finding": "Animal model studies showed reduced left ventricle hypertrophy and antiarrhythmic potential through stabilizing effects on myocardial calcium channels.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/arogyavardhini-vati#27": {
+   "slug": "arogyavardhini-vati",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Arogyavardhini Vati - Critical Analysis of a Miracle Drug",
+   "claimedYear": 2024,
+   "finding": "Comprehensive review confirmed efficacy in hepatitis, non-alcoholic and alcoholic fatty liver, ascites (Jalodara), and autoimmune liver disease through hepatoprotective, anti-inflammatory, and antioxidant mechanisms.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/arogyavardhini-vati#28": {
+   "slug": "arogyavardhini-vati",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Tissue distribution of mercury and copper after Aarogyavardhini Vati treatment in rat model of CCl4 induced chronic hepatotoxicity",
+   "claimedYear": 2021,
+   "finding": "[Arogyavardhini Vati](/nighantu/formulation/arogyavardhini-vati/) did not exhibit biologically significant toxicity from mercury or copper content when administered for prolonged duration in rats with chronic hepatotoxicity, supporting traditional safety claims at recommended doses.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "32035767",
+   "doi": "10.1016/j.jaim.2019.09.005",
+   "actualTitle": "Tissue distribution of mercury and copper after Aarogyavardhini Vati treatment in rat model of CCl(4) induced chronic hepatotoxicity",
+   "journal": "Journal of Ayurveda and integrative medicine",
+   "year": 2020,
+   "authors": [
+    "Jamadagni S",
+    "Jamadagni P",
+    "Angom B",
+    "Mondal D",
+    "Upadhyay S",
+    "Gaidhani S",
+    "Hazra J"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32035767/",
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/arogyavardhini-vati#29": {
+   "slug": "arogyavardhini-vati",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Hepatoprotective evaluation of Arogyavardhini Rasa against D-galactosamine induced hepatic damage",
+   "claimedYear": 2017,
+   "finding": "Pretreatment with Arogyavardhini attenuated liver damage indicators in a dose-dependent manner, with significant reduction in MDA concentration and improvement in glutathione and superoxide dismutase levels.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/arogyavardhini-vati#30": {
+   "slug": "arogyavardhini-vati",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Safety and efficacy evaluation of Ayurvedic treatment (Arjuna powder and Arogyavardhini Vati) in dyslipidemia patients",
+   "claimedYear": 2013,
+   "finding": "Pilot prospective cohort study demonstrated hypolipidemic activity comparable to fenofibrate in Triton WR-1339-induced hyperlipidemic models.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "23559790",
+   "doi": "10.4103/0974-8520.105238",
+   "actualTitle": "Safety and efficacy evaluation of Ayurvedic treatment (Arjuna powder and Arogyavardhini Vati) in dyslipidemia patients: A pilot prospective cohort clinical study",
+   "journal": "Ayu",
+   "year": 2012,
+   "authors": [
+    "Kumar G",
+    "Srivastava A",
+    "Sharma SK",
+    "Gupta YK"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23559790/",
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/ashokarishta#31": {
+   "slug": "ashokarishta",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Ayurveda Management of Menorrhagia (Raktapradara): Protocol for a Randomized Controlled Trial",
+   "claimedYear": 2025,
+   "finding": "Ongoing RCT with 79 patients enrolled as of December 2024. Treatment group receives 20 mL Ashokarishta with 250 mg Trinakantamani pishti and iron/folic acid tablets twice daily for 3 months. Data analysis expected by February 2026.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "40163851",
+   "doi": "10.2196/60801",
+   "actualTitle": "Ayurveda Management of Menorrhagia (Raktapradara): Protocol for a Randomized Controlled Trial",
+   "journal": "JMIR research protocols",
+   "year": 2025,
+   "authors": [
+    "Rajput S",
+    "Mata S",
+    "Saxena U",
+    "Ota S",
+    "Gupta B"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Clinical Trial Protocol",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40163851/",
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/ashokarishta#32": {
+   "slug": "ashokarishta",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Clinical evaluation of Ashokarishta, Ashwagandha Churna and Praval Pishti in management of menopausal syndrome",
+   "claimedYear": 2021,
+   "finding": "Combined Ashokarishta regimen showed statistically significant improvement in menopausal symptoms including hot flashes, mood disturbances, and hormonal parameters.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "23723668",
+   "doi": "10.4103/0974-8520.110529",
+   "actualTitle": "Clinical evaluation of Ashokarishta, Ashwagandha Churna and Praval Pishti in the management of menopausal syndrome",
+   "journal": "Ayu",
+   "year": 2012,
+   "authors": [
+    "Modi MB",
+    "Donga SB",
+    "Dei L"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23723668/",
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/ashokarishta#33": {
+   "slug": "ashokarishta",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Herbal treatments for leiomyoma-induced menorrhagia: A clinical evaluation",
+   "claimedYear": 2023,
+   "finding": "Ashokarishta demonstrated significant control of menorrhagia in patients with uterine leiomyomas, with highly significant statistical results (P<0.001).",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/ashokarishta#34": {
+   "slug": "ashokarishta",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Phytochemical and pharmacological evaluation of Ashokarishta fermentation bioactives",
+   "claimedYear": 2022,
+   "finding": "Fermentation process enhances bioavailability of Saraca asoca bark phenolics including catechin and epicatechin. Self-generated alcohol (3-9%) serves as natural extraction solvent for lipophilic compounds.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/ashwagandharishta#35": {
+   "slug": "ashwagandharishta",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Cortisol reduction and stress relief with Ashwagandharishta",
+   "claimedYear": 2019,
+   "finding": "Placebo-controlled study showed significant reduction in cortisol levels and perceived stress scores after 8 weeks of daily dosing.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/ashwagandharishta#36": {
+   "slug": "ashwagandharishta",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Ashwagandharishta in chronic fatigue syndrome",
+   "claimedYear": 2020,
+   "finding": "Randomized trial (n=80) reported significant improvement in fatigue severity scores after 12 weeks of 12 ml twice-daily dosing.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/ashwagandharishta#37": {
+   "slug": "ashwagandharishta",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Ashwagandharishta as adjuvant in dengue convalescence",
+   "claimedYear": 2021,
+   "finding": "Small clinical trial showed 68% faster convalescence in dengue patients supplemented with Ashwagandharishta.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/avipattikar-churna#38": {
+   "slug": "avipattikar-churna",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Mechanistic insights into the anti-ulcerative effects of Avipattikar churna: a network pharmacology and experimental approach",
+   "claimedYear": 2025,
+   "finding": "Network analysis revealed [Quercetin](/nighantu/reference/quercetinquercetin/), Ellagic acid, Turpetholic acid, Copaene, and [Eugenol](/nighantu/glossary/compounds-d-g/#eugenol) as active agents in peptic ulcer. The formulation suppresses NF-kB signaling pathway, significantly reducing TNF-alpha and IL-6, decreasing inflammatory cell infiltration, promoting ulcer healing, and inducing apoptosis.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/avipattikar-churna#39": {
+   "slug": "avipattikar-churna",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Qualitative and quantitative determination of phytoconstituents in manually prepared Avipattikar Churna",
+   "claimedYear": 2023,
+   "finding": "HPLC-based phytochemical profiling identified and quantified key bioactive markers including gallic acid, [piperine](/nighantu/reference/piperine/), and [gingerol](/nighantu/glossary/compounds-d-g/#gingerol) content, establishing quality control parameters for standardized preparation.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/avipattikar-churna#40": {
+   "slug": "avipattikar-churna",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Anti-secretory and anti-ulcerogenic activities of Avipattikar Churna on peptic ulcers in experimental rats",
+   "claimedYear": 2021,
+   "finding": "Demonstrated anti-secretory and anti-ulcerogenic effects comparable to ranitidine in peptic ulcer disease models. No complications, side effects, or addiction reported.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "23905120",
+   "doi": "10.7860/JCDR/2013/5309.3058",
+   "actualTitle": "Evaluation of anti-secretory and anti-ulcerogenic activities of avipattikar churna on the peptic ulcers in experimental rats",
+   "journal": "Journal of clinical and diagnostic research : JCDR",
+   "year": 2013,
+   "authors": [
+    "Gyawali S",
+    "Khan GM",
+    "Lamichane S",
+    "Gautam J",
+    "Ghimire S",
+    "Adhikari R",
+    "Lamsal R"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23905120/",
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/avipattikar-churna#41": {
+   "slug": "avipattikar-churna",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Updated review on recent in-vitro, in-vivo and clinical researches of Avipattikar Churna",
+   "claimedYear": 2020,
+   "finding": "Comprehensive review confirmed that 21-45 days is required to show marked improvement in gastric disorders. Herbs have anti-inflammatory, antioxidant, and cytoprotective activities; sugar component provides acid neutralization.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/bakuchi-taila#42": {
+   "slug": "bakuchi-taila",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Studies on the composition and standardization of Bakuchi oil used in the treatment of vitiligo",
+   "claimedYear": 2014,
+   "finding": "TLC fingerprint identified six fluorescent secondary metabolites (psoralen, isopsoralen, corylin, psoralidin, dehydroisopsoralidin, isobavachalcone) providing a standardization framework for quality control of [Bakuchi](/nighantu/herb/bakuchi/) oil.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/bakuchi-taila#43": {
+   "slug": "bakuchi-taila",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Bakuchi extract gel in vitiligo repigmentation: randomized controlled trial",
+   "claimedYear": 2019,
+   "finding": "Published in Phytotherapy Research, bakuchi extract gel improved vitiligo repigmentation by 40% compared to placebo over 6 months of treatment.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/bakuchi-taila#44": {
+   "slug": "bakuchi-taila",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Evaluation of hepatotoxicity of Psoralea corylifolia based on zebrafish model",
+   "claimedYear": 2024,
+   "finding": "Published in Frontiers in Pharmacology, the study identified bavachin, psoralidin, bavachinin, neobavaisoflavone, and bakuchiol as the main hepatotoxic constituents, with hepatotoxicity mechanism related to effects on liver lipid metabolism and mitochondrial dysfunction.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "38449808",
+   "doi": "10.3389/fphar.2024.1308655",
+   "actualTitle": "Evaluation of the hepatotoxicity of Psoralea corylifolia L. based on a zebrafish model",
+   "journal": "Frontiers in pharmacology",
+   "year": 2024,
+   "authors": [
+    "Gao SY",
+    "Zhao JC",
+    "Xia Q",
+    "Sun C",
+    "Aili M",
+    "Talifu A",
+    "Huo SX",
+    "Zhang Y",
+    "Li ZJ"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38449808/",
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/balarishta#45": {
+   "slug": "balarishta",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Nervine tonic properties of Sida cordifolia-based formulations",
+   "claimedYear": 2019,
+   "finding": "Sida cordifolia extracts demonstrated significant neuroprotective effects through [antioxidant](/nighantu/reference/antioxidant/) mechanisms and modulation of neurotransmitter levels.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/balarishta#46": {
+   "slug": "balarishta",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Anti-rheumatic and analgesic evaluation of Balarishta components",
+   "claimedYear": 2020,
+   "finding": "Combined herbal extract showed significant anti-inflammatory and analgesic activity in adjuvant-induced arthritis models, validating traditional rheumatic use.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/balarishta#47": {
+   "slug": "balarishta",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Immunomodulatory and adaptogenic activity of Bala-Ashwagandha combinations",
+   "claimedYear": 2021,
+   "finding": "Synergistic combination enhanced stress resistance and immune function parameters in chronically fatigued animal models.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/balaswagandhadi-thailam#48": {
+   "slug": "balaswagandhadi-thailam",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "GC-MS Analysis of the Ayurvedic Oil Balaswagandhadi Tailam",
+   "claimedYear": 2024,
+   "finding": "Published in PMC, the GC-MS study identified key bioactive compounds including vitamin E, campesterol, gamma-sitosterol, beta-eudesmol, and multiple fatty acid esters, validating the presence of pharmacologically active molecules in the traditional formulation.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "40061637",
+   "doi": "10.4103/jpbs.jpbs_839_24",
+   "actualTitle": "GC-MS Analysis of the Ayurvedic Oil Balaswagandhadi Tailam",
+   "journal": "Journal of pharmacy & bioallied sciences",
+   "year": 2024,
+   "authors": [
+    "Sudhan A",
+    "Prabhu K",
+    "Jones S",
+    "Janaki CS",
+    "Sheriff D",
+    "Rao MR",
+    "Muttevi HK",
+    "Balakrishnan D",
+    "Sivanesh M"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40061637/",
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/balaswagandhadi-thailam#49": {
+   "slug": "balaswagandhadi-thailam",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Clinical evaluation of Balaswagandhadi Thailam Abhyanga in muscle weakness",
+   "claimedYear": 2019,
+   "finding": "A randomized controlled trial with 60 patients showed 30% reduction in pain scores after four weeks of daily abhyanga with [Balaswagandhadi Thailam](/nighantu/formulation/balaswagandhadi-thailam/) compared to control oil.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/balaswagandhadi-thailam#50": {
+   "slug": "balaswagandhadi-thailam",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Anti-inflammatory and antioxidant properties of Withania somnifera and Sida cordifolia in medicated oil formulations",
+   "claimedYear": 2021,
+   "finding": "Pharmacological analysis confirmed that W. somnifera and S. cordifolia possess significant anti-inflammatory and antioxidant properties, supporting traditional use for managing inflammatory conditions and promoting tissue health.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/bilwadi-leha#51": {
+   "slug": "bilwadi-leha",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Clinical evaluation of Bilvadileha in the management of irritable bowel syndrome",
+   "claimedYear": 2014,
+   "finding": "46 IBS patients treated for 12 weeks showed 67.09% improvement in abdominal pain, 100% resolution of bloating, 86.96% improvement in IBS-D, 100% resolution of mucus passage, and 97.50% improvement in urgency",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "24696573",
+   "doi": "10.4103/0974-8520.127717",
+   "actualTitle": "Clinical evaluation of Bilvadileha in the management of irritable bowel syndrome",
+   "journal": "Ayu",
+   "year": 2013,
+   "authors": [
+    "Tiwari R",
+    "Pandya DH",
+    "Baghel MS"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24696573/",
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/bilwadi-leha#52": {
+   "slug": "bilwadi-leha",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Bilwadi Churna standardization and analytical profiling for IBS management",
+   "claimedYear": 2022,
+   "finding": "Physicochemical standardization established quality control parameters for Bilwadi formulations used in IBS and diarrhea management",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/bilwadi-leha#53": {
+   "slug": "bilwadi-leha",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Aegle marmelos pharmacological review for gastrointestinal disorders",
+   "claimedYear": 2021,
+   "finding": "Bael (primary ingredient) validated for anti-diarrheal, antimicrobial, and anti-ulcer properties supporting traditional Grahani (IBS) management",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/brahma-rasayana#54": {
+   "slug": "brahma-rasayana",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Brahmi Rasayana Improves Learning and Memory in Mice",
+   "claimedYear": 2005,
+   "finding": "[Brahma Rasayana](/nighantu/formulation/brahma-rasayana/) improved learning and memory in mice models, proving useful as a memory restorative agent potentially applicable in dementia treatment",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "16550227",
+   "doi": "10.1093/ecam/nek014",
+   "actualTitle": "Brahmi rasayana improves learning and memory in mice",
+   "journal": "Evidence-based complementary and alternative medicine : eCAM",
+   "year": 2006,
+   "authors": [
+    "Joshi H",
+    "Parle M"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16550227/",
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/brahma-rasayana#55": {
+   "slug": "brahma-rasayana",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Randomized trial of Brahma Rasayana churna on word recall and cognitive function",
+   "claimedYear": 2018,
+   "finding": "Subjects taking 5g twice daily showed 25% improvement in word recall tests over eight weeks versus placebo in Journal of Ayurveda and Integrative Medicine",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/brahma-rasayana#56": {
+   "slug": "brahma-rasayana",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Randomized trial of Brahmarasayanam on memory scales (MMSE)",
+   "claimedYear": 2021,
+   "finding": "Banaras Hindu University study showed participants taking standardized Brahmarasayanam achieved 30% better performance on memory scales (MMSE) over 16 weeks versus placebo",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/brahmi-ghritam#57": {
+   "slug": "brahmi-ghritam",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Organoleptic, physicochemical, phytochemical and pharmacological evaluation of six medicated ghee used for Ayurvedic management of Epilepsy",
+   "claimedYear": 2024,
+   "finding": "a licensed Indian manufacturer [Brahmi](/nighantu/herb/brahmi/) [Ghrita](/nighantu/herb/ghrita/) demonstrated superior protection against onset and duration of PTZ-induced convulsions in mice compared to other [Ghrita](/nighantu/herb/ghrita/) formulations evaluated",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "39644797",
+   "doi": "10.1016/j.jaim.2024.100995",
+   "actualTitle": "Organoleptic, physicochemical, phytochemical and pharmacological evaluation of six medicated ghee used for Ayurvedic management of Epilepsy",
+   "journal": "Journal of Ayurveda and integrative medicine",
+   "year": 2024,
+   "authors": [
+    "Moon S",
+    "Raut N",
+    "Moon H",
+    "Dhawande A",
+    "Gurav S"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39644797/",
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/brahmi-ghritam#58": {
+   "slug": "brahmi-ghritam",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "A Review on the Neuroprotective action of Brahmi ghrita - A Polyherbal Ayurvedic formulation",
+   "claimedYear": 2021,
+   "finding": "[Brahmi](/nighantu/herb/brahmi/) [Ghrita](/nighantu/herb/ghrita/) ingredients exhibit neuroprotective, [nootropic](/nighantu/glossary/pharmacology/#nootropic), anxiolytic, anti-depressant, antioxidant, and anticonvulsant activity; the ghee base enables crossing the blood-brain barrier",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/brahmi-ghritam#59": {
+   "slug": "brahmi-ghritam",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Effect of Bramhi Ghrita on learning and memory paradigms in experimental animals",
+   "claimedYear": 2023,
+   "finding": "[Ghrita](/nighantu/herb/ghrita/) formulation improved learning and memory in animal models with 20-40% improvement in memory retention and attention spans after 60 days of standardized use",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/brahmi-vati#60": {
+   "slug": "brahmi-vati",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Neurocognitive Effect of Nootropic Drug Brahmi (Bacopa monnieri) in Alzheimer's Disease",
+   "claimedYear": 2017,
+   "finding": "Bacosides enhance nerve impulse transmission, promote repair of damaged neurons by upregulating neuronal synthesis and kinase activity, and restore synaptic function.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "28588366",
+   "doi": "10.1159/000475900",
+   "actualTitle": "Neurocognitive Effect of Nootropic Drug Brahmi (Bacopa monnieri) in Alzheimer's Disease",
+   "journal": "Annals of neurosciences",
+   "year": 2017,
+   "authors": [
+    "Chaudhari KS",
+    "Tiwari NR",
+    "Tiwari RR",
+    "Sharma RS"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28588366/",
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/brahmi-vati#61": {
+   "slug": "brahmi-vati",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Meta-analysis of nine clinical studies and 2024 update on Bacopa monnieri cognitive effects",
+   "claimedYear": 2024,
+   "finding": "Benefits for memory, cognitive function, and stress/anxiety reduction confirmed across multiple clinical trials; improvements in verbal learning, delayed word recall, memory acquisition, and anxiety reduction consistently demonstrated.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/brahmi-vati#62": {
+   "slug": "brahmi-vati",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Mechanisms, Efficacy, and Safety of Bacopa monnieri (Brahmi) for Cognitive and Brain Enhancement",
+   "claimedYear": 2023,
+   "finding": "Evidence-based review confirmed [Brahmi](/nighantu/herb/brahmi/)'s pharmacological effects including memory boosting in Alzheimer's Disease, antiparkinson, antistroke, and anticonvulsant potentials through multiple neurotransmitter pathway modulation.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "26413128",
+   "doi": "10.1155/2015/717605",
+   "actualTitle": "Mechanisms, Efficacy, and Safety of Bacopa monnieri (Brahmi) for Cognitive and Brain Enhancement",
+   "journal": "Evidence-based complementary and alternative medicine : eCAM",
+   "year": 2015,
+   "authors": [
+    "Stough C",
+    "Singh H",
+    "Zangara A"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26413128/",
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/brahmi-vati#63": {
+   "slug": "brahmi-vati",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "The Molecular Links of Re-Emerging Therapy: A Review of Evidence of Brahmi (Bacopa monniera)",
+   "claimedYear": 2016,
+   "finding": "Comprehensive molecular analysis identified bacosides, brahmine, herpestine, and [flavonoids](/nighantu/reference/flavonoids/) as key active compounds mediating neuroprotective, antioxidant, and anti-inflammatory mechanisms.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "26973531",
+   "doi": "10.3389/fphar.2016.00044",
+   "actualTitle": "The Molecular Links of Re-Emerging Therapy: A Review of Evidence of Brahmi (Bacopa monniera)",
+   "journal": "Frontiers in pharmacology",
+   "year": 2016,
+   "authors": [
+    "Mathur D",
+    "Goyal K",
+    "Koul V",
+    "Anand A"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26973531/",
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/brihatyadi-kashayam#64": {
+   "slug": "brihatyadi-kashayam",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Preliminary review of Brihatyadi Kashayam components",
+   "claimedYear": 2019,
+   "finding": "Review in Journal of Ayurveda and Integrative Medicine confirmed antimicrobial, anti-inflammatory, and [antioxidant](/nighantu/reference/antioxidant/) properties of individual components.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/brihatyadi-kashayam#65": {
+   "slug": "brihatyadi-kashayam",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Diuretic and lithotriptic effects of Gokshura in urinary disorders",
+   "claimedYear": 2020,
+   "finding": "[Gokshura](/nighantu/herb/gokshura/) (Tribulus terrestris) extract demonstrated significant diuretic and stone-dissolving properties in experimental urolithiasis models.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/brihatyadi-kashayam#66": {
+   "slug": "brihatyadi-kashayam",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Anti-inflammatory profile of Solanum indicum and S. xanthocarpum",
+   "claimedYear": 2021,
+   "finding": "Combined extracts showed anti-tussive, expectorant, antihistaminic, and [analgesic](/nighantu/reference/analgesic/) properties with significant inhibition of inflammatory mediators.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/chandraprabha-vati#67": {
+   "slug": "chandraprabha-vati",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Network pharmacology analysis of Chandraprabha Vati: A new hope for the treatment of Metabolic Syndrome",
+   "claimedYear": 2024,
+   "finding": "Analyzed 328 bioactives from 16 of the 37 herbo-mineral ingredients using network pharmacology. Identified multiple targets addressing metabolic syndrome components including obesity, hyperglycemia, dyslipidemia, glucose intolerance, mitochondrial dysfunction, and inflammation.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "38821011",
+   "doi": "10.1016/j.jaim.2024.100902",
+   "actualTitle": "Network pharmacology analysis of Chandraprabha Vati: A new hope for the treatment of Metabolic Syndrome",
+   "journal": "Journal of Ayurveda and integrative medicine",
+   "year": 2024,
+   "authors": [
+    "Dongre P",
+    "Majumdar A"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38821011/",
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/chandraprabha-vati#68": {
+   "slug": "chandraprabha-vati",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Anti-inflammatory activity of Chandraprabha Vati aqueous extract on bladder cells",
+   "claimedYear": 2020,
+   "finding": "Aqueous extracts reduced IL-6 and TNF-alpha secretion when bladder cells were exposed to E. coli endotoxins, demonstrating anti-inflammatory pathways relevant to UTI management.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/chandraprabha-vati#69": {
+   "slug": "chandraprabha-vati",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Antidiabetic activity of Chandraprabha Vati - A classical Ayurvedic formulation",
+   "claimedYear": 2021,
+   "finding": "Exhibited anti-hyperglycemic effect and attenuated alterations in lipid profile in animal studies. Showed significant reduction in blood glucose levels and improved lipid parameters.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "27665674",
+   "doi": "10.1016/j.jaim.2016.08.010",
+   "actualTitle": "Antidiabetic activity of Chandraprabha vati - A classical Ayurvedic formulation",
+   "journal": "Journal of Ayurveda and integrative medicine",
+   "year": 2016,
+   "authors": [
+    "Wanjari MM",
+    "Mishra S",
+    "Dey YN",
+    "Sharma D",
+    "Gaidhani SN",
+    "Jadhav AD"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27665674/",
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/chandraprabha-vati#70": {
+   "slug": "chandraprabha-vati",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Metabolomics of Shilajit fulvic acid in Chandraprabha Vati",
+   "claimedYear": 2022,
+   "finding": "Metabolomics mapping showed increased bioavailability of trace minerals (zinc, magnesium) from [Shilajit](/nighantu/herb/shilajit/) component, crucial for normal reproductive functions and metabolic health.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/chandraprabha-vati#71": {
+   "slug": "chandraprabha-vati",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Effect of Nishamalaki and Chandraprabha Vati in Management of Diabetic Patients",
+   "claimedYear": 2020,
+   "finding": "Clinical evaluation showed combined treatment significantly improved glycemic control parameters in diabetic patients, supporting the formulation's traditional use in Prameha (urinary/metabolic disorders).",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/chitrakadi-vati#72": {
+   "slug": "chitrakadi-vati",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Randomized trial on Chitrakadi Vati in functional dyspepsia",
+   "claimedYear": 2020,
+   "finding": "Small randomized trial (Journal of Ayurvedic Research) noted 70% improvement in patients with functional dyspepsia.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/chitrakadi-vati#73": {
+   "slug": "chitrakadi-vati",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Preparation and Standardization of Chitrakadi Vati: HPTLC identification of key phytoconstituents",
+   "claimedYear": 2022,
+   "finding": "HPTLC method identified and quantified key phytoconstituents including Piperine, [Bergapten](/nighantu/glossary/compounds-a-c/#bergapten), Plumbagin, and [Lupeol](/nighantu/reference/lupeol/), establishing analytical quality control parameters.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/chitrakadi-vati#74": {
+   "slug": "chitrakadi-vati",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Clinical evaluation of Chitrakadi Vati in heartburn and acid reflux symptoms",
+   "claimedYear": 2019,
+   "finding": "Cooling Vipaka from Amalaki balanced excessive Pitta, relieving heartburn symptoms in up to 60% of participants over four weeks of treatment.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/chyawanprash#75": {
+   "slug": "chyawanprash",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Safety and Efficacy of Chyawanprash as a Prophylaxis Treatment for COVID-19: A Systematic Review and Meta-Analysis of Randomized Control Trials",
+   "claimedYear": 2024,
+   "finding": "Meta-analysis of 5 RCTs confirmed Chyawanprash provided prophylactic benefit against COVID-19 with 3-times immunity boost and no adverse effects across all age groups",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "39544586",
+   "doi": "10.7759/cureus.71532",
+   "actualTitle": "Safety and Efficacy of Chyawanprash as a Prophylaxis Treatment for COVID-19: A Systematic Review and Meta-Analysis of Randomized Control Trials",
+   "journal": "Cureus",
+   "year": 2024,
+   "authors": [
+    "Sharma S",
+    "Sethuraman G",
+    "Kumari K"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39544586/",
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/chyawanprash#76": {
+   "slug": "chyawanprash",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "The Role of Chyawanprash as Medhya Rasayana",
+   "claimedYear": 2025,
+   "finding": "Recent research highlights Chyawanprash's role as a cognitive enhancer (Medhya Rasayana), enhancing vitality, cognition, and brain strength through multiple [neuroprotective](/nighantu/reference/neuroprotective/) mechanisms",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/chyawanprash#77": {
+   "slug": "chyawanprash",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Chyawanprash regulates immune response in Zebrafish model of inflammation by moderating inflammatory biomarkers",
+   "claimedYear": 2021,
+   "finding": "Chyawanprash exerted strong prophylactic effect in zebrafish models, efficiently protecting from inflammatory manifestations at human equivalent dose through immunomodulation",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "34867361",
+   "doi": "10.3389/fphar.2021.751576",
+   "actualTitle": "Chyawanprash, An Ancient Indian Ayurvedic Medicinal Food, Regulates Immune Response in Zebrafish Model of Inflammation by Moderating Inflammatory Biomarkers",
+   "journal": "Frontiers in pharmacology",
+   "year": 2021,
+   "authors": [
+    "Balkrishna A",
+    "Tomer M",
+    "Manik M",
+    "Srivastava J",
+    "Dev R",
+    "Haldar S",
+    "Varshney A"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34867361/",
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/coconut-oil-narikela-taila#78": {
+   "slug": "coconut-oil-narikela-taila",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Anti-inflammatory and antimicrobial efficacy of coconut oil for periodontal pathogens: A triple-blind randomized clinical trial",
+   "claimedYear": 2025,
+   "finding": "Triple-blind RCT confirmed virgin [coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil) (47.92% lauric acid) demonstrated significant antimicrobial efficacy against periodontal pathogens and anti-inflammatory benefits in oral health.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "40085302",
+   "doi": "10.1007/s00784-025-06267-8",
+   "actualTitle": "Anti-inflammatory and antimicrobial efficacy of coconut oil for periodontal pathogens: a triple-blind randomized clinical trial",
+   "journal": "Clinical oral investigations",
+   "year": 2025,
+   "authors": [
+    "Pardiñas López S",
+    "García-Caro ME",
+    "Vallejo JA",
+    "Aja-Macaya P",
+    "Conde-Pérez K",
+    "Nión-Cabeza P",
+    "Khouly I",
+    "Bou G",
+    "Cendal AIR",
+    "Díaz-Prado S",
+    "Poza M"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40085302/",
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/coconut-oil-narikela-taila#79": {
+   "slug": "coconut-oil-narikela-taila",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Biomedical Applications of Lauric Acid: A Narrative Review",
+   "claimedYear": 2024,
+   "finding": "Lauric acid disrupts bacterial, fungal, and viral cell membranes, leading to pathogen death; monolaurin (derived from lauric acid) has broad-spectrum antimicrobial activity including against MRSA, Helicobacter pylori, and Candida albicans.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "39036266",
+   "doi": "10.7759/cureus.62770",
+   "actualTitle": "Biomedical Applications of Lauric Acid: A Narrative Review",
+   "journal": "Cureus",
+   "year": 2024,
+   "authors": [
+    "M A",
+    "I MA",
+    "Ramalingam K",
+    "Shanmugam R"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39036266/",
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/coconut-oil-narikela-taila#80": {
+   "slug": "coconut-oil-narikela-taila",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Coconut Oil and Immunity: Comprehensive Review",
+   "claimedYear": 2024,
+   "finding": "MCTs in [coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil) are metabolized into ketones which may improve cognitive function in neurological conditions; lauric acid modulates immune cell function and inflammatory cytokine production.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/dadimadi-ghrita#81": {
+   "slug": "dadimadi-ghrita",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Clinical Efficacy and Safety of Punarnavadi Mandura and Dadimadi Ghrita|Dadimadi Ghrita in the Management of Iron Deficiency Anemia",
+   "claimedYear": 2017,
+   "finding": "103 patients administered 10g twice daily for 12 weeks showed statistically significant increase in serum iron levels and improvement in anemia symptoms; all safety parameters within stipulated range with no adverse drug reactions",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/dadimadi-ghrita#82": {
+   "slug": "dadimadi-ghrita",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Effect of Dadimadi Ghrita|Dadimadi Ghrita in Garbhini Pandu (Anaemia in Pregnancy)",
+   "claimedYear": 2019,
+   "finding": "35 pregnant subjects treated with 10ml daily for 30 days showed improved digestive power and nourishment without side effects to fetus or mother",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/dadimadi-ghrita#83": {
+   "slug": "dadimadi-ghrita",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Clinical Efficacy of Dadimadi Ghrita|Dadimadi Ghrita in Pandu (Anemia)",
+   "claimedYear": 2020,
+   "finding": "Dadimadi [Ghrita](/nighantu/herb/ghrita/)|Dadimadi Ghrita demonstrated significant improvement in hemoglobin levels, reduction in weakness, fatigue, dizziness, and headache in anemia patients",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/dashamoola-katutraya-kashayam#84": {
+   "slug": "dashamoola-katutraya-kashayam",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Randomized trial of Dashamoola Katutraya in osteoarthritis",
+   "claimedYear": 2021,
+   "finding": "RCT (n=60) in Journal of Ethnopharmacology showed significant reduction in CRP and ESR in osteoarthritis patients compared to NSAIDs.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/dashamoola-katutraya-kashayam#85": {
+   "slug": "dashamoola-katutraya-kashayam",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Bioavailability enhancement by Trikatu in Dashamoola formulations",
+   "claimedYear": 2020,
+   "finding": "Pharmacokinetic research in Indian Journal of Pharmacology showed [Pippali](/nighantu/herb/pippali/) and Maricha increase systemic bioavailability of [Dashamoola](/nighantu/herb/dashamoola/) glycosides by up to 50%.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/dashamoola-katutraya-kashayam#86": {
+   "slug": "dashamoola-katutraya-kashayam",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Dashamoola Katutraya in mild-to-moderate asthma",
+   "claimedYear": 2022,
+   "finding": "Clinical trial in Goa showed 30% improvement in FEV1 scores after 8 weeks when 40 ml twice daily was added to conventional asthma therapy.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/dashmool-dashmoolarishta#87": {
+   "slug": "dashmool-dashmoolarishta",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Experimental evaluation of analgesic, anti-inflammatory and anti-platelet potential of Dashamoola",
+   "claimedYear": 2020,
+   "finding": "[Dashamoola](/nighantu/herb/dashamoola/) in arishta and kwath forms demonstrated significant analgesic, anti-inflammatory, and anti-platelet effects, validating traditional use in pain and arthritis management.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "25878458",
+   "doi": "10.4103/0975-9476.146565",
+   "actualTitle": "Experimental evaluation of analgesic, anti-inflammatory and anti-platelet potential of Dashamoola",
+   "journal": "Journal of Ayurveda and integrative medicine",
+   "year": 2015,
+   "authors": [
+    "Parekar RR",
+    "Bolegave SS",
+    "Marathe PA",
+    "Rege NN"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25878458/",
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/dashmool-dashmoolarishta#88": {
+   "slug": "dashmool-dashmoolarishta",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Evaluation of oral multi-herbal preparation of Dashmoolarishta on mice model of osteoarthritis",
+   "claimedYear": 2021,
+   "finding": "Significant improvement in pain parameters and pathological markers in MIA-induced osteoarthritis mouse model, with reduction in inflammatory mediators and cartilage preservation.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "29040066",
+   "doi": "10.1515/jbcpp-2016-0141",
+   "actualTitle": "Evaluation of oral multi-herbal preparation of Dashmoolarishta on mice model of osteoarthritis",
+   "journal": "Journal of basic and clinical physiology and pharmacology",
+   "year": 2017,
+   "authors": [
+    "Shetty YC",
+    "Godbharle S",
+    "Brahma S",
+    "Salgaonkar S",
+    "Rege NN"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29040066/",
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/dashmool-dashmoolarishta#89": {
+   "slug": "dashmool-dashmoolarishta",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Evaluation of efficacy of Dashmoolarishta in cervicitis: A proof-of-concept study",
+   "claimedYear": 2020,
+   "finding": "All parameters including dysuria, vaginal discharge, and inflammation showed significant decrease after Dashmoolarishta administration, supporting its traditional gynecological applications.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/dashmool-dashmoolarishta#90": {
+   "slug": "dashmool-dashmoolarishta",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Dashmoola in Stri Roga: A review on its therapeutic benefits",
+   "claimedYear": 2023,
+   "finding": "Comprehensive review documenting therapeutic benefits specifically in gynecological conditions (Stri Roga), validating traditional postpartum care applications and uterine health benefits.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/dashmool-dashmoolarishta#91": {
+   "slug": "dashmool-dashmoolarishta",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Comparative study of Dasamoola Kwatha and Dasamoolarishta with special reference to preparation methods and uses",
+   "claimedYear": 2021,
+   "finding": "Compared decoction (kwatha) versus fermented (arishta) forms, finding that self-generated alcohol (5-7%) in arishta enhances extraction and bioavailability of active herbal compounds.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/dhanwantaram-kashayam#92": {
+   "slug": "dhanwantaram-kashayam",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Anti-inflammatory activity of Dashamoola extracts in vitro",
+   "claimedYear": 2019,
+   "finding": "In vitro assays revealed [Dashamoola](/nighantu/herb/dashamoola/) extracts inhibit COX-2 and 5-LOX [enzymes](/nighantu/glossary/compounds-d-g/#enzymes), providing scientific validation for the anti-inflammatory claims from classical texts.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/dhanwantaram-kashayam#93": {
+   "slug": "dhanwantaram-kashayam",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Neuroprotective properties of Dhanwantaram formulation constituents",
+   "claimedYear": 2020,
+   "finding": "[Bala](/nighantu/herb/bala/) and [Ashwagandha](/nighantu/herb/ashwagandha/) components demonstrated neuroprotective effects through BDNF upregulation and reduction of neuroinflammatory markers in animal models.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/dhanwantaram-kashayam#94": {
+   "slug": "dhanwantaram-kashayam",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Postpartum recovery with Dhanwantaram Kashayam: an observational study",
+   "claimedYear": 2021,
+   "finding": "Observational study in Kerala showed faster uterine involution and improved pain scores in postpartum women receiving [Dhanwantaram Kashayam](/nighantu/formulation/dhanwantaram-kashayam/) compared to standard care alone.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/dhanwantaram-thailam#95": {
+   "slug": "dhanwantaram-thailam",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "GC-MS Study of the Ayurvedic Formulation Dhanwantharam Thailam Used for Rheumatism",
+   "claimedYear": 2024,
+   "finding": "GC-MS profiling revealed crucial bioactive molecules including oleic acid, dodecanoic acid 1,2,3-propanetriyl ester, ethenyl ester, and 9,12-octadecadienoyl chloride (Z,Z), correlating with its documented anti-rheumatic and analgesic properties.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "38882853",
+   "doi": "10.4103/jpbs.jpbs_14_24",
+   "actualTitle": "The GC-MS Study of the Ayurvedic Formulation \"Dhanwantharam Thailam\" Used for Rheumatism",
+   "journal": "Journal of pharmacy & bioallied sciences",
+   "year": 2024,
+   "authors": [
+    "Brindha TR",
+    "Prabhu K",
+    "Jones S",
+    "Janaki CS",
+    "Sheriff D",
+    "Kumar HM",
+    "Kalaivani S",
+    "Lakshmi D"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38882853/",
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/dhanwantaram-thailam#96": {
+   "slug": "dhanwantaram-thailam",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Clinical evaluation of Dhanwantaram Thailam in postpartum care",
+   "claimedYear": 2019,
+   "finding": "Postpartum women receiving [Dhanwantaram Thailam](/nighantu/formulation/dhanwantaram-thailam/) abhyanga showed significant improvement in muscle tone recovery, reduced low back pain, and faster uterine involution compared to control group over 40 days.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/dhanwantaram-thailam#97": {
+   "slug": "dhanwantaram-thailam",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Pharmacological evaluation of Dhanwantaram Thailam in neuromuscular disorders",
+   "claimedYear": 2020,
+   "finding": "In a pilot study with 30 patients with neuromuscular weakness, daily application showed 55% improvement in grip strength and 40% reduction in pain scores over 21 days of panchakarma therapy.",
+   "status": "none",
+   "matchedBy": null,
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/draksharishta#98": {
+   "slug": "draksharishta",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Investigation of the central and peripheral analgesic and anti-inflammatory activity of Draksharishta",
+   "claimedYear": 2020,
+   "finding": "Carrageenan-induced paw edema and acetic acid writhing tests showed significant results (P < 0.05), indicating peripheral analgesic and anti-inflammatory action. DRK significantly suppressed inflammatory pain (P < 0.05) but not neurogenic pain.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "24826047",
+   "doi": "10.4103/0976-0105.105335",
+   "actualTitle": "Investigation of the central and peripheral analgesic and anti-inflammatory activity of Draksharishta an Indian Ayurvedic formulation",
+   "journal": "Journal of basic and clinical pharmacy",
+   "year": 2012,
+   "authors": [
+    "Kabir AU",
+    "Samad MB",
+    "D Costa NM",
+    "Hannan JM"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24826047/",
+   "checkedAt": "2026-09-10"
+  },
+  "formulation/draksharishta#99": {
+   "slug": "draksharishta",
+   "kind": "formulation",
+   "heading": "What do recent clinical trials show?",
+   "claimedTitle": "Determination of Quality Standards for Draksharishta, a Polyherbal Ayurvedic Formulation",
+   "claimedYear": 2021,
+   "finding": "TLC profiling identified gallic acid, catechin, and [resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol) as key bioactive markers. Established physicochemical quality standards including pH, specific gravity, alcohol content, total solids, and reducing sugars.",
+   "status": "plausible",
+   "matchedBy": "title-words",
+   "pmid": "27168691",
+   "doi": "10.4103/0250-474x.180262",
+   "actualTitle": "Determination of Quality Standards for Draksharishta, a Polyherbal Ayurvedic Formulation",
+   "journal": "Indian journal of pharmaceutical sciences",
+   "year": 2016,
+   "authors": [
+    "Pillai D",
+    "Pandita N"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27168691/",
+   "checkedAt": "2026-09-10"
+  }
+ }
+}

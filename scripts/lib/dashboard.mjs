@@ -119,6 +119,27 @@ export function renderDashboard(state, { site }) {
     lines.push('_Not yet run._', '');
   }
 
+  lines.push('## Answerable threads', '');
+  if (state.threadStats?.checkedAt) {
+    const t = state.threadStats;
+    lines.push(
+      `| Metric | Value |`, `| --- | --- |`,
+      `| Feeds queried | ${t.requests} |`,
+      `| Rate-limited | ${t.blocked} |`,
+      `| Posts seen | ${t.seen} |`,
+      `| New since last run | ${t.fresh} |`,
+      `| Met the bar | ${t.qualified} |`,
+      `| Surfaced to you | ${t.surfaced} |`,
+      `| Checked | ${fmtDate(t.checkedAt)} |`,
+      '',
+      '_A thread only qualifies if it names something the Nighantu has a page about._',
+      '_Read-only. Nothing is posted to any platform._',
+      '',
+    );
+  } else {
+    lines.push('_Not yet run._', '');
+  }
+
   lines.push('## Community signals', '');
   if (state.community?.checkedAt) {
     lines.push(
