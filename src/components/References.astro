@@ -1,0 +1,51 @@
+---
+import citations from '../data/citations.json';
+import { TIER_ORDER, TIER_LABEL } from '../lib/tiers';
+
+interface Props { kind: string; slug: string }
+const { kind, slug } = Astro.props;
+
+const entry = (citations as any).pages?.[`${kind}/${slug}`];
+const all = entry?.citations ?? [];
+
+const groups = TIER_ORDER
+  .map((tier) => ({ tier, label: TIER_LABEL[tier], items: all.filter((c: any) => c.tier === tier) }))
+  .filter((g) => g.items.length);
+
+const fmtAuthors = (a: string[] = []) => {
+  if (!a.length) return '';
+  if (a.length <= 3) return a.join(', ');
+  return `${a.slice(0, 3).join(', ')} and others`;
+};
+---
+{groups.length > 0 && (
+  <section class="refs" aria-labelledby="refs-heading">
+    <h2 id="refs-heading">Published research</h2>
+    <p class="refs-note">
+      Literature indexed in PubMed that concerns this subject, grouped by study type.
+      A paper appearing here is a record of what has been published, not evidence that
+      the subject works, and laboratory or animal results do not transfer to people.
+      Study titles link to PubMed so you can read the source rather than take our word.
+    </p>
+
+    {groups.map((g) => (
+      <div class="refgroup">
+        <h3>{g.label} <span class="refcount">{g.items.length}</span></h3>
+        <ol class="reflist">
+          {g.items.map((c: any) => (
+            <li>
+              {fmtAuthors(c.authors) && <span class="refauthors">{fmtAuthors(c.authors)}. </span>}
+              {c.year && <span class="refyear">{c.year}. </span>}
+              <a href={c.url} rel="noopener">{c.title}</a>
+              {c.journal && <span class="refjournal"> {c.journal}.</span>}
+              <span class="refids">
+                {' '}PMID <a href={c.url} rel="noopener">{c.pmid}</a>
+                {c.doi && <> &middot; <a href={`https://doi.org/${c.doi}`} rel="noopener">doi:{c.doi}</a></>}
+              </span>
+            </li>
+          ))}
+        </ol>
+      </div>
+    ))}
+  </section>
+)}
