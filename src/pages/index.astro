@@ -14,6 +14,54 @@ const description = `${TAGLINE} ${total} monographs on herbs, classical formulat
 
 const jsonld = [
   {
+    // Dataset markup opens Google Dataset Search, which indexes separately from web
+    // search and is far less competitive. It needs no account and no submission: the
+    // markup is the submission.
+    '@context': 'https://schema.org',
+    '@type': 'Dataset',
+    '@id': `${abs('/')}#dataset`,
+    name: 'Age Ayurveda Nighantu: a referenced encyclopedia of Ayurvedic materia medica',
+    description:
+      'A structured reference dataset of Ayurvedic materia medica: single-herb monographs, '
+      + 'classical formulations and Ayurvedic instruments. Each entry carries a definitional '
+      + 'summary, identification and pharmacology as structured fields, classical text '
+      + 'references, and published research findings with dates. Derived from the Amidha '
+      + 'Ayurveda Herb Database under CC BY 4.0 and extended with classical citations and '
+      + 'editorial layers. Not clinically reviewed; educational reference only.',
+    url: abs('/'),
+    license: 'https://creativecommons.org/licenses/by/4.0/',
+    isAccessibleForFree: true,
+    inLanguage: 'en',
+    keywords: [
+      'Ayurveda', 'materia medica', 'medicinal plants', 'dravyaguna',
+      'ethnobotany', 'Shirodhara', 'Panchakarma', 'traditional medicine',
+    ],
+    creator: { '@id': `${abs('/')}#organization` },
+    publisher: { '@id': `${abs('/')}#organization` },
+    citation: 'https://github.com/Jairaj1234-dancer/nighantu/blob/main/CITATION.cff',
+    distribution: [
+      {
+        '@type': 'DataDownload',
+        name: 'Curated index for language models',
+        encodingFormat: 'text/plain',
+        contentUrl: abs('/llms.txt'),
+      },
+      {
+        '@type': 'DataDownload',
+        name: 'Full text index: every entry with its summary and key facts',
+        encodingFormat: 'text/plain',
+        contentUrl: abs('/llms-full.txt'),
+      },
+      {
+        '@type': 'DataDownload',
+        name: 'Source repository',
+        encodingFormat: 'text/markdown',
+        contentUrl: 'https://github.com/Jairaj1234-dancer/nighantu',
+      },
+    ],
+    measurementTechnique: 'Compiled from classical Ayurvedic texts, pharmacopoeial standards and published literature',
+  },
+  {
     '@context': 'https://schema.org',
     '@type': 'Organization',
     '@id': `${abs('/')}#organization`,
