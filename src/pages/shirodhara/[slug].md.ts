@@ -1,4 +1,5 @@
 import type { APIRoute } from 'astro';
+import { abs } from '../../lib/site';
 import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -17,6 +18,7 @@ export const GET: APIRoute = ({ props }) => {
       ? ['', '## Common questions', '', ...d.faq.flatMap((f: any) => [`### ${f.q}`, '', f.a, ''])]
       : []),
     '', '---', '',
+    `Canonical version of this page: ${abs(`/shirodhara/${entry.data.slug ?? entry.id}/`)}`, '',
     'Published by Age Ayurveda in the Nighantu. Educational reference only, not medical advice.',
   ].join('\n');
   return new Response(body, { headers: { 'Content-Type': 'text/markdown; charset=utf-8' } });

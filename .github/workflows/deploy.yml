@@ -63,6 +63,11 @@ jobs:
 
       - name: Internal link check
         run: node scripts/linkcheck.mjs
+      # AI crawlers do not execute JavaScript and waste roughly a third of their
+      # fetches on 404s, so an unreachable or JS-rendered page costs far more here
+      # than conventional SEO guidance implies.
+      - name: Crawlability and indexability
+        run: node scripts/crawl-audit.mjs
 
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
