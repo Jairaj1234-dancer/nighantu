@@ -32,6 +32,9 @@ scripts/lib/sources.mjs     the source allowlist: nothing else may ground a safe
 scripts/safety-worklist.mjs which pages need safety data, in risk order
 scripts/apply-safety.mjs    workflow output -> data/safety.json, via the validator
 scripts/dravyaguna.mjs      parses rasa/guna/virya/vipaka out of the monographs
+scripts/compounds.mjs       constituent co-occurrence graph, computed from content/
+scripts/safety-refresh.mjs  quarterly: are published safety sources still saying it
+scripts/crawl-audit.mjs     crawlability gate aimed at AI crawlers, not Googlebot
 scripts/verification.mjs    builds the published verification ledger from run artifacts
 scripts/slim-runs.mjs       redacts and shrinks run output before it is committed
 scripts/test/               negative tests; every one injects a fault and expects a failure
@@ -121,6 +124,7 @@ never typed in, so a wrong number on the page means a wrong script.
 | Research citations | 1,251 | 496 | 755 |
 | Safety, first attempt | 83 | 0 | 83 |
 | Safety, second attempt | 25 | 1 | 24 |
+| Safety, third attempt | 24 | 1 | 23 |
 
 Two findings are worth knowing before reading anything else here.
 
@@ -138,6 +142,20 @@ defects and audited every one individually; one passed.
 That yield is low because the standard is strict and the per-preparation literature for
 Ayurvedic metallic preparations is mostly silent. The remaining records are unfinished, not
 discarded, and they are held in `data/runs/`.
+
+**The pattern across all three passes is the finding.** Both records that have ever passed
+did so with `insufficientData: true`. Not one preparation-specific record has survived, across
+83 pages and dozens of independent auditors. That is the literature, not the auditors: for most
+of these preparations there is no published monograph, elemental analysis, clinical study or
+dose, so any statement framed as being about *this* preparation is unsupportable and gets
+caught. What passes is the honest shape: nothing is published about this preparation, here is
+exactly what was searched and what it returned, and here is the documented hazard for the class
+it belongs to, every statement labelled `class-level`.
+
+Once published, a record is re-checked quarterly by `.github/workflows/safety-refresh.yml`.
+It does not re-judge claims; it asks whether every cited source still resolves, still lands on
+an allowlisted host after redirects, and still says what it said. A revised LiverTox entry
+opens an issue rather than failing a build, because that is a case for a person to read.
 
 ### Safety records
 
@@ -190,8 +208,13 @@ actually resolves, so it cannot break the live site by going early. See
   representative without asking which. A `Link: rel="canonical"` header would be the correct
   mechanism; GitHub Pages serves these as static files and drops build-time headers, so the
   in-body declaration is what is actually available.
-- Three downloadable datasets under CC BY 4.0, each generated from the monographs so it cannot
-  drift: `/research.json`, `/dravyaguna.json`, `/verification.json` (plus CSV for the first two).
+- Four downloadable datasets under CC BY 4.0, each generated from the monographs so none can
+  drift from the pages: `/research.json`, `/dravyaguna.json`, `/compounds.json` and
+  `/verification.json`, with CSV alongside the first three.
+- `scripts/crawl-audit.mjs` gates what matters for these crawlers specifically: every page in
+  the sitemap, an absolute self-referencing canonical, a title, description and h1, parseable
+  JSON-LD, and full rendering with JavaScript off. Currently 808 pages, 808 sitemapped, zero
+  JS-dependent, zero missing a canonical.
 
 ### What the evidence actually says about on-page work
 
