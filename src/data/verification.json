@@ -1,0 +1,200 @@
+{
+ "updatedAt": "2026-09-11",
+ "runs": [
+  {
+   "id": "botanical-identity",
+   "title": "Botanical identity",
+   "question": "Which species is this classical drug name?",
+   "note": "309 herb pages carried no botanical name. Each was identified, then handed to an independent verifier instructed to refute the identification against authoritative botanical sources. Rejection was the default wherever identity was contested across sources: a wrong binomial is worse than a blank field, because it renders as fact and pulls in literature about a different plant.",
+   "caveat": "The identify stage lost part of one batch to a network failure and was resumed. 16 accepted entries therefore have a verifier record but no retained identify record; they are marked identifyRecordLost.",
+   "method": [
+    "Every herb page with no botanical name was collected (309 pages).",
+    "An identifying agent proposed a binomial with its basis and a contested flag.",
+    "An independent verifier was instructed to refute the identification against authoritative botanical sources, defaulting to reject.",
+    "Rejection was the correct outcome wherever sources disagree. A wrong binomial is worse than a blank field: it renders as fact and pulls in literature about a different plant."
+   ],
+   "stats": {
+    "inputPages": 309,
+    "candidates": 256,
+    "accepted": 108,
+    "rejected": 148,
+    "notAPlant": 76,
+    "plantsAccepted": 108,
+    "plantsRejected": 72,
+    "contestedFlagged": 81,
+    "contestedRejected": 70,
+    "contestedAcceptedAnyway": 11,
+    "byCategory": {
+     "plant": {
+      "accepted": 108,
+      "rejected": 72
+     },
+     "compound": {
+      "accepted": 0,
+      "rejected": 33
+     },
+     "animal": {
+      "accepted": 0,
+      "rejected": 11
+     },
+     "mineral": {
+      "accepted": 0,
+      "rejected": 21
+     },
+     "uncertain": {
+      "accepted": 0,
+      "rejected": 8
+     },
+     "salt": {
+      "accepted": 0,
+      "rejected": 3
+     }
+    }
+   },
+   "examples": [
+    {
+     "slug": "gavedhuka",
+     "candidate": "Coix lacryma-jobi",
+     "basis": "Ayurvedic nighantu and modern dravyaguna sources (e.g. ayushvedah drug database, wisdomlib nighantu entries, published pharmacology papers on 'Gavedhuka (Coix lacryma-jobi L.)') consistently identify Gavedhuka as Job's tears, Coix lacryma-jobi L. (Poaceae), accepted in POWO; 'Coix lacryma L.' cited alongside is a synonym. Marked medium rather than high because I did not confirm an Ayurvedic Pharma"
+    },
+    {
+     "slug": "granthiparni",
+     "candidate": "Leonotis nepetifolia",
+     "basis": "The Ayurvedic Pharmacopoeia of India Part 1 Vol 3 gives the source of Granthiparni as the root of Leonotis nepetifolia (L.) R.Br. (Lamiaceae), accepted in POWO. However, published source-identification reviews note Bapalal Vaidya and Thakur Balwant Singh treated the identity as controversial, and Granthiparni is also identified in parts of India with Artemisia indica / Artemisia vulgaris. Binomial"
+    },
+    {
+     "slug": "bala-mool",
+     "candidate": "Sida cordifolia",
+     "basis": "'Bala mula' = root of Bala, whose official pharmacopoeial source is Sida cordifolia L. (Malvaceae), the accepted POWO name. Flagged contested because DNA-barcoding work on the South Indian raw-drug trade (J. Ethnopharmacol./Biochem. Syst. Ecol. studies) shows Kerala practice accepts Sida rhombifolia var. retusa as Bala, and S. acuta / S. rhombifolia are common market substitutes."
+    },
+    {
+     "slug": "bandhuka",
+     "candidate": "Pentapetes phoenicea",
+     "basis": "Bandhuka / Bandhujiva is identified with Pentapetes phoenicea L. (Malvaceae, Hindi dopahariya, the midday flower) in Ayurvedic drug databases (ayushvedah), Sanskrit-botanical concordances (wisdomlib) and pharmacognostic work on P. phoenicea leaves. Some regional and ornamental usage attaches 'Bandhuka' to Ixora coccinea, hence medium rather than high, but Pentapetes is the dominant Ayurvedic ident"
+    },
+    {
+     "slug": "bhumyamalaki",
+     "candidate": "Phyllanthus amarus",
+     "basis": "Bhumyamalaki (Tamalaki) is the whole plant of Phyllanthus amarus Schumach. & Thonn. (Phyllanthaceae) in Indian pharmacognostic and pharmacopoeial work (e.g. IJAPR screening of Bhumyamalaki as P. amarus). Contested because much popular and clinical literature labels it Phyllanthus niruri L., while Indian floristic work assigns most northern Indian material to Phyllanthus fraternus G.L.Webster; all "
+    },
+    {
+     "slug": "bhunimba",
+     "candidate": "Andrographis paniculata",
+     "basis": "Modern Ayurvedic usage equates Bhunimba with Kalamegha, Andrographis paniculata (Burm.f.) Nees (Acanthaceae) (ayushvedah drug entry; standard Dravyaguna sources). Genuinely contested: Bhunimba is also used as a synonym of Kiratatikta, Swertia chirayita (Roxb.) H.Karst. (Gentianaceae), for which A. paniculata is the common market substitute, and Rajanighantu applies Bhunimba to Bhumikadamba as well"
+    }
+   ]
+  },
+  {
+   "id": "citations",
+   "title": "Research citations",
+   "question": "Does the paper this page cites actually exist, and does it say this?",
+   "note": "Every research bullet on the site was a paraphrase. None carried a PMID, DOI or exact title, so none could be checked by a reader. Each was resolved against PubMed and either replaced with the real record or deleted.",
+   "method": [
+    "Each research bullet was queried against PubMed by title words.",
+    "A match required the actual article title, not a topical resemblance.",
+    "Matches found only by species keywords were rejected wholesale: that route paired a claim about sage extract and cognitive function with a paper on antihyperlipidemic effects, and once one pairing is that wrong the whole class is untrustworthy.",
+    "Unresolved bullets were deleted rather than softened. Pages that lost material say so."
+   ],
+   "stats": {
+    "claimsChecked": 1251,
+    "recovered": 496,
+    "deleted": 755,
+    "matchedNothing": 727,
+    "rejectedSpeciesKeywordOnly": 28,
+    "pagesWithCitations": 647,
+    "distinctPapers": 2906,
+    "papersWithDoi": 2771,
+    "byTier": {
+     "A": 149,
+     "B": 90,
+     "C": 1069,
+     "D": 1598
+    }
+   },
+   "examples": []
+  },
+  {
+   "id": "safety-panel-01",
+   "title": "Safety data, first attempt (rejected)",
+   "question": "Can a four-lens judge panel produce publishable safety records?",
+   "note": "83 highest-risk pages: 66 metallic/mineral preparations and 17 toxic or scheduled plants. The panel accepted 25 records. An independent auditor then re-reviewed 3 of those acceptances and rejected every one. None were published.",
+   "method": [
+    "Records were researched against an allowlist of regulatory and institutional sources, then judged by four independent lenses: source fidelity, clinical accuracy, regulatory language, and omission.",
+    "A record shipped only if source fidelity passed it and at least two of the other three lenses agreed.",
+    "A meta-judge then re-audited a sample of the ACCEPTED records, since a systematically lenient panel is invisible from inside its own verdicts.",
+    "The meta-judge agreed with the panel on 0 of 3 sampled records.",
+    "On that result the entire run was withheld. A defect rate that high in a sample means the accepted set as a whole cannot be trusted, and safety pages are the wrong place to publish and correct later."
+   ],
+   "stats": {
+    "pagesExamined": 83,
+    "panelAccepted": 25,
+    "panelRejected": 49,
+    "inconclusive": 9,
+    "metaSampled": 3,
+    "metaAgreedWithPanel": 0,
+    "published": 0
+   },
+   "caveat": "The meta-judge re-audited 3 of the 25 panel-accepted records and rejected all 3, each for a specific and serious defect: a dropped monitoring instruction, a misread source, and an adverse-effect finding reported as absent. A 0 of 3 agreement rate means the panel's acceptances cannot be trusted as a set, so none were published.",
+   "examples": [
+    {
+     "slug": "abhraka-bhasma",
+     "basis": "MISLEADING DOSE FRAMING (most serious). doseLimits says \"No human dose limit ... was located\" and the note calls the figures \"rat doses ... not a human dosing recommendation.\" Pandit et al. actually state the low dose (22.5 mg/kg) is the \"highest clinical dose extrapolated to rats,\" that \"one day in rat is supposed to be equal to 30 days in human\" (so 28 days ≈ 2.5 human years), and that \"In chronic asthma, KVB treatment is generally given for three months.\" The record strips all of this. As written, a clinician or an AI reading it concludes the hepatotoxic doses (45 and 100 mg/kg) sit far above human exposure. They do not: they are roughly 2x and 4.4x the extrapolated maximum clinical dose."
+    },
+    {
+     "slug": "mrigashringa-bhasma",
+     "basis": "UNSUPPORTED CLAIM (verified against source). The record states: 'NCCIH notes that in a 2015 survey about one in four Ayurvedic supplements tested had high levels of lead and almost half had high levels of mercury.' The NCCIH page says two separate things: (a) 'A 2015 published survey of people who use Ayurvedic preparations showed that 40 percent had elevated blood levels of lead and some had elevated blood levels of mercury' — a survey of PEOPLE, not products; and (b) 'About one in four of the supplements tested had high levels of lead and almost half of them had high levels of mercury' — an undated statement about tested supplements, not attributed to the 2015 survey. The record has fused "
+    },
+    {
+     "slug": "varatika-bhasma",
+     "basis": "MISREPRESENTS A CITED SOURCE (v3, PMC7685255, verified by direct fetch). The record states 'No adverse effects reported' and quotes only the two exculpatory conclusion sentences from the Bacnil study. The study actually reports dose-dependent target-organ findings: at TED x10 (1962 mg/kg) mild-to-moderate liver fatty degeneration, cell infiltration and sinusoidal inflammation, mild renal fatty change, cardiac fatty change and gastric epithelial erosion; at TED x5 (981 mg/kg) liver fatty change and gastric epithelial erosion. Most reversed during recovery. Omitting the only positive toxicology signal in the only repeated-dose study that contains this ingredient is selective quotation, not ins"
+    }
+   ]
+  },
+  {
+   "id": "safety-repair-02",
+   "title": "Safety data, second attempt",
+   "question": "Can the rejected records be repaired to a publishable standard?",
+   "note": "The 25 records the first panel accepted, re-checked against ten rules derived from the defects the meta-judge actually found in that run. Every repaired record was then audited individually rather than sampled, and 1 of 25 passed.",
+   "method": [
+    "Ten rules were written from the defects the first audit found, each one naming the real failure it came from: dropped monitoring instructions, claims attributed to studies that never tested them, adverse findings reported as absent, animal doses presented without species, spliced study arms, and developmental neurotoxicants graded as a caution.",
+    "One agent per record re-fetched every cited source and either repaired the record or declared it unsalvageable.",
+    "Every repaired record was then audited by an independent reviewer instructed to reject by default and to re-fetch the sources rather than trust the repair.",
+    "The auditors also caught repairs that made records worse. On one, the repairer deleted a report of three deaths from liver failure as a fabrication; the auditor re-read the source, found the deaths were genuine, and rejected the repair for removing them."
+   ],
+   "stats": {
+    "recordsExamined": 25,
+    "published": 1,
+    "heldBackForFurtherWork": 24,
+    "unsalvageable": 0,
+    "inconclusive": 0
+   },
+   "caveat": "A pass rate of 1 in 25 is the honest result of applying a standard this strict to a literature that is mostly silent at the level of the individual preparation. The 24 held records are not discarded; they are unfinished.",
+   "examples": [
+    {
+     "slug": "abhraka-bhasma",
+     "basis": "RULE 6 (spliced study arms) + unsupported claim: the record's central hepatotoxicity finding states ALT 'rose to 132.5 IU/L (medium dose) and 127.8 IU/L (high dose) versus 93.3 IU/L in vehicle control'. Pandit et al. Table 7 reads: I-Control (Vehicle) 96.9 +/- 6.51; II-KVB-LD 93.3 +/- 7.99; III-KVB-MD 132.5 +/- 17.75**; IV-KVB-HD 127.8 +/- 5.96**. 93.3 is the LOW-DOSE arm, not the vehicle control. The record presents one treated arm's value as the control comparator in the single most extractabl | RULE 1 / RULE 4 (dose-extrapolation basis fabricated rather than dropped): doseLimits.text states"
+    },
+    {
+     "slug": "akika-pishti",
+     "basis": "Rule 2 (attributing to a study a statement it did not make): adverseEffects[1] presents as a verbatim quotation, inside quotation marks, \"Ayurvedic lead poisoning produces greater hematopoietic toxicity than paint-removal poisoning.\" That sentence does not exist in Kales et al. I pulled the raw article text from PMC2538618: the Conclusions sentence reads \"Ayurvedic poisoning produces greater hematopoietic toxicity than paint-removal poisoning.\" (no word 'lead'), and the only sentence containing  | Rule 3 (a cited study's adverse findings must be reported): the heavyMetals section reports Bhall"
+    },
+    {
+     "slug": "ashwagandha",
+     "basis": "Rule 1 (selective quotation / dropped source directive): PMC13436050 states verbatim 'The reports necessitate monitoring liver function while taking Ashwagandha. Additional clinical trials are needed to determine the causality and safe dose levels.' The record carries no liver-function monitoring recommendation anywhere. It goes further and inserts, in the hepatic-impairment contraindication, 'LiverTox does not state a specific monitoring schedule and none should be inferred' - language that dis | Rule 3 (cited study reports adverse findings that the record does not report): LiverTox NBK548536"
+    },
+    {
+     "slug": "bhanga",
+     "basis": "Rule 1 - Selective quotation: LactMed motor-development sentence truncated mid-quote, dropping 'during the first month of lactation' and the 'number of reported joints per week' dose metric while retaining quotation marks | Rule 1 - Selective quotation: LactMed's 'in nonpregnant, nonlactating women' population qualifier deleted from the luteinizing hormone / prolactin finding presented in the lactation field"
+    },
+    {
+     "slug": "eranda-moola",
+     "basis": "Rule 1 (selective quotation is misrepresentation): the reproductive section is built from the single source that found nothing while root-specific reproductive toxicology is omitted, and the EMA source's own caveat that 'adequate tests on genotoxicity and carcinogenicity have not been performed' is not carried in the record body. | Rule 3 (documented adverse findings must be reported): root-specific adverse findings available on a permitted host are absent - 100% reduction of fertility index and suppressed testosterone in male mice from a root-derived protein (PMID 21288636), reversible antife"
+    },
+    {
+     "slug": "eranda-patra",
+     "basis": "Rule 1 — selective quotation: Mtendwa 2026 Table 2 assigns alpha-thujone to \"Leaves, seeds\". The record reports it as \"tabulates alpha-thujone under leaves\", dropping the seed co-attribution. In a record whose entire discipline is part-specificity (it correctly refuses to transfer seed-oil data to the leaf everywhere else), narrowing a two-part table row to the leaf alone is the same error in the opposite direction. | Rule 9 — documented substance-specific hazard with no contraindication of its own: contraindications is empty and interactions is empty, while the record itself documents, for th"
+    }
+   ]
+  }
+ ]
+}

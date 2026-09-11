@@ -41,6 +41,15 @@ jobs:
       # before astro copies public/ into dist/.
       - name: Generate the research downloads
         run: node scripts/research-index.mjs
+      # Same reason: generated, not committed, and must exist before the build.
+      - name: Generate the Dravyaguna dataset
+        run: node scripts/dravyaguna.mjs
+      - name: Generate the verification ledger
+        run: node scripts/verification.mjs
+      # The safety schema is the gate on the highest-consequence content on the site,
+      # so its negative tests run in CI rather than only on a developer's machine.
+      - name: Safety schema tests
+        run: node scripts/test/safety.test.mjs
 
       # The audit gates the build: a compliance violation fails the deploy.
       - name: Compliance audit (pre-build)

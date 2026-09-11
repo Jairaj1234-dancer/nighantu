@@ -6,6 +6,20 @@ dist/
 .env
 .env.*
 
-# Generated from src/data/research.json at build time
+# Generated at build time from committed sources, so they are never committed.
+# The deploy workflow regenerates each one before astro copies public/ into dist/;
+# if you add another generated download here, add the matching step there too.
 public/research.json
 public/research.csv
+public/dravyaguna.json
+public/dravyaguna.csv
+public/verification.json
+
+# Full verification-run output: agent prose, record bodies and complete verdicts.
+# Kept locally as evidence, never published. scripts/slim-runs.mjs writes the
+# redacted summaries that data/runs/*.json carry and that the site is built from.
+data/runs/raw/
+
+# Per-record working files for in-flight verification runs.
+data/runs/records/
+data/runs/feedback/

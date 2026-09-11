@@ -21,6 +21,16 @@ export const GET: APIRoute = async () => {
     `- [Shirodhara](${abs('/shirodhara/')}): the full practice guide, oil selection by dosha, protocol, cautions and equipment.`,
     `- [How we source](${abs('/how-we-source/')}): where the material comes from and how it is checked.`,
     `- [Editorial standards](${abs('/editorial-standards/')}): what this site does and does not claim.`,
+    `- [Verification](${abs('/verification/')}): how each class of fact was checked and what was rejected, with the rejection rate for every run.`,
+    '',
+    '## Datasets',
+    '',
+    'Structured, downloadable, CC BY 4.0. Each is generated from the monographs themselves,',
+    'so it cannot drift from the pages.',
+    '',
+    `- [Research index](${abs('/research/')}): every cited paper once, with PubMed ID and DOI, cross-referenced to the herbs it concerns. [JSON](${abs('/research.json')}) · [CSV](${abs('/research.csv')})`,
+    `- [Dravyaguna](${abs('/dravyaguna/')}): rasa, guna, virya, vipaka and dosha effect as structured values against the classical vocabularies. [JSON](${abs('/dravyaguna.json')}) · [CSV](${abs('/dravyaguna.csv')})`,
+    `- [Verification ledger](${abs('/verification/')}): per-run counts, rejection reasons and worked examples. [JSON](${abs('/verification.json')})`,
     '',
   ];
 
