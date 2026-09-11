@@ -3,6 +3,7 @@ import Base from './Base.astro';
 import KeyFacts from '../components/KeyFacts.astro';
 import ProductModule from '../components/ProductModule.astro';
 import References from '../components/References.astro';
+import Safety from '../components/Safety.astro';
 import CiteThis from '../components/CiteThis.astro';
 import Crumbs from '../components/Crumbs.astro';
 import { SITE_NAME, PUBLISHER, abs, rel } from '../lib/site';
@@ -72,6 +73,8 @@ const breadcrumbs = {
     />
 
     <div class="prose"><slot /></div>
+
+    <Safety kind={d.kind} slug={d.slug} />
 
     <References kind={d.kind} slug={d.slug} />
 

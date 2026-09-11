@@ -1,0 +1,192 @@
+---
+/**
+ * Safety block. Renders only what a judge panel accepted and the schema validated,
+ * so anything shown here has a source you can open.
+ *
+ * The empty state is deliberate and it is not silence. A page with no record says
+ * that no record exists yet; a page whose record is insufficientData says what was
+ * searched and came back empty. Both are more useful than a blank space, because a
+ * reader can tell the difference between "nothing is known" and "we did not look".
+ */
+import safety from '../data/safety.json';
+import { rel } from '../lib/site';
+
+interface Props { kind: string; slug: string }
+const { kind, slug } = Astro.props;
+
+const rec = kind === 'herb' ? (safety as any).records?.[slug] : null;
+
+const SEVERITY_LABEL: Record<string, string> = {
+  contraindicated: 'Do not use',
+  major: 'Major',
+  moderate: 'Moderate',
+  minor: 'Minor',
+  theoretical: 'Theoretical',
+};
+
+const STATUS_LABEL: Record<string, string> = {
+  avoid: 'Avoid',
+  caution: 'Caution',
+  'insufficient-data': 'Not established',
+  'no-known-concern': 'No known concern',
+};
+
+const byId = new Map<string, any>((rec?.sources ?? []).map((s: any) => [s.id, s]));
+const cite = (ids: string[] = []) => ids.map((i) => byId.get(i)).filter(Boolean);
+
+const has = (a: any[]) => Array.isArray(a) && a.length > 0;
+
+const hasAnyStatement = Boolean(rec && (
+  has(rec.contraindications) || has(rec.interactions) || has(rec.adverseEffects)
+  || rec.pregnancy || rec.lactation || rec.doseLimits?.text || rec.heavyMetals?.text));
+---
+{rec && (
+  <section class="safety" aria-labelledby="safety-heading">
+    <h2 id="safety-heading">Safety, contraindications and cautions</h2>
+
+    <p class="safety-note">
+      Compiled from published regulatory and institutional sources, listed against each
+      statement. This is a reference summary, not advice about your own use. Ayurvedic
+      preparations are dispensed by qualified practitioners, and anyone taking prescribed
+      medication should raise an interaction with the prescriber rather than act on a page.
+    </p>
+
+    {rec.insufficientData && (
+      <p class="safety-gap">
+        <strong>No published source describes this preparation specifically.</strong>{' '}
+        {rec.insufficientReason}
+      </p>
+    )}
+
+    {rec.insufficientData && hasAnyStatement && (
+      <p class="safety-note">
+        Everything below concerns the wider class this preparation belongs to, not this
+        preparation itself. It is included because the class-level evidence is substantial
+        and directly relevant, and because leaving the section blank would imply an absence
+        of risk that the literature does not support.
+      </p>
+    )}
+
+    {(rec.pregnancy || rec.lactation) && (
+      <div class="tablewrap">
+        <table class="facts">
+          <caption>Pregnancy and breastfeeding</caption>
+          <tbody>
+            {rec.pregnancy && (
+              <tr>
+                <th scope="row">Pregnancy</th>
+                <td>
+                  <strong>{STATUS_LABEL[rec.pregnancy.status] ?? rec.pregnancy.status}</strong>
+                  {rec.pregnancy.note && <> — {rec.pregnancy.note}</>}
+                  {cite(rec.pregnancy.sourceIds).map((s: any) => (
+                    <> <a class="src" href={s.url} rel="noopener">{s.title}</a></>
+                  ))}
+                </td>
+              </tr>
+            )}
+            {rec.lactation && (
+              <tr>
+                <th scope="row">Breastfeeding</th>
+                <td>
+                  <strong>{STATUS_LABEL[rec.lactation.status] ?? rec.lactation.status}</strong>
+                  {rec.lactation.note && <> — {rec.lactation.note}</>}
+                  {cite(rec.lactation.sourceIds).map((s: any) => (
+                    <> <a class="src" href={s.url} rel="noopener">{s.title}</a></>
+                  ))}
+                </td>
+              </tr>
+            )}
+          </tbody>
+        </table>
+      </div>
+    )}
+
+    {rec.heavyMetals?.text && (
+      <>
+        <h3>Heavy metal content</h3>
+        <p>
+          {rec.heavyMetals.text}
+          {cite(rec.heavyMetals.sourceIds).map((s: any) => (
+            <> <a class="src" href={s.url} rel="noopener">{s.title}</a></>
+          ))}
+        </p>
+      </>
+    )}
+
+    {has(rec.contraindications) && (
+      <>
+        <h3>Contraindications</h3>
+        <ul class="safety-list">
+          {rec.contraindications.map((c: any) => (
+            <li>
+              <span class={`sev sev-${c.severity}`}>{SEVERITY_LABEL[c.severity] ?? c.severity}</span>
+              {c.scope === 'class-level' && <span class="scope">class-level</span>}
+              {' '}<strong>{c.condition}</strong>
+              {c.note && <> — {c.note}</>}
+              {cite(c.sourceIds).map((s: any) => (
+                <> <a class="src" href={s.url} rel="noopener">{s.title}</a></>
+              ))}
+            </li>
+          ))}
+        </ul>
+      </>
+    )}
+
+    {has(rec.interactions) && (
+      <>
+        <h3>Interactions with medicines</h3>
+        <ul class="safety-list">
+          {rec.interactions.map((x: any) => (
+            <li>
+              <span class={`sev sev-${x.severity}`}>{SEVERITY_LABEL[x.severity] ?? x.severity}</span>
+              {' '}<strong>{x.drugClass}</strong>
+              {x.mechanism && <> — {x.mechanism}</>}
+              {x.note && <> {x.note}</>}
+              {cite(x.sourceIds).map((s: any) => (
+                <> <a class="src" href={s.url} rel="noopener">{s.title}</a></>
+              ))}
+            </li>
+          ))}
+        </ul>
+      </>
+    )}
+
+    {has(rec.adverseEffects) && (
+      <>
+        <h3>Reported adverse effects</h3>
+        <ul class="safety-list">
+          {rec.adverseEffects.map((a: any) => (
+            <li>
+              <strong>{a.effect}</strong>
+              {a.frequency && <> ({a.frequency})</>}
+              {a.note && <> — {a.note}</>}
+              {cite(a.sourceIds).map((s: any) => (
+                <> <a class="src" href={s.url} rel="noopener">{s.title}</a></>
+              ))}
+            </li>
+          ))}
+        </ul>
+      </>
+    )}
+
+    {rec.doseLimits?.text && (
+      <>
+        <h3>Dose and duration limits</h3>
+        <p>
+          {rec.doseLimits.text}
+          {rec.doseLimits.note && <> {rec.doseLimits.note}</>}
+          {cite(rec.doseLimits.sourceIds).map((s: any) => (
+            <> <a class="src" href={s.url} rel="noopener">{s.title}</a></>
+          ))}
+        </p>
+        <p class="safety-note">Quoted in the units the source uses. Nothing here is converted.</p>
+      </>
+    )}
+
+    <p class="safety-prov">
+      Every statement above was checked by four independent reviewers, each looking for a
+      different kind of error, and published only if the source could be confirmed to say it.
+      <a href={rel("/verification/")}>How safety data is verified</a>.
+    </p>
+  </section>
+)}

@@ -1,0 +1,189 @@
+{
+ "updatedAt": "2026-09-11",
+ "count": 1,
+ "records": {
+  "kamsya-bhasma": {
+   "slug": "kamsya-bhasma",
+   "insufficientData": true,
+   "insufficientReason": "No permitted source contains a monograph, composition, elemental analysis, dose, adverse-effect report, toxicity study or clinical study of Kamsya Bhasma (also transliterated Kansya Bhasma). Searches run on 10 September 2026: PubMed and PMC for 'Kamsya bhasma', 'Kansya bhasma', 'bell metal bhasma' and bronze or copper-tin alloy Ayurvedic preparations; Liu et al. (2019), a review of the chemistry and toxicity of bhasma metals, which enumerates Suvarna (gold), Rajata (silver), Tamra (copper), Lauha (iron), Naga (lead), Yashada (zinc), Vanga (tin), Parada (mercury), Abhraka (mica) and Manahshila (arsenic) and does not mention Kamsya, Kansya, bell metal or any copper-tin alloy; Sarkar et al. (2010), a review of metal pharmacology in Ayurvedic literature, which lists mercury, gold, silver, copper, iron, tin, lead and zinc and likewise names no alloy; and ayush.gov.in and pharmacopoeia.gov.in for Ayurvedic Pharmacopoeia of India and Ayurvedic Formulary of India monographs. The commonly repeated identification of Kamsya as bell metal or bronze, an approximately 4:1 copper-to-tin alloy, appears only on commercial and non-indexed sites, which this project does not permit as citations, so the metal base is not asserted here. No dose, no dose-range and no dose-limit for this preparation exists in any permitted source, in humans or in animals, so no dose field is given. Everything below is class-level evidence about bhasmas and Ayurvedic metallic preparations. None of it is a measurement of this product, and none of it should be read as establishing either that Kamsya Bhasma does contain a particular metal or that it does not.",
+   "heavyMetals": {
+    "text": "The metal base of Kamsya Bhasma cannot be stated from any permitted source, and no permitted source reports its elemental analysis. Liu et al. (eCAM, 2019) define bhasmas as metallic or mineral preparations subjected to repeated incineration with herbal juice or decoction and animal-based products, and enumerate the metals used: gold, silver, copper, iron, lead, zinc, tin, mercury, mica and arsenic. Neither Liu et al. nor Sarkar et al. (2010) includes Kamsya or any alloy in that enumeration, so class-level bhasma data is the only evidence available and it may not describe this preparation. Saper et al. (JAMA, 2008) analysed 193 Ayurvedic medicines bought over the internet from 37 manufacturers and found detectable lead, mercury or arsenic in 20.7% (95% CI 15.2 to 27.1), rising to 40.6% among rasa shastra products against 17.1% for non-rasa shastra (P = .007), with median lead 11.5 ug/g and median mercury 20,800 ug/g in the rasa shastra subset; the authors note as limitations possible misclassification of country of origin and of rasa shastra status, batch-to-batch variability, and that internet-purchased products may not represent those dispensed by practitioners. Mikulski et al. (2018) analysed 252 Ayurvedic samples collected during a US lead-poisoning cluster investigation, which is a sample selected for suspected contamination rather than a random market survey: lead was present in 65% (median 4.9 mg/kg, maximum 43,200 mg/kg), mercury in 38.5% (median 53.0 mg/kg, maximum 279,000 mg/kg) and arsenic in 32.5% (median 8.4 mg/kg, maximum 44,800 mg/kg); roughly 36%, 49.5% and 39.5% of the positive samples exceeded acceptable daily intake for lead, mercury and arsenic respectively; the highest arsenic content was in a bhasma, Swarna Bhasma, at 22.4 mg per pill; the authors state that no metal speciation analysis was performed, so the chemical forms present were not determined. Bhalla and Pannu (2022) analysed 42 of 43 Ayurvedic preparations collected in Chandigarh by ICP-MS: mercury exceeded the 1 ug/g permissible limit in 29, zinc exceeded 50 ug/g in 35, arsenic exceeded 10 ug/g in 6 and lead exceeded 10 ug/g in 2, cadmium was not detected in any sample, all 42 contained iron and zinc, 41 contained copper, 73.8% exceeded the limit for mercury, arsenic or lead, and only 27.9% (12 of 43) declared heavy metals on the label; the authors state that this is a single-centre observation, which limits generalisability, and that the study did not identify the source of the metals. Liu et al. also report that the toxicity of copper-based Tamra Bhasma is markedly reduced by shodhana and argue that chemical form rather than total metal content governs toxicity; the same review states that reported cases of metal poisoning from these preparations are increasing and that pharmacovigilance is needed, so processing is not evidence of safety for any specific product. The FDA states that some Ayurvedic products include heavy metals such as lead, mercury, arsenic, iron and zinc, that there are no FDA-approved Ayurvedic products, and that chronic exposure to heavy metals leads to accumulation in the body and harmful effects. NCCIH reports that about one in four of the supplements tested had high levels of lead and almost half had high levels of mercury. Because Bhalla and Pannu found undeclared metals in the great majority of products they tested, an unanalysed bhasma cannot be assumed to be metal-free.",
+    "sourceIds": [
+     "liu2019",
+     "sarkar2010",
+     "saper2008",
+     "mikulski2018",
+     "bhalla2022",
+     "fda2025",
+     "nccih"
+    ],
+    "scope": "class-level"
+   },
+   "adverseEffects": [
+    {
+     "effect": "Effects of chronic heavy-metal accumulation named by FDA: high blood pressure, kidney injury, fatigue, gastrointestinal symptoms including abdominal pain, constipation, diarrhoea, nausea and vomiting, and nervous-system symptoms including burning or tingling in the fingers and/or toes, weakness in the limbs, dizziness, agitation and confusion",
+     "frequency": "Not quantified. FDA describes these as harmful effects of chronic exposure to heavy metals in unapproved Ayurvedic drug products, and adds that large acute ingestions over short periods can be life-threatening",
+     "note": "Class-level. No adverse-effect report naming Kamsya Bhasma exists in the permitted sources, and the metal content of this preparation has not been measured in any permitted source.",
+     "sourceIds": [
+      "fda2025"
+     ],
+     "scope": "class-level"
+    },
+    {
+     "effect": "Elevated blood lead, and in some people elevated blood mercury, among users of Ayurvedic preparations",
+     "frequency": "NCCIH cites a 2015 published survey of people who use Ayurvedic preparations in which 40 percent had elevated blood lead levels and some had elevated blood mercury levels, and a 2015 CDC Morbidity and Mortality Weekly Report case linking elevated blood lead in a 64-year-old woman to Ayurvedic preparations bought on the internet. NCCIH also states that arsenic poisoning from Ayurvedic products, although rare, can occur",
+     "note": "Class-level exposure data on Ayurvedic preparations generally. Not a report on this preparation, and neither the survey nor the case report identifies Kamsya Bhasma.",
+     "sourceIds": [
+      "nccih"
+     ],
+     "scope": "class-level"
+    }
+   ],
+   "contraindications": [
+    {
+     "condition": "Children",
+     "severity": "major",
+     "note": "FDA states that adults and children can become very sick when heavy metals accumulate in their bodies over time. WHO states that lead can permanently affect children's brain development, reducing IQ and causing behavioural and learning problems, and that there is no level of lead exposure known to be without harmful effects. No paediatric data on this preparation exists in the permitted sources.",
+     "sourceIds": [
+      "fda2025",
+      "who_lead",
+      "nccih"
+     ],
+     "scope": "class-level"
+    },
+    {
+     "condition": "Kidney impairment or existing renal disease",
+     "severity": "major",
+     "note": "Kidney injury is one of the harmful effects FDA attributes to chronic heavy-metal accumulation, and WHO reports kidney effects from mercury ranging from increased urinary protein to kidney failure, with inorganic mercury salts inducing kidney toxicity if ingested. Renal impairment also reduces clearance of any absorbed metal. This is a hazard-specific entry, not a general precaution.",
+     "sourceIds": [
+      "fda2025",
+      "who_mercury"
+     ],
+     "scope": "class-level"
+    },
+    {
+     "condition": "Known heavy-metal poisoning, elevated blood lead or mercury, or concurrent use of other bhasma, rasa shastra or metal-containing preparations",
+     "severity": "major",
+     "note": "Exposure is cumulative. Mikulski et al. found that a substantial share of positive samples exceeded acceptable daily intake for lead, mercury or arsenic on their own, before any second product is added, and NCCIH documents users of Ayurvedic preparations presenting with elevated blood lead. Because Kamsya Bhasma's own metal content is unmeasured, its contribution to total body burden cannot be estimated.",
+     "sourceIds": [
+      "mikulski2018",
+      "nccih",
+      "saper2008"
+     ],
+     "scope": "class-level"
+    },
+    {
+     "condition": "Any batch with no elemental analysis and no label declaration of metal content",
+     "severity": "major",
+     "note": "Bhalla and Pannu found that only 27.9% of the preparations they collected declared heavy metals on the label while metals were widespread in them, and FDA states there are no FDA-approved Ayurvedic products. An undeclared, unanalysed batch gives no basis on which exposure can be judged.",
+     "sourceIds": [
+      "bhalla2022",
+      "fda2025"
+     ],
+     "scope": "class-level"
+    },
+    {
+     "condition": "People who avoid animal-derived materials on religious, dietary or ethical grounds",
+     "severity": "minor",
+     "note": "Liu et al. state that bhasma manufacture involves repeated incineration with herbal juice or decoction and animal-based products. No permitted source describes the manufacturing method of Kamsya Bhasma specifically, so whether animal-derived material is used in it is unknown and should be established from the manufacturer before use.",
+     "sourceIds": [
+      "liu2019"
+     ],
+     "scope": "class-level"
+    }
+   ],
+   "pregnancy": {
+    "status": "avoid",
+    "note": "Avoid. WHO states that there is no level of lead exposure known to be without harmful effects, that lead stored in bone is released into the blood during pregnancy and becomes a source of exposure to the developing fetus, and that lead exposure during pregnancy can cause reduced fetal growth and preterm birth; WHO further states that exposure to mercury, even in small amounts, may cause serious health problems and is a threat to the development of the child in utero and early in life. This preparation is a metallic or mineral bhasma whose metal content has never been measured in a permitted source, and Bhalla and Pannu found metals in every preparation they tested while only 27.9% declared them, so it cannot be assumed metal-free. NCCIH advises pregnant or nursing people to consult a health care provider because some Ayurvedic products may contain harmful constituents. With a developmental neurotoxicant plausibly present, no measured content and no pregnancy data of any kind on Kamsya Bhasma, the honest grading is avoid rather than caution.",
+    "sourceIds": [
+     "who_lead",
+     "who_mercury",
+     "bhalla2022",
+     "nccih",
+     "fda2025"
+    ],
+    "scope": "class-level"
+   },
+   "lactation": {
+    "status": "avoid",
+    "note": "Avoid. FDA states that if a mother has heavy metals in her body the metals may enter her breast milk and be passed onto the baby during breastfeeding. WHO states that mercury exposure, even in small amounts, is a threat to the development of the child in utero and early in life, and that lead permanently affects children's brain development with no exposure level known to be without harmful effects; the WHO lead and mercury fact sheets do not themselves address transfer into breast milk. No lactation data on Kamsya Bhasma exists in the permitted sources, and its metal content is unmeasured.",
+    "sourceIds": [
+     "fda2025",
+     "who_mercury",
+     "who_lead",
+     "nccih"
+    ],
+    "scope": "class-level"
+   },
+   "sources": [
+    {
+     "id": "liu2019",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6421027/",
+     "title": "Chemical Compositions of Metals in Bhasmas and Tibetan Zuotai Are a Major Determinant of Their Therapeutic Effects and Toxicity. Liu J, Zhang F, Ravikanth V, Olajide OA, Li C, Wei LX. Evidence-Based Complementary and Alternative Medicine. 2019.",
+     "tier": "Peer-reviewed review (PMC)",
+     "accessed": "2026-09-10"
+    },
+    {
+     "id": "saper2008",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2755247/",
+     "title": "Lead, Mercury, and Arsenic in US- and Indian-Manufactured Ayurvedic Medicines Sold via the Internet. Saper RB, Phillips RS, Sehgal A, et al. JAMA. 2008;300(8):915-923.",
+     "tier": "Peer-reviewed original investigation (PMC)",
+     "accessed": "2026-09-10"
+    },
+    {
+     "id": "mikulski2018",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6060866/",
+     "title": "Toxic metals in ayurvedic preparations from a public health lead poisoning cluster investigation. Mikulski MA, Wichman MD, Simmons DL, Pham AN, Clottey V, Fuortes LJ. International Journal of Occupational and Environmental Health. 2018.",
+     "tier": "Peer-reviewed public health investigation (PMC)",
+     "accessed": "2026-09-10"
+    },
+    {
+     "id": "bhalla2022",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8882783/",
+     "title": "Are Ayurvedic medications store house of heavy metals? Bhalla A, Pannu AK. Toxicology Research (Cambridge). 2022.",
+     "tier": "Peer-reviewed analytical study, single centre (PMC)",
+     "accessed": "2026-09-10"
+    },
+    {
+     "id": "sarkar2010",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3336294/",
+     "title": "Ancient concept of metal pharmacology based on Ayurvedic literature. Sarkar PK, Das S, Prajapati PK. Ancient Science of Life. 2010;29(4).",
+     "tier": "Peer-reviewed review (PMC)",
+     "accessed": "2026-09-10"
+    },
+    {
+     "id": "who_lead",
+     "url": "https://www.who.int/news-room/fact-sheets/detail/lead-poisoning-and-health",
+     "title": "Lead poisoning and health. World Health Organization fact sheet.",
+     "tier": "WHO fact sheet",
+     "accessed": "2026-09-10"
+    },
+    {
+     "id": "who_mercury",
+     "url": "https://www.who.int/news-room/fact-sheets/detail/mercury-and-health",
+     "title": "Mercury and health. World Health Organization fact sheet.",
+     "tier": "WHO fact sheet",
+     "accessed": "2026-09-10"
+    },
+    {
+     "id": "fda2025",
+     "url": "https://www.fda.gov/drugs/fraudulent-products/fda-warns-about-heavy-metal-poisoning-associated-certain-unapproved-ayurvedic-drug-products",
+     "title": "FDA warns about heavy metal poisoning associated with certain unapproved ayurvedic drug products. U.S. Food and Drug Administration, 2 December 2025.",
+     "tier": "Regulator safety communication",
+     "accessed": "2026-09-10"
+    },
+    {
+     "id": "nccih",
+     "url": "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth",
+     "title": "Ayurvedic Medicine: In Depth. National Center for Complementary and Integrative Health (NIH).",
+     "tier": "US government health agency",
+     "accessed": "2026-09-10"
+    }
+   ],
+   "interactions": [],
+   "scopeMarkedFromDeclaration": true,
+   "title": "Kamsya Bhasma",
+   "sourceClass": "regulatory"
+  }
+ }
+}
