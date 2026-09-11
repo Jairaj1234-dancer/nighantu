@@ -30,6 +30,7 @@ npx astro build
 echo "==> 8/8 gates"
 node scripts/audit.mjs
 node scripts/linkcheck.mjs
+node scripts/crawl-audit.mjs
 
 echo
 echo "pages with citations: $(node -e "

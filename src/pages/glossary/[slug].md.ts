@@ -1,4 +1,5 @@
 import type { APIRoute } from 'astro';
+import { abs } from '../../lib/site';
 import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -11,6 +12,7 @@ export const GET: APIRoute = ({ props }) => {
   const body = [
     `# ${entry.data.title}`, '', `> ${entry.data.answer}`, '',
     entry.body?.trim() ?? '', '', '---', '',
+    `Canonical version of this page: ${abs(`/glossary/${entry.data.slug ?? entry.id}/`)}`, '',
     'Published by Age Ayurveda in the Nighantu. Educational reference only.',
     'Incorporates material from the Amidha Ayurveda Herb Database under CC BY 4.0.',
   ].join('\n');

@@ -23,7 +23,8 @@
     "citations": "node scripts/citations.mjs",
     "distribute": "node scripts/distribute.mjs",
     "verify-claims": "node scripts/verify-claims.mjs",
-    "rebuild": "./scripts/rebuild-all.sh"
+    "rebuild": "./scripts/rebuild-all.sh",
+    "crawl-audit": "node scripts/crawl-audit.mjs"
   },
   "dependencies": {
     "astro": "^5.6.1",
