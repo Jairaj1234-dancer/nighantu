@@ -1,7 +1,9 @@
 /** Shared HTTP helper: identifies itself, retries transient failures, never throws. */
+import { SITE, BASE } from '../monitors/config.mjs';
 
-const UA = 'AgeAyurvedaNighantuMonitor/1.0 (+https://jairaj1234-dancer.github.io/nighantu/; site health and accuracy checks)';
-
+// Derived from config so the crawler follows the site to a custom domain rather than
+// advertising an origin it no longer serves from.
+const UA = `AgeAyurvedaNighantuMonitor/1.0 (+${SITE}${BASE}/; site health and accuracy checks)`;
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 /**
