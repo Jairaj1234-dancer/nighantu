@@ -7,6 +7,8 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { FORBIDDEN_STRINGS, DENY_PATH_FRAGMENTS } from './config.mjs';
 import { walk, parseFrontmatter } from './lib.mjs';
+import { validateRecord, HEAVY_METAL_REQUIRED } from './lib/safety.mjs';
+import { checkSources } from './lib/sources.mjs';
 
 const failures = [];
 const fail = (check, detail) => failures.push({ check, detail });
@@ -147,6 +149,78 @@ if (fs.existsSync(DIST)) {
     }
   }
   console.log(`audited ${htmlFiles.length} built pages`);
+}
+
+// 9-12. Safety layer.
+//
+// Coverage is enforced as a RATCHET rather than a fixed target. A hard "all 66
+// bhasma pages must have heavy-metal data" gate would fail the build for as long as
+// the work is in progress, which means it would get commented out, which means it
+// would never fire. A ratchet fails only when coverage drops below what has already
+// been earned, so it protects finished work without blocking unfinished work.
+{
+  const SAFETY = path.join('data', 'safety.json');
+  const BASELINE = path.join('data', 'safety-baseline.json');
+
+  const readJson = (f) => {
+    if (!fs.existsSync(f)) return null;
+    try { return JSON.parse(fs.readFileSync(f, 'utf8')); }
+    catch (e) { fail('safety-unreadable', `${f}: ${e.message}`); return null; }
+  };
+
+  const safety = readJson(SAFETY);
+  const records = safety?.records ?? {};
+  const slugs = Object.keys(records);
+
+  if (slugs.length) {
+    const pageOf = new Map(files.filter((f) => f.rel.startsWith('herb/'))
+      .map((f) => [f.data.slug || path.basename(f.rel, '.md'), f.data]));
+
+    // 9. Every stored record must still validate. A record that was written by a
+    //    passing panel can still be broken later by a hand edit or a schema change.
+    for (const slug of slugs) {
+      const page = pageOf.get(slug);
+      if (!page) { fail('safety-orphan', `data/safety.json has "${slug}" but no such herb page`); continue; }
+      const v = validateRecord(records[slug], page);
+      if (!v.ok) fail('safety-invalid', `${slug}: ${v.errors.join('; ')}`);
+    }
+
+    // 10. Sources must all be on the allowlist. validateRecord checks this too;
+    //     repeating it here means the gate survives someone loosening the schema.
+    for (const slug of slugs) {
+      const bad = checkSources(records[slug].sources ?? []);
+      if (!bad.ok) fail('safety-source', `${slug}: off-allowlist source ${bad.rejected.join(', ')}`);
+    }
+
+    // 11. Heavy metals on the kinds that require them.
+    for (const slug of slugs) {
+      const page = pageOf.get(slug);
+      if (!page || !HEAVY_METAL_REQUIRED.has(page.subcategory || '')) continue;
+      const rec = records[slug];
+      const hasHm = rec.heavyMetals && String(rec.heavyMetals.text || '').trim();
+      if (!hasHm && !rec.insufficientData) {
+        fail('safety-heavy-metal', `${slug} (${page.subcategory}) has a record but no heavy-metal statement`);
+      }
+    }
+  }
+
+  // 12. The ratchet.
+  const baseline = readJson(BASELINE) ?? { covered: 0, heavyMetalCovered: 0 };
+  const heavyCovered = slugs.filter((s) => {
+    const rec = records[s];
+    return rec.heavyMetals && String(rec.heavyMetals.text || '').trim();
+  }).length;
+
+  if (slugs.length < (baseline.covered ?? 0)) {
+    fail('safety-regression',
+      `safety coverage fell from ${baseline.covered} to ${slugs.length} pages`);
+  }
+  if (heavyCovered < (baseline.heavyMetalCovered ?? 0)) {
+    fail('safety-regression',
+      `heavy-metal coverage fell from ${baseline.heavyMetalCovered} to ${heavyCovered} pages`);
+  }
+  console.log(`safety: ${slugs.length} records, ${heavyCovered} with heavy-metal data `
+    + `(baseline ${baseline.covered ?? 0}/${baseline.heavyMetalCovered ?? 0})`);
 }
 
 // ------------------------------------------------------------------ report
