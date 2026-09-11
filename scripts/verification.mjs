@@ -169,7 +169,34 @@ if (run02) {
   });
 }
 
-const safety = run02 ? null : read(path.join('data', 'safety-verdicts.json'));
+const run03 = read(path.join('data', 'runs', 'safety-pass3.json'));
+if (run03) {
+  const s = run03.summary ?? {};
+  runs.push({
+    id: 'safety-pass3',
+    title: 'Safety data, third attempt',
+    question: 'Do the auditors\u2019 specific objections survive being fixed?',
+    note: `${run03.scope} ${s.publish} of ${s.examined} passed.`,
+    method: [
+      'Each record was given its own auditor\u2019s line-by-line objections and told to fix those and change nothing else, because rewriting passages an auditor accepted risks introducing new defects.',
+      'Two further rules were added from this round\u2019s failures: do not overclaim your own search (\u201cno permitted source names this preparation\u201d is supportable, \u201cI checked each survey\u2019s sample list and none tested it\u201d is not, and is false for any survey that publishes no product names), and carry the source\u2019s denominator verbatim (\u201c36% of samples\u201d and \u201c36% of samples containing lead\u201d are different claims).',
+      'Every fixed record was audited again by a reviewer who read the original objections first, then audited the whole record afresh, since a fix for one defect can introduce another.',
+    ],
+    stats: {
+      recordsExamined: s.examined,
+      published: s.publish,
+      stillHeld: s.held,
+    },
+    caveat: 'The records that remain held are not discarded. Each carries a specific, current '
+      + 'objection, and the objections are getting narrower with each pass.',
+    examples: (run03.held ?? []).slice(0, 5).map((h) => ({
+      slug: h.slug,
+      basis: (h.ruleViolations ?? h.reasons ?? []).slice(0, 2).join(' | ').slice(0, 600),
+    })),
+  });
+}
+
+const safety = (run02 || run03) ? null : read(path.join('data', 'safety-verdicts.json'));
 if (safety) {
   const led = safety.ledger ?? [];
   runs.push({

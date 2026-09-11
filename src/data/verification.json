@@ -195,6 +195,45 @@
      "basis": "Rule 1 — selective quotation: Mtendwa 2026 Table 2 assigns alpha-thujone to \"Leaves, seeds\". The record reports it as \"tabulates alpha-thujone under leaves\", dropping the seed co-attribution. In a record whose entire discipline is part-specificity (it correctly refuses to transfer seed-oil data to the leaf everywhere else), narrowing a two-part table row to the leaf alone is the same error in the opposite direction. | Rule 9 — documented substance-specific hazard with no contraindication of its own: contraindications is empty and interactions is empty, while the record itself documents, for th"
     }
    ]
+  },
+  {
+   "id": "safety-pass3",
+   "title": "Safety data, third attempt",
+   "question": "Do the auditors’ specific objections survive being fixed?",
+   "note": "The 24 records held by the second audit, fixed against the auditors' line-by-line objections and re-audited individually. 1 of 24 passed.",
+   "method": [
+    "Each record was given its own auditor’s line-by-line objections and told to fix those and change nothing else, because rewriting passages an auditor accepted risks introducing new defects.",
+    "Two further rules were added from this round’s failures: do not overclaim your own search (“no permitted source names this preparation” is supportable, “I checked each survey’s sample list and none tested it” is not, and is false for any survey that publishes no product names), and carry the source’s denominator verbatim (“36% of samples” and “36% of samples containing lead” are different claims).",
+    "Every fixed record was audited again by a reviewer who read the original objections first, then audited the whole record afresh, since a fix for one defect can introduce another."
+   ],
+   "stats": {
+    "recordsExamined": 24,
+    "published": 1,
+    "stillHeld": 23
+   },
+   "caveat": "The records that remain held are not discarded. Each carries a specific, current objection, and the objections are getting narrower with each pass.",
+   "examples": [
+    {
+     "slug": "abhraka-bhasma",
+     "basis": "RULE 11 (asserting a negative the sources contradict): heavyMetals states 'No permitted source located reports a lead, mercury or arsenic assay of Abhraka Bhasma.' pillai2025, a permitted source cited seven times in this record, states: 'A study by Bhatia et al., reported the absence of toxic heavy metals like Mercury and organic compounds in Abhraka Bhasma.' The repairer's decision not to rely on that sentence has been converted into a claim that no such report exists. | Unsupported claim not in either cited source (contraindications, renal entry): 'Aluminium is eliminated renally, so reduced"
+    },
+    {
+     "slug": "akika-pishti",
+     "basis": "Rule 2 (fabricated verbatim quotation): heavyMetals presents inside quotation marks \"The metal contents above the FAO/WHO and AYUSH-mandated limit for zinc, mercury, and/or arsenic are seen in all except one formulation.\" Raw text of PMC8882783, Discussion: \"The metal concentrations above the FAO/WHO and AYUSH-mandated limit for zinc, mercury, and/or arsenic are seen in all except one formulation.\" The word is 'concentrations', not 'contents'; 'metal contents' comes from a different abstract sen | Rule 2 (attributing to a study a methodological detail it does not have): heavyMetals states \"Mik"
+    },
+    {
+     "slug": "ashwagandha",
+     "basis": "Rule 1 (source's own warning truncated away, thyroiditis entry). PMC10981964 closes its discussion: \"Because PT can sometimes cause thyroid storm [16] or lead to permanent hypothyroidism in the chronic phase [5], administration of Ashwagandha for the purpose of improving thyroid function requires careful judgment, especially when symptoms of thyrotoxicosis appear.\" The record's painless-thyroiditis entry stops at \"Ashwagandha was stopped at day 10 and symptoms and thyroid status had normalised b | Rule 1 (a quotation presented as complete is truncated before its second hazard). The autoimmune "
+    },
+    {
+     "slug": "bhanga",
+     "basis": "Rule 3 - adverse findings in a cited source not reported: MSK's Adverse Reactions section documents serotonin syndrome (fluoxetine, melatonin, lithium, THC vape pen), perioperative morbidity in elective spine surgery, acute toxic hippocampal encephalopathy, and non-ischaemic cardiomyopathy with cardioembolism, radial artery thrombosis and gangrene requiring amputation; none appears in the record, which otherwise transcribes that list item by item | Documented hazard missing, route-matched to the preparation: NCCIH documents many reports of unintentional consumption of cannabis products by chil"
+    },
+    {
+     "slug": "eranda-moola",
+     "basis": "Rule 11 (do not overclaim your own search): insufficientReason asserts that Ramothloa 2025 is 'the second permitted-host review of this species'. This is a negative the stated searches cannot support and it is false - esearch '\"Ricinus communis\"[Title] AND review[pt] AND pubmed pmc[sb]' returns four (42653756, 41573499, 40807390, 22069699), and the record itself cites one of them, Worbs 2011, as a review. Supporting instances of the same overclaim: the toxicity query is reported as '40 records r"
+    }
+   ]
   }
  ]
 }
