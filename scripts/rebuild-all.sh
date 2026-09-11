@@ -18,7 +18,10 @@ node scripts/research-index.mjs
 echo "==> 4/8 dravyaguna dataset (parsed from the monographs, so it cannot drift)"
 node scripts/dravyaguna.mjs
 
-echo "==> 5/8 verification ledger (computed from the run artifacts, never hand-edited)"
+echo "==> 5/8 constituent graph + verification ledger"
+node scripts/compounds.mjs
+
+echo "==> 5b/8 verification ledger (computed from the run artifacts, never hand-edited)"
 node scripts/verification.mjs
 
 echo "==> 6/8 date ledger"

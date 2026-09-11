@@ -1,0 +1,118 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import data from '../../data/compounds.json';
+import { SITE_NAME, abs, rel } from '../../lib/site';
+
+const { summary, compounds, updatedAt } = data as any;
+
+const description = `${summary.compounds} phytochemical constituents reported across `
+  + `${summary.pagesScanned} Ayurvedic dravyas and formulations, with the entries each appears in `
+  + `and the constituents it co-occurs with. Free to download under CC BY 4.0.`;
+
+const jsonld = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Dataset',
+    '@id': `${abs('/compounds/')}#dataset`,
+    name: 'Age Ayurveda Nighantu phytochemical co-occurrence graph',
+    description,
+    url: abs('/compounds/'),
+    license: 'https://creativecommons.org/licenses/by/4.0/',
+    isAccessibleForFree: true,
+    inLanguage: 'en',
+    creator: { '@id': `${abs('/')}#organization` },
+    publisher: { '@id': `${abs('/')}#organization` },
+    variableMeasured: ['constituent', 'source entries', 'co-occurring constituents', 'shared-source weight'],
+    keywords: ['Ayurveda', 'phytochemistry', 'constituents', 'co-occurrence', 'materia medica'],
+    distribution: [
+      { '@type': 'DataDownload', name: 'JSON', encodingFormat: 'application/json', contentUrl: abs('/compounds.json') },
+      { '@type': 'DataDownload', name: 'CSV', encodingFormat: 'text/csv', contentUrl: abs('/compounds.csv') },
+    ],
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Nighantu', item: abs('/') },
+      { '@type': 'ListItem', position: 2, name: 'Constituents', item: abs('/compounds/') },
+    ],
+  },
+];
+
+const shared = compounds.filter((c: any) => c.count >= 2);
+const single = compounds.length - shared.length;
+---
+<Base title={`Constituents · ${SITE_NAME}`} description={description} canonical="/compounds/" jsonld={jsonld} wide>
+  <Crumbs trail={[{ label: 'Constituents' }]} />
+  <h1>Phytochemical constituents</h1>
+
+  <p class="answer">
+    {summary.compounds} constituents reported across {summary.pagesScanned} entries in this
+    reference, each listed with the dravyas and formulations it appears in and the other
+    constituents it turns up alongside. {summary.edges} co-occurring pairs.
+  </p>
+
+  <p class="lede">
+    Computed from the published pages rather than asserted, which means every number here is
+    checkable: if the table says two constituents share four sources, those four pages are
+    listed and you can open them. Nothing is counted from material this site does not publish.
+  </p>
+
+  <table class="facts">
+    <caption>At a glance</caption>
+    <tbody>
+      <tr><th scope="row">Constituents</th><td>{summary.compounds}</td></tr>
+      <tr><th scope="row">Reported in more than one entry</th><td>{shared.length}</td></tr>
+      <tr><th scope="row">Reported in exactly one</th><td>{single}</td></tr>
+      <tr><th scope="row">Entries with constituent data</th><td>{summary.pagesScanned}</td></tr>
+      <tr><th scope="row">Co-occurring pairs</th><td>{summary.edges}</td></tr>
+    </tbody>
+  </table>
+
+  <h2>Reported in more than one entry</h2>
+  <p>
+    These are the constituents that link entries together. A constituent reported in only one
+    entry carries no co-occurrence signal, so those are in the download rather than the table.
+  </p>
+  <div class="tablewrap">
+    <table>
+      <thead>
+        <tr><th>Constituent</th><th style="text-align:right">Entries</th><th>Appears in</th><th>Most often alongside</th></tr>
+      </thead>
+      <tbody>
+        {shared.map((c: any) => (
+          <tr>
+            <td><strong>{c.name}</strong></td>
+            <td style="text-align:right;font-variant-numeric:tabular-nums">{c.count}</td>
+            <td>
+              {c.sources.slice(0, 6).map((s: any, i: number) => (
+                <>{i > 0 && ', '}<a href={rel(`/${s.kind}/${s.slug}/`)}>{s.title}</a></>
+              ))}
+              {c.sources.length > 6 && <> and {c.sources.length - 6} more</>}
+            </td>
+            <td>{c.sharedWith.slice(0, 4).map((s: any) => `${s.name} (${s.weight})`).join(', ')}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+
+  <h2>Download</h2>
+  <p>
+    <a href={rel('/compounds.json')}>compounds.json</a> and
+    <a href={rel('/compounds.csv')}>compounds.csv</a>, CC BY 4.0. The full set including
+    single-source constituents, with every co-occurrence weight.
+  </p>
+
+  <h2>How to read it, and how not to</h2>
+  <p>
+    Co-occurrence means two constituents are reported in the same entries in this reference.
+    It does not mean they interact, that they are pharmacologically related, or that either is
+    responsible for anything a preparation is traditionally used for. Constituent lists also
+    reflect what has been analysed and published, so a well-studied dravya will look chemically
+    richer than an equally complex one nobody has run through a mass spectrometer.
+  </p>
+
+  <p class="meta">Rebuilt {updatedAt} from the monographs, so it cannot drift from the pages.</p>
+</Base>

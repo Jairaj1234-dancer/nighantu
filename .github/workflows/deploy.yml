@@ -46,6 +46,8 @@ jobs:
         run: node scripts/dravyaguna.mjs
       - name: Generate the verification ledger
         run: node scripts/verification.mjs
+      - name: Generate the constituent graph
+        run: node scripts/compounds.mjs
       # The safety schema is the gate on the highest-consequence content on the site,
       # so its negative tests run in CI rather than only on a developer's machine.
       - name: Safety schema tests
