@@ -1,6 +1,6 @@
 {
  "updatedAt": "2026-09-11",
- "count": 1,
+ "count": 2,
  "records": {
   "kamsya-bhasma": {
    "slug": "kamsya-bhasma",
@@ -183,6 +183,179 @@
    "interactions": [],
    "scopeMarkedFromDeclaration": true,
    "title": "Kamsya Bhasma",
+   "sourceClass": "regulatory"
+  },
+  "neelam-pishti": {
+   "slug": "neelam-pishti",
+   "insufficientData": true,
+   "insufficientReason": "No authoritative source specific to Neelam Pishti was located in the permitted source set. The searches below were run on 2026-09-11 and are reported with what they actually returned, so they can be re-run. PubMed via NCBI E-utilities esearch (db=pubmed), preparation-name terms, each returning Count 0: Neelam Pishti (PubMed translates this to \"Neelam\"[All Fields] AND \"Pishti\"[All Fields]), Neelam Bhasma, Nilam Pishti, Neela Pishti, sapphire pishti. Broader terms do return records, none of them about a sapphire or Neelam preparation: sapphire bhasma returns 2 records, PMID 35277158 (antimicrobial potential of four mica drugs) and PMID 24993885 (review of mica drug processing); corundum ayurvedic returns 4, PMID 30237685 (Kushtae Shangarf, a Unani preparation), PMID 27502540 (Kanakasava in a rat asthma model), PMID 24993885 (the same mica review) and PMID 22754071 (toxicological study of Chondrokola Rosh on rat liver function tests); gemstone bhasma returns 2, PMID 30952470 (Swarna Makshika Bhasma prepared by an alternative heating method) and PMID 16632893 (chemical characterization of bhasmas); pishti heavy metal returns 2, PMID 39615446 (Badarashma Pishti) and PMID 35813362 (Trinakantamani Amber Pishti), which are the two pishti papers cited in this record; Neelam ayurveda returns 4, PMID 35255269 (an undergraduate curriculum paper), PMID 34961687 (a dermatophytosis case report), PMID 29076426 (a Swertia chirata review) and PMID 22131715 (an Uttara Vasti study), none concerning a gem or mineral preparation. Note that PubMed expands both sapphire and corundum to aluminium oxide, so those two are not name searches at all. PMC full text (db=pmc): \"Neelam Pishti\" returns Count 0, with the quoted phrase reported as not found and the query falling back to neelam AND pishti. \"Neelam Bhasma\" returns exactly one record, PMC3331307 (PMID 22557671), AV Sharma, Gems and their medicinal values, Anc Sci Life 1989;9(1):26-27, whose PMC page states only that \"The medicinal uses of nine major gems (Navrtna) are enumerated here\" and carries the article as a page scan whose text could not be retrieved here. Nothing is taken from it, and an enumeration of medicinal uses would in any case be excluded from a safety record; it is listed only because it is the single permitted-host record that matches the name at all. A domain-restricted web search of pharmacopoeia.gov.in, ayush.gov.in, who.int, iris.who.int, nccih.nih.gov, medlineplus.gov, fda.gov, ods.od.nih.gov and mskcc.org for \"Neelam Pishti\" and \"Neelam Bhasma\" returned no monograph, formulary entry or safety page naming either preparation. On that evidence, no monograph, clinical trial, case report, elemental analysis, human or animal dose, or pharmacopoeial standard for Neelam Pishti was found in the permitted sources. Because no permitted source identifies what a product sold under this name actually contains, no composition is asserted here and none can be assumed. No doseLimits field is carried, because no human or animal dose for this preparation exists in these sources. Every statement in this record is therefore class-level, about gem- and mineral-derived Rasa Shastra preparations or about the metals themselves, and each is labelled scope class-level.",
+   "heavyMetals": {
+    "scope": "class-level",
+    "text": "No allowed source located identifies the specific mineral or gemstone base of Neelam Pishti, and no elemental analysis of this named preparation has been published in the permitted sources, so its metal content is undetermined here and no composition can be assumed for any product sold under this name. The evidence below is class-level and applies to gem- and mineral-derived Rasa Shastra preparations generally. Jagtap et al. (2024) is used here only for classification: it states that in Ayurveda \"Rasa Shastra includes the fabrication of Bhasmas and Pishti\" and that \"A limited number of studies have been carried out using Ayurvedic preparations derived from gems or precious stones that were used traditionally.\" That paper characterised Badarashma Pishti (Lapis judaicus), not a sapphire preparation, and reported calcite, quartz and aragonite with Ca, Mg, O and Si by EDAX; although its methods list \"identification of heavy metals\", the abstract reports no heavy-metal result, so no metal statement is taken from it. Saper et al. (2008) measured metals by x-ray fluorescence in Ayurvedic medicines bought over the Internet: 193 of the 230 requested medicines were received and analysed, and the prevalence of products with detectable lead, mercury or arsenic was 20.7% (95% CI, 15.2%-27.1%). Neither origin nor a manufacturing claim discriminated: US-manufactured prevalence was 21.7% (95% CI, 14.6%-30.4%) against 19.5% (95% CI, 11.3%-30.1%) for Indian products (P = .86), and among the metal-containing products 95% were sold by US web sites and 75% claimed Good Manufacturing Practices. Rasa shastra products had a greater prevalence of metals than non-rasa shastra products (40.6% vs 17.1%; P = .007) and higher median concentrations of lead (11.5 microg/g vs 7.0 microg/g; P = .03) and mercury (20,800 microg/g vs 34.5 microg/g; P = .04). The authors state that \"All metal-containing products exceeded 1 or more standards for acceptable daily intake of toxic metals.\" Saper et al. (2004) found that 14 (20%) of 70 Ayurvedic herbal medicine products bought in Boston-area South Asian stores (95% CI, 11%-31%) contained heavy metals: lead (n = 13; median 40 microg/g; range 5-37,000), mercury (n = 6; median 20,225 microg/g; range 28-104,000) and/or arsenic (n = 6; median 430 microg/g; range 37-8130). They conclude that \"If taken as recommended by the manufacturers, each of these 14 could result in heavy metal intakes above published regulatory standards\", that users \"may be at risk for heavy metal toxicity\", and that \"testing of Ayurvedic HMPs for toxic heavy metals should be mandatory.\" Mikulski et al. (2017, epub 2018) analysed 252 samples of Ayurvedic products and herbal supplements collected during a public health lead-poisoning cluster investigation. Lead was detected in 164 samples (65.1%), median 4.9 mg/kg, range 0.46-43,200 mg/kg; mercury in 97 (38.5%), median 53.0 mg/kg, range 0.8-279,000 mg/kg; arsenic in 82 (32.5%), median 8.4 mg/kg, range 1.0-44,800 mg/kg. The exceedance figures are taken with the authors' own denominators: \"Almost half of samples containing mercury, 36% of samples containing lead and 39% of samples containing arsenic had concentrations of those metals per pill that exceeded, up to several thousand times, the recommended daily intake values for pharmaceutical impurities\", which in Table 2 is 59 of the 164 lead-containing samples (35.8%), 48 of the 97 mercury-containing samples (49.5%) and 32 of the 82 arsenic-containing samples (39.5%) exceeding the USP oral permissible daily exposure per pill for a 50 kg person, assuming a 500 mg pill and one pill per day. The same paper documents lot-to-lot variability within one product family: Indukantham tablets from the same provider ranged from 43 to 43,200 mg/kg lead and 13 to 950 mg/kg mercury. The authors state a limitation that bears directly on interpretation: \"This study did not conduct metals speciation analysis of the Ayurvedic products\", so the chemical species present, and therefore the bioavailability behind those concentrations, are not established. Hore et al. (2022) reported on 584 samples of health remedies collected by the New York City Department of Health and Mental Hygiene during poisoning investigations and store surveys between 2010 and 2019, finding a significant association between blood lead levels and estimated cumulative daily lead exposures among adult users of rasa shastra Ayurvedic medications, and that average blood lead levels among adult rasa shastra users were significantly higher than levels among those using other types of non-Ayurvedic health remedies. FDA warns that \"using unapproved ayurvedic products containing harmful levels of heavy metals may cause heavy metal poisoning\" and names lead, mercury, arsenic, iron and zinc among the metals such products may contain. One apparent counterpoint at pishti class level does not transfer: Joshi et al. (2020) reported for Trinakantamani (Amber) Pishti that \"All heavy metals in the samples were within the permissible limit.\" Three facts void any transfer of that reassurance to a marketed gem pishti. The three samples were prepared by the investigators themselves using the standard reference method rather than bought from the market, so the finding says nothing about market supply; Trinakantamani is amber, a fossilised resin whose chief elements the same paper found to be carbon, hydrogen and oxygen, so it is not a metal-bearing gem or mineral; and it is a different preparation from the one this record concerns.",
+    "sourceIds": [
+     "jagtap2024",
+     "saper2008",
+     "saper2004",
+     "mikulski2018",
+     "hore2022",
+     "fda2025",
+     "joshi2020"
+    ]
+   },
+   "adverseEffects": [
+    {
+     "scope": "class-level",
+     "effect": "Heavy metal poisoning, reported for Ayurvedic metallic and mineral products generally and not for Neelam Pishti specifically",
+     "frequency": "Not quantified for this preparation. At class level, NCCIH cites \"A 2015 published survey of people who use Ayurvedic preparations showed that 40 percent had elevated blood levels of lead and some had elevated blood levels of mercury\", and reports of the supplements tested in that context that \"About one in four of the supplements tested had high levels of lead and almost half of them had high levels of mercury.\"",
+     "note": "FDA states that \"Adults and children can become very sick when heavy metals accumulate in their bodies over time, and large acute ingestions over short periods of time can be life-threatening\", and that use of these products may result in \"high blood pressure, kidney injury, fatigue, gastrointestinal distress and neurologic symptoms\", including abdominal pain, constipation, diarrhea, nausea and vomiting, and burning or tingling in the fingers and/or toes, weakness in limbs and dizziness. NCCIH states that \"Some Ayurvedic preparations may contain lead, mercury, or arsenic in amounts that can be toxic.\" No case report attributing any of these to Neelam Pishti was found in the permitted sources.",
+     "sourceIds": [
+      "fda2025",
+      "nccih"
+     ]
+    },
+    {
+     "scope": "class-level",
+     "effect": "Arsenic poisoning and arsenic-related cancer risk",
+     "frequency": "NCCIH states that \"Although rare, Ayurvedic products may cause arsenic poisoning.\" No frequency for cancer risk is given by either source, and none exists for this preparation.",
+     "note": "FDA states that \"Chronic exposures to arsenic may increase the risk of cancer.\" This is a delayed-onset harm that does not present as an acute poisoning syndrome, so absence of acute symptoms is not evidence of safe exposure. Arsenic was detected in 32.5% of the 252 samples analysed by Mikulski et al. and in 6 of the 70 products tested by Saper et al. (2004). Nothing here is specific to Neelam Pishti, whose arsenic content is undetermined.",
+     "sourceIds": [
+      "fda2025",
+      "nccih",
+      "mikulski2018",
+      "saper2004"
+     ]
+    },
+    {
+     "scope": "class-level",
+     "effect": "Non-metal toxic contaminants found alongside metals in one FDA-tested ayurvedic product",
+     "frequency": "A single-product finding, not a prevalence estimate. It is recorded because it shows that contamination in this product class is not confined to metals.",
+     "note": "FDA tested Rheumacare Ayurvedic Proprietary Medicine purchased from NavaFresh.com and reports that \"The testing found high levels of lead and mercury, as well as the presence of strychnine, brucine toxins and arsenic.\" This result applies to that product only. It is not a finding about Neelam Pishti and not a class prevalence figure.",
+     "sourceIds": [
+      "fda2025"
+     ]
+    }
+   ],
+   "contraindications": [
+    {
+     "scope": "class-level",
+     "condition": "Pregnancy and breastfeeding",
+     "severity": "major",
+     "note": "FDA states that \"If a mother has heavy metals in her body, the metals may enter her breast milk and be passed onto the baby during breastfeeding.\" NCCIH advises that \"If you're pregnant or nursing, be sure to consult your (or your child's) health care provider as some Ayurvedic products may contain products that could be harmful.\" Lead, mercury and arsenic are documented in this product class and are developmental toxicants for which no safe exposure level can be shown from the available evidence. No pregnancy or lactation data specific to Neelam Pishti exists in the permitted sources.",
+     "sourceIds": [
+      "fda2025",
+      "nccih",
+      "saper2008"
+     ]
+    },
+    {
+     "scope": "class-level",
+     "condition": "Use in children",
+     "severity": "major",
+     "note": "FDA states that \"Adults and children can become very sick when heavy metals accumulate in their bodies over time, and large acute ingestions over short periods of time can be life-threatening.\" Saper et al. (2004) compared estimated daily metal ingestion for adults and for children against US Pharmacopeia and US Environmental Protection Agency standards and concluded that each of the 14 metal-containing products, if taken as the manufacturer recommends, could result in intakes above published regulatory standards. No paediatric data specific to Neelam Pishti exists in the permitted sources.",
+     "sourceIds": [
+      "fda2025",
+      "saper2004"
+     ]
+    },
+    {
+     "scope": "class-level",
+     "condition": "Existing kidney disease or impaired renal function, and hypertension",
+     "severity": "major",
+     "note": "FDA names kidney injury and high blood pressure directly among the effects of heavy metal accumulation from unapproved ayurvedic products. Because the metal content of any product sold as Neelam Pishti is undetermined and the class is documented to carry lead, mercury and arsenic, a person with reduced renal clearance or established hypertension carries the class hazard at higher consequence. This is derived from class-level evidence and is not a finding about Neelam Pishti.",
+     "sourceIds": [
+      "fda2025"
+     ]
+    },
+    {
+     "scope": "class-level",
+     "condition": "Known elevated blood lead, mercury or arsenic level, or any other ongoing source of exposure to these metals",
+     "severity": "major",
+     "note": "Hore et al. (2022) found a significant association between blood lead levels and estimated cumulative daily lead exposures among adult users of rasa shastra Ayurvedic medications, which is a dose-additive relationship: an additional source adds to an existing body burden rather than acting independently. Mikulski et al. document that the same product from the same provider can vary from 43 to 43,200 mg/kg lead, so an individual product cannot be assumed to be the low end of that range. This is derived from class-level evidence and is not a finding about Neelam Pishti.",
+     "sourceIds": [
+      "hore2022",
+      "mikulski2018"
+     ]
+    }
+   ],
+   "interactions": [],
+   "pregnancy": {
+    "scope": "class-level",
+    "status": "avoid",
+    "note": "No pregnancy data for Neelam Pishti exists in the permitted sources, and no permitted source establishes what a product sold under this name contains. The avoid grading, rather than caution, rests on class-level evidence: FDA warns that unapproved ayurvedic products may contain harmful levels of lead, mercury and arsenic; NCCIH advises consulting a health care provider during pregnancy because some Ayurvedic products may contain constituents that could be harmful; and Saper et al. (2008) documented that rasa shastra preparations carry a significantly higher prevalence of toxic metals (40.6% vs 17.1%; P = .007) and higher median lead and mercury concentrations than non-rasa shastra preparations. Lead, mercury and arsenic are developmental neurotoxicants for which no safe exposure level in pregnancy can be shown from the available evidence, and undetermined metal content in a product class documented to carry them is not a basis for a permissive grading.",
+    "sourceIds": [
+     "fda2025",
+     "nccih",
+     "saper2008"
+    ]
+   },
+   "lactation": {
+    "scope": "class-level",
+    "status": "avoid",
+    "note": "No lactation data for Neelam Pishti exists in the permitted sources. FDA states directly that \"If a mother has heavy metals in her body, the metals may enter her breast milk and be passed onto the baby during breastfeeding\", and NCCIH advises consulting a health care provider while nursing because some Ayurvedic products may contain constituents that could be harmful. Transfer in milk means maternal intake becomes infant exposure, and the infant is exposed at the developmental stage at which lead and mercury neurotoxicity is most consequential, so avoid rather than caution is the supportable grading for a preparation of undetermined metal content within this class.",
+    "sourceIds": [
+     "fda2025",
+     "nccih"
+    ]
+   },
+   "sources": [
+    {
+     "id": "jagtap2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39615446/",
+     "title": "Jagtap CY, Charde V, Rawat H, et al. The Structural and Thermal properties of Badarashma Pishti. J Ayurveda Integr Med. 2024 Nov-Dec;15(6):100989. Cited here only for its statements about the Rasa Shastra class and the scarcity of studies on gem-derived preparations; it characterises Badarashma Pishti (Lapis judaicus), not a sapphire preparation, and its abstract reports no heavy-metal result. No efficacy or indication is carried from this paper.",
+     "tier": "PubMed",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "saper2008",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/18728265/",
+     "title": "Saper RB, Phillips RS, Sehgal A, et al. Lead, mercury, and arsenic in US- and Indian-manufactured Ayurvedic medicines sold via the Internet. JAMA. 2008 Aug 27;300(8):915-23. Erratum in JAMA. 2008 Oct 8;300(14):1652.",
+     "tier": "PubMed",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "saper2004",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/15598918/",
+     "title": "Saper RB, Kales SN, Paquin J, et al. Heavy metal content of ayurvedic herbal medicine products. JAMA. 2004 Dec 15;292(23):2868-73.",
+     "tier": "PubMed",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "mikulski2018",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6060866/",
+     "title": "Mikulski MA, Wichman MD, Simmons DL, Pham AN, Clottey V, Fuortes LJ. Toxic metals in ayurvedic preparations from a public health lead poisoning cluster investigation. Int J Occup Environ Health. 2017 Jul;23(3):187-192. Epub 2018 Mar 12. PMID 29528276.",
+     "tier": "PMC",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "hore2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36179284/",
+     "title": "Hore P, Alex-Oni K, Sedlar S, Patel K, Saper RB. Health Remedies as a Source of Lead, Mercury, and Arsenic Exposure, New York City, 2010-2019. Am J Public Health. 2022 Sep;112(S7):S730-S740.",
+     "tier": "PubMed",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "fda2025",
+     "url": "https://www.fda.gov/drugs/fraudulent-products/fda-warns-about-heavy-metal-poisoning-associated-certain-unapproved-ayurvedic-drug-products",
+     "title": "U.S. Food and Drug Administration. FDA warns about heavy metal poisoning associated with certain unapproved ayurvedic drug products. Content current as of December 2, 2025.",
+     "tier": "FDA",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "nccih",
+     "url": "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth",
+     "title": "National Center for Complementary and Integrative Health. Ayurvedic Medicine: In Depth.",
+     "tier": "NCCIH",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "joshi2020",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35813362/",
+     "title": "Joshi N, Ahuja MR, Rastogi GK, Dash MK. Characterization and antimicrobial study of Trinakantamani (Amber) Pishti. Ayu. 2020 Oct-Dec;41(4):225-234. Cited only for its heavy-metal result and its finding that carbon, hydrogen and oxygen are the chief elements of the drug; no efficacy or indication is carried from this paper.",
+     "tier": "PubMed",
+     "accessed": "2026-09-11"
+    }
+   ],
+   "title": "Neelam Pishti",
    "sourceClass": "regulatory"
   }
  }
