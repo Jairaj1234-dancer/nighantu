@@ -1,13 +1,13 @@
 {
   "community": {
-    "checkedAt": "2026-09-10T06:38:28.157Z",
+    "checkedAt": "2026-09-11T06:37:55.315Z",
     "feeds": 4,
-    "matched": 0,
+    "matched": 1,
     "scanned": 25
   },
   "competitors": {
     "ajengineer": {
-      "checkedAt": "2026-09-10T06:38:24.573Z",
+      "checkedAt": "2026-09-11T06:37:51.656Z",
       "hash": "c8f0221ba8baca99",
       "signals": [
         "12 liter",
@@ -18,7 +18,7 @@
       "url": "https://www.ajengineer.co.in/ayurvedic-therapy-machine.html"
     },
     "ananda": {
-      "checkedAt": "2026-09-10T06:38:27.328Z",
+      "checkedAt": "2026-09-11T06:37:54.574Z",
       "hash": "4e12cc6bfe5dcfa5",
       "signals": [
         "$120",
@@ -27,7 +27,7 @@
       "url": "https://www.anandashirodhara.com/product-page/ananda-automatic-shirodhara-equipment"
     },
     "cristalmind": {
-      "checkedAt": "2026-09-10T06:38:23.956Z",
+      "checkedAt": "2026-09-11T06:37:51.121Z",
       "hash": "7b99df66ba52e31d",
       "signals": [
         "2-3 minutes",
@@ -37,13 +37,13 @@
       "url": "https://www.cristalmind.com/"
     },
     "esteem": {
-      "checkedAt": "2026-09-10T06:38:25.436Z",
+      "checkedAt": "2026-09-11T06:37:52.438Z",
       "hash": "e3b0c44298fc1c14",
       "signals": [],
       "url": "https://www.esteemservices.in/fully-automatic-shirodhara-machine.htm"
     },
     "kawachi": {
-      "checkedAt": "2026-09-10T06:38:27.015Z",
+      "checkedAt": "2026-09-11T06:37:54.344Z",
       "hash": "d51abf5a796bd560",
       "signals": [
         "₹8,999"
@@ -52,7 +52,7 @@
     }
   },
   "competitorSummary": {
-    "checkedAt": "2026-09-10T06:38:27.328Z",
+    "checkedAt": "2026-09-11T06:37:54.574Z",
     "items": [
       {
         "id": "cristalmind",
@@ -110,7 +110,7 @@
   },
   "feeds": {
     "r-ayurveda": {
-      "checkedAt": "2026-09-10T06:38:27.878Z",
+      "checkedAt": "2026-09-11T06:37:55.076Z",
       "seenIds": [
         "t3_1wbhvk6",
         "t3_1waw2la",
@@ -140,21 +140,58 @@
         "t3_1wc8vdf",
         "t3_1wbr9y8",
         "t3_1wbnpmn",
-        "t3_1wbm53x"
+        "t3_1wbm53x",
+        "t3_1wd6ns8",
+        "t3_1wcq5el",
+        "t3_1wcgzns",
+        "t3_1wceurq"
       ]
     }
   },
   "freshness": {
-    "checkedAt": "2026-09-10T06:38:27.330Z",
+    "checkedAt": "2026-09-11T06:37:54.576Z",
     "oldest": [],
     "overdue": 0,
     "total": 766
   },
   "health": {
-    "checkedAt": "2026-09-10T06:38:13.606Z",
+    "checkedAt": "2026-09-11T06:37:40.721Z",
     "failing": 0,
     "failingUrls": [],
     "total": 15
+  },
+  "indexation": {
+    "bing": {
+      "note": "needs Bing Webmaster; IndexNow submission accepted but membership unverifiable",
+      "status": "unknown"
+    },
+    "brave": {
+      "note": "no webmaster tool and no submission route exists",
+      "status": "unknown"
+    },
+    "checkedAt": "2026-09-11T06:39:30.628Z",
+    "commonCrawl": {
+      "checked": [
+        "CC-MAIN-2026-34",
+        "CC-MAIN-2026-30",
+        "CC-MAIN-2026-25"
+      ],
+      "status": "absent"
+    },
+    "google": {
+      "note": "needs Search Console; no public probe exists",
+      "status": "unknown"
+    },
+    "softwareHeritage": {
+      "status": "present",
+      "swhid": "swh:1:snp:e844fab74cc615fd98733fa08c781feb61adb05e",
+      "taskStatus": "succeeded"
+    },
+    "wayback": {
+      "status": "present",
+      "timestamp": "20260910094241",
+      "url": "http://web.archive.org/web/20260910094241/https://jairaj1234-dancer.github.io/nighantu/"
+    }
   },
   "indexnow": {
     "hashes": {
@@ -949,7 +986,7 @@
   "products": {
     "broken": 0,
     "brokenHandles": [],
-    "checkedAt": "2026-09-10T06:38:21.720Z",
+    "checkedAt": "2026-09-11T06:37:48.353Z",
     "total": 21
   },
   "search": {},
@@ -959,12 +996,76 @@
       "firstSeen": "2026-09-09T12:28:38.391Z",
       "lastSeen": "2026-09-09T12:28:38.391Z"
     },
+    "community:digest:2026-09-11": {
+      "count": 1,
+      "firstSeen": "2026-09-11T06:39:30.628Z",
+      "lastSeen": "2026-09-11T06:39:30.628Z"
+    },
     "competitor:changed:ajengineer:c8f0221ba8baca99": {
       "count": 1,
       "firstSeen": "2026-09-09T12:28:19.438Z",
       "lastSeen": "2026-09-09T12:28:19.438Z"
+    },
+    "indexation:wayback:present": {
+      "count": 1,
+      "firstSeen": "2026-09-11T06:39:30.628Z",
+      "lastSeen": "2026-09-11T06:39:30.628Z"
+    },
+    "threads:2026-09-11": {
+      "count": 1,
+      "firstSeen": "2026-09-11T06:39:30.628Z",
+      "lastSeen": "2026-09-11T06:39:30.628Z"
     }
   },
-  "updatedAt": "2026-09-10T10:00:24.638Z",
+  "threads": {
+    "checkedAt": "2026-09-11T06:39:09.183Z",
+    "seenIds": [
+      "t5_2skvk",
+      "t5_jtmsek",
+      "t5_3l2wvb",
+      "t3_1wcfvzz",
+      "t3_1wbhy91",
+      "t3_1wbewk7",
+      "t3_1wais55",
+      "t3_1w9p7ga",
+      "t3_1w9i4ao",
+      "t3_1wd7g8g",
+      "t3_1wd7eo8",
+      "t3_1wd3b0p",
+      "t3_1wd2qid",
+      "t3_1wd0hyu",
+      "t3_1wcymos",
+      "t3_1wcv27f",
+      "t3_1wcsavx",
+      "t3_1wcpew1",
+      "t3_1wcm9ys",
+      "t3_1wcjako",
+      "t3_1wcil3q",
+      "t3_1wcgum3",
+      "t3_1wcgg0g",
+      "t3_1wcfs18",
+      "t3_1wbswrj",
+      "t3_1wbrhtw",
+      "t3_1wbov2d",
+      "t3_1wbmy32",
+      "t3_1wbl5fw",
+      "t3_1wbip06",
+      "t3_1wbgjod",
+      "t3_1wbasqa",
+      "t3_1wb5g5m",
+      "t3_1wb4ky1"
+    ]
+  },
+  "threadStats": {
+    "blocked": 11,
+    "checkedAt": "2026-09-11T06:39:09.183Z",
+    "fresh": 34,
+    "note": "Reddit blocks empty or generic user agents; lib/fetch.mjs sends a descriptive one.",
+    "qualified": 1,
+    "requests": 13,
+    "seen": 34,
+    "surfaced": 1
+  },
+  "updatedAt": "2026-09-11T06:39:34.957Z",
   "version": 1
 }
