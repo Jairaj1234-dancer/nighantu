@@ -29,7 +29,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Rasayanas-Rejuvenatives/Amalaka-R
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| **Rasa** (Taste) | [Amla](/nighantu/herb/amla/), Madhura | Primary taste |
+| **Rasa** (Taste) | Amla, Madhura | Primary taste |
 | **Guna** (Quality) | Snigdha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |

@@ -29,10 +29,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Lakuca/meta-analysis.md"
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| **Rasa** (Taste) | [Amla](/nighantu/herb/amla/), Kashaya | Primary taste |
+| **Rasa** (Taste) | Amla, Kashaya | Primary taste |
 | **Guna** (Quality) | Guru | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
-| **Vipaka** (Post-digestive) | [Amla](/nighantu/herb/amla/) | Post-digestive effect |
+| **Vipaka** (Post-digestive) | Amla | Post-digestive effect |
 
 ## What is it made of?
 

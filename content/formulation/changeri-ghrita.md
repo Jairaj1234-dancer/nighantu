@@ -29,10 +29,10 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Changeri-
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| **Rasa** (Taste) | [Amla](/nighantu/herb/amla/), Kashaya | Primary taste |
+| **Rasa** (Taste) | Amla, Kashaya | Primary taste |
 | **Guna** (Quality) | Laghu, Snigdha | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
-| **Vipaka** (Post-digestive) | [Amla](/nighantu/herb/amla/) | Post-digestive effect |
+| **Vipaka** (Post-digestive) | Amla | Post-digestive effect |
 
 ## What is it made of?
 

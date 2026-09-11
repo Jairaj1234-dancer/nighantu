@@ -2951,7 +2951,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| **Rasa** (Taste) | Kashaya, [Amla](/nighantu/herb/amla/) | Primary taste |
+| **Rasa** (Taste) | Kashaya, Amla | Primary taste |
 | **Guna** (Quality) | Laghu | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |

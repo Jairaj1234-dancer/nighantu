@@ -29,7 +29,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Somavalli/meta-analysi
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| **Rasa** (Taste) | [Amla](/nighantu/herb/amla/) | Primary taste |
+| **Rasa** (Taste) | Amla | Primary taste |
 | **Guna** (Quality) | Laghu | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |

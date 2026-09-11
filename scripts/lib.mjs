@@ -168,8 +168,22 @@ export function isStrippedSection(h) {
  * unnamed "substance".
  */
 /** Genus species, with a real specific epithet. Rejects "Shelf stability". */
-const LOOKS_BINOMIAL = (v) => /^[A-Z][a-z]{2,}\s+[a-z][a-z-]{2,}\b/.test(v.trim())
-  && !/^(Shelf|Quality|Standard|Primary|Total|Loss|Active|Marker|Analytical|Storage|Polyherbal|Compound|Mineral)\b/i.test(v.trim());
+// "Genus species" is a weak shape: plenty of English noun phrases match it, and the
+// ones that reach here come from citation text, so they are journal titles. Five did
+// exactly that, and "Marine drugs" shipped as the botanical name of Shankha Bhasma.
+// The reliable discriminator is the second word: a species epithet is never a
+// discipline or publishing noun. Checking both positions catches the whole class
+// rather than adding another first word to a list that keeps losing.
+const NOT_A_GENUS = /^(shelf|quality|standard|primary|total|loss|active|marker|analytical|storage|polyherbal|compound|mineral|marine|chinese|indian|japanese|korean|european|american|african|western|eastern|clinical|pharmacological|cardiovascular|toxicology|molecular|cellular|environmental|traditional|complementary|integrative|natural|current|recent|modern|advanced|applied|general|international|frontiers|evidence)$/i;
+
+const NOT_AN_EPITHET = /^(drugs?|medicine|medicines|research|reports?|reviews?|letters?|journal|journals|sciences?|science|international|toxicology|pharmacology|pharmacy|therapeutics|nutrition|nutrients|molecules|biology|chemistry|health|care|today|update|updates|perspectives?|advances?|methods?|trials?|studies|study|analysis|data|profile|activity|effects?|properties|uses|based|derived|induced|mediated|related|associated|containing|including)$/i;
+
+const LOOKS_BINOMIAL = (v) => {
+  const t = v.trim();
+  const m = /^([A-Z][a-z]{2,})\s+([a-z][a-z-]{2,})\b/.exec(t);
+  if (!m) return false;
+  return !NOT_A_GENUS.test(m[1]) && !NOT_AN_EPITHET.test(m[2]);
+};
 
 /**
  * Normalise a stated botanical name, or return '' if it is not one.
@@ -254,4 +268,28 @@ export function dropUnresolvedListItems(text, resolver) {
 export function yamlValue(v) {
   if (Array.isArray(v)) return `[${v.map((x) => JSON.stringify(String(x))).join(', ')}]`;
   return JSON.stringify(String(v ?? ''));
+}
+
+/**
+ * Un-link Ayurvedic property values inside the Dravyaguna and Dosha tables.
+ *
+ * Several rasa, guna and vipaka names collide with herb names, and the wikilink
+ * resolver cannot tell them apart because in the vault they are the same string.
+ * "Amla" is the sour taste; it is also Emblica officinalis. The resolver linked the
+ * taste to the fruit on 27 rows across 17 pages, so a reader clicking "sour" landed
+ * on Indian gooseberry, and the same string was being read as a herb by anything
+ * parsing the table.
+ *
+ * The property tables are the one place these words are guaranteed to be properties
+ * rather than drugs, which makes the fix safe to scope to those rows only. Everywhere
+ * else on the page, a link to Amla is probably correct and is left alone.
+ */
+const PROPERTY_ROW = /^\|\s*\*\*(Rasa|Guna|Virya|Vipaka|Prabhava|Vata|Pitta|Kapha)\*\*/i;
+
+export function delinkPropertyRows(body) {
+  return body.split('\n').map((line) => {
+    if (!PROPERTY_ROW.test(line)) return line;
+    // Keep the label, drop the target.
+    return line.replace(/\[([^\]]+)\]\([^)]*\)/g, '$1');
+  }).join('\n');
 }

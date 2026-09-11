@@ -29,7 +29,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Matulunga-Rasa/meta-analysis.
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| **Rasa** (Taste) | [Amla](/nighantu/herb/amla/) | Primary taste |
+| **Rasa** (Taste) | Amla | Primary taste |
 | **Guna** (Quality) | Laghu, Tikshna | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |

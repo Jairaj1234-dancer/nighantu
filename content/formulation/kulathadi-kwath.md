@@ -32,7 +32,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Kulathadi-Kw
 | **Rasa** (Taste) | Kashaya | Primary taste |
 | **Guna** (Quality) | Laghu, Tikshna | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
-| **Vipaka** (Post-digestive) | [Amla](/nighantu/herb/amla/) | Post-digestive effect |
+| **Vipaka** (Post-digestive) | Amla | Post-digestive effect |
 
 ## What is it made of?
 

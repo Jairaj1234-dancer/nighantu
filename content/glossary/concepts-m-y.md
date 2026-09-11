@@ -523,10 +523,10 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 62 entries drawn fr
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| **Rasa** (Taste) | [Amla](/nighantu/herb/amla/) | Primary taste |
+| **Rasa** (Taste) | Amla | Primary taste |
 | **Guna** (Quality) | Snigdha, Tikshna | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
-| **Vipaka** (Post-digestive) | [Amla](/nighantu/herb/amla/) | Post-digestive effect |
+| **Vipaka** (Post-digestive) | Amla | Post-digestive effect |
 
 #### What is it made of?
 
@@ -1582,7 +1582,7 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| **Rasa** (Taste) | Lavana, [Amla](/nighantu/herb/amla/) | Primary taste |
+| **Rasa** (Taste) | Lavana, Amla | Primary taste |
 | **Guna** (Quality) | Laghu, Tikshna | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
