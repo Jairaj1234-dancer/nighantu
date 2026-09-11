@@ -29,10 +29,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kankataka/meta-analysis.
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| **Rasa** (Taste) | [Amla](/nighantu/herb/amla/) | Primary taste |
+| **Rasa** (Taste) | Amla | Primary taste |
 | **Guna** (Quality) | Laghu | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
-| **Vipaka** (Post-digestive) | [Amla](/nighantu/herb/amla/) | Post-digestive effect |
+| **Vipaka** (Post-digestive) | Amla | Post-digestive effect |
 
 ## What is it made of?
 

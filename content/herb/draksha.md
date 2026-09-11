@@ -29,7 +29,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Draksha/meta-analysis.md"
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| **Rasa** (Taste) | Madhura, [Amla](/nighantu/herb/amla/) | Primary taste |
+| **Rasa** (Taste) | Madhura, Amla | Primary taste |
 | **Guna** (Quality) | Guru, Snigdha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |

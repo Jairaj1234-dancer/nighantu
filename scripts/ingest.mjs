@@ -10,6 +10,7 @@ import {
   walk, isDenied, identityOf, slugify, parseFrontmatter, splitSections,
   parseFacts, stripMarkup, dropLines, rewriteHeading, isLifted, isStrippedSection,
   wordCount, resolveWikilinks, dropUnresolvedListItems, redact, inferBotanical,
+  delinkPropertyRows,
   normaliseBinomial, stripSubsections, yamlValue,
 } from './lib.mjs';
 import { composeAnswer } from './answer.mjs';
@@ -272,7 +273,7 @@ function transform(p) {
 
   let raw = bodyParts.join('\n\n');
   if (p.kind === 'hub') raw = dropUnresolvedListItems(raw, resolver);
-  const body = redact(resolveWikilinks(raw, resolver));
+  const body = delinkPropertyRows(redact(resolveWikilinks(raw, resolver)));
   if (productHints.length) PRODUCT_HINTS.set(p.slug, productHints);
 
   return { body, answer: redact(answer), sources, productHints };

@@ -29,10 +29,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Karmaranga/meta-analysis.md"
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| **Rasa** (Taste) | [Amla](/nighantu/herb/amla/), Madhura | Primary taste |
+| **Rasa** (Taste) | Amla, Madhura | Primary taste |
 | **Guna** (Quality) | Laghu | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
-| **Vipaka** (Post-digestive) | [Amla](/nighantu/herb/amla/) | Post-digestive effect |
+| **Vipaka** (Post-digestive) | Amla | Post-digestive effect |
 
 ## What is it made of?
 

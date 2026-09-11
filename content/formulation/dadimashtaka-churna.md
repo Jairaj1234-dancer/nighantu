@@ -29,7 +29,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Dadimashtaka-Chur
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| **Rasa** (Taste) | Madhura, Kashaya, [Amla](/nighantu/herb/amla/) | Primary taste |
+| **Rasa** (Taste) | Madhura, Kashaya, Amla | Primary taste |
 | **Guna** (Quality) | Laghu | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
