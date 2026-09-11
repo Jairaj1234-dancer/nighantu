@@ -2,7 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { get } from '../lib/fetch.mjs';
 import { walk, parseFrontmatter } from '../lib.mjs';
-import { FEED_QUERIES, FEED_SUBS, THREAD_TARGET } from './config.mjs';
+import { FEED_QUERIES, FEED_SUBS, THREAD_TARGET, BASE } from './config.mjs';
 
 export const id = 'threads';
 export const label = 'Answerable threads';
@@ -61,7 +61,7 @@ function loadPages() {
         title: data.title ?? slug,
         aliases: Array.isArray(data.aliases) ? data.aliases : [],
         botanical: data.botanical ?? '',
-        url: `/nighantu/${kind === 'reference' ? 'reference' : kind}/${slug}/`,
+        url: `${BASE}/${kind === 'reference' ? 'reference' : kind}/${slug}/`,
         kind,
       });
     }
@@ -73,7 +73,7 @@ function loadPages() {
       const title = /^title:\s*"(.*)"$/m.exec(raw)?.[1] ?? slug;
       pages.push({
         title,
-        url: slug === 'shirodhara' ? '/nighantu/shirodhara/' : `/nighantu/shirodhara/${slug}/`,
+        url: slug === 'shirodhara' ? `${BASE}/shirodhara/` : `${BASE}/shirodhara/${slug}/`,
         kind: 'guide',
       });
     }
