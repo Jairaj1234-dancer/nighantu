@@ -1,0 +1,74 @@
+name: Safety refresh
+
+# Re-checks every published safety record against the sources it cites.
+#
+# Safety sources move without anyone touching this repository. LiverTox revises
+# entries, the FDA issues and withdraws warnings, WHO reorganises IRIS, and PMC
+# articles get retracted. Nothing else in the pipeline would notice: the audit checks
+# that a record is well formed, not that the world still agrees with it.
+#
+# This does not re-judge the claims, which needs the agent panel. It answers the
+# cheap question that catches most decay: does every cited source still exist, still
+# resolve to an allowlisted host, and still say what it said last time.
+
+on:
+  schedule:
+    # 04:17 UTC on the 8th of Jan, Apr, Jul and Oct. Quarterly is the right cadence:
+    # these sources change on the order of months, and a daily check would be noise
+    # that gets muted, which is worse than no check.
+    - cron: '17 4 8 1,4,7,10 *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Report findings without opening issues'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  issues: write
+
+# Shares the monitors group deliberately: both write data/monitor-state.json, and two
+# concurrent writers would race and lose one side's findings.
+concurrency:
+  group: monitors
+  cancel-in-progress: false
+
+env:
+  ATLAS_SITE: https://jairaj1234-dancer.github.io
+  ATLAS_BASE: /nighantu
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+
+      - name: Re-check published safety sources
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            node scripts/safety-refresh.mjs --dry-run
+          else
+            node scripts/safety-refresh.mjs
+          fi
+
+      - name: Commit state
+        if: ${{ inputs.dry_run != true }}
+        run: |
+          git config user.name  "nighantu-monitor[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/monitor-state.json
+          if git diff --staged --quiet; then
+            echo "no state change"
+          else
+            git commit -m "Safety source re-check $(date -u +%Y-%m-%d)"
+            git pull --rebase --autostash origin main
+            git push
+          fi
