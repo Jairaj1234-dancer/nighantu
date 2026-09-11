@@ -30,6 +30,7 @@ export const GET: APIRoute = async () => {
     '',
     `- [Research index](${abs('/research/')}): every cited paper once, with PubMed ID and DOI, cross-referenced to the herbs it concerns. [JSON](${abs('/research.json')}) · [CSV](${abs('/research.csv')})`,
     `- [Dravyaguna](${abs('/dravyaguna/')}): rasa, guna, virya, vipaka and dosha effect as structured values against the classical vocabularies. [JSON](${abs('/dravyaguna.json')}) · [CSV](${abs('/dravyaguna.csv')})`,
+    `- [Constituents](${abs('/compounds/')}): the phytochemical co-occurrence graph, computed from the published pages so every weight is checkable. [JSON](${abs('/compounds.json')}) · [CSV](${abs('/compounds.csv')})`,
     `- [Verification ledger](${abs('/verification/')}): per-run counts, rejection reasons and worked examples. [JSON](${abs('/verification.json')})`,
     '',
   ];

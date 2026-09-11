@@ -14,6 +14,8 @@ public/research.csv
 public/dravyaguna.json
 public/dravyaguna.csv
 public/verification.json
+public/compounds.json
+public/compounds.csv
 
 # Full verification-run output: agent prose, record bodies and complete verdicts.
 # Kept locally as evidence, never published. scripts/slim-runs.mjs writes the
@@ -23,3 +25,4 @@ data/runs/raw/
 # Per-record working files for in-flight verification runs.
 data/runs/records/
 data/runs/feedback/
+data/runs/records3/
