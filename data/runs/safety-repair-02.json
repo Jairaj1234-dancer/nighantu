@@ -1,0 +1,281 @@
+{
+ "run": "safety-repair-02",
+ "date": "2026-09-11",
+ "scope": "The 25 records the first panel accepted, re-checked against ten rules derived from the defects the meta-judge actually found in that run.",
+ "outcome": "1 PUBLISHED",
+ "reason": "",
+ "summary": {
+  "examined": 25,
+  "publish": 1,
+  "held": 24,
+  "unsalvageable": 0,
+  "inconclusive": 0
+ },
+ "note": "Slimmed for publication. Full agent output, including record bodies and complete verdicts, is retained locally in data/runs/raw/ and is not published.",
+ "held": [
+  {
+   "slug": "abhraka-bhasma",
+   "reasons": [
+    "Rejected. All eight sources were fetched and read directly this session; four claims in the record do not match what the sources say, one of them inside the record's primary adverse finding.",
+    "Decisive defect: the ALT comparator is the low-dose arm (93.3 IU/L), not the vehicle control (96.9 +/- 6.51). Verified verbatim from Pandit et al. Table 7. Triglycerides (88.0) and uric acid (1.9) are correctly taken from the control column, which makes the ALT error an isolated transcription fault rather than a systematic offset, and confirms it is an error rather than a different reading of the table."
+   ],
+   "ruleViolations": [
+    "RULE 6 (spliced study arms) + unsupported claim: the record's central hepatotoxicity finding states ALT 'rose to 132.5 IU/L (medium dose) and 127.8 IU/L (high dose) versus 93.3 IU/L in vehicle control'. Pandit et al. Table 7 reads: I-Control (Vehicle) 96.9 +/- 6.51; II-KVB-LD 93.3 +/- 7.99; III-KVB-MD 132.5 +/- 17.75**; IV-KVB-HD 127.8 +/- 5.96**. 93.3 is the LOW-DOSE arm, not the vehicle control. The record presents one treated arm's value as the control comparator in the single most extractabl",
+    "RULE 1 / RULE 4 (dose-extrapolation basis fabricated rather than dropped): doseLimits.text states the rat low dose was derived 'using clinical-dose extrapolation with body surface area scaling'. Pandit et al. states only 'The highest therapeutic dose was extrapolated for rats, which was 22.5 mg/kg' and nowhere mentions body surface area. A methodological basis was invented inside the one field Rule 4 governs."
+   ]
+  },
+  {
+   "slug": "akika-pishti",
+   "reasons": [
+    "Verified against source, correct: gupta2022 does say \"Akik pishti (agate calcium)\" as one of six ingredients of a proprietary capsule and reports no elemental, toxicity, dose, pregnancy or lactation data for it. The repairer's removal of the 675 mg / one capsule twice daily figure and the product name is right on both rule 4 and rule 8 - the source calls that product \"a very effective anti-ulcerogenic herbal preparation\", so reproducing its dose would have carried an indication by implication. doseLimits now contains no bare mg figure and no animal dose.",
+    "Verified correct: Saper et al. (193 analysed of 230 requested; 20.7%, 95% CI 15.2-27.1%; 40.6% vs 17.1%, P=.007; \"All metal-containing products exceeded 1 or more standards for acceptable daily intake of toxic metals\") and all four of its stated limitations, which the record now carries. No product named Akik/Akika/agate pishti appears in Saper's product table, as the record states."
+   ],
+   "ruleViolations": [
+    "Rule 2 (attributing to a study a statement it did not make): adverseEffects[1] presents as a verbatim quotation, inside quotation marks, \"Ayurvedic lead poisoning produces greater hematopoietic toxicity than paint-removal poisoning.\" That sentence does not exist in Kales et al. I pulled the raw article text from PMC2538618: the Conclusions sentence reads \"Ayurvedic poisoning produces greater hematopoietic toxicity than paint-removal poisoning.\" (no word 'lead'), and the only sentence containing ",
+    "Rule 3 (a cited study's adverse findings must be reported): the heavyMetals section reports Bhalla and Pannu's medians, its label-disclosure figure and its conclusion, but omits the paper's central adverse results - \"All except one preparation had at least one metal with a concentration higher than FAO/WHO permissible limit, most prevalent being zinc (n = 35) and mercury (n = 29)\" and \"About 73.8% formulations contained above-limit levels of mercury, arsenic, or lead.\" (Discussion: \"The metal co"
+   ]
+  },
+  {
+   "slug": "ashwagandha",
+   "reasons": [
+    "REJECT. The repairer's headline change - removing 'three deaths from acute-on-chronic liver failure and one case requiring emergency liver transplantation' as a fabrication - is itself the most serious defect in the record. Direct re-fetch of LiverTox NBK548536 confirms the source states '3 having acute-on-chronic liver failure and dying' for its 8-case Indian series and describes a 41-year-old woman 'undergoing successful emergency liver transplantation'. The original claim was substantively supported; it was deleted and replaced with the false statement that LiverTox gives no such count.",
+    "The record carries no liver-function monitoring recommendation despite its own cited review stating 'The reports necessitate monitoring liver function while taking Ashwagandha', and it inserts text telling the reader that no monitoring schedule should be inferred. For a substance the record itself grades LiverTox likelihood B with fatal outcomes, omitting monitoring while discouraging its inference is the single most consequential failure on this page."
+   ],
+   "ruleViolations": [
+    "Rule 1 (selective quotation / dropped source directive): PMC13436050 states verbatim 'The reports necessitate monitoring liver function while taking Ashwagandha. Additional clinical trials are needed to determine the causality and safe dose levels.' The record carries no liver-function monitoring recommendation anywhere. It goes further and inserts, in the hepatic-impairment contraindication, 'LiverTox does not state a specific monitoring schedule and none should be inferred' - language that dis",
+    "Rule 3 (cited study reports adverse findings that the record does not report): LiverTox NBK548536 states of an 8-case Indian series (3 hospitals, 2019-2022, 6 men and 2 women, ages 31 to 75): '3 having acute-on-chronic liver failure and dying, the remaining resolving although often after prolonged cholestasis.' It separately describes a '41 year old woman developed fatigue 2 months after starting ashwagandha ... undergoing successful emergency liver transplantation.' The record reports neither t"
+   ]
+  },
+  {
+   "slug": "bhanga",
+   "reasons": [
+    "REJECT. Verified against all five sources by direct fetch; five defects survive the repair, two of them confirmed misquotations of the record's own sources.",
+    "Rule 1 - truncated quotation presented as verbatim. LactMed reads '...in a dose-dependent (i.e., number of reported joints per week) manner at 1 year of age, especially among those who reported smoking marijuana on more than 15 days per month DURING THE FIRST MONTH OF LACTATION.' The record closes its quotation mark after 'per month', deleting both the exposure window and the dose metric while keeping quotation marks. The repairer specifically claimed to have fixed this entry by restoring its dose gradient; it restored half of it."
+   ],
+   "ruleViolations": [
+    "Rule 1 - Selective quotation: LactMed motor-development sentence truncated mid-quote, dropping 'during the first month of lactation' and the 'number of reported joints per week' dose metric while retaining quotation marks",
+    "Rule 1 - Selective quotation: LactMed's 'in nonpregnant, nonlactating women' population qualifier deleted from the luteinizing hormone / prolactin finding presented in the lactation field"
+   ]
+  },
+  {
+   "slug": "eranda-moola",
+   "reasons": [
+    "REJECT. The record's central negative claim is false and I verified it is false. It states three times that no root-specific reproductive evidence exists: insufficientReason ('What does exist is preclinical: one root-specific rat toxicology study ... one in-vitro study ... a review ... and a 2026 narrative review'), the Pregnancy contraindication note ('No reproductive, embryo-fetal or developmental study of castor root exists in the permitted source set'), and pregnancy.note ('There is no reproductive or developmental study of castor root in any permitted source'). PubMed is a permitted host ",
+    "MISSING WELL-DOCUMENTED HAZARD 1 - male reproductive toxicity from castor ROOT, absent entirely from the record. PMID 21288636 (Nithya RS et al., J Hazard Mater 2011;187(1-3):386-92, https://pubmed.ncbi.nlm.nih.gov/21288636/), titled 'Effects on spermatogenesis in swiss mice of a protein isolated from the roots of Ricinus communis (Linn.)': a 62 kDa protein from 50% ethanolic ROOT extract, 25 mg/kg body weight/day in male Swiss mice, gave significantly decreased sperm motility and count and 'The fertility index of the treated groups was reduced by 100%', with decreased serum testosterone and d"
+   ],
+   "ruleViolations": [
+    "Rule 1 (selective quotation is misrepresentation): the reproductive section is built from the single source that found nothing while root-specific reproductive toxicology is omitted, and the EMA source's own caveat that 'adequate tests on genotoxicity and carcinogenicity have not been performed' is not carried in the record body.",
+    "Rule 3 (documented adverse findings must be reported): root-specific adverse findings available on a permitted host are absent - 100% reduction of fertility index and suppressed testosterone in male mice from a root-derived protein (PMID 21288636), reversible antifertility in male rats from root extract (PMID 12748988), and up to 245% augmentation of contraction in pregnant rabbit uterine tissue from root bark (PMID 22652367) - while a 'no adverse findings' study is carried prominently."
+   ]
+  },
+  {
+   "slug": "eranda-patra",
+   "reasons": [
+    "MISQUOTED SOURCE FIGURE. The record states the Nemudzivhadi 2014 24 h LC50 for the acetone extract as 544.6 ug/mL. Table 1 of that paper reads 544.5 ug/mL. Verified on a targeted re-read of the source. The magnitude is trivial; the failure is not. This record is written to be extracted verbatim by AI systems, and every other figure in it (Abbas human RBC 28.22/15.56/34.20, bovine 26.58/13.32/41.40, brine-shrimp 1.49/2.12/0.67 and 345.42/5763.11/641.62, the 0.00-11.030 CI, Ames TA98 2018/1975/2183 and TA100 2939/3172/3365, the 50 ug/plate dose, positive controls 3267+/-278 and 4720+/-346, the 7",
+    "FALSE CLAIM ABOUT A SOURCE'S COVERAGE. insufficientReason asserts that the MSK About Herbs Castor Oil monograph 'makes no mention of the leaf'. It does mention the leaf: its reference list includes a study of antiviral activity of Ricinus communis leaf extracts. The record applied exactly the right standard to Worbs ('the review's only mentions of leaves or foliage are bibliographic') and then applied a looser and inaccurate blanket to MSK. Rewrite it the same way it wrote the Worbs sentence, or drop the sentence."
+   ],
+   "ruleViolations": [
+    "Rule 1 — selective quotation: Mtendwa 2026 Table 2 assigns alpha-thujone to \"Leaves, seeds\". The record reports it as \"tabulates alpha-thujone under leaves\", dropping the seed co-attribution. In a record whose entire discipline is part-specificity (it correctly refuses to transfer seed-oil data to the leaf everywhere else), narrowing a two-part table row to the leaf alone is the same error in the opposite direction.",
+    "Rule 9 — documented substance-specific hazard with no contraindication of its own: contraindications is empty and interactions is empty, while the record itself documents, for the leaf, (a) ricinine present in all parts of the plant, NOT inactivated by ordinary heating or decoction, causing seizures in mice at 20 mg/kg, (b) alpha-thujone in leaf essential oil flagged as a toxicity concern, (c) ricin content unquantified rather than zero, and (d) haemolysis of human erythrocytes by leaf extract, "
+   ]
+  },
+  {
+   "slug": "eranda",
+   "reasons": [
+    "Verified against primary sources first. I extracted the EMA HMPC PDF (EMA/HMPC/572974/2014) locally and read sections 4.1-4.9 and 5.1-5.3 in full, and fetched MSKCC, MedlinePlus 002768, StatPearls NBK441948, Worbs 2011 on PMC, and the CIR/DeMaria/Sanchez-Ramos abstracts via NCBI eutils. The great majority of the record is accurate and often verbatim: EMA posology (2-5 g / 2.1-5.3 ml single dose, 2-3 times a week, under-18 not recommended, >1 week requires medical supervision), all seven EMA 4.3 contraindications, all four EMA 4.5 interactions, EMA 4.8 and 4.9, EMA 5.3 rat gavage 2 ml on gestat",
+    "RULE 3 - documented harm understated, and on a demonstrably false premise. Worbs et al. state the parenteral-injection patient was discharged after 11 days 'requiring dialysis for an additional 1.5 months'. The repairer removed that figure claiming the source 'supports only dialysis continuing after discharge'. It does not; the 1.5 months is in the text. The record now reads 'with dialysis continuing further', which materially softens the documented severity of the only case in the record involving anuric renal failure."
+   ],
+   "ruleViolations": [
+    "Rule 1 - selective quotation: MSK's 'perforation' dropped from a four-item avoid list whose other three items were imported, and MSK's 'rhinitis' dropped from the castor-bean-dust allergy entry on the false claim that MSK does not specify it",
+    "Rule 2 - unsupported study characteristic: CIR's two negative ocular-toxicity studies described as 'animal' studies, a design the CIR abstract never states, softening the finding beside two human studies showing corneal epithelial cell death"
+   ]
+  },
+  {
+   "slug": "godanti-bhasma",
+   "reasons": [
+    "REJECTED. Two defects survive, both in the record's handling of Liu et al. 2019 (PMC6421027), which I fetched and read in full rather than accepting the repairer's account.",
+    "PRIMARY DEFECT (Rule 2): the \"Use in children\" contraindication attributes to Liu a recommendation to monitor \"children and pregnant women\". Liu 2019 does not mention pregnancy, pregnant women, maternal exposure or women at all — verified across two independent fetches of the full text. The paper's entire children-related content is the two-sentence section 6.5 quoted in ruleViolations, which is a call for future research, not a monitoring recommendation. The claim is unsupported by its cited source and must be either deleted or rewritten to say only what Liu says. Note that the pregnancy grad"
+   ],
+   "ruleViolations": [
+    "RULE 2 — Finding attributed to a source that does not contain it. contraindications[\"Use in children\"].note states: \"Liu et al. specifically recommend monitoring of vulnerable populations including children and pregnant women.\" I fetched PMC6421027 twice and confirmed the words pregnant, pregnancy, maternal and women appear nowhere in the paper. Liu makes no pregnancy recommendation of any kind. Section 6.5 in full is only: \"Development and childhood are the vulnerable period to metal toxicity. ",
+    "RULE 1 — Monitoring statement in a cited source dropped from the record. Liu 2019 section 4.1 states \"The patient surveillance and biomarker detection are desirable when taking Bhasmas. The personalized medication is important to balance benefits and risks.\" Liu is cited three times in this record (heavyMetals, \"Use in children\", and the general clinician contraindication) but this surveillance/biomarker sentence is carried nowhere. The record's only monitoring content is the lead-specific scree"
+   ]
+  },
+  {
+   "slug": "gomeda-bhasma",
+   "reasons": [
+    "REJECT on one load-bearing unsupportable claim. insufficientReason asserts: 'Each of the product-survey sources cited below was checked against its own sample list and none of them tested a product named Gomeda, Gomed, hessonite, garnet or zircon.' I fetched the sources: this check is impossible for at least two of them. Bhalla & Pannu 2022 publishes NO product names — the 43 samples carry numerical identifiers only, grouped by therapeutic category, deliberately blinded, with no names in text, tables or supplement. Saper 2008 names only the 40 metal-positive products (Table 3); of the other 15",
+    "This is not a cosmetic line. It is the record's stated warrant for the entire class-level construction, converting 'I found nothing on this product' into 'I confirmed this product was never tested.' The audit standard is that every claim be clearly supported by its cited source; this one is contradicted by the cited sources themselves."
+   ],
+   "ruleViolations": [
+    "Rule 2 (mirror-image violation: attributing to a study a determination it did not make) and the general requirement that every claim be clearly supported by its cited source — insufficientReason states that each product-survey source 'was checked against its own sample list and none of them tested a product named Gomeda, Gomed, hessonite, garnet or zircon'. Bhalla & Pannu 2022 publishes no product names whatsoever (samples are numerically identified and blinded), and Saper 2008 publishes names o"
+   ]
+  },
+  {
+   "slug": "hajrul-yahood-bhasma",
+   "reasons": [
+    "All ten sources were fetched and read this session; all hosts are on the permitted list (pmc.ncbi.nlm.nih.gov, pubmed.ncbi.nlm.nih.gov, fda.gov, nccih.nih.gov).",
+    "DECISIVE: Erickson 2011 (PMC3925635) is the only permitted source that names this ingredient in a human study, and it reports an adverse outcome the record deletes. Verbatim from the paper: \"Average renal stone burden increased rather than decreased on Cystone.\" Also \"mean total stone burden per kidney increased over this time period as assessed by the volumetric scoring system (93 to 114 mm3; P=0.07)\" and \"8 kidneys had increased stone material, 8 kidneys were unchanged, and only 2 kidneys had decreased stone material.\" The record reproduces the paper's reassuring safety sentence while omitti"
+   ],
+   "ruleViolations": [
+    "Rule 3 - cited study's adverse findings omitted: Erickson 2011 states \"Average renal stone burden increased rather than decreased on Cystone\" (93 to 114 mm3, P=0.07; Agatston 108 to 136 AU, P=0.10; 8 kidneys with increased stone material, 8 unchanged, only 2 decreased). The record quotes that paper's exculpatory sentence (\"No patients described any side effects attributable to Cystone\") and carries none of its adverse outcome. The repairer's change log confirms the sentence was deleted on purpos",
+    "Rule 1 - source caveat dropped/reversed (Hardin 2023): the record says the pancytopenia and small-fibre polyneuropathy \"resolved or improved on stopping the supplements.\" The paper says pancytopenia resolved but \"At 135 days follow-up, the patient reported that her weakness had improved but her distal extremity sensation remained diminished and unchanged,\" and blood lead did not fall (26.4 -> 27.7 -> 28 ug/dL) while arsenic cleared. Persistence of the sensory deficit and of the lead burden is th"
+   ]
+  },
+  {
+   "slug": "jayapala",
+   "reasons": [
+    "Verified all eight cited sources by fetching them; two record statements are contradicted by the source they cite, so the record cannot publish as written.",
+    "Fabricated finding: the claim that the 100 mg/kg untreated purgative group 'ate significantly less than the other groups' and that the authors attributed this to gastrointestinal irritation is directly denied by PMC12386474, which reports no significant difference in feed or water consumption in any group. The repairer's changelog explicitly claims to have ADDED this non-existent finding."
+   ],
+   "ruleViolations": [
+    "RULE 2 - Attributes to PMC12386474 a finding it did not make. Adverse effect #1 states the untreated 100 mg/kg purgative group 'ate significantly less than the other groups, which the authors attributed to gastrointestinal irritation.' The source states the opposite: 'Before and after the experiment, there was no significant difference in the amount of water and feed consumed by any of the groups.' Both the finding and the authorial attribution are fabricated.",
+    "RULE 3 - Reports the exculpatory half of a source sentence and drops the abnormal result. Adverse effect #3 states 'Haematology, serum biochemistry (including AST, ALT, ALP, bilirubin, BUN) and gross organ examination were not significantly different from controls.' PMC12386474 s2.2.2 reads: 'Most of the rats given CB and CA powders did not show a significant difference from the control group in any of the hematological parameters...except for platelets (PLT), which showed a statistically signif"
+   ]
+  },
+  {
+   "slug": "kaharuba-pishti",
+   "reasons": [
+    "Fetched and read all seven cited sources; every URL is on a permitted host.",
+    "BLOCKING — misquoted primary-source number: record states Joshi et al. report 'total bacterial count 26-28 cfu/ml'. Table 11 of the paper reports 20-28 cfu/ml."
+   ],
+   "ruleViolations": [
+    "Rule 1 (selective quotation): the FDA entry presents its symptom list as the effects 'named by FDA' but omits vomiting and 'dizziness or a spinning sensation', and omits FDA's statement that 'large acute ingestions over short periods of time can be life-threatening' — the page's most acute hazard sentence. The repairer's changelog justifies the removal by asserting dizziness does not appear on the FDA page; it does.",
+    "Rule 1 (selective quotation): the heavyMetals field states Kahrva pishti 'was one of six components taken together' in Narula et al., omitting that the patient took twelve concurrent preparations for the same eight months (Drakshavleha 5 g BD, Rakta prasadak hima, a Kanchnar/Yashtimadhu/Gomutra kwatha, Lavanbhaskar churna + Sajji kshara, Kanthsudharak vati, Tab cytocruel AT in addition to the six metal/mineral items). Understating the co-administered load weakens the confounding caveat the passa"
+   ]
+  },
+  {
+   "slug": "kanmad-bhasma",
+   "reasons": [
+    "Verified against source: Philips 2018 (PMC6040517) fully checks out - 54-year-old man, unlabelled 'Dahanabhasma', ~350 g weekly for two weeks, bilirubin 28.8/19.6, AST 228, ALT 302, INR 2.7, RUCAM 8 'probable', biopsy necrosis/cholangitis/cholestasis/bridging fibrosis, the full ICP-OES panel (As 0.25, Ba 8.25, Cr 2.85, Pb 0.73, Cd 0.083, V 0.47, Tl 0.13 mg/kg), death from multiple organ failure during transplant workup, the verbatim public-health conclusion, and the 'undetected herbal components' limitation. Rule 3 satisfied; the indication (dyspepsia) is correctly stripped per Rule 8.",
+    "Verified against source: Saper 2004 (PubMed efetch, PMID 15598918) exact - 14/70 (20%), lead n=13 median 40 ug/g range 5-37,000, mercury n=6 median 20,225 range 28-104,000, arsenic n=6 median 430 range 37-8,130, and the regulatory-standard statement. The clarification that medians are among detected products is correct."
+   ],
+   "ruleViolations": [
+    "Rule 7 - Animal-derived source hazard raised and then dropped. The heavyMetals field asserts, citing Liu 2019, that bhasmas may be prepared with 'animal-based products such as horns, shells, feathers, milk and urine' and that animal-derived source material 'cannot be excluded here', but the record carries no biological-source hazard at all: no cervid/TSE prion consideration for horn- or antler-derived material, no statement that prions are not reliably inactivated by ordinary heating (directly m"
+   ]
+  },
+  {
+   "slug": "kataka",
+   "reasons": [
+    "OMITTED ADVERSE FINDING FROM ITS OWN CITED SOURCE (decisive). The 2014 review (sp-pr2014, PMC3931202) states verbatim: 'The total alkaloid fraction isolated from the seeds of Strychnos potatorum when administered in mice and rats at the doses of 70-100 mg/kg, intraperitoneally (i.p.) produced restlessness, irritability and tremors followed by convulsions of tonic type all over the body and hypotensive action.' I fetched and confirmed this sentence. It appears nowhere in the record. This is species-specific, seed-specific, dose-specified CNS convulsant toxicity in two rodent species, and it is ",
+    "RECORD AFFIRMATIVELY CONTRADICTS ITS SOURCE. contraindications[2] states 'No case of central nervous system toxicity from Strychnos potatorum was located.' Its own cited review documents tonic convulsions from this species' seed alkaloid fraction. adverseEffects[2] compounds this: 'Toxicological data on brucine and strychnine in the literature derive from Strychnos nux-vomica and cannot be transferred to this species' — asserting no species-specific alkaloid toxicity exists when the same review reports exactly that. A reassuring negative that the cited source disproves is the most extractable "
+   ],
+   "ruleViolations": [
+    "Rule 1 (selective quotation is misrepresentation): the 2014 review's convulsion/hypotension finding for this species' seed alkaloid fraction is dropped, while the same review's exculpatory toxicity paragraph is carried and labelled 'quoted in full'.",
+    "Rule 3 (if a cited study reports adverse findings, the record must report them): the cited review documents restlessness, irritability, tremors, tonic convulsions and hypotensive action at 70-100 mg/kg i.p. in mice and rats; the record reports none of it and states no CNS toxicity was located."
+   ]
+  },
+  {
+   "slug": "mrigashringa-bhasma",
+   "reasons": [
+    "VERDICT: reject. Most of this record is genuinely good work and the repairer fixed the large structural gaps, but three source-fidelity defects survive and one of them directly contradicts its cited paper. I would not stake the site's credibility on the Angers sentence as written.",
+    "PRIMARY: the Angers 2009 method claim is false as written. Direct Western blot, ELISA and IHC all FAILED to detect PrPSc in antler velvet from 14 CWD-affected elk; detection came only from serial PMCA and transgenic-mouse bioassay. Listing Western blot as a detection method both misstates the paper and suppresses the paper's own caveat that prion levels were below direct-detection limits. Fix: 'detected CWD prions in antler velvet of naturally CWD-affected elk using CWD-susceptible transgenic mice and serial protein misfolding cyclic amplification, after direct Western blot, ELISA and immunohi"
+   ],
+   "ruleViolations": [
+    "RULE 1 (selective quotation / caveat inversion) - Angers 2009 (PMC2687044). The record states: 'Angers and colleagues detected CWD prions in antler velvet from naturally CWD-affected elk using transgenic mouse bioassay, Western blot and protein misfolding cyclic amplification.' The paper states the opposite about Western blot: 'When Western blot, ELISA, and immunohistochemical analyses failed to detect PrPSc in antler velvet samples from 14 CWD-affected elk, including the 4 samples analyzed by b",
+    "RULE 1 (limitations must be carried, and not carried selectively) - Saper 2008 (PMC2755247). The record writes 'Saper's stated limitations are that...' and then lists three of the paper's five. The three listed are verbatim-accurate. Omitted: (a) 'Limitations of our study include potential misclassification of the product's country of manufacture and rasa shastra status'; (b) the generalizability limitation - 'products in our study can be purchased via the Internet without consultation from an A"
+   ]
+  },
+  {
+   "slug": "mukta-pishti",
+   "reasons": [
+    "BLOCKING - unsupported claim about a cited study's methods. heavyMetals states the Balkrishna 2025 test article was 'material sourced as a single commercial batch'. The PubMed record (abstract, methods and competing-interest statement, fetched this session) says only 'Mukta Pisthi was sourced from Divya Pharmacy, Haridwar'; it never states batch count. This is an invented methodological detail presented as a source limitation on a page built to be quoted verbatim. Fix: delete 'as a single commercial batch' and keep 'the test article was supplied by Divya Pharmacy', which is fully supported.",
+    "MINOR - attribution imprecision in pregnancy.note: 'CDC investigated six cases of lead poisoning in pregnant women'. MMWR 2012;61(33):641-6 states the New York City Department of Health and Mental Hygiene conducted the investigation; CDC published it. Reword to 'the New York City health department investigated six cases (reported by CDC in MMWR)'."
+   ],
+   "ruleViolations": [
+    "General audit standard (not one of the ten numbered rules): a claim is not clearly supported by its cited source - heavyMetals asserts the Balkrishna 2025 test article was 'sourced as a single commercial batch', a study-design detail the paper does not state anywhere in its abstract, methods or competing-interest statement."
+   ]
+  },
+  {
+   "slug": "navayasa-loha",
+   "reasons": [
+    "BLOCKING (Rules 1 and 3): The acute-arm adverseEffects entry omits an observed finding from its own cited study. Joshi 2016 (PMC4850776) states verbatim of the acute arm: 'There was only mild behavioural hyperactivity noticed.' The record's entry reports only 'no signs of toxicity and no deaths were observed' and sets frequency to 'No signs of toxicity and no deaths in the acute arm.' This is the paper's exculpatory sentence carried while the one behavioural effect it reports is dropped, in the single entry of the record most likely to be extracted verbatim as reassurance. Fix: add the hyperac",
+    "BLOCKING (missing well-documented hazard): For an iron preparation, interactions carry only tetracyclines and other iron sources. Levothyroxine, levodopa/methyldopa, and antacids/PPIs are well-documented oral-iron absorption interactions documented on a permitted host (ods.od.nih.gov iron fact sheet). The cited MedlinePlus page names only tetracyclines, so the record is faithful to its source but incomplete for a clinician-facing iron record; add the ODS-sourced interactions rather than leaving them out."
+   ],
+   "ruleViolations": [
+    "Rule 3 - if a cited study reports adverse findings, the record must report them: Joshi 2016's acute arm reports 'There was only mild behavioural hyperactivity noticed'; the record's acute entry omits it and states only that no signs of toxicity and no deaths were observed.",
+    "Rule 1 - selective quotation is misrepresentation: the same omission carries the cited paper's exculpatory acute-arm sentence while dropping the one behavioural observation that accompanies it, in the record's only reassurance-framed entry."
+   ]
+  },
+  {
+   "slug": "neelam-pishti",
+   "reasons": [
+    "REJECTED on the unsupported-claim criterion, not on any of the ten hard rules. The safety substance passed every check; the record's own search-provenance narrative did not.",
+    "insufficientReason misdescribes the negative searches it names, in both directions, and the enumeration does not reproduce. Re-ran all eight listed terms via NCBI E-utilities esearch on 2026-09-11: 'gemstone bhasma' returns PMID 30952470 (Swarna Makshika Bhasma preparation using an alternative heating method to traditional Varaha Puta) and PMID 16632893 (Bhasmas: unique ayurvedic metallic-herbal preparations, chemical characterization), neither of which appears in the record's list; 'corundum ayurvedic' returns PMID 22754071 (Toxicological studies of 'Chondrokola Rosh' on liver function tests "
+   ],
+   "ruleViolations": []
+  },
+  {
+   "slug": "nityananda-rasa",
+   "reasons": [
+    "FETCHED AND CHECKED ALL TEN SOURCES against the record: Kshirsagar 2023 (PMID 37054826, full abstract via NCBI eutils), Saper 2008 (18728265), Saper 2004 (15598918), Mikulski (29528276 / PMC6060866, including Table 2 full text), Hore 2022 (36179284), Ciocan 2021 (33881010), Hardin 2023 (37492071), Philips 2018 (29960971), FDA ayurvedic heavy-metal warning page, NCCIH Ayurvedic Medicine In Depth. All hosts are on the permitted list.",
+    "BLOCKING - Mikulski denominator error. Record: '36% of samples exceeded the USP permissible daily exposure for lead, 49.5% for mercury and 39% for arsenic, some by up to several thousand times.' Source abstract: 'Almost half of samples containing mercury, 36% of samples containing lead and 39% of samples containing arsenic had concentrations... that exceeded...'. Table 2: Pb 59 (35.8) of 164 positives, Hg 48 (49.5) of 97, As 32 (39.5) of 82. The record dropped the 'containing X' qualifier, converting a rate over metal-positive samples into a rate over all 252 samples and roughly 1.5x-overstati"
+   ],
+   "ruleViolations": []
+  },
+  {
+   "slug": "panna-pishti",
+   "reasons": [
+    "Fetched and checked every cited source independently. Mikulski 2017 verified against the PMC6060866 full text including Table 2: prevalences 65.1/38.5/32.5%, medians 4.9/53.0/8.4 mg/kg, ranges 0.46-43,200, 0.8-279,000 and 1.0-44,800 mg/kg, per-pill PDE exceedance 59 (35.8%), 48 (49.5%), 32 (39.5%), and the authors' 'half of the samples had Pb levels of 4.9 mg/kg and below' all match exactly. The 2018-to-2017 year correction and PMID 29528276 are right.",
+    "Saper 2008 (PMID 18728265), Saper 2004 (PMID 15598918), Kumar 2006 (PMID 16632893), Jagtap 2024 (PMID 39615446), Joshi 2020 (PMID 35813362) and Hore 2022 (PMID 36179284) verified against PubMed. Every direct quotation retained in the record is verbatim, and every numeric figure matches its source."
+   ],
+   "ruleViolations": [
+    "Rule 1 (selective quotation is misrepresentation): the record quotes the FDA heavy-metal-poisoning page's symptom list nearly in full (high blood pressure, kidney injury, fatigue, abdominal pain/constipation/diarrhea/nausea/vomiting, burning or tingling in the fingers and/or toes, weakness in limbs, dizziness, feeling agitated and not thinking clearly or being confused) plus the accumulation and 'large acute ingestions ... can be life-threatening' sentences, but omits the adjacent bullet on the ",
+    "Rule 3 (if a cited source reports adverse findings, the record must report them): arsenic carcinogenicity is an adverse finding stated by fda2025, a source the record cites for its adverse-effects entry, and it is the most severe harm that page names. Its omission is material because the record's own heavyMetals section documents arsenic in 32.5% of Mikulski's samples, 6 of 70 Saper 2004 products (up to 8,130 microg/g) and Saper 2008's rasa shastra subgroup, so the omitted hazard is squarely on "
+   ]
+  },
+  {
+   "slug": "raupya-bhasma",
+   "reasons": [
+    "Fetched and checked all seven cited sources directly. Rules 2, 3, 4, 5, 6, 7 (not applicable) 8, 9 and 10 are satisfied: no untested finding is attributed, the zebrafish adverse findings and their limitations are carried, doseLimits contains no animal dose, pregnancy and lactation are correctly graded 'avoid' with the rasa shastra lead/mercury/arsenic basis stated in-field, no study arms are spliced, no efficacy or comparator appears (the antimicrobial wording survives only inside a bibliographic title), and the hepatic and renal hazards each have their own matching contraindication.",
+    "Rejected on RULE 1. doseLimits.text truncates StatPearls' WHO RfD sentence immediately before the clause 'which is not the most sensitive toxicity endpoint', and then paraphrases the endpoint approvingly. The deleted clause is the source's own statement that harm can occur below 6.5 mcg/kg/day. A clinician or an AI system extracting doseLimits.text alone would read the figure as a protective ceiling, which is the opposite of what the cited source says."
+   ],
+   "ruleViolations": [
+    "RULE 1 (selective quotation drops a caveat on a dose basis). doseLimits.text quotes StatPearls' WHO Reference Dose sentence but truncates it at 'based on argyria development', deleting the source's closing clause 'which is not the most sensitive toxicity endpoint.' The record then compounds the omission in its own prose ('derived from the argyria endpoint'), presenting the endpoint as the figure's justification while suppressing the source's warning that it is not protective. Verified against ht",
+    "RULE 1 (limitation stated inaccurately, in the reassuring direction). The zebrafish adverseEffects note states the paper 'reports quantitative outcomes only for the lowest and highest concentrations.' Kalimuthu et al. (PMC9728409) report a quantitative outcome only at 25 microg/ml (~60% malformation); the 5 microg/ml result is qualitative ('did not substantially inhibit the growth of zebrafish embryos'). The record attributes quantitative support to the low-concentration no-effect anchor that th"
+   ]
+  },
+  {
+   "slug": "vaikranta-bhasma",
+   "reasons": [
+    "VERDICT: reject. The record is close to publishable and its hazard grading is correct, but three source-fidelity defects remain and one of them is a misquotation of the record's most quotable sentence.",
+    "VERIFIED CORRECT against live source fetches: Tripathi 2013 (black tourmaline/schorl identity; historical confusion with fluorspar, feldspar, quartz; eight puta with purified sulphur and lemon juice per Rasa Ratna Samuccaya; EDAX element list C, O, Na, Mg, Al, Si, S, K, Fe, B, Cr, Mn, Zn; iron and silica as major constituents; 'Hg was not detected in the sample'; FESEM 'well-agglomerated in the size range of 5-20 micrometres', amorphous/semi-crystalline; NO toxicity, genotoxicity, repeat-dose or reproductive testing of any kind; no Pb/As/Cd figures; the batch-variability limitation quoted verb"
+   ],
+   "ruleViolations": [
+    "Rule 1 (selective/inaccurate quotation is misrepresentation): the Philips 2018 sentence \"Physicians must be alert regarding patient's use of supposedly safe Ayurveda Bhasma\" is attributed to \"the authors' learning points\" but appears in the paper's ABSTRACT, not the learning points, and is truncated mid-sentence (full text ends \"...that may promote acute severe liver injury\") while punctuated as a complete quotation.",
+    "Rule 10 (insufficientData is always available and always better than an unsupportable claim): the interactions field is an empty array with no no-data entry, in a record that documents fatal drug-induced liver injury, names concurrent hepatotoxic drugs and alcohol in a contraindication, and describes eight months of concurrent use with six other metallic/mineral preparations. An empty array renders as an affirmative \"no known interactions\" and is exactly the kind of silent reassurance an extract"
+   ]
+  },
+  {
+   "slug": "varatika-bhasma",
+   "reasons": [
+    "REJECTED. All eight sources were fetched and checked line by line (WHO and the two PMC toxicology/review articles also pulled as raw text and grepped, not only summarised). The repair fixed most of what it claimed, but it introduced or left three misquotations of PMC7685255, the single toxicology source the record leans on, and one of them suppresses that paper's own hepatic warning.",
+    "RULE 1 VIOLATION (fatal). PMC7685255 verbatim: 'Bacnil at TED x 10 produced non-significant increase in triglyceride, VLDL-cholesterol and alkaline phosphate, which suggests that test drug has the potential to damage the liver at a higher dose level on longer administration.' The record omits the 'potential to damage the liver ... on longer administration' clause entirely, and compounds the omission by stating 'The paper states no limitations section and makes no monitoring recommendation.' A record whose hepatic contraindication rests on this study must carry the study's own long-term hepatic"
+   ],
+   "ruleViolations": [
+    "RULE 1 — Selective quotation: the record drops the cited toxicology paper's own hepatic caveat and then denies it exists. Panigrahi et al. (PMC7685255) state verbatim: \"Bacnil at TED x 10 produced non-significant increase in triglyceride, VLDL-cholesterol and alkaline phosphate, which suggests that test drug has the potential to damage the liver at a higher dose level on longer administration.\" The clause after the comma is the paper's most actionable safety inference and appears nowhere in the ",
+    "RULE 3 — Adverse findings understated in the summary field: the second adverseEffects entry's frequency reads 'dose-dependent in rats; no findings at the therapeutic-equivalent dose', but the source reports a significant increase in uterus weight at TED and significant decreases in triglyceride and VLDL-cholesterol at TED, and the record's own note lists both. The source's 'no significant change at therapeutic dose level' applies to histopathology, not to all parameters. The frequency string is "
+   ]
+  },
+  {
+   "slug": "vatagajankush-rasa",
+   "reasons": [
+    "Fabricated WHO quotation, appearing twice (pregnancy.note and the Pregnancy/breastfeeding contraindication note): the record prints in quotation marks 'Lead stored in bone may be released into the blood during pregnancy and expose the fetus'. The WHO lead fact sheet (r6, fetched) reads 'Lead stored in bone is released into blood during pregnancy and becomes a source of exposure to the developing fetus.' The record's text is not verbatim and softens WHO's categorical 'is released' to 'may be released' on the single sentence carrying the pregnancy hazard. On a page designed to be extracted verba",
+    "Indication by implication (Rule 8): the body text states three times that Vatagajankusha Rasa was the study drug in clinical studies of hemiplegia/Pakshaghata (once in insufficientReason, twice in heavyMetals). Naming the trialled condition conveys a hemiplegia/stroke indication, the same mechanism as the sucralfate comparator defect. The provenance needed to explain the data gap (named study drug in two studies inside a 2025 systematic review that gives no composition, dose or assay) survives without naming the condition in the body text."
+   ],
+   "ruleViolations": [
+    "Rule 1 (source must be represented as it stands): WHO lead fact-sheet sentence altered inside quotation marks in two fields, weakening 'is released' to 'may be released'; plus an NCCIH paediatric-advice attribution that the fetched NCCIH page does not support.",
+    "Rule 8 (a safety record carries no efficacy): the hemiplegia/Pakshaghata trial context is stated three times in body text, delivering a therapeutic indication by implication."
+   ]
+  }
+ ],
+ "accepted": [
+  {
+   "slug": "kamsya-bhasma",
+   "auditReasons": [
+    "Independently verified the insufficientData premise: PubMed E-utilities returns 0 records for 'kamsya', 0 for 'kansya bhasma' and 0 for 'bell metal bhasma'; the 4 hits for 'kansya' are author-name (Kan SY) matches on unrelated prenatal-genetics papers. No permitted source characterises this preparation, so insufficientData=true is correct and the record's refusal to assert a metal base is the right call under Rule 10.",
+    "Liu et al. 2019 (PMC6421027) verified line by line: bhasma definition as repeated incineration with herbal juice/decoction and animal-based products (horns, shells, feathers, milk, urine); metal enumeration including Manahshila (realgar, As), Vanga, Yasada and Abhraka; no mention of Kamsya, Kansya, bell metal, bronze or any copper-tin alloy; 'the toxicity of Tamra Bhasma is markedly reduced with Shodhana'; chemical form rather than total metal content governs toxicity; poisoning case reports increasing and pharmacovigilance desired. The shodhana finding is now stated as the paper states it and"
+   ]
+  }
+ ]
+}

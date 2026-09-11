@@ -1,0 +1,145 @@
+{
+ "run": "safety-panel-01",
+ "date": "2026-09-10",
+ "scope": "83 highest-risk pages: 66 metallic/mineral preparations and 17 toxic or scheduled plants",
+ "outcome": "NOT PUBLISHED",
+ "reason": "The meta-judge re-audited 3 of the 25 panel-accepted records and rejected all 3, each for a specific and serious defect: a dropped monitoring instruction, a misread source, and an adverse-effect finding reported as absent. A 0 of 3 agreement rate means the panel's acceptances cannot be trusted as a set, so none were published.",
+ "summary": {
+  "total": 83,
+  "accepted": 25,
+  "rejected": 49,
+  "inconclusive": 9,
+  "metaSampled": 3,
+  "metaAgreed": 0,
+  "metaDisagreed": 3
+ },
+ "note": "Slimmed for publication. Full agent output, including record bodies and complete verdicts, is retained locally in data/runs/raw/ and is not published.",
+ "metaDisagreements": [
+  {
+   "slug": "abhraka-bhasma",
+   "reasons": [
+    "MISLEADING DOSE FRAMING (most serious). doseLimits says \"No human dose limit ... was located\" and the note calls the figures \"rat doses ... not a human dosing recommendation.\" Pandit et al. actually state the low dose (22.5 mg/kg) is the \"highest clinical dose extrapolated to rats,\" that \"one day in rat is supposed to be equal to 30 days in human\" (so 28 days ≈ 2.5 human years), and that \"In chronic asthma, KVB treatment is generally given for three months.\" The record strips all of this. As written, a clinician or an AI reading it concludes the hepatotoxic doses (45 and 100 mg/kg) sit far above human exposure. They do not: they are roughly 2x and 4.4x the extrapolated maximum clinical dose.",
+    "MISSING ACTIONABLE HAZARD INSTRUCTION. Pandit et al. conclude: \"for safety purpose, liver enzymes should be monitored when KVB is used clinically on long term basis.\" This is the single most clinically actionable sentence in the record's lead source and it appears nowhere in the record. A site asking to be cited by clinicians cannot drop the monitoring requirement its own primary source issues.",
+    "CONTRAINDICATIONS INCOMPLETE. The record's own lead adverse effect is dose-dependent drug-induced liver injury (raised ALT, triglycerides, uric acid, fatty change), yet contraindications contain nothing on hepatic impairment, existing liver disease, concurrent hepatotoxic drugs, or long-term use without LFT monitoring. Both listed contraindications are class-level heavy-metal items; the substance-specific hazard the record itself documents has no contraindication entry."
+   ]
+  },
+  {
+   "slug": "mrigashringa-bhasma",
+   "reasons": [
+    "UNSUPPORTED CLAIM (verified against source). The record states: 'NCCIH notes that in a 2015 survey about one in four Ayurvedic supplements tested had high levels of lead and almost half had high levels of mercury.' The NCCIH page says two separate things: (a) 'A 2015 published survey of people who use Ayurvedic preparations showed that 40 percent had elevated blood levels of lead and some had elevated blood levels of mercury' — a survey of PEOPLE, not products; and (b) 'About one in four of the supplements tested had high levels of lead and almost half of them had high levels of mercury' — an undated statement about tested supplements, not attributed to the 2015 survey. The record has fused ",
+    "SEVERITY MISCALIBRATED. The single contraindication, pregnancy and lactation, is graded 'theoretical' while its own note cites CDC's documented lead poisoning in six pregnant women using Ayurvedic medications from India (blood lead 16-64 ug/dL, MMWR 2012;61(33):641-646). The class-level harm is documented, not theoretical; only the preparation-specific attribution is absent. 'Theoretical' is the wrong label for a hazard the record proves happened, and it contradicts the record's own heavyMetals block.",
+    "CONTRAINDICATION SET IS UNDERBUILT FOR THE STATED HAZARD. The heavyMetals block establishes that 20.7 percent of marketed Ayurvedic medicines and 40.6 percent of rasa shastra preparations carry detectable lead, mercury or arsenic, yet the contraindications array contains exactly one entry, graded 'theoretical'. There is no pediatric caution despite childhood lead exposure being the archetypal documented harm from these products, and no entry for the marketed-product contamination risk itself. A clinician scanning the contraindications field sees one theoretical line and would reasonably conclude the record found nothing of concern."
+   ]
+  },
+  {
+   "slug": "varatika-bhasma",
+   "reasons": [
+    "MISREPRESENTS A CITED SOURCE (v3, PMC7685255, verified by direct fetch). The record states 'No adverse effects reported' and quotes only the two exculpatory conclusion sentences from the Bacnil study. The study actually reports dose-dependent target-organ findings: at TED x10 (1962 mg/kg) mild-to-moderate liver fatty degeneration, cell infiltration and sinusoidal inflammation, mild renal fatty change, cardiac fatty change and gastric epithelial erosion; at TED x5 (981 mg/kg) liver fatty change and gastric epithelial erosion. Most reversed during recovery. Omitting the only positive toxicology signal in the only repeated-dose study that contains this ingredient is selective quotation, not ins",
+    "STUDY-DESIGN SPLICE. The quoted sentence 'Bacnil at the oral dose of 2000 mg/kg did not produce any toxicity or mortality in albino rats' is the ACUTE single-dose arm. The record embeds it inside a sentence describing the 28-day repeated-dose study at 196.2/981/1962 mg/kg, making an acute-tox result read as a subchronic result. The 14-day recovery period is also presented as part of the general design when it applied only to the TED x10 group.",
+    "EXONERATION IS BACKWARDS AND OVER-STRONG. 'Because aconite is present in that capsule, none of this can be attributed to the cowrie-shell ingredient' — Kapardika Bhasma is 50.00 mg of the 250 mg capsule (20%, the largest bhasma fraction and tied-largest ingredient overall), while purified Vatsanabha is 12.50 mg (5%). The defensible claim is that findings cannot be ISOLATED to any one ingredient. As written, the record uses aconite to fully discount findings it never disclosed."
+   ]
+  }
+ ],
+ "accepted": [
+  {
+   "slug": "abhraka-bhasma",
+   "auditReasons": []
+  },
+  {
+   "slug": "akika-pishti",
+   "auditReasons": []
+  },
+  {
+   "slug": "godanti-bhasma",
+   "auditReasons": []
+  },
+  {
+   "slug": "gomeda-bhasma",
+   "auditReasons": []
+  },
+  {
+   "slug": "hajrul-yahood-bhasma",
+   "auditReasons": []
+  },
+  {
+   "slug": "kaharuba-pishti",
+   "auditReasons": []
+  },
+  {
+   "slug": "kamsya-bhasma",
+   "auditReasons": []
+  },
+  {
+   "slug": "kanmad-bhasma",
+   "auditReasons": []
+  },
+  {
+   "slug": "mrigashringa-bhasma",
+   "auditReasons": []
+  },
+  {
+   "slug": "mukta-pishti",
+   "auditReasons": []
+  },
+  {
+   "slug": "navayasa-loha",
+   "auditReasons": []
+  },
+  {
+   "slug": "neelam-pishti",
+   "auditReasons": []
+  },
+  {
+   "slug": "nityananda-rasa",
+   "auditReasons": []
+  },
+  {
+   "slug": "panna-pishti",
+   "auditReasons": []
+  },
+  {
+   "slug": "raupya-bhasma",
+   "auditReasons": []
+  },
+  {
+   "slug": "vaikranta-bhasma",
+   "auditReasons": []
+  },
+  {
+   "slug": "varatika-bhasma",
+   "auditReasons": []
+  },
+  {
+   "slug": "vatagajankush-rasa",
+   "auditReasons": []
+  },
+  {
+   "slug": "ashwagandha",
+   "auditReasons": []
+  },
+  {
+   "slug": "bhanga",
+   "auditReasons": []
+  },
+  {
+   "slug": "eranda",
+   "auditReasons": []
+  },
+  {
+   "slug": "eranda-moola",
+   "auditReasons": []
+  },
+  {
+   "slug": "eranda-patra",
+   "auditReasons": []
+  },
+  {
+   "slug": "jayapala",
+   "auditReasons": []
+  },
+  {
+   "slug": "kataka",
+   "auditReasons": []
+  }
+ ]
+}

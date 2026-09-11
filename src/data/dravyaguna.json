@@ -1,0 +1,5229 @@
+{
+ "updatedAt": "2026-09-11",
+ "english": {
+  "Madhura": "sweet",
+  "Amla": "sour",
+  "Lavana": "salty",
+  "Katu": "pungent",
+  "Tikta": "bitter",
+  "Kashaya": "astringent",
+  "Ushna": "heating",
+  "Sheeta": "cooling",
+  "Laghu": "light",
+  "Guru": "heavy",
+  "Ruksha": "dry",
+  "Snigdha": "unctuous"
+ },
+ "summary": {
+  "entries": 245,
+  "withRasa": 226,
+  "withVirya": 226,
+  "withVipaka": 226,
+  "withGuna": 226,
+  "withDosha": 25,
+  "byRasa": {
+   "Tikta": 118,
+   "Madhura": 80,
+   "Katu": 71,
+   "Kashaya": 67,
+   "Amla": 14,
+   "Lavana": 3
+  },
+  "byVirya": {
+   "Ushna": 120,
+   "Sheeta": 106
+  },
+  "byVipaka": {
+   "Katu": 133,
+   "Madhura": 84,
+   "Amla": 9
+  },
+  "byGuna": {
+   "Laghu": 160,
+   "Ruksha": 67,
+   "Snigdha": 65,
+   "Guru": 48,
+   "Tikshna": 47
+  }
+ },
+ "entries": [
+  {
+   "kind": "herb",
+   "slug": "agnijara",
+   "title": "Agnijara",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Katu"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "agnikumarika",
+   "title": "Agnikumarika",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "agnimantha",
+   "title": "Agnimantha",
+   "botanical": "Premna integrifolia (syn. Clerodendrum phlomidis)",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {
+    "vata": "decreases",
+    "kapha": "decreases",
+    "pitta": "increases"
+   },
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "ajamoda-arka",
+   "title": "Ajamoda Arka",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "ajamodadi-churna",
+   "title": "Ajamodadi Churna",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "ajmoda",
+   "title": "Ajmoda",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "amalaka-rasayana",
+   "title": "Amalaka Rasayana",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Amla",
+    "Madhura"
+   ],
+   "guna": [
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "amla",
+   "title": "Amla",
+   "botanical": "Phyllanthus emblica (syn. Emblica officinalis)",
+   "sanskrit": "",
+   "rasa": [],
+   "guna": [],
+   "virya": "",
+   "vipaka": [],
+   "prabhava": "",
+   "dosha": {
+    "vata": "decreases",
+    "kapha": "decreases",
+    "pitta": "decreases"
+   },
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "amra-beeja",
+   "title": "Amra Beeja",
+   "botanical": "Mangifera indica",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "amra-haridra",
+   "title": "Amra Haridra",
+   "botanical": "Curcuma amada",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "amritaprasha-ghrita",
+   "title": "Amritaprasha Ghrita",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "amritarishta",
+   "title": "Amritarishta",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "ananta-mool",
+   "title": "Ananta Mool",
+   "botanical": "Hemidesmus indicus",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Madhura"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "anjatraya",
+   "title": "Anjatraya",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "aragvadhadi-kwath",
+   "title": "Aragvadhadi Kwath",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "aranya-jeeraka",
+   "title": "Aranya Jeeraka",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "ardraka-svarasa",
+   "title": "Ardraka Svarasa",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "arishtaka",
+   "title": "Arishtaka",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "arjuna",
+   "title": "Arjuna",
+   "botanical": "Terminalia arjuna",
+   "sanskrit": "",
+   "rasa": [],
+   "guna": [],
+   "virya": "",
+   "vipaka": [],
+   "prabhava": "",
+   "dosha": {
+    "pitta": "decreases",
+    "kapha": "decreases",
+    "vata": "neutral"
+   },
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "arjuna-twak",
+   "title": "Arjuna Twak",
+   "botanical": "Terminalia arjuna",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "arka",
+   "title": "Arka",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "arka-ksheera",
+   "title": "Arka Ksheera",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Tikta"
+   ],
+   "guna": [
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "arka-pushpa",
+   "title": "Arka Pushpa",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Katu"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "asanadi-kwath",
+   "title": "Asanadi Kwath",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "ashoka-ghrita",
+   "title": "Ashoka Ghrita",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya",
+    "Tikta"
+   ],
+   "guna": [
+    "Snigdha",
+    "Guru"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "ashwagandha",
+   "title": "Ashwagandha",
+   "botanical": "Withania somnifera",
+   "sanskrit": "",
+   "rasa": [],
+   "guna": [],
+   "virya": "",
+   "vipaka": [],
+   "prabhava": "",
+   "dosha": {
+    "vata": "decreases",
+    "kapha": "decreases",
+    "pitta": "increases-in-excess"
+   },
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "atibala",
+   "title": "Atibala",
+   "botanical": "Abutilon indicum",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "glossary",
+   "slug": "concepts-a-m",
+   "title": "Ayurvedic concepts (A-M)",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura",
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "glossary",
+   "slug": "concepts-m-y",
+   "title": "Ayurvedic concepts (M-Y)",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "badama-taila",
+   "title": "Badama Taila",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "badara",
+   "title": "Badara",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura",
+    "Amla"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "bala",
+   "title": "Bala",
+   "botanical": "Sida cordifolia",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Snigdha",
+    "Guru"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {
+    "vata": "decreases",
+    "pitta": "decreases",
+    "kapha": "increases"
+   },
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "bala-mool",
+   "title": "Bala Mool",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Snigdha",
+    "Guru"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "bandhuka",
+   "title": "Bandhuka",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura",
+    "Kashaya"
+   ],
+   "guna": [
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "bhallataka-taila",
+   "title": "Bhallataka Taila",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Tikta"
+   ],
+   "guna": [
+    "Snigdha",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "bhringaraja-svarasa",
+   "title": "Bhringaraja Svarasa",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Katu"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "bhumi-jambuka",
+   "title": "Bhumi Jambuka",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "bhumyamalaki",
+   "title": "Bhumyamalaki",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Kashaya",
+    "Madhura"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "bhunimba",
+   "title": "Bhunimba",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "bhurja",
+   "title": "Bhurja",
+   "botanical": "Betula utilis",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "bhutakeshi",
+   "title": "Bhutakeshi",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "bhutika",
+   "title": "Bhutika",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "bibhitaki",
+   "title": "Bibhitaki",
+   "botanical": "Terminalia bellirica",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {
+    "vata": "decreases",
+    "pitta": "decreases",
+    "kapha": "decreases"
+   },
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "bimbi",
+   "title": "Bimbi",
+   "botanical": "Coccinia grandis",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Katu"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "black-pepper",
+   "title": "Black Pepper",
+   "botanical": "Piper nigrum",
+   "sanskrit": "",
+   "rasa": [
+    "Katu"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {
+    "vata": "decreases",
+    "kapha": "decreases",
+    "pitta": "increases"
+   },
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "brahmi",
+   "title": "Brahmi",
+   "botanical": "Bacopa monnieri",
+   "sanskrit": "",
+   "rasa": [],
+   "guna": [],
+   "virya": "",
+   "vipaka": [],
+   "prabhava": "",
+   "dosha": {
+    "vata": "decreases",
+    "kapha": "decreases",
+    "pitta": "decreases"
+   },
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "caturjata-churna",
+   "title": "Caturjata Churna",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Madhura"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "chakshushya",
+   "title": "Chakshushya",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "chandraprabha",
+   "title": "Chandraprabha",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [],
+   "guna": [],
+   "virya": "",
+   "vipaka": [],
+   "prabhava": "",
+   "dosha": {
+    "vata": "decreases",
+    "kapha": "decreases",
+    "pitta": "neutral"
+   },
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "changeri-ghrita",
+   "title": "Changeri Ghrita",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Amla",
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu",
+    "Snigdha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Amla"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "chavika",
+   "title": "Chavika",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "chirabilva",
+   "title": "Chirabilva",
+   "botanical": "Holoptelea integrifolia",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "chirayata",
+   "title": "Chirayata",
+   "botanical": "Swertia chirayita",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "chitraka-moola",
+   "title": "Chitraka Moola",
+   "botanical": "Plumbago zeylanica",
+   "sanskrit": "",
+   "rasa": [
+    "Katu"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "dadima",
+   "title": "Dadima",
+   "botanical": "Punica granatum",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura",
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "dadimashtaka-churna",
+   "title": "Dadimashtaka Churna",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura",
+    "Kashaya",
+    "Amla"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "dadrughna",
+   "title": "Dadrughna",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "danti-moola",
+   "title": "Danti Moola",
+   "botanical": "Baliospermum solanifolium",
+   "sanskrit": "",
+   "rasa": [
+    "Katu"
+   ],
+   "guna": [
+    "Tikshna",
+    "Laghu"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "dashamoola",
+   "title": "Dashamoola",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [],
+   "guna": [],
+   "virya": "",
+   "vipaka": [],
+   "prabhava": "",
+   "dosha": {
+    "vata": "decreases",
+    "pitta": "neutral",
+    "kapha": "decreases"
+   },
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "dashamularishta",
+   "title": "Dashamularishta",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya",
+    "Madhura"
+   ],
+   "guna": [
+    "Guru"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "devadali",
+   "title": "Devadali",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Katu"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "dhanwantaram-gutika",
+   "title": "Dhanwantaram Gutika",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "dhataki",
+   "title": "Dhataki",
+   "botanical": "Woodfordia fruticosa",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "dhatupaushtik-churna",
+   "title": "Dhatupaushtik Churna",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "dhava",
+   "title": "Dhava",
+   "botanical": "Anogeissus latifolia",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "draksha",
+   "title": "Draksha",
+   "botanical": "Vitis vinifera",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura",
+    "Amla"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "drakshadi-kashayam",
+   "title": "Drakshadi Kashayam",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "dronapushpi",
+   "title": "Dronapushpi",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Lavana"
+   ],
+   "guna": [
+    "Guru",
+    "Ruksha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "dugdhika",
+   "title": "Dugdhika",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Tikta"
+   ],
+   "guna": [
+    "Guru"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "durva",
+   "title": "Durva",
+   "botanical": "Cynodon dactylon",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura",
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "eladi-vati",
+   "title": "Eladi Vati",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura",
+    "Katu"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "eranda-moola",
+   "title": "Eranda Moola",
+   "botanical": "Ricinus communis",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "eranda-taila",
+   "title": "Eranda Taila",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura",
+    "Katu"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "gangadhara-churna",
+   "title": "Gangadhara Churna",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "gavedhuka",
+   "title": "Gavedhuka",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura",
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "ginger",
+   "title": "Ginger",
+   "botanical": "Zingiber officinale",
+   "sanskrit": "",
+   "rasa": [],
+   "guna": [],
+   "virya": "",
+   "vipaka": [],
+   "prabhava": "",
+   "dosha": {
+    "vata": "decreases",
+    "kapha": "decreases",
+    "pitta": "increases"
+   },
+   "doshaNotes": {
+    "pitta": "Dry Form Especially"
+   }
+  },
+  {
+   "kind": "herb",
+   "slug": "granthiparni",
+   "title": "Granthiparni",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "grinjana",
+   "title": "Grinjana",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura",
+    "Tikta"
+   ],
+   "guna": [
+    "Guru",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "guduchi",
+   "title": "Guduchi",
+   "botanical": "Tinospora cordifolia",
+   "sanskrit": "",
+   "rasa": [],
+   "guna": [],
+   "virya": "",
+   "vipaka": [],
+   "prabhava": "",
+   "dosha": {
+    "vata": "decreases",
+    "pitta": "decreases",
+    "kapha": "decreases"
+   },
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "guggulu",
+   "title": "Guggulu",
+   "botanical": "Commiphora wightii (syn. C. mukul)",
+   "sanskrit": "",
+   "rasa": [],
+   "guna": [],
+   "virya": "",
+   "vipaka": [],
+   "prabhava": "",
+   "dosha": {
+    "vata": "decreases",
+    "kapha": "decreases",
+    "pitta": "increases"
+   },
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "gulakanda",
+   "title": "Gulakanda",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "hapusa",
+   "title": "Hapusa",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "hinguvachadi-churna",
+   "title": "Hinguvachadi Churna",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Lavana"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "hingvashtak-churna",
+   "title": "Hingvashtak Churna",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Lavana"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "hrivera",
+   "title": "Hrivera",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "indrayava",
+   "title": "Indrayava",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "irimedadi-taila",
+   "title": "Irimedadi Taila",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya",
+    "Tikta"
+   ],
+   "guna": [
+    "Snigdha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "ishabgula",
+   "title": "Ishabgula",
+   "botanical": "Plantago ovata",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "jambu",
+   "title": "Jambu",
+   "botanical": "Syzygium cumini",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya",
+    "Madhura"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "jambu-beeja",
+   "title": "Jambu Beeja",
+   "botanical": "Syzygium cumini",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "japa",
+   "title": "Japa",
+   "botanical": "Hibiscus rosa-sinensis",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya",
+    "Madhura"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "jati",
+   "title": "Jati",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "jatiphala",
+   "title": "Jatiphala",
+   "botanical": "Myristica fragrans",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "javitri",
+   "title": "Javitri",
+   "botanical": "Myristica fragrans",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "jeerakarishtam",
+   "title": "Jeerakarishtam",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Madhura"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "kachnar",
+   "title": "Kachnar",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "kadara",
+   "title": "Kadara",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "kakamachi",
+   "title": "Kakamachi",
+   "botanical": "Solanum nigrum",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Snigdha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "kakatikta",
+   "title": "Kakatikta",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "kalyanaka-ghrita",
+   "title": "Kalyanaka Ghrita",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Madhura"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "kamala-kesara",
+   "title": "Kamala Kesara",
+   "botanical": "Nelumbo nucifera",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya",
+    "Madhura"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "kamalakanda",
+   "title": "Kamalakanda",
+   "botanical": "Nelumbo nucifera",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura",
+    "Kashaya"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "kankataka",
+   "title": "Kankataka",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Amla"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Amla"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "kapikachhu",
+   "title": "Kapikachhu",
+   "botanical": "Mucuna pruriens",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Snigdha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "karanja-taila",
+   "title": "Karanja Taila",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Katu"
+   ],
+   "guna": [
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "karira",
+   "title": "Karira",
+   "botanical": "Capparis decidua",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "karmaranga",
+   "title": "Karmaranga",
+   "botanical": "Averrhoa carambola",
+   "sanskrit": "",
+   "rasa": [
+    "Amla",
+    "Madhura"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Amla"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "karnikara",
+   "title": "Karnikara",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "karpas-asthyadi-thailam",
+   "title": "Karpas Asthyadi Thailam",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "karpasa",
+   "title": "Karpasa",
+   "botanical": "Gossypium herbaceum",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "karpasa-moola",
+   "title": "Karpasa Moola",
+   "botanical": "Gossypium herbaceum",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Snigdha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "karpasasthyadi-thailam",
+   "title": "Karpasasthyadi Thailam",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "karpura-camphor",
+   "title": "Karpura Camphor",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Katu"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "karvellaka",
+   "title": "Karvellaka",
+   "botanical": "Momordica charantia",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Katu"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "kasheruka",
+   "title": "Kasheruka",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura",
+    "Kashaya"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "katphala",
+   "title": "Katphala",
+   "botanical": "Myrica esculenta",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya",
+    "Tikta",
+    "Katu"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "katuki",
+   "title": "Katuki",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "kembuka",
+   "title": "Kembuka",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "ketaki",
+   "title": "Ketaki",
+   "botanical": "Pandanus odorifer",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Madhura"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "kiratatikta",
+   "title": "Kiratatikta",
+   "botanical": "Swertia chirayita",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "kokilaksha",
+   "title": "Kokilaksha",
+   "botanical": "Hygrophila auriculata",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "koshamra",
+   "title": "Koshamra",
+   "botanical": "Schleichera oleosa",
+   "sanskrit": "",
+   "rasa": [
+    "Amla"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Amla"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "koshataki",
+   "title": "Koshataki",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "krishna-jeeraka",
+   "title": "Krishna Jeeraka",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "kshirabala-101-avarti",
+   "title": "Kshirabala 101 Avarti",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura",
+    "Tikta"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "kulathadi-kwath",
+   "title": "Kulathadi Kwath",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Amla"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "kumbhika",
+   "title": "Kumbhika",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Katu"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "kumud",
+   "title": "Kumud",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "kumuda",
+   "title": "Kumuda",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "formulation",
+   "slug": "kuntalakanti-tailam",
+   "title": "Kuntalakanti Tailam",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Madhura"
+   ],
+   "guna": [
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "kurabaka",
+   "title": "Kurabaka",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "kusha",
+   "title": "Kusha",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "kusumbha",
+   "title": "Kusumbha",
+   "botanical": "Carthamus tinctorius",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Madhura"
+   ],
+   "guna": [
+    "Guru",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "kutaj",
+   "title": "Kutaj",
+   "botanical": "Holarrhena pubescens",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "lajjalu",
+   "title": "Lajjalu",
+   "botanical": "Mimosa pudica",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "lakuca",
+   "title": "Lakuca",
+   "botanical": "Artocarpus lacucha",
+   "sanskrit": "",
+   "rasa": [
+    "Amla",
+    "Kashaya"
+   ],
+   "guna": [
+    "Guru"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Amla"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "lasuna-ksheerapaka",
+   "title": "Lasuna Ksheerapaka",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Madhura"
+   ],
+   "guna": [
+    "Snigdha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "lata-kasturi",
+   "title": "Lata Kasturi",
+   "botanical": "Abelmoschus moschatus",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "latakaranja",
+   "title": "Latakaranja",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Katu"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "lavanga",
+   "title": "Lavanga",
+   "botanical": "Syzygium aromaticum",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "lodhrasva",
+   "title": "Lodhrasva",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "madayantika",
+   "title": "Madayantika",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "madhuka-pushpa",
+   "title": "Madhuka Pushpa",
+   "botanical": "Madhuca longifolia",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "madhukarkati",
+   "title": "Madhukarkati",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Amla",
+    "Madhura"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Amla"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "mahanarayan",
+   "title": "Mahanarayan",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [],
+   "guna": [],
+   "virya": "",
+   "vipaka": [],
+   "prabhava": "",
+   "dosha": {
+    "vata": "decreases",
+    "pitta": "neutral",
+    "kapha": "increases"
+   },
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "mahanimba",
+   "title": "Mahanimba",
+   "botanical": "Melia azedarach",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "makoy",
+   "title": "Makoy",
+   "botanical": "Solanum nigrum",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "mamsarohini",
+   "title": "Mamsarohini",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "mandukparni",
+   "title": "Mandukparni",
+   "botanical": "Centella asiatica",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "masi",
+   "title": "Masi",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya",
+    "Katu"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "matsyakshi",
+   "title": "Matsyakshi",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Madhura"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "matulunga-rasa",
+   "title": "Matulunga Rasa",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Amla"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "mayurashikha",
+   "title": "Mayurashikha",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "medasaka",
+   "title": "Medasaka",
+   "botanical": "Litsea glutinosa",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura",
+    "Kashaya"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "moringa",
+   "title": "Moringa",
+   "botanical": "Moringa oleifera",
+   "sanskrit": "",
+   "rasa": [],
+   "guna": [],
+   "virya": "",
+   "vipaka": [],
+   "prabhava": "",
+   "dosha": {
+    "vata": "decreases",
+    "kapha": "decreases",
+    "pitta": "increases"
+   },
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "mulaka",
+   "title": "Mulaka",
+   "botanical": "Raphanus sativus",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "nadi-hingu",
+   "title": "Nadi Hingu",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "nagadanti",
+   "title": "Nagadanti",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "nagakesara",
+   "title": "Nagakesara",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "nagarmotha",
+   "title": "Nagarmotha",
+   "botanical": "Cyperus rotundus",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Katu",
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {
+    "pitta": "decreases",
+    "kapha": "decreases",
+    "vata": "increases"
+   },
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "narikela-jala",
+   "title": "Narikela Jala",
+   "botanical": "Cocos nucifera",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Laghu",
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "neem",
+   "title": "Neem",
+   "botanical": "Azadirachta indica",
+   "sanskrit": "",
+   "rasa": [],
+   "guna": [],
+   "virya": "",
+   "vipaka": [],
+   "prabhava": "",
+   "dosha": {
+    "pitta": "decreases",
+    "kapha": "decreases",
+    "vata": "increases"
+   },
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "nimba-beeja",
+   "title": "Nimba Beeja",
+   "botanical": "Azadirachta indica",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Snigdha",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "nimba-patra",
+   "title": "Nimba Patra",
+   "botanical": "Azadirachta indica",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "palandu",
+   "title": "Palandu",
+   "botanical": "Allium cepa",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura",
+    "Katu"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "palasha",
+   "title": "Palasha",
+   "botanical": "Butea monosperma",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Katu"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "panasa",
+   "title": "Panasa",
+   "botanical": "Artocarpus heterophyllus",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura",
+    "Kashaya"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "paribhadra",
+   "title": "Paribhadra",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Katu"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "parnayavani",
+   "title": "Parnayavani",
+   "botanical": "Coleus amboinicus",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "parpataka",
+   "title": "Parpataka",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "pashanabheda",
+   "title": "Pashanabheda",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "patala",
+   "title": "Patala",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Snigdha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "patha",
+   "title": "Patha",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "patola",
+   "title": "Patola",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "patola-patra",
+   "title": "Patola Patra",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "pilu",
+   "title": "Pilu",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "pippali",
+   "title": "Pippali",
+   "botanical": "Piper longum",
+   "sanskrit": "",
+   "rasa": [],
+   "guna": [],
+   "virya": "",
+   "vipaka": [],
+   "prabhava": "",
+   "dosha": {
+    "vata": "decreases",
+    "kapha": "decreases",
+    "pitta": "increases"
+   },
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "prapunnada",
+   "title": "Prapunnada",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "priyala",
+   "title": "Priyala",
+   "botanical": "Buchanania lanzan",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "puga",
+   "title": "Puga",
+   "botanical": "Areca catechu",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya"
+   ],
+   "guna": [
+    "Guru",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "putikaranja",
+   "title": "Putikaranja",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Katu"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "putranjivaka",
+   "title": "Putranjivaka",
+   "botanical": "Putranjiva roxburghii",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura",
+    "Katu"
+   ],
+   "guna": [
+    "Guru"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "rajika",
+   "title": "Rajika",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "raktamoola",
+   "title": "Raktamoola",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "rohisha",
+   "title": "Rohisha",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "rohitaka",
+   "title": "Rohitaka",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "rudraksha",
+   "title": "Rudraksha",
+   "botanical": "Elaeocarpus ganitrus",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Guru"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "saffron",
+   "title": "Saffron",
+   "botanical": "Crocus sativus",
+   "sanskrit": "",
+   "rasa": [],
+   "guna": [],
+   "virya": "",
+   "vipaka": [],
+   "prabhava": "",
+   "dosha": {
+    "vata": "decreases",
+    "pitta": "decreases",
+    "kapha": "decreases"
+   },
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "saireyaka",
+   "title": "Saireyaka",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Madhura"
+   ],
+   "guna": [
+    "Snigdha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "saptaparna",
+   "title": "Saptaparna",
+   "botanical": "Alstonia scholaris",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu",
+    "Snigdha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "sariva",
+   "title": "Sariva",
+   "botanical": "Hemidesmus indicus",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura",
+    "Tikta"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {
+    "pitta": "decreases",
+    "vata": "decreases",
+    "kapha": "decreases"
+   },
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "sarja",
+   "title": "Sarja",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "sarpaksi",
+   "title": "Sarpaksi",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "satyanashi",
+   "title": "Satyanashi",
+   "botanical": "Argemone mexicana",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "shalmali",
+   "title": "Shalmali",
+   "botanical": "Bombax ceiba",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya"
+   ],
+   "guna": [
+    "Snigdha",
+    "Guru"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "shana",
+   "title": "Shana",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya"
+   ],
+   "guna": [
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "shankhini",
+   "title": "Shankhini",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Snigdha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "shara",
+   "title": "Shara",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura",
+    "Kashaya"
+   ],
+   "guna": [
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "sharapunkha",
+   "title": "Sharapunkha",
+   "botanical": "Tephrosia purpurea",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "shatavari",
+   "title": "Shatavari",
+   "botanical": "Asparagus racemosus",
+   "sanskrit": "",
+   "rasa": [],
+   "guna": [],
+   "virya": "",
+   "vipaka": [],
+   "prabhava": "",
+   "dosha": {
+    "vata": "decreases",
+    "pitta": "decreases",
+    "kapha": "increases"
+   },
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "shigru-patra",
+   "title": "Shigru Patra",
+   "botanical": "Moringa oleifera",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "shvet-musli",
+   "title": "Shvet Musli",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "simhamoola",
+   "title": "Simhamoola",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Katu"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "simsapa",
+   "title": "Simsapa",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Kashaya",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "sitopalasav",
+   "title": "Sitopalasav",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "somavalli",
+   "title": "Somavalli",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Amla"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "soubhagya-shunthi",
+   "title": "Soubhagya Shunthi",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu"
+   ],
+   "guna": [
+    "Laghu",
+    "Snigdha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "sthuneyaka",
+   "title": "Sthuneyaka",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "suryavarta",
+   "title": "Suryavarta",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "svetamarica",
+   "title": "Svetamarica",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "tagetes",
+   "title": "Tagetes",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "tala",
+   "title": "Tala",
+   "botanical": "Borassus flabellifer",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "talamuli",
+   "title": "Talamuli",
+   "botanical": "Curculigo orchioides",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "talisapatra",
+   "title": "Talisapatra",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "tamalpatra",
+   "title": "Tamalpatra",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Katu"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "tanduliyaka",
+   "title": "Tanduliyaka",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "taruni",
+   "title": "Taruni",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Kashaya",
+    "Madhura"
+   ],
+   "guna": [
+    "Laghu",
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "tejapatra",
+   "title": "Tejapatra",
+   "botanical": "Cinnamomum tamala",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Madhura"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "tila-patra",
+   "title": "Tila Patra",
+   "botanical": "Sesamum indicum",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "tilaparni",
+   "title": "Tilaparni",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "tintidika",
+   "title": "Tintidika",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Amla"
+   ],
+   "guna": [
+    "Guru",
+    "Ruksha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Amla"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "trapusha",
+   "title": "Trapusha",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "trikatu",
+   "title": "Trikatu",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [],
+   "guna": [],
+   "virya": "",
+   "vipaka": [],
+   "prabhava": "",
+   "dosha": {
+    "vata": "decreases",
+    "kapha": "decreases",
+    "pitta": "increases"
+   },
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "triphala",
+   "title": "Triphala",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [],
+   "guna": [],
+   "virya": "",
+   "vipaka": [],
+   "prabhava": "",
+   "dosha": {
+    "vata": "decreases",
+    "pitta": "decreases",
+    "kapha": "decreases"
+   },
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "tulsi",
+   "title": "Tulsi",
+   "botanical": "Ocimum tenuiflorum (syn. O. sanctum)",
+   "sanskrit": "",
+   "rasa": [],
+   "guna": [],
+   "virya": "",
+   "vipaka": [],
+   "prabhava": "",
+   "dosha": {
+    "vata": "decreases",
+    "kapha": "decreases",
+    "pitta": "increases"
+   },
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "tumburu",
+   "title": "Tumburu",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "turmeric",
+   "title": "Turmeric",
+   "botanical": "Curcuma longa",
+   "sanskrit": "",
+   "rasa": [],
+   "guna": [],
+   "virya": "",
+   "vipaka": [],
+   "prabhava": "",
+   "dosha": {
+    "vata": "decreases",
+    "kapha": "decreases",
+    "pitta": "neutral"
+   },
+   "doshaNotes": {
+    "pitta": "Decreases In Moderation"
+   }
+  },
+  {
+   "kind": "herb",
+   "slug": "upodika",
+   "title": "Upodika",
+   "botanical": "Basella alba",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "ushirasva",
+   "title": "Ushirasva",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Madhura"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "utingana",
+   "title": "Utingana",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "utpala",
+   "title": "Utpala",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura",
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu",
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "vamsha",
+   "title": "Vamsha",
+   "botanical": "Bambusa bambos",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura",
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "varahikanda",
+   "title": "Varahikanda",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "vartaku",
+   "title": "Vartaku",
+   "botanical": "Solanum melongena",
+   "sanskrit": "",
+   "rasa": [
+    "Katu",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "varuna",
+   "title": "Varuna",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "vasaka",
+   "title": "Vasaka",
+   "botanical": "Justicia adhatoda",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta",
+    "Kashaya"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "vathada",
+   "title": "Vathada",
+   "botanical": "Prunus dulcis",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "vetasa",
+   "title": "Vetasa",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "vidari",
+   "title": "Vidari",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "vriddhadaru",
+   "title": "Vriddhadaru",
+   "botanical": "Argyreia nervosa",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Snigdha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "vriddhi",
+   "title": "Vriddhi",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura"
+   ],
+   "guna": [
+    "Guru",
+    "Snigdha"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "vrikshamla-phala",
+   "title": "Vrikshamla Phala",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Amla"
+   ],
+   "guna": [
+    "Laghu",
+    "Ruksha"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Amla"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "vyaghranakhi",
+   "title": "Vyaghranakhi",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "yavasa",
+   "title": "Yavasa",
+   "botanical": "",
+   "sanskrit": "",
+   "rasa": [
+    "Madhura",
+    "Kashaya",
+    "Tikta"
+   ],
+   "guna": [
+    "Laghu"
+   ],
+   "virya": "Sheeta",
+   "vipaka": [
+    "Katu"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "zingiber",
+   "title": "Zingiber",
+   "botanical": "Zingiber officinale",
+   "sanskrit": "",
+   "rasa": [
+    "Katu"
+   ],
+   "guna": [
+    "Laghu",
+    "Tikshna"
+   ],
+   "virya": "Ushna",
+   "vipaka": [
+    "Madhura"
+   ],
+   "prabhava": "",
+   "dosha": {},
+   "doshaNotes": {}
+  }
+ ]
+}

@@ -1,0 +1,2585 @@
+{
+ "run": "botanical-identity",
+ "note": "309 herb pages carried no botanical name. Each was identified, then handed to an independent verifier instructed to refute the identification against authoritative botanical sources. Rejection was the default wherever identity was contested across sources: a wrong binomial is worse than a blank field, because it renders as fact and pulls in literature about a different plant.",
+ "caveat": "The identify stage lost part of one batch to a network failure and was resumed. 16 accepted entries therefore have a verifier record but no retained identify record; they are marked identifyRecordLost.",
+ "inputPages": 309,
+ "candidates": 256,
+ "records": [
+  {
+   "slug": "fennel-herb",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Foeniculum vulgare",
+   "outcome": "accepted",
+   "verifierNote": "Fetched the live page (/nighantu/herb/fennel-herb.md) to confirm the substance before checking the name. It is a plant-part page for the aerial parts of fennel: dosage forms are fresh herb, dried herb powder, infusion, tincture, and the body text itself reads 'Fennel herb (aerial parts - stems, fronds) contains lower essential oil than seeds (0.5-1.5% vs 2-6%)'. So the page is a single plant, not a compound or a mineral. 'Fennel' as an English drug name maps to one accepted species, Foeniculum vulgare Mill. (Apiaceae); no competing species surfaced in searching. Confirmed no correction needed:",
+   "identifyBasis": "Page title is the unambiguous English drug name 'Fennel'. Foeniculum vulgare Mill. (Apiaceae) is the accepted name in POWO/IPNI and is the source of Ayurvedic Mishreya/Madhurika fruit. English common name maps to a single accepted species."
+  },
+  {
+   "slug": "fennel",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Foeniculum vulgare",
+   "outcome": "accepted",
+   "verifierNote": "Checked separately from fennel-herb rather than inheriting the verdict. The live page covers fennel seed and essential oil (gripe water, arka, enteric capsule) and its own body text already names the species: 'Foeniculum vulgare essential oil contains trans-anethole (80-90%)'. That is internal corroboration independent of the proposer. Single plant, English drug name with one accepted binomial, Foeniculum vulgare Mill. (Apiaceae), accepted rather than a synonym. No correction made. The proposer's own caveat about Shatapushpa being contested with Anethum graveolens is correct but irrelevant her",
+   "identifyBasis": "Duplicate/companion page to fennel-herb. English name 'Fennel' = Foeniculum vulgare Mill. (Apiaceae), accepted name per POWO; standard Ayurvedic Mishreya/Shatapushpa-group drug. Note: the Sanskrit name Shatapushpa is itself contested with dill (Anethum graveolens), but the English page title 'Fennel' is not."
+  },
+  {
+   "slug": "fenugreek-herb",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Trigonella foenum-graecum",
+   "outcome": "accepted",
+   "verifierNote": "Live page confirms a single plant, the leaf of fenugreek, and states in its own text 'Trigonella foenum-graecum leaves contain flavonoids (vitexin, orientin...)'. English 'fenugreek' maps to one accepted species, Trigonella foenum-graecum L. (Fabaceae), accepted name and not a synonym, so no correction was needed. I did try to refute this one on a specific point: the page lists 'Dried leaf powder (Kasuri Methi)' as a dosage form, and kasuri methi is genuinely contested, with agronomic literature assigning it to Trigonella corniculata L. while commercial and culinary sources use Trigonella foen",
+   "identifyBasis": "English name 'Fenugreek' maps to a single accepted species, Trigonella foenum-graecum L. (Fabaceae), per POWO/IPNI; it is the Ayurvedic Methika of the Ayurvedic Pharmacopoeia of India."
+  },
+  {
+   "slug": "gandhak-rasayan",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Gandhaka Rasayana is a classical rasashastra formulation: shuddha gandhaka (purified sulphur, a mineral element) triturated with bhavana of multiple plant decoctions (ginger, guduchi, triphala, bhringaraja etc.). Neither a single plant nor a single mineral, so no binomial."
+  },
+  {
+   "slug": "gavedhuka",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": false,
+   "candidate": "Coix lacryma-jobi",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Ayurvedic nighantu and modern dravyaguna sources (e.g. ayushvedah drug database, wisdomlib nighantu entries, published pharmacology papers on 'Gavedhuka (Coix lacryma-jobi L.)') consistently identify Gavedhuka as Job's tears, Coix lacryma-jobi L. (Poaceae), accepted in POWO; 'Coix lacryma L.' cited alongside is a synonym. Marked medium rather than high because I did not confirm an Ayurvedic Pharma"
+  },
+  {
+   "slug": "ghrita",
+   "category": "animal",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Ghrita is clarified butter (ghee), an animal-derived (dairy) substance and a base/anupana for medicated ghees. Not a plant; no binomial applicable."
+  },
+  {
+   "slug": "godanti-bhasma",
+   "category": "mineral",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Godanti (literally 'cow's tooth') is the mineral gypsum, hydrated calcium sulphate (CaSO4.2H2O); Godanti Bhasma is its calcined preparation. Mineral, no binomial."
+  },
+  {
+   "slug": "godugdha",
+   "category": "animal",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Godugdha is cow's milk (go = cow, dugdha = milk), an animal-derived substance classified in Ksheera varga. No binomial."
+  },
+  {
+   "slug": "gomeda-bhasma",
+   "category": "mineral",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Gomeda is a gemstone (hessonite garnet / cinnamon stone, a calcium-aluminium silicate; some sources treat it as zircon); Gomeda Bhasma is its calcined ash, one of the ratna bhasmas. Mineral, no binomial."
+  },
+  {
+   "slug": "gomutra",
+   "category": "animal",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Gomutra is cow urine, an animal-derived substance used in Mutra varga and as a shodhana/bhavana medium. No binomial."
+  },
+  {
+   "slug": "gorochana",
+   "category": "animal",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Web search of Ayurvedic and general references confirms Gorochana (Gopitta) is a bezoar/gallstone concretion from the gall bladder or bile duct of cattle, equivalent to Calculus bovis. Animal-derived; no binomial."
+  },
+  {
+   "slug": "granthiparni",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Leonotis nepetifolia",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "The Ayurvedic Pharmacopoeia of India Part 1 Vol 3 gives the source of Granthiparni as the root of Leonotis nepetifolia (L.) R.Br. (Lamiaceae), accepted in POWO. However, published source-identification reviews note Bapalal Vaidya and Thakur Balwant Singh treated the identity as controversial, and Granthiparni is also identified in parts of India with Artemisia indica / Artemisia vulgaris. Binomial"
+  },
+  {
+   "slug": "grinjana",
+   "category": "uncertain",
+   "confidence": "low",
+   "contestedAtIdentify": true,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Sources genuinely disagree. Grinjana/Granjana is glossed as carrot (Daucus carota L.) in several dravyaguna lists, but reviews of the ahara varga note it is also read as turnip (Brassica rapa), onion (Allium cepa), and in Dhanvantari and Raja Nighantu as a synonym of Rasona/Grinjanaka (an Allium). No single accepted identification, so left blank."
+  },
+  {
+   "slug": "gudmar-herb",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Gymnema sylvestre",
+   "outcome": "accepted",
+   "verifierNote": "Live page is a single-plant whole-leaf page whose text names 'Gymnema sylvestre whole leaf (as opposed to standardized extract)'. Gudmar is the standard Hindi trade name, meaning sugar-destroyer, for this species and nothing else. I specifically searched for a substitution or contested-identity literature on Gudmar/Meshashringi and found none, which is the opposite of what I found for granthiparni and gavedhuka. Nomenclature checked at POWO rather than assumed, because Gymnema has been proposed for merger into Marsdenia: POWO treats Marsdenia sylvestris (Retz.) P.I.Forst. as a synonym and Gymn",
+   "identifyBasis": "Gudmar (Meshashringi) is the standard Hindi trade name for Gymnema sylvestre (Retz.) R.Br. ex Sm. (Apocynaceae/Asclepiadaceae), the accepted name in POWO and the source in the Ayurvedic Pharmacopoeia of India monograph for Meshashringi."
+  },
+  {
+   "slug": "gudmar",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Gymnema sylvestre",
+   "outcome": "accepted",
+   "verifierNote": "Verified independently of gudmar-herb. This page covers the standardized extract (gymnemic acids) and its own key-facts block already claims pharmacopoeial recognition: 'Recognized in Ayurvedic Pharmacopoeia of India for traditional antidiabetic use', and its mechanism section is entirely about gymnemic acids and pancreatic beta-cells. Single plant, uncontested vernacular name, and POWO gives Gymnema sylvestre (Retz.) R.Br. ex Sm. as the accepted name with Marsdenia sylvestris as a synonym, so the proposed name is the accepted one and needed no correction.",
+   "identifyBasis": "Duplicate/companion page to gudmar-herb. Gudmar = Gymnema sylvestre (Retz.) R.Br. ex Sm., accepted name per POWO; Ayurvedic Meshashringi."
+  },
+  {
+   "slug": "hajrul-yahood-bhasma",
+   "category": "mineral",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Hajrul Yahood (Sange Yahood, Badarashma, 'Jew's stone', a fossilised lime-silicate stone rich in calcium and magnesium) calcined into bhasma. Confirmed by web search of Ayurvedic pharmacology references. Mineral/fossil origin, not a plant; no binomial."
+  },
+  {
+   "slug": "ashoka",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Saraca asoca",
+   "outcome": "accepted",
+   "verifierNote": "Verified against the Ayurvedic Pharmacopoeia of India monograph (Ashoka = dried stem bark) and POWO/IPNI. Saraca asoca (Roxb.) Willd. is the accepted name; the widely printed 'Saraca indica L.' is a different/misapplied species name, not a synonym, so the trade name was correctly not used. No rival genus is proposed for Ashoka in Ayurvedic sources. Passed as proposed.",
+   "identifyBasis": "Ayurvedic Pharmacopoeia of India monograph 'Ashoka' = dried stem bark of Saraca asoca (Roxb.) Willd. (Fabaceae/Leguminosae); confirmed by Ayurvedic Pharmacopoeia of India Part I text and multiple peer-reviewed reviews (JAIMS, Indian Medicinal Plants). Trade literature often prints the older 'Saraca indica L.', which POWO treats as a separate/misapplied name, so the accepted Ayurvedic drug name is "
+  },
+  {
+   "slug": "atibala",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Abutilon indicum",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed Abutilon indicum (L.) Sweet is accepted in POWO (Malvaceae, IPNI 1101632-2), and Ayurvedic pharmacognostic literature (PMC10251287 on Atibala fruit; IRJAY review; Dravyaguna teaching sources) identifies Atibala with it consistently. Checked the substitution literature specifically: the South Indian Sida raw-drug barcoding work treats A. indicum as the authentic Atibala, and reported regional substitutes (Urena lobata in Kerala, Sida rhombifolia in some Kannada usage) are described as substitutes, not as rival determinations of the name. Passed as proposed.",
+   "identifyBasis": "Atibala is consistently identified as Abutilon indicum (L.) Sweet (Malvaceae) in Ayurvedic pharmacognosy literature (e.g. pharmacognostical/phytochemical study of Atibala fruit, PMC10251287; Dravyaguna teaching sources). Abutilon indicum is the accepted name in POWO; Atibala sits in the standard Bala group (Bala = Sida cordifolia, Atibala = Abutilon indicum, Mahabala = Sida rhombifolia) with littl"
+  },
+  {
+   "slug": "avipattikar-herbs",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Avipattikar is a classical multi-herb churna (Ayurvedic Formulary of India), containing Amalaki, Bibhitaki, Haritaki, Pippali, Maricha, Shunthi, Musta, Tejpatra, Lavanga, Ela, Trivrit, Vidanga, Vida lavana and sugar. The page title is explicitly the herb set of that formulation, so no single binomial applies."
+  },
+  {
+   "slug": "avipattikar",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Avipattikar Churna is a classical polyherbal powder (13-14 ingredients plus salt and sugar) listed in the Ayurvedic Formulary of India, not a single botanical drug. No binomial can be assigned."
+  },
+  {
+   "slug": "badara",
+   "category": "plant",
+   "confidence": "low",
+   "contestedAtIdentify": true,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Badara is a jujube (Rhamnaceae) but sources split: lexical/Ayurvedic sources give Ziziphus jujuba Mill., classical commentaries (e.g. Yogasarasangraha) and Indian floras give Ziziphus mauritiana Lam., and the related names Badari/Karkandhu are attached to Ziziphus nummularia. Because Z. jujuba (Chinese jujube) and Z. mauritiana (Indian ber) are distinct accepted species whose literature does not o"
+  },
+  {
+   "slug": "bala-mool",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": true,
+   "candidate": "Sida cordifolia",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "'Bala mula' = root of Bala, whose official pharmacopoeial source is Sida cordifolia L. (Malvaceae), the accepted POWO name. Flagged contested because DNA-barcoding work on the South Indian raw-drug trade (J. Ethnopharmacol./Biochem. Syst. Ecol. studies) shows Kerala practice accepts Sida rhombifolia var. retusa as Bala, and S. acuta / S. rhombifolia are common market substitutes."
+  },
+  {
+   "slug": "bandhuka",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": false,
+   "candidate": "Pentapetes phoenicea",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Bandhuka / Bandhujiva is identified with Pentapetes phoenicea L. (Malvaceae, Hindi dopahariya, the midday flower) in Ayurvedic drug databases (ayushvedah), Sanskrit-botanical concordances (wisdomlib) and pharmacognostic work on P. phoenicea leaves. Some regional and ornamental usage attaches 'Bandhuka' to Ixora coccinea, hence medium rather than high, but Pentapetes is the dominant Ayurvedic ident"
+  },
+  {
+   "slug": "bhringraj",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Eclipta prostrata",
+   "outcome": "accepted",
+   "verifierNote": "Nomenclature checked at POWO: Eclipta prostrata (L.) L. (IPNI 1186403-2) is the accepted name and Eclipta alba (L.) Hassk. resolves to it as a synonym, so the API's 'Eclipta alba' and this entry are the same species, not competing identifications. Note a popular secondary source asserts the reverse direction of synonymy; POWO/IPNI overrules it. The Peeta/Shweta bhringaraja material assigned to Sphagneticola (Wedelia) calendulacea is a separate drug entry and does not make this one contested. Passed as proposed.",
+   "identifyBasis": "Bhringaraja is the whole plant of Eclipta prostrata (L.) L. (Asteraceae); Eclipta alba (L.) Hassk., the name printed in most Ayurvedic texts, is a nomenclatural synonym of it in POWO/IPNI, so this is a name change, not a species dispute. (Peeta/Shweta bhringaraja varieties assigned to Sphagneticola calendulacea are treated as separate drugs, not as this entry.)"
+  },
+  {
+   "slug": "bhumi-jambuka",
+   "category": "plant",
+   "confidence": "low",
+   "contestedAtIdentify": true,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Bhumi jambu / Kshudra jambu is a minor 'ground' variety in the Jambu group of the nighantus, identified in secondary sources with Eugenia heyneana Wall. and Eugenia operculata Roxb. (now placed in Syzygium), with no pharmacopoeial monograph and no consistent modern determination. Identity too thin to state a binomial."
+  },
+  {
+   "slug": "bhumyamalaki",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Phyllanthus amarus",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Bhumyamalaki (Tamalaki) is the whole plant of Phyllanthus amarus Schumach. & Thonn. (Phyllanthaceae) in Indian pharmacognostic and pharmacopoeial work (e.g. IJAPR screening of Bhumyamalaki as P. amarus). Contested because much popular and clinical literature labels it Phyllanthus niruri L., while Indian floristic work assigns most northern Indian material to Phyllanthus fraternus G.L.Webster; all "
+  },
+  {
+   "slug": "bhunimba",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Andrographis paniculata",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Modern Ayurvedic usage equates Bhunimba with Kalamegha, Andrographis paniculata (Burm.f.) Nees (Acanthaceae) (ayushvedah drug entry; standard Dravyaguna sources). Genuinely contested: Bhunimba is also used as a synonym of Kiratatikta, Swertia chirayita (Roxb.) H.Karst. (Gentianaceae), for which A. paniculata is the common market substitute, and Rajanighantu applies Bhunimba to Bhumikadamba as well"
+  },
+  {
+   "slug": "bhurja",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Betula utilis",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed Bhurja / Bhurjapatra = Betula utilis D.Don (Betulaceae), the Himalayan birch whose bark is the drug; corroborated by the JAPS Betula utilis (Bhojpatra) review and Dravyaguna sources, with the Sanskrit bhurja being the direct etymon of bhojpatra. Betula utilis is the accepted name. Found no competing species assignment for this name. Passed as proposed.",
+   "identifyBasis": "Bhurja / Bhurjapatra is the Himalayan birch, Betula utilis D.Don (Betulaceae), the accepted POWO name; the Sanskrit bhurja is the direct etymon of the species' vernacular bhojpatra and the stem bark is the drug (Sushruta Samhita; JAPS review of Betula utilis; Dravyaguna sources)."
+  },
+  {
+   "slug": "bhutakeshi",
+   "category": "plant",
+   "confidence": "low",
+   "contestedAtIdentify": true,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Bhutakeshi is assigned to Selinum vaginatum C.B.Clarke (Apiaceae) in most Ayurvedic and phytochemical literature, but a substantial body of sources identifies it as Corydalis govaniana Wall. (Papaveraceae). Two different families, plus the drug's own role as a market substitute for Nardostachys jatamansi, make any single binomial unsafe here."
+  },
+  {
+   "slug": "bhutika",
+   "category": "plant",
+   "confidence": "low",
+   "contestedAtIdentify": true,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Bhutika is a lexical Sanskrit name mapped in the nighantus and Sanskrit dictionaries to at least three unrelated plants: ajwain (Carum copticum, accepted as Trachyspermum ammi), the fragrant grass Cymbopogon schoenanthus, and chirata (Swertia chirayita); Curcuma zerumbet also appears. No dominant or pharmacopoeial identification exists."
+  },
+  {
+   "slug": "bilva",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Aegle marmelos",
+   "outcome": "accepted",
+   "verifierNote": "Verified against the Ayurvedic Pharmacopoeia of India, which carries separate Bilva monographs for fruit pulp (Vol. I), root (Vol. III) and stem bark (Vol. IV), all of Aegle marmelos (L.) Correa (Rutaceae). Aegle is effectively monotypic and the name is unambiguous in POWO/IPNI, so no substitution or rival-species question arises. Passed as proposed.",
+   "identifyBasis": "Bilva is the root/root-bark and unripe fruit of Aegle marmelos (L.) Corrêa (Rutaceae), a monotypic-genus species with an Ayurvedic Pharmacopoeia of India monograph and an unambiguous accepted name in POWO/IPNI."
+  },
+  {
+   "slug": "bimbi",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Coccinia grandis",
+   "outcome": "accepted",
+   "verifierNote": "Nomenclature checked at POWO: Coccinia grandis (L.) Voigt (IPNI 291972-1) is accepted; Coccinia indica Wight & Arn. (IPNI 291977-1, an illegitimate superfluous name), C. cordifolia and Cephalandra indica all resolve to it, so the older names in Ayurvedic texts are synonymy rather than disagreement. Sweet and bitter forms are infraspecific variants of the one species. Passed as proposed.",
+   "identifyBasis": "Bimbi is Coccinia grandis (L.) Voigt (Cucurbitaceae), accepted in POWO (urn:lsid:ipni.org:names:291972-1); the names used in older Ayurvedic texts (Coccinia indica Wight & Arn., C. cordifolia, Cephalandra indica) are synonyms of the same species, not rival determinations. Sweet cultivated and bitter wild forms are varieties of one species."
+  },
+  {
+   "slug": "abhraka-bhasma",
+   "category": "mineral",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Abhraka is mica (a phyllosilicate, biotite/muscovite group); Abhraka Bhasma is its shodhita-marana calcined product. The page's own composition section states 'mica based nanomaterial' and lists XRD/ICP-OES/SEM-EDS as the analytical methods. Rasa Shastra maharasa, not a plant. No binomial applies."
+  },
+  {
+   "slug": "agnijara",
+   "category": "animal",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Agnijara is one of the eight Sadharana Rasas of Rasaratna Samuchchaya and is standardly identified as ambergris, the biliary/intestinal secretion of the sperm whale Physeter macrocephalus (easyayurveda Rasa Shastra monograph; rasa-dravya mineralogical identification reviews). Some sources instead gloss it as amber (fossil conifer resin) or as a sea-derived mineral product, so the source organism i"
+  },
+  {
+   "slug": "agnikumarika",
+   "category": "uncertain",
+   "confidence": "low",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "No identification found. The page carries no vernacular or Sanskrit name beyond the title and its body is generic boilerplate ('composition varies by preparation method'). Searching gives only Agnikumara/Agnikumarika rasa and lauha, Rasajalanidhi iatrochemical formulations for grahani and pliha-yakrit vriddhi, i.e. mercury-sulphur-aconite-shankha compound preparations, not a single dravya. Deliber"
+  },
+  {
+   "slug": "aja-dugdha-goat-milk",
+   "category": "animal",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Aja Dugdha is goat milk, an animal product (from Capra hircus) and one of the eight ksheera of the Ayurvedic dugdha varga. The title itself glosses it as 'Goat Milk'. Not a plant, so no botanical binomial."
+  },
+  {
+   "slug": "ajmoda",
+   "category": "plant",
+   "confidence": "low",
+   "contestedAtIdentify": true,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Genuinely unresolved at species level. Ajmoda is supplied in India as Apium graveolens L., as Trachyspermum roxburghianum (DC.) Craib, and the Ayurvedic Formulary of India names Apium leptophyllum (Pers.) F.Muell. ex Benth. (= Cyclospermum leptophyllum); pharmacognostic comparison papers exist specifically because the fruits of these are near-indistinguishable. Three candidate species across two-p"
+  },
+  {
+   "slug": "ajwain-herb",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Coleus amboinicus",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed the page is the LEAF drug (Indian borage / ajwain ka patta), not the ajwain seed spice: /herb/ajwain.md is a separate page already carrying botanical 'Trachyspermum ammi' (Apiaceae), while this page's dosage forms are swarasa (fresh leaf juice), churna (dried leaf powder), phanta and lepa, and its marker set is rosmarinic acid, cirsimaritin, eugenol and beta-caryophyllene alongside thymol/carvacrol. Rosmarinic acid and cirsimaritin are Lamiaceae markers absent from Trachyspermum ammi seed, so the page cannot be the seed. The page's own bioavailability paragraph names 'Coleus aromatic",
+   "identifyBasis": "This page is the LEAF herb (ajwain ka patta / Indian borage), not the ajwain seed spice, which is a separate page (ajwain.md). The page's own pharmacokinetics text names it: 'the leaf (Coleus aromaticus / Plectranthus amboinicus, sometimes called Ajwain ka patta)', and its marker compounds are the Lamiaceae set (thymol, carvacrol, rosmarinic acid, cirsimaritin), not the Apiaceae seed profile. Dosa"
+  },
+  {
+   "slug": "akika-pishti",
+   "category": "mineral",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Akika is agate, a cryptocrystalline silica (chalcedony/SiO2); the pishti is the gemstone triturated with rose water. The page's own text repeatedly refers to 'Agate stone trituration' and an 'agate matrix'. Mineral, no binomial."
+  },
+  {
+   "slug": "amra-beeja",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Mangifera indica",
+   "outcome": "accepted",
+   "verifierNote": "Verified this is a plant part of one unambiguous species, not a compound. Amra is mango and Amra Beeja is the seed kernel; dosage forms are all kernel-based (3-6g kernel powder, defatted kernel extract) with a mango-kernel marker set (gallic acid, ellagic acid, gallotannins, pentagalloylglucose, methyl gallate), and the body states 'The seed kernel (Mangifera indica kernel)'. Consistent with the atlas's own parent page /herb/amra.md, which already carries 'Mangifera indica L.'. Mangifera indica L. (Anacardiaceae) is the accepted name; recorded without the author abbreviation for field consiste",
+   "identifyBasis": "Amra is mango and Amra Beeja is its seed kernel (dosage forms are 'seed kernel powder'); the page body itself says 'The seed kernel (Mangifera indica kernel)'. Mangifera indica L. is the accepted name (Anacardiaceae) and is the API source plant for Amra. Plant part of a single, unambiguous species."
+  },
+  {
+   "slug": "amra-haridra",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Curcuma amada",
+   "outcome": "accepted",
+   "verifierNote": "Checked the Sanskrit name independently rather than relying on the page. Dravyaguna sources (Shri Dhanwantry Ayurvedic College monograph 'Amragandhi haridra'; Easy Ayurveda; IAFA) give Amra Haridra / Amragandhi Haridra / Amba Haldi = Curcuma amada Roxb. (Zingiberaceae), mango ginger, under those exact synonyms. Confirmed Curcuma amada Roxb. is the accepted name in POWO, so no correction was needed. Page chemistry corroborates: difurocumenonol plus a myrcene/beta-pinene/ocimene volatile profile is the C. amada signature, not the Curcuma longa profile, so this is not a mislabelled turmeric page.",
+   "identifyBasis": "Amra Haridra / Amragandhi Haridra is mango ginger, Curcuma amada Roxb. (Zingiberaceae), stated under that exact Sanskrit name in dravyaguna teaching sources (Shri Dhanwantry Ayurvedic College dravyaguna monograph 'Amragandhi haridra') and used as such in the API. The page body names Curcuma amada. Accepted name; note only that some authors have argued Curcuma mangga is conspecific, which does not "
+  },
+  {
+   "slug": "ananta-mool",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": true,
+   "candidate": "Hemidesmus indicus",
+   "outcome": "accepted",
+   "verifierNote": "Examined the contested flag the proposer raised and found it does not attach to this page. The real dispute is over the trade group name 'Sariva', where krishna sariva is supplied as Cryptolepis buchananii, Ichnocarpus frutescens or Decalepis hamiltonii; the vernacular Anantamool / Anantamula maps consistently to Hemidesmus indicus, which the API carries as Sveta Sariva (root). The atlas already holds a separate /herb/sariva.md page carrying 'Hemidesmus indicus', so this does not collapse the two entries. Decisive on-page evidence: markers hemidesmin-1, hemidesmin-2 and hemidesminine are named",
+   "identifyBasis": "Anantamool is Indian sarsaparilla, Hemidesmus indicus (L.) R.Br. ex Schult. (Apocynaceae), an API drug (Sariva/Anantamula, root). The page's own answer field already states 'Hemidesmus indicus (Indian Sarsaparilla) root contains 2-hydroxy-4-methoxybenzaldehyde', which is the species' characteristic aroma marker. Flagged contested because the Sariva/Anantamool trade group also carries Cryptolepis b"
+  },
+  {
+   "slug": "anjatraya",
+   "category": "uncertain",
+   "confidence": "low",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Not identifiable with confidence. The page has no vernacular name and entirely generic body text. The plausible reading is Anjana-traya, the classical triad of collyria (srotoanjana = antimony ore, sauviranjana = galena, rasanjana = Berberis aristata extract), which is consistent with the page being filed under Eye-Health but makes it a mixed mineral-plus-plant group rather than one species. Left "
+  },
+  {
+   "slug": "aranya-jeeraka",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Baccharoides anthelmintica",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Aranya Jiraka (wild cumin, kali jiri) is identified in dravyaguna sources under this exact Sanskrit name as Centratherum anthelminticum (L.) Kuntze, syn. Vernonia anthelmintica (Shri Dhanwantry Ayurvedic College dravyaguna monograph 'Aranya-Jiraka'; easyayurveda monograph). POWO treats Centratherum anthelminticum as a synonym of the accepted Baccharoides anthelmintica (L.) Moench (Asteraceae), whi"
+  },
+  {
+   "slug": "arjuna-twak",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Terminalia arjuna",
+   "outcome": "accepted",
+   "verifierNote": "Verified this is the stem bark (twak) of a single species, not a formulation. Dosage forms are bark powder, kashaya and kshirapaka; markers are arjunolic acid, arjunic acid, arjunetin, arjunaphthanol and casuarinin, all Terminalia arjuna bark constituents. The body states it is 'the bark/Twak of Terminalia arjuna specifically designated', and the parent page /herb/arjuna.md already carries 'Terminalia arjuna', so the part page stays consistent with the whole-plant page. Confirmed Terminalia arjuna (Roxb. ex DC.) Wight & Arn. is the accepted name in POWO (Combretaceae, basionym Pentaptera arjun",
+   "identifyBasis": "Arjuna Twak is the stem bark of Arjuna, Terminalia arjuna (Roxb. ex DC.) Wight & Arn. (Combretaceae), an API monograph drug (Arjuna, bark) and the standard cardiotonic bark; the page body names Terminalia arjuna directly. Plant part of a single unambiguous species; accepted name."
+  },
+  {
+   "slug": "arka-ksheera",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Calotropis procera",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Arka Ksheera is the latex of Arka (Calotropis, Apocynaceae/Asclepiadoideae); the page's markers are the Calotropis cardenolides and latex enzymes (calotropin, calactin, uscharin, calotropain). Genus is certain. The API monographs for Arka use Calotropis procera (Aiton) Dryand., so that is given, but species assignment is genuinely disputed: classical Rakta-arka is read as C. procera and Shweta-ark"
+  },
+  {
+   "slug": "arka-pushpa",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Calotropis procera",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Arka Pushpa is the flower of Arka; the page's own text says 'Flowers of Calotropis procera/gigantea'. Same identity situation as the parent Arka page: genus Calotropis is certain, and the API Arka monographs use Calotropis procera (Aiton) Dryand., but C. gigantea (Shweta-arka/Alarka) is used under the same name, so the species is contested."
+  },
+  {
+   "slug": "arka",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Calotropis procera",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "The page is the plant Arka (madar), not the arka distillate dosage form: dosage forms are shodhita root bark churna, latex, flowers, and markers are calotropin, calactin, calotoxin, uscharin, calotropagenin, mudarin, giganticine. The Ayurvedic Pharmacopoeia of India carries Arka root and Arka leaf monographs under Calotropis procera (Aiton) Dryand. Contested because Ayurvedic texts recognise two a"
+  },
+  {
+   "slug": "bitter-gourd-herb",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Momordica charantia",
+   "outcome": "accepted",
+   "verifierNote": "Fetched the live page: title \"Bitter Gourd Herb\", names table carries only the English name, no Sanskrit and no binomial, and the part-used section is the aerial parts (leaves, stems, tendrils) with leaf-juice dosing. So this is not a duplicate of the /bitter-gourd page (that one is the fruit), it is the leaf/aerial-part entry for the same plant. \"Bitter gourd\" (Karavellaka, karela) has a single botanical referent in Indian materia medica, Momordica charantia L., accepted in POWO and the API monograph source; the small wild form is only var. muricata, not a separate species, and the other \"bit",
+   "identifyBasis": "English common name \"bitter gourd\" (Sanskrit Karavellaka, Hindi Karela) maps unambiguously to Momordica charantia L., an accepted name in POWO and the monographed source in the Ayurvedic Pharmacopoeia of India. No Names table was supplied for this page, so the ID rests on the title alone, but the English name has no competing botanical referent in Indian materia medica (the small wild form is only"
+  },
+  {
+   "slug": "bitter-gourd",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Momordica charantia",
+   "outcome": "accepted",
+   "verifierNote": "Fetched the live page: English name only in the names table, no binomial stated, part used is the fruit with fresh-juice and powder dosing, which matches Karavellaka phala. \"Bitter gourd\" maps to Momordica charantia L. and to nothing else in Indian materia medica; POWO lists it as accepted, and it is the API-monographed source. Name is already the accepted one, no correction needed. Noted for the record that this page and /bitter-gourd-herb are not duplicates but fruit and aerial-part entries for the same species.",
+   "identifyBasis": "Same as the bitter-gourd-herb page and evidently a duplicate of it. \"Bitter gourd\" = Karavellaka = Momordica charantia L. (POWO accepted; API monograph). Identification from the title only, as no Names table was provided."
+  },
+  {
+   "slug": "camphor",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": true,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Camphor (Karpura) is a crystalline terpenoid substance, not a plant, and Ayurvedic sources split its source explicitly: Pakva/Cina karpura distilled from Cinnamomum camphora (L.) J.Presl, versus Apakva/Bhimseni karpura, natural camphor from Dryobalanops (D. aromatica / D. camphora Colebr., Dipterocarpaceae); most market camphor in India today is synthetic. Assigning one binomial would misattribute"
+  },
+  {
+   "slug": "chakshushya",
+   "category": "uncertain",
+   "confidence": "low",
+   "contestedAtIdentify": true,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Chakshushya is primarily a karma/property term in Ayurveda (\"beneficial to the eyes\"), applied in the literature to roughly 105 herbal, 36 mineral and 97 dietary dravyas rather than to one drug; separately, \"Chaksu/Chakshushya\" is a market name for the seeds of Cassia absus L. (accepted name Senna absus (L.) Roxb.). With no Names table on the page there is no way to tell which sense the entry uses"
+  },
+  {
+   "slug": "chandraprabha",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Chandraprabha (Chandraprabha Vati, Sharangadhara Samhita) is a classical polyherbo-mineral tablet of roughly 37 ingredients including Shilajatu, Guggulu, Loha Bhasma, Svarnamakshika Bhasma, three lavanas and two ksharas. Not a single plant. (Note: \"Chandraprabha\" is also a Sanskrit synonym for karpura/camphor, which is likewise not a single-plant drug, so the conclusion holds under either reading."
+  },
+  {
+   "slug": "chavika",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Piper retrofractum",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Chavika/Chavya is the stem of what Ayurvedic literature and the API call Piper chaba Hunter; POWO treats Piper chaba W.Hunter as a synonym of the accepted Piper retrofractum Vahl, so the accepted name is given here. Identity is genuinely unsettled: some dravyaguna authorities keep P. chaba distinct from P. retrofractum, and Piper brachystachyum, P. sylvaticum and even Piper longum root (Pippalimul"
+  },
+  {
+   "slug": "chirabilva",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Holoptelea integrifolia",
+   "outcome": "accepted",
+   "verifierNote": "Checked the page body, not just the title: it already names Holoptelea integrifolia and describes bark triterpenoids (friedelin, lupeol), which fits that species, so the identification is corroborated internally as well as externally. The Ayurvedic Pharmacopoeia of India assigns Chirabilva to Holoptelea integrifolia, and the ethnobotanical review literature on the species agrees that modern Indian scholars settle on it. Examined the proposer's contested flag and did not sustain it: the confusion runs through the shared synonym Putika/Putikaranja, and the API resolves that by assigning Putikara",
+   "identifyBasis": "Chirabilva is given as Holoptelea integrifolia (Roxb.) Planch. (Ulmaceae, Indian elm) by NIA's herbal garden monograph, wisdomlib's Sanskrit lexicon entries and the standard ethnobotanical review of the species. Contested because Chirabilva shares Sanskrit synonyms (Putika, Karanja-group names) with Pongamia pinnata (accepted name Millettia pinnata) and at least one nighantu tradition equates Chir"
+  },
+  {
+   "slug": "chirayata",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": true,
+   "candidate": "Swertia chirayita",
+   "outcome": "accepted",
+   "verifierNote": "Fetched the page: no binomial and no Sanskrit name on it, but the recorded properties (extremely bitter, tikta rasa, laghu and ruksha guna, sheeta virya, katu vipaka, whole-plant preparations) match the classical Kiratatikta profile. Chirayata / Kiratatikta is the API-official Swertia chirayita, and the API carries no Andrographis entry under that name. Reviewed the proposer's contested flag and did not sustain it: what the literature documents is substitution and adulteration driven by S. chirayita's endangered status, with Kalmegh (Andrographis paniculata) sold as a cheaper stand-in and othe",
+   "identifyBasis": "Chirayata / Kiratatikta is Swertia chirayita (Roxb.) H.Karst. (Gentianaceae), the API-official and POWO-accepted source. Flagged contested because the trade name \"chirata\" is documented as covering Andrographis paniculata (Kalmegh, sold as \"Chirayita desi\", sharing the Sanskrit name Kiratatikta), and the drug is widely substituted or adulterated with other Swertia species (S. angustifolia, S. alat"
+  },
+  {
+   "slug": "chitraka-moola",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": true,
+   "candidate": "Plumbago zeylanica",
+   "outcome": "accepted",
+   "verifierNote": "The page itself states the source as Plumbago zeylanica and confirms the drug part as the root, with the root cortex named as the richest in actives, matching the API monograph, which is written on the root. Verified in POWO that Plumbago zeylanica L. is an accepted name, so no correction was needed. Did not sustain the contested flag: the classical shveta / rakta distinction is a named-variety distinction, and Rakta Chitraka (Plumbago indica L., syn. P. rosea) circulates under its own qualified name, so unqualified Chitraka Moola is not split between two species by any authoritative source. R",
+   "identifyBasis": "Chitraka Moola is the root (moola) of Chitraka, Plumbago zeylanica L. (POWO accepted; API monograph is on the root). Contested in the classical sense that Vagbhata records shveta/peeta/asita varieties and Indian usage recognises red-flowered Plumbago indica L. (= P. rosea L.) as Rakta Chitraka, used regionally in place of the white P. zeylanica."
+  },
+  {
+   "slug": "chitrakaharitaki",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Chitraka Haritaki (Chitrakadi Haritaki Avaleha) is a classical polyherbal confection first described in Vrindamadhava and carried in Chakradatta, Gadanigraha, Bhaishajya Ratnavali and Yogaratnakara; it combines Chitraka (Plumbago zeylanica) and Haritaki (Terminalia chebula) with dashamula, guduchi, sugar and other drugs. A preparation, not a single plant."
+  },
+  {
+   "slug": "coriander-herb",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Coriandrum sativum",
+   "outcome": "accepted",
+   "verifierNote": "Fetched the live page: English name only, no binomial, and the part used is the fresh and dried leaf (cilantro) with fresh-juice and leaf-powder dosing. So this is the leaf entry, not a duplicate of the /coriander seed page as the proposer assumed; the species is the same either way. Coriander (Dhanyaka, dhania) has one botanical referent, Coriandrum sativum L., accepted in POWO and the API source, and leaf and seed both come from that single plant, so the binomial is correct for this page and the retrieved literature will be on the right species. Accepted unchanged.",
+   "identifyBasis": "\"Coriander\" (Sanskrit Dhanyaka, Hindi Dhania) is Coriandrum sativum L., accepted in POWO and the API monograph source. No Names table was supplied, so the ID rests on the English title, but the name has a single botanical referent."
+  },
+  {
+   "slug": "coriander",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Coriandrum sativum",
+   "outcome": "accepted",
+   "verifierNote": "Fetched the page: names table gives the English name only, no binomial, and the part used is the seed, prepared as churna, hima and kashayam, which is Dhanyaka. Coriandrum sativum L. is the accepted POWO name and the API-monographed source, and no competing species is sold as coriander in Indian materia medica. Accepted as proposed, with the correction that this page is the seed entry and /coriander-herb is the leaf entry rather than a duplicate.",
+   "identifyBasis": "Same as the coriander-herb page and apparently a duplicate of it: Dhanyaka = Coriandrum sativum L. (POWO accepted; API). Identification from the title only."
+  },
+  {
+   "slug": "cumin-herb",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Cuminum cyminum",
+   "outcome": "accepted",
+   "verifierNote": "Corroborated inside the page rather than from the title alone: the body explicitly references Cuminum cyminum and states that the aerial parts (leaves and stems) used here differ chemically from the seed, with more chlorophyll and flavonoids and less essential oil. That makes this the aerial-part entry for the same species as /cumin, not a duplicate. Cuminum cyminum L. is accepted in POWO and is the API source for Jiraka; the confusable drugs all carry qualifiers this title lacks (black cumin = Nigella sativa, kala jira = Bunium persicum or Carum carvi). Accepted unchanged.",
+   "identifyBasis": "Plain \"cumin\" (Sanskrit Jiraka/Shveta Jiraka, Hindi Jeera) is Cuminum cyminum L., POWO accepted and the API source. Not to be confused with black cumin (Nigella sativa) or Krishna/Kala jira (Carum carvi, Bunium persicum), but those require a qualifier the title does not carry. ID from the title alone, as no Names table was given."
+  },
+  {
+   "slug": "cumin",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Cuminum cyminum",
+   "outcome": "accepted",
+   "verifierNote": "Fetched the page: English name only, no binomial stated, part used is the seed with powder, decoction and essential-oil forms, and cross-links to coriander, fennel and ajwain, all consistent with Jiraka. Plain unqualified \"cumin\" denotes Cuminum cyminum L. and nothing else; POWO accepts the name and it is the API source. Accepted as proposed, correcting only the proposer's framing that this duplicates /cumin-herb, which is the aerial-part entry for the same plant.",
+   "identifyBasis": "Same as the cumin-herb page and evidently a duplicate: Jiraka = Cuminum cyminum L. (POWO accepted; API). Identification from the title only."
+  },
+  {
+   "slug": "curcumin",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Curcumin is a single isolated chemical (a diarylheptanoid, C21H20O6), the principal curcuminoid of Curcuma longa rhizome. It is a phytochemical constituent, not a drug plant, so no binomial is asserted; the parent plant Haridra would be the entry that carries Curcuma longa."
+  },
+  {
+   "slug": "dadhi",
+   "category": "animal",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Dadhi is curd/dahi, fermented milk, one of the classical gorasa (milk-derived) dravyas of Ayurvedic ahara and bhaishajya. An animal-derived food substance with no botanical source whatsoever; this is exactly the entry the earlier automated pass mislabelled \"Lactic acid\"."
+  },
+  {
+   "slug": "hapusa",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Juniperus communis",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Hapusha/Hauber/Abhal is the classical Sanskrit and Hindi name for juniper berry. The page's own pharmacokinetics section names Juniperus communis and its marker terpenes (alpha-pinene, sabinene), and Ayurvedic drug references (wisdomlib entry on Hapusa, ayushvedah drug monograph, easyayurveda) identify Hapusha as Juniperus communis Linn. (Cupressaceae). Accepted name confirmed via POWO/IPNI-linked"
+  },
+  {
+   "slug": "haratala-bhasma",
+   "category": "mineral",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Haratala is orpiment, arsenic trisulphide (As2S3); the bhasma is its calcined preparation. The page itself files it under Others > Mineral-Metal-Preparations > Bhasmas and its composition section is mineral/elemental. Not a plant."
+  },
+  {
+   "slug": "haritaki",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Terminalia chebula",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed. Terminalia chebula Retz. is an accepted name in POWO (Combretaceae, native Indian subcontinent to Indo-China). Haritaki is the API Part-I Vol-I monograph drug and the page's own key facts cite that monograph; the page's marker constituents (chebulagic acid, chebulinic acid) are T. chebula-specific. No competing species identification found. Kept as proposed.",
+   "identifyBasis": "Haritaki is the standard Sanskrit name for the dried fruit of Terminalia chebula Retz. (Combretaceae), the subject of a dedicated Ayurvedic Pharmacopoeia of India monograph and one of the three fruits of Triphala. Accepted name per POWO."
+  },
+  {
+   "slug": "hinguleshwar-ras",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "A rasa-shastra herbo-mineral formulation built on hingula (cinnabar, mercuric sulphide) with sulphur and plant adjuvants; the page is filed under Rasa-Shastra-Alchemical-Preparations and its own references concern cinnabar toxicology. Multi-ingredient preparation, not a single plant."
+  },
+  {
+   "slug": "holy-basil",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Ocimum tenuiflorum",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed and nomenclaturally checked. POWO/IPNI treat Ocimum tenuiflorum L. as the accepted name and Ocimum sanctum L. as a synonym of it, so the proposed name is already the accepted one and needed no correction. The page's own text reads 'Ocimum tenuiflorum (O. sanctum)' with eugenol, rosmarinic acid, ursolic acid and ocimumosides, all Tulsi markers. Note the varietal spread within Tulsi (Vana Tulsi is Ocimum gratissimum), but the English drug name 'Holy Basil' maps specifically to O. tenuiflorum, so this is not a contested case.",
+   "identifyBasis": "Holy Basil is the standard English name for Tulsi, Ocimum tenuiflorum L. (Lamiaceae); Ocimum sanctum L. is a synonym of that accepted name in POWO. Long-standing API monograph subject as Tulasi."
+  },
+  {
+   "slug": "hrivera",
+   "category": "plant",
+   "confidence": "low",
+   "contestedAtIdentify": true,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Genuinely contested source plant. The Ayurvedic Formulary of India lists Coleus vettiveroides K.C.Jacob (= Plectranthus vettiveroides, Lamiaceae) as Hrivera and that is the South Indian trade material, while much of the dravyaguna literature identifies Hrivera as Pavonia odorata Willd. (Malvaceae); South Indian markets also supply Plectranthus zeylanicus/barbatus/amboinicus under the name. The pag"
+  },
+  {
+   "slug": "icchabhedi-rasa",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "A rasa-shastra purgative formulation (parada, gandhaka and Jayapala seed among its ingredients), filed on the page under Rasa-Shastra-Alchemical-Preparations. Multi-ingredient herbo-mineral compound, not a single plant."
+  },
+  {
+   "slug": "ikshu",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Saccharum officinarum",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed. Sanskrit Iksu is sugarcane, Saccharum officinarum L. (Poaceae), the 'noble cane', per Sanskrit lexicon and dravyaguna sources; the page's constituent list (sucrose 12-17% in juice, policosanols, tricin) and dosage in fresh cane juice and jaggery are consistent. Related Saccharum species carry separate Sanskrit drug names (Kasha for S. spontaneum, Munja for S. munja), so there is no name collision. Accepted name per POWO. Kept as proposed.",
+   "identifyBasis": "Ikshu is the classical Sanskrit name for sugarcane, Saccharum officinarum L. (Poaceae), source of ikshurasa and the guda/sharkara group; the page's own pharmacokinetics section names Saccharum officinarum juice. Accepted name per POWO."
+  },
+  {
+   "slug": "indrayava",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Holarrhena pubescens",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Indrayava is the seed of Kutaja. The pharmacopoeial and dominant identification is Holarrhena antidysenterica Wall. (bitter Indrayava), which POWO and World Flora Online treat as a synonym of the accepted Holarrhena pubescens Wall. ex G.Don (Apocynaceae); the page's own text cites conessine, the Holarrhena marker alkaloid. Some sources additionally recognise a 'sweet' Indrayava from Wrightia tinct"
+  },
+  {
+   "slug": "isabgol",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Plantago ovata",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed. Indian isabgol/ispaghula husk is Plantago ovata Forssk. (Plantaginaceae), an API Part-I Vol-II drug (Sanskrit Ashwagola/Ishadgol); accepted name per POWO. The page's own research set is entirely Plantago ovata literature. The Mediterranean 'psyllium' of P. afra/P. arenaria is a separate trade article and does not carry the name isabgol, so this is not contested.",
+   "identifyBasis": "Isabgol is the Indian trade and Hindi name for psyllium husk from Plantago ovata Forssk. (Plantaginaceae); the page's own research abstracts are all Plantago ovata studies. Accepted name per POWO."
+  },
+  {
+   "slug": "ishabgula",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Plantago ovata",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed and cross-checked against the sibling page. The page text states it covers 'whole Plantago ovata seeds, distinct from Isabgol husk' and links to /herb/isabgol/, so this is the same species treated as a different plant part rather than a different drug. Same accepted name per POWO. Two pages sharing one binomial is correct here and not a duplication error.",
+   "identifyBasis": "Ishabgula is a transliteration variant of Isabgol; the page states it covers the whole seed of Plantago ovata as distinct from the husk entry. Same species, accepted name per POWO."
+  },
+  {
+   "slug": "jahar-mohra-pishti",
+   "category": "mineral",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Jahar Mohra (Nagapashana) is serpentine stone; XRD work published in IJAPR gives hydrous magnesium silicate, Mg3-xSi2O5(OH)4-2x, the serpentine-group formula. The pishti is its levigated mineral preparation, filed on the page under Mineral-Metal-Preparations. Not a plant."
+  },
+  {
+   "slug": "jambu-beeja",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Syzygium cumini",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed. The page states outright 'Syzygium cumini seed kernel (Jambu-Beeja specifically refers to the seed/seed kernel)' and links to the Jambu parent page; markers cited are jamboline, ellagitannins and gallic acid. Syzygium cumini (L.) Skeels is an accepted name per POWO (Eugenia jambolana is a synonym). The binomial is stated in the source page rather than inferred, so no ambiguity applies.",
+   "identifyBasis": "Jambu Beeja is the seed (beeja) of Jambu, i.e. Syzygium cumini (L.) Skeels (Myrtaceae); the page's own text states 'Syzygium cumini seed kernel (Jambu-Beeja specifically refers to the seed/seed kernel)'. Accepted name per POWO."
+  },
+  {
+   "slug": "jambu",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Syzygium cumini",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed with a caveat noted and dismissed. The page's own pharmacokinetics names 'Syzygium cumini (Java plum)' with jamboline and ellagic acid, matching the seed/bark/fruit dosage forms listed. Sanskrit lexica do record other plants under Jambu variants (Kakajambu for Syzygium jambos, and Raja Nighantu applies Jambu to Allium stracheyi), but these are qualified or regional usages; the Ayurvedic drug Jambu with antidiabetic seed use is S. cumini, and the page content already commits to that species. Accepted name per POWO.",
+   "identifyBasis": "Jambu is the classical Sanskrit name for jamun/black plum, Syzygium cumini (L.) Skeels (Myrtaceae), an API monograph drug; the page's own pharmacokinetics section names Syzygium cumini (Java plum) and its markers jamboline and ellagic acid. Accepted name per POWO."
+  },
+  {
+   "slug": "jamun",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Syzygium cumini",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed. Jamun is the Hindi name for the same drug; the page's own research section indexes papers titled 'Jamun (Syzygium cumini (L.) Skeels)', so the species is stated in-page, not inferred. Accepted name per POWO. This is a third page on the same species (with jambu and jambu-beeja), which is a duplication in the encyclopedia's structure but not a botanical error.",
+   "identifyBasis": "Jamun is the Hindi name for the same drug as Jambu, Syzygium cumini (L.) Skeels (Myrtaceae); the page is a duplicate treatment focused on the seed's antidiabetic literature. Accepted name per POWO."
+  },
+  {
+   "slug": "japa",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Hibiscus rosa-sinensis",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed, with a nomenclatural note. Japa/Japapushpa (Hindi Gudhal) is the flower of Hibiscus rosa-sinensis L. (Malvaceae) per the Ayurvedic Pharmacopoeia of India and ayushvedah's drug monograph; the page's own text names 'Hibiscus rosa-sinensis flowers' with cyanidin-3-sophoroside and quercetin, and its dosage forms are flower powder, juice and hair oil. POWO now lists the accepted name as the hybrid Hibiscus x rosa-sinensis L. (a cultigen of S. Pacific hybrid origin); I have kept the conventional unhybridised spelling because that is the form used throughout the pharmacological literature ",
+   "identifyBasis": "Japa (Japakusuma, Hindi Gudhal) is the flower of Hibiscus rosa-sinensis L. (Malvaceae), used in the women's-health and hair-oil contexts this page describes; the page's own pharmacokinetics section names Hibiscus rosa-sinensis flowers. Accepted name per POWO."
+  },
+  {
+   "slug": "dadima",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Punica granatum",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed. Fetched the live page (/nighantu/herb/dadima.md): parts used are seed, juice, peel and flower; markers are punicalagin, ellagitannins, anthocyanins, punicic acid and the gut metabolites urolithin A/B; preparations named are Dadimarishta and Dadimavaleha. Punicalagin and punicic acid are pomegranate-specific, so the page content itself pins the plant independently of the name. Dadima is the uniform Sanskrit equivalent of pomegranate in the Ayurvedic Pharmacopoeia of India (Dadima phala twak / Dadimatvak) and in dravyaguna literature; no competing species is proposed anywhere. Punica ",
+   "identifyBasis": "Dadima is the standard Sanskrit name for pomegranate across Ayurvedic dravyaguna sources and the Ayurvedic Pharmacopoeia of India (Dadima fruit rind / Dadimatvak). Page content (fruit juice, peel powder, seed, flower, Dadimarishta, Dadimavaleha; Madhura-Kashaya rasa, Sheeta virya) matches pomegranate exactly. Punica granatum L. is the accepted name in POWO/IPNI."
+  },
+  {
+   "slug": "dadrughna",
+   "category": "uncertain",
+   "confidence": "low",
+   "contestedAtIdentify": true,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Dadrughna is a Sanskrit attribute epithet meaning 'destroyer of dadru (ringworm)', not a fixed drug name. It is applied as a synonym to several different antifungal drugs (Chakramarda/Senna tora, Aragvadha, Karanja, Bakuchi). wisdomlib maps it to Senna tora, but other sources to Senna alata. The page itself lists Chakramarda (Cassia tora) as a *combination partner*, so it is not treating Dadrughna"
+  },
+  {
+   "slug": "danti-moola",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": false,
+   "candidate": "Baliospermum solanifolium",
+   "outcome": "accepted",
+   "verifierNote": "Identification confirmed, name corrected. The page (/nighantu/herb/danti-moola.md) carries no vernacular anchor at all (its Names table reads only English = 'Danti Moola'), so I checked whether the content is consistent independently: Katu rasa, Tikshna/Laghu, Ushna, mandatory Shodhana in cow's milk, a stated phorbol-ester load, and a 1-2 g practitioner-supervised purgative dose. Phorbol esters place it in Euphorbiaceae and match Danti moola exactly. I specifically tested the Danti/Dravanti muddle the proposer worried about: the literature resolves it rather than disputing it, assigning Danti ",
+   "identifyBasis": "Danti Moola is the root (moola) of Danti, identified in Ayurvedic dravyaguna literature and API as Baliospermum montanum (Willd.) Mull.Arg.; the currently accepted name is Baliospermum solanifolium (Burm.) Suresh (Euphorbiaceae). Page profile (Katu rasa, Tikshna, Ushna, drastic purgative requiring shodhana and practitioner supervision) matches Danti root. Confidence medium rather than high because"
+  },
+  {
+   "slug": "dashamoola",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Explicitly a classical polyherbal group: the page's own alias field reads 'Compound: 10 roots (5 large trees + 5 small plants)' and lists bilva, agnimantha, shyonaka, patala, gambhari, shalaparni, prishniparni, brihati, kantakari, gokshura, with family recorded as 'Multiple families'. Ten species, no single binomial applies."
+  },
+  {
+   "slug": "devadali",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": false,
+   "candidate": "Luffa echinata",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Devadali (a synonym of Jimutaka) is identified in Ayurvedic sources as Luffa echinata Roxb. (Cucurbitaceae), the bitter/bristly sponge gourd, used as an emetic, purgative and in jaundice. The page's Tikta-Katu rasa, Tikshna guna and Ushna virya are consistent. Luffa echinata Roxb. is an accepted name. Medium rather than high because the page table gives no Hindi/Sanskrit cross-check and a few sour"
+  },
+  {
+   "slug": "dhataki",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Woodfordia fruticosa",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed. The live page states the part used is the flower and that the 'primary traditional use is as fermentation agent in Aristha/Asava preparations' - that function is diagnostic, since Dhataki flower is the classical fermentation starter and no other drug fills that role. Kashaya-Tikta rasa and Sheeta virya match. The identification Dhataki = Woodfordia fruticosa (L.) Kurz (Lythraceae) is uniform across the Ayurvedic Pharmacopoeia of India and dravyaguna sources with no competing species; Woodfordia floribunda Salisb. is a synonym of the same taxon, not a rival identification. Accepted n",
+   "identifyBasis": "Dhataki is uniformly identified as Woodfordia fruticosa (L.) Kurz (Lythraceae) in the Ayurvedic Pharmacopoeia of India and dravyaguna literature; its flowers are the classical fermentation starter for asava/arishta preparations, which is exactly the primary use stated on the page. Accepted name per POWO."
+  },
+  {
+   "slug": "dhatri-loha",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "A classical herbo-mineral (loha) formulation, not a plant. The page's own source path files it under Others/Mineral-Metal-Preparations/Lohas-Iron-Preparations, and its text names Loha bhasma with Amalaki (Dhatri) and Yashtimadhu components, used for Pandu roga (iron-deficiency anaemia). No single binomial applies."
+  },
+  {
+   "slug": "dhava",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Anogeissus latifolia",
+   "outcome": "accepted",
+   "verifierNote": "Identification confirmed; a nomenclatural caveat, not an identity one. The live page already gives Anogeissus latifolia and describes a Kashaya-rasa stem-bark decoction with tannins, flavonoids and ellagic acid derivatives, which matches the axlewood bark drug. Dhava = Anogeissus latifolia (Combretaceae), with Sanskrit synonyms Dhurandhara, Shakatakhya, Indravriksha, is consistent across pharmacopoeial and dravyaguna sources and across the published pharmacognosy (including the classic Proc. Plant Sci. study of Dhava stem-bark and root); I found no rival species claimed for the name. NAME: I d",
+   "identifyBasis": "Dhava is the classical name for the axlewood tree, Anogeissus latifolia (Roxb. ex DC.) Wall. ex Guill. & Perr. (Combretaceae), in the Ayurvedic Pharmacopoeia and dravyaguna literature; the page's astringent (Kashaya) bark-powder profile matches. Nomenclatural note: following Maurin et al. (2017) POWO now sinks Anogeissus into Terminalia, so the strictly accepted name there is Terminalia anogeissia"
+  },
+  {
+   "slug": "draksha",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Vitis vinifera",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed. The live page's dose text ('10-20g dried grapes (Munakka) soaked and consumed'), Madhura-Amla rasa with Sheeta virya and Guru-Snigdha guna, and its marker list (trans-resveratrol, oligomeric proanthocyanidins, catechin, epicatechin, quercetin-3-glucoside, malvidin-3-glucoside) are all grape. Draksha = Vitis vinifera L. (Vitaceae) dried fruit is the Ayurvedic Pharmacopoeia of India equivalent and is uncontested; regional wild Vitis species occasionally appear as local substitutes but no source displaces V. vinifera as the drug. Accepted name per POWO. No correction needed.",
+   "identifyBasis": "Draksha is grape/raisin (Munakka), Vitis vinifera L. (Vitaceae), in the Ayurvedic Pharmacopoeia of India and all standard dravyaguna sources. The page's dose text (dried grapes/Munakka soaked, fresh juice, Avaleha) and Madhura-Amla rasa with Sheeta virya confirm it. Accepted name per POWO."
+  },
+  {
+   "slug": "drakshavaleha",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "A classical avaleha (herbal confection/linctus) built on Draksha with multiple additional drugs and sugar/ghee, referenced by the page to Ashtanga Hridaya and PCIM&H formularies. It is a multi-ingredient preparation, not a botanical taxon, so no binomial should be asserted (the base fruit is Vitis vinifera but that is an ingredient, not the identity of the product)."
+  },
+  {
+   "slug": "dronapushpi",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Leucas cephalotes",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Leucas cephalotes (Roth) Spreng. (Lamiaceae) is the official equivalent of Dronapushpi accepted by CCRAS/the Ayurvedic formulary. However this is a genuinely disputed identity: Leucas aspera Spreng. is the most widely traded substitute and is the accepted Dronapushpi in Kerala tradition (IMP, P.S. Varier), and some lexicons list Leucas linifolia / L. indica. Flagged contested; binomial given as th"
+  },
+  {
+   "slug": "dugdhika",
+   "category": "plant",
+   "confidence": "low",
+   "contestedAtIdentify": true,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Certainly a latex-bearing Euphorbia (the name means 'the milky one'), but sources map it to at least three species and I cannot resolve which this page means. The Ayurvedic Pharmacopoeia of India monograph gives the whole plant of Euphorbia prostrata W.Ait. as an accepted substitute for Euphorbia thymifolia L., the official drug; NIA's herbal garden and much clinical literature use Euphorbia hirta"
+  },
+  {
+   "slug": "durva",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Cynodon dactylon",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed. The live page states the botanical identity as 'Cynodon dactylon (Bermuda grass / Durva)' and its content corroborates it independently: fresh-juice-first dosing of the whole herb, Madhura-Kashaya rasa with Sheeta virya, haemostatic and uterine-tonic indications, and C-glycosyl flavones (orientin, vitexin) which are characteristic grass constituents. Durva = Cynodon dactylon (L.) Pers. (Poaceae) is the Ayurvedic Pharmacopoeia of India equivalent and is standard everywhere. The classical shweta/nila Durva varietal note is a within-drug distinction, not a competing botanical claim. Ac",
+   "identifyBasis": "Durva is Bermuda/couch grass, Cynodon dactylon (L.) Pers. (Poaceae), in the Ayurvedic Pharmacopoeia of India and all standard dravyaguna texts; the page's fresh-juice/whole-plant use, Madhura-Kashaya rasa and Sheeta virya, and its haemostatic/urinary indications all match. Accepted name per POWO."
+  },
+  {
+   "slug": "eranda-moola",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Ricinus communis",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed. This is a plant-part page, not a compound, so a single binomial is appropriate. The live page states part used = root, gives the source as 'Castor root (Ricinus communis root)', lists ricinine (a Ricinus-specific alkaloid) among its constituents, and correctly distinguishes root action (Vata, joints, anti-inflammatory) from seed-oil purgation - which is the classical Eranda moola description, matching its Madhura rasa / Guru-Snigdha guna / Ushna virya. Ricinus is a monotypic genus, so there is no species-level ambiguity possible: Ricinus communis L. (Euphorbiaceae) is accepted per P",
+   "identifyBasis": "Eranda Moola is the root (moola) of Eranda, castor, Ricinus communis L. (Euphorbiaceae), an API-listed drug used in vata disorders; Ricinus is a monotypic genus so there is no species ambiguity. The page links its own title to the parent Eranda entry and its Madhura rasa / Snigdha guna / Ushna virya profile is the classical Eranda moola description."
+  },
+  {
+   "slug": "eucalyptus-herb",
+   "category": "plant",
+   "confidence": "low",
+   "contestedAtIdentify": true,
+   "candidate": "Eucalyptus globulus",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Genus-level page (its 'Names' table literally reads 'Eucalyptus_Herb', and it is mis-filed under Kitchen-Spices), so no vernacular anchor pins a species. Eucalyptus globulus Labill. is the source species given in the Ayurvedic Pharmacopoeia of India for Tailaparna/Nilgiri taila and is the default Indian equivalent, so it is the best candidate, but Eucalyptus is a genus of several hundred species a"
+  },
+  {
+   "slug": "eucalyptus",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Eucalyptus globulus",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "The page describes eucalyptus essential oil dosed by cineole content for respiratory use, which is the Tailaparna / Nilgiri taila drug; the Ayurvedic Pharmacopoeia of India gives Eucalyptus globulus Labill. (Myrtaceae) as its botanical source (Sanskrit synonyms Tailaparna, Tailapatra, Sugandhapatra). Contested flagged because 'Eucalyptus' is a genus name and pharmacopoeial eucalyptus oil is also d"
+  },
+  {
+   "slug": "lajjalu",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Mimosa pudica",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed, no change to the binomial. Mimosa pudica L. is the POWO/IPNI accepted name, not a synonym. Independently corroborated by the site's own page content: the marker list leads with mimosine, the diagnostic non-protein amino acid of Mimosa, and the listed properties (laghu, sheeta) match classical Lajjalu. The 'Lajjalu bheda' = Biophytum sensitivum variant is a separately named drug, not a competing reading of Lajjalu itself, so this is not a genuine two-species dispute. Flag for the page editor rather than for the binomial: the lajjalu page text currently contains the line 'a mineral-de",
+   "identifyBasis": "Lajjalu is the standard classical Sanskrit name for the touch-me-not, given as Mimosa pudica L. in the Ayurvedic Pharmacopoeia of India and uniformly across Dravyaguna sources; Mimosa pudica L. is the accepted name in POWO/IPNI. (A minor regional variant, 'Lajjalu bheda' = Biophytum sensitivum, exists but is not the primary drug.)"
+  },
+  {
+   "slug": "lakuca",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Artocarpus lacucha",
+   "outcome": "accepted",
+   "verifierNote": "Identification correct; name is the accepted one, which the proposer had already corrected to. Verified at POWO: Artocarpus lacucha Buch.-Ham. is accepted and Artocarpus lakoocha Roxb., the spelling used throughout Ayurvedic literature, is a synonym of it. Dravyaguna sources (Ayushvedah, Shri Dhanwantry Ayurvedic College Dravyaguna notes) give Lakucha = Artocarpus lakoocha. The site page's rasa/guna profile (amla and kashaya, guru, ushna, amla vipaka) matches classical Lakucha, the sour monkey jack, and excludes any bitter-cooling alternative. Two caveats recorded but judged non-blocking: a mi",
+   "identifyBasis": "Lakuca (monkey jack, Hindi 'Barhal/Lakuch') is identified as Artocarpus lakoocha Roxb. in Ayurvedic sources; POWO/IPNI list Artocarpus lacucha Buch.-Ham. as the ACCEPTED name with A. lakoocha Roxb. as a synonym, so the accepted binomial is given here."
+  },
+  {
+   "slug": "lasuna-ksheerapaka",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Ksheerapaka is a preparation method: the drug boiled and reduced in milk. Lasuna Ksheerapaka is garlic (Allium sativum) processed in cow's milk, i.e. a milk-based formulation, not a single botanical drug, so no binomial is assigned."
+  },
+  {
+   "slug": "lata-kasturi",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Abelmoschus moschatus",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed, no change. Abelmoschus moschatus Medik. is POWO-accepted, with Hibiscus abelmoschus L. as the synonym. Corroborated decisively by the site page itself: part used is seed, and the markers are ambrettolide, farnesol, farnesyl acetate and decyl acetate, the defining constituents of ambrette seed oil, which belong to no other candidate plant. The vernacular anchor (Lata Kasturi, Kasturi Bhendi, musk-dana) and the chemistry agree, so this is not a name-only inference.",
+   "identifyBasis": "Lata Kasturi / Kasturi Bhendi (musk mallow, musk-dana seeds) is consistently identified as Abelmoschus moschatus Medik. (syn. Hibiscus abelmoschus L.) in Ayurvedic Pharmacopoeia and Dravyaguna literature; Abelmoschus moschatus Medik. is the POWO-accepted name."
+  },
+  {
+   "slug": "latakaranja",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": true,
+   "candidate": "Guilandina bonduc",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Latakaranja is given as Caesalpinia bonduc (L.) Roxb. in the Ayurvedic Pharmacopoeia of India; POWO/Kew place that name in synonymy under the accepted Guilandina bonduc L., so the accepted binomial is used. Note that many Ayurvedic texts print 'Caesalpinia crista Linn.' for this drug, a long-documented misapplication (see the published critical review of Latakaranj nomenclature), so the literature"
+  },
+  {
+   "slug": "lavanga",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Syzygium aromaticum",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed, no change. Syzygium aromaticum (L.) Merr. & L.M.Perry is the POWO-accepted name; Eugenia caryophyllata Thunb. is the synonym still printed in older Ayurvedic texts. Attempted refutation found nothing: there is no competing species reading of Lavanga anywhere in the Nighantu literature. The site page's own markers (eugenol, eugenyl acetate, beta-caryophyllene, alpha-humulene, crategolic acid) are the standard clove bud profile.",
+   "identifyBasis": "Lavanga = clove buds, given as Syzygium aromaticum (L.) Merr. & L.M.Perry (syn. Eugenia caryophyllata) in the Ayurvedic Pharmacopoeia of India; that is the POWO-accepted name. Identity is undisputed."
+  },
+  {
+   "slug": "licorice-herb",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": false,
+   "candidate": "Glycyrrhiza glabra",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Page title is the English common name only, with no Sanskrit/Hindi anchor supplied. In Ayurveda licorice is Yashtimadhu = Glycyrrhiza glabra L. (API), the POWO-accepted name, so that is the near-certain referent; confidence held at medium because 'licorice' in the wider literature can also denote G. uralensis or G. inflata (Chinese materia medica)."
+  },
+  {
+   "slug": "lodhrasva",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "An asava (fermented liquid preparation). Although named for Lodhra (Symplocos racemosa), the formulation is a multi-ingredient fermented product with jaggery/dhataki and several other drugs, so no single binomial applies."
+  },
+  {
+   "slug": "loha-bhasma",
+   "category": "mineral",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Bhasma of loha = incinerated iron, a metallic/mineral calx (largely iron oxide) prepared by shodhana and marana. Not a plant."
+  },
+  {
+   "slug": "lohasava",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "A classical fermented asava combining loha bhasma (iron) with numerous plant drugs (Triphala, Trikatu, Musta, Vidanga etc.), jaggery and honey. A herbomineral polyherbal formulation, not a single substance."
+  },
+  {
+   "slug": "madayantika",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Lawsonia inermis",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Madayantika/Madayanti is the classical name for henna, botanically Lawsonia inermis L. (Lythraceae) in the dominant Dravyaguna reading and in published reviews (JAIMS, 'Comprehensive review on Madayantika (Lawsonia inermis L.)'). Lawsonia inermis L. is POWO-accepted. Flagged contested because some Nighantu commentators equate Madayanti/Madayantika with Mallika, Jasminum sambac (L.) Aiton."
+  },
+  {
+   "slug": "madhu-mandur",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "A classical herbomineral formulation built on Mandura bhasma (processed iron rust/oxide) with honey and accompanying plant drugs. Mineral-based multi-ingredient preparation, not a plant."
+  },
+  {
+   "slug": "madhu",
+   "category": "animal",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Madhu is honey, an animal (bee) product used as a dravya and anupana across Ayurvedic texts. Classical sources describe eight varieties by bee species; it is not a plant drug and takes no binomial."
+  },
+  {
+   "slug": "madhuka-pushpa",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Madhuca longifolia",
+   "outcome": "accepted",
+   "verifierNote": "The proposer flagged this contested and I tried to reject it on that basis, but the contest does not survive contact with the page. The ambiguity is real for the bare name Madhuka, which in Charaka and several Nighantus means Yashtimadhu (Glycyrrhiza glabra), but this entry is Madhuka pushpa, the flower, and the page content settles it: part used is flowers, rasa madhura, up to 70 percent sugar in the dried flower, preparations are Avaleha and Asava, and the companion herb list leads with Dhataki, the classical fermentation starter. Licorice is a root drug and its flowers are not a materia med",
+   "identifyBasis": "'Madhuka pushpa' = the flowers of the mahua tree, Madhuca longifolia (J.Koenig ex L.) J.F.Macbr. (POWO-accepted; Madhuca indica J.F.Gmel. is a synonym), whose sweet flowers are the officinal part and whose Sanskrit synonyms include Madhupushpa. Confidence is medium and contested is set because the bare name 'Madhuka' in Charaka and several Nighantus denotes Yashtimadhu, Glycyrrhiza glabra; the qua"
+  },
+  {
+   "slug": "madhukarkati",
+   "category": "plant",
+   "confidence": "low",
+   "contestedAtIdentify": true,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Reputable Ayurvedic sources split on this citrus: some gloss Madhukarkati/Madhukarkatika as sweet lime, Citrus limetta Risso, while Dravyaguna listings (e.g. Ayushvedah 'madhukarkai') give Citrus maxima (Burm.) Merr., pomelo/chakotra. Genuine disagreement between two distinct species, so no binomial is asserted."
+  },
+  {
+   "slug": "mahalakshmi-vilas-rasa",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "A rasaushadhi: a herbomineral 'rasa' formulation containing multiple bhasmas (swarna, abhraka, and others) together with many plant drugs. Multi-ingredient preparation, no single binomial."
+  },
+  {
+   "slug": "jatamansi",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Nardostachys jatamansi",
+   "outcome": "accepted",
+   "verifierNote": "Verified against POWO (urn:lsid:ipni.org:names:859418-1): Nardostachys jatamansi (D.Don) DC. is the accepted name and the sole species in the genus; Nardostachys grandiflora DC., Fedia jatamansi and Patrinia jatamansi are listed as synonyms, so the older N. grandiflora usage in some Ayurvedic literature resolves to the same taxon rather than a competing identity. Drug identity (Himalayan rhizome, API Part I Vol. IV) is not in dispute. Note that Valeriana jatamansi D.Don is a genuinely different accepted species (Tagara/Sugandhabala), and Selinum vaginatum (Bhootkeshi) is a market adulterant, n",
+   "identifyBasis": "POWO (urn:lsid:ipni.org:names:859418-1) gives Nardostachys jatamansi (D.Don) DC. as the accepted name; API Part I Vol. IV monographs Jatamansi as this species (rhizome). Note the market substitute Bhootkeshi (Selinum vaginatum) is an adulterant, not an alternative identity."
+  },
+  {
+   "slug": "jati",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Jasminum grandiflorum",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Jati/Chameli is standardly Jasminum grandiflorum L. in Ayurvedic dravyaguna (leaf for mouth ulcers, flower, oil), matching this page's leaf-powder/flower-decoction/essential-oil dosage forms; POWO lists Jasminum grandiflorum L. as accepted (some treatments sink it under J. officinale, a taxonomic-rank question rather than a drug-identity dispute). Distinct from Jatiphala (nutmeg)."
+  },
+  {
+   "slug": "jatiphala",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Myristica fragrans",
+   "outcome": "accepted",
+   "verifierNote": "Checked the name in POWO: Myristica fragrans Houtt. is accepted (urn:lsid:ipni.org:names:586076-1). Jatiphala = dried kernel (nutmeg), uncontested across API and dravyaguna sources. The one caveat found is that Myristica malabarica (Rampatri, Bombay mace) is used as an adulterant or cheap substitute for Jatiphala in South India; the literature consistently frames this as adulteration, not as a second accepted identity, so it does not make the drug contested. No correction needed.",
+   "identifyBasis": "Jatiphala is the dried kernel (nutmeg) of Myristica fragrans Houtt., stated in the Ayurvedic Pharmacopoeia of India and standard dravyaguna sources; POWO accepts Myristica fragrans Houtt."
+  },
+  {
+   "slug": "javitri",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Myristica fragrans",
+   "outcome": "accepted",
+   "verifierNote": "Javitri is mace, the dried aril of the same accepted species, Myristica fragrans Houtt. (POWO accepted). This is a plant part distinct from Jatiphala (kernel), not a separate species, so the binomial is the same and correct. Same adulteration caveat as Jatiphala: Myristica malabarica is traded as 'false mace'/Bombay mace, an adulterant rather than an alternative identity. Page chemistry (myristicin, macelignan, eugenol/elemicin in the aril volatile oil) corroborates. No correction needed.",
+   "identifyBasis": "Javitri is mace, the dried aril of Myristica fragrans Houtt. (same plant as Jatiphala, different part). The page text itself refers to mace essential oil, myristicin and macelignan, consistent with this."
+  },
+  {
+   "slug": "jyotishmati",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Celastrus paniculatus",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed Celastrus paniculatus Willd. is the accepted name in POWO (urn:lsid:ipni.org:names:160439-1), native Indian subcontinent to Indo-China. Jyotishmati/Malkangni is consistently identified as this species (seed and seed oil, Medhya Rasayana) across API and the pharmacological review literature; I found no competing species mapping for this name. No correction needed.",
+   "identifyBasis": "Jyotishmati (malkangni) is Celastrus paniculatus Willd., seed and seed oil, per the Ayurvedic Pharmacopoeia of India and standard dravyaguna literature; POWO accepts Celastrus paniculatus Willd."
+  },
+  {
+   "slug": "kachnar",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Bauhinia variegata",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Hindi kachnar / Sanskrit Kanchanara is monographed as Bauhinia variegata L. (stem bark) in the Ayurvedic Pharmacopoeia and Ayurvedic Formulary of India, following Bhavaprakasha. Classical texts disagree: Dhanvantari Nighantu gives B. purpurea, Raja Nighantu B. acuminata, and Bhavaprakasha describes B. purpurea and B. tomentosa as further varieties, so the trade drug is not species-pure."
+  },
+  {
+   "slug": "kadara",
+   "category": "uncertain",
+   "confidence": "low",
+   "contestedAtIdentify": true,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Sanskrit kadara has two unrelated senses: a variety of acacia (Sanskrit lexica map it to Acacia ferruginea DC., also to Premna tomentosa Willd.) and, far more commonly in Ayurvedic clinical texts, kadara = a plantar corn/callosity (a kshudra roga, not a dravya). The page's own text (heartwood powder, catechin, kashaya-tikta) reads as a Khadira-group acacia but is auto-generated and also carries a "
+  },
+  {
+   "slug": "kaharuba-pishti",
+   "category": "mineral",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Kaharuba (Trinakantamani) is amber, a fossil resin, processed as a pishti by trituration; the page's own cited paper (PMID 35813362) characterises Trinakantamani/Amber Pishti, and the mechanism text cites succinic acid, the amber marker. It is a processed fossil exudate whose extinct source conifers cannot be reduced to one living species, and a pishti is a preparation, not a plant drug."
+  },
+  {
+   "slug": "kakamachi",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Solanum nigrum",
+   "outcome": "accepted",
+   "verifierNote": "Verified the name against the drug: API Part I Vol. II monographs Kakamachi as the dried whole plant of Solanum nigrum Linn., and the pharmacognostic standardisation literature validates market material against those API parameters. Solanum nigrum L. is the accepted name. I looked specifically for a contested mapping: the classical krishna/shweta varieties and the taxonomically messy S. nigrum complex (S. villosum, S. americanum turn up in trade material) are real, but sources converge on S. nigrum as the single pharmacopoeial source rather than splitting the name across species. Accepted as-i",
+   "identifyBasis": "Kakamachi (makoy) is Solanum nigrum L. in the Ayurvedic Pharmacopoeia of India (whole plant) and in the pharmacognostic standardisation literature validating the drug against API parameters. Classical krishna/shweta varieties and market adulteration exist within the S. nigrum complex, but sources converge on S. nigrum as the pharmacopoeial source."
+  },
+  {
+   "slug": "kakatikta",
+   "category": "plant",
+   "confidence": "low",
+   "contestedAtIdentify": true,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Kakatikta is mapped by different sources to at least three unrelated species: Dicliptera paniculata (Forssk.) I.Darbysh. (= Peristrophe paniculata, Acanthaceae), Abrus precatorius L., and Cardiospermum halicacabum L. The page carries no vernacular names beyond the Sanskrit term and only generic 'bitter principles' text, giving nothing to break the tie. Leaving it blank."
+  },
+  {
+   "slug": "kalmegh",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Andrographis paniculata",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed accepted in POWO (urn:lsid:ipni.org:names:45226-1). One correction to the proposer's citation: the accepted authorship is (Burm.f.) Wall. ex Nees, not (Burm.f.) Nees; the binomial itself is unchanged. Kalmegh/Bhunimba maps to this single species in API, WHO monographs and the andrographolide literature, with no rival identification found. Accepted as Andrographis paniculata.",
+   "identifyBasis": "Kalmegh / Bhunimba is Andrographis paniculata (Burm.f.) Nees (whole plant, andrographolide), monographed in the Ayurvedic Pharmacopoeia of India and WHO monographs; accepted name in POWO."
+  },
+  {
+   "slug": "kamala-kesara",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Nelumbo nucifera",
+   "outcome": "accepted",
+   "verifierNote": "Nelumbo nucifera Gaertn. is the accepted name (POWO). Kamala/Padma is uncontestedly the sacred lotus in Ayurveda, and kesara denotes the stamens (Padma Kesara), a recognised drug part traded as dried lotus stamens; kaempferol glycosides in the page's chemistry note are consistent with lotus stamen. This is a plant part, not a separate species, so the species binomial is the right claim. Checked the obvious trap: 'Kamala' in dye/trade English can mean Mallotus philippensis (kamala dye), but the Sanskrit drug Kamala and its kesara are lotus, and Mallotus is Kampillaka. Also distinct from Nymphae",
+   "identifyBasis": "Kamala/Padma is the sacred lotus, Nelumbo nucifera Gaertn., and kesara denotes the stamens; 'Kamal kesar' is traded as dried lotus stamens and the stamen (Padma Kesara) is a recognised Ayurvedic drug part. The page's own chemistry note (kaempferol glycosides, lipophilic pigments) matches lotus stamen. Plant part, not a separate species."
+  },
+  {
+   "slug": "kamalakanda",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Nelumbo nucifera",
+   "outcome": "accepted",
+   "verifierNote": "Corroborated that Kamala Kanda is a named drug in Bhavaprakasha Nighantu (synonyms Padmakanda, Padmamula, Shaluka) denoting the rhizome of Kamala, i.e. Nelumbo nucifera Gaertn. (POWO accepted). Same species as Kamala Kesara, different part, so a single correct binomial rather than a distinct plant. Powder/fresh-juice/decoction dosage forms fit rhizome use. Ruled out the two confusions worth ruling out: Mallotus philippensis (English 'kamala' dye, but Kampillaka in Sanskrit, and it has no kanda) and Nymphaea water-lily rhizome, which is the separate drug Kumuda/Utpala.",
+   "identifyBasis": "Kamala + kanda = the rhizome of the lotus, Nelumbo nucifera Gaertn.; the same plant as Kamala Kesara, different part. Dosage forms on the page (powder, fresh juice, decoction) are consistent with rhizome use."
+  },
+  {
+   "slug": "kamsya-bhasma",
+   "category": "mineral",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Kamsya is bronze, a copper-tin alloy; Kamsya Bhasma is its calcined preparation, filed on the site under Mineral-Metal-Preparations/Bhasmas and described in its own text as copper oxide, tin oxide and mixed Cu-Sn phases. Metallic preparation, no botanical source."
+  },
+  {
+   "slug": "kankataka",
+   "category": "uncertain",
+   "confidence": "low",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Sanskrit lexica (Monier-Williams via wisdomlib) give Kankataka as armour, an elephant goad, or a mountain name, with no plant identification. Nearby but distinct names exist (Kantakari = Solanum virginianum, Kantaka = Tribulus terrestris, Kankatika = Abutilon sp.), so any match would be a guess at a misspelling. The page has no vernacular names and only generic auto-generated pharmacology. No bino"
+  },
+  {
+   "slug": "kanmad-bhasma",
+   "category": "salt",
+   "confidence": "medium",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Kanmada (Kanmada Bhasmam, a Kerala/AVP-Kottakkal preparation) is described in Ayurvedic pharmacology sources as potassium nitrate, also called Surya Kshara, Kalami sora/soraka and Karpoora Shilajit, purified with Ela decoction before bhasma-karana. That places it with the ksharas/salts. The page's own 'magnetite Fe3O4' constituent list appears to be auto-generated iron-bhasma boilerplate and confl"
+  },
+  {
+   "slug": "koshamra",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Schleichera oleosa",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed, no correction needed. Independent Ayurvedic dravyaguna sources agree on Koshamra = Schleichera oleosa (Sapindaceae): Shri Dhanwantry Ayurvedic College dravyaguna blog, ayurvedicmedicinalplants.com (entry 2931), SKSS Ayurved College plant database, and EasyAyurveda, all recording the same Sanskrit synonym set (Lakshavriksha, Raktamra, Mukulaka) and Hindi 'Kusum'. Checked the name against POWO: Schleichera oleosa (Lour.) Oken is the accepted name in Sapindaceae with 18 synonyms, including the older Schleichera trijuga Willd. that appears in Indian floras, so sources citing S. trijuga ",
+   "identifyBasis": "Web search: multiple Ayurvedic dravyaguna sources (Shri Dhanwantry Ayurvedic College dravyaguna blog, ayurvedicmedicinalplants.com, EasyAyurveda) state Koshamra = Schleichera oleosa (Sapindaceae), Hindi 'Kusum', Ceylon oak, Sanskrit synonyms Lakshavriksha/Raktamra/Krimitaru. Schleichera oleosa is the accepted name (POWO); no competing identification found."
+  },
+  {
+   "slug": "koshataki",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Luffa acutangula",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Web search: Ayurvedic Pharmacopoeia-linked sources and ayushvedah.com give Koshataki = Luffa acutangula (Cucurbitaceae, ridge gourd); wisdomlib cites Kosataki in Caraka Samhita as luffa. Flagged contested because classical nighantu commentary splits Koshataki (often read as the bitter Luffa aegyptiaca / L. cylindrica) from Rajakoshataki (L. acutangula), and different commentaries assign the two na"
+  },
+  {
+   "slug": "krimi-kuthar-rasa",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Web search of classical composition (Rasa Tantra Sara / Siddha Yoga Sangraha, kharaliya rasayana): a herbomineral rasaushadhi combining shuddha parada, gandhaka, loha bhasma, hingula, tankana with vidanga, palasha beeja, karpura, vatsanabha, pippali, shunthi and others. Multi-ingredient formulation, not a single botanical drug."
+  },
+  {
+   "slug": "krishna-jeeraka",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Carum carvi",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Web search: Ayurvedic dravyaguna sources (IAFA 'Jeeraka Dwaya', EasyAyurveda black caraway, liveayurvedalife) give Krishna Jiraka = Carum carvi (Apiaceae), the identity followed by the Ayurvedic Pharmacopoeia of India. Sources are explicit that it is NOT Nigella sativa (that is Upakunchika/Kalonji). Contested because the same sources record Bunium persicum (syn. Carum bulbocastanum) being supplied"
+  },
+  {
+   "slug": "kshara-parpati",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Name-based classification per the task rules: a parpati preparation built on ksharas (alkalis such as yavakshara/sarjikshara) with parada-gandhaka kajjali, cast as a thin flake. Alkali-and-mineral compound formulation, not a plant."
+  },
+  {
+   "slug": "ksheera",
+   "category": "animal",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Ksheera (dugdha) is milk, an animal-derived dravya in Ayurvedic materia medica (cow, goat, buffalo milk varieties). Not a botanical drug; no binomial applies."
+  },
+  {
+   "slug": "kshirabala-101-avarti",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Kshirabala Taila is a medicated oil of Bala (Sida cordifolia) root decoction, cow's milk and sesame (Sesamum indicum) oil; '101 avarti' denotes 101 rounds of the taila paka. A multi-ingredient oil preparation, not a single plant."
+  },
+  {
+   "slug": "kukkutanda-twak-bhasma",
+   "category": "animal",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Kukkutanda twak = hen's egg shell; the bhasma is its calcined form (chiefly calcium carbonate). Animal-derived incinerated preparation, not a plant."
+  },
+  {
+   "slug": "kumbhika",
+   "category": "plant",
+   "confidence": "low",
+   "contestedAtIdentify": true,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Web search shows two well-attested and different identifications: ayushvedah.com and wisdomlib give Kumbhika = Pistia stratiotes (Jalakumbhi, water lettuce), while other dravyaguna sources use Kumbhi/Kumbhika = Careya arborea (Lecythidaceae). Sources genuinely disagree, so no binomial assigned."
+  },
+  {
+   "slug": "kumud",
+   "category": "plant",
+   "confidence": "low",
+   "contestedAtIdentify": true,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Kumud is a Nymphaea (water lily), but sources map it to different species: Nymphaea nouchali (syn. N. stellata) in several reviews, Nymphaea pubescens for the white-flowered kind, and Nymphaea alba in other Ayurvedic monographs; classical usage also blurs Kumuda with Utpala/Indivara. Genus is certain, species is not, so no binomial assigned."
+  },
+  {
+   "slug": "kumuda",
+   "category": "plant",
+   "confidence": "low",
+   "contestedAtIdentify": true,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Same drug name as the 'kumud' page. Water lily (Nymphaea sp.), but reputable sources split between Nymphaea nouchali (syn. N. stellata), Nymphaea pubescens and Nymphaea alba, and the name overlaps with Utpala in classical texts. No single species can be asserted."
+  },
+  {
+   "slug": "kurabaka",
+   "category": "plant",
+   "confidence": "low",
+   "contestedAtIdentify": true,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Web search (wisdomlib entries for Kurabaka/Kuruvaka/Kuravaka, Ayurvedic sources on Sahachara/Jhinti): most commonly read as the red-flowered Barleria cristata, but classical lexicons also gloss Kurabaka as red amaranth (Amaranthus sp.) and some sources give Barleria prionitis; Kuranta nearby is mapped to Celosia argentea. Disagreement is real, so no binomial assigned."
+  },
+  {
+   "slug": "kusha",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Desmostachya bipinnata",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Web search: Ayurvedic college dravyaguna pages, EasyAyurveda and published work on 'sacrificial medicinal grasses' consistently give Kusha/Darbha = Desmostachya bipinnata (Poaceae), one of the Trinapanchamula. Poa cynosuroides is a synonym of the same accepted name, not a rival species."
+  },
+  {
+   "slug": "kusumbha",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Carthamus tinctorius",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed, no correction needed. Classical and modern sources converge: wisdomlib records Kausumbha at Rajanighantu 4.166 as Carthamus tinctorius with the synonym chain Padmottara, Kamalottara, Kukkutashikha, Agnishikha, Vahnishikha, Raktasankocha, and Kusumbha in the Nilamatapurana as the same safflower; ayushvedah.com (drug 318) and EasyAyurveda give the same identification. Carthamus tinctorius L. is the accepted name in Asteraceae. I looked specifically for a rival identification and found none: the synonym set (fire/flame and red-pigment names) is diagnostic of safflower's florets, and th",
+   "identifyBasis": "Web search: wisdomlib (Raja Nighantu 4.166 for Kausumbha), ayushvedah.com and EasyAyurveda all give Kusumbha/Kausumbha = Carthamus tinctorius (safflower, Asteraceae). Accepted name; no competing identification found."
+  },
+  {
+   "slug": "kutaj",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Holarrhena pubescens",
+   "outcome": "accepted",
+   "verifierNote": "Identification confirmed; name corrected to the accepted binomial. The pharmacopoeial drug Kutaja is Holarrhena antidysenterica (stem bark, plus the seed drug Indrayava), an official monograph in the Ayurvedic Pharmacopoeia of India and the basis of Kutajarishta, Kutajghan Vati and Kutaja churna. Checked the nomenclature against POWO: Holarrhena antidysenterica (G.Don) Wall. ex A.DC. is a synonym of the accepted Holarrhena pubescens Wall. ex G.Don (Apocynaceae), so I have published the accepted name rather than the one Ayurvedic sources use. I probed the contested-identity risk deliberately, b",
+   "identifyBasis": "Web search: Kutaja/Kurchi is Holarrhena antidysenterica in Ayurvedic sources, and POWO lists Holarrhena antidysenterica (G.Don) Wall. ex A.DC. as a synonym of the accepted Holarrhena pubescens Wall. ex G.Don (Apocynaceae). Accepted name used here. (Nighantus mention a 'krishna kutaja' sometimes read as Wrightia tinctoria, but the pharmacopoeial drug Kutaja is unambiguous.)"
+  },
+  {
+   "slug": "laghu-sutshekhar-ras",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Web search of classical composition (Rasendra Sara Sangraha, amlapitta chapter): shuddha swarna gairika (purified red ochre) with shunthi (Zingiber officinale), triturated in Nagavalli/betel leaf juice; some market versions add parada, gandhaka, tankana. A herbomineral compound preparation, not a single plant."
+  },
+  {
+   "slug": "menthol",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Menthol is an isolated chemical constituent (a cyclic monoterpene alcohol), not a botanical drug. It is obtained mainly from Mentha arvensis/M. x piperita oil or made synthetically, so no single plant binomial can be attached to the substance itself as a factual identity claim."
+  },
+  {
+   "slug": "morning-glory",
+   "category": "plant",
+   "confidence": "low",
+   "contestedAtIdentify": true,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "\"Morning glory\" is a common name for the whole genus Ipomoea (and several related Convolvulaceae genera), hundreds of species. Ayurvedic literature attaches it variously to Ipomoea nil (Krishnabija/Kaladana), Ipomoea mauritiana (Vidari/Bhumikushmanda), Ipomoea sepiaria (Lakshmana) and others. The page carries no Sanskrit or Hindi name to disambiguate, so no binomial can be assigned safely."
+  },
+  {
+   "slug": "mrigashringa-bhasma",
+   "category": "animal",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Mrigashringa = deer antler/horn; the bhasma is its calcined (incinerated) form, a calcium-rich animal-derived rasaushadhi. Not a plant."
+  },
+  {
+   "slug": "mukta-pishti",
+   "category": "mineral",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Mukta = pearl; pishti is a levigated (rose-water triturated) preparation. Classed with the ratna/sudha-varga calcium preparations of rasashastra. The raw material is nacre from pearl oysters (Pinctada spp.), i.e. animal in origin but handled as a mineral-type preparation; either way it is not a plant and takes no botanical binomial."
+  },
+  {
+   "slug": "mulaka",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Raphanus sativus",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed. Mulaka/Muli = radish is uniform across dravyaguna literature and Sanskrit lexica (wisdomlib: Mulaka = radish, Brassicaceae, identified with Raphanus sativus), and the review literature treats Mulaka explicitly as Raphanus sativus Linn. Attempted refutation on two grounds and both failed: (a) classical texts distinguish two kinds of Mulaka (Chhoti/Chanakya Mulaka and Badi/Nepala Mulaka) with different rasa-guna, but these are cultivar-level forms of the same species, not two species, so this is not a contested-identity case; (b) nomenclature - POWO carries both Raphanus sativus L. an",
+   "identifyBasis": "Mulaka is the standard Sanskrit name for radish (Hindi muli, English radish), given as Raphanus sativus L. in the Ayurvedic Pharmacopoeia of India and uniformly across dravyaguna texts. Raphanus sativus L. is the accepted name (Brassicaceae)."
+  },
+  {
+   "slug": "nadi-hingu",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Gardenia gummifera",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Nadihingu is the oleo-gum-resin of Gardenia gummifera L.f. (Rubiaceae), the identity given in the Ayurvedic Pharmacopoeia of India and in the recent review literature (J Drug Res Ayurvedic Sci, 2026). Trade name Dikamali. Recorded as contested because Dikamali/Nadihingu is also supplied from Gardenia resinifera Roth (and Bapalal Vaidya disputed the Hingupatri equation), so market material is not a"
+  },
+  {
+   "slug": "naga-bhasma",
+   "category": "mineral",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Naga = lead (Pb); Naga Bhasma is the incinerated lead preparation of rasashastra. A metallic/mineral preparation, not a plant."
+  },
+  {
+   "slug": "nagadanti",
+   "category": "plant",
+   "confidence": "low",
+   "contestedAtIdentify": true,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Sources genuinely disagree: several dravyaguna references (ayushvedah, Easy Ayurveda) give Nagadanti as Croton oblongifolius Roxb., while others (Kerala SMPB, Kannada usage \"Nagadamti\") equate it with Baliospermum solanifolium (Burm.f.) Suresh, the accepted name for B. montanum. Both are Euphorbiaceae purgatives. No winner picked; binomial left empty."
+  },
+  {
+   "slug": "nagakesara",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Mesua ferrea",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "The Ayurvedic Pharmacopoeia of India defines Nagakeshara as the dried stamens of Mesua ferrea L. (Calophyllaceae), which POWO accepts as the current name. Flagged contested because Nagakeshara is a well-documented identity controversy: market samples and regional usage also include Mammea suriga / Ochrocarpus longifolius (\"lal nagkesar\"), Calophyllum inophyllum, Dillenia pentagyna and Cinnamomum s"
+  },
+  {
+   "slug": "narikela-jala",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Cocos nucifera",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed. Narikela = coconut, jala/udaka = water; the drug is the liquid endosperm of the tender coconut, i.e. a part/product of one species rather than a preparation. Checked that it is not a compound: the classical references (Charaka on tender coconut, and the Kerala texts Sahasrayogam, Chikitsamanjari etc. reviewed in J Drug Res Ayurvedic Sci) treat Narikelodaka/tender coconut water as the single-substance drug, distinct from multi-ingredient formulations such as Ilaneer kuzhambu in which it is only an ingredient. Cocos nucifera L. (Arecaceae) is the accepted name and the genus is monotyp",
+   "identifyBasis": "Narikela = coconut, jala = water; the drug is the liquid endosperm of the tender coconut, a single-species plant product. Cocos nucifera L. (Arecaceae) is the accepted name and the only species in the genus."
+  },
+  {
+   "slug": "navaratna-raja-mriganka-rasa",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "A classical herbo-mineral rasayoga containing the nava-ratna (nine gems: pearl, ruby, coral, emerald, topaz, diamond, sapphire, zircon, cat's-eye) as bhasmas along with metals and multiple plant juices. A multi-ingredient formulation, not a single dravya."
+  },
+  {
+   "slug": "navayasa-loha",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Navayasa Loha (Navayasa Churna/Lauha) is an iron-based compound formulation: loha bhasma with trikatu, triphala, musta and vidanga. Multi-ingredient plus a metal, so no single binomial."
+  },
+  {
+   "slug": "neelam-pishti",
+   "category": "mineral",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Neelam = blue sapphire (corundum, Al2O3); the pishti is the gem levigated with rose water. A gem/mineral preparation, not a plant."
+  },
+  {
+   "slug": "nikochaka",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": false,
+   "candidate": "Alangium salviifolium",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed after trying to find a competing identity and failing. Nikochaka is a synonym of Ankola: it appears in the Ankola synonym set of Bhavaprakasha and Dhanvantari Nighantu (Guduchyadi varga: Ankota, Ankola, Nikochaka, Peetasara, Hundika, Rudamallika, Kotara, Gudhapatra, Madana, Rechi), and Sanskrit lexica list Nikochaka only for this plant - both wisdomlib senses of the word resolve to the same species, and classical lexical usage equates nikocaka with Alangium hexapetalum, a synonym under A. salviifolium. So the name is not shared with a second drug. Verified nomenclature independently:",
+   "identifyBasis": "Nikochaka is listed in the Bhavaprakasha and Dhanvantari Nighantu synonym sets for Ankola (Guduchyadi varga), botanically Alangium salviifolium (L.f.) Wangerin (Cornaceae), the accepted name (syn. Alangium lamarckii Thwaites). Medium rather than high because the attribution rests on nighantu synonym lists and secondary lexica rather than an API monograph under this exact name."
+  },
+  {
+   "slug": "nimba-beeja",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Azadirachta indica",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed. Nimba = neem, beeja = seed; this is a plant-part page, so the species is inherited from the parent drug and the only real question is whether Nimba itself is contested. It is not: Nimba is uniformly Azadirachta indica A.Juss. (Meliaceae) across the Ayurvedic Pharmacopoeia of India and the dravyaguna literature. Checked the one genuine confusion risk, Melia azedarach, and it does not apply, because that plant carries its own distinct Sanskrit name (Mahanimba / Bakayan) and is never the referent of plain Nimba. Azadirachta indica A.Juss. is the accepted name. No correction needed.",
+   "identifyBasis": "Nimba = neem, beeja = seed; the drug is the seed of Azadirachta indica A.Juss. (Meliaceae), the accepted name, as given in the Ayurvedic Pharmacopoeia of India. Part name only, same species as the parent drug."
+  },
+  {
+   "slug": "nimba-patra",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Azadirachta indica",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed, on the same basis as Nimba Beeja. Nimba = neem, patra = leaf; neem leaf is an API-recognised drug of Azadirachta indica A.Juss. (Meliaceae), which is the accepted name. Ruled out the Melia azedarach confusion (that species is Mahanimba, a separate Sanskrit name) and found no source mapping plain Nimba to any second species. Part name only, same species as the parent drug. No correction needed.",
+   "identifyBasis": "Nimba = neem, patra = leaf; the drug is the leaf of Azadirachta indica A.Juss. (Meliaceae), the accepted name, per the Ayurvedic Pharmacopoeia of India. Part name only, same species as the parent drug."
+  },
+  {
+   "slug": "kapikachhu",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Mucuna pruriens",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed. Mucuna pruriens (L.) DC. (Fabaceae) is the POWO-accepted name; Mucuna prurita Hook. and Dolichos pruriens L. are synonyms, so the proposal already names the accepted name. Kapikacchu/Atmagupta is uniformly equated with this species across dravyaguna and pharmacopoeial literature, with no competing species in the sources I checked. Decisive internal check: the page's own bioavailability text names 'Mucuna pruriens seed coat' and gives L-DOPA at 3-6% of seed, which is species-diagnostic and matches the proposed identification rather than merely being consistent with it. No correction ",
+   "identifyBasis": "Sanskrit drug name Kapikacchu is uniformly equated with Mucuna pruriens (L.) DC. (Fabaceae) in Ayurvedic dravyaguna and pharmacopoeial literature; the page's own dosage text (\"seed powder\", L-dopa-bearing seed) matches. Confirmed via review literature explicitly titled \"Kapikacchu (Mucuna pruriens)\" (ResearchGate/IJPREMS/Herbal Reality). Mucuna pruriens (L.) DC. is the accepted name; Mucuna prurit"
+  },
+  {
+   "slug": "karira",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Capparis decidua",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed, and I tried hard to break it. Sanskrit karira has a second, non-botanical dictionary sense ('a bamboo shoot'), which is exactly the kind of lexical trap that could make a drug page wrong, so I checked the page body rather than the name alone: its constituents are spermidine alkaloids and glucosinolate-derived isothiocyanates activated by myrosinase. Both are Capparaceae markers (capparisine-type spermidine alkaloids are characteristic of Capparis decidua), and neither fits a bamboo shoot, so the botanical sense is the operative one here. Capparis decidua (Forssk.) Edgew. is the acce",
+   "identifyBasis": "Karira (Hindi Kair/Kareel) is identified with Capparis decidua (Forssk.) Edgew. (Capparaceae) in Ayurvedic sources (wisdomlib Sanskrit lexica, easyayurveda, ayurvedicmedicinalplants). Capparis aphylla Roth, the name used in older Ayurvedic texts, is a synonym of the accepted Capparis decidua."
+  },
+  {
+   "slug": "karmaranga",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": true,
+   "candidate": "Averrhoa carambola",
+   "outcome": "accepted",
+   "verifierNote": "Accepted despite the proposer flagging it contested; their own basis said 'no synonymy issue', so I treated the flag as unsupported and tested it. The only competing mapping I could find is a single institutional database row listing Averrhoa bilimbi under the Sanskrit names Duurvaa and Karmaranga. That is not corroborated: wisdomlib's Sanskrit lexica give Averrhoa carambola only (citing Ramayana 3.17.8), Bhavaprakasha Nighantu places Karmaranga in Phalavarga, standard dravyaguna teaching material gives A. carambola, and the English word 'carambola' derives from karmaranga. One outlier row is ",
+   "identifyBasis": "Karmaranga (Hindi Kamrakh, star fruit) = Averrhoa carambola L. (Oxalidaceae); the page's dosage form (fresh fruit juice, avaleha) fits a fruit drug. Confirmed in Ayurvedic college dravyaguna material (SDACH) and ethnobotanical reviews of Averrhoa carambola. Accepted name, no synonymy issue."
+  },
+  {
+   "slug": "karnikara",
+   "category": "plant",
+   "confidence": "low",
+   "contestedAtIdentify": true,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Genuinely disputed classical name. Monier-Williams and efloraofindia tie Karnikara to Pterospermum acerifolium (the \"karnikara tree\", kanak champa); Apte and many Ayurvedic nighantu lists give Karnikara as a synonym of Cassia fistula (Aragvadha). Sanskrit-literature scholarship (Venetia Ansell) states it is not possible to settle the identity. It is a single plant drug, but no binomial can be asse"
+  },
+  {
+   "slug": "karpasa-moola",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Gossypium herbaceum",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed as the root of the same drug, not a separate species. I checked the page file rather than trusting the proposer's claim about it: the Names table renders as '[Karpasa](/nighantu/herb/karpasa/) Moola', an explicit in-site link to the sibling entry, and the body states that gossypol content in roots is significantly lower than in seeds, which only makes sense as the same plant, different part. Published pharmacognostical and analytical evaluation of Karpasa root uses Gossypium herbaceum Linn. Same accepted name as karpasa; only the plant part differs, so the binomial carries over corre",
+   "identifyBasis": "Karpasa Moola is the root / root bark of Karpasa, and the page itself links \"Karpasa\" to the sibling entry. Karpasa = Gossypium herbaceum L. (Malvaceae) in Ayurvedic pharmacopoeial and pharmacognostic work, including a published pharmacognostical evaluation titled \"Karpasa (Gossypium herbaceum Linn.) root\". Same species as karpasa; only the plant part differs."
+  },
+  {
+   "slug": "karpasa",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Gossypium herbaceum",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed against the primary source rather than the secondary literature the proposer cited: the Ayurvedic Pharmacopoeia of India monograph defines Karpasa as the seeds, devoid of lint, of Gossypium herbaceum Linn. (Malvaceae). Gossypium herbaceum L. is the POWO-accepted name. I examined the multi-species worry and concluded it is varietal naming, not contested identity: the nighantus give the other species under explicitly qualified names (Rakta karpasa / Udyana karpasa = G. arboreum, Aranya karpasa = Thespesia sp.), while unqualified Karpasa maps consistently to G. herbaceum. Commercial G. ",
+   "identifyBasis": "Karpasa (Hindi Kapas, cotton) = Gossypium herbaceum L. (Malvaceae), the mapping used by the Ayurvedic Pharmacopoeia-aligned literature, a nighantu synonym analysis in JAHM (\"Karpasa (Gossypium herbaceum Linn.)\"), and standard herb databases. Note some nighantus describe a rakta karpasa variant referred to Gossypium arboreum, and commercial cotton is often G. hirsutum, but the medicinal drug is con"
+  },
+  {
+   "slug": "karpura-camphor",
+   "category": "uncertain",
+   "confidence": "high",
+   "contestedAtIdentify": true,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Karpura is camphor, a processed crystalline substance, not a plant drug. Ayurvedic commentators (Chunekar) recognise at least four kinds from different sources: Bhimseni/Baras karpura from Dryobalanops aromatica, Cini/Japani karpura from Cinnamomum camphora, Pati/Nagi karpura from Blumea balsamifera, and Krtrima (synthetic) karpura, which dominates the modern market. Medicinal-grade Bhimseni karpu"
+  },
+  {
+   "slug": "karvellaka",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Momordica charantia",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed, and the page itself removes all doubt: its bioavailability section states outright that Karvellaka has an identical profile to Karela and that 'both names refer to the same plant', naming Momordica charantia and its markers charantin and polypeptide-p. Sanskrit Karavella / Karavalli / Karavellaka maps to this species in the lexica; Hindi Karela; the page's Tikta-Katu rasa and fresh-fruit-juice dose form fit. Momordica charantia L. (Cucurbitaceae) is the accepted name. The wild vana-karavellaka is var. muricata of the same species, so it does not create a second-species problem. Flag",
+   "identifyBasis": "Karavellaka / Karvellaka (Hindi Karela, bitter gourd) = Momordica charantia L. (Cucurbitaceae); Sanskrit forms Karavella, Karavelli, Karavellaka are given for this species in Ayurvedic sources, and the page's dose forms (fresh fruit juice, dried fruit powder) match. Accepted name. The wild vana-karavellaka is var. muricata of the same species, not a different species."
+  },
+  {
+   "slug": "kasheruka",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Actinoscirpus grossus",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Kaseru / Kasheruka is a tuberous Cyperaceae drug, given in Ayurvedic sources (Yogasarasangraha, ayushvedah, planetayurveda) as Scirpus kysoor Roxb. / Scirpus grossus L.f. POWO makes Scirpus grossus L.f. a basionym of the accepted Actinoscirpus grossus (L.f.) Goetgh. & D.A.Simpson, with var. kysoor (Roxb.) Noltie as the Indian infraspecific. Contested because Bhavaprakasha describes two kinds, raja"
+  },
+  {
+   "slug": "kasis-bhasma",
+   "category": "mineral",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Not a plant. Kasisa is green vitriol (hydrated ferrous sulfate); Kasis Bhasma is its calcined product. The page's own constituents list reads \"Iron oxide (from calcination of ferrous sulfate)\" and \"residual sulfate compounds\", and it is filed under Mineral-Metal-Preparations / Bhasmas with XRD/ICP-OES analytics. No binomial applies."
+  },
+  {
+   "slug": "katphala",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Myrica esculenta",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed, and I checked the nomenclature question the proposer raised because it could easily have gone the other way. POWO retains Myrica as the accepted genus, so Myrica esculenta Buch.-Ham. ex D.Don is the accepted name and Morella esculenta (Buch.-Ham. ex D.Don) I.M.Turner, based on it, is the synonym. The proposal has this the right way round. I also cleared a second trap the proposal did not raise: older Indian literature prints 'Myrica nagi Thunb.' for this drug, but M. nagi is a distinct East Asian species and its use for Indian kaphal is a misapplication, so M. esculenta is correct. ",
+   "identifyBasis": "Katphala / Kaiphala is the stem bark of Myrica esculenta Buch.-Ham. ex D.Don (Myricaceae), the identity used by the Ayurvedic Pharmacopoeia of India (1999) monograph and by pharmacognostic reviews; the page's dose forms (bark powder, decoction, nasya) match. POWO treats Myrica esculenta Buch.-Ham. ex D.Don as the accepted name and Morella esculenta (Buch.-Ham. ex D.Don) I.M.Turner as a synonym, so"
+  },
+  {
+   "slug": "katuki",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": true,
+   "candidate": "Picrorhiza kurroa",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Katuki / Kutki = Picrorhiza kurroa Royle ex Benth. (Plantaginaceae, formerly Scrophulariaceae), accepted in POWO and the standard pharmacopoeial identity; the page's Arogyavardhini Vati reference and hepatoprotective iridoid-glycoside framing fit. Contested because the Himalayan trade routinely supplies Neopicrorhiza scrophulariiflora (Pennell) D.Y.Hong as substitute or adulterant, and some schola"
+  },
+  {
+   "slug": "kembuka",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Hellenia speciosa",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Kembuka / Kebuka / Kemuka is mapped to Costus speciosus (J.Koenig) Sm. in Ayurvedic sources (ayushvedah, JAIMS literature review \"Kebuka [Costus speciosus]\"); POWO's accepted name for that taxon is Hellenia speciosa (J.Koenig) S.R.Dutta (Costaceae), with Cheilocostus speciosus and Costus speciosus as synonyms. Contested: an Ancient Science of Life paper on kebuka identification records dissent, in"
+  },
+  {
+   "slug": "ketaki",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Pandanus odorifer",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed with one nomenclatural risk checked that the proposal did not mention. Beyond Pandanus odoratissimus L.f. and P. fascicularis Lam. being synonyms, the live question was whether P. odorifer gets sunk into the widely used P. tectorius. It does not: POWO holds Pandanus odorifer (Forssk.) Kuntze as accepted, basionym Keura odorifera Forssk., and in fact absorbs several former P. tectorius varieties into it. So the proposed name is the accepted one. Identity is settled by the page body, which is diagnostic of kewda rather than merely compatible with it: Arka distillate, Kewra water, attar",
+   "identifyBasis": "Ketaki / Kewda (screw pine) is Pandanus odorifer (Forssk.) Kuntze (Pandanaceae), the POWO-accepted name; the older Ayurvedic names Pandanus odoratissimus L.f. and Pandanus fascicularis Lam. are synonyms of it per POWO. The page's own content (kewra water, Arka distillate, 2-phenylethyl alcohol as the marker volatile) is diagnostic of kewda."
+  },
+  {
+   "slug": "kiratatikta",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": true,
+   "candidate": "Swertia chirayita",
+   "outcome": "accepted",
+   "verifierNote": "Accepted over the proposer's contested flag, on evidence they did not use. The name-level dispute is real: Kiratatikta and Malayalam Kiriyattu are applied to Andrographis paniculata in the plains and in South India, and the literature calls these two controversial plants. But that ambiguity is resolved for THIS page by its own chemistry, and resolved decisively, because the two candidates sit in different families with unrelated markers. The page lists amarogentin, swertiamarin, and the xanthones swertianin and mangiferin. Those are Swertia secoiridoids and xanthones; Andrographis would instea",
+   "identifyBasis": "Kiratatikta / Chirayata = Swertia chirayita (Roxb.) H.Karst. (Gentianaceae), the pharmacopoeial identity, matching the page's bitter hepatoprotective profile and Ghana Vati dose form. Contested: the same Sanskrit name and the Malayalam name Kiriyattu are applied to Andrographis paniculata in the plains and in South India, where it is an accepted substitute (Bhunimba/Kalmegh), so literature genuine"
+  },
+  {
+   "slug": "kokilaksha",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Hygrophila auriculata",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed, including the synonymy direction, which is where this one could have gone wrong: most Ayurvedic sources still print Asteracantha longifolia (L.) Nees, but POWO makes that a synonym and Hygrophila auriculata (Schumach.) Heine (Acanthaceae) the accepted name, so the proposal correctly records the modern combination. Hygrophila spinosa T.Anderson and the 'Hygrophila schulli' seen in Indian literature refer to the same taxon. Sanskrit kokilaksha confirmed for this species; Talmakhana/Neermulli corroborate. The page body supports it independently: beta-ecdysterone and phytosterols, this ",
+   "identifyBasis": "Kokilaksha (Talmakhana, Neermulli) = Hygrophila auriculata (Schumach.) Heine (Acanthaceae), the POWO-accepted name, with Asteracantha longifolia (L.) Nees, the name most Ayurvedic sources still print, listed as its synonym. Sanskrit-name mapping confirmed in wisdomlib lexica and Indian medicinal-plant sources; the diuretic/urinary indication on the page matches the classical use."
+  },
+  {
+   "slug": "mahamanjishthadi",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Mahamanjishthadi Kwatha/Kashaya is a classical polyherbal decoction (~44 ingredients: Manjishtha, Musta, Kutaja, Guduchi, Nimba, Triphala, Katuka etc.) named after its lead drug Manjishtha. Confirmed via Ayurmedinfo and Planet Ayurveda ingredient listings. A multi-herb formulation, not a single botanical, so no binomial."
+  },
+  {
+   "slug": "mahanarayan",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Mahanarayan (Mahanarayana) Taila is a classical medicated sesame-oil formulation containing dozens of herbs plus milk; it is a preparation, not a single drug. No single binomial applies."
+  },
+  {
+   "slug": "mahanimba",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Melia azedarach",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed against a government pharmacopoeial standard, which is stronger evidence than the proposer cited: the Ayurvedic Pharmacopoeia of India, Part I, Vol. IV carries a monograph titled Mahanimba, defined as the dried stem bark of Melia azedarach Linn. (Meliaceae). Melia azedarach L. is the accepted name in POWO. I attempted to refute this and found a real complication the proposer missed: wisdomlib also lists Mahanimba under Ailanthus excelsa and Ailanthus triphysa (Simaroubaceae), and several Ayurvedic sources state that A. excelsa 'is commonly known as Mahanimba' because it resembles nee",
+   "identifyBasis": "Sanskrit Mahanimba is explicitly Melia azedarach (Meliaceae), stated in Ayurvedic lexicons (wisdomlib), in API-referenced pharmacognostic work, and in a PMC-indexed study 'Evaluation of analgesic and antipyretic activities of Mahanimba (Melia azedarach Linn.)'. Melia azedarach L. is the accepted name in POWO. Distinct from Nimba (Azadirachta indica)."
+  },
+  {
+   "slug": "makaradhwaj-vati",
+   "category": "mineral",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Makaradhwaja is a kupipakwa rasayana of shuddha parada (mercury), shuddha gandhaka (sulphur) and swarna (gold) in 8:24:1 ratio per Bhaishajya Ratnavali, with cotton and aloe juice used only as bhavana media. A metallic/mineral rasa preparation, never a single plant."
+  },
+  {
+   "slug": "makoy",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Solanum nigrum",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed. Makoy is the Hindi trade name for Kakamachi, and the Ayurvedic pharmacopoeial standards for Kakamachi are set against Solanum nigrum Linn. (Solanaceae); the identification is uniform across dravyaguna college references, review literature and raw-drug trade sources. Solanum nigrum L. is the accepted name in POWO; no correction needed. I checked the proposer's own caveat about the S. nigrum complex and concur it does not defeat the entry: substitution by S. villosum or S. americanum in commerce is an adulteration and quality-control problem, not a disagreement about which species the",
+   "identifyBasis": "Makoy is the standard Hindi trade name for Kakamachi, Solanum nigrum L. (Solanaceae); stated across Ayurvedic pharmacognosy literature including pharmacopoeial-standard studies of Kakamachi (Solanum nigrum Linn). Solanum nigrum L. is accepted in POWO. Note only that commercial 'makoy' is sometimes drawn from the wider S. nigrum complex (e.g. S. villosum), but the official source plant is unambiguo"
+  },
+  {
+   "slug": "mamsarohini",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Soymida febrifuga",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Mamsarohini is mapped to Soymida febrifuga (Meliaceae, Indian redwood/bastard cedar) in Ayurvedic lexicons (wisdomlib), college dravyaguna references, and a 2024 Plant Science Today review of S. febrifuga. Soymida febrifuga (Roxb.) A.Juss. is accepted in POWO. A published 'critical review on Mamsarohini' notes the term is absent from the Brihattrayi and that the classical drug 'Rohini' has regiona"
+  },
+  {
+   "slug": "mandukparni",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": true,
+   "candidate": "Centella asiatica",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed, and I disagree with the proposer's decision to flag this as contested. I checked the direction of the well-known Brahmi/Mandukaparni confusion and it runs the other way: the Ayurvedic Formulary of India assigns Brahmi to Bacopa monnieri and Mandukaparni to Centella asiatica, and the market problem is that Centella is sold under the vernacular name 'Brahmi' in North India and Kerala, plus mutual adulteration between the two. The ambiguous name is Brahmi, not Mandukaparni. I could not find a reputable source that identifies Mandukaparni itself as Bacopa monnieri, so the proposer's cla",
+   "identifyBasis": "The Ayurvedic Formulary of India and API treat Mandukaparni as Centella asiatica (L.) Urb. (Apiaceae) and Brahmi as Bacopa monnieri. Accepted name per POWO. Flagged contested because since Bhavaprakasha/Hemadri the two names have been conflated, and in parts of North India and Kerala Centella is sold as 'Brahmi' while 'Mandukaparni' is regionally used for Bacopa; the official mapping is nonetheles"
+  },
+  {
+   "slug": "mandura-bhasma",
+   "category": "mineral",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Mandura is old iron rust (ferric oxide); Mandura Bhasma is its calcined/incinerated form prepared with triphala decoction and cow urine. A mineral/metallic preparation by definition, so no binomial."
+  },
+  {
+   "slug": "manikya-pishti",
+   "category": "mineral",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Manikya is ruby (gem-grade corundum, aluminium oxide); pishti is the rose-water-levigated gemstone preparation. A gem/mineral preparation, so no binomial."
+  },
+  {
+   "slug": "manjishtha",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": true,
+   "candidate": "Rubia cordifolia",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed. Manjishtha is Rubia cordifolia Linn. (Rubiaceae, Indian madder) in the Ayurvedic Pharmacopoeia of India and throughout the pharmacological literature; the root is traded as 'manjith'. Rubia cordifolia L. is verified as an accepted name in POWO (not a synonym), so no correction was needed. I examined the proposer's contested flag and judged it insufficient to reject: POWO does also accept Rubia manjith Roxb. ex Fleming as a distinct Himalayan species, and some authors argue much Indian commercial manjistha is R. manjith, but this is a taxonomic-circumscription argument within Indian ",
+   "identifyBasis": "Manjishtha (Indian madder) is Rubia cordifolia L. (Rubiaceae) in the Ayurvedic Pharmacopoeia of India and throughout the pharmacological literature (e.g. PMC comprehensive review of Rubia cordifolia L. traditional uses). Accepted in POWO. Contested because POWO also accepts Rubia manjith Roxb. ex Fleming as a separate species and several taxonomists hold that much Indian 'manjistha' raw drug is ac"
+  },
+  {
+   "slug": "manjistha",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": true,
+   "candidate": "Rubia cordifolia",
+   "outcome": "accepted",
+   "verifierNote": "Same drug as the 'manjishtha' slug, differing only in transliteration; verified on the same evidence and accepted on the same reasoning. Rubia cordifolia L. confirmed accepted in POWO, API-listed as Manjishtha. The R. manjith circumscription argument was considered and judged not to be a competing drug identity. Housekeeping flag for the site owner rather than a botanical objection: these two slugs are duplicate pages for one substance and should probably be merged, with one redirecting to the other, so the same binomial is not asserted twice under near-identical names.",
+   "identifyBasis": "Alternate transliteration of the same drug as the 'manjishtha' entry. Rubia cordifolia L. (Rubiaceae) per API and mainstream literature; accepted in POWO. Same contested note: POWO also accepts Rubia manjith, which some authors regard as the true Indian madder of commerce. (These two slugs appear to be duplicates of one another and may warrant merging.)"
+  },
+  {
+   "slug": "masi",
+   "category": "compound",
+   "confidence": "medium",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Masi is not a drug but a dosage form (masi kalpana): a substance charred/carbonised in a closed vessel, prepared from plant, animal or mineral starting material (e.g. Kasisa masi, Vata masi, Godanti masi). The live page carries only 'English: Masi' in its table and its body text describes an iron-oxide bhasma-like product, which is generic hallucinated filler that appears on other blank pages too."
+  },
+  {
+   "slug": "matsyakshi",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Alternanthera sessilis",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Modern Ayurvedic pharmacognosy treats Alternanthera sessilis (L.) R.Br. ex DC. (Amaranthaceae) as the source of Matsyakshi, including a dedicated IJAPR paper 'Pharmacognostic and preliminary physico-chemical evaluation of Matsyakshi [Alternanthera sessilis (Linn.) R.Br]'. Accepted name in POWO. Contested because Raj Nighantu 5.127 leaves Matsyakshi unidentified and allows Enhydra fluctuans, and so"
+  },
+  {
+   "slug": "matulunga-rasa",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": false,
+   "candidate": "Citrus medica",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Matulunga is the citron, Citrus medica L. (Rutaceae), attested from Charaka and Sushruta onward and equated with Bijapura; accepted name in POWO. 'Rasa' here means the expressed juice, not a mercurial rasa yoga: the page's own dose is '10-20 mL fresh juice', its rasa/guna are amla and ushna, it links back to the herb Matulunga, and its body text discusses citric acid and vitamin C. Confidence held"
+  },
+  {
+   "slug": "mayurashikha",
+   "category": "plant",
+   "confidence": "low",
+   "contestedAtIdentify": true,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Genuinely unresolved across three families. Sanskrit lexicons give Mayurashikha as Celosia argentea (Amaranthaceae); Indian botanical and Ayurvedic sources give Actiniopteris radiata / A. dichotoma (Pteridaceae, peacock-tail fern), which is the most common modern identification; and other Ayurvedic sources (e.g. EasyAyurveda) give Adiantum caudatum / A. incisum. Since reputable sources disagree at"
+  },
+  {
+   "slug": "medasaka",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": false,
+   "candidate": "Litsea glutinosa",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed and one nomenclatural correction applied. Medasaka is the Sanskrit name of the maida lakdi / Indian laurel tree, corroborated independently across Ayurvedic references and the raw-drug trade via the consistent vernacular chain (Hindi maida lakdi / meda lakdi, Telugu meida, Tamil meidalakavi). The proposer was right to prefer Litsea glutinosa over 'Litsea chinensis', which several Ayurvedic writers still use: I verified in POWO that Litsea glutinosa (Lour.) C.B.Rob. (Lauraceae) is the accepted name and that Litsea chinensis Lam. is one of its 69 synonyms, so the outdated name would ha",
+   "identifyBasis": "Medasaka is the Sanskrit name for the maida lakdi tree, Litsea glutinosa (Lauraceae), per wisdomlib's Sanskrit-name mapping and consistent Ayurvedic and raw-drug trade sources (Hindi maidalakri/medh, Marathi maidalakdi, Telugu meda). Litsea glutinosa (Lour.) C.B.Rob. is the accepted name in POWO; 'Litsea chinensis', used by some Ayurvedic writers, is a synonym of it. Medium rather than high becaus"
+  },
+  {
+   "slug": "nirgundi-herb",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Vitex negundo",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed. GBIF/POWO: Vitex negundo L. is an ACCEPTED name (Lamiaceae) — no correction needed. Checked the identity controversy the proposer did not raise: the Vitex negundo vs V. trifolia dispute in the literature attaches to the drug name Sinduvara/Shephalika, NOT to Nirgundi, which is uniformly the API leaf drug Vitex negundo. Page body (lignan glycosides, Taila/Kwatha, Vata-joint indications) is consistent. Two cautions for the maintainer, neither botanical: (1) the page's 'Primary component: Mineral-derived preparation' line is a site-wide template artefact present on every page I inspect",
+   "identifyBasis": "Page's Names table is a stub (English = slug echo) and its 'mineral-derived preparation' line is a template artefact, but the title/alias 'Nirgundi' is an unambiguous classical Sanskrit drug name. Ayurvedic Pharmacopoeia of India monograph Nirgundi = dried leaf of Vitex negundo L. (Lamiaceae); Vitex negundo L. is the accepted name in POWO. Page body content (lignan glycosides, Vata/joint use, tail"
+  },
+  {
+   "slug": "nityananda-rasa",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Page subcategory is 'Rasa-Shastra-Alchemical-Preparations'; body states it is a Rasashastra formulation built on Parada-Gandhaka kajjali (mercuric sulphide) plus multiple bhasmas and herbal ingredients, sourced to Bhaishajya Ratnavali, Shlipada Rogadhikara. A multi-ingredient herbo-mineral rasaushadhi, not a single botanical."
+  },
+  {
+   "slug": "palandu",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Allium cepa",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed. Palandu is the settled Sanskrit name for the common onion across Charaka (Shaka varga), Sushruta (Shaka varga) and Bhavaprakasha (Haritakyadi varga); synonyms Durgandha, Yavaneshta, Teekshnagandha, Ulli. No competing species found — garlic is a separate drug (Rasona). GBIF: Allium cepa L. ACCEPTED (Amaryllidaceae, not the older Liliaceae placement some Ayurvedic sources still print). Page's rasa/guna/virya/vipaka (Madhura-Katu / Guru-Snigdha / Ushna / Madhura) match published Palandu dravyaguna, and its marker list is led by quercetin-4'-glucoside and quercetin-3,4'-diglucoside, whi",
+   "identifyBasis": "Palandu is the standard Sanskrit name for the common onion; page body refers to 'standardized onion' extract, fresh juice and steam distillation, and gives Madhura/Katu rasa with Ushna virya, matching classical Palandu. Allium cepa L. is the accepted name (POWO)."
+  },
+  {
+   "slug": "palasha",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Butea monosperma",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed, with the authority corrected. The proposer wrote Butea monosperma (Lam.) Taub.; POWO and GBIF both give the accepted name as Butea monosperma (Lam.) Kuntze — same binomial, different author citation, so store the binomial as 'Butea monosperma' (Fabaceae). API Part I Vol. II carries Palasha under this species. Checked for contestation: Butea superba is a distinct named drug (Lata Palasha, a climber) rather than a rival claimant to the base name, and B. monosperma var. lutea is an intraspecific colour variant, so the name is not genuinely split. The page's own marker compounds (butrin",
+   "identifyBasis": "Palasha is the classical Sanskrit name for the flame-of-the-forest; API monographs (Palasha bija, Palasha pushpa) give Butea monosperma (Lam.) Taub. (Fabaceae), the accepted name in POWO. Page body references Palasha flower and Palasha kshara preparation, both standard Butea monosperma products."
+  },
+  {
+   "slug": "panasa",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Artocarpus heterophyllus",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed. GBIF/POWO: Artocarpus heterophyllus Lam. ACCEPTED (Moraceae). Caveat verified and it does not sink the entry: Panasa has no API monograph (it is described under Phala varga in the Brihattrayi rather than as a pharmacopoeial single drug), but Sanskrit lexical and Ayurvedic review literature is unanimous that Panasa is the jackfruit, and the neighbouring Artocarpus drug has its own distinct name (Lakucha = A. lakoocha), so there is no name collision. Strong independent corroboration on the page itself: the marker list includes jacalin, the lectin specific to jackfruit seed, plus artoc",
+   "identifyBasis": "Panasa is the standard Sanskrit name for jackfruit. Page body describes seed flour, seed powder, dried fruit and latex preparations with Madhura-Kashaya rasa and Sheeta virya, matching jackfruit. Artocarpus heterophyllus Lam. (Moraceae) is the accepted name in POWO."
+  },
+  {
+   "slug": "panchamrita-parpati",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Subcategory 'Rasa-Shastra-Alchemical-Preparations'; body describes a Parpati Kalpana product of Parada-Gandhaka kajjali (mercury sulphide) combined with several mineral bhasmas, cited to Rasa Yoga Sagara and Rasa Tarangini. A mercurial-mineral compound, no single plant source."
+  },
+  {
+   "slug": "panna-pishti",
+   "category": "mineral",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Subcategory 'Mineral-Metal-Preparations', group 'Pishtis'. 'Panna' is emerald; the page body describes a beryllium-aluminium silicate matrix with trace chromium, i.e. levigated emerald (beryl). A gemstone pishti, not a botanical."
+  },
+  {
+   "slug": "paribhadra",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Erythrina variegata",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Paribhadra is the classical name for the Indian coral tree; the dominant identification in Ayurvedic and ethnobotanical literature is Erythrina variegata L. (Fabaceae), the accepted name in POWO (Erythrina indica Lam. is its synonym). Page body refers to Paribhadra bark, Tikta-Katu rasa, Ushna virya, joint/musculoskeletal group, consistent with the coral tree. Some Sanskrit lexicon sources instead"
+  },
+  {
+   "slug": "parnayavani",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Coleus amboinicus",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed, and the proposer's choice of accepted name is right. GBIF match: Coleus amboinicus Lour. = ACCEPTED; Plectranthus amboinicus (Lour.) Spreng. = SYNONYM resolving to it; Coleus aromaticus Benth. is a further synonym. All three names denote one taxon, so this is a nomenclatural question only, not a contested-identity one — Parnayavani/Karpuravalli maps to a single species in every source I checked. Page body corroborates independently: carvacrol, thymol, rosmarinic acid, p-cymene and gamma-terpinene are the Coleus amboinicus essential-oil profile, and Katu-Tikta/Laghu-Tikshna/Ushna mat",
+   "identifyBasis": "Parnayavani (Karpuravalli, Panikoorka, Indian borage) is consistently identified in Ayurvedic sources with Coleus aromaticus Benth. / Plectranthus amboinicus (Lour.) Spreng.; POWO now treats Coleus amboinicus Lour. as the accepted name with Plectranthus amboinicus as a synonym. Page body (essential oil, carvacrol-type phenols, rosmarinic acid, steam distillation and inhalation, Katu-Tikta, Ushna) "
+  },
+  {
+   "slug": "parpataka",
+   "category": "plant",
+   "confidence": "low",
+   "contestedAtIdentify": true,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Parpataka is a genuinely multi-source classical drug: Fumaria indica / Fumaria parviflora (Papaveraceae) in the north and in the API, Oldenlandia corymbosa (Rubiaceae), Rungia repens / Justicia procumbens (Acanthaceae) and Polycarpaea corymbosa (Caryophyllaceae) regionally. The page itself does not commit, writing 'Fumaria indica/Oldenlandia corymbosa' and marking its markers 'species-dependent'. "
+  },
+  {
+   "slug": "pashanabheda",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Bergenia ciliata",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Pharmacopoeial Pashanabheda is the rhizome of the Himalayan Bergenia, given in the API as Bergenia ligulata; POWO and World Flora Online treat Bergenia ligulata as a synonym/form of the accepted Bergenia ciliata (Haw.) Sternb., so the accepted binomial is used here. The page body itself names 'Bergenia ligulata (primary Pashanabheda source)' and standardizes on bergenin. Confidence held at medium "
+  },
+  {
+   "slug": "patala",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Stereospermum chelonoides",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Patala is a Dashamula constituent identified in the API as Stereospermum suaveolens (Roxb.) DC.; POWO lists Stereospermum suaveolens as a synonym of the accepted Stereospermum chelonoides (L.f.) DC. (Bignoniaceae). Page body explicitly names Stereospermum suaveolens and refers to Patala root bark and stem, the classical drug parts."
+  },
+  {
+   "slug": "patha",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": true,
+   "candidate": "Cissampelos pareira",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "API recognises the root of Cissampelos pareira L. (Menispermaceae) as Patha, and molecular authentication work (ISSR markers, Cissampelos pareira var. hirsuta) confirms it as the genuine source. Page body names Cissampelos pareira and standardizes on bisbenzylisoquinoline alkaloids (cissampeline/hayatinine, bebeerine), which are the C. pareira markers. Cyclea peltata is used as Patha in Kerala and"
+  },
+  {
+   "slug": "patola-patra",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": true,
+   "candidate": "Trichosanthes dioica",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Patola Patra is the leaf (patra) of Patola. API Patola = Trichosanthes dioica Roxb. (Cucurbitaceae), an accepted name in POWO; the page body explicitly names Trichosanthes dioica and describes fresh leaf juice and leaf powder. Same regional contestation as Patola: Trichosanthes cucumerina is traded as Patola in South India."
+  },
+  {
+   "slug": "patola",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": true,
+   "candidate": "Trichosanthes dioica",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "API monograph Patola = Trichosanthes dioica Roxb. (pointed gourd), accepted name in POWO; page body states 'Trichosanthes dioica (Patola/pointed gourd)' and lists cucurbitacin markers. Published authentication studies show three taxa traded as Patola (T. dioica in the north, T. cucumerina var. anguina and var. cucumerina in the south), so the name is genuinely contested."
+  },
+  {
+   "slug": "pilu",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": true,
+   "candidate": "Salvadora persica",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Pilu is identified in the API and in Ayurvedic drug databases as Salvadora persica L. (Salvadoraceae, the miswak/toothbrush tree), the accepted name in POWO; page body names Salvadora persica and its markers (benzyl isothiocyanate, salvadorine) and refers to stem/bark use for dantadhavana. Salvadora oleoides Decne. is also supplied as Pilu (bada pilu) in the drier northwest, so the name maps to mo"
+  },
+  {
+   "slug": "sameer-pannag-rasa",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Kupipakva rasaushadhi, not a plant. Published pharmaceutical reviews (Med J DY Patil Univ; Critical Review of Sameera Pannaga Rasa) give the composition as Parada (Hg), Gandhaka (S), Somala (As2O3), Haratala (As2S3) and Manahshila (As2S2). A herbo-mineral/arsenical compound formulation, so no single binomial applies."
+  },
+  {
+   "slug": "samudra-lavana",
+   "category": "salt",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Samudra Lavana is common sea salt (sodium chloride obtained by solar evaporation of seawater), one of the classical panchalavana. A mineral salt, not a plant."
+  },
+  {
+   "slug": "saptamrit-lauh",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Classical multi-ingredient formulation (Triphala: Amalaki, Haritaki, Bibhitaki, plus Yashtimadhu and Loha bhasma, levigated with honey and ghee). Herbo-mineral compound; no single binomial."
+  },
+  {
+   "slug": "saptaparna",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Alstonia scholaris",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed. Saptaparna (\"seven-leaved\", Hindi Chhatim/Satona, Saptachhada) is uniformly Alstonia scholaris (L.) R.Br., Apocynaceae, across the Ayurvedic Pharmacopoeia of India (stem bark monograph) and dravyaguna literature; no competing botanical claimant found. POWO lists Alstonia scholaris (L.) R.Br. as the accepted name (IPNI 60445977-2), so no correction needed. The page's own chemistry section names echitamine and alstonine, the diagnostic Alstonia indole alkaloids, which corroborates rather than contradicts the identification. Confidence 'high' upheld.",
+   "identifyBasis": "Saptaparna (\"seven leaves\", Hindi Chhatim/Satona) is uniformly identified as Alstonia scholaris (L.) R.Br. (Apocynaceae) in the Ayurvedic Pharmacopoeia of India and standard dravyaguna literature; the name refers to its whorls of seven leaflets. Accepted name per POWO."
+  },
+  {
+   "slug": "sarja",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Vateria indica",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Ayurvedic drug databases (ayushvedah drug 574 \"Sarja - Vateria indica Linn.\") and dravyaguna sources identify Sarja / Sarjarasa (white dammar resin) as Vateria indica L., Dipterocarpaceae. Sources note the parallel drug Shala/Rala is Shorea robusta and that S. robusta resin is used as a substitute, so the two are sometimes conflated."
+  },
+  {
+   "slug": "sarpaksi",
+   "category": "plant",
+   "confidence": "low",
+   "contestedAtIdentify": true,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Sarpakshi is mapped to at least four different plants by reputable sources: Ophiorrhiza mungos L. (Rubiaceae, the commonest modern attribution), Polygonum plebejum, Wrightia tinctoria (ayushvedah drug 579), and as a Sanskrit synonym of Rauvolfia serpentina. No single identification is safe, so left blank."
+  },
+  {
+   "slug": "satyanashi",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Argemone mexicana",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed. Satyanashi is the standard Hindi name for the Mexican prickly poppy, Argemone mexicana L. (Papaveraceae); POWO gives Argemone mexicana L. as the accepted name (IPNI 18816-2). No correction needed. I checked for the usual trap here: the Sanskrit synonym Swarnakshiri is regionally ambiguous (sometimes applied to Coscinium fenestratum), but this page is keyed on the vernacular Satyanashi, which is not ambiguous. The page text independently cites sanguinarine, berberine, argemone oil and the epidemic-dropsy mustard-oil adulteration issue, all specific to A. mexicana. Confidence 'high' u",
+   "identifyBasis": "Satyanashi is the standard Hindi name for the Mexican prickly poppy, Argemone mexicana L. (Papaveraceae), Sanskrit Swarnakshiri/Katuparni. Identification is consistent across the Ayurvedic Pharmacopoeia and Indian floristic sources; accepted name per POWO."
+  },
+  {
+   "slug": "shalmali",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Bombax ceiba",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed. Shalmali (Hindi Semal, silk cotton tree) is Bombax ceiba L. (Malvaceae s.l., formerly Bombacaceae) in the Ayurvedic Pharmacopoeia of India and standard dravyaguna sources; the exudate Mocharasa is from the same tree, which the page's dosage section reflects. Salmalia malabarica (DC.) Schott & Endl. and Bombax malabaricum DC., the names used in older pharmacopoeial editions, are synonyms; POWO accepts Bombax ceiba L. (IPNI 559120-1), which is what the proposal already gave. I checked the nearest confusable drug, Kutashalmali, and it is treated as a separate entry, so it does not dest",
+   "identifyBasis": "Shalmali (Hindi Semal, silk cotton tree) is Bombax ceiba L. (Malvaceae/Bombacaceae) throughout the Ayurvedic Pharmacopoeia of India and dravyaguna texts; the exudate Mocharasa comes from the same tree. Salmalia malabarica is a synonym; Bombax ceiba is the accepted name per POWO."
+  },
+  {
+   "slug": "shana",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Crotalaria juncea",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Sanskrit shana (शण), Hindi san, is the sunn hemp fibre plant Crotalaria juncea L. (Fabaceae), named in Sanskrit literature as a fibre crop and used in Ayurveda/Siddha for skin disorders and wounds. Caveat: Sanskrit lexicons (Monier-Williams) also gloss shana as hemp generally, and it is occasionally read as Cannabis sativa, though Bhanga is the standard name for cannabis."
+  },
+  {
+   "slug": "shankhini",
+   "category": "plant",
+   "confidence": "low",
+   "contestedAtIdentify": true,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Shankhini is a genuinely unresolved classical drug name. It is used (a) as a synonym cluster with Shankhpushpi for Canscora decussata / Convolvulus / Evolvulus, and (b) in Sushruta as a distinct purgative drug, with Andrographis paniculata (via the Yavatikta synonym) and other candidates proposed. Reviews explicitly call the Canscora equation erroneous. No defensible single binomial."
+  },
+  {
+   "slug": "shankhpushpi",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Convolvulus prostratus",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "The Ayurvedic Pharmacopoeia of India designates Shankhpushpi as Convolvulus pluricaulis, whose accepted name is Convolvulus prostratus Forssk. (Convolvulaceae). This is the best-attested and pharmacopoeially official identity, but the name is a textbook controversy: Evolvulus alsinoides, Clitoria ternatea and Canscora decussata are all traded and used as Shankhpushpi in different regions."
+  },
+  {
+   "slug": "shara",
+   "category": "plant",
+   "confidence": "low",
+   "contestedAtIdentify": true,
+   "candidate": "Tripidium bengalense",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Dravyaguna sources equate Shara with munja grass, Saccharum munja Roxb. (= Saccharum bengalense Retz.), whose accepted name per POWO/IPNI is Tripidium bengalense (Retz.) H.Scholz. Flagged contested: Shara is one of the trinapanchamula grasses and different commentators assign it to Saccharum spontaneum (usually Kasha) or Saccharum arundinaceum (given as Munja by ayushvedah), so the grass boundarie"
+  },
+  {
+   "slug": "sharapunkha",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Tephrosia purpurea",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed. Sharapunkha (Hindi Sarphonka, wild indigo) is Tephrosia purpurea (L.) Pers., Fabaceae, in dravyaguna sources, carrying the prabhava Plihaghna and the classical yakrit/pliha indications. POWO gives Tephrosia purpurea (L.) Pers. as the accepted name (IPNI 520851-1); no correction needed. The dosha profile in the sources I checked (Tikta-Kashaya, Laghu-Ruksha, Ushna virya, Katu vipaka) matches the page's table exactly, and the page's mention of rotenoids fits Tephrosia. Confidence 'high' upheld.",
+   "identifyBasis": "Sharapunkha (Hindi Sarphonka, wild indigo) is Tephrosia purpurea (L.) Pers. (Fabaceae) in the Ayurvedic Pharmacopoeia of India and standard dravyaguna literature, the classical yakrit (liver) drug. Accepted name per POWO."
+  },
+  {
+   "slug": "shigru-patra",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Moringa oleifera",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed, with the caveat that this page is a plant part rather than a whole drug, so the binomial is that of the source plant. Shigru is Moringa oleifera Lam. (Moringaceae) in the Ayurvedic Pharmacopoeia of India, and Patra is the leaf; API covers leaf among the parts used, and the literature confirms patra as the most frequently used part of Shigru. POWO accepts Moringa oleifera Lam. (IPNI 584736-1), so no correction. I checked whether Moringa concanensis destabilises this: it is treated as the distinct drug Rakta Shigru, not as an alternative source of plain Shigru, so this is not a contes",
+   "identifyBasis": "Shigru Patra is the leaf (patra) of Shigru, the drumstick tree Moringa oleifera Lam. (Moringaceae), as given in the Ayurvedic Pharmacopoeia of India. A plant part of a single species, so the binomial applies. Moringa concanensis is recognised separately as Rakta Shigru and does not displace the standard identity."
+  },
+  {
+   "slug": "shilajit",
+   "category": "mineral",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Shilajit (asphaltum, mineral pitch) is a blackish-brown exudate that seeps from Himalayan rock strata, a humified organic-mineral substance, not a plant. Although of ultimately plant-humus origin, no single source species can or should be assigned."
+  },
+  {
+   "slug": "shothari-loha",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Classical herbo-mineral formulation built on Loha bhasma (calcined iron) with multiple plant drugs, prescribed for shotha (oedema). A multi-ingredient compound; no single binomial."
+  },
+  {
+   "slug": "pradarantak-lauh",
+   "category": "compound",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Name ends in 'Lauha', the standard label for a herbo-mineral Ayurvedic formulation built on Lauha Bhasma (calcined iron) combined with multiple plant drugs; Pradarantaka Lauha is a classical multi-ingredient rasaushadhi for pradara (leucorrhoea/menorrhagia). Not a single botanical drug, so no binomial."
+  },
+  {
+   "slug": "prapunnada",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Senna tora",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Bhavaprakasha Nighantu lists Prapunnata/Prapunnada among the synonyms of Chakramarda, identified as Cassia tora L.; POWO gives Senna tora (L.) Roxb. as the accepted name with Cassia tora L. as a synonym. Verified via wisdomlib's Bhavaprakasha synonym list and POWO/IPNI record 518369-1. Some regional usage extends the name to related sennas (Senna sophera, Senna occidentalis), hence medium confiden"
+  },
+  {
+   "slug": "priyala",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Buchanania lanzan",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed. Priyala/Piyala is the standard Sanskrit name for chironji across dravyaguna sources (wisdomlib, ayushvedah drug 531, ayurvedicmedicinalplants), all giving Buchanania lanzan Spreng. (Anacardiaceae). Checked the proposer's flag about Buchanania cochinchinensis: POWO retains Buchanania lanzan Spreng. (IPNI 69300-1) as accepted while WFO and Flora of Maharashtra prefer B. cochinchinensis (Lour.) M.R.Almeida. That is a nomenclatural dispute over one and the same tree, not two candidate species, so it does not meet the contested-identity bar. Kept B. lanzan because it is the POWO-accepted",
+   "identifyBasis": "Priyala is the standard Sanskrit name for chironji, Buchanania lanzan Spreng. (Anacardiaceae), used in Ayurvedic and Indian floras. POWO record (IPNI 69300-1) lists Buchanania lanzan Spreng. as accepted; some databases instead use Buchanania cochinchinensis, but that is a nomenclatural dispute over the same plant, not a different identity."
+  },
+  {
+   "slug": "puga",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Areca catechu",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed. Puga/Pugi/Pugiphala is the areca nut, Areca catechu L., with unanimous agreement across wisdomlib, ayushvedah, easyayurveda and dravyaguna college sources; Areca catechu L. is the accepted POWO name and the genus is effectively monotypic in cultivation, so there is no competing species. One caveat found but not disqualifying: the synonym Kramuka is ambiguous, since Sushruta's Kramuka under Salasaradi and Syamadi ganas is read by commentators as Lodhra rather than Puga. That ambiguity attaches to Kramuka, not to Puga itself, which is unambiguous. No correction needed.",
+   "identifyBasis": "Puga (also Pugiphala, Kramuka) is the classical Sanskrit name for the areca/betel nut, Areca catechu L., an Ayurvedic Pharmacopoeia of India drug and an unambiguous, single-source identification across dravyaguna literature."
+  },
+  {
+   "slug": "punarnava",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": true,
+   "candidate": "Boerhavia diffusa",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Unqualified Punarnava (Rakta Punarnava) is Boerhavia diffusa L. in the Ayurvedic Pharmacopoeia of India and standard dravyaguna texts. Sveta Punarnava is separately identified as Trianthema portulacastrum L., and Boerhavia erecta is sometimes supplied, so the name family does span more than one species even though the dominant identification is secure."
+  },
+  {
+   "slug": "putikaranja",
+   "category": "plant",
+   "confidence": "low",
+   "contestedAtIdentify": true,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Sources genuinely split: Putikaranja is equated both with Holoptelea integrifolia (Roxb.) Planch. (as a synonym of Chirabilva/Putika, the view of most modern Indian dravyaguna scholars) and with Caesalpinia crista / Caesalpinia bonduc (Latakaranja) in other botanical and nighantu sources. Reviewed the Chirabilva ethnobotanical review and wisdomlib's Putikaranja entry; no winner picked, so binomial"
+  },
+  {
+   "slug": "putranjivaka",
+   "category": "plant",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "Putranjiva roxburghii",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed. Putranjivaka is the child-life tree, agreed by wisdomlib, easyayurveda, SMPB Kerala and India Biodiversity Portal, with no competing species anywhere in the sources checked. Checked the name status: POWO (IPNI 355114-1) lists Putranjiva roxburghii Wall. as accepted, with Drypetes roxburghii (Wall.) Hurus. (Hurusawa 1954) as a synonym, so the proposal already uses the accepted name rather than the synonym. No correction needed.",
+   "identifyBasis": "Putranjivaka is the child-life tree, Putranjiva roxburghii Wall. (Putranjivaceae), a well-fixed identification in dravyaguna. POWO (IPNI 355114-1) lists Putranjiva roxburghii Wall. as accepted, with Drypetes roxburghii (Wall.) Hurus. among its synonyms, so the accepted name is used here."
+  },
+  {
+   "slug": "rajika",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Brassica juncea",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Rajika is the brown/Indian mustard of Ayurvedic texts, generally identified as Brassica juncea (L.) Czern. (dravyaguna sources list sarshapa, siddharthaka, rajika and asuri around the mustard group). Some authors instead equate Rajika with Brassica nigra and reserve Brassica juncea or Brassica campestris for Sarshapa, so the name is not cleanly one-to-one."
+  },
+  {
+   "slug": "raktamoola",
+   "category": "plant",
+   "confidence": "low",
+   "contestedAtIdentify": true,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "'Raktamoola' means 'red-rooted' and functions as a descriptive epithet rather than a fixed drug name: it is recorded as a Sanskrit synonym of Lajjalu (Mimosa pudica L.) and is also applied to other red-rooted drugs. With no English/Hindi names or aliases recorded on the page to disambiguate, the identity cannot be fixed and the binomial is left empty."
+  },
+  {
+   "slug": "rasamanikya",
+   "category": "mineral",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Rasamanikya is a classical rasa-shastra preparation made from shodhita Haratala (orpiment, arsenic trisulphide) processed with alkaline media; it is an arsenical mineral medicine, not a plant drug."
+  },
+  {
+   "slug": "raupya-bhasma",
+   "category": "mineral",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Raupya (Rajata) Bhasma is calcined silver, a metallic bhasma of rasa shastra. No botanical source exists."
+  },
+  {
+   "slug": "rohisha",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": false,
+   "candidate": "Cymbopogon martinii",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Rohisha (Rohisha trina, rusa/palmarosa grass) is identified as Cymbopogon martinii (Roxb.) W.Watson in Ayurvedic dravyaguna sources, which list Dhyamaka, Bhutika, Kattrina and Sougandhika among its synonyms. Some texts treat Dhyamaka/Bhutika as separate Cymbopogon species (e.g. C. jwarancusa, C. schoenanthus), so confidence is medium rather than high."
+  },
+  {
+   "slug": "rohitaka",
+   "category": "plant",
+   "confidence": "low",
+   "contestedAtIdentify": true,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Well-documented controversy: Rohitaka is equated with Tecomella undulata (Sm.) Seem. in North India and pharmacopoeial usage, but with Aphanamixis polystachya (Wall.) R.N.Parker in South India and Bengal, and reviews also list Rhododendron arboreum, Erythrina suberosa and Ventilago madraspatana as market sources. No single identification can be asserted, so the binomial is left empty."
+  },
+  {
+   "slug": "rudraksha",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Elaeocarpus ganitrus",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed, with the nomenclatural caveat examined and found not to be an identity conflict. The Ayurvedic Pharmacopoeia of India, Part I Vol. IV (2001), p.104 has an official Rudraksha monograph defining the drug as the dried bead from the ripe fruit of Elaeocarpus ganitrus Roxb., and effectively the whole pharmacological literature uses that binomial. The unsettled part is which treatment is accepted: POWO carries E. ganitrus Roxb. ex G.Don, while other authorities sink it under E. sphaericus (Gaertn.) or lump it into the broad E. angustifolius Blume. Those are three competing circumscription",
+   "identifyBasis": "The rudraksha bead tree; the Ayurvedic Pharmacopoeia of India and nearly all pharmacological literature use Elaeocarpus ganitrus Roxb. The plant identity is not in doubt, but the nomenclature is unsettled: POWO/WFO treatments variously place ganitrus under Elaeocarpus sphaericus (Gaertn.) K.Schum. or Elaeocarpus angustifolius Blume, so the name maps to more than one accepted taxon depending on the"
+  },
+  {
+   "slug": "saindhava-lavana",
+   "category": "salt",
+   "confidence": "high",
+   "contestedAtIdentify": false,
+   "candidate": "",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Saindhava Lavana is rock salt (halite, sodium chloride) from the Sindhu/Salt Range region, one of the five classical lavanas. A mineral salt, not a plant."
+  },
+  {
+   "slug": "saireyaka",
+   "category": "plant",
+   "confidence": "medium",
+   "contestedAtIdentify": true,
+   "candidate": "Barleria prionitis",
+   "outcome": "rejected",
+   "verifierNote": "",
+   "identifyBasis": "Saireyaka (Sahachara, Kurantaka) is primarily Barleria prionitis L., the pita (yellow) saireyaka of dravyaguna texts. Classical sources describe colour-based varieties in which sveta and rakta saireyaka are assigned to Barleria cristata L., and Sahachara is additionally equated by some authors with Strobilanthes ciliatus, so the name spans more than one species."
+  },
+  {
+   "slug": "yashtimadhu",
+   "category": "plant",
+   "confidence": "",
+   "contestedAtIdentify": false,
+   "candidate": "Glycyrrhiza glabra",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed, no correction needed. Page content is entirely licorice (WHO Monograph on Radix Glycyrrhizae; glycyrrhizin ~10% dry wt, 18-beta-glycyrrhetinic acid, glabridin, liquiritigenin, isoliquiritigenin, licochalcone A; pseudoaldosteronism via 11-beta-HSD2 inhibition; DGL dosage form). PMID 37104998 cited on the page is titled 'Lipid-based ayurvedic formulations of a single herb-Yashtimadhu (Glycyrrhiza glabra)', tying the Sanskrit name to the binomial in the page's own literature. Verified independently that Yashtimadhu = Glycyrrhiza glabra L. in the Ayurvedic Pharmacopoeia of India (Part I",
+   "identifyBasis": "",
+   "identifyRecordLost": true
+  },
+  {
+   "slug": "yava",
+   "category": "plant",
+   "confidence": "",
+   "contestedAtIdentify": false,
+   "candidate": "Hordeum vulgare",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed, no correction needed. The page's own constituents and safety notes are barley-diagnostic and not shared with other Ayurvedic dhanya: hordein named as the protein fraction, hordenine as a marker, beta-glucan 3-8%, tocols, 'no ergot contamination' as a quality parameter, and 'Contains gluten (hordein); strictly contraindicated in celiac disease'. Dosage forms are Saktu, Yavagu (barley gruel) and Yava Kshara; traditional use cites Yava Kshira (barley water) in Mutra Roga. Verified independently: Yava is Hordeum vulgare L. (Poaceae), classified by Charaka under shukadhanya (awned grains",
+   "identifyBasis": "",
+   "identifyRecordLost": true
+  },
+  {
+   "slug": "zingiber",
+   "category": "plant",
+   "confidence": "",
+   "contestedAtIdentify": false,
+   "candidate": "Zingiber officinale",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed after specifically trying to break it on the bare-genus title and on the zerumbone signal. Because 'Zingiber' is a truncated Latin genus rather than a Sanskrit drug name, I tested whether the page could be genus-level or another Zingiber species. It cannot: markers are 6-/8-/10-gingerol, 6-/8-/10-shogaol, zingerone, zingiberene, beta-sesquiphellandrene, ar-curcumene and beta-bisabolene; the dosage form is 'Churna (Shunthi/dry ginger powder)'; the page turns on the Ardraka (fresh, gingerol-rich) versus Shunthi (dry, shogaol-rich) processing contrast specific to Z. officinale; and it n",
+   "identifyBasis": "",
+   "identifyRecordLost": true
+  },
+  {
+   "slug": "upodika",
+   "category": "plant",
+   "confidence": "",
+   "contestedAtIdentify": false,
+   "candidate": "Basella alba",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed. The Ayurvedic Pharmacopoeia-adjacent literature and the peer-reviewed pharmacognostic standardization paper 'Pharmacognostical Standardization of Upodika - Basella alba L.' (Ancient Science of Life) both equate Upodika with Basella alba L. (Basellaceae). I specifically tested this for contested identity, since Ayurvedic reviews of Upodika also cite Basella rubra Linn. and Basella cordifolia Lam.; POWO/IPNI treat both of those as synonyms of the single accepted name Basella alba L. (B. alba and B. rubra were published with equal priority in 1753, and B. alba was chosen as the accepte",
+   "identifyBasis": "",
+   "identifyRecordLost": true
+  },
+  {
+   "slug": "vamsha",
+   "category": "plant",
+   "confidence": "",
+   "contestedAtIdentify": false,
+   "candidate": "Bambusa bambos",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed. Dravyaguna sources (including the Shri Dhanwantry Ayurvedic College dravyaguna entry for Vansha and the review 'Vamsha (Bambusa bambos (L.) Voss) - A Panoramic View') identify Vamsha as the spiny bamboo, given variously as Bambusa arundinacea (Retz.) Willd./Roxb. or Arundo bambos L.; both are synonyms of the accepted name Bambusa bambos (L.) Voss (Poaceae), which is what I have kept. I probed two possible refutations and neither holds. First, the derived drug Vamshalochana (tabasheer) is in practice also collected from Dendrocalamus strictus, but that is a sourcing fact about the si",
+   "identifyBasis": "",
+   "identifyRecordLost": true
+  },
+  {
+   "slug": "tagara",
+   "category": "plant",
+   "confidence": "",
+   "contestedAtIdentify": false,
+   "candidate": "Valeriana jatamansi",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed and corrected to the accepted name. The Ayurvedic Pharmacopoeia / Indian Pharmacopoeia monograph for Tagara is the dried rhizome and roots of Valeriana wallichii DC.; GBIF/POWO treat V. wallichii as a synonym of the accepted Valeriana jatamansi Jones ex Roxb. (Caprifoliaceae), so the accepted name is used here. I tried to refute this on contested-identity grounds and could not: the AYU (2023) Kerala market-sample study explicitly calls V. jatamansi the 'official source plant' of Tagara, and the problems reported (Nardostachys spp. and Nardostachys/Valeriana-lookalike aquatic species ",
+   "identifyBasis": "",
+   "identifyRecordLost": true
+  },
+  {
+   "slug": "tala",
+   "category": "plant",
+   "confidence": "",
+   "contestedAtIdentify": false,
+   "candidate": "Borassus flabellifer",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed; accepted name verified (Borassus flabellifer L., Arecaceae, ACCEPTED in GBIF/POWO). Corroborated by multiple independent Ayurvedic plant sources (Institute of Ayurveda plant list, SMPB Kerala, and the Kerala Journal of Ayurveda pharmacognosy paper on Talanguli, the male inflorescence of Borassus flabellifer), and by classical usage (Caraka Sutrasthana 27 on tala shaka; tender tala stem and tala fruit as drugs). I checked the one plausible refutation, that Sanskrit 'Tala' might be Corypha umbraculifera (talipot): the literature keeps these distinct, Tala = Borassus flabellifer, grown",
+   "identifyBasis": "",
+   "identifyRecordLost": true
+  },
+  {
+   "slug": "talamuli",
+   "category": "plant",
+   "confidence": "",
+   "contestedAtIdentify": false,
+   "candidate": "Curculigo orchioides",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed; accepted name verified (Curculigo orchioides Gaertn., ACCEPTED in GBIF). Pharmacopoeial monograph language corroborates it directly: 'Talamuli consists of dried rhizome of Curculigo orchioides Gaertn.' Sanskrit Talamuli/Talamulika (the name derives from tala, palm, plus mula, root, for the palm-like root) is the same drug as Krishna/Kali Musli, and multiple independent sources (ayushvedah drug entry 659, Shri Dhanwantry Ayurvedic College Krishna Musli sheet, published pharmacology reviews) agree. I checked for a competing identity and found none of substance: the Safed Musli ambigui",
+   "identifyBasis": "",
+   "identifyRecordLost": true
+  },
+  {
+   "slug": "tejapatra",
+   "category": "plant",
+   "confidence": "",
+   "contestedAtIdentify": false,
+   "candidate": "Cinnamomum tamala",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed; accepted name verified (Cinnamomum tamala (Buch.-Ham.) T.Nees & Eberm., Lauraceae, ACCEPTED in GBIF; the proposer's 'Nees & Eberm.' authority is the abbreviated form). The Ayurvedic Pharmacopoeia of India monograph is the dried mature leaf of C. tamala, and independent sources (ayushvedah entry 669 for tejpatra, Indian Medicinal Plants, published Ayurvedic reviews of Tejpatta) agree. I treated the proposer's 'contested' flag as a reason to reject and then discarded it: the cited issue is C. malabatrum and other Cinnamomum leaves entering the market as tejpat, which is adulteration, ",
+   "identifyBasis": "",
+   "identifyRecordLost": true
+  },
+  {
+   "slug": "tila-patra",
+   "category": "plant",
+   "confidence": "",
+   "contestedAtIdentify": false,
+   "candidate": "Sesamum indicum",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed; accepted name verified (Sesamum indicum L., Pedaliaceae, ACCEPTED in GBIF; Sesamum orientale is the synonym). Tila is Sesamum indicum throughout the Ayurvedic pharmacopoeia with no competing identification, and Tila Patra is simply the leaf of that same plant, a plant part rather than a separate drug entity, so it carries the parent plant's binomial. I confirmed on the page itself that the entry is a leaf-part page that already links to the separate /herb/tila/ page, so there is no risk that this slug denotes some unrelated substance. No correction needed. Editor's note, since the b",
+   "identifyBasis": "",
+   "identifyRecordLost": true
+  },
+  {
+   "slug": "vartaku",
+   "category": "plant",
+   "confidence": "",
+   "contestedAtIdentify": false,
+   "candidate": "Solanum melongena",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed. Wisdomlib's Sanskrit lexicon entry for Vārtāku/Vārtākī resolves to the eggplant, Solanum melongena; the only other name it carries is 'Solanum incanum auct. non L.', a misapplied name rather than a competing identity. Cross-checked against the page's own text, which describes nasunin (the purple-eggplant anthocyanin), chlorogenic acid, solasodine and solanine limits, and gives the dosage form as cooked vegetable (Shaka) — unambiguously brinjal. Solanum melongena L. is the POWO-accepted name, so no correction needed.",
+   "identifyBasis": "",
+   "identifyRecordLost": true
+  },
+  {
+   "slug": "vasaka",
+   "category": "plant",
+   "confidence": "",
+   "contestedAtIdentify": false,
+   "candidate": "Justicia adhatoda",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed, name corrected upstream already. POWO lists Adhatoda vasica Nees as a synonym of the accepted Justicia adhatoda L., so the proposed accepted name is right. The page's own text settles the drug identity independently: it states 'Vasa and Vasaka are synonymous names for Adhatoda vasica' and standardises on vasicine and vasicinone, the quinazoline alkaloids specific to this plant. No competing species found in any source checked.",
+   "identifyBasis": "",
+   "identifyRecordLost": true
+  },
+  {
+   "slug": "vathada",
+   "category": "plant",
+   "confidence": "",
+   "contestedAtIdentify": false,
+   "candidate": "Prunus dulcis",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed as almond, and the nomenclatural doubt the proposer raised resolves in favour of Prunus dulcis. POWO carries Prunus dulcis (Mill.) D.A.Webb as the accepted name with Prunus amygdalus Batsch, Amygdalus communis L. and Prunus communis L. as synonyms; the 2023 TAXON typification paper concerns typification, not a change of accepted name. Some recent review literature still leads with P. amygdalus, but that is a name preference over one species, not two plants. Page content is explicitly almonds — soaked and peeled kernels, almond oil, tocopherol, tree-nut allergen warning.",
+   "identifyBasis": "",
+   "identifyRecordLost": true
+  },
+  {
+   "slug": "vijaysar",
+   "category": "plant",
+   "confidence": "",
+   "contestedAtIdentify": false,
+   "candidate": "Pterocarpus marsupium",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed. Vijaysar/Bijasar/Asana/Beejaka all resolve to Pterocarpus marsupium Roxb. across the dravyaguna sources checked, and the API monograph drug is the heartwood of that species. POWO carries Pterocarpus marsupium Roxb. as accepted (with subsp. marsupium beneath it), so no correction needed. The page is the heartwood drug in the diabetes-metabolism group, matching the Vijaysar tumbler-water tradition and the 101 indexed publications, which are on P. marsupium heartwood. No competing species found.",
+   "identifyBasis": "",
+   "identifyRecordLost": true
+  },
+  {
+   "slug": "vriddhadaru",
+   "category": "plant",
+   "confidence": "",
+   "contestedAtIdentify": false,
+   "candidate": "Argyreia nervosa",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed, with the outdated name corrected. Wisdomlib gives Vriddhadaru as Argyreia nervosa (Burm.f.) Bojer, and POWO treats Argyreia speciosa (L.f.) Sweet, Convolvulus nervosus and Lettsomia nervosa as synonyms of it — so the older Ayurvedic name Argyreia speciosa and the accepted name denote one plant, not two, and Argyreia nervosa is the correct form to publish. Page content corroborates independently: root drug, argyrein, and a mandatory 'ergot alkaloids absent' test, which is the standard Convolvulaceae safety check for this genus.",
+   "identifyBasis": "",
+   "identifyRecordLost": true
+  },
+  {
+   "slug": "water-hyssop",
+   "category": "plant",
+   "confidence": "",
+   "contestedAtIdentify": false,
+   "candidate": "Bacopa monnieri",
+   "outcome": "accepted",
+   "verifierNote": "Confirmed. POWO accepts Bacopa monnieri (L.) Wettst. and lists 'water hyssop' and 'Brahmi' among its common names, with Herpestis monniera as a synonym. The Brahmi-versus-Centella asiatica dispute does not reach this page, because the slug is the English name, which attaches only to Bacopa (Centella's English names are gotu kola/Indian pennywort). Page content is decisive on its own: bacosides A/B, bacopaside I and II, bacopasaponin C, jujubogenin — all Bacopa-specific markers absent from Centella.",
+   "identifyBasis": "",
+   "identifyRecordLost": true
+  }
+ ]
+}

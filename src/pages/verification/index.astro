@@ -1,0 +1,131 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import verification from '../../data/verification.json';
+import { SITE_NAME, abs, rel } from '../../lib/site';
+
+const { runs, updatedAt } = verification as any;
+
+const description = 'How every class of fact on this reference was checked, and what was '
+  + 'rejected. Counts are computed from the run artifacts, not maintained by hand.';
+
+const jsonld = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Dataset',
+    '@id': `${abs('/verification/')}#dataset`,
+    name: 'Age Ayurveda Nighantu verification ledger',
+    description,
+    url: abs('/verification/'),
+    license: 'https://creativecommons.org/licenses/by/4.0/',
+    isAccessibleForFree: true,
+    inLanguage: 'en',
+    creator: { '@id': `${abs('/')}#organization` },
+    publisher: { '@id': `${abs('/')}#organization` },
+    variableMeasured: ['verification run', 'records checked', 'accepted', 'rejected', 'rejection reason'],
+    distribution: [
+      { '@type': 'DataDownload', name: 'JSON', encodingFormat: 'application/json', contentUrl: abs('/verification.json') },
+    ],
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Nighantu', item: abs('/') },
+      { '@type': 'ListItem', position: 2, name: 'Verification', item: abs('/verification/') },
+    ],
+  },
+];
+
+/** Headline pair per run: how many were checked, how many survived. */
+function headline(r: any) {
+  const s = r.stats ?? {};
+  if (r.id === 'botanical-identity') return { checked: s.candidates, kept: s.accepted, unit: 'identifications' };
+  if (r.id === 'citations') return { checked: s.claimsChecked, kept: s.recovered, unit: 'claims' };
+  if (r.id === 'safety') return { checked: s.ledgerEntries, kept: s.acceptedEntries, unit: 'records' };
+  if (r.id === 'safety-panel-01') return { checked: s.pagesExamined, kept: s.published, unit: 'records' };
+  if (r.id === 'safety-repair-02') return { checked: s.recordsExamined, kept: s.published, unit: 'records' };
+  return { checked: null, kept: null, unit: 'records' };
+}
+---
+<Base title={`Verification · ${SITE_NAME}`} description={description} canonical="/verification/" jsonld={jsonld}>
+  <Crumbs trail={[{ label: 'Verification' }]} />
+  <h1>Verification</h1>
+
+  <p class="answer">
+    Every class of fact on this reference is checked by a documented procedure before it is
+    published, and each procedure records what it threw out. This page publishes those
+    procedures and those rejection rates. The numbers below are computed from the run
+    artifacts rather than written by hand, so if one is wrong the script is wrong.
+  </p>
+
+  <p class="lede">
+    An accuracy policy is easy to write and impossible to check. A rejection rate is neither.
+    We publish ours because it is the part a reader can actually use to judge whether to
+    trust the rest of the site.
+  </p>
+
+  <div class="tablewrap">
+    <table>
+      <caption>Verification runs</caption>
+      <thead>
+        <tr><th>What was checked</th><th style="text-align:right">Examined</th><th style="text-align:right">Published</th><th style="text-align:right">Rejected</th></tr>
+      </thead>
+      <tbody>
+        {runs.map((r: any) => {
+          const h = headline(r);
+          const rejected = h.checked != null && h.kept != null ? h.checked - h.kept : null;
+          const pct = h.checked ? Math.round(((rejected ?? 0) / h.checked) * 100) : null;
+          return (
+            <tr>
+              <td><a href={rel(`/verification/${r.id}/`)}>{r.title}</a></td>
+              <td style="text-align:right;font-variant-numeric:tabular-nums">{h.checked ?? '—'}</td>
+              <td style="text-align:right;font-variant-numeric:tabular-nums">{h.kept ?? '—'}</td>
+              <td style="text-align:right;font-variant-numeric:tabular-nums">{rejected ?? '—'}{pct != null ? ` (${pct}%)` : ''}</td>
+            </tr>
+          );
+        })}
+      </tbody>
+    </table>
+  </div>
+
+  <h2>Why the rejections matter more than the acceptances</h2>
+  <p>
+    Two of these runs found that material already on the site was wrong. Every research
+    bullet the encyclopedia carried was a paraphrase with no identifier, so no reader could
+    check any of it; most of those were deleted rather than dressed up. Botanical
+    identification rejected more candidates than it accepted, because a large number of
+    classical drug names genuinely map to more than one species and picking a side would
+    have manufactured a certainty the sources do not have.
+  </p>
+  <p>
+    The third run rejected itself. A panel of four reviewers produced safety records for the
+    83 highest-risk entries and passed 25 of them. An independent auditor then re-read a
+    sample of those 25 and rejected every one, for defects including a dropped instruction to
+    monitor liver enzymes, a source misread as saying the opposite of what it said, and a
+    study's adverse findings reported as absent. Nothing from that run was published. It is
+    listed here because a verification page that only reports its successes is not a
+    verification page.
+  </p>
+  <p>
+    A blank field is a worse-looking page and a better reference. Where a page is missing
+    something, it says so.
+  </p>
+
+  <h2>The standing rules</h2>
+  <ul>
+    <li><strong>Rejection is the default.</strong> Verifiers are instructed to refute, not to confirm, and an unresolved check fails.</li>
+    <li><strong>Verifiers are independent of identifiers.</strong> The agent that proposes a fact never approves it.</li>
+    <li><strong>Different lenses, not repeated ones.</strong> Where a fact can fail in several ways, each checker is given a different failure mode to hunt, because four identical reviewers find one class of error four times.</li>
+    <li><strong>Stated gaps beat silent ones.</strong> "No authoritative source establishes this" is a publishable answer. An empty section is not.</li>
+    <li><strong>The checkers get checked.</strong> A sample of accepted records is re-reviewed by an auditor who did not see the original verdicts.</li>
+  </ul>
+
+  <h2>Machine-readable</h2>
+  <p>
+    The full ledger, including per-record outcomes and reasons, is at
+    <a href={rel('/verification.json')}>/verification.json</a> under CC BY 4.0.
+  </p>
+
+  <p class="meta">Last rebuilt {updatedAt}.</p>
+</Base>

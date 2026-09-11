@@ -26,9 +26,20 @@ scripts/monitor.mjs     the daily detection sweep
 scripts/monitors/       one module per check
 scripts/lib/            state, http, issue filing, dashboard rendering
 scripts/geo-audit.mjs   citation panel, monthly
+
+scripts/lib/safety.mjs      safety record schema and validator (the publish gate)
+scripts/lib/sources.mjs     the source allowlist: nothing else may ground a safety claim
+scripts/safety-worklist.mjs which pages need safety data, in risk order
+scripts/apply-safety.mjs    workflow output -> data/safety.json, via the validator
+scripts/dravyaguna.mjs      parses rasa/guna/virya/vipaka out of the monographs
+scripts/verification.mjs    builds the published verification ledger from run artifacts
+scripts/slim-runs.mjs       redacts and shrinks run output before it is committed
+scripts/test/               negative tests; every one injects a fault and expects a failure
+
 guides/                 hand-written guide pages (the Shirodhara hub)
 content/                generated, committed, published
 data/                   monitor state, citation log, DASHBOARD.md
+data/runs/              slimmed verification-run records (raw output is gitignored)
 ```
 
 ## Section counts
@@ -56,6 +67,13 @@ npm run monitor:dry    # run every monitor, open no issues
 npm run indexnow:dry   # show which URLs would be submitted
 npm run dev            # local dev server
 node scripts/geo-audit.mjs --list # print the citation panel
+
+node scripts/safety-worklist.mjs --stats   # which pages need safety data, in risk order
+node scripts/apply-safety.mjs <panel.json> # validate + publish a panel's output
+node scripts/dravyaguna.mjs --dry-run      # parse the pharmacology tables, write nothing
+node scripts/verification.mjs --dry-run    # rebuild the ledger, write nothing
+node scripts/slim-runs.mjs                 # redact + shrink run output before committing
+node scripts/test/safety.test.mjs          # negative tests for the safety validator
 ```
 
 ## What is excluded, and why
@@ -91,6 +109,51 @@ by name.
 
 All three gates have been negative-tested: each fails on an injected fault and passes clean.
 
+## Verification
+
+Every class of fact has a documented procedure and a published rejection rate at
+`/verification/`. The counts there are computed from the run artifacts in `data/runs/`,
+never typed in, so a wrong number on the page means a wrong script.
+
+| Run | Examined | Published | Rejected |
+|---|---|---|---|
+| Botanical identity | 256 | 108 | 148 |
+| Research citations | 1,251 | 496 | 755 |
+| Safety, first attempt | 83 | 0 | 83 |
+| Safety, second attempt | 25 | 1 | 24 |
+
+Two findings are worth knowing before reading anything else here.
+
+**The citation pass found that every research bullet on the site was a paraphrase.** None
+carried a PubMed ID, DOI or exact title, so none could be checked. 496 were resolved to real
+papers and 755 were deleted. Pages that lost material say so.
+
+**The first safety run was rejected in full by its own audit.** A four-lens judge panel
+accepted 25 records; a meta-judge then re-read three of those acceptances and rejected all
+three, for defects including a dropped instruction to monitor liver enzymes, a source misread
+in the reassuring direction, and a study's adverse findings reported as absent. Nothing was
+published. The second pass repaired the records against rules written from those exact
+defects and audited every one individually; one passed.
+
+That yield is low because the standard is strict and the per-preparation literature for
+Ayurvedic metallic preparations is mostly silent. The remaining records are unfinished, not
+discarded, and they are held in `data/runs/`.
+
+### Safety records
+
+A safety statement cannot reach a page unless it survives both gates:
+
+1. **The judge panel**, which decides whether it is true.
+2. **`validateRecord` in `scripts/lib/safety.mjs`**, which decides whether it is well formed:
+   every source on the allowlist, every `sourceId` resolving, every severity and status in its
+   enum, every statement carrying a `scope` of `preparation-specific` or `class-level`, and a
+   heavy-metal statement present on any metallic or mineral preparation.
+
+`insufficientData` is a valid and often correct state: no source describes this preparation,
+here is the class-level evidence, correctly scoped. Silence is not a valid state. Coverage is
+enforced by a ratchet in `data/safety-baseline.json` rather than a fixed target, so finished
+work cannot regress while unfinished work is still in progress.
+
 ## Deployment
 
 Push to `main`. The workflow audits, builds, link-checks and deploys to GitHub Pages.
@@ -117,7 +180,41 @@ actually resolves, so it cannot break the live site by going early. See
   headings, a citation block, and JSON-LD `Article` + `DefinedTerm` + `BreadcrumbList`.
   `FAQPage` only where a real Q&A block exists.
 - Deliberately not `MedicalWebPage`, `Drug` or `MedicalIndication` schema: those invite a
-  regulatory reading of educational text and buy nothing in citation terms.
+  regulatory reading of educational text, and there is now measured evidence they buy nothing.
+  Ahrefs tracked 1,885 pages that added JSON-LD against matched controls, difference-in-
+  differences: AI Overviews **-4.6%** (significant), AI Mode +2.4% and ChatGPT +2.2% (both
+  indistinguishable from zero). `Dataset` stays because Google Dataset Search is a real
+  product that is not an AI engine. **Do not add more schema expecting citations.**
+- Each `.md` twin names its canonical HTML URL in the body. Serving both creates a
+  near-duplicate pair per page, and a retrieval index that clusters near-duplicates picks one
+  representative without asking which. A `Link: rel="canonical"` header would be the correct
+  mechanism; GitHub Pages serves these as static files and drops build-time headers, so the
+  in-body declaration is what is actually available.
+- Three downloadable datasets under CC BY 4.0, each generated from the monographs so it cannot
+  drift: `/research.json`, `/dravyaguna.json`, `/verification.json` (plus CSV for the first two).
+
+### What the evidence actually says about on-page work
+
+Worth stating plainly, because most GEO advice is folklore and this repo has been built
+against measurements rather than conventions.
+
+- **Formatting has no measured effect.** The best-designed study available (SIGIR '26,
+  252,000 trials, 18 factors, 6 models, logistic mixed-effects) found structured-versus-dense
+  content non-significant. Question-form headings and 40-60 word answer blocks are conventions
+  with no controlled evidence behind them. They stay because they help human readers.
+- **Over-optimising can remove you from retrieval.** C-SEO Bench (NeurIPS 2025, peer reviewed)
+  found most conversational-SEO methods hurt document ranking, and body-only optimisation cut
+  top-20 presence by 9% in one arena. You can win the fight you are no longer in.
+- **What did move, strongly:** being on-topic and being positioned well in the retrieved
+  context, then claims backed by evidence, depth of coverage, concrete specifications,
+  confident rather than hedged phrasing, and internal consistency.
+- **Off-site mentions correlate far more than anything on the page:** 0.664 for brand web
+  mentions against 0.218 for referring domains across 75,000 brands. No amount of page-building
+  buys those directly.
+
+The practical conclusion, and the reason this repo spends its effort on verification rather
+than on markup: make the content correct, specific and checkable, and stop expecting structural
+tricks to produce citations.
 
 ## Which index feeds which assistant
 

@@ -1,0 +1,86 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import dg from '../../data/dravyaguna.json';
+import { SITE_NAME, abs, rel } from '../../lib/site';
+
+const FIELD_LABEL: Record<string, string> = {
+  rasa: 'taste (rasa)',
+  virya: 'potency (virya)',
+  vipaka: 'post-digestive effect (vipaka)',
+  guna: 'quality (guna)',
+};
+
+export function getStaticPaths() {
+  const { summary, entries, english } = dg as any;
+  const out: any[] = [];
+  const build = (field: string, tally: Record<string, number>) => {
+    for (const value of Object.keys(tally)) {
+      const matches = entries.filter((e: any) =>
+        Array.isArray(e[field]) ? e[field].includes(value) : e[field] === value);
+      out.push({
+        params: { facet: `${field}-${value.toLowerCase()}` },
+        props: { field, value, matches, gloss: (english as Record<string, string>)[value] ?? '' },
+      });
+    }
+  };
+  build('rasa', summary.byRasa);
+  build('virya', summary.byVirya);
+  build('vipaka', summary.byVipaka);
+  build('guna', summary.byGuna);
+  return out;
+}
+
+const { field, value, matches, gloss } = Astro.props as any;
+const label = FIELD_LABEL[field] ?? field;
+const canonical = `/dravyaguna/${field}-${value.toLowerCase()}/`;
+
+const description = `${matches.length} Ayurvedic dravyas and formulations whose ${label} is `
+  + `${value}${gloss ? ` (${gloss})` : ''}, with their full classical pharmacology.`;
+
+const jsonld = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Nighantu', item: abs('/') },
+      { '@type': 'ListItem', position: 2, name: 'Dravyaguna', item: abs('/dravyaguna/') },
+      { '@type': 'ListItem', position: 3, name: `${value} ${field}`, item: abs(canonical) },
+    ],
+  },
+];
+---
+<Base title={`${value} ${field} · Dravyaguna · ${SITE_NAME}`} description={description} canonical={canonical} jsonld={jsonld} wide>
+  <Crumbs trail={[{ label: 'Dravyaguna', href: '/dravyaguna/' }, { label: `${value} ${field}` }]} />
+  <h1>{value} {field}</h1>
+
+  <p class="answer">
+    {matches.length} entries in this reference state a {label} of <strong>{value}</strong>
+    {gloss && <> ({gloss})</>}. Each is listed below with the rest of its classical pharmacology,
+    so the combinations are visible rather than just the single shared property.
+  </p>
+
+  <div class="tablewrap">
+    <table>
+      <thead>
+        <tr><th>Entry</th><th>Rasa</th><th>Virya</th><th>Vipaka</th><th>Guna</th></tr>
+      </thead>
+      <tbody>
+        {matches.map((e: any) => (
+          <tr>
+            <td><a href={rel(`/${e.kind}/${e.slug}/`)}>{e.title}</a>{e.botanical && <> <em class="bot">{e.botanical}</em></>}</td>
+            <td>{e.rasa.join(', ')}</td>
+            <td>{e.virya}</td>
+            <td>{e.vipaka.join(', ')}</td>
+            <td>{e.guna.join(', ')}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+
+  <p class="meta">
+    <a href={rel('/dravyaguna/')}>All Dravyaguna properties</a> ·
+    <a href={rel('/dravyaguna.csv')}>Download the full dataset</a>
+  </p>
+</Base>

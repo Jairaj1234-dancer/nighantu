@@ -3,8 +3,9 @@
 Everything here is free. Items 1 to 3 need your login or your registrar and cannot be done for
 you. Item 4 onward is work I can do once you say go.
 
-Current state: the Nighantu is live at https://jairaj1234-dancer.github.io/nighantu/ with 778
-pages. A root `robots.txt` and `llms.txt` now exist at
+Current state: the Nighantu is live at https://jairaj1234-dancer.github.io/nighantu/ with 806
+pages, including a published verification ledger at `/verification/` and a structured
+Dravyaguna dataset at `/dravyaguna/`. A root `robots.txt` and `llms.txt` now exist at
 https://jairaj1234-dancer.github.io/ so the sitemap is discoverable. Nothing on the web links
 to the site yet, and it is not registered with any search engine.
 
@@ -157,6 +158,69 @@ ANTHROPIC_API_KEY=sk-... node scripts/geo-audit.mjs
 ```
 
 Without a key, `node scripts/geo-audit.mjs --list` prints the panel to run by hand.
+
+---
+
+## 5. The safety layer, which is the largest unfinished thing
+
+**Where it stands: 1 of 504 herb pages carries a published safety record.** That is not a
+stalled pipeline; it is what a strict standard produces against a literature that is mostly
+silent at the level of the individual preparation. The full account is at `/verification/`
+and the run records are in `data/runs/`.
+
+In priority order:
+
+1. **Finish the 24 held records.** Each has an auditor's line-by-line objections in
+   `data/runs/feedback/`, and most objections are single, precisely-identified and mechanically
+   fixable: a quote truncated before its caveat, a denominator that should read "of samples
+   containing lead" rather than "of samples", an invented methodological detail. Several
+   auditors said explicitly that the safety substance passed and only one claim was wrong.
+2. **The remaining 59 priority pages.** The first run examined 83; the 9 marked inconclusive
+   never got a full panel, and the rest were rejected on the merits and need re-researching
+   rather than repairing.
+3. **The other 421 herb pages**, in the risk order `scripts/safety-worklist.mjs` already
+   computes.
+4. **Formulations and devices have no safety path at all.** 143 and 37 pages respectively.
+   The worklist only walks `content/herb/`.
+5. **A scheduled refresh.** There is no `safety-refresh.yml`. Safety sources change: LiverTox
+   adds entries, the FDA issues warnings. A quarterly re-check of published records against
+   their sources would catch a record that has gone stale, and nothing currently does that.
+
+**Budget warning, from experience.** Each full pass costs roughly 3 to 4 million subagent
+tokens and about an hour of wall clock, and session limits interrupted every run so far. The
+work resumes cleanly from cache, but plan for several sittings rather than one.
+
+## 6. Depth work that is ready but not started
+
+All of this is data already in hand, verified as present, and not yet published. Sizes are
+measured, not estimated.
+
+| Asset | Size | State |
+|---|---|---|
+| Formulation ingredients with proportions and roles | 1,017 rows | In the companion DB. The site has no structured ingredient data anywhere. |
+| Compound co-occurrence graph | 710 nodes, weighted edges | In the vault at `_Hub/Compounds/`, currently flattened into glossary rows. Publishable close to as-is. |
+| Panchakarma procedures | 73 rows, 72 new | `practitioner_level` already separates vaidya-only from spa-safe, which gives a clean publish/withhold split. Natural sibling to the Shirodhara guide. |
+| Disease entities with ICD-11 TM2 codes | 140 rows | The most linkable axis available, because ICD-11 TM2 is a real external identifier system. Every row is `llm-only` provenance, so it needs the same panel treatment as safety. |
+| 99 unpublished Dravyaguna tables | 99 pages | Lost to word-count thresholds rather than policy. Lowering `THRESHOLDS.herb` recovers them. |
+
+**Not doing, and why:** the 20,734-verse Sanskrit corpus (English column empty on every row,
+and CC BY-SA 3.0 share-alike collides with the site's CC BY 4.0); the 103 machine-readable
+diagnostic patterns (clinical decision rules on `llm-only` provenance); the Hindi product
+monographs (SKU-branded, and Hindi is low-resource enough that queries get pivoted to English
+anyway).
+
+## 7. Two data-quality items found and not yet fixed
+
+- **202 herb pages still have no botanical name.** The verification run resolved what it could
+  and correctly refused the rest; many are contested identities where picking a side would
+  manufacture certainty the sources do not have. Worth a second pass with better sources, not
+  worth guessing.
+- **Some herb photographs are of the wrong plant.** `image-credits.csv` in the Ayurmahotsav
+  folder marks `herb_Ashwagandha.jpg` as verified and describes it as ginger root, and
+  `herb_Haritaki.jpg` as sun-dried bananas. Roughly 20 to 25 of the 51 images are genuinely
+  the right plant and correctly credited. Do not bulk-import: on a site whose whole claim is
+  verified botanical identity, a mislabelled photograph is the exact failure it exists to
+  prevent.
 
 ---
 
