@@ -182,9 +182,11 @@ In priority order:
    computes.
 4. **Formulations and devices have no safety path at all.** 143 and 37 pages respectively.
    The worklist only walks `content/herb/`.
-5. **A scheduled refresh.** There is no `safety-refresh.yml`. Safety sources change: LiverTox
-   adds entries, the FDA issues warnings. A quarterly re-check of published records against
-   their sources would catch a record that has gone stale, and nothing currently does that.
+5. ~~A scheduled refresh.~~ **Done.** `.github/workflows/safety-refresh.yml` runs quarterly
+   and re-checks every published record against the sources it cites: still reachable, still
+   resolving to an allowlisted host after redirects, and still saying what it said last time.
+   It files an issue rather than failing, because a revised LiverTox entry is exactly the case
+   a person should read. It does not re-judge claims; that still needs the agent panel.
 
 **Budget warning, from experience.** Each full pass costs roughly 3 to 4 million subagent
 tokens and about an hour of wall clock, and session limits interrupted every run so far. The
@@ -201,7 +203,8 @@ measured, not estimated.
 | Compound co-occurrence graph | 710 nodes, weighted edges | In the vault at `_Hub/Compounds/`, currently flattened into glossary rows. Publishable close to as-is. |
 | Panchakarma procedures | 73 rows, 72 new | `practitioner_level` already separates vaidya-only from spa-safe, which gives a clean publish/withhold split. Natural sibling to the Shirodhara guide. |
 | Disease entities with ICD-11 TM2 codes | 140 rows | The most linkable axis available, because ICD-11 TM2 is a real external identifier system. Every row is `llm-only` provenance, so it needs the same panel treatment as safety. |
-| 99 unpublished Dravyaguna tables | 99 pages | Lost to word-count thresholds rather than policy. Lowering `THRESHOLDS.herb` recovers them. |
+| 99 unpublished Dravyaguna tables | 99 pages | Lost to word-count thresholds rather than policy. Lowering `THRESHOLDS.herb` recovers them, but publishes 99 thin pages to do it; better to extract their pharmacology into the dataset without giving each a URL. |
+| Compound co-occurrence graph | ~~710 nodes~~ | **Done.** Recomputed from the published corpus at `/compounds/`: 852 constituents, 22,176 co-occurring pairs, every weight checkable against the pages it counts. |
 
 **Not doing, and why:** the 20,734-verse Sanskrit corpus (English column empty on every row,
 and CC BY-SA 3.0 share-alike collides with the site's CC BY 4.0); the 103 machine-readable
