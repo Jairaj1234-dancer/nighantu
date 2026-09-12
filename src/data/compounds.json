@@ -1,19 +1,19 @@
 {
- "updatedAt": "2026-09-11",
+ "updatedAt": "2026-09-12",
  "summary": {
-  "compounds": 852,
-  "linkable": 169,
+  "compounds": 839,
+  "linkable": 170,
   "pagesScanned": 125,
-  "edges": 22176,
-  "maxSources": 33,
+  "edges": 22069,
+  "maxSources": 39,
   "topCompounds": [
+   {
+    "name": "Sitosterol",
+    "sources": 39
+   },
    {
     "name": "Quercetin",
     "sources": 33
-   },
-   {
-    "name": "Sitosterol",
-    "sources": 32
    },
    {
     "name": "Flavonoids",
@@ -34,10 +34,6 @@
    {
     "name": "Tannins",
     "sources": 15
-   },
-   {
-    "name": "Beta-",
-    "sources": 13
    },
    {
     "name": "Gallic acid",
@@ -66,10 +62,374 @@
    {
     "name": "Cineole",
     "sources": 8
+   },
+   {
+    "name": "Ellagic acid",
+    "sources": 8
    }
   ]
  },
  "compounds": [
+  {
+   "key": "sitosterol",
+   "name": "Sitosterol",
+   "slug": "sitosterol",
+   "sources": [
+    {
+     "kind": "herb",
+     "slug": "ankola",
+     "title": "Ankola"
+    },
+    {
+     "kind": "herb",
+     "slug": "apamarga",
+     "title": "Apamarga"
+    },
+    {
+     "kind": "herb",
+     "slug": "ashwattha",
+     "title": "Ashwattha"
+    },
+    {
+     "kind": "herb",
+     "slug": "brihati",
+     "title": "Brihati"
+    },
+    {
+     "kind": "herb",
+     "slug": "chakragaja",
+     "title": "Chakragaja"
+    },
+    {
+     "kind": "herb",
+     "slug": "chitrak",
+     "title": "Chitrak"
+    },
+    {
+     "kind": "formulation",
+     "slug": "coconut-oil-narikela-taila",
+     "title": "Coconut Oil Narikela Taila"
+    },
+    {
+     "kind": "herb",
+     "slug": "eranda",
+     "title": "Eranda"
+    },
+    {
+     "kind": "herb",
+     "slug": "ingudi",
+     "title": "Ingudi"
+    },
+    {
+     "kind": "herb",
+     "slug": "kadamba",
+     "title": "Kadamba"
+    },
+    {
+     "kind": "herb",
+     "slug": "kampillaka",
+     "title": "Kampillaka"
+    },
+    {
+     "kind": "herb",
+     "slug": "kanchanar",
+     "title": "Kanchanar"
+    },
+    {
+     "kind": "herb",
+     "slug": "karanja",
+     "title": "Karanja"
+    },
+    {
+     "kind": "herb",
+     "slug": "kovidara",
+     "title": "Kovidara"
+    },
+    {
+     "kind": "herb",
+     "slug": "kshavaka",
+     "title": "Kshavaka"
+    },
+    {
+     "kind": "herb",
+     "slug": "mahabala",
+     "title": "Mahabala"
+    },
+    {
+     "kind": "herb",
+     "slug": "murva",
+     "title": "Murva"
+    },
+    {
+     "kind": "herb",
+     "slug": "nili",
+     "title": "Nili"
+    },
+    {
+     "kind": "herb",
+     "slug": "nyagrodha",
+     "title": "Nyagrodha"
+    },
+    {
+     "kind": "herb",
+     "slug": "padmaka",
+     "title": "Padmaka"
+    },
+    {
+     "kind": "herb",
+     "slug": "plaksha",
+     "title": "Plaksha"
+    },
+    {
+     "kind": "herb",
+     "slug": "priyangu",
+     "title": "Priyangu"
+    },
+    {
+     "kind": "herb",
+     "slug": "pushkarmool",
+     "title": "Pushkarmool"
+    },
+    {
+     "kind": "herb",
+     "slug": "rakta-chandana",
+     "title": "Rakta Chandana"
+    },
+    {
+     "kind": "herb",
+     "slug": "rishabhaka",
+     "title": "Rishabhaka"
+    },
+    {
+     "kind": "herb",
+     "slug": "shalparni",
+     "title": "Shalparni"
+    },
+    {
+     "kind": "herb",
+     "slug": "shati",
+     "title": "Shati"
+    },
+    {
+     "kind": "herb",
+     "slug": "shirisha",
+     "title": "Shirisha"
+    },
+    {
+     "kind": "herb",
+     "slug": "surana",
+     "title": "Surana"
+    },
+    {
+     "kind": "herb",
+     "slug": "talisa",
+     "title": "Talisa"
+    },
+    {
+     "kind": "herb",
+     "slug": "trivrit",
+     "title": "Trivrit"
+    },
+    {
+     "kind": "herb",
+     "slug": "yava",
+     "title": "Yava"
+    },
+    {
+     "kind": "herb",
+     "slug": "ashwagandha",
+     "title": "Ashwagandha"
+    },
+    {
+     "kind": "glossary",
+     "slug": "concepts-m-y",
+     "title": "Ayurvedic concepts (M-Y)"
+    },
+    {
+     "kind": "herb",
+     "slug": "bibhitaki",
+     "title": "Bibhitaki"
+    },
+    {
+     "kind": "herb",
+     "slug": "brahmi",
+     "title": "Brahmi"
+    },
+    {
+     "kind": "herb",
+     "slug": "guduchi",
+     "title": "Guduchi"
+    },
+    {
+     "kind": "herb",
+     "slug": "neem",
+     "title": "Neem"
+    },
+    {
+     "kind": "herb",
+     "slug": "shatavari",
+     "title": "Shatavari"
+    }
+   ],
+   "count": 39,
+   "sharedWith": [
+    {
+     "key": "quercetin",
+     "name": "Quercetin",
+     "slug": "quercetin",
+     "weight": 12
+    },
+    {
+     "key": "kaempferol",
+     "name": "Kaempferol",
+     "slug": "kaempferol",
+     "weight": 9
+    },
+    {
+     "key": "flavonoids",
+     "name": "Flavonoids",
+     "slug": "flavonoids",
+     "weight": 7
+    },
+    {
+     "key": "glycosides",
+     "name": "Glycosides",
+     "slug": "glycosides",
+     "weight": 7
+    },
+    {
+     "key": "saponins",
+     "name": "Saponins",
+     "slug": "saponins",
+     "weight": 7
+    },
+    {
+     "key": "stigmasterol",
+     "name": "Stigmasterol",
+     "slug": "stigmasterol",
+     "weight": 7
+    },
+    {
+     "key": "lupeol",
+     "name": "Lupeol",
+     "slug": "lupeol",
+     "weight": 6
+    },
+    {
+     "key": "apigenin",
+     "name": "Apigenin",
+     "slug": "apigenin",
+     "weight": 3
+    },
+    {
+     "key": "bergenin",
+     "name": "Bergenin",
+     "slug": "bergenin",
+     "weight": 3
+    },
+    {
+     "key": "friedelin",
+     "name": "Friedelin",
+     "slug": "friedelin",
+     "weight": 3
+    },
+    {
+     "key": "phytosterols",
+     "name": "Phytosterols",
+     "slug": "phytosterols",
+     "weight": 3
+    },
+    {
+     "key": "tannins",
+     "name": "Tannins",
+     "slug": "tannins",
+     "weight": 3
+    },
+    {
+     "key": "ursolicacid",
+     "name": "Ursolic acid",
+     "slug": "ursolic-acid",
+     "weight": 3
+    },
+    {
+     "key": "alkaloids",
+     "name": "Alkaloids",
+     "slug": "alkaloids",
+     "weight": 2
+    },
+    {
+     "key": "betulin",
+     "name": "Betulin",
+     "slug": "betulin",
+     "weight": 2
+    },
+    {
+     "key": "campesterol",
+     "name": "Campesterol",
+     "slug": "campesterol",
+     "weight": 2
+    },
+    {
+     "key": "diosgenin",
+     "name": "Diosgenin",
+     "slug": "diosgenin",
+     "weight": 2
+    },
+    {
+     "key": "emodin",
+     "name": "Emodin",
+     "slug": "emodin",
+     "weight": 2
+    },
+    {
+     "key": "lanosterol",
+     "name": "Lanosterol",
+     "slug": "lanosterol",
+     "weight": 2
+    },
+    {
+     "key": "limonene",
+     "name": "Limonene",
+     "slug": "limonene",
+     "weight": 2
+    },
+    {
+     "key": "luteolin",
+     "name": "Luteolin",
+     "slug": "luteolin",
+     "weight": 2
+    },
+    {
+     "key": "myricetin",
+     "name": "Myricetin",
+     "slug": "myricetin",
+     "weight": 2
+    },
+    {
+     "key": "rutin",
+     "name": "Rutin",
+     "slug": "rutin",
+     "weight": 2
+    },
+    {
+     "key": "steroids",
+     "name": "Steroids",
+     "slug": "steroids",
+     "weight": 2
+    },
+    {
+     "key": "tocopherols",
+     "name": "Tocopherols",
+     "slug": "tocopherols",
+     "weight": 2
+    }
+   ],
+   "inchikey": "KZJWDPNRJALLNS-VJSFXXLFSA-N",
+   "alsoKnownAs": [
+    "Beta-sitosterol",
+    "Nimbosterol"
+   ]
+  },
   {
    "key": "quercetin",
    "name": "Quercetin",
@@ -391,326 +751,6 @@
      "key": "dantibaliospermummontanummuellarg",
      "name": "[Danti] Baliospermum montanum Muell.-Arg",
      "slug": "danti-baliospermum-montanum-muell-arg",
-     "weight": 2
-    }
-   ]
-  },
-  {
-   "key": "sitosterol",
-   "name": "Sitosterol",
-   "slug": "sitosterol",
-   "sources": [
-    {
-     "kind": "herb",
-     "slug": "ankola",
-     "title": "Ankola"
-    },
-    {
-     "kind": "herb",
-     "slug": "apamarga",
-     "title": "Apamarga"
-    },
-    {
-     "kind": "herb",
-     "slug": "ashwattha",
-     "title": "Ashwattha"
-    },
-    {
-     "kind": "herb",
-     "slug": "brihati",
-     "title": "Brihati"
-    },
-    {
-     "kind": "herb",
-     "slug": "chakragaja",
-     "title": "Chakragaja"
-    },
-    {
-     "kind": "herb",
-     "slug": "chitrak",
-     "title": "Chitrak"
-    },
-    {
-     "kind": "formulation",
-     "slug": "coconut-oil-narikela-taila",
-     "title": "Coconut Oil Narikela Taila"
-    },
-    {
-     "kind": "herb",
-     "slug": "eranda",
-     "title": "Eranda"
-    },
-    {
-     "kind": "herb",
-     "slug": "ingudi",
-     "title": "Ingudi"
-    },
-    {
-     "kind": "herb",
-     "slug": "kadamba",
-     "title": "Kadamba"
-    },
-    {
-     "kind": "herb",
-     "slug": "kampillaka",
-     "title": "Kampillaka"
-    },
-    {
-     "kind": "herb",
-     "slug": "kanchanar",
-     "title": "Kanchanar"
-    },
-    {
-     "kind": "herb",
-     "slug": "karanja",
-     "title": "Karanja"
-    },
-    {
-     "kind": "herb",
-     "slug": "kovidara",
-     "title": "Kovidara"
-    },
-    {
-     "kind": "herb",
-     "slug": "kshavaka",
-     "title": "Kshavaka"
-    },
-    {
-     "kind": "herb",
-     "slug": "mahabala",
-     "title": "Mahabala"
-    },
-    {
-     "kind": "herb",
-     "slug": "murva",
-     "title": "Murva"
-    },
-    {
-     "kind": "herb",
-     "slug": "nili",
-     "title": "Nili"
-    },
-    {
-     "kind": "herb",
-     "slug": "nyagrodha",
-     "title": "Nyagrodha"
-    },
-    {
-     "kind": "herb",
-     "slug": "padmaka",
-     "title": "Padmaka"
-    },
-    {
-     "kind": "herb",
-     "slug": "plaksha",
-     "title": "Plaksha"
-    },
-    {
-     "kind": "herb",
-     "slug": "priyangu",
-     "title": "Priyangu"
-    },
-    {
-     "kind": "herb",
-     "slug": "pushkarmool",
-     "title": "Pushkarmool"
-    },
-    {
-     "kind": "herb",
-     "slug": "rakta-chandana",
-     "title": "Rakta Chandana"
-    },
-    {
-     "kind": "herb",
-     "slug": "rishabhaka",
-     "title": "Rishabhaka"
-    },
-    {
-     "kind": "herb",
-     "slug": "shalparni",
-     "title": "Shalparni"
-    },
-    {
-     "kind": "herb",
-     "slug": "shati",
-     "title": "Shati"
-    },
-    {
-     "kind": "herb",
-     "slug": "shirisha",
-     "title": "Shirisha"
-    },
-    {
-     "kind": "herb",
-     "slug": "surana",
-     "title": "Surana"
-    },
-    {
-     "kind": "herb",
-     "slug": "talisa",
-     "title": "Talisa"
-    },
-    {
-     "kind": "herb",
-     "slug": "trivrit",
-     "title": "Trivrit"
-    },
-    {
-     "kind": "herb",
-     "slug": "yava",
-     "title": "Yava"
-    }
-   ],
-   "count": 32,
-   "sharedWith": [
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 13
-    },
-    {
-     "key": "quercetin",
-     "name": "Quercetin",
-     "slug": "quercetin",
-     "weight": 12
-    },
-    {
-     "key": "kaempferol",
-     "name": "Kaempferol",
-     "slug": "kaempferol",
-     "weight": 9
-    },
-    {
-     "key": "flavonoids",
-     "name": "Flavonoids",
-     "slug": "flavonoids",
-     "weight": 7
-    },
-    {
-     "key": "glycosides",
-     "name": "Glycosides",
-     "slug": "glycosides",
-     "weight": 7
-    },
-    {
-     "key": "saponins",
-     "name": "Saponins",
-     "slug": "saponins",
-     "weight": 7
-    },
-    {
-     "key": "stigmasterol",
-     "name": "Stigmasterol",
-     "slug": "stigmasterol",
-     "weight": 7
-    },
-    {
-     "key": "lupeol",
-     "name": "Lupeol",
-     "slug": "lupeol",
-     "weight": 6
-    },
-    {
-     "key": "apigenin",
-     "name": "Apigenin",
-     "slug": "apigenin",
-     "weight": 3
-    },
-    {
-     "key": "bergenin",
-     "name": "Bergenin",
-     "slug": "bergenin",
-     "weight": 3
-    },
-    {
-     "key": "friedelin",
-     "name": "Friedelin",
-     "slug": "friedelin",
-     "weight": 3
-    },
-    {
-     "key": "phytosterols",
-     "name": "Phytosterols",
-     "slug": "phytosterols",
-     "weight": 3
-    },
-    {
-     "key": "tannins",
-     "name": "Tannins",
-     "slug": "tannins",
-     "weight": 3
-    },
-    {
-     "key": "ursolicacid",
-     "name": "Ursolic acid",
-     "slug": "ursolic-acid",
-     "weight": 3
-    },
-    {
-     "key": "alkaloids",
-     "name": "Alkaloids",
-     "slug": "alkaloids",
-     "weight": 2
-    },
-    {
-     "key": "betulin",
-     "name": "Betulin",
-     "slug": "betulin",
-     "weight": 2
-    },
-    {
-     "key": "campesterol",
-     "name": "Campesterol",
-     "slug": "campesterol",
-     "weight": 2
-    },
-    {
-     "key": "diosgenin",
-     "name": "Diosgenin",
-     "slug": "diosgenin",
-     "weight": 2
-    },
-    {
-     "key": "emodin",
-     "name": "Emodin",
-     "slug": "emodin",
-     "weight": 2
-    },
-    {
-     "key": "lanosterol",
-     "name": "Lanosterol",
-     "slug": "lanosterol",
-     "weight": 2
-    },
-    {
-     "key": "limonene",
-     "name": "Limonene",
-     "slug": "limonene",
-     "weight": 2
-    },
-    {
-     "key": "luteolin",
-     "name": "Luteolin",
-     "slug": "luteolin",
-     "weight": 2
-    },
-    {
-     "key": "myricetin",
-     "name": "Myricetin",
-     "slug": "myricetin",
-     "weight": 2
-    },
-    {
-     "key": "rutin",
-     "name": "Rutin",
-     "slug": "rutin",
-     "weight": 2
-    },
-    {
-     "key": "steroids",
-     "name": "Steroids",
-     "slug": "steroids",
      "weight": 2
     }
    ]
@@ -1411,12 +1451,6 @@
      "weight": 3
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 2
-    },
-    {
      "key": "lupeol",
      "name": "Lupeol",
      "slug": "lupeol",
@@ -1516,6 +1550,12 @@
      "key": "chlorogenicacid",
      "name": "Chlorogenic acid",
      "slug": "chlorogenic-acid",
+     "weight": 1
+    },
+    {
+     "key": "citricacid",
+     "name": "Citric Acid",
+     "slug": "citric-acid",
      "weight": 1
     }
    ]
@@ -1652,12 +1692,6 @@
      "weight": 2
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 2
-    },
-    {
      "key": "chrysophanol",
      "name": "Chrysophanol",
      "slug": "chrysophanol",
@@ -1751,6 +1785,12 @@
      "key": "catechin",
      "name": "Catechin",
      "slug": "catechin",
+     "weight": 1
+    },
+    {
+     "key": "chlorogenicacid",
+     "name": "Chlorogenic acid",
+     "slug": "chlorogenic-acid",
      "weight": 1
     }
    ]
@@ -1986,231 +2026,6 @@
      "key": "christembine",
      "name": "Christembine",
      "slug": "christembine",
-     "weight": 1
-    }
-   ]
-  },
-  {
-   "key": "beta",
-   "name": "Beta-",
-   "slug": "beta",
-   "sources": [
-    {
-     "kind": "herb",
-     "slug": "ankola",
-     "title": "Ankola"
-    },
-    {
-     "kind": "herb",
-     "slug": "apamarga",
-     "title": "Apamarga"
-    },
-    {
-     "kind": "herb",
-     "slug": "chakragaja",
-     "title": "Chakragaja"
-    },
-    {
-     "kind": "herb",
-     "slug": "chitrak",
-     "title": "Chitrak"
-    },
-    {
-     "kind": "herb",
-     "slug": "kadamba",
-     "title": "Kadamba"
-    },
-    {
-     "kind": "herb",
-     "slug": "kampillaka",
-     "title": "Kampillaka"
-    },
-    {
-     "kind": "herb",
-     "slug": "karanja",
-     "title": "Karanja"
-    },
-    {
-     "kind": "herb",
-     "slug": "murva",
-     "title": "Murva"
-    },
-    {
-     "kind": "herb",
-     "slug": "plaksha",
-     "title": "Plaksha"
-    },
-    {
-     "kind": "herb",
-     "slug": "priyangu",
-     "title": "Priyangu"
-    },
-    {
-     "kind": "herb",
-     "slug": "pushkarmool",
-     "title": "Pushkarmool"
-    },
-    {
-     "kind": "herb",
-     "slug": "rishabhaka",
-     "title": "Rishabhaka"
-    },
-    {
-     "kind": "herb",
-     "slug": "trivrit",
-     "title": "Trivrit"
-    }
-   ],
-   "count": 13,
-   "sharedWith": [
-    {
-     "key": "sitosterol",
-     "name": "Sitosterol",
-     "slug": "sitosterol",
-     "weight": 13
-    },
-    {
-     "key": "bergenin",
-     "name": "Bergenin",
-     "slug": "bergenin",
-     "weight": 2
-    },
-    {
-     "key": "emodin",
-     "name": "Emodin",
-     "slug": "emodin",
-     "weight": 2
-    },
-    {
-     "key": "glycosides",
-     "name": "Glycosides",
-     "slug": "glycosides",
-     "weight": 2
-    },
-    {
-     "key": "lupeol",
-     "name": "Lupeol",
-     "slug": "lupeol",
-     "weight": 2
-    },
-    {
-     "key": "quercetin",
-     "name": "Quercetin",
-     "slug": "quercetin",
-     "weight": 2
-    },
-    {
-     "key": "saponins",
-     "name": "Saponins",
-     "slug": "saponins",
-     "weight": 2
-    },
-    {
-     "key": "ursolicacid",
-     "name": "Ursolic acid",
-     "slug": "ursolic-acid",
-     "weight": 2
-    },
-    {
-     "key": "16alphahydroxyprotobassicacid",
-     "name": "16-alpha-hydroxyprotobassic acid",
-     "slug": "16-alpha-hydroxyprotobassic-acid",
-     "weight": 1
-    },
-    {
-     "key": "3alphadihydrocadambine",
-     "name": "3-alpha-Dihydrocadambine",
-     "slug": "3-alpha-dihydrocadambine",
-     "weight": 1
-    },
-    {
-     "key": "achyranthine",
-     "name": "Achyranthine",
-     "slug": "achyranthine",
-     "weight": 1
-    },
-    {
-     "key": "alangicine",
-     "name": "Alangicine",
-     "slug": "alangicine",
-     "weight": 1
-    },
-    {
-     "key": "alangimarine",
-     "name": "Alangimarine",
-     "slug": "alangimarine",
-     "weight": 1
-    },
-    {
-     "key": "alangine",
-     "name": "Alangine",
-     "slug": "alangine",
-     "weight": 1
-    },
-    {
-     "key": "alantolactone",
-     "name": "Alantolactone",
-     "slug": "alantolactone",
-     "weight": 1
-    },
-    {
-     "key": "alphaamyrin",
-     "name": "Alpha-amyrin",
-     "slug": "alpha-amyrin",
-     "weight": 1
-    },
-    {
-     "key": "alphaamyrinandbetaamyrin",
-     "name": "Alpha-amyrin and beta-amyrin",
-     "slug": "alpha-amyrin-and-beta-amyrin",
-     "weight": 1
-    },
-    {
-     "key": "alphaturpethein",
-     "name": "Alpha-turpethein",
-     "slug": "alpha-turpethein",
-     "weight": 1
-    },
-    {
-     "key": "ankorine",
-     "name": "Ankorine",
-     "slug": "ankorine",
-     "weight": 1
-    },
-    {
-     "key": "apigenin",
-     "name": "Apigenin",
-     "slug": "apigenin",
-     "weight": 1
-    },
-    {
-     "key": "aurantioobtusin",
-     "name": "Aurantio-obtusin",
-     "slug": "aurantio-obtusin",
-     "weight": 1
-    },
-    {
-     "key": "betaamyrin",
-     "name": "Beta-amyrin",
-     "slug": "beta-amyrin",
-     "weight": 1
-    },
-    {
-     "key": "betaturpethein",
-     "name": "Beta-turpethein",
-     "slug": "beta-turpethein",
-     "weight": 1
-    },
-    {
-     "key": "betaine",
-     "name": "Betaine",
-     "slug": "betaine",
-     "weight": 1
-    },
-    {
-     "key": "betulin",
-     "name": "Betulin",
-     "slug": "betulin",
      "weight": 1
     }
    ]
@@ -2732,12 +2547,6 @@
      "weight": 3
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 2
-    },
-    {
      "key": "betulin",
      "name": "Betulin",
      "slug": "betulin",
@@ -2861,6 +2670,12 @@
      "key": "coumarin",
      "name": "Coumarin",
      "slug": "coumarin",
+     "weight": 1
+    },
+    {
+     "key": "ellagicacid",
+     "name": "Ellagic acid",
+     "slug": "ellagic-acid",
      "weight": 1
     }
    ]
@@ -4003,12 +3818,6 @@
      "weight": 1
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "betacaryophyllene",
      "name": "Beta-caryophyllene",
      "slug": "beta-caryophyllene",
@@ -4066,6 +3875,12 @@
      "key": "chebulagicacid",
      "name": "Chebulagic acid",
      "slug": "chebulagic-acid",
+     "weight": 1
+    },
+    {
+     "key": "chebulicacid",
+     "name": "Chebulic acid",
+     "slug": "chebulic-acid",
      "weight": 1
     }
    ]
@@ -4146,12 +3961,6 @@
      "key": "apigenin",
      "name": "Apigenin",
      "slug": "apigenin",
-     "weight": 2
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
      "weight": 2
     },
     {
@@ -4267,6 +4076,12 @@
      "name": "[Danti] Baliospermum montanum Muell.-Arg",
      "slug": "danti-baliospermum-montanum-muell-arg",
      "weight": 1
+    },
+    {
+     "key": "dashmooldashmoolarishta",
+     "name": "[Dashmool Dashmoolarishta]",
+     "slug": "dashmool-dashmoolarishta",
+     "weight": 1
     }
    ]
   },
@@ -4368,12 +4183,6 @@
      "weight": 1
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "betacaryophyllene",
      "name": "Beta-caryophyllene",
      "slug": "beta-caryophyllene",
@@ -4462,200 +4271,11 @@
      "name": "Ellagic acid",
      "slug": "ellagic-acid",
      "weight": 1
-    }
-   ]
-  },
-  {
-   "key": "betasitosterol",
-   "name": "Beta-sitosterol",
-   "slug": "beta-sitosterol",
-   "sources": [
-    {
-     "kind": "herb",
-     "slug": "ashwagandha",
-     "title": "Ashwagandha"
     },
     {
-     "kind": "glossary",
-     "slug": "concepts-m-y",
-     "title": "Ayurvedic concepts (M-Y)"
-    },
-    {
-     "kind": "herb",
-     "slug": "bibhitaki",
-     "title": "Bibhitaki"
-    },
-    {
-     "kind": "herb",
-     "slug": "brahmi",
-     "title": "Brahmi"
-    },
-    {
-     "kind": "herb",
-     "slug": "guduchi",
-     "title": "Guduchi"
-    },
-    {
-     "kind": "herb",
-     "slug": "neem",
-     "title": "Neem"
-    },
-    {
-     "kind": "herb",
-     "slug": "shatavari",
-     "title": "Shatavari"
-    }
-   ],
-   "count": 7,
-   "sharedWith": [
-    {
-     "key": "stigmasterol",
-     "name": "Stigmasterol",
-     "slug": "stigmasterol",
-     "weight": 4
-    },
-    {
-     "key": "gallicacid",
-     "name": "Gallic acid",
-     "slug": "gallic-acid",
-     "weight": 3
-    },
-    {
-     "key": "arabinogalactan",
-     "name": "Arabinogalactan",
-     "slug": "arabinogalactan",
-     "weight": 2
-    },
-    {
-     "key": "campesterol",
-     "name": "Campesterol",
-     "slug": "campesterol",
-     "weight": 2
-    },
-    {
-     "key": "condensedtannins",
-     "name": "Condensed tannins",
-     "slug": "condensed-tannins",
-     "weight": 2
-    },
-    {
-     "key": "kaempferol",
-     "name": "Kaempferol",
-     "slug": "kaempferol",
-     "weight": 2
-    },
-    {
-     "key": "myricetin",
-     "name": "Myricetin",
-     "slug": "myricetin",
-     "weight": 2
-    },
-    {
-     "key": "oleicacid",
-     "name": "Oleic acid",
-     "slug": "oleic-acid",
-     "weight": 2
-    },
-    {
-     "key": "palmiticacid",
-     "name": "Palmitic acid",
-     "slug": "palmitic-acid",
-     "weight": 2
-    },
-    {
-     "key": "quercetin",
-     "name": "Quercetin",
-     "slug": "quercetin",
-     "weight": 2
-    },
-    {
-     "key": "rutin",
-     "name": "Rutin",
-     "slug": "rutin",
-     "weight": 2
-    },
-    {
-     "key": "aivanasalviaofficinalisl",
-     "name": "[Aivana] Salvia officinalis L",
-     "slug": "aivana-salvia-officinalis-l",
-     "weight": 1
-    },
-    {
-     "key": "ajwaintrachyspermumammi",
-     "name": "[Ajwain] Trachyspermum ammi",
-     "slug": "ajwain-trachyspermum-ammi",
-     "weight": 1
-    },
-    {
-     "key": "akikapishti",
-     "name": "[Akika Pishti]",
-     "slug": "akika-pishti",
-     "weight": 1
-    },
-    {
-     "key": "ambasthakicissampelospareiral",
-     "name": "[Ambasthaki] Cissampelos pareira L",
-     "slug": "ambasthaki-cissampelos-pareira-l",
-     "weight": 1
-    },
-    {
-     "key": "amlaparnioxaliscorniculatal",
-     "name": "[Amlaparni] Oxalis corniculata L",
-     "slug": "amlaparni-oxalis-corniculata-l",
-     "weight": 1
-    },
-    {
-     "key": "aragwadhacassiafistulal",
-     "name": "[Aragwadha] Cassia fistula L",
-     "slug": "aragwadha-cassia-fistula-l",
-     "weight": 1
-    },
-    {
-     "key": "ashoka",
-     "name": "[Ashoka]",
-     "slug": "ashoka",
-     "weight": 1
-    },
-    {
-     "key": "ashwagandhacombinations",
-     "name": "[Ashwagandha] combinations)",
-     "slug": "ashwagandha-combinations",
-     "weight": 1
-    },
-    {
-     "key": "bijapuracitrusmedical",
-     "name": "[Bijapura] Citrus medica L",
-     "slug": "bijapura-citrus-medica-l",
-     "weight": 1
-    },
-    {
-     "key": "chandrashuralepidiumsativuml",
-     "name": "[Chandrashura] Lepidium sativum L",
-     "slug": "chandrashura-lepidium-sativum-l",
-     "weight": 1
-    },
-    {
-     "key": "coconutoilnarikelataila",
-     "name": "[Coconut Oil Narikela Taila]",
-     "slug": "coconut-oil-narikela-taila",
-     "weight": 1
-    },
-    {
-     "key": "coconutoil",
-     "name": "[Coconut Oil]",
-     "slug": "coconut-oil",
-     "weight": 1
-    },
-    {
-     "key": "corianderherb",
-     "name": "[Coriander Herb]",
-     "slug": "coriander-herb",
-     "weight": 1
-    },
-    {
-     "key": "coriander",
-     "name": "[Coriander]",
-     "slug": "coriander",
+     "key": "emodin",
+     "name": "Emodin",
+     "slug": "emodin",
      "weight": 1
     }
    ]
@@ -4714,12 +4334,6 @@
      "name": "Rhein",
      "slug": "rhein",
      "weight": 3
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 2
     },
     {
      "key": "catechin",
@@ -4851,6 +4465,12 @@
      "key": "garcinol",
      "name": "Garcinol",
      "slug": "garcinol",
+     "weight": 1
+    },
+    {
+     "key": "garpedunchromonesac",
+     "name": "Garpedunchromones A-C",
+     "slug": "garpedunchromones-a-c",
      "weight": 1
     }
    ]
@@ -7173,12 +6793,6 @@
      "weight": 1
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "catechins",
      "name": "Catechins",
      "slug": "catechins",
@@ -7266,6 +6880,12 @@
      "key": "margosine",
      "name": "Margosine",
      "slug": "margosine",
+     "weight": 1
+    },
+    {
+     "key": "myricetin",
+     "name": "Myricetin",
+     "slug": "myricetin",
      "weight": 1
     }
    ]
@@ -7656,12 +7276,6 @@
      "key": "aurantioobtusin",
      "name": "Aurantio-obtusin",
      "slug": "aurantio-obtusin",
-     "weight": 1
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
      "weight": 1
     },
     {
@@ -8429,6 +8043,190 @@
    ]
   },
   {
+   "key": "procyanidins",
+   "name": "Procyanidins",
+   "slug": "procyanidins",
+   "sources": [
+    {
+     "kind": "glossary",
+     "slug": "concepts-a-m",
+     "title": "Ayurvedic concepts (A-M)"
+    },
+    {
+     "kind": "herb",
+     "slug": "khadira",
+     "title": "Khadira"
+    },
+    {
+     "kind": "herb",
+     "slug": "vanapsa",
+     "title": "Vanapsa"
+    },
+    {
+     "kind": "herb",
+     "slug": "yava",
+     "title": "Yava"
+    }
+   ],
+   "count": 4,
+   "sharedWith": [
+    {
+     "key": "quercetin",
+     "name": "Quercetin",
+     "slug": "quercetin",
+     "weight": 3
+    },
+    {
+     "key": "kaempferol",
+     "name": "Kaempferol",
+     "slug": "kaempferol",
+     "weight": 2
+    },
+    {
+     "key": "tannins",
+     "name": "Tannins",
+     "slug": "tannins",
+     "weight": 2
+    },
+    {
+     "key": "adhakicajanuscajanmillsp",
+     "name": "[Adhaki] Cajanus cajan Millsp",
+     "slug": "adhaki-cajanus-cajan-millsp",
+     "weight": 1
+    },
+    {
+     "key": "ajwaintrachyspermumammi",
+     "name": "[Ajwain] Trachyspermum ammi",
+     "slug": "ajwain-trachyspermum-ammi",
+     "weight": 1
+    },
+    {
+     "key": "akarakarabhaanacycluspyrethrumlag",
+     "name": "[Akarakarabha] Anacyclus pyrethrum Lag",
+     "slug": "akarakarabha-anacyclus-pyrethrum-lag",
+     "weight": 1
+    },
+    {
+     "key": "akshotakajuglansregial",
+     "name": "[Akshotaka] Juglans regia L",
+     "slug": "akshotaka-juglans-regia-l",
+     "weight": 1
+    },
+    {
+     "key": "amlaphyllanthusemblica",
+     "name": "[Amla] Phyllanthus emblica",
+     "slug": "amla-phyllanthus-emblica",
+     "weight": 1
+    },
+    {
+     "key": "amlaparnioxaliscorniculatal",
+     "name": "[Amlaparni] Oxalis corniculata L",
+     "slug": "amlaparni-oxalis-corniculata-l",
+     "weight": 1
+    },
+    {
+     "key": "amramangiferaindical",
+     "name": "[Amra] Mangifera indica L",
+     "slug": "amra-mangifera-indica-l",
+     "weight": 1
+    },
+    {
+     "key": "amritarishta",
+     "name": "[Amritarishta]",
+     "slug": "amritarishta",
+     "weight": 1
+    },
+    {
+     "key": "ankolaalangiumsalviifoliumwangerin",
+     "name": "[Ankola] Alangium salviifolium Wangerin",
+     "slug": "ankola-alangium-salviifolium-wangerin",
+     "weight": 1
+    },
+    {
+     "key": "aparajitaclitoriaternateal",
+     "name": "[Aparajita] Clitoria ternatea L",
+     "slug": "aparajita-clitoria-ternatea-l",
+     "weight": 1
+    },
+    {
+     "key": "aragwadhacassiafistulal",
+     "name": "[Aragwadha] Cassia fistula L",
+     "slug": "aragwadha-cassia-fistula-l",
+     "weight": 1
+    },
+    {
+     "key": "ashwagandhaextract",
+     "name": "[Ashwagandha] extract",
+     "slug": "ashwagandha-extract",
+     "weight": 1
+    },
+    {
+     "key": "atasilinumusitatissimuml",
+     "name": "[Atasi] Linum usitatissimum L",
+     "slug": "atasi-linum-usitatissimum-l",
+     "weight": 1
+    },
+    {
+     "key": "avipattikarchurna",
+     "name": "[Avipattikar] Churna",
+     "slug": "avipattikar-churna",
+     "weight": 1
+    },
+    {
+     "key": "bakuchitaila",
+     "name": "[Bakuchi Taila]",
+     "slug": "bakuchi-taila",
+     "weight": 1
+    },
+    {
+     "key": "bakulamimusopselengil",
+     "name": "[Bakula] Mimusops elengi L",
+     "slug": "bakula-mimusops-elengi-l",
+     "weight": 1
+    },
+    {
+     "key": "balarishta",
+     "name": "[Balarishta]",
+     "slug": "balarishta",
+     "weight": 1
+    },
+    {
+     "key": "bhringarajasvarasa",
+     "name": "[Bhringaraja Svarasa]",
+     "slug": "bhringaraja-svarasa",
+     "weight": 1
+    },
+    {
+     "key": "bhringraj",
+     "name": "[Bhringraj]",
+     "slug": "bhringraj",
+     "weight": 1
+    },
+    {
+     "key": "bijapuracitrusmedical",
+     "name": "[Bijapura] Citrus medica L",
+     "slug": "bijapura-citrus-medica-l",
+     "weight": 1
+    },
+    {
+     "key": "brahmiextract",
+     "name": "[Brahmi] extract",
+     "slug": "brahmi-extract",
+     "weight": 1
+    },
+    {
+     "key": "changerioxaliscorniculatal",
+     "name": "[Changeri] Oxalis corniculata L",
+     "slug": "changeri-oxalis-corniculata-l",
+     "weight": 1
+    }
+   ],
+   "inchikey": "HGVVOUNEGQIPMS-UHFFFAOYSA-N",
+   "alsoKnownAs": [
+    "Proanthocyanidins"
+   ]
+  },
+  {
    "key": "sabinene",
    "name": "Sabinene",
    "slug": "sabinene",
@@ -8932,12 +8730,6 @@
      "weight": 3
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 2
-    },
-    {
      "key": "lanosterol",
      "name": "Lanosterol",
      "slug": "lanosterol",
@@ -9080,12 +8872,6 @@
      "key": "apigenin",
      "name": "Apigenin",
      "slug": "apigenin",
-     "weight": 1
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
      "weight": 1
     },
     {
@@ -10103,12 +9889,6 @@
      "weight": 1
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "betaturpethein",
      "name": "Beta-turpethein",
      "slug": "beta-turpethein",
@@ -10918,12 +10698,6 @@
      "weight": 1
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "catechin",
      "name": "Catechin",
      "slug": "catechin",
@@ -11559,12 +11333,6 @@
      "weight": 1
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "campesterol",
      "name": "Campesterol",
      "slug": "campesterol",
@@ -11664,6 +11432,12 @@
      "key": "nimbidin",
      "name": "Nimbidin",
      "slug": "nimbidin",
+     "weight": 1
+    },
+    {
+     "key": "nimbidine",
+     "name": "Nimbidine",
+     "slug": "nimbidine",
      "weight": 1
     }
    ]
@@ -12116,181 +11890,6 @@
    ]
   },
   {
-   "key": "procyanidins",
-   "name": "Procyanidins",
-   "slug": "procyanidins",
-   "sources": [
-    {
-     "kind": "glossary",
-     "slug": "concepts-a-m",
-     "title": "Ayurvedic concepts (A-M)"
-    },
-    {
-     "kind": "herb",
-     "slug": "khadira",
-     "title": "Khadira"
-    },
-    {
-     "kind": "herb",
-     "slug": "vanapsa",
-     "title": "Vanapsa"
-    }
-   ],
-   "count": 3,
-   "sharedWith": [
-    {
-     "key": "quercetin",
-     "name": "Quercetin",
-     "slug": "quercetin",
-     "weight": 3
-    },
-    {
-     "key": "kaempferol",
-     "name": "Kaempferol",
-     "slug": "kaempferol",
-     "weight": 2
-    },
-    {
-     "key": "tannins",
-     "name": "Tannins",
-     "slug": "tannins",
-     "weight": 2
-    },
-    {
-     "key": "adhakicajanuscajanmillsp",
-     "name": "[Adhaki] Cajanus cajan Millsp",
-     "slug": "adhaki-cajanus-cajan-millsp",
-     "weight": 1
-    },
-    {
-     "key": "ajwaintrachyspermumammi",
-     "name": "[Ajwain] Trachyspermum ammi",
-     "slug": "ajwain-trachyspermum-ammi",
-     "weight": 1
-    },
-    {
-     "key": "akarakarabhaanacycluspyrethrumlag",
-     "name": "[Akarakarabha] Anacyclus pyrethrum Lag",
-     "slug": "akarakarabha-anacyclus-pyrethrum-lag",
-     "weight": 1
-    },
-    {
-     "key": "akshotakajuglansregial",
-     "name": "[Akshotaka] Juglans regia L",
-     "slug": "akshotaka-juglans-regia-l",
-     "weight": 1
-    },
-    {
-     "key": "amlaphyllanthusemblica",
-     "name": "[Amla] Phyllanthus emblica",
-     "slug": "amla-phyllanthus-emblica",
-     "weight": 1
-    },
-    {
-     "key": "amlaparnioxaliscorniculatal",
-     "name": "[Amlaparni] Oxalis corniculata L",
-     "slug": "amlaparni-oxalis-corniculata-l",
-     "weight": 1
-    },
-    {
-     "key": "amramangiferaindical",
-     "name": "[Amra] Mangifera indica L",
-     "slug": "amra-mangifera-indica-l",
-     "weight": 1
-    },
-    {
-     "key": "amritarishta",
-     "name": "[Amritarishta]",
-     "slug": "amritarishta",
-     "weight": 1
-    },
-    {
-     "key": "ankolaalangiumsalviifoliumwangerin",
-     "name": "[Ankola] Alangium salviifolium Wangerin",
-     "slug": "ankola-alangium-salviifolium-wangerin",
-     "weight": 1
-    },
-    {
-     "key": "aparajitaclitoriaternateal",
-     "name": "[Aparajita] Clitoria ternatea L",
-     "slug": "aparajita-clitoria-ternatea-l",
-     "weight": 1
-    },
-    {
-     "key": "aragwadhacassiafistulal",
-     "name": "[Aragwadha] Cassia fistula L",
-     "slug": "aragwadha-cassia-fistula-l",
-     "weight": 1
-    },
-    {
-     "key": "ashwagandhaextract",
-     "name": "[Ashwagandha] extract",
-     "slug": "ashwagandha-extract",
-     "weight": 1
-    },
-    {
-     "key": "atasilinumusitatissimuml",
-     "name": "[Atasi] Linum usitatissimum L",
-     "slug": "atasi-linum-usitatissimum-l",
-     "weight": 1
-    },
-    {
-     "key": "avipattikarchurna",
-     "name": "[Avipattikar] Churna",
-     "slug": "avipattikar-churna",
-     "weight": 1
-    },
-    {
-     "key": "bakuchitaila",
-     "name": "[Bakuchi Taila]",
-     "slug": "bakuchi-taila",
-     "weight": 1
-    },
-    {
-     "key": "bakulamimusopselengil",
-     "name": "[Bakula] Mimusops elengi L",
-     "slug": "bakula-mimusops-elengi-l",
-     "weight": 1
-    },
-    {
-     "key": "balarishta",
-     "name": "[Balarishta]",
-     "slug": "balarishta",
-     "weight": 1
-    },
-    {
-     "key": "bhringarajasvarasa",
-     "name": "[Bhringaraja Svarasa]",
-     "slug": "bhringaraja-svarasa",
-     "weight": 1
-    },
-    {
-     "key": "bhringraj",
-     "name": "[Bhringraj]",
-     "slug": "bhringraj",
-     "weight": 1
-    },
-    {
-     "key": "bijapuracitrusmedical",
-     "name": "[Bijapura] Citrus medica L",
-     "slug": "bijapura-citrus-medica-l",
-     "weight": 1
-    },
-    {
-     "key": "brahmiextract",
-     "name": "[Brahmi] extract",
-     "slug": "brahmi-extract",
-     "weight": 1
-    },
-    {
-     "key": "changerioxaliscorniculatal",
-     "name": "[Changeri] Oxalis corniculata L",
-     "slug": "changeri-oxalis-corniculata-l",
-     "weight": 1
-    }
-   ]
-  },
-  {
    "key": "protocatechuicacid",
    "name": "Protocatechuic acid",
    "slug": "protocatechuic-acid",
@@ -12737,12 +12336,6 @@
      "weight": 1
     },
     {
-     "key": "alpha",
-     "name": "Alpha-",
-     "slug": "alpha",
-     "weight": 1
-    },
-    {
      "key": "alphaamyrin",
      "name": "Alpha-amyrin",
      "slug": "alpha-amyrin",
@@ -12764,12 +12357,6 @@
      "key": "bergenin",
      "name": "Bergenin",
      "slug": "bergenin",
-     "weight": 1
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
      "weight": 1
     },
     {
@@ -13225,6 +12812,155 @@
      "slug": "stigmasterol",
      "weight": 1
     }
+   ]
+  },
+  {
+   "key": "vitaminc",
+   "name": "Vitamin C",
+   "slug": "vitamin-c",
+   "sources": [
+    {
+     "kind": "herb",
+     "slug": "amla",
+     "title": "Amla"
+    },
+    {
+     "kind": "herb",
+     "slug": "moringa",
+     "title": "Moringa"
+    },
+    {
+     "kind": "herb",
+     "slug": "nimbu",
+     "title": "Nimbu"
+    }
+   ],
+   "count": 3,
+   "sharedWith": [
+    {
+     "key": "quercetin",
+     "name": "Quercetin",
+     "slug": "quercetin",
+     "weight": 2
+    },
+    {
+     "key": "ascorbicacid",
+     "name": "Ascorbic acid",
+     "slug": "ascorbic-acid",
+     "weight": 1
+    },
+    {
+     "key": "betacarotene",
+     "name": "Beta-carotene",
+     "slug": "beta-carotene",
+     "weight": 1
+    },
+    {
+     "key": "calcium",
+     "name": "Calcium",
+     "slug": "calcium",
+     "weight": 1
+    },
+    {
+     "key": "chebulagicacid",
+     "name": "Chebulagic acid",
+     "slug": "chebulagic-acid",
+     "weight": 1
+    },
+    {
+     "key": "chebulicacid",
+     "name": "Chebulic acid",
+     "slug": "chebulic-acid",
+     "weight": 1
+    },
+    {
+     "key": "chlorogenicacid",
+     "name": "Chlorogenic acid",
+     "slug": "chlorogenic-acid",
+     "weight": 1
+    },
+    {
+     "key": "corilagin",
+     "name": "Corilagin",
+     "slug": "corilagin",
+     "weight": 1
+    },
+    {
+     "key": "ellagicacid",
+     "name": "Ellagic acid",
+     "slug": "ellagic-acid",
+     "weight": 1
+    },
+    {
+     "key": "ellagitannins",
+     "name": "Ellagitannins",
+     "slug": "ellagitannins",
+     "weight": 1
+    },
+    {
+     "key": "emblicanina",
+     "name": "Emblicanin A",
+     "slug": "emblicanin-a",
+     "weight": 1
+    },
+    {
+     "key": "emblicaninb",
+     "name": "Emblicanin B",
+     "slug": "emblicanin-b",
+     "weight": 1
+    },
+    {
+     "key": "gallicacid",
+     "name": "Gallic acid",
+     "slug": "gallic-acid",
+     "weight": 1
+    },
+    {
+     "key": "geraniin",
+     "name": "Geraniin",
+     "slug": "geraniin",
+     "weight": 1
+    },
+    {
+     "key": "iron",
+     "name": "Iron",
+     "slug": "iron",
+     "weight": 1
+    },
+    {
+     "key": "isothiocyanates",
+     "name": "Isothiocyanates",
+     "slug": "isothiocyanates",
+     "weight": 1
+    },
+    {
+     "key": "kaempferol",
+     "name": "Kaempferol",
+     "slug": "kaempferol",
+     "weight": 1
+    },
+    {
+     "key": "pedunculagin",
+     "name": "Pedunculagin",
+     "slug": "pedunculagin",
+     "weight": 1
+    },
+    {
+     "key": "punigluconin",
+     "name": "Punigluconin",
+     "slug": "punigluconin",
+     "weight": 1
+    },
+    {
+     "key": "rutin",
+     "name": "Rutin",
+     "slug": "rutin",
+     "weight": 1
+    }
+   ],
+   "inchikey": "CIWBSHSKHKDKBQ-JLAZNSOCSA-N",
+   "alsoKnownAs": [
+    "Ascorbic acid"
    ]
   },
   {
@@ -17264,158 +17000,6 @@
    ]
   },
   {
-   "key": "ascorbicacid",
-   "name": "Ascorbic acid",
-   "slug": "ascorbic-acid",
-   "sources": [
-    {
-     "kind": "herb",
-     "slug": "amla",
-     "title": "Amla"
-    },
-    {
-     "kind": "herb",
-     "slug": "nimbu",
-     "title": "Nimbu"
-    }
-   ],
-   "count": 2,
-   "sharedWith": [
-    {
-     "key": "quercetin",
-     "name": "Quercetin",
-     "slug": "quercetin",
-     "weight": 2
-    },
-    {
-     "key": "chebulagicacid",
-     "name": "Chebulagic acid",
-     "slug": "chebulagic-acid",
-     "weight": 1
-    },
-    {
-     "key": "chebulicacid",
-     "name": "Chebulic acid",
-     "slug": "chebulic-acid",
-     "weight": 1
-    },
-    {
-     "key": "citricacid",
-     "name": "Citric Acid",
-     "slug": "citric-acid",
-     "weight": 1
-    },
-    {
-     "key": "corilagin",
-     "name": "Corilagin",
-     "slug": "corilagin",
-     "weight": 1
-    },
-    {
-     "key": "diosmin",
-     "name": "Diosmin",
-     "slug": "diosmin",
-     "weight": 1
-    },
-    {
-     "key": "ellagicacid",
-     "name": "Ellagic acid",
-     "slug": "ellagic-acid",
-     "weight": 1
-    },
-    {
-     "key": "ellagitannins",
-     "name": "Ellagitannins",
-     "slug": "ellagitannins",
-     "weight": 1
-    },
-    {
-     "key": "emblicanina",
-     "name": "Emblicanin A",
-     "slug": "emblicanin-a",
-     "weight": 1
-    },
-    {
-     "key": "emblicaninb",
-     "name": "Emblicanin B",
-     "slug": "emblicanin-b",
-     "weight": 1
-    },
-    {
-     "key": "eriocitrin",
-     "name": "Eriocitrin",
-     "slug": "eriocitrin",
-     "weight": 1
-    },
-    {
-     "key": "gallicacid",
-     "name": "Gallic acid",
-     "slug": "gallic-acid",
-     "weight": 1
-    },
-    {
-     "key": "geraniin",
-     "name": "Geraniin",
-     "slug": "geraniin",
-     "weight": 1
-    },
-    {
-     "key": "hesperidin",
-     "name": "Hesperidin",
-     "slug": "hesperidin",
-     "weight": 1
-    },
-    {
-     "key": "kaempferol",
-     "name": "Kaempferol",
-     "slug": "kaempferol",
-     "weight": 1
-    },
-    {
-     "key": "limonene",
-     "name": "Limonene",
-     "slug": "limonene",
-     "weight": 1
-    },
-    {
-     "key": "linalool",
-     "name": "Linalool",
-     "slug": "linalool",
-     "weight": 1
-    },
-    {
-     "key": "naringin",
-     "name": "Naringin",
-     "slug": "naringin",
-     "weight": 1
-    },
-    {
-     "key": "pedunculagin",
-     "name": "Pedunculagin",
-     "slug": "pedunculagin",
-     "weight": 1
-    },
-    {
-     "key": "punigluconin",
-     "name": "Punigluconin",
-     "slug": "punigluconin",
-     "weight": 1
-    },
-    {
-     "key": "rutin",
-     "name": "Rutin",
-     "slug": "rutin",
-     "weight": 1
-    },
-    {
-     "key": "vitaminc",
-     "name": "Vitamin C",
-     "slug": "vitamin-c",
-     "weight": 1
-    }
-   ]
-  },
-  {
    "key": "berberine",
    "name": "Berberine",
    "slug": "berberine",
@@ -17916,12 +17500,6 @@
      "weight": 1
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "biochanina",
      "name": "Biochanin A",
      "slug": "biochanin-a",
@@ -18035,12 +17613,6 @@
      "key": "antioxidant",
      "name": "Antioxidant",
      "slug": "antioxidant",
-     "weight": 1
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
      "weight": 1
     },
     {
@@ -18302,6 +17874,84 @@
    ]
   },
   {
+   "key": "caryophyllene",
+   "name": "Caryophyllene",
+   "slug": "caryophyllene",
+   "sources": [
+    {
+     "kind": "herb",
+     "slug": "pippali",
+     "title": "Pippali"
+    },
+    {
+     "kind": "herb",
+     "slug": "tulsi",
+     "title": "Tulsi"
+    }
+   ],
+   "count": 2,
+   "sharedWith": [
+    {
+     "key": "bisdemethoxycurcumin",
+     "name": "Bisdemethoxycurcumin",
+     "slug": "bisdemethoxycurcumin",
+     "weight": 1
+    },
+    {
+     "key": "pentadecane",
+     "name": "Pentadecane",
+     "slug": "pentadecane",
+     "weight": 1
+    },
+    {
+     "key": "piperine",
+     "name": "Piperine",
+     "slug": "piperine",
+     "weight": 1
+    },
+    {
+     "key": "piperlongumine",
+     "name": "Piperlongumine",
+     "slug": "piperlongumine",
+     "weight": 1
+    },
+    {
+     "key": "piperlonguminine",
+     "name": "Piperlonguminine",
+     "slug": "piperlonguminine",
+     "weight": 1
+    },
+    {
+     "key": "pipernonaline",
+     "name": "Pipernonaline",
+     "slug": "pipernonaline",
+     "weight": 1
+    },
+    {
+     "key": "pluviatilol",
+     "name": "Pluviatilol",
+     "slug": "pluviatilol",
+     "weight": 1
+    },
+    {
+     "key": "retrofractamideac",
+     "name": "Retrofractamide A-C",
+     "slug": "retrofractamide-a-c",
+     "weight": 1
+    },
+    {
+     "key": "sesamin",
+     "name": "Sesamin",
+     "slug": "sesamin",
+     "weight": 1
+    }
+   ],
+   "inchikey": "NPNUFJAVOOONJE-GFUGXAQUSA-N",
+   "alsoKnownAs": [
+    "Beta-caryophyllene"
+   ]
+  },
+  {
    "key": "catechins",
    "name": "Catechins",
    "slug": "catechins",
@@ -18469,6 +18119,180 @@
      "slug": "chitrak-plumbago-zeylanica-l",
      "weight": 1
     }
+   ]
+  },
+  {
+   "key": "catechol",
+   "name": "Catechol",
+   "slug": "catechol",
+   "sources": [
+    {
+     "kind": "herb",
+     "slug": "neem",
+     "title": "Neem"
+    },
+    {
+     "kind": "herb",
+     "slug": "babbula",
+     "title": "Babbula"
+    }
+   ],
+   "count": 2,
+   "sharedWith": [
+    {
+     "key": "azadirachtin",
+     "name": "Azadirachtin",
+     "slug": "azadirachtin",
+     "weight": 1
+    },
+    {
+     "key": "betasitosterol",
+     "name": "Beta-sitosterol",
+     "slug": "beta-sitosterol",
+     "weight": 1
+    },
+    {
+     "key": "campesterol",
+     "name": "Campesterol",
+     "slug": "campesterol",
+     "weight": 1
+    },
+    {
+     "key": "condensedtannins",
+     "name": "Condensed tannins",
+     "slug": "condensed-tannins",
+     "weight": 1
+    },
+    {
+     "key": "gallicacid",
+     "name": "Gallic acid",
+     "slug": "gallic-acid",
+     "weight": 1
+    },
+    {
+     "key": "gallicacidtannins",
+     "name": "Gallic acid tannins",
+     "slug": "gallic-acid-tannins",
+     "weight": 1
+    },
+    {
+     "key": "gedunin",
+     "name": "Gedunin",
+     "slug": "gedunin",
+     "weight": 1
+    },
+    {
+     "key": "kaempferol",
+     "name": "Kaempferol",
+     "slug": "kaempferol",
+     "weight": 1
+    },
+    {
+     "key": "mahmoodin",
+     "name": "Mahmoodin",
+     "slug": "mahmoodin",
+     "weight": 1
+    },
+    {
+     "key": "margosine",
+     "name": "Margosine",
+     "slug": "margosine",
+     "weight": 1
+    },
+    {
+     "key": "myricetin",
+     "name": "Myricetin",
+     "slug": "myricetin",
+     "weight": 1
+    },
+    {
+     "key": "nimbidin",
+     "name": "Nimbidin",
+     "slug": "nimbidin",
+     "weight": 1
+    },
+    {
+     "key": "nimbidine",
+     "name": "Nimbidine",
+     "slug": "nimbidine",
+     "weight": 1
+    },
+    {
+     "key": "nimbimine",
+     "name": "Nimbimine",
+     "slug": "nimbimine",
+     "weight": 1
+    },
+    {
+     "key": "nimbin",
+     "name": "Nimbin",
+     "slug": "nimbin",
+     "weight": 1
+    },
+    {
+     "key": "nimbinin",
+     "name": "Nimbinin",
+     "slug": "nimbinin",
+     "weight": 1
+    },
+    {
+     "key": "nimbinine",
+     "name": "Nimbinine",
+     "slug": "nimbinine",
+     "weight": 1
+    },
+    {
+     "key": "nimbioside",
+     "name": "Nimbioside",
+     "slug": "nimbioside",
+     "weight": 1
+    },
+    {
+     "key": "nimbolide",
+     "name": "Nimbolide",
+     "slug": "nimbolide",
+     "weight": 1
+    },
+    {
+     "key": "nimbosterol",
+     "name": "Nimbosterol",
+     "slug": "nimbosterol",
+     "weight": 1
+    },
+    {
+     "key": "oleicacid",
+     "name": "Oleic acid",
+     "slug": "oleic-acid",
+     "weight": 1
+    },
+    {
+     "key": "palmiticacid",
+     "name": "Palmitic acid",
+     "slug": "palmitic-acid",
+     "weight": 1
+    },
+    {
+     "key": "protocatechuicacid",
+     "name": "Protocatechuic acid",
+     "slug": "protocatechuic-acid",
+     "weight": 1
+    },
+    {
+     "key": "quercetin",
+     "name": "Quercetin",
+     "slug": "quercetin",
+     "weight": 1
+    },
+    {
+     "key": "rutin",
+     "name": "Rutin",
+     "slug": "rutin",
+     "weight": 1
+    }
+   ],
+   "inchikey": "YCIMNLLNPGFGHC-UHFFFAOYSA-N",
+   "alsoKnownAs": [
+    "Pyrocatechol"
    ]
   },
   {
@@ -19273,6 +19097,72 @@
      "slug": "vitamin-c-and-zinc",
      "weight": 1
     }
+   ]
+  },
+  {
+   "key": "curlone",
+   "name": "Curlone",
+   "slug": "curlone",
+   "sources": [
+    {
+     "kind": "herb",
+     "slug": "haridra",
+     "title": "Haridra"
+    },
+    {
+     "kind": "herb",
+     "slug": "turmeric",
+     "title": "Turmeric"
+    }
+   ],
+   "count": 2,
+   "sharedWith": [
+    {
+     "key": "bisdemethoxycurcumin",
+     "name": "Bisdemethoxycurcumin",
+     "slug": "bisdemethoxycurcumin",
+     "weight": 1
+    },
+    {
+     "key": "curcumin",
+     "name": "Curcumin",
+     "slug": "curcumin",
+     "weight": 1
+    },
+    {
+     "key": "curcuminoidscomplex",
+     "name": "Curcuminoids complex",
+     "slug": "curcuminoids-complex",
+     "weight": 1
+    },
+    {
+     "key": "demethoxycurcumin",
+     "name": "Demethoxycurcumin",
+     "slug": "demethoxycurcumin",
+     "weight": 1
+    },
+    {
+     "key": "turmeric",
+     "name": "Turmeric",
+     "slug": "turmeric",
+     "weight": 1
+    },
+    {
+     "key": "turmerone",
+     "name": "Turmerone",
+     "slug": "turmerone",
+     "weight": 1
+    },
+    {
+     "key": "zingiberene",
+     "name": "Zingiberene",
+     "slug": "zingiberene",
+     "weight": 1
+    }
+   ],
+   "inchikey": "JIJQKFPGBBEJNF-UHFFFAOYSA-N",
+   "alsoKnownAs": [
+    "Beta-turmerone"
    ]
   },
   {
@@ -20088,12 +19978,6 @@
      "weight": 1
     },
     {
-     "key": "alpha",
-     "name": "Alpha-",
-     "slug": "alpha",
-     "weight": 1
-    },
-    {
      "key": "alphathujone",
      "name": "Alpha-thujone",
      "slug": "alpha-thujone",
@@ -20505,12 +20389,6 @@
      "key": "anacycline",
      "name": "Anacycline",
      "slug": "anacycline",
-     "weight": 1
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
      "weight": 1
     },
     {
@@ -21204,12 +21082,6 @@
      "weight": 1
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "betaamyrin",
      "name": "Beta-amyrin",
      "slug": "beta-amyrin",
@@ -21415,12 +21287,6 @@
      "key": "bellericanin",
      "name": "Bellericanin",
      "slug": "bellericanin",
-     "weight": 1
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
      "weight": 1
     },
     {
@@ -21704,12 +21570,6 @@
      "weight": 1
     },
     {
-     "key": "alpha",
-     "name": "Alpha-",
-     "slug": "alpha",
-     "weight": 1
-    },
-    {
      "key": "betulinicacid",
      "name": "Betulinic acid",
      "slug": "betulinic-acid",
@@ -21781,6 +21641,84 @@
      "slug": "verbascoside",
      "weight": 1
     }
+   ]
+  },
+  {
+   "key": "pcymene",
+   "name": "P-cymene",
+   "slug": "p-cymene",
+   "sources": [
+    {
+     "kind": "herb",
+     "slug": "jeeraka",
+     "title": "Jeeraka"
+    },
+    {
+     "kind": "herb",
+     "slug": "yavani",
+     "title": "Yavani"
+    }
+   ],
+   "count": 2,
+   "sharedWith": [
+    {
+     "key": "apigenin",
+     "name": "Apigenin",
+     "slug": "apigenin",
+     "weight": 1
+    },
+    {
+     "key": "betapinene",
+     "name": "Beta-pinene",
+     "slug": "beta-pinene",
+     "weight": 1
+    },
+    {
+     "key": "cuminaldehyde",
+     "name": "Cuminaldehyde",
+     "slug": "cuminaldehyde",
+     "weight": 1
+    },
+    {
+     "key": "cuminol",
+     "name": "Cuminol",
+     "slug": "cuminol",
+     "weight": 1
+    },
+    {
+     "key": "flavonoids",
+     "name": "Flavonoids",
+     "slug": "flavonoids",
+     "weight": 1
+    },
+    {
+     "key": "gammaterpinene",
+     "name": "Gamma-terpinene",
+     "slug": "gamma-terpinene",
+     "weight": 1
+    },
+    {
+     "key": "luteolin",
+     "name": "Luteolin",
+     "slug": "luteolin",
+     "weight": 1
+    },
+    {
+     "key": "magnesium",
+     "name": "Magnesium",
+     "slug": "magnesium",
+     "weight": 1
+    },
+    {
+     "key": "safranal",
+     "name": "Safranal",
+     "slug": "safranal",
+     "weight": 1
+    }
+   ],
+   "inchikey": "HFPZCAJZSCWRBC-UHFFFAOYSA-N",
+   "alsoKnownAs": [
+    "Para-cymene"
    ]
   },
   {
@@ -22454,12 +22392,6 @@
      "weight": 1
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "campesterol",
      "name": "Campesterol",
      "slug": "campesterol",
@@ -22697,12 +22629,6 @@
      "key": "amla",
      "name": "Amla",
      "slug": "amla",
-     "weight": 1
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
      "weight": 1
     },
     {
@@ -23322,12 +23248,6 @@
      "weight": 1
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "christembine",
      "name": "Christembine",
      "slug": "christembine",
@@ -23816,12 +23736,6 @@
      "weight": 1
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "campesterol",
      "name": "Campesterol",
      "slug": "campesterol",
@@ -23893,12 +23807,6 @@
      "key": "azadirachtin",
      "name": "Azadirachtin",
      "slug": "azadirachtin",
-     "weight": 1
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
      "weight": 1
     },
     {
@@ -24032,6 +23940,12 @@
      "name": "Nimbioside",
      "slug": "nimbioside",
      "weight": 1
+    },
+    {
+     "key": "nimbolide",
+     "name": "Nimbolide",
+     "slug": "nimbolide",
+     "weight": 1
     }
    ]
   },
@@ -24149,12 +24063,6 @@
      "key": "acteoside",
      "name": "Acteoside",
      "slug": "acteoside",
-     "weight": 1
-    },
-    {
-     "key": "alpha",
-     "name": "Alpha-",
-     "slug": "alpha",
      "weight": 1
     },
     {
@@ -24670,12 +24578,6 @@
      "weight": 1
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "betulinicacid",
      "name": "Betulinic acid",
      "slug": "betulinic-acid",
@@ -24967,12 +24869,6 @@
      "key": "aurantioobtusin",
      "name": "Aurantio-obtusin",
      "slug": "aurantio-obtusin",
-     "weight": 1
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
      "weight": 1
     },
     {
@@ -25283,146 +25179,6 @@
      "key": "chhatrakaagaricuscampestrisl",
      "name": "[Chhatraka] Agaricus campestris L",
      "slug": "chhatraka-agaricus-campestris-l",
-     "weight": 1
-    }
-   ]
-  },
-  {
-   "key": "vitaminc",
-   "name": "Vitamin C",
-   "slug": "vitamin-c",
-   "sources": [
-    {
-     "kind": "herb",
-     "slug": "amla",
-     "title": "Amla"
-    },
-    {
-     "kind": "herb",
-     "slug": "moringa",
-     "title": "Moringa"
-    }
-   ],
-   "count": 2,
-   "sharedWith": [
-    {
-     "key": "quercetin",
-     "name": "Quercetin",
-     "slug": "quercetin",
-     "weight": 2
-    },
-    {
-     "key": "ascorbicacid",
-     "name": "Ascorbic acid",
-     "slug": "ascorbic-acid",
-     "weight": 1
-    },
-    {
-     "key": "betacarotene",
-     "name": "Beta-carotene",
-     "slug": "beta-carotene",
-     "weight": 1
-    },
-    {
-     "key": "calcium",
-     "name": "Calcium",
-     "slug": "calcium",
-     "weight": 1
-    },
-    {
-     "key": "chebulagicacid",
-     "name": "Chebulagic acid",
-     "slug": "chebulagic-acid",
-     "weight": 1
-    },
-    {
-     "key": "chebulicacid",
-     "name": "Chebulic acid",
-     "slug": "chebulic-acid",
-     "weight": 1
-    },
-    {
-     "key": "chlorogenicacid",
-     "name": "Chlorogenic acid",
-     "slug": "chlorogenic-acid",
-     "weight": 1
-    },
-    {
-     "key": "corilagin",
-     "name": "Corilagin",
-     "slug": "corilagin",
-     "weight": 1
-    },
-    {
-     "key": "ellagicacid",
-     "name": "Ellagic acid",
-     "slug": "ellagic-acid",
-     "weight": 1
-    },
-    {
-     "key": "ellagitannins",
-     "name": "Ellagitannins",
-     "slug": "ellagitannins",
-     "weight": 1
-    },
-    {
-     "key": "emblicanina",
-     "name": "Emblicanin A",
-     "slug": "emblicanin-a",
-     "weight": 1
-    },
-    {
-     "key": "emblicaninb",
-     "name": "Emblicanin B",
-     "slug": "emblicanin-b",
-     "weight": 1
-    },
-    {
-     "key": "gallicacid",
-     "name": "Gallic acid",
-     "slug": "gallic-acid",
-     "weight": 1
-    },
-    {
-     "key": "geraniin",
-     "name": "Geraniin",
-     "slug": "geraniin",
-     "weight": 1
-    },
-    {
-     "key": "iron",
-     "name": "Iron",
-     "slug": "iron",
-     "weight": 1
-    },
-    {
-     "key": "isothiocyanates",
-     "name": "Isothiocyanates",
-     "slug": "isothiocyanates",
-     "weight": 1
-    },
-    {
-     "key": "kaempferol",
-     "name": "Kaempferol",
-     "slug": "kaempferol",
-     "weight": 1
-    },
-    {
-     "key": "pedunculagin",
-     "name": "Pedunculagin",
-     "slug": "pedunculagin",
-     "weight": 1
-    },
-    {
-     "key": "punigluconin",
-     "name": "Punigluconin",
-     "slug": "punigluconin",
-     "weight": 1
-    },
-    {
-     "key": "rutin",
-     "name": "Rutin",
-     "slug": "rutin",
      "weight": 1
     }
    ]
@@ -48305,12 +48061,6 @@
      "weight": 1
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "myricetin",
      "name": "Myricetin",
      "slug": "myricetin",
@@ -48518,12 +48268,6 @@
    "count": 1,
    "sharedWith": [
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "cadambine",
      "name": "Cadambine",
      "slug": "cadambine",
@@ -48662,12 +48406,6 @@
    "count": 1,
    "sharedWith": [
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "betaine",
      "name": "Betaine",
      "slug": "betaine",
@@ -48725,12 +48463,6 @@
    "count": 1,
    "sharedWith": [
     {
-     "key": "alpha",
-     "name": "Alpha-",
-     "slug": "alpha",
-     "weight": 1
-    },
-    {
      "key": "hispidulin",
      "name": "Hispidulin",
      "slug": "hispidulin",
@@ -48772,6 +48504,10 @@
      "slug": "verbascoside",
      "weight": 1
     }
+   ],
+   "inchikey": "FBSKJMQYURKNSU-ZLSOWSIRSA-N",
+   "alsoKnownAs": [
+    "Verbascoside"
    ]
   },
   {
@@ -49115,12 +48851,6 @@
      "weight": 1
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "emodin",
      "name": "Emodin",
      "slug": "emodin",
@@ -49187,12 +48917,6 @@
      "key": "ankorine",
      "name": "Ankorine",
      "slug": "ankorine",
-     "weight": 1
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
      "weight": 1
     },
     {
@@ -49265,12 +48989,6 @@
      "weight": 1
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "emodin",
      "name": "Emodin",
      "slug": "emodin",
@@ -49321,12 +49039,6 @@
    ],
    "count": 1,
    "sharedWith": [
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
     {
      "key": "daucosterol",
      "name": "Daucosterol",
@@ -49756,69 +49468,6 @@
    ]
   },
   {
-   "key": "alpha",
-   "name": "Alpha-",
-   "slug": "alpha",
-   "sources": [
-    {
-     "kind": "herb",
-     "slug": "bharangi",
-     "title": "Bharangi"
-    }
-   ],
-   "count": 1,
-   "sharedWith": [
-    {
-     "key": "acteoside",
-     "name": "Acteoside",
-     "slug": "acteoside",
-     "weight": 1
-    },
-    {
-     "key": "hispidulin",
-     "name": "Hispidulin",
-     "slug": "hispidulin",
-     "weight": 1
-    },
-    {
-     "key": "mannitol",
-     "name": "Mannitol",
-     "slug": "mannitol",
-     "weight": 1
-    },
-    {
-     "key": "oleanolicacid",
-     "name": "Oleanolic acid",
-     "slug": "oleanolic-acid",
-     "weight": 1
-    },
-    {
-     "key": "scutellarein",
-     "name": "Scutellarein",
-     "slug": "scutellarein",
-     "weight": 1
-    },
-    {
-     "key": "serratumina",
-     "name": "Serratumin A",
-     "slug": "serratumin-a",
-     "weight": 1
-    },
-    {
-     "key": "spinasterol",
-     "name": "Spinasterol",
-     "slug": "spinasterol",
-     "weight": 1
-    },
-    {
-     "key": "verbascoside",
-     "name": "Verbascoside",
-     "slug": "verbascoside",
-     "weight": 1
-    }
-   ]
-  },
-  {
    "key": "alphaamyrin",
    "name": "Alpha-amyrin",
    "slug": "alpha-amyrin",
@@ -49835,12 +49484,6 @@
      "key": "bergenin",
      "name": "Bergenin",
      "slug": "bergenin",
-     "weight": 1
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
      "weight": 1
     },
     {
@@ -49898,12 +49541,6 @@
      "key": "16alphahydroxyprotobassicacid",
      "name": "16-alpha-hydroxyprotobassic acid",
      "slug": "16-alpha-hydroxyprotobassic-acid",
-     "weight": 1
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
      "weight": 1
     },
     {
@@ -50518,12 +50155,6 @@
    ],
    "count": 1,
    "sharedWith": [
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
     {
      "key": "betaturpethein",
      "name": "Beta-turpethein",
@@ -51497,12 +51128,6 @@
      "weight": 1
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "emodin",
      "name": "Emodin",
      "slug": "emodin",
@@ -52360,12 +51985,6 @@
    ],
    "count": 1,
    "sharedWith": [
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
     {
      "key": "campesterol",
      "name": "Campesterol",
@@ -53702,12 +53321,6 @@
      "weight": 1
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "lanosterol",
      "name": "Lanosterol",
      "slug": "lanosterol",
@@ -53780,93 +53393,6 @@
      "key": "tirucallicacids",
      "name": "Tirucallic acids",
      "slug": "tirucallic-acids",
-     "weight": 1
-    }
-   ]
-  },
-  {
-   "key": "betacaryophyllene",
-   "name": "Beta-caryophyllene",
-   "slug": "beta-caryophyllene",
-   "sources": [
-    {
-     "kind": "herb",
-     "slug": "tulsi",
-     "title": "Tulsi"
-    }
-   ],
-   "count": 1,
-   "sharedWith": [
-    {
-     "key": "apigenin",
-     "name": "Apigenin",
-     "slug": "apigenin",
-     "weight": 1
-    },
-    {
-     "key": "cirsilineol",
-     "name": "Cirsilineol",
-     "slug": "cirsilineol",
-     "weight": 1
-    },
-    {
-     "key": "eugenol",
-     "name": "Eugenol",
-     "slug": "eugenol",
-     "weight": 1
-    },
-    {
-     "key": "isothymusin",
-     "name": "Isothymusin",
-     "slug": "isothymusin",
-     "weight": 1
-    },
-    {
-     "key": "linalool",
-     "name": "Linalool",
-     "slug": "linalool",
-     "weight": 1
-    },
-    {
-     "key": "luteolin",
-     "name": "Luteolin",
-     "slug": "luteolin",
-     "weight": 1
-    },
-    {
-     "key": "methyleugenol",
-     "name": "Methyl eugenol",
-     "slug": "methyl-eugenol",
-     "weight": 1
-    },
-    {
-     "key": "oleanolicacid",
-     "name": "Oleanolic acid",
-     "slug": "oleanolic-acid",
-     "weight": 1
-    },
-    {
-     "key": "orientin",
-     "name": "Orientin",
-     "slug": "orientin",
-     "weight": 1
-    },
-    {
-     "key": "rosmarinicacid",
-     "name": "Rosmarinic acid",
-     "slug": "rosmarinic-acid",
-     "weight": 1
-    },
-    {
-     "key": "ursolicacid",
-     "name": "Ursolic acid",
-     "slug": "ursolic-acid",
-     "weight": 1
-    },
-    {
-     "key": "vicenin",
-     "name": "Vicenin",
-     "slug": "vicenin",
      "weight": 1
     }
    ]
@@ -54160,75 +53686,6 @@
    ]
   },
   {
-   "key": "betaturmerone",
-   "name": "Beta-turmerone",
-   "slug": "beta-turmerone",
-   "sources": [
-    {
-     "kind": "herb",
-     "slug": "turmeric",
-     "title": "Turmeric"
-    }
-   ],
-   "count": 1,
-   "sharedWith": [
-    {
-     "key": "alphaturmerone",
-     "name": "Alpha-turmerone",
-     "slug": "alpha-turmerone",
-     "weight": 1
-    },
-    {
-     "key": "arturmerone",
-     "name": "Ar-turmerone",
-     "slug": "ar-turmerone",
-     "weight": 1
-    },
-    {
-     "key": "bisdemethoxycurcumin",
-     "name": "Bisdemethoxycurcumin",
-     "slug": "bisdemethoxycurcumin",
-     "weight": 1
-    },
-    {
-     "key": "caffeicacid",
-     "name": "Caffeic acid",
-     "slug": "caffeic-acid",
-     "weight": 1
-    },
-    {
-     "key": "curcumin",
-     "name": "Curcumin",
-     "slug": "curcumin",
-     "weight": 1
-    },
-    {
-     "key": "demethoxycurcumin",
-     "name": "Demethoxycurcumin",
-     "slug": "demethoxycurcumin",
-     "weight": 1
-    },
-    {
-     "key": "ferulicacid",
-     "name": "Ferulic acid",
-     "slug": "ferulic-acid",
-     "weight": 1
-    },
-    {
-     "key": "vanillicacid",
-     "name": "Vanillic acid",
-     "slug": "vanillic-acid",
-     "weight": 1
-    },
-    {
-     "key": "zingiberene",
-     "name": "Zingiberene",
-     "slug": "zingiberene",
-     "weight": 1
-    }
-   ]
-  },
-  {
    "key": "betaturpethein",
    "name": "Beta-turpethein",
    "slug": "beta-turpethein",
@@ -54245,12 +53702,6 @@
      "key": "alphaturpethein",
      "name": "Alpha-turpethein",
      "slug": "alpha-turpethein",
-     "weight": 1
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
      "weight": 1
     },
     {
@@ -54746,12 +54197,6 @@
      "weight": 1
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "cadamine",
      "name": "Cadamine",
      "slug": "cadamine",
@@ -54830,12 +54275,6 @@
      "key": "3alphadihydrocadambine",
      "name": "3-alpha-Dihydrocadambine",
      "slug": "3-alpha-dihydrocadambine",
-     "weight": 1
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
      "weight": 1
     },
     {
@@ -55073,12 +54512,6 @@
      "weight": 1
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "betulinicacid",
      "name": "Betulinic acid",
      "slug": "betulinic-acid",
@@ -55133,12 +54566,6 @@
      "key": "apigenin",
      "name": "Apigenin",
      "slug": "apigenin",
-     "weight": 1
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
      "weight": 1
     },
     {
@@ -55633,75 +55060,6 @@
    ]
   },
   {
-   "key": "caryophyllene",
-   "name": "Caryophyllene",
-   "slug": "caryophyllene",
-   "sources": [
-    {
-     "kind": "herb",
-     "slug": "pippali",
-     "title": "Pippali"
-    }
-   ],
-   "count": 1,
-   "sharedWith": [
-    {
-     "key": "bisdemethoxycurcumin",
-     "name": "Bisdemethoxycurcumin",
-     "slug": "bisdemethoxycurcumin",
-     "weight": 1
-    },
-    {
-     "key": "pentadecane",
-     "name": "Pentadecane",
-     "slug": "pentadecane",
-     "weight": 1
-    },
-    {
-     "key": "piperine",
-     "name": "Piperine",
-     "slug": "piperine",
-     "weight": 1
-    },
-    {
-     "key": "piperlongumine",
-     "name": "Piperlongumine",
-     "slug": "piperlongumine",
-     "weight": 1
-    },
-    {
-     "key": "piperlonguminine",
-     "name": "Piperlonguminine",
-     "slug": "piperlonguminine",
-     "weight": 1
-    },
-    {
-     "key": "pipernonaline",
-     "name": "Pipernonaline",
-     "slug": "pipernonaline",
-     "weight": 1
-    },
-    {
-     "key": "pluviatilol",
-     "name": "Pluviatilol",
-     "slug": "pluviatilol",
-     "weight": 1
-    },
-    {
-     "key": "retrofractamideac",
-     "name": "Retrofractamide A-C",
-     "slug": "retrofractamide-a-c",
-     "weight": 1
-    },
-    {
-     "key": "sesamin",
-     "name": "Sesamin",
-     "slug": "sesamin",
-     "weight": 1
-    }
-   ]
-  },
-  {
    "key": "casticin",
    "name": "Casticin",
    "slug": "casticin",
@@ -55847,171 +55205,6 @@
      "key": "urokinase",
      "name": "Urokinase",
      "slug": "urokinase",
-     "weight": 1
-    }
-   ]
-  },
-  {
-   "key": "catechol",
-   "name": "Catechol",
-   "slug": "catechol",
-   "sources": [
-    {
-     "kind": "herb",
-     "slug": "neem",
-     "title": "Neem"
-    }
-   ],
-   "count": 1,
-   "sharedWith": [
-    {
-     "key": "azadirachtin",
-     "name": "Azadirachtin",
-     "slug": "azadirachtin",
-     "weight": 1
-    },
-    {
-     "key": "betasitosterol",
-     "name": "Beta-sitosterol",
-     "slug": "beta-sitosterol",
-     "weight": 1
-    },
-    {
-     "key": "campesterol",
-     "name": "Campesterol",
-     "slug": "campesterol",
-     "weight": 1
-    },
-    {
-     "key": "condensedtannins",
-     "name": "Condensed tannins",
-     "slug": "condensed-tannins",
-     "weight": 1
-    },
-    {
-     "key": "gallicacid",
-     "name": "Gallic acid",
-     "slug": "gallic-acid",
-     "weight": 1
-    },
-    {
-     "key": "gallicacidtannins",
-     "name": "Gallic acid tannins",
-     "slug": "gallic-acid-tannins",
-     "weight": 1
-    },
-    {
-     "key": "gedunin",
-     "name": "Gedunin",
-     "slug": "gedunin",
-     "weight": 1
-    },
-    {
-     "key": "kaempferol",
-     "name": "Kaempferol",
-     "slug": "kaempferol",
-     "weight": 1
-    },
-    {
-     "key": "mahmoodin",
-     "name": "Mahmoodin",
-     "slug": "mahmoodin",
-     "weight": 1
-    },
-    {
-     "key": "margosine",
-     "name": "Margosine",
-     "slug": "margosine",
-     "weight": 1
-    },
-    {
-     "key": "myricetin",
-     "name": "Myricetin",
-     "slug": "myricetin",
-     "weight": 1
-    },
-    {
-     "key": "nimbidin",
-     "name": "Nimbidin",
-     "slug": "nimbidin",
-     "weight": 1
-    },
-    {
-     "key": "nimbidine",
-     "name": "Nimbidine",
-     "slug": "nimbidine",
-     "weight": 1
-    },
-    {
-     "key": "nimbimine",
-     "name": "Nimbimine",
-     "slug": "nimbimine",
-     "weight": 1
-    },
-    {
-     "key": "nimbin",
-     "name": "Nimbin",
-     "slug": "nimbin",
-     "weight": 1
-    },
-    {
-     "key": "nimbinin",
-     "name": "Nimbinin",
-     "slug": "nimbinin",
-     "weight": 1
-    },
-    {
-     "key": "nimbinine",
-     "name": "Nimbinine",
-     "slug": "nimbinine",
-     "weight": 1
-    },
-    {
-     "key": "nimbioside",
-     "name": "Nimbioside",
-     "slug": "nimbioside",
-     "weight": 1
-    },
-    {
-     "key": "nimbolide",
-     "name": "Nimbolide",
-     "slug": "nimbolide",
-     "weight": 1
-    },
-    {
-     "key": "nimbosterol",
-     "name": "Nimbosterol",
-     "slug": "nimbosterol",
-     "weight": 1
-    },
-    {
-     "key": "oleicacid",
-     "name": "Oleic acid",
-     "slug": "oleic-acid",
-     "weight": 1
-    },
-    {
-     "key": "palmiticacid",
-     "name": "Palmitic acid",
-     "slug": "palmitic-acid",
-     "weight": 1
-    },
-    {
-     "key": "protocatechuicacid",
-     "name": "Protocatechuic acid",
-     "slug": "protocatechuic-acid",
-     "weight": 1
-    },
-    {
-     "key": "quercetin",
-     "name": "Quercetin",
-     "slug": "quercetin",
-     "weight": 1
-    },
-    {
-     "key": "rutin",
-     "name": "Rutin",
-     "slug": "rutin",
      "weight": 1
     }
    ]
@@ -56807,12 +56000,6 @@
    "count": 1,
    "sharedWith": [
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "droserone",
      "name": "Droserone",
      "slug": "droserone",
@@ -57371,12 +56558,6 @@
      "key": "aurantioobtusin",
      "name": "Aurantio-obtusin",
      "slug": "aurantio-obtusin",
-     "weight": 1
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
      "weight": 1
     },
     {
@@ -58837,63 +58018,6 @@
    ]
   },
   {
-   "key": "curlone",
-   "name": "Curlone",
-   "slug": "curlone",
-   "sources": [
-    {
-     "kind": "herb",
-     "slug": "haridra",
-     "title": "Haridra"
-    }
-   ],
-   "count": 1,
-   "sharedWith": [
-    {
-     "key": "bisdemethoxycurcumin",
-     "name": "Bisdemethoxycurcumin",
-     "slug": "bisdemethoxycurcumin",
-     "weight": 1
-    },
-    {
-     "key": "curcumin",
-     "name": "Curcumin",
-     "slug": "curcumin",
-     "weight": 1
-    },
-    {
-     "key": "curcuminoidscomplex",
-     "name": "Curcuminoids complex",
-     "slug": "curcuminoids-complex",
-     "weight": 1
-    },
-    {
-     "key": "demethoxycurcumin",
-     "name": "Demethoxycurcumin",
-     "slug": "demethoxycurcumin",
-     "weight": 1
-    },
-    {
-     "key": "turmeric",
-     "name": "Turmeric",
-     "slug": "turmeric",
-     "weight": 1
-    },
-    {
-     "key": "turmerone",
-     "name": "Turmerone",
-     "slug": "turmerone",
-     "weight": 1
-    },
-    {
-     "key": "zingiberene",
-     "name": "Zingiberene",
-     "slug": "zingiberene",
-     "weight": 1
-    }
-   ]
-  },
-  {
    "key": "cuscohygrine",
    "name": "Cuscohygrine",
    "slug": "cuscohygrine",
@@ -59209,12 +58333,6 @@
    ],
    "count": 1,
    "sharedWith": [
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
     {
      "key": "glabrin",
      "name": "Glabrin",
@@ -59540,12 +58658,6 @@
      "key": "alantolactone",
      "name": "Alantolactone",
      "slug": "alantolactone",
-     "weight": 1
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
      "weight": 1
     },
     {
@@ -59915,12 +59027,6 @@
      "weight": 1
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "cadambine",
      "name": "Cadambine",
      "slug": "cadambine",
@@ -60050,12 +59156,6 @@
      "key": "alantolactone",
      "name": "Alantolactone",
      "slug": "alantolactone",
-     "weight": 1
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
      "weight": 1
     },
     {
@@ -60457,69 +59557,6 @@
    ]
   },
   {
-   "key": "dithymoquinone",
-   "name": "Dithymoquinone",
-   "slug": "dithymoquinone",
-   "sources": [
-    {
-     "kind": "herb",
-     "slug": "kalajaji",
-     "title": "Kalajaji"
-    }
-   ],
-   "count": 1,
-   "sharedWith": [
-    {
-     "key": "alphahederin",
-     "name": "Alpha-hederin",
-     "slug": "alpha-hederin",
-     "weight": 1
-    },
-    {
-     "key": "alphapinene",
-     "name": "Alpha-pinene",
-     "slug": "alpha-pinene",
-     "weight": 1
-    },
-    {
-     "key": "carvacrol",
-     "name": "Carvacrol",
-     "slug": "carvacrol",
-     "weight": 1
-    },
-    {
-     "key": "kaempferol",
-     "name": "Kaempferol",
-     "slug": "kaempferol",
-     "weight": 1
-    },
-    {
-     "key": "nigellone",
-     "name": "Nigellone",
-     "slug": "nigellone",
-     "weight": 1
-    },
-    {
-     "key": "thymohydroquinone",
-     "name": "Thymohydroquinone",
-     "slug": "thymohydroquinone",
-     "weight": 1
-    },
-    {
-     "key": "thymol",
-     "name": "Thymol",
-     "slug": "thymol",
-     "weight": 1
-    },
-    {
-     "key": "thymoquinone",
-     "name": "Thymoquinone",
-     "slug": "thymoquinone",
-     "weight": 1
-    }
-   ]
-  },
-  {
    "key": "dracunculins",
    "name": "Dracunculins",
    "slug": "dracunculins",
@@ -60760,12 +59797,6 @@
    ],
    "count": 1,
    "sharedWith": [
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
     {
      "key": "chitranone",
      "name": "Chitranone",
@@ -61292,12 +60323,6 @@
      "weight": 1
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "betaine",
      "name": "Betaine",
      "slug": "betaine",
@@ -61453,12 +60478,6 @@
    ],
    "count": 1,
    "sharedWith": [
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
     {
      "key": "chitranone",
      "name": "Chitranone",
@@ -62404,12 +61423,6 @@
    ],
    "count": 1,
    "sharedWith": [
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
     {
      "key": "gallicacid",
      "name": "Gallic acid",
@@ -65288,12 +64301,6 @@
    "count": 1,
    "sharedWith": [
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "cycloart23ene3beta",
      "name": "Cycloart-23-ene-3beta",
      "slug": "cycloart-23-ene-3beta",
@@ -67154,12 +66161,6 @@
      "weight": 1
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "betaine",
      "name": "Betaine",
      "slug": "betaine",
@@ -67924,6 +66925,10 @@
      "slug": "tryptanthrin",
      "weight": 1
     }
+   ],
+   "inchikey": "QQILFGKZUJYXGS-UHFFFAOYSA-N",
+   "alsoKnownAs": [
+    "Indigotin"
    ]
   },
   {
@@ -67949,63 +66954,6 @@
      "key": "indigotin",
      "name": "Indigotin",
      "slug": "indigotin",
-     "weight": 1
-    },
-    {
-     "key": "indirubin",
-     "name": "Indirubin",
-     "slug": "indirubin",
-     "weight": 1
-    },
-    {
-     "key": "isatin",
-     "name": "Isatin",
-     "slug": "isatin",
-     "weight": 1
-    },
-    {
-     "key": "kaempferol",
-     "name": "Kaempferol",
-     "slug": "kaempferol",
-     "weight": 1
-    },
-    {
-     "key": "sitosterol",
-     "name": "Sitosterol",
-     "slug": "sitosterol",
-     "weight": 1
-    },
-    {
-     "key": "tryptanthrin",
-     "name": "Tryptanthrin",
-     "slug": "tryptanthrin",
-     "weight": 1
-    }
-   ]
-  },
-  {
-   "key": "indigotin",
-   "name": "Indigotin",
-   "slug": "indigotin",
-   "sources": [
-    {
-     "kind": "herb",
-     "slug": "nili",
-     "title": "Nili"
-    }
-   ],
-   "count": 1,
-   "sharedWith": [
-    {
-     "key": "indigo",
-     "name": "Indigo",
-     "slug": "indigo",
-     "weight": 1
-    },
-    {
-     "key": "indigoside",
-     "name": "Indigoside",
-     "slug": "indigoside",
      "weight": 1
     },
     {
@@ -68177,12 +67125,6 @@
      "key": "alantolactone",
      "name": "Alantolactone",
      "slug": "alantolactone",
-     "weight": 1
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
      "weight": 1
     },
     {
@@ -68408,12 +67350,6 @@
      "weight": 1
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "daucosterol",
      "name": "Daucosterol",
      "slug": "daucosterol",
@@ -68468,12 +67404,6 @@
      "key": "3alphadihydrocadambine",
      "name": "3-alpha-Dihydrocadambine",
      "slug": "3-alpha-dihydrocadambine",
-     "weight": 1
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
      "weight": 1
     },
     {
@@ -68555,12 +67485,6 @@
      "key": "3alphadihydrocadambine",
      "name": "3-alpha-Dihydrocadambine",
      "slug": "3-alpha-dihydrocadambine",
-     "weight": 1
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
      "weight": 1
     },
     {
@@ -69122,12 +68046,6 @@
      "weight": 1
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "friedelin",
      "name": "Friedelin",
      "slug": "friedelin",
@@ -69482,12 +68400,6 @@
    "count": 1,
    "sharedWith": [
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "chitranone",
      "name": "Chitranone",
      "slug": "chitranone",
@@ -69803,12 +68715,6 @@
      "weight": 1
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "friedelin",
      "name": "Friedelin",
      "slug": "friedelin",
@@ -70025,12 +68931,6 @@
    "count": 1,
    "sharedWith": [
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "cycloart23ene3beta",
      "name": "Cycloart-23-ene-3beta",
      "slug": "cycloart-23-ene-3beta",
@@ -70162,12 +69062,6 @@
    ],
    "count": 1,
    "sharedWith": [
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
     {
      "key": "cycloart23ene3beta",
      "name": "Cycloart-23-ene-3beta",
@@ -70790,12 +69684,6 @@
      "key": "ankorine",
      "name": "Ankorine",
      "slug": "ankorine",
-     "weight": 1
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
      "weight": 1
     },
     {
@@ -71474,12 +70362,6 @@
      "weight": 1
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "betulinicacid",
      "name": "Betulinic acid",
      "slug": "betulinic-acid",
@@ -71753,12 +70635,6 @@
      "weight": 1
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "friedelin",
      "name": "Friedelin",
      "slug": "friedelin",
@@ -71813,12 +70689,6 @@
      "key": "bergenin",
      "name": "Bergenin",
      "slug": "bergenin",
-     "weight": 1
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
      "weight": 1
     },
     {
@@ -74752,6 +73622,10 @@
      "slug": "thymoquinone",
      "weight": 1
     }
+   ],
+   "inchikey": "FPRGRROJPRIHJP-UHFFFAOYSA-N",
+   "alsoKnownAs": [
+    "Dithymoquinone"
    ]
   },
   {
@@ -76150,171 +75024,6 @@
    ]
   },
   {
-   "key": "nimbosterol",
-   "name": "Nimbosterol",
-   "slug": "nimbosterol",
-   "sources": [
-    {
-     "kind": "herb",
-     "slug": "neem",
-     "title": "Neem"
-    }
-   ],
-   "count": 1,
-   "sharedWith": [
-    {
-     "key": "azadirachtin",
-     "name": "Azadirachtin",
-     "slug": "azadirachtin",
-     "weight": 1
-    },
-    {
-     "key": "betasitosterol",
-     "name": "Beta-sitosterol",
-     "slug": "beta-sitosterol",
-     "weight": 1
-    },
-    {
-     "key": "campesterol",
-     "name": "Campesterol",
-     "slug": "campesterol",
-     "weight": 1
-    },
-    {
-     "key": "catechol",
-     "name": "Catechol",
-     "slug": "catechol",
-     "weight": 1
-    },
-    {
-     "key": "condensedtannins",
-     "name": "Condensed tannins",
-     "slug": "condensed-tannins",
-     "weight": 1
-    },
-    {
-     "key": "gallicacid",
-     "name": "Gallic acid",
-     "slug": "gallic-acid",
-     "weight": 1
-    },
-    {
-     "key": "gallicacidtannins",
-     "name": "Gallic acid tannins",
-     "slug": "gallic-acid-tannins",
-     "weight": 1
-    },
-    {
-     "key": "gedunin",
-     "name": "Gedunin",
-     "slug": "gedunin",
-     "weight": 1
-    },
-    {
-     "key": "kaempferol",
-     "name": "Kaempferol",
-     "slug": "kaempferol",
-     "weight": 1
-    },
-    {
-     "key": "mahmoodin",
-     "name": "Mahmoodin",
-     "slug": "mahmoodin",
-     "weight": 1
-    },
-    {
-     "key": "margosine",
-     "name": "Margosine",
-     "slug": "margosine",
-     "weight": 1
-    },
-    {
-     "key": "myricetin",
-     "name": "Myricetin",
-     "slug": "myricetin",
-     "weight": 1
-    },
-    {
-     "key": "nimbidin",
-     "name": "Nimbidin",
-     "slug": "nimbidin",
-     "weight": 1
-    },
-    {
-     "key": "nimbidine",
-     "name": "Nimbidine",
-     "slug": "nimbidine",
-     "weight": 1
-    },
-    {
-     "key": "nimbimine",
-     "name": "Nimbimine",
-     "slug": "nimbimine",
-     "weight": 1
-    },
-    {
-     "key": "nimbin",
-     "name": "Nimbin",
-     "slug": "nimbin",
-     "weight": 1
-    },
-    {
-     "key": "nimbinin",
-     "name": "Nimbinin",
-     "slug": "nimbinin",
-     "weight": 1
-    },
-    {
-     "key": "nimbinine",
-     "name": "Nimbinine",
-     "slug": "nimbinine",
-     "weight": 1
-    },
-    {
-     "key": "nimbioside",
-     "name": "Nimbioside",
-     "slug": "nimbioside",
-     "weight": 1
-    },
-    {
-     "key": "nimbolide",
-     "name": "Nimbolide",
-     "slug": "nimbolide",
-     "weight": 1
-    },
-    {
-     "key": "oleicacid",
-     "name": "Oleic acid",
-     "slug": "oleic-acid",
-     "weight": 1
-    },
-    {
-     "key": "palmiticacid",
-     "name": "Palmitic acid",
-     "slug": "palmitic-acid",
-     "weight": 1
-    },
-    {
-     "key": "protocatechuicacid",
-     "name": "Protocatechuic acid",
-     "slug": "protocatechuic-acid",
-     "weight": 1
-    },
-    {
-     "key": "quercetin",
-     "name": "Quercetin",
-     "slug": "quercetin",
-     "weight": 1
-    },
-    {
-     "key": "rutin",
-     "name": "Rutin",
-     "slug": "rutin",
-     "weight": 1
-    }
-   ]
-  },
-  {
    "key": "norsesquiterpenoids",
    "name": "Nor-sesquiterpenoids",
    "slug": "nor-sesquiterpenoids",
@@ -76327,12 +75036,6 @@
    ],
    "count": 1,
    "sharedWith": [
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
     {
      "key": "eudesmane",
      "name": "Eudesmane",
@@ -76565,12 +75268,6 @@
      "key": "aurantioobtusin",
      "name": "Aurantio-obtusin",
      "slug": "aurantio-obtusin",
-     "weight": 1
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
      "weight": 1
     },
     {
@@ -77536,75 +76233,6 @@
    ]
   },
   {
-   "key": "pcymene",
-   "name": "P-cymene",
-   "slug": "p-cymene",
-   "sources": [
-    {
-     "kind": "herb",
-     "slug": "jeeraka",
-     "title": "Jeeraka"
-    }
-   ],
-   "count": 1,
-   "sharedWith": [
-    {
-     "key": "apigenin",
-     "name": "Apigenin",
-     "slug": "apigenin",
-     "weight": 1
-    },
-    {
-     "key": "betapinene",
-     "name": "Beta-pinene",
-     "slug": "beta-pinene",
-     "weight": 1
-    },
-    {
-     "key": "cuminaldehyde",
-     "name": "Cuminaldehyde",
-     "slug": "cuminaldehyde",
-     "weight": 1
-    },
-    {
-     "key": "cuminol",
-     "name": "Cuminol",
-     "slug": "cuminol",
-     "weight": 1
-    },
-    {
-     "key": "flavonoids",
-     "name": "Flavonoids",
-     "slug": "flavonoids",
-     "weight": 1
-    },
-    {
-     "key": "gammaterpinene",
-     "name": "Gamma-terpinene",
-     "slug": "gamma-terpinene",
-     "weight": 1
-    },
-    {
-     "key": "luteolin",
-     "name": "Luteolin",
-     "slug": "luteolin",
-     "weight": 1
-    },
-    {
-     "key": "magnesium",
-     "name": "Magnesium",
-     "slug": "magnesium",
-     "weight": 1
-    },
-    {
-     "key": "safranal",
-     "name": "Safranal",
-     "slug": "safranal",
-     "weight": 1
-    }
-   ]
-  },
-  {
    "key": "phydroxybenzoicacid",
    "name": "p-Hydroxybenzoic acid",
    "slug": "p-hydroxybenzoic-acid",
@@ -77840,51 +76468,6 @@
      "key": "taxineb",
      "name": "Taxine B",
      "slug": "taxine-b",
-     "weight": 1
-    }
-   ]
-  },
-  {
-   "key": "paracymene",
-   "name": "Para-cymene",
-   "slug": "para-cymene",
-   "sources": [
-    {
-     "kind": "herb",
-     "slug": "yavani",
-     "title": "Yavani"
-    }
-   ],
-   "count": 1,
-   "sharedWith": [
-    {
-     "key": "alphapineneandbetapinene",
-     "name": "Alpha-pinene and beta-pinene",
-     "slug": "alpha-pinene-and-beta-pinene",
-     "weight": 1
-    },
-    {
-     "key": "carvacrol",
-     "name": "Carvacrol",
-     "slug": "carvacrol",
-     "weight": 1
-    },
-    {
-     "key": "dietaryfiber",
-     "name": "Dietary fiber",
-     "slug": "dietary-fiber",
-     "weight": 1
-    },
-    {
-     "key": "gammaterpinene",
-     "name": "Gamma-terpinene",
-     "slug": "gamma-terpinene",
-     "weight": 1
-    },
-    {
-     "key": "thymol",
-     "name": "Thymol",
-     "slug": "thymol",
      "weight": 1
     }
    ]
@@ -78419,12 +77002,6 @@
    "count": 1,
    "sharedWith": [
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "eudesmane",
      "name": "Eudesmane",
      "slug": "eudesmane",
@@ -78757,12 +77334,6 @@
    ],
    "count": 1,
    "sharedWith": [
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
     {
      "key": "cycloart23ene3beta",
      "name": "Cycloart-23-ene-3beta",
@@ -79154,12 +77725,6 @@
    "count": 1,
    "sharedWith": [
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "cycloart23ene3beta",
      "name": "Cycloart-23-ene-3beta",
      "slug": "cycloart-23-ene-3beta",
@@ -79235,12 +77800,6 @@
    "count": 1,
    "sharedWith": [
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "cycloart23ene3beta",
      "name": "Cycloart-23-ene-3beta",
      "slug": "cycloart-23-ene-3beta",
@@ -79315,12 +77874,6 @@
    ],
    "count": 1,
    "sharedWith": [
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
     {
      "key": "cycloart23ene3beta",
      "name": "Cycloart-23-ene-3beta",
@@ -79594,63 +78147,6 @@
    ]
   },
   {
-   "key": "proanthocyanidins",
-   "name": "Proanthocyanidins",
-   "slug": "proanthocyanidins",
-   "sources": [
-    {
-     "kind": "herb",
-     "slug": "yava",
-     "title": "Yava"
-    }
-   ],
-   "count": 1,
-   "sharedWith": [
-    {
-     "key": "campesterol",
-     "name": "Campesterol",
-     "slug": "campesterol",
-     "weight": 1
-    },
-    {
-     "key": "catechins",
-     "name": "Catechins",
-     "slug": "catechins",
-     "weight": 1
-    },
-    {
-     "key": "flavonoids",
-     "name": "Flavonoids",
-     "slug": "flavonoids",
-     "weight": 1
-    },
-    {
-     "key": "phytosterols",
-     "name": "Phytosterols",
-     "slug": "phytosterols",
-     "weight": 1
-    },
-    {
-     "key": "quercetin",
-     "name": "Quercetin",
-     "slug": "quercetin",
-     "weight": 1
-    },
-    {
-     "key": "sitosterol",
-     "name": "Sitosterol",
-     "slug": "sitosterol",
-     "weight": 1
-    },
-    {
-     "key": "tocopherols",
-     "name": "Tocopherols",
-     "slug": "tocopherols",
-     "weight": 1
-    }
-   ]
-  },
-  {
    "key": "probioticmicroorganisms",
    "name": "Probiotic microorganisms",
    "slug": "probiotic-microorganisms",
@@ -79718,12 +78214,6 @@
      "key": "alphaamyrinandbetaamyrin",
      "name": "Alpha-amyrin and beta-amyrin",
      "slug": "alpha-amyrin-and-beta-amyrin",
-     "weight": 1
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
      "weight": 1
     },
     {
@@ -80914,81 +79404,6 @@
    ]
   },
   {
-   "key": "pyrocatechol",
-   "name": "Pyrocatechol",
-   "slug": "pyrocatechol",
-   "sources": [
-    {
-     "kind": "herb",
-     "slug": "babbula",
-     "title": "Babbula"
-    }
-   ],
-   "count": 1,
-   "sharedWith": [
-    {
-     "key": "arabinose",
-     "name": "Arabinose",
-     "slug": "arabinose",
-     "weight": 1
-    },
-    {
-     "key": "arachidonicacid",
-     "name": "Arachidonic acid",
-     "slug": "arachidonic-acid",
-     "weight": 1
-    },
-    {
-     "key": "catechin",
-     "name": "Catechin",
-     "slug": "catechin",
-     "weight": 1
-    },
-    {
-     "key": "epigallocatechin5",
-     "name": "Epigallocatechin-5",
-     "slug": "epigallocatechin-5",
-     "weight": 1
-    },
-    {
-     "key": "epigallocatechin7gallate",
-     "name": "Epigallocatechin-7-gallate",
-     "slug": "epigallocatechin-7-gallate",
-     "weight": 1
-    },
-    {
-     "key": "gallicacid",
-     "name": "Gallic acid",
-     "slug": "gallic-acid",
-     "weight": 1
-    },
-    {
-     "key": "niloticane",
-     "name": "Niloticane",
-     "slug": "niloticane",
-     "weight": 1
-    },
-    {
-     "key": "palmiticacid",
-     "name": "Palmitic acid",
-     "slug": "palmitic-acid",
-     "weight": 1
-    },
-    {
-     "key": "protocatechuicacid",
-     "name": "Protocatechuic acid",
-     "slug": "protocatechuic-acid",
-     "weight": 1
-    },
-    {
-     "key": "rhamnose",
-     "name": "Rhamnose",
-     "slug": "rhamnose",
-     "weight": 1
-    }
-   ]
-  },
-  {
    "key": "pyrroleglycosides",
    "name": "Pyrrole glycosides",
    "slug": "pyrrole-glycosides",
@@ -81001,12 +79416,6 @@
    ],
    "count": 1,
    "sharedWith": [
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
     {
      "key": "eudesmane",
      "name": "Eudesmane",
@@ -81206,12 +79615,6 @@
      "key": "3alphadihydrocadambine",
      "name": "3-alpha-Dihydrocadambine",
      "slug": "3-alpha-dihydrocadambine",
-     "weight": 1
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
      "weight": 1
     },
     {
@@ -82486,12 +80889,6 @@
      "weight": 1
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "friedelin",
      "name": "Friedelin",
      "slug": "friedelin",
@@ -82546,12 +80943,6 @@
      "key": "alantolactone",
      "name": "Alantolactone",
      "slug": "alantolactone",
-     "weight": 1
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
      "weight": 1
     },
     {
@@ -83164,12 +81555,6 @@
      "weight": 1
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "emodin",
      "name": "Emodin",
      "slug": "emodin",
@@ -83287,12 +81672,6 @@
      "key": "ankorine",
      "name": "Ankorine",
      "slug": "ankorine",
-     "weight": 1
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
      "weight": 1
     },
     {
@@ -83485,12 +81864,6 @@
      "key": "achyranthine",
      "name": "Achyranthine",
      "slug": "achyranthine",
-     "weight": 1
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
      "weight": 1
     },
     {
@@ -84286,12 +82659,6 @@
      "weight": 1
     },
     {
-     "key": "alpha",
-     "name": "Alpha-",
-     "slug": "alpha",
-     "weight": 1
-    },
-    {
      "key": "hispidulin",
      "name": "Hispidulin",
      "slug": "hispidulin",
@@ -84420,12 +82787,6 @@
    ],
    "count": 1,
    "sharedWith": [
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
     {
      "key": "eudesmane",
      "name": "Eudesmane",
@@ -86653,12 +85014,6 @@
      "weight": 1
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "betaamyrin",
      "name": "Beta-amyrin",
      "slug": "beta-amyrin",
@@ -88216,12 +86571,6 @@
    "count": 1,
    "sharedWith": [
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "eudesmane",
      "name": "Eudesmane",
      "slug": "eudesmane",
@@ -88296,12 +86645,6 @@
    ],
    "count": 1,
    "sharedWith": [
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
     {
      "key": "eudesmane",
      "name": "Eudesmane",
@@ -89887,12 +88230,6 @@
      "weight": 1
     },
     {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
-    {
      "key": "emodin",
      "name": "Emodin",
      "slug": "emodin",
@@ -90055,12 +88392,6 @@
      "key": "alphaturpethein",
      "name": "Alpha-turpethein",
      "slug": "alpha-turpethein",
-     "weight": 1
-    },
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
      "weight": 1
     },
     {
@@ -91036,69 +89367,6 @@
      "key": "chyawanprash",
      "name": "[Chyawanprash]",
      "slug": "chyawanprash",
-     "weight": 1
-    }
-   ]
-  },
-  {
-   "key": "verbascoside",
-   "name": "Verbascoside",
-   "slug": "verbascoside",
-   "sources": [
-    {
-     "kind": "herb",
-     "slug": "bharangi",
-     "title": "Bharangi"
-    }
-   ],
-   "count": 1,
-   "sharedWith": [
-    {
-     "key": "acteoside",
-     "name": "Acteoside",
-     "slug": "acteoside",
-     "weight": 1
-    },
-    {
-     "key": "alpha",
-     "name": "Alpha-",
-     "slug": "alpha",
-     "weight": 1
-    },
-    {
-     "key": "hispidulin",
-     "name": "Hispidulin",
-     "slug": "hispidulin",
-     "weight": 1
-    },
-    {
-     "key": "mannitol",
-     "name": "Mannitol",
-     "slug": "mannitol",
-     "weight": 1
-    },
-    {
-     "key": "oleanolicacid",
-     "name": "Oleanolic acid",
-     "slug": "oleanolic-acid",
-     "weight": 1
-    },
-    {
-     "key": "scutellarein",
-     "name": "Scutellarein",
-     "slug": "scutellarein",
-     "weight": 1
-    },
-    {
-     "key": "serratumina",
-     "name": "Serratumin A",
-     "slug": "serratumin-a",
-     "weight": 1
-    },
-    {
-     "key": "spinasterol",
-     "name": "Spinasterol",
-     "slug": "spinasterol",
      "weight": 1
     }
    ]
@@ -93843,12 +92111,6 @@
    ],
    "count": 1,
    "sharedWith": [
-    {
-     "key": "beta",
-     "name": "Beta-",
-     "slug": "beta",
-     "weight": 1
-    },
     {
      "key": "chitranone",
      "name": "Chitranone",

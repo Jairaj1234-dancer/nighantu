@@ -47,6 +47,10 @@ const NOT_A_COMPOUND = [
 /** A chemical name, structurally: short, no colon, not a sentence. */
 function looksLikeCompound(name) {
   if (name.includes(':')) return false;
+  // A dangling hyphen means the name was cut off. The vault has bullets that are
+  // literally "Beta-", left over from a wrapped "Beta- and gamma-lumicolchicines",
+  // and a fragment like that becomes a node that can never resolve to anything.
+  if (/^[-\u2013]|[-\u2013]$/.test(name)) return false;
   if (/[.!?]$/.test(name)) return false;
   const words = name.split(/\s+/);
   if (words.length > 4) return false;
@@ -133,6 +137,53 @@ for (const n of nodes.values()) {
   n.sharedWith.sort((x, y) => y.weight - x.weight || x.name.localeCompare(y.name));
   n.sharedWith = n.sharedWith.slice(0, 25);   // the long tail is all weight 1
   n.sources.sort((x, y) => x.title.localeCompare(y.title));
+}
+
+// Merge nodes that are the same molecule under different names.
+//
+// The graph keys on a normalised name, so one substance written two ways is two nodes
+// and the sources they share are invisible to each other. PubChem's InChIKey is a
+// canonical identifier for a structure, so names that resolve to the same key ARE the
+// same substance and their nodes belong together. This makes the co-occurrence weights
+// more correct rather than merely better labelled: Sitosterol, Beta-sitosterol and
+// Nimbosterol were three separate nodes for one compound.
+{
+  const chemPath = path.join('src', 'data', 'chemistry.json');
+  if (fs.existsSync(chemPath)) {
+    const chem = JSON.parse(fs.readFileSync(chemPath, 'utf8'));
+    const keyByName = new Map();
+    for (const c of chem.compounds ?? []) if (c.inchikey) keyByName.set(c.name, c.inchikey);
+
+    const groups = new Map();
+    for (const n of nodes.values()) {
+      const ik = keyByName.get(n.name);
+      if (!ik) continue;
+      if (!groups.has(ik)) groups.set(ik, []);
+      groups.get(ik).push(n);
+    }
+
+    let merged = 0;
+    for (const [ik, group] of groups) {
+      if (group.length < 2) continue;
+      // Keep the name that appears in the most entries; it is the one readers will
+      // recognise, and ties break on the shorter, less decorated spelling.
+      group.sort((a, b) => b.sources.length - a.sources.length || a.name.length - b.name.length);
+      const [keep, ...rest] = group;
+      keep.inchikey = ik;
+      keep.alsoKnownAs = rest.map((r) => r.name);
+      const seen = new Set(keep.sources.map((s) => `${s.kind}/${s.slug}`));
+      for (const r of rest) {
+        for (const src of r.sources) {
+          const id = `${src.kind}/${src.slug}`;
+          if (!seen.has(id)) { seen.add(id); keep.sources.push(src); }
+        }
+        nodes.delete(r.key);
+        merged += 1;
+      }
+      keep.count = keep.sources.length;
+    }
+    if (merged) console.log(`merged ${merged} duplicate node(s) on InChIKey identity`);
+  }
 }
 
 // A compound appearing on exactly one page has no co-occurrence signal and would be a

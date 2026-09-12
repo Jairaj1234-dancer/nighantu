@@ -5,13 +5,24 @@
  "updatedAt": "2026-09-12",
  "source": "PubChem PUG-REST, https://pubchem.ncbi.nlm.nih.gov/",
  "summary": {
-  "constituents": 852,
-  "resolved": 11,
-  "unmatched": 4,
-  "distinctStructures": 11,
+  "constituents": 839,
+  "resolved": 455,
+  "unmatched": 383,
+  "distinctStructures": 455,
   "mergeableNames": 0
  },
  "compounds": [
+  {
+   "name": "Sitosterol",
+   "slug": "sitosterol",
+   "count": 39,
+   "cid": 222284,
+   "formula": "C29H50O",
+   "weight": "414.7",
+   "inchikey": "KZJWDPNRJALLNS-VJSFXXLFSA-N",
+   "smiles": "CCC(CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C)C(C)C",
+   "iupacName": "(3S,8S,9S,10R,13R,14S,17R)-17-[(2R,5R)-5-ethyl-6-methylheptan-2-yl]-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-ol"
+  },
   {
    "name": "Quercetin",
    "slug": "quercetin",
@@ -22,17 +33,6 @@
    "inchikey": "REFJWTPEDVJJIY-UHFFFAOYSA-N",
    "smiles": "C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O",
    "iupacName": "2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxychromen-4-one"
-  },
-  {
-   "name": "Sitosterol",
-   "slug": "sitosterol",
-   "count": 32,
-   "cid": 222284,
-   "formula": "C29H50O",
-   "weight": "414.7",
-   "inchikey": "KZJWDPNRJALLNS-VJSFXXLFSA-N",
-   "smiles": "CCC(CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C)C(C)C",
-   "iupacName": "(3S,8S,9S,10R,13R,14S,17R)-17-[(2R,5R)-5-ethyl-6-methylheptan-2-yl]-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-ol"
   },
   {
    "name": "Flavonoids",
@@ -77,12 +77,6 @@
    "name": "Tannins",
    "slug": "tannins",
    "count": 15,
-   "unresolved": true
-  },
-  {
-   "name": "Beta-",
-   "slug": "beta",
-   "count": 13,
    "unresolved": true
   },
   {
@@ -161,85 +155,144 @@
    "name": "Ellagic acid",
    "slug": "ellagic-acid",
    "count": 8,
-   "unresolved": true
+   "cid": 5281855,
+   "formula": "C14H6O8",
+   "weight": "302.19",
+   "inchikey": "AFSDNFLWKVMVRB-UHFFFAOYSA-N",
+   "smiles": "C1=C2C3=C(C(=C1O)O)OC(=O)C4=CC(=C(C(=C43)OC2=O)O)O",
+   "iupacName": "6,7,13,14-tetrahydroxy-2,9-dioxatetracyclo[6.6.2.04,16.011,15]hexadeca-1(15),4,6,8(16),11,13-hexaene-3,10-dione"
   },
   {
    "name": "Luteolin",
    "slug": "luteolin",
    "count": 8,
-   "unresolved": true
+   "cid": 5280445,
+   "formula": "C15H10O6",
+   "weight": "286.24",
+   "inchikey": "IQPNAANSBPBGFQ-UHFFFAOYSA-N",
+   "smiles": "C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O",
+   "iupacName": "2-(3,4-dihydroxyphenyl)-5,7-dihydroxychromen-4-one"
   },
   {
    "name": "Ursolic acid",
    "slug": "ursolic-acid",
    "count": 8,
-   "unresolved": true
+   "cid": 64945,
+   "formula": "C30H48O3",
+   "weight": "456.7",
+   "inchikey": "WCGUUGGRBIKTOS-GPOJBZKASA-N",
+   "smiles": "CC1CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C)O)C)C)C2C1C)C)C(=O)O",
+   "iupacName": "(1S,2R,4aS,6aR,6aS,6bR,8aR,10S,12aR,14bS)-10-hydroxy-1,2,6a,6b,9,9,12a-heptamethyl-2,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydro-1H-picene-4a-carboxylic acid"
   },
   {
    "name": "Apigenin",
    "slug": "apigenin",
    "count": 7,
-   "unresolved": true
-  },
-  {
-   "name": "Beta-sitosterol",
-   "slug": "beta-sitosterol",
-   "count": 7,
-   "unresolved": true
+   "cid": 5280443,
+   "formula": "C15H10O5",
+   "weight": "270.24",
+   "inchikey": "KZNIFHPLKGYRTM-UHFFFAOYSA-N",
+   "smiles": "C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O",
+   "iupacName": "5,7-dihydroxy-2-(4-hydroxyphenyl)chromen-4-one"
   },
   {
    "name": "Emodin",
    "slug": "emodin",
    "count": 7,
-   "unresolved": true
+   "cid": 3220,
+   "formula": "C15H10O5",
+   "weight": "270.24",
+   "inchikey": "RHMXXJGYXNZAPX-UHFFFAOYSA-N",
+   "smiles": "CC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)O",
+   "iupacName": "1,3,8-trihydroxy-6-methylanthracene-9,10-dione"
   },
   {
    "name": "Limonene",
    "slug": "limonene",
    "count": 6,
-   "unresolved": true
+   "cid": 22311,
+   "formula": "C10H16",
+   "weight": "136.23",
+   "inchikey": "XMGQYMWWDOXHJM-UHFFFAOYSA-N",
+   "smiles": "CC1=CCC(CC1)C(=C)C",
+   "iupacName": "1-methyl-4-prop-1-en-2-ylcyclohexene"
   },
   {
    "name": "Magnesium",
    "slug": "magnesium",
    "count": 6,
-   "unresolved": true
+   "cid": 5462224,
+   "formula": "Mg",
+   "weight": "24.305",
+   "inchikey": "FYYHWMGAXLPEAU-UHFFFAOYSA-N",
+   "smiles": "[Mg]",
+   "iupacName": "magnesium"
   },
   {
    "name": "Myricetin",
    "slug": "myricetin",
    "count": 6,
-   "unresolved": true
+   "cid": 5281672,
+   "formula": "C15H10O8",
+   "weight": "318.23",
+   "inchikey": "IKMDFBPHZNJCSN-UHFFFAOYSA-N",
+   "smiles": "C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O",
+   "iupacName": "3,5,7-trihydroxy-2-(3,4,5-trihydroxyphenyl)chromen-4-one"
   },
   {
    "name": "Potassium",
    "slug": "potassium",
    "count": 6,
-   "unresolved": true
+   "cid": 5462222,
+   "formula": "K",
+   "weight": "39.0983",
+   "inchikey": "ZLMJMSJWJFRBEC-UHFFFAOYSA-N",
+   "smiles": "[K]",
+   "iupacName": "potassium"
   },
   {
    "name": "Chlorogenic acid",
    "slug": "chlorogenic-acid",
    "count": 5,
-   "unresolved": true
+   "cid": 1794427,
+   "formula": "C16H18O9",
+   "weight": "354.31",
+   "inchikey": "CWVRJTMFETXNAD-JUHZACGLSA-N",
+   "smiles": "C1C(C(C(CC1(C(=O)O)O)OC(=O)C=CC2=CC(=C(C=C2)O)O)O)O",
+   "iupacName": "(1S,3R,4R,5R)-3-[(E)-3-(3,4-dihydroxyphenyl)prop-2-enoyl]oxy-1,4,5-trihydroxycyclohexane-1-carboxylic acid"
   },
   {
    "name": "Curcumin",
    "slug": "curcumin",
    "count": 5,
-   "unresolved": true
+   "cid": 969516,
+   "formula": "C21H20O6",
+   "weight": "368.4",
+   "inchikey": "VFLDPWHFBUODDF-FCXRPNKRSA-N",
+   "smiles": "COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC(=C(C=C2)O)OC)O",
+   "iupacName": "(1E,6E)-1,7-bis(4-hydroxy-3-methoxyphenyl)hepta-1,6-diene-3,5-dione"
   },
   {
    "name": "Linalool",
    "slug": "linalool",
    "count": 5,
-   "unresolved": true
+   "cid": 6549,
+   "formula": "C10H18O",
+   "weight": "154.25",
+   "inchikey": "CDOSHBSSFJOMGT-UHFFFAOYSA-N",
+   "smiles": "CC(=CCCC(C)(C=C)O)C",
+   "iupacName": "3,7-dimethylocta-1,6-dien-3-ol"
   },
   {
    "name": "Oleanolic acid",
    "slug": "oleanolic-acid",
    "count": 5,
-   "unresolved": true
+   "cid": 10494,
+   "formula": "C30H48O3",
+   "weight": "456.7",
+   "inchikey": "MIJYXULNPSFWEK-GTOFXWBISA-N",
+   "smiles": "CC1(CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C)O)C)C)C2C1)C)C(=O)O)C",
+   "iupacName": "(4aS,6aR,6aS,6bR,8aR,10S,12aR,14bS)-10-hydroxy-2,2,6a,6b,9,9,12a-heptamethyl-1,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydropicene-4a-carboxylic acid"
   },
   {
    "name": "Phytosterols",
@@ -251,55 +304,100 @@
    "name": "Piperine",
    "slug": "piperine",
    "count": 5,
-   "unresolved": true
+   "cid": 638024,
+   "formula": "C17H19NO3",
+   "weight": "285.34",
+   "inchikey": "MXXWOMGUGJBKIW-YPCIICBESA-N",
+   "smiles": "C1CCN(CC1)C(=O)C=CC=CC2=CC3=C(C=C2)OCO3",
+   "iupacName": "(2E,4E)-5-(1,3-benzodioxol-5-yl)-1-piperidin-1-ylpenta-2,4-dien-1-one"
   },
   {
    "name": "Tocopherols",
    "slug": "tocopherols",
    "count": 5,
-   "unresolved": true
+   "cid": 14986,
+   "formula": "C28H48O2",
+   "weight": "416.7",
+   "inchikey": "QUEDXNHFTDJVIY-UHFFFAOYSA-N",
+   "smiles": "CC1=C(C=C2CCC(OC2=C1C)(C)CCCC(C)CCCC(C)CCCC(C)C)O",
+   "iupacName": "2,7,8-trimethyl-2-(4,8,12-trimethyltridecyl)-3,4-dihydrochromen-6-ol"
   },
   {
    "name": "Bisdemethoxycurcumin",
    "slug": "bisdemethoxycurcumin",
    "count": 4,
-   "unresolved": true
+   "cid": 5315472,
+   "formula": "C19H16O4",
+   "weight": "308.3",
+   "inchikey": "PREBVFJICNPEKM-YDWXAUTNSA-N",
+   "smiles": "C1=CC(=CC=C1C=CC(=O)CC(=O)C=CC2=CC=C(C=C2)O)O",
+   "iupacName": "(1E,6E)-1,7-bis(4-hydroxyphenyl)hepta-1,6-diene-3,5-dione"
   },
   {
    "name": "Campesterol",
    "slug": "campesterol",
    "count": 4,
-   "unresolved": true
+   "cid": 173183,
+   "formula": "C28H48O",
+   "weight": "400.7",
+   "inchikey": "SGNBVLSWZMBQTH-PODYLUTMSA-N",
+   "smiles": "CC(C)C(C)CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C",
+   "iupacName": "(3S,8S,9S,10R,13R,14S,17R)-17-[(2R,5R)-5,6-dimethylheptan-2-yl]-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-ol"
   },
   {
    "name": "Camphor",
    "slug": "camphor",
    "count": 4,
-   "unresolved": true
+   "cid": 2537,
+   "formula": "C10H16O",
+   "weight": "152.23",
+   "inchikey": "DSSYKIVIOFKYAU-UHFFFAOYSA-N",
+   "smiles": "CC1(C2CCC1(C(=O)C2)C)C",
+   "iupacName": "1,7,7-trimethylbicyclo[2.2.1]heptan-2-one"
   },
   {
    "name": "Carvacrol",
    "slug": "carvacrol",
    "count": 4,
-   "unresolved": true
+   "cid": 10364,
+   "formula": "C10H14O",
+   "weight": "150.22",
+   "inchikey": "RECUKUPTGUEGMW-UHFFFAOYSA-N",
+   "smiles": "CC1=C(C=C(C=C1)C(C)C)O",
+   "iupacName": "2-methyl-5-propan-2-ylphenol"
   },
   {
    "name": "Chrysophanol",
    "slug": "chrysophanol",
    "count": 4,
-   "unresolved": true
+   "cid": 10208,
+   "formula": "C15H10O4",
+   "weight": "254.24",
+   "inchikey": "LQGUBLBATBMXHT-UHFFFAOYSA-N",
+   "smiles": "CC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=CC=C3O",
+   "iupacName": "1,8-dihydroxy-3-methylanthracene-9,10-dione"
   },
   {
    "name": "Coumarins",
    "slug": "coumarins",
    "count": 4,
-   "unresolved": true
+   "cid": 54678486,
+   "formula": "C19H16O4",
+   "weight": "308.3",
+   "inchikey": "PJVWKTKQMONHTI-UHFFFAOYSA-N",
+   "smiles": "CC(=O)CC(C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)O",
+   "iupacName": "4-hydroxy-3-(3-oxo-1-phenylbutyl)chromen-2-one"
   },
   {
    "name": "Eugenol",
    "slug": "eugenol",
    "count": 4,
-   "unresolved": true
+   "cid": 3314,
+   "formula": "C10H12O2",
+   "weight": "164.20",
+   "inchikey": "RRAFCDWBNXTKKO-UHFFFAOYSA-N",
+   "smiles": "COC1=C(C=CC(=C1)CC=C)O",
+   "iupacName": "2-methoxy-4-prop-2-enylphenol"
   },
   {
    "name": "Mucilage",
@@ -314,136 +412,257 @@
    "unresolved": true
   },
   {
+   "name": "Procyanidins",
+   "slug": "procyanidins",
+   "count": 4,
+   "cid": 107876,
+   "formula": "C30H26O13",
+   "weight": "594.5",
+   "inchikey": "HGVVOUNEGQIPMS-UHFFFAOYSA-N",
+   "smiles": "C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)OC4(C(C(C5=C(C=C(C=C5O4)O)O)O)O)C6=CC(=C(C=C6)O)O",
+   "iupacName": "2-(3,4-dihydroxyphenyl)-2-[[2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3,4-dihydro-2H-chromen-3-yl]oxy]-3,4-dihydrochromene-3,4,5,7-tetrol"
+  },
+  {
    "name": "Sabinene",
    "slug": "sabinene",
    "count": 4,
-   "unresolved": true
+   "cid": 18818,
+   "formula": "C10H16",
+   "weight": "136.23",
+   "inchikey": "NDVASEGYNIMXJL-UHFFFAOYSA-N",
+   "smiles": "CC(C)C12CCC(=C)C1C2",
+   "iupacName": "4-methylidene-1-propan-2-ylbicyclo[3.1.0]hexane"
   },
   {
    "name": "Sesamin",
    "slug": "sesamin",
    "count": 4,
-   "unresolved": true
+   "cid": 72307,
+   "formula": "C20H18O6",
+   "weight": "354.4",
+   "inchikey": "PEYUIKBAABKQKQ-AFHBHXEDSA-N",
+   "smiles": "C1C2C(COC2C3=CC4=C(C=C3)OCO4)C(O1)C5=CC6=C(C=C5)OCO6",
+   "iupacName": "5-[(3S,3aR,6S,6aR)-3-(1,3-benzodioxol-5-yl)-1,3,3a,4,6,6a-hexahydrofuro[3,4-c]furan-6-yl]-1,3-benzodioxole"
   },
   {
    "name": "Thymol",
    "slug": "thymol",
    "count": 4,
-   "unresolved": true
+   "cid": 6989,
+   "formula": "C10H14O",
+   "weight": "150.22",
+   "inchikey": "MGSRCZKZVOBKFT-UHFFFAOYSA-N",
+   "smiles": "CC1=CC(=C(C=C1)C(C)C)O",
+   "iupacName": "5-methyl-2-propan-2-ylphenol"
   },
   {
    "name": "Bergenin",
    "slug": "bergenin",
    "count": 3,
-   "unresolved": true
+   "cid": 66065,
+   "formula": "C14H16O9",
+   "weight": "328.27",
+   "inchikey": "YWJXCIXBAKGUKZ-HJJNZUOJSA-N",
+   "smiles": "COC1=C(C=C2C(=C1O)C3C(C(C(C(O3)CO)O)O)OC2=O)O",
+   "iupacName": "(2R,3S,4S,4aR,10bS)-3,4,8,10-tetrahydroxy-2-(hydroxymethyl)-9-methoxy-3,4,4a,10b-tetrahydro-2H-pyrano[3,2-c]isochromen-6-one"
   },
   {
    "name": "Betulinic acid",
    "slug": "betulinic-acid",
    "count": 3,
-   "unresolved": true
+   "cid": 64971,
+   "formula": "C30H48O3",
+   "weight": "456.7",
+   "inchikey": "QGJZLNKBHJESQX-FZFNOLFKSA-N",
+   "smiles": "CC(=C)C1CCC2(C1C3CCC4C5(CCC(C(C5CCC4(C3(CC2)C)C)(C)C)O)C)C(=O)O",
+   "iupacName": "(1R,3aS,5aR,5bR,7aR,9S,11aR,11bR,13aR,13bR)-9-hydroxy-5a,5b,8,8,11a-pentamethyl-1-prop-1-en-2-yl-1,2,3,4,5,6,7,7a,9,10,11,11b,12,13,13a,13b-hexadecahydrocyclopenta[a]chrysene-3a-carboxylic acid"
   },
   {
    "name": "Biochanin A",
    "slug": "biochanin-a",
    "count": 3,
-   "unresolved": true
+   "cid": 5280373,
+   "formula": "C16H12O5",
+   "weight": "284.26",
+   "inchikey": "WUADCCWRTIWANL-UHFFFAOYSA-N",
+   "smiles": "COC1=CC=C(C=C1)C2=COC3=CC(=CC(=C3C2=O)O)O",
+   "iupacName": "5,7-dihydroxy-3-(4-methoxyphenyl)chromen-4-one"
   },
   {
    "name": "Caffeic acid",
    "slug": "caffeic-acid",
    "count": 3,
-   "unresolved": true
+   "cid": 689043,
+   "formula": "C9H8O4",
+   "weight": "180.16",
+   "inchikey": "QAIPRVGONGVQAS-DUXPYHPUSA-N",
+   "smiles": "C1=CC(=C(C=C1C=CC(=O)O)O)O",
+   "iupacName": "(E)-3-(3,4-dihydroxyphenyl)prop-2-enoic acid"
   },
   {
    "name": "Chebulagic acid",
    "slug": "chebulagic-acid",
    "count": 3,
-   "unresolved": true
+   "cid": 442674,
+   "formula": "C41H30O27",
+   "weight": "954.7",
+   "inchikey": "HGJXAVROWQLCTP-YABCKIEDSA-N",
+   "smiles": "C1C2C3C(C(C(O2)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C6=C5C(C(C(=O)O3)CC(=O)O)C(C(=O)O6)O)O)O)OC(=O)C7=CC(=C(C(=C7C8=C(C(=C(C=C8C(=O)O1)O)O)O)O)O)O",
+   "iupacName": "2-[(4R,5S,7R,25S,26R,29S,30S,31S)-13,14,15,18,19,20,31,35,36-nonahydroxy-2,10,23,28,32-pentaoxo-5-(3,4,5-trihydroxybenzoyl)oxy-3,6,9,24,27,33-hexaoxaheptacyclo[28.7.1.04,25.07,26.011,16.017,22.034,38]octatriaconta-1(37),11,13,15,17,19,21,34(38),35-nonaen-29-yl]acetic acid"
   },
   {
    "name": "Citric Acid",
    "slug": "citric-acid",
    "count": 3,
-   "unresolved": true
+   "cid": 311,
+   "formula": "C6H8O7",
+   "weight": "192.12",
+   "inchikey": "KRKNYBCHXYNGOX-UHFFFAOYSA-N",
+   "smiles": "C(C(=O)O)C(CC(=O)O)(C(=O)O)O",
+   "iupacName": "2-hydroxypropane-1,2,3-tricarboxylic acid"
   },
   {
    "name": "Corilagin",
    "slug": "corilagin",
    "count": 3,
-   "unresolved": true
+   "cid": 73568,
+   "formula": "C27H22O18",
+   "weight": "634.5",
+   "inchikey": "TUSDEZXZIZRFGC-XIGLUPEJSA-N",
+   "smiles": "C1C2C(C(C(C(O2)OC(=O)C3=CC(=C(C(=C3)O)O)O)O)OC(=O)C4=CC(=C(C(=C4C5=C(C(=C(C=C5C(=O)O1)O)O)O)O)O)O)O",
+   "iupacName": "[(1S,19R,21S,22R,23R)-6,7,8,11,12,13,22,23-octahydroxy-3,16-dioxo-2,17,20-trioxatetracyclo[17.3.1.04,9.010,15]tricosa-4,6,8,10,12,14-hexaen-21-yl] 3,4,5-trihydroxybenzoate"
   },
   {
    "name": "Coumarin",
    "slug": "coumarin",
    "count": 3,
-   "unresolved": true
+   "cid": 323,
+   "formula": "C9H6O2",
+   "weight": "146.14",
+   "inchikey": "ZYGHJZDHTFUPRJ-UHFFFAOYSA-N",
+   "smiles": "C1=CC=C2C(=C1)C=CC(=O)O2",
+   "iupacName": "chromen-2-one"
   },
   {
    "name": "Demethoxycurcumin",
    "slug": "demethoxycurcumin",
    "count": 3,
-   "unresolved": true
+   "cid": 5469424,
+   "formula": "C20H18O5",
+   "weight": "338.4",
+   "inchikey": "HJTVQHVGMGKONQ-LUZURFALSA-N",
+   "smiles": "COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC=C(C=C2)O)O",
+   "iupacName": "(1E,6E)-1-(4-hydroxy-3-methoxyphenyl)-7-(4-hydroxyphenyl)hepta-1,6-diene-3,5-dione"
   },
   {
    "name": "Diosgenin",
    "slug": "diosgenin",
    "count": 3,
-   "unresolved": true
+   "cid": 99474,
+   "formula": "C27H42O3",
+   "weight": "414.6",
+   "inchikey": "WQLVFSAGQJTQCK-VKROHFNGSA-N",
+   "smiles": "CC1CCC2(C(C3C(O2)CC4C3(CCC5C4CC=C6C5(CCC(C6)O)C)C)C)OC1",
+   "iupacName": "(1S,2S,4S,5'R,6R,7S,8R,9S,12S,13R,16S)-5',7,9,13-tetramethylspiro[5-oxapentacyclo[10.8.0.02,9.04,8.013,18]icos-18-ene-6,2'-oxane]-16-ol"
   },
   {
    "name": "Epicatechin",
    "slug": "epicatechin",
    "count": 3,
-   "unresolved": true
+   "cid": 72276,
+   "formula": "C15H14O6",
+   "weight": "290.27",
+   "inchikey": "PFTAWBLQPZVEMU-UKRRQHHQSA-N",
+   "smiles": "C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O",
+   "iupacName": "(2R,3R)-2-(3,4-dihydroxyphenyl)-3,4-dihydro-2H-chromene-3,5,7-triol"
   },
   {
    "name": "Ferulic acid",
    "slug": "ferulic-acid",
    "count": 3,
-   "unresolved": true
+   "cid": 445858,
+   "formula": "C10H10O4",
+   "weight": "194.18",
+   "inchikey": "KSEBMYQBYZTDHS-HWKANZROSA-N",
+   "smiles": "COC1=C(C=CC(=C1)C=CC(=O)O)O",
+   "iupacName": "(E)-3-(4-hydroxy-3-methoxyphenyl)prop-2-enoic acid"
   },
   {
    "name": "Friedelin",
    "slug": "friedelin",
    "count": 3,
-   "unresolved": true
+   "cid": 91472,
+   "formula": "C30H50O",
+   "weight": "426.7",
+   "inchikey": "OFMXGFHWLZPCFL-SVRPQWSVSA-N",
+   "smiles": "CC1C(=O)CCC2C1(CCC3C2(CCC4(C3(CCC5(C4CC(CC5)(C)C)C)C)C)C)C",
+   "iupacName": "(4R,4aS,6aS,6aS,6bR,8aR,12aR,14aS,14bS)-4,4a,6a,6b,8a,11,11,14a-octamethyl-2,4,5,6,6a,7,8,9,10,12,12a,13,14,14b-tetradecahydro-1H-picen-3-one"
   },
   {
    "name": "Iron",
    "slug": "iron",
    "count": 3,
-   "unresolved": true
+   "cid": 23925,
+   "formula": "Fe",
+   "weight": "55.84",
+   "inchikey": "XEEYBQQBJWHFJM-UHFFFAOYSA-N",
+   "smiles": "[Fe]",
+   "iupacName": "iron"
   },
   {
    "name": "Isorhamnetin",
    "slug": "isorhamnetin",
    "count": 3,
-   "unresolved": true
+   "cid": 5281654,
+   "formula": "C16H12O7",
+   "weight": "316.26",
+   "inchikey": "IZQSVPBOUDKVDZ-UHFFFAOYSA-N",
+   "smiles": "COC1=C(C=CC(=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O",
+   "iupacName": "3,5,7-trihydroxy-2-(4-hydroxy-3-methoxyphenyl)chromen-4-one"
   },
   {
    "name": "Manganese",
    "slug": "manganese",
    "count": 3,
-   "unresolved": true
+   "cid": 23930,
+   "formula": "Mn",
+   "weight": "54.93804",
+   "inchikey": "PWHULOQIROXLJO-UHFFFAOYSA-N",
+   "smiles": "[Mn]",
+   "iupacName": "manganese"
   },
   {
    "name": "Myrcene",
    "slug": "myrcene",
    "count": 3,
-   "unresolved": true
+   "cid": 31253,
+   "formula": "C10H16",
+   "weight": "136.23",
+   "inchikey": "UAHWPYUMFXYFJY-UHFFFAOYSA-N",
+   "smiles": "CC(=CCCC(=C)C=C)C",
+   "iupacName": "7-methyl-3-methylideneocta-1,6-diene"
   },
   {
    "name": "Oleic acid",
    "slug": "oleic-acid",
    "count": 3,
-   "unresolved": true
+   "cid": 445639,
+   "formula": "C18H34O2",
+   "weight": "282.5",
+   "inchikey": "ZQPPMHVWECSIRJ-KTKRTIGZSA-N",
+   "smiles": "CCCCCCCCC=CCCCCCCCC(=O)O",
+   "iupacName": "(Z)-octadec-9-enoic acid"
   },
   {
    "name": "Palmitic acid",
    "slug": "palmitic-acid",
    "count": 3,
-   "unresolved": true
+   "cid": 985,
+   "formula": "C16H32O2",
+   "weight": "256.42",
+   "inchikey": "IPCSVZSSVZVIGE-UHFFFAOYSA-N",
+   "smiles": "CCCCCCCCCCCCCCCC(=O)O",
+   "iupacName": "hexadecanoic acid"
   },
   {
    "name": "Peptides",
@@ -458,52 +677,87 @@
    "unresolved": true
   },
   {
-   "name": "Procyanidins",
-   "slug": "procyanidins",
-   "count": 3,
-   "unresolved": true
-  },
-  {
    "name": "Protocatechuic acid",
    "slug": "protocatechuic-acid",
    "count": 3,
-   "unresolved": true
+   "cid": 72,
+   "formula": "C7H6O4",
+   "weight": "154.12",
+   "inchikey": "YQUVCSBJEUQKSH-UHFFFAOYSA-N",
+   "smiles": "C1=CC(=C(C=C1C(=O)O)O)O",
+   "iupacName": "3,4-dihydroxybenzoic acid"
   },
   {
    "name": "Rhein",
    "slug": "rhein",
    "count": 3,
-   "unresolved": true
+   "cid": 10168,
+   "formula": "C15H8O6",
+   "weight": "284.22",
+   "inchikey": "FCDLCPWAQCPTKC-UHFFFAOYSA-N",
+   "smiles": "C1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)C(=O)O",
+   "iupacName": "4,5-dihydroxy-9,10-dioxoanthracene-2-carboxylic acid"
   },
   {
    "name": "Safranal",
    "slug": "safranal",
    "count": 3,
-   "unresolved": true
+   "cid": 61041,
+   "formula": "C10H14O",
+   "weight": "150.22",
+   "inchikey": "SGAWOGXMMPSZPB-UHFFFAOYSA-N",
+   "smiles": "CC1=C(C(CC=C1)(C)C)C=O",
+   "iupacName": "2,6,6-trimethylcyclohexa-1,3-diene-1-carbaldehyde"
   },
   {
    "name": "Scutellarein",
    "slug": "scutellarein",
    "count": 3,
-   "unresolved": true
+   "cid": 5281697,
+   "formula": "C15H10O6",
+   "weight": "286.24",
+   "inchikey": "JVXZRQGOGOXCEC-UHFFFAOYSA-N",
+   "smiles": "C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O)O",
+   "iupacName": "5,6,7-trihydroxy-2-(4-hydroxyphenyl)chromen-4-one"
   },
   {
    "name": "Sodium chloride",
    "slug": "sodium-chloride",
    "count": 3,
-   "unresolved": true
+   "cid": 5234,
+   "formula": "ClNa",
+   "weight": "58.44",
+   "inchikey": "FAPWRFPIFSIZLT-UHFFFAOYSA-M",
+   "smiles": "[Na+].[Cl-]",
+   "iupacName": "sodium chloride"
   },
   {
    "name": "Steroids",
    "slug": "steroids",
    "count": 3,
-   "unresolved": true
+   "cid": 139082353,
+   "formula": "C26H44N2O",
+   "weight": "400.6",
+   "inchikey": "DNVZSDMHLPWULM-PFJMVCNFSA-N",
+   "smiles": "CC(C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)N(C)C)C)C)N(C)C(=O)C",
+   "iupacName": "N-[(1R)-1-[(3S,8R,9R,10S,13R,14R,17R)-3-(dimethylamino)-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-17-yl]ethyl]-N-methylacetamide"
   },
   {
    "name": "Terpenoids",
    "slug": "terpenoids",
    "count": 3,
    "unresolved": true
+  },
+  {
+   "name": "Vitamin C",
+   "slug": "vitamin-c",
+   "count": 3,
+   "cid": 54670067,
+   "formula": "C6H8O6",
+   "weight": "176.12",
+   "inchikey": "CIWBSHSKHKDKBQ-JLAZNSOCSA-N",
+   "smiles": "C(C(C1C(=C(C(=O)O1)O)O)O)O",
+   "iupacName": "(2R)-2-[(1S)-1,2-dihydroxyethyl]-3,4-dihydroxy-2H-furan-5-one"
   },
   {
    "name": "[Ajwain] Trachyspermum ammi",
@@ -611,31 +865,56 @@
    "name": "Alpha-pinene",
    "slug": "alpha-pinene",
    "count": 2,
-   "unresolved": true
+   "cid": 6654,
+   "formula": "C10H16",
+   "weight": "136.23",
+   "inchikey": "GRWFGVWFFZKLTI-UHFFFAOYSA-N",
+   "smiles": "CC1=CCC2CC1C2(C)C",
+   "iupacName": "2,6,6-trimethylbicyclo[3.1.1]hept-2-ene"
   },
   {
    "name": "Alpha-terpineol",
    "slug": "alpha-terpineol",
    "count": 2,
-   "unresolved": true
+   "cid": 17100,
+   "formula": "C10H18O",
+   "weight": "154.25",
+   "inchikey": "WUOACPNHFRMFPN-UHFFFAOYSA-N",
+   "smiles": "CC1=CCC(CC1)C(C)(C)O",
+   "iupacName": "2-(4-methylcyclohex-3-en-1-yl)propan-2-ol"
   },
   {
    "name": "Anthocyanins",
    "slug": "anthocyanins",
    "count": 2,
-   "unresolved": true
+   "cid": 145858,
+   "formula": "C15H11O+",
+   "weight": "207.25",
+   "inchikey": "NWKFECICNXDNOQ-UHFFFAOYSA-N",
+   "smiles": "C1=CC=C(C=C1)C2=[O+]C3=CC=CC=C3C=C2",
+   "iupacName": "2-phenylchromenylium"
   },
   {
    "name": "Anthraquinones",
    "slug": "anthraquinones",
    "count": 2,
-   "unresolved": true
+   "cid": 6780,
+   "formula": "C14H8O2",
+   "weight": "208.21",
+   "inchikey": "RZVHIXYEVGDQDX-UHFFFAOYSA-N",
+   "smiles": "C1=CC=C2C(=C1)C(=O)C3=CC=CC=C3C2=O",
+   "iupacName": "anthracene-9,10-dione"
   },
   {
    "name": "Antioxidant",
    "slug": "antioxidant",
    "count": 2,
-   "unresolved": true
+   "cid": 93405,
+   "formula": "C40H60N2O8",
+   "weight": "696.9",
+   "inchikey": "OXWDLAHVJDUQJM-UHFFFAOYSA-N",
+   "smiles": "CC(C)(C)C1=CC(=CC(=C1O)C(C)(C)C)CCC(=O)OCCNC(=O)C(=O)NCCOC(=O)CCC2=CC(=C(C(=C2)C(C)(C)C)O)C(C)(C)C",
+   "iupacName": "2-[[2-[2-[3-(3,5-ditert-butyl-4-hydroxyphenyl)propanoyloxy]ethylamino]-2-oxoacetyl]amino]ethyl 3-(3,5-ditert-butyl-4-hydroxyphenyl)propanoate"
   },
   {
    "name": "Aqueous decoction",
@@ -653,79 +932,155 @@
    "name": "Arjunic acid",
    "slug": "arjunic-acid",
    "count": 2,
-   "unresolved": true
+   "cid": 15385516,
+   "formula": "C30H48O5",
+   "weight": "488.7",
+   "inchikey": "XJMYUPJDAFKICJ-YZTGESMESA-N",
+   "smiles": "CC1(CCC2(CCC3(C(=CCC4C3(CCC5C4(CC(C(C5(C)C)O)O)C)C)C2C1O)C)C(=O)O)C",
+   "iupacName": "(1S,4aR,6aR,6aS,6bR,8aR,10R,11R,12aR,14bS)-1,10,11-trihydroxy-2,2,6a,6b,9,9,12a-heptamethyl-1,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydropicene-4a-carboxylic acid"
   },
   {
    "name": "Arjunolic acid",
    "slug": "arjunolic-acid",
    "count": 2,
-   "unresolved": true
-  },
-  {
-   "name": "Ascorbic acid",
-   "slug": "ascorbic-acid",
-   "count": 2,
-   "unresolved": true
+   "cid": 73641,
+   "formula": "C30H48O5",
+   "weight": "488.7",
+   "inchikey": "RWNHLTKFBKYDOJ-DDHMHSPCSA-N",
+   "smiles": "CC1(CCC2(CCC3(C(=CCC4C3(CCC5C4(CC(C(C5(C)CO)O)O)C)C)C2C1)C)C(=O)O)C",
+   "iupacName": "(4aS,6aR,6aS,6bR,8aR,9R,10R,11R,12aR,14bS)-10,11-dihydroxy-9-(hydroxymethyl)-2,2,6a,6b,9,12a-hexamethyl-1,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydropicene-4a-carboxylic acid"
   },
   {
    "name": "Berberine",
    "slug": "berberine",
    "count": 2,
-   "unresolved": true
+   "cid": 2353,
+   "formula": "C20H18NO4+",
+   "weight": "336.4",
+   "inchikey": "YBHILYKTIRIUTE-UHFFFAOYSA-N",
+   "smiles": "COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC5=C(C=C4CC3)OCO5)OC",
+   "iupacName": "16,17-dimethoxy-5,7-dioxa-13-azoniapentacyclo[11.8.0.02,10.04,8.015,20]henicosa-1(13),2,4(8),9,14,16,18,20-octaene"
   },
   {
    "name": "Bergapten",
    "slug": "bergapten",
    "count": 2,
-   "unresolved": true
+   "cid": 2355,
+   "formula": "C12H8O4",
+   "weight": "216.19",
+   "inchikey": "BGEBZHIAGXMEMV-UHFFFAOYSA-N",
+   "smiles": "COC1=C2C=CC(=O)OC2=CC3=C1C=CO3",
+   "iupacName": "4-methoxyfuro[3,2-g]chromen-7-one"
   },
   {
    "name": "Beta-carotene",
    "slug": "beta-carotene",
    "count": 2,
-   "unresolved": true
+   "cid": 5280489,
+   "formula": "C40H56",
+   "weight": "536.9",
+   "inchikey": "OENHQHLEOONYIE-JLTXGRSLSA-N",
+   "smiles": "CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2=C(CCCC2(C)C)C)C)C",
+   "iupacName": "1,3,3-trimethyl-2-[(1E,3E,5E,7E,9E,11E,13E,15E,17E)-3,7,12,16-tetramethyl-18-(2,6,6-trimethylcyclohexen-1-yl)octadeca-1,3,5,7,9,11,13,15,17-nonaenyl]cyclohexene"
   },
   {
    "name": "Beta-pinene",
    "slug": "beta-pinene",
    "count": 2,
-   "unresolved": true
+   "cid": 14896,
+   "formula": "C10H16",
+   "weight": "136.23",
+   "inchikey": "WTARULDDTDQWMU-UHFFFAOYSA-N",
+   "smiles": "CC1(C2CCC(=C)C1C2)C",
+   "iupacName": "6,6-dimethyl-2-methylidenebicyclo[3.1.1]heptane"
   },
   {
    "name": "Betaine",
    "slug": "betaine",
    "count": 2,
-   "unresolved": true
+   "cid": 247,
+   "formula": "C5H11NO2",
+   "weight": "117.15",
+   "inchikey": "KWIUHFFTVRNATP-UHFFFAOYSA-N",
+   "smiles": "C[N+](C)(C)CC(=O)[O-]",
+   "iupacName": "2-(trimethylazaniumyl)acetate"
   },
   {
    "name": "Betulin",
    "slug": "betulin",
    "count": 2,
-   "unresolved": true
+   "cid": 72326,
+   "formula": "C30H50O2",
+   "weight": "442.7",
+   "inchikey": "FVWJYYTZTCVBKE-ROUWMTJPSA-N",
+   "smiles": "CC(=C)C1CCC2(C1C3CCC4C5(CCC(C(C5CCC4(C3(CC2)C)C)(C)C)O)C)CO",
+   "iupacName": "(1R,3aS,5aR,5bR,7aR,9S,11aR,11bR,13aR,13bR)-3a-(hydroxymethyl)-5a,5b,8,8,11a-pentamethyl-1-prop-1-en-2-yl-1,2,3,4,5,6,7,7a,9,10,11,11b,12,13,13a,13b-hexadecahydrocyclopenta[a]chrysen-9-ol"
   },
   {
    "name": "Calcium",
    "slug": "calcium",
    "count": 2,
-   "unresolved": true
+   "cid": 5460341,
+   "formula": "Ca",
+   "weight": "40.08",
+   "inchikey": "OYPRJOBELJOOCE-UHFFFAOYSA-N",
+   "smiles": "[Ca]",
+   "iupacName": "calcium"
   },
   {
    "name": "Calcium carbonate",
    "slug": "calcium-carbonate",
    "count": 2,
-   "unresolved": true
+   "cid": 10112,
+   "formula": "CCaO3",
+   "weight": "100.09",
+   "inchikey": "VTYYLEPIZMXCLO-UHFFFAOYSA-L",
+   "smiles": "C(=O)([O-])[O-].[Ca+2]",
+   "iupacName": "calcium carbonate"
+  },
+  {
+   "name": "Caryophyllene",
+   "slug": "caryophyllene",
+   "count": 2,
+   "cid": 5281515,
+   "formula": "C15H24",
+   "weight": "204.35",
+   "inchikey": "NPNUFJAVOOONJE-GFUGXAQUSA-N",
+   "smiles": "CC1=CCCC(=C)C2CC(C2CC1)(C)C",
+   "iupacName": "(1R,4E,9S)-4,11,11-trimethyl-8-methylidenebicyclo[7.2.0]undec-4-ene"
   },
   {
    "name": "Catechins",
    "slug": "catechins",
    "count": 2,
-   "unresolved": true
+   "cid": 1203,
+   "formula": "C15H14O6",
+   "weight": "290.27",
+   "inchikey": "PFTAWBLQPZVEMU-UHFFFAOYSA-N",
+   "smiles": "C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O",
+   "iupacName": "2-(3,4-dihydroxyphenyl)-3,4-dihydro-2H-chromene-3,5,7-triol"
+  },
+  {
+   "name": "Catechol",
+   "slug": "catechol",
+   "count": 2,
+   "cid": 289,
+   "formula": "C6H6O2",
+   "weight": "110.11",
+   "inchikey": "YCIMNLLNPGFGHC-UHFFFAOYSA-N",
+   "smiles": "C1=CC=C(C(=C1)O)O",
+   "iupacName": "benzene-1,2-diol"
   },
   {
    "name": "Chebulic acid",
    "slug": "chebulic-acid",
    "count": 2,
-   "unresolved": true
+   "cid": 71308174,
+   "formula": "C14H12O11",
+   "weight": "356.24",
+   "inchikey": "COZMWVAACFYLBI-XJEVXTIOSA-N",
+   "smiles": "C1=C2C(=C(C(=C1O)O)O)C(C(OC2=O)C(=O)O)C(CC(=O)O)C(=O)O",
+   "iupacName": "(2S)-2-[(3S,4S)-3-carboxy-5,6,7-trihydroxy-1-oxo-3,4-dihydroisochromen-4-yl]butanedioic acid"
   },
   {
    "name": "Cold maceration",
@@ -749,13 +1104,34 @@
    "name": "Crocetin",
    "slug": "crocetin",
    "count": 2,
-   "unresolved": true
+   "cid": 5281232,
+   "formula": "C20H24O4",
+   "weight": "328.4",
+   "inchikey": "PANKHBYNKQNAHN-MQQNZMFNSA-N",
+   "smiles": "CC(=CC=CC=C(C)C=CC=C(C)C(=O)O)C=CC=C(C)C(=O)O",
+   "iupacName": "(2E,4E,6E,8E,10E,12E,14E)-2,6,11,15-tetramethylhexadeca-2,4,6,8,10,12,14-heptaenedioic acid"
   },
   {
    "name": "Crocin",
    "slug": "crocin",
    "count": 2,
-   "unresolved": true
+   "cid": 5281233,
+   "formula": "C44H64O24",
+   "weight": "977.0",
+   "inchikey": "SEBIKDIMAPSUBY-RTJKDTQDSA-N",
+   "smiles": "CC(=CC=CC=C(C)C=CC=C(C)C(=O)OC1C(C(C(C(O1)COC2C(C(C(C(O2)CO)O)O)O)O)O)O)C=CC=C(C)C(=O)OC3C(C(C(C(O3)COC4C(C(C(C(O4)CO)O)O)O)O)O)O",
+   "iupacName": "bis[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-[[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]oxan-2-yl] (2E,4E,6E,8E,10E,12E,14E)-2,6,11,15-tetramethylhexadeca-2,4,6,8,10,12,14-heptaenedioate"
+  },
+  {
+   "name": "Curlone",
+   "slug": "curlone",
+   "count": 2,
+   "cid": 196216,
+   "formula": "C15H22O",
+   "weight": "218.33",
+   "inchikey": "JIJQKFPGBBEJNF-UHFFFAOYSA-N",
+   "smiles": "CC(CC(=O)C=C(C)C)C1CCC(=C)C=C1",
+   "iupacName": "2-methyl-6-(4-methylidenecyclohex-2-en-1-yl)hept-2-en-4-one"
   },
   {
    "name": "Dietary fiber",
@@ -785,25 +1161,45 @@
    "name": "Gamma-terpinene",
    "slug": "gamma-terpinene",
    "count": 2,
-   "unresolved": true
+   "cid": 7461,
+   "formula": "C10H16",
+   "weight": "136.23",
+   "inchikey": "YKFLAYDHMOASIY-UHFFFAOYSA-N",
+   "smiles": "CC1=CCC(=CC1)C(C)C",
+   "iupacName": "1-methyl-4-propan-2-ylcyclohexa-1,4-diene"
   },
   {
    "name": "Garcinol",
    "slug": "garcinol",
    "count": 2,
-   "unresolved": true
+   "cid": 5281560,
+   "formula": "C38H50O6",
+   "weight": "602.8",
+   "inchikey": "DTTONLKLWRTCAB-BZSUNBQASA-N",
+   "smiles": "CC(=CCC1CC2(C(=O)C(=C(C3=CC(=C(C=C3)O)O)O)C(=O)C(C2=O)(C1(C)C)CC=C(C)C)CC(CC=C(C)C)C(=C)C)C",
+   "iupacName": "(1S,3Z,5R,7R)-3-[(3,4-dihydroxyphenyl)-hydroxymethylidene]-6,6-dimethyl-5,7-bis(3-methylbut-2-enyl)-1-[(2S)-5-methyl-2-prop-1-en-2-ylhex-4-enyl]bicyclo[3.3.1]nonane-2,4,9-trione"
   },
   {
    "name": "Hesperidin",
    "slug": "hesperidin",
    "count": 2,
-   "unresolved": true
+   "cid": 10621,
+   "formula": "C28H34O15",
+   "weight": "610.6",
+   "inchikey": "QUQPHWDTPGMPEX-QJBIFVCTSA-N",
+   "smiles": "CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC(=C(C=C5)OC)O)O)O)O)O)O)O)O",
+   "iupacName": "(2S)-5-hydroxy-2-(3-hydroxy-4-methoxyphenyl)-7-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-[[(2R,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxymethyl]oxan-2-yl]oxy-2,3-dihydrochromen-4-one"
   },
   {
    "name": "Hispidulin",
    "slug": "hispidulin",
    "count": 2,
-   "unresolved": true
+   "cid": 5281628,
+   "formula": "C16H12O6",
+   "weight": "300.26",
+   "inchikey": "IHFBPDAQLQOCBX-UHFFFAOYSA-N",
+   "smiles": "COC1=C(C2=C(C=C1O)OC(=CC2=O)C3=CC=C(C=C3)O)O",
+   "iupacName": "5,7-dihydroxy-2-(4-hydroxyphenyl)-6-methoxychromen-4-one"
   },
   {
    "name": "Hydroalcoholic extraction",
@@ -815,7 +1211,12 @@
    "name": "Hydroxycitric acid",
    "slug": "hydroxycitric-acid",
    "count": 2,
-   "unresolved": true
+   "cid": 123908,
+   "formula": "C6H8O8",
+   "weight": "208.12",
+   "inchikey": "ZMJBYMUCKBYSCP-UHFFFAOYSA-N",
+   "smiles": "C(C(=O)O)C(C(C(=O)O)O)(C(=O)O)O",
+   "iupacName": "1,2-dihydroxypropane-1,2,3-tricarboxylic acid"
   },
   {
    "name": "Inulin",
@@ -827,73 +1228,144 @@
    "name": "Iodine",
    "slug": "iodine",
    "count": 2,
-   "unresolved": true
+   "cid": 807,
+   "formula": "I2",
+   "weight": "253.8089",
+   "inchikey": "PNDPGZBMCMUPRI-UHFFFAOYSA-N",
+   "smiles": "II",
+   "iupacName": "molecular iodine"
   },
   {
    "name": "Iron sulfide",
    "slug": "iron-sulfide",
    "count": 2,
-   "unresolved": true
+   "cid": 160957,
+   "formula": "Fe2S3",
+   "weight": "207.9",
+   "inchikey": "KAEAMHPPLLJBKF-UHFFFAOYSA-N",
+   "smiles": "[S-2].[S-2].[S-2].[Fe+3].[Fe+3]",
+   "iupacName": "bis(iron(3+));trisulfide"
   },
   {
    "name": "Isopelletierine",
    "slug": "isopelletierine",
    "count": 2,
-   "unresolved": true
+   "cid": 92987,
+   "formula": "C8H15NO",
+   "weight": "141.21",
+   "inchikey": "JEIZLWNUBXHADF-UHFFFAOYSA-N",
+   "smiles": "CC(=O)CC1CCCCN1",
+   "iupacName": "1-piperidin-2-ylpropan-2-one"
   },
   {
    "name": "Isoquercetin",
    "slug": "isoquercetin",
    "count": 2,
-   "unresolved": true
+   "cid": 5280804,
+   "formula": "C21H20O12",
+   "weight": "464.4",
+   "inchikey": "OVSQVDMCBVZWGM-QSOFNFLRSA-N",
+   "smiles": "C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O)O",
+   "iupacName": "2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one"
   },
   {
    "name": "Jatrorrhizine",
    "slug": "jatrorrhizine",
    "count": 2,
-   "unresolved": true
+   "cid": 72323,
+   "formula": "C20H20NO4+",
+   "weight": "338.4",
+   "inchikey": "MXTLAHSTUOXGQF-UHFFFAOYSA-O",
+   "smiles": "COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)O)OC)OC",
+   "iupacName": "2,9,10-trimethoxy-5,6-dihydroisoquinolino[2,1-b]isoquinolin-7-ium-3-ol"
   },
   {
    "name": "Lanosterol",
    "slug": "lanosterol",
    "count": 2,
-   "unresolved": true
+   "cid": 246983,
+   "formula": "C30H50O",
+   "weight": "426.7",
+   "inchikey": "CAHGCLMLTWQZNJ-BQNIITSRSA-N",
+   "smiles": "CC(CCC=C(C)C)C1CCC2(C1(CCC3=C2CCC4C3(CCC(C4(C)C)O)C)C)C",
+   "iupacName": "(3S,5R,10S,13R,14R,17R)-4,4,10,13,14-pentamethyl-17-[(2R)-6-methylhept-5-en-2-yl]-2,3,5,6,7,11,12,15,16,17-decahydro-1H-cyclopenta[a]phenanthren-3-ol"
   },
   {
    "name": "Lauric acid",
    "slug": "lauric-acid",
    "count": 2,
-   "unresolved": true
+   "cid": 3893,
+   "formula": "C12H24O2",
+   "weight": "200.32",
+   "inchikey": "POULHZVOKOAJMA-UHFFFAOYSA-N",
+   "smiles": "CCCCCCCCCCCC(=O)O",
+   "iupacName": "dodecanoic acid"
   },
   {
    "name": "Linoleic acid",
    "slug": "linoleic-acid",
    "count": 2,
-   "unresolved": true
+   "cid": 5280450,
+   "formula": "C18H32O2",
+   "weight": "280.4",
+   "inchikey": "OYHQOLUKZRVURQ-HZJYTTRNSA-N",
+   "smiles": "CCCCCC=CCC=CCCCCCCCC(=O)O",
+   "iupacName": "(9Z,12Z)-octadeca-9,12-dienoic acid"
   },
   {
    "name": "Magnoflorine",
    "slug": "magnoflorine",
    "count": 2,
-   "unresolved": true
+   "cid": 73337,
+   "formula": "C20H24NO4+",
+   "weight": "342.4",
+   "inchikey": "YLRXAIKMLINXQY-ZDUSSCGKSA-O",
+   "smiles": "C[N+]1(CCC2=CC(=C(C3=C2C1CC4=C3C(=C(C=C4)OC)O)O)OC)C",
+   "iupacName": "(6aS)-2,10-dimethoxy-6,6-dimethyl-5,6,6a,7-tetrahydro-4H-dibenzo[de,g]quinolin-6-ium-1,11-diol"
   },
   {
    "name": "Mannitol",
    "slug": "mannitol",
    "count": 2,
-   "unresolved": true
+   "cid": 6251,
+   "formula": "C6H14O6",
+   "weight": "182.17",
+   "inchikey": "FBPFZTCFMRRESA-KVTDHHQDSA-N",
+   "smiles": "C(C(C(C(C(CO)O)O)O)O)O",
+   "iupacName": "(2R,3R,4R,5R)-hexane-1,2,3,4,5,6-hexol"
+  },
+  {
+   "name": "P-cymene",
+   "slug": "p-cymene",
+   "count": 2,
+   "cid": 7463,
+   "formula": "C10H14",
+   "weight": "134.22",
+   "inchikey": "HFPZCAJZSCWRBC-UHFFFAOYSA-N",
+   "smiles": "CC1=CC=C(C=C1)C(C)C",
+   "iupacName": "1-methyl-4-propan-2-ylbenzene"
   },
   {
    "name": "Palmatine",
    "slug": "palmatine",
    "count": 2,
-   "unresolved": true
+   "cid": 19009,
+   "formula": "C21H22NO4+",
+   "weight": "352.4",
+   "inchikey": "QUCQEUCGKKTEBI-UHFFFAOYSA-N",
+   "smiles": "COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)OC)OC)OC",
+   "iupacName": "2,3,9,10-tetramethoxy-5,6-dihydroisoquinolino[2,1-b]isoquinolin-7-ium"
   },
   {
    "name": "Pellitorine",
    "slug": "pellitorine",
    "count": 2,
-   "unresolved": true
+   "cid": 5318516,
+   "formula": "C14H25NO",
+   "weight": "223.35",
+   "inchikey": "MAGQQZHFHJDIRE-BNFZFUHLSA-N",
+   "smiles": "CCCCCC=CC=CC(=O)NCC(C)C",
+   "iupacName": "(2E,4E)-N-(2-methylpropyl)deca-2,4-dienamide"
   },
   {
    "name": "Phenolic acids",
@@ -911,31 +1383,56 @@
    "name": "Phosphorus",
    "slug": "phosphorus",
    "count": 2,
-   "unresolved": true
+   "cid": 5462309,
+   "formula": "P",
+   "weight": "30.97376200",
+   "inchikey": "OAICVXFJPJFONN-UHFFFAOYSA-N",
+   "smiles": "[P]",
+   "iupacName": "phosphane"
   },
   {
    "name": "Physcion",
    "slug": "physcion",
    "count": 2,
-   "unresolved": true
+   "cid": 10639,
+   "formula": "C16H12O5",
+   "weight": "284.26",
+   "inchikey": "FFWOKTFYGVYKIR-UHFFFAOYSA-N",
+   "smiles": "CC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)OC",
+   "iupacName": "1,8-dihydroxy-3-methoxy-6-methylanthracene-9,10-dione"
   },
   {
    "name": "Picrocrocin",
    "slug": "picrocrocin",
    "count": 2,
-   "unresolved": true
+   "cid": 130796,
+   "formula": "C16H26O7",
+   "weight": "330.37",
+   "inchikey": "WMHJCSAICLADIN-WYWSWGBSSA-N",
+   "smiles": "CC1=C(C(CC(C1)OC2C(C(C(C(O2)CO)O)O)O)(C)C)C=O",
+   "iupacName": "(4R)-2,6,6-trimethyl-4-[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxycyclohexene-1-carbaldehyde"
   },
   {
    "name": "Piperlongumine",
    "slug": "piperlongumine",
    "count": 2,
-   "unresolved": true
+   "cid": 637858,
+   "formula": "C17H19NO5",
+   "weight": "317.34",
+   "inchikey": "VABYUUZNAVQNPG-BQYQJAHWSA-N",
+   "smiles": "COC1=CC(=CC(=C1OC)OC)C=CC(=O)N2CCC=CC2=O",
+   "iupacName": "1-[(E)-3-(3,4,5-trimethoxyphenyl)prop-2-enoyl]-2,3-dihydropyridin-6-one"
   },
   {
    "name": "Plumbagin",
    "slug": "plumbagin",
    "count": 2,
-   "unresolved": true
+   "cid": 10205,
+   "formula": "C11H8O3",
+   "weight": "188.18",
+   "inchikey": "VCMMXZQDRFWYSE-UHFFFAOYSA-N",
+   "smiles": "CC1=CC(=O)C2=C(C1=O)C=CC=C2O",
+   "iupacName": "5-hydroxy-2-methylnaphthalene-1,4-dione"
   },
   {
    "name": "Present",
@@ -953,103 +1450,188 @@
    "name": "Pterostilbene",
    "slug": "pterostilbene",
    "count": 2,
-   "unresolved": true
+   "cid": 5281727,
+   "formula": "C16H16O3",
+   "weight": "256.30",
+   "inchikey": "VLEUZFDZJKSGMX-ONEGZZNKSA-N",
+   "smiles": "COC1=CC(=CC(=C1)C=CC2=CC=C(C=C2)O)OC",
+   "iupacName": "4-[(E)-2-(3,5-dimethoxyphenyl)ethenyl]phenol"
   },
   {
    "name": "Punicalagin",
    "slug": "punicalagin",
    "count": 2,
-   "unresolved": true
+   "cid": 16129719,
+   "formula": "C48H28O30",
+   "weight": "1084.7",
+   "inchikey": "SKNLUADAGHCXKF-UHFFFAOYSA-N",
+   "smiles": "C1C(C(OC(=O)C2=CC(=C(C(=C2C3=C(C(=C4C5=C3C(=O)OC6=C(C(=C(C7=C(C(=C(C=C7C(=O)O1)O)O)O)C(=C56)C(=O)O4)O)O)O)O)O)O)O)C8C(OC(=O)C9=CC(=C(C(=C9C1=C(C(=C(C=C1C(=O)O8)O)O)O)O)O)O)C=O)O",
+   "iupacName": "3,4,5,16,17,18-hexahydroxy-8,13-dioxo-11-(3,4,5,11,17,18,19,22,23,34,35-undecahydroxy-8,14,26,31-tetraoxo-9,13,25,32-tetraoxaheptacyclo[25.8.0.02,7.015,20.021,30.024,29.028,33]pentatriaconta-1(35),2,4,6,15,17,19,21,23,27,29,33-dodecaen-10-yl)-9,12-dioxatricyclo[12.4.0.02,7]octadeca-1(18),2,4,6,14,16-hexaene-10-carbaldehyde"
   },
   {
    "name": "Quercitol",
    "slug": "quercitol",
    "count": 2,
-   "unresolved": true
+   "cid": 441437,
+   "formula": "C6H12O5",
+   "weight": "164.16",
+   "inchikey": "IMPKVMRTXBRHRB-MBMOQRBOSA-N",
+   "smiles": "C1C(C(C(C(C1O)O)O)O)O",
+   "iupacName": "(1R,2S,4S,5R)-cyclohexane-1,2,3,4,5-pentol"
   },
   {
    "name": "Rhamnose",
    "slug": "rhamnose",
    "count": 2,
-   "unresolved": true
+   "cid": 25310,
+   "formula": "C6H12O5",
+   "weight": "164.16",
+   "inchikey": "SHZGCJCMOBCMKK-JFNONXLTSA-N",
+   "smiles": "CC1C(C(C(C(O1)O)O)O)O",
+   "iupacName": "(3R,4R,5R,6S)-6-methyloxane-2,3,4,5-tetrol"
   },
   {
    "name": "Riboflavin",
    "slug": "riboflavin",
    "count": 2,
-   "unresolved": true
+   "cid": 493570,
+   "formula": "C17H20N4O6",
+   "weight": "376.4",
+   "inchikey": "AUNGANRZJHBGPY-SCRDCRAPSA-N",
+   "smiles": "CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(CO)O)O)O",
+   "iupacName": "7,8-dimethyl-10-[(2S,3S,4R)-2,3,4,5-tetrahydroxypentyl]benzo[g]pteridine-2,4-dione"
   },
   {
    "name": "Rosmarinic acid",
    "slug": "rosmarinic-acid",
    "count": 2,
-   "unresolved": true
+   "cid": 5281792,
+   "formula": "C18H16O8",
+   "weight": "360.3",
+   "inchikey": "DOUMFZQKYFQNTF-WUTVXBCWSA-N",
+   "smiles": "C1=CC(=C(C=C1CC(C(=O)O)OC(=O)C=CC2=CC(=C(C=C2)O)O)O)O",
+   "iupacName": "(2R)-3-(3,4-dihydroxyphenyl)-2-[(E)-3-(3,4-dihydroxyphenyl)prop-2-enoyl]oxypropanoic acid"
   },
   {
    "name": "Rubrofusarin",
    "slug": "rubrofusarin",
    "count": 2,
-   "unresolved": true
+   "cid": 72537,
+   "formula": "C15H12O5",
+   "weight": "272.25",
+   "inchikey": "FPNKCZKRICBAKG-UHFFFAOYSA-N",
+   "smiles": "CC1=CC(=O)C2=C(C3=C(C=C(C=C3C=C2O1)OC)O)O",
+   "iupacName": "5,6-dihydroxy-8-methoxy-2-methylbenzo[g]chromen-4-one"
   },
   {
    "name": "Scopoletin",
    "slug": "scopoletin",
    "count": 2,
-   "unresolved": true
+   "cid": 5280460,
+   "formula": "C10H8O4",
+   "weight": "192.17",
+   "inchikey": "RODXRVNMMDRFIK-UHFFFAOYSA-N",
+   "smiles": "COC1=C(C=C2C(=C1)C=CC(=O)O2)O",
+   "iupacName": "7-hydroxy-6-methoxychromen-2-one"
   },
   {
    "name": "Sodium sulfate",
    "slug": "sodium-sulfate",
    "count": 2,
-   "unresolved": true
+   "cid": 24436,
+   "formula": "Na2O4S",
+   "weight": "142.04",
+   "inchikey": "PMZURENOXWZQFD-UHFFFAOYSA-L",
+   "smiles": "[O-]S(=O)(=O)[O-].[Na+].[Na+]",
+   "iupacName": "disodium;sulfate"
   },
   {
    "name": "Spinasterol",
    "slug": "spinasterol",
    "count": 2,
-   "unresolved": true
+   "cid": 5281331,
+   "formula": "C29H48O",
+   "weight": "412.7",
+   "inchikey": "JZVFJDZBLUFKCA-FXIAWGAOSA-N",
+   "smiles": "CCC(C=CC(C)C1CCC2C1(CCC3C2=CCC4C3(CCC(C4)O)C)C)C(C)C",
+   "iupacName": "(3S,5S,9R,10S,13R,14R,17R)-17-[(E,2R,5S)-5-ethyl-6-methylhept-3-en-2-yl]-10,13-dimethyl-2,3,4,5,6,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-ol"
   },
   {
    "name": "Stearic acid",
    "slug": "stearic-acid",
    "count": 2,
-   "unresolved": true
+   "cid": 5281,
+   "formula": "C18H36O2",
+   "weight": "284.5",
+   "inchikey": "QIQXTHQIDYTFRH-UHFFFAOYSA-N",
+   "smiles": "CCCCCCCCCCCCCCCCCC(=O)O",
+   "iupacName": "octadecanoic acid"
   },
   {
    "name": "Sterols",
    "slug": "sterols",
    "count": 2,
-   "unresolved": true
+   "cid": 1107,
+   "formula": "C17H28O",
+   "weight": "248.4",
+   "inchikey": "FPXSXMFOYWRHDX-UHFFFAOYSA-N",
+   "smiles": "C1CC2CCC3C4CCC(CC4CCC3C2C1)O",
+   "iupacName": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17-hexadecahydro-1H-cyclopenta[a]phenanthren-3-ol"
   },
   {
    "name": "Tannic acid",
    "slug": "tannic-acid",
    "count": 2,
-   "unresolved": true
+   "cid": 16129778,
+   "formula": "C76H52O46",
+   "weight": "1701.2",
+   "inchikey": "LRBQNJMCXXYXIU-PPKXGCFTSA-N",
+   "smiles": "C1=C(C=C(C(=C1O)O)O)C(=O)OC2=CC(=CC(=C2O)O)C(=O)OCC3C(C(C(C(O3)OC(=O)C4=CC(=C(C(=C4)OC(=O)C5=CC(=C(C(=C5)O)O)O)O)O)OC(=O)C6=CC(=C(C(=C6)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)OC(=O)C9=CC(=C(C(=C9)O)O)O)O)O)OC(=O)C1=CC(=C(C(=C1)OC(=O)C1=CC(=C(C(=C1)O)O)O)O)O",
+   "iupacName": "[2,3-dihydroxy-5-[[(2R,3R,4S,5R,6S)-3,4,5,6-tetrakis[[3,4-dihydroxy-5-(3,4,5-trihydroxybenzoyl)oxybenzoyl]oxy]oxan-2-yl]methoxycarbonyl]phenyl] 3,4,5-trihydroxybenzoate"
   },
   {
    "name": "Taraxerol",
    "slug": "taraxerol",
    "count": 2,
-   "unresolved": true
+   "cid": 92097,
+   "formula": "C30H50O",
+   "weight": "426.7",
+   "inchikey": "GGGUGZHBAOMSFJ-GADYQYKKSA-N",
+   "smiles": "CC1(CCC2(CC=C3C4(CCC5C(C(CCC5(C4CCC3(C2C1)C)C)O)(C)C)C)C)C",
+   "iupacName": "(3S,4aR,6aR,6aS,8aR,12aR,14aR,14bR)-4,4,6a,6a,8a,11,11,14b-octamethyl-1,2,3,4a,5,6,8,9,10,12,12a,13,14,14a-tetradecahydropicen-3-ol"
   },
   {
    "name": "Thymohydroquinone",
    "slug": "thymohydroquinone",
    "count": 2,
-   "unresolved": true
+   "cid": 95779,
+   "formula": "C10H14O2",
+   "weight": "166.22",
+   "inchikey": "OQIOHYHRGZNZCW-UHFFFAOYSA-N",
+   "smiles": "CC1=CC(=C(C=C1O)C(C)C)O",
+   "iupacName": "2-methyl-5-propan-2-ylbenzene-1,4-diol"
   },
   {
    "name": "Thymoquinone",
    "slug": "thymoquinone",
    "count": 2,
-   "unresolved": true
+   "cid": 10281,
+   "formula": "C10H12O2",
+   "weight": "164.20",
+   "inchikey": "KEQHJBNSCLWCAE-UHFFFAOYSA-N",
+   "smiles": "CC1=CC(=O)C(=CC1=O)C(C)C",
+   "iupacName": "2-methyl-5-propan-2-ylcyclohexa-2,5-diene-1,4-dione"
   },
   {
    "name": "Toralactone",
    "slug": "toralactone",
    "count": 2,
-   "unresolved": true
+   "cid": 5321980,
+   "formula": "C15H12O5",
+   "weight": "272.25",
+   "inchikey": "WEHXAEGTVPWKDY-UHFFFAOYSA-N",
+   "smiles": "CC1=CC2=CC3=CC(=CC(=C3C(=C2C(=O)O1)O)O)OC",
+   "iupacName": "9,10-dihydroxy-7-methoxy-3-methylbenzo[g]isochromen-1-one"
   },
   {
    "name": "Trace minerals",
@@ -1061,13 +1643,12 @@
    "name": "Vanillic acid",
    "slug": "vanillic-acid",
    "count": 2,
-   "unresolved": true
-  },
-  {
-   "name": "Vitamin C",
-   "slug": "vitamin-c",
-   "count": 2,
-   "unresolved": true
+   "cid": 8468,
+   "formula": "C8H8O4",
+   "weight": "168.15",
+   "inchikey": "WKOLLVMJNQIZCI-UHFFFAOYSA-N",
+   "smiles": "COC1=C(C=CC(=C1)C(=O)O)O",
+   "iupacName": "4-hydroxy-3-methoxybenzoic acid"
   },
   {
    "name": "Xanthones",
@@ -1079,7 +1660,12 @@
    "name": "Zingiberene",
    "slug": "zingiberene",
    "count": 2,
-   "unresolved": true
+   "cid": 92776,
+   "formula": "C15H24",
+   "weight": "204.35",
+   "inchikey": "KKOXKGNSUHTUBV-LSDHHAIUSA-N",
+   "smiles": "CC1=CCC(C=C1)C(C)CCC=C(C)C",
+   "iupacName": "(5R)-2-methyl-5-[(2S)-6-methylhept-5-en-2-yl]cyclohexa-1,3-diene"
   },
   {
    "name": "[Adhaki] Cajanus cajan Millsp",
@@ -1901,13 +2487,23 @@
    "name": "10-Deacetylbaccatin III",
    "slug": "10-deacetylbaccatin-iii",
    "count": 1,
-   "unresolved": true
+   "cid": 154272,
+   "formula": "C29H36O10",
+   "weight": "544.6",
+   "inchikey": "YWLXLRUDGLRYDR-ZHPRIASZSA-N",
+   "smiles": "CC1=C2C(C(=O)C3(C(CC4C(C3C(C(C2(C)C)(CC1O)O)OC(=O)C5=CC=CC=C5)(CO4)OC(=O)C)O)C)O",
+   "iupacName": "[(1S,2S,3R,4S,7R,9S,10S,12R,15S)-4-acetyloxy-1,9,12,15-tetrahydroxy-10,14,17,17-tetramethyl-11-oxo-6-oxatetracyclo[11.3.1.03,10.04,7]heptadec-13-en-2-yl] benzoate"
   },
   {
    "name": "12-Deoxywithastramonolide",
    "slug": "12-deoxywithastramonolide",
    "count": 1,
-   "unresolved": true
+   "cid": 44576309,
+   "formula": "C28H38O6",
+   "weight": "470.6",
+   "inchikey": "AWVMHXZWAKRDGG-MEBIVHGNSA-N",
+   "smiles": "CC1=C(C(=O)OC(C1)C(C)C2CCC3C2(CCC4C3C5C(O5)C6(C4(C(=O)C=CC6)C)O)C)CO",
+   "iupacName": "(1S,2S,4S,5R,10R,11S,14R,15R,18S)-5-hydroxy-15-[(1S)-1-[(2R)-5-(hydroxymethyl)-4-methyl-6-oxo-2,3-dihydropyran-2-yl]ethyl]-10,14-dimethyl-3-oxapentacyclo[9.7.0.02,4.05,10.014,18]octadec-7-en-9-one"
   },
   {
    "name": "16-alpha-hydroxyprotobassic acid",
@@ -1925,13 +2521,23 @@
    "name": "3-Acetyl-beta-boswellic acid",
    "slug": "3-acetyl-beta-boswellic-acid",
    "count": 1,
-   "unresolved": true
+   "cid": 11386458,
+   "formula": "C32H50O4",
+   "weight": "498.7",
+   "inchikey": "YJBVHJIKNLBFDX-MQURJEHKSA-N",
+   "smiles": "CC1CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C(=O)O)OC(=O)C)C)C)C2C1C)C)C",
+   "iupacName": "(3R,4R,4aR,6aR,6bS,8aR,11R,12S,12aR,14aR,14bR)-3-acetyloxy-4,6a,6b,8a,11,12,14b-heptamethyl-2,3,4a,5,6,7,8,9,10,11,12,12a,14,14a-tetradecahydro-1H-picene-4-carboxylic acid"
   },
   {
    "name": "3-alpha-Dihydrocadambine",
    "slug": "3-alpha-dihydrocadambine",
    "count": 1,
-   "unresolved": true
+   "cid": 162138,
+   "formula": "C27H34N2O10",
+   "weight": "546.6",
+   "inchikey": "HNZGKRAKJFZQAY-SBAWYOAKSA-N",
+   "smiles": "COC(=O)C1=COC(C2C1CC3C4=C(CCN3CC2O)C5=CC=CC=C5N4)OC6C(C(C(C(O6)CO)O)O)O",
+   "iupacName": "methyl (1S,15S,16S,17S,21S)-15-hydroxy-17-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-18-oxa-3,13-diazapentacyclo[11.9.0.02,10.04,9.016,21]docosa-2(10),4,6,8,19-pentaene-20-carboxylate"
   },
   {
    "name": "Abiesin",
@@ -1943,13 +2549,23 @@
    "name": "Achyranthine",
    "slug": "achyranthine",
    "count": 1,
-   "unresolved": true
+   "cid": 322598,
+   "formula": "C6H11NO2",
+   "weight": "129.16",
+   "inchikey": "LJGFIWDOHOWUOY-UHFFFAOYSA-N",
+   "smiles": "CN1CCC(C1)C(=O)O",
+   "iupacName": "1-methylpyrrolidine-3-carboxylic acid"
   },
   {
    "name": "Acteoside",
    "slug": "acteoside",
    "count": 1,
-   "unresolved": true
+   "cid": 5281800,
+   "formula": "C29H36O15",
+   "weight": "624.6",
+   "inchikey": "FBSKJMQYURKNSU-ZLSOWSIRSA-N",
+   "smiles": "CC1C(C(C(C(O1)OC2C(C(OC(C2OC(=O)C=CC3=CC(=C(C=C3)O)O)CO)OCCC4=CC(=C(C=C4)O)O)O)O)O)O",
+   "iupacName": "[(2R,3R,4R,5R,6R)-6-[2-(3,4-dihydroxyphenyl)ethoxy]-5-hydroxy-2-(hydroxymethyl)-4-[(2S,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-3-yl] (E)-3-(3,4-dihydroxyphenyl)prop-2-enoate"
   },
   {
    "name": "Aervine",
@@ -1967,79 +2583,133 @@
    "name": "Agnuside",
    "slug": "agnuside",
    "count": 1,
-   "unresolved": true
+   "cid": 442416,
+   "formula": "C22H26O11",
+   "weight": "466.4",
+   "inchikey": "GLACGTLACKLUJX-QNAXTHAFSA-N",
+   "smiles": "C1=COC(C2C1C(C=C2COC(=O)C3=CC=C(C=C3)O)O)OC4C(C(C(C(O4)CO)O)O)O",
+   "iupacName": "[(1S,4aR,5S,7aS)-5-hydroxy-1-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-1,4a,5,7a-tetrahydrocyclopenta[c]pyran-7-yl]methyl 4-hydroxybenzoate"
   },
   {
    "name": "Ajmalicine",
    "slug": "ajmalicine",
    "count": 1,
-   "unresolved": true
+   "cid": 441975,
+   "formula": "C21H24N2O3",
+   "weight": "352.4",
+   "inchikey": "GRTOGORTSDXSFK-XJTZBENFSA-N",
+   "smiles": "CC1C2CN3CCC4=C(C3CC2C(=CO1)C(=O)OC)NC5=CC=CC=C45",
+   "iupacName": "methyl (1S,15R,16S,20S)-16-methyl-17-oxa-3,13-diazapentacyclo[11.8.0.02,10.04,9.015,20]henicosa-2(10),4,6,8,18-pentaene-19-carboxylate"
   },
   {
    "name": "Ajmaline",
    "slug": "ajmaline",
    "count": 1,
-   "unresolved": true
+   "cid": 6100671,
+   "formula": "C20H26N2O2",
+   "weight": "326.4",
+   "inchikey": "CJDRUOGAGYHKKD-RQBLFBSQSA-N",
+   "smiles": "CCC1C2CC3C4C5(CC(C2C5O)N3C1O)C6=CC=CC=C6N4C",
+   "iupacName": "(1R,9R,10S,12R,13S,14R,16S,17S,18R)-13-ethyl-8-methyl-8,15-diazahexacyclo[14.2.1.01,9.02,7.010,15.012,17]nonadeca-2,4,6-triene-14,18-diol"
   },
   {
    "name": "Alangicine",
    "slug": "alangicine",
    "count": 1,
-   "unresolved": true
+   "cid": 442158,
+   "formula": "C28H36N2O5",
+   "weight": "480.6",
+   "inchikey": "RVJBPTBCDSPZDC-CEXJFXJFSA-N",
+   "smiles": "CCC1CN2CCC3=C(C(=C(C=C3C2CC1CC4=NCCC5=CC(=C(C=C54)OC)O)OC)OC)O",
+   "iupacName": "(2R,3R,11bS)-3-ethyl-2-[(6-hydroxy-7-methoxy-3,4-dihydroisoquinolin-1-yl)methyl]-9,10-dimethoxy-2,3,4,6,7,11b-hexahydro-1H-benzo[a]quinolizin-8-ol"
   },
   {
    "name": "Alangimarine",
    "slug": "alangimarine",
    "count": 1,
-   "unresolved": true
+   "cid": 442160,
+   "formula": "C19H16N2O3",
+   "weight": "320.3",
+   "inchikey": "JWOCTFIJQXTYOK-UHFFFAOYSA-N",
+   "smiles": "COC1=C(C=C2C(=C1)CCN3C2=CC4=C(C3=O)C=NC=C4C=C)O",
+   "iupacName": "12-ethenyl-2-hydroxy-3-methoxy-5,6-dihydroisoquinolino[2,1-b][2,7]naphthyridin-8-one"
   },
   {
    "name": "Alangine",
    "slug": "alangine",
    "count": 1,
-   "unresolved": true
+   "cid": 10851977,
+   "formula": "C18H25NO3",
+   "weight": "303.4",
+   "inchikey": "RXHZLYKOFROSQK-XEZPLFJOSA-N",
+   "smiles": "COC1=C(C=C2C3CC(CCN3CCC2=C1)C(CO)C=C)O",
+   "iupacName": "(2S,11bS)-2-[(2R)-1-hydroxybut-3-en-2-yl]-9-methoxy-2,3,4,6,7,11b-hexahydro-1H-benzo[a]quinolizin-10-ol"
   },
   {
    "name": "Alantolactone",
    "slug": "alantolactone",
    "count": 1,
-   "unresolved": true
+   "cid": 72724,
+   "formula": "C15H20O2",
+   "weight": "232.32",
+   "inchikey": "PXOYOCNNSUAQNS-AGNJHWRGSA-N",
+   "smiles": "CC1CCCC2(C1=CC3C(C2)OC(=O)C3=C)C",
+   "iupacName": "(3aR,5S,8aR,9aR)-5,8a-dimethyl-3-methylidene-5,6,7,8,9,9a-hexahydro-3aH-benzo[f][1]benzofuran-2-one"
   },
   {
    "name": "Aleuritic acid",
    "slug": "aleuritic-acid",
    "count": 1,
-   "unresolved": true
+   "cid": 10790,
+   "formula": "C16H32O5",
+   "weight": "304.42",
+   "inchikey": "MEHUJCGAYMDLEL-UHFFFAOYSA-N",
+   "smiles": "C(CCCC(C(CCCCCCO)O)O)CCCC(=O)O",
+   "iupacName": "9,10,16-trihydroxyhexadecanoic acid"
   },
   {
    "name": "Alizarin",
    "slug": "alizarin",
    "count": 1,
-   "unresolved": true
+   "cid": 6293,
+   "formula": "C14H8O4",
+   "weight": "240.21",
+   "inchikey": "RGCKGOZRHPZPFP-UHFFFAOYSA-N",
+   "smiles": "C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=C(C=C3)O)O",
+   "iupacName": "1,2-dihydroxyanthracene-9,10-dione"
   },
   {
    "name": "Allantoin",
    "slug": "allantoin",
    "count": 1,
-   "unresolved": true
+   "cid": 204,
+   "formula": "C4H6N4O3",
+   "weight": "158.12",
+   "inchikey": "POJWUDADGALRAB-UHFFFAOYSA-N",
+   "smiles": "C1(C(=O)NC(=O)N1)NC(=O)N",
+   "iupacName": "(2,5-dioxoimidazolidin-4-yl)urea"
   },
   {
    "name": "Allylcembrol",
    "slug": "allylcembrol",
    "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "Alpha-",
-   "slug": "alpha",
-   "count": 1,
-   "unresolved": true
+   "cid": 5368823,
+   "formula": "C20H34O",
+   "weight": "290.5",
+   "inchikey": "HVZNIISBCURSMR-UIZUMLDBSA-N",
+   "smiles": "CC1=CCCC(=CC(C(CCC(=CCC1)C)C(C)C)O)C",
+   "iupacName": "(2E,6Z,10E)-3,7,11-trimethyl-14-propan-2-ylcyclotetradeca-2,6,10-trien-1-ol"
   },
   {
    "name": "Alpha-amyrin",
    "slug": "alpha-amyrin",
    "count": 1,
-   "unresolved": true
+   "cid": 73170,
+   "formula": "C30H50O",
+   "weight": "426.7",
+   "inchikey": "FSLPMRQHCOLESF-SFMCKYFRSA-N",
+   "smiles": "CC1CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C)O)C)C)C2C1C)C)C",
+   "iupacName": "(3S,4aR,6aR,6bS,8aR,11R,12S,12aR,14aR,14bR)-4,4,6a,6b,8a,11,12,14b-octamethyl-2,3,4a,5,6,7,8,9,10,11,12,12a,14,14a-tetradecahydro-1H-picen-3-ol"
   },
   {
    "name": "Alpha-amyrin and beta-amyrin",
@@ -2051,7 +2721,12 @@
    "name": "Alpha-boswellic acid",
    "slug": "alpha-boswellic-acid",
    "count": 1,
-   "unresolved": true
+   "cid": 637234,
+   "formula": "C30H48O3",
+   "weight": "456.7",
+   "inchikey": "BZXULBWGROURAF-IKNLXHIFSA-N",
+   "smiles": "CC1(CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C(=O)O)O)C)C)C2C1)C)C)C",
+   "iupacName": "(3R,4R,4aR,6aR,6bS,8aR,12aR,14aR,14bR)-3-hydroxy-4,6a,6b,8a,11,11,14b-heptamethyl-1,2,3,4a,5,6,7,8,9,10,12,12a,14,14a-tetradecahydropicene-4-carboxylic acid"
   },
   {
    "name": "Alpha-galactosidase",
@@ -2063,25 +2738,45 @@
    "name": "Alpha-hederin",
    "slug": "alpha-hederin",
    "count": 1,
-   "unresolved": true
+   "cid": 73296,
+   "formula": "C41H66O12",
+   "weight": "751.0",
+   "inchikey": "KEOITPILCOILGM-LLJOFIFVSA-N",
+   "smiles": "CC1C(C(C(C(O1)OC2C(C(COC2OC3CCC4(C(C3(C)CO)CCC5(C4CC=C6C5(CCC7(C6CC(CC7)(C)C)C(=O)O)C)C)C)O)O)O)O)O",
+   "iupacName": "(4aS,6aR,6aS,6bR,8aR,9R,10S,12aR,14bS)-10-[(2S,3R,4S,5S)-4,5-dihydroxy-3-[(2S,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-2-yl]oxy-9-(hydroxymethyl)-2,2,6a,6b,9,12a-hexamethyl-1,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydropicene-4a-carboxylic acid"
   },
   {
    "name": "Alpha-himachalene",
    "slug": "alpha-himachalene",
    "count": 1,
-   "unresolved": true
+   "cid": 520909,
+   "formula": "C15H24",
+   "weight": "204.35",
+   "inchikey": "ZJSIKVDEOWWVEH-UHFFFAOYSA-N",
+   "smiles": "CC1=CC2C(CC1)C(=C)CCCC2(C)C",
+   "iupacName": "3,5,5-trimethyl-9-methylidene-2,4a,6,7,8,9a-hexahydro-1H-benzo[7]annulene"
   },
   {
    "name": "alpha-Humulene",
    "slug": "alpha-humulene",
    "count": 1,
-   "unresolved": true
+   "cid": 5281520,
+   "formula": "C15H24",
+   "weight": "204.35",
+   "inchikey": "FAMPSKZZVDUYOS-HRGUGZIWSA-N",
+   "smiles": "CC1=CCC(C=CCC(=CCC1)C)(C)C",
+   "iupacName": "(1E,4E,8E)-2,6,6,9-tetramethylcycloundeca-1,4,8-triene"
   },
   {
    "name": "Alpha-linolenic acid",
    "slug": "alpha-linolenic-acid",
    "count": 1,
-   "unresolved": true
+   "cid": 5280934,
+   "formula": "C18H30O2",
+   "weight": "278.4",
+   "inchikey": "DTOSIQBPPRVQHS-PDBXOOCHSA-N",
+   "smiles": "CCC=CCC=CCC=CCCCCCCCC(=O)O",
+   "iupacName": "(9Z,12Z,15Z)-octadeca-9,12,15-trienoic acid"
   },
   {
    "name": "Alpha-pinene and beta-pinene",
@@ -2093,13 +2788,23 @@
    "name": "Alpha-thujone",
    "slug": "alpha-thujone",
    "count": 1,
-   "unresolved": true
+   "cid": 261491,
+   "formula": "C10H16O",
+   "weight": "152.23",
+   "inchikey": "USMNOWBWPHYOEA-MRTMQBJTSA-N",
+   "smiles": "CC1C2CC2(CC1=O)C(C)C",
+   "iupacName": "(1S,4R,5R)-4-methyl-1-propan-2-ylbicyclo[3.1.0]hexan-3-one"
   },
   {
    "name": "Alpha-turmerone",
    "slug": "alpha-turmerone",
    "count": 1,
-   "unresolved": true
+   "cid": 14632996,
+   "formula": "C15H22O",
+   "weight": "218.33",
+   "inchikey": "XOCANRBEOZQNAQ-UHFFFAOYSA-N",
+   "smiles": "CC1=CCC(C=C1)C(C)CC(=O)C=C(C)C",
+   "iupacName": "2-methyl-6-(4-methylcyclohexa-2,4-dien-1-yl)hept-2-en-4-one"
   },
   {
    "name": "Alpha-turpethein",
@@ -2123,13 +2828,23 @@
    "name": "Amaranthine",
    "slug": "amaranthine",
    "count": 1,
-   "unresolved": true
+   "cid": 177827608,
+   "formula": "C30H34N2O19",
+   "weight": "726.6",
+   "inchikey": "ATSKDYKYMQVTGH-WWVMLBPBSA-N",
+   "smiles": "C1C(NC(=CC1=CC=[N+]2C(CC3=CC(=C(C=C32)O)OC4C(C(C(C(O4)CO)O)O)OC5C(C(C(C(O5)C(=O)O)O)O)O)C(=O)[O-])C(=O)O)C(=O)O",
+   "iupacName": "(2S)-5-[(2S,3R,4S,5S,6R)-3-[(2R,3R,4S,5S,6S)-6-carboxy-3,4,5-trihydroxyoxan-2-yl]oxy-4,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-1-[(2E)-2-(2,6-dicarboxy-2,3-dihydro-1H-pyridin-4-ylidene)ethylidene]-6-hydroxy-2,3-dihydroindol-1-ium-2-carboxylate"
   },
   {
    "name": "Amentoflavone",
    "slug": "amentoflavone",
    "count": 1,
-   "unresolved": true
+   "cid": 5281600,
+   "formula": "C30H18O10",
+   "weight": "538.5",
+   "inchikey": "YUSWMAULDXZHPY-UHFFFAOYSA-N",
+   "smiles": "C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)C4=C(C=CC(=C4)C5=CC(=O)C6=C(C=C(C=C6O5)O)O)O)O",
+   "iupacName": "8-[5-(5,7-dihydroxy-4-oxochromen-2-yl)-2-hydroxyphenyl]-5,7-dihydroxy-2-(4-hydroxyphenyl)chromen-4-one"
   },
   {
    "name": "Amla",
@@ -2147,7 +2862,12 @@
    "name": "Anaferine",
    "slug": "anaferine",
    "count": 1,
-   "unresolved": true
+   "cid": 443143,
+   "formula": "C13H24N2O",
+   "weight": "224.34",
+   "inchikey": "JFMCQBGTUJUOAB-VXGBXAGGSA-N",
+   "smiles": "C1CCNC(C1)CC(=O)CC2CCCCN2",
+   "iupacName": "1,3-bis[(2R)-piperidin-2-yl]propan-2-one"
   },
   {
    "name": "Anahygrine",
@@ -2159,13 +2879,23 @@
    "name": "Androstenone",
    "slug": "androstenone",
    "count": 1,
-   "unresolved": true
+   "cid": 6852393,
+   "formula": "C19H28O",
+   "weight": "272.4",
+   "inchikey": "HFVMLYAGWXSTQI-QYXZOKGRSA-N",
+   "smiles": "CC12CCC3C(C1CC=C2)CCC4C3(CCC(=O)C4)C",
+   "iupacName": "(5S,8R,9S,10S,13R,14S)-10,13-dimethyl-1,2,4,5,6,7,8,9,11,12,14,15-dodecahydrocyclopenta[a]phenanthren-3-one"
   },
   {
    "name": "Ankorine",
    "slug": "ankorine",
    "count": 1,
-   "unresolved": true
+   "cid": 442166,
+   "formula": "C19H29NO4",
+   "weight": "335.4",
+   "inchikey": "UYQRWUWLBSTWCM-XEZPLFJOSA-N",
+   "smiles": "CCC1CN2CCC3=C(C(=C(C=C3C2CC1CCO)OC)OC)O",
+   "iupacName": "(2R,3R,11bS)-3-ethyl-2-(2-hydroxyethyl)-9,10-dimethoxy-2,3,4,6,7,11b-hexahydro-1H-benzo[a]quinolizin-8-ol"
   },
   {
    "name": "Aqueous decoction of bark/leaves",
@@ -2177,37 +2907,67 @@
    "name": "Ar-turmerone",
    "slug": "ar-turmerone",
    "count": 1,
-   "unresolved": true
+   "cid": 160512,
+   "formula": "C15H20O",
+   "weight": "216.32",
+   "inchikey": "NAAJVHHFAXWBOK-ZDUSSCGKSA-N",
+   "smiles": "CC1=CC=C(C=C1)C(C)CC(=O)C=C(C)C",
+   "iupacName": "(6S)-2-methyl-6-(4-methylphenyl)hept-2-en-4-one"
   },
   {
    "name": "Arabinose",
    "slug": "arabinose",
    "count": 1,
-   "unresolved": true
+   "cid": 439195,
+   "formula": "C5H10O5",
+   "weight": "150.13",
+   "inchikey": "SRBFZHDQGSBBOR-HWQSCIPKSA-N",
+   "smiles": "C1C(C(C(C(O1)O)O)O)O",
+   "iupacName": "(3R,4S,5S)-oxane-2,3,4,5-tetrol"
   },
   {
    "name": "Arachidonic acid",
    "slug": "arachidonic-acid",
    "count": 1,
-   "unresolved": true
+   "cid": 444899,
+   "formula": "C20H32O2",
+   "weight": "304.5",
+   "inchikey": "YZXBAPSDXZZRGB-DOFZRALJSA-N",
+   "smiles": "CCCCCC=CCC=CCC=CCC=CCCCC(=O)O",
+   "iupacName": "(5Z,8Z,11Z,14Z)-icosa-5,8,11,14-tetraenoic acid"
   },
   {
    "name": "Arjunetin",
    "slug": "arjunetin",
    "count": 1,
-   "unresolved": true
+   "cid": 21152828,
+   "formula": "C36H58O10",
+   "weight": "650.8",
+   "inchikey": "CUOZRGBQTOSWAY-PWEPJYDOSA-N",
+   "smiles": "CC1(CCC2(CCC3(C(=CCC4C3(CCC5C4(CC(C(C5(C)C)O)O)C)C)C2C1O)C)C(=O)OC6C(C(C(C(O6)CO)O)O)O)C",
+   "iupacName": "[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl] (1S,4aR,6aR,6aS,6bR,8aR,10R,11R,12aR,14bS)-1,10,11-trihydroxy-2,2,6a,6b,9,9,12a-heptamethyl-1,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydropicene-4a-carboxylate"
   },
   {
    "name": "Arjungenin",
    "slug": "arjungenin",
    "count": 1,
-   "unresolved": true
+   "cid": 12444386,
+   "formula": "C30H48O6",
+   "weight": "504.7",
+   "inchikey": "IFIQVSCCFRXSJV-NWCCWSSZSA-N",
+   "smiles": "CC1(CCC2(CCC3(C(=CCC4C3(CCC5C4(CC(C(C5(C)CO)O)O)C)C)C2C1O)C)C(=O)O)C",
+   "iupacName": "(1S,4aR,6aR,6aS,6bR,8aR,9R,10R,11R,12aR,14bS)-1,10,11-trihydroxy-9-(hydroxymethyl)-2,2,6a,6b,9,12a-hexamethyl-1,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydropicene-4a-carboxylic acid"
   },
   {
    "name": "Aromadendrene",
    "slug": "aromadendrene",
    "count": 1,
-   "unresolved": true
+   "cid": 11095734,
+   "formula": "C15H24",
+   "weight": "204.35",
+   "inchikey": "ITYNGVSTWVVPIC-XVIXHAIJSA-N",
+   "smiles": "CC1CCC2C1C3C(C3(C)C)CCC2=C",
+   "iupacName": "(1aR,4aR,7R,7aR,7bS)-1,1,7-trimethyl-4-methylidene-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa[e]azulene"
   },
   {
    "name": "Asaresinotannols A and B",
@@ -2231,31 +2991,56 @@
    "name": "Aucubin",
    "slug": "aucubin",
    "count": 1,
-   "unresolved": true
+   "cid": 91458,
+   "formula": "C15H22O9",
+   "weight": "346.33",
+   "inchikey": "RJWJHRPNHPHBRN-FKVJWERZSA-N",
+   "smiles": "C1=COC(C2C1C(C=C2CO)O)OC3C(C(C(C(O3)CO)O)O)O",
+   "iupacName": "(2S,3R,4S,5S,6R)-2-[[(1S,4aR,5S,7aS)-5-hydroxy-7-(hydroxymethyl)-1,4a,5,7a-tetrahydrocyclopenta[c]pyran-1-yl]oxy]-6-(hydroxymethyl)oxane-3,4,5-triol"
   },
   {
    "name": "Aurantio-obtusin",
    "slug": "aurantio-obtusin",
    "count": 1,
-   "unresolved": true
+   "cid": 155011,
+   "formula": "C17H14O7",
+   "weight": "330.29",
+   "inchikey": "RNXZPKOEJUFJON-UHFFFAOYSA-N",
+   "smiles": "CC1=CC2=C(C(=C1O)OC)C(=O)C3=C(C(=C(C=C3C2=O)O)OC)O",
+   "iupacName": "1,3,7-trihydroxy-2,8-dimethoxy-6-methylanthracene-9,10-dione"
   },
   {
    "name": "Azadirachtin",
    "slug": "azadirachtin",
    "count": 1,
-   "unresolved": true
+   "cid": 5281303,
+   "formula": "C35H44O16",
+   "weight": "720.7",
+   "inchikey": "FTNJWQUOZFUQQJ-NDAWSKJSSA-N",
+   "smiles": "CC=C(C)C(=O)OC1CC(C2(COC3C2C14COC(C4C(C3O)(C)C56C7CC(C5(O6)C)C8(C=COC8O7)O)(C(=O)OC)O)C(=O)OC)OC(=O)C",
+   "iupacName": "dimethyl (1S,4S,5R,6S,7S,8R,11S,12R,14S,15R)-12-acetyloxy-4,7-dihydroxy-6-[(1S,2S,6S,8S,9R,11S)-2-hydroxy-11-methyl-5,7,10-trioxatetracyclo[6.3.1.02,6.09,11]dodec-3-en-9-yl]-6-methyl-14-[(E)-2-methylbut-2-enoyl]oxy-3,9-dioxatetracyclo[6.6.1.01,5.011,15]pentadecane-4,11-dicarboxylate"
   },
   {
    "name": "Baccatin III",
    "slug": "baccatin-iii",
    "count": 1,
-   "unresolved": true
+   "cid": 65366,
+   "formula": "C31H38O11",
+   "weight": "586.6",
+   "inchikey": "OVMSOCFBDVBLFW-VHLOTGQHSA-N",
+   "smiles": "CC1=C2C(C(=O)C3(C(CC4C(C3C(C(C2(C)C)(CC1O)O)OC(=O)C5=CC=CC=C5)(CO4)OC(=O)C)O)C)OC(=O)C",
+   "iupacName": "[(1S,2S,3R,4S,7R,9S,10S,12R,15S)-4,12-diacetyloxy-1,9,15-trihydroxy-10,14,17,17-tetramethyl-11-oxo-6-oxatetracyclo[11.3.1.03,10.04,7]heptadec-13-en-2-yl] benzoate"
   },
   {
    "name": "Bacopasaponin C",
    "slug": "bacopasaponin-c",
    "count": 1,
-   "unresolved": true
+   "cid": 21599443,
+   "formula": "C46H74O17",
+   "weight": "899.1",
+   "inchikey": "ZOFQVMPJZHCDBS-MUUHSGPCSA-N",
+   "smiles": "CC(=CC1COC23CC4(CO2)C(C3C1(C)O)CCC5C4(CCC6C5(CCC(C6(C)C)OC7C(C(C(CO7)O)OC8C(C(C(C(O8)CO)O)O)O)OC9C(C(C(O9)CO)O)O)C)C)C",
+   "iupacName": "(2S,3R,4S,5S,6R)-2-[(2S,3R,4S,5S)-3-[(2S,3R,4R,5S)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxy-5-hydroxy-2-[[(1S,2R,5R,7S,10R,11R,14R,15S,16S,17R,20R)-16-hydroxy-2,6,6,10,16-pentamethyl-17-(2-methylprop-1-enyl)-19,21-dioxahexacyclo[18.2.1.01,14.02,11.05,10.015,20]tricosan-7-yl]oxy]oxan-4-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol"
   },
   {
    "name": "Bacopaside I-XII",
@@ -2267,55 +3052,100 @@
    "name": "Bacoside A",
    "slug": "bacoside-a",
    "count": 1,
-   "unresolved": true
+   "cid": 92043183,
+   "formula": "C41H68O13",
+   "weight": "769.0",
+   "inchikey": "LKCTWIIDXXXXAR-CYGHALRTSA-N",
+   "smiles": "CC(=CCCC(C)(C1C2CCC3C(C2(CC1=O)C)(CCC4C3(CCC(C4(C)C)OC5C(C(C(C(O5)CO)OC6C(C(C(CO6)O)O)O)O)O)CO)C)O)C",
+   "iupacName": "(5R,8R,9S,10S,13R,14R,17S)-3-[(2R,3R,4R,5S,6R)-3,4-dihydroxy-6-(hydroxymethyl)-5-[(2S,3R,4S,5S)-3,4,5-trihydroxyoxan-2-yl]oxyoxan-2-yl]oxy-10-(hydroxymethyl)-17-[(2S)-2-hydroxy-6-methylhept-5-en-2-yl]-4,4,8,14-tetramethyl-1,2,3,5,6,7,9,11,12,13,15,17-dodecahydrocyclopenta[a]phenanthren-16-one"
   },
   {
    "name": "Bacoside B",
    "slug": "bacoside-b",
    "count": 1,
-   "unresolved": true
+   "cid": 121596009,
+   "formula": "C41H68O13",
+   "weight": "769.0",
+   "inchikey": "LKCTWIIDXXXXAR-ONFVQLDPSA-N",
+   "smiles": "CC(=CCCC(C)(C1C2CCC3C(C2(CC1=O)C)(CCC4C3(CCC(C4(C)C)OC5C(C(C(C(O5)CO)OC6C(C(C(CO6)O)O)O)O)O)CO)C)O)C",
+   "iupacName": "(5R,8R,9S,10S,13R,14R,17S)-3-[(2R,3R,4R,5S,6R)-3,4-dihydroxy-6-(hydroxymethyl)-5-[(3R,4S,5S)-3,4,5-trihydroxyoxan-2-yl]oxyoxan-2-yl]oxy-10-(hydroxymethyl)-17-[(2S)-2-hydroxy-6-methylhept-5-en-2-yl]-4,4,8,14-tetramethyl-1,2,3,5,6,7,9,11,12,13,15,17-dodecahydrocyclopenta[a]phenanthren-16-one"
   },
   {
    "name": "Baicalein",
    "slug": "baicalein",
    "count": 1,
-   "unresolved": true
+   "cid": 5281605,
+   "formula": "C15H10O5",
+   "weight": "270.24",
+   "inchikey": "FXNFHKRTJBSTCS-UHFFFAOYSA-N",
+   "smiles": "C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O",
+   "iupacName": "5,6,7-trihydroxy-2-phenylchromen-4-one"
   },
   {
    "name": "Bakuchalcone",
    "slug": "bakuchalcone",
    "count": 1,
-   "unresolved": true
+   "cid": 6476086,
+   "formula": "C20H20O5",
+   "weight": "340.4",
+   "inchikey": "ZRPXWNBCRBPVHB-WEVVVXLNSA-N",
+   "smiles": "CC(C)(C1CC2=C(O1)C=CC(=C2O)C(=O)C=CC3=CC=C(C=C3)O)O",
+   "iupacName": "(E)-1-[4-hydroxy-2-(2-hydroxypropan-2-yl)-2,3-dihydro-1-benzofuran-5-yl]-3-(4-hydroxyphenyl)prop-2-en-1-one"
   },
   {
    "name": "Bakuchiol",
    "slug": "bakuchiol",
    "count": 1,
-   "unresolved": true
+   "cid": 5468522,
+   "formula": "C18H24O",
+   "weight": "256.4",
+   "inchikey": "LFYJSSARVMHQJB-QIXNEVBVSA-N",
+   "smiles": "CC(=CCCC(C)(C=C)C=CC1=CC=C(C=C1)O)C",
+   "iupacName": "4-[(1E,3S)-3-ethenyl-3,7-dimethylocta-1,6-dienyl]phenol"
   },
   {
    "name": "Balanitin-6",
    "slug": "balanitin-6",
    "count": 1,
-   "unresolved": true
+   "cid": 44576182,
+   "formula": "C45H72O17",
+   "weight": "885.0",
+   "inchikey": "OLAMGHNQGZIWHZ-WUTVBGSCSA-N",
+   "smiles": "CC1CCC2(C(C3C(O2)CC4C3(CCC5C4CC=C6C5(CCC(C6)OC7C(C(C(C(O7)CO)OC8C(C(C(C(O8)CO)O)O)O)O)OC9C(C(C(C(O9)C)O)O)O)C)C)C)OC1",
+   "iupacName": "(2S,3R,4R,5R,6S)-2-[(2R,3R,4S,5S,6R)-4-hydroxy-6-(hydroxymethyl)-2-[(1S,2S,4S,5'S,6R,7S,8R,9S,12S,13R,16S)-5',7,9,13-tetramethylspiro[5-oxapentacyclo[10.8.0.02,9.04,8.013,18]icos-18-ene-6,2'-oxane]-16-yl]oxy-5-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxan-3-yl]oxy-6-methyloxane-3,4,5-triol"
   },
   {
    "name": "Balanitin-7",
    "slug": "balanitin-7",
    "count": 1,
-   "unresolved": true
+   "cid": 44576183,
+   "formula": "C50H80O21",
+   "weight": "1017.2",
+   "inchikey": "DYAJQSYEQXVRFW-RAEGJVERSA-N",
+   "smiles": "CC1CCC2(C(C3C(O2)CC4C3(CCC5C4CC=C6C5(CCC(C6)OC7C(C(C(C(O7)CO)OC8C(C(C(C(O8)CO)O)OC9C(C(C(CO9)O)O)O)O)O)OC2C(C(C(C(O2)C)O)O)O)C)C)C)OC1",
+   "iupacName": "(2S,3R,4R,5R,6S)-2-[(2R,3R,4S,5S,6R)-5-[(2S,3R,4S,5R,6R)-3,5-dihydroxy-6-(hydroxymethyl)-4-[(2S,3R,4S,5R)-3,4,5-trihydroxyoxan-2-yl]oxyoxan-2-yl]oxy-4-hydroxy-6-(hydroxymethyl)-2-[(1S,2S,4S,5'S,6R,7S,8R,9S,12S,13R,16S)-5',7,9,13-tetramethylspiro[5-oxapentacyclo[10.8.0.02,9.04,8.013,18]icos-18-ene-6,2'-oxane]-16-yl]oxyoxan-3-yl]oxy-6-methyloxane-3,4,5-triol"
   },
   {
    "name": "Bavachinin",
    "slug": "bavachinin",
    "count": 1,
-   "unresolved": true
+   "cid": 10337211,
+   "formula": "C21H22O4",
+   "weight": "338.4",
+   "inchikey": "VOCGSQHKPZSIKB-FQEVSTJZSA-N",
+   "smiles": "CC(=CCC1=CC2=C(C=C1OC)OC(CC2=O)C3=CC=C(C=C3)O)C",
+   "iupacName": "(2S)-2-(4-hydroxyphenyl)-7-methoxy-6-(3-methylbut-2-enyl)-2,3-dihydrochromen-4-one"
   },
   {
    "name": "Belleric acid",
    "slug": "belleric-acid",
    "count": 1,
-   "unresolved": true
+   "cid": 14105933,
+   "formula": "C30H48O6",
+   "weight": "504.7",
+   "inchikey": "IHSNIFFMIWMPRL-DCGQWPFASA-N",
+   "smiles": "CC1(CCC2(CCC3(C(=CCC4C3(CCC5C4(CC(C(C5(CO)CO)O)O)C)C)C2C1)C)C(=O)O)C",
+   "iupacName": "(4aS,6aR,6aS,6bR,8aR,10R,11R,12aR,14bS)-10,11-dihydroxy-9,9-bis(hydroxymethyl)-2,2,6a,6b,12a-pentamethyl-1,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydropicene-4a-carboxylic acid"
   },
   {
    "name": "Bellericanin",
@@ -2333,55 +3163,78 @@
    "name": "Berbamine",
    "slug": "berbamine",
    "count": 1,
-   "unresolved": true
+   "cid": 275182,
+   "formula": "C37H40N2O6",
+   "weight": "608.7",
+   "inchikey": "DFOCUWZXJBAUSQ-URLMMPGGSA-N",
+   "smiles": "CN1CCC2=CC(=C3C=C2C1CC4=CC=C(C=C4)OC5=C(C=CC(=C5)CC6C7=C(O3)C(=C(C=C7CCN6C)OC)OC)O)OC",
+   "iupacName": "(1S,14R)-20,21,25-trimethoxy-15,30-dimethyl-7,23-dioxa-15,30-diazaheptacyclo[22.6.2.23,6.18,12.114,18.027,31.022,33]hexatriaconta-3(36),4,6(35),8,10,12(34),18,20,22(33),24,26,31-dodecaen-9-ol"
   },
   {
    "name": "Beta-amyrin",
    "slug": "beta-amyrin",
    "count": 1,
-   "unresolved": true
+   "cid": 73145,
+   "formula": "C30H50O",
+   "weight": "426.7",
+   "inchikey": "JFSHUTJDVKUMTJ-QHPUVITPSA-N",
+   "smiles": "CC1(CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C)O)C)C)C2C1)C)C)C",
+   "iupacName": "(3S,4aR,6aR,6bS,8aR,12aR,14aR,14bR)-4,4,6a,6b,8a,11,11,14b-octamethyl-1,2,3,4a,5,6,7,8,9,10,12,12a,14,14a-tetradecahydropicen-3-ol"
   },
   {
    "name": "Beta-boswellic acid",
    "slug": "beta-boswellic-acid",
    "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "Beta-caryophyllene",
-   "slug": "beta-caryophyllene",
-   "count": 1,
-   "unresolved": true
+   "cid": 168928,
+   "formula": "C30H48O3",
+   "weight": "456.7",
+   "inchikey": "NBGQZFQREPIKMG-PONOSELZSA-N",
+   "smiles": "CC1CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C(=O)O)O)C)C)C2C1C)C)C",
+   "iupacName": "(3R,4R,4aR,6aR,6bS,8aR,11R,12S,12aR,14aR,14bR)-3-hydroxy-4,6a,6b,8a,11,12,14b-heptamethyl-2,3,4a,5,6,7,8,9,10,11,12,12a,14,14a-tetradecahydro-1H-picene-4-carboxylic acid"
   },
   {
    "name": "Beta-eudesmol",
    "slug": "beta-eudesmol",
    "count": 1,
-   "unresolved": true
+   "cid": 91457,
+   "formula": "C15H26O",
+   "weight": "222.37",
+   "inchikey": "BOPIMTNSYWYZOC-VNHYZAJKSA-N",
+   "smiles": "CC12CCCC(=C)C1CC(CC2)C(C)(C)O",
+   "iupacName": "2-[(2R,4aR,8aS)-4a-methyl-8-methylidene-1,2,3,4,5,6,7,8a-octahydronaphthalen-2-yl]propan-2-ol"
   },
   {
    "name": "Beta-himachalene",
    "slug": "beta-himachalene",
    "count": 1,
-   "unresolved": true
+   "cid": 11586487,
+   "formula": "C15H24",
+   "weight": "204.35",
+   "inchikey": "LCOSCMLXPAQCLQ-AWEZNQCLSA-N",
+   "smiles": "CC1=CC2C(=C(CCCC2(C)C)C)CC1",
+   "iupacName": "(4aR)-3,5,5,9-tetramethyl-1,2,4a,6,7,8-hexahydrobenzo[7]annulene"
   },
   {
    "name": "Beta-sitosteryl acetate",
    "slug": "beta-sitosteryl-acetate",
    "count": 1,
-   "unresolved": true
+   "cid": 5354503,
+   "formula": "C31H52O2",
+   "weight": "456.7",
+   "inchikey": "PBWOIPCULUXTNY-LBKBYZTLSA-N",
+   "smiles": "CCC(CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)OC(=O)C)C)C)C(C)C",
+   "iupacName": "[(3S,8S,9S,10R,13R,14S,17R)-17-[(2R,5R)-5-ethyl-6-methylheptan-2-yl]-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-yl] acetate"
   },
   {
    "name": "Beta-thujone",
    "slug": "beta-thujone",
    "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "Beta-turmerone",
-   "slug": "beta-turmerone",
-   "count": 1,
-   "unresolved": true
+   "cid": 91456,
+   "formula": "C10H16O",
+   "weight": "152.23",
+   "inchikey": "USMNOWBWPHYOEA-XKSSXDPKSA-N",
+   "smiles": "CC1C2CC2(CC1=O)C(C)C",
+   "iupacName": "(1S,4S,5R)-4-methyl-1-propan-2-ylbicyclo[3.1.0]hexan-3-one"
   },
   {
    "name": "Beta-turpethein",
@@ -2411,19 +3264,34 @@
    "name": "Brazilein",
    "slug": "brazilein",
    "count": 1,
-   "unresolved": true
+   "cid": 6453902,
+   "formula": "C16H12O5",
+   "weight": "284.26",
+   "inchikey": "PGERTGWKXFAEFR-UHFFFAOYSA-N",
+   "smiles": "C1C2=CC(=C(C=C2C3=C4C=CC(=O)C=C4OCC31O)O)O",
+   "iupacName": "6a,9,10-trihydroxy-6,7-dihydroindeno[2,1-c]chromen-3-one"
   },
   {
    "name": "Brazilin",
    "slug": "brazilin",
    "count": 1,
-   "unresolved": true
+   "cid": 73384,
+   "formula": "C16H14O5",
+   "weight": "286.28",
+   "inchikey": "UWHUTZOCTZJUKC-JKSUJKDBSA-N",
+   "smiles": "C1C2=CC(=C(C=C2C3C1(COC4=C3C=CC(=C4)O)O)O)O",
+   "iupacName": "(6aS,11bR)-7,11b-dihydro-6H-indeno[2,1-c]chromene-3,6a,9,10-tetrol"
   },
   {
    "name": "Cadambine",
    "slug": "cadambine",
    "count": 1,
-   "unresolved": true
+   "cid": 21723831,
+   "formula": "C27H32N2O10",
+   "weight": "544.5",
+   "inchikey": "OVRROYYXOBYCSR-QUXSSVLGSA-N",
+   "smiles": "COC(=O)C1=COC(C2C1CC34C5=C(CCN3CC2O4)C6=CC=CC=C6N5)OC7C(C(C(C(O7)CO)O)O)O",
+   "iupacName": "methyl (1S,15S,16S,17S,21S)-17-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-18,23-dioxa-3,13-diazahexacyclo[13.7.1.01,13.02,10.04,9.016,21]tricosa-2(10),4,6,8,19-pentaene-20-carboxylate"
   },
   {
    "name": "Cadamine",
@@ -2441,19 +3309,34 @@
    "name": "Calcium phosphate",
    "slug": "calcium-phosphate",
    "count": 1,
-   "unresolved": true
+   "cid": 24456,
+   "formula": "Ca3O8P2",
+   "weight": "310.18",
+   "inchikey": "QORWJWZARLRLPR-UHFFFAOYSA-H",
+   "smiles": "[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Ca+2].[Ca+2].[Ca+2]",
+   "iupacName": "tricalcium diphosphate"
   },
   {
    "name": "Calcium sulfate",
    "slug": "calcium-sulfate",
    "count": 1,
-   "unresolved": true
+   "cid": 24497,
+   "formula": "CaO4S",
+   "weight": "136.14",
+   "inchikey": "OSGAYBCDTDRGGQ-UHFFFAOYSA-L",
+   "smiles": "[O-]S(=O)(=O)[O-].[Ca+2]",
+   "iupacName": "calcium sulfate"
   },
   {
    "name": "Calliterpenone",
    "slug": "calliterpenone",
    "count": 1,
-   "unresolved": true
+   "cid": 12016376,
+   "formula": "C20H32O3",
+   "weight": "320.5",
+   "inchikey": "MPDUJZZNNBJFAB-JHSPYMOQSA-N",
+   "smiles": "CC1(C2CCC34CC(CCC3C2(CCC1=O)C)C(C4)(CO)O)C",
+   "iupacName": "(1S,4R,9R,10S,13S,14R)-14-hydroxy-14-(hydroxymethyl)-5,5,9-trimethyltetracyclo[11.2.1.01,10.04,9]hexadecan-6-one"
   },
   {
    "name": "Calliterpenone monoacetate",
@@ -2465,13 +3348,23 @@
    "name": "Cambogic acid",
    "slug": "cambogic-acid",
    "count": 1,
-   "unresolved": true
+   "cid": 9852185,
+   "formula": "C38H44O8",
+   "weight": "628.7",
+   "inchikey": "GEZHEQNLKAOMCA-RRZNCOCZSA-N",
+   "smiles": "CC(=CCCC1(C=CC2=C(C3=C(C(=C2O1)CC=C(C)C)OC45C6CC(C=C4C3=O)C(=O)C5(OC6(C)C)CC=C(C)C(=O)O)O)C)C",
+   "iupacName": "(Z)-4-[(1S,2S,8R,17S,19R)-12-hydroxy-8,21,21-trimethyl-5-(3-methylbut-2-enyl)-8-(4-methylpent-3-enyl)-14,18-dioxo-3,7,20-trioxahexacyclo[15.4.1.02,15.02,19.04,13.06,11]docosa-4(13),5,9,11,15-pentaen-19-yl]-2-methylbut-2-enoic acid"
   },
   {
    "name": "Camphene",
    "slug": "camphene",
    "count": 1,
-   "unresolved": true
+   "cid": 6616,
+   "formula": "C10H16",
+   "weight": "136.23",
+   "inchikey": "CRPUJAZIXJMDBK-UHFFFAOYSA-N",
+   "smiles": "CC1(C2CCC(C2)C1=C)C",
+   "iupacName": "2,2-dimethyl-3-methylidenebicyclo[2.2.1]heptane"
   },
   {
    "name": "Candle/wick for creating vacuum",
@@ -2483,35 +3376,38 @@
    "name": "Capric acid",
    "slug": "capric-acid",
    "count": 1,
-   "unresolved": true
+   "cid": 2969,
+   "formula": "C10H20O2",
+   "weight": "172.26",
+   "inchikey": "GHVNFZFCNZKVNT-UHFFFAOYSA-N",
+   "smiles": "CCCCCCCCCC(=O)O",
+   "iupacName": "decanoic acid"
   },
   {
    "name": "Caprylic acid",
    "slug": "caprylic-acid",
    "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "Caryophyllene",
-   "slug": "caryophyllene",
-   "count": 1,
-   "unresolved": true
+   "cid": 379,
+   "formula": "C8H16O2",
+   "weight": "144.21",
+   "inchikey": "WWZKQHOCKIZLMA-UHFFFAOYSA-N",
+   "smiles": "CCCCCCCC(=O)O",
+   "iupacName": "octanoic acid"
   },
   {
    "name": "Casticin",
    "slug": "casticin",
    "count": 1,
-   "unresolved": true
+   "cid": 5315263,
+   "formula": "C19H18O8",
+   "weight": "374.3",
+   "inchikey": "PJQLSMYMOKWUJG-UHFFFAOYSA-N",
+   "smiles": "COC1=C(C=C(C=C1)C2=C(C(=O)C3=C(C(=C(C=C3O2)OC)OC)O)OC)O",
+   "iupacName": "5-hydroxy-2-(3-hydroxy-4-methoxyphenyl)-3,6,7-trimethoxychromen-4-one"
   },
   {
    "name": "Catalase",
    "slug": "catalase",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "Catechol",
-   "slug": "catechol",
    "count": 1,
    "unresolved": true
   },
@@ -2525,13 +3421,23 @@
    "name": "Cedeodarin",
    "slug": "cedeodarin",
    "count": 1,
-   "unresolved": true
+   "cid": 442419,
+   "formula": "C16H14O8",
+   "weight": "334.28",
+   "inchikey": "FDRYLJGFQYHFHZ-LSDHHAIUSA-N",
+   "smiles": "COC1=C(C2=C(C=C1O)OC(C(C2=O)O)C3=CC(=C(C=C3)O)O)O",
+   "iupacName": "(2R,3R)-2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxy-6-methoxy-2,3-dihydrochromen-4-one"
   },
   {
    "name": "Cedrin",
    "slug": "cedrin",
    "count": 1,
-   "unresolved": true
+   "cid": 3083929,
+   "formula": "C15H18O6",
+   "weight": "294.30",
+   "inchikey": "NMBLGAVLJLFABK-UHFFFAOYSA-N",
+   "smiles": "CC1C2C(C(C3(C=CC(=O)C(=C3C2OC1=O)OC)C)O)O",
+   "iupacName": "4,5-dihydroxy-9-methoxy-3,5a-dimethyl-3a,4,5,9b-tetrahydro-3H-benzo[g][1]benzofuran-2,8-dione"
   },
   {
    "name": "Cedrusone A",
@@ -2549,31 +3455,56 @@
    "name": "Cembrene A",
    "slug": "cembrene-a",
    "count": 1,
-   "unresolved": true
+   "cid": 5281384,
+   "formula": "C20H32",
+   "weight": "272.5",
+   "inchikey": "VWSPQDDPRITBAM-KPGNMOGWSA-N",
+   "smiles": "CC1=CCCC(=CCC(CCC(=CCC1)C)C(=C)C)C",
+   "iupacName": "(1E,5E,9E,12R)-1,5,9-trimethyl-12-prop-1-en-2-ylcyclotetradeca-1,5,9-triene"
   },
   {
    "name": "Cephalomannine",
    "slug": "cephalomannine",
    "count": 1,
-   "unresolved": true
+   "cid": 6436208,
+   "formula": "C45H53NO14",
+   "weight": "831.9",
+   "inchikey": "DBXFAPJCZABTDR-WBYYIXQISA-N",
+   "smiles": "CC=C(C)C(=O)NC(C1=CC=CC=C1)C(C(=O)OC2CC3(C(C4C(C(CC5C4(CO5)OC(=O)C)O)(C(=O)C(C(=C2C)C3(C)C)OC(=O)C)C)OC(=O)C6=CC=CC=C6)O)O",
+   "iupacName": "[(1S,2S,3R,4S,7R,9S,10S,12R,15S)-4,12-diacetyloxy-1,9-dihydroxy-15-[(2R,3S)-2-hydroxy-3-[[(E)-2-methylbut-2-enoyl]amino]-3-phenylpropanoyl]oxy-10,14,17,17-tetramethyl-11-oxo-6-oxatetracyclo[11.3.1.03,10.04,7]heptadec-13-en-2-yl] benzoate"
   },
   {
    "name": "Chabamide",
    "slug": "chabamide",
    "count": 1,
-   "unresolved": true
+   "cid": 10438004,
+   "formula": "C34H38N2O6",
+   "weight": "570.7",
+   "inchikey": "ZUHSRZLUGOUPFT-CSOUCCRTSA-N",
+   "smiles": "C1CCN(CC1)C(=O)C2C=CC(C(C2C(=O)N3CCCCC3)C=CC4=CC5=C(C=C4)OCO5)C6=CC7=C(C=C6)OCO7",
+   "iupacName": "[(1S,4R,5R,6S)-4-(1,3-benzodioxol-5-yl)-5-[(E)-2-(1,3-benzodioxol-5-yl)ethenyl]-6-(piperidine-1-carbonyl)cyclohex-2-en-1-yl]-piperidin-1-ylmethanone"
   },
   {
    "name": "Chebulinic acid",
    "slug": "chebulinic-acid",
    "count": 1,
-   "unresolved": true
+   "cid": 99937814,
+   "formula": "C41H32O27",
+   "weight": "956.7",
+   "inchikey": "YGVHOSGNOYKRIH-AVXZFDTDSA-N",
+   "smiles": "C1=C(C=C(C(=C1O)O)O)C(=O)OCC2C3C(C(C(O2)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C6=C5C(C(C(=O)O3)CC(=O)O)C(C(=O)O6)O)O)O)OC(=O)C7=CC(=C(C(=C7)O)O)O",
+   "iupacName": "2-[(4R,5S,7R,8R,11S,12S,13R,21S)-13,17,18-trihydroxy-2,10,14-trioxo-5,21-bis[(3,4,5-trihydroxybenzoyl)oxy]-7-[(3,4,5-trihydroxybenzoyl)oxymethyl]-3,6,9,15-tetraoxatetracyclo[10.7.1.14,8.016,20]henicosa-1(19),16(20),17-trien-11-yl]acetic acid"
   },
   {
    "name": "Chenodeoxycholic acid",
    "slug": "chenodeoxycholic-acid",
    "count": 1,
-   "unresolved": true
+   "cid": 10133,
+   "formula": "C24H40O4",
+   "weight": "392.6",
+   "inchikey": "RUDATBOHQWOJDD-BSWAIDMHSA-N",
+   "smiles": "CC(CCC(=O)O)C1CCC2C1(CCC3C2C(CC4C3(CCC(C4)O)C)O)C",
+   "iupacName": "(4R)-4-[(3R,5S,7R,8R,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-17-yl]pentanoic acid"
   },
   {
    "name": "Chitrak",
@@ -2585,43 +3516,78 @@
    "name": "Chitranone",
    "slug": "chitranone",
    "count": 1,
-   "unresolved": true
+   "cid": 633072,
+   "formula": "C22H14O6",
+   "weight": "374.3",
+   "inchikey": "ITGPISXKMZIRAV-UHFFFAOYSA-N",
+   "smiles": "CC1=CC(=O)C2=C(C1=O)C=CC(=C2O)C3=C(C(=O)C4=C(C3=O)C(=CC=C4)O)C",
+   "iupacName": "5-hydroxy-3-(1-hydroxy-6-methyl-5,8-dioxonaphthalen-2-yl)-2-methylnaphthalene-1,4-dione"
   },
   {
    "name": "Chloride",
    "slug": "chloride",
    "count": 1,
-   "unresolved": true
+   "cid": 312,
+   "formula": "Cl-",
+   "weight": "35.45",
+   "inchikey": "VEXZGXHMUGYJMC-UHFFFAOYSA-M",
+   "smiles": "[Cl-]",
+   "iupacName": "chloride"
   },
   {
    "name": "Chlorophyll",
    "slug": "chlorophyll",
    "count": 1,
-   "unresolved": true
+   "cid": 156620228,
+   "formula": "C55H74MgN4O5+2",
+   "weight": "895.5",
+   "inchikey": "KPJIJGZVAWIZMG-LEGXGVPYSA-P",
+   "smiles": "CCC1=C(C2=[NH+]C1=CC3=C(C4=C(C(C(=C4[N-]3)C5=[NH+]C(=C(C5CCC(=O)OCC=C(C)CCCC(C)CCCC(C)CCCC(C)C)C)C=C6C(=C(C(=C2)[N-]6)C=C)C)C(=O)OC)O)C)C.[Mg+2]",
+   "iupacName": "magnesium methyl (3R,22S)-16-ethenyl-11-ethyl-4-hydroxy-12,17,21,26-tetramethyl-22-[3-oxo-3-[(E,7R,11R)-3,7,11,15-tetramethylhexadec-2-enoxy]propyl]-23,25-diazonia-7,24-diazanidahexacyclo[18.2.1.15,8.110,13.115,18.02,6]hexacosa-1(23),2(6),4,8(26),9,11,13(25),14,16,18,20-undecaene-3-carboxylate"
   },
   {
    "name": "Cholestanol",
    "slug": "cholestanol",
    "count": 1,
-   "unresolved": true
+   "cid": 6665,
+   "formula": "C27H48O",
+   "weight": "388.7",
+   "inchikey": "QYIXCDOBOSTCEI-QCYZZNICSA-N",
+   "smiles": "CC(C)CCCC(C)C1CCC2C1(CCC3C2CCC4C3(CCC(C4)O)C)C",
+   "iupacName": "(3S,5S,8R,9S,10S,13R,14S,17R)-10,13-dimethyl-17-[(2R)-6-methylheptan-2-yl]-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-3-ol"
   },
   {
    "name": "Cholesterol",
    "slug": "cholesterol",
    "count": 1,
-   "unresolved": true
+   "cid": 5997,
+   "formula": "C27H46O",
+   "weight": "386.7",
+   "inchikey": "HVYWMOMLDIMFJA-DPAQBDIFSA-N",
+   "smiles": "CC(C)CCCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C",
+   "iupacName": "(3S,8S,9S,10R,13R,14S,17R)-10,13-dimethyl-17-[(2R)-6-methylheptan-2-yl]-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-ol"
   },
   {
    "name": "Cholic acid",
    "slug": "cholic-acid",
    "count": 1,
-   "unresolved": true
+   "cid": 221493,
+   "formula": "C24H40O5",
+   "weight": "408.6",
+   "inchikey": "BHQCQFFYRZLCQQ-OELDTZBJSA-N",
+   "smiles": "CC(CCC(=O)O)C1CCC2C1(C(CC3C2C(CC4C3(CCC(C4)O)C)O)O)C",
+   "iupacName": "(4R)-4-[(3R,5S,7R,8R,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-17-yl]pentanoic acid"
   },
   {
    "name": "Choline",
    "slug": "choline",
    "count": 1,
-   "unresolved": true
+   "cid": 305,
+   "formula": "C5H14NO+",
+   "weight": "104.17",
+   "inchikey": "OEYIOHPDSNJKLS-UHFFFAOYSA-N",
+   "smiles": "C[N+](C)(C)CCO",
+   "iupacName": "2-hydroxyethyl(trimethyl)azanium"
   },
   {
    "name": "Christembine",
@@ -2633,43 +3599,78 @@
    "name": "Chrysin",
    "slug": "chrysin",
    "count": 1,
-   "unresolved": true
+   "cid": 5281607,
+   "formula": "C15H10O4",
+   "weight": "254.24",
+   "inchikey": "RTIXKCRFFJGDFG-UHFFFAOYSA-N",
+   "smiles": "C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O",
+   "iupacName": "5,7-dihydroxy-2-phenylchromen-4-one"
   },
   {
    "name": "Chryso-obtusin",
    "slug": "chryso-obtusin",
    "count": 1,
-   "unresolved": true
+   "cid": 155381,
+   "formula": "C19H18O7",
+   "weight": "358.3",
+   "inchikey": "ZMDXTRSTKHTSCE-UHFFFAOYSA-N",
+   "smiles": "CC1=CC2=C(C(=C1O)OC)C(=O)C3=C(C(=C(C=C3C2=O)OC)OC)OC",
+   "iupacName": "2-hydroxy-1,6,7,8-tetramethoxy-3-methylanthracene-9,10-dione"
   },
   {
    "name": "Cinnamaldehyde",
    "slug": "cinnamaldehyde",
    "count": 1,
-   "unresolved": true
+   "cid": 637511,
+   "formula": "C9H8O",
+   "weight": "132.16",
+   "inchikey": "KJPRLNWUNMBNBZ-QPJJXVBHSA-N",
+   "smiles": "C1=CC=C(C=C1)C=CC=O",
+   "iupacName": "(E)-3-phenylprop-2-enal"
   },
   {
    "name": "Cinnamic acid",
    "slug": "cinnamic-acid",
    "count": 1,
-   "unresolved": true
+   "cid": 444539,
+   "formula": "C9H8O2",
+   "weight": "148.16",
+   "inchikey": "WBYWAXJHAXSJNI-VOTSOKGWSA-N",
+   "smiles": "C1=CC=C(C=C1)C=CC(=O)O",
+   "iupacName": "(E)-3-phenylprop-2-enoic acid"
   },
   {
    "name": "Cinnamyl acetate",
    "slug": "cinnamyl-acetate",
    "count": 1,
-   "unresolved": true
+   "cid": 5282110,
+   "formula": "C11H12O2",
+   "weight": "176.21",
+   "inchikey": "WJSDHUCWMSHDCR-VMPITWQZSA-N",
+   "smiles": "CC(=O)OCC=CC1=CC=CC=C1",
+   "iupacName": "[(E)-3-phenylprop-2-enyl] acetate"
   },
   {
    "name": "Cirsilineol",
    "slug": "cirsilineol",
    "count": 1,
-   "unresolved": true
+   "cid": 162464,
+   "formula": "C18H16O7",
+   "weight": "344.3",
+   "inchikey": "VKOSQMWSWLZQPA-UHFFFAOYSA-N",
+   "smiles": "COC1=C(C=CC(=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC)OC)O)O",
+   "iupacName": "5-hydroxy-2-(4-hydroxy-3-methoxyphenyl)-6,7-dimethoxychromen-4-one"
   },
   {
    "name": "cis-Nuciferol",
    "slug": "cis-nuciferol",
    "count": 1,
-   "unresolved": true
+   "cid": 67178146,
+   "formula": "C15H22O",
+   "weight": "218.33",
+   "inchikey": "FXCIQPDJVYFUQG-UUSOHVMFSA-N",
+   "smiles": "CC1=CC=C(C=C1)C(C)CCC=C(C)CO",
+   "iupacName": "(Z,6S)-2-methyl-6-(4-methylphenyl)hept-2-en-1-ol"
   },
   {
    "name": "Cissamine and hayatinine",
@@ -2681,7 +3682,12 @@
    "name": "Columbin",
    "slug": "columbin",
    "count": 1,
-   "unresolved": true
+   "cid": 188289,
+   "formula": "C20H22O6",
+   "weight": "358.4",
+   "inchikey": "AALLCALQGXXWNA-DURQJQQASA-N",
+   "smiles": "CC12CCC3C(=O)OC(CC3(C1C4C=CC2(C(=O)O4)O)C)C5=COC=C5",
+   "iupacName": "(1S,2S,3S,5S,8R,11R,12S)-5-(furan-3-yl)-12-hydroxy-3,11-dimethyl-6,14-dioxatetracyclo[10.2.2.02,11.03,8]hexadec-15-ene-7,13-dione"
   },
   {
    "name": "Combined actives of 40",
@@ -2693,7 +3699,12 @@
    "name": "Copane",
    "slug": "copane",
    "count": 1,
-   "unresolved": true
+   "cid": 12303908,
+   "formula": "C15H26",
+   "weight": "206.37",
+   "inchikey": "LJVYOZJXUGFDJA-UHFFFAOYSA-N",
+   "smiles": "CC1CCC2C3C1C2(CCC3C(C)C)C",
+   "iupacName": "1,3-dimethyl-8-propan-2-yltricyclo[4.4.0.02,7]decane"
   },
   {
    "name": "Cordifolioside A-E",
@@ -2705,7 +3716,12 @@
    "name": "Corylifolin",
    "slug": "corylifolin",
    "count": 1,
-   "unresolved": true
+   "cid": 14236566,
+   "formula": "C20H20O4",
+   "weight": "324.4",
+   "inchikey": "OAUREGNZECGNQS-IBGZPJMESA-N",
+   "smiles": "CC(=CCC1=CC2=C(C=C1O)OC(CC2=O)C3=CC=C(C=C3)O)C",
+   "iupacName": "(2S)-7-hydroxy-2-(4-hydroxyphenyl)-6-(3-methylbut-2-enyl)-2,3-dihydrochromen-4-one"
   },
   {
    "name": "Cow horn",
@@ -2717,13 +3733,23 @@
    "name": "Creatinine",
    "slug": "creatinine",
    "count": 1,
-   "unresolved": true
+   "cid": 588,
+   "formula": "C4H7N3O",
+   "weight": "113.12",
+   "inchikey": "DDRJAANPRJIHGJ-UHFFFAOYSA-N",
+   "smiles": "CN1CC(=O)N=C1N",
+   "iupacName": "2-amino-3-methyl-4H-imidazol-5-one"
   },
   {
    "name": "Cubebin",
    "slug": "cubebin",
    "count": 1,
-   "unresolved": true
+   "cid": 117443,
+   "formula": "C20H20O6",
+   "weight": "356.4",
+   "inchikey": "DIYWRNLYKJKHAM-MDOVXXIYSA-N",
+   "smiles": "C1C(C(C(O1)O)CC2=CC3=C(C=C2)OCO3)CC4=CC5=C(C=C4)OCO5",
+   "iupacName": "(2S,3R,4R)-3,4-bis(1,3-benzodioxol-5-ylmethyl)oxolan-2-ol"
   },
   {
    "name": "Cubebinionolide and cubebinone",
@@ -2735,25 +3761,45 @@
    "name": "Cuminaldehyde",
    "slug": "cuminaldehyde",
    "count": 1,
-   "unresolved": true
+   "cid": 326,
+   "formula": "C10H12O",
+   "weight": "148.20",
+   "inchikey": "WTWBUQJHJGUZCY-UHFFFAOYSA-N",
+   "smiles": "CC(C)C1=CC=C(C=C1)C=O",
+   "iupacName": "4-propan-2-ylbenzaldehyde"
   },
   {
    "name": "Cuminol",
    "slug": "cuminol",
    "count": 1,
-   "unresolved": true
+   "cid": 325,
+   "formula": "C10H14O",
+   "weight": "150.22",
+   "inchikey": "OIGWAXDAPKFNCQ-UHFFFAOYSA-N",
+   "smiles": "CC(C)C1=CC=C(C=C1)CO",
+   "iupacName": "(4-propan-2-ylphenyl)methanol"
   },
   {
    "name": "Curcumin glucuronide",
    "slug": "curcumin-glucuronide",
    "count": 1,
-   "unresolved": true
+   "cid": 71315012,
+   "formula": "C27H28O12",
+   "weight": "544.5",
+   "inchikey": "BNSAVBGHRVFVNN-XSCLDSQRSA-N",
+   "smiles": "COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC(=C(C=C2)OC3C(C(C(C(O3)C(=O)O)O)O)O)OC)O",
+   "iupacName": "(2S,3S,4S,5R,6S)-3,4,5-trihydroxy-6-[4-[(1E,6E)-7-(4-hydroxy-3-methoxyphenyl)-3,5-dioxohepta-1,6-dienyl]-2-methoxyphenoxy]oxane-2-carboxylic acid"
   },
   {
    "name": "Curcumin sulfate",
    "slug": "curcumin-sulfate",
    "count": 1,
-   "unresolved": true
+   "cid": 66645351,
+   "formula": "C21H20O9S",
+   "weight": "448.4",
+   "inchikey": "NEJVQQBBTRFOHB-FCXRPNKRSA-N",
+   "smiles": "COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC(=C(C=C2)OS(=O)(=O)O)OC)O",
+   "iupacName": "[4-[(1E,6E)-7-(4-hydroxy-3-methoxyphenyl)-3,5-dioxohepta-1,6-dienyl]-2-methoxyphenyl] hydrogen sulfate"
   },
   {
    "name": "Curcuminoids complex",
@@ -2765,31 +3811,45 @@
    "name": "Curcuzedoalide",
    "slug": "curcuzedoalide",
    "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "Curlone",
-   "slug": "curlone",
-   "count": 1,
-   "unresolved": true
+   "cid": 177826340,
+   "formula": "C15H20O3",
+   "weight": "248.32",
+   "inchikey": "JARATYWUMQSVOZ-SLEUVZQESA-N",
+   "smiles": "CC1CCC2C1(OC(=O)C=C2C)CC(=O)C(=C)C",
+   "iupacName": "(4aS,7S,7aR)-4,7-dimethyl-7a-(3-methyl-2-oxobut-3-enyl)-4a,5,6,7-tetrahydrocyclopenta[b]pyran-2-one"
   },
   {
    "name": "Cuscohygrine",
    "slug": "cuscohygrine",
    "count": 1,
-   "unresolved": true
+   "cid": 1201543,
+   "formula": "C13H24N2O",
+   "weight": "224.34",
+   "inchikey": "ZEBIACKKLGVLFZ-TXEJJXNPSA-N",
+   "smiles": "CN1CCCC1CC(=O)CC2CCCN2C",
+   "iupacName": "1-[(2S)-1-methylpyrrolidin-2-yl]-3-[(2R)-1-methylpyrrolidin-2-yl]propan-2-one"
   },
   {
    "name": "Cyanidin-3-glucoside",
    "slug": "cyanidin-3-glucoside",
    "count": 1,
-   "unresolved": true
+   "cid": 197081,
+   "formula": "C21H21ClO11",
+   "weight": "484.8",
+   "inchikey": "YTMNONATNXDQJF-UBNZBFALSA-N",
+   "smiles": "C1=CC(=C(C=C1C2=[O+]C3=CC(=CC(=C3C=C2OC4C(C(C(C(O4)CO)O)O)O)O)O)O)O.[Cl-]",
+   "iupacName": "(2S,3R,4S,5S,6R)-2-[2-(3,4-dihydroxyphenyl)-5,7-dihydroxychromenylium-3-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol chloride"
   },
   {
    "name": "Cyanidin-3-sambubioside",
    "slug": "cyanidin-3-sambubioside",
    "count": 1,
-   "unresolved": true
+   "cid": 3084569,
+   "formula": "C26H29ClO15",
+   "weight": "616.9",
+   "inchikey": "BWHXEGJOYVNGQH-XOBUMVIESA-N",
+   "smiles": "C1C(C(C(C(O1)OC2C(C(C(OC2OC3=CC4=C(C=C(C=C4[O+]=C3C5=CC(=C(C=C5)O)O)O)O)CO)O)O)O)O)O.[Cl-]",
+   "iupacName": "(2S,3R,4S,5R)-2-[(2S,3R,4S,5S,6R)-2-[2-(3,4-dihydroxyphenyl)-5,7-dihydroxychromenylium-3-yl]oxy-4,5-dihydroxy-6-(hydroxymethyl)oxan-3-yl]oxyoxane-3,4,5-triol chloride"
   },
   {
    "name": "Cycloart-23-ene-3beta",
@@ -2801,7 +3861,12 @@
    "name": "Cyclocurcumin",
    "slug": "cyclocurcumin",
    "count": 1,
-   "unresolved": true
+   "cid": 69879809,
+   "formula": "C21H20O6",
+   "weight": "368.4",
+   "inchikey": "IZLBLUIBVMGMIY-ZZXKWVIFSA-N",
+   "smiles": "COC1=C(C=CC(=C1)C=CC2=CC(=O)CC(O2)C3=CC(=C(C=C3)O)OC)O",
+   "iupacName": "2-(4-hydroxy-3-methoxyphenyl)-6-[(E)-2-(4-hydroxy-3-methoxyphenyl)ethenyl]-2,3-dihydropyran-4-one"
   },
   {
    "name": "Cyclotides",
@@ -2825,37 +3890,67 @@
    "name": "Daucosterol",
    "slug": "daucosterol",
    "count": 1,
-   "unresolved": true
+   "cid": 5742590,
+   "formula": "C35H60O6",
+   "weight": "576.8",
+   "inchikey": "NPJICTMALKLTFW-OFUAXYCQSA-N",
+   "smiles": "CCC(CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)OC5C(C(C(C(O5)CO)O)O)O)C)C)C(C)C",
+   "iupacName": "(2R,3R,4S,5S,6R)-2-[[(3S,8S,9S,10R,13R,14S,17R)-17-[(2R,5R)-5-ethyl-6-methylheptan-2-yl]-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-yl]oxy]-6-(hydroxymethyl)oxane-3,4,5-triol"
   },
   {
    "name": "Decanal",
    "slug": "decanal",
    "count": 1,
-   "unresolved": true
+   "cid": 8175,
+   "formula": "C10H20O",
+   "weight": "156.26",
+   "inchikey": "KSMVZQYAVGTKIV-UHFFFAOYSA-N",
+   "smiles": "CCCCCCCCCC=O",
+   "iupacName": "decanal"
   },
   {
    "name": "Deodarin",
    "slug": "deodarin",
    "count": 1,
-   "unresolved": true
+   "cid": 129317315,
+   "formula": "C16H14O7",
+   "weight": "318.28",
+   "inchikey": "UZTCIKUQXMKDLJ-UHFFFAOYSA-N",
+   "smiles": "CC1=C2C(=C(C=C1O)O)C(=O)C(C(O2)C3=CC(=C(C=C3)O)O)O",
+   "iupacName": "2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxy-8-methyl-2,3-dihydrochromen-4-one"
   },
   {
    "name": "Deoxycholic acid",
    "slug": "deoxycholic-acid",
    "count": 1,
-   "unresolved": true
+   "cid": 222528,
+   "formula": "C24H40O4",
+   "weight": "392.6",
+   "inchikey": "KXGVEGMKQFWNSR-LLQZFEROSA-N",
+   "smiles": "CC(CCC(=O)O)C1CCC2C1(C(CC3C2CCC4C3(CCC(C4)O)C)O)C",
+   "iupacName": "(4R)-4-[(3R,5R,8R,9S,10S,12S,13R,14S,17R)-3,12-dihydroxy-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-17-yl]pentanoic acid"
   },
   {
    "name": "Deserpidine",
    "slug": "deserpidine",
    "count": 1,
-   "unresolved": true
+   "cid": 8550,
+   "formula": "C32H38N2O8",
+   "weight": "578.7",
+   "inchikey": "CVBMAZKKCSYWQR-WCGOZPBSSA-N",
+   "smiles": "COC1C(CC2CN3CCC4=C(C3CC2C1C(=O)OC)NC5=CC=CC=C45)OC(=O)C6=CC(=C(C(=C6)OC)OC)OC",
+   "iupacName": "methyl (1R,15S,17R,18R,19S,20S)-18-methoxy-17-(3,4,5-trimethoxybenzoyl)oxy-1,3,11,12,14,15,16,17,18,19,20,21-dodecahydroyohimban-19-carboxylate"
   },
   {
    "name": "Desmodin",
    "slug": "desmodin",
    "count": 1,
-   "unresolved": true
+   "cid": 13338925,
+   "formula": "C22H22O6",
+   "weight": "382.4",
+   "inchikey": "CEAWIMABVSITMV-UHFFFAOYSA-N",
+   "smiles": "CC1(C=CC2=C(C3=C(C=C2O1)OCC4C3OC5=CC(=C(C=C45)OC)O)OC)C",
+   "iupacName": "7,21-dimethoxy-17,17-dimethyl-3,12,16-trioxapentacyclo[11.8.0.02,10.04,9.015,20]henicosa-1(13),4,6,8,14,18,20-heptaen-6-ol"
   },
   {
    "name": "Dihydrocadambine",
@@ -2867,41 +3962,60 @@
    "name": "Dihydrocubebin",
    "slug": "dihydrocubebin",
    "count": 1,
-   "unresolved": true
+   "cid": 193042,
+   "formula": "C20H22O6",
+   "weight": "358.4",
+   "inchikey": "JKCVMTYNARDGET-HOTGVXAUSA-N",
+   "smiles": "C1OC2=C(O1)C=C(C=C2)CC(CO)C(CC3=CC4=C(C=C3)OCO4)CO",
+   "iupacName": "(2R,3R)-2,3-bis(1,3-benzodioxol-5-ylmethyl)butane-1,4-diol"
   },
   {
    "name": "Dihydroisoalantolactone",
    "slug": "dihydroisoalantolactone",
    "count": 1,
-   "unresolved": true
+   "cid": 6451323,
+   "formula": "C15H22O2",
+   "weight": "234.33",
+   "inchikey": "YYJRTJYCOMIDIC-GGAZOKNXSA-N",
+   "smiles": "CC1C2CC3C(=C)CCCC3(CC2OC1=O)C",
+   "iupacName": "(3S,3aR,4aS,8aR,9aR)-3,8a-dimethyl-5-methylidene-3a,4,4a,6,7,8,9,9a-octahydro-3H-benzo[f][1]benzofuran-2-one"
   },
   {
    "name": "Dihydrozeatin-O-glucoside",
    "slug": "dihydrozeatin-o-glucoside",
    "count": 1,
-   "unresolved": true
+   "cid": 23724755,
+   "formula": "C16H25N5O6",
+   "weight": "383.40",
+   "inchikey": "QRZHDHJUYBONQQ-UFZVAZPKSA-N",
+   "smiles": "CC(CCNC1=NC=NC2=C1NC=N2)COC3C(C(C(C(O3)CO)O)O)O",
+   "iupacName": "(2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-[2-methyl-4-(7H-purin-6-ylamino)butoxy]oxane-3,4,5-triol"
   },
   {
    "name": "Dioscin",
    "slug": "dioscin",
    "count": 1,
-   "unresolved": true
+   "cid": 119245,
+   "formula": "C45H72O16",
+   "weight": "869.0",
+   "inchikey": "VNONINPVFQTJOC-ZGXDEBHDSA-N",
+   "smiles": "CC1CCC2(C(C3C(O2)CC4C3(CCC5C4CC=C6C5(CCC(C6)OC7C(C(C(C(O7)CO)OC8C(C(C(C(O8)C)O)O)O)O)OC9C(C(C(C(O9)C)O)O)O)C)C)C)OC1",
+   "iupacName": "(2S,3R,4R,5R,6S)-2-[(2R,3S,4S,5R,6R)-4-hydroxy-2-(hydroxymethyl)-6-[(1S,2S,4S,5'R,6R,7S,8R,9S,12S,13R,16S)-5',7,9,13-tetramethylspiro[5-oxapentacyclo[10.8.0.02,9.04,8.013,18]icos-18-ene-6,2'-oxane]-16-yl]oxy-5-[(2S,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-3-yl]oxy-6-methyloxane-3,4,5-triol"
   },
   {
    "name": "Diosmin",
    "slug": "diosmin",
    "count": 1,
-   "unresolved": true
+   "cid": 5281613,
+   "formula": "C28H32O15",
+   "weight": "608.5",
+   "inchikey": "GZSOSUNBTXMUFQ-YFAPSIMESA-N",
+   "smiles": "CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=CC(=C4C(=C3)OC(=CC4=O)C5=CC(=C(C=C5)OC)O)O)O)O)O)O)O)O",
+   "iupacName": "5-hydroxy-2-(3-hydroxy-4-methoxyphenyl)-7-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-[[(2R,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxymethyl]oxan-2-yl]oxychromen-4-one"
   },
   {
    "name": "Disposable sutra neti tubes",
    "slug": "disposable-sutra-neti-tubes",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "Dithymoquinone",
-   "slug": "dithymoquinone",
    "count": 1,
    "unresolved": true
   },
@@ -2921,7 +4035,12 @@
    "name": "Droserone",
    "slug": "droserone",
    "count": 1,
-   "unresolved": true
+   "cid": 442739,
+   "formula": "C11H8O4",
+   "weight": "204.18",
+   "inchikey": "KILMMLMKSQWMTN-UHFFFAOYSA-N",
+   "smiles": "CC1=C(C2=C(C(=CC=C2)O)C(=O)C1=O)O",
+   "iupacName": "4,8-dihydroxy-3-methylnaphthalene-1,2-dione"
   },
   {
    "name": "Dumetoronins A-F",
@@ -2933,7 +4052,12 @@
    "name": "E-Guggulsterone",
    "slug": "e-guggulsterone",
    "count": 1,
-   "unresolved": true
+   "cid": 6439929,
+   "formula": "C21H28O2",
+   "weight": "312.4",
+   "inchikey": "WDXRGPWQVHZTQJ-AUKWTSKRSA-N",
+   "smiles": "CC=C1C(=O)CC2C1(CCC3C2CCC4=CC(=O)CCC34C)C",
+   "iupacName": "(8R,9S,10R,13S,14S,17E)-17-ethylidene-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15-decahydrocyclopenta[a]phenanthrene-3,16-dione"
   },
   {
    "name": "Earthen pots",
@@ -2951,7 +4075,12 @@
    "name": "Ecdysterone",
    "slug": "ecdysterone",
    "count": 1,
-   "unresolved": true
+   "cid": 118701161,
+   "formula": "C27H44O7",
+   "weight": "480.6",
+   "inchikey": "NKDFYOWSKOHCCO-WRDNMVOESA-N",
+   "smiles": "CC12CCC3C(=CC(=O)C4C3(CC(C(C4)O)O)C)C1(CCC2C(C)(C(CCC(C)(C)O)O)O)O",
+   "iupacName": "(2S,3R,10R,13R,14S,17S)-2,3,14-trihydroxy-10,13-dimethyl-17-[(3R)-2,3,6-trihydroxy-6-methylheptan-2-yl]-2,3,4,5,9,11,12,15,16,17-decahydro-1H-cyclopenta[a]phenanthren-6-one"
   },
   {
    "name": "Ellagitannins",
@@ -2963,7 +4092,12 @@
    "name": "Elliptinone",
    "slug": "elliptinone",
    "count": 1,
-   "unresolved": true
+   "cid": 146680,
+   "formula": "C22H14O6",
+   "weight": "374.3",
+   "inchikey": "TXVAHWOABLOYCD-UHFFFAOYSA-N",
+   "smiles": "CC1=CC(=O)C2=C(C1=O)C=CC(=C2O)C3=C(C4=C(C=C3)C(=O)C(=CC4=O)C)O",
+   "iupacName": "5-hydroxy-6-(1-hydroxy-6-methyl-5,8-dioxonaphthalen-2-yl)-2-methylnaphthalene-1,4-dione"
   },
   {
    "name": "Embeliaribyl ester",
@@ -2975,7 +4109,12 @@
    "name": "Embelin",
    "slug": "embelin",
    "count": 1,
-   "unresolved": true
+   "cid": 3218,
+   "formula": "C17H26O4",
+   "weight": "294.4",
+   "inchikey": "IRSFLDGTOHBADP-UHFFFAOYSA-N",
+   "smiles": "CCCCCCCCCCCC1=C(C(=O)C=C(C1=O)O)O",
+   "iupacName": "2,5-dihydroxy-3-undecylcyclohexa-2,5-diene-1,4-dione"
   },
   {
    "name": "Embelinol",
@@ -2993,13 +4132,23 @@
    "name": "Emblicanin A",
    "slug": "emblicanin-a",
    "count": 1,
-   "unresolved": true
+   "cid": 119058016,
+   "formula": "C34H22O22",
+   "weight": "782.5",
+   "inchikey": "UEHSSTYZXFBDNL-DNOBIOAJSA-N",
+   "smiles": "C1C2C(C(=C(C(=O)O2)OC(=O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C(=C5C6=C(C(=C(C=C6C(=O)O1)O)O)O)O)O)O",
+   "iupacName": "[(10R,15R)-3,4,5,21,22,23-hexahydroxy-8,13,18-trioxo-12-(3,4,5-trihydroxybenzoyl)oxy-9,14,17-trioxatetracyclo[17.4.0.02,7.010,15]tricosa-1(23),2,4,6,11,19,21-heptaen-11-yl] 3,4,5-trihydroxybenzoate"
   },
   {
    "name": "Emblicanin B",
    "slug": "emblicanin-b",
    "count": 1,
-   "unresolved": true
+   "cid": 119058017,
+   "formula": "C34H20O22",
+   "weight": "780.5",
+   "inchikey": "JNSDMRUXOVAXNP-LOKFHWFJSA-N",
+   "smiles": "C1C2C(C3=C(C(=O)O2)OC(=O)C4=CC(=C(C(=C4C5=C(C(=C(C=C5C(=O)O3)O)O)O)O)O)O)OC(=O)C6=CC(=C(C(=C6C7=C(C(=C(C=C7C(=O)O1)O)O)O)O)O)O",
+   "iupacName": "(1R,22R)-7,8,9,12,13,14,28,29,30,33,34,35-dodecahydroxy-3,18,21,24,39-pentaoxaheptacyclo[20.17.0.02,19.05,10.011,16.026,31.032,37]nonatriaconta-2(19),5,7,9,11,13,15,26,28,30,32,34,36-tridecaene-4,17,20,25,38-pentone"
   },
   {
    "name": "Epigallocatechin-5",
@@ -3017,7 +4166,12 @@
    "name": "Eriocitrin",
    "slug": "eriocitrin",
    "count": 1,
-   "unresolved": true
+   "cid": 83489,
+   "formula": "C27H32O15",
+   "weight": "596.5",
+   "inchikey": "OMQADRGFMLGFJF-MNPJBKLOSA-N",
+   "smiles": "CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O)O",
+   "iupacName": "(2S)-2-(3,4-dihydroxyphenyl)-5-hydroxy-7-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-[[(2R,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxymethyl]oxan-2-yl]oxy-2,3-dihydrochromen-4-one"
   },
   {
    "name": "Ervolanine",
@@ -3035,25 +4189,45 @@
    "name": "Ethyl gallate",
    "slug": "ethyl-gallate",
    "count": 1,
-   "unresolved": true
+   "cid": 13250,
+   "formula": "C9H10O5",
+   "weight": "198.17",
+   "inchikey": "VFPFQHQNJCMNBZ-UHFFFAOYSA-N",
+   "smiles": "CCOC(=O)C1=CC(=C(C(=C1)O)O)O",
+   "iupacName": "ethyl 3,4,5-trihydroxybenzoate"
   },
   {
    "name": "Eudesmane",
    "slug": "eudesmane",
    "count": 1,
-   "unresolved": true
+   "cid": 193299,
+   "formula": "C15H28",
+   "weight": "208.38",
+   "inchikey": "DYEQPYSFRWUNNV-APIJFGDWSA-N",
+   "smiles": "CC1CCCC2(C1CC(CC2)C(C)C)C",
+   "iupacName": "(3R,4aS,5R,8aR)-5,8a-dimethyl-3-propan-2-yl-2,3,4,4a,5,6,7,8-octahydro-1H-naphthalene"
   },
   {
    "name": "Eugenyl acetate",
    "slug": "eugenyl-acetate",
    "count": 1,
-   "unresolved": true
+   "cid": 7136,
+   "formula": "C12H14O3",
+   "weight": "206.24",
+   "inchikey": "SCCDQYPEOIRVGX-UHFFFAOYSA-N",
+   "smiles": "CC(=O)OC1=C(C=C(C=C1)CC=C)OC",
+   "iupacName": "(2-methoxy-4-prop-2-enylphenyl) acetate"
   },
   {
    "name": "Fisetin",
    "slug": "fisetin",
    "count": 1,
-   "unresolved": true
+   "cid": 5281614,
+   "formula": "C15H10O6",
+   "weight": "286.24",
+   "inchikey": "XHEFDIBZLJXQHF-UHFFFAOYSA-N",
+   "smiles": "C1=CC(=C(C=C1C2=C(C(=O)C3=C(O2)C=C(C=C3)O)O)O)O",
+   "iupacName": "2-(3,4-dihydroxyphenyl)-3,7-dihydroxychromen-4-one"
   },
   {
    "name": "Fistulic acid",
@@ -3071,19 +4245,34 @@
    "name": "Flavone",
    "slug": "flavone",
    "count": 1,
-   "unresolved": true
+   "cid": 10680,
+   "formula": "C15H10O2",
+   "weight": "222.24",
+   "inchikey": "VHBFFQKBGNRLFZ-UHFFFAOYSA-N",
+   "smiles": "C1=CC=C(C=C1)C2=CC(=O)C3=CC=CC=C3O2",
+   "iupacName": "2-phenylchromen-4-one"
   },
   {
    "name": "Flavonoid",
    "slug": "flavonoid",
    "count": 1,
-   "unresolved": true
+   "cid": 10251,
+   "formula": "C15H12O2",
+   "weight": "224.25",
+   "inchikey": "ZONYXWQDUYMKFB-UHFFFAOYSA-N",
+   "smiles": "C1C(OC2=CC=CC=C2C1=O)C3=CC=CC=C3",
+   "iupacName": "2-phenyl-2,3-dihydrochromen-4-one"
   },
   {
    "name": "Formononetin",
    "slug": "formononetin",
    "count": 1,
-   "unresolved": true
+   "cid": 5280378,
+   "formula": "C16H12O4",
+   "weight": "268.26",
+   "inchikey": "HKQYGTCOTHHOMP-UHFFFAOYSA-N",
+   "smiles": "COC1=CC=C(C=C1)C2=COC3=C(C2=O)C=CC(=C3)O",
+   "iupacName": "7-hydroxy-3-(4-methoxyphenyl)chromen-4-one"
   },
   {
    "name": "Fresh juice expression",
@@ -3113,19 +4302,34 @@
    "name": "Furanodienone",
    "slug": "furanodienone",
    "count": 1,
-   "unresolved": true
+   "cid": 6506548,
+   "formula": "C15H18O2",
+   "weight": "230.30",
+   "inchikey": "XVOHELPNOXGRBQ-NXAIOARDSA-N",
+   "smiles": "CC1=CC(=O)C2=C(CC(=CCC1)C)OC=C2C",
+   "iupacName": "(5E,9E)-3,6,10-trimethyl-8,11-dihydro-7H-cyclodeca[b]furan-4-one"
   },
   {
    "name": "Furostanol",
    "slug": "furostanol",
    "count": 1,
-   "unresolved": true
+   "cid": 22295359,
+   "formula": "C27H46O2",
+   "weight": "402.7",
+   "inchikey": "VTDHWTKIIMFVPT-QWIGTTJDSA-N",
+   "smiles": "CC1C(OC2C1C3(CCC4C(C3C2)CCC5C4(CCCC5)C)C)CCC(C)CO",
+   "iupacName": "2-methyl-4-[(1R,2S,4S,7S,8R,9S,12S,13S)-7,9,13-trimethyl-5-oxapentacyclo[10.8.0.02,9.04,8.013,18]icosan-6-yl]butan-1-ol"
   },
   {
    "name": "Galactomannan",
    "slug": "galactomannan",
    "count": 1,
-   "unresolved": true
+   "cid": 439336,
+   "formula": "C18H32O16",
+   "weight": "504.4",
+   "inchikey": "OMDQUFIYNPYJFM-XKDAHURESA-N",
+   "smiles": "C(C1C(C(C(C(O1)OCC2C(C(C(C(O2)O)O)O)OC3C(C(C(C(O3)CO)O)O)O)O)O)O)O",
+   "iupacName": "(2R,3R,4S,5R,6S)-2-(hydroxymethyl)-6-[[(2R,3S,4R,5S,6R)-4,5,6-trihydroxy-3-[(2S,3S,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxan-2-yl]methoxy]oxane-3,4,5-triol"
   },
   {
    "name": "Gallic acid tannins",
@@ -3137,25 +4341,45 @@
    "name": "Gallotannins",
    "slug": "gallotannins",
    "count": 1,
-   "unresolved": true
+   "cid": 452707,
+   "formula": "C27H24O18",
+   "weight": "636.5",
+   "inchikey": "RNKMOGIPOMVCHO-SJMVAQJGSA-N",
+   "smiles": "C1=C(C=C(C(=C1O)O)O)C(=O)OCC2C(C(C(C(O2)OC(=O)C3=CC(=C(C(=C3)O)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O)O",
+   "iupacName": "[(2R,3R,4S,5R,6S)-3,5-dihydroxy-4,6-bis[(3,4,5-trihydroxybenzoyl)oxy]oxan-2-yl]methyl 3,4,5-trihydroxybenzoate"
   },
   {
    "name": "Gamma-himachalene",
    "slug": "gamma-himachalene",
    "count": 1,
-   "unresolved": true
+   "cid": 577062,
+   "formula": "C15H24",
+   "weight": "204.35",
+   "inchikey": "PUWNTRHCKNHSAT-UHFFFAOYSA-N",
+   "smiles": "CC1=CC2C(CC1)C(=CCCC2(C)C)C",
+   "iupacName": "2,5,9,9-tetramethyl-3,4,4a,7,8,9a-hexahydrobenzo[7]annulene"
   },
   {
    "name": "Gangetin",
    "slug": "gangetin",
    "count": 1,
-   "unresolved": true
+   "cid": 317611,
+   "formula": "C26H28O5",
+   "weight": "420.5",
+   "inchikey": "FUNJPZFUOULIEZ-UHFFFAOYSA-N",
+   "smiles": "CC(=CCC1=C(C=CC2=C1OC3C2COC4=C3C(=C5C=CC(OC5=C4)(C)C)OC)O)C",
+   "iupacName": "21-methoxy-17,17-dimethyl-5-(3-methylbut-2-enyl)-3,12,16-trioxapentacyclo[11.8.0.02,10.04,9.015,20]henicosa-1(13),4(9),5,7,14,18,20-heptaen-6-ol"
   },
   {
    "name": "Gangetinin",
    "slug": "gangetinin",
    "count": 1,
-   "unresolved": true
+   "cid": 44257472,
+   "formula": "C26H26O5",
+   "weight": "418.5",
+   "inchikey": "GYTBWEWXRFODTH-UHFFFAOYSA-N",
+   "smiles": "CC1(C=CC2=C(O1)C=CC3=C2OC4C3COC5=C4C(=C6C=CC(OC6=C5)(C)C)OC)C",
+   "iupacName": "3-methoxy-7,7,20,20-tetramethyl-8,12,19,25-tetraoxahexacyclo[12.11.0.02,11.04,9.015,24.018,23]pentacosa-2(11),3,5,9,15(24),16,18(23),21-octaene"
   },
   {
    "name": "Garpedunchromones A-C",
@@ -3167,25 +4391,45 @@
    "name": "Gedunin",
    "slug": "gedunin",
    "count": 1,
-   "unresolved": true
+   "cid": 12004512,
+   "formula": "C28H34O7",
+   "weight": "482.6",
+   "inchikey": "YJXDGWUNRYLINJ-BHAPSIHVSA-N",
+   "smiles": "CC(=O)OC1CC2C(C(=O)C=CC2(C3C1(C45C(O4)C(=O)OC(C5(CC3)C)C6=COC=C6)C)C)(C)C",
+   "iupacName": "[(1S,2R,4S,7S,8S,11R,12R,17R,19R)-7-(furan-3-yl)-1,8,12,16,16-pentamethyl-5,15-dioxo-3,6-dioxapentacyclo[9.8.0.02,4.02,8.012,17]nonadec-13-en-19-yl] acetate"
   },
   {
    "name": "Genistein",
    "slug": "genistein",
    "count": 1,
-   "unresolved": true
+   "cid": 5280961,
+   "formula": "C15H10O5",
+   "weight": "270.24",
+   "inchikey": "TZBJGXHYKVUXJN-UHFFFAOYSA-N",
+   "smiles": "C1=CC(=CC=C1C2=COC3=CC(=CC(=C3C2=O)O)O)O",
+   "iupacName": "5,7-dihydroxy-3-(4-hydroxyphenyl)chromen-4-one"
   },
   {
    "name": "Geraniin",
    "slug": "geraniin",
    "count": 1,
-   "unresolved": true
+   "cid": 3001497,
+   "formula": "C41H28O27",
+   "weight": "952.6",
+   "inchikey": "JQQBXPCJFAKSPG-SVYIMCMUSA-N",
+   "smiles": "C1C2C3C(C(C(O2)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C6=C5C7C(=CC(=O)C(C7(O)O)(O6)O)C(=O)O3)O)O)OC(=O)C8=CC(=C(C(=C8C9=C(C(=C(C=C9C(=O)O1)O)O)O)O)O)O",
+   "iupacName": "[(1R,7R,8S,26R,28S,29R,38R)-1,13,14,15,18,19,20,34,35,39,39-undecahydroxy-2,5,10,23,31-pentaoxo-6,9,24,27,30,40-hexaoxaoctacyclo[34.3.1.04,38.07,26.08,29.011,16.017,22.032,37]tetraconta-3,11,13,15,17,19,21,32,34,36-decaen-28-yl] 3,4,5-trihydroxybenzoate"
   },
   {
    "name": "Germacrone",
    "slug": "germacrone",
    "count": 1,
-   "unresolved": true
+   "cid": 6436348,
+   "formula": "C15H22O",
+   "weight": "218.33",
+   "inchikey": "CAULGCQHVOVVRN-SWZPTJTJSA-N",
+   "smiles": "CC1=CCC(=C(C)C)C(=O)CC(=CCC1)C",
+   "iupacName": "(3E,7E)-3,7-dimethyl-10-propan-2-ylidenecyclodeca-3,7-dien-1-one"
   },
   {
    "name": "Ghee",
@@ -3215,7 +4459,12 @@
    "name": "Glabrin",
    "slug": "glabrin",
    "count": 1,
-   "unresolved": true
+   "cid": 161850,
+   "formula": "C7H13NO4",
+   "weight": "175.18",
+   "inchikey": "VORPREYJNTUAGI-UHFFFAOYSA-N",
+   "smiles": "CN1CC(C(CC1C(=O)O)O)O",
+   "iupacName": "4,5-dihydroxy-1-methylpiperidine-2-carboxylic acid"
   },
   {
    "name": "Glass cupping cups",
@@ -3245,7 +4494,12 @@
    "name": "Glucotropaeolin",
    "slug": "glucotropaeolin",
    "count": 1,
-   "unresolved": true
+   "cid": 9548605,
+   "formula": "C14H19NO9S2",
+   "weight": "409.4",
+   "inchikey": "QQGLQYQXUKHWPX-BXLHIMNRSA-N",
+   "smiles": "C1=CC=C(C=C1)CC(=NOS(=O)(=O)O)SC2C(C(C(C(O2)CO)O)O)O",
+   "iupacName": "[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl] (1E)-2-phenyl-N-sulfooxyethanimidothioate"
   },
   {
    "name": "Gold-plated vessels",
@@ -3275,7 +4529,12 @@
    "name": "Guineensine",
    "slug": "guineensine",
    "count": 1,
-   "unresolved": true
+   "cid": 6442405,
+   "formula": "C24H33NO3",
+   "weight": "383.5",
+   "inchikey": "FPMPOFBEYSSYDQ-AUVZEZIHSA-N",
+   "smiles": "CC(C)CNC(=O)C=CC=CCCCCCCC=CC1=CC2=C(C=C1)OCO2",
+   "iupacName": "(2E,4E,12E)-13-(1,3-benzodioxol-5-yl)-N-(2-methylpropyl)trideca-2,4,12-trienamide"
   },
   {
    "name": "Haritaki",
@@ -3287,13 +4546,23 @@
    "name": "Hedychenone",
    "slug": "hedychenone",
    "count": 1,
-   "unresolved": true
+   "cid": 12067184,
+   "formula": "C20H26O2",
+   "weight": "298.4",
+   "inchikey": "MXTCKNHXBBXULO-ZJDHVTHPSA-N",
+   "smiles": "CC1=CC(=O)C2C(CCCC2(C1C=CC3=COC=C3)C)(C)C",
+   "iupacName": "(4S,4aR,8aS)-4-[(E)-2-(furan-3-yl)ethenyl]-3,4a,8,8-tetramethyl-5,6,7,8a-tetrahydro-4H-naphthalen-1-one"
   },
   {
    "name": "Herbacetin",
    "slug": "herbacetin",
    "count": 1,
-   "unresolved": true
+   "cid": 5280544,
+   "formula": "C15H10O7",
+   "weight": "302.23",
+   "inchikey": "ZDOTZEDNGNPOEW-UHFFFAOYSA-N",
+   "smiles": "C1=CC(=CC=C1C2=C(C(=O)C3=C(O2)C(=C(C=C3O)O)O)O)O",
+   "iupacName": "3,5,7,8-tetrahydroxy-2-(4-hydroxyphenyl)chromen-4-one"
   },
   {
    "name": "Herpestine",
@@ -3305,7 +4574,12 @@
    "name": "Hexahydrocurcumin",
    "slug": "hexahydrocurcumin",
    "count": 1,
-   "unresolved": true
+   "cid": 5318039,
+   "formula": "C21H26O6",
+   "weight": "374.4",
+   "inchikey": "RSAHICAPUYTWHW-UHFFFAOYSA-N",
+   "smiles": "COC1=C(C=CC(=C1)CCC(CC(=O)CCC2=CC(=C(C=C2)O)OC)O)O",
+   "iupacName": "5-hydroxy-1,7-bis(4-hydroxy-3-methoxyphenyl)heptan-3-one"
   },
   {
    "name": "Hijama cupping kits",
@@ -3317,13 +4591,23 @@
    "name": "Himachalol",
    "slug": "himachalol",
    "count": 1,
-   "unresolved": true
+   "cid": 121536,
+   "formula": "C15H26O",
+   "weight": "222.37",
+   "inchikey": "BBAMLNIPVMLTSQ-VNHYZAJKSA-N",
+   "smiles": "CC1=CC2C(CC1)C(CCCC2(C)C)(C)O",
+   "iupacName": "(4aR,5R,9aS)-2,5,9,9-tetramethyl-4,4a,6,7,8,9a-hexahydro-3H-benzo[7]annulen-5-ol"
   },
   {
    "name": "Hippuric acid",
    "slug": "hippuric-acid",
    "count": 1,
-   "unresolved": true
+   "cid": 464,
+   "formula": "C9H9NO3",
+   "weight": "179.17",
+   "inchikey": "QIAFMBKCNZACKA-UHFFFAOYSA-N",
+   "smiles": "C1=CC=C(C=C1)C(=O)NCC(=O)O",
+   "iupacName": "2-benzamidoacetic acid"
   },
   {
    "name": "Homoisoflavonoids",
@@ -3335,7 +4619,12 @@
    "name": "Homovanillic acid",
    "slug": "homovanillic-acid",
    "count": 1,
-   "unresolved": true
+   "cid": 1738,
+   "formula": "C9H10O4",
+   "weight": "182.17",
+   "inchikey": "QRMZSPFSDQBLIX-UHFFFAOYSA-N",
+   "smiles": "COC1=C(C=CC(=C1)CC(=O)O)O",
+   "iupacName": "2-(4-hydroxy-3-methoxyphenyl)acetic acid"
   },
   {
    "name": "Honey",
@@ -3347,7 +4636,12 @@
    "name": "Hydrogen sulfide",
    "slug": "hydrogen-sulfide",
    "count": 1,
-   "unresolved": true
+   "cid": 402,
+   "formula": "H2S",
+   "weight": "34.08",
+   "inchikey": "RWSOTUBLDIXVET-UHFFFAOYSA-N",
+   "smiles": "S",
+   "iupacName": "sulfane"
   },
   {
    "name": "Hydrolyzable tannins",
@@ -3359,25 +4653,45 @@
    "name": "Hydroxycitric acid lactone",
    "slug": "hydroxycitric-acid-lactone",
    "count": 1,
-   "unresolved": true
+   "cid": 9991606,
+   "formula": "C6H6O7",
+   "weight": "190.11",
+   "inchikey": "PFHZIWAVXDSFTB-CVYQJGLWSA-N",
+   "smiles": "C1C(=O)OC(C1(C(=O)O)O)C(=O)O",
+   "iupacName": "(2S,3S)-3-hydroxy-5-oxooxolane-2,3-dicarboxylic acid"
   },
   {
    "name": "Hydroxytyrosol",
    "slug": "hydroxytyrosol",
    "count": 1,
-   "unresolved": true
+   "cid": 82755,
+   "formula": "C8H10O3",
+   "weight": "154.16",
+   "inchikey": "JUUBCHWRXWPFFH-UHFFFAOYSA-N",
+   "smiles": "C1=CC(=C(C=C1CCO)O)O",
+   "iupacName": "4-(2-hydroxyethyl)benzene-1,2-diol"
   },
   {
    "name": "Incensole acetate",
    "slug": "incensole-acetate",
    "count": 1,
-   "unresolved": true
+   "cid": 53386731,
+   "formula": "C22H36O3",
+   "weight": "348.5",
+   "inchikey": "HVBACKJYWZTKCA-XSLBTUIJSA-N",
+   "smiles": "CC1=CCCC(=CCC2(CCC(O2)(C(CC1)OC(=O)C)C)C(C)C)C",
+   "iupacName": "[(1R,2S,5E,9E,12S)-1,5,9-trimethyl-12-propan-2-yl-15-oxabicyclo[10.2.1]pentadeca-5,9-dien-2-yl] acetate"
   },
   {
    "name": "Indigo",
    "slug": "indigo",
    "count": 1,
-   "unresolved": true
+   "cid": 10215,
+   "formula": "C16H10N2O2",
+   "weight": "262.26",
+   "inchikey": "QQILFGKZUJYXGS-UHFFFAOYSA-N",
+   "smiles": "C1=CC=C2C(=C1)C(=C(N2)C3=NC4=CC=CC=C4C3=O)O",
+   "iupacName": "2-(3-hydroxy-1H-indol-2-yl)indol-3-one"
   },
   {
    "name": "Indigoside",
@@ -3386,16 +4700,15 @@
    "unresolved": true
   },
   {
-   "name": "Indigotin",
-   "slug": "indigotin",
-   "count": 1,
-   "unresolved": true
-  },
-  {
    "name": "Indirubin",
    "slug": "indirubin",
    "count": 1,
-   "unresolved": true
+   "cid": 10177,
+   "formula": "C16H10N2O2",
+   "weight": "262.26",
+   "inchikey": "JNLNPCNGMHKCKO-UHFFFAOYSA-N",
+   "smiles": "C1=CC=C2C(=C1)C(=C(N2)O)C3=NC4=CC=CC=C4C3=O",
+   "iupacName": "2-(2-hydroxy-1H-indol-3-yl)indol-3-one"
   },
   {
    "name": "Ingenol esters",
@@ -3407,13 +4720,23 @@
    "name": "Inulicin",
    "slug": "inulicin",
    "count": 1,
-   "unresolved": true
+   "cid": 75528891,
+   "formula": "C17H24O5",
+   "weight": "308.4",
+   "inchikey": "QKUFZFLZBUSEHN-CZLJMHDISA-N",
+   "smiles": "CC1=C(C(C2C(C1)OC(=O)C2=C)O)C(C)CCCOC(=O)C",
+   "iupacName": "[(4S)-4-[(3aS,4S,7aR)-4-hydroxy-6-methyl-3-methylidene-2-oxo-3a,4,7,7a-tetrahydro-1-benzofuran-5-yl]pentyl] acetate"
   },
   {
    "name": "Iridoids",
    "slug": "iridoids",
    "count": 1,
-   "unresolved": true
+   "cid": 453214,
+   "formula": "C20H24O12",
+   "weight": "456.4",
+   "inchikey": "XFIOZCMKPNZOII-RJMCEWFISA-N",
+   "smiles": "COC(=O)C1=COC(C2C1C=CC23C=C(C(=O)O3)CO)OC4C(C(C(C(O4)CO)O)O)O",
+   "iupacName": "methyl (1S,4aS,7R,7aS)-4'-(hydroxymethyl)-5'-oxo-1-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyspiro[4a,7a-dihydro-1H-cyclopenta[c]pyran-7,2'-furan]-4-carboxylate"
   },
   {
    "name": "Iron compounds",
@@ -3425,13 +4748,23 @@
    "name": "Isatin",
    "slug": "isatin",
    "count": 1,
-   "unresolved": true
+   "cid": 7054,
+   "formula": "C8H5NO2",
+   "weight": "147.13",
+   "inchikey": "JXDYKVIHCLTXOP-UHFFFAOYSA-N",
+   "smiles": "C1=CC=C2C(=C1)C(=O)C(=O)N2",
+   "iupacName": "1H-indole-2,3-dione"
   },
   {
    "name": "Isoalantolactone",
    "slug": "isoalantolactone",
    "count": 1,
-   "unresolved": true
+   "cid": 73285,
+   "formula": "C15H20O2",
+   "weight": "232.32",
+   "inchikey": "CVUANYCQTOGILD-QVHKTLOISA-N",
+   "smiles": "CC12CCCC(=C)C1CC3C(C2)OC(=O)C3=C",
+   "iupacName": "(3aR,4aS,8aR,9aR)-8a-methyl-3,5-dimethylidene-3a,4,4a,6,7,8,9,9a-octahydrobenzo[f][1]benzofuran-2-one"
   },
   {
    "name": "Isocadambine",
@@ -3443,13 +4776,23 @@
    "name": "Isodihydrocadambine",
    "slug": "isodihydrocadambine",
    "count": 1,
-   "unresolved": true
+   "cid": 53463365,
+   "formula": "C27H34N2O10",
+   "weight": "546.6",
+   "inchikey": "FCECVXQMCZMWDG-UHFFFAOYSA-N",
+   "smiles": "COC(=O)C1=COC(C2C1CC3C4=C(CCN3C2CO)C5=CC=CC=C5N4)OC6C(C(C(C(O6)CO)O)O)O",
+   "iupacName": "methyl 14-(hydroxymethyl)-16-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-17-oxa-3,13-diazapentacyclo[11.8.0.02,10.04,9.015,20]henicosa-2(10),4,6,8,18-pentaene-19-carboxylate"
   },
   {
    "name": "Isoflavones",
    "slug": "isoflavones",
    "count": 1,
-   "unresolved": true
+   "cid": 72304,
+   "formula": "C15H10O2",
+   "weight": "222.24",
+   "inchikey": "GOMNOOKGLZYEJT-UHFFFAOYSA-N",
+   "smiles": "C1=CC=C(C=C1)C2=COC3=CC=CC=C3C2=O",
+   "iupacName": "3-phenylchromen-4-one"
   },
   {
    "name": "Isoflavonoids",
@@ -3461,31 +4804,56 @@
    "name": "Isogarcinol",
    "slug": "isogarcinol",
    "count": 1,
-   "unresolved": true
+   "cid": 11135781,
+   "formula": "C38H50O6",
+   "weight": "602.8",
+   "inchikey": "KXTNVBQRLRYVCO-LPSZMIQCSA-N",
+   "smiles": "CC(=CCC1CC23CC(C(OC2=C(C(=O)C(C3=O)(C1(C)C)CC=C(C)C)C(=O)C4=CC(=C(C=C4)O)O)(C)C)CC=C(C)C)C",
+   "iupacName": "(1S,3S,9R,11R)-7-(3,4-dihydroxybenzoyl)-4,4,10,10-tetramethyl-3,9,11-tris(3-methylbut-2-enyl)-5-oxatricyclo[7.3.1.01,6]tridec-6-ene-8,13-dione"
   },
   {
    "name": "Isoliquiritigenin",
    "slug": "isoliquiritigenin",
    "count": 1,
-   "unresolved": true
+   "cid": 638278,
+   "formula": "C15H12O4",
+   "weight": "256.25",
+   "inchikey": "DXDRHHKMWQZJHT-FPYGCLRLSA-N",
+   "smiles": "C1=CC(=CC=C1C=CC(=O)C2=C(C=C(C=C2)O)O)O",
+   "iupacName": "(E)-1-(2,4-dihydroxyphenyl)-3-(4-hydroxyphenyl)prop-2-en-1-one"
   },
   {
    "name": "Isomangiferin",
    "slug": "isomangiferin",
    "count": 1,
-   "unresolved": true
+   "cid": 5318597,
+   "formula": "C19H18O11",
+   "weight": "422.3",
+   "inchikey": "CDYBOKJASDEORM-HBVDJMOISA-N",
+   "smiles": "C1=C2C(=CC(=C1O)O)OC3=C(C2=O)C(=CC(=C3C4C(C(C(C(O4)CO)O)O)O)O)O",
+   "iupacName": "1,3,6,7-tetrahydroxy-4-[(2S,3R,4R,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]xanthen-9-one"
   },
   {
    "name": "Isopimaric acid",
    "slug": "isopimaric-acid",
    "count": 1,
-   "unresolved": true
+   "cid": 442048,
+   "formula": "C20H30O2",
+   "weight": "302.5",
+   "inchikey": "MXYATHGRPJZBNA-KRFUXDQASA-N",
+   "smiles": "CC1(CCC2C(=CCC3C2(CCCC3(C)C(=O)O)C)C1)C=C",
+   "iupacName": "(1R,4aR,4bS,7S,10aR)-7-ethenyl-1,4a,7-trimethyl-3,4,4b,5,6,8,10,10a-octahydro-2H-phenanthrene-1-carboxylic acid"
   },
   {
    "name": "Isopsoralen",
    "slug": "isopsoralen",
    "count": 1,
-   "unresolved": true
+   "cid": 10658,
+   "formula": "C11H6O3",
+   "weight": "186.16",
+   "inchikey": "XDROKJSWHURZGO-UHFFFAOYSA-N",
+   "smiles": "C1=CC2=C(C=CO2)C3=C1C=CC(=O)O3",
+   "iupacName": "furo[2,3-h]chromen-2-one"
   },
   {
    "name": "Isorottlerin",
@@ -3503,13 +4871,23 @@
    "name": "Isothymusin",
    "slug": "isothymusin",
    "count": 1,
-   "unresolved": true
+   "cid": 630253,
+   "formula": "C17H14O7",
+   "weight": "330.29",
+   "inchikey": "IODGQWWTJYDCLN-UHFFFAOYSA-N",
+   "smiles": "COC1=C(C(=C2C(=C1O)C(=O)C=C(O2)C3=CC=C(C=C3)O)O)OC",
+   "iupacName": "5,8-dihydroxy-2-(4-hydroxyphenyl)-6,7-dimethoxychromen-4-one"
   },
   {
    "name": "Isovitexin",
    "slug": "isovitexin",
    "count": 1,
-   "unresolved": true
+   "cid": 162350,
+   "formula": "C21H20O10",
+   "weight": "432.4",
+   "inchikey": "MYXNWGACZJSMBT-VJXVFPJBSA-N",
+   "smiles": "C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)C4C(C(C(C(O4)CO)O)O)O)O)O",
+   "iupacName": "5,7-dihydroxy-2-(4-hydroxyphenyl)-6-[(2S,3R,4R,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]chromen-4-one"
   },
   {
    "name": "Isozeylanone",
@@ -3521,7 +4899,12 @@
    "name": "Jalaric acid",
    "slug": "jalaric-acid",
    "count": 1,
-   "unresolved": true
+   "cid": 12304681,
+   "formula": "C15H20O5",
+   "weight": "280.32",
+   "inchikey": "HZVNIVFLQGTWOT-HNVNEDHRSA-N",
+   "smiles": "CC1(C2CCC(C23CC1C(=CC3O)C(=O)O)C=O)CO",
+   "iupacName": "(1S,2S,5S,6S,7R,10S)-2-formyl-10-hydroxy-6-(hydroxymethyl)-6-methyltricyclo[5.3.1.01,5]undec-8-ene-8-carboxylic acid"
   },
   {
    "name": "Jujubogenin glycosides",
@@ -3545,19 +4928,34 @@
    "name": "Kanjone",
    "slug": "kanjone",
    "count": 1,
-   "unresolved": true
+   "cid": 12305449,
+   "formula": "C18H12O4",
+   "weight": "292.3",
+   "inchikey": "OVAZJVLXWGEKHQ-UHFFFAOYSA-N",
+   "smiles": "COC1=C2C(=C3C(=C1)C(=O)C=C(O3)C4=CC=CC=C4)C=CO2",
+   "iupacName": "6-methoxy-2-phenylfuro[2,3-h]chromen-4-one"
   },
   {
    "name": "Karachine",
    "slug": "karachine",
    "count": 1,
-   "unresolved": true
+   "cid": 630739,
+   "formula": "C26H27NO5",
+   "weight": "433.5",
+   "inchikey": "CFSSZVBJSHOACV-UHFFFAOYSA-N",
+   "smiles": "CC12CC3C4=C(C1C5(N3CCC6=CC7=C(C=C65)OCO7)CC(=O)C2)C=CC(=C4OC)OC",
+   "iupacName": "23,24-dimethoxy-18-methyl-8,10-dioxa-2-azaheptacyclo[16.7.1.02,14.05,13.07,11.014,19.020,25]hexacosa-5,7(11),12,20(25),21,23-hexaen-16-one"
   },
   {
    "name": "Karanjin",
    "slug": "karanjin",
    "count": 1,
-   "unresolved": true
+   "cid": 100633,
+   "formula": "C18H12O4",
+   "weight": "292.3",
+   "inchikey": "LKPQNZRGGNOPPU-UHFFFAOYSA-N",
+   "smiles": "COC1=C(OC2=C(C1=O)C=CC3=C2C=CO3)C4=CC=CC=C4",
+   "iupacName": "3-methoxy-2-phenylfuro[2,3-h]chromen-4-one"
   },
   {
    "name": "Kokum butter",
@@ -3587,7 +4985,12 @@
    "name": "Lactoferrin",
    "slug": "lactoferrin",
    "count": 1,
-   "unresolved": true
+   "cid": 126456119,
+   "formula": "C141H226N46O29S3",
+   "weight": "3125.8",
+   "inchikey": "CSSYQJWUGATIHM-IKGCZBKSSA-N",
+   "smiles": "CCC(C)C(C(=NC(C(C)O)C(=NC(CS)C(=NC(C(C)C)C(=NC(CCCNC(=N)N)C(=NC(CCCNC(=N)N)C(=NC(C)C(=NC(CC1=CC=CC=C1)C(=O)O)O)O)O)O)O)O)O)N=C(C(CO)N=C(C2CCCN2C(=O)C(C)N=C(CN=C(C(CC(C)C)N=C(C(CCCCN)N=C(C(CCCCN)N=C(C(CCSC)N=C(C(CCCNC(=N)N)N=C(C(CC3=CNC4=CC=CC=C43)N=C(C(CCC(=N)O)N=C(C(CC5=CNC6=CC=CC=C65)N=C(C(CCCNC(=N)N)N=C(C(CCCNC(=N)N)N=C(C(CS)N=C(C(CCCCN)N=C(C(CC7=CC=CC=C7)N)O)O)O)O)O)O)O)O)O)O)O)O)O)O)O)O",
+   "iupacName": "(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2R)-2-[[(2S,3R)-2-[[(2S,3S)-2-[[(2S)-2-[[[(2S)-1-[(2S)-2-[[2-[[(2S)-2-[[(2S)-6-amino-2-[[(2S)-6-amino-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2R)-2-[[(2S)-6-amino-2-[[(2S)-2-amino-1-hydroxy-3-phenylpropylidene]amino]-1-hydroxyhexylidene]amino]-1-hydroxy-3-sulfanylpropylidene]amino]-5-carbamimidamido-1-hydroxypentylidene]amino]-5-carbamimidamido-1-hydroxypentylidene]amino]-1-hydroxy-3-(1H-indol-3-yl)propylidene]amino]-1,5-dihydroxy-5-iminopentylidene]amino]-1-hydroxy-3-(1H-indol-3-yl)propylidene]amino]-5-carbamimidamido-1-hydroxypentylidene]amino]-1-hydroxy-4-methylsulfanylbutylidene]amino]-1-hydroxyhexylidene]amino]-1-hydroxyhexylidene]amino]-1-hydroxy-4-methylpentylidene]amino]-1-hydroxyethylidene]amino]propanoyl]pyrrolidin-2-yl]-hydroxymethylidene]amino]-1,3-dihydroxypropylidene]amino]-1-hydroxy-3-methylpentylidene]amino]-1,3-dihydroxybutylidene]amino]-1-hydroxy-3-sulfanylpropylidene]amino]-1-hydroxy-3-methylbutylidene]amino]-5-carbamimidamido-1-hydroxypentylidene]amino]-5-carbamimidamido-1-hydroxypentylidene]amino]-1-hydroxypropylidene]amino]-3-phenylpropanoic acid"
   },
   {
    "name": "Lamarckianin",
@@ -3605,37 +5008,67 @@
    "name": "Leucocyanidin",
    "slug": "leucocyanidin",
    "count": 1,
-   "unresolved": true
+   "cid": 71629,
+   "formula": "C15H14O7",
+   "weight": "306.27",
+   "inchikey": "SBZWTSHAFILOTE-UHFFFAOYSA-N",
+   "smiles": "C1=CC(=C(C=C1C2C(C(C3=C(C=C(C=C3O2)O)O)O)O)O)O",
+   "iupacName": "2-(3,4-dihydroxyphenyl)-3,4-dihydro-2H-chromene-3,4,5,7-tetrol"
   },
   {
    "name": "Leucopelargonidin",
    "slug": "leucopelargonidin",
    "count": 1,
-   "unresolved": true
+   "cid": 3286789,
+   "formula": "C15H14O6",
+   "weight": "290.27",
+   "inchikey": "FSVMLWOLZHGCQX-UHFFFAOYSA-N",
+   "smiles": "C1=CC(=CC=C1C2C(C(C3=C(C=C(C=C3O2)O)O)O)O)O",
+   "iupacName": "2-(4-hydroxyphenyl)-3,4-dihydro-2H-chromene-3,4,5,7-tetrol"
   },
   {
    "name": "Liensinine",
    "slug": "liensinine",
    "count": 1,
-   "unresolved": true
+   "cid": 160644,
+   "formula": "C37H42N2O6",
+   "weight": "610.7",
+   "inchikey": "XCUCMLUTCAKSOZ-FIRIVFDPSA-N",
+   "smiles": "CN1CCC2=CC(=C(C=C2C1CC3=CC=C(C=C3)O)OC4=C(C=CC(=C4)CC5C6=CC(=C(C=C6CCN5C)OC)OC)O)OC",
+   "iupacName": "4-[[(1R)-6,7-dimethoxy-2-methyl-3,4-dihydro-1H-isoquinolin-1-yl]methyl]-2-[[(1R)-1-[(4-hydroxyphenyl)methyl]-6-methoxy-2-methyl-3,4-dihydro-1H-isoquinolin-7-yl]oxy]phenol"
   },
   {
    "name": "Lignans",
    "slug": "lignans",
    "count": 1,
-   "unresolved": true
+   "cid": 443013,
+   "formula": "C22H22O8",
+   "weight": "414.4",
+   "inchikey": "YJGVMLPVUAXIQN-BCVBHCCTSA-N",
+   "smiles": "COC1=CC(=CC(=C1OC)OC)C2C3C(COC3=O)C(C4=CC5=C(C=C24)OCO5)O",
+   "iupacName": "(5R,8aS,9R)-5-hydroxy-9-(3,4,5-trimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-[2]benzofuro[5,6-f][1,3]benzodioxol-8-one"
   },
   {
    "name": "Lignins",
    "slug": "lignins",
    "count": 1,
-   "unresolved": true
+   "cid": 175586,
+   "formula": "C18H13N3Na2O8S2",
+   "weight": "509.4",
+   "inchikey": "RLLNZXVKBYGKIP-UHFFFAOYSA-L",
+   "smiles": "CC(=O)NC1=C2C(=C(C=C1)S(=O)(=O)[O-])C=C(C(=C2O)N=NC3=CC=CC=C3)S(=O)(=O)[O-].[Na+].[Na+]",
+   "iupacName": "disodium;4-acetamido-5-hydroxy-6-phenyldiazenylnaphthalene-1,7-disulfonate"
   },
   {
    "name": "Liquiritigenin",
    "slug": "liquiritigenin",
    "count": 1,
-   "unresolved": true
+   "cid": 114829,
+   "formula": "C15H12O4",
+   "weight": "256.25",
+   "inchikey": "FURUXTVZLHCCNA-AWEZNQCLSA-N",
+   "smiles": "C1C(OC2=C(C1=O)C=CC(=C2)O)C3=CC=C(C=C3)O",
+   "iupacName": "(2S)-7-hydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one"
   },
   {
    "name": "Lup-20",
@@ -3647,31 +5080,56 @@
    "name": "Lupeolic acid",
    "slug": "lupeolic-acid",
    "count": 1,
-   "unresolved": true
+   "cid": 90644330,
+   "formula": "C30H48O3",
+   "weight": "456.7",
+   "inchikey": "NYJYXELDYSTZFI-SZTSEJDOSA-N",
+   "smiles": "CC(=C)C1CCC2(C1C3CCC4C5(CCC(C(C5CCC4(C3(CC2)C)C)(C)C(=O)O)O)C)C",
+   "iupacName": "(1R,3aR,5aR,5bR,7aR,8R,9S,11aR,11bR,13aR,13bR)-9-hydroxy-3a,5a,5b,8,11a-pentamethyl-1-prop-1-en-2-yl-1,2,3,4,5,6,7,7a,9,10,11,11b,12,13,13a,13b-hexadecahydrocyclopenta[a]chrysene-8-carboxylic acid"
   },
   {
    "name": "Luteolin-7-glucoside",
    "slug": "luteolin-7-glucoside",
    "count": 1,
-   "unresolved": true
+   "cid": 5280637,
+   "formula": "C21H20O11",
+   "weight": "448.4",
+   "inchikey": "PEFNSGRTCBGNAN-QNDFHXLGSA-N",
+   "smiles": "C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)OC4C(C(C(C(O4)CO)O)O)O)O)O)O",
+   "iupacName": "2-(3,4-dihydroxyphenyl)-5-hydroxy-7-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one"
   },
   {
    "name": "Luteolin-7-O-glucuronide",
    "slug": "luteolin-7-o-glucuronide",
    "count": 1,
-   "unresolved": true
+   "cid": 13607752,
+   "formula": "C21H18O12",
+   "weight": "462.4",
+   "inchikey": "VSUOKLTVXQRUSG-UHFFFAOYSA-N",
+   "smiles": "C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)OC4C(C(C(C(O4)C(=O)O)O)O)O)O)O)O",
+   "iupacName": "6-[2-(3,4-dihydroxyphenyl)-5-hydroxy-4-oxochromen-7-yl]oxy-3,4,5-trihydroxyoxane-2-carboxylic acid"
   },
   {
    "name": "Magnocurarine",
    "slug": "magnocurarine",
    "count": 1,
-   "unresolved": true
+   "cid": 53266,
+   "formula": "C19H24NO3+",
+   "weight": "314.4",
+   "inchikey": "CLWOXNLVWMXBRD-QGZVFWFLSA-O",
+   "smiles": "C[N+]1(CCC2=CC(=C(C=C2C1CC3=CC=C(C=C3)O)O)OC)C",
+   "iupacName": "(1R)-1-[(4-hydroxyphenyl)methyl]-6-methoxy-2,2-dimethyl-3,4-dihydro-1H-isoquinolin-2-ium-7-ol"
   },
   {
    "name": "Mahmoodin",
    "slug": "mahmoodin",
    "count": 1,
-   "unresolved": true
+   "cid": 126566,
+   "formula": "C30H38O8",
+   "weight": "526.6",
+   "inchikey": "HGUQPCAWIZIAKO-GALXXUDFSA-N",
+   "smiles": "CC(=O)OC1CC2C(C(=O)C=CC2(C3C1(C4=CC(=O)OC(C4(CC3)C)(C5=COC=C5)OCCO)C)C)(C)C",
+   "iupacName": "[(1R,4bR,5R,6aR,10aR,10bR,12aR)-1-(furan-3-yl)-1-(2-hydroxyethoxy)-4b,7,7,10a,12a-pentamethyl-3,8-dioxo-5,6,6a,10b,11,12-hexahydronaphtho[2,1-f]isochromen-5-yl] acetate"
   },
   {
    "name": "Mallotophilippinens",
@@ -3689,7 +5147,12 @@
    "name": "Mangiferin",
    "slug": "mangiferin",
    "count": 1,
-   "unresolved": true
+   "cid": 5281647,
+   "formula": "C19H18O11",
+   "weight": "422.3",
+   "inchikey": "AEDDIBAIWPIIBD-ZJKJAXBQSA-N",
+   "smiles": "C1=C2C(=CC(=C1O)O)OC3=C(C2=O)C(=C(C(=C3)O)C4C(C(C(C(O4)CO)O)O)O)O",
+   "iupacName": "1,3,6,7-tetrahydroxy-2-[(2S,3R,4R,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]xanthen-9-one"
   },
   {
    "name": "Manjistha",
@@ -3707,7 +5170,12 @@
    "name": "Marsupsin",
    "slug": "marsupsin",
    "count": 1,
-   "unresolved": true
+   "cid": 134369,
+   "formula": "C16H14O6",
+   "weight": "302.28",
+   "inchikey": "IQTGAKWQIFFPQX-UHFFFAOYSA-N",
+   "smiles": "COC1=CC(=CC2=C1C(=O)C(O2)(CC3=CC=C(C=C3)O)O)O",
+   "iupacName": "2,6-dihydroxy-2-[(4-hydroxyphenyl)methyl]-4-methoxy-1-benzofuran-3-one"
   },
   {
    "name": "Medical-grade silicone nasal catheters",
@@ -3737,25 +5205,45 @@
    "name": "Methyl eugenol",
    "slug": "methyl-eugenol",
    "count": 1,
-   "unresolved": true
+   "cid": 7127,
+   "formula": "C11H14O2",
+   "weight": "178.23",
+   "inchikey": "ZYEMGPIYFIJGTP-UHFFFAOYSA-N",
+   "smiles": "COC1=C(C=C(C=C1)CC=C)OC",
+   "iupacName": "1,2-dimethoxy-4-prop-2-enylbenzene"
   },
   {
    "name": "Methyl grevillate",
    "slug": "methyl-grevillate",
    "count": 1,
-   "unresolved": true
+   "cid": 5353609,
+   "formula": "C10H10O4",
+   "weight": "194.18",
+   "inchikey": "BQCNSTFWSKOWMA-GORDUTHDSA-N",
+   "smiles": "COC(=O)C=CC1=C(C=CC(=C1)O)O",
+   "iupacName": "methyl (E)-3-(2,5-dihydroxyphenyl)prop-2-enoate"
   },
   {
    "name": "Methyl piperate",
    "slug": "methyl-piperate",
    "count": 1,
-   "unresolved": true
+   "cid": 9921021,
+   "formula": "C13H12O4",
+   "weight": "232.23",
+   "inchikey": "VOZJBFJHMHRLDN-ZUVMSYQZSA-N",
+   "smiles": "COC(=O)C=CC=CC1=CC2=C(C=C1)OCO2",
+   "iupacName": "methyl (2E,4E)-5-(1,3-benzodioxol-5-yl)penta-2,4-dienoate"
   },
   {
    "name": "Methylaervine",
    "slug": "methylaervine",
    "count": 1,
-   "unresolved": true
+   "cid": 158928,
+   "formula": "C15H10N2O2",
+   "weight": "250.25",
+   "inchikey": "FDBMONUDUKGKGY-UHFFFAOYSA-N",
+   "smiles": "COC1=CC2=C(C=C1)N3C(=O)C=CC4=NC=CC2=C43",
+   "iupacName": "12-methoxy-1,6-diazatetracyclo[7.6.1.05,16.010,15]hexadeca-3,5(16),6,8,10,12,14-heptaen-2-one"
   },
   {
    "name": "Modern cupping therapy sets",
@@ -3767,7 +5255,12 @@
    "name": "Monolaurin",
    "slug": "monolaurin",
    "count": 1,
-   "unresolved": true
+   "cid": 14871,
+   "formula": "C15H30O4",
+   "weight": "274.40",
+   "inchikey": "ARIWANIATODDMH-UHFFFAOYSA-N",
+   "smiles": "CCCCCCCCCCCC(=O)OCC(CO)O",
+   "iupacName": "2,3-dihydroxypropyl dodecanoate"
   },
   {
    "name": "Mucilaginous",
@@ -3797,13 +5290,23 @@
    "name": "Muscone",
    "slug": "muscone",
    "count": 1,
-   "unresolved": true
+   "cid": 7160826,
+   "formula": "C16H30O",
+   "weight": "238.41",
+   "inchikey": "ALHUZKCOMYUFRB-OAHLLOKOSA-N",
+   "smiles": "CC1CCCCCCCCCCCCC(=O)C1",
+   "iupacName": "(3R)-3-methylcyclopentadecan-1-one"
   },
   {
    "name": "Muscopyridine",
    "slug": "muscopyridine",
    "count": 1,
-   "unresolved": true
+   "cid": 193306,
+   "formula": "C16H25N",
+   "weight": "231.38",
+   "inchikey": "IMNKABOILQOFDL-CQSZACIVSA-N",
+   "smiles": "CC1CCCCCCCCC2=NC(=CC=C2)C1",
+   "iupacName": "(3R)-3-methyl-16-azabicyclo[10.3.1]hexadeca-1(15),12(16),13-triene"
   },
   {
    "name": "Musta Churna",
@@ -3815,43 +5318,78 @@
    "name": "Myristic acid",
    "slug": "myristic-acid",
    "count": 1,
-   "unresolved": true
+   "cid": 11005,
+   "formula": "C14H28O2",
+   "weight": "228.37",
+   "inchikey": "TUNFSRHWOTWDNC-UHFFFAOYSA-N",
+   "smiles": "CCCCCCCCCCCCCC(=O)O",
+   "iupacName": "tetradecanoic acid"
   },
   {
    "name": "Myrrhanol A",
    "slug": "myrrhanol-a",
    "count": 1,
-   "unresolved": true
+   "cid": 42608309,
+   "formula": "C30H52O3",
+   "weight": "460.7",
+   "inchikey": "KKOJENOIJUTRDK-FHILKHTASA-N",
+   "smiles": "CC(=CCCC1C2(CCC(C(C2CCC1(C)O)(C)C)O)C)CCC=C(C)CCC=C(C)CO",
+   "iupacName": "(2R,4aR,6S,8aS)-1-[(3E,7E,11E)-13-hydroxy-4,8,12-trimethyltrideca-3,7,11-trienyl]-2,5,5,8a-tetramethyl-3,4,4a,6,7,8-hexahydro-1H-naphthalene-2,6-diol"
   },
   {
    "name": "Myrrhanone A",
    "slug": "myrrhanone-a",
    "count": 1,
-   "unresolved": true
+   "cid": 102242791,
+   "formula": "C30H50O3",
+   "weight": "458.7",
+   "inchikey": "DRLJOZRXEKMJSC-LLCOEGNBSA-N",
+   "smiles": "CC(=CCCC1C2(CCC(=O)C(C2CCC1(C)O)(C)C)C)CCC=C(C)CCC=C(C)CO",
+   "iupacName": "(4aS,5R,6R,8aS)-6-hydroxy-5-[(3E,7E,11E)-13-hydroxy-4,8,12-trimethyltrideca-3,7,11-trienyl]-1,1,4a,6-tetramethyl-3,4,5,7,8,8a-hexahydronaphthalen-2-one"
   },
   {
    "name": "Naringin",
    "slug": "naringin",
    "count": 1,
-   "unresolved": true
+   "cid": 442428,
+   "formula": "C27H32O14",
+   "weight": "580.5",
+   "inchikey": "DFPMSGMNTNDNHN-ZPHOTFPESA-N",
+   "smiles": "CC1C(C(C(C(O1)OC2C(C(C(OC2OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O",
+   "iupacName": "(2S)-7-[(2S,3R,4S,5S,6R)-4,5-dihydroxy-6-(hydroxymethyl)-3-[(2S,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-2-yl]oxy-5-hydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one"
   },
   {
    "name": "Neferine",
    "slug": "neferine",
    "count": 1,
-   "unresolved": true
+   "cid": 159654,
+   "formula": "C38H44N2O6",
+   "weight": "624.8",
+   "inchikey": "MIBATSHDJRIUJK-ROJLCIKYSA-N",
+   "smiles": "CN1CCC2=CC(=C(C=C2C1CC3=CC=C(C=C3)OC)OC4=C(C=CC(=C4)CC5C6=CC(=C(C=C6CCN5C)OC)OC)O)OC",
+   "iupacName": "4-[[(1R)-6,7-dimethoxy-2-methyl-3,4-dihydro-1H-isoquinolin-1-yl]methyl]-2-[[(1R)-6-methoxy-1-[(4-methoxyphenyl)methyl]-2-methyl-3,4-dihydro-1H-isoquinolin-7-yl]oxy]phenol"
   },
   {
    "name": "Neosakuranin",
    "slug": "neosakuranin",
    "count": 1,
-   "unresolved": true
+   "cid": 14524443,
+   "formula": "C22H24O10",
+   "weight": "448.4",
+   "inchikey": "MNYVBVCMMNPLJI-QPJJXVBHSA-N",
+   "smiles": "COC1=CC(=C(C(=C1)OC2C(C(C(C(O2)CO)O)O)O)C(=O)C=CC3=CC=C(C=C3)O)O",
+   "iupacName": "(E)-1-[2-hydroxy-4-methoxy-6-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyphenyl]-3-(4-hydroxyphenyl)prop-2-en-1-one"
   },
   {
    "name": "Nicotine",
    "slug": "nicotine",
    "count": 1,
-   "unresolved": true
+   "cid": 89594,
+   "formula": "C10H14N2",
+   "weight": "162.23",
+   "inchikey": "SNICXCGAKADSCV-JTQLQIEISA-N",
+   "smiles": "CN1CCCC1C2=CN=CC=C2",
+   "iupacName": "3-[(2S)-1-methylpyrrolidin-2-yl]pyridine"
   },
   {
    "name": "Nigellicine and",
@@ -3863,13 +5401,23 @@
    "name": "Nigellidine",
    "slug": "nigellidine",
    "count": 1,
-   "unresolved": true
+   "cid": 136828302,
+   "formula": "C18H18N2O2",
+   "weight": "294.3",
+   "inchikey": "HJKNBAAMIKPHJF-UHFFFAOYSA-N",
+   "smiles": "CC1=CC(=O)C2=C(N3CCCCN3C2=C1)C4=CC=C(C=C4)O",
+   "iupacName": "11-(4-hydroxyphenyl)-3-methyl-6,7,8,9-tetrahydropyridazino[1,2-a]indazol-1-one"
   },
   {
    "name": "Nigellone",
    "slug": "nigellone",
    "count": 1,
-   "unresolved": true
+   "cid": 398941,
+   "formula": "C20H24O4",
+   "weight": "328.4",
+   "inchikey": "FPRGRROJPRIHJP-UHFFFAOYSA-N",
+   "smiles": "CC(C)C1=CC(=O)C2(C(C1=O)C3(C2C(=O)C(=CC3=O)C(C)C)C)C",
+   "iupacName": "4b,8b-dimethyl-3,7-di(propan-2-yl)-4a,8a-dihydrobiphenylene-1,4,5,8-tetrone"
   },
   {
    "name": "Niloticane",
@@ -3899,13 +5447,23 @@
    "name": "Nimbin",
    "slug": "nimbin",
    "count": 1,
-   "unresolved": true
+   "cid": 108058,
+   "formula": "C30H36O9",
+   "weight": "540.6",
+   "inchikey": "NHOIBRJOQAYBJT-IMGVWCFESA-N",
+   "smiles": "CC1=C2C(CC1C3=COC=C3)OC4C2(C(C5(C(C4OC(=O)C)C(C=CC5=O)(C)C(=O)OC)C)CC(=O)OC)C",
+   "iupacName": "methyl (1S,2R,3R,4R,8R,9S,10R,13R,15R)-2-acetyloxy-13-(furan-3-yl)-9-(2-methoxy-2-oxoethyl)-4,8,10,12-tetramethyl-7-oxo-16-oxatetracyclo[8.6.0.03,8.011,15]hexadeca-5,11-diene-4-carboxylate"
   },
   {
    "name": "Nimbinin",
    "slug": "nimbinin",
    "count": 1,
-   "unresolved": true
+   "cid": 49863985,
+   "formula": "C28H34O6",
+   "weight": "466.6",
+   "inchikey": "NEYCGDYQBQONFC-GGPFZBFUSA-N",
+   "smiles": "CC(=O)OC1CC2C(C(=O)C=CC2(C3C1(C45C(O4)C(=O)C(C5(CC3)C)C6=COC=C6)C)C)(C)C",
+   "iupacName": "[(1S,2R,4S,6S,7S,10R,11R,16R,18R)-6-(furan-3-yl)-1,7,11,15,15-pentamethyl-5,14-dioxo-3-oxapentacyclo[8.8.0.02,4.02,7.011,16]octadec-12-en-18-yl] acetate"
   },
   {
    "name": "Nimbinine",
@@ -3923,13 +5481,12 @@
    "name": "Nimbolide",
    "slug": "nimbolide",
    "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "Nimbosterol",
-   "slug": "nimbosterol",
-   "count": 1,
-   "unresolved": true
+   "cid": 12313376,
+   "formula": "C27H30O7",
+   "weight": "466.5",
+   "inchikey": "JZIQWNPPBKFOPT-LSYMHUITSA-N",
+   "smiles": "CC1=C2C(CC1C3=COC=C3)OC4C2(C(C5(C6C4OC(=O)C6(C=CC5=O)C)C)CC(=O)OC)C",
+   "iupacName": "methyl 2-[(1R,2S,4R,6R,9R,10S,11R,15R,18R)-6-(furan-3-yl)-7,9,11,15-tetramethyl-12,16-dioxo-3,17-dioxapentacyclo[9.6.1.02,9.04,8.015,18]octadeca-7,13-dien-10-yl]acetate"
   },
   {
    "name": "Nor-sesquiterpenoids",
@@ -3941,13 +5498,23 @@
    "name": "Normuscone",
    "slug": "normuscone",
    "count": 1,
-   "unresolved": true
+   "cid": 10409,
+   "formula": "C15H28O",
+   "weight": "224.38",
+   "inchikey": "OSOIQJGOYGSIMF-UHFFFAOYSA-N",
+   "smiles": "C1CCCCCCCC(=O)CCCCCC1",
+   "iupacName": "cyclopentadecanone"
   },
   {
    "name": "Nuciferine",
    "slug": "nuciferine",
    "count": 1,
-   "unresolved": true
+   "cid": 10146,
+   "formula": "C19H21NO2",
+   "weight": "295.4",
+   "inchikey": "ORJVQPIHKOARKV-OAHLLOKOSA-N",
+   "smiles": "CN1CCC2=CC(=C(C3=C2C1CC4=CC=CC=C43)OC)OC",
+   "iupacName": "(6aR)-1,2-dimethoxy-6-methyl-5,6,6a,7-tetrahydro-4H-dibenzo[de,g]quinoline"
   },
   {
    "name": "Nujiangbiflavone A",
@@ -3959,7 +5526,12 @@
    "name": "Obtusin",
    "slug": "obtusin",
    "count": 1,
-   "unresolved": true
+   "cid": 155380,
+   "formula": "C18H16O7",
+   "weight": "344.3",
+   "inchikey": "CFLNHFUPWNRWJA-UHFFFAOYSA-N",
+   "smiles": "CC1=CC2=C(C(=C1O)OC)C(=O)C3=C(C(=C(C=C3C2=O)OC)OC)O",
+   "iupacName": "1,7-dihydroxy-2,3,8-trimethoxy-6-methylanthracene-9,10-dione"
   },
   {
    "name": "Obtusin and aurantio-obtusin",
@@ -3971,19 +5543,34 @@
    "name": "Oleocanthal",
    "slug": "oleocanthal",
    "count": 1,
-   "unresolved": true
+   "cid": 11652416,
+   "formula": "C17H20O5",
+   "weight": "304.34",
+   "inchikey": "VPOVFCBNUOUZGG-VAKDEWRISA-N",
+   "smiles": "CC=C(C=O)C(CC=O)CC(=O)OCCC1=CC=C(C=C1)O",
+   "iupacName": "2-(4-hydroxyphenyl)ethyl (E,3S)-4-formyl-3-(2-oxoethyl)hex-4-enoate"
   },
   {
    "name": "Oleuropein",
    "slug": "oleuropein",
    "count": 1,
-   "unresolved": true
+   "cid": 5281544,
+   "formula": "C25H32O13",
+   "weight": "540.5",
+   "inchikey": "RFWGABANNQMHMZ-ZCHJGGQASA-N",
+   "smiles": "CC=C1C(C(=COC1OC2C(C(C(C(O2)CO)O)O)O)C(=O)OC)CC(=O)OCCC3=CC(=C(C=C3)O)O",
+   "iupacName": "methyl (4S,5E,6S)-4-[2-[2-(3,4-dihydroxyphenyl)ethoxy]-2-oxoethyl]-5-ethylidene-6-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-4H-pyran-3-carboxylate"
   },
   {
    "name": "Ombuin",
    "slug": "ombuin",
    "count": 1,
-   "unresolved": true
+   "cid": 5320287,
+   "formula": "C17H14O7",
+   "weight": "330.29",
+   "inchikey": "BWORNNDZQGOKBY-UHFFFAOYSA-N",
+   "smiles": "COC1=C(C=C(C=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)OC)O)O)O",
+   "iupacName": "3,5-dihydroxy-2-(3-hydroxy-4-methoxyphenyl)-7-methoxychromen-4-one"
   },
   {
    "name": "Organic acids",
@@ -4001,7 +5588,12 @@
    "name": "Orientin",
    "slug": "orientin",
    "count": 1,
-   "unresolved": true
+   "cid": 5281675,
+   "formula": "C21H20O11",
+   "weight": "448.4",
+   "inchikey": "PLAPMLGJVGLZOV-VPRICQMDSA-N",
+   "smiles": "C1=CC(=C(C=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)C4C(C(C(C(O4)CO)O)O)O)O)O",
+   "iupacName": "2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-[(2S,3R,4R,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]chromen-4-one"
   },
   {
    "name": "Oxyanthraquinone",
@@ -4013,61 +5605,89 @@
    "name": "Oxyberberine",
    "slug": "oxyberberine",
    "count": 1,
-   "unresolved": true
+   "cid": 11066,
+   "formula": "C20H17NO5",
+   "weight": "351.4",
+   "inchikey": "ZHYQCBCBTQWPLC-UHFFFAOYSA-N",
+   "smiles": "COC1=C(C2=C(C=C1)C=C3C4=CC5=C(C=C4CCN3C2=O)OCO5)OC",
+   "iupacName": "16,17-dimethoxy-5,7-dioxa-13-azapentacyclo[11.8.0.02,10.04,8.015,20]henicosa-1(21),2,4(8),9,15(20),16,18-heptaen-14-one"
   },
   {
    "name": "p-Coumaric acid",
    "slug": "p-coumaric-acid",
    "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "P-cymene",
-   "slug": "p-cymene",
-   "count": 1,
-   "unresolved": true
+   "cid": 637542,
+   "formula": "C9H8O3",
+   "weight": "164.16",
+   "inchikey": "NGSWKAQJJWESNS-ZZXKWVIFSA-N",
+   "smiles": "C1=CC(=CC=C1C=CC(=O)O)O",
+   "iupacName": "(E)-3-(4-hydroxyphenyl)prop-2-enoic acid"
   },
   {
    "name": "p-Hydroxybenzoic acid",
    "slug": "p-hydroxybenzoic-acid",
    "count": 1,
-   "unresolved": true
+   "cid": 135,
+   "formula": "C7H6O3",
+   "weight": "138.12",
+   "inchikey": "FJKROLUGYXJWQN-UHFFFAOYSA-N",
+   "smiles": "C1=CC(=CC=C1C(=O)O)O",
+   "iupacName": "4-hydroxybenzoic acid"
   },
   {
    "name": "Paclitaxel",
    "slug": "paclitaxel",
    "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "Para-cymene",
-   "slug": "para-cymene",
-   "count": 1,
-   "unresolved": true
+   "cid": 36314,
+   "formula": "C47H51NO14",
+   "weight": "853.9",
+   "inchikey": "RCINICONZNJXQF-MZXODVADSA-N",
+   "smiles": "CC1=C2C(C(=O)C3(C(CC4C(C3C(C(C2(C)C)(CC1OC(=O)C(C(C5=CC=CC=C5)NC(=O)C6=CC=CC=C6)O)O)OC(=O)C7=CC=CC=C7)(CO4)OC(=O)C)O)C)OC(=O)C",
+   "iupacName": "[(1S,2S,3R,4S,7R,9S,10S,12R,15S)-4,12-diacetyloxy-15-[(2R,3S)-3-benzamido-2-hydroxy-3-phenylpropanoyl]oxy-1,9-dihydroxy-10,14,17,17-tetramethyl-11-oxo-6-oxatetracyclo[11.3.1.03,10.04,7]heptadec-13-en-2-yl] benzoate"
   },
   {
    "name": "Pareirarine",
    "slug": "pareirarine",
    "count": 1,
-   "unresolved": true
+   "cid": 177826389,
+   "formula": "C20H26NO5+",
+   "weight": "360.4",
+   "inchikey": "FATHTIKRRBRTFD-UHFFFAOYSA-O",
+   "smiles": "C[N+]1(COC2=CC(=C(C=C2C1CC3=CC(=C(C=C3)O)OC)OC)OC)C",
+   "iupacName": "4-[(6,7-dimethoxy-3,3-dimethyl-2,4-dihydro-1,3-benzoxazin-3-ium-4-yl)methyl]-2-methoxyphenol"
   },
   {
    "name": "Pedunculagin",
    "slug": "pedunculagin",
    "count": 1,
-   "unresolved": true
+   "cid": 442688,
+   "formula": "C34H24O22",
+   "weight": "784.5",
+   "inchikey": "IYMHVUYNBVWXKH-ZITZVVOASA-N",
+   "smiles": "C1C2C(C3C(C(O2)O)OC(=O)C4=CC(=C(C(=C4C5=C(C(=C(C=C5C(=O)O3)O)O)O)O)O)O)OC(=O)C6=CC(=C(C(=C6C7=C(C(=C(C=C7C(=O)O1)O)O)O)O)O)O",
+   "iupacName": "(1R,2S,19R,22R)-7,8,9,12,13,14,20,28,29,30,33,34,35-tridecahydroxy-3,18,21,24,39-pentaoxaheptacyclo[20.17.0.02,19.05,10.011,16.026,31.032,37]nonatriaconta-5,7,9,11,13,15,26,28,30,32,34,36-dodecaene-4,17,25,38-tetrone"
   },
   {
    "name": "Pelletierine",
    "slug": "pelletierine",
    "count": 1,
-   "unresolved": true
+   "cid": 3034881,
+   "formula": "C8H15NO",
+   "weight": "141.21",
+   "inchikey": "JEIZLWNUBXHADF-MRVPVSSYSA-N",
+   "smiles": "CC(=O)CC1CCCCN1",
+   "iupacName": "1-[(2R)-piperidin-2-yl]propan-2-one"
   },
   {
    "name": "Pentadecane",
    "slug": "pentadecane",
    "count": 1,
-   "unresolved": true
+   "cid": 12391,
+   "formula": "C15H32",
+   "weight": "212.41",
+   "inchikey": "YCOZIPAWZNQLMR-UHFFFAOYSA-N",
+   "smiles": "CCCCCCCCCCCCCCC",
+   "iupacName": "pentadecane"
   },
   {
    "name": "Percolation with graded alcohol",
@@ -4103,19 +5723,34 @@
    "name": "Pinnatin",
    "slug": "pinnatin",
    "count": 1,
-   "unresolved": true
+   "cid": 5320607,
+   "formula": "C18H12O4",
+   "weight": "292.3",
+   "inchikey": "QNWOJWLIFBMWKQ-UHFFFAOYSA-N",
+   "smiles": "COC1=C2C=COC2=CC3=C1C(=O)C=C(O3)C4=CC=CC=C4",
+   "iupacName": "4-methoxy-7-phenylfuro[3,2-g]chromen-5-one"
   },
   {
    "name": "Piperlonguminine",
    "slug": "piperlonguminine",
    "count": 1,
-   "unresolved": true
+   "cid": 5320621,
+   "formula": "C16H19NO3",
+   "weight": "273.33",
+   "inchikey": "WHAAPCGHVWVUEX-GGWOSOGESA-N",
+   "smiles": "CC(C)CNC(=O)C=CC=CC1=CC2=C(C=C1)OCO2",
+   "iupacName": "(2E,4E)-5-(1,3-benzodioxol-5-yl)-N-(2-methylpropyl)penta-2,4-dienamide"
   },
   {
    "name": "Pipernonaline",
    "slug": "pipernonaline",
    "count": 1,
-   "unresolved": true
+   "cid": 9974595,
+   "formula": "C21H27NO3",
+   "weight": "341.4",
+   "inchikey": "PKLGRWSJBLGIBF-JMQWPVDRSA-N",
+   "smiles": "C1CCN(CC1)C(=O)C=CCCCCC=CC2=CC3=C(C=C2)OCO3",
+   "iupacName": "(2E,8E)-9-(1,3-benzodioxol-5-yl)-1-piperidin-1-ylnona-2,8-dien-1-one"
   },
   {
    "name": "Pippali",
@@ -4133,25 +5768,45 @@
    "name": "Pluviatilol",
    "slug": "pluviatilol",
    "count": 1,
-   "unresolved": true
+   "cid": 70695727,
+   "formula": "C20H20O6",
+   "weight": "356.4",
+   "inchikey": "VBIRCRCPHNUJAS-FQZPYLGXSA-N",
+   "smiles": "COC1=C(C=CC(=C1)C2C3COC(C3CO2)C4=CC5=C(C=C4)OCO5)O",
+   "iupacName": "4-[(3R,3aS,6S,6aS)-3-(1,3-benzodioxol-5-yl)-1,3,3a,4,6,6a-hexahydrofuro[3,4-c]furan-6-yl]-2-methoxyphenol"
   },
   {
    "name": "Pongaglabrone",
    "slug": "pongaglabrone",
    "count": 1,
-   "unresolved": true
+   "cid": 10957726,
+   "formula": "C18H10O5",
+   "weight": "306.3",
+   "inchikey": "OLRNTGNFKYRPHW-UHFFFAOYSA-N",
+   "smiles": "C1OC2=C(O1)C=C(C=C2)C3=CC(=O)C4=C(O3)C5=C(C=C4)OC=C5",
+   "iupacName": "2-(1,3-benzodioxol-5-yl)furo[2,3-h]chromen-4-one"
   },
   {
    "name": "Pongamol",
    "slug": "pongamol",
    "count": 1,
-   "unresolved": true
+   "cid": 689051,
+   "formula": "C18H14O4",
+   "weight": "294.3",
+   "inchikey": "XTLSKKJNOIMMBK-UHFFFAOYSA-N",
+   "smiles": "COC1=C(C=CC2=C1C=CO2)C(=O)CC(=O)C3=CC=CC=C3",
+   "iupacName": "1-(4-methoxy-1-benzofuran-5-yl)-3-phenylpropane-1,3-dione"
   },
   {
    "name": "Pongapin",
    "slug": "pongapin",
    "count": 1,
-   "unresolved": true
+   "cid": 3083586,
+   "formula": "C19H12O6",
+   "weight": "336.3",
+   "inchikey": "IGFBIJDAWSAJIF-UHFFFAOYSA-N",
+   "smiles": "COC1=C(OC2=C(C1=O)C=CC3=C2C=CO3)C4=CC5=C(C=C4)OCO5",
+   "iupacName": "2-(1,3-benzodioxol-5-yl)-3-methoxyfuro[2,3-h]chromen-4-one"
   },
   {
    "name": "Porcelain evaporating basins",
@@ -4163,13 +5818,12 @@
    "name": "Potassium chloride",
    "slug": "potassium-chloride",
    "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "Proanthocyanidins",
-   "slug": "proanthocyanidins",
-   "count": 1,
-   "unresolved": true
+   "cid": 4873,
+   "formula": "ClK",
+   "weight": "74.55",
+   "inchikey": "WCUXLLCKKVVCTQ-UHFFFAOYSA-M",
+   "smiles": "[Cl-].[K+]",
+   "iupacName": "potassium chloride"
   },
   {
    "name": "Probiotic microorganisms",
@@ -4181,55 +5835,100 @@
    "name": "Protobassic acid",
    "slug": "protobassic-acid",
    "count": 1,
-   "unresolved": true
+   "cid": 21576541,
+   "formula": "C30H48O6",
+   "weight": "504.7",
+   "inchikey": "IDQVFXZQPGAVAM-YPRSBIJBSA-N",
+   "smiles": "CC1(CCC2(CCC3(C(=CCC4C3(CC(C5C4(CC(C(C5(C)CO)O)O)C)O)C)C2C1)C)C(=O)O)C",
+   "iupacName": "(4aS,6aR,6aS,6bR,8R,8aR,9R,10R,11S,12aR,14bS)-8,10,11-trihydroxy-9-(hydroxymethyl)-2,2,6a,6b,9,12a-hexamethyl-1,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydropicene-4a-carboxylic acid"
   },
   {
    "name": "Protosappanin A",
    "slug": "protosappanin-a",
    "count": 1,
-   "unresolved": true
+   "cid": 128001,
+   "formula": "C15H12O5",
+   "weight": "272.25",
+   "inchikey": "MUKYVRVYBBYJSI-UHFFFAOYSA-N",
+   "smiles": "C1C(=O)COC2=C(C=CC(=C2)O)C3=CC(=C(C=C31)O)O",
+   "iupacName": "5,14,15-trihydroxy-8-oxatricyclo[10.4.0.02,7]hexadeca-1(16),2(7),3,5,12,14-hexaen-10-one"
   },
   {
    "name": "Prunetinoside",
    "slug": "prunetinoside",
    "count": 1,
-   "unresolved": true
+   "cid": 184974,
+   "formula": "C22H22O10",
+   "weight": "446.4",
+   "inchikey": "AJAGLPDYKVWJQE-RECXWPGBSA-N",
+   "smiles": "COC1=CC2=C(C(=C1)OC3C(C(C(C(O3)CO)O)O)O)C(=O)C(=CO2)C4=CC=C(C=C4)O",
+   "iupacName": "3-(4-hydroxyphenyl)-7-methoxy-5-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one"
   },
   {
    "name": "Pseudobaptigenin",
    "slug": "pseudobaptigenin",
    "count": 1,
-   "unresolved": true
+   "cid": 5281805,
+   "formula": "C16H10O5",
+   "weight": "282.25",
+   "inchikey": "KNJNBKINYHZUGC-UHFFFAOYSA-N",
+   "smiles": "C1OC2=C(O1)C=C(C=C2)C3=COC4=C(C3=O)C=CC(=C4)O",
+   "iupacName": "3-(1,3-benzodioxol-5-yl)-7-hydroxychromen-4-one"
   },
   {
    "name": "Pseudoephedrine",
    "slug": "pseudoephedrine",
    "count": 1,
-   "unresolved": true
+   "cid": 7028,
+   "formula": "C10H15NO",
+   "weight": "165.23",
+   "inchikey": "KWGRBVOPPLSCSI-WCBMZHEXSA-N",
+   "smiles": "CC(C(C1=CC=CC=C1)O)NC",
+   "iupacName": "(1S,2S)-2-(methylamino)-1-phenylpropan-1-ol"
   },
   {
    "name": "Psoralen",
    "slug": "psoralen",
    "count": 1,
-   "unresolved": true
+   "cid": 6199,
+   "formula": "C11H6O3",
+   "weight": "186.16",
+   "inchikey": "ZCCUUQDIBDJBTK-UHFFFAOYSA-N",
+   "smiles": "C1=CC(=O)OC2=CC3=C(C=CO3)C=C21",
+   "iupacName": "furo[3,2-g]chromen-7-one"
   },
   {
    "name": "Psoralidin",
    "slug": "psoralidin",
    "count": 1,
-   "unresolved": true
+   "cid": 5281806,
+   "formula": "C20H16O5",
+   "weight": "336.3",
+   "inchikey": "YABIJLLNNFURIJ-UHFFFAOYSA-N",
+   "smiles": "CC(=CCC1=CC2=C(C=C1O)OC(=O)C3=C2OC4=C3C=CC(=C4)O)C",
+   "iupacName": "3,9-dihydroxy-2-(3-methylbut-2-enyl)-[1]benzofuro[3,2-c]chromen-6-one"
   },
   {
    "name": "Pterocarpol",
    "slug": "pterocarpol",
    "count": 1,
-   "unresolved": true
+   "cid": 12314741,
+   "formula": "C15H26O2",
+   "weight": "238.37",
+   "inchikey": "XZXBGGYJQALVAW-OSFYFWSMSA-N",
+   "smiles": "CC12CCC(CC1C(=C)CC(C2)O)C(C)(C)O",
+   "iupacName": "(2S,4aS,6R,8aS)-6-(2-hydroxypropan-2-yl)-8a-methyl-4-methylidene-1,2,3,4a,5,6,7,8-octahydronaphthalen-2-ol"
   },
   {
    "name": "Pterosupin",
    "slug": "pterosupin",
    "count": 1,
-   "unresolved": true
+   "cid": 44566656,
+   "formula": "C21H24O11",
+   "weight": "452.4",
+   "inchikey": "ILCFBPOKGGZIAL-BKNVHQPNSA-N",
+   "smiles": "C1=CC(=CC=C1C(CC(=O)C2=C(C(=C(C=C2)O)OC3C(C(C(C(O3)CO)O)O)O)O)O)O",
+   "iupacName": "1-[2,4-dihydroxy-3-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyphenyl]-3-hydroxy-3-(4-hydroxyphenyl)propan-1-one"
   },
   {
    "name": "Puddumin-A and Puddumin-B",
@@ -4241,13 +5940,23 @@
    "name": "Punicalin",
    "slug": "punicalin",
    "count": 1,
-   "unresolved": true
+   "cid": 5464368,
+   "formula": "C34H22O22",
+   "weight": "782.5",
+   "inchikey": "IQHIEHIKNWLKFB-ITTSEVFZSA-N",
+   "smiles": "C1C2C(C(C(C(O2)O)O)O)OC(=O)C3=CC(=C(C(=C3C4=C(C(=C5C6=C4C(=O)OC7=C(C(=C(C8=C(C(=C(C=C8C(=O)O1)O)O)O)C(=C67)C(=O)O5)O)O)O)O)O)O)O",
+   "iupacName": "(10S,11R,12R,13R,15R)-3,4,5,11,12,13,21,22,23,26,27,38,39-tridecahydroxy-9,14,17,29,36-pentaoxaoctacyclo[29.8.0.02,7.010,15.019,24.025,34.028,33.032,37]nonatriaconta-1(39),2,4,6,19,21,23,25,27,31,33,37-dodecaene-8,18,30,35-tetrone"
   },
   {
    "name": "Punigluconin",
    "slug": "punigluconin",
    "count": 1,
-   "unresolved": true
+   "cid": 21637585,
+   "formula": "C34H26O23",
+   "weight": "802.6",
+   "inchikey": "KZEYIYXACMUTRM-WIMKJKQSSA-N",
+   "smiles": "C1C(C(OC(=O)C2=CC(=C(C(=C2C3=C(C(=C(C=C3C(=O)O1)O)O)O)O)O)O)C(C(C(=O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C(=C5)O)O)O)O",
+   "iupacName": "(2R,3S)-3-[(10R,11R)-3,4,5,11,17,18,19-heptahydroxy-8,14-dioxo-9,13-dioxatricyclo[13.4.0.02,7]nonadeca-1(19),2,4,6,15,17-hexaen-10-yl]-2,3-bis[(3,4,5-trihydroxybenzoyl)oxy]propanoic acid"
   },
   {
    "name": "Pure gold",
@@ -4265,19 +5974,23 @@
    "name": "Purpurin",
    "slug": "purpurin",
    "count": 1,
-   "unresolved": true
+   "cid": 6683,
+   "formula": "C14H8O5",
+   "weight": "256.21",
+   "inchikey": "BBNQQADTFFCFGB-UHFFFAOYSA-N",
+   "smiles": "C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=C(C=C3O)O)O",
+   "iupacName": "1,2,4-trihydroxyanthracene-9,10-dione"
   },
   {
    "name": "Pyrethrin",
    "slug": "pyrethrin",
    "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "Pyrocatechol",
-   "slug": "pyrocatechol",
-   "count": 1,
-   "unresolved": true
+   "cid": 5281555,
+   "formula": "C22H28O5",
+   "weight": "372.5",
+   "inchikey": "VJFUPGQZSXIULQ-XIGJTORUSA-N",
+   "smiles": "CC1=C(C(=O)CC1OC(=O)C2C(C2(C)C)C=C(C)C(=O)OC)CC=CC=C",
+   "iupacName": "cis-[(1S)-2-methyl-4-oxo-3-[(2Z)-penta-2,4-dienyl]cyclopent-2-en-1-yl] (1R,3R)-3-[(E)-3-methoxy-2-methyl-3-oxoprop-1-enyl]-2,2-dimethylcyclopropane-1-carboxylate"
   },
   {
    "name": "Pyrrole glycosides",
@@ -4295,13 +6008,23 @@
    "name": "Quercitrin",
    "slug": "quercitrin",
    "count": 1,
-   "unresolved": true
+   "cid": 5280459,
+   "formula": "C21H20O11",
+   "weight": "448.4",
+   "inchikey": "OXGUCUVFOIWWQJ-HQBVPOQASA-N",
+   "smiles": "CC1C(C(C(C(O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C=C4)O)O)O)O)O",
+   "iupacName": "2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3-[(2S,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxychromen-4-one"
   },
   {
    "name": "Quinovic acid",
    "slug": "quinovic-acid",
    "count": 1,
-   "unresolved": true
+   "cid": 120678,
+   "formula": "C30H46O5",
+   "weight": "486.7",
+   "inchikey": "OJUYFGQEMPENCE-DPKHZRJYSA-N",
+   "smiles": "CC1CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C)O)C)C)C2C1C)C(=O)O)C(=O)O",
+   "iupacName": "(1S,2R,4aS,6aR,6aR,6bR,8aR,10S,12aR,14bS)-10-hydroxy-1,2,6b,9,9,12a-hexamethyl-2,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydro-1H-picene-4a,6a-dicarboxylic acid"
   },
   {
    "name": "Racemofuran",
@@ -4313,7 +6036,12 @@
    "name": "Racemosol",
    "slug": "racemosol",
    "count": 1,
-   "unresolved": true
+   "cid": 624971,
+   "formula": "C21H24O4",
+   "weight": "340.4",
+   "inchikey": "PXUNBQVWLWLIHU-UHFFFAOYSA-N",
+   "smiles": "CC1=C(C=C2CCC3=C(C=CC(=C3O)OC)C4C2=C1OC(C4)(C)C)O",
+   "iupacName": "5-methoxy-13,16,16-trimethyl-15-oxatetracyclo[8.7.1.02,7.014,18]octadeca-2(7),3,5,10,12,14(18)-hexaene-6,12-diol"
   },
   {
    "name": "Raja Nighantu — \"Vamsharochana\"",
@@ -4349,25 +6077,45 @@
    "name": "Rescinnamine",
    "slug": "rescinnamine",
    "count": 1,
-   "unresolved": true
+   "cid": 5280954,
+   "formula": "C35H42N2O9",
+   "weight": "634.7",
+   "inchikey": "SZLZWPPUNLXJEA-QEGASFHISA-N",
+   "smiles": "COC1C(CC2CN3CCC4=C(C3CC2C1C(=O)OC)NC5=C4C=CC(=C5)OC)OC(=O)C=CC6=CC(=C(C(=C6)OC)OC)OC",
+   "iupacName": "methyl (1R,15S,17R,18R,19S,20S)-6,18-dimethoxy-17-[(E)-3-(3,4,5-trimethoxyphenyl)prop-2-enoyl]oxy-1,3,11,12,14,15,16,17,18,19,20,21-dodecahydroyohimban-19-carboxylate"
   },
   {
    "name": "Reserpine",
    "slug": "reserpine",
    "count": 1,
-   "unresolved": true
+   "cid": 5770,
+   "formula": "C33H40N2O9",
+   "weight": "608.7",
+   "inchikey": "QEVHRUUCFGRFIF-MDEJGZGSSA-N",
+   "smiles": "COC1C(CC2CN3CCC4=C(C3CC2C1C(=O)OC)NC5=C4C=CC(=C5)OC)OC(=O)C6=CC(=C(C(=C6)OC)OC)OC",
+   "iupacName": "methyl (1R,15S,17R,18R,19S,20S)-6,18-dimethoxy-17-(3,4,5-trimethoxybenzoyl)oxy-1,3,11,12,14,15,16,17,18,19,20,21-dodecahydroyohimban-19-carboxylate"
   },
   {
    "name": "Resveratrol",
    "slug": "resveratrol",
    "count": 1,
-   "unresolved": true
+   "cid": 445154,
+   "formula": "C14H12O3",
+   "weight": "228.24",
+   "inchikey": "LUKBXSAWLPMMSZ-OWOJBTEDSA-N",
+   "smiles": "C1=CC(=CC=C1C=CC2=CC(=CC(=C2)O)O)O",
+   "iupacName": "5-[(E)-2-(4-hydroxyphenyl)ethenyl]benzene-1,3-diol"
   },
   {
    "name": "Retrofractamide A",
    "slug": "retrofractamide-a",
    "count": 1,
-   "unresolved": true
+   "cid": 11012859,
+   "formula": "C20H25NO3",
+   "weight": "327.4",
+   "inchikey": "BPSWISYORIWKCT-FCGWLDPVSA-N",
+   "smiles": "CC(C)CNC(=O)C=CC=CCCC=CC1=CC2=C(C=C1)OCO2",
+   "iupacName": "(2E,4E,8E)-9-(1,3-benzodioxol-5-yl)-N-(2-methylpropyl)nona-2,4,8-trienamide"
   },
   {
    "name": "Retrofractamide A-C",
@@ -4379,7 +6127,12 @@
    "name": "Retrofractamide C",
    "slug": "retrofractamide-c",
    "count": 1,
-   "unresolved": true
+   "cid": 25255091,
+   "formula": "C20H27NO3",
+   "weight": "329.4",
+   "inchikey": "PAXQNYHJDFKFEU-FIFLTTCUSA-N",
+   "smiles": "CC(C)CNC(=O)C=CCCCCC=CC1=CC2=C(C=C1)OCO2",
+   "iupacName": "(2E,8E)-9-(1,3-benzodioxol-5-yl)-N-(2-methylpropyl)nona-2,8-dienamide"
   },
   {
    "name": "Ricin",
@@ -4391,13 +6144,23 @@
    "name": "Ricinine",
    "slug": "ricinine",
    "count": 1,
-   "unresolved": true
+   "cid": 10666,
+   "formula": "C8H8N2O2",
+   "weight": "164.16",
+   "inchikey": "PETSAYFQSGAEQY-UHFFFAOYSA-N",
+   "smiles": "CN1C=CC(=C(C1=O)C#N)OC",
+   "iupacName": "4-methoxy-1-methyl-2-oxopyridine-3-carbonitrile"
   },
   {
    "name": "Ricinoleic acid",
    "slug": "ricinoleic-acid",
    "count": 1,
-   "unresolved": true
+   "cid": 643684,
+   "formula": "C18H34O3",
+   "weight": "298.5",
+   "inchikey": "WBHHMMIMDMUBKC-QJWNTBNXSA-N",
+   "smiles": "CCCCCCC(CC=CCCCCCCCC(=O)O)O",
+   "iupacName": "(Z,12R)-12-hydroxyoctadec-9-enoic acid"
   },
   {
    "name": "Rotary evaporators",
@@ -4409,7 +6172,12 @@
    "name": "Rottlerin",
    "slug": "rottlerin",
    "count": 1,
-   "unresolved": true
+   "cid": 5281847,
+   "formula": "C30H28O8",
+   "weight": "516.5",
+   "inchikey": "DEZFNHCVIZBHBI-ZHACJKMWSA-N",
+   "smiles": "CC1=C(C(=C(C(=C1O)C(=O)C)O)CC2=C(C(=C3C(=C2O)C=CC(O3)(C)C)C(=O)C=CC4=CC=CC=C4)O)O",
+   "iupacName": "(E)-1-[6-[(3-acetyl-2,4,6-trihydroxy-5-methylphenyl)methyl]-5,7-dihydroxy-2,2-dimethylchromen-8-yl]-3-phenylprop-2-en-1-one"
   },
   {
    "name": "Roylene",
@@ -4421,7 +6189,12 @@
    "name": "RR1",
    "slug": "rr1",
    "count": 1,
-   "unresolved": true
+   "cid": 446193,
+   "formula": "C19H16N8O10S3",
+   "weight": "612.6",
+   "inchikey": "LOCFSBZWHQIILX-UHFFFAOYSA-N",
+   "smiles": "C1=CC=C(C(=C1)N=NC2=C(C3=C(C=C(C=C3C=C2S(=O)(=O)O)S(=O)(=O)O)NC4=NC(=NC(=N4)N)N)O)S(=O)(=O)O",
+   "iupacName": "5-[(4,6-diamino-1,3,5-triazin-2-yl)amino]-4-hydroxy-3-[(2-sulfophenyl)diazenyl]naphthalene-2,7-disulfonic acid"
   },
   {
    "name": "Rubber catheter",
@@ -4439,19 +6212,34 @@
    "name": "Salannin",
    "slug": "salannin",
    "count": 1,
-   "unresolved": true
+   "cid": 6437066,
+   "formula": "C34H44O9",
+   "weight": "596.7",
+   "inchikey": "CJHBVBNPNXOWBA-REXVOHEDSA-N",
+   "smiles": "CC=C(C)C(=O)OC1CC(C2(COC3C2C1(C(C4(C3OC5C4=C(C(C5)C6=COC=C6)C)C)CC(=O)OC)C)C)OC(=O)C",
+   "iupacName": "[(1R,2S,4R,6R,9R,10R,11R,12S,14R,15R,18R)-14-acetyloxy-6-(furan-3-yl)-10-(2-methoxy-2-oxoethyl)-7,9,11,15-tetramethyl-3,17-dioxapentacyclo[9.6.1.02,9.04,8.015,18]octadec-7-en-12-yl] (E)-2-methylbut-2-enoate"
   },
   {
    "name": "Salsoline",
    "slug": "salsoline",
    "count": 1,
-   "unresolved": true
+   "cid": 40010,
+   "formula": "C11H15NO2",
+   "weight": "193.24",
+   "inchikey": "YTPRLBGPGZHUPD-SSDOTTSWSA-N",
+   "smiles": "CC1C2=CC(=C(C=C2CCN1)O)OC",
+   "iupacName": "(1R)-7-methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-6-ol"
   },
   {
    "name": "Salutaridine",
    "slug": "salutaridine",
    "count": 1,
-   "unresolved": true
+   "cid": 5408233,
+   "formula": "C19H21NO4",
+   "weight": "327.4",
+   "inchikey": "GVTRUVGBZQJVTF-YJYMSZOUSA-N",
+   "smiles": "CN1CCC23C=C(C(=O)C=C2C1CC4=C3C(=C(C=C4)OC)O)OC",
+   "iupacName": "(1S,9R)-3-hydroxy-4,13-dimethoxy-17-methyl-17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2(7),3,5,10,13-pentaen-12-one"
   },
   {
    "name": "Salviifosides A",
@@ -4475,7 +6263,12 @@
    "name": "Santolina alcohol",
    "slug": "santolina-alcohol",
    "count": 1,
-   "unresolved": true
+   "cid": 519843,
+   "formula": "C10H18O",
+   "weight": "154.25",
+   "inchikey": "JWGLVEFPXSKNBN-UHFFFAOYSA-N",
+   "smiles": "CC(=CC(C=C)C(C)(C)O)C",
+   "iupacName": "3-ethenyl-2,5-dimethylhex-4-en-2-ol"
   },
   {
    "name": "Saponin A and B",
@@ -4487,7 +6280,12 @@
    "name": "Sappanchalcone",
    "slug": "sappanchalcone",
    "count": 1,
-   "unresolved": true
+   "cid": 5319493,
+   "formula": "C16H14O5",
+   "weight": "286.28",
+   "inchikey": "JVGNTXGHBHMJDO-QHHAFSJGSA-N",
+   "smiles": "COC1=C(C=CC(=C1)O)C(=O)C=CC2=CC(=C(C=C2)O)O",
+   "iupacName": "(E)-3-(3,4-dihydroxyphenyl)-1-(4-hydroxy-2-methoxyphenyl)prop-2-en-1-one"
   },
   {
    "name": "Sappanone A and B",
@@ -4499,13 +6297,23 @@
    "name": "Sarsasapogenin",
    "slug": "sarsasapogenin",
    "count": 1,
-   "unresolved": true
+   "cid": 92095,
+   "formula": "C27H44O3",
+   "weight": "416.6",
+   "inchikey": "GMBQZIIUCVWOCD-WWASVFFGSA-N",
+   "smiles": "CC1CCC2(C(C3C(O2)CC4C3(CCC5C4CCC6C5(CCC(C6)O)C)C)C)OC1",
+   "iupacName": "(1R,2S,4S,5'S,6R,7S,8R,9S,12S,13S,16S,18R)-5',7,9,13-tetramethylspiro[5-oxapentacyclo[10.8.0.02,9.04,8.013,18]icosane-6,2'-oxane]-16-ol"
   },
   {
    "name": "Savinin",
    "slug": "savinin",
    "count": 1,
-   "unresolved": true
+   "cid": 5281867,
+   "formula": "C20H16O6",
+   "weight": "352.3",
+   "inchikey": "CMJGAYUQSLJSCR-ULIPXBITSA-N",
+   "smiles": "C1C(C(=CC2=CC3=C(C=C2)OCO3)C(=O)O1)CC4=CC5=C(C=C4)OCO5",
+   "iupacName": "(3E,4R)-4-(1,3-benzodioxol-5-ylmethyl)-3-(1,3-benzodioxol-5-ylmethylidene)oxolan-2-one"
   },
   {
    "name": "Scindapsin A",
@@ -4535,13 +6343,23 @@
    "name": "Secoisolariciresinol diglucoside",
    "slug": "secoisolariciresinol-diglucoside",
    "count": 1,
-   "unresolved": true
+   "cid": 9917980,
+   "formula": "C32H46O16",
+   "weight": "686.7",
+   "inchikey": "SBVBJPHMDABKJV-PGCJWIIOSA-N",
+   "smiles": "COC1=C(C=CC(=C1)CC(COC2C(C(C(C(O2)CO)O)O)O)C(CC3=CC(=C(C=C3)O)OC)COC4C(C(C(C(O4)CO)O)O)O)O",
+   "iupacName": "(2R,3R,4S,5S,6R)-2-[(2R,3R)-2,3-bis[(4-hydroxy-3-methoxyphenyl)methyl]-4-[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxybutoxy]-6-(hydroxymethyl)oxane-3,4,5-triol"
   },
   {
    "name": "Selenium",
    "slug": "selenium",
    "count": 1,
-   "unresolved": true
+   "cid": 6326970,
+   "formula": "Se",
+   "weight": "78.97",
+   "inchikey": "BUGBHKTXTAQXES-UHFFFAOYSA-N",
+   "smiles": "[Se]",
+   "iupacName": "selenium"
   },
   {
    "name": "Sennosides A-D",
@@ -4553,13 +6371,23 @@
    "name": "Serpentine",
    "slug": "serpentine",
    "count": 1,
-   "unresolved": true
+   "cid": 73073,
+   "formula": "C21H20N2O3",
+   "weight": "348.4",
+   "inchikey": "WYTGDNHDOZPMIW-VBNZEHGJSA-N",
+   "smiles": "CC1C2CN3C=CC4=C5C=CC=CC5=NC4=C3CC2C(=CO1)C(=O)OC",
+   "iupacName": "methyl (15R,16S,20S)-16-methyl-17-oxa-3,13-diazapentacyclo[11.8.0.02,10.04,9.015,20]henicosa-1,3,5,7,9,11,18-heptaene-19-carboxylate"
   },
   {
    "name": "Serpentinine",
    "slug": "serpentinine",
    "count": 1,
-   "unresolved": true
+   "cid": 5351576,
+   "formula": "C42H45N4O5+",
+   "weight": "685.8",
+   "inchikey": "QWAUBSSAJRGKPX-ZXKDJJQISA-O",
+   "smiles": "CC=C1CN2CCC3=C(C2CC1C(CC4=C[N+]5=C(CC6C(C5)C(OC=C6C(=O)OC)C)C7=C4C8=CC=CC=C8N7)C(=O)OC)NC9=CC=CC=C39",
+   "iupacName": "methyl 11-[2-[(3Z)-3-ethylidene-2,4,6,7,12,12b-hexahydro-1H-indolo[2,3-a]quinolizin-2-yl]-3-methoxy-3-oxopropyl]-16-methyl-17-oxa-3-aza-13-azoniapentacyclo[11.8.0.02,10.04,9.015,20]henicosa-1(13),2(10),4,6,8,11,18-heptaene-19-carboxylate"
   },
   {
    "name": "Serratumin A",
@@ -4577,7 +6405,12 @@
    "name": "Sesquiterpene",
    "slug": "sesquiterpene",
    "count": 1,
-   "unresolved": true
+   "cid": 139087999,
+   "formula": "C15H24O2",
+   "weight": "236.35",
+   "inchikey": "PJKDZBIZDKARAM-QKGCVVFFSA-N",
+   "smiles": "CC(C)C1C(CC(=C)C2C1C(CC2)C(=O)C)O",
+   "iupacName": "1-[(1R,3aS,6R,7R,7aS)-6-hydroxy-4-methylidene-7-propan-2-yl-1,2,3,3a,5,6,7,7a-octahydroinden-1-yl]ethanone"
   },
   {
    "name": "Sesquiterpenoids",
@@ -4595,7 +6428,12 @@
    "name": "Shellolic acid",
    "slug": "shellolic-acid",
    "count": 1,
-   "unresolved": true
+   "cid": 20055026,
+   "formula": "C15H20O6",
+   "weight": "296.31",
+   "inchikey": "WSASFFHWOQGSER-MUAIWGBPSA-N",
+   "smiles": "CC1(C2CCC(C23CC1C(=CC3O)C(=O)O)C(=O)O)CO",
+   "iupacName": "(1S,2R,5S,6S,7R,10S)-10-hydroxy-6-(hydroxymethyl)-6-methyltricyclo[5.3.1.01,5]undec-8-ene-2,8-dicarboxylic acid"
   },
   {
    "name": "Shogaols",
@@ -4613,7 +6451,12 @@
    "name": "Silica",
    "slug": "silica",
    "count": 1,
-   "unresolved": true
+   "cid": 24261,
+   "formula": "O2Si",
+   "weight": "60.084",
+   "inchikey": "VYPSYNLAJGMNEJ-UHFFFAOYSA-N",
+   "smiles": "O=[Si]=O",
+   "iupacName": "dioxosilane"
   },
   {
    "name": "Silicone cupping cups",
@@ -4631,7 +6474,12 @@
    "name": "Sitoindoside IX",
    "slug": "sitoindoside-ix",
    "count": 1,
-   "unresolved": true
+   "cid": 189586,
+   "formula": "C34H48O11",
+   "weight": "632.7",
+   "inchikey": "WKCJIGSUKSPCKI-WNXUODGFSA-N",
+   "smiles": "CC1=C(C(=O)OC(C1)C(C)C2CCC3C2(CCC4C3CC5C6(C4(C(=O)C=CC6O)C)O5)C)COC7C(C(C(C(O7)CO)O)O)O",
+   "iupacName": "(1S,2R,6S,7R,9R,11S,12S,15R,16S)-6-hydroxy-2,16-dimethyl-15-[(1S)-1-[(2R)-4-methyl-6-oxo-5-[[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]-2,3-dihydropyran-2-yl]ethyl]-8-oxapentacyclo[9.7.0.02,7.07,9.012,16]octadec-4-en-3-one"
   },
   {
    "name": "Sitoindoside VII",
@@ -4649,7 +6497,12 @@
    "name": "Sitoindoside X",
    "slug": "sitoindoside-x",
    "count": 1,
-   "unresolved": true
+   "cid": 189702,
+   "formula": "C50H78O12",
+   "weight": "871.1",
+   "inchikey": "AGNOSYRBHQJIEE-UHFFFAOYSA-N",
+   "smiles": "CCCCCCCCCCCCCCCC(=O)OCC1C(C(C(C(O1)OCC2=C(CC(OC2=O)C(C)C3CCC4C3(CCC5C4CC6C7(C5(C(=O)C=CC7O)C)O6)C)C)O)O)O",
+   "iupacName": "[3,4,5-trihydroxy-6-[[2-[1-(6-hydroxy-2,16-dimethyl-3-oxo-8-oxapentacyclo[9.7.0.02,7.07,9.012,16]octadec-4-en-15-yl)ethyl]-4-methyl-6-oxo-2,3-dihydropyran-5-yl]methoxy]oxan-2-yl]methyl hexadecanoate"
   },
   {
    "name": "Sitoindosides VII-X",
@@ -4661,73 +6514,133 @@
    "name": "Sodium",
    "slug": "sodium",
    "count": 1,
-   "unresolved": true
+   "cid": 5360545,
+   "formula": "Na",
+   "weight": "22.9897693",
+   "inchikey": "KEAYESYHFKHZAL-UHFFFAOYSA-N",
+   "smiles": "[Na]",
+   "iupacName": "sodium"
   },
   {
    "name": "Sodium bisulfate",
    "slug": "sodium-bisulfate",
    "count": 1,
-   "unresolved": true
+   "cid": 516919,
+   "formula": "HNaO4S",
+   "weight": "120.06",
+   "inchikey": "WBHQBSYUUJJSRZ-UHFFFAOYSA-M",
+   "smiles": "OS(=O)(=O)[O-].[Na+]",
+   "iupacName": "sodium hydrogen sulfate"
   },
   {
    "name": "Sodium bisulfite",
    "slug": "sodium-bisulfite",
    "count": 1,
-   "unresolved": true
+   "cid": 23665763,
+   "formula": "HNaO3S",
+   "weight": "104.06",
+   "inchikey": "DWAQJAXMDSEUJJ-UHFFFAOYSA-M",
+   "smiles": "OS(=O)[O-].[Na+]",
+   "iupacName": "sodium hydrogen sulfite"
   },
   {
    "name": "Sodium carbonate",
    "slug": "sodium-carbonate",
    "count": 1,
-   "unresolved": true
+   "cid": 10340,
+   "formula": "CNa2O3",
+   "weight": "105.988",
+   "inchikey": "CDBYLPFSWZWCQE-UHFFFAOYSA-L",
+   "smiles": "C(=O)([O-])[O-].[Na+].[Na+]",
+   "iupacName": "disodium;carbonate"
   },
   {
    "name": "Sodium sulfide",
    "slug": "sodium-sulfide",
    "count": 1,
-   "unresolved": true
+   "cid": 237873,
+   "formula": "HNa2S+",
+   "weight": "79.06",
+   "inchikey": "VDQVEACBQKUUSU-UHFFFAOYSA-M",
+   "smiles": "[Na+].[Na+].[SH-]",
+   "iupacName": "disodium;sulfanide"
   },
   {
    "name": "Solamargine",
    "slug": "solamargine",
    "count": 1,
-   "unresolved": true
+   "cid": 73611,
+   "formula": "C45H73NO15",
+   "weight": "868.1",
+   "inchikey": "MBWUSSKCCUMJHO-ZGXDEBHDSA-N",
+   "smiles": "CC1CCC2(C(C3C(O2)CC4C3(CCC5C4CC=C6C5(CCC(C6)OC7C(C(C(C(O7)CO)OC8C(C(C(C(O8)C)O)O)O)O)OC9C(C(C(C(O9)C)O)O)O)C)C)C)NC1",
+   "iupacName": "(2S,3R,4R,5R,6S)-2-[(2R,3S,4S,5R,6R)-4-hydroxy-2-(hydroxymethyl)-6-[(1S,2S,4S,5'R,6R,7S,8R,9S,12S,13R,16S)-5',7,9,13-tetramethylspiro[5-oxapentacyclo[10.8.0.02,9.04,8.013,18]icos-18-ene-6,2'-piperidine]-16-yl]oxy-5-[(2S,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-3-yl]oxy-6-methyloxane-3,4,5-triol"
   },
   {
    "name": "Solanine",
    "slug": "solanine",
    "count": 1,
-   "unresolved": true
+   "cid": 30185,
+   "formula": "C45H73NO15",
+   "weight": "868.1",
+   "inchikey": "ZGVSETXHNHBTRK-OTYSSXIJSA-N",
+   "smiles": "CC1CCC2C(C3C(N2C1)CC4C3(CCC5C4CC=C6C5(CCC(C6)OC7C(C(C(C(O7)CO)O)OC8C(C(C(C(O8)CO)O)O)O)OC9C(C(C(C(O9)C)O)O)O)C)C)C",
+   "iupacName": "(2R,3R,4R,5R,6S)-2-[(2R,3R,4S,5S,6R)-5-hydroxy-6-(hydroxymethyl)-2-[[(1S,2S,7S,10R,11S,14S,15R,16S,17R,20S,23S)-10,14,16,20-tetramethyl-22-azahexacyclo[12.10.0.02,11.05,10.015,23.017,22]tetracos-4-en-7-yl]oxy]-4-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxan-3-yl]oxy-6-methyloxane-3,4,5-triol"
   },
   {
    "name": "Solasodine",
    "slug": "solasodine",
    "count": 1,
-   "unresolved": true
+   "cid": 442985,
+   "formula": "C27H43NO2",
+   "weight": "413.6",
+   "inchikey": "KWVISVAMQJWJSZ-VKROHFNGSA-N",
+   "smiles": "CC1CCC2(C(C3C(O2)CC4C3(CCC5C4CC=C6C5(CCC(C6)O)C)C)C)NC1",
+   "iupacName": "(1S,2S,4S,5'R,6R,7S,8R,9S,12S,13R,16S)-5',7,9,13-tetramethylspiro[5-oxapentacyclo[10.8.0.02,9.04,8.013,18]icos-18-ene-6,2'-piperidine]-16-ol"
   },
   {
    "name": "Somniferine",
    "slug": "somniferine",
    "count": 1,
-   "unresolved": true
+   "cid": 14106342,
+   "formula": "C36H36N2O7",
+   "weight": "608.7",
+   "inchikey": "JQGBUIZIHWUPHT-UHFFFAOYSA-N",
+   "smiles": "CN1CCC23C4C(=O)C(=CC2(C1CC5=C3C(=C(C=C5)O)O4)O)C6CC78C9C(=CC=C7C(N6C)CC1=C8C(=C(C=C1)OC)O9)OC",
+   "iupacName": "6-(7,9-dimethoxy-3-methyl-2,4,7a,13-tetrahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-2-yl)-4a,9-dihydroxy-3-methyl-2,4,7a,13-tetrahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one"
   },
   {
    "name": "Sorbifolin",
    "slug": "sorbifolin",
    "count": 1,
-   "unresolved": true
+   "cid": 3084390,
+   "formula": "C16H12O6",
+   "weight": "300.26",
+   "inchikey": "UWARRXZVZDFPQU-UHFFFAOYSA-N",
+   "smiles": "COC1=C(C(=C2C(=C1)OC(=CC2=O)C3=CC=C(C=C3)O)O)O",
+   "iupacName": "5,6-dihydroxy-2-(4-hydroxyphenyl)-7-methoxychromen-4-one"
   },
   {
    "name": "Spermidine",
    "slug": "spermidine",
    "count": 1,
-   "unresolved": true
+   "cid": 1102,
+   "formula": "C7H19N3",
+   "weight": "145.25",
+   "inchikey": "ATHGHQPFGPMSJY-UHFFFAOYSA-N",
+   "smiles": "C(CCNCCCN)CN",
+   "iupacName": "N'-(3-aminopropyl)butane-1,4-diamine"
   },
   {
    "name": "Stachydrine",
    "slug": "stachydrine",
    "count": 1,
-   "unresolved": true
+   "cid": 115244,
+   "formula": "C7H13NO2",
+   "weight": "143.18",
+   "inchikey": "CMUNUTVVOOHQPW-LURJTMIESA-N",
+   "smiles": "C[N+]1(CCCC1C(=O)[O-])C",
+   "iupacName": "(2S)-1,1-dimethylpyrrolidin-1-ium-2-carboxylate"
   },
   {
    "name": "Starch",
@@ -4751,19 +6664,34 @@
    "name": "Stigmastanol",
    "slug": "stigmastanol",
    "count": 1,
-   "unresolved": true
+   "cid": 241572,
+   "formula": "C29H52O",
+   "weight": "416.7",
+   "inchikey": "LGJMUZUPVCAVPU-HRJGVYIJSA-N",
+   "smiles": "CCC(CCC(C)C1CCC2C1(CCC3C2CCC4C3(CCC(C4)O)C)C)C(C)C",
+   "iupacName": "(3S,5S,8R,9S,10S,13R,14S,17R)-17-[(2R,5R)-5-ethyl-6-methylheptan-2-yl]-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-3-ol"
   },
   {
    "name": "Stilbenes",
    "slug": "stilbenes",
    "count": 1,
-   "unresolved": true
+   "cid": 638088,
+   "formula": "C14H12",
+   "weight": "180.24",
+   "inchikey": "PJANXHGTPQOBST-VAWYXSNFSA-N",
+   "smiles": "C1=CC=C(C=C1)C=CC2=CC=CC=C2",
+   "iupacName": "(E)-stilbene"
   },
   {
    "name": "Strontium",
    "slug": "strontium",
    "count": 1,
-   "unresolved": true
+   "cid": 5359327,
+   "formula": "Sr",
+   "weight": "87.62",
+   "inchikey": "CIOAGBVUUVVLOB-UHFFFAOYSA-N",
+   "smiles": "[Sr]",
+   "iupacName": "strontium"
   },
   {
    "name": "Sudarshana Churna",
@@ -4775,25 +6703,45 @@
    "name": "Sulforaphane",
    "slug": "sulforaphane",
    "count": 1,
-   "unresolved": true
+   "cid": 5350,
+   "formula": "C6H11NOS2",
+   "weight": "177.3",
+   "inchikey": "SUVMJBTUFCVSAD-UHFFFAOYSA-N",
+   "smiles": "CS(=O)CCCCN=C=S",
+   "iupacName": "1-isothiocyanato-4-methylsulfinylbutane"
   },
   {
    "name": "Sulfur",
    "slug": "sulfur",
    "count": 1,
-   "unresolved": true
+   "cid": 5362487,
+   "formula": "S",
+   "weight": "32.07",
+   "inchikey": "NINIDFKCEFEMDL-UHFFFAOYSA-N",
+   "smiles": "[S]",
+   "iupacName": "sulfane"
   },
   {
    "name": "Taraxerone",
    "slug": "taraxerone",
    "count": 1,
-   "unresolved": true
+   "cid": 92785,
+   "formula": "C30H48O",
+   "weight": "424.7",
+   "inchikey": "DBCAVZSSFGIHQZ-YLAYQGCQSA-N",
+   "smiles": "CC1(CCC2(CC=C3C4(CCC5C(C(=O)CCC5(C4CCC3(C2C1)C)C)(C)C)C)C)C",
+   "iupacName": "(4aR,6aR,6aS,8aR,12aR,14aR,14bR)-4,4,6a,6a,8a,11,11,14b-octamethyl-2,4a,5,6,8,9,10,12,12a,13,14,14a-dodecahydro-1H-picen-3-one"
   },
   {
    "name": "Tartaric acid",
    "slug": "tartaric-acid",
    "count": 1,
-   "unresolved": true
+   "cid": 444305,
+   "formula": "C4H6O6",
+   "weight": "150.09",
+   "inchikey": "FEWJPZIEWOKRBE-JCYAYHJZSA-N",
+   "smiles": "C(C(C(=O)O)O)(C(=O)O)O",
+   "iupacName": "(2R,3R)-2,3-dihydroxybutanedioic acid"
   },
   {
    "name": "Taxane diterpenoids",
@@ -4805,7 +6753,12 @@
    "name": "Taxifolin",
    "slug": "taxifolin",
    "count": 1,
-   "unresolved": true
+   "cid": 439533,
+   "formula": "C15H12O7",
+   "weight": "304.25",
+   "inchikey": "CXQWRCVTCMQVQX-LSDHHAIUSA-N",
+   "smiles": "C1=CC(=C(C=C1C2C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O",
+   "iupacName": "(2R,3R)-2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxy-2,3-dihydrochromen-4-one"
   },
   {
    "name": "Taxilamine",
@@ -4817,13 +6770,23 @@
    "name": "Taxine A",
    "slug": "taxine-a",
    "count": 1,
-   "unresolved": true
+   "cid": 5281829,
+   "formula": "C35H47NO10",
+   "weight": "641.7",
+   "inchikey": "KOTXAHKUCAQPQA-MCBQMXOVSA-N",
+   "smiles": "CC1=C2C(C(=O)C3(CC(=CC(C(C2(C)C)CC1OC(=O)C)OC(=O)C)C(CC3O)OC(=O)C(C(C4=CC=CC=C4)N(C)C)O)C)O",
+   "iupacName": "[(1R,2S,3E,5S,7S,8S,10R,13S)-2,13-diacetyloxy-7,10-dihydroxy-8,12,15,15-tetramethyl-9-oxo-5-tricyclo[9.3.1.14,8]hexadeca-3,11-dienyl] (2R,3S)-3-(dimethylamino)-2-hydroxy-3-phenylpropanoate"
   },
   {
    "name": "Taxine B",
    "slug": "taxine-b",
    "count": 1,
-   "unresolved": true
+   "cid": 121443,
+   "formula": "C33H45NO8",
+   "weight": "583.7",
+   "inchikey": "XMZFIBDTPOUHMW-UHFFFAOYSA-N",
+   "smiles": "CC1=C2C(C(C3(CCC(C(=C)C3C(C(C2(C)C)(CC1=O)O)O)OC(=O)CC(C4=CC=CC=C4)N(C)C)C)O)OC(=O)C",
+   "iupacName": "(10-acetyloxy-1,2,9-trihydroxy-8,12,15,15-tetramethyl-4-methylidene-13-oxo-5-tricyclo[9.3.1.03,8]pentadec-11-enyl) 3-(dimethylamino)-3-phenylpropanoate"
   },
   {
    "name": "Tenacigenin A-D",
@@ -4841,13 +6804,23 @@
    "name": "Terchebulin",
    "slug": "terchebulin",
    "count": 1,
-   "unresolved": true
+   "cid": 16175790,
+   "formula": "C48H28O30",
+   "weight": "1084.7",
+   "inchikey": "XLTUFSWXCLUYIA-OMAMPWTPSA-N",
+   "smiles": "C1C2C(C3C(C(O2)O)OC(=O)C4=CC(=C(C(=C4C5=C(C(=C(C=C5C(=O)O3)O)O)O)O)O)O)OC(=O)C6=CC(=C(C(=C6C7=C(C(=C8C9=C7C(=O)OC2=C9C(=CC(=C2O)OC2=C(C(=C(C=C2C(=O)O1)O)O)O)C(=O)O8)O)O)O)O)O",
+   "iupacName": "(12R,15R,32S,33R)-4,5,6,14,20,21,22,25,26,27,38,39,40,43,44,55-hexadecahydroxy-2,10,13,16,31,34,46,53-octaoxaundecacyclo[46.7.1.03,8.012,33.015,32.018,23.024,29.036,41.042,51.045,50.049,54]hexapentaconta-1(55),3,5,7,18,20,22,24,26,28,36,38,40,42,44,48(56),49(54),50-octadecaene-9,17,30,35,47,52-hexone"
   },
   {
    "name": "Teresantalol",
    "slug": "teresantalol",
    "count": 1,
-   "unresolved": true
+   "cid": 578221,
+   "formula": "C10H16O",
+   "weight": "152.23",
+   "inchikey": "ZWUWJJHLJNLVDD-UHFFFAOYSA-N",
+   "smiles": "CC1(C2CC3C1(C3C2)C)CO",
+   "iupacName": "(2,3-dimethyl-3-tricyclo[2.2.1.02,6]heptanyl)methanol"
   },
   {
    "name": "Terflavin A-B",
@@ -4859,49 +6832,89 @@
    "name": "Termilignan",
    "slug": "termilignan",
    "count": 1,
-   "unresolved": true
+   "cid": 466076,
+   "formula": "C19H20O3",
+   "weight": "296.4",
+   "inchikey": "JFMRBOFPBJLBBF-UHFFFAOYSA-N",
+   "smiles": "COC1=CC(=C(C=C1)CC(=C)C(=C)CC2=CC=C(C=C2)O)O",
+   "iupacName": "2-[3-[(4-hydroxyphenyl)methyl]-2-methylidenebut-3-enyl]-5-methoxyphenol"
   },
   {
    "name": "Terminolic acid",
    "slug": "terminolic-acid",
    "count": 1,
-   "unresolved": true
+   "cid": 12314613,
+   "formula": "C30H48O6",
+   "weight": "504.7",
+   "inchikey": "IDQVFXZQPGAVAM-GGVBUJAJSA-N",
+   "smiles": "CC1(CCC2(CCC3(C(=CCC4C3(CC(C5C4(CC(C(C5(C)CO)O)O)C)O)C)C2C1)C)C(=O)O)C",
+   "iupacName": "(4aS,6aR,6aS,6bR,8R,8aR,9R,10R,11R,12aR,14bS)-8,10,11-trihydroxy-9-(hydroxymethyl)-2,2,6a,6b,9,12a-hexamethyl-1,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydropicene-4a-carboxylic acid"
   },
   {
    "name": "Tetrahydrocurcumin",
    "slug": "tetrahydrocurcumin",
    "count": 1,
-   "unresolved": true
+   "cid": 124072,
+   "formula": "C21H24O6",
+   "weight": "372.4",
+   "inchikey": "LBTVHXHERHESKG-UHFFFAOYSA-N",
+   "smiles": "COC1=C(C=CC(=C1)CCC(=O)CC(=O)CCC2=CC(=C(C=C2)O)OC)O",
+   "iupacName": "1,7-bis(4-hydroxy-3-methoxyphenyl)heptane-3,5-dione"
   },
   {
    "name": "Thannilignan",
    "slug": "thannilignan",
    "count": 1,
-   "unresolved": true
+   "cid": 466077,
+   "formula": "C19H22O5",
+   "weight": "330.4",
+   "inchikey": "UICXJFXGPMLFAQ-UHFFFAOYSA-N",
+   "smiles": "COC1=CC(=C(C=C1)CC(CO)(C(=C)CC2=CC=C(C=C2)O)O)O",
+   "iupacName": "2-[(2-hydroxy-4-methoxyphenyl)methyl]-3-[(4-hydroxyphenyl)methyl]but-3-ene-1,2-diol"
   },
   {
    "name": "Thiamine",
    "slug": "thiamine",
    "count": 1,
-   "unresolved": true
+   "cid": 1130,
+   "formula": "C12H17N4OS+",
+   "weight": "265.36",
+   "inchikey": "JZRWCGZRTZMZEH-UHFFFAOYSA-N",
+   "smiles": "CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCO",
+   "iupacName": "2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol"
   },
   {
    "name": "Tinosporaside",
    "slug": "tinosporaside",
    "count": 1,
-   "unresolved": true
+   "cid": 14194109,
+   "formula": "C25H32O10",
+   "weight": "492.5",
+   "inchikey": "ZXHPKYMQXNHREV-LZLOTQJESA-N",
+   "smiles": "CC12CCC3C(=O)OC(CC3(C1C(=O)C=CC2OC4C(C(C(C(O4)CO)O)O)O)C)C5=COC=C5",
+   "iupacName": "(2S,4aR,6aR,7R,10aS,10bS)-2-(furan-3-yl)-6a,10b-dimethyl-7-[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-2,4a,5,6,7,10a-hexahydro-1H-benzo[f]isochromene-4,10-dione"
   },
   {
    "name": "Tinosporide",
    "slug": "tinosporide",
    "count": 1,
-   "unresolved": true
+   "cid": 167631,
+   "formula": "C20H22O7",
+   "weight": "374.4",
+   "inchikey": "TXOMRNMZLZXJQP-UHFFFAOYSA-N",
+   "smiles": "CC12CCC3C(=O)OC(CC3(C1C4C5C(C2(C(=O)O4)O)O5)C)C6=COC=C6",
+   "iupacName": "5-(furan-3-yl)-12-hydroxy-3,11-dimethyl-6,14,16-trioxapentacyclo[10.3.2.02,11.03,8.013,15]heptadecane-7,17-dione"
   },
   {
    "name": "Tinosporin",
    "slug": "tinosporin",
    "count": 1,
-   "unresolved": true
+   "cid": 442015,
+   "formula": "C20H22O6",
+   "weight": "358.4",
+   "inchikey": "AALLCALQGXXWNA-QJNFORGASA-N",
+   "smiles": "CC12CCC3C(=O)OC(CC3(C1C4C=CC2(C(=O)O4)O)C)C5=COC=C5",
+   "iupacName": "(1R,2S,3S,5S,8R,11R,12R)-5-(furan-3-yl)-12-hydroxy-3,11-dimethyl-6,14-dioxatetracyclo[10.2.2.02,11.03,8]hexadec-15-ene-7,13-dione"
   },
   {
    "name": "Tinosporine",
@@ -4925,25 +6938,45 @@
    "name": "Triterpenoids",
    "slug": "triterpenoids",
    "count": 1,
-   "unresolved": true
+   "cid": 71597391,
+   "formula": "C29H44O5",
+   "weight": "472.7",
+   "inchikey": "WYJAKKNMIDWZKG-VJZIOILKSA-N",
+   "smiles": "CC1(CCC2(CCC3(C(=CCC4C3(CC=C5C4(CC(C(C5(C)O)O)O)C)C)C2C1)C)C(=O)O)C",
+   "iupacName": "(4aS,6aS,6aS,6bR,9S,10S,11S,12aR,14bS)-9,10,11-trihydroxy-2,2,6a,6b,9,12a-hexamethyl-1,3,4,5,6,6a,7,10,11,12,13,14b-dodecahydropicene-4a-carboxylic acid"
   },
   {
    "name": "Tropine",
    "slug": "tropine",
    "count": 1,
-   "unresolved": true
+   "cid": 449293,
+   "formula": "C8H15NO",
+   "weight": "141.21",
+   "inchikey": "CYHOMWAPJJPNMW-DHBOJHSNSA-N",
+   "smiles": "CN1C2CCC1CC(C2)O",
+   "iupacName": "(1S,5R)-8-methyl-8-azabicyclo[3.2.1]octan-3-ol"
   },
   {
    "name": "Tryptanthrin",
    "slug": "tryptanthrin",
    "count": 1,
-   "unresolved": true
+   "cid": 73549,
+   "formula": "C15H8N2O2",
+   "weight": "248.24",
+   "inchikey": "VQQVWGVXDIPORV-UHFFFAOYSA-N",
+   "smiles": "C1=CC=C2C(=C1)C(=O)N3C4=CC=CC=C4C(=O)C3=N2",
+   "iupacName": "indolo[2,1-b]quinazoline-6,12-dione"
   },
   {
    "name": "Tubulosine",
    "slug": "tubulosine",
    "count": 1,
-   "unresolved": true
+   "cid": 72341,
+   "formula": "C29H37N3O3",
+   "weight": "475.6",
+   "inchikey": "JRVWIILYWSBUMC-PRUVNFMMSA-N",
+   "smiles": "CCC1CN2CCC3=CC(=C(C=C3C2CC1CC4C5=C(CCN4)C6=C(N5)C=CC(=C6)O)OC)OC",
+   "iupacName": "(1R)-1-[[(2S,3R,11bS)-3-ethyl-9,10-dimethoxy-2,3,4,6,7,11b-hexahydro-1H-benzo[a]quinolizin-2-yl]methyl]-2,3,4,9-tetrahydro-1H-pyrido[3,4-b]indol-6-ol"
   },
   {
    "name": "Turmeric",
@@ -4955,7 +6988,12 @@
    "name": "Turmerone",
    "slug": "turmerone",
    "count": 1,
-   "unresolved": true
+   "cid": 14367555,
+   "formula": "C15H22O",
+   "weight": "218.33",
+   "inchikey": "FZPYMZUVXJUAQA-ZDUSSCGKSA-N",
+   "smiles": "CC1=CCC(=CC1)C(C)CC(=O)C=C(C)C",
+   "iupacName": "(6S)-2-methyl-6-(4-methylcyclohexa-1,4-dien-1-yl)hept-2-en-4-one"
   },
   {
    "name": "Turpethinic acids A-E",
@@ -4967,25 +7005,45 @@
    "name": "Tyrosol",
    "slug": "tyrosol",
    "count": 1,
-   "unresolved": true
+   "cid": 10393,
+   "formula": "C8H10O2",
+   "weight": "138.16",
+   "inchikey": "YCCILVSKPBXVIP-UHFFFAOYSA-N",
+   "smiles": "C1=CC(=CC=C1CCO)O",
+   "iupacName": "4-(2-hydroxyethyl)phenol"
   },
   {
    "name": "Umbelliferone",
    "slug": "umbelliferone",
    "count": 1,
-   "unresolved": true
+   "cid": 5281426,
+   "formula": "C9H6O3",
+   "weight": "162.14",
+   "inchikey": "ORHBXUUXSCNDEV-UHFFFAOYSA-N",
+   "smiles": "C1=CC(=CC2=C1C=CC(=O)O2)O",
+   "iupacName": "7-hydroxychromen-2-one"
   },
   {
    "name": "Urea",
    "slug": "urea",
    "count": 1,
-   "unresolved": true
+   "cid": 1176,
+   "formula": "CH4N2O",
+   "weight": "60.056",
+   "inchikey": "XSQUKJJJFZCRTK-UHFFFAOYSA-N",
+   "smiles": "C(=O)(N)N",
+   "iupacName": "urea"
   },
   {
    "name": "Uric acid",
    "slug": "uric-acid",
    "count": 1,
-   "unresolved": true
+   "cid": 1175,
+   "formula": "C5H4N4O3",
+   "weight": "168.11",
+   "inchikey": "LEHOTFFKMJEONL-UHFFFAOYSA-N",
+   "smiles": "C12=C(NC(=O)N1)NC(=O)NC2=O",
+   "iupacName": "7,9-dihydro-3H-purine-2,6,8-trione"
   },
   {
    "name": "Urokinase",
@@ -5009,7 +7067,12 @@
    "name": "Vanillin",
    "slug": "vanillin",
    "count": 1,
-   "unresolved": true
+   "cid": 1183,
+   "formula": "C8H8O3",
+   "weight": "152.15",
+   "inchikey": "MWOOGOJBHIARFG-UHFFFAOYSA-N",
+   "smiles": "COC1=C(C=CC(=C1)C=O)O",
+   "iupacName": "4-hydroxy-3-methoxybenzaldehyde"
   },
   {
    "name": "Vasarishta",
@@ -5018,28 +7081,37 @@
    "unresolved": true
   },
   {
-   "name": "Verbascoside",
-   "slug": "verbascoside",
-   "count": 1,
-   "unresolved": true
-  },
-  {
    "name": "Vicenin",
    "slug": "vicenin",
    "count": 1,
-   "unresolved": true
+   "cid": 442664,
+   "formula": "C27H30O15",
+   "weight": "594.5",
+   "inchikey": "FIAAVMJLAGNUKW-VQVVXJKKSA-N",
+   "smiles": "C1=CC(=CC=C1C2=CC(=O)C3=C(C(=C(C(=C3O2)C4C(C(C(C(O4)CO)O)O)O)O)C5C(C(C(C(O5)CO)O)O)O)O)O",
+   "iupacName": "5,7-dihydroxy-2-(4-hydroxyphenyl)-6,8-bis[(2S,3R,4R,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]chromen-4-one"
   },
   {
    "name": "Vilangin",
    "slug": "vilangin",
    "count": 1,
-   "unresolved": true
+   "cid": 417182,
+   "formula": "C35H52O8",
+   "weight": "600.8",
+   "inchikey": "SSBANIVTGNXXSJ-UHFFFAOYSA-N",
+   "smiles": "CCCCCCCCCCCC1=C(C(=O)C(=C(C1=O)O)CC2=C(C(=O)C(=C(C2=O)O)CCCCCCCCCCC)O)O",
+   "iupacName": "2-[(2,5-dihydroxy-3,6-dioxo-4-undecylcyclohexa-1,4-dien-1-yl)methyl]-3,6-dihydroxy-5-undecylcyclohexa-2,5-diene-1,4-dione"
   },
   {
    "name": "Viridiflorol",
    "slug": "viridiflorol",
    "count": 1,
-   "unresolved": true
+   "cid": 11996452,
+   "formula": "C15H26O",
+   "weight": "222.37",
+   "inchikey": "AYXPYQRXGNDJFU-IMNVLQEYSA-N",
+   "smiles": "CC1CCC2C1C3C(C3(C)C)CCC2(C)O",
+   "iupacName": "(1aR,4S,4aS,7R,7aS,7bS)-1,1,4,7-tetramethyl-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa[e]azulen-4-ol"
   },
   {
    "name": "Vitamin C and zinc",
@@ -5051,13 +7123,23 @@
    "name": "Vitamin E",
    "slug": "vitamin-e",
    "count": 1,
-   "unresolved": true
+   "cid": 69540411,
+   "formula": "C33H54CaO6",
+   "weight": "586.9",
+   "inchikey": "CXJUMRUCKLZKKB-RQGAJXLPSA-L",
+   "smiles": "CC1=C(C2=C(CCC(O2)(C)CCCC(C)CCCC(C)CCCC(C)C)C(=C1O)C)C.C(CC(=O)[O-])C(=O)[O-].[Ca+2]",
+   "iupacName": "calcium;butanedioate;(2R)-2,5,7,8-tetramethyl-2-[(4R,8R)-4,8,12-trimethyltridecyl]-3,4-dihydrochromen-6-ol"
   },
   {
    "name": "Vitexin",
    "slug": "vitexin",
    "count": 1,
-   "unresolved": true
+   "cid": 5280441,
+   "formula": "C21H20O10",
+   "weight": "432.4",
+   "inchikey": "SGEWCQFRYRRZDC-VPRICQMDSA-N",
+   "smiles": "C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)C4C(C(C(C(O4)CO)O)O)O)O",
+   "iupacName": "5,7-dihydroxy-2-(4-hydroxyphenyl)-8-[(2S,3R,4R,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]chromen-4-one"
   },
   {
    "name": "Volatile essential oils",
@@ -5093,7 +7175,12 @@
    "name": "Wikstromol",
    "slug": "wikstromol",
    "count": 1,
-   "unresolved": true
+   "cid": 479756,
+   "formula": "C20H22O7",
+   "weight": "374.4",
+   "inchikey": "ZITBJWXLODLDRH-JLTOFOAXSA-N",
+   "smiles": "COC1=C(C=CC(=C1)CC2COC(=O)C2(CC3=CC(=C(C=C3)O)OC)O)O",
+   "iupacName": "(3R,4R)-3-hydroxy-3,4-bis[(4-hydroxy-3-methoxyphenyl)methyl]oxolan-2-one"
   },
   {
    "name": "With [Triphala] for detoxification",
@@ -5105,7 +7192,12 @@
    "name": "Withaferin A",
    "slug": "withaferin-a",
    "count": 1,
-   "unresolved": true
+   "cid": 265237,
+   "formula": "C28H38O6",
+   "weight": "470.6",
+   "inchikey": "DBRXOUCRJQVYJQ-CKNDUULBSA-N",
+   "smiles": "CC1=C(C(=O)OC(C1)C(C)C2CCC3C2(CCC4C3CC5C6(C4(C(=O)C=CC6O)C)O5)C)CO",
+   "iupacName": "(1S,2R,6S,7R,9R,11S,12S,15R,16S)-6-hydroxy-15-[(1S)-1-[(2R)-5-(hydroxymethyl)-4-methyl-6-oxo-2,3-dihydropyran-2-yl]ethyl]-2,16-dimethyl-8-oxapentacyclo[9.7.0.02,7.07,9.012,16]octadec-4-en-3-one"
   },
   {
    "name": "Withanine",
@@ -5117,55 +7209,100 @@
    "name": "Withanolide A",
    "slug": "withanolide-a",
    "count": 1,
-   "unresolved": true
+   "cid": 11294368,
+   "formula": "C28H38O6",
+   "weight": "470.6",
+   "inchikey": "DXWHOKCXBGLTMQ-SFQAJKIESA-N",
+   "smiles": "CC1=C(C(=O)OC(C1)C(C)(C2CCC3C2(CCC4C3C5C(O5)C6(C4(C(=O)C=CC6)C)O)C)O)C",
+   "iupacName": "(1S,2S,4S,5R,10R,11S,14S,15S,18S)-15-[(1R)-1-[(2R)-4,5-dimethyl-6-oxo-2,3-dihydropyran-2-yl]-1-hydroxyethyl]-5-hydroxy-10,14-dimethyl-3-oxapentacyclo[9.7.0.02,4.05,10.014,18]octadec-7-en-9-one"
   },
   {
    "name": "Withanolide D",
    "slug": "withanolide-d",
    "count": 1,
-   "unresolved": true
+   "cid": 161671,
+   "formula": "C28H38O6",
+   "weight": "470.6",
+   "inchikey": "SASUFNRGCZMRFD-JCUIILOWSA-N",
+   "smiles": "CC1=C(C(=O)OC(C1)C(C)(C2CCC3C2(CCC4C3CC5C6(C4(C(=O)C=CC6O)C)O5)C)O)C",
+   "iupacName": "(1S,2R,6S,7R,9R,11S,12S,15S,16S)-15-[(1R)-1-[(2R)-4,5-dimethyl-6-oxo-2,3-dihydropyran-2-yl]-1-hydroxyethyl]-6-hydroxy-2,16-dimethyl-8-oxapentacyclo[9.7.0.02,7.07,9.012,16]octadec-4-en-3-one"
   },
   {
    "name": "Withanone",
    "slug": "withanone",
    "count": 1,
-   "unresolved": true
+   "cid": 21679027,
+   "formula": "C28H38O6",
+   "weight": "470.6",
+   "inchikey": "FAZIYUIDUNHZRG-PCTWTJKKSA-N",
+   "smiles": "CC1=C(C(=O)OC(C1)C(C)C2(CCC3C2(CCC4C3C5C(O5)C6(C4(C(=O)C=CC6)C)O)C)O)C",
+   "iupacName": "(1S,2S,4S,5R,10R,11S,14S,15S,18S)-15-[(1R)-1-[(2R)-4,5-dimethyl-6-oxo-2,3-dihydropyran-2-yl]ethyl]-5,15-dihydroxy-10,14-dimethyl-3-oxapentacyclo[9.7.0.02,4.05,10.014,18]octadec-7-en-9-one"
   },
   {
    "name": "Withanoside IV",
    "slug": "withanoside-iv",
    "count": 1,
-   "unresolved": true
+   "cid": 71312551,
+   "formula": "C40H62O15",
+   "weight": "782.9",
+   "inchikey": "VUQQGHSDHGOYRH-IFUSOADVSA-N",
+   "smiles": "CC1=C(C(=O)OC(C1)C(C)C2CCC3C2(CCC4C3CC=C5C4(C(CC(C5)OC6C(C(C(C(O6)COC7C(C(C(C(O7)CO)O)O)O)O)O)O)O)C)C)CO",
+   "iupacName": "(2R)-2-[(1S)-1-[(1S,3R,8S,9S,10R,13S,14S,17R)-1-hydroxy-10,13-dimethyl-3-[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-[[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]oxan-2-yl]oxy-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-17-yl]ethyl]-5-(hydroxymethyl)-4-methyl-2,3-dihydropyran-6-one"
   },
   {
    "name": "Withanoside V",
    "slug": "withanoside-v",
    "count": 1,
-   "unresolved": true
+   "cid": 10700345,
+   "formula": "C40H62O14",
+   "weight": "766.9",
+   "inchikey": "ZBLWKSUMHLVXAM-KFJRISAASA-N",
+   "smiles": "CC1=C(C(=O)OC(C1)C(C)C2CCC3C2(CCC4C3CC=C5C4(C(CC(C5)OC6C(C(C(C(O6)COC7C(C(C(C(O7)CO)O)O)O)O)O)O)O)C)C)C",
+   "iupacName": "(2R)-2-[(1S)-1-[(1S,3R,8S,9S,10R,13S,14S,17R)-1-hydroxy-10,13-dimethyl-3-[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-[[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]oxan-2-yl]oxy-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-17-yl]ethyl]-4,5-dimethyl-2,3-dihydropyran-6-one"
   },
   {
    "name": "Xanthochymol",
    "slug": "xanthochymol",
    "count": 1,
-   "unresolved": true
+   "cid": 9938674,
+   "formula": "C38H50O6",
+   "weight": "602.8",
+   "inchikey": "TZZQZCIACNYHBG-OLPCVCRBSA-N",
+   "smiles": "CC(=CCC1CC2(C(=O)C(=C(C3=CC(=C(C=C3)O)O)O)C(=O)C(C2=O)(C1(C)C)CC=C(C)C)CC(CCC(=C)C)C(=C)C)C",
+   "iupacName": "(1R,3E,5S,7S)-3-[(3,4-dihydroxyphenyl)-hydroxymethylidene]-6,6-dimethyl-5,7-bis(3-methylbut-2-enyl)-1-[(2R)-5-methyl-2-prop-1-en-2-ylhex-5-enyl]bicyclo[3.3.1]nonane-2,4,9-trione"
   },
   {
    "name": "Yamogenin",
    "slug": "yamogenin",
    "count": 1,
-   "unresolved": true
+   "cid": 441900,
+   "formula": "C27H42O3",
+   "weight": "414.6",
+   "inchikey": "WQLVFSAGQJTQCK-CAKNJAFZSA-N",
+   "smiles": "CC1CCC2(C(C3C(O2)CC4C3(CCC5C4CC=C6C5(CCC(C6)O)C)C)C)OC1",
+   "iupacName": "(1S,2S,4S,5'S,6R,7S,8R,9S,12S,13R,16S)-5',7,9,13-tetramethylspiro[5-oxapentacyclo[10.8.0.02,9.04,8.013,18]icos-18-ene-6,2'-oxane]-16-ol"
   },
   {
    "name": "Yohimbine",
    "slug": "yohimbine",
    "count": 1,
-   "unresolved": true
+   "cid": 8969,
+   "formula": "C21H26N2O3",
+   "weight": "354.4",
+   "inchikey": "BLGXFZZNTVWLAY-SCYLSFHTSA-N",
+   "smiles": "COC(=O)C1C(CCC2C1CC3C4=C(CCN3C2)C5=CC=CC=C5N4)O",
+   "iupacName": "methyl (1S,15R,18S,19R,20S)-18-hydroxy-1,3,11,12,14,15,16,17,18,19,20,21-dodecahydroyohimban-19-carboxylate"
   },
   {
    "name": "Z-Guggulsterone",
    "slug": "z-guggulsterone",
    "count": 1,
-   "unresolved": true
+   "cid": 6450278,
+   "formula": "C21H28O2",
+   "weight": "312.4",
+   "inchikey": "WDXRGPWQVHZTQJ-OSJVMJFVSA-N",
+   "smiles": "CC=C1C(=O)CC2C1(CCC3C2CCC4=CC(=O)CCC34C)C",
+   "iupacName": "(8R,9S,10R,13S,14S,17Z)-17-ethylidene-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15-decahydrocyclopenta[a]phenanthrene-3,16-dione"
   },
   {
    "name": "Zeatin-O-glucoside",
@@ -5177,7 +7314,12 @@
    "name": "Zeylanone",
    "slug": "zeylanone",
    "count": 1,
-   "unresolved": true
+   "cid": 5276618,
+   "formula": "C22H14O6",
+   "weight": "374.3",
+   "inchikey": "XVMQJJJRMHQCGD-UHFFFAOYSA-N",
+   "smiles": "CC12C(CC3=C1C(=O)C4=C(C3=O)C=CC=C4O)C(=O)C5=C(C2=O)C=CC=C5O",
+   "iupacName": "8,19-dihydroxy-2-methylpentacyclo[11.8.0.02,11.04,9.015,20]henicosa-1(13),4(9),5,7,15(20),16,18-heptaene-3,10,14,21-tetrone"
   }
  ]
 }
