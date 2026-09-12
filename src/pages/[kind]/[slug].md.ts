@@ -19,7 +19,9 @@ import { abs } from '../../lib/site';
  */
 export async function getStaticPaths() {
   const out: any[] = [];
-  for (const kind of KINDS) {
+  // 'practice' is not in KINDS, which drives the section indexes, but it is a monograph
+  // kind for this purpose: its pages are cited and CiteThis offers a .md twin for them.
+  for (const kind of [...KINDS, 'practice' as const]) {
     for (const entry of await getCollection(kind)) {
       out.push({ params: { kind, slug: entry.data.slug }, props: { entry } });
     }

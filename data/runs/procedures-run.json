@@ -1,0 +1,407 @@
+{
+ "run": "procedure-pages",
+ "date": "2026-09-12",
+ "summary": {
+  "written": 55,
+  "approved": 43,
+  "held": 12,
+  "byLevel": {
+   "self-care": 6,
+   "supervised": 20,
+   "vaidya-only": 17
+  },
+  "citationsVerified": 22,
+  "ungroundedFlagged": 31,
+  "heldByDeterministicChecks": 0,
+  "published": 43
+ },
+ "heldByAuditor": [
+  {
+   "slug": "dhumapana",
+   "level": "supervised",
+   "reasons": [
+    "REJECT on an ungrounded and incorrect classificatory claim about an arsenic mineral, on the highest-risk page of the six. The body states 'Rasaśāstra classes it as an upaviṣa, a minor toxic substance' and the same claim is repeated in cautions as 'classed as an upaviṣa'. It is not in record 35bff9b7-012e-456f-a471-50e7d0e527d3, which says nothing about Manaḥśilā beyond naming it in the wick, and it is contradicted by every source I checked.",
+    "Verification: Manaḥśilā is classified under Uparasa varga in Rasaśāstra. easyayurveda's Manashila monograph states flatly 'Manashila is a Uparasa according to Rasashastra', and the Manahshila review literature describes it as 'a mineral drug of Uparasa group'. Upaviṣa is a distinct group of semi-toxic plant drugs (Vatsanabha-adjacent: Ahiphena, Dhattura, Gunja, Karaveera, Langali, Bhallataka and the like) and does not include Manaḥśilā. The grounding entry cites the AYUHOM safety-profile paper for this, but that paper's classification is Uparasa, not Upaviṣa.",
+    "This is precisely the failure mode the brief names: a plausible-sounding technical detail added to strengthen a safety argument, sourced to a paper that does not say it. The underlying safety point (an arsenic mineral must not be used unpurified) is true and well-sourced; the classificatory dressing is fabricated. Fix by deleting 'Rasaśāstra classes it as an upaviṣa, a minor toxic substance' from the body and 'classed as an upaviṣa' from the caution, keeping 'realgar, arsenic disulphide, never used unprocessed', which is verified.",
+    "Secondary concern, to fix in the same pass: the atiyoga list is attributed wholly to 'Caraka's account', but the Caraka source I fetched gives talushosha, galashosha, daha, deafness, blindness, inability to speak and bleeding disorders, while 'delusion' (moha) and 'loss of consciousness' (murcha) come from the Ashtanga Hridaya Su 21 list. Both halves are real; the single attribution to Caraka is not accurate. Split the attribution.",
+    "Secondary concern: 'classical processing requires śodhana, described for this mineral as repeated levigation with ginger juice' reads as the method, whereas the literature gives ardraka svarasa (seven bhavana) as one of several shodhana media, with the AYUHOM study testing four media. Phrase as one described method.",
+    "Everything else on this page verified and should be preserved. Ashtanga Hridaya Sutrasthana 21 is confirmed as Dhumapana Vidhim Adhyayam. Caraka Sutrasthana 5 (Matrashiteeya) is confirmed to cover dhumapana at 5/20-24, 5/25, 5/37 and 5/38-39, with Sushruta Chikitsa 40 as a further locus. The three types prayogika/snaihika/vairechanika are confirmed, as is the page's honest flag that the record's Vacā and Pippalī are absent from the prayogika varti and that Manaḥśilā belongs to the vairechanika. The three-puffs-per-nostril discrepancy, the contraindication list including post-virechana and post-basti states, and the particle-size/composition findings (54.18 to 15.55 micron, composition unchanged as arsenic disulphide) all check out. citationVerified true is justified.",
+    "No therapeutic claims found, and the supervised framing is otherwise appropriate. This is a one-claim reject, not a rewrite."
+   ],
+   "ungroundedClaims": [
+    "Rasaśāstra classes it as an upaviṣa, a minor toxic substance — not in the record; Manaḥśilā is classified under Uparasa varga in Rasaśāstra, and Upaviṣa is a group of plant drugs that does not include it",
+    "classed as an upaviṣa (caution bullet, same claim restated) — same defect",
+    "Caraka describes the signs of excess: ... delusion, loss of consciousness — moha and murcha are attributed to Caraka but come from the Ashtanga Hridaya Su 21 list; the Caraka atiyoga section fetched gives talushosha, galashosha, daha, deafness, blindness, inability to speak and bleeding disorders",
+    "classical processing requires śodhana, described for this mineral as repeated levigation with ginger juice — ardraka bhavana is one of several described shodhana media, not the required one"
+   ],
+   "claimPhrases": []
+  },
+  {
+   "slug": "karna-purana",
+   "level": "supervised",
+   "reasons": [
+    "REJECT: a dravya and a dosha-specific classical indication attributed to Aṣṭāṅga Hṛdaya Uttara 18 that the chapter does not support. The body states 'Warm oil with rock salt is indicated for vāta presentations', the FAQ repeats 'oil with rock salt', and grounding entry 9 attributes this to the easyayurveda chapter-18 page's vātaja section. I fetched that page twice with targeted prompts; it returns, for vātaja karnaśūla, warm juices of aśvattha, bilva, arka and eraṇḍa leaves smeared with oil, plus Mahāsneha, and states that rock salt is not specifically mentioned for vātaja ear filling. A follow-up search for saindhava in AH Uttara 18 karnapūraṇa confirmed nothing. Rock salt is not in the record either (common_oils has only the three tailas), so it is grounded in neither of the two permitted places.",
+    "The same grounding entry (10) lists 'sesame oil with rock salt' among the substances the chapter names, which I could not confirm and which is the seed of the error. An attributed classical indication that the cited chapter does not carry is exactly the failure class this audit exists to catch, and it is load-bearing here: it appears in the body, in the FAQ and behind the cautions paragraph about dośa-wise material selection.",
+    "What does check out, and should be preserved on a rewrite: AH Uttara Sthāna 18 is titled Karnaroga Pratiṣedha; it describes karṇapūraṇa extensively; 'शस्यते कर्णपूरणम्' appears verbatim (in the pittaja section); the pitta mapping (breast milk with drākṣā and yaṣṭī decoction) and the kapha mapping (juices of laśuna and ārdraka) are both confirmed; the filling material is indeed selected by dośa; and none of Bilva-mūla Taila, Sahacarādi Taila or Apāmārga-kṣāra Taila appear in the chapter. citationVerified true is defensible for chapter identity.",
+    "All record-sourced content is accurate: kriyā-bāhya, gloss 'Ear oil filling', the four verbatim pradhāna-karma steps including 10-20 min retention, the three named oils, and the null preparation / aftercare / materials / duration / frequency / adverse_events / red_flags fields.",
+    "Supervised framing and cautions are otherwise sound: no volume, temperature or technique is invented, and the page routes the reader to a practitioner. Fix the vāta/rock-salt claim and this page is publishable.",
+    "Small secondary imprecision to fix at the same time: 'None of the three oils the record names appear among the substances named in that chapter' is true of the oils, but bilva does appear in the chapter as a leaf juice, so the sentence reads more absolutely than the source supports."
+   ],
+   "ungroundedClaims": [
+    "Warm oil with rock salt is indicated for vāta presentations",
+    "oil with rock salt (repeated in FAQ answer 'Which oils are used?')",
+    "grounding entry: 'In that chapter the filling material is selected by presentation: oil with rock salt for vāta' — the vāta half is contradicted by the cited page",
+    "grounding entry: 'Substances listed on that page: ghee, sesame oil with rock salt, Yaṣṭyādi Taila, honey, breast milk, mustard oil, plant juices' — 'sesame oil with rock salt' unconfirmed",
+    "'chapter 17 which covers their classification' — plausible and low-stakes, but I could not confirm AH Uttara 17's title in this session"
+   ],
+   "claimPhrases": []
+  },
+  {
+   "slug": "matra-virecana",
+   "level": "supervised",
+   "reasons": [
+    "REJECT on an incorrect, checkable claim about the structure of a classical text, made in the section whose whole purpose is citation honesty. The body says purgation is 'handled elsewhere… with the procedural material placed in Kalpa Sthāna', and the citationNote repeats it. Both sources the page cites contradict this: carakasamhitaonline's Siddhi Sthana index says 'Procedure of vamana and virechana had been previously explained in Sutra Sthana in an exclusive chapter', and its Kalpa Sthana page states 'Details of pharmaceutical process of drugs employed in vamana and virechana procedures are given in this section and detailed therapeutic implications of all the shodhana karma in Siddhi Sthana.' Kalpa Sthana is the formulation section (600 recipes from 15 drugs, six emetic chapters plus six purgative), not the procedural one. The grounding entry attributes the claim to the fetched Siddhi Sthana index, which does not say it.",
+    "Second, smaller defect: 'A full śodhana virecana in the classical scheme is surrounded by preparation and aftercare' is unsourced general knowledge, appearing in no grounding entry and in no fetched source. It is used to interpret what the record's silence means, so it is doing argumentative work rather than sitting decoratively.",
+    "Everything else on this page is sound and the fix is small. Caraka Siddhi 4 = Snehavyāpat Siddhi covering sneha basti formulations, six impediments, complications and mātrā basti with no virecana content: independently confirmed, so citationVerified false and the conflation diagnosis are both correct. Siddhi 6 = Vamana Virechana Vyapat Siddhi: confirmed. Record fields match exactly (single pradhana_karma step, all other fields null). No numeric dose, duration or frequency anywhere. No therapeutic claim. Supervised framing is handled well: the FAQ meets 'Can I just take Triphalā at bedtime myself?' with a direct no.",
+    "Suggested fix: delete the clause 'with the procedural material placed in Kalpa Sthāna' from both body and citationNote (or replace with 'with procedure treated elsewhere in the text, which was not checked here'), and cut or ground the śodhana preparation/aftercare generalization. Then republish.",
+    "One note for the writer, not a reject: the body's 'no dose appears anywhere on it' sits oddly beside 'a mild dose of Triphalā or trivṛt at bedtime' three paragraphs later. No quantity is given, so it is defensible, but 'no quantity appears anywhere on it' would be the accurate sentence."
+   ],
+   "ungroundedClaims": [
+    "with the procedural material placed in Kalpa Sthāna (contradicted by both cited pages; Kalpa Sthāna holds formulations, Siddhi Sthāna the therapeutic procedure)",
+    "A full śodhana virecana in the classical scheme is surrounded by preparation and aftercare (unsourced general knowledge, in no grounding entry)"
+   ],
+   "claimPhrases": []
+  },
+  {
+   "slug": "vrddha-rasayana",
+   "level": "supervised",
+   "reasons": [
+    "REJECT on an ungrounded dravya list. dravyasNamed publishes five items, but the record (3f51c85b) names only Cyavanaprasa, Matra Basti, Brahmi and Mandukaparni across its three pradhana_karma steps, and common_dravyas is null. Amalaki and Haritaki appear in neither the record nor the visible body as components of this regimen, and neither has a grounding entry. On a page headed 'rasayana regimen for older adults', a published dravya list reads as what the regimen uses, so this puts two dravyas into a geriatric protocol on no authority at all. It is the exact forbidden category: naming a dravya the record does not name.",
+    "The likely mechanism makes it worse, not better: both names come from the title of the cited chapter, Abhaya-Amalakiya (abhaya = haritaki), which is the chapter the page itself argues covers only one of the three components. Chapter-title herbs have migrated into the procedure's ingredient list.",
+    "Fix is small and the page can return: delete Amalaki and Haritaki from dravyasNamed, leaving Cyavanaprasa, Brahmi and Mandukaparni. Nothing else here needs to change.",
+    "The rest of the page audits clean and the citation work is good. I re-verified all of it: Caraka Ci 1.1 does describe cyavanaprasa as paramukto rasayana and carries the Cyavana account; Caraka's four medhya rasayanas (mandukaparni, guduci, yastimadhu, sankhapuspi) are in Ci 1.3 Karapracitiya and brahmi is genuinely not among them; AH Sutrasthana 19 is Bastividhi. Marking citationVerified false because the record's single citation cannot carry the three-part regimen is the right call.",
+    "The page is also right to surface the conflict rather than smooth it, and I confirmed both sides: Susruta Ci 27 restricts rasayana to young and middle-aged persons and requires prior purification, while the companion record ccc54443 does say 'Avoid intensive sodhana'.",
+    "Secondary flag for the rewrite: 'The classical literature describes matra basti as ... suited to children, the elderly and debilitated patients' attributes to the samhitas what I could only confirm from a secondary summary asserting that the samhitas say it. Attribute it to the secondary source, or verify the primary locus.",
+    "Secondary flag: the 10 g daily dose is correctly sourced to the record, but the record is llm-only and unverified, and this is a dose printed for older readers. Consider stating it as the record's figure the way the vatatapika page states its thirty days.",
+    "The body I was handed ends mid-sentence at 'But it does mean the adapta', so the closing section could not be audited. Re-submit the complete body."
+   ],
+   "ungroundedClaims": [
+    "dravyasNamed lists 'Amalaki' as a dravya of this regimen; record 3f51c85b names it nowhere (pradhana_karma gives only Cyavanaprasa, Matra Basti, Brahmi, Mandukaparni; common_dravyas is null) and there is no grounding entry for it",
+    "dravyasNamed lists 'Haritaki' as a dravya of this regimen; it appears in neither the record nor the visible body, has no grounding entry, and appears to be back-derived from the cited chapter's title (Abhaya-Amalakiya)"
+   ],
+   "claimPhrases": []
+  },
+  {
+   "slug": "vrddha-vajikarana",
+   "level": "supervised",
+   "reasons": [
+    "REJECT on one ungrounded item, mechanically the same failure as vrddha-rasayana. dravyasNamed publishes 'Draksa', which the record (ccc54443) does not name. The record names the compound preparation Draksarista in pradhana_karma step 1; common_dravyas and materials are null. Draksa has no grounding entry, and the body never mentions it as a separate dravya. It is a dravya the record does not name, published in a field that reads as what the procedure uses.",
+    "This is milder than the vrddha-rasayana case, since draksa is genuinely the base of draksarista, but I am applying the same rule to both: a dravya not in the record and not in a source the page checked does not get published. Delete 'Draksa' from dravyasNamed, leaving Cyavanaprasa and Draksarista, and the page can return as-is.",
+    "Everything else on this page audits clean, and the citation work is the strongest of the six. I re-verified each element: Caraka Ci 1.1 is the Abhaya-Amalakiya Rasayana Pada and is not the vajikarana chapter; Caraka's vajikarana material is Cikitsasthana 2 with the four padas Samyoga Sharamuliya, Asikta Ksirika, Masaparna Bhrtiya and Puman Jata Baladhika; cyavanaprasa is indeed described in Ci 1.1, which explains the record's misplaced citation; and draksarista traces to Bhaisajya Ratnavali and Sarngadhara, later works, with no Caraka locus, so declining to assert one is correct. citationVerified false with the correction offered is exactly right.",
+    "The alcohol caution is grounded and I confirmed it: arista preparations are made by sandhana kalpana and carry self-generated alcohol. Raising it against medication in older adults is a real safety point, not an invented detail.",
+    "No therapeutic claim. The vajikarana definition is reportage of the classical branch, and the page resists the aphrodisiac framing.",
+    "The page is right to name the sodhana conflict as a conflict and to leave it unresolved. I confirmed both sides against Caraka Ci 1.1 and Susruta Ci 27.",
+    "No invented dose, duration, frequency, season or oil; the page states the record gives none of these, which matches the file.",
+    "The body I was handed ends mid-sentence at 'what oil is intended for abhyanga and', so the closing section could not be audited. Re-submit the complete body."
+   ],
+   "ungroundedClaims": [
+    "dravyasNamed lists 'Draksa' as a dravya of this procedure; record ccc54443 names only the compound preparation Draksarista (common_dravyas and materials are null), the body never names draksa separately, and there is no grounding entry for it"
+   ],
+   "claimPhrases": []
+  },
+  {
+   "slug": "anuvasana-basti",
+   "level": "vaidya-only",
+   "reasons": [
+    "REJECT on rule 5: a vaidya-only, internally administered procedure written as a complete executable protocol. The 'What it involves' section is laid out Before / During / After and supplies every parameter a reader would need to carry it out: a light meal 1-2 hours ahead, whole-body abhyaṅga and lower-body svedana, roughly 60 to 90 ml of warm medicated taila administered rectally, supine with hips elevated, retained 30 minutes or more, then gentle walking and a warm meal once the oil is expelled. That is a recipe, not a description of what a procedure is.",
+    "The FAQ makes it worse rather than better. 'How much oil is used, and how long is it held?' is a how-to question, and it is answered with the how-to, restating 60-90 ml and 30+ minutes with position. The quantity appears three times across body, cautions and FAQ, which makes it the operative takeaway of the page no matter what the surrounding hedges say.",
+    "The 60-90 ml figure and the 30+ minute retention come only from an llm-only record marked unverified, and I could not corroborate either figure against any source in this session. The page's own caution concedes there are no criteria for choosing within or outside that range and no adjustment for the person. Publishing an uncorroborated volume for a rectally administered oil on a reference that asks to be cited, run by a manufacturer, is the single highest-consequence unverified number in this batch. 'The figure is a lead, not a dosing instruction' does not undo printing the dose.",
+    "The writer has already demonstrated the correct treatment elsewhere in this same batch: the Agnikarma page carries a 'Why this page carries no method' section and deliberately drops the record's '<2 sec per point'. The same discipline was available here and was not applied.",
+    "Everything else on the page is sound, so the fix is small. All three citations verified independently: Caraka Siddhisthāna is the basti section and chapter 1 is Kalpanā Siddhi; Suśruta Cikitsāsthāna 35 = Netrabasti-pramāṇa-vibhāga (enema apparatus and measurement), 36 = Netrabasti-vyāpat (complications of enema administration), 37 = Anuvāsana and Uttara Basti; AH Sūtrasthāna 19 = Basti-vidhi Adhyāya. No therapeutic claims, no invented dravyas (all four oils are in common_oils), seasons varṣā and śiśira match the record, and the null adverse_events and red_flags are correctly reported as absence of data.",
+    "REMEDY: cut the Before / During / After block and the 'how much and how long' FAQ. Keep what it is, the anuvāsana-versus-niruha distinction, the verified citations, the note that Suśruta gives a whole chapter to enema complications, and the 'why it needs a vaidya' section. State that the record's quantity and retention figures are withheld because they are unverified and are a practitioner's determination. The page will be shorter and will pass."
+   ],
+   "ungroundedClaims": [
+    "roughly 60 to 90 ml of warm medicated taila administered rectally - present in the llm-only record's pradhana_karma but uncorroborated by any source I could check, and republished as the page's operative figure in body, cautions and FAQ",
+    "oil retained 30 minutes or more, person supine with hips elevated - same provenance, record-only and independently unconfirmed, presented as procedure"
+   ],
+   "claimPhrases": []
+  },
+  {
+   "slug": "jalaukavacarana",
+   "level": "vaidya-only",
+   "reasons": [
+    "REJECT 1, the page is unfinished. The body terminates mid-sentence: '...This is a procedure that opens a bleeding wound with a live animal that carries'. The section that breaks off is 'Why this is not something to attempt', so the truncation removes precisely the closing safety argument on a vaidya-only bloodletting page. An incomplete page cannot publish on a reference that asks to be cited.",
+    "REJECT 2, instructional framing on a procedure the brief names as automatic-reject. The body reconstructs a complete, reproducible operational protocol: roughen the site with loose earth and powdered cow dung, sprinkle the leeches with mustard-seed and turmeric water, return them briefly to water, moisten the part with milk or blood or make slight incisions to induce attachment, recognise feeding by the horseshoe mouth and raised arched neck, sprinkle powdered saindhava on a leech that will not release, dust with rice powder, apply oil and salt to the mouth, stroke tail-to-mouth to force regurgitation, then dress the wound by bleeding volume. The 'this is not a set of instructions' disclaimer in paragraph two does not undo a recipe that is complete enough to follow. Every one of these steps is accurate to Bhishagratna, which makes it worse, not better: the page is a faithful how-to.",
+    "The classical citation itself is sound and I confirmed it. Suśruta Sūtrasthāna 13 is the Jalaukāvacaraṇīya Adhyāya, and the twelve species with six venomous (Krishná, Karvurá, Alagardá, Indráyudhá, Sámudriká, Gochandaná) and six non-venomous, plus the indication for the old, infirm, women, infants, the timid and the delicate as 'the gentlest that can be possibly devised', all match the Wikisource text. citationVerified true is defensible; the rejection is about framing and completeness, not about the citation.",
+    "Record fields all match /Users/jairajsharma/Projects/ayurveda-atlas/data/runs/procedures/57ffd45b-5a66-4999-a320-a6e4bbb7cba3.json, including the 30-90 minute feed, the saindhava-haridrā detachment, the re-use-after-sterilisation note and the two rare adverse events. The 30-90 minutes is correctly attributed to the record and not to Suśruta, who gives no duration in minutes.",
+    "One unconfirmed classical detail to fix on the rewrite: the page states the wound is dressed with 'ghee if it bled appropriately'. Reading the same Wikisource chapter in this session returned honey for insufficient bleeding and copious cold water for excessive bleeding, but an astringent, sweet and cooling plaster rather than ghee for proper bleeding. The ghee variant could not be confirmed.",
+    "Rewrite guidance: cut the entire classical step-by-step reconstruction. What the record supports and what a reader legitimately needs is that a leech is applied to a lesion, feeds until satiated, is removed, and that the recorded risks are prolonged bleeding and Aeromonas infection. A short page here is the correct page."
+   ],
+   "ungroundedClaims": [
+    "Body ends mid-sentence at 'a live animal that carries' — the final section is missing entirely",
+    "'ghee if it bled appropriately' — re-reading the cited Wikisource chapter gave an astringent sweet and cooling plaster for proper bleeding, not ghee; the ghee reading could not be confirmed in this session"
+   ],
+   "claimPhrases": []
+  },
+  {
+   "slug": "pippali-vardhamana-kalpa",
+   "level": "vaidya-only",
+   "reasons": [
+    "REJECT: a classical locus is asserted as fact and was never checked. The page states 'Caraka's own caution, as rendered in translations of the rasāyana chapter, is that three things should not be used in excess of dose or for long duration: pippalī, kṣāra and lavaṇa', and repeats the attribution in cautions ('Caraka's rasāyana chapter names pippalī, along with kṣāra and lavaṇa...') and again in FAQ 3.",
+    "I fetched the writer's own cited source, the easyayurveda Vardhamana Pippali page, and it carries the sentence with no locus attached at all: it appears there as a standalone principle with no text, sthāna or chapter named. The 'rasāyana chapter' attribution is the page's own addition, recorded in the grounding list as source 'fetched' against evidence that does not contain it.",
+    "Independent search contradicts the attribution: secondary sources place the warning in Caraka's Sūtrasthāna ('Charaka in his Sootra Stana has specified not to use Pippali in excess'), not in the Cikitsāsthāna rasāyana chapter. So the page has not merely over-claimed its source, it has most likely put the verse in the wrong sthāna.",
+    "This is load-bearing, not incidental. It is the page's entire argument for why the protocol needs a vaidya, and it appears in the answer line's framing, the body, a caution and an FAQ. A reader or a citing clinician would carry the wrong reference away.",
+    "Second ungrounded item: 'Long pepper in quantity is not inert alongside conventional medication' is a pharmacological interaction claim with no record support, no fetched source and no grounding entry.",
+    "What is right, and should survive the fix: Caraka Cikitsāsthāna 1.3 is confirmed as the Karaprācitīya Rasāyana Pāda and does contain Vardhamāna Pippalī. The 10/6/3-by-bala schedules rising for ten days and tapering for ten over twenty days are confirmed verbatim, as are the kalka/kaṣāya/cūrṇa forms, śaṣṭika śāli with cow's milk and ghee, and shodhana preceding rasāyana. Refusing to reconcile the record's 1-to-10 nineteen-day schedule with the classical one, and recommending neither, is exactly the right handling.",
+    "To pass: either drop the chapter attribution and write 'Caraka warns that pippalī, kṣāra and lavaṇa are not to be used in excess of dose or for long duration', citing the source that actually carries it, or verify the Sūtrasthāna locus against a public translation and cite that. Do not guess a chapter number. Cut the drug-interaction sentence or replace it with a plain instruction to disclose current medication."
+   ],
+   "ungroundedClaims": [
+    "\"Caraka's own caution, as rendered in translations of the rasāyana chapter, is that three things should not be used in excess of dose or for long duration: pippalī, kṣāra and lavaṇa\" — the cited source attaches no locus; other sources place the verse in Caraka Sūtrasthāna, not the rasāyana chapter",
+    "\"Caraka's rasāyana chapter names pippalī, along with kṣāra and lavaṇa, as one of three things not to be used in excess of dose or for long duration\" (cautions) — same misattributed locus",
+    "\"Caraka's own text lists pippalī among three substances not to be used in large dose or for long duration\" in FAQ 3, presented under the heading of the rasāyana chapter's authority",
+    "\"Long pepper in quantity is not inert alongside conventional medication\" — pharmacological interaction claim with no record support and no source"
+   ],
+   "claimPhrases": []
+  },
+  {
+   "slug": "suvarna-prashana-protocol",
+   "level": "vaidya-only",
+   "reasons": [
+    "REJECT on one specific unsupported classical attribution, made twice, that contradicts the page's own grounding evidence. The body says the gold is rubbed 'with the child's face turned east' and the FAQ states 'The Lehādhyāya specifies the child facing east during administration'. The sources place the eastern direction at the trituration/preparation, not on the child during administration: PMC4492018 reads 'gold should be triturated along with water, honey, and ghee on a clean stone facing eastern direction and made the Shishu lick the same', and the page's own grounding entry records that the paper 'specifies only an eastern direction during preparation'. The writer had the disambiguation in hand and published the other reading. On a page whose entire value is precision about what Kāśyapa does and does not specify, a misreport of what the chapter specifies is the exact failure class this audit exists to catch.",
+    "Fix is narrow and the page is otherwise publishable: change both occurrences to attribute the eastern direction to the preparation (gold triturated on a clean stone facing east), and re-check the body's first mention, which says 'rubbed with honey and water' while the later paragraph and the sources say water, honey and ghee.",
+    "Everything else verified and correct. Kāśyapa Saṃhitā Sūtrasthāna Lehādhyāya independently confirmed as the sole classical locus for suvarṇa-prāśana; chapter 18 corroborated for the 2022 Chaukhambha Sanskrit Sansthan edition; the properties medhā-agni-bala-vardhana, āyuṣya, maṅgalya and puṇya confirmed; 'Kāśyapa has not mentioned the dosage for Swarnaprashana in specific' confirmed; the 1/32 to 1/4 ratti range from later texts confirmed; Puṣya-nakṣatra confirmed as a modern practice with the auspicious-star rationale, and gold-with-Puṣya confirmed as a Suśruta/Caraka association for rasāyana and puṃsavana rather than for suvarṇa-prāśana; Śaṅkhapuṣpī, Vacā, Kuṣṭha and Padma-kiñjalka confirmed as later authors' additions; improperly processed gold confirmed to be reported as causing serious harm.",
+    "Credit where due, and these should be preserved in the corrected version: the page refuses the record's english field 'Pediatric immunization protocol (puṣya-nakṣatra)', states outright that this is not immunisation and not a substitute for a vaccination schedule, and corrects two demonstrably wrong record assertions (Puṣya as the classical position, and the dravya list as Kāśyapa's own). Naming Madhu and Ghṛta in dravyasNamed beyond the record's four is acceptable because they come from the verified Kāśyapa formulation and the body says so.",
+    "No therapeutic claim. The Lehādhyāya properties are reported as what the chapter 'characterises' the practice as, which is reportage, and no disease claim appears. No instructional framing: the page does not describe how to prepare or dose the material and routes both provenance and dose to a practitioner."
+   ],
+   "ungroundedClaims": [
+    "'with the child's face turned east' (body) — the cited sources place the eastern direction at the trituration/preparation on the stone, not on the child during administration; contradicted by the page's own grounding evidence line",
+    "'The Lehādhyāya specifies the child facing east during administration' (FAQ 1) — same misattribution, stated as an explicit claim about what the chapter specifies",
+    "'gold being rubbed with honey and water on a washed stone' (body, first mention) — omits ghee, which the sources include and which the page's own later paragraph and FAQ 2 both state as water, honey and ghee"
+   ],
+   "claimPhrases": []
+  },
+  {
+   "slug": "vamana",
+   "level": "vaidya-only",
+   "reasons": [
+    "REJECT: the body is truncated mid-word. It ends '...and Suśruta's very next chapter is given over to t' with no closing. The entire 'why it needs a vaidya' closing is missing, so a vaidya-only therapeutic-emesis page currently terminates in the middle of its adverse-event discussion. An incomplete body cannot publish regardless of grounding quality.",
+    "The truncation also strands the page's most safety-relevant paragraph. The last complete content is the red-flag list (bleeding in vomitus, syncope, tachycardia, altered consciousness); the sentence that would have framed why this belongs in clinical hands is cut off. Regenerate the body to completion and re-audit.",
+    "Grounding is otherwise sound and should be preserved. Every record field checks out: notes='Backbone of pañcakarma. Hospital setting only.', purva_karma (snehapāna 3-7 days increasing to samyak-snigdha; sarvāṅga abhyaṅga + svedana 1 day before; kapha-utkleśaka āhāra of kṣīra, dadhi, māṣa the night before), pradhana_karma (madanaphala-yaṣṭi-saindhava-madhu kaṣāya early morning empty stomach; vegas counted; stop at pittānta darśana and śleṣma-utkleśopaśama), paschat_karma (dhūmapāna; saṃsarjana-krama/peyādi-krama 3-7 days; rest, no fasting, no cold/wind), the five dravyas, season vasanta, frequency, duration 7, adverse events and red flags.",
+    "All three citations independently re-verified. Caraka Sūtrasthāna 15 = Upakalpanīya Adhyāya, confirmed for the vamana/virecana requisites and the purification-adequacy signs. Caraka Kalpa Sthāna 1 = Madanakalpa Adhyāya, and the specific claim that madanaphala leads because 'it does not produce any adverse effects' is confirmed. Suśruta Cikitsāsthāna 33 confirmed as 'Description of purgative and emetic medicines', with 31 sneha, 32 sveda and 34 'The injudicious use of emetics and purgatives'.",
+    "No therapeutic claim found in the surviving text, and the framing is descriptive rather than instructional ('This is a description of what a supervised procedure consists of, not a method'). The page also correctly drops the record's management advice for mūrcchā ('manage with sweet liquids and rest') rather than reproducing it as guidance.",
+    "Minor, to fix while regenerating: 'aimed at kapha' is not in the grounding array. It is supportable from the record's own kapha-utkleśaka āhāra step and śleṣma-utkleśopaśama endpoint, but it needs a grounding entry."
+   ],
+   "ungroundedClaims": [
+    "body text terminates mid-word at 'Suśruta's very next chapter is given over to t' — the remainder of the adverse-events section and the whole closing supervision rationale are absent"
+   ],
+   "claimPhrases": []
+  },
+  {
+   "slug": "virecana",
+   "level": "vaidya-only",
+   "reasons": [
+    "REJECT: two duration/timing statements in the body that the record does not give. The record's purva_karma is 'Snehapāna 3-7 days till samyak-snigdha' and duration_days=7 for the whole episode, yet the closing paragraph describes 'a patient prepared over a week of escalating oleation'. That silently promotes a 3-7 day range to a flat week and also conflicts with the page's own correct statement that seven days is the overall episode, not the preparation. Inventing a duration the record does not give is an explicit hard-rule failure.",
+    "REJECT, second instance: FAQ 1 states 'The purgative itself is one morning inside a week-long procedure.' The virecana record says only 'on empty stomach' — it gives no time of day. The sibling Vamana record does say 'early morning, empty stomach', but that field belongs to a different procedure and this page's own body correctly omits the timing when describing pradhāna-karma. The FAQ adds it back unsourced, and it is not in the grounding array.",
+    "Both fixes are narrow: state the preparation as three to seven days rather than 'a week', and drop 'one morning' or replace it with the record's 'on an empty stomach'. Nothing else needs to change.",
+    "Everything else is accurately grounded: pradhana_karma's three purgative options (trivṛt, eraṇḍa-taila, icchābhedī rasa), the endpoint pittānta with nivṛtti of pitta-rasāḥ, vegas counted, saṃsarjana-krama 3-7 days with rest and no cold, season śarad, frequency null, and the five dravyas. The citationNote's disclosure of the corrupted 'Ka- ṭukī' string and of the absent adverse_events and red_flags is good practice, and the cautions correctly present that absence as missing information rather than reassurance.",
+    "All three citations independently re-verified. Caraka Sūtrasthāna 15 = Upakalpanīya Adhyāya, confirmed. Suśruta Cikitsāsthāna 33 confirmed as 'Description of purgative and emetic medicines' with chapter 34 'The injudicious use of emetics and purgatives'. Aṣṭāṅga Hṛdaya Sūtrasthāna 18 confirmed as Vamana Virechana Vidhi Adhyaya covering emesis and purgation. citationVerified true is justified; the citation itself is not the reason for rejection.",
+    "No therapeutic claim, and no instructional framing — the page says self-administering a purgative to a counted endpoint is dangerous and gives no quantity for any option, correctly noting that eraṇḍa-taila, trivṛt and icchābhedī rasa are not interchangeable at an arbitrary dose.",
+    "Minor, to fix at the same time: 'escalating' internal oleation appears twice and is not in this record (its purva_karma says only 'Snehapāna 3-7 days till samyak-snigdha'). It is supportable from the Snehapāna record's daily-increment step, but it needs a cross-record grounding entry."
+   ],
+   "ungroundedClaims": [
+    "'a patient prepared over a week of escalating oleation' — record gives 3-7 days of snehapāna, not a week; duration_days=7 refers to the whole episode",
+    "'The purgative itself is one morning inside a week-long procedure' — the virecana record gives no time of day, only 'on empty stomach'; 'early morning' belongs to the separate Vamana record",
+    "'three to seven days of escalating internal oleation' / 'a week of escalating oleation' — the escalation is not stated in this record and is not in the grounding array"
+   ],
+   "claimPhrases": []
+  },
+  {
+   "slug": "vajikarana-tantra",
+   "level": "vaidya-only",
+   "reasons": [
+    "BLOCKING: The body is truncated mid-word. It ends '...that stage can include pañcakarma.\\n\\nPub' with no closing sentence. This is an incomplete document and cannot publish in any form.",
+    "BLOCKING: The truncation falls inside the section headed 'Who it is for and who should avoid it', so the contraindications section of a vaidya-only page is unfinished. The age bounds (roughly 17 to 70) and the warning against administration to those lacking sensory self-control are both verified and both present in the cautions array, but neither reaches the body prose. A reader of the page proper is never told who should avoid this.",
+    "citationNote is inaccurate about the page's own content: it states the 7 to 14 day snehapāna figure is 'flagged in the body as record-derived and untraced'. It is not. The body lists 'Snehapāna (internal oleation) for 7 to 14 days' under Pūrva-karma with no untraced flag; the flag appears only in the cautions array. Fix the note or add the flag to the body.",
+    "Minor, non-blocking: 'It is unusual among Caraka's chapters in being divided into four pādas' is an editorial characterization with no entry in the grounding list. Cikitsā-sthāna 1 (Rasāyana) is likewise divided into four pādas, so 'unusual' needs either a source or softening to the FAQ's wording ('one of the few'), which is defensible.",
+    "Minor, non-blocking: 'The first two are named after their principal dravya, aśvagandhā and mūsalī respectively' is an inference from the preparation names, not a record field. Low risk and self-evident, but it is a statement about composition and the record gives no composition (common_dravyas: null).",
+    "VERIFIED CORRECT, for the rewrite: I independently confirmed the citation. carakasamhitaonline.com/index.php/Vajikarana_Adhyaya confirms Chikitsa Sthana Chapter 2 is the Vajikarana Adhyaya and names the four padas (Samyoga Sharamuliya, Asikta Ksheerika, Mashaparnabhritiya, Pumanjatabaladikam). It also confirms the 17-to-70 age bounds verbatim, purification before therapy, the diet (cow's milk from specially fed cattle, ghee, shashtika rice, meat broths), and 'consumed by Jitendriya Purusha or man who has control on his senses'. easyayurveda.com Charaka Chikitsa 2.1 confirms 'depending on the strength of the person, cleansing Panchakarma therapies should be administered to him, before he resorts to these aphrodisiac recipes', the dirty-cloth-and-dye analogy, 'nityamatmavan' (ever self-controlled), and the pada as Samyoga Sharamuliya with 15 recipes. citationVerified true is justified, and the correction of the record's loose 'Vājīkaraṇa-pāda' label to 'Vājīkaraṇa Adhyāya' is right.",
+    "VERIFIED CORRECT: neither source states any snehapāna duration in days. The page's handling of the record's 7 to 14 day figure, attributing it to the record and declining to treat it as a schedule, is the correct treatment. Do not delete the figure in the rewrite and do not promote it either.",
+    "VERIFIED CORRECT: every record-sourced statement matches the JSON exactly, including purva_karma, pradhana_karma, paschat_karma null, duration_days null, frequency null, season null, adverse_events null, red_flags null, common_oils null, materials null, common_dravyas null, and the english and category fields. No invented dose, quantity, temperature, oil composition, dravya or instrument was found.",
+    "VERIFIED CORRECT: no therapeutic claim in any wording. The page uses reportage framing throughout ('the record treats', 'translations report', 'Caraka indicates') and never says treats, cures, heals, relieves or prevents. The vaidya-only framing holds: the stage list is presented as a description of what the protocol involves, the page states plainly it is not to be attempted at home, and it explicitly rejects the shortcut of buying a named pāka. No instructional framing to fix."
+   ],
+   "ungroundedClaims": [
+    "'It is unusual among Caraka's chapters in being divided into four pādas (quarters)' — editorial characterization, no grounding entry, and Cikitsā 1 is also divided into four pādas.",
+    "'The first two are named after their principal dravya, aśvagandhā and mūsalī respectively' — inference from preparation names; the record gives no composition (common_dravyas: null)."
+   ],
+   "claimPhrases": []
+  }
+ ],
+ "heldByChecks": [],
+ "dravyasWithoutPages": [
+  {
+   "slug": "medhya-rasayana",
+   "dravyas": [
+    "Śaṅkhapuṣpī"
+   ]
+  },
+  {
+   "slug": "mukhabhyanga",
+   "dravyas": [
+    "Candanādi Taila"
+   ]
+  },
+  {
+   "slug": "baspa-sveda",
+   "dravyas": [
+    "Sahacara"
+   ]
+  },
+  {
+   "slug": "griva-basti",
+   "dravyas": [
+    "Mahānārāyaṇa Taila"
+   ]
+  },
+  {
+   "slug": "hridaya-basti",
+   "dravyas": [
+    "Mahānārāyaṇa Taila",
+    "Aśvagandhā Taila",
+    "Kṣīrabalā Taila"
+   ]
+  },
+  {
+   "slug": "jambira-pinda-sveda",
+   "dravyas": [
+    "Jambīra (lemon)",
+    "rock salt"
+   ]
+  },
+  {
+   "slug": "kati-basti",
+   "dravyas": [
+    "Mahānārāyaṇa Taila"
+   ]
+  },
+  {
+   "slug": "mukha-abhyanga-intensive",
+   "dravyas": [
+    "Mahānārāyaṇa Taila"
+   ]
+  },
+  {
+   "slug": "matra-basti",
+   "dravyas": [
+    "Mahānārāyaṇa Taila"
+   ]
+  },
+  {
+   "slug": "navara-kizhi",
+   "dravyas": [
+    "Ṣaṣṭika-śāli (navara rice)"
+   ]
+  },
+  {
+   "slug": "nadi-sveda",
+   "dravyas": [
+    "Sahacara"
+   ]
+  },
+  {
+   "slug": "pizhichil",
+   "dravyas": [
+    "Mahānārāyaṇa Taila"
+   ]
+  },
+  {
+   "slug": "svedana",
+   "dravyas": [
+    "Sahacara"
+   ]
+  },
+  {
+   "slug": "talam",
+   "dravyas": [
+    "Candanādi"
+   ]
+  },
+  {
+   "slug": "vatatapika-rasayana",
+   "dravyas": [
+    "Aśvagandhā"
+   ]
+  },
+  {
+   "slug": "shirodhara",
+   "dravyas": [
+    "Kṣīrabalā Taila",
+    "Mahānārāyaṇa Taila",
+    "Kṣīra (milk)"
+   ]
+  },
+  {
+   "slug": "agnikarma",
+   "dravyas": [
+    "Ghṛta (ghee)",
+    "Madhu (honey)",
+    "Pañcadhātu śalākā (five-metal cautery probe, per the record)"
+   ]
+  },
+  {
+   "slug": "anuvasana-niruha-krama",
+   "dravyas": [
+    "Mahānārāyaṇa Taila"
+   ]
+  },
+  {
+   "slug": "asthi-rasayana",
+   "dravyas": [
+    "Aśvagandhā cūrṇa",
+    "Milk (as vehicle)"
+   ]
+  },
+  {
+   "slug": "brahma-rasayana",
+   "dravyas": [
+    "Śāṣṭika rice (ṣaṣṭika śāli)",
+    "Milk (kṣīra)",
+    "Madhu (honey)"
+   ]
+  },
+  {
+   "slug": "kutipraveshika-rasayana",
+   "dravyas": [
+    "Guḍa",
+    "Rajanī",
+    "Purāṇa ghṛta (old ghee)",
+    "Barley"
+   ]
+  },
+  {
+   "slug": "kutipraveshika-vajikarana",
+   "dravyas": [
+    "Aśvagandhā (as Aśvagandhā Pāka)",
+    "Mūsalī (as Mūsalī Pāka)"
+   ]
+  },
+  {
+   "slug": "ksharakarma",
+   "dravyas": [
+    "Snuhī"
+   ]
+  },
+  {
+   "slug": "nasya",
+   "dravyas": [
+    "Ksīrabalā Taila",
+    "Mahāmāṣa Taila"
+   ]
+  },
+  {
+   "slug": "niruha-basti",
+   "dravyas": [
+    "Madhu (honey)"
+   ]
+  }
+ ]
+}

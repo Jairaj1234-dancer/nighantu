@@ -1,0 +1,84 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import { getCollection } from 'astro:content';
+import { SITE_NAME, abs, rel } from '../../lib/site';
+
+const entries = (await getCollection('practice')).map((e) => e.data)
+  .sort((a, b) => a.title.localeCompare(b.title));
+
+const ORDER = ['self-care', 'supervised', 'vaidya-only'] as const;
+const GROUP = {
+  'self-care': {
+    label: 'Practices you can do yourself',
+    blurb: 'Daily-regimen practices described so a person can follow them, with the cautions that go with each.',
+  },
+  supervised: {
+    label: 'Given by a trained therapist',
+    blurb: 'Clinic procedures, described so you know what a session involves and what to ask before booking.',
+  },
+  'vaidya-only': {
+    label: 'Requiring a qualified vaidya',
+    blurb: 'Clinical procedures described so you understand what they are and why they need supervision. Not instructions.',
+  },
+};
+
+const description = `${entries.length} Ayurvedic procedures, grouped by who may perform them, `
+  + 'each with its classical source and the cautions that belong to it.';
+
+const jsonld = [{
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  '@id': `${abs('/practice/')}#collection`,
+  name: 'Ayurvedic practices and procedures',
+  description,
+  url: abs('/practice/'),
+  isPartOf: { '@id': `${abs('/')}#website` },
+}, {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Nighantu', item: abs('/') },
+    { '@type': 'ListItem', position: 2, name: 'Practices', item: abs('/practice/') },
+  ],
+}];
+
+const verified = entries.filter((e) => e.citationVerified).length;
+---
+<Base title={`Practices · ${SITE_NAME}`} description={description} canonical="/practice/" jsonld={jsonld} wide>
+  <Crumbs trail={[{ label: 'Practices' }]} />
+  <h1>Practices and procedures</h1>
+
+  <p class="answer">
+    {entries.length} Ayurvedic procedures, from tongue scraping to pañcakarma, each with what
+    it is, where it comes from in the classical literature, and who may perform it. Grouped by
+    that last question, because it is the one that decides whether a page is instructions or
+    an explanation.
+  </p>
+
+  <p class="lede">
+    The rest of this reference describes substances. This section describes what is done with
+    them. Every classical citation on these pages was checked against a published translation
+    where that was possible; {verified} of {entries.length} are confirmed, and the rest say so
+    on the page rather than implying a certainty they do not have.
+  </p>
+
+  {ORDER.map((level) => {
+    const group = entries.filter((e) => e.level === level);
+    if (!group.length) return null;
+    return (
+      <>
+        <h2>{GROUP[level].label} <span class="refcount">{group.length}</span></h2>
+        <p>{GROUP[level].blurb}</p>
+        <ul class="grid">
+          {group.map((e) => (
+            <li class="card">
+              <a href={rel(`/practice/${e.slug}/`)}>{e.title}</a>
+              <p>{e.answer.slice(0, 150)}{e.answer.length > 150 ? '…' : ''}</p>
+            </li>
+          ))}
+        </ul>
+      </>
+    );
+  })}
+</Base>
