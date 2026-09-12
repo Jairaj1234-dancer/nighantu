@@ -1,0 +1,71 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import taxonomy from '../../data/taxonomy.json';
+import { SITE_NAME, abs, rel } from '../../lib/site';
+import { familyGroups, FAMILY_PAGE_MIN } from '../../lib/families';
+
+export function getStaticPaths() {
+  // Three is the floor. A family page with one entry is a stub that says nothing the
+  // entry's own page does not, and thin pages are the shape THRESHOLDS already exists
+  // to keep out of this corpus.
+  return familyGroups(taxonomy as any)
+    .filter((g) => g.pages.length >= FAMILY_PAGE_MIN)
+    .map((g) => ({ params: { slug: g.slug }, props: { group: g } }));
+}
+
+const { group } = Astro.props as any;
+const canonical = `/family/${group.slug}/`;
+const description = `${group.pages.length} Ayurvedic dravyas in the botanical family `
+  + `${group.family}, with their accepted binomials and links to each monograph.`;
+
+const jsonld = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    '@id': `${abs(canonical)}#collection`,
+    name: `Ayurvedic dravyas in ${group.family}`,
+    description,
+    url: abs(canonical),
+    isPartOf: { '@id': `${abs('/')}#website` },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Nighantu', item: abs('/') },
+      { '@type': 'ListItem', position: 2, name: 'Families', item: abs('/family/') },
+      { '@type': 'ListItem', position: 3, name: group.family, item: abs(canonical) },
+    ],
+  },
+];
+---
+<Base title={`${group.family} · ${SITE_NAME}`} description={description} canonical={canonical} jsonld={jsonld} wide>
+  <Crumbs trail={[{ label: 'Families', href: '/family/' }, { label: group.family }]} />
+  <h1>{group.family}</h1>
+
+  <p class="answer">
+    {group.pages.length} entries in this reference belong to {group.family}
+    {group.orders.length === 1 && <>, in the order {group.orders[0]}</>}. Each is listed
+    with the binomial GBIF matched it to.
+  </p>
+
+  <div class="tablewrap">
+    <table>
+      <thead><tr><th>Entry</th><th>Botanical name</th></tr></thead>
+      <tbody>
+        {group.pages.map((p: any) => (
+          <tr>
+            <td><a href={rel(`/${p.kind}/${p.slug}/`)}>{p.title}</a></td>
+            <td><em>{p.botanical}</em></td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+
+  <p class="meta">
+    Family assignment from the GBIF Backbone Taxonomy, exact matches only.
+    <a href={rel('/family/')}>All families</a> · <a href={rel('/taxonomy.json')}>taxonomy.json</a>
+  </p>
+</Base>

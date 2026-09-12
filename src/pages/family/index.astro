@@ -1,0 +1,66 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import taxonomy from '../../data/taxonomy.json';
+import { SITE_NAME, abs, rel } from '../../lib/site';
+import { familyGroups, FAMILY_PAGE_MIN } from '../../lib/families';
+
+const groups = familyGroups(taxonomy as any);
+const listed = groups.filter((g) => g.pages.length >= FAMILY_PAGE_MIN);
+const small = groups.length - listed.length;
+
+const description = `Ayurvedic dravyas grouped by botanical family, resolved against the GBIF `
+  + `backbone. ${listed.length} families with three or more entries in this reference.`;
+
+const jsonld = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    '@id': `${abs('/family/')}#collection`,
+    name: 'Ayurvedic dravyas by botanical family',
+    description,
+    url: abs('/family/'),
+    isPartOf: { '@id': `${abs('/')}#website` },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Nighantu', item: abs('/') },
+      { '@type': 'ListItem', position: 2, name: 'Families', item: abs('/family/') },
+    ],
+  },
+];
+---
+<Base title={`Botanical families · ${SITE_NAME}`} description={description} canonical="/family/" jsonld={jsonld} wide>
+  <Crumbs trail={[{ label: 'Families' }]} />
+  <h1>Botanical families</h1>
+
+  <p class="answer">
+    The dravyas in this reference grouped by the botanical family GBIF assigns them,
+    for the {listed.length} families where three or more entries share one. Which
+    Ayurvedic herbs belong to the mint family, or the legumes, is a question the
+    material answers and nothing else on the web asks.
+  </p>
+
+  <p class="lede">
+    Families come from the GBIF Backbone Taxonomy rather than from our own pages, and
+    only where the botanical name matched exactly. A fuzzy match is a guess, and a guess
+    grouped into a family reads as a fact.
+    {small > 0 && <> {small} further families have one or two entries each and are left
+    off rather than made into near-empty pages.</>}
+  </p>
+
+  <ul class="grid">
+    {listed.map((g) => (
+      <li class="card">
+        <a href={rel(`/family/${g.slug}/`)}>{g.family}</a>
+        <p><strong>{g.pages.length}</strong> entries. {g.pages.slice(0, 3).map((p) => p.title).join(', ')}{g.pages.length > 3 ? ' and more' : ''}.</p>
+      </li>
+    ))}
+  </ul>
+
+  <p class="meta">
+    Built from <a href={rel('/taxonomy.json')}>taxonomy.json</a>, CC BY 4.0.
+  </p>
+</Base>

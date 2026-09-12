@@ -2,6 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import data from '../../data/compounds.json';
+import chemistry from '../../data/chemistry.json';
 import { SITE_NAME, abs, rel } from '../../lib/site';
 
 const { summary, compounds, updatedAt } = data as any;
@@ -40,6 +41,10 @@ const jsonld = [
   },
 ];
 
+// Chemistry is keyed by name; a constituent that resolved carries a real identifier a
+// reader can open, and one that did not is usually a class of compound rather than a
+// compound, which is worth saying rather than leaving blank.
+const chem = new Map<string, any>(((chemistry as any).compounds ?? []).map((c: any) => [c.name, c]));
 const shared = compounds.filter((c: any) => c.count >= 2);
 const single = compounds.length - shared.length;
 ---
@@ -78,12 +83,23 @@ const single = compounds.length - shared.length;
   <div class="tablewrap">
     <table>
       <thead>
-        <tr><th>Constituent</th><th style="text-align:right">Entries</th><th>Appears in</th><th>Most often alongside</th></tr>
+        <tr><th>Constituent</th><th>Identity</th><th style="text-align:right">Entries</th><th>Appears in</th><th>Most often alongside</th></tr>
       </thead>
       <tbody>
         {shared.map((c: any) => (
           <tr>
-            <td><strong>{c.name}</strong></td>
+            <td>
+              <strong>{c.name}</strong>
+              {c.alsoKnownAs?.length > 0 && <div class="taxnote">also {c.alsoKnownAs.join(', ')}</div>}
+            </td>
+            <td>
+              {chem.get(c.name)?.cid
+                ? <>
+                    <a href={`https://pubchem.ncbi.nlm.nih.gov/compound/${chem.get(c.name).cid}`} rel="noopener">CID {chem.get(c.name).cid}</a>
+                    <div class="taxnote">{chem.get(c.name).formula}</div>
+                  </>
+                : <span class="taxnote">a class of compounds</span>}
+            </td>
             <td style="text-align:right;font-variant-numeric:tabular-nums">{c.count}</td>
             <td>
               {c.sources.slice(0, 6).map((s: any, i: number) => (
