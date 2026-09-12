@@ -295,3 +295,8 @@ footer.site nav { display: flex; gap: 1rem; flex-wrap: wrap; margin-bottom: .75r
   color: var(--ink-soft); background: var(--accent-bg); border: 1px solid var(--rule);
   vertical-align: .05em; white-space: nowrap;
 }
+
+/* Taxonomy notes sit beside a fact rather than competing with it: the fact is the
+   binomial, the note is why a second name appears next to it. */
+.facts .taxnote { font-size: .84rem; color: var(--ink-soft); }
+.facts .taxids a { font-size: .88rem; white-space: nowrap; }

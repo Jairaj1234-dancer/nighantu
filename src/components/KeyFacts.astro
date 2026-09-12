@@ -1,4 +1,20 @@
 ---
+/**
+ * Key facts table, with taxonomy resolved against external registries.
+ *
+ * The accepted-name row exists because GBIF disagrees with 25 of the names this
+ * reference publishes, and the decision was to show both rather than rewrite either.
+ * Classical and pharmacopoeial literature uses the older names, so a reader who arrives
+ * searching "Aloe barbadensis" should find it and also learn what it is now called.
+ * Silently swapping in the current name would break the first half of that.
+ *
+ * Identifiers are only shown where the match is exact. A fuzzy or higher-rank GBIF hit
+ * is a guess, and a guess rendered as a registry link reads as a fact.
+ */
+import taxonomy from '../data/taxonomy.json';
+import { rel } from '../lib/site';
+import { familiesWithPages } from '../lib/families';
+
 interface Props {
   botanical?: string;
   family?: string;
@@ -9,14 +25,35 @@ interface Props {
 }
 const { botanical, family, sanskrit, ayurvedicCategory, whoStatus, aliases = [] } = Astro.props;
 
+/** Match the page's botanical to a resolved taxon the same way the resolver keyed it. */
+const queryOf = (b: string) => b.replace(/\s*\(.*?\)\s*/g, ' ').split(/\s+/).slice(0, 2).join(' ');
+const taxon = botanical
+  ? ((taxonomy as any).taxa ?? []).find((t: any) => t.query === queryOf(botanical) && t.status === 'ok')
+  : null;
+
+const trustworthy = taxon && taxon.matchType === 'EXACT';
+// Only link a family that actually has a page. Families with fewer than three entries
+// are deliberately not built, and linking to one is a broken link.
+const familyLinked = trustworthy && taxon.family && familiesWithPages(taxonomy as any).has(taxon.family);
+const supersededBy = trustworthy && taxon.taxonomicStatus && taxon.taxonomicStatus !== 'ACCEPTED'
+  ? taxon.acceptedName : '';
+
 const rows = [
   ['Botanical name', botanical],
-  ['Family', family],
+  ['Currently accepted name', supersededBy],
+  ['Family', family || (trustworthy ? taxon.family : '')],
+  ['Order', trustworthy ? taxon.order : ''],
   ['Sanskrit name', sanskrit],
   ['Ayurvedic category', ayurvedicCategory],
   ['Also known as', aliases.length > 1 ? [...new Set(aliases)].slice(0, 6).join(', ') : ''],
   ['Pharmacopoeia status', whoStatus],
 ].filter(([, v]) => v && String(v).trim().length > 0) as [string, string][];
+
+const ids = trustworthy ? [
+  taxon.gbifKey && { label: 'GBIF', value: taxon.gbifKey, href: `https://www.gbif.org/species/${taxon.gbifKey}` },
+  taxon.wikidata && { label: 'Wikidata', value: taxon.wikidata, href: `https://www.wikidata.org/wiki/${taxon.wikidata}` },
+  taxon.ncbiTaxid && { label: 'NCBI Taxonomy', value: taxon.ncbiTaxid, href: `https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=${taxon.ncbiTaxid}` },
+].filter(Boolean) as { label: string; value: string; href: string }[] : [];
 ---
 {rows.length > 0 && (
   <table class="facts">
@@ -25,9 +62,27 @@ const rows = [
       {rows.map(([k, v]) => (
         <tr>
           <th scope="row">{k}</th>
-          <td>{k === 'Botanical name' ? <i>{v}</i> : v}</td>
+          <td>
+            {k === 'Botanical name' || k === 'Currently accepted name' ? <i>{v}</i> : v}
+            {k === 'Currently accepted name' && (
+              <span class="taxnote"> — the name above is treated as a synonym by GBIF; both are in use</span>
+            )}
+            {k === 'Family' && familyLinked && (
+              <> · <a href={rel(`/family/${taxon.family.toLowerCase()}/`)}>other entries in this family</a></>
+            )}
+          </td>
         </tr>
       ))}
+      {ids.length > 0 && (
+        <tr>
+          <th scope="row">Taxon identifiers</th>
+          <td class="taxids">
+            {ids.map((i, n) => (
+              <>{n > 0 && ' · '}<a href={i.href} rel="noopener">{i.label}{" "}{i.value}</a></>
+            ))}
+          </td>
+        </tr>
+      )}
     </tbody>
   </table>
 )}
