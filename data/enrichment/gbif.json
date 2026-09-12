@@ -1,6 +1,6 @@
 {
  "updatedAt": "2026-09-12",
- "count": 239,
+ "count": 244,
  "entries": {
   "Abelmoschus moschatus": {
    "status": "ok",
@@ -138,6 +138,23 @@
    "acceptedKey": null,
    "checkedAt": "2026-09-12"
   },
+  "Acorus calamus": {
+   "status": "ok",
+   "gbifKey": 2873769,
+   "scientificName": "Acorus calamus L.",
+   "canonicalName": "Acorus calamus",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 99,
+   "kingdom": "Plantae",
+   "family": "Acoraceae",
+   "order": "Acorales",
+   "genus": "Acorus",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-12"
+  },
   "Adhatoda vasica": {
    "status": "ok",
    "gbifKey": 3173106,
@@ -236,6 +253,23 @@
    "family": "Fabaceae",
    "order": "Fabales",
    "genus": "Albizia",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-12"
+  },
+  "Alhagi pseudalhagi": {
+   "status": "ok",
+   "gbifKey": 11374752,
+   "scientificName": "Alhagi pseudalhagi (M.Bieb.) Desv. ex Wangerin",
+   "canonicalName": "Alhagi pseudalhagi",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 97,
+   "kingdom": "Plantae",
+   "family": "Fabaceae",
+   "order": "Fabales",
+   "genus": "Alhagi",
    "acceptedName": "",
    "acceptedKey": null,
    "checkedAt": "2026-09-12"
@@ -731,6 +765,23 @@
    "genus": "Betula",
    "acceptedName": "",
    "acceptedKey": null,
+   "checkedAt": "2026-09-12"
+  },
+  "Blepharis persica": {
+   "status": "ok",
+   "gbifKey": 5575383,
+   "scientificName": "Blepharis persica (Burm.fil.) Kuntze",
+   "canonicalName": "Blepharis persica",
+   "rank": "SPECIES",
+   "taxonomicStatus": "SYNONYM",
+   "matchType": "EXACT",
+   "confidence": 98,
+   "kingdom": "Plantae",
+   "family": "Acanthaceae",
+   "order": "Lamiales",
+   "genus": "Blepharis",
+   "acceptedName": "Blepharis ciliaris (L.) B.L.Burtt",
+   "acceptedKey": 3780159,
    "checkedAt": "2026-09-12"
   },
   "Bombax ceiba": {
@@ -1341,6 +1392,23 @@
    "family": "Euphorbiaceae",
    "order": "Malpighiales",
    "genus": "Croton",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-12"
+  },
+  "Cucumis sativus": {
+   "status": "ok",
+   "gbifKey": 2874569,
+   "scientificName": "Cucumis sativus L.",
+   "canonicalName": "Cucumis sativus",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 99,
+   "kingdom": "Plantae",
+   "family": "Cucurbitaceae",
+   "order": "Cucurbitales",
+   "genus": "Cucumis",
    "acceptedName": "",
    "acceptedKey": null,
    "checkedAt": "2026-09-12"
@@ -4008,6 +4076,23 @@
    "family": "Lythraceae",
    "order": "Myrtales",
    "genus": "Woodfordia",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-12"
+  },
+  "Zanthoxylum armatum": {
+   "status": "ok",
+   "gbifKey": 7716390,
+   "scientificName": "Zanthoxylum armatum DC.",
+   "canonicalName": "Zanthoxylum armatum",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 97,
+   "kingdom": "Plantae",
+   "family": "Rutaceae",
+   "order": "Sapindales",
+   "genus": "Zanthoxylum",
    "acceptedName": "",
    "acceptedKey": null,
    "checkedAt": "2026-09-12"

@@ -1,6 +1,6 @@
 {
  "updatedAt": "2026-09-12",
- "count": 236,
+ "count": 241,
  "entries": {
   "Abelmoschus moschatus": {
    "status": "ok",
@@ -58,6 +58,13 @@
    "description": "species of plant",
    "checkedAt": "2026-09-12"
   },
+  "Acorus calamus": {
+   "status": "ok",
+   "qid": "Q158008",
+   "label": "Acorus calamus",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
   "Adhatoda vasica": {
    "status": "ok",
    "qid": "Q926757",
@@ -98,6 +105,13 @@
    "qid": "Q2717846",
    "label": "Albizia lebbeck",
    "description": "species of plant. Siris",
+   "checkedAt": "2026-09-12"
+  },
+  "Alhagi pseudalhagi": {
+   "status": "ok",
+   "qid": "Q15523121",
+   "label": "Alhagi pseudalhagi",
+   "description": "species of plant",
    "checkedAt": "2026-09-12"
   },
   "Allium cepa": {
@@ -297,6 +311,13 @@
    "status": "ok",
    "qid": "Q930814",
    "label": "Betula utilis",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Blepharis persica": {
+   "status": "ok",
+   "qid": "Q50839956",
+   "label": "Blepharis persica",
    "description": "species of plant",
    "checkedAt": "2026-09-12"
   },
@@ -547,6 +568,13 @@
    "qid": "Q2089847",
    "label": "Croton tiglium",
    "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Cucumis sativus": {
+   "status": "ok",
+   "qid": "Q23425",
+   "label": "Cucumis sativus",
+   "description": "species of plant in the Cucurbitaceae family",
    "checkedAt": "2026-09-12"
   },
   "Cuminum cyminum": {
@@ -1608,6 +1636,13 @@
    "status": "ok",
    "qid": "Q2143225",
    "label": "Woodfordia fruticosa",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Zanthoxylum armatum": {
+   "status": "ok",
+   "qid": "Q6170892",
+   "label": "Zanthoxylum armatum",
    "description": "species of plant",
    "checkedAt": "2026-09-12"
   },

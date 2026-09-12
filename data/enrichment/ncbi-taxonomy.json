@@ -1,6 +1,6 @@
 {
  "updatedAt": "2026-09-12",
- "count": 236,
+ "count": 241,
  "entries": {
   "Abelmoschus moschatus": {
    "status": "ok",
@@ -42,6 +42,11 @@
    "taxid": "50866",
    "checkedAt": "2026-09-12"
   },
+  "Acorus calamus": {
+   "status": "ok",
+   "taxid": "4465",
+   "checkedAt": "2026-09-12"
+  },
   "Adhatoda vasica": {
    "status": "ok",
    "taxid": "141317",
@@ -70,6 +75,11 @@
   "Albizia lebbeck": {
    "status": "ok",
    "taxid": "371650",
+   "checkedAt": "2026-09-12"
+  },
+  "Alhagi pseudalhagi": {
+   "status": "ok",
+   "taxid": "47037",
    "checkedAt": "2026-09-12"
   },
   "Allium cepa": {
@@ -215,6 +225,11 @@
   "Betula utilis": {
    "status": "ok",
    "taxid": "228163",
+   "checkedAt": "2026-09-12"
+  },
+  "Blepharis persica": {
+   "status": "not-found",
+   "hits": 0,
    "checkedAt": "2026-09-12"
   },
   "Bombax ceiba": {
@@ -395,6 +410,11 @@
   "Croton tiglium": {
    "status": "ok",
    "taxid": "497687",
+   "checkedAt": "2026-09-12"
+  },
+  "Cucumis sativus": {
+   "status": "ok",
+   "taxid": "3659",
    "checkedAt": "2026-09-12"
   },
   "Cuminum cyminum": {
@@ -1175,6 +1195,11 @@
   "Woodfordia fruticosa": {
    "status": "ok",
    "taxid": "141189",
+   "checkedAt": "2026-09-12"
+  },
+  "Zanthoxylum armatum": {
+   "status": "ok",
+   "taxid": "67938",
    "checkedAt": "2026-09-12"
   },
   "Zingiber officinale": {

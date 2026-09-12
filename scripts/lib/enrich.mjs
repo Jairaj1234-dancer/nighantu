@@ -134,7 +134,7 @@ export async function getJson(url, opts = {}) {
  * corpus with false negatives that never correct themselves, because a cached miss is
  * never retried.
  */
-export async function getJsonWithBackoff(url, { tries = 5, baseMs = 2000, ...opts } = {}) {
+export async function getJsonWithBackoff(url, { tries = 6, baseMs = 1000, maxMs = 15000, ...opts } = {}) {
   let wait = baseMs;
   for (let attempt = 1; attempt <= tries; attempt += 1) {
     const res = await get(url, { retries: 0, timeoutMs: 25000, ...opts });
@@ -153,7 +153,9 @@ export async function getJsonWithBackoff(url, { tries = 5, baseMs = 2000, ...opt
 
     if (attempt === tries) return { ok: false, status: res.status, throttled: true, error: 'still throttled after backoff' };
     await sleep(wait);
-    wait *= 2;
+    // Capped, because doubling without a ceiling turns a handful of throttled lookups
+    // into minutes of dead sleep. PubChem recovers in tens of seconds, not minutes.
+    wait = Math.min(wait * 2, maxMs);
   }
   return { ok: false, error: 'unreachable' };
 }

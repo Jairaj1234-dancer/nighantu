@@ -1,7 +1,7 @@
 {
- "note": "Identified then independently verified against authoritative botanical sources. Contested identities were rejected rather than resolved. See scripts/lib/binomials.mjs.",
- "updatedAt": "2026-09-10",
- "count": 108,
+ "note": "Identified then independently verified against authoritative botanical sources. Contested identities were rejected rather than resolved. See scripts/lib/binomials.mjs. A later pass added 8 more, each confirmed to exist in the GBIF backbone at EXACT match before it could be proposed, and each re-checked by an independent verifier who re-ran GBIF rather than trusting the figures it was handed.",
+ "updatedAt": "2026-09-12",
+ "count": 116,
  "binomials": {
   "ajwain-herb": {
    "binomial": "Coleus amboinicus",
@@ -434,6 +434,94 @@
   "zingiber": {
    "binomial": "Zingiber officinale",
    "note": "Confirmed after specifically trying to break it on the bare-genus title and on the zerumbone signal. Because 'Zingiber' is a truncated Latin genus rather than a Sanskrit drug name, I tested whether the page could be genus-level or another Zingiber species. It cannot: markers are 6-/8-/10-gingerol, 6"
+  },
+  "karela": {
+   "binomial": "Momordica charantia",
+   "note": "Identified from Ayurvedic Pharmacopoeia of India, Part I, Vol. II, monograph 39, 'KARAVALLAKA (Fresh Fruit) - Momordica charantia Linn.' (p. 83); verified by full-text search of the official API PDF, not from a vernacular lookup. Karela is the Hindi name of the Sanskrit drug Karavellaka/Karavallaka, treated as a si",
+   "gbif": {
+    "key": "2874581",
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "family": "Cucurbitaceae"
+   },
+   "verifierReason": "Basis verified, not taken on trust. I downloaded the official API Part I Vol. II PDF and extracted monograph 39 verbatim: 'KARAVALLAKA (Fresh Fruit) — Karavallaka consists of fresh fruit of Momordica charantia Linn. (Fam. Cucurbitaceae)'. Sanskrit synonyms printed there are Karavella, Kathilla, Varivalli, Karavalli, with Hindi 'Karela' in the vernacular list, so the slug maps to this monograph dir"
+  },
+  "methi": {
+   "binomial": "Trigonella foenum-graecum",
+   "note": "Identified from Ayurvedic Pharmacopoeia of India, Part I, Vol. II, monograph 48: 'METHI (Seed). Methi consists of seeds of Trigonella foenum-graecum Linn. (Fam. Fabaceae)' (p. 107); verified by full-text search of the official API PDF. Corroborated by the WHO Monographs on Selected Medicinal Plants Vol. 3 (2007), '",
+   "gbif": {
+    "key": "5360475",
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "family": "Fabaceae"
+   },
+   "verifierReason": "Basis verified verbatim from the source PDF. API Part I Vol. II, monograph 48 reads 'METHI (Seed) — Methi consists of seeds of Trigonella foenum-graecum Linn. (Fam. Fabaceae); an aromatic, 30-60 cm tall, annual herb, cultivated throughout the country', with Sanskrit synonym Methini and Hindi/Gujarati 'Methi'. I had specifically doubted the monograph title, expecting 'METHIKA', and the extraction s"
+  },
+  "tamalpatra": {
+   "binomial": "Cinnamomum tamala",
+   "note": "Identified from Ayurvedic Pharmacopoeia of India, Part I, Vol. I, monograph 72 'Tvakpatra (Leaf)': 'Tvakpatra consists of dried mature leaves of Cinnamomum tamala (Buch. Ham.) Nees & Eberm. (Fam. Lauraceae)'. The name Tamalpatra is not incidental there: the monograph's own vernacular list gives Marathi 'Tamalpatra'",
+   "gbif": {
+    "key": "9128079",
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "family": "Lauraceae"
+   },
+   "verifierReason": "ACCEPT. GBIF re-run by me: Cinnamomum tamala (Buch.-Ham.) T.Nees & Eberm., matchType EXACT, status ACCEPTED, usageKey 9128079, family Lauraceae, confidence 99 — matches the submitted record exactly, and the primary binomial is an accepted name rather than a synonym. The basis is a named pharmacopoeial monograph (API Part I, Vol. I, Tvakpatra, dried mature leaves of Cinnamomum tamala) whose own ver"
+  },
+  "trapusha": {
+   "binomial": "Cucumis sativus",
+   "note": "Identified from Ayurvedic Pharmacopoeia of India, Part I, Vol. V, monograph 81 'Trapusa (Seed)': 'Trapusam consists of dried seed of Cucumis sativus Linn. (Fam. Cucurbitaceae)', vernaculars Kheera (Hindi), Vellarikkaay (Tamil), cucumber (English). I read this text directly from the API Vol-5 PDF at ayurveda.hu, pag",
+   "gbif": {
+    "key": "2874569",
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "family": "Cucurbitaceae"
+   },
+   "verifierReason": "Verified against the primary source myself, not the handed-over summary. I pulled API Part I Vol. V from ayurveda.hu (following the 301 to /archiv/api/) and extracted monograph 81, printed p. 208: 'Trapusam consists of dried seed of Cucumis sativus Linn. (Fam. Cucurbitaceae)', English 'Cucumber', Hindi 'Kheeraa'. Re-ran GBIF: Cucumis sativus -> usageKey 2874569, status ACCEPTED, matchType EXACT, c"
+  },
+  "tumburu": {
+   "binomial": "Zanthoxylum armatum",
+   "note": "Identified from Ayurvedic Pharmacopoeia of India, Part I, Vol. IV, monograph 61 'Tumburu (Fruit)': 'Tumburu consists of dried fruit of Zanthoxylum armatum DC. Syn. Z. alatum Roxb. (Fam. Rutaceae)', Sanskrit synonyms Tejovati, Tejovali, Tejohva, Hindi Tejbal / Nepali Dhaniya, Telugu Tumburu. Read directly from the A",
+   "gbif": {
+    "key": "7716390",
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "family": "Rutaceae"
+   },
+   "verifierReason": "Verified from the API PDFs directly. API Part I Vol. IV, monograph 61, printed p. 148: 'Tumburu consists of dried fruit of Zanthoxylum armatum DC. Syn. Z. alatum Roxb. (Fam. Rutaceae)', Sanskrit Tejovati/Tejovali/Tejohva, Hindi Tejbal / Nepali Dhaniya, Telugu Tumburu. Cross-confirmed by API Part I Vol. II, monograph 71 'Tejovati (Stem Bark)', same species, Kannada names Tumbura and Tumburudra, so "
+  },
+  "utingana": {
+   "binomial": "Blepharis persica",
+   "note": "Identified from Ayurvedic Pharmacopoeia of India, Part I, Vol. IV, monograph 62, 'Utingana (Sd.)': 'Utingana consists of dried mature seeds of Blepharis persica (Burm. f.) O. Kuntze. Syn. B. edulis Pers. (Fam. Acanthaceae), a shrub, occurring in Punjab.' Vernacular names in the same monograph (Hindi Utangan, Gujara",
+   "gbif": {
+    "key": "5575383",
+    "matchType": "EXACT",
+    "status": "SYNONYM",
+    "family": "Acanthaceae"
+   },
+   "verifierReason": "Survives refutation. GBIF re-run by me: 'Blepharis persica' -> matchType EXACT, confidence 98, status SYNONYM, usageKey 5575383, family Acanthaceae, acceptedUsageKey 3780159; /species/3780159 confirms 'Blepharis ciliaris (L.) B.L.Burtt', ACCEPTED, Acanthaceae. Every figure in the submission reproduces. Basis independently corroborated: API Part I, Vol. IV carries a monograph 'Utingana (Sd.)' at p."
+  },
+  "vacha": {
+   "binomial": "Acorus calamus",
+   "note": "Identified from Ayurvedic Pharmacopoeia of India, Part I, Vol. II, monograph 74, 'Vacha (Rz.)': 'Vaca consists of dried rhizome of Acarus calamus Linn. (Fam. Araceae); a semiaquatic herb, wild or cultivated throughout the country ascending upto 1800 m in the Himalayas' - 'Acarus' is a printer's error for Acorus in",
+   "gbif": {
+    "key": "2873769",
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "family": "Acoraceae"
+   },
+   "verifierReason": "Survives refutation. GBIF re-run by me: 'Acorus calamus' -> matchType EXACT, confidence 99, status ACCEPTED, usageKey 2873769, family Acoraceae. Basis is a real pharmacopoeial monograph (API Part I, Vol. II, 'Vaca', dried rhizome of Acorus calamus Linn.), and the identification is uniform across the nighantus and the dravyaguna literature -- Ugragandha/Shadgrantha, sweet flag, Hindi Bach. The two "
+  },
+  "yavasa": {
+   "binomial": "Alhagi pseudalhagi",
+   "note": "Identified from Ayurvedic Pharmacopoeia of India Part I Vol. II, monograph 78, 'Yavasaka (Whole Plant)': 'Yavasaka consists of dried whole plant of Alhagi pseudalhagi (Bieb.) Desv. (Fam. Fabaceae)', listing the Sanskrit synonyms Yavasa, Yasa, Yavasaka, Hindi Javasa, Gujarati Javaso, Urdu Turanjabeen (camel thorn /",
+   "gbif": {
+    "key": "11374752",
+    "matchType": "EXACT",
+    "status": "ACCEPTED",
+    "family": "Fabaceae"
+   },
+   "verifierReason": "Verified against the primary source, not the summary. Extracted the API Part I Vol. II text myself: contents line 78 reads 'YAVASAKA (Whole Plant) Alhagi pseudalhagi (Bieb.) Desv 177' and the monograph body reads verbatim 'Yavasaka consists of dried whole plant of Alhagi pseudalhagi (Bieb). Desv. (Fam. Fabaceae)', with Sanskrit synonyms Yavasa, Yasa, Yavasaka; Hindi Javasa; Gujarati Javaso; Urdu T"
   }
  }
 }
