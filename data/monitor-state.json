@@ -415,7 +415,7 @@
       "https://jairaj1234-dancer.github.io/nighantu/glossary/concepts-m-y/": "851f0d2025bf82a0",
       "https://jairaj1234-dancer.github.io/nighantu/glossary/pharmacology/": "87029b4f28d71540",
       "https://jairaj1234-dancer.github.io/nighantu/glossary/plant-families/": "5799c2c65ddd97ae",
-      "https://jairaj1234-dancer.github.io/nighantu/herb/": "69b2afe9a7593620",
+      "https://jairaj1234-dancer.github.io/nighantu/herb/": "09dd741da55a0629",
       "https://jairaj1234-dancer.github.io/nighantu/herb/abhraka-bhasma/": "07dd773706b0c916",
       "https://jairaj1234-dancer.github.io/nighantu/herb/adhaki/": "c076f81bfc9aba3b",
       "https://jairaj1234-dancer.github.io/nighantu/herb/agastya/": "94673ec06d7bdb06",
@@ -628,7 +628,7 @@
       "https://jairaj1234-dancer.github.io/nighantu/herb/kapikachhu/": "84811b59826f62a5",
       "https://jairaj1234-dancer.github.io/nighantu/herb/kapittha/": "c9eb02e28f9b8b25",
       "https://jairaj1234-dancer.github.io/nighantu/herb/karanja/": "dae7ce130fd69e4c",
-      "https://jairaj1234-dancer.github.io/nighantu/herb/karela/": "73eb4f98e89c9171",
+      "https://jairaj1234-dancer.github.io/nighantu/herb/karela/": "5a9a6982c95b4395",
       "https://jairaj1234-dancer.github.io/nighantu/herb/karira/": "0c48411dc258efc9",
       "https://jairaj1234-dancer.github.io/nighantu/herb/karkatashringi/": "40036f0ec111f1f9",
       "https://jairaj1234-dancer.github.io/nighantu/herb/karmaranga/": "6d52547073635c1d",
@@ -882,7 +882,7 @@
       "https://jairaj1234-dancer.github.io/nighantu/herb/ushirasva/": "0933cf99dd9e80ed",
       "https://jairaj1234-dancer.github.io/nighantu/herb/utingana/": "61863daa60ee9174",
       "https://jairaj1234-dancer.github.io/nighantu/herb/utpala/": "81d1e690000b459e",
-      "https://jairaj1234-dancer.github.io/nighantu/herb/vacha/": "933d7a3d98df6cf0",
+      "https://jairaj1234-dancer.github.io/nighantu/herb/vacha/": "5644d1e22d49e507",
       "https://jairaj1234-dancer.github.io/nighantu/herb/vaikranta-bhasma/": "b9286f102ab8d89a",
       "https://jairaj1234-dancer.github.io/nighantu/herb/vajra-bhasma/": "69dce1bacf60d15f",
       "https://jairaj1234-dancer.github.io/nighantu/herb/vamsha/": "79d6dbaf4cb0662e",
@@ -1005,8 +1005,8 @@
       "https://jairaj1234-dancer.github.io/nighantu/verification/safety-pass4/": "e2d0a2f8d0622612",
       "https://jairaj1234-dancer.github.io/nighantu/verification/safety-repair-02/": "31af4ebd12fe14e8"
     },
-    "lastSubmittedAt": "2026-09-12T05:51:33.492Z",
-    "lastSubmittedCount": 5
+    "lastSubmittedAt": "2026-09-12T06:13:10.973Z",
+    "lastSubmittedCount": 3
   },
   "products": {
     "broken": 0,
@@ -1091,6 +1091,6 @@
     "seen": 34,
     "surfaced": 1
   },
-  "updatedAt": "2026-09-12T05:51:33.492Z",
+  "updatedAt": "2026-09-12T06:13:10.973Z",
   "version": 1
 }
