@@ -42,6 +42,16 @@ jobs:
       - name: Re-query PubMed
         run: node scripts/citations.mjs
 
+      # Retraction is not a property a paper has when you cite it; it is one it can
+      # acquire later, and nothing about our copy of the citation changes when it does.
+      # So this has to run on the schedule, not once. 14 retracted papers were being
+      # cited as evidence the first time anyone asked, across 2,906.
+      - name: Check every cited paper for retraction
+        run: node scripts/check-retractions.mjs
+
+      - name: Remove any newly retracted paper
+        run: node scripts/drop-retracted.mjs
+
       - name: Rebuild the research index
         run: node scripts/research-index.mjs
 
@@ -61,7 +71,7 @@ jobs:
         run: |
           git config user.name  "nighantu-monitor[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add src/data/citations.json src/data/research.json src/data/page-dates.json public/research.json public/research.csv
+          git add src/data/citations.json src/data/research.json src/data/page-dates.json data/retractions.json
           git commit -m "Citation refresh $(date -u +%Y-%m)" || exit 0
           git pull --rebase --autostash origin main || true
           git push origin HEAD:main

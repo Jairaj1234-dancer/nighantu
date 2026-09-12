@@ -1,19 +1,19 @@
 {
  "updatedAt": "2026-09-10T09:57:31.071Z",
  "summary": {
-  "papers": 2906,
-  "withDoi": 2771,
-  "subjectsCovered": 395,
+  "papers": 2892,
+  "withDoi": 2757,
+  "subjectsCovered": 394,
   "citedByMultiple": 525,
   "byTier": {
    "A": 149,
    "B": 90,
-   "C": 1069,
-   "D": 1598
+   "C": 1066,
+   "D": 1587
   },
   "byDecade": {
-   "2020s": 1752,
-   "2010s": 939,
+   "2020s": 1742,
+   "2010s": 935,
    "2000s": 163,
    "1990s": 25,
    "1980s": 15,
@@ -29,7 +29,7 @@
    },
    {
     "name": "Molecules (Basel, Switzerland)",
-    "count": 98
+    "count": 97
    },
    {
     "name": "Phytotherapy research : PTR",
@@ -68,16 +68,16 @@
     "count": 37
    },
    {
-    "name": "Evidence-based complementary and alternative medicine : eCAM",
-    "count": 35
-   },
-   {
     "name": "Nutrients",
     "count": 34
    },
    {
     "name": "Heliyon",
     "count": 34
+   },
+   {
+    "name": "Evidence-based complementary and alternative medicine : eCAM",
+    "count": 32
    },
    {
     "name": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
@@ -16506,39 +16506,6 @@
    ]
   },
   {
-   "pmid": "35819514",
-   "doi": "10.1007/s00253-022-12040-8",
-   "title": "Biotechnological interventions and indole alkaloid production in Rauvolfia serpentina",
-   "journal": "Applied microbiology and biotechnology",
-   "year": 2022,
-   "authors": [
-    "Dey A",
-    "Roy D",
-    "Mohture VM",
-    "Ghorai M",
-    "Rahman MH",
-    "Anand U",
-    "Dewanjee S",
-    "Radha",
-    "Kumar M",
-    "Prasanth DA",
-    "Jha NK",
-    "Jha SK",
-    "Shekhawat MS",
-    "Pandey DK"
-   ],
-   "tier": "C",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/35819514/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "sarpagandha",
-     "title": "Sarpagandha",
-     "binomial": "rauvolfia serpentina"
-    }
-   ]
-  },
-  {
    "pmid": "35723937",
    "doi": "10.1093/jpp/rgac040",
    "title": "Botany, traditional uses, phytochemistry, pharmacological and toxicological effects of Croton tiglium Linn.: a comprehensive review",
@@ -19639,28 +19606,6 @@
      "slug": "devadaru",
      "title": "Devadaru",
      "binomial": "cedrus deodara"
-    }
-   ]
-  },
-  {
-   "pmid": "34457017",
-   "doi": "10.1155/2021/1808081",
-   "title": "Chemical Composition, Pharmacological, and Toxicological Effects of Betel Nut",
-   "journal": "Evidence-based complementary and alternative medicine : eCAM",
-   "year": 2021,
-   "authors": [
-    "Chen X",
-    "He Y",
-    "Deng Y"
-   ],
-   "tier": "C",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/34457017/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "puga",
-     "title": "Puga",
-     "binomial": "areca catechu"
     }
    ]
   },
@@ -25228,30 +25173,6 @@
      "slug": "katphala",
      "title": "Katphala",
      "binomial": "myrica esculenta"
-    }
-   ]
-  },
-  {
-   "pmid": "31431119",
-   "doi": "10.1080/21655979.2019.1652491",
-   "title": "New insights and rethinking of cinnabar for chemical and its pharmacological dynamics",
-   "journal": "Bioengineered",
-   "year": 2019,
-   "authors": [
-    "Jain A",
-    "Sarsaiya S",
-    "Wu Q",
-    "Shi J",
-    "Lu Y"
-   ],
-   "tier": "C",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/31431119/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "hinguleshwar-ras",
-     "title": "Hinguleshwar Ras",
-     "binomial": ""
     }
    ]
   },
@@ -36059,30 +35980,6 @@
    ]
   },
   {
-   "pmid": "41963067",
-   "doi": "10.1016/j.clbc.2026.03.012",
-   "title": "Retraction notice to \"Immunomodulatory Role of Diospyros peregrina Fruit Preparation in Breast Cancer by Utilizing Macrophage Mediated Antigen Presentation and T Helper Cell (Th) Differentiation\" [Clinical Breast Cancer 23 (2023) e95-e102]",
-   "journal": "Clinical breast cancer",
-   "year": 2026,
-   "authors": [
-    "Surendran AM",
-    "Rai A",
-    "Rakshit S",
-    "George M",
-    "Sarkar K"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/41963067/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "tinduka",
-     "title": "Tinduka",
-     "binomial": "diospyros peregrina"
-    }
-   ]
-  },
-  {
    "pmid": "41135616",
    "doi": "10.1016/j.jep.2025.120774",
    "title": "Sappanone A alleviates high glucose-induced retinal oxidative injury and mitochondrial dysfunction via SIRT7/NRF2 pathway",
@@ -43506,33 +43403,6 @@
    ]
   },
   {
-   "pmid": "39170771",
-   "doi": "10.1007/s13205-024-04047-x",
-   "title": "Retraction Note: Ameliorative potential of Operculina turpethum against streptozotocin-induced diabetes in rats: biochemical and histopathological studies",
-   "journal": "3 Biotech",
-   "year": 2024,
-   "authors": [
-    "Choudhary N",
-    "Khatik GL",
-    "Sharma R",
-    "Khurana N",
-    "Lobo R",
-    "Bhatt S",
-    "Tewari D",
-    "Suttee A"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/39170771/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "trivrit",
-     "title": "Trivrit",
-     "binomial": "operculina turpethum"
-    }
-   ]
-  },
-  {
    "pmid": "37673199",
    "doi": "10.1016/j.jep.2023.117111",
    "title": "Safety and antidiabetic activity of Lagenaria siceraria (Molina) Standl. juice in streptozotocin -induced diabetic rats",
@@ -46930,30 +46800,6 @@
    ]
   },
   {
-   "pmid": "36641322",
-   "doi": "10.1016/j.clbc.2022.12.020",
-   "title": "Immunomodulatory Role of Diospyros peregrina Fruit Preparation in Breast Cancer by Utilizing Macrophage Mediated Antigen Presentation and T Helper Cell (Th) Differentiation",
-   "journal": "Clinical breast cancer",
-   "year": 2023,
-   "authors": [
-    "Mahalakshmi Surendran A",
-    "Rai A",
-    "Rakshit S",
-    "George M",
-    "Sarkar K"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/36641322/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "tinduka",
-     "title": "Tinduka",
-     "binomial": "diospyros peregrina"
-    }
-   ]
-  },
-  {
    "pmid": "37230917",
    "doi": "10.1016/j.jaim.2023.100710",
    "title": "Impact of Shodhana an Ayurvedic purification process on cytotoxicity and mutagenicity of Croton tiglium Linn",
@@ -47022,34 +46868,6 @@
      "slug": "alabu",
      "title": "Alabu",
      "binomial": "lagenaria siceraria"
-    }
-   ]
-  },
-  {
-   "pmid": "37245338",
-   "doi": "10.1016/j.biopha.2023.114872",
-   "title": "In-depth in-vitro and in-vivo anti-diabetic evaluations of Fagonia cretica mediated biosynthesized selenium nanoparticles",
-   "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
-   "year": 2023,
-   "authors": [
-    "Khan HA",
-    "Ghufran M",
-    "Shams S",
-    "Jamal A",
-    "Ayaz M",
-    "Ullah M",
-    "Khan A",
-    "Khan MI",
-    "Awan ZA"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/37245338/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "dhamasa",
-     "title": "Dhamasa",
-     "binomial": "fagonia cretica"
     }
    ]
   },
@@ -53651,32 +53469,6 @@
    ]
   },
   {
-   "pmid": "35613105",
-   "doi": "10.1371/journal.pone.0263289",
-   "title": "Role of biochar and compost in cadmium immobilization and on the growth of Spinacia oleracea",
-   "journal": "PloS one",
-   "year": 2022,
-   "authors": [
-    "Tanveer K",
-    "Ilyas N",
-    "Akhtar N",
-    "Yasmin H",
-    "Hefft DI",
-    "El-Sheikh MA",
-    "Ahmad P"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/35613105/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "palankya",
-     "title": "Palankya",
-     "binomial": "spinacia oleracea"
-    }
-   ]
-  },
-  {
    "pmid": "35851958",
    "doi": "10.1111/nph.18387",
    "title": "RootPainter: deep learning segmentation of biological images with corrective annotation",
@@ -54928,33 +54720,6 @@
      "slug": "madhuka",
      "title": "Madhuka",
      "binomial": "madhuca longifolia"
-    }
-   ]
-  },
-  {
-   "pmid": "34194901",
-   "doi": "10.1007/s13205-021-02811-x",
-   "title": "Ameliorative potential of Operculina turpethum against streptozotocin-induced diabetes in rats: biochemical and histopathological studies",
-   "journal": "3 Biotech",
-   "year": 2021,
-   "authors": [
-    "Choudhary N",
-    "Khatik GL",
-    "Sharma R",
-    "Khurana N",
-    "Lobo R",
-    "Bhatt S",
-    "Tewari D",
-    "Suttee A"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/34194901/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "trivrit",
-     "title": "Trivrit",
-     "binomial": "operculina turpethum"
     }
    ]
   },
@@ -57785,57 +57550,6 @@
      "slug": "rakta-chandana",
      "title": "Rakta Chandana",
      "binomial": "pterocarpus santalinus"
-    }
-   ]
-  },
-  {
-   "pmid": "33419120",
-   "doi": "10.3390/molecules26020258",
-   "title": "RETRACTED: Myricitrin, a Glycosyloxyflavone in Myrica esculenta Bark Ameliorates Diabetic Nephropathy via Improving Glycemic Status, Reducing Oxidative Stress, and Suppressing Inflammation",
-   "journal": "Molecules (Basel, Switzerland)",
-   "year": 2021,
-   "authors": [
-    "Dua TK",
-    "Joardar S",
-    "Chakraborty P",
-    "Bhowmick S",
-    "Saha A",
-    "De Feo V",
-    "Dewanjee S"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/33419120/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "katphala",
-     "title": "Katphala",
-     "binomial": "myrica esculenta"
-    }
-   ]
-  },
-  {
-   "pmid": "34414528",
-   "doi": "10.1007/s12550-021-00440-0",
-   "title": "Retraction Note to: Deoxynivalenol-induced alterations in the redox status of HepG2 cells: identification of lipid hydroperoxides, the role of Nrf2-Keap1 signaling, and protective effects of zinc",
-   "journal": "Mycotoxin research",
-   "year": 2021,
-   "authors": [
-    "Darwish WS",
-    "Chen Z",
-    "Li Y",
-    "Tan H",
-    "Chiba H",
-    "Hui SP"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/34414528/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "nikochaka",
-     "title": "Nikochaka",
-     "binomial": ""
     }
    ]
   },
@@ -61184,30 +60898,6 @@
      "slug": "durva",
      "title": "Durva",
      "binomial": "cynodon dactylon"
-    }
-   ]
-  },
-  {
-   "pmid": "31832027",
-   "doi": "10.1177/1559325819891262",
-   "title": "Dose-Dependent, Antidepressant, and Anxiolytic Effects of a Traditional Medicinal Plant for the Management of Behavioral Dysfunctions in Animal Models",
-   "journal": "Dose-response : a publication of International Hormesis Society",
-   "year": 2019,
-   "authors": [
-    "Asif HM",
-    "Hayee A",
-    "Aslam MR",
-    "Ahmad K",
-    "Hashmi AS"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/31832027/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "gojihva",
-     "title": "Gojihva",
-     "binomial": "onosma bracteatum"
     }
    ]
   },
@@ -64714,37 +64404,6 @@
    ]
   },
   {
-   "pmid": "29234381",
-   "doi": "10.1155/2017/2979760",
-   "title": "Antihyperglycemic, Antidiabetic, and Antioxidant Effects of Garcinia pedunculata in Rats",
-   "journal": "Evidence-based complementary and alternative medicine : eCAM",
-   "year": 2017,
-   "authors": [
-    "Ali MY",
-    "Paul S",
-    "Tanvir EM",
-    "Hossen MS",
-    "Rumpa NN",
-    "Saha M",
-    "Bhoumik NC",
-    "Aminul Islam M",
-    "Hossain MS",
-    "Alam N",
-    "Gan SH",
-    "Khalil MI"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/29234381/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "amlavetasa",
-     "title": "Amlavetasa",
-     "binomial": "garcinia pedunculata"
-    }
-   ]
-  },
-  {
    "pmid": "28595608",
    "doi": "10.1186/s12906-017-1815-z",
    "title": "Antimicrobial activity, toxicity and anti-inflammatory potential of methanolic extracts of four ethnomedicinal plant species from Punjab, Pakistan",
@@ -64933,34 +64592,6 @@
      "slug": "karpasa",
      "title": "Karpasa",
      "binomial": "gossypium herbaceum"
-    }
-   ]
-  },
-  {
-   "pmid": "28243309",
-   "doi": "10.1155/2017/4686104",
-   "title": "Assessment of Toxicity and Beneficiary Effects of Garcinia pedunculata on the Hematological, Biochemical, and Histological Homeostasis in Rats",
-   "journal": "Evidence-based complementary and alternative medicine : eCAM",
-   "year": 2017,
-   "authors": [
-    "Paul S",
-    "Ali MY",
-    "Rumpa NE",
-    "Tanvir EM",
-    "Hossen MS",
-    "Saha M",
-    "Bhoumik NC",
-    "Gan SH",
-    "Khalil MI"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/28243309/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "amlavetasa",
-     "title": "Amlavetasa",
-     "binomial": "garcinia pedunculata"
     }
    ]
   },

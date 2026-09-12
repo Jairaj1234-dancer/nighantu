@@ -10,6 +10,7 @@ import { walk, parseFrontmatter } from './lib.mjs';
 import { validateRecord, HEAVY_METAL_REQUIRED } from './lib/safety.mjs';
 import { checkSources } from './lib/sources.mjs';
 import { validateIdentifiers } from './lib/identifiers.mjs';
+import { loadRetracted } from './lib/retractions.mjs';
 
 const failures = [];
 const fail = (check, detail) => failures.push({ check, detail });
@@ -288,6 +289,41 @@ if (fs.existsSync(DIST)) {
       + `${now.withNcbiTaxid} ncbi, ${now.compoundsResolved} compounds `
       + `(baseline ${baseline.taxaResolved ?? 0}/${baseline.withWikidata ?? 0}/`
       + `${baseline.withNcbiTaxid ?? 0}/${baseline.compoundsResolved ?? 0})`);
+  }
+}
+
+// 16. No published citation may be a retracted paper.
+//
+// A retracted citation is worse than a fabricated one. The fabricated one fails the
+// moment anyone follows it; the retracted one resolves, looks completely normal, and
+// lends a real journal's authority to a finding that has been withdrawn. 14 were found
+// across 2,906 cited papers the first time anyone asked, and two pages were citing both
+// a retracted paper and its own retraction notice.
+{
+  const retracted = loadRetracted();
+  if (retracted.size) {
+    const cits = (() => {
+      const f = path.join('src', 'data', 'citations.json');
+      if (!fs.existsSync(f)) return null;
+      try { return JSON.parse(fs.readFileSync(f, 'utf8')); }
+      catch (e) { fail('citations-unreadable', e.message); return null; }
+    })();
+    if (cits) {
+      let bad = 0;
+      for (const [key, page] of Object.entries(cits.pages ?? {})) {
+        for (const c of page.citations ?? []) {
+          if (retracted.has(String(c.pmid))) {
+            bad += 1;
+            fail('retracted-citation', `${key} cites retracted PMID ${c.pmid}`);
+          }
+        }
+      }
+      console.log(`retractions: ${retracted.size} on the blocklist, ${bad} still cited`);
+    }
+  } else {
+    // Silence here would mean the filter is off, which is indistinguishable from
+    // there being nothing to filter. Say which it is.
+    console.log('retractions: blocklist empty; run scripts/check-retractions.mjs');
   }
 }
 
