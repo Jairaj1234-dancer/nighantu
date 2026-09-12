@@ -27,13 +27,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bitter_Gourd_Herb/meta-analys
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Swarasa (leaf/vine juice), Churna (dried leaf/vine powder), Kashayam (decoction), Capsule, Lepa (paste for external use)

@@ -36,13 +36,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Nimba-Beeja/meta-analysis.md"
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Seed oil (cold-pressed), Capsule (oil-filled soft gel), Tablet (de-oiled seed cake extract), Emulsifiable concentrate, Granule (for soil application), Cream/ointment (topical)

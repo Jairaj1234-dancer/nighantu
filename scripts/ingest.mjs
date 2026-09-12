@@ -10,7 +10,7 @@ import {
   walk, isDenied, identityOf, slugify, parseFrontmatter, splitSections,
   parseFacts, stripMarkup, dropLines, rewriteHeading, isLifted, isStrippedSection,
   wordCount, resolveWikilinks, dropUnresolvedListItems, redact, inferBotanical,
-  delinkPropertyRows,
+  delinkPropertyRows, dropMineralPlaceholder,
   normaliseBinomial, stripSubsections, yamlValue,
 } from './lib.mjs';
 import { composeAnswer } from './answer.mjs';
@@ -158,6 +158,11 @@ for (const p of kept) {
       if (verified) { p.facts['Botanical Name'] = verified; verifiedBinomials += 1; }
     }
   }
+  // A page with a binomial is a plant, so a mineral-profile placeholder on it is false
+  // rather than merely empty. This has to run after the botanical is settled above.
+  p.render.rendered = dropMineralPlaceholder(p.render.rendered,
+    { isPlant: Boolean(normaliseBinomial(p.facts['Botanical Name'] ?? '')) });
+
   // Applies to every kind: the field must be a binomial or be absent.
   if (p.facts['Botanical Name']) {
     const clean = normaliseBinomial(p.facts['Botanical Name']);

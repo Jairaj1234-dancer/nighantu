@@ -65,13 +65,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rasna/meta-analysis.md"
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (root/leaf powder), Kwatha (decoction - Rasnadi Kwatha, Maharasnadi Kwatha), Capsule, Tablet, Taila (medicated oil - Rasnadi Taila), [Ghrita](/nighantu/herb/ghrita/), [Guggulu](/nighantu/formulation/guggulu/) combination

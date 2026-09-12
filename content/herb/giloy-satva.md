@@ -67,13 +67,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Giloy-Satva/meta-analysis.md"
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Satva powder (primary - the starch extract itself), Tablet (Satva compressed with excipients), Capsule (Satva-filled), Suspension (Satva in water/honey)

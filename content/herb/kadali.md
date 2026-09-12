@@ -68,13 +68,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali/meta-analysis.md"
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Swarasa (stem juice), Churna (flower/unripe fruit powder), Capsule, Kshara (alkali preparation), Bhasma (ash preparation)

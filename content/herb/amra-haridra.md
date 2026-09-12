@@ -36,13 +36,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Amra-Haridra/meta-analysis.md"
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Capsule, Tablet, Kashayam (decoction), Lepa (paste for topical use)

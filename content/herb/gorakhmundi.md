@@ -65,13 +65,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gorakhmundi/meta-analysis.md"
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (whole plant powder), Kashayam (decoction), Swarasa (fresh juice), Tablet, Capsule, Taila (medicated oil for external use)

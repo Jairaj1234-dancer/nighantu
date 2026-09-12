@@ -190,6 +190,27 @@ export function composeAnswer({ title, kind, facts, sections, lead, group }) {
 
   // Nothing resembling markup may reach the answer block: it is the passage most
   // likely to be quoted verbatim, and it also ships inside the JSON-LD.
-  const composed = stripMarkup(bits.join(' ')).replace(/\s+/g, ' ').trim();
+  //
+  // Nor may placeholder text. The last-resort branch above scrapes whatever prose it
+  // can find, and on one page that produced an answer telling the reader that
+  // Holoptelea integrifolia, a tree, is a "Mineral-derived preparation ... Analytical
+  // Methods: XRD, ICP-OES, SEM-EDS". Placeholders are stripped from the body elsewhere,
+  // but the answer is assembled from the raw text, so it needs its own guard, and it
+  // needs it more: the answer block is the first thing a reader sees and the passage an
+  // AI is most likely to lift whole.
+  const PLACEHOLDER_SENTENCE = [
+    /Mineral-derived preparation/i,
+    /Composition varies by specific preparation method/i,
+    /No .{0,24}data (currently )?available/i,
+    /not yet catalogued/i,
+    /Analytical Methods:\s*(XRD|ICP-OES|SEM-EDS)/i,
+    /Further research recommended/i,
+  ];
+  const clean = stripMarkup(bits.join(' '))
+    .split(/(?<=[.!?])\s+/)
+    .filter((sentence) => !PLACEHOLDER_SENTENCE.some((p) => p.test(sentence)))
+    .join(' ');
+
+  const composed = clean.replace(/\s+/g, ' ').trim();
   return clampWords(composed);
 }

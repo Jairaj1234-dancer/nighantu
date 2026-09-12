@@ -70,13 +70,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kapittha/meta-analysis.m
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Swarasa (juice), Avaleha (fruit confection), Churna (powder), Capsule, Murabba (preserve)

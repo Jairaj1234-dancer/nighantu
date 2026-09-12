@@ -36,13 +36,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Kakamachi/meta-analysis.md"
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Swarasa (fresh whole plant juice), Churna (powder), Capsule, Tablet, Kashayam (decoction), [Ghrita](/nighantu/herb/ghrita/) (medicated ghee)

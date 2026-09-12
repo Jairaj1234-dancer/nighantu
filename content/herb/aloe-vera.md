@@ -58,13 +58,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Aloe-Vera/meta-analysis.md"
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Swarasa (fresh gel juice), Kumari Asava (fermented preparation), Capsule (freeze-dried gel), Tablet, Topical gel, [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Churna (dried powder)

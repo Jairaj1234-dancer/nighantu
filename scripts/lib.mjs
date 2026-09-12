@@ -293,3 +293,45 @@ export function delinkPropertyRows(body) {
     return line.replace(/\[([^\]]+)\]\([^)]*\)/g, '$1');
   }).join('\n');
 }
+
+/**
+ * Drop the "Mineral/Elemental Profile" block from pages that are plants.
+ *
+ * The vault writes a placeholder block on entries it has no elemental data for:
+ *
+ *   ### Mineral/Elemental Profile
+ *   - **Primary component:** Mineral-derived preparation
+ *   - **Note:** Composition varies by specific preparation method
+ *   **Analytical Methods:** XRD, ICP-OES, SEM-EDS
+ *
+ * On a bhasma that is true, if uninformative. On a herb it is simply false: 176 plant
+ * pages were telling a reader that turmeric or garlic is a mineral-derived preparation
+ * analysed by X-ray diffraction. Two reviewers flagged it independently while reading
+ * pages for other reasons.
+ *
+ * Scoped deliberately narrowly. It fires only when the page has a botanical name, so
+ * mineral and rasa-shastra entries keep theirs, and only when the body matches the
+ * placeholder, so the one page carrying a real elemental profile is untouched.
+ */
+const MINERAL_PLACEHOLDER = /^###\s+Mineral\/Elemental Profile\s*$/i;
+const MINERAL_PLACEHOLDER_BODY = /Primary component:\*{0,2}\s*Mineral-derived preparation/i;
+
+export function dropMineralPlaceholder(body, { isPlant }) {
+  if (!isPlant) return body;
+
+  const lines = body.split('\n');
+  const out = [];
+  for (let i = 0; i < lines.length; i += 1) {
+    if (!MINERAL_PLACEHOLDER.test(lines[i])) { out.push(lines[i]); continue; }
+
+    // Collect the block up to the next heading of any level.
+    let j = i + 1;
+    while (j < lines.length && !/^#{1,6}\s/.test(lines[j])) j += 1;
+    const block = lines.slice(i, j).join('\n');
+
+    // Only remove it if it is the placeholder. A real profile stays.
+    if (MINERAL_PLACEHOLDER_BODY.test(block)) { i = j - 1; continue; }
+    out.push(lines[i]);
+  }
+  return out.join('\n').replace(/\n{3,}/g, '\n\n');
+}

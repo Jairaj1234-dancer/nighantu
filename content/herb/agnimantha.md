@@ -89,13 +89,6 @@ Root powder: 3-6g/day; Decoction: 50-100ml/day
 
 **Part(s) Analyzed:** Root, Bark, Leaf
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kashayam (decoction), Kwatha tablet, Capsule, Asava-Arishta (fermented preparation), [Guggulu](/nighantu/formulation/guggulu/) combination

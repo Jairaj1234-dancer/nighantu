@@ -36,13 +36,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Zingiber/meta-analysis.md"
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (Shunthi/dry [ginger](/nighantu/herb/ginger/) powder), Svarasa (fresh ginger juice), Capsule, Tablet, Softgel (CO2 extract), Kwatha (decoction), Essential oil, Tincture, Crystallized/preserved ginger, Syrup, Paste

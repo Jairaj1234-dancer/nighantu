@@ -67,13 +67,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rasona-Patra/meta-analysis.md
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Swarasa (fresh leaf juice), Churna (dried leaf powder), Capsule, Tablet, Lepa (paste), Topical preparation

@@ -50,8 +50,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akhuparni/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
-
-
 *3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
@@ -60,13 +58,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akhuparni/meta-analysis.md"
 - Limited formal toxicological studies; traditional use suggests safety at recommended doses; not recommended during pregnancy due to potential uterine effects
 
 ## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

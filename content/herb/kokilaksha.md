@@ -36,13 +36,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Kokilaksha/meta-analysis.md"
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kashayam (decoction), Capsule, Tablet, Taila (medicated oil), [Ksheera](/nighantu/herb/ksheera/) Paka (milk decoction)

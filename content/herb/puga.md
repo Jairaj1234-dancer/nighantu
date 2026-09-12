@@ -36,13 +36,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Mens-Health-Vitality/Puga/meta-analysis.md"
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (nut powder), Kwatha (decoction), Tablet, Capsule, Supari (processed betel nut), Mouth freshener formulation

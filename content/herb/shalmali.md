@@ -36,13 +36,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shalmali/meta-analysis.md"
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kwatha (decoction), Mocharasa (gum/exudate), Capsule, Taila (medicated oil), Lepa (paste), Vati (tablet)

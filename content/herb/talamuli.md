@@ -36,13 +36,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Mens-Health-Vitality/Talamuli/meta-analysis
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kwatha (decoction), Swarasa (fresh juice), Capsule, [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Leha/Avaleha (confection)

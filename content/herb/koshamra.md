@@ -36,13 +36,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Koshamra/meta-analysis.m
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (bark powder), Kashayam (decoction), Capsule, Swarasa (fruit juice), Lepa (paste for external use)

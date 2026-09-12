@@ -63,13 +63,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aparajita/meta-analysis.md"
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (root/seed powder), Swarasa (flower juice), Capsule, Tablet, Phanta (flower infusion — blue tea), Taila (medicated oil), Nasya (nasal drops)

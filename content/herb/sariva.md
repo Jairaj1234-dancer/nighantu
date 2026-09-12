@@ -89,13 +89,6 @@ Root powder: 3-6g/day; Decoction: 50-100ml/day; Syrup ([Sarivadyasava](/nighantu
 
 **Part(s) Analyzed:** Root
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Kwatha (decoction), Churna (powder), Syrup ([Sarivadyasava](/nighantu/formulation/sarivadyasava/)), Capsule, Ghana vati, Taila (medicated oil)

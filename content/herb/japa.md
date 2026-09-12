@@ -36,13 +36,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Japa/meta-analysis.md"
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (flower powder), Capsule, Tablet, Swarasa (fresh flower juice), Taila (hair oil), Kwath (decoction), Gulkand-like preserve

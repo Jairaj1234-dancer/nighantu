@@ -65,13 +65,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shatavari-Ksheera/meta-analys
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Liquid (milk decoction), Freeze-dried powder, Capsule (encapsulated dried preparation), Soft gelatin capsule

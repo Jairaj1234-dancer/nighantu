@@ -69,13 +69,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Ikshu/meta-analysis.md"
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Swarasa (fresh juice), Sharkara (sugar preparations), [Guda](/nighantu/glossary/concepts-a-m/#guda) (jaggery forms), Kashayam (decoction of root), Capsule (root extract)

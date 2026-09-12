@@ -63,13 +63,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kasani/meta-analysis.md"
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Swarasa (fresh juice), Churna (powder), Kashayam (decoction), Capsule, Tablet, Satva ([starch](/nighantu/glossary/compounds-q-t/#starch) extract)

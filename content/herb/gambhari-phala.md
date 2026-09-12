@@ -66,13 +66,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gambhari-Phala/meta-analysis.
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Fresh fruit pulp, Dried fruit powder, Avaleha (fruit confection), Tablet, Capsule, Swarasa (fruit juice)

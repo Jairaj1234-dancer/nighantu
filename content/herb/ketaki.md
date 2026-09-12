@@ -36,13 +36,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Ketaki/meta-analysis.md"
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** [Arka](/nighantu/herb/arka/) (distillate/hydrosol), Taila (infused oil), Lepa (paste), Churna (powder), Attar (essential oil perfume), Kewra water (flavoring)

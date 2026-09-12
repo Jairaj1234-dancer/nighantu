@@ -144,13 +144,6 @@ RESULTS: Both NJ-1A and Nar could significantly suppress LPS-induced production 
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Tablet, Capsule, Taila (oil), Kashayam (decoction), [Arka](/nighantu/herb/arka/) (distillate), Essential oil, [Ghrita](/nighantu/herb/ghrita/) (medicated ghee)

@@ -54,13 +54,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Ahiphena/meta-analysis
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (processed powder after Shodhana), Tablet (in classical compound formulations), Lehyam (as minor ingredient in specific formulations)

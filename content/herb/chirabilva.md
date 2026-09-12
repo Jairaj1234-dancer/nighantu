@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Trees-Large-Plants"
-answer: "Chirabilva (Holoptelea integrifolia) is a plant used in Ayurveda. Usual dose: 3-6g powder twice daily; 50-100ml decoction; 500mg extract capsule. Traditional dosing per Vaidya guidance. Primary component: Mineral-derived preparation Note: Composition varies by specific preparation method Analytical Methods: XRD, ICP-OES, SEM-EDS Dosage Forms: Churna (powder), Kashayam (decoction), Capsule, Tablet, Taila (oil) Standard Dosage: 3-6g powder twice daily; 50-100ml decoction; 500mg extract capsule."
+answer: "Chirabilva (Holoptelea integrifolia) is a plant used in Ayurveda. Usual dose: 3-6g powder twice daily; 50-100ml decoction; 500mg extract capsule. Traditional dosing per Vaidya guidance."
 botanical: "Holoptelea integrifolia"
 family: ""
 sanskrit: ""
@@ -35,13 +35,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Chirabilva/meta-analysis
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
 ## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 
