@@ -46,6 +46,7 @@ function headline(r: any) {
   if (r.id === 'safety-panel-01') return { checked: s.pagesExamined, kept: s.published, unit: 'records' };
   if (r.id === 'safety-repair-02') return { checked: s.recordsExamined, kept: s.published, unit: 'records' };
   if (r.id === 'safety-pass3') return { checked: s.recordsExamined, kept: s.published, unit: 'records' };
+  if (r.id === 'safety-pass4') return { checked: s.recordsExamined, kept: s.publishedAfterSchemaValidation, unit: 'records' };
   return { checked: null, kept: null, unit: 'records' };
 }
 ---

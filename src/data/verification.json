@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-11",
+ "updatedAt": "2026-09-12",
  "runs": [
   {
    "id": "botanical-identity",
@@ -232,6 +232,50 @@
     {
      "slug": "eranda-moola",
      "basis": "Rule 11 (do not overclaim your own search): insufficientReason asserts that Ramothloa 2025 is 'the second permitted-host review of this species'. This is a negative the stated searches cannot support and it is false - esearch '\"Ricinus communis\"[Title] AND review[pt] AND pubmed pmc[sb]' returns four (42653756, 41573499, 40807390, 22069699), and the record itself cites one of them, Worbs 2011, as a review. Supporting instances of the same overclaim: the toxicity query is reported as '40 records r"
+    }
+   ]
+  },
+  {
+   "id": "safety-pass4",
+   "title": "Safety data, fourth attempt",
+   "question": "Does aiming at the shape the evidence supports convert more records?",
+   "note": "The 23 records held after pass three, rebuilt against the evidence pattern the first three passes established, then audited individually. 4 of 23 passed, and none was left unjudged.",
+   "method": [
+    "Each rebuilder was told what the previous three passes had established: that across 83 pages only two records had ever passed, both of them saying no source describes this preparation. The instruction was to stop defending preparation-specific claims the literature does not support and drop them instead.",
+    "Two further rules were carried from pass three: do not overclaim your own search, and carry the source’s denominator verbatim.",
+    "Every rebuilt record was audited individually by a reviewer who read the prior objections first, then audited the record afresh.",
+    "The rebuilders did what was asked and the record of what they dropped is the useful part: an inferred dose taken from a different product, an exclusivity claim contradicted by a second paper the earlier record had missed, a false enumeration of search results, and a finding asserted in a paper’s narrative that its own results table does not support."
+   ],
+   "stats": {
+    "recordsExamined": 23,
+    "passedTheAudit": 4,
+    "publishedAfterSchemaValidation": 3,
+    "stillHeld": 19,
+    "passedAsPreparationSpecific": 1,
+    "passedAsMixed": 1,
+    "passedAsInsufficientDataPlusClassLevel": 2
+   },
+   "caveat": "One record passed its audit in an interrupted earlier attempt and was held when the same audit ran again, which is the documented instability of repeated model judgements rather than a change in the evidence. It is treated as held: for safety, a rejection outweighs an earlier acceptance. A second passed its audit and was then refused by the schema validator for a missing field and claim-shaped wording, which is why acceptance by the panel has never been sufficient on its own.",
+   "examples": [
+    {
+     "slug": "abhraka-bhasma",
+     "basis": "RULE 11 (search enumerated but does not reproduce): heavyMetals states that search [1], '\"Abhraka Bhasma\" toxicity OR \"heavy metal\" OR \"lead poisoning\" OR \"case report\"' restricted to pubmed.ncbi.nlm.nih.gov, pmc.ncbi.nlm.nih.gov and ncbi.nlm.nih.gov, 'returned Pandit et al. (PMC11648886) and general Ayurvedic lead-poisoning case reports naming no bhasma product'. Re-run today against the same hosts it also returns PMC3665192 ('Evidence for safety of Ayurvedic herbal, herbo-metallic and Bhasma p | RULE 11 (a search result claimed as a confirmed negative): the record states that search [5] on p"
+    },
+    {
+     "slug": "akika-pishti",
+     "basis": "Rule 2 (attributing to sources a content-absence they do not have), in doseLimits: 'The permitted sources that name the ingredient give doses only for multi-ingredient proprietary products and none of them states how much Akika Pishti such a product contains.' Refuted by four of the PMCIDs the record itself enumerates: PMC12321421 Table 1 states Akik Pishti at 79 mg per Cardiogrit Gold tablet; PMC7764187 states 'Akik pishti (5 mg)'; PMC6702236 states 'Akik pishti 5 mg'; PMC3812882 Table 1 states | Rule 11 (overclaiming the record's own search; the stated result must reproduce), in insufficient"
+    },
+    {
+     "slug": "ashwagandha",
+     "basis": "Rule 11 (a reported search does not reproduce). The record asserts twice, in heavyMetals and in doseLimits, that ayush.gov.in/assets/pdf/quality_standards/advisory-on-aswagandha.pdf 'returned a 236 KB PDF whose text could not be extracted, the file appearing to be a scanned image, so nothing was read from it and nothing is claimed about its contents either way.' Re-run: HTTP 200, 241,513 bytes (the same 236 KB file), and the text extracts without difficulty from the embedded OCR layer (four Time | Rule 3 / Rule 7 (a documented hazard on a permitted regulatory host, raised as a URL and then dro"
+    },
+    {
+     "slug": "eranda-moola",
+     "basis": "Rule 11 (do not overclaim your own search; reported searches must reproduce): insufficientReason states that 'the 32 records beyond a retmax of 40' for 'Ricinus communis root toxicity' are phytoremediation, plant-physiology, plant-molecular-biology and ricin-neuroscience papers, and that 'the only two among them that touch root cytotoxicity' are PMID 33540690 and PMID 37514300. Re-running esearch db=pubmed for that exact term, both named PMIDs fall INSIDE the first 40 under every sort (default #"
+    },
+    {
+     "slug": "eranda-patra",
+     "basis": "Rule 11 — overclaiming the record's own search. heavyMetals asserts: 'no heavy-metal limit specification for this drug from a Ministry of Ayush, Indian Pharmacopoeia Commission, WHO, EMA or FDA document could be retrieved'. That names five bodies as checked-and-negative. No FDA search is reported anywhere in the record (the regulatory list in insufficientReason is EMA, MSK, MedlinePlus, NCCIH, ODS, iris.who.int, pharmacopoeia.gov.in, ayush hosts — FDA is absent), and the record's own insufficien | Rule 11 — a reported search that does not reproduce. The record states as verified fact: 'iris.wh"
     }
    ]
   }

@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-09-11",
- "count": 2,
+ "updatedAt": "2026-09-12",
+ "count": 5,
  "records": {
   "kamsya-bhasma": {
    "slug": "kamsya-bhasma",
@@ -356,6 +356,978 @@
     }
    ],
    "title": "Neelam Pishti",
+   "sourceClass": "regulatory"
+  },
+  "bhanga": {
+   "slug": "bhanga",
+   "botanical": "Cannabis sativa L.",
+   "insufficientData": false,
+   "evidenceSearch": "Searches run 2026-09-11, reported so they can be re-run. (1) PubMed E-utilities esearch, db=pubmed, term 'Bhanga': 7 records (PMIDs 42250168, 40895842, 31831967, 26980601, 4460655, 29010075, 29009963); of these, only PMID 31831967 concerns Cannabis sativa, the others being a Dhaka-Bhanga expressway soil study, a Bangladesh buffalo review, a Bangladesh arsenite-oxidase soil study, a 1974 Bhanga tick virus isolation, and two 1931 Indian Medical Gazette case papers. (2) db=pubmed, term 'Bhanga AND cannabis': 1 record (31831967). (3) db=pubmed, term 'Shodhita Bhanga': 1 record (31831967). (4) db=pubmed, term 'Jalaprakshalana': 1 record (31831967). (5) db=pubmed, term 'Bhanga AND Ayurveda': 1 record (31831967). (6) PMC full-text esearch, db=pmc, term '\"Shodhita Bhanga\"': 1 record (PMC6891996, the full text of PMID 31831967). (7) db=pmc, term '\"Bhanga\" AND \"Cannabis sativa\"': 27 records; their titles were read and, apart from PMC6891996, none is a clinical or toxicological study of the Ayurvedic Bhanga preparation (they are ethnobotanical surveys, cannabis phytochemistry and general cannabis reviews, Ayurvedic formulation papers on other drugs, and historical articles). Full texts of the other 26 were not read, so this is a title-level statement. (8) A separate PMC record with a Bhanga entry, PMC4535066, does not appear in search (7) because it spells the drug 'Bhanga' with diacritics and misspells the binomial 'Cannabis seativa'; it was reached from a search for 'Shodhana Cannabis sativa water wash'. (9) Pharmacopoeial text: pharmacopoeia.gov.in and www.pharmacopoeia.gov.in did not resolve from this session (DNS NXDOMAIN, curl exit code 6), so the Ayurvedic Pharmacopoeia of India monograph for Bhanga could not be read directly and is reported here only as quoted by PMC6891996. (10) Ministry of Ayush documents: https://ayush.gov.in/resources/pdf/quality_standards/Drugs-and-Cosmetics-Act-Rules.pdf returned HTTP 404 and https://www.ayush.gov.in/docs/guideline_safety_toxicity.pdf returned HTTP 403, so no claim about Schedule E(1), Rule 161(2) or prescription-only status is made here. Conclusion: one permitted source (PMC6891996) reports a clinical study of a named Bhanga preparation and one (PMC4535066) gives a Bhanga entry of classical attributions; statements drawn from them are scoped preparation-specific, and everything drawn from the four general cannabis sources is scoped class-level. No elemental analysis, no pharmacovigilance case report and no pharmacopoeial monograph text for Bhanga was retrievable on a permitted host.",
+   "sources": [
+    {
+     "id": "ayu-bhanga-trial",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6891996/",
+     "title": "Tavhare SD, Acharya R, Reddy RG, Dhiman KS. Management of chronic pain with Jalaprakshalana (water-wash) Shodhita (processed) Bhanga (Cannabis sativa L.) in cancer patients with deprived quality of life: An open-label single arm clinical trial. Ayu. 2019 Jan-Mar;40(1):34-43. PMCID PMC6891996, PMID 31831967, doi:10.4103/ayu.AYU_43_19",
+     "tier": "The only source located on a permitted host that reports a clinical study of a named Bhanga preparation, so statements drawn from it are scoped preparation-specific. Its limitations, carried on every statement taken from it: open-label, single-arm, no control group and no blinding; purposive (non-random) sampling at a single centre (RRA Podar Central Ayurveda Research Institute for Cancer, Mumbai); planned sample 40, 37 enrolled and 24 (64.86%) completed, 13 (35.14%) dropped out; treatment duration only 4 weeks with one further follow-up week for withdrawal assessment; adults 18-70 with cancer only; pre- and post-treatment laboratory investigations and ECG are described in the methods as done 'to check the safety aspects', but the article reports no laboratory or ECG results in any of its eleven tables or in its text. The article also carries efficacy material (pain, anxiety, depression, quality-of-life and performance-status outcomes); none of it is used in this record, which makes no efficacy or indication claim. This trial studied one specific Shodhana method, Jalaprakshalana (water-wash); it is not evidence about Bhanga processed by other methods or about unprocessed Bhanga.",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "sodhana-review",
+     "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC4535066/",
+     "title": "Maurya SK, Seth A, Laloo D, et al. Sodhana: An Ayurvedic process for detoxification and modification of therapeutic activities of poisonous medicinal plants. Anc Sci Life. 2015 Apr-Jun;34(4):188-197. PMCID PMC4535066, doi:10.4103/0257-7941.160862",
+     "tier": "A narrative review with a dedicated Bhanga entry, so the Bhanga statements taken from it are scoped preparation-specific. Its limitation, carried on every statement taken from it: the Bhanga entry reports classical and ethnopharmacological attributions with literature citations only. The review presents no chemical analysis, no animal study and no clinical data for Bhanga, and reports no measurement of what its named Shodhana media remove. Its general concluding sentence that 'Studies have shown that the toxic constituents are transferred into media rendering the drug nontoxic' is not tied by the review to Bhanga and is not carried here as a Bhanga finding. The review's list of traditional therapeutic uses for Bhanga is efficacy material and is not used in this record.",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "nccih-cannabis",
+     "url": "https://www.nccih.nih.gov/health/cannabis-marijuana-and-cannabinoids-what-you-need-to-know",
+     "title": "Cannabis (Marijuana) and Cannabinoids: What You Need To Know, NCCIH",
+     "tier": "NCCIH. Addresses cannabis and cannabinoid products in general, not the Ayurvedic preparation Bhanga; every statement drawn from it is therefore scoped class-level. The page also carries efficacy material on pain, multiple sclerosis, chemotherapy-induced nausea, PTSD and sleep; none of it is used here.",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "fda-cannabis-preg",
+     "url": "https://www.fda.gov/consumers/consumer-updates/what-you-should-know-about-using-cannabis-including-cbd-when-pregnant-or-breastfeeding",
+     "title": "What You Should Know About Using Cannabis, Including CBD, When Pregnant or Breastfeeding, FDA Consumer Update",
+     "tier": "US FDA. Addresses CBD, THC and marijuana in any form, not the Ayurvedic preparation Bhanga; statements drawn from it are scoped class-level. The page did not return content to a direct HTTP request on 2026-09-11 (HTTP 404 to curl) and was read through the fetch tool; the quotations below were each confirmed word for word against the fetched page.",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "lactmed-cannabis",
+     "url": "https://www.ncbi.nlm.nih.gov/books/NBK501587/",
+     "title": "Cannabis, Drugs and Lactation Database (LactMed), NCBI Bookshelf NBK501587, record updated 2026 Aug 15",
+     "tier": "NIH LactMed. Human data are almost entirely on smoked cannabis in lactating women, with a small number of reports involving edibles; there are no data on an Ayurvedic oral leaf-powder preparation, so statements drawn from it are scoped class-level.",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "msk-cannabis",
+     "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/cannabis",
+     "title": "Cannabis, Memorial Sloan Kettering About Herbs",
+     "tier": "MSKCC About Herbs. The public page carries a 'Dosage' heading marked 'OneMSK Only' with no public content, and has no pregnancy or lactation section, so this record makes no dosage, pregnancy or lactation claim on MSK's authority. The page also carries extensive efficacy material and a 'Purported Uses and Benefits' list, none of which is used here. It addresses cannabis products generally, not the Ayurvedic preparation Bhanga, so statements drawn from it are scoped class-level; the page does list 'Bhang' among more than a thousand common names for cannabis, but it describes no Ayurvedic preparation, processing method or dose. MSK's own site disclaimer states that it 'makes no warranties nor express or implied representations whatsoever regarding the accuracy, completeness, timeliness ... of any information contained' on the site.",
+     "accessed": "2026-09-11"
+    }
+   ],
+   "contraindications": [
+    {
+     "condition": "Populations untested for this preparation: pregnancy, breastfeeding, and organ dysfunction",
+     "severity": "major",
+     "scope": "preparation-specific",
+     "note": "The only clinical study of a named Bhanga preparation excluded these groups from the outset, so its safety observations say nothing about them. Verbatim exclusion criteria: 'Patients suffering from systemic diseases such as uncontrolled hypertension/diabetes, cardiac/pulmonary/hepatic or renal dysfunctions, HIV/VDRL, pregnant or breast-feeding women, patients with inability to comprehend and complete proposed course of intervention were excluded.' Inclusion was limited to patients 'between age 18 to 70 years' with clinically diagnosed cancer, so no age group outside 18-70 was studied either. The trial also states: 'Precautions had been taken while prescribing TD for Pitta predominant Prakriti (constitution) patients and those who were reported to have chronic addiction(s) of any form.' This entry records untested populations and the trial's own precautions; it is not a contraindication that the trial itself states. For pregnancy and breastfeeding the separate class-level FDA and LactMed entries below give the positive advice to avoid.",
+     "sourceIds": [
+      "ayu-bhanga-trial"
+     ]
+    },
+    {
+     "condition": "Unprocessed (Ashodhita) Bhanga, and excessive use",
+     "severity": "major",
+     "scope": "preparation-specific",
+     "note": "The trial report states: 'If used in Ashodhita (Unprocessed) form, may cause Madakari (Intoxicant) effects hence, Ayurveda classics have advised Shodhana (Purifying process) of Bhanga before its therapeutic use.' The Sodhana review's Bhanga entry states: 'Its excessive use causes dyspepsia, cough, impotence, melancholy, dropsy, restlessness, and insanity.' Both are classical and ethnopharmacological attributions carried by the two sources; neither source reports chemical, animal or clinical data behind them, and neither quantifies what counts as excessive use. The review also shows that Bhanga is not one standardised product: it names Shodhana methods different from the water-wash used in the trial, namely that Bhanga 'is boiled with Babbula Tvak kvatha for 3 h and the powder obtained is triturated with Godugdha' and that toxic effects 'can also be reduced by triturating with Babbula Tvak kvatha and frying the powder obtained in Cow Ghee'. No source located reports how much cannabinoid any of these methods removes, so no claim of detoxification is made here.",
+     "sourceIds": [
+      "ayu-bhanga-trial",
+      "sodhana-review"
+     ]
+    },
+    {
+     "condition": "Pregnancy",
+     "severity": "contraindicated",
+     "scope": "class-level",
+     "note": "FDA states: 'FDA strongly advises against the use of cannabidiol (CBD), tetrahydrocannabinol (THC), and marijuana in any form during pregnancy or while breastfeeding.' FDA also states the limitation that 'There is no comprehensive research studying the effects of CBD on the developing fetus, pregnant mother, or breastfed baby.'; absence of documented harm from a given exposure is therefore not evidence of safety.",
+     "sourceIds": [
+      "fda-cannabis-preg"
+     ]
+    },
+    {
+     "condition": "Breastfeeding",
+     "severity": "contraindicated",
+     "scope": "class-level",
+     "note": "FDA advises against use while breastfeeding and states that 'breastmilk can contain THC for up to six days after use.' LactMed gives a longer range from the published literature: 'The duration of detection of THC in milk has ranged from 6 days to greater than 6 weeks in various studies.' LactMed records that 'In general, professional guidelines recommend that cannabis use should be avoided by nursing mothers, and nursing mothers should be informed of possible adverse effects on infant development from exposure to cannabis compounds in breastmilk.' LactMed also states the countervailing context that 'Because of insufficient long-term data on the outcome of infants exposed to cannabis via breastmilk, health professionals' opinions on the acceptability of breastfeeding by cannabis-using mothers varies.'",
+     "sourceIds": [
+      "fda-cannabis-preg",
+      "lactmed-cannabis"
+     ]
+    },
+    {
+     "condition": "Psychiatric illness or predisposition to psychosis",
+     "severity": "contraindicated",
+     "scope": "class-level",
+     "note": "MSK's professional Contraindications section states: 'Cannabis products should not be used by patients with psychiatric, cardiovascular, renal, or hepatic illnesses'. MSK's patient-facing warning repeats it: 'Don't take cannabis products if: ... You have psychiatric illnesses that affect mood, thinking, and behavior. Cannabis may make these conditions worse.' NCCIH states: 'The use of cannabis, especially frequent use, has been linked to a higher risk of developing schizophrenia or other psychoses (severe mental illnesses) in people who are predisposed to these illnesses.'",
+     "sourceIds": [
+      "msk-cannabis",
+      "nccih-cannabis"
+     ]
+    },
+    {
+     "condition": "Liver disease or hepatic impairment",
+     "severity": "contraindicated",
+     "scope": "class-level",
+     "note": "MSK's professional Contraindications section names hepatic illness: 'Cannabis products should not be used by patients with psychiatric, cardiovascular, renal, or hepatic illnesses'. MSK's patient-facing warning: 'You have kidney, heart, or liver disease. Cannabis may make these worse.' A substance-specific hepatic hazard stands alongside this rather than being folded into a general organ-disease entry: NCCIH states 'CBD use has been associated with liver injury, male reproductive harm, and interactions with other drugs', and that 'diarrhea, sleepiness, abnormalities on tests of liver function, and drug interactions, appear to be due to CBD itself rather than contaminants in CBD products; these effects were observed in some of the people who participated in studies of Epidiolex before its approval as a drug'. FDA likewise lists, among risks of CBD 'Based on clinical studies in humans', 'liver toxicity (damage)'. Those hepatic findings are about CBD, so they bear on cannabis products in which CBD is present; no cited source reports a hepatic finding for the Bhanga preparation, and the only clinical study of that preparation reports no laboratory results. No source cited here states a contraindication to concurrent hepatotoxic drugs, and none is asserted.",
+     "sourceIds": [
+      "msk-cannabis",
+      "nccih-cannabis",
+      "fda-cannabis-preg"
+     ]
+    },
+    {
+     "condition": "Heart disease and cardiovascular illness",
+     "severity": "contraindicated",
+     "scope": "class-level",
+     "note": "MSK's professional Contraindications section names cardiovascular illness: 'Cannabis products should not be used by patients with psychiatric, cardiovascular, renal, or hepatic illnesses'. MSK's patient-facing warning: 'You have kidney, heart, or liver disease. Cannabis may make these worse.' MSK's Adverse Reactions section additionally records, with no route restriction, that 'Cannabis use has been associated with increased risk of rare, but life-threatening cardiac dysrhythmia ... as well as both acute coronary syndrome and chronic cardiovascular disease'. See the cardiac adverse-effect entry below for MSK's separate inhalation-attributed list and for why this warning is not narrowed to inhalation.",
+     "sourceIds": [
+      "msk-cannabis"
+     ]
+    },
+    {
+     "condition": "Kidney disease and renal illness",
+     "severity": "contraindicated",
+     "scope": "class-level",
+     "note": "MSK's professional Contraindications section names renal illness: 'Cannabis products should not be used by patients with psychiatric, cardiovascular, renal, or hepatic illnesses'. MSK's patient-facing warning: 'You have kidney, heart, or liver disease. Cannabis may make these worse.'",
+     "sourceIds": [
+      "msk-cannabis"
+     ]
+    },
+    {
+     "condition": "Children, including accidental ingestion of an oral preparation stored in the home",
+     "severity": "contraindicated",
+     "scope": "class-level",
+     "note": "This is the hazard matched to the route by which Bhanga is taken. NCCIH states: 'There have been many reports of unintentional consumption of cannabis or its products by children, leading to illnesses severe enough to require emergency room treatment or admission to a hospital. Among a group of people who became ill after accidental exposure to candies containing THC, the children generally had more severe symptoms than the adults and needed to stay in the hospital longer.' NCCIH gives no number of cases and does not name the products involved. MSK's separate paediatric warning concerns a drug interaction rather than accidental exposure: 'Don't give cannabis products to children with epilepsy who are on clobazam (Onfi). Cannabis can increase its side effects'. The only clinical study of the Bhanga preparation enrolled adults aged 18 to 70 only, so it provides no paediatric safety data of any kind.",
+     "sourceIds": [
+      "nccih-cannabis",
+      "msk-cannabis",
+      "ayu-bhanga-trial"
+     ]
+    },
+    {
+     "condition": "Adolescent use and use during brain development",
+     "severity": "major",
+     "scope": "class-level",
+     "note": "NCCIH states: 'Adolescents using cannabis are four to seven times more likely than adults to develop cannabis use disorder.' MSK states: 'Long-term cannabis use was shown to be detrimental to functional connectivity in the developing brain'. MSK gives no definition of long-term use with this statement.",
+     "sourceIds": [
+      "nccih-cannabis",
+      "msk-cannabis"
+     ]
+    },
+    {
+     "condition": "Older adults",
+     "severity": "major",
+     "scope": "class-level",
+     "note": "NCCIH states: 'Cannabis use is associated with an increased risk of injury among older adults.' NCCIH gives no effect size, no age threshold and no injury type with this statement. Read alongside NCCIH's orthostatic hypotension statement and MSK's drowsiness, loss of balance and confusion, this is a fall and injury hazard.",
+     "sourceIds": [
+      "nccih-cannabis",
+      "msk-cannabis"
+     ]
+    },
+    {
+     "condition": "Driving or operating machinery",
+     "severity": "major",
+     "scope": "class-level",
+     "note": "NCCIH states: 'The use of cannabis has been linked to an increased risk of motor vehicle crashes.' MSK's professional short-term adverse effects include drowsiness, somnolence, disorientation, confusion and loss of balance, and MSK's patient-facing side-effect list includes drowsiness, trouble focusing and hallucinations.",
+     "sourceIds": [
+      "nccih-cannabis",
+      "msk-cannabis"
+     ]
+    },
+    {
+     "condition": "Perioperative period, including elective surgery",
+     "severity": "major",
+     "scope": "class-level",
+     "note": "MSK's Adverse Reactions section states: 'Perioperative morbidity: A large retrospective analysis found cannabis abuse to be associated with increased perioperative morbidity among elective spine surgery patients'. MSK's exposure term is 'cannabis abuse', the study is retrospective and the surgical population is elective spine surgery specifically; MSK reports no sample size, no effect size and no adjustment, and does not extend the finding to other operations. It is carried here because a surgical hazard cannot be raised by a cited source and then dropped, not because it has been shown for other surgery.",
+     "sourceIds": [
+      "msk-cannabis"
+     ]
+    }
+   ],
+   "interactions": [
+    {
+     "drugClass": "Warfarin and other anticoagulants",
+     "severity": "major",
+     "scope": "class-level",
+     "mechanism": "MSK: 'Warfarin: THC and CBD both elevate international normalized ratio (INR) levels'. MSK's patient-facing warning places it on a do-not-take footing: do not take cannabis products if 'You're taking warfarin (Jantoven or Coumadin) or other blood thinners. Cannabis can increase your risk of bleeding.' Severity basis, stated here so the grading can be checked: every interaction that MSK itself places in its patient-facing 'Don't take cannabis products if' list is graded major in this record.",
+     "sourceIds": [
+      "msk-cannabis"
+     ]
+    },
+    {
+     "drugClass": "Sedatives and hypnotics, including lorazepam, diazepam and zolpidem",
+     "severity": "major",
+     "scope": "class-level",
+     "mechanism": "MSK: 'Sedatives or hypnotics: Sedation and significant pharmacodynamic interactions when taken with cannabis via potentiation of central effects'. MSK's patient-facing do-not-take list names lorazepam (Ativan), diazepam (Valium) and zolpidem (Ambien): 'Taking these medications and cannabis can increase drowsiness.' Severity basis: MSK's do-not-take list.",
+     "sourceIds": [
+      "msk-cannabis"
+     ]
+    },
+    {
+     "drugClass": "Nivolumab and related immune checkpoint inhibitors",
+     "severity": "major",
+     "scope": "class-level",
+     "mechanism": "MSK: 'Immunotherapy (nivolumab): Combined use with cannabis was associated with a reduction in treatment response rates in patients with advanced melanoma, non-small-cell lung cancer, and renal clear cell carcinoma (observational study)'. MSK reports elsewhere on the same page that in that study 'Progression-free survival and overall survival remained unaffected', which is carried here so the finding is not overstated. MSK's patient-facing do-not-take list: 'You're taking nivolumab (Opdivo). Cannabis can lower the response to this medication in patients with advanced melanoma, non-small-cell lung cancer, and renal clear cell carcinoma.' The named cancers describe the populations studied; no therapeutic role for cannabis in any of them is stated or implied by this record. Severity basis: MSK's do-not-take list.",
+     "sourceIds": [
+      "msk-cannabis"
+     ]
+    },
+    {
+     "drugClass": "Fluoxetine",
+     "severity": "major",
+     "scope": "class-level",
+     "mechanism": "MSK: 'Fluoxetine: Case reports of mania resulting from co-administration of cannabis'. MSK's patient-facing do-not-take list pairs fluoxetine with disulfiram: 'You're taking fluoxetine (Prozac) or disulfiram (Antabuse). Taking cannabis with these medications can cause confusion, elevated mood, inflated self-esteem, decreased need for sleep, racing thoughts, and trouble focusing.' MSK separately documents, in its Adverse Reactions section, 'Serotonin syndrome: In a male, with a diagnosis of bipolar disorder managed with fluoxetine, melatonin, and lithium, following use of THC vape pen'; that case involved three concurrent psychotropic drugs and a THC vape pen, so cannabis is one of several exposures and the route was inhalation. Severity basis: MSK's do-not-take list, reinforced by that serotonin syndrome case.",
+     "sourceIds": [
+      "msk-cannabis"
+     ]
+    },
+    {
+     "drugClass": "Disulfiram",
+     "severity": "major",
+     "scope": "class-level",
+     "mechanism": "MSK: 'Disulfiram: Delirium and hypomania resulting from co-administration with cannabis'. MSK's patient-facing do-not-take list: 'You're taking fluoxetine (Prozac) or disulfiram (Antabuse). Taking cannabis with these medications can cause confusion, elevated mood, inflated self-esteem, decreased need for sleep, racing thoughts, and trouble focusing.' Severity basis: MSK's do-not-take list.",
+     "sourceIds": [
+      "msk-cannabis"
+     ]
+    },
+    {
+     "drugClass": "Clobazam, particularly in children with epilepsy",
+     "severity": "major",
+     "scope": "class-level",
+     "mechanism": "MSK: 'Clobazam: CBD increased clobazam levels in epileptic children'. MSK's patient-facing do-not-take instruction: 'Don't give cannabis products to children with epilepsy who are on clobazam (Onfi). Cannabis can increase its side effects'. Severity basis: MSK's do-not-take instruction. MSK attributes the level rise to CBD.",
+     "sourceIds": [
+      "msk-cannabis"
+     ]
+    },
+    {
+     "drugClass": "Amphetamines, cocaine, atropine and other sympathomimetic agents",
+     "severity": "major",
+     "scope": "class-level",
+     "mechanism": "MSK: 'Amphetamines, cocaine, atropine and sympathomimetic agents: Cardiotoxicity may occur with cannabis via additive hypertension and tachycardia'. MSK's patient-facing do-not-take list names them individually and adds pseudoephedrine, epinephrine and dobutamine: 'You're on amphetamines (Adzenys XR-ODT, Evekeo ODT). Heart damage may occur with cannabis'; 'You're taking atropine (Atropen). Taking this medication and cannabis can cause heart damage.'; 'You're on cocaine. Heart damage may occur with cannabis'; 'You're taking pseudoephedrine (such as Sudafed), epinephrine (such as Auvi-Q) or the prescription drug dobutamine (Dobutamine). Taking these medications and cannabis can cause heart damage.' Severity basis: MSK's do-not-take list.",
+     "sourceIds": [
+      "msk-cannabis"
+     ]
+    },
+    {
+     "drugClass": "Cyclosporine and mycophenolate mofetil in transplant recipients",
+     "severity": "major",
+     "scope": "class-level",
+     "mechanism": "MSK: 'Cyclosporine and mycophenolate mofetil: In a patient with end-stage kidney disease with a kidney transplantation, after adding CBD for pain. A drop in the levels of cyclosporine and mycophenolate mofetil levels was observed, thought to be via induction of CYP 3A4 and inhibition of hepatic esterase'. MSK adds: 'CBD was later discontinued.' Severity basis, and the reason this departs from the do-not-take rule used above: MSK does not list this in its patient-facing do-not-take list, but a fall in transplant immunosuppressant levels carries graft-rejection risk, so it is graded major on the clinical consequence. The limitations are that this is a single patient, that MSK attributes the exposure to CBD rather than to whole cannabis, that the mechanism is given as a supposition ('thought to be'), and that MSK reports no clinical outcome for the graft.",
+     "sourceIds": [
+      "msk-cannabis"
+     ]
+    },
+    {
+     "drugClass": "Buprenorphine",
+     "severity": "moderate",
+     "scope": "class-level",
+     "mechanism": "MSK: 'Buprenorphine: A retrospective study found that cannabis use decreased the formation of norbuprenorphine and elevated buprenorphine and norbuprenorphine levels in liver healthy individuals on opioid maintenance therapy substituted with buprenorphine. This interaction may lead to increased or altered opioid activity and risk of intoxication'. Severity basis: not in MSK's do-not-take list; a retrospective pharmacokinetic finding in liver-healthy individuals, with the clinical consequence stated by MSK as a possibility ('may lead to').",
+     "sourceIds": [
+      "msk-cannabis"
+     ]
+    },
+    {
+     "drugClass": "Citalopram and escitalopram",
+     "severity": "moderate",
+     "scope": "class-level",
+     "mechanism": "MSK: 'Citalopram/Escitalopram: CBD significantly elevated citalopram plasma concentrations in patients taking citalopram or escitalopram. But it is unclear whether this also increased SSRI-mediated adverse effects'. Severity basis: not in MSK's do-not-take list, and MSK itself states the clinical consequence is unclear.",
+     "sourceIds": [
+      "msk-cannabis"
+     ]
+    },
+    {
+     "drugClass": "Oxazepam and other UGT-glucuronidated drugs",
+     "severity": "moderate",
+     "scope": "class-level",
+     "mechanism": "MSK: 'Oxazepam: A study done in human microsomes found a strong inhibitory effect of major cannabinoids on the UGT-mediated glucuronidation of R,S-oxazepam metabolism'. MSK adds: 'Clinical relevance has yet to be determined.' Severity basis: not in MSK's do-not-take list; a human-microsome in vitro finding with clinical relevance undetermined by MSK's own statement, so no clinical magnitude is asserted here. It is carried rather than dropped because oxazepam is also a sedative, and MSK grades sedatives and hypnotics as do-not-take on a separate pharmacodynamic basis.",
+     "sourceIds": [
+      "msk-cannabis"
+     ]
+    },
+    {
+     "drugClass": "P-glycoprotein substrates",
+     "severity": "moderate",
+     "scope": "class-level",
+     "mechanism": "MSK: 'P-glycoprotein substrates: CBD inhibits P-glycoprotein and may influence metabolism of certain drugs'. MSK adds: 'Clinical relevance is not known.' Severity basis: not in MSK's do-not-take list, and MSK states the clinical relevance is not known; no magnitude is asserted here, and MSK names no specific substrate drug.",
+     "sourceIds": [
+      "msk-cannabis"
+     ]
+    },
+    {
+     "drugClass": "CYP2C19 and CYP2C9 substrates",
+     "severity": "moderate",
+     "scope": "class-level",
+     "mechanism": "MSK: 'Cytochrome P450 substrates: In vitro, CBD strongly inhibits CYP2C19 and CYP2C9. Clinical relevance is not known.' This is an in vitro finding for CBD; MSK states the clinical magnitude is not established, and this record does not assert one. Severity basis: not in MSK's do-not-take list; in vitro only.",
+     "sourceIds": [
+      "msk-cannabis"
+     ]
+    },
+    {
+     "drugClass": "CYP1A2 substrates",
+     "severity": "moderate",
+     "scope": "class-level",
+     "mechanism": "MSK: 'Cytochrome P450 substrates: Smoking cannabis induces CYP1A2, with additive effects when smoked together with tobacco, and can affect the intracellular concentration of drugs metabolized by this enzyme'. MSK attributes this induction to smoking; it does not report it for oral cannabis, and this record does not extend it to the oral route by which Bhanga is taken. Severity basis: not in MSK's do-not-take list, and route-limited by MSK's own wording.",
+     "sourceIds": [
+      "msk-cannabis"
+     ]
+    }
+   ],
+   "adverseEffects": [
+    {
+     "effect": "Adverse events reported in the only clinical study of the Bhanga preparation",
+     "frequency": "1 of 37 enrolled patients (one reported burning sensation and was dropped from the trial); the article otherwise states no adverse drug reactions were noted among the 24 completers over 4 weeks",
+     "scope": "preparation-specific",
+     "note": "The trial's own reporting is internally inconsistent and both parts are carried. Its adverse-reaction section states: 'No ADR were noted during the trial period. No withdrawal symptoms were noted after completion of trial.' The same paragraph then states: 'Patients (n=1) who reported burning sensation after TD administration were dropped out from trial.' The abstract's conclusion is that the preparation at that dose 'does not cause any major adverse effect and withdrawal symptoms during trial period'. Its earlier account of the dropouts gives different reasons and does not mention the burning sensation: 'Total 37 (100%) patients were enrolled in trial out of which 24 (64.86%) have completed treatment while 13 (35.14%) patients dropped out due to reasons such as conventional therapy settings and inconvenience in long distance travelling to reach trial center.' What this can and cannot support: an absence of recorded adverse drug reactions in 24 people who completed 4 weeks of an open-label, uncontrolled, single-centre trial is a very small negative. It cannot exclude uncommon harms, harms beyond 4 weeks, harms in the excluded groups, or harms in the 13 patients who did not complete. Pre- and post-treatment blood, urine, biochemistry and ECG investigations are described in the methods as done 'to check the safety aspects after 1 month of administration of trial drug', but no laboratory or ECG result is reported anywhere in the article, so this record cannot report that organ-function testing was normal.",
+     "sourceIds": [
+      "ayu-bhanga-trial"
+     ]
+    },
+    {
+     "effect": "Short-term effects",
+     "frequency": "No frequency, incidence or denominator is stated by MSK for any item in either list",
+     "scope": "class-level",
+     "note": "MSK's professional Adverse Reactions section: 'Short-term adverse effects following use of medical cannabinoids include dizziness, dry mouth, nausea, fatigue, somnolence, euphoria, vomiting, disorientation, drowsiness, confusion, loss of balance, and hallucination'. MSK's separate patient-facing section, 'What are the side effects?', gives an overlapping but not identical list: 'Drowsiness ... Restlessness ... Anxiety (strong feelings of worry or fear); Paranoia (intense thoughts or feelings that someone might try to harm you); Hallucinations ... Feeling hungry; Short-term memory loss; Euphoria ...; Trouble focusing; Changes in your blood pressure; Faster heart rate; Confusion; Nausea ...; Vomiting ...; Flushing ...; Depression ...; Insomnia'. Setting the two lists side by side: drowsiness, hallucinations, euphoria, confusion, nausea and vomiting appear in both; restlessness, anxiety, paranoia, feeling hungry, short-term memory loss, trouble focusing, changes in blood pressure, faster heart rate, flushing, depression and insomnia appear only in the patient-facing list; dizziness, dry mouth, fatigue, somnolence, disorientation and loss of balance appear only in the professional list. MSK does not label the patient-facing list as acute-use effects, and this record does not characterise it as one; MSK's heading is simply 'Side effects of taking cannabis products may include'. Anxiety also appears separately in MSK's withdrawal syndrome entry below.",
+     "sourceIds": [
+      "msk-cannabis"
+     ]
+    },
+    {
+     "effect": "Addiction and cannabis use disorder",
+     "frequency": "NCCIH: adolescents are four to seven times more likely than adults to develop cannabis use disorder; no absolute incidence is given by either source, and MSK lists 'Risk of addiction' with no frequency",
+     "scope": "class-level",
+     "note": "NCCIH: 'Some people who use cannabis develop cannabis use disorder, which has symptoms such as craving, withdrawal, lack of control, and negative effects on personal and professional responsibilities. Adolescents using cannabis are four to seven times more likely than adults to develop cannabis use disorder.' MSK's Adverse Reactions list includes 'Risk of addiction'. MSK's clinical summary adds that non-medical use is associated with 'high risk of addiction, especially when used from an early age' and with 'dependence'. The Bhanga trial reported no withdrawal symptoms after 4 weeks in 24 completers; that is a 4-week observation in a small uncontrolled sample and is not evidence that the preparation does not cause dependence with longer use.",
+     "sourceIds": [
+      "nccih-cannabis",
+      "msk-cannabis",
+      "ayu-bhanga-trial"
+     ]
+    },
+    {
+     "effect": "Withdrawal syndrome and psychotic episodes upon cessation",
+     "frequency": "No frequency stated by the source",
+     "scope": "class-level",
+     "note": "MSK: 'Withdrawal syndrome (irritability, sleeping difficulties, dysphoria, craving, and anxiety) and psychotic episodes upon cessation.' MSK attributes the psychotic episodes to cessation, not to ongoing use. MSK's clinical summary adds that withdrawal 'makes cessation tough, eventually leading to relapse'.",
+     "sourceIds": [
+      "msk-cannabis"
+     ]
+    },
+    {
+     "effect": "Serotonin syndrome",
+     "frequency": "One case, reported by MSK",
+     "scope": "class-level",
+     "note": "MSK: 'Serotonin syndrome: In a male, with a diagnosis of bipolar disorder managed with fluoxetine, melatonin, and lithium, following use of THC vape pen'. Limitations carried with it: a single case, in a patient on three concurrent psychotropic drugs, with the cannabis exposure by THC vape pen rather than by ingestion. MSK gives no age, no dose and no outcome.",
+     "sourceIds": [
+      "msk-cannabis"
+     ]
+    },
+    {
+     "effect": "Catatonia requiring electroconvulsive therapy",
+     "frequency": "No frequency stated by the source; MSK cites three references for this item",
+     "scope": "class-level",
+     "note": "MSK: 'Catatonia: Associated with cannabis use necessitating electroconvulsive therapy (ECT)'.",
+     "sourceIds": [
+      "msk-cannabis"
+     ]
+    },
+    {
+     "effect": "Acute toxic hippocampal encephalopathy",
+     "frequency": "One case, reported by MSK",
+     "scope": "class-level",
+     "note": "MSK: 'Acute toxic hippocampal encephalopathy: In a male, associated with cannabis use'. MSK gives no age, no dose, no route and no outcome, and states the relationship as an association in one case.",
+     "sourceIds": [
+      "msk-cannabis"
+     ]
+    },
+    {
+     "effect": "Cardiac and cerebrovascular events: myocardial infarction, sudden cardiac death, cardiomyopathy, stroke, transient ischemic attack, cannabis arteritis, life-threatening dysrhythmia, acute coronary syndrome and chronic cardiovascular disease",
+     "frequency": "MSK describes the dysrhythmia as 'rare, but life-threatening'; no incidence figure is given for any item",
+     "scope": "class-level",
+     "note": "MSK states two things separately. Route-attributed: 'Inhalation is associated with myocardial infarction, sudden cardiac death, cardiomyopathy, stroke, transient ischemic attack, and cannabis arteritis'. Not route-attributed: 'Cannabis use has been associated with increased risk of rare, but life-threatening cardiac dysrhythmia ... as well as both acute coronary syndrome and chronic cardiovascular disease'. MSK reports no comparison of routes and no finding that oral use is free of the inhalation-associated events, so the inhalation attribution is recorded as the source's wording and is not used to narrow the cardiac warning. The Bhanga preparation is given orally in capsules, and the cardiac contraindication above applies to that route.",
+     "sourceIds": [
+      "msk-cannabis",
+      "ayu-bhanga-trial"
+     ]
+    },
+    {
+     "effect": "Non-ischaemic cardiomyopathy with cardioembolism, radial artery thrombosis and gangrene requiring amputation",
+     "frequency": "One case, reported by MSK",
+     "scope": "class-level",
+     "note": "MSK, quoted in full: 'Non-ischaemic cardiomyopathy and cardioembolism: In a recreational cannabis + tobacco smoker. He also developed gangrene in his left forearm as a result of left radial artery thrombosis. The patient was managed in the line of decompensated heart failure, with the right-hand gangrene requiring amputation'. Two limitations are carried. The patient was a cannabis and tobacco smoker, so the exposure is confounded by tobacco and the route was inhalation. MSK's own text is internally inconsistent about which limb was affected, naming the left forearm and left radial artery and then the right hand as the site requiring amputation; the wording is reproduced as written and is not reconciled here.",
+     "sourceIds": [
+      "msk-cannabis"
+     ]
+    },
+    {
+     "effect": "Cannabis hyperemesis syndrome, and recurrent severe vomiting",
+     "frequency": "MSK: cyclic attacks of nausea and vomiting in chronic cannabinoid users, attributed to two deaths",
+     "scope": "class-level",
+     "note": "MSK: 'Cannabis hyperemesis syndrome (CHS), characterized by cyclic attacks of nausea and vomiting in chronic cannabinoid users, has been attributed to two deaths. In another case series, four patients were reported to experience relief from CHS following administration of benzodiazepines.' The second sentence is MSK's own follow-on and is carried so the entry is not truncated; it concerns management of the syndrome and is not an efficacy statement about cannabis. NCCIH does not name the syndrome; it states separately: 'Some long-term users of high doses of cannabis have developed a condition involving recurrent severe vomiting.' NCCIH does not define high dose or long-term.",
+     "sourceIds": [
+      "msk-cannabis",
+      "nccih-cannabis"
+     ]
+    },
+    {
+     "effect": "Chronic bronchitis in regular users, and pneumothorax",
+     "frequency": "No frequency stated by the source; MSK's bronchitis item is a comparison of regular users with non-users",
+     "scope": "class-level",
+     "note": "MSK: 'Chronic bronchitis in regular users of cannabis products compared to non-users'; 'Pneumothorax: Associated with cannabis use'. MSK does not state a route for either item. Both are respiratory events that in practice attach to smoked use, but MSK does not say so and this record does not add a route attribution the source does not make.",
+     "sourceIds": [
+      "msk-cannabis"
+     ]
+    },
+    {
+     "effect": "Memory effects and effects on the developing brain",
+     "frequency": "No frequency stated by the source",
+     "scope": "class-level",
+     "note": "MSK's patient-facing side-effect list includes 'Short-term memory loss', MSK states 'Cannabis use was also reported to elevate the risk of creating false memories', and 'Long-term cannabis use was shown to be detrimental to functional connectivity in the developing brain'. MSK's statements about cognitive impairment, psychosis and suicidal ideation belong to SYNTHETIC cannabinoid drugs, which MSK says 'cause more serious adverse effects compared to natural cannabis'; those must not be carried to Cannabis sativa herb, and are not carried here.",
+     "sourceIds": [
+      "msk-cannabis"
+     ]
+    },
+    {
+     "effect": "Orthostatic hypotension with risk of fainting and falls",
+     "frequency": "No frequency stated by the source",
+     "scope": "class-level",
+     "note": "NCCIH: 'Marijuana may cause orthostatic hypotension (head rush or dizziness on standing up), possibly raising danger from fainting and falls.'",
+     "sourceIds": [
+      "nccih-cannabis"
+     ]
+    },
+    {
+     "effect": "CBD-specific effects: decreased alertness, mood changes, decreased appetite, diarrhoea, liver injury, extreme sleepiness and male reproductive harm",
+     "frequency": "No frequency stated by either source; NCCIH states the liver-function and related effects 'were observed in some of the people who participated in studies of Epidiolex before its approval as a drug'",
+     "scope": "class-level",
+     "note": "NCCIH: 'CBD may have side effects, including decreases in alertness, changes in mood, decreased appetite, and gastrointestinal symptoms such as diarrhea. CBD may also produce psychotic effects or cognitive impairment in people who also regularly use THC. In addition, CBD use has been associated with liver injury, male reproductive harm, and interactions with other drugs.' NCCIH adds that 'Some side effects, such as diarrhea, sleepiness, abnormalities on tests of liver function, and drug interactions, appear to be due to CBD itself rather than contaminants in CBD products; these effects were observed in some of the people who participated in studies of Epidiolex before its approval as a drug'. FDA lists, 'Based on clinical studies in humans', risks that 'can include the following: liver toxicity (damage), extreme sleepiness, harmful interactions with other drugs'. These are findings about CBD; no cited source reports the cannabidiol content of the Bhanga preparation, and this record does not estimate one.",
+     "sourceIds": [
+      "nccih-cannabis",
+      "fda-cannabis-preg"
+     ]
+    },
+    {
+     "effect": "Product contamination and label inaccuracy",
+     "frequency": "No frequency or proportion of products is stated by either source",
+     "scope": "class-level",
+     "note": "NCCIH: 'There have been reports of contamination of cannabis/cannabinoid products with microorganisms, pesticides, or other substances.' NCCIH separately: 'Some cannabis/cannabinoid products contain amounts of cannabinoids that differ substantially from what's stated on their labels.' NCCIH on CBD specifically: 'over-the-counter CBD products may contain more or less CBD than stated on their labels, and because of less rigorous regulatory oversight than prescription drugs, they may also contain contaminants, such as THC.' FDA: 'We have also heard reports of CBD potentially containing other contaminants (e.g., pesticides, heavy metals, bacteria, and fungus); we are investigating this.' FDA's wording is that it has heard reports and is investigating, not that contamination has been confirmed at any rate. No cited source reports an elemental or microbiological analysis of the Bhanga preparation, and none is claimed here. LactMed adds, for street sources, 'the possibility of other harmful contaminants in street drugs'.",
+     "sourceIds": [
+      "nccih-cannabis",
+      "fda-cannabis-preg",
+      "lactmed-cannabis"
+     ]
+    },
+    {
+     "effect": "Serious lung injury linked to THC-containing vaping products",
+     "frequency": "NCCIH: 'many of the reported cases'; no number is given",
+     "scope": "class-level",
+     "note": "NCCIH: 'The FDA has warned the public not to use vaping products that contain THC. Products of this type have been implicated in many of the reported cases of serious lung injuries linked to vaping.' Carried for completeness because it appears in the safety list this record draws from, and marked route-specific: it concerns vaping products, not an ingested leaf powder, and is not evidence about oral Bhanga.",
+     "sourceIds": [
+      "nccih-cannabis"
+     ]
+    },
+    {
+     "effect": "Effects in the breastfed infant",
+     "frequency": "One matched cohort of 68 exposed and 68 control infants, plus individual case reports; no incidence rate is given",
+     "scope": "class-level",
+     "note": "These are separate bodies of evidence, not one study. Cohort: 68 infants whose mothers reported smoking marijuana during breastfeeding were compared with 68 matched control infants; the duration of breastfeeding varied, but the majority were breastfed for 3 months and received less than 16 fluid ounces of formula daily. LactMed's finding in full: 'Motor development of the marijuana-exposed infants was slightly reduced in a dose-dependent (i.e., number of reported joints per week) manner at 1 year of age, especially among those who reported smoking marijuana on more than 15 days per month during the first month of lactation. No effect was found on mental development.' The dose metric is reported joints per week and the heavier-use subgroup is defined by the first month of lactation. A smaller earlier study is carried alongside it so the cohort is not presented alone: of 27 mothers who reported smoking marijuana during breastfeeding, six of their infants were compared at 1 year with infants of mothers who did not smoke during pregnancy or breastfeeding, and 'No differences were found in growth, or on mental and motor development.' Case reports: 'A 6-month-old infant was exclusively breastfed by a mother who was a chronic cannabis user. She presented to the emergency department with somnolence after falling off a couch and developing seizure-like activity and minimally responsive dilated pupils. Laboratory values and a head CT scan were normal except for carboxy-THC found in urine and blood. The infant returned to baseline in 72 hours.' A 9-month-old girl was hospitalised for a first tonic-clonic seizure with THC and metabolites in her blood, her mother having smoked about 5 cannabis resin joints daily since the child was 4 months old, sometimes just before breastfeeding; LactMed's own caveat is carried: 'The infant's symptoms were probably caused by cannabis, but direct exposure to cannabis smoke and diazepam and tobacco use could have contributed.' Route-matched to an ingested preparation: 'The infant of a woman who used cannabis edibles for anxiety during pregnancy and during breastfeeding had several episodes of apnea. At 1 week of age while undergoing treatment for a urinary tract infection, the infant required intubation because of apneic episodes. At 5 weeks of age, the mother noticed the infant was having irregular breathing and apneic episodes and took the infant to the hospital. There the infant was having more apneic episodes and had urine positive for THC, although the mother reported not using cannabis for the prior 3 days.' That infant was also exposed in utero and was being treated for infection, so the exposure is not isolated.",
+     "sourceIds": [
+      "lactmed-cannabis"
+     ]
+    },
+    {
+     "effect": "Possible increased risk of autism spectrum disorder after postnatal cannabis use",
+     "frequency": "A large registry study in Australia and New Zealand; LactMed gives no sample size and no effect size",
+     "scope": "class-level",
+     "note": "LactMed, with its caveat attached in the same breath: 'A large registry study in Australia and New Zealand suggested that postnatal use of cannabis may increase the risk of autism spectrum disorder, with male infants affected to a greater extent than female infants. However, no information on the breastfeeding status of the mothers was presented.' Because breastfeeding status was not reported, this study does not establish that the exposure route was breastmilk. It is carried, with that caveat, rather than dropped.",
+     "sourceIds": [
+      "lactmed-cannabis"
+     ]
+    },
+    {
+     "effect": "Changes in breastmilk composition and milk supply",
+     "frequency": "One preliminary study of secretory IgA in 14 women, two studies of milk lipid content, and survey data on breastfeeding duration",
+     "scope": "class-level",
+     "note": "LactMed's summary: 'One preliminary study found a decrease in secretory IgA (sIgA) levels in the milk of cannabis users. Two studies found decreases in the lipid content of milk, but they had opposite findings on the effects on protein and carbohydrate content. The clinical relevance of these changes is questionable.' That final sentence is LactMed's own and is carried with the findings. The sIgA result is qualified further in LactMed's detailed section: among 14 women who used cannabis postpartum by inhalation, 'The milk of cannabis users had lower levels of sIgA relative to non-users; however, when adjusted for BMI, there was no difference in sIgA levels between the groups.' On supply, LactMed states: 'Cannabis can affect serum prolactin variably and it might decrease milk supply and the duration of lactation.' In the same 14-woman study, 'Cannabis-using mothers reported lower levels of milk production in the first, second, fourth, and sixth weeks postpartum, compared to non-users.' A Colorado cross-sectional survey found both prenatal and postnatal cannabis use associated with shorter breastfeeding duration, with 58% of women reporting postpartum cannabis use breastfeeding for 9 or more weeks compared with 79% of women who did not, a statistically significant difference. The countervailing evidence is carried too: in an online survey of 1516 mothers who used cannabis during lactation, 'Most mothers (85.8%) reported no changes in their milk supply when using cannabis compared to when they were not using it', and a separate biorepository comparison of 165 exposed and 472 unexposed samples found higher protein and carbohydrate levels in the exposed milk with fat and energy content not significantly different between the groups. LactMed also notes a confounder for the shorter-duration findings: in a 4969-woman database study, marijuana users were more likely to smoke cigarettes, and 'Tobacco smoking is known to decrease the duration of breastfeeding, so the effect of marijuana is not clear.'",
+     "sourceIds": [
+      "lactmed-cannabis"
+     ]
+    }
+   ],
+   "doseLimits": {
+    "text": "Human oral dose, from the only clinical study of a named Bhanga preparation. No animal dose is reported or substituted anywhere in this field. The trial administered Jalaprakshalana (water-wash) Shodhita Bhanga as a leaf powder in size 0 capsules, 250 mg three times a day at 9 am, 3 pm and 9 pm, orally, with 50 ml of cow's milk mixed with 4 g of crystal sugar as an adjuvant, for 4 weeks, in adults aged 18 to 70 with cancer. That is 750 mg of powder per day. The trial states its basis for the unit dose: 'Recommended dose of water-wash processed cannabis leaves as per Ayurvedic pharmacopoeia of India is 250 mg'. That sentence is the trial's citation of the Ayurvedic Pharmacopoeia of India; the pharmacopoeial text itself could not be read on a permitted host on 2026-09-11, because pharmacopoeia.gov.in and www.pharmacopoeia.gov.in did not resolve (DNS NXDOMAIN, curl exit code 6), so the API figure is reported here only as quoted by the trial and not as verified against the monograph. What this dose is and is not: it is the amount given in one open-label, single-arm, uncontrolled 4-week study in which 37 patients enrolled and 24 completed. It is not a maximum, not a ceiling, not a tested-safe dose and not a dose for any group the trial excluded (pregnant or breastfeeding women, people with uncontrolled hypertension or diabetes, cardiac, pulmonary, hepatic or renal dysfunction, HIV/VDRL, and anyone outside 18-70). No cited source states a maximum daily quantity, a maximum duration, or a cumulative limit for Bhanga, and none states a dose for cannabis generally: the MSKCC About Herbs cannabis page has a 'Dosage' heading whose content is marked 'OneMSK Only' and carries no public text, and the NCCIH, FDA and LactMed pages state no dose. The dose above is specific to the water-wash Shodhita form; no source located gives a dose for Bhanga processed by the other Shodhana methods described in the Sodhana review, or for unprocessed Bhanga. Regulatory status: this record states INSUFFICIENT DATA on the Indian regulatory position of Bhanga. Two Ministry of Ayush documents were requested directly on 2026-09-11 and returned no content (https://ayush.gov.in/resources/pdf/quality_standards/Drugs-and-Cosmetics-Act-Rules.pdf returned HTTP 404; https://www.ayush.gov.in/docs/guideline_safety_toxicity.pdf returned HTTP 403), so the gazetted Schedule E(1) text could not be read on a permitted host, and no claim about Schedule E(1), Rule 161(2) or prescription-only status is made here. This is a statement about what could and could not be retrieved in this session, not a finding that no such rule exists. The trial notes for context that its drug was procured 'after taking due approval of the state excise authority' and that the study was registered as CTRI/2016/02/006658. Because no ceiling is established, the psychiatric, cardiac, renal, hepatic, respiratory, paediatric-ingestion and dependence hazards recorded above apply to internal use at any quantity.",
+    "scope": "preparation-specific",
+    "sourceIds": [
+     "ayu-bhanga-trial",
+     "sodhana-review",
+     "msk-cannabis"
+    ]
+   },
+   "pregnancy": {
+    "status": "avoid",
+    "scope": "class-level",
+    "note": "FDA states: 'FDA strongly advises against the use of cannabidiol (CBD), tetrahydrocannabinol (THC), and marijuana in any form during pregnancy or while breastfeeding.' FDA cites the Surgeon General: 'The U.S. Surgeon General recently advised consumers that marijuana use during pregnancy may affect fetal brain development, because THC can enter the fetal brain from the mother's bloodstream.' FDA reports that 'marijuana may increase the risk of a newborn with low birth weight. Research also suggests increased risk for premature birth and potentially stillbirth.' FDA further states that 'High doses of CBD in pregnant test animals have caused problems with the reproductive system of developing male fetuses': this is an animal finding, FDA gives no species, no per-kg dose and no human-equivalent dose for it, so it cannot be read as a human dose or a human threshold, and no animal dose is carried into the dose field of this record. FDA also states: 'We also know that there is a potential for CBD products to be contaminated with substances that may pose a risk to the fetus or breastfed baby, including THC.' FDA states the limitation that 'There is no comprehensive research studying the effects of CBD on the developing fetus, pregnant mother, or breastfed baby.', so absence of documented harm is not evidence of safety. NCCIH states separately: 'Smoking cannabis during pregnancy has been linked to lower birth weight.' Preparation-specific note, kept separate from the class-level basis above: the only clinical study of a Bhanga preparation excluded pregnant women, so it provides no pregnancy safety data, and the Sodhana review lists 'abortifacient' among the classical attributions for Cannabis sativa leaves, an attribution the review reports without any supporting chemical, animal or clinical data.",
+    "sourceIds": [
+     "fda-cannabis-preg",
+     "nccih-cannabis",
+     "ayu-bhanga-trial",
+     "sodhana-review"
+    ]
+   },
+   "lactation": {
+    "status": "avoid",
+    "scope": "class-level",
+    "note": "LactMed states that THC 'is excreted into breastmilk in small quantities' and that 'The duration of detection of THC in milk has ranged from 6 days to greater than 6 weeks in various studies'; FDA's figure is that 'breastmilk can contain THC for up to six days after use', and FDA adds that 'This THC may affect a newborn's brain development and result in hyperactivity, poor cognitive function, and other long-term consequences.' LactMed: 'A 1-year study found that daily or near daily use might retard the breastfed infant's motor development, but not growth or intellectual development.' LactMed's balancing finding is carried with both of its own caveats: 'This and other studies found that occasional maternal cannabis use during breastfeeding did not have any discernable effects on breastfed infants, but the studies were inadequate to rule out all long-term harm and were conducted at a time when cannabis had relatively low potency.' LactMed also reports the Australia and New Zealand registry suggestion of increased autism spectrum disorder risk from postnatal use, with male infants affected more than female, and its caveat that 'no information on the breastfeeding status of the mothers was presented'; the sIgA and milk-lipid findings and LactMed's judgement that 'The clinical relevance of these changes is questionable'; and 'Cannabis can affect serum prolactin variably and it might decrease milk supply and the duration of lactation.' On hormones, LactMed's finding is limited both in exposure and in population: 'Acute one-time marijuana smoking suppresses serum concentrations of luteinizing hormone and prolactin in nonpregnant, nonlactating women.' That is a single-occasion result obtained in nonpregnant, nonlactating women; it is not a repeated-use result and not a result in lactating women, and LactMed adds that 'The effects of long-term use is unclear, with some studies finding no effect on serum prolactin', that 'hyperprolactinemia has been reported in some chronic cannabis users', and that 'The prolactin level in a mother with established lactation may not affect her ability to breastfeed.' LactMed records that 'In general, professional guidelines recommend that cannabis use should be avoided by nursing mothers, and nursing mothers should be informed of possible adverse effects on infant development from exposure to cannabis compounds in breastmilk.' LactMed lists three further considerations that are carried rather than dropped: 'the possibility of positive urine tests in breastfed infants, which might have legal implications, and the possibility of other harmful contaminants in street drugs'; 'paternal cannabis use may also increase the risk of sudden infant death syndrome in breastfed infants'; and 'Cannabis should not be smoked by anyone in the vicinity of infants because the infants may be exposed by inhaling the smoke.' Almost all of LactMed's human data concern smoked cannabis, so the milk concentration figures it reports are not transferable to an oral leaf powder; LactMed does note that among 20 mothers studied, 'Three patients using edible products had similar cannabinoid levels as those who smoked cannabis'. Preparation-specific note, kept separate from the class-level basis above: the only clinical study of a Bhanga preparation excluded breastfeeding women and provides no lactation data.",
+    "sourceIds": [
+     "lactmed-cannabis",
+     "fda-cannabis-preg",
+     "ayu-bhanga-trial"
+    ]
+   },
+   "title": "Bhanga",
+   "sourceClass": "regulatory"
+  },
+  "mrigashringa-bhasma": {
+   "slug": "mrigashringa-bhasma",
+   "botanical": "Animal-origin preparation: calcined deer horn/antler (mriga shringa), a cervid (deer family) tissue product; no botanical source. Pal et al. record that animal derivatives such as horns, shells and feathers are normally administered as bhasma.",
+   "insufficientData": true,
+   "insufficientReason": "No preparation-specific safety data for Mrigashringa Bhasma was located in the permitted sources. PubMed, PMC and targeted web searches for 'mrigashringa', 'mrigashringa bhasma', 'mriga shringa', 'shringa bhasma', 'sringa bhasma', 'shrunga bhasma' and 'deer horn bhasma' returned no clinical trial, case report, acute or repeated-dose toxicology study, dose-finding study, pregnancy or lactation study, and no drug-interaction study for this preparation, and no elemental or heavy-metal assay result that could be read. One preparation-specific journal record was located: Rajasekaran and Murugesan, 'Stansardisation of Sringa Bhasma', Ancient Science of Life 2002;21(3):167-169 (PMC3331042, PMID 22557047). Only its abstract was retrievable in this environment; the abstract states that physico-chemical studies and thin layer chromatography were worked out to lay down standards, and it reports no toxicological, elemental, heavy-metal or clinical safety finding. The full text is offered on that host only as a PDF that could not be retrieved here, so no parameter value from it is quoted and it is cited below solely as evidence of what does and does not exist in the literature, never as a safety finding. Nothing was found in LiverTox/NCBI Bookshelf, MedlinePlus, NCCIH, MSK About Herbs, FDA or EMA. The Ministry of Ayush site resolves and was searched: ayush.gov.in returns HTTP 200 and serves its pharmacopoeial material, and no Ayurvedic Pharmacopoeia of India or Ayurvedic Formulary monograph for Shringa, Sringa or Mrigashringa Bhasma was located there. pharmacopoeia.gov.in does not resolve from this environment (NXDOMAIN), so the Indian Pharmacopoeia Commission site could not be checked at all. No pharmacopoeial monograph and no official human dose is therefore cited, and none is stated below. The only identification of the substance located in a full text is a table entry in a peer-reviewed Chyawanprash review, which names it as Shringa Bhasma and describes only its identity and chemical nature; that review performed no toxicological, elemental or heavy-metal analysis of this ingredient, and nothing in it may be read as a safety finding. Everything recorded below is therefore either identity information, a class-level finding about marketed Ayurvedic metallic and mineral preparations, or a biological-source hazard inherent to cervid tissue. None of it is a finding about this preparation as manufactured and sold, and no supplier-specific assay exists for any batch.",
+   "heavyMetals": {
+    "scope": "class-level",
+    "text": "By its stated composition Mrigashringa Bhasma is not a metal-based bhasma. A peer-reviewed review of Chyawanprash constituents identifies Shringa Bhasma as an Ayurvedic nanosized preparation of calcined deer horn whose nature of compound is calcium phosphate; that review reports no elemental analysis, no toxicology and no heavy-metal assay for this ingredient, and its only toxicity statement concerns the complete Chyawanprash formulation, not this constituent. No elemental or heavy-metal result for Mrigashringa Bhasma itself was retrievable from any permitted source: the single preparation-specific journal record located, a 2002 standardisation note on Sringa Bhasma by Rajasekaran and Murugesan, was readable here only as an abstract, and that abstract reports physico-chemical and thin layer chromatography standardisation parameters and no elemental, heavy-metal or toxicological result. Nothing can therefore be said about the lead, mercury or arsenic content of any marketed product, and stated composition is not an assay. Class-level findings for marketed bhasmas remain directly relevant. Saper and colleagues analysed 193 Ayurvedic medicines purchased over the internet and found detectable lead, mercury or arsenic in 20.7 percent (95 percent CI 15.2 to 27.1), with rasa shastra preparations at 40.6 percent versus 17.1 percent for non-rasa shastra products; median lead was 11.5 versus 7.0 microgram/g and median mercury 20,800 versus 34.5 microgram/g, and the authors state that all metal-containing products exceeded one or more standards for acceptable daily intake of toxic metals. The authors attach their own caveat to that exceedance statement, and it must be read with it: wide variation among published standards for acceptable limits of daily metal ingestion makes it difficult to assess the magnitude of potential toxicity for different products. That caveat is one of the items in the paper's own limitations paragraph. The limitations Saper and colleagues state in that paragraph include, in their order, the following five. First, potential misclassification of the product's country of manufacture and rasa shastra status, because information provided by the website, label and/or manufacturer was occasionally contradictory or ambiguous; the authors add that this limitation does not affect the overall prevalence of metals in the sampled medicines and that any misclassification would have been nondifferential. Second, unobtainable products were not random and may have had a higher or lower likelihood of containing metals, thus potentially affecting the overall sample prevalence. Third, the authors did not assess batch-to-batch variability in metal concentrations, though they add that this would likely not significantly alter overall prevalence estimates. Fourth, the standards-variation caveat stated above, which the authors place in this same paragraph. Fifth, the authors did not ascertain the specific physical form or chemical species of the metals; they add that to the best of their knowledge the physico-chemical form of metals in rasa shastra medicines and their bioavailability have not been fully characterised or reported, that they are unaware of rigorous evidence supporting claims that bhasmas made using lead, mercury and arsenic are nontoxic, and that documented case reports of poisonings contradict these theories. Stated separately from that enumerated paragraph, and load-bearing for any class-level inference drawn from this study, the authors write that products in their study can be purchased via the internet without consultation from an Ayurvedic practitioner, and that thus their results may not reflect products recommended or provided by individual Ayurvedic practitioners to patients in the context of a patient-practitioner consultation. Mikulski and colleagues, in a public health lead-poisoning cluster investigation, tested 252 Ayurvedic medicine samples and detected lead in 65 percent (164), mercury in 38.5 percent (97) and arsenic in 32.5 percent (82); median lead was 4.9 mg/kg with a maximum of 43,200 mg/kg, median mercury 53.0 mg/kg with a maximum of 279,000 mg/kg, and median arsenic 8.4 mg/kg with a maximum of 44,800 mg/kg. Among contaminated samples, 35.8 percent exceeded the recommended limit for lead, 49.5 percent for mercury and 39.5 percent for arsenic, in some cases by several thousand times, and the authors conclude that the lack of regulation of manufacturing, content and purity poses a significant global public health problem. Mikulski's stated limitation is that no metals speciation analysis was performed. The FDA states that some Ayurvedic products include heavy metals such as lead, mercury, arsenic, iron and zinc, that these products typically are not labelled to contain them, and that adults and children can become very sick when heavy metals accumulate over time while large acute ingestions can be life-threatening. NCCIH states that some Ayurvedic preparations may contain lead, mercury or arsenic in amounts that can be toxic, and reports a 2015 survey in which about one in four supplements tested had high levels of lead and almost half had high levels of mercury, with 40 percent of users showing elevated blood lead. WHO states that there is no level of exposure to lead that is known to be without harmful effects.",
+    "sourceIds": [
+     "sharma2019cp",
+     "rajasekaran2002",
+     "saper2008",
+     "mikulski2018",
+     "fda2025",
+     "nccih",
+     "who2025lead"
+    ]
+   },
+   "adverseEffects": [
+    {
+     "scope": "class-level",
+     "effect": "Not established for this preparation. No case report, trial or toxicology study of Mrigashringa Bhasma was located, so the absence of reports is an absence of data and must not be read as evidence of safety.",
+     "frequency": "unknown",
+     "note": "Documented harm exists at the level of the marketed Ayurvedic metallic and mineral class to which bhasmas belong, not for this preparation. CDC investigators documented lead poisoning in six pregnant women in New York City during 2011 to 2012 associated with ten oral Ayurvedic medications made in India, with blood lead levels of 16 to 64 microgram/dL and medication lead concentrations as high as 2.4 percent; several of those medications also contained mercury or arsenic. FDA warns of heavy metal poisoning from unapproved Ayurvedic drug products. Separately, and independent of any metal content, cervid tissue carries a biological-source hazard described under contraindications below.",
+     "sourceIds": [
+      "cdc2012",
+      "fda2025"
+     ]
+    }
+   ],
+   "contraindications": [
+    {
+     "condition": "Pregnancy",
+     "severity": "contraindicated",
+     "scope": "class-level",
+     "note": "No data specific to Mrigashringa Bhasma exists. This grading rests on class-level documented exposure, not on theory. CDC investigators documented lead poisoning in six pregnant women who used oral Ayurvedic medications manufactured in India, with blood lead levels of 16 to 64 microgram/dL, medication lead concentrations up to 2.4 percent, and mercury or arsenic present in several of the products; fetal lead exposure can adversely affect neurodevelopment, decrease fetal growth and increase the risk of premature birth and miscarriage. WHO states that there is no level of exposure to lead that is known to be without harmful effects and that lead stored in bone is released into blood during pregnancy and becomes a source of exposure to the developing fetus. Because the lead, mercury and arsenic content of any marketed bhasma is unverified and typically undisclosed on the label, and because these are developmental neurotoxicants with no established safe exposure level, use in pregnancy should be avoided rather than merely supervised. NCCIH advises consulting a health care provider before using Ayurvedic products while pregnant or nursing.",
+     "sourceIds": [
+      "cdc2012",
+      "who2025lead",
+      "nccih",
+      "fda2025"
+     ]
+    },
+    {
+     "condition": "Breastfeeding",
+     "severity": "contraindicated",
+     "scope": "class-level",
+     "note": "No lactation data specific to Mrigashringa Bhasma exists. FDA states that if a mother has heavy metals in her body, the metals may enter her breast milk and be passed onto the baby during breastfeeding. Combined with the unverified and typically undisclosed metal content of marketed bhasmas and WHO's statement that no level of lead exposure is known to be without harmful effects, the appropriate grading is avoidance.",
+     "sourceIds": [
+      "fda2025",
+      "who2025lead",
+      "nccih"
+     ]
+    },
+    {
+     "condition": "Infants, children and adolescents",
+     "severity": "contraindicated",
+     "scope": "class-level",
+     "note": "WHO states that lead can permanently affect children's brain development, resulting in reduced IQ and behavioural changes including reduced attention span and increased antisocial behaviour, and that no level of lead exposure is known to be without harmful effects. FDA states that children can become very sick when heavy metals accumulate in their bodies over time and that large acute ingestions can be life-threatening. No paediatric data for this preparation exists.",
+     "sourceIds": [
+      "who2025lead",
+      "fda2025"
+     ]
+    },
+    {
+     "condition": "Cervid-derived material: prion (chronic wasting disease) exposure hazard",
+     "severity": "contraindicated",
+     "scope": "class-level",
+     "note": "This preparation is made from deer antler, a cervid tissue, so it carries a biological-source hazard that is unrelated to metal content and is not covered by any heavy-metal entry. It is graded at the same top tier as the class-level heavy-metal entries above, and deliberately not below the animal-source disclosure entry that follows: the probability is unquantified, but the disease at issue is untreatable and invariably fatal in the species it affects, and nothing in this record may be read as ranking a disclosure and consent matter above it. Angers and colleagues detected CWD prions in antler velvet of naturally CWD-affected elk using CWD-susceptible transgenic mice and serial protein misfolding cyclic amplification. Direct assays failed: the authors state that Western blot, ELISA and immunohistochemical analyses failed to detect PrPSc in antler velvet samples from 14 CWD-affected elk, including the 4 samples analysed by bioassay, and that it was only after those failures that they attempted to amplify PrPSc by serial PMCA. Prion in velvet was therefore below the sensitivity of direct detection and was recoverable only by amplification or animal bioassay, and no source should be read as reporting a direct positive Western blot in velvet. Those authors state that humans who consume antler velvet as a nutritional supplement are at risk for exposure to prions. The same paper's discussion of human susceptibility runs in both directions, and both halves are carried here. On the side the paper itself calls reassuring: the authors state that fortunately, to date there is no epidemiologic evidence that rates of CJD in the CWD-endemic region (Colorado, USA) have increased, that also reassuring is the inefficient in vitro conversion of human PrP to protease-resistant PrP by CWD, and that two studies have shown that CWD prions failed to induce disease in transgenic mice expressing human PrP. The paper labels those findings reassurance, and this record does not restate them as uncertainty. The authors then qualify them: the failure of BSE to be transmitted to transgenic mice expressing human prion protein was cited as early evidence of a BSE transmission barrier in humans, and subsequent studies demonstrated a strong effect of the codon 129 polymorphism on transmissibility of BSE prions, and to date only mice expressing human PrP with methionine at codon 129 have been challenged with CWD. On the adverse side, the same passage states that in support of the argument that humans might be susceptible to CWD, intracerebral inoculation of squirrel monkeys produced disease after more than 30 months. That is a completed cross-species transmission of CWD to a primate and is reported here as such; the record notes as its own reading, not as the paper's statement, that the route reported there is intracerebral inoculation rather than ingestion. Their finding is in antler velvet specifically; no source located establishes whether hardened antler used for calcination carries infectivity, and no study of prions in any bhasma exists. Pritzkow reports CWD in 30 US states, four Canadian provinces, South Korea, Norway, Sweden and Finland, that up to now there has not been any evidence that CWD has been naturally transmitted to humans and that epidemiological studies found no correlation between human TSE incidence and CWD prevalence or deer meat consumption, but also that CWD PrPSc can convert human PrPC in vitro under certain conditions and that the zoonotic potential of CWD remains a dangerous enigma. Heating does not reliably resolve this. Sakudo and colleagues state that common sterilization methods used for bacteria and viruses, including high-pressure steam sterilization at 121 degrees C for 20 minutes, ultraviolet irradiation, formalin fixation and gamma irradiation, are insufficient to eliminate the infectivity of prions, and that prions may remain infectious even after sterilization. Brown and colleagues ashed scrapie-infected hamster brain and reported three separate arms at 600 degrees C, which must not be merged: fresh tissue ashed for 5 minutes transmitted to none of 15 hamsters (0/15); fresh tissue ashed for 15 minutes transmitted to 5 of 18 (5/18); and formalin-fixed tissue ashed for 5 minutes transmitted to 1 of 24 (1/24). Fresh tissue ashed at 1,000 degrees C for 5 minutes gave no transmissions (0/17). The starting material was highly concentrated: unheated brain tissue had an infectivity titre of 8.4 log10 LD50 per 0.03 mL of inoculum, equal to 9.9 log10 LD50 per gram of tissue, so the surviving transmissions represent trace residual infectivity from a very high initial titre. The authors note that the 263K strain used ranks among the most resistant strains studied in comparative testing, and that they assayed only the ashed residue for infectivity and not the combustion emissions. The model is hamster-adapted scrapie, not CWD in cervids, and no such ashing experiment has been done on antler. Bhasma calcination is performed by repeated puta heating cycles; Pal and colleagues report one preparation, Naga Bhasma, heated in an electric furnace at 600 degrees C and give no temperatures for most others, so it cannot be assumed that any given manufacturing process reaches conditions that inactivate prions. No manufacturer disclosure of cervid species, country of origin or CWD surveillance status was located for any marketed Mrigashringa Bhasma. The honest statement is that the residual risk is unquantified, not that it is zero.",
+     "sourceIds": [
+      "angers2009",
+      "pritzkow2022",
+      "sakudo2022",
+      "brown2000",
+      "pal2014"
+     ]
+    },
+    {
+     "condition": "Dietary, religious or ethical avoidance of animal-derived products",
+     "severity": "contraindicated",
+     "scope": "class-level",
+     "note": "This is a disclosure and consent matter rather than a toxicological one, and it is absolute for the people it applies to; it is graded at the same tier as the hazards above and is not to be read as outranking them. The preparation is calcined deer horn, an animal tissue, as identified in the Chyawanprash review and consistent with Pal and colleagues' description of horns among the animal derivatives administered as bhasma. Anyone who avoids animal-derived material, including vegetarians and people observing religious restrictions on animal products, should be told the origin of this ingredient before use, including when it appears as a constituent of a compound formulation such as Chyawanprash rather than as a standalone product.",
+     "sourceIds": [
+      "sharma2019cp",
+      "pal2014"
+     ]
+    }
+   ],
+   "pregnancy": {
+    "status": "avoid",
+    "scope": "class-level",
+    "note": "No pregnancy data for Mrigashringa Bhasma was located in any permitted source. Avoidance is graded on documented class-level exposure rather than on theory: CDC investigators documented lead poisoning in six pregnant women using oral Ayurvedic medications from India, with blood lead levels of 16 to 64 microgram/dL and product lead concentrations up to 2.4 percent, some products also containing mercury or arsenic. WHO states there is no level of lead exposure known to be without harmful effects, that maternal bone lead is mobilised into blood during pregnancy and reaches the fetus, and that lead exposure during pregnancy can cause reduced fetal growth and preterm birth. Lead and mercury are developmental neurotoxicants with no established safe exposure level, and the metal content of a marketed bhasma is unverified and typically not declared on the label. The cervid prion hazard described under contraindications applies in pregnancy as it does otherwise.",
+    "sourceIds": [
+     "cdc2012",
+     "who2025lead",
+     "fda2025",
+     "nccih"
+    ]
+   },
+   "lactation": {
+    "status": "avoid",
+    "scope": "class-level",
+    "note": "No lactation data for Mrigashringa Bhasma was located in any permitted source. FDA states that if a mother has heavy metals in her body, the metals may enter her breast milk and be passed onto the baby during breastfeeding, and NCCIH advises consulting a health care provider before using Ayurvedic products while nursing. Given unverified metal content in marketed bhasmas and WHO's position that no lead exposure level is known to be without harmful effects, avoidance is the appropriate grading.",
+    "sourceIds": [
+     "fda2025",
+     "nccih",
+     "who2025lead"
+    ]
+   },
+   "sources": [
+    {
+     "id": "sharma2019cp",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6571565/",
+     "title": "Sharma R, et al. Chyawanprash: A Traditional Indian Bioactive Health Supplement. Biomolecules. 2019;9(5):161.",
+     "tier": "peer-reviewed (PMC)",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "rajasekaran2002",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3331042/",
+     "title": "Rajasekaran A, Murugesan S. Stansardisation of Sringa Bhasma. Ancient Science of Life. 2002;21(3):167-169. (Abstract only retrievable; full text offered on this host as PDF only and not retrievable in this environment.)",
+     "tier": "peer-reviewed (PMC)",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "pal2014",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3960793/",
+     "title": "Pal D, Sahu CK, Haldar A. Bhasma: The ancient Indian nanomedicine. J Adv Pharm Technol Res. 2014;5(1):4-12.",
+     "tier": "peer-reviewed (PMC)",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "angers2009",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2687044/",
+     "title": "Angers RC, Seward TS, Napier D, et al. Chronic wasting disease prions in elk antler velvet. Emerg Infect Dis. 2009;15(5):696-703.",
+     "tier": "peer-reviewed (PMC)",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "pritzkow2022",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9316268/",
+     "title": "Pritzkow S. Transmission, Strain Diversity, and Zoonotic Potential of Chronic Wasting Disease. Viruses. 2022;14(7):1390.",
+     "tier": "peer-reviewed (PMC)",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "sakudo2022",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9499420/",
+     "title": "Sakudo A, et al. Recent Advances in Prion Inactivation by Plasma Sterilizer. Int J Mol Sci. 2022;23(18):10241.",
+     "tier": "peer-reviewed (PMC)",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "brown2000",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC16254/",
+     "title": "Brown P, Rau EH, Johnson BK, Bacote AE, Gibbs CJ Jr, Gajdusek DC. New studies on the heat resistance of hamster-adapted scrapie agent: threshold survival after ashing at 600 degrees C suggests an inorganic template of replication. Proc Natl Acad Sci U S A. 2000;97(7):3418-3421.",
+     "tier": "peer-reviewed (PMC)",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "saper2008",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2755247/",
+     "title": "Saper RB, Phillips RS, Sehgal A, et al. Lead, mercury, and arsenic in US- and Indian-manufactured Ayurvedic medicines sold via the Internet. JAMA. 2008;300(8):915-923.",
+     "tier": "peer-reviewed (PMC)",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "mikulski2018",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6060866/",
+     "title": "Mikulski MA, et al. Toxic metals in ayurvedic preparations from a public health lead poisoning cluster investigation. Int J Occup Environ Health. 2018;23(3):187-192.",
+     "tier": "peer-reviewed (PMC)",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "fda2025",
+     "url": "https://www.fda.gov/drugs/fraudulent-products/fda-warns-about-heavy-metal-poisoning-associated-certain-unapproved-ayurvedic-drug-products",
+     "title": "FDA warns about heavy metal poisoning associated with certain unapproved ayurvedic drug products (content current as of 12/02/2025)",
+     "tier": "regulatory (FDA)",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "nccih",
+     "url": "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth",
+     "title": "Ayurvedic Medicine: In Depth. National Center for Complementary and Integrative Health.",
+     "tier": "government (NCCIH)",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "who2025lead",
+     "url": "https://www.who.int/news-room/fact-sheets/detail/lead-poisoning-and-health",
+     "title": "World Health Organization. Lead poisoning and health (fact sheet).",
+     "tier": "international regulatory (WHO)",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "cdc2012",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/22914225/",
+     "title": "Centers for Disease Control and Prevention. Lead poisoning in pregnant women who used Ayurvedic medications from India - New York City, 2011-2012. MMWR Morb Mortal Wkly Rep. 2012;61(33):641-646.",
+     "tier": "government surveillance (PubMed record)",
+     "accessed": "2026-09-11"
+    }
+   ],
+   "title": "Mrigashringa Bhasma",
+   "sourceClass": "regulatory"
+  },
+  "varatika-bhasma": {
+   "slug": "varatika-bhasma",
+   "insufficientData": true,
+   "insufficientReason": "No permitted source describes Varatika (Kapardika) Bhasma as a finished preparation in any way that supports a safety statement about it: no monograph, no elemental analysis, no clinical study, no case report naming it and no pharmacopoeial entry was located. SEARCHES, reported so they can be re-run. All were run against the NCBI E-utilities esearch endpoint on 2026-09-11 and each is quoted with the result it actually returned. db=pubmed, term 'Varatika': Count 0. db=pubmed, term 'Kapardika': Count 1, PMID 31000993, 'Comparative pharmacognostical analysis through quantitative micrometry and analytical study on Mridu and Tikshna Apamarga Kshara' (Ayu 2018), which concerns Apamarga Kshara and not this preparation. db=pubmed, term '\"Kapardika bhasma\"': Count 0, returned with WarningList QuotedPhraseNotFound and QueryTranslation '\"kapardika\"[All Fields] AND (\"bhasma\"[All Fields] OR \"bhasmas\"[All Fields])'. db=pubmed, term '\"Varatika bhasma\"': Count 222, but PubMed likewise returns WarningList QuotedPhraseNotFound for that phrase and rewrites the query to QueryTranslation '\"bhasma\"[All Fields] OR \"bhasmas\"[All Fields]', so the 222 records are the general bhasma literature and not hits on this preparation; no claim is made here about their contents. db=pubmed, term '\"Cypraea moneta\"': Count 1, PMID 28480388, Togun et al., a study of the RAW cowry shell and its extracted proteins, not of the calcined preparation; it is cited in this record as source v9. db=pmc, term '\"Varatika bhasma\"': Count 3 (PMC9757503, PMC4147483, PMC3960793). db=pmc, term 'Varatika': Count 4 (the same three plus PMC3336693). db=pmc, term '\"Kapardika bhasma\"': Count 9 (PMC12447158, PMC12148575, PMC12008519, PMC11802355, PMC11530780, PMC9988554, PMC8185977, PMC7685255, PMC3087364). WHAT THOSE HITS CONTAIN. PMC3960793 (Pal et al.) is a descriptive and pharmacognostic bhasma review; it identifies the source material and gives a partial constituent list, and performs no toxicological assay and no assay for lead, mercury, arsenic or cadmium. PMC4147483 (Bhatt) is a one-page conference abstract of an aspirin-induced gastric-lesion model in rats; it states that the bhasma 'was analyzed and used for experimental study' but reports no analytical, toxicological, biochemical, haematological or adverse-event result of any kind. PMC9757503 is the AYUSH Cancer Conclave 2019 accepted-abstract collection, in which Varatika Bhasma appears only inside a proposed multi-drug treatment protocol with no safety, dose or analytical data. PMC3336693 is a 1982 'Research in progress' note in Ancient Science of Life whose PMC record carries no extractable full text (the article page states 'The Full Text of this article is available as a PDF (12.5 KB)' and the HTML page has no body text), so no content could be extracted from it. PMC7685255 (Panigrahi et al.) is the only repeated-dose toxicology study located that contains this ingredient, and it tested it inside a nine-ingredient capsule that also contains purified aconite (Aconitum ferox), so its findings can be attributed to Varatika Bhasma neither as harm nor as reassurance; it was also financially supported by the manufacturer of the test article. The remaining PMC hits (PMC12447158, PMC12148575, PMC12008519, PMC11802355, PMC11530780, PMC9988554, PMC8185977, PMC3087364) were opened and are multi-ingredient clinical case reports, a proprietary-tablet animal study, a systematic review and a mica-bhasma characterisation paper; none reports a single-ingredient finding for this preparation. Targeted searches were also run against the permitted regulatory and consumer-information hosts (who.int, ayush.gov.in, pharmacopoeia.gov.in, ema.europa.eu, fda.gov, nccih.nih.gov, ods.od.nih.gov, mskcc.org, medlineplus.gov) and returned no entry for Varatika Bhasma, Kapardika Bhasma or Cypraea moneta. CONSEQUENCES. No entry-specific adverse-event, interaction, contraindication, pregnancy, lactation or elemental (lead, mercury, arsenic) data exist in the permitted sources. No dose field is carried. The only numeral located in a single-ingredient publication appears in Bhatt's abstract inside a comparison line, '(Sucralfate 1 gm 6 hourly and Varatika Bhasma 250 mg twice daily)', alongside what is a human sucralfate regimen; the abstract never states whose dose either numeral is, states no route and states no per-kilogram basis, so the figure is withheld rather than reproduced. No efficacy, indication or comparator information is carried anywhere in this record. Because insufficientData is true, every statement below is scoped class-level. That includes source v9: Togun et al. studied protein extracted from raw, sun-dried, pulverised Cypraea moneta shell given by intraperitoneal injection to mice, which is the source material of this preparation and not the shodhana-processed, calcined article, so it supports no preparation-specific statement either.",
+   "botanical": "Not a botanical. Varatika (Kapardika) Bhasma is an animal-derived mineral preparation: Pal et al. state that 'Varatika is identified as the external shell of sea animal Cypraea moneta Linn.', commonly known as the money cowry, and that 'Chemically it is carbonate of calcium.' The finished article is the calcined shell of a marine gastropod. Independently, Togun et al. report a proximate analysis of raw powdered Cypraea moneta shell as ash 88.82%, crude fibre 4.38%, carbohydrate 4.22%, crude protein 1.91%, moisture 0.74%, nitrogen 0.30% and crude fat 0.18% by dry weight; that is the raw shell, not the calcined preparation.",
+   "heavyMetals": {
+    "scope": "class-level",
+    "text": "Identity, from the one source located that names this preparation: Pal et al. state that 'Varatika is identified as the external shell of sea animal Cypraea moneta Linn.', that 'Cypraea moneta is commonly known as the money cowry', and that 'Chemically it is carbonate of calcium.' They describe the ingredients as 'the raw Varatika, Kulattha kashaya (Horse gram decoction for purification), Kumari svarasa (Aloe-vera juice) for grinding during incineration', the organoleptic properties as 'color is dull white fine powder, odorless, tasteless soluble in dilute HCl', and the physico-chemical analysis as 'Loss on drying (0.6566%). It contains ash (2.06%), organic carbon (1.09%), total nitrogen (0.72%), total potassium (3.49%), total zinc (1.48 ppm), total iron (113.6 ppm).' That constituent list did NOT test for lead, mercury, arsenic or cadmium. It is therefore not evidence that those metals are absent and must not be read as a clean elemental assay. No published elemental assay of Varatika Bhasma for lead, mercury or arsenic was located in any permitted source. This is a shell-derived calcium-carbonate preparation rather than a lead-, mercury- or arsenic-based bhasma, but class-level marketplace findings still apply to any bhasma bought as a finished product. Saper et al. requested 230 Ayurvedic medicines sold via the internet and received and analysed 193: 'The prevalence of metal-containing products was 20.7% (95% confidence interval [CI], 15.2%-27.1%).' 'Rasa shastra compared with non-rasa shastra medicines had a greater prevalence of metals (40.6% vs 17.1%; P=.007) and higher median concentrations of lead (11.5 microgram/g vs 7.0 microgram/g; P=.03) and mercury (20 800 microgram/g vs 34.5 microgram/g; P=.04).' Those medians carry the paper's own denominator note, reproduced here because it changes what they mean: 'The median metal concentration presented is for medicines with detectable amounts of the respective metal.' 'All metal-containing products exceeded 1 or more standards for acceptable daily intake of toxic metals.' Their stated limitations are carried with the finding: 'Limitations of our study include potential misclassification of the product's country of manufacture and rasa shastra status'; 'We did not assess batch-to-batch variability in metal concentrations'; and 'Wide variation among published standards for acceptable limits of daily metal ingestion makes it difficult to assess the magnitude of potential toxicity for different products.' Bhalla and Pannu sampled over-the-counter Ayurvedic preparations from licensed shops in Chandigarh in 2017; the denominator is their own: 'Out of 43 Ayurvedic preparations, 42 were analyzed. Heavy metals were detected in all formulations.' Of those 42 analysed formulations, 'The metal contents above the FAO/WHO-mandated limit for zinc, mercury, arsenic, and lead were detected in 35, 29, 6, and 2 formulations, respectively.' Median (range) concentrations in microgram/g were mercury 13.52 (0.00-61 095.99), arsenic 0.00 (0.00-1038.83), lead 1.40 (0.00-57.09) and zinc 84.2200 (26.48-22 519.03). Their negative findings are carried alongside their positive ones: 'Cadmium was not found in any sample.' Only '27.9% (n = 12) Ayurvedic formulations had listed heavy metals on the label', so the absence of a metal declaration on a label is not evidence of the absence of the metal. Their stated limitations are also carried: 'a single-center observation limits the generalizability of the results' and 'Our study did not address the potential sources of increased toxic heavy metal contents.' Separately, and as a class-level consequence of calcination rather than a measurement of Varatika Bhasma, Pal et al. report that 'Bhasmas were analyzed and found to contain PAH (2.32-9.55 ppm) among the preparation tested. The benzo[a] pyrene level also varied, the highest concentration being 9.7 ppm.' FDA states, verbatim, that 'FDA warns consumers that using unapproved ayurvedic products containing harmful levels of heavy metals may cause heavy metal poisoning' and that 'Adults and children can become very sick when heavy metals accumulate in their bodies over time.'",
+    "sourceIds": [
+     "v1",
+     "v4",
+     "v5",
+     "v6"
+    ]
+   },
+   "adverseEffects": [
+    {
+     "effect": "Acute single oral dose of a nine-ingredient formulation containing Kapardika (cowrie-shell) Bhasma: no toxicity or mortality observed in rats",
+     "frequency": "single dose, 2000 mg/kg, female rats only, 14-day observation; no deaths and no signs recorded",
+     "scope": "class-level",
+     "note": "SEPARATE STUDY ARM, NOT PART OF THE 28-DAY REPEATED-DOSE STUDY. Panigrahi et al. conducted an acute oral toxicity study of the Bacnil capsule under OECD 425 using the limit dose test of the up-and-down procedure, in female Charles Foster albino rats only, fasted overnight, administered 2000 mg/kg in a sequential manner as a single dose, with observation for the first 4 h and up to 8 h on day 1 and thereafter every 24 h up to 14 days. The authors report: 'Bacnil at the oral dose of 2000 mg/kg did not produce any toxicity or mortality in albino rats', and conclude that the 'LD 50 value may be higher than 2000 mg/kg by oral route in rat and hence it can be categorized as substances with low health hazard potential.' FUNDING DISCLOSURE, carried adjacent to that exculpatory conclusion: the paper states 'This study was financially supported by Zoetic Ayurvedic Pvt. Ltd., Ahmedabad (Gujarat) and Institute for Post Graduate Teaching and Research in Ayurveda, Jamnagar' and thanks 'Zoetic Ayurvedic Pvt. Ltd., Ahmedabad (Gujarat), for funding and supporting the work'; Zoetic is the manufacturer that supplied the test article. The authors declare 'There are no conflicts of interest.' This is an acute, single-dose result in one sex and says nothing about repeated administration. It is also a result for the whole nine-ingredient capsule, which contains purified aconite (Aconitum ferox), and cannot be attributed to the cowrie-shell ingredient in either direction.",
+     "sourceIds": [
+      "v3"
+     ]
+    },
+    {
+     "effect": "Dose-related liver, stomach, heart, kidney and ileal histopathology, organ-weight changes, serum-biochemistry changes and haematology changes in a 28-day repeated-dose rat study of a nine-ingredient formulation containing Kapardika (cowrie-shell) Bhasma; the authors infer a potential for liver damage at higher dose on longer administration",
+     "frequency": "no histopathological findings at TED; liver and stomach findings at 5x TED; findings in five organs at 10x TED; the authors' narrative text additionally asserts a significant uterus-weight increase and significant triglyceride and VLDL-cholesterol decreases at TED, but their own Tables 3 and 4 place no significance marker on any of those three rows and their own next paragraph calls the organ-weight changes non-significant, so those three are reported here as unresolved internal contradictions rather than as findings",
+     "scope": "class-level",
+     "note": "TEST ARTICLE, FUNDING AND LIMITS. Panigrahi et al. tested Bacnil capsule (Zoetic Ayurvedic Pvt. Ltd., Ahmedabad, batch no. 531681057, manufacturing date Dec 2015). The study was funded by that manufacturer: 'This study was financially supported by Zoetic Ayurvedic Pvt. Ltd., Ahmedabad (Gujarat) and Institute for Post Graduate Teaching and Research in Ayurveda, Jamnagar', and the acknowledgement thanks 'Zoetic Ayurvedic Pvt. Ltd., Ahmedabad (Gujarat), for funding and supporting the work'; the authors declare 'There are no conflicts of interest.' That sponsorship is recorded here because it bears directly on how the study's exculpatory conclusions, quoted below, should be read. Table 1, headed 'Composition of bacnil capsule in each 250 mg', lists: Vatsanabha, purified Aconitum ferox, 12.50 mg; Tankana 12.50 mg; Maricha 30.00 mg; Kapardika Bhasma (calcined cowries) 50.00 mg; Shankha Bhasma 25.00 mg; Muktashukti Bhasma 25.00 mg; Pathyadi Kwatha Ghana 70.00 mg, made up of seven herbs at 10.00 mg each (Terminalia chebula, Terminalia bellirica, Emblica officinalis, Tinospora cordifolia, Azadirachta indica, Andrographis paniculata, Curcuma longa); Kuberaksha 50.00 mg; Gairika 25.00 mg. These listed weights sum to 300 mg against the table's own stated 250 mg capsule, and the dose-selection paragraph states 'The human clinical dose of bacnil capsule (545 mg) is four capsules/day equal to 2180.0 mg/day.' Because the source is internally inconsistent on capsule weight, NO percentage share of the capsule is derived here for Kapardika Bhasma; only the stated 50.00 mg figure is reported. Because purified aconite is present, nothing in this study can be attributed to the cowrie-shell ingredient, as harm or as reassurance. DESIGN. Charles Foster albino rats of either sex, 200 +/- 20 g, randomly divided into five groups of 10 animals (5 male, 5 female). Group I control, distilled water 10 ml/kg orally; Group II therapeutic equivalent dose (TED) 196.2 mg/kg orally; Group III TED x 5, 981.0 mg/kg orally; Group IV TED x 10, 1962.0 mg/kg orally; all once daily for 28 consecutive days. Group V was an additional recovery group that received TED x 10 (1962.0 mg/kg orally) and was THE ONLY GROUP GIVEN A DRUG-FREE RECOVERY PERIOD, fixed in the Methods at 14 days after the 28-day main study (the abstract inconsistently states a 15-day recovery period). Statistics, as stated: mean +/- SEM, paired t-test and one-way ANOVA followed by Dunnett multiple t-test, significance at P < 0.05; in Tables 3, 4 and 5 the significance marker against control is '@'. DOSE-EXTRAPOLATION BASIS, stated by the authors: the human clinical dose of 2180.0 mg/day was extrapolated to rat 'based on body surface area ratio (conversion factor 0.018 for 200 g rat) by referring to the table of Paget and Barnes (1964)'. HISTOPATHOLOGY, verbatim: 'The results of histopathological studies suggest that bacnil at TED x 10 dose level produced fatty changes in the heart; fatty degenerative changes, cell infiltration and sinusoidal inflammation in the liver; cell infiltration in the ileum, mild fatty changes in kidney and mild epithelial erosion in the stomach. In the recovery study, fatty changes and sinusoidal inflammation in the liver of rats were observed. bacnil TED x 5 produced fatty changes in liver and epithelial erosion in the stomach while it was reverted in recovery study. No other changes were observed in any organs in Bacnil at TED-treated rats and in the control group.' The Results section adds: 'The changes were reversed in all organs in recovery study except liver after discontinuation of drug', i.e. the liver lesions were still present at the end of the 14 drug-free days while the other organ findings had reverted, and the legend to Figure 2 agrees, describing 'fatty changes and sinusoidal inflammation in TED x 10(r) rats'. A THIRD INTERNAL CONTRADICTION IS DISCLOSED HERE RATHER THAN RESOLVED: the paper's own Conclusion states the opposite of its Results on this point, saying the drug 'produced mild changes at TED x 10 dose level in the liver and kidney but same was reverted in recovery study after discontinuation of drug'. Both are reported; neither is suppressed. ORGAN WEIGHTS AND THE CONTRADICTION AROUND THEM. The narrative sentence reads, verbatim: 'Significant increase in the relative weight of seminal vesicle and (TED x 5) uterus (TED) and decrease in liver weight at TED x 5 dose level was observed in comparison to the control group.' Table 3 does not support all of that sentence. The only '@' markers in Table 3 fall on seminal vesicles at TED x 5 (704.37 +/- 18.21 @) and on liver at TED x 10 recovery (2.919 +/- 34.95 @). The uterus row carries no marker in any column (control 230.70 +/- 42.29; TED 346.50 +/- 20.78; TED x 5 319.67 +/- 28.89; TED x 10 300.78 +/- 26.33; TED x 10 recovery 300.12 +/- 43.81), and liver at TED x 5 carries no marker (3.004 +/- 0.07 against control 3.319 +/- 0.12). The paper then contradicts its own narrative two sentences later, and that passage is carried verbatim here because omitting it would be selective quotation: 'However, there were no significant changes in the relative weight of organs, namely kidney, heart, spleen, prostate and testis at all dose levels in comparison to the control group... The observed changes were devoid of any major adverse changes and were non-significant in comparison to the control group and it reversed in recovery duration; hence, it may be suggested that drugs do not seem to produce any toxic effect on the relative weight of important internal organ in repeated dose toxicity studies.' SERUM BIOCHEMISTRY, verbatim and with the authors' own significance qualifiers and their own hepatic inference retained in full: 'Data of serum biochemical parameters revealed that bacnil at TED dose level produced a significant decrease in triglyceride and very low-density lipoprotein (VLDL)-cholesterol. Bacnil at TED x 10 produced non-significant increase in triglyceride, VLDL-cholesterol and alkaline phosphate, which suggests that test drug has the potential to damage the liver at a higher dose level on longer administration. But it reverted in recovery study.' Table 4 is applied here symmetrically, against the narrative in both directions. The triglyceride, VLDL-cholesterol and alkaline phosphatase increases at TED x 10 carry no '@' marker (alkaline phosphatase 228.50 +/- 31.10 IU/L control versus 258.11 +/- 21.53 IU/L at TED x 10) and are therefore non-significant, as the authors themselves say. But the decreases at TED that the same sentence calls significant carry no '@' marker either: the triglyceride row reads 135.60 +/- 12.97 control, 97.10 +/- 9.84 at TED, 129.20 +/- 12.51 at TED x 5, 177.89 +/- 29.55 at TED x 10, 140.70 +/- 20.53 at TED x 10 recovery, with no marker in any column, and the VLDL-cholesterol row reads 27.10 +/- 2.54, 19.40 +/- 1.96, 25.80 +/- 2.51, 35.89 +/- 5.96, 28.10 +/- 4.14, again with no marker. The ONLY '@' in the whole of Table 4 is on serum calcium at TED x 10 (10.17 +/- 0.32 mg/dL control versus 9.41 +/- 0.17 mg/dL, P < 0.05) and at TED x 10 recovery (9.46 +/- 0.07 mg/dL, P < 0.05), which the authors record as 'again decreased after discontinuation of drug in recovery study' and read as showing that the 'test drug has a role on calcium turnover in the body'. The authors also state of Table 4 as a whole that 'almost all serum biochemical parameters were within the normal range hence, cannot be categorized as pathological changes'. HAEMATOLOGY, verbatim: 'test drug TED x 10R dose level produced a significant decrease in neutrophil while, a significant increase in monocyte and lymphocyte in comparison to the control group'. Table 5 supports two of those three: neutrophils 8.90 +/- 1.99% at TED x 10 recovery versus control 24.60 +/- 3.83%, marked '@'; lymphocytes 86.20 +/- 1.98% versus control 71.10 +/- 4.06%, marked '@'; but the monocyte row carries no marker in any column (control 2.00 +/- 0.14; TED x 10 recovery 2.60 +/- 0.30). The authors note these changes were within the normal range and conclude that the drug 'does not affect both cellular and noncellular elements of the blood to a significant extent'. AUTHORS' CONCLUSIONS, retained alongside the findings and not in place of them, and to be read against the manufacturer funding disclosed above: 'Repeated dose 28-day oral toxicity revealed that test formulation did not produce any significant change in serum biochemical, hematological, and histopathological parameters at therapeutic dose level'; 'Mild-to-moderate pathological changes were observed in the various serum biochemical and cytoarchitecture of the liver, heart, kidney, and stomach at a dose of 10 TEDs; however, the same was reversed after discontinuation in the recovery test'; and 'Bacnil at 196.2 mg/kg/day is safe at the therapeutic dose level in albino rats.' LIMITATIONS AND MONITORING. The paper contains no separately headed limitations section and states no liver-function monitoring protocol, so none is invented here; it does, however, carry its own hepatic warning, quoted verbatim above, that the test drug 'has the potential to damage the liver at a higher dose level on longer administration'. The study also did not assay the capsule or its ingredients for lead, mercury, arsenic or cadmium, and did not test reproductive, developmental or genotoxic endpoints.",
+     "sourceIds": [
+      "v3"
+     ]
+    },
+    {
+     "effect": "Dose-dependent hepatic, renal, pulmonary and splenic histopathology in mice given fibrous protein extracted from the RAW cowry shell (Cypraea moneta) by intraperitoneal injection; the extracted fibrous protein was also immunogenic in rabbits",
+     "frequency": "single intraperitoneal dose in mice at 10, 100 and 1000 mg/kg body weight, six mice per group, 15-day experimental period; no mortality; no appreciable liver change at 10 mg/kg, damage at higher doses; renal damage described at doses above 100 mg/kg",
+     "scope": "class-level",
+     "note": "SOURCE MATERIAL, NOT THIS PREPARATION, AND NOT THE ORAL ROUTE. Togun et al. worked on cowry shells bought from a local market in Ile-Ife, Nigeria, washed, sun-dried and pulverised. They extracted protein with citrate buffer (pH 2.65) and with phosphate-buffered saline, resolved the citrate-buffer extract into two fibrous proteins CSP1 (91 kDa) and CSP2 (33 kDa), and injected the citrate-buffer protein intraperitoneally into mice. This is raw shell material and an extracted protein fraction given by injection. It is NOT the shodhana-processed, calcined article, it is NOT the oral route, and nothing in it can be transferred to Varatika Bhasma as either harm or reassurance; it is reported because it is the only permitted-source toxicology on the species this preparation is made from, and because dropping it would drop a documented hazard. FINDINGS, verbatim. 'Histopathological examinations revealed a dose-dependent damaging effect of the shell proteins on liver, kidney, lung and spleen tissues of the treated mice.' Liver: 'Examination of the liver sections showed that cowry shell protein had a dose dependent hepatotoxicity effect in mice. At the least dose of 10mg/kg body weight there was no appreciable changes in the liver architecture, but at higher dosage there were damages to the liver', with 'Vacuolation and degenerative ballooning of the hepatocytes, distorted and irregular sinusoids as well as dilatation of the bile canaliculi'. Kidney: 'The kidney morphology revealed a dose-dependent renal damage marked by necrosis and fatty accumulations in the glomerulus of the kidney of mice treated with higher doses of CSP (>100 mg/kg body weight)'. Lung: 'A dose-dependent reduction in the respiratory portion of the lungs marked by different degrees of alveolar wall thickening and air space cellularity'. Spleen: 'Splenic morphology of treated mice showed reactive splenic follicles with increased lymphopoiesis.' Immunogenicity: 'There was no visible precipitin line observed when PBS-extract of cowry shell was reacted with its corresponding antiserum in Ouchterlony agarose gels. However, citrate buffer crude extracts of cowry shells formed clear precipitin lines on reaction with the corresponding antiserum in Ouchterlony plates, and also formed clear precipitin lines in immunoelecrophoresis experiments', from which the authors conclude 'that the fibrous proteins were immunogenic'. THE STUDY'S OWN NEGATIVES AND CAVEATS, carried with the positives. 'There was no mortality recorded from daily observations of all treated and control mice throughout the experimental period.' Body weight, packed cell volume and white blood cell counts showed no significant treatment differences except that 'the mean body weight of group B mice was significantly higher after treatment than before (p<0.05)', which the authors themselves call 'for no apparent reasons'. Damage occurred 'without concurrent physical manifestations of ailment in the mice'. The globular (PBS-extracted) protein fraction 'did not show any evidence of immune activation or toxicity'. The authors also report a contrasting study they did not perform: 'These finding were in agreement with some aspects of the report of Singh et al. (2010) in their toxicity study of oral administration of conch shell (Terbinella pyrum), cowry shell (Cypraea moneta), pearl oyster shell (Pinctada margaritifera), coral root (Tubipora musica), and coral stem (Corallium rubrum) in mice... They did not find any sign of haemopoetic, hepatic or renal toxicity in the control and drug-treated rats. In addition, they did not observe any gross pathological lesion in the liver, stomach and kidney. Our study also did not find any haemopoietic toxicity but showed hepatic, renal, pulmonary and splenic toxicity'. That Singh et al. report is an ORAL study and is described here only as Togun et al. describe it; it is not indexed in PubMed (db=pubmed, term 'Terbinella pyrum toxicity': Count 0) and is not independently cited by this record. The paper carries no separately headed limitations section, states no monitoring protocol, tests no reproductive, developmental or genotoxic endpoint, and performs no elemental assay for lead, mercury, arsenic or cadmium. It gives no evidence as to whether calcination destroys or retains the proteins it identifies; its own recommendation is prospective: 'It is suggested that further studies on the development of biomaterials from cowry shells should include methods for removing or deactivating the protein components.'",
+     "sourceIds": [
+      "v9"
+     ]
+    },
+    {
+     "effect": "No safety or analytical result of any kind is reported in the only single-ingredient publication located",
+     "frequency": "not reported",
+     "scope": "class-level",
+     "note": "Bhatt's one-page conference abstract in Ancient Science of Life describes an aspirin-induced gastric-lesion model in 'Winstar strain albino rats of either sex' (the abstract's own spelling), 3 groups of 6 rats, dosing for 6 days before lesion induction on day 7. The abstract states of the test article only that 'Varatika bhasma was prepared by shodhana with kanji, bhaavana with kumari swarasa and subjecting to gajaputa. Further it was analyzed and used for experimental study.' It therefore says an analysis was performed and reports no result from it. The supportable statement is the narrow one: the abstract reports no analytical, toxicological, biochemical, haematological, elemental or adverse-event RESULT of any kind, and records no mortality and no tolerability observation. It is NOT stated here that no elemental assay was performed, because the abstract's own sentence will not support that negative. No finding of safety, of freedom from organ toxicity, or of freedom from genotoxic potential may be drawn from it in either direction. Its efficacy content, including its comparator, is deliberately not reproduced in this record. The only numeral it gives for the bhasma appears inside a comparison line paired with a human sucralfate regimen, with no stated recipient, no stated route and no per-kilogram basis, which is why no dose field is carried anywhere in this record.",
+     "sourceIds": [
+      "v2"
+     ]
+    },
+    {
+     "effect": "Elemental calcium load per dose, hypercalcaemia risk and calcium-carbonate drug-absorption interactions are untested for this preparation",
+     "frequency": "not reported",
+     "scope": "class-level",
+     "note": "Pal et al. state that Varatika is 'Chemically ... carbonate of calcium', but no permitted source reports the elemental calcium content of a marketed dose of Varatika Bhasma, its bioavailability, any hypercalcaemia or milk-alkali observation, or any interaction study with drugs whose absorption is altered by calcium carbonate or by gastric pH. This is a recorded absence of data, not a negative finding, and must not be read as evidence that no such effect occurs. The one calcium-related signal in the located literature is class-level and is in a nine-ingredient aconite-containing formulation, not this preparation: Panigrahi et al. record a significant DECREASE in serum calcium at TED x 10 which persisted in the recovery group, and read it as showing that the 'test drug has a role on calcium turnover in the body'. No calcium-supplement interaction figures were imported from elsewhere; unverifiable content is not cited.",
+     "sourceIds": [
+      "v1",
+      "v3"
+     ]
+    }
+   ],
+   "contraindications": [
+    {
+     "condition": "Pregnancy",
+     "severity": "contraindicated",
+     "scope": "class-level",
+     "note": "Avoid. No pregnancy data exist for this preparation. The class-level evidence carried in this record documents lead and mercury exposure from marketed Ayurvedic preparations: Saper et al. found metals in 40.6% of rasa shastra products with median mercury of 20 800 microgram/g among products with detectable mercury, and 'All metal-containing products exceeded 1 or more standards for acceptable daily intake of toxic metals'; Bhalla and Pannu detected heavy metals in all 42 formulations analysed, with only 27.9% (n = 12) declaring any metal on the label; NCCIH reports that 'A 2015 published survey of people who use Ayurvedic preparations showed that 40 percent had elevated blood levels of lead and some had elevated blood levels of mercury.' WHO states that 'There is no level of exposure to lead that is known to be without harmful effects' and that 'Lead stored in bone may be released into the blood during pregnancy and expose the fetus.' Lead and mercury are developmental neurotoxicants, so the grading is avoid rather than caution. No reproductive or developmental endpoint was tested in any source cited here.",
+     "sourceIds": [
+      "v4",
+      "v5",
+      "v7",
+      "v8"
+     ]
+    },
+    {
+     "condition": "Breastfeeding",
+     "severity": "contraindicated",
+     "scope": "class-level",
+     "note": "Avoid. No lactation data exist for this preparation. FDA states that 'If a mother has heavy metals in her body, the metals may enter her breast milk and be passed onto the baby during breastfeeding.' The same class-level lead and mercury exposure evidence applies as for pregnancy, and the exposed party is an infant, so the grading is avoid rather than caution.",
+     "sourceIds": [
+      "v5",
+      "v6",
+      "v8"
+     ]
+    },
+    {
+     "condition": "Infants, children and adolescents",
+     "severity": "contraindicated",
+     "scope": "class-level",
+     "note": "Avoid. No paediatric data exist for this preparation. FDA states that 'Adults and children can become very sick when heavy metals accumulate in their bodies over time', and WHO states that 'Young children are particularly vulnerable to the toxic effects of lead and can suffer permanent adverse health impacts' and that there is no level of lead exposure known to be without harmful effects. Class-level marketplace contamination is documented in this record and label declaration is unreliable (27.9%, n = 12, of Bhalla and Pannu's formulations declared any metal).",
+     "sourceIds": [
+      "v5",
+      "v6",
+      "v8"
+     ]
+    },
+    {
+     "condition": "Existing liver disease, hepatic impairment, or concurrent hepatotoxic drugs",
+     "severity": "major",
+     "scope": "class-level",
+     "note": "Two independent class-level sources document hepatic injury, neither of them a study of this preparation. FIRST, Panigrahi et al.'s 28-day rat study of the nine-ingredient aconite-containing Bacnil capsule reports 'fatty degenerative changes, cell infiltration and sinusoidal inflammation in the liver' at TED x 10 and 'fatty changes in liver' at TED x 5, that in the recovery group 'fatty changes and sinusoidal inflammation in the liver of rats were observed', and in its Results that 'The changes were reversed in all organs in recovery study except liver after discontinuation of drug'. The paper's own Conclusion contradicts that, stating the liver changes were 'reverted in recovery study after discontinuation of drug'; both statements are carried. The authors state verbatim that the drug 'has the potential to damage the liver at a higher dose level on longer administration', while the triglyceride, VLDL-cholesterol and alkaline phosphatase increases underlying that inference carry no significance marker in Table 4 and are called non-significant by the authors themselves. That study was funded by the manufacturer of the test article, Zoetic Ayurvedic Pvt. Ltd. These are findings for a nine-ingredient aconite-containing capsule and CANNOT be assigned to Varatika Bhasma. SECOND, Togun et al. report 'a dose dependent hepatotoxicity effect in mice' from fibrous protein extracted from the raw Cypraea moneta shell given intraperitoneally, with no appreciable change at 10 mg/kg body weight and hepatocyte vacuolation, degenerative ballooning, distorted sinusoids and bile-canalicular dilatation at higher doses; that is raw source material by the injected route, not the calcined preparation by the oral route, and equally cannot be assigned to Varatika Bhasma. No permitted source states a liver-function monitoring protocol for this preparation, and none is invented here; the hazard is recorded so that it is not lost.",
+     "sourceIds": [
+      "v3",
+      "v9"
+     ]
+    },
+    {
+     "condition": "Renal impairment or existing kidney disease",
+     "severity": "major",
+     "scope": "class-level",
+     "note": "Both class-level animal sources in this record report renal histopathology, and neither studied this preparation. Panigrahi et al. report 'mild fatty changes in kidney' at TED x 10 in the 28-day rat study of the nine-ingredient aconite-containing capsule, with no change at TED and with the change reverting in the recovery group; the same study found no significant change in relative kidney weight at any dose level and no significant change in blood urea or creatinine. Togun et al. report 'a dose-dependent renal damage marked by necrosis and fatty accumulations in the glomerulus of the kidney of mice treated with higher doses of CSP (>100 mg/kg body weight)' after intraperitoneal injection of protein extracted from the raw cowry shell. Neither finding can be assigned to Varatika Bhasma, and the second is neither the calcined article nor the oral route. The hazard is recorded rather than dropped; no monitoring protocol is stated by either source and none is invented here.",
+     "sourceIds": [
+      "v3",
+      "v9"
+     ]
+    },
+    {
+     "condition": "Gastric or duodenal mucosal disease, active gastrointestinal bleeding, or concurrent NSAID use",
+     "severity": "major",
+     "scope": "class-level",
+     "note": "Panigrahi et al. report 'mild epithelial erosion in the stomach' at TED x 10 and 'epithelial erosion in the stomach' at TED x 5 in the 28-day rat study, reverting in the recovery group, and 'cell infiltration in the ileum' at TED x 10. Again these are formulation findings for a nine-ingredient aconite-containing capsule, funded by the manufacturer of that capsule, and cannot be assigned to Varatika Bhasma, but they are the only gastric and intestinal mucosal observations in the located literature and they are adverse ones. No gastroprotective claim of any kind is made or implied in this record.",
+     "sourceIds": [
+      "v3"
+     ]
+    },
+    {
+     "condition": "Animal-derived material: vegan, Jain, vegetarian, shellfish-free or other diets and observances excluding animal or marine-animal material",
+     "severity": "contraindicated",
+     "scope": "class-level",
+     "note": "Disclosure and consent issue. This preparation is the calcined external shell of the marine gastropod Cypraea moneta Linn.; Pal et al. also note that 'Animal derivatives such as horns, shells, feathers, metallic and nonmetallic minerals are normally administered as Bhasma.' Anyone excluding animal or marine-animal material on dietary, religious or ethical grounds should be told the source material before use, and the hazard is carried through to this statement rather than raised and dropped.",
+     "sourceIds": [
+      "v1"
+     ]
+    },
+    {
+     "condition": "Mollusc or shellfish allergy: the raw source material is documented to contain immunogenic protein, and the calcined preparation has never been tested",
+     "severity": "major",
+     "scope": "class-level",
+     "note": "This entry is upgraded from an unknown to a documented source-material hazard. Togun et al. report that raw powdered Cypraea moneta shell contains 1.91% crude protein by dry weight, that fibrous protein extracted from it in citrate buffer resolves into two species (CSP1 91 kDa, CSP2 33 kDa), and that these 'formed clear precipitin lines on reaction with the corresponding antiserum in Ouchterlony plates, and also formed clear precipitin lines in immunoelecrophoresis experiments', from which they conclude 'that the fibrous proteins were immunogenic'. Their globular (PBS-extracted) fraction, by contrast, 'did not show any evidence of immune activation or toxicity'. That work was done on raw, sun-dried, pulverised shell, not on the shodhana-processed, calcined bhasma, and the authors give no evidence as to whether calcination destroys the proteins; their own recommendation is that future work 'should include methods for removing or deactivating the protein components'. No permitted source reports testing of any marketed batch of Varatika Bhasma for residual mollusc protein, and no allergenicity or hypersensitivity testing of the preparation exists. It can therefore be stated neither that calcination removes mollusc allergen nor that it does not, but the starting material is now known to carry immunogenic protein, so the residual risk for anyone with a known mollusc or shellfish allergy is an open one and is recorded as a hazard rather than as reassurance.",
+     "sourceIds": [
+      "v1",
+      "v9"
+     ]
+    },
+    {
+     "condition": "Any product supplied without a batch-specific heavy-metal certificate of analysis",
+     "severity": "major",
+     "scope": "class-level",
+     "note": "No elemental assay of Varatika Bhasma for lead, mercury or arsenic exists in the permitted sources, and the class-level marketplace data show contamination that labels do not disclose: Bhalla and Pannu detected heavy metals in all 42 formulations analysed while only 27.9% (n = 12) listed any metal on the label, and Saper et al. found that all metal-containing products exceeded one or more acceptable-daily-intake standards, while noting their own limitation that 'We did not assess batch-to-batch variability in metal concentrations.' FDA warns that 'using unapproved ayurvedic products containing harmful levels of heavy metals may cause heavy metal poisoning.'",
+     "sourceIds": [
+      "v4",
+      "v5",
+      "v6"
+     ]
+    }
+   ],
+   "pregnancy": {
+    "status": "avoid",
+    "scope": "class-level",
+    "note": "Avoid. No pregnancy data for Varatika Bhasma were located in any permitted source, and no source cited here tested any reproductive or developmental endpoint. The grading rests on the class-level lead and mercury exposure documented in this record for marketed Ayurvedic preparations (Saper et al.: 40.6% metal prevalence among rasa shastra medicines, median mercury 20 800 microgram/g among products with detectable mercury, all metal-containing products over one or more acceptable-daily-intake standards; Bhalla and Pannu: heavy metals detected in all 42 formulations analysed, only 27.9%, n = 12, declaring any metal on the label; NCCIH: 'A 2015 published survey of people who use Ayurvedic preparations showed that 40 percent had elevated blood levels of lead and some had elevated blood levels of mercury'), together with WHO's statements that 'There is no level of exposure to lead that is known to be without harmful effects' and that 'Lead stored in bone may be released into the blood during pregnancy and expose the fetus.' NCCIH additionally states: 'If you're pregnant or nursing, be sure to consult your (or your child's) health care provider as some Ayurvedic products may contain products that could be harmful.'",
+    "sourceIds": [
+     "v4",
+     "v5",
+     "v7",
+     "v8"
+    ]
+   },
+   "lactation": {
+    "status": "avoid",
+    "scope": "class-level",
+    "note": "Avoid. No lactation data for Varatika Bhasma were located in any permitted source. FDA states that 'If a mother has heavy metals in her body, the metals may enter her breast milk and be passed onto the baby during breastfeeding.' The same class-level lead and mercury contamination evidence applies as for pregnancy, and lead and mercury are developmental neurotoxicants, so the grading is avoid rather than caution.",
+    "sourceIds": [
+     "v4",
+     "v5",
+     "v6",
+     "v8"
+    ]
+   },
+   "sources": [
+    {
+     "id": "v1",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3960793/",
+     "title": "Pal D, Sahu CK, Haldar A. Bhasma: The ancient Indian nanomedicine. J Adv Pharm Technol Res. 2014;5(1):4-12. Descriptive and pharmacognostic review; identity and physico-chemical description only, no assay for lead, mercury, arsenic or cadmium.",
+     "tier": "PMC",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "v2",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4147483/",
+     "title": "Bhatt P. OA02.09. Evaluation of varatika bhasma for its ulcer protective effect on albino rats. Ancient Science of Life. 2013;32(Suppl 2):S15. One-page conference abstract; efficacy model only, and it reports no analytical, toxicological, biochemical, haematological or adverse-event result of any kind. Title cited verbatim for citation integrity; its therapeutic content is not carried by this record and implies no indication for this preparation.",
+     "tier": "PMC",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "v3",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7685255/",
+     "title": "Panigrahi B, Sharma S, Sitapara B, De S, Nariya M. Safety profile of Ayurvedic poly-herbomineral formulation - Bacnil capsule in albino rats. Ayu. 2019;40(3):185-191. Nine-ingredient aconite-containing formulation; not a single-ingredient study of Varatika Bhasma. Financially supported by Zoetic Ayurvedic Pvt. Ltd., the manufacturer of the test article; authors declare no conflicts of interest.",
+     "tier": "PMC",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "v4",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2755247/",
+     "title": "Saper RB, Phillips RS, Sehgal A, et al. Lead, Mercury, and Arsenic in US- and Indian-Manufactured Ayurvedic Medicines Sold via the Internet. JAMA. 2008;300(8):915-923.",
+     "tier": "PMC",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "v5",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8882783/",
+     "title": "Bhalla A, Pannu AK. Are Ayurvedic medications store house of heavy metals? Toxicol Res (Camb). 2022;11(1):179-183.",
+     "tier": "PMC",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "v6",
+     "url": "https://www.fda.gov/drugs/fraudulent-products/fda-warns-about-heavy-metal-poisoning-associated-certain-unapproved-ayurvedic-drug-products",
+     "title": "FDA warns about heavy metal poisoning associated with certain unapproved ayurvedic drug products.",
+     "tier": "FDA",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "v7",
+     "url": "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth",
+     "title": "NCCIH. Ayurvedic Medicine: In Depth.",
+     "tier": "NCCIH",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "v8",
+     "url": "https://www.who.int/news-room/fact-sheets/detail/lead-poisoning-and-health",
+     "title": "WHO. Lead poisoning and health (fact sheet).",
+     "tier": "WHO",
+     "accessed": "2026-09-11"
+    },
+    {
+     "id": "v9",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5411861/",
+     "title": "Togun RA, Balogun RO, Adeyemi DO, et al. Isolation, characterization and immunochemical studies on fibrous proteins from cowry shell (Cypraea moneta, Linnaeus). Afr J Tradit Complement Altern Med. 2016;14(1):110-122. Study of RAW, uncalcined cowry shell and its extracted protein fractions, administered intraperitoneally to mice; not a study of Varatika Bhasma and not the oral route.",
+     "tier": "PMC",
+     "accessed": "2026-09-11"
+    }
+   ],
+   "title": "Varatika Bhasma",
    "sourceClass": "regulatory"
   }
  }
