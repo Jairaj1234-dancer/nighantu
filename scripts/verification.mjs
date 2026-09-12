@@ -21,6 +21,13 @@ const count = (arr, fn) => arr.filter(fn).length;
 
 const runs = [];
 
+/** Records a run passed that also survived schema validation and reached a page. */
+function publishedFromRun(runId) {
+  const run = read(path.join('data', 'runs', `${runId}.json`));
+  const live = read(path.join('data', 'safety.json'))?.records ?? {};
+  return (run?.accepted ?? []).filter((a) => live[a.slug]).length;
+}
+
 // ---------------------------------------------------------------- botanical
 const bin = read(path.join('data', 'binomial-run.json'));
 if (bin) {
@@ -196,7 +203,47 @@ if (run03) {
   });
 }
 
-const safety = (run02 || run03) ? null : read(path.join('data', 'safety-verdicts.json'));
+const run04 = read(path.join('data', 'runs', 'safety-pass4.json'));
+if (run04) {
+  const s = run04.summary ?? {};
+  const byShape = s.publishedByShape ?? {};
+  runs.push({
+    id: 'safety-pass4',
+    title: 'Safety data, fourth attempt',
+    question: 'Does aiming at the shape the evidence supports convert more records?',
+    note: `${run04.scope} ${s.publish} of ${s.examined} passed, and none was left unjudged.`,
+    method: [
+      'Each rebuilder was told what the previous three passes had established: that across 83 pages only two records had ever passed, both of them saying no source describes this preparation. The instruction was to stop defending preparation-specific claims the literature does not support and drop them instead.',
+      'Two further rules were carried from pass three: do not overclaim your own search, and carry the source\u2019s denominator verbatim.',
+      'Every rebuilt record was audited individually by a reviewer who read the prior objections first, then audited the record afresh.',
+      'The rebuilders did what was asked and the record of what they dropped is the useful part: an inferred dose taken from a different product, an exclusivity claim contradicted by a second paper the earlier record had missed, a false enumeration of search results, and a finding asserted in a paper\u2019s narrative that its own results table does not support.',
+    ],
+    // "Passed the audit" and "reached a page" are different numbers, and reporting only
+    // the first would overstate the result. One record cleared the panel and was then
+    // refused by the schema validator.
+    stats: {
+      recordsExamined: s.examined,
+      passedTheAudit: s.publish,
+      publishedAfterSchemaValidation: publishedFromRun('safety-pass4'),
+      stillHeld: s.held,
+      passedAsPreparationSpecific: byShape['preparation-specific'] ?? 0,
+      passedAsMixed: byShape.mixed ?? 0,
+      passedAsInsufficientDataPlusClassLevel: byShape['insufficient-data-plus-class-level'] ?? 0,
+    },
+    caveat: 'One record passed its audit in an interrupted earlier attempt and was held when the '
+      + 'same audit ran again, which is the documented instability of repeated model judgements '
+      + 'rather than a change in the evidence. It is treated as held: for safety, a rejection '
+      + 'outweighs an earlier acceptance. A second passed its audit and was then refused by the '
+      + 'schema validator for a missing field and claim-shaped wording, which is why acceptance '
+      + 'by the panel has never been sufficient on its own.',
+    examples: (run04.held ?? []).slice(0, 5).map((h) => ({
+      slug: h.slug,
+      basis: (h.ruleViolations ?? h.reasons ?? []).slice(0, 2).join(' | ').slice(0, 600),
+    })),
+  });
+}
+
+const safety = (run02 || run03 || run04) ? null : read(path.join('data', 'safety-verdicts.json'));
 if (safety) {
   const led = safety.ledger ?? [];
   runs.push({

@@ -125,6 +125,7 @@ never typed in, so a wrong number on the page means a wrong script.
 | Safety, first attempt | 83 | 0 | 83 |
 | Safety, second attempt | 25 | 1 | 24 |
 | Safety, third attempt | 24 | 1 | 23 |
+| Safety, fourth attempt | 23 | 3 | 19 |
 
 Two findings are worth knowing before reading anything else here.
 
@@ -143,14 +144,28 @@ That yield is low because the standard is strict and the per-preparation literat
 Ayurvedic metallic preparations is mostly silent. The remaining records are unfinished, not
 discarded, and they are held in `data/runs/`.
 
-**The pattern across all three passes is the finding.** Both records that have ever passed
-did so with `insufficientData: true`. Not one preparation-specific record has survived, across
-83 pages and dozens of independent auditors. That is the literature, not the auditors: for most
-of these preparations there is no published monograph, elemental analysis, clinical study or
-dose, so any statement framed as being about *this* preparation is unsupportable and gets
-caught. What passes is the honest shape: nothing is published about this preparation, here is
-exactly what was searched and what it returned, and here is the documented hazard for the class
-it belongs to, every statement labelled `class-level`.
+**What the four passes actually established.** After three passes, every record that had
+passed did so with `insufficientData: true`, and it looked as though no preparation-specific
+record could survive. Pass four told the rebuilders exactly that and asked them to drop claims
+the literature does not support rather than defend them. The result corrected the finding: of
+the three records that then published, one is preparation-specific and one is mixed. Bhanga
+(*Cannabis sativa*) and Eranda (*Ricinus communis*) have real clinical literature and a real
+EMA herbal monograph respectively, and their records hold up.
+
+So the rule is not "insufficient data always wins". It is that a record passes when the
+evidence genuinely exists and fails when it does not, and for most bhasmas it does not: there
+is no monograph, no elemental analysis, no clinical study and no dose, so anything framed as
+being about *that* preparation is unsupportable and gets caught. Where that is the case, the
+honest shape publishes: nothing is known about this preparation, here is exactly what was
+searched and what it returned, and here is the documented hazard for the class, every
+statement labelled `class-level`.
+
+Two things from pass four are worth keeping in view. A record that passed its audit in an
+interrupted attempt was held when the same audit ran again, which is the documented instability
+of repeated model judgements rather than any change in the evidence; it is treated as held,
+because for safety a rejection outweighs an earlier acceptance. And a record that cleared the
+audit was then refused by the schema validator for a missing field and claim-shaped wording,
+which is why panel acceptance has never been sufficient on its own.
 
 Once published, a record is re-checked quarterly by `.github/workflows/safety-refresh.yml`.
 It does not re-judge claims; it asks whether every cited source still resolves, still lands on

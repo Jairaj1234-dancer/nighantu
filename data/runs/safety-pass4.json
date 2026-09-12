@@ -1,0 +1,258 @@
+{
+ "run": "safety-pass4",
+ "date": "2026-09-12",
+ "scope": "The 23 records held after pass three, rebuilt against the evidence pattern the first three passes established, then audited individually.",
+ "outcome": "4 PUBLISHED",
+ "reason": "",
+ "summary": {
+  "examined": 23,
+  "publish": 4,
+  "held": 19,
+  "unsalvageable": 0,
+  "inconclusive": 0,
+  "publishedByShape": {
+   "mixed": 1,
+   "preparation-specific": 1,
+   "insufficient-data-plus-class-level": 2
+  }
+ },
+ "note": "Slimmed for publication. Full agent output, including record bodies and complete verdicts, is retained locally in data/runs/raw/ and is not published.",
+ "held": [
+  {
+   "slug": "abhraka-bhasma",
+   "reasons": [
+    "Rejected. All eleven cited sources were fetched and read directly this session, six of them as raw article text (Pandit PMC11648886, Gopinath PMC8377185, Kulala PMC10307683, Wele PMC8185977, Kantak PMC7527821, Pillai PMC12757690) rather than through a summarizer, and the record's own reported searches were re-run against the hosts it names. The four previous objections were fixed at their root and I re-verified each. Four new defects block publication, and two of them are in the exact two classes I was told to check hardest: a reported search that does not reproduce, and a methodological detai",
+    "Previous objections, all verified fixed. (a) Rule 11 negative: heavyMetals no longer asserts that no source reports an assay; it now carries Pillai's sentence verbatim - I confirmed the source reads exactly 'A study by Bhatia et al., ( Bhatia and Kale, 2013 ), reported the absence of toxic heavy metals like Mercury and organic compounds in Abhraka Bhasma .' - with its limitations, and narrows the residual negative to 'no measured lead, mercury or arsenic concentration'. (b) The invented aluminium pharmacokinetics is gone; the renal entry is now built on what the sources print. (c) Table 7's si"
+   ],
+   "ruleViolations": [
+    "RULE 11 (search enumerated but does not reproduce): heavyMetals states that search [1], '\"Abhraka Bhasma\" toxicity OR \"heavy metal\" OR \"lead poisoning\" OR \"case report\"' restricted to pubmed.ncbi.nlm.nih.gov, pmc.ncbi.nlm.nih.gov and ncbi.nlm.nih.gov, 'returned Pandit et al. (PMC11648886) and general Ayurvedic lead-poisoning case reports naming no bhasma product'. Re-run today against the same hosts it also returns PMC3665192 ('Evidence for safety of Ayurvedic herbal, herbo-metallic and Bhasma p",
+    "RULE 11 (a search result claimed as a confirmed negative): the record states that search [5] on pharmacopoeia.gov.in, ayush.gov.in, who.int and iris.who.int 'returned Ayush pages describing the Ayurvedic Pharmacopoeia and the Ayurvedic Formulary in general and no monograph for this preparation.' Re-run, it returns a cdn.ayush.gov.in PDF of the Ayurvedic Pharmacopoeia of India Part I Volume IX and a WHO SEARO catalogue record for 'The ayurvedic pharmacopoeia of India. Part I. (Minerals and Metals"
+   ]
+  },
+  {
+   "slug": "akika-pishti",
+   "reasons": [
+    "All five prior objections were fixed at root and I confirmed each against raw source text. Bhalla PMC8882783 Discussion now reads exactly \"The metal concentrations above the FAO/WHO and AYUSH-mandated limit for zinc, mercury, and/or arsenic are seen in all except one formulation.\" - the fabricated 'contents' variant is gone. Mikulski PMC6060866 Table 3 is now described accurately: I parsed the table and it is captioned 'Ayurvedic products with the highest elemental content per pill.' and names Indukantham (Pb 21.6), Brihat Vatchintamani Ras (Hg 139.5), Swarna Bhasma (As 22.4, Sb 0.04, Ag 0.17)",
+    "Every reported search reproduces. I re-ran all of them against the stated databases. PubMed esearch: \"Akik pishti\" 0, \"Akika pishti\" 0, \"Akik bhasma\" 0, \"Akika bhasma\" 0, \"agate bhasma\" 0, \"agate pishti\" 0; Aqiq 64; Akik 65; Aqiq[Title/Abstract] 3 (PMIDs 41387355 and 34968622, air-quality knowledge scales; 1165292, altitude-IQ index); Akik[Title/Abstract] 15, every one lang=hun; pishti 10, and all ten titles match the record word for word. PMC: \"Akik pishti\" 8 with the same eight PMCIDs in the same order, \"agate pishti\" 3, \"Akik bhasma\" 2, \"Akika pishti\" 0, \"Aqiq pishti\" 0. This is the most re"
+   ],
+   "ruleViolations": [
+    "Rule 2 (attributing to sources a content-absence they do not have), in doseLimits: 'The permitted sources that name the ingredient give doses only for multi-ingredient proprietary products and none of them states how much Akika Pishti such a product contains.' Refuted by four of the PMCIDs the record itself enumerates: PMC12321421 Table 1 states Akik Pishti at 79 mg per Cardiogrit Gold tablet; PMC7764187 states 'Akik pishti (5 mg)'; PMC6702236 states 'Akik pishti 5 mg'; PMC3812882 Table 1 states",
+    "Rule 11 (overclaiming the record's own search; the stated result must reproduce), in insufficientReason and repeated in substance in heavyMetals: 'PMC full-text search (db=pmc) does return hits, and every one is a passing ingredient-list mention inside a multi-ingredient product, not a study of the preparation.' Does not reproduce for PMC11646780 (a narrative sentence naming agate among silicate minerals used to make pishti, in a paper on Badarashma Pishti) or PMC6152803 (a state-dispensary esse"
+   ]
+  },
+  {
+   "slug": "ashwagandha",
+   "reasons": [
+    "REJECT. First, what is right, because it must not be undone. I re-fetched all nine cited sources and checked every quotation. The eleven claims the rebuilder says it dropped were in fact dropped at the root, and the previous auditor's objections are all cleared. Verified verbatim and to be preserved unchanged: every LiverTox quotation in NBK548536 (last updated 3 Dec 2024), including likelihood score B, the 150-600 mg sentence WITH 'the total daily dose varying widely' restored, the 8-case Indian series with '3 having acute-on-chronic liver failure and dying', the Bjornsson five-case series, t",
+    "The Pusec double-count is genuinely resolved. LiverTox's annotated bibliography cites Pusec CM et al., Cureus 2022;14:e30433 for the 43-year-old woman on 2100 mg daily with ibuprofen 1200 mg and alcohol, and the primary report (PMC9671273) matches MSK's acute-steatohepatitis line on every particular: 43-year-old woman, iron deficiency anaemia, multiple supplements including ashwagandha 2100 mg for over a year, ibuprofen 1200 mg daily since an ankle sprain 'a week and a half' earlier, wine two to three times weekly, biopsy 'consistent with steatohepatitis with predominantly sinusoidal and perip"
+   ],
+   "ruleViolations": [
+    "Rule 11 (a reported search does not reproduce). The record asserts twice, in heavyMetals and in doseLimits, that ayush.gov.in/assets/pdf/quality_standards/advisory-on-aswagandha.pdf 'returned a 236 KB PDF whose text could not be extracted, the file appearing to be a scanned image, so nothing was read from it and nothing is claimed about its contents either way.' Re-run: HTTP 200, 241,513 bytes (the same 236 KB file), and the text extracts without difficulty from the embedded OCR layer (four Time",
+    "Rule 3 / Rule 7 (a documented hazard on a permitted regulatory host, raised as a URL and then dropped). The same PDF is Ministry of AYUSH advisory F.No. L-11011/9/2021-DCC, 'Advisory for refrain from use of Aswagandha (Withania somnifera) leaves', which states that 'the use of leaves of Withania somnifera has not been reported in classical texts of ASU systems of medicine', that for marketed leaf formulations 'neither their safety and efficacy is vividly studied nor reported in ASU classical tex"
+   ]
+  },
+  {
+   "slug": "eranda-moola",
+   "reasons": [
+    "REJECT on one defect, again a Rule 11 search-reporting defect, and it is the SAME failure class the previous audit rejected on, reintroduced by the repair itself. insufficientReason states: \"'Ricinus communis root toxicity' returns Count 72, and all 72 titles were retrieved by esummary and screened in this pass, not the first 40 only; the 32 records beyond a retmax of 40 are phytoremediation, plant-physiology, plant-molecular-biology and ricin-neuroscience papers, and the only two among them that touch root cytotoxicity are PMID 33540690 ... and PMID 37514300 ...\". Count 72 reproduces. The par",
+    "What I actually got when I re-ran it. esearch db=pubmed, term 'Ricinus communis root toxicity', retmax=100. Count 72, confirmed. Default sort: PMID 37514300 is result #13 and PMID 33540690 is result #21 - both INSIDE the first 40, not 'beyond a retmax of 40'. sort=relevance: #33 and #4, again both inside 40. sort=pub_date: #13 and #22, again inside 40. There is no ordering under which the record's sentence is true."
+   ],
+   "ruleViolations": [
+    "Rule 11 (do not overclaim your own search; reported searches must reproduce): insufficientReason states that 'the 32 records beyond a retmax of 40' for 'Ricinus communis root toxicity' are phytoremediation, plant-physiology, plant-molecular-biology and ricin-neuroscience papers, and that 'the only two among them that touch root cytotoxicity' are PMID 33540690 and PMID 37514300. Re-running esearch db=pubmed for that exact term, both named PMIDs fall INSIDE the first 40 under every sort (default #"
+   ]
+  },
+  {
+   "slug": "eranda-patra",
+   "reasons": [
+    "VERDICT: reject, on three Rule 11 defects, all in the provenance apparatus rather than in the substance. Everything I could check against the primary sources — and I checked essentially all of it — transcribed exactly. The next fixer must repair the three items below and delete nothing else; the body of this record is the most accurate I have seen for this slug.",
+    "DEFECT 1, decisive. heavyMetals asserts a per-agency negative — 'no heavy-metal limit specification for this drug from a Ministry of Ayush, Indian Pharmacopoeia Commission, WHO, EMA or FDA document could be retrieved' — naming two bodies the record never searched. The record's own insufficientReason says WHO IRIS 'could not be searched from this network and this record makes no claim about WHO holdings', which heavyMetals then contradicts by name. FDA appears in no search list anywhere in the record. Fix at the root: cut the agency roster and state only what is supportable — no permitted sourc"
+   ],
+   "ruleViolations": [
+    "Rule 11 — overclaiming the record's own search. heavyMetals asserts: 'no heavy-metal limit specification for this drug from a Ministry of Ayush, Indian Pharmacopoeia Commission, WHO, EMA or FDA document could be retrieved'. That names five bodies as checked-and-negative. No FDA search is reported anywhere in the record (the regulatory list in insufficientReason is EMA, MSK, MedlinePlus, NCCIH, ODS, iris.who.int, pharmacopoeia.gov.in, ayush hosts — FDA is absent), and the record's own insufficien",
+    "Rule 11 — a reported search that does not reproduce. The record states as verified fact: 'iris.who.int returned HTTP 403 to both curl and the fetch tool, so WHO IRIS could not be searched from this network'. Re-run today on this machine, iris.who.int returns HTTP 200: homepage 200, https://iris.who.int/search?query=Ricinus 200, https://iris.who.int/discover?query=castor 200, with a browser UA and with bare curl alike. The record dates these checks to 12 September 2026, which is today. A stated a"
+   ]
+  },
+  {
+   "slug": "eranda",
+   "reasons": [
+    "Sources fetched and read independently, not taken from the rebuilder's account. EMA/HMPC/572974/2014 downloaded as PDF and text-extracted locally (all six pages, sections 1-7 read); MSKCC castor oil page fetched as raw HTML and both the patient and healthcare-professional sections extracted, with the reference list numbered by hand to confirm which sources MSK hangs on refs 20 and 21; MedlinePlus 002768 fetched; StatPearls NBK441948 fetched and searched in full; Worbs 2011 fetched from PMC and read; CIR 18080873, DeMaria 28838804 and Sanchez-Ramos 38462252 pulled as published abstracts through",
+    "Both previous blocking objections are fixed at the root, verified against the sources rather than the changelog. (1) The 'differ by roughly a thousandfold' clause is gone from doseLimits; what remains ('a food-additive limit for ongoing dietary exposure, not a therapeutic dose ... must not be compared, combined or converted into one another') is accurate, and the JECFA figure 'an acceptable daily castor oil intake (for man) of 0 to 0.7 mg/kg body weight' is verbatim in the CIR abstract. (2) The dermal note no longer claims CIR states doses. (3) The DeMaria figures now track the abstract's own "
+   ],
+   "ruleViolations": [
+    "Rule 2 - reasoning attributed to a study it does not state: the parenteral-case entry says Worbs et al. attributed the toxicity to castor oil and ricinoleic acid 'rather than to ricin, on the grounds that CNS symptoms and seizures were absent'. Worbs names no alternative agent in that sentence, and its own text ties seizures to ricinine, not ricin",
+    "Rule 11 - overclaimed negative about a source that does not reproduce: doseLimits limitation (4) and the cir-2007 tier field both assert the CIR abstract gives no dose figures for the animal studies it summarises, but the abstract states 'concentrations up to 10% in the diet of rats' and 'mice fed up to 10% castor oil for 13 weeks', the latter quoted by the record itself in its pregnancy note"
+   ]
+  },
+  {
+   "slug": "godanti-bhasma",
+   "reasons": [
+    "REJECTED. This is the strongest version this record has reached, and most of the previous pass's objections were fixed at the root, not papered over. I re-ran every reported search and re-fetched every load-bearing source. Two statements still fail against the primary literature, and one of them fails against a paper sitting inside the record's own enumerated result set. Both are in the reassuring direction, which is the direction that matters.",
+    "SEARCH REPRODUCTION (the thing most recent rejections turned on): PASSES, completely. I ran all four reported queries against NCBI E-utilities. db=pubmed term Godanti: Count 5, IdList 42161236, 40720339, 39216714, 20532095, 22131712 — the record's five PMIDs, in the record's order. db=pmc term Godanti: Count 32, and all 32 IDs match the record's list in the record's order. db=pubmed 'Godanti AND (toxicity OR \"heavy metal\" OR lead OR arsenic OR mercury)': Count 1, PMID 40720339. db=pmc '\"Godanti Bhasma\" AND (\"elemental analysis\" OR ICP-MS OR \"heavy metals\")': Count 0, 'No items found.' I also p"
+   ],
+   "ruleViolations": [
+    "RULE 11 — Overclaimed search, refuted by a paper inside the record's own enumerated result set. adverseEffects[1].note asserts that for Godanti Bhasma 'no assay and no poisoning case was located'. PMC1412437 — the last ID in the record's own 32-item PMC list — is Gut 1979;20(5):378, 'Chronic oral arsenic intoxication as a possible aetiological factor in idiopathic portal hypertension (non-cirrhotic portal fibrosis) in India' (PMID 468068), a nine-patient series with raised hepatic arsenic in whi",
+    "RULE 11 — Same defect, second surface. adverseEffects[4].effect states 'Human reports naming Godanti Bhasma exist, and none of them is a safety study' and enumerates exactly three (Katru 2026, Shah 2010, Makhija 2025). PMC1412437 is a fourth report on a permitted host naming the preparation, in an arsenic-poisoning context, and is absent from the enumeration."
+   ]
+  },
+  {
+   "slug": "gomeda-bhasma",
+   "reasons": [
+    "REJECT. The searches all reproduce, and the class-level scaffolding is sound, but the record makes a false statement of fact about its own method and then uses that false statement to exclude the three sources that actually contain preparation-specific content about Gomeda. This is the same Rule 11 failure as the last pass wearing a new mask: last time the record omitted two hits it had retrieved; this time it declares three hits unreadable when they are not.",
+    "THE DECISIVE DEFECT. The record states: 'THREE OF THE SIX COULD NOT BE READ. PMC3331307 (Gems and their medicinal values, Ancient Science of Life, 1989), PMC3331331 (Gem therapy and epilepsy, 1990) and PMC3331284 (Role of gems in Indian medicine, 1991) are held by PMC only as scanned page images with no machine-readable full text... Nothing is asserted about what these three contain.' That is false and reproducibly so. All three return complete machine-readable text through the very NCBI E-utilities interface the record names, via its sibling call: https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
+   ],
+   "ruleViolations": [
+    "Rule 11 (do not overclaim your own search; report searches so they reproduce) -- the record asserts that PMC3331307, PMC3331331 and PMC3331284 have 'no machine-readable full text' and 'could not be read'. All three return full extracted text via NCBI E-utilities efetch (db=pmc) as a <preformat preformat-type=\"pmc-pdf-text\"> element: 4,060 / 12,806 / 23,658 characters, reproduced twice on 2026-09-12. A single failed PDF fetch was generalised into a property of the sources, and that false premise ",
+    "Rule 11 / Rule 4 (no unsupportable negative about dose) -- insufficientReason states 'no dose figure' and the DOSE paragraph states 'no human or animal dose figure for this preparation exists in any permitted source'. PMC3331307 states: 'Some of its Ayurvedic preparations are: Gomeda bhasma, Navratnaraj mriganka rasa, Ratna bhagotar rasa etc. The usual dose is 60-120 mgs.'"
+   ]
+  },
+  {
+   "slug": "hajrul-yahood-bhasma",
+   "reasons": [
+    "Verification method: every reported PubMed/PMC search was re-run against the stated endpoint, and every cited source was fetched independently. Files at /private/tmp/claude-501/-Users-jairajsharma/32d59828-3022-4dea-a079-fd2a1ef97218/scratchpad/ (PMC11646780.html, PMC2538618/kalesfull.txt, PMC3925635.html, PMC12903127.html, saper.txt, mikulski.txt, bhalla.txt, hardin.txt, nccih.txt).",
+    "The five previous objections ARE fixed at the root. (a) The 'identifiable clinical literature concerns non-calcined powder forms' sentence is gone, replaced by per-hit reporting of what each abstract itself says. (b) 'the only permitted source that names this ingredient at all' is correctly narrowed to 'the only permitted source that names the calcined form itself', which is true across the sources I checked. (c) The 'no permitted source states which mineral it is calcined from' negative is gone, narrowed to 'no elemental or chemical characterisation, or a heavy-metal assay, of the calcined pr"
+   ],
+   "ruleViolations": [
+    "Rule 11 (overclaiming your own search) plus Rule 7 (hazard raised then dropped). insufficientReason, on Jagtap 2024: 'Only the PubMed abstract was retrievable on a permitted host.' Re-checked 2026-09-12: https://pmc.ncbi.nlm.nih.gov/articles/PMC11646780/ returns the full article with HTTP 200 to an unauthenticated curl with no user-agent, and efetch db=pmc id=11646780 returns full body XML. The full text reports the very heavy-metal results the record says were withheld: As/Pb/Cd/Hg by ICP-OES p",
+    "Rule 11 (overclaiming your own search) plus Rule 1 (selective quotation / caveats not carried). insufficientReason and heavyMetals, on Kales 2007: 'the PMC full text of Kales et al. returned a bot-verification page on repeated attempts this session ... so only the PubMed abstract of that study (PMID 17599022) is relied on here.' Re-checked 2026-09-12: https://pmc.ncbi.nlm.nih.gov/articles/PMC2538618/ returns the full article with HTTP 200 to an unauthenticated curl with no user-agent. (The compa"
+   ]
+  },
+  {
+   "slug": "jayapala",
+   "reasons": [
+    "The two blocking objections from the previous pass WERE fixed at the root and I verified both against the live sources. PMC12386474 Table 4 now reproduces exactly in the record (PLT CB 976.20 +/- 49.92 (a), CA 1018.10 +/- 140.88 (b), control 907.40 +/- 41.49 (a); MCV 52.20 +/- 0.54 (b) vs 53.05 (a) vs 53.84 (a); MCH 18.04 (b) vs 18.15 (a) vs 18.50 (a)), with the prose/table conflict recorded as unresolved rather than resolved in the safe direction, and the legend quoted correctly. The ct-ijms2025 tier no longer says LC-MS: the paper quantified crotonic acid and PMA by HPLC and identified DEHP ",
+    "BLOCKING, RULE 11 AND RULE 3. The pregnancy note reports a search that does not reproduce, and the miss is an adverse finding. It states that searching PubMed and PMC for 'Croton tiglium' with each of 'pregnancy', 'reproductive toxicity', 'developmental toxicity', 'teratogenic' and 'abortifacient' 'returned no mammalian reproductive or developmental toxicity study and no report of exposure in human pregnancy on the permitted hosts'. Re-running the first stated term against the stated database (PubMed esearch, 'Croton tiglium AND reproductive toxicity') returns 4 records, the first being PMID 4"
+   ],
+   "ruleViolations": [
+    "RULE 11 - Overclaimed search, and it does not reproduce. The pregnancy note states that PubMed and PMC searches for 'Croton tiglium' with 'reproductive toxicity', 'developmental toxicity', 'teratogenic', 'pregnancy' and 'abortifacient' returned no mammalian reproductive or developmental toxicity study on the permitted hosts. PubMed esearch for 'Croton tiglium AND reproductive toxicity' returns PMID 41314553, Toxicon 2026;270:108929, whose title is 'Crotonis Fructus-induced reproductive toxicity'",
+    "RULE 3 - Adverse finding available on a permitted host and absent from the record: mammalian (SD rat) female reproductive toxicity for Croton tiglium (PMID 41314553), in a record whose pregnancy section turns on the absence of reproductive data."
+   ]
+  },
+  {
+   "slug": "kaharuba-pishti",
+   "reasons": [
+    "METHOD. Fetched all seven cited sources in raw form (curl + tag-strip, not via a summariser) and re-derived every table value: PMC9261990 (Joshi), PMC12554104 (Narula), PMC11997518 (Rajput), PMC2755247 (Saper), PMC6060866 (Mikulski); FDA and NCCIH via WebFetch (fda.gov blocks curl with a 302 to an abuse-detection page). Also re-ran every search the record reports, against the stated database (NCBI E-utilities esearch, db=pubmed and db=pmc), on 12 September 2026. All URLs are on permitted hosts.",
+    "BLOCKING - Rule 11, a reported search does not reproduce. The record states: 'the quoted phrases \\'kaharuba\\', \\'kahruba\\' and \\'kahruba pishti\\' each return no records at all, PubMed reporting each as a phrase not found'. Re-run: db=pubmed term=\"kaharuba\" returns Count 0 with QuotedPhraseNotFound (correct); term=\"kahruba\" returns Count 0 with QuotedPhraseNotFound (correct); term=\"kahruba pishti\" returns Count 10, IdList 42485741, 41106206, 40163851, 39828143, 39615446, 35813362, 23723668, 22529645, 21731356, 12597554, with QueryTranslation \"pishti\"[All Fields] and a QuotedPhraseNotFound warni"
+   ],
+   "ruleViolations": [
+    "Rule 11 (do not overclaim your own search; reported searches must reproduce): the record states that the quoted phrases 'kaharuba', 'kahruba' and 'kahruba pishti' 'each return no records at all'. Re-run against the stated database (NCBI esearch, db=pubmed) on 12 September 2026, \"kahruba pishti\" returns Count 10 - PMIDs 42485741, 41106206, 40163851, 39828143, 39615446, 35813362, 23723668, 22529645, 21731356, 12597554 - because PubMed reports the phrase as not found and then falls back to \"pishti\"",
+    "Rule 11 (enumerated results must reproduce when re-run): the record states that of the ten records returned by the unqualified term 'pishti', PMID 35813362 and PMID 40163851 'are the only ones concerning amber'. Three of the ten concern amber. PMID 41106206 (Narula et al.) administers 'Kahrva pishti 125mg' twice daily and is the record's own sole clinical source for this preparation, so the search paragraph contradicts the rest of the document."
+   ]
+  },
+  {
+   "slug": "kanmad-bhasma",
+   "reasons": [
+    "REJECT, but narrowly. The shape is right and almost everything verified. I re-ran every reported search and re-read every cited source; all four previous objections are genuinely fixed at root, not papered over. Three statements still fail source checking, one of them the exact failure class the brief names (an invented methodological detail). Each is a one-clause fix.",
+    "BLOCKING 1 (Rule 2) - contraindications / animal-source entry, Angers 2009. The record states: 'infection attack rates below 100% meant the authors were unable to assign a definitive titer'. The paper states a different reason: 'Because the incubation times of CWD prions in antler velvet from elk 01-0306 and 03-0306 were outside the linear range of dose and incubation time (Figure 5), we were unable to assign a definitive titer. The infection attack rates <100% suggested that CWD prion titers in these 1% inocula were close to, or at, the end point of the bioassay (< 3.5 log i.c.ID50 units).' T"
+   ],
+   "ruleViolations": [
+    "Rule 2 (never attribute to a study a methodological detail it does not state) - contraindications / animal-derived source material: 'infection attack rates below 100% meant the authors were unable to assign a definitive titer' invents a causal rationale. Angers 2009 attributes the inability to assign a titer to incubation times falling outside the linear range of dose and incubation time; the sub-100% attack rates are separately said to suggest titers at or near the bioassay end point.",
+    "Rule 1 (carry a source's caveats and limitations, not just its convenient sentence) - pregnancy note: the record uses the mtb-lead sentence on reasoning, remembering, awareness and language while omitting the limitation attached to it in the same paragraph, that 'limitations of these studies (differences in environmental factors and different blood lead levels across groups) make it difficult to know when and how often lead exposure during pregnancy can affect future behavior or learning' - in a"
+   ]
+  },
+  {
+   "slug": "mukta-pishti",
+   "reasons": [
+    "BLOCKING - the record overclaims its own search account, and the overclaim is literally false. heavyMetals says 'Identifying every record returned:' and then identifies eleven PMIDs. The 'pishti' search returns ten records, one of which - 23723668 - is never identified anywhere in the record. I re-ran all sixteen searches through NCBI E-utilities (db=pubmed) today and every one reproduces exactly, including 'pishti' returning 42485741, 41106206, 40163851, 39828143, 39615446, 35813362, 23723668, 22529645, 21731356, 12597554. PMID 23723668 is 'Clinical evaluation of Ashokarishta, Ashwagandha Chu",
+    "BLOCKING - an absence claim about a full text the record has not read, and could not read. heavyMetals states of Balkrishna 2025: 'the paper reports no ICP-MS, no atomic absorption and no other trace-element determination', and later 'The paper states no number of batches for the test article'. The only source given for Balkrishna is the PubMed record (sources entry: pubmed.ncbi.nlm.nih.gov/39828143, tier 'peer-reviewed (PubMed)'), and the record itself signals elsewhere that it read Joshi's full text at PMC but says nothing of the kind here. I tried to reach the full text through doi.org, whi"
+   ],
+   "ruleViolations": [
+    "Rule 11 - overclaiming the record's own search. heavyMetals says 'Identifying every record returned:' but PMID 23723668, returned by the reproduced 'pishti' search, is identified nowhere in the record. The enumeration reproduces; the claim of exhaustive identification does not.",
+    "Rule 2, in its mirror form - asserting what a study does not report, from a source the record never read. 'the paper reports no ICP-MS, no atomic absorption and no other trace-element determination' and 'The paper states no number of batches for the test article' are claims about the full text of Balkrishna 2025, which is paywalled at Elsevier, absent from PMC, and cited in this record only by its PubMed abstract."
+   ]
+  },
+  {
+   "slug": "navayasa-loha",
+   "reasons": [
+    "BLOCKING (Rule 11 - a negative the record's own cited source contradicts). doseLimits states: 'No dose can be given... no permitted source states any human dose for this preparation at all.' That is false. Samal 2016 (PMC5822980), which this record cites and quotes, publishes Table 2, 'Dosage, duration and Anupana of important Ayurvedic formulations for iron deficiency anemia', whose last row reads: 'Navayasa Lauha | 250 mg twice daily | Honey | 30 days'. I read the table directly (PMC serves it as an image, https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c3bd/5822980/a2bfd2984ce7/AYU-37-163-g004.jpg, ",
+    "BLOCKING (Rule 11, and the claim 'no clinical study'). insufficientReason asserts 'No permitted source describes this preparation. There is no monograph, no elemental or heavy-metal analysis, no clinical study, no case report naming it...'. Samal 2016's Table 1 (graphic AYU-37-163-g003.jpg, https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c3bd/5822980/75d3465bc043/AYU-37-163-g003.jpg) reports a clinical study of the named preparation: 'Nazmul Huda Md, Daya Shankar Mishra, Singh JP. J Homeopath Ayurveda Med 2014;3:162. Randomized, nonblinded, controlled trial. 30 participants equally divided into three g"
+   ],
+   "ruleViolations": [
+    "Rule 11 (do not overclaim your own search; never convert 'I found nothing' into 'no source states it'): doseLimits asserts 'no permitted source states any human dose for this preparation at all', and insufficientReason asserts 'Neither paper gives... a dose... for it'. Samal 2016 (PMC5822980), cited and quoted by this record, states in Table 2 'Navayasa Lauha | 250 mg twice daily | Honey | 30 days'. The table is published by PMC as a JPEG graphic (AYU-37-163-g004.jpg) and was not opened.",
+    "Rule 11 / rejection criterion 'a claim is not clearly supported by its cited source': insufficientReason asserts 'No permitted source describes this preparation... no clinical study... naming it'. Samal 2016 Table 1 (AYU-37-163-g003.jpg) reports a randomised nonblinded controlled trial of Navayasa Lauha 250 mg for 30 days in a 30-participant three-arm study, with named haematological outcomes."
+   ]
+  },
+  {
+   "slug": "nityananda-rasa",
+   "reasons": [
+    "SOURCES FETCHED AND CHECKED MYSELF, not taken from the rebuilder: PubMed efetch for 37054826, 23049193, 18728265, 15598918, 29528276, 36179284, 33881010, 37492071, 29960971; PMC full text of PMC6060866 (Mikulski, incl. Table 2, footnotes a-d, Table 3 and the speciation sentence), PMC2755247 (Saper 2008), PMC10363841 (Hardin), PMC7941752, PMC12444892, PMC11839261, PMC10838742; esummary for PMC3331264; PubMed esearch for JAMA 300:1652; the live FDA and NCCIH pages. All ten cited hosts are on the permitted list.",
+    "PRIOR OBJECTION 1 FIXED AT ROOT. The rule-11 closing sentence 'None of these class-level reports tested Nityananda Rasa itself' is gone, replaced by what each report actually publishes. I confirmed each replacement clause: Mikulski's Table 3 gives nine rows over six distinct product families (Indukantham, Brihat Vatchintamani Ras, Swarna Bhasma, Saubhagya, Shulagna, Arbudari) and the paper never enumerates its 252 samples; Ciocan's implicated drug is unnamed ('One of the two drugs contained extremely high concentrations of lead and mercury'); Hore aggregates 584 remedies with no sample list."
+   ],
+   "ruleViolations": [
+    "Rule 11 - an enumerated search result that does not reproduce. heavyMetals.text: 'PMC12444892, PMC11839261 and PMC10838742 match only because their reference lists cite Kshirsagar et al. (2023).' I fetched all three. PMC12444892 names the preparation in its Discussion: 'In contrast, the sub-chronic toxicity study on Nityanand Rasa (NR) (19), an Ayurvedic herbo-metallic formulation, showed mild liver and kidney toxicity at high doses of 600 mg/kg feed.' The rebuilder quotes that same sentence in ",
+    "Rules 1 and 3 - a cited source misdescribed and its adverse findings dropped. heavyMetals.text: 'Hardin et al. (2023) reported severe arsenic poisoning due to Ayurvedic supplements; the published abstract is four sentences of general advice and provides no patient-level or product-level detail', and 'the Hardin abstract names no product'. The abstract is three sentences, not four. More seriously, the full text is PMC10363841 on pmc.ncbi.nlm.nih.gov, a permitted host, and reports a 75-year-old wo"
+   ]
+  },
+  {
+   "slug": "panna-pishti",
+   "reasons": [
+    "SHAPE IS CORRECT AND SHOULD NOT CHANGE. insufficientData is true, every statement carries scope 'class-level', there is no doseLimits field and insufficientReason says why, no efficacy or indication appears anywhere (Joshi's antimicrobial result and 'quite safe ... essential micronutrients' sentence, Jagtap's renal-calculi framing and Mukta Pishti's anti-ulcer framing are all correctly excluded), no study arms are spliced, pregnancy and lactation are both 'avoid' on stated developmental-neurotoxicant reasoning, and the beryllium mention is carried through to the 'undisclosed and unanalysed com",
+    "BLOCKING, Rule 2 (a value attributed to a source that the source does not state): the record says of Joshi et al. (2020) that 'Table 9 gives the maximum permissible limits it compares against ... as As 103 ng/g, Cd 0.3 microg/g, Pb 10 microg/g and Hg 1 microg/g.' I read the full text (PMC9261990). The published Table 9 markup is '10<sup>3</sup> ng/g' for As, i.e. 10^3 ng/g = 1,000 ng/g = 1 microg/g. The record has flattened a superscript into a different number roughly ten-fold low. Cd 0.3 microg/g, Pb 10 microg/g and Hg 1 microg/g are correct; only the arsenic figure is wrong. Because the sen"
+   ],
+   "ruleViolations": [
+    "Rule 2 (never attribute to a study a finding or methodological detail it does not state): heavyMetals reports Joshi et al. (2020) Table 9 as giving the arsenic maximum permissible limit as 'As 103 ng/g'. The published table (PMC9261990) states 10^3 ng/g, that is 1,000 ng/g or 1 microg/g. The record attributes to the source a numeric limit roughly ten-fold below what it states, inside a sentence that presents itself as reporting the table's contents."
+   ]
+  },
+  {
+   "slug": "raupya-bhasma",
+   "reasons": [
+    "Fetched and read every cited source in full rather than relying on the rebuilder's account: PMC9728409, PMC3271539, PMC3361937, PMC6421027, PMC2755247, PMC8882783, NBK604211, NBK621375, and the NCCIH colloidal-silver page. The four defects the previous auditor required were fixed at their root. The 70 mg/kg figure now reads 'Estimated cumulative doses leading to generalized argyria in humans have been reported as low as 70 mg/kg body weight' with 'lifetime' and 'body burden' gone from both fields; the 'neither tested a silver bhasma by name' assertion is replaced with the supportable statement",
+    "Verified verbatim and accurate: all StatPearls quotes (argyria/argyrosis as most common effects, the argyrosis definition sentence, the 55-year-old 9-year oral-mycosis case, proteinuria and damaged glomeruli, diffuse argyria at abdominal operation, blood-brain and placental barrier crossing, biliary/faecal excretion with breast milk among routes, highest concentrations in skin/liver/kidneys/cornea/gingiva, blood silver under 1 mcg/L, 'No minimum serum silver levels are consistent with early argyria', the no-antidote sentence, the 7 g intrauterine silver nitrate death, and the WHO RfD sentence "
+   ],
+   "ruleViolations": [
+    "RULE 11 (overclaiming the search; enumerated results that do not reproduce). heavyMetals asserts 'Three permitted sources examine a silver bhasma by name' and enumerates what searches (i) to (iii) returned. Re-run against the stated database: PubMed \"Rajata Bhasma\" returns three records, PMIDs 33425283, 28827959 and 22661856, and PubMed \"silver bhasma\" returns ten including both of the first two. PMID 28827959, 'Physicochemical characterization and antibacterial activity of Rajata Bhasma and sil",
+    "RULE 2 (asserting about the source set something the sources do not support). The contraindication 'Use of Raupya Bhasma without a batch elemental assay of the finished product' states that 'Every permitted source that examines a silver bhasma leaves its contaminant content unmeasured or unquantified', resting on an enumerated set of three. PMC5541471 is a fourth such permitted source and it does report an instrumental measurement: 'The ICP-AES analysis of the Bhasma showed the silver content in"
+   ]
+  },
+  {
+   "slug": "vaikranta-bhasma",
+   "reasons": [
+    "VERDICT: reject. All three previously blocking defects are fixed at the root and I re-verified each against the live sources. The record is now close, and the great bulk of it is exactly right. It fails on three statements the record makes ABOUT ITS SOURCES that do not survive checking, one of which is an invented methodological limitation contradicted by a figure in the very paper the record leans on hardest.",
+    "BLOCKING 1 (Rule 2, invented methodological detail). heavyMetals states: \"as reported here EDAX identifies elements only, giving no concentration and no chemical species, so the chromium, manganese and zinc it lists are unquantified and unspeciated.\" The first clause is false. Tripathi 2013's EDAX report is Figure 2 (graphic ASL-32-199-g003.jpg, retrievable at https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6ba6/4078469/d681c40ee938/ASL-32-199-g003.jpg), and it is a quantitative EDAX/AMETEK Microanalysis Report prepared at IIT-Roorkee dated 6/24/2008 carrying an Element / Wt% / At% table: C 04.88/08.68"
+   ],
+   "ruleViolations": [
+    "Rule 2 (never attribute to a study a methodological detail it does not state): heavyMetals asserts that in Tripathi 2013 \"EDAX identifies elements only, giving no concentration and no chemical species\". Tripathi's Figure 2 (ASL-32-199-g003.jpg) is a quantitative EDAX Microanalysis Report tabulating Wt% and At% for nine elements (C 04.88/08.68, O 38.59/51.50, Na 01.61/01.50, Mg 01.94/01.71, Al 15.11/11.96, Si 23.28/17.70, S 04.39/02.93, K 00.85/00.47, Fe 09.33/03.57, Matrix Correction ZAF). The s",
+    "Rule 1 (selective quotation; a quotation presented as complete must be complete): heavyMetals says Tripathi's \"conclusion reads in full\" and then gives two sentences. The CONCLUSION section runs eight sentences; the quoted pair is the fourth and fifth, and the record itself quotes a sixth from the same section two sentences later as something \"The authors add\". No caveat is lost and the sense is not reversed, but the completeness claim is false, and truncation punctuated as complete is the preci"
+   ]
+  },
+  {
+   "slug": "vatagajankush-rasa",
+   "reasons": [
+    "REJECT on a single defect, but it is squarely in the Rule 11 family this record has now been rejected for twice: an unverifiable negative asserted about the contents of a source the record itself says it could not read. insufficientReason states, of PMC3331427, 'The PDF full text could not be retrieved from the permitted host during this check, so no claim is made here about its contents beyond the HTML record.' Eight sentences later it states 'Across all eight, none reports for Vatagajankusha Rasa an elemental assay, a quantitative composition, a dose, an interaction, a contraindication, or a",
+    "Fix that would make this approvable, and nothing else needs to move: scope the summary sentence to what was actually read, e.g. 'Across the seven of the eight whose text could be read, none reports for Vatagajankusha Rasa an elemental assay, a quantitative composition, a dose, an interaction, a contraindication, or any adverse-event, pregnancy or lactation datum; the eighth, PMC3331427, is held only as a scanned PDF that could not be retrieved (the PMC PDF endpoint returns a proof-of-work interstitial), so nothing is asserted about its contents beyond its HTML abstract.' Correspondingly soften"
+   ],
+   "ruleViolations": [
+    "Rule 11 (do not overclaim your own search; a reported negative must reproduce): insufficientReason asserts 'Across all eight, none reports for Vatagajankusha Rasa an elemental assay, a quantitative composition, a dose, an interaction, a contraindication, or any adverse-event, pregnancy or lactation datum', and introduces the per-article section as 'What each of the eight actually contains, checked by fetching each article'. Both are contradicted by the record's own statement about PMC3331427: 'T"
+   ]
+  }
+ ],
+ "accepted": [
+  {
+   "slug": "bhanga",
+   "auditReasons": [
+    "APPROVE. Every search the record reports was re-run against the stated database and reproduced exactly: PubMed 'Bhanga' returned the same 7 PMIDs in the same order, and esummary confirms each of the six non-cannabis records is exactly as described (Dhaka-Bhanga expressway soil PAH study, Bangladesh buffalo review, arsenite-oxidase soil study, 1974 Bhanga tick virus, two 1931 Indian Medical Gazette papers). 'Bhanga AND cannabis', 'Shodhita Bhanga', 'Jalaprakshalana' and 'Bhanga AND Ayurveda' each returned 1 record (31831967). PMC '\"Shodhita Bhanga\"' returned 1 (PMC6891996) and PMC '\"Bhanga\" AND",
+    "All six sources were fetched and grepped directly rather than taken on the rebuilder's account. PMC6891996 was retrieved as efetch XML: the exclusion criteria, 'between age 18 to 70 years', the Pitta-Prakriti and chronic-addiction precaution, the Ashodhita/Madakari sentence, 'No ADR were noted during the trial period', 'Patients (n=1) who reported burning sensation after TD administration were dropped out from trial', the 37 enrolled / 24 (64.86%) completed / 13 (35.14%) dropped out sentence with its stated reasons, 'Recommended dose of water-wash processed cannabis leaves as per Ayurvedic pha"
+   ]
+  },
+  {
+   "slug": "kataka",
+   "auditReasons": [
+    "EVERY STATED SEARCH REPRODUCES EXACTLY. I re-ran all of them against the stated database. esearch db=pubmed term=\"Strychnos potatorum\" returns Count 37 and the identical 37 PMIDs in the identical order the record prints. The four sub-searches reproduce term-for-term and count-for-count: pregnancy OR pregnant OR teratogen* OR lactation OR breastfeeding = 0; carcinogen* OR mutagen* OR genotox* = 1 (25411981); poisoning OR \"adverse effect\" OR \"case report\" = 3 (16388923, 594212, 14059608); humans[mh] OR \"clinical trial\"[pt] = 4 (35630662, 32143607, 25816985, 11864763); esearch db=books = 0. This ",
+    "THE TITLE-LEVEL SCREENING CLAIM IS TRUE AND IS PROPERLY BOUNDED. I pulled esummary for all 37 PMIDs and read every title. None of the 31 uncited titles indicates a human safety assessment, a human dose, a human case report, a clinical study in patients, an interaction study, a pharmacokinetic study or a reproductive or developmental toxicity study. The record states that title-level screening is all that was done and cannot establish what is inside an unread full text, which is exactly the right limit. I also checked the two titles that could look like hidden hazard data - PMID 22348988 (cadmi"
+   ]
+  },
+  {
+   "slug": "mrigashringa-bhasma",
+   "auditReasons": [
+    "APPROVE. Correctly shaped insufficientData record: no preparation-specific claim is made anywhere, every one of the nine statements is scoped class-level, and each is traceable to a permitted source I fetched and checked myself.",
+    "PRIOR OBJECTION 1 FIXED AT ROOT (Saper 2008, PMC2755247). I pulled the limitations paragraph verbatim. It states exactly five items in this order: potential misclassification of country of manufacture and rasa shastra status (plus the 'does not affect the overall prevalence... nondifferential' addendum); unobtainable products not random; 'We did not assess batch-to-batch variability in metal concentrations. However, this would likely not significantly alter overall prevalence estimates'; 'Wide variation among published standards for acceptable limits of daily metal ingestion makes it difficult"
+   ]
+  },
+  {
+   "slug": "varatika-bhasma",
+   "auditReasons": [
+    "APPROVED. Every cited source was fetched and read independently (PMC7685255, PMC3960793, PMC4147483, PMC2755247, PMC8882783, PMC5411861 pulled as raw HTML and tag-stripped, including table-cell-level extraction; FDA, NCCIH and the WHO lead fact sheet via WebFetch). Every search reported in insufficientReason was re-run today against the stated endpoint and reproduces exactly.",
+    "SEARCH REPRODUCTION (Rule 11) — all nine re-run against https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi. db=pubmed 'Varatika' = Count 0 with QuotedPhraseNotFound. db=pubmed 'Kapardika' = Count 1, PMID 31000993. db=pubmed '\"Kapardika bhasma\"' = Count 0, WarningList QuotedPhraseNotFound, QueryTranslation '\"kapardika\"[All Fields] AND (\"bhasma\"[All Fields] OR \"bhasmas\"[All Fields])' — matches the record verbatim. db=pubmed '\"Varatika bhasma\"' = Count 222 with QuotedPhraseNotFound and QueryTranslation '\"bhasma\"[All Fields] OR \"bhasmas\"[All Fields]' — the record's disclosure that the 222 "
+   ]
+  }
+ ]
+}
