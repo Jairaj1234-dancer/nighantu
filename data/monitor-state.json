@@ -471,7 +471,7 @@
       "https://jairaj1234-dancer.github.io/nighantu/herb/bala/": "9f7ced2b28232772",
       "https://jairaj1234-dancer.github.io/nighantu/herb/bandhuka/": "dccd1585ecbc7037",
       "https://jairaj1234-dancer.github.io/nighantu/herb/bhadra/": "d308fab86bbae7ac",
-      "https://jairaj1234-dancer.github.io/nighantu/herb/bhanga/": "5ebff8bfc9445765",
+      "https://jairaj1234-dancer.github.io/nighantu/herb/bhanga/": "8d4209187f785ec9",
       "https://jairaj1234-dancer.github.io/nighantu/herb/bharangi/": "da723e8a28940963",
       "https://jairaj1234-dancer.github.io/nighantu/herb/bhringraj/": "518154b020940b40",
       "https://jairaj1234-dancer.github.io/nighantu/herb/bhumi-jambuka/": "7c7d15de12af1c42",
@@ -719,7 +719,7 @@
       "https://jairaj1234-dancer.github.io/nighantu/herb/mochras/": "f1c88132daaf9572",
       "https://jairaj1234-dancer.github.io/nighantu/herb/moringa/": "ea0630217df5cf92",
       "https://jairaj1234-dancer.github.io/nighantu/herb/morning-glory/": "df9271459fe69376",
-      "https://jairaj1234-dancer.github.io/nighantu/herb/mrigashringa-bhasma/": "88ca475a8822b13b",
+      "https://jairaj1234-dancer.github.io/nighantu/herb/mrigashringa-bhasma/": "bd348d5bdad30272",
       "https://jairaj1234-dancer.github.io/nighantu/herb/mudgaparni/": "052ba9373d47c103",
       "https://jairaj1234-dancer.github.io/nighantu/herb/mukta-pishti/": "3abd6f8db3410d1b",
       "https://jairaj1234-dancer.github.io/nighantu/herb/mulaka/": "5f2f7429335b2f4f",
@@ -889,7 +889,7 @@
       "https://jairaj1234-dancer.github.io/nighantu/herb/vanapsa/": "74ee6b234124a143",
       "https://jairaj1234-dancer.github.io/nighantu/herb/vanga-bhasma/": "808a88b80b57ff16",
       "https://jairaj1234-dancer.github.io/nighantu/herb/varahikanda/": "c6b8277681b3e3b9",
-      "https://jairaj1234-dancer.github.io/nighantu/herb/varatika-bhasma/": "3d2c3be14d0b19c1",
+      "https://jairaj1234-dancer.github.io/nighantu/herb/varatika-bhasma/": "1f31538035b69459",
       "https://jairaj1234-dancer.github.io/nighantu/herb/varshabhu/": "716ad8e21d9e9edf",
       "https://jairaj1234-dancer.github.io/nighantu/herb/vartaku/": "937eec219b17e179",
       "https://jairaj1234-dancer.github.io/nighantu/herb/varuna/": "0207bfffb71139ed",
@@ -997,15 +997,16 @@
       "https://jairaj1234-dancer.github.io/nighantu/text/": "82b017b030c3094c",
       "https://jairaj1234-dancer.github.io/nighantu/text/ashtanga-hridaya/": "c36649d0d44a357d",
       "https://jairaj1234-dancer.github.io/nighantu/text/sharangadhara-samhita/": "a225b14a40642725",
-      "https://jairaj1234-dancer.github.io/nighantu/verification/": "7036c6006bf03c9f",
+      "https://jairaj1234-dancer.github.io/nighantu/verification/": "b05480adc2311b7e",
       "https://jairaj1234-dancer.github.io/nighantu/verification/botanical-identity/": "32f6b5d5d956b64d",
       "https://jairaj1234-dancer.github.io/nighantu/verification/citations/": "d6d8d8747185791e",
       "https://jairaj1234-dancer.github.io/nighantu/verification/safety-panel-01/": "181cb5a31860fd31",
       "https://jairaj1234-dancer.github.io/nighantu/verification/safety-pass3/": "fb8ba086613689dc",
+      "https://jairaj1234-dancer.github.io/nighantu/verification/safety-pass4/": "e2d0a2f8d0622612",
       "https://jairaj1234-dancer.github.io/nighantu/verification/safety-repair-02/": "31af4ebd12fe14e8"
     },
-    "lastSubmittedAt": "2026-09-11T12:46:58.693Z",
-    "lastSubmittedCount": 808
+    "lastSubmittedAt": "2026-09-12T05:51:33.492Z",
+    "lastSubmittedCount": 5
   },
   "products": {
     "broken": 0,
@@ -1090,6 +1091,6 @@
     "seen": 34,
     "surfaced": 1
   },
-  "updatedAt": "2026-09-11T13:33:03.097Z",
+  "updatedAt": "2026-09-12T05:51:33.492Z",
   "version": 1
 }
