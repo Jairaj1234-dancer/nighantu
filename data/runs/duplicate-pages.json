@@ -1,0 +1,17 @@
+{
+ "run": "duplicate-pages",
+ "date": "2026-09-12",
+ "scope": "The 33 groups of pages that resolve to the same species without being distinguished by plant part, classified as one drug under several names or as genuinely different drugs.",
+ "outcome": "24 duplicate groups, 5 distinct",
+ "reason": "",
+ "summary": {
+  "groups": 33,
+  "duplicates": 24,
+  "distinct": 5,
+  "mixed": 4,
+  "overruled": 0,
+  "unreviewed": 0,
+  "pagesToCanonicalise": 24
+ },
+ "note": "Slimmed for publication. Full agent output, including record bodies and complete verdicts, is retained locally in data/runs/raw/ and is not published."
+}
