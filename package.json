@@ -26,7 +26,8 @@
     "rebuild": "./scripts/rebuild-all.sh",
     "crawl-audit": "node scripts/crawl-audit.mjs",
     "safety-refresh": "node scripts/safety-refresh.mjs",
-    "safety-refresh:dry": "node scripts/safety-refresh.mjs --dry-run"
+    "safety-refresh:dry": "node scripts/safety-refresh.mjs --dry-run",
+    "retractions": "node scripts/check-retractions.mjs"
   },
   "dependencies": {
     "astro": "^5.6.1",

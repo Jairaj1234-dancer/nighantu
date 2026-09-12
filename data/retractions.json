@@ -1,0 +1,160 @@
+{
+ "checkedAt": "2026-09-12",
+ "papersChecked": 2906,
+ "flagged": [
+  {
+   "pmid": "35819514",
+   "kind": "retracted-publication",
+   "title": "Biotechnological interventions and indole alkaloid production in Rauvolfia serpentina.",
+   "journal": "Applied microbiology and biotechnology",
+   "year": "2022",
+   "pubtype": "Journal Article; Review; Retracted Publication",
+   "subjects": [
+    "herb/sarpagandha"
+   ]
+  },
+  {
+   "pmid": "34457017",
+   "kind": "retracted-publication",
+   "title": "Chemical Composition, Pharmacological, and Toxicological Effects of Betel Nut.",
+   "journal": "Evidence-based complementary and alternative medicine : eCAM",
+   "year": "2021",
+   "pubtype": "Journal Article; Review; Retracted Publication",
+   "subjects": [
+    "herb/puga"
+   ]
+  },
+  {
+   "pmid": "31431119",
+   "kind": "retracted-publication",
+   "title": "New insights and rethinking of cinnabar for chemical and its pharmacological dynamics.",
+   "journal": "Bioengineered",
+   "year": "2019",
+   "pubtype": "Historical Article; Journal Article; Review; Retracted Publication",
+   "subjects": [
+    "herb/hinguleshwar-ras"
+   ]
+  },
+  {
+   "pmid": "41963067",
+   "kind": "retraction-notice",
+   "title": "Retraction notice to \"Immunomodulatory Role of Diospyros peregrina Fruit Preparation in Breast Cancer by Utilizing Macrophage Mediated Antigen Presentation and T Helper Cell (Th) Differentiation\" [Clinical Breast Cancer 23 (2023) e95-e102].",
+   "journal": "Clinical breast cancer",
+   "year": "2026",
+   "pubtype": "Journal Article; Retraction Notice",
+   "subjects": [
+    "herb/tinduka"
+   ]
+  },
+  {
+   "pmid": "39170771",
+   "kind": "retraction-notice",
+   "title": "Retraction Note: Ameliorative potential of Operculina turpethum against streptozotocin-induced diabetes in rats: biochemical and histopathological studies.",
+   "journal": "3 Biotech",
+   "year": "2024",
+   "pubtype": "Retraction Notice",
+   "subjects": [
+    "herb/trivrit"
+   ]
+  },
+  {
+   "pmid": "36641322",
+   "kind": "retracted-publication",
+   "title": "Immunomodulatory Role of Diospyros peregrina Fruit Preparation in Breast Cancer by Utilizing Macrophage Mediated Antigen Presentation and T Helper Cell (Th) Differentiation.",
+   "journal": "Clinical breast cancer",
+   "year": "2023",
+   "pubtype": "Journal Article; Research Support, Non-U.S. Gov't; Retracted Publication",
+   "subjects": [
+    "herb/tinduka"
+   ]
+  },
+  {
+   "pmid": "37245338",
+   "kind": "retracted-publication",
+   "title": "In-depth in-vitro and in-vivo anti-diabetic evaluations of Fagonia cretica mediated biosynthesized selenium nanoparticles.",
+   "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+   "year": "2023",
+   "pubtype": "Journal Article; Retracted Publication",
+   "subjects": [
+    "herb/dhamasa"
+   ]
+  },
+  {
+   "pmid": "35613105",
+   "kind": "retracted-publication",
+   "title": "Role of biochar and compost in cadmium immobilization and on the growth of Spinacia oleracea.",
+   "journal": "PloS one",
+   "year": "2022",
+   "pubtype": "Journal Article; Retracted Publication",
+   "subjects": [
+    "herb/palankya"
+   ]
+  },
+  {
+   "pmid": "34194901",
+   "kind": "retracted-publication",
+   "title": "Ameliorative potential of Operculina turpethum against streptozotocin-induced diabetes in rats: biochemical and histopathological studies.",
+   "journal": "3 Biotech",
+   "year": "2021",
+   "pubtype": "Journal Article; Retracted Publication",
+   "subjects": [
+    "herb/trivrit"
+   ]
+  },
+  {
+   "pmid": "33419120",
+   "kind": "retracted-publication",
+   "title": "RETRACTED: Myricitrin, a Glycosyloxyflavone in Myrica esculenta Bark Ameliorates Diabetic Nephropathy via Improving Glycemic Status, Reducing Oxidative Stress, and Suppressing Inflammation.",
+   "journal": "Molecules (Basel, Switzerland)",
+   "year": "2021",
+   "pubtype": "Journal Article; Retracted Publication",
+   "subjects": [
+    "herb/katphala"
+   ]
+  },
+  {
+   "pmid": "34414528",
+   "kind": "retraction-notice",
+   "title": "Retraction Note to: Deoxynivalenol-induced alterations in the redox status of HepG2 cells: identification of lipid hydroperoxides, the role of Nrf2-Keap1 signaling, and protective effects of zinc.",
+   "journal": "Mycotoxin research",
+   "year": "2021",
+   "pubtype": "Retraction Notice",
+   "subjects": [
+    "herb/nikochaka"
+   ]
+  },
+  {
+   "pmid": "31832027",
+   "kind": "retracted-publication",
+   "title": "Dose-Dependent, Antidepressant, and Anxiolytic Effects of a Traditional Medicinal Plant for the Management of Behavioral Dysfunctions in Animal Models.",
+   "journal": "Dose-response : a publication of International Hormesis Society",
+   "year": "2019",
+   "pubtype": "Journal Article; Retracted Publication",
+   "subjects": [
+    "herb/gojihva"
+   ]
+  },
+  {
+   "pmid": "29234381",
+   "kind": "retracted-publication",
+   "title": "Antihyperglycemic, Antidiabetic, and Antioxidant Effects of Garcinia pedunculata in Rats.",
+   "journal": "Evidence-based complementary and alternative medicine : eCAM",
+   "year": "2017",
+   "pubtype": "Journal Article; Retracted Publication",
+   "subjects": [
+    "herb/amlavetasa"
+   ]
+  },
+  {
+   "pmid": "28243309",
+   "kind": "retracted-publication",
+   "title": "Assessment of Toxicity and Beneficiary Effects of Garcinia pedunculata on the Hematological, Biochemical, and Histological Homeostasis in Rats.",
+   "journal": "Evidence-based complementary and alternative medicine : eCAM",
+   "year": "2017",
+   "pubtype": "Journal Article; Retracted Publication",
+   "subjects": [
+    "herb/amlavetasa"
+   ]
+  }
+ ]
+}
