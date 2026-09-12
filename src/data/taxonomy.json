@@ -6,15 +6,15 @@
   "NCBI Taxonomy, https://www.ncbi.nlm.nih.gov/taxonomy"
  ],
  "summary": {
-  "botanicals": 236,
-  "resolved": 236,
-  "exact": 229,
+  "botanicals": 241,
+  "resolved": 241,
+  "exact": 234,
   "fuzzy": 1,
   "higherRank": 6,
-  "synonyms": 25,
+  "synonyms": 26,
   "notFound": 0,
-  "withWikidata": 223,
-  "withNcbiTaxid": 232
+  "withWikidata": 228,
+  "withNcbiTaxid": 236
  },
  "taxa": [
   {
@@ -242,6 +242,34 @@
    "ncbiTaxid": "50866"
   },
   {
+   "query": "Acorus calamus",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "vacha",
+     "title": "Vacha",
+     "asPublished": "Acorus calamus"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 2873769,
+   "scientificName": "Acorus calamus L.",
+   "canonicalName": "Acorus calamus",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 99,
+   "kingdom": "Plantae",
+   "family": "Acoraceae",
+   "order": "Acorales",
+   "genus": "Acorus",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-12",
+   "wikidata": "Q158008",
+   "ncbiTaxid": "4465"
+  },
+  {
    "query": "Adhatoda vasica",
    "pages": [
     {
@@ -373,6 +401,12 @@
      "slug": "ankola",
      "title": "Ankola",
      "asPublished": "Alangium salviifolium (L.f.) Wangerin"
+    },
+    {
+     "kind": "herb",
+     "slug": "nikochaka",
+     "title": "Nikochaka",
+     "asPublished": "Alangium salviifolium"
     }
    ],
    "status": "ok",
@@ -420,6 +454,34 @@
    "checkedAt": "2026-09-12",
    "wikidata": "Q2717846",
    "ncbiTaxid": "371650"
+  },
+  {
+   "query": "Alhagi pseudalhagi",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "yavasa",
+     "title": "Yavasa",
+     "asPublished": "Alhagi pseudalhagi"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 11374752,
+   "scientificName": "Alhagi pseudalhagi (M.Bieb.) Desv. ex Wangerin",
+   "canonicalName": "Alhagi pseudalhagi",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 97,
+   "kingdom": "Plantae",
+   "family": "Fabaceae",
+   "order": "Fabales",
+   "genus": "Alhagi",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-12",
+   "wikidata": "Q15523121",
+   "ncbiTaxid": "47037"
   },
   {
    "query": "Allium cepa",
@@ -1276,6 +1338,34 @@
    "ncbiTaxid": "228163"
   },
   {
+   "query": "Blepharis persica",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "utingana",
+     "title": "Utingana",
+     "asPublished": "Blepharis persica"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 5575383,
+   "scientificName": "Blepharis persica (Burm.fil.) Kuntze",
+   "canonicalName": "Blepharis persica",
+   "rank": "SPECIES",
+   "taxonomicStatus": "SYNONYM",
+   "matchType": "EXACT",
+   "confidence": 98,
+   "kingdom": "Plantae",
+   "family": "Acanthaceae",
+   "order": "Lamiales",
+   "genus": "Blepharis",
+   "acceptedName": "Blepharis ciliaris (L.) B.L.Burtt",
+   "acceptedKey": 3780159,
+   "checkedAt": "2026-09-12",
+   "wikidata": "Q50839956",
+   "ncbiTaxid": ""
+  },
+  {
    "query": "Bombax ceiba",
    "pages": [
     {
@@ -1846,6 +1936,12 @@
    "pages": [
     {
      "kind": "herb",
+     "slug": "tamalpatra",
+     "title": "Tamalpatra",
+     "asPublished": "Cinnamomum tamala"
+    },
+    {
+     "kind": "herb",
      "slug": "tejapatra",
      "title": "Tejapatra",
      "asPublished": "Cinnamomum tamala"
@@ -2324,6 +2420,34 @@
    "checkedAt": "2026-09-12",
    "wikidata": "Q2089847",
    "ncbiTaxid": "497687"
+  },
+  {
+   "query": "Cucumis sativus",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "trapusha",
+     "title": "Trapusha",
+     "asPublished": "Cucumis sativus"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 2874569,
+   "scientificName": "Cucumis sativus L.",
+   "canonicalName": "Cucumis sativus",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 99,
+   "kingdom": "Plantae",
+   "family": "Cucurbitaceae",
+   "order": "Cucurbitales",
+   "genus": "Cucumis",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-12",
+   "wikidata": "Q23425",
+   "ncbiTaxid": "3659"
   },
   {
    "query": "Cuminum cyminum",
@@ -4168,6 +4292,12 @@
      "kind": "herb",
      "slug": "bitter-gourd",
      "title": "Bitter Gourd",
+     "asPublished": "Momordica charantia"
+    },
+    {
+     "kind": "herb",
+     "slug": "karela",
+     "title": "Karela",
      "asPublished": "Momordica charantia"
     },
     {
@@ -6621,6 +6751,12 @@
      "slug": "fenugreek-herb",
      "title": "Fenugreek Herb",
      "asPublished": "Trigonella foenum-graecum"
+    },
+    {
+     "kind": "herb",
+     "slug": "methi",
+     "title": "Methi",
+     "asPublished": "Trigonella foenum-graecum"
     }
    ],
    "status": "ok",
@@ -6926,6 +7062,34 @@
    "checkedAt": "2026-09-12",
    "wikidata": "Q2143225",
    "ncbiTaxid": "141189"
+  },
+  {
+   "query": "Zanthoxylum armatum",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "tumburu",
+     "title": "Tumburu",
+     "asPublished": "Zanthoxylum armatum"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 7716390,
+   "scientificName": "Zanthoxylum armatum DC.",
+   "canonicalName": "Zanthoxylum armatum",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 97,
+   "kingdom": "Plantae",
+   "family": "Rutaceae",
+   "order": "Sapindales",
+   "genus": "Zanthoxylum",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-12",
+   "wikidata": "Q6170892",
+   "ncbiTaxid": "67938"
   },
   {
    "query": "Zingiber officinale",
