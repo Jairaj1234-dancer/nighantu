@@ -56,6 +56,8 @@ jobs:
       # so its negative tests run in CI rather than only on a developer's machine.
       - name: Safety schema tests
         run: node scripts/test/safety.test.mjs
+      - name: Identifier grammar tests
+        run: node scripts/test/identifiers.test.mjs
 
       # The audit gates the build: a compliance violation fails the deploy.
       - name: Compliance audit (pre-build)

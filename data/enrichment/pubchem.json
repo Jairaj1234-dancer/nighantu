@@ -1,0 +1,132 @@
+{
+ "updatedAt": "2026-09-12",
+ "count": 15,
+ "entries": {
+  "Alkaloids": {
+   "status": "not-found",
+   "checkedAt": "2026-09-12"
+  },
+  "Beta-": {
+   "status": "not-found",
+   "checkedAt": "2026-09-12"
+  },
+  "Catechin": {
+   "status": "ok",
+   "cid": 9064,
+   "formula": "C15H14O6",
+   "weight": "290.27",
+   "inchikey": "PFTAWBLQPZVEMU-DZGCQCFKSA-N",
+   "smiles": "C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O",
+   "iupacName": "(2R,3S)-2-(3,4-dihydroxyphenyl)-3,4-dihydro-2H-chromene-3,5,7-triol",
+   "checkedAt": "2026-09-12"
+  },
+  "Cineole": {
+   "status": "ok",
+   "cid": 2758,
+   "formula": "C10H18O",
+   "weight": "154.25",
+   "inchikey": "WEEGYLXZBRQIMU-UHFFFAOYSA-N",
+   "smiles": "CC1(C2CCC(O1)(CC2)C)C",
+   "iupacName": "1,3,3-trimethyl-2-oxabicyclo[2.2.2]octane",
+   "checkedAt": "2026-09-12"
+  },
+  "Flavonoids": {
+   "status": "not-found",
+   "checkedAt": "2026-09-12"
+  },
+  "Gallic acid": {
+   "status": "ok",
+   "cid": 370,
+   "formula": "C7H6O5",
+   "weight": "170.12",
+   "inchikey": "LNTHITQWFMADLM-UHFFFAOYSA-N",
+   "smiles": "C1=C(C=C(C(=C1O)O)O)C(=O)O",
+   "iupacName": "3,4,5-trihydroxybenzoic acid",
+   "checkedAt": "2026-09-12"
+  },
+  "Glycosides": {
+   "status": "ok",
+   "cid": 637579,
+   "formula": "C29H44O12",
+   "weight": "584.7",
+   "inchikey": "LPMXVESGRSUGHW-NZMIQZKWSA-N",
+   "smiles": "CC1C(C(C(C(O1)OC2CC(C3(C4C(CCC3(C2)O)C5(CCC(C5(CC4O)C)C6=CC(=O)OC6)O)CO)O)O)O)O",
+   "iupacName": "3-[(1S,3S,5R,8R,9S,10R,11R,13R,14R,17S)-1,5,11,14-tetrahydroxy-10-(hydroxymethyl)-13-methyl-3-[(2R,3R,4R,5S,6R)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxy-2,3,4,6,7,8,9,11,12,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-17-yl]-2H-furan-5-one",
+   "checkedAt": "2026-09-12"
+  },
+  "Kaempferol": {
+   "status": "ok",
+   "cid": 5280863,
+   "formula": "C15H10O6",
+   "weight": "286.24",
+   "inchikey": "IYRMWMYZSQPJKC-UHFFFAOYSA-N",
+   "smiles": "C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O",
+   "iupacName": "3,5,7-trihydroxy-2-(4-hydroxyphenyl)chromen-4-one",
+   "checkedAt": "2026-09-12"
+  },
+  "Lupeol": {
+   "status": "ok",
+   "cid": 259846,
+   "formula": "C30H50O",
+   "weight": "426.7",
+   "inchikey": "MQYXUWHLBZFQQO-QGTGJCAVSA-N",
+   "smiles": "CC(=C)C1CCC2(C1C3CCC4C5(CCC(C(C5CCC4(C3(CC2)C)C)(C)C)O)C)C",
+   "iupacName": "(1R,3aR,5aR,5bR,7aR,9S,11aR,11bR,13aR,13bR)-3a,5a,5b,8,8,11a-hexamethyl-1-prop-1-en-2-yl-1,2,3,4,5,6,7,7a,9,10,11,11b,12,13,13a,13b-hexadecahydrocyclopenta[a]chrysen-9-ol",
+   "checkedAt": "2026-09-12"
+  },
+  "Quercetin": {
+   "status": "ok",
+   "cid": 5280343,
+   "formula": "C15H10O7",
+   "weight": "302.23",
+   "inchikey": "REFJWTPEDVJJIY-UHFFFAOYSA-N",
+   "smiles": "C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O",
+   "iupacName": "2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxychromen-4-one",
+   "checkedAt": "2026-09-12"
+  },
+  "Rutin": {
+   "status": "ok",
+   "cid": 5280805,
+   "formula": "C27H30O16",
+   "weight": "610.5",
+   "inchikey": "IKGXIBQEEMLURG-NVPNHPEKSA-N",
+   "smiles": "CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O",
+   "iupacName": "2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-[[(2R,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxymethyl]oxan-2-yl]oxychromen-4-one",
+   "checkedAt": "2026-09-12"
+  },
+  "Saponins": {
+   "status": "ok",
+   "cid": 6540709,
+   "formula": "C55H86O24",
+   "weight": "1131.3",
+   "inchikey": "AXNVHPCVMSNXNP-ZELRDNAQSA-N",
+   "smiles": "CC=C(C)C(=O)OC1C(C2(C(CC1(C)C)C3=CCC4C5(CCC(C(C5CCC4(C3(CC2O)C)C)(C)CO)OC6C(C(C(C(O6)C(=O)O)OC7C(C(C(C(O7)CO)O)O)O)O)OC8C(C(C(C(O8)CO)O)O)O)C)CO)OC(=O)C",
+   "iupacName": "(2S,3S,4S,5R,6R)-6-[[(3S,4S,6aR,6bS,8R,8aR,9R,10R,14bR)-9-acetyloxy-8-hydroxy-4,8a-bis(hydroxymethyl)-4,6a,6b,11,11,14b-hexamethyl-10-[(Z)-2-methylbut-2-enoyl]oxy-1,2,3,4a,5,6,7,8,9,10,12,12a,14,14a-tetradecahydropicen-3-yl]oxy]-4-hydroxy-3,5-bis[[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy]oxane-2-carboxylic acid",
+   "checkedAt": "2026-09-12"
+  },
+  "Sitosterol": {
+   "status": "ok",
+   "cid": 222284,
+   "formula": "C29H50O",
+   "weight": "414.7",
+   "inchikey": "KZJWDPNRJALLNS-VJSFXXLFSA-N",
+   "smiles": "CCC(CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C)C(C)C",
+   "iupacName": "(3S,8S,9S,10R,13R,14S,17R)-17-[(2R,5R)-5-ethyl-6-methylheptan-2-yl]-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-ol",
+   "checkedAt": "2026-09-12"
+  },
+  "Stigmasterol": {
+   "status": "ok",
+   "cid": 5280794,
+   "formula": "C29H48O",
+   "weight": "412.7",
+   "inchikey": "HCXVJBMSMIARIN-PHZDYDNGSA-N",
+   "smiles": "CCC(C=CC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C)C(C)C",
+   "iupacName": "(3S,8S,9S,10R,13R,14S,17R)-17-[(E,2R,5S)-5-ethyl-6-methylhept-3-en-2-yl]-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-ol",
+   "checkedAt": "2026-09-12"
+  },
+  "Tannins": {
+   "status": "not-found",
+   "checkedAt": "2026-09-12"
+  }
+ }
+}

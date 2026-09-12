@@ -1,0 +1,1619 @@
+{
+ "updatedAt": "2026-09-12",
+ "count": 236,
+ "entries": {
+  "Abelmoschus moschatus": {
+   "status": "ok",
+   "qid": "Q2086536",
+   "label": "Abelmoschus moschatus",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Abies webbiana": {
+   "status": "ok",
+   "qid": "Q50826380",
+   "label": "Abies webbiana",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Abrus precatorius": {
+   "status": "ok",
+   "qid": "Q190887",
+   "label": "Abrus precatorius",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Abutilon indicum": {
+   "status": "ok",
+   "qid": "Q2901598",
+   "label": "Abutilon indicum",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Acacia catechu": {
+   "status": "ok",
+   "qid": "Q15535916",
+   "label": "Acacia catechu",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Acacia nilotica": {
+   "status": "ok",
+   "qid": "Q1621617",
+   "label": "Acacia nilotica",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Achyranthes aspera": {
+   "status": "ok",
+   "qid": "Q3286822",
+   "label": "Achyranthes aspera",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Aconitum ferox": {
+   "status": "ok",
+   "qid": "Q2647500",
+   "label": "Aconitum ferox",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Adhatoda vasica": {
+   "status": "ok",
+   "qid": "Q926757",
+   "label": "Adhatoda vasica",
+   "description": "Herbal species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Aegle marmelos": {
+   "status": "ok",
+   "qid": "Q234126",
+   "label": "Aegle marmelos",
+   "description": "species of tree, considered sacred by Hindus",
+   "checkedAt": "2026-09-12"
+  },
+  "Aerva lanata": {
+   "status": "ok",
+   "qid": "Q3595342",
+   "label": "Aerva lanata",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Agaricus campestris": {
+   "status": "ok",
+   "qid": "Q234529",
+   "label": "Agaricus campestris",
+   "description": "species of fungus",
+   "checkedAt": "2026-09-12"
+  },
+  "Alangium salviifolium": {
+   "status": "ok",
+   "qid": "Q10927686",
+   "label": "Alangium salviifolium",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Albizia lebbeck": {
+   "status": "ok",
+   "qid": "Q2717846",
+   "label": "Albizia lebbeck",
+   "description": "species of plant. Siris",
+   "checkedAt": "2026-09-12"
+  },
+  "Allium cepa": {
+   "status": "ok",
+   "qid": "Q20875685",
+   "label": "Allium cepa",
+   "description": "onion variety",
+   "checkedAt": "2026-09-12"
+  },
+  "Allium sativum": {
+   "status": "ok",
+   "qid": "Q23400",
+   "label": "Allium sativum",
+   "description": "species of plant (for the food, use Q21546392)",
+   "checkedAt": "2026-09-12"
+  },
+  "Aloe barbadensis": {
+   "status": "ok",
+   "qid": "Q50826551",
+   "label": "Aloe barbadensis",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Alstonia scholaris": {
+   "status": "ok",
+   "qid": "Q135307",
+   "label": "Alstonia scholaris",
+   "description": "species of flowering plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Amaranthus spinosus": {
+   "status": "ok",
+   "qid": "Q2881023",
+   "label": "Amaranthus spinosus",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Amorphophallus campanulatus": {
+   "status": "ok",
+   "qid": "Q37247507",
+   "label": "Amorphophallus campanulatus",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Anacyclus pyrethrum": {
+   "status": "ok",
+   "qid": "Q1855185",
+   "label": "Anacyclus pyrethrum",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Andrographis paniculata": {
+   "status": "ok",
+   "qid": "Q1551608",
+   "label": "Andrographis paniculata",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Anogeissus latifolia": {
+   "status": "ok",
+   "qid": "Q45166",
+   "label": "Anogeissus latifolia",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Areca catechu": {
+   "status": "ok",
+   "qid": "Q156969",
+   "label": "Areca catechu",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Argemone mexicana": {
+   "status": "ok",
+   "qid": "Q683404",
+   "label": "Argemone mexicana",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Argyreia nervosa": {
+   "status": "ok",
+   "qid": "Q383947",
+   "label": "Argyreia nervosa",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Aristolochia indica": {
+   "status": "ok",
+   "qid": "Q3595780",
+   "label": "Aristolochia indica",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Artocarpus heterophyllus": {
+   "status": "ok",
+   "qid": "Q45757",
+   "label": "Artocarpus heterophyllus",
+   "description": "species of flowering plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Artocarpus lacucha": {
+   "status": "ok",
+   "qid": "Q759430",
+   "label": "Artocarpus lacucha",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Asparagus racemosus": {
+   "status": "ok",
+   "qid": "Q4807702",
+   "label": "Asparagus racemosus",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Averrhoa carambola": {
+   "status": "ok",
+   "qid": "Q159447",
+   "label": "Averrhoa carambola",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Azadirachta indica": {
+   "status": "ok",
+   "qid": "Q170461",
+   "label": "Azadirachta indica",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Bacopa monnieri": {
+   "status": "ok",
+   "qid": "Q1366575",
+   "label": "Bacopa monnieri",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Balanites aegyptiaca": {
+   "status": "ok",
+   "qid": "Q606704",
+   "label": "Balanites aegyptiaca",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Baliospermum montanum": {
+   "status": "ok",
+   "qid": "Q3595677",
+   "label": "Baliospermum montanum",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Baliospermum solanifolium": {
+   "status": "ok",
+   "qid": "Q15386102",
+   "label": "Baliospermum solanifolium",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Bambusa bambos": {
+   "status": "ok",
+   "qid": "Q15509516",
+   "label": "Bambusa bambos",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Basella alba": {
+   "status": "ok",
+   "qid": "Q1130368",
+   "label": "Basella alba",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Bauhinia purpurea": {
+   "status": "ok",
+   "qid": "Q3245410",
+   "label": "Bauhinia purpurea",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Bauhinia variegata": {
+   "status": "ok",
+   "qid": "Q840341",
+   "label": "Bauhinia variegata",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Benincasa hispida": {
+   "status": "not-found",
+   "checkedAt": "2026-09-12"
+  },
+  "Berberis aristata": {
+   "status": "ok",
+   "qid": "Q814377",
+   "label": "Berberis aristata",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Betula utilis": {
+   "status": "ok",
+   "qid": "Q930814",
+   "label": "Betula utilis",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Bombax ceiba": {
+   "status": "ok",
+   "qid": "Q13399160",
+   "label": "Bombax ceiba",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Borassus flabellifer": {
+   "status": "ok",
+   "qid": "Q500857",
+   "label": "Borassus flabellifer",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Boswellia serrata": {
+   "status": "ok",
+   "qid": "Q2367334",
+   "label": "Boswellia serrata",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Buchanania lanzan": {
+   "status": "ok",
+   "qid": "Q83127",
+   "label": "Buchanania lanzan",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Butea monosperma": {
+   "status": "ok",
+   "qid": "Q942203",
+   "label": "Butea monosperma",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Caesalpinia sappan": {
+   "status": "ok",
+   "qid": "Q2717993",
+   "label": "Caesalpinia sappan",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Cajanus cajan": {
+   "status": "ok",
+   "qid": "Q632559",
+   "label": "Cajanus cajan",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Callicarpa macrophylla": {
+   "status": "ok",
+   "qid": "Q5021993",
+   "label": "Callicarpa macrophylla",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Cannabis sativa": {
+   "status": "ok",
+   "qid": "Q26726",
+   "label": "Cannabis sativa",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Capparis decidua": {
+   "status": "ok",
+   "qid": "Q3242136",
+   "label": "Capparis decidua",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Capparis spinosa": {
+   "status": "ok",
+   "qid": "Q156251",
+   "label": "Capparis spinosa",
+   "description": "species of plant, caper",
+   "checkedAt": "2026-09-12"
+  },
+  "Carthamus tinctorius": {
+   "status": "ok",
+   "qid": "Q156625",
+   "label": "Carthamus tinctorius",
+   "description": "species of plant, safflower",
+   "checkedAt": "2026-09-12"
+  },
+  "Cassia angustifolia": {
+   "status": "ok",
+   "qid": "Q50838910",
+   "label": "Cassia angustifolia",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Cassia fistula": {
+   "status": "ok",
+   "qid": "Q161117",
+   "label": "Cassia fistula",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Cassia occidentalis": {
+   "status": "ok",
+   "qid": "Q21872216",
+   "label": "Cassia occidentalis",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Cassia tora": {
+   "status": "ok",
+   "qid": "Q21872227",
+   "label": "Cassia tora",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Cedrus deodara": {
+   "status": "ok",
+   "qid": "Q146935",
+   "label": "Cedrus deodara",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Celastrus paniculatus": {
+   "status": "ok",
+   "qid": "Q1027724",
+   "label": "Celastrus paniculatus",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Centella asiatica": {
+   "status": "ok",
+   "qid": "Q324714",
+   "label": "Centella asiatica",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Cichorium intybus": {
+   "status": "ok",
+   "qid": "Q2544599",
+   "label": "Cichorium intybus",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Cinnamomum tamala": {
+   "status": "ok",
+   "qid": "Q1661611",
+   "label": "Cinnamomum tamala",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Cinnamomum verum": {
+   "status": "ok",
+   "qid": "Q370239",
+   "label": "Cinnamomum verum",
+   "description": "species of flowering plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Cissampelos pareira": {
+   "status": "ok",
+   "qid": "Q3291604",
+   "label": "Cissampelos pareira",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Cissus quadrangularis": {
+   "status": "ok",
+   "qid": "Q2157164",
+   "label": "Cissus quadrangularis",
+   "description": "Old World succulent species",
+   "checkedAt": "2026-09-12"
+  },
+  "Citrullus colocynthis": {
+   "status": "ok",
+   "qid": "Q913609",
+   "label": "Citrullus colocynthis",
+   "description": "species of plant in the family Cucurbitaceae",
+   "checkedAt": "2026-09-12"
+  },
+  "Citrus limon": {
+   "status": "not-found",
+   "checkedAt": "2026-09-12"
+  },
+  "Citrus medica": {
+   "status": "ok",
+   "qid": "Q150064",
+   "label": "Citrus medica",
+   "description": "species of citrus plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Clerodendrum serratum": {
+   "status": "ok",
+   "qid": "Q10865838",
+   "label": "Clerodendrum serratum",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Clitoria ternatea": {
+   "status": "ok",
+   "qid": "Q312265",
+   "label": "Clitoria ternatea",
+   "description": "species of plant originally from Indonesian island of Ternate",
+   "checkedAt": "2026-09-12"
+  },
+  "Coccinia grandis": {
+   "status": "ok",
+   "qid": "Q727330",
+   "label": "Coccinia grandis",
+   "description": "Species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Cocos nucifera": {
+   "status": "ok",
+   "qid": "Q13187",
+   "label": "Cocos nucifera",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Coleus amboinicus": {
+   "status": "ok",
+   "qid": "Q39087854",
+   "label": "Coleus amboinicus",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Commiphora wightii": {
+   "status": "ok",
+   "qid": "Q901803",
+   "label": "Commiphora wightii",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Coriandrum sativum": {
+   "status": "ok",
+   "qid": "Q41611",
+   "label": "Coriandrum sativum",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Crocus sativus": {
+   "status": "ok",
+   "qid": "Q15041677",
+   "label": "Crocus sativus",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Croton tiglium": {
+   "status": "ok",
+   "qid": "Q2089847",
+   "label": "Croton tiglium",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Cuminum cyminum": {
+   "status": "ok",
+   "qid": "Q132624",
+   "label": "Cuminum cyminum",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Curculigo orchioides": {
+   "status": "ok",
+   "qid": "Q5194664",
+   "label": "Curculigo orchioides",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Curcuma amada": {
+   "status": "ok",
+   "qid": "Q3031235",
+   "label": "Curcuma amada",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Curcuma longa": {
+   "status": "ok",
+   "qid": "Q42562",
+   "label": "Curcuma longa",
+   "description": "plant used as spice",
+   "checkedAt": "2026-09-12"
+  },
+  "Curcuma zedoaria": {
+   "status": "ok",
+   "qid": "Q206733",
+   "label": "Curcuma zedoaria",
+   "description": "species of plant, zedoary",
+   "checkedAt": "2026-09-12"
+  },
+  "Cynodon dactylon": {
+   "status": "not-found",
+   "checkedAt": "2026-09-12"
+  },
+  "Cyperus rotundus": {
+   "status": "ok",
+   "qid": "Q1391422",
+   "label": "Cyperus rotundus",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Desmodium gangeticum": {
+   "status": "ok",
+   "qid": "Q3595474",
+   "label": "Desmodium gangeticum",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Diospyros peregrina": {
+   "status": "ok",
+   "qid": "Q17245728",
+   "label": "Diospyros peregrina",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Eclipta prostrata": {
+   "status": "ok",
+   "qid": "Q857092",
+   "label": "Eclipta prostrata",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Elaeocarpus ganitrus": {
+   "status": "ok",
+   "qid": "Q20720014",
+   "label": "Elaeocarpus ganitrus",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Elettaria cardamomum": {
+   "status": "ok",
+   "qid": "Q33466",
+   "label": "Elettaria cardamomum",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Embelia ribes": {
+   "status": "ok",
+   "qid": "Q3595673",
+   "label": "Embelia ribes",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Euphorbia dracunculoides": {
+   "status": "ok",
+   "qid": "Q5851559",
+   "label": "Euphorbia dracunculoides",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Fagonia cretica": {
+   "status": "ok",
+   "qid": "Q310127",
+   "label": "Fagonia cretica",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Ferula asafoetida": {
+   "status": "ok",
+   "qid": "Q110309197",
+   "label": "Ferula asafoetida",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Ficus benghalensis": {
+   "status": "ok",
+   "qid": "Q1405636",
+   "label": "Ficus benghalensis",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Ficus lacor": {
+   "status": "ok",
+   "qid": "Q5446612",
+   "label": "Ficus lacor",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Ficus racemosa": {
+   "status": "ok",
+   "qid": "Q713794",
+   "label": "Ficus racemosa",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Ficus religiosa": {
+   "status": "ok",
+   "qid": "Q3071706",
+   "label": "Ficus religiosa",
+   "description": "species of fig",
+   "checkedAt": "2026-09-12"
+  },
+  "Foeniculum vulgare": {
+   "status": "ok",
+   "qid": "Q43511",
+   "label": "Foeniculum vulgare",
+   "description": "species of plant, fennel (for the herb use Q104005460)",
+   "checkedAt": "2026-09-12"
+  },
+  "Garcinia indica": {
+   "status": "ok",
+   "qid": "Q2095514",
+   "label": "Garcinia indica",
+   "description": "plant in the mangosteen family",
+   "checkedAt": "2026-09-12"
+  },
+  "Garcinia pedunculata": {
+   "status": "ok",
+   "qid": "Q10935878",
+   "label": "Garcinia pedunculata",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Gloriosa superba": {
+   "status": "ok",
+   "qid": "Q2175092",
+   "label": "Gloriosa superba",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Glycyrrhiza glabra": {
+   "status": "ok",
+   "qid": "Q52502809",
+   "label": "Glycyrrhiza glabra",
+   "description": "botanical engraving by Ferdinand Bauer",
+   "checkedAt": "2026-09-12"
+  },
+  "Gmelina arborea": {
+   "status": "ok",
+   "qid": "Q311345",
+   "label": "Gmelina arborea",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Gossypium herbaceum": {
+   "status": "ok",
+   "qid": "Q177615",
+   "label": "Gossypium herbaceum",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Grewia hirsuta": {
+   "status": "ok",
+   "qid": "Q17812911",
+   "label": "Grewia hirsuta",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Grewia tenax": {
+   "status": "ok",
+   "qid": "Q3116556",
+   "label": "Grewia tenax",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Gymnema sylvestre": {
+   "status": "ok",
+   "qid": "Q2725835",
+   "label": "Gymnema sylvestre",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Habenaria intermedia": {
+   "status": "ok",
+   "qid": "Q10937539",
+   "label": "Habenaria intermedia",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Hedychium spicatum": {
+   "status": "ok",
+   "qid": "Q3628042",
+   "label": "Hedychium spicatum",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Hemidesmus indicus": {
+   "status": "ok",
+   "qid": "Q15356241",
+   "label": "Hemidesmus indicus",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Hibiscus rosa-sinensis": {
+   "status": "not-found",
+   "checkedAt": "2026-09-12"
+  },
+  "Holarrhena pubescens": {
+   "status": "ok",
+   "qid": "Q9096302",
+   "label": "Holarrhena pubescens",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Holoptelea integrifolia": {
+   "status": "ok",
+   "qid": "Q13110312",
+   "label": "Holoptelea integrifolia",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Hordeum vulgare": {
+   "status": "ok",
+   "qid": "Q11577",
+   "label": "Hordeum vulgare",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Hygrophila auriculata": {
+   "status": "ok",
+   "qid": "Q3537349",
+   "label": "Hygrophila auriculata",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Indigofera tinctoria": {
+   "status": "ok",
+   "qid": "Q165213",
+   "label": "Indigofera tinctoria",
+   "description": "species of legume",
+   "checkedAt": "2026-09-12"
+  },
+  "Inula racemosa": {
+   "status": "ok",
+   "qid": "Q1818329",
+   "label": "Inula racemosa",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Ipomoea reniformis": {
+   "status": "ok",
+   "qid": "Q87633641",
+   "label": "Ipomoea reniformis",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Jasminum auriculatum": {
+   "status": "ok",
+   "qid": "Q623492",
+   "label": "Jasminum auriculatum",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Juglans regia": {
+   "status": "ok",
+   "qid": "Q46871",
+   "label": "Juglans regia",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Justicia adhatoda": {
+   "status": "ok",
+   "qid": "Q61022811",
+   "label": "Justicia adhatoda",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Lagenaria siceraria": {
+   "status": "ok",
+   "qid": "Q1277255",
+   "label": "Lagenaria siceraria",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Lepidium sativum": {
+   "status": "ok",
+   "qid": "Q27033",
+   "label": "Lepidium sativum",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Leptadenia reticulata": {
+   "status": "ok",
+   "qid": "Q15359574",
+   "label": "Leptadenia reticulata",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Limonia acidissima": {
+   "status": "ok",
+   "qid": "Q935616",
+   "label": "Limonia acidissima",
+   "description": "citrus fruit tree",
+   "checkedAt": "2026-09-12"
+  },
+  "Linum usitatissimum": {
+   "status": "ok",
+   "qid": "Q45108",
+   "label": "Linum usitatissimum",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Litsea glutinosa": {
+   "status": "ok",
+   "qid": "Q10743709",
+   "label": "Litsea glutinosa",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Macrotyloma uniflorum": {
+   "status": "not-found",
+   "checkedAt": "2026-09-12"
+  },
+  "Madhuca longifolia": {
+   "status": "ok",
+   "qid": "Q2720146",
+   "label": "Madhuca longifolia",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Malaxis muscifera": {
+   "status": "ok",
+   "qid": "Q15470874",
+   "label": "Malaxis muscifera",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Mallotus philippensis": {
+   "status": "ok",
+   "qid": "Q2510557",
+   "label": "Mallotus philippensis",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Mangifera indica": {
+   "status": "ok",
+   "qid": "Q3919027",
+   "label": "Mangifera indica",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Manilkara hexandra": {
+   "status": "ok",
+   "qid": "Q2813879",
+   "label": "Manilkara hexandra",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Marsdenia tenacissima": {
+   "status": "ok",
+   "qid": "Q15225677",
+   "label": "Marsdenia tenacissima",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Melia azedarach": {
+   "status": "ok",
+   "qid": "Q162171",
+   "label": "Melia azedarach",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Mentha spicata": {
+   "status": "ok",
+   "qid": "Q160114",
+   "label": "Mentha spicata",
+   "description": "species of mint",
+   "checkedAt": "2026-09-12"
+  },
+  "Meyna spinosa": {
+   "status": "ok",
+   "qid": "Q15472306",
+   "label": "Meyna spinosa",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Millettia pinnata": {
+   "status": "ok",
+   "qid": "Q1973585",
+   "label": "Millettia pinnata",
+   "description": "synonym of Pongamia pinnata",
+   "checkedAt": "2026-09-12"
+  },
+  "Mimosa pudica": {
+   "status": "ok",
+   "qid": "Q148532",
+   "label": "Mimosa pudica",
+   "description": "species of plant in the family Fabaceae",
+   "checkedAt": "2026-09-12"
+  },
+  "Mimusops elengi": {
+   "status": "ok",
+   "qid": "Q2088434",
+   "label": "Mimusops elengi",
+   "description": "species of flowering plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Momordica charantia": {
+   "status": "ok",
+   "qid": "Q428750",
+   "label": "Momordica charantia",
+   "description": "species of plant in the family Cucurbitaceae",
+   "checkedAt": "2026-09-12"
+  },
+  "Moringa oleifera": {
+   "status": "not-found",
+   "checkedAt": "2026-09-12"
+  },
+  "Mucuna pruriens": {
+   "status": "ok",
+   "qid": "Q953611",
+   "label": "Mucuna pruriens",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Musa paradisiaca": {
+   "status": "not-found",
+   "checkedAt": "2026-09-12"
+  },
+  "Myrica esculenta": {
+   "status": "ok",
+   "qid": "Q3636681",
+   "label": "Myrica esculenta",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Myristica fragrans": {
+   "status": "ok",
+   "qid": "Q2724976",
+   "label": "Myristica fragrans",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Nardostachys jatamansi": {
+   "status": "ok",
+   "qid": "Q24853263",
+   "label": "Nardostachys jatamansi",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Nelumbo nucifera": {
+   "status": "ok",
+   "qid": "Q16528",
+   "label": "Nelumbo nucifera",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Neolamarckia cadamba": {
+   "status": "ok",
+   "qid": "Q573791",
+   "label": "Neolamarckia cadamba",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Nigella sativa": {
+   "status": "ok",
+   "qid": "Q160575",
+   "label": "Nigella sativa",
+   "description": "species of annual flowering plant in the family Ranunculaceae",
+   "checkedAt": "2026-09-12"
+  },
+  "Nyctanthes arbor-tristis": {
+   "status": "ok",
+   "qid": "Q764525",
+   "label": "Nyctanthes arbor-tristis",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Ocimum tenuiflorum": {
+   "status": "not-found",
+   "checkedAt": "2026-09-12"
+  },
+  "Onosma bracteatum": {
+   "status": "not-found",
+   "checkedAt": "2026-09-12"
+  },
+  "Operculina turpethum": {
+   "status": "ok",
+   "qid": "Q3595168",
+   "label": "Operculina turpethum",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Oroxylum indicum": {
+   "status": "ok",
+   "qid": "Q3245941",
+   "label": "Oroxylum indicum",
+   "description": "species of tree",
+   "checkedAt": "2026-09-12"
+  },
+  "Oxalis corniculata": {
+   "status": "ok",
+   "qid": "Q162795",
+   "label": "Oxalis corniculata",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Paederia foetida": {
+   "status": "ok",
+   "qid": "Q1209690",
+   "label": "Paederia foetida",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Pandanus odorifer": {
+   "status": "ok",
+   "qid": "Q15578898",
+   "label": "Pandanus odorifer",
+   "description": "species of tree",
+   "checkedAt": "2026-09-12"
+  },
+  "Papaver somniferum": {
+   "status": "ok",
+   "qid": "Q131584",
+   "label": "Papaver somniferum",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Phaseolus trilobus": {
+   "status": "ok",
+   "qid": "Q104451474",
+   "label": "Phaseolus trilobus",
+   "description": "Wikimedia disambiguation page",
+   "checkedAt": "2026-09-12"
+  },
+  "Phoenix dactylifera": {
+   "status": "ok",
+   "qid": "Q25292",
+   "label": "Phoenix dactylifera",
+   "description": "palm tree cultivated for its edible sweet fruit",
+   "checkedAt": "2026-09-12"
+  },
+  "Phyllanthus emblica": {
+   "status": "ok",
+   "qid": "Q310050",
+   "label": "Phyllanthus emblica",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Phyllanthus niruri": {
+   "status": "ok",
+   "qid": "Q2719836",
+   "label": "Phyllanthus niruri",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Piper cubeba": {
+   "status": "ok",
+   "qid": "Q161927",
+   "label": "Piper cubeba",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Piper longum": {
+   "status": "ok",
+   "qid": "Q685336",
+   "label": "Piper longum",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Piper nigrum": {
+   "status": "not-found",
+   "checkedAt": "2026-09-12"
+  },
+  "Piper retrofractum": {
+   "status": "ok",
+   "qid": "Q7504329",
+   "label": "Piper retrofractum",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Pistacia integerrima": {
+   "status": "ok",
+   "qid": "Q7198453",
+   "label": "Pistacia integerrima",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Plantago ovata": {
+   "status": "ok",
+   "qid": "Q311228",
+   "label": "Plantago ovata",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Pluchea lanceolata": {
+   "status": "ok",
+   "qid": "Q15445677",
+   "label": "Pluchea lanceolata",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Plumbago zeylanica": {
+   "status": "ok",
+   "qid": "Q5240308",
+   "label": "Plumbago zeylanica",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Polygonatum verticillatum": {
+   "status": "ok",
+   "qid": "Q159281",
+   "label": "Polygonatum verticillatum",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Premna integrifolia": {
+   "status": "ok",
+   "qid": "Q87639631",
+   "label": "Premna integrifolia",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Prunus cerasoides": {
+   "status": "ok",
+   "qid": "Q150149",
+   "label": "Prunus cerasoides",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Prunus dulcis": {
+   "status": "ok",
+   "qid": "Q39918",
+   "label": "Prunus dulcis",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Psoralea corylifolia": {
+   "status": "ok",
+   "qid": "Q3595165",
+   "label": "Psoralea corylifolia",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Pterocarpus marsupium": {
+   "status": "ok",
+   "qid": "Q2385259",
+   "label": "Pterocarpus marsupium",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Pterocarpus santalinus": {
+   "status": "ok",
+   "qid": "Q2392887",
+   "label": "Pterocarpus santalinus",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Pueraria tuberosa": {
+   "status": "ok",
+   "qid": "Q7258521",
+   "label": "Pueraria tuberosa",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Punica granatum": {
+   "status": "ok",
+   "qid": "Q52558783",
+   "label": "Punica Granatum",
+   "description": "botanical watercolour drawing by Ferdinand Bauer",
+   "checkedAt": "2026-09-12"
+  },
+  "Putranjiva roxburghii": {
+   "status": "ok",
+   "qid": "Q15373833",
+   "label": "Putranjiva roxburghii",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Randia dumetorum": {
+   "status": "ok",
+   "qid": "Q87614518",
+   "label": "Randia dumetorum",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Raphanus sativus": {
+   "status": "ok",
+   "qid": "Q7224565",
+   "label": "Raphanus sativus",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Rauvolfia serpentina": {
+   "status": "ok",
+   "qid": "Q1145301",
+   "label": "Rauvolfia serpentina",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Ricinus communis": {
+   "status": "ok",
+   "qid": "Q155867",
+   "label": "Ricinus communis",
+   "description": "species of plant, Castor oil plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Roscoea purpurea": {
+   "status": "ok",
+   "qid": "Q163757",
+   "label": "Roscoea purpurea",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Rubia cordifolia": {
+   "status": "ok",
+   "qid": "Q3237818",
+   "label": "Rubia cordifolia",
+   "description": "taxon",
+   "checkedAt": "2026-09-12"
+  },
+  "Saccharum officinarum": {
+   "status": "ok",
+   "qid": "Q3391243",
+   "label": "Saccharum officinarum",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Salmalia malabarica": {
+   "status": "not-found",
+   "checkedAt": "2026-09-12"
+  },
+  "Salvia officinalis": {
+   "status": "ok",
+   "qid": "Q1111359",
+   "label": "Salvia officinalis",
+   "description": "species of plant, for the culinary/medicinal herb use Q67206399",
+   "checkedAt": "2026-09-12"
+  },
+  "Santalum album": {
+   "status": "ok",
+   "qid": "Q210858",
+   "label": "Santalum album",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Saraca asoca": {
+   "status": "ok",
+   "qid": "Q757356",
+   "label": "Saraca asoca",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Schleichera oleosa": {
+   "status": "ok",
+   "qid": "Q13094301",
+   "label": "Schleichera oleosa",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Scindapsus officinalis": {
+   "status": "ok",
+   "qid": "Q9334552",
+   "label": "Scindapsus officinalis",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Sesamum indicum": {
+   "status": "ok",
+   "qid": "Q2763698",
+   "label": "Sesamum indicum",
+   "description": "flowering plant cultivated for its edible seeds",
+   "checkedAt": "2026-09-12"
+  },
+  "Sesbania grandiflora": {
+   "status": "ok",
+   "qid": "Q947251",
+   "label": "Sesbania grandiflora",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Shorea robusta": {
+   "status": "ok",
+   "qid": "Q909828",
+   "label": "Shorea robusta",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Sida cordifolia": {
+   "status": "ok",
+   "qid": "Q1300611",
+   "label": "Sida cordifolia",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Sida rhombifolia": {
+   "status": "ok",
+   "qid": "Q3595921",
+   "label": "Sida rhombifolia",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Smilax china": {
+   "status": "ok",
+   "qid": "Q163095",
+   "label": "Smilax china",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Solanum indicum": {
+   "status": "ok",
+   "qid": "Q10898531",
+   "label": "Solanum indicum",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Solanum melongena": {
+   "status": "ok",
+   "qid": "Q7540",
+   "label": "Solanum melongena",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Solanum nigrum": {
+   "status": "ok",
+   "qid": "Q146400",
+   "label": "Solanum nigrum",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Solanum xanthocarpum": {
+   "status": "ok",
+   "qid": "Q22112642",
+   "label": "Solanum xanthocarpum",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Sphaeranthus indicus": {
+   "status": "ok",
+   "qid": "Q15231437",
+   "label": "Sphaeranthus indicus",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Spinacia oleracea": {
+   "status": "ok",
+   "qid": "Q81464",
+   "label": "Spinacia oleracea",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Strychnos potatorum": {
+   "status": "ok",
+   "qid": "Q3595916",
+   "label": "Strychnos potatorum",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Swertia chirayita": {
+   "status": "ok",
+   "qid": "Q21318003",
+   "label": "Swertia chirayita",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Symplocos racemosa": {
+   "status": "ok",
+   "qid": "Q15246164",
+   "label": "Symplocos racemosa",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Syzygium aromaticum": {
+   "status": "not-found",
+   "checkedAt": "2026-09-12"
+  },
+  "Syzygium cumini": {
+   "status": "ok",
+   "qid": "Q232571",
+   "label": "Syzygium cumini",
+   "description": "species of tree",
+   "checkedAt": "2026-09-12"
+  },
+  "Taxus baccata": {
+   "status": "ok",
+   "qid": "Q179729",
+   "label": "Taxus baccata",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Tephrosia purpurea": {
+   "status": "ok",
+   "qid": "Q3281054",
+   "label": "Tephrosia purpurea",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Teramnus labialis": {
+   "status": "ok",
+   "qid": "Q15234919",
+   "label": "Teramnus labialis",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Terminalia arjuna": {
+   "status": "ok",
+   "qid": "Q2719381",
+   "label": "Terminalia arjuna",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Terminalia bellirica": {
+   "status": "ok",
+   "qid": "Q1983629",
+   "label": "Terminalia bellirica",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Terminalia chebula": {
+   "status": "ok",
+   "qid": "Q3595915",
+   "label": "Terminalia chebula",
+   "description": "species of flowering plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Tinospora cordifolia": {
+   "status": "ok",
+   "qid": "Q3595912",
+   "label": "Tinospora cordifolia",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Trachyspermum ammi": {
+   "status": "ok",
+   "qid": "Q413254",
+   "label": "Trachyspermum ammi",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Trapa natans": {
+   "status": "ok",
+   "qid": "Q161110",
+   "label": "Trapa natans",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Trianthema portulacastrum": {
+   "status": "ok",
+   "qid": "Q3335516",
+   "label": "Trianthema portulacastrum",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Tribulus terrestris": {
+   "status": "ok",
+   "qid": "Q235889",
+   "label": "Tribulus terrestris",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Trigonella foenum-graecum": {
+   "status": "ok",
+   "qid": "Q133205",
+   "label": "Trigonella foenum-graecum",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Uraria picta": {
+   "status": "ok",
+   "qid": "Q15240197",
+   "label": "Uraria picta",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Valeriana jatamansi": {
+   "status": "ok",
+   "qid": "Q912252",
+   "label": "Valeriana jatamansi",
+   "description": "Indian valerian",
+   "checkedAt": "2026-09-12"
+  },
+  "Vallisneria spiralis": {
+   "status": "ok",
+   "qid": "Q159160",
+   "label": "Vallisneria spiralis",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Vetiveria zizanioides": {
+   "status": "ok",
+   "qid": "Q87591390",
+   "label": "Vetiveria zizanioides",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Viola odorata": {
+   "status": "ok",
+   "qid": "Q108684",
+   "label": "Viola odorata",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Vitex agnus-castus": {
+   "status": "ok",
+   "qid": "Q259318",
+   "label": "Vitex agnus-castus",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Vitex negundo": {
+   "status": "ok",
+   "qid": "Q14807863",
+   "label": "Vitex negundo",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Vitis vinifera": {
+   "status": "ok",
+   "qid": "Q30046",
+   "label": "Vitis vinifera",
+   "description": "species of flowering plant in the grape vine family Vitaceae",
+   "checkedAt": "2026-09-12"
+  },
+  "Withania somnifera": {
+   "status": "ok",
+   "qid": "Q852660",
+   "label": "Withania somnifera",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Woodfordia fruticosa": {
+   "status": "ok",
+   "qid": "Q2143225",
+   "label": "Woodfordia fruticosa",
+   "description": "species of plant",
+   "checkedAt": "2026-09-12"
+  },
+  "Zingiber officinale": {
+   "status": "not-found",
+   "checkedAt": "2026-09-12"
+  }
+ }
+}

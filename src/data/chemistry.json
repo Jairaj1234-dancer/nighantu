@@ -1,0 +1,5180 @@
+{
+ "updatedAt": "2026-09-12",
+ "source": "PubChem PUG-REST, https://pubchem.ncbi.nlm.nih.gov/",
+ "summary": {
+  "constituents": 852,
+  "resolved": 11,
+  "unmatched": 4,
+  "distinctStructures": 11,
+  "mergeableNames": 0
+ },
+ "compounds": [
+  {
+   "name": "Quercetin",
+   "slug": "quercetin",
+   "count": 33,
+   "cid": 5280343,
+   "formula": "C15H10O7",
+   "weight": "302.23",
+   "inchikey": "REFJWTPEDVJJIY-UHFFFAOYSA-N",
+   "smiles": "C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O",
+   "iupacName": "2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxychromen-4-one"
+  },
+  {
+   "name": "Sitosterol",
+   "slug": "sitosterol",
+   "count": 32,
+   "cid": 222284,
+   "formula": "C29H50O",
+   "weight": "414.7",
+   "inchikey": "KZJWDPNRJALLNS-VJSFXXLFSA-N",
+   "smiles": "CCC(CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C)C(C)C",
+   "iupacName": "(3S,8S,9S,10R,13R,14S,17R)-17-[(2R,5R)-5-ethyl-6-methylheptan-2-yl]-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-ol"
+  },
+  {
+   "name": "Flavonoids",
+   "slug": "flavonoids",
+   "count": 25,
+   "unresolved": true
+  },
+  {
+   "name": "Kaempferol",
+   "slug": "kaempferol",
+   "count": 24,
+   "cid": 5280863,
+   "formula": "C15H10O6",
+   "weight": "286.24",
+   "inchikey": "IYRMWMYZSQPJKC-UHFFFAOYSA-N",
+   "smiles": "C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O",
+   "iupacName": "3,5,7-trihydroxy-2-(4-hydroxyphenyl)chromen-4-one"
+  },
+  {
+   "name": "Saponins",
+   "slug": "saponins",
+   "count": 16,
+   "cid": 6540709,
+   "formula": "C55H86O24",
+   "weight": "1131.3",
+   "inchikey": "AXNVHPCVMSNXNP-ZELRDNAQSA-N",
+   "smiles": "CC=C(C)C(=O)OC1C(C2(C(CC1(C)C)C3=CCC4C5(CCC(C(C5CCC4(C3(CC2O)C)C)(C)CO)OC6C(C(C(C(O6)C(=O)O)OC7C(C(C(C(O7)CO)O)O)O)O)OC8C(C(C(C(O8)CO)O)O)O)C)CO)OC(=O)C",
+   "iupacName": "(2S,3S,4S,5R,6R)-6-[[(3S,4S,6aR,6bS,8R,8aR,9R,10R,14bR)-9-acetyloxy-8-hydroxy-4,8a-bis(hydroxymethyl)-4,6a,6b,11,11,14b-hexamethyl-10-[(Z)-2-methylbut-2-enoyl]oxy-1,2,3,4a,5,6,7,8,9,10,12,12a,14,14a-tetradecahydropicen-3-yl]oxy]-4-hydroxy-3,5-bis[[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy]oxane-2-carboxylic acid"
+  },
+  {
+   "name": "Glycosides",
+   "slug": "glycosides",
+   "count": 15,
+   "cid": 637579,
+   "formula": "C29H44O12",
+   "weight": "584.7",
+   "inchikey": "LPMXVESGRSUGHW-NZMIQZKWSA-N",
+   "smiles": "CC1C(C(C(C(O1)OC2CC(C3(C4C(CCC3(C2)O)C5(CCC(C5(CC4O)C)C6=CC(=O)OC6)O)CO)O)O)O)O",
+   "iupacName": "3-[(1S,3S,5R,8R,9S,10R,11R,13R,14R,17S)-1,5,11,14-tetrahydroxy-10-(hydroxymethyl)-13-methyl-3-[(2R,3R,4R,5S,6R)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxy-2,3,4,6,7,8,9,11,12,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-17-yl]-2H-furan-5-one"
+  },
+  {
+   "name": "Tannins",
+   "slug": "tannins",
+   "count": 15,
+   "unresolved": true
+  },
+  {
+   "name": "Beta-",
+   "slug": "beta",
+   "count": 13,
+   "unresolved": true
+  },
+  {
+   "name": "Gallic acid",
+   "slug": "gallic-acid",
+   "count": 13,
+   "cid": 370,
+   "formula": "C7H6O5",
+   "weight": "170.12",
+   "inchikey": "LNTHITQWFMADLM-UHFFFAOYSA-N",
+   "smiles": "C1=C(C=C(C(=C1O)O)O)C(=O)O",
+   "iupacName": "3,4,5-trihydroxybenzoic acid"
+  },
+  {
+   "name": "Stigmasterol",
+   "slug": "stigmasterol",
+   "count": 11,
+   "cid": 5280794,
+   "formula": "C29H48O",
+   "weight": "412.7",
+   "inchikey": "HCXVJBMSMIARIN-PHZDYDNGSA-N",
+   "smiles": "CCC(C=CC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C)C(C)C",
+   "iupacName": "(3S,8S,9S,10R,13R,14S,17R)-17-[(E,2R,5S)-5-ethyl-6-methylhept-3-en-2-yl]-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-ol"
+  },
+  {
+   "name": "Lupeol",
+   "slug": "lupeol",
+   "count": 10,
+   "cid": 259846,
+   "formula": "C30H50O",
+   "weight": "426.7",
+   "inchikey": "MQYXUWHLBZFQQO-QGTGJCAVSA-N",
+   "smiles": "CC(=C)C1CCC2(C1C3CCC4C5(CCC(C(C5CCC4(C3(CC2)C)C)(C)C)O)C)C",
+   "iupacName": "(1R,3aR,5aR,5bR,7aR,9S,11aR,11bR,13aR,13bR)-3a,5a,5b,8,8,11a-hexamethyl-1-prop-1-en-2-yl-1,2,3,4,5,6,7,7a,9,10,11,11b,12,13,13a,13b-hexadecahydrocyclopenta[a]chrysen-9-ol"
+  },
+  {
+   "name": "Rutin",
+   "slug": "rutin",
+   "count": 9,
+   "cid": 5280805,
+   "formula": "C27H30O16",
+   "weight": "610.5",
+   "inchikey": "IKGXIBQEEMLURG-NVPNHPEKSA-N",
+   "smiles": "CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O",
+   "iupacName": "2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-[[(2R,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxymethyl]oxan-2-yl]oxychromen-4-one"
+  },
+  {
+   "name": "Alkaloids",
+   "slug": "alkaloids",
+   "count": 8,
+   "unresolved": true
+  },
+  {
+   "name": "Catechin",
+   "slug": "catechin",
+   "count": 8,
+   "cid": 9064,
+   "formula": "C15H14O6",
+   "weight": "290.27",
+   "inchikey": "PFTAWBLQPZVEMU-DZGCQCFKSA-N",
+   "smiles": "C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O",
+   "iupacName": "(2R,3S)-2-(3,4-dihydroxyphenyl)-3,4-dihydro-2H-chromene-3,5,7-triol"
+  },
+  {
+   "name": "Cineole",
+   "slug": "cineole",
+   "count": 8,
+   "cid": 2758,
+   "formula": "C10H18O",
+   "weight": "154.25",
+   "inchikey": "WEEGYLXZBRQIMU-UHFFFAOYSA-N",
+   "smiles": "CC1(C2CCC(O1)(CC2)C)C",
+   "iupacName": "1,3,3-trimethyl-2-oxabicyclo[2.2.2]octane"
+  },
+  {
+   "name": "Ellagic acid",
+   "slug": "ellagic-acid",
+   "count": 8,
+   "unresolved": true
+  },
+  {
+   "name": "Luteolin",
+   "slug": "luteolin",
+   "count": 8,
+   "unresolved": true
+  },
+  {
+   "name": "Ursolic acid",
+   "slug": "ursolic-acid",
+   "count": 8,
+   "unresolved": true
+  },
+  {
+   "name": "Apigenin",
+   "slug": "apigenin",
+   "count": 7,
+   "unresolved": true
+  },
+  {
+   "name": "Beta-sitosterol",
+   "slug": "beta-sitosterol",
+   "count": 7,
+   "unresolved": true
+  },
+  {
+   "name": "Emodin",
+   "slug": "emodin",
+   "count": 7,
+   "unresolved": true
+  },
+  {
+   "name": "Limonene",
+   "slug": "limonene",
+   "count": 6,
+   "unresolved": true
+  },
+  {
+   "name": "Magnesium",
+   "slug": "magnesium",
+   "count": 6,
+   "unresolved": true
+  },
+  {
+   "name": "Myricetin",
+   "slug": "myricetin",
+   "count": 6,
+   "unresolved": true
+  },
+  {
+   "name": "Potassium",
+   "slug": "potassium",
+   "count": 6,
+   "unresolved": true
+  },
+  {
+   "name": "Chlorogenic acid",
+   "slug": "chlorogenic-acid",
+   "count": 5,
+   "unresolved": true
+  },
+  {
+   "name": "Curcumin",
+   "slug": "curcumin",
+   "count": 5,
+   "unresolved": true
+  },
+  {
+   "name": "Linalool",
+   "slug": "linalool",
+   "count": 5,
+   "unresolved": true
+  },
+  {
+   "name": "Oleanolic acid",
+   "slug": "oleanolic-acid",
+   "count": 5,
+   "unresolved": true
+  },
+  {
+   "name": "Phytosterols",
+   "slug": "phytosterols",
+   "count": 5,
+   "unresolved": true
+  },
+  {
+   "name": "Piperine",
+   "slug": "piperine",
+   "count": 5,
+   "unresolved": true
+  },
+  {
+   "name": "Tocopherols",
+   "slug": "tocopherols",
+   "count": 5,
+   "unresolved": true
+  },
+  {
+   "name": "Bisdemethoxycurcumin",
+   "slug": "bisdemethoxycurcumin",
+   "count": 4,
+   "unresolved": true
+  },
+  {
+   "name": "Campesterol",
+   "slug": "campesterol",
+   "count": 4,
+   "unresolved": true
+  },
+  {
+   "name": "Camphor",
+   "slug": "camphor",
+   "count": 4,
+   "unresolved": true
+  },
+  {
+   "name": "Carvacrol",
+   "slug": "carvacrol",
+   "count": 4,
+   "unresolved": true
+  },
+  {
+   "name": "Chrysophanol",
+   "slug": "chrysophanol",
+   "count": 4,
+   "unresolved": true
+  },
+  {
+   "name": "Coumarins",
+   "slug": "coumarins",
+   "count": 4,
+   "unresolved": true
+  },
+  {
+   "name": "Eugenol",
+   "slug": "eugenol",
+   "count": 4,
+   "unresolved": true
+  },
+  {
+   "name": "Mucilage",
+   "slug": "mucilage",
+   "count": 4,
+   "unresolved": true
+  },
+  {
+   "name": "Polysaccharides",
+   "slug": "polysaccharides",
+   "count": 4,
+   "unresolved": true
+  },
+  {
+   "name": "Sabinene",
+   "slug": "sabinene",
+   "count": 4,
+   "unresolved": true
+  },
+  {
+   "name": "Sesamin",
+   "slug": "sesamin",
+   "count": 4,
+   "unresolved": true
+  },
+  {
+   "name": "Thymol",
+   "slug": "thymol",
+   "count": 4,
+   "unresolved": true
+  },
+  {
+   "name": "Bergenin",
+   "slug": "bergenin",
+   "count": 3,
+   "unresolved": true
+  },
+  {
+   "name": "Betulinic acid",
+   "slug": "betulinic-acid",
+   "count": 3,
+   "unresolved": true
+  },
+  {
+   "name": "Biochanin A",
+   "slug": "biochanin-a",
+   "count": 3,
+   "unresolved": true
+  },
+  {
+   "name": "Caffeic acid",
+   "slug": "caffeic-acid",
+   "count": 3,
+   "unresolved": true
+  },
+  {
+   "name": "Chebulagic acid",
+   "slug": "chebulagic-acid",
+   "count": 3,
+   "unresolved": true
+  },
+  {
+   "name": "Citric Acid",
+   "slug": "citric-acid",
+   "count": 3,
+   "unresolved": true
+  },
+  {
+   "name": "Corilagin",
+   "slug": "corilagin",
+   "count": 3,
+   "unresolved": true
+  },
+  {
+   "name": "Coumarin",
+   "slug": "coumarin",
+   "count": 3,
+   "unresolved": true
+  },
+  {
+   "name": "Demethoxycurcumin",
+   "slug": "demethoxycurcumin",
+   "count": 3,
+   "unresolved": true
+  },
+  {
+   "name": "Diosgenin",
+   "slug": "diosgenin",
+   "count": 3,
+   "unresolved": true
+  },
+  {
+   "name": "Epicatechin",
+   "slug": "epicatechin",
+   "count": 3,
+   "unresolved": true
+  },
+  {
+   "name": "Ferulic acid",
+   "slug": "ferulic-acid",
+   "count": 3,
+   "unresolved": true
+  },
+  {
+   "name": "Friedelin",
+   "slug": "friedelin",
+   "count": 3,
+   "unresolved": true
+  },
+  {
+   "name": "Iron",
+   "slug": "iron",
+   "count": 3,
+   "unresolved": true
+  },
+  {
+   "name": "Isorhamnetin",
+   "slug": "isorhamnetin",
+   "count": 3,
+   "unresolved": true
+  },
+  {
+   "name": "Manganese",
+   "slug": "manganese",
+   "count": 3,
+   "unresolved": true
+  },
+  {
+   "name": "Myrcene",
+   "slug": "myrcene",
+   "count": 3,
+   "unresolved": true
+  },
+  {
+   "name": "Oleic acid",
+   "slug": "oleic-acid",
+   "count": 3,
+   "unresolved": true
+  },
+  {
+   "name": "Palmitic acid",
+   "slug": "palmitic-acid",
+   "count": 3,
+   "unresolved": true
+  },
+  {
+   "name": "Peptides",
+   "slug": "peptides",
+   "count": 3,
+   "unresolved": true
+  },
+  {
+   "name": "Polyphenols",
+   "slug": "polyphenols",
+   "count": 3,
+   "unresolved": true
+  },
+  {
+   "name": "Procyanidins",
+   "slug": "procyanidins",
+   "count": 3,
+   "unresolved": true
+  },
+  {
+   "name": "Protocatechuic acid",
+   "slug": "protocatechuic-acid",
+   "count": 3,
+   "unresolved": true
+  },
+  {
+   "name": "Rhein",
+   "slug": "rhein",
+   "count": 3,
+   "unresolved": true
+  },
+  {
+   "name": "Safranal",
+   "slug": "safranal",
+   "count": 3,
+   "unresolved": true
+  },
+  {
+   "name": "Scutellarein",
+   "slug": "scutellarein",
+   "count": 3,
+   "unresolved": true
+  },
+  {
+   "name": "Sodium chloride",
+   "slug": "sodium-chloride",
+   "count": 3,
+   "unresolved": true
+  },
+  {
+   "name": "Steroids",
+   "slug": "steroids",
+   "count": 3,
+   "unresolved": true
+  },
+  {
+   "name": "Terpenoids",
+   "slug": "terpenoids",
+   "count": 3,
+   "unresolved": true
+  },
+  {
+   "name": "[Ajwain] Trachyspermum ammi",
+   "slug": "ajwain-trachyspermum-ammi",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "[Amlaparni] Oxalis corniculata L",
+   "slug": "amlaparni-oxalis-corniculata-l",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "[Aragwadha] Cassia fistula L",
+   "slug": "aragwadha-cassia-fistula-l",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "[Bijapura] Citrus medica L",
+   "slug": "bijapura-citrus-medica-l",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "[Coconut Oil Narikela Taila]",
+   "slug": "coconut-oil-narikela-taila",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "[Coconut Oil]",
+   "slug": "coconut-oil",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "[Danti] Baliospermum montanum Muell.-Arg",
+   "slug": "danti-baliospermum-montanum-muell-arg",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "[Devadaru] Cedrus deodara G.Don",
+   "slug": "devadaru-cedrus-deodara-g-don",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "[Himasagara Thailam]",
+   "slug": "himasagara-thailam",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "[Jatamansi]",
+   "slug": "jatamansi",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "[Laung] Syzygium aromaticum",
+   "slug": "laung-syzygium-aromaticum",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "[Madhuka] Madhuca longifolia J.F.Macbr",
+   "slug": "madhuka-madhuca-longifolia-j-f-macbr",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "[Mahasudarshan Churna]",
+   "slug": "mahasudarshan-churna",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "[Mishreya] Foeniculum vulgare Mill",
+   "slug": "mishreya-foeniculum-vulgare-mill",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "[Pudina] Mentha spicata",
+   "slug": "pudina-mentha-spicata",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "[Vidarikand] Pueraria tuberosa DC",
+   "slug": "vidarikand-pueraria-tuberosa-dc",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "[Yashtimadhu]",
+   "slug": "yashtimadhu",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Alpha-pinene",
+   "slug": "alpha-pinene",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Alpha-terpineol",
+   "slug": "alpha-terpineol",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Anthocyanins",
+   "slug": "anthocyanins",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Anthraquinones",
+   "slug": "anthraquinones",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Antioxidant",
+   "slug": "antioxidant",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Aqueous decoction",
+   "slug": "aqueous-decoction",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Arabinogalactan",
+   "slug": "arabinogalactan",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Arjunic acid",
+   "slug": "arjunic-acid",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Arjunolic acid",
+   "slug": "arjunolic-acid",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Ascorbic acid",
+   "slug": "ascorbic-acid",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Berberine",
+   "slug": "berberine",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Bergapten",
+   "slug": "bergapten",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Beta-carotene",
+   "slug": "beta-carotene",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Beta-pinene",
+   "slug": "beta-pinene",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Betaine",
+   "slug": "betaine",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Betulin",
+   "slug": "betulin",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Calcium",
+   "slug": "calcium",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Calcium carbonate",
+   "slug": "calcium-carbonate",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Catechins",
+   "slug": "catechins",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Chebulic acid",
+   "slug": "chebulic-acid",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Cold maceration",
+   "slug": "cold-maceration",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Cold pressing",
+   "slug": "cold-pressing",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Condensed tannins",
+   "slug": "condensed-tannins",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Crocetin",
+   "slug": "crocetin",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Crocin",
+   "slug": "crocin",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Dietary fiber",
+   "slug": "dietary-fiber",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Diterpenes",
+   "slug": "diterpenes",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Essential oil",
+   "slug": "essential-oil",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Expeller pressing",
+   "slug": "expeller-pressing",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Gamma-terpinene",
+   "slug": "gamma-terpinene",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Garcinol",
+   "slug": "garcinol",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Hesperidin",
+   "slug": "hesperidin",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Hispidulin",
+   "slug": "hispidulin",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Hydroalcoholic extraction",
+   "slug": "hydroalcoholic-extraction",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Hydroxycitric acid",
+   "slug": "hydroxycitric-acid",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Inulin",
+   "slug": "inulin",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Iodine",
+   "slug": "iodine",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Iron sulfide",
+   "slug": "iron-sulfide",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Isopelletierine",
+   "slug": "isopelletierine",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Isoquercetin",
+   "slug": "isoquercetin",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Jatrorrhizine",
+   "slug": "jatrorrhizine",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Lanosterol",
+   "slug": "lanosterol",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Lauric acid",
+   "slug": "lauric-acid",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Linoleic acid",
+   "slug": "linoleic-acid",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Magnoflorine",
+   "slug": "magnoflorine",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Mannitol",
+   "slug": "mannitol",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Palmatine",
+   "slug": "palmatine",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Pellitorine",
+   "slug": "pellitorine",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Phenolic acids",
+   "slug": "phenolic-acids",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Phospholipids",
+   "slug": "phospholipids",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Phosphorus",
+   "slug": "phosphorus",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Physcion",
+   "slug": "physcion",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Picrocrocin",
+   "slug": "picrocrocin",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Piperlongumine",
+   "slug": "piperlongumine",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Plumbagin",
+   "slug": "plumbagin",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Present",
+   "slug": "present",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Proteins",
+   "slug": "proteins",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Pterostilbene",
+   "slug": "pterostilbene",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Punicalagin",
+   "slug": "punicalagin",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Quercitol",
+   "slug": "quercitol",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Rhamnose",
+   "slug": "rhamnose",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Riboflavin",
+   "slug": "riboflavin",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Rosmarinic acid",
+   "slug": "rosmarinic-acid",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Rubrofusarin",
+   "slug": "rubrofusarin",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Scopoletin",
+   "slug": "scopoletin",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Sodium sulfate",
+   "slug": "sodium-sulfate",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Spinasterol",
+   "slug": "spinasterol",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Stearic acid",
+   "slug": "stearic-acid",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Sterols",
+   "slug": "sterols",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Tannic acid",
+   "slug": "tannic-acid",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Taraxerol",
+   "slug": "taraxerol",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Thymohydroquinone",
+   "slug": "thymohydroquinone",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Thymoquinone",
+   "slug": "thymoquinone",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Toralactone",
+   "slug": "toralactone",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Trace minerals",
+   "slug": "trace-minerals",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Vanillic acid",
+   "slug": "vanillic-acid",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Vitamin C",
+   "slug": "vitamin-c",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Xanthones",
+   "slug": "xanthones",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Zingiberene",
+   "slug": "zingiberene",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "[Adhaki] Cajanus cajan Millsp",
+   "slug": "adhaki-cajanus-cajan-millsp",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Aivana] Salvia officinalis L",
+   "slug": "aivana-salvia-officinalis-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Akarakarabha] Anacyclus pyrethrum Lag",
+   "slug": "akarakarabha-anacyclus-pyrethrum-lag",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Akika Pishti]",
+   "slug": "akika-pishti",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Akshotaka] Juglans regia L",
+   "slug": "akshotaka-juglans-regia-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Ambasthaki] Cissampelos pareira L",
+   "slug": "ambasthaki-cissampelos-pareira-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Amla] Phyllanthus emblica",
+   "slug": "amla-phyllanthus-emblica",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Amra] Mangifera indica L",
+   "slug": "amra-mangifera-indica-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Amritarishta]",
+   "slug": "amritarishta",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Ankola] Alangium salviifolium Wangerin",
+   "slug": "ankola-alangium-salviifolium-wangerin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Aparajita] Clitoria ternatea L",
+   "slug": "aparajita-clitoria-ternatea-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Ashoka]",
+   "slug": "ashoka",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Ashwagandha] combinations)",
+   "slug": "ashwagandha-combinations",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Ashwagandha] extract",
+   "slug": "ashwagandha-extract",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Atasi] Linum usitatissimum L",
+   "slug": "atasi-linum-usitatissimum-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Avipattikar] Churna",
+   "slug": "avipattikar-churna",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Bakuchi Taila]",
+   "slug": "bakuchi-taila",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Bakula] Mimusops elengi L",
+   "slug": "bakula-mimusops-elengi-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Balarishta]",
+   "slug": "balarishta",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Bhringaraja Svarasa]",
+   "slug": "bhringaraja-svarasa",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Bhringraj]",
+   "slug": "bhringraj",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Brahmi] extract",
+   "slug": "brahmi-extract",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Chandrashura] Lepidium sativum L",
+   "slug": "chandrashura-lepidium-sativum-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Changeri] Oxalis corniculata L",
+   "slug": "changeri-oxalis-corniculata-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Chhatraka] Agaricus campestris L",
+   "slug": "chhatraka-agaricus-campestris-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Chitrak] Plumbago zeylanica L",
+   "slug": "chitrak-plumbago-zeylanica-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Chyawanprash]",
+   "slug": "chyawanprash",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Coriander Herb]",
+   "slug": "coriander-herb",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Coriander]",
+   "slug": "coriander",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Daruharidra] Berberis aristata DC",
+   "slug": "daruharidra-berberis-aristata-dc",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Dashmool Dashmoolarishta]",
+   "slug": "dashmool-dashmoolarishta",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Dhanwantaram Thailam]",
+   "slug": "dhanwantaram-thailam",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Dhanyaka] Coriandrum sativum L",
+   "slug": "dhanyaka-coriandrum-sativum-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Dhataki]",
+   "slug": "dhataki",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Draksharishta]",
+   "slug": "draksharishta",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Durva]",
+   "slug": "durva",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Eranda Moola]",
+   "slug": "eranda-moola",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Eranda]",
+   "slug": "eranda",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Eranda] Ricinus communis L",
+   "slug": "eranda-ricinus-communis-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Giloy] Tinospora cordifolia",
+   "slug": "giloy-tinospora-cordifolia",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Godanti Bhasma]",
+   "slug": "godanti-bhasma",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Gomutra]",
+   "slug": "gomutra",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Guduchi] combinations)",
+   "slug": "guduchi-combinations",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Guduchi] preparations",
+   "slug": "guduchi-preparations",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Guduchi] Tinospora cordifolia",
+   "slug": "guduchi-tinospora-cordifolia",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Guggulu]",
+   "slug": "guggulu",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Haritaki] formulations)",
+   "slug": "haritaki-formulations",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Hingu] Ferula asafoetida",
+   "slug": "hingu-ferula-asafoetida",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Hrivera]",
+   "slug": "hrivera",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Ikshu]",
+   "slug": "ikshu",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Indukantham Ghritam]",
+   "slug": "indukantham-ghritam",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Jati]",
+   "slug": "jati",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Jyotishmati]",
+   "slug": "jyotishmati",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Kalajaji] Nigella sativa L",
+   "slug": "kalajaji-nigella-sativa-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Kalyanaka Ghritam]",
+   "slug": "kalyanaka-ghritam",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Kasturi]",
+   "slug": "kasturi",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Kataka] Strychnos potatorum L.f",
+   "slug": "kataka-strychnos-potatorum-l-f",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Kharjura] Phoenix dactylifera L",
+   "slug": "kharjura-phoenix-dactylifera-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Kovidara] Bauhinia purpurea L",
+   "slug": "kovidara-bauhinia-purpurea-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Kshavaka] Amaranthus spinosus L",
+   "slug": "kshavaka-amaranthus-spinosus-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Kshirabala Thailam]",
+   "slug": "kshirabala-thailam",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Kumbhika]",
+   "slug": "kumbhika",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Kumud]",
+   "slug": "kumud",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Kumuda]",
+   "slug": "kumuda",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Kushmanda Khanda]",
+   "slug": "kushmanda-khanda",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Kushmanda] Benincasa hispida Cogn",
+   "slug": "kushmanda-benincasa-hispida-cogn",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Kusumbha]",
+   "slug": "kusumbha",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Laghu Sutshekhar Ras]",
+   "slug": "laghu-sutshekhar-ras",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Lasuna Ksheerapaka]",
+   "slug": "lasuna-ksheerapaka",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Lasuna] Allium sativum L",
+   "slug": "lasuna-allium-sativum-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Lodhra] Symplocos racemosa Roxb",
+   "slug": "lodhra-symplocos-racemosa-roxb",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Madayantika]",
+   "slug": "madayantika",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Maha Narayana Thailam]",
+   "slug": "maha-narayana-thailam",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Mahabala] Sida rhombifolia L",
+   "slug": "mahabala-sida-rhombifolia-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Mahayograj Guggul]",
+   "slug": "mahayograj-guggul",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Mamsarohini]",
+   "slug": "mamsarohini",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Mandukparni]",
+   "slug": "mandukparni",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Matulunga] Citrus medica L",
+   "slug": "matulunga-citrus-medica-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Mukta Pishti]",
+   "slug": "mukta-pishti",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Nagakesara]",
+   "slug": "nagakesara",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Nagarmotha] Cyperus rotundus",
+   "slug": "nagarmotha-cyperus-rotundus",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Narayana Thailam]",
+   "slug": "narayana-thailam",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Narikela] Cocos nucifera L",
+   "slug": "narikela-cocos-nucifera-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Neelibringadi Thailam]",
+   "slug": "neelibringadi-thailam",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Nili] Indigofera tinctoria L",
+   "slug": "nili-indigofera-tinctoria-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Nirgundi]",
+   "slug": "nirgundi",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Nirgundi] Vitex negundo L",
+   "slug": "nirgundi-vitex-negundo-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Nyagrodha] Ficus benghalensis L",
+   "slug": "nyagrodha-ficus-benghalensis-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Palankya] Spinacia oleracea L",
+   "slug": "palankya-spinacia-oleracea-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Panchatikta Ghrita]",
+   "slug": "panchatikta-ghrita",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Panna Pishti]",
+   "slug": "panna-pishti",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Parijata] Nyctanthes arbor-tristis L",
+   "slug": "parijata-nyctanthes-arbor-tristis-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Phanita]",
+   "slug": "phanita",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Pitta-Balancing Herbs]",
+   "slug": "pitta-balancing-herbs",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Plaksha] Ficus lacor Buch.-Ham",
+   "slug": "plaksha-ficus-lacor-buch-ham",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Pradarantak Lauh]",
+   "slug": "pradarantak-lauh",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Prapunnada]",
+   "slug": "prapunnada",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Pravala Pishti]",
+   "slug": "pravala-pishti",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Priyangu] Callicarpa macrophylla Vahl",
+   "slug": "priyangu-callicarpa-macrophylla-vahl",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Pushyanuga Churna]",
+   "slug": "pushyanuga-churna",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Rishabhaka] Manilkara hexandra Dubard",
+   "slug": "rishabhaka-manilkara-hexandra-dubard",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Rohisha]",
+   "slug": "rohisha",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Saffron] — Crocus sativus",
+   "slug": "saffron-crocus-sativus",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Saireyaka]",
+   "slug": "saireyaka",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Sala] Shorea robusta Gaertn.f",
+   "slug": "sala-shorea-robusta-gaertn-f",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Sariva] — Hemidesmus indicus",
+   "slug": "sariva-hemidesmus-indicus",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Shadbindu Taila]",
+   "slug": "shadbindu-taila",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Shankha Bhasma]",
+   "slug": "shankha-bhasma",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Sharapunkha]",
+   "slug": "sharapunkha",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Shatavari]",
+   "slug": "shatavari",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Shatavari] extract",
+   "slug": "shatavari-extract",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Shirisha] Albizia lebbeck Benth",
+   "slug": "shirisha-albizia-lebbeck-benth",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Simhanada Guggulu]",
+   "slug": "simhanada-guggulu",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Sita]",
+   "slug": "sita",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Sitopaladi Churna]",
+   "slug": "sitopaladi-churna",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Srikhandasava]",
+   "slug": "srikhandasava",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Sukumaram Ghritam]",
+   "slug": "sukumaram-ghritam",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Swarna Bhasma]",
+   "slug": "swarna-bhasma",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Talisadi Churna]",
+   "slug": "talisadi-churna",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Tapyadi Loha]",
+   "slug": "tapyadi-loha",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Taruni]",
+   "slug": "taruni",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Tila] Sesamum indicum L",
+   "slug": "tila-sesamum-indicum-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Trapusha]",
+   "slug": "trapusha",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Triphala Churna]",
+   "slug": "triphala-churna",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Triphala Herbs]",
+   "slug": "triphala-herbs",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Triphaladi Thailam]",
+   "slug": "triphaladi-thailam",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Utpala]",
+   "slug": "utpala",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Vacha]",
+   "slug": "vacha",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Vanapsa] Viola odorata L",
+   "slug": "vanapsa-viola-odorata-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Vasa] Adhatoda vasica Nees",
+   "slug": "vasa-adhatoda-vasica-nees",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Vata-Balancing Herbs]",
+   "slug": "vata-balancing-herbs",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Vatagajankush Rasa]",
+   "slug": "vatagajankush-rasa",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Vathada]",
+   "slug": "vathada",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Vidari]",
+   "slug": "vidari",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Vriddhadaru]",
+   "slug": "vriddhadaru",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "[Yashada Bhasma]",
+   "slug": "yashada-bhasma",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "10-Deacetylbaccatin III",
+   "slug": "10-deacetylbaccatin-iii",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "12-Deoxywithastramonolide",
+   "slug": "12-deoxywithastramonolide",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "16-alpha-hydroxyprotobassic acid",
+   "slug": "16-alpha-hydroxyprotobassic-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "20β-Hydroxyecdysone",
+   "slug": "20-hydroxyecdysone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "3-Acetyl-beta-boswellic acid",
+   "slug": "3-acetyl-beta-boswellic-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "3-alpha-Dihydrocadambine",
+   "slug": "3-alpha-dihydrocadambine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Abiesin",
+   "slug": "abiesin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Achyranthine",
+   "slug": "achyranthine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Acteoside",
+   "slug": "acteoside",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Aervine",
+   "slug": "aervine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Aervoside",
+   "slug": "aervoside",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Agnuside",
+   "slug": "agnuside",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Ajmalicine",
+   "slug": "ajmalicine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Ajmaline",
+   "slug": "ajmaline",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Alangicine",
+   "slug": "alangicine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Alangimarine",
+   "slug": "alangimarine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Alangine",
+   "slug": "alangine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Alantolactone",
+   "slug": "alantolactone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Aleuritic acid",
+   "slug": "aleuritic-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Alizarin",
+   "slug": "alizarin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Allantoin",
+   "slug": "allantoin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Allylcembrol",
+   "slug": "allylcembrol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Alpha-",
+   "slug": "alpha",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Alpha-amyrin",
+   "slug": "alpha-amyrin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Alpha-amyrin and beta-amyrin",
+   "slug": "alpha-amyrin-and-beta-amyrin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Alpha-boswellic acid",
+   "slug": "alpha-boswellic-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Alpha-galactosidase",
+   "slug": "alpha-galactosidase",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Alpha-hederin",
+   "slug": "alpha-hederin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Alpha-himachalene",
+   "slug": "alpha-himachalene",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "alpha-Humulene",
+   "slug": "alpha-humulene",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Alpha-linolenic acid",
+   "slug": "alpha-linolenic-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Alpha-pinene and beta-pinene",
+   "slug": "alpha-pinene-and-beta-pinene",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Alpha-thujone",
+   "slug": "alpha-thujone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Alpha-turmerone",
+   "slug": "alpha-turmerone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Alpha-turpethein",
+   "slug": "alpha-turpethein",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Amalaki Churna )",
+   "slug": "amalaki-churna",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Amalaki synergy)",
+   "slug": "amalaki-synergy",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Amaranthine",
+   "slug": "amaranthine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Amentoflavone",
+   "slug": "amentoflavone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Amla",
+   "slug": "amla",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Anacycline",
+   "slug": "anacycline",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Anaferine",
+   "slug": "anaferine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Anahygrine",
+   "slug": "anahygrine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Androstenone",
+   "slug": "androstenone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Ankorine",
+   "slug": "ankorine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Aqueous decoction of bark/leaves",
+   "slug": "aqueous-decoction-of-bark-leaves",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Ar-turmerone",
+   "slug": "ar-turmerone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Arabinose",
+   "slug": "arabinose",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Arachidonic acid",
+   "slug": "arachidonic-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Arjunetin",
+   "slug": "arjunetin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Arjungenin",
+   "slug": "arjungenin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Aromadendrene",
+   "slug": "aromadendrene",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Asaresinotannols A and B",
+   "slug": "asaresinotannols-a-and-b",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Asparagamine A",
+   "slug": "asparagamine-a",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Asparanin A-D",
+   "slug": "asparanin-a-d",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Aucubin",
+   "slug": "aucubin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Aurantio-obtusin",
+   "slug": "aurantio-obtusin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Azadirachtin",
+   "slug": "azadirachtin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Baccatin III",
+   "slug": "baccatin-iii",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Bacopasaponin C",
+   "slug": "bacopasaponin-c",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Bacopaside I-XII",
+   "slug": "bacopaside-i-xii",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Bacoside A",
+   "slug": "bacoside-a",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Bacoside B",
+   "slug": "bacoside-b",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Baicalein",
+   "slug": "baicalein",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Bakuchalcone",
+   "slug": "bakuchalcone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Bakuchiol",
+   "slug": "bakuchiol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Balanitin-6",
+   "slug": "balanitin-6",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Balanitin-7",
+   "slug": "balanitin-7",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Bavachinin",
+   "slug": "bavachinin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Belleric acid",
+   "slug": "belleric-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Bellericanin",
+   "slug": "bellericanin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Bengalinoside",
+   "slug": "bengalinoside",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Berbamine",
+   "slug": "berbamine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Beta-amyrin",
+   "slug": "beta-amyrin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Beta-boswellic acid",
+   "slug": "beta-boswellic-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Beta-caryophyllene",
+   "slug": "beta-caryophyllene",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Beta-eudesmol",
+   "slug": "beta-eudesmol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Beta-himachalene",
+   "slug": "beta-himachalene",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Beta-sitosteryl acetate",
+   "slug": "beta-sitosteryl-acetate",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Beta-thujone",
+   "slug": "beta-thujone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Beta-turmerone",
+   "slug": "beta-turmerone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Beta-turpethein",
+   "slug": "beta-turpethein",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Bioflavonoids",
+   "slug": "bioflavonoids",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Blood-letting lancets",
+   "slug": "blood-letting-lancets",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Brahmine",
+   "slug": "brahmine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Brazilein",
+   "slug": "brazilein",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Brazilin",
+   "slug": "brazilin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Cadambine",
+   "slug": "cadambine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Cadamine",
+   "slug": "cadamine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Caesalpin",
+   "slug": "caesalpin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Calcium phosphate",
+   "slug": "calcium-phosphate",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Calcium sulfate",
+   "slug": "calcium-sulfate",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Calliterpenone",
+   "slug": "calliterpenone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Calliterpenone monoacetate",
+   "slug": "calliterpenone-monoacetate",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Cambogic acid",
+   "slug": "cambogic-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Camphene",
+   "slug": "camphene",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Candle/wick for creating vacuum",
+   "slug": "candle-wick-for-creating-vacuum",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Capric acid",
+   "slug": "capric-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Caprylic acid",
+   "slug": "caprylic-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Caryophyllene",
+   "slug": "caryophyllene",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Casticin",
+   "slug": "casticin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Catalase",
+   "slug": "catalase",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Catechol",
+   "slug": "catechol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Catechu-tannic acid",
+   "slug": "catechu-tannic-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Cedeodarin",
+   "slug": "cedeodarin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Cedrin",
+   "slug": "cedrin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Cedrusone A",
+   "slug": "cedrusone-a",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Cellulose and hemicellulose",
+   "slug": "cellulose-and-hemicellulose",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Cembrene A",
+   "slug": "cembrene-a",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Cephalomannine",
+   "slug": "cephalomannine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Chabamide",
+   "slug": "chabamide",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Chebulinic acid",
+   "slug": "chebulinic-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Chenodeoxycholic acid",
+   "slug": "chenodeoxycholic-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Chitrak",
+   "slug": "chitrak",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Chitranone",
+   "slug": "chitranone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Chloride",
+   "slug": "chloride",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Chlorophyll",
+   "slug": "chlorophyll",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Cholestanol",
+   "slug": "cholestanol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Cholesterol",
+   "slug": "cholesterol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Cholic acid",
+   "slug": "cholic-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Choline",
+   "slug": "choline",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Christembine",
+   "slug": "christembine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Chrysin",
+   "slug": "chrysin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Chryso-obtusin",
+   "slug": "chryso-obtusin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Cinnamaldehyde",
+   "slug": "cinnamaldehyde",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Cinnamic acid",
+   "slug": "cinnamic-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Cinnamyl acetate",
+   "slug": "cinnamyl-acetate",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Cirsilineol",
+   "slug": "cirsilineol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "cis-Nuciferol",
+   "slug": "cis-nuciferol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Cissamine and hayatinine",
+   "slug": "cissamine-and-hayatinine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Columbin",
+   "slug": "columbin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Combined actives of 40",
+   "slug": "combined-actives-of-40",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Copane",
+   "slug": "copane",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Cordifolioside A-E",
+   "slug": "cordifolioside-a-e",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Corylifolin",
+   "slug": "corylifolin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Cow horn",
+   "slug": "cow-horn",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Creatinine",
+   "slug": "creatinine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Cubebin",
+   "slug": "cubebin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Cubebinionolide and cubebinone",
+   "slug": "cubebinionolide-and-cubebinone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Cuminaldehyde",
+   "slug": "cuminaldehyde",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Cuminol",
+   "slug": "cuminol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Curcumin glucuronide",
+   "slug": "curcumin-glucuronide",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Curcumin sulfate",
+   "slug": "curcumin-sulfate",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Curcuminoids complex",
+   "slug": "curcuminoids-complex",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Curcuzedoalide",
+   "slug": "curcuzedoalide",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Curlone",
+   "slug": "curlone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Cuscohygrine",
+   "slug": "cuscohygrine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Cyanidin-3-glucoside",
+   "slug": "cyanidin-3-glucoside",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Cyanidin-3-sambubioside",
+   "slug": "cyanidin-3-sambubioside",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Cycloart-23-ene-3beta",
+   "slug": "cycloart-23-ene-3beta",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Cyclocurcumin",
+   "slug": "cyclocurcumin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Cyclotides",
+   "slug": "cyclotides",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Cycloucalenol",
+   "slug": "cycloucalenol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Cytokinins",
+   "slug": "cytokinins",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Daucosterol",
+   "slug": "daucosterol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Decanal",
+   "slug": "decanal",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Deodarin",
+   "slug": "deodarin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Deoxycholic acid",
+   "slug": "deoxycholic-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Deserpidine",
+   "slug": "deserpidine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Desmodin",
+   "slug": "desmodin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Dihydrocadambine",
+   "slug": "dihydrocadambine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Dihydrocubebin",
+   "slug": "dihydrocubebin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Dihydroisoalantolactone",
+   "slug": "dihydroisoalantolactone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Dihydrozeatin-O-glucoside",
+   "slug": "dihydrozeatin-o-glucoside",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Dioscin",
+   "slug": "dioscin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Diosmin",
+   "slug": "diosmin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Disposable sutra neti tubes",
+   "slug": "disposable-sutra-neti-tubes",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Dithymoquinone",
+   "slug": "dithymoquinone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Dracunculins",
+   "slug": "dracunculins",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Drakshadi Kashayam",
+   "slug": "drakshadi-kashayam",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Droserone",
+   "slug": "droserone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Dumetoronins A-F",
+   "slug": "dumetoronins-a-f",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "E-Guggulsterone",
+   "slug": "e-guggulsterone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Earthen pots",
+   "slug": "earthen-pots",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Earthenware",
+   "slug": "earthenware",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Ecdysterone",
+   "slug": "ecdysterone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Ellagitannins",
+   "slug": "ellagitannins",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Elliptinone",
+   "slug": "elliptinone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Embeliaribyl ester",
+   "slug": "embeliaribyl-ester",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Embelin",
+   "slug": "embelin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Embelinol",
+   "slug": "embelinol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Embeliol",
+   "slug": "embeliol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Emblicanin A",
+   "slug": "emblicanin-a",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Emblicanin B",
+   "slug": "emblicanin-b",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Epigallocatechin-5",
+   "slug": "epigallocatechin-5",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Epigallocatechin-7-gallate",
+   "slug": "epigallocatechin-7-gallate",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Eriocitrin",
+   "slug": "eriocitrin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Ervolanine",
+   "slug": "ervolanine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Erythrodiol-3-monoacetate",
+   "slug": "erythrodiol-3-monoacetate",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Ethyl gallate",
+   "slug": "ethyl-gallate",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Eudesmane",
+   "slug": "eudesmane",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Eugenyl acetate",
+   "slug": "eugenyl-acetate",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Fisetin",
+   "slug": "fisetin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Fistulic acid",
+   "slug": "fistulic-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Flat evaporating dishes",
+   "slug": "flat-evaporating-dishes",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Flavone",
+   "slug": "flavone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Flavonoid",
+   "slug": "flavonoid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Formononetin",
+   "slug": "formononetin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Fresh juice expression",
+   "slug": "fresh-juice-expression",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Fresh juice of leaves",
+   "slug": "fresh-juice-of-leaves",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Fresh leaf juice",
+   "slug": "fresh-leaf-juice",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Fresh plant juice",
+   "slug": "fresh-plant-juice",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Furanodienone",
+   "slug": "furanodienone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Furostanol",
+   "slug": "furostanol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Galactomannan",
+   "slug": "galactomannan",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Gallic acid tannins",
+   "slug": "gallic-acid-tannins",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Gallotannins",
+   "slug": "gallotannins",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Gamma-himachalene",
+   "slug": "gamma-himachalene",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Gangetin",
+   "slug": "gangetin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Gangetinin",
+   "slug": "gangetinin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Garpedunchromones A-C",
+   "slug": "garpedunchromones-a-c",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Gedunin",
+   "slug": "gedunin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Genistein",
+   "slug": "genistein",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Geraniin",
+   "slug": "geraniin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Germacrone",
+   "slug": "germacrone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Ghee",
+   "slug": "ghee",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Giloinsterol",
+   "slug": "giloinsterol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Ginger",
+   "slug": "ginger",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Gingerols",
+   "slug": "gingerols",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Glabrin",
+   "slug": "glabrin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Glass cupping cups",
+   "slug": "glass-cupping-cups",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Glass retort apparatus",
+   "slug": "glass-retort-apparatus",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Glucogenkwanin",
+   "slug": "glucogenkwanin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Glucomannans",
+   "slug": "glucomannans",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Glucotropaeolin",
+   "slug": "glucotropaeolin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Gold-plated vessels",
+   "slug": "gold-plated-vessels",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Gourd",
+   "slug": "gourd",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Guggullignan I-II",
+   "slug": "guggullignan-i-ii",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Guggulsterol I-V",
+   "slug": "guggulsterol-i-v",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Guineensine",
+   "slug": "guineensine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Haritaki",
+   "slug": "haritaki",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Hedychenone",
+   "slug": "hedychenone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Herbacetin",
+   "slug": "herbacetin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Herpestine",
+   "slug": "herpestine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Hexahydrocurcumin",
+   "slug": "hexahydrocurcumin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Hijama cupping kits",
+   "slug": "hijama-cupping-kits",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Himachalol",
+   "slug": "himachalol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Hippuric acid",
+   "slug": "hippuric-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Homoisoflavonoids",
+   "slug": "homoisoflavonoids",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Homovanillic acid",
+   "slug": "homovanillic-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Honey",
+   "slug": "honey",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Hydrogen sulfide",
+   "slug": "hydrogen-sulfide",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Hydrolyzable tannins",
+   "slug": "hydrolyzable-tannins",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Hydroxycitric acid lactone",
+   "slug": "hydroxycitric-acid-lactone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Hydroxytyrosol",
+   "slug": "hydroxytyrosol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Incensole acetate",
+   "slug": "incensole-acetate",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Indigo",
+   "slug": "indigo",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Indigoside",
+   "slug": "indigoside",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Indigotin",
+   "slug": "indigotin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Indirubin",
+   "slug": "indirubin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Ingenol esters",
+   "slug": "ingenol-esters",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Inulicin",
+   "slug": "inulicin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Iridoids",
+   "slug": "iridoids",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Iron compounds",
+   "slug": "iron-compounds",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Isatin",
+   "slug": "isatin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Isoalantolactone",
+   "slug": "isoalantolactone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Isocadambine",
+   "slug": "isocadambine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Isodihydrocadambine",
+   "slug": "isodihydrocadambine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Isoflavones",
+   "slug": "isoflavones",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Isoflavonoids",
+   "slug": "isoflavonoids",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Isogarcinol",
+   "slug": "isogarcinol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Isoliquiritigenin",
+   "slug": "isoliquiritigenin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Isomangiferin",
+   "slug": "isomangiferin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Isopimaric acid",
+   "slug": "isopimaric-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Isopsoralen",
+   "slug": "isopsoralen",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Isorottlerin",
+   "slug": "isorottlerin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Isothiocyanates",
+   "slug": "isothiocyanates",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Isothymusin",
+   "slug": "isothymusin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Isovitexin",
+   "slug": "isovitexin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Isozeylanone",
+   "slug": "isozeylanone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Jalaric acid",
+   "slug": "jalaric-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Jujubogenin glycosides",
+   "slug": "jujubogenin-glycosides",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Kamala",
+   "slug": "kamala",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Kanakasava",
+   "slug": "kanakasava",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Kanjone",
+   "slug": "kanjone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Karachine",
+   "slug": "karachine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Karanjin",
+   "slug": "karanjin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Kokum butter",
+   "slug": "kokum-butter",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Laccaic acid A-E",
+   "slug": "laccaic-acid-a-e",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Laccijalaric acid",
+   "slug": "laccijalaric-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Lactic acid bacteria",
+   "slug": "lactic-acid-bacteria",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Lactoferrin",
+   "slug": "lactoferrin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Lamarckianin",
+   "slug": "lamarckianin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Latex compounds",
+   "slug": "latex-compounds",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Leucocyanidin",
+   "slug": "leucocyanidin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Leucopelargonidin",
+   "slug": "leucopelargonidin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Liensinine",
+   "slug": "liensinine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Lignans",
+   "slug": "lignans",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Lignins",
+   "slug": "lignins",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Liquiritigenin",
+   "slug": "liquiritigenin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Lup-20",
+   "slug": "lup-20",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Lupeolic acid",
+   "slug": "lupeolic-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Luteolin-7-glucoside",
+   "slug": "luteolin-7-glucoside",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Luteolin-7-O-glucuronide",
+   "slug": "luteolin-7-o-glucuronide",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Magnocurarine",
+   "slug": "magnocurarine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Mahmoodin",
+   "slug": "mahmoodin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Mallotophilippinens",
+   "slug": "mallotophilippinens",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Mallotucin D",
+   "slug": "mallotucin-d",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Mangiferin",
+   "slug": "mangiferin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Manjistha",
+   "slug": "manjistha",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Margosine",
+   "slug": "margosine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Marsupsin",
+   "slug": "marsupsin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Medical-grade silicone nasal catheters",
+   "slug": "medical-grade-silicone-nasal-catheters",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Medium-chain triglycerides",
+   "slug": "medium-chain-triglycerides",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Metal connecting tubes",
+   "slug": "metal-connecting-tubes",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Metal distillation columns",
+   "slug": "metal-distillation-columns",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Methyl eugenol",
+   "slug": "methyl-eugenol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Methyl grevillate",
+   "slug": "methyl-grevillate",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Methyl piperate",
+   "slug": "methyl-piperate",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Methylaervine",
+   "slug": "methylaervine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Modern cupping therapy sets",
+   "slug": "modern-cupping-therapy-sets",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Monolaurin",
+   "slug": "monolaurin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Mucilaginous",
+   "slug": "mucilaginous",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Mud-cloth sealing",
+   "slug": "mud-cloth-sealing",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Mud-cloth-plaster sealing",
+   "slug": "mud-cloth-plaster-sealing",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Multi-stage glass distillation apparatus",
+   "slug": "multi-stage-glass-distillation-apparatus",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Muscone",
+   "slug": "muscone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Muscopyridine",
+   "slug": "muscopyridine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Musta Churna",
+   "slug": "musta-churna",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Myristic acid",
+   "slug": "myristic-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Myrrhanol A",
+   "slug": "myrrhanol-a",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Myrrhanone A",
+   "slug": "myrrhanone-a",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Naringin",
+   "slug": "naringin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Neferine",
+   "slug": "neferine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Neosakuranin",
+   "slug": "neosakuranin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Nicotine",
+   "slug": "nicotine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Nigellicine and",
+   "slug": "nigellicine-and",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Nigellidine",
+   "slug": "nigellidine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Nigellone",
+   "slug": "nigellone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Niloticane",
+   "slug": "niloticane",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Nimbidin",
+   "slug": "nimbidin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Nimbidine",
+   "slug": "nimbidine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Nimbimine",
+   "slug": "nimbimine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Nimbin",
+   "slug": "nimbin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Nimbinin",
+   "slug": "nimbinin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Nimbinine",
+   "slug": "nimbinine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Nimbioside",
+   "slug": "nimbioside",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Nimbolide",
+   "slug": "nimbolide",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Nimbosterol",
+   "slug": "nimbosterol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Nor-sesquiterpenoids",
+   "slug": "nor-sesquiterpenoids",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Normuscone",
+   "slug": "normuscone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Nuciferine",
+   "slug": "nuciferine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Nujiangbiflavone A",
+   "slug": "nujiangbiflavone-a",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Obtusin",
+   "slug": "obtusin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Obtusin and aurantio-obtusin",
+   "slug": "obtusin-and-aurantio-obtusin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Oleocanthal",
+   "slug": "oleocanthal",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Oleuropein",
+   "slug": "oleuropein",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Ombuin",
+   "slug": "ombuin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Organic acids",
+   "slug": "organic-acids",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Organosulfides",
+   "slug": "organosulfides",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Orientin",
+   "slug": "orientin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Oxyanthraquinone",
+   "slug": "oxyanthraquinone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Oxyberberine",
+   "slug": "oxyberberine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "p-Coumaric acid",
+   "slug": "p-coumaric-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "P-cymene",
+   "slug": "p-cymene",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "p-Hydroxybenzoic acid",
+   "slug": "p-hydroxybenzoic-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Paclitaxel",
+   "slug": "paclitaxel",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Para-cymene",
+   "slug": "para-cymene",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Pareirarine",
+   "slug": "pareirarine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Pedunculagin",
+   "slug": "pedunculagin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Pelletierine",
+   "slug": "pelletierine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Pentadecane",
+   "slug": "pentadecane",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Percolation with graded alcohol",
+   "slug": "percolation-with-graded-alcohol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Phenolic compounds",
+   "slug": "phenolic-compounds",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Phenolic glycosides",
+   "slug": "phenolic-glycosides",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Phenols",
+   "slug": "phenols",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Phlebotomy needles",
+   "slug": "phlebotomy-needles",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Pinnatin",
+   "slug": "pinnatin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Piperlonguminine",
+   "slug": "piperlonguminine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Pipernonaline",
+   "slug": "pipernonaline",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Pippali",
+   "slug": "pippali",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Pistagremic acid",
+   "slug": "pistagremic-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Pluviatilol",
+   "slug": "pluviatilol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Pongaglabrone",
+   "slug": "pongaglabrone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Pongamol",
+   "slug": "pongamol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Pongapin",
+   "slug": "pongapin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Porcelain evaporating basins",
+   "slug": "porcelain-evaporating-basins",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Potassium chloride",
+   "slug": "potassium-chloride",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Proanthocyanidins",
+   "slug": "proanthocyanidins",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Probiotic microorganisms",
+   "slug": "probiotic-microorganisms",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Protobassic acid",
+   "slug": "protobassic-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Protosappanin A",
+   "slug": "protosappanin-a",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Prunetinoside",
+   "slug": "prunetinoside",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Pseudobaptigenin",
+   "slug": "pseudobaptigenin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Pseudoephedrine",
+   "slug": "pseudoephedrine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Psoralen",
+   "slug": "psoralen",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Psoralidin",
+   "slug": "psoralidin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Pterocarpol",
+   "slug": "pterocarpol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Pterosupin",
+   "slug": "pterosupin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Puddumin-A and Puddumin-B",
+   "slug": "puddumin-a-and-puddumin-b",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Punicalin",
+   "slug": "punicalin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Punigluconin",
+   "slug": "punigluconin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Pure gold",
+   "slug": "pure-gold",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Pure silver",
+   "slug": "pure-silver",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Purpurin",
+   "slug": "purpurin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Pyrethrin",
+   "slug": "pyrethrin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Pyrocatechol",
+   "slug": "pyrocatechol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Pyrrole glycosides",
+   "slug": "pyrrole-glycosides",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Pyrrolo",
+   "slug": "pyrrolo",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Quercitrin",
+   "slug": "quercitrin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Quinovic acid",
+   "slug": "quinovic-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Racemofuran",
+   "slug": "racemofuran",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Racemosol",
+   "slug": "racemosol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Raja Nighantu — \"Vamsharochana\"",
+   "slug": "raja-nighantu-vamsharochana",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Randia acid",
+   "slug": "randia-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Randianin",
+   "slug": "randianin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Randoside A",
+   "slug": "randoside-a",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Requires further ethnobotanical investigation",
+   "slug": "requires-further-ethnobotanical-investigation",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Rescinnamine",
+   "slug": "rescinnamine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Reserpine",
+   "slug": "reserpine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Resveratrol",
+   "slug": "resveratrol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Retrofractamide A",
+   "slug": "retrofractamide-a",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Retrofractamide A-C",
+   "slug": "retrofractamide-a-c",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Retrofractamide C",
+   "slug": "retrofractamide-c",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Ricin",
+   "slug": "ricin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Ricinine",
+   "slug": "ricinine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Ricinoleic acid",
+   "slug": "ricinoleic-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Rotary evaporators",
+   "slug": "rotary-evaporators",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Rottlerin",
+   "slug": "rottlerin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Roylene",
+   "slug": "roylene",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "RR1",
+   "slug": "rr1",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Rubber catheter",
+   "slug": "rubber-catheter",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Rutherfordin",
+   "slug": "rutherfordin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Salannin",
+   "slug": "salannin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Salsoline",
+   "slug": "salsoline",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Salutaridine",
+   "slug": "salutaridine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Salviifosides A",
+   "slug": "salviifosides-a",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Sandalwood Oil",
+   "slug": "sandalwood-oil",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Santalic acid",
+   "slug": "santalic-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Santolina alcohol",
+   "slug": "santolina-alcohol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Saponin A and B",
+   "slug": "saponin-a-and-b",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Sappanchalcone",
+   "slug": "sappanchalcone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Sappanone A and B",
+   "slug": "sappanone-a-and-b",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Sarsasapogenin",
+   "slug": "sarsasapogenin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Savinin",
+   "slug": "savinin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Scindapsin A",
+   "slug": "scindapsin-a",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Scindapsin B",
+   "slug": "scindapsin-b",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Scindapsinidine A",
+   "slug": "scindapsinidine-a",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Scindapsinidine B",
+   "slug": "scindapsinidine-b",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Secoisolariciresinol diglucoside",
+   "slug": "secoisolariciresinol-diglucoside",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Selenium",
+   "slug": "selenium",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Sennosides A-D",
+   "slug": "sennosides-a-d",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Serpentine",
+   "slug": "serpentine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Serpentinine",
+   "slug": "serpentinine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Serratumin A",
+   "slug": "serratumin-a",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Sesame Oil",
+   "slug": "sesame-oil",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Sesquiterpene",
+   "slug": "sesquiterpene",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Sesquiterpenoids",
+   "slug": "sesquiterpenoids",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Shatavarin I-IV",
+   "slug": "shatavarin-i-iv",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Shellolic acid",
+   "slug": "shellolic-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Shogaols",
+   "slug": "shogaols",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Shunthi combination)",
+   "slug": "shunthi-combination",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Silica",
+   "slug": "silica",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Silicone cupping cups",
+   "slug": "silicone-cupping-cups",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Silver-coated copper vessels",
+   "slug": "silver-coated-copper-vessels",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Sitoindoside IX",
+   "slug": "sitoindoside-ix",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Sitoindoside VII",
+   "slug": "sitoindoside-vii",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Sitoindoside VIII",
+   "slug": "sitoindoside-viii",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Sitoindoside X",
+   "slug": "sitoindoside-x",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Sitoindosides VII-X",
+   "slug": "sitoindosides-vii-x",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Sodium",
+   "slug": "sodium",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Sodium bisulfate",
+   "slug": "sodium-bisulfate",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Sodium bisulfite",
+   "slug": "sodium-bisulfite",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Sodium carbonate",
+   "slug": "sodium-carbonate",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Sodium sulfide",
+   "slug": "sodium-sulfide",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Solamargine",
+   "slug": "solamargine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Solanine",
+   "slug": "solanine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Solasodine",
+   "slug": "solasodine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Somniferine",
+   "slug": "somniferine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Sorbifolin",
+   "slug": "sorbifolin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Spermidine",
+   "slug": "spermidine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Stachydrine",
+   "slug": "stachydrine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Starch",
+   "slug": "starch",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Steel blades",
+   "slug": "steel-blades",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Sterile disposable lancets",
+   "slug": "sterile-disposable-lancets",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Stigmastanol",
+   "slug": "stigmastanol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Stilbenes",
+   "slug": "stilbenes",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Strontium",
+   "slug": "strontium",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Sudarshana Churna",
+   "slug": "sudarshana-churna",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Sulforaphane",
+   "slug": "sulforaphane",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Sulfur",
+   "slug": "sulfur",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Taraxerone",
+   "slug": "taraxerone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Tartaric acid",
+   "slug": "tartaric-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Taxane diterpenoids",
+   "slug": "taxane-diterpenoids",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Taxifolin",
+   "slug": "taxifolin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Taxilamine",
+   "slug": "taxilamine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Taxine A",
+   "slug": "taxine-a",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Taxine B",
+   "slug": "taxine-b",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Tenacigenin A-D",
+   "slug": "tenacigenin-a-d",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Tenacigenoside A-L",
+   "slug": "tenacigenoside-a-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Terchebulin",
+   "slug": "terchebulin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Teresantalol",
+   "slug": "teresantalol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Terflavin A-B",
+   "slug": "terflavin-a-b",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Termilignan",
+   "slug": "termilignan",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Terminolic acid",
+   "slug": "terminolic-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Tetrahydrocurcumin",
+   "slug": "tetrahydrocurcumin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Thannilignan",
+   "slug": "thannilignan",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Thiamine",
+   "slug": "thiamine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Tinosporaside",
+   "slug": "tinosporaside",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Tinosporide",
+   "slug": "tinosporide",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Tinosporin",
+   "slug": "tinosporin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Tinosporine",
+   "slug": "tinosporine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Tirucallic acids",
+   "slug": "tirucallic-acids",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Traditional Ghani",
+   "slug": "traditional-ghani",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Triterpenoids",
+   "slug": "triterpenoids",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Tropine",
+   "slug": "tropine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Tryptanthrin",
+   "slug": "tryptanthrin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Tubulosine",
+   "slug": "tubulosine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Turmeric",
+   "slug": "turmeric",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Turmerone",
+   "slug": "turmerone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Turpethinic acids A-E",
+   "slug": "turpethinic-acids-a-e",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Tyrosol",
+   "slug": "tyrosol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Umbelliferone",
+   "slug": "umbelliferone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Urea",
+   "slug": "urea",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Uric acid",
+   "slug": "uric-acid",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Urokinase",
+   "slug": "urokinase",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Ursosaponin",
+   "slug": "ursosaponin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Vacuum pump cupping sets",
+   "slug": "vacuum-pump-cupping-sets",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Vanillin",
+   "slug": "vanillin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Vasarishta",
+   "slug": "vasarishta",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Verbascoside",
+   "slug": "verbascoside",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Vicenin",
+   "slug": "vicenin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Vilangin",
+   "slug": "vilangin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Viridiflorol",
+   "slug": "viridiflorol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Vitamin C and zinc",
+   "slug": "vitamin-c-and-zinc",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Vitamin E",
+   "slug": "vitamin-e",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Vitexin",
+   "slug": "vitexin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Volatile essential oils",
+   "slug": "volatile-essential-oils",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Volatile oils and",
+   "slug": "volatile-oils-and",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Vrihimukha Shastra",
+   "slug": "vrihimukha-shastra",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Warm milk",
+   "slug": "warm-milk",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Waxed cotton thread",
+   "slug": "waxed-cotton-thread",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Wikstromol",
+   "slug": "wikstromol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "With [Triphala] for detoxification",
+   "slug": "with-triphala-for-detoxification",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Withaferin A",
+   "slug": "withaferin-a",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Withanine",
+   "slug": "withanine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Withanolide A",
+   "slug": "withanolide-a",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Withanolide D",
+   "slug": "withanolide-d",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Withanone",
+   "slug": "withanone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Withanoside IV",
+   "slug": "withanoside-iv",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Withanoside V",
+   "slug": "withanoside-v",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Xanthochymol",
+   "slug": "xanthochymol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Yamogenin",
+   "slug": "yamogenin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Yohimbine",
+   "slug": "yohimbine",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Z-Guggulsterone",
+   "slug": "z-guggulsterone",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Zeatin-O-glucoside",
+   "slug": "zeatin-o-glucoside",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Zeylanone",
+   "slug": "zeylanone",
+   "count": 1,
+   "unresolved": true
+  }
+ ]
+}

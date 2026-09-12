@@ -51,8 +51,14 @@ for (const kind of fs.readdirSync('content')) {
     // inconsistently transcribed in the source material.
     const query = b.replace(/\s*\(.*?\)\s*/g, ' ').split(/\s+/).slice(0, 2).join(' ');
     if (!/^[A-Z][a-z]+ [a-z-]+$/.test(query)) continue;
-    if (!byName.has(query)) byName.set(query, { asPublished: b, pages: [] });
-    byName.get(query).pages.push({ kind, slug: data.slug || f.replace(/\.md$/, ''), title: data.title || '' });
+    // The raw botanical is recorded per PAGE, not per query key. Several pages share a
+    // key while spelling the authority differently ("Cocos nucifera" and "Cocos nucifera
+    // L."), and storing one string for the group makes every other page in it look like
+    // it was rewritten.
+    if (!byName.has(query)) byName.set(query, { pages: [] });
+    byName.get(query).pages.push({
+      kind, slug: data.slug || f.replace(/\.md$/, ''), title: data.title || '', asPublished: b,
+    });
   }
 }
 
@@ -133,12 +139,61 @@ const { cache, stats } = await resolveAll('gbif', [...byName.keys()], lookup, {
 
 saveCache('gbif', cache);
 
+// ---------------------------------------------------------------- external ids
+// Wikidata and NCBI are kept in their own caches rather than merged into the GBIF one,
+// so a change of policy at one provider never invalidates another's answers.
+
+async function lookupWikidata(name) {
+  const r = await getJson('https://www.wikidata.org/w/api.php?action=wbsearchentities'
+    + `&search=${encodeURIComponent(name)}&language=en&type=item&format=json&limit=5`);
+  if (!r.ok) return { status: 'error', error: r.error ?? `http ${r.status}` };
+  const hits = r.data?.search ?? [];
+  // Wikidata search is fuzzy and will happily return a genus, a paper or a person for a
+  // binomial. Requiring the label to equal the name we asked about keeps that out; a
+  // near-miss is worth less than nothing on a page that claims to be checkable.
+  const exact = hits.find((h) => (h.label ?? '').toLowerCase() === name.toLowerCase());
+  if (!exact) return { status: 'not-found' };
+  return { status: 'ok', qid: exact.id, label: exact.label, description: exact.description ?? '' };
+}
+
+async function lookupNcbi(name) {
+  const r = await getJson('https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi'
+    + `?db=taxonomy&term=${encodeURIComponent(name)}&retmode=json`
+    + '&tool=AgeAyurvedaNighantu&email=contact@ageayurveda.com');
+  if (!r.ok) return { status: 'error', error: r.error ?? `http ${r.status}` };
+  const ids = r.data?.esearchresult?.idlist ?? [];
+  // More than one hit means the name is ambiguous in NCBI's taxonomy; recording a guess
+  // would be worse than recording nothing.
+  if (ids.length !== 1) return { status: 'not-found', hits: ids.length };
+  return { status: 'ok', taxid: ids[0] };
+}
+
+const resolvable = Object.entries(cache.entries)
+  .filter(([, e]) => e.status === 'ok').map(([k]) => k);
+
+const wd = await resolveAll('wikidata', resolvable, lookupWikidata,
+  { rateMs: 200, retryMisses: RETRY, label: 'Wikidata', limit: LIMIT });
+saveCache('wikidata', wd.cache);
+
+const nc = await resolveAll('ncbi-taxonomy', resolvable, lookupNcbi,
+  { rateMs: RATE.ncbi, retryMisses: RETRY, label: 'NCBI Taxonomy', limit: LIMIT });
+saveCache('ncbi-taxonomy', nc.cache);
+
+const wdEntries = wd.cache.entries;
+const ncEntries = nc.cache.entries;
+
 // ------------------------------------------------------------------ report
 const rows = [];
 for (const [query, info] of byName) {
   const e = cache.entries[query];
   if (!e) continue;
-  rows.push({ query, ...info, ...e });
+  const w = wdEntries[query];
+  const n = ncEntries[query];
+  rows.push({
+    query, ...info, ...e,
+    wikidata: w?.status === 'ok' ? w.qid : '',
+    ncbiTaxid: n?.status === 'ok' ? n.taxid : '',
+  });
 }
 
 const ok = rows.filter((r) => r.status === 'ok');
@@ -154,6 +209,8 @@ console.log(`  fuzzy match   ${fuzzy.length}   <- likely misspelled, review`);
 console.log(`  higher rank   ${higher.length}   <- matched a genus or family, not a species`);
 console.log(`  a synonym     ${synonyms.length}   <- GBIF gives a different accepted name`);
 console.log(`not found       ${notFound.length}   <- GBIF knows no such name`);
+console.log(`with a Wikidata QID  ${rows.filter((r) => r.wikidata).length}`);
+console.log(`with an NCBI taxid   ${rows.filter((r) => r.ncbiTaxid).length}`);
 
 if (fuzzy.length) {
   console.log('\nfuzzy matches (what we publish -> what GBIF thinks it is):');
@@ -172,10 +229,16 @@ if (notFound.length) {
 // matchType so a page can decline to show a taxonomy it does not trust.
 const payload = {
   updatedAt: cache.updatedAt,
-  source: 'GBIF Backbone Taxonomy, https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c',
+  sources: [
+    'GBIF Backbone Taxonomy, https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c',
+    'Wikidata, https://www.wikidata.org/',
+    'NCBI Taxonomy, https://www.ncbi.nlm.nih.gov/taxonomy',
+  ],
   summary: {
     botanicals: byName.size, resolved: ok.length, exact: exact.length, fuzzy: fuzzy.length,
     higherRank: higher.length, synonyms: synonyms.length, notFound: notFound.length,
+    withWikidata: rows.filter((r) => r.wikidata).length,
+    withNcbiTaxid: rows.filter((r) => r.ncbiTaxid).length,
   },
   taxa: rows.sort((a, b) => a.query.localeCompare(b.query)),
 };
