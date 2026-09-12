@@ -142,10 +142,17 @@ for (const p of kept) {
   // taila and "Shelf stability" on another, both of which shipped to the key-facts
   // table and the JSON-LD.
   if (p.kind === 'herb') {
-    const inferred = inferBotanical(p.render.rendered, p.facts);
+    // Normalise the inferred value BEFORE deciding whether a verified identification is
+    // needed. The original order tested the raw inference for truthiness, so a junk
+    // inference (a journal title picked out of a citation) occupied the field, the
+    // verified lookup was skipped as unnecessary, and the normalisation below then
+    // rejected the junk and left the field blank. The page ended up with neither, and
+    // an identification that had survived a forty-agent verification pass was silently
+    // discarded. Nikochaka lost Alangium salviifolium exactly this way.
+    const inferred = normaliseBinomial(inferBotanical(p.render.rendered, p.facts) ?? '');
     if (inferred && !p.facts['Botanical Name']) p.facts['Botanical Name'] = inferred;
     // Last resort: an identification that survived independent verification.
-    if (!p.facts['Botanical Name']) {
+    if (!normaliseBinomial(p.facts['Botanical Name'] ?? '')) {
       const slug = slugify(DUPLICATE_CANONICAL.get(p.identity) ?? p.identity);
       const verified = binomialFor(slug);
       if (verified) { p.facts['Botanical Name'] = verified; verifiedBinomials += 1; }

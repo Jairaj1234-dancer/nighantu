@@ -58,7 +58,7 @@ export function saveCache(name, cache) {
  * `retryMisses` when a provider has genuinely gained coverage.
  */
 export async function resolveAll(name, keys, lookup, {
-  rateMs = 250, retryMisses = false, label = name, limit = Infinity,
+  rateMs = 250, retryMisses = false, label = name, limit = Infinity, saveEvery = 25,
 } = {}) {
   const cache = loadCache(name);
   cache.entries ??= {};
@@ -94,6 +94,16 @@ export async function resolveAll(name, keys, lookup, {
     }
     // A transient failure should not poison the cache permanently.
     if (entry.status === 'error') delete cache.entries[key];
+
+    // Checkpoint as we go. Saving only at the end means a run killed partway loses
+    // everything it paid for, and a throttled provider can stretch a run long enough
+    // for that to be likely: the PubChem pass takes tens of minutes and this session
+    // has had work interrupted repeatedly. With this, an interruption costs at most
+    // the last few lookups.
+    if (saveEvery && done % saveEvery === 0) {
+      cache.updatedAt = new Date().toISOString().slice(0, 10);
+      saveCache(name, cache);
+    }
   }
   if (todo.length) process.stdout.write('\n');
   else console.log(`  ${label}: nothing new to resolve (${Object.keys(cache.entries).length} cached)`);
