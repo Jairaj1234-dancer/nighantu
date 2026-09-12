@@ -65,6 +65,10 @@ jobs:
         run: node scripts/test/safety.test.mjs
       - name: Identifier grammar tests
         run: node scripts/test/identifiers.test.mjs
+      # Deterministic anti-hallucination checks for generated prose. Models auditing
+      # models has already failed on this project once; these do not have a bad day.
+      - name: Grounding checks
+        run: node scripts/test/grounding.test.mjs
 
       # The audit gates the build: a compliance violation fails the deploy.
       - name: Compliance audit (pre-build)
