@@ -202,7 +202,7 @@
       "https://jairaj1234-dancer.github.io/nighantu/": "948a0b9036ab44d4",
       "https://jairaj1234-dancer.github.io/nighantu/about/": "601055fc47ea75ab",
       "https://jairaj1234-dancer.github.io/nighantu/cite/": "5c5e1731eb2957d4",
-      "https://jairaj1234-dancer.github.io/nighantu/compounds/": "6f54744706b95c8f",
+      "https://jairaj1234-dancer.github.io/nighantu/compounds/": "0dc39cee93d41e05",
       "https://jairaj1234-dancer.github.io/nighantu/corrections/": "0a06b8ec58ca9570",
       "https://jairaj1234-dancer.github.io/nighantu/device/": "0352fdb7230f7658",
       "https://jairaj1234-dancer.github.io/nighantu/device/agnikarma-thermal-cauterization-instruments/": "b86ef6ab948f6ce8",
@@ -1009,8 +1009,8 @@
       "https://jairaj1234-dancer.github.io/nighantu/verification/safety-pass4/": "e2d0a2f8d0622612",
       "https://jairaj1234-dancer.github.io/nighantu/verification/safety-repair-02/": "31af4ebd12fe14e8"
     },
-    "lastSubmittedAt": "2026-09-12T06:59:12.994Z",
-    "lastSubmittedCount": 9
+    "lastSubmittedAt": "2026-09-12T07:07:33.985Z",
+    "lastSubmittedCount": 1
   },
   "products": {
     "broken": 0,
@@ -1117,6 +1117,6 @@
     "seen": 35,
     "surfaced": 1
   },
-  "updatedAt": "2026-09-12T06:59:12.994Z",
+  "updatedAt": "2026-09-12T07:07:33.986Z",
   "version": 1
 }
