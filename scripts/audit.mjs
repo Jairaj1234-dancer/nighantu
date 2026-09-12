@@ -9,6 +9,7 @@ import { FORBIDDEN_STRINGS, DENY_PATH_FRAGMENTS } from './config.mjs';
 import { walk, parseFrontmatter } from './lib.mjs';
 import { validateRecord, HEAVY_METAL_REQUIRED } from './lib/safety.mjs';
 import { checkSources } from './lib/sources.mjs';
+import { validateIdentifiers } from './lib/identifiers.mjs';
 
 const failures = [];
 const fail = (check, detail) => failures.push({ check, detail });
@@ -221,6 +222,73 @@ if (fs.existsSync(DIST)) {
   }
   console.log(`safety: ${slugs.length} records, ${heavyCovered} with heavy-metal data `
     + `(baseline ${baseline.covered ?? 0}/${baseline.heavyMetalCovered ?? 0})`);
+}
+
+// 13-15. Enrichment layer.
+{
+  const readJson = (f) => {
+    if (!fs.existsSync(f)) return null;
+    try { return JSON.parse(fs.readFileSync(f, 'utf8')); }
+    catch (e) { fail('enrich-unreadable', `${f}: ${e.message}`); return null; }
+  };
+
+  // 13. Every published identifier must match its own grammar. A malformed one is worse
+  //     than a gap: it renders as a link, looks authoritative and resolves to nothing.
+  const tax = readJson(path.join('src', 'data', 'taxonomy.json'));
+  if (tax) {
+    const r = validateIdentifiers(tax.taxa ?? [],
+      { gbifKey: 'gbifKey', acceptedKey: 'gbifKey', wikidata: 'wikidata', ncbiTaxid: 'ncbiTaxid' },
+      { label: 'taxonomy' });
+    r.errors.forEach((e) => fail('bad-identifier', e));
+  }
+  const chem = readJson(path.join('src', 'data', 'chemistry.json'));
+  if (chem) {
+    const r = validateIdentifiers(chem.compounds ?? [],
+      { cid: 'cid', inchikey: 'inchikey', formula: 'formula' }, { label: 'chemistry' });
+    r.errors.forEach((e) => fail('bad-identifier', e));
+  }
+
+  // 14. Enrichment adds fields; it never edits what the verified passes produced. If a
+  //     taxonomy run has quietly rewritten a botanical to GBIF's preferred spelling, the
+  //     published name and the taxonomy record will have diverged from the decision that
+  //     they should be shown side by side.
+  if (tax) {
+    const published = new Map();
+    for (const f of files) {
+      const b = String(f.data.botanical ?? '').trim();
+      if (b) published.set(f.data.slug || path.basename(f.rel, '.md'), b);
+    }
+    for (const t of tax.taxa ?? []) {
+      for (const pg of t.pages ?? []) {
+        const cur = published.get(pg.slug);
+        if (cur && pg.asPublished && cur !== pg.asPublished) {
+          fail('botanical-overwritten',
+            `${pg.slug}: taxonomy recorded "${pg.asPublished}" but the page now says "${cur}"`);
+        }
+      }
+    }
+  }
+
+  // 15. Coverage ratchet, same shape as the safety one. A throttled or half-finished
+  //     enrichment run must not be able to quietly delete resolutions already earned.
+  const BASE = path.join('data', 'enrichment-baseline.json');
+  const baseline = readJson(BASE) ?? {};
+  const now = {
+    taxaResolved: (tax?.taxa ?? []).filter((t) => t.status === 'ok').length,
+    withWikidata: (tax?.taxa ?? []).filter((t) => t.wikidata).length,
+    withNcbiTaxid: (tax?.taxa ?? []).filter((t) => t.ncbiTaxid).length,
+    compoundsResolved: (chem?.compounds ?? []).filter((c) => c.cid).length,
+  };
+  for (const [k, v] of Object.entries(now)) {
+    const was = baseline[k] ?? 0;
+    if (v < was) fail('enrich-regression', `${k} fell from ${was} to ${v}`);
+  }
+  if (tax || chem) {
+    console.log(`enrichment: ${now.taxaResolved} taxa, ${now.withWikidata} wikidata, `
+      + `${now.withNcbiTaxid} ncbi, ${now.compoundsResolved} compounds `
+      + `(baseline ${baseline.taxaResolved ?? 0}/${baseline.withWikidata ?? 0}/`
+      + `${baseline.withNcbiTaxid ?? 0}/${baseline.compoundsResolved ?? 0})`);
+  }
 }
 
 // ------------------------------------------------------------------ report

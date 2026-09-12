@@ -109,3 +109,41 @@ export async function getJson(url, opts = {}) {
   try { return { ok: true, data: JSON.parse(res.text) }; }
   catch { return { ok: false, status: res.status, error: 'unparseable json' }; }
 }
+
+/**
+ * getJson with exponential backoff for a throttling response.
+ *
+ * PubChem needs this and the reason matters. Observed directly: it answered normally,
+ * then returned PUGREST.ServerBusy (HTTP 503) to EVERY request including ones that had
+ * just succeeded, then recovered after a 45-second pause. That is a rolling-window
+ * limit on the caller, not a per-request rate, so slowing down mid-run does not help;
+ * only waiting does.
+ *
+ * The distinction this preserves is the important part. A 503 means "ask again later"
+ * and a 404 means "no such thing". Caching the first as the second would fill the
+ * corpus with false negatives that never correct themselves, because a cached miss is
+ * never retried.
+ */
+export async function getJsonWithBackoff(url, { tries = 5, baseMs = 2000, ...opts } = {}) {
+  let wait = baseMs;
+  for (let attempt = 1; attempt <= tries; attempt += 1) {
+    const res = await get(url, { retries: 0, timeoutMs: 25000, ...opts });
+
+    if (res.ok) {
+      try { return { ok: true, data: JSON.parse(res.text) }; }
+      catch { return { ok: false, status: res.status, error: 'unparseable json' }; }
+    }
+
+    // A definite "not here" is an answer, and answers are not retried.
+    if (res.status === 404) return { ok: false, status: 404, notFound: true };
+
+    const throttled = res.status === 503 || res.status === 429
+      || /ServerBusy|Timeout|too many requests/i.test(res.text ?? '');
+    if (!throttled) return { ok: false, status: res.status, error: res.error ?? `http ${res.status}` };
+
+    if (attempt === tries) return { ok: false, status: res.status, throttled: true, error: 'still throttled after backoff' };
+    await sleep(wait);
+    wait *= 2;
+  }
+  return { ok: false, error: 'unreachable' };
+}
