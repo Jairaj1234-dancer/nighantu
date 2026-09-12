@@ -90,13 +90,6 @@ Powder: 0.5-2g/day; As part of [Trikatu](/nighantu/herb/trikatu/): 1-3g/day
 
 **Part(s) Analyzed:** Fruit
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Tablet, Capsule, Taila (oil), [Trikatu](/nighantu/herb/trikatu/) (combination with [Pippali](/nighantu/herb/pippali/) and Shunthi), Essential oil, Standardized piperine extract

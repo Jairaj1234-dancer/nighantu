@@ -27,13 +27,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Water_Hyssop/meta-analysis.md
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Svarasa (fresh juice), Capsule, Tablet, Syrup, [Ghrita](/nighantu/herb/ghrita/) ([Brahmi](/nighantu/herb/brahmi/) Ghrita), Tincture, Standardized extract capsule

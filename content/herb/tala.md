@@ -36,13 +36,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Tala/meta-analysis.md"
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Tala-Phala-Rasa (palm fruit juice), Jaggery (Tala-[Guda](/nighantu/glossary/concepts-a-m/#guda)), Toddy (fermented sap — Tadi), Capsule, Oil (kernel oil)

@@ -27,13 +27,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nirgundi_Herb/meta-analysis.m
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (whole herb powder), Kwatha (decoction), Capsule, Tablet, Taila (medicated oil), [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Swarasa, External poultice

@@ -36,13 +36,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Atibala/meta-analysis.md"
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (root/whole plant powder), Kashayam (decoction), Capsule, Tablet, Taila (medicated oil — Atibala Taila), Swarasa (fresh juice), [Ghrita](/nighantu/herb/ghrita/) (medicated ghee)

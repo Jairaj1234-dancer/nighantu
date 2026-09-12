@@ -36,13 +36,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Kutaj/meta-analysis.md"
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (bark powder), Kashayam (decoction), Kvatha Ghana (solid extract), Capsule, Tablet, [Kutajarishta](/nighantu/formulation/kutajarishta/) (fermented preparation), Kutaja Parpati

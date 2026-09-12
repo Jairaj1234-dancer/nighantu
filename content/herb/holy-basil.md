@@ -27,13 +27,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Holy_Basil/meta-analysis.md"
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Capsule, Tablet, Swarasa (fresh juice), [Arka](/nighantu/herb/arka/) (distillate), Essential oil, Tea/infusion, Tincture, Soft gel

@@ -89,13 +89,6 @@ Tuber powder: 3-6g/day; Decoction: 50-100ml/day
 
 **Part(s) Analyzed:** Rhizome/Tuber
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (rhizome powder), Kwatha (decoction), Capsules, Tablets, Essential oil, Arishta (fermented), Lepa (topical paste), Dhupana (fumigation)

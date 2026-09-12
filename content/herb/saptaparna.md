@@ -36,13 +36,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Fever-Infection/Saptaparna/meta-analysis.md
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Kwatha (decoction), Churna (powder), Ghana vati (solid extract tablet), Asava/Arishta, Capsule, Tincture

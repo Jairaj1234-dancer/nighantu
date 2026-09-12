@@ -94,13 +94,6 @@ Root powder: 3-6g/day; Oil (Bala Taila): external use
 
 **Part(s) Analyzed:** Root, Seed, Whole plant
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Taila (oil), Kashayam (decoction), Capsule, Tablet, [Ghrita](/nighantu/herb/ghrita/) (ghee preparation), Swarasa (fresh juice)

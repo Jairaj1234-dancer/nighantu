@@ -36,13 +36,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chitraka-Moola/meta-analysis.
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (root powder), Tablet, Capsule, Kashayam (decoction), As component of [Chitrakaharitaki](/nighantu/herb/chitrakaharitaki/) and Chitrakadi formulations

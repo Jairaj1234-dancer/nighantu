@@ -65,13 +65,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lasuna/meta-analysis.md"
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Capsules (enteric-coated), Softgel capsules (oil-based), Tablets, Svarasa (fresh juice), Ksheerapaka (milk decoction), Aged garlic extract capsules, Paste

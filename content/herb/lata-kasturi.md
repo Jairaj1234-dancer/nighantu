@@ -36,13 +36,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Lata-Kasturi/meta-analysis.md"
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Capsules, Essential oil, Taila (medicated oil), Lepa (topical paste), Infusion

@@ -63,13 +63,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gambhari/meta-analysis.md"
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (bark/fruit powder), Kashayam (decoction), Kwath Ghana (solid extract), Tablet, Capsule, Taila (medicated oil), Component of [Dashamoola](/nighantu/herb/dashamoola/)

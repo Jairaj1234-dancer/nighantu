@@ -72,13 +72,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Pudina/meta-analysi
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Swarasa (fresh juice), Essential oil (oral capsule), Churna, Capsule, Tablet, Tea/infusion, Enteric-coated soft gel (peppermint oil), Lozenges, Cream/gel, [Arka](/nighantu/herb/arka/) (distillate)

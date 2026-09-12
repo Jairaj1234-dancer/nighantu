@@ -36,13 +36,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Mandukparni/meta-analy
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Svarasa (fresh juice), Churna (powder), Capsules, Tablets, Syrup, [Ghrita](/nighantu/herb/ghrita/) (medicated ghee - [Brahmi](/nighantu/herb/brahmi/) Ghrita), Medhya [Rasayana](/nighantu/reference/rasayana/) formulations, Topical cream

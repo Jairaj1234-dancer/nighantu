@@ -68,13 +68,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rasona-Garlic/meta-analysis.m
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Fresh clove, Churna (powder), Capsule (oil-filled), Tablet, Enteric-coated tablet, Aged garlic extract (AGE) capsule, Soft gel, Rasona Ksheerapaka (milk decoction), Rasona Pinda, Syrup

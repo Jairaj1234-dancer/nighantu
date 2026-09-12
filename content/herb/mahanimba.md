@@ -36,13 +36,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mahanimba/meta-analysis.md"
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kwatha (decoction), Capsules, Tablets, Taila (medicated oil), Lepa (topical paste), Svarasa (fresh juice)

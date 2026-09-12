@@ -199,13 +199,6 @@ Fresh ginger: 5-10g/day; Dry powder (Shunthi): 1-3g/day
 
 **Part(s) Analyzed:** Rhizome
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Fresh rhizome (Ardraka), Dried powder - Sunthi (Churna), Tablet, Capsule, Essential oil, Oleoresin, Tincture, Swarasa (fresh juice), [Arka](/nighantu/herb/arka/) (distillate), Candy/preserve

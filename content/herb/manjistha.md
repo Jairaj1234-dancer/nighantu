@@ -65,13 +65,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Manjistha/meta-analysis.md"
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kwatha (decoction), Capsules, Tablets, Topical cream/serum, Arishta (fermented), Face mask powder

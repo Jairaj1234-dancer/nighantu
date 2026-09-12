@@ -36,13 +36,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Arjuna-Twak/meta-analysis
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (bark powder), Kashayam (decoction), Kshirapaka (milk decoction), Capsule, Tablet, Ghana Vati (extract tablet)

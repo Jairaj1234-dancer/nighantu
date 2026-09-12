@@ -71,13 +71,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Madhuka/meta-analysis.md
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kwatha (decoction), Taila (Mahua oil), Capsules, Tablets, Avaleha (confection), Asava/Arishta, [Ghrita](/nighantu/herb/ghrita/) (medicated ghee)

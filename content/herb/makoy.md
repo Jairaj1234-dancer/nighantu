@@ -36,13 +36,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Makoy/meta-analysis.md"
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Svarasa (fresh juice), Churna (whole plant powder), Kwatha (decoction), Capsules, Tablets, Syrup, Topical poultice
