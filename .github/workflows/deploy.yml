@@ -52,6 +52,13 @@ jobs:
       # requests in CI and cannot fail on a provider outage.
       - name: Generate the taxonomy dataset
         run: node scripts/enrich-taxonomy.mjs
+      # Order matters: the constituent graph is built, enriched, then rebuilt, because
+      # the second pass merges nodes that PubChem says are the same structure. Both
+      # enrichment steps read the committed cache and make no network requests here.
+      - name: Resolve constituent chemistry
+        run: node scripts/enrich-compounds.mjs
+      - name: Rebuild the constituent graph with merged structures
+        run: node scripts/compounds.mjs
       # The safety schema is the gate on the highest-consequence content on the site,
       # so its negative tests run in CI rather than only on a developer's machine.
       - name: Safety schema tests

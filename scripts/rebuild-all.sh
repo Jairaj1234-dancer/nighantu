@@ -20,6 +20,9 @@ node scripts/dravyaguna.mjs
 
 echo "==> 5/8 constituent graph + verification ledger"
 node scripts/compounds.mjs
+node scripts/enrich-taxonomy.mjs
+node scripts/enrich-compounds.mjs
+node scripts/compounds.mjs   # second pass merges duplicate structures
 
 echo "==> 5b/8 verification ledger (computed from the run artifacts, never hand-edited)"
 node scripts/verification.mjs
