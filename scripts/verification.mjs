@@ -243,6 +243,39 @@ if (run04) {
   });
 }
 
+const dup = read(path.join('data', 'runs', 'duplicate-pages.json'));
+if (dup) {
+  const s = dup.summary ?? {};
+  runs.push({
+    id: 'duplicate-pages',
+    title: 'Duplicate entries',
+    question: 'Which pages are the same drug under a different name?',
+    note: `${dup.scope} ${s.duplicates} groups were one drug under several names; `
+      + `${s.distinct} share a species but are genuinely different drugs.`,
+    method: [
+      'Taxonomy resolution made this findable: once every botanical name carried a GBIF key, pages sharing a species could be listed mechanically. 48 species were carried by more than one page.',
+      'Pages distinguished by a plant-part or preparation suffix were removed first, deterministically. Narikela is the coconut and narikela-jala is its water, and those are different drugs.',
+      'The remaining 33 groups were read page by page, then reviewed by a second reader instructed to be biased AGAINST consolidation, because merging two pages that should be separate loses information a reader cannot recover.',
+      'The reviewer overruled nothing and left nothing unreviewed, and it protected the cases that matter: nutmeg and mace both come from Myristica fragrans, fenugreek seed and leaf carry different markers and doses, and Guduchi satva is a derived preparation rather than a synonym of the crude drug.',
+    ],
+    stats: {
+      groupsExamined: s.groups,
+      oneDrugUnderSeveralNames: s.duplicates,
+      genuinelyDifferentDrugs: s.distinct,
+      mixedGroups: s.mixed,
+      overruledByReviewer: s.overruled,
+      pagesGivenACanonical: s.pagesToCanonicalise,
+    },
+    caveat: 'No page was deleted or merged. Each alias keeps its URL and its content, because '
+      + 'the Sanskrit, Hindi and English names are all in real use and a reader arriving on any '
+      + 'of them should land somewhere useful. What changed is that the alias now declares the '
+      + 'primary as its canonical, so an index that clusters near-duplicates consolidates them '
+      + 'on the page we chose rather than picking one on its own.',
+    examples: (dup.decisions ?? []).filter((d) => d.verdict === 'distinct').slice(0, 5)
+      .map((d) => ({ slug: d.taxon, basis: d.reason.slice(0, 400) })),
+  });
+}
+
 const safety = (run02 || run03 || run04) ? null : read(path.join('data', 'safety-verdicts.json'));
 if (safety) {
   const led = safety.ledger ?? [];

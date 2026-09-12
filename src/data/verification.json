@@ -278,6 +278,28 @@
      "basis": "Rule 11 — overclaiming the record's own search. heavyMetals asserts: 'no heavy-metal limit specification for this drug from a Ministry of Ayush, Indian Pharmacopoeia Commission, WHO, EMA or FDA document could be retrieved'. That names five bodies as checked-and-negative. No FDA search is reported anywhere in the record (the regulatory list in insufficientReason is EMA, MSK, MedlinePlus, NCCIH, ODS, iris.who.int, pharmacopoeia.gov.in, ayush hosts — FDA is absent), and the record's own insufficien | Rule 11 — a reported search that does not reproduce. The record states as verified fact: 'iris.wh"
     }
    ]
+  },
+  {
+   "id": "duplicate-pages",
+   "title": "Duplicate entries",
+   "question": "Which pages are the same drug under a different name?",
+   "note": "The 33 groups of pages that resolve to the same species without being distinguished by plant part, classified as one drug under several names or as genuinely different drugs. 24 groups were one drug under several names; 5 share a species but are genuinely different drugs.",
+   "method": [
+    "Taxonomy resolution made this findable: once every botanical name carried a GBIF key, pages sharing a species could be listed mechanically. 48 species were carried by more than one page.",
+    "Pages distinguished by a plant-part or preparation suffix were removed first, deterministically. Narikela is the coconut and narikela-jala is its water, and those are different drugs.",
+    "The remaining 33 groups were read page by page, then reviewed by a second reader instructed to be biased AGAINST consolidation, because merging two pages that should be separate loses information a reader cannot recover.",
+    "The reviewer overruled nothing and left nothing unreviewed, and it protected the cases that matter: nutmeg and mace both come from Myristica fragrans, fenugreek seed and leaf carry different markers and doses, and Guduchi satva is a derived preparation rather than a synonym of the crude drug."
+   ],
+   "stats": {
+    "groupsExamined": 33,
+    "oneDrugUnderSeveralNames": 24,
+    "genuinelyDifferentDrugs": 5,
+    "mixedGroups": 4,
+    "overruledByReviewer": 0,
+    "pagesGivenACanonical": 24
+   },
+   "caveat": "No page was deleted or merged. Each alias keeps its URL and its content, because the Sanskrit, Hindi and English names are all in real use and a reader arriving on any of them should land somewhere useful. What changed is that the alias now declares the primary as its canonical, so an index that clusters near-duplicates consolidates them on the page we chose rather than picking one on its own.",
+   "examples": []
   }
  ]
 }

@@ -5,6 +5,7 @@ import ProductModule from '../components/ProductModule.astro';
 import References from '../components/References.astro';
 import Safety from '../components/Safety.astro';
 import CiteThis from '../components/CiteThis.astro';
+import duplicates from '../data/duplicates.json';
 import Crumbs from '../components/Crumbs.astro';
 import { SITE_NAME, PUBLISHER, abs, rel } from '../lib/site';
 import { pageDates } from '../lib/dates';
@@ -12,20 +13,39 @@ import { pageDates } from '../lib/dates';
 interface Props { entry: any; sectionLabel: string; sectionHref: string }
 const { entry, sectionLabel, sectionHref } = Astro.props;
 const d = entry.data;
-const canonical = `${sectionHref}${d.slug}/`;
+/**
+ * Where this page's canonical points.
+ *
+ * 29 pages in this corpus are the same drug as another page under a different name:
+ * neem and nimba, turmeric and haridra, manjishtha and manjistha. Each keeps its URL
+ * and its content, because a reader arriving on either name should land somewhere
+ * useful and the classical, Hindi and English names are all in real use. What they
+ * stop doing is competing. A retrieval index that clusters near-duplicates picks one
+ * representative on its own; declaring the primary here means it picks the one we
+ * chose, and the signal consolidates instead of splitting.
+ *
+ * Which pages are aliases was decided by reading them, not by name similarity. Pages
+ * that share a species but are genuinely different drugs stay independent: nutmeg and
+ * mace both come from Myristica fragrans, fenugreek seed and leaf have different
+ * markers and doses, and Guduchi satva is a derived preparation rather than a synonym.
+ */
+const selfUrl = `${sectionHref}${d.slug}/`;
+const aliasOf = (duplicates as any).aliases?.[d.slug];
+const primaryUrl = aliasOf ? `${sectionHref}${aliasOf.primary}/` : '';
+const canonical = primaryUrl || selfUrl;
 const { published, modified } = pageDates(d.kind, d.slug);
 
 const jsonld = {
   '@context': 'https://schema.org',
   '@type': 'Article',
-  '@id': `${abs(canonical)}#article`,
+  '@id': `${abs(selfUrl)}#article`,
   headline: d.title,
   description: d.answer,
   inLanguage: 'en',
   isAccessibleForFree: true,
   datePublished: published,
   dateModified: modified,
-  mainEntityOfPage: abs(canonical),
+  mainEntityOfPage: abs(selfUrl),
   // DefinedTerm rather than a medical schema type: this is reference material
   // about a substance, not a claim about treating anything.
   about: {
@@ -46,7 +66,7 @@ const breadcrumbs = {
   itemListElement: [
     { '@type': 'ListItem', position: 1, name: 'Nighantu', item: abs('/') },
     { '@type': 'ListItem', position: 2, name: sectionLabel, item: abs(sectionHref) },
-    { '@type': 'ListItem', position: 3, name: d.title, item: abs(canonical) },
+    { '@type': 'ListItem', position: 3, name: d.title, item: abs(selfUrl) },
   ],
 };
 ---
@@ -71,6 +91,14 @@ const breadcrumbs = {
       whoStatus={d.whoStatus}
       aliases={d.aliases}
     />
+
+    {aliasOf && (
+      <p class="aliasnote">
+        This entry and <a href={rel(primaryUrl)}>{aliasOf.primary.replace(/-/g, ' ')}</a> describe
+        the same drug, <em>{aliasOf.taxon}</em>, under different names. Both pages are kept because
+        both names are in use; the other is treated as the primary record for citation.
+      </p>
+    )}
 
     <div class="prose"><slot /></div>
 

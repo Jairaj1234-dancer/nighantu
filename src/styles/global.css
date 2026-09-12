@@ -300,3 +300,10 @@ footer.site nav { display: flex; gap: 1rem; flex-wrap: wrap; margin-bottom: .75r
    binomial, the note is why a second name appears next to it. */
 .facts .taxnote { font-size: .84rem; color: var(--ink-soft); }
 .facts .taxids a { font-size: .88rem; white-space: nowrap; }
+
+/* Says plainly that two names are one drug. Placed above the body rather than in the
+   footer: a reader who has landed on the alias should learn it before reading, not after. */
+.aliasnote {
+  font-size: .9rem; color: var(--ink-soft); background: var(--accent-bg);
+  border-left: 3px solid var(--green); padding: .8rem 1rem; margin: 0 0 1.4rem;
+}

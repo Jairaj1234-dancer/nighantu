@@ -1,0 +1,152 @@
+{
+ "note": "Pages that are the same drug as another page under a different name. The alias keeps its URL and its content, and declares the primary as its canonical so a retrieval index consolidates them instead of picking one arbitrarily.",
+ "updatedAt": "2026-09-12",
+ "count": 29,
+ "aliases": {
+  "nikochaka": {
+   "primary": "ankola",
+   "taxon": "Alangium salviifolium",
+   "reason": "Nikochaka is a classical synonym of Ankola and its page is an empty placeholder: front matter carries botanical 'Alangium salviifolium' but family 'Unknown', and every content section says identification is uncertain ('Cannot be determined without positive botanical identification'), with a retracted mycotoxin paper as its only citation. Ankola carries the real monograph (alangine, ankorine, tubul"
+  },
+  "rasona-garlic": {
+   "primary": "lasuna",
+   "taxon": "Allium sativum",
+   "reason": "Both pages describe the same drug, the garlic bulb, under two Sanskrit synonyms with an English tack-on: same constituents (alliin, allicin, ajoene, DADS, DATS, SAC), same WHO Bulbus Allii Sativi status, same dosage logic (fresh cloves, enteric-coated powder, aged garlic extract, Ksheerapaka). Neither confines itself to a distinct preparation. Lasuna is the Ayurvedic Pharmacopoeia monograph name ("
+  },
+  "neem": {
+   "primary": "nimba",
+   "taxon": "Azadirachta indica",
+   "reason": "Same drug under English/Hindi and Sanskrit names, and the neem page itself declares it: its names table lists Hindi 'Neem, Nimba' and Sanskrit 'Nimba, Arishta' and links to /herb/nimba/, while the nimba page repeatedly links back to /herb/neem/ and cites neem-leaf-paste and neem-face-wash trials. Shared limonoid chemistry throughout (azadirachtin, nimbidin, nimbin, nimbolide, gedunin, salannin). T"
+  },
+  "water-hyssop": {
+   "primary": "brahmi",
+   "taxon": "Bacopa monnieri",
+   "reason": "Water Hyssop is simply the English common name of Bacopa monnieri, and the brahmi page already lists it under Common Names and links to it. Both pages describe the same whole-plant drug with the same bacoside chemistry (bacoside A3, bacopaside I/II/X, jujubogenin, brahmine, herpestine), the same Brahmi Ghrita lipid vehicle and the same 8-12 week nootropic latency. The water-hyssop page is a thin f"
+  },
+  "chakragaja": {
+   "primary": "chakramarda",
+   "taxon": "Cassia tora",
+   "reason": "The chakragaja page effectively concedes the merge: its own safety note says 'Botanical identity of Chakragaja is uncertain; most references associate it with Cassia tora (Chakramarda)' and it links to /herb/chakramarda/. Both pages carry the same seed-drug anthraquinone profile (chrysophanol, emodin, physcion, obtusin, chryso-obtusin, aurantio-obtusin, toralactone, rubrofusarin), the same Dadrugh"
+  },
+  "tamalpatra": {
+   "primary": "tejapatra",
+   "taxon": "Cinnamomum tamala",
+   "reason": "Both pages are the dried leaf of Cinnamomum tamala, Indian bay leaf, filed under Kitchen-Spices-Culinary with near-identical content: eugenol-dominant essential oil standardized by GC-FID, the same marker set (eugenol, cinnamaldehyde, linalool, beta-caryophyllene, cinnamyl acetate), the same steam-distillation and hydroethanolic extraction methods and the same 1-3 g powder / 30-60 mL decoction dos"
+  },
+  "bijapura": {
+   "primary": "matulunga",
+   "taxon": "Citrus medica",
+   "reason": "Both pages describe the identical drug: the citron fruit, peel and juice of Citrus medica L. (Rutaceae). Same dosage forms (Svarasa fresh juice, dried peel Churna, Avaleha, Panak, cold-pressed peel essential oil), same dose band (10-20 ml juice), same marker compounds (hesperidin, naringin, limonene, citral, citric acid, vitamin C), same Deepana-Pachana / Chardi-nashaka indications, and both cite "
+  },
+  "gokarna": {
+   "primary": "aparajita",
+   "taxon": "Clitoria ternatea",
+   "reason": "The Gokarna page states this itself in its own botanical field: \"Clitoria ternatea L. (same species as Aparajita; Gokarna is a regional Ayurvedic synonym)\", and its whoStatus says the API recognises it \"under name Aparajita/Gokarna\". Content is substantively the same drug, not a part split: both cover root powder plus flower preparations, both list ternatin anthocyanins, cyclotides/cliotides, tara"
+  },
+  "ajwain-herb": {
+   "primary": "parnayavani",
+   "taxon": "Coleus amboinicus",
+   "reason": "Same species, same plant part, same drug: both pages describe the leaf of Coleus amboinicus (Plectranthus amboinicus, Indian borage / ajwain ka patta), with fresh leaf juice, dried leaf powder, hot infusion and steam-inhalation essential oil as the forms, and thymol, carvacrol, rosmarinic acid and beta-caryophyllene as shared markers. Both point at the same cough/cold/respiratory use with Tulsi an"
+  },
+  "coriander": {
+   "primary": "dhanyaka",
+   "taxon": "Coriandrum sativum",
+   "reason": "coriander and dhanyaka are the same drug - the dried fruit/seed. Both give 3-6 g seed powder, both make Hima (Sheeta Kashayam) the classical form, both name linalool (60-80% of seed oil), geranyl acetate, camphor, rutin and quercetin as markers, and both list the Dhanyaka-Jeeraka-Mishreya digestive triad. Dhanyaka is the API/nighantu name and much the fuller page (640 vs 331 words, with constituen"
+  },
+  "cumin": {
+   "primary": "jeeraka",
+   "taxon": "Cuminum cyminum",
+   "reason": "cumin and jeeraka are the same drug - the seed. Identical forms (Churna, Kashayam, essential oil, Jeerakadyarishta 15-30 ml), identical dose (3-6 g powder), identical markers (cuminaldehyde, cuminol, gamma-terpinene, beta-pinene, p-cymene, apigenin, luteolin) and the same Deepaniya-Pachaniya framing. Jeeraka is the API name, is the fuller page (592 vs 328 words, with constituents, mechanisms, vali"
+  },
+  "turmeric": {
+   "primary": "haridra",
+   "taxon": "Curcuma longa",
+   "reason": "Same drug, the Curcuma longa rhizome: both pages centre on curcumin, demethoxycurcumin, bisdemethoxycurcumin and ar-turmerone, both give the same forms (Churna, Lepa, Kwatha, capsule, phytosome/nano) and the same bioavailability story (piperine 20x, phytosome 29x). No part, preparation or classical-drug split exists between them - the turmeric page's own Names table lists Haridra as its Sanskrit n"
+  },
+  "fennel": {
+   "primary": "mishreya",
+   "taxon": "Foeniculum vulgare",
+   "reason": "fennel and mishreya are the same drug, the ripe fruit/seed: both give seed powder, steam-distilled essential oil standardized to NLT 80% trans-anethole and NMT 5% estragole, and the arka/Saunf-Ark distillate; they differ only in English vs Sanskrit naming. mishreya is the primary because it is the Sanskrit/API monograph name and is also the fuller page (670 words vs 370) with family (Apiaceae) and"
+  },
+  "gudmar-herb": {
+   "primary": "gudmar",
+   "taxon": "Gymnema sylvestre",
+   "reason": "Both pages are the leaf drug, same part and same classical name. gudmar covers churna (leaf powder), kashayam, ghana vati and standardized extract; gudmar-herb covers dried leaf, leaf powder, decoction tea, whole-leaf capsule and tincture, and its only real claim to separateness is 'whole herb products are less concentrated than standardized extracts', a potency framing rather than a different dru"
+  },
+  "ananta-mool": {
+   "primary": "sariva",
+   "taxon": "Hemidesmus indicus",
+   "reason": "Same drug, the root: both pages give 3-6 g root powder and 50-100 ml decoction plus extract capsule, and both are built on the same 2-hydroxy-4-methoxybenzaldehyde root chemistry; ananta-mool is just the Hindi vernacular (Anantamul) of the same root. sariva is the primary because it is the Sanskrit/pharmacopoeial monograph name, and it is also the better-populated page (431 words vs 339) with fami"
+  },
+  "karela": {
+   "primary": "karvellaka",
+   "taxon": "Momordica charantia",
+   "reason": "bitter-gourd, karela and karvellaka are all the fruit drug under English, Hindi and Sanskrit names: all three give 30-60 ml fresh fruit juice, 3-6 g dried fruit powder and a 500 mg extract capsule, all are prepared by cold pressing/juicing the fresh fruit, and all standardize on charantin NLT 2% with total bitter principles as momordicin. karvellaka is the primary as the Sanskrit pharmacopoeial na"
+  },
+  "bitter-gourd": {
+   "primary": "karvellaka",
+   "taxon": "Momordica charantia",
+   "reason": "bitter-gourd, karela and karvellaka are all the fruit drug under English, Hindi and Sanskrit names: all three give 30-60 ml fresh fruit juice, 3-6 g dried fruit powder and a 500 mg extract capsule, all are prepared by cold pressing/juicing the fresh fruit, and all standardize on charantin NLT 2% with total bitter principles as momordicin. karvellaka is the primary as the Sanskrit pharmacopoeial na"
+  },
+  "kalonji": {
+   "primary": "kalajaji",
+   "taxon": "Nigella sativa",
+   "reason": "Both pages are the seed drug of Nigella sativa, with the same marker set (thymoquinone, thymohydroquinone, nigellone, carvacrol, alpha-hederin), the same dosage range (1-3 g seed powder, 2.5-5 ml oil), the same cold-press/CO2 extraction methods and the same lead citation (PMID 39769174). The kalonji page states outright in its bioavailability note: 'Kalonji is the Hindi/Urdu name, same as Kalajaji"
+  },
+  "holy-basil": {
+   "primary": "tulsi",
+   "taxon": "Ocimum tenuiflorum",
+   "reason": "Same leaf/whole-plant drug: both pages carry the identical marker set (eugenol, rosmarinic acid, ursolic acid, ocimumosides A and B), near-identical dosage (300-600 mg extract twice daily, 3-5 g leaf powder, tea infusion), the same extraction methods and the same synergy list (ashwagandha, brahmi, honey anupana). The tulsi page itself lists 'Holy Basil, Sacred Basil' as common names in its Names t"
+  },
+  "amlaparni": {
+   "primary": "changeri",
+   "taxon": "Oxalis corniculata",
+   "reason": "Both pages describe the same whole-plant drug of Oxalis corniculata, not different parts: same flavonoid markers (vitexin, isovitexin, vitexin-2-O-beta-D-glucopyranoside, beta-sitosterol), same oxalic-acid/kidney-stone safety caution, same fresh-juice/churna/kashayam dosage forms, and both cite the same 2025 Antioxidants review (PMID 41300509). Amlaparni ('sour-leaved') and Changeri are both class"
+  },
+  "vijaysar": {
+   "primary": "asana",
+   "taxon": "Pterocarpus marsupium",
+   "reason": "Both pages describe the heartwood drug of Pterocarpus marsupium and nothing else: identical marker sets (pterostilbene, marsupsin, pterosupin, epicatechin, liquiritigenin, isoliquiritigenin, pterocarpol, kino-tannic acid), identical dosage (3-6 g heartwood powder twice daily, 50-100 ml decoction, 500 mg-1 g extract), the same standardisation spec (>5% pterostilbene, >20% total polyphenols, >1% mar"
+  },
+  "manjistha": {
+   "primary": "manjishtha",
+   "taxon": "Rubia cordifolia",
+   "reason": "A pure transliteration split, and the pages admit it: manjistha's bioavailability field opens 'Same pharmacokinetic profile as Manjishtha (Rubia cordifolia)' and links to /herb/manjishtha/. Both are the root drug, both sit in the Skin-Beauty group, both give 3-6 g root powder and 500-1000 mg extract, both standardise to minimum 2% total anthraquinones, and both list the same markers (alizarin, pur"
+  },
+  "makoy": {
+   "primary": "kakamachi",
+   "taxon": "Solanum nigrum",
+   "reason": "Both pages describe the same whole-plant drug (Svarasa/fresh juice, churna, kwatha) with the same marker set (solasonine, solamargine, solasodine, diosgenin, quercetin, caffeic acid, riboflavin), the same 10-20 mL juice / 3-6 g powder / 50-100 mL decoction dosing, the same Liver-Detox group and the same tag set. No plant part or preparation separates them; 'Makoy' is simply the Hindi name for Sans"
+  },
+  "chirayata": {
+   "primary": "kiratatikta",
+   "taxon": "Swertia chirayita",
+   "reason": "Both describe the same whole-plant bitter drug, identical Rasa/Guna/Virya/Vipaka (Tikta / Laghu-Ruksha / Sheeta / Katu), the same dosage forms (churna, kashayam, ghana/kwath ghana, tincture, capsule), the same 1-3 g powder and 30-60 mL decoction dosing, and the same secoiridoid/xanthone marker set (amarogentin, swertiamarin, mangiferin, swerchirin, oleanolic and ursolic acid). 'Chirayata' is the H"
+  },
+  "laung": {
+   "primary": "lavanga",
+   "taxon": "Syzygium aromaticum",
+   "reason": "Both pages are the dried flower bud (clove) and its steam-distilled oil: same eugenol-led marker set (eugenol, eugenyl acetate, beta-caryophyllene, alpha-humulene, kaempferol), same >=85% eugenol essential-oil spec, same dental/carminative dosage forms, same Kitchen-Spices-Culinary group. Nothing distinguishes them but the name: 'Laung' is Hindi for Sanskrit 'Lavanga', the API monograph title, so "
+  },
+  "jamun": {
+   "primary": "jambu",
+   "taxon": "Syzygium cumini",
+   "reason": "The jamun page states it outright in its own bioavailability section: 'Jamun is the common Hindi name. Same pharmacokinetic profile as Jambu.' Both cover the same drug set from one tree, seed powder as the lead preparation plus fruit juice and bark/Asava, the same dosing (3-6 g seed powder twice daily, 500 mg-1 g extract, 20-50 mL juice) and the same markers (ellagic and gallic acid, jamboline, de"
+  },
+  "ajwain": {
+   "primary": "yavani",
+   "taxon": "Trachyspermum ammi",
+   "reason": "Both describe the same fruit (seed) drug and its steam-distilled oil: identical thymol-led marker lists (thymol, p-cymene, gamma-terpinene, carvacrol, pinenes, terpinen-4-ol, limonene), the same 1-3 g seed powder dosing, the same Ark/essential-oil/churna forms, the same carminative and bronchodilatory mechanisms, and overlapping synergy pairs (Hingu, Saindhava lavana, Shunthi). The yavani page eve"
+  },
+  "nirgundi-herb": {
+   "primary": "nirgundi",
+   "taxon": "Vitex negundo",
+   "reason": "Same drug, same species, differing only by the bare '-herb' suffix. nirgundi-herb's only claimed difference is a generic 'whole herb (including stem, leaf, root, and flower)' framing, which is not a distinct classical drug or a named preparation - there is no separate Sanskrit/pharmacopoeial name for it, and both pages carry the same marker set (agnuside, casticin, vitexin, aucubin, luteolin-7-glu"
+  },
+  "zingiber": {
+   "primary": "ginger",
+   "taxon": "Zingiber officinale",
+   "reason": "Both pages are the rhizome of Zingiber officinale, same drug, same markers (6/8/10-gingerol, shogaols, zingerone, zingiberene), same forms (Shunthi churna, svarasa, oleoresin, CO2 extract, essential oil), same fresh-vs-dry gingerol/shogaol discussion, same Trikatu and Haridra combinations, and they already cross-link to each other. 'zingiber' is a bare Latin genus name, not an Ayurvedic drug name,"
+  }
+ }
+}
