@@ -187,6 +187,44 @@ here is the class-level evidence, correctly scoped. Silence is not a valid state
 enforced by a ratchet in `data/safety-baseline.json` rather than a fixed target, so finished
 work cannot regress while unfinished work is still in progress.
 
+## External identifiers
+
+Every botanical and constituent name is resolved against public registries, cached in
+`data/enrichment/` and committed, so a rebuild makes no network requests and CI cannot
+fail on a provider outage.
+
+| Layer | Resolved | Source |
+|---|---|---|
+| Botanical names | 241 | GBIF Backbone Taxonomy |
+| Wikidata QIDs | 228 | Wikidata |
+| NCBI taxonomy ids | 236 | NCBI Taxonomy |
+| Constituents | 466 of 852 | PubChem PUG-REST |
+
+This costs no agent tokens at all, which is the point. A taxon key is not a judgement:
+the name resolves or it does not, the answer is the same every time, and anyone can check
+it in one request. Compare the safety layer, where four passes of agent research and
+adversarial audit produced five records. Both prices are correct for what they buy.
+
+**GBIF pays twice.** It reports how it matched, so it re-checks the botanical work for
+free. It found three journal titles sitting in the `botanical` field, caught a
+misspelling (*Onosma bracteatum* for *bracteata*), and flagged 25 names as taxonomic
+synonyms. Where it disagrees, pages show both names and label the relationship rather
+than rewriting either: the classical literature uses the older names.
+
+**Identifiers appear only on EXACT matches.** A fuzzy or higher-rank hit is a guess, and a
+guess rendered as a registry link reads as a fact.
+
+**Two things that do not work, tested and recorded so they are not tried again.** GBIF's
+vernacular search resolves "Vacha" to *Eutropiichthys vacha*, a fish, and "Shatavari" to
+the wrong *Asparagus* while reporting a vernacular match; it is safe for confirming a
+binomial, never for discovering one. And a bare PubMed query on an Ayurvedic name returns
+mostly noise, because "Vacha" is also the surname Vácha: 626 hits become 42 under
+`[Title/Abstract]`.
+
+`scripts/lib/identifiers.mjs` checks every identifier against its own grammar before
+publication, negative-tested in CI. A malformed identifier is worse than a missing one,
+because it renders as a link, looks authoritative and resolves to nothing.
+
 ## Deployment
 
 Push to `main`. The workflow audits, builds, link-checks and deploys to GitHub Pages.

@@ -212,6 +212,27 @@ diagnostic patterns (clinical decision rules on `llm-only` provenance); the Hind
 monographs (SKU-branded, and Hindi is low-resource enough that queries get pivoted to English
 anyway).
 
+## 6b. External identifiers: done, and what it exposed
+
+241 botanicals carry GBIF keys, 228 Wikidata QIDs and 236 NCBI taxids; 466 constituents
+carry PubChem CIDs. 34 family browse pages at `/family/`. All cached and committed, so
+rebuilds are free. Zero agent tokens.
+
+Worth knowing before planning more of this:
+
+- **Only 6 of the 252 uncited pages have a botanical to search PubMed with.** The other
+  246 are 102 formulations, which have no binomial by nature, and 150 herbs whose
+  identity is contested or unexamined. So a species-based citation top-up will not close
+  that gap; it needs name-based search, and a bare name query is noisy enough to be
+  dangerous (see the Vácha surname problem in the README).
+- **33 groups of pages resolve to the same species and are not distinguished by plant
+  part**, covering 39 redundant pages. `neem` and `nimba`, `turmeric` and `haridra`,
+  `manjishtha` and `manjistha` are one drug with several URLs. That splits a subject
+  across near-identical pages, which is bad for a reader and worse for retrieval, because
+  an index that clusters near-duplicates picks a representative arbitrarily. Some of the
+  33 are genuinely separate drugs from one species (nutmeg and mace, lotus flower and
+  rhizome) and must not be merged.
+
 ## 7. Two data-quality items found and not yet fixed
 
 - **202 herb pages still have no botanical name.** The verification run resolved what it could
