@@ -174,9 +174,9 @@ export function isStrippedSection(h) {
 // The reliable discriminator is the second word: a species epithet is never a
 // discipline or publishing noun. Checking both positions catches the whole class
 // rather than adding another first word to a list that keeps losing.
-const NOT_A_GENUS = /^(shelf|quality|standard|primary|total|loss|active|marker|analytical|storage|polyherbal|compound|mineral|marine|chinese|indian|japanese|korean|european|american|african|western|eastern|clinical|pharmacological|cardiovascular|toxicology|molecular|cellular|environmental|traditional|complementary|integrative|natural|current|recent|modern|advanced|applied|general|international|frontiers|evidence)$/i;
+const NOT_A_GENUS = /^(shelf|quality|standard|primary|total|loss|active|marker|analytical|storage|polyherbal|compound|mineral|marine|chinese|indian|japanese|korean|european|american|african|western|eastern|clinical|pharmacological|cardiovascular|toxicology|molecular|cellular|environmental|traditional|complementary|integrative|natural|current|recent|modern|advanced|applied|general|international|frontiers|evidence|fermented|dried|fresh|purified|processed|raw|whole|crude)$/i;
 
-const NOT_AN_EPITHET = /^(drugs?|medicine|medicines|research|reports?|reviews?|letters?|journal|journals|sciences?|science|international|toxicology|pharmacology|pharmacy|therapeutics|nutrition|nutrients|molecules|biology|chemistry|health|care|today|update|updates|perspectives?|advances?|methods?|trials?|studies|study|analysis|data|profile|activity|effects?|properties|uses|based|derived|induced|mediated|related|associated|containing|including)$/i;
+const NOT_AN_EPITHET = /^(drugs?|medicine|medicines|research|reports?|reviews?|letters?|journal|journals|sciences?|science|international|toxicology|pharmacology|pharmacy|therapeutics|nutrition|nutrients|molecules|biology|chemistry|health|care|today|update|updates|open|access|pathogenesis|microbiology|immunology|oncology|physiology|metabolism|grain|grains|seed|seeds|powder|extract|extracts|oil|oils|paste|juice|preparation|preparations|perspectives?|advances?|methods?|trials?|studies|study|analysis|data|profile|activity|effects?|properties|uses|based|derived|induced|mediated|related|associated|containing|including)$/i;
 
 const LOOKS_BINOMIAL = (v) => {
   const t = v.trim();

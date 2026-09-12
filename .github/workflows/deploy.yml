@@ -48,6 +48,10 @@ jobs:
         run: node scripts/verification.mjs
       - name: Generate the constituent graph
         run: node scripts/compounds.mjs
+      # Reads the committed cache in data/enrichment/, so this makes no network
+      # requests in CI and cannot fail on a provider outage.
+      - name: Generate the taxonomy dataset
+        run: node scripts/enrich-taxonomy.mjs
       # The safety schema is the gate on the highest-consequence content on the site,
       # so its negative tests run in CI rather than only on a developer's machine.
       - name: Safety schema tests
