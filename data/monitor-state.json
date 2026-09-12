@@ -419,7 +419,7 @@
       "https://jairaj1234-dancer.github.io/nighantu/glossary/concepts-m-y/": "851f0d2025bf82a0",
       "https://jairaj1234-dancer.github.io/nighantu/glossary/pharmacology/": "87029b4f28d71540",
       "https://jairaj1234-dancer.github.io/nighantu/glossary/plant-families/": "5799c2c65ddd97ae",
-      "https://jairaj1234-dancer.github.io/nighantu/herb/": "09dd741da55a0629",
+      "https://jairaj1234-dancer.github.io/nighantu/herb/": "d26393d2f0526d58",
       "https://jairaj1234-dancer.github.io/nighantu/herb/abhraka-bhasma/": "07dd773706b0c916",
       "https://jairaj1234-dancer.github.io/nighantu/herb/adhaki/": "c076f81bfc9aba3b",
       "https://jairaj1234-dancer.github.io/nighantu/herb/agastya/": "94673ec06d7bdb06",
@@ -740,7 +740,7 @@
       "https://jairaj1234-dancer.github.io/nighantu/herb/navayasa-loha/": "35f4fc9079f04e4b",
       "https://jairaj1234-dancer.github.io/nighantu/herb/neelam-pishti/": "023de3f9c59bee75",
       "https://jairaj1234-dancer.github.io/nighantu/herb/neem/": "f588a0518e2d8e71",
-      "https://jairaj1234-dancer.github.io/nighantu/herb/nikochaka/": "1f60550ecd8b471e",
+      "https://jairaj1234-dancer.github.io/nighantu/herb/nikochaka/": "8dfabefa3fbad59e",
       "https://jairaj1234-dancer.github.io/nighantu/herb/nili/": "0dab2fcb6b78e245",
       "https://jairaj1234-dancer.github.io/nighantu/herb/nimba-beeja/": "4150013b35c22230",
       "https://jairaj1234-dancer.github.io/nighantu/herb/nimba-patra/": "1a9609fdd3f60243",
@@ -1009,8 +1009,8 @@
       "https://jairaj1234-dancer.github.io/nighantu/verification/safety-pass4/": "e2d0a2f8d0622612",
       "https://jairaj1234-dancer.github.io/nighantu/verification/safety-repair-02/": "31af4ebd12fe14e8"
     },
-    "lastSubmittedAt": "2026-09-12T06:13:10.973Z",
-    "lastSubmittedCount": 3
+    "lastSubmittedAt": "2026-09-12T06:34:21.403Z",
+    "lastSubmittedCount": 2
   },
   "products": {
     "broken": 0,
@@ -1117,6 +1117,6 @@
     "seen": 35,
     "surfaced": 1
   },
-  "updatedAt": "2026-09-12T06:32:37.826Z",
+  "updatedAt": "2026-09-12T06:34:21.403Z",
   "version": 1
 }
