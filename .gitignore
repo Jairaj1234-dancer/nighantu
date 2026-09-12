@@ -16,6 +16,7 @@ public/dravyaguna.csv
 public/verification.json
 public/compounds.json
 public/compounds.csv
+public/taxonomy.json
 
 # Full verification-run output: agent prose, record bodies and complete verdicts.
 # Kept locally as evidence, never published. scripts/slim-runs.mjs writes the
