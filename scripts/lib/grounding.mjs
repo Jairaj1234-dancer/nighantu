@@ -14,8 +14,16 @@
  * commercial batch", a detail its cited paper never contained.
  */
 
-/** Quantities carry the most risk and are the easiest to check, so they get their own pass. */
-const NUMBER = /\b\d+(?:[.,]\d+)?\s*(?:%|ml|l|mg|g|kg|cm|mm|min(?:ute)?s?|hours?|hrs?|days?|weeks?|months?|years?|times?|°?\s*[CF]\b)?/gi;
+/**
+ * Quantities carry the most risk and are the easiest to check, so they get their own pass.
+ *
+ * The unit is REQUIRED, and that is the whole design. A bare integer in Ayurvedic prose is
+ * almost never a measurement: "107 marma points" is a classical enumeration and "Cikitsā
+ * 2.1-4" is a chapter and its pādas. An earlier version matched bare numbers and held two
+ * correct pages for exactly those two strings. What actually needs checking is an invented
+ * dose, duration or temperature, and those all carry a unit.
+ */
+const NUMBER = /\b\d+(?:[.,]\d+)?(?:\s*[-–]\s*\d+(?:[.,]\d+)?)?\s*(?:%|ml|mg|kg|g|cm|mm|min(?:ute)?s?|hours?|hrs?|days?|weeks?|months?|°?\s*[CF]|degrees?)\b/gi;
 
 const normaliseNumber = (s) => s.toLowerCase()
   .replace(/\s+/g, '')
@@ -47,20 +55,60 @@ export function ungroundedNumbers(body, sourceText) {
   return [...found.keys()];
 }
 
-/** Named plants that do not exist anywhere in the corpus. */
+/**
+ * Fold an Ayurvedic drug name to a comparable key.
+ *
+ * Stripping diacritics alone is not enough, and the first version of this check failed
+ * loudly because of it: it flagged Vacā, Yavakṣāra and Snuhī as invented plants when all
+ * three are on the site, spelled Vacha, Yavakshara and Snuhi. IAST and the anglicised
+ * spellings the corpus uses disagree about the retroflex and sibilant series, so the two
+ * have to be folded onto the same skeleton before they can be compared. Over-rejecting
+ * here is not a safe failure: it hides real content behind a gate that looks principled.
+ */
+function foldName(s) {
+  return String(s).toLowerCase()
+    .replace(/[śṣ]/g, 'sh')
+    .replace(/ṛ/g, 'ri').replace(/ḷ/g, 'li')
+    .replace(/[ṭḍ]/g, (c) => (c === 'ṭ' ? 't' : 'd'))
+    .replace(/[ṇñṅṃ]/g, 'n').replace(/ḥ/g, 'h')
+    .normalize('NFD').replace(/[̀-ͯ]/g, '')
+    .replace(/[^a-z ]/g, ' ')
+    // The corpus writes the same sound both ways: vacha and vaca, ghrita and ghrta.
+    .replace(/ch/g, 'c').replace(/sh/g, 's')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+/**
+ * Named plants that do not exist anywhere in the corpus.
+ *
+ * `knownNames` should include formulations as well as herbs: a procedure legitimately
+ * names medicated oils such as Aṇu Taila, which are formulations rather than single
+ * drugs, and treating those as invented would be wrong.
+ */
 export function unknownDravyas(names = [], knownNames) {
   const known = knownNames instanceof Set ? knownNames : new Set(knownNames ?? []);
-  const norm = (s) => String(s).toLowerCase()
-    .normalize('NFD').replace(/[̀-ͯ]/g, '')      // strip IAST diacritics
-    .replace(/[^a-z ]/g, '').trim();
-  const knownNorm = new Set([...known].map(norm));
+  const knownNorm = new Set();
+  for (const n of known) { const f = foldName(n); knownNorm.add(f); knownNorm.add(f.replace(/ /g, '')); }
+  // Generic substance words that are not drugs with their own page.
+  // Written in the folded form this function produces, not in IAST, because comparing
+  // an unfolded list against folded input is how the first version let ghrita through.
+  const GENERIC = new Set(['ghrita', 'ghrta', 'taila', 'jala', 'ksira', 'ksirabala', 'dugdha',
+    'madhu', 'lavana', 'curna', 'kvatha', 'svarasa', 'kalka', 'paka', 'vati', 'arka',
+    'water', 'oil', 'ghee', 'milk', 'honey', 'salt', 'powder', 'paste', 'decoction']);
+
   return names.filter((n) => {
-    const k = norm(n);
+    const k = foldName(n).replace(/\(.*?\)/g, '').trim();
     if (!k) return false;
     if (knownNorm.has(k)) return false;
-    // A multi-word name counts as known if any word matches a known drug: "tila taila"
-    // is sesame oil and tila is on the site.
-    return !k.split(' ').some((w) => w.length > 3 && knownNorm.has(w));
+    if (knownNorm.has(k.replace(/ /g, ''))) return false;   // Śveta-marica vs Svetamarica
+    if (GENERIC.has(k)) return false;
+    const words = k.split(' ').filter(Boolean);
+    // Known if any meaningful word matches a known drug: "tila taila" is sesame oil,
+    // "Anu Taila" is a named formulation, "Saindhava (rock salt)" is saindhava-lavana.
+    return !words.some((w) => w.length > 2 && !GENERIC.has(w) && [...knownNorm].some(
+      (kn) => kn === w || kn.split(' ').includes(w),
+    ));
   });
 }
 

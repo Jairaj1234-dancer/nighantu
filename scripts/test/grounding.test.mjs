@@ -17,6 +17,17 @@ ok('an invented dose is caught',
   ungroundedNumbers('Take 500 mg at night.', RECORD).some((x) => x.startsWith('500')));
 ok('a range endpoint written alone still passes',
   ungroundedNumbers('Around 20 min is usual.', RECORD).length === 0);
+// Both of these held a correct page in an earlier run. A bare number in Ayurvedic prose
+// is almost never a measurement.
+ok('a classical enumeration is not a measurement',
+  ungroundedNumbers('the 107 marma points are set out there', RECORD).length === 0);
+ok('a chapter and pada reference is not a measurement',
+  ungroundedNumbers('Cikitsa 2.1-4 covers this', RECORD).length === 0);
+ok('a number before a word starting with C is not a temperature',
+  ungroundedNumbers('see 5 Caraka Sutra', RECORD).length === 0);
+ok('a bare C temperature is still caught',
+  ungroundedNumbers('Heat the oil to 60 C.', RECORD).includes('60 C'));
+
 ok('small ordinals are not flagged',
   ungroundedNumbers('There are 3 stages and 2 oils.', RECORD).length === 0);
 ok('a course length from the record passes',
@@ -40,5 +51,5 @@ ok('a declared claim is not flagged', !unlistedClaims(BODY, GROUNDING).some((s) 
 ok('an undeclared claim is flagged', unlistedClaims(BODY, GROUNDING).some((s) => s.startsWith('Another long')));
 ok('headings are not treated as claims', !unlistedClaims('## What it is', []).length);
 
-console.log(fails ? `\n${fails} FAILED` : '\nall 15 passed');
+console.log(fails ? `\n${fails} FAILED` : '\nall 19 passed');
 process.exit(fails ? 1 : 0);

@@ -62,6 +62,10 @@ for f in ("scripts/config.mjs", "astro.config.mjs", "scripts/linkcheck.mjs"):
 print(f"    site={site} base=/")
 PY
 
+echo "==> re-applying procedure pages so their baked-in link prefixes update"
+# These carry BASE-prefixed cross-links in their bodies, same as ingested content.
+[ -f /tmp/proc.json ] && ATLAS_BASE="" node scripts/apply-procedures.mjs /tmp/proc.json ||   echo "    (no procedure run output on disk; re-run scripts/apply-procedures.mjs manually)"
+
 echo "==> re-ingesting so baked-in link prefixes update"
 ATLAS_SITE="https://$DOMAIN" ATLAS_BASE="" node scripts/ingest.mjs
 

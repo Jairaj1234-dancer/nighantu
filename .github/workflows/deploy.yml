@@ -48,6 +48,8 @@ jobs:
         run: node scripts/verification.mjs
       - name: Generate the constituent graph
         run: node scripts/compounds.mjs
+      - name: Generate the reading-links dataset
+        run: node scripts/enrich-access.mjs
       # Reads the committed cache in data/enrichment/, so this makes no network
       # requests in CI and cannot fail on a provider outage.
       - name: Generate the taxonomy dataset

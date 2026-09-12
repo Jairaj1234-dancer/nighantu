@@ -1,0 +1,125 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import CiteThis from '../../components/CiteThis.astro';
+import { getCollection, render } from 'astro:content';
+import { SITE_NAME, abs, rel } from '../../lib/site';
+import dates from '../../data/page-dates.json';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('practice');
+  return entries.map((entry) => ({ params: { slug: entry.data.slug }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const d = entry.data;
+const canonical = `/practice/${d.slug}/`;
+const modified = (dates as any)[canonical]?.modified ?? (dates as any)[canonical]?.published ?? '';
+
+const LEVEL = {
+  'self-care': {
+    label: 'Self-care',
+    note: 'This is a practice a person can do for themselves. Read the cautions before starting.',
+  },
+  supervised: {
+    label: 'Given by a trained therapist',
+    note: 'This is done to you by someone trained, normally in a clinic. It is described here so you '
+      + 'know what a session involves and what to ask before booking, not as instructions to follow.',
+  },
+  'vaidya-only': {
+    label: 'Requires a qualified vaidya',
+    note: 'This is clinical work requiring a qualified vaidya, and often a supervised setting. It is '
+      + 'described here so you understand what it is and why it needs supervision. It is not something '
+      + 'to attempt, and this page is deliberately not a set of instructions.',
+  },
+}[d.level];
+
+const jsonld = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    '@id': `${abs(canonical)}#article`,
+    headline: d.title,
+    description: d.answer,
+    inLanguage: 'en',
+    isPartOf: { '@id': `${abs('/')}#website` },
+    publisher: { '@id': `${abs('/')}#organization` },
+    mainEntityOfPage: abs(canonical),
+    ...(modified ? { dateModified: modified } : {}),
+  },
+  ...(d.faq.length ? [{
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: d.faq.map((f: any) => ({
+      '@type': 'Question', name: f.q,
+      acceptedAnswer: { '@type': 'Answer', text: f.a },
+    })),
+  }] : []),
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Nighantu', item: abs('/') },
+      { '@type': 'ListItem', position: 2, name: 'Practices', item: abs('/practice/') },
+      { '@type': 'ListItem', position: 3, name: d.title, item: abs(canonical) },
+    ],
+  },
+];
+---
+<Base title={`${d.title} · ${SITE_NAME}`} description={d.answer} canonical={canonical} jsonld={jsonld}>
+  <Crumbs trail={[{ label: 'Practices', href: '/practice/' }, { label: d.title }]} />
+  <h1>{d.title}</h1>
+
+  <p class="answer">{d.answer}</p>
+
+  <p class={`levelnote level-${d.level}`}>
+    <strong>{LEVEL.label}.</strong> {LEVEL.note}
+  </p>
+
+  <div class="prose"><Content /></div>
+
+  {d.cautions.length > 0 && (
+    <section class="safety">
+      <h2>Cautions</h2>
+      <ul class="safety-list">{d.cautions.map((c: string) => <li>{c}</li>)}</ul>
+    </section>
+  )}
+
+  {d.dravyas.length > 0 && (
+    <>
+      <h2>Substances named</h2>
+      <p>{d.dravyas.map((x: string, i: number) => <>{i > 0 && ', '}{x}</>)}</p>
+    </>
+  )}
+
+  {d.classicalSource && (
+    <>
+      <h2>Classical source</h2>
+      <p>
+        {d.classicalSource}
+        {' — '}
+        {d.citationVerified
+          ? <span class="ok">checked against a published translation</span>
+          : <span class="taxnote">not independently confirmed; treat the locus as approximate</span>}
+      </p>
+      {d.citationNote && <p class="taxnote">{d.citationNote}</p>}
+    </>
+  )}
+
+  {d.faq.length > 0 && (
+    <>
+      <h2>Common questions</h2>
+      <dl>{d.faq.map((f: any) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}</dl>
+    </>
+  )}
+
+  <p class="disclaimer">
+    <strong>Consult a qualified vaidya before acting on anything here.</strong> Ayurvedic
+    practice is prescribed to a person, not to a condition: the same procedure is given,
+    modified or withheld depending on your constitution, your agni, the season and what else
+    you are already doing. A page cannot know any of that.
+  </p>
+
+  <CiteThis title={d.title} canonical={canonical} modified={modified} />
+</Base>
