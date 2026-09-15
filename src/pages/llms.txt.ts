@@ -19,6 +19,7 @@ export const GET: APIRoute = async () => {
     '## Guides',
     '',
     `- [Answers & FAQ](${abs('/answers/')}): authoritative, evidence-grounded answers to 50+ core practice, Shirodhara, and pharmacology queries.`,
+    `- [Herb-Drug Interactions](${abs('/interactions/')}): clinical pharmacokinetic matrix cross-referencing Ayurvedic botanicals with CYP450 enzyme modulation, P-glycoprotein transport, and pharmaceutical drug interactions.`,
     `- [Shirodhara](${abs('/shirodhara/')}): the full practice guide, oil selection by dosha, protocol, cautions and equipment.`,
     `- [How we source](${abs('/how-we-source/')}): where the material comes from and how it is checked.`,
     `- [Editorial standards](${abs('/editorial-standards/')}): what this site does and does not claim.`,
