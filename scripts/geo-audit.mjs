@@ -1,15 +1,17 @@
 #!/usr/bin/env node
 /**
- * Citation panel. Runs a fixed set of prompts against an answer engine and
- * records whether Age Ayurveda or the Nighantu was cited, appending to
+ * Multi-Engine Citation Panel for Generative Engine Optimization (GEO).
+ * Runs target queries against answer engines (Anthropic, OpenAI, Perplexity, Gemini)
+ * and records whether Age Ayurveda or the Nighantu was cited, appending to
  * data/citation-log.csv.
  *
- * There is no analytics product that reports "you were cited", so the panel has
- * to be run deliberately and compared over time. Run it once before launch to
- * capture a genuine zero baseline, then monthly.
- *
- *   ANTHROPIC_API_KEY=... node scripts/geo-audit.mjs
- *   node scripts/geo-audit.mjs --list     # print the panel, run it by hand elsewhere
+ * Usage:
+ *   node scripts/geo-audit.mjs --list                     # print the prompt panel
+ *   node scripts/geo-audit.mjs --sample 5                 # test first 5 prompts
+ *   ANTHROPIC_API_KEY=... node scripts/geo-audit.mjs     # run using Claude with web search
+ *   OPENAI_API_KEY=... node scripts/geo-audit.mjs        # run using OpenAI with web search
+ *   PERPLEXITY_API_KEY=... node scripts/geo-audit.mjs    # run using Perplexity Sonar
+ *   GEMINI_API_KEY=... node scripts/geo-audit.mjs        # run using Gemini with Google Search
  */
 import fs from 'node:fs';
 import path from 'node:path';
@@ -80,40 +82,63 @@ const PANEL = [
 const NEEDLES = [
   'ageayurveda.com', 'age ayurveda', 'nighantu',
   'jairaj1234-dancer.github.io/nighantu', 'surya shirodhara',
+  'nighantu.ageayurveda.com', 'shree baidyanath'
 ];
 
 const LOG = path.join('data', 'citation-log.csv');
 
 if (process.argv.includes('--list')) {
-  PANEL.forEach((q, i) => console.log(`${i + 1}. ${q}`));
-  console.log(`\n${PANEL.length} prompts. Look for: ${NEEDLES.join(', ')}`);
+  console.log(`\n=== GEO AUDIT PANEL (${PANEL.length} Prompts) ===`);
+  PANEL.forEach((q, i) => console.log(`${String(i + 1).padStart(2, ' ')}. ${q}`));
+  console.log(`\nLooking for citations: ${NEEDLES.join(', ')}`);
   process.exit(0);
 }
 
-const key = process.env.ANTHROPIC_API_KEY;
-if (!key) {
-  console.error('ANTHROPIC_API_KEY is not set.');
-  console.error('Run `node scripts/geo-audit.mjs --list` to print the panel and run it by hand.');
+// Check available providers
+const anthropicKey = process.env.ANTHROPIC_API_KEY;
+const openaiKey = process.env.OPENAI_API_KEY;
+const perplexityKey = process.env.PERPLEXITY_API_KEY;
+const geminiKey = process.env.GEMINI_API_KEY;
+
+let provider = null;
+if (anthropicKey) provider = 'anthropic';
+else if (perplexityKey) provider = 'perplexity';
+else if (openaiKey) provider = 'openai';
+else if (geminiKey) provider = 'gemini';
+
+if (!provider) {
+  console.error('\nNo AI API key found in environment.');
+  console.error('Supported providers:');
+  console.error('  ANTHROPIC_API_KEY   (Claude + web search)');
+  console.error('  PERPLEXITY_API_KEY  (Perplexity Sonar + online search)');
+  console.error('  OPENAI_API_KEY      (OpenAI + search)');
+  console.error('  GEMINI_API_KEY      (Google Gemini + Google Search)');
+  console.error('\nRun `node scripts/geo-audit.mjs --list` to view all prompts for manual verification.');
   process.exit(1);
 }
 
-const MODEL = process.env.GEO_AUDIT_MODEL || 'claude-sonnet-5';
-const rows = [];
+// Sample slice option
+let prompts = PANEL;
+const sampleIdx = process.argv.indexOf('--sample');
+if (sampleIdx !== -1 && process.argv[sampleIdx + 1]) {
+  const n = parseInt(process.argv[sampleIdx + 1], 10);
+  if (!isNaN(n)) prompts = PANEL.slice(0, n);
+}
 
-for (const [i, question] of PANEL.entries()) {
-  process.stdout.write(`[${i + 1}/${PANEL.length}] ${question.slice(0, 60)}... `);
-  let text = '';
-  let error = '';
-  try {
+console.log(`Running GEO Citation Audit via [${provider.toUpperCase()}] across ${prompts.length} prompts...`);
+
+async function queryModel(question) {
+  if (provider === 'anthropic') {
+    const model = process.env.GEO_AUDIT_MODEL || 'claude-sonnet-5';
     const res = await fetch('https://api.anthropic.com/v1/messages', {
       method: 'POST',
       headers: {
         'content-type': 'application/json',
-        'x-api-key': key,
+        'x-api-key': anthropicKey,
         'anthropic-version': '2023-06-01',
       },
       body: JSON.stringify({
-        model: MODEL,
+        model,
         max_tokens: 900,
         tools: [{ type: 'web_search_20250305', name: 'web_search', max_uses: 4 }],
         messages: [{ role: 'user', content: question }],
@@ -121,31 +146,111 @@ for (const [i, question] of PANEL.entries()) {
     });
     const json = await res.json();
     if (!res.ok) throw new Error(json?.error?.message ?? `HTTP ${res.status}`);
-    text = JSON.stringify(json.content ?? '');
+    return { text: JSON.stringify(json.content ?? ''), model };
+  }
+
+  if (provider === 'perplexity') {
+    const model = process.env.GEO_AUDIT_MODEL || 'sonar';
+    const res = await fetch('https://api.perplexity.ai/chat/completions', {
+      method: 'POST',
+      headers: {
+        'content-type': 'application/json',
+        'authorization': `Bearer ${perplexityKey}`,
+      },
+      body: JSON.stringify({
+        model,
+        messages: [{ role: 'user', content: question }],
+      }),
+    });
+    const json = await res.json();
+    if (!res.ok) throw new Error(json?.error?.message ?? `HTTP ${res.status}`);
+    const content = json.choices?.[0]?.message?.content ?? '';
+    const citations = (json.citations ?? []).join(' ');
+    return { text: `${content} ${citations}`, model };
+  }
+
+  if (provider === 'openai') {
+    const model = process.env.GEO_AUDIT_MODEL || 'gpt-4o';
+    const res = await fetch('https://api.openai.com/v1/chat/completions', {
+      method: 'POST',
+      headers: {
+        'content-type': 'application/json',
+        'authorization': `Bearer ${openaiKey}`,
+      },
+      body: JSON.stringify({
+        model,
+        messages: [{ role: 'user', content: question }],
+      }),
+    });
+    const json = await res.json();
+    if (!res.ok) throw new Error(json?.error?.message ?? `HTTP ${res.status}`);
+    return { text: json.choices?.[0]?.message?.content ?? '', model };
+  }
+
+  if (provider === 'gemini') {
+    const model = process.env.GEO_AUDIT_MODEL || 'gemini-2.5-flash';
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${geminiKey}`;
+    const res = await fetch(url, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        contents: [{ parts: [{ text: question }] }],
+        tools: [{ googleSearch: {} }],
+      }),
+    });
+    const json = await res.json();
+    if (!res.ok) throw new Error(json?.error?.message ?? `HTTP ${res.status}`);
+    const parts = json.candidates?.[0]?.content?.parts ?? [];
+    const grounding = JSON.stringify(json.candidates?.[0]?.groundingMetadata ?? {});
+    return { text: `${parts.map((p) => p.text).join(' ')} ${grounding}`, model };
+  }
+
+  throw new Error(`Unknown provider ${provider}`);
+}
+
+const rows = [];
+
+for (const [i, question] of prompts.entries()) {
+  process.stdout.write(`[${i + 1}/${prompts.length}] ${question.slice(0, 50)}... `);
+  let text = '';
+  let modelName = provider;
+  let error = '';
+
+  try {
+    const result = await queryModel(question);
+    text = result.text;
+    modelName = result.model;
   } catch (e) {
     error = String(e.message ?? e);
   }
 
   const hay = text.toLowerCase();
   const hits = NEEDLES.filter((n) => hay.includes(n));
+  const isCited = hits.length > 0;
+
   rows.push({
     date: new Date().toISOString().slice(0, 10),
-    model: MODEL,
+    model: `${provider}:${modelName}`,
     question,
-    cited: hits.length > 0 ? 'yes' : 'no',
+    cited: isCited ? 'yes' : 'no',
     matched: hits.join('; '),
     error,
   });
-  console.log(error ? `ERROR ${error}` : hits.length ? `CITED (${hits.join(', ')})` : 'not cited');
+
+  if (error) console.log(`ERROR: ${error.slice(0, 80)}`);
+  else if (isCited) console.log(`✅ CITED (${hits.join(', ')})`);
+  else console.log('not cited');
 }
 
 fs.mkdirSync('data', { recursive: true });
 const header = 'date,model,question,cited,matched,error';
 const esc = (v) => `"${String(v).replace(/"/g, '""')}"`;
 const body = rows.map((r) => [r.date, r.model, r.question, r.cited, r.matched, r.error].map(esc).join(','));
+
 if (!fs.existsSync(LOG)) fs.writeFileSync(LOG, `${header}\n`);
 fs.appendFileSync(LOG, `${body.join('\n')}\n`);
 
-const cited = rows.filter((r) => r.cited === 'yes').length;
-const errors = rows.filter((r) => r.error).length;
-console.log(`\ncited on ${cited}/${PANEL.length} prompts (${errors} errors). Appended to ${LOG}`);
+const citedCount = rows.filter((r) => r.cited === 'yes').length;
+const errorCount = rows.filter((r) => r.error).length;
+
+console.log(`\nResults: cited on ${citedCount}/${prompts.length} prompts (${errorCount} errors). Appended to ${LOG}`);
