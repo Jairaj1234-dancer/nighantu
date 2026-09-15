@@ -56,4 +56,5 @@ The pages below are written to be read in order, but each stands alone.
 - **The pot and the apparatus.** Traditional vessels, modern stands, and what changed.
 - **Equipment and setup.** What a working setup needs, and what it costs in space and mess.
 - **Notes for therapists.** Oil recovery, hygiene, room setup and session economics.
+- **Neurophysiology and autonomic mechanisms.** Trigeminal somatosensory stimulation, HRV shifts, vagal tone, alpha EEG rhythms, and HPA axis regulation.
 - **Questions.** The things people actually ask.

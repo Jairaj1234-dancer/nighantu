@@ -1,0 +1,142 @@
+---
+import Page from '../layouts/Page.astro';
+import { abs, rel } from '../lib/site';
+
+const title = 'Open Ayurvedic Datasets';
+const description = 'Downloadable machine-readable datasets of classical Ayurvedic pharmacology, Dravyaguna properties, phytochemical constituents, and botanical taxonomy under CC BY 4.0.';
+const canonical = '/datasets/';
+
+const datasets = [
+  {
+    id: 'dravyaguna',
+    name: 'Ayurvedic Dravyaguna Pharmacological Dataset',
+    description: 'Classical Ayurvedic pharmacology across 245 botanical species, documenting traditional Rasa (taste), Guna (qualities), Virya (potency), Vipaka (post-digestive effect), and Prabhava (specific therapeutic actions).',
+    rowCount: '245 botanical monographs',
+    formats: [
+      { ext: 'JSON', path: '/dravyaguna.json', mime: 'application/json' },
+      { ext: 'CSV', path: '/dravyaguna.csv', mime: 'text/csv' },
+      { ext: 'Parquet', path: '/parquet/dravyaguna.parquet', mime: 'application/vnd.apache.parquet' }
+    ]
+  },
+  {
+    id: 'compounds',
+    name: 'Phytochemical Constituents & Co-occurrence Network',
+    description: 'Bio-active chemical constituents across 839 phytochemical entities with PubChem CIDs and 22,176 co-occurrence graph edges derived from classical Ayurvedic texts and modern pharmacology.',
+    rowCount: '839 constituents · 22,176 co-occurrences',
+    formats: [
+      { ext: 'JSON', path: '/compounds.json', mime: 'application/json' },
+      { ext: 'CSV', path: '/compounds.csv', mime: 'text/csv' },
+      { ext: 'Parquet', path: '/parquet/compounds.parquet', mime: 'application/vnd.apache.parquet' }
+    ]
+  },
+  {
+    id: 'research',
+    name: 'Biomedical Literature & Classical Research Index',
+    description: 'Structured index of 2,892 biomedical research citations and clinical trials cross-referenced with PubMed IDs, DOIs, and classical Ayurvedic botanical names.',
+    rowCount: '2,892 indexed research citations',
+    formats: [
+      { ext: 'JSON', path: '/research.json', mime: 'application/json' },
+      { ext: 'CSV', path: '/research.csv', mime: 'text/csv' },
+      { ext: 'Parquet', path: '/parquet/research.parquet', mime: 'application/vnd.apache.parquet' }
+    ]
+  },
+  {
+    id: 'taxonomy',
+    name: 'Verified Botanical Taxonomy & Identifier Crosswalk',
+    description: 'Taxonomic identity resolution for 241 medicinal plant species mapped against GBIF taxon keys, NCBI taxonomy IDs, and Wikidata entity QIDs.',
+    rowCount: '241 resolved medicinal taxa',
+    formats: [
+      { ext: 'JSON', path: '/taxonomy.json', mime: 'application/json' },
+      { ext: 'Parquet', path: '/parquet/taxonomy.parquet', mime: 'application/vnd.apache.parquet' }
+    ]
+  },
+  {
+    id: 'verification',
+    name: 'Nighantu Editorial Verification Ledger',
+    description: 'Complete claim-verification ledger detailing run logs, panel decisions, acceptance rates, and rejected statements across pharmacopoeial monographs.',
+    rowCount: '5 verified safety records · complete audit history',
+    formats: [
+      { ext: 'JSON', path: '/verification.json', mime: 'application/json' }
+    ]
+  }
+];
+
+const jsonld = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'DataCatalog',
+    '@id': `${abs('/datasets/')}#catalog`,
+    name: 'Age Ayurveda Nighantu Data Catalog',
+    description,
+    url: abs('/datasets/'),
+    publisher: {
+      '@type': 'Organization',
+      name: 'Age Ayurveda',
+      url: 'https://ageayurveda.com'
+    },
+    dataset: datasets.map((d) => ({
+      '@type': 'Dataset',
+      '@id': `${abs('/datasets/')}#${d.id}`,
+      name: d.name,
+      description: d.description,
+      license: 'https://creativecommons.org/licenses/by/4.0/',
+      creator: {
+        '@type': 'Organization',
+        name: 'Age Ayurveda'
+      },
+      distribution: d.formats.map((f) => ({
+        '@type': 'DataDownload',
+        encodingFormat: f.mime,
+        contentUrl: abs(f.path)
+      }))
+    }))
+  }
+];
+---
+<Page title={title} description={description} canonical={canonical} lede="Open, machine-readable datasets of classical Ayurvedic pharmacology, phytochemical compounds, and botanical taxonomy. Published under Creative Commons Attribution 4.0 International (CC BY 4.0)." jsonld={jsonld}>
+  <p>
+    All datasets published by the Age Ayurveda Nighantu are generated directly from verified monograph
+    records and classical texts, preventing drift between the reference text and tabular data.
+    Every botanical taxon is resolved against global taxonomic authorities (GBIF, NCBI, Wikidata),
+    and every pharmacological property conforms to standard Ayurvedic Pharmacopoeia of India (API) criteria.
+  </p>
+
+  <h2>Available Datasets</h2>
+
+  {datasets.map((d) => (
+    <section class="dataset-card" style="margin-bottom: 2rem; padding: 1.25rem; border: 1px solid var(--border, #e2e8f0); border-radius: 6px;">
+      <h3 style="margin-top: 0;">{d.name}</h3>
+      <p>{d.description}</p>
+      <p><strong>Coverage:</strong> {d.rowCount}</p>
+      <div style="display: flex; gap: 0.75rem; align-items: center;">
+        <strong>Direct Downloads:</strong>
+        {d.formats.map((f) => (
+          <a href={rel(f.path)} class="button" style="display: inline-block; padding: 0.25rem 0.6rem; background: var(--surface-2, #edf2f7); border-radius: 4px; text-decoration: none; font-weight: 600; font-size: 0.85rem;">
+            {f.ext}
+          </a>
+        ))}
+      </div>
+    </section>
+  ))}
+
+  <h2>Hugging Face & Zenodo Access</h2>
+  <p>
+    The consolidated corpus is also hosted in Apache Parquet format on the Hugging Face Hub and archived with a persistent Concept DOI on Zenodo.
+  </p>
+  <ul>
+    <li><strong>Hugging Face Dataset:</strong> <code>ageayurveda/nighantu</code> (supports direct streaming with <code>datasets.load_dataset("ageayurveda/nighantu")</code>)</li>
+    <li><strong>Zenodo Archive:</strong> Persistent research DOI archive under Concept DOI versioning.</li>
+    <li><strong>Licensing:</strong> Creative Commons Attribution 4.0 International (CC BY 4.0). Derived in part from the Amidha Ayurveda Herb Database.</li>
+  </ul>
+
+  <h2>Citation & Academic Attribution</h2>
+  <p>If you use these datasets in academic research, AI model training, or retrieval-augmented generation systems, please cite:</p>
+  <pre style="padding: 1rem; background: var(--surface-2, #f7fafc); border-radius: 6px; overflow-x: auto;"><code>@dataset&#123;age_ayurveda_nighantu_2026,
+  author       = &#123;Age Ayurveda Research Panel and Amidha Ayurveda&#125;,
+  title        = &#123;Age Ayurveda Nighantu: Open Classical Materia Medica and Dravyaguna Dataset&#125;,
+  year         = 2026,
+  publisher    = &#123;Age Ayurveda / Zenodo / Hugging Face&#125;,
+  license      = &#123;CC BY 4.0&#125;,
+  url          = &#123;https://nighantu.ageayurveda.com/datasets/&#125;
+&#125;</code></pre>
+</Page>

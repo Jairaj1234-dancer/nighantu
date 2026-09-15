@@ -3,10 +3,10 @@ import Base from './Base.astro';
 import Crumbs from '../components/Crumbs.astro';
 import { SITE_NAME } from '../lib/site';
 
-interface Props { title: string; description: string; canonical: string; lede?: string }
-const { title, description, canonical, lede } = Astro.props;
+interface Props { title: string; description: string; canonical: string; lede?: string; jsonld?: Record<string, unknown> | Record<string, unknown>[] }
+const { title, description, canonical, lede, jsonld } = Astro.props;
 ---
-<Base title={`${title} · ${SITE_NAME}`} description={description} canonical={canonical}>
+<Base title={`${title} · ${SITE_NAME}`} description={description} canonical={canonical} jsonld={jsonld}>
   <article>
     <Crumbs trail={[{ label: title }]} />
     <h1>{title}</h1>

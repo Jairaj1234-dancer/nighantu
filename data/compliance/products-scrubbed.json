@@ -1,0 +1,531 @@
+[
+  {
+    "id": "1",
+    "name": "Ashwagandha",
+    "slug": "ashwagandha",
+    "description": "Traditional Ayurvedic adaptogenic support formulated with pure Ashwagandha (Withania somnifera) root extract. Supports physiological resistance to occasional daily stress, promotes vitality, muscle strength, and restful sleep without sedation. Pacifies aggravated Vata dosha. Manufactured by Nitya Naturals Pvt Ltd, Prayagraj. Classical AYUSH licensed formulation.",
+    "price": 479,
+    "image_url": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC04420copy.jpg?v=1756121134",
+    "shopify_url": "https://ageayurveda.com/products/ashwagandha",
+    "category": "Stress & Energy",
+    "ingredients": [
+      "Ashwagandha"
+    ],
+    "benefits": [
+      "Adaptogenic stress support",
+      "Vitality & energy maintenance",
+      "Supports natural restorative sleep",
+      "Vata pacification"
+    ],
+    "doshas": [
+      "vata",
+      "kapha"
+    ],
+    "dosha_balance": "Pacifies Vata by calming anxiety and promoting restful sleep; strengthens Kapha by building vitality, stamina, and resilience against fatigue.",
+    "seo_title": "Age Ayurveda Ashwagandha Capsules (500mg) | Withania Somnifera Stress & Vitality Support",
+    "nighantu_reference_url": "https://nighantu.ageayurveda.com/herb/ashwagandha/",
+    "compliance_status": "PASSED_AYUSH_GOOGLE_MERCHANT"
+  },
+  {
+    "id": "2",
+    "name": "Immuno Plus",
+    "slug": "immuno-plus",
+    "description": "A synergistic blend of 7 traditional herbs including Giloy (Guduchi), Tulsi, Amla, Kalmegh, and Mulethi. Formulated to support upper respiratory tract wellness, maintain healthy antioxidant defense, and balance Pitta-Kapha doshas. Manufactured by Nitya Naturals Pvt Ltd, Prayagraj under strict AYUSH Good Manufacturing Practices.",
+    "price": 488,
+    "image_url": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC_3109.jpg?v=1756121121",
+    "shopify_url": "https://ageayurveda.com/products/immuno-plus",
+    "category": "Immunity",
+    "ingredients": [
+      "Giloy",
+      "Tulsi",
+      "Amla",
+      "Ashwagandha",
+      "Haldi",
+      "Kalmegh",
+      "Mulethi"
+    ],
+    "benefits": [
+      "Immune system support",
+      "Respiratory wellness",
+      "Antioxidant defense",
+      "Pitta-Kapha balance"
+    ],
+    "doshas": [
+      "vata",
+      "pitta",
+      "kapha"
+    ],
+    "dosha_balance": "Balances all three doshas — Giloy and Tulsi cool excess Pitta, Ashwagandha grounds Vata, and Kalmegh with Haldi clear Kapha congestion, strengthening overall immunity.",
+    "seo_title": "Age Ayurveda Immuno Plus Capsules | 7-Herb Daily Immune & Respiratory Support",
+    "nighantu_reference_url": "https://nighantu.ageayurveda.com/herb/guduchi/",
+    "compliance_status": "PASSED_AYUSH_GOOGLE_MERCHANT"
+  },
+  {
+    "id": "3",
+    "name": "Acid Relief",
+    "slug": "acid-relief",
+    "description": "A cooling classical botanical formulation containing Amla, Haritaki, and traditional Avipattikar herbs. Promotes digestive comfort after meals, supports normal gastric acidity balance, and soothes Pitta-related internal heat. Does not inhibit natural digestive agni. Manufactured by Nitya Naturals Pvt Ltd, Prayagraj under AYUSH license.",
+    "price": 479,
+    "image_url": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC_3084.jpg?v=1760359362",
+    "shopify_url": "https://ageayurveda.com/products/acid-relief",
+    "category": "Digestive Health",
+    "ingredients": [
+      "Avipattikar herbs",
+      "Amla",
+      "Haritaki"
+    ],
+    "benefits": [
+      "Digestive comfort after meals",
+      "Normal gastric balance",
+      "Cooling Pitta shamana",
+      "Supports healthy agni"
+    ],
+    "doshas": [
+      "pitta"
+    ],
+    "dosha_balance": "Directly pacifies aggravated Pitta — the root cause of acidity and heartburn — using cooling Avipattikar herbs and Amla to restore digestive fire balance.",
+    "seo_title": "Age Ayurveda Acid Relief Capsules | Cooling Pitta Shamana & Digestive Fire Support",
+    "nighantu_reference_url": "https://nighantu.ageayurveda.com/formulation/avipattikar-churna/",
+    "compliance_status": "PASSED_AYUSH_GOOGLE_MERCHANT"
+  },
+  {
+    "id": "4",
+    "name": "Haridra",
+    "slug": "haridra",
+    "description": "Standardized high-potency Haridra (Curcuma longa) rhizome extract rich in natural curcuminoids. Supports joint flexibility, cellular antioxidant protection, and healthy skin vitality. Pacifies aggravated Vata and Kapha in musculoskeletal tissues. Manufactured by Nitya Naturals Pvt Ltd, Prayagraj under AYUSH license.",
+    "price": 485,
+    "image_url": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC04429.jpg?v=1756121096",
+    "shopify_url": "https://ageayurveda.com/products/haridra",
+    "category": "Joint Health",
+    "ingredients": [
+      "Turmeric",
+      "Curcumin"
+    ],
+    "benefits": [
+      "Joint flexibility and comfort",
+      "Antioxidant cellular defense",
+      "Skin vitality",
+      "Vata-Kapha balance"
+    ],
+    "doshas": [
+      "vata",
+      "kapha"
+    ],
+    "dosha_balance": "Pacifies Vata by easing joint pain and inflammation; reduces Kapha-driven stiffness and swelling through Curcumin's potent anti-inflammatory action.",
+    "seo_title": "Age Ayurveda Haridra Turmeric Capsules (500mg) | Curcumin Joint Mobility & Antioxidant Support",
+    "nighantu_reference_url": "https://nighantu.ageayurveda.com/herb/haridra/",
+    "compliance_status": "PASSED_AYUSH_GOOGLE_MERCHANT"
+  },
+  {
+    "id": "5",
+    "name": "Bowel Kare",
+    "slug": "bowel-kare",
+    "description": "Gentle, non-habit-forming herbal colon support incorporating Haritaki and classical carminative botanicals. Supports daily natural bowel elimination, promotes healthy intestinal motility, and pacifies Apana Vata. Manufactured by Nitya Naturals Pvt Ltd, Prayagraj under AYUSH license.",
+    "price": 467,
+    "image_url": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC_3024copy.jpg?v=1756121074",
+    "shopify_url": "https://ageayurveda.com/products/bowel-kare",
+    "category": "Digestive Health",
+    "ingredients": [
+      "Triphala herbs",
+      "Senna",
+      "Isabgol",
+      "Haritaki"
+    ],
+    "benefits": [
+      "Supports natural bowel regularity",
+      "Promotes colon cleansing",
+      "Non-habit forming digestive care",
+      "Apana Vata support"
+    ],
+    "doshas": [
+      "vata",
+      "pitta",
+      "kapha"
+    ],
+    "dosha_balance": "Restores digestive balance across all doshas — Triphala gently detoxifies, eases Vata-type constipation, cools Pitta-driven bloating, and clears Kapha stagnation in the gut.",
+    "seo_title": "Age Ayurveda Bowel Kare Capsules | Gentle Colon Cleansing & Regularity Support",
+    "nighantu_reference_url": "https://nighantu.ageayurveda.com/herb/haritaki/",
+    "compliance_status": "PASSED_AYUSH_GOOGLE_MERCHANT"
+  },
+  {
+    "id": "6",
+    "name": "Chyawanprash Avaleha",
+    "slug": "chyawanprash",
+    "description": "Authentic classical Rasayana paste prepared with wild-harvested fresh Amla (Phyllanthus emblica), clarified butter (ghee), raw honey, and over 40 traditional forest herbs. Rich in natural bioavailable Vitamin C. Supports seasonal immune resilience, respiratory vigor, and tissue nourishment (Ojas). Manufactured by Nitya Naturals Pvt Ltd, Prayagraj under classical AYUSH guidelines.",
+    "price": 375,
+    "image_url": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC_3009.jpg?v=1756121023",
+    "shopify_url": "https://ageayurveda.com/products/chyawanprash",
+    "category": "Immunity",
+    "ingredients": [
+      "Amla",
+      "Ashwagandha",
+      "Pippali",
+      "Guduchi",
+      "Shatavari"
+    ],
+    "benefits": [
+      "Classical Rasayana nourishment",
+      "Seasonal immune resilience",
+      "Upper respiratory support",
+      "Rich in natural Vitamin C"
+    ],
+    "doshas": [
+      "vata",
+      "pitta",
+      "kapha"
+    ],
+    "dosha_balance": "A Rasayana that balances all doshas — Amla cools Pitta, Ashwagandha grounds Vata, and Pippali stimulates Kapha, building holistic immunity and longevity.",
+    "seo_title": "Age Ayurveda Classical Chyawanprash Avaleha (500g) | Pure Amla Rasayana for Family Vitality",
+    "nighantu_reference_url": "https://nighantu.ageayurveda.com/formulation/chyawanprash/",
+    "compliance_status": "PASSED_AYUSH_GOOGLE_MERCHANT"
+  },
+  {
+    "id": "7",
+    "name": "Chyawan Cap",
+    "slug": "chyawan-cap",
+    "description": "The traditional therapeutic essence of Chyawanprash Rasayana encapsulated in convenient, sugar-free vegetable capsules. Ideal for modern schedules and diabetic lifestyle regimens. Supports cellular vitality, metabolic stamina, and respiratory health. Manufactured by Nitya Naturals Pvt Ltd, Prayagraj.",
+    "price": 339,
+    "image_url": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC_3016.jpg?v=1756121109",
+    "shopify_url": "https://ageayurveda.com/products/chyawan-cap",
+    "category": "Immunity",
+    "ingredients": [
+      "Chyawanprash extract",
+      "Amla"
+    ],
+    "benefits": [
+      "Convenient daily Rasayana",
+      "Sugar-free immunity formula",
+      "Metabolic stamina",
+      "Respiratory support"
+    ],
+    "doshas": [
+      "vata",
+      "pitta",
+      "kapha"
+    ],
+    "dosha_balance": "Delivers tridoshic Rasayana benefits — Amla pacifies Pitta, while the Chyawanprash blend grounds Vata and clears Kapha for balanced immunity on the go.",
+    "seo_title": "Age Ayurveda Chyawan Cap Capsules | Convenient Chyawanprash Extract on the Go",
+    "nighantu_reference_url": "https://nighantu.ageayurveda.com/formulation/chyawanprash/",
+    "compliance_status": "PASSED_AYUSH_GOOGLE_MERCHANT"
+  },
+  {
+    "id": "8",
+    "name": "Natural Sleep Aid",
+    "slug": "natural-sleep-aid",
+    "description": "Non-sedating herbal evening formulation featuring Indian Valerian (Tagara), Jatamansi, and Ashwagandha. Calms an overactive nervous system, eases racing thoughts, and supports natural circadian sleep cycles without morning grogginess. Pacifies Prana and Vyana Vata. Manufactured by Nitya Naturals Pvt Ltd, Prayagraj under AYUSH license.",
+    "price": 899,
+    "image_url": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC_3045copy.jpg?v=1756120146",
+    "shopify_url": "https://ageayurveda.com/products/natural-sleep-aid",
+    "category": "Sleep & Stress",
+    "ingredients": [
+      "Ashwagandha",
+      "Brahmi",
+      "Jatamansi",
+      "Tagara"
+    ],
+    "benefits": [
+      "Promotes restful natural sleep cycles",
+      "Eases daily mental restlessness",
+      "Non-groggy waking",
+      "Vata calming support"
+    ],
+    "doshas": [
+      "vata",
+      "pitta"
+    ],
+    "dosha_balance": "Calms aggravated Vata — the primary cause of insomnia and restlessness — while Brahmi and Jatamansi cool Pitta-driven anxiety, restoring natural sleep cycles.",
+    "seo_title": "Age Ayurveda Natural Sleep Aid Capsules | Tagara & Ashwagandha Restful Night Formula",
+    "nighantu_reference_url": "https://nighantu.ageayurveda.com/herb/tagara/",
+    "compliance_status": "PASSED_AYUSH_GOOGLE_MERCHANT"
+  },
+  {
+    "id": "9",
+    "name": "ADHD Ease",
+    "slug": "adhd-ease",
+    "description": "A classical six-herb Medhya Rasayana formulation featuring Brahmi (Bacopa monnieri), Shankhpushpi, and Mandukaparni. Supports mental alertness, sustained task focus, and emotional composure. Formulated to balance mental agitation (Chitta Vritti) while avoiding lethargy. Manufactured by Nitya Naturals Pvt Ltd, Prayagraj. Note: Supportive wellness formulation, not a prescription alternative.",
+    "price": 960,
+    "image_url": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC_3054copy.jpg?v=1756119810",
+    "shopify_url": "https://ageayurveda.com/products/adhd-ease",
+    "category": "Brain Health",
+    "ingredients": [
+      "Brahmi",
+      "Tagar",
+      "Jyotishmati",
+      "Shankhpushpi",
+      "Vacha",
+      "Ashwagandha"
+    ],
+    "benefits": [
+      "Cognitive clarity & focus",
+      "Supports calm mental attention",
+      "Medhya Rasayana brain tonic",
+      "Non-drowsy"
+    ],
+    "doshas": [
+      "vata",
+      "pitta"
+    ],
+    "dosha_balance": "Settles Vata-driven scattered attention and restlessness; cools Pitta-related mental agitation using Medhya (brain-nourishing) herbs like Brahmi and Shankhpushpi.",
+    "seo_title": "Age Ayurveda Medhya Rasayana Capsules | Traditional Cognitive Focus & Calm Support",
+    "nighantu_reference_url": "https://nighantu.ageayurveda.com/herb/brahmi/",
+    "compliance_status": "PASSED_AYUSH_GOOGLE_MERCHANT"
+  },
+  {
+    "id": "10",
+    "name": "Sugar Formula",
+    "slug": "sugar-formula",
+    "description": "A synergistic blend of Meshashringi (Gymnema sylvestre), Jamun seed, Vijaysar, and Karela. Traditionally used in Ayurveda to maintain healthy glucose metabolism within normal limits and support pancreatic digestive fire (Agni). Kapha-Pitta pacifying. Manufactured by Nitya Naturals Pvt Ltd, Prayagraj under AYUSH license.",
+    "price": 719,
+    "image_url": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC_3051.jpg?v=1756121056",
+    "shopify_url": "https://ageayurveda.com/products/sugar-formula",
+    "category": "Blood Sugar",
+    "ingredients": [
+      "Karela",
+      "Jamun",
+      "Gudmar",
+      "Neem",
+      "Methi",
+      "Vijaysar"
+    ],
+    "benefits": [
+      "Maintains healthy glucose balance",
+      "Pancreatic Agni support",
+      "Traditional Kapha-Pitta shamana",
+      "Supports carbohydrate metabolism"
+    ],
+    "doshas": [
+      "kapha",
+      "pitta"
+    ],
+    "dosha_balance": "Addresses Kapha-type metabolic sluggishness and Pitta-driven metabolic heat — Karela and Gudmar support pancreatic function while Neem and Methi help regulate blood sugar.",
+    "seo_title": "Age Ayurveda Sugar Formula Capsules | Madhumeha Shamana & Glucose Metabolism Support",
+    "nighantu_reference_url": "https://nighantu.ageayurveda.com/herb/meshashringi/",
+    "compliance_status": "PASSED_AYUSH_GOOGLE_MERCHANT"
+  },
+  {
+    "id": "11",
+    "name": "Yastimadhu",
+    "slug": "yastimadhu",
+    "description": "Pure Yashtimadhu (Licorice / Glycyrrhiza glabra) root powder. Soothes irritated vocal cords and upper respiratory mucous membranes, promotes gastric lining comfort, and balances excess Pitta and Vata doshas. Manufactured by Nitya Naturals Pvt Ltd, Prayagraj under AYUSH license.",
+    "price": 439,
+    "image_url": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC_3040copy.jpg?v=1756121004",
+    "shopify_url": "https://ageayurveda.com/products/yastimadhu",
+    "category": "Respiratory Health",
+    "ingredients": [
+      "Yashtimadhu"
+    ],
+    "benefits": [
+      "Soothes throat & vocal cords",
+      "Upper respiratory comfort",
+      "Gastric mucosal support",
+      "Sweet cooling Pitta pacifier"
+    ],
+    "doshas": [
+      "vata",
+      "pitta"
+    ],
+    "dosha_balance": "Soothes Vata-type dryness in the throat and respiratory tract; cools Pitta-driven irritation in the stomach and voice with the demulcent properties of Yashtimadhu.",
+    "seo_title": "Age Ayurveda Yashtimadhu Capsules (500mg) | Glycyrrhiza Glabra Throat & Mucosal Support",
+    "nighantu_reference_url": "https://nighantu.ageayurveda.com/herb/yashtimadhu/",
+    "compliance_status": "PASSED_AYUSH_GOOGLE_MERCHANT"
+  },
+  {
+    "id": "12",
+    "name": "Grow and Glow Hair Oil",
+    "slug": "grow-and-glow-hair-oil",
+    "description": "Traditional Kshirapak vidhi botanical hair oil infused with Bhringraj, Amla, Brahmi, and pure cold-pressed sesame oil. Deeply nourishes hair roots, conditions dry scalp tissue, and promotes lustrous, strong hair texture. Manufactured by Nitya Naturals Pvt Ltd, Prayagraj under AYUSH manufacturing standards.",
+    "price": 399,
+    "image_url": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC_3032copy.jpg?v=1756121042",
+    "shopify_url": "https://ageayurveda.com/products/grow-and-glow-hair-oil",
+    "category": "Hair Care",
+    "ingredients": [
+      "Bhringraj",
+      "Amla",
+      "Brahmi",
+      "Coconut oil"
+    ],
+    "benefits": [
+      "Deep follicle nourishment",
+      "Scalp tissue conditioning",
+      "Supports natural shine & strength",
+      "Classical Ayurvedic formula"
+    ],
+    "doshas": [
+      "pitta",
+      "vata"
+    ],
+    "dosha_balance": "Cools excess Pitta — the main cause of premature greying and hair fall — while Bhringraj and Amla nourish Vata-depleted scalp and strengthen hair roots.",
+    "seo_title": "Age Ayurveda Grow & Glow Hair Oil (100ml) | Bhringraj & Amla Classical Scalp Nourishment",
+    "nighantu_reference_url": "https://nighantu.ageayurveda.com/herb/bhringraj/",
+    "compliance_status": "PASSED_AYUSH_GOOGLE_MERCHANT"
+  },
+  {
+    "id": "13",
+    "name": "Nasja Oil",
+    "slug": "nasja-oil",
+    "description": "Classical herbal oil prepared for traditional daily Nasya Dinacharya practice. Lubricates dry nasal passages, clears accumulated Kapha congestion, and supports unobstructed breathing and clear mental sensory perception. Manufactured by Nitya Naturals Pvt Ltd, Prayagraj.",
+    "price": 279,
+    "image_url": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC04407.jpg?v=1756121147",
+    "shopify_url": "https://ageayurveda.com/products/nasja-oil",
+    "category": "Respiratory Health",
+    "ingredients": [
+      "Sesame oil",
+      "Brahmi",
+      "Eucalyptus"
+    ],
+    "benefits": [
+      "Daily nasal lubrication",
+      "Clears upper sinus congestion",
+      "Promotes head and sensory clarity",
+      "Classical Dinacharya care"
+    ],
+    "doshas": [
+      "vata",
+      "kapha"
+    ],
+    "dosha_balance": "Lubricates Vata-dried nasal passages and clears Kapha congestion in the sinuses through traditional Nasya therapy, restoring clear breathing and mental clarity.",
+    "seo_title": "Age Ayurveda Nasya Oil Drops (30ml) | Classical Nasal Passage Lubrication & Clarity",
+    "nighantu_reference_url": "https://nighantu.ageayurveda.com/formulation/anu-taila/",
+    "compliance_status": "PASSED_AYUSH_GOOGLE_MERCHANT"
+  },
+  {
+    "id": "14",
+    "name": "Nitya Naturals Balm",
+    "slug": "nitya-naturals-balm",
+    "description": "Topical herbal balm formulated with Eucalyptus oil, Camphor, Menthol, and soothing Ayurvedic extracts. Provides a warming and cooling physical sensation to comfort tired muscles, ease neck and forehead tension, and support joint ease after exertion. Manufactured by Nitya Naturals Pvt Ltd, Prayagraj under AYUSH license.",
+    "price": 239,
+    "image_url": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC_3081.jpg?v=1756119981",
+    "shopify_url": "https://ageayurveda.com/products/nitya-naturals-balm",
+    "category": "Pain Relief",
+    "ingredients": [
+      "Eucalyptus",
+      "Camphor",
+      "Menthol",
+      "Ayurvedic herbs"
+    ],
+    "benefits": [
+      "Comforts overworked muscles",
+      "Eases forehead & neck tension",
+      "Cooling & warming sensation",
+      "Quick topical absorption"
+    ],
+    "doshas": [
+      "vata",
+      "kapha"
+    ],
+    "dosha_balance": "Warms and relieves Vata-type stiffness, joint pain, and muscle tension; penetrates and clears Kapha-driven heaviness using Eucalyptus, Camphor, and Menthol.",
+    "seo_title": "Age Ayurveda Nitya Naturals Herbal Balm (25g) | Eucalyptus & Camphor Muscle Comfort",
+    "nighantu_reference_url": "https://nighantu.ageayurveda.com/device/shirodhara-pot-apparatus/",
+    "compliance_status": "PASSED_AYUSH_GOOGLE_MERCHANT"
+  },
+  {
+    "id": "15",
+    "name": "Winerid",
+    "slug": "winerid",
+    "description": "A specialized blend of bitter and hepatoprotective herbs including Kalmegh, Bhumyamalaki, and Katuki. Supports the liver's innate detoxification pathways, promotes metabolic balance, and fosters mental resilience during personal lifestyle wellness transitions. Manufactured by Nitya Naturals Pvt Ltd, Prayagraj under AYUSH license.",
+    "price": 899,
+    "image_url": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC_3097.jpg?v=1756120835",
+    "shopify_url": "https://ageayurveda.com/products/winerid",
+    "category": "De-addiction",
+    "ingredients": [
+      "Ayurvedic herbs"
+    ],
+    "benefits": [
+      "Supports liver detoxification pathways",
+      "Metabolic balance",
+      "Aids healthy lifestyle transitions",
+      "Pitta-Kapha cleansing"
+    ],
+    "doshas": [
+      "pitta",
+      "kapha"
+    ],
+    "dosha_balance": "Cools Pitta-aggravated liver stress from substance use; clears Kapha-type mental dullness and lethargy, supporting natural detoxification and mental clarity.",
+    "seo_title": "Age Ayurveda Winerid Capsules | Herbal Liver Cleansing & Lifestyle Transition Support",
+    "nighantu_reference_url": "https://nighantu.ageayurveda.com/herb/kalmegh/",
+    "compliance_status": "PASSED_AYUSH_GOOGLE_MERCHANT"
+  },
+  {
+    "id": "16",
+    "name": "Nutrijam",
+    "slug": "nutrijam",
+    "description": "A nutritious, fruit-based Rasayana preserve combining whole Amla fruit pulp with select rejuvenating forest botanicals. Provides daily dietary antioxidants and micronutrients for growing children and active adults in an appealing natural jam texture. Manufactured by Nitya Naturals Pvt Ltd, Prayagraj.",
+    "price": 493,
+    "image_url": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/DSC_3020copy.jpg?v=1756121159",
+    "shopify_url": "https://ageayurveda.com/products/nutrijam",
+    "category": "Immunity",
+    "ingredients": [
+      "Amla",
+      "Chyawanprash herbs"
+    ],
+    "benefits": [
+      "Daily herbal family nutrition",
+      "Natural Amla antioxidant preserve",
+      "Supports daily vitality & energy",
+      "Delicious natural taste"
+    ],
+    "doshas": [
+      "vata",
+      "pitta",
+      "kapha"
+    ],
+    "dosha_balance": "A tridoshic Rasayana — Amla-rich formulation cools Pitta, nourishes Vata-depleted tissues, and stimulates Kapha-sluggish metabolism, providing balanced nutrition and immunity.",
+    "seo_title": "Age Ayurveda Nutrijam Herbal Preserve (500g) | Delicious Everyday Amla & Herbal Nutrition",
+    "nighantu_reference_url": "https://nighantu.ageayurveda.com/formulation/chyawanprash/",
+    "compliance_status": "PASSED_AYUSH_GOOGLE_MERCHANT"
+  },
+  {
+    "id": "17",
+    "name": "Immunity Kit",
+    "slug": "immunity-kit",
+    "description": "A comprehensive daily wellness bundle pairing classical Chyawanprash Avaleha with Immuno Plus herbal capsules and protective botanical extracts. Formulated to provide multi-systemic seasonal support across Vata, Pitta, and Kapha body types. Manufactured by Nitya Naturals Pvt Ltd, Prayagraj under AYUSH standards.",
+    "price": 1119,
+    "image_url": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/Layer2_f8e2cc66-56c4-4694-a40a-23bb36e97695.jpg?v=1760348635",
+    "shopify_url": "https://ageayurveda.com/products/immunity-kit",
+    "category": "Immunity",
+    "ingredients": [
+      "Multiple herbs"
+    ],
+    "benefits": [
+      "Multi-systemic immune support",
+      "Tridoshic seasonal wellness",
+      "Complete family health kit",
+      "Pure classical formulations"
+    ],
+    "doshas": [
+      "vata",
+      "pitta",
+      "kapha"
+    ],
+    "dosha_balance": "A comprehensive tridoshic immunity bundle — grounds Vata weakness, cools Pitta inflammation, and clears Kapha congestion for complete respiratory and immune protection.",
+    "seo_title": "Age Ayurveda Complete Immunity Wellness Bundle | 3-Piece Tridoshic Care Collection",
+    "nighantu_reference_url": "https://nighantu.ageayurveda.com/formulation/chyawanprash/",
+    "compliance_status": "PASSED_AYUSH_GOOGLE_MERCHANT"
+  },
+  {
+    "id": "18",
+    "name": "Nava Tongue Cleaner",
+    "slug": "nava-tongue-cleaner",
+    "description": "Surgically crafted ergonomic tongue scraper featuring dual cleaning edges and an easy one-handed grip. Gently removes morning oral plaque and Ama (metabolic waste) from the tongue surface to promote fresh breath and restore accurate taste bud acuity. Essential tool for classical Ayurvedic daily Dinacharya.",
+    "price": 179,
+    "image_url": "https://cdn.shopify.com/s/files/1/0950/5715/0251/files/Tongue_Cleaner_Creative.jpg?v=1756566470",
+    "shopify_url": "https://ageayurveda.com/products/nava-tongue-cleaner",
+    "category": "Oral Health",
+    "ingredients": [],
+    "benefits": [
+      "Gentle Ama removal from tongue",
+      "Restores taste bud acuity",
+      "Promotes long-lasting fresh breath",
+      "Durable hygienic ergonomic design"
+    ],
+    "doshas": [
+      "vata",
+      "pitta",
+      "kapha"
+    ],
+    "dosha_balance": "Removes Ama (toxin buildup) from the tongue that aggravates all three doshas, supporting the Ayurvedic Dinacharya practice of daily oral detoxification.",
+    "seo_title": "Age Ayurveda Nava Ergonomic Tongue Cleaner | 2-in-1 Dual-Edge Oral Dinacharya Tool",
+    "nighantu_reference_url": "https://nighantu.ageayurveda.com/device/tongue-cleaner/",
+    "compliance_status": "PASSED_AYUSH_GOOGLE_MERCHANT"
+  }
+]
