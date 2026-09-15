@@ -1,23 +1,25 @@
----
-title: "Wound Healing Agents"
-slug: "wound-healing"
-kind: "hub"
-section: "_Hub"
-category: "Pharmacology"
-subcategory: "Wound-Healing.md"
-group: ""
-answer: "Wound Healing Agents is a reference entry in the Nighantu. 174 herbs and compounds with wound healing activity across traditions Agnikarna — Gloriosa superba L. (Agnikumarika/Agnimukhi); also associated with Litsea species in some texts Aivana — Salvia officinalis L."
-botanical: ""
-family: ""
-sanskrit: ""
-ayurvedicCategory: ""
-whoStatus: ""
+---title: Wound Healing Agents
+slug: wound-healing
+kind: hub
+section: _Hub
+category: Pharmacology
+subcategory: Wound-Healing.md
+group: ''
+answer: Wound healing botanicals accelerate cutaneous tissue regeneration, promote fibroblast migration, and enhance collagen cross-linking while exerting local antimicrobial and anti-hemorrhagic barrier actions. In classical Ayurvedic surgery (Shalya Tantra), these are categorized as Ropana (healing) and Vrana Shodhana (wound-cleansing) substances, led by Jatyadi taila formulations, Lodhra, Yashtimadhu, and pure cold-pressed sesame oil.
+botanical: ''
+family: ''
+sanskrit: ''
+ayurvedicCategory: ''
+whoStatus: ''
 aliases: []
-tags: ["hub", "pharmacology", "wound-healing"]
+tags:
+- hub
+- pharmacology
+- wound-healing
 sources: []
 productHints: []
 words: 342
-srcRel: "_Hub/Pharmacology/Wound-Healing.md"
+srcRel: _Hub/Pharmacology/Wound-Healing.md
 ---
 *174 herbs and compounds with wound healing activity across traditions*
 

@@ -1,23 +1,25 @@
----
-title: "Ellagic acid"
-slug: "ellagic-acid"
-kind: "hub"
-section: "_Hub"
-category: "Compounds"
-subcategory: "Ellagic-acid.md"
-group: ""
-answer: "Ellagic acid is a reference entry in the Nighantu. Found in 73 entries across the catalogue Abhayarishta Agastya Haritaki Rasayana Akshotaka — Juglans regia L. Amalaka Rasayana Amalaki Rasayana Amla — Phyllanthus emblica (syn."
-botanical: ""
-family: ""
-sanskrit: ""
-ayurvedicCategory: ""
-whoStatus: ""
+---title: Ellagic acid
+slug: ellagic-acid
+kind: hub
+section: _Hub
+category: Compounds
+subcategory: Ellagic-acid.md
+group: ''
+answer: Ellagic acid is a natural dimeric gallic acid polyphenol and the bioactive hydrolytic derivative of ellagitannins. Present in high concentrations in Amalaki, Pomegranate (Dadima), and Triphala, it provides profound antioxidant, chemopreventive, and cardioprotective benefits by attenuating cellular lipid peroxidation and stabilizing collagen cross-linking in connective tissues.
+botanical: ''
+family: ''
+sanskrit: ''
+ayurvedicCategory: ''
+whoStatus: ''
 aliases: []
-tags: ["hub", "compound", "ellagic-acid"]
+tags:
+- hub
+- compound
+- ellagic-acid
 sources: []
 productHints: []
 words: 320
-srcRel: "_Hub/Compounds/Ellagic-acid.md"
+srcRel: _Hub/Compounds/Ellagic-acid.md
 ---
 *Found in 73 entries across the catalogue*
 

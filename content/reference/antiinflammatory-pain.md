@@ -1,23 +1,25 @@
----
-title: "Anti inflammatory & Pain"
-slug: "antiinflammatory-pain"
-kind: "hub"
-section: "_Hub"
-category: "Body-Systems"
-subcategory: "Antiinflammatory--Pain.md"
-group: ""
-answer: "Anti inflammatory & Pain is a reference entry in the Nighantu. Cross-tradition therapeutic reference — 1057 related entries Abhayarishta — (Laxative, Diuretic, Anti-inflammatory) Abhraka Bhasma — (Antioxidant, Rasayana, Anti-inflammatory) Adhaki — Cajanus cajan (L.) Millsp."
-botanical: ""
-family: ""
-sanskrit: ""
-ayurvedicCategory: ""
-whoStatus: ""
+---title: Anti inflammatory & Pain
+slug: antiinflammatory-pain
+kind: hub
+section: _Hub
+category: Body-Systems
+subcategory: Antiinflammatory--Pain.md
+group: ''
+answer: Anti-inflammatory and analgesic compounds provide dual symptomatic relief and systemic modulation of pain signaling. They suppress local tissue inflammation while modulating nociceptive sensory input through vanilloid receptor and central serotonergic pathways. Classically classified as Vedanasthapana (pain-subsiding) and Shothahara, key formulations combine Shallaki, Guggulu, Nirgundi, and Eranda to pacify aggravated Vata in musculoskeletal tissues.
+botanical: ''
+family: ''
+sanskrit: ''
+ayurvedicCategory: ''
+whoStatus: ''
 aliases: []
-tags: ["hub", "body-system", "antiinflammatory--pain"]
+tags:
+- hub
+- body-system
+- antiinflammatory--pain
 sources: []
 productHints: []
 words: 581
-srcRel: "_Hub/Body-Systems/Antiinflammatory--Pain.md"
+srcRel: _Hub/Body-Systems/Antiinflammatory--Pain.md
 ---
 *Cross-tradition therapeutic reference — 1057 related entries*
 

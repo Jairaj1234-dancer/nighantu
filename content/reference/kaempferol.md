@@ -1,23 +1,25 @@
----
-title: "Kaempferol"
-slug: "kaempferol"
-kind: "hub"
-section: "_Hub"
-category: "Compounds"
-subcategory: "Kaempferol.md"
-group: ""
-answer: "Kaempferol is a reference entry in the Nighantu. Found in 91 entries across the catalogue Agastya — Sesbania grandiflora (L.) Pers. Arka Pushpa Ashoka Ashwattha — Ficus religiosa L. Asthishrinkhala — Cissus quadrangularis L."
-botanical: ""
-family: ""
-sanskrit: ""
-ayurvedicCategory: ""
-whoStatus: ""
+---title: Kaempferol
+slug: kaempferol
+kind: hub
+section: _Hub
+category: Compounds
+subcategory: Kaempferol.md
+group: ''
+answer: Kaempferol is a natural dietary flavonol with documented antioxidant, anti-inflammatory, and neuroprotective properties. It modulates multiple cellular signaling pathways, including MAPK and PI3K/Akt, inducing apoptosis in aberrant cells while protecting pancreatic beta cells and neurons from oxidative apoptosis. Abundant in medicinal plants such as Moringa, Sesbania (Agastya), and sacred Ficus species.
+botanical: ''
+family: ''
+sanskrit: ''
+ayurvedicCategory: ''
+whoStatus: ''
 aliases: []
-tags: ["hub", "compound", "kaempferol"]
+tags:
+- hub
+- compound
+- kaempferol
 sources: []
 productHints: []
 words: 370
-srcRel: "_Hub/Compounds/Kaempferol.md"
+srcRel: _Hub/Compounds/Kaempferol.md
 ---
 *Found in 91 entries across the catalogue*
 

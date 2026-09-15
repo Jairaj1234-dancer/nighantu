@@ -1,23 +1,25 @@
----
-title: "Laxative Agents"
-slug: "laxative"
-kind: "hub"
-section: "_Hub"
-category: "Pharmacology"
-subcategory: "Laxative.md"
-group: ""
-answer: "Laxative Agents is a reference entry in the Nighantu. 81 herbs and compounds with laxative activity across traditions Abhayarishta Agastya Haritaki Rasayana Aloe Vera — Aloe barbadensis Mill. Aloe vera (L.) Burm.f.) Amlavetasa — Garcinia pedunculata Roxb."
-botanical: ""
-family: ""
-sanskrit: ""
-ayurvedicCategory: ""
-whoStatus: ""
+---title: Laxative Agents
+slug: laxative
+kind: hub
+section: _Hub
+category: Pharmacology
+subcategory: Laxative.md
+group: ''
+answer: Laxative and bowel-regulating botanicals soften fecal mass, stimulate colonic peristaltic contractions, and ensure complete, non-griping elimination. Classically designated as Anulomana and Rechana dravyas, gentle non-habit-forming bowel tonics include Haritaki (Terminalia chebula), Amla, Triphala, and Isabgol husk, which regulate Apana Vata without causing dehydration or damaging normal intestinal mucosa.
+botanical: ''
+family: ''
+sanskrit: ''
+ayurvedicCategory: ''
+whoStatus: ''
 aliases: []
-tags: ["hub", "pharmacology", "laxative"]
+tags:
+- hub
+- pharmacology
+- laxative
 sources: []
 productHints: []
 words: 291
-srcRel: "_Hub/Pharmacology/Laxative.md"
+srcRel: _Hub/Pharmacology/Laxative.md
 ---
 *81 herbs and compounds with laxative activity across traditions*
 

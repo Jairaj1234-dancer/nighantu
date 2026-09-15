@@ -1,23 +1,25 @@
----
-title: "Medhya (Nootropic) Agents"
-slug: "medhya-nootropic"
-kind: "hub"
-section: "_Hub"
-category: "Pharmacology"
-subcategory: "Medhya-Nootropic.md"
-group: ""
-answer: "Medhya (Nootropic) Agents is a reference entry in the Nighantu. 34 herbs and compounds with medhya (nootropic) activity across traditions Akarakarabha — Anacyclus pyrethrum (L.) Lag. Akhuparni — Ipomoea reniformis Choisy (syn."
-botanical: ""
-family: ""
-sanskrit: ""
-ayurvedicCategory: ""
-whoStatus: ""
+---title: Medhya (Nootropic) Agents
+slug: medhya-nootropic
+kind: hub
+section: _Hub
+category: Pharmacology
+subcategory: Medhya-Nootropic.md
+group: ''
+answer: Medhya nootropic agents are cognitive enhancers that cross the blood-brain barrier to support memory retention (Dhi, Dhriti, Smriti), synaptic plasticity, and neuronal repair. They modulate central neurotransmission—particularly cholinergic and GABAergic pathways—while reducing cerebral oxidative stress and neuroinflammation. Foremost classical Medhya Rasayanas include Brahmi (Bacopa monnieri), Shankhpushpi, Mandukaparni, and Yashtimadhu, widely evaluated for neuroprotection and executive focus.
+botanical: ''
+family: ''
+sanskrit: ''
+ayurvedicCategory: ''
+whoStatus: ''
 aliases: []
-tags: ["hub", "pharmacology", "medhya-nootropic"]
+tags:
+- hub
+- pharmacology
+- medhya-nootropic
 sources: []
 productHints: []
 words: 214
-srcRel: "_Hub/Pharmacology/Medhya-Nootropic.md"
+srcRel: _Hub/Pharmacology/Medhya-Nootropic.md
 ---
 *34 herbs and compounds with medhya (nootropic) activity across traditions*
 

@@ -1,23 +1,25 @@
----
-title: "Catechin"
-slug: "catechin"
-kind: "hub"
-section: "_Hub"
-category: "Compounds"
-subcategory: "Catechin.md"
-group: ""
-answer: "Catechin is a reference entry in the Nighantu. Found in 43 entries across the catalogue Ashoka Ashoka Ghrita Ashokarishta Babbula — Acacia nilotica (L.) Delile (syn. Vachellia nilotica) Bitter Gourd Herb Dadima Twak — Punica granatum L."
-botanical: ""
-family: ""
-sanskrit: ""
-ayurvedicCategory: ""
-whoStatus: ""
+---title: Catechin
+slug: catechin
+kind: hub
+section: _Hub
+category: Compounds
+subcategory: Catechin.md
+group: ''
+answer: Catechins are natural flavan-3-ol polyphenols renowned for their potent free-radical scavenging, cardioprotective, and astringent (Kashaya) properties. They inhibit LDL oxidation, support vascular endothelial elasticity, and promote mucosal tissue healing. In classical Ayurvedic pharmacognosy, catechins are concentrated in Khadira (Acacia catechu) and various medicinal barks indicated for oral hygiene and wound healing.
+botanical: ''
+family: ''
+sanskrit: ''
+ayurvedicCategory: ''
+whoStatus: ''
 aliases: []
-tags: ["hub", "compound", "catechin"]
+tags:
+- hub
+- compound
+- catechin
 sources: []
 productHints: []
 words: 229
-srcRel: "_Hub/Compounds/Catechin.md"
+srcRel: _Hub/Compounds/Catechin.md
 ---
 *Found in 43 entries across the catalogue*
 

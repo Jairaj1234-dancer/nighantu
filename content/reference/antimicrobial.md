@@ -1,23 +1,25 @@
----
-title: "Antimicrobial Agents"
-slug: "antimicrobial"
-kind: "hub"
-section: "_Hub"
-category: "Pharmacology"
-subcategory: "Antimicrobial.md"
-group: ""
-answer: "Antimicrobial Agents is a reference entry in the Nighantu. 417 herbs and compounds with antimicrobial activity across traditions Adhaki — Cajanus cajan (L.) Millsp. Agnikarna — Gloriosa superba L. (Agnikumarika/Agnimukhi); also associated with Litsea species in some texts Aivana — Salvia officinalis L."
-botanical: ""
-family: ""
-sanskrit: ""
-ayurvedicCategory: ""
-whoStatus: ""
+---title: Antimicrobial Agents
+slug: antimicrobial
+kind: hub
+section: _Hub
+category: Pharmacology
+subcategory: Antimicrobial.md
+group: ''
+answer: Antimicrobial botanicals exhibit broad-spectrum bactericidal, antifungal, and antiviral activities by disrupting microbial cell wall permeability, inhibiting bacterial protein translation, and degrading biofilm formation without inducing synthetic resistance. Classically termed Krimighna dravyas (parasite and pathogen destroyers), premier representatives include Neem (Azadirachta indica), Haridra, Vidanga (Embelia ribes), and Tulsi.
+botanical: ''
+family: ''
+sanskrit: ''
+ayurvedicCategory: ''
+whoStatus: ''
 aliases: []
-tags: ["hub", "pharmacology", "antimicrobial"]
+tags:
+- hub
+- pharmacology
+- antimicrobial
 sources: []
 productHints: []
 words: 304
-srcRel: "_Hub/Pharmacology/Antimicrobial.md"
+srcRel: _Hub/Pharmacology/Antimicrobial.md
 ---
 *417 herbs and compounds with antimicrobial activity across traditions*
 

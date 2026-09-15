@@ -1,23 +1,25 @@
----
-title: "Women's Health"
-slug: "womens-health"
-kind: "hub"
-section: "_Hub"
-category: "Body-Systems"
-subcategory: "Womens-Health.md"
-group: ""
-answer: "Women's Health is a reference entry in the Nighantu. Cross-tradition therapeutic reference — 130 related entries Agnikarna — Gloriosa superba L. (Agnikumarika/Agnimukhi); also associated with Litsea species in some texts — (Antioxidant, Anticancer, Wound Healing) Ambasthaki — Cissampelos pareira L."
-botanical: ""
-family: ""
-sanskrit: ""
-ayurvedicCategory: ""
-whoStatus: ""
+---title: Women's Health
+slug: womens-health
+kind: hub
+section: _Hub
+category: Body-Systems
+subcategory: Womens-Health.md
+group: ''
+answer: Women's health botanicals regulate hypothalamic-pituitary-ovarian (HPO) axis function, balance endogenous estrogen and progesterone receptor signaling, and tone uterine smooth muscle tissues. Classically recognized as Artavajanana and Stanyajanana dravyas, premier remedies center on Shatavari (Asparagus racemosus), Ashoka (Saraca asoca) bark, and Lodhra, supporting menstrual regularity, reproductive vitality, and menopausal ease.
+botanical: ''
+family: ''
+sanskrit: ''
+ayurvedicCategory: ''
+whoStatus: ''
 aliases: []
-tags: ["hub", "body-system", "womens-health"]
+tags:
+- hub
+- body-system
+- womens-health
 sources: []
 productHints: []
 words: 337
-srcRel: "_Hub/Body-Systems/Womens-Health.md"
+srcRel: _Hub/Body-Systems/Womens-Health.md
 ---
 *Cross-tradition therapeutic reference — 130 related entries*
 

@@ -1,23 +1,25 @@
----
-title: "Men's Health & Vitality"
-slug: "mens-health-vitality"
-kind: "hub"
-section: "_Hub"
-category: "Body-Systems"
-subcategory: "Mens-Health--Vitality.md"
-group: ""
-answer: "Men's Health & Vitality is a reference entry in the Nighantu. Cross-tradition therapeutic reference — 83 related entries Agnitundi Vati — (Antispasmodic) Ajamoda Arka Ajwain — Trachyspermum ammi — (Antioxidant, Bronchodilator, Antidiabetic) Ajwain Herb — (Expectorant, Anti-inflammatory) Akarakarabha — Anacyclus pyrethrum (L.) Lag."
-botanical: ""
-family: ""
-sanskrit: ""
-ayurvedicCategory: ""
-whoStatus: ""
+---title: Men's Health & Vitality
+slug: mens-health-vitality
+kind: hub
+section: _Hub
+category: Body-Systems
+subcategory: Mens-Health--Vitality.md
+group: ''
+answer: Men's health and vitality botanicals enhance spermatogenesis, optimize free and total testosterone bioavailability, and protect testicular Leydig cells from oxidative damage. Termed Vajikarana and Shukra-janana in classical Ayurvedic texts, these premier aphrodisiac and restorative dravyas include Kapikacchu (Mucuna pruriens, rich in natural L-DOPA), Ashwagandha, Gokshura, and purified Shilajit, enhancing stamina, muscle tone, and reproductive vigor.
+botanical: ''
+family: ''
+sanskrit: ''
+ayurvedicCategory: ''
+whoStatus: ''
 aliases: []
-tags: ["hub", "body-system", "mens-health--vitality"]
+tags:
+- hub
+- body-system
+- mens-health--vitality
 sources: []
 productHints: []
 words: 437
-srcRel: "_Hub/Body-Systems/Mens-Health--Vitality.md"
+srcRel: _Hub/Body-Systems/Mens-Health--Vitality.md
 ---
 *Cross-tradition therapeutic reference — 83 related entries*
 

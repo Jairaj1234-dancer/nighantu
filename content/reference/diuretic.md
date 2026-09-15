@@ -1,23 +1,25 @@
----
-title: "Diuretic Agents"
-slug: "diuretic"
-kind: "hub"
-section: "_Hub"
-category: "Pharmacology"
-subcategory: "Diuretic.md"
-group: ""
-answer: "Diuretic Agents is a reference entry in the Nighantu. 135 herbs and compounds with diuretic activity across traditions Abhayarishta Agnimantha — Premna integrifolia (syn. Clerodendrum phlomidis) Ajwain — Trachyspermum ammi Akhuparni — Ipomoea reniformis Choisy (syn."
-botanical: ""
-family: ""
-sanskrit: ""
-ayurvedicCategory: ""
-whoStatus: ""
+---title: Diuretic Agents
+slug: diuretic
+kind: hub
+section: _Hub
+category: Pharmacology
+subcategory: Diuretic.md
+group: ''
+answer: Diuretic botanical agents promote the excretion of excess water and sodium through renal tubules without inducing secondary electrolyte depletion. They improve glomerular filtration rate and soothe urinary mucosal lining irritation. Known classically as Mutrala dravyas, the benchmark herbs are Gokshura, Punarnava, Trinapanchamoola (five classical sacred grasses), and Coriander seed infusions, routinely used for fluid retention and urinary tract comfort.
+botanical: ''
+family: ''
+sanskrit: ''
+ayurvedicCategory: ''
+whoStatus: ''
 aliases: []
-tags: ["hub", "pharmacology", "diuretic"]
+tags:
+- hub
+- pharmacology
+- diuretic
 sources: []
 productHints: []
 words: 333
-srcRel: "_Hub/Pharmacology/Diuretic.md"
+srcRel: _Hub/Pharmacology/Diuretic.md
 ---
 *135 herbs and compounds with diuretic activity across traditions*
 

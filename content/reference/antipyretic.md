@@ -1,23 +1,25 @@
----
-title: "Antipyretic Agents"
-slug: "antipyretic"
-kind: "hub"
-section: "_Hub"
-category: "Pharmacology"
-subcategory: "Antipyretic.md"
-group: ""
-answer: "Antipyretic Agents is a reference entry in the Nighantu. 128 herbs and compounds with antipyretic activity across traditions Akhuparni — Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.) Ambasthaki — Cissampelos pareira L."
-botanical: ""
-family: ""
-sanskrit: ""
-ayurvedicCategory: ""
-whoStatus: ""
+---title: Antipyretic Agents
+slug: antipyretic
+kind: hub
+section: _Hub
+category: Pharmacology
+subcategory: Antipyretic.md
+group: ''
+answer: Antipyretic botanicals reset the hypothalamic thermoregulatory set-point and clear systemic inflammatory pyrogens during febrile episodes. In classical Ayurveda, fever is Jwara—the primary somatic disease born from impaired digestive fire (Jatharagni) and disturbed Pitta-Kapha doshas. Jvarahara herbs like Kiratatikta (Swertia chirata), Kalmegh, Guduchi, and Parpata clear internal heat while restoring digestive metabolism.
+botanical: ''
+family: ''
+sanskrit: ''
+ayurvedicCategory: ''
+whoStatus: ''
 aliases: []
-tags: ["hub", "pharmacology", "antipyretic"]
+tags:
+- hub
+- pharmacology
+- antipyretic
 sources: []
 productHints: []
 words: 287
-srcRel: "_Hub/Pharmacology/Antipyretic.md"
+srcRel: _Hub/Pharmacology/Antipyretic.md
 ---
 *128 herbs and compounds with antipyretic activity across traditions*
 

@@ -1,23 +1,25 @@
----
-title: "Saponins"
-slug: "saponins"
-kind: "hub"
-section: "_Hub"
-category: "Compounds"
-subcategory: "Saponins.md"
-group: ""
-answer: "Saponins is a reference entry in the Nighantu. Found in 41 entries across the catalogue Alabu — Lagenaria siceraria (Molina) Standl. Devadali Dhamargava Dhanyamla — Fermented grain formulation (composite - Oryza sativa, Panicum sumatrense, Paspalum scrobiculatum, Zingiber officinale, Citrus aurantifolia, etc.) Dhatupaushtik Churna Gajapippali — Scindapsus officinalis (Roxb.) Schott Hijal Kadali Pushpa — Musa paradisiaca L."
-botanical: ""
-family: ""
-sanskrit: ""
-ayurvedicCategory: ""
-whoStatus: ""
+---title: Saponins
+slug: saponins
+kind: hub
+section: _Hub
+category: Compounds
+subcategory: Saponins.md
+group: ''
+answer: Saponins are high-molecular-weight amphiphilic glycosides possessing triterpenoid or steroidal aglycone cores. They exhibit notable expectorant, immunomodulatory, cholesterol-lowering, and membrane-permeabilizing properties. Key Ayurvedic adaptogenic and rejuvenating botanicals—including Shatavari (shatavarins), Gokshura, and Yashtimadhu (glycyrrhizin)—owe their systemic tonic actions to dense saponin fractions.
+botanical: ''
+family: ''
+sanskrit: ''
+ayurvedicCategory: ''
+whoStatus: ''
 aliases: []
-tags: ["hub", "compound", "saponins"]
+tags:
+- hub
+- compound
+- saponins
 sources: []
 productHints: []
 words: 264
-srcRel: "_Hub/Compounds/Saponins.md"
+srcRel: _Hub/Compounds/Saponins.md
 ---
 *Found in 41 entries across the catalogue*
 

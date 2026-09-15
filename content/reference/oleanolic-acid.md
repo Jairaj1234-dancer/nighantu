@@ -1,23 +1,25 @@
----
-title: "Oleanolic acid"
-slug: "oleanolic-acid"
-kind: "hub"
-section: "_Hub"
-category: "Compounds"
-subcategory: "Oleanolic-acid.md"
-group: ""
-answer: "Oleanolic acid is a reference entry in the Nighantu. Found in 47 entries across the catalogue Agastya — Sesbania grandiflora (L.) Pers. Apamarga — Achyranthes aspera L. Badara Bharangi — Clerodendrum serratum (L.) Moon Bhurja Chirayata Dhamasa — Fagonia cretica L."
-botanical: ""
-family: ""
-sanskrit: ""
-ayurvedicCategory: ""
-whoStatus: ""
+---title: Oleanolic acid
+slug: oleanolic-acid
+kind: hub
+section: _Hub
+category: Compounds
+subcategory: Oleanolic-acid.md
+group: ''
+answer: Oleanolic acid is a naturally occurring pentacyclic triterpenoid isomer of ursolic acid. It exhibits broad hepatoprotective, antiviral, and anti-inflammatory activities, enhancing cellular glutathione production and protecting hepatocytes from xenobiotic toxicity. Commonly present in Chirayata, Apamarga, and Badara, it represents an essential hepatoprotective biomarker in classical Dravyaguna.
+botanical: ''
+family: ''
+sanskrit: ''
+ayurvedicCategory: ''
+whoStatus: ''
 aliases: []
-tags: ["hub", "compound", "oleanolic-acid"]
+tags:
+- hub
+- compound
+- oleanolic-acid
 sources: []
 productHints: []
 words: 201
-srcRel: "_Hub/Compounds/Oleanolic-acid.md"
+srcRel: _Hub/Compounds/Oleanolic-acid.md
 ---
 *Found in 47 entries across the catalogue*
 

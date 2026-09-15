@@ -1,23 +1,25 @@
----
-title: "Antioxidant Agents"
-slug: "antioxidant"
-kind: "hub"
-section: "_Hub"
-category: "Pharmacology"
-subcategory: "Antioxidant.md"
-group: ""
-answer: "Antioxidant Agents is a reference entry in the Nighantu. 710 herbs and compounds with antioxidant activity across traditions Abhraka Bhasma Adhaki — Cajanus cajan (L.) Millsp. Agastya — Sesbania grandiflora (L.) Pers."
-botanical: ""
-family: ""
-sanskrit: ""
-ayurvedicCategory: ""
-whoStatus: ""
+---title: Antioxidant Agents
+slug: antioxidant
+kind: hub
+section: _Hub
+category: Pharmacology
+subcategory: Antioxidant.md
+group: ''
+answer: Antioxidant agents neutralize reactive oxygen species (ROS) and reactive nitrogen species (RNS) through direct free-radical scavenging and upregulation of endogenous antioxidant enzymes (superoxide dismutase, catalase, glutathione peroxidase). They prevent cellular oxidative damage, lipid peroxidation, and DNA strand breakage. Ayurvedic Rasayana fruits—most notably Amla (Phyllanthus emblica), Haritaki, and Bibhitaki—represent the richest natural botanical antioxidant sources.
+botanical: ''
+family: ''
+sanskrit: ''
+ayurvedicCategory: ''
+whoStatus: ''
 aliases: []
-tags: ["hub", "pharmacology", "antioxidant"]
+tags:
+- hub
+- pharmacology
+- antioxidant
 sources: []
 productHints: []
 words: 307
-srcRel: "_Hub/Pharmacology/Antioxidant.md"
+srcRel: _Hub/Pharmacology/Antioxidant.md
 ---
 *710 herbs and compounds with antioxidant activity across traditions*
 

@@ -1,23 +1,25 @@
----
-title: "Stigmasterol"
-slug: "stigmasterol"
-kind: "hub"
-section: "_Hub"
-category: "Compounds"
-subcategory: "Stigmasterol.md"
-group: ""
-answer: "Stigmasterol is a reference entry in the Nighantu. Found in 64 entries across the catalogue Bala — Sida cordifolia Bala Mool Bhringraj Chitraka Moola Chopchini — Smilax china L. Eranda Moola Gavedhuka Gorakhmundi — Sphaeranthus indicus L."
-botanical: ""
-family: ""
-sanskrit: ""
-ayurvedicCategory: ""
-whoStatus: ""
+---title: Stigmasterol
+slug: stigmasterol
+kind: hub
+section: _Hub
+category: Compounds
+subcategory: Stigmasterol.md
+group: ''
+answer: Stigmasterol is an unsaturated plant sterol structurally analogous to animal cholesterol. Pharmacologically, it competitively inhibits intestinal cholesterol absorption, promotes anti-stiffness and anti-inflammatory activity in musculoskeletal joints, and serves as an endocrine precursor. Found in Ashwagandha, Bala, and Vidari, stigmasterol contributes directly to their classical Balya and muscle-nourishing Rasayana properties.
+botanical: ''
+family: ''
+sanskrit: ''
+ayurvedicCategory: ''
+whoStatus: ''
 aliases: []
-tags: ["hub", "compound", "stigmasterol"]
+tags:
+- hub
+- compound
+- stigmasterol
 sources: []
 productHints: []
 words: 320
-srcRel: "_Hub/Compounds/Stigmasterol.md"
+srcRel: _Hub/Compounds/Stigmasterol.md
 ---
 *Found in 64 entries across the catalogue*
 
