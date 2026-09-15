@@ -220,6 +220,7 @@
       "https://jairaj1234-dancer.github.io/nighantu/": "91a71ed1c8a2e3d7",
       "https://jairaj1234-dancer.github.io/nighantu/about/": "2ed3150ed210d1ce",
       "https://jairaj1234-dancer.github.io/nighantu/answers/": "ac133c01c4716479",
+      "https://jairaj1234-dancer.github.io/nighantu/chyawanprash-processing-kinetics/": "d305cb5b63a58821",
       "https://jairaj1234-dancer.github.io/nighantu/cite/": "9e4686d96d848255",
       "https://jairaj1234-dancer.github.io/nighantu/compounds/": "306d60df53ff5520",
       "https://jairaj1234-dancer.github.io/nighantu/corrections/": "482ac71ad0404db9",
@@ -355,7 +356,7 @@
       "https://jairaj1234-dancer.github.io/nighantu/formulation/chandraprabha-vati/": "826f8cfe97476288",
       "https://jairaj1234-dancer.github.io/nighantu/formulation/changeri-ghrita/": "1453fbe0e9c4a986",
       "https://jairaj1234-dancer.github.io/nighantu/formulation/chitrakadi-vati/": "b2414e96fe489e63",
-      "https://jairaj1234-dancer.github.io/nighantu/formulation/chyawanprash/": "8aa84c1d01b0478a",
+      "https://jairaj1234-dancer.github.io/nighantu/formulation/chyawanprash/": "794615036b295cda",
       "https://jairaj1234-dancer.github.io/nighantu/formulation/coconut-oil-narikela-taila/": "b32061fe7b4a3383",
       "https://jairaj1234-dancer.github.io/nighantu/formulation/dadimadi-ghrita/": "0f20c92791202e68",
       "https://jairaj1234-dancer.github.io/nighantu/formulation/dadimashtaka-churna/": "e6594910dfb9e3b2",
@@ -474,6 +475,7 @@
       "https://jairaj1234-dancer.github.io/nighantu/glossary/concepts-m-y/": "db3a999bf54b6907",
       "https://jairaj1234-dancer.github.io/nighantu/glossary/pharmacology/": "01d12aa59aa6a55e",
       "https://jairaj1234-dancer.github.io/nighantu/glossary/plant-families/": "221af17d1f534754",
+      "https://jairaj1234-dancer.github.io/nighantu/graph/": "8b8a4f2c12ddc8af",
       "https://jairaj1234-dancer.github.io/nighantu/herb/": "348edf2ed0e88b1c",
       "https://jairaj1234-dancer.github.io/nighantu/herb/abhraka-bhasma/": "07aa33bf0a060450",
       "https://jairaj1234-dancer.github.io/nighantu/herb/adhaki/": "5d8408a9a5d06b9a",
@@ -1111,8 +1113,8 @@
       "https://jairaj1234-dancer.github.io/nighantu/verification/safety-pass4/": "fd4bda12d82c6cf7",
       "https://jairaj1234-dancer.github.io/nighantu/verification/safety-repair-02/": "a88cbdb80b699973"
     },
-    "lastSubmittedAt": "2026-09-15T07:44:25.067Z",
-    "lastSubmittedCount": 1
+    "lastSubmittedAt": "2026-09-15T08:20:24.244Z",
+    "lastSubmittedCount": 3
   },
   "products": {
     "broken": 0,
@@ -1293,6 +1295,6 @@
     "seen": 34,
     "surfaced": 2
   },
-  "updatedAt": "2026-09-15T07:44:25.069Z",
+  "updatedAt": "2026-09-15T08:20:24.247Z",
   "version": 1
 }

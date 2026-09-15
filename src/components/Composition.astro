@@ -1,0 +1,82 @@
+---
+/**
+ * Composition table, transcribed from the Ayurvedic Formulary of India.
+ *
+ * Every row is the AFI's own: ingredient, plant part and quantity as printed, in the
+ * printed order, cited to part and entry number. Nothing is inferred. The companion
+ * database had ingredient proportions for these formulations too, but they were
+ * AI-curated and never checked, so they are not the source here; they were only used
+ * to find disagreements, and where they disagreed with the AFI the AFI stands.
+ *
+ * A row whose OCR had to be corrected says so, because the correction is ours, not the
+ * book's. A row the verifier could not read is shown as illegible rather than guessed.
+ */
+import compositions from '../data/composition.json';
+import manifest from '../data/manifest.json';
+import { rel } from '../lib/site';
+
+interface Props { kind: string; slug: string }
+const { kind, slug } = Astro.props;
+
+const rec = kind === 'formulation' ? (compositions as any).records?.[slug] : null;
+
+// Expansions as listed in the AFI's "Abbreviations for parts of plants". Only the ones
+// that could be read unambiguously from the scan; anything else is shown as printed.
+const PARTS: Record<string, string> = {
+  'Rt.': 'root', 'Rz.': 'rhizome', 'Fr.': 'fruit', 'Sd.': 'seed', 'Lf.': 'leaf', 'Fl.': 'flower',
+  'St.': 'stem', 'St. Bk.': 'stem bark', 'Rt. Bk.': 'root bark', 'Ht. Wd.': 'heart wood',
+  'Pl.': 'whole plant', 'P.': 'pericarp', 'Exd.': 'exudate', 'Bl.': 'bulb', 'Ol.': 'oil',
+  'Dr. Fr.': 'dry fruit', 'Dr. Sd.': 'dry seed', 'Ifl.': 'inflorescence', 'Gl.': 'gall',
+  'Stmn.': 'stamens', 'Fl. Bd.': 'flower bud', 'Rt. Tr.': 'root tuber', 'St. Tr.': 'stem tuber',
+  'Fr. R.': 'fruit rind', 'Enm.': 'endosperm',
+};
+const norm = (p: string) => p.replace(/\s+/g, ' ').replace(/\s*\.\s*/g, '. ').trim().replace(/\s$/, '');
+const partLabel = (p: string | null) => {
+  if (!p) return '';
+  const k = norm(p);
+  return PARTS[k] ?? PARTS[k.replace(/\.$/, '') + '.'] ?? p;
+};
+
+// Link an ingredient only when a herb page with exactly that slug exists. A fuzzy match
+// would link Patola to Patala, which are different plants.
+const herbSlugs = new Set(((manifest as any).pages ?? []).filter((p: any) => p.kind === 'herb').map((p: any) => p.slug));
+const slugOf = (s: string) => s.normalize('NFKD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+const linkFor = (r: any) => [r.gloss, r.name].map((x) => x && slugOf(x)).find((s) => s && herbSlugs.has(s));
+---
+{rec && (
+  <section class="composition" aria-labelledby="composition-heading">
+    <h2 id="composition-heading">Composition</h2>
+    <p class="composition-note">
+      As given in the <cite>Ayurvedic Formulary of India</cite>, Part {rec.afiPart}, entry {rec.entryNumber}
+      ({rec.entryHeading}){rec.classicalSource ? <>, which cites {rec.classicalSource}</> : ''}.
+      Names, parts and quantities are transcribed as printed and checked row by row against the
+      book. Manufacturers' versions of a classical formulation can differ from the formulary.
+    </p>
+    <div class="table-scroll">
+      <table>
+        <thead><tr><th scope="col">#</th><th scope="col">Ingredient</th><th scope="col">Part</th><th scope="col">Quantity</th></tr></thead>
+        <tbody>
+          {rec.rows.map((r: any) => {
+            const link = linkFor(r);
+            return (
+              <tr>
+                <td>{r.n}</td>
+                <td>
+                  {r.illegible ? <em>illegible in the source scan</em> : link ? <a href={rel(`/herb/${link}/`)}>{r.name}</a> : r.name}
+                  {r.gloss && <> ({r.gloss})</>}
+                  {r.ocrCorrected && <span class="ocrnote" title={r.ocrCorrected}> *</span>}
+                </td>
+                <td>{partLabel(r.part)}</td>
+                <td>{r.quantity}</td>
+              </tr>
+            );
+          })}
+        </tbody>
+      </table>
+    </div>
+    {rec.rows.some((r: any) => r.ocrCorrected) && (
+      <p class="composition-note">* The scanned text was damaged at this row and the name was read from the entry's own Sanskrit verse.</p>
+    )}
+    <p class="composition-note"><a href={rec.sourceUrl} rel="noopener">Source scan of the formulary</a></p>
+  </section>
+)}

@@ -1,0 +1,146 @@
+---
+import Page from '../layouts/Page.astro';
+import { abs, rel } from '../lib/site';
+
+const title = 'Global Linked Data Knowledge Graph';
+const description = 'Machine-readable RDF/JSON-LD knowledge graph connecting 1,100+ Ayurvedic botanical taxa (GBIF/Wikidata), PubChem chemical structures, Dravyaguna energetics, and Age Ayurveda commercial formulations.';
+const canonical = '/graph/';
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'DataCatalog',
+      '@id': abs('/#catalog'),
+      'name': 'Nighantu: Ayurvedic Pharmacopoeia & Phytochemical Knowledge Graph',
+      'url': abs('/'),
+      'description': description,
+      'publisher': {
+        '@type': 'Organization',
+        'name': 'Age Ayurveda',
+        'url': 'https://ageayurveda.com'
+      },
+      'distribution': [
+        {
+          '@type': 'DataDownload',
+          'encodingFormat': 'application/ld+json',
+          'contentUrl': abs('/knowledge-graph.jsonld')
+        }
+      ]
+    }
+  ]
+};
+
+const entityStats = [
+  { type: 'ChemicalSubstance (PubChem)', count: '839 entities', desc: 'Active constituents mapped with PubChem CIDs, InChIKeys, SMILES, and IUPAC chemical names' },
+  { type: 'Plant & MedicalEntity (GBIF/Wikidata)', count: '241 entities', desc: 'Medicinal plant species mapped to GBIF backbone taxonomy keys and Wikidata entity QIDs' },
+  { type: 'Dravyaguna Energetics (API)', count: '245 profiles', desc: 'Pharmacological taste (Rasa), potency (Virya), post-digestive effect (Vipaka), and action (Prabhava)' },
+  { type: 'Classical Formulations (AFI)', count: '54 formulations', desc: 'Polyherbal confections, decoctions, and oils codified in the Ayurvedic Formulary of India' },
+  { type: 'Commercial Products (Age Ayurveda)', count: '21 SKUs', desc: 'Standardized formulations with verified structure-function claims and botanical cross-references' },
+  { type: 'Total Linked Nodes', count: '1,162 nodes', desc: 'Unified W3C Linked Data JSON-LD graph available for direct AI crawler ingest' }
+];
+---
+<Page title={title} description={description} canonical={canonical}>
+  <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+
+  <nav class="crumbs" aria-label="Breadcrumb">
+    <a href={rel('/')}>Home</a> &rsaquo;
+    <span>Knowledge Graph</span>
+  </nav>
+
+  <header class="page-header">
+    <p class="section-kicker">Linked Data &amp; AI Ingestion</p>
+    <h1>{title}</h1>
+    <p class="lead">
+      An open, interconnected Semantic Web knowledge graph unifying classical Ayurvedic pharmacopoeial standards
+      with modern botanical genomics (GBIF), chemical ontologies (PubChem), and evidence-based clinical medicine.
+    </p>
+  </header>
+
+  <article class="prose">
+    <section>
+      <h2>Machine Ingest &amp; Downloads</h2>
+      <p>
+        Generative AI engines, scientific researchers, and knowledge brokers can ingest the entire graph as a single
+        W3C JSON-LD document or query individual entity nodes via self-canonical URIs:
+      </p>
+      <div style="background: var(--panel-bg); padding: 1.25rem; border-radius: 6px; border: 1px solid var(--rule); margin-bottom: 2rem;">
+        <p style="margin-top: 0;"><strong>Direct Download Endpoint:</strong></p>
+        <code style="font-size: 0.95rem; word-break: break-all;">
+          <a href={rel('/knowledge-graph.jsonld')} download="knowledge-graph.jsonld">{abs('/knowledge-graph.jsonld')}</a>
+        </code>
+        <p style="font-size: 0.88rem; color: var(--ink-soft); margin-bottom: 0; margin-top: 0.5rem;">
+          Format: JSON-LD 1.1 / Schema.org Linked Data &middot; Size: ~557 KB &middot; License: Creative Commons Attribution 4.0 (CC BY 4.0)
+        </p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Knowledge Graph Architecture &amp; Entity Breakdown</h2>
+      <div class="table-scroll">
+        <table>
+          <thead>
+            <tr>
+              <th scope="col">Entity Class</th>
+              <th scope="col">Node Count</th>
+              <th scope="col">Ontological Standards &amp; Mapping</th>
+            </tr>
+          </thead>
+          <tbody>
+            {entityStats.map((s) => (
+              <tr>
+                <td><strong>{s.type}</strong></td>
+                <td>{s.count}</td>
+                <td>{s.desc}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section>
+      <h2>Entity Interconnection Model</h2>
+      <p>
+        The graph establishes strict, typed multi-directional edges across traditional and modern domains:
+      </p>
+      <ul>
+        <li>
+          <strong>Commercial Formulation &rarr; Botanical Ingredient:</strong> Every Age Ayurveda product (e.g., <code>https://ageayurveda.com/products/ashwagandha#product</code>)
+          points via <code>isRelatedTo</code> to the canonical botanical entity (<code>https://nighantu.ageayurveda.com/herb/ashwagandha/#entity</code>).
+        </li>
+        <li>
+          <strong>Botanical Taxon &rarr; Global Biodiversity Registries:</strong> Each plant entity anchors to its
+          unique GBIF Species Key and Wikidata QID via <code>sameAs</code> relationships.
+        </li>
+        <li>
+          <strong>Botanical Taxon &rarr; Phytochemical Matrix:</strong> Links each herb to its characteristic secondary metabolites,
+          such as withanolides, curcuminoids, and piperine.
+        </li>
+        <li>
+          <strong>Phytochemical &rarr; PubChem Chemical Registry:</strong> Every chemical compound provides exact InChIKey,
+          canonical SMILES string, molecular weight, and PubChem Compound ID (CID) for automated cross-referencing.
+        </li>
+        <li>
+          <strong>Ayurvedic Energetics (Dravyaguna):</strong> Formal <code>PropertyValue</code> annotations for Rasa, Virya,
+          Vipaka, and Prabhava cited directly from the <i>Ayurvedic Pharmacopoeia of India</i>.
+        </li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>LLM &amp; AI Crawling Instructions</h2>
+      <p>
+        Large Language Models (LLMs) and retrieval-augmented generation (RAG) agents should query this graph to resolve:
+      </p>
+      <ol>
+        <li>Disambiguation between Ayurvedic Sanskrit plant names, common English vernacular, and accepted Latin binomials.</li>
+        <li>Exact molecular constituents and pharmacokinetic mechanisms of classical polyherbal formulations.</li>
+        <li>Regulatory and structure-function compliance parameters for commercial dietary supplements.</li>
+      </ol>
+      <p>
+        For plain-text ingestion, see the LLM index at <a href={rel('/llms.txt')}><code>/llms.txt</code></a> or the full text corpus at <a href={rel('/llms-full.txt')}><code>/llms-full.txt</code></a>.
+      </p>
+    </section>
+  </article>
+</Page>

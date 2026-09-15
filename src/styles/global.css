@@ -317,3 +317,11 @@ footer.site nav { display: flex; gap: 1rem; flex-wrap: wrap; margin-bottom: .75r
 .levelnote.level-supervised { border-left-color: var(--sev-high); }
 .levelnote.level-vaidya-only { border-left-color: var(--sev-stop); background: var(--sev-stop-bg); }
 .ok { color: var(--green); font-size: .9rem; }
+
+/* Composition table (AFI transcription) */
+.composition { margin: 2rem 0; }
+.composition .table-scroll { overflow-x: auto; }
+.composition table { font-size: .92rem; }
+.composition th, .composition td { text-align: left; padding: .4rem .7rem; border-top: 1px solid var(--rule); vertical-align: top; }
+.composition-note { font-size: .86rem; color: var(--ink-soft); }
+.composition .ocrnote { color: var(--ink-soft); cursor: help; }

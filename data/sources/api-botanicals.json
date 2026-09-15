@@ -1,0 +1,4738 @@
+{
+ "source": "The Ayurvedic Pharmacopoeia of India, Part I, Volumes I-VI (Government of India)",
+ "sourceUrl": "https://archive.org/details/AyurvedicPharmacopoeiaOfIndiaAllVolume",
+ "method": "Pattern extraction of each monograph's opening \"consists of\" sentence. No judgement.",
+ "count": 473,
+ "records": [
+  {
+   "name": "Ajagandha",
+   "heading": "AJAGANDHA (Seed)",
+   "part": "seed",
+   "binomial": "Cleome gynandra",
+   "synonym": "Gynandropsis gynandra",
+   "family": "Capparidaceae",
+   "volume": "I",
+   "sentence": "Ajagandha consists of the seeds of Cleome gynandra Linn. Syn. Gynandropsis gynandra (Linn.) Briquet"
+  },
+  {
+   "name": "Ajamoda",
+   "heading": "AJAMODA (Fruit)",
+   "part": "fruit",
+   "binomial": "Apium leptophyllum",
+   "synonym": null,
+   "family": "Umbelliferae",
+   "volume": "I",
+   "sentence": "Ajamoda consists of dried, aromatic fruits of Apium leptophyllum (Pers.) F. V. M. ex Benth."
+  },
+  {
+   "name": "Amalaki",
+   "heading": "AMALAKI (Fresh Fruit pulp)",
+   "part": "fresh fruit pulp",
+   "binomial": "Emblica officinalis",
+   "synonym": null,
+   "family": "Euphorbiaceae",
+   "volume": "I",
+   "sentence": "Amalaki consists of fresh fruit pulp of Emblica officinalis Gaertn."
+  },
+  {
+   "name": "Amalaki",
+   "heading": "AMALAKI (Dried fruit)",
+   "part": "dried fruit",
+   "binomial": "Emblica officinalis",
+   "synonym": "Phyllanthus emblica",
+   "family": "Euphorbiaceae",
+   "volume": "I",
+   "sentence": "Amalaki consists of pericarp of dried mature fruits of Emblica officinalis Gaertn. Syn. Phyllanthus emblica Linn."
+  },
+  {
+   "name": "Aragvadha",
+   "heading": "ARAGVADHA (Fruit pulp)",
+   "part": "fruit pulp",
+   "binomial": "Cassia fistula",
+   "synonym": null,
+   "family": "Leguminosae",
+   "volume": "I",
+   "sentence": "Aragvadha consists of pulp obtained from fruits (devoid of seeds, septa and pieces of pericarp) of Cassia fistula Linn."
+  },
+  {
+   "name": "Arka",
+   "heading": "ARKA (Root)",
+   "part": "root",
+   "binomial": "Calotropis procera",
+   "synonym": null,
+   "family": "Asclepiadaceae",
+   "volume": "I",
+   "sentence": "Arka consists of dried roots of Calotropis procera (Ait.) R. Br."
+  },
+  {
+   "name": "Arka",
+   "heading": "ARKA (Leaf)",
+   "part": "leaf",
+   "binomial": "Calotropis procera",
+   "synonym": null,
+   "family": "Asclepiadaceae",
+   "volume": "I",
+   "sentence": "Arka consists of dried leaves of Calotropis procera (Ait.) R.Br."
+  },
+  {
+   "name": "Asana",
+   "heading": "ASANA (Heart wood)",
+   "part": "heart wood",
+   "binomial": "Pterocarpus marsupium",
+   "synonym": null,
+   "family": "Leguminosae",
+   "volume": "I",
+   "sentence": "Asana consists of heart-wood of Pterocarpus marsupium Roxb."
+  },
+  {
+   "name": "Asoka",
+   "heading": "ASOKA (Stem bark)",
+   "part": "stem bark",
+   "binomial": "Saraca asoca",
+   "synonym": "Saraca indica",
+   "family": "Leguminosae",
+   "volume": "I",
+   "sentence": "Asoka consists of dried stem bark of Saraca asoca (Rose.) De. Willd , Syn. Saraca indica Linn."
+  },
+  {
+   "name": "Asvagandha",
+   "heading": "ASVAGANDHA (Root)",
+   "part": "root",
+   "binomial": "Withania somnifera",
+   "synonym": null,
+   "family": "Solanaceae",
+   "volume": "I",
+   "sentence": "Asvagandha consists of dried mature roots of Withania somnifera Dunal."
+  },
+  {
+   "name": "Asvattha",
+   "heading": "ASVATTHA (Bark)",
+   "part": "bark",
+   "binomial": "Ficus religiosa",
+   "synonym": null,
+   "family": "Moraceae",
+   "volume": "I",
+   "sentence": "Asvattha consists of dried bark of Ficus religiosa Linn."
+  },
+  {
+   "name": "Atasi",
+   "heading": "ATASI (Seed)",
+   "part": "seed",
+   "binomial": "Linum usitatissimum",
+   "synonym": null,
+   "family": "Linaceae",
+   "volume": "I",
+   "sentence": "Atasi consists of dried, ripe seeds of Linum usitatissimum Linn."
+  },
+  {
+   "name": "Atibala",
+   "heading": "ATEBALA (Root)",
+   "part": "root",
+   "binomial": "Abutilon indicum",
+   "synonym": null,
+   "family": "Malvaceae",
+   "volume": "I",
+   "sentence": "Atibala consists of root of Abutilon indicum (Linn.) Sweet"
+  },
+  {
+   "name": "Ativisa",
+   "heading": "ATIVISA (Root)",
+   "part": "root",
+   "binomial": "Aconitum heterophyllum",
+   "synonym": null,
+   "family": null,
+   "volume": "I",
+   "sentence": "Ativisa consists of dried, tuberous roots of Aconitum heterophyllum Wall. ex. Royle (Fam, Ranunculaceae), a perennial herb, native of western Himalayas and found in Garhwal, Kumaon and Kashmir at altitude between 2,500-4,000 m."
+  },
+  {
+   "name": "Babbula",
+   "heading": "BABBULA (Stem bark)",
+   "part": "stem bark",
+   "binomial": "Acacia nilotica",
+   "synonym": null,
+   "family": null,
+   "volume": "I",
+   "sentence": "Babbula consists of dried mature stem bark of Acacia nilotica (Linn.) Willd. ex."
+  },
+  {
+   "name": "Bakuci",
+   "heading": "BAKUCI (Fruit)",
+   "part": "fruit",
+   "binomial": "Psoralea corylifolia",
+   "synonym": null,
+   "family": "Leguminosae",
+   "volume": "I",
+   "sentence": "Bakuci consists of dry ripe fruits of Psoralea corylifolia Linn."
+  },
+  {
+   "name": "Bibhitaka",
+   "heading": "BIBHITAKA (Fruit)",
+   "part": "fruit",
+   "binomial": "Temtinalia belerica",
+   "synonym": null,
+   "family": "Combretaceae",
+   "volume": "I",
+   "sentence": "Bibhitaka consists of pericarp of dried ripe fruits of Temtinalia belerica Roxb."
+  },
+  {
+   "name": "Bilva",
+   "heading": "BILVA (Fruit pulp)",
+   "part": "fruit pulp",
+   "binomial": "Aegle marmelos",
+   "synonym": null,
+   "family": "Rutaceae",
+   "volume": "I",
+   "sentence": "Bilva consists of pulp of entire, unripe or half ripe fruits of Aegle marmelos Carr."
+  },
+  {
+   "name": "Candrasura",
+   "heading": "CANDRASURA (Seed)",
+   "part": "seed",
+   "binomial": "Lepidium sativum",
+   "synonym": null,
+   "family": "Cruciferae",
+   "volume": "I",
+   "sentence": "Candrasura consists of dried seeds of Lepidium sativum Linn."
+  },
+  {
+   "name": "Citraka",
+   "heading": "CITRAKA (Root)",
+   "part": "root",
+   "binomial": "Plumbago zeylanica",
+   "synonym": null,
+   "family": "Plumbaginaceae",
+   "volume": "I",
+   "sentence": "Citraka consists of dried mature root of Plumbago zeylanica Linn."
+  },
+  {
+   "name": "Dhanyaka",
+   "heading": "DHANYAKA (Fruit)",
+   "part": "fruit",
+   "binomial": "Coriandrum sativum",
+   "synonym": null,
+   "family": "Umbelliferae",
+   "volume": "I",
+   "sentence": "Dhanyaka consists of dried ripe fruits of Coriandrum sativum Linn."
+  },
+  {
+   "name": "Dhataki",
+   "heading": "DHATAKI (Flower)",
+   "part": "flower",
+   "binomial": "Woodfordia fruticosa",
+   "synonym": null,
+   "family": "Lythraceae",
+   "volume": "I",
+   "sentence": "Dhataki consists of flowers of Woodfordia fruticosa (Linn.) Kurz."
+  },
+  {
+   "name": "Eranda",
+   "heading": "ERANDA (Root)",
+   "part": "root",
+   "binomial": "Ricinus communis",
+   "synonym": null,
+   "family": "Euphorbiaceae",
+   "volume": "I",
+   "sentence": "Eranda consists of dried, mature roots of Ricinus communis Linn."
+  },
+  {
+   "name": "Gambhari",
+   "heading": "GAMBHARI (Root bark)",
+   "part": "root bark",
+   "binomial": "Gmelina arborea",
+   "synonym": null,
+   "family": "Verbenaceae",
+   "volume": "I",
+   "sentence": "Gambhari consists of dried, mature root and root bark of Gmelina arborea Roxb."
+  },
+  {
+   "name": "Goksura",
+   "heading": "GOKSURA (Root)",
+   "part": "root",
+   "binomial": "Tribulus terrestris",
+   "synonym": null,
+   "family": "Zygophyllaceae",
+   "volume": "I",
+   "sentence": "Goksura consists of root of Tribulus terrestris Linn."
+  },
+  {
+   "name": "Goksura",
+   "heading": "GOKSURA (Fruit)",
+   "part": "fruit",
+   "binomial": "Tribulus terrestris",
+   "synonym": null,
+   "family": "Zygopyllaceae",
+   "volume": "I",
+   "sentence": "Goksura consists of dried, ripe, entire fruit of Tribulus terrestris Linn."
+  },
+  {
+   "name": "Guduci",
+   "heading": "GUDUCI (Stem)",
+   "part": "stem",
+   "binomial": "Tinospora cordifolia",
+   "synonym": null,
+   "family": null,
+   "volume": "I",
+   "sentence": "Guduci consists of dried, matured pieces of stem of Tinospora cordifolia (Willd.) Miers. (Fam, Menispermaceae), a perennial climber found throughout Tropical India, drug collected during summer preferably in the month of May, drug is used in fresh form also."
+  },
+  {
+   "name": "Guggulu",
+   "heading": "GUGGULU (Exudate)",
+   "part": "exudate",
+   "binomial": "Commiphora wightii",
+   "synonym": "Balsamodendron mukul",
+   "family": null,
+   "volume": "I",
+   "sentence": "Guggulu consists of exudate of Commiphora wightii (Arn.) Bhand, Syn. Balsamodendron mukul Hook, ex Stocks Commiphora mukul Engl.), {Fam. Burseraceae), a small perennial tree or shrub upto 1.2- 1.8 m high, occuring in rocky tracts of Rajasthan, Gujarat , exudat"
+  },
+  {
+   "name": "Gunja",
+   "heading": "GUNJA (Seed)",
+   "part": "seed",
+   "binomial": "Abrus precatorius",
+   "synonym": null,
+   "family": "Leguminosae",
+   "volume": "I",
+   "sentence": "Gunja consists of seeds of Abrus precatorius Linn."
+  },
+  {
+   "name": "Haridra",
+   "heading": "HARIDRA (Rhizome)",
+   "part": "rhizome",
+   "binomial": "Curcuma longa",
+   "synonym": null,
+   "family": "Zingiberaceae",
+   "volume": "I",
+   "sentence": "Haridra consists of the dried and cured rhizomes of Curcuma longa Linn."
+  },
+  {
+   "name": "Haritaki",
+   "heading": "HARITAKI (Fruit)",
+   "part": "fruit",
+   "binomial": "Terminalia chebula",
+   "synonym": null,
+   "family": "Combretaceae",
+   "volume": "I",
+   "sentence": "Haritaki consists of the pericarp of mature fruits of Terminalia chebula Retz."
+  },
+  {
+   "name": "Hingu",
+   "heading": "NGU (Oleo-gmn-resin)",
+   "part": "oleo-gmn-resin",
+   "binomial": "Ferula foetida",
+   "synonym": null,
+   "family": "Umbelliferae",
+   "volume": "I",
+   "sentence": "Hingu consists of oleo-gum-resin obtained from rhizomes and roots of Ferula foetida Regel., Ferula narthex Bioss,and other species of Ferula"
+  },
+  {
+   "name": "Jatamamsi",
+   "heading": "J AT AM AMS I (Rhizome)",
+   "part": "rhizome",
+   "binomial": "Nardostachys jatamansi",
+   "synonym": null,
+   "family": "Valerianaceae",
+   "volume": "I",
+   "sentence": "Jatamamsi consists of dried rhizome of Nardostachys jatamansi DC."
+  },
+  {
+   "name": "Jatiphala",
+   "heading": "JATIPHALA (Seed)",
+   "part": "seed",
+   "binomial": "Myristica fragrans",
+   "synonym": null,
+   "family": "Myristicaceae",
+   "volume": "I",
+   "sentence": "Jatiphala consists of the endosperm of dried seeds (kernels of fruits) of Myristica fragrans Houtt."
+  },
+  {
+   "name": "Kampilla",
+   "heading": "KAMPILLA (Fruit)",
+   "part": "fruit",
+   "binomial": "Mallotus philippinensis",
+   "synonym": null,
+   "family": "Euphorbiaceae",
+   "volume": "I",
+   "sentence": "Kampilla consists of glands and hairs of fruit of Mallotus philippinensis Muell . Arg."
+  },
+  {
+   "name": "Kancanara",
+   "heading": "KANCANARA (Stem bark)",
+   "part": "stem bark",
+   "binomial": "Bauhinia variegata",
+   "synonym": null,
+   "family": "Leguminosae",
+   "volume": "I",
+   "sentence": "Kancanara consists of the dried, stem bark of Bauhinia variegata Blume"
+  },
+  {
+   "name": "Kankola",
+   "heading": "KANKOLA (Fruit)",
+   "part": "fruit",
+   "binomial": "Piper cubeba",
+   "synonym": null,
+   "family": "Piperaceae",
+   "volume": "I",
+   "sentence": "Kankola consists of mature, dried fruits of Piper cubeba Linn.f."
+  },
+  {
+   "name": "Kantakari",
+   "heading": "KANTAKARI (Whole plant)",
+   "part": "whole plant",
+   "binomial": "Solatium surattense",
+   "synonym": "Solatium xanthocarpum",
+   "family": "Solanaceae",
+   "volume": "I",
+   "sentence": "Kantakari consists of mature, dried whole plant of Solatium surattense Burm. f., Syn. Solatium xanthocarpum Schrad . & Wendl ,"
+  },
+  {
+   "name": "Kanyasara",
+   "heading": "KANYASARA (Leaf)",
+   "part": "leaf",
+   "binomial": "Aloe barbadensis",
+   "synonym": "Aloe vera",
+   "family": "Liliaceae",
+   "volume": "I",
+   "sentence": "Kanyasara consists of dried juice of leaves of Aloe barbadensis Mill. Syn. Aloe vera Tourn.ex Linn, Aloe indica Royle."
+  },
+  {
+   "name": "Karanja",
+   "heading": "KARANJA (Seed)",
+   "part": "seed",
+   "binomial": "Pongamia pinnata",
+   "synonym": "Pongamia glabra",
+   "family": "Leguminosae",
+   "volume": "I",
+   "sentence": "Karanja consists of seeds of Pongamia pinnata (Linn.) Merr, Syn. Pongamia glabra vent."
+  },
+  {
+   "name": "Karavira",
+   "heading": "KARAVIRA (Leaf)",
+   "part": "leaf",
+   "binomial": "Nerium indicum",
+   "synonym": "Nerium odorum",
+   "family": "Apocynaceae",
+   "volume": "I",
+   "sentence": "Karavira consists of dried leaves of Nerium indicum Mill. Syn. Nerium odorum Soland"
+  },
+  {
+   "name": "Karkatasrngi",
+   "heading": "KARKATASRNGI (Gall)",
+   "part": "gall",
+   "binomial": "Pistacia chinensia",
+   "synonym": null,
+   "family": "Anacardiaceae",
+   "volume": "I",
+   "sentence": "Karkatasrngi consists of gall-like excrescences formed by insects on the leaves, petioles and branches of the plant Pistacia chinensia Burgo, Pistacia integerrima Stew, ex Brandis, Rhus succedanea Linn."
+  },
+  {
+   "name": "Karpasa",
+   "heading": "KARP ASA (Seed)",
+   "part": "seed",
+   "binomial": "Gossypium herbaceum",
+   "synonym": null,
+   "family": "Malvaceae",
+   "volume": "I",
+   "sentence": "Karpasa consists of seeds (devoid of lint) of Gossypium herbaceum Linn."
+  },
+  {
+   "name": "Kaseru",
+   "heading": "KASERU (Rhizome)",
+   "part": "rhizome",
+   "binomial": "Scirpus kysoor",
+   "synonym": null,
+   "family": "Cyperaceae",
+   "volume": "I",
+   "sentence": "Kaseru consists of rhizome of Scirpus kysoor Roxb."
+  },
+  {
+   "name": "Ketaki",
+   "heading": "KETAKI (Root)",
+   "part": "root",
+   "binomial": "Pandanus tectorius",
+   "synonym": null,
+   "family": "Pandanaceae",
+   "volume": "I",
+   "sentence": "Ketaki consists of dried, underground roots of Pandanus tectorius Soland.ex Parkinson"
+  },
+  {
+   "name": "Khadira",
+   "heading": "KHADERA (Heart wood)",
+   "part": "heart wood",
+   "binomial": "Acacia catechu",
+   "synonym": null,
+   "family": "Leguminosae",
+   "volume": "I",
+   "sentence": "Khadira consists of dried pieces of heart- wood of Acacia catechu (Linn, f.) Willd."
+  },
+  {
+   "name": "Kiratatikta",
+   "heading": "KIRATATIKTA (Whole plant)",
+   "part": "whole plant",
+   "binomial": "Swertia chirata",
+   "synonym": null,
+   "family": null,
+   "volume": "I",
+   "sentence": "Kiratatikta consists of whole plant of Swertia chirata Buch.Ham, (Fam, Gentianaceae), a small, erect, annual, herbaceous plant, 0.6-1. 25 m high, found in temperate Himalayas at an altitude between 1200-3000 m from Kashmir to Bhutan and Khasia Hills in Meghalaya,"
+  },
+  {
+   "name": "Krsnaj iraka",
+   "heading": "KRSNAJIRAKA (Fruit)",
+   "part": "fruit",
+   "binomial": "Carum carvi",
+   "synonym": null,
+   "family": "Umbelliferae",
+   "volume": "I",
+   "sentence": "Krsnaj iraka consists of dried ripe fruits of Carum carvi Linn."
+  },
+  {
+   "name": "Kulattha",
+   "heading": "KULATTHA (Seed)",
+   "part": "seed",
+   "binomial": "Vigna unquiculata",
+   "synonym": "Dolichos biflorus",
+   "family": "Leguminosae",
+   "volume": "I",
+   "sentence": "Kulattha consists of dry seeds of Vigna unquiculata (Linn.) Walp. Syn. Dolichos biflorus Linn."
+  },
+  {
+   "name": "Kustha",
+   "heading": "KUSTHA (Root)",
+   "part": "root",
+   "binomial": "Saussurea lappa",
+   "synonym": null,
+   "family": "Compositae",
+   "volume": "I",
+   "sentence": "Kustha consists of dried roots of Saussurea lappa C.B. Clarke"
+  },
+  {
+   "name": "Kutaja",
+   "heading": "KUTAJA (Stem bark)",
+   "part": "stem bark",
+   "binomial": "Holarrhena antidysenterica",
+   "synonym": null,
+   "family": "Apocynaceae",
+   "volume": "I",
+   "sentence": "Kutaja consists of dried stem bark of Holarrhena antidysenterica (Roth) A. DC."
+  },
+  {
+   "name": "Lodhra",
+   "heading": "LODHRA (Stem bark)",
+   "part": "stem bark",
+   "binomial": "Symplocos racemosa",
+   "synonym": null,
+   "family": "Symplocaceae",
+   "volume": "I",
+   "sentence": "Lodhra consists of dried stem bark of Symplocos racemosa Roxb."
+  },
+  {
+   "name": "Madana",
+   "heading": "MAD ANA (Fruit)",
+   "part": "fruit",
+   "binomial": "Xeromphis spinosa",
+   "synonym": "Randia dumetorum",
+   "family": "Rubiaceae",
+   "volume": "I",
+   "sentence": "Madana consists of dried fruit of Xeromphis spinosa (Thunb) Keay, Syn Randia dumetorum Lam."
+  },
+  {
+   "name": "Misreya",
+   "heading": "MISREYA (Fruit)",
+   "part": "fruit",
+   "binomial": "Foeniculum vulgare",
+   "synonym": null,
+   "family": "Umbelliferae",
+   "volume": "I",
+   "sentence": "Misreya consists of dried ripe fruits of Foeniculum vulgare Mill"
+  },
+  {
+   "name": "Nyagrodha",
+   "heading": "NYAGRODHA (Stem bark)",
+   "part": "stem bark",
+   "binomial": "Ficus bengalensis",
+   "synonym": null,
+   "family": "Moraceae",
+   "volume": "I",
+   "sentence": "Nyagrodha consists of dried mature stem bark of Ficus bengalensis Linn."
+  },
+  {
+   "name": "Pasanabheda",
+   "heading": "PAS ANABHEDA (Rhizome)",
+   "part": "rhizome",
+   "binomial": "Bergenia ciliata",
+   "synonym": null,
+   "family": null,
+   "volume": "I",
+   "sentence": "Pasanabheda consists of rhizomes of Bergenia ciliata (Haw.) Stemb., Syn."
+  },
+  {
+   "name": "Patha",
+   "heading": "PATHA (Root)",
+   "part": "root",
+   "binomial": "Cissampelos pareira",
+   "synonym": null,
+   "family": "Menisperrnaceae",
+   "volume": "I",
+   "sentence": "Patha consists of roots of Cissampelos pareira Linn."
+  },
+  {
+   "name": "Puga",
+   "heading": "PUGA (Seed)",
+   "part": "seed",
+   "binomial": "Areca catechu",
+   "synonym": null,
+   "family": "Palmae",
+   "volume": "I",
+   "sentence": "Puga consists of dried ripe seed of Areca catechu Linn."
+  },
+  {
+   "name": "Punarnava",
+   "heading": null,
+   "part": null,
+   "binomial": "Boerhaavia diffusa",
+   "synonym": null,
+   "family": "Nyctaginaceae",
+   "volume": "I",
+   "sentence": "Punarnava consists of dried, matured whole plant of Boerhaavia diffusa Linn."
+  },
+  {
+   "name": "Saptapama",
+   "heading": "SAPTAPARNA (Stem bark)",
+   "part": "stem bark",
+   "binomial": "Alstonia scholaris",
+   "synonym": null,
+   "family": "Apocynaceae",
+   "volume": "I",
+   "sentence": "Saptapama consists of stem bark of Alstonia scholaris (Linn.) R. Br."
+  },
+  {
+   "name": "Sati",
+   "heading": null,
+   "part": null,
+   "binomial": "Hedychium spicatum",
+   "synonym": null,
+   "family": "Zingiberaceae",
+   "volume": "I",
+   "sentence": "Sati consists of sliced, dried rhizomes of Hedychium spicatum Ham.ex Smith"
+  },
+  {
+   "name": "Snuhi",
+   "heading": "SNUHI (Stem)",
+   "part": "stem",
+   "binomial": "Euphorbia nerii",
+   "synonym": null,
+   "family": "Euphorbiaceae",
+   "volume": "I",
+   "sentence": "Snuhi consists of stem of Euphorbia nerii folia Linn."
+  },
+  {
+   "name": "Sunthi",
+   "heading": null,
+   "part": null,
+   "binomial": "Zingiber officinale",
+   "synonym": null,
+   "family": "Zingiberaceae",
+   "volume": "I",
+   "sentence": "Sunthi consists of dried rhizome of Zingiber officinale Roxb."
+  },
+  {
+   "name": "Svarnapatri",
+   "heading": "SVARNAPATRI (Leaf)",
+   "part": "leaf",
+   "binomial": "Cassia angustifolia",
+   "synonym": null,
+   "family": "Leguminosae",
+   "volume": "I",
+   "sentence": "Svarnapatri consists of dried leaves of Cassia angustifolia Vahl"
+  },
+  {
+   "name": "Svetajiraka",
+   "heading": null,
+   "part": null,
+   "binomial": "Cuminum cyminum",
+   "synonym": null,
+   "family": "Umbelliferae",
+   "volume": "I",
+   "sentence": "Svetajiraka consists of ripe fruits of Cuminum cyminum, Linn."
+  },
+  {
+   "name": "Sveta Sariva",
+   "heading": null,
+   "part": null,
+   "binomial": "Hemidesmus indicus",
+   "synonym": null,
+   "family": "Asclepiadaceae",
+   "volume": "I",
+   "sentence": "Sveta Sariva consists of root of Hemidesmus indicus (Linn.) R. Br."
+  },
+  {
+   "name": "Tagara",
+   "heading": "T AGAR A (Rhizome)",
+   "part": "rhizome",
+   "binomial": "Valeriana wallichii",
+   "synonym": null,
+   "family": "Valerianaceae",
+   "volume": "I",
+   "sentence": "Tagara consists of predominantly dried rhizome, stolon and small portion of root of Valeriana wallichii DC,"
+  },
+  {
+   "name": "Tamalaki",
+   "heading": "TAMALAKI (Root, Stem & Leaf)",
+   "part": "root, stem & leaf",
+   "binomial": "Phyllanthus fraternus",
+   "synonym": "Phyllanthus niruri",
+   "family": "Euphorbiaceae",
+   "volume": "I",
+   "sentence": "Tamalaki consists of root, stem and leaf of Phyllanthus fraternus Webst. Syn. Phyllanthus niruri Hook. f. non Linn."
+  },
+  {
+   "name": "Tvakpatra",
+   "heading": "TVAKPATRA (Leaf)",
+   "part": "leaf",
+   "binomial": "Cinnamomum tamala",
+   "synonym": null,
+   "family": "Lauraceae",
+   "volume": "I",
+   "sentence": "Tvakpatra consists of dried mature leaves of Cinnamomum tamala (Buch. Ham.) Nees & Eberm."
+  },
+  {
+   "name": "Udumbara",
+   "heading": "UDUMBARA (Bark)",
+   "part": "bark",
+   "binomial": "Ficus racemosa",
+   "synonym": "Ficus glomerata",
+   "family": "Moraceae",
+   "volume": "I",
+   "sentence": "Udumbara consists of dried bark of Ficus racemosa Linn. Syn. Ficus glomerata Roxb."
+  },
+  {
+   "name": "Upakuncika",
+   "heading": "UPAKUNCIKA (Seed)",
+   "part": "seed",
+   "binomial": "Nigella sativa",
+   "synonym": null,
+   "family": "Ranunculaceae",
+   "volume": "I",
+   "sentence": "Upakuncika consists of seeds of Nigella sativa Linn."
+  },
+  {
+   "name": "Varuna",
+   "heading": "VARUNA (Stem bark)",
+   "part": "stem bark",
+   "binomial": "Crataeva nurvala",
+   "synonym": null,
+   "family": "Capparidaceae",
+   "volume": "I",
+   "sentence": "Varuna consists of dried stem bark of Crataeva nurvala Buck -Ham"
+  },
+  {
+   "name": "Vasa",
+   "heading": "VASA (Leaf)",
+   "part": "leaf",
+   "binomial": "Adhatoda vasica",
+   "synonym": null,
+   "family": "Acanthaceae",
+   "volume": "I",
+   "sentence": "Vasa consists of fresh, dried, mature leaves of Adhatoda vasica Nees"
+  },
+  {
+   "name": "Vidanga",
+   "heading": null,
+   "part": null,
+   "binomial": "Embelia ribes",
+   "synonym": null,
+   "family": "Myrsinaceae",
+   "volume": "I",
+   "sentence": "Vidanga consists of dried mature fruits of Embelia ribes Burm. F."
+  },
+  {
+   "name": "Vijaya",
+   "heading": "VIJAYA (Leaf)",
+   "part": "leaf",
+   "binomial": "Cannabis sativa",
+   "synonym": null,
+   "family": "Cannabinaceae",
+   "volume": "I",
+   "sentence": "Vijaya consists of dried leaves of cultivated or wild plants of Cannabis sativa Linn."
+  },
+  {
+   "name": "Yasti",
+   "heading": "YASTI (Stem &Root)",
+   "part": "stem &root",
+   "binomial": "Glycyrrhiza glabra",
+   "synonym": null,
+   "family": null,
+   "volume": "I",
+   "sentence": "Yasti consists of dried, unpeeled, stolon and root of Glycyrrhiza glabra Linn,"
+  },
+  {
+   "name": "Yavani",
+   "heading": "YAVANI (Fruit)",
+   "part": "fruit",
+   "binomial": "Trachyspermum ammi",
+   "synonym": "Carum copticum",
+   "family": "Umbelliferae",
+   "volume": "I",
+   "sentence": "Yavani consists of dried fruit of Trachyspermum ammi (Linn.) Sprague ex Turril Syn. Carum copticum Benth & Hook. f. Ptychotis ajwan DC."
+  },
+  {
+   "name": "Akarakarabha",
+   "heading": "AKARAKARABHA (Root)",
+   "part": "root",
+   "binomial": "Anacyclus pyrethrum",
+   "synonym": null,
+   "family": "Asteraceae",
+   "volume": "II",
+   "sentence": "Akarakarabha consists of dried roots of Anacyclus pyrethrum DC."
+  },
+  {
+   "name": "Aksoda",
+   "heading": "AKSODA (Cotyledon)",
+   "part": "cotyledon",
+   "binomial": "Juglans regia",
+   "synonym": null,
+   "family": "Juglandaceae",
+   "volume": "II",
+   "sentence": "Aksoda consists of dried cotyledons of Juglans regia Linn."
+  },
+  {
+   "name": "Amrata",
+   "heading": "AMRATA (Stem Bark)",
+   "part": "stem bark",
+   "binomial": "Spondias pinnata",
+   "synonym": null,
+   "family": "Anacardiaceae",
+   "volume": "II",
+   "sentence": "Amrata consists of dried stem bark of Spondias pinnata Linn. f. Kurz. Syn. S. mangifera Willd.; S. acuminata Roxb. non Gamble"
+  },
+  {
+   "name": "Apamarga",
+   "heading": "APAMARGA (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Achyranthes aspera",
+   "synonym": null,
+   "family": "Amaranthaceae",
+   "volume": "II",
+   "sentence": "Apamarga consists of dried whole plant of Achyranthes aspera Linn."
+  },
+  {
+   "name": "Aparajita",
+   "heading": "APARAJITA (Root)",
+   "part": "root",
+   "binomial": "Clitoria tematea",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "II",
+   "sentence": "Aparajita consists of dried root of Clitoria tematea Linn."
+  },
+  {
+   "name": "Ardraka",
+   "heading": "ARDRAKA (Rhizome)",
+   "part": "rhizome",
+   "binomial": "Zingiber officinale",
+   "synonym": null,
+   "family": "Zingiberaceae",
+   "volume": "II",
+   "sentence": "Ardraka consists of fresh rhizome of Zingiber officinale Rose."
+  },
+  {
+   "name": "Arimeda",
+   "heading": "ARIMEDA (Stem Bark)",
+   "part": "stem bark",
+   "binomial": "Acacia leucophloea",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "II",
+   "sentence": "Arimeda consists of dried stem bark of Acacia leucophloea Willd."
+  },
+  {
+   "name": "Arjuna",
+   "heading": "ARJUNA (Stem Bark)",
+   "part": "stem bark",
+   "binomial": "Terminalia arjuna",
+   "synonym": null,
+   "family": "Combretaceae",
+   "volume": "II",
+   "sentence": "Arjuna consists of the stem bark of Terminalia arjuna W.& A."
+  },
+  {
+   "name": "Bhallataka",
+   "heading": "BHALLATAKA (Fruit)",
+   "part": "fruit",
+   "binomial": "Semecarpus anacardium",
+   "synonym": null,
+   "family": "Anacardiaceae",
+   "volume": "II",
+   "sentence": "Bhallataka consists of mature fruit of Semecarpus anacardium Linn."
+  },
+  {
+   "name": "Bhrngaraja",
+   "heading": "BHRNGARAJA (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Eclipta alba",
+   "synonym": null,
+   "family": "Asteraceae",
+   "volume": "II",
+   "sentence": "Bhrngaraja consists of whole plant of Eclipta alba Hassk."
+  },
+  {
+   "name": "Brhati",
+   "heading": "BRHATI (Root)",
+   "part": "root",
+   "binomial": "Solanum indicum",
+   "synonym": null,
+   "family": "Solanaceae",
+   "volume": "II",
+   "sentence": "Brhati consists of dried root of Solanum indicum Linn."
+  },
+  {
+   "name": "Cavya",
+   "heading": "CAVYA (Stem)",
+   "part": "stem",
+   "binomial": "Piper retrofractum",
+   "synonym": null,
+   "family": "Piperaceae",
+   "volume": "II",
+   "sentence": "Cavya consists of dried stem of Piper retrofractum Vahl. Syn. P. chaba Hunter non Blume., P. officinarum DC."
+  },
+  {
+   "name": "Dadima",
+   "heading": "DADIMA (Seed)",
+   "part": "seed",
+   "binomial": "Punica granatum",
+   "synonym": null,
+   "family": "Punicaceae",
+   "volume": "II",
+   "sentence": "Dadima consists of dried seed of Punica granatum Linn."
+  },
+  {
+   "name": "Daruharidra",
+   "heading": "DARUHARIDRA (Stem)",
+   "part": "stem",
+   "binomial": "Berberis aristata",
+   "synonym": null,
+   "family": "Berberidaceae",
+   "volume": "II",
+   "sentence": "Daruharidra consists of dried stem of Berberis aristata DC."
+  },
+  {
+   "name": "Dronapuspi",
+   "heading": "DRONAPUSPI (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Leucas cephalotes",
+   "synonym": null,
+   "family": "Lamiaceae",
+   "volume": "II",
+   "sentence": "Dronapuspi consists of dried whole plant of Leucas cephalotes Spreng."
+  },
+  {
+   "name": "Ervaru",
+   "heading": "ERVARU (Seed)",
+   "part": "seed",
+   "binomial": "Cucumis melo",
+   "synonym": null,
+   "family": "Cucurbitaceae",
+   "volume": "II",
+   "sentence": "Ervaru consists of seeds of Cucumis melo var. utilissimus Duthie & Fuller Syn. C. utilissimus Roxb."
+  },
+  {
+   "name": "Gajapippali",
+   "heading": "GAJAPEPPALI (Fruit)",
+   "part": "fruit",
+   "binomial": "Scindapsus officinalis",
+   "synonym": null,
+   "family": "Araceae",
+   "volume": "II",
+   "sentence": "Gajapippali consists of dried, transversely cut pieces of mature female spadix of Scindapsus officinalis Schoott."
+  },
+  {
+   "name": "Gambhari",
+   "heading": "GAMBHARI (Fruit)",
+   "part": "fruit",
+   "binomial": "Gmelina arborea",
+   "synonym": null,
+   "family": "Verbenaceae",
+   "volume": "II",
+   "sentence": "Gambhari consists of dried fruit of Gmelina arborea Roxb."
+  },
+  {
+   "name": "Gangeru",
+   "heading": "GANGERU (Stem bark)",
+   "part": "stem bark",
+   "binomial": "Grewia tenax",
+   "synonym": "Grewia populifolia",
+   "family": "Tiliaceae",
+   "volume": "II",
+   "sentence": "Gangeru consists of dried stem bark of Grewia tenax (Forsk.) Aschers & Schwf., Syn. Grewia populifolia Vahl,"
+  },
+  {
+   "name": "Gunja",
+   "heading": "GUNJA (Root)",
+   "part": "root",
+   "binomial": "Abrus precatorius",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "II",
+   "sentence": "Gunja consists of dried root of Abrus precatorius Linn."
+  },
+  {
+   "name": "Iksu",
+   "heading": "IKSU (Stem)",
+   "part": "stem",
+   "binomial": "Saccharum officinarum",
+   "synonym": null,
+   "family": "Poaceae",
+   "volume": "II",
+   "sentence": "Iksu consists of the dried stem of Saccharum officinarum Linn."
+  },
+  {
+   "name": "Indravaruni",
+   "heading": "INDRAVARUNI (Root)",
+   "part": "root",
+   "binomial": "Citrullus colocynthis",
+   "synonym": null,
+   "family": "Cucurbitaceae",
+   "volume": "II",
+   "sentence": "Indravaruni consists of dried root of Citrullus colocynthis Schrad."
+  },
+  {
+   "name": "Indravaruni",
+   "heading": "INDRAVARUNI (Leaf)",
+   "part": "leaf",
+   "binomial": "Citrullus colocynthis",
+   "synonym": null,
+   "family": "Cucurbitaceae",
+   "volume": "II",
+   "sentence": "Indravaruni consists of dried leaves of Citrullus colocynthis Schrad."
+  },
+  {
+   "name": "Jambu",
+   "heading": "JAMBU (Seed)",
+   "part": "seed",
+   "binomial": "Syzygium cuminii",
+   "synonym": "Eugenia jambolana",
+   "family": "Myrtaceae",
+   "volume": "II",
+   "sentence": "Jambu consists of dried seeds of Syzygium cuminii (Linn.) Skeels Syn. Eugenia jambolana Lam.; E. cuminii Druce."
+  },
+  {
+   "name": "Jambu",
+   "heading": "JAMBU (Stem Bark)",
+   "part": "stem bark",
+   "binomial": "Syzygium cuminii",
+   "synonym": "Eugenia jambolana",
+   "family": "Myrtaceae",
+   "volume": "II",
+   "sentence": "Jambu consists of dried stem bark of Syzygium cuminii (Linn.) Skeels Syn. Eugenia jambolana Lam.; E. cuminii Druce."
+  },
+  {
+   "name": "Jayapala",
+   "heading": "JAYAPALA (Seed)",
+   "part": "seed",
+   "binomial": "Croton tiglium",
+   "synonym": null,
+   "family": "Euphorbiaceae",
+   "volume": "II",
+   "sentence": "Jayapala consists of dried seed of Croton tiglium Linn."
+  },
+  {
+   "name": "Jayanti",
+   "heading": "JAYANTI (Leaf)",
+   "part": "leaf",
+   "binomial": "Sesbania sesban",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "II",
+   "sentence": "Jayanti consists of fresh and dried leaf of Sesbania sesban (Linn.) Merr.,Syn. S. aegyptiaca Pers."
+  },
+  {
+   "name": "Jyotismati",
+   "heading": "JYOTISMATI (Seed)",
+   "part": "seed",
+   "binomial": "Celastrus paniculatus",
+   "synonym": null,
+   "family": "Celastraceae",
+   "volume": "II",
+   "sentence": "Jyotismati consists of dried, brownish-orange, ripe seeds, devoid of capsule wall of Celastrus paniculatus Willd."
+  },
+  {
+   "name": "Kadamba",
+   "heading": "KADAMBA (Stem Bark)",
+   "part": "stem bark",
+   "binomial": "Anthocephalus cadamba",
+   "synonym": null,
+   "family": "Rubiaceae",
+   "volume": "II",
+   "sentence": "Kadamba consists of dried stem bark of Anthocephalus cadamba Miq., Syn. A. indicus A. Rich."
+  },
+  {
+   "name": "Kakamac i",
+   "heading": "KAKAMACI (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Solanum nigrum",
+   "synonym": null,
+   "family": "Solanaceae",
+   "volume": "II",
+   "sentence": "Kakamac i consists of the dried whole plant of Solanum nigrum Linn."
+  },
+  {
+   "name": "Kamala",
+   "heading": "KAMALA (Flower)",
+   "part": "flower",
+   "binomial": "Nelumbo nucifera",
+   "synonym": "Nelumbium speciosum",
+   "family": "Nymphaeaceae",
+   "volume": "II",
+   "sentence": "Kamala consists of dried flowers (devoid of stalk) of Nelumbo nucifera Gaertn. Syn. Nelumbium speciosum Willd."
+  },
+  {
+   "name": "Kapittha",
+   "heading": "KAPITTHA (Fruit Pulp)",
+   "part": "fruit pulp",
+   "binomial": "Feronia limonia",
+   "synonym": null,
+   "family": null,
+   "volume": "II",
+   "sentence": "Kapittha consists of dried pulp of mature fruit of Feronia limonia (Linn.) Swingle. Syn. F. elephantum Correa (Faro. Rutaceae); a deciduous, glabrous tree with strong, sharp, straight, axillary thorns, found throughout the plains of India, Siwalik range and for"
+  },
+  {
+   "name": "Karamarda",
+   "heading": "KARAMARDA (Stem Bark)",
+   "part": "stem bark",
+   "binomial": "Carissa carandas",
+   "synonym": null,
+   "family": null,
+   "volume": "II",
+   "sentence": "Karamarda consists of dried stem bark of Carissa carandas Linn. (Fam . Apocynaceae); a dichotomously branched large shrub or small tree, met throughout India in wild state, sometimes cultivated."
+  },
+  {
+   "name": "Karanja",
+   "heading": "KARANJA (Root Bark)",
+   "part": "root bark",
+   "binomial": "Pongamia pinnata",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "II",
+   "sentence": "Karanja consists of dried root bark of Pongamia pinnata (Linn.) Merr., Syn. P. glabra Vent."
+  },
+  {
+   "name": "Karanja",
+   "heading": "KARANJA (Root)",
+   "part": "root",
+   "binomial": "Pongamia pinnata",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "II",
+   "sentence": "Karanja consists of dried root of Pongamia pinnata (Linn.) Merr., Syn. P. glabra Vent."
+  },
+  {
+   "name": "Karanja",
+   "heading": "KARANJA (Stem Bark)",
+   "part": "stem bark",
+   "binomial": "Pongamia pinnata",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "II",
+   "sentence": "Karanja consists of dried stem bark of Pongamia pinnata (Linn.) Merr., Syn. P. glabra Vent."
+  },
+  {
+   "name": "Karanja",
+   "heading": "KARANJA (Leaf)",
+   "part": "leaf",
+   "binomial": "Pongamia pinnata",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "II",
+   "sentence": "Karanja consists of dried leaf of Pongamia pinnata (Linn.) Merr., Syn. P. glabra Vent."
+  },
+  {
+   "name": "Karavallaka",
+   "heading": "KARAVALLAKA (Fresh Fruit)",
+   "part": "fresh fruit",
+   "binomial": "Momordica charantia",
+   "synonym": null,
+   "family": "Cucurbitaceae",
+   "volume": "II",
+   "sentence": "Karavallaka consists of fresh fruit of Momordica charantia Linn."
+  },
+  {
+   "name": "Kauka",
+   "heading": "KATUKA (Rhizome)",
+   "part": "rhizome",
+   "binomial": "Picrorhiza kurroa",
+   "synonym": null,
+   "family": "Scrophulariaceae",
+   "volume": "II",
+   "sentence": "Kauka consists of the dried rhizome with root of Picrorhiza kurroa Royle ex Benth."
+  },
+  {
+   "name": "Kokilaksa",
+   "heading": "KOKILAKSA (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Asteracantha longifolla",
+   "synonym": "Hygrophila spinosa",
+   "family": "Acanthaceae",
+   "volume": "II",
+   "sentence": "Kokilaksa consists of dried whole plant of Asteracantha longifolla Nees. Syn. Hygrophila spinosa 7. Anders"
+  },
+  {
+   "name": "Kokilaksa",
+   "heading": "KOKILAKSA (Root)",
+   "part": "root",
+   "binomial": "Asteracantha longifolia",
+   "synonym": "Hygrophila spinosa",
+   "family": "Acanthaceae",
+   "volume": "II",
+   "sentence": "Kokilaksa consists of dried root of Asteracantha longifolia Nees. Syn. Hygrophila spinosa T. Anders"
+  },
+  {
+   "name": "Kokilaksa",
+   "heading": "KOKILAKSA (Seed)",
+   "part": "seed",
+   "binomial": "Asteracantha longifolia",
+   "synonym": "Hygrophila spinosa",
+   "family": "Acanthaceae",
+   "volume": "II",
+   "sentence": "Kokilaksa consists of dried seed of Asteracantha longifolia Nees. Syn. Hygrophila spinosa T. Anders."
+  },
+  {
+   "name": "Kozuppa",
+   "heading": "KOZUPPA (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Portulaca oleracea",
+   "synonym": null,
+   "family": "Portulacaceae",
+   "volume": "II",
+   "sentence": "Kozuppa consists of dried whole plant of Portulaca oleracea Linn."
+  },
+  {
+   "name": "Lajjalu",
+   "heading": "LAJJALU (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Mimosa pudica",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "II",
+   "sentence": "Lajjalu consists of dried whole plant of Mimosa pudica Linn."
+  },
+  {
+   "name": "Madhuka",
+   "heading": "MADHUKA (Flower)",
+   "part": "flower",
+   "binomial": "Madhuca indica",
+   "synonym": null,
+   "family": "Sapotaceae",
+   "volume": "II",
+   "sentence": "Madhuka consists of flower usually without stalk or calyx of Madhuca indica J.F.Gmel. Syn. M. latifolia (Roxb.) Macbride, Bassia latifolia Roxb."
+  },
+  {
+   "name": "Matsyaksi",
+   "heading": "MATSYAKSI (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Alternanthera sessilis",
+   "synonym": null,
+   "family": "Amaranthaceae",
+   "volume": "II",
+   "sentence": "Matsyaksi consists of dried whole plant of Alternanthera sessilis (Linn.) R. Br., Syn, A. triandra Lam., A. denticulata R. Br., A. nodiflora R. Br., A. repens Gmel., non Link."
+  },
+  {
+   "name": "Methi",
+   "heading": "METHI (Seed)",
+   "part": "seed",
+   "binomial": "Trigonella foenum-graecum",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "II",
+   "sentence": "Methi consists of seeds of Trigonella foenum-graecum Linn."
+  },
+  {
+   "name": "Mulaka",
+   "heading": "MULAKA (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Raphanus sativus",
+   "synonym": null,
+   "family": "Brassicaceae",
+   "volume": "II",
+   "sentence": "Mulaka consists of fresh whole plant of Raphanus sativus Linn."
+  },
+  {
+   "name": "Mulaka",
+   "heading": "MULAKA (Root)",
+   "part": "root",
+   "binomial": "Raphanus sativus",
+   "synonym": null,
+   "family": "Brassicaceae",
+   "volume": "II",
+   "sentence": "Mulaka consists of fresh root of Raphanus sativus Linn."
+  },
+  {
+   "name": "Mura",
+   "heading": "MURA (Root)",
+   "part": "root",
+   "binomial": "Selinum candollei",
+   "synonym": null,
+   "family": null,
+   "volume": "II",
+   "sentence": "Mura consists of dried root of Selinum candollei DC. Syn. S. tenuifolium Wall, ex DC. (Fam. Apiaceae ); a perennial herb, 0.6 - 2.4 m tall, found commonly in the Himalayas from Kashmir to Nepal at an altitude of 1800 - 42000 m."
+  },
+  {
+   "name": "Murva",
+   "heading": "MURVA (Root)",
+   "part": "root",
+   "binomial": "Marsdenia tenacissima",
+   "synonym": null,
+   "family": "Asclepiadaceae",
+   "volume": "II",
+   "sentence": "Murva consists of dried root of Marsdenia tenacissima Wight. & Am."
+  },
+  {
+   "name": "Nagakesara",
+   "heading": "NAGAKESARA (Stamen)",
+   "part": "stamen",
+   "binomial": "Mesua ferrea",
+   "synonym": null,
+   "family": "Guttiferae",
+   "volume": "II",
+   "sentence": "Nagakesara consists of dried stamens of Mesua ferrea Linn."
+  },
+  {
+   "name": "Palasa",
+   "heading": "PALASA (Stem Bark)",
+   "part": "stem bark",
+   "binomial": "Butea monosperma",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "II",
+   "sentence": "Palasa consists of dried stem bark of Butea monosperma (Lam.) Kuntze"
+  },
+  {
+   "name": "Paribhadra",
+   "heading": "PARIBHADRA (Stem Bark)",
+   "part": "stem bark",
+   "binomial": "Erythrina indica",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "II",
+   "sentence": "Paribhadra consists of the dried stem bark of Erythrina indica Lam."
+  },
+  {
+   "name": "Pippalimula",
+   "heading": "PIPPALIMULA (Stem)",
+   "part": "stem",
+   "binomial": "Piper longum",
+   "synonym": null,
+   "family": "Piperaceae",
+   "volume": "II",
+   "sentence": "Pippalimula consists of dried, cut, stem pieces of Piper longum Linn."
+  },
+  {
+   "name": "Plaksa",
+   "heading": "PLAKSA (Stem Bark)",
+   "part": "stem bark",
+   "binomial": "Ficus lacor",
+   "synonym": null,
+   "family": "Moraceae",
+   "volume": "II",
+   "sentence": "Plaksa consists of dried stem bark of Ficus lacor Buch. - Ham. = F. lucescens Blume., Syn. F. infectoria Roxb."
+  },
+  {
+   "name": "Prasarini",
+   "heading": "PRASARINI (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Paederia foetida",
+   "synonym": null,
+   "family": "Rubiaceae",
+   "volume": "II",
+   "sentence": "Prasarini consists of dried whole plant of Paederia foetida Linn."
+  },
+  {
+   "name": "Priyala",
+   "heading": "PRIYALA (Seed)",
+   "part": "seed",
+   "binomial": "Buchanania lanzan",
+   "synonym": null,
+   "family": null,
+   "volume": "II",
+   "sentence": "Priyala consists of seed of Buchanania lanzan Spreng. Syn. B. latifolia Roxb. (Fam, Anacardiaceae); an evergreen tree upto 15 m high, found throughout the country in dry deciduous forests."
+  },
+  {
+   "name": "Priyangu",
+   "heading": "PRIYANGU (Inflorescence)",
+   "part": "inflorescence",
+   "binomial": "Callicarpa macrophylla",
+   "synonym": null,
+   "family": "Verbenaceae",
+   "volume": "II",
+   "sentence": "Priyangu consists of dried inflorescence of Callicarpa macrophylla Yahl."
+  },
+  {
+   "name": "Sali",
+   "heading": null,
+   "part": null,
+   "binomial": "Oryza sativa",
+   "synonym": null,
+   "family": "Poaceae",
+   "volume": "II",
+   "sentence": "Sali consists of dried root of Oryza sativa Linn."
+  },
+  {
+   "name": "Sankhapuspi",
+   "heading": "SANKHAPUSPI (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Convolvulus pluricaulis",
+   "synonym": null,
+   "family": "Convolvulaceae",
+   "volume": "II",
+   "sentence": "Sankhapuspi consists of whole plant of Convolvulus pluricaulis Choisy"
+  },
+  {
+   "name": "Saptala",
+   "heading": "SAPTALA (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Euphorbia dracunculoides",
+   "synonym": null,
+   "family": "Euphorbiaceae",
+   "volume": "II",
+   "sentence": "Saptala consists of dried whole plant of Euphorbia dracunculoides Lam."
+  },
+  {
+   "name": "Satahva",
+   "heading": null,
+   "part": null,
+   "binomial": "Anethum sowa",
+   "synonym": null,
+   "family": "Apiaceae",
+   "volume": "II",
+   "sentence": "Satahva consists of the dried ripe fruits of Anethum sowa Roxb. ex Flem. Syn. A. graveolens Linn. var. sowa Roxb.; A. graveolens DC.; Peucedanum sowa Roxb.; P. graveolens Benth."
+  },
+  {
+   "name": "Sigru",
+   "heading": null,
+   "part": null,
+   "binomial": "Moringa oleifera",
+   "synonym": "Moringa pterygosperma",
+   "family": "Moringaceae",
+   "volume": "II",
+   "sentence": "Sigru consists of dried leaf of Moringa oleifera Lam. Syn. Moringa pterygosperma Gaertn."
+  },
+  {
+   "name": "Sthulaila",
+   "heading": "STHULAILA (Seed)",
+   "part": "seed",
+   "binomial": "Amomum subulatum",
+   "synonym": null,
+   "family": "Zingiberaceae",
+   "volume": "II",
+   "sentence": "Sthulaila consists of dried seed of Amomum subulatum Roxb."
+  },
+  {
+   "name": "Tejovati",
+   "heading": "TEJOVATI (Stem Bark)",
+   "part": "stem bark",
+   "binomial": "Zanthoxylum armatum",
+   "synonym": null,
+   "family": "Rutaceae",
+   "volume": "II",
+   "sentence": "Tejovati consists of dried stem bark of Zanthoxylum armatum DC. Syn. Z. alatum Roxb."
+  },
+  {
+   "name": "Tulasi",
+   "heading": "TULASI (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Ocimum sanctum",
+   "synonym": null,
+   "family": "Lamiaceae",
+   "volume": "II",
+   "sentence": "Tulasi consists of dried whole plant of Ocimum sanctum Linn."
+  },
+  {
+   "name": "Tulasi",
+   "heading": "TULASI (Leaf)",
+   "part": "leaf",
+   "binomial": "Ocimum sanctum",
+   "synonym": null,
+   "family": "Lamiaceae",
+   "volume": "II",
+   "sentence": "Tulasi consists of dried leaf of Ocimum sanctum Linn."
+  },
+  {
+   "name": "Vaca",
+   "heading": "VACA (Rhizome)",
+   "part": "rhizome",
+   "binomial": "Acarus calamus",
+   "synonym": null,
+   "family": "Araceae",
+   "volume": "II",
+   "sentence": "Vaca consists of dried rhizome of Acarus calamus Linn."
+  },
+  {
+   "name": "Vatsanabha",
+   "heading": "VATSANABHA (Root)",
+   "part": "root",
+   "binomial": "Aconitum chasmanthum",
+   "synonym": null,
+   "family": "Ranunculaceae",
+   "volume": "II",
+   "sentence": "Vatsanabha consists of dried roots of Aconitum chasmanthum Stapf. ex Holmes"
+  },
+  {
+   "name": "Vidari",
+   "heading": "VIDARI (Tuberous Root)",
+   "part": "tuberous root",
+   "binomial": "Pueraria tuberosa",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "II",
+   "sentence": "Vidari consists of sliced and dried pieces of tuberous root of Pueraria tuberosa DC."
+  },
+  {
+   "name": "Yava",
+   "heading": "YAVA (Fruit)",
+   "part": "fruit",
+   "binomial": "Hordeum vulgare",
+   "synonym": null,
+   "family": "Poaceae",
+   "volume": "II",
+   "sentence": "Yava consists of dried fruit of Hordeum vulgare Linn. Syn. H. sativum Pers."
+  },
+  {
+   "name": "Yavasaka",
+   "heading": "YAVASAKA (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Alhagi pseudalhagi",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "II",
+   "sentence": "Yavasaka consists of dried whole plant of Alhagi pseudalhagi (Bieb). Desv."
+  },
+  {
+   "name": "Adhaki",
+   "heading": "ADHAKI (Root)",
+   "part": "root",
+   "binomial": "Cajanus cajan",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "III",
+   "sentence": "Adhaki consists of dried root of Cajanus cajan (Linn.) Millsp."
+  },
+  {
+   "name": "Agnimantha",
+   "heading": "MANTHA (Root)",
+   "part": "root",
+   "binomial": "Clerodendrum phlomidis",
+   "synonym": null,
+   "family": "Verbenaceae",
+   "volume": "III",
+   "sentence": "Agnimantha consists of dried mature roots of Clerodendrum phlomidis Linn."
+  },
+  {
+   "name": "Ambasthaki",
+   "heading": "AMBASTHAKI (Root)",
+   "part": "root",
+   "binomial": "Hibiscus sabdariffa",
+   "synonym": null,
+   "family": "Malvaceae",
+   "volume": "III",
+   "sentence": "Ambasthaki consists of dried roots of Hibiscus sabdariffa Linn."
+  },
+  {
+   "name": "Amra",
+   "heading": "AMRA (Seed)",
+   "part": "seed",
+   "binomial": "Mangifera indica",
+   "synonym": null,
+   "family": "Anacardiaceae",
+   "volume": "III",
+   "sentence": "Amra consists of dried seed of Mangifera indica Linn."
+  },
+  {
+   "name": "Amra",
+   "heading": "AMRA (Stem Bark)",
+   "part": "stem bark",
+   "binomial": "Mangifera indica",
+   "synonym": null,
+   "family": "Anacardiaceae",
+   "volume": "III",
+   "sentence": "Amra consists of dried stem bark of Mangifera indica Linn."
+  },
+  {
+   "name": "Amrata",
+   "heading": "AMRATA (Stem)",
+   "part": "stem",
+   "binomial": "Spondias pinnata",
+   "synonym": null,
+   "family": "Anacardiaceae",
+   "volume": "III",
+   "sentence": "Amrata consists of dried stem of Spondias pinnata (Linn, f.) Kurz Syn. S. mangifera Willd., S. acuminata Roxb. non Gamble"
+  },
+  {
+   "name": "Apamarga",
+   "heading": "APAMARGA (Root)",
+   "part": "root",
+   "binomial": "Achyranthes aspera",
+   "synonym": null,
+   "family": "Amaranthaceae",
+   "volume": "III",
+   "sentence": "Apamarga consists of dried root of Achyranthes aspera Linn."
+  },
+  {
+   "name": "Aralu",
+   "heading": "ARALU (Stem Bark)",
+   "part": "stem bark",
+   "binomial": "Ailanthus excelsa",
+   "synonym": null,
+   "family": "Simarubaceae",
+   "volume": "III",
+   "sentence": "Aralu consists of dried stem bark of Ailanthus excelsa Roxb."
+  },
+  {
+   "name": "Arka",
+   "heading": "ARKA (Stem Bark)",
+   "part": "stem bark",
+   "binomial": "Calotropis procera",
+   "synonym": null,
+   "family": "Asclepiadaceae",
+   "volume": "III",
+   "sentence": "Arka consists of dried stem bark of Calotropis procera (Ait.) R. Br."
+  },
+  {
+   "name": "Asana",
+   "heading": "ASANA (Stem Bark)",
+   "part": "stem bark",
+   "binomial": "Pterocarpus marsupium",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "III",
+   "sentence": "Asana consists of dried stem bark of Pterocarpus marsupium Roxb."
+  },
+  {
+   "name": "Asthisamhrta",
+   "heading": "A S THI S AMHRT A (Stem)",
+   "part": "stem",
+   "binomial": "Cissus quadrangularis",
+   "synonym": null,
+   "family": "Vitaceae",
+   "volume": "III",
+   "sentence": "Asthisamhrta consists of dried stem of Cissus quadrangularis Linn."
+  },
+  {
+   "name": "Atmagupta",
+   "heading": "ATMAGUPTA (Seed)",
+   "part": "seed",
+   "binomial": "Mucuna prurita",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "III",
+   "sentence": "Atmagupta consists of dried mature seed of Mucuna prurita Hook., Syn. M. pruriens Baker."
+  },
+  {
+   "name": "Bharangi",
+   "heading": "BHARANGI (Root)",
+   "part": "root",
+   "binomial": "Clerodendrum serratum",
+   "synonym": null,
+   "family": "Verbenaceae",
+   "volume": "III",
+   "sentence": "Bharangi consists of dried roots of Clerodendrum serratum (Linn.) Moon"
+  },
+  {
+   "name": "Bijapura",
+   "heading": "B I JAPURA (Fresh Fruit)",
+   "part": "fresh fruit",
+   "binomial": "Citrus medica",
+   "synonym": null,
+   "family": "Rutaceae",
+   "volume": "III",
+   "sentence": "Bijapura consists of fresh fruit of Citrus medica Linn."
+  },
+  {
+   "name": "Bilva",
+   "heading": "BILVA (Root)",
+   "part": "root",
+   "binomial": "Aegle marmelos",
+   "synonym": null,
+   "family": "Rutaceae",
+   "volume": "III",
+   "sentence": "Bilva consists of dried root of Aegle marmelos Corr."
+  },
+  {
+   "name": "Bimbi",
+   "heading": "BIMBI (Whole plant)",
+   "part": "whole plant",
+   "binomial": "Coccinia indica",
+   "synonym": "Cephalandra indica",
+   "family": "Cucurbitaceae",
+   "volume": "III",
+   "sentence": "Bimbi consists of dried whole. plant of Coccinia indica W. & A. = C. cordi folia Cogn. Syn. Cephalandra indica Naud."
+  },
+  {
+   "name": "Cangeri",
+   "heading": "CANGERI (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Oxalis corniculata",
+   "synonym": null,
+   "family": "Oxalidaceae",
+   "volume": "III",
+   "sentence": "Cangeri consists of dried whole plant of Oxalis corniculata Linn."
+  },
+  {
+   "name": "Cirabilva",
+   "heading": "CIRABILVA (Fruit)",
+   "part": "fruit",
+   "binomial": "Holoptelea integrifolia",
+   "synonym": null,
+   "family": "Ulmaceae",
+   "volume": "III",
+   "sentence": "Cirabilva consists of dried fruit of Holoptelea integrifolia Planch."
+  },
+  {
+   "name": "Danti",
+   "heading": "DANTI (Root)",
+   "part": "root",
+   "binomial": "Baliospermum montanum",
+   "synonym": null,
+   "family": "Euphorbiaceae",
+   "volume": "III",
+   "sentence": "Danti consists of dried root of Baliospermum montanum Muell.-Arg."
+  },
+  {
+   "name": "Dhattura",
+   "heading": "DHATTURA (Seed)",
+   "part": "seed",
+   "binomial": "Datura metel",
+   "synonym": null,
+   "family": "Solanaceae",
+   "volume": "III",
+   "sentence": "Dhattura consists of dried seeds of Datura metel Linn.; Syn. D. fastuosa L., D. alba Ramph; D. cornucopaea Hort."
+  },
+  {
+   "name": "Draksa",
+   "heading": "DRAKSA (Fruit)",
+   "part": "fruit",
+   "binomial": "Vitis vinifera",
+   "synonym": null,
+   "family": "Vitaceae",
+   "volume": "III",
+   "sentence": "Draksa consists of dried mature fruits of Vitis vinifera Linn."
+  },
+  {
+   "name": "Durva",
+   "heading": "DURVA (Root)",
+   "part": "root",
+   "binomial": "Cynodon dactylon",
+   "synonym": null,
+   "family": "Poaceae",
+   "volume": "III",
+   "sentence": "Durva consists of dried fibrous roots of Cynodon dactylon (Linn.) Pers."
+  },
+  {
+   "name": "Eranda",
+   "heading": "ERANDA (Fresh Leaf)",
+   "part": "fresh leaf",
+   "binomial": "Ricinus communis",
+   "synonym": null,
+   "family": "Euphorbiaceae",
+   "volume": "III",
+   "sentence": "Eranda consists of fresh leaf of Ricinus communis Linn, with entire petiole"
+  },
+  {
+   "name": "Eranda",
+   "heading": "ERANDA (Seed)",
+   "part": "seed",
+   "binomial": "Ricinus communis",
+   "synonym": null,
+   "family": "Euphorbiaceae",
+   "volume": "III",
+   "sentence": "Eranda consists of dried seed of Ricinus communis Linn."
+  },
+  {
+   "name": "Gambhari",
+   "heading": "GAMBHARI (Stem)",
+   "part": "stem",
+   "binomial": "Gmelina arborea",
+   "synonym": null,
+   "family": "Verbenaceae",
+   "volume": "III",
+   "sentence": "Gambhari consists of dried stem of Gmelina arborea Roxb."
+  },
+  {
+   "name": "Gojihva",
+   "heading": "GOJIHVA (Aerial Part)",
+   "part": "aerial part",
+   "binomial": "Onosma bracteatum",
+   "synonym": null,
+   "family": "Boraginaceae",
+   "volume": "III",
+   "sentence": "Gojihva consists of dried leaf and stem portion of Onosma bracteatum Wall."
+  },
+  {
+   "name": "Granthiparni",
+   "heading": "GRANTHIPARNI (Root)",
+   "part": "root",
+   "binomial": "Leonotis nepetaefolia",
+   "synonym": null,
+   "family": "Lamiaceae",
+   "volume": "III",
+   "sentence": "Granthiparni consists of root of Leonotis nepetaefolia R. Br."
+  },
+  {
+   "name": "Hamsapadi",
+   "heading": "HAMS AP AD I (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Adiantum lunulatum",
+   "synonym": null,
+   "family": "Polypodiaceae",
+   "volume": "III",
+   "sentence": "Hamsapadi consists of dried whole plant of Adiantum lunulatum Burm."
+  },
+  {
+   "name": "Hapusa",
+   "heading": "HAPUSA (Fruit)",
+   "part": "fruit",
+   "binomial": "Juniperus communis",
+   "synonym": null,
+   "family": "Cupressaceae",
+   "volume": "III",
+   "sentence": "Hapusa consists of dried fruit of Juniperus communis Linn"
+  },
+  {
+   "name": "Indravaruni",
+   "heading": "INDRAVARUNI (Fruit)",
+   "part": "fruit",
+   "binomial": "Citrullus colocynthis",
+   "synonym": null,
+   "family": "Cucurbitaceae",
+   "volume": "III",
+   "sentence": "Indravaruni consists of dried/peeled cut pieces of the fruit of Citrullus colocynthis Schrad."
+  },
+  {
+   "name": "Indrayava",
+   "heading": "INDRAY A VA (Seed)",
+   "part": "seed",
+   "binomial": "Holarrhena antidysenterica",
+   "synonym": null,
+   "family": "Apocynaceae",
+   "volume": "III",
+   "sentence": "Indrayava consists of dried seeds of Holarrhena antidysenterica Wall."
+  },
+  {
+   "name": "Isvari",
+   "heading": "ISVARI (Root)",
+   "part": "root",
+   "binomial": "Aristolochia indica",
+   "synonym": null,
+   "family": "Aristolochiaceae",
+   "volume": "III",
+   "sentence": "Isvari consists of dried root of Aristolochia indica Linn,"
+  },
+  {
+   "name": "Jati",
+   "heading": "JATI (Leaf)",
+   "part": "leaf",
+   "binomial": "Jasminum officinale",
+   "synonym": null,
+   "family": "Oleaceae",
+   "volume": "III",
+   "sentence": "Jati consists of dried leaves of Jasminum officinale Linn."
+  },
+  {
+   "name": "Kadali",
+   "heading": "KADALI (Rhizome)",
+   "part": "rhizome",
+   "binomial": "Musa paradisiaca",
+   "synonym": null,
+   "family": "Musaceae",
+   "volume": "III",
+   "sentence": "Kadali consists of fresh rhizome of Musa paradisiaca Linn."
+  },
+  {
+   "name": "Kakajangha",
+   "heading": "KAKAJANGHA (Root)",
+   "part": "root",
+   "binomial": "Peristrophe bicalyculala",
+   "synonym": null,
+   "family": "Acanthaceae",
+   "volume": "III",
+   "sentence": "Kakajangha consists of dried root of Peristrophe bicalyculala Nees"
+  },
+  {
+   "name": "Kakanasika",
+   "heading": "KAKANASIKA (Seed)",
+   "part": "seed",
+   "binomial": "Martynia annua",
+   "synonym": null,
+   "family": "Martyniaceae",
+   "volume": "III",
+   "sentence": "Kakanasika consists of dried seed of Martynia annua Linn. Syn. M diandra Glox."
+  },
+  {
+   "name": "Kakoli",
+   "heading": "KAKOLI (Tuberous Root)",
+   "part": "tuberous root",
+   "binomial": "Lilium polyphyllum",
+   "synonym": null,
+   "family": "Liliaceae",
+   "volume": "III",
+   "sentence": "Kakoli consists of dried tuberous root of Lilium polyphyllum D.Don"
+  },
+  {
+   "name": "Kamala",
+   "heading": "KAMALA (Rhizome)",
+   "part": "rhizome",
+   "binomial": "Nelumbo nucifera",
+   "synonym": "Nelumbium nelumbo",
+   "family": "Nymphaeaceae",
+   "volume": "III",
+   "sentence": "Kamala consists of dried rhizome with roots attached at nodes of Nelumbo nucifera Gaertn. Syn. Nelumbium nelumbo Druce, N. speciosum Willd."
+  },
+  {
+   "name": "Karavira",
+   "heading": "KARAVIRA (Root)",
+   "part": "root",
+   "binomial": "Nerium indicum",
+   "synonym": null,
+   "family": "Apocynaceae",
+   "volume": "III",
+   "sentence": "Karavira consists of dried root of Nerium indicum Mill, Syn. N. odorum Soland"
+  },
+  {
+   "name": "Karamarda",
+   "heading": "KARAMARDA (Root)",
+   "part": "root",
+   "binomial": "Carissa carandas",
+   "synonym": null,
+   "family": "Apocynaceae",
+   "volume": "III",
+   "sentence": "Karamarda consists of dried root of Carissa carandas Linn."
+  },
+  {
+   "name": "Kasa",
+   "heading": "KASA (Root Stock)",
+   "part": "root stock",
+   "binomial": "Saccharum spontaneum",
+   "synonym": null,
+   "family": "Poaceae",
+   "volume": "III",
+   "sentence": "Kasa consists of dried root stock with attached stem portion of Saccharum spontaneum Linn."
+  },
+  {
+   "name": "Katphala",
+   "heading": "KATPHALA (Fruit)",
+   "part": "fruit",
+   "binomial": "Myrica esculenta",
+   "synonym": null,
+   "family": "Myricaceae",
+   "volume": "III",
+   "sentence": "Katphala consists of dried fruit of Myrica esculenta Buch.- Ham. Ex D. Don Syn. M. nagi Hook.f."
+  },
+  {
+   "name": "Katphala",
+   "heading": "KATPHALA (Stem Bark)",
+   "part": "stem bark",
+   "binomial": "Myrica esculenta",
+   "synonym": null,
+   "family": "Myricaceae",
+   "volume": "III",
+   "sentence": "Katphala consists of dried stem bark of Myrica esculenta Buch - Ham. Ex D. Don, Syn. M. nagi Hook.f."
+  },
+  {
+   "name": "Kola",
+   "heading": "KOLA (Fruit Pulp)",
+   "part": "fruit pulp",
+   "binomial": "Zizyphus mauritiana",
+   "synonym": null,
+   "family": "Rhamnaceae",
+   "volume": "III",
+   "sentence": "Kola consists of dried fruit pulp (devoid of seed) of Zizyphus mauritiana Lam. Syn. Z. jujuba Lam."
+  },
+  {
+   "name": "Kola",
+   "heading": "KOLA (Steam Bark)",
+   "part": "steam bark",
+   "binomial": "Zizyphus mauritiana",
+   "synonym": null,
+   "family": "Rhamnaceae",
+   "volume": "III",
+   "sentence": "Kola consists of dried stem bark of Zizyphus mauritiana Lam. Syn Z. jujuba Lam."
+  },
+  {
+   "name": "Kosataki",
+   "heading": "KOSATAKI (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Luffa acutangula",
+   "synonym": null,
+   "family": "Cucurbitaceae",
+   "volume": "III",
+   "sentence": "Kosataki consists of dried whole plant of Luffa acutangula (Linn.) Roxb."
+  },
+  {
+   "name": "Kumuda",
+   "heading": "KUMUDA (Flower)",
+   "part": "flower",
+   "binomial": "Nymphaea alba",
+   "synonym": null,
+   "family": "Nymphaeaceae",
+   "volume": "III",
+   "sentence": "Kumuda consists of dried flowers of Nymphaea alba Linn."
+  },
+  {
+   "name": "Kusa",
+   "heading": "KUSA (Rootstock)",
+   "part": "rootstock",
+   "binomial": "Desmostachya bipinnata",
+   "synonym": null,
+   "family": "Poaceae",
+   "volume": "III",
+   "sentence": "Kusa consists of dried root stock of Desmostachya bipinnata Stapf."
+  },
+  {
+   "name": "Langali",
+   "heading": "LANGALI (Tuberous Root)",
+   "part": "tuberous root",
+   "binomial": "Gloriosa superba",
+   "synonym": null,
+   "family": "Liliaceae",
+   "volume": "III",
+   "sentence": "Langali consists of dried tuberous root of Gloriosa superba Linn."
+  },
+  {
+   "name": "Lasuna",
+   "heading": "LASUNA (Bulb)",
+   "part": "bulb",
+   "binomial": "Allium sativum",
+   "synonym": null,
+   "family": "Liliaceae",
+   "volume": "III",
+   "sentence": "Lasuna consists of bulb of Allium sativum Linn."
+  },
+  {
+   "name": "Mahabala",
+   "heading": "MAHABALA (Root)",
+   "part": "root",
+   "binomial": "Sida rhombifolia",
+   "synonym": null,
+   "family": "Malvaceae",
+   "volume": "III",
+   "sentence": "Mahabala consists of dried roots of Sida rhombifolia Linn."
+  },
+  {
+   "name": "Manjistha",
+   "heading": "MANJISTHA (Stem)",
+   "part": "stem",
+   "binomial": "Rubia cordifolia",
+   "synonym": null,
+   "family": "Rubiaceae",
+   "volume": "III",
+   "sentence": "Manjistha consists of dried stem of Rubia cordifolia Linn."
+  },
+  {
+   "name": "Marica",
+   "heading": "MARICA (Fruit)",
+   "part": "fruit",
+   "binomial": "Piper nigrum",
+   "synonym": null,
+   "family": "Piperaceae",
+   "volume": "III",
+   "sentence": "Marica consists of fully mature dried fruit of Piper nigrum Linn."
+  },
+  {
+   "name": "Masaparni",
+   "heading": "MASAPARNI (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Teramnus labialis",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "III",
+   "sentence": "Masaparni consists of dried whole plant of Teramnus labialis Spreng."
+  },
+  {
+   "name": "Masura",
+   "heading": "MASURA (Seed)",
+   "part": "seed",
+   "binomial": "Lens culinaris",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "III",
+   "sentence": "Masura consists of dried seed of Lens culinaris Medic."
+  },
+  {
+   "name": "Mudga",
+   "heading": "MUDGA (Seed)",
+   "part": "seed",
+   "binomial": "Phaseolus radiatus",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "III",
+   "sentence": "Mudga consists of dried seeds of Phaseolus radiatus Linn."
+  },
+  {
+   "name": "Mulaka",
+   "heading": "MULAKA (Seed)",
+   "part": "seed",
+   "binomial": "Raphanus sativus",
+   "synonym": null,
+   "family": "Brassicaceae",
+   "volume": "III",
+   "sentence": "Mulaka consists of dried seed of Raphanus sativus Linn."
+  },
+  {
+   "name": "Munditika",
+   "heading": "MUNDITIKA (Leaf)",
+   "part": "leaf",
+   "binomial": "Sphaeranthus indicus",
+   "synonym": null,
+   "family": "Asteraceae",
+   "volume": "III",
+   "sentence": "Munditika consists of dried leaf of Sphaeranthus indicus Linn."
+  },
+  {
+   "name": "Musta",
+   "heading": "MUSTA (Rhizome)",
+   "part": "rhizome",
+   "binomial": "Cyperus rotundus",
+   "synonym": null,
+   "family": "Cyperaceae",
+   "volume": "III",
+   "sentence": "Musta consists of dried rhizome of Cyperus rotundus Linn."
+  },
+  {
+   "name": "Nagavalli",
+   "heading": "NAGAYALLI (Leaf)",
+   "part": "leaf",
+   "binomial": "Piper betle",
+   "synonym": null,
+   "family": "Piperaceae",
+   "volume": "III",
+   "sentence": "Nagavalli consists of leaf of Piper betle Linn."
+  },
+  {
+   "name": "Narikela",
+   "heading": "NARIKELA (Endosperm)",
+   "part": "endosperm",
+   "binomial": "Cocos nucifera",
+   "synonym": null,
+   "family": "Arecaceae",
+   "volume": "III",
+   "sentence": "Narikela consists of dried endosperm of Cocos nucifera Linn."
+  },
+  {
+   "name": "Nicula",
+   "heading": "NICULA (Fruit)",
+   "part": "fruit",
+   "binomial": "Barringtonia acutangula",
+   "synonym": null,
+   "family": "Lecythidaceae",
+   "volume": "III",
+   "sentence": "Nicula consists of dried fruit of Barringtonia acutangula (Linn.) Gaertn."
+  },
+  {
+   "name": "Nili",
+   "heading": "NIL I (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Indigofera tinctoria",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "III",
+   "sentence": "Nili consists of dried whole plant of Indigofera tinctoria Linn."
+  },
+  {
+   "name": "Nirgundi",
+   "heading": "NIRGUNDI (Leaf)",
+   "part": "leaf",
+   "binomial": "Vitex negundo",
+   "synonym": null,
+   "family": "Verbenaceae",
+   "volume": "III",
+   "sentence": "Nirgundi consists of dried leaf of Vitex negundo Linn."
+  },
+  {
+   "name": "Padmaka",
+   "heading": "PADMAKA (Heart Wood)",
+   "part": "heart wood",
+   "binomial": "Prunus cerasoides",
+   "synonym": null,
+   "family": "Rosaceae",
+   "volume": "III",
+   "sentence": "Padmaka consists of heart wood of Prunus cerasoides; D. Don"
+  },
+  {
+   "name": "Phalgu",
+   "heading": "PHALGU (Fruit)",
+   "part": "fruit",
+   "binomial": "Ficus hispida",
+   "synonym": null,
+   "family": "Moraceae",
+   "volume": "III",
+   "sentence": "Phalgu consists of dried fruits of Ficus hispida Linn. f."
+  },
+  {
+   "name": "Phalgu",
+   "heading": "PHALGU (Root)",
+   "part": "root",
+   "binomial": "Ficus hispida",
+   "synonym": null,
+   "family": "Moraceae",
+   "volume": "III",
+   "sentence": "Phalgu consists of dried root of Ficus hispida Linn. f."
+  },
+  {
+   "name": "Prapunnada",
+   "heading": "PRAPUNNADA (Seed)",
+   "part": "seed",
+   "binomial": "Cassia tora",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "III",
+   "sentence": "Prapunnada consists of dried seed of Cassia tora Linn."
+  },
+  {
+   "name": "Raktacandana",
+   "heading": "RAKTACANDANA (Heart Wood)",
+   "part": "heart wood",
+   "binomial": "Pterocarpus santalinus",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "III",
+   "sentence": "Raktacandana consists of heart wood of Pterocarpus santalinus Linn. f."
+  },
+  {
+   "name": "Rasna",
+   "heading": "RASNA (Leal)",
+   "part": "leal",
+   "binomial": "Pluchea lanceolata",
+   "synonym": null,
+   "family": "Asteraceae",
+   "volume": "III",
+   "sentence": "Rasna consists of dried leaf of Pluchea lanceolata Oliver & Hiem."
+  },
+  {
+   "name": "Sahacara",
+   "heading": "SAHACARA (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Barleria prionitis",
+   "synonym": null,
+   "family": "Acanthaceae",
+   "volume": "III",
+   "sentence": "Sahacara consists of dried whole plant of Barleria prionitis Linn."
+  },
+  {
+   "name": "Sahadevi",
+   "heading": "SAHADEVI (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Vernonia cinerea",
+   "synonym": null,
+   "family": "Asteraceae",
+   "volume": "III",
+   "sentence": "Sahadevi consists of dried whole plant of Vernonia cinerea Lees."
+  },
+  {
+   "name": "Saileya",
+   "heading": null,
+   "part": null,
+   "binomial": "Parmelia perlata",
+   "synonym": null,
+   "family": "Parmeliaceae",
+   "volume": "III",
+   "sentence": "Saileya consists of the whole thallus of Parmelia perlata (Huds.) Ach."
+  },
+  {
+   "name": "Saka",
+   "heading": null,
+   "part": null,
+   "binomial": "Tectona grandis",
+   "synonym": null,
+   "family": "Verbenaceae",
+   "volume": "III",
+   "sentence": "Saka consists of dried heart wood of Tectona grandis Linn. f."
+  },
+  {
+   "name": "Sakhotaka",
+   "heading": null,
+   "part": null,
+   "binomial": "Streblus asper",
+   "synonym": null,
+   "family": "Moraceae",
+   "volume": "III",
+   "sentence": "Sakhotaka consists of stem bark of Streblus asper Lour."
+  },
+  {
+   "name": "Salaparni",
+   "heading": null,
+   "part": null,
+   "binomial": "Desmodium gangeticum",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "III",
+   "sentence": "Salaparni consists of dried root of Desmodium gangeticum DC."
+  },
+  {
+   "name": "Sali",
+   "heading": null,
+   "part": null,
+   "binomial": "Oryza sativa",
+   "synonym": null,
+   "family": "Poaceae",
+   "volume": "III",
+   "sentence": "Sali consists of dried fruit of Oryza sativa Linn."
+  },
+  {
+   "name": "Salmali",
+   "heading": null,
+   "part": null,
+   "binomial": "Bombax ceiba",
+   "synonym": null,
+   "family": "Bombacaceae",
+   "volume": "III",
+   "sentence": "Salmali consists of the mature stem bark of Bombax ceiba Linn. Syn. B. malabaricum DC., Salmalia malabarica Schott. & Endl."
+  },
+  {
+   "name": "Sana",
+   "heading": null,
+   "part": null,
+   "binomial": "Crotolaria juncea",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "III",
+   "sentence": "Sana consists of dried seed of Crotolaria juncea Linn."
+  },
+  {
+   "name": "Sara",
+   "heading": null,
+   "part": null,
+   "binomial": "Saccharum bengalense",
+   "synonym": null,
+   "family": "Poaceae",
+   "volume": "III",
+   "sentence": "Sara consists of dried roots of Saccharum bengalense Retz. Syn. S. sara Roxb.; S. munja Roxb."
+  },
+  {
+   "name": "Sarala",
+   "heading": "SARALA (Heart Wood)",
+   "part": "heart wood",
+   "binomial": "Pinus roxburghii",
+   "synonym": null,
+   "family": "Pinaceae",
+   "volume": "III",
+   "sentence": "Sarala consists of dried heart wood of Pinus roxburghii Sargent"
+  },
+  {
+   "name": "Sarala",
+   "heading": "SARALA (Root)",
+   "part": "root",
+   "binomial": "Pinus roxburghii",
+   "synonym": null,
+   "family": "Pinaceae",
+   "volume": "III",
+   "sentence": "Sarala consists of dried root of Pinus roxburghii Sargent."
+  },
+  {
+   "name": "Sarsapa",
+   "heading": "SARSAPA (Seed)",
+   "part": "seed",
+   "binomial": "Brassica campestris",
+   "synonym": null,
+   "family": "Brassicaceae",
+   "volume": "III",
+   "sentence": "Sarsapa consists of dried seed of Brassica campestris Linn."
+  },
+  {
+   "name": "Satapatrika",
+   "heading": null,
+   "part": null,
+   "binomial": "Rosa centifolia",
+   "synonym": null,
+   "family": "Rosaceae",
+   "volume": "III",
+   "sentence": "Satapatrika consists of dried flower of Rosa centifolia Linn."
+  },
+  {
+   "name": "Simsapa",
+   "heading": "SIMSAPA (Heart Wood)",
+   "part": "heart wood",
+   "binomial": "Dalbergia sissoo",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "III",
+   "sentence": "Simsapa consists of dried heart wood of Dalbergia sissoo Roxb."
+  },
+  {
+   "name": "Simsapa",
+   "heading": "SIMSAPA (Stem Bark)",
+   "part": "stem bark",
+   "binomial": "Dalbergia sissoo",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "III",
+   "sentence": "Simsapa consists of dried stem bark of Dalbergia sissoo Roxb."
+  },
+  {
+   "name": "Sirisa",
+   "heading": null,
+   "part": null,
+   "binomial": "Albizzia lebbeck",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "III",
+   "sentence": "Sirisa consists of stem bark of Albizzia lebbeck Benth."
+  },
+  {
+   "name": "Sthauneya",
+   "heading": "STHAUNEYA (Leaf)",
+   "part": "leaf",
+   "binomial": "Taxus baccata",
+   "synonym": null,
+   "family": "Taxaceae",
+   "volume": "III",
+   "sentence": "Sthauneya consists of dried leaf of Taxus baccata Linn."
+  },
+  {
+   "name": "Surana",
+   "heading": "SURANA (Corm)",
+   "part": "corm",
+   "binomial": "Amorphophallus campanulatus",
+   "synonym": null,
+   "family": "Araceae",
+   "volume": "III",
+   "sentence": "Surana consists of dried corm of Amorphophallus campanulatus (Roxb.) Blume."
+  },
+  {
+   "name": "Svetacandana",
+   "heading": null,
+   "part": null,
+   "binomial": "Santalum album",
+   "synonym": null,
+   "family": "Santalaceae",
+   "volume": "III",
+   "sentence": "Svetacandana consists of dried heart wood of Santalum album Linn."
+  },
+  {
+   "name": "Syonaka",
+   "heading": null,
+   "part": null,
+   "binomial": "Oroxylum indicum",
+   "synonym": null,
+   "family": "Bignoniaceae",
+   "volume": "III",
+   "sentence": "Syonaka consists of dried root of Oroxylum indicum Vent."
+  },
+  {
+   "name": "Tala",
+   "heading": "TALA (Inflorescence)",
+   "part": "inflorescence",
+   "binomial": "Borassus flabellifer",
+   "synonym": null,
+   "family": "Araceae",
+   "volume": "III",
+   "sentence": "Tala consists of dried male inflorescence of Borassus flabellifer Linn."
+  },
+  {
+   "name": "Trivrt",
+   "heading": "TRIVRT (Root)",
+   "part": "root",
+   "binomial": "Operculina turpethum",
+   "synonym": "Ipomoea turpethum",
+   "family": "Convolvulaceae",
+   "volume": "III",
+   "sentence": "Trivrt consists of dried root of Operculina turpethum (Linn.) Silva Manso Syn. Ipomoea turpethum R. Br."
+  },
+  {
+   "name": "Tumbini",
+   "heading": "TUMBINI (Fresh Fruit)",
+   "part": "fresh fruit",
+   "binomial": "Lagenaria siceraria",
+   "synonym": null,
+   "family": "Cucurbitaceae",
+   "volume": "III",
+   "sentence": "Tumbini consists of fresh fruit (devoid of stalk) of Lagenaria siceraria (Mol.) Standi. Syn. L. leucantha Rusby., L. vulgaris Ser."
+  },
+  {
+   "name": "Udumbara",
+   "heading": "UDUMBARA (Fruit)",
+   "part": "fruit",
+   "binomial": "Ficus glomerata",
+   "synonym": null,
+   "family": "Moraceae",
+   "volume": "III",
+   "sentence": "Udumbara consists of dried fruit of Ficus glomerata Roxb. Syn. F. racemosa Linn."
+  },
+  {
+   "name": "Usira",
+   "heading": "US IRA (Root)",
+   "part": "root",
+   "binomial": "Vetiveria zizanioides",
+   "synonym": null,
+   "family": "Poaceae",
+   "volume": "III",
+   "sentence": "Usira consists of dried fragrant fibrous roots of Vetiveria zizanioides (Linn.) Nash"
+  },
+  {
+   "name": "Utpala",
+   "heading": "UTPALA (Flower)",
+   "part": "flower",
+   "binomial": "Nymphaea stellata",
+   "synonym": null,
+   "family": "Nymphaceae",
+   "volume": "III",
+   "sentence": "Utpala consists of dried flower of Nymphaea stellata Willd."
+  },
+  {
+   "name": "Adhaki",
+   "heading": "ADHAKI (Seed)",
+   "part": "seed",
+   "binomial": "Cajanus cajan",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "IV",
+   "sentence": "Adhaki consists of dried seed of Cajanus cajan Linn."
+  },
+  {
+   "name": "Agaru",
+   "heading": "AGARU (Heart Wood)",
+   "part": "heart wood",
+   "binomial": "Aquilaria agallocha",
+   "synonym": null,
+   "family": "Thymelacaceae",
+   "volume": "IV",
+   "sentence": "Agaru consists of dried heart wood of Aquilaria agallocha Roxb."
+  },
+  {
+   "name": "Aklari",
+   "heading": "AKLARI (Endosperm)",
+   "part": "endosperm",
+   "binomial": "Lodoicea maldivica",
+   "synonym": null,
+   "family": "Arecaceae",
+   "volume": "IV",
+   "sentence": "Aklari consists of dried endosperm of Lodoicea maldivica Pers. Syn. L. seychel larum Labill."
+  },
+  {
+   "name": "Aparajita",
+   "heading": "APARAJITA (Leaf)",
+   "part": "leaf",
+   "binomial": "Clitoria ternatea",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "IV",
+   "sentence": "Aparajita consists of dried leaf of Clitoria ternatea Linn."
+  },
+  {
+   "name": "Atmagupta",
+   "heading": "ATMAGUPTA (Root)",
+   "part": "root",
+   "binomial": "Mucuna prurita",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "IV",
+   "sentence": "Atmagupta consists of dried root of Mucuna prurita Hook. Syn. M. pruriens (L.) DC."
+  },
+  {
+   "name": "Bilva",
+   "heading": "BILVA (Stem Bark)",
+   "part": "stem bark",
+   "binomial": "Aegle marmelos",
+   "synonym": null,
+   "family": "Rutaceae",
+   "volume": "IV",
+   "sentence": "Bilva consists of dried stem bark of Aegle marmelos Corr."
+  },
+  {
+   "name": "Campaka",
+   "heading": "CAMP AKA (Flower)",
+   "part": "flower",
+   "binomial": "Michelia champaca",
+   "synonym": null,
+   "family": "Magnoliaceae",
+   "volume": "IV",
+   "sentence": "Campaka consists of dried buds and flowers, including calyx, of Michelia champaca Linn."
+  },
+  {
+   "name": "Cinca",
+   "heading": "CINCA (Fruit Pulp)",
+   "part": "fruit pulp",
+   "binomial": "Tamarindus indica",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "IV",
+   "sentence": "Cinca consists of fruit pulp without seeds of Tamarindus indica Linn."
+  },
+  {
+   "name": "Dadima",
+   "heading": "DADIMA (Fresh Fruit)",
+   "part": "fresh fruit",
+   "binomial": "Punica granatum",
+   "synonym": null,
+   "family": "Punicaceae",
+   "volume": "IV",
+   "sentence": "Dadima consists of fresh fruit of Punica granatum Linn."
+  },
+  {
+   "name": "Dadima",
+   "heading": "DA DIMA (Fruit Rind)",
+   "part": "fruit rind",
+   "binomial": "Punica granatum",
+   "synonym": null,
+   "family": "Punicaceae",
+   "volume": "IV",
+   "sentence": "Dadima consists of dried fruit rind (pericarp) of Punica granatum Linn."
+  },
+  {
+   "name": "Dadima Dadima",
+   "heading": "DADIMA (Leaf)",
+   "part": "leaf",
+   "binomial": "Punica granatum",
+   "synonym": null,
+   "family": "Punicaceae",
+   "volume": "IV",
+   "sentence": "Dadima Dadima consists of dried leaf of Punica granatum Linn."
+  },
+  {
+   "name": "Devadaru",
+   "heading": "DEVAD ARU (Heart Wood)",
+   "part": "heart wood",
+   "binomial": "Cedrus deodara",
+   "synonym": null,
+   "family": "Pinaceae",
+   "volume": "IV",
+   "sentence": "Devadaru consists of dried heart wood of Cedrus deodara (Roxb.) Loud."
+  },
+  {
+   "name": "Dhattura",
+   "heading": "DHATTURA (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Datura metel",
+   "synonym": null,
+   "family": null,
+   "volume": "IV",
+   "sentence": "Dhattura consists of dried whole plant of Datura metel Linn. Syn. D. fastuosa L.;"
+  },
+  {
+   "name": "Durva",
+   "heading": "DURVA (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Cynodon dactylon",
+   "synonym": null,
+   "family": "Poaceae",
+   "volume": "IV",
+   "sentence": "Durva consists of dried whole plant of Cynodon dactylon (Linn.) Pers."
+  },
+  {
+   "name": "Gambhari",
+   "heading": "GAMBHARI (Stem Bark)",
+   "part": "stem bark",
+   "binomial": "Gmelina arborea",
+   "synonym": null,
+   "family": "Verbenaceae",
+   "volume": "IV",
+   "sentence": "Gambhari consists of dried stem bark of Gmelina arborea Linn."
+  },
+  {
+   "name": "Iksu",
+   "heading": "IKSU (Root Stock)",
+   "part": "root stock",
+   "binomial": "Saccharum officinarum",
+   "synonym": null,
+   "family": "Poaceae",
+   "volume": "IV",
+   "sentence": "Iksu consists of root stock of Saccharum officinarum Linn."
+  },
+  {
+   "name": "Kadali Kadali",
+   "heading": "KADALI (Flower)",
+   "part": "flower",
+   "binomial": "Musa paradisiaca",
+   "synonym": null,
+   "family": "Musaceae",
+   "volume": "IV",
+   "sentence": "Kadali Kadali consists of dried flower of Musa paradisiaca Linn."
+  },
+  {
+   "name": "Karcura",
+   "heading": "KARCURA (Rhizome)",
+   "part": "rhizome",
+   "binomial": "Curcuma zedoaria",
+   "synonym": null,
+   "family": "Zingiberaceae",
+   "volume": "IV",
+   "sentence": "Karcura consists of dried pieces of rhizome of Curcuma zedoaria Rose,"
+  },
+  {
+   "name": "Kasturi latka",
+   "heading": "KASTURILATIKA (Seed)",
+   "part": "seed",
+   "binomial": "Hibiscus abelmoschus",
+   "synonym": "Abelmoschus moschatus",
+   "family": "Malvaceae",
+   "volume": "IV",
+   "sentence": "Kasturi latka consists of seed of Hibiscus abelmoschus Linn. Syn. Abelmoschus moschatus Medik"
+  },
+  {
+   "name": "Kataka",
+   "heading": "KATAKA (Seed)",
+   "part": "seed",
+   "binomial": "Strychnos potatorum",
+   "synonym": null,
+   "family": "Loganiaceae",
+   "volume": "IV",
+   "sentence": "Kataka consists of dried seed of Strychnos potatorum Linn. f."
+  },
+  {
+   "name": "Kharjura",
+   "heading": "KHARJURA (Dried Fruit)",
+   "part": "dried fruit",
+   "binomial": "Phoenix dactylifera",
+   "synonym": null,
+   "family": null,
+   "volume": "IV",
+   "sentence": "Kharjura consists of dried fruit, with seeds removed, of Phoenix dactylifera Linn. (Fam. Araceae ), a tall tree upto 36 m high, cultivated or occasionally self-sown in arid parts of the country."
+  },
+  {
+   "name": "Kharjura",
+   "heading": "KHARJURA (Fresh Fruit)",
+   "part": "fresh fruit",
+   "binomial": "Phoenix dactylifera",
+   "synonym": null,
+   "family": "Araceae",
+   "volume": "IV",
+   "sentence": "Kharjura consists of ripe and mature fruit with seed removed, of Phoenix dactylifera Linn."
+  },
+  {
+   "name": "Krsnasariva",
+   "heading": "KRSNASARIVA (Root)",
+   "part": "root",
+   "binomial": "Cryptolepis buchanani",
+   "synonym": null,
+   "family": "Asclepiadaceae",
+   "volume": "IV",
+   "sentence": "Krsnasariva consists of dried roots of Cryptolepis buchanani Roem. & Schult."
+  },
+  {
+   "name": "Kunduru",
+   "heading": "KUNDURU (Exudate)",
+   "part": "exudate",
+   "binomial": "Boswellia serrata",
+   "synonym": null,
+   "family": "Burseraceae",
+   "volume": "IV",
+   "sentence": "Kunduru consists of exudate of Boswellia serrata Roxb."
+  },
+  {
+   "name": "Kunkuma",
+   "heading": "KUNKUMA (Style and Stigma)",
+   "part": "style and stigma",
+   "binomial": "Crocus sativus",
+   "synonym": null,
+   "family": "Iridaceae",
+   "volume": "IV",
+   "sentence": "Kunkuma consists of dried style and stigma from the flowers of Crocus sativus Linn."
+  },
+  {
+   "name": "Kusmanda",
+   "heading": "KUSMANDA (Fruit)",
+   "part": "fruit",
+   "binomial": "Benincasa hispida",
+   "synonym": null,
+   "family": "Cucurbitaceae",
+   "volume": "IV",
+   "sentence": "Kusmanda consists of the dried piece of fruits of Benincasa hispida (Thunb.) Cogn."
+  },
+  {
+   "name": "Madayanti",
+   "heading": "MADAYANTI (Leaf)",
+   "part": "leaf",
+   "binomial": "Lawsonia inermis",
+   "synonym": null,
+   "family": "Lythraceae",
+   "volume": "IV",
+   "sentence": "Madayanti consists of dried leaves of Lawsonia inermis Linn."
+  },
+  {
+   "name": "Mahanimba",
+   "heading": "MAHANIMBA (Stem Bark)",
+   "part": "stem bark",
+   "binomial": "Melia azedarachta",
+   "synonym": null,
+   "family": "Meliaceae",
+   "volume": "IV",
+   "sentence": "Mahanimba consists of dried stem bark of Melia azedarachta Linn."
+  },
+  {
+   "name": "Mandukaparni",
+   "heading": "MANDUKAPARNI (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Centella asiatica",
+   "synonym": "Hydrocotyle asiatica",
+   "family": "Apiaceae",
+   "volume": "IV",
+   "sentence": "Mandukaparni consists of dried whole plant of Centella asiatica (Linn.) Urban. Syn. Hydrocotyle asiatica Linn."
+  },
+  {
+   "name": "Munditaka",
+   "heading": "MUNDITIKA (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Sphaeranthus indicus",
+   "synonym": null,
+   "family": "Asteraceae",
+   "volume": "IV",
+   "sentence": "Munditaka consists of dried whole plant of Sphaeranthus indicus Linn."
+  },
+  {
+   "name": "Nyagrodha Jata",
+   "heading": "NYAGRODHA JATA (Aerial Root)",
+   "part": "aerial root",
+   "binomial": "Ficus bengalensis",
+   "synonym": null,
+   "family": "Moraceae",
+   "volume": "IV",
+   "sentence": "Nyagrodha Jata consists of dried aerial of Ficus bengalensis Linn."
+  },
+  {
+   "name": "Nimbu",
+   "heading": "NIMBU (Fresh Fruit)",
+   "part": "fresh fruit",
+   "binomial": "Citrus limon",
+   "synonym": null,
+   "family": "Rutaceae",
+   "volume": "IV",
+   "sentence": "Nimbu consists of fresh fruit of Citrus limon (Linn.) Burm. f. Syn. C. medica var. limonum"
+  },
+  {
+   "name": "Nirgundi",
+   "heading": "NIRGUNDI (Root)",
+   "part": "root",
+   "binomial": "Vitex negundo",
+   "synonym": null,
+   "family": "Verbenaceae",
+   "volume": "IV",
+   "sentence": "Nirgundi consists of dried root of Vitex negundo Linn."
+  },
+  {
+   "name": "Palasa",
+   "heading": "PALASA (Flower)",
+   "part": "flower",
+   "binomial": "Butea monosperma",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "IV",
+   "sentence": "Palasa consists of dried flower of Butea monosperma (Lam.) Kuntze, Syn. B. frondosa Koeing ex Roxb."
+  },
+  {
+   "name": "Palasa",
+   "heading": "PALASA (Gum)",
+   "part": "gum",
+   "binomial": "Butea monosperma",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "IV",
+   "sentence": "Palasa consists of dried gum exuding from natural cracks and artificial incisions in the stem bark of Butea monosperma (Lam.) Kuntze Syn. B. frondosa Koen. ex Roxb."
+  },
+  {
+   "name": "Palasa",
+   "heading": "PALASA (Seed)",
+   "part": "seed",
+   "binomial": "Butea monosperma",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "IV",
+   "sentence": "Palasa consists of dried seed of Butea monosperma (Lam.) Kuntze, Syn. B. frondosa Koen. ex Roxb."
+  },
+  {
+   "name": "Parpata",
+   "heading": "PARPATA (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Fumaria parviflora",
+   "synonym": null,
+   "family": "Fumaraceae",
+   "volume": "IV",
+   "sentence": "Parpata consists of dried whole plant of Fumaria parviflora Lam."
+  },
+  {
+   "name": "Patalai",
+   "heading": "PATALA (Stem Bark)",
+   "part": "stem bark",
+   "binomial": "Stereospermum chelonoides",
+   "synonym": null,
+   "family": "Bignoniaceae",
+   "volume": "IV",
+   "sentence": "Patalai consists of dried stem bark of Stereospermum chelonoides (L.f.) DC."
+  },
+  {
+   "name": "Pattanga",
+   "heading": "PATTANGA (Heart Wood)",
+   "part": "heart wood",
+   "binomial": "Caesalpinia sappan",
+   "synonym": null,
+   "family": "Caesalpiniaceae",
+   "volume": "IV",
+   "sentence": "Pattanga consists of dried heart wood of Caesalpinia sappan Linn."
+  },
+  {
+   "name": "Pippali",
+   "heading": "PIPPALI (Fruit)",
+   "part": "fruit",
+   "binomial": "Piper longum",
+   "synonym": null,
+   "family": "Piperaceae",
+   "volume": "IV",
+   "sentence": "Pippali consists of the dried, immature, catkin-like fruits with bracts of Piper longum Linn."
+  },
+  {
+   "name": "Plaksa",
+   "heading": "PLAKSA (Fruit)",
+   "part": "fruit",
+   "binomial": "Ficus lacor",
+   "synonym": null,
+   "family": "Moraceae",
+   "volume": "IV",
+   "sentence": "Plaksa consists of dried fruit of Ficus lacor Buch. -Ham. Syn. F. lucescens Blums., F. infectoria Roxb."
+  },
+  {
+   "name": "Priyala",
+   "heading": "PRIYALA (Stem Bark)",
+   "part": "stem bark",
+   "binomial": "Buchanania lanzan",
+   "synonym": null,
+   "family": "Anacardiaceae",
+   "volume": "IV",
+   "sentence": "Priyala consists of dried stem bark of Buchanania lanzan Spreng. Syn. B. latifolia Roxb."
+  },
+  {
+   "name": "Priyangu",
+   "heading": "PRIYANGU (Fruit)",
+   "part": "fruit",
+   "binomial": "Callicarpa macrophylla",
+   "synonym": null,
+   "family": "Verbenaceae",
+   "volume": "IV",
+   "sentence": "Priyangu consists of dried fruit of Callicarpa macrophylla Vahl."
+  },
+  {
+   "name": "Prsniparni",
+   "heading": "PRSNIPARNI (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Uraria picta",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "IV",
+   "sentence": "Prsniparni consists of dried whole plant of Uraria picta Desv."
+  },
+  {
+   "name": "Puskara",
+   "heading": "PUSKARA (Root)",
+   "part": "root",
+   "binomial": "Inula racemosa",
+   "synonym": null,
+   "family": "Asteraceae",
+   "volume": "IV",
+   "sentence": "Puskara consists of dried root of Inula racemosa Hook. f."
+  },
+  {
+   "name": "Rudraksa",
+   "heading": "RUDRAKSA (Seed)",
+   "part": "seed",
+   "binomial": "Elaeocarpus sphaericus",
+   "synonym": null,
+   "family": "Elaeocarpaceae",
+   "volume": "IV",
+   "sentence": "Rudraksa consists of seeds of Elaeocarpus sphaericus Gaertn. K. Schum"
+  },
+  {
+   "name": "Sarja",
+   "heading": "SARJA (Exudate)",
+   "part": "exudate",
+   "binomial": "Vateria indica",
+   "synonym": null,
+   "family": "Dipterocarpaceae",
+   "volume": "IV",
+   "sentence": "Sarja consists of resinous exudate of Vateria indica Linn."
+  },
+  {
+   "name": "Stavari",
+   "heading": null,
+   "part": null,
+   "binomial": "Asparagus recemosus",
+   "synonym": null,
+   "family": "Liliaceae",
+   "volume": "IV",
+   "sentence": "Stavari consists of tuberous roots of Asparagus recemosus Willd."
+  },
+  {
+   "name": "Sigru",
+   "heading": null,
+   "part": null,
+   "binomial": "Moringa oleifera",
+   "synonym": "Moringa pterygosperma",
+   "family": "Moringaceae",
+   "volume": "IV",
+   "sentence": "Sigru consists of dried root bark of Moringa oleifera Lam. Syn. Moringa pterygosperma Gaertn."
+  },
+  {
+   "name": "Sigru",
+   "heading": null,
+   "part": null,
+   "binomial": "Moringa oleifera",
+   "synonym": null,
+   "family": "Moringaceae",
+   "volume": "IV",
+   "sentence": "Sigru consists of dried seed of Moringa oleifera Lam. Syn. M. pterygosperma Gaertn."
+  },
+  {
+   "name": "Sigru",
+   "heading": null,
+   "part": null,
+   "binomial": "Moringa oleifera",
+   "synonym": null,
+   "family": "Moringaceae",
+   "volume": "IV",
+   "sentence": "Sigru consists of dried stem bark of Moringa oleifera Lam. Syn. M. pterygosperma Gaertn."
+  },
+  {
+   "name": "Srngataka",
+   "heading": "SRNGATAKA (Dried Seed)",
+   "part": "dried seed",
+   "binomial": "Trapa natans",
+   "synonym": null,
+   "family": "Trapaceae",
+   "volume": "IV",
+   "sentence": "Srngataka consists of dried seeds of Trapa natans Linn. var. bispinosa (Roxb.) Makino. Syn. T. bispinosa Roxb. T. quadrispinosa Wall."
+  },
+  {
+   "name": "Sruvavrksa",
+   "heading": "SRUVAVRKSA (Leaf)",
+   "part": "leaf",
+   "binomial": "Flacourtia indica",
+   "synonym": null,
+   "family": "Flacourtiaceae",
+   "volume": "IV",
+   "sentence": "Sruvavrksa consists of dried leaf of Flacourtia indica Merr. Syn. F. ramontchi L Herit."
+  },
+  {
+   "name": "Sruvavrksa",
+   "heading": "SRUVAVRKSA (Stem Bark)",
+   "part": "stem bark",
+   "binomial": "Flacourtia indica",
+   "synonym": null,
+   "family": "Flacourtiaceae",
+   "volume": "IV",
+   "sentence": "Sruvavrksa consists of dried stem bark of Flacourtia indica Merr. Syn. F. ramontchi L Herit."
+  },
+  {
+   "name": "Talamuli",
+   "heading": "TALAMULI (Rhizome)",
+   "part": "rhizome",
+   "binomial": "Curculigo orchioides",
+   "synonym": null,
+   "family": "Amaryllidaceae",
+   "volume": "IV",
+   "sentence": "Talamuli consists of dried rhizome of Curculigo orchioides Gaertn."
+  },
+  {
+   "name": "Talisa",
+   "heading": "TALISA (Leaves)",
+   "part": "leaves",
+   "binomial": "Abies webbiana",
+   "synonym": null,
+   "family": "Pinaceae",
+   "volume": "IV",
+   "sentence": "Talisa consists of dried needle like leaves of Abies webbiana Lindl"
+  },
+  {
+   "name": "Tila",
+   "heading": "TILA (Seed)",
+   "part": "seed",
+   "binomial": "Sesamum indicum",
+   "synonym": null,
+   "family": null,
+   "volume": "IV",
+   "sentence": "Tila consists of dried seeds of Sesamum indicum Linn. (Fam, Pedaliaceae), a herb extensively cultivated throughout the plains of India upto 1200 m for its seeds."
+  },
+  {
+   "name": "Tulasi",
+   "heading": "TULASI (Seed)",
+   "part": "seed",
+   "binomial": "Ocimum sanctum",
+   "synonym": null,
+   "family": "Lamiaceae",
+   "volume": "IV",
+   "sentence": "Tulasi consists of seeds of Ocimum sanctum Linn."
+  },
+  {
+   "name": "Tumburu",
+   "heading": "TUMBURU (Fruit)",
+   "part": "fruit",
+   "binomial": "Zanthoxylum armatum",
+   "synonym": null,
+   "family": "Rutaceae",
+   "volume": "IV",
+   "sentence": "Tumburu consists of dried fruit of Zanthoxylum armatum DC. Syn. Z. alatum Roxb."
+  },
+  {
+   "name": "Utingana",
+   "heading": "UTINGANA (Seed)",
+   "part": "seed",
+   "binomial": "Blepharis persica",
+   "synonym": null,
+   "family": "Acanthaceae",
+   "volume": "IV",
+   "sentence": "Utingana consists of dried mature seeds of Blepharis persica (Burm. f.) 0. Kuntze. Syn. B. edulis Pers."
+  },
+  {
+   "name": "Varahi",
+   "heading": null,
+   "part": null,
+   "binomial": "Dioscorea bulbifera",
+   "synonym": null,
+   "family": "Dioscoreaceae",
+   "volume": "IV",
+   "sentence": "Varahi consists of dried cut pieces of rhizome of Dioscorea bulbifera Linn."
+  },
+  {
+   "name": "Varsabhu",
+   "heading": "VARSABHU (Root)",
+   "part": "root",
+   "binomial": "Trianthema portulacastrum",
+   "synonym": null,
+   "family": "Aizoaceae",
+   "volume": "IV",
+   "sentence": "Varsabhu consists of dried root of Trianthema portulacastrum Linn. Syn. T. monogyna Linn., T. obcordata Roxb."
+  },
+  {
+   "name": "Vasa",
+   "heading": "VASA (Root)",
+   "part": "root",
+   "binomial": "Adhatoda zeylanica",
+   "synonym": null,
+   "family": "Acanthaceae",
+   "volume": "IV",
+   "sentence": "Vasa consists of dried root of Adhatoda zeylanica Medic. Syn. A. vasica Nees"
+  },
+  {
+   "name": "Visamushti",
+   "heading": "VISAMUSTI (Seed)",
+   "part": "seed",
+   "binomial": "Strychnos nux-vomica",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "IV",
+   "sentence": "Visamushti consists of dried seed of Strychnos nux-vomica Linn."
+  },
+  {
+   "name": "Vrscikali",
+   "heading": "VRSCIKALI (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Tragia involucrata",
+   "synonym": null,
+   "family": "Euphorbiaceaee",
+   "volume": "IV",
+   "sentence": "Vrscikali consists of dried whole plant of Tragia involucrata Linn."
+  },
+  {
+   "name": "Yava",
+   "heading": "YAVA (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Hordeum vulgare",
+   "synonym": null,
+   "family": "Poaceae",
+   "volume": "IV",
+   "sentence": "Yava consists of dried whole plant of Hordeum vulgare Linn. Syn. H. sativum Pers."
+  },
+  {
+   "name": "Amra Haridra",
+   "heading": "AMRA HARIDRA (Rhizome)",
+   "part": "rhizome",
+   "binomial": "Curcuma amada",
+   "synonym": null,
+   "family": "Zingiberaceae",
+   "volume": "V",
+   "sentence": "Amra Haridra consists of the rhizome of Curcuma amada Roxb."
+  },
+  {
+   "name": "Anisuna",
+   "heading": "ANISUNA (Fruit)",
+   "part": "fruit",
+   "binomial": "Pimpinella anisum",
+   "synonym": null,
+   "family": "Apiaceae",
+   "volume": "V",
+   "sentence": "Anisuna consists of dried fruit of Pimpinella anisum Linn."
+  },
+  {
+   "name": "Ankolah",
+   "heading": "ANKOLAH (Leaf)",
+   "part": "leaf",
+   "binomial": "Alangium salviifolium",
+   "synonym": null,
+   "family": "Alangiaceae",
+   "volume": "V",
+   "sentence": "Ankolah consists of dried leaf of Alangium salviifolium (Linn. F.) Wang. Syn. A. lamarckii Thw.;"
+  },
+  {
+   "name": "Aragvadha",
+   "heading": "ARAGVADHA (Stem bark)",
+   "part": "stem bark",
+   "binomial": "Cassia fistula",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "V",
+   "sentence": "Aragvadha consists of stem bark of Cassia fistula Linn."
+  },
+  {
+   "name": "Asphota",
+   "heading": "ASPHOTA (Root)",
+   "part": "root",
+   "binomial": "Vallaris solanacea",
+   "synonym": null,
+   "family": "Apocynaceae",
+   "volume": "V",
+   "sentence": "Asphota consists of the dried root pieces of Vallaris solanacea Kuntze syn. V.heynei Spreng."
+  },
+  {
+   "name": "Bastantri",
+   "heading": "BASTANTRI (Root)",
+   "part": "root",
+   "binomial": "Argyreia nervosa",
+   "synonym": null,
+   "family": "Convolvulaceae",
+   "volume": "V",
+   "sentence": "Bastantri consists of dried root of Argyreia nervosa (Burm.f.) Boj. syn. A. speciosa SWeet."
+  },
+  {
+   "name": "Bhurjah",
+   "heading": "BHURJAH (Stem Bark)",
+   "part": "stem bark",
+   "binomial": "Betula utilis",
+   "synonym": null,
+   "family": "Betulaceae",
+   "volume": "V",
+   "sentence": "Bhurjah consists of the stem bark of Betula utilis D.Don syn. B.bhojpattra Wall."
+  },
+  {
+   "name": "Canda",
+   "heading": "CANDA (Root)",
+   "part": "root",
+   "binomial": "Angelica archangelica",
+   "synonym": null,
+   "family": "Apiaceae",
+   "volume": "V",
+   "sentence": "Canda consists of dried root of Angelica archangelica Linn."
+  },
+  {
+   "name": "Corakah",
+   "heading": "CORAKAH (Root Sock)",
+   "part": "root sock",
+   "binomial": "Angelica glauca",
+   "synonym": null,
+   "family": "Apiaceae",
+   "volume": "V",
+   "sentence": "Corakah consists of dried mature root and root stock of Angelica glauca Edgw."
+  },
+  {
+   "name": "Darbha",
+   "heading": "DARBHA (Root)",
+   "part": "root",
+   "binomial": "Imperata cylindrica",
+   "synonym": null,
+   "family": "Poaceae",
+   "volume": "V",
+   "sentence": "Darbha consists of root of Imperata cylindrica (Linn.) Beauv."
+  },
+  {
+   "name": "Dhanvayasah",
+   "heading": "DHANVAYASAH (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Fagonia cretica",
+   "synonym": null,
+   "family": "Zygophyllaceae",
+   "volume": "V",
+   "sentence": "Dhanvayasah consists of dried whole plant of Fagonia cretica Linn. Syn. F. arabica Linn., F. bruguieri DC."
+  },
+  {
+   "name": "Dugdhika",
+   "heading": "DUGDHIKA (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Euphorbia prostrata",
+   "synonym": null,
+   "family": "Euphorbiaceae",
+   "volume": "V",
+   "sentence": "Dugdhika consists of whole plant of Euphorbia prostrata W. Ait."
+  },
+  {
+   "name": "Elavalukam",
+   "heading": "ELAVALUKAM (Seed)",
+   "part": "seed",
+   "binomial": "Prunus avium",
+   "synonym": null,
+   "family": "Rosaceae",
+   "volume": "V",
+   "sentence": "Elavalukam consists of dried mature seed of Prunus avium Linn.f."
+  },
+  {
+   "name": "Gandira",
+   "heading": "GANDIRA (Root)",
+   "part": "root",
+   "binomial": "Coleus forskohlii",
+   "synonym": null,
+   "family": "Lamiaceae",
+   "volume": "V",
+   "sentence": "Gandira consists of dried mature root of Coleus forskohlii Briq. syn. C. barbatus Benth."
+  },
+  {
+   "name": "Gavedhuka",
+   "heading": "GAVEDHUKA (Root)",
+   "part": "root",
+   "binomial": "Coix lachryma-jobi",
+   "synonym": null,
+   "family": "Gramineae",
+   "volume": "V",
+   "sentence": "Gavedhuka consists of the dried root of Coix lachryma-jobi Linn. syn. C. lachryma Linn."
+  },
+  {
+   "name": "Ghonta",
+   "heading": "GHONTA (Fruit)",
+   "part": "fruit",
+   "binomial": "Ziziphus xylopyrus",
+   "synonym": null,
+   "family": "Rhamnaceae",
+   "volume": "V",
+   "sentence": "Ghonta consists of fruit of Ziziphus xylopyrus Willd."
+  },
+  {
+   "name": "Gundrah",
+   "heading": "GUNDRAH (Rhizome and Fruit)",
+   "part": "rhizome and fruit",
+   "binomial": "Typha australis",
+   "synonym": null,
+   "family": "Typhaceae",
+   "volume": "V",
+   "sentence": "Gundrah consists of rhizome with root of Typha australis Schum. And Thonn. Syn. T. angustata Bory and Chaub.,"
+  },
+  {
+   "name": "Himsra",
+   "heading": "HIMSRA (Root)",
+   "part": "root",
+   "binomial": "Capparis spinosa",
+   "synonym": null,
+   "family": "Capparidaceae",
+   "volume": "V",
+   "sentence": "Himsra consists of root of Capparis spinosa Linn."
+  },
+  {
+   "name": "Hingupatri",
+   "heading": "NGUPATRI (Leaf)",
+   "part": "leaf",
+   "binomial": "Ferula jaeschkeana",
+   "synonym": null,
+   "family": "Apiaceae",
+   "volume": "V",
+   "sentence": "Hingupatri consists of dried leaf of Ferula jaeschkeana Vatke"
+  },
+  {
+   "name": "Itkata",
+   "heading": "ITKATA (Root)",
+   "part": "root",
+   "binomial": "Sesbania bispinosa",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "V",
+   "sentence": "Itkata consists of dried root of Sesbania bispinosa W. F. Wight"
+  },
+  {
+   "name": "Itkata",
+   "heading": "ITKATA (Stem)",
+   "part": "stem",
+   "binomial": "Sesbania bispinosa",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "V",
+   "sentence": "Itkata consists of dried stem of Sesbania bispinosa W. F. Wight"
+  },
+  {
+   "name": "Jalapippali",
+   "heading": "JALAPIPPALI (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Phyla nodiflora",
+   "synonym": null,
+   "family": "Verbenaceae",
+   "volume": "V",
+   "sentence": "Jalapippali consists of the dried whole plant of Phyla nodiflora Greene syn. Lippia nodiflora Mich."
+  },
+  {
+   "name": "Jivakah",
+   "heading": "JIVAKAH (Pseudo Bulb)",
+   "part": "pseudo bulb",
+   "binomial": "Malaxis acuminata",
+   "synonym": null,
+   "family": "Orchidaceae",
+   "volume": "V",
+   "sentence": "Jivakah consists of dried and fresh pseudo-bulb of Malaxis acuminata D. Don syn. Microstylis wallichii Lindl."
+  },
+  {
+   "name": "Kadarah",
+   "heading": "KADARAH (Heart Wood)",
+   "part": "heart wood",
+   "binomial": "Acacia suma",
+   "synonym": null,
+   "family": "Mimosaceae",
+   "volume": "V",
+   "sentence": "Kadarah consists of dried pieces of heart wood of Acacia suma Buch.- Ham."
+  },
+  {
+   "name": "Kakajangha",
+   "heading": "KAKAJANGHA (Seed)",
+   "part": "seed",
+   "binomial": "Peristrophe bicalyculata",
+   "synonym": null,
+   "family": "Acanthaceae",
+   "volume": "V",
+   "sentence": "Kakajangha consists of dried mature seed of Peristrophe bicalyculata (Retz.) Nees"
+  },
+  {
+   "name": "Kakanaja",
+   "heading": "KAKANAJA (Fruit)",
+   "part": "fruit",
+   "binomial": "Physalis alkekengi",
+   "synonym": null,
+   "family": "Solanaceae",
+   "volume": "V",
+   "sentence": "Kakanaja consists of dried mature fruit of Physalis alkekengi Linn."
+  },
+  {
+   "name": "Kaliyaka",
+   "heading": "K ALIY AKA (Root and Stem)",
+   "part": "root and stem",
+   "binomial": "Coscinium fenestratum",
+   "synonym": null,
+   "family": "Menispermaceae",
+   "volume": "V",
+   "sentence": "Kaliyaka consists of the dried root & stem of Coscinium fenestratum (Gaertn.) Colebr."
+  },
+  {
+   "name": "Kapitana",
+   "heading": "KAPITANA (Stem Bark)",
+   "part": "stem bark",
+   "binomial": "Thespesia populnea",
+   "synonym": null,
+   "family": "Malvaceae",
+   "volume": "V",
+   "sentence": "Kapitana consists of stem bark of Thespesia populnea (L.) Soland. ex Correa syn. Hibiscus populneus Linn."
+  },
+  {
+   "name": "Karkasa",
+   "heading": "KARKASA (Root)",
+   "part": "root",
+   "binomial": "Momordica dioica",
+   "synonym": null,
+   "family": "Cucurbitaceae",
+   "volume": "V",
+   "sentence": "Karkasa consists of the root of Momordica dioica Roxb. ex Willd."
+  },
+  {
+   "name": "Karnasphota",
+   "heading": "KARNASPHOTA (Seed)",
+   "part": "seed",
+   "binomial": "Cardiospermum halicacabum",
+   "synonym": null,
+   "family": "Sapindaceae",
+   "volume": "V",
+   "sentence": "Karnasphota consists of the seed of Cardiospermum halicacabum Linn."
+  },
+  {
+   "name": "Karnasphota",
+   "heading": "KARNASPHOTA (Root)",
+   "part": "root",
+   "binomial": "Cardiospermum halicacabum",
+   "synonym": null,
+   "family": "Sapindaceae",
+   "volume": "V",
+   "sentence": "Karnasphota consists of the root of Cardiospermum halicacabum Linn."
+  },
+  {
+   "name": "Kattrna",
+   "heading": "KATTRNA (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Cymbopogon citratus",
+   "synonym": null,
+   "family": "Poaceae",
+   "volume": "V",
+   "sentence": "Kattrna consists of the whole plant of Cymbopogon citratus (DC.) Stapf syn: Andropogon citratus DC."
+  },
+  {
+   "name": "Kebuka",
+   "heading": "KEBUKA (Rhizome)",
+   "part": "rhizome",
+   "binomial": "Costus speciosus",
+   "synonym": null,
+   "family": "Zingiberaceae",
+   "volume": "V",
+   "sentence": "Kebuka consists of the dried rhizome of Costus speciosus (Koeming ex Retz.) Smith."
+  },
+  {
+   "name": "Khakhasa",
+   "heading": "KHAKHASA (Seed)",
+   "part": "seed",
+   "binomial": "Papaver somniferum",
+   "synonym": null,
+   "family": "Papaveraceae",
+   "volume": "V",
+   "sentence": "Khakhasa consists of seed of Papaver somniferum Linn."
+  },
+  {
+   "name": "Khatmi",
+   "heading": "KHATMI (Root)",
+   "part": "root",
+   "binomial": "Althaea officinalis",
+   "synonym": null,
+   "family": "Malvaceae",
+   "volume": "V",
+   "sentence": "Khatmi consists of the root of Althaea officinalis Linn."
+  },
+  {
+   "name": "Kodravah",
+   "heading": "KODRAVAH (Grain)",
+   "part": "grain",
+   "binomial": "Paspalum scrobiculatum",
+   "synonym": null,
+   "family": "Poaceae",
+   "volume": "V",
+   "sentence": "Kodravah consists of dehusked and well-matured caryopsis of Paspalum scrobiculatum Linn."
+  },
+  {
+   "name": "Ksirakakoli",
+   "heading": "KS IRAKAKOLI (Bulb)",
+   "part": "bulb",
+   "binomial": "Fritillaria roylei",
+   "synonym": null,
+   "family": "Liliaceae",
+   "volume": "V",
+   "sentence": "Ksirakakoli consists of the dried whole bulb of Fritillaria roylei Hook."
+  },
+  {
+   "name": "Kulanjana",
+   "heading": "KULANJANA (Rhizome)",
+   "part": "rhizome",
+   "binomial": "Alpinia galanga",
+   "synonym": null,
+   "family": "Zingiberaceae",
+   "volume": "V",
+   "sentence": "Kulanjana consists of dried rhizome of Alpinia galanga Willd."
+  },
+  {
+   "name": "Kumbhikah",
+   "heading": "KUMBHIKAH (Seed)",
+   "part": "seed",
+   "binomial": "Careya arborea",
+   "synonym": null,
+   "family": "Lecythidaceae",
+   "volume": "V",
+   "sentence": "Kumbhikah consists of dried seed of Careya arborea Roxb."
+  },
+  {
+   "name": "Latakaranja",
+   "heading": "LATAKARANJA (Seed)",
+   "part": "seed",
+   "binomial": "Caesalpinia bonduc",
+   "synonym": null,
+   "family": "Caesalpiniaceae",
+   "volume": "V",
+   "sentence": "Latakaranja consists of seed of Caesalpinia bonduc (Linn.) Roxb."
+  },
+  {
+   "name": "Laval iphala",
+   "heading": "LAVALIPHALA (Fruit)",
+   "part": "fruit",
+   "binomial": "Phyllanthus acidus",
+   "synonym": null,
+   "family": "Euphorbiaceae",
+   "volume": "V",
+   "sentence": "Laval iphala consists of dried fruit of Phyllanthus acidus (Linn.) Skeels syn. Cicca acida Linn. Merrill"
+  },
+  {
+   "name": "The drug",
+   "heading": "MADHULIKA (Root)",
+   "part": "root",
+   "binomial": "Eleusine corocana",
+   "synonym": null,
+   "family": "Poaceae",
+   "volume": "V",
+   "sentence": "The drug consists of dried root of Eleusine corocana (L.) Gaertn."
+  },
+  {
+   "name": "Mahameda",
+   "heading": "MAHAMED A (Rhizome and Root)",
+   "part": "rhizome and root",
+   "binomial": "Polygonatum cirrhifolium",
+   "synonym": null,
+   "family": "Liliaceae",
+   "volume": "V",
+   "sentence": "Mahameda consists of dried rhizome and root of Polygonatum cirrhifolium Royle"
+  },
+  {
+   "name": "Madhusnuhi",
+   "heading": "MADHUSNUHI (Tuberous Root)",
+   "part": "tuberous root",
+   "binomial": "Smilax china",
+   "synonym": null,
+   "family": "Liliaceae",
+   "volume": "V",
+   "sentence": "Madhusnuhi consists of tuberous root of Smilax china Linn."
+  },
+  {
+   "name": "Medasakah",
+   "heading": "MEDASAKAH (Stem Bark)",
+   "part": "stem bark",
+   "binomial": "Litsea chinensis",
+   "synonym": null,
+   "family": "Lauraceae",
+   "volume": "V",
+   "sentence": "Medasakah consists of stem bark of Litsea chinensis Lam. syn. L. glutinosa (Lour.) C.B. Robins, L. sebifera Pers."
+  },
+  {
+   "name": "Medasakah",
+   "heading": "MEDASAKAH (Wood)",
+   "part": "wood",
+   "binomial": "Litsea chinensis",
+   "synonym": null,
+   "family": "Lauraceae",
+   "volume": "V",
+   "sentence": "Medasakah consists of wood of Litsea chinensis Lam. Syn. L. glutinosa (Lour.) C.B. Robins, L. sebifera Pers."
+  },
+  {
+   "name": "Mesasrngi",
+   "heading": "MESASRNGI (Leaf)",
+   "part": "leaf",
+   "binomial": "Gymnema sylvestre",
+   "synonym": null,
+   "family": "Asclepiadaceae",
+   "volume": "V",
+   "sentence": "Mesasrngi consists of dried leaf of Gymnema sylvestre R.Br."
+  },
+  {
+   "name": "Mesasrngi",
+   "heading": "MESASRNGI (Root)",
+   "part": "root",
+   "binomial": "Gymnema sylvestre",
+   "synonym": null,
+   "family": "Asclepiadaceae",
+   "volume": "V",
+   "sentence": "Mesasrngi consists of root of Gymnema sylvestre R. Br."
+  },
+  {
+   "name": "Nandi",
+   "heading": "NANDI (Root)",
+   "part": "root",
+   "binomial": "Ficus amottiana",
+   "synonym": null,
+   "family": "Moraceae",
+   "volume": "V",
+   "sentence": "Nandi consists of dried root of Ficus amottiana Miq."
+  },
+  {
+   "name": "Nilajhinti",
+   "heading": "NILAJHINTI (Root)",
+   "part": "root",
+   "binomial": "Barleria strigosa",
+   "synonym": null,
+   "family": "Acanthaceae",
+   "volume": "V",
+   "sentence": "Nilajhinti consists of root of Barleria strigosa Willd."
+  },
+  {
+   "name": "Nimba",
+   "heading": "NIMBA (Root Bark)",
+   "part": "root bark",
+   "binomial": "Azadirachta indica",
+   "synonym": null,
+   "family": "Meliaceae",
+   "volume": "V",
+   "sentence": "Nimba consists of dried root bark of Azadirachta indica A. Juss. syn. Melia azadirachta Linn."
+  },
+  {
+   "name": "Nimba",
+   "heading": "NIMBA (Flower)",
+   "part": "flower",
+   "binomial": "Azadirachta indica",
+   "synonym": null,
+   "family": null,
+   "volume": "V",
+   "sentence": "Nimba consists of dried flower and flower bud of Azadirachta indica A. Juss. syn."
+  },
+  {
+   "name": "Nimba",
+   "heading": "NIMBA (Fruit)",
+   "part": "fruit",
+   "binomial": "Azadirachta indica",
+   "synonym": null,
+   "family": "Meliaceae",
+   "volume": "V",
+   "sentence": "Nimba consists of whole dried fruit including seeds of Azadirachta indica A. Juss. syn. Melia azadirachta Linn."
+  },
+  {
+   "name": "Palasah",
+   "heading": "PALASAH (Seed)",
+   "part": "seed",
+   "binomial": "Butea monosperma",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "V",
+   "sentence": "Palasah consists of seed of Butea monosperma (Lam.) Kuntze, syn. B. frondosa Roxb."
+  },
+  {
+   "name": "Palasah",
+   "heading": "PALASAH (Dried Flower)",
+   "part": "dried flower",
+   "binomial": "Butea monosperma",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "V",
+   "sentence": "Palasah consists of dried flower of Butea monosperma (Lam.) Kuntze syn. B. frondosa Roxb."
+  },
+  {
+   "name": "Paras ikayavani",
+   "heading": "PARASIKAYAVANI (Seed)",
+   "part": "seed",
+   "binomial": "Hyoscyamus niger",
+   "synonym": null,
+   "family": "Solanaceae",
+   "volume": "V",
+   "sentence": "Paras ikayavani consists of the seed of Hyoscyamus niger Linn."
+  },
+  {
+   "name": "Pattura",
+   "heading": "PATTURA (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Aerva lanata",
+   "synonym": null,
+   "family": "Amaranthaceae",
+   "volume": "V",
+   "sentence": "Pattura consists of whole plant of Aerva lanata (Linn.) Juss."
+  },
+  {
+   "name": "Piluh",
+   "heading": "PILUH (Fruit)",
+   "part": "fruit",
+   "binomial": "Salvadora persica",
+   "synonym": null,
+   "family": "Salvadoraceae",
+   "volume": "V",
+   "sentence": "Piluh consists of fruit of Salvadora persica Linn. Var.wightiana (Planch.ex Thw.) Verde, syn. S. persica Linn."
+  },
+  {
+   "name": "Piluh",
+   "heading": "PILUH (Leal)",
+   "part": "leal",
+   "binomial": "Salvadora persica",
+   "synonym": null,
+   "family": "Salvadoraceae",
+   "volume": "V",
+   "sentence": "Piluh consists of leaf of Salvadora persica Linn. Var. wightiana (Planch. Ex Thw.) Verde, syn. S. persica Linn."
+  },
+  {
+   "name": "Piluh",
+   "heading": "PILUH (Root)",
+   "part": "root",
+   "binomial": "Salvadora persica",
+   "synonym": null,
+   "family": "Salvadoraceae",
+   "volume": "V",
+   "sentence": "Piluh consists of root bark of Salvadora persica Linn. Var. wightiana (Planch.ex Thw.) Verde, syn. S. persica Linn."
+  },
+  {
+   "name": "Potagala",
+   "heading": "POTAGALA (Root)",
+   "part": "root",
+   "binomial": "Typha elephantina",
+   "synonym": null,
+   "family": "Typhaceae",
+   "volume": "V",
+   "sentence": "Potagala consists of dried root of Typha elephantina Roxb."
+  },
+  {
+   "name": "Pudinah",
+   "heading": "PUDINAH (Aerial Part)",
+   "part": "aerial part",
+   "binomial": "Mentha viridis",
+   "synonym": null,
+   "family": "Lamiaceae",
+   "volume": "V",
+   "sentence": "Pudinah consists of the aerial part of Mentha viridis Linn. Syn. M. spicata var. viridis Linn."
+  },
+  {
+   "name": "Pullani",
+   "heading": "PULL AN I (Leaf)",
+   "part": "leaf",
+   "binomial": "Calycopteris floribunda",
+   "synonym": null,
+   "family": "Combretaceae",
+   "volume": "V",
+   "sentence": "Pullani consists of leaf of Calycopteris floribunda Lam."
+  },
+  {
+   "name": "Pullani",
+   "heading": "PULLANI (Root)",
+   "part": "root",
+   "binomial": "Calycopteris floribunda",
+   "synonym": null,
+   "family": "Combretaceae",
+   "volume": "V",
+   "sentence": "Pullani consists of root of Calycopteris floribunda Lam"
+  },
+  {
+   "name": "Pullani",
+   "heading": "PULLANI (Stem)",
+   "part": "stem",
+   "binomial": "Calycopteris floribunda",
+   "synonym": null,
+   "family": "Combretaceae",
+   "volume": "V",
+   "sentence": "Pullani consists of stem of Calycopteris floribunda Lam."
+  },
+  {
+   "name": "Renuka",
+   "heading": "RENUKA (Seed)",
+   "part": "seed",
+   "binomial": "Vitex negundo",
+   "synonym": null,
+   "family": "Verbenaceae",
+   "volume": "V",
+   "sentence": "Renuka consists of dried fruit of Vitex negundo Linn."
+  },
+  {
+   "name": "Rddhi",
+   "heading": "RDDHI (Tuber)",
+   "part": "tuber",
+   "binomial": "Habenaria intermedia",
+   "synonym": null,
+   "family": "Orchidaceae",
+   "volume": "V",
+   "sentence": "Rddhi consists of dried tuber of Habenaria intermedia D.Don"
+  },
+  {
+   "name": "Rohisa",
+   "heading": "ROHISA (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Cymbopogon martinii",
+   "synonym": null,
+   "family": "Poaceae",
+   "volume": "V",
+   "sentence": "Rohisa consists of dried leaf, stem and root of Cymbopogon martinii (Roxb.) Wats."
+  },
+  {
+   "name": "Sarpagandha",
+   "heading": "SARPAGANDHA (Root)",
+   "part": "root",
+   "binomial": "Rauwolfia serpentina",
+   "synonym": null,
+   "family": "Apocynaceae",
+   "volume": "V",
+   "sentence": "Sarpagandha consists of air dried root of Rauwolfia serpentina (Linn.) Benth. ex Kurz"
+  },
+  {
+   "name": "Svetapunarnava",
+   "heading": null,
+   "part": null,
+   "binomial": "Boerhaavia verticillata",
+   "synonym": null,
+   "family": "Nyctaginaceae",
+   "volume": "V",
+   "sentence": "Svetapunarnava consists of root of Boerhaavia verticillata Poir."
+  },
+  {
+   "name": "Tailaparnah",
+   "heading": "TAILAPARNAH (Leaf)",
+   "part": "leaf",
+   "binomial": "Eucalyptus globulus",
+   "synonym": null,
+   "family": "Myrtaceae",
+   "volume": "V",
+   "sentence": "Tailaparnah consists of mature leaf of Eucalyptus globulus Labill."
+  },
+  {
+   "name": "Tinisah",
+   "heading": "TINISAH (Wood)",
+   "part": "wood",
+   "binomial": "Ougeinia oojeinensis",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "V",
+   "sentence": "Tinisah consists of wood of Ougeinia oojeinensis (Roxb.) Hochr. syn. O. dalbergioides Benth."
+  },
+  {
+   "name": "Tintidikah",
+   "heading": "DIKAH (Aerial Part)",
+   "part": "aerial part",
+   "binomial": "Rhus parvi",
+   "synonym": null,
+   "family": "Anacardiaceae",
+   "volume": "V",
+   "sentence": "Tintidikah consists of mature dried aerial part of Rhus parvi flora Rox b."
+  },
+  {
+   "name": "Trapusam",
+   "heading": "TRAPUSAM (Seed)",
+   "part": "seed",
+   "binomial": "Cucumis sativus",
+   "synonym": null,
+   "family": "Cucurbitaceae",
+   "volume": "V",
+   "sentence": "Trapusam consists of dried seed of Cucumis sativus Linn."
+  },
+  {
+   "name": "Tuni",
+   "heading": "TUNI (Stem Bark)",
+   "part": "stem bark",
+   "binomial": "Cedrela toona",
+   "synonym": null,
+   "family": "Meliaceae",
+   "volume": "V",
+   "sentence": "Tuni consists of stem bark of Cedrela toona Roxb."
+  },
+  {
+   "name": "Vanda",
+   "heading": "VANDA (Leaf)",
+   "part": "leaf",
+   "binomial": "Dendrophthoe falcata",
+   "synonym": null,
+   "family": "Loranthaceae",
+   "volume": "V",
+   "sentence": "Vanda consists of the dried leaf of Dendrophthoe falcata (Linn, f.) Ettingsh. syn. Loranthus falcatus Linn. f."
+  },
+  {
+   "name": "Vanda",
+   "heading": "VANDA (Stem)",
+   "part": "stem",
+   "binomial": "Dendrophthoe falcata",
+   "synonym": null,
+   "family": "Loranthaceae",
+   "volume": "V",
+   "sentence": "Vanda consists of the dried stem of Dendrophthoe falcata (Linn, f.) Ettingsh. syn. Loranthus falcatus Linn. f."
+  },
+  {
+   "name": "Vanda",
+   "heading": "VANDA (Aerial Root)",
+   "part": "aerial root",
+   "binomial": "Dendrophthoe falcata",
+   "synonym": null,
+   "family": "Loranthaceae",
+   "volume": "V",
+   "sentence": "Vanda consists of the dried aerial root of Dendrophthoe falcata (Linn, f.) Ettingsh. syn. Loranthus falcatus Linn. f."
+  },
+  {
+   "name": "Vanda",
+   "heading": "VANDA (Flower)",
+   "part": "flower",
+   "binomial": "Dendrophthoe falcata",
+   "synonym": null,
+   "family": "Loranthaceae",
+   "volume": "V",
+   "sentence": "Vanda consists of flowers of Dendrophthoe falcata (Linn.f.) Ettingsh. syn. Loranthus falcatus Linn. f."
+  },
+  {
+   "name": "Vanda",
+   "heading": "VANDA (Fruit)",
+   "part": "fruit",
+   "binomial": "Dendrophthoe falcata",
+   "synonym": null,
+   "family": "Loranthaceae",
+   "volume": "V",
+   "sentence": "Vanda consists of the dried fruit of Dendrophthoe falcata (Linn, f.) Ettingsh. syn. Loranthus falcatus Linn. f."
+  },
+  {
+   "name": "Vanyaj iraka",
+   "heading": "VANYAJIRAKA (Fruit)",
+   "part": "fruit",
+   "binomial": "Centratherum anthelminticum",
+   "synonym": null,
+   "family": "Asteraceae",
+   "volume": "V",
+   "sentence": "Vanyaj iraka consists of dried fruit of Centratherum anthelminticum (L.) Kuntze"
+  },
+  {
+   "name": "Virala",
+   "heading": "VIRALA (Stem Bark)",
+   "part": "stem bark",
+   "binomial": "Diospyros exsculpta",
+   "synonym": null,
+   "family": "Ebenaceae",
+   "volume": "V",
+   "sentence": "Virala consists of dried stem bark of Diospyros exsculpta Buch. - Ham. syn. D. tomentosa Roxb."
+  },
+  {
+   "name": "Visala",
+   "heading": "VTSALA (Root)",
+   "part": "root",
+   "binomial": "Trichosanthes bracteata",
+   "synonym": null,
+   "family": "Cucurbitaceae",
+   "volume": "V",
+   "sentence": "Visala consists of dried root of Trichosanthes bracteata (Lam.) Voigt"
+  },
+  {
+   "name": "Vyaghranakha",
+   "heading": "VYAGHRANAKHA (Fruit)",
+   "part": "fruit",
+   "binomial": "Capparis sepiaria",
+   "synonym": null,
+   "family": "Capparidaceae",
+   "volume": "V",
+   "sentence": "Vyaghranakha consists of mature fruit of Capparis sepiaria Linn. syn. C. zeylanica Linn. f."
+  },
+  {
+   "name": "Adari",
+   "heading": "ADARI (Leaf)",
+   "part": "leaf",
+   "binomial": "Acacia pennata",
+   "synonym": "Mimosa pennata",
+   "family": "Mimosaceae",
+   "volume": "VI",
+   "sentence": "Adari consists of dried tender leaves of Acacia pennata (L.) Willd. Syn. Mimosa pennata L."
+  },
+  {
+   "name": "Amragandhi-guggulu",
+   "heading": "GUGGULU (Leaf)",
+   "part": "leaf",
+   "binomial": "Balsamodendron caudata",
+   "synonym": "Commiphora caudata",
+   "family": "Burseraceae",
+   "volume": "VI",
+   "sentence": "Amragandhi-guggulu consists of leaves of Balsamodendron caudata Mauch. Syn. Commiphora caudata Engl. Protium caudatum W. & A."
+  },
+  {
+   "name": "Aranya-surana",
+   "heading": "ARANYA-SURANA (Tuber)",
+   "part": "tuber",
+   "binomial": "Synantherias sylvatica",
+   "synonym": "Amorphophallus sylvaticus",
+   "family": "Araceae",
+   "volume": "VI",
+   "sentence": "Aranya-surana consists of dried tuber of Synantherias sylvatica Schott Gen. Aocja Syn. Amorphophallus sylvaticus (Roxb.) Kunth."
+  },
+  {
+   "name": "Asthisrnkhala",
+   "heading": "ASTHISRNKHALA (Aerial Part)",
+   "part": "aerial part",
+   "binomial": "Cissus quadrangularis",
+   "synonym": null,
+   "family": "Vitaceae",
+   "volume": "VI",
+   "sentence": "Asthisrnkhala consists of dried aerial parts of Cissus quadrangularis L."
+  },
+  {
+   "name": "Bhutakesi",
+   "heading": "BHUTAKESI (Fruit)",
+   "part": "fruit",
+   "binomial": "Selinum vaginatum",
+   "synonym": null,
+   "family": "Apiaceae",
+   "volume": "VI",
+   "sentence": "Bhutakesi consists of dried fruits of Selinum vaginatum C.B. Clarke"
+  },
+  {
+   "name": "Bhutakesi",
+   "heading": "BHUTAKESI (Rhizome)",
+   "part": "rhizome",
+   "binomial": "Selinum vaginatum",
+   "synonym": null,
+   "family": "Apiaceae",
+   "volume": "VI",
+   "sentence": "Bhutakesi consists of dried rhizomes of Selinum vaginatum C.B. Clarke"
+  },
+  {
+   "name": "Bijapatra",
+   "heading": "BIJAPATRA (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Adiantum capillus-veneris",
+   "synonym": null,
+   "family": null,
+   "volume": "VI",
+   "sentence": "Bijapatra consists of the dried whole plant of Adiantum capillus-veneris L. {Fam. Adiantaceae (Polypodiaceae)} a terrestrial fern occurring throughout the hills in India in moist shady places especially on damp old walls and crevices of rocks."
+  },
+  {
+   "name": "Bimbi",
+   "heading": "BIMBI (Leaf)",
+   "part": "leaf",
+   "binomial": "Coccinia grandis",
+   "synonym": null,
+   "family": "Cucurbitaceae",
+   "volume": "VI",
+   "sentence": "Bimbi consists of the dried leaves of Coccinia grandis (L.) Voigt Syn. C. cordi folia Cogn, C.indica W & A, Cephalandra indica Naud."
+  },
+  {
+   "name": "Brhat Dugdhika",
+   "heading": "BRHAT DUGDHIKA (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Euphorbia hirta",
+   "synonym": null,
+   "family": "Euphorbiaceae",
+   "volume": "VI",
+   "sentence": "Brhat Dugdhika consists of dried whole plant of Euphorbia hirta L. Syn. E. pilulifera Auct. non L."
+  },
+  {
+   "name": "Brhati",
+   "heading": "BRHATI (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Solanum anguivi",
+   "synonym": null,
+   "family": "Solanaceae",
+   "volume": "VI",
+   "sentence": "Brhati consists of dried whole plant of Solanum anguivi Lam. Syn. S. indicum L"
+  },
+  {
+   "name": "Canaka",
+   "heading": "CANAKA (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Cicer arietinum",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "VI",
+   "sentence": "Canaka consists of the whole plant of Cicer arietinum L."
+  },
+  {
+   "name": "Dhava",
+   "heading": "DHAVA (Fruit)",
+   "part": "fruit",
+   "binomial": "Anogeissus latifolia",
+   "synonym": null,
+   "family": "Combretaceae",
+   "volume": "VI",
+   "sentence": "Dhava consists of dried fruits of Anogeissus latifolia Wall."
+  },
+  {
+   "name": "Dhava",
+   "heading": "DHAVA (Stem Bark)",
+   "part": "stem bark",
+   "binomial": "Anogeissus latifolia",
+   "synonym": null,
+   "family": "Combretaceae",
+   "volume": "VI",
+   "sentence": "Dhava consists of dried stem bark of Anogeissus latifolia Wall."
+  },
+  {
+   "name": "Dvipantara Damanaka",
+   "heading": "DVIPANTARA DAMAN AKA (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Artemisia absinthium",
+   "synonym": null,
+   "family": "Asteraceae",
+   "volume": "VI",
+   "sentence": "Dvipantara Damanaka consists of the dried whole plant in flowering stage of Artemisia absinthium L."
+  },
+  {
+   "name": "Dvipantara Satavari",
+   "heading": "ANTARASATAVARI (Root)",
+   "part": "root",
+   "binomial": "Asparagus officinalis",
+   "synonym": null,
+   "family": "Liliaceae",
+   "volume": "VI",
+   "sentence": "Dvipantara Satavari consists of dried roots of Asparagus officinalis L."
+  },
+  {
+   "name": "Elavalukam",
+   "heading": "ELAVALUKAM (Root)",
+   "part": "root",
+   "binomial": "Prunus avium",
+   "synonym": null,
+   "family": "Rosaceae",
+   "volume": "VI",
+   "sentence": "Elavalukam consists of roots of Prunus avium L."
+  },
+  {
+   "name": "Elavalukam",
+   "heading": "ELAY ALUKAM (Stem Bark)",
+   "part": "stem bark",
+   "binomial": "Prunus avium",
+   "synonym": null,
+   "family": "Rosaceae",
+   "volume": "VI",
+   "sentence": "Elavalukam consists of stem bark of Prunus avium L."
+  },
+  {
+   "name": "Erandakarkat i",
+   "heading": "ERANDAKARKATI (Fruit)",
+   "part": "fruit",
+   "binomial": "Carica papaya",
+   "synonym": null,
+   "family": "Caricaceae",
+   "volume": "VI",
+   "sentence": "Erandakarkat i consists of dried pericarp of mature and unripe fruits of Carica papaya L."
+  },
+  {
+   "name": "Erandakarkat i",
+   "heading": "BRAND AKARKATI (Root)",
+   "part": "root",
+   "binomial": "Carica papaya",
+   "synonym": null,
+   "family": "Caricaceae",
+   "volume": "VI",
+   "sentence": "Erandakarkat i consists of dried roots of Carica papaya L."
+  },
+  {
+   "name": "Gandhasipha",
+   "heading": "GANDHASIPHA (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Pavonia odorata",
+   "synonym": null,
+   "family": "Malvaceae",
+   "volume": "VI",
+   "sentence": "Gandhasipha consists of the whole plant of Pavonia odorata Willd."
+  },
+  {
+   "name": "Grismachatraka",
+   "heading": "GRI SMACHATRAKA (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Mollugo cerviana",
+   "synonym": null,
+   "family": "Aizoaceae",
+   "volume": "VI",
+   "sentence": "Grismachatraka consists of dried whole plant of Mollugo cerviana Seringe"
+  },
+  {
+   "name": "Goksura",
+   "heading": "GOKSURA (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Tribulus terrestris",
+   "synonym": null,
+   "family": "Zygophyllaceae",
+   "volume": "VI",
+   "sentence": "Goksura consists of dried whole plant of Tribulus terrestris L."
+  },
+  {
+   "name": "Guladaudi",
+   "heading": "GULADAUDI (Leaf)",
+   "part": "leaf",
+   "binomial": "Chrysanthemum indicum",
+   "synonym": null,
+   "family": "Asteraceae",
+   "volume": "VI",
+   "sentence": "Guladaudi consists of dried leaves of Chrysanthemum indicum L."
+  },
+  {
+   "name": "Haritamanjari",
+   "heading": "HARITAMANJARI (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Acalypha indica",
+   "synonym": null,
+   "family": "Euphorbiaceae",
+   "volume": "VI",
+   "sentence": "Haritamanjari consists of the dried whole plant of Acalypha indica L."
+  },
+  {
+   "name": "Hastisundi",
+   "heading": "HASTISUNDI (Aerial Part)",
+   "part": "aerial part",
+   "binomial": "Heliotropium indicum",
+   "synonym": null,
+   "family": "Boraginaceae",
+   "volume": "VI",
+   "sentence": "Hastisundi consists of dried aerial parts of Heliotropium indicum L."
+  },
+  {
+   "name": "Indivara",
+   "heading": "INDIVARA (Rhizome)",
+   "part": "rhizome",
+   "binomial": "Monochoria vaginalis",
+   "synonym": "Pontederia vaginalis",
+   "family": "Pontederiaceae",
+   "volume": "VI",
+   "sentence": "Indivara consists of the rhizomes of Monochoria vaginalis Presl. Syn. Pontederia vaginalis Burm.f"
+  },
+  {
+   "name": "Jalakumbhi",
+   "heading": "JALAKUMBHI (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Pistia stratiotes",
+   "synonym": null,
+   "family": "Araceae",
+   "volume": "VI",
+   "sentence": "Jalakumbhi consists of dried whole plant of Pistia stratiotes L."
+  },
+  {
+   "name": "Jivanti",
+   "heading": "JIVANTI (Root)",
+   "part": "root",
+   "binomial": "Leptadenia reticulata",
+   "synonym": null,
+   "family": "Asclepiadaceae",
+   "volume": "VI",
+   "sentence": "Jivanti consists of dried roots of Leptadenia reticulata W. & A."
+  },
+  {
+   "name": "Kantakigulma",
+   "heading": "KANTAKIGULMA (Aerial Part)",
+   "part": "aerial part",
+   "binomial": "Lycium barbarum",
+   "synonym": null,
+   "family": "Solanaceae",
+   "volume": "VI",
+   "sentence": "Kantakigulma consists of aerial parts of Lycium barbarum L. Syn. L. europeaum"
+  },
+  {
+   "name": "Karaphsa",
+   "heading": "KARAPHSA (Root)",
+   "part": "root",
+   "binomial": "Apium graveolens",
+   "synonym": null,
+   "family": "Apiaceae",
+   "volume": "VI",
+   "sentence": "Karaphsa consists of dried roots of Apium graveolens L."
+  },
+  {
+   "name": "Kesaraja",
+   "heading": "KESARAJA (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Wedelia chinensis",
+   "synonym": "Wedelia calendulacea",
+   "family": "Asteraceae",
+   "volume": "VI",
+   "sentence": "Kesaraja consists of dried whole plant excluding roots of Wedelia chinensis Merril Syn. Wedelia calendulacea Less"
+  },
+  {
+   "name": "Ketaki",
+   "heading": "KETAKI (Stilt Root)",
+   "part": "stilt root",
+   "binomial": "Pandanus odoratissimus",
+   "synonym": null,
+   "family": "Pandanaceae",
+   "volume": "VI",
+   "sentence": "Ketaki consists of the stilt roots of Pandanus odoratissimus Roxb. Syn. P. fascicularis Lamk. P. tectorius Soland. ex Parkinson"
+  },
+  {
+   "name": "Kitamari",
+   "heading": "KITAMARI (Leaf)",
+   "part": "leaf",
+   "binomial": "Aristolochia bracteolata",
+   "synonym": null,
+   "family": "Aristolochiaceae",
+   "volume": "VI",
+   "sentence": "Kitamari consists of the leaves of Aristolochia bracteolata Lam. Syn. A. bracteata Retz."
+  },
+  {
+   "name": "Kumarivetra",
+   "heading": "KUMARIVETRA (Rhizome)",
+   "part": "rhizome",
+   "binomial": "Calamus thwaitesii",
+   "synonym": null,
+   "family": "Arecaceae",
+   "volume": "VI",
+   "sentence": "Kumarivetra consists of the rhizomes of Calamus thwaitesii Becc."
+  },
+  {
+   "name": "Kusumbha",
+   "heading": "KUSUMBHA (Fruit)",
+   "part": "fruit",
+   "binomial": "Carthamus tinctorius",
+   "synonym": null,
+   "family": "Asteraceae",
+   "volume": "VI",
+   "sentence": "Kusumbha consists of dried fruits of Carthamus tinctorius L."
+  },
+  {
+   "name": "Kusumbha",
+   "heading": "KUSUMBHA (Leaf)",
+   "part": "leaf",
+   "binomial": "Carthamus tinctorius",
+   "synonym": null,
+   "family": "Asteraceae",
+   "volume": "VI",
+   "sentence": "Kusumbha consists of dried leaves of Carthamus tinctorius L."
+  },
+  {
+   "name": "Kusumbha",
+   "heading": "KUSUMBHA (Flower head)",
+   "part": "flower head",
+   "binomial": "Carthamus tinctorius",
+   "synonym": null,
+   "family": "Asteraceae",
+   "volume": "VI",
+   "sentence": "Kusumbha consists of dried flower heads of Carthamus tinctorius L."
+  },
+  {
+   "name": "Laghu haritamanjari",
+   "heading": "LAGHU HARITAMANJARI (Root)",
+   "part": "root",
+   "binomial": "Acalypha fruticosa",
+   "synonym": null,
+   "family": "Euphorbiaceae",
+   "volume": "VI",
+   "sentence": "Laghu haritamanjari consists of roots of Acalypha fruticosa Forsk."
+  },
+  {
+   "name": "Laghupatra varsabhu",
+   "heading": "LAGHUPATRA VAR S ABHU (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Trianthema decandra",
+   "synonym": null,
+   "family": null,
+   "volume": "VI",
+   "sentence": "Laghupatra varsabhu consists of the whole plant of Trianthema decandra L. (Fam. Ficoidaceae (Aizoaceae), a much branched prostrate, procumbent annual herb, occurring as a weed all over peninsular India."
+  },
+  {
+   "name": "Lohitaniryasa",
+   "heading": "LOHITANIRY ASA (Exudate)",
+   "part": "exudate",
+   "binomial": "Dracaena cinnabari",
+   "synonym": null,
+   "family": "Agavaceae",
+   "volume": "VI",
+   "sentence": "Lohitaniryasa consists of exudate of stem of Dracaena cinnabari Balf. f."
+  },
+  {
+   "name": "Madhavi",
+   "heading": "MADHAVI (Flower)",
+   "part": "flower",
+   "binomial": "Hiptage benghalensis",
+   "synonym": null,
+   "family": "Malpighiaceae",
+   "volume": "VI",
+   "sentence": "Madhavi consists of the dried flowers of Hiptage benghalensis L."
+  },
+  {
+   "name": "Nahi",
+   "heading": "NAHI (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Enicostemma axillare",
+   "synonym": null,
+   "family": null,
+   "volume": "VI",
+   "sentence": "Nahi consists of the whole plant of Enicostemma axillare (Lam.) A. Raynal. Syn."
+  },
+  {
+   "name": "Nikocaka",
+   "heading": "NIKOCAKA (Kernel)",
+   "part": "kernel",
+   "binomial": "Pinus gerardiana",
+   "synonym": null,
+   "family": "Coniferae",
+   "volume": "VI",
+   "sentence": "Nikocaka consists of kernels of Pinus gerardiana Wall."
+  },
+  {
+   "name": "Panasa",
+   "heading": "PANASA (Root Bark)",
+   "part": "root bark",
+   "binomial": "Artocarpus heterophyllus",
+   "synonym": null,
+   "family": "Moraceae",
+   "volume": "VI",
+   "sentence": "Panasa consists of dried root bark of Artocarpus heterophyllus Lamk. Syn. A. integrifolia L.f."
+  },
+  {
+   "name": "Papatah",
+   "heading": "PAPATAH (Root)",
+   "part": "root",
+   "binomial": "Pavetta indica",
+   "synonym": null,
+   "family": "Rubiaceae",
+   "volume": "VI",
+   "sentence": "Papatah consists of the root pieces of Pavetta indica var. tomentosa Hook. Syn. P. tomentosa Roxb."
+  },
+  {
+   "name": "Parnayavani",
+   "heading": "PARNAYAVANI (Leaf)",
+   "part": "leaf",
+   "binomial": "Coleus amboinicus",
+   "synonym": null,
+   "family": "Lamiaceae",
+   "volume": "VI",
+   "sentence": "Parnayavani consists of the leaves of Coleus amboinicus Lour. Syn. C. aromaticus Benth."
+  },
+  {
+   "name": "Patrasnuhi",
+   "heading": "PATRASNUHI (Latex)",
+   "part": "latex",
+   "binomial": "Euphorbia nivulia",
+   "synonym": null,
+   "family": "Euphorbiaceae",
+   "volume": "VI",
+   "sentence": "Patrasnuhi consists of the fresh or dried latex of Euphorbia nivulia Buch.-Ham."
+  },
+  {
+   "name": "Pindatagara",
+   "heading": "PINDATAGARA (Rhizome)",
+   "part": "rhizome",
+   "binomial": "Asarum europaeum",
+   "synonym": null,
+   "family": "Aristolochiaceae",
+   "volume": "VI",
+   "sentence": "Pindatagara consists of the dried rhizomes of Asarum europaeum L."
+  },
+  {
+   "name": "Pita-kancanara",
+   "heading": "PITA-KANCANARA (Bud)",
+   "part": "bud",
+   "binomial": "Bauhinia racemosa",
+   "synonym": null,
+   "family": "Caesalpiniaceae",
+   "volume": "VI",
+   "sentence": "Pita-kancanara consists of dried, mature flower buds of Bauhinia racemosa Lamk."
+  },
+  {
+   "name": "Rakta Citraka",
+   "heading": "RAKTA CITRAKA (Root)",
+   "part": "root",
+   "binomial": "Plumbago indica",
+   "synonym": null,
+   "family": "Plumbaginaceae",
+   "volume": "VI",
+   "sentence": "Rakta Citraka consists of the dried roots of Plumbago indica L. Syn. P. rosea L."
+  },
+  {
+   "name": "Rohitaka",
+   "heading": "ROHITAKA (Stem Bark)",
+   "part": "stem bark",
+   "binomial": "Tecomella undulata",
+   "synonym": null,
+   "family": "Bignoniaceae",
+   "volume": "VI",
+   "sentence": "Rohitaka consists of dried stem barks of Tecomella undulata (Sm.) Seem."
+  },
+  {
+   "name": "Sala",
+   "heading": null,
+   "part": null,
+   "binomial": "Shorea robusta",
+   "synonym": null,
+   "family": "Dipterocarpaceae",
+   "volume": "VI",
+   "sentence": "Sala consists of dried heartwood of Shorea robusta Gaertn."
+  },
+  {
+   "name": "Salaparni",
+   "heading": null,
+   "part": null,
+   "binomial": "Desmodium gangeticum",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "VI",
+   "sentence": "Salaparni consists of dried whole plant of Desmodium gangeticum DC."
+  },
+  {
+   "name": "Sami",
+   "heading": null,
+   "part": null,
+   "binomial": "Prosopis cineraria",
+   "synonym": null,
+   "family": null,
+   "volume": "VI",
+   "sentence": "Sami consists of the leaves of Prosopis cineraria Druce Syn. P. spicigera L. (Fam. Leguminosae Mimosaceae), a small to moderate sized tree found in the dry and arid regions of India."
+  },
+  {
+   "name": "Saurabhanimba",
+   "heading": "SAURABHANIMBA (Leaf)",
+   "part": "leaf",
+   "binomial": "Murraya koenigii",
+   "synonym": null,
+   "family": "Rutaceae",
+   "volume": "VI",
+   "sentence": "Saurabhanimba consists of the dried leaves of Murraya koenigii (L.) Spreng Syn. M. koenigii. Spreng"
+  },
+  {
+   "name": "Sitivaraka",
+   "heading": null,
+   "part": null,
+   "binomial": "Celosia argentea",
+   "synonym": null,
+   "family": "Amaranthaceae",
+   "volume": "VI",
+   "sentence": "Sitivaraka consists of seeds of Celosia argentea L."
+  },
+  {
+   "name": "Siva-nili",
+   "heading": "SIVA-NILI (Root and Stem)",
+   "part": "root and stem",
+   "binomial": "Indigo fera",
+   "synonym": null,
+   "family": "Fabaceae",
+   "volume": "VI",
+   "sentence": "Siva-nili consists of the dried roots and stems of Indigo fera aspalathoides Vahl ex DC."
+  },
+  {
+   "name": "Slesmataka",
+   "heading": null,
+   "part": null,
+   "binomial": "Cordia dichotoma",
+   "synonym": null,
+   "family": "Boraginaceae",
+   "volume": "VI",
+   "sentence": "Slesmataka consists of dried, ripe fruits of Cordia dichotoma Forst. f. Syn. C. obliqua Willd., C. myxa Roxb."
+  },
+  {
+   "name": "Slesmataka",
+   "heading": null,
+   "part": null,
+   "binomial": "Cordia dichotoma",
+   "synonym": null,
+   "family": null,
+   "volume": "VI",
+   "sentence": "Slesmataka consists of dried stem bark of Cordia dichotoma Forst. f. Syn. C."
+  },
+  {
+   "name": "Slipadarikanda",
+   "heading": null,
+   "part": null,
+   "binomial": "Typhonium trilobatum",
+   "synonym": null,
+   "family": "Araceae",
+   "volume": "VI",
+   "sentence": "Slipadarikanda consists of fresh or dry tuber of Typhonium trilobatum Schott."
+  },
+  {
+   "name": "Sphitakitari",
+   "heading": "SPHITAKITARI (Rhizome)",
+   "part": "rhizome",
+   "binomial": "Dryopteris filix",
+   "synonym": "Aspidium filix-mas",
+   "family": "Dryopteridaceae",
+   "volume": "VI",
+   "sentence": "Sphitakitari consists of the dried rhizome with frond bases of Dryopteris filix mas (L.) Schott. Syn. Aspidium filix-mas L."
+  },
+  {
+   "name": "Sprkka",
+   "heading": "SPRKKA (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Anisomeles malabarica",
+   "synonym": null,
+   "family": "Lamiaceae",
+   "volume": "VI",
+   "sentence": "Sprkka consists of the dried entire plant of Anisomeles malabarica (L.) R. Br. ex Sims"
+  },
+  {
+   "name": "Sruvavrksa",
+   "heading": "SRUVAVRKSA (Fruit)",
+   "part": "fruit",
+   "binomial": "Flacourtia indica",
+   "synonym": null,
+   "family": "Flacourtiaceae",
+   "volume": "VI",
+   "sentence": "Sruvavrksa consists of fruits of Flacourtia indica (Burm.f.) Merr. Syn. F. ramontchii Herit."
+  },
+  {
+   "name": "Sukanasa",
+   "heading": null,
+   "part": null,
+   "binomial": "Corallocarpus epigaeus",
+   "synonym": "Bryonia epigaea",
+   "family": "Cucurbitaceae",
+   "volume": "VI",
+   "sentence": "Sukanasa consists of the rhizomes of Corallocarpus epigaeus Benth. ex Hook. f. Syn. Bryonia epigaea Rottler; Rhyncocarpa epigaea Naud and Aechmandra epigaea Arn."
+  },
+  {
+   "name": "Sveta vetasa",
+   "heading": null,
+   "part": null,
+   "binomial": "Salix alba",
+   "synonym": null,
+   "family": "Salicaceae",
+   "volume": "VI",
+   "sentence": "Sveta vetasa consists of dried leaves of Salix alba L."
+  },
+  {
+   "name": "Takkola",
+   "heading": "TAKKOLA (Fruit)",
+   "part": "fruit",
+   "binomial": "Illicium verum",
+   "synonym": null,
+   "family": "Magnoliaceae",
+   "volume": "VI",
+   "sentence": "Takkola consists of fruits of Illicium verum Hook. f."
+  },
+  {
+   "name": "Tinduka",
+   "heading": "TINDUKA (Fruit)",
+   "part": "fruit",
+   "binomial": "Diospyros peregrina",
+   "synonym": "Diospyros embryopteris",
+   "family": "Ebenaceae",
+   "volume": "VI",
+   "sentence": "Tinduka consists of unripe and ripe fruits of Diospyros peregrina Gurke Syn. Diospyros embryopteris L."
+  },
+  {
+   "name": "Trayamana",
+   "heading": "TRAYAMANA (Rhizome)",
+   "part": "rhizome",
+   "binomial": "Gentiana kurroo",
+   "synonym": null,
+   "family": "Gentianaceae",
+   "volume": "VI",
+   "sentence": "Trayamana consists of dried rhizomes of Gentiana kurroo Royle"
+  },
+  {
+   "name": "Tripaksi",
+   "heading": "TRIPAKSI (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Coldenia procumbens",
+   "synonym": null,
+   "family": "Boraginaceae",
+   "volume": "VI",
+   "sentence": "Tripaksi consists of the whole plant of Coldenia procumbens L."
+  },
+  {
+   "name": "Tuvaraka",
+   "heading": "TUVARAKA (Seed)",
+   "part": "seed",
+   "binomial": "Hydnocarpus pentandra",
+   "synonym": null,
+   "family": "Flacourtiaceae",
+   "volume": "VI",
+   "sentence": "Tuvaraka consists of the dried seeds of Hydnocarpus pentandra (Buch.-Ham.) Oken Syn. H. laurifolia (Dennst.) Sleummer., H. wightiana Blume"
+  },
+  {
+   "name": "Usandi",
+   "heading": "USANDI (Whole Plant)",
+   "part": "whole plant",
+   "binomial": "Glinus lotoides",
+   "synonym": "Mollugo hirta",
+   "family": "Aizoaceae",
+   "volume": "VI",
+   "sentence": "Usandi consists of the whole plant of Glinus lotoides L. Syn. Mollugo hirta Thub., M. lotoides Kuntz."
+  },
+  {
+   "name": "Vajranna",
+   "heading": "VAJRANNA (Leaf Base)",
+   "part": "leaf base",
+   "binomial": "Pennisetum typhoides",
+   "synonym": null,
+   "family": null,
+   "volume": "VI",
+   "sentence": "Vajranna consists of the dried sheathy leaf bases of Pennisetum typhoides (Burm.) Stapf & C.E. Hubb, syn. P. typhoideum Rich., P. spicatum Roem and Schult [Fam. Poaceae (Graminae)], cultivated in the arid and semi-arid regions of central and peninsular India fo"
+  },
+  {
+   "name": "Vanya-asvagola",
+   "heading": "VANY A-ASVAGOLA (Fresh Leaf)",
+   "part": "fresh leaf",
+   "binomial": "Plantago lanceolata",
+   "synonym": null,
+   "family": "Plantaginaceae",
+   "volume": "VI",
+   "sentence": "Vanya-asvagola consists of fresh leaves of Plantago lanceolata L."
+  },
+  {
+   "name": "Vrntamlaphala",
+   "heading": "VENT AMLAPHALA (Fruit Rind)",
+   "part": "fruit rind",
+   "binomial": "Garcinia pedunculata",
+   "synonym": null,
+   "family": "Guttiferae",
+   "volume": "VI",
+   "sentence": "Vrntamlaphala consists of the fruit rind of Garcinia pedunculata Roxb."
+  },
+  {
+   "name": "Vrscikakanda",
+   "heading": "VRSCIKAKANDA (Rhizome)",
+   "part": "rhizome",
+   "binomial": "Doronicum hookeri",
+   "synonym": null,
+   "family": "Asteraceae",
+   "volume": "VI",
+   "sentence": "Vrscikakanda consists of dried rhizomes of Doronicum hookeri C. B. Clarke"
+  },
+  {
+   "name": "Sarsapa Taila",
+   "heading": "SARSAPA TAILA (Mustard Oil)",
+   "part": "mustard oil",
+   "binomial": "Brassica campestris",
+   "synonym": null,
+   "family": "Brassicaceae",
+   "volume": "VI",
+   "sentence": "Sarsapa Taila consists of the fixed oil expressed from clean and healthy seeds of Brassica campestris L."
+  }
+ ]
+}

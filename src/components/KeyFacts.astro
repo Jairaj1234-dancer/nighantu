@@ -12,10 +12,13 @@
  * is a guess, and a guess rendered as a registry link reads as a fact.
  */
 import taxonomy from '../data/taxonomy.json';
+import identity from '../data/identity.json';
 import { rel } from '../lib/site';
 import { familiesWithPages } from '../lib/families';
 
 interface Props {
+  kind?: string;
+  slug?: string;
   botanical?: string;
   family?: string;
   sanskrit?: string;
@@ -23,7 +26,31 @@ interface Props {
   whoStatus?: string;
   aliases?: string[];
 }
-const { botanical, family, sanskrit, ayurvedicCategory, whoStatus, aliases = [] } = Astro.props;
+const { kind, slug, botanical, family, sanskrit, ayurvedicCategory, whoStatus, aliases = [] } = Astro.props;
+
+/**
+ * Identity record from the second botanical pass (scripts/apply-identity.mjs).
+ *
+ * Two jobs. A page that is not a plant says so, because a blank botanical row on a bhasma
+ * reads as "unknown" when the truth is "not applicable". And a botanical name anchored to
+ * the Ayurvedic Pharmacopoeia of India cites the monograph, and lists the other plants the
+ * same Sanskrit name is attributed to, instead of presenting a contested identity as settled.
+ */
+const ident = kind === 'herb' && slug ? (identity as any).records?.[slug] : null;
+const CLASS_LABEL: Record<string, string> = {
+  mineral: 'Mineral or metal preparation, not a plant',
+  animal: 'Animal-derived substance, not a plant',
+  salt: 'Salt or alkali preparation, not a plant',
+  'rasa-preparation': 'Herbo-mineral (rasa shastra) preparation, not a single plant',
+  formulation: 'Compound formulation of several ingredients, not a single plant',
+  'compound-or-isolate': 'Isolated compound or extract, not a whole plant drug',
+  'plant-product-mixture': 'Preparation made from plant material, not a single plant drug',
+};
+const substanceType = ident?.substanceClass ? CLASS_LABEL[ident.substanceClass] ?? '' : '';
+const apiCite = ident?.api && botanical
+  ? `Ayurvedic Pharmacopoeia of India, Part I, Vol. ${ident.api.volume}: ${ident.api.heading}` : '';
+const otherAttr = ident?.otherAttributions?.length && botanical
+  ? ident.otherAttributions.map((a: any) => a.binomial).filter((b: string) => b !== botanical).slice(0, 4) : [];
 
 /** Match the page's botanical to a resolved taxon the same way the resolver keyed it. */
 const queryOf = (b: string) => b.replace(/\s*\(.*?\)\s*/g, ' ').split(/\s+/).slice(0, 2).join(' ');
@@ -39,7 +66,10 @@ const supersededBy = trustworthy && taxon.taxonomicStatus && taxon.taxonomicStat
   ? taxon.acceptedName : '';
 
 const rows = [
+  ['Substance type', substanceType],
   ['Botanical name', botanical],
+  ['Identity source', apiCite],
+  ['Also attributed to', otherAttr.join(', ')],
   ['Currently accepted name', supersededBy],
   ['Family', family || (trustworthy ? taxon.family : '')],
   ['Order', trustworthy ? taxon.order : ''],
@@ -63,7 +93,10 @@ const ids = trustworthy ? [
         <tr>
           <th scope="row">{k}</th>
           <td>
-            {k === 'Botanical name' || k === 'Currently accepted name' ? <i>{v}</i> : v}
+            {k === 'Botanical name' || k === 'Currently accepted name' || k === 'Also attributed to' ? <i>{v}</i> : v}
+            {k === 'Also attributed to' && (
+              <span class="taxnote"> (other sources apply the same Sanskrit name to these plants)</span>
+            )}
             {k === 'Currently accepted name' && (
               <span class="taxnote"> — the name above is treated as a synonym by GBIF; both are in use</span>
             )}
