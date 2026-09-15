@@ -1,23 +1,25 @@
----
-title: "Bronchodilator Agents"
-slug: "bronchodilator"
-kind: "hub"
-section: "_Hub"
-category: "Pharmacology"
-subcategory: "Bronchodilator.md"
-group: ""
-answer: "Bronchodilator Agents is a reference entry in the Nighantu. 83 herbs and compounds with bronchodilator activity across traditions Agastya Haritaki Rasayana Ajwain — Trachyspermum ammi Bhadra — Aerva lanata (L.) Juss. Chitrakaharitaki — Polyherbal formulation: Plumbago zeylanica (Chitrak) + Terminalia chebula (Haritaki) as principal herbs Dashamoola Katutraya Kashayam Devadaru — Cedrus deodara (Roxb."
-botanical: ""
-family: ""
-sanskrit: ""
-ayurvedicCategory: ""
-whoStatus: ""
+---title: Bronchodilator Agents
+slug: bronchodilator
+kind: hub
+section: _Hub
+category: Pharmacology
+subcategory: Bronchodilator.md
+group: ''
+answer: Bronchodilator botanicals relax bronchial smooth muscle spasms, reduce airway hyperresponsiveness, and widen pulmonary lumen diameters to facilitate unobstructed breathing. They act via beta-2 adrenergic stimulation and phosphodiesterase inhibition. Classically designated Shwasahara dravyas, the benchmark botanical is Vasa (Adhatoda vasica), containing the active quinazoline alkaloid vasicine, widely studied for acute respiratory ease.
+botanical: ''
+family: ''
+sanskrit: ''
+ayurvedicCategory: ''
+whoStatus: ''
 aliases: []
-tags: ["hub", "pharmacology", "bronchodilator"]
+tags:
+- hub
+- pharmacology
+- bronchodilator
 sources: []
 productHints: []
 words: 324
-srcRel: "_Hub/Pharmacology/Bronchodilator.md"
+srcRel: _Hub/Pharmacology/Bronchodilator.md
 ---
 *83 herbs and compounds with bronchodilator activity across traditions*
 

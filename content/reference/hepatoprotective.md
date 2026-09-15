@@ -1,23 +1,25 @@
----
-title: "Hepatoprotective Agents"
-slug: "hepatoprotective"
-kind: "hub"
-section: "_Hub"
-category: "Pharmacology"
-subcategory: "Hepatoprotective.md"
-group: ""
-answer: "Hepatoprotective Agents is a reference entry in the Nighantu. 277 herbs and compounds with hepatoprotective activity across traditions Abhraka Bhasma Adhaki — Cajanus cajan (L.) Millsp. Agastya — Sesbania grandiflora (L.) Pers."
-botanical: ""
-family: ""
-sanskrit: ""
-ayurvedicCategory: ""
-whoStatus: ""
+---title: Hepatoprotective Agents
+slug: hepatoprotective
+kind: hub
+section: _Hub
+category: Pharmacology
+subcategory: Hepatoprotective.md
+group: ''
+answer: Hepatoprotective botanicals preserve hepatocyte cell membrane stability, stimulate hepatic microsomal protein synthesis, and enhance Phase I and Phase II liver detoxification pathways. They prevent lipid peroxidation induced by chemical toxins, alcohol, and heavy metals. Classically classified as Yakriduttejaka and Pittarechaka dravyas, premier examples include Bhumyamalaki (Phyllanthus niruri), Kalmegh (Andrographis paniculata), and Katuki (Picrorhiza kurroa).
+botanical: ''
+family: ''
+sanskrit: ''
+ayurvedicCategory: ''
+whoStatus: ''
 aliases: []
-tags: ["hub", "pharmacology", "hepatoprotective"]
+tags:
+- hub
+- pharmacology
+- hepatoprotective
 sources: []
 productHints: []
 words: 314
-srcRel: "_Hub/Pharmacology/Hepatoprotective.md"
+srcRel: _Hub/Pharmacology/Hepatoprotective.md
 ---
 *277 herbs and compounds with hepatoprotective activity across traditions*
 

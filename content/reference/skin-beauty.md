@@ -1,23 +1,25 @@
----
-title: "Skin & Beauty"
-slug: "skin-beauty"
-kind: "hub"
-section: "_Hub"
-category: "Body-Systems"
-subcategory: "Skin--Beauty.md"
-group: ""
-answer: "Skin & Beauty is a reference entry in the Nighantu. Cross-tradition therapeutic reference — 425 related entries Agnikarna — Gloriosa superba L. (Agnikumarika/Agnimukhi); also associated with Litsea species in some texts — (Antioxidant, Anticancer, Wound Healing) Aivana — Salvia officinalis L."
-botanical: ""
-family: ""
-sanskrit: ""
-ayurvedicCategory: ""
-whoStatus: ""
+---title: Skin & Beauty
+slug: skin-beauty
+kind: hub
+section: _Hub
+category: Body-Systems
+subcategory: Skin--Beauty.md
+group: ''
+answer: Dermatological and skin vitality botanicals purify circulatory blood tissue (Rakta Shodhana), stimulate dermal collagen synthesis, and calm inflammatory dermatoses. Known classically as Varnya (complexion-brightening) and Kushtaghna (skin-clearing) herbs, key botanical remedies feature Manjistha (Rubia cordifolia), Khadira (Acacia catechu), Sariva (Hemidesmus indicus), and Haridra, clearing subcutaneous heat and promoting clear, lustrous skin.
+botanical: ''
+family: ''
+sanskrit: ''
+ayurvedicCategory: ''
+whoStatus: ''
 aliases: []
-tags: ["hub", "body-system", "skin--beauty"]
+tags:
+- hub
+- body-system
+- skin--beauty
 sources: []
 productHints: []
 words: 487
-srcRel: "_Hub/Body-Systems/Skin--Beauty.md"
+srcRel: _Hub/Body-Systems/Skin--Beauty.md
 ---
 *Cross-tradition therapeutic reference — 425 related entries*
 

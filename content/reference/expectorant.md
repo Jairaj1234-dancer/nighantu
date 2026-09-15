@@ -1,23 +1,25 @@
----
-title: "Expectorant Agents"
-slug: "expectorant"
-kind: "hub"
-section: "_Hub"
-category: "Pharmacology"
-subcategory: "Expectorant.md"
-group: ""
-answer: "Expectorant Agents is a reference entry in the Nighantu. 87 herbs and compounds with expectorant activity across traditions Ajwain Herb Brihatyadi Kashayam Chandrashura — Lepidium sativum L. Chitrakaharitaki — Polyherbal formulation: Plumbago zeylanica (Chitrak) + Terminalia chebula (Haritaki) as principal herbs Eucalyptus Herb Gajapippali — Scindapsus officinalis (Roxb.) Schott Hingu — Ferula asafoetida Hinguleshwar Ras Hingupatri — Ferula spp."
-botanical: ""
-family: ""
-sanskrit: ""
-ayurvedicCategory: ""
-whoStatus: ""
+---title: Expectorant Agents
+slug: expectorant
+kind: hub
+section: _Hub
+category: Pharmacology
+subcategory: Expectorant.md
+group: ''
+answer: Expectorant agents thin, liquefy, and loosen tenacious tracheobronchial mucus, promoting ciliary clearance and productive cough elimination from the respiratory tract. They stimulate respiratory tract fluid secretions through vagal and local mucosal pathways. In classical Ayurvedic pharmacy, these Kaphanissaraka herbs are led by Kantakari, Pippali, Yashtimadhu, and Bharangi, often delivered with honey as an Anupana.
+botanical: ''
+family: ''
+sanskrit: ''
+ayurvedicCategory: ''
+whoStatus: ''
 aliases: []
-tags: ["hub", "pharmacology", "expectorant"]
+tags:
+- hub
+- pharmacology
+- expectorant
 sources: []
 productHints: []
 words: 291
-srcRel: "_Hub/Pharmacology/Expectorant.md"
+srcRel: _Hub/Pharmacology/Expectorant.md
 ---
 *87 herbs and compounds with expectorant activity across traditions*
 

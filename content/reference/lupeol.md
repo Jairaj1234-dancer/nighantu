@@ -1,23 +1,25 @@
----
-title: "Lupeol"
-slug: "lupeol"
-kind: "hub"
-section: "_Hub"
-category: "Compounds"
-subcategory: "Lupeol.md"
-group: ""
-answer: "Lupeol is a reference entry in the Nighantu. Found in 63 entries across the catalogue Ananta Mool Bakula — Mimusops elengi L. Bhadra — Aerva lanata (L.) Juss. Bhumi Jambuka Bhurja Bimbi Chakragaja — Cassia tora L."
-botanical: ""
-family: ""
-sanskrit: ""
-ayurvedicCategory: ""
-whoStatus: ""
+---title: Lupeol
+slug: lupeol
+kind: hub
+section: _Hub
+category: Compounds
+subcategory: Lupeol.md
+group: ''
+answer: Lupeol is a pharmacologically active triterpene displaying powerful anti-inflammatory, anti-arthritic, and anti-urolithic properties. It inhibits neutrophil infiltration and downsizes pro-inflammatory eicosanoids. In Ayurvedic renal pharmacopoeia, lupeol is a flagship constituent of Varuna (Crataeva nurvala), scientifically validated for preventing urinary stone formation and relieving benign prostatic congestion.
+botanical: ''
+family: ''
+sanskrit: ''
+ayurvedicCategory: ''
+whoStatus: ''
 aliases: []
-tags: ["hub", "compound", "lupeol"]
+tags:
+- hub
+- compound
+- lupeol
 sources: []
 productHints: []
 words: 358
-srcRel: "_Hub/Compounds/Lupeol.md"
+srcRel: _Hub/Compounds/Lupeol.md
 ---
 *Found in 63 entries across the catalogue*
 

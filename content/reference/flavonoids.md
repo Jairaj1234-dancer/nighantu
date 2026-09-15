@@ -1,23 +1,25 @@
----
-title: "Flavonoids"
-slug: "flavonoids"
-kind: "hub"
-section: "_Hub"
-category: "Compounds"
-subcategory: "Flavonoids.md"
-group: ""
-answer: "Flavonoids is a reference entry in the Nighantu. Found in 163 entries across the catalogue Agnikarna — Gloriosa superba L. (Agnikumarika/Agnimukhi); also associated with Litsea species in some texts Agnimantha — Premna integrifolia (syn."
-botanical: ""
-family: ""
-sanskrit: ""
-ayurvedicCategory: ""
-whoStatus: ""
+---title: Flavonoids
+slug: flavonoids
+kind: hub
+section: _Hub
+category: Compounds
+subcategory: Flavonoids.md
+group: ''
+answer: Flavonoids represent a large class of plant secondary metabolites characterized by a 15-carbon phenylpropanoid skeleton. They exert potent antioxidant, capillary-strengthening, and anti-allergic effects by inhibiting histamine release and modulating protein kinase enzymes. Present across hundreds of Ayurvedic botanicals, flavonoids represent the molecular basis of many classical Vata-Pitta pacifying and vascular Rasayana therapies.
+botanical: ''
+family: ''
+sanskrit: ''
+ayurvedicCategory: ''
+whoStatus: ''
 aliases: []
-tags: ["hub", "compound", "flavonoids"]
+tags:
+- hub
+- compound
+- flavonoids
 sources: []
 productHints: []
 words: 367
-srcRel: "_Hub/Compounds/Flavonoids.md"
+srcRel: _Hub/Compounds/Flavonoids.md
 ---
 *Found in 163 entries across the catalogue*
 

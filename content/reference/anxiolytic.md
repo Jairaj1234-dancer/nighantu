@@ -1,23 +1,25 @@
----
-title: "Anxiolytic Agents"
-slug: "anxiolytic"
-kind: "hub"
-section: "_Hub"
-category: "Pharmacology"
-subcategory: "Anxiolytic.md"
-group: ""
-answer: "Anxiolytic Agents is a reference entry in the Nighantu. 133 herbs and compounds with anxiolytic activity across traditions Aparajita — Clitoria ternatea L. Ashwagandharishta Badara Bakula — Mimusops elengi L. Bhutakeshi Brahmi — Bacopa monnieri Brahmi Ghritam Dhanyaka — Coriandrum sativum L."
-botanical: ""
-family: ""
-sanskrit: ""
-ayurvedicCategory: ""
-whoStatus: ""
+---title: Anxiolytic Agents
+slug: anxiolytic
+kind: hub
+section: _Hub
+category: Pharmacology
+subcategory: Anxiolytic.md
+group: ''
+answer: Anxiolytic botanical agents reduce acute psychological apprehension, ease somatic nervous tension, and induce central calm without causing motor impairment or chemical dependency. They modulate GABAergic receptor sensitivity and blunt autonomic sympathetic surges. Classical Manonasaka and Medhya remedies center on Jatamansi (Nardostachys jatamansi), Tagara (Valeriana wallichii), Brahmi, and Shankhpushpi, pacifying agitated Prana and Udana Vata.
+botanical: ''
+family: ''
+sanskrit: ''
+ayurvedicCategory: ''
+whoStatus: ''
 aliases: []
-tags: ["hub", "pharmacology", "anxiolytic"]
+tags:
+- hub
+- pharmacology
+- anxiolytic
 sources: []
 productHints: []
 words: 253
-srcRel: "_Hub/Pharmacology/Anxiolytic.md"
+srcRel: _Hub/Pharmacology/Anxiolytic.md
 ---
 *133 herbs and compounds with anxiolytic activity across traditions*
 

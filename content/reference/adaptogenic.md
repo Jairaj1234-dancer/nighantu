@@ -1,23 +1,25 @@
----
-title: "Adaptogenic Agents"
-slug: "adaptogenic"
-kind: "hub"
-section: "_Hub"
-category: "Pharmacology"
-subcategory: "Adaptogenic.md"
-group: ""
-answer: "Adaptogenic Agents is a reference entry in the Nighantu. 115 herbs and compounds with adaptogenic activity across traditions Amrita Ghrita Arjunarishta Ashwagandharishta Atibala Bala — Sida cordifolia Bala Mool Balarishta Balaswagandhadi Thailam Brahma Rasayana Chhatraka — Agaricus campestris L."
-botanical: ""
-family: ""
-sanskrit: ""
-ayurvedicCategory: ""
-whoStatus: ""
+---title: Adaptogenic Agents
+slug: adaptogenic
+kind: hub
+section: _Hub
+category: Pharmacology
+subcategory: Adaptogenic.md
+group: ''
+answer: Adaptogenic agents are natural compounds and botanicals that enhance non-specific physiological resistance to physical, biological, and emotional stressors. They modulate the hypothalamic-pituitary-adrenal (HPA) axis, normalize daytime cortisol rhythms, and stabilize cellular homeostasis without pharmacological sedation. In classical Ayurveda, they correspond directly to Balya (strength-promoting), Ojas-enhancing, and Rasayana dravyas, exemplified by Ashwagandha, Guduchi, and Bala.
+botanical: ''
+family: ''
+sanskrit: ''
+ayurvedicCategory: ''
+whoStatus: ''
 aliases: []
-tags: ["hub", "pharmacology", "adaptogenic"]
+tags:
+- hub
+- pharmacology
+- adaptogenic
 sources: []
 productHints: []
 words: 285
-srcRel: "_Hub/Pharmacology/Adaptogenic.md"
+srcRel: _Hub/Pharmacology/Adaptogenic.md
 ---
 *115 herbs and compounds with adaptogenic activity across traditions*
 

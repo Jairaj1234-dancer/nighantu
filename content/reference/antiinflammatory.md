@@ -1,23 +1,25 @@
----
-title: "Anti inflammatory Agents"
-slug: "antiinflammatory"
-kind: "hub"
-section: "_Hub"
-category: "Pharmacology"
-subcategory: "Antiinflammatory.md"
-group: ""
-answer: "Anti inflammatory Agents is a reference entry in the Nighantu. 975 herbs and compounds with anti-inflammatory activity across traditions Abhayarishta Abhraka Bhasma Adhaki — Cajanus cajan (L.) Millsp. Agastya — Sesbania grandiflora (L.) Pers."
-botanical: ""
-family: ""
-sanskrit: ""
-ayurvedicCategory: ""
-whoStatus: ""
+---title: Anti inflammatory Agents
+slug: antiinflammatory
+kind: hub
+section: _Hub
+category: Pharmacology
+subcategory: Antiinflammatory.md
+group: ''
+answer: Anti-inflammatory agents inhibit key enzymatic cascades of the inflammatory cascade, notably cyclooxygenase (COX-2), lipoxygenase (5-LOX), and nuclear factor kappa B (NF-kB) transcriptional pathways. By reducing circulating prostaglandin and leukotriene synthesis, they ease acute and chronic tissue swelling. In Ayurvedic pharmacology, they act as Shothahara and Amapachana dravyas, classically represented by Sallaki (Boswellia serrata), Guggulu, Haridra (Curcuma longa), and Shunthi.
+botanical: ''
+family: ''
+sanskrit: ''
+ayurvedicCategory: ''
+whoStatus: ''
 aliases: []
-tags: ["hub", "pharmacology", "antiinflammatory"]
+tags:
+- hub
+- pharmacology
+- antiinflammatory
 sources: []
 productHints: []
 words: 314
-srcRel: "_Hub/Pharmacology/Antiinflammatory.md"
+srcRel: _Hub/Pharmacology/Antiinflammatory.md
 ---
 *975 herbs and compounds with anti-inflammatory activity across traditions*
 

@@ -1,23 +1,25 @@
----
-title: "Digestive Health"
-slug: "digestive-health"
-kind: "hub"
-section: "_Hub"
-category: "Body-Systems"
-subcategory: "Digestive-Health.md"
-group: ""
-answer: "Digestive Health is a reference entry in the Nighantu. Cross-tradition therapeutic reference — 612 related entries Agnijara Agnikarna — Gloriosa superba L. (Agnikumarika/Agnimukhi); also associated with Litsea species in some texts — (Antioxidant, Anticancer, Wound Healing) Agnikumarika Agnimantha — Premna integrifolia (syn."
-botanical: ""
-family: ""
-sanskrit: ""
-ayurvedicCategory: ""
-whoStatus: ""
+---title: Digestive Health
+slug: digestive-health
+kind: hub
+section: _Hub
+category: Body-Systems
+subcategory: Digestive-Health.md
+group: ''
+answer: Digestive health botanicals stimulate gastric and pancreatic secretions, regulate intestinal peristalsis, and eliminate undigested metabolic toxins (Ama). Known classically as Deepana (appetite-kindling) and Pachana (digestive) dravyas, they optimize digestive agni without aggravating pitta. The premier classical triad is Trikatu (Shunthi, Maricha, Pippali), alongside Hingwastak churnas and carminative seeds like Ajwain and Jeeraka.
+botanical: ''
+family: ''
+sanskrit: ''
+ayurvedicCategory: ''
+whoStatus: ''
 aliases: []
-tags: ["hub", "body-system", "digestive-health"]
+tags:
+- hub
+- body-system
+- digestive-health
 sources: []
 productHints: []
 words: 334
-srcRel: "_Hub/Body-Systems/Digestive-Health.md"
+srcRel: _Hub/Body-Systems/Digestive-Health.md
 ---
 *Cross-tradition therapeutic reference — 612 related entries*
 

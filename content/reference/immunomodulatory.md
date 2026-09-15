@@ -1,23 +1,25 @@
----
-title: "Immunomodulatory Agents"
-slug: "immunomodulatory"
-kind: "hub"
-section: "_Hub"
-category: "Pharmacology"
-subcategory: "Immunomodulatory.md"
-group: ""
-answer: "Immunomodulatory Agents is a reference entry in the Nighantu. 314 herbs and compounds with immunomodulatory activity across traditions Abhraka Bhasma Agastya Haritaki Rasayana Aja Dugdha Goat Milk Akarakarabha — Anacyclus pyrethrum (L.) Lag."
-botanical: ""
-family: ""
-sanskrit: ""
-ayurvedicCategory: ""
-whoStatus: ""
+---title: Immunomodulatory Agents
+slug: immunomodulatory
+kind: hub
+section: _Hub
+category: Pharmacology
+subcategory: Immunomodulatory.md
+group: ''
+answer: Immunomodulatory agents regulate innate and adaptive immune cell function, stimulating phagocytosis, activating natural killer (NK) cells, and modulating pro-inflammatory cytokine expression (TNF-alpha, IL-6). Rather than causing non-specific hyperactivity, they restore immunological equilibrium. In classical Dravyaguna, this function is termed Vyadhikshamatwa (disease resistance), fundamentally embodied by Guduchi (Tinospora cordifolia), Ashwagandha, and classical Chyawanprash.
+botanical: ''
+family: ''
+sanskrit: ''
+ayurvedicCategory: ''
+whoStatus: ''
 aliases: []
-tags: ["hub", "pharmacology", "immunomodulatory"]
+tags:
+- hub
+- pharmacology
+- immunomodulatory
 sources: []
 productHints: []
 words: 285
-srcRel: "_Hub/Pharmacology/Immunomodulatory.md"
+srcRel: _Hub/Pharmacology/Immunomodulatory.md
 ---
 *314 herbs and compounds with immunomodulatory activity across traditions*
 

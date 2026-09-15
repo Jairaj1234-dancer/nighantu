@@ -1,23 +1,25 @@
----
-title: "Fever & Infection"
-slug: "fever-infection"
-kind: "hub"
-section: "_Hub"
-category: "Body-Systems"
-subcategory: "Fever--Infection.md"
-group: ""
-answer: "Fever & Infection is a reference entry in the Nighantu. Cross-tradition therapeutic reference — 115 related entries Agnikarna — Gloriosa superba L. (Agnikumarika/Agnimukhi); also associated with Litsea species in some texts — (Antioxidant, Anticancer, Wound Healing) Akhuparni — Ipomoea reniformis Choisy (syn."
-botanical: ""
-family: ""
-sanskrit: ""
-ayurvedicCategory: ""
-whoStatus: ""
+---title: Fever & Infection
+slug: fever-infection
+kind: hub
+section: _Hub
+category: Body-Systems
+subcategory: Fever--Infection.md
+group: ''
+answer: Therapeutic references for fever and infection combine antimicrobial, antipyretic, and detoxifying (Amapachana) herbs. They neutralize circulating pathogenic toxins, enhance cutaneous perspiration (diaphoretic action), and preserve lean body mass during acute illness. Centered around classical formulations like Mahasudarshana and Amritarishta, they pair bitter bitters with cooling barks to restore constitutional vitality without digestive suppression.
+botanical: ''
+family: ''
+sanskrit: ''
+ayurvedicCategory: ''
+whoStatus: ''
 aliases: []
-tags: ["hub", "body-system", "fever--infection"]
+tags:
+- hub
+- body-system
+- fever--infection
 sources: []
 productHints: []
 words: 451
-srcRel: "_Hub/Body-Systems/Fever--Infection.md"
+srcRel: _Hub/Body-Systems/Fever--Infection.md
 ---
 *Cross-tradition therapeutic reference — 115 related entries*
 
