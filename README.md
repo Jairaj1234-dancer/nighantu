@@ -36,6 +36,10 @@ scripts/compounds.mjs       constituent co-occurrence graph, computed from conte
 scripts/safety-refresh.mjs  quarterly: are published safety sources still saying it
 scripts/crawl-audit.mjs     crawlability gate aimed at AI crawlers, not Googlebot
 scripts/verification.mjs    builds the published verification ledger from run artifacts
+scripts/api-index.mjs       extracts botanical identities from the API text (no agent tokens)
+scripts/apply-identity.mjs  workflow output -> binomials + substance classes, re-checked here
+scripts/apply-composition.mjs workflow output -> AFI composition tables, re-checked here
+scripts/icd-tm2.mjs         WHO ICD-11 TM2 terminology crosswalk (needs a free ICD API key)
 scripts/slim-runs.mjs       redacts and shrinks run output before it is committed
 scripts/test/               negative tests; every one injects a fault and expects a failure
 
@@ -121,6 +125,8 @@ never typed in, so a wrong number on the page means a wrong script.
 | Run | Examined | Published | Rejected |
 |---|---|---|---|
 | Botanical identity | 256 | 108 | 148 |
+| Botanical identity, Pharmacopoeia-anchored pass | 126 | 46 binomials + 107 substance classes | 48 |
+| AFI compositions | 135 | 48 | 54 rejected, 29 not in the formulary |
 | Research citations | 1,251 | 496 | 755 |
 | Safety, first attempt | 83 | 0 | 83 |
 | Safety, second attempt | 25 | 1 | 24 |

@@ -151,11 +151,15 @@ Two things worth knowing in advance, independent of that research:
   the panel at 30 and 90 days to see movement. On a new domain, meaningful change usually takes
   8 to 12 weeks, so do not read a flat result at week 3 as failure.
 
-To run the full 53-prompt panel you need an Anthropic API key:
+To run the full 53-prompt panel you need one API key, and any of four providers now works:
 
 ```bash
+GEMINI_API_KEY=... node scripts/geo-audit.mjs      # free tier, and Google Search grounding
 ANTHROPIC_API_KEY=sk-... node scripts/geo-audit.mjs
 ```
+
+Gemini with Google Search grounding is the closest available proxy for Google AI Overviews,
+and it costs nothing, so the baseline no longer waits on a paid key.
 
 Without a key, `node scripts/geo-audit.mjs --list` prints the panel to run by hand.
 
@@ -199,10 +203,10 @@ measured, not estimated.
 
 | Asset | Size | State |
 |---|---|---|
-| Formulation ingredients with proportions and roles | 1,017 rows | In the companion DB. The site has no structured ingredient data anywhere. |
+| Formulation ingredients with proportions and roles | ~~1,017 rows~~ | **Done, from a better source.** The companion DB's rows are AI-curated and unverified, so the Ayurvedic Formulary of India was transcribed instead: 48 pages, 721 rows, cited to part and entry. 54 transcriptions were rejected by their verifiers and are repairable from the notes in `data/runs/afi-composition.json`; 29 formulations are genuinely not in AFI Parts I or II. |
 | Compound co-occurrence graph | 710 nodes, weighted edges | In the vault at `_Hub/Compounds/`, currently flattened into glossary rows. Publishable close to as-is. |
-| Panchakarma procedures | 73 rows, 72 new | `practitioner_level` already separates vaidya-only from spa-safe, which gives a clean publish/withhold split. Natural sibling to the Shirodhara guide. |
-| Disease entities with ICD-11 TM2 codes | 140 rows | The most linkable axis available, because ICD-11 TM2 is a real external identifier system. Every row is `llm-only` provenance, so it needs the same panel treatment as safety. |
+| Panchakarma procedures | ~~73 rows~~ | **Done.** 43 published at `/practice/`, 12 held by the grounding auditor. Note: `content/practice/` has no vault source, so `ingest.mjs` now excludes it from the clear step or a re-ingest deletes the section. |
+| Disease entities with ICD-11 TM2 codes | 140 rows | **Blocked, and the premise was wrong.** Only 1 of the 140 rows carries a TM2 code at all, and that code (`SK04.0`) does not exist in the WHO 2026-01 release, which was downloaded and checked. WHO's public files carry only English TM2 titles; the Sanskrit index terms that would make a crosswalk live behind the ICD API, which needs a free account (`scripts/icd-tm2.mjs --fetch`, reading `~/.who-icd-api`). Decision taken: publish a terminology crosswalk only, no symptoms, causes or treatment, because the rows' treatment content is disease-claim shaped. |
 | 99 unpublished Dravyaguna tables | 99 pages | Lost to word-count thresholds rather than policy. Lowering `THRESHOLDS.herb` recovers them, but publishes 99 thin pages to do it; better to extract their pharmacology into the dataset without giving each a URL. |
 | Compound co-occurrence graph | ~~710 nodes~~ | **Done.** Recomputed from the published corpus at `/compounds/`: 852 constituents, 22,176 co-occurring pairs, every weight checkable against the pages it counts. |
 
@@ -214,8 +218,8 @@ anyway).
 
 ## 6b. External identifiers: done, and what it exposed
 
-241 botanicals carry GBIF keys, 228 Wikidata QIDs and 236 NCBI taxids; 466 constituents
-carry PubChem CIDs. 34 family browse pages at `/family/`. All cached and committed, so
+279 botanicals carry GBIF keys, 264 Wikidata QIDs and 272 NCBI taxids (up from 241/228/236
+when the Pharmacopoeia pass added names to resolve); 466 constituents carry PubChem CIDs. 34 family browse pages at `/family/`. All cached and committed, so
 rebuilds are free. Zero agent tokens.
 
 Worth knowing before planning more of this:
@@ -235,10 +239,13 @@ Worth knowing before planning more of this:
 
 ## 7. Two data-quality items found and not yet fixed
 
-- **202 herb pages still have no botanical name.** The verification run resolved what it could
-  and correctly refused the rest; many are contested identities where picking a side would
-  manufacture certainty the sources do not have. Worth a second pass with better sources, not
-  worth guessing.
+- ~~202 herb pages still have no botanical name.~~ **Second pass done**, anchored to the
+  Ayurvedic Pharmacopoeia of India (Part I, Vols I-VI, in `sources-private/`, indexed by
+  `scripts/api-index.mjs`). 46 names published with their monograph citation, 107 pages
+  labelled as what they actually are (bhasma, rasa preparation, salt, animal product,
+  formulation, isolate) and 7 as honestly unsettled. 156 herb pages still have no binomial;
+  most are minerals and preparations where none applies. The first pass had also stopped
+  partway through the alphabet, leaving 53 pages unexamined; those are now done.
 - **Some herb photographs are of the wrong plant.** `image-credits.csv` in the Ayurmahotsav
   folder marks `herb_Ashwagandha.jpg` as verified and describes it as ginger root, and
   `herb_Haritaki.jpg` as sun-dried bananas. Roughly 20 to 25 of the 51 images are genuinely
