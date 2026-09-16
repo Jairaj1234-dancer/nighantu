@@ -1,25 +1,23 @@
----title: Brain & Nervous System
-slug: brain-nervous-system
-kind: hub
-section: _Hub
-category: Body-Systems
-subcategory: Brain--Nervous-System.md
-group: ''
-answer: Brain and nervous system botanicals optimize central neurotransmitter balance, enhance cerebral perfusion, and protect oligodendrocytes and myelin sheaths from oxidative degeneration. In classical texts, these Medhya Rasayana and Majja Dhatu nourishers pacify Prana and Majja Vata, combining cooling and stabilizing herbs like Brahmi, Shankhpushpi, Jatamansi, and Tagara to foster emotional composure, memory, and restorative sleep.
-botanical: ''
-family: ''
-sanskrit: ''
-ayurvedicCategory: ''
-whoStatus: ''
+---
+title: "Brain & Nervous System"
+slug: "brain-nervous-system"
+kind: "hub"
+section: "_Hub"
+category: "Body-Systems"
+subcategory: "Brain--Nervous-System.md"
+group: ""
+answer: "Brain & Nervous System is a reference entry in the Nighantu. Cross-tradition therapeutic reference — 500 related entries Ahiphena — Papaver somniferum L. — (Analgesic) Aivana — Salvia officinalis L. — (Antioxidant, Anticancer, Wound Healing) Akarakarabha — Anacyclus pyrethrum (L.) Lag."
+botanical: ""
+family: ""
+sanskrit: ""
+ayurvedicCategory: ""
+whoStatus: ""
 aliases: []
-tags:
-- hub
-- body-system
-- brain--nervous-system
+tags: ["hub", "body-system", "brain--nervous-system"]
 sources: []
 productHints: []
 words: 533
-srcRel: _Hub/Body-Systems/Brain--Nervous-System.md
+srcRel: "_Hub/Body-Systems/Brain--Nervous-System.md"
 ---
 *Cross-tradition therapeutic reference — 500 related entries*
 

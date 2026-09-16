@@ -1,25 +1,23 @@
----title: Gallic acid
-slug: gallic-acid
-kind: hub
-section: _Hub
-category: Compounds
-subcategory: Gallic-acid.md
-group: ''
-answer: Gallic acid (3,4,5-trihydroxybenzoic acid) is a low-molecular-weight phenolic compound abundantly present in classical Ayurvedic myrobalan fruits, including Amla, Haritaki, and Bibhitaki. It exhibits exceptional antioxidant, anti-inflammatory, and hepatoprotective properties, scavenging reactive oxygen species, downregulating NF-kB activation, and protecting vascular endothelium from oxidative and lipid peroxidative stress.
-botanical: ''
-family: ''
-sanskrit: ''
-ayurvedicCategory: ''
-whoStatus: ''
+---
+title: "Gallic acid"
+slug: "gallic-acid"
+kind: "hub"
+section: "_Hub"
+category: "Compounds"
+subcategory: "Gallic-acid.md"
+group: ""
+answer: "Gallic acid is a reference entry in the Nighantu. Found in 177 entries across the catalogue Abhayarishta Agastya Haritaki Rasayana Akshotaka — Juglans regia L. Amalaka Rasayana Amalaki Rasayana Amla — Phyllanthus emblica (syn."
+botanical: ""
+family: ""
+sanskrit: ""
+ayurvedicCategory: ""
+whoStatus: ""
 aliases: []
-tags:
-- hub
-- compound
-- gallic-acid
+tags: ["hub", "compound", "gallic-acid"]
 sources: []
 productHints: []
 words: 630
-srcRel: _Hub/Compounds/Gallic-acid.md
+srcRel: "_Hub/Compounds/Gallic-acid.md"
 ---
 *Found in 177 entries across the catalogue*
 

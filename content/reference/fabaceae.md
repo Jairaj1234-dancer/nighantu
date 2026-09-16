@@ -1,24 +1,23 @@
----title: 'Family: Fabaceae'
-slug: fabaceae
-kind: hub
-section: _Hub
-category: Families
-subcategory: Fabaceae.md
-group: ''
-answer: The Fabaceae (Leguminosae) botanical family encompasses numerous premier Ayurvedic medicinal plants, characterized by nitrogen-fixing root nodules, papilionaceous flowers, and high flavonoid and saponin concentrations. Key Ayurvedic Fabaceae taxa include Yashtimadhu (Glycyrrhiza glabra), Aparajita (Clitoria ternatea), and Asana (Pterocarpus marsupium), valued for their sweet, cooling, and metabolically balancing Rasayana properties.
-botanical: ''
-family: ''
-sanskrit: ''
-ayurvedicCategory: ''
-whoStatus: ''
+---
+title: "Family: Fabaceae"
+slug: "fabaceae"
+kind: "hub"
+section: "_Hub"
+category: "Families"
+subcategory: "Fabaceae.md"
+group: ""
+answer: "Family: Fabaceae is a reference entry in the Nighantu. 18 members in the catalogue Aparajita — Clitoria ternatea L. (Antioxidant, Anticancer, Nootropic) Copaiba — Copaifera langsdorffii Desf."
+botanical: ""
+family: ""
+sanskrit: ""
+ayurvedicCategory: ""
+whoStatus: ""
 aliases: []
-tags:
-- hub
-- plant-family
+tags: ["hub", "plant-family"]
 sources: []
 productHints: []
 words: 221
-srcRel: _Hub/Families/Fabaceae.md
+srcRel: "_Hub/Families/Fabaceae.md"
 ---
 *18 members in the catalogue*
 

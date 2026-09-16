@@ -1,25 +1,23 @@
----title: Antidiabetic Agents
-slug: antidiabetic
-kind: hub
-section: _Hub
-category: Pharmacology
-subcategory: Antidiabetic.md
-group: ''
-answer: Antidiabetic botanical agents improve systemic glucose metabolism by enhancing peripheral insulin sensitivity, stimulating pancreatic beta-cell insulin secretion, and inhibiting intestinal carbohydrate digestive enzymes (alpha-glucosidase and alpha-amylase). In Ayurveda, they are formulated for Madhumeha (diabetes), classically targeting metabolic Kapha-Medas imbalances using Meshashringi (Gymnema sylvestre), Vijaysar (Pterocarpus marsupium), Jamun seed, and Karela.
-botanical: ''
-family: ''
-sanskrit: ''
-ayurvedicCategory: ''
-whoStatus: ''
+---
+title: "Antidiabetic Agents"
+slug: "antidiabetic"
+kind: "hub"
+section: "_Hub"
+category: "Pharmacology"
+subcategory: "Antidiabetic.md"
+group: ""
+answer: "Antidiabetic Agents is a reference entry in the Nighantu. 198 herbs and compounds with antidiabetic activity across traditions Adhaki — Cajanus cajan (L.) Millsp. Agastya — Sesbania grandiflora (L.) Pers. Ajwain — Trachyspermum ammi Akhuparni — Ipomoea reniformis Choisy (syn."
+botanical: ""
+family: ""
+sanskrit: ""
+ayurvedicCategory: ""
+whoStatus: ""
 aliases: []
-tags:
-- hub
-- pharmacology
-- antidiabetic
+tags: ["hub", "pharmacology", "antidiabetic"]
 sources: []
 productHints: []
 words: 335
-srcRel: _Hub/Pharmacology/Antidiabetic.md
+srcRel: "_Hub/Pharmacology/Antidiabetic.md"
 ---
 *198 herbs and compounds with antidiabetic activity across traditions*
 

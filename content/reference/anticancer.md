@@ -1,25 +1,23 @@
----title: Anticancer Agents
-slug: anticancer
-kind: hub
-section: _Hub
-category: Pharmacology
-subcategory: Anticancer.md
-group: ''
-answer: Anticancer and antineoplastic phytochemicals exhibit cytotoxic, pro-apoptotic, and anti-angiogenic properties in preclinical oncological models, arresting malignant cell cycles while protecting healthy tissues from oxidative mutagens. Known classically in the management of deep tumors (Arbuda and Granthi), premier herbs under modern oncology investigation include Ashwagandha (withaferin A), Curcumin, Guduchi, and Kanchanara (Bauhinia variegata).
-botanical: ''
-family: ''
-sanskrit: ''
-ayurvedicCategory: ''
-whoStatus: ''
+---
+title: "Anticancer Agents"
+slug: "anticancer"
+kind: "hub"
+section: "_Hub"
+category: "Pharmacology"
+subcategory: "Anticancer.md"
+group: ""
+answer: "Anticancer Agents is a reference entry in the Nighantu. 271 herbs and compounds with anticancer activity across traditions Adhaki — Cajanus cajan (L.) Millsp. Agastya — Sesbania grandiflora (L.) Pers. Agnikarna — Gloriosa superba L."
+botanical: ""
+family: ""
+sanskrit: ""
+ayurvedicCategory: ""
+whoStatus: ""
 aliases: []
-tags:
-- hub
-- pharmacology
-- anticancer
+tags: ["hub", "pharmacology", "anticancer"]
 sources: []
 productHints: []
 words: 347
-srcRel: _Hub/Pharmacology/Anticancer.md
+srcRel: "_Hub/Pharmacology/Anticancer.md"
 ---
 *271 herbs and compounds with anticancer activity across traditions*
 

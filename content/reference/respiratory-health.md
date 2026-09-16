@@ -1,25 +1,23 @@
----title: Respiratory Health
-slug: respiratory-health
-kind: hub
-section: _Hub
-category: Body-Systems
-subcategory: Respiratory-Health.md
-group: ''
-answer: Respiratory health botanicals support bronchial airway relaxation, liquefy mucosal congestion, and soothe irritated upper respiratory epithelia. They exhibit mast-cell stabilizing, bronchodilating, and expectorant properties. Classically categorized as Kasahara (cough-relieving) and Shwasahara (dyspnea-relieving) dravyas, leading remedies include Vasa (Adhatoda vasica), Kantakari, Yashtimadhu, and Pippali, balancing aggravated Prana Vata and Kledaka Kapha.
-botanical: ''
-family: ''
-sanskrit: ''
-ayurvedicCategory: ''
-whoStatus: ''
+---
+title: "Respiratory Health"
+slug: "respiratory-health"
+kind: "hub"
+section: "_Hub"
+category: "Body-Systems"
+subcategory: "Respiratory-Health.md"
+group: ""
+answer: "Respiratory Health is a reference entry in the Nighantu. Cross-tradition therapeutic reference — 360 related entries Abhraka Bhasma — (Antioxidant, Rasayana, Anti-inflammatory) Agastya Haritaki Rasayana — (Antioxidant, Bronchodilator, Laxative) Ahiphena — Papaver somniferum L."
+botanical: ""
+family: ""
+sanskrit: ""
+ayurvedicCategory: ""
+whoStatus: ""
 aliases: []
-tags:
-- hub
-- body-system
-- respiratory-health
+tags: ["hub", "body-system", "respiratory-health"]
 sources: []
 productHints: []
 words: 519
-srcRel: _Hub/Body-Systems/Respiratory-Health.md
+srcRel: "_Hub/Body-Systems/Respiratory-Health.md"
 ---
 *Cross-tradition therapeutic reference — 360 related entries*
 

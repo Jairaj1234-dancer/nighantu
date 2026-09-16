@@ -1,6 +1,20 @@
 ---
 import Page from '../layouts/Page.astro';
 import { abs, rel } from '../lib/site';
+import compounds from '../data/compounds.json';
+import dravyaguna from '../data/dravyaguna.json';
+import research from '../data/research.json';
+import taxonomy from '../data/taxonomy.json';
+import verification from '../data/verification.json';
+
+/**
+ * Counts come from the datasets themselves. Typed-in figures on this page were already
+ * stale (22,176 edges against 22,069 actual), and a catalogue that misstates its own row
+ * counts is the one thing a data consumer cannot forgive.
+ */
+const n = (x: number) => x.toLocaleString('en-GB');
+const taxaCount = ((taxonomy as any).taxa ?? []).length;
+const safetyRecords = (verification as any).runs?.find((r: any) => /safety/i.test(r.id))?.published ?? 0;
 
 const title = 'Open Ayurvedic Datasets';
 const description = 'Downloadable machine-readable datasets of classical Ayurvedic pharmacology, Dravyaguna properties, phytochemical constituents, and botanical taxonomy under CC BY 4.0.';
@@ -10,8 +24,8 @@ const datasets = [
   {
     id: 'dravyaguna',
     name: 'Ayurvedic Dravyaguna Pharmacological Dataset',
-    description: 'Classical Ayurvedic pharmacology across 245 botanical species, documenting traditional Rasa (taste), Guna (qualities), Virya (potency), Vipaka (post-digestive effect), and Prabhava (specific therapeutic actions).',
-    rowCount: '245 botanical monographs',
+    description: `Rasa, guna, virya, vipaka and prabhava for ${n((dravyaguna as any).summary.entries)} monographs, parsed from the pages on this site so every value can be checked against the page it came from.`,
+    rowCount: `${n((dravyaguna as any).summary.entries)} monographs`,
     formats: [
       { ext: 'JSON', path: '/dravyaguna.json', mime: 'application/json' },
       { ext: 'CSV', path: '/dravyaguna.csv', mime: 'text/csv' },
@@ -21,8 +35,8 @@ const datasets = [
   {
     id: 'compounds',
     name: 'Phytochemical Constituents & Co-occurrence Network',
-    description: 'Bio-active chemical constituents across 839 phytochemical entities with PubChem CIDs and 22,176 co-occurrence graph edges derived from classical Ayurvedic texts and modern pharmacology.',
-    rowCount: '839 constituents · 22,176 co-occurrences',
+    description: `${n((compounds as any).summary.compounds)} constituents named in the published monographs, ${n((compounds as any).summary.linkable)} of them resolved to PubChem, with ${n((compounds as any).summary.edges)} co-occurrence edges computed from the pages themselves.`,
+    rowCount: `${n((compounds as any).summary.compounds)} constituents · ${n((compounds as any).summary.edges)} co-occurrences`,
     formats: [
       { ext: 'JSON', path: '/compounds.json', mime: 'application/json' },
       { ext: 'CSV', path: '/compounds.csv', mime: 'text/csv' },
@@ -32,8 +46,8 @@ const datasets = [
   {
     id: 'research',
     name: 'Biomedical Literature & Classical Research Index',
-    description: 'Structured index of 2,892 biomedical research citations and clinical trials cross-referenced with PubMed IDs, DOIs, and classical Ayurvedic botanical names.',
-    rowCount: '2,892 indexed research citations',
+    description: `${n((research as any).summary.papers)} papers cited on this site, each with its PubMed ID or DOI, cross-referenced to the monographs that cite it.`,
+    rowCount: `${n((research as any).summary.papers)} papers`,
     formats: [
       { ext: 'JSON', path: '/research.json', mime: 'application/json' },
       { ext: 'CSV', path: '/research.csv', mime: 'text/csv' },
@@ -43,8 +57,8 @@ const datasets = [
   {
     id: 'taxonomy',
     name: 'Verified Botanical Taxonomy & Identifier Crosswalk',
-    description: 'Taxonomic identity resolution for 241 medicinal plant species mapped against GBIF taxon keys, NCBI taxonomy IDs, and Wikidata entity QIDs.',
-    rowCount: '241 resolved medicinal taxa',
+    description: `Botanical names resolved against GBIF, with NCBI taxonomy IDs and Wikidata QIDs where an exact match exists. ${n(taxaCount)} taxa, each carrying the match type so a fuzzy hit is never read as a fact.`,
+    rowCount: `${n(taxaCount)} resolved taxa`,
     formats: [
       { ext: 'JSON', path: '/taxonomy.json', mime: 'application/json' },
       { ext: 'Parquet', path: '/parquet/taxonomy.parquet', mime: 'application/vnd.apache.parquet' }
@@ -53,8 +67,8 @@ const datasets = [
   {
     id: 'verification',
     name: 'Nighantu Editorial Verification Ledger',
-    description: 'Complete claim-verification ledger detailing run logs, panel decisions, acceptance rates, and rejected statements across pharmacopoeial monographs.',
-    rowCount: '5 verified safety records · complete audit history',
+    description: 'What was checked, how, and what was thrown out: every verification run with its examined, published and rejected counts, computed from the run artifacts rather than stated.',
+    rowCount: `${n(safetyRecords)} published safety records, and the rejections behind them`,
     formats: [
       { ext: 'JSON', path: '/verification.json', mime: 'application/json' }
     ]

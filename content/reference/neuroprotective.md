@@ -1,25 +1,23 @@
----title: Neuroprotective Agents
-slug: neuroprotective
-kind: hub
-section: _Hub
-category: Pharmacology
-subcategory: Neuroprotective.md
-group: ''
-answer: Neuroprotective agents attenuate neuronal apoptosis, mitigate excitotoxicity mediated by excess glutamate, and inhibit the accumulation of amyloid plaques and tau hyperphosphorylation in the central nervous system. By supporting mitochondrial bioenergetics and cerebral blood flow, they maintain cognitive faculties into advanced age. Classical Medhya and Vata-shamana herbs including Ashwagandha, Brahmi, Jyotishmati, and Gotu Kola demonstrate prominent neuroprotective activity.
-botanical: ''
-family: ''
-sanskrit: ''
-ayurvedicCategory: ''
-whoStatus: ''
+---
+title: "Neuroprotective Agents"
+slug: "neuroprotective"
+kind: "hub"
+section: "_Hub"
+category: "Pharmacology"
+subcategory: "Neuroprotective.md"
+group: ""
+answer: "Neuroprotective Agents is a reference entry in the Nighantu. 263 herbs and compounds with neuroprotective activity across traditions Ajwain — Trachyspermum ammi Akhuparni — Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.) Akshotaka — Juglans regia L."
+botanical: ""
+family: ""
+sanskrit: ""
+ayurvedicCategory: ""
+whoStatus: ""
 aliases: []
-tags:
-- hub
-- pharmacology
-- neuroprotective
+tags: ["hub", "pharmacology", "neuroprotective"]
 sources: []
 productHints: []
 words: 299
-srcRel: _Hub/Pharmacology/Neuroprotective.md
+srcRel: "_Hub/Pharmacology/Neuroprotective.md"
 ---
 *263 herbs and compounds with neuroprotective activity across traditions*
 

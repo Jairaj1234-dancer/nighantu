@@ -1,25 +1,23 @@
----title: Heart & Cardiovascular
-slug: heart-cardiovascular
-kind: hub
-section: _Hub
-category: Body-Systems
-subcategory: Heart--Cardiovascular.md
-group: ''
-answer: Cardiovascular therapeutic references address coronary artery perfusion, systemic blood pressure regulation, and cardiac muscle contractility. They stabilize endothelial lining function and inhibit pathological platelet aggregation. Known classically as Hridya and Raktaprasadana herbs, the centerpiece remains Arjuna (Terminalia arjuna) bark, traditionally boiled in milk (Ksheerapaka vidhi) to maximize the bioavailability of its cardioprotective triterpenoids and flavonoids.
-botanical: ''
-family: ''
-sanskrit: ''
-ayurvedicCategory: ''
-whoStatus: ''
+---
+title: "Heart & Cardiovascular"
+slug: "heart-cardiovascular"
+kind: "hub"
+section: "_Hub"
+category: "Body-Systems"
+subcategory: "Heart--Cardiovascular.md"
+group: ""
+answer: "Heart & Cardiovascular is a reference entry in the Nighantu. Cross-tradition therapeutic reference — 249 related entries Akika Pishti — (Hemostatic) Alabu — Lagenaria siceraria (Molina) Standl. — (Antioxidant, Anti-inflammatory, Immunomodulatory) Alarka — Calotropis procera (Aiton) Dryand."
+botanical: ""
+family: ""
+sanskrit: ""
+ayurvedicCategory: ""
+whoStatus: ""
 aliases: []
-tags:
-- hub
-- body-system
-- heart--cardiovascular
+tags: ["hub", "body-system", "heart--cardiovascular"]
 sources: []
 productHints: []
 words: 473
-srcRel: _Hub/Body-Systems/Heart--Cardiovascular.md
+srcRel: "_Hub/Body-Systems/Heart--Cardiovascular.md"
 ---
 *Cross-tradition therapeutic reference — 249 related entries*
 

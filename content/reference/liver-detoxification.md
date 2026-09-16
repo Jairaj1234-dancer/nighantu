@@ -1,25 +1,23 @@
----title: Liver & Detoxification
-slug: liver-detoxification
-kind: hub
-section: _Hub
-category: Body-Systems
-subcategory: Liver--Detoxification.md
-group: ''
-answer: Liver detoxification botanicals stimulate bile production and secretion (choleretic and cholagogue actions), upregulate phase II glutathione conjugation, and clear systemic metabolic waste. In classical Ayurveda, the liver (Yakrit) is the seat of Ranjaka Pitta, responsible for blood formation. Bitter tonics like Bhunimba (Andrographis), Katuki, and Bhringraj cool excess hepatic heat while promoting biliary flow.
-botanical: ''
-family: ''
-sanskrit: ''
-ayurvedicCategory: ''
-whoStatus: ''
+---
+title: "Liver & Detoxification"
+slug: "liver-detoxification"
+kind: "hub"
+section: "_Hub"
+category: "Body-Systems"
+subcategory: "Liver--Detoxification.md"
+group: ""
+answer: "Liver & Detoxification is a reference entry in the Nighantu. Cross-tradition therapeutic reference — 753 related entries Abhayarishta — (Laxative, Diuretic, Anti-inflammatory) Abhraka Bhasma — (Antioxidant, Rasayana, Anti-inflammatory) Adhaki — Cajanus cajan (L.) Millsp."
+botanical: ""
+family: ""
+sanskrit: ""
+ayurvedicCategory: ""
+whoStatus: ""
 aliases: []
-tags:
-- hub
-- body-system
-- liver--detoxification
+tags: ["hub", "body-system", "liver--detoxification"]
 sources: []
 productHints: []
 words: 494
-srcRel: _Hub/Body-Systems/Liver--Detoxification.md
+srcRel: "_Hub/Body-Systems/Liver--Detoxification.md"
 ---
 *Cross-tradition therapeutic reference — 753 related entries*
 

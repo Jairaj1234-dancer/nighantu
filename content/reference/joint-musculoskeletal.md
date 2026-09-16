@@ -1,25 +1,23 @@
----title: Joint & Musculoskeletal
-slug: joint-musculoskeletal
-kind: hub
-section: _Hub
-category: Body-Systems
-subcategory: Joint--Musculoskeletal.md
-group: ''
-answer: Joint and musculoskeletal botanicals inhibit pro-inflammatory cytokines, preserve synovial fluid viscosity, and prevent articular cartilage matrix degradation in degenerative and autoimmune joint conditions. Classified classically under Sandhigata Vata and Amavata protocols, therapies pair resinous guggulus (Yograj, Kaishore) with Shallaki and Ashwagandha to restore joint flexibility and bone tissue strength (Asthi Dhatu).
-botanical: ''
-family: ''
-sanskrit: ''
-ayurvedicCategory: ''
-whoStatus: ''
+---
+title: "Joint & Musculoskeletal"
+slug: "joint-musculoskeletal"
+kind: "hub"
+section: "_Hub"
+category: "Body-Systems"
+subcategory: "Joint--Musculoskeletal.md"
+group: ""
+answer: "Joint & Musculoskeletal is a reference entry in the Nighantu. Cross-tradition therapeutic reference — 199 related entries Agnikarna — Gloriosa superba L. (Agnikumarika/Agnimukhi); also associated with Litsea species in some texts — (Antioxidant, Anticancer, Wound Healing) Agnimantha — Premna integrifolia (syn."
+botanical: ""
+family: ""
+sanskrit: ""
+ayurvedicCategory: ""
+whoStatus: ""
 aliases: []
-tags:
-- hub
-- body-system
-- joint--musculoskeletal
+tags: ["hub", "body-system", "joint--musculoskeletal"]
 sources: []
 productHints: []
 words: 525
-srcRel: _Hub/Body-Systems/Joint--Musculoskeletal.md
+srcRel: "_Hub/Body-Systems/Joint--Musculoskeletal.md"
 ---
 *Cross-tradition therapeutic reference — 199 related entries*
 

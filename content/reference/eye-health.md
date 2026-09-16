@@ -1,25 +1,23 @@
----title: Eye Health
-slug: eye-health
-kind: hub
-section: _Hub
-category: Body-Systems
-subcategory: Eye-Health.md
-group: ''
-answer: Ocular botanicals protect retinal pigment epithelial cells from oxidative photo-stress, enhance tear film stability, and strengthen microvascular capillary perfusion to the optic nerve. Termed Chakshushya (eye-beneficial) dravyas, classical Ayurveda places Triphala at the apex of ocular care, frequently administered internally with ghee and honey or applied externally in specialized Netra Tarpana procedures to preserve visual acuity.
-botanical: ''
-family: ''
-sanskrit: ''
-ayurvedicCategory: ''
-whoStatus: ''
+---
+title: "Eye Health"
+slug: "eye-health"
+kind: "hub"
+section: "_Hub"
+category: "Body-Systems"
+subcategory: "Eye-Health.md"
+group: ""
+answer: "Eye Health is a reference entry in the Nighantu. Cross-tradition therapeutic reference — 136 related entries Agnitundi Vati — (Antispasmodic) Anjatraya Aparajita — Clitoria ternatea L. — (Antioxidant, Anticancer, Nootropic) Arka Ksheera Badara — (Anxiolytic, Immunomodulatory) Camphor — (Analgesic, Anti-inflammatory) Chakshushya — (Antioxidant, Anti-inflammatory) Changeri — Oxalis corniculata L."
+botanical: ""
+family: ""
+sanskrit: ""
+ayurvedicCategory: ""
+whoStatus: ""
 aliases: []
-tags:
-- hub
-- body-system
-- eye-health
+tags: ["hub", "body-system", "eye-health"]
 sources: []
 productHints: []
 words: 342
-srcRel: _Hub/Body-Systems/Eye-Health.md
+srcRel: "_Hub/Body-Systems/Eye-Health.md"
 ---
 *Cross-tradition therapeutic reference — 136 related entries*
 

@@ -1,25 +1,23 @@
----title: Piperine
-slug: piperine
-kind: hub
-section: _Hub
-category: Compounds
-subcategory: Piperine.md
-group: ''
-answer: Piperine is a pungent alkaloid found primarily in black pepper (Piper nigrum) and long pepper (Piper longum). Renowned as the premier natural bioavailability enhancer (Yogavahi), piperine reversibly inhibits intestinal and hepatic CYP3A4, CYP2D6, and P-glycoprotein efflux pumps, increasing the systemic bioavailability of co-administered botanicals (such as Curcumin) by up to 20-fold while stimulating gastrointestinal digestive fire.
-botanical: ''
-family: ''
-sanskrit: ''
-ayurvedicCategory: ''
-whoStatus: ''
+---
+title: "Piperine"
+slug: "piperine"
+kind: "hub"
+section: "_Hub"
+category: "Compounds"
+subcategory: "Piperine.md"
+group: ""
+answer: "Piperine is a reference entry in the Nighantu. Found in 66 entries across the catalogue Agastya Haritaki Rasayana Agnitundi Vati Ajamodadi Churna Avipattikar Avipattikar Churna Avipattikar Herbs Black Pepper — Piper nigrum Brahma Rasayana Brahmi Vati Chandraprabha — Compound formulation (37 herbs) Chandraprabha Vati Chavika Chavya — Piper retrofractum Vahl (syn."
+botanical: ""
+family: ""
+sanskrit: ""
+ayurvedicCategory: ""
+whoStatus: ""
 aliases: []
-tags:
-- hub
-- compound
-- piperine
+tags: ["hub", "compound", "piperine"]
 sources: []
 productHints: []
 words: 322
-srcRel: _Hub/Compounds/Piperine.md
+srcRel: "_Hub/Compounds/Piperine.md"
 ---
 *Found in 66 entries across the catalogue*
 

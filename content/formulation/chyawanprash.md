@@ -79,14 +79,12 @@ Charaka Samhita Chikitsasthana ([Rasayana](/nighantu/reference/rasayana/) Adhyay
 
 ## What is it made of?
 
-### Botanical-Lipid Matrix & Phytochemical Profile
+### Mineral/Elemental Profile
 
-- **Primary Matrix:** Fresh Amalaki (*Phyllanthus emblica*) fruit pulp (*Pishti*), decoction of 36+ classical herbs (*Dashamula*, *Guduchi*, *Pippali*, etc.), fried in *Go Ghrita* (cow ghee) and *Tila Taila* (sesame oil), sweetened with *Sharkara* (sugar) and raw *Madhu* (honey).
-- **AFI Citation:** Ayurvedic Formulary of India (AFI) Part I, Entry 3:11 (*Avaleha* section), citing *Charaka Samhita* Chikitsasthana 1:1:62–74.
-- **Phytochemical Composition:** High-molecular hydrolyzable tannins (emblicanin A, emblicanin B, punigluconin, pedunculagin), L-ascorbic acid (vitamin C), gallic acid, ellagic acid, piperine, withanolides, and essential volatile terpenoids (*cinnamaldehyde*, *eugenol*, *1,8-cineole*).
-- **Detailed Processing Kinetics:** For in-depth chemical reaction kinetics on how ghee roasting (*Bhuna*) and hydrolyzable tannins protect vitamin C against thermal oxidation, see the [Chyawanprash Processing Kinetics & Thermal Stability Guide](/chyawanprash-processing-kinetics/).
+- **Primary component:** Mineral-derived preparation
+- **Note:** Composition varies by specific preparation method
 
-**Analytical Standards (API):** Total solids $\ge 65\%$, loss on drying $\le 20\%$, gallic acid $\ge 0.5\%$, pH 3.5–5.0, HPLC/HPTLC fingerprinting.
+**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 
