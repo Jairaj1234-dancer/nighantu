@@ -16,7 +16,7 @@ aliases: ["Indukantham Ghritam", "IndukanthamGhritam"]
 tags: ["ayurveda", "formulation", "ghritam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 547
+words: 499
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Indukantham-Ghritam/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,18 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Indukanth
 | Language | Name |
 |----------|------|
 | English | [Indukantham Ghritam](/nighantu/formulation/indukantham-ghritam/) |
-
-## Key Ingredients
-
-- Dashamula (group of ten roots)
-- [Trikatu](/nighantu/herb/trikatu/) (Shunthi, Maricha, [Pippali](/nighantu/herb/pippali/))
-- [Triphala](/nighantu/herb/triphala/) ([Haritaki](/nighantu/herb/haritaki/), Vibhitaki, Amalaki)
-- Saptaphala (group of seven fruits)
-- Chitraka mula (Plumbago zeylanica)
-- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale / [ginger](/nighantu/herb/ginger/))
-- [Yavakshara](/nighantu/herb/yavakshara/) (alkali of barley)
-- Panchakola (five pungent herbs)
-- [Ghrita](/nighantu/herb/ghrita/) (clarified cow butter)
 
 ## Where is it described in the classical texts?
 

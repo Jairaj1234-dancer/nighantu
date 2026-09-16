@@ -16,7 +16,7 @@ aliases: ["Brahmi Ghritam", "BrahmiGhritam"]
 tags: ["ayurveda", "formulation", "ghritam", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 553
+words: 531
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Brahmi-Ghritam/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,14 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Brahmi-Gh
 | Language | Name |
 |----------|------|
 | English | [Brahmi](/nighantu/herb/brahmi/) Ghritam |
-
-## Key Ingredients
-
-- [Brahmi](/nighantu/herb/brahmi/) (Bacopa monnieri)
-- [Vacha](/nighantu/herb/vacha/) (Acorus calamus)
-- Kushta (Saussurea lappa)
-- Shankhapushpi (Convolvulus pluricaulis)
-- Purana [Ghrita](/nighantu/herb/ghrita/) (old cow ghee)
 
 ## Where is it described in the classical texts?
 

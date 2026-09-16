@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Tailas-Medicated-Oils"
-answer: "Neelibringadi Thailam is a classical Ayurvedic taila, a medicated oil. The usual dose is scalp application: 10-15ml. Listed in Ayurvedic Formulary of India (AFI). One of the most celebrated Keshya (hair care) formulations in Kerala Ayurveda."
+answer: "Neelibringadi Thailam is a classical Ayurvedic taila, a medicated oil. The usual dose is scalp application: 10-15ml. Listed in Ayurvedic Formulary of India (AFI). Sahasrayogam (Taila Prakarana, 12th century CE Kerala tradition)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Neelibringadi Thailam", "NeelibringadiThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 566
+words: 488
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Neelibringadi-Thailam/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,21 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Neelibringa
 | Language | Name |
 |----------|------|
 | English | [Neelibringadi Thailam](/nighantu/formulation/neelibringadi-thailam/) |
-
-## Key Ingredients
-
-- Neeli (Indigofera tinctoria / True Indigo)
-- [Bhringraj](/nighantu/herb/bhringraj/) (Eclipta alba / False Daisy) - 'King of Hair'
-- [Amla](/nighantu/herb/amla/) (Emblica officinalis / Indian Gooseberry)
-- [Jatamansi](/nighantu/herb/jatamansi/) (Nardostachys [jatamansi](/nighantu/herb/jatamansi/))
-- [Brahmi](/nighantu/herb/brahmi/) (Bacopa monnieri)
-- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (Glycyrrhiza glabra / Licorice)
-- [Manjistha](/nighantu/herb/manjistha/) (Rubia cordifolia)
-- Anantmool (Hemidesmus indicus)
-- [Daruharidra](/nighantu/herb/daruharidra/) (Berberis aristata)
-- [Nimba](/nighantu/herb/nimba/) (Azadirachta indica / [Neem](/nighantu/herb/neem/))
-- Coconut milk (from four types of milk - cow, buffalo, goat, coconut)
-- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) ([Tila](/nighantu/herb/tila/) taila) base
 
 ## Where is it described in the classical texts?
 

@@ -1,4 +1,6926 @@
 {
- "note": "Filled by scripts/apply-composition.mjs",
- "records": {}
+ "note": "AFI composition tables. Written by scripts/apply-composition.mjs; never edit by hand.",
+ "records": {
+  "abhayarishta": {
+   "afiPart": "I",
+   "entryNumber": "1:1",
+   "entryHeading": "ABHAYARISTA",
+   "classicalSource": "Bhaisajyaratnavali, Arsorogadhikara ; 105-107",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Abhaya",
+     "gloss": "haritaki",
+     "part": "P.",
+     "quantity": "4.800 kg.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Mrdvika",
+     "gloss": "draksa",
+     "part": "Dr. Fr.",
+     "quantity": "2.400 kg.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Vidanga",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "480 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Madhuka kusuma",
+     "gloss": null,
+     "part": "Fl.",
+     "quantity": "480 g.",
+     "ocrCorrected": "Part printed '(F1.)' in OCR; read as Fl. (flower), confirmed by name 'kusuma' and verse 'मधूककसुमस्य'",
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Water for decoction reduced to",
+     "gloss": null,
+     "part": null,
+     "quantity": "49.152 l. reduced to 12.288 l.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Guda",
+     "gloss": null,
+     "part": null,
+     "quantity": "4.800 kg.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Svadamstra",
+     "gloss": "goksura",
+     "part": "Fr.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Trivrta",
+     "gloss": "trivrta",
+     "part": "Rt.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 9,
+     "name": "Dhanya",
+     "gloss": "dhanyaka",
+     "part": "Fr.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 10,
+     "name": "Dhataki",
+     "gloss": null,
+     "part": "Fl.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 11,
+     "name": "Indravaruni",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 12,
+     "name": "Cavya",
+     "gloss": null,
+     "part": "St.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 13,
+     "name": "Madhurika",
+     "gloss": "misreya",
+     "part": "Fr.",
+     "quantity": "96 g.",
+     "ocrCorrected": "OCR prints 'Madhirika'; verse reads 'मधुरिकां' (madhurika)",
+     "illegible": false
+    },
+    {
+     "n": 14,
+     "name": "Sunthi",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 15,
+     "name": "Danti",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 16,
+     "name": "Mocarasa",
+     "gloss": "salmali",
+     "part": "Exd.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "ajamoda-arka": {
+   "afiPart": "I",
+   "entryNumber": "2:1",
+   "entryHeading": "AJAMODARKA",
+   "classicalSource": "Arkaprakasa, Sataka 3 : 7",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Ajamoda",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "1.0 kg.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Water for soaking and for preparation of arka",
+     "gloss": null,
+     "part": null,
+     "quantity": "18.0 l.",
+     "ocrCorrected": "OCR prints '18.0 1.'; '1.' is the OCR form of the litre abbreviation 'l.' used throughout the Arka group (e.g. 'Water for preparation of arka 5.360 1.' at line 6069)",
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Distillate recovered as Arka",
+     "gloss": null,
+     "part": null,
+     "quantity": "15.0 (unit garbled: OCR '4?')",
+     "ocrCorrected": null,
+     "illegible": true
+    }
+   ]
+  },
+  "ajamodadi-churna": {
+   "afiPart": "I",
+   "entryNumber": "7:1",
+   "entryHeading": "AJAMODADI CURNA",
+   "classicalSource": "Sarngadharasamhita, Madhyamakhanda, Adhyaya 6; 113-115.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Ajamoda",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Vidanga",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "12 g.",
+     "ocrCorrected": "OCR reads '123:'; verse 114 'karsam pratyekam' gives the same equal karsa measure for items 1-9, and all other items 1-9 print 12 g, so 12 g.",
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Saindhava lavana",
+     "gloss": null,
+     "part": null,
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Devadaru",
+     "gloss": null,
+     "part": "Ht. Wd.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Citraka",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Pippalimula",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Satapuspa",
+     "gloss": "Satahva",
+     "part": "Fl.",
+     "quantity": "12 g.",
+     "ocrCorrected": "OCR reads '12 £.'; verse 114 'pratyekam' equal measure for items 1-9 (all others 12 g), so 12 g.",
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Pippali",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 9,
+     "name": "Marica",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 10,
+     "name": "Pathya",
+     "gloss": "haritaki",
+     "part": "P.",
+     "quantity": "60 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 11,
+     "name": "Vrddhadaruka",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "120 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 12,
+     "name": "Nagara",
+     "gloss": "Sunthi",
+     "part": "Rz.",
+     "quantity": "120 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "amrita-ghrita": {
+   "afiPart": "I",
+   "entryNumber": "6:1",
+   "entryHeading": "AMRTA GHRTA",
+   "classicalSource": "Cakradatta, Amavatacikitsa; 58.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Amrta",
+     "gloss": "guduci",
+     "part": "St.",
+     "quantity": "1.536 kg.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Water for decoction",
+     "gloss": null,
+     "part": null,
+     "quantity": "12.288 l. reduced to 3.072 l.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Mahausadha",
+     "gloss": "Sunthi",
+     "part": "Rz.",
+     "quantity": "128 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Ghrta",
+     "gloss": "go ghrta",
+     "part": null,
+     "quantity": "768 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "arjunarishta": {
+   "afiPart": "I",
+   "entryNumber": "1:21",
+   "entryHeading": "PARTHADYARISTA (Synonym : Arjunarista)",
+   "classicalSource": "Bhaisajyaratnavali, Hrdrogadhikara; 73-74%.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Partha tvak",
+     "gloss": "arjuna",
+     "part": "St. Bk.",
+     "quantity": "4.800 kg.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Mrdvika",
+     "gloss": "draksa",
+     "part": "Dr. Fr.",
+     "quantity": "2.400 kg.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Madhuka",
+     "gloss": null,
+     "part": "Fl.",
+     "quantity": "960 g.",
+     "ocrCorrected": "OCR reads 'Madhitka (?1.)'. Verse line 4437 'भागं मधुपुष्पस्य पलविंशतिसम्मितम्' names madhu-puspa (Madhuka flower), 20 pala = 960 g, fixing name Madhuka and part Fl.",
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Water for decoction",
+     "gloss": null,
+     "part": null,
+     "quantity": "49.152 l. reduced to 12.288 l.",
+     "ocrCorrected": "OCR '49.152 1.' / '12.288 1.': '1.' is litre (l.); verse 'चतुर्द्रोणेऽम्भसः पक्त्वा द्रोणमेवावशेषयेत्' (4 drona reduced to 1 drona) confirms the 4:1 ratio",
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Dhataki",
+     "gloss": null,
+     "part": "Fl.",
+     "quantity": "960 g.",
+     "ocrCorrected": "OCR '(F1.)' read as Fl.; verse 'धातक्या विंशतिपलं' (20 pala = 960 g)",
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Guda",
+     "gloss": null,
+     "part": null,
+     "quantity": "4.800 kg.",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "ashoka-ghrita": {
+   "afiPart": "I",
+   "entryNumber": "6:4",
+   "entryHeading": "ASOKA GHRTA",
+   "classicalSource": "Bhaisajyaratnavali, Strirogadhikara; 17 - 20.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Asoka-valkala",
+     "gloss": null,
+     "part": "St. Bk.",
+     "quantity": "768 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Water for decoction",
+     "gloss": null,
+     "part": null,
+     "quantity": "3.072 1. reduced to 768 mil.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Ghrta",
+     "gloss": "go ghrta",
+     "part": null,
+     "quantity": "768 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Jiraka-kvatha",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "768 ml.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Tandulambu",
+     "gloss": "Sal1 (OCR; probably Sali)",
+     "part": "Sd.",
+     "quantity": "768 ml.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Ajaksira",
+     "gloss": null,
+     "part": null,
+     "quantity": "768 ml.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "KeSaraja rasa",
+     "gloss": "bhrngaraja",
+     "part": "?1. (as OCR'd; probably Pl.)",
+     "quantity": "768 mi. (as OCR'd; probably ml.)",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Jivanti",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 9,
+     "name": "Kakoli",
+     "gloss": null,
+     "part": "Sub. Rt.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 10,
+     "name": "Ksirakakoli",
+     "gloss": null,
+     "part": "Sub. Rt.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 11,
+     "name": "Meda",
+     "gloss": null,
+     "part": "Rt.Tr.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 12,
+     "name": "Mahameda",
+     "gloss": null,
+     "part": "Rt. Tr.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 13,
+     "name": "Mudgaparni",
+     "gloss": null,
+     "part": "P1. (as OCR'd; probably Pl.)",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 14,
+     "name": "Masaparni",
+     "gloss": null,
+     "part": "?1. (as OCR'd; probably Pl.)",
+     "quantity": "24 £. (as OCR'd; probably 24 g.)",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 15,
+     "name": "Rsabhaka",
+     "gloss": null,
+     "part": "Rt.Tr.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 16,
+     "name": "Jivaka",
+     "gloss": null,
+     "part": "Rt. Tr.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 17,
+     "name": "Rddhi",
+     "gloss": null,
+     "part": "Sub. Rt. Tr.",
+     "quantity": "24g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 18,
+     "name": "Vrddhi",
+     "gloss": null,
+     "part": "Sub. Rt. Tr.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 19,
+     "name": "Yasti madhu",
+     "gloss": "yasti",
+     "part": "Rt.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 20,
+     "name": "Piyala",
+     "gloss": "priyala",
+     "part": "Kr. (as OCR'd; possibly Fr./Kr. for kernel, verify against scan)",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 21,
+     "name": "Pariisa",
+     "gloss": "pariisaka",
+     "part": "Fr.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 22,
+     "name": "Rasanjana",
+     "gloss": "daru haridra",
+     "part": "St. Ext.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 23,
+     "name": "Yastyahva",
+     "gloss": "yasti",
+     "part": "Rt.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 24,
+     "name": "Asoka-mula",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 25,
+     "name": "Mrdvika",
+     "gloss": "draksa",
+     "part": "Dr. Fr.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 26,
+     "name": "Satavari",
+     "gloss": null,
+     "part": "Rt.Tr.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 27,
+     "name": "Tanduliyaka-mula",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 28,
+     "name": "Sarkara",
+     "gloss": null,
+     "part": null,
+     "quantity": "384 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "ashwagandharishta": {
+   "afiPart": "I",
+   "entryNumber": "1:6",
+   "entryHeading": "ASVAGANDHADYARISTA",
+   "classicalSource": "Bhaisajyaratnavali, Mirccha ra; 13-17",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Asvagandha",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "2.400 kg.",
+     "ocrCorrected": "OCR 'Agvagandha' read as Asvagandha; verse line 3639 'तुलार्धं चाश्वगन्धाया' names Asvagandha (tula-ardha = 2.4 kg)",
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Musali",
+     "gloss": null,
+     "part": null,
+     "quantity": "960 g.",
+     "ocrCorrected": null,
+     "illegible": true
+    },
+    {
+     "n": 3,
+     "name": "Manjistha",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "480 g.",
+     "ocrCorrected": "OCR 'Manijistha'; verse 'मंजिष्ठाया'",
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Haritaki",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "480 g.",
+     "ocrCorrected": "OCR '4 Haritaki (P.) 480 £.' -> list number 4 by sequence, '£' = g. (verse: dasa pala each = 480 g)",
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Haridra",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "480 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Daruharidra",
+     "gloss": null,
+     "part": "St.",
+     "quantity": "480 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Madhuka",
+     "gloss": "yasti",
+     "part": "Rt.",
+     "quantity": "480 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Rasna",
+     "gloss": null,
+     "part": "Rt/Lf.",
+     "quantity": "480 g.",
+     "ocrCorrected": "OCR '480 £' = 480 g (dasa pala per verse)",
+     "illegible": false
+    },
+    {
+     "n": 9,
+     "name": "Vidari",
+     "gloss": null,
+     "part": "Rt. Tr.",
+     "quantity": "480 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 10,
+     "name": "Partha",
+     "gloss": "arjuna",
+     "part": "St. Bk.",
+     "quantity": "480 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 11,
+     "name": "Mustaka",
+     "gloss": "musta",
+     "part": "Rz.",
+     "quantity": "480 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 12,
+     "name": "Trivrt",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "480 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 13,
+     "name": "Ananta",
+     "gloss": "Sveta sariva",
+     "part": "Rt.",
+     "quantity": "384 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 14,
+     "name": "Syama",
+     "gloss": "krsna sariva",
+     "part": "Rt",
+     "quantity": "384 g.",
+     "ocrCorrected": "OCR 'éariva' = sariva",
+     "illegible": false
+    },
+    {
+     "n": 15,
+     "name": "Sveta candana",
+     "gloss": null,
+     "part": "Ht. Wd.",
+     "quantity": "384 g.",
+     "ocrCorrected": "OCR 'ai 5.' -> 15, determined by numbering (14 precedes, 16 follows); verse 'चन्दनद्वितयस्यापि'",
+     "illegible": false
+    },
+    {
+     "n": 16,
+     "name": "Rakta candana",
+     "gloss": null,
+     "part": "Ht. Wd.",
+     "quantity": "384 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 17,
+     "name": "Vaca",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "384 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 18,
+     "name": "Citraka",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "384 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 19,
+     "name": "Water for decoction",
+     "gloss": null,
+     "part": null,
+     "quantity": "98.304 l. reduced to 12.288 l.",
+     "ocrCorrected": "OCR '1.' = l. (litres)",
+     "illegible": false
+    },
+    {
+     "n": 20,
+     "name": "Maksika",
+     "gloss": "madhu",
+     "part": null,
+     "quantity": "14.400 kg.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 21,
+     "name": "Dhataki",
+     "gloss": null,
+     "part": "Fl.",
+     "quantity": "768 g.",
+     "ocrCorrected": "OCR '(F1.)' = Fl.",
+     "illegible": false
+    },
+    {
+     "n": 22,
+     "name": "Sunthi",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 23,
+     "name": "Marica",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 24,
+     "name": "Pippali",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 25,
+     "name": "Tvak",
+     "gloss": null,
+     "part": "St. Bk.",
+     "quantity": "192 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 26,
+     "name": "Ela",
+     "gloss": "suksmaila",
+     "part": "Sd.",
+     "quantity": "192 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 27,
+     "name": "Patra",
+     "gloss": "tejapatra",
+     "part": "Lf.",
+     "quantity": "192 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 28,
+     "name": "Priyangu",
+     "gloss": null,
+     "part": "Fl.",
+     "quantity": "192 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 29,
+     "name": "Nagakesara",
+     "gloss": null,
+     "part": "Stmn.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "brahmi-ghritam": {
+   "afiPart": "I",
+   "entryNumber": "6:32",
+   "entryHeading": "BRAHMI GHRTA",
+   "classicalSource": "Astangahrdaya, Uttarasthana, Adhyaya 6; 23-24.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Brahmi svarasa",
+     "gloss": "brahmi",
+     "part": null,
+     "quantity": null,
+     "ocrCorrected": null,
+     "illegible": true
+    },
+    {
+     "n": 2,
+     "name": "Ghrta",
+     "gloss": "goghrta",
+     "part": null,
+     "quantity": "768 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Sunthi",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "12 g.",
+     "ocrCorrected": "OCR 'i272:'; verse says all kalka drugs are 'aksasammitaih' (equal, one aksa each) and rows 5-12 print 12 g., so 12 g.",
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Marica",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "12 g.",
+     "ocrCorrected": "OCR '(८'; same verse evidence 'kalkitair aksasammitaih' (vyosa = sunthi, marica, pippali each one aksa), rows 5-12 print 12 g.",
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Pippali",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Syama",
+     "gloss": "krsna trivrt",
+     "part": "Rt.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Trivrt",
+     "gloss": "Sveta trivrt",
+     "part": "Rt.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Danti",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 9,
+     "name": "Sankhapuspi",
+     "gloss": null,
+     "part": "Pl.",
+     "quantity": "12 g.",
+     "ocrCorrected": "OCR 'P1.' read as Pl. (standard OCR of the abbreviation)",
+     "illegible": false
+    },
+    {
+     "n": 10,
+     "name": "Nrpadruma",
+     "gloss": "aragvadha",
+     "part": "Fr.P.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 11,
+     "name": "Saptala",
+     "gloss": null,
+     "part": null,
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": true
+    },
+    {
+     "n": 12,
+     "name": "Krmihara",
+     "gloss": "vidanga",
+     "part": "Fr.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "caturjata-churna": {
+   "afiPart": "I",
+   "entryNumber": "7:10",
+   "entryHeading": "CATURJATA CURNA",
+   "classicalSource": "Sarngadharasamhita, Madhyamakhanda, Adhyaya 6; 144.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Tvak",
+     "gloss": null,
+     "part": "St. Bk.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Ela",
+     "gloss": "siksmaila",
+     "part": "Sd.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Patra",
+     "gloss": "tejapatra",
+     "part": "Lf.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Kesara",
+     "gloss": "nagakesara",
+     "part": "Stmn.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "chandraprabha-vati": {
+   "afiPart": "I",
+   "entryNumber": "12:10",
+   "entryHeading": "CANDRAPRABHA VATI",
+   "classicalSource": "Sarngadharasamhita, Madhyamakhanda, Adhyaya 7; 40-44.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Candraprabha",
+     "gloss": "karpura",
+     "part": "Sub. Ext.",
+     "quantity": "3 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Vaca",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "3 g",
+     "ocrCorrected": "quantity OCR '3 £' read as 3 g; verse: etani sanamatrani pratyekam (1 sana = 3 g, as printed for legible rows)",
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Musta",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "3 g",
+     "ocrCorrected": "stray OCR token 'Pom' dropped; '3 £' read as 3 g per verse (sana each)",
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Bhunimba",
+     "gloss": "kiratatikta",
+     "part": "Pl.",
+     "quantity": "3 g",
+     "ocrCorrected": "name OCR 'उणा 02' corrected to Bhunimba: verse 'candraprabha vaca mustam bhunimbamrtadarukam' places bhunimba 4th, gloss kiratatikta confirms; part OCR '(?1.)' = Pl.",
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Amrta",
+     "gloss": "guduci",
+     "part": "St.",
+     "quantity": "3 g",
+     "ocrCorrected": "list number OCR '9' corrected to 5 by numbering sequence",
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Daruka",
+     "gloss": "devadaru",
+     "part": "Ht. Wd.",
+     "quantity": "3 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Haridra",
+     "gloss": null,
+     "part": null,
+     "quantity": "3 g",
+     "ocrCorrected": "row wholly garbled ('ववत (7?) ies Sen ez) x 9;'); name from verse order 'haridra 'tivisa darvi' between Daruka(6) and Darvi(9); quantity from verse 'sanamatrani pratyekam'; part and gloss not determinable",
+     "illegible": true
+    },
+    {
+     "n": 8,
+     "name": "Ativisa",
+     "gloss": null,
+     "part": null,
+     "quantity": "3 g",
+     "ocrCorrected": "row wholly garbled ('36. Bibhitaka (?) aay) Re 4' interleaved column); name from verse order haridra-ativisa-darvi; quantity from verse sana each; part and gloss not determinable",
+     "illegible": true
+    },
+    {
+     "n": 9,
+     "name": "Darvi",
+     "gloss": "daruharidra",
+     "part": "St.",
+     "quantity": "3 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 10,
+     "name": "Pippalimula",
+     "gloss": "pippali",
+     "part": "Rt.",
+     "quantity": "3 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 11,
+     "name": "Citraka",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "3 g",
+     "ocrCorrected": "quantity OCR '3 is' read as 3 g per verse (sana each)",
+     "illegible": false
+    },
+    {
+     "n": 12,
+     "name": "Dhanyaka",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "3 g",
+     "ocrCorrected": "name split by OCR 'Dhanvak F / yaka'; verse 'dhanyakam' confirms",
+     "illegible": false
+    },
+    {
+     "n": 13,
+     "name": "Haritaki",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "3 g",
+     "ocrCorrected": "quantity OCR 'ae' ; 3 g from verse (trifala, sana each)",
+     "illegible": false
+    },
+    {
+     "n": 14,
+     "name": "Bibhitaka",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "3 g",
+     "ocrCorrected": "quantity OCR '६.' ; 3 g from verse sana each",
+     "illegible": false
+    },
+    {
+     "n": 15,
+     "name": "Amalaki",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "3 g",
+     "ocrCorrected": "'3 £' read as 3 g",
+     "illegible": false
+    },
+    {
+     "n": 16,
+     "name": "Cavya",
+     "gloss": null,
+     "part": "St.",
+     "quantity": "3 g",
+     "ocrCorrected": "'3 £' read as 3 g",
+     "illegible": false
+    },
+    {
+     "n": 17,
+     "name": "Vidanga",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "3 g",
+     "ocrCorrected": "quantity OCR 'a)' ; 3 g from verse sana each",
+     "illegible": false
+    },
+    {
+     "n": 18,
+     "name": "Gajapippali",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "3 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 19,
+     "name": "Sunthi",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "3 g",
+     "ocrCorrected": "quantity OCR 'ee' ; 3 g from verse (vyosa, sana each)",
+     "illegible": false
+    },
+    {
+     "n": 20,
+     "name": "Marica",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "3 g",
+     "ocrCorrected": "quantity OCR '2 ~' ; 3 g from verse sana each",
+     "illegible": false
+    },
+    {
+     "n": 21,
+     "name": "Pippali",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "3 g",
+     "ocrCorrected": "'3 £' read as 3 g",
+     "illegible": false
+    },
+    {
+     "n": 22,
+     "name": "Maksika dhatu bhasma",
+     "gloss": "maksika",
+     "part": null,
+     "quantity": "3 g",
+     "ocrCorrected": "quantity OCR '2.0;' ; 3 g from verse (maksikam, sana each)",
+     "illegible": false
+    },
+    {
+     "n": 23,
+     "name": "Yava ksara",
+     "gloss": "yava",
+     "part": "Pl.",
+     "quantity": "3 g",
+     "ocrCorrected": "part OCR 'P1.' = Pl.; quantity OCR 'Bhs' ; 3 g from verse (ksarau, sana each)",
+     "illegible": false
+    },
+    {
+     "n": 24,
+     "name": "Sarji ksara",
+     "gloss": "svarji ksara",
+     "part": null,
+     "quantity": "3 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 25,
+     "name": "Saindhava lavana",
+     "gloss": null,
+     "part": null,
+     "quantity": "3 g",
+     "ocrCorrected": "quantity OCR '9.9' ; 3 g from verse (lavanatrayam, sana each)",
+     "illegible": false
+    },
+    {
+     "n": 26,
+     "name": "Sauvarcala lavana",
+     "gloss": null,
+     "part": null,
+     "quantity": "3 g",
+     "ocrCorrected": "quantity OCR '2.2;' ; 3 g from verse sana each",
+     "illegible": false
+    },
+    {
+     "n": 27,
+     "name": "Vida lavana",
+     "gloss": null,
+     "part": null,
+     "quantity": "3 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 28,
+     "name": "Trivrt",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "12 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 29,
+     "name": "Danti",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "12 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 30,
+     "name": "Patraka",
+     "gloss": "tejapatra",
+     "part": "Lf.",
+     "quantity": "12 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 31,
+     "name": "Tvak",
+     "gloss": null,
+     "part": "St. Bk.",
+     "quantity": "12 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 32,
+     "name": "Ela",
+     "gloss": "suksmaila",
+     "part": "Sd.",
+     "quantity": "12 g",
+     "ocrCorrected": "gloss OCR 'stksmaila' = suksmaila",
+     "illegible": false
+    },
+    {
+     "n": 33,
+     "name": "Vamsarocana",
+     "gloss": "vamsa",
+     "part": null,
+     "quantity": "12 g",
+     "ocrCorrected": "part OCR '(,.()' not determinable; quantity '12 £' = 12 g (verse: pratyekam karsamatram)",
+     "illegible": true
+    },
+    {
+     "n": 34,
+     "name": "Hata loha bhasma",
+     "gloss": "lauha",
+     "part": null,
+     "quantity": "24 g",
+     "ocrCorrected": "name OCR 'Hata 10119 (lauha) 11851119' = Hata loha (lauha) bhasma; verse 'hatalohah'",
+     "illegible": false
+    },
+    {
+     "n": 35,
+     "name": "Sita",
+     "gloss": null,
+     "part": null,
+     "quantity": "48 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 36,
+     "name": "Silajatu",
+     "gloss": null,
+     "part": null,
+     "quantity": "96 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 37,
+     "name": "Guggulu",
+     "gloss": null,
+     "part": "Exd.",
+     "quantity": "96 g",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "changeri-ghrita": {
+   "afiPart": "I",
+   "entryNumber": "6:9",
+   "entryHeading": "CANGERI GHRTA",
+   "classicalSource": "Bhaisajyaratnavali, Grahanirogadhikara; 190-191",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Nagara",
+     "gloss": "sunthi",
+     "part": "Rz.",
+     "quantity": "9.5 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Pippalimula",
+     "gloss": "pippali",
+     "part": "Rt.",
+     "quantity": "9.6 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Citraka",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "9.6 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Hasti pippali",
+     "gloss": "gaja pippali",
+     "part": "Fr.",
+     "quantity": "9.6 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Svadamstra",
+     "gloss": "goksura",
+     "part": null,
+     "quantity": "9.6 g",
+     "ocrCorrected": "Quantity OCR '9.6 8.' read as 9.6 g (unit only). Part OCR'd as '(ए)'; not determinable from verse, left null",
+     "illegible": true
+    },
+    {
+     "n": 6,
+     "name": "Pippali",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "9.6 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Dhanya",
+     "gloss": "dhanyaka",
+     "part": "Fr.",
+     "quantity": "9.6 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Bilva",
+     "gloss": null,
+     "part": "Rt/St. Bk.",
+     "quantity": "9.6 g",
+     "ocrCorrected": "Name OCR'd as 'श'; verse 190 order (nagaram pippalimulam citrako hastipippali / svadamstra pippali dhanyam bilvam patha yamanika) puts bilva at position 8",
+     "illegible": false
+    },
+    {
+     "n": 9,
+     "name": "Patha",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "9.6 g",
+     "ocrCorrected": "Name lost ('spaths'); verse order puts patha at position 9; quantity OCR '9.6 £' = 9.6 g",
+     "illegible": false
+    },
+    {
+     "n": 10,
+     "name": "Yamanika",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": null,
+     "ocrCorrected": "Name garbled ('कप\" (क्ष)'); verse order puts yamanika (yavani) at position 10. Quantity OCR 'eo 8:' illegible; not stated in verse, so not filled",
+     "illegible": true
+    },
+    {
+     "n": 11,
+     "name": "Cangeri -svarasa",
+     "gloss": null,
+     "part": "?1.",
+     "quantity": "3.072 l",
+     "ocrCorrected": "OCR '3,072 1.' read as 3.072 l; part printed '(?1.)' (probably Pl.) left as printed, not determinable",
+     "illegible": false
+    },
+    {
+     "n": 12,
+     "name": "Sarpi",
+     "gloss": "go ghrta",
+     "part": null,
+     "quantity": "768 g",
+     "ocrCorrected": "OCR '768 &.'; unit g fixed by the verse's 'caturgunena dadhna' (dadhi 3.072 kg = 4 x 768 g)",
+     "illegible": false
+    },
+    {
+     "n": 13,
+     "name": "Dadhi",
+     "gloss": "go dadhi",
+     "part": null,
+     "quantity": "3.072 kg",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "chitrakadi-vati": {
+   "afiPart": "I",
+   "entryNumber": "12:11",
+   "entryHeading": "CITRAKADI GUTIKA",
+   "classicalSource": "Carakasamhita,Cikisasthana, Adhyaya 15,96-96%.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Citraka",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Pippalimula",
+     "gloss": "pippali",
+     "part": "Rt.",
+     "quantity": "1 part",
+     "ocrCorrected": "OCR 'Pippalimtla' read as Pippalimula; verse has पिप्पलीमूलं",
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Yava ksara",
+     "gloss": "yava",
+     "part": null,
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": true
+    },
+    {
+     "n": 4,
+     "name": "Sarji ksara",
+     "gloss": "svarji ksara",
+     "part": null,
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Sauvarcala lavana",
+     "gloss": null,
+     "part": null,
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Saindhava lavana",
+     "gloss": null,
+     "part": null,
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Vida lavana",
+     "gloss": null,
+     "part": null,
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Samudra lavana",
+     "gloss": null,
+     "part": null,
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 9,
+     "name": "Audbhida lavana",
+     "gloss": null,
+     "part": null,
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 10,
+     "name": "Sunthi",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 11,
+     "name": "Marica",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 12,
+     "name": "Pippali",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 13,
+     "name": "Hingu",
+     "gloss": null,
+     "part": "Exd.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 14,
+     "name": "Ajamoda",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 15,
+     "name": "Cavya",
+     "gloss": null,
+     "part": "St.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 16,
+     "name": "Matulunga rasa or Dadima rasa",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "Q.S. for mardana",
+     "ocrCorrected": "List numbers dropped in OCR ('. Sunthi', '. Marica'); order 1-16 fixed by surviving '10.', '14.', '15', '16' and verse order. Quantity OCR 'QS.' read Q.S. Printed 'Matulunga rasa (Fr.) QS. for mardana / or / Dadima rasa (Fr.)'; verse: गुडिका मातुलुगस्य दाडिमस्य रसेन वा",
+     "illegible": false
+    }
+   ]
+  },
+  "dashamula": {
+   "afiPart": "I",
+   "entryNumber": "4:10",
+   "entryHeading": "DASAMULA KVATHA CURNA",
+   "classicalSource": "Bhaisajyaratnavali, Kasarogadhikara; 13",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Salaparni",
+     "gloss": null,
+     "part": "Pl.",
+     "quantity": "1 part",
+     "ocrCorrected": "OCR prints \"(P1.)\"; digit 1 for letter l, same abbreviation as rows 2-5 (whole plant). Glyph-level fix only.",
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Prsniparni",
+     "gloss": null,
+     "part": "?1.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": true
+    },
+    {
+     "n": 3,
+     "name": "Brharti",
+     "gloss": null,
+     "part": "?1.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": true
+    },
+    {
+     "n": 4,
+     "name": "Kantakarika",
+     "gloss": "kantakari",
+     "part": "Pl.",
+     "quantity": "1 part",
+     "ocrCorrected": "OCR prints \"(PI.)\"; capital I for l, glyph-level fix only.",
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Goksura",
+     "gloss": null,
+     "part": "?1.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": true
+    },
+    {
+     "n": 6,
+     "name": "Bilva",
+     "gloss": null,
+     "part": "Rt./St. Bk.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Agnimantha",
+     "gloss": null,
+     "part": "Rt/St. Bk.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Syonaka",
+     "gloss": null,
+     "part": "Rt./St. Bk",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 9,
+     "name": "Kasmari",
+     "gloss": "gambhari",
+     "part": "Rt./St. Bk.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 10,
+     "name": "Patala",
+     "gloss": null,
+     "part": "Rt./St. Bk.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "dhanwantaram-gutika": {
+   "afiPart": "I",
+   "entryNumber": "12:14",
+   "entryHeading": "DHANVANTARA GUTIKA",
+   "classicalSource": "Sahasrayoga, Gutikaprakarana, 56.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Ela",
+     "gloss": "suksmaila",
+     "part": "Sd.",
+     "quantity": "1 part",
+     "ocrCorrected": "gloss OCR 'stiksmaila' read as suksmaila; verse begins with ela (garbled 'ten')",
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Visva",
+     "gloss": "Sunthi",
+     "part": "Rz.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Abhaya",
+     "gloss": "haritaki",
+     "part": "P.",
+     "quantity": "1 part",
+     "ocrCorrected": "gloss OCR 'haritak1' -> haritaki; verse has अभया",
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Jati",
+     "gloss": "jatiphala",
+     "part": "Sd.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Brhati",
+     "gloss": null,
+     "part": "Pl.",
+     "quantity": "1 part",
+     "ocrCorrected": "part OCR 'P1.' -> Pl.",
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Arya",
+     "gloss": "candrika",
+     "part": "Sd.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Jiraka",
+     "gloss": "Svetajiraka",
+     "part": "Fr.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Cinosana",
+     "gloss": "kankola",
+     "part": "Sd.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 9,
+     "name": "Bhunimba",
+     "gloss": "kiratatikta",
+     "part": "Pl.",
+     "quantity": "1 part",
+     "ocrCorrected": "OCR 'Bhtnimba (P1.)' -> Bhunimba (Pl.); verse has भूनिम्बं",
+     "illegible": false
+    },
+    {
+     "n": 10,
+     "name": "Rudraksa",
+     "gloss": null,
+     "part": "Sd.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 11,
+     "name": "Suradaru",
+     "gloss": "devadaru",
+     "part": "Ht. Wd.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 12,
+     "name": "Karpura",
+     "gloss": null,
+     "part": "Sub Ext.",
+     "quantity": "1 part",
+     "ocrCorrected": "OCR 'Karptra' -> Karpura; verse has कर्पूर",
+     "illegible": false
+    },
+    {
+     "n": 13,
+     "name": "Karigitha (as OCR'd)",
+     "gloss": null,
+     "part": null,
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": true
+    },
+    {
+     "n": 14,
+     "name": "Mrgaretasa",
+     "gloss": null,
+     "part": null,
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 15,
+     "name": "Jiraka kvatha",
+     "gloss": "Sveta jiraka",
+     "part": "Fr.",
+     "quantity": "Q.S. (for bhavana)",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 16,
+     "name": "Himambhasa",
+     "gloss": "Satapatrika",
+     "part": "(FT) as OCR'd",
+     "quantity": "0.8. (for bhavana) as OCR'd",
+     "ocrCorrected": null,
+     "illegible": true
+    }
+   ]
+  },
+  "eladi-vati": {
+   "afiPart": "I",
+   "entryNumber": "12:3",
+   "entryHeading": "ELADI GUTIKA",
+   "classicalSource": "Bhaisajyaratnavali, Raktapittadhikara; 32-33.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Ela",
+     "gloss": "suksmaila",
+     "part": "Sd.",
+     "quantity": "6 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Patra",
+     "gloss": "tejapatra",
+     "part": "Lf.",
+     "quantity": "6 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Tvak",
+     "gloss": null,
+     "part": "St. Bk.",
+     "quantity": "6 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Pippali",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Sita",
+     "gloss": null,
+     "part": null,
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Madhuka",
+     "gloss": "yasti",
+     "part": "Rt.",
+     "quantity": "48 g.",
+     "ocrCorrected": "OCR prints '48 £.'; verse 'सितामधूकखर्जूरमृद्वीकाश्च पलोन्मिताः' gives Madhuka the same pala measure as Sita, Kharjura and Mrdvika, all printed 48 g.",
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Kharjura",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Mrdvika",
+     "gloss": "draksa",
+     "part": "Dr. Fr.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 9,
+     "name": "Madhu",
+     "gloss": null,
+     "part": null,
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "gandharvahastadi-kashayam": {
+   "afiPart": "I",
+   "entryNumber": "4:5",
+   "entryHeading": "GANDHARVAHASTADI KVATHA CURNA",
+   "classicalSource": "Sahasrayoga, kasayaprakarana; 394.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Gandharvahasta",
+     "gloss": "eranda",
+     "part": "Rt.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Ciribilva",
+     "gloss": null,
+     "part": "Lf.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Hutasa",
+     "gloss": "citraka",
+     "part": "Rt.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Visva",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "1 part",
+     "ocrCorrected": "Gloss OCR'd as '(उपा)' is garbled and not determinable from the verse (verse gives only 'visva'); gloss left null. Name, part, quantity legible.",
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Pathya",
+     "gloss": "haritaki",
+     "part": "P.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Punarnava",
+     "gloss": "rakta punarnava",
+     "part": "Rt.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Yavasaka",
+     "gloss": "yavasaka",
+     "part": null,
+     "quantity": "1 part",
+     "ocrCorrected": "Part abbreviation OCR'd as '(?1.)'; cannot be determined from the verse, so part is illegible (not guessed).",
+     "illegible": true
+    },
+    {
+     "n": 8,
+     "name": "Bhumitala",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "1 part",
+     "ocrCorrected": "List number dropped in OCR; restored as 8 from sequence (rows 1-7 precede it) and verse order (...yavasaka-bhumitalaih). Gloss OCR'd as '(81 भप्त)' is garbled and not determinable; left null.",
+     "illegible": false
+    }
+   ]
+  },
+  "gokshuradi-guggulu": {
+   "afiPart": "I",
+   "entryNumber": "5:3",
+   "entryHeading": "GOKSURADI GUGGULU",
+   "classicalSource": "Sarngadharasamhita, Madhyamakhanda, Adhyaya 7; 84-86",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Goksura",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "1.344 kg",
+     "ocrCorrected": "OCR '1.344Kg.' only spacing normalised; consistent with verse 84 (28 pala of goksura, 28 x 48 g = 1.344 kg)",
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Water for decoction",
+     "gloss": null,
+     "part": null,
+     "quantity": "8.064 l reduced to 4.032 l",
+     "ocrCorrected": "OCR '8.0641' / '4.0321': trailing '1' is the litre sign 'l'; verse 84 'sadgune nire ... ardhasesitah' = six times 1.344 kg (8.064 l) reduced to half (4.032 l)",
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Pura (guggulu)-suddha",
+     "gloss": "guggulu",
+     "part": "Exd.",
+     "quantity": "336 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Sunthi",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "48 g",
+     "ocrCorrected": "OCR '482.' -> 48 g; verse 86: trikatu, triphala, musta powdered together 7 pala = 1 pala (48 g) each of 7 drugs; rows 5,6,9,10 print 48",
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Marica",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "48 g",
+     "ocrCorrected": "OCR '48¢.' -> 48 g (g misread as ¢); verse 86 seven drugs total 7 pala",
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Pippali",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "48 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Haritaki",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "48 g",
+     "ocrCorrected": "OCR '482.' -> 48 g; verse 86 7 pala shared by 7 drugs",
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Bibhitaka",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "48 g",
+     "ocrCorrected": "OCR '482.' -> 48 g; verse 86 7 pala shared by 7 drugs",
+     "illegible": false
+    },
+    {
+     "n": 9,
+     "name": "Amalaki",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "48 g",
+     "ocrCorrected": "OCR '48¢.' -> 48 g; verse 86",
+     "illegible": false
+    },
+    {
+     "n": 10,
+     "name": "Musta",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "48 g",
+     "ocrCorrected": "OCR '48¢.' -> 48 g; verse 86",
+     "illegible": false
+    }
+   ]
+  },
+  "guloochyadi-kashayam": {
+   "afiPart": "II",
+   "entryNumber": "4:6",
+   "entryHeading": "GUDUCYADI GANA KVATHA CURNA",
+   "classicalSource": "Sarangadharasamhita, Madhyamakhanda, Adhydaya 2; 8%",
+   "sourceUrl": "https://archive.org/details/b32232172",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Gudtci",
+     "gloss": null,
+     "part": "St.",
+     "quantity": "1 Part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Dhanyaka",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "1 Part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Arista",
+     "gloss": "nimba",
+     "part": "St.Bk.",
+     "quantity": "1 Part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Rakta candana",
+     "gloss": null,
+     "part": "Ht.wd.",
+     "quantity": "1 Part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Padmaka",
+     "gloss": null,
+     "part": "St.",
+     "quantity": "1 Part",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "haridra-khanda": {
+   "afiPart": "I",
+   "entryNumber": "3:31",
+   "entryHeading": "HARIDRA KHANDA",
+   "classicalSource": "Bhaisajyaratnavali, Sitapittodardakothadhikara; 12-14.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Haridra",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "384 g.",
+     "ocrCorrected": "List number '1.' dropped by OCR (rows 1-8 unnumbered, row 9 follows); unit OCR'd as '£.', read g. Verse: haridrayah palany astau (8 pala = 384 g).",
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Havisa",
+     "gloss": "goghrta",
+     "part": null,
+     "quantity": "288 g.",
+     "ocrCorrected": "List number dropped by OCR; restored by sequence. Verse: satpalam havisas (6 pala).",
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Ksira",
+     "gloss": "godugdha",
+     "part": null,
+     "quantity": null,
+     "ocrCorrected": "List number dropped by OCR; restored by sequence. Name confirmed by verse ksiradhakena.",
+     "illegible": true
+    },
+    {
+     "n": 4,
+     "name": "Khanda",
+     "gloss": null,
+     "part": null,
+     "quantity": "2.400 kg.",
+     "ocrCorrected": "List number dropped by OCR; restored by sequence. Verse: khandasyarddhasatam (50 pala = 2.400 kg).",
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Sunthi",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "48 g.",
+     "ocrCorrected": "List number dropped by OCR; restored by sequence (verse trikatu, pratipalam palam).",
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Marica",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "48 g.",
+     "ocrCorrected": "List number dropped by OCR; restored by sequence; unit '£.' read g. (verse pratipalam palam = 48 g).",
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Pippali",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "48 g.",
+     "ocrCorrected": "List number dropped by OCR; restored by sequence.",
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Tvak",
+     "gloss": null,
+     "part": "St. Bk.",
+     "quantity": "48 g.",
+     "ocrCorrected": "List number dropped by OCR; restored by sequence (row 9 follows).",
+     "illegible": false
+    },
+    {
+     "n": 9,
+     "name": "Ela",
+     "gloss": "suksmaila",
+     "part": "Sd.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 10,
+     "name": "Patra",
+     "gloss": "tejapatra",
+     "part": "Lf.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 11,
+     "name": "Krmighna",
+     "gloss": "vidanga",
+     "part": "Fr.",
+     "quantity": "48 g.",
+     "ocrCorrected": "Unit OCR'd as '£.', read g. (verse pratipalam palam = 48 g).",
+     "illegible": false
+    },
+    {
+     "n": 12,
+     "name": "Trivrta",
+     "gloss": "trivrt",
+     "part": "Rt.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 13,
+     "name": "Haritaki",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 14,
+     "name": "Bibhitaka",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 15,
+     "name": "Amalaki",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 16,
+     "name": "KeSara",
+     "gloss": "nagakesara",
+     "part": "Stmn.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 17,
+     "name": "Musta",
+     "gloss": null,
+     "part": "Rt. Tr.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 18,
+     "name": "Lauha - bhasma",
+     "gloss": null,
+     "part": null,
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "hinguvachadi-churna": {
+   "afiPart": "I",
+   "entryNumber": "7:39",
+   "entryHeading": "HINGUVACADI CURNA (Hingvadi Curna)",
+   "classicalSource": "Astangahrdaya, Cikitsasthana, Adhyaya 14; 31-32.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Hingu",
+     "gloss": null,
+     "part": "Exd.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Vaca",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Vijaya",
+     "gloss": "haritaki",
+     "part": "P.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Pasugandha",
+     "gloss": "ajagandha",
+     "part": null,
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": true
+    },
+    {
+     "n": 5,
+     "name": "Dadima",
+     "gloss": null,
+     "part": "Dr.Sd.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Dipyaka",
+     "gloss": "yavani",
+     "part": "Fr.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Dhanyaka",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "1 part",
+     "ocrCorrected": "OCR 'Dbhanyaka' -> Dhanyaka; verse reads धान्यक",
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Patha",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 9,
+     "name": "Puskara",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 10,
+     "name": "Sati",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 11,
+     "name": "Hapusa",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 12,
+     "name": "Agni",
+     "gloss": "citraka",
+     "part": "Rt.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 13,
+     "name": "Yava ksara",
+     "gloss": "yava",
+     "part": null,
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": true
+    },
+    {
+     "n": 14,
+     "name": "Svarjika ksara",
+     "gloss": "svarji ksara",
+     "part": null,
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 15,
+     "name": "Saindhava lavana",
+     "gloss": null,
+     "part": null,
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 16,
+     "name": "Sauvarcala lavana",
+     "gloss": null,
+     "part": null,
+     "quantity": "1 part",
+     "ocrCorrected": "list number OCR'd as '= 6.'; position 16 fixed by sequence 15 -> 18",
+     "illegible": false
+    },
+    {
+     "n": 17,
+     "name": "Vida lavana",
+     "gloss": null,
+     "part": null,
+     "quantity": "1 part",
+     "ocrCorrected": "list number OCR'd as 'Ey:'; position 17 fixed by sequence",
+     "illegible": false
+    },
+    {
+     "n": 18,
+     "name": "Sunthi",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "1 part",
+     "ocrCorrected": "OCR split columns: parts column (Rz., Fr., Fr., Fr., St., Fr. P., Fr.) printed separately, mapped in order to the 7 non-lavana rows 18-24; quantity column lists 9 x '1 part' for rows 16-24",
+     "illegible": false
+    },
+    {
+     "n": 19,
+     "name": "Marica",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "1 part",
+     "ocrCorrected": "column-split mapping as row 18",
+     "illegible": false
+    },
+    {
+     "n": 20,
+     "name": "Pippali",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "1 part",
+     "ocrCorrected": "column-split mapping as row 18",
+     "illegible": false
+    },
+    {
+     "n": 21,
+     "name": "Ajaji",
+     "gloss": "Sveta jiraka",
+     "part": "Fr.",
+     "quantity": "1 part",
+     "ocrCorrected": "number OCR'd as 'aA'; column-split mapping as row 18",
+     "illegible": false
+    },
+    {
+     "n": 22,
+     "name": "Cavya",
+     "gloss": null,
+     "part": "St.",
+     "quantity": "1 part",
+     "ocrCorrected": "number OCR'd as 'fee'; column-split mapping as row 18",
+     "illegible": false
+    },
+    {
+     "n": 23,
+     "name": "Tintidika",
+     "gloss": null,
+     "part": "Fr. P.",
+     "quantity": "1 part",
+     "ocrCorrected": "column-split mapping as row 18",
+     "illegible": false
+    },
+    {
+     "n": 24,
+     "name": "Vetasamla",
+     "gloss": "amlavetasa",
+     "part": "Fr.",
+     "quantity": "1 part",
+     "ocrCorrected": "column-split mapping as row 18",
+     "illegible": false
+    }
+   ]
+  },
+  "hingvashtak-churna": {
+   "afiPart": "I",
+   "entryNumber": "7:37",
+   "entryHeading": "HINGVASTAKA CURNA",
+   "classicalSource": "Bhaisajyaratnavali. Agnimandyadirogadhikara; 37.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Sunthi",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "3 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Marica",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "3 g",
+     "ocrCorrected": "printed \"3३९\"; digit 3 is clear and the unit glyph is a Devanagari mis-OCR of \"g.\" - every other legible row in this entry reads 3 g",
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Pippali",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "3 g",
+     "ocrCorrected": "printed \"3९\"; digit 3 clear, unit glyph mis-OCR of \"g.\" as in the sibling rows",
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Ajamoda",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "3 g",
+     "ocrCorrected": "printed \"3९\"; digit 3 clear, unit glyph mis-OCR of \"g.\" as in the sibling rows",
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Saindhava lavana",
+     "gloss": null,
+     "part": null,
+     "quantity": null,
+     "ocrCorrected": null,
+     "illegible": true
+    },
+    {
+     "n": 6,
+     "name": "Sveta jiraka",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "3 g",
+     "ocrCorrected": "printed \"3 £.\"; digit 3 clear, \"£.\" is an OCR substitution for \"g.\"",
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Krsna jiraka",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "3 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Hingu-suddha",
+     "gloss": null,
+     "part": "Exd.",
+     "quantity": "3 g",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "hingwashtak-churna": {
+   "afiPart": "I",
+   "entryNumber": "7:37",
+   "entryHeading": "HINGVASTAKA CURNA",
+   "classicalSource": "Bhaisajyaratnavali. Agnimandyadirogadhikara; 37.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Sunthi",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "3 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Marica",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "3 g",
+     "ocrCorrected": "printed as \"3३९\"; Devanagari glyph noise for \"g\" — every other row in the entry reads 3 g and the verse specifies equal weights (samadharanadhrtanam)",
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Pippali",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "3 g",
+     "ocrCorrected": "printed as \"3९\"; same Devanagari mis-OCR of the \"g\" unit as row 2",
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Ajamoda",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "3 g",
+     "ocrCorrected": "printed as \"3९\"; same Devanagari mis-OCR of the \"g\" unit",
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Saindhava lavana",
+     "gloss": null,
+     "part": null,
+     "quantity": "3 g",
+     "ocrCorrected": "printed as \"a2:\"; the entry's verse reads \"samadharanadhrtanam astamo hingu bhagah\" (all taken in equal measure, hingu the eighth), and the seven other rows are each 3 g, so this cell is 3 g",
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Sveta jiraka",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "3 g",
+     "ocrCorrected": "printed as \"3 £.\"; £ is OCR noise for g, consistent with the other rows and the equal-measure verse",
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Krsna jiraka",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "3 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Hingu-suddha",
+     "gloss": null,
+     "part": "Exd.",
+     "quantity": "3 g",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "indukantham-ghritam": {
+   "afiPart": "I",
+   "entryNumber": "6:5",
+   "entryHeading": "INDUKANTA GHRTA",
+   "classicalSource": "Sahasrayoga, Ghrtaprakarana; 5.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Putika",
+     "gloss": "cirabilva",
+     "part": "St. Bk.",
+     "quantity": "256 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Daru",
+     "gloss": "devadaru",
+     "part": "Hd. Wd.",
+     "quantity": "256 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Bilva",
+     "gloss": null,
+     "part": "Rt./St. Bk.",
+     "quantity": "25.6 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Agnimantha",
+     "gloss": null,
+     "part": "Rt./St. Bk.",
+     "quantity": "25.6",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Syonaka",
+     "gloss": null,
+     "part": "Rt./St. Bk.",
+     "quantity": "25.6",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Gambhari",
+     "gloss": null,
+     "part": "Rt./St. Bk.",
+     "quantity": "25.6",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Patala",
+     "gloss": null,
+     "part": "Rt./St. Bk.",
+     "quantity": "25.6",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Salaparni",
+     "gloss": null,
+     "part": "Pl.",
+     "quantity": "25.6",
+     "ocrCorrected": "printed \"(P1.)\"; digit-1 for letter-l is the standard OCR slip for the abbreviation Pl. (whole plant), read the same way in items 9-12 and 21 of this same entry",
+     "illegible": false
+    },
+    {
+     "n": 9,
+     "name": "Prsniparni",
+     "gloss": null,
+     "part": "Pl.",
+     "quantity": "25.6",
+     "ocrCorrected": "printed \"(P1.)\" = Pl.",
+     "illegible": false
+    },
+    {
+     "n": 10,
+     "name": "Brhati",
+     "gloss": null,
+     "part": "Pl.",
+     "quantity": "25.6",
+     "ocrCorrected": "printed \"(P1.)\" = Pl.",
+     "illegible": false
+    },
+    {
+     "n": 11,
+     "name": "Kantakari",
+     "gloss": null,
+     "part": "Pl.",
+     "quantity": "25.6",
+     "ocrCorrected": "printed \"(?1.)\"; same abbreviation as the adjacent dasamula items 8-10 printed \"(P1.)\" = Pl.",
+     "illegible": false
+    },
+    {
+     "n": 12,
+     "name": "Goksura",
+     "gloss": null,
+     "part": "Pl.",
+     "quantity": "25.6 g",
+     "ocrCorrected": "printed \"(?1.)\" = Pl., as in items 8-11",
+     "illegible": false
+    },
+    {
+     "n": 13,
+     "name": "Water for decoction",
+     "gloss": null,
+     "part": null,
+     "quantity": "12.288 l. reduced to 3,072 l (printed; the decimal point is OCR-rendered as a comma, i.e. 3.072 l, one quarter of 12.288 l)",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 14,
+     "name": "Ksira",
+     "gloss": "godugdha",
+     "part": null,
+     "quantity": "768 ml.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 15,
+     "name": "Ghrta",
+     "gloss": "go ghrta",
+     "part": null,
+     "quantity": "768 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 16,
+     "name": "Pippali",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "48 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 17,
+     "name": "Pippali mula",
+     "gloss": "pippali",
+     "part": "Rt.",
+     "quantity": "48 g.",
+     "ocrCorrected": "gloss printed \"(pippal1)\"; digit-1 for letter-i, the same word as the entry name Pippali in item 16",
+     "illegible": false
+    },
+    {
+     "n": 18,
+     "name": "Cavya",
+     "gloss": null,
+     "part": "St.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 19,
+     "name": "Citraka",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "48 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 20,
+     "name": "Sunthi",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 21,
+     "name": "Yava ksara",
+     "gloss": "yava",
+     "part": "Pl.",
+     "quantity": "48 g.",
+     "ocrCorrected": "printed \"(?1.)\" = Pl., the same abbreviation as items 8-12",
+     "illegible": false
+    }
+   ]
+  },
+  "jatyadi-taila": {
+   "afiPart": "I",
+   "entryNumber": "8:17",
+   "entryHeading": "JATYADI TAILA",
+   "classicalSource": "Sarngadharasamhita, Madhyamakhanda, Adhyaya 9; 168-170.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Jati",
+     "gloss": null,
+     "part": "Lf.",
+     "quantity": "10.66 g.",
+     "ocrCorrected": "OCR prints \"treater (Lf.) 10.66 g.\" with the list number dropped; the entry's own verse opens जातीनिम्बपटोलानां नक्तमालस्य पल्लवाः (Jati, Nimba, Patola, Naktamala leaves) and items 2-4 are Nimba, Patola, Naktamala in that exact order, so item 1 is unambiguously Jati (Lf.)",
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Nimba",
+     "gloss": null,
+     "part": "Lf.",
+     "quantity": "10.66 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Patola",
+     "gloss": null,
+     "part": "Lf. / Pl.",
+     "quantity": "10.66 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Naktamala",
+     "gloss": "karanja",
+     "part": "Lf.",
+     "quantity": "10.66 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Siktha",
+     "gloss": "madhicchista",
+     "part": null,
+     "quantity": "10.66 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Madhuka",
+     "gloss": "yasti",
+     "part": "Rt.",
+     "quantity": "10.66 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Kustha",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "10.66 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Haridra",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "10.66 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 9,
+     "name": "Daruharidra",
+     "gloss": null,
+     "part": "St.",
+     "quantity": "10.66 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 10,
+     "name": "Katurohini",
+     "gloss": "katuka",
+     "part": "Rz.",
+     "quantity": "10.66 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 11,
+     "name": "Manjistha",
+     "gloss": null,
+     "part": "St.",
+     "quantity": "10.66 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 12,
+     "name": "Padmaka",
+     "gloss": null,
+     "part": "Ht. Wd.",
+     "quantity": "10.66 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 13,
+     "name": "Lodhra",
+     "gloss": null,
+     "part": "St. Bk.",
+     "quantity": "10.66 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 14,
+     "name": "Abhaya",
+     "gloss": "haritaki",
+     "part": "P.",
+     "quantity": "10.66 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 15,
+     "name": "Nilotpala",
+     "gloss": "utpala",
+     "part": "Fl.",
+     "quantity": "10.66 g.",
+     "ocrCorrected": "Printed \"(F1.)\"; digit-1-for-letter-l is the routine OCR substitution in this file and no \"F1.\" abbreviation exists in the book's part list, so it reads Fl.",
+     "illegible": false
+    },
+    {
+     "n": 16,
+     "name": "Tutthaka",
+     "gloss": "tuttha",
+     "part": null,
+     "quantity": "10.66 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 17,
+     "name": "Sariva",
+     "gloss": "sveta sariva",
+     "part": "Rt.",
+     "quantity": "10.66 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 18,
+     "name": "Naktamala",
+     "gloss": "karanja",
+     "part": "Sd.",
+     "quantity": "10.66 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 19,
+     "name": "Taila",
+     "gloss": "tila",
+     "part": "Ol.",
+     "quantity": "768 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 20,
+     "name": "Water",
+     "gloss": null,
+     "part": null,
+     "quantity": "211",
+     "ocrCorrected": null,
+     "illegible": true
+    }
+   ]
+  },
+  "kaishore-guggul": {
+   "afiPart": "I",
+   "entryNumber": "5:2",
+   "entryHeading": "KAISORA GUGGULU",
+   "classicalSource": "Bhaisajyaratnavali, Vataraktadhikara; 97-101.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Guggulu-suddha",
+     "gloss": null,
+     "part": "Exd.",
+     "quantity": "768 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Haritaki",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "256 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Bibhitaka",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "256 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Amalaki",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "256 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Chinnaruha",
+     "gloss": "guduci (printed \"gudtici\", OCR of guduci)",
+     "part": "St.",
+     "quantity": "1.536 kg",
+     "ocrCorrected": "Gloss read as guduci; verse 98 'dvatrimsacchinnaruhapalani' = 32 pala of chinnaruha = 1.536 kg, matching the printed quantity",
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Water for decoction",
+     "gloss": null,
+     "part": null,
+     "quantity": "12.288 l. reduced to 6.144 l.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Haritaki",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "8 g",
+     "ocrCorrected": "Part cell printed '(Pa' , read as '(P.)' by parallel with rows 2-4 and 8-9",
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Bibhitaka",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "8 g",
+     "ocrCorrected": "Printed '82.'; read as '8g.' from the same 'g.'->'2.' OCR slip seen in rows 12, 16, 17, and from rows 7 and 9 (the other two triphala members, equal parts) both printed 8 g",
+     "illegible": false
+    },
+    {
+     "n": 9,
+     "name": "Amalaki",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "8 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 10,
+     "name": "Sunthi",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "24 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 11,
+     "name": "Marica",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "24 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 12,
+     "name": "Pippali",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "24 g",
+     "ocrCorrected": "Printed '2482.'; verse 100 'trikatos curnam sadaksaparimanam' = trikatu powder 6 aksa (karsa) = 72 g total, i.e. 24 g of each of the three, matching rows 10-11 at 24 g",
+     "illegible": false
+    },
+    {
+     "n": 13,
+     "name": "Krmiripu",
+     "gloss": "vidanga",
+     "part": "Fr.",
+     "quantity": "24 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 14,
+     "name": "Trivrt",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "12 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 15,
+     "name": "Danti",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "12 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 16,
+     "name": "Amrta",
+     "gloss": "guduci (printed \"gudiici\")",
+     "part": "St.",
+     "quantity": "48 g",
+     "ocrCorrected": "Printed '482.'; verse 101 'amrtayah palam ekam' = one pala of amrta = 48 g",
+     "illegible": false
+    },
+    {
+     "n": 17,
+     "name": "Ghrta",
+     "gloss": "goghrta",
+     "part": null,
+     "quantity": "384 g",
+     "ocrCorrected": "Printed '38482.'; verse 101 'sarpisca palastakam' = 8 pala of ghrta = 384 g",
+     "illegible": false
+    }
+   ]
+  },
+  "kalyanaka-ghritam": {
+   "afiPart": "I",
+   "entryNumber": "6:7",
+   "entryHeading": "KALYANAKA GHRTA",
+   "classicalSource": "Astangahrdaya, Uttarasthana, Adhyaya 6; 26-28½.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Haritaki",
+     "gloss": null,
+     "part": "९ (garbled)",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": true
+    },
+    {
+     "n": 2,
+     "name": "Bibhitaka",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Amalaki",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Visala",
+     "gloss": "rakta indravaruni",
+     "part": "Fr.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Bhadraila",
+     "gloss": "sthulaela",
+     "part": "Sd.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Devadaru",
+     "gloss": null,
+     "part": "Hd. Wd.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Elavaluka",
+     "gloss": null,
+     "part": "St. Bk.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Sveta sariva",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 9,
+     "name": "Krsna sariva",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 10,
+     "name": "Haridra",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 11,
+     "name": "Daru haridra",
+     "gloss": null,
+     "part": "St.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 12,
+     "name": "Salaparni",
+     "gloss": null,
+     "part": "Pl.",
+     "quantity": "12 g.",
+     "ocrCorrected": "printed \"(P1.)\"; OCR reads digit 1 for letter l — AFI part abbreviation is Pl. (whole plant), same as rows 13 and 16",
+     "illegible": false
+    },
+    {
+     "n": 13,
+     "name": "Prsniparni",
+     "gloss": null,
+     "part": "Pl.",
+     "quantity": "12 g.",
+     "ocrCorrected": "printed \"(P1.)\"; same l/1 OCR substitution as row 12",
+     "illegible": false
+    },
+    {
+     "n": 14,
+     "name": "Phalini",
+     "gloss": "priyangu",
+     "part": "Fl.",
+     "quantity": "12 g.",
+     "ocrCorrected": "printed \"(F1.)\"; OCR digit 1 for letter l — Fl. (flower), consistent with rows 24, 25",
+     "illegible": false
+    },
+    {
+     "n": 15,
+     "name": "Nata",
+     "gloss": "tagara",
+     "part": "Rt./Rz.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 16,
+     "name": "Brhati",
+     "gloss": null,
+     "part": "Pl.",
+     "quantity": "12 g.",
+     "ocrCorrected": "printed \"(P1.)\"; same l/1 OCR substitution as row 12",
+     "illegible": false
+    },
+    {
+     "n": 17,
+     "name": "Kustha",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 18,
+     "name": "Manjistha",
+     "gloss": null,
+     "part": "St.",
+     "quantity": "12 g.",
+     "ocrCorrected": "printed \"Mafijistha (St.\" — OCR renders nj as fij and drops the closing parenthesis; verse 27 reads manjistha",
+     "illegible": false
+    },
+    {
+     "n": 19,
+     "name": "Nagakesara",
+     "gloss": null,
+     "part": "Stmn.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 20,
+     "name": "Dadima-phala tvak",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "| ty (garbled)",
+     "ocrCorrected": null,
+     "illegible": true
+    },
+    {
+     "n": 21,
+     "name": "Vella",
+     "gloss": "vidanga",
+     "part": "Fr.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 22,
+     "name": "Talisa patra",
+     "gloss": "talisa",
+     "part": "Lf.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 23,
+     "name": "Ela",
+     "gloss": "siksmaila",
+     "part": "Sd.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 24,
+     "name": "Malati mukula",
+     "gloss": "jati",
+     "part": "Fl.",
+     "quantity": "12 g.",
+     "ocrCorrected": "printed \"(F1.)\"; OCR digit 1 for letter l — Fl. (flower)",
+     "illegible": false
+    },
+    {
+     "n": 25,
+     "name": "Utpala",
+     "gloss": null,
+     "part": "Fl.",
+     "quantity": "12 g.",
+     "ocrCorrected": "printed \"(F1.)\"; OCR digit 1 for letter l — Fl. (flower)",
+     "illegible": false
+    },
+    {
+     "n": 26,
+     "name": "Danti",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 27,
+     "name": "Padmaka",
+     "gloss": null,
+     "part": "Hd. Wd.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 28,
+     "name": "Hima",
+     "gloss": "rakta candana",
+     "part": "Hd. Wd.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 29,
+     "name": "Sarpi",
+     "gloss": "go ghrta",
+     "part": null,
+     "quantity": "768 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "kanchanara-guggulu": {
+   "afiPart": "I",
+   "entryNumber": "5:1",
+   "entryHeading": "KANCANARA GUGGULU",
+   "classicalSource": "Sarngadharasamhita, Madhyamakhanda, Adhyaya 7; 95-98.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Kancanara-tvak",
+     "gloss": null,
+     "part": "St. Bk.",
+     "quantity": "480 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Haritaki",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "96 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Bibhitaka",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "96 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Amalaki",
+     "gloss": null,
+     "part": null,
+     "quantity": "96 g",
+     "ocrCorrected": null,
+     "illegible": true
+    },
+    {
+     "n": 5,
+     "name": "Sunthi",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "48 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Marica",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "48 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Pippali",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "48 g",
+     "ocrCorrected": "OCR prints '4882.'; read as 48 g. Evidence: verse 96 gives 'trikatu syat palatrayam' (3 pala for the three together) and the entry already assigns 48 g each to Sunthi (5) and Marica (6), so the third member is 1 pala = 48 g; 48 g is also the only value at which the listed powders sum to the 996 g of Guggulu-suddha that verse 97 requires ('yavaccurnam idam sarvam tavanmatrastu gugguluh').",
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Varuna",
+     "gloss": null,
+     "part": "St.Bk.",
+     "quantity": "48 g",
+     "ocrCorrected": "OCR prints '482.'; read as 48 g. Evidence: verse 96 'palaikam varunam kuryat' = 1 pala = 48 g, and the 996 g powder total required by verse 97 and printed at item 12 is reached only with 48 g here.",
+     "illegible": false
+    },
+    {
+     "n": 9,
+     "name": "Ela",
+     "gloss": "suksmaila",
+     "part": "Sd.",
+     "quantity": "12 g",
+     "ocrCorrected": "OCR prints the gloss as '(stksmaila)'; read as (suksmaila) - letterform noise only (st- for su-). Quantity unaffected: verse 96 gives ela, tvak and patra at karsamatram = 1 karsa = 12 g each, matching the printed figure.",
+     "illegible": false
+    },
+    {
+     "n": 10,
+     "name": "Tvak",
+     "gloss": null,
+     "part": "St. Bk.",
+     "quantity": "12 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 11,
+     "name": "Patra",
+     "gloss": "tejapatra",
+     "part": "Lf.",
+     "quantity": "12 g",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 12,
+     "name": "Guggulu-suddha",
+     "gloss": null,
+     "part": "Exd.",
+     "quantity": "996 g",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "karpas-asthyadi-thailam": {
+   "afiPart": "I",
+   "entryNumber": "8:6",
+   "entryHeading": "KARPASASTHYADI TAILA",
+   "classicalSource": "Sahasrayoga, Tailaprakarana, 11.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Karpasasthi",
+     "gloss": "karpasa",
+     "part": "Enm.",
+     "quantity": "768 g.",
+     "ocrCorrected": "Printed as \"Karpasasthi?\" - the \"?\" is OCR of a superscript footnote marker (footnote 2 on the same page: \"Karpasasthi, kulattha, and masa are tied in a bundle and immersed in the vessel containing balamia and water. Balakasaya is then prepared.\"), not part of the drug name. Enm. = Endosperm (Bija Majja) per the book's abbreviation appendix.",
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Bala",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "768 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Masa",
+     "gloss": null,
+     "part": "Sd.",
+     "quantity": "768 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Kulattha",
+     "gloss": null,
+     "part": "Sd.",
+     "quantity": "768 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Water for decoction",
+     "gloss": null,
+     "part": null,
+     "quantity": "12.288 l. reduced to [illegible]",
+     "ocrCorrected": null,
+     "illegible": true
+    },
+    {
+     "n": 6,
+     "name": "Devadaru",
+     "gloss": null,
+     "part": "Ht. Wd.",
+     "quantity": "16 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Bala",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "16 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Rasna",
+     "gloss": null,
+     "part": "Rt./Lf.",
+     "quantity": "16 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 9,
+     "name": "Kustha",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "16 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 10,
+     "name": "Sarsapa",
+     "gloss": null,
+     "part": "Sd.",
+     "quantity": "16 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 11,
+     "name": "Nagara",
+     "gloss": "sunthi",
+     "part": "Rz.",
+     "quantity": "16 g.",
+     "ocrCorrected": "Gloss printed \"(Sunth1)\"; terminal \"1\" is OCR of \"i\" - read \"sunthi\", the standard AFI gloss for Nagara used throughout the book.",
+     "illegible": false
+    },
+    {
+     "n": 12,
+     "name": "Satahva",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "16 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 13,
+     "name": "Pippalimula",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "16 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 14,
+     "name": "Cavya",
+     "gloss": null,
+     "part": "St.",
+     "quantity": "16 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 15,
+     "name": "Sigru",
+     "gloss": null,
+     "part": "St. Bk.",
+     "quantity": "16 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 16,
+     "name": "Punarnava",
+     "gloss": "rakta punarnava",
+     "part": "Rt.",
+     "quantity": "16 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 17,
+     "name": "Taila",
+     "gloss": "tila",
+     "part": "Ol.",
+     "quantity": "768 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 18,
+     "name": "Aja ksira",
+     "gloss": null,
+     "part": null,
+     "quantity": "768 ml.",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "karpasasthyadi-thailam": {
+   "afiPart": "I",
+   "entryNumber": "8:6",
+   "entryHeading": "KARPASASTHYADI TAILA",
+   "classicalSource": "Sahasrayoga, Tailaprakarana, 11.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Karpasasthi",
+     "gloss": "karpasa",
+     "part": "Enm.",
+     "quantity": "768 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Bala",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "768 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Masa",
+     "gloss": null,
+     "part": "Sd.",
+     "quantity": "768 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Kulattha",
+     "gloss": null,
+     "part": "Sd.",
+     "quantity": "768 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Water for decoction",
+     "gloss": null,
+     "part": null,
+     "quantity": "12.288 l. reduced to [illegible: OCR reads '५९170']",
+     "ocrCorrected": null,
+     "illegible": true
+    },
+    {
+     "n": 6,
+     "name": "Devadaru",
+     "gloss": null,
+     "part": "Ht. Wd.",
+     "quantity": "16 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Bala",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "16 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Rasna",
+     "gloss": null,
+     "part": "Rt./Lf.",
+     "quantity": "16 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 9,
+     "name": "Kustha",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "16 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 10,
+     "name": "Sarsapa",
+     "gloss": null,
+     "part": "Sd.",
+     "quantity": "16 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 11,
+     "name": "Nagara",
+     "gloss": "sunthi",
+     "part": "Rz.",
+     "quantity": "16 g.",
+     "ocrCorrected": "gloss printed 'Sunth1' corrected to 'Sunthi' (digit-for-letter OCR slip; standard AFI gloss for Nagara)",
+     "illegible": false
+    },
+    {
+     "n": 12,
+     "name": "Satahva",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "16 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 13,
+     "name": "Pippalimula",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "16 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 14,
+     "name": "Cavya",
+     "gloss": null,
+     "part": "St.",
+     "quantity": "16 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 15,
+     "name": "Sigru",
+     "gloss": null,
+     "part": "St. Bk.",
+     "quantity": "16 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 16,
+     "name": "Punarnava",
+     "gloss": "raktapunarnava",
+     "part": "Rt.",
+     "quantity": "16 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 17,
+     "name": "Taila",
+     "gloss": "tila",
+     "part": "Ol.",
+     "quantity": "768 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 18,
+     "name": "Aja ksira",
+     "gloss": null,
+     "part": null,
+     "quantity": "768 ml.",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "kshirabala-thailam": {
+   "afiPart": "I",
+   "entryNumber": "8:11",
+   "entryHeading": "KSIRABALA TAILA",
+   "classicalSource": "Astangahrdaya, Vataraktacikitsa, Adhyaya 22; 44.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Bala kasaya (bala)",
+     "gloss": "bala",
+     "part": "Rt.",
+     "quantity": "16 parts",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Bala kalka (bala)",
+     "gloss": "bala",
+     "part": "Rt.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Taila (tila)",
+     "gloss": "tila",
+     "part": "Ol.",
+     "quantity": "4 parts",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Ksira (godugdha)",
+     "gloss": "godugdha",
+     "part": null,
+     "quantity": "4 parts",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Water",
+     "gloss": null,
+     "part": null,
+     "quantity": "16 parts",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "kutajarishta": {
+   "afiPart": "I",
+   "entryNumber": "1:11",
+   "entryHeading": "KUTAJARISTA",
+   "classicalSource": "Bhaisajyaratnavali, Atisaradhikara; 97-98½",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Kutajamula",
+     "gloss": "kutaja",
+     "part": "St. Bk.",
+     "quantity": "4.800 kg.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Mrdvika",
+     "gloss": "draksa",
+     "part": "Dr. Fr.",
+     "quantity": "2.400 kg.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Madhuka - puspa",
+     "gloss": null,
+     "part": "Fl.",
+     "quantity": "480 g.",
+     "ocrCorrected": "Printed \"(F1.)\"; read as Fl. (flower) per the entry's verse madhūkapuṣpa and the AFI abbreviation list — F1. is the routine OCR misread of Fl.",
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Kasmari",
+     "gloss": "gambhari",
+     "part": "St. Bk.",
+     "quantity": "480 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Water for decoction",
+     "gloss": null,
+     "part": null,
+     "quantity": "49.152 l. reduced to 12.288 l.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Guda",
+     "gloss": null,
+     "part": null,
+     "quantity": "4.800 kg.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Dhataki",
+     "gloss": null,
+     "part": "Fl.",
+     "quantity": "960 g.",
+     "ocrCorrected": "Printed \"(F1.) 960 ` £.\"; Fl. per the verse dhātakyā, and unit g. because the verse gives dhātakyā viṃśatipalaṃ (20 pala = 960 g). Listed under the sub-heading \"Praksepa dravya\".",
+     "illegible": false
+    }
+   ]
+  },
+  "madhusnuhi-rasayana": {
+   "afiPart": "I",
+   "entryNumber": "3:19",
+   "entryHeading": "MADHUSNUHI RASAYANA",
+   "classicalSource": "Sahasrayoga, Lehaprakarana; 41.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Sunthi",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "6 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Marica",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "6 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Pippali",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "6 g.",
+     "ocrCorrected": "OCR reads \"3. एषा (Fr.) 6 g.\" (Devanagari mis-OCR of the Latin name). Determined as Pippali: the entry's verse opens with trikatu (sunthi-marica-pippali), and items 1 and 2 are Sunthi and Marica, so item 3 is the third member of trikatu; the part abbreviation Fr. matches Pippali fruit.",
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Haritaki",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "6 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Bibhitaka",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "6 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Amalaki",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "6 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Tvak",
+     "gloss": null,
+     "part": "St. Bk.",
+     "quantity": "6 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Ela",
+     "gloss": "suksmaila",
+     "part": "Sd.",
+     "quantity": "6 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 9,
+     "name": "Patra",
+     "gloss": "tejapatra",
+     "part": "Lf.",
+     "quantity": "6 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 10,
+     "name": "Jatiphala",
+     "gloss": null,
+     "part": "Sd.",
+     "quantity": "6 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 11,
+     "name": "Jatipatri",
+     "gloss": "jatiphala",
+     "part": "Ar.",
+     "quantity": "6 g.",
+     "ocrCorrected": "OCR prints the name as \"Jattpatri\"; read as Jatipatri (standard AFI spelling, glossed to jatiphala with part Ar. = aril, i.e. mace), matching the verse's jatiphala-patra pair.",
+     "illegible": false
+    },
+    {
+     "n": 12,
+     "name": "Agni",
+     "gloss": "citraka",
+     "part": "Rt.",
+     "quantity": "6 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 13,
+     "name": "Varala",
+     "gloss": "lavanga",
+     "part": "Fl. Bd.",
+     "quantity": "6 g.",
+     "ocrCorrected": "Part printed by OCR as \"(71. Bd.)\"; read as Fl. Bd. (flower bud), the only abbreviation of that shape in the AFI appendix and the officinal part of lavanga.",
+     "illegible": false
+    },
+    {
+     "n": 14,
+     "name": "Dhanyaka",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "6 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 15,
+     "name": "Sveta jiraka",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "6 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 16,
+     "name": "Krsna jiraka",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "6 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 17,
+     "name": "Vanya jiraka",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "6 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 18,
+     "name": "Vidanga",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "6 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 19,
+     "name": "Cavya",
+     "gloss": null,
+     "part": "St.",
+     "quantity": "6 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 20,
+     "name": "Kustha",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "6 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 21,
+     "name": "Trivrta",
+     "gloss": "trivrt",
+     "part": "Rt.",
+     "quantity": "6 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 22,
+     "name": "Granthika",
+     "gloss": "pippalimula",
+     "part": "Rt.",
+     "quantity": "6 g.",
+     "ocrCorrected": "The parenthetical gloss is broken across an OCR line as \"Granthika (गा) / pippalimtla (Rt.) 6 g.\"; the intended printed cell is \"Granthika (pippalimula) (Rt.)\" - the verse names granthika, and the gloss word pippalimula is legible on the continuation line.",
+     "illegible": false
+    },
+    {
+     "n": 23,
+     "name": "Vajigandhika",
+     "gloss": "asvagandha",
+     "part": "Rt.",
+     "quantity": "6 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 24,
+     "name": "Bharngi",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "6 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 25,
+     "name": "Tejovati-bija",
+     "gloss": null,
+     "part": "Sd.",
+     "quantity": "6 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 26,
+     "name": "Kesara",
+     "gloss": "nagakesara",
+     "part": "Stmn.",
+     "quantity": "6 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 27,
+     "name": "Suddha gandha",
+     "gloss": "gandhaka",
+     "part": null,
+     "quantity": "192 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 28,
+     "name": "Mahisaksa guggulu-sodhita",
+     "gloss": null,
+     "part": "Exd.",
+     "quantity": "192 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 29,
+     "name": "Madhusnuhi-sodhita",
+     "gloss": null,
+     "part": "Rt. Tr.",
+     "quantity": "192 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 30,
+     "name": "Ghrta",
+     "gloss": null,
+     "part": null,
+     "quantity": "576 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 31,
+     "name": "Sita",
+     "gloss": null,
+     "part": null,
+     "quantity": "576 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 32,
+     "name": "Madhu",
+     "gloss": null,
+     "part": null,
+     "quantity": "768 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "maha-narayana-thailam": {
+   "afiPart": "I",
+   "entryNumber": "8:45",
+   "entryHeading": "MAHA NARAYANA TAILA",
+   "classicalSource": "Bhaisajyaratnavali, Vatavyadhyadhikara; 151-157.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Bilva",
+     "gloss": null,
+     "part": "Rt. /St. Bk.",
+     "quantity": "960 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Asvagandha",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "960 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Brhati",
+     "gloss": null,
+     "part": "P1.",
+     "quantity": "960 g.",
+     "ocrCorrected": "part read as Pl.; 'P1.' is OCR of the Pl. (whole plant) abbreviation, which recurs in identical form down this column",
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Svadamistra",
+     "gloss": "goksura",
+     "part": "?1.",
+     "quantity": "960 g.",
+     "ocrCorrected": "part read as Pl.; name read as Svadamstra, verse 151 has svadamstra (शवदष्ट्ा)",
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Syonaka",
+     "gloss": null,
+     "part": "Rt. St. Bk.",
+     "quantity": "960 2.",
+     "ocrCorrected": "quantity read as 960 g. ('2' is OCR of 'g.'; every drug in this block is 960 g.); part is Rt./St. Bk. with the slash dropped",
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Vatyalaka",
+     "gloss": "bala",
+     "part": "P1.",
+     "quantity": "960 g.",
+     "ocrCorrected": "part read as Pl.",
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Paribhadra",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "960 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Ksudra",
+     "gloss": "kantakari",
+     "part": "P1.",
+     "quantity": "960 g.",
+     "ocrCorrected": "part read as Pl.",
+     "illegible": false
+    },
+    {
+     "n": 9,
+     "name": "Kathilla",
+     "gloss": "rakta punarnava",
+     "part": "?1.",
+     "quantity": "960 g.",
+     "ocrCorrected": "part read as Pl.",
+     "illegible": false
+    },
+    {
+     "n": 10,
+     "name": "Atibala",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "960 g.",
+     "ocrCorrected": "list number dropped by OCR (line reads '. Atibala'); position 10 fixed by the run 9 -> 11",
+     "illegible": false
+    },
+    {
+     "n": 11,
+     "name": "Agnimantha",
+     "gloss": null,
+     "part": "Rt./St. Bk.",
+     "quantity": "960 g.",
+     "ocrCorrected": "list number OCR'd as 'i'; position fixed by the run 10 -> 12",
+     "illegible": false
+    },
+    {
+     "n": 12,
+     "name": "Sarani",
+     "gloss": "prasarini",
+     "part": "?1.",
+     "quantity": "960 g.",
+     "ocrCorrected": "part read as Pl.; number printed '12:'",
+     "illegible": false
+    },
+    {
+     "n": 13,
+     "name": "Patali",
+     "gloss": "patala",
+     "part": "Rt./St.Bk.",
+     "quantity": "960 2.",
+     "ocrCorrected": "quantity read as 960 g.; number printed '13;'",
+     "illegible": false
+    },
+    {
+     "n": 14,
+     "name": "Water for decoction / reduced to",
+     "gloss": null,
+     "part": null,
+     "quantity": "98.304 I. / reduced to 24.576 I.",
+     "ocrCorrected": "units read as litres (98.304 l. and 24.576 l.); 'I.' is OCR of 'l.'",
+     "illegible": false
+    },
+    {
+     "n": 15,
+     "name": "Taila",
+     "gloss": "tila",
+     "part": "Ol.",
+     "quantity": "6.144 kg.",
+     "ocrCorrected": "list number OCR'd as 'Le'; position fixed by the run 14 -> 16",
+     "illegible": false
+    },
+    {
+     "n": 16,
+     "name": "Aja dugdha or Go dugdha",
+     "gloss": null,
+     "part": null,
+     "quantity": "6.144 kg.",
+     "ocrCorrected": "printed as a single numbered item with the alternative 'or Go dugdha' on the following lines and one quantity",
+     "illegible": false
+    },
+    {
+     "n": 17,
+     "name": "Satavari-rasa",
+     "gloss": null,
+     "part": "Rt.Tr.",
+     "quantity": "6.144 1.",
+     "ocrCorrected": "quantity read as 6.144 l.; list number OCR'd as 'Ly.', position fixed by the run 16 -> 18",
+     "illegible": false
+    },
+    {
+     "n": 18,
+     "name": "Rasna",
+     "gloss": null,
+     "part": "Rt./Lf.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 19,
+     "name": "Asvagandha",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 20,
+     "name": "Misi",
+     "gloss": "misreya",
+     "part": "Fr, ",
+     "quantity": "96 g.",
+     "ocrCorrected": "part read as Fr. (comma is OCR of the full stop)",
+     "illegible": false
+    },
+    {
+     "n": 21,
+     "name": "Daru",
+     "gloss": "devadaru",
+     "part": "Ht. Wd.",
+     "quantity": "96 g.",
+     "ocrCorrected": "list number dropped by OCR (line reads '. Daru (devadaru)'); position 21 fixed by the run 20 -> 22",
+     "illegible": false
+    },
+    {
+     "n": 22,
+     "name": "Kustha",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 23,
+     "name": "Salaparni",
+     "gloss": null,
+     "part": "?1.",
+     "quantity": "96 g.",
+     "ocrCorrected": "part read as Pl.; list number OCR'd as 'ya\"', position fixed by the run 22 -> 24",
+     "illegible": false
+    },
+    {
+     "n": 24,
+     "name": "Prsniparni",
+     "gloss": null,
+     "part": "PC",
+     "quantity": "96 g.",
+     "ocrCorrected": "part read as Pl.; 'PC' is the same Pl. token mis-OCR'd, and verse 154 groups these four as parnicatuska",
+     "illegible": false
+    },
+    {
+     "n": 25,
+     "name": "Mudgaparni",
+     "gloss": null,
+     "part": "?1.",
+     "quantity": "96 g.",
+     "ocrCorrected": "part read as Pl.; list number OCR'd as '3,', position fixed by the run 24 -> 26",
+     "illegible": false
+    },
+    {
+     "n": 26,
+     "name": "Masaparni",
+     "gloss": null,
+     "part": "?1.",
+     "quantity": "96 g.",
+     "ocrCorrected": "part read as Pl.",
+     "illegible": false
+    },
+    {
+     "n": 27,
+     "name": "Agaru",
+     "gloss": null,
+     "part": "Ht. Wd.",
+     "quantity": "96 g.",
+     "ocrCorrected": "list number OCR'd as 'emp'; position fixed by the run 26 -> 28 and by verse 154 'agarukesarani'",
+     "illegible": false
+    },
+    {
+     "n": 28,
+     "name": "KeSara",
+     "gloss": "nagakeSara",
+     "part": "Stmn.",
+     "quantity": "96 £.",
+     "ocrCorrected": "quantity read as 96 g.; '£' is OCR of 'g.'",
+     "illegible": false
+    },
+    {
+     "n": 29,
+     "name": "Sindhuttha",
+     "gloss": "saindhava lavana",
+     "part": null,
+     "quantity": "96 g.",
+     "ocrCorrected": "no part abbreviation is printed (mineral salt); this is not an OCR loss",
+     "illegible": false
+    },
+    {
+     "n": 30,
+     "name": "Mamsi",
+     "gloss": "jafamamsi",
+     "part": "Rz./Rt.",
+     "quantity": "96 g.",
+     "ocrCorrected": "gloss read as jatamamsi; 'jafamamsi' is OCR of the 't'",
+     "illegible": false
+    },
+    {
+     "n": 31,
+     "name": "Haridra",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "96 g.",
+     "ocrCorrected": "list number printed '31:'",
+     "illegible": false
+    },
+    {
+     "n": 32,
+     "name": "Daruharidra",
+     "gloss": null,
+     "part": "St.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 33,
+     "name": "Saileyaka",
+     "gloss": "Saileya",
+     "part": "?].",
+     "quantity": "96 g.",
+     "ocrCorrected": "part read as Pl.; list number OCR'd as '3.2', position fixed by the run 32 -> 34",
+     "illegible": false
+    },
+    {
+     "n": 34,
+     "name": "Candana",
+     "gloss": "rakta - candana",
+     "part": "Ht. Wd.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 35,
+     "name": "Puskara",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "96 £.",
+     "ocrCorrected": "quantity read as 96 g.; list number OCR'd as '23.', position 35 fixed by the run 34 -> 36 and by verse 155 'candanapuskarani'",
+     "illegible": false
+    },
+    {
+     "n": 36,
+     "name": "Ela",
+     "gloss": "suksmaila",
+     "part": "Sd.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 37,
+     "name": "Asra",
+     "gloss": "manjistha",
+     "part": "Rt.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 38,
+     "name": "Yasti",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 39,
+     "name": "Tagara",
+     "gloss": null,
+     "part": "Rt./Rz.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 40,
+     "name": "Abda",
+     "gloss": "musta",
+     "part": "Rz.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 41,
+     "name": "Patra",
+     "gloss": "tejapatra",
+     "part": "Lf.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 42,
+     "name": "Bhrnga",
+     "gloss": "tvak",
+     "part": "St. Bk.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 43,
+     "name": "Jivaka",
+     "gloss": null,
+     "part": "Rt. Tr.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 44,
+     "name": "Rsabhaka",
+     "gloss": null,
+     "part": "Rt.Tr.",
+     "quantity": "96 £.",
+     "ocrCorrected": "quantity read as 96 g.; '£' is OCR of 'g.'",
+     "illegible": false
+    },
+    {
+     "n": 45,
+     "name": "Meda",
+     "gloss": null,
+     "part": "Tr..Rt.",
+     "quantity": "96 g.",
+     "ocrCorrected": "part read as Tr./Rt.",
+     "illegible": false
+    },
+    {
+     "n": 46,
+     "name": "Mahameda",
+     "gloss": null,
+     "part": "Rt. Tr.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 47,
+     "name": "Kakoli",
+     "gloss": null,
+     "part": "Sub. Rt.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 48,
+     "name": "Ksira Kakoli",
+     "gloss": null,
+     "part": "Sub.Rt.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 49,
+     "name": "Rddhi",
+     "gloss": null,
+     "part": "Sub. Rt.Tr.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 50,
+     "name": "Vrddhi",
+     "gloss": null,
+     "part": "Sub. Rt. Tr.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 51,
+     "name": "Ambu",
+     "gloss": "hrivera",
+     "part": "Rt.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 52,
+     "name": "Vaca",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 53,
+     "name": "Palasa",
+     "gloss": null,
+     "part": "St. Bk.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 54,
+     "name": "Sthauneya",
+     "gloss": null,
+     "part": "St. Bk.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 55,
+     "name": "Vrsciraka",
+     "gloss": "Sveta punarnava",
+     "part": "?1.",
+     "quantity": "96 g.",
+     "ocrCorrected": "part read as Pl.; the gloss '(Sveta punarnava)' is printed on the line below the name",
+     "illegible": false
+    },
+    {
+     "n": 56,
+     "name": "Coraka",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 57,
+     "name": "Karpura",
+     "gloss": null,
+     "part": "Sub. Ext.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 58,
+     "name": "Kasmira",
+     "gloss": "kunkuma",
+     "part": "Stl./ Stg.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 59,
+     "name": "Mrgandaja",
+     "gloss": "mrgamada",
+     "part": null,
+     "quantity": "48 g.",
+     "ocrCorrected": "no part abbreviation is printed (animal-origin musk); this is not an OCR loss",
+     "illegible": false
+    }
+   ]
+  },
+  "mustakarishta": {
+   "afiPart": "I",
+   "entryNumber": "1:26",
+   "entryHeading": "MUSTAKARISTA",
+   "classicalSource": "Bhaisajyaratnavali, Agnimadyadirogadhikara; 108-110.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Mustaka (musta)",
+     "gloss": "musta",
+     "part": "Rz.",
+     "quantity": "9.600 kg.",
+     "ocrCorrected": "List number printed as \"a .\" ; corrected to 1 because the following items are numbered 2-11 and this is the first item of the list",
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Water for decoction",
+     "gloss": null,
+     "part": null,
+     "quantity": "49.152 l. reduced to 12.288 l.",
+     "ocrCorrected": "Printed \"49.1521.\" and \"reduced to 12.2881.\" ; the trailing \"1.\" is the OCR of the litre abbreviation \"l.\" used throughout the book",
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Guda",
+     "gloss": null,
+     "part": null,
+     "quantity": "14.400 kg.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Dhataki",
+     "gloss": null,
+     "part": "ग. (OCR-garbled; Fl. expected but not determinable from this entry)",
+     "quantity": "768 g.",
+     "ocrCorrected": null,
+     "illegible": true
+    },
+    {
+     "n": 5,
+     "name": "Yamani (yavani)",
+     "gloss": "yavani",
+     "part": "Fr.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Visvabhesaja (sunthi)",
+     "gloss": "sunthi",
+     "part": "Rz.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Marica",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Devapuspa (lavanga)",
+     "gloss": "lavanga",
+     "part": "Fl. Bd.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 9,
+     "name": "Methi",
+     "gloss": null,
+     "part": "Sd.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 10,
+     "name": "Vahni (citraka)",
+     "gloss": "citraka",
+     "part": "Rt.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 11,
+     "name": "Jiraka (sveta jiraka)",
+     "gloss": "sveta jiraka",
+     "part": "Fr.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "neelibringadi-thailam": {
+   "afiPart": "I",
+   "entryNumber": "8:26",
+   "entryHeading": "NILIBHRNGADI TAILA",
+   "classicalSource": "Sahasrayoga; Tailaprakarana; 38",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Nili-svarasa",
+     "gloss": null,
+     "part": "Lf.",
+     "quantity": "768 ml.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Bhrngaraja-svarasa",
+     "gloss": null,
+     "part": null,
+     "quantity": "768 ml.",
+     "ocrCorrected": null,
+     "illegible": true
+    },
+    {
+     "n": 3,
+     "name": "Satakratu lata",
+     "gloss": "karnasphota",
+     "part": "Pl.",
+     "quantity": "768 ml.",
+     "ocrCorrected": "Part printed as \"(PI1.)\"; read as (Pl.), the standard AFI whole-plant abbreviation; capital-I/1 for lowercase-l is routine OCR noise in this file. Flagged as lower confidence: the verse does not fix the part.",
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Dhatri rasa",
+     "gloss": "amalaki",
+     "part": "P.",
+     "quantity": "768 ml.",
+     "ocrCorrected": "Printed \"Dhiatri rasa (amalak1)\"; name is Dhatri rasa (amalaki), determined by the entry's own verse \"dhatriphalanam rase\"; i/1 substitution only.",
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Aja ksira",
+     "gloss": null,
+     "part": null,
+     "quantity": "768 ml.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Nalikera ksira",
+     "gloss": "narikela",
+     "part": "Kr.",
+     "quantity": "768 ml.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Mahisi ksira",
+     "gloss": null,
+     "part": null,
+     "quantity": "768 ml.",
+     "ocrCorrected": "Printed \"768 111].\"; unit read as ml. because every liquid item in this entry (1-9) carries 768 ml. and \"111]\" is this file's recurring mis-OCR of \"ml\".",
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Dhenudbhava",
+     "gloss": "go dugdha",
+     "part": null,
+     "quantity": "768 ml.",
+     "ocrCorrected": "Printed \"Dhenutdbhava ... 768 111].\"; name fixed by the entry's verse \"dhenudbhavaih\"; unit ml. as in items 1-7 and 9.",
+     "illegible": false
+    },
+    {
+     "n": 9,
+     "name": "Taila",
+     "gloss": "tila",
+     "part": "Ol.",
+     "quantity": "768 ml.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 10,
+     "name": "Yasti",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": null,
+     "ocrCorrected": null,
+     "illegible": true
+    },
+    {
+     "n": 11,
+     "name": "Gunja mula",
+     "gloss": "gunja",
+     "part": "Rt.",
+     "quantity": "32 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 12,
+     "name": "Anjana",
+     "gloss": "daruharidra",
+     "part": "St. Ext.",
+     "quantity": null,
+     "ocrCorrected": null,
+     "illegible": true
+    }
+   ]
+  },
+  "panchakola-churna": {
+   "afiPart": "II",
+   "entryNumber": "7.10",
+   "entryHeading": "PANCHKOLA CURNA",
+   "classicalSource": "Sarngadharasamhita, Madhyamakhanda Adhyaya 6; 13-14.",
+   "sourceUrl": "https://archive.org/details/b32232172",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Pippali",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Cavya",
+     "gloss": null,
+     "part": "St.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Visvahva",
+     "gloss": "Sunthi",
+     "part": "Rz.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Pippalimula",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Citraka",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "sahacharadi-thailam": {
+   "afiPart": "I",
+   "entryNumber": "8:59",
+   "entryHeading": "SAHACARADI TAILA",
+   "classicalSource": "Astangahrdaya, Cikitsasthana, Adhyaya 21; 66 - 67½.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Sahacara",
+     "gloss": null,
+     "part": "Pl.",
+     "quantity": "4.800 kg.",
+     "ocrCorrected": "Name OCR'd as \"99126818\"; determined by the entry heading (Sahacaradi) and the entry's own verse \"samulasakhasya sahacarasya tulam\" (one tula of sahacara with root and branches = 4.800 kg), plus its position as item 1. Part printed \"(?].)\" = (Pl.), consistent with samula-sakha (whole plant).",
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Bilva",
+     "gloss": null,
+     "part": "Rt./St. Bk.",
+     "quantity": "480 g.",
+     "ocrCorrected": "List number dropped by OCR; recovered from the unbroken run 1..9 (item 9 Brhati is numbered) and from the verse's dasamula (\"dasamulatasca\").",
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Syonaka",
+     "gloss": null,
+     "part": "Rt./St. Bk.",
+     "quantity": "480 g.",
+     "ocrCorrected": "List number dropped by OCR; recovered from the unbroken run 1..9.",
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Gambhari",
+     "gloss": null,
+     "part": "Rt./St. Bk.",
+     "quantity": "480 g.",
+     "ocrCorrected": "List number dropped by OCR; recovered from the unbroken run 1..9.",
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Patala",
+     "gloss": null,
+     "part": "Rt./St. Bk.",
+     "quantity": "480 g.",
+     "ocrCorrected": "List number dropped by OCR; recovered from the unbroken run 1..9.",
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Ganikarika",
+     "gloss": "agnimantha",
+     "part": "Rt./St. Bk.",
+     "quantity": "480 g.",
+     "ocrCorrected": "List number dropped by OCR; recovered from the unbroken run 1..9.",
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Salaparni",
+     "gloss": null,
+     "part": "Pl.",
+     "quantity": "480 g.",
+     "ocrCorrected": "List number dropped by OCR; recovered from the unbroken run 1..9.",
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Prsniparni",
+     "gloss": null,
+     "part": "Pl.",
+     "quantity": "480 g.",
+     "ocrCorrected": "List number dropped by OCR; recovered from the unbroken run 1..9.",
+     "illegible": false
+    },
+    {
+     "n": 9,
+     "name": "Brhati",
+     "gloss": null,
+     "part": "Pl.",
+     "quantity": "480 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 10,
+     "name": "Kantakari",
+     "gloss": null,
+     "part": "Pl.",
+     "quantity": "480 g.",
+     "ocrCorrected": "Part printed \"(?1.)\" = (Pl.), matching the other lesser-dasamula items.",
+     "illegible": false
+    },
+    {
+     "n": 11,
+     "name": "Goksura",
+     "gloss": null,
+     "part": "Pl.",
+     "quantity": "480 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 12,
+     "name": "Abhiru",
+     "gloss": "satavari",
+     "part": "Rt.Tr.",
+     "quantity": "2.400 kg.",
+     "ocrCorrected": "Gloss printed \"(Safavar1)\" = (satavari); verse reads \"palani pancasad abhirutasca\" (fifty pala of abhiru = 2.400 kg).",
+     "illegible": false
+    },
+    {
+     "n": 13,
+     "name": "Water for decoction",
+     "gloss": null,
+     "part": null,
+     "quantity": "49.152 l. reduced to 12.288 l.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 14,
+     "name": "Sevya",
+     "gloss": "usira",
+     "part": "Rt.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 15,
+     "name": "Nakha",
+     "gloss": "vyaghranakha",
+     "part": "Fr.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 16,
+     "name": "Kustha",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 17,
+     "name": "Hima",
+     "gloss": "sveta candana",
+     "part": "Ht.Wd.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 18,
+     "name": "Ela",
+     "gloss": "suksmaila",
+     "part": "Sd.",
+     "quantity": "48 g.",
+     "ocrCorrected": "Name OCR'd as \"218\"; determined by the entry's own verse, whose compound \"sevyanakhakusthahimela-sprkpriyangunalika'mbusilajaih\" resolves in printed order as sevya (14), nakha (15), kustha (16), hima (17), ela (18), sprk (19), priyangu (20), nalika (21), ambu (22), silaja (23); the printed gloss (suksmaila) and part Sd. confirm ela.",
+     "illegible": false
+    },
+    {
+     "n": 19,
+     "name": "Sprk",
+     "gloss": "sprkka",
+     "part": "Pl.",
+     "quantity": "48 g.",
+     "ocrCorrected": "Part printed \"(?1.)\" = (Pl.).",
+     "illegible": false
+    },
+    {
+     "n": 20,
+     "name": "Priyangu",
+     "gloss": null,
+     "part": "Fl.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 21,
+     "name": "Nalika",
+     "gloss": null,
+     "part": "St. Bk.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 22,
+     "name": "Ambu",
+     "gloss": "hrivera",
+     "part": "Rt.",
+     "quantity": "48 g.",
+     "ocrCorrected": "List number dropped by OCR (line reads \".Ambu\"); recovered from the run 21 -> 23 and the verse order nalika-ambu-silaja.",
+     "illegible": false
+    },
+    {
+     "n": 23,
+     "name": "Silaja",
+     "gloss": "saileya",
+     "part": "Pl.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 24,
+     "name": "Lohita",
+     "gloss": "manjistha",
+     "part": "Rt.",
+     "quantity": "48 g.",
+     "ocrCorrected": "Printed \"Lohifa\"; verse reads \"lohitanaladalohasurahvaih\", giving lohita (24), nalada (25), loha (26), surahva (27).",
+     "illegible": false
+    },
+    {
+     "n": 25,
+     "name": "Nalada",
+     "gloss": "jatamansi",
+     "part": "Rz./Rt.",
+     "quantity": "48 g.",
+     "ocrCorrected": "Gloss printed \"(jafamansi)\" = (jatamansi).",
+     "illegible": false
+    },
+    {
+     "n": 26,
+     "name": "Loha",
+     "gloss": "agaru",
+     "part": "Ht.Wd.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 27,
+     "name": "Surahva",
+     "gloss": "devadaru",
+     "part": "Ht.Wd.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 28,
+     "name": "Kopana",
+     "gloss": "coraka",
+     "part": "Rz.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 29,
+     "name": "Misi",
+     "gloss": "misreya",
+     "part": "Fr.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 30,
+     "name": "Turuska",
+     "gloss": null,
+     "part": "Exd.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 31,
+     "name": "Nata",
+     "gloss": "tagara",
+     "part": "Rt./Rz.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 32,
+     "name": "Ksira",
+     "gloss": "godugdha",
+     "part": null,
+     "quantity": null,
+     "ocrCorrected": null,
+     "illegible": true
+    },
+    {
+     "n": 33,
+     "name": "Taila",
+     "gloss": "tila",
+     "part": "Ol.",
+     "quantity": null,
+     "ocrCorrected": "Name OCR'd as \"12112\"; determined by the printed gloss (tila) and the entry's verse \"tulyam ksiram palikaistailapatram\" (an equal measure of milk to one patra of oil), plus its final position after Ksira. Part printed \"(Oly\" = (Ol.). The quantity is NOT recoverable and is left illegible.",
+     "illegible": true
+    }
+   ]
+  },
+  "shadbindu-taila": {
+   "afiPart": "I",
+   "entryNumber": "8:58",
+   "entryHeading": "SADBINDU TAILA",
+   "classicalSource": "Bhaisajyaratnavali, Sirorogadhikara; 49 - 49½.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Krsna tila taila",
+     "gloss": "tila",
+     "part": "Ol.",
+     "quantity": "768 g.",
+     "ocrCorrected": "Printed as \"Krsna tila {4118 (tila) (Ol.) 768 g.\"; the garbled token is 'taila' - the entry's own verse ends \"kṛṣṇatilasya tailam\" (कृष्णतिलस्य तेलम्), i.e. oil of black sesame, and the part abbreviation Ol. (oil) confirms it. Quantity 768 g. is legible.",
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Aja paya",
+     "gloss": "ajaksira",
+     "part": null,
+     "quantity": "3.072 l.",
+     "ocrCorrected": "Printed as \"Aja paya(ajaksira) 3:072 Ai\"; digits 3, 0, 7, 2 are legible and the decimal point is OCR'd as a colon; unit read as l. (litres), the unit used for all liquid media in this group (cf. 8:59 \"Water for decoction 49.152 l.\"). Verse confirms aja payas (goat milk) is a liquid medium.",
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Bhrnga rasa",
+     "gloss": "bhrngaraja",
+     "part": "Pl.",
+     "quantity": "R072: 1",
+     "ocrCorrected": null,
+     "illegible": true
+    },
+    {
+     "n": 4,
+     "name": "Eranda",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "19 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Tagara",
+     "gloss": null,
+     "part": "Rt./Rz.",
+     "quantity": "19 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Satahva",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "19 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Jivanti",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "19 g.",
+     "ocrCorrected": "Printed \"19 £.\" - the currency glyph is a mis-OCR of the 'g.' used in every other gram row of this entry; the numeral 19 is legible.",
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Rasna",
+     "gloss": null,
+     "part": "Rt./Lf.",
+     "quantity": "19 g.",
+     "ocrCorrected": "Printed \"19 £.\" - same 'g.' mis-OCR as row 7; numeral 19 legible.",
+     "illegible": false
+    },
+    {
+     "n": 9,
+     "name": "Saindhava lavana",
+     "gloss": null,
+     "part": null,
+     "quantity": "LO ge",
+     "ocrCorrected": null,
+     "illegible": true
+    },
+    {
+     "n": 10,
+     "name": "Bhrnga",
+     "gloss": "tejapatra",
+     "part": "Lf.",
+     "quantity": "19 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 11,
+     "name": "Vidanga",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "19 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 12,
+     "name": "Yasti",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "19 g.",
+     "ocrCorrected": "Printed \"19,\" with the unit dropped; the numeral 19 is legible and every solid drug in this entry is given in g., so the unit is g. The value itself is not inferred.",
+     "illegible": false
+    },
+    {
+     "n": 13,
+     "name": "Visvausadha",
+     "gloss": "sunthi",
+     "part": "Rz.",
+     "quantity": "19 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "simhanada-guggulu": {
+   "afiPart": "I",
+   "entryNumber": "5:12",
+   "entryHeading": "SIMHANADA GUGGULU",
+   "classicalSource": "Bhaisajyaratnavali, Amavatadhikara; 130-131.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Haritaki",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Bibhitaka",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Amalaki",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Water for decoction",
+     "gloss": null,
+     "part": null,
+     "quantity": "576 ml. reduced to 144 ml.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Saugandhika (gandhaka)-suddha",
+     "gloss": "gandhaka",
+     "part": null,
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Kausika (guggulu)-suddha",
+     "gloss": "guggulu",
+     "part": "Exd.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Citra taila (eranda)",
+     "gloss": "eranda",
+     "part": "Ol.",
+     "quantity": "192 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "srikhandasava": {
+   "afiPart": "I",
+   "entryNumber": "1:35",
+   "entryHeading": "SRIKHANDASAVA",
+   "classicalSource": "Bhaisajyaratnavali, Madatyayadhikara; 24-264. (Devanagari line: भैषज्यरत्नावली, मदात्ययाधिकारः 24-26",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Srikhanda",
+     "gloss": "sveta candana",
+     "part": "Ht.Wd.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Marica",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Mamsi",
+     "gloss": "jatamamsi",
+     "part": "Rz.",
+     "quantity": "24 g.",
+     "ocrCorrected": "Line 5572 reads \"Mamsi (jatamams!1) (RES Rz 242.\" — gloss jatamamsi, part Rz. and quantity 24 g. restored; the verse reads मांसी, the part abbreviation Rz. is legible within the garble, and every other row of this block (rows 1-19) carries 24 g.",
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Haridra",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "24 g.",
+     "ocrCorrected": "Line 5573 prints \"24 £.\"; £ is the OCR's usual substitution for g in this entry (cf. rows 1-3, 5-19 all 24 g.), and the verse's रजन्यौ (the two rajanis) pairs Haridra with Daru haridra at the same measure.",
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Daru haridra",
+     "gloss": null,
+     "part": "St.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Citraka",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Ghana",
+     "gloss": "musta",
+     "part": "Rz.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Usira",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 9,
+     "name": "Tagara",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 10,
+     "name": "Draksa",
+     "gloss": null,
+     "part": "Dr.Fr.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 11,
+     "name": "Candana",
+     "gloss": "rakta candana",
+     "part": "Ht.Wd.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 12,
+     "name": "Nagakesara",
+     "gloss": null,
+     "part": "Stmn.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 13,
+     "name": "Patha",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 14,
+     "name": "Dhatri",
+     "gloss": "amalaki",
+     "part": "P.",
+     "quantity": "24 g.",
+     "ocrCorrected": "Line 5585 reads \". ig (amalaki) (P.) 24 g.\" for item 14; the entry's own verse gives पाठां धात्रीं कणां चव्यं — Patha (13), Dhatri (14), Kana (15), Cavya (16) — so the garbled name is Dhatri, and the printed gloss (amalaki) agrees.",
+     "illegible": false
+    },
+    {
+     "n": 15,
+     "name": "Kana",
+     "gloss": "pippali",
+     "part": "Fr.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 16,
+     "name": "Cavya",
+     "gloss": null,
+     "part": "St.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 17,
+     "name": "Lavanga",
+     "gloss": null,
+     "part": "Fl. Bd.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 18,
+     "name": "Elavaluka",
+     "gloss": null,
+     "part": "S.Bk.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 19,
+     "name": "Lodhra",
+     "gloss": null,
+     "part": "St. Bk.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 20,
+     "name": "Water",
+     "gloss": null,
+     "part": null,
+     "quantity": "24.576 l.",
+     "ocrCorrected": "Line 5591 prints \"24.5761.\" — the trailing \"1.\" is the litre abbreviation \"l.\" run onto the figure, as elsewhere in AFI Part I asava/arista entries; value 24.576 l.",
+     "illegible": false
+    },
+    {
+     "n": 21,
+     "name": "Draksa",
+     "gloss": null,
+     "part": "Dr.Fr.",
+     "quantity": "2.880 kg.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 22,
+     "name": "Guda",
+     "gloss": null,
+     "part": null,
+     "quantity": "14.400 kg.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 23,
+     "name": "Dhataki",
+     "gloss": null,
+     "part": "Fl.",
+     "quantity": "576 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "sudarshan-churna": {
+   "afiPart": "I",
+   "entryNumber": "7:35",
+   "entryHeading": "SUDARSANA CURNA",
+   "classicalSource": "Bhaisajyaratnavali, Jvaradhikara; 308-312.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Kaliyaka",
+     "gloss": "pitacandana",
+     "part": null,
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": true
+    },
+    {
+     "n": 2,
+     "name": "Rajani",
+     "gloss": "haridra",
+     "part": "Rz.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Devadaru",
+     "gloss": null,
+     "part": "Ht. Wd.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Vaca",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Ghana",
+     "gloss": "musta",
+     "part": "Rz.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Abhaya",
+     "gloss": "haritaki",
+     "part": "P.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Dhanvayasa",
+     "gloss": null,
+     "part": "Pl.",
+     "quantity": "1 part",
+     "ocrCorrected": "part printed by OCR as '(P1.)'; digit-1 for letter-l substitution of the appendix abbreviation Pl.",
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Srngi",
+     "gloss": "karkatasrgi",
+     "part": null,
+     "quantity": "1 part",
+     "ocrCorrected": "name cell OCR'd as Devanagari noise 'अशा'; the entry's own verse 308 reads 'abhaya dhanvayasasca srngi ksudra mahausadham', fixing the item between Dhanvayasa (7) and Ksudra (9) as Srngi, and the surviving gloss (karkatasrgi) agrees. Part cell OCR'd '(01.)' and not determinable.",
+     "illegible": true
+    },
+    {
+     "n": 9,
+     "name": "Ksudra",
+     "gloss": "kantakari",
+     "part": null,
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": true
+    },
+    {
+     "n": 10,
+     "name": "Mahausadha",
+     "gloss": "sunthi",
+     "part": "Rz.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 11,
+     "name": "Trayanti",
+     "gloss": "trayamana",
+     "part": null,
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": true
+    },
+    {
+     "n": 12,
+     "name": "Parpata",
+     "gloss": null,
+     "part": null,
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": true
+    },
+    {
+     "n": 13,
+     "name": "Nimba",
+     "gloss": null,
+     "part": "St. Bk.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 14,
+     "name": "Granthika",
+     "gloss": "pippalimula",
+     "part": "Rt.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 15,
+     "name": "Balaka",
+     "gloss": "hrivera",
+     "part": "Rt.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 16,
+     "name": "Sati",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 17,
+     "name": "Pauskara",
+     "gloss": "puskara",
+     "part": "Rt.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 18,
+     "name": "Magadhi",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "1 part",
+     "ocrCorrected": "gloss cell unreadable in OCR (printed as '(°)') and not reconstructed; name, part and quantity are legible.",
+     "illegible": false
+    },
+    {
+     "n": 19,
+     "name": "Murva",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 20,
+     "name": "Kutaja",
+     "gloss": null,
+     "part": "St. Bk.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 21,
+     "name": "Madhuyasti",
+     "gloss": "yasti",
+     "part": "Rt.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 22,
+     "name": "Sigrudbhava",
+     "gloss": "sigru",
+     "part": "Sd.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 23,
+     "name": "Indrayava",
+     "gloss": "kutaja",
+     "part": "Sd.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 24,
+     "name": "Vari",
+     "gloss": "satavari",
+     "part": "Rt. Tr.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 25,
+     "name": "Darvi",
+     "gloss": "daru haridra",
+     "part": "St.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 26,
+     "name": "Kucandana",
+     "gloss": "rakta candana",
+     "part": "Ht. Wd.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 27,
+     "name": "Padmaka",
+     "gloss": null,
+     "part": "Ht. Wd.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 28,
+     "name": "Sarala",
+     "gloss": null,
+     "part": "Ht. Wd.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 29,
+     "name": "Usira",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 30,
+     "name": "Tvak",
+     "gloss": null,
+     "part": "St. Bk.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 31,
+     "name": "Saurastri",
+     "gloss": null,
+     "part": null,
+     "quantity": "1 part",
+     "ocrCorrected": "no part cell is printed for this item (a mineral drug); the single gap in the part column falls exactly here, which is what aligns the de-interleaved column to the name list.",
+     "illegible": false
+    },
+    {
+     "n": 32,
+     "name": "Sthira",
+     "gloss": "salaparni",
+     "part": "Pl.",
+     "quantity": "1 part",
+     "ocrCorrected": "part printed by OCR as '(P1.)'; digit-1 for letter-l substitution of the appendix abbreviation Pl.",
+     "illegible": false
+    },
+    {
+     "n": 33,
+     "name": "Yamani",
+     "gloss": "yavant",
+     "part": "Fr.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 34,
+     "name": "Ativisa",
+     "gloss": null,
+     "part": "Rt. Tr.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 35,
+     "name": "Bilva",
+     "gloss": null,
+     "part": "Rt./St. Bk.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 36,
+     "name": "Marica",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 37,
+     "name": "Gandhapatra",
+     "gloss": "prasarani",
+     "part": "Lf",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 38,
+     "name": "Dhatri",
+     "gloss": "amalaki",
+     "part": null,
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": true
+    },
+    {
+     "n": 39,
+     "name": "Guduci",
+     "gloss": null,
+     "part": "St.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 40,
+     "name": "Katuka",
+     "gloss": null,
+     "part": "Rz./Rt.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 41,
+     "name": "Citraka",
+     "gloss": null,
+     "part": "Rt.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 42,
+     "name": "Patola",
+     "gloss": null,
+     "part": null,
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": true
+    },
+    {
+     "n": 43,
+     "name": "Kalasi",
+     "gloss": "prsniparni",
+     "part": null,
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": true
+    },
+    {
+     "n": 44,
+     "name": "Kairata",
+     "gloss": "kiratatikta",
+     "part": null,
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": true
+    }
+   ]
+  },
+  "talisadi-churna": {
+   "afiPart": "I",
+   "entryNumber": "7:13",
+   "entryHeading": "TALISADYA CURNA",
+   "classicalSource": "Sarngadharasamhita, Madhyamakhanda, Adhyaya 6; 130-131.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Talisa",
+     "gloss": null,
+     "part": "Lf.",
+     "quantity": "12 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Marica",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "24 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Sunthi",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "36 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Pippali",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Vamsa-rocana",
+     "gloss": "vamsa",
+     "part": "S.C.",
+     "quantity": "60 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Ela",
+     "gloss": "suksmaila",
+     "part": "Sd.",
+     "quantity": "6 g.",
+     "ocrCorrected": "OCR prints the name cell as \"212\" (mis-OCR of Devanagari एला). Corrected to Ela on the entry's own verse: \"एलात्वचोस्तु ... प्रत्येक भागम्\" (ela and tvak, half a part each), which names ela immediately before tvak, matching row 6 preceding row 7 Tvak; the surviving parenthetical gloss \"(suksmaila)\" and the 6 g. (half karsa) quantity confirm it.",
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Tvak",
+     "gloss": null,
+     "part": "St. Bk.",
+     "quantity": "6 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Sarkara",
+     "gloss": null,
+     "part": null,
+     "quantity": "384 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "trikatu-churna": {
+   "afiPart": "I",
+   "entryNumber": "7:14",
+   "entryHeading": "TRIKATU CURNA",
+   "classicalSource": "Bhaisajyaratnavali, Paribhasaprakarana; 16.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Pippali",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Marica",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Sunthi",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "triphala-churna": {
+   "afiPart": "I",
+   "entryNumber": "7:15",
+   "entryHeading": "TRIPHALA CURNA",
+   "classicalSource": "Bhavaprakasa, Haritakyadi varga; 41.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Pathya",
+     "gloss": "haritaki",
+     "part": "P.",
+     "quantity": "1 part",
+     "ocrCorrected": "Gloss OCR'd as \"haritak1\"; final character is a mis-read of \"i\". Determined by the entry's own verse पथ्याविभीतधात्रीणां फलै: स्यात्त्रिफला समै: (pathya = haritaki), the standard triad naming, and the parallel glosses in rows 2-3.",
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Bibhita",
+     "gloss": "bibhitaka",
+     "part": "P.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Dhatri",
+     "gloss": "amalaki",
+     "part": "P.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "triphala-guggulu": {
+   "afiPart": "I",
+   "entryNumber": "5:5",
+   "entryHeading": "TRIPHALA GUGGULU",
+   "classicalSource": "Sarmgadharasamhita Madhyamakhanda Adhyaya 7;82-82½) — as OCR'd: \"(Sarmgadharasamhita Madhyamakhanda Adhyaya 7;82-82%)\"",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Haritaki",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Bibhitaka",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "48 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Amalaki",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "48 g.",
+     "ocrCorrected": "OCR reads \"48¢\"; corrected to 48 g. — rows 1, 2 and 4 of the same list read 48 g., and the entry's verse gives triphala as tripalam (1 pala = 48 g each)",
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Krsna (pippali)",
+     "gloss": "pippali (printed in the entry itself as \"Krsna(pippali)\")",
+     "part": "P.",
+     "quantity": "48 g.",
+     "ocrCorrected": "OCR reads \"482.\"; corrected to 48 g. — the entry's own verse reads krsna-curnam palonmitam (krsna powder measured at one pala = 48 g), matching rows 1-3",
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Guggulu-suddha",
+     "gloss": null,
+     "part": "Exd.",
+     "quantity": "240 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "varunadi-kashayam": {
+   "afiPart": "II",
+   "entryNumber": "4:22",
+   "entryHeading": "VARUNADI KVATHA CURNA",
+   "classicalSource": "Cakradatta, Asmaricikitsa; 29",
+   "sourceUrl": "https://archive.org/details/b32232172",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Varuna tvaka",
+     "gloss": null,
+     "part": "St.bk.",
+     "quantity": "1 Part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Sila",
+     "gloss": "Pasanabheda",
+     "part": "Rt.",
+     "quantity": "1 Part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Sunthi",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "1 Part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Goksura",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "1 Part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Yavaksara (Praksepa dravya)",
+     "gloss": null,
+     "part": null,
+     "quantity": "Q.S.",
+     "ocrCorrected": "List numbers 1-5 were lost by OCR (the number column collapsed into the garbage line 5569 'SA ee ae SD Cn ee GO NDP ='). Order and numbering are fixed by the entry's own Note at line 5576: 'Ingredient N. 5 is to be mixed with the prepared decoction at the end', which identifies the Praksepa dravya Yavaksara as item 5 and therefore the four '1 Part' herbs (lines 5543-5546, quantities on lines 5563-5566) as items 1-4 in printed order.",
+     "illegible": false
+    }
+   ]
+  },
+  "vasa-avaleha": {
+   "afiPart": "I",
+   "entryNumber": "3:26",
+   "entryHeading": "VASAVALEHA",
+   "classicalSource": "Bhaisajyaratnavali, Rajayaksmadhikara; 82-821.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Vasaka svarasa (vasa)",
+     "gloss": "vasa",
+     "part": "Lf.",
+     "quantity": "768 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Sita",
+     "gloss": null,
+     "part": null,
+     "quantity": "384 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Sarpi (goghrta)",
+     "gloss": "goghrta",
+     "part": null,
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Pippali",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "96 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Madhu",
+     "gloss": null,
+     "part": null,
+     "quantity": "384 g.",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  },
+  "vyoshadi-guggulu": {
+   "afiPart": "I",
+   "entryNumber": "5:9",
+   "entryHeading": "VYOSADI GUGGULU",
+   "classicalSource": "Astangahrdaya, Cikitsasthana, Adhyaya 21; 49.",
+   "sourceUrl": "https://archive.org/details/b32232184",
+   "rows": [
+    {
+     "n": 1,
+     "name": "Sunthi",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 2,
+     "name": "Marica",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 3,
+     "name": "Pippali",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 4,
+     "name": "Agni",
+     "gloss": "citraka",
+     "part": "Rt.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 5,
+     "name": "Musta",
+     "gloss": null,
+     "part": "Rz.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 6,
+     "name": "Haritaki",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 7,
+     "name": "Bibhitaka",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 8,
+     "name": "Amalaki",
+     "gloss": null,
+     "part": "P.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 9,
+     "name": "Vidanga",
+     "gloss": null,
+     "part": "Fr.",
+     "quantity": "1 part",
+     "ocrCorrected": null,
+     "illegible": false
+    },
+    {
+     "n": 10,
+     "name": "Guggulu-suddha",
+     "gloss": null,
+     "part": "Exd.",
+     "quantity": "9 parts",
+     "ocrCorrected": null,
+     "illegible": false
+    }
+   ]
+  }
+ }
 }

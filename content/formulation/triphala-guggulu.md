@@ -16,7 +16,7 @@ aliases: ["Triphala Guggulu", "TriphalaGuggulu"]
 tags: ["ayurveda", "formulation", "guggulu", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 601
+words: 570
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Triphala-Guggulu/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,14 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Triphala-Gug
 | Language | Name |
 |----------|------|
 | English | Triphala [Guggulu](/nighantu/formulation/guggulu/)|[Triphala](/nighantu/herb/triphala/) Guggulu |
-
-## Key Ingredients
-
-- Shuddha [Guggulu](/nighantu/formulation/guggulu/)|Shuddha Guggulu (Commiphora wightii)
-- [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula)
-- [Bibhitaki](/nighantu/herb/bibhitaki/) (Terminalia bellirica)
-- Amalaki (Emblica officinalis/Phyllanthus emblica)
-- [Trikatu](/nighantu/herb/trikatu/) - Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale), Maricha (Piper nigrum), [Pippali](/nighantu/herb/pippali/) (Piper longum)
 
 ## Where is it described in the classical texts?
 

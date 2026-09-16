@@ -101,6 +101,19 @@ for (const p of pages) {
  * pages are mostly "No PubMed data currently available" and read as substantial
  * until the placeholders come out.
  */
+/**
+ * Formulations whose composition is published from the Ayurvedic Formulary of India.
+ *
+ * Where the AFI table is shown, the vault's own "Key Ingredients" list is dropped rather
+ * than kept alongside it. The two disagree often and materially: on Abhayarishta the
+ * vault list omits five ingredients the formulary requires, adds one it does not contain,
+ * and gives no quantities. Two contradictory ingredient lists on one page is worse than
+ * either alone, and the sourced one wins.
+ */
+const AFI_COMPOSED = new Set(Object.keys(
+  JSON.parse(fs.readFileSync(path.join('src', 'data', 'composition.json'), 'utf8')).records ?? {},
+));
+
 function renderSections(p) {
   const out = [];
   const sources = [];
@@ -115,6 +128,8 @@ function renderSections(p) {
       }
       continue;
     }
+    if (/^key ingredients$/i.test(s.heading.trim()) && AFI_COMPOSED.has(p.slug)) continue;
+
     let content = stripSubsections(dropLines(s.content));
 
     // Research bullets are rewritten against the PubMed verdicts, so re-ingesting

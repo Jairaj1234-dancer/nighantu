@@ -16,7 +16,7 @@ aliases: ["Varunadi Kashayam", "VarunadiKashayam"]
 tags: ["ayurveda", "formulation", "kashayam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 445
+words: 412
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Varunadi-Kashayam/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,17 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Varunadi-Kas
 | Language | Name |
 |----------|------|
 | English | [Varunadi Kashayam](/nighantu/formulation/varunadi-kashayam/) |
-
-## Key Ingredients
-
-- [Varuna](/nighantu/herb/varuna/) (Crataeva nurvala)
-- [Gokshura](/nighantu/herb/gokshura/) (Tribulus terrestris)
-- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale)
-- [Yavakshara](/nighantu/herb/yavakshara/) (Barley alkali)
-- Aerua lanata ([Pashanabheda](/nighantu/herb/pashanabheda/))
-- Darbha (Desmostachya bipinnata)
-- Pathya/[Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula)
-- Bilwa (Aegle marmelos)
 
 ## Where is it described in the classical texts?
 

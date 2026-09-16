@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 467
+words: 418
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Ashwagandharishta/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,20 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Ashwaga
 | Language | Name |
 |----------|------|
 | English | Ashwagandharishta |
-
-## Key Ingredients
-
-- [Ashwagandha](/nighantu/herb/ashwagandha/) (Withania somnifera)
-- Musali (Chlorophytum tuberosum)
-- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (Glycyrrhiza glabra)
-- [Haridra](/nighantu/herb/haridra/) (Curcuma longa)
-- [Manjishtha](/nighantu/herb/manjishtha/) (Rubia cordifolia)
-- [Sariva](/nighantu/herb/sariva/) (Hemidesmus indicus)
-- [Vacha](/nighantu/herb/vacha/) (Acorus calamus)
-- [Trikatu](/nighantu/herb/trikatu/) (Piper longum, Piper nigrum, [Zingiber](/nighantu/herb/zingiber/) officinale)
-- [Chandana](/nighantu/herb/chandana/) (Santalum album)
-- [Dhataki](/nighantu/herb/dhataki/) pushpa (Woodfordia fruticosa)
-- Jaggery (fermentation medium)
 
 ## Where is it described in the classical texts?
 

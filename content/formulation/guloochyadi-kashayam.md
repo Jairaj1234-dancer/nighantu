@@ -16,7 +16,7 @@ aliases: ["Guloochyadi Kashayam", "GuloochyadiKashayam"]
 tags: ["ayurveda", "formulation", "kashayam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 434
+words: 405
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Guloochyadi-Kashayam/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,14 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Guloochyadi-
 | Language | Name |
 |----------|------|
 | English | [Guloochyadi Kashayam](/nighantu/formulation/guloochyadi-kashayam/) |
-
-## Key Ingredients
-
-- [Guduchi](/nighantu/herb/guduchi/) (Tinospora cordifolia)
-- [Dhanyaka](/nighantu/herb/dhanyaka/) (Coriandrum sativum)
-- [Nimba](/nighantu/herb/nimba/) (Azadirachta indica / [Neem](/nighantu/herb/neem/))
-- Raktachandana (Pterocarpus santalinus / Red Sandalwood)
-- [Padmaka](/nighantu/herb/padmaka/) (Prunus cerasoides / Wild Himalayan Cherry)
 
 ## Where is it described in the classical texts?
 

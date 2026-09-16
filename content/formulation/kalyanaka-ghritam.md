@@ -16,7 +16,7 @@ aliases: ["Kalyanaka Ghritam", "KalyanakaGhritam"]
 tags: ["ayurveda", "formulation", "ghritam", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 487
+words: 445
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Kalyanaka-Ghritam/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,19 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Kalyanaka
 | Language | Name |
 |----------|------|
 | English | Kalyanaka [Ghrita](/nighantu/herb/ghrita/)|Kalyanaka Ghrita [Mahakalyanaka Ghritam](/nighantu/glossary/concepts-a-m/#mahakalyanaka-ghritam) |
-
-## Key Ingredients
-
-- [Sariva](/nighantu/herb/sariva/) (Hemidesmus indicus)
-- [Haridra](/nighantu/herb/haridra/) (Curcuma longa)
-- [Daruharidra](/nighantu/herb/daruharidra/) (Berberis aristata)
-- Shalaparni (Desmodium gangeticum)
-- Prishnaparni (Uraria picta)
-- [Triphala](/nighantu/herb/triphala/) ([Haritaki](/nighantu/herb/haritaki/), Vibhitaki, Amalaki)
-- [Devadaru](/nighantu/herb/devadaru/) (Cedrus deodara)
-- [Bhadra](/nighantu/herb/bhadra/) Ela (Amomum subulatum)
-- [Ghrita](/nighantu/herb/ghrita/) (cow ghee)
-- [Ksheera](/nighantu/herb/ksheera/) (cow milk)
 
 ## Where is it described in the classical texts?
 

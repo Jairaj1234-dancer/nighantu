@@ -16,7 +16,7 @@ aliases: ["Jatyadi Taila", "JatyadiTaila"]
 tags: ["ayurveda", "formulation", "taila", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 740
+words: 672
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Jatyadi-Taila/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,20 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Jatyadi-Tai
 | Language | Name |
 |----------|------|
 | English | [Jatyadi Taila](/nighantu/formulation/jatyadi-taila/) |
-
-## Key Ingredients
-
-- [Jati](/nighantu/herb/jati/) (Jasminum grandiflorum / Jasmine)
-- [Nimba](/nighantu/herb/nimba/) (Azadirachta indica / [Neem](/nighantu/herb/neem/))
-- [Haridra](/nighantu/herb/haridra/) (Curcuma longa / [Turmeric](/nighantu/herb/turmeric/))
-- [Manjistha](/nighantu/herb/manjistha/) (Rubia cordifolia / Indian Madder)
-- [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula / Chebulic Myrobalan)
-- [Karanja](/nighantu/herb/karanja/) (Pongamia pinnata / Indian Beech)
-- [Daruharidra](/nighantu/herb/daruharidra/) (Berberis aristata / Indian Barberry)
-- [Katuki](/nighantu/herb/katuki/) (Picrorhiza kurroa)
-- [Patola](/nighantu/herb/patola/) (Trichosanthes dioica / Pointed Gourd)
-- Siktha (Beeswax)
-- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) ([Tila](/nighantu/herb/tila/) taila) base
 
 ## Where is it described in the classical texts?
 

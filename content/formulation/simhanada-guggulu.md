@@ -16,7 +16,7 @@ aliases: ["Simhanada Guggulu", "SimhanadaGuggulu"]
 tags: ["ayurveda", "formulation", "guggulu", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 480
+words: 444
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Simhanada-Guggulu/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,14 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Simhanada-Gu
 | Language | Name |
 |----------|------|
 | English | Simhanada [Guggulu](/nighantu/formulation/guggulu/)|Simhanada Guggulu |
-
-## Key Ingredients
-
-- Shuddha [Guggulu](/nighantu/formulation/guggulu/)|Shuddha Guggulu (Commiphora wightii)
-- [Triphala](/nighantu/herb/triphala/) - [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula), [Bibhitaki](/nighantu/herb/bibhitaki/) (Terminalia bellirica), Amalaki (Emblica officinalis)
-- Shuddha [Gandhaka](/nighantu/glossary/concepts-a-m/#gandhaka) (Purified Sulphur)
-- [Eranda](/nighantu/herb/eranda/) Taila (Castor oil - Ricinus communis)
-- Amrita/[Guduchi](/nighantu/herb/guduchi/) (Tinospora cordifolia)
 
 ## Where is it described in the classical texts?
 

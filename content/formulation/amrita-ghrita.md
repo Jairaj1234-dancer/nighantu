@@ -16,7 +16,7 @@ aliases: ["Amrita Ghrita", "AmritaGhrita"]
 tags: ["ayurveda", "formulation", "ghritam", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 530
+words: 462
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Amrita-Ghrita/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,23 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Amrita-Gh
 | Language | Name |
 |----------|------|
 | English | Amrita [Ghrita](/nighantu/herb/ghrita/)|Amrita Ghrita Amritaprasha [Ghrita](/nighantu/herb/ghrita/)|Amritaprasha Ghrita |
-
-## Key Ingredients
-
-- [Guduchi](/nighantu/herb/guduchi/) / Amrita (Tinospora cordifolia) - primary herb
-- Jeevaniya Gana herbs (life-promoting group)
-- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (Glycyrrhiza glabra / Licorice)
-- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale / [Ginger](/nighantu/herb/ginger/))
-- [Shatavari](/nighantu/herb/shatavari/) (Asparagus racemosus)
-- [Punarnava](/nighantu/herb/punarnava/) (Boerhaavia diffusa)
-- [Bala](/nighantu/herb/bala/) (Sida cordifolia)
-- [Bharangi](/nighantu/herb/bharangi/) (Clerodendrum serratum)
-- Atmagupta (Mucuna pruriens)
-- [Pippali](/nighantu/herb/pippali/) (Piper longum)
-- [Draksha](/nighantu/herb/draksha/) (Vitis vinifera / Raisins)
-- [Ghrita](/nighantu/herb/ghrita/) (cow ghee)
-- [Ksheera](/nighantu/herb/ksheera/) (cow milk)
-- [Madhu](/nighantu/herb/madhu/) (honey)
 
 ## Where is it described in the classical texts?
 

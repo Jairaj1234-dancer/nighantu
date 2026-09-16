@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 461
+words: 431
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Arjunarishta/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,16 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Arjunar
 | Language | Name |
 |----------|------|
 | English | Arjunarishta |
-
-## Key Ingredients
-
-- [Arjuna](/nighantu/herb/arjuna/) bark (Terminalia [arjuna](/nighantu/herb/arjuna/))
-- [Draksha](/nighantu/herb/draksha/) (Vitis vinifera / Dry grapes)
-- [Madhuka](/nighantu/herb/madhuka/) (Madhuca longifolia)
-- [Dhataki](/nighantu/herb/dhataki/) pushpa (Woodfordia fruticosa)
-- Mahua flowers
-- Jaggery (fermentation medium)
-- Water
 
 ## Where is it described in the classical texts?
 

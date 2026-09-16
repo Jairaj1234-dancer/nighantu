@@ -16,7 +16,7 @@ aliases: ["Chandraprabha Vati", "ChandraprabhaVati"]
 tags: ["ayurveda", "formulation", "vati", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 585
+words: 521
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Chandraprabha-Vati/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,24 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Chandraprabha-Vati/
 | Language | Name |
 |----------|------|
 | English | [Chandraprabha](/nighantu/herb/chandraprabha/) Vati |
-
-## Key Ingredients
-
-- [Chandraprabha](/nighantu/herb/chandraprabha/) ([Camphor](/nighantu/herb/camphor/))
-- [Vacha](/nighantu/herb/vacha/) (Acorus calamus)
-- Musta (Cyperus rotundus)
-- [Guggulu](/nighantu/formulation/guggulu/) (Commiphora mukul)
-- [Shilajit](/nighantu/herb/shilajit/) (mineral pitch)
-- [Loha Bhasma](/nighantu/herb/loha-bhasma/) (iron calx)
-- [Triphala](/nighantu/herb/triphala/) ([Haritaki](/nighantu/herb/haritaki/), [Bibhitaki](/nighantu/herb/bibhitaki/), Amalaki)
-- [Trikatu](/nighantu/herb/trikatu/) (Shunthi, Maricha, [Pippali](/nighantu/herb/pippali/))
-- [Vidanga](/nighantu/herb/vidanga/) (Embelia ribes)
-- [Guduchi](/nighantu/herb/guduchi/) (Tinospora cordifolia)
-- [Devadaru](/nighantu/herb/devadaru/) (Cedrus deodara)
-- Daruharidr (Berberis aristata)
-- Chirata (Swertia chirayita)
-- [Danti](/nighantu/herb/danti/) (Baliospermum montanum)
-- Total: 37 herbo-mineral ingredients
 
 ## Where is it described in the classical texts?
 

@@ -16,7 +16,7 @@ aliases: ["Madhusnuhi Rasayana", "MadhusnuhiRasayana"]
 tags: ["ayurveda", "formulation", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 454
+words: 369
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Rasayanas-Rejuvenatives/Madhusnuhi-Rasayana/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,25 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Rasayanas-Rejuvenatives/Madhusnuh
 | Language | Name |
 |----------|------|
 | English | [Madhusnuhi Rasayana](/nighantu/formulation/madhusnuhi-rasayana/) |
-
-## Key Ingredients
-
-- Madhusnuhi (Smilax china / China root) - primary ingredient
-- Shuddha [Gandhaka](/nighantu/glossary/concepts-a-m/#gandhaka) (purified sulfur)
-- Shuddha [Guggulu](/nighantu/formulation/guggulu/)|Shuddha Guggulu (purified Commiphora mukul)
-- [Triphala](/nighantu/herb/triphala/) ([Haritaki](/nighantu/herb/haritaki/), Vibhitaki, Amalaki)
-- [Trikatu](/nighantu/herb/trikatu/) (Maricha, [Pippali](/nighantu/herb/pippali/), Shunthi)
-- Trijaat (Twak, Ela, Patra - cinnamon, cardamom, bay leaf)
-- [Jatiphala](/nighantu/herb/jatiphala/) (Myristica fragrans / Nutmeg)
-- Chitraka (Plumbago zeylanica)
-- [Lavanga](/nighantu/herb/lavanga/) (Syzygium aromaticum / Clove)
-- [Vidanga](/nighantu/herb/vidanga/) (Embelia ribes)
-- [Chavya](/nighantu/herb/chavya/) (Piper chaba)
-- [Trivrit](/nighantu/herb/trivrit/) (Operculina turpethum)
-- Kushta (Saussurea lappa)
-- [Madhu](/nighantu/herb/madhu/) (honey)
-- [Ghrita](/nighantu/herb/ghrita/) (cow ghee)
-- Mishri (rock sugar)
 
 ## Where is it described in the classical texts?
 
