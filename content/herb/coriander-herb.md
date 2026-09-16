@@ -16,7 +16,7 @@ aliases: ["Coriander Herb", "CorianderHerb"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 315
+words: 294
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Coriander_Herb/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,8 +24,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Coriander_Herb/meta-analysis.
 | Language | Name |
 |----------|------|
 | English | Coriander_Herb |
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

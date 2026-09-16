@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Chavika is a substance used in the Ayurvedic materia medica. Usual dose: 1-3g powder twice daily; 50-100ml decoction; 500mg extract capsule. Pungent herb—start with lower doses."
-botanical: ""
+answer: "Chavika (Piper retrofractum) is a plant used in Ayurveda. Usual dose: 1-3g powder twice daily; 50-100ml decoction; 500mg extract capsule. Pungent herb—start with lower doses. Dosage Forms: Churna (powder), Kashayam (decoction), Tablet, Capsule, Component of compound formulations Standard Dosage: 1-3g powder twice daily; 50-100ml decoction; 500mg extract capsule."
+botanical: "Piper retrofractum"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 297
+words: 276
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chavika/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chavika/meta-analysis.md"
 | **Guna** (Quality) | Laghu, Ruksha | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

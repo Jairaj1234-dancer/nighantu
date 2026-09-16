@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Kitchen-Spices-Culinary"
-answer: "Rohisha is a substance used in the Ayurvedic materia medica. Usual dose: 1-3 g powder per day; 2-5 drops essential oil in carrier oil for external application; 10-20 mL arka twice daily."
-botanical: ""
+answer: "Rohisha (Cymbopogon martinii) is a plant used in Ayurveda. Usual dose: 1-3 g powder per day; 2-5 drops essential oil in carrier oil for external application; 10-20 mL arka twice daily."
+botanical: "Cymbopogon martinii"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "kitchen-spices-culinary", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 293
+words: 272
 srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Rohisha/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Rohisha/meta-analys
 | **Guna** (Quality) | Laghu, Tikshna | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

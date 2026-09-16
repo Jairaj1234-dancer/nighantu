@@ -16,7 +16,7 @@ aliases: ["Benincasa hispida (Thunb.) Cogn."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 584
+words: 563
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kushmanda/meta-analysis.md"
 ---
 ## Names and identification
@@ -60,8 +60,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kushmanda/meta-analysis.md"
 
 - Long history of dietary safety as a widely consumed vegetable; no significant toxicity reported in animal studies at doses up to 2000 mg/kg
 - Generally well-tolerated; may cause mild flatulence due to high fiber content; diabetic patients should monitor blood sugar (potential hypoglycemic synergy); no known drug interactions
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

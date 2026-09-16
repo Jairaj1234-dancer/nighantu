@@ -16,7 +16,7 @@ aliases: ["Citrus medica L."]
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 586
+words: 565
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Bijapura/meta-analysis.md"
 ---
 ## Names and identification
@@ -66,8 +66,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Bijapura/meta-analysis.m
 
 - Generally safe at dietary doses; citron is consumed as food and flavoring agent worldwide with GRAS status
 - Excessive use of essential oil may cause phototoxicity due to furanocoumarin content; [citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid) in juice may cause dental erosion with chronic excessive intake
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

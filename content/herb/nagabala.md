@@ -16,7 +16,7 @@ aliases: ["Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefol
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 530
+words: 509
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nagabala/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,14 +51,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nagabala/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
+
+
 *3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
 - Long history of traditional use with good safety record; no significant toxicity reported at Ayurvedic therapeutic doses; limited modern toxicological evaluation
 - Dual identity (Grewia hirsuta vs. Sida veronicifolia) used as Nagabala creates potential for botanical confusion; ensure correct identification for safe use
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

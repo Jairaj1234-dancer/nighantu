@@ -16,7 +16,7 @@ aliases: ["Leptadenia reticulata (Retz.) Wight & Arn."]
 tags: ["ayurveda", "herb", "single-herb", "rasayana-immunity", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 554
+words: 533
 srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Jivanti/meta-analysis.md"
 ---
 ## Names and identification
@@ -64,8 +64,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Jivanti/meta-analysis.md"
 - Acute toxicity studies showed aqueous extract safely tolerated up to 3.125 g/kg in rats with no mortality or adverse effects over the observation period
 - Leptaden (commercial formulation) described as non-hormonal and safe herbal drug, found safe for both mother and child with no toxic side effects
 - Listed as endangered/vulnerable species in India due to over-harvesting; sustainable sourcing is a critical concern; further formal human clinical trials needed to establish safety parameters
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Trees-Large-Plants"
-answer: "Kachnar is a substance used in the Ayurvedic materia medica. Usual dose: 3-6g bark powder twice daily; 500mg-1g extract; 50-100ml decoction; 2-4 Kanchanara Guggulu tablets twice daily."
-botanical: ""
+answer: "Kachnar (Bauhinia variegata) is a plant used in Ayurveda. Usual dose: 3-6g bark powder twice daily; 500mg-1g extract; 50-100ml decoction; 2-4 Kanchanara Guggulu tablets twice daily."
+botanical: "Bauhinia variegata"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 308
+words: 287
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kachnar/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kachnar/meta-analysis.md
 | **Guna** (Quality) | Laghu, Ruksha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

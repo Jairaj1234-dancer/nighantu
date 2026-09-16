@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Diabetes-Metabolism"
-answer: "Karela (Metabolism open) is a plant used in Ayurveda. Usual dose: 30-50 mL fresh juice daily (fasting); 3-6 g powder twice daily; 500 mg standardized extract capsule twice daily. WHO has included M."
+answer: "Karela (Momordica charantia) is a plant used in Ayurveda. Usual dose: 30-50 mL fresh juice daily (fasting); 3-6 g powder twice daily; 500 mg standardized extract capsule twice daily. WHO has included M."
 botanical: "Momordica charantia"
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "diabetes-metabolism", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "PubMed / NCBI (1789 publications)", "AgeAyurveda Product Catalog", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: ["Sugar Formula"]
-words: 1831
+words: 1810
 srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Karela/meta-analysis.md"
 ---
 ## Names and identification
@@ -143,8 +143,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Karela/meta-analysis.md
 - Contraindicated in G6PD deficiency: May trigger favism-like hemolytic syndrome.
 - Pregnancy caution: Abortifacient properties reported; avoid during pregnancy.
 - Not an approved drug in any major regulatory jurisdiction.
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

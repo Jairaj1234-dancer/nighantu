@@ -16,7 +16,7 @@ aliases: ["Pluchea lanceolata (DC.) Oliv. & Hiern / Alpinia galanga (L.) Willd."
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 638
+words: 617
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rasna/meta-analysis.md"
 ---
 ## Names and identification
@@ -62,8 +62,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rasna/meta-analysis.md"
 
 - Both sources of Rasna have long traditional safety records; Pluchea lanceolata is well-tolerated at standard doses with no significant toxicity in animal studies
 - Alpinia galanga preparations may cause mild gastric irritation in sensitive individuals; ensure correct botanical identity to avoid substitution-related safety issues
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

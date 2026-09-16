@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Fever-Infection"
-answer: "Parpataka is a substance used in the Ayurvedic materia medica. Usual dose: 1-3 g dried powder twice daily; 15-30 mL decoction twice daily; 10-20 mL cold infusion; 500-750 mg standardized extract daily."
-botanical: ""
+answer: "Parpataka (Fumaria parviflora) is a plant used in Ayurveda. Usual dose: 1-3 g dried powder twice daily; 15-30 mL decoction twice daily; 10-20 mL cold infusion; 500-750 mg standardized extract daily."
+botanical: "Fumaria parviflora"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "fever-infection", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 344
+words: 323
 srcRel: "Ayurveda/Herbs/Single-Herbs/Fever-Infection/Parpataka/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Fever-Infection/Parpataka/meta-analysis.md"
 | **Guna** (Quality) | Laghu | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

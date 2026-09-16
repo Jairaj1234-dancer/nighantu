@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Talisapatra is a substance used in the Ayurvedic materia medica. Usual dose: 1-3 g of churna twice daily; 40-80 mL kwatha twice daily. Lipophilic components benefit from co-administration with ghee or oil-based vehicles."
-botanical: ""
+answer: "Talisapatra (Abies webbiana) is a plant used in Ayurveda. Usual dose: 1-3 g of churna twice daily; 40-80 mL kwatha twice daily. Lipophilic components benefit from co-administration with ghee or oil-based vehicles."
+botanical: "Abies webbiana"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 296
+words: 275
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Talisapatra/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Talisapatra/meta-analysis.md"
 | **Guna** (Quality) | Laghu | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

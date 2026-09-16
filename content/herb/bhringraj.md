@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "hair-health", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "AgeAyurveda Product Catalog", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: ["Grow and Glow Hair Oil"]
-words: 679
+words: 658
 srcRel: "Ayurveda/Herbs/Single-Herbs/Hair-Health/Bhringraj/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,8 +53,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Hair-Health/Bhringraj/meta-analysis.md"
 - Avoid during pregnancy and lactation due to insufficient safety data and potential liver toxicity at high doses.
 - A case report of fixed drug eruption was documented after an Ayurvedic supplement containing Eclipta alba and Withania somnifera.
 - No well-controlled human safety trials; most toxicity data derived from animal models.
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

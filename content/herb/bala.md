@@ -16,7 +16,7 @@ aliases: ["Sida cordifolia"]
 tags: ["ayurveda", "herb", "single-herb", "rasayana-immunity", "rasayana", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu, Ashtanga Hridaya)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 461
+words: 440
 srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Bala/meta-analysis.md"
 ---
 ## Names and identification
@@ -93,6 +93,7 @@ Root powder: 3-6g/day; Oil (Bala Taila): external use
 ## What is it made of?
 
 **Part(s) Analyzed:** Root, Seed, Whole plant
+
 
 ## Dosage forms and preparation
 

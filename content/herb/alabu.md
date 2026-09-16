@@ -16,7 +16,7 @@ aliases: ["Lagenaria siceraria (Molina) Standl."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 548
+words: 527
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Alabu/meta-analysis.md"
 ---
 ## Names and identification
@@ -61,8 +61,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Alabu/meta-analysis.md"
 - Bitter variety of bottle gourd (containing high cucurbitacin levels) is toxic and has caused fatalities; only the non-bitter edible variety should be used medicinally
 - Fresh juice consumption in excess can cause gastrointestinal irritation, nausea, and vomiting; moderate consumption is generally safe
 - Bitter bottle gourd juice has been linked to cases of hematemesis and shock; taste-testing before consumption is strongly advised
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

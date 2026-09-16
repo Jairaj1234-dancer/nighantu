@@ -16,7 +16,7 @@ aliases: ["Shorea robusta Gaertn.f."]
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 497
+words: 476
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Sala/meta-analysis.md"
 ---
 ## Names and identification
@@ -57,14 +57,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Sala/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
+
+
 *3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
 - Resin (sal dammar) is generally regarded as safe for external and internal use at traditional doses; used widely in food grade applications
 - Seed oil is considered safe for consumption as an edible oil substitute; no reports of significant adverse effects. Formal clinical safety trials in humans remain limited.
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

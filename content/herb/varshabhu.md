@@ -16,7 +16,7 @@ aliases: ["Trianthema portulacastrum L. (primary identity); also associated with
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 566
+words: 545
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Varshabhu/meta-analysis.md"
 ---
 ## Names and identification
@@ -62,8 +62,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Varshabhu/meta-analysis.md"
 
 - Identity confusion exists between Trianthema portulacastrum and Boerhavia species in the market; correct botanical identification is essential before use
 - Trianthema portulacastrum in excess may cause hepatotoxicity; Boerhavia species are generally safer with established rasayana use; pregnant women should avoid both species
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

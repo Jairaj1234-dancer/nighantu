@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-12",
+ "updatedAt": "2026-09-16",
  "runs": [
   {
    "id": "botanical-identity",
@@ -102,13 +102,13 @@
     "matchedNothing": 727,
     "rejectedSpeciesKeywordOnly": 28,
     "pagesWithCitations": 647,
-    "distinctPapers": 2906,
-    "papersWithDoi": 2771,
+    "distinctPapers": 2880,
+    "papersWithDoi": 2745,
     "byTier": {
      "A": 149,
      "B": 90,
-     "C": 1069,
-     "D": 1598
+     "C": 1065,
+     "D": 1576
     }
    },
    "examples": []

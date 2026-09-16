@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 309
+words: 288
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Medasaka/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,8 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Medasaka/meta-analysis.md"
 | **Guna** (Quality) | Guru, Snigdha | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

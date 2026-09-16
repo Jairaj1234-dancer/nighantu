@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Joint-Musculoskeletal"
-answer: "Paribhadra is a substance used in the Ayurvedic materia medica. Usual dose: 1-3 g bark powder twice daily; 15-20 mL decoction twice daily; 500 mg standardized extract twice daily."
-botanical: ""
+answer: "Paribhadra (Erythrina variegata) is a plant used in Ayurveda. Usual dose: 1-3 g bark powder twice daily; 15-20 mL decoction twice daily; 500 mg standardized extract twice daily."
+botanical: "Erythrina variegata"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "joint-musculoskeletal", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 317
+words: 296
 srcRel: "Ayurveda/Herbs/Single-Herbs/Joint-Musculoskeletal/Paribhadra/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Joint-Musculoskeletal/Paribhadra/meta-analy
 | **Guna** (Quality) | Laghu | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

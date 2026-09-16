@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Skin-Beauty"
-answer: "Ananta Mool (Hemidesmus indicus) is a plant used in Ayurveda. Usual dose: 3-6g root powder twice daily; 50-100ml decoction; 500mg-1g extract capsule; 15-30ml syrup. Hemidesmus indicus (Indian Sarsaparilla) root contains 2-hydroxy-4-methoxybenzaldehyde as the primary aromatic compound with good GI absorption."
+answer: "Ananta Mool (Hemidesmus indicus) is a plant used in Ayurveda. Usual dose: 3-6g root powder twice daily; 50-100ml decoction; 500mg-1g extract capsule; 15-30ml syrup. Dosage Forms: Churna (root powder), Kashayam (decoction), Capsule, Tablet, Syrup, Sherbet (traditional cooling drink), Arishta (fermented preparation) Standard Dosage: 3-6g root powder twice daily; 50-100ml decoction; 500mg-1g extract capsule; 15-30ml syrup Bioavailability: Moderate oral bioavailability."
 botanical: "Hemidesmus indicus"
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Ananta Mool", "AnantaMool"]
 tags: ["ayurveda", "herb", "single-herb", "skin-beauty", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 339
+words: 318
 srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Ananta-Mool/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,8 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Ananta-Mool/meta-analysis.md"
 | **Guna** (Quality) | Laghu | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

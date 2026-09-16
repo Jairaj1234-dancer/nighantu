@@ -16,7 +16,7 @@ aliases: ["Onosma bracteatum Wall."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 654
+words: 633
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gojihva/meta-analysis.md"
 ---
 ## Names and identification
@@ -62,8 +62,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gojihva/meta-analysis.md"
 
 - Contains pyrrolizidine alkaloids (lycopsamine, supindine viridiflorate) in leaves which are hepatotoxic with chronic use; should not be used long-term internally
 - External use generally considered safe; internal use should be limited in duration and supervised; contraindicated in liver disease patients
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

@@ -16,7 +16,7 @@ aliases: ["Amra Beeja", "AmraBeeja"]
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 319
+words: 298
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Amra-Beeja/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,8 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Amra-Beeja/meta-analysis
 | **Guna** (Quality) | Laghu, Ruksha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

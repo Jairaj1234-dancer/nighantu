@@ -143,7 +143,7 @@ answer: "Phytochemical compounds (G-L) is a reference glossary of 73 entries dra
 
 #### Often Found With
 
-- [Tabasheer](/nighantu/glossary/concepts-m-y/#vamshalochana) (2 shared sources)
+- [Tabasheer](/nighantu/herb/vamshalochana/) (2 shared sources)
 - [Dalchini](/nighantu/herb/twak-cinnamon/) (2 shared sources)
 - [Jatamansi](/nighantu/herb/jatamansi/) (1 shared sources)
 

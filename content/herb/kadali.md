@@ -16,7 +16,7 @@ aliases: ["Musa paradisiaca L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 654
+words: 633
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali/meta-analysis.md"
 ---
 ## Names and identification
@@ -65,8 +65,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali/meta-analysis.md"
 - Banana is widely consumed as a staple food globally; GRAS status for food consumption with excellent safety profile
 - High [potassium](/nighantu/glossary/compounds-o-q/#potassium) content requires caution in patients with hyperkalemia or chronic kidney disease; may interact with potassium-sparing diuretics and ACE inhibitors
 - Latex allergy cross-reactivity exists (banana-latex-avocado syndrome); individuals with latex allergy should be cautioned about potential allergic reactions to banana
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Digestive-Health"
-answer: "Trapusha is a substance used in the Ayurvedic materia medica. Usual dose: 50-100 mL fresh cucumber juice twice daily; 3-6 g seed powder twice daily. Flavonoids (vitexin, orientin) show low to moderate bioavailability (10-20%)."
+answer: "Trapusha (Cucumis sativus) is a plant used in Ayurveda. Usual dose: 50-100 mL fresh cucumber juice twice daily; 3-6 g seed powder twice daily. Flavonoids (vitexin, orientin) show low to moderate bioavailability (10-20%)."
 botanical: "Cucumis sativus"
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "digestive-health", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 339
+words: 318
 srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Trapusha/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,8 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Trapusha/meta-analysis.md"
 | **Guna** (Quality) | Guru, Snigdha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

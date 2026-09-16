@@ -16,7 +16,7 @@ aliases: ["Madhuka Pushpa", "MadhukaPushpa"]
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 354
+words: 333
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Madhuka-Pushpa/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,8 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Madhuka-Pushpa/meta-anal
 | **Guna** (Quality) | Guru, Snigdha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

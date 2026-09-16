@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Ajmoda is a substance used in the Ayurvedic materia medica. Usual dose: 1-3g powder twice daily; 500mg-1g extract capsule; 2-5 drops essential oil (diluted, for external use)."
-botanical: ""
+answer: "Ajmoda (Apium leptophyllum) is a plant used in Ayurveda. Usual dose: 1-3g powder twice daily; 500mg-1g extract capsule; 2-5 drops essential oil (diluted, for external use)."
+botanical: "Apium leptophyllum"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 314
+words: 293
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ajmoda/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ajmoda/meta-analysis.md"
 | **Guna** (Quality) | Laghu, Ruksha | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

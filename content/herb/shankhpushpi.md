@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Brain-Nervous-System"
-answer: "Shankhpushpi is a substance used in the Ayurvedic materia medica. Usual dose: 3-6 g powder per day; 10-20 mL syrup twice daily; 500-1000 mg extract capsule twice daily; 5-10 mL swarasa twice daily; children: 2.5-5 mL syrup twice daily. Monographed in the Ayurvedic Pharmacopoeia of India (API) as Shankhpushpi (whole plant)."
-botanical: ""
+answer: "Shankhpushpi (Convolvulus pluricaulis) is a plant used in Ayurveda. Usual dose: 3-6 g powder per day; 10-20 mL syrup twice daily; 500-1000 mg extract capsule twice daily; 5-10 mL swarasa twice daily; children: 2.5-5 mL syrup twice daily. Monographed in the Ayurvedic Pharmacopoeia of India (API) as Shankhpushpi (whole plant)."
+botanical: "Convolvulus pluricaulis"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "brain-nervous-system", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "AgeAyurveda Product Catalog", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: ["ADHD Ease"]
-words: 722
+words: 701
 srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Shankhpushpi/meta-analysis.md"
 ---
 ## Names and identification
@@ -57,15 +57,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Shankhpushpi/meta-anal
 - Side effects uncommon; mild nausea possible due to bitter taste.
 - Cross-allergenicity possible in individuals allergic to Convolvulaceae family plants (e.g., sweet potato).
 - People with low blood pressure should use with caution; consult physician before use during pregnancy.
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-09-12",
- "count": 241,
+ "updatedAt": "2026-09-16",
+ "count": 279,
  "entries": {
   "Abelmoschus moschatus": {
    "status": "ok",
@@ -102,6 +102,11 @@
    "taxid": "52822",
    "checkedAt": "2026-09-12"
   },
+  "Alternanthera sessilis": {
+   "status": "ok",
+   "taxid": "221762",
+   "checkedAt": "2026-09-16"
+  },
   "Amaranthus spinosus": {
    "status": "ok",
    "taxid": "124765",
@@ -126,6 +131,11 @@
    "status": "ok",
    "taxid": "1068672",
    "checkedAt": "2026-09-12"
+  },
+  "Apium leptophyllum": {
+   "status": "ok",
+   "taxid": "2860399",
+   "checkedAt": "2026-09-16"
   },
   "Areca catechu": {
    "status": "ok",
@@ -197,6 +207,11 @@
    "taxid": "207296",
    "checkedAt": "2026-09-12"
   },
+  "Barleria strigosa": {
+   "status": "ok",
+   "taxid": "1749380",
+   "checkedAt": "2026-09-16"
+  },
   "Basella alba": {
    "status": "ok",
    "taxid": "3589",
@@ -222,6 +237,11 @@
    "taxid": "659592",
    "checkedAt": "2026-09-12"
   },
+  "Bergenia ciliata": {
+   "status": "ok",
+   "taxid": "278077",
+   "checkedAt": "2026-09-16"
+  },
   "Betula utilis": {
    "status": "ok",
    "taxid": "228163",
@@ -231,6 +251,11 @@
    "status": "not-found",
    "hits": 0,
    "checkedAt": "2026-09-12"
+  },
+  "Boerhaavia diffusa": {
+   "status": "ok",
+   "taxid": "930814",
+   "checkedAt": "2026-09-16"
   },
   "Bombax ceiba": {
    "status": "ok",
@@ -257,6 +282,11 @@
    "taxid": "56060",
    "checkedAt": "2026-09-12"
   },
+  "Caesalpinia bonduc": {
+   "status": "ok",
+   "taxid": "191881",
+   "checkedAt": "2026-09-16"
+  },
   "Caesalpinia sappan": {
    "status": "ok",
    "taxid": "483143",
@@ -271,6 +301,11 @@
    "status": "ok",
    "taxid": "536997",
    "checkedAt": "2026-09-12"
+  },
+  "Calotropis procera": {
+   "status": "ok",
+   "taxid": "141467",
+   "checkedAt": "2026-09-16"
   },
   "Cannabis sativa": {
    "status": "ok",
@@ -387,6 +422,11 @@
    "taxid": "13894",
    "checkedAt": "2026-09-12"
   },
+  "Coix lacryma-jobi": {
+   "status": "ok",
+   "taxid": "4505",
+   "checkedAt": "2026-09-16"
+  },
   "Coleus amboinicus": {
    "status": "ok",
    "taxid": "204180",
@@ -397,15 +437,35 @@
    "taxid": "246360",
    "checkedAt": "2026-09-12"
   },
+  "Convolvulus pluricaulis": {
+   "status": "not-found",
+   "hits": 0,
+   "checkedAt": "2026-09-16"
+  },
   "Coriandrum sativum": {
    "status": "ok",
    "taxid": "4047",
    "checkedAt": "2026-09-12"
   },
+  "Costus speciosus": {
+   "status": "ok",
+   "taxid": "49577",
+   "checkedAt": "2026-09-16"
+  },
+  "Crateva nurvala": {
+   "status": "ok",
+   "taxid": "1149812",
+   "checkedAt": "2026-09-16"
+  },
   "Crocus sativus": {
    "status": "ok",
    "taxid": "82528",
    "checkedAt": "2026-09-12"
+  },
+  "Crotalaria juncea": {
+   "status": "ok",
+   "taxid": "3829",
+   "checkedAt": "2026-09-16"
   },
   "Croton tiglium": {
    "status": "ok",
@@ -442,6 +502,11 @@
    "taxid": "136224",
    "checkedAt": "2026-09-12"
   },
+  "Cymbopogon martinii": {
+   "status": "ok",
+   "taxid": "79837",
+   "checkedAt": "2026-09-16"
+  },
   "Cynodon dactylon": {
    "status": "ok",
    "taxid": "28909",
@@ -452,10 +517,25 @@
    "taxid": "512623",
    "checkedAt": "2026-09-12"
   },
+  "Dalbergia sissoo": {
+   "status": "ok",
+   "taxid": "107308",
+   "checkedAt": "2026-09-16"
+  },
   "Desmodium gangeticum": {
    "status": "ok",
    "taxid": "670324",
    "checkedAt": "2026-09-12"
+  },
+  "Desmostachya bipinnata": {
+   "status": "ok",
+   "taxid": "1245295",
+   "checkedAt": "2026-09-16"
+  },
+  "Dioscorea bulbifera": {
+   "status": "ok",
+   "taxid": "35874",
+   "checkedAt": "2026-09-16"
   },
   "Diospyros peregrina": {
    "status": "ok",
@@ -482,10 +562,25 @@
    "taxid": "459629",
    "checkedAt": "2026-09-12"
   },
+  "Erythrina variegata": {
+   "status": "ok",
+   "taxid": "3845",
+   "checkedAt": "2026-09-16"
+  },
+  "Eucalyptus globulus": {
+   "status": "ok",
+   "taxid": "34317",
+   "checkedAt": "2026-09-16"
+  },
   "Euphorbia dracunculoides": {
    "status": "ok",
    "taxid": "1008446",
    "checkedAt": "2026-09-12"
+  },
+  "Euphorbia prostrata": {
+   "status": "ok",
+   "taxid": "212836",
+   "checkedAt": "2026-09-16"
   },
   "Fagonia cretica": {
    "status": "ok",
@@ -521,6 +616,11 @@
    "status": "ok",
    "taxid": "2849586",
    "checkedAt": "2026-09-12"
+  },
+  "Fumaria parviflora": {
+   "status": "ok",
+   "taxid": "1464625",
+   "checkedAt": "2026-09-16"
   },
   "Garcinia indica": {
    "status": "ok",
@@ -627,10 +727,20 @@
    "taxid": "1612632",
    "checkedAt": "2026-09-12"
   },
+  "Jasminum officinale": {
+   "status": "ok",
+   "taxid": "126433",
+   "checkedAt": "2026-09-16"
+  },
   "Juglans regia": {
    "status": "ok",
    "taxid": "51240",
    "checkedAt": "2026-09-12"
+  },
+  "Juniperus communis": {
+   "status": "ok",
+   "taxid": "58039",
+   "checkedAt": "2026-09-16"
   },
   "Justicia adhatoda": {
    "status": "ok",
@@ -642,6 +752,16 @@
    "taxid": "3668",
    "checkedAt": "2026-09-12"
   },
+  "Lawsonia inermis": {
+   "status": "ok",
+   "taxid": "141191",
+   "checkedAt": "2026-09-16"
+  },
+  "Leonotis nepetifolia": {
+   "status": "ok",
+   "taxid": "483799",
+   "checkedAt": "2026-09-16"
+  },
   "Lepidium sativum": {
    "status": "ok",
    "taxid": "33125",
@@ -651,6 +771,11 @@
    "status": "ok",
    "taxid": "492004",
    "checkedAt": "2026-09-12"
+  },
+  "Leucas cephalotes": {
+   "status": "ok",
+   "taxid": "1260214",
+   "checkedAt": "2026-09-16"
   },
   "Limonia acidissima": {
    "status": "ok",
@@ -666,6 +791,11 @@
    "status": "ok",
    "taxid": "136122",
    "checkedAt": "2026-09-12"
+  },
+  "Luffa acutangula": {
+   "status": "ok",
+   "taxid": "56866",
+   "checkedAt": "2026-09-16"
   },
   "Macrotyloma uniflorum": {
    "status": "ok",
@@ -711,6 +841,11 @@
    "status": "ok",
    "taxid": "29719",
    "checkedAt": "2026-09-12"
+  },
+  "Mesua ferrea": {
+   "status": "ok",
+   "taxid": "210380",
+   "checkedAt": "2026-09-16"
   },
   "Meyna spinosa": {
    "status": "ok",
@@ -787,6 +922,11 @@
    "taxid": "41398",
    "checkedAt": "2026-09-12"
   },
+  "Nymphaea alba": {
+   "status": "ok",
+   "taxid": "34301",
+   "checkedAt": "2026-09-16"
+  },
   "Ocimum tenuiflorum": {
    "status": "ok",
    "taxid": "204149",
@@ -842,10 +982,20 @@
    "taxid": "296036",
    "checkedAt": "2026-09-12"
   },
+  "Phyllanthus fraternus": {
+   "status": "ok",
+   "taxid": "427278",
+   "checkedAt": "2026-09-16"
+  },
   "Phyllanthus niruri": {
    "status": "ok",
    "taxid": "296034",
    "checkedAt": "2026-09-12"
+  },
+  "Picrorhiza kurroa": {
+   "status": "ok",
+   "taxid": "195120",
+   "checkedAt": "2026-09-16"
   },
   "Piper cubeba": {
    "status": "ok",
@@ -957,6 +1107,11 @@
    "taxid": "3988",
    "checkedAt": "2026-09-12"
   },
+  "Rosa centifolia": {
+   "status": "ok",
+   "taxid": "396733",
+   "checkedAt": "2026-09-16"
+  },
   "Roscoea purpurea": {
    "status": "ok",
    "taxid": "97783",
@@ -967,6 +1122,11 @@
    "taxid": "339321",
    "checkedAt": "2026-09-12"
   },
+  "Saccharum bengalense": {
+   "status": "ok",
+   "taxid": "1249013",
+   "checkedAt": "2026-09-16"
+  },
   "Saccharum officinarum": {
    "status": "ok",
    "taxid": "4547",
@@ -976,6 +1136,11 @@
    "status": "ok",
    "taxid": "45325",
    "checkedAt": "2026-09-12"
+  },
+  "Salvadora persica": {
+   "status": "ok",
+   "taxid": "4326",
+   "checkedAt": "2026-09-16"
   },
   "Salvia officinalis": {
    "status": "ok",
@@ -1001,6 +1166,16 @@
    "status": "ok",
    "taxid": "2840175",
    "checkedAt": "2026-09-12"
+  },
+  "Scirpus kysoor": {
+   "status": "not-found",
+   "hits": 0,
+   "checkedAt": "2026-09-16"
+  },
+  "Senna tora": {
+   "status": "ok",
+   "taxid": "362788",
+   "checkedAt": "2026-09-16"
   },
   "Sesamum indicum": {
    "status": "ok",
@@ -1062,6 +1237,11 @@
    "taxid": "3562",
    "checkedAt": "2026-09-12"
   },
+  "Stereospermum chelonoides": {
+   "status": "ok",
+   "taxid": "1401050",
+   "checkedAt": "2026-09-16"
+  },
   "Strychnos potatorum": {
    "status": "ok",
    "taxid": "85835",
@@ -1091,6 +1271,11 @@
    "status": "ok",
    "taxid": "25629",
    "checkedAt": "2026-09-12"
+  },
+  "Tecomella undulata": {
+   "status": "ok",
+   "taxid": "680229",
+   "checkedAt": "2026-09-16"
   },
   "Tephrosia purpurea": {
    "status": "ok",
@@ -1206,6 +1391,11 @@
    "status": "ok",
    "taxid": "94328",
    "checkedAt": "2026-09-12"
+  },
+  "Ziziphus mauritiana": {
+   "status": "ok",
+   "taxid": "157914",
+   "checkedAt": "2026-09-16"
   }
  }
 }

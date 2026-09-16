@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Trees-Large-Plants"
-answer: "Chirabilva (Holoptelea integrifolia) is a plant used in Ayurveda. Usual dose: 3-6g powder twice daily; 50-100ml decoction; 500mg extract capsule. Traditional dosing per Vaidya guidance."
+answer: "Chirabilva (Holoptelea integrifolia) is a plant used in Ayurveda. Usual dose: 3-6g powder twice daily; 50-100ml decoction; 500mg extract capsule. Traditional dosing per Vaidya guidance. Dosage Forms: Churna (powder), Kashayam (decoction), Capsule, Tablet, Taila (oil) Standard Dosage: 3-6g powder twice daily; 50-100ml decoction; 500mg extract capsule."
 botanical: "Holoptelea integrifolia"
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 295
+words: 274
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Chirabilva/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,8 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Chirabilva/meta-analysis
 | **Guna** (Quality) | Laghu, Ruksha | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

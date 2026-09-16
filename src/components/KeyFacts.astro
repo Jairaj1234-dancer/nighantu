@@ -45,6 +45,7 @@ const CLASS_LABEL: Record<string, string> = {
   formulation: 'Compound formulation of several ingredients, not a single plant',
   'compound-or-isolate': 'Isolated compound or extract, not a whole plant drug',
   'plant-product-mixture': 'Preparation made from plant material, not a single plant drug',
+  uncertain: 'Identity unsettled: the sources disagree on what this drug is, so no botanical name is given',
 };
 const substanceType = ident?.substanceClass ? CLASS_LABEL[ident.substanceClass] ?? '' : '';
 const apiCite = ident?.api && botanical

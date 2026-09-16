@@ -16,7 +16,7 @@ aliases: ["Agaricus campestris L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 575
+words: 554
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chhatraka/meta-analysis.md"
 ---
 ## Names and identification
@@ -62,8 +62,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chhatraka/meta-analysis.md"
 - Field mushrooms (A. campestris) are edible and widely consumed with long history of safe dietary use; however, misidentification with toxic Amanita species poses a significant safety risk
 - Agaritine, a naturally occurring hydrazine derivative in Agaricus species, has raised theoretical carcinogenicity concerns, though levels in A. campestris are much lower than in A. bisporus and are largely destroyed by cooking
 - Individuals with mushroom allergies or autoimmune conditions should exercise caution; immunostimulatory beta-glucans may exacerbate autoimmune responses
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

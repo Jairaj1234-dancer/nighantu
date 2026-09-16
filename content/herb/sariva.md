@@ -16,7 +16,7 @@ aliases: ["Hemidesmus indicus"]
 tags: ["ayurveda", "herb", "single-herb", "skin-beauty", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu, Ashtanga Hridaya)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 431
+words: 410
 srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Sariva/meta-analysis.md"
 ---
 ## Names and identification
@@ -88,6 +88,7 @@ Root powder: 3-6g/day; Decoction: 50-100ml/day; Syrup ([Sarivadyasava](/nighantu
 ## What is it made of?
 
 **Part(s) Analyzed:** Root
+
 
 ## Dosage forms and preparation
 

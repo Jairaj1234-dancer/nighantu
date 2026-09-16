@@ -16,7 +16,7 @@ aliases: ["Allium sativum L.", "Rasona Garlic", "RasonaGarlic"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 811
+words: 790
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rasona-Garlic/meta-analysis.md"
 ---
 ## Names and identification
@@ -65,8 +65,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rasona-Garlic/meta-analysis.m
 - Most common adverse effects are garlic breath and body odor; nausea and vomiting may occur at high doses; allergic reactions documented (contact dermatitis, urticaria, angioedema, rare anaphylaxis)
 - Garlic may enhance anticoagulant effects of warfarin and increase bleeding risk; discontinue 7-10 days before surgery; may reduce efficacy of anti-HIV drugs (saquinavir)
 - Fresh garlic applied topically under occlusive dressings can cause chemical burns; raw garlic consumption on empty stomach may cause gastrointestinal irritation; nursing mothers should note that garlic consumption modifies infant feeding behavior
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

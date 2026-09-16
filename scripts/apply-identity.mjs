@@ -38,7 +38,11 @@ const FOLDER_CLASS = [
   [/^Rasa-Shastra-Alchemical-Preparations/, 'rasa-preparation'],
   [/^Animal-Derived-Products/, 'animal'],
 ];
-const AGENT_CLASS = new Set(['formulation', 'compound-or-isolate', 'plant-product-mixture', 'mineral', 'animal']);
+// 'uncertain' is a publishable state, not a failure. Several of these pages describe a
+// drug the sources genuinely disagree about (Agnijara is read as ambergris, as amber and
+// as a mineral), and a page that says the identity is unsettled tells a reader more than
+// a blank botanical row, which reads as "we did not look".
+const AGENT_CLASS = new Set(['formulation', 'compound-or-isolate', 'plant-product-mixture', 'mineral', 'animal', 'uncertain']);
 
 const pages = new Map();
 for (const f of fs.readdirSync(path.join('content', 'herb'))) {

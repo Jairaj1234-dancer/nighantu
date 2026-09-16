@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Digestive-Health"
-answer: "Ishabgula (Plantago ovata) is a plant used in Ayurveda. Usual dose: 5-10g seed powder with adequate water; 3-6g seed decoction. Mucilage is not systemically absorbed (acts locally). Seed oil fraction contains linoleic acid and oleic acid with good absorption."
+answer: "Ishabgula (Plantago ovata) is a plant used in Ayurveda. Usual dose: 5-10g seed powder with adequate water; 3-6g seed decoction. Dosage Forms: Seed powder, Churna (powder), Capsule, Decoction Standard Dosage: 5-10g seed powder with adequate water; 3-6g seed decoction Bioavailability: Ishabgula (whole Plantago ovata seeds, distinct from Isabgol husk) contain mucilage, fixed oil, and proteins."
 botanical: "Plantago ovata"
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "digestive-health", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 280
+words: 259
 srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Ishabgula/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,8 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Ishabgula/meta-analysis.md
 | **Guna** (Quality) | Guru, Snigdha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

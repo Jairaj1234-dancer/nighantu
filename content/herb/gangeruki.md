@@ -16,7 +16,7 @@ aliases: ["Grewia tenax (Forssk.) Fiori"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 599
+words: 578
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gangeruki/meta-analysis.md"
 ---
 ## Names and identification
@@ -63,8 +63,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gangeruki/meta-analysis.md"
 - Acute oral toxicity studies showed no adverse effects at 5000 mg/kg extract administration in animal models, indicating excellent oral safety profile
 - Traditionally consumed as food (fruits eaten fresh, dried, or as flour) with long safety history across Africa and India
 - No significant drug interactions documented; root extract used traditionally for fertility enhancement was found to be orally safe in preclinical evaluation
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

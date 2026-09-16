@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-11",
+ "updatedAt": "2026-09-16",
  "english": {
   "Madhura": "sweet",
   "Amla": "sour",
@@ -162,7 +162,7 @@
    "kind": "herb",
    "slug": "ajmoda",
    "title": "Ajmoda",
-   "botanical": "",
+   "botanical": "Apium leptophyllum",
    "sanskrit": "",
    "rasa": [
     "Katu",
@@ -471,7 +471,7 @@
    "kind": "herb",
    "slug": "arka",
    "title": "Arka",
-   "botanical": "",
+   "botanical": "Calotropis procera",
    "sanskrit": "",
    "rasa": [
     "Katu",
@@ -681,7 +681,7 @@
    "kind": "herb",
    "slug": "badara",
    "title": "Badara",
-   "botanical": "",
+   "botanical": "Ziziphus mauritiana",
    "sanskrit": "",
    "rasa": [
     "Madhura",
@@ -834,7 +834,7 @@
    "kind": "herb",
    "slug": "bhumyamalaki",
    "title": "Bhumyamalaki",
-   "botanical": "",
+   "botanical": "Phyllanthus fraternus",
    "sanskrit": "",
    "rasa": [
     "Tikta",
@@ -1113,7 +1113,7 @@
    "kind": "herb",
    "slug": "chavika",
    "title": "Chavika",
-   "botanical": "",
+   "botanical": "Piper retrofractum",
    "sanskrit": "",
    "rasa": [
     "Katu"
@@ -1470,7 +1470,7 @@
    "kind": "herb",
    "slug": "dronapushpi",
    "title": "Dronapushpi",
-   "botanical": "",
+   "botanical": "Leucas cephalotes",
    "sanskrit": "",
    "rasa": [
     "Katu",
@@ -1492,7 +1492,7 @@
    "kind": "herb",
    "slug": "dugdhika",
    "title": "Dugdhika",
-   "botanical": "",
+   "botanical": "Euphorbia prostrata",
    "sanskrit": "",
    "rasa": [
     "Katu",
@@ -1620,7 +1620,7 @@
    "kind": "herb",
    "slug": "gavedhuka",
    "title": "Gavedhuka",
-   "botanical": "",
+   "botanical": "Coix lacryma-jobi",
    "sanskrit": "",
    "rasa": [
     "Madhura",
@@ -1662,7 +1662,7 @@
    "kind": "herb",
    "slug": "granthiparni",
    "title": "Granthiparni",
-   "botanical": "",
+   "botanical": "Leonotis nepetifolia",
    "sanskrit": "",
    "rasa": [
     "Katu",
@@ -1763,7 +1763,7 @@
    "kind": "herb",
    "slug": "hapusa",
    "title": "Hapusa",
-   "botanical": "",
+   "botanical": "Juniperus communis",
    "sanskrit": "",
    "rasa": [
     "Katu",
@@ -1850,7 +1850,7 @@
    "kind": "herb",
    "slug": "indrayava",
    "title": "Indrayava",
-   "botanical": "",
+   "botanical": "Holarrhena pubescens",
    "sanskrit": "",
    "rasa": [
     "Tikta",
@@ -1979,7 +1979,7 @@
    "kind": "herb",
    "slug": "jati",
    "title": "Jati",
-   "botanical": "",
+   "botanical": "Jasminum officinale",
    "sanskrit": "",
    "rasa": [
     "Katu",
@@ -2065,7 +2065,7 @@
    "kind": "herb",
    "slug": "kachnar",
    "title": "Kachnar",
-   "botanical": "",
+   "botanical": "Bauhinia variegata",
    "sanskrit": "",
    "rasa": [
     "Kashaya"
@@ -2468,7 +2468,7 @@
    "kind": "herb",
    "slug": "kasheruka",
    "title": "Kasheruka",
-   "botanical": "",
+   "botanical": "Scirpus kysoor",
    "sanskrit": "",
    "rasa": [
     "Madhura",
@@ -2513,7 +2513,7 @@
    "kind": "herb",
    "slug": "katuki",
    "title": "Katuki",
-   "botanical": "",
+   "botanical": "Picrorhiza kurroa",
    "sanskrit": "",
    "rasa": [
     "Tikta"
@@ -2533,7 +2533,7 @@
    "kind": "herb",
    "slug": "kembuka",
    "title": "Kembuka",
-   "botanical": "",
+   "botanical": "Costus speciosus",
    "sanskrit": "",
    "rasa": [
     "Tikta",
@@ -2638,7 +2638,7 @@
    "kind": "herb",
    "slug": "koshataki",
    "title": "Koshataki",
-   "botanical": "",
+   "botanical": "Luffa acutangula",
    "sanskrit": "",
    "rasa": [
     "Tikta"
@@ -2766,7 +2766,7 @@
    "kind": "herb",
    "slug": "kumuda",
    "title": "Kumuda",
-   "botanical": "",
+   "botanical": "Nymphaea alba",
    "sanskrit": "",
    "rasa": [
     "Tikta",
@@ -2828,7 +2828,7 @@
    "kind": "herb",
    "slug": "kusha",
    "title": "Kusha",
-   "botanical": "",
+   "botanical": "Desmostachya bipinnata",
    "sanskrit": "",
    "rasa": [
     "Tikta"
@@ -2976,7 +2976,7 @@
    "kind": "herb",
    "slug": "latakaranja",
    "title": "Latakaranja",
-   "botanical": "",
+   "botanical": "Caesalpinia bonduc",
    "sanskrit": "",
    "rasa": [
     "Tikta",
@@ -3041,7 +3041,7 @@
    "kind": "herb",
    "slug": "madayantika",
    "title": "Madayantika",
-   "botanical": "",
+   "botanical": "Lawsonia inermis",
    "sanskrit": "",
    "rasa": [
     "Tikta",
@@ -3228,7 +3228,7 @@
    "kind": "herb",
    "slug": "matsyakshi",
    "title": "Matsyakshi",
-   "botanical": "",
+   "botanical": "Alternanthera sessilis",
    "sanskrit": "",
    "rasa": [
     "Tikta",
@@ -3397,7 +3397,7 @@
    "kind": "herb",
    "slug": "nagakesara",
    "title": "Nagakesara",
-   "botanical": "",
+   "botanical": "Mesua ferrea",
    "sanskrit": "",
    "rasa": [
     "Kashaya"
@@ -3592,7 +3592,7 @@
    "kind": "herb",
    "slug": "paribhadra",
    "title": "Paribhadra",
-   "botanical": "",
+   "botanical": "Erythrina variegata",
    "sanskrit": "",
    "rasa": [
     "Tikta",
@@ -3635,7 +3635,7 @@
    "kind": "herb",
    "slug": "parpataka",
    "title": "Parpataka",
-   "botanical": "",
+   "botanical": "Fumaria parviflora",
    "sanskrit": "",
    "rasa": [
     "Tikta"
@@ -3655,7 +3655,7 @@
    "kind": "herb",
    "slug": "pashanabheda",
    "title": "Pashanabheda",
-   "botanical": "",
+   "botanical": "Bergenia ciliata",
    "sanskrit": "",
    "rasa": [
     "Tikta",
@@ -3677,7 +3677,7 @@
    "kind": "herb",
    "slug": "patala",
    "title": "Patala",
-   "botanical": "",
+   "botanical": "Stereospermum chelonoides",
    "sanskrit": "",
    "rasa": [
     "Tikta"
@@ -3698,7 +3698,7 @@
    "kind": "herb",
    "slug": "patha",
    "title": "Patha",
-   "botanical": "",
+   "botanical": "Cissampelos pareira",
    "sanskrit": "",
    "rasa": [
     "Tikta"
@@ -3761,7 +3761,7 @@
    "kind": "herb",
    "slug": "pilu",
    "title": "Pilu",
-   "botanical": "",
+   "botanical": "Salvadora persica",
    "sanskrit": "",
    "rasa": [
     "Katu",
@@ -3801,7 +3801,7 @@
    "kind": "herb",
    "slug": "prapunnada",
    "title": "Prapunnada",
-   "botanical": "",
+   "botanical": "Senna tora",
    "sanskrit": "",
    "rasa": [
     "Katu"
@@ -3949,7 +3949,7 @@
    "kind": "herb",
    "slug": "rohisha",
    "title": "Rohisha",
-   "botanical": "",
+   "botanical": "Cymbopogon martinii",
    "sanskrit": "",
    "rasa": [
     "Katu",
@@ -3971,7 +3971,7 @@
    "kind": "herb",
    "slug": "rohitaka",
    "title": "Rohitaka",
-   "botanical": "",
+   "botanical": "Tecomella undulata",
    "sanskrit": "",
    "rasa": [
     "Tikta",
@@ -4031,7 +4031,7 @@
    "kind": "herb",
    "slug": "saireyaka",
    "title": "Saireyaka",
-   "botanical": "",
+   "botanical": "Barleria strigosa",
    "sanskrit": "",
    "rasa": [
     "Tikta",
@@ -4185,7 +4185,7 @@
    "kind": "herb",
    "slug": "shana",
    "title": "Shana",
-   "botanical": "",
+   "botanical": "Crotalaria juncea",
    "sanskrit": "",
    "rasa": [
     "Kashaya"
@@ -4226,7 +4226,7 @@
    "kind": "herb",
    "slug": "shara",
    "title": "Shara",
-   "botanical": "",
+   "botanical": "Saccharum bengalense",
    "sanskrit": "",
    "rasa": [
     "Madhura",
@@ -4351,7 +4351,7 @@
    "kind": "herb",
    "slug": "simsapa",
    "title": "Simsapa",
-   "botanical": "",
+   "botanical": "Dalbergia sissoo",
    "sanskrit": "",
    "rasa": [
     "Kashaya",
@@ -4560,7 +4560,7 @@
    "kind": "herb",
    "slug": "talisapatra",
    "title": "Talisapatra",
-   "botanical": "",
+   "botanical": "Abies webbiana",
    "sanskrit": "",
    "rasa": [
     "Katu"
@@ -4580,7 +4580,7 @@
    "kind": "herb",
    "slug": "tamalpatra",
    "title": "Tamalpatra",
-   "botanical": "",
+   "botanical": "Cinnamomum tamala",
    "sanskrit": "",
    "rasa": [
     "Tikta",
@@ -4622,7 +4622,7 @@
    "kind": "herb",
    "slug": "taruni",
    "title": "Taruni",
-   "botanical": "",
+   "botanical": "Rosa centifolia",
    "sanskrit": "",
    "rasa": [
     "Tikta",
@@ -4729,7 +4729,7 @@
    "kind": "herb",
    "slug": "trapusha",
    "title": "Trapusha",
-   "botanical": "",
+   "botanical": "Cucumis sativus",
    "sanskrit": "",
    "rasa": [
     "Madhura"
@@ -4804,7 +4804,7 @@
    "kind": "herb",
    "slug": "tumburu",
    "title": "Tumburu",
-   "botanical": "",
+   "botanical": "Zanthoxylum armatum",
    "sanskrit": "",
    "rasa": [
     "Katu",
@@ -4888,7 +4888,7 @@
    "kind": "herb",
    "slug": "utingana",
    "title": "Utingana",
-   "botanical": "",
+   "botanical": "Blepharis persica",
    "sanskrit": "",
    "rasa": [
     "Madhura"
@@ -4953,7 +4953,7 @@
    "kind": "herb",
    "slug": "varahikanda",
    "title": "Varahikanda",
-   "botanical": "",
+   "botanical": "Dioscorea bulbifera",
    "sanskrit": "",
    "rasa": [
     "Madhura"
@@ -4996,7 +4996,7 @@
    "kind": "herb",
    "slug": "varuna",
    "title": "Varuna",
-   "botanical": "",
+   "botanical": "Crateva nurvala",
    "sanskrit": "",
    "rasa": [
     "Tikta",
@@ -5080,7 +5080,7 @@
    "kind": "herb",
    "slug": "vidari",
    "title": "Vidari",
-   "botanical": "",
+   "botanical": "Pueraria tuberosa",
    "sanskrit": "",
    "rasa": [
     "Madhura"
@@ -5186,7 +5186,7 @@
    "kind": "herb",
    "slug": "yavasa",
    "title": "Yavasa",
-   "botanical": "",
+   "botanical": "Alhagi pseudalhagi",
    "sanskrit": "",
    "rasa": [
     "Madhura",

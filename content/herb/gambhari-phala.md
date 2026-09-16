@@ -16,7 +16,7 @@ aliases: ["Gambhari Phala", "GambhariPhala", "Gmelina arborea Roxb."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 641
+words: 620
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gambhari-Phala/meta-analysis.md"
 ---
 ## Names and identification
@@ -63,8 +63,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gambhari-Phala/meta-analysis.
 - Fruits are edible and traditionally consumed as food; general safety profile supported by long traditional use as both food and medicine in Ayurveda
 - Limited formal toxicity studies available; no significant adverse effects reported in traditional use at standard doses
 - Use with caution in patients on anticoagulant therapy due to potential additive effects; avoid standardized extracts during pregnancy due to insufficient safety data
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

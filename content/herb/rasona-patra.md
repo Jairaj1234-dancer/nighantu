@@ -16,7 +16,7 @@ aliases: ["Allium sativum L. (leaves/greens)", "Rasona Patra", "RasonaPatra"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 693
+words: 672
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rasona-Patra/meta-analysis.md"
 ---
 ## Names and identification
@@ -64,8 +64,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rasona-Patra/meta-analysis.md
 - Garlic leaves (green garlic/garlic scapes) are consumed as food worldwide with excellent safety profile; milder flavor and lower organosulfur content compared to bulb
 - Similar precautions as garlic bulb apply but at lower intensity due to reduced allicin content: potential for mild GI irritation, garlic odor, and theoretical anticoagulant effects
 - Contact dermatitis possible in sensitized individuals; cross-reactivity with other Allium species (onion, leek) documented
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

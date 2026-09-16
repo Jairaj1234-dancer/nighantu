@@ -16,7 +16,7 @@ aliases: ["Ajwain Herb", "AjwainHerb"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 266
+words: 245
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ajwain_Herb/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,8 +24,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ajwain_Herb/meta-analysis.md"
 | Language | Name |
 |----------|------|
 | English | Ajwain_Herb |
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

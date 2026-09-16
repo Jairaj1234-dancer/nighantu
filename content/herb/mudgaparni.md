@@ -16,7 +16,7 @@ aliases: ["Phaseolus trilobus Ait. (syn. Vigna trilobata (L.) Verdc.)"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 468
+words: 447
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mudgaparni/meta-analysis.md"
 ---
 ## Names and identification
@@ -53,14 +53,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mudgaparni/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
+
+
 *3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
 - Widely consumed as a pulse (Ranmoong) in tropical regions, indicating high dietary safety; used in [Chyawanprash](/nighantu/formulation/chyawanprash/) formulation historically
 - No adverse effects reported in animal studies at doses up to 400 mg/kg; comprehensive human clinical safety data still needed
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

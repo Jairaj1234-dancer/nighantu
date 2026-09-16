@@ -16,7 +16,7 @@ aliases: ["Clitoria ternatea L. (same species as Aparajita; Gokarna is a regiona
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 680
+words: 659
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gokarna/meta-analysis.md"
 ---
 ## Names and identification
@@ -62,8 +62,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gokarna/meta-analysis.md"
 
 - Blue flower tea is widely consumed globally with no significant adverse effects at culinary doses; classified as safe food colorant
 - Potential mild [diuretic](/nighantu/reference/diuretic/) and blood platelet aggregation inhibition effects; caution with anticoagulant medications; limited clinical trial data for therapeutic doses
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

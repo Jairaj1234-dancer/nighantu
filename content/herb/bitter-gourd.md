@@ -16,7 +16,7 @@ aliases: ["Bitter Gourd", "BitterGourd"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 302
+words: 281
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bitter_Gourd/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,8 +24,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bitter_Gourd/meta-analysis.md
 | Language | Name |
 |----------|------|
 | English | Bitter_Gourd |
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

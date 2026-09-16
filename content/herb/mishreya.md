@@ -16,7 +16,7 @@ aliases: ["Foeniculum vulgare Mill."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 670
+words: 649
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mishreya/meta-analysis.md"
 ---
 ## Names and identification
@@ -64,8 +64,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mishreya/meta-analysis.md"
 
 - GRAS (Generally Recognized as Safe) by FDA; however, estragole component has raised genotoxicity concerns - EMA recommends limiting estragole exposure; [fennel](/nighantu/herb/fennel/) products should be standardized for estragole content
 - Phytoestrogenic effects warrant caution in hormone-sensitive conditions (breast cancer, endometriosis); potential interactions with anticoagulants and ciprofloxacin; allergic cross-reactivity possible in patients with celery/carrot/mugwort allergy (celery-birch-mugwort-spice syndrome)
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

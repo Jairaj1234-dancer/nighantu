@@ -16,7 +16,7 @@ aliases: ["Cichorium intybus L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 561
+words: 540
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kasani/meta-analysis.md"
 ---
 ## Names and identification
@@ -60,8 +60,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kasani/meta-analysis.md"
 
 - Generally recognized as safe (GRAS) as a food; widely consumed as coffee substitute; mild allergic reactions possible in individuals sensitive to Asteraceae family plants
 - High inulin content may cause bloating and flatulence in sensitive individuals; caution in patients with gallstones (chicory may stimulate bile production); limited data in pregnancy
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

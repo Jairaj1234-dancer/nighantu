@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Skin-Beauty"
-answer: "Amra Haridra (Curcuma amada) is a plant used in Ayurveda. Usual dose: 2-4g powder twice daily; 500mg extract capsule twice daily; topical paste as needed. Curcuma amada (mango ginger) contains curcuminoids similar to turmeric but in lower concentrations, plus unique difurocumenonol."
+answer: "Amra Haridra (Curcuma amada) is a plant used in Ayurveda. Usual dose: 2-4g powder twice daily; 500mg extract capsule twice daily; topical paste as needed. Dosage Forms: Churna (powder), Capsule, Tablet, Kashayam (decoction), Lepa (paste for topical use) Standard Dosage: 2-4g powder twice daily; 500mg extract capsule twice daily; topical paste as needed Bioavailability: Moderate oral bioavailability."
 botanical: "Curcuma amada"
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Amra Haridra", "AmraHaridra"]
 tags: ["ayurveda", "herb", "single-herb", "skin-beauty", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 319
+words: 298
 srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Amra-Haridra/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,8 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Amra-Haridra/meta-analysis.md"
 | **Guna** (Quality) | Laghu | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

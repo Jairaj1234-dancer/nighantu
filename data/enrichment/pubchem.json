@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-09-12",
- "count": 851,
+ "updatedAt": "2026-09-16",
+ "count": 874,
  "entries": {
   "10-Deacetylbaccatin III": {
    "status": "ok",
@@ -312,9 +312,17 @@
    "status": "not-found",
    "checkedAt": "2026-09-12"
   },
+  "Amalaki - [antioxidant] potentiation": {
+   "status": "not-found",
+   "checkedAt": "2026-09-16"
+  },
   "Amalaki Churna )": {
    "status": "not-found",
    "checkedAt": "2026-09-12"
+  },
+  "Amalaki synergy)": {
+   "status": "not-found",
+   "checkedAt": "2026-09-16"
   },
   "Amaranthine": {
    "status": "ok",
@@ -425,6 +433,14 @@
   "Aqueous decoction of bark/leaves": {
    "status": "not-found",
    "checkedAt": "2026-09-12"
+  },
+  "Aqueous extraction": {
+   "status": "not-found",
+   "checkedAt": "2026-09-16"
+  },
+  "Aqueous infusion": {
+   "status": "not-found",
+   "checkedAt": "2026-09-16"
   },
   "Ar-turmerone": {
    "status": "ok",
@@ -1422,6 +1438,10 @@
    "status": "not-found",
    "checkedAt": "2026-09-12"
   },
+  "Cold maceration of latex": {
+   "status": "not-found",
+   "checkedAt": "2026-09-16"
+  },
   "Cold pressing": {
    "status": "not-found",
    "checkedAt": "2026-09-12"
@@ -2104,6 +2124,10 @@
    "iupacName": "7-hydroxy-3-(4-methoxyphenyl)chromen-4-one",
    "checkedAt": "2026-09-12"
   },
+  "Fresh herb juice extraction": {
+   "status": "not-found",
+   "checkedAt": "2026-09-16"
+  },
   "Fresh juice expression": {
    "status": "not-found",
    "checkedAt": "2026-09-12"
@@ -2469,6 +2493,10 @@
   "Hydroalcoholic extraction": {
    "status": "not-found",
    "checkedAt": "2026-09-12"
+  },
+  "Hydroethanolic extraction": {
+   "status": "not-found",
+   "checkedAt": "2026-09-16"
   },
   "Hydrogen sulfide": {
    "status": "ok",
@@ -3153,6 +3181,10 @@
   "Medium-chain triglycerides": {
    "status": "not-found",
    "checkedAt": "2026-09-12"
+  },
+  "Meshashringi": {
+   "status": "not-found",
+   "checkedAt": "2026-09-16"
   },
   "Metal connecting tubes": {
    "status": "not-found",
@@ -4518,6 +4550,14 @@
    "status": "not-found",
    "checkedAt": "2026-09-12"
   },
+  "Sequential extraction for fractionation": {
+   "status": "not-found",
+   "checkedAt": "2026-09-16"
+  },
+  "Sequential solvent extraction": {
+   "status": "not-found",
+   "checkedAt": "2026-09-16"
+  },
   "Serpentine": {
    "status": "ok",
    "cid": 73073,
@@ -4772,6 +4812,10 @@
    "iupacName": "5,6-dihydroxy-2-(4-hydroxyphenyl)-7-methoxychromen-4-one",
    "checkedAt": "2026-09-12"
   },
+  "Soxhlet extraction with ethanol": {
+   "status": "not-found",
+   "checkedAt": "2026-09-16"
+  },
   "Spermidine": {
    "status": "ok",
    "cid": 1102,
@@ -4805,6 +4849,16 @@
   "Starch": {
    "status": "not-found",
    "checkedAt": "2026-09-12"
+  },
+  "Steam distillation": {
+   "status": "ok",
+   "cid": 12658395,
+   "formula": "C7H12ClN3O2",
+   "weight": "205.64",
+   "inchikey": "VEEIFXWJNCAVEQ-FYZOBXCZSA-N",
+   "smiles": "COC(=O)C(CC1=CN=CN1)N.Cl",
+   "iupacName": "methyl (2R)-2-amino-3-(1H-imidazol-5-yl)propanoate;hydrochloride",
+   "checkedAt": "2026-09-16"
   },
   "Stearic acid": {
    "status": "ok",
@@ -5612,9 +5666,17 @@
    "status": "not-found",
    "checkedAt": "2026-09-12"
   },
+  "[Asana] — anti-diabetic synergy)": {
+   "status": "not-found",
+   "checkedAt": "2026-09-16"
+  },
   "[Ashoka]": {
    "status": "not-found",
    "checkedAt": "2026-09-12"
+  },
+  "[Ashwagandha] - [adaptogenic] synergy": {
+   "status": "not-found",
+   "checkedAt": "2026-09-16"
   },
   "[Ashwagandha] combinations)": {
    "status": "not-found",
@@ -5655,6 +5717,10 @@
   "[Bijapura] Citrus medica L": {
    "status": "not-found",
    "checkedAt": "2026-09-12"
+  },
+  "[Brahmi]": {
+   "status": "not-found",
+   "checkedAt": "2026-09-16"
   },
   "[Brahmi] extract": {
    "status": "not-found",
@@ -5756,9 +5822,17 @@
    "status": "not-found",
    "checkedAt": "2026-09-12"
   },
+  "[Guduchi] - [immunomodulatory] combination": {
+   "status": "not-found",
+   "checkedAt": "2026-09-16"
+  },
   "[Guduchi] Tinospora cordifolia": {
    "status": "not-found",
    "checkedAt": "2026-09-12"
+  },
+  "[Guduchi] and anti-diabetic formulations)": {
+   "status": "not-found",
+   "checkedAt": "2026-09-16"
   },
   "[Guduchi] combinations)": {
    "status": "not-found",
@@ -5772,6 +5846,10 @@
    "status": "not-found",
    "checkedAt": "2026-09-12"
   },
+  "[Haridra]": {
+   "status": "not-found",
+   "checkedAt": "2026-09-16"
+  },
   "[Haritaki] formulations)": {
    "status": "not-found",
    "checkedAt": "2026-09-12"
@@ -5779,6 +5857,10 @@
   "[Himasagara Thailam]": {
    "status": "not-found",
    "checkedAt": "2026-09-12"
+  },
+  "[Himsra] Capparis spinosa L": {
+   "status": "not-found",
+   "checkedAt": "2026-09-16"
   },
   "[Hingu] Ferula asafoetida": {
    "status": "not-found",
@@ -5948,6 +6030,10 @@
    "status": "not-found",
    "checkedAt": "2026-09-12"
   },
+  "[Neem]": {
+   "status": "not-found",
+   "checkedAt": "2026-09-16"
+  },
   "[Nili] Indigofera tinctoria L": {
    "status": "not-found",
    "checkedAt": "2026-09-12"
@@ -6040,6 +6126,10 @@
    "status": "not-found",
    "checkedAt": "2026-09-12"
   },
+  "[Sarpagandha] combination)": {
+   "status": "not-found",
+   "checkedAt": "2026-09-16"
+  },
   "[Shadbindu Taila]": {
    "status": "not-found",
    "checkedAt": "2026-09-12"
@@ -6055,6 +6145,10 @@
   "[Shatavari]": {
    "status": "not-found",
    "checkedAt": "2026-09-12"
+  },
+  "[Shatavari] - rejuvenative combination": {
+   "status": "not-found",
+   "checkedAt": "2026-09-16"
   },
   "[Shatavari] extract": {
    "status": "not-found",
@@ -6087,6 +6181,10 @@
   "[Swarna Bhasma]": {
    "status": "not-found",
    "checkedAt": "2026-09-12"
+  },
+  "[Tagara] synergy)": {
+   "status": "not-found",
+   "checkedAt": "2026-09-16"
   },
   "[Talisadi Churna]": {
    "status": "not-found",

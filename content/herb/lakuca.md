@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Trees-Large-Plants"
-answer: "Lakuca (Artocarpus lacucha) is a plant used in Ayurveda. Usual dose: 3-6 g powder per day; 50-100 mL decoction twice daily; seed powder 1-3 g. Alkaloids (particularly lactucin-type) show moderate GI absorption."
+answer: "Lakuca (Artocarpus lacucha) is a plant used in Ayurveda. Usual dose: 3-6 g powder per day; 50-100 mL decoction twice daily; seed powder 1-3 g."
 botanical: "Artocarpus lacucha"
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 264
+words: 243
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Lakuca/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,8 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Lakuca/meta-analysis.md"
 | **Guna** (Quality) | Guru | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Amla | Post-digestive effect |
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

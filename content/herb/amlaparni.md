@@ -16,7 +16,7 @@ aliases: ["Oxalis corniculata L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 552
+words: 531
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Amlaparni/meta-analysis.md"
 ---
 ## Names and identification
@@ -65,8 +65,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Amlaparni/meta-analysis.md"
 - High oxalic acid content is the primary safety concern; excessive consumption may cause oxalate nephropathy and kidney stone formation in susceptible individuals
 - Traditional use suggests safe consumption in small therapeutic doses; no formal toxicity studies with standardized LD50 determination have been completed in human trials
 - Should be used cautiously in patients with renal impairment, hyperoxaluria, or history of calcium oxalate kidney stones; further preclinical and clinical safety trials are recommended
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

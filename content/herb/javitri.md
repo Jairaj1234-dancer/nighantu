@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Kitchen-Spices-Culinary"
-answer: "Javitri (Myristica fragrans) is a plant used in Ayurveda. Usual dose: 250-500mg powder with meals; 125-250mg extract; 1-2 drops essential oil externally. Mace essential oil is richer in myristicin and macelignan. Myristicin absorption and metabolism profile similar to nutmeg."
+answer: "Javitri (Myristica fragrans) is a plant used in Ayurveda. Usual dose: 250-500mg powder with meals; 125-250mg extract; 1-2 drops essential oil externally. Dosage Forms: Churna (powder), Capsule, Essential oil, Tablet, Spice extract Standard Dosage: 250-500mg powder with meals; 125-250mg extract; 1-2 drops essential oil externally Bioavailability: Myristica fragrans mace (aril) has similar but distinct phytochemistry compared to nutmeg seed."
 botanical: "Myristica fragrans"
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "kitchen-spices-culinary", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 306
+words: 285
 srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Javitri/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,8 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Javitri/meta-analys
 | **Guna** (Quality) | Laghu | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

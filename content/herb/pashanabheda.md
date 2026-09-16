@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Kidney-Urinary"
-answer: "Pashanabheda is a substance used in the Ayurvedic materia medica. Usual dose: 3-6 g powder twice daily; 20-40 mL decoction twice daily; 500 mg - 1 g standardized extract twice daily."
-botanical: ""
+answer: "Pashanabheda (Bergenia ciliata) is a plant used in Ayurveda. Usual dose: 3-6 g powder twice daily; 20-40 mL decoction twice daily; 500 mg - 1 g standardized extract twice daily."
+botanical: "Bergenia ciliata"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "kidney-urinary", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 347
+words: 326
 srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Pashanabheda/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Pashanabheda/meta-analysis.m
 | **Guna** (Quality) | Laghu, Ruksha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

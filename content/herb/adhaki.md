@@ -16,7 +16,7 @@ aliases: ["Cajanus cajan (L.) Millsp."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 567
+words: 546
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Adhaki/meta-analysis.md"
 ---
 ## Names and identification
@@ -65,8 +65,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Adhaki/meta-analysis.md"
 - 90-day subchronic toxicity study (2023) in Wistar rats at doses up to 1.0 g/kg body weight showed no adverse effects on behavior, organ weights, hematological parameters, or histopathology
 - Five soy [isoflavones](/nighantu/glossary/compounds-g-l/#isoflavones) (genistein, biochanin A, [daidzein](/nighantu/glossary/compounds-c-d/#daidzein), genistin, cajanol) identified in root extract demonstrated hepatorenal protective effects rather than toxicity
 - Leaves are widely consumed as food/vegetable with long safety history; no significant drug interactions documented
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

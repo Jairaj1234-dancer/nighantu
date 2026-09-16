@@ -16,7 +16,7 @@ aliases: ["Ficus racemosa Linn."]
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 517
+words: 496
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Udumbara/meta-analysis.md"
 ---
 ## Names and identification
@@ -56,14 +56,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Udumbara/meta-analysis.m
 
 ## What do recent clinical trials show?
 
+
+
 *3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
 - Toxicity studies in rodent models show no significant adverse effects at doses up to 2000 mg/kg body weight (acute oral toxicity)
 - Latex may cause contact dermatitis in sensitive individuals; internal use of latex should be supervised due to potential purgative effects at high doses
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

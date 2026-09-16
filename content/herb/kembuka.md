@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Anti-inflammatory-Pain"
-answer: "Kembuka is a substance used in the Ayurvedic materia medica. Usual dose: 2-4 g powder twice daily; 40-80 mL decoction twice daily; paste for external application as needed."
-botanical: ""
+answer: "Kembuka (Costus speciosus) is a plant used in Ayurveda. Usual dose: 2-4 g powder twice daily; 40-80 mL decoction twice daily; paste for external application as needed."
+botanical: "Costus speciosus"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "anti-inflammatory-pain", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 276
+words: 255
 srcRel: "Ayurveda/Herbs/Single-Herbs/Anti-inflammatory-Pain/Kembuka/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Anti-inflammatory-Pain/Kembuka/meta-analysi
 | **Guna** (Quality) | Laghu, Ruksha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

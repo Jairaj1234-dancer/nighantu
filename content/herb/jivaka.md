@@ -16,7 +16,7 @@ aliases: ["Malaxis muscifera (Lindl.) Kuntze / Malaxis acuminata D. Don"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 511
+words: 490
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jivaka/meta-analysis.md"
 ---
 ## Names and identification
@@ -60,8 +60,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jivaka/meta-analysis.md"
 
 - Traditionally used safely as an Ashtavarga component in [Chyawanprash](/nighantu/formulation/chyawanprash/) and other classical formulations; no documented toxicity in Ayurvedic literature
 - Critically endangered orchid species with severe habitat loss; most commercial products contain substitutes, making safety evaluation of actual Jivaka specimens difficult
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

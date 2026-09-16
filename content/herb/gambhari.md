@@ -16,7 +16,7 @@ aliases: ["Gmelina arborea Roxb."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 571
+words: 550
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gambhari/meta-analysis.md"
 ---
 ## Names and identification
@@ -60,8 +60,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gambhari/meta-analysis.md"
 
 - No significant toxicity reported in acute and subacute animal studies; traditional Dashamula formulation has a long safety record
 - Limited human clinical safety data; recommended to use within standard Ayurvedic dosage guidelines; not recommended in pregnancy without practitioner guidance
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

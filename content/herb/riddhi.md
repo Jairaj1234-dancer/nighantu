@@ -16,7 +16,7 @@ aliases: ["Habenaria intermedia D. Don"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 557
+words: 536
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Riddhi/meta-analysis.md"
 ---
 ## Names and identification
@@ -52,14 +52,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Riddhi/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
+
+
 *3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
 - No documented toxicity at traditional Ayurvedic doses; used safely as part of Ashtavarga and [Chyawanprash](/nighantu/formulation/chyawanprash/) formulations for centuries
 - Critically endangered orchid species; authenticity of commercial samples is a major concern, with frequent adulteration by unrelated species posing potential safety risks
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

@@ -16,7 +16,7 @@ aliases: ["Phyllanthus niruri L. / Phyllanthus amarus Schum. & Thonn."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 690
+words: 669
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tamalaki/meta-analysis.md"
 ---
 ## Names and identification
@@ -65,8 +65,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tamalaki/meta-analysis.md"
 
 - Generally well-tolerated in clinical studies at doses up to 500 mg twice daily for 12 months; mild GI effects (nausea, diarrhea) reported occasionally; hypoglycemic potential requires monitoring in diabetic patients on medication
 - Rare reports of allergic reactions; should be used cautiously during pregnancy due to traditional abortifacient reputation of some Phyllanthus species; potential herb-drug interactions with anticoagulants and [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive) medications
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

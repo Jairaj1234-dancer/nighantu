@@ -16,7 +16,7 @@ aliases: ["Eranda Paka", "ErandaPaka", "Ricinus communis L. (processed castor pr
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 705
+words: 684
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda-Paka/meta-analysis.md"
 ---
 ## Names and identification
@@ -65,8 +65,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda-Paka/meta-analysis.md"
 - [Eranda](/nighantu/herb/eranda/) Paka (processed preparation) is considered much safer than raw castor seeds due to destruction of ricin toxin and reduction of ricinine during traditional processing with heat and jaggery
 - Raw castor seeds are extremely toxic (ricin is lethal at 1-10 mg in adults); only properly processed preparations should be used medicinally under qualified supervision
 - Excessive use may cause dehydration, electrolyte imbalance, and abdominal cramping; contraindicated in pregnancy (uterotonic effects), intestinal obstruction, and inflammatory bowel conditions
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

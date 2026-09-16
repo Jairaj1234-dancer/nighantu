@@ -16,7 +16,7 @@ aliases: ["Ferula asafoetida"]
 tags: ["ayurveda", "herb", "single-herb", "digestive-health", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 796
+words: 775
 srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Hingu/meta-analysis.md"
 ---
 ## Names and identification
@@ -68,8 +68,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Hingu/meta-analysis.md"
 - Likely unsafe during pregnancy as it may cause miscarriage; a case of severe methemoglobinemia was reported in a 5-week-old infant following ingestion of glycerated asafoetida solution
 - Generally recognized as safe (GRAS) in food amounts; possible side effects at medicinal doses include gas, diarrhea, headache, mouth/lip swelling, and burping; animal studies suggest liver toxicity at high doses (200 mg/kg for 6 weeks)
 - May interact with anticoagulant and [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive) medications; individuals with bleeding disorders should exercise caution due to potential anticoagulant properties
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

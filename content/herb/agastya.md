@@ -16,7 +16,7 @@ aliases: ["Sesbania grandiflora (L.) Pers."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 526
+words: 505
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agastya/meta-analysis.md"
 ---
 ## Names and identification
@@ -62,8 +62,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agastya/meta-analysis.md"
 
 - Widely consumed as a food vegetable in Southeast Asia; flowers and leaves are edible with a long history of safe dietary use
 - No significant adverse effects reported in animal toxicity studies; however, pregnant women should consult practitioners before medicinal use due to limited safety data
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

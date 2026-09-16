@@ -16,7 +16,7 @@ aliases: ["Polygonatum verticillatum (L.) All. / Polygonatum cirrhifolium (Wall.
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 575
+words: 554
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Meda/meta-analysis.md"
 ---
 ## Names and identification
@@ -62,8 +62,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Meda/meta-analysis.md"
 
 - Traditional Ayurvedic usage suggests a favorable safety profile when consumed as part of Ashtavarga formulations at recommended doses; no documented adverse effects in classical literature
 - Critically endangered status means most commercial products may contain adulterants or substitutes; authentication and quality control are essential safety considerations
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

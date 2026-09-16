@@ -16,7 +16,7 @@ aliases: ["Phoenix dactylifera L."]
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 681
+words: 660
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kharjura/meta-analysis.md"
 ---
 ## Names and identification
@@ -66,8 +66,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kharjura/meta-analysis.m
 
 - Dates are a widely consumed food with an excellent safety profile; high sugar content warrants moderation in diabetic patients
 - Date seed extracts and pollen have shown no significant toxicity in preclinical studies; however, high caloric density should be considered in metabolic conditions
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

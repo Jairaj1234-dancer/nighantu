@@ -16,7 +16,7 @@ aliases: ["Limonia acidissima Groff (syn. Feronia limonia (L.) Swingle)"]
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 538
+words: 517
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kapittha/meta-analysis.md"
 ---
 ## Names and identification
@@ -67,8 +67,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kapittha/meta-analysis.m
 
 - Fruit pulp is widely consumed as food in India and is generally safe; however, furanocoumarins (psoralen, bergapten) may cause photosensitivity upon topical exposure
 - Antispermatogenic activity has been documented in animal models; male fertility impact should be considered. Pregnancy use not recommended without supervision.
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

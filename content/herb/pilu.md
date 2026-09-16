@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Trees-Large-Plants"
-answer: "Pilu is a substance used in the Ayurvedic materia medica. Usual dose: 2-4 g bark powder daily; 15-20 mL decoction twice daily; 500-750 mg standardized extract twice daily; dental use as needed."
-botanical: ""
+answer: "Pilu (Salvadora persica) is a plant used in Ayurveda. Usual dose: 2-4 g bark powder daily; 15-20 mL decoction twice daily; 500-750 mg standardized extract twice daily; dental use as needed."
+botanical: "Salvadora persica"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 349
+words: 328
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Pilu/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Pilu/meta-analysis.md"
 | **Guna** (Quality) | Laghu, Tikshna | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

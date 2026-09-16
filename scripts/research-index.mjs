@@ -29,9 +29,25 @@ if (!fs.existsSync(IN)) {
 
 const src = JSON.parse(fs.readFileSync(IN, 'utf8'));
 
+/**
+ * Only pages that still exist may be linked.
+ *
+ * citations.json is a record of a past run, so it outlives the pages it describes. When a
+ * re-ingest dropped three thin pages, this index went on linking them from a dozen
+ * research pages each and the link check failed the build. The citation record is kept as
+ * it was; what is filtered is the linking.
+ */
+const live = new Set(fs.readdirSync('content', { withFileTypes: true })
+  .filter((d) => d.isDirectory())
+  .flatMap((d) => fs.readdirSync(path.join('content', d.name))
+    .filter((f) => f.endsWith('.md'))
+    .map((f) => `${d.name}/${f.replace(/\.md$/, '')}`)));
+
 /** Invert: paper -> the pages that cite it. */
 const papers = new Map();
+const skippedPages = [];
 for (const [key, page] of Object.entries(src.pages ?? {})) {
+  if (!live.has(key)) { skippedPages.push(key); continue; }
   const [kind, slug] = key.split('/');
   for (const c of page.citations ?? []) {
     let p = papers.get(c.pmid);
@@ -102,6 +118,9 @@ console.log(`subjects covered  ${summary.subjectsCovered}`);
 console.log(`cited by 2+ pages ${summary.citedByMultiple}`);
 console.log(`tiers             ${JSON.stringify(byTier)}`);
 console.log(`years             ${summary.yearRange.join(' to ')}`);
+if (skippedPages.length) {
+  console.log(`skipped           ${skippedPages.length} citation record(s) whose page no longer exists: ${skippedPages.join(', ')}`);
+}
 
 if (DRY) { console.log('\nDry run: nothing written.'); process.exit(0); }
 

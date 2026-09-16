@@ -16,7 +16,7 @@ aliases: ["Nirgundi Herb", "NirgundiHerb"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 336
+words: 315
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nirgundi_Herb/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,8 +24,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nirgundi_Herb/meta-analysis.m
 | Language | Name |
 |----------|------|
 | English | Nirgundi_Herb |
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

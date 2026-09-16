@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Trees-Large-Plants"
-answer: "Hapusa is a substance used in the Ayurvedic materia medica. Usual dose: 1-3g powder twice daily; 15-30ml Arka; 5-10 drops essential oil externally. Essential oil components (alpha-pinene, sabinene) show good lipophilic absorption."
-botanical: ""
+answer: "Hapusa (Juniperus communis) is a plant used in Ayurveda. Usual dose: 1-3g powder twice daily; 15-30ml Arka; 5-10 drops essential oil externally. Dosage Forms: Churna (powder), Arka (distillate), Taila (oil), Capsule, Tablet Standard Dosage: 1-3g powder twice daily; 15-30ml Arka; 5-10 drops essential oil externally Bioavailability: Juniper berry (Juniperus communis) volatile oils are rapidly absorbed via GI tract."
+botanical: "Juniperus communis"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 257
+words: 236
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Hapusa/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Hapusa/meta-analysis.md"
 | **Guna** (Quality) | Laghu, Ruksha | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

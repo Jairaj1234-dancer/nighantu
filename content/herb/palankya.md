@@ -16,7 +16,7 @@ aliases: ["Spinacia oleracea L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 688
+words: 667
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Palankya/meta-analysis.md"
 ---
 ## Names and identification
@@ -62,8 +62,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Palankya/meta-analysis.md"
 
 - High oxalic acid content can contribute to kidney stone formation (calcium oxalate); not recommended in large quantities for patients with hyperoxaluria, gout, or history of kidney stones
 - Contains significant vitamin K (anticoagulant drug interaction potential); raw spinach contains higher oxalate levels than cooked; nitrate content may be of concern in infant feeding (methemoglobinemia risk)
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

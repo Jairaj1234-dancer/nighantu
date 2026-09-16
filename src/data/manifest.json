@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-10T09:51:35.110Z",
+  "generatedAt": "2026-09-16T12:45:41.192Z",
   "vault": "Herb-Catalogue",
   "counts": {
     "scanned": 3286,
     "denied": 1640,
     "aliases": 2,
-    "standalone": 739,
-    "rolled": 818,
+    "standalone": 740,
+    "rolled": 817,
     "dropped": 87
   },
   "productHints": {
@@ -260,7 +260,7 @@
       "range": "M-Y",
       "part": 2,
       "partCount": 2,
-      "entryCount": 62,
+      "entryCount": 61,
       "url": "/nighantu/glossary/concepts-m-y/"
     }
   ],
@@ -2496,6 +2496,12 @@
       "kind": "herb",
       "title": "Vamsha",
       "url": "/nighantu/herb/vamsha/"
+    },
+    {
+      "slug": "vamshalochana",
+      "kind": "herb",
+      "title": "Vamshalochana",
+      "url": "/nighantu/herb/vamshalochana/"
     },
     {
       "slug": "vanapsa",

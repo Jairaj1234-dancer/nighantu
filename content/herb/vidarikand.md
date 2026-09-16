@@ -16,7 +16,7 @@ aliases: ["Pueraria tuberosa (Willd.) DC."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 535
+words: 514
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vidarikand/meta-analysis.md"
 ---
 ## Names and identification
@@ -60,8 +60,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vidarikand/meta-analysis.md"
 
 - Safe at standard doses; properly processed tubers have long traditional safety record; liver enzyme monitoring recommended for prolonged use
 - Contraindicated in hormone-sensitive cancers (phytoestrogenic activity), first trimester pregnancy, active hyperthyroidism; caution with anticoagulants and diabetes medications (potential synergy)
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

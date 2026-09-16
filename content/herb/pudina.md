@@ -16,7 +16,7 @@ aliases: ["Mentha spicata"]
 tags: ["ayurveda", "herb", "single-herb", "kitchen-spices-culinary", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 850
+words: 829
 srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Pudina/meta-analysis.md"
 ---
 ## Names and identification
@@ -69,8 +69,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Pudina/meta-analysi
 - GRAS (Generally Recognized as Safe) status for spearmint and spearmint extracts as flavoring in beverages, pharmaceuticals, and confectionaries by US-FDA
 - Double-blind RCT in healthy adults confirmed safety of 600-900 mg/day for 90 days with no effect on hormonal parameters (FSH, LH, TSH) or vital signs
 - Pulegone content must be kept below 0.5% per British Pharmacopoeia standards due to potential hepatotoxicity; more human clinical trials needed to establish full safety profile for therapeutic doses
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

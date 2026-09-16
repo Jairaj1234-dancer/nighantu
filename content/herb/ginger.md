@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "digestive-health", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "PubMed / NCBI (63 publications)", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu, Ashtanga Hridaya)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 1912
+words: 1891
 srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Ginger/meta-analysis.md"
 ---
 ## Names and identification
@@ -198,6 +198,7 @@ Fresh ginger: 5-10g/day; Dry powder (Shunthi): 1-3g/day
 ## What is it made of?
 
 **Part(s) Analyzed:** Rhizome
+
 
 ## Dosage forms and preparation
 

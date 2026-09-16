@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Trees-Large-Plants"
-answer: "Badara is a substance used in the Ayurvedic materia medica. Usual dose: 3-6g fruit powder twice daily; 20-50ml fresh juice; 5-10g Avaleha daily; 500mg-1g extract capsule."
-botanical: ""
+answer: "Badara (Ziziphus mauritiana) is a plant used in Ayurveda. Usual dose: 3-6g fruit powder twice daily; 20-50ml fresh juice; 5-10g Avaleha daily; 500mg-1g extract capsule. Ziziphus mauritiana (Indian jujube/Ber) fruit contains vitamin C (well absorbed), flavonoids (moderate absorption), and cyclopeptide alkaloids (variable absorption)."
+botanical: "Ziziphus mauritiana"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 385
+words: 364
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Badara/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Badara/meta-analysis.md"
 | **Guna** (Quality) | Guru, Snigdha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

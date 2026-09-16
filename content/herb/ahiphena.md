@@ -16,7 +16,7 @@ aliases: ["Papaver somniferum L."]
 tags: ["ayurveda", "herb", "single-herb", "brain-nervous-system", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 884
+words: 863
 srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Ahiphena/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,8 +51,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Ahiphena/meta-analysis
 - {'type': 'Maximum dose', 'detail': 'Ayurvedic therapeutic dose of purified opium (Shuddha Ahiphena): 60-125 mg per day. Lethal dose of crude opium: 2 g in non-tolerant adults. Maximum safe morphine equivalent: 120 mg/day for tolerant patients under medical supervision.'}
 - {'type': 'Safety alert', 'detail': 'USFDA and DEA issued warnings about contaminated poppy seeds with dangerously high morphine/codeine/thebaine concentrations. Unwashed poppy seeds sold commercially can contain 2-300 mg morphine per kg, posing acute intoxication risk.'}
 - {'type': 'Poisoning epidemiology', 'detail': 'Opium poisoning accounts for significant mortality in South Asia and Middle East. In Iran, opium is the most common substance in poisoning cases. Pediatric accidental ingestions carry higher mortality due to lower lethal dose threshold.'}
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

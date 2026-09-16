@@ -16,7 +16,7 @@ aliases: ["Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 459
+words: 438
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akhuparni/meta-analysis.md"
 ---
 ## Names and identification
@@ -50,14 +50,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akhuparni/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
+
+
 *3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
 - Juice of the plant acts as a purgative in higher doses; recommended to use under practitioner guidance for internal administration
 - Limited formal toxicological studies; traditional use suggests safety at recommended doses; not recommended during pregnancy due to potential uterine effects
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

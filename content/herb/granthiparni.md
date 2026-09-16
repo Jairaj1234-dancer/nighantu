@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Trees-Large-Plants"
-answer: "Granthiparni is a substance used in the Ayurvedic materia medica. Usual dose: 3-5g powder twice daily; 50-100ml decoction twice daily; 10-15ml fresh juice; external application as needed. Limited modern dosage data - follow classical text guidelines."
-botanical: ""
+answer: "Granthiparni (Leonotis nepetifolia) is a plant used in Ayurveda. Usual dose: 3-5g powder twice daily; 50-100ml decoction twice daily; 10-15ml fresh juice; external application as needed. Limited modern dosage data - follow classical text guidelines."
+botanical: "Leonotis nepetifolia"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 348
+words: 327
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Granthiparni/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Granthiparni/meta-analys
 | **Guna** (Quality) | Laghu, Tikshna | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

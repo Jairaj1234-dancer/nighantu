@@ -1359,7 +1359,7 @@ answer: "Phytochemical compounds (C-D) is a reference glossary of 73 entries dra
 #### Often Found With
 
 - [Gul-e-Surkh](/nighantu/glossary/compounds-g-l/#gulesurkh) (2 shared sources)
-- [Tabasheer](/nighantu/glossary/concepts-m-y/#vamshalochana) (1 shared sources)
+- [Tabasheer](/nighantu/herb/vamshalochana/) (1 shared sources)
 
 ### Daucosterol {#daucosterol}
 

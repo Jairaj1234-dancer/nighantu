@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Tumburu is a substance used in the Ayurvedic materia medica. Usual dose: 1-3 g powder twice daily; 30-60 mL decoction twice daily; as mouthwash: 5-10 mL diluted and gargled."
+answer: "Tumburu (Zanthoxylum armatum) is a plant used in Ayurveda. Usual dose: 1-3 g powder twice daily; 30-60 mL decoction twice daily; as mouthwash: 5-10 mL diluted and gargled."
 botanical: "Zanthoxylum armatum"
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 312
+words: 291
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tumburu/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,8 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tumburu/meta-analysis.md"
 | **Guna** (Quality) | Laghu, Tikshna | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

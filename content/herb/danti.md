@@ -16,7 +16,7 @@ aliases: ["Baliospermum montanum (Willd.) Muell.-Arg."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 611
+words: 590
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Danti/meta-analysis.md"
 ---
 ## Names and identification
@@ -60,8 +60,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Danti/meta-analysis.md"
 
 - Classified as a strong purgative (Tikshna Virechana Dravya) in Ayurveda; must be used only under qualified practitioner supervision with proper dose calculation based on patient constitution
 - Latex and seeds are highly irritant; can cause severe purgation, abdominal cramps, and dehydration if misused; not recommended during pregnancy, for children, or in debilitated patients; Shodhana (purification) is mandatory before internal use
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

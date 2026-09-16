@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "brain-nervous-system", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "PubMed / NCBI (325 publications)", "AgeAyurveda Product Catalog", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: ["Natural Sleep Aid"]
-words: 1781
+words: 1760
 srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Jatamansi/meta-analysis.md"
 ---
 ## Names and identification
@@ -141,8 +141,6 @@ RESULTS: Both NJ-1A and Nar could significantly suppress LPS-induced production 
 - Limitations noted: absence of comprehensive toxicology studies using animal models and long-term clinical trials in human subjects.
 - Listed as Critically Endangered on IUCN Red List (A2cd ver 3.1) and CITES Appendix II since 1997 -- sustainability of supply is a concern for commercial use.
 - Recommended dose per Ayurvedic Pharmacopoeia of India: 2-3 g/day of powder; exceeding this may carry unknown risks due to limited toxicology data.
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

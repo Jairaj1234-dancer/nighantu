@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Liver-Detox"
-answer: "Katuki is a substance used in the Ayurvedic materia medica. Usual dose: 1-3 g powder twice daily; 500 mg standardized extract capsule twice daily; 30-50 mL decoction; Arogyavardhini Vati: 2 tablets twice daily."
-botanical: ""
+answer: "Katuki (Picrorhiza kurroa) is a plant used in Ayurveda. Usual dose: 1-3 g powder twice daily; 500 mg standardized extract capsule twice daily; 30-50 mL decoction; Arogyavardhini Vati: 2 tablets twice daily."
+botanical: "Picrorhiza kurroa"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "liver-detox", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 353
+words: 332
 srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Katuki/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Katuki/meta-analysis.md"
 | **Guna** (Quality) | Laghu | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

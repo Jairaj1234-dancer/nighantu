@@ -16,7 +16,7 @@ aliases: ["Teramnus labialis (L.f.) Spreng."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 483
+words: 462
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mashaparni/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,14 +51,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mashaparni/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
+
+
 *3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
 - Traditionally used safely in Ayurvedic formulations including [Chyawanprash](/nighantu/formulation/chyawanprash/); high nutritional value with significant protein (22.86%), mineral, and amino acid content supports safety for dietary use
 - No significant adverse effects documented in preclinical pharmacological studies; however, systematic toxicological evaluation is limited
-
-## What is it made of?
 
 ## Dosage forms and preparation
 
