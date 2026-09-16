@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Respiratory-Health"
-answer: "Dronapushpi is a substance used in the Ayurvedic materia medica. Usual dose: 5-10ml fresh juice twice daily; 3-6g powder twice daily; 50-100ml decoction twice daily; 500mg extract capsule twice daily."
-botanical: ""
+answer: "Dronapushpi (Leucas cephalotes) is a plant used in Ayurveda. Usual dose: 5-10ml fresh juice twice daily; 3-6g powder twice daily; 50-100ml decoction twice daily; 500mg extract capsule twice daily."
+botanical: "Leucas cephalotes"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "respiratory-health", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 346
+words: 325
 srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Dronapushpi/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Dronapushpi/meta-analysi
 | **Guna** (Quality) | Guru, Ruksha | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

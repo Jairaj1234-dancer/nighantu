@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Skin-Beauty"
-answer: "Dugdhika is a substance used in the Ayurvedic materia medica. Usual dose: 3-6g powder twice daily; 5-10ml fresh juice; 50-100ml decoction twice daily; 500mg extract capsule twice daily. Latex: topical application as directed."
-botanical: ""
+answer: "Dugdhika (Euphorbia prostrata) is a plant used in Ayurveda. Usual dose: 3-6g powder twice daily; 5-10ml fresh juice; 50-100ml decoction twice daily; 500mg extract capsule twice daily. Latex: topical application as directed."
+botanical: "Euphorbia prostrata"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "skin-beauty", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 351
+words: 330
 srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Dugdhika/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Dugdhika/meta-analysis.md"
 | **Guna** (Quality) | Guru | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

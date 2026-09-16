@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Skin-Beauty"
-answer: "Kumuda is a substance used in the Ayurvedic materia medica. Usual dose: 3-6 g powder twice daily; 50-100 mL decoction; 10-20 mL rhizome juice; 5-10 g medicated ghee."
-botanical: ""
+answer: "Kumuda (Nymphaea alba) is a plant used in Ayurveda. Usual dose: 3-6 g powder twice daily; 50-100 mL decoction; 10-20 mL rhizome juice; 5-10 g medicated ghee."
+botanical: "Nymphaea alba"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "skin-beauty", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 312
+words: 291
 srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kumuda/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kumuda/meta-analysis.md"
 | **Guna** (Quality) | Laghu | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

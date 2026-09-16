@@ -1,0 +1,1066 @@
+{
+ "run": "botanical-identity-pass-2",
+ "examined": 126,
+ "accepted": [
+  {
+   "slug": "ajmoda",
+   "binomial": "Apium leptophyllum",
+   "api": "Volume I: AJAMODA (Fruit)",
+   "gbifStatus": "SYNONYM"
+  },
+  {
+   "slug": "arka",
+   "binomial": "Calotropis procera",
+   "api": "I: ARKA (Root)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "badara",
+   "binomial": "Ziziphus mauritiana",
+   "api": "III: KOLA (Fruit Pulp)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "bhumyamalaki",
+   "binomial": "Phyllanthus fraternus",
+   "api": "I: TAMALAKI (Root, Stem & Leaf)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "chavika",
+   "binomial": "Piper retrofractum",
+   "api": "API Part I, Volume II: CAVYA (Stem)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "dronapushpi",
+   "binomial": "Leucas cephalotes",
+   "api": "II: DRONAPUSPI (Whole Plant)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "dugdhika",
+   "binomial": "Euphorbia prostrata",
+   "api": "V: DUGDHIKA (Whole Plant)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "eucalyptus-herb",
+   "binomial": "Eucalyptus globulus",
+   "api": "V: TAILAPARNAH (Leaf)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "eucalyptus",
+   "binomial": "Eucalyptus globulus",
+   "api": "V: TAILAPARNAH (Leaf)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "gavedhuka",
+   "binomial": "Coix lacryma-jobi",
+   "api": "V: GAVEDHUKA (Root)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "granthiparni",
+   "binomial": "Leonotis nepetifolia",
+   "api": "III: GRANTHIPARNI (Root)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "hapusa",
+   "binomial": "Juniperus communis",
+   "api": "III: HAPUSA (Fruit)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "indrayava",
+   "binomial": "Holarrhena pubescens",
+   "api": "III: INDRAYAVA (Seed)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "jati",
+   "binomial": "Jasminum officinale",
+   "api": "III: JATI (Leaf)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "kachnar",
+   "binomial": "Bauhinia variegata",
+   "api": "I: KANCANARA (Stem bark)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "kasheruka",
+   "binomial": "Scirpus kysoor",
+   "api": "API Part I, Volume I: KASERU (Rhizome)",
+   "gbifStatus": "SYNONYM"
+  },
+  {
+   "slug": "katuki",
+   "binomial": "Picrorhiza kurroa",
+   "api": "Volume II: KATUKA (Rhizome)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "kembuka",
+   "binomial": "Costus speciosus",
+   "api": "API Part I, Volume V: KEBUKA (Rhizome)",
+   "gbifStatus": "SYNONYM"
+  },
+  {
+   "slug": "koshataki",
+   "binomial": "Luffa acutangula",
+   "api": "III: KOSATAKI (Whole Plant)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "kumuda",
+   "binomial": "Nymphaea alba",
+   "api": "III: KUMUDA (Flower)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "kusha",
+   "binomial": "Desmostachya bipinnata",
+   "api": "III: KUSA (Rootstock)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "latakaranja",
+   "binomial": "Caesalpinia bonduc",
+   "api": "V: LATAKARANJA (Seed)",
+   "gbifStatus": "SYNONYM"
+  },
+  {
+   "slug": "licorice-herb",
+   "binomial": "Glycyrrhiza glabra",
+   "api": "I: YASTI (Stem &Root)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "madayantika",
+   "binomial": "Lawsonia inermis",
+   "api": "IV: MADAYANTI (Leaf)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "matsyakshi",
+   "binomial": "Alternanthera sessilis",
+   "api": "II: MATSYAKSI (Whole Plant)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "nagakesara",
+   "binomial": "Mesua ferrea",
+   "api": "II: NAGAKESARA (Stamen)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "paribhadra",
+   "binomial": "Erythrina variegata",
+   "api": "II: PARIBHADRA (Stem Bark)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "parpataka",
+   "binomial": "Fumaria parviflora",
+   "api": "IV: PARPATA (Whole Plant)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "pashanabheda",
+   "binomial": "Bergenia ciliata",
+   "api": "Volume I: PAS ANABHEDA (Rhizome)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "patala",
+   "binomial": "Stereospermum chelonoides",
+   "api": "IV: PATALA (Stem Bark)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "patha",
+   "binomial": "Cissampelos pareira",
+   "api": "Volume I: PATHA (Root)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "pilu",
+   "binomial": "Salvadora persica",
+   "api": "V: PILUH (Fruit)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "prapunnada",
+   "binomial": "Senna tora",
+   "api": "III: PRAPUNNADA (Seed)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "punarnava",
+   "binomial": "Boerhaavia diffusa",
+   "api": "I: PUNARNAVA (RAKTA) (Whole plant)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "rohisha",
+   "binomial": "Cymbopogon martinii",
+   "api": "API Part I, Volume V: ROHISA (Whole Plant)",
+   "gbifStatus": "SYNONYM"
+  },
+  {
+   "slug": "rohitaka",
+   "binomial": "Tecomella undulata",
+   "api": "VI: ROHITAKA (Stem Bark)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "saireyaka",
+   "binomial": "Barleria strigosa",
+   "api": "V: NILAJHINTI (Root)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "shana",
+   "binomial": "Crotalaria juncea",
+   "api": "Volume III: SANA (Seed)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "shankhpushpi",
+   "binomial": "Convolvulus pluricaulis",
+   "api": "API Part I, Volume II: SANKHAPUSPI (Whole Plant)",
+   "gbifStatus": "SYNONYM"
+  },
+  {
+   "slug": "shara",
+   "binomial": "Saccharum bengalense",
+   "api": "API Part I, Volume III: SARA (Root)",
+   "gbifStatus": "SYNONYM"
+  },
+  {
+   "slug": "simsapa",
+   "binomial": "Dalbergia sissoo",
+   "api": "III: SIMSAPA (Heart Wood)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "talisapatra",
+   "binomial": "Abies webbiana",
+   "api": "Volume IV: TALISA (Leaves)",
+   "gbifStatus": "SYNONYM"
+  },
+  {
+   "slug": "taruni",
+   "binomial": "Rosa centifolia",
+   "api": "Volume III: SATAPATRIKA (Flower)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "varahikanda",
+   "binomial": "Dioscorea bulbifera",
+   "api": "IV: VARAHI (Rhizome)",
+   "gbifStatus": "ACCEPTED"
+  },
+  {
+   "slug": "varuna",
+   "binomial": "Crateva nurvala",
+   "api": "I: VARUNA (Stem bark)",
+   "gbifStatus": "SYNONYM"
+  },
+  {
+   "slug": "vidari",
+   "binomial": "Pueraria tuberosa",
+   "api": "II: VIDARI (Tuberous Root)",
+   "gbifStatus": "ACCEPTED"
+  }
+ ],
+ "rejected": [
+  {
+   "slug": "aranya-jeeraka",
+   "why": "verifier rejected",
+   "reasons": "REJECT. The API citation is genuine but the monograph is not the same drug as the page.\n\n(b) CITATION VERIFIED. sources-private/api-all.txt line 89011 'VANYAJIRAKA (Fruit)', line 89014 'Vanyaj iraka consists of dried fruit of Centratherum anthelminticum (L.) Kuntze (Fam. Asteraceae), an annual, robust, erect herb, found throughout India upto 1850 m in Himalaya and Khasi hills and often cultivated.' Verbatim apart from the OCR split 'Vanyaj iraka'. Volume headers: VOLUME - V at line 69735, VOLUME - VI at 89976, so line 89011 is in Vol. V as claimed. 'Aranyaj irakah, Brhatpali, Somaraji, Vanajir"
+  },
+  {
+   "slug": "arka-pushpa",
+   "why": "verifier rejected",
+   "reasons": "CATEGORY (a): \"plant\" is correct and I do not dispute it. The page covers a single plant part, the flower of Arka. Dosage forms are Churna (flower powder), Swarasa (flower juice) and Ghrita (flower-processed ghee); marker compounds are calotropin, quercetin, isorhamnetin, kaempferol, alpha-amyrin acetate, uvaol. The \"Mineral/Elemental Profile — Primary component: Mineral-derived preparation, Analytical Methods: XRD, ICP-OES, SEM-EDS\" block (lines 39-44) is template boilerplate, not a mineral identity: the byte-identical block appears on content/herb/arka.md, which is unambiguously Calotropis ("
+  },
+  {
+   "slug": "bala-mool",
+   "why": "verifier rejected",
+   "reasons": "REFUTED on the load-bearing point: there is no API anchor for this page, and the proposal itself supplies no publishable binomial (proposedBinomial: null), so it cannot be accepted.\n\n(a) Category. \"plant\" is correct and not the reason for rejection. content/herb/bala-mool.md is the root (mool) of a single drug: dosage \"3-5g root powder twice daily; 40-80ml decoction\", \"Root extract standardized to NLT 0.15% total alkaloids\", \"Root mucilage forms a gel matrix in the stomach\", forms Churna/Kwath/Taila. It is not a formulation or an isolate. The frontmatter is blank for botanical/family/sanskrit."
+  },
+  {
+   "slug": "bandhuka",
+   "why": "verifier rejected",
+   "reasons": "REJECT. (a) Category: the page is best read as a plant drug (flower powder, swarasa, kashaya, lepa; anthocyanin/flavonoid markers pelargonidin, cyanidin glycosides, kaempferol, quercetin, beta-sitosterol, octacosanol), so \"plant\" stands, but the \"What is it made of\" section says \"Primary component: Mineral-derived preparation\" with \"Analytical Methods: XRD, ICP-OES, SEM-EDS\" — generator boilerplate that contradicts the rest of the page and should be flagged. Frontmatter botanical, family, sanskrit and aliases are all empty; the only name given is English \"Bandhuka\".\n\n(b) No API anchor. The pro"
+  },
+  {
+   "slug": "bhumi-jambuka",
+   "why": "category uncertain, verdict reject",
+   "reasons": "VERDICT: reject. The proposal's bottom line (no binomial, nothing publishable) survives, but its stated reasoning does not, so nothing here supports publishing a name.\n\n(a) Category. I read /Users/jairajsharma/Projects/ayurveda-atlas/content/herb/bhumi-jambuka.md in full. botanical, family, sanskrit, ayurvedicCategory and whoStatus are all empty strings; the Names table has a single row, \"English "
+  },
+  {
+   "slug": "bhunimba",
+   "why": "verifier rejected",
+   "reasons": "Refutation verdict: reject.\n\n(a) Category. Correct as \"plant\". The body describes a whole-plant drug (whole plant extract standardized to andrographolide, hydroalcoholic/supercritical CO2 extraction, churna/kashayam/vati). The \"Mineral/Elemental Profile - Mineral-derived preparation\" + XRD/ICP-OES block at lines 39-44 is template boilerplate, contradicted by everything around it, so it does not make this a mineral. No formulation ingredient list, no single isolate. Category stands; that is the only part of the proposal that survives.\n\n(b) API sentence. Verified verbatim (whitespace-normalised)"
+  },
+  {
+   "slug": "bhutakeshi",
+   "why": "verifier rejected",
+   "reasons": "REJECT. The API citation checks out mechanically, but the page fails test (c) - the monograph is not demonstrably the same drug as this page, and the page's own chemistry actively contradicts the monograph.\n\n(b) Verbatim check PASSES. /Users/jairajsharma/Projects/ayurveda-atlas/sources-private/api-all.txt line 92611 \"BHUTAKESI (Rhizome)\", line 92613: \"Bhutakesi consists of dried rhizomes of Selinum vaginatum C.B. Clarke (Fam. / Apiaceae), a glabrous herb attaining a height of 1 to 1.5 m distributed in Himalayas from / Kashmir to Kumaon between altitudes of 1800 and 3900 m.\" Identical to the pr"
+  },
+  {
+   "slug": "bhutika",
+   "why": "verifier rejected",
+   "reasons": "REJECT. The API citation is real but does not identify this page.\n\n(b) Sentence confirmed verbatim (OCR line wraps only) at api-all.txt line 77731: \"Kattrna consists of the whole plant of Cymbopogon citratus (DC.) Stapf syn: / Andropogon citratus DC. (Fam. Poaceae), a tall tufted perennial grass cultivated in various / parts of India.\" Heading \"KATTRNA (Whole Plant)\" at line 77728; volume markers put it in VOLUME - V (69735-89975). Both proposal claims check out.\n\n(d) GBIF re-run independently: Cymbopogon citratus -> matchType EXACT, status ACCEPTED, usageKey 2705275, Poaceae. No OCR correctio"
+  },
+  {
+   "slug": "devadali",
+   "why": "verifier rejected",
+   "reasons": "a. CATEGORY. The vault path (srcRel: Ayurveda/Herbs/Single-Herbs/Joint-Musculoskeletal/Devadali) and the dosage forms (Swarasa, Churna, Kashayam) point to a single plant drug, so \"plant\" is the best available category and I do not reject on category grounds. But the page is not merely \"partly\" inconsistent: the one section whose entire job is to say what the substance is - \"## What is it made of?\" - reads \"Primary component: Mineral-derived preparation\" with \"Analytical Methods: XRD, ICP-OES, SEM-EDS\". Frontmatter botanical, family, sanskrit and aliases are all empty, the names table has a sin"
+  },
+  {
+   "slug": "grinjana",
+   "why": "verifier rejected",
+   "reasons": "REFUTATION UPHELD — reject, and the proposal's own null binomial is the right call; I reject it as a publishable identification.\n\n(a) Category. The body is a single plant drug: dosage forms \"Fresh root (culinary/medicinal), Churna (dried root powder), Swarasa (fresh juice)\"; markers \"Beta-carotene, Alpha-carotene, Lutein, Falcarinol, Falcarindiol, Carotol (seed oil)\"; extraction by fresh juice expression and supercritical CO2 for carotenoids. So \"plant\" is the correct category. But the page contradicts itself: the \"What is it made of?\" section reads \"Primary component: Mineral-derived preparat"
+  },
+  {
+   "slug": "hrivera",
+   "why": "verifier rejected",
+   "reasons": "REFUTATION UPHELD - reject, and the proposal's own null binomial is the correct outcome.\n\n(a) Category. Hrivera (Balaka/Udichya/Iruveli) is a classical single plant drug, and the page's dravyaguna (Rasa Tikta, Guna Laghu/Ruksha, Virya Sheeta, Vipaka Katu), its root-based dosage forms (Churna, Kashayam, Taila) and steam-distilled essential oil all fit a plant. So \"plant\" is the right bucket. But the page is badly degraded: frontmatter botanical, family, sanskrit and aliases are all empty strings, the Names table has one row (\"English | Hrivera\"), and \"What is it made of?\" is a \"Mineral/Elementa"
+  },
+  {
+   "slug": "kadara",
+   "why": "verifier rejected",
+   "reasons": "API citation checks out, but the page does not, so the binomial is not publishable.\n\n(b) CONFIRMED. api-all.txt line 76061 \"KADARAH (Heart Wood)\" and line 76064 \"Kadarah consist of dried pieces of heart wood of Acacia suma Buch.- Ham. (Fam. Mimosaceae), a medium sized tree with white bark exfoliating in papery flakes with horizontal patches of darker colour, found in W. Bengal, Bihar and Southern Western Ghat.\" Only OCR line-wrapping differs. Volume markers: VOLUME - V at line 69735, VOLUME - VI at 89976, so line 76061 is Volume V. The Vol V contents index (line ~69972) independently lists \"25"
+  },
+  {
+   "slug": "kakatikta",
+   "why": "category uncertain, verdict reject",
+   "reasons": "Attempted refutation; the proposal's core claim holds, and the verdict is reject because no binomial is publishable.\n\n(a) Category. I read /Users/jairajsharma/Projects/ayurveda-atlas/content/herb/kakatikta.md in full. Frontmatter carries botanical: \"\", family: \"\", sanskrit: \"\", aliases: [], and the body gives no part used, no habit, no family, no Sanskrit synonyms, no named constituents. The \"Name"
+  },
+  {
+   "slug": "karnikara",
+   "why": "verifier rejected",
+   "reasons": "REJECT. (b) No API anchor exists. I grepped /Users/jairajsharma/Projects/ayurveda-atlas/sources-private/api-all.txt for karn, karnik, Pterosperm, mucukund, muchukund and kanaka champa. There is no KARNIKARA heading in Volumes I-VI and no occurrence of the genus Pterospermum anywhere in the text. The only 'Karn-' drug headings are KARNASPHOTA (Seed) and KARNASPHOTA (Root), which line 77333 and line 77532 define as Cardiospermum halicacabum Linn. (Fam. Sapindaceae), a wholly different drug. The 'Karnika' hit at line 52322 is a vernacular-table entry inside the Rose monograph ('Devataruni, Karnik"
+  },
+  {
+   "slug": "krishna-jeeraka",
+   "why": "verifier rejected",
+   "reasons": "The proposal's mechanical checks all hold, but the load-bearing identity check fails, so this rejects by the stated default.\n\n(b) CONFIRMED. The sentence is verbatim in /Users/jairajsharma/Projects/ayurveda-atlas/sources-private/api-all.txt at line 10166, differing only in OCR line wrapping and the OCR split \"Krsnaj iraka\": \"Krsnaj iraka consists of dried ripe fruits of Carum carvi Linn. (Fam. Umbelliferae), a biennial herb, 30-90 cm high, cultivated as a cold season crop in plains of India and as summer crop in hilly areas of Kashmir, Kumaon, Garhwal and Chamba.\" Heading \"KRSNAJIRAKA (Fruit)\""
+  },
+  {
+   "slug": "kumbhika",
+   "why": "verifier rejected",
+   "reasons": "a. CATEGORY. Page read at content/herb/kumbhika.md. kind \"herb\", dosage forms Churna/Kashayam/Swarasa/Lepa, marker compounds oleanolic acid, betulinic acid, beta-sitosterol, quercetin, gallic acid, tannins, \"Extraction Methods\" with hydroalcoholic and Soxhlet, and synergists Kumuda/Padmaka/Sariva/Chandana. This is a plant drug, so \"plant\" is the right category. The proposal's suggestion that the \"Primary component: Mineral-derived preparation\" line hints at a bhasma is refuted: that exact line occurs in 128 of the content/herb pages, so it is template filler carrying zero identification signal"
+  },
+  {
+   "slug": "kumud",
+   "why": "verifier rejected",
+   "reasons": "REJECT. The API citation itself checks out, but it does not belong to this page.\n\n(b) Verbatim check PASSES. sources-private/api-all.txt line 44060 \"KUMUDA (Flower)\", line 44063 \"Kumuda consists of dried flowers of Nymphaea alba Linn. (Fam. Nymphaeaceae); a perennial aquatic herb, very common in ponds, streams and fresh water lakes and upto 1800 m.\" (OCR line breaks only). Volume header VOLUME - III is at line 33663 and VOLUME - IV at 54995, so the monograph is Vol III as claimed. (d) GBIF re-run independently: name=Nymphaea alba&strict=true -> matchType EXACT, status ACCEPTED, usageKey 288243"
+  },
+  {
+   "slug": "kurabaka",
+   "why": "verifier rejected",
+   "reasons": "REJECT. The proposal itself offers no binomial, so there is nothing publishable, and the supporting work does not hold up.\n\n1. No API anchor exists. I grepped api-all.txt with -iE for kurab|kurav|kurub|kura *baka|kuraba and for korant|karant|kurand|kurant. The only hits are: line 49641 \"Sanskrit : Kurantaka, Koranda, Kerandaka\" (SAHACARA), line 49659 \"Marathi : Koranta, Koranti\", line 102694 SITIVARAKA synonyms \"Kuranda, Kurantika\", and line 71600 \"Kukkuravisa\" (a disease term, false positive). The string Kurabaka / Kuravaka appears nowhere in Volumes I-VI, as heading or synonym. So apiMonogra"
+  },
+  {
+   "slug": "madhukarkati",
+   "why": "verifier rejected",
+   "reasons": "Citation checks out; identity does not. Rejecting on step (c).\n\n(b) VERIFIED. The quoted sentence is real at /Users/jairajsharma/Projects/ayurveda-atlas/sources-private/api-all.txt lines 95122-95124, verbatim apart from line wraps and the OCR split \"Erandakarkat i\". Heading \"ERANDAKARKATI (Fruit)\" is at line 95119; volume markers put it in VOLUME - VI (starts line 89976, last volume). \"Madhukarkati\" occurs exactly once in the whole API text (line 95126) and only as a SYNONYMS line, never as a monograph heading. The OCR-mangled variant \"Mdhukarkat i\" occurs once more (line 95271) under ERANDAKA"
+  },
+  {
+   "slug": "mamsarohini",
+   "why": "category uncertain, verdict reject",
+   "reasons": "REJECT. The proposal supplies no binomial and nothing load-bearing survives independent checking.\n\n(b) No API monograph exists. I grepped sources-private/api-all.txt for \"Mamsarohini\", \"Mamsa rohini\", \"MAMSA\", \"Soymida\", \"Soymid\" and \"febrifuga\": zero hits for any of them (the only \"Mamsa\" hits are Karma/guna phrases such as \"Asthi Mamsa Sandhanakara\" and \"Mamsavardhaka\", not a drug heading). data"
+  },
+  {
+   "slug": "masi",
+   "why": "category formulation, verdict reject",
+   "reasons": "AGREED AND CONFIRMED (no binomial): the API has no monograph for Masi. `grep -nE \"^[[:space:]]*MAS[I]|MASHI\"` and `grep -i \"masi consists\"` over /Users/jairajsharma/Projects/ayurveda-atlas/sources-private/api-all.txt return nothing; the only hits for the string are inside the KAKAJANGHA monograph (Peristrophe bicalyculata Nees, Fam. Acanthaceae, dried root) at lines 41784 and 76331, where Masi sit"
+  },
+  {
+   "slug": "matulunga-rasa",
+   "why": "category uncertain, verdict reject",
+   "reasons": "WHAT CHECKS OUT (not in dispute):\n- (b) API sentence confirmed verbatim at sources-private/api-all.txt line 37599: \"Bijapura consists of fresh fruit of Citrus medica Linn. (Fam. Rutaceae); an evergreen shrub or small tree, about 3.6 m high with short, thick and thorny branches, cultivated sparsely throughout the warm-moist regions of the eountry.\" (only OCR line-wrap differs). Heading at line ~375"
+  },
+  {
+   "slug": "mayurashikha",
+   "why": "category uncertain, verdict reject",
+   "reasons": "REFUTED on every load-bearing point; the proposal's own conclusion (no binomial) is right, but its category call is not safe either.\n\n(a) Page read in full (/Users/jairajsharma/Projects/ayurveda-atlas/content/herb/mayurashikha.md). It carries no botanical, no family, no Sanskrit, no aliases, and its \"Names and identification\" table has exactly one row: \"English | Mayurashikha\". The answer line is "
+  },
+  {
+   "slug": "morning-glory",
+   "why": "category uncertain, verdict reject",
+   "reasons": "Independently checked; the proposal survives refutation and I add one further count against it.\n\n(a) Page read in full (/Users/jairajsharma/Projects/ayurveda-atlas/content/herb/morning-glory.md). Frontmatter has botanical:\"\", family:\"\", sanskrit:\"\" and the only name row in the identification table is \"English | Morning_Glory\" — there is no Sanskrit or vernacular anchor of any kind. It is filed und"
+  },
+  {
+   "slug": "nadi-hingu",
+   "why": "verifier rejected",
+   "reasons": "API citation checks out. grep of sources-private/api-all.txt finds the heading \"NADIHINGU (Exudate)\" at line 100011 and the proposed sentence verbatim at line 100014 (OCR line wraps only): \"Nadihingu is the dried resinous exudation from the shoot tip of Gardenia gummifera L. f. Syn. G. arborea Roxb. (Fam. Rubiaceae), a large shrub occurring in moist deciduous forests of India.\" Line 100011 sits after the \"VOLUME - VI\" marker at line 89976 with no further volume marker, so Volume VI is confirmed. My own GBIF strict match on Gardenia gummifera returns matchType EXACT, status ACCEPTED, scientific"
+  },
+  {
+   "slug": "nagadanti",
+   "why": "verifier rejected",
+   "reasons": "REFUTED on every load-bearing point; reject stands.\n\n(a) Category. The page IS a plant drug, so the proposal's category call is right and its \"mineral\" red herring is a broken template, not a signal. /Users/jairajsharma/Projects/ayurveda-atlas/content/herb/nagadanti.md line 41 says \"Primary component: Mineral-derived preparation\" with \"Analytical Methods: XRD, ICP-OES, SEM-EDS\" (line 44), but every dosage form is botanical: \"Churna (root/leaf powder), Kwatha (decoction), Capsules, Svarasa (leaf juice), Lepa\" (line 48), plus \"Shodhita (purified) root extract\" (line 56) and \"Cold maceration of l"
+  },
+  {
+   "slug": "patola-patra",
+   "why": "verifier rejected",
+   "reasons": "REFUTATION CONFIRMS THE PROPOSAL'S OWN NULL RESULT; the verdict is reject.\n\n(a) Category. The page (/Users/jairajsharma/Projects/ayurveda-atlas/content/herb/patola-patra.md) is about a single plant part: \"Swarasa (fresh leaf juice), Kwatha (decoction), Churna (leaf powder) ... Lepa\"; dosage \"10-15 mL fresh leaf juice daily; 2-4 g dried leaf powder\"; extraction \"Fresh leaf juice extraction by mechanical pressing\", \"Shade-drying followed by powdering\". So \"plant\" is the right category, and the \"Mineral/Elemental Profile: Mineral-derived preparation / Analytical Methods: XRD, ICP-OES, SEM-EDS\" bl"
+  },
+  {
+   "slug": "patola",
+   "why": "verifier rejected",
+   "reasons": "REJECT. The proposal's own conclusion (binomial null) is correct, and I reach the same result independently, so nothing publishable comes out of this page.\n\n(a) Category. The page is a plant drug, not a formulation or isolate: dosage forms are \"Swarasa (fresh juice), Kwatha (decoction), Churna (powder) ... Cooked vegetable preparation\"; dose is \"3-5 g dried fruit/leaf powder\"; shelf life is given for \"Fresh fruit: 3-5 days refrigerated\"; markers are cucurbitacins B/E and phytosterols. So category \"plant\" stands. The \"Mineral/Elemental Profile - Primary component: Mineral-derived preparation .."
+  },
+  {
+   "slug": "putikaranja",
+   "why": "verifier rejected",
+   "reasons": "REFUTED on three independent load-bearing points; default is reject.\n\n(b) CITATION IS REAL. The quoted sentence exists verbatim at api-all.txt line 85481: \"Putikaranja is the dried stem bark of Caesalpinia crista Linn. (Fam. Caesalpiniaceae);\". Heading at line 85479 is OCR-split \"PUT IKARANJA (Stem Bark)\"; the Vol V index (line 70337) confirms \"PUTIKARANJA (Stem Bark) / Caesalpinia crista Linn / 152\". Line 85481 falls between \"VOLUME - V\" (69735) and \"VOLUME - VI\" (89976), so Volume V is confirmed. This part of the proposal checks out.\n\n(c) THE MONOGRAPH IS NOT THE SAME DRUG AS THE PAGE. This "
+  },
+  {
+   "slug": "rajika",
+   "why": "verifier rejected",
+   "reasons": "VERDICT: reject (binomial not publishable). The proposal's own conclusion (no API anchor, binomial null) survives my attempt to refute it, but a null binomial cannot be an \"accept\" for a plant page, and the proposal's supporting details needed two corrections.\n\n(a) CATEGORY — plant, confirmed. I read /Users/jairajsharma/Projects/ayurveda-atlas/content/herb/rajika.md in full. It is a single-plant seed drug: \"Dosage Forms: Churna (seed powder), Taila (mustard oil), Lepa (paste/poultice)\"; \"1-3 g seed powder daily; 5-10 mL mustard oil for cooking\"; marker compounds \"Sinigrin, Allyl isothiocyanate"
+  },
+  {
+   "slug": "raktamoola",
+   "why": "verifier rejected",
+   "reasons": "Checked independently; the proposal's conclusion (no publishable binomial) holds, and rejection is required because nothing load-bearing anchors a name.\n\n(a) Category. The substantive body is a plant root drug: dosage forms \"Churna (root powder), Kwatha (decoction) ... Lepa (paste), Taila (oil)\"; \"1-3 g root powder twice daily\"; \"Raktamoola root extract (8:1) standardized to total naphthoquinones >3% (as shikonin + alkannin)\"; shelf life given for \"Dried root\" and \"Root powder\"; markers Shikonin, Alkannin, Acetylshikonin, Arnebinol, beta-sitosterol. So \"plant\" is the right category, not formul"
+  },
+  {
+   "slug": "sarja",
+   "why": "verifier rejected",
+   "reasons": "Bibliographic facts in the proposal check out, but the page-to-monograph identity does not, so I reject.\n\nVERIFIED (a, b, d):\n- Category: the page is a single-plant tree drug (group Trees-Large-Plants, dosage forms churna/kwatha/taila/resin, extraction by oleoresin tapping, botanical marker compounds). Category \"plant\" is right; it is not a formulation or isolate. The stray \"Primary component: Mineral-derived preparation\" with XRD/ICP-OES/SEM-EDS is a generator artifact, not the page's real subject.\n- API sentence found verbatim at /Users/jairajsharma/Projects/ayurveda-atlas/sources-private/ap"
+  },
+  {
+   "slug": "sarpaksi",
+   "why": "verifier rejected",
+   "reasons": "REJECT. No binomial is publishable for this page.\n\n(a) CATEGORY: \"plant\" is correct and I confirm the proposal's reasoning. The body's \"Primary component: Mineral-derived preparation\" with XRD/ICP-OES/SEM-EDS is template noise, not evidence: `grep -rl \"Mineral-derived preparation\" content/herb/` matches 128 pages, including unambiguous plant drugs (patola, pilu, putikaranja, badara, gavedhuka). The genuine content is plant-shaped (Churna/Kwatha/Swarasa/Lepa, \"Hydroalcoholic whole plant extract (5:1)\", flavonoid markers quercetin/kaempferol/beta-sitosterol/ursolic acid). So the category is not "
+  },
+  {
+   "slug": "shankhini",
+   "why": "category uncertain, verdict reject",
+   "reasons": "REFUTED on every load-bearing point; the proposal's own conclusion (null binomial) survives, so the page must be rejected rather than published.\n\n(b) No API anchor exists. Grepping /sources-private/api-all.txt for shankhini, sankhini, and the regex sa[nm]?kh[ai]n / sa(n)kh / shankh / sankh returns zero occurrences of Shankhini in any spelling. Every hit is a different word: SANKHAPUSPI (Convolvulu"
+  },
+  {
+   "slug": "shvet-musli",
+   "why": "verifier rejected",
+   "reasons": "CATEGORY: \"plant\" is correct, so the proposal's category call survives. /Users/jairajsharma/Projects/ayurveda-atlas/content/herb/shvet-musli.md describes a single crude root drug: \"3-6 g root powder per day\", \"5-10 g Musli Pak with warm milk\", \"Root extract (10:1 in 60% ethanol)\", \"Extremely hygroscopic due to mucilage\", galactomannan/glucomannan \"30-40% of dry weight\". The \"Mineral/Elemental Profile - Primary component: Mineral-derived preparation\" block with XRD/ICP-OES is template noise flatly contradicted by the rest of the page; it does not make this a mineral. So the category is not the "
+  },
+  {
+   "slug": "simhamoola",
+   "why": "category uncertain, verdict reject",
+   "reasons": "Independently verified; proposal's conclusion (no binomial, category uncertain) holds, though one of its stated reasons is wrong and must not be carried forward.\n\na. Page read in full (/Users/jairajsharma/Projects/ayurveda-atlas/content/herb/simhamoola.md). It carries NO identifying anchor whatsoever: botanical \"\", family \"\", sanskrit \"\", aliases [], and the Names table has a single row \"English |"
+  },
+  {
+   "slug": "somavalli",
+   "why": "verifier rejected",
+   "reasons": "VERDICT: reject (agreeing with the proposal's null binomial, but correcting its category and its reasoning).\n\n(b) API check - independently re-run, nothing found. The proposal quotes no API sentence, so there is nothing to find verbatim. I grepped /Users/jairajsharma/Projects/ayurveda-atlas/sources-private/api-all.txt case-insensitively for: somav, somalata, \"soma lata\", \"soma valli\", Sarcostemma, Cynanchum, Ephedra, and bare \"Soma\". Every \"Soma\" hit belongs to another drug: \"Somaraji\" = Bakuci/Avalguja (Psoralea) at lines 4059/4196 and Vanajiraka at 89046-47; \"Somavalkah, Svetakhadirah\" at li"
+  },
+  {
+   "slug": "sthuneyaka",
+   "why": "verifier rejected",
+   "reasons": "CATEGORY: plant is correct. The page's 'Mineral/Elemental Profile -> Mineral-derived preparation' line with XRD/ICP-OES is confirmed template filler: it appears on 128 of 504 files in content/herb/, including unambiguous plants (patola.md, bhumyamalaki.md, jati.md, pilu.md, koshataki.md). The proposal is right about that, so the mineral block is not the reason for rejection.\n\n(b) API SENTENCE CONFIRMED VERBATIM. sources-private/api-all.txt line 53091: 'Sthauneya consists of dried leaf of Taxus baccata Linn. (Fam. Taxaceae); an evergreen conifer, about 6.5 m high, distributed in the temperate H"
+  },
+  {
+   "slug": "svetamarica",
+   "why": "verifier rejected",
+   "reasons": "Reject. The proposal itself offers no binomial and no API anchor, and my independent checks confirm there is nothing publishable here.\n\n(a) Category. The page is a single botanical drug page, so \"plant\" is the right bucket, but the page is internally broken: frontmatter botanical/family/sanskrit are all empty, the \"Names and identification\" table contains one row (English | Svetamarica) with no Sanskrit, Hindi or Latin name, and the \"What is it made of?\" section reads \"Primary component: Mineral-derived preparation ... Analytical Methods: XRD, ICP-OES, SEM-EDS\", which contradicts the piperine/"
+  },
+  {
+   "slug": "tagetes",
+   "why": "verifier rejected",
+   "reasons": "REFUTATION RESULT: the proposal's null binomial is correct, but the record is not publishable, so the verdict is reject.\n\n(a) Category. The page (/Users/jairajsharma/Projects/ayurveda-atlas/content/herb/tagetes.md) is plant material: \"Churna (flower powder)\", \"Steam distillation for essential oil (yield 0.3-0.5%)\", \"Hexane extraction of dried flowers for oleoresin\", dose \"1-3 g flower powder per day\". Category \"plant\" is right; it is not a formulation and not an isolate (lutein is one product of it, not the drug). But the page carries a defect the proposal flagged correctly: a \"Mineral/Element"
+  },
+  {
+   "slug": "tanduliyaka",
+   "why": "verifier rejected",
+   "reasons": "REFUTED on the load-bearing points; the proposal's own null binomial is the right call, and the verdict is reject.\n\n(a) Category. The page (/Users/jairajsharma/Projects/ayurveda-atlas/content/herb/tanduliyaka.md) is a plant drug despite its boilerplate. Evidence for plant: \"Svarasa (fresh juice), Churna (powder), Kwatha (decoction)\"; \"Iron and calcium from the plant matrix\"; markers \"Amaranthine, Isoamaranthine, Rutin, Quercetin, Kaempferol, beta-Sitosterol, Gallic acid, Ferulic acid\"; \"Freeze drying for color-sensitive betalains\". The block \"Mineral/Elemental Profile - Primary component: Mine"
+  },
+  {
+   "slug": "tilaparni",
+   "why": "category uncertain, verdict reject",
+   "reasons": "REJECT. No binomial is publishable for this page; the proposal's null binomial is right, but \"uncertain\" records that identity could not be established rather than a verified category, so nothing here can be published as an identification.\n\n(a) Category check. I read /Users/jairajsharma/Projects/ayurveda-atlas/content/herb/tilaparni.md in full. Frontmatter carries botanical: \"\", family: \"\", sanskr"
+  },
+  {
+   "slug": "tintidika",
+   "why": "verifier rejected",
+   "reasons": "Verified but rejected. (b) The quoted sentence IS present verbatim (OCR whitespace only) at api-all.txt ~line 57474 under heading 'CINCA (Fruit Pulp)', located between 'VOLUME - IV' (line 54995) and 'VOLUME - V' (line 69735), so heading and volume as claimed. (d) GBIF re-run independently: Tamarindus indica = matchType EXACT, status ACCEPTED, usageKey 2975768, no OCR correction needed. So the proposal's citation mechanics check out.\n\nWhat fails is (c), identity. The API itself contains a monograph headed with this page's exact name: 'TINTIDIKAH (Aerial Part)' in Volume V (api-all.txt line ~875"
+  },
+  {
+   "slug": "utpala",
+   "why": "GBIF not EXACT for Nymphaea stellata"
+  },
+  {
+   "slug": "vetasa",
+   "why": "verifier rejected",
+   "reasons": "REFUTED. The API citation itself checks out, but three load-bearing links fail.\n\n(b) Citation verified. /Users/jairajsharma/Projects/ayurveda-atlas/sources-private/api-all.txt line 104363 \"SVETA VETASA (Leaf)\", line 104368 \"Sveta vetasa consists of dried leaves of Salix alba L. (Fam. Salicaceae), a large tree\". Line 104363 falls after the \"VOLUME - VI\" marker at line 89976, so Vol. VI is correct. Verbatim, no OCR distortion.\n\n(c) FAILURE 1 - different drug name. The API has no monograph for plain Vetasa. Exhaustive grep for OCR splits (vet *as *a, veta sa, ve tasa, veda-muska, Bed Sada) return"
+  },
+  {
+   "slug": "vriddhi",
+   "why": "verifier rejected",
+   "reasons": "a. CATEGORY. Plant, not a formulation or isolate. Body: dosage forms \"Churna (tuber powder), Kwatha (decoction)... Ksheera Paka\"; \"Habenaria/orchid alkaloids have moderate oral bioavailability (~20-35%)\"; markers \"Habenariol, Dactylorhin A, Militarine, beta-Sitosterol, Daucosterol, Glucomannan (mucilage), Orchinol\"; \"Tuber extract standardized to >5% total saponins\". That is an orchid tuber, i.e. the Ashtavarga drug Vriddhi. The \"Mineral/Elemental Profile: Mineral-derived preparation / Analytical Methods: XRD, ICP-OES, SEM-EDS\" block is boilerplate contradicted by every other field, so categor"
+  },
+  {
+   "slug": "vrikshamla-phala",
+   "why": "verifier rejected",
+   "reasons": "REFUTATION OUTCOME: the proposal's own conclusion (no API anchor, no publishable binomial) survives my independent check, so this must be rejected as a publishable identification. Details:\n\n(a) CATEGORY. I read /Users/jairajsharma/Projects/ayurveda-atlas/content/herb/vrikshamla-phala.md in full. It is a plant drug: \"Dosage Forms: Fruit rind powder ... Culinary seasoning (Kokam/Malabar tamarind), Kokum butter (seed fat)\"; \"Extraction Methods: Sun drying of fruit rinds (traditional Amsul/Kokum preparation) ... Cold pressing of seeds for Kokum butter\". Category \"plant\" is correct. The \"### Minera"
+  },
+  {
+   "slug": "vyaghranakhi",
+   "why": "verifier rejected",
+   "reasons": "The API citation checks out; the identification of THIS PAGE does not.\n\nWHAT VERIFIES (b, d). The quoted sentence is verbatim at api-all.txt line 89796, wrapped over three OCR lines: \"Vyaghranakha consists of mature fruit of Capparis sepiaria Linn. syn. C. zeylanica / Linn. f. (Fam. Capparidaceae), a perennial climbing shrub with hooked stipular spines, / distributed throughout India, in the plains.\" Heading \"VYAGHRANAKHA (Fruit)\" at line 89793. Volume V confirmed by position (VOLUME - V at 69735, VOLUME - VI at 89976). My own GBIF strict match on Capparis sepiaria: matchType EXACT, status ACC"
+  }
+ ],
+ "classified": [
+  {
+   "slug": "abhraka-bhasma",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "aja-dugdha-goat-milk",
+   "substanceClass": "animal",
+   "basis": "folder"
+  },
+  {
+   "slug": "akika-pishti",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "dadhi",
+   "substanceClass": "animal",
+   "basis": "folder"
+  },
+  {
+   "slug": "dhatri-loha",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "ghrita",
+   "substanceClass": "animal",
+   "basis": "folder"
+  },
+  {
+   "slug": "godanti-bhasma",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "godugdha",
+   "substanceClass": "animal",
+   "basis": "folder"
+  },
+  {
+   "slug": "gomeda-bhasma",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "gomutra",
+   "substanceClass": "animal",
+   "basis": "folder"
+  },
+  {
+   "slug": "gorochana",
+   "substanceClass": "animal",
+   "basis": "folder"
+  },
+  {
+   "slug": "hajrul-yahood-bhasma",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "haratala-bhasma",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "hinguleshwar-ras",
+   "substanceClass": "rasa-preparation",
+   "basis": "folder"
+  },
+  {
+   "slug": "icchabhedi-rasa",
+   "substanceClass": "rasa-preparation",
+   "basis": "folder"
+  },
+  {
+   "slug": "jahar-mohra-pishti",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "kaharuba-pishti",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "kamsya-bhasma",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "kanmad-bhasma",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "kasis-bhasma",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "kasturi",
+   "substanceClass": "animal",
+   "basis": "folder"
+  },
+  {
+   "slug": "krimi-kuthar-rasa",
+   "substanceClass": "rasa-preparation",
+   "basis": "folder"
+  },
+  {
+   "slug": "kshara-parpati",
+   "substanceClass": "rasa-preparation",
+   "basis": "folder"
+  },
+  {
+   "slug": "kukkutanda-twak-bhasma",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "laghu-sutshekhar-ras",
+   "substanceClass": "rasa-preparation",
+   "basis": "folder"
+  },
+  {
+   "slug": "loha-bhasma",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "lohasava",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "madhu-mandur",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "madhu",
+   "substanceClass": "animal",
+   "basis": "folder"
+  },
+  {
+   "slug": "mahalakshmi-vilas-rasa",
+   "substanceClass": "rasa-preparation",
+   "basis": "folder"
+  },
+  {
+   "slug": "makaradhwaj-vati",
+   "substanceClass": "rasa-preparation",
+   "basis": "folder"
+  },
+  {
+   "slug": "mandura-bhasma",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "manikya-pishti",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "mrigashringa-bhasma",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "mukta-pishti",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "naga-bhasma",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "navaratna-raja-mriganka-rasa",
+   "substanceClass": "rasa-preparation",
+   "basis": "folder"
+  },
+  {
+   "slug": "navayasa-loha",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "neelam-pishti",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "nityananda-rasa",
+   "substanceClass": "rasa-preparation",
+   "basis": "folder"
+  },
+  {
+   "slug": "panchamrita-parpati",
+   "substanceClass": "rasa-preparation",
+   "basis": "folder"
+  },
+  {
+   "slug": "panna-pishti",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "pradarantak-lauh",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "pravala-pishti",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "rasamanikya",
+   "substanceClass": "rasa-preparation",
+   "basis": "folder"
+  },
+  {
+   "slug": "raupya-bhasma",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "saindhava-lavana",
+   "substanceClass": "salt",
+   "basis": "folder"
+  },
+  {
+   "slug": "sameer-pannag-rasa",
+   "substanceClass": "rasa-preparation",
+   "basis": "folder"
+  },
+  {
+   "slug": "samudra-lavana",
+   "substanceClass": "salt",
+   "basis": "folder"
+  },
+  {
+   "slug": "saptamrit-lauh",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "shankha-bhasma",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "shilajit",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "shothari-loha",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "shukti-bhasma",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "siddha-makardhwaj",
+   "substanceClass": "rasa-preparation",
+   "basis": "folder"
+  },
+  {
+   "slug": "souvarchala-lavana",
+   "substanceClass": "salt",
+   "basis": "folder"
+  },
+  {
+   "slug": "sphatika-bhasma",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "swarna-bhasma",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "swarna-parpati",
+   "substanceClass": "rasa-preparation",
+   "basis": "folder"
+  },
+  {
+   "slug": "swarna-vasant-malti-ras",
+   "substanceClass": "rasa-preparation",
+   "basis": "folder"
+  },
+  {
+   "slug": "takra",
+   "substanceClass": "animal",
+   "basis": "folder"
+  },
+  {
+   "slug": "tamra-bhasma",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "tankana-bhasma",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "tapyadi-loha",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "tribhuvan-kirti-rasa",
+   "substanceClass": "rasa-preparation",
+   "basis": "folder"
+  },
+  {
+   "slug": "trivanga-bhasma",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "vaikranta-bhasma",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "vajra-bhasma",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "vanga-bhasma",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "varatika-bhasma",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "vasant-kusumakar-rasa",
+   "substanceClass": "rasa-preparation",
+   "basis": "folder"
+  },
+  {
+   "slug": "vatagajankush-rasa",
+   "substanceClass": "rasa-preparation",
+   "basis": "folder"
+  },
+  {
+   "slug": "vida-lavana",
+   "substanceClass": "salt",
+   "basis": "folder"
+  },
+  {
+   "slug": "yashada-bhasma",
+   "substanceClass": "mineral",
+   "basis": "folder"
+  },
+  {
+   "slug": "yavakshara",
+   "substanceClass": "salt",
+   "basis": "folder"
+  },
+  {
+   "slug": "agnijara",
+   "substanceClass": "uncertain",
+   "basis": "verified"
+  },
+  {
+   "slug": "agnikumarika",
+   "substanceClass": "uncertain",
+   "basis": "verified"
+  },
+  {
+   "slug": "anjatraya",
+   "substanceClass": "uncertain",
+   "basis": "verified"
+  },
+  {
+   "slug": "arka-ksheera",
+   "substanceClass": "plant-product-mixture",
+   "basis": "verified"
+  },
+  {
+   "slug": "avipattikar-herbs",
+   "substanceClass": "formulation",
+   "basis": "verified"
+  },
+  {
+   "slug": "avipattikar",
+   "substanceClass": "formulation",
+   "basis": "verified"
+  },
+  {
+   "slug": "camphor",
+   "substanceClass": "compound-or-isolate",
+   "basis": "verified"
+  },
+  {
+   "slug": "chakshushya",
+   "substanceClass": "uncertain",
+   "basis": "verified"
+  },
+  {
+   "slug": "chandraprabha",
+   "substanceClass": "formulation",
+   "basis": "verified"
+  },
+  {
+   "slug": "chitrakaharitaki",
+   "substanceClass": "formulation",
+   "basis": "verified"
+  },
+  {
+   "slug": "curcumin",
+   "substanceClass": "compound-or-isolate",
+   "basis": "verified"
+  },
+  {
+   "slug": "dadrughna",
+   "substanceClass": "uncertain",
+   "basis": "verified"
+  },
+  {
+   "slug": "dashamoola",
+   "substanceClass": "formulation",
+   "basis": "verified"
+  },
+  {
+   "slug": "drakshavaleha",
+   "substanceClass": "formulation",
+   "basis": "verified"
+  },
+  {
+   "slug": "gandhak-rasayan",
+   "substanceClass": "formulation",
+   "basis": "verified"
+  },
+  {
+   "slug": "kankataka",
+   "substanceClass": "uncertain",
+   "basis": "verified"
+  },
+  {
+   "slug": "karpura-camphor",
+   "substanceClass": "compound-or-isolate",
+   "basis": "verified"
+  },
+  {
+   "slug": "ksheera",
+   "substanceClass": "animal",
+   "basis": "verified"
+  },
+  {
+   "slug": "kshirabala-101-avarti",
+   "substanceClass": "formulation",
+   "basis": "verified"
+  },
+  {
+   "slug": "lasuna-ksheerapaka",
+   "substanceClass": "formulation",
+   "basis": "verified"
+  },
+  {
+   "slug": "lodhrasva",
+   "substanceClass": "formulation",
+   "basis": "verified"
+  },
+  {
+   "slug": "mahamanjishthadi",
+   "substanceClass": "formulation",
+   "basis": "verified"
+  },
+  {
+   "slug": "mahanarayan",
+   "substanceClass": "formulation",
+   "basis": "verified"
+  },
+  {
+   "slug": "menthol",
+   "substanceClass": "compound-or-isolate",
+   "basis": "verified"
+  },
+  {
+   "slug": "sitopalasav",
+   "substanceClass": "formulation",
+   "basis": "verified"
+  },
+  {
+   "slug": "soubhagya-shunthi",
+   "substanceClass": "formulation",
+   "basis": "verified"
+  },
+  {
+   "slug": "suryavarta",
+   "substanceClass": "uncertain",
+   "basis": "verified"
+  },
+  {
+   "slug": "trikatu",
+   "substanceClass": "formulation",
+   "basis": "verified"
+  },
+  {
+   "slug": "triphala-herbs",
+   "substanceClass": "plant-product-mixture",
+   "basis": "verified"
+  },
+  {
+   "slug": "triphala",
+   "substanceClass": "formulation",
+   "basis": "verified"
+  },
+  {
+   "slug": "ushirasva",
+   "substanceClass": "formulation",
+   "basis": "verified"
+  },
+  {
+   "slug": "vyaghri-haritaki",
+   "substanceClass": "formulation",
+   "basis": "verified"
+  }
+ ],
+ "summary": {
+  "examined": 126,
+  "binomialsAccepted": 46,
+  "classifiedNotPlant": 107,
+  "rejected": 48
+ }
+}

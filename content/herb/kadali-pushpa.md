@@ -16,7 +16,7 @@ aliases: ["Kadali Pushpa", "KadaliPushpa", "Musa paradisiaca L. (inflorescence/f
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 616
+words: 595
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali-Pushpa/meta-analysis.md"
 ---
 ## Names and identification
@@ -65,8 +65,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali-Pushpa/meta-analysis.m
 - Banana flower is widely consumed as a vegetable in South and Southeast Asian cuisines with long history of safe dietary use
 - No significant toxicity concerns reported; traditional culinary preparation (cooking/steaming) is the standard method of consumption
 - May have mild uterotonic properties; some traditional practices use banana flower for menstrual regulation - exercise caution during pregnancy
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

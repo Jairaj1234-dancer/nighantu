@@ -16,7 +16,7 @@ aliases: ["Clitoria ternatea L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 646
+words: 625
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aparajita/meta-analysis.md"
 ---
 ## Names and identification
@@ -60,8 +60,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aparajita/meta-analysis.md"
 
 - Generally recognized as safe; widely consumed as herbal tea (butterfly pea tea) globally; no significant adverse effects reported at culinary doses
 - Limited human clinical trial data (only 3 clinical studies identified as of 2025); caution advised during pregnancy due to traditional emmenagogue use; potential interactions with anticoagulant and antiplatelet drugs due to blood platelet aggregation inhibition
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

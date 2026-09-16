@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Vidari is a substance used in the Ayurvedic materia medica. Usual dose: 3-6 g powder twice daily with milk; 50-100 mL decoction twice daily; 10-20 g lehyam daily."
-botanical: ""
+answer: "Vidari (Pueraria tuberosa) is a plant used in Ayurveda. Usual dose: 3-6 g powder twice daily with milk; 50-100 mL decoction twice daily; 10-20 g lehyam daily."
+botanical: "Pueraria tuberosa"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 337
+words: 316
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vidari/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vidari/meta-analysis.md"
 | **Guna** (Quality) | Guru, Snigdha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

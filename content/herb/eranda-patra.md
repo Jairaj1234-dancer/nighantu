@@ -16,7 +16,7 @@ aliases: ["Eranda Patra", "ErandaPatra", "Ricinus communis L. (leaves)"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 739
+words: 718
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda-Patra/meta-analysis.md"
 ---
 ## Names and identification
@@ -65,8 +65,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda-Patra/meta-analysis.md
 - Castor leaves contain ricinine alkaloid which is toxic at high concentrations (though much less toxic than ricin found in seeds); topical use is generally safer than internal administration
 - Traditional Ayurvedic practice uses castor leaves primarily as external poultice (Patra Pinda Sweda) for joint pain, which minimizes systemic toxicity concerns
 - Internal use of leaf preparations should be limited and under medical supervision; avoid during pregnancy and lactation; monitor liver function with prolonged use
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

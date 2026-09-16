@@ -6452,12 +6452,6 @@
     },
     {
       "@type": "ChemicalSubstance",
-      "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/raja-nighantu-vamsharochana/#entity",
-      "name": "Raja Nighantu — \"Vamsharochana\"",
-      "url": "https://jairaj1234-dancer.github.io/nighantu/reference/raja-nighantu-vamsharochana/"
-    },
-    {
-      "@type": "ChemicalSubstance",
       "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/randia-acid/#entity",
       "name": "Randia acid",
       "url": "https://jairaj1234-dancer.github.io/nighantu/reference/randia-acid/"
@@ -7857,6 +7851,26 @@
         "Plant",
         "MedicalEntity"
       ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/talisapatra/#entity",
+      "name": "Talisapatra",
+      "scientificName": "Abies webbiana (Wall. ex D.Don) Lindl.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/talisapatra/",
+      "family": "Pinaceae",
+      "order": "Pinales",
+      "genus": "Abies",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q50826380",
+        "https://www.gbif.org/species/2685620"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
       "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/kankshi/#entity",
       "name": "Kankshi",
       "scientificName": "Abrus precatorius L.",
@@ -8317,6 +8331,26 @@
         "Plant",
         "MedicalEntity"
       ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/matsyakshi/#entity",
+      "name": "Matsyakshi",
+      "scientificName": "Alternanthera sessilis (L.) R.Br. ex DC.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/matsyakshi/",
+      "family": "Amaranthaceae",
+      "order": "Caryophyllales",
+      "genus": "Alternanthera",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q3534965",
+        "https://www.gbif.org/species/3084939"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
       "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/kshavaka/#entity",
       "name": "Kshavaka",
       "scientificName": "Amaranthus spinosus L.",
@@ -8407,6 +8441,26 @@
       "sameAs": [
         "https://www.wikidata.org/wiki/Q45166",
         "https://www.gbif.org/species/3189413"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/ajmoda/#entity",
+      "name": "Ajmoda",
+      "scientificName": "Apium leptophyllum (Pers.) F.Muell.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/ajmoda/",
+      "family": "Apiaceae",
+      "order": "Apiales",
+      "genus": "Cyclospermum",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q17142977",
+        "https://www.gbif.org/species/5371895"
       ],
       "isContainedIn": {
         "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
@@ -8797,6 +8851,26 @@
         "Plant",
         "MedicalEntity"
       ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/saireyaka/#entity",
+      "name": "Saireyaka",
+      "scientificName": "Barleria strigosa Willd.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/saireyaka/",
+      "family": "Acanthaceae",
+      "order": "Lamiales",
+      "genus": "Barleria",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q13893639",
+        "https://www.gbif.org/species/3770457"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
       "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/upodika/#entity",
       "name": "Upodika",
       "scientificName": "Basella alba L.",
@@ -8827,6 +8901,26 @@
       "sameAs": [
         "https://www.wikidata.org/wiki/Q3245410",
         "https://www.gbif.org/species/2953871"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/kachnar/#entity",
+      "name": "Kachnar",
+      "scientificName": "Bauhinia variegata L.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/kachnar/",
+      "family": "Fabaceae",
+      "order": "Fabales",
+      "genus": "Bauhinia",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q840341",
+        "https://www.gbif.org/species/2953251"
       ],
       "isContainedIn": {
         "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
@@ -8896,6 +8990,26 @@
         "Plant",
         "MedicalEntity"
       ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/pashanabheda/#entity",
+      "name": "Pashanabheda",
+      "scientificName": "Bergenia ciliata (Haw.) Sternb.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/pashanabheda/",
+      "family": "Saxifragaceae",
+      "order": "Saxifragales",
+      "genus": "Bergenia",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q162348",
+        "https://www.gbif.org/species/8330218"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
       "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/bhurja/#entity",
       "name": "Bhurja",
       "scientificName": "Betula utilis D.Don",
@@ -8926,6 +9040,26 @@
       "sameAs": [
         "https://www.wikidata.org/wiki/Q50839956",
         "https://www.gbif.org/species/5575383"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/punarnava/#entity",
+      "name": "Punarnava",
+      "scientificName": "Boerhaavia diffusa L.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/punarnava/",
+      "family": "Nyctaginaceae",
+      "order": "Caryophyllales",
+      "genus": "Boerhavia",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q115790884",
+        "https://www.gbif.org/species/7469489"
       ],
       "isContainedIn": {
         "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
@@ -9036,6 +9170,26 @@
         "Plant",
         "MedicalEntity"
       ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/latakaranja/#entity",
+      "name": "Latakaranja",
+      "scientificName": "Caesalpinia bonduc (L.) Roxb.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/latakaranja/",
+      "family": "Fabaceae",
+      "order": "Fabales",
+      "genus": "Guilandina",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q1020695",
+        "https://www.gbif.org/species/2958671"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
       "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/pattanga/#entity",
       "name": "Pattanga",
       "scientificName": "Caesalpinia sappan L.",
@@ -9086,6 +9240,26 @@
       "sameAs": [
         "https://www.wikidata.org/wiki/Q5021993",
         "https://www.gbif.org/species/5609508"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/arka/#entity",
+      "name": "Arka",
+      "scientificName": "Calotropis procera (Aiton) W.T.Aiton",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/arka/",
+      "family": "Apocynaceae",
+      "order": "Gentianales",
+      "genus": "Calotropis",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q948690",
+        "https://www.gbif.org/species/5414566"
       ],
       "isContainedIn": {
         "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
@@ -9436,6 +9610,26 @@
         "Plant",
         "MedicalEntity"
       ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/patha/#entity",
+      "name": "Patha",
+      "scientificName": "Cissampelos pareira L.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/patha/",
+      "family": "Menispermaceae",
+      "order": "Ranunculales",
+      "genus": "Cissampelos",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q3291604",
+        "https://www.gbif.org/species/3033937"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
       "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/asthishrinkhala/#entity",
       "name": "Asthishrinkhala",
       "scientificName": "Cissus quadrangularis L.",
@@ -9655,6 +9849,26 @@
         "Plant",
         "MedicalEntity"
       ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/gavedhuka/#entity",
+      "name": "Gavedhuka",
+      "scientificName": "Coix lacryma-jobi L.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/gavedhuka/",
+      "family": "Poaceae",
+      "order": "Poales",
+      "genus": "Coix",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q827098",
+        "https://www.gbif.org/species/2706301"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
       "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/ajwain-herb/#entity",
       "name": "Ajwain Herb",
       "scientificName": "Coleus amboinicus Lour.",
@@ -9685,6 +9899,26 @@
       "sameAs": [
         "https://www.wikidata.org/wiki/Q39087854",
         "https://www.gbif.org/species/5341313"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/shankhpushpi/#entity",
+      "name": "Shankhpushpi",
+      "scientificName": "Convolvulus pluricaulis Wall. ex Choisy",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/shankhpushpi/",
+      "family": "Convolvulaceae",
+      "order": "Solanales",
+      "genus": "Convolvulus",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q5166609",
+        "https://www.gbif.org/species/3679942"
       ],
       "isContainedIn": {
         "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
@@ -9755,6 +9989,46 @@
         "Plant",
         "MedicalEntity"
       ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/kembuka/#entity",
+      "name": "Kembuka",
+      "scientificName": "Costus speciosus (J.Koenig) Sm.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/kembuka/",
+      "family": "Costaceae",
+      "order": "Zingiberales",
+      "genus": "Hellenia",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q15250450",
+        "https://www.gbif.org/species/2756724"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/varuna/#entity",
+      "name": "Varuna",
+      "scientificName": "Crateva nurvala Buch.-Ham.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/varuna/",
+      "family": "Capparaceae",
+      "order": "Brassicales",
+      "genus": "Crateva",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q11140127",
+        "https://www.gbif.org/species/3871453"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
       "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/saffron/#entity",
       "name": "Saffron",
       "scientificName": "Crocus sativus L.",
@@ -9765,6 +10039,26 @@
       "sameAs": [
         "https://www.wikidata.org/wiki/Q15041677",
         "https://www.gbif.org/species/2747430"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/shana/#entity",
+      "name": "Shana",
+      "scientificName": "Crotalaria juncea L.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/shana/",
+      "family": "Fabaceae",
+      "order": "Fabales",
+      "genus": "Crotalaria",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q2855436",
+        "https://www.gbif.org/species/2942877"
       ],
       "isContainedIn": {
         "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
@@ -9975,6 +10269,25 @@
         "Plant",
         "MedicalEntity"
       ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/rohisha/#entity",
+      "name": "Rohisha",
+      "scientificName": "Cymbopogon martinii (Roxb.) J.F.Watson",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/rohisha/",
+      "family": "Poaceae",
+      "order": "Poales",
+      "genus": "Cymbopogon",
+      "sameAs": [
+        "https://www.gbif.org/species/7421320"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
       "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/durva/#entity",
       "name": "Durva",
       "scientificName": "Cynodon dactylon (L.) Pers.",
@@ -10014,6 +10327,26 @@
         "Plant",
         "MedicalEntity"
       ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/simsapa/#entity",
+      "name": "Simsapa",
+      "scientificName": "Dalbergia sissoo Roxb. ex DC.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/simsapa/",
+      "family": "Fabaceae",
+      "order": "Fabales",
+      "genus": "Dalbergia",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q1157813",
+        "https://www.gbif.org/species/2968532"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
       "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/shalparni/#entity",
       "name": "Shalparni",
       "scientificName": "Desmodium gangeticum Puri, 1951",
@@ -10024,6 +10357,46 @@
       "sameAs": [
         "https://www.wikidata.org/wiki/Q3595474",
         "https://www.gbif.org/species/11440699"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/kusha/#entity",
+      "name": "Kusha",
+      "scientificName": "Desmostachya bipinnata (L.) Stapf",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/kusha/",
+      "family": "Poaceae",
+      "order": "Poales",
+      "genus": "Desmostachya",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q659826",
+        "https://www.gbif.org/species/4142071"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/varahikanda/#entity",
+      "name": "Varahikanda",
+      "scientificName": "Dioscorea bulbifera L.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/varahikanda/",
+      "family": "Dioscoreaceae",
+      "order": "Dioscoreales",
+      "genus": "Dioscorea",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q311239",
+        "https://www.gbif.org/species/2755489"
       ],
       "isContainedIn": {
         "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
@@ -10134,6 +10507,66 @@
         "Plant",
         "MedicalEntity"
       ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/paribhadra/#entity",
+      "name": "Paribhadra",
+      "scientificName": "Erythrina variegata L.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/paribhadra/",
+      "family": "Fabaceae",
+      "order": "Fabales",
+      "genus": "Erythrina",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q715744",
+        "https://www.gbif.org/species/5349581"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/eucalyptus-herb/#entity",
+      "name": "Eucalyptus Herb",
+      "scientificName": "Eucalyptus globulus Labill.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/eucalyptus-herb/",
+      "family": "Myrtaceae",
+      "order": "Myrtales",
+      "genus": "Eucalyptus",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q159528",
+        "https://www.gbif.org/species/3176787"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/eucalyptus/#entity",
+      "name": "Eucalyptus",
+      "scientificName": "Eucalyptus globulus Labill.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/eucalyptus/",
+      "family": "Myrtaceae",
+      "order": "Myrtales",
+      "genus": "Eucalyptus",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q159528",
+        "https://www.gbif.org/species/3176787"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
       "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/saptala/#entity",
       "name": "Saptala",
       "scientificName": "Euphorbia dracunculoides Lam.",
@@ -10144,6 +10577,26 @@
       "sameAs": [
         "https://www.wikidata.org/wiki/Q5851559",
         "https://www.gbif.org/species/3070194"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/dugdhika/#entity",
+      "name": "Dugdhika",
+      "scientificName": "Euphorbia prostrata Aiton",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/dugdhika/",
+      "family": "Euphorbiaceae",
+      "order": "Malpighiales",
+      "genus": "Euphorbia",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q1023705",
+        "https://www.gbif.org/species/3067891"
       ],
       "isContainedIn": {
         "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
@@ -10334,6 +10787,26 @@
         "Plant",
         "MedicalEntity"
       ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/parpataka/#entity",
+      "name": "Parpataka",
+      "scientificName": "Fumaria parviflora Lam.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/parpataka/",
+      "family": "Papaveraceae",
+      "order": "Ranunculales",
+      "genus": "Fumaria",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q162178",
+        "https://www.gbif.org/species/5334215"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
       "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/vrikshamla/#entity",
       "name": "Vrikshamla",
       "scientificName": "Garcinia indica (Thouars) Choisy",
@@ -10384,6 +10857,26 @@
       "sameAs": [
         "https://www.wikidata.org/wiki/Q2175092",
         "https://www.gbif.org/species/2740024"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/licorice-herb/#entity",
+      "name": "Licorice Herb",
+      "scientificName": "Glycyrrhiza glabra L.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/licorice-herb/",
+      "family": "Fabaceae",
+      "order": "Fabales",
+      "genus": "Glycyrrhiza",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q52502809",
+        "https://www.gbif.org/species/2965732"
       ],
       "isContainedIn": {
         "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
@@ -10673,6 +11166,26 @@
         "Plant",
         "MedicalEntity"
       ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/indrayava/#entity",
+      "name": "Indrayava",
+      "scientificName": "Holarrhena pubescens (Buch.-Ham.) Wall. ex G.Don",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/indrayava/",
+      "family": "Apocynaceae",
+      "order": "Gentianales",
+      "genus": "Holarrhena",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q9096302",
+        "https://www.gbif.org/species/3169748"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
       "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/kutaj/#entity",
       "name": "Kutaj",
       "scientificName": "Holarrhena pubescens (Buch.-Ham.) Wall. ex G.Don",
@@ -10833,6 +11346,26 @@
         "Plant",
         "MedicalEntity"
       ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/jati/#entity",
+      "name": "Jati",
+      "scientificName": "Jasminum officinale L.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/jati/",
+      "family": "Oleaceae",
+      "order": "Lamiales",
+      "genus": "Jasminum",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q515610",
+        "https://www.gbif.org/species/3172261"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
       "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/akshotaka/#entity",
       "name": "Akshotaka",
       "scientificName": "Juglans regia L.",
@@ -10843,6 +11376,26 @@
       "sameAs": [
         "https://www.wikidata.org/wiki/Q46871",
         "https://www.gbif.org/species/3054368"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/hapusa/#entity",
+      "name": "Hapusa",
+      "scientificName": "Juniperus communis L.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/hapusa/",
+      "family": "Cupressaceae",
+      "order": "Pinales",
+      "genus": "Juniperus",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q26325",
+        "https://www.gbif.org/species/2684709"
       ],
       "isContainedIn": {
         "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
@@ -10893,6 +11446,46 @@
         "Plant",
         "MedicalEntity"
       ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/madayantika/#entity",
+      "name": "Madayantika",
+      "scientificName": "Lawsonia inermis L.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/madayantika/",
+      "family": "Lythraceae",
+      "order": "Myrtales",
+      "genus": "Lawsonia",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q182448",
+        "https://www.gbif.org/species/5420912"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/granthiparni/#entity",
+      "name": "Granthiparni",
+      "scientificName": "Leonotis nepetifolia (L.) R.Br.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/granthiparni/",
+      "family": "Lamiaceae",
+      "order": "Lamiales",
+      "genus": "Leonotis",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q2512194",
+        "https://www.gbif.org/species/4924659"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
       "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/chandrashura/#entity",
       "name": "Chandrashura",
       "scientificName": "Lepidium sativum L.",
@@ -10923,6 +11516,26 @@
       "sameAs": [
         "https://www.wikidata.org/wiki/Q15359574",
         "https://www.gbif.org/species/3580162"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/dronapushpi/#entity",
+      "name": "Dronapushpi",
+      "scientificName": "Leucas cephalotes (Roth) Spreng.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/dronapushpi/",
+      "family": "Lamiaceae",
+      "order": "Lamiales",
+      "genus": "Leucas",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q3630307",
+        "https://www.gbif.org/species/5606847"
       ],
       "isContainedIn": {
         "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
@@ -10983,6 +11596,26 @@
       "sameAs": [
         "https://www.wikidata.org/wiki/Q10743709",
         "https://www.gbif.org/species/7304140"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/koshataki/#entity",
+      "name": "Koshataki",
+      "scientificName": "Luffa acutangula (L.) Roxb.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/koshataki/",
+      "family": "Cucurbitaceae",
+      "order": "Cucurbitales",
+      "genus": "Luffa",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q1948703",
+        "https://www.gbif.org/species/2874601"
       ],
       "isContainedIn": {
         "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
@@ -11202,6 +11835,26 @@
       "sameAs": [
         "https://www.wikidata.org/wiki/Q160114",
         "https://www.gbif.org/species/2927175"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/nagakesara/#entity",
+      "name": "Nagakesara",
+      "scientificName": "Mesua ferrea L.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/nagakesara/",
+      "family": "Calophyllaceae",
+      "order": "Malpighiales",
+      "genus": "Mesua",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q2001737",
+        "https://www.gbif.org/species/7330039"
       ],
       "isContainedIn": {
         "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
@@ -11688,6 +12341,26 @@
         "Plant",
         "MedicalEntity"
       ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/kumuda/#entity",
+      "name": "Kumuda",
+      "scientificName": "Nymphaea alba L.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/kumuda/",
+      "family": "Nymphaeaceae",
+      "order": "Nymphaeales",
+      "genus": "Nymphaea",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q147030",
+        "https://www.gbif.org/species/2882437"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
       "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/holy-basil/#entity",
       "name": "Holy Basil",
       "scientificName": "Ocimum tenuiflorum L.",
@@ -11945,6 +12618,26 @@
         "Plant",
         "MedicalEntity"
       ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/bhumyamalaki/#entity",
+      "name": "Bhumyamalaki",
+      "scientificName": "Phyllanthus fraternus G.L.Webster",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/bhumyamalaki/",
+      "family": "Phyllanthaceae",
+      "order": "Malpighiales",
+      "genus": "Phyllanthus",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q15451978",
+        "https://www.gbif.org/species/5381498"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
       "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/tamalaki/#entity",
       "name": "Tamalaki",
       "scientificName": "Phyllanthus niruri L.",
@@ -11955,6 +12648,26 @@
       "sameAs": [
         "https://www.wikidata.org/wiki/Q2719836",
         "https://www.gbif.org/species/5381945"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/katuki/#entity",
+      "name": "Katuki",
+      "scientificName": "Picrorhiza kurroa Royle ex Benth.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/katuki/",
+      "family": "Plantaginaceae",
+      "order": "Lamiales",
+      "genus": "Picrorhiza",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q2562125",
+        "https://www.gbif.org/species/3727300"
       ],
       "isContainedIn": {
         "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
@@ -12034,6 +12747,26 @@
       "genus": "Piper",
       "sameAs": [
         "https://www.gbif.org/species/3086357"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/chavika/#entity",
+      "name": "Chavika",
+      "scientificName": "Piper retrofractum Vahl",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/chavika/",
+      "family": "Piperaceae",
+      "order": "Piperales",
+      "genus": "Piper",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q7504329",
+        "https://www.gbif.org/species/3086342"
       ],
       "isContainedIn": {
         "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
@@ -12204,6 +12937,19 @@
         "Plant",
         "MedicalEntity"
       ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/vamshalochana/#entity",
+      "name": "Vamshalochana",
+      "scientificName": "Prakshep phase",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/vamshalochana/",
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
       "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/agnimantha/#entity",
       "name": "Agnimantha",
       "scientificName": "Premna integrifolia Willd.",
@@ -12334,6 +13080,26 @@
       "sameAs": [
         "https://www.wikidata.org/wiki/Q2392887",
         "https://www.gbif.org/species/5708628"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/vidari/#entity",
+      "name": "Vidari",
+      "scientificName": "Pueraria tuberosa (Roxb. ex Willd.) DC.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/vidari/",
+      "family": "Fabaceae",
+      "order": "Fabales",
+      "genus": "Pueraria",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q7258521",
+        "https://www.gbif.org/species/2977609"
       ],
       "isContainedIn": {
         "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
@@ -12544,6 +13310,25 @@
         "Plant",
         "MedicalEntity"
       ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/taruni/#entity",
+      "name": "Taruni",
+      "scientificName": "Rosa × centifolia L.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/taruni/",
+      "family": "Rosaceae",
+      "order": "Rosales",
+      "genus": "Rosa",
+      "sameAs": [
+        "https://www.gbif.org/species/3002410"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
       "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/kakoli/#entity",
       "name": "Kakoli",
       "scientificName": "Roscoea purpurea Sm.",
@@ -12604,6 +13389,26 @@
         "Plant",
         "MedicalEntity"
       ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/shara/#entity",
+      "name": "Shara",
+      "scientificName": "Saccharum bengalense Retz.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/shara/",
+      "family": "Poaceae",
+      "order": "Poales",
+      "genus": "Tripidium",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q12845384",
+        "https://www.gbif.org/species/2703927"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
       "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/ikshu/#entity",
       "name": "Ikshu",
       "scientificName": "Saccharum officinarum L.",
@@ -12633,6 +13438,26 @@
       "genus": "Bombax",
       "sameAs": [
         "https://www.gbif.org/species/3152228"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/pilu/#entity",
+      "name": "Pilu",
+      "scientificName": "Salvadora persica L.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/pilu/",
+      "family": "Salvadoraceae",
+      "order": "Brassicales",
+      "genus": "Salvadora",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q143525",
+        "https://www.gbif.org/species/5580727"
       ],
       "isContainedIn": {
         "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
@@ -12733,6 +13558,46 @@
       "sameAs": [
         "https://www.wikidata.org/wiki/Q9334552",
         "https://www.gbif.org/species/2873716"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/kasheruka/#entity",
+      "name": "Kasheruka",
+      "scientificName": "Scirpus kysoor Roxb.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/kasheruka/",
+      "family": "Cyperaceae",
+      "order": "Poales",
+      "genus": "Actinoscirpus",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q38648262",
+        "https://www.gbif.org/species/2710513"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/prapunnada/#entity",
+      "name": "Prapunnada",
+      "scientificName": "Senna tora (L.) Roxb.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/prapunnada/",
+      "family": "Fabaceae",
+      "order": "Fabales",
+      "genus": "Senna",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q2739004",
+        "https://www.gbif.org/species/2957728"
       ],
       "isContainedIn": {
         "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
@@ -13023,6 +13888,26 @@
         "Plant",
         "MedicalEntity"
       ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/patala/#entity",
+      "name": "Patala",
+      "scientificName": "Stereospermum chelonoides (L.fil.) DC.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/patala/",
+      "family": "Bignoniaceae",
+      "order": "Lamiales",
+      "genus": "Stereospermum",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q18182661",
+        "https://www.gbif.org/species/4092354"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
       "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/kataka/#entity",
       "name": "Kataka",
       "scientificName": "Strychnos potatorum L.fil.",
@@ -13211,6 +14096,26 @@
       "sameAs": [
         "https://www.wikidata.org/wiki/Q179729",
         "https://www.gbif.org/species/5284517"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/rohitaka/#entity",
+      "name": "Rohitaka",
+      "scientificName": "Tecomella undulata (Sm.) Seem.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/rohitaka/",
+      "family": "Bignoniaceae",
+      "order": "Lamiales",
+      "genus": "Tecomella",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q311815",
+        "https://www.gbif.org/species/4093643"
       ],
       "isContainedIn": {
         "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
@@ -13789,6 +14694,26 @@
       "genus": "Zingiber",
       "sameAs": [
         "https://www.gbif.org/species/2757280"
+      ],
+      "isContainedIn": {
+        "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"
+      }
+    },
+    {
+      "@type": [
+        "Plant",
+        "MedicalEntity"
+      ],
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/herb/badara/#entity",
+      "name": "Badara",
+      "scientificName": "Ziziphus mauritiana Lam.",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/herb/badara/",
+      "family": "Rhamnaceae",
+      "order": "Rosales",
+      "genus": "Ziziphus",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q327859",
+        "https://www.gbif.org/species/3039424"
       ],
       "isContainedIn": {
         "@id": "https://jairaj1234-dancer.github.io/nighantu/#catalog"

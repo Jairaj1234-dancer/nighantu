@@ -16,7 +16,7 @@ aliases: ["Azadirachta indica A. Juss."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 700
+words: 679
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nimba/meta-analysis.md"
 ---
 ## Names and identification
@@ -64,8 +64,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nimba/meta-analysis.md"
 
 - Topical neem preparations are generally well-tolerated; however, neem oil can cause contact dermatitis in sensitized individuals. Internal consumption of neem oil has raised toxicity concerns especially in children - oral neem oil should be used with caution
 - Long-term safety data for cosmetic-grade neem preparations is limited; comprehensive safety testing needed. Neem oil should not be applied undiluted to skin. Pregnancy contraindicated for oral neem use due to potential abortifacient effects
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

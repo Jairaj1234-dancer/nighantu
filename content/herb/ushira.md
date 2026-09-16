@@ -16,7 +16,7 @@ aliases: ["Vetiveria zizanioides (L.) Nash (syn. Chrysopogon zizanioides (L.) Ro
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 657
+words: 636
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ushira/meta-analysis.md"
 ---
 ## Names and identification
@@ -64,8 +64,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ushira/meta-analysis.md"
 
 - Vetiver essential oil is GRAS (Generally Recognized as Safe) by FDA for food use; widely used in perfumery and aromatherapy with established safety profile
 - Oral ingestion of vetiver root preparations should follow traditional dose guidelines; essential oil should not be ingested undiluted and may cause skin sensitization in concentrated form in susceptible individuals
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

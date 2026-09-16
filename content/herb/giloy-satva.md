@@ -16,7 +16,7 @@ aliases: ["Giloy Satva", "GiloySatva", "Tinospora cordifolia (Willd.) Miers (aqu
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 766
+words: 745
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Giloy-Satva/meta-analysis.md"
 ---
 ## Names and identification
@@ -64,8 +64,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Giloy-Satva/meta-analysis.md"
 
 - Generally considered safe at doses up to 2000 mg/kg in acute toxicity studies; 28-day repeated dose study (OECD-407 compliant under GLP) confirmed safety up to 1000 mg/kg/day with no mortality or toxicological manifestation
 - IMPORTANT: Post-COVID reports of [Giloy](/nighantu/herb/guduchi/)-associated hepatotoxicity emerged; however, evidence suggests the hepatotoxic species may be Tinospora crispa (not T. cordifolia) or contaminated/adulterated products; autoimmune hepatitis unmasking is a proposed mechanism in susceptible individuals; caution advised in patients with pre-existing liver conditions
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

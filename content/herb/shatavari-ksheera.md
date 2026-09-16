@@ -16,7 +16,7 @@ aliases: ["Asparagus racemosus Willd.", "Shatavari Ksheera", "ShatavariKsheera"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 616
+words: 595
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shatavari-Ksheera/meta-analysis.md"
 ---
 ## Names and identification
@@ -62,8 +62,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shatavari-Ksheera/meta-analys
 
 - WHO has acknowledged Asparagus racemosus in its medicinal plant monographs; high safety margin confirmed in preclinical toxicological assessments
 - Mild adverse events in clinical trials include loose stools, nausea, and headache; contraindicated in estrogen-sensitive conditions due to phytoestrogenic activity; caution in kidney disorders
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

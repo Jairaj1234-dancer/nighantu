@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Skin-Beauty"
-answer: "Koshataki is a substance used in the Ayurvedic materia medica. Usual dose: 5-10 mL fresh fruit juice; 2-4 g powder twice daily; 30-50 mL decoction; Nasya: 2-4 drops per nostril; 500 mg capsule."
-botanical: ""
+answer: "Koshataki (Luffa acutangula) is a plant used in Ayurveda. Usual dose: 5-10 mL fresh fruit juice; 2-4 g powder twice daily; 30-50 mL decoction; Nasya: 2-4 drops per nostril; 500 mg capsule."
+botanical: "Luffa acutangula"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "skin-beauty", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 344
+words: 323
 srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Koshataki/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Koshataki/meta-analysis.md"
 | **Guna** (Quality) | Laghu, Ruksha | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

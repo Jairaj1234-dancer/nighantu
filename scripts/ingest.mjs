@@ -170,7 +170,19 @@ for (const p of kept) {
     else delete p.facts['Botanical Name'];
   }
   p.substance = wordCount(p.render.lead) + p.render.rendered.reduce((n, s) => n + wordCount(s.content), 0);
-  p.standalone = p.substance >= (THRESHOLDS[p.kind] ?? 250);
+  /**
+   * A verified identity is itself substance.
+   *
+   * Removing the false mineral-profile block cost eight herb pages about twenty words
+   * each and pushed them under the threshold, so pages that had just gained a
+   * Pharmacopoeia-anchored binomial would have lost their URL in the same run. That is
+   * backwards: on this site, "Simsapa is Dalbergia sissoo, per API Part I Vol. III, and
+   * here is the GBIF taxon" is exactly the fact a reader and an answer engine came for.
+   * The floor still applies, so a page with nothing but a name is still rolled up.
+   */
+  const identified = p.kind === 'herb' && Boolean(normaliseBinomial(p.facts['Botanical Name'] ?? ''));
+  p.standalone = p.substance >= (THRESHOLDS[p.kind] ?? 250)
+    || (identified && p.substance >= THRESHOLDS.herb - 40);
 }
 
 const dropped = kept.filter((p) => p.substance < MIN_PUBLISHABLE_WORDS);
@@ -396,7 +408,20 @@ if (DRY) {
   process.exit(0);
 }
 
-fs.rmSync(OUT, { recursive: true, force: true });
+/**
+ * Clear only what this script generates.
+ *
+ * content/ is not all vault-derived. content/practice/ holds 43 procedure pages that were
+ * written and audited separately and have no vault source, so the old unconditional
+ * rmSync deleted the entire Practice section on every re-ingest. It went unnoticed because
+ * nothing re-ingested between that section landing and now. Any future hand-authored
+ * section must be added here, or ingest will eat it.
+ */
+const NOT_GENERATED_HERE = new Set(['practice']);
+for (const e of fs.existsSync(OUT) ? fs.readdirSync(OUT, { withFileTypes: true }) : []) {
+  if (e.isDirectory() && NOT_GENERATED_HERE.has(e.name)) continue;
+  fs.rmSync(path.join(OUT, e.name), { recursive: true, force: true });
+}
 for (const p of publishSet) emit(p);
 emitGlossaries();
 

@@ -16,7 +16,7 @@ aliases: ["Sphaeranthus indicus L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 637
+words: 616
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gorakhmundi/meta-analysis.md"
 ---
 ## Names and identification
@@ -62,8 +62,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gorakhmundi/meta-analysis.md"
 
 - Well-tolerated in clinical trials; LD50 > 5000 mg/kg (acute oral); non-mutagenic; most common side effect is mild GI discomfort (>5% of participants)
 - Contraindicated in pregnancy due to lack of safety data; limited data for children, elderly, and patients with severe comorbidities; headache and dizziness reported uncommonly (1-5%)
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

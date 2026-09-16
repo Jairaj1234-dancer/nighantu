@@ -319,6 +319,16 @@ const MINERAL_PLACEHOLDER_BODY = /Primary component:\*{0,2}\s*Mineral-derived pr
 export function dropMineralPlaceholder(body, { isPlant }) {
   if (!isPlant) return body;
 
+  // Callers pass either a section body or the whole rendered array. ingest.mjs passed the
+  // array, which threw on .split the moment a page had a binomial, so re-ingesting has
+  // been impossible since this filter landed. The content fix had already been applied to
+  // the committed pages, so nothing on the site was wrong and nothing re-ran to catch it.
+  if (Array.isArray(body)) {
+    return body
+      .map((s) => ({ ...s, content: dropMineralPlaceholder(s.content, { isPlant }) }))
+      .filter((s) => s.content && /[A-Za-z]/.test(s.content.replace(/^#+.*$/gm, '')));
+  }
+
   const lines = body.split('\n');
   const out = [];
   for (let i = 0; i < lines.length; i += 1) {

@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Kitchen-Spices-Culinary"
-answer: "Tamalpatra is a substance used in the Ayurvedic materia medica. Usual dose: 1-3 g powder twice daily; 30-60 mL decoction twice daily; 2-5 drops essential oil in steam inhalation."
+answer: "Tamalpatra (Cinnamomum tamala) is a plant used in Ayurveda. Usual dose: 1-3 g powder twice daily; 30-60 mL decoction twice daily; 2-5 drops essential oil in steam inhalation."
 botanical: "Cinnamomum tamala"
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "kitchen-spices-culinary", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 301
+words: 280
 srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Tamalpatra/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,8 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Tamalpatra/meta-ana
 | **Guna** (Quality) | Laghu | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

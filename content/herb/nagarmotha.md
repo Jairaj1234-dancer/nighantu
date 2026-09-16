@@ -16,7 +16,7 @@ aliases: ["Cyperus rotundus"]
 tags: ["ayurveda", "herb", "single-herb", "digestive-health", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu, Ashtanga Hridaya)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 493
+words: 472
 srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Nagarmotha/meta-analysis.md"
 ---
 ## Names and identification
@@ -88,6 +88,7 @@ Tuber powder: 3-6g/day; Decoction: 50-100ml/day
 ## What is it made of?
 
 **Part(s) Analyzed:** Rhizome/Tuber
+
 
 ## Dosage forms and preparation
 

@@ -16,7 +16,7 @@ aliases: ["Vitex negundo L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 649
+words: 628
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nirgundi/meta-analysis.md"
 ---
 ## Names and identification
@@ -62,8 +62,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nirgundi/meta-analysis.md"
 
 - Generally safe for adults and children at recommended doses; no serious adverse reactions reported; mild side effects include stomach upset and skin rashes
 - Contraindicated during pregnancy (potential uterine stimulant effects) and breastfeeding (limited safety data); avoid if allergic to Lamiaceae family plants
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

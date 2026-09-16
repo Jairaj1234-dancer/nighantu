@@ -16,7 +16,7 @@ aliases: ["Aegle marmelos (L.) Correa (leaves)", "Bilwa Patra", "BilwaPatra"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 635
+words: 614
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bilwa-Patra/meta-analysis.md"
 ---
 ## Names and identification
@@ -65,8 +65,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bilwa-Patra/meta-analysis.md"
 - Leaf preparations have been used safely in traditional medicine for centuries; in vitro study (2024) confirmed minimal cytotoxicity on human fibroblasts at therapeutic concentrations
 - Aegeline was flagged by FDA in 2013 regarding certain commercial supplements (OxyElite Pro), though this involved synthetic/concentrated forms rather than traditional leaf preparations
 - Leaf decoctions and infusions considered safe at standard Ayurvedic doses; avoid high-dose concentrated extracts during pregnancy
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

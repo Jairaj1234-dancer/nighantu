@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Kidney-Urinary"
-answer: "Punarnava is a substance used in the Ayurvedic materia medica. Usual dose: 3-6 g root powder daily; 20-40 mL decoction twice daily; 500 mg - 1 g standardized extract twice daily; 10-20 mL fresh juice daily. Listed in the Ayurvedic Pharmacopoeia of India (API) as a rasayana (rejuvenative) category herb."
-botanical: ""
+answer: "Punarnava (Boerhaavia diffusa) is a plant used in Ayurveda. Usual dose: 3-6 g root powder daily; 20-40 mL decoction twice daily; 500 mg - 1 g standardized extract twice daily; 10-20 mL fresh juice daily. Listed in the Ayurvedic Pharmacopoeia of India (API) as a rasayana (rejuvenative) category herb."
+botanical: "Boerhaavia diffusa"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "kidney-urinary", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 745
+words: 724
 srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Punarnava/meta-analysis.md"
 ---
 ## Names and identification
@@ -58,15 +58,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Punarnava/meta-analysis.md"
 - Gastrointestinal side effects possible: upset stomach, nausea, loose stools.
 - Avoid or use with medical supervision during pregnancy, breastfeeding, or concurrent use with allopathic medications.
 - Allergic reactions reported but uncommon.
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Yavasa is a substance used in the Ayurvedic materia medica. Usual dose: 3-6 g powder twice daily; 50-100 mL decoction twice daily; Kshara: 500 mg-1 g with buttermilk."
+answer: "Yavasa (Alhagi pseudalhagi) is a plant used in Ayurveda. Usual dose: 3-6 g powder twice daily; 50-100 mL decoction twice daily; Kshara: 500 mg-1 g with buttermilk."
 botanical: "Alhagi pseudalhagi"
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 342
+words: 321
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Yavasa/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,8 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Yavasa/meta-analysis.md"
 | **Guna** (Quality) | Laghu | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

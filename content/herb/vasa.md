@@ -16,7 +16,7 @@ aliases: ["Adhatoda vasica Nees (syn. Justicia adhatoda L.)"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 583
+words: 562
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vasa/meta-analysis.md"
 ---
 ## Names and identification
@@ -60,8 +60,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vasa/meta-analysis.md"
 
 - WHO includes it in manual 'The Use of Traditional Medicine in Primary Health Care' for cough, asthma; can be used safely for adults and children for extended periods at standard doses
 - Contraindicated in pregnancy due to uterotonic and potential abortifacient activity of vasicine; large doses may cause nausea and vomiting; WHO studied vasicine for fertility regulation in 1980s
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

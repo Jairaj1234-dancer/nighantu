@@ -16,7 +16,7 @@ aliases: ["Aegle marmelos (L.) Correa (fruit pulp)", "Bilva Majja", "BilvaMajja"
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 631
+words: 610
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bilva-Majja/meta-analysis.md"
 ---
 ## Names and identification
@@ -65,8 +65,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bilva-Majja/meta-analysis.md"
 - Fruit pulp is widely consumed as food and traditional medicine with long history of safe use; ethanolic leaf extract showed minimal cytotoxicity at low concentrations (6.3 ul/ml)
 - No significant systemic toxicity reported at therapeutic doses; variability in phytochemical composition between specimens may affect dosing consistency
 - Insufficient clinical trials exist to fully validate safety; standardized formulations are needed for reliable therapeutic application
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

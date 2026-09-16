@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "kidney-urinary", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 679
+words: 658
 srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Ikshu/meta-analysis.md"
 ---
 ## Names and identification
@@ -66,8 +66,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Ikshu/meta-analysis.md"
 - Rapid microbial contamination of fresh juice at ambient temperature; should be consumed within 30 minutes of extraction or refrigerated
 - Sugarcane juice from fields treated with excess pesticides may contain organophosphate residues; organic sourcing preferred
 - Processing into refined sugar destroys all beneficial polyphenols, vitamins, and minerals; only fresh juice or minimally processed forms (jaggery) retain therapeutic value
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

@@ -16,7 +16,7 @@ aliases: ["Allium sativum L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 670
+words: 649
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lasuna/meta-analysis.md"
 ---
 ## Names and identification
@@ -62,8 +62,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lasuna/meta-analysis.md"
 
 - Generally safe at culinary doses; concentrated supplements may increase bleeding risk due to antiplatelet effects; caution with anticoagulants (warfarin), antiplatelet drugs, and pre-surgery
 - May cause GI irritation, heartburn, body odor, and halitosis; allergic contact dermatitis possible; WHO has established safety profile but notes drug interaction potential
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

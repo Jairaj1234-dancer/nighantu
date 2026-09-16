@@ -16,7 +16,7 @@ aliases: ["Citrullus colocynthis (L.) Schrad."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 551
+words: 530
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Indravaruni/meta-analysis.md"
 ---
 ## Names and identification
@@ -62,8 +62,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Indravaruni/meta-analysis.md"
 
 - UNSAFE when taken by mouth in uncontrolled doses; cucurbitacins cause severe GI irritation, bloody diarrhea, kidney damage; banned by US FDA in 1991 for OTC [laxative](/nighantu/reference/laxative/) use
 - High doses can cause multiorgan toxicity (hepatorenal failure, electrolyte disturbance, hypoglycemia); must only be used in processed Ayurvedic preparations (Shodhita) under strict practitioner supervision
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

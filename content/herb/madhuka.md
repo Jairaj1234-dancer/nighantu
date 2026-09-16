@@ -16,7 +16,7 @@ aliases: ["Madhuca longifolia (J.Koenig ex L.) J.F.Macbr."]
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 653
+words: 632
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Madhuka/meta-analysis.md"
 ---
 ## Names and identification
@@ -68,8 +68,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Madhuka/meta-analysis.md
 
 - Toxicity studies reveal non-toxic effects even at larger doses in preclinical models; flower-based preparations are widely consumed by tribal communities as food
 - Mahua flowers contain natural sugars that ferment to produce alcohol; distilled mahua liquor should be consumed responsibly. Seed oil (mahua butter) is edible but may contain [saponins](/nighantu/reference/saponins/) requiring processing.
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

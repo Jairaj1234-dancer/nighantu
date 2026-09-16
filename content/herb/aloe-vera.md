@@ -16,7 +16,7 @@ aliases: ["Aloe Vera", "Aloe barbadensis Mill. (syn. Aloe vera (L.) Burm.f.)", "
 tags: ["ayurveda", "herb", "single-herb", "liver-detox", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 741
+words: 720
 srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Aloe-Vera/meta-analysis.md"
 ---
 ## Names and identification
@@ -55,8 +55,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Aloe-Vera/meta-analysis.md"
 - Anthraquinone-containing latex (aloin) is a potent laxative; chronic use may cause electrolyte imbalance and dependency.
 - Herbal/dietary supplements implicated in 19% of drug-induced acute liver failure cases; Aloe vera is among recognized causes.
 - Avoid during pregnancy (potential uterine stimulant effects) and breastfeeding.
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

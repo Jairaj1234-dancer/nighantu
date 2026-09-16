@@ -16,7 +16,7 @@ aliases: ["Tila", "Sesamum indicum", "Sesamum indicum L.", "Sesame", "Til"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 684
+words: 663
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tila/meta-analysis.md"
 ---
 ## Names and identification
@@ -64,8 +64,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tila/meta-analysis.md"
 
 - Widely consumed as food globally with well-established dietary safety; sesame allergy is a recognized concern and is now a major food allergen requiring labeling in many countries (US FASTER Act 2021)
 - Potential estrogenic effects of lignans (sesamin, sesamolin) should be considered in hormone-sensitive conditions; generally safe in culinary amounts but high-dose supplementation warrants caution
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

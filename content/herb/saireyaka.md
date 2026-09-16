@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Respiratory-Health"
-answer: "Saireyaka is a substance used in the Ayurvedic materia medica. Usual dose: 3-6 g churna per day in divided doses; 10-20 mL swarasa twice daily; 50-100 mL kwatha twice daily."
-botanical: ""
+answer: "Saireyaka (Barleria strigosa) is a plant used in Ayurveda. Usual dose: 3-6 g churna per day in divided doses; 10-20 mL swarasa twice daily; 50-100 mL kwatha twice daily."
+botanical: "Barleria strigosa"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "respiratory-health", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 283
+words: 262
 srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Saireyaka/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Saireyaka/meta-analysis.
 | **Guna** (Quality) | Snigdha | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

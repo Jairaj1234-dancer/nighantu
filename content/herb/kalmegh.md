@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "liver-detox", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "AgeAyurveda Product Catalog", "Ayurvedic Pharmacopoeia of India"]
 productHints: ["Immuno Plus"]
-words: 313
+words: 292
 srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Kalmegh/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,8 +24,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Kalmegh/meta-analysis.md"
 | Language | Name |
 |----------|------|
 | English | Kalmegh |
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

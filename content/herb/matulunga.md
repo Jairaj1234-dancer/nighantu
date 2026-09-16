@@ -16,7 +16,7 @@ aliases: ["Citrus medica L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 702
+words: 681
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Matulunga/meta-analysis.md"
 ---
 ## Names and identification
@@ -65,8 +65,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Matulunga/meta-analysis.md"
 - Generally recognized as safe for food use with long culinary history; extract safety confirmed at large dosages in preclinical studies with no significant toxicity
 - Essential oils may cause photosensitivity (phototoxic furanocoumarins like [bergapten](/nighantu/glossary/compounds-a-c/#bergapten)); avoid sun exposure after topical application of citron essential oil
 - Like other citrus fruits, citron may interfere with CYP3A4-metabolized drugs (statins, calcium channel blockers); avoid high-dose supplementation during pregnancy due to limited safety data
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

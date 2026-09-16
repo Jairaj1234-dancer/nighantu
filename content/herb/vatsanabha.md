@@ -16,7 +16,7 @@ aliases: ["Aconitum ferox Wall. ex Ser."]
 tags: ["ayurveda", "herb", "single-herb", "brain-nervous-system", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 845
+words: 824
 srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vatsanabha/meta-analysis.md"
 ---
 ## Names and identification
@@ -48,8 +48,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vatsanabha/meta-analys
 - {'type': 'Maximum dose', 'detail': 'Purified (Shuddha) Vatsanabha dose: 15-30 mg per day (after proper Shodhana). NEVER use unpurified root. Raw root: 1-2 mg of aconitine is lethal. The therapeutic window is extremely narrow even after purification.'}
 - {'type': 'Safety alert', 'detail': 'EXTREMELY DANGEROUS: Aconitum ferox is one of the most toxic plants known. Toxicity can occur from skin contact alone. Processing does not eliminate all toxicity. Even purified preparations can cause fatal arrhythmias if dose is exceeded. Must be prescribed only by experienced practitioners.'}
 - {'type': 'Forensic concern', 'detail': "Aconitine is virtually undetectable by standard toxicology screens and has been used as a homicidal poison historically ('queen of poisons'). Detection requires specific LC-MS/MS analysis of blood and urine. Post-mortem redistribution complicates forensic analysis."}
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

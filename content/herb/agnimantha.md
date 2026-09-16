@@ -16,7 +16,7 @@ aliases: ["Premna integrifolia (syn. Clerodendrum phlomidis)"]
 tags: ["ayurveda", "herb", "single-herb", "anti-inflammatory-pain", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu, Ashtanga Hridaya)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 411
+words: 390
 srcRel: "Ayurveda/Herbs/Single-Herbs/Anti-inflammatory-Pain/Agnimantha/meta-analysis.md"
 ---
 ## Names and identification
@@ -88,6 +88,7 @@ Root powder: 3-6g/day; Decoction: 50-100ml/day
 ## What is it made of?
 
 **Part(s) Analyzed:** Root, Bark, Leaf
+
 
 ## Dosage forms and preparation
 

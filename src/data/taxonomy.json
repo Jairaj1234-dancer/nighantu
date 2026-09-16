@@ -1,20 +1,20 @@
 {
- "updatedAt": "2026-09-12",
+ "updatedAt": "2026-09-16",
  "sources": [
   "GBIF Backbone Taxonomy, https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c",
   "Wikidata, https://www.wikidata.org/",
   "NCBI Taxonomy, https://www.ncbi.nlm.nih.gov/taxonomy"
  ],
  "summary": {
-  "botanicals": 241,
-  "resolved": 241,
-  "exact": 234,
+  "botanicals": 280,
+  "resolved": 279,
+  "exact": 272,
   "fuzzy": 1,
   "higherRank": 6,
-  "synonyms": 26,
-  "notFound": 0,
-  "withWikidata": 228,
-  "withNcbiTaxid": 236
+  "synonyms": 34,
+  "notFound": 1,
+  "withWikidata": 264,
+  "withNcbiTaxid": 272
  },
  "taxa": [
   {
@@ -53,6 +53,12 @@
      "slug": "talisa",
      "title": "Talisa",
      "asPublished": "Abies webbiana Lindl. (syn. Abies spectabilis (D. Don) Mirb.)"
+    },
+    {
+     "kind": "herb",
+     "slug": "talisapatra",
+     "title": "Talisapatra",
+     "asPublished": "Abies webbiana"
     }
    ],
    "status": "ok",
@@ -608,6 +614,34 @@
    "ncbiTaxid": "52822"
   },
   {
+   "query": "Alternanthera sessilis",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "matsyakshi",
+     "title": "Matsyakshi",
+     "asPublished": "Alternanthera sessilis"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 3084939,
+   "scientificName": "Alternanthera sessilis (L.) R.Br. ex DC.",
+   "canonicalName": "Alternanthera sessilis",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 97,
+   "kingdom": "Plantae",
+   "family": "Amaranthaceae",
+   "order": "Caryophyllales",
+   "genus": "Alternanthera",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q3534965",
+   "ncbiTaxid": "221762"
+  },
+  {
    "query": "Amaranthus spinosus",
    "pages": [
     {
@@ -746,6 +780,34 @@
    "checkedAt": "2026-09-12",
    "wikidata": "Q45166",
    "ncbiTaxid": "1068672"
+  },
+  {
+   "query": "Apium leptophyllum",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "ajmoda",
+     "title": "Ajmoda",
+     "asPublished": "Apium leptophyllum"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 5371895,
+   "scientificName": "Apium leptophyllum (Pers.) F.Muell.",
+   "canonicalName": "Apium leptophyllum",
+   "rank": "SPECIES",
+   "taxonomicStatus": "SYNONYM",
+   "matchType": "EXACT",
+   "confidence": 97,
+   "kingdom": "Plantae",
+   "family": "Apiaceae",
+   "order": "Apiales",
+   "genus": "Cyclospermum",
+   "acceptedName": "Cyclospermum leptophyllum (Pers.) Sprague",
+   "acceptedKey": 8350395,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q17142977",
+   "ncbiTaxid": "2860399"
   },
   {
    "query": "Areca catechu",
@@ -1170,6 +1232,34 @@
    "ncbiTaxid": "207296"
   },
   {
+   "query": "Barleria strigosa",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "saireyaka",
+     "title": "Saireyaka",
+     "asPublished": "Barleria strigosa"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 3770457,
+   "scientificName": "Barleria strigosa Willd.",
+   "canonicalName": "Barleria strigosa",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 99,
+   "kingdom": "Plantae",
+   "family": "Acanthaceae",
+   "order": "Lamiales",
+   "genus": "Barleria",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q13893639",
+   "ncbiTaxid": "1749380"
+  },
+  {
    "query": "Basella alba",
    "pages": [
     {
@@ -1228,6 +1318,12 @@
   {
    "query": "Bauhinia variegata",
    "pages": [
+    {
+     "kind": "herb",
+     "slug": "kachnar",
+     "title": "Kachnar",
+     "asPublished": "Bauhinia variegata"
+    },
     {
      "kind": "herb",
      "slug": "kanchanar",
@@ -1310,6 +1406,34 @@
    "ncbiTaxid": "659592"
   },
   {
+   "query": "Bergenia ciliata",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "pashanabheda",
+     "title": "Pashanabheda",
+     "asPublished": "Bergenia ciliata"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 8330218,
+   "scientificName": "Bergenia ciliata (Haw.) Sternb.",
+   "canonicalName": "Bergenia ciliata",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 97,
+   "kingdom": "Plantae",
+   "family": "Saxifragaceae",
+   "order": "Saxifragales",
+   "genus": "Bergenia",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q162348",
+   "ncbiTaxid": "278077"
+  },
+  {
    "query": "Betula utilis",
    "pages": [
     {
@@ -1364,6 +1488,34 @@
    "checkedAt": "2026-09-12",
    "wikidata": "Q50839956",
    "ncbiTaxid": ""
+  },
+  {
+   "query": "Boerhaavia diffusa",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "punarnava",
+     "title": "Punarnava",
+     "asPublished": "Boerhaavia diffusa"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 7469489,
+   "scientificName": "Boerhaavia diffusa L.",
+   "canonicalName": "Boerhaavia diffusa",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 99,
+   "kingdom": "Plantae",
+   "family": "Nyctaginaceae",
+   "order": "Caryophyllales",
+   "genus": "Boerhavia",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q115790884",
+   "ncbiTaxid": "930814"
   },
   {
    "query": "Bombax ceiba",
@@ -1506,6 +1658,34 @@
    "ncbiTaxid": "56060"
   },
   {
+   "query": "Caesalpinia bonduc",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "latakaranja",
+     "title": "Latakaranja",
+     "asPublished": "Caesalpinia bonduc"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 2958671,
+   "scientificName": "Caesalpinia bonduc (L.) Roxb.",
+   "canonicalName": "Caesalpinia bonduc",
+   "rank": "SPECIES",
+   "taxonomicStatus": "SYNONYM",
+   "matchType": "EXACT",
+   "confidence": 97,
+   "kingdom": "Plantae",
+   "family": "Fabaceae",
+   "order": "Fabales",
+   "genus": "Guilandina",
+   "acceptedName": "Guilandina bonduc L.",
+   "acceptedKey": 8400302,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q1020695",
+   "ncbiTaxid": "191881"
+  },
+  {
    "query": "Caesalpinia sappan",
    "pages": [
     {
@@ -1588,6 +1768,34 @@
    "checkedAt": "2026-09-12",
    "wikidata": "Q5021993",
    "ncbiTaxid": "536997"
+  },
+  {
+   "query": "Calotropis procera",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "arka",
+     "title": "Arka",
+     "asPublished": "Calotropis procera"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 5414566,
+   "scientificName": "Calotropis procera (Aiton) W.T.Aiton",
+   "canonicalName": "Calotropis procera",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 97,
+   "kingdom": "Plantae",
+   "family": "Apocynaceae",
+   "order": "Gentianales",
+   "genus": "Calotropis",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q948690",
+   "ncbiTaxid": "141467"
   },
   {
    "query": "Cannabis sativa",
@@ -2001,6 +2209,12 @@
      "slug": "ambasthaki",
      "title": "Ambasthaki",
      "asPublished": "Cissampelos pareira L."
+    },
+    {
+     "kind": "herb",
+     "slug": "patha",
+     "title": "Patha",
+     "asPublished": "Cissampelos pareira"
     }
    ],
    "status": "ok",
@@ -2264,6 +2478,34 @@
    "ncbiTaxid": "13894"
   },
   {
+   "query": "Coix lacryma-jobi",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "gavedhuka",
+     "title": "Gavedhuka",
+     "asPublished": "Coix lacryma-jobi"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 2706301,
+   "scientificName": "Coix lacryma-jobi L.",
+   "canonicalName": "Coix lacryma-jobi",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 99,
+   "kingdom": "Plantae",
+   "family": "Poaceae",
+   "order": "Poales",
+   "genus": "Coix",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q827098",
+   "ncbiTaxid": "4505"
+  },
+  {
    "query": "Coleus amboinicus",
    "pages": [
     {
@@ -2326,6 +2568,34 @@
    "ncbiTaxid": "246360"
   },
   {
+   "query": "Convolvulus pluricaulis",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "shankhpushpi",
+     "title": "Shankhpushpi",
+     "asPublished": "Convolvulus pluricaulis"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 3679942,
+   "scientificName": "Convolvulus pluricaulis Wall. ex Choisy",
+   "canonicalName": "Convolvulus pluricaulis",
+   "rank": "SPECIES",
+   "taxonomicStatus": "SYNONYM",
+   "matchType": "EXACT",
+   "confidence": 97,
+   "kingdom": "Plantae",
+   "family": "Convolvulaceae",
+   "order": "Solanales",
+   "genus": "Convolvulus",
+   "acceptedName": "Convolvulus prostratus Forssk.",
+   "acceptedKey": 8339877,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q5166609",
+   "ncbiTaxid": ""
+  },
+  {
    "query": "Coriandrum sativum",
    "pages": [
     {
@@ -2366,6 +2636,62 @@
    "ncbiTaxid": "4047"
   },
   {
+   "query": "Costus speciosus",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "kembuka",
+     "title": "Kembuka",
+     "asPublished": "Costus speciosus"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 2756724,
+   "scientificName": "Costus speciosus (J.Koenig) Sm.",
+   "canonicalName": "Costus speciosus",
+   "rank": "SPECIES",
+   "taxonomicStatus": "SYNONYM",
+   "matchType": "EXACT",
+   "confidence": 98,
+   "kingdom": "Plantae",
+   "family": "Costaceae",
+   "order": "Zingiberales",
+   "genus": "Hellenia",
+   "acceptedName": "Hellenia speciosa (J.Koenig) S.R.Dutta",
+   "acceptedKey": 7584507,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q15250450",
+   "ncbiTaxid": "49577"
+  },
+  {
+   "query": "Crateva nurvala",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "varuna",
+     "title": "Varuna",
+     "asPublished": "Crateva nurvala"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 3871453,
+   "scientificName": "Crateva nurvala Buch.-Ham.",
+   "canonicalName": "Crateva nurvala",
+   "rank": "SPECIES",
+   "taxonomicStatus": "SYNONYM",
+   "matchType": "EXACT",
+   "confidence": 98,
+   "kingdom": "Plantae",
+   "family": "Capparaceae",
+   "order": "Brassicales",
+   "genus": "Crateva",
+   "acceptedName": "Crateva magna (Lour.) DC.",
+   "acceptedKey": 3871487,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q11140127",
+   "ncbiTaxid": "1149812"
+  },
+  {
    "query": "Crocus sativus",
    "pages": [
     {
@@ -2392,6 +2718,34 @@
    "checkedAt": "2026-09-12",
    "wikidata": "Q15041677",
    "ncbiTaxid": "82528"
+  },
+  {
+   "query": "Crotalaria juncea",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "shana",
+     "title": "Shana",
+     "asPublished": "Crotalaria juncea"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 2942877,
+   "scientificName": "Crotalaria juncea L.",
+   "canonicalName": "Crotalaria juncea",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 98,
+   "kingdom": "Plantae",
+   "family": "Fabaceae",
+   "order": "Fabales",
+   "genus": "Crotalaria",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q2855436",
+   "ncbiTaxid": "3829"
   },
   {
    "query": "Croton tiglium",
@@ -2608,6 +2962,34 @@
    "ncbiTaxid": "136224"
   },
   {
+   "query": "Cymbopogon martinii",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "rohisha",
+     "title": "Rohisha",
+     "asPublished": "Cymbopogon martinii"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 7421320,
+   "scientificName": "Cymbopogon martinii (Roxb.) J.F.Watson",
+   "canonicalName": "Cymbopogon martinii",
+   "rank": "SPECIES",
+   "taxonomicStatus": "SYNONYM",
+   "matchType": "EXACT",
+   "confidence": 98,
+   "kingdom": "Plantae",
+   "family": "Poaceae",
+   "order": "Poales",
+   "genus": "Cymbopogon",
+   "acceptedName": "Cymbopogon martini (Roxb.) W.Watson",
+   "acceptedKey": 4138713,
+   "checkedAt": "2026-09-16",
+   "wikidata": "",
+   "ncbiTaxid": "79837"
+  },
+  {
    "query": "Cynodon dactylon",
    "pages": [
     {
@@ -2664,6 +3046,34 @@
    "ncbiTaxid": "512623"
   },
   {
+   "query": "Dalbergia sissoo",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "simsapa",
+     "title": "Simsapa",
+     "asPublished": "Dalbergia sissoo"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 2968532,
+   "scientificName": "Dalbergia sissoo Roxb. ex DC.",
+   "canonicalName": "Dalbergia sissoo",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 97,
+   "kingdom": "Plantae",
+   "family": "Fabaceae",
+   "order": "Fabales",
+   "genus": "Dalbergia",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q1157813",
+   "ncbiTaxid": "107308"
+  },
+  {
    "query": "Desmodium gangeticum",
    "pages": [
     {
@@ -2690,6 +3100,62 @@
    "checkedAt": "2026-09-12",
    "wikidata": "Q3595474",
    "ncbiTaxid": "670324"
+  },
+  {
+   "query": "Desmostachya bipinnata",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "kusha",
+     "title": "Kusha",
+     "asPublished": "Desmostachya bipinnata"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 4142071,
+   "scientificName": "Desmostachya bipinnata (L.) Stapf",
+   "canonicalName": "Desmostachya bipinnata",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 99,
+   "kingdom": "Plantae",
+   "family": "Poaceae",
+   "order": "Poales",
+   "genus": "Desmostachya",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q659826",
+   "ncbiTaxid": "1245295"
+  },
+  {
+   "query": "Dioscorea bulbifera",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "varahikanda",
+     "title": "Varahikanda",
+     "asPublished": "Dioscorea bulbifera"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 2755489,
+   "scientificName": "Dioscorea bulbifera L.",
+   "canonicalName": "Dioscorea bulbifera",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 97,
+   "kingdom": "Plantae",
+   "family": "Dioscoreaceae",
+   "order": "Dioscoreales",
+   "genus": "Dioscorea",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q311239",
+   "ncbiTaxid": "35874"
   },
   {
    "query": "Diospyros peregrina",
@@ -2832,6 +3298,68 @@
    "ncbiTaxid": "459629"
   },
   {
+   "query": "Erythrina variegata",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "paribhadra",
+     "title": "Paribhadra",
+     "asPublished": "Erythrina variegata"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 5349581,
+   "scientificName": "Erythrina variegata L.",
+   "canonicalName": "Erythrina variegata",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 99,
+   "kingdom": "Plantae",
+   "family": "Fabaceae",
+   "order": "Fabales",
+   "genus": "Erythrina",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q715744",
+   "ncbiTaxid": "3845"
+  },
+  {
+   "query": "Eucalyptus globulus",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "eucalyptus-herb",
+     "title": "Eucalyptus Herb",
+     "asPublished": "Eucalyptus globulus"
+    },
+    {
+     "kind": "herb",
+     "slug": "eucalyptus",
+     "title": "Eucalyptus",
+     "asPublished": "Eucalyptus globulus"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 3176787,
+   "scientificName": "Eucalyptus globulus Labill.",
+   "canonicalName": "Eucalyptus globulus",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 99,
+   "kingdom": "Plantae",
+   "family": "Myrtaceae",
+   "order": "Myrtales",
+   "genus": "Eucalyptus",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q159528",
+   "ncbiTaxid": "34317"
+  },
+  {
    "query": "Euphorbia dracunculoides",
    "pages": [
     {
@@ -2858,6 +3386,34 @@
    "checkedAt": "2026-09-12",
    "wikidata": "Q5851559",
    "ncbiTaxid": "1008446"
+  },
+  {
+   "query": "Euphorbia prostrata",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "dugdhika",
+     "title": "Dugdhika",
+     "asPublished": "Euphorbia prostrata"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 3067891,
+   "scientificName": "Euphorbia prostrata Aiton",
+   "canonicalName": "Euphorbia prostrata",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 97,
+   "kingdom": "Plantae",
+   "family": "Euphorbiaceae",
+   "order": "Malpighiales",
+   "genus": "Euphorbia",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q1023705",
+   "ncbiTaxid": "212836"
   },
   {
    "query": "Fagonia cretica",
@@ -3068,6 +3624,34 @@
    "ncbiTaxid": "2849586"
   },
   {
+   "query": "Fumaria parviflora",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "parpataka",
+     "title": "Parpataka",
+     "asPublished": "Fumaria parviflora"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 5334215,
+   "scientificName": "Fumaria parviflora Lam.",
+   "canonicalName": "Fumaria parviflora",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 98,
+   "kingdom": "Plantae",
+   "family": "Papaveraceae",
+   "order": "Ranunculales",
+   "genus": "Fumaria",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q162178",
+   "ncbiTaxid": "1464625"
+  },
+  {
    "query": "Garcinia indica",
    "pages": [
     {
@@ -3154,6 +3738,12 @@
   {
    "query": "Glycyrrhiza glabra",
    "pages": [
+    {
+     "kind": "herb",
+     "slug": "licorice-herb",
+     "title": "Licorice Herb",
+     "asPublished": "Glycyrrhiza glabra"
+    },
     {
      "kind": "herb",
      "slug": "yashtimadhu",
@@ -3460,6 +4050,12 @@
    "pages": [
     {
      "kind": "herb",
+     "slug": "indrayava",
+     "title": "Indrayava",
+     "asPublished": "Holarrhena pubescens"
+    },
+    {
+     "kind": "herb",
      "slug": "kutaj",
      "title": "Kutaj",
      "asPublished": "Holarrhena pubescens"
@@ -3680,6 +4276,34 @@
    "ncbiTaxid": "1612632"
   },
   {
+   "query": "Jasminum officinale",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "jati",
+     "title": "Jati",
+     "asPublished": "Jasminum officinale"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 3172261,
+   "scientificName": "Jasminum officinale L.",
+   "canonicalName": "Jasminum officinale",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 99,
+   "kingdom": "Plantae",
+   "family": "Oleaceae",
+   "order": "Lamiales",
+   "genus": "Jasminum",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q515610",
+   "ncbiTaxid": "126433"
+  },
+  {
    "query": "Juglans regia",
    "pages": [
     {
@@ -3706,6 +4330,34 @@
    "checkedAt": "2026-09-12",
    "wikidata": "Q46871",
    "ncbiTaxid": "51240"
+  },
+  {
+   "query": "Juniperus communis",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "hapusa",
+     "title": "Hapusa",
+     "asPublished": "Juniperus communis"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 2684709,
+   "scientificName": "Juniperus communis L.",
+   "canonicalName": "Juniperus communis",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 97,
+   "kingdom": "Plantae",
+   "family": "Cupressaceae",
+   "order": "Pinales",
+   "genus": "Juniperus",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q26325",
+   "ncbiTaxid": "58039"
   },
   {
    "query": "Justicia adhatoda",
@@ -3764,6 +4416,62 @@
    "ncbiTaxid": "3668"
   },
   {
+   "query": "Lawsonia inermis",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "madayantika",
+     "title": "Madayantika",
+     "asPublished": "Lawsonia inermis"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 5420912,
+   "scientificName": "Lawsonia inermis L.",
+   "canonicalName": "Lawsonia inermis",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 99,
+   "kingdom": "Plantae",
+   "family": "Lythraceae",
+   "order": "Myrtales",
+   "genus": "Lawsonia",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q182448",
+   "ncbiTaxid": "141191"
+  },
+  {
+   "query": "Leonotis nepetifolia",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "granthiparni",
+     "title": "Granthiparni",
+     "asPublished": "Leonotis nepetifolia"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 4924659,
+   "scientificName": "Leonotis nepetifolia (L.) R.Br.",
+   "canonicalName": "Leonotis nepetifolia",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 97,
+   "kingdom": "Plantae",
+   "family": "Lamiaceae",
+   "order": "Lamiales",
+   "genus": "Leonotis",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q2512194",
+   "ncbiTaxid": "483799"
+  },
+  {
    "query": "Lepidium sativum",
    "pages": [
     {
@@ -3818,6 +4526,34 @@
    "checkedAt": "2026-09-12",
    "wikidata": "Q15359574",
    "ncbiTaxid": "492004"
+  },
+  {
+   "query": "Leucas cephalotes",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "dronapushpi",
+     "title": "Dronapushpi",
+     "asPublished": "Leucas cephalotes"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 5606847,
+   "scientificName": "Leucas cephalotes (Roth) Spreng.",
+   "canonicalName": "Leucas cephalotes",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 99,
+   "kingdom": "Plantae",
+   "family": "Lamiaceae",
+   "order": "Lamiales",
+   "genus": "Leucas",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q3630307",
+   "ncbiTaxid": "1260214"
   },
   {
    "query": "Limonia acidissima",
@@ -3902,6 +4638,34 @@
    "checkedAt": "2026-09-12",
    "wikidata": "Q10743709",
    "ncbiTaxid": "136122"
+  },
+  {
+   "query": "Luffa acutangula",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "koshataki",
+     "title": "Koshataki",
+     "asPublished": "Luffa acutangula"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 2874601,
+   "scientificName": "Luffa acutangula (L.) Roxb.",
+   "canonicalName": "Luffa acutangula",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 99,
+   "kingdom": "Plantae",
+   "family": "Cucurbitaceae",
+   "order": "Cucurbitales",
+   "genus": "Luffa",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q1948703",
+   "ncbiTaxid": "56866"
   },
   {
    "query": "Macrotyloma uniflorum",
@@ -4166,6 +4930,34 @@
    "checkedAt": "2026-09-12",
    "wikidata": "Q160114",
    "ncbiTaxid": "29719"
+  },
+  {
+   "query": "Mesua ferrea",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "nagakesara",
+     "title": "Nagakesara",
+     "asPublished": "Mesua ferrea"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 7330039,
+   "scientificName": "Mesua ferrea L.",
+   "canonicalName": "Mesua ferrea",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 99,
+   "kingdom": "Plantae",
+   "family": "Calophyllaceae",
+   "order": "Malpighiales",
+   "genus": "Mesua",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q2001737",
+   "ncbiTaxid": "210380"
   },
   {
    "query": "Meyna spinosa",
@@ -4642,6 +5434,34 @@
    "ncbiTaxid": "41398"
   },
   {
+   "query": "Nymphaea alba",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "kumuda",
+     "title": "Kumuda",
+     "asPublished": "Nymphaea alba"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 2882437,
+   "scientificName": "Nymphaea alba L.",
+   "canonicalName": "Nymphaea alba",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 97,
+   "kingdom": "Plantae",
+   "family": "Nymphaeaceae",
+   "order": "Nymphaeales",
+   "genus": "Nymphaea",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q147030",
+   "ncbiTaxid": "34301"
+  },
+  {
    "query": "Ocimum tenuiflorum",
    "pages": [
     {
@@ -4962,6 +5782,34 @@
    "ncbiTaxid": "296036"
   },
   {
+   "query": "Phyllanthus fraternus",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "bhumyamalaki",
+     "title": "Bhumyamalaki",
+     "asPublished": "Phyllanthus fraternus"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 5381498,
+   "scientificName": "Phyllanthus fraternus G.L.Webster",
+   "canonicalName": "Phyllanthus fraternus",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 99,
+   "kingdom": "Plantae",
+   "family": "Phyllanthaceae",
+   "order": "Malpighiales",
+   "genus": "Phyllanthus",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q15451978",
+   "ncbiTaxid": "427278"
+  },
+  {
    "query": "Phyllanthus niruri",
    "pages": [
     {
@@ -4988,6 +5836,34 @@
    "checkedAt": "2026-09-12",
    "wikidata": "Q2719836",
    "ncbiTaxid": "296034"
+  },
+  {
+   "query": "Picrorhiza kurroa",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "katuki",
+     "title": "Katuki",
+     "asPublished": "Picrorhiza kurroa"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 3727300,
+   "scientificName": "Picrorhiza kurroa Royle ex Benth.",
+   "canonicalName": "Picrorhiza kurroa",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 99,
+   "kingdom": "Plantae",
+   "family": "Plantaginaceae",
+   "order": "Lamiales",
+   "genus": "Picrorhiza",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q2562125",
+   "ncbiTaxid": "195120"
   },
   {
    "query": "Piper cubeba",
@@ -5082,6 +5958,12 @@
   {
    "query": "Piper retrofractum",
    "pages": [
+    {
+     "kind": "herb",
+     "slug": "chavika",
+     "title": "Chavika",
+     "asPublished": "Piper retrofractum"
+    },
     {
      "kind": "herb",
      "slug": "chavya",
@@ -5260,6 +6142,22 @@
    "ncbiTaxid": "261426"
   },
   {
+   "query": "Prakshep phase",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "vamshalochana",
+     "title": "Vamshalochana",
+     "asPublished": "Prakshep phase"
+    }
+   ],
+   "status": "not-found",
+   "matchType": "NONE",
+   "checkedAt": "2026-09-16",
+   "wikidata": "",
+   "ncbiTaxid": ""
+  },
+  {
    "query": "Premna integrifolia",
    "pages": [
     {
@@ -5436,6 +6334,12 @@
   {
    "query": "Pueraria tuberosa",
    "pages": [
+    {
+     "kind": "herb",
+     "slug": "vidari",
+     "title": "Vidari",
+     "asPublished": "Pueraria tuberosa"
+    },
     {
      "kind": "herb",
      "slug": "vidarikand",
@@ -5648,6 +6552,34 @@
    "ncbiTaxid": "3988"
   },
   {
+   "query": "Rosa centifolia",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "taruni",
+     "title": "Taruni",
+     "asPublished": "Rosa centifolia"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 3002410,
+   "scientificName": "Rosa × centifolia L.",
+   "canonicalName": "Rosa centifolia",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 97,
+   "kingdom": "Plantae",
+   "family": "Rosaceae",
+   "order": "Rosales",
+   "genus": "Rosa",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-16",
+   "wikidata": "",
+   "ncbiTaxid": "396733"
+  },
+  {
    "query": "Roscoea purpurea",
    "pages": [
     {
@@ -5710,6 +6642,34 @@
    "ncbiTaxid": "339321"
   },
   {
+   "query": "Saccharum bengalense",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "shara",
+     "title": "Shara",
+     "asPublished": "Saccharum bengalense"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 2703927,
+   "scientificName": "Saccharum bengalense Retz.",
+   "canonicalName": "Saccharum bengalense",
+   "rank": "SPECIES",
+   "taxonomicStatus": "SYNONYM",
+   "matchType": "EXACT",
+   "confidence": 98,
+   "kingdom": "Plantae",
+   "family": "Poaceae",
+   "order": "Poales",
+   "genus": "Tripidium",
+   "acceptedName": "Tripidium bengalense (Retz.) H.Scholz",
+   "acceptedKey": 4116612,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q12845384",
+   "ncbiTaxid": "1249013"
+  },
+  {
    "query": "Saccharum officinarum",
    "pages": [
     {
@@ -5764,6 +6724,34 @@
    "checkedAt": "2026-09-12",
    "wikidata": "",
    "ncbiTaxid": "45325"
+  },
+  {
+   "query": "Salvadora persica",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "pilu",
+     "title": "Pilu",
+     "asPublished": "Salvadora persica"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 5580727,
+   "scientificName": "Salvadora persica L.",
+   "canonicalName": "Salvadora persica",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 98,
+   "kingdom": "Plantae",
+   "family": "Salvadoraceae",
+   "order": "Brassicales",
+   "genus": "Salvadora",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q143525",
+   "ncbiTaxid": "4326"
   },
   {
    "query": "Salvia officinalis",
@@ -5904,6 +6892,62 @@
    "checkedAt": "2026-09-12",
    "wikidata": "Q9334552",
    "ncbiTaxid": "2840175"
+  },
+  {
+   "query": "Scirpus kysoor",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "kasheruka",
+     "title": "Kasheruka",
+     "asPublished": "Scirpus kysoor"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 2710513,
+   "scientificName": "Scirpus kysoor Roxb.",
+   "canonicalName": "Scirpus kysoor",
+   "rank": "SPECIES",
+   "taxonomicStatus": "SYNONYM",
+   "matchType": "EXACT",
+   "confidence": 97,
+   "kingdom": "Plantae",
+   "family": "Cyperaceae",
+   "order": "Poales",
+   "genus": "Actinoscirpus",
+   "acceptedName": "Actinoscirpus grossus var. kysoor (Roxb.) Noltie",
+   "acceptedKey": 2710511,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q38648262",
+   "ncbiTaxid": ""
+  },
+  {
+   "query": "Senna tora",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "prapunnada",
+     "title": "Prapunnada",
+     "asPublished": "Senna tora"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 2957728,
+   "scientificName": "Senna tora (L.) Roxb.",
+   "canonicalName": "Senna tora",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 99,
+   "kingdom": "Plantae",
+   "family": "Fabaceae",
+   "order": "Fabales",
+   "genus": "Senna",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q2739004",
+   "ncbiTaxid": "362788"
   },
   {
    "query": "Sesamum indicum",
@@ -6254,6 +7298,34 @@
    "ncbiTaxid": "3562"
   },
   {
+   "query": "Stereospermum chelonoides",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "patala",
+     "title": "Patala",
+     "asPublished": "Stereospermum chelonoides"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 4092354,
+   "scientificName": "Stereospermum chelonoides (L.fil.) DC.",
+   "canonicalName": "Stereospermum chelonoides",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 99,
+   "kingdom": "Plantae",
+   "family": "Bignoniaceae",
+   "order": "Lamiales",
+   "genus": "Stereospermum",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q18182661",
+   "ncbiTaxid": "1401050"
+  },
+  {
    "query": "Strychnos potatorum",
    "pages": [
     {
@@ -6444,6 +7516,34 @@
    "checkedAt": "2026-09-12",
    "wikidata": "Q179729",
    "ncbiTaxid": "25629"
+  },
+  {
+   "query": "Tecomella undulata",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "rohitaka",
+     "title": "Rohitaka",
+     "asPublished": "Tecomella undulata"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 4093643,
+   "scientificName": "Tecomella undulata (Sm.) Seem.",
+   "canonicalName": "Tecomella undulata",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 99,
+   "kingdom": "Plantae",
+   "family": "Bignoniaceae",
+   "order": "Lamiales",
+   "genus": "Tecomella",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q311815",
+   "ncbiTaxid": "680229"
   },
   {
    "query": "Tephrosia purpurea",
@@ -7124,6 +8224,34 @@
    "checkedAt": "2026-09-12",
    "wikidata": "",
    "ncbiTaxid": "94328"
+  },
+  {
+   "query": "Ziziphus mauritiana",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "badara",
+     "title": "Badara",
+     "asPublished": "Ziziphus mauritiana"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 3039424,
+   "scientificName": "Ziziphus mauritiana Lam.",
+   "canonicalName": "Ziziphus mauritiana",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 99,
+   "kingdom": "Plantae",
+   "family": "Rhamnaceae",
+   "order": "Rosales",
+   "genus": "Ziziphus",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-16",
+   "wikidata": "Q327859",
+   "ncbiTaxid": "157914"
   }
  ]
 }

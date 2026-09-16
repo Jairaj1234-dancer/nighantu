@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "mens-health-vitality", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 641
+words: 620
 srcRel: "Ayurveda/Herbs/Single-Herbs/Mens-Health-Vitality/Gokshura/meta-analysis.md"
 ---
 ## Names and identification
@@ -49,8 +49,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Mens-Health-Vitality/Gokshura/meta-analysis
 - Other reported side effects include gynecomastia, excitation, menorrhagia, and insomnia.
 - In grazing animals, linked to bile duct injury via steroidal sapogenins forming crystals in bile ducts, though clinically apparent liver injury in humans not convincingly shown.
 - Contraindicated during pregnancy and breastfeeding due to insufficient safety data.
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

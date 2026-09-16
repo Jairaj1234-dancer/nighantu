@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Liver-Detox"
-answer: "Bhumyamalaki is a substance used in the Ayurvedic materia medica. Usual dose: 3-6g powder twice daily; 500mg standardized extract capsule twice daily; 10-20ml juice; 50-100ml decoction twice daily for hepatic conditions."
-botanical: ""
+answer: "Bhumyamalaki (Phyllanthus fraternus) is a plant used in Ayurveda. Usual dose: 3-6g powder twice daily; 500mg standardized extract capsule twice daily; 10-20ml juice; 50-100ml decoction twice daily for hepatic conditions."
+botanical: "Phyllanthus fraternus"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "liver-detox", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 329
+words: 308
 srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Bhumyamalaki/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Bhumyamalaki/meta-analysis.md"
 | **Guna** (Quality) | Laghu, Ruksha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

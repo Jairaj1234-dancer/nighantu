@@ -16,7 +16,7 @@ aliases: ["Solanum xanthocarpum Schrad. & Wendl. (syn. S. surattense Burm. f.", 
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 462
+words: 441
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kantakari/meta-analysis.md"
 ---
 ## Names and identification
@@ -51,14 +51,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kantakari/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
+
+
 *3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
 - Safe at traditional Ayurvedic doses; steroidal glycoalkaloids may cause gastrointestinal irritation at excessive doses
 - Should not be used during pregnancy due to potential uterine stimulant activity of steroidal compounds; avoid in patients with known nightshade sensitivity
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Kidney-Urinary"
-answer: "Kasheruka is a substance used in the Ayurvedic materia medica. Usual dose: 3-5 g powder twice daily; 50-80 mL decoction; 10-15 mL fresh juice. Starch content of tubers may slow absorption but provides sustained release effect."
-botanical: ""
+answer: "Kasheruka (Scirpus kysoor) is a plant used in Ayurveda. Usual dose: 3-5 g powder twice daily; 50-80 mL decoction; 10-15 mL fresh juice. Dosage Forms: Churna (powder), Kashayam (decoction), Kalka (paste), Capsule, Swarasa (fresh tuber juice) Standard Dosage: 3-5 g powder twice daily; 50-80 mL decoction; 10-15 mL fresh juice Bioavailability: Sesquiterpene constituents show moderate lipophilicity and oral bioavailability."
+botanical: "Scirpus kysoor"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "kidney-urinary", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 282
+words: 261
 srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Kasheruka/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Kasheruka/meta-analysis.md"
 | **Guna** (Quality) | Guru, Snigdha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

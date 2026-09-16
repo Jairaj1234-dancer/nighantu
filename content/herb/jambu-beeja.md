@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Jambu Beeja (Syzygium cumini) is a plant used in Ayurveda. Usual dose: 3-6g seed kernel powder twice daily with water before meals; 500mg-1g standardized extract. Active compounds including jamboline, ellagitannins, and gallic acid."
+answer: "Jambu Beeja (Syzygium cumini) is a plant used in Ayurveda. Usual dose: 3-6g seed kernel powder twice daily with water before meals; 500mg-1g standardized extract. Dosage Forms: Churna (seed kernel powder), Tablet, Capsule, Kwath (decoction) Standard Dosage: 3-6g seed kernel powder twice daily with water before meals; 500mg-1g standardized extract Bioavailability: Syzygium cumini seed kernel (Jambu-Beeja specifically refers to the seed/seed kernel)."
 botanical: "Syzygium cumini"
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Jambu Beeja", "JambuBeeja"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 297
+words: 276
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jambu-Beeja/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,8 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jambu-Beeja/meta-analysis.md"
 | **Guna** (Quality) | Laghu, Ruksha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

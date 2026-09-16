@@ -2,10 +2,10 @@
  "name": "Age Ayurveda Nighantu constituent chemistry",
  "description": "Phytochemical constituents named in this reference, resolved against PubChem to a CID, molecular formula, weight, InChIKey and SMILES. Names that resolve to nothing are retained and marked unresolved: many are classes of compound rather than compounds.",
  "license": "https://creativecommons.org/licenses/by/4.0/",
- "updatedAt": "2026-09-12",
+ "updatedAt": "2026-09-16",
  "source": "PubChem PUG-REST, https://pubchem.ncbi.nlm.nih.gov/",
  "summary": {
-  "constituents": 839,
+  "constituents": 838,
   "resolved": 455,
   "unmatched": 383,
   "distinctStructures": 455,
@@ -6042,12 +6042,6 @@
    "inchikey": "PXUNBQVWLWLIHU-UHFFFAOYSA-N",
    "smiles": "CC1=C(C=C2CCC3=C(C=CC(=C3O)OC)C4C2=C1OC(C4)(C)C)O",
    "iupacName": "5-methoxy-13,16,16-trimethyl-15-oxatetracyclo[8.7.1.02,7.014,18]octadeca-2(7),3,5,10,12,14(18)-hexaene-6,12-diol"
-  },
-  {
-   "name": "Raja Nighantu — \"Vamsharochana\"",
-   "slug": "raja-nighantu-vamsharochana",
-   "count": 1,
-   "unresolved": true
   },
   {
    "name": "Randia acid",

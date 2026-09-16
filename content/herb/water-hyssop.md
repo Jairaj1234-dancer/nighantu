@@ -16,7 +16,7 @@ aliases: ["Water Hyssop", "WaterHyssop"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 371
+words: 350
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Water_Hyssop/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,8 +24,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Water_Hyssop/meta-analysis.md
 | Language | Name |
 |----------|------|
 | English | Water_Hyssop |
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

@@ -16,7 +16,7 @@ aliases: ["Symplocos racemosa Roxb."]
 tags: ["ayurveda", "herb", "single-herb", "skin-beauty", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 520
+words: 499
 srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Lodhra/meta-analysis.md"
 ---
 ## Names and identification
@@ -55,6 +55,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Lodhra/meta-analysis.md"
 
 ## What do recent clinical trials show?
 
+
+
 *5 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
@@ -62,8 +64,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Lodhra/meta-analysis.md"
 - Generally considered safe within traditional dosage ranges. Astringent nature may cause constipation with prolonged high-dose use.
 - No significant adverse drug interactions reported; however, gaps remain in standardizing extract concentrations and verifying long-term safety.
 - Traditionally avoided during pregnancy. Should be used under practitioner supervision for gynecological conditions.
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

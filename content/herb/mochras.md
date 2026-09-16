@@ -16,7 +16,7 @@ aliases: ["Salmalia malabarica (DC.) Schott & Endl. (syn. Bombax ceiba L.) - res
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 588
+words: 567
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mochras/meta-analysis.md"
 ---
 ## Names and identification
@@ -60,8 +60,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mochras/meta-analysis.md"
 
 - Resin (Mochras) is generally safe for external and internal use at recommended Ayurvedic doses; primarily used as astringent and hemostatic
 - Limited formal toxicological studies on the resin specifically; some tannin-rich preparations may reduce iron absorption with prolonged use; generally well-tolerated
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

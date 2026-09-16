@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Kidney-Urinary"
-answer: "Varuna is a substance used in the Ayurvedic materia medica. Usual dose: 3-6 g bark powder twice daily; 50-100 mL decoction twice daily; 15-30 mL Varunadi Kwatha twice daily."
-botanical: ""
+answer: "Varuna (Crateva nurvala) is a plant used in Ayurveda. Usual dose: 3-6 g bark powder twice daily; 50-100 mL decoction twice daily; 15-30 mL Varunadi Kwatha twice daily."
+botanical: "Crateva nurvala"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "kidney-urinary", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 348
+words: 327
 srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Varuna/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Varuna/meta-analysis.md"
 | **Guna** (Quality) | Laghu, Ruksha | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

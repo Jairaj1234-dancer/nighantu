@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Digestive-Health"
-answer: "Gavedhuka is a substance used in the Ayurvedic materia medica. Usual dose: 5-10g grain powder twice daily; 50-100ml decoction; Yavagu as directed (as dietary preparation); 500-1000mg extract capsule twice daily."
-botanical: ""
+answer: "Gavedhuka (Coix lacryma-jobi) is a plant used in Ayurveda. Usual dose: 5-10g grain powder twice daily; 50-100ml decoction; Yavagu as directed (as dietary preparation); 500-1000mg extract capsule twice daily."
+botanical: "Coix lacryma-jobi"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "digestive-health", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 379
+words: 358
 srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Gavedhuka/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Gavedhuka/meta-analysis.md
 | **Guna** (Quality) | Laghu, Ruksha | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

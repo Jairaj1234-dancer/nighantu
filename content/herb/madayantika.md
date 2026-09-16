@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Heart-Circulation"
-answer: "Madayantika is a substance used in the Ayurvedic materia medica. Usual dose: 3-6 g flower/fruit powder per day; 50-100 mL decoction twice daily; 10-20 mL juice; 5-10 g Avaleha preparation."
-botanical: ""
+answer: "Madayantika (Lawsonia inermis) is a plant used in Ayurveda. Usual dose: 3-6 g flower/fruit powder per day; 50-100 mL decoction twice daily; 10-20 mL juice; 5-10 g Avaleha preparation."
+botanical: "Lawsonia inermis"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "heart-circulation", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 322
+words: 301
 srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Madayantika/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Madayantika/meta-analysis
 | **Guna** (Quality) | Laghu, Ruksha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Brain-Nervous-System"
-answer: "Matsyakshi is a substance used in the Ayurvedic materia medica. Usual dose: 3-6 g powder per day in divided doses; 50-100 mL decoction twice daily; 10-20 mL fresh juice; 500 mg extract capsules twice daily."
-botanical: ""
+answer: "Matsyakshi (Alternanthera sessilis) is a plant used in Ayurveda. Usual dose: 3-6 g powder per day in divided doses; 50-100 mL decoction twice daily; 10-20 mL fresh juice; 500 mg extract capsules twice daily."
+botanical: "Alternanthera sessilis"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "brain-nervous-system", "rasayana", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 314
+words: 293
 srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Matsyakshi/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Matsyakshi/meta-analys
 | **Guna** (Quality) | Laghu | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

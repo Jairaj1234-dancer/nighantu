@@ -16,7 +16,7 @@ aliases: ["Aristolochia indica L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 598
+words: 577
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ishwari/meta-analysis.md"
 ---
 ## Names and identification
@@ -61,8 +61,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ishwari/meta-analysis.md"
 - BANNED in multiple countries including USA, Canada, Germany, UK, France, Belgium, Austria, and Japan due to confirmed carcinogenicity and nephrotoxicity of aristolochic acids
 - IARC Group 1 carcinogen (confirmed human carcinogen); causes aristolochic acid nephropathy (AAN) and significantly increases risk of urothelial/bladder cancer
 - Even low aristolochic acid concentrations pose cumulative cancer risk with chronic exposure; no safe dose established for internal human use; traditional Ayurvedic Shodhana methods do NOT reliably eliminate aristolochic acids
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

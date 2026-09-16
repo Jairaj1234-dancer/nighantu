@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Joint-Musculoskeletal"
-answer: "Latakaranja is a substance used in the Ayurvedic materia medica. Usual dose: 1-3 g seed powder per day; 3-6 g leaf/bark powder; 20-40 mL decoction twice daily. Internal use requires purification (Shodhana)."
-botanical: ""
+answer: "Latakaranja (Caesalpinia bonduc) is a plant used in Ayurveda. Usual dose: 1-3 g seed powder per day; 3-6 g leaf/bark powder; 20-40 mL decoction twice daily. Internal use requires purification (Shodhana)."
+botanical: "Caesalpinia bonduc"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "joint-musculoskeletal", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 306
+words: 285
 srcRel: "Ayurveda/Herbs/Single-Herbs/Joint-Musculoskeletal/Latakaranja/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Joint-Musculoskeletal/Latakaranja/meta-anal
 | **Guna** (Quality) | Laghu, Tikshna | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

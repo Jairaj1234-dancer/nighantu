@@ -16,7 +16,7 @@ aliases: ["Nyctanthes arbor-tristis L."]
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 594
+words: 573
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Parijata/meta-analysis.md"
 ---
 ## Names and identification
@@ -66,8 +66,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Parijata/meta-analysis.m
 
 - Most pharmacological studies lack proper dosage standardization, positive and negative controls; clinical human trials are limited
 - Leaves decoction used traditionally for fever is generally safe at recommended doses; excessive use may cause gastric irritation. Not recommended during pregnancy without medical supervision.
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

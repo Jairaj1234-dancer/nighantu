@@ -16,7 +16,7 @@ aliases: ["Fagonia cretica L. / Fagonia arabica L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 626
+words: 605
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhamasa/meta-analysis.md"
 ---
 ## Names and identification
@@ -63,8 +63,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhamasa/meta-analysis.md"
 
 - Traditional use in Ayurvedic and Unani medicine across South Asia and Middle East suggests established safety profile at conventional doses; widely used as a folk remedy for cancer in Pakistan and India
 - Saponin content may cause GI irritation at high doses; systematic toxicological evaluation is limited; liposomal formulation research suggests enhanced safety through targeted delivery
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

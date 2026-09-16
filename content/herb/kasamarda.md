@@ -16,7 +16,7 @@ aliases: ["Cassia occidentalis L. (syn. Senna occidentalis)"]
 tags: ["ayurveda", "herb", "single-herb", "skin-beauty", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 638
+words: 617
 srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kasamarda/meta-analysis.md"
 ---
 ## Names and identification
@@ -63,8 +63,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kasamarda/meta-analysis.md"
 
 - Oral consumption of seeds and leaves has been associated with hepatotoxicity and myotoxicity in some reports, particularly with chronic high-dose use. Topical application for skin conditions appears safer but requires proper formulation
 - Not recommended for oral use during pregnancy. Leaf preparations should be standardized for anthraquinone content to prevent adverse effects. Traditional external use for skin fungal infections has a reasonable safety record
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

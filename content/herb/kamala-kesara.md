@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Skin-Beauty"
-answer: "Kamala Kesara (Nelumbo nucifera) is a plant used in Ayurveda. Usual dose: 1-3 g of powder twice daily; 5-10 mL decoction twice daily. Enhancement strategies include co-administration with Pippali (piperine source) or formulation with lipid-based carriers (self-emulsifying systems) to improve absorption of lipophilic pigments like kaempferol glycosides."
+answer: "Kamala Kesara (Nelumbo nucifera) is a plant used in Ayurveda. Usual dose: 1-3 g of powder twice daily; 5-10 mL decoction twice daily. Dosage Forms: Churna (powder), Capsule, Lepa (paste for external use), Taila (oil), Kashayam (decoction) Standard Dosage: 1-3 g of powder twice daily; 5-10 mL decoction twice daily Bioavailability: Contains flavonoids and carotenoids with moderate oral bioavailability."
 botanical: "Nelumbo nucifera"
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Kamala Kesara", "KamalaKesara"]
 tags: ["ayurveda", "herb", "single-herb", "skin-beauty", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 282
+words: 261
 srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kamala-Kesara/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,8 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kamala-Kesara/meta-analysis.md"
 | **Guna** (Quality) | Laghu, Ruksha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

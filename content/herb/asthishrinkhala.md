@@ -16,7 +16,7 @@ aliases: ["Cissus quadrangularis L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 645
+words: 624
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Asthishrinkhala/meta-analysis.md"
 ---
 ## Names and identification
@@ -63,8 +63,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Asthishrinkhala/meta-analysis
 
 - 90-day subchronic toxicity study showed no adverse effects at doses up to 2500 mg/kg/day; in vitro and in vivo mutagenicity studies revealed no mutagenic potential; considered exceedingly safe at commonly used supplemental doses
 - Minor reported side effects include headache, intestinal gas, diarrhea, and dry mouth; should be used with caution in diabetic patients due to hypoglycemic potential and in those on anticoagulants due to potential interactions
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

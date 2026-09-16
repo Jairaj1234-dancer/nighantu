@@ -16,7 +16,7 @@ aliases: ["Shigru Patra", "ShigruPatra"]
 tags: ["ayurveda", "herb", "single-herb", "kidney-urinary", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 348
+words: 327
 srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Shigru-Patra/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,8 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Shigru-Patra/meta-analysis.m
 | **Guna** (Quality) | Laghu | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

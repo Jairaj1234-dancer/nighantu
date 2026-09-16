@@ -16,7 +16,7 @@ aliases: ["Black Pepper", "BlackPepper", "Piper nigrum"]
 tags: ["ayurveda", "herb", "single-herb", "kitchen-spices-culinary", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu, Ashtanga Hridaya)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 492
+words: 471
 srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Black-Pepper/meta-analysis.md"
 ---
 ## Names and identification
@@ -89,6 +89,7 @@ Powder: 0.5-2g/day; As part of [Trikatu](/nighantu/herb/trikatu/): 1-3g/day
 ## What is it made of?
 
 **Part(s) Analyzed:** Fruit
+
 
 ## Dosage forms and preparation
 

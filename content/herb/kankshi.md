@@ -16,7 +16,7 @@ aliases: ["Abrus precatorius L. (seed coat/outer coating)"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 584
+words: 563
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kankshi/meta-analysis.md"
 ---
 ## Names and identification
@@ -61,8 +61,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kankshi/meta-analysis.md"
 - EXTREMELY TOXIC - Abrin in seed kernels is one of the most toxic naturally occurring substances; fatal dose as low as 0.1-1 microgram/kg IV; the hard seed coat prevents toxin release when seeds are swallowed whole
 - In Ayurvedic practice, only the purified (Shodhit) seed coat or processed preparations are used; raw crushed seeds are lethal and have caused numerous fatalities worldwide
 - Classified as a potential bioterrorism agent; handling crushed seeds requires extreme caution; any Ayurvedic use must follow strict Shodhana protocols under expert supervision
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

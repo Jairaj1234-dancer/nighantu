@@ -16,7 +16,7 @@ aliases: ["Meyna spinosa Roxb. ex Link"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 541
+words: 520
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lavali/meta-analysis.md"
 ---
 ## Names and identification
@@ -62,8 +62,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lavali/meta-analysis.md"
 - Limited formal toxicity studies have been conducted; the plant is used traditionally as food (ripe fruits eaten) and medicine in tribal communities of Northeast India
 - Given the limited pharmacological investigation, standardized dose-toxicity relationship data is not yet available for clinical application
 - Abortifacient activity documented in traditional use; strictly avoid during pregnancy; further comprehensive toxicity studies are recommended
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

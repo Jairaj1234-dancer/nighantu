@@ -16,7 +16,7 @@ aliases: ["Jasminum auriculatum Vahl"]
 tags: ["ayurveda", "herb", "single-herb", "skin-beauty", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 710
+words: 689
 srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Yuthika/meta-analysis.md"
 ---
 ## Names and identification
@@ -61,8 +61,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Yuthika/meta-analysis.md"
 
 - Jasmine flower extracts and oils have extensive safe use in perfumery, cosmetics, and food flavoring. RIFM (Research Institute for Fragrance Materials) safety data supports cosmetic use of jasmine compounds
 - Linalool is a known allergen in EU cosmetic regulations (must be declared on labels above threshold concentrations). Rare cases of contact sensitization to jasmine oil reported. Root preparations for skin diseases should be used with caution - limited safety data
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

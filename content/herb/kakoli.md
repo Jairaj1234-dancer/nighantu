@@ -16,7 +16,7 @@ aliases: ["Roscoea purpurea Sm. (also identified with Fritillaria roylei)"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 552
+words: 531
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kakoli/meta-analysis.md"
 ---
 ## Names and identification
@@ -61,8 +61,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kakoli/meta-analysis.md"
 
 - Traditionally used safely as part of Ashtavarga in [Chyawanprash](/nighantu/formulation/chyawanprash/) and other rejuvenating formulations; no documented adverse effects at Ayurvedic therapeutic doses
 - Critically endangered Himalayan species; authentication challenges and frequent substitution with other species pose safety and efficacy concerns in commercial products
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

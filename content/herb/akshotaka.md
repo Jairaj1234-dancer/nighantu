@@ -16,7 +16,7 @@ aliases: ["Juglans regia L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 693
+words: 672
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akshotaka/meta-analysis.md"
 ---
 ## Names and identification
@@ -65,8 +65,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akshotaka/meta-analysis.md"
 - Generally Recognized as Safe (GRAS) for dietary consumption; walnut allergy (IgE-mediated) is a significant concern affecting approximately 1-2% of the population in Western countries
 - Juglone in bark and green husk may cause contact dermatitis and skin staining; topical preparations require careful concentration limits
 - No significant herb-drug interactions documented at standard dietary doses; high doses of walnut leaf preparations should be avoided in pregnancy due to limited safety data
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

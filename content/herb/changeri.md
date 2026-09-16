@@ -16,7 +16,7 @@ aliases: ["Oxalis corniculata L."]
 tags: ["ayurveda", "herb", "single-herb", "digestive-health", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 558
+words: 537
 srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Changeri/meta-analysis.md"
 ---
 ## Names and identification
@@ -60,8 +60,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Changeri/meta-analysis.md"
 
 - Contains significant oxalic acid content; excessive consumption may contribute to kidney stone formation (calcium oxalate stones) in susceptible individuals
 - Generally safe for short-term traditional use at recommended doses; not recommended for patients with hyperoxaluria, gout, or kidney disease; long-term safety data lacking
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

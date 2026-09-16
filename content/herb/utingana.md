@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Utingana is a substance used in the Ayurvedic materia medica. Usual dose: 3-5 g powder twice daily; 50-100 mL decoction twice daily. Polyphenolic compounds undergo Phase II hepatic conjugation. The saponin fraction is poorly absorbed (<10%) but contributes to local GI effects."
+answer: "Utingana (Blepharis persica) is a plant used in Ayurveda. Usual dose: 3-5 g powder twice daily; 50-100 mL decoction twice daily. Dosage Forms: Churna (powder), Kwatha (decoction), Capsule, Tablet, Lepa (external paste) Standard Dosage: 3-5 g powder twice daily; 50-100 mL decoction twice daily Bioavailability: Alkaloids and flavonoids show moderate oral bioavailability (20-35%)."
 botanical: "Blepharis persica"
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 254
+words: 233
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Utingana/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,8 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Utingana/meta-analysis.md"
 | **Guna** (Quality) | Guru, Snigdha | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

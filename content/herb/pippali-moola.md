@@ -16,7 +16,7 @@ aliases: ["Piper longum L. (root)", "Pippali Moola", "PippaliMoola"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 608
+words: 587
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Pippali-Moola/meta-analysis.md"
 ---
 ## Names and identification
@@ -63,8 +63,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Pippali-Moola/meta-analysis.m
 - [Pippali](/nighantu/herb/pippali/) Moola used in over 135 classical Ayurvedic formulations with long traditional safety record; however, no standardized human clinical safety data available
 - Piperine's bioavailability enhancement can increase plasma levels of co-administered drugs (phenytoin, theophylline, propranolol); significant drug interaction potential requiring monitoring
 - Avoid high doses during pregnancy (potential uterotonic effects); may exacerbate gastric acidity in patients with GERD or peptic ulcers
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

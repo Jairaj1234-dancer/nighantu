@@ -16,7 +16,7 @@ aliases: ["Gloriosa superba L. (Agnikumarika/Agnimukhi); also associated with Li
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 557
+words: 536
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agnikarna/meta-analysis.md"
 ---
 ## Names and identification
@@ -61,8 +61,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agnikarna/meta-analysis.md"
 - HIGHLY TOXIC - Classified as Upavisha (semi-poison) in Ayurveda; colchicine has a very narrow therapeutic index; fatal dose in adults is 0.8 mg/kg; symptoms of overdose include multi-organ failure
 - Mandatory Shodhana (purification by boiling in cow's milk - [Ksheera](/nighantu/herb/ksheera/) Swedana for 3 hours) before any Ayurvedic use; raw plant parts should never be consumed
 - FDA-approved colchicine (purified) used for gout treatment with strict dosing protocols; listed as endangered species (IUCN); poisoning cases reported from accidental ingestion and suicidal use
-
-## What is it made of?
 
 ## Dosage forms and preparation
 

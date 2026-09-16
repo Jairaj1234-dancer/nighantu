@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "skin-beauty", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 852
+words: 831
 srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Manjistha/meta-analysis.md"
 ---
 ## Names and identification
@@ -62,8 +62,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Manjistha/meta-analysis.md"
 - Common side effects: mild gastrointestinal upset, allergic reactions (rash/itching), nausea in some cases.
 - Hypersensitivity to Rubia cordifolia or its components is a contraindication.
 - Human toxic dose not yet established from animal studies; clinical trials needed.
-
-## What is it made of?
 
 ## Dosage forms and preparation
 
