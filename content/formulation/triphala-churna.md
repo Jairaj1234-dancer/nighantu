@@ -16,7 +16,7 @@ aliases: ["Triphala Churna", "TriphalaChurna"]
 tags: ["ayurveda", "formulation", "churna", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 608
+words: 589
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Triphala-Churna/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,12 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Triphala-Churna/m
 | Language | Name |
 |----------|------|
 | English | [Triphala](/nighantu/herb/triphala/) Churna |
-
-## Key Ingredients
-
-- [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula) dried fruit
-- [Bibhitaki](/nighantu/herb/bibhitaki/) (Terminalia bellirica) dried fruit
-- Amalaki (Emblica officinalis/Phyllanthus emblica) dried fruit
 
 ## Where is it described in the classical texts?
 

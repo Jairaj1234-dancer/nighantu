@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 502
+words: 453
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Abhayarishta/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,20 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Abhayar
 | Language | Name |
 |----------|------|
 | English | Abhayarishta |
-
-## Key Ingredients
-
-- Abhaya/[Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula)
-- [Draksha](/nighantu/herb/draksha/) (Vitis vinifera / Dry grapes)
-- [Vidanga](/nighantu/herb/vidanga/) (Embelia ribes)
-- [Dhataki](/nighantu/herb/dhataki/) Pushpa (Woodfordia fruticosa)
-- [Dhanyaka](/nighantu/herb/dhanyaka/) (Coriandrum sativum)
-- Shatapushpa (Anethum graveolens)
-- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale)
-- [Gokshura](/nighantu/herb/gokshura/) (Tribulus terrestris)
-- [Indravaruni](/nighantu/herb/indravaruni/) (Citrullus colocynthis)
-- [Madhuka](/nighantu/herb/madhuka/) (Madhuca longifolia)
-- Jaggery (fermentation medium)
 
 ## Where is it described in the classical texts?
 

@@ -16,7 +16,7 @@ aliases: ["Kshirabala Thailam", "KshirabalaThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 555
+words: 536
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kshirabala-Thailam/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,12 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kshirabala-
 | Language | Name |
 |----------|------|
 | English | [Kshirabala Thailam](/nighantu/formulation/kshirabala-thailam/) |
-
-## Key Ingredients
-
-- [Bala](/nighantu/herb/bala/) (Sida cordifolia) - primary herb
-- Cow's milk ([Ksheera](/nighantu/herb/ksheera/))
-- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) ([Tila](/nighantu/herb/tila/) taila) base
 
 ## Where is it described in the classical texts?
 

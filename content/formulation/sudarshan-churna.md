@@ -16,7 +16,7 @@ aliases: ["Sudarshan Churna", "SudarshanChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 464
+words: 402
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Sudarshan-Churna/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,23 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Sudarshan-Churna/
 | Language | Name |
 |----------|------|
 | English | [Sudarshan Churna](/nighantu/formulation/sudarshan-churna/) |
-
-## Key Ingredients
-
-- [Kiratatikta](/nighantu/herb/kiratatikta/)/Chirayita (Swertia chirata) - 50% of total remaining ingredients
-- [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula)
-- [Bibhitaki](/nighantu/herb/bibhitaki/) (Terminalia bellirica)
-- Amalaki (Emblica officinalis)
-- [Neem](/nighantu/herb/neem/) (Azadirachta indica)
-- Musta (Cyperus rotundus)
-- [Pippali](/nighantu/herb/pippali/) (Piper longum)
-- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale)
-- [Daruharidra](/nighantu/herb/daruharidra/) (Berberis aristata)
-- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (Glycyrrhiza glabra)
-- [Haridra](/nighantu/herb/haridra/) (Curcuma longa)
-- Kaleeyaka (Santalum album)
-- [Devadaru](/nighantu/herb/devadaru/) (Cedrus deodara)
-- [Vacha](/nighantu/herb/vacha/) (Acorus calamus)
 
 ## Where is it described in the classical texts?
 

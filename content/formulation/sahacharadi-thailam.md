@@ -16,7 +16,7 @@ aliases: ["Sahacharadi Thailam", "SahacharadiThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 485
+words: 438
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Sahacharadi-Thailam/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,18 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Sahacharadi
 | Language | Name |
 |----------|------|
 | English | [Sahacharadi Thailam](/nighantu/formulation/sahacharadi-thailam/) |
-
-## Key Ingredients
-
-- Sahachara (Strobilanthes ciliata / Lesser Kurinji) - primary herb
-- [Dashamoola](/nighantu/herb/dashamoola/) (ten roots)
-- [Shatavari](/nighantu/herb/shatavari/) (Asparagus racemosus)
-- [Manjistha](/nighantu/herb/manjistha/) (Rubia cordifolia)
-- [Gokshura](/nighantu/herb/gokshura/) (Tribulus terrestris)
-- [Bilva](/nighantu/herb/bilva/) (Aegle marmelos)
-- Shalaparni (Desmodium gangeticum)
-- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) ([Tila](/nighantu/herb/tila/) taila) base
-- Cow's milk ([Ksheera](/nighantu/herb/ksheera/))
 
 ## Where is it described in the classical texts?
 

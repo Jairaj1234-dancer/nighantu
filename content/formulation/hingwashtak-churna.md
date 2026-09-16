@@ -16,7 +16,7 @@ aliases: ["Hingwashtak Churna", "HingwashtakChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 553
+words: 482
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Hingwashtak-Churna/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,18 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Hingwashtak-Churn
 | Language | Name |
 |----------|------|
 | English | [Hingwashtak Churna](/nighantu/formulation/hingwashtak-churna/) |
-
-## Key Ingredients
-
-- [Hingu](/nighantu/herb/hingu/) (Ferula assa-foetida) - Asafoetida
-- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale) - [Ginger](/nighantu/herb/ginger/)
-- Maricha (Piper nigrum) - [Black pepper](/nighantu/herb/black-pepper/)
-- [Pippali](/nighantu/herb/pippali/) (Piper longum) - Long pepper
-- Ajamoda (Trachyspermum ammi) - [Ajwain](/nighantu/herb/ajwain/) / Carom seeds
-- Shweta [Jeeraka](/nighantu/herb/jeeraka/) (Cuminum cyminum) - White [cumin](/nighantu/herb/cumin/)
-- Krishna [Jeeraka](/nighantu/herb/jeeraka/)|Krishna Jeeraka (Nigella sativa / Carum carvi) - Black [cumin](/nighantu/herb/cumin/)
-- [Saindhava Lavana](/nighantu/herb/saindhava-lavana/) (Rock salt)
-- [Ghrita](/nighantu/herb/ghrita/) (Clarified butter / Ghee) - for processing
 
 ## Where is it described in the classical texts?
 

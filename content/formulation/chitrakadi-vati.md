@@ -16,7 +16,7 @@ aliases: ["Chitrakadi Vati", "ChitrakadiVati"]
 tags: ["ayurveda", "formulation", "vati", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 557
+words: 510
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Chitrakadi-Vati/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,20 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Chitrakadi-Vati/met
 | Language | Name |
 |----------|------|
 | English | [Chitrakadi Vati](/nighantu/formulation/chitrakadi-vati/) |
-
-## Key Ingredients
-
-- [Chitrak](/nighantu/herb/chitrak/) (Plumbago zeylanica) root
-- [Pippali](/nighantu/herb/pippali/) (Piper longum)
-- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale)
-- Maricha (Piper nigrum)
-- Hing/[Hingu](/nighantu/herb/hingu/) (Ferula asafoetida)
-- [Saindhava Lavana](/nighantu/herb/saindhava-lavana/) (Rock Salt)
-- Amalaki (Emblica officinalis)
-- [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula)
-- [Bibhitaki](/nighantu/herb/bibhitaki/) (Terminalia bellirica)
-- [Jeeraka](/nighantu/herb/jeeraka/) (Cuminum cyminum)
-- [Chavya](/nighantu/herb/chavya/) (Piper chaba)
 
 ## Where is it described in the classical texts?
 

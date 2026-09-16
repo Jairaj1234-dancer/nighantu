@@ -16,7 +16,7 @@ aliases: ["Gokshuradi Guggulu", "GokshuradiGuggulu"]
 tags: ["ayurveda", "formulation", "guggulu", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 521
+words: 481
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Gokshuradi-Guggulu/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,14 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Gokshuradi-G
 | Language | Name |
 |----------|------|
 | English | Gokshuradi [Guggulu](/nighantu/formulation/guggulu/)|Gokshuradi Guggulu |
-
-## Key Ingredients
-
-- [Gokshura](/nighantu/herb/gokshura/) (Tribulus terrestris) fruit
-- Shuddha [Guggulu](/nighantu/formulation/guggulu/)|Shuddha Guggulu (Commiphora wightii)
-- [Triphala](/nighantu/herb/triphala/) - [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula), [Bibhitaki](/nighantu/herb/bibhitaki/) (Terminalia bellirica), Amalaki (Emblica officinalis)
-- [Trikatu](/nighantu/herb/trikatu/) - Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale), Maricha (Piper nigrum), [Pippali](/nighantu/herb/pippali/) (Piper longum)
-- Musta (Cyperus rotundus)
 
 ## Where is it described in the classical texts?
 

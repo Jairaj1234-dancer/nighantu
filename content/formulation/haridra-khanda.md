@@ -16,7 +16,7 @@ aliases: ["Haridra Khanda", "HaridraKhanda"]
 tags: ["ayurveda", "formulation", "leham", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 545
+words: 454
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Haridra-Khanda/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,22 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Haridra-Kh
 | Language | Name |
 |----------|------|
 | English | [Haridra](/nighantu/herb/haridra/) Khanda |
-
-## Key Ingredients
-
-- [Haridra](/nighantu/herb/haridra/) (Curcuma longa / [Turmeric](/nighantu/herb/turmeric/)) - 384g (primary ingredient)
-- [Ghrita](/nighantu/herb/ghrita/) (cow ghee) - 288g
-- [Ksheera](/nighantu/herb/ksheera/) (cow milk) - 3.072L
-- Khand Sharkara (sugar candy) - 2.4kg
-- [Trikatu](/nighantu/herb/trikatu/) (Maricha, [Pippali](/nighantu/herb/pippali/), Shunthi) - 48g each
-- Twak (Cinnamomum zeylanicum / Cinnamon) - 48g
-- Ela (Elettaria cardamomum / Cardamom) - 48g
-- [Vidanga](/nighantu/herb/vidanga/) (Embelia ribes) - 48g
-- [Trivrit](/nighantu/herb/trivrit/) (Operculina turpethum) - 48g
-- [Triphala](/nighantu/herb/triphala/) ([Haritaki](/nighantu/herb/haritaki/), Vibhitaki, Amalaki) - 48g
-- [Nagakesara](/nighantu/herb/nagakesara/) (Mesua ferrea) - 48g
-- Musta (Cyperus rotundus) - 48g
-- Lauha Bhasma (iron calx) - 48g
 
 ## Where is it described in the classical texts?
 

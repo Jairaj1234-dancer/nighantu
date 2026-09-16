@@ -67,11 +67,16 @@ for (const { slug, extract: ex, verify: v } of done) {
   const absent = rows.filter((r) => !r.ocrCorrected && !r.illegible && !span.includes(fold(r.name).slice(0, 6)));
   if (absent.length) { reject(slug, 'row names not in the entry span', { absent: absent.map((r) => r.name) }); continue; }
 
+  // Transcribers annotate the source line with their own bracketed working ("[OCR prints
+  // '10510814'; Devanagari footer reads 105-107]"). That belongs in the run record, not in
+  // a sentence a reader sees, so only the citation as printed survives to the page.
+  const citation = (ex.classicalSource ?? '').replace(/\[[^\]]*\]/g, '').replace(/\s+/g, ' ').trim().replace(/^\(|\)$/g, '');
+
   out.records[slug] = {
     afiPart: ex.afiPart,
     entryNumber: ex.entryNumber,
     entryHeading: ex.entryHeading,
-    classicalSource: ex.classicalSource,
+    classicalSource: citation || null,
     sourceUrl: BOOKS[ex.afiPart].url,
     rows: rows.map(({ n, name, gloss, part, quantity, ocrCorrected, illegible }) => ({ n, name, gloss, part, quantity, ocrCorrected, illegible })),
   };

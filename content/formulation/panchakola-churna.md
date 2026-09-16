@@ -16,7 +16,7 @@ aliases: ["Panchakola Churna", "PanchakolaChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 512
+words: 488
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Panchakola-Churna/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,14 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Panchakola-Churna
 | Language | Name |
 |----------|------|
 | English | [Panchakola Churna](/nighantu/formulation/panchakola-churna/) |
-
-## Key Ingredients
-
-- [Pippali](/nighantu/herb/pippali/) (Piper longum) fruit
-- Pippalimula (Piper longum) root
-- [Chavya](/nighantu/herb/chavya/) (Piper chaba/retrofractum)
-- Chitraka (Plumbago zeylanica) root
-- Shunthi/Nagara ([Zingiber](/nighantu/herb/zingiber/) officinale) rhizome
 
 ## Where is it described in the classical texts?
 

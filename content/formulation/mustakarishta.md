@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Arishtas-Asavas-Fermented"
-answer: "Mustakarishta is a classical Ayurvedic fermented arishta or asava. The usual dose is 15-30ml with equal water. Listed in the Ayurvedic Formulary of India (AFI). Referenced in Bhaishajya Ratnavali under Agnimandya Rogadhikara (digestive weakness chapter)."
+answer: "Mustakarishta is a classical Ayurvedic fermented arishta or asava. The usual dose is 15-30ml with equal water. Listed in the Ayurvedic Formulary of India (AFI). Sharangdhara Samhita and Bhavaprakasha. Referenced in Bhaishajya Ratnavali under Agnimandya Rogadhikara (digestive weakness chapter)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 413
+words: 362
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Mustakarishta/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,18 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Mustaka
 | Language | Name |
 |----------|------|
 | English | Mustakarishta |
-
-## Key Ingredients
-
-- Musta/[Nagarmotha](/nighantu/herb/nagarmotha/) (Cyperus rotundus)
-- [Dhataki](/nighantu/herb/dhataki/) pushpa (Woodfordia fruticosa)
-- [Ajwain](/nighantu/herb/ajwain/) (Trachyspermum ammi / Carom seeds)
-- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale / Dry [ginger](/nighantu/herb/ginger/))
-- Maricha (Piper nigrum / [Black pepper](/nighantu/herb/black-pepper/))
-- [Laung](/nighantu/herb/laung/) (Syzygium aromaticum / Cloves)
-- [Methi](/nighantu/herb/methi/) (Trigonella foenum-graecum / Fenugreek)
-- Chitraka (Plumbago zeylanica)
-- Jaggery (fermentation medium)
 
 ## Where is it described in the classical texts?
 

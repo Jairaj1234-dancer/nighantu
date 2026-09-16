@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 511
+words: 450
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Kutajarishta/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,15 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Kutajar
 | Language | Name |
 |----------|------|
 | English | Kutajarishta |
-
-## Key Ingredients
-
-- Kutaja bark (Holarrhena antidysenterica) - primary ingredient (4.8 kg)
-- Mridveeka / [Draksha](/nighantu/herb/draksha/) (Vitis vinifera) - Dry grapes / Raisins (2.8 kg)
-- [Madhuka](/nighantu/herb/madhuka/) pushpa (Madhuca indica) - Mahua flower (480 g)
-- Kashmari (Gmelina arborea) - stem bark/root (480 g)
-- [Guda](/nighantu/glossary/concepts-a-m/#guda) (Jaggery) - fermentation substrate (4.8 kg)
-- [Dhataki](/nighantu/herb/dhataki/) pushpa (Woodfordia fruticosa) - fermenting agent (960 g)
 
 ## Where is it described in the classical texts?
 

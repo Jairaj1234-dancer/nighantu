@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Arishtas-Asavas-Fermented"
-answer: "Srikhandasava is a classical Ayurvedic fermented arishta or asava. The usual dose is 15-30ml with equal water. Listed in the Ayurvedic Formulary of India (AFI). Also known as Chandanasava in some traditions."
+answer: "Srikhandasava is a classical Ayurvedic fermented arishta or asava. The usual dose is 15-30ml with equal water. Listed in the Ayurvedic Formulary of India (AFI). Bhaishajya Ratnavali, Madatyaya Adhikara (chapter on intoxication/alcoholism)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 530
+words: 438
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Srikhandasava/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,28 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Srikhan
 | Language | Name |
 |----------|------|
 | English | Srikhandasava |
-
-## Key Ingredients
-
-- Shrikhanda/[Chandana](/nighantu/herb/chandana/) (Santalum album / White Sandalwood)
-- Raktachandana (Pterocarpus marsupium / Red Sandalwood)
-- Maricha (Piper nigrum / [Black pepper](/nighantu/herb/black-pepper/))
-- [Jatamansi](/nighantu/herb/jatamansi/) (Nardostachys [jatamansi](/nighantu/herb/jatamansi/))
-- [Haridra](/nighantu/herb/haridra/) (Curcuma longa / [Turmeric](/nighantu/herb/turmeric/))
-- [Daruharidra](/nighantu/herb/daruharidra/) (Berberis aristata)
-- Chitraka (Plumbago zeylanica)
-- Musta (Cyperus rotundus)
-- [Ushira](/nighantu/herb/ushira/) (Vetiveria zizanioides)
-- Nagakeshara (Mesua ferrea)
-- [Patha](/nighantu/herb/patha/) (Cyclea peltata)
-- Amalaki (Emblica officinalis)
-- [Pippali](/nighantu/herb/pippali/) (Piper longum)
-- [Chavya](/nighantu/herb/chavya/) (Piper cubeba)
-- Elaichi (Elettaria cardamomum)
-- [Lodhra](/nighantu/herb/lodhra/) (Symplocos racemosa)
-- [Dhataki](/nighantu/herb/dhataki/) pushpa (Woodfordia fruticosa)
-- [Draksha](/nighantu/herb/draksha/) (Vitis vinifera / Dry grapes)
-- Jaggery (fermentation medium)
 
 ## Where is it described in the classical texts?
 

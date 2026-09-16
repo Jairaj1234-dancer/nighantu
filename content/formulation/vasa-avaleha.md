@@ -16,7 +16,7 @@ aliases: ["Vasa Avaleha", "VasaAvaleha"]
 tags: ["ayurveda", "formulation", "leham", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 390
+words: 365
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Vasa-Avaleha/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,14 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Vasa-Avale
 | Language | Name |
 |----------|------|
 | English | [Vasa](/nighantu/herb/vasa/) Avaleha |
-
-## Key Ingredients
-
-- [Vasa](/nighantu/herb/vasa/) (Adhatoda vasica) - primary herb
-- Sharkara (sugar)
-- [Pippali](/nighantu/herb/pippali/) (Piper longum / Long pepper)
-- [Madhu](/nighantu/herb/madhu/) (honey)
-- [Ghrita](/nighantu/herb/ghrita/) (clarified cow butter)
 
 ## Where is it described in the classical texts?
 

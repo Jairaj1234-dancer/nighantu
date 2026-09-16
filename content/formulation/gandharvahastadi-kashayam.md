@@ -16,7 +16,7 @@ aliases: ["Gandharvahastadi Kashayam", "GandharvahastadiKashayam"]
 tags: ["ayurveda", "formulation", "kashayam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 456
+words: 420
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Gandharvahastadi-Kashayam/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,17 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Gandharvahas
 | Language | Name |
 |----------|------|
 | English | [Gandharvahastadi Kashayam](/nighantu/formulation/gandharvahastadi-kashayam/) |
-
-## Key Ingredients
-
-- Gandharvahasta / [Eranda](/nighantu/herb/eranda/) Mula (Ricinus communis root)
-- [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula)
-- [Trivrit](/nighantu/herb/trivrit/) (Operculina turpethum)
-- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale)
-- [Devadaru](/nighantu/herb/devadaru/) (Cedrus deodara)
-- [Daruharidra](/nighantu/herb/daruharidra/) (Berberis aristata)
-- Musta (Cyperus rotundus)
-- [Danti](/nighantu/herb/danti/) (Baliospermum montanum)
 
 ## Where is it described in the classical texts?
 

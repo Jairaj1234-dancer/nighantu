@@ -16,7 +16,7 @@ aliases: ["Talisadi Churna", "TalisadiChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 474
+words: 422
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Talisadi-Churna/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,17 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Talisadi-Churna/m
 | Language | Name |
 |----------|------|
 | English | [Talisadi Churna](/nighantu/formulation/talisadi-churna/) |
-
-## Key Ingredients
-
-- [Talisa](/nighantu/herb/talisa/) (Abies webbiana) - Talispatra / Silver fir
-- Maricha (Piper nigrum) - [Black pepper](/nighantu/herb/black-pepper/)
-- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale) - [Ginger](/nighantu/herb/ginger/)
-- [Pippali](/nighantu/herb/pippali/) (Piper longum) - Long pepper
-- Vanshalochana (Bambusa bambos) - Bamboo manna
-- Ela (Elettaria cardamomum) - Cardamom
-- Tvak (Cinnamomum zeylanicum) - Cinnamon
-- Sharkara (Sugar)
 
 ## Where is it described in the classical texts?
 

@@ -16,7 +16,7 @@ aliases: ["Maha Narayana Thailam", "MahaNarayanaThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 525
+words: 469
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Maha-Narayana-Thailam/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,20 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Maha-Naraya
 | Language | Name |
 |----------|------|
 | English | Maha [Narayana Thailam](/nighantu/formulation/narayana-thailam/)|Maha Narayana Thailam |
-
-## Key Ingredients
-
-- [Ashwagandha](/nighantu/herb/ashwagandha/) (Withania somnifera)
-- [Bala](/nighantu/herb/bala/) (Sida cordifolia)
-- [Shatavari](/nighantu/herb/shatavari/) (Asparagus racemosus)
-- [Dashamoola](/nighantu/herb/dashamoola/) (group of 10 roots)
-- [Rasna](/nighantu/herb/rasna/) (Pluchea lanceolata)
-- [Guduchi](/nighantu/herb/guduchi/) (Tinospora cordifolia)
-- [Sariva](/nighantu/herb/sariva/) (Hemidesmus indicus)
-- [Devadaru](/nighantu/herb/devadaru/) (Cedrus deodara)
-- Ashtavarga (8 Himalayan herbs - unique to Maha version)
-- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) ([Tila](/nighantu/herb/tila/) taila) base
-- Cow's milk ([Ksheera](/nighantu/herb/ksheera/))
 
 ## Where is it described in the classical texts?
 

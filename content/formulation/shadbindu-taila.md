@@ -16,7 +16,7 @@ aliases: ["Shadbindu Taila", "ShadbinduTaila"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 624
+words: 552
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Shadbindu-Taila/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,21 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Shadbindu-T
 | Language | Name |
 |----------|------|
 | English | [Shadbindu Taila](/nighantu/formulation/shadbindu-taila/) |
-
-## Key Ingredients
-
-- [Bhringraj](/nighantu/herb/bhringraj/) (Eclipta alba) - primary herb and juice medium
-- [Eranda](/nighantu/herb/eranda/) (Ricinus communis / Castor)
-- [Tagara](/nighantu/herb/tagara/) (Valeriana wallichii / Indian Valerian)
-- Shatahva (Anethum sowa / Dill)
-- [Jivanti](/nighantu/herb/jivanti/) (Leptadenia reticulata)
-- [Rasna](/nighantu/herb/rasna/) (Pluchea lanceolata)
-- [Vidanga](/nighantu/herb/vidanga/) (Embelia ribes)
-- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (Glycyrrhiza glabra / Licorice)
-- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale / [Ginger](/nighantu/herb/ginger/))
-- [Saindhava Lavana](/nighantu/herb/saindhava-lavana/) (Rock Salt)
-- Goat's milk (Aja [Ksheera](/nighantu/herb/ksheera/))
-- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) ([Tila](/nighantu/herb/tila/) taila) base
 
 ## Where is it described in the classical texts?
 

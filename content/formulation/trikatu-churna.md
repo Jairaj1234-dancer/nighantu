@@ -16,7 +16,7 @@ aliases: ["Trikatu Churna", "TrikatuChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 471
+words: 444
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Trikatu-Churna/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,12 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Trikatu-Churna/me
 | Language | Name |
 |----------|------|
 | English | [Trikatu](/nighantu/herb/trikatu/) Churna |
-
-## Key Ingredients
-
-- Maricha (Piper nigrum - [Black Pepper](/nighantu/herb/black-pepper/)) dried fruits
-- [Pippali](/nighantu/herb/pippali/) (Piper longum - Long Pepper) dried fruits
-- Shunthi/Sunthi ([Zingiber](/nighantu/herb/zingiber/) officinale - Dried [Ginger](/nighantu/herb/ginger/)) rhizome
 
 ## Where is it described in the classical texts?
 
