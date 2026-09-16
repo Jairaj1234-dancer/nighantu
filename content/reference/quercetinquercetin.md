@@ -1,25 +1,23 @@
----title: Quercetin
-slug: quercetinquercetin
-kind: hub
-section: _Hub
-category: Compounds
-subcategory: QuercetinQuercetin.md
-group: ''
-answer: Quercetin is a ubiquitous flavonol possessing potent antioxidant, mast-cell stabilizing, and anti-inflammatory activities. It downregulates the expression of inflammatory enzymes (COX-2, iNOS), chelates transition metals, and stabilizes vascular capillary wall integrity. In classical Ayurvedic botanicals, quercetin is a primary active flavonoid found in Ashoka, Triphala, and numerous cardioprotective tree barks.
-botanical: ''
-family: ''
-sanskrit: ''
-ayurvedicCategory: ''
-whoStatus: ''
+---
+title: "Quercetin"
+slug: "quercetinquercetin"
+kind: "hub"
+section: "_Hub"
+category: "Compounds"
+subcategory: "QuercetinQuercetin.md"
+group: ""
+answer: "Quercetin is a reference entry in the Nighantu. Found in 121 entries across the catalogue Agastya — Sesbania grandiflora (L.) Pers. Arka Pushpa Ashoka Ashwattha — Ficus religiosa L. Asthishrinkhala — Cissus quadrangularis L."
+botanical: ""
+family: ""
+sanskrit: ""
+ayurvedicCategory: ""
+whoStatus: ""
 aliases: []
-tags:
-- hub
-- compound
-- quercetinquercetin
+tags: ["hub", "compound", "quercetinquercetin"]
 sources: []
 productHints: []
 words: 451
-srcRel: _Hub/Compounds/QuercetinQuercetin.md
+srcRel: "_Hub/Compounds/QuercetinQuercetin.md"
 ---
 *Found in 121 entries across the catalogue*
 

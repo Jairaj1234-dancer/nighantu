@@ -1,25 +1,23 @@
----title: Rasayana Agents
-slug: rasayana
-kind: hub
-section: _Hub
-category: Pharmacology
-subcategory: Rasayana.md
-group: ''
-answer: Rasayana agents are premier Ayurvedic rejuvenating and geroprotective substances that optimize tissue nutrition (Dhatu Poshana) and cellular longevity. Pharmacologically, they exhibit potent antioxidant, telomere-protective, and immunomodulatory activities that delay senescence and maintain homeostatic vitality. Classical texts define Rasayana as the therapeutic pathway to obtaining supreme bodily tissues (Labhopayo hi shastanam rasadinam), led by Amalaki, Haritaki, Guduchi, and Shilajit.
-botanical: ''
-family: ''
-sanskrit: ''
-ayurvedicCategory: ''
-whoStatus: ''
+---
+title: "Rasayana Agents"
+slug: "rasayana"
+kind: "hub"
+section: "_Hub"
+category: "Pharmacology"
+subcategory: "Rasayana.md"
+group: ""
+answer: "Rasayana Agents is a reference entry in the Nighantu. 123 herbs and compounds with rasayana activity across traditions Abhraka Bhasma Agastya Haritaki Rasayana Aja Dugdha Aja Dugdha Goat Milk Akhuparni — Ipomoea reniformis Choisy (syn."
+botanical: ""
+family: ""
+sanskrit: ""
+ayurvedicCategory: ""
+whoStatus: ""
 aliases: []
-tags:
-- hub
-- pharmacology
-- rasayana
+tags: ["hub", "pharmacology", "rasayana"]
 sources: []
 productHints: []
 words: 245
-srcRel: _Hub/Pharmacology/Rasayana.md
+srcRel: "_Hub/Pharmacology/Rasayana.md"
 ---
 *123 herbs and compounds with rasayana activity across traditions*
 

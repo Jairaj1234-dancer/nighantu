@@ -2,25 +2,30 @@
 /**
  * scripts/build-knowledge-graph.mjs
  *
- * Synthesizes a unified, standards-compliant Linked Data RDF/JSON-LD Knowledge Graph
- * connecting Age Ayurveda commercial SKUs -> Botanical Taxa (GBIF/Wikidata) ->
- * Phytochemical Compounds (PubChem) -> Dravyaguna Energetics.
+ * Builds a JSON-LD linked-data graph of what this site publishes: botanical taxa
+ * (GBIF/Wikidata), phytochemical compounds (PubChem) and Dravyaguna properties.
+ * Every node is generated from src/data, so the graph cannot state anything the pages
+ * do not. Storefront SKUs are deliberately absent; see section 5.
  *
  * Output: public/knowledge-graph.jsonld
  */
 
 import fs from 'node:fs';
 import path from 'node:path';
+import { SITE, BASE } from './config.mjs';
 
 const ROOT = process.cwd();
 const taxonomyData = JSON.parse(fs.readFileSync(path.join(ROOT, 'src/data/taxonomy.json'), 'utf8'));
 const chemistryData = JSON.parse(fs.readFileSync(path.join(ROOT, 'src/data/chemistry.json'), 'utf8'));
 const compoundsData = JSON.parse(fs.readFileSync(path.join(ROOT, 'src/data/compounds.json'), 'utf8'));
-const productsData = JSON.parse(fs.readFileSync(path.join(ROOT, 'src/data/products.json'), 'utf8'));
 const dravyagunaData = JSON.parse(fs.readFileSync(path.join(ROOT, 'src/data/dravyaguna.json'), 'utf8'));
 const manifest = JSON.parse(fs.readFileSync(path.join(ROOT, 'src/data/manifest.json'), 'utf8'));
 
-const SITE_URL = 'https://nighantu.ageayurveda.com';
+// The graph must address the site where it is actually served. A hardcoded
+// nighantu.ageayurveda.com published node ids on a domain that does not resolve yet,
+// so every @id in the graph pointed at nothing. This follows the same ATLAS_SITE and
+// ATLAS_BASE the rest of the build uses, and moves with scripts/use-subdomain.sh.
+const SITE_URL = `${SITE}${BASE}`;
 const STORE_URL = 'https://ageayurveda.com';
 
 const graph = [];
@@ -33,10 +38,12 @@ graph.push({
   'url': STORE_URL,
   'logo': `${STORE_URL}/cdn/shop/files/age-logo.png`,
   'description': 'Pioneering classical and evidence-based Ayurvedic formulations, sustainable botanical sourcing, and the open-access Nighantu knowledge graph.',
+  // sameAs carried a Wikidata QID that belongs to Stemonurus cambodianus, a tree, not
+  // to this publisher. A wrong sameAs is worse than none: it merges two entities in
+  // every consumer that reads the graph. Only profiles confirmed to resolve are listed,
+  // and a Wikidata item goes back here when one actually exists for Age Ayurveda.
   'sameAs': [
-    'https://www.wikidata.org/wiki/Q111973347',
-    'https://www.instagram.com/ageayurveda',
-    'https://twitter.com/ageayurveda'
+    'https://www.instagram.com/ageayurveda'
   ],
   'knowsAbout': [
     'Ayurvedic Medicine',
@@ -142,36 +149,16 @@ for (const taxon of taxonomyData.taxa || []) {
   }
 }
 
-// 5. Commercial Products (Age Ayurveda Storefront)
-for (const [slug, prod] of Object.entries(productsData.products || {})) {
-  const mappedSlugs = productsData.map?.[slug] || [];
-  const relatedPlants = [];
-
-  for (const mapSlug of mappedSlugs) {
-    const plantId = plantIdByHerbSlug.get(mapSlug);
-    if (plantId) {
-      relatedPlants.push({ '@id': plantId });
-    }
-  }
-
-  const productNode = {
-    '@type': ['Product', 'DietarySupplement'],
-    '@id': `${STORE_URL}/products/${slug}#product`,
-    'name': prod.title,
-    'description': prod.line,
-    'url': `${STORE_URL}/products/${slug}`,
-    'image': prod.image,
-    'brand': {
-      '@id': `${STORE_URL}/#organization`
-    },
-    'manufacturer': {
-      '@id': `${STORE_URL}/#organization`
-    },
-    'category': 'Ayurvedic Botanical Supplement',
-    'isRelatedTo': relatedPlants.length > 0 ? relatedPlants : undefined
-  };
-  graph.push(productNode);
-}
+// 5. No commercial nodes.
+//
+// An earlier version emitted a Product/DietarySupplement node per SKU, linked to the
+// botanical entities. That inverts what this site is for. The reference surface is
+// deliberately separate from the storefront: answer engines cite reference material and
+// discount marketing, and each page already carries exactly one soft product module.
+// A dataset that ships the catalogue inside the pharmacology graph turns the whole
+// corpus into a commercial surface, and a DietarySupplement node adjacent to a
+// pharmacology claim is also the shape regulators read as a health claim.
+// Products belong on ageayurveda.com, which has its own markup.
 
 const finalDoc = {
   '@context': 'https://schema.org',

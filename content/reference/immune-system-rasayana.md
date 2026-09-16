@@ -1,25 +1,23 @@
----title: Immune System & Rasayana
-slug: immune-system-rasayana
-kind: hub
-section: _Hub
-category: Body-Systems
-subcategory: Immune-System--Rasayana.md
-group: ''
-answer: Immune-system Rasayana botanicals bridge classical immunorestorative therapy with modern cellular immunology. They stimulate bone marrow hematopoietic proliferation, increase circulating lymphocyte counts, and normalize secretory IgA levels. Traditionally understood as building Ojas—the vital essence of all seven physiological Dhatus—these botanicals, including Giloy, Tulsi, Amla, and Haridra, provide seasonal resilience and upper respiratory mucosal protection.
-botanical: ''
-family: ''
-sanskrit: ''
-ayurvedicCategory: ''
-whoStatus: ''
+---
+title: "Immune System & Rasayana"
+slug: "immune-system-rasayana"
+kind: "hub"
+section: "_Hub"
+category: "Body-Systems"
+subcategory: "Immune-System--Rasayana.md"
+group: ""
+answer: "Immune System & Rasayana is a reference entry in the Nighantu. Cross-tradition therapeutic reference — 326 related entries Abhraka Bhasma — (Antioxidant, Rasayana, Anti-inflammatory) Agnijara Akarakarabha — Anacyclus pyrethrum (L.) Lag. — (Anticancer, Aphrodisiac, Wound Healing) Akshotaka — Juglans regia L."
+botanical: ""
+family: ""
+sanskrit: ""
+ayurvedicCategory: ""
+whoStatus: ""
 aliases: []
-tags:
-- hub
-- body-system
-- immune-system--rasayana
+tags: ["hub", "body-system", "immune-system--rasayana"]
 sources: []
 productHints: []
 words: 529
-srcRel: _Hub/Body-Systems/Immune-System--Rasayana.md
+srcRel: "_Hub/Body-Systems/Immune-System--Rasayana.md"
 ---
 *Cross-tradition therapeutic reference — 326 related entries*
 

@@ -1,25 +1,23 @@
----title: Kidney & Urinary
-slug: kidney-urinary
-kind: hub
-section: _Hub
-category: Body-Systems
-subcategory: Kidney--Urinary.md
-group: ''
-answer: Renal and urinary botanicals promote gentle, non-irritating diuresis (Mutrala action), flush urinary crystalloids, and protect glomeruli from inflammatory sclerosis. They inhibit calcium oxalate crystallization, preventing urolithiasis (Ashmari). Classical renal Rasayanas include Punarnava (Boerhavia diffusa), Gokshura (Tribulus terrestris), Pashanabheda, and Varuna, balancing Apana Vata and clearing excess Kleda from the Mutravaha Srotas.
-botanical: ''
-family: ''
-sanskrit: ''
-ayurvedicCategory: ''
-whoStatus: ''
+---
+title: "Kidney & Urinary"
+slug: "kidney-urinary"
+kind: "hub"
+section: "_Hub"
+category: "Body-Systems"
+subcategory: "Kidney--Urinary.md"
+group: ""
+answer: "Kidney & Urinary is a reference entry in the Nighantu. Cross-tradition therapeutic reference — 329 related entries Adhaki — Cajanus cajan (L.) Millsp. — (Antioxidant, Anticancer, Antidiabetic) Akhuparni — Ipomoea reniformis Choisy (syn."
+botanical: ""
+family: ""
+sanskrit: ""
+ayurvedicCategory: ""
+whoStatus: ""
 aliases: []
-tags:
-- hub
-- body-system
-- kidney--urinary
+tags: ["hub", "body-system", "kidney--urinary"]
 sources: []
 productHints: []
 words: 489
-srcRel: _Hub/Body-Systems/Kidney--Urinary.md
+srcRel: "_Hub/Body-Systems/Kidney--Urinary.md"
 ---
 *Cross-tradition therapeutic reference — 329 related entries*
 

@@ -1,25 +1,23 @@
----title: Tannins
-slug: tannins
-kind: hub
-section: _Hub
-category: Compounds
-subcategory: Tannins.md
-group: ''
-answer: Tannins are polyphenolic biomolecules known for their astringent (Kashaya) properties, ability to precipitate proteins, and form protective protective coats over irritated mucous membranes. In Ayurveda, tannins are the primary biochemical constituents driving Stambhana (hemostatic and binding) actions, abundantly present in Triphala, Arjuna bark, and Lodhra to soothe gastrointestinal mucosal inflammation.
-botanical: ''
-family: ''
-sanskrit: ''
-ayurvedicCategory: ''
-whoStatus: ''
+---
+title: "Tannins"
+slug: "tannins"
+kind: "hub"
+section: "_Hub"
+category: "Compounds"
+subcategory: "Tannins.md"
+group: ""
+answer: "Tannins is a reference entry in the Nighantu. Found in 67 entries across the catalogue Agnikarna — Gloriosa superba L. (Agnikumarika/Agnimukhi); also associated with Litsea species in some texts Agnikumarika Amla — Phyllanthus emblica (syn."
+botanical: ""
+family: ""
+sanskrit: ""
+ayurvedicCategory: ""
+whoStatus: ""
 aliases: []
-tags:
-- hub
-- compound
-- tannins
+tags: ["hub", "compound", "tannins"]
 sources: []
 productHints: []
 words: 337
-srcRel: _Hub/Compounds/Tannins.md
+srcRel: "_Hub/Compounds/Tannins.md"
 ---
 *Found in 67 entries across the catalogue*
 

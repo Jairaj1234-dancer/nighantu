@@ -1,9 +1,10 @@
 ---
+import fs from 'node:fs';
 import Page from '../layouts/Page.astro';
 import { abs, rel } from '../lib/site';
 
-const title = 'Global Linked Data Knowledge Graph';
-const description = 'Machine-readable RDF/JSON-LD knowledge graph connecting 1,100+ Ayurvedic botanical taxa (GBIF/Wikidata), PubChem chemical structures, Dravyaguna energetics, and Age Ayurveda commercial formulations.';
+const title = 'Linked Data Knowledge Graph';
+const description = 'A machine-readable JSON-LD graph of the botanical taxa (GBIF, Wikidata), PubChem constituents and Dravyaguna properties published on this site.';
 const canonical = '/graph/';
 
 const schema = {
@@ -31,13 +32,22 @@ const schema = {
   ]
 };
 
+/**
+ * Counts are read from the graph file itself, never typed in. Hardcoded figures on this
+ * page were wrong within a day of being written, and a reference site that publishes a
+ * number it did not compute is making the same mistake it exists to avoid.
+ */
+const graphDoc = JSON.parse(fs.readFileSync(new URL('../../public/knowledge-graph.jsonld', import.meta.url), 'utf8'));
+const nodes = graphDoc['@graph'] ?? [];
+const typed = (t: string) => nodes.filter((n: any) => (Array.isArray(n['@type']) ? n['@type'] : [n['@type']]).includes(t)).length;
+const withProps = nodes.filter((n: any) => Array.isArray(n.additionalProperty) && n.additionalProperty.length).length;
+const fmt = (n: number) => n.toLocaleString('en-GB');
+
 const entityStats = [
-  { type: 'ChemicalSubstance (PubChem)', count: '839 entities', desc: 'Active constituents mapped with PubChem CIDs, InChIKeys, SMILES, and IUPAC chemical names' },
-  { type: 'Plant & MedicalEntity (GBIF/Wikidata)', count: '241 entities', desc: 'Medicinal plant species mapped to GBIF backbone taxonomy keys and Wikidata entity QIDs' },
-  { type: 'Dravyaguna Energetics (API)', count: '245 profiles', desc: 'Pharmacological taste (Rasa), potency (Virya), post-digestive effect (Vipaka), and action (Prabhava)' },
-  { type: 'Classical Formulations (AFI)', count: '54 formulations', desc: 'Polyherbal confections, decoctions, and oils codified in the Ayurvedic Formulary of India' },
-  { type: 'Commercial Products (Age Ayurveda)', count: '21 SKUs', desc: 'Standardized formulations with verified structure-function claims and botanical cross-references' },
-  { type: 'Total Linked Nodes', count: '1,162 nodes', desc: 'Unified W3C Linked Data JSON-LD graph available for direct AI crawler ingest' }
+  { type: 'ChemicalSubstance (PubChem)', count: `${fmt(typed('ChemicalSubstance'))} entities`, desc: 'Constituents resolved to PubChem CIDs, with InChIKey, SMILES and molecular formula where PubChem returned them' },
+  { type: 'Plant (GBIF/Wikidata)', count: `${fmt(typed('Plant'))} entities`, desc: 'Herb pages whose botanical name resolved to an exact GBIF backbone match, with Wikidata QIDs where they exist' },
+  { type: 'Dravyaguna properties', count: `${fmt(withProps)} plants carry them`, desc: 'Rasa, virya, vipaka and prabhava as PropertyValue annotations, parsed from the monographs on this site' },
+  { type: 'Total nodes', count: `${fmt(nodes.length)} nodes`, desc: 'Generated from the published data on every build, so the graph cannot state anything the pages do not' }
 ];
 ---
 <Page title={title} description={description} canonical={canonical}>
@@ -122,8 +132,9 @@ const entityStats = [
           canonical SMILES string, molecular weight, and PubChem Compound ID (CID) for automated cross-referencing.
         </li>
         <li>
-          <strong>Ayurvedic Energetics (Dravyaguna):</strong> Formal <code>PropertyValue</code> annotations for Rasa, Virya,
-          Vipaka, and Prabhava cited directly from the <i>Ayurvedic Pharmacopoeia of India</i>.
+          <strong>Ayurvedic properties (Dravyaguna):</strong> <code>PropertyValue</code> annotations for rasa, virya,
+          vipaka and prabhava, parsed from the monographs on this site rather than imported, so each value can be
+          checked against the page it came from.
         </li>
       </ul>
     </section>
@@ -136,7 +147,7 @@ const entityStats = [
       <ol>
         <li>Disambiguation between Ayurvedic Sanskrit plant names, common English vernacular, and accepted Latin binomials.</li>
         <li>Exact molecular constituents and pharmacokinetic mechanisms of classical polyherbal formulations.</li>
-        <li>Regulatory and structure-function compliance parameters for commercial dietary supplements.</li>
+        <li>Which published monograph, and which external identifier, a given statement can be traced to.</li>
       </ol>
       <p>
         For plain-text ingestion, see the LLM index at <a href={rel('/llms.txt')}><code>/llms.txt</code></a> or the full text corpus at <a href={rel('/llms-full.txt')}><code>/llms-full.txt</code></a>.

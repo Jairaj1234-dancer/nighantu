@@ -1,25 +1,23 @@
----title: Cardioprotective Agents
-slug: cardioprotective
-kind: hub
-section: _Hub
-category: Pharmacology
-subcategory: Cardioprotective.md
-group: ''
-answer: Cardioprotective agents preserve myocardial integrity, improve coronary microcirculation, and optimize lipid fractions (lowering LDL and triglycerides while elevating HDL). They enhance vascular endothelial nitric oxide production and scavenge cardiac free radicals. In classical Ayurveda, they are known as Hridya dravyas—substances inherently beneficial to the heart and Prana—championed by Arjuna (Terminalia arjuna) bark, Pushkarmoola, and Guggulu.
-botanical: ''
-family: ''
-sanskrit: ''
-ayurvedicCategory: ''
-whoStatus: ''
+---
+title: "Cardioprotective Agents"
+slug: "cardioprotective"
+kind: "hub"
+section: "_Hub"
+category: "Pharmacology"
+subcategory: "Cardioprotective.md"
+group: ""
+answer: "Cardioprotective Agents is a reference entry in the Nighantu. 82 herbs and compounds with cardioprotective activity across traditions Aja Dugdha Goat Milk Alabu — Lagenaria siceraria (Molina) Standl. Amalaki Rasayana Arjuna Twak Arjunarishta Asana — Pterocarpus marsupium Roxb."
+botanical: ""
+family: ""
+sanskrit: ""
+ayurvedicCategory: ""
+whoStatus: ""
 aliases: []
-tags:
-- hub
-- pharmacology
-- cardioprotective
+tags: ["hub", "pharmacology", "cardioprotective"]
 sources: []
 productHints: []
 words: 295
-srcRel: _Hub/Pharmacology/Cardioprotective.md
+srcRel: "_Hub/Pharmacology/Cardioprotective.md"
 ---
 *82 herbs and compounds with cardioprotective activity across traditions*
 

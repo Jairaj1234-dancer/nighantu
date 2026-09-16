@@ -1,25 +1,23 @@
----title: Ursolic acid
-slug: ursolic-acid
-kind: hub
-section: _Hub
-category: Compounds
-subcategory: Ursolic-acid.md
-group: ''
-answer: Ursolic acid is a pentacyclic triterpenoid compound with pronounced anti-inflammatory, hepatoprotective, and muscle-preserving actions. It activates cellular AMPK pathways, stimulates mitochondrial biogenesis, and protects skeletal muscle from disuse atrophy. Concentrated in Holy Basil (Tulsi), Bilwa patra, and Rosemary, ursolic acid drives modern scientific interest as a metabolic and longevity-enhancing agent.
-botanical: ''
-family: ''
-sanskrit: ''
-ayurvedicCategory: ''
-whoStatus: ''
+---
+title: "Ursolic acid"
+slug: "ursolic-acid"
+kind: "hub"
+section: "_Hub"
+category: "Compounds"
+subcategory: "Ursolic-acid.md"
+group: ""
+answer: "Ursolic acid is a reference entry in the Nighantu. Found in 62 entries across the catalogue Badara Bakula — Mimusops elengi L. Bharangi — Clerodendrum serratum (L.) Moon Chirayata Dashamoola — Compound: 10 roots (5 large trees + 5 small plants) Dashamularishta Dashmool Dashmoolarishta Dhamasa — Fagonia cretica L."
+botanical: ""
+family: ""
+sanskrit: ""
+ayurvedicCategory: ""
+whoStatus: ""
 aliases: []
-tags:
-- hub
-- compound
-- ursolic-acid
+tags: ["hub", "compound", "ursolic-acid"]
 sources: []
 productHints: []
 words: 251
-srcRel: _Hub/Compounds/Ursolic-acid.md
+srcRel: "_Hub/Compounds/Ursolic-acid.md"
 ---
 *Found in 62 entries across the catalogue*
 

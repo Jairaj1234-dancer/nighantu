@@ -1,25 +1,23 @@
----title: Kidney & Urinary — Across Traditions
-slug: kidney-urinary-across-traditions
-kind: hub
-section: _Hub
-category: Cross-Tradition
-subcategory: Kidney--Urinary-Across-Traditions.md
-group: ''
-answer: Cross-traditional renal ethnobotany compares Ayurvedic Mutravaha therapies with global herbal traditions. While Ayurveda emphasizes rejuvenating the kidney parenchyma with sweet, cooling adaptogens like Gokshura and Punarnava, Western herbalism focuses on acute aquatic aquaretics (Uva-ursi, Horsetail), converging on mutual antimicrobial, anti-lithic, and nephroprotective mechanisms that safeguard glomerular filtration.
-botanical: ''
-family: ''
-sanskrit: ''
-ayurvedicCategory: ''
-whoStatus: ''
+---
+title: "Kidney & Urinary — Across Traditions"
+slug: "kidney-urinary-across-traditions"
+kind: "hub"
+section: "_Hub"
+category: "Cross-Tradition"
+subcategory: "Kidney--Urinary-Across-Traditions.md"
+group: ""
+answer: "Kidney & Urinary — Across Traditions is a reference entry in the Nighantu. Comparing approaches to kidney & urinary across 5 healing traditions Ayurveda: 71 entries TCM: 101 entries Global: 89 entries Nutraceutical: 12 entries"
+botanical: ""
+family: ""
+sanskrit: ""
+ayurvedicCategory: ""
+whoStatus: ""
 aliases: []
-tags:
-- hub
-- cross-tradition
-- kidney--urinary
+tags: ["hub", "cross-tradition", "kidney--urinary"]
 sources: []
 productHints: []
 words: 204
-srcRel: _Hub/Cross-Tradition/Kidney--Urinary-Across-Traditions.md
+srcRel: "_Hub/Cross-Tradition/Kidney--Urinary-Across-Traditions.md"
 ---
 *Comparing approaches to kidney & urinary across 5 healing traditions*
 

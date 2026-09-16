@@ -1,25 +1,23 @@
----title: Diabetes & Metabolism
-slug: diabetes-metabolism
-kind: hub
-section: _Hub
-category: Body-Systems
-subcategory: Diabetes--Metabolism.md
-group: ''
-answer: Metabolic and diabetic botanical references address the comprehensive management of blood glucose, insulin resistance, and lipid dysregulation. They stimulate cellular AMPK activation, reduce hepatic gluconeogenesis, and prevent advanced glycation end-product (AGE) microvascular damage. Formulations unite bitter and astringent herbs (Tikta-Kashaya dravyas) to kindle digestive fire (Agni) while purifying the circulatory tissue channels (Raktavaha Srotas).
-botanical: ''
-family: ''
-sanskrit: ''
-ayurvedicCategory: ''
-whoStatus: ''
+---
+title: "Diabetes & Metabolism"
+slug: "diabetes-metabolism"
+kind: "hub"
+section: "_Hub"
+category: "Body-Systems"
+subcategory: "Diabetes--Metabolism.md"
+group: ""
+answer: "Diabetes & Metabolism is a reference entry in the Nighantu. Cross-tradition therapeutic reference — 374 related entries Adhaki — Cajanus cajan (L.) Millsp. — (Antioxidant, Anticancer, Antidiabetic) Agastya — Sesbania grandiflora (L.) Pers."
+botanical: ""
+family: ""
+sanskrit: ""
+ayurvedicCategory: ""
+whoStatus: ""
 aliases: []
-tags:
-- hub
-- body-system
-- diabetes--metabolism
+tags: ["hub", "body-system", "diabetes--metabolism"]
 sources: []
 productHints: []
 words: 595
-srcRel: _Hub/Body-Systems/Diabetes--Metabolism.md
+srcRel: "_Hub/Body-Systems/Diabetes--Metabolism.md"
 ---
 *Cross-tradition therapeutic reference — 374 related entries*
 

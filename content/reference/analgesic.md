@@ -1,25 +1,23 @@
----title: Analgesic Agents
-slug: analgesic
-kind: hub
-section: _Hub
-category: Pharmacology
-subcategory: Analgesic.md
-group: ''
-answer: Analgesic botanicals inhibit nociceptive pain signal transmission across peripheral and central sensory pathways, damping inflammatory hyperalgesia. Classically known as Vedanasthapana dravyas, premier remedies combine cooling anti-inflammatory extracts (Shallaki, Guggulu) with warming topical rubefacients (Eucalyptus, Camphor, Nirgundi) to ease muscular and joint discomfort by restoring unobstructed Vata flow through physical tissue channels.
-botanical: ''
-family: ''
-sanskrit: ''
-ayurvedicCategory: ''
-whoStatus: ''
+---
+title: "Analgesic Agents"
+slug: "analgesic"
+kind: "hub"
+section: "_Hub"
+category: "Pharmacology"
+subcategory: "Analgesic.md"
+group: ""
+answer: "Analgesic Agents is a reference entry in the Nighantu. 224 herbs and compounds with analgesic activity across traditions Agnikarna — Gloriosa superba L. (Agnikumarika/Agnimukhi); also associated with Litsea species in some texts Agnimantha — Premna integrifolia (syn."
+botanical: ""
+family: ""
+sanskrit: ""
+ayurvedicCategory: ""
+whoStatus: ""
 aliases: []
-tags:
-- hub
-- pharmacology
-- analgesic
+tags: ["hub", "pharmacology", "analgesic"]
 sources: []
 productHints: []
 words: 331
-srcRel: _Hub/Pharmacology/Analgesic.md
+srcRel: "_Hub/Pharmacology/Analgesic.md"
 ---
 *224 herbs and compounds with analgesic activity across traditions*
 

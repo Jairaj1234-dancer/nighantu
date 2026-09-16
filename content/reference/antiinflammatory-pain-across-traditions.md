@@ -1,25 +1,23 @@
----title: Anti inflammatory & Pain — Across Traditions
-slug: antiinflammatory-pain-across-traditions
-kind: hub
-section: _Hub
-category: Cross-Tradition
-subcategory: Antiinflammatory--Pain-Across-Traditions.md
-group: ''
-answer: Cross-traditional comparative analysis of anti-inflammatory and pain therapies integrates Ayurvedic Dravyaguna, Traditional Chinese Medicine (TCM), and global ethnobotany. While Ayurveda emphasizes metabolic toxin removal (Ama Pachana) and Vata pacification using resinous guggulus and aromatic roots, TCM clears heat and dispels dampness, converging pharmacologically on common diterpene, sesquiterpene, and polyphenol-driven COX-2 inhibition pathways.
-botanical: ''
-family: ''
-sanskrit: ''
-ayurvedicCategory: ''
-whoStatus: ''
+---
+title: "Anti inflammatory & Pain — Across Traditions"
+slug: "antiinflammatory-pain-across-traditions"
+kind: "hub"
+section: "_Hub"
+category: "Cross-Tradition"
+subcategory: "Antiinflammatory--Pain-Across-Traditions.md"
+group: ""
+answer: "Anti inflammatory & Pain — Across Traditions is a reference entry in the Nighantu. Comparing approaches to anti-inflammatory & pain across 5 healing traditions Ayurveda: 351 entries TCM: 210 entries Global: 385 entries Nutraceutical: 25 entries"
+botanical: ""
+family: ""
+sanskrit: ""
+ayurvedicCategory: ""
+whoStatus: ""
 aliases: []
-tags:
-- hub
-- cross-tradition
-- antiinflammatory--pain
+tags: ["hub", "cross-tradition", "antiinflammatory--pain"]
 sources: []
 productHints: []
 words: 200
-srcRel: _Hub/Cross-Tradition/Antiinflammatory--Pain-Across-Traditions.md
+srcRel: "_Hub/Cross-Tradition/Antiinflammatory--Pain-Across-Traditions.md"
 ---
 *Comparing approaches to anti-inflammatory & pain across 5 healing traditions*
 

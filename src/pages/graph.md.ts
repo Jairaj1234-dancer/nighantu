@@ -1,31 +1,47 @@
+/**
+ * Markdown twin of /graph/.
+ *
+ * Every figure is counted from the graph file at build time. The first version of this
+ * page typed its counts in, and they were wrong by the next build: it claimed 1,162
+ * nodes, 54 AFI formulations that are not in the graph at all, and 21 storefront SKUs
+ * that no longer belong in it.
+ */
 import type { APIRoute } from 'astro';
+import fs from 'node:fs';
 import { abs } from '../lib/site';
 
 export const GET: APIRoute = async () => {
+  const doc = JSON.parse(fs.readFileSync(new URL('../../public/knowledge-graph.jsonld', import.meta.url), 'utf8'));
+  const nodes = doc['@graph'] ?? [];
+  const typed = (t: string) => nodes.filter((n: any) => (Array.isArray(n['@type']) ? n['@type'] : [n['@type']]).includes(t)).length;
+  const withProps = nodes.filter((n: any) => Array.isArray(n.additionalProperty) && n.additionalProperty.length).length;
+  const fmt = (n: number) => n.toLocaleString('en-GB');
+
   const body = [
-    '# Global Linked Data Knowledge Graph',
+    '# Linked Data Knowledge Graph',
     '',
-    '> Machine-readable RDF/JSON-LD knowledge graph connecting 1,100+ Ayurvedic botanical taxa (GBIF/Wikidata), PubChem chemical structures, Dravyaguna energetics, and Age Ayurveda commercial formulations.',
+    '> A machine-readable JSON-LD graph of the botanical taxa, PubChem constituents and',
+    '> Dravyaguna properties published on this site. Generated from the published data on',
+    '> every build, so it cannot state anything the pages do not.',
     '',
-    '## Direct AI & Machine Ingest Endpoint',
-    `Download the complete Linked Data graph: ${abs('/knowledge-graph.jsonld')}`,
-    '- Format: JSON-LD 1.1 / Schema.org Linked Data',
-    '- Node count: 1,162 connected entities',
-    '- License: Creative Commons Attribution 4.0 (CC BY 4.0)',
+    '## Machine ingest endpoint',
+    `Download the graph: ${abs('/knowledge-graph.jsonld')}`,
+    '- Format: JSON-LD, Schema.org vocabulary',
+    `- Nodes: ${fmt(nodes.length)}`,
+    '- Licence: Creative Commons Attribution 4.0 (CC BY 4.0)',
     '',
-    '## Entity Breakdown',
-    '- ChemicalSubstance (PubChem): 839 entities with PubChem CIDs, InChIKeys, SMILES, and formulas.',
-    '- Plant & MedicalEntity (GBIF/Wikidata): 241 medicinal plant taxa mapped to GBIF keys and Wikidata QIDs.',
-    '- Dravyaguna Energetics: 245 pharmacological profiles with Rasa, Virya, Vipaka, Prabhava.',
-    '- Classical Formulations: 54 formulations codified in the Ayurvedic Formulary of India (AFI).',
-    '- Commercial Products: 21 Age Ayurveda SKUs linked to botanical monograph entities.',
+    '## What is in it',
+    `- ChemicalSubstance: ${fmt(typed('ChemicalSubstance'))} constituents resolved to PubChem, with InChIKey, SMILES and formula where PubChem returned them.`,
+    `- Plant: ${fmt(typed('Plant'))} herb pages whose botanical name is an exact GBIF backbone match, with Wikidata QIDs where they exist.`,
+    `- Dravyaguna properties: ${fmt(withProps)} plants carry rasa, virya, vipaka or prabhava as PropertyValue annotations, parsed from the monographs here.`,
     '',
-    '## Entity Interconnection Architecture',
-    '1. Commercial Products point via isRelatedTo to canonical botanical entities.',
-    '2. Botanical Taxa anchor to GBIF species keys and Wikidata QIDs via sameAs.',
-    '3. Botanical Taxa link to characteristic phytochemical metabolites.',
-    '4. Phytochemicals link to PubChem compound registries via sameAs and PubChem CIDs.',
-    '5. Dravyaguna energetics annotate clinical properties cited from the Ayurvedic Pharmacopoeia of India (API).',
+    '## How the nodes connect',
+    '1. Plant entities anchor to GBIF species keys and Wikidata QIDs through sameAs.',
+    '2. Constituent entities anchor to PubChem compound records through sameAs.',
+    '3. Dravyaguna values annotate the plant they were parsed from, and each one is checkable against that monograph.',
+    '',
+    'Storefront products are deliberately not in the graph. This is a reference surface,',
+    'and the product link on each monograph is the only commercial element.',
     '',
     '---',
     '',
