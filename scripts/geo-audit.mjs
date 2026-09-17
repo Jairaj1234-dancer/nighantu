@@ -116,8 +116,20 @@ const openaiKey = process.env.OPENAI_API_KEY || fromFile('.openai-api');
 const perplexityKey = process.env.PERPLEXITY_API_KEY || fromFile('.perplexity-api');
 const geminiKey = process.env.GEMINI_API_KEY || fromFile('.gemini-api');
 
+/**
+ * GEO_AUDIT_PROVIDER pins the engine. Without it the order below decides, which is the
+ * wrong answer in CI: both keys may be present and the free one should win there.
+ */
+const KEY_FOR = { anthropic: anthropicKey, perplexity: perplexityKey, openai: openaiKey, gemini: geminiKey };
+const pinned = process.env.GEO_AUDIT_PROVIDER;
 let provider = null;
-if (anthropicKey) provider = 'anthropic';
+if (pinned) {
+  if (!KEY_FOR[pinned]) {
+    console.error(`GEO_AUDIT_PROVIDER=${pinned} but no key for it is set.`);
+    process.exit(1);
+  }
+  provider = pinned;
+} else if (anthropicKey) provider = 'anthropic';
 else if (perplexityKey) provider = 'perplexity';
 else if (openaiKey) provider = 'openai';
 else if (geminiKey) provider = 'gemini';

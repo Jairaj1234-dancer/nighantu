@@ -1,11 +1,17 @@
 name: Citation panel
 
-# Monthly: run the 53-prompt panel against an answer engine with web search and
-# record whether Age Ayurveda or the Nighantu was cited. This is the only job that
-# costs money, and it is the only place a model is called anywhere in the automation.
+# Monthly: run the panel against an answer engine with web search and record whether Age
+# Ayurveda or the Nighantu was cited. There is no analytics product that reports "you were
+# cited", so this is the only way to measure the thing this site exists to do.
 #
-# Skips itself cleanly when ANTHROPIC_API_KEY is not set, so the workflow can be
-# committed before the secret exists.
+# Gemini by default, because its free tier covers this: 54 grounded requests a month against
+# an allowance of 5,000, and Google Search grounding is the closest available proxy for
+# Google AI Overviews. ANTHROPIC_API_KEY still works if set and no Gemini key is present.
+#
+# Monthly is the right cadence, not weekly. On a new domain, movement takes 8 to 12 weeks,
+# so a single reading says nothing and the series is the measurement.
+#
+# Skips itself cleanly when no key is set, so the workflow can sit committed without one.
 
 on:
   schedule:
@@ -28,14 +34,18 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
-      - name: Check for the API key
+      - name: Check for an API key
         id: key
         run: |
-          if [ -n "${{ secrets.ANTHROPIC_API_KEY }}" ]; then
+          if [ -n "${{ secrets.GEMINI_API_KEY }}" ]; then
             echo "present=true" >> "$GITHUB_OUTPUT"
+            echo "provider=gemini" >> "$GITHUB_OUTPUT"
+          elif [ -n "${{ secrets.ANTHROPIC_API_KEY }}" ]; then
+            echo "present=true" >> "$GITHUB_OUTPUT"
+            echo "provider=anthropic" >> "$GITHUB_OUTPUT"
           else
             echo "present=false" >> "$GITHUB_OUTPUT"
-            echo "::notice::ANTHROPIC_API_KEY is not set. Skipping the panel."
+            echo "::notice::No GEMINI_API_KEY or ANTHROPIC_API_KEY. Skipping the panel."
           fi
 
       - uses: actions/setup-node@v5
@@ -49,9 +59,17 @@ jobs:
       - name: Run the panel
         if: steps.key.outputs.present == 'true'
         env:
-          # Passed as an env var, never interpolated into a shell string, so it
-          # cannot end up in the run log.
+          # Passed as env vars, never interpolated into a shell string, so they cannot end
+          # up in the run log.
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEO_AUDIT_PROVIDER: ${{ steps.key.outputs.provider }}
+          # The free tier limits requests per minute, and a grounded answer takes several
+          # seconds. Unpaced, the run trips the limit two thirds of the way through and the
+          # rest of the panel records quota errors instead of answers.
+          GEO_AUDIT_PACE_MS: '9000'
+        # 54 prompts at this pace take about ten minutes.
+        timeout-minutes: 40
         run: node scripts/geo-audit.mjs
 
       - name: Report the change and commit
