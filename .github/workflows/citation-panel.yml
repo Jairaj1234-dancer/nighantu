@@ -68,12 +68,16 @@ jobs:
           # seconds. Unpaced, the run trips the limit two thirds of the way through and the
           # rest of the panel records quota errors instead of answers.
           GEO_AUDIT_PACE_MS: '9000'
-        # 54 prompts at this pace take about ten minutes.
-        timeout-minutes: 40
+        # 54 prompts at this pace take about ten minutes. The script now aborts as soon as
+        # a DAILY allowance is refused rather than backing off through it, so a run that
+        # cannot proceed ends in seconds instead of burning the timeout.
+        timeout-minutes: 25
         run: node scripts/geo-audit.mjs
 
+      # Runs even when the panel step failed, because a partial panel still holds real
+      # answers worth keeping, and the script records no row for a prompt it never asked.
       - name: Report the change and commit
-        if: steps.key.outputs.present == 'true'
+        if: always() && steps.key.outputs.present == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |

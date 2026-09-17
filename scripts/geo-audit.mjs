@@ -243,7 +243,21 @@ async function queryModel(question) {
         return { text: `${parts.map((p) => p.text).join(' ')} ${grounding}`, model };
       }
       const msg = json?.error?.message ?? `HTTP ${res.status}`;
-      const rateLimited = res.status === 429 || /quota/i.test(msg);
+      /**
+       * Two different refusals arrive as 429, and only one is worth waiting out.
+       *
+       * A per-minute limit clears in seconds. A spent DAILY allowance does not clear until
+       * the quota resets at midnight Pacific, and backing off through it burned forty
+       * minutes of a CI run before timing out. The daily case names the limit in its
+       * message, so it stops the run immediately instead.
+       */
+      const daily = /per day|PerDay|daily limit|exceeded your current quota/i.test(msg);
+      if (daily) {
+        const e = new Error(`daily quota exhausted: ${msg}`);
+        e.fatal = true;
+        throw e;
+      }
+      const rateLimited = res.status === 429;
       if (!rateLimited || attempt >= 6) throw new Error(msg);
       const wait = RETRY_BASE_MS * 2 ** (attempt - 1);
       process.stdout.write(`rate limited, waiting ${Math.round(wait / 1000)}s... `);
@@ -274,6 +288,14 @@ for (const [i, question] of prompts.entries()) {
     modelName = result.model;
   } catch (e) {
     error = String(e.message ?? e);
+    // A spent daily allowance will refuse every remaining prompt too. Recording 50 more
+    // "not cited" rows for questions that were never asked would read as a genuine zero
+    // when someone looks at this log in three months.
+    if (e.fatal) {
+      console.log('\n\nStopping: the daily allowance is spent. Nothing further was asked, and');
+      console.log('no row is recorded for the unasked prompts. Re-run after the quota resets.');
+      break;
+    }
   }
 
   const hay = text.toLowerCase();
