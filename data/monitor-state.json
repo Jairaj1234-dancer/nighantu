@@ -1,13 +1,13 @@
 {
   "community": {
-    "checkedAt": "2026-09-16T06:45:07.547Z",
+    "checkedAt": "2026-09-17T06:38:44.257Z",
     "feeds": 4,
     "matched": 0,
     "scanned": 25
   },
   "competitors": {
     "ajengineer": {
-      "checkedAt": "2026-09-16T06:44:59.652Z",
+      "checkedAt": "2026-09-17T06:38:38.812Z",
       "hash": "c8f0221ba8baca99",
       "signals": [
         "12 liter",
@@ -18,7 +18,7 @@
       "url": "https://www.ajengineer.co.in/ayurvedic-therapy-machine.html"
     },
     "ananda": {
-      "checkedAt": "2026-09-16T06:45:06.903Z",
+      "checkedAt": "2026-09-17T06:38:43.831Z",
       "hash": "4e12cc6bfe5dcfa5",
       "signals": [
         "$120",
@@ -27,23 +27,19 @@
       "url": "https://www.anandashirodhara.com/product-page/ananda-automatic-shirodhara-equipment"
     },
     "cristalmind": {
-      "checkedAt": "2026-09-16T06:44:59.108Z",
-      "hash": "7b99df66ba52e31d",
-      "signals": [
-        "2-3 minutes",
-        "20 to 60 minutes",
-        "38.5 ° c"
-      ],
+      "checkedAt": "2026-09-17T06:38:38.285Z",
+      "hash": "e3b0c44298fc1c14",
+      "signals": [],
       "url": "https://www.cristalmind.com/"
     },
     "esteem": {
-      "checkedAt": "2026-09-16T06:45:00.682Z",
+      "checkedAt": "2026-09-17T06:38:39.865Z",
       "hash": "e3b0c44298fc1c14",
       "signals": [],
       "url": "https://www.esteemservices.in/fully-automatic-shirodhara-machine.htm"
     },
     "kawachi": {
-      "checkedAt": "2026-09-16T06:45:03.054Z",
+      "checkedAt": "2026-09-17T06:38:41.378Z",
       "hash": "d51abf5a796bd560",
       "signals": [
         "₹8,999"
@@ -52,12 +48,12 @@
     }
   },
   "competitorSummary": {
-    "checkedAt": "2026-09-16T06:45:06.903Z",
+    "checkedAt": "2026-09-17T06:38:43.831Z",
     "items": [
       {
         "id": "cristalmind",
         "name": "Cristalmind",
-        "signals": 3,
+        "signals": 0,
         "status": 200
       },
       {
@@ -110,7 +106,7 @@
   },
   "feeds": {
     "r-ayurveda": {
-      "checkedAt": "2026-09-16T06:45:07.373Z",
+      "checkedAt": "2026-09-17T06:38:44.200Z",
       "seenIds": [
         "t3_1wbhvk6",
         "t3_1waw2la",
@@ -172,18 +168,27 @@
         "t3_1whbqb4",
         "t3_1wgvvdr",
         "t3_1wgv4fl",
-        "t3_1wgsqbf"
+        "t3_1wgsqbf",
+        "t3_1wiiise",
+        "t3_1wigal8",
+        "t3_1wiexk6",
+        "t3_1wi78nh",
+        "t3_1wi2sra",
+        "t3_1whw9fi",
+        "t3_1whv7kg",
+        "t3_1whsmuq",
+        "t3_1whrbw7"
       ]
     }
   },
   "freshness": {
-    "checkedAt": "2026-09-16T06:45:06.905Z",
+    "checkedAt": "2026-09-17T06:38:43.834Z",
     "oldest": [],
     "overdue": 0,
-    "total": 809
+    "total": 812
   },
   "health": {
-    "checkedAt": "2026-09-16T06:44:49.339Z",
+    "checkedAt": "2026-09-17T06:38:30.418Z",
     "failing": 0,
     "failingUrls": [],
     "total": 15
@@ -197,7 +202,7 @@
       "note": "no webmaster tool and no submission route exists",
       "status": "unknown"
     },
-    "checkedAt": "2026-09-16T06:46:30.632Z",
+    "checkedAt": "2026-09-17T06:40:07.532Z",
     "commonCrawl": {
       "checked": [
         "CC-MAIN-2026-34",
@@ -1132,7 +1137,7 @@
   "products": {
     "broken": 0,
     "brokenHandles": [],
-    "checkedAt": "2026-09-16T06:44:56.584Z",
+    "checkedAt": "2026-09-17T06:38:37.654Z",
     "total": 21
   },
   "search": {},
@@ -1158,9 +1163,9 @@
       "lastSeen": "2026-09-13T06:48:43.957Z"
     },
     "competitor:changed:cristalmind:e3b0c44298fc1c14": {
-      "count": 1,
+      "count": 2,
       "firstSeen": "2026-09-12T06:32:34.386Z",
-      "lastSeen": "2026-09-12T06:32:34.386Z"
+      "lastSeen": "2026-09-17T06:40:07.532Z"
     },
     "indexation:wayback:present": {
       "count": 1,
@@ -1199,7 +1204,7 @@
     }
   },
   "threads": {
-    "checkedAt": "2026-09-16T06:46:21.194Z",
+    "checkedAt": "2026-09-17T06:39:56.900Z",
     "seenIds": [
       "t5_2skvk",
       "t5_jtmsek",
@@ -1314,14 +1319,14 @@
   },
   "threadStats": {
     "blocked": 12,
-    "checkedAt": "2026-09-16T06:46:21.194Z",
-    "fresh": 9,
+    "checkedAt": "2026-09-17T06:39:56.900Z",
+    "fresh": 0,
     "note": "Reddit blocks empty or generic user agents; lib/fetch.mjs sends a descriptive one.",
-    "qualified": 2,
+    "qualified": 0,
     "requests": 13,
-    "seen": 13,
-    "surfaced": 2
+    "seen": 7,
+    "surfaced": 0
   },
-  "updatedAt": "2026-09-17T05:41:11.585Z",
+  "updatedAt": "2026-09-17T06:40:07.533Z",
   "version": 1
 }
