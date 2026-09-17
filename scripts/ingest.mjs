@@ -110,6 +110,16 @@ for (const p of pages) {
  * and gives no quantities. Two contradictory ingredient lists on one page is worse than
  * either alone, and the sourced one wins.
  */
+/**
+ * What each page actually is, where the identity pass settled it. Used so a bhasma's
+ * answer block can say "a calcined mineral preparation" instead of the generic "a
+ * substance used in the Ayurvedic materia medica", which is all that was left on those
+ * pages once dosage came out of the answer.
+ */
+const SUBSTANCE_CLASS = new Map(Object.entries(
+  JSON.parse(fs.readFileSync(path.join('src', 'data', 'identity.json'), 'utf8')).records ?? {},
+).map(([slug, r]) => [slug, r.substanceClass ?? '']));
+
 const AFI_COMPOSED = new Set(Object.keys(
   JSON.parse(fs.readFileSync(path.join('src', 'data', 'composition.json'), 'utf8')).records ?? {},
 ));
@@ -303,7 +313,7 @@ function transform(p) {
 
   const answer = composeAnswer({
     title: p.title, kind: p.kind, facts: p.facts, sections: rendered, lead,
-    group: p.group,
+    group: p.group, substanceClass: SUBSTANCE_CLASS.get(p.slug) ?? '',
   });
 
   const bodyParts = [];

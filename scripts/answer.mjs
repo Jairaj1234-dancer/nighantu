@@ -1,5 +1,8 @@
 import { stripMarkup, wordCount } from './lib.mjs';
 
+// What may never enter an answer block, and why: scripts/lib/answer-safety.mjs.
+import { isDose, isDiseaseClaim } from './lib/answer-safety.mjs';
+
 const sentenceList = (text) => stripMarkup(
   text
     .replace(/^#+.*$/gm, '')
@@ -8,7 +11,8 @@ const sentenceList = (text) => stripMarkup(
 )
   .split(/(?<=[.!?])\s+/)
   .map((x) => x.trim())
-  .filter((x) => x.length > 30 && x.length < 320 && /[a-z]/.test(x));
+  .filter((x) => x.length > 30 && x.length < 320 && /[a-z]/.test(x))
+  .filter((x) => !isDose(x) && !isDiseaseClaim(x));
 
 const sentences = (text, n = 1) => sentenceList(text).slice(0, n).join(' ');
 
@@ -94,11 +98,36 @@ const clampWords = (text, max = 62) => {
  * the passage an answer engine is most likely to lift verbatim, so it is built
  * only from facts already stated on the page, never inferred.
  */
-export function composeAnswer({ title, kind, facts, sections, lead, group }) {
+/**
+ * How a page describes itself when the vault gave it no Ayurvedic category. The identity
+ * pass established these, and they are more informative than "a substance used in the
+ * Ayurvedic materia medica", which is what a bhasma page was left with.
+ */
+const CLASS_PHRASE = {
+  mineral: 'is a bhasma, a mineral or metal preparation reduced to ash by repeated calcination',
+  'rasa-preparation': 'is a rasa preparation, a herbo-mineral formulation of the rasa shastra tradition',
+  salt: 'is a salt or alkali preparation used in Ayurveda',
+  animal: 'is an animal-derived substance used in the Ayurvedic materia medica',
+  'compound-or-isolate': 'is an isolated compound rather than a whole plant drug',
+  'plant-product-mixture': 'is a preparation made from plant material',
+  formulation: 'is a compound formulation of several ingredients',
+};
+
+export function composeAnswer({ title, kind, facts, sections, lead, group, substanceClass }) {
   const bits = [];
   const dg = dravyaguna(sections);
   const text = allText(sections);
-  const dosage = boldField(text, 'Standard Dosage') || boldField(text, 'Dose');
+  /**
+   * Dosage is deliberately NOT composed into the answer block.
+   *
+   * It used to be, and it reached 492 of the herb blocks as "Usual dose: 3-6 g powder
+   * twice daily". The answer block is the passage a reader sees first and the one an
+   * answer engine is most likely to quote whole, and a dose in it, published by a
+   * company that sells the substance, reads as prescribing rather than reference. The
+   * classical dose stays on the page, in the body, where it is framed as what the
+   * literature describes. It is read here only so the composer can avoid repeating it.
+   */
+  const dosage = '';
 
   const dgSentence = () => {
     const parts = [];
@@ -126,9 +155,6 @@ export function composeAnswer({ title, kind, facts, sections, lead, group }) {
     if (opening) bits.push(opening);
     const dgs = dgSentence();
     if (dgs) bits.push(dgs);
-    if (dosage && wordCount(bits.join(' ')) < 45) {
-      bits.push(`The usual dose is ${dosage.replace(/^[A-Z]/, (c) => c.toLowerCase())}.`);
-    }
   } else if (kind === 'hub') {
     bits.push(`${title} is a reference entry in the Nighantu.`);
     const opening = sentences(lead, 2) || sentences(text, 2);
@@ -139,9 +165,11 @@ export function composeAnswer({ title, kind, facts, sections, lead, group }) {
     if (botanical) s += ` (${stripMarkup(botanical)})`;
     const cat = facts['Ayurvedic Category'] || facts['Category'];
     // "plant" is wrong for the mineral, dairy and animal-origin dravyas.
-    s += cat
-      ? ` is classified in Ayurveda as ${stripMarkup(cat)}`
-      : (botanical ? ' is a plant used in Ayurveda' : ' is a substance used in the Ayurvedic materia medica');
+    const classPhrase = CLASS_PHRASE[substanceClass ?? ''];
+    if (cat) s += ` is classified in Ayurveda as ${stripMarkup(cat)}`;
+    else if (botanical) s += ' is a plant used in Ayurveda';
+    else if (classPhrase) s += ` ${classPhrase}`;
+    else s += ' is a substance used in the Ayurvedic materia medica';
     const family = facts['Family'];
     if (family) s += `, from the ${stripMarkup(family)} family`;
     bits.push(s + '.');
@@ -160,9 +188,6 @@ export function composeAnswer({ title, kind, facts, sections, lead, group }) {
     else {
       const dgs = dgSentence();
       if (dgs) bits.push(dgs);
-    }
-    if (dosage && wordCount(bits.join(' ')) < 40) {
-      bits.push(`Usual dose: ${dosage.replace(/^[A-Z]/, (c) => c.toLowerCase())}.`);
     }
   }
 
@@ -184,9 +209,6 @@ export function composeAnswer({ title, kind, facts, sections, lead, group }) {
     const dgs = dgSentence();
     if (dgs && !bits.includes(dgs)) bits.push(dgs);
   }
-  if (wordCount(bits.join(' ')) < 24 && dosage) {
-    bits.push(`Usual dose: ${dosage.replace(/^[A-Z]/, (c) => c.toLowerCase())}.`);
-  }
 
   // Nothing resembling markup may reach the answer block: it is the passage most
   // likely to be quoted verbatim, and it also ships inside the JSON-LD.
@@ -198,6 +220,8 @@ export function composeAnswer({ title, kind, facts, sections, lead, group }) {
   // but the answer is assembled from the raw text, so it needs its own guard, and it
   // needs it more: the answer block is the first thing a reader sees and the passage an
   // AI is most likely to lift whole.
+
+
   const PLACEHOLDER_SENTENCE = [
     /Mineral-derived preparation/i,
     /Composition varies by specific preparation method/i,
@@ -209,6 +233,8 @@ export function composeAnswer({ title, kind, facts, sections, lead, group }) {
   const clean = stripMarkup(bits.join(' '))
     .split(/(?<=[.!?])\s+/)
     .filter((sentence) => !PLACEHOLDER_SENTENCE.some((p) => p.test(sentence)))
+    .filter((sentence) => !isDiseaseClaim(sentence))
+    .filter((sentence) => !isDose(sentence))
     .join(' ');
 
   const composed = clean.replace(/\s+/g, ' ').trim();

@@ -4,6 +4,7 @@
  * Exits non-zero on any violation, so a bad ingest can never be published.
  */
 import fs from 'node:fs';
+import { answerViolations } from './lib/answer-safety.mjs';
 import path from 'node:path';
 import { FORBIDDEN_STRINGS, DENY_PATH_FRAGMENTS } from './config.mjs';
 import { walk, parseFrontmatter } from './lib.mjs';
@@ -85,11 +86,28 @@ for (const f of files) {
 }
 
 // 6. Every page needs an answer block, which is the point of the exercise.
+//
+// It is also the riskiest sentence on the page. It is what a reader sees first and what an
+// answer engine lifts whole, so two things are barred from it that are acceptable in the
+// body, where they carry their framing with them:
+//
+//   - A DOSE. 492 herb blocks read "Usual dose: 3-6 g powder twice daily". A dose stated by
+//     a company that sells the substance is prescribing, not reference.
+//   - A THERAPEUTIC CLAIM ABOUT A DISEASE. One bhasma page's block asserted cytotoxicity
+//     "in breast cancer cell lines", hoisted out of a cited study by the composer's
+//     last-resort branch. True of the study, a cancer claim on the page.
+//
+// The disease test is a conjunction of a disease word and an efficacy word, so naming a
+// pharmacological class ("antidiabetic agents") stays legal; claiming an effect does not.
 for (const f of files) {
   const a = String(f.data.answer ?? '');
   const words = (a.match(/\S+/g) || []).length;
   if (words < 10) fail('answer-block', `${f.rel} answer block is only ${words} words`);
   if (words > 75) fail('answer-block', `${f.rel} answer block is ${words} words (too long)`);
+  for (const v of answerViolations(a)) {
+    if (v.kind === 'dose') fail('answer-dose', `${f.rel} answer block states a dose; it belongs in the body: "${v.sentence.slice(0, 80)}"`);
+    else fail('answer-claim', `${f.rel} answer block claims an effect on a disease: "${v.sentence.slice(0, 80)}"`);
+  }
 }
 
 // 7. Chyawanprash facts are unresolved (herb count 45 vs 50 vs 18; Bhasma in

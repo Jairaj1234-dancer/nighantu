@@ -208,19 +208,35 @@ async function queryModel(question) {
   if (provider === 'gemini') {
     const model = process.env.GEO_AUDIT_MODEL || 'gemini-2.5-flash';
     const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${geminiKey}`;
-    const res = await fetch(url, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        contents: [{ parts: [{ text: question }] }],
-        tools: [{ googleSearch: {} }],
-      }),
-    });
-    const json = await res.json();
-    if (!res.ok) throw new Error(json?.error?.message ?? `HTTP ${res.status}`);
-    const parts = json.candidates?.[0]?.content?.parts ?? [];
-    const grounding = JSON.stringify(json.candidates?.[0]?.groundingMetadata ?? {});
-    return { text: `${parts.map((p) => p.text).join(' ')} ${grounding}`, model };
+    /**
+     * The free tier limits requests per minute, and a grounded answer takes a few seconds,
+     * so firing the panel straight through trips the limit about two thirds of the way in
+     * and the rest of the run records quota errors instead of answers. A run that half
+     * fails is worse than a slow one: the log then shows "not cited" for prompts that were
+     * never actually asked. So back off and retry rather than move on.
+     */
+    for (let attempt = 1; ; attempt += 1) {
+      const res = await fetch(url, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          contents: [{ parts: [{ text: question }] }],
+          tools: [{ googleSearch: {} }],
+        }),
+      });
+      const json = await res.json();
+      if (res.ok) {
+        const parts = json.candidates?.[0]?.content?.parts ?? [];
+        const grounding = JSON.stringify(json.candidates?.[0]?.groundingMetadata ?? {});
+        return { text: `${parts.map((p) => p.text).join(' ')} ${grounding}`, model };
+      }
+      const msg = json?.error?.message ?? `HTTP ${res.status}`;
+      const rateLimited = res.status === 429 || /quota/i.test(msg);
+      if (!rateLimited || attempt >= 6) throw new Error(msg);
+      const wait = RETRY_BASE_MS * 2 ** (attempt - 1);
+      process.stdout.write(`rate limited, waiting ${Math.round(wait / 1000)}s... `);
+      await sleep(wait);
+    }
   }
 
   throw new Error(`Unknown provider ${provider}`);
@@ -228,7 +244,13 @@ async function queryModel(question) {
 
 const rows = [];
 
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+// Pace the free tier: roughly ten requests a minute, which is what it allows.
+const PACE_MS = Number(process.env.GEO_AUDIT_PACE_MS ?? 6500);
+const RETRY_BASE_MS = 20_000;
+
 for (const [i, question] of prompts.entries()) {
+  if (i > 0 && provider === 'gemini') await sleep(PACE_MS);
   process.stdout.write(`[${i + 1}/${prompts.length}] ${question.slice(0, 50)}... `);
   let text = '';
   let modelName = provider;

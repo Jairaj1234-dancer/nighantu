@@ -50,18 +50,6 @@
     },
     {
       "@type": "ChemicalSubstance",
-      "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/quercetin/#entity",
-      "name": "Quercetin",
-      "url": "https://jairaj1234-dancer.github.io/nighantu/reference/quercetin/",
-      "inChIKey": "REFJWTPEDVJJIY-UHFFFAOYSA-N",
-      "molecularFormula": "C15H10O7",
-      "molecularWeight": "302.23 g/mol",
-      "smiles": "C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O",
-      "iupacName": "2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxychromen-4-one",
-      "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/5280343"
-    },
-    {
-      "@type": "ChemicalSubstance",
       "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/sitosterol/#entity",
       "name": "Sitosterol",
       "url": "https://jairaj1234-dancer.github.io/nighantu/reference/sitosterol/",
@@ -71,6 +59,18 @@
       "smiles": "CCC(CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C)C(C)C",
       "iupacName": "(3S,8S,9S,10R,13R,14S,17R)-17-[(2R,5R)-5-ethyl-6-methylheptan-2-yl]-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-ol",
       "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/222284"
+    },
+    {
+      "@type": "ChemicalSubstance",
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/quercetin/#entity",
+      "name": "Quercetin",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/reference/quercetin/",
+      "inChIKey": "REFJWTPEDVJJIY-UHFFFAOYSA-N",
+      "molecularFormula": "C15H10O7",
+      "molecularWeight": "302.23 g/mol",
+      "smiles": "C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O",
+      "iupacName": "2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxychromen-4-one",
+      "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/5280343"
     },
     {
       "@type": "ChemicalSubstance",
@@ -245,18 +245,6 @@
       "smiles": "C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O",
       "iupacName": "5,7-dihydroxy-2-(4-hydroxyphenyl)chromen-4-one",
       "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/5280443"
-    },
-    {
-      "@type": "ChemicalSubstance",
-      "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/beta-sitosterol/#entity",
-      "name": "Beta-sitosterol",
-      "url": "https://jairaj1234-dancer.github.io/nighantu/reference/beta-sitosterol/",
-      "inChIKey": "KZJWDPNRJALLNS-VJSFXXLFSA-N",
-      "molecularFormula": "C29H50O",
-      "molecularWeight": "414.7 g/mol",
-      "smiles": "CCC(CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C)C(C)C",
-      "iupacName": "(3S,8S,9S,10R,13R,14S,17R)-17-[(2R,5R)-5-ethyl-6-methylheptan-2-yl]-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-ol",
-      "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/222284"
     },
     {
       "@type": "ChemicalSubstance",
@@ -491,6 +479,18 @@
       "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/polysaccharides/#entity",
       "name": "Polysaccharides",
       "url": "https://jairaj1234-dancer.github.io/nighantu/reference/polysaccharides/"
+    },
+    {
+      "@type": "ChemicalSubstance",
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/procyanidins/#entity",
+      "name": "Procyanidins",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/reference/procyanidins/",
+      "inChIKey": "HGVVOUNEGQIPMS-UHFFFAOYSA-N",
+      "molecularFormula": "C30H26O13",
+      "molecularWeight": "594.5 g/mol",
+      "smiles": "C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)OC4(C(C(C5=C(C=C(C=C5O4)O)O)O)O)C6=CC(=C(C=C6)O)O",
+      "iupacName": "2-(3,4-dihydroxyphenyl)-2-[[2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3,4-dihydro-2H-chromen-3-yl]oxy]-3,4-dihydrochromene-3,4,5,7-tetrol",
+      "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/107876"
     },
     {
       "@type": "ChemicalSubstance",
@@ -770,18 +770,6 @@
     },
     {
       "@type": "ChemicalSubstance",
-      "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/procyanidins/#entity",
-      "name": "Procyanidins",
-      "url": "https://jairaj1234-dancer.github.io/nighantu/reference/procyanidins/",
-      "inChIKey": "HGVVOUNEGQIPMS-UHFFFAOYSA-N",
-      "molecularFormula": "C30H26O13",
-      "molecularWeight": "594.5 g/mol",
-      "smiles": "C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)OC4(C(C(C5=C(C=C(C=C5O4)O)O)O)O)C6=CC(=C(C=C6)O)O",
-      "iupacName": "2-(3,4-dihydroxyphenyl)-2-[[2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3,4-dihydro-2H-chromen-3-yl]oxy]-3,4-dihydrochromene-3,4,5,7-tetrol",
-      "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/107876"
-    },
-    {
-      "@type": "ChemicalSubstance",
       "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/protocatechuic-acid/#entity",
       "name": "Protocatechuic acid",
       "url": "https://jairaj1234-dancer.github.io/nighantu/reference/protocatechuic-acid/",
@@ -857,6 +845,18 @@
       "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/terpenoids/#entity",
       "name": "Terpenoids",
       "url": "https://jairaj1234-dancer.github.io/nighantu/reference/terpenoids/"
+    },
+    {
+      "@type": "ChemicalSubstance",
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/vitamin-c/#entity",
+      "name": "Vitamin C",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/reference/vitamin-c/",
+      "inChIKey": "CIWBSHSKHKDKBQ-JLAZNSOCSA-N",
+      "molecularFormula": "C6H8O6",
+      "molecularWeight": "176.12 g/mol",
+      "smiles": "C(C(C1C(=C(C(=O)O1)O)O)O)O",
+      "iupacName": "(2R)-2-[(1S)-1,2-dihydroxyethyl]-3,4-dihydroxy-2H-furan-5-one",
+      "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/54670067"
     },
     {
       "@type": "ChemicalSubstance",
@@ -1058,18 +1058,6 @@
     },
     {
       "@type": "ChemicalSubstance",
-      "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/ascorbic-acid/#entity",
-      "name": "Ascorbic acid",
-      "url": "https://jairaj1234-dancer.github.io/nighantu/reference/ascorbic-acid/",
-      "inChIKey": "CIWBSHSKHKDKBQ-JLAZNSOCSA-N",
-      "molecularFormula": "C6H8O6",
-      "molecularWeight": "176.12 g/mol",
-      "smiles": "C(C(C1C(=C(C(=O)O1)O)O)O)O",
-      "iupacName": "(2R)-2-[(1S)-1,2-dihydroxyethyl]-3,4-dihydroxy-2H-furan-5-one",
-      "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/54670067"
-    },
-    {
-      "@type": "ChemicalSubstance",
       "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/berberine/#entity",
       "name": "Berberine",
       "url": "https://jairaj1234-dancer.github.io/nighantu/reference/berberine/",
@@ -1166,6 +1154,18 @@
     },
     {
       "@type": "ChemicalSubstance",
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/caryophyllene/#entity",
+      "name": "Caryophyllene",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/reference/caryophyllene/",
+      "inChIKey": "NPNUFJAVOOONJE-GFUGXAQUSA-N",
+      "molecularFormula": "C15H24",
+      "molecularWeight": "204.35 g/mol",
+      "smiles": "CC1=CCCC(=C)C2CC(C2CC1)(C)C",
+      "iupacName": "(1R,4E,9S)-4,11,11-trimethyl-8-methylidenebicyclo[7.2.0]undec-4-ene",
+      "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/5281515"
+    },
+    {
+      "@type": "ChemicalSubstance",
       "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/catechins/#entity",
       "name": "Catechins",
       "url": "https://jairaj1234-dancer.github.io/nighantu/reference/catechins/",
@@ -1175,6 +1175,18 @@
       "smiles": "C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O",
       "iupacName": "2-(3,4-dihydroxyphenyl)-3,4-dihydro-2H-chromene-3,5,7-triol",
       "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/1203"
+    },
+    {
+      "@type": "ChemicalSubstance",
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/catechol/#entity",
+      "name": "Catechol",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/reference/catechol/",
+      "inChIKey": "YCIMNLLNPGFGHC-UHFFFAOYSA-N",
+      "molecularFormula": "C6H6O2",
+      "molecularWeight": "110.11 g/mol",
+      "smiles": "C1=CC=C(C(=C1)O)O",
+      "iupacName": "benzene-1,2-diol",
+      "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/289"
     },
     {
       "@type": "ChemicalSubstance",
@@ -1229,6 +1241,18 @@
       "smiles": "CC(=CC=CC=C(C)C=CC=C(C)C(=O)OC1C(C(C(C(O1)COC2C(C(C(C(O2)CO)O)O)O)O)O)O)C=CC=C(C)C(=O)OC3C(C(C(C(O3)COC4C(C(C(C(O4)CO)O)O)O)O)O)O",
       "iupacName": "bis[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-[[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]oxan-2-yl] (2E,4E,6E,8E,10E,12E,14E)-2,6,11,15-tetramethylhexadeca-2,4,6,8,10,12,14-heptaenedioate",
       "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/5281233"
+    },
+    {
+      "@type": "ChemicalSubstance",
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/curlone/#entity",
+      "name": "Curlone",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/reference/curlone/",
+      "inChIKey": "JIJQKFPGBBEJNF-UHFFFAOYSA-N",
+      "molecularFormula": "C15H22O",
+      "molecularWeight": "218.33 g/mol",
+      "smiles": "CC(CC(=O)C=C(C)C)C1CCC(=C)C=C1",
+      "iupacName": "2-methyl-6-(4-methylidenecyclohex-2-en-1-yl)hept-2-en-4-one",
+      "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/196216"
     },
     {
       "@type": "ChemicalSubstance",
@@ -1445,6 +1469,18 @@
       "smiles": "C(C(C(C(C(CO)O)O)O)O)O",
       "iupacName": "(2R,3R,4R,5R)-hexane-1,2,3,4,5,6-hexol",
       "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/6251"
+    },
+    {
+      "@type": "ChemicalSubstance",
+      "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/p-cymene/#entity",
+      "name": "P-cymene",
+      "url": "https://jairaj1234-dancer.github.io/nighantu/reference/p-cymene/",
+      "inChIKey": "HFPZCAJZSCWRBC-UHFFFAOYSA-N",
+      "molecularFormula": "C10H14",
+      "molecularWeight": "134.22 g/mol",
+      "smiles": "CC1=CC=C(C=C1)C(C)C",
+      "iupacName": "1-methyl-4-propan-2-ylbenzene",
+      "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/7463"
     },
     {
       "@type": "ChemicalSubstance",
@@ -1775,18 +1811,6 @@
       "smiles": "COC1=C(C=CC(=C1)C(=O)O)O",
       "iupacName": "4-hydroxy-3-methoxybenzoic acid",
       "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/8468"
-    },
-    {
-      "@type": "ChemicalSubstance",
-      "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/vitamin-c/#entity",
-      "name": "Vitamin C",
-      "url": "https://jairaj1234-dancer.github.io/nighantu/reference/vitamin-c/",
-      "inChIKey": "CIWBSHSKHKDKBQ-JLAZNSOCSA-N",
-      "molecularFormula": "C6H8O6",
-      "molecularWeight": "176.12 g/mol",
-      "smiles": "C(C(C1C(=C(C(=O)O1)O)O)O)O",
-      "iupacName": "(2R)-2-[(1S)-1,2-dihydroxyethyl]-3,4-dihydroxy-2H-furan-5-one",
-      "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/54670067"
     },
     {
       "@type": "ChemicalSubstance",
@@ -3386,18 +3410,6 @@
     },
     {
       "@type": "ChemicalSubstance",
-      "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/beta-caryophyllene/#entity",
-      "name": "Beta-caryophyllene",
-      "url": "https://jairaj1234-dancer.github.io/nighantu/reference/beta-caryophyllene/",
-      "inChIKey": "NPNUFJAVOOONJE-GFUGXAQUSA-N",
-      "molecularFormula": "C15H24",
-      "molecularWeight": "204.35 g/mol",
-      "smiles": "CC1=CCCC(=C)C2CC(C2CC1)(C)C",
-      "iupacName": "(1R,4E,9S)-4,11,11-trimethyl-8-methylidenebicyclo[7.2.0]undec-4-ene",
-      "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/5281515"
-    },
-    {
-      "@type": "ChemicalSubstance",
       "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/beta-eudesmol/#entity",
       "name": "Beta-eudesmol",
       "url": "https://jairaj1234-dancer.github.io/nighantu/reference/beta-eudesmol/",
@@ -3443,18 +3455,6 @@
       "smiles": "CC1C2CC2(CC1=O)C(C)C",
       "iupacName": "(1S,4S,5R)-4-methyl-1-propan-2-ylbicyclo[3.1.0]hexan-3-one",
       "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/91456"
-    },
-    {
-      "@type": "ChemicalSubstance",
-      "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/beta-turmerone/#entity",
-      "name": "Beta-turmerone",
-      "url": "https://jairaj1234-dancer.github.io/nighantu/reference/beta-turmerone/",
-      "inChIKey": "JIJQKFPGBBEJNF-UHFFFAOYSA-N",
-      "molecularFormula": "C15H22O",
-      "molecularWeight": "218.33 g/mol",
-      "smiles": "CC(CC(=O)C=C(C)C)C1CCC(=C)C=C1",
-      "iupacName": "2-methyl-6-(4-methylidenecyclohex-2-en-1-yl)hept-2-en-4-one",
-      "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/196216"
     },
     {
       "@type": "ChemicalSubstance",
@@ -3626,18 +3626,6 @@
     },
     {
       "@type": "ChemicalSubstance",
-      "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/caryophyllene/#entity",
-      "name": "Caryophyllene",
-      "url": "https://jairaj1234-dancer.github.io/nighantu/reference/caryophyllene/",
-      "inChIKey": "NPNUFJAVOOONJE-GFUGXAQUSA-N",
-      "molecularFormula": "C15H24",
-      "molecularWeight": "204.35 g/mol",
-      "smiles": "CC1=CCCC(=C)C2CC(C2CC1)(C)C",
-      "iupacName": "(1R,4E,9S)-4,11,11-trimethyl-8-methylidenebicyclo[7.2.0]undec-4-ene",
-      "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/5281515"
-    },
-    {
-      "@type": "ChemicalSubstance",
       "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/casticin/#entity",
       "name": "Casticin",
       "url": "https://jairaj1234-dancer.github.io/nighantu/reference/casticin/",
@@ -3653,18 +3641,6 @@
       "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/catalase/#entity",
       "name": "Catalase",
       "url": "https://jairaj1234-dancer.github.io/nighantu/reference/catalase/"
-    },
-    {
-      "@type": "ChemicalSubstance",
-      "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/catechol/#entity",
-      "name": "Catechol",
-      "url": "https://jairaj1234-dancer.github.io/nighantu/reference/catechol/",
-      "inChIKey": "YCIMNLLNPGFGHC-UHFFFAOYSA-N",
-      "molecularFormula": "C6H6O2",
-      "molecularWeight": "110.11 g/mol",
-      "smiles": "C1=CC=C(C(=C1)O)O",
-      "iupacName": "benzene-1,2-diol",
-      "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/289"
     },
     {
       "@type": "ChemicalSubstance",
@@ -4106,18 +4082,6 @@
     },
     {
       "@type": "ChemicalSubstance",
-      "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/curlone/#entity",
-      "name": "Curlone",
-      "url": "https://jairaj1234-dancer.github.io/nighantu/reference/curlone/",
-      "inChIKey": "JIJQKFPGBBEJNF-UHFFFAOYSA-N",
-      "molecularFormula": "C15H22O",
-      "molecularWeight": "218.33 g/mol",
-      "smiles": "CC(CC(=O)C=C(C)C)C1CCC(=C)C=C1",
-      "iupacName": "2-methyl-6-(4-methylidenecyclohex-2-en-1-yl)hept-2-en-4-one",
-      "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/196216"
-    },
-    {
-      "@type": "ChemicalSubstance",
       "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/cuscohygrine/#entity",
       "name": "Cuscohygrine",
       "url": "https://jairaj1234-dancer.github.io/nighantu/reference/cuscohygrine/",
@@ -4331,18 +4295,6 @@
       "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/disposable-sutra-neti-tubes/#entity",
       "name": "Disposable sutra neti tubes",
       "url": "https://jairaj1234-dancer.github.io/nighantu/reference/disposable-sutra-neti-tubes/"
-    },
-    {
-      "@type": "ChemicalSubstance",
-      "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/dithymoquinone/#entity",
-      "name": "Dithymoquinone",
-      "url": "https://jairaj1234-dancer.github.io/nighantu/reference/dithymoquinone/",
-      "inChIKey": "FPRGRROJPRIHJP-UHFFFAOYSA-N",
-      "molecularFormula": "C20H24O4",
-      "molecularWeight": "328.4 g/mol",
-      "smiles": "CC(C)C1=CC(=O)C2(C(C1=O)C3(C2C(=O)C(=CC3=O)C(C)C)C)C",
-      "iupacName": "4b,8b-dimethyl-3,7-di(propan-2-yl)-4a,8a-dihydrobiphenylene-1,4,5,8-tetrone",
-      "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/398941"
     },
     {
       "@type": "ChemicalSubstance",
@@ -5063,18 +5015,6 @@
       "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/indigoside/#entity",
       "name": "Indigoside",
       "url": "https://jairaj1234-dancer.github.io/nighantu/reference/indigoside/"
-    },
-    {
-      "@type": "ChemicalSubstance",
-      "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/indigotin/#entity",
-      "name": "Indigotin",
-      "url": "https://jairaj1234-dancer.github.io/nighantu/reference/indigotin/",
-      "inChIKey": "QQILFGKZUJYXGS-UHFFFAOYSA-N",
-      "molecularFormula": "C16H10N2O2",
-      "molecularWeight": "262.26 g/mol",
-      "smiles": "C1=CC=C2C(=C1)C(=C(N2)C3=NC4=CC=CC=C4C3=O)O",
-      "iupacName": "2-(3-hydroxy-1H-indol-2-yl)indol-3-one",
-      "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/10215"
     },
     {
       "@type": "ChemicalSubstance",
@@ -5918,18 +5858,6 @@
     },
     {
       "@type": "ChemicalSubstance",
-      "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/nimbosterol/#entity",
-      "name": "Nimbosterol",
-      "url": "https://jairaj1234-dancer.github.io/nighantu/reference/nimbosterol/",
-      "inChIKey": "KZJWDPNRJALLNS-VJSFXXLFSA-N",
-      "molecularFormula": "C29H50O",
-      "molecularWeight": "414.7 g/mol",
-      "smiles": "CCC(CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C)C(C)C",
-      "iupacName": "(3S,8S,9S,10R,13R,14S,17R)-17-[(2R,5R)-5-ethyl-6-methylheptan-2-yl]-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-ol",
-      "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/222284"
-    },
-    {
-      "@type": "ChemicalSubstance",
       "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/nor-sesquiterpenoids/#entity",
       "name": "Nor-sesquiterpenoids",
       "url": "https://jairaj1234-dancer.github.io/nighantu/reference/nor-sesquiterpenoids/"
@@ -6074,18 +6002,6 @@
     },
     {
       "@type": "ChemicalSubstance",
-      "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/p-cymene/#entity",
-      "name": "P-cymene",
-      "url": "https://jairaj1234-dancer.github.io/nighantu/reference/p-cymene/",
-      "inChIKey": "HFPZCAJZSCWRBC-UHFFFAOYSA-N",
-      "molecularFormula": "C10H14",
-      "molecularWeight": "134.22 g/mol",
-      "smiles": "CC1=CC=C(C=C1)C(C)C",
-      "iupacName": "1-methyl-4-propan-2-ylbenzene",
-      "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/7463"
-    },
-    {
-      "@type": "ChemicalSubstance",
       "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/p-hydroxybenzoic-acid/#entity",
       "name": "p-Hydroxybenzoic acid",
       "url": "https://jairaj1234-dancer.github.io/nighantu/reference/p-hydroxybenzoic-acid/",
@@ -6107,18 +6023,6 @@
       "smiles": "CC1=C2C(C(=O)C3(C(CC4C(C3C(C(C2(C)C)(CC1OC(=O)C(C(C5=CC=CC=C5)NC(=O)C6=CC=CC=C6)O)O)OC(=O)C7=CC=CC=C7)(CO4)OC(=O)C)O)C)OC(=O)C",
       "iupacName": "[(1S,2S,3R,4S,7R,9S,10S,12R,15S)-4,12-diacetyloxy-15-[(2R,3S)-3-benzamido-2-hydroxy-3-phenylpropanoyl]oxy-1,9-dihydroxy-10,14,17,17-tetramethyl-11-oxo-6-oxatetracyclo[11.3.1.03,10.04,7]heptadec-13-en-2-yl] benzoate",
       "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/36314"
-    },
-    {
-      "@type": "ChemicalSubstance",
-      "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/para-cymene/#entity",
-      "name": "Para-cymene",
-      "url": "https://jairaj1234-dancer.github.io/nighantu/reference/para-cymene/",
-      "inChIKey": "HFPZCAJZSCWRBC-UHFFFAOYSA-N",
-      "molecularFormula": "C10H14",
-      "molecularWeight": "134.22 g/mol",
-      "smiles": "CC1=CC=C(C=C1)C(C)C",
-      "iupacName": "1-methyl-4-propan-2-ylbenzene",
-      "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/7463"
     },
     {
       "@type": "ChemicalSubstance",
@@ -6314,18 +6218,6 @@
     },
     {
       "@type": "ChemicalSubstance",
-      "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/proanthocyanidins/#entity",
-      "name": "Proanthocyanidins",
-      "url": "https://jairaj1234-dancer.github.io/nighantu/reference/proanthocyanidins/",
-      "inChIKey": "HGVVOUNEGQIPMS-UHFFFAOYSA-N",
-      "molecularFormula": "C30H26O13",
-      "molecularWeight": "594.5 g/mol",
-      "smiles": "C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)OC4(C(C(C5=C(C=C(C=C5O4)O)O)O)O)C6=CC(=C(C=C6)O)O",
-      "iupacName": "2-(3,4-dihydroxyphenyl)-2-[[2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3,4-dihydro-2H-chromen-3-yl]oxy]-3,4-dihydrochromene-3,4,5,7-tetrol",
-      "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/107876"
-    },
-    {
-      "@type": "ChemicalSubstance",
       "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/probiotic-microorganisms/#entity",
       "name": "Probiotic microorganisms",
       "url": "https://jairaj1234-dancer.github.io/nighantu/reference/probiotic-microorganisms/"
@@ -6503,18 +6395,6 @@
       "smiles": "CC1=C(C(=O)CC1OC(=O)C2C(C2(C)C)C=C(C)C(=O)OC)CC=CC=C",
       "iupacName": "cis-[(1S)-2-methyl-4-oxo-3-[(2Z)-penta-2,4-dienyl]cyclopent-2-en-1-yl] (1R,3R)-3-[(E)-3-methoxy-2-methyl-3-oxoprop-1-enyl]-2,2-dimethylcyclopropane-1-carboxylate",
       "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/5281555"
-    },
-    {
-      "@type": "ChemicalSubstance",
-      "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/pyrocatechol/#entity",
-      "name": "Pyrocatechol",
-      "url": "https://jairaj1234-dancer.github.io/nighantu/reference/pyrocatechol/",
-      "inChIKey": "YCIMNLLNPGFGHC-UHFFFAOYSA-N",
-      "molecularFormula": "C6H6O2",
-      "molecularWeight": "110.11 g/mol",
-      "smiles": "C1=CC=C(C(=C1)O)O",
-      "iupacName": "benzene-1,2-diol",
-      "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/289"
     },
     {
       "@type": "ChemicalSubstance",
@@ -7667,18 +7547,6 @@
       "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/vasarishta/#entity",
       "name": "Vasarishta",
       "url": "https://jairaj1234-dancer.github.io/nighantu/reference/vasarishta/"
-    },
-    {
-      "@type": "ChemicalSubstance",
-      "@id": "https://jairaj1234-dancer.github.io/nighantu/compounds/verbascoside/#entity",
-      "name": "Verbascoside",
-      "url": "https://jairaj1234-dancer.github.io/nighantu/reference/verbascoside/",
-      "inChIKey": "FBSKJMQYURKNSU-ZLSOWSIRSA-N",
-      "molecularFormula": "C29H36O15",
-      "molecularWeight": "624.6 g/mol",
-      "smiles": "CC1C(C(C(C(O1)OC2C(C(OC(C2OC(=O)C=CC3=CC(=C(C=C3)O)O)CO)OCCC4=CC(=C(C=C4)O)O)O)O)O)O",
-      "iupacName": "[(2R,3R,4R,5R,6R)-6-[2-(3,4-dihydroxyphenyl)ethoxy]-5-hydroxy-2-(hydroxymethyl)-4-[(2S,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-3-yl] (E)-3-(3,4-dihydroxyphenyl)prop-2-enoate",
-      "sameAs": "https://pubchem.ncbi.nlm.nih.gov/compound/5281800"
     },
     {
       "@type": "ChemicalSubstance",
