@@ -11,6 +11,14 @@ authors:
     country: IN
 repository-code: https://github.com/Jairaj1234-dancer/nighantu
 identifiers:
+  # The concept DOI always resolves to the newest release; cite this one unless you need
+  # to pin the exact version you used.
+  - type: doi
+    value: 10.5281/zenodo.22805684
+    description: Zenodo concept DOI, all versions
+  - type: doi
+    value: 10.5281/zenodo.22805685
+    description: Zenodo DOI for v1.0.0
   # Software Heritage archives the repository permanently and mints a SWHID for each
   # snapshot. It needs no account, unlike every DOI service, which makes this the one
   # genuinely permanent identifier available to this project today.

@@ -1,5 +1,7 @@
 # Nighantu
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22805684.svg)](https://doi.org/10.5281/zenodo.22805684)
+
 A static reference encyclopedia of Ayurvedic herbs, classical formulations and instruments,
 tracked links. It is deliberately separate from the Shopify storefront and never touches it.
 
