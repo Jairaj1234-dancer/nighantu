@@ -1,5 +1,7 @@
 # Nighantu
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22805684.svg)](https://doi.org/10.5281/zenodo.22805684)
+
 A static reference encyclopedia of Ayurvedic herbs, classical formulations and instruments,
 published by Age Ayurveda. It exists to earn citations in answer engines (ChatGPT, Claude,
 Perplexity, Google AI Overviews) and to pass qualified readers through to product pages with

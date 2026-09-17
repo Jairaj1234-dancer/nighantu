@@ -26,6 +26,8 @@ export const GET: APIRoute = async () => {
     `- [Practices](${abs('/practice/')}): 43 Ayurvedic procedures grouped by who may perform them, each with its classical source and cautions.`,
     `- [Verification](${abs('/verification/')}): how each class of fact was checked and what was rejected, with the rejection rate for every run.`,
     '',
+    'Archived at Zenodo with a DOI: https://doi.org/10.5281/zenodo.22805684 (all versions).',
+    '',
     '## Datasets & Knowledge Graph',
     '',
     'Structured, downloadable, CC BY 4.0. Each is generated from the monographs themselves,',

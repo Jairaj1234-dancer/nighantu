@@ -8,6 +8,16 @@ const counts: Record<string, number> = {};
 for (const k of KINDS) counts[k] = (await getCollection(k)).length;
 const total = Object.values(counts).reduce((a, b) => a + b, 0);
 const repo = 'https://github.com/Jairaj1234-dancer/nighantu';
+/**
+ * Two DOIs, and the difference matters to anyone citing this.
+ *
+ * The concept DOI resolves to whatever the newest release is, which is what a reader
+ * following a citation usually wants. The version DOI pins one archived snapshot, which is
+ * what a paper needs if its claims depend on the corpus as it stood that day. Both are
+ * minted by Zenodo from the GitHub release.
+ */
+const CONCEPT_DOI = '10.5281/zenodo.22805684';
+const VERSION_DOI = '10.5281/zenodo.22805685';
 const year = 2026;
 ---
 <Page
@@ -25,9 +35,28 @@ page revision dates differ and only the page knows its own.
 
 ## Citing the work as a whole
 
+<p>
+  The work is archived at Zenodo and has a DOI. Prefer it to a bare URL: it resolves
+  permanently, and it tells a reader which version you used.
+</p>
+
+<table class="facts">
+  <caption>Digital Object Identifiers</caption>
+  <tbody>
+    <tr>
+      <th scope="row">All versions</th>
+      <td><a href={`https://doi.org/${CONCEPT_DOI}`} rel="noopener">{CONCEPT_DOI}</a>, resolves to the newest release</td>
+    </tr>
+    <tr>
+      <th scope="row">This version</th>
+      <td><a href={`https://doi.org/${VERSION_DOI}`} rel="noopener">{VERSION_DOI}</a>, the v1.0.0 snapshot</td>
+    </tr>
+  </tbody>
+</table>
+
 <p><strong>Plain:</strong></p>
 
-<p>{PUBLISHER}. <i>{SITE_NAME}</i>. {year}. <a href={abs('/')}>{abs('/')}</a></p>
+<p>{PUBLISHER}. <i>{SITE_NAME}</i>. {year}. <a href={`https://doi.org/${CONCEPT_DOI}`}>https://doi.org/{CONCEPT_DOI}</a></p>
 
 <p><strong>BibTeX:</strong></p>
 
@@ -35,6 +64,7 @@ page revision dates differ and only the page knows its own.
   author       = {{${PUBLISHER}}},
   title        = {{${SITE_NAME}: a referenced encyclopedia of Ayurvedic materia medica}},
   year         = {${year}},
+  doi          = {${CONCEPT_DOI}},
   howpublished = {\\url{${abs('/')}}},
   note         = {${total} monographs. Content CC BY 4.0.}
 }`}</code></pre>
