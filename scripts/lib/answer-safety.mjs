@@ -31,7 +31,10 @@ export const DISEASE_WORD = /\b(cancer|carcinoma|tumours?|tumors?|diabet\w*|arth
 export const EFFICACY_WORD = /\b(cures?|treats?|heals?|reverses?|prevents?|eliminates?|manages?|management|therapy|therapeutic|efficacy|effective|inhibit\w*|reduc\w*|improv\w*|ameliorat\w*|cytotox\w*|apoptosis|activity against|used for|indicated (?:in|for))\b/i;
 
 export const DOSE_PATTERNS = [
-  /\b(standard dosage|dosage forms?|usual dose|dose\s*:|dosage\s*:)/i,
+  // The labels as the vault prints them, each followed by a colon. The colon matters: a
+  // page may legitimately discuss "the dosage form" as a category, which an unanchored
+  // "dosage form" pattern read as a dose and refused.
+  /\b(standard dosage\s*:?|dosage forms?\s*:|usual dose|dose\s*:|dosage\s*:)/i,
   // "3-6 g powder twice daily", "500mg-1g extract capsule twice daily"
   /\b\d+(?:\.\d+)?\s*(?:-|to|–)?\s*\d*\s*(?:mg|g|gm|ml|tsp|tablets?|capsules?)\b[^.]{0,40}\b(?:daily|twice|thrice|per day|bd|tds)\b/i,
 ];

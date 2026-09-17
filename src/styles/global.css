@@ -325,3 +325,4 @@ footer.site nav { display: flex; gap: 1rem; flex-wrap: wrap; margin-bottom: .75r
 .composition th, .composition td { text-align: left; padding: .4rem .7rem; border-top: 1px solid var(--rule); vertical-align: top; }
 .composition-note { font-size: .86rem; color: var(--ink-soft); }
 .composition .ocrnote { color: var(--ink-soft); cursor: help; }
+.composition .illegible { color: var(--ink-soft); font-size: .88em; }

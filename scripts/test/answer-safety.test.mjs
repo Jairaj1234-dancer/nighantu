@@ -20,6 +20,8 @@ ok('a Dosage Forms run is caught',
 ok('a milligram dose with a frequency is caught',
   isDose('125-250 mg with honey twice daily.'));
 
+ok('discussing the dosage form as a category is not a dose',
+  !isDose('It binds the ingredients and fixes the dosage form.'));
 ok('a plant part with a weight is not a dose',
   !isDose('The heart wood is collected in pieces of 3 to 5 cm.'));
 ok('a formulary composition row is not a dose',
