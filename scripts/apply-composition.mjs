@@ -52,19 +52,48 @@ for (const { slug, extract: ex, verify: v } of done) {
   const book = lines[ex.afiPart];
   if (!book || !ex.headingLine) { reject(slug, 'no part or heading line'); continue; }
 
-  const rows = ex.rows;
-  const numbering = rows.map((r) => r.n).join(',') === rows.map((_, i) => i + 1).join(',');
+  /**
+   * Not every printed line in a composition table is an ingredient.
+   *
+   * The formulary prints sub-headings inside the table ("Praksepa dravyas", the drugs added
+   * at the end) and continuation lines ("reduced to 12.288 l." under the decoction water).
+   * Transcribers give those the same number as the row they belong to, which a strict
+   * 1..n rule read as a duplicate and refused. They are marked structural instead: kept,
+   * because dropping them would lose the book's own structure, and excluded from the
+   * numbering check and from the ingredient count.
+   */
+  const rows = ex.rows.map((r, i, all) => ({
+    ...r,
+    structural: i > 0 && r.n === all[i - 1].n,
+  }));
+  const ingredients = rows.filter((r) => !r.structural);
+  const numbering = ingredients.map((r) => r.n).join(',') === ingredients.map((_, i) => i + 1).join(',');
   if (!rows.length || !numbering) { reject(slug, 'row numbering not 1..n'); continue; }
 
-  // The entry's span: from its heading to the next "Dosage", generously bounded.
-  const start = Math.max(0, ex.headingLine - 5);
-  let end = start + 40;
-  for (let i = ex.headingLine; i < Math.min(book.length, ex.headingLine + 400); i += 1) {
-    if (/^\s*Dosage/i.test(book[i])) { end = i + 1; break; }
-    end = i;
-  }
+  /**
+   * The entry's span, bounded by its neighbours rather than by a line offset.
+   *
+   * These scans are two-column, and the OCR emits the whole name column before the heading
+   * line, sometimes 200 lines before it on a long entry. A window that opened a few lines
+   * above the heading therefore refused correct transcriptions because the first
+   * ingredients fell outside it. Bounding by the previous and next entry headings is the
+   * honest shape: a name has to appear somewhere inside this entry's own stretch of the
+   * book, and cannot be borrowed from another entry.
+   */
+  const HEADING = /^\s*\d+\s*[:.]\s*\d+\s+[A-Z][A-Z0-9 .,()\-']{3,}$/;
+  const headings = book.reduce((acc, line, i) => (HEADING.test(line) ? [...acc, i] : acc), []);
+  const here = headings.filter((i) => i <= ex.headingLine + 2).pop() ?? ex.headingLine;
+  const next = headings.find((i) => i > here + 2) ?? here + 400;
+  const prev = headings.filter((i) => i < here).pop() ?? Math.max(0, here - 300);
+  // A little slack before the previous heading: on some pages the OCR starts this entry's
+  // name column above where the previous entry's heading was printed, so a hard bound at
+  // the neighbour still cut off a legitimate first ingredient (Dadimadi Ghrta's Srngavera).
+  const start = Math.max(0, prev - 60);
+  const end = Math.min(book.length, next);
+
   const span = fold(book.slice(start, end).join(' '));
-  const absent = rows.filter((r) => !r.ocrCorrected && !r.illegible && !span.includes(fold(r.name).slice(0, 6)));
+  const absent = rows.filter((r) => !r.ocrCorrected && !r.illegible && !r.structural
+    && !span.includes(fold(r.name).slice(0, 6)));
   if (absent.length) { reject(slug, 'row names not in the entry span', { absent: absent.map((r) => r.name) }); continue; }
 
   // Transcribers annotate the source line with their own bracketed working ("[OCR prints
@@ -78,9 +107,9 @@ for (const { slug, extract: ex, verify: v } of done) {
     entryHeading: ex.entryHeading,
     classicalSource: citation || null,
     sourceUrl: BOOKS[ex.afiPart].url,
-    rows: rows.map(({ n, name, gloss, part, quantity, ocrCorrected, illegible }) => ({ n, name, gloss, part, quantity, ocrCorrected, illegible })),
+    rows: rows.map(({ n, name, gloss, part, quantity, ocrCorrected, illegible, structural }) => ({ n, name, gloss, part, quantity, ocrCorrected, illegible, structural })),
   };
-  ledger.published.push({ slug, afi: `Part ${ex.afiPart} ${ex.entryNumber}`, rows: rows.length, ocrCorrected: rows.filter((r) => r.ocrCorrected).length });
+  ledger.published.push({ slug, afi: `Part ${ex.afiPart} ${ex.entryNumber}`, rows: ingredients.length, ocrCorrected: rows.filter((r) => r.ocrCorrected).length });
 }
 
 out.records = Object.fromEntries(Object.entries(out.records).sort(([a], [b]) => a.localeCompare(b)));

@@ -16,7 +16,7 @@ aliases: ["Mahayograj Guggul", "MahayograjGuggul"]
 tags: ["ayurveda", "formulation", "guggulu", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 539
+words: 445
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Mahayograj-Guggul/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,24 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Mahayograj-G
 | Language | Name |
 |----------|------|
 | English | Mahayograj Guggul |
-
-## Key Ingredients
-
-- Shuddha [Guggulu](/nighantu/formulation/guggulu/)|Shuddha Guggulu (Commiphora wightii) - ~25% of formulation
-- [Trikatu](/nighantu/herb/trikatu/) - Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale), Maricha (Piper nigrum), [Pippali](/nighantu/herb/pippali/) (Piper longum)
-- [Triphala](/nighantu/herb/triphala/) - [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula), [Bibhitaki](/nighantu/herb/bibhitaki/) (Terminalia bellirica), Amalaki (Emblica officinalis)
-- Chitraka (Plumbago zeylanica)
-- [Vidanga](/nighantu/herb/vidanga/) (Embelia ribes)
-- Kushtha (Saussurea lappa)
-- [Rasna](/nighantu/herb/rasna/) (Pluchea lanceolata)
-- [Devadaru](/nighantu/herb/devadaru/) (Cedrus deodara)
-- Ela (Elettaria cardamomum)
-- Nagara ([Zingiber](/nighantu/herb/zingiber/) officinale)
-- [Vanga Bhasma](/nighantu/herb/vanga-bhasma/) (Tin calx)
-- [Naga Bhasma](/nighantu/herb/naga-bhasma/) (Lead calx - purified)
-- [Loha Bhasma](/nighantu/herb/loha-bhasma/) (Iron calx)
-- [Mandura Bhasma](/nighantu/herb/mandura-bhasma/) (Iron rust calx)
-- Rasa Sindhura (Mercury-Sulphur compound)
 
 ## Where is it described in the classical texts?
 

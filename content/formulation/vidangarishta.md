@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Arishtas-Asavas-Fermented"
-answer: "Vidangarishta is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI). Also referenced in Bhavaprakasha Nighantu (16th century CE) and Yogaratnakara for anthelmintic indications. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence."
+answer: "Vidangarishta is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI). Sharangadharasamhita Madhyamakhanda. Also referenced in Bhavaprakasha Nighantu (16th century CE) and Yogaratnakara for anthelmintic indications."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 432
+words: 368
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Vidangarishta/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,24 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Vidanga
 | Language | Name |
 |----------|------|
 | English | Vidangarishta |
-
-## Key Ingredients
-
-- [Vidanga](/nighantu/herb/vidanga/) (Embelia ribes)
-- [Triphala](/nighantu/herb/triphala/) ([Haritaki](/nighantu/herb/haritaki/), [Bibhitaki](/nighantu/herb/bibhitaki/), Amalaki)
-- [Pippali](/nighantu/herb/pippali/) (Piper longum)
-- [Rasna](/nighantu/herb/rasna/) (Pluchea lanceolata)
-- Kutaja (Holarrhena antidysenterica)
-- [Dalchini](/nighantu/herb/twak-cinnamon/) (Cinnamomum zeylanicum)
-- Elaichi (Elettaria cardamomum)
-- [Kachnar](/nighantu/herb/kachnar/) (Bauhinia variegata)
-- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale)
-- Maricha (Piper nigrum)
-- [Patha](/nighantu/herb/patha/) (Cissampelos pareira)
-- [Lodhra](/nighantu/herb/lodhra/) (Symplocos racemosa)
-- [Priyangu](/nighantu/herb/priyangu/) (Callicarpa macrophylla)
-- Honey and Jaggery (fermentation medium)
-- [Dhataki](/nighantu/herb/dhataki/) pushpa (Woodfordia fruticosa)
 
 ## Where is it described in the classical texts?
 

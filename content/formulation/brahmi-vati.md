@@ -16,7 +16,7 @@ aliases: ["Brahmi Vati", "BrahmiVati"]
 tags: ["ayurveda", "formulation", "vati", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 757
+words: 699
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Brahmi-Vati/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,18 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Brahmi-Vati/meta-an
 | Language | Name |
 |----------|------|
 | English | [Brahmi](/nighantu/herb/brahmi/) Vati |
-
-## Key Ingredients
-
-- [Brahmi](/nighantu/herb/brahmi/) (Bacopa monnieri) extract
-- [Shankhpushpi](/nighantu/herb/shankhpushpi/) (Convolvulus pluricaulis) dried leaf
-- [Vacha](/nighantu/herb/vacha/) (Acorus calamus) rhizome
-- Maricha (Piper nigrum)
-- [Jatamansi](/nighantu/herb/jatamansi/) (Nardostachys [jatamansi](/nighantu/herb/jatamansi/))
-- Swarna Makshika Bhasma (Calx of copper-iron pyrite)
-- Rasasindura (Mercury-Sulphur compound)
-- [Mukta Pishti](/nighantu/herb/mukta-pishti/) (Pearl calx) - in some formulations
-- Suvarna Bhasma (Gold calx) - in [Brahmi](/nighantu/herb/brahmi/) Vati Gold variant
 
 ## Where is it described in the classical texts?
 

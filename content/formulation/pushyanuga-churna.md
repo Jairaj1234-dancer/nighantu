@@ -16,7 +16,7 @@ aliases: ["Pushyanuga Churna", "PushyanugaChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 576
+words: 464
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Pushyanuga-Churna/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,32 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Pushyanuga-Churna
 | Language | Name |
 |----------|------|
 | English | [Pushyanuga Churna](/nighantu/formulation/pushyanuga-churna/) |
-
-## Key Ingredients
-
-- [Patha](/nighantu/herb/patha/) (Cissampelos pareira)
-- [Jambu](/nighantu/herb/jambu/) Phalmajja (Syzygium cumini seed)
-- [Amra](/nighantu/herb/amra/) Phalmajja (Mangifera indica seed)
-- Pashanbheda (Bergenia ligulata)
-- Rasanjana (Berberis aristata extract)
-- [Lodhra](/nighantu/herb/lodhra/) (Symplocos racemosa)
-- Mocharasa (Salmalia malabarica)
-- Manjishta (Rubia cordifolia)
-- [Kamala](/nighantu/herb/kamala/) Keshar (Nelumbo nucifera)
-- Ativisha (Aconitum heterophyllum)
-- [Nagarmotha](/nighantu/herb/nagarmotha/) (Cyperus rotundus)
-- Maricha (Piper nigrum)
-- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale)
-- [Arjuna](/nighantu/herb/arjuna/) Twak (Terminalia [arjuna](/nighantu/herb/arjuna/) bark)
-- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (Glycyrrhiza glabra)
-- Swarna Gairik (Red Ochre - Fe2O3)
-- [Dhataki](/nighantu/herb/dhataki/) Pushpa (Woodfordia fruticosa flowers)
-- [Bilva](/nighantu/herb/bilva/) Phalmajja (Aegle marmelos fruit pulp)
-- Indrajav (Holarrhena antidysenterica seeds)
-- Anantmul (Hemidesmus indicus)
-- Shyonak Twak (Oroxylum indicum bark)
-- [Katphala](/nighantu/herb/katphala/) (Myrica esculenta)
-- [Draksha](/nighantu/herb/draksha/) (Vitis vinifera)
 
 ## Where is it described in the classical texts?
 

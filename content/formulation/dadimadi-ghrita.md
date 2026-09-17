@@ -16,7 +16,7 @@ aliases: ["Dadimadi Ghrita", "DadimadiGhrita"]
 tags: ["ayurveda", "formulation", "ghritam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 497
+words: 451
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Dadimadi-Ghrita/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,15 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Dadimadi-
 | Language | Name |
 |----------|------|
 | English | Dadimadi [Ghrita](/nighantu/herb/ghrita/)|Dadimadi Ghrita |
-
-## Key Ingredients
-
-- [Dadima](/nighantu/herb/dadima/) (Punica granatum / Pomegranate) - 192g
-- Dhanya (Coriandrum sativum / [Coriander](/nighantu/herb/coriander/)) - 96g
-- Chitraka (Plumbago zeylanica) - 48g
-- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale / [Ginger](/nighantu/herb/ginger/)) - 48g
-- [Pippali](/nighantu/herb/pippali/) (Piper longum / Long pepper) - 24g
-- [Ghrita](/nighantu/herb/ghrita/) (clarified cow butter) - 960g
 
 ## Where is it described in the classical texts?
 

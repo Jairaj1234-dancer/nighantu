@@ -16,7 +16,7 @@ aliases: ["Yogaraja Guggulu", "YogarajaGuggulu"]
 tags: ["ayurveda", "formulation", "guggulu", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 573
+words: 515
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Yogaraja-Guggulu/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,23 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Yogaraja-Gug
 | Language | Name |
 |----------|------|
 | English | Yogaraja [Guggulu](/nighantu/formulation/guggulu/)|Yogaraja Guggulu |
-
-## Key Ingredients
-
-- Shuddha [Guggulu](/nighantu/formulation/guggulu/)|Shuddha Guggulu (Commiphora wightii/mukul)
-- Chitraka (Plumbago zeylanica)
-- [Pippali](/nighantu/herb/pippali/) (Piper longum)
-- [Jeeraka](/nighantu/herb/jeeraka/) (Cuminum cyminum)
-- [Devadaru](/nighantu/herb/devadaru/) (Cedrus deodara)
-- Ela (Elettaria cardamomum)
-- Amalaki (Emblica officinalis)
-- Mustaka (Cyperus rotundus)
-- [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula)
-- Ardraka ([Zingiber](/nighantu/herb/zingiber/) officinale)
-- [Rasna](/nighantu/herb/rasna/) (Pluchea lanceolata)
-- [Vidanga](/nighantu/herb/vidanga/) (Embelia ribes)
-- [Dhanyaka](/nighantu/herb/dhanyaka/) (Coriandrum sativum)
-- [Gajapippali](/nighantu/herb/gajapippali/) (Scindapsus officinalis)
 
 ## Where is it described in the classical texts?
 

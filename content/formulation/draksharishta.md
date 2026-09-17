@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Arishtas-Asavas-Fermented"
-answer: "Draksharishta is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI) Part I. Also referenced in Ayurvedic Formulary of India. Draksharishta is one of the classical arishta preparations described for general debility, anemia, and respiratory conditions in traditional texts."
+answer: "Draksharishta is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI) Part I. Bhaishajya Ratnavali (Agnimandya / Pandu Rogadhikara). Also referenced in Ayurvedic Formulary of India."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 685
+words: 619
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Draksharishta/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,18 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Draksha
 | Language | Name |
 |----------|------|
 | English | Draksharishta |
-
-## Key Ingredients
-
-- [Draksha](/nighantu/herb/draksha/) (Vitis vinifera) - Dry grapes / Raisins (primary ingredient)
-- [Dhataki](/nighantu/herb/dhataki/) pushpa (Woodfordia fruticosa) - fermenting agent
-- Maricha (Piper nigrum) - [Black pepper](/nighantu/herb/black-pepper/)
-- [Pippali](/nighantu/herb/pippali/) (Piper longum) - Long pepper
-- Tvak (Cinnamomum zeylanicum) - Cinnamon
-- Ela (Elettaria cardamomum) - Cardamom
-- Patra (Cinnamomum tamala) - Bay leaf
-- [Guda](/nighantu/glossary/concepts-a-m/#guda) (Jaggery) - fermentation substrate
-- [Madhu](/nighantu/herb/madhu/) (Honey) - in some formulations
 
 ## Where is it described in the classical texts?
 
