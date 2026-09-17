@@ -1,11 +1,11 @@
 {
  "note": "Identified then independently verified against authoritative botanical sources. Contested identities were rejected rather than resolved. See scripts/lib/binomials.mjs. A later pass added 8 more, each confirmed to exist in the GBIF backbone at EXACT match before it could be proposed, and each re-checked by an independent verifier who re-ran GBIF rather than trusting the figures it was handed.",
- "updatedAt": "2026-09-16",
- "count": 162,
+ "updatedAt": "2026-09-17",
+ "count": 169,
  "binomials": {
   "ajmoda": {
    "binomial": "Apium leptophyllum",
-   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. Volume I: AJAMODA (Fruit)",
+   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. I: AJAMODA (Fruit)",
    "source": "api"
   },
   "ajwain-herb": {
@@ -24,11 +24,21 @@
    "binomial": "Hemidesmus indicus",
    "note": "Examined the contested flag the proposer raised and found it does not attach to this page. The real dispute is over the trade group name 'Sariva', where krishna sariva is supplied as Cryptolepis buchananii, Ichnocarpus frutescens or Decalepis hamiltonii; the vernacular Anantamool / Anantamula maps c"
   },
+  "aranya-jeeraka": {
+   "binomial": "Centratherum anthelminticum",
+   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. V: VANYAJIRAKA (Fruit)",
+   "source": "api"
+  },
   "arjuna-twak": {
    "binomial": "Terminalia arjuna",
    "note": "Verified this is the stem bark (twak) of a single species, not a formulation. Dosage forms are bark powder, kashaya and kshirapaka; markers are arjunolic acid, arjunic acid, arjunetin, arjunaphthanol and casuarinin, all Terminalia arjuna bark constituents. The body states it is 'the bark/Twak of Ter"
   },
   "arka": {
+   "binomial": "Calotropis procera",
+   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. I: ARKA (Root)",
+   "source": "api"
+  },
+  "arka-pushpa": {
    "binomial": "Calotropis procera",
    "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. I: ARKA (Root)",
    "source": "api"
@@ -59,6 +69,11 @@
    "binomial": "Betula utilis",
    "note": "Confirmed Bhurja / Bhurjapatra = Betula utilis D.Don (Betulaceae), the Himalayan birch whose bark is the drug; corroborated by the JAPS Betula utilis (Bhojpatra) review and Dravyaguna sources, with the Sanskrit bhurja being the direct etymon of bhojpatra. Betula utilis is the accepted name. Found no"
   },
+  "bhutika": {
+   "binomial": "Cymbopogon citratus",
+   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. V: KATTRNA (Whole Plant)",
+   "source": "api"
+  },
   "bilva": {
    "binomial": "Aegle marmelos",
    "note": "Verified against the Ayurvedic Pharmacopoeia of India, which carries separate Bilva monographs for fruit pulp (Vol. I), root (Vol. III) and stem bark (Vol. IV), all of Aegle marmelos (L.) Correa (Rutaceae). Aegle is effectively monotypic and the name is unambiguous in POWO/IPNI, so no substitution o"
@@ -77,7 +92,7 @@
   },
   "chavika": {
    "binomial": "Piper retrofractum",
-   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. API Part I, Volume II: CAVYA (Stem)",
+   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. II: CAVYA (Stem)",
    "source": "api"
   },
   "chirabilva": {
@@ -311,7 +326,7 @@
   },
   "kasheruka": {
    "binomial": "Scirpus kysoor",
-   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. API Part I, Volume I: KASERU (Rhizome)",
+   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. I: KASERU (Rhizome)",
    "source": "api"
   },
   "katphala": {
@@ -320,12 +335,12 @@
   },
   "katuki": {
    "binomial": "Picrorhiza kurroa",
-   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. Volume II: KATUKA (Rhizome)",
+   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. II: KATUKA (Rhizome)",
    "source": "api"
   },
   "kembuka": {
    "binomial": "Costus speciosus",
-   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. API Part I, Volume V: KEBUKA (Rhizome)",
+   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. V: KEBUKA (Rhizome)",
    "source": "api"
   },
   "ketaki": {
@@ -446,6 +461,11 @@
    "binomial": "Raphanus sativus",
    "note": "Confirmed. Mulaka/Muli = radish is uniform across dravyaguna literature and Sanskrit lexica (wisdomlib: Mulaka = radish, Brassicaceae, identified with Raphanus sativus), and the review literature treats Mulaka explicitly as Raphanus sativus Linn. Attempted refutation on two grounds and both failed: "
   },
+  "nadi-hingu": {
+   "binomial": "Gardenia gummifera",
+   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. VI: NADIHINGU (Exudate)",
+   "source": "api"
+  },
   "nagakesara": {
    "binomial": "Mesua ferrea",
    "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. II: NAGAKESARA (Stamen)",
@@ -499,7 +519,7 @@
   },
   "pashanabheda": {
    "binomial": "Bergenia ciliata",
-   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. Volume I: PAS ANABHEDA (Rhizome)",
+   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. I: PAS ANABHEDA (Rhizome)",
    "source": "api"
   },
   "patala": {
@@ -509,7 +529,7 @@
   },
   "patha": {
    "binomial": "Cissampelos pareira",
-   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. Volume I: PATHA (Root)",
+   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. I: PATHA (Root)",
    "source": "api"
   },
   "pilu": {
@@ -541,7 +561,7 @@
   },
   "rohisha": {
    "binomial": "Cymbopogon martinii",
-   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. API Part I, Volume V: ROHISA (Whole Plant)",
+   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. V: ROHISA (Whole Plant)",
    "source": "api"
   },
   "rohitaka": {
@@ -562,6 +582,11 @@
    "binomial": "Alstonia scholaris",
    "note": "Confirmed. Saptaparna (\"seven-leaved\", Hindi Chhatim/Satona, Saptachhada) is uniformly Alstonia scholaris (L.) R.Br., Apocynaceae, across the Ayurvedic Pharmacopoeia of India (stem bark monograph) and dravyaguna literature; no competing botanical claimant found. POWO lists Alstonia scholaris (L.) R."
   },
+  "sarja": {
+   "binomial": "Vateria indica",
+   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. IV: SARJA (Exudate)",
+   "source": "api"
+  },
   "satyanashi": {
    "binomial": "Argemone mexicana",
    "note": "Confirmed. Satyanashi is the standard Hindi name for the Mexican prickly poppy, Argemone mexicana L. (Papaveraceae); POWO gives Argemone mexicana L. as the accepted name (IPNI 18816-2). No correction needed. I checked for the usual trap here: the Sanskrit synonym Swarnakshiri is regionally ambiguous"
@@ -572,17 +597,17 @@
   },
   "shana": {
    "binomial": "Crotalaria juncea",
-   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. Volume III: SANA (Seed)",
+   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. III: SANA (Seed)",
    "source": "api"
   },
   "shankhpushpi": {
    "binomial": "Convolvulus pluricaulis",
-   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. API Part I, Volume II: SANKHAPUSPI (Whole Plant)",
+   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. II: SANKHAPUSPI (Whole Plant)",
    "source": "api"
   },
   "shara": {
    "binomial": "Saccharum bengalense",
-   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. API Part I, Volume III: SARA (Root)",
+   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. III: SARA (Root)",
    "source": "api"
   },
   "sharapunkha": {
@@ -596,6 +621,11 @@
   "simsapa": {
    "binomial": "Dalbergia sissoo",
    "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. III: SIMSAPA (Heart Wood)",
+   "source": "api"
+  },
+  "sthuneyaka": {
+   "binomial": "Taxus baccata",
+   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. III: STHAUNEYA (Leaf)",
    "source": "api"
   },
   "tagara": {
@@ -612,7 +642,7 @@
   },
   "talisapatra": {
    "binomial": "Abies webbiana",
-   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. Volume IV: TALISA (Leaves)",
+   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. IV: TALISA (Leaves)",
    "source": "api"
   },
   "tamalpatra": {
@@ -628,7 +658,7 @@
   },
   "taruni": {
    "binomial": "Rosa centifolia",
-   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. Volume III: SATAPATRIKA (Flower)",
+   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. III: SATAPATRIKA (Flower)",
    "source": "api"
   },
   "tejapatra": {
@@ -638,6 +668,11 @@
   "tila-patra": {
    "binomial": "Sesamum indicum",
    "note": "Confirmed; accepted name verified (Sesamum indicum L., Pedaliaceae, ACCEPTED in GBIF; Sesamum orientale is the synonym). Tila is Sesamum indicum throughout the Ayurvedic pharmacopoeia with no competing identification, and Tila Patra is simply the leaf of that same plant, a plant part rather than a s"
+  },
+  "tintidika": {
+   "binomial": "Rhus parviflora",
+   "note": "Ayurvedic Pharmacopoeia of India, Part I, Vol. V: TINTIDIKAH (Aerial Part)",
+   "source": "api"
   },
   "trapusha": {
    "binomial": "Cucumis sativus",

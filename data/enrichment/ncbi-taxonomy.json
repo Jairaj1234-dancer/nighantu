@@ -1,6 +1,6 @@
 {
  "updatedAt": "2026-09-17",
- "count": 279,
+ "count": 284,
  "entries": {
   "Abelmoschus moschatus": {
    "status": "ok",
@@ -362,6 +362,11 @@
    "taxid": "48106",
    "checkedAt": "2026-09-12"
   },
+  "Centratherum anthelminticum": {
+   "status": "not-found",
+   "hits": 0,
+   "checkedAt": "2026-09-17"
+  },
   "Cichorium intybus": {
    "status": "ok",
    "taxid": "13427",
@@ -502,6 +507,11 @@
    "taxid": "136224",
    "checkedAt": "2026-09-12"
   },
+  "Cymbopogon citratus": {
+   "status": "ok",
+   "taxid": "66014",
+   "checkedAt": "2026-09-17"
+  },
   "Cymbopogon martinii": {
    "status": "ok",
    "taxid": "79837",
@@ -631,6 +641,11 @@
    "status": "ok",
    "taxid": "1220708",
    "checkedAt": "2026-09-12"
+  },
+  "Gardenia gummifera": {
+   "status": "ok",
+   "taxid": "1357586",
+   "checkedAt": "2026-09-17"
   },
   "Gloriosa superba": {
    "status": "ok",
@@ -1102,6 +1117,11 @@
    "taxid": "4060",
    "checkedAt": "2026-09-12"
   },
+  "Rhus parviflora": {
+   "status": "ok",
+   "taxid": "1565472",
+   "checkedAt": "2026-09-17"
+  },
   "Ricinus communis": {
    "status": "ok",
    "taxid": "3988",
@@ -1346,6 +1366,11 @@
    "status": "ok",
    "taxid": "55324",
    "checkedAt": "2026-09-12"
+  },
+  "Vateria indica": {
+   "status": "ok",
+   "taxid": "1260927",
+   "checkedAt": "2026-09-17"
   },
   "Vetiveria zizanioides": {
    "status": "ok",

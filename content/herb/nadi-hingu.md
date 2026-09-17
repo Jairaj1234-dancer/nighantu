@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Nadi Hingu is a substance used in the Ayurvedic materia medica. Volatile sulfur compounds are rapidly absorbed but also rapidly metabolized. Gum-resin matrix provides sustained release of active compounds in the GI tract."
-botanical: ""
+answer: "Nadi Hingu (Gardenia gummifera) is a plant used in Ayurveda. Volatile sulfur compounds are rapidly absorbed but also rapidly metabolized. Gum-resin matrix provides sustained release of active compounds in the GI tract."
+botanical: "Gardenia gummifera"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: ["Nadi Hingu", "NadiHingu"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 351
+words: 330
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nadi-Hingu/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nadi-Hingu/meta-analysis.md"
 | **Guna** (Quality) | Laghu, Tikshna | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

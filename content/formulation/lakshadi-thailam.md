@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Tailas-Medicated-Oils"
-answer: "Lakshadi Thailam is a classical Ayurvedic taila, a medicated oil. Referenced in Ashtanga Hridayam (Uttarasthana). One of the most important classical formulations for paediatric care (Bala Chikitsa) in Ayurveda, specifically mentioned for infant massage and child development."
+answer: "Lakshadi Thailam is a classical Ayurvedic taila, a medicated oil. Referenced in Ashtanga Hridayam (Uttarasthana). Ashtanga Hridayam (Uttarasthana - Balopacharaneeya / Paediatric chapter). One of the most important classical formulations for paediatric care (Bala Chikitsa) in Ayurveda, specifically mentioned for infant massage and child development."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Lakshadi Thailam", "LakshadiThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 577
+words: 495
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Lakshadi-Thailam/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,23 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Lakshadi-Th
 | Language | Name |
 |----------|------|
 | English | [Lakshadi Thailam](/nighantu/formulation/lakshadi-thailam/) |
-
-## Key Ingredients
-
-- [Laksha](/nighantu/glossary/concepts-a-m/#laksha) (Laccifer lacca / Lac resin) - primary ingredient
-- [Ashwagandha](/nighantu/herb/ashwagandha/) (Withania somnifera)
-- [Haridra](/nighantu/herb/haridra/) (Curcuma longa / [Turmeric](/nighantu/herb/turmeric/))
-- [Devadaru](/nighantu/herb/devadaru/) (Cedrus deodara / Himalayan Cedar)
-- [Nirgundi](/nighantu/herb/nirgundi/) (Vitex negundo / Five-leaved Chaste Tree)
-- Pushkaramoola (Inula racemosa)
-- [Chandana](/nighantu/herb/chandana/) (Santalum album / Sandalwood)
-- Musta (Cyperus rotundus / Nutgrass)
-- [Katuki](/nighantu/herb/katuki/) (Picrorhiza kurroa)
-- [Rasna](/nighantu/herb/rasna/) (Pluchea lanceolata)
-- Shatapushpa (Anethum graveolens / Dill)
-- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (Glycyrrhiza glabra / Licorice)
-- [Dadhi](/nighantu/herb/dadhi/) (Curd/Whey)
-- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) ([Tila](/nighantu/herb/tila/) taila) base
 
 ## Where is it described in the classical texts?
 

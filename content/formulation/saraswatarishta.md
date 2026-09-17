@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Arishtas-Asavas-Fermented"
-answer: "Saraswatarishta is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI), Parts I and II. Originally classified as a Medhya Rasayana (mind rejuvenator) from the Vedic period (circa 1000 BCE)."
+answer: "Saraswatarishta is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI), Parts I and II. Charaka Samhita and Sushruta Samhita. Originally classified as a Medhya Rasayana (mind rejuvenator) from the Vedic period (circa 1000 BCE)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 428
+words: 383
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Saraswatarishta/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,20 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Saraswa
 | Language | Name |
 |----------|------|
 | English | Saraswatarishta |
-
-## Key Ingredients
-
-- [Brahmi](/nighantu/herb/brahmi/) (Bacopa monnieri)
-- Shankhapushpi (Convolvulus pluricaulis)
-- [Vacha](/nighantu/herb/vacha/) (Acorus calamus)
-- [Madhuka](/nighantu/herb/madhuka/)/[Yashtimadhu](/nighantu/herb/yashtimadhu/) (Glycyrrhiza glabra)
-- [Ashwagandha](/nighantu/herb/ashwagandha/) (Withania somnifera)
-- [Shatavari](/nighantu/herb/shatavari/) (Asparagus racemosus)
-- [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula)
-- [Dhataki](/nighantu/herb/dhataki/) pushpa (Woodfordia fruticosa)
-- Saunf (Foeniculum vulgare)
-- [Vidanga](/nighantu/herb/vidanga/) (Embelia ribes)
-- Jaggery (fermentation medium)
 
 ## Where is it described in the classical texts?
 

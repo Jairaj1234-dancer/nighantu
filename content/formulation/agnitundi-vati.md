@@ -16,7 +16,7 @@ aliases: ["Agnitundi Vati", "AgnitundiVati"]
 tags: ["ayurveda", "formulation", "vati", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 540
+words: 481
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Agnitundi-Vati/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,20 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Agnitundi-Vati/meta
 | Language | Name |
 |----------|------|
 | English | [Agnitundi Vati](/nighantu/formulation/agnitundi-vati/) |
-
-## Key Ingredients
-
-- Shuddha Hingula (Purified Cinnabar - HgS)
-- Shuddha [Vatsanabha](/nighantu/herb/vatsanabha/) (Purified Aconitum ferox)
-- Shuddha [Gandhaka](/nighantu/glossary/concepts-a-m/#gandhaka) (Purified Sulphur)
-- [Pippali](/nighantu/herb/pippali/) (Piper longum)
-- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale)
-- Maricha (Piper nigrum)
-- [Hingu](/nighantu/herb/hingu/)/Hing (Ferula asafoetida)
-- [Triphala](/nighantu/herb/triphala/) - [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula), [Bibhitaki](/nighantu/herb/bibhitaki/) (Terminalia bellirica), Amalaki (Emblica officinalis)
-- Chitraka (Plumbago zeylanica)
-- Ajamoda (Apium graveolens/Trachyspermum roxburghianum)
-- [Chavya](/nighantu/herb/chavya/) (Piper chaba)
 
 ## Where is it described in the classical texts?
 

@@ -16,7 +16,7 @@ aliases: ["Bilwadi Leha", "BilwadiLeha"]
 tags: ["ayurveda", "formulation", "leham", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 580
+words: 519
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Bilwadi-Leha/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,19 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Bilwadi-Le
 | Language | Name |
 |----------|------|
 | English | [Bilwadi Leha](/nighantu/formulation/bilwadi-leha/) |
-
-## Key Ingredients
-
-- Bilwa (Aegle marmelos / Bael)
-- [Guda](/nighantu/glossary/concepts-a-m/#guda) (Jaggery - one year old)
-- Musta (Cyperus rotundus / Nutgrass)
-- [Dhanyaka](/nighantu/herb/dhanyaka/) (Coriandrum sativum / [Coriander](/nighantu/herb/coriander/))
-- [Jeeraka](/nighantu/herb/jeeraka/) (Cuminum cyminum / [Cumin](/nighantu/herb/cumin/))
-- Ajaji (Carum carvi / Caraway)
-- Ela (Elettaria cardamomum / Cardamom)
-- Twak (Cinnamomum zeylanicum / Cinnamon)
-- [Nagakesara](/nighantu/herb/nagakesara/) (Mesua ferrea / Indian ironwood)
-- [Trikatu](/nighantu/herb/trikatu/) (Shunthi, Maricha, [Pippali](/nighantu/herb/pippali/))
 
 ## Where is it described in the classical texts?
 

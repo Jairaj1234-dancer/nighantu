@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Arishtas-Asavas-Fermented"
-answer: "Balarishta is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI). Also referenced in Charaka Samhita for Balya (strength-promoting) indications. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence."
+answer: "Balarishta is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI). Bhaishajya Ratnavali (13th century CE), where it was called Baladwaya Arishta or nourishing fermented tonic."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 472
+words: 430
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Balarishta/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,19 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Balaris
 | Language | Name |
 |----------|------|
 | English | Balarishta |
-
-## Key Ingredients
-
-- [Bala](/nighantu/herb/bala/) (Sida cordifolia)
-- [Ashwagandha](/nighantu/herb/ashwagandha/) (Withania somnifera)
-- [Dhataki](/nighantu/herb/dhataki/) pushpa (Woodfordia fruticosa)
-- [Rasna](/nighantu/herb/rasna/) (Pluchea lanceolata)
-- [Eranda](/nighantu/herb/eranda/) (Ricinus communis)
-- Elaichi (Elettaria cardamomum)
-- [Prasarini](/nighantu/herb/prasarini/) (Paederia foetida)
-- [Laung](/nighantu/herb/laung/) (Syzygium aromaticum)
-- [Ushira](/nighantu/herb/ushira/) (Vetiveria zizanioides)
-- [Gokshura](/nighantu/herb/gokshura/) (Tribulus terrestris)
 
 ## Where is it described in the classical texts?
 

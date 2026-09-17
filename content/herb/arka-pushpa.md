@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Respiratory-Health"
-answer: "Arka Pushpa is a substance used in the Ayurvedic materia medica. Flavonoids and triterpenoids in flowers have moderate oral bioavailability. The flower is traditionally considered the mildest part of Arka and is used for digestive (Deepana) and respiratory applications."
-botanical: ""
+answer: "Arka Pushpa (Calotropis procera) is a plant used in Ayurveda. Flavonoids and triterpenoids in flowers have moderate oral bioavailability. The flower is traditionally considered the mildest part of Arka and is used for digestive (Deepana) and respiratory applications."
+botanical: "Calotropis procera"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: ["Arka Pushpa", "ArkaPushpa"]
 tags: ["ayurveda", "herb", "single-herb", "respiratory-health", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 302
+words: 281
 srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Arka-Pushpa/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Arka-Pushpa/meta-analysi
 | **Guna** (Quality) | Laghu | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

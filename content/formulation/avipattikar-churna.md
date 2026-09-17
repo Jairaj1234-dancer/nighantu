@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Churnas-Powders"
-answer: "Avipattikar Churna is a classical Ayurvedic churna, a fine herbal powder. Listed in the Ayurvedic Formulary of India (AFI) Part I. Also referenced in Sharangdhara Samhita and Chakradatta. Described as a premier formulation for Amlapitta (hyperacidity) in classical Ayurvedic literature."
+answer: "Avipattikar Churna is a classical Ayurvedic churna, a fine herbal powder. Listed in the Ayurvedic Formulary of India (AFI) Part I. Bhaishajya Ratnavali (Amlapitta Rogadhikara). Also referenced in Sharangdhara Samhita and Chakradatta."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Avipattikar Churna", "AvipattikarChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 536
+words: 462
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Avipattikar-Churna/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,23 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Avipattikar-Churn
 | Language | Name |
 |----------|------|
 | English | [Avipattikar](/nighantu/herb/avipattikar/) Churna |
-
-## Key Ingredients
-
-- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale) - [Ginger](/nighantu/herb/ginger/)
-- Maricha (Piper nigrum) - [Black pepper](/nighantu/herb/black-pepper/)
-- [Pippali](/nighantu/herb/pippali/) (Piper longum) - Long pepper
-- [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula)
-- Vibhitaki (Terminalia bellerica)
-- Amalaki (Emblica officinalis)
-- Musta (Cyperus rotundus)
-- [Vida Lavana](/nighantu/herb/vida-lavana/) (Black salt)
-- [Vidanga](/nighantu/herb/vidanga/) (Embelia ribes)
-- Ela (Amomum subulatum) - Cardamom
-- Patra (Cinnamomum tamala) - Bay leaf
-- [Lavanga](/nighantu/herb/lavanga/) (Syzygium aromaticum) - Clove
-- [Trivrit](/nighantu/herb/trivrit/) (Operculina turpethum)
-- Sharkara (Sugar candy)
 
 ## Where is it described in the classical texts?
 

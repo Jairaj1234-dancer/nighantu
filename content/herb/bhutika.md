@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Digestive-Health"
-answer: "Bhutika is a substance used in the Ayurvedic materia medica. Primarily used in external and fumigation applications traditionally. Bioavailability: Limited modern pharmacokinetic data. Volatile aromatic compounds are rapidly absorbed via inhalation (fumigation route) and transdermally."
-botanical: ""
+answer: "Bhutika (Cymbopogon citratus) is a plant used in Ayurveda. Primarily used in external and fumigation applications traditionally. Bioavailability: Limited modern pharmacokinetic data. Volatile aromatic compounds are rapidly absorbed via inhalation (fumigation route) and transdermally."
+botanical: "Cymbopogon citratus"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "digestive-health", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 296
+words: 275
 srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Bhutika/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Bhutika/meta-analysis.md"
 | **Guna** (Quality) | Laghu, Tikshna | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Arishtas-Asavas-Fermented"
-answer: "Punarnavasava is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI). The Arishta preparation method (fermenting decoctions with jaggery) described in Rasatarangini of Nagarjuna (circa 10th century CE)."
+answer: "Punarnavasava is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI). Charaka Samhita and Bhaishajya Ratnavali (circa 400-200 BCE origin). The Arishta preparation method (fermenting decoctions with jaggery) described in Rasatarangini of Nagarjuna (circa 10th century CE)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 441
+words: 386
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Punarnavasava/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,22 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Punarna
 | Language | Name |
 |----------|------|
 | English | Punarnavasava |
-
-## Key Ingredients
-
-- [Punarnava](/nighantu/herb/punarnava/) (Boerhavia diffusa)
-- [Gokshura](/nighantu/herb/gokshura/) (Tribulus terrestris)
-- [Pippali](/nighantu/herb/pippali/) (Piper longum)
-- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale)
-- Maricha (Piper nigrum)
-- Darvi/[Daruharidra](/nighantu/herb/daruharidra/) (Berberis aristata)
-- [Triphala](/nighantu/herb/triphala/) ([Haritaki](/nighantu/herb/haritaki/), [Bibhitaki](/nighantu/herb/bibhitaki/), Amalaki)
-- [Vasaka](/nighantu/herb/vasaka/) (Adhatoda vasica)
-- Musta (Cyperus rotundus)
-- [Vidanga](/nighantu/herb/vidanga/) (Embelia ribes)
-- [Kantakari](/nighantu/herb/kantakari/) (Solanum xanthocarpum)
-- [Patola](/nighantu/herb/patola/) (Trichosanthes dioica)
-- [Dhataki](/nighantu/herb/dhataki/) pushpa (Woodfordia fruticosa)
 
 ## Where is it described in the classical texts?
 

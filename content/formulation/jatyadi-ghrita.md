@@ -16,7 +16,7 @@ aliases: ["Jatyadi Ghrita", "JatyadiGhrita"]
 tags: ["ayurveda", "formulation", "ghritam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 657
+words: 606
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Jatyadi-Ghrita/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,19 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Jatyadi-G
 | Language | Name |
 |----------|------|
 | English | Jatyadi [Ghrita](/nighantu/herb/ghrita/)|Jatyadi Ghrita |
-
-## Key Ingredients
-
-- [Jati](/nighantu/herb/jati/) (Jasminum officinale / Jasmine)
-- [Nimba](/nighantu/herb/nimba/) (Azadirachta indica / [Neem](/nighantu/herb/neem/))
-- [Haridra](/nighantu/herb/haridra/) (Curcuma longa / [Turmeric](/nighantu/herb/turmeric/))
-- [Sariva](/nighantu/herb/sariva/) (Hemidesmus indicus / Indian sarsaparilla)
-- [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula)
-- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (Glycyrrhiza glabra / Licorice)
-- Kutki (Picrorhiza kurroa)
-- Siktha (Beeswax)
-- [Tuttha](/nighantu/glossary/concepts-m-y/#tuttha) (Copper sulfate)
-- [Ghrita](/nighantu/herb/ghrita/) (clarified cow butter)
 
 ## Where is it described in the classical texts?
 

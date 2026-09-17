@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Kashayams-Decoctions"
-answer: "Dashamoola Katutraya Kashayam is a classical Ayurvedic kashaya, a water decoction. Listed in the Ayurvedic Formulary of India (AFI). Refined in the Travancore region and documented in Kerala Bhaishajya Ratnavali as Dashamoolakatutrayam Kashayam for stubborn coughs, chronic arthritis, and post-natal weakness."
+answer: "Dashamoola Katutraya Kashayam is a classical Ayurvedic kashaya, a water decoction. Listed in the Ayurvedic Formulary of India (AFI). Ashtanga Hridaya (Dashamoola Kwatham section). Refined in the Travancore region and documented in Kerala Bhaishajya Ratnavali as Dashamoolakatutrayam Kashayam for stubborn coughs, chronic arthritis, and post-natal weakness."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Dashamoola Katutraya Kashayam", "DashamoolaKatutrayaKashayam"]
 tags: ["ayurveda", "formulation", "kashayam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 484
+words: 431
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Dashamoola-Katutraya-Kashayam/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,12 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Dashamoola-K
 | Language | Name |
 |----------|------|
 | English | [Dashamoola](/nighantu/herb/dashamoola/) Katutraya Kashayam |
-
-## Key Ingredients
-
-- [Dashamoola](/nighantu/herb/dashamoola/) (ten roots): [Bilva](/nighantu/herb/bilva/) (Aegle marmelos), [Agnimantha](/nighantu/herb/agnimantha/) (Premna mucronata), [Shyonaka](/nighantu/herb/shyonaka/) (Oroxylum indicum), [Patala](/nighantu/herb/patala/) (Stereospermum suaveolens), [Gambhari](/nighantu/herb/gambhari/) (Gmelina arborea), [Brihati](/nighantu/herb/brihati/) (Solanum indicum), [Kantakari](/nighantu/herb/kantakari/) (Solanum xanthocarpum), [Gokshura](/nighantu/herb/gokshura/) (Tribulus terrestris), Shalaparni (Desmodium gangeticum), Prishnaparni (Uraria picta)
-- [Trikatu](/nighantu/herb/trikatu/): Maricha/[Black pepper](/nighantu/herb/black-pepper/) (Piper nigrum), [Pippali](/nighantu/herb/pippali/)/Long pepper (Piper longum), Shunthi/[Ginger](/nighantu/herb/ginger/) ([Zingiber](/nighantu/herb/zingiber/) officinale)
-- [Vasa](/nighantu/herb/vasa/) (Adhatoda vasica)
 
 ## Where is it described in the classical texts?
 

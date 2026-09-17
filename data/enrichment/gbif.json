@@ -1,6 +1,6 @@
 {
  "updatedAt": "2026-09-17",
- "count": 283,
+ "count": 288,
  "entries": {
   "Abelmoschus moschatus": {
    "status": "ok",
@@ -1226,6 +1226,23 @@
    "acceptedKey": null,
    "checkedAt": "2026-09-12"
   },
+  "Centratherum anthelminticum": {
+   "status": "ok",
+   "gbifKey": 3087257,
+   "scientificName": "Centratherum anthelminticum (L.) Gamble",
+   "canonicalName": "Centratherum anthelminticum",
+   "rank": "SPECIES",
+   "taxonomicStatus": "SYNONYM",
+   "matchType": "EXACT",
+   "confidence": 97,
+   "kingdom": "Plantae",
+   "family": "Asteraceae",
+   "order": "Asterales",
+   "genus": "Baccharoides",
+   "acceptedName": "Baccharoides anthelmintica (L.) Moench",
+   "acceptedKey": 3087253,
+   "checkedAt": "2026-09-17"
+  },
   "Cichorium intybus": {
    "status": "ok",
    "gbifKey": 5392252,
@@ -1702,6 +1719,23 @@
    "acceptedKey": null,
    "checkedAt": "2026-09-12"
   },
+  "Cymbopogon citratus": {
+   "status": "ok",
+   "gbifKey": 2705275,
+   "scientificName": "Cymbopogon citratus (DC.) Stapf",
+   "canonicalName": "Cymbopogon citratus",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 99,
+   "kingdom": "Plantae",
+   "family": "Poaceae",
+   "order": "Poales",
+   "genus": "Cymbopogon",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-17"
+  },
   "Cymbopogon martinii": {
    "status": "ok",
    "gbifKey": 7421320,
@@ -2148,6 +2182,23 @@
    "acceptedName": "",
    "acceptedKey": null,
    "checkedAt": "2026-09-12"
+  },
+  "Gardenia gummifera": {
+   "status": "ok",
+   "gbifKey": 5335166,
+   "scientificName": "Gardenia gummifera L.f.",
+   "canonicalName": "Gardenia gummifera",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 99,
+   "kingdom": "Plantae",
+   "family": "Rubiaceae",
+   "order": "Gentianales",
+   "genus": "Gardenia",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-17"
   },
   "Gloriosa superba": {
    "status": "ok",
@@ -3762,6 +3813,23 @@
    "acceptedKey": null,
    "checkedAt": "2026-09-12"
   },
+  "Rhus parviflora": {
+   "status": "ok",
+   "gbifKey": 3662246,
+   "scientificName": "Rhus parviflora Roxb.",
+   "canonicalName": "Rhus parviflora",
+   "rank": "SPECIES",
+   "taxonomicStatus": "SYNONYM",
+   "matchType": "EXACT",
+   "confidence": 98,
+   "kingdom": "Plantae",
+   "family": "Anacardiaceae",
+   "order": "Sapindales",
+   "genus": "Searsia",
+   "acceptedName": "Searsia parviflora (Roxb.) F.A.Barkley",
+   "acceptedKey": 5544265,
+   "checkedAt": "2026-09-17"
+  },
   "Ricinus communis": {
    "status": "ok",
    "gbifKey": 5380041,
@@ -4594,6 +4662,23 @@
    "acceptedName": "",
    "acceptedKey": null,
    "checkedAt": "2026-09-12"
+  },
+  "Vateria indica": {
+   "status": "ok",
+   "gbifKey": 3189688,
+   "scientificName": "Vateria indica L.",
+   "canonicalName": "Vateria indica",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 97,
+   "kingdom": "Plantae",
+   "family": "Dipterocarpaceae",
+   "order": "Malvales",
+   "genus": "Vateria",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-17"
   },
   "Vetiveria zizanioides": {
    "status": "ok",

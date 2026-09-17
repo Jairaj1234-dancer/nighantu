@@ -6,15 +6,15 @@
   "NCBI Taxonomy, https://www.ncbi.nlm.nih.gov/taxonomy"
  ],
  "summary": {
-  "botanicals": 280,
-  "resolved": 279,
-  "exact": 272,
+  "botanicals": 285,
+  "resolved": 284,
+  "exact": 277,
   "fuzzy": 1,
   "higherRank": 6,
-  "synonyms": 34,
+  "synonyms": 36,
   "notFound": 1,
-  "withWikidata": 264,
-  "withNcbiTaxid": 272
+  "withWikidata": 269,
+  "withNcbiTaxid": 276
  },
  "taxa": [
   {
@@ -1774,6 +1774,12 @@
    "pages": [
     {
      "kind": "herb",
+     "slug": "arka-pushpa",
+     "title": "Arka Pushpa",
+     "asPublished": "Calotropis procera"
+    },
+    {
+     "kind": "herb",
      "slug": "arka",
      "title": "Arka",
      "asPublished": "Calotropis procera"
@@ -2110,6 +2116,34 @@
    "checkedAt": "2026-09-12",
    "wikidata": "Q324714",
    "ncbiTaxid": "48106"
+  },
+  {
+   "query": "Centratherum anthelminticum",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "aranya-jeeraka",
+     "title": "Aranya Jeeraka",
+     "asPublished": "Centratherum anthelminticum"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 3087257,
+   "scientificName": "Centratherum anthelminticum (L.) Gamble",
+   "canonicalName": "Centratherum anthelminticum",
+   "rank": "SPECIES",
+   "taxonomicStatus": "SYNONYM",
+   "matchType": "EXACT",
+   "confidence": 97,
+   "kingdom": "Plantae",
+   "family": "Asteraceae",
+   "order": "Asterales",
+   "genus": "Baccharoides",
+   "acceptedName": "Baccharoides anthelmintica (L.) Moench",
+   "acceptedKey": 3087253,
+   "checkedAt": "2026-09-17",
+   "wikidata": "Q50840345",
+   "ncbiTaxid": ""
   },
   {
    "query": "Cichorium intybus",
@@ -2962,6 +2996,34 @@
    "ncbiTaxid": "136224"
   },
   {
+   "query": "Cymbopogon citratus",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "bhutika",
+     "title": "Bhutika",
+     "asPublished": "Cymbopogon citratus"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 2705275,
+   "scientificName": "Cymbopogon citratus (DC.) Stapf",
+   "canonicalName": "Cymbopogon citratus",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 99,
+   "kingdom": "Plantae",
+   "family": "Poaceae",
+   "order": "Poales",
+   "genus": "Cymbopogon",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-17",
+   "wikidata": "Q33913",
+   "ncbiTaxid": "66014"
+  },
+  {
    "query": "Cymbopogon martinii",
    "pages": [
     {
@@ -3706,6 +3768,34 @@
    "checkedAt": "2026-09-12",
    "wikidata": "Q10935878",
    "ncbiTaxid": "1220708"
+  },
+  {
+   "query": "Gardenia gummifera",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "nadi-hingu",
+     "title": "Nadi Hingu",
+     "asPublished": "Gardenia gummifera"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 5335166,
+   "scientificName": "Gardenia gummifera L.f.",
+   "canonicalName": "Gardenia gummifera",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 99,
+   "kingdom": "Plantae",
+   "family": "Rubiaceae",
+   "order": "Gentianales",
+   "genus": "Gardenia",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-17",
+   "wikidata": "Q1595858",
+   "ncbiTaxid": "1357586"
   },
   {
    "query": "Gloriosa superba",
@@ -6512,6 +6602,34 @@
    "ncbiTaxid": "4060"
   },
   {
+   "query": "Rhus parviflora",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "tintidika",
+     "title": "Tintidika",
+     "asPublished": "Rhus parviflora"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 3662246,
+   "scientificName": "Rhus parviflora Roxb.",
+   "canonicalName": "Rhus parviflora",
+   "rank": "SPECIES",
+   "taxonomicStatus": "SYNONYM",
+   "matchType": "EXACT",
+   "confidence": 98,
+   "kingdom": "Plantae",
+   "family": "Anacardiaceae",
+   "order": "Sapindales",
+   "genus": "Searsia",
+   "acceptedName": "Searsia parviflora (Roxb.) F.A.Barkley",
+   "acceptedKey": 5544265,
+   "checkedAt": "2026-09-17",
+   "wikidata": "Q50867307",
+   "ncbiTaxid": "1565472"
+  },
+  {
    "query": "Ricinus communis",
    "pages": [
     {
@@ -7497,6 +7615,12 @@
      "slug": "sthneyaka",
      "title": "Sthneyaka",
      "asPublished": "Taxus baccata L. (possibly Taxus wallichiana Zucc. in Indian context)"
+    },
+    {
+     "kind": "herb",
+     "slug": "sthuneyaka",
+     "title": "Sthuneyaka",
+     "asPublished": "Taxus baccata"
     }
    ],
    "status": "ok",
@@ -7960,6 +8084,34 @@
    "checkedAt": "2026-09-12",
    "wikidata": "Q159160",
    "ncbiTaxid": "55324"
+  },
+  {
+   "query": "Vateria indica",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "sarja",
+     "title": "Sarja",
+     "asPublished": "Vateria indica"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 3189688,
+   "scientificName": "Vateria indica L.",
+   "canonicalName": "Vateria indica",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 97,
+   "kingdom": "Plantae",
+   "family": "Dipterocarpaceae",
+   "order": "Malvales",
+   "genus": "Vateria",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-09-17",
+   "wikidata": "Q2576684",
+   "ncbiTaxid": "1260927"
   },
   {
    "query": "Vetiveria zizanioides",

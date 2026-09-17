@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Kashayams-Decoctions"
-answer: "Amritottaram Kashayam is a classical Ayurvedic kashaya, a water decoction. Listed in the Ayurvedic Formulary of India (AFI). Amrita/Guduchi (Tinospora cordifolia) - 6 parts Shunthi/Ginger (Zingiber officinale) - 2 parts Haritaki (Terminalia chebula) - 4 parts Sahasrayogam, Jwara Chikitsa (fever treatment section)."
+answer: "Amritottaram Kashayam is a classical Ayurvedic kashaya, a water decoction. Listed in the Ayurvedic Formulary of India (AFI). Sahasrayogam, Jwara Chikitsa (fever treatment section). Also referenced in Rasa Tarangini and Bhaishajya Ratnavali under divya kashaya for strengthening innate defense mechanisms."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Amritottaram Kashayam", "AmritottaramKashayam"]
 tags: ["ayurveda", "formulation", "kashayam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 448
+words: 427
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Amritottaram-Kashayam/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,12 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Amritottaram
 | Language | Name |
 |----------|------|
 | English | [Amritottaram Kashayam](/nighantu/formulation/amritottaram-kashayam/) |
-
-## Key Ingredients
-
-- Amrita/[Guduchi](/nighantu/herb/guduchi/) (Tinospora cordifolia) - 6 parts
-- Shunthi/[Ginger](/nighantu/herb/ginger/) ([Zingiber](/nighantu/herb/zingiber/) officinale) - 2 parts
-- [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula) - 4 parts
 
 ## Where is it described in the classical texts?
 

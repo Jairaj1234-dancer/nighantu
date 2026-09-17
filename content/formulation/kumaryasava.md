@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Arishtas-Asavas-Fermented"
-answer: "Kumaryasava is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI). Kumari/Aloe vera (Aloe barbadensis) Dhataki pushpa (Woodfordia fruticosa) Trikatu (Pippali, Maricha, Shunthi) Haritaki (Terminalia chebula) Amalaki (Emblica officinalis) Loha Bhasma (iron calx) Jaggery (fermentation medium) Charaka Samhita and Ashtanga Hridaya."
+answer: "Kumaryasava is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI). Charaka Samhita and Ashtanga Hridaya. Chavannapalli's commentary on Madhava Nidana (16th century) describes Kumari Asava for menstrual pain and uterine tone enhancement."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 556
+words: 522
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Kumaryasava/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,16 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Kumarya
 | Language | Name |
 |----------|------|
 | English | Kumaryasava |
-
-## Key Ingredients
-
-- Kumari/[Aloe vera](/nighantu/herb/aloe-vera/) (Aloe barbadensis)
-- [Dhataki](/nighantu/herb/dhataki/) pushpa (Woodfordia fruticosa)
-- [Trikatu](/nighantu/herb/trikatu/) ([Pippali](/nighantu/herb/pippali/), Maricha, Shunthi)
-- [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula)
-- Amalaki (Emblica officinalis)
-- [Loha Bhasma](/nighantu/herb/loha-bhasma/) (iron calx)
-- Jaggery (fermentation medium)
 
 ## Where is it described in the classical texts?
 

@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Trees-Large-Plants"
-answer: "Tintidika is a substance used in the Ayurvedic materia medica. Polyphenols including proanthocyanidins and flavonoids have moderate bioavailability (15-25%). High organic acid content naturally enhances iron absorption from co-administered iron supplements or iron-rich foods."
-botanical: ""
+answer: "Tintidika (Rhus parviflora) is a plant used in Ayurveda. Polyphenols including proanthocyanidins and flavonoids have moderate bioavailability (15-25%). High organic acid content naturally enhances iron absorption from co-administered iron supplements or iron-rich foods."
+botanical: "Rhus parviflora"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 343
+words: 322
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Tintidika/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Tintidika/meta-analysis.
 | **Guna** (Quality) | Guru, Ruksha | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Amla | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

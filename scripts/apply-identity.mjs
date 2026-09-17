@@ -52,7 +52,20 @@ for (const f of fs.readdirSync(path.join('content', 'herb'))) {
 
 const binFile = path.join('data', 'binomials.json');
 const bins = JSON.parse(fs.readFileSync(binFile, 'utf8'));
-const identity = { note: '', records: {} };
+/**
+ * Existing records are kept, not rebuilt.
+ *
+ * A page whose binomial is already published is refused here ("page already has a
+ * binomial"), which is correct: it stops a second pass quietly overwriting a verified
+ * identification. But the first version rebuilt identity.json from the input alone, so
+ * re-running it after a repair pass silently deleted the Pharmacopoeia citation from all
+ * 46 pages that had one. Load what is published and merge into it.
+ */
+const identityFile = path.join('src', 'data', 'identity.json');
+const existing = fs.existsSync(identityFile)
+  ? JSON.parse(fs.readFileSync(identityFile, 'utf8')).records ?? {}
+  : {};
+const identity = { note: '', records: { ...existing } };
 const ledger = { run: 'botanical-identity-pass-2', examined: 0, accepted: [], rejected: [], classified: [] };
 
 // ---------------------------------------------------------------- 1. folder classes
@@ -116,19 +129,28 @@ for (const item of done) {
   try { g = await gbifExact(binomial); } catch (e) { refuse(slug, `GBIF unavailable: ${e.message}`); continue; }
   if (!g.exact) { refuse(slug, `GBIF not EXACT for ${binomial}`); continue; }
 
+  /**
+   * Verifiers wrote the volume three ways: "III", "Volume III", and the whole citation
+   * again ("API Part I, Volume II: SANKHAPUSP"). Rendered into "Part I, Vol. {volume}"
+   * the last two produce "Vol. Volume III" and a truncated heading, so the roman numeral
+   * is taken out of whatever was written.
+   */
+  const volume = (String(v.apiVolume ?? '').match(/\b([IVX]{1,5})\b(?!.*\b[IVX]{1,5}\b)/) ?? [])[1]
+    ?? String(v.apiVolume ?? '').replace(/^(API\s+Part\s+I,\s*)?(Volume|Vol\.?)\s*/i, '').split(':')[0].trim();
+
   bins.binomials[slug] = {
     binomial,
     note: (anchored
-      ? `Ayurvedic Pharmacopoeia of India, Part I, Vol. ${v.apiVolume}: ${v.apiHeading}`
+      ? `Ayurvedic Pharmacopoeia of India, Part I, Vol. ${volume}: ${v.apiHeading}`
       : `No API monograph; identity uncontested across sources and GBIF EXACT. ${v.reasons}`).slice(0, 300),
     source: anchored ? 'api' : 'uncontested',
   };
   identity.records[slug] = {
-    api: anchored ? { volume: v.apiVolume, heading: v.apiHeading, sentence: sentence.replace(/\s+/g, ' ').slice(0, 300) } : null,
+    api: anchored ? { volume, heading: v.apiHeading, sentence: sentence.replace(/\s+/g, ' ').slice(0, 300) } : null,
     otherAttributions: (v.otherAttributions ?? []).filter((a) => normaliseBinomial(a.binomial) && normaliseBinomial(a.binomial) !== binomial).slice(0, 6),
     gbif: { status: g.status, key: g.key },
   };
-  ledger.accepted.push({ slug, binomial, api: anchored ? `${v.apiVolume}: ${v.apiHeading}` : null, gbifStatus: g.status });
+  ledger.accepted.push({ slug, binomial, api: anchored ? `${volume}: ${v.apiHeading}` : null, gbifStatus: g.status });
 }
 
 // ---------------------------------------------------------------- write
@@ -148,6 +170,6 @@ console.log('rejections', why);
 if (DRY) process.exit(0);
 
 fs.writeFileSync(binFile, `${JSON.stringify(bins, null, 1)}\n`);
-fs.writeFileSync(path.join('src', 'data', 'identity.json'), `${JSON.stringify(identity, null, 1)}\n`);
+fs.writeFileSync(identityFile, `${JSON.stringify(identity, null, 1)}\n`);
 fs.writeFileSync(path.join('data', 'runs', 'binomial-pass2.json'), `${JSON.stringify(ledger, null, 1)}\n`);
 console.log('wrote data/binomials.json, src/data/identity.json, data/runs/binomial-pass2.json');

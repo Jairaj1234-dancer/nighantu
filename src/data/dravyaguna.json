@@ -369,7 +369,7 @@
    "kind": "herb",
    "slug": "aranya-jeeraka",
    "title": "Aranya Jeeraka",
-   "botanical": "",
+   "botanical": "Centratherum anthelminticum",
    "sanskrit": "",
    "rasa": [
     "Tikta"
@@ -514,7 +514,7 @@
    "kind": "herb",
    "slug": "arka-pushpa",
    "title": "Arka Pushpa",
-   "botanical": "",
+   "botanical": "Calotropis procera",
    "sanskrit": "",
    "rasa": [
     "Tikta",
@@ -917,7 +917,7 @@
    "kind": "herb",
    "slug": "bhutika",
    "title": "Bhutika",
-   "botanical": "",
+   "botanical": "Cymbopogon citratus",
    "sanskrit": "",
    "rasa": [
     "Katu",
@@ -3354,7 +3354,7 @@
    "kind": "herb",
    "slug": "nadi-hingu",
    "title": "Nadi Hingu",
-   "botanical": "",
+   "botanical": "Gardenia gummifera",
    "sanskrit": "",
    "rasa": [
     "Katu",
@@ -4100,7 +4100,7 @@
    "kind": "herb",
    "slug": "sarja",
    "title": "Sarja",
-   "botanical": "",
+   "botanical": "Vateria indica",
    "sanskrit": "",
    "rasa": [
     "Kashaya",
@@ -4434,7 +4434,7 @@
    "kind": "herb",
    "slug": "sthuneyaka",
    "title": "Sthuneyaka",
-   "botanical": "",
+   "botanical": "Taxus baccata",
    "sanskrit": "",
    "rasa": [
     "Tikta",
@@ -4708,7 +4708,7 @@
    "kind": "herb",
    "slug": "tintidika",
    "title": "Tintidika",
-   "botanical": "",
+   "botanical": "Rhus parviflora",
    "sanskrit": "",
    "rasa": [
     "Amla"

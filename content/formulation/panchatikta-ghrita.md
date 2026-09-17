@@ -16,7 +16,7 @@ aliases: ["Panchatikta Ghrita", "PanchatiktaGhrita"]
 tags: ["ayurveda", "formulation", "ghritam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 466
+words: 421
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Panchatikta-Ghrita/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,19 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Panchatik
 | Language | Name |
 |----------|------|
 | English | Panchatikta [Ghrita](/nighantu/herb/ghrita/)|Panchatikta Ghrita Mahatiktaka [Ghrita](/nighantu/herb/ghrita/)|Mahatiktaka Ghrita |
-
-## Key Ingredients
-
-- [Nimba](/nighantu/herb/nimba/) (Azadirachta indica / [Neem](/nighantu/herb/neem/))
-- [Patola](/nighantu/herb/patola/) (Trichosanthes dioica)
-- Vyaghri (Solanum surattense)
-- [Guduchi](/nighantu/herb/guduchi/) (Tinospora cordifolia)
-- [Vasa](/nighantu/herb/vasa/) (Adhatoda vasica)
-- [Haridra](/nighantu/herb/haridra/) (Curcuma longa / [Turmeric](/nighantu/herb/turmeric/))
-- [Triphala](/nighantu/herb/triphala/) ([Haritaki](/nighantu/herb/haritaki/), Vibhitaki, Amalaki)
-- [Chandana](/nighantu/herb/chandana/) (Sandalwood)
-- [Pippali](/nighantu/herb/pippali/) (Piper longum)
-- [Ghrita](/nighantu/herb/ghrita/) (clarified cow butter)
 
 ## Where is it described in the classical texts?
 
