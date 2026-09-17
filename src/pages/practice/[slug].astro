@@ -1,5 +1,9 @@
 ---
 import Base from '../../layouts/Base.astro';
+// Procedure pages are where a reader is closest to needing the thing itself: someone
+// reading about nasya wants the oil, someone reading about tongue scraping wants the
+// scraper. They were the only content pages carrying no product module at all.
+import ProductModule from '../../components/ProductModule.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import CiteThis from '../../components/CiteThis.astro';
 import { getCollection, render } from 'astro:content';
@@ -113,6 +117,8 @@ const jsonld = [
       <dl>{d.faq.map((f: any) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}</dl>
     </>
   )}
+
+  <ProductModule slug={d.slug} />
 
   <p class="disclaimer">
     <strong>Consult a qualified vaidya before acting on anything here.</strong> Ayurvedic
