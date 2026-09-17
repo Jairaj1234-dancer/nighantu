@@ -5,7 +5,10 @@
   "access_right": "open",
   "license": "cc-by-4.0",
   "creators": [
-    { "name": "Age Ayurveda", "affiliation": "Nitya Naturals Pvt Ltd, Prayagraj, India" }
+    {
+      "name": "Age Ayurveda",
+      "affiliation": "Nitya Naturals Pvt Ltd, Prayagraj, India"
+    }
   ],
   "keywords": [
     "Ayurveda",
@@ -24,7 +27,13 @@
       "relation": "isDerivedFrom",
       "scheme": "url",
       "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://icd.who.int/browse/2026-01/mms/en",
+      "relation": "references",
+      "scheme": "url",
+      "resource_type": "dataset"
     }
   ],
-  "notes": "Dual-licensed: content CC BY 4.0, code MIT. Product names, brand marks and product photography are excluded from the licence grant."
+  "notes": "Dual-licensed: content CC BY 4.0, code MIT. Product names, brand marks and product photography are excluded from the licence grant. Third-party material keeps its own licence and is NOT covered by the CC BY 4.0 grant: WHO ICD-11 terms, codes and category titles (in src/data/icd-tm2.json, data/enrichment/icd-tm2.json and data/sources/icd-tm2-crosswalk.json) are reproduced unaltered from the WHO classification under CC BY-ND 3.0 IGO. See LICENSES.md."
 }
