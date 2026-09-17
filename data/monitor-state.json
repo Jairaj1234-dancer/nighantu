@@ -226,7 +226,7 @@
       "https://jairaj1234-dancer.github.io/nighantu/": "82a3c2168b059b6f",
       "https://jairaj1234-dancer.github.io/nighantu/about/": "2ed3150ed210d1ce",
       "https://jairaj1234-dancer.github.io/nighantu/choosing/": "dae8915385ecbb4d",
-      "https://jairaj1234-dancer.github.io/nighantu/cite/": "ba9a3ce512b2f278",
+      "https://jairaj1234-dancer.github.io/nighantu/cite/": "45cf79649759b6a8",
       "https://jairaj1234-dancer.github.io/nighantu/compounds/": "5bfbd7594ac5fe45",
       "https://jairaj1234-dancer.github.io/nighantu/corrections/": "482ac71ad0404db9",
       "https://jairaj1234-dancer.github.io/nighantu/datasets/": "1125a3f9407beb3e",
@@ -1124,8 +1124,8 @@
       "https://jairaj1234-dancer.github.io/nighantu/verification/safety-pass4/": "fd4bda12d82c6cf7",
       "https://jairaj1234-dancer.github.io/nighantu/verification/safety-repair-02/": "a88cbdb80b699973"
     },
-    "lastSubmittedAt": "2026-09-17T05:22:16.222Z",
-    "lastSubmittedCount": 124
+    "lastSubmittedAt": "2026-09-17T05:27:26.992Z",
+    "lastSubmittedCount": 1
   },
   "products": {
     "broken": 0,
@@ -1320,6 +1320,6 @@
     "seen": 13,
     "surfaced": 2
   },
-  "updatedAt": "2026-09-17T05:22:16.222Z",
+  "updatedAt": "2026-09-17T05:27:26.992Z",
   "version": 1
 }
