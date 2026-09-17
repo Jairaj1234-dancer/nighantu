@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Tailas-Medicated-Oils"
-answer: "Anu Taila is a classical Ayurvedic taila, a medicated oil. Listed in Ayurvedic Formulary of India (AFI). Described as the foremost Nasya oil for Dinacharya (daily regimen). Contains 25+ herbs infused in sesame oil."
+answer: "Anu Taila is a classical Ayurvedic taila, a medicated oil. Listed in Ayurvedic Formulary of India (AFI). Ashtanga Hridayam (Sutrasthana Chapter 20 - Nasya Vidhi) by Vagbhata. Described as the foremost Nasya oil for Dinacharya (daily regimen)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Anu Taila", "AnuTaila"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 760
+words: 700
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Anu-Taila/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,21 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Anu-Taila/m
 | Language | Name |
 |----------|------|
 | English | [Anu Taila](/nighantu/formulation/anu-taila/) |
-
-## Key Ingredients
-
-- [Jivanti](/nighantu/herb/jivanti/) (Leptadenia reticulata)
-- [Devadaru](/nighantu/herb/devadaru/) (Cedrus deodara)
-- Shveta [Chandana](/nighantu/herb/chandana/) (Santalum album / White Sandalwood)
-- [Daruharidra](/nighantu/herb/daruharidra/) (Berberis aristata)
-- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (Glycyrrhiza glabra / Licorice)
-- Agaru (Aquilaria agallocha / Agarwood)
-- [Shatavari](/nighantu/herb/shatavari/) (Asparagus racemosus)
-- [Jatamansi](/nighantu/herb/jatamansi/) (Nardostachys [jatamansi](/nighantu/herb/jatamansi/))
-- [Nagarmotha](/nighantu/herb/nagarmotha/) (Cyperus scariosus)
-- Tejpatra (Cinnamomum tamala)
-- Shankhapushpi (Convolvulus pluricaulis)
-- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) ([Tila](/nighantu/herb/tila/) taila) base
 
 ## Where is it described in the classical texts?
 

@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Tailas-Medicated-Oils"
-answer: "Narayana Thailam is a classical Ayurvedic taila, a medicated oil. Listed in Ayurvedic Formulary of India (AFI) Part I. The foundational Narayana formulation containing 33 herbs (the 'Maha' version adds Ashtavarga to reach 50+ herbs)."
+answer: "Narayana Thailam is a classical Ayurvedic taila, a medicated oil. Listed in Ayurvedic Formulary of India (AFI) Part I. Bhaishajya Ratnavali (Vatavyadhi Chikitsa, verses 140-150) by Govind Das Sen. The foundational Narayana formulation containing 33 herbs (the 'Maha' version adds Ashtavarga to reach 50+ herbs)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Narayana Thailam", "NarayanaThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 533
+words: 480
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Narayana-Thailam/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,21 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Narayana-Th
 | Language | Name |
 |----------|------|
 | English | [Narayana Thailam](/nighantu/formulation/narayana-thailam/) |
-
-## Key Ingredients
-
-- [Dashamoola](/nighantu/herb/dashamoola/) (ten anti-inflammatory roots)
-- [Ashwagandha](/nighantu/herb/ashwagandha/) (Withania somnifera)
-- [Bala](/nighantu/herb/bala/) (Sida cordifolia)
-- [Shatavari](/nighantu/herb/shatavari/) (Asparagus racemosus)
-- [Tagara](/nighantu/herb/tagara/) (Valeriana wallichii)
-- [Jatamansi](/nighantu/herb/jatamansi/) (Nardostachys [jatamansi](/nighantu/herb/jatamansi/))
-- [Rasna](/nighantu/herb/rasna/) (Pluchea lanceolata)
-- [Devadaru](/nighantu/herb/devadaru/) (Cedrus deodara)
-- Kushta (Saussurea lappa)
-- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) ([Tila](/nighantu/herb/tila/) taila) base
-- [Shatavari](/nighantu/herb/shatavari/) juice (Swarasa)
-- Cow's milk ([Ksheera](/nighantu/herb/ksheera/))
 
 ## Where is it described in the classical texts?
 

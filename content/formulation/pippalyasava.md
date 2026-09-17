@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Arishtas-Asavas-Fermented"
-answer: "Pippalyasava is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI). Referenced in Sharangadhara Samhita and Bhaishajya Ratnavali for digestive and respiratory disorders. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence."
+answer: "Pippalyasava is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI). Classical Ayurvedic texts under Sandhana Kalpana (fermented preparations). Referenced in Sharangadhara Samhita and Bhaishajya Ratnavali for digestive and respiratory disorders."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 439
+words: 366
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Pippalyasava/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,24 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Pippaly
 | Language | Name |
 |----------|------|
 | English | Pippalyasava |
-
-## Key Ingredients
-
-- [Pippali](/nighantu/herb/pippali/) (Piper longum / Long pepper)
-- Maricha (Piper nigrum / [Black pepper](/nighantu/herb/black-pepper/))
-- [Chavya](/nighantu/herb/chavya/) (Piper cubeba)
-- [Haridra](/nighantu/herb/haridra/) (Curcuma longa / [Turmeric](/nighantu/herb/turmeric/))
-- Chitraka (Plumbago zeylanica)
-- Musta (Cyperus rotundus)
-- [Vidanga](/nighantu/herb/vidanga/) (Embelia ribes)
-- [Lodhra](/nighantu/herb/lodhra/) (Symplocos racemosa)
-- Amalaki (Emblica officinalis)
-- Elaichi (Elettaria cardamomum)
-- [Ushira](/nighantu/herb/ushira/) (Vetiveria zizanioides)
-- [Tagara](/nighantu/herb/tagara/) (Valeriana wallichii)
-- [Dhataki](/nighantu/herb/dhataki/) pushpa (Woodfordia fruticosa)
-- [Draksha](/nighantu/herb/draksha/) (Vitis vinifera / Dry grapes)
-- Jaggery (fermentation medium)
 
 ## Where is it described in the classical texts?
 

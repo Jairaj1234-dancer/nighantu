@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Arishtas-Asavas-Fermented"
-answer: "Ashokarishta is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI) Part I (Stree Rogadhikara section). Also described in Sharangdhara Samhita (Madhyama Khanda - Asava Arishta Prakarana) and Bhavaprakasha Nighantu (Madhyamakhanda)."
+answer: "Ashokarishta is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI) Part I (Stree Rogadhikara section). Bhaishajya Ratnavali (Stree Rogadhikara / Female disorders chapter). Also described in Sharangdhara Samhita (Madhyama Khanda - Asava Arishta Prakarana) and Bhavaprakasha Nighantu (Madhyamakhanda)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 676
+words: 610
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Ashokarishta/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,22 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Ashokar
 | Language | Name |
 |----------|------|
 | English | Ashokarishta |
-
-## Key Ingredients
-
-- [Ashoka](/nighantu/herb/ashoka/) bark (Saraca asoca) - primary ingredient
-- [Dhataki](/nighantu/herb/dhataki/) (Woodfordia fruticosa) - fermenting agent
-- Mustaka (Cyperus rotundus)
-- [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula)
-- Vibhitaki (Terminalia bellerica)
-- Amalaki (Emblica officinalis)
-- Shunti ([Zingiber](/nighantu/herb/zingiber/) officinale) - [Ginger](/nighantu/herb/ginger/)
-- [Daruharidra](/nighantu/herb/daruharidra/) (Berberis aristata)
-- [Utpala](/nighantu/herb/utpala/) (Nymphaea stellata)
-- Jiraka (Cuminum cyminum)
-- Adulasa (Adhatoda vasica) - Malabar nut
-- Chandan (Santalum album) - Sandalwood
-- Jaggery (fermentation substrate)
 
 ## Where is it described in the classical texts?
 

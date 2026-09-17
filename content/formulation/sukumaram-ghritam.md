@@ -16,7 +16,7 @@ aliases: ["Sukumaram Ghritam", "SukumaramGhritam"]
 tags: ["ayurveda", "formulation", "ghritam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 453
+words: 404
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Sukumaram-Ghritam/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,20 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Sukumaram
 | Language | Name |
 |----------|------|
 | English | [Sukumaram Ghritam](/nighantu/formulation/sukumaram-ghritam/) |
-
-## Key Ingredients
-
-- Vidaryadi group of herbs
-- [Bala](/nighantu/herb/bala/) (Sida cordifolia)
-- [Ashwagandha](/nighantu/herb/ashwagandha/) (Withania somnifera)
-- Kumari ([Aloe vera](/nighantu/herb/aloe-vera/))
-- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (Glycyrrhiza glabra / licorice)
-- [Dashamoola](/nighantu/herb/dashamoola/) (ten roots)
-- [Bilva](/nighantu/herb/bilva/) (Aegle marmelos)
-- [Kantakari](/nighantu/herb/kantakari/) (Solanum xanthocarpum)
-- [Patala](/nighantu/herb/patala/) (Stereospermum suaveolens)
-- [Punarnava](/nighantu/herb/punarnava/) (Boerhaavia diffusa)
-- [Ghrita](/nighantu/herb/ghrita/) (clarified cow butter)
 
 ## Where is it described in the classical texts?
 

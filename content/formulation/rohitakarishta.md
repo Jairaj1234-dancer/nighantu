@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Arishtas-Asavas-Fermented"
-answer: "Rohitakarishta is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI). Rohitaka herb is classically prescribed for liver (Yakrit), blood (Rakta), and spleen (Pleeha) disorders. Also referenced in Sushruta Samhita."
+answer: "Rohitakarishta is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI). Bhaishajya Ratnavali and Charaka Samhita. Rohitaka herb is classically prescribed for liver (Yakrit), blood (Rakta), and spleen (Pleeha) disorders."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 436
+words: 382
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Rohitakarishta/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,21 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Rohitak
 | Language | Name |
 |----------|------|
 | English | Rohitakarishta |
-
-## Key Ingredients
-
-- [Rohitaka](/nighantu/herb/rohitaka/) bark (Tecomella undulata)
-- [Dhataki](/nighantu/herb/dhataki/) Pushpa (Woodfordia fruticosa)
-- [Pippali](/nighantu/herb/pippali/) (Piper longum)
-- [Pippali](/nighantu/herb/pippali/) Mula (Piper longum root)
-- [Chavya](/nighantu/herb/chavya/) (Piper cubeba)
-- Chitraka (Plumbago zeylanica)
-- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale)
-- [Dalchini](/nighantu/herb/twak-cinnamon/) (Cinnamomum zeylanicum)
-- Tejpat (Cinnamomum tamala)
-- Badi Elaichi (Amomum subulatum)
-- [Triphala](/nighantu/herb/triphala/) ([Haritaki](/nighantu/herb/haritaki/), Bahera, [Amla](/nighantu/herb/amla/))
-- Jaggery (fermentation medium)
 
 ## Where is it described in the classical texts?
 

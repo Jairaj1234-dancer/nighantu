@@ -39,6 +39,12 @@
    "ocrCorrected": 0
   },
   {
+   "slug": "amritaprasha-ghrita",
+   "afi": "Part I 6:2",
+   "rows": 45,
+   "ocrCorrected": 29
+  },
+  {
    "slug": "amritarishta",
    "afi": "Part I 1:2",
    "rows": 24,
@@ -49,6 +55,12 @@
    "afi": "Part I 4:1",
    "rows": 4,
    "ocrCorrected": 2
+  },
+  {
+   "slug": "anu-taila",
+   "afi": "Part I 8:1",
+   "rows": 30,
+   "ocrCorrected": 20
   },
   {
    "slug": "aragvadhadi-kwath",
@@ -79,6 +91,12 @@
    "afi": "Part I 6:4",
    "rows": 28,
    "ocrCorrected": 0
+  },
+  {
+   "slug": "ashokarishta",
+   "afi": "Part I 1:5",
+   "rows": 16,
+   "ocrCorrected": 6
   },
   {
    "slug": "ashwagandharishta",
@@ -117,6 +135,12 @@
    "ocrCorrected": 3
   },
   {
+   "slug": "brahmi-vati",
+   "afi": "Part II 16:45",
+   "rows": 38,
+   "ocrCorrected": 6
+  },
+  {
    "slug": "caturjata-churna",
    "afi": "Part I 7:10",
    "rows": 4,
@@ -141,6 +165,12 @@
    "ocrCorrected": 2
   },
   {
+   "slug": "dadimadi-ghrita",
+   "afi": "Part I 6:19",
+   "rows": 7,
+   "ocrCorrected": 2
+  },
+  {
    "slug": "dashamoola-katutraya-kashayam",
    "afi": "Part I 4:9",
    "rows": 14,
@@ -153,16 +183,34 @@
    "ocrCorrected": 2
   },
   {
+   "slug": "dashamularishta",
+   "afi": "Part I 1:18",
+   "rows": 72,
+   "ocrCorrected": 36
+  },
+  {
    "slug": "dhanwantaram-gutika",
    "afi": "Part I 12:14",
    "rows": 16,
    "ocrCorrected": 5
   },
   {
+   "slug": "dhanwantaram-thailam",
+   "afi": "Part I 8:22",
+   "rows": 49,
+   "ocrCorrected": 24
+  },
+  {
    "slug": "drakshadi-kashayam",
    "afi": "Part I 4:13",
    "rows": 17,
    "ocrCorrected": 17
+  },
+  {
+   "slug": "draksharishta",
+   "afi": "Part I 1:20",
+   "rows": 12,
+   "ocrCorrected": 10
   },
   {
    "slug": "eladi-vati",
@@ -351,10 +399,22 @@
    "ocrCorrected": 39
   },
   {
+   "slug": "mahayograj-guggul",
+   "afi": "Part I 5:6",
+   "rows": 31,
+   "ocrCorrected": 19
+  },
+  {
    "slug": "mustakarishta",
    "afi": "Part I 1:26",
    "rows": 11,
    "ocrCorrected": 2
+  },
+  {
+   "slug": "narayana-thailam",
+   "afi": "Part I 8:23",
+   "rows": 34,
+   "ocrCorrected": 11
   },
   {
    "slug": "neelibringadi-thailam",
@@ -393,16 +453,34 @@
    "ocrCorrected": 4
   },
   {
+   "slug": "pippalyasava",
+   "afi": "Part I 1:22",
+   "rows": 27,
+   "ocrCorrected": 6
+  },
+  {
    "slug": "punarnavasava",
    "afi": "Part I 1:23",
    "rows": 25,
    "ocrCorrected": 9
   },
   {
+   "slug": "pushyanuga-churna",
+   "afi": "Part I 7:23",
+   "rows": 26,
+   "ocrCorrected": 5
+  },
+  {
    "slug": "rasnasaptakam-kashayam",
    "afi": "Part II 4:20",
    "rows": 7,
    "ocrCorrected": 0
+  },
+  {
+   "slug": "rohitakarishta",
+   "afi": "Part I 1:31",
+   "rows": 15,
+   "ocrCorrected": 6
   },
   {
    "slug": "sahacharadi-thailam",
@@ -459,6 +537,12 @@
    "ocrCorrected": 5
   },
   {
+   "slug": "sukumaram-ghritam",
+   "afi": "Part I 6:44",
+   "rows": 34,
+   "ocrCorrected": 18
+  },
+  {
    "slug": "talisadi-churna",
    "afi": "Part I 7:13",
    "rows": 8,
@@ -501,10 +585,22 @@
    "ocrCorrected": 0
   },
   {
+   "slug": "vidangarishta",
+   "afi": "Part I 1:34",
+   "rows": 20,
+   "ocrCorrected": 12
+  },
+  {
    "slug": "vyoshadi-guggulu",
    "afi": "Part I 5:9",
    "rows": 10,
    "ocrCorrected": 0
+  },
+  {
+   "slug": "yogaraja-guggulu",
+   "afi": "Part I 5:7",
+   "rows": 29,
+   "ocrCorrected": 16
   }
  ],
  "notFound": [
@@ -653,437 +749,78 @@
  ],
  "rejected": [
   {
-   "slug": "amritaprasha-ghrita",
-   "why": "verifier: reject",
-   "rowErrors": [
-    {
-     "n": 8,
-     "problem": "Load-bearing citation is false. The ocrCorrected quotes \"the book's weights table, line 64517, '12 Masas = 1 Karsa (Tola) = 12 g.'\" Line 64517 of afi-b32232184.txt actually reads \"2 Karsas (0188) = 1 Sukti = 24 2.\" The karsa line is 64516 (\"12 Masas = 1 ३988 (7018) = 12 8.\"). The quoted string is not on the cited line, and it is also a cleaned-up rendering rather than the OCR text as it stands. The corrected value 12 g is itself right; the evidence chain as written does not check out.",
-     "correct": "12 g, with the karsa equivalence cited to line 64516 and quoted as the OCR actually prints it"
-    },
-    {
-     "n": 9,
-     "problem": "Same false citation: \"weights table line 64517 (1 karsa = 12 g)\". 64517 is the Sukti line; karsa = 12 g is at 64516.",
-     "correct": "12 g, citing line 64516"
-    },
-    {
-     "n": 14,
-     "problem": "Same false citation (\"weights table line 64517\").",
-     "correct": "12 g, citing line 64516"
-    },
-    {
-     "n": 15,
-     "problem": "Same false citation (\"weights table line 64517\").",
-     "correct": "12 g, citing line 64516"
-    },
-    {
-     "n": 17,
-     "problem": "Same false citation (\"the karsa chain (verse line 12024; weights table line 64517)\"). The name Bala and part Rt. are correct and the 1212213 reading is sound.",
-     "correct": "12 g, citing line 64516"
-    },
-    {
-     "n": 19,
-     "problem": "Same false citation (\"weights table line 64517\").",
-     "correct": "12 g, citing line 64516"
-    },
-    {
-     "n": 29,
-     "problem": "Same false citation (\"weights table line 64517 (1 karsa = 12 g)\"). The rest of the row (Kantakari printed at 12047, part left [illegible] from '(?1.)' at 12098) is correct and the refusal to normalise (?1.) is right.",
-     "correct": "12 g, citing line 64516"
-    },
-    {
-     "n": 31,
-     "problem": "Same false citation (\"weights table line 64517\"). The '12 £.' to 12 g reading at line 12105 is correct and declared.",
-     "correct": "12 g, citing line 64516"
-    },
-    {
-     "n": 32,
-     "problem": "Same false citation (\"weights table line 64517\").",
-     "correct": "12 g, citing line 64516"
-    },
-    {
-     "n": 39,
-     "problem": "Two false citations. It says 384 g is \"half of a prastha (768 g, weights table line 64524; manika = 384 g, line 64523)\". Line 64524 reads \"4 Prasthas = 1 Adhaka =3kg. 73 £.\" and line 64523 reads \"2 Manikas = 1 Prastha = 768 g.\" So prastha = 768 g is at 64523 and manika = 384 g is at 64522 (\"2 Kudavas 111 1 = 384 £.\"). Both cited lines are one off. It also cites \"half of a tula (4 kg 800 g, weights table line 64532)\"; 64532 reads \"द 1 = ere Ke. 1 Ahoratra of Pitaras = 1 Month\", pure garbage. The tula line is 64531 (\"100 Palams = 1 Tula =4kg. 800 g.\"). The Madhu reading itself is forced and correct.",
-     "correct": "Madhu 384 g, citing manika at 64522, prastha at 64523, tula at 64531"
-    },
-    {
-     "n": 42,
-     "problem": "False citation: \"half a pala is 24 g (1 pala = 48 g, weights table line 64519)\". Line 64519 reads \"(4 Karsas or Tolas) 20 Seconds\". The pala line is 64518 (\"2 Suktis =] Palam = 48 g.\"). The Tvak/24 g reading is forced and correct.",
-     "correct": "24 g, citing line 64518"
-    },
-    {
-     "n": 43,
-     "problem": "Two problems. (a) Same false pala citation (\"pala = 48 g, weights table line 64519\"); the pala line is 64518. (b) Undeclared glyph reading: line 12117 prints '24 €`', but the note says \"the quantity reads 24 g\" and \"quantity 24 g is both printed here\", without declaring the €-for-g substitution that rows 31 and 32 do declare for '£'. The transcription's own stated convention is that every departure from the OCR text, down to a missing full stop, is declared.",
-     "correct": "24 g, with the '€' to 'g' reading declared as at rows 31/32, and the pala cited to line 64518"
-    },
-    {
-     "n": 44,
-     "problem": "Same false pala citation (\"half a pala = 24 g (weights table line 64519)\"); the pala line is 64518.",
-     "correct": "24 g, citing line 64518"
-    },
-    {
-     "n": 4,
-     "problem": "Legend miscitation: \"Rt. Tr. = Root Tuber (legend lines 862 and 924)\". Line 862 does read \"Root Tuber\", but line 924 reads \"२४ (२६\" - the abbreviation column is garbled at that position and does not print 'Rt. Tr.' at all. The expansion is correct by position in the legend (between Rt. Bk. at 923 and Sd. at 925) but the cited line does not contain the quoted abbreviation. Same miscitation repeated at row 36.",
-     "correct": "Rt. Tr., with the legend's abbreviation column noted as illegible at line 924 and the expansion justified by position rather than by a quotable token"
-    },
-    {
-     "n": 36,
-     "problem": "Repeats the row-4 legend miscitation: \"the legend's Root Tuber (lines 862/924)\" - line 924 is garbage, not 'Rt. Tr.'. The '(Rt. Tr)' missing-stop declaration for line 12110 is otherwise correct.",
-     "correct": "Rt. Tr., with the legend citation corrected as at row 4"
-    }
-   ],
-   "missingRows": [],
-   "reasons": "Source: /Users/jairajsharma/Projects/ayurveda-atlas/sources-private/afi-b32232184.txt. Read lines 11985-12145 (entry plus both neighbours), 811-940 (abbreviation legend), 64495-64545 (weights table), the page at content/formulation/amritaprasha-ghrita.md lines 35-66, and grepped both AFI parts. See rowErrors for specifics; summary: every row's name, gloss, part and quantity is exact and the entry identity is confirmed, but all five weights-table citations and one legend citation point to the wrong lines and quote text that is not there, and that chain is the sole evidence for twelve corrected "
-  },
-  {
-   "slug": "anu-taila",
-   "why": "verifier: reject",
-   "rowErrors": [],
-   "missingRows": [],
-   "reasons": "TABLE ITSELF: clean. I opened /Users/jairajsharma/Projects/ayurveda-atlas/sources-private/afi-b32232184.txt at line 18921 and read every cell of all 30 rows against the print, plus the abbreviation appendix (headwords 814-880, codes 883-938) and every parallel-printing line the transcription cites. All 30 rows match the page exactly, in order, with no missing or extra row. Right column 6-24 on 18921-18940, left column 1-5 on 18936-18940, 25-30 on 18965-18972, as the note says; the right column does switch to Arimedadi Taila at 18965 and none of that material leaked in.\n\nEvery declared correcti"
-  },
-  {
-   "slug": "ashokarishta",
-   "why": "row names not in the entry span",
-   "absent": [
-    "Darvi",
-    "Bibhitaka",
-    "Amalaki",
-    "Amrasthi"
-   ]
-  },
-  {
    "slug": "balaswagandhadi-thailam",
    "why": "verifier: reject",
    "rowErrors": [
     {
-     "n": 10,
-     "problem": "The ocrCorrected note makes a claim about the source that the source contradicts. It states the same drug is printed \"(P1.)\" at lines 25957 and 26127. Line 25957 does print \"11. Durva (P1.) 192 g. marmavikara; aghata.\", but line 26127 prints \"56. Durva (?1.)\" - a question mark, not \"P\". So one of the two cited corroborating lines does not hold the quoted string. The correction itself is still forced: I re-counted the file and confirmed 166 occurrences of \"(P1.)\" against 13 of \"(Pl.)\", and line 21093 does print \"10. Darva (P1.) 12 g.\". The cell value \"Pl.\" is right; the declared evidence is not accurate as written, and this is the same defect class the repair round explicitly claimed to have eliminated. The note's further sentence '\"P1.\" is not an abbreviation the book uses anywhere' is also loose: the string \"P1.\" does occur outside parentheses in the OCR, e.g. line 3610 \"18. Patola (Lf./P1.) 48 g.\", line 3829 \"11. Patha (Rt./P1.) 48 g.\", line 4157 \"18. Rasna (Rt./P1.) 48 g.\" - all themselves the same glyph substitution, but the blanket wording is contradicted by a literal reading of the file.",
-     "correct": "Keep name \"Durva\", part \"Pl.\", quantity \"12 g.\". Rewrite the evidence as: OCR prints \"10. Darva (P1.) 12 g.\" at line 21093; \"P1.\" is this scan's digit-1-for-letter-l substitution, printed 166 times as \"(P1.)\" against 13 clean \"(Pl.)\", with the same drug printed \"(P1.)\" at line 25957 and a further garble \"(?1.)\" at line 26127. Drop the claim that 26127 prints \"(P1.)\", and narrow the \"not used anywhere\" sentence to: P1. is never a real abbreviation of the book, every occurrence is this substitution."
-    },
-    {
-     "n": 3,
-     "problem": "The ocrCorrected note states: 'The file's usual printing for this drug elsewhere is \"(Gl.)\" (lines 18990, 19586, 19618, 22365)'. Two of those four lines do not hold that string. Line 18990 prints \"14. Laksa (GI.) 12 £.\" (capital I) and line 19586 prints \"3. Laksa (G1.) 768 g.\" (digit 1). Only 19618 (\"28. Laksa (Gl.) 16 g.\") and 22365 (\"Laksa (Gl.) 2.\") print \"(Gl.)\" as quoted. The evidence is explicitly not applied to the cell, so nothing published changes, but the citation is still a misquote of the source inside a note the repair asserts was line-by-line re-verified.",
-     "correct": "Keep name \"Laksa\", part null, illegible true - that call is correct, since line 21082 prints \"3. Laksa' ((1.)\" and this entry's own verse at 21013 does not fix the part. Fix the citation: lines that actually print \"(Gl.)\" for this drug are 19618, 22365, 22450 and 35234; lines 18990 and 19586 print the further variants \"(GI.)\" and \"(G1.)\". The identical garble \"((1.)\" at line 25154 is quoted correctly."
+     "n": 2,
+     "problem": "The ocrCorrected note misdescribes the source. It states: \"lines 21024, 21025, 21027 and 21028 carry only stray marginal digits and line 21026 reads '32. Canda (Rz.) RL'\". Line 21026 is quoted correctly, but 21024, 21025, 21027 and 21028 are not \"stray marginal digits\" - they are byte-empty lines. I dumped them (awk NR>=21024 && NR<=21028 piped through od -c) and each renders as an empty string between newlines; the only non-empty line in that span is 21026. This is the same defect class the round was rejected for (a declared line citation the source does not bear out), and it is newly introduced: the prior round's row 2 note read \"between line 21023 (item 1) and the page number at line 21029 the right-hand column is blank except for the stray 'RL' that trails line 21026\", which was accurate. The cell values themselves are right and nothing published changes.",
+     "correct": "Keep name \"Asvagandha\", gloss null, part null, quantity \"768 g. (drugs 1 to 3 in equal proportion)\", illegible true. Fix only the sentence: no \"2.\" line survives anywhere in the OCR - between line 21023 (item 1) and the page number at line 21029 (\"145\"), lines 21024, 21025, 21027 and 21028 are blank and line 21026 reads \"32. Canda (Rz.) RL\", whose trailing \"RL\" sits in the position item 2's plant part would occupy but is not determinable as any abbreviation. Everything else in the transcription is confirmed and must be carried through unchanged."
     }
    ],
    "missingRows": [],
-   "reasons": "Checked against /Users/jairajsharma/Projects/ayurveda-atlas/sources-private/afi-b32232184.txt (read-only; nothing edited).\n\nENTRY IDENTITY - confirmed. Line 21011 right column: \"8:36 BALASVAGANDHALAKSADI TAILA\"; line 21012 right column: \"(Sahasrayoga, Tailaprakarana; 13.)\"; verse at 21013 \"बलाश्वगन्धालाक्षाणां क्वाथे पदावशेषिते\". headingLine, entryNumber, entryHeading and classicalSource are all exact. Neighbours: 8:35 BALADHATRYADI TAILA, 8:37 BALAHATHADI TAILA (line 21115), 8:38 BRHAT GUDUCI TAILA (line 21073). The only other occurrences of the name in Part I are the contents list (18543), t"
-  },
-  {
-   "slug": "brahmi-vati",
-   "why": "row names not in the entry span",
-   "absent": [
-    "Manikya bhasma",
-    "Jayaphala",
-    "Katha",
-    "Jatipatri",
-    "Krsnajiraka",
-    "Tvak",
-    "Anistna",
-    "Asagandha",
-    "Akarakara",
-    "Dhanyaka",
-    "Vansalocana",
-    "Ela",
-    "Sankhapuspi",
-    "Sveta candana",
-    "NagakeSara",
-    "Ritmimastagi",
-    "Kulinjana",
-    "Nisotha"
-   ]
-  },
-  {
-   "slug": "dadimadi-ghrita",
-   "why": "row names not in the entry span",
-   "absent": [
-    "Srngavera"
-   ]
+   "reasons": "Checked against /Users/jairajsharma/Projects/ayurveda-atlas/sources-private/afi-b32232184.txt and afi-b32232172.txt, read-only; no repo file touched.\n\nENTRY IDENTITY - confirmed. Line 21011 is a two-column line whose right column reads \"8:36 BALASVAGANDHALAKSADI TAILA\"; 21012 right column \"(Sahasrayoga, Tailaprakarana; 13.)\"; verse 21013 \"बलाश्वगन्धालाक्षाणां क्वाथे पदावशेषिते\", 21015 \"...दधिमस्तुचतुर्गुणे\", 21016-21018 the kalka compound, 21019 \"कल्कैरेभिः सुसंयुक्तेःकार्षिकेश्च सुपेषितैः\", 21022 the Sanskrit source \"(सहस्रे योग, तेल प्रकरण; 13)\". entryNumber, entryHeading, classicalSource an"
   },
   {
    "slug": "dadimashtaka-churna",
    "why": "verifier: reject",
-   "rowErrors": [
-    {
-     "n": 11,
-     "problem": "Data value is correct, but the ocrCorrected evidence contains a false citation of the same class that caused the prior rejection. It states: \"The same OCR prints 'Marica (Fr.)' at line 7724 (entry 7:6, same chapter) and at line 3411.\" Line 7724 does read 'Fi Marica (Fr.)' and checks out; line 3411 does NOT contain Marica at all - it reads 'NagakeSara (Adr.) 12g.' The Marica line in that block is 3406, and it reads 'Marica (E25) 12 g.', i.e. another E-for-F garble, not the clean '(Fr.)' the row claims. A reader auditing the row against the source finds the second cite does not exist.",
-     "correct": "Fr. (value unchanged). Replace the bogus 3411 cite with real ones: 'Marica (Fr.)' at lines 2808, 3279, 3348, 7460, 15436, 16043, 16482 (and 7724). Line 3406 'Marica (E25) 12 g.' is worth citing separately as independent proof that this scan garbles Marica's Fr. cell the same way."
-    },
-    {
-     "n": 5,
-     "problem": "Minor evidence imprecision: the row states \"the same book prints 'Nagakesara (Adr.)' at lines 3353, 6932 and 11231.\" Only 11231 is literally that string. Line 3353 reads 'Nagakesara (Nagakesara) (Adr.) 48 g.' and line 6932 reads '48. Naga (Nagakesara) (Adr.) 24 g.' The substantive point (plain-ASCII 'Nagakesara' plus '(Adr.)') does hold at all three, and the value is correct.",
-     "correct": "Nagakesara / Adr. (value unchanged); quote the lines as they actually read."
-    }
-   ],
+   "rowErrors": [],
    "missingRows": [],
-   "reasons": "ENTRY IDENTITY - CONFIRMED. Heading '7.7 DADIMASTAKA CURNA' at line 7799 of /Users/jairajsharma/Projects/ayurveda-atlas/sources-private/afi-b32232172.txt, between 7.6 DASANA SAMSKARA CURNA (7697) and 7.8 NARACA CURNA (7870); classical source at 7809 reads exactly '(Bhaisajyaratnavali, Grahanirogadhikara; 36-37)'. grep -i 'dadimas' over Part II returns only 7240 (contents), 7799 (heading), 27668 and 29514 (index); Part I has no Dadimastaka - its only dadima formulation heading is '6:19 DADIMADI GHRTA' at line 13032 of afi-b32232184.txt. No Laghu/Maha/Brhat variant. Same formulation as /Users/ja"
-  },
-  {
-   "slug": "dashamularishta",
-   "why": "row names not in the entry span",
-   "absent": [
-    "Patala",
-    "Agnimantha",
-    "Lodhra",
-    "Dhatri",
-    "Khadira",
-    "Bijasara",
-    "Pathya",
-    "Kustha",
-    "Devadaru",
-    "Vidanga",
-    "Madhuka",
-    "Bharngi",
-    "Kapittha",
-    "Aksa",
-    "Sariva",
-    "Krsna jiraka",
-    "Trivrta",
-    "Renuka",
-    "Pippali",
-    "Satapuspa",
-    "Padmaka",
-    "Indrayava",
-    "Jivaka",
-    "Rsabhaka",
-    "Mahameda",
-    "Kakoli",
-    "Draksa",
-    "Ksaudra",
-    "Jala",
-    "Candana",
-    "Pippali"
-   ]
+   "reasons": "ENTRY IDENTITY - CONFIRMED INDEPENDENTLY. Heading '7.7 DADIMASTAKA CURNA' stands at line 7799 of /Users/jairajsharma/Projects/ayurveda-atlas/sources-private/afi-b32232172.txt, between '7.6 DASANA SAMSKARA CURNA' (7697) and '7.8 NARACA CURNA' (7870); line 7809 reads exactly '(Bhaisajyaratnavali, Grahanirogadhikara; 36-37)'. grep -i 'dadimas' over Part II returns only 7240 (contents), 7799 (heading), 27668 and 29514 (index); over Part I it returns nothing. grep -iE 'astaka|ashtak' over Part II returns only Kutajastaka and this entry, so there is no Laghu/Maha/Brhat Dadimastaka to confuse it with"
   },
   {
    "slug": "dashmool-dashmoolarishta",
    "why": "verifier: reject",
    "rowErrors": [
     {
-     "n": 3,
-     "problem": "The published part is \"Rt./St. Bk.\" but line 4296 prints \"Be ¢Gnrnbha (Rt/St. Bk.)240 ४\" - no full stop after \"Rt\". The ocrCorrected string then asserts the opposite: \"Part and quantity are printed intact ('Rt/St. Bk.', '240')\". So the cell silently supplies a character the quoted token does not contain, under an explicit claim that nothing was changed. This breaks the convention the rest of the table keeps: rows 30, 36, 48 and 66 reproduce the print's irregular abbreviations exactly (\"Rt/Rz.\", \"Rt/Lf.\", \"Rt.Tr.\", \"St.Bk\"), and rows 21, 31 and 65, where punctuation or a glyph WAS supplied, say so in ocrCorrected (row 31: \"the missing full stop is supplied\"). It is the same defect class as the row-12 objection of the previous round - a provenance string that advertises something the cell did not do - and here it also changes the published value.",
-     "correct": "Either publish \"Rt/St. Bk.\" as the OCR prints it, or keep \"Rt./St. Bk.\" and declare it: the full stop is supplied from the identically formatted rows 4 and 5 of the same block (lines 4297-4298, \"(Rt./St. Bk.)\"). What cannot stand is the current pairing of an altered value with \"printed intact\"."
-    }
-   ],
-   "missingRows": [],
-   "reasons": "Identity: confirmed independently. Line 4239 right column carries \"1 : 18 DAS AMULARISTA\", 4240-4241 the source \"(Sarmgadharasamhita, Madhyamakhanda, Adhyaya 10; 78-89)\", verse 4242-4293 right column opening \"दशमूलानि कुर्वत भागे: पञ्चपलैः पृथक्\" and closing with the Devanagari colophon at 4293. grep -i \"amularis\" in Part I returns only 4239 plus the two index lines 47250 and 58802; Part II returns only 8:6 Dasamula Taila (9809), a chagamamsa mention (6948) and a bhavana kvatha (21019). No Laghu/Maha/Brhat variant exists. The column-mixing warning is right: 4232-4254 left column is 1:16 and 42"
-  },
-  {
-   "slug": "dhanwantaram-thailam",
-   "why": "verifier: reject",
-   "rowErrors": [
+     "n": 21,
+     "problem": "Part is published as \"Rt.\" but line 4314 prints \"१; Rt) 96 8\" - the part token is \"Rt)\" with no full stop. A full stop is supplied, and the row's ocrCorrected says only \"Part read from the printed 'Rt'\", which asserts the value came from the print. This is the identical defect class as the blocking row-3 objection from the previous round (value altered while the note claims it was read), and it also falsifies the entry note's blanket claim that \"Punctuation is never supplied silently\".",
+     "correct": "Rt  (reproduce the print exactly, as rows 3, 30, 36, 48 and 66 now do) - or keep \"Rt.\" only if the row declares outright that the full stop is supplied, the way row 31 declares it for \"(Fl)\" to \"Fl.\""
+    },
     {
-     "n": 46,
-     "problem": "Internally contradictory illegible flag. Line 20026 prints '46. Mudgaparni (7?].) 6 £.'; the part is unreadable and the cell is correctly left null, and the row's own ocrCorrected text states 'left null and the row flagged illegible', and the transcription's policy note (c) lists row 46 among the rows that are 'null and the row is flagged illegible'. But the delivered row carries \"illegible\": false. Every other row with an unreadable part abbreviation (12 '(?).)', 13 '(?1.)', 15 '(?].)', 35 '(प्र. प.)') is flagged illegible true, and the rejected version flagged row 46 true as well, so this is a regression introduced by the repair. Consumers of the flag will read row 46 as a clean row whose part is simply not printed, which is exactly the misreading the repair says it is fixing at rows 3 and 32.",
-     "correct": "\"illegible\": true (everything else in the row is right: part null, quantity '6 g.' with the '6 £.' read declared)"
+     "n": 8,
+     "problem": "Part is published as \"Pl.\" but line 4301 prints \"8. Brhati (Ph) 240 g.\" - the token is \"Ph\", with no full stop. The note declares the h/l glyph read but not the supplied full stop, so a character is added to the cell without being declared. Sibling rows 6, 7, 9 are clean because their tokens \"(?1.)\" do print the stop.",
+     "correct": "Pl  (as printed, with only the declared h-to-l glyph read) - or \"Pl.\" with the supplied full stop declared in ocrCorrected, as row 31 does"
     }
    ],
    "missingRows": [],
-   "reasons": "Entry identity confirmed. /Users/jairajsharma/Projects/ayurveda-atlas/sources-private/afi-b32232184.txt line 20004 carries \"8:22 DHANVANTARA TAILA\", 20005 \"(Synonym : Bala taila)\", 20006-20007 \"(Vaidyayogaratnavali, Tailaprakarana; page 244.)\", exactly as transcribed. It is the only Dhanvantara taila entry with a numbered composition in Part I (13467 = 6:22 Dhanvantara Ghrta, 25719 = 12:14 Dhanvantara Gutika, 49140 = contents listing); AFI Part II (afi-b32232172.txt) has no Dhanvantara entry. The two NOTE items (Avarttita at 20061-20065, Trivrt at 20067-20070) are correctly treated as notes, n"
-  },
-  {
-   "slug": "draksharishta",
-   "why": "verifier: reject",
-   "rowErrors": [
-    {
-     "n": 0,
-     "problem": "The \"Praksepa dravyas\" sub-heading row is placed in the wrong position. AFI prints it at line 4399, BETWEEN row 3 (Guda, line 4396) and row 4 (Tvak, line 4400), and the row's own ocrCorrected text says exactly that. But in the delivered table it is numbered n=0 and sits first in the rows array, ahead of row 1. n=0 plus first-in-array reads unambiguously as \"before row 1\", so any consumer that renders or sorts by the structured order will print the sub-heading above Draksa and thereby label rows 1-3 (Draksa 2.400 kg, Water, Guda 9.600 kg) as praksepa dravyas - the exact inverse of their status, and the opposite of the only reason the sub-heading was asked for (it is what marks rows 4-12 as post-fermentation additions). The objectionsResolved entry compounds this by asserting the marker was carried \"in printed order between rows 3 and 4\", which is not what the JSON does; that is the same class of inaccurate self-citation that sank the previous version on row 1's line number.",
-     "correct": "Keep the sub-heading, but give it the printed position: place it in the rows array between n=3 (Guda) and n=4 (Tvak), with an ordering key that cannot sort ahead of row 1 (e.g. n=3.5, or an explicit afterRow=3 marker), and restate the objectionsResolved sentence to match what the file actually contains."
-    }
-   ],
-   "missingRows": [],
-   "reasons": "Checked directly against /Users/jairajsharma/Projects/ayurveda-atlas/sources-private/afi-b32232184.txt (and afi-b32232172.txt for the Part II neighbour). Every line number the transcription cites was re-opened; all of them hold.\n\nENTRY IDENTITY: confirmed. Line 4370 right column \"1: 20 DRAKSARISTA\"; source at 4372 + 4376 \"(Sarngadharasamhita, Madhyamakhanda, / Adhyaya 10 ; 69-71)\" with the Devanagari echo at 4387; verses 69-71 at 4379-4386. Part I holds exactly one Draksarista (grep: only 4370 is a heading; 2994, 4549, 4690 are index lines), and Part II 1:1 DRAKSASAVA (line 2681 of afi-b322321"
+   "reasons": "Identity confirmed. Line 4239 right column carries \"1 : 18 DAS AMULARISTA\", source at 4240-4241 (\"(Sarmgadharasamhita, Madhyamakhanda, Adhyaya 10; 78-89)\"), verse 4242-4293 in the right column closing with the Devanagari colophon at 4293. Case-insensitive grep for \"amularis\" in Part I returns only 4239 plus the two index lines 47250 and 58802; Part II has no Dasamularista (only 8:6 Dasamula Taila at 9809, a chagamamsa decoction mention at 6948, and a dasamula kvatha bhavana at 21019). No Laghu/Maha/Brhat variant exists. So \"found: true\" and the Part/entry number are right.\n\nColumn hygiene chec"
   },
   {
    "slug": "irimedadi-taila",
    "why": "verifier: reject",
    "rowErrors": [
     {
-     "n": 4,
-     "problem": "illegible is true although no cell in the row is blank: name Taila, gloss tila, part Ol. and quantity 3.072 kg are all filled, and line 18970 prints \"4. Taila (tila) (01.) 3.072 kg.\" with only the digit-for-letter \"01.\" normalised. This contradicts the transcription's own stated convention (b) in `note` (\"illegible is true if and only if at least one cell of the row is left blank because it cannot be read - rows 5, 6, 10, 11, 12, 22, 23, 33, 35 and 36\" - row 4 is not in that list) and contradicts objectionsResolved, which states outright \"Rows 3 and 4, whose cells are recovered by forcing evidence rather than left blank, stay illegible false.\" The flag therefore does not mean one thing across the table, which is exactly the defect the earlier objection on illegible consistency was raised about.",
-     "correct": "illegible: false"
-    },
-    {
-     "n": 15,
-     "problem": "The gloss is changed from the printed, fully legible \"daruharidra\" (line 18992: \"(daruharidra) (St. Ext.) 12 £.\") to the spaced \"daru haridra\", and the ocrCorrected note justifies it as \"AFI prints it spaced elsewhere, e.g. line 12576\". Line 12576 does not print daru haridra at all; it prints \"19. Rakta candana (Ht. Wd.) 12g. ae कप\\\" (क्ष) (Fr) eo 8:\". The spaced form does exist in AFI (lines 4623, 12243, 12573 \"16. Rasaiijana (daru haridra) (St. Ext.) 12 g.\", 17410, 18924), but the run-together form is the commoner one (3592, 4152, 12654, 13920, 19150, 19501, 19996, 20283, 21733) and is what this entry itself prints. A legible cell was altered on evidence that does not exist at the line cited, so the change is declared but not forced.",
-     "correct": "gloss \"daruharidra\" as printed at line 18992 (or, if the spacing is kept as a house convention, cite line 12573 and say plainly it is a normalisation, not a correction)"
-    },
-    {
-     "n": 3,
-     "problem": "The ocrCorrected note's supporting citation is false: it says entry 12:6 \"reverses the two principal weights (Arimeda 9.600 kg at line 25183, Khadira sara 4.800 kg at line 25188)\". Line 25183 is blank. The Arimeda row is at line 25136: \"2. Arimeda (vitkhadira) (St. Bk.) 9.600 kg.\" (25188 is correct). The substantive claim that 12:6 reverses the weights is true, but this is the same class of error the earlier objection on row 3 was raised about - the row's supporting evidence citing a line that does not say what is claimed - reintroduced in the note that replaced it.",
-     "correct": "line 25136, not 25183"
+     "n": 32,
+     "problem": "illegible is true although no cell in the row is left blank. Line 19020 right column prints \"32. Mamsi(jatamamsi) (Rz/Rt.) 12g.\" and the row records all four cells filled (name Mamsi, gloss jatamamsi, part Rz./Rt., quantity 12 g); the row's own ocrCorrected says only spacing and the missing period after Rz. were normalised. This is the identical defect the verifier objected to at row 4, fixed there but left standing here. It also makes two statements in the record false: the note's claim that \"the illegible rows are exactly 5, 6, 10, 11, 12, 22, 23, 32, 33, 35 and 36, and each of those has at least one cell left blank because the print cannot be read\", and the row-4 howResolved's claim that with that change the flag now matches the stated convention on every row.",
+     "correct": "illegible should be false (and the two consistency statements in note and in the row-4 howResolved corrected accordingly). The cell values themselves are right."
     }
    ],
    "missingRows": [],
-   "reasons": "Entry identity confirmed. The composition read is AFI Part I, Group 8 (Taila), entry 8:2 ARIMEDADI TAILA, and the identification holds: the Group 8 contents table at lines 18215-18216 prints \"Arimedadi Taila / Astangahrdaya, Uttarasthana, Adhyaya 22 / 90-93%, 95-96 / 129\" between \"1. Anu Taila\" (18213) and \"Asanavilvadi Taila\" (18217); the next entry heading \"8:3 ASANABILVADI TAILA\" is at 19067 with \"(Sahasrayoga, Tailaprakarana; 45.)\" at 19068; the running head \"ARIMEDADI TAILA\" is at 48887; the source line is at 19001-19002 and the Devanagari colophon at 19038-19039. Line 12577 prints \"20. I"
-  },
-  {
-   "slug": "mahayograj-guggul",
-   "why": "verifier: reject",
-   "rowErrors": [],
-   "missingRows": [],
-   "reasons": "Checked independently against /Users/jairajsharma/Projects/ayurveda-atlas/sources-private/afi-b32232184.txt lines 10855-10970, plus afi-b32232172.txt line 21351 and /Users/jairajsharma/Projects/ayurveda-atlas/content/formulation/mahayograj-guggul.md.\n\nENTRY IDENTITY: CONFIRMED. Line 10887 \"5:6 MAHA YOGARAJA GUGGULU\"; 10888-10889 \"(Sarmngadharasamhita, Madhyamakhanda, / Adhyaya 7; 56-60.)\"; Devanagari colophon at 10916 \"(शार्धधरसंहिता, मध्यमखण्ड, अध्याय, 7; 56-60)\" - all exactly as transcribed. Only one entry body exists (10887); 10483 is the contents line, 48045 the name index, 51492ff the the"
-  },
-  {
-   "slug": "narayana-thailam",
-   "why": "verifier: reject",
-   "rowErrors": [
-    {
-     "n": 3,
-     "problem": "Quantity published as raw OCR. The JSON's quantity field for row 3 is literally \"480 £.\" (the printed garble at line 20098, bytes 34 38 30 20 c2 a3 2e). The row's own ocrCorrected argues the forced reading is 480 g. and then says \"Published value here is the printed cell\" — so the declared correction was never applied. This is also internally inconsistent: rows 12 and 28 carry the identical substitution (\"480 2.\" at 20107, \"96 2.\" at 20127, byte-confirmed) with the identical dasapala/dvipala forcing argument, and both publish the corrected value. The published table therefore prints a currency sign as a unit of weight.",
-     "correct": "480 g."
-    },
-    {
-     "n": 8,
-     "problem": "The part correction is not forced by the evidence cited, and the cited evidence is false. The note claims the book's ABBREVIATIONS FOR PARTS OF PLANTS table (heading line 811) offers \"only two abbreviations of that shape, Ol. = Oil (913/851) and Pl. = Plant (Whole) (917/855)\". Reading the whole table (abbreviations at lines 883-938 against expansions at 814-880) it contains five two-letter abbreviations ending in \"l.\": Bl. (line 887 = Bulb, line 819), Fl. (893 = Flower, 827), Gl. (899 = Gall, 834), Ol. (913 = Oil, 851) and Pl. (917 = Plant (Whole), 855). Line 20103 prints \"(?1.)\" with the first letter lost, so the apparatus admits B, F, G, O or P; excluding only Ol. leaves three live candidates. Pl. is very likely the right value, but the stated forcing argument does not hold as written, and nothing inside this entry rules out Bl./Fl./Gl. The same false premise is the sole support for rows 12, 25, 26, 27 and 28. (Rows 6, 9 and 19 are unaffected: they print \"(PI.)\" with a legible capital P, and the table has no \"PI.\", so those three are genuinely forced.)",
-     "correct": null
-    },
-    {
-     "n": 12,
-     "problem": "Part cell rests on the same false apparatus claim as row 8. Line 20107 prints \"(?].)\" (byte-confirmed: 28 3f 5d 2e 29); the note excludes only Ol., but Bl. (887/819), Fl. (893/827) and Gl. (899/834) are equally of the shape \"?l.\" in the book's own table. Name, gloss and the 480 g. repair are otherwise sound.",
-     "correct": null
-    },
-    {
-     "n": 25,
-     "problem": "Same defect: line 20124 prints \"(?1.)\" and the note asserts \"only Ol. (913/851) and Pl. (917/855) have that shape\", which the table at 811-938 contradicts (Bl., Fl., Gl. also). Correction not forced as argued.",
-     "correct": null
-    },
-    {
-     "n": 26,
-     "problem": "Same defect: line 20125 prints \"(?1.)\"; the note says \"Ol. is the only other candidate of that shape\", which is false per the table (Bl. 887, Fl. 893, Gl. 899). Correction not forced as argued.",
-     "correct": null
-    },
-    {
-     "n": 27,
-     "problem": "Same defect: line 20126 prints \"(?].)\"; the note again narrows to Ol./Pl. only. Correction not forced as argued.",
-     "correct": null
-    },
-    {
-     "n": 28,
-     "problem": "Part cell carries the same false apparatus claim (line 20127, \"(?1.)\"). The quantity repair on the same row (\"96 2.\" to 96 g., from dvipalikan at 20088 with 1 pala = 48 g. at 64518) is sound and correctly applied.",
-     "correct": null
-    },
-    {
-     "n": 1,
-     "problem": "The byte-check stated in ocrCorrected is inaccurate. It says the name cell is \"811 followed by the Devanagari digit five and a further non-Latin glyph\". The hexdump of line 20096 is 31 2e 20 38 31 31 e0 a5 ab 20 28 52 74 ... — \"1. 811\" + U+096B (Devanagari five) + space + \"(Rt./St. Bk.) 480 g.\" There is no further glyph. The value Bilva is genuinely forced by the verse at 20078 and the legible items 2-4, so this is a defect in a claim presented as byte-verified, not in the reading.",
-     "correct": "Bilva (value correct; the byte description is wrong)"
-    }
-   ],
-   "missingRows": [],
-   "reasons": "Source read directly: /Users/jairajsharma/Projects/ayurveda-atlas/sources-private/afi-b32232184.txt. Heading \"8:23 NARAYANA TAILA\" confirmed at line 20073; classical source at 20074-20075 \"(Bhaisajyaratnavali, Vatavyadhyadhikara;\" / \"140-144.)\" exactly as transcribed; verse 20078-20092; Devanagari source 20093; numbered composition 20096-20135 with wraps at 20109, 20111, 20130, 20133; dosage 20138-20140. Those line references in the note are all correct (the earlier objection about the wrong span, 20097-20130, is genuinely fixed).\n\nENTRY IDENTITY: confirmed. grep over Part I returns only 20073"
-  },
-  {
-   "slug": "pippalyasava",
-   "why": "verifier: reject",
-   "rowErrors": [
-    {
-     "n": 22,
-     "problem": "The ocrCorrected note misquotes the source print. It states: \"Line 4580 prints '(1.) 24 P.' with the currency glyph in place of the unit\". Line 4580 of afi-b32232184.txt actually reads \"(1.) 24 £. \" (bytes: 28 31 2e 29 20 32 34 20 c2 a3 2e, i.e. U+00A3 POUND SIGN, not the letter P). The published cells are correct (part \"(1.)\" as printed, quantity corrected to \"24 g.\", forced by verse line 4472 'eSAm ardha-palAn bhAgAn'), but the audit field asserts a printed string that does not exist at the cited line. This is the exact failure class the submission itself declares fatal in objectionsResolved #6 (\"citing a line that does not hold the quoted text\"), and it is a regression from the prior extract, which quoted '24 £.' correctly. A reader auditing line 4580 finds no 'P.'",
-     "correct": "Priyangu — part \"(1.)\" (illegible, as printed), quantity \"24 g.\" — ocrCorrected must read: Line 4580 prints '(1.) 24 £.'; the £ glyph is OCR for the unit g. (the same substitution recurs across this OCR, e.g. line 5261 '12 £.' and line 20363 '25.6 £.'), and the value 24 g. is forced by the entry's own verse at line 4472, 'eSAm ardha-palAn bhAgAn', corroborated by the 22 sibling rows printing 24 g. Part not corrected: '(1.)' is undefined in the book's abbreviation table and neither verse nor numbering names a part."
-    }
-   ],
-   "missingRows": [],
-   "reasons": "Source opened at /Users/jairajsharma/Projects/ayurveda-atlas/sources-private/afi-b32232184.txt, heading \"1 : 22 PIPPALYADYASAVA\" at line 4462 with classical source at 4463-4464, exactly as transcribed.\n\nColumn reconstruction redone independently and it confirms the submission's. Items 1-4 print inline and complete at 4479-4482. Items 5-27 split into three columns: garbled number column 4488-4513 (4 tokens on line 4488 + 19 later tokens = 23), name column 4516-4549 (23 names, Citraka at 4516 through Draksa at 4549, with Candana's gloss wrapping 4530-4531), part/quantity column 4563-4589 (19 par"
-  },
-  {
-   "slug": "pushyanuga-churna",
-   "why": "row names not in the entry span",
-   "absent": [
-    "Silabheda",
-    "Rasanjana",
-    "Ambasthaki",
-    "Padma kesara",
-    "Gairika",
-    "Katphala",
-    "Marica",
-    "Mrdvika",
-    "Rakta candana",
-    "Katvanga",
-    "Madhuka",
-    "Arjuna"
-   ]
-  },
-  {
-   "slug": "rohitakarishta",
-   "why": "row names not in the entry span",
-   "absent": [
-    "Cavya",
-    "Citraka",
-    "Tvak"
-   ]
-  },
-  {
-   "slug": "sukumaram-ghritam",
-   "why": "verifier: reject",
-   "rowErrors": [
-    {
-     "n": 11,
-     "problem": "False line citation in a declared correction, and the note contradicts itself. ocrCorrected states: \"Part printed '(PI.)' at line 15161 is the fifth and last cell of parts group 1\" - but line 15161 is BLANK (verified: 15156 '(?.)', 15157-15160 '(PI.)', 15161 and 15162 empty, 15163 '(Rt.)'). The same note then states the correct boundary in its own parenthesis, \"the parts block runs 15156-15160 and 15163-15171\", which makes the fifth cell 15160, not 15161. So the row cites a line that holds no text as the source of the glyph it corrects. The VALUE (Pl.) is right; the stated evidence is not.",
-     "correct": "Goksura | (Pl.) from line 15160, the fifth and last cell of parts group 1 | 480 g. (line 15178)"
-    },
-    {
-     "n": 8,
-     "problem": "Line citation off by one. ocrCorrected says the part is \"printed '(PI.)' at line 15158\". Row 7 (Salaparni) correctly takes 15156, so the five-cell group 15156-15160 maps 7->15156, 8->15157, 9->15158, 10->15159, 11->15160. Prsniparni's cell is 15157. The quantity citation (15175) is correct.",
-     "correct": "Prsniparni | (Pl.) from line 15157 | 480 g."
-    },
-    {
-     "n": 9,
-     "problem": "Line citation off by one, inherited from row 8. ocrCorrected says \"Part printed '(PI.)' at line 15159\"; Brhati's cell is line 15158. Quantity citation (15176) is correct.",
-     "correct": "Brhati | (Pl.) from line 15158 | 480 g."
-    },
-    {
-     "n": 10,
-     "problem": "Line citation off by one. ocrCorrected says \"Part printed '(PI.)' at line 15160 = (Pl.)\"; line 15160 is Goksura's cell (the fifth of group 1). Kantakari's part cell is line 15159. The rest of this row's reasoning - the dropped number at 15135 ('. Kantakari'), the 15130-15153 name run, and the 14-token number column with '14.' (15116), '16.' (15118), '18.' (15120) at positions 5/7/9 - is independently verified and correct.",
-     "correct": "Kantakari | (Pl.) from line 15159 | 480 g. (line 15177)"
-    }
-   ],
-   "missingRows": [],
-   "reasons": "Narrow rejection. All 34 row VALUES are exact and all four previously-disputed cells are now handled correctly; the rejection is on falsified evidence in four ocrCorrected fields, one of which cites a blank line, against an explicit claim that all citations were re-anchored.\n\nIDENTITY (confirmed independently). Heading line 15079 \"6:44 SUKUMARA GHRTA\", classical source line 15080 \"(Sahasrayoga, Ghrtaprakarana; 4.)\", Devanagari source line 15091. My own `grep -in sukumar` over afi-b32232184.txt returns exactly the ten lines the transcription names: 11992 (Group 6 contents), 15079 (the only comp"
-  },
-  {
-   "slug": "vidangarishta",
-   "why": "verifier: reject",
-   "rowErrors": [
-    {
-     "n": 9,
-     "problem": "Row 9 \"Water for decoction\": the unit correction ('98.304 1.' at line 5515 read as litres) is substantively forced, but its stated evidence is misattributed. The row asserts \"AFI's weights table at line 64528 gives 1 drona = 12 kg 288 g\". Line 64528 actually reads \"4 Dronis = 1 Khari = 19618. 6088. , 1\" - a different row entirely. The drona row is line 64525 and it is itself OCR-garbled: \"4 Adhakas = 1 Drona = 12182. 228g. ~ = gaze Days!\", so the table does not legibly \"give\" 12 kg 288 g at any line. Same misattribution as the last round's misquoted OCR string: the cited location does not say what it is claimed to say.",
-     "correct": "Values stand: quantity \"98.304 l.\" with the unit corrected from the printed '98.304 1.' (line 5515). Evidence must be re-cited as: verse 48 at line 5409 (asta-dronembhasah); the liquids note at lines 64535-64536; and the drona equivalence at line 64525, quoted as printed and garbled (\"12182. 228g.\"), or derived from 4 Adhakas x 1 Adhaka = 3 kg 73 g at line 64524. Not line 64528."
-    },
-    {
-     "n": 9,
-     "problem": "Row 9 continuation \"reduced to\": same misattribution. It cites \"1 drona = 12.288 l per the weights table at line 64528\"; 64528 is the khari row, not the drona row.",
-     "correct": "Values stand: quantity \"12.288 l.\" corrected from the printed '12.288 1.' (line 5517). Cite line 64525 (printed garbled) plus the liquids note at 64535, not 64528."
-    },
-    {
-     "n": 4,
-     "problem": "The forcing argument as written is inaccurate, and rows 5-9 all inherit it by reference (\"the same six-token count\"). Row 4 states that between the intact '3.' (line 5442) and the intact '10.' (line 5456) \"exactly six names stand\", listing 5469, 5470, 5471, 5473, 5475, 5476. Seven names stand in that span: line 5477 (\"reduced to\") is also between them. Six numeral tokens against seven names is precisely the asymmetry that has to be explained, and the explanation (that \"reduced to\" is an unnumbered continuation) appears only in the note and in the second n=9 row, not in the argument that is claimed to force n=4 through n=9.",
-     "correct": "n=4 is still correct. The justification must state the count honestly: seven names stand between the intact '3.' and the intact '10.', six numeral tokens exist at line 5453, and \"reduced to\" (line 5477) is the unnumbered one - forced by verse 48 at line 5409 (kuryad drona-vasesitam), which makes it the reduction of the preceding water row rather than a new ingredient."
-    }
-   ],
-   "missingRows": [],
-   "reasons": "Source re-read independently: /Users/jairajsharma/Projects/ayurveda-atlas/sources-private/afi-b32232184.txt. Heading \"1 : 34 VIDANGARISTA\" confirmed at line 5395; classical source at 5396 \"(Sarngadharasamhita,\" and 5397 \"Madhyamakhanda,Adhyaya 10;47-50.)\"; Devanagari colophon at 5433; next entry \"1 : 35 SRIKHANDASAVA\" at 5533.\n\nENTRY IDENTITY: confirmed. grep for VIDANGARISTA/Vidangarista in Part I returns exactly three hits - 3018 (contents), 5395 (the entry heading), 47392 (Group 1 index item 34) - and only 5395 carries a composition list. Part II (afi-b32232172.txt) has no Vidangarista; its"
+   "reasons": "Entry identity confirmed. Line 19000 is the heading line; its left-column heading text is degraded to \"wee oN aloes em\" (its right column carries composition item 22), so \"8:2 ARIMEDADI TAILA\" is a reconstruction, but it is fixed by four independent points I verified: the source line at 19001-19002 (\"stangahrdaya, Uttarasthana,\" / \"Adhyaya 22; 90-93%, 95-96)\"), the Group 8 contents table at 18215-18216 placing Arimedadi Taila at page 129 between Anu Taila (18213) and Asanavilvadi Taila (18217), the next heading \"8:3 ASANABILVADI TAILA\" at 19067 with its Sahasrayoga source at 19068, and the run"
   },
   {
    "slug": "vidaryadi-ghrita",
-   "why": "verifier: accept",
+   "why": "verifier: reject",
    "rowErrors": [
     {
-     "n": 20,
-     "problem": "Row 20's ocrCorrected note cites \"4:31 glosses Tripadi as 'hamsaraja' at line 10277\"; line 10277 is blank. The line that prints \"20. Tripadi (hamsaraja) (?1.) 1 part\" is 10276. Off-by-one citation in a non-forcing corroboration note only; the recorded cells (Tripadi / hamsapadi / Rt. / 38.4 g.) are exact and correctly declared.",
-     "correct": "10276"
+     "n": 4,
+     "problem": "Source misquoted, on the one line where the column break is least visible. Line 14970 is byte-for-byte \"36. Truti 0 (Sd.) 4.92 8.14  Vesciva (sveta punamava) (Rt.) 38.4 g.\" (verified with od -c: no pipe character). The objectionsResolved column-contamination paragraph, which presents five verbatim line quotations as its proof of no left-column leakage, renders this one as \"36. Truti 0 (Sd.) 4.92 8.|4  Vesciva ...\", fabricating the column-break character that is exactly what it claims to demonstrate; the other four quotes (14967, 14968, 14969, 14971) are verbatim. Row 4's own ocrCorrected likewise states the line \"prints\" \"4  Vesciva (sveta punamava) (Rt.) 38.4 g.\", presenting as printed a list number that is in fact fused into the left column's unit glyph as \"8.14\". The recorded cells (Vrsciva / sveta punarnava / Rt. / 38.4 g.) are themselves exact.",
+     "correct": "Quote line 14970 as it actually prints: \"36. Truti 0 (Sd.) 4.92 8.14  Vesciva (sveta punamava) (Rt.) 38.4 g.\", and state in row 4's note that the list number 4 survives only as the final digit of the fused token \"8.14\" (confirmed independently by the verse position of वृश्चीव and the unbroken 3-5 sequence). Cell values unchanged."
+    },
+    {
+     "n": 14,
+     "problem": "Undamaged printed text altered on a rationale the source contradicts. Line 14995 prints \"(Satavari)\" with a capital S; the gloss is recorded lower case as \"satavari\". The declared ground is \"AFI's lower-case printing of these parenthetical synonyms elsewhere in this same list\", but this entry's typography is inconsistent, not lower case: it prints \"(sveta punamava)\" lower case at 14970 yet \"(Satavari)\" at 14995 and \"(Sveta sariva)\" at 15000 capitalised, and 4:31 corroborates capitals at 10260 \"(Sveta punarnava)\" and 10275 \"(Sveta sariva.)\". The change is declared but not forced, and is applied to a cell that is legible exactly as printed.",
+     "correct": "Satavari"
+    },
+    {
+     "n": 19,
+     "problem": "Same defect. Line 15000 prints \"19. Gopa suta (Sveta sariva) (Rt.) 38.4 g.\" cleanly, with a capital S; the gloss is recorded lower case as \"sveta sariva\" under the same case-normalisation rationale, which the entry's own mixed capitalisation and 4:31's capitalised \"(Sveta sariva.)\" at 10275 undercut. Name, part and quantity are exact.",
+     "correct": "Sveta sariva"
     }
    ],
    "missingRows": [],
-   "reasons": "I opened /Users/jairajsharma/Projects/ayurveda-atlas/sources-private/afi-b32232184.txt at the cited heading region and read lines 14940-15020 raw, then checked every cross-reference line the transcription cites.\n\nLINE MAP VERIFIED. Every line number asserted is correct: heading fragments \"(4:\" 14952, \"४ GHRT\" 14954, \"13\" 14956; roman source line 14959 \"tahgahrdaya, Cikitsasthana, Adhyaya 3; 9.\"; verse 14963; Devanagari source 14966; rows 1-5 at 14967-14971 (each merged on an OCR line with the tail of 6:40 in the left column); footnote 3 at 14983-14984; rows 6-23 at 14987-15008; Dosage 15009-15"
-  },
-  {
-   "slug": "yogaraja-guggulu",
-   "why": "row names not in the entry span",
-   "absent": [
-    "Tvak",
-    "Talisa patra"
-   ]
+   "reasons": "Verified independently at source: /Users/jairajsharma/Projects/ayurveda-atlas/sources-private/afi-b32232184.txt lines 14940-15020 read raw, plus 10220-10280, 11960-11975, 48437, 48493, 53060/53111, 53826/53884, 14823, 15017, 14944/14946, 10815, 45676.\n\nENTRY IDENTITY: confirmed and not a variant. Sequence holds (6:40 VASTYAMAYANTAKA GHRTA at 14823, 6:42 SATPALA GHRTA at 15017); contents prints 40/41/42 at 11965/11968/11971; formulary index 48437 \"159. VIDARYADI GHRTA\"; alphabetical index pairs vidaryadi ghrta with 6:41. grep \"vidary\" in Part I returns only 4:31 VIDARYADI KVATHA CURNA (a curna "
   }
  ],
  "dbDisagreements": {
@@ -1112,7 +849,7 @@
    "Companion DB has no Amrta Ghrta or Amrtaprasa Ghrta row, so there are no ingredient rows to compare."
   ],
   "amritaprasha-ghrita": [
-   "No companion formulations database is present in this repo checkout to compare against. /Users/jairajsharma/Projects/ayurveda-atlas/data/sources/ contains only api-botanicals.json (a single-drug botanical index), and there is no sqlite or formulations JSON anywhere outside node_modules. The prior transcription's claim that 'a search on pras/prash/amrit matched only Pravala-pancamrta Rasa' could not be reproduced here and is not carried forward as verified.",
+   "No companion formulations database is present in this repo checkout to compare against. /Users/jairajsharma/Projects/ayurveda-atlas/data/sources/ contains only api-botanicals.json (a single-drug botanical index) and icd-tm2-crosswalk.json; there is no sqlite or formulations JSON anywhere outside node_modules. The claim in an earlier transcription that 'a search on pras/prash/amrit matched only Pravala-pancamrta Rasa' could not be reproduced here and is not carried forward as verified.",
    "Consequently there are no database ingredient rows to set against the 45 AFI rows above; this section is reported as not checkable rather than as agreement."
   ],
   "amritarishta": [
@@ -1160,11 +897,11 @@
    "Companion DB has no Asoka Ghrta formulation row at all (only Aśokāriṣṭa matched), so no ingredient rows to compare."
   ],
   "ashokarishta": [
-   "DB 'Madhu' listed as fermenter is not in AFI; AFI's sweetener is Guda 9.600 kg. (row 3, line 3670), and no madhu/maksika appears in this entry.",
-   "DB 'Trikatu' is not in AFI; AFI has only Sunthi 48 g. (row 7, line 3676), with no Marica and no Pippali.",
+   "DB lists 'Madhu' as the fermenter. Madhu is not in this AFI entry; AFI's sweetener is Guda 9.600 kg. (row 3, line 3670), and no madhu or maksika appears anywhere in the entry's rows or in verses 114-116. (The maksika at line 3633 is Aravindasava 1:4 row 28, the left column of the same page.)",
+   "DB lists 'Trikatu'. AFI has only Sunthi 48 g. (row 7, line 3676); there is no Marica and no Pippali in this entry.",
    "DB omits Guda, Ajaji, Darvi, Utpala, Haritaki, Bibhitaka, Amalaki, Amrasthi, Jiraka, Vasa, Candana and the water of decoction.",
-   "DB proportions are role labels (principal / fermenter / supportive) rather than the weights AFI prints.",
-   "Caveat on the four items above: the companion herb database is not present under /Users/jairajsharma/Projects/ayurveda-atlas, so these four disagreements are carried forward from the prior extract and were not re-read from the DB in this repair pass. The AFI side of each statement was re-read from the book and is correct."
+   "DB records proportions as role labels (principal / fermenter / supportive) rather than the weights AFI prints.",
+   "Caveat, restated because it still holds: no companion herb database exists under /Users/jairajsharma/Projects/ayurveda-atlas (the repo root contains content, data, src, scripts, sources-private and build output, and a search for a herb-DB or Amidha file returns nothing), so the four statements above are carried forward from the prior extract and were not re-read from the DB in this pass. The AFI half of each statement was re-read from the book in this pass and is correct."
   ],
   "ashwagandharishta": [
    "DB 'Guda' (fermentation sugar) vs AFI Maksika (madhu) 14.400 kg",
@@ -1192,7 +929,7 @@
    "Cross-reference only: API carries three Goksura monographs (Root, Fruit, Whole Plant); AFI 1:24 specifies Fr. for Svadamstra (goksura)."
   ],
   "balaswagandhadi-thailam": [
-   "No companion composition database was available to compare against. The repo carries only data/sources/api-botanicals.json (a botanical index for the Pharmacopoeia, not formulation compositions) and run artifacts under data/; a search across data/ for balaswagandh/balasvagandh returned only this run's own pipeline files (data/runs/afi-composition.json, data/claims.json, data/enrichment/abstract.json, data/monitor-state.json). So there are no database rows to agree or disagree with, and the prior extract's claim that a companion DB was consulted and found empty is restated here as \"not available\" rather than \"checked and absent\"."
+   "No companion composition database was available to compare against. The repo carries only data/sources/api-botanicals.json (a botanical index for the Pharmacopoeia, not formulation compositions) and run artifacts under data/; a search across data/ for balaswagandh/balasvagandh returned only this run's own pipeline files (data/runs/afi-composition.json, data/claims.json, data/enrichment/abstract.json, data/monitor-state.json). So there are no database rows to agree or disagree with; this is recorded as \"not available\" rather than \"checked and absent\"."
   ],
   "bhringaraja-svarasa": [
    "The companion DB has no Bhringaraja Svarasa formulation. The only related rows are Bhṛṅgarāja Taila and Bhṛṅgāmalakādi Taila."
@@ -1208,7 +945,7 @@
    "The companion DB has no Brahmi Ghrta/Ghritam row. The closest are 'Brahmī Sidha Taila' (Brāhmī kalka + svarasa; Tila Taila) and 'Brahma Rasāyana' (no ingredients), both different formulations. Nothing to compare."
   ],
   "brahmi-vati": [
-   "The companion formulation DB at /Users/jairajsharma/Projects/ageayurveda-companion/backend/app/data/formulations/seed_classical.yaml has no Brahmi Vati row at all. Its only Brahm- entries are 'Brahma Rasayana' (line 281, an avaleha, no ingredient list) and 'Brahmi Ghrta' / 'Brahmi Ghee' (line 298, a ghrta), neither of which is this formulation, so there is nothing to compare the 38 AFI items against. Note: the prior transcription named the second DB row 'Brahmi Sidha Taila'; the row is actually 'Brahmi Ghrta', corrected here."
+   "The companion formulation DB at /Users/jairajsharma/Projects/ageayurveda-companion/backend/app/data/formulations/seed_classical.yaml has no Brahmi Vati row at all. Its only Brahm- entries are 'Brahma Rasayana' (name_iast line 281, an avaleha with no ingredient list) and 'Brahmi Ghrta' / english 'Brahmi Ghee' (name_iast line 296, english line 298), neither of which is this formulation, so there is nothing to compare the 38 AFI items against."
   ],
   "caturjata-churna": [
    "Companion DB has no formulation matching Caturjata (no rows to compare)"
@@ -1223,12 +960,12 @@
    "Companion DB has no Citrakadi/Chitrakadi formulation row (no name_iast or english matching '%tr%kad%'), so there is nothing to compare"
   ],
   "dadimadi-ghrita": [
-   "Companion DB entry 'Dadimadya Ghrta' lists Dadima, Trikatu, Tvak, Ela, Patra, Ghrta. Trikatu, Tvak, Ela and Patra do not appear in AFI 6:19, and AFI's Dhanya, Citraka and Water do not appear in the DB entry, so the DB describes a different dadima ghrta. Carried forward from the earlier run: the DB file is not present in this repo checkout, so this records the earlier reading rather than a fresh one.",
-   "DB proportions ('principal', 'supportive', Ghrta '1 part') cannot be reconciled with AFI's absolute quantities 192/96/48/48/24 g, Ghrta 960 g and Water 3.072 l."
+   "Companion DB entry 'Dadimadya Ghrta' lists Dadima, Trikatu, Tvak, Ela, Patra, Ghrta. Trikatu, Tvak, Ela and Patra do not appear in AFI 6:19, and AFI's Dhanya, Citraka and Water do not appear in the DB entry, so the DB describes a different dadima ghrta. Carried forward from the earlier run rather than freshly read: the DB file is not present in this repo checkout.",
+   "DB proportions ('principal', 'supportive', Ghrta '1 part') cannot be reconciled with AFI's absolute quantities 192/96/48/48/24 g, Ghrta 960 g and Water 3.072 l. Also carried forward, same reason."
   ],
   "dadimashtaka-churna": [
-   "The prior transcription's claim that 'Companion DB has no Dadimashtaka Churna row' is factually wrong and is corrected here: /Users/jairajsharma/Projects/ayurveda-atlas/src/data/dravyaguna.json does carry an entry with slug 'dadimashtaka-churna' (title 'Dadimashtaka Churna', kind 'formulation').",
-   "The real disagreement is narrower: that DB row holds only rasa/guna/virya/vipaka (Madhura, Kashaya, Amla; Laghu; Ushna; Madhura) and no ingredient list, so there is no composition in the DB to check against AFI's 14 ingredients. The DB's virya 'Ushna' cannot be checked against AFI either, since AFI 7:7 states no dravyaguna properties.",
+   "/Users/jairajsharma/Projects/ayurveda-atlas/src/data/dravyaguna.json does carry an entry with slug 'dadimashtaka-churna' (title 'Dadimashtaka Churna', kind 'formulation'), re-verified this round. An earlier submission's claim that the DB has no such row was false and stays withdrawn.",
+   "The real disagreement is narrower: that DB row holds only rasa (Madhura, Kashaya, Amla), guna (Laghu), virya (Ushna) and vipaka (Madhura), with botanical, sanskrit, prabhava and dosha all empty and no ingredient list, so there is no composition in the DB to check against AFI's 14 ingredients. The DB's virya 'Ushna' cannot be checked against AFI either, since AFI 7:7 states no dravyaguna properties.",
    "The only DB composition row in the dadima family is for Dadimadi/Dadimadya Ghrta, a different formulation (AFI Part I 6:19), and it is already recorded as disagreeing with AFI on its own page; it is not evidence about this churna."
   ],
   "dashamoola-katutraya-kashayam": [
@@ -1241,7 +978,7 @@
    "DB 'Daśamūla Curṇa' (0427840a...): same ten at 1 part each; same order/part omissions as above. AFI has no plain 'Dasamula Curna' entry, only 4:10 Kvatha Curna."
   ],
   "dashamularishta": [
-   "The earlier transcription's claim that the companion DB has no row for this formulation is WRONG. /Users/jairajsharma/Projects/ageayurveda-companion/backend/ageayurveda.db has formulations row id 09486da5-cf70-4ffa-92c3-cdf431ae1663, name_iast \"Daśamūlāriṣṭa\", kalpana_type \"ariṣṭa\". The earlier search missed it because the column is name_iast and the value carries diacritics.",
+   "The companion DB does hold a row for this formulation: /Users/jairajsharma/Projects/ageayurveda-companion/backend/ageayurveda.db, formulations id 09486da5-cf70-4ffa-92c3-cdf431ae1663, name_iast \"Daśamūlāriṣṭa\", kalpana_type \"ariṣṭa\" (re-queried this round and confirmed; it is found only by searching name_iast with diacritics).",
    "Classical source. The DB gives classical_source \"Bhaiṣajya Ratnāvali Sūtikā-roga\"; AFI 1:18 attributes the formulation to Sarngadharasamhita, Madhyamakhanda, Adhyaya 10; 78-89 (lines 4240-4241, Devanagari colophon at line 4293).",
    "Dose. The DB gives dose_value 15-30 ml; AFI 1:18 prints \"12 to 24 ml.\" (lines 4337-4338).",
    "Anupana. The DB gives anupana [\"sama-mātrā jala\"]; the AFI 1:18 entry prints no anupana.",
@@ -1518,6 +1255,7 @@
    "DB gives no plant parts; where AFI's cell is readable, the part is fixed (e.g. Guduci St., Madhuyasti Rt., Granthika Rt., Devadaru Ht. Wd.), and for Kairata the cell is the garbled \"(?1.)\" read as Pl."
   ],
   "mahayograj-guggul": [
+   "NOT RE-VERIFIABLE IN THIS REPAIR, and carried forward from the prior pass on that basis: the ingredient database is not present in this repository. The only file under /Users/jairajsharma/Projects/ayurveda-atlas/data that mentions \"Pravāla\" alongside this formulation is data/runs/afi-composition.json, which is the run output itself, not the source DB. The six items below are therefore reported as previously recorded and should be re-checked against the real database before any of them is acted on.",
    "DB formulation \"Mahā-yogarāja Guggulu\" carries only 5 ingredient rows against AFI's 31.",
    "DB row 0 \"Yogarāja Guggulu base\" (proportion \"principal\") collapses the whole herbal list into one composite item; AFI 5:6 enumerates each drug with its own part and weight and is not defined as Yogaraja Guggulu plus additions.",
    "DB lists Pravāla-bhasma (supportive); AFI 5:6 does not list Pravala bhasma.",
@@ -1543,7 +1281,7 @@
   "narayana-thailam": [
    "The companion formulation DB (/Users/jairajsharma/Projects/ageayurveda-companion/backend/app/data/formulations/seed_classical.yaml, record at lines 337-361) has no Narayana Taila record at all. Its only near match is 'Mahānārāyaṇa Taila' (Mahanarayan Oil), which corresponds to AFI Part I 8:45, a different entry.",
    "That record is not a per-ingredient composition: six ingredient rows in all, five of them grouped bundles and the sixth a placeholder, 'ingredient_name: 56 dravyas total per BR — full list in AFI', with no proportion. No name, part or quantity can be matched item for item against AFI 8:23.",
-   "The DB's first group is 'Bilva, Agnimantha, Śyonāka, Pāṭalā, Gambhārī (Bṛhat-pañcamūla)' and its liquids row is 'Bhṛṅgarāja-svarasa, Aja-kṣīra (goat's milk)'. AFI 8:23 has no Gambhari and no Bhrngaraja-svarasa; its liquids are Satavararasa (item 33) and Gavya ksira (item 34).",
+   "The DB's first group is 'Bilva, Agnimantha, Śyonāka, Pāṭalā, Gambhārī (Bṛhat-pañcamūla)' and its liquids row is 'Bhṛṅgarāja-svarasa, Aja-kṣīra (goat's milk)'. AFI 8:23 has no Gambhari and no Bhrngaraja-svarasa; its liquids are Satavararasa (item 33) and Gavya ksira (item 34), though the entry's verse at line 20092 does allow goat's milk as an alternative to cow's.",
    "DB gives 'Tila taila, 1 part'. AFI 8:23 specifies 15. Taila (tila) (Ol.) 3.072 kg.",
    "DB proportions for the root groups are the single word 'kvātha', and its third row (Aśvagandhā, Bala, Atibala, Rāsnā) carries no proportion at all. AFI gives absolute weights: 480 g. per drug in the decoction group and 96 g. per drug in the kalka group."
   ],
@@ -1597,7 +1335,7 @@
    "DB row 'Pippalyasava' (id e576e9fc-9f4d-4107-a685-abbc6a8f1cfb, recorded in data/runs/afi-composition.json) lists only 6 ingredients against AFI 1:22's 27 numbered items.",
    "DB lists 'Madhu' (honey) as the fermenter; AFI 1:22 has no madhu anywhere in its verse or its numbered list - its sweetening and fermentation base is Guda 14.400 kg (item 25, line 4584), with Dhataki Fl. 480 g (item 26) and Draksa 2.880 kg (item 27).",
    "DB omits 22 AFI items, among them Marica, Cavya, Haridra, Citraka, Ghana (musta), Kramuka, Lodhra, Dhatri, Elavaluka, Usira, Candana, Kustha, Lavanga, Tagara, Mamsi, Tvak, Patra, Priyangu, Nagakesara, Water, Guda and Draksa.",
-   "DB proportions are qualitative role labels (principal / supportive / fermenter) and cannot be reconciled with AFI's weights, where items 1-23 are each 24 g (verse line 4472, 'eSAm ardha-palAn bhAgAn') and only Water, Guda, Dhataki and Draksa differ.",
+   "DB proportions are qualitative role labels (principal / supportive / fermenter) and cannot be reconciled with AFI's weights, where items 1-23 are each 24 g (verse line 4472, ardha-pala) and only Water, Guda, Dhataki and Draksa differ.",
    "DB does carry Patha and Ela, which AFI also has (items 10 and 20), but marks them 'supportive' rather than giving them the same 24 g as every other herb in the entry.",
    "Note on scope: this DB content was read from the prior run record at data/runs/afi-composition.json, not from a live companion database, so it is carried forward as recorded rather than independently re-queried."
   ],
@@ -1619,7 +1357,7 @@
    "DB omits Triphala's split into its three components, which AFI gives as separate numbered items 4, 5 and 6 (Haritaki, Bibhitaka, Amalaki), each with its own part (Fr.P.) and quantity."
   ],
   "pushyanuga-churna": [
-   "No comparison was possible. The repo's AFI composition store, src/data/composition.json (48 records, written by scripts/apply-composition.mjs), contains no pushyanuga-churna record, and no other ingredient database in the repo carries this formulation. Searching data/ and src/data/ for 'pushyanuga' or 'pusyanuga' returns only page-level bookkeeping files (claims.json, monitor-state.json, page-dates.json, manifest.json, citations.json, chemistry.json, compounds.json, enrichment/pubchem.json) and the prior run output data/runs/afi-composition.json, none of which holds an ingredient list for it."
+   "No comparison was possible. The repo's AFI composition store, src/data/composition.json, now holds 84 records and still contains no pushyanuga-churna key (I re-loaded and re-checked it this round, since it has grown from the 48 records seen previously). No other ingredient database in the repo carries this formulation: searching data/ and src/data/ for 'pushyanuga' or 'pusyanuga' returns only page-level bookkeeping files (claims.json, monitor-state.json, page-dates.json, manifest.json, citations.json, chemistry.json, compounds.json, enrichment/pubchem.json) and the prior run output data/runs/afi-composition.json, none of which holds an ingredient list for it."
   ],
   "rasnasaptakam-kashayam": [
    "DB name \"Rasna-saptaka Kvātha\" omits \"Curna\"; the AFI heading at line 5410 is \"RASNASAPTAKA KVATHA CURNA\".",
@@ -1630,7 +1368,7 @@
    "DB carries no plant parts, and no praksepa dravya (sunthi cirna, Q.S., lines 5436 to 5437)."
   ],
   "rohitakarishta": [
-   "The companion DB (/Users/jairajsharma/Projects/ageayurveda-companion/backend/ageayurveda.db) holds 206 formulations and no Rohitakarista record: a query on formulations for name_iast or english containing \"rohit\" returns zero rows, so formulation_ingredients has nothing to compare against."
+   "The companion DB at /Users/jairajsharma/Projects/ageayurveda-companion/backend/ageayurveda.db holds 206 formulations and no Rohitakarista record. Re-queried directly this round: a select on formulations where lower(name_iast) or lower(english) contains \"rohit\" returns zero rows, so formulation_ingredients has nothing to compare against."
   ],
   "sahacharadi-thailam": [
    "The companion DB holds only 3 rows for Sahacarādi Taila (Sahacara, Daśamūla, Tila Taila) against AFI's 33 numbered items; 31 AFI items have no DB row, including Ksira (godugdha) and every aromatic from Sevya to Nata.",
@@ -1744,10 +1482,10 @@
    "DB 'Sitā (sugar)' glosses the name; AFI prints 'Sita' with no gloss."
   ],
   "vidangarishta": [
-   "No companion herb/formulation database is reachable from this repo in this pass, so no row-by-row name or proportion comparison against a DB record was possible. Searching the repo's data directory for a Vidangarista/Vidangarishta formulation record returns nothing; the only occurrence of the identifier the prior transcription cited for 'Vidanga Curna' (8d8b31ef-1f81-403d-be99-e9a7c6918b60) is inside data/runs/afi-composition.json, which is this pipeline's own run output rather than a source DB. The prior transcription's claim that the DB holds no Vidangarista and that its nearest name match is a different preparation is therefore restated here as unverified in this pass rather than re-asserted as checked."
+   "No companion herb/formulation database is reachable from this repo in this pass, so no row-by-row name or proportion comparison against a DB record was possible. Searching the repo's data directory for a Vidangarista/Vidangarishta formulation record returns nothing; the only occurrence of the identifier the first transcription cited for 'Vidanga Curna' (8d8b31ef-1f81-403d-be99-e9a7c6918b60) is inside data/runs/afi-composition.json, which is this pipeline's own run output rather than a source DB. The earlier claim that the DB holds no Vidangarista and that its nearest name match is a different preparation is therefore restated here as unverified in this pass rather than re-asserted as checked."
   ],
   "vidaryadi-ghrita": [
-   "The companion database (/Users/jairajsharma/Projects/ageayurveda-companion/backend/ageayurveda.db, 206 formulations) has no Vidaryadi Ghrita record: queries on formulations.name_iast and formulations.english for 'vidary' and for 'vidari' return nothing, and the 15 ghrta records present (Brahmi, Triphala, Maha-tikta, Panca-tikta, Ashvagandha, Phala, Kalyanaka, Dadimadya, Maha-Triphala, Draksadi Tarpana, Sukumara, Maha-Manjisthadi, Yastimadhu, Eladi, Maha-Yastyadi) do not include it. There are therefore no DB ingredient rows to compare against AFI 6:41."
+   "The companion database (/Users/jairajsharma/Projects/ageayurveda-companion/backend/ageayurveda.db, 206 formulations) has no Vidaryadi Ghrita record: I re-ran the query myself this round and 'select id, name_iast, english from formulations where lower(name_iast) like \"%vidar%\" or lower(english) like \"%vidar%\"' returns no rows. There are therefore no DB ingredient rows to compare against AFI 6:41."
   ],
   "vyoshadi-guggulu": [
    "Companion DB contains no Vyoshadi Guggulu row at all; the nearest name present is 'Vyoṣādi Vaṭī' (Three-pungents tablet), a different formulation, so no ingredient-level comparison is possible."
@@ -1758,15 +1496,16 @@
    "DB row 'Yavani, Vaca, Pippali-mula, Cavya, Citraka, Kustha' includes Vaca. Vaca is not in AFI 5:7; it is item 19 of 5:6 Maha Yogaraja Guggulu, printed at line 10938.",
    "DB row 'Saindhava, Sauvarcala, Vid-lavana, Samudra-lavana - 1 part each' lists four salts; AFI 5:7 has only Saindhava lavana, row 11 (line 10945).",
    "DB omits these AFI ingredients: Ajamoda, Suradaru (devadaru), Ela (suksmaila), Rasna, Goksura, Dhanyaka, Mustaka, Tvak, Usira, Yavagraja (yavaksara), Talisa patra, Patra (tejapatra), Vidanga and Sarpi (goghrta).",
-   "DB aggregates the formulation into 6 grouped rows with descriptive proportions; AFI gives 29 individually numbered rows, each with a plant-part abbreviation where one applies and a uniform quantity of 1 part."
+   "DB aggregates the formulation into 6 grouped rows with descriptive proportions; AFI gives 29 individually numbered rows, each with a plant-part abbreviation where one applies and a uniform quantity of 1 part.",
+   "Caveat on this list: the upstream herb-database record is not present in the repo checkout, only its quotation inside data/runs/afi-composition.json, so the DB side of each statement is carried forward unverified from the earlier run. The AFI side of every statement was re-read from the book at the lines cited."
   ]
  },
  "summary": {
   "examined": 135,
-  "published": 84,
+  "published": 100,
   "notInAfi": 30,
-  "rejected": 21,
-  "rows": 1452,
+  "rejected": 5,
+  "rows": 1937,
   "pagesWhereDbDisagrees": 122
  }
 }

@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Tailas-Medicated-Oils"
-answer: "Dhanwantaram Thailam is a classical Ayurvedic taila, a medicated oil. Listed in Ayurvedic Formulary of India (AFI) Part I. Contains 28+ herbs processed in sesame oil with milk. [The GC-MS Study of the Ayurvedic Formulation \"Dhanwantharam Thailam\" Used for Rheumatism](https://pubmed.ncbi.nlm.nih.gov/38882853/)."
+answer: "Dhanwantaram Thailam is a classical Ayurvedic taila, a medicated oil. Listed in Ayurvedic Formulary of India (AFI) Part I. Ashtanga Hridayam (Sutrasthana); also referenced in Sahasrayogam (Taila Prakarana). Contains 28+ herbs processed in sesame oil with milk."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Dhanwantaram Thailam", "DhanwantaramThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 626
+words: 571
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Dhanwantaram-Thailam/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,19 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Dhanwantara
 | Language | Name |
 |----------|------|
 | English | [Dhanwantaram Thailam](/nighantu/formulation/dhanwantaram-thailam/) |
-
-## Key Ingredients
-
-- [Bala](/nighantu/herb/bala/) (Sida cordifolia)
-- [Ashwagandha](/nighantu/herb/ashwagandha/) (Withania somnifera)
-- [Dashamoola](/nighantu/herb/dashamoola/) (ten roots - [Bilva](/nighantu/herb/bilva/), [Agnimantha](/nighantu/herb/agnimantha/), [Shyonaka](/nighantu/herb/shyonaka/), [Patala](/nighantu/herb/patala/), [Gambhari](/nighantu/herb/gambhari/), [Brihati](/nighantu/herb/brihati/), [Kantakari](/nighantu/herb/kantakari/), [Gokshura](/nighantu/herb/gokshura/), Shalaparni, [Prishniparni](/nighantu/herb/prishniparni/))
-- [Manjistha](/nighantu/herb/manjistha/) (Rubia cordifolia)
-- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (Glycyrrhiza glabra)
-- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) ([Tila](/nighantu/herb/tila/) taila) base
-- Cow's milk ([Ksheera](/nighantu/herb/ksheera/))
-- [Shatavari](/nighantu/herb/shatavari/) (Asparagus racemosus)
-- [Devadaru](/nighantu/herb/devadaru/) (Cedrus deodara)
-- Musta (Cyperus rotundus)
 
 ## Where is it described in the classical texts?
 

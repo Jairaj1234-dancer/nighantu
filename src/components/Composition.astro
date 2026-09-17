@@ -87,6 +87,21 @@ const quantityCell = (v: any) => (marked(v) || v == null || String(v).trim() ===
         <tbody>
           {rec.rows.map((r: any) => {
             const link = linkFor(r);
+            /*
+             * A structural row is the book's own furniture, not an ingredient: a sub-heading
+             * printed inside the table ("Praksepa dravyas", the drugs added at the end) or a
+             * continuation line ("reduced to 12.288 l."). It keeps its place in the order,
+             * because dropping it would lose the structure, but it takes no number.
+             */
+            if (r.structural) {
+              return (
+                <tr class="structural">
+                  <td />
+                  <td colspan="2"><em>{r.name}</em></td>
+                  <td>{quantityCell(r.quantity).damaged ? '' : quantityCell(r.quantity).text}</td>
+                </tr>
+              );
+            }
             return (
               <tr>
                 <td>{r.n}</td>
