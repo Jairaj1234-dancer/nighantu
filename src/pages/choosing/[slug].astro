@@ -1,0 +1,101 @@
+---
+/**
+ * Choosing pages: what to look at when picking one preparation over another.
+ *
+ * The rest of this site answers "what is this". These answer "which one, and how would I
+ * tell", which is the question a reader actually has when they arrive from a search and
+ * the question an answer engine has the least good material for. Every factual claim here
+ * has to be traceable to something this site has already verified, and the `grounding`
+ * field on each page says where.
+ */
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import CiteThis from '../../components/CiteThis.astro';
+import ProductModule from '../../components/ProductModule.astro';
+import { getCollection, render } from 'astro:content';
+import { SITE_NAME, PUBLISHER, abs, rel } from '../../lib/site';
+import dates from '../../data/page-dates.json';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('choosing');
+  return entries.map((entry) => ({ params: { slug: entry.data.slug }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const d = entry.data;
+const canonical = `/choosing/${d.slug}/`;
+const published = (dates as any)[canonical]?.published ?? '';
+const modified = (dates as any)[canonical]?.modified ?? published;
+
+const jsonld: Record<string, unknown>[] = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    '@id': `${abs(canonical)}#article`,
+    headline: d.title,
+    description: d.description,
+    inLanguage: 'en',
+    isAccessibleForFree: true,
+    ...(published ? { datePublished: published } : {}),
+    ...(modified ? { dateModified: modified } : {}),
+    mainEntityOfPage: abs(canonical),
+    author: { '@type': 'Organization', name: PUBLISHER, url: abs('/') },
+    publisher: { '@id': `${abs('/')}#organization` },
+    license: 'https://creativecommons.org/licenses/by/4.0/',
+  },
+];
+if (d.faq.length) {
+  jsonld.push({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: d.faq.map((f: any) => ({
+      '@type': 'Question',
+      name: f.q,
+      acceptedAnswer: { '@type': 'Answer', text: f.a },
+    })),
+  });
+}
+---
+<Base title={`${d.title} · ${SITE_NAME}`} description={d.description} canonical={canonical} jsonld={jsonld}>
+  <article>
+    <Crumbs trail={[{ label: 'Choosing', href: '/choosing/' }, { label: d.title }]} />
+    <h1>{d.title}</h1>
+    <p class="answer">{d.answer}</p>
+
+    <div class="prose"><Content /></div>
+
+    {d.faq.length > 0 && (
+      <>
+        <h2>Common questions</h2>
+        <dl>{d.faq.map((f: any) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}</dl>
+      </>
+    )}
+
+    {d.grounding.length > 0 && (
+      <section class="grounding">
+        <h2>Where this comes from</h2>
+        <ul>{d.grounding.map((g: string) => (<li>{g}</li>))}</ul>
+        <p>
+          Nothing on this page is a new factual claim. Where it states a composition or a
+          botanical identity, that statement is published on the page it links to, with the
+          source it was checked against. See <a href={rel('/verification/')}>verification</a>.
+        </p>
+      </section>
+    )}
+
+    <ProductModule slug={d.slug} />
+    <CiteThis title={d.title} canonical={canonical} modified={modified} />
+
+    <p class="disclaimer">
+      <strong>Consult a qualified vaidya before acting on anything here.</strong> This page is
+      about how to compare preparations, not about what anyone should take. Ayurvedic practice
+      is prescribed to a person, not to a condition.
+    </p>
+  </article>
+</Base>
+
+<style>
+  .grounding { margin: 2rem 0; font-size: .92rem; color: var(--ink-soft); }
+  .grounding ul { margin: .5rem 0 .75rem 1.1rem; }
+</style>

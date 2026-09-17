@@ -442,7 +442,7 @@ if (DRY) {
  * nothing re-ingested between that section landing and now. Any future hand-authored
  * section must be added here, or ingest will eat it.
  */
-const NOT_GENERATED_HERE = new Set(['practice']);
+const NOT_GENERATED_HERE = new Set(['practice', 'choosing']);
 for (const e of fs.existsSync(OUT) ? fs.readdirSync(OUT, { withFileTypes: true }) : []) {
   if (e.isDirectory() && NOT_GENERATED_HERE.has(e.name)) continue;
   fs.rmSync(path.join(OUT, e.name), { recursive: true, force: true });

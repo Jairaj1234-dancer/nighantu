@@ -72,6 +72,23 @@ const practiceSchema = z.object({
   faq: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
 });
 
+/**
+ * Choosing pages: decision-shaped guides for a reader who has already understood what a
+ * substance is and now has to pick one. They are hand-authored, like the practice pages,
+ * and every factual claim in them has to be traceable to data this site has verified: the
+ * formulary compositions, the Pharmacopoeia identities, the monographs themselves.
+ */
+const choosingSchema = z.object({
+  title: z.string(),
+  slug: z.string(),
+  kind: z.literal('choosing'),
+  order: z.number(),
+  answer: z.string(),
+  description: z.string(),
+  grounding: z.array(z.string()).default([]),
+  faq: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
+});
+
 const mk = (dir: string, schema: any) => defineCollection({
   loader: glob({ pattern: '**/*.md', base: `./content/${dir}` }),
   schema,
@@ -91,4 +108,5 @@ export const collections = {
   text: mk('text', pageSchema),
   glossary: mk('glossary', glossarySchema),
   practice: mk('practice', practiceSchema),
+  choosing: mk('choosing', choosingSchema),
 };

@@ -22,6 +22,7 @@ export const GET: APIRoute = async () => {
     `- [How we source](${abs('/how-we-source/')}): where the material comes from and how it is checked.`,
     `- [Editorial standards](${abs('/editorial-standards/')}): what this site does and does not claim.`,
     `- [Ayurvedic terms in WHO ICD-11](${abs('/icd-tm2/')}): which Ayurvedic disease terms WHO files against which ICD-11 TM2 codes, reported from the classification itself, terminology only.`,
+    `- [Choosing between preparations](${abs('/choosing/')}): what the Ayurvedic Formulary fixes and what a manufacturer may vary, and why one classical drug name covers several botanical species.`,
     `- [Practices](${abs('/practice/')}): 43 Ayurvedic procedures grouped by who may perform them, each with its classical source and cautions.`,
     `- [Verification](${abs('/verification/')}): how each class of fact was checked and what was rejected, with the rejection rate for every run.`,
     '',
