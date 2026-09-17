@@ -1,0 +1,1136 @@
+{
+ "source": "WHO ICD-11 MMS 2026-01, Module II (TM2)",
+ "method": "A row exists only where a WHO index term, inclusion or foundation synonym on the TM2 entity spells the Sanskrit term (diacritics and spacing folded). No DB-supplied code is used.",
+ "count": 68,
+ "onPrimaryName": 67,
+ "onSynonymOnly": 1,
+ "ambiguous": 4,
+ "crosswalk": [
+  {
+   "sanskrit": "Madhumeha",
+   "devanagari": "मधुमेह",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/298183636",
+     "code": "SP60",
+     "title": "Diabetes mellitus disorder (TM2)",
+     "term": "madhumehaḥ",
+     "via": "Madhumeha",
+     "basis": "primary-name"
+    },
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1280110553",
+     "code": "SM8D",
+     "title": "Polyuria disorder (TM2)",
+     "term": "vātajapramehaḥ",
+     "via": "Vātaja-prameha",
+     "basis": "synonym"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Sthaulya",
+   "devanagari": "स्थौल्य",
+   "basis": "synonym",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/465700982",
+     "code": "SP64",
+     "title": "Obesity disorder (TM2)",
+     "term": "medorogaḥ",
+     "via": "Medoroga",
+     "basis": "synonym"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Hṛdroga",
+   "devanagari": "हृद्रोग",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/381547252",
+     "code": "SL61",
+     "title": "Heart pain disorder (TM2)",
+     "term": "hṛdrogaḥ",
+     "via": "Hṛdroga",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Āmavāta",
+   "devanagari": "आमवात",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1436346745",
+     "code": "SP11",
+     "title": "Rheumatism disorder (TM2)",
+     "term": "āmavātaḥ",
+     "via": "Āmavāta",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Gṛdhrasī",
+   "devanagari": "गृध्रसी",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/17088197",
+     "code": "SP41",
+     "title": "Sciatica disorder (TM2)",
+     "term": "gṛdhrasī",
+     "via": "Gṛdhrasī",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Amlapitta",
+   "devanagari": "अम्लपित्त",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1589628210",
+     "code": "SM39",
+     "title": "Dyspepsia disorder (TM2)",
+     "term": "amlapittam",
+     "via": "Amlapitta",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Vibandha",
+   "devanagari": "विबन्ध",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/2107958569",
+     "code": "SM34",
+     "title": "Constipation disorder (TM2)",
+     "term": "vibandha",
+     "via": "Vibandha",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Atisāra",
+   "devanagari": "अतिसार",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/213858904",
+     "code": "SM37",
+     "title": "Diarrhoea disorder (TM2)",
+     "term": "atisāraḥ",
+     "via": "Atisāra",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Grahaṇī",
+   "devanagari": "ग्रहणी",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/430208128",
+     "code": "SM36",
+     "title": "Malabsorption disorder (TM2)",
+     "term": "grahaṇī",
+     "via": "Grahaṇī",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Vicarcikā",
+   "devanagari": "विचर्चिका",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/295973128",
+     "code": "SN43",
+     "title": "Eczema disorder (TM2)",
+     "term": "vicarcikā",
+     "via": "Vicarcikā",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Tamaka Śvāsa",
+   "devanagari": "तमक श्वास",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1252530838",
+     "code": "SL40",
+     "title": "Bronchial asthma disorder (TM2)",
+     "term": "tamakaśvāsaḥ",
+     "via": "Tamaka Śvāsa",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Kāsa",
+   "devanagari": "कास",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1155955370",
+     "code": "SL41",
+     "title": "Cough disorder (TM2)",
+     "term": "kāsaḥ",
+     "via": "Kāsa",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Pratiśyāya",
+   "devanagari": "प्रतिश्याय",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1821206400",
+     "code": "SK95",
+     "title": "Rhinitis disorder (TM2)",
+     "term": "pratiśyāyaḥ",
+     "via": "Pratiśyāya",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Pakṣaghāta",
+   "devanagari": "पक्षघात",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/559754689",
+     "code": "SK22",
+     "title": "Hemiplegia disorder (TM2)",
+     "term": "pakṣāghāta",
+     "via": "Pakṣaghāta",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Apasmāra",
+   "devanagari": "अपस्मार",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1630797216",
+     "code": "SK31",
+     "title": "Epilepsy disorder (TM2)",
+     "term": "apasmāraḥ",
+     "via": "Apasmāra",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Kāmalā",
+   "devanagari": "कामला",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/2032525894",
+     "code": "SM41",
+     "title": "Jaundice disorder (TM2)",
+     "term": "kāmalā",
+     "via": "Kāmalā",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Pāṇḍu",
+   "devanagari": "पाण्डु",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/583544121",
+     "code": "SL80",
+     "title": "Anaemia disorder (TM2)",
+     "term": "pāṇḍurogaḥ",
+     "via": "Pāṇḍu",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Śotha",
+   "devanagari": "शोथ",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1935012118",
+     "code": "SP92",
+     "title": "Oedema disorder (TM2)",
+     "term": "śothaḥ",
+     "via": "Śotha",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Aśmari",
+   "devanagari": "अश्मरि",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/8312245",
+     "code": "SM8C",
+     "title": "Urinary stone disorder (TM2)",
+     "term": "aśmarī",
+     "via": "Aśmari",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Jvara",
+   "devanagari": "ज्वर",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1754178993",
+     "code": "SP51",
+     "title": "Fever disorder (TM2)",
+     "term": "jvara",
+     "via": "Jvara",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Karṇa-śūla",
+   "devanagari": "कर्ण-शूल",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/468572879",
+     "code": "SK87",
+     "title": "Otalgia disorder (TM2)",
+     "term": "karṇaśūlaḥ",
+     "via": "Karṇa-śūla",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Ardita",
+   "devanagari": "अर्दित",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/673947354",
+     "code": "SK20",
+     "title": "Facial palsy disorder (TM2)",
+     "term": "arditaḥ",
+     "via": "Ardita",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Manyā-stambha",
+   "devanagari": "मन्या-स्तम्भ",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1634061842",
+     "code": "SP44",
+     "title": "Torticollis disorder (TM2)",
+     "term": "manyāstambhaḥ",
+     "via": "Manyā-stambha",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Kaṭi-śūla",
+   "devanagari": "कटि-शूल",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1263752098",
+     "code": "SP42",
+     "title": "Lumbar spondylosis disorder (TM2)",
+     "term": "kaṭiśūla",
+     "via": "Kaṭi-śūla",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Raktapitta",
+   "devanagari": "रक्तपित्त",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/20474469",
+     "code": "SL81",
+     "title": "Bleeding disorder disorder (TM2)",
+     "term": "raktapittam",
+     "via": "Raktapitta",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Galagaṇḍa",
+   "devanagari": "गलगण्ड",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1857550376/other",
+     "code": "SL0Y",
+     "title": "Other specified neck and throat disorders (TM2)",
+     "term": "galagaṇḍaḥ",
+     "via": "Galagaṇḍa",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Granthi",
+   "devanagari": "ग्रन्थि",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/944000127/other",
+     "code": "SP9Y",
+     "title": "Other specified disorders affecting the whole body (TM2)",
+     "term": "granthiḥ",
+     "via": "Granthi",
+     "basis": "primary-name"
+    },
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1004438232",
+     "code": "SP71",
+     "title": "Benign tumour disorder (TM2)",
+     "term": "granthi",
+     "via": "Granthi",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Arbuda",
+   "devanagari": "अर्बुद",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/632952224",
+     "code": "SP72",
+     "title": "Deep rooted spreading tumour disorder (TM2)",
+     "term": "arbudaḥ",
+     "via": "Arbuda",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Apaci",
+   "devanagari": "अपचि",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1494666522",
+     "code": "SM00",
+     "title": "Lymphadenopathy disorder (TM2)",
+     "term": "apacī",
+     "via": "Apaci",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Pāmā",
+   "devanagari": "पामा",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1715150450",
+     "code": "SN46",
+     "title": "Scabies disorder (TM2)",
+     "term": "pāmā",
+     "via": "Pāmā",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Śvitra",
+   "devanagari": "श्वित्र",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/655567499",
+     "code": "SN4D",
+     "title": "Vitiligo disorder (TM2)",
+     "term": "śvitraḥ",
+     "via": "Śvitra",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Vyaṅga",
+   "devanagari": "व्यङ्ग",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/28021156",
+     "code": "SN4G",
+     "title": "Melasma disorder (TM2)",
+     "term": "vyaṅgaḥ",
+     "via": "Vyaṅga",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Viṣama-jvara",
+   "devanagari": "विषम-ज्वर",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1069186343",
+     "code": "SP57",
+     "title": "Intermittent fever disorder (TM2)",
+     "term": "viṣamajvaraḥ",
+     "via": "Viṣama-jvara",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Hikkā",
+   "devanagari": "हिक्का",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1290811390",
+     "code": "SM74",
+     "title": "Hiccough disorder (TM2)",
+     "term": "hikkā",
+     "via": "Hikkā",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Mūtra-Kṛcchra",
+   "devanagari": "मूत्र-कृच्छ्र",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1570058131",
+     "code": "SM87",
+     "title": "Dysuria disorder (TM2)",
+     "term": "mūtrakṛcchram",
+     "via": "Mūtra-Kṛcchra",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Prameha",
+   "devanagari": "प्रमेह",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1280110553",
+     "code": "SM8D",
+     "title": "Polyuria disorder (TM2)",
+     "term": "pramehaḥ",
+     "via": "Prameha",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Śveta-pradara",
+   "devanagari": "श्वेत-प्रदर",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/2116905062",
+     "code": "SM93",
+     "title": "Leucorrhoea disorder (TM2)",
+     "term": "śvetapradaraḥ",
+     "via": "Śveta-pradara",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Kaṣṭa-Ārtava",
+   "devanagari": "कष्ट-आर्तव",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/590014910",
+     "code": "SM96",
+     "title": "Dysmenorrhoea disorder (TM2)",
+     "term": "Kashtartawa",
+     "via": "Kaṣṭa-Ārtava",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Kāca",
+   "devanagari": "काच",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1274104313/other",
+     "code": "SL4Y",
+     "title": "Other specified respiratory system disorders (TM2)",
+     "term": "Kācam",
+     "via": "Kāca",
+     "basis": "primary-name"
+    },
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/569157910",
+     "code": "SK65",
+     "title": "Cataract disorder (TM2)",
+     "term": "kācaḥ",
+     "via": "Kāca",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Unmāda",
+   "devanagari": "उन्माद",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/441413164",
+     "code": "SQ03",
+     "title": "Insanity disorder (TM2)",
+     "term": "unmādaḥ",
+     "via": "Unmāda",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Bhagandara",
+   "devanagari": "भगन्दर",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/435722194",
+     "code": "SM52",
+     "title": "Fistula in ano disorder (TM2)",
+     "term": "bhagandaraḥ",
+     "via": "Bhagandara",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Vidradhi",
+   "devanagari": "विद्रधि",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/2136477741",
+     "code": "SP90",
+     "title": "Abscess disorder (TM2)",
+     "term": "vidradhiḥ",
+     "via": "Vidradhi",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Ślīpada",
+   "devanagari": "श्लीपद",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/353597412",
+     "code": "SM01",
+     "title": "Elephantiasis disorder (TM2)",
+     "term": "ślīpadaḥ",
+     "via": "Ślīpada",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Plīha-roga",
+   "devanagari": "प्लीह-रोग",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1186215023",
+     "code": "SM44",
+     "title": "Splenomegaly disorder (TM2)",
+     "term": "plīharogaḥ",
+     "via": "Plīha-roga",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Vāta-rakta",
+   "devanagari": "वात-रक्त",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/383282991",
+     "code": "SP10",
+     "title": "Polyarthritis disorder (TM2)",
+     "term": "vātaraktam",
+     "via": "Vāta-rakta",
+     "basis": "primary-name"
+    },
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1436346745",
+     "code": "SP11",
+     "title": "Rheumatism disorder (TM2)",
+     "term": "vātaraktam",
+     "via": "Vāta-rakta",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Phakka-roga",
+   "devanagari": "फक्क-रोग",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/2007596156/other",
+     "code": "SR0Y",
+     "title": "Other specified childhood disorders (TM2)",
+     "term": "phakka-rogaḥ",
+     "via": "Phakka-roga",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Liṅga-nāśa",
+   "devanagari": "लिङ्ग-नाश",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1249767098/other",
+     "code": "SK7Y",
+     "title": "Other specified eye disorders (TM2)",
+     "term": "liṅganāśaḥ",
+     "via": "Liṅga-nāśa",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Anjana-nāmikā",
+   "devanagari": "अन्जन-नामिका",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/978189214",
+     "code": "SK6P",
+     "title": "Stye disorder (TM2)",
+     "term": "añjananāmikā",
+     "via": "Anjana-nāmikā",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Karṇa-pāka",
+   "devanagari": "कर्ण-पाक",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1702232830",
+     "code": "SK88",
+     "title": "Otitis disorder (TM2)",
+     "term": "karṇapākaḥ",
+     "via": "Karṇa-pāka",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Karṇa-srāva",
+   "devanagari": "कर्ण-स्राव",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/202033980",
+     "code": "SK82",
+     "title": "Otorrhoea disorder (TM2)",
+     "term": "karṇa-srāvaḥ",
+     "via": "Karṇa-srāva",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Bādhirya",
+   "devanagari": "बाधिर्य",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1716609481",
+     "code": "SK81",
+     "title": "Deafness disorder (TM2)",
+     "term": "bādhiryam",
+     "via": "Bādhirya",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Pīnasa",
+   "devanagari": "पीनस",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1821206400",
+     "code": "SK95",
+     "title": "Rhinitis disorder (TM2)",
+     "term": "pīnasaḥ",
+     "via": "Pīnasa",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Nāsā-srāva",
+   "devanagari": "नासा-स्राव",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/612225920",
+     "code": "SK96",
+     "title": "Coryza and catarrh disorder (TM2)",
+     "term": "nāsāsrāvaḥ",
+     "via": "Nāsā-srāva",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Galaśuṇḍika",
+   "devanagari": "गलशुण्डिक",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/491894702",
+     "code": "SM18",
+     "title": "Uvulitis disorder (TM2)",
+     "term": "galaśuṇḍikā",
+     "via": "Galaśuṇḍika",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Vipāḍikā",
+   "devanagari": "विपाडिका",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1367002461/other",
+     "code": "SN9Y",
+     "title": "Other specified skin, nail and hair disorders (TM2)",
+     "term": "vipādikā",
+     "via": "Vipāḍikā",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Jalodara",
+   "devanagari": "जलोदर",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1149003012",
+     "code": "SM32",
+     "title": "Ascites disorder (TM2)",
+     "term": "jalodaraḥ",
+     "via": "Jalodara",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Mūtraghāta",
+   "devanagari": "मूत्रघात",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/340201268",
+     "code": "SM82",
+     "title": "Insufficiency of the urinary bladder disorder (TM2)",
+     "term": "mūtrāghātaḥ",
+     "via": "Mūtraghāta",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Atattvābhiniveśa",
+   "devanagari": "अतत्त्वाभिनिवेश",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/641502186/other",
+     "code": "SQ0Y",
+     "title": "Other specified mental disorders (TM2)",
+     "term": "atattvābhiniveśaḥ",
+     "via": "Atattvābhiniveśa",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Trṣṇā",
+   "devanagari": "त्र्ष्णा",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/891423222",
+     "code": "SP63",
+     "title": "Polydipsia disorder (TM2)",
+     "term": "tṛṣṇā",
+     "via": "Trṣṇā",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Maṇḍala-Kuṣṭha",
+   "devanagari": "मण्डल-कुष्ठ",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/920582243",
+     "code": "SN49",
+     "title": "Integumentary disorder (TM2)",
+     "term": "maṇḍalakuṣṭhaḥ",
+     "via": "Maṇḍala-Kuṣṭha",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Chidrodara",
+   "devanagari": "छिद्रोदर",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1149003012",
+     "code": "SM32",
+     "title": "Ascites disorder (TM2)",
+     "term": "chidrodaraḥ",
+     "via": "Chidrodara",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Avabāhuka",
+   "devanagari": "अवबाहुक",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1234160905",
+     "code": "SP15",
+     "title": "Frozen shoulder disorder (TM2)",
+     "term": "avabāhukaḥ",
+     "via": "Avabāhuka",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Khallī",
+   "devanagari": "खल्ली",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1815255902",
+     "code": "SP20",
+     "title": "Muscle pain, twisting disorder (TM2)",
+     "term": "khallī",
+     "via": "Khallī",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Khaṇja",
+   "devanagari": "खण्ज",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/623633507/other",
+     "code": "SK2Y",
+     "title": "Other specified paralysis disorders (TM2)",
+     "term": "khañjaḥ",
+     "via": "Khaṇja",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Pangu",
+   "devanagari": "पन्गु",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1338037818",
+     "code": "SK21",
+     "title": "Paraplegia disorder (TM2)",
+     "term": "paṅguḥ",
+     "via": "Pangu",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Karṇa-Nāda",
+   "devanagari": "कर्ण-नाद",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/2055987526",
+     "code": "SK86",
+     "title": "Tinnitus disorder (TM2)",
+     "term": "karṇa-nādaḥ",
+     "via": "Karṇa-Nāda",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Akṣi-Pāka",
+   "devanagari": "अक्षि-पाक",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/1249767098/other",
+     "code": "SK7Y",
+     "title": "Other specified eye disorders (TM2)",
+     "term": "akṣipākaḥ",
+     "via": "Akṣi-Pāka",
+     "basis": "primary-name"
+    }
+   ]
+  },
+  {
+   "sanskrit": "Gulma",
+   "devanagari": "गुल्म",
+   "basis": "primary-name",
+   "codes": [
+    {
+     "uri": "http://id.who.int/icd/release/11/2026-01/mms/527900632",
+     "code": "SM3K",
+     "title": "Abdominal lumps disorder (TM2)",
+     "term": "gulmaḥ",
+     "via": "Gulma",
+     "basis": "primary-name"
+    }
+   ]
+  }
+ ],
+ "unmatched": [
+  "Sandhivāta",
+  "Kuṣṭha",
+  "Anidrā",
+  "Cintā / Manodaurbalya",
+  "Yoni-vyāpat (incl. Pradara)",
+  "Vandhyatva",
+  "Mūtraghāta / Mūtrakṛcchra",
+  "Timira (early stage)",
+  "Arśas",
+  "Kampavāta",
+  "Hanu-stambha",
+  "Pittābhiṣyanda",
+  "Dāha-roga",
+  "Dadru",
+  "Sannipāta-jvara",
+  "Jīrṇa-jvara",
+  "Pittaja-jvara",
+  "Pittātisāra",
+  "Raktātisāra",
+  "Vātātisāra",
+  "Kṣaya-Kāsa",
+  "Mahā-Śvāsa",
+  "Mūtra-pratīghāta",
+  "Raktapradara",
+  "Sūtikā-jvara",
+  "Adhimantha",
+  "Pillādi",
+  "Mada-Mūrcchā-Sannyāsa",
+  "Timira (early)",
+  "Rakta-piṭṭa-Nāsā-paryaya",
+  "Mukha-pāka",
+  "Danta-mūla-Śosa",
+  "Kacchu",
+  "Carma-dāla",
+  "Vāta-Udara",
+  "Krimi-roga",
+  "Vātaja-Hṛd-roga",
+  "Hṛd-Daurbalya",
+  "Pāṇḍu (vātaja)",
+  "Kāmalā (Kumbha-kāmalā)",
+  "Aśmari (renal)",
+  "Hṛd-Roga (Tridoṣaja)",
+  "Rasa-gata Jvara",
+  "Rakta-gata Jvara",
+  "Māṃsa-gata Jvara",
+  "Meda-gata Jvara",
+  "Asthi-gata Jvara",
+  "Majjā-gata Jvara",
+  "Śukra-gata Jvara",
+  "Vātaja-Kāsa",
+  "Kaphaja-Kāsa",
+  "Kṣataja-Kāsa",
+  "Kṣayaja-Kāsa",
+  "Ūrdhva-Śvāsa",
+  "Chinna-Śvāsa",
+  "Kṣudra-Śvāsa",
+  "Kapāla-Kuṣṭha",
+  "Audumbara-Kuṣṭha",
+  "Ṛṣyajihva-Kuṣṭha",
+  "Pundarīka-Kuṣṭha",
+  "Sidhmā-Kuṣṭha",
+  "Kākaṇaka-Kuṣṭha",
+  "Vātodara",
+  "Pittodara",
+  "Kaphodara",
+  "Sannipātodara",
+  "Plīhodara",
+  "Baddhodara",
+  "Vepathu",
+  "Karṇa-Krimi",
+  "Vidagdhājīrṇa",
+  "Sthāna-saṃśraya Disorders"
+ ]
+}
