@@ -993,6 +993,7 @@
       "https://jairaj1234-dancer.github.io/nighantu/herb/yuthika/": "b2c5cfc30903df7d",
       "https://jairaj1234-dancer.github.io/nighantu/herb/zingiber/": "bea305eb746bad86",
       "https://jairaj1234-dancer.github.io/nighantu/how-we-source/": "ad5a436e85000116",
+      "https://jairaj1234-dancer.github.io/nighantu/icd-tm2/": "02be058c46f3f501",
       "https://jairaj1234-dancer.github.io/nighantu/practice/": "6a191bc6c0f563bb",
       "https://jairaj1234-dancer.github.io/nighantu/practice/agnikarma/": "2216433c3c7cb5e1",
       "https://jairaj1234-dancer.github.io/nighantu/practice/akshitarpana/": "b6344faf1d1f6990",
@@ -1122,8 +1123,8 @@
       "https://jairaj1234-dancer.github.io/nighantu/verification/safety-pass4/": "fd4bda12d82c6cf7",
       "https://jairaj1234-dancer.github.io/nighantu/verification/safety-repair-02/": "a88cbdb80b699973"
     },
-    "lastSubmittedAt": "2026-09-16T13:20:49.916Z",
-    "lastSubmittedCount": 52
+    "lastSubmittedAt": "2026-09-17T04:29:31.323Z",
+    "lastSubmittedCount": 1
   },
   "products": {
     "broken": 0,
@@ -1318,6 +1319,6 @@
     "seen": 13,
     "surfaced": 2
   },
-  "updatedAt": "2026-09-16T13:23:45.402Z",
+  "updatedAt": "2026-09-17T04:29:31.323Z",
   "version": 1
 }
