@@ -118,7 +118,16 @@ const jsonld = [
     </>
   )}
 
-  <ProductModule slug={d.slug} />
+  {/*
+    * No product prompt on a vaidya-only procedure.
+    *
+    * The module is honest on a page a reader can act on: tongue scraping is self-care and
+    * a scraper is the thing it needs. On a procedure this site classifies as requiring a
+    * qualified vaidya, an oil offered for sale next to the description is an invitation to
+    * do it at home, which is the exact reading the practice page refuses. Nasya is the
+    * case in point: its own page says "the record does not support that reading".
+    */}
+  {d.level !== 'vaidya-only' && <ProductModule slug={d.slug} />}
 
   <p class="disclaimer">
     <strong>Consult a qualified vaidya before acting on anything here.</strong> Ayurvedic
