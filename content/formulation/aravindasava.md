@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Arishtas-Asavas-Fermented"
-answer: "Aravindasava is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI). Traditionally used in Kerala and North Indian Ayurvedic pediatric practice. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence."
+answer: "Aravindasava is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI). Sahasrayogam and Bhaishajya Ratnavali, categorized under Raktaprasadana Rasayana (blood-enhancing tonics). Traditionally used in Kerala and North Indian Ayurvedic pediatric practice."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 484
+words: 421
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Aravindasava/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,21 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Aravind
 | Language | Name |
 |----------|------|
 | English | Aravindasava |
-
-## Key Ingredients
-
-- Kamal/Aravinda (Nelumbo nucifera / Lotus)
-- Neel Kamal (Nymphaea stellata / Blue Water Lily)
-- [Gambhari](/nighantu/herb/gambhari/) (Gmelina arborea)
-- [Manjishtha](/nighantu/herb/manjishtha/) (Rubia cordifolia)
-- [Jatamansi](/nighantu/herb/jatamansi/) (Nardostachys [jatamansi](/nighantu/herb/jatamansi/))
-- [Bala](/nighantu/herb/bala/) (Sida cordifolia)
-- [Triphala](/nighantu/herb/triphala/) ([Haritaki](/nighantu/herb/haritaki/), [Bibhitaki](/nighantu/herb/bibhitaki/), Amalaki)
-- [Vacha](/nighantu/herb/vacha/) (Acorus calamus)
-- [Arjuna](/nighantu/herb/arjuna/) Chhal (Terminalia [arjuna](/nighantu/herb/arjuna/) bark)
-- [Dhataki](/nighantu/herb/dhataki/) pushpa (Woodfordia fruticosa)
-- [Trikatu](/nighantu/herb/trikatu/) ([Pippali](/nighantu/herb/pippali/), Maricha, Shunthi)
-- [Draksha](/nighantu/herb/draksha/) (Vitis vinifera / Dry grapes)
 
 ## Where is it described in the classical texts?
 

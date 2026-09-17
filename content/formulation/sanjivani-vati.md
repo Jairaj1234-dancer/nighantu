@@ -16,7 +16,7 @@ aliases: ["Sanjivani Vati", "SanjivaniVati"]
 tags: ["ayurveda", "formulation", "vati", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 498
+words: 446
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Sanjivani-Vati/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,20 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Sanjivani-Vati/meta
 | Language | Name |
 |----------|------|
 | English | [Sanjivani Vati](/nighantu/formulation/sanjivani-vati/) |
-
-## Key Ingredients
-
-- [Vidanga](/nighantu/herb/vidanga/) (Embelia ribes)
-- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale)
-- [Pippali](/nighantu/herb/pippali/) (Piper longum)
-- [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula)
-- [Bibhitaki](/nighantu/herb/bibhitaki/) (Terminalia bellirica)
-- Amalaki (Emblica officinalis)
-- [Vacha](/nighantu/herb/vacha/) (Acorus calamus)
-- [Guduchi](/nighantu/herb/guduchi/) (Tinospora cordifolia)
-- Shuddha Bhallataka (Purified Semecarpus anacardium)
-- Shuddha [Vatsanabha](/nighantu/herb/vatsanabha/) (Purified Aconitum ferox)
-- [Gomutra](/nighantu/herb/gomutra/) (Cow urine - as processing medium)
 
 ## Where is it described in the classical texts?
 

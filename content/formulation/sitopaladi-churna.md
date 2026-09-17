@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Churnas-Powders"
-answer: "Sitopaladi Churna is a classical Ayurvedic churna, a fine herbal powder. Listed in the Ayurvedic Formulary of India (AFI) Part I. Sitopala (Mishri / Rock candy sugar) Vanshalochana (Bambusa arundinacea) - Bamboo manna Pippali (Piper longum) - Long pepper Ela (Elettaria cardamomum) - Cardamom Tvak (Cinnamomum zeylanicum) - Cinnamon Sharangdhara Samhita, Madhyama Khanda, Chapter 6."
+answer: "Sitopaladi Churna is a classical Ayurvedic churna, a fine herbal powder. Listed in the Ayurvedic Formulary of India (AFI) Part I. Sharangdhara Samhita, Madhyama Khanda, Chapter 6. Also referenced in Chakradatta and Bhaishajya Ratnavali (Kasa Rogadhikara / Cough chapter)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Sitopaladi Churna", "SitopaladiChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 505
+words: 472
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Sitopaladi-Churna/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,14 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Sitopaladi-Churna
 | Language | Name |
 |----------|------|
 | English | [Sitopaladi Churna](/nighantu/formulation/sitopaladi-churna/) |
-
-## Key Ingredients
-
-- Sitopala (Mishri / Rock candy sugar)
-- Vanshalochana (Bambusa arundinacea) - Bamboo manna
-- [Pippali](/nighantu/herb/pippali/) (Piper longum) - Long pepper
-- Ela (Elettaria cardamomum) - Cardamom
-- Tvak (Cinnamomum zeylanicum) - Cinnamon
 
 ## Where is it described in the classical texts?
 

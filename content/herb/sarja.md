@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Trees-Large-Plants"
-answer: "Sarja is a substance used in the Ayurvedic materia medica. Oleoresin components are lipophilic and require lipid-based carriers for optimal absorption. Tannins reduce bioavailability of co-administered iron and proteins. Oleoresin in glass or coated metal containers."
-botanical: ""
+answer: "Sarja (Vateria indica) is a plant used in Ayurveda. Oleoresin components are lipophilic and require lipid-based carriers for optimal absorption. Tannins reduce bioavailability of co-administered iron and proteins. Oleoresin in glass or coated metal containers."
+botanical: "Vateria indica"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 285
+words: 264
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Sarja/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Sarja/meta-analysis.md"
 | **Guna** (Quality) | Laghu, Snigdha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

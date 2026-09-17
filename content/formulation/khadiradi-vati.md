@@ -16,7 +16,7 @@ aliases: ["Khadiradi Vati", "KhadiradiVati"]
 tags: ["ayurveda", "formulation", "vati", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 605
+words: 559
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Khadiradi-Vati/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,18 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Khadiradi-Vati/meta
 | Language | Name |
 |----------|------|
 | English | [Khadiradi Vati](/nighantu/formulation/khadiradi-vati/) |
-
-## Key Ingredients
-
-- [Khadira](/nighantu/herb/khadira/) (Acacia catechu) heartwood/bark
-- [Javitri](/nighantu/herb/javitri/) (Myristica fragrans - Mace)
-- [Kankola](/nighantu/herb/kankola/) (Piper cubeba)
-- Kapoor (Cinnamomum camphora - [Camphor](/nighantu/herb/camphor/))
-- [Gairika](/nighantu/glossary/concepts-a-m/#gairika) (Red Ochre - Fe2O3 mineral)
-- [Pippali](/nighantu/herb/pippali/) (Piper longum)
-- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (Glycyrrhiza glabra)
-- [Lavanga](/nighantu/herb/lavanga/) (Syzygium aromaticum - Clove)
-- Ela (Elettaria cardamomum)
 
 ## Where is it described in the classical texts?
 

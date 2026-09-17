@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Arishtas-Asavas-Fermented"
-answer: "Sarivadyasava is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI). Charaka Samhita and Sushruta Samhita extol Sariva as a premier herb for pacifying Pitta dosha."
+answer: "Sarivadyasava is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI). Bhaishajya Ratnavali, Prameha Pidika Adhyaya (chapter on diabetic complications). Charaka Samhita and Sushruta Samhita extol Sariva as a premier herb for pacifying Pitta dosha."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 444
+words: 388
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Sarivadyasava/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,21 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Sarivad
 | Language | Name |
 |----------|------|
 | English | Sarivadyasava |
-
-## Key Ingredients
-
-- [Sariva](/nighantu/herb/sariva/) (Hemidesmus indicus / Indian Sarsaparilla)
-- Krishna [Sariva](/nighantu/herb/sariva/) (Ichnocarpus frutescens)
-- [Guduchi](/nighantu/herb/guduchi/) (Tinospora cordifolia)
-- [Tulsi](/nighantu/herb/tulsi/) (Ocimum sanctum)
-- [Brahmi](/nighantu/herb/brahmi/) (Bacopa monnieri)
-- Amalaki (Emblica officinalis)
-- Pipal bark (Ficus religiosa)
-- Kachoor (Curcuma zedoaria)
-- Gulab (Rosa centifolia)
-- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale)
-- [Dhataki](/nighantu/herb/dhataki/) pushpa (Woodfordia fruticosa)
-- Sugar / Jaggery (fermentation medium)
 
 ## Where is it described in the classical texts?
 

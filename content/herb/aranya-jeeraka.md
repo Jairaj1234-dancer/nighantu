@@ -6,8 +6,8 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Aranya Jeeraka is a substance used in the Ayurvedic materia medica. Wild cumin Aranya Jeeraka, potentially Cuminum cyminum var. or Vernonia anthelmintica depending on tradition) — volatile oil constituents are well absorbed."
-botanical: ""
+answer: "Aranya Jeeraka (Centratherum anthelminticum) is a plant used in Ayurveda. Wild cumin Aranya Jeeraka, potentially Cuminum cyminum var. or Vernonia anthelmintica depending on tradition) — volatile oil constituents are well absorbed. Cuminaldehyde (if Cuminum) shows rapid GI absorption."
+botanical: "Centratherum anthelminticum"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
@@ -16,7 +16,7 @@ aliases: ["Aranya Jeeraka", "AranyaJeeraka"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 310
+words: 289
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aranya-Jeeraka/meta-analysis.md"
 ---
 ## Names and identification
@@ -33,15 +33,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aranya-Jeeraka/meta-analysis.
 | **Guna** (Quality) | Laghu, Tikshna | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

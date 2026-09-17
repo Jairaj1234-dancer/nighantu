@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Kashayams-Decoctions"
-answer: "Rasnasaptakam Kashayam is a classical Ayurvedic kashaya, a water decoction. Listed in the Ayurvedic Formulary of India (AFI). Rasna (Pluchea lanceolata) Eranda (Ricinus communis) Devadaru (Cedrus deodara) Punarnava (Boerhavia diffusa) Aragwadha (Cassia fistula) Guduchi (Tinospora cordifolia) Shunthi (Zingiber officinale) Earliest reference in Ashtanga Hridaya commentaries."
+answer: "Rasnasaptakam Kashayam is a classical Ayurvedic kashaya, a water decoction. Listed in the Ayurvedic Formulary of India (AFI). Earliest reference in Ashtanga Hridaya commentaries. Hints of formula in Vangasena Samhita (circa 11th century CE)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Rasnasaptakam Kashayam", "RasnasaptakamKashayam"]
 tags: ["ayurveda", "formulation", "kashayam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 407
+words: 379
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Rasnasaptakam-Kashayam/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,16 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Rasnasaptaka
 | Language | Name |
 |----------|------|
 | English | [Rasnasaptakam Kashayam](/nighantu/formulation/rasnasaptakam-kashayam/) |
-
-## Key Ingredients
-
-- [Rasna](/nighantu/herb/rasna/) (Pluchea lanceolata)
-- [Eranda](/nighantu/herb/eranda/) (Ricinus communis)
-- [Devadaru](/nighantu/herb/devadaru/) (Cedrus deodara)
-- [Punarnava](/nighantu/herb/punarnava/) (Boerhavia diffusa)
-- [Aragwadha](/nighantu/herb/aragwadha/) (Cassia fistula)
-- [Guduchi](/nighantu/herb/guduchi/) (Tinospora cordifolia)
-- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale)
 
 ## Where is it described in the classical texts?
 

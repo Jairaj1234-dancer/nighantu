@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Tailas-Medicated-Oils"
-answer: "Pinda Thailam is a classical Ayurvedic taila, a medicated oil. Listed in Ayurvedic Formulary of India (AFI). Manjistha (Rubia cordifolia / Indian Madder) - primary herb Sariva (Hemidesmus indicus / Indian Sarsaparilla) Madhuchhista (Beeswax) Sarjarasa (Vateria indica resin / White Dammar) Sesame oil (Tila|Tila taila) base Bhaishajya Ratnavali (Vatavyadhi Chikitsa); also referenced in Sahasrayogam."
+answer: "Pinda Thailam is a classical Ayurvedic taila, a medicated oil. Listed in Ayurvedic Formulary of India (AFI). Bhaishajya Ratnavali (Vatavyadhi Chikitsa); also referenced in Sahasrayogam. A specialized Pitta-Vata pacifying formulation notable for its simplicity and targeted action on inflammatory skin and joint conditions."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Pinda Thailam", "PindaThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 492
+words: 456
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Pinda-Thailam/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,14 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Pinda-Thail
 | Language | Name |
 |----------|------|
 | English | [Pinda Thailam](/nighantu/formulation/pinda-thailam/) |
-
-## Key Ingredients
-
-- [Manjistha](/nighantu/herb/manjistha/) (Rubia cordifolia / Indian Madder) - primary herb
-- [Sariva](/nighantu/herb/sariva/) (Hemidesmus indicus / Indian Sarsaparilla)
-- Madhuchhista (Beeswax)
-- Sarjarasa (Vateria indica resin / White Dammar)
-- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) ([Tila](/nighantu/herb/tila/) taila) base
 
 ## Where is it described in the classical texts?
 

@@ -16,7 +16,7 @@ aliases: ["Panchagavya Ghrita", "PanchagavyaGhrita"]
 tags: ["ayurveda", "formulation", "ghritam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 471
+words: 434
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Panchagavya-Ghrita/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,15 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Panchagav
 | Language | Name |
 |----------|------|
 | English | Panchagavya [Ghrita](/nighantu/herb/ghrita/)|Panchagavya Ghrita |
-
-## Key Ingredients
-
-- Go-[Ksheera](/nighantu/herb/ksheera/) (cow milk)
-- Go-[Ghrita](/nighantu/herb/ghrita/) (cow ghee/clarified butter)
-- Go-Mutra (cow urine)
-- Go-[Dadhi](/nighantu/herb/dadhi/) (cow curd)
-- Go-Maya Rasa (cow dung juice)
-- Maha Panchagavya variant additionally contains 42 herbal drugs including [Brahmi](/nighantu/herb/brahmi/), Shankhapushpi, and [Vacha](/nighantu/herb/vacha/)
 
 ## Where is it described in the classical texts?
 

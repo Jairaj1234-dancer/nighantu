@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Tailas-Medicated-Oils"
-answer: "Kottamchukkadi Thailam is a classical Ayurvedic taila, a medicated oil. Listed in Ayurvedic Formulary of India (AFI). A signature Kerala Ayurvedic formulation for Vata-Kapha predominant pain and inflammation. Contains 9+ herbs with tamarind juice and curd as special adjuvants."
+answer: "Kottamchukkadi Thailam is a classical Ayurvedic taila, a medicated oil. Listed in Ayurvedic Formulary of India (AFI). Sahasrayogam (Taila Prakarana). A signature Kerala Ayurvedic formulation for Vata-Kapha predominant pain and inflammation. Contains 9+ herbs with tamarind juice and curd as special adjuvants."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Kottamchukkadi Thailam", "KottamchukkadiThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 579
+words: 518
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kottamchukkadi-Thailam/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,19 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kottamchukk
 | Language | Name |
 |----------|------|
 | English | [Kottamchukkadi Thailam](/nighantu/formulation/kottamchukkadi-thailam/) |
-
-## Key Ingredients
-
-- Kottam (Saussurea lappa / Costus)
-- Chukku ([Zingiber](/nighantu/herb/zingiber/) officinale / Dry [Ginger](/nighantu/herb/ginger/))
-- Chincha Rasa (Tamarindus indica / Tamarind juice)
-- Garlic (Allium sativum)
-- [Moringa](/nighantu/herb/moringa/) ([Moringa](/nighantu/herb/moringa/) oleifera / Drumstick)
-- Ela (Elettaria cardamomum / Cardamom)
-- [Pippali](/nighantu/herb/pippali/) (Piper longum / Long Pepper)
-- Dhania (Coriandrum sativum / [Coriander](/nighantu/herb/coriander/))
-- [Dadhi](/nighantu/herb/dadhi/) (Curd/Yogurt)
-- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) ([Tila](/nighantu/herb/tila/) taila) base
 
 ## Where is it described in the classical texts?
 

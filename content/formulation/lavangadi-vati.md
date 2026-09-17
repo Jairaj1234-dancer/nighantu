@@ -16,7 +16,7 @@ aliases: ["Lavangadi Vati", "LavangadiVati"]
 tags: ["ayurveda", "formulation", "vati", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 480
+words: 426
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Lavangadi-Vati/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,17 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Lavangadi-Vati/meta
 | Language | Name |
 |----------|------|
 | English | [Lavangadi Vati](/nighantu/formulation/lavangadi-vati/) |
-
-## Key Ingredients
-
-- [Lavanga](/nighantu/herb/lavanga/) (Syzygium aromaticum - Clove)
-- [Khadira](/nighantu/herb/khadira/) (Acacia catechu) heartwood extract
-- [Bibhitaki](/nighantu/herb/bibhitaki/) (Terminalia bellirica) fruit rind
-- Maricha (Piper nigrum - [Black Pepper](/nighantu/herb/black-pepper/))
-- [Pippali](/nighantu/herb/pippali/) (Piper longum - Long Pepper)
-- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale - [Ginger](/nighantu/herb/ginger/))
-- Twak (Cinnamomum zeylanicum - Cinnamon)
-- Babool (Acacia arabica) decoction - as binding agent
 
 ## Where is it described in the classical texts?
 

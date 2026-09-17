@@ -16,7 +16,7 @@ aliases: ["Brahma Rasayana", "BrahmaRasayana"]
 tags: ["ayurveda", "formulation", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 637
+words: 557
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Rasayanas-Rejuvenatives/Brahma-Rasayana/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,29 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Rasayanas-Rejuvenatives/Brahma-Ra
 | Language | Name |
 |----------|------|
 | English | [Brahma Rasayana](/nighantu/formulation/brahma-rasayana/) |
-
-## Key Ingredients
-
-- Amalaki (Phyllanthus emblica / Indian gooseberry)
-- [Ashwagandha](/nighantu/herb/ashwagandha/) (Withania somnifera)
-- [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula)
-- Shankhapushpi (Convolvulus pluricaulis)
-- Mandukaparni (Centella asiatica)
-- [Vacha](/nighantu/herb/vacha/) (Acorus calamus)
-- [Pippali](/nighantu/herb/pippali/) (Piper longum)
-- [Guduchi](/nighantu/herb/guduchi/) (Tinospora cordifolia)
-- [Haridra](/nighantu/herb/haridra/) (Curcuma longa / [Turmeric](/nighantu/herb/turmeric/))
-- [Vidanga](/nighantu/herb/vidanga/) (Embelia ribes)
-- Ela (cardamom)
-- Twak (cinnamon)
-- [Chandana](/nighantu/herb/chandana/) (Sandalwood)
-- Agaru (Aquilaria agallocha)
-- Dashamula herbs
-- [Shatavari](/nighantu/herb/shatavari/) (Asparagus racemosus)
-- [Bala](/nighantu/herb/bala/) (Sida cordifolia)
-- [Tila](/nighantu/herb/tila/) (sesame seeds)
-- [Ghrita](/nighantu/herb/ghrita/) (cow ghee)
-- [Madhu](/nighantu/herb/madhu/) (honey)
 
 ## Where is it described in the classical texts?
 

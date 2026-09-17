@@ -16,7 +16,7 @@ aliases: ["Mahasudarshan Churna", "MahasudarshanChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 571
+words: 505
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Mahasudarshan-Churna/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,24 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Mahasudarshan-Chu
 | Language | Name |
 |----------|------|
 | English | [Mahasudarshan Churna](/nighantu/formulation/mahasudarshan-churna/) |
-
-## Key Ingredients
-
-- [Kiratatikta](/nighantu/herb/kiratatikta/)/Chirayita (Swertia chirata) - 50% of total formulation
-- [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula)
-- [Bibhitaki](/nighantu/herb/bibhitaki/) (Terminalia bellirica)
-- Amalaki (Emblica officinalis)
-- [Neem](/nighantu/herb/neem/) bark (Azadirachta indica)
-- [Guduchi](/nighantu/herb/guduchi/) (Tinospora cordifolia)
-- [Daruharidra](/nighantu/herb/daruharidra/) (Berberis aristata)
-- [Vasa](/nighantu/herb/vasa/) (Adhatoda vasica)
-- Musta (Cyperus rotundus)
-- [Haridra](/nighantu/herb/haridra/) (Curcuma longa)
-- [Pippali](/nighantu/herb/pippali/) (Piper longum)
-- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale)
-- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (Glycyrrhiza glabra)
-- [Devadaru](/nighantu/herb/devadaru/) (Cedrus deodara)
-- Acorus calamus ([Vacha](/nighantu/herb/vacha/))
 
 ## Where is it described in the classical texts?
 

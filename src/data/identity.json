@@ -19,7 +19,7 @@
   },
   "ajmoda": {
    "api": {
-    "volume": "Volume I",
+    "volume": "I",
     "heading": "AJAMODA (Fruit)",
     "sentence": "Ajamoda consists of dried, aromatic fruits of Apium leptophyllum (Pers.) F. V. M. ex Benth. (Fam. Umbelliferae); an annual herb cultivated in Andhra Pradesh, Gujarat, Madhya Pradesh and Karnataka; collected by thrashing plants on a mat and dried in shade or in drying sheds."
    },
@@ -46,6 +46,39 @@
    "substanceClass": "uncertain",
    "basis": "I tried to refute the \"no binomial / uncertain\" call and could not; every load-bearing element checks out independently.\n\n(a) Page read in full (/Users/jairajsharma/Projects/ayurveda-atlas/content/herb/anjatraya.md). It carries NO botanical, family, sanskrit, aliases, or vernacular names: the Names "
   },
+  "aranya-jeeraka": {
+   "api": {
+    "volume": "V",
+    "heading": "VANYAJIRAKA (Fruit)",
+    "sentence": "Vanyaj iraka consists of dried fruit of Centratherum anthelminticum (L.) Kuntze (Fam. Asteraceae), an annual, robust, erect herb, found throughout India upto 1850 m in Himalaya and Khasi hills and often cultivated."
+   },
+   "otherAttributions": [
+    {
+     "binomial": "Vernonia anthelmintica (L.) Willd.",
+     "source": "Named in the page body itself (content/herb/aranya-jeeraka.md line 52) as one of its two hedged alternatives. I re-ran GBIF strict: matchType EXACT, status SYNONYM, usageKey 5385185, acceptedUsageKey 3087253, accepted Baccharoides anthelmintica (Asteraceae) — the same accepted taxon as the API name, so this is not a competing identity."
+    },
+    {
+     "binomial": "Baccharoides anthelmintica (L.) Moench",
+     "source": "GBIF backbone accepted name (speciesKey 3087253, genus Baccharoides, family Asteraceae) for both Centratherum anthelminticum and Vernonia anthelmintica."
+    },
+    {
+     "binomial": "Centratherum anthelminticum (Willd.) Kuntze",
+     "source": "AFI Part I: sources-private/afi-b32232184.txt line 41541, '966. vanya jiraka Centratherum anthelminticum (Willd.) Kuntze.' and line 42153 in the Latin index. Same species as the API name, different author citation ('(Willd.)' vs API '(L.)'; GBIF itself returns the scientificName as '(L.) Gamble')."
+    },
+    {
+     "binomial": "Cuminum cyminum L.",
+     "source": "The page's other hedged alternative (line 52, 'potentially Cuminum cyminum var. ... depending on tradition') and the source of the page's marker compounds and extraction text. Refuted as the identity of Aranya Jeeraka: API files cumin separately as SVETAJIRAKA (Fruit), heading at api-all.txt line 13903, whose Sanskrit synonyms are 'Ajaji, Jiraka, Ajajika' — Aranyajiraka is absent. The page also treats cumin as a separate companion drug (line 73, 'With Jeeraka (cultivated cumin)')."
+    },
+    {
+     "binomial": "Carum carvi L.",
+     "source": "API KRSNAJIRAKA (Fruit), api-all.txt line 10166, 'Krsnaj iraka consists of dried ripe fruits of Carum carvi Linn. (Fam. Umbelliferae)'. A third jiraka drug; nothing on the page points to it. Listed only to show the name-group is crowded."
+    }
+   ],
+   "gbif": {
+    "status": "SYNONYM",
+    "key": 3087257
+   }
+  },
   "arka": {
    "api": {
     "volume": "I",
@@ -66,6 +99,27 @@
   "arka-ksheera": {
    "substanceClass": "plant-product-mixture",
    "basis": "Attempted refutation; the proposal survives on every load-bearing point, with one scope correction folded in.\n\n(a) CATEGORY — correct. Read /Users/jairajsharma/Projects/ayurveda-atlas/content/herb/arka-ksheera.md in full. The drug is a processed plant exudate, not a plant or plant part: \"Direct late"
+  },
+  "arka-pushpa": {
+   "api": {
+    "volume": "I",
+    "heading": "ARKA (Root)",
+    "sentence": "Arka consists of dried roots of Calotropis procera (Ait.) R. Br. (Fam. Asclepiadaceae) found wild more or less throughout India."
+   },
+   "otherAttributions": [
+    {
+     "binomial": "Calotropis gigantea",
+     "source": "AFI Part II (sources-private/afi-b32232172.txt, entry block at ~line 22661): \"12. Arka | ravi ksira / dugdha / payas / puspa / mulasvarasa | (a) Calotropis procera (Ait) R.Or. [OCR for R.Br.] (b) C. gigantea (Linn) R.Wr. Ex. Ait. [OCR for R.Br. ex Ait.]\" - gigantea listed as secondary (b) source. Same pairing at AFI Part I glossary, afi-b32232184.txt lines 40630-40631: \"Calotropis gigantea (Linn.) R.Br.ex.Ait or Calotropis procera (Ait.) R.Br.\" GBIF strict: EXACT, ACCEPTED, usageKey 3579089, Calotropis gigantea (L.) W.T.Aiton, Apocynaceae. Not in the API at all."
+    },
+    {
+     "binomial": "Calotropis gigantea indexed under its own Sanskrit name, Alarka",
+     "source": "AFI Part I Latin-to-Sanskrit index, afi-b32232184.txt: lines 42008-42009 read \"Calotropis procera (Ait) R.Br.\" then \"C.gigantea (Linn.) R.Br. ex Ait\"; the parallel Sanskrit column at lines 42064-42065 reads \"arka\" then \"alarka\". On this index procera is Arka and gigantea is Alarka (proposal cited 42009-42010/42064-42065; the actual Latin lines are 42008-42009, a one-line offset, content identical)."
+    }
+   ],
+   "gbif": {
+    "status": "ACCEPTED",
+    "key": 5414566
+   }
   },
   "avipattikar": {
    "substanceClass": "formulation",
@@ -125,6 +179,43 @@
     "key": 5381498
    }
   },
+  "bhutika": {
+   "api": {
+    "volume": "V",
+    "heading": "KATTRNA (Whole Plant)",
+    "sentence": "Kattrna consists of the whole plant of Cymbopogon citratus (DC.) Stapf syn: Andropogon citratus DC. (Fam. Poaceae), a tall tufted perennial grass cultivated in various parts of India."
+   },
+   "otherAttributions": [
+    {
+     "binomial": "Trachyspermum ammi",
+     "source": "Ajwain/yavani sense of bhutika from Sanskrit lexicon literature, recorded in this repo at data/binomial-run.json, slug bhutika (identifyBasis names Carum copticum, accepted as Trachyspermum ammi). Verified present. The page's thymol/carvacrol/p-cymene/gamma-terpinene marker list is this chemotype. content/herb/ajwain.md and content/herb/yavani.md already carry T. ammi, but neither page lists Bhutika as an alias, so no published cross-page contradiction exists today."
+    },
+    {
+     "binomial": "Cymbopogon martinii",
+     "source": "data/binomial-run.json, slug rohisha: identifyBasis says dravyaguna sources list Dhyamaka, Bhutika, Kattrina and Sougandhika among rohisha's synonyms. Verified present, and content/herb/rohisha.md already publishes botanical Cymbopogon martinii. AFI Part I contradicts the overlap: its appendix index gives rohisa its own numbered entry (#125, Cymbopogon martini (Roxb.) Wats., line 42261) separate from bhutika (#122), and afi-b32232184.txt line 14540 lists Rohisa and Bhutika as two distinct ingredients of the same formulation."
+    },
+    {
+     "binomial": "Cymbopogon jwarancusa",
+     "source": "AFI Part I appendix index, afi-b32232184.txt lines 42258 and 42260: \"123. Cymbopogon jwarancus Schult. lamajjaka\" and \"124. Cymbopogon jwarancus Schult bhutrna\". This is the adjacent name bhutrna, not bhutika; AFI numbers them as separate entries, so it is an attribution for a near-name rather than a rival claim on this slug."
+    },
+    {
+     "binomial": "Cymbopogon schoenanthus",
+     "source": "bhu-trna / fragrant-grass sense in Sanskrit lexicons, recorded in data/binomial-run.json under both slug bhutika and slug rohisha. Verified present in the file. No pharmacopoeial support found in the API or either AFI volume."
+    },
+    {
+     "binomial": "Swertia chirayita",
+     "source": "chirata sense of bhutika, recorded in data/binomial-run.json, slug bhutika. Verified present. AFI Part II's glossary independently assigns chirayata to Swertia chirata under the heading Kiratatikta (afi-b32232172.txt line 22890), not under bhutika."
+    },
+    {
+     "binomial": "Curcuma zerumbet",
+     "source": "Minor lexical sense of bhutika, recorded in data/binomial-run.json, slug bhutika. Verified present. No pharmacopoeial support."
+    }
+   ],
+   "gbif": {
+    "status": "ACCEPTED",
+    "key": 2705275
+   }
+  },
   "camphor": {
    "substanceClass": "compound-or-isolate",
    "basis": "VERDICT: accept the category (compound-or-isolate, binomial null), but the proposal's central factual claim is REFUTED and its apiMonograph field is wrong.\n\n1. REFUTED — \"API Part I Vols I-VI has no Karpura or camphor monograph.\" False. api-all.txt line 107457 carries a full monograph, heading OCR'd"
@@ -139,7 +230,7 @@
   },
   "chavika": {
    "api": {
-    "volume": "API Part I, Volume II",
+    "volume": "I",
     "heading": "CAVYA (Stem)",
     "sentence": "Cavya consists of dried stem of Piper retrofractum Vahl. Syn. P. chaba Hunter non Blume., P. officinarum DC. (Fam. Piperaceae); a glabrous, fleshy climber, cultivated mainly in Southern India."
    },
@@ -456,7 +547,7 @@
   },
   "kasheruka": {
    "api": {
-    "volume": "API Part I, Volume I",
+    "volume": "I",
     "heading": "KASERU (Rhizome)",
     "sentence": "Kaseru consists of rhizome of Scirpus kysoor Roxb. (Fam. Cyperaceae), a weed commonly found on the margins of ponds and swampy places throughout India."
    },
@@ -485,7 +576,7 @@
   },
   "katuki": {
    "api": {
-    "volume": "Volume II",
+    "volume": "II",
     "heading": "KATUKA (Rhizome)",
     "sentence": "Kauka consists of the dried rhizome with root of Picrorhiza kurroa Royle ex Benth."
    },
@@ -506,7 +597,7 @@
   },
   "kembuka": {
    "api": {
-    "volume": "API Part I, Volume V",
+    "volume": "I",
     "heading": "KEBUKA (Rhizome)",
     "sentence": "Kebuka consists of the dried rhizome of Costus speciosus (Koeming ex Retz.) Smith."
    },
@@ -746,6 +837,27 @@
    "substanceClass": "mineral",
    "basis": "filed under Mineral-Metal-Preparations"
   },
+  "nadi-hingu": {
+   "api": {
+    "volume": "VI",
+    "heading": "NADIHINGU (Exudate)",
+    "sentence": "Nadihingu is the dried resinous exudation from the shoot tip of Gardenia gummifera L. f. Syn. G. arborea Roxb. (Fam. Rubiaceae), a large shrub occurring in moist deciduous forests of India."
+   },
+   "otherAttributions": [
+    {
+     "binomial": "Gardenia arborea",
+     "source": "API Part I Vol VI, NADIHINGU (Exudate), api-all.txt line 100014-100015: 'Syn. G. arborea Roxb.' My own GBIF strict match: matchType EXACT, status SYNONYM, acceptedUsageKey 5335166 (own usageKey 5335167), accepted name Gardenia gummifera L.f. So it is the older name for the same taxon, not a competing identity."
+    },
+    {
+     "binomial": "Gardenia resinifera",
+     "source": "Claimed by the proposal as an external-literature second source of Dikamali gum (Nadkarni / Wealth of India). NOT verifiable in this session: 'resinifera' and 'G. lucida' return zero hits in api-all.txt, afi-b32232184.txt and afi-b32232172.txt. My own GBIF strict match confirms the name is real and accepted (Gardenia resinifera Roth, usageKey 5334965, Rubiaceae, matchType EXACT, status ACCEPTED), but it has no pharmacopoeial support here and must not be published as the binomial."
+    }
+   ],
+   "gbif": {
+    "status": "ACCEPTED",
+    "key": 5335166
+   }
+  },
   "naga-bhasma": {
    "substanceClass": "mineral",
    "basis": "filed under Mineral-Metal-Preparations"
@@ -847,7 +959,7 @@
   },
   "pashanabheda": {
    "api": {
-    "volume": "Volume I",
+    "volume": "I",
     "heading": "PAS ANABHEDA (Rhizome)",
     "sentence": "Pasanabheda consists of rhizomes of Bergenia ciliata (Haw.) Stemb., Syn. Bergenia ligulata (Wall.) Engl. (Fam. Saxifragaceae), a small perennial herb found throughout temperate Himalayas from Bhutan to Kashmir at an altitude between 2000-3000 m and in Khasia hills upto 1200 m altitude."
    },
@@ -889,7 +1001,7 @@
   },
   "patha": {
    "api": {
-    "volume": "Volume I",
+    "volume": "I",
     "heading": "PATHA (Root)",
     "sentence": "Patha consists of roots of Cissampelos pareira Linn. (Fam. Menisperrnaceae), an extensively spreading, glabrous to softy pubescent, perennial climbing shrub with nodose stem, common in warm and dry regions of tropical and sub-tropical parts of India upto an altitude of about 1500 m."
    },
@@ -997,7 +1109,7 @@
   },
   "rohisha": {
    "api": {
-    "volume": "API Part I, Volume V",
+    "volume": "I",
     "heading": "ROHISA (Whole Plant)",
     "sentence": "Rohisa consists of dried leaf, stem and root of Cymbopogon martinii (Roxb.) Wats."
    },
@@ -1074,9 +1186,26 @@
    "substanceClass": "mineral",
    "basis": "filed under Mineral-Metal-Preparations"
   },
+  "sarja": {
+   "api": {
+    "volume": "IV",
+    "heading": "SARJA (Exudate)",
+    "sentence": "Sarja consists of resinous exudate of Vateria indica Linn. (Fam. Dipterocarpaceae), a large, evergreen tree, upto 30 m high with a cylindrical bole, indigenous to the evergreen forests of the Western Ghats from North Kanara to Kerala and also extensively planted as an avenue tree in Karnataka; resin"
+   },
+   "otherAttributions": [
+    {
+     "binomial": "Shorea robusta",
+     "source": "AFI Part I, 2nd rev. English edn (sources-private/afi-b32232184.txt) line 40622 gives the binomial \"Shorea robusta Gaertn. F. Vateria indica Linn.\" in the Sala block, and AFI Part II (afi-b32232172.txt) entry 241 at lines 24639-24642 groups \"Sala / rala cirna, rala / Sarja / sarjaka\" under \"Shorea robusta Gaertn. f. Vateria indica Linn.\" - so the AFI itself admits Sarja/sarjaka into the Sala entry alongside both species. API Part I keeps them separate: a distinct monograph SALA (Heart Wood) = Shorea robusta Gaertn., Vol. VI (api-all.txt line 101886; data/sources/api-botanicals.json). Within this repo content/herb/sala.md publishes botanical \"Shorea robusta Gaertn.f.\" with whoStatus \"Resin (Rala/Sarjarasa) is an official drug in Ayurvedic formulary\", i.e. it attributes Sarjarasa to Shorea robusta and should be softened so the two pages do not contradict each other."
+    }
+   ],
+   "gbif": {
+    "status": "ACCEPTED",
+    "key": 3189688
+   }
+  },
   "shana": {
    "api": {
-    "volume": "Volume III",
+    "volume": "III",
     "heading": "SANA (Seed)",
     "sentence": "Sana consists of dried seed of Crotolaria juncea Linn. (Fam. Fabaceae), an erect shrubby annual, cultivated nearly throughout the country, and also found wild as an escape."
    },
@@ -1097,7 +1226,7 @@
   },
   "shankhpushpi": {
    "api": {
-    "volume": "API Part I, Volume II",
+    "volume": "I",
     "heading": "SANKHAPUSPI (Whole Plant)",
     "sentence": "Sankhapuspi consists of whole plant of Convolvulus pluricaulis Choisy (Fam. Convolvulaceae); a prostrate, sub-erect, spreading, hairy, perennial herb with a woody root stock, found throughout the country."
    },
@@ -1122,7 +1251,7 @@
   },
   "shara": {
    "api": {
-    "volume": "API Part I, Volume III",
+    "volume": "I",
     "heading": "SARA (Root)",
     "sentence": "Sara consists of dried roots of Saccharum bengalense Retz. Syn. S. sara Roxb.; S. munja Roxb. (Fam. Poaceae); an erect grass attaining a height of 5.5 m, found mainly in Punjab, Uttar Pradesh, Bihar, Bengal and Orissa."
    },
@@ -1198,6 +1327,31 @@
    "substanceClass": "mineral",
    "basis": "filed under Mineral-Metal-Preparations"
   },
+  "sthuneyaka": {
+   "api": {
+    "volume": "III",
+    "heading": "STHAUNEYA (Leaf)",
+    "sentence": "Sthauneya consists of dried leaf of Taxus baccata Linn. (Fam. Taxaceae); an evergreen conifer, about 6.5 m high, distributed in the temperate Himalayas at altitudes between 1800-3300 m and in the hills of Meghalaya and Manipur at an altitude of 1500m."
+   },
+   "otherAttributions": [
+    {
+     "binomial": "Taxus wallichiana Zucc.",
+     "source": "GBIF strict match re-run by me: matchType EXACT, status ACCEPTED, usageKey 5284540, family Taxaceae, confidence 100 - a separate accepted species, not a synonym of T. baccata. Modern treatments place Himalayan yew here, so most current Indian literature on this drug publishes under T. wallichiana. The API's own Sanskrit/English synonym block for Sthauneya reads 'Himalayan Yew', so the two names denote the same trade material; the difference is nomenclatural, not a different drug. content/herb/sthneyaka.md in this repo already carries the hedge in its botanical field: 'Taxus baccata L. (possibly Taxus wallichiana Zucc. in Indian context)'. Should be surfaced on the page."
+    },
+    {
+     "binomial": "Abies webbiana Lindl. (= Abies spectabilis (D. Don) Mirb.)",
+     "source": "content/herb/talisapatra.md and content/herb/talisa.md. GBIF strict match re-run by me: Abies webbiana -> EXACT, status SYNONYM, usageKey 2685620, acceptedUsageKey 2685619, accepted species Abies spectabilis, family Pinaceae. This is the confusable trade partner rather than a rival attribution: the API's Sthauneya synonym block (api-all.txt lines 53141-53150) lists 'Talispatra Bhed', 'Talisabhed', 'Talisapatri-Bhedam', i.e. the bheda (substitute) grade of Talisapatra. The repo already keeps them apart - Talisapatra/Talisa = Abies, Sthauneya = the Taxus bheda - and talisa.md warns of adulteration with Taxus baccata, which names them as two distinct drugs."
+    },
+    {
+     "binomial": "Juniperus communis Linn.",
+     "source": "API Part I Vol III, Hapusa monograph. Checked only as a possible mix-up because the Urdu/Kashmiri synonym 'Zarnab' appears in shared trade vocabulary (it is in the Sthauneya synonym list). Different drug; not implicated for this slug. Not verified further as it is not load-bearing."
+    }
+   ],
+   "gbif": {
+    "status": "ACCEPTED",
+    "key": 5284517
+   }
+  },
   "suryavarta": {
    "substanceClass": "uncertain",
    "basis": "Independent verification confirms the proposal's load-bearing claims; the refutation attempt failed to overturn them, and the safe outcome (no binomial published) is correct.\n\na. PAGE / CATEGORY. Read /Users/jairajsharma/Projects/ayurveda-atlas/content/herb/suryavarta.md in full. Frontmatter has bot"
@@ -1220,7 +1374,7 @@
   },
   "talisapatra": {
    "api": {
-    "volume": "Volume IV",
+    "volume": "IV",
     "heading": "TALISA (Leaves)",
     "sentence": "Talisa consist of dried needle like leaves of Abies webbiana Lindl (Fam. Pinaceae),"
    },
@@ -1257,7 +1411,7 @@
   },
   "taruni": {
    "api": {
-    "volume": "Volume III",
+    "volume": "III",
     "heading": "SATAPATRIKA (Flower)",
     "sentence": "Satapatrika consists of dried flower of Rosa centifolia Linn. (Fam. Rosaceae); a small erect shrub, 1-1.8 m high, cultivated in gardens."
    },
@@ -1270,6 +1424,27 @@
    "gbif": {
     "status": "ACCEPTED",
     "key": 3002410
+   }
+  },
+  "tintidika": {
+   "api": {
+    "volume": "V",
+    "heading": "TINTIDIKAH (Aerial Part)",
+    "sentence": "Tintidikah consists of mature dried aerial part of Rhus parvi flora Rox b. (Fam. Anacardiaceae), an evergreen or sub-deciduous shrub commonly found on the dry hot slopes of Himalayas from Punjab to Nepal and in the hills of Peninsular India at an altitude of 600-2100 m."
+   },
+   "otherAttributions": [
+    {
+     "binomial": "Tamarindus indica",
+     "source": "API Part I Vol. IV, monograph CINCA (Fruit Pulp), api-all.txt line 57471: 'Cinca consists of fruit pulp without seeds of Tamarindus indica Linn. (Fam. Fabaceae)'. 'Tintidika' appears there only as the second Sanskrit synonym after Amlika (line 57510 'Amlika, Tintidika'). Verified independently. GBIF strict: EXACT / ACCEPTED / usageKey 2975768. This is the source of the page's tamarind chemistry block, but it is a synonym overlap, not a competing headword."
+    },
+    {
+     "binomial": "Rhus parviflora Roxb. (corroborating, non-API)",
+     "source": "AFI Part I (afi-b32232184.txt): Sanskrit glossary headword 'tintidika' (line 41353) aligns to 'Rhus parviflora Roxb.' (line 41419) - alignment independently verified on the surrounding run tinduka->Diospyros embryopteris, tinisa->Ougeinia dalbergioides, tippali->Piper longum, tirita->Symplocos racemosa. Reverse Latin index line 42646: '285. Rhus parviflora Roxb. tintidika'. AFI Part II (afi-b32232172.txt): botanical index 'Tintidika' (line 23266) -> 'Rhus parviflora Roxb.' (line 23411), alignment verified on Tila->Sesamum indicum, Turuska->Liquidambar orientalis."
+    }
+   ],
+   "gbif": {
+    "status": "SYNONYM",
+    "key": 3662246
    }
   },
   "tribhuvan-kirti-rasa": {

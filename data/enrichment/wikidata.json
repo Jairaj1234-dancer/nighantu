@@ -1,6 +1,6 @@
 {
  "updatedAt": "2026-09-17",
- "count": 279,
+ "count": 284,
  "entries": {
   "Abelmoschus moschatus": {
    "status": "ok",
@@ -503,6 +503,13 @@
    "description": "species of plant",
    "checkedAt": "2026-09-12"
   },
+  "Centratherum anthelminticum": {
+   "status": "ok",
+   "qid": "Q50840345",
+   "label": "Centratherum anthelminticum",
+   "description": "species of plant",
+   "checkedAt": "2026-09-17"
+  },
   "Cichorium intybus": {
    "status": "ok",
    "qid": "Q2544599",
@@ -696,6 +703,13 @@
    "description": "species of plant, zedoary",
    "checkedAt": "2026-09-12"
   },
+  "Cymbopogon citratus": {
+   "status": "ok",
+   "qid": "Q33913",
+   "label": "Cymbopogon citratus",
+   "description": "species of plant",
+   "checkedAt": "2026-09-17"
+  },
   "Cymbopogon martinii": {
    "status": "not-found",
    "checkedAt": "2026-09-16"
@@ -871,6 +885,13 @@
    "label": "Garcinia pedunculata",
    "description": "species of plant",
    "checkedAt": "2026-09-12"
+  },
+  "Gardenia gummifera": {
+   "status": "ok",
+   "qid": "Q1595858",
+   "label": "Gardenia gummifera",
+   "description": "species of plant",
+   "checkedAt": "2026-09-17"
   },
   "Gloriosa superba": {
    "status": "ok",
@@ -1509,6 +1530,13 @@
    "description": "species of plant",
    "checkedAt": "2026-09-12"
   },
+  "Rhus parviflora": {
+   "status": "ok",
+   "qid": "Q50867307",
+   "label": "Rhus parviflora",
+   "description": "species of plant",
+   "checkedAt": "2026-09-17"
+  },
   "Ricinus communis": {
    "status": "ok",
    "qid": "Q155867",
@@ -1842,6 +1870,13 @@
    "label": "Vallisneria spiralis",
    "description": "species of plant",
    "checkedAt": "2026-09-12"
+  },
+  "Vateria indica": {
+   "status": "ok",
+   "qid": "Q2576684",
+   "label": "Vateria indica",
+   "description": "species of plant",
+   "checkedAt": "2026-09-17"
   },
   "Vetiveria zizanioides": {
    "status": "ok",

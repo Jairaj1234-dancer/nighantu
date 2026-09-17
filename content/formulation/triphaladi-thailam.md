@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Tailas-Medicated-Oils"
-answer: "Triphaladi Thailam is a classical Ayurvedic taila, a medicated oil. Listed in Ayurvedic Formulary of India (AFI). Available as both Triphaladi Thailam (sesame oil base) and Triphaladi Kera Thailam (coconut oil base)."
+answer: "Triphaladi Thailam is a classical Ayurvedic taila, a medicated oil. Listed in Ayurvedic Formulary of India (AFI). Sahasrayogam (Taila Prakarana). Available as both Triphaladi Thailam (sesame oil base) and Triphaladi Kera Thailam (coconut oil base)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Triphaladi Thailam", "TriphaladiThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 548
+words: 489
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Triphaladi-Thailam/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,19 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Triphaladi-
 | Language | Name |
 |----------|------|
 | English | [Triphaladi Thailam](/nighantu/formulation/triphaladi-thailam/) |
-
-## Key Ingredients
-
-- [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula)
-- Vibhitaki (Terminalia bellirica)
-- Amalaki (Emblica officinalis / [Amla](/nighantu/herb/amla/))
-- Amrutavalli (Tinospora cordifolia / [Guduchi](/nighantu/herb/guduchi/))
-- [Ketaki](/nighantu/herb/ketaki/) (Pandanus tectorius / Kewra)
-- Asanaka (Pterocarpus marsupium / Indian Kino)
-- [Bala](/nighantu/herb/bala/) (Sida cordifolia)
-- [Eranda](/nighantu/herb/eranda/) (Ricinus communis / Castor)
-- Indravalli (Citrullus colocynthis)
-- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) ([Tila](/nighantu/herb/tila/) taila) or [Coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil) base
 
 ## Where is it described in the classical texts?
 

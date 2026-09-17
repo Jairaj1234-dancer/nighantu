@@ -16,7 +16,7 @@ aliases: ["Arogyavardhini Vati", "ArogyavardhiniVati"]
 tags: ["ayurveda", "formulation", "vati", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 760
+words: 695
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Arogyavardhini-Vati/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,23 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Arogyavardhini-Vati
 | Language | Name |
 |----------|------|
 | English | [Arogyavardhini Vati](/nighantu/formulation/arogyavardhini-vati/) |
-
-## Key Ingredients
-
-- Shuddha Parada (Purified Mercury)
-- Shuddha [Gandhaka](/nighantu/glossary/concepts-a-m/#gandhaka) (Purified Sulphur)
-- [Loha Bhasma](/nighantu/herb/loha-bhasma/) (Iron calx)
-- Abhrak Bhasma (Mica calx)
-- [Tamra Bhasma](/nighantu/herb/tamra-bhasma/) (Copper calx)
-- [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula)
-- [Bibhitaki](/nighantu/herb/bibhitaki/) (Terminalia bellirica)
-- Amalaki (Emblica officinalis)
-- Shuddha [Shilajit](/nighantu/herb/shilajit/)
-- [Chitrak](/nighantu/herb/chitrak/) (Plumbago zeylanica)
-- Kutki (Picrorhiza kurroa)
-- Shuddha [Guggulu](/nighantu/formulation/guggulu/)|Shuddha Guggulu (Commiphora wightii)
-- [Neem](/nighantu/herb/neem/) leaves (Azadirachta indica)
-- [Eranda](/nighantu/herb/eranda/) (Ricinus communis)
 
 ## Where is it described in the classical texts?
 

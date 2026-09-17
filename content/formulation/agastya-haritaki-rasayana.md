@@ -16,7 +16,7 @@ aliases: ["Agastya Haritaki Rasayana", "AgastyaHaritakiRasayana"]
 tags: ["ayurveda", "formulation", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 536
+words: 476
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Rasayanas-Rejuvenatives/Agastya-Haritaki-Rasayana/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,21 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Rasayanas-Rejuvenatives/Agastya-H
 | Language | Name |
 |----------|------|
 | English | Agastya [Haritaki](/nighantu/herb/haritaki/) Rasayana|[Agastya](/nighantu/herb/agastya/) [Haritaki](/nighantu/herb/haritaki/) Rasayana |
-
-## Key Ingredients
-
-- [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula) - primary herb
-- Dashamula (group of ten roots)
-- [Bala](/nighantu/herb/bala/) (Sida cordifolia)
-- Atmagupta / Kapikacchu (Mucuna pruriens)
-- [Gajapippali](/nighantu/herb/gajapippali/) (Scindapsus officinalis)
-- [Pippali](/nighantu/herb/pippali/) moola (root of Piper longum)
-- [Bharangi](/nighantu/herb/bharangi/) (Clerodendrum serratum)
-- Pushkaramoola (Inula racemosa)
-- Chitraka (Plumbago zeylanica)
-- [Yava](/nighantu/herb/yava/) (Hordeum vulgare / Barley)
-- [Ghrita](/nighantu/herb/ghrita/) (cow ghee)
-- [Madhu](/nighantu/herb/madhu/) (honey)
 
 ## Where is it described in the classical texts?
 

@@ -16,7 +16,7 @@ aliases: ["Phala Ghrita", "PhalaGhrita"]
 tags: ["ayurveda", "formulation", "ghritam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 514
+words: 451
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Phala-Ghrita/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,24 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Phala-Ghr
 | Language | Name |
 |----------|------|
 | English | Phala [Ghrita](/nighantu/herb/ghrita/)|Phala Ghrita Phala Kalyana [Ghrita](/nighantu/herb/ghrita/)|Phala Kalyana Ghrita |
-
-## Key Ingredients
-
-- [Shatavari](/nighantu/herb/shatavari/) (Asparagus racemosus)
-- Manjishta (Rubia cordifolia)
-- [Madhuka](/nighantu/herb/madhuka/) (Glycyrrhiza glabra)
-- Kushta (Saussurea lappa)
-- [Triphala](/nighantu/herb/triphala/) ([Haritaki](/nighantu/herb/haritaki/), Vibhitaki, Amalaki)
-- [Bala](/nighantu/herb/bala/) (Sida cordifolia)
-- [Ashwagandha](/nighantu/herb/ashwagandha/) (Withania somnifera)
-- [Haridra](/nighantu/herb/haridra/) (Curcuma longa)
-- [Daruharidra](/nighantu/herb/daruharidra/) (Berberis aristata)
-- [Vidarikand](/nighantu/herb/vidarikand/) (Pueraria tuberosa)
-- Ajamoda (Trachyspermum ammi)
-- [Hingu](/nighantu/herb/hingu/) (Ferula asafoetida)
-- [Draksha](/nighantu/herb/draksha/) (Vitis vinifera / grapes)
-- [Ghrita](/nighantu/herb/ghrita/) (cow ghee)
-- [Ksheera](/nighantu/herb/ksheera/) (cow milk)
 
 ## Where is it described in the classical texts?
 

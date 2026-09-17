@@ -16,7 +16,7 @@ aliases: ["Guggulutiktakam Ghritam", "GuggulutiktakamGhritam"]
 tags: ["ayurveda", "formulation", "ghritam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 589
+words: 534
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Guggulutiktakam-Ghritam/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,20 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Gugguluti
 | Language | Name |
 |----------|------|
 | English | [Guggulutiktakam Ghritam](/nighantu/formulation/guggulutiktakam-ghritam/) |
-
-## Key Ingredients
-
-- [Guggulu](/nighantu/formulation/guggulu/) (Commiphora mukul)
-- [Nimba](/nighantu/herb/nimba/) (Azadirachta indica) - 480g
-- [Patola](/nighantu/herb/patola/) (Trichosanthes dioica) - 480g
-- Vyaghri (Solanum surattense) - 480g
-- [Guduchi](/nighantu/herb/guduchi/) (Tinospora cordifolia) - 480g
-- [Vasa](/nighantu/herb/vasa/) (Adhatoda vasica) - 480g
-- [Devadaru](/nighantu/herb/devadaru/) (Cedrus deodara)
-- [Haridra](/nighantu/herb/haridra/) (Curcuma longa)
-- Ajamoda (Apium graveolens)
-- [Chavya](/nighantu/herb/chavya/) (Piper chaba)
-- [Ghrita](/nighantu/herb/ghrita/) (clarified cow butter)
 
 ## Where is it described in the classical texts?
 

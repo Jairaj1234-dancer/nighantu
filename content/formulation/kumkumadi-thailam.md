@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Tailas-Medicated-Oils"
-answer: "Kumkumadi Thailam is a classical Ayurvedic taila, a medicated oil. Referenced in Pharmacopoeia Commission for Indian Medicine & Homoeopathy (PCIMH) Volumes 3 and 4. Formulation contains 21+ herbs for Varnya (complexion-enhancing) therapy."
+answer: "Kumkumadi Thailam is a classical Ayurvedic taila, a medicated oil. Referenced in Pharmacopoeia Commission for Indian Medicine & Homoeopathy (PCIMH) Volumes 3 and 4. Bhaishajya Ratnavali (Kshudra Roga Chikitsa chapter); also documented in Ashtanga Hridayam."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: ["Kumkumadi Thailam", "KumkumadiThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
 productHints: []
-words: 540
+words: 474
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kumkumadi-Thailam/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,20 +24,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kumkumadi-T
 | Language | Name |
 |----------|------|
 | English | [Kumkumadi Thailam](/nighantu/formulation/kumkumadi-thailam/) |
-
-## Key Ingredients
-
-- Kumkuma (Crocus sativus / [Saffron](/nighantu/herb/saffron/)) - key ingredient
-- [Manjistha](/nighantu/herb/manjistha/) (Rubia cordifolia / Indian Madder)
-- [Pattanga](/nighantu/herb/pattanga/) (Caesalpinia sappan / Sappan Wood)
-- [Kamala](/nighantu/herb/kamala/) Keshara (Nelumbo nucifera / Lotus pollen)
-- [Chandana](/nighantu/herb/chandana/) (Santalum album / Sandalwood)
-- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (Glycyrrhiza glabra / Licorice)
-- [Padmaka](/nighantu/herb/padmaka/) (Prunus cerasoides)
-- [Ushira](/nighantu/herb/ushira/) (Vetiveria zizanioides)
-- Darvi (Berberis aristata)
-- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) ([Tila](/nighantu/herb/tila/) taila) base
-- Goat's milk
 
 ## Where is it described in the classical texts?
 
