@@ -15,6 +15,7 @@
  */
 import fs from 'node:fs';
 import path from 'node:path';
+import os from 'node:os';
 
 const PANEL = [
   // Practice questions, where the Shirodhara hub should win
@@ -94,11 +95,26 @@ if (process.argv.includes('--list')) {
   process.exit(0);
 }
 
-// Check available providers
-const anthropicKey = process.env.ANTHROPIC_API_KEY;
-const openaiKey = process.env.OPENAI_API_KEY;
-const perplexityKey = process.env.PERPLEXITY_API_KEY;
-const geminiKey = process.env.GEMINI_API_KEY;
+/**
+ * Keys come from the environment, or from a file in the home directory.
+ *
+ * The file exists so a key never has to be typed into a terminal that keeps history, a
+ * chat transcript, or anything inside this repo, which is public. It holds the key and
+ * nothing else, and it is read at the moment of use and never copied anywhere.
+ */
+const fromFile = (name) => {
+  const f = path.join(os.homedir(), name);
+  try {
+    return fs.readFileSync(f, 'utf8').trim().split(/\r?\n/)[0] || null;
+  } catch {
+    return null;
+  }
+};
+
+const anthropicKey = process.env.ANTHROPIC_API_KEY || fromFile('.anthropic-api');
+const openaiKey = process.env.OPENAI_API_KEY || fromFile('.openai-api');
+const perplexityKey = process.env.PERPLEXITY_API_KEY || fromFile('.perplexity-api');
+const geminiKey = process.env.GEMINI_API_KEY || fromFile('.gemini-api');
 
 let provider = null;
 if (anthropicKey) provider = 'anthropic';
@@ -107,12 +123,14 @@ else if (openaiKey) provider = 'openai';
 else if (geminiKey) provider = 'gemini';
 
 if (!provider) {
-  console.error('\nNo AI API key found in environment.');
+  console.error('\nNo API key found in the environment or in ~/.<provider>-api.');
   console.error('Supported providers:');
   console.error('  ANTHROPIC_API_KEY   (Claude + web search)');
   console.error('  PERPLEXITY_API_KEY  (Perplexity Sonar + online search)');
   console.error('  OPENAI_API_KEY      (OpenAI + search)');
   console.error('  GEMINI_API_KEY      (Google Gemini + Google Search)');
+  console.error('\nOr save one key to a file, which keeps it out of shell history:');
+  console.error("  echo 'YOUR_KEY' > ~/.gemini-api && chmod 600 ~/.gemini-api");
   console.error('\nRun `node scripts/geo-audit.mjs --list` to view all prompts for manual verification.');
   process.exit(1);
 }

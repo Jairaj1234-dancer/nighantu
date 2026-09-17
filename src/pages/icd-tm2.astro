@@ -1,0 +1,107 @@
+---
+/**
+ * Ayurvedic disease names against WHO ICD-11 TM2 codes.
+ *
+ * A terminology crosswalk and nothing else. Each row says: WHO lists this Sanskrit term,
+ * in the Ayurveda field of its Traditional Medicine module, against this code. It is not a
+ * diagnosis, not a statement that the two concepts are the same thing, and carries no
+ * causes, symptoms or treatment. The companion database's rows for these conditions do
+ * carry treatment summaries; they are deliberately not published here.
+ *
+ * Licence. ICD-11 is CC BY-ND 3.0 IGO while this site is CC BY 4.0, so WHO's terms and
+ * titles are reproduced unaltered, attributed and linked, and are kept out of the
+ * downloadable datasets, which invite the modification the ND licence forbids.
+ */
+import Page from '../layouts/Page.astro';
+import crosswalk from '../data/icd-tm2.json';
+import { abs, rel } from '../lib/site';
+
+const title = 'Ayurvedic disease names in WHO ICD-11 (TM2)';
+const description = 'Which Ayurvedic disease terms WHO lists against which ICD-11 Traditional Medicine Module 2 codes, taken from the WHO classification itself.';
+const canonical = '/icd-tm2/';
+
+const data = crosswalk as any;
+const rows = [...data.rows].sort((a: any, b: any) => a.sanskrit.localeCompare(b.sanskrit));
+const multi = rows.filter((r: any) => r.codes.length > 1).length;
+const browserUrl = (code: string) => `https://icd.who.int/browse/2026-01/mms/en#/http%3A%2F%2Fid.who.int%2Ficd%2Frelease%2F11%2Fmms%2F${code}`;
+
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@type': 'DefinedTermSet',
+  '@id': `${abs(canonical)}#termset`,
+  name: title,
+  description,
+  url: abs(canonical),
+  license: 'https://creativecommons.org/licenses/by-nd/3.0/igo/',
+  hasDefinedTerm: rows.slice(0, 200).map((r: any) => ({
+    '@type': 'DefinedTerm',
+    name: r.sanskrit,
+    termCode: r.codes[0].code,
+    inDefinedTermSet: 'https://icd.who.int/browse/2026-01/mms/en',
+  })),
+};
+---
+<Page title={title} description={description} canonical={canonical} jsonld={jsonld}>
+  <p class="lead">
+    WHO's International Classification of Diseases carries a Traditional Medicine module,
+    TM2, and files Ayurvedic, Siddha and Unani terms against its codes. This page reports
+    the Ayurvedic half of that filing for {rows.length} terms: what WHO lists, where.
+  </p>
+
+  <h2>What a row means, and what it does not</h2>
+  <p>
+    A row says only that WHO lists this Sanskrit term against this code. It is not a claim
+    that the Ayurvedic condition and the biomedical category are the same thing, and it is
+    not a diagnosis. The names come from WHO's own Ayurveda field, reproduced as WHO spells
+    them; the codes and titles are WHO's. Nothing on this page was generated, and no code
+    from any other source appears.
+  </p>
+  <p>
+    {multi} terms are listed under more than one code. Both are shown, because that is what
+    the classification does, and choosing one would be our judgement rather than WHO's.
+  </p>
+
+  <div class="table-scroll">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Ayurvedic term</th>
+          <th scope="col">As WHO spells it</th>
+          <th scope="col">Code</th>
+          <th scope="col">WHO's title for the code</th>
+        </tr>
+      </thead>
+      <tbody>
+        {rows.map((r: any) => r.codes.map((c: any, i: number) => (
+          <tr>
+            <td>{i === 0 ? <><strong>{r.sanskrit}</strong>{r.devanagari && <> <span class="deva">{r.devanagari}</span></>}</> : ''}</td>
+            <td><i>{c.term}</i></td>
+            <td><a href={browserUrl(c.code)} rel="noopener">{c.code}</a></td>
+            <td>{c.title.replace(/\s*\(TM2\)\s*$/, '')}</td>
+          </tr>
+        )))}
+      </tbody>
+    </table>
+  </div>
+
+  <h2>Source and licence</h2>
+  <p>
+    {data.source}. Terms and titles are reproduced unaltered from the WHO classification and
+    are licensed by WHO under
+    <a href="https://creativecommons.org/licenses/by-nd/3.0/igo/" rel="noopener">CC BY-ND 3.0 IGO</a>,
+    which is why they are not included in this site's
+    <a href={rel('/datasets/')}>downloadable datasets</a>: those are CC BY 4.0 and permit the
+    modification that WHO's licence does not. Browse the classification itself at
+    <a href="https://icd.who.int/browse/2026-01/mms/en" rel="noopener">icd.who.int</a>.
+  </p>
+  <p class="disclaimer">
+    Educational reference only. Classification terminology is not medical advice, and
+    nothing here describes how any condition should be treated.
+  </p>
+</Page>
+
+<style>
+  .deva { color: var(--ink-soft); font-size: .95em; }
+  .table-scroll { overflow-x: auto; margin: 1.5rem 0; }
+  .table-scroll th, .table-scroll td { text-align: left; padding: .4rem .7rem; border-top: 1px solid var(--rule); vertical-align: top; font-size: .93rem; }
+</style>

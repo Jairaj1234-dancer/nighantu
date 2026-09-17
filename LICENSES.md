@@ -36,3 +36,11 @@ the reference text, not the brand.
 **The SARIT-derived classical verse corpus is CC BY-SA 3.0** and is deliberately not
 part of this repository. Do not assume this repository's licence extends to it. See
 [PROVENANCE.md](PROVENANCE.md).
+
+**WHO ICD-11 terms and titles are CC BY-ND 3.0 IGO**, not CC BY 4.0. The crosswalk at
+`/icd-tm2/` reproduces WHO's Ayurvedic index terms, codes and category titles unaltered,
+attributed and linked, which is what the NoDerivs licence permits. They are deliberately
+absent from `public/` and from every downloadable dataset, because those are offered under
+CC BY 4.0 and invite the modification WHO's licence forbids. `src/data/icd-tm2.json` holds
+only what the page renders. Source: WHO ICD-11 for Mortality and Morbidity Statistics,
+2026-01, Module II, https://icd.who.int/browse/2026-01/mms/en
