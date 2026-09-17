@@ -42,6 +42,35 @@ const partLabel = (p: string | null) => {
 const herbSlugs = new Set(((manifest as any).pages ?? []).filter((p: any) => p.kind === 'herb').map((p: any) => p.slug));
 const slugOf = (s: string) => s.normalize('NFKD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 const linkFor = (r: any) => [r.gloss, r.name].map((x) => x && slugOf(x)).find((s) => s && herbSlugs.has(s));
+
+/**
+ * Mark the cell that is actually unreadable, not the whole row.
+ *
+ * `illegible` is a row-level flag, and it used to gate the INGREDIENT NAME cell, so a row
+ * whose part abbreviation was damaged printed "illegible in the source scan" in place of a
+ * name the transcriber had read perfectly well. That was 174 of the 176 flagged rows: the
+ * one cell that was legible was the one being hidden. The transcriptions mark an unreadable
+ * cell inline, so the marker decides the cell, and a row flag alone no longer hides a name.
+ */
+const marked = (v: any) => /^\[illegible/i.test(String(v ?? ''));
+
+/**
+ * Three different things, and they must not look alike:
+ *  - an empty cell is NOT damage. 248 rows legitimately have no part, because water, milk,
+ *    jaggery, sugar and mineral ingredients have none. Those print blank.
+ *  - a cell the transcriber marked "[illegible: ...]" is damage.
+ *  - a part that still carries scan garbage is damage too, and was printing raw as "P1."
+ *    or "?1." beside real abbreviations. No genuine part abbreviation contains a digit or a
+ *    question mark, so that is a safe test.
+ */
+const partCell = (v: any) => {
+  if (v == null || String(v).trim() === '') return { text: '', damaged: false };
+  if (marked(v) || /[?0-9]/.test(String(v))) return { text: '', damaged: true };
+  return { text: partLabel(String(v)), damaged: false };
+};
+const quantityCell = (v: any) => (marked(v) || v == null || String(v).trim() === ''
+  ? { text: '', damaged: true }
+  : { text: String(v), damaged: false });
 ---
 {rec && (
   <section class="composition" aria-labelledby="composition-heading">
@@ -62,18 +91,24 @@ const linkFor = (r: any) => [r.gloss, r.name].map((x) => x && slugOf(x)).find((s
               <tr>
                 <td>{r.n}</td>
                 <td>
-                  {r.illegible ? <em>illegible in the source scan</em> : link ? <a href={rel(`/herb/${link}/`)}>{r.name}</a> : r.name}
-                  {r.gloss && <> ({r.gloss})</>}
+                  {link ? <a href={rel(`/herb/${link}/`)}>{r.name}</a> : r.name}
+                  {r.gloss && !marked(r.gloss) && <> ({r.gloss})</>}
                   {r.ocrCorrected && <span class="ocrnote" title={r.ocrCorrected}> *</span>}
                 </td>
-                <td>{partLabel(r.part)}</td>
-                <td>{r.quantity}</td>
+                <td>{partCell(r.part).damaged ? <em class="illegible">illegible</em> : partCell(r.part).text}</td>
+                <td>{quantityCell(r.quantity).damaged ? <em class="illegible">illegible</em> : quantityCell(r.quantity).text}</td>
               </tr>
             );
           })}
         </tbody>
       </table>
     </div>
+    {rec.rows.some((r: any) => partCell(r.part).damaged || quantityCell(r.quantity).damaged) && (
+      <p class="composition-note">
+        Cells marked illegible are damaged in the source scan. The ingredient name is shown
+        where it was readable, and nothing is inferred to fill a gap.
+      </p>
+    )}
     {rec.rows.some((r: any) => r.ocrCorrected) && (
       <p class="composition-note">* The scanned text was damaged at this row and the name was read from the entry's own Sanskrit verse.</p>
     )}

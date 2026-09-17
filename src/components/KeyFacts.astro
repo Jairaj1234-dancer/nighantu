@@ -50,8 +50,42 @@ const CLASS_LABEL: Record<string, string> = {
 const substanceType = ident?.substanceClass ? CLASS_LABEL[ident.substanceClass] ?? '' : '';
 const apiCite = ident?.api && botanical
   ? `Ayurvedic Pharmacopoeia of India, Part I, Vol. ${ident.api.volume}: ${ident.api.heading}` : '';
-const otherAttr = ident?.otherAttributions?.length && botanical
-  ? ident.otherAttributions.map((a: any) => a.binomial).filter((b: string) => b !== botanical).slice(0, 4) : [];
+/**
+ * Competing names, each with what kind of competitor it is.
+ *
+ * These were rendered as one undifferentiated list under "other sources apply the same
+ * Sanskrit name to these plants". That flattened three different things into one: a
+ * regional tradition the Pharmacopoeia itself records, a trade substitute our own note
+ * calls an adulterant, and a bare spelling variant of the published name. A reader could
+ * not tell Katuki's Neopicrorhiza (a substitution) from Shankhpushpi's Evolvulus (a
+ * documented regional use), which is exactly the judgement they need.
+ *
+ * The kind is read from the recorded note rather than invented, and anything that folds
+ * onto the published name is dropped as a spelling variant rather than shown as a rival.
+ */
+const fold = (b: string) => b.toLowerCase().replace(/[^a-z ]/g, '').split(/\s+/).slice(0, 2)
+  .map((w) => w.replace(/(.)\1+/g, '$1').replace(/[aeiou]+$/, '')).join(' ');
+// Order is the point: the notes overlap, and a looser rule matching first mislabels.
+// Shankhpushpi's Evolvulus note says both "regional substitute" and cites the API's own
+// monograph; it is the Pharmacopoeia recording a regional use, not an adulteration, so the
+// Pharmacopoeia test has to run before the substitute test. Bhumyamalaki's P. amarus note
+// says "Not the API name" and matched a bare /api/ test, which is how it came out labelled
+// as Pharmacopoeia-named. Each pattern now keys on the phrase that actually distinguishes.
+const KIND: [RegExp, string][] = [
+  [/misapplied|non Linn/i, 'misapplied name'],
+  [/accepted name|\bSYNONYM\b/i, 'nomenclatural synonym'],
+  [/certain parts of india|monograph note/i, 'named in the Pharmacopoeia as also used'],
+  [/adulterant|trade substitute/i, 'traded as a substitute'],
+  [/regional|kerala|bengal|south india/i, 'regional usage'],
+  [/materia medica|literature/i, 'reported in the literature'],
+];
+const otherAttr = (ident?.otherAttributions ?? [])
+  .filter((a: any) => botanical && a.binomial && fold(a.binomial) !== fold(botanical))
+  .map((a: any) => ({
+    binomial: a.binomial,
+    kind: (KIND.find(([rx]) => rx.test(a.source ?? '')) ?? [null, 'attribution recorded without a cited source'])[1],
+  }))
+  .slice(0, 4);
 
 /** Match the page's botanical to a resolved taxon the same way the resolver keyed it. */
 const queryOf = (b: string) => b.replace(/\s*\(.*?\)\s*/g, ' ').split(/\s+/).slice(0, 2).join(' ');
@@ -70,7 +104,7 @@ const rows = [
   ['Substance type', substanceType],
   ['Botanical name', botanical],
   ['Identity source', apiCite],
-  ['Also attributed to', otherAttr.join(', ')],
+  ['Also called', otherAttr.length ? 'see below' : ''],
   ['Currently accepted name', supersededBy],
   ['Family', family || (trustworthy ? taxon.family : '')],
   ['Order', trustworthy ? taxon.order : ''],
@@ -94,9 +128,13 @@ const ids = trustworthy ? [
         <tr>
           <th scope="row">{k}</th>
           <td>
-            {k === 'Botanical name' || k === 'Currently accepted name' || k === 'Also attributed to' ? <i>{v}</i> : v}
-            {k === 'Also attributed to' && (
-              <span class="taxnote"> (other sources apply the same Sanskrit name to these plants)</span>
+            {k === 'Botanical name' || k === 'Currently accepted name' ? <i>{v}</i> : (k === 'Also called' ? '' : v)}
+            {k === 'Also called' && (
+              <>
+                {otherAttr.map((a: any, n: number) => (
+                  <>{n > 0 && <br />}<i>{a.binomial}</i><span class="taxnote"> ({a.kind})</span></>
+                ))}
+              </>
             )}
             {k === 'Currently accepted name' && (
               <span class="taxnote"> — the name above is treated as a synonym by GBIF; both are in use</span>
