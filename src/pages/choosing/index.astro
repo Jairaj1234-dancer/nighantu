@@ -1,0 +1,31 @@
+---
+import Page from '../../layouts/Page.astro';
+import { getCollection } from 'astro:content';
+import { rel } from '../../lib/site';
+
+const entries = (await getCollection('choosing')).sort((a, b) => a.data.order - b.data.order);
+const title = 'Choosing between Ayurvedic preparations';
+const description = 'What to compare when you are picking one preparation over another: what the formulary fixes, what a manufacturer may vary, and where a classical name covers more than one plant.';
+---
+<Page title={title} description={description} canonical="/choosing/">
+  <p class="lead">
+    The rest of this reference answers what a substance is. These pages answer the question
+    that follows: which one, and how would you tell. Each is built on material published
+    elsewhere on this site, with the source named on the page it came from.
+  </p>
+  <ul class="cards">
+    {entries.map((e) => (
+      <li>
+        <a href={rel(`/choosing/${e.data.slug}/`)}>{e.data.title}</a>
+        <p>{e.data.description}</p>
+      </li>
+    ))}
+  </ul>
+</Page>
+
+<style>
+  .cards { list-style: none; padding: 0; }
+  .cards li { margin: 1.25rem 0; }
+  .cards a { font-weight: 600; }
+  .cards p { margin: .25rem 0 0; color: var(--ink-soft); font-size: .94rem; }
+</style>

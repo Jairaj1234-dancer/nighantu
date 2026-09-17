@@ -30,6 +30,14 @@ if (!IN || !fs.existsSync(IN)) { console.error('usage: node scripts/apply-identi
 const API_TEXT = path.join('sources-private', 'api-all.txt');
 if (!fs.existsSync(API_TEXT)) { console.error(`missing ${API_TEXT} (see scripts/api-index.mjs)`); process.exit(1); }
 const apiFolded = fs.readFileSync(API_TEXT, 'utf8').replace(/\s+/g, ' ').toLowerCase();
+
+/** Monograph heading -> volume, straight from the pattern-extracted API index. */
+const normHeading = (h) => String(h ?? '').replace(/\s+/g, ' ').trim().toUpperCase();
+const API_VOLUME_BY_HEADING = new Map(
+  (JSON.parse(fs.readFileSync(path.join('data', 'sources', 'api-botanicals.json'), 'utf8')).records ?? [])
+    .filter((r) => r.heading)
+    .map((r) => [normHeading(r.heading), r.volume]),
+);
 const foldQuote = (s) => String(s ?? '').replace(/\s+/g, ' ').trim().toLowerCase();
 
 const FOLDER_CLASS = [
@@ -135,8 +143,14 @@ for (const item of done) {
    * the last two produce "Vol. Volume III" and a truncated heading, so the roman numeral
    * is taken out of whatever was written.
    */
-  const volume = (String(v.apiVolume ?? '').match(/\b([IVX]{1,5})\b(?!.*\b[IVX]{1,5}\b)/) ?? [])[1]
-    ?? String(v.apiVolume ?? '').replace(/^(API\s+Part\s+I,\s*)?(Volume|Vol\.?)\s*/i, '').split(':')[0].trim();
+  //  - the API index is the authority where the monograph heading matches it;
+  //  - failing that, the numeral that FOLLOWS "Vol"/"Volume", because "API Part I, Volume II"
+  //    contains Part I's numeral first and a first-match rule published four wrong citations.
+  const written = String(v.apiVolume ?? '');
+  const volume = API_VOLUME_BY_HEADING.get(normHeading(v.apiHeading))
+    ?? (written.match(/\bVol(?:ume)?\.?\s*([IVX]{1,5})\b/i) ?? [])[1]
+    ?? (written.match(/\b([IVX]{1,5})\b/) ?? [])[1]
+    ?? written.trim();
 
   bins.binomials[slug] = {
     binomial,
