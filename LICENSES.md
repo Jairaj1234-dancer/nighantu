@@ -10,7 +10,7 @@ This repository is dual-licensed by path.
 
 ## Attributing this work
 
-> Age Ayurveda. *Age Ayurveda Nighantu*. https://jairaj1234-dancer.github.io/nighantu/
+> Age Ayurveda. *Age Ayurveda Nighantu*. https://nighantu.ageayurveda.com/
 
 Every page carries a suggested citation with its canonical URL and the date it was last
 revised. Machine-readable metadata is in [CITATION.cff](CITATION.cff).

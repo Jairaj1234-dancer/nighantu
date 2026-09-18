@@ -3,79 +3,24 @@
 Everything here is free. Items 1 to 3 need your login or your registrar and cannot be done for
 you. Item 4 onward is work I can do once you say go.
 
-Current state: the Nighantu is live at https://jairaj1234-dancer.github.io/nighantu/ with 806
-pages, including a published verification ledger at `/verification/` and a structured
-Dravyaguna dataset at `/dravyaguna/`. A root `robots.txt` and `llms.txt` now exist at
-https://jairaj1234-dancer.github.io/ so the sitemap is discoverable. Nothing on the web links
-to the site yet, and it is not registered with any search engine.
+Current state: the Nighantu is live at **https://nighantu.ageayurveda.com** with 902 pages,
+a published verification ledger at `/verification/`, structured datasets, a DOI
+(10.5281/zenodo.22805684) and an ICD-11 terminology crosswalk. It serves its own
+`robots.txt`, `llms.txt` and IndexNow key from its own origin. Bing is verified. Nothing on
+the web links to it yet, and Google does not know it exists.
 
 ---
 
-## 1. Add the DNS record (15 minutes, unblocks everything else)
+## 1. ~~Add the DNS record~~ DONE, 18 September 2026
 
-ageayurveda.com is registered at **GoDaddy**, and GoDaddy's own nameservers
-(`ns25/ns26.domaincontrol.com`) hold the DNS, so this is done in the GoDaddy account.
+`nighantu` is a CNAME to `jairaj1234-dancer.github.io.` at GoDaddy, the custom domain is
+registered with GitHub Pages, the certificate is issued and HTTPS is enforced. The site
+moved with `./scripts/use-subdomain.sh nighantu.ageayurveda.com`, which rewrote every
+internal link, the canonicals, the sitemap and the JSON-LD node ids, and copied the
+IndexNow key into this repo because it previously lived only on the old origin.
 
-### Option A: let me do it, via the GoDaddy API
-
-GoDaddy lowered its API threshold to a single domain in April 2026, so your account qualifies.
-
-1. Go to https://developer.godaddy.com/keys and create a **Production** key (not OTE, which is
-   the test environment).
-2. Save it to a file, so the credentials never pass through a chat transcript:
-
-   ```bash
-   printf '%s\n%s\n' 'YOUR_KEY' 'YOUR_SECRET' > ~/.godaddy-api
-   chmod 600 ~/.godaddy-api
-   ```
-
-3. Tell me it is there, and I run `./scripts/add-dns-record.sh nighantu ageayurveda.com`.
-
-The script reads existing records first and prints the ones it will not touch, sets only the one
-new CNAME, then waits for propagation. Your root A record and the `www` CNAME pointing at
-Shopify, and your MX mail records, are never modified.
-
-### Option B: do it by hand in the GoDaddy UI
-
-**Domains, then DNS, then Add New Record:**
-
-| Field | Value |
-| --- | --- |
-| Type | `CNAME` |
-| Host / Name | `nighantu` |
-| Value / Points to | `jairaj1234-dancer.github.io.` |
-| TTL | leave default |
-
-Notes that trip people up:
-
-- The **Host** field takes only the label, `nighantu`, not the full
-  `nighantu.ageayurveda.com`. Some registrars want the full name; if the form shows the domain
-  suffix greyed out next to the box, enter just `nighantu`.
-- The **Value** ends with a dot. Most registrars add it themselves; if yours rejects the dot,
-  drop it.
-- Do **not** use an A record, and do not point it at an IP address.
-- This does not touch the Shopify store. The root domain `ageayurveda.com` and `www` keep
-  pointing wherever they point now. You are only adding a new subdomain.
-
-Check it worked by running `host nighantu.ageayurveda.com` in a terminal. When it answers with
-`jairaj1234-dancer.github.io`, it is ready. Propagation is usually minutes, occasionally hours.
-
-Then tell me, and I run:
-
-```bash
-./scripts/use-subdomain.sh nighantu.ageayurveda.com
-```
-
-That writes the CNAME file, flips the base path to root, re-ingests so all 38,000 internal
-links update, rebuilds, re-runs the gates and pushes. The script refuses to run until DNS
-actually resolves, so it cannot break the live site by going early.
-
-**Why this matters more than anything else on the list.** Right now every citation the site
-earns credits `jairaj1234-dancer.github.io`, a personal GitHub handle, not Age Ayurveda. On a
-subdomain, the reference work and the store are visibly one brand, you get a domain-level
-Search Console property, and the site serves its own root `robots.txt` and `llms.txt`.
-
----
+The old `jairaj1234-dancer.github.io/nighantu/` still serves. Leave it for a few weeks so
+anything holding the old IndexNow key location keeps resolving.
 
 ## 2. Register with search engines (20 minutes)
 
@@ -90,15 +35,15 @@ engine did not need an account at all.
 **Still needs your login:** Google has no equivalent. Search Console is the only way in, and
 Request Indexing is the fastest way to get a new site crawled.
 
-Do this after the subdomain if it is coming soon, otherwise do it now on the current URL and
-redo it later.
+The subdomain is live, so do this once, on the real domain.
 
 **Google Search Console** at https://search.google.com/search-console
 
-1. Add property. Use **URL prefix** and enter the site URL exactly, with the trailing slash.
-2. Verify. On the current github.io URL, use the HTML file method and send me the file, or the
-   meta tag method and send me the tag; I will deploy it. On a subdomain you own, DNS
-   verification is easiest.
+1. Add property. Either **Domain** (`nighantu.ageayurveda.com`, verified by a DNS TXT record
+   at GoDaddy, which also covers future subpaths) or **URL prefix**
+   (`https://nighantu.ageayurveda.com/`).
+2. Verify. DNS is easiest now that you own the domain: GoDaddy, Add New Record, type TXT,
+   host `nighantu`, value the string Google gives you.
 3. Sitemaps, submit `sitemap-index.xml`.
 4. URL Inspection, paste the homepage URL, click **Request indexing**. Do the same for
    `/shirodhara/` and `/shirodhara/choosing-equipment/`. This is the fastest way to get a brand
@@ -106,7 +51,8 @@ redo it later.
 
 **Bing Webmaster Tools** at https://www.bing.com/webmasters
 
-Optional now, since IndexNow submission is already working without it. Worth doing anyway for
+Already verified on the old origin. Add `https://nighantu.ageayurveda.com/` as a second
+property; the verification file is served from the new origin too, so it verifies at once. Worth doing anyway for
 the reporting: you can import directly from Search Console once that is set up, which takes about
 a minute, and Bing will then show you which of the submitted URLs it actually indexed. If you do
 sign up, keep the existing key rather than generating a new one:
@@ -121,8 +67,8 @@ You confirmed this is acceptable since it is a Navigation setting rather than a 
 In Shopify admin: **Online Store, then Navigation**. Edit the **Footer menu**, click **Add menu
 item**.
 
-- Name: `Ayurvedic herb reference` (or `Nighantu` once the subdomain is live)
-- Link: paste the site URL
+- Name: `Ayurvedic herb reference`
+- Link: `https://nighantu.ageayurveda.com`
 
 Use the footer rather than the main menu. It is the lower-risk placement, it is a normal thing
 for a brand to have, and it carries the same signal.

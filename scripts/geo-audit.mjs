@@ -82,8 +82,10 @@ const PANEL = [
 
 const NEEDLES = [
   'ageayurveda.com', 'age ayurveda', 'nighantu',
-  'jairaj1234-dancer.github.io/nighantu', 'surya shirodhara',
-  'nighantu.ageayurveda.com', 'shree baidyanath'
+  // The github.io host stays: a citation earned before the move is still a citation,
+  // and anything that cached the old URL will keep quoting it for months.
+  'jairaj1234-dancer.github.io/nighantu', 'nighantu.ageayurveda.com',
+  'surya shirodhara',
 ];
 
 const LOG = path.join('data', 'citation-log.csv');

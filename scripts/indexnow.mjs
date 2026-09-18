@@ -25,7 +25,7 @@ import path from 'node:path';
 import { loadState, saveState, hash } from './lib/state.mjs';
 
 const KEY = process.env.INDEXNOW_KEY || 'bf9a6ad9a651b9775c941d4fd074a13a';
-const SITE = (process.env.ATLAS_SITE || 'https://jairaj1234-dancer.github.io').replace(/\/$/, '');
+const SITE = (process.env.ATLAS_SITE || 'https://nighantu.ageayurveda.com').replace(/\/$/, '');
 const HOST = new URL(SITE).host;
 const KEY_LOCATION = process.env.INDEXNOW_KEY_LOCATION || `${SITE}/${KEY}.txt`;
 const DRY = process.argv.includes('--dry-run');

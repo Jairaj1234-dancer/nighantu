@@ -1,7 +1,10 @@
 /** What the monitors watch. Edit here, not in the monitor modules. */
 
-export const SITE = (process.env.ATLAS_SITE || 'https://jairaj1234-dancer.github.io').replace(/\/$/, '');
-export const BASE = (process.env.ATLAS_BASE ?? '/nighantu').replace(/\/$/, '');
+export const SITE = (process.env.ATLAS_SITE || 'https://nighantu.ageayurveda.com').replace(/\/$/, '');
+// Empty by default since the move to nighantu.ageayurveda.com: the site is its own
+// origin and its pages sit at the root. The old default silently prefixed /nighantu to
+// every health check, so a dry run reported the whole site as 404 while it was fine.
+export const BASE = (process.env.ATLAS_BASE ?? '').replace(/\/$/, '');
 export const ORIGIN = new URL(SITE).origin;
 
 /** Paths that must return 200 for the site to be functioning at all. */

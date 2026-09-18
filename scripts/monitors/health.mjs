@@ -45,7 +45,9 @@ export async function run(state) {
           'origin root, so the copy under the base path is never read. The IndexNow key file',
           'must resolve or every submission is rejected with `SiteVerificationNotCompleted`.',
           '',
-          'These are served by the `jairaj1234-dancer.github.io` repo, not this one.',
+          'Since the move to nighantu.ageayurveda.com these are served by this repo, from',
+          'public/. The old jairaj1234-dancer.github.io copies are left in place for now so',
+          'anything holding the old key location keeps resolving.',
         ].join('\n'),
       });
     }
