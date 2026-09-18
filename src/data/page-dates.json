@@ -990,7 +990,7 @@
     "modified": "2026-09-09"
   },
   "guide/choosing-equipment": {
-    "hash": "4090772e682c7918",
+    "hash": "72082a627253b488",
     "published": "2026-09-09",
     "modified": "2026-09-18"
   },
@@ -1024,8 +1024,13 @@
     "published": "2026-09-09",
     "modified": "2026-09-09"
   },
+  "guide/medical-device-status": {
+    "hash": "75dd36b214226238",
+    "published": "2026-09-18",
+    "modified": "2026-09-18"
+  },
   "guide/pot-or-apparatus": {
-    "hash": "8628523b0e2c79f2",
+    "hash": "efbd813cf6ae3b05",
     "published": "2026-09-09",
     "modified": "2026-09-18"
   },

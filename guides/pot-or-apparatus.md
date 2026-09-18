@@ -62,7 +62,8 @@ policy, which is enforcement discretion rather than a finding that the product i
 device, and which requires both a wellness purpose and low risk. In the EU it stays outside
 the Medical Device Regulation while its manufacturer states no medical purpose. Everywhere, a therapeutic
 claim is what moves it: in India and the EU it brings a product inside medical device
-regulation, and in the United States it removes the FDA's forbearance.
+regulation, and in the United States it removes the FDA's forbearance. The full position is at
+[is a Shirodhara machine a medical device](/shirodhara/medical-device-status/).
 
 Nothing here is outside regulation altogether: general product safety law, electrical
 compliance and advertising law all still apply. A vendor advertising treatment of a named
