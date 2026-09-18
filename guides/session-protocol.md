@@ -4,6 +4,7 @@ slug: "session-protocol"
 order: 5
 description: "Preparation, the pour itself, and what happens after."
 answer: "A session runs in four parts: a short head and shoulder abhyanga to warm the tissue, the pour itself with the person supine and the stream falling on the forehead, a rest period with the oil left in the hair, and a delayed wash. The pour is the shortest part to describe and the longest to do well."
+products: "shirodhara"
 ---
 
 ## Before

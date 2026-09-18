@@ -4,6 +4,7 @@ slug: "faq"
 order: 12
 description: "The things people actually ask, answered plainly."
 answer: "Common questions about Shirodhara: what it feels like, how often to have it, which oil to use, whether it can be done at home, how much oil a session needs, and what to do afterwards. Answers below are the practical, non-clinical version."
+products: "shirodhara"
 faq:
   - q: "What is Shirodhara?"
     a: "Shirodhara is a classical Ayurvedic external practice in which a warm liquid, usually a medicated sesame-based oil, is poured in an unbroken stream onto the forehead for a set period. The name joins shiras, meaning head, and dhara, meaning stream. It belongs to the murdha taila group of head-oleation procedures described in the Ashtanga Hridaya."
