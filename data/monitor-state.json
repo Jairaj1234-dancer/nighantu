@@ -1122,7 +1122,7 @@
       "https://nighantu.ageayurveda.com/shirodhara/at-home-or-clinic/": "9b6d6633898d13d9",
       "https://nighantu.ageayurveda.com/shirodhara/cautions/": "c28fb30bd5ddf731",
       "https://nighantu.ageayurveda.com/shirodhara/choosing-equipment/": "23949c711e400a2c",
-      "https://nighantu.ageayurveda.com/shirodhara/choosing-the-oil/": "c354ef2c26b279a9",
+      "https://nighantu.ageayurveda.com/shirodhara/choosing-the-oil/": "a289b57ad7287da8",
       "https://nighantu.ageayurveda.com/shirodhara/classical-basis/": "beebd2f2a2e873ad",
       "https://nighantu.ageayurveda.com/shirodhara/equipment-and-setup/": "2e7b442fa2742a1e",
       "https://nighantu.ageayurveda.com/shirodhara/faq/": "3f4949c22666e68b",
@@ -1144,8 +1144,8 @@
       "https://nighantu.ageayurveda.com/verification/safety-pass4/": "68917bdfe8c2b7b9",
       "https://nighantu.ageayurveda.com/verification/safety-repair-02/": "5cd743f11cd022d2"
     },
-    "lastSubmittedAt": "2026-09-18T13:37:19.424Z",
-    "lastSubmittedCount": 3
+    "lastSubmittedAt": "2026-09-18T15:08:08.702Z",
+    "lastSubmittedCount": 1
   },
   "products": {
     "broken": 0,
@@ -1377,6 +1377,6 @@
     "seen": 31,
     "surfaced": 1
   },
-  "updatedAt": "2026-09-18T13:55:33.554Z",
+  "updatedAt": "2026-09-18T15:08:08.703Z",
   "version": 1
 }
