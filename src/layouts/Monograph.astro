@@ -4,6 +4,8 @@ import KeyFacts from '../components/KeyFacts.astro';
 import ProductModule from '../components/ProductModule.astro';
 import References from '../components/References.astro';
 import Safety from '../components/Safety.astro';
+import ReviewCredit from '../components/ReviewCredit.astro';
+import { reviewer, reviewFor } from '../lib/review';
 import Composition from '../components/Composition.astro';
 import CiteThis from '../components/CiteThis.astro';
 import duplicates from '../data/duplicates.json';
@@ -56,6 +58,14 @@ const jsonld = {
     inDefinedTermSet: { '@type': 'DefinedTermSet', name: SITE_NAME, url: abs('/') },
   },
   author: { '@type': 'Organization', name: PUBLISHER, url: abs('/') },
+  ...(reviewFor(d.kind, d.slug) ? {
+    reviewedBy: {
+      '@type': 'Person',
+      name: reviewer.name,
+      honorificSuffix: reviewer.qualification,
+      url: abs('/reviewers/'),
+    },
+  } : {}),
   publisher: { '@id': `${abs('/')}#organization` },
   ...(d.sources?.length ? { citation: d.sources } : {}),
   license: 'https://creativecommons.org/licenses/by/4.0/',
@@ -110,6 +120,8 @@ const breadcrumbs = {
     <Safety kind={d.kind} slug={d.slug} />
 
     <References kind={d.kind} slug={d.slug} />
+
+    <ReviewCredit kind={d.kind} slug={d.slug} />
 
     <ProductModule slug={d.slug} />
     <CiteThis title={d.title} canonical={canonical} modified={modified} />

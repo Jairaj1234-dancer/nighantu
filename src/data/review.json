@@ -1,15 +1,28 @@
 {
-  "_note": "A named practitioner's review. Written by hand, deliberately: this is the one claim on the site that cannot be derived from a script, and it must never be extended to pages the reviewer did not read. The scope here is exactly what was reviewed, and the components render nothing on any other page.",
+  "_note": "Named-practitioner review, recorded batch by batch as it happens. Written by hand, deliberately: this is the one claim on the site no script can derive, and it must never extend to a page the reviewer has not read. Each entry's scope is exactly what was reviewed; the components render a credit only where a page matches one, and /reviewers/ states the remainder from the same data.",
   "reviewer": {
     "name": "Dr. Awadesh Pratap Singh",
     "qualification": "BAMS",
     "affiliation": "Shree Baidyanath Research Institute",
     "affiliationShort": "SBRI"
   },
-  "reviewedOn": "2026-09-18",
-  "outcome": "passed",
-  "scope": {
-    "kinds": ["practice", "guide"],
-    "description": "The Shirodhara guide and the practice section: 13 guide pages and 43 procedure pages."
-  }
+  "reviews": [
+    {
+      "id": "practice-and-guide",
+      "kinds": ["practice", "guide"],
+      "label": "The Shirodhara guide and the practice section",
+      "detail": "13 guide pages and 43 procedure pages: what each procedure is, who may perform it, its classical basis and its cautions.",
+      "reviewedOn": "2026-09-18",
+      "outcome": "passed"
+    },
+    {
+      "id": "herbs-a-e",
+      "kinds": ["herb"],
+      "slugRange": { "from": "a", "to": "e" },
+      "label": "Herb monographs, A to E",
+      "detail": "125 single-herb pages whose name begins A to E.",
+      "reviewedOn": "2026-09-18",
+      "outcome": "passed"
+    }
+  ]
 }
