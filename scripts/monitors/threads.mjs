@@ -2,7 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { get } from '../lib/fetch.mjs';
 import { walk, parseFrontmatter } from '../lib.mjs';
-import { FEED_QUERIES, FEED_SUBS, THREAD_TARGET, BASE } from './config.mjs';
+import { FEED_QUERIES, FEED_SUBS, THREAD_TARGET, BASE, SITE } from './config.mjs';
 
 export const id = 'threads';
 export const label = 'Answerable threads';
@@ -194,7 +194,7 @@ export async function run(state) {
       t.sub ? `_${t.sub}_` : '',
       '',
       `**Mentions:** ${t.hits.slice(0, 3).map((h) => `\`${h.term}\``).join(', ')}`,
-      `**Answer with:** [${t.page.title}](https://jairaj1234-dancer.github.io${t.page.url})`,
+      `**Answer with:** [${t.page.title}](${SITE}${t.page.url})`,
       '',
     ].filter(Boolean).join('\n'));
 
