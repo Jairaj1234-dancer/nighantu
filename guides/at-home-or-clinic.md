@@ -4,6 +4,7 @@ slug: "at-home-or-clinic"
 order: 7
 description: "An honest comparison, including the parts that are genuinely hard to do alone."
 answer: "A clinic gives you a trained operator, an assistant to keep the oil warm, and a room built for the mess. At home you get frequency and cost, but you take on three real problems: keeping the stream unbroken, keeping the oil at temperature, and handling half a litre of oil in a room that was not designed for it. Equipment solves the first, partly solves the second, and does not solve the third."
+products: "shirodhara"
 faq:
   - q: "Can you do Shirodhara at home?"
     a: "Yes, and many people do, but not by hand. Pouring from a jug cannot hold an unbroken stream for thirty minutes, and a broken stream defeats the purpose. A home setup needs a suspended vessel with a controlled orifice and a way to catch and return the oil. The genuinely hard parts are keeping the oil at temperature without an assistant, and managing the oil afterwards."

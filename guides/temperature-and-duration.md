@@ -4,6 +4,7 @@ slug: "temperature-and-duration"
 order: 4
 description: "The working numbers, why they differ by presentation, and how the oil is warmed."
 answer: "Shirodhara oil is warmed to slightly above body temperature and held there for the session. Working ranges are roughly 38 to 40 degrees Celsius for a Vata-predominant picture, 36 to 38 for Pitta, and 40 to 42 for Kapha. Sessions typically run 25 to 45 minutes. The stream is kept unbroken throughout."
+products: "shirodhara"
 faq:
   - q: "How hot should Shirodhara oil be?"
     a: "Comfortably warm rather than hot: roughly 38 to 40 degrees Celsius for a Vata-predominant picture, 36 to 38 for Pitta and 40 to 42 for Kapha. It should feel pleasantly warm on the inside of the wrist, never sharp. Oil that has cooled below body temperature during a session is reheated rather than tolerated."
