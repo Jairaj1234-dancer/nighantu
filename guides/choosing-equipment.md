@@ -69,11 +69,12 @@ tubing, and it is far harder to flush out. Check what a device is natively built
 clients. A machine with an internal circuit is more to clean than a pot and a basin, and this is
 recurring labour you will do hundreds of times.
 
-**Electrical compliance if you export or resell.** A device with a heater and a pump, sold for a
-therapy context, brings electrical safety and electromagnetic compatibility requirements with it,
-and in the EU raises the question of whether it is a medical device. A purely mechanical vessel
-carries none of that. If you plan to resell across borders, this is a real cost difference and
-not a detail.
+**Electrical compliance if you export or resell.** A device with a heater and a pump brings
+electrical safety and electromagnetic compatibility requirements with it, and a purely mechanical
+vessel does not. If you plan to resell across borders, that is a real cost difference and not a
+detail. It is not a difference in medical device status: what decides that is the purpose a
+manufacturer states, not whether the machine has a motor, which is set out at
+[is a Shirodhara machine a medical device](/shirodhara/medical-device-status/).
 
 **Claims.** Marketing in this category varies a great deal in how carefully it is worded. Some
 sellers advertise Shirodhara equipment against named conditions. Whether or not those claims are
