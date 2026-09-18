@@ -28,19 +28,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Amlavetasa/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Garcinol](/nighantu/glossary/compounds-d-g/#garcinol) (polyisoprenylated benzophenone)
+- [Garcinol](/glossary/compounds-d-g/#garcinol) (polyisoprenylated benzophenone)
 - Hydroxycitric acid (HCA)
-- [Xanthones](/nighantu/glossary/compounds-t-z/#xanthones) (mangostin derivatives)
+- [Xanthones](/glossary/compounds-t-z/#xanthones) (mangostin derivatives)
 - Garpedunchromones A-C (new chromones, 2024)
 - Nujiangbiflavone A (new biflavonoid)
-- [Anthraquinones](/nighantu/glossary/compounds-1-a/#anthraquinones) ([emodin](/nighantu/glossary/compounds-d-g/#emodin), [chrysophanol](/nighantu/glossary/compounds-c-d/#chrysophanol) - in Rheum emodi)
+- [Anthraquinones](/glossary/compounds-1-a/#anthraquinones) ([emodin](/glossary/compounds-d-g/#emodin), [chrysophanol](/glossary/compounds-c-d/#chrysophanol) - in Rheum emodi)
 
 ## How does it work?
 
 - Anti-inflammatory activity through garcinol-mediated inhibition of NF-kB, COX-2, and 5-LOX pathways
 - Anti-obesity effect via hydroxycitric acid (HCA)-mediated inhibition of ATP-citrate lyase, blocking de novo fatty acid synthesis
-- [Hepatoprotective](/nighantu/reference/hepatoprotective/) mechanism through [antioxidant](/nighantu/reference/antioxidant/) enzyme restoration and anti-inflammatory action of xanthones and chromones
-- [Laxative](/nighantu/reference/laxative/) effect (Rheum emodi) through anthraquinone-stimulated intestinal peristalsis
+- [Hepatoprotective](/reference/hepatoprotective/) mechanism through [antioxidant](/reference/antioxidant/) enzyme restoration and anti-inflammatory action of xanthones and chromones
+- [Laxative](/reference/laxative/) effect (Rheum emodi) through anthraquinone-stimulated intestinal peristalsis
 
 ## Which traditional uses are supported by research?
 
@@ -54,7 +54,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Amlavetasa/meta-analysis.md"
 - Fan X, Guo J, Feng D and others 2024. [Chromones and biflavonoids from Garcinia pedunculata and Garcinia nujiangensis and their anti-inflammatory activity](https://pubmed.ncbi.nlm.nih.gov/38810815/). *Phytochemistry*. PMID [38810815](https://pubmed.ncbi.nlm.nih.gov/38810815/) · [doi:10.1016/j.phytochem.2024.114166](https://doi.org/10.1016/j.phytochem.2024.114166)  
   Isolated four new compounds (garpedunchromones A-C and nujiangbiflavone A) along with 15 known analogs; demonstrated significant anti-inflammatory activity of isolated compounds.
 - Yang X, Dai L, Yan F and others 2024. [The phytochemistry and pharmacology of three Rheum species: A comprehensive review with future perspectives](https://pubmed.ncbi.nlm.nih.gov/38852474/). *Phytomedicine : international journal of phytotherapy and phytopharmacology*. PMID [38852474](https://pubmed.ncbi.nlm.nih.gov/38852474/) · [doi:10.1016/j.phymed.2024.155772](https://doi.org/10.1016/j.phymed.2024.155772)  
-  Comprehensive review on Rheum emodi documenting new compound isolation from both aerial parts and roots/rhizomes; highlighted anthraquinones and [stilbenes](/nighantu/glossary/compounds-q-t/#stilbenes) as key bioactive classes.
+  Comprehensive review on Rheum emodi documenting new compound isolation from both aerial parts and roots/rhizomes; highlighted anthraquinones and [stilbenes](/glossary/compounds-q-t/#stilbenes) as key bioactive classes.
 
 *1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
@@ -80,11 +80,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Amlavetasa/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Capsule, Tablet, Kashayam (decoction), Compound formulations ([Avipattikar](/nighantu/herb/avipattikar/) churna component)
+**Dosage Forms:** Churna (powder), Capsule, Tablet, Kashayam (decoction), Compound formulations ([Avipattikar](/herb/avipattikar/) churna component)
 
 **Standard Dosage:** 1-3g powder twice daily; 500mg extract capsule; as component in compound formulations per classical proportion
 
-**Bioavailability:** Good oral bioavailability. Garcinia pedunculata (or Rheum emodi in some traditions — identity debated). Hydroxycitric acid (HCA, if Garcinia) is water-soluble with good absorption (60-70% oral bioavailability). Anthraquinones (if Rheum) are absorbed and undergo extensive hepatic metabolism. Traditional use with [Saindhava lavana](/nighantu/herb/saindhava-lavana/) enhances absorption.
+**Bioavailability:** Good oral bioavailability. Garcinia pedunculata (or Rheum emodi in some traditions — identity debated). Hydroxycitric acid (HCA, if Garcinia) is water-soluble with good absorption (60-70% oral bioavailability). Anthraquinones (if Rheum) are absorbed and undergo extensive hepatic metabolism. Traditional use with [Saindhava lavana](/herb/saindhava-lavana/) enhances absorption.
 
 **Optimal Timing:** Before meals with warm water for hyperacidity; after meals for digestive support
 
@@ -94,7 +94,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Amlavetasa/meta-analysis.md"
 
 **Storage:** Cool, dry place below 25°C. Highly hygroscopic — use moisture-barrier packaging with desiccant. Protect from light.
 
-**Marker Compounds:** Hydroxycitric acid (Garcinia), Emodin (Rheum), Chrysophanol (Rheum), [Citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid), Malic acid, Tartaric acid
+**Marker Compounds:** Hydroxycitric acid (Garcinia), Emodin (Rheum), Chrysophanol (Rheum), [Citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid), Malic acid, Tartaric acid
 
 ### Extraction Methods
 
@@ -107,5 +107,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Amlavetasa/meta-analysis.md"
 
 - Part of Avipattikar Churna for acid dyspepsia
 - With Ela (cardamom) for digestive comfort
-- With [Draksha](/nighantu/herb/draksha/) (raisins) for mild laxative action
-- With Sunthi for [Amla](/nighantu/herb/amla/) Pitta (hyperacidity)
+- With [Draksha](/herb/draksha/) (raisins) for mild laxative action
+- With Sunthi for [Amla](/herb/amla/) Pitta (hyperacidity)

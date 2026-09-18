@@ -28,15 +28,15 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Surana/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Tannins](/nighantu/reference/tannins/)
-- [Flavonoids](/nighantu/reference/flavonoids/) (including [quercetin](/nighantu/reference/quercetinquercetin/), [kaempferol](/nighantu/reference/kaempferol/))
-- [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids)
-- [Steroids](/nighantu/glossary/compounds-q-t/#steroids) (beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [stigmasterol](/nighantu/reference/stigmasterol/))
+- [Tannins](/reference/tannins/)
+- [Flavonoids](/reference/flavonoids/) (including [quercetin](/reference/quercetinquercetin/), [kaempferol](/reference/kaempferol/))
+- [Alkaloids](/glossary/compounds-1-a/#alkaloids)
+- [Steroids](/glossary/compounds-q-t/#steroids) (beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [stigmasterol](/reference/stigmasterol/))
 - Phenolic compounds
-- [Saponins](/nighantu/reference/saponins/)
-- [Glucomannan](/nighantu/glossary/compounds-d-g/#glucomannan) (dietary fiber)
+- [Saponins](/reference/saponins/)
+- [Glucomannan](/glossary/compounds-d-g/#glucomannan) (dietary fiber)
 - Betulinic acid
-- [Lupeol](/nighantu/reference/lupeol/)
+- [Lupeol](/reference/lupeol/)
 - Oxalate crystals (reduced by processing)
 
 ## How does it work?
@@ -48,8 +48,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Surana/meta-analysis.md"
 ## Which traditional uses are supported by research?
 
 - Anti-hemorrhoidal efficacy validated through clinical trials showing significant symptom relief, confirming premier Ayurvedic indication as Arsha (piles) remedy
-- [Hepatoprotective](/nighantu/reference/hepatoprotective/) activity confirmed through experimental models, supporting traditional use in liver disorders
-- Anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) properties validated in preclinical studies, confirming traditional use in Shotha (inflammation) and pain conditions
+- [Hepatoprotective](/reference/hepatoprotective/) activity confirmed through experimental models, supporting traditional use in liver disorders
+- Anti-inflammatory and [analgesic](/reference/analgesic/) properties validated in preclinical studies, confirming traditional use in Shotha (inflammation) and pain conditions
 
 ## What do recent clinical trials show?
 
@@ -83,7 +83,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Surana/meta-analysis.md"
 
 **Standard Dosage:** 3-10 g tuber powder per day; 500-1000 mg extract capsule twice daily; 5-10 g avaleha with buttermilk; traditionally processed (Shodhita) form only
 
-**Bioavailability:** Glucomannan (40-60% of dry weight) is a soluble dietary fiber — not systemically absorbed but has significant local GI effects (prebiotic, lipid-lowering, satiety-promoting). [Diosgenin](/nighantu/glossary/compounds-d-g/#diosgenin) and other sapogenins show moderate oral bioavailability (25-35%). Calcium oxalate crystals (raphides) present in raw tuber cause severe irritation — Shodhana (processing with lime water/tamarind) is essential. Processed tuber shows improved digestibility.
+**Bioavailability:** Glucomannan (40-60% of dry weight) is a soluble dietary fiber — not systemically absorbed but has significant local GI effects (prebiotic, lipid-lowering, satiety-promoting). [Diosgenin](/glossary/compounds-d-g/#diosgenin) and other sapogenins show moderate oral bioavailability (25-35%). Calcium oxalate crystals (raphides) present in raw tuber cause severe irritation — Shodhana (processing with lime water/tamarind) is essential. Processed tuber shows improved digestibility.
 
 **Optimal Timing:** After meals with buttermilk for Arsha (hemorrhoid) treatment; with warm water for digestive conditions
 
@@ -104,7 +104,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Surana/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Haritaki](/nighantu/herb/haritaki/) (Suranaka Vati — classical formulation for hemorrhoids)
+- [Haritaki](/herb/haritaki/) (Suranaka Vati — classical formulation for hemorrhoids)
 - Chitraka (digestive fire enhancement in Arsha/hemorrhoid formulations)
-- [Pippali](/nighantu/herb/pippali/) (bioavailability enhancer and Deepana combination)
-- [Takra](/nighantu/herb/takra/)/buttermilk (traditional vehicle for Arsha treatment)
+- [Pippali](/herb/pippali/) (bioavailability enhancer and Deepana combination)
+- [Takra](/herb/takra/)/buttermilk (traditional vehicle for Arsha treatment)

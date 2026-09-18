@@ -29,22 +29,22 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Asthishrinkhala/meta-analysis
 ## Key Phytochemical Constituents
 
 - Ascorbic acid (vitamin C - high content)
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
-- 3-Ketosteroids (anabolic [steroids](/nighantu/glossary/compounds-q-t/#steroids))
-- [Quercetin](/nighantu/reference/quercetinquercetin/)
-- [Kaempferol](/nighantu/reference/kaempferol/)
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
+- 3-Ketosteroids (anabolic [steroids](/glossary/compounds-q-t/#steroids))
+- [Quercetin](/reference/quercetinquercetin/)
+- [Kaempferol](/reference/kaempferol/)
 - Quadrangularin-A (stilbene derivative)
-- [Resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol)
+- [Resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol)
 - Piceatannol
-- [Friedelin](/nighantu/glossary/compounds-d-g/#friedelin) (triterpenoid)
+- [Friedelin](/glossary/compounds-d-g/#friedelin) (triterpenoid)
 - Calcium (high content as calcium oxalate)
 - Alpha-amyrin and beta-amyrin
 
 ## How does it work?
 
 - Osteogenic mechanism through MAPK pathway-dependent upregulation of alkaline phosphatase in osteoblasts, enhanced collagen synthesis, and accelerated calcium deposition at fracture sites
-- Anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) action mediated by [quercetin](/nighantu/reference/quercetinquercetin/) and other [flavonoids](/nighantu/reference/flavonoids/) inhibiting COX-2 and pro-inflammatory cytokine cascades, reducing fracture-site inflammation
-- [Antioxidant](/nighantu/reference/antioxidant/) mechanism through [resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol), piceatannol, and quadrangularin-A scavenging of reactive oxygen species, protecting osteoblasts from oxidative damage
+- Anti-inflammatory and [analgesic](/reference/analgesic/) action mediated by [quercetin](/reference/quercetinquercetin/) and other [flavonoids](/reference/flavonoids/) inhibiting COX-2 and pro-inflammatory cytokine cascades, reducing fracture-site inflammation
+- [Antioxidant](/reference/antioxidant/) mechanism through [resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol), piceatannol, and quadrangularin-A scavenging of reactive oxygen species, protecting osteoblasts from oxidative damage
 
 ## Which traditional uses are supported by research?
 
@@ -66,11 +66,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Asthishrinkhala/meta-analysis
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (stem powder), Capsule, Tablet, Swarasa (fresh stem juice), Sandhi [Bala](/nighantu/herb/bala/) Taila (medicated oil — external), Lepa (bone-setting paste), Ghana Vati
+**Dosage Forms:** Churna (stem powder), Capsule, Tablet, Swarasa (fresh stem juice), Sandhi [Bala](/herb/bala/) Taila (medicated oil — external), Lepa (bone-setting paste), Ghana Vati
 
 **Standard Dosage:** 3-6g stem powder twice daily; 500mg-1g extract capsule twice daily; 10-20ml fresh stem juice; external paste/oil as needed
 
-**Bioavailability:** Good oral bioavailability for ketosteroids (particularly anabolic steroids like ketosterone). 3,3'-di-O-methylquercetin is a potent bioavailable flavonoid. [Resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol) and related [stilbenes](/nighantu/glossary/compounds-q-t/#stilbenes) show moderate absorption (~20%). Calcium content in stems is bioavailable. Fresh stem juice has better bioavailability profile than dried preparations. Traditionally administered with milk (calcium + stem bioactives for synergistic bone healing).
+**Bioavailability:** Good oral bioavailability for ketosteroids (particularly anabolic steroids like ketosterone). 3,3'-di-O-methylquercetin is a potent bioavailable flavonoid. [Resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol) and related [stilbenes](/glossary/compounds-q-t/#stilbenes) show moderate absorption (~20%). Calcium content in stems is bioavailable. Fresh stem juice has better bioavailability profile than dried preparations. Traditionally administered with milk (calcium + stem bioactives for synergistic bone healing).
 
 **Optimal Timing:** With warm milk twice daily for fracture healing (continue for 6-8 weeks). Before meals for osteoporosis prevention. External paste application at fracture site.
 
@@ -80,7 +80,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Asthishrinkhala/meta-analysis
 
 **Storage:** Fresh stems refrigerated, process within 48 hours. Dried powder in airtight containers below 25°C. Capsules with desiccant.
 
-**Marker Compounds:** Ketosterone, 3,3'-di-O-methylquercetin, [Resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol), Piceatannol, Pallidol, Quadrangularin A-C, Beta-sitosterol, Calcium oxalate, Ascorbic acid, Beta-carotene
+**Marker Compounds:** Ketosterone, 3,3'-di-O-methylquercetin, [Resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol), Piceatannol, Pallidol, Quadrangularin A-C, Beta-sitosterol, Calcium oxalate, Ascorbic acid, Beta-carotene
 
 ### Extraction Methods
 
@@ -88,12 +88,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Asthishrinkhala/meta-analysis
 - Hydroalcoholic extraction (70:30) for phytosteroid enrichment
 - Petroleum ether extraction for ketosteroid fraction
 - Aqueous decoction for mineral-rich extract
-- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) infusion for Taila preparation
+- [Sesame oil](/glossary/concepts-m-y/#tila-taila) infusion for Taila preparation
 
 ### Synergistic Combinations
 
-- With [Laksha](/nighantu/glossary/concepts-a-m/#laksha) (lac) for fracture healing (classical [Laksha](/nighantu/glossary/concepts-a-m/#laksha) + Asthishrinkhala combination)
-- With [Ashwagandha](/nighantu/herb/ashwagandha/) for bone density and strength
-- With [Arjuna](/nighantu/herb/arjuna/) for calcium metabolism
-- With [Guduchi](/nighantu/herb/guduchi/) for anti-inflammatory support in fractures
-- With [Shatavari](/nighantu/herb/shatavari/) and milk for comprehensive bone nourishment
+- With [Laksha](/glossary/concepts-a-m/#laksha) (lac) for fracture healing (classical [Laksha](/glossary/concepts-a-m/#laksha) + Asthishrinkhala combination)
+- With [Ashwagandha](/herb/ashwagandha/) for bone density and strength
+- With [Arjuna](/herb/arjuna/) for calcium metabolism
+- With [Guduchi](/herb/guduchi/) for anti-inflammatory support in fractures
+- With [Shatavari](/herb/shatavari/) and milk for comprehensive bone nourishment

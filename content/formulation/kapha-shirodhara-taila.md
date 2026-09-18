@@ -30,14 +30,14 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kapha-Shiro
 
 ## Key Ingredients
 
-- [Punarnava](/nighantu/herb/punarnava/) (*Boerhavia diffusa*) — shothahara, Kapha-shamaka
-- [Chitrak](/nighantu/herb/chitrak/) (*Plumbago zeylanica*) — ushna virya, deepana-pachana, lekhana
-- [Neem](/nighantu/herb/neem/) (*Azadirachta indica*) — tikta-kashaya, Kapha-Pitta shamaka, keshya
-- [Manjistha](/nighantu/herb/manjistha/) (*Rubia cordifolia*) — rakta-prasadana, varnya
+- [Punarnava](/herb/punarnava/) (*Boerhavia diffusa*) — shothahara, Kapha-shamaka
+- [Chitrak](/herb/chitrak/) (*Plumbago zeylanica*) — ushna virya, deepana-pachana, lekhana
+- [Neem](/herb/neem/) (*Azadirachta indica*) — tikta-kashaya, Kapha-Pitta shamaka, keshya
+- [Manjistha](/herb/manjistha/) (*Rubia cordifolia*) — rakta-prasadana, varnya
 - Bhumi Amalaki (*Phyllanthus niruri*) — tikta-kashaya, Kapha-Pitta shamaka
-- [Vacha](/nighantu/herb/vacha/) (*Acorus calamus*) — medhya, teekshna, pronounced Kapha-shamaka
-- [Tulsi](/nighantu/herb/tulsi/) (*Ocimum tenuiflorum*) — ushna virya aromatic, Kapha-Vata shamaka
-- [Tila Taila](/nighantu/glossary/concepts-m-y/#tila-taila) (*Sesamum indicum* — sesame oil) — classical Snehakarma base
+- [Vacha](/herb/vacha/) (*Acorus calamus*) — medhya, teekshna, pronounced Kapha-shamaka
+- [Tulsi](/herb/tulsi/) (*Ocimum tenuiflorum*) — ushna virya aromatic, Kapha-Vata shamaka
+- [Tila Taila](/glossary/concepts-m-y/#tila-taila) (*Sesamum indicum* — sesame oil) — classical Snehakarma base
 - Nilgiri (*Eucalyptus globulus* — eucalyptus oil) — ushna-virya, 1,8-cineole-rich aromatic
 - Lavender Oil (*Lavandula angustifolia*) — aromatic fraction for the shiro-dhara experience
 

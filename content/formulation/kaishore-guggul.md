@@ -32,16 +32,16 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 ## How does it work?
 
 - Uric acid reduction: Guggulsterones promote renal excretion of uric acid by modulating renal tubular transporters (URAT1, GLUT9), reducing hyperuricemia
-- Anti-inflammatory cascade: [Guduchi](/nighantu/herb/guduchi/) (Tinospora cordifolia) contains [berberine](/nighantu/glossary/compounds-a-c/#berberine) and [tinosporaside](/nighantu/glossary/compounds-t-z/#tinosporaside) that inhibit NF-kB signaling and suppress TNF-alpha, IL-1beta, and IL-6 production
-- [Antioxidant](/nighantu/reference/antioxidant/) defense: [Triphala](/nighantu/herb/triphala/) and [Guduchi](/nighantu/herb/guduchi/) [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) scavenge reactive oxygen species, protecting joint cartilage from oxidative degradation
-- Blood purification (Rakta Shodhana): Combined action of [Guduchi](/nighantu/herb/guduchi/) and [Triphala](/nighantu/herb/triphala/) detoxify blood by enhancing hepatic conjugation pathways and promoting elimination of metabolic waste
-- Bioavailability enhancement: [Trikatu](/nighantu/herb/trikatu/) (especially [piperine](/nighantu/reference/piperine/) from Maricha and [Pippali](/nighantu/herb/pippali/)) enhances intestinal absorption and inhibits P-glycoprotein efflux, increasing systemic availability of active compounds
+- Anti-inflammatory cascade: [Guduchi](/herb/guduchi/) (Tinospora cordifolia) contains [berberine](/glossary/compounds-a-c/#berberine) and [tinosporaside](/glossary/compounds-t-z/#tinosporaside) that inhibit NF-kB signaling and suppress TNF-alpha, IL-1beta, and IL-6 production
+- [Antioxidant](/reference/antioxidant/) defense: [Triphala](/herb/triphala/) and [Guduchi](/herb/guduchi/) [polyphenols](/glossary/compounds-o-q/#polyphenols) scavenge reactive oxygen species, protecting joint cartilage from oxidative degradation
+- Blood purification (Rakta Shodhana): Combined action of [Guduchi](/herb/guduchi/) and [Triphala](/herb/triphala/) detoxify blood by enhancing hepatic conjugation pathways and promoting elimination of metabolic waste
+- Bioavailability enhancement: [Trikatu](/herb/trikatu/) (especially [piperine](/reference/piperine/) from Maricha and [Pippali](/herb/pippali/)) enhances intestinal absorption and inhibits P-glycoprotein efflux, increasing systemic availability of active compounds
 
 ## Which traditional uses are supported by research?
 
 - Gout (Vatarakta) management validated through clinical case series showing significant reduction in uric acid levels and joint inflammation
 - Blood purification and skin disease management supported by antioxidant and anti-inflammatory activity confirmed in pharmacological studies
-- Anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) activity validated through inhibition of carrageenan-induced paw edema in animal models
+- Anti-inflammatory and [analgesic](/reference/analgesic/) activity validated through inhibition of carrageenan-induced paw edema in animal models
 - Detoxification (Ama Pachana) supported by enhanced hepatic function and metabolic waste elimination in clinical observations
 
 ## What do recent clinical trials show?
@@ -66,11 +66,11 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** [Guggulu](/nighantu/formulation/guggulu/) (resinous pill/tablet), Modern compressed tablet, Capsule (modern)
+**Dosage Forms:** [Guggulu](/formulation/guggulu/) (resinous pill/tablet), Modern compressed tablet, Capsule (modern)
 
 **Standard Dosage:** 250-500 mg twice or thrice daily with warm water, as per AFI Part I
 
-**Bioavailability:** [Guggulu](/nighantu/formulation/guggulu/) resin acts as yogavahi — enhances delivery of anti-inflammatory compounds to joints and blood. Piperine from [Trikatu](/nighantu/herb/trikatu/) significantly enhances absorption of [berberine](/nighantu/glossary/compounds-a-c/#berberine) and guggulsterones. Multi-herb synergy provides broad anti-inflammatory action with high tissue bioavailability.
+**Bioavailability:** [Guggulu](/formulation/guggulu/) resin acts as yogavahi — enhances delivery of anti-inflammatory compounds to joints and blood. Piperine from [Trikatu](/herb/trikatu/) significantly enhances absorption of [berberine](/glossary/compounds-a-c/#berberine) and guggulsterones. Multi-herb synergy provides broad anti-inflammatory action with high tissue bioavailability.
 
 **Optimal Timing:** After meals, twice or thrice daily, for Vatarakta (gout), Kushtha (skin diseases), and inflammatory conditions
 
@@ -78,15 +78,15 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 
 **Storage:** Store in airtight containers in a cool, dry place. Temperature not exceeding 30°C.
 
-**Marker Compounds:** Z-Guggulsterone, E-Guggulsterone, [Berberine](/nighantu/glossary/compounds-a-c/#berberine) (from [Guduchi](/nighantu/herb/guduchi/)), Piperine, Gallic acid, [Embelin](/nighantu/glossary/compounds-d-g/#embelin) (from [Vidanga](/nighantu/herb/vidanga/))
+**Marker Compounds:** Z-Guggulsterone, E-Guggulsterone, [Berberine](/glossary/compounds-a-c/#berberine) (from [Guduchi](/herb/guduchi/)), Piperine, Gallic acid, [Embelin](/glossary/compounds-d-g/#embelin) (from [Vidanga](/herb/vidanga/))
 
-**Quality Parameters:** Weight variation (±5%), hardness, friability (<1%), disintegration time (<45 min), moisture (<6%), Z/E-guggulsterone content by HPLC, berberine from [Guduchi](/nighantu/herb/guduchi/), piperine, gallic acid, HPTLC fingerprint, microbial limits, heavy metals
+**Quality Parameters:** Weight variation (±5%), hardness, friability (<1%), disintegration time (<45 min), moisture (<6%), Z/E-guggulsterone content by HPLC, berberine from [Guduchi](/herb/guduchi/), piperine, gallic acid, HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Warm water or Guduchi kwath
 
 ### Synergistic Combinations
 
-- [Guggulutiktakam Ghritam](/nighantu/formulation/guggulutiktakam-ghritam/)
+- [Guggulutiktakam Ghritam](/formulation/guggulutiktakam-ghritam/)
 - Mahamanjisthadi Kwath
-- [Gandhaka](/nighantu/glossary/concepts-a-m/#gandhaka) [Rasayana](/nighantu/reference/rasayana/)
-- [Arogyavardhini Vati](/nighantu/formulation/arogyavardhini-vati/)
+- [Gandhaka](/glossary/concepts-a-m/#gandhaka) [Rasayana](/reference/rasayana/)
+- [Arogyavardhini Vati](/formulation/arogyavardhini-vati/)

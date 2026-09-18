@@ -31,10 +31,10 @@ Bhaishajya Ratnavali (Stree Rogadhikara / Female disorders chapter). Also descri
 
 ## How does it work?
 
-- Uterine smooth muscle regulation: Saraca asoca bark phenolics produce rhythmic uterine contractions, controlling excessive bleeding through [hemostatic](/nighantu/glossary/pharmacology/#hemostatic) action.
-- Estrogenic modulation: Phytoestrogens from [Ashoka](/nighantu/herb/ashoka/) bark modulate estrogen receptor activity, balancing hormonal fluctuations in menopause and menorrhagia.
-- Astringent hemostasis: Kashaya (astringent) rasa of [Ashoka](/nighantu/herb/ashoka/) bark constricts blood vessels and reduces capillary permeability in uterine tissue.
-- Fermentation-enhanced bioavailability: [Dhataki](/nighantu/herb/dhataki/)-mediated fermentation and self-generated alcohol (3-9%) improve extraction and absorption of [catechin](/nighantu/reference/catechin/), [epicatechin](/nighantu/glossary/compounds-d-g/#epicatechin), and other [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols).
+- Uterine smooth muscle regulation: Saraca asoca bark phenolics produce rhythmic uterine contractions, controlling excessive bleeding through [hemostatic](/glossary/pharmacology/#hemostatic) action.
+- Estrogenic modulation: Phytoestrogens from [Ashoka](/herb/ashoka/) bark modulate estrogen receptor activity, balancing hormonal fluctuations in menopause and menorrhagia.
+- Astringent hemostasis: Kashaya (astringent) rasa of [Ashoka](/herb/ashoka/) bark constricts blood vessels and reduces capillary permeability in uterine tissue.
+- Fermentation-enhanced bioavailability: [Dhataki](/herb/dhataki/)-mediated fermentation and self-generated alcohol (3-9%) improve extraction and absorption of [catechin](/reference/catechin/), [epicatechin](/glossary/compounds-d-g/#epicatechin), and other [polyphenols](/glossary/compounds-o-q/#polyphenols).
 - Anti-inflammatory action: Reduces endometrial inflammation through cytokine modulation, addressing underlying causes of heavy menstrual bleeding.
 
 ## Which traditional uses are supported by research?
@@ -74,7 +74,7 @@ Bhaishajya Ratnavali (Stree Rogadhikara / Female disorders chapter). Also descri
 
 **Standard Dosage:** 15-30 mL twice daily after meals with equal water, as per AFI Part I
 
-**Bioavailability:** Alcohol from fermentation enhances solubility and absorption of [catechins](/nighantu/glossary/compounds-c-d/#catechins) and [tannins](/nighantu/reference/tannins/) from [Ashoka](/nighantu/herb/ashoka/). Fermentation generates oestrogenic isoflavone metabolites with improved bioavailability compared to simple decoction.
+**Bioavailability:** Alcohol from fermentation enhances solubility and absorption of [catechins](/glossary/compounds-c-d/#catechins) and [tannins](/reference/tannins/) from [Ashoka](/herb/ashoka/). Fermentation generates oestrogenic isoflavone metabolites with improved bioavailability compared to simple decoction.
 
 **Optimal Timing:** After meals, twice daily, preferably after lunch and dinner
 
@@ -82,7 +82,7 @@ Bhaishajya Ratnavali (Stree Rogadhikara / Female disorders chapter). Also descri
 
 **Storage:** Store in well-closed amber glass or HDPE containers in a cool, dry place. Protect from sunlight. Temperature not exceeding 30°C.
 
-**Marker Compounds:** Catechin, Epicatechin, Gallic acid, Ellagic acid, Procyanidin B2, [Berberine](/nighantu/glossary/compounds-a-c/#berberine) (from [Daruharidra](/nighantu/herb/daruharidra/))
+**Marker Compounds:** Catechin, Epicatechin, Gallic acid, Ellagic acid, Procyanidin B2, [Berberine](/glossary/compounds-a-c/#berberine) (from [Daruharidra](/herb/daruharidra/))
 
 **Quality Parameters:** pH (3.0-4.5), specific gravity (1.02-1.06), self-generated alcohol (5-12%), total solids, total sugar, total acidity, catechin content by HPLC, microbial limits, heavy metals, absence of methanol, organoleptic evaluation
 
@@ -90,8 +90,8 @@ Bhaishajya Ratnavali (Stree Rogadhikara / Female disorders chapter). Also descri
 
 ### Synergistic Combinations
 
-- [Pushyanuga Churna](/nighantu/formulation/pushyanuga-churna/)
-- [Chandraprabha](/nighantu/herb/chandraprabha/) Vati
-- [Lodhra](/nighantu/herb/lodhra/) Churna
-- [Shatavari](/nighantu/herb/shatavari/) Churna
-- Ashoka [Ghrita](/nighantu/herb/ghrita/)|[Ashoka](/nighantu/herb/ashoka/) Ghrita
+- [Pushyanuga Churna](/formulation/pushyanuga-churna/)
+- [Chandraprabha](/herb/chandraprabha/) Vati
+- [Lodhra](/herb/lodhra/) Churna
+- [Shatavari](/herb/shatavari/) Churna
+- Ashoka [Ghrita](/herb/ghrita/)|[Ashoka](/herb/ashoka/) Ghrita

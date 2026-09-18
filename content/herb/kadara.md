@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kadara/meta-analysis.md"
 
 **Standard Dosage:** 3-6g heartwood powder twice daily; 50-100ml decoction; 15-30ml Asava
 
-**Bioavailability:** Acacia catechu ([Khadira](/nighantu/herb/khadira/)/Kadara) heartwood contains [catechins](/nighantu/glossary/compounds-c-d/#catechins) ([catechin](/nighantu/reference/catechin/), [epicatechin](/nighantu/glossary/compounds-d-g/#epicatechin)) and [tannins](/nighantu/reference/tannins/) (catechu-tannic acid). Catechin has moderate oral bioavailability (~20-30%) with Tmax of ~2 hours. Epicatechin shows better bioavailability (~30-40%). Condensed tannins have poor absorption but act locally in GI and oral mucosa. Khadirarishta (fermented preparation) may enhance polyphenol extraction and absorption via self-generated alcohol.
+**Bioavailability:** Acacia catechu ([Khadira](/herb/khadira/)/Kadara) heartwood contains [catechins](/glossary/compounds-c-d/#catechins) ([catechin](/reference/catechin/), [epicatechin](/glossary/compounds-d-g/#epicatechin)) and [tannins](/reference/tannins/) (catechu-tannic acid). Catechin has moderate oral bioavailability (~20-30%) with Tmax of ~2 hours. Epicatechin shows better bioavailability (~30-40%). Condensed tannins have poor absorption but act locally in GI and oral mucosa. Khadirarishta (fermented preparation) may enhance polyphenol extraction and absorption via self-generated alcohol.
 
 **Optimal Timing:** After meals for skin conditions; as mouth rinse for oral health; Khadirarishta after meals with equal water
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kadara/meta-analysis.md"
 
 **Storage:** Cool, dry place below 25°C. Katha in airtight containers (hygroscopic). Arishta in glass bottles away from light.
 
-**Marker Compounds:** Catechin, Epicatechin, Catechu-tannic acid, [Quercetin](/nighantu/reference/quercetinquercetin/), [Kaempferol](/nighantu/reference/kaempferol/), [Fisetin](/nighantu/glossary/compounds-d-g/#fisetinfisetin)
+**Marker Compounds:** Catechin, Epicatechin, Catechu-tannic acid, [Quercetin](/reference/quercetinquercetin/), [Kaempferol](/reference/kaempferol/), [Fisetin](/glossary/compounds-d-g/#fisetinfisetin)
 
 ### Extraction Methods
 
@@ -71,7 +71,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kadara/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Daruharidra](/nighantu/herb/daruharidra/) for skin disorders
-- With [Nimba](/nighantu/herb/nimba/) ([neem](/nighantu/herb/neem/)) for blood purification
-- With [Manjishtha](/nighantu/herb/manjishtha/) for skin health
-- With [Vidanga](/nighantu/herb/vidanga/) for parasitic infections
+- With [Daruharidra](/herb/daruharidra/) for skin disorders
+- With [Nimba](/herb/nimba/) ([neem](/herb/neem/)) for blood purification
+- With [Manjishtha](/herb/manjishtha/) for skin health
+- With [Vidanga](/herb/vidanga/) for parasitic infections

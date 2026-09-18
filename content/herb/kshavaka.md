@@ -29,21 +29,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kshavaka/meta-analysis.md"
 ## Key Phytochemical Constituents
 
 - Amaranthine (betacyanin pigment)
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
-- [Stigmasterol](/nighantu/reference/stigmasterol/)
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
+- [Stigmasterol](/reference/stigmasterol/)
 - Linoleic acid
-- [Rutin](/nighantu/glossary/compounds-q-t/#rutin)
-- [Quercetin](/nighantu/reference/quercetinquercetin/)
-- [Kaempferol](/nighantu/reference/kaempferol/) [glycosides](/nighantu/glossary/compounds-g-l/#glycosides)
+- [Rutin](/glossary/compounds-q-t/#rutin)
+- [Quercetin](/reference/quercetinquercetin/)
+- [Kaempferol](/reference/kaempferol/) [glycosides](/glossary/compounds-g-l/#glycosides)
 - Betalains
 - Hydroxycinnamates
-- [Saponins](/nighantu/reference/saponins/)
+- [Saponins](/reference/saponins/)
 
 ## How does it work?
 
-- Amaranthine and betalain pigments exert [antioxidant](/nighantu/reference/antioxidant/) effects through electron donation and metal chelation, protecting cellular membranes from lipid peroxidation-induced damage
-- Rutin and [quercetin](/nighantu/reference/quercetinquercetin/) glycosides inhibit COX-2, LOX, and phospholipase A2, reducing prostaglandin and leukotriene synthesis for anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) effects
-- Saponins exhibit [diuretic](/nighantu/reference/diuretic/) activity through inhibition of renal tubular sodium reabsorption, increasing urine output and supporting traditional use for urinary disorders
+- Amaranthine and betalain pigments exert [antioxidant](/reference/antioxidant/) effects through electron donation and metal chelation, protecting cellular membranes from lipid peroxidation-induced damage
+- Rutin and [quercetin](/reference/quercetinquercetin/) glycosides inhibit COX-2, LOX, and phospholipase A2, reducing prostaglandin and leukotriene synthesis for anti-inflammatory and [analgesic](/reference/analgesic/) effects
+- Saponins exhibit [diuretic](/reference/diuretic/) activity through inhibition of renal tubular sodium reabsorption, increasing urine output and supporting traditional use for urinary disorders
 
 ## Which traditional uses are supported by research?
 
@@ -53,7 +53,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kshavaka/meta-analysis.md"
 ## What do recent clinical trials show?
 
 - Zeashan H, Amresh G, Singh S and others 2009. [Hepatoprotective and antioxidant activity of Amaranthus spinosus against CCl4 induced toxicity](https://pubmed.ncbi.nlm.nih.gov/19465104/). *Journal of ethnopharmacology*. PMID [19465104](https://pubmed.ncbi.nlm.nih.gov/19465104/) · [doi:10.1016/j.jep.2009.05.010](https://doi.org/10.1016/j.jep.2009.05.010)  
-  Ethanolic extract showed hepatoprotective activity by normalizing liver [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) and reducing oxidative stress markers in CCl4-induced hepatotoxicity model.
+  Ethanolic extract showed hepatoprotective activity by normalizing liver [enzymes](/glossary/compounds-d-g/#enzymes) and reducing oxidative stress markers in CCl4-induced hepatotoxicity model.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
@@ -84,7 +84,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kshavaka/meta-analysis.md"
 
 **Standard Dosage:** Nasya: pinch of fine powder (125-250 mg) per nostril; 2-3 g powder orally twice daily; 30-50 mL decoction
 
-**Bioavailability:** Nasal administration provides direct absorption through nasal mucosa bypassing first-pass metabolism — rapid onset of action within 5-15 minutes. Oral bioavailability of [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) is moderate. Sneeze-inducing (errhine/sternutatory) compounds are active at very low nasal doses. Absorption enhanced by Nasya oil pre-treatment ([Anu Taila](/nighantu/formulation/anu-taila/) lubrication of nasal passages).
+**Bioavailability:** Nasal administration provides direct absorption through nasal mucosa bypassing first-pass metabolism — rapid onset of action within 5-15 minutes. Oral bioavailability of [alkaloids](/glossary/compounds-1-a/#alkaloids) is moderate. Sneeze-inducing (errhine/sternutatory) compounds are active at very low nasal doses. Absorption enhanced by Nasya oil pre-treatment ([Anu Taila](/formulation/anu-taila/) lubrication of nasal passages).
 
 **Optimal Timing:** Nasya: morning on empty stomach after oil massage of face (classical Poorvakarma); oral preparations: after meals
 
@@ -94,7 +94,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kshavaka/meta-analysis.md"
 
 **Storage:** Nasya powder in small, tightly sealed glass vials with desiccant. Oral preparations in airtight containers at 15-30°C. Protect from moisture — hygroscopic fine powders degrade rapidly.
 
-**Marker Compounds:** Alkaloids (specific profile varies by species identification), Essential oil constituents, Saponins, [Tannins](/nighantu/reference/tannins/)
+**Marker Compounds:** Alkaloids (specific profile varies by species identification), Essential oil constituents, Saponins, [Tannins](/reference/tannins/)
 
 ### Extraction Methods
 
@@ -105,7 +105,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kshavaka/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- Maricha ([Black pepper](/nighantu/herb/black-pepper/)) for Shirovirechana (nasal cleansing)
-- [Vacha](/nighantu/herb/vacha/) (Acorus calamus) for nasal and cognitive formulations
-- [Vidanga](/nighantu/herb/vidanga/) for parasitic and congestive conditions
-- [Apamarga](/nighantu/herb/apamarga/) for Nasya combinations in sinusitis
+- Maricha ([Black pepper](/herb/black-pepper/)) for Shirovirechana (nasal cleansing)
+- [Vacha](/herb/vacha/) (Acorus calamus) for nasal and cognitive formulations
+- [Vidanga](/herb/vidanga/) for parasitic and congestive conditions
+- [Apamarga](/herb/apamarga/) for Nasya combinations in sinusitis

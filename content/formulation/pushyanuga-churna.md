@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Pushyanuga-Churna
 
 | Language | Name |
 |----------|------|
-| English | [Pushyanuga Churna](/nighantu/formulation/pushyanuga-churna/) |
+| English | [Pushyanuga Churna](/formulation/pushyanuga-churna/) |
 
 ## Where is it described in the classical texts?
 
@@ -31,17 +31,17 @@ Charaka Samhita (Chikitsa Sthana, Chapter 30 - Yonivyapad Chikitsa); one of the 
 
 ## How does it work?
 
-- [Hemostatic](/nighantu/glossary/pharmacology/#hemostatic) (Raktastambhaka) action: Kashaya Rasa (astringent taste) and Sheeta Veerya (cool potency) of majority ingredients constrict uterine blood vessels and strengthen endometrial tissue, reducing excessive menstrual bleeding
-- Hormonal regulation: [Lodhra](/nighantu/herb/lodhra/) (Symplocos racemosa) triggers hypothalamic FSH and LH release, stimulating progesterone production that stabilizes the endometrium and controls dysfunctional uterine bleeding
-- [Antimicrobial](/nighantu/reference/antimicrobial/) genitourinary defense: Rasanjana ([berberine](/nighantu/glossary/compounds-a-c/#berberine)), [Lodhra](/nighantu/herb/lodhra/), and multiple astringent herbs provide broad-spectrum antibacterial and antifungal activity in the female reproductive tract
-- Anti-inflammatory and wound healing: Manjishta (Rubia cordifolia) and [Arjuna](/nighantu/herb/arjuna/) bark provide anti-inflammatory and tissue-healing action in the endometrium and reproductive tract
+- [Hemostatic](/glossary/pharmacology/#hemostatic) (Raktastambhaka) action: Kashaya Rasa (astringent taste) and Sheeta Veerya (cool potency) of majority ingredients constrict uterine blood vessels and strengthen endometrial tissue, reducing excessive menstrual bleeding
+- Hormonal regulation: [Lodhra](/herb/lodhra/) (Symplocos racemosa) triggers hypothalamic FSH and LH release, stimulating progesterone production that stabilizes the endometrium and controls dysfunctional uterine bleeding
+- [Antimicrobial](/reference/antimicrobial/) genitourinary defense: Rasanjana ([berberine](/glossary/compounds-a-c/#berberine)), [Lodhra](/herb/lodhra/), and multiple astringent herbs provide broad-spectrum antibacterial and antifungal activity in the female reproductive tract
+- Anti-inflammatory and wound healing: Manjishta (Rubia cordifolia) and [Arjuna](/herb/arjuna/) bark provide anti-inflammatory and tissue-healing action in the endometrium and reproductive tract
 - Pitta-Vata pacification: Cool potency and astringent/bitter tastes pacify Pitta (bleeding tendency) and Vata (pain, irregularity) in the reproductive system
 
 ## Which traditional uses are supported by research?
 
 - Menorrhagia (Raktapradara/DUB) management validated in clinical study showing highly significant (P<0.001) reduction in uterine hemorrhage with 68% good-to-fair response rate
 - Leucorrhoea (Shweta Pradara) management validated through demonstrated antimicrobial and astringent mechanisms in the female genitourinary tract
-- Hormonal balance for menstrual disorders validated through demonstrated FSH/LH/progesterone regulation by [Lodhra](/nighantu/herb/lodhra/) extract
+- Hormonal balance for menstrual disorders validated through demonstrated FSH/LH/progesterone regulation by [Lodhra](/herb/lodhra/) extract
 - Reproductive tract infection management validated through broad-spectrum antimicrobial activity against gynecological pathogens
 
 ## What do recent clinical trials show?
@@ -78,7 +78,7 @@ Charaka Samhita (Chikitsa Sthana, Chapter 30 - Yonivyapad Chikitsa); one of the 
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
-**Marker Compounds:** [Loturine](/nighantu/glossary/compounds-l-o/#loturine), [Cyperene](/nighantu/glossary/compounds-c-d/#cyperene), Atisin
+**Marker Compounds:** [Loturine](/glossary/compounds-l-o/#loturine), [Cyperene](/glossary/compounds-c-d/#cyperene), Atisin
 
 **Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Loturine, Cyperene, Atisin
 

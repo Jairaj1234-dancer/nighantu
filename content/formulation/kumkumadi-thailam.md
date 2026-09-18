@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kumkumadi-T
 
 | Language | Name |
 |----------|------|
-| English | [Kumkumadi Thailam](/nighantu/formulation/kumkumadi-thailam/) |
+| English | [Kumkumadi Thailam](/formulation/kumkumadi-thailam/) |
 
 ## Where is it described in the classical texts?
 
@@ -31,10 +31,10 @@ Bhaishajya Ratnavali (Kshudra Roga Chikitsa chapter); also documented in Ashtang
 
 ## How does it work?
 
-- [Crocin](/nighantu/glossary/compounds-c-d/#crocin) and [crocetin](/nighantu/glossary/compounds-c-d/#crocetin) from [Saffron](/nighantu/herb/saffron/) inhibit tyrosinase enzyme activity, reducing melanin synthesis and providing skin-brightening effect
-- [Anthraquinones](/nighantu/glossary/compounds-1-a/#anthraquinones) from [Manjistha](/nighantu/herb/manjistha/) ([purpurin](/nighantu/glossary/compounds-o-q/#purpurin), munjistin) provide blood-purifying and anti-inflammatory action, reducing post-inflammatory hyperpigmentation
+- [Crocin](/glossary/compounds-c-d/#crocin) and [crocetin](/glossary/compounds-c-d/#crocetin) from [Saffron](/herb/saffron/) inhibit tyrosinase enzyme activity, reducing melanin synthesis and providing skin-brightening effect
+- [Anthraquinones](/glossary/compounds-1-a/#anthraquinones) from [Manjistha](/herb/manjistha/) ([purpurin](/glossary/compounds-o-q/#purpurin), munjistin) provide blood-purifying and anti-inflammatory action, reducing post-inflammatory hyperpigmentation
 - Sandalwood's santalol compounds reduce transepidermal water loss (TEWL) and provide anti-inflammatory barrier repair through modulation of inflammatory cytokines
-- [Glycyrrhizin](/nighantu/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) from Licorice inhibits melanogenesis via downregulation of MITF (microphthalmia-associated transcription factor) and acts as a skin-soothing agent
+- [Glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) from Licorice inhibits melanogenesis via downregulation of MITF (microphthalmia-associated transcription factor) and acts as a skin-soothing agent
 
 ## Which traditional uses are supported by research?
 
@@ -50,8 +50,8 @@ Bhaishajya Ratnavali (Kshudra Roga Chikitsa chapter); also documented in Ashtang
 
 ## Recent safety updates
 
-- Minor side effects include redness, mild itching, or oiliness if over-applied. Individuals with sensitive skin or allergies to [saffron](/nighantu/herb/saffron/) or sandalwood may experience mild irritation or rash. Patch test strongly recommended before regular use.
-- Contraindicated in active skin tuberculosis, eczema with oozing, or fungal infections. Should not be combined with topical [steroids](/nighantu/glossary/compounds-q-t/#steroids) or retinoids without dermatologist consultation. Direct eye contact causes burning sensation. Overuse on oily skin can increase oiliness and acne.
+- Minor side effects include redness, mild itching, or oiliness if over-applied. Individuals with sensitive skin or allergies to [saffron](/herb/saffron/) or sandalwood may experience mild irritation or rash. Patch test strongly recommended before regular use.
+- Contraindicated in active skin tuberculosis, eczema with oozing, or fungal infections. Should not be combined with topical [steroids](/glossary/compounds-q-t/#steroids) or retinoids without dermatologist consultation. Direct eye contact causes burning sensation. Overuse on oily skin can increase oiliness and acne.
 
 ## What is it made of?
 
@@ -68,22 +68,22 @@ Bhaishajya Ratnavali (Kshudra Roga Chikitsa chapter); also documented in Ashtang
 
 **Standard Dosage:** External: 2-5 drops on face/skin, once daily at bedtime, as per Sahasrayogam
 
-**Bioavailability:** Identical to [Kumkumadi Tailam](/nighantu/formulation/kumkumadi-tailam/). If [coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil) base is used (Kerala variant), lauric acid provides enhanced [antimicrobial](/nighantu/reference/antimicrobial/) activity on facial skin.
+**Bioavailability:** Identical to [Kumkumadi Tailam](/formulation/kumkumadi-tailam/). If [coconut oil](/glossary/concepts-a-m/#coconut-oil) base is used (Kerala variant), lauric acid provides enhanced [antimicrobial](/reference/antimicrobial/) activity on facial skin.
 
 **Optimal Timing:** At bedtime for overnight skin rejuvenation
 
 **Shelf Life:** 3 years from date of manufacture as per ASU guidelines for Taila
 
-**Storage:** Same as [Kumkumadi Tailam](/nighantu/formulation/kumkumadi-tailam/). Dark amber glass bottles, temperature not exceeding 25°C.
+**Storage:** Same as [Kumkumadi Tailam](/formulation/kumkumadi-tailam/). Dark amber glass bottles, temperature not exceeding 25°C.
 
-**Marker Compounds:** Crocin, Crocetin, [Safranal](/nighantu/glossary/compounds-q-t/#safranal), Alpha-santalol, Purpurin, [Alizarin](/nighantu/glossary/compounds-1-a/#alizarin)
+**Marker Compounds:** Crocin, Crocetin, [Safranal](/glossary/compounds-q-t/#safranal), Alpha-santalol, Purpurin, [Alizarin](/glossary/compounds-1-a/#alizarin)
 
-**Quality Parameters:** Same as Kumkumadi Tailam — acid value, peroxide value, crocin content, alpha-santalol, total [carotenoids](/nighantu/glossary/compounds-a-c/#carotenoids), rancidity test, HPTLC fingerprint, microbial limits, heavy metals, dermatological safety
+**Quality Parameters:** Same as Kumkumadi Tailam — acid value, peroxide value, crocin content, alpha-santalol, total [carotenoids](/glossary/compounds-a-c/#carotenoids), rancidity test, HPTLC fingerprint, microbial limits, heavy metals, dermatological safety
 
 **Vehicle (Anupana):** Not applicable — topical facial use
 
 ### Synergistic Combinations
 
-- [Eladi Thailam](/nighantu/formulation/eladi-thailam/)
+- [Eladi Thailam](/formulation/eladi-thailam/)
 - Nalpamaradi Thailam
 - Mukhalepa (facial pack preparations)

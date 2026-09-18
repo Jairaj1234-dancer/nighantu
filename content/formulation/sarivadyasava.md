@@ -27,13 +27,13 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Sarivad
 
 ## Where is it described in the classical texts?
 
-Bhaishajya Ratnavali, Prameha Pidika Adhyaya (chapter on diabetic complications). Charaka Samhita and Sushruta Samhita extol [Sariva](/nighantu/herb/sariva/) as a premier herb for pacifying Pitta dosha.
+Bhaishajya Ratnavali, Prameha Pidika Adhyaya (chapter on diabetic complications). Charaka Samhita and Sushruta Samhita extol [Sariva](/herb/sariva/) as a premier herb for pacifying Pitta dosha.
 
 ## How does it work?
 
 - Blood purification (Raktashodhana) through elimination of toxins via hepatic and renal pathways
-- Anti-inflammatory and cooling (Sheeta Virya) action of [Sariva](/nighantu/herb/sariva/) pacifies Pitta dosha and reduces skin inflammation
-- [Immunomodulatory](/nighantu/reference/immunomodulatory/) synergy from [Guduchi](/nighantu/herb/guduchi/), [Tulsi](/nighantu/herb/tulsi/), and Amalaki strengthens host defense against skin infections
+- Anti-inflammatory and cooling (Sheeta Virya) action of [Sariva](/herb/sariva/) pacifies Pitta dosha and reduces skin inflammation
+- [Immunomodulatory](/reference/immunomodulatory/) synergy from [Guduchi](/herb/guduchi/), [Tulsi](/herb/tulsi/), and Amalaki strengthens host defense against skin infections
 - Detoxification through enhanced liver and kidney function promotes elimination of metabolic waste products
 
 ## Which traditional uses are supported by research?
@@ -85,4 +85,4 @@ Bhaishajya Ratnavali, Prameha Pidika Adhyaya (chapter on diabetic complications)
 
 ### Synergistic Combinations
 
-- Key herbs: [Sariva](/nighantu/herb/sariva/) (Hemidesmus), [Dhataki](/nighantu/herb/dhataki/), [Guda](/nighantu/glossary/concepts-a-m/#guda); fermentation creates unique metabolite profile with enhanced therapeutic activity
+- Key herbs: [Sariva](/herb/sariva/) (Hemidesmus), [Dhataki](/herb/dhataki/), [Guda](/glossary/concepts-a-m/#guda); fermentation creates unique metabolite profile with enhanced therapeutic activity

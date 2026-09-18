@@ -28,9 +28,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ushira/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Vetiverol](/nighantu/glossary/compounds-t-z/#vetiverol)
+- [Vetiverol](/glossary/compounds-t-z/#vetiverol)
 - Alpha-vetivone and beta-vetivone
-- [Khusimol](/nighantu/glossary/compounds-g-l/#khusimol)
+- [Khusimol](/glossary/compounds-g-l/#khusimol)
 - Khusimone
 - Vetivene and beta-vetivenene
 - Valerenol (18.48% in essential oil)
@@ -41,20 +41,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ushira/meta-analysis.md"
 
 ## How does it work?
 
-- [Antioxidant](/nighantu/reference/antioxidant/) mechanism through potent free radical scavenging by beta-vetivenene, beta-vetivone, and alpha-vetivone, protecting against lipid peroxidation
-- [Anxiolytic](/nighantu/reference/anxiolytic/) and [nootropic](/nighantu/glossary/pharmacology/#nootropic) activity through modulation of GABAergic neurotransmission and reduction of cortisol-mediated stress responses
+- [Antioxidant](/reference/antioxidant/) mechanism through potent free radical scavenging by beta-vetivenene, beta-vetivone, and alpha-vetivone, protecting against lipid peroxidation
+- [Anxiolytic](/reference/anxiolytic/) and [nootropic](/glossary/pharmacology/#nootropic) activity through modulation of GABAergic neurotransmission and reduction of cortisol-mediated stress responses
 - Anti-inflammatory mechanism through inhibition of pro-inflammatory mediator pathways (TNF-alpha, IL-6) and reduction of oxidative stress in inflamed tissues
 
 ## Which traditional uses are supported by research?
 
 - Anxiolytic and nootropic (memory-enhancing) effects validated in mouse models, confirming traditional Ayurvedic use as a brain tonic (Medhya)
 - Anti-inflammatory and cooling properties validated through pharmacological studies, confirming traditional use in Pitta disorders and burning sensation (Daha)
-- [Antimicrobial](/nighantu/reference/antimicrobial/) activity confirmed against multiple bacterial and fungal strains, supporting traditional use in skin infections and wound healing
+- [Antimicrobial](/reference/antimicrobial/) activity confirmed against multiple bacterial and fungal strains, supporting traditional use in skin infections and wound healing
 
 ## What do recent clinical trials show?
 
 - Gunasekar CJ, Majdalawieh AF, Abu-Yousef IA and others 2025. [Pharmacological and Therapeutic Potential of Chrysopogon zizanioides (Vetiver): A Comprehensive Review of Its Medicinal Applications and Future Prospects](https://pubmed.ncbi.nlm.nih.gov/41008619/). *Biomolecules*. PMID [41008619](https://pubmed.ncbi.nlm.nih.gov/41008619/) · [doi:10.3390/biom15091312](https://doi.org/10.3390/biom15091312)  
-  Comprehensive review documenting antioxidant, anti-inflammatory, antifungal, antibacterial, antitubercular, antihyperglycemic, antidepressant, [hepatoprotective](/nighantu/reference/hepatoprotective/), and nephroprotective activities of vetiver essential oil.
+  Comprehensive review documenting antioxidant, anti-inflammatory, antifungal, antibacterial, antitubercular, antihyperglycemic, antidepressant, [hepatoprotective](/reference/hepatoprotective/), and nephroprotective activities of vetiver essential oil.
 - Barcellos-Silva IGC, Dos Santos FKF, Kharkwal H and others 2025. [Vetiver, Vetiveria zizanioides (L.) Nash: Biotechnology, Biorefineries, and the Production of Volatile Phytochemicals](https://pubmed.ncbi.nlm.nih.gov/40431000/). *Plants (Basel, Switzerland)*. PMID [40431000](https://pubmed.ncbi.nlm.nih.gov/40431000/) · [doi:10.3390/plants14101435](https://doi.org/10.3390/plants14101435)  
   Reviewed biotechnological approaches for sustainable production of vetiver volatile phytochemicals, including cell culture and biorefinery strategies for commercial applications.
 - David A, Wang F, Sun X and others 2019. [Chemical Composition, Antioxidant, and Antimicrobial Activities of Vetiveria zizanioides (L.) Nash Essential Oil Extracted by Carbon Dioxide Expanded Ethanol](https://pubmed.ncbi.nlm.nih.gov/31108854/). *Molecules (Basel, Switzerland)*. PMID [31108854](https://pubmed.ncbi.nlm.nih.gov/31108854/) · [doi:10.3390/molecules24101897](https://doi.org/10.3390/molecules24101897)  
@@ -75,7 +75,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ushira/meta-analysis.md"
 
 **Optimal Timing:** Between meals for cooling and Pitta-pacifying action; morning and evening dosing; external application any time
 
-**Standardized Extract:** Essential oil (Khus oil) standardized to >25% vetiverol (as khusimol + [isovalencenol](/nighantu/glossary/compounds-g-l/#isovalencenol)) by GC-MS; root extract standardized to >3% total [sesquiterpenoids](/nighantu/glossary/compounds-q-t/#sesquiterpenoids)
+**Standardized Extract:** Essential oil (Khus oil) standardized to >25% vetiverol (as khusimol + [isovalencenol](/glossary/compounds-g-l/#isovalencenol)) by GC-MS; root extract standardized to >3% total [sesquiterpenoids](/glossary/compounds-q-t/#sesquiterpenoids)
 
 **Shelf Life:** Dried roots: 24-36 months; Essential oil: 36-60 months (improves with aging); Powder: 18 months; Capsules: 24 months; Syrup: 18 months
 
@@ -95,6 +95,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ushira/meta-analysis.md"
 ### Synergistic Combinations
 
 - Chandan (sandalwood) - cooling and Pitta-pacifying synergy
-- [Sariva](/nighantu/herb/sariva/) (Hemidesmus indicus) - blood-purifying and cooling combination
-- [Kamala](/nighantu/herb/kamala/) (lotus) - cooling combination for burning sensation
-- [Chandana](/nighantu/herb/chandana/) + Ushira in Chandanasava - classical cooling formulation
+- [Sariva](/herb/sariva/) (Hemidesmus indicus) - blood-purifying and cooling combination
+- [Kamala](/herb/kamala/) (lotus) - cooling combination for burning sensation
+- [Chandana](/herb/chandana/) + Ushira in Chandanasava - classical cooling formulation

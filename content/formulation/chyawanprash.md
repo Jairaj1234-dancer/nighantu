@@ -28,36 +28,36 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Chyawanpra
 ## Key Ingredients
 
 - Amalaki (Phyllanthus emblica / Indian gooseberry) - primary ingredient
-- [Guduchi](/nighantu/herb/guduchi/) (Tinospora cordifolia)
-- [Shatavari](/nighantu/herb/shatavari/) (Asparagus racemosus)
-- [Brahmi](/nighantu/herb/brahmi/) (Bacopa monnieri)
-- [Ashwagandha](/nighantu/herb/ashwagandha/) (Withania somnifera)
-- [Bala](/nighantu/herb/bala/) (Sida cordifolia)
-- [Pippali](/nighantu/herb/pippali/) (Piper longum)
-- [Gokshura](/nighantu/herb/gokshura/) (Tribulus terrestris)
+- [Guduchi](/herb/guduchi/) (Tinospora cordifolia)
+- [Shatavari](/herb/shatavari/) (Asparagus racemosus)
+- [Brahmi](/herb/brahmi/) (Bacopa monnieri)
+- [Ashwagandha](/herb/ashwagandha/) (Withania somnifera)
+- [Bala](/herb/bala/) (Sida cordifolia)
+- [Pippali](/herb/pippali/) (Piper longum)
+- [Gokshura](/herb/gokshura/) (Tribulus terrestris)
 - Dashamula (ten roots)
-- [Ghrita](/nighantu/herb/ghrita/) (cow ghee)
-- [Tila](/nighantu/herb/tila/) Taila ([sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila))
-- [Madhu](/nighantu/herb/madhu/) (honey)
+- [Ghrita](/herb/ghrita/) (cow ghee)
+- [Tila](/herb/tila/) Taila ([sesame oil](/glossary/concepts-m-y/#tila-taila))
+- [Madhu](/herb/madhu/) (honey)
 - Sharkara (sugar)
 - 50+ herbs total in classical formulation
 
 ## Where is it described in the classical texts?
 
-Charaka Samhita Chikitsasthana ([Rasayana](/nighantu/reference/rasayana/) Adhyaya) - oldest reference; Ashtanga Hridaya; the formulation is attributed to the sage Chyawan and described as 3000+ year old Rasayana
+Charaka Samhita Chikitsasthana ([Rasayana](/reference/rasayana/) Adhyaya) - oldest reference; Ashtanga Hridaya; the formulation is attributed to the sage Chyawan and described as 3000+ year old Rasayana
 
 ## How does it work?
 
-- Amalaki provides extremely high vitamin C content and [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) (gallic acid, [catechin](/nighantu/reference/catechin/), [quercetin](/nighantu/reference/quercetinquercetin/)) with potent [antioxidant](/nighantu/reference/antioxidant/) and free radical scavenging activity
-- HPLC-identified phenolics (gallic acid, protocatechuic acid, caffeic acid, [rutin](/nighantu/glossary/compounds-q-t/#rutin), ferulic acid) contribute synergistic antioxidant, anti-inflammatory, and cytoprotective effects
-- [Adaptogenic](/nighantu/reference/adaptogenic/) herbs ([Ashwagandha](/nighantu/herb/ashwagandha/), [Shatavari](/nighantu/herb/shatavari/)) modulate HPA axis for stress resilience and immune homeostasis
-- [Piperine](/nighantu/reference/piperine/) from [Pippali](/nighantu/herb/pippali/) enhances bioavailability of other active compounds through inhibition of hepatic and intestinal glucuronidation
+- Amalaki provides extremely high vitamin C content and [polyphenols](/glossary/compounds-o-q/#polyphenols) (gallic acid, [catechin](/reference/catechin/), [quercetin](/reference/quercetinquercetin/)) with potent [antioxidant](/reference/antioxidant/) and free radical scavenging activity
+- HPLC-identified phenolics (gallic acid, protocatechuic acid, caffeic acid, [rutin](/glossary/compounds-q-t/#rutin), ferulic acid) contribute synergistic antioxidant, anti-inflammatory, and cytoprotective effects
+- [Adaptogenic](/reference/adaptogenic/) herbs ([Ashwagandha](/herb/ashwagandha/), [Shatavari](/herb/shatavari/)) modulate HPA axis for stress resilience and immune homeostasis
+- [Piperine](/reference/piperine/) from [Pippali](/herb/pippali/) enhances bioavailability of other active compounds through inhibition of hepatic and intestinal glucuronidation
 - Multi-herb synergy provides broad-spectrum immunomodulation: enhanced neutrophil function, NK cell activity, and antibody production
-- Ghee and [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) base provides lipid medium for enhanced absorption of fat-soluble antioxidants and adaptogens
+- Ghee and [sesame oil](/glossary/concepts-m-y/#tila-taila) base provides lipid medium for enhanced absorption of fat-soluble antioxidants and adaptogens
 
 ## Which traditional uses are supported by research?
 
-- Rasayana (rejuvenation/immunity): meta-analysis of 5 RCTs validates [immunomodulatory](/nighantu/reference/immunomodulatory/) and prophylactic benefits including COVID-19 prevention
+- Rasayana (rejuvenation/immunity): meta-analysis of 5 RCTs validates [immunomodulatory](/reference/immunomodulatory/) and prophylactic benefits including COVID-19 prevention
 - Medhya Rasayana (cognitive enhancement): 2025 research validates role as cognitive enhancer for brain vitality and mental acuity
 - Vyadhikshamatva (disease resistance): immunomodulatory effects validated in zebrafish inflammation models and human clinical trials
 - Balya (strength-promoting): daily use validated for general vitality, respiratory health, and anti-aging benefits across multiple studies
@@ -92,7 +92,7 @@ Charaka Samhita Chikitsasthana ([Rasayana](/nighantu/reference/rasayana/) Adhyay
 
 **Standard Dosage:** 10-20 g (1-2 tablespoons) once or twice daily, as per AFI Part I / Charaka Samhita
 
-**Bioavailability:** Ghee and [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) base provides lipid-mediated absorption of fat-soluble actives ([withanolides](/nighantu/glossary/compounds-t-z/#withanolides), piperine). Honey (added cool) provides enzymatic bioenhancement. Piperine increases bioavailability of curcuminoids and other phenolics by 20-2000%. Amalaki tannin-vitamin C complex provides sustained antioxidant release over 6-8 hours.
+**Bioavailability:** Ghee and [sesame oil](/glossary/concepts-m-y/#tila-taila) base provides lipid-mediated absorption of fat-soluble actives ([withanolides](/glossary/compounds-t-z/#withanolides), piperine). Honey (added cool) provides enzymatic bioenhancement. Piperine increases bioavailability of curcuminoids and other phenolics by 20-2000%. Amalaki tannin-vitamin C complex provides sustained antioxidant release over 6-8 hours.
 
 **Optimal Timing:** Morning on empty stomach, followed by warm milk. Second dose before bedtime if taking twice daily.
 
@@ -102,7 +102,7 @@ Charaka Samhita Chikitsasthana ([Rasayana](/nighantu/reference/rasayana/) Adhyay
 
 **Premium Sourcing Tier:** See Chyawanprash Royale for the luxury-tier provenance variant featuring Junglee Amla, Karaunj wild monofloral honey, Mongra Kashmiri Keshar, Majdool dates, Afghan Anjeer, and Munakkha.
 
-**Marker Compounds:** Ascorbic acid (Vitamin C), Gallic acid, Piperine, [Cinnamaldehyde](/nighantu/glossary/compounds-c-d/#cinnamaldehyde), 1,8-[Cineole](/nighantu/glossary/compounds-c-d/#cineole), Ellagic acid, [Eugenol](/nighantu/glossary/compounds-d-g/#eugenol)
+**Marker Compounds:** Ascorbic acid (Vitamin C), Gallic acid, Piperine, [Cinnamaldehyde](/glossary/compounds-c-d/#cinnamaldehyde), 1,8-[Cineole](/glossary/compounds-c-d/#cineole), Ellagic acid, [Eugenol](/glossary/compounds-d-g/#eugenol)
 
 **Quality Parameters:** Total solids (NLT 65%), pH (3.5-5.0), vitamin C content (NLT 25 mg/100g in classical, higher in modern), total fat, total sugar, moisture (<25%), HPLC for gallic acid, piperine, cinnamaldehyde, HPTLC fingerprint, microbial limits (TBC, yeast, mould, coliforms), heavy metals, aflatoxins, pesticide residues
 
@@ -110,7 +110,7 @@ Charaka Samhita Chikitsasthana ([Rasayana](/nighantu/reference/rasayana/) Adhyay
 
 ### Synergistic Combinations
 
-- [Ashwagandha](/nighantu/herb/ashwagandha/) Churna
-- [Shatavari](/nighantu/herb/shatavari/) Churna
-- [Brahmi](/nighantu/herb/brahmi/) Ghritam
+- [Ashwagandha](/herb/ashwagandha/) Churna
+- [Shatavari](/herb/shatavari/) Churna
+- [Brahmi](/herb/brahmi/) Ghritam
 - Warm milk (primary anupana)

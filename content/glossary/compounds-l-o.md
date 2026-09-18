@@ -16,17 +16,17 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Kapittha](/nighantu/herb/kapittha/) — *Limonia acidissima Groff (syn. Feronia limonia (L.) Swingle)*
-- [Matulunga](/nighantu/herb/matulunga/) — *Citrus medica L.*
+- [Kapittha](/herb/kapittha/) — *Limonia acidissima Groff (syn. Feronia limonia (L.) Swingle)*
+- [Matulunga](/herb/matulunga/) — *Citrus medica L.*
 
 #### Often Found With
 
-- [Citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid) (2 shared sources)
-- [Hesperidin](/nighantu/glossary/compounds-g-l/#hesperidin) (2 shared sources)
-- [Naringin](/nighantu/glossary/compounds-l-o/#naringin) (2 shared sources)
-- [Nobiletin](/nighantu/glossary/compounds-l-o/#nobiletin) (2 shared sources)
-- [Palmatine](/nighantu/glossary/compounds-o-q/#palmatine) (2 shared sources)
-- [Berberine](/nighantu/glossary/compounds-a-c/#berberine) (2 shared sources)
+- [Citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid) (2 shared sources)
+- [Hesperidin](/glossary/compounds-g-l/#hesperidin) (2 shared sources)
+- [Naringin](/glossary/compounds-l-o/#naringin) (2 shared sources)
+- [Nobiletin](/glossary/compounds-l-o/#nobiletin) (2 shared sources)
+- [Palmatine](/glossary/compounds-o-q/#palmatine) (2 shared sources)
+- [Berberine](/glossary/compounds-a-c/#berberine) (2 shared sources)
 
 ### Linalool {#linalool}
 
@@ -34,39 +34,39 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Bijapura](/nighantu/herb/bijapura/) — *Citrus medica L.*
-- [Coriander](/nighantu/herb/coriander/)
-- [Coriander Herb](/nighantu/herb/coriander-herb/)
-- [Dhanyaka](/nighantu/herb/dhanyaka/) — *Coriandrum sativum L.*
-- [Ela](/nighantu/herb/ela/) — *Elettaria cardamomum*
-- [Eladi Thailam](/nighantu/formulation/eladi-thailam/)
-- [Elakanadi Kashayam](/nighantu/formulation/elakanadi-kashayam/)
-- [Jati](/nighantu/herb/jati/)
-- [Karpura Camphor](/nighantu/herb/karpura-camphor/)
-- [Ketaki](/nighantu/herb/ketaki/)
-- [Matulunga](/nighantu/herb/matulunga/) — *Citrus medica L.*
-- [Nimbu](/nighantu/herb/nimbu/) — *Citrus limon (L.) Osbeck*
-- [Rohisha](/nighantu/herb/rohisha/)
-- [Tamalpatra](/nighantu/herb/tamalpatra/)
-- [Tejapatra](/nighantu/herb/tejapatra/)
-- [Tilaparni](/nighantu/herb/tilaparni/)
-- [Tulsi](/nighantu/herb/tulsi/) — *Ocimum tenuiflorum (syn. O. sanctum)*
-- [Tumburu](/nighantu/herb/tumburu/)
-- [Twak Cinnamon](/nighantu/herb/twak-cinnamon/) — *Cinnamomum verum*
-- [Yuthika](/nighantu/herb/yuthika/) — *Jasminum auriculatum Vahl*
+- [Bijapura](/herb/bijapura/) — *Citrus medica L.*
+- [Coriander](/herb/coriander/)
+- [Coriander Herb](/herb/coriander-herb/)
+- [Dhanyaka](/herb/dhanyaka/) — *Coriandrum sativum L.*
+- [Ela](/herb/ela/) — *Elettaria cardamomum*
+- [Eladi Thailam](/formulation/eladi-thailam/)
+- [Elakanadi Kashayam](/formulation/elakanadi-kashayam/)
+- [Jati](/herb/jati/)
+- [Karpura Camphor](/herb/karpura-camphor/)
+- [Ketaki](/herb/ketaki/)
+- [Matulunga](/herb/matulunga/) — *Citrus medica L.*
+- [Nimbu](/herb/nimbu/) — *Citrus limon (L.) Osbeck*
+- [Rohisha](/herb/rohisha/)
+- [Tamalpatra](/herb/tamalpatra/)
+- [Tejapatra](/herb/tejapatra/)
+- [Tilaparni](/herb/tilaparni/)
+- [Tulsi](/herb/tulsi/) — *Ocimum tenuiflorum (syn. O. sanctum)*
+- [Tumburu](/herb/tumburu/)
+- [Twak Cinnamon](/herb/twak-cinnamon/) — *Cinnamomum verum*
+- [Yuthika](/herb/yuthika/) — *Jasminum auriculatum Vahl*
 
 #### Often Found With
 
-- [beta-Caryophyllene](/nighantu/glossary/compounds-a-c/#betacaryophyllene) (10 shared sources)
-- [Geraniol](/nighantu/glossary/compounds-d-g/#geraniol) (9 shared sources)
-- [Limonene](/nighantu/glossary/compounds-g-l/#limonene) (9 shared sources)
-- [Eugenol](/nighantu/glossary/compounds-d-g/#eugenol) (8 shared sources)
-- [Gamma-terpinene](/nighantu/glossary/compounds-d-g/#gammaterpinene) (6 shared sources)
-- [Geranyl acetate](/nighantu/glossary/compounds-d-g/#geranyl-acetate) (6 shared sources)
-- [Rosmarinic acid](/nighantu/glossary/compounds-q-t/#rosmarinic-acid) (6 shared sources)
-- [Linalyl acetate](/nighantu/glossary/compounds-l-o/#linalyl-acetate) (6 shared sources)
-- [1,8-Cineole](/nighantu/glossary/compounds-1-a/#18cineole) (6 shared sources)
-- [Beta-caryophyllene](/nighantu/glossary/compounds-a-c/#betacaryophyllene) (6 shared sources)
+- [beta-Caryophyllene](/glossary/compounds-a-c/#betacaryophyllene) (10 shared sources)
+- [Geraniol](/glossary/compounds-d-g/#geraniol) (9 shared sources)
+- [Limonene](/glossary/compounds-g-l/#limonene) (9 shared sources)
+- [Eugenol](/glossary/compounds-d-g/#eugenol) (8 shared sources)
+- [Gamma-terpinene](/glossary/compounds-d-g/#gammaterpinene) (6 shared sources)
+- [Geranyl acetate](/glossary/compounds-d-g/#geranyl-acetate) (6 shared sources)
+- [Rosmarinic acid](/glossary/compounds-q-t/#rosmarinic-acid) (6 shared sources)
+- [Linalyl acetate](/glossary/compounds-l-o/#linalyl-acetate) (6 shared sources)
+- [1,8-Cineole](/glossary/compounds-1-a/#18cineole) (6 shared sources)
+- [Beta-caryophyllene](/glossary/compounds-a-c/#betacaryophyllene) (6 shared sources)
 
 ### Linalyl acetate {#linalyl-acetate}
 
@@ -74,17 +74,17 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Ela](/nighantu/herb/ela/) — *Elettaria cardamomum*
+- [Ela](/herb/ela/) — *Elettaria cardamomum*
 
 #### Often Found With
 
-- [Linalool](/nighantu/glossary/compounds-l-o/#linalool) (6 shared sources)
-- [Terpinen-4-ol](/nighantu/glossary/compounds-t-z/#terpinen4ol) (3 shared sources)
-- [Limonene](/nighantu/glossary/compounds-g-l/#limonene) (3 shared sources)
-- [1,8-Cineole](/nighantu/glossary/compounds-1-a/#18cineole) (3 shared sources)
-- [Geraniol](/nighantu/glossary/compounds-d-g/#geraniol) (2 shared sources)
-- [Nerol](/nighantu/glossary/compounds-l-o/#nerol) (2 shared sources)
-- [Camphor](/nighantu/herb/camphor/) (2 shared sources)
+- [Linalool](/glossary/compounds-l-o/#linalool) (6 shared sources)
+- [Terpinen-4-ol](/glossary/compounds-t-z/#terpinen4ol) (3 shared sources)
+- [Limonene](/glossary/compounds-g-l/#limonene) (3 shared sources)
+- [1,8-Cineole](/glossary/compounds-1-a/#18cineole) (3 shared sources)
+- [Geraniol](/glossary/compounds-d-g/#geraniol) (2 shared sources)
+- [Nerol](/glossary/compounds-l-o/#nerol) (2 shared sources)
+- [Camphor](/herb/camphor/) (2 shared sources)
 
 ### Linoleic acid {#linoleic-acid}
 
@@ -92,44 +92,44 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Atasi](/nighantu/herb/atasi/) — *Linum usitatissimum L.*
-- [Badama Taila](/nighantu/formulation/badama-taila/)
-- [Bala](/nighantu/herb/bala/) — *Sida cordifolia*
-- [Chandrashura](/nighantu/herb/chandrashura/) — *Lepidium sativum L.*
-- [Eranda](/nighantu/herb/eranda/) — *Ricinus communis L.*
-- [Eranda Paka](/nighantu/herb/eranda-paka/) — *Ricinus communis L. (processed castor preparation)*
-- [Eranda Taila](/nighantu/formulation/eranda-taila/)
-- [Gavedhuka](/nighantu/herb/gavedhuka/)
-- [Ingudi](/nighantu/herb/ingudi/) — *Balanites aegyptiaca (L.) Delile*
-- [Ishabgula](/nighantu/herb/ishabgula/)
-- [Jyotishmati](/nighantu/herb/jyotishmati/)
-- [Kakoli](/nighantu/herb/kakoli/) — *Roscoea purpurea Sm. (also identified with Fritillaria roylei)*
-- [Karanja](/nighantu/herb/karanja/) — *Millettia pinnata (L.) Panigrahi (syn. Pongamia pinnata (L.) Pierre)*
-- [Karpasa](/nighantu/herb/karpasa/)
-- [Kharbhuja](/nighantu/glossary/concepts-a-m/#kharbhuja)
-- [Koshataki](/nighantu/herb/koshataki/)
-- [Kshavaka](/nighantu/herb/kshavaka/) — *Amaranthus spinosus L.*
-- [Kusumbha](/nighantu/herb/kusumbha/)
-- [Kusumbha Taila](/nighantu/glossary/concepts-a-m/#kusumbha-taila)
-- [Madhukarkati](/nighantu/herb/madhukarkati/)
-- [Priyala](/nighantu/herb/priyala/)
-- [Sesame Oil](/nighantu/glossary/concepts-m-y/#sesame-oil)
-- [Tila](/nighantu/herb/tila/) — *Sesamum indicum L.*
-- [Trapusha](/nighantu/herb/trapusha/)
-- [Vathada](/nighantu/herb/vathada/)
+- [Atasi](/herb/atasi/) — *Linum usitatissimum L.*
+- [Badama Taila](/formulation/badama-taila/)
+- [Bala](/herb/bala/) — *Sida cordifolia*
+- [Chandrashura](/herb/chandrashura/) — *Lepidium sativum L.*
+- [Eranda](/herb/eranda/) — *Ricinus communis L.*
+- [Eranda Paka](/herb/eranda-paka/) — *Ricinus communis L. (processed castor preparation)*
+- [Eranda Taila](/formulation/eranda-taila/)
+- [Gavedhuka](/herb/gavedhuka/)
+- [Ingudi](/herb/ingudi/) — *Balanites aegyptiaca (L.) Delile*
+- [Ishabgula](/herb/ishabgula/)
+- [Jyotishmati](/herb/jyotishmati/)
+- [Kakoli](/herb/kakoli/) — *Roscoea purpurea Sm. (also identified with Fritillaria roylei)*
+- [Karanja](/herb/karanja/) — *Millettia pinnata (L.) Panigrahi (syn. Pongamia pinnata (L.) Pierre)*
+- [Karpasa](/herb/karpasa/)
+- [Kharbhuja](/glossary/concepts-a-m/#kharbhuja)
+- [Koshataki](/herb/koshataki/)
+- [Kshavaka](/herb/kshavaka/) — *Amaranthus spinosus L.*
+- [Kusumbha](/herb/kusumbha/)
+- [Kusumbha Taila](/glossary/concepts-a-m/#kusumbha-taila)
+- [Madhukarkati](/herb/madhukarkati/)
+- [Priyala](/herb/priyala/)
+- [Sesame Oil](/glossary/concepts-m-y/#sesame-oil)
+- [Tila](/herb/tila/) — *Sesamum indicum L.*
+- [Trapusha](/herb/trapusha/)
+- [Vathada](/herb/vathada/)
 
 #### Often Found With
 
-- [Oleic acid](/nighantu/glossary/compounds-l-o/#oleic-acid) (29 shared sources)
-- [Beta-sitosterol](/nighantu/glossary/compounds-a-c/#betasitosterol) (12 shared sources)
-- [Palmitic acid](/nighantu/glossary/compounds-o-q/#palmitic-acid) (10 shared sources)
-- [Phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols) (7 shared sources)
-- [Stigmasterol](/nighantu/reference/stigmasterol/) (6 shared sources)
-- [Flavonoids](/nighantu/reference/flavonoids/) (5 shared sources)
-- [Quercetin](/nighantu/reference/quercetinquercetin/) (5 shared sources)
-- [Amygdalin](/nighantu/glossary/compounds-1-a/#amygdalin) (4 shared sources)
-- [Mucilage polysaccharides](/nighantu/glossary/compounds-l-o/#mucilage-polysaccharides) (4 shared sources)
-- [Tocopherols](/nighantu/glossary/compounds-t-z/#tocopherols) (4 shared sources)
+- [Oleic acid](/glossary/compounds-l-o/#oleic-acid) (29 shared sources)
+- [Beta-sitosterol](/glossary/compounds-a-c/#betasitosterol) (12 shared sources)
+- [Palmitic acid](/glossary/compounds-o-q/#palmitic-acid) (10 shared sources)
+- [Phytosterols](/glossary/compounds-o-q/#phytosterols) (7 shared sources)
+- [Stigmasterol](/reference/stigmasterol/) (6 shared sources)
+- [Flavonoids](/reference/flavonoids/) (5 shared sources)
+- [Quercetin](/reference/quercetinquercetin/) (5 shared sources)
+- [Amygdalin](/glossary/compounds-1-a/#amygdalin) (4 shared sources)
+- [Mucilage polysaccharides](/glossary/compounds-l-o/#mucilage-polysaccharides) (4 shared sources)
+- [Tocopherols](/glossary/compounds-t-z/#tocopherols) (4 shared sources)
 
 ### Liquiritigenin {#liquiritigenin}
 
@@ -137,23 +137,23 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Asana](/nighantu/herb/asana/) — *Pterocarpus marsupium Roxb.*
-- [Asanadi Kwath](/nighantu/formulation/asanadi-kwath/)
-- [Licorice Herb](/nighantu/herb/licorice-herb/)
-- [Vijaysar](/nighantu/herb/vijaysar/)
-- [Yashtimadhu](/nighantu/herb/yashtimadhu/)
+- [Asana](/herb/asana/) — *Pterocarpus marsupium Roxb.*
+- [Asanadi Kwath](/formulation/asanadi-kwath/)
+- [Licorice Herb](/herb/licorice-herb/)
+- [Vijaysar](/herb/vijaysar/)
+- [Yashtimadhu](/herb/yashtimadhu/)
 
 #### Often Found With
 
-- [Isoliquiritigenin](/nighantu/glossary/compounds-g-l/#isoliquiritigenin) (6 shared sources)
-- [Liquiritin](/nighantu/glossary/compounds-l-o/#liquiritin) (4 shared sources)
-- [Glabridin](/nighantu/glossary/compounds-d-g/#glabridin) (4 shared sources)
-- [Pterostilbene](/nighantu/glossary/compounds-o-q/#pterostilbene) (3 shared sources)
-- [Marsupsin](/nighantu/glossary/compounds-l-o/#marsupsin) (3 shared sources)
-- [Epicatechin](/nighantu/glossary/compounds-d-g/#epicatechin) (3 shared sources)
-- [Pterosupin](/nighantu/glossary/compounds-o-q/#pterosupin) (3 shared sources)
-- [Pterocarpol](/nighantu/glossary/compounds-o-q/#pterocarpol) (2 shared sources)
-- [Glycyrrhizin](/nighantu/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) (2 shared sources)
+- [Isoliquiritigenin](/glossary/compounds-g-l/#isoliquiritigenin) (6 shared sources)
+- [Liquiritin](/glossary/compounds-l-o/#liquiritin) (4 shared sources)
+- [Glabridin](/glossary/compounds-d-g/#glabridin) (4 shared sources)
+- [Pterostilbene](/glossary/compounds-o-q/#pterostilbene) (3 shared sources)
+- [Marsupsin](/glossary/compounds-l-o/#marsupsin) (3 shared sources)
+- [Epicatechin](/glossary/compounds-d-g/#epicatechin) (3 shared sources)
+- [Pterosupin](/glossary/compounds-o-q/#pterosupin) (3 shared sources)
+- [Pterocarpol](/glossary/compounds-o-q/#pterocarpol) (2 shared sources)
+- [Glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) (2 shared sources)
 
 ### Liquiritin {#liquiritin}
 
@@ -161,18 +161,18 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Licorice Herb](/nighantu/herb/licorice-herb/)
-- [Yashtimadhu](/nighantu/herb/yashtimadhu/)
+- [Licorice Herb](/herb/licorice-herb/)
+- [Yashtimadhu](/herb/yashtimadhu/)
 
 #### Often Found With
 
-- [Isoliquiritigenin](/nighantu/glossary/compounds-g-l/#isoliquiritigenin) (5 shared sources)
-- [Glabridin](/nighantu/glossary/compounds-d-g/#glabridin) (5 shared sources)
-- [Liquiritigenin](/nighantu/glossary/compounds-l-o/#liquiritigenin) (4 shared sources)
-- [Glycyrrhetinic acid](/nighantu/glossary/compounds-g-l/#glycyrrhetinic-acid) (3 shared sources)
-- [Formononetin](/nighantu/glossary/compounds-d-g/#formononetin) (2 shared sources)
-- [Glycyrrhizin](/nighantu/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) (2 shared sources)
-- [Glycyrrhizin](/nighantu/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) (2 shared sources)
+- [Isoliquiritigenin](/glossary/compounds-g-l/#isoliquiritigenin) (5 shared sources)
+- [Glabridin](/glossary/compounds-d-g/#glabridin) (5 shared sources)
+- [Liquiritigenin](/glossary/compounds-l-o/#liquiritigenin) (4 shared sources)
+- [Glycyrrhetinic acid](/glossary/compounds-g-l/#glycyrrhetinic-acid) (3 shared sources)
+- [Formononetin](/glossary/compounds-d-g/#formononetin) (2 shared sources)
+- [Glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) (2 shared sources)
+- [Glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) (2 shared sources)
 
 ### Loganin {#loganin}
 
@@ -180,14 +180,14 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Kataka](/nighantu/herb/kataka/) — *Strychnos potatorum L.f.*
+- [Kataka](/herb/kataka/) — *Strychnos potatorum L.f.*
 
 #### Often Found With
 
-- [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) (2 shared sources)
-- [Sweroside](/nighantu/glossary/compounds-q-t/#sweroside) (2 shared sources)
-- [Beta-sitosterol](/nighantu/glossary/compounds-a-c/#betasitosterol) (1 shared sources)
-- [Saponins](/nighantu/reference/saponins/) (1 shared sources)
+- [Alkaloids](/glossary/compounds-1-a/#alkaloids) (2 shared sources)
+- [Sweroside](/glossary/compounds-q-t/#sweroside) (2 shared sources)
+- [Beta-sitosterol](/glossary/compounds-a-c/#betasitosterol) (1 shared sources)
+- [Saponins](/reference/saponins/) (1 shared sources)
 
 ### Loturine {#loturine}
 
@@ -195,21 +195,21 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Gangadhara Churna](/nighantu/formulation/gangadhara-churna/)
-- [Lodhra](/nighantu/herb/lodhra/) — *Symplocos racemosa Roxb.*
-- [Lodhradi Churna](/nighantu/glossary/concepts-a-m/#lodhradi-churna)
-- [Lodhrasva](/nighantu/herb/lodhrasva/)
-- [Pushyanuga Churna](/nighantu/formulation/pushyanuga-churna/)
+- [Gangadhara Churna](/formulation/gangadhara-churna/)
+- [Lodhra](/herb/lodhra/) — *Symplocos racemosa Roxb.*
+- [Lodhradi Churna](/glossary/concepts-a-m/#lodhradi-churna)
+- [Lodhrasva](/herb/lodhrasva/)
+- [Pushyanuga Churna](/formulation/pushyanuga-churna/)
 
 #### Often Found With
 
-- [Cyperene](/nighantu/glossary/compounds-c-d/#cyperene) (2 shared sources)
-- [Ellagic acid](/nighantu/reference/ellagic-acid/) (2 shared sources)
-- [Gallic acid](/nighantu/reference/gallic-acid/) (2 shared sources)
-- [Atisine](/nighantu/glossary/compounds-a-c/#atisine) (1 shared sources)
-- [6-Gingerol](/nighantu/glossary/compounds-1-a/#6gingerol) (1 shared sources)
-- [Heteratisine](/nighantu/glossary/compounds-g-l/#heteratisine) (1 shared sources)
-- [Lactic acid](/nighantu/glossary/compounds-g-l/#lactic-acid) (1 shared sources)
+- [Cyperene](/glossary/compounds-c-d/#cyperene) (2 shared sources)
+- [Ellagic acid](/reference/ellagic-acid/) (2 shared sources)
+- [Gallic acid](/reference/gallic-acid/) (2 shared sources)
+- [Atisine](/glossary/compounds-a-c/#atisine) (1 shared sources)
+- [6-Gingerol](/glossary/compounds-1-a/#6gingerol) (1 shared sources)
+- [Heteratisine](/glossary/compounds-g-l/#heteratisine) (1 shared sources)
+- [Lactic acid](/glossary/compounds-g-l/#lactic-acid) (1 shared sources)
 
 ### Lutein {#lutein}
 
@@ -217,21 +217,21 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Chakshushya](/nighantu/herb/chakshushya/)
-- [Coriander Herb](/nighantu/herb/coriander-herb/)
-- [Grinjana](/nighantu/herb/grinjana/)
-- [Palankya](/nighantu/herb/palankya/) — *Spinacia oleracea L.*
-- [Panasa](/nighantu/herb/panasa/)
-- [Tagetes](/nighantu/herb/tagetes/)
+- [Chakshushya](/herb/chakshushya/)
+- [Coriander Herb](/herb/coriander-herb/)
+- [Grinjana](/herb/grinjana/)
+- [Palankya](/herb/palankya/) — *Spinacia oleracea L.*
+- [Panasa](/herb/panasa/)
+- [Tagetes](/herb/tagetes/)
 
 #### Often Found With
 
-- [Beta-carotene](/nighantu/glossary/compounds-a-c/#betacarotene) (7 shared sources)
-- [Zeaxanthin](/nighantu/glossary/compounds-t-z/#zeaxanthin) (4 shared sources)
-- [Quercetin](/nighantu/reference/quercetinquercetin/) (3 shared sources)
-- [Kaempferol](/nighantu/reference/kaempferol/) (2 shared sources)
-- [Falcarindiol](/nighantu/glossary/compounds-d-g/#falcarindiol) (1 shared sources)
-- [Anthocyanins](/nighantu/glossary/compounds-1-a/#anthocyanins) (1 shared sources)
+- [Beta-carotene](/glossary/compounds-a-c/#betacarotene) (7 shared sources)
+- [Zeaxanthin](/glossary/compounds-t-z/#zeaxanthin) (4 shared sources)
+- [Quercetin](/reference/quercetinquercetin/) (3 shared sources)
+- [Kaempferol](/reference/kaempferol/) (2 shared sources)
+- [Falcarindiol](/glossary/compounds-d-g/#falcarindiol) (1 shared sources)
+- [Anthocyanins](/glossary/compounds-1-a/#anthocyanins) (1 shared sources)
 
 ### Luteolin {#luteolin}
 
@@ -239,44 +239,44 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Aivana](/nighantu/herb/aivana/) — *Salvia officinalis L.*
-- [Bhringaraja Svarasa](/nighantu/formulation/bhringaraja-svarasa/)
-- [Bhringraj](/nighantu/herb/bhringraj/)
-- [Brahmi](/nighantu/herb/brahmi/) — *Bacopa monnieri*
-- [Brihati](/nighantu/herb/brihati/) — *Solanum indicum L.*
-- [Cumin](/nighantu/herb/cumin/)
-- [Cumin Herb](/nighantu/herb/cumin-herb/)
-- [Dronapushpi](/nighantu/herb/dronapushpi/)
-- [Durva](/nighantu/herb/durva/)
-- [Gambhari](/nighantu/herb/gambhari/) — *Gmelina arborea Roxb.*
-- [Holy Basil](/nighantu/herb/holy-basil/)
-- [Ikshu](/nighantu/herb/ikshu/)
-- [Jeeraka](/nighantu/herb/jeeraka/) — *Cuminum cyminum L.*
-- [Karnikara](/nighantu/herb/karnikara/)
-- [Kharjura](/nighantu/herb/kharjura/) — *Phoenix dactylifera L.*
-- [Madayantika](/nighantu/herb/madayantika/)
-- [Nirgundi](/nighantu/herb/nirgundi/) — *Vitex negundo L.*
-- [Patola Patra](/nighantu/herb/patola-patra/)
-- [Priyangu](/nighantu/herb/priyangu/) — *Callicarpa macrophylla Vahl.*
-- [Saireyaka](/nighantu/herb/saireyaka/)
-- [Sharapunkha](/nighantu/herb/sharapunkha/)
-- [Tila Patra](/nighantu/herb/tila-patra/)
-- [Tulsi](/nighantu/herb/tulsi/) — *Ocimum tenuiflorum (syn. O. sanctum)*
-- [Vyaghranakhi](/nighantu/herb/vyaghranakhi/)
-- [Water Hyssop](/nighantu/herb/water-hyssop/)
+- [Aivana](/herb/aivana/) — *Salvia officinalis L.*
+- [Bhringaraja Svarasa](/formulation/bhringaraja-svarasa/)
+- [Bhringraj](/herb/bhringraj/)
+- [Brahmi](/herb/brahmi/) — *Bacopa monnieri*
+- [Brihati](/herb/brihati/) — *Solanum indicum L.*
+- [Cumin](/herb/cumin/)
+- [Cumin Herb](/herb/cumin-herb/)
+- [Dronapushpi](/herb/dronapushpi/)
+- [Durva](/herb/durva/)
+- [Gambhari](/herb/gambhari/) — *Gmelina arborea Roxb.*
+- [Holy Basil](/herb/holy-basil/)
+- [Ikshu](/herb/ikshu/)
+- [Jeeraka](/herb/jeeraka/) — *Cuminum cyminum L.*
+- [Karnikara](/herb/karnikara/)
+- [Kharjura](/herb/kharjura/) — *Phoenix dactylifera L.*
+- [Madayantika](/herb/madayantika/)
+- [Nirgundi](/herb/nirgundi/) — *Vitex negundo L.*
+- [Patola Patra](/herb/patola-patra/)
+- [Priyangu](/herb/priyangu/) — *Callicarpa macrophylla Vahl.*
+- [Saireyaka](/herb/saireyaka/)
+- [Sharapunkha](/herb/sharapunkha/)
+- [Tila Patra](/herb/tila-patra/)
+- [Tulsi](/herb/tulsi/) — *Ocimum tenuiflorum (syn. O. sanctum)*
+- [Vyaghranakhi](/herb/vyaghranakhi/)
+- [Water Hyssop](/herb/water-hyssop/)
 
 #### Often Found With
 
-- [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin) (27 shared sources)
-- [Beta-sitosterol](/nighantu/glossary/compounds-a-c/#betasitosterol) (13 shared sources)
-- [Quercetin](/nighantu/reference/quercetinquercetin/) (12 shared sources)
-- [Ursolic acid](/nighantu/reference/ursolic-acid/) (9 shared sources)
-- [Chlorogenic acid](/nighantu/glossary/compounds-c-d/#chlorogenic-acid) (8 shared sources)
-- [Caffeic acid](/nighantu/glossary/compounds-a-c/#caffeic-acid) (8 shared sources)
-- [Rosmarinic acid](/nighantu/glossary/compounds-q-t/#rosmarinic-acid) (6 shared sources)
-- [Oleanolic acid](/nighantu/reference/oleanolic-acid/) (6 shared sources)
-- [Phenolic acids](/nighantu/glossary/compounds-o-q/#phenolic-acids) (5 shared sources)
-- [Gallic acid](/nighantu/reference/gallic-acid/) (5 shared sources)
+- [Apigenin](/glossary/compounds-1-a/#apigenin) (27 shared sources)
+- [Beta-sitosterol](/glossary/compounds-a-c/#betasitosterol) (13 shared sources)
+- [Quercetin](/reference/quercetinquercetin/) (12 shared sources)
+- [Ursolic acid](/reference/ursolic-acid/) (9 shared sources)
+- [Chlorogenic acid](/glossary/compounds-c-d/#chlorogenic-acid) (8 shared sources)
+- [Caffeic acid](/glossary/compounds-a-c/#caffeic-acid) (8 shared sources)
+- [Rosmarinic acid](/glossary/compounds-q-t/#rosmarinic-acid) (6 shared sources)
+- [Oleanolic acid](/reference/oleanolic-acid/) (6 shared sources)
+- [Phenolic acids](/glossary/compounds-o-q/#phenolic-acids) (5 shared sources)
+- [Gallic acid](/reference/gallic-acid/) (5 shared sources)
 
 ### Luteolin 7 glucoside {#luteolin7glucoside}
 
@@ -284,19 +284,19 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Kushmanda](/nighantu/herb/kushmanda/) — *Benincasa hispida (Thunb.) Cogn.*
-- [Nirgundi](/nighantu/herb/nirgundi/) — *Vitex negundo L.*
-- [Nirgundi Herb](/nighantu/herb/nirgundi-herb/)
+- [Kushmanda](/herb/kushmanda/) — *Benincasa hispida (Thunb.) Cogn.*
+- [Nirgundi](/herb/nirgundi/) — *Vitex negundo L.*
+- [Nirgundi Herb](/herb/nirgundi-herb/)
 
 #### Often Found With
 
-- [Beta-sitosterol](/nighantu/glossary/compounds-a-c/#betasitosterol) (2 shared sources)
-- [Isovitexin](/nighantu/glossary/compounds-g-l/#isovitexin) (2 shared sources)
-- [Agnuside](/nighantu/glossary/compounds-1-a/#agnuside) (2 shared sources)
-- [Vitexin](/nighantu/glossary/compounds-t-z/#vitexin) (2 shared sources)
-- [Casticin](/nighantu/glossary/compounds-c-d/#casticin) (2 shared sources)
-- [Aucubin](/nighantu/glossary/compounds-a-c/#aucubin) (2 shared sources)
-- [Lupeol](/nighantu/reference/lupeol/) (1 shared sources)
+- [Beta-sitosterol](/glossary/compounds-a-c/#betasitosterol) (2 shared sources)
+- [Isovitexin](/glossary/compounds-g-l/#isovitexin) (2 shared sources)
+- [Agnuside](/glossary/compounds-1-a/#agnuside) (2 shared sources)
+- [Vitexin](/glossary/compounds-t-z/#vitexin) (2 shared sources)
+- [Casticin](/glossary/compounds-c-d/#casticin) (2 shared sources)
+- [Aucubin](/glossary/compounds-a-c/#aucubin) (2 shared sources)
+- [Lupeol](/reference/lupeol/) (1 shared sources)
 
 ### Luteolin and apigenin {#luteolin-and-apigeninapigenin}
 
@@ -304,13 +304,13 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Often Found With
 
-- [Alpha-thujone and beta-thujone](/nighantu/glossary/compounds-1-a/#alphathujone-and-betathujone) (1 shared sources)
-- [Camphor](/nighantu/herb/camphor/) (1 shared sources)
-- [Scopoletin](/nighantu/glossary/compounds-q-t/#scopoletin) (1 shared sources)
-- [1,8-Cineole](/nighantu/glossary/compounds-1-a/#18cineole) (1 shared sources)
-- [Sesquiterpenoids](/nighantu/glossary/compounds-q-t/#sesquiterpenoids) (1 shared sources)
-- [Gallic acid and ellagic acid](/nighantu/glossary/compounds-d-g/#gallic-acid-and-ellagic-acid) (1 shared sources)
-- [Ursolic acid](/nighantu/reference/ursolic-acid/) (1 shared sources)
+- [Alpha-thujone and beta-thujone](/glossary/compounds-1-a/#alphathujone-and-betathujone) (1 shared sources)
+- [Camphor](/herb/camphor/) (1 shared sources)
+- [Scopoletin](/glossary/compounds-q-t/#scopoletin) (1 shared sources)
+- [1,8-Cineole](/glossary/compounds-1-a/#18cineole) (1 shared sources)
+- [Sesquiterpenoids](/glossary/compounds-q-t/#sesquiterpenoids) (1 shared sources)
+- [Gallic acid and ellagic acid](/glossary/compounds-d-g/#gallic-acid-and-ellagic-acid) (1 shared sources)
+- [Ursolic acid](/reference/ursolic-acid/) (1 shared sources)
 
 ### Luteolin and luteolin 7 O glucoside {#luteolin-and-luteolin7oglucoside}
 
@@ -318,12 +318,12 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Often Found With
 
-- [Cynarin](/nighantu/glossary/compounds-c-d/#cynarin) (1 shared sources)
-- [Phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols) (1 shared sources)
-- [Chlorogenic acid](/nighantu/glossary/compounds-c-d/#chlorogenic-acid) (1 shared sources)
-- [Inulin](/nighantu/glossary/compounds-g-l/#inulin) (1 shared sources)
-- [Cynaropicrin](/nighantu/glossary/compounds-c-d/#cynaropicrin) (1 shared sources)
-- [Umbelliferone](/nighantu/glossary/compounds-t-z/#umbelliferone) (1 shared sources)
+- [Cynarin](/glossary/compounds-c-d/#cynarin) (1 shared sources)
+- [Phytosterols](/glossary/compounds-o-q/#phytosterols) (1 shared sources)
+- [Chlorogenic acid](/glossary/compounds-c-d/#chlorogenic-acid) (1 shared sources)
+- [Inulin](/glossary/compounds-g-l/#inulin) (1 shared sources)
+- [Cynaropicrin](/glossary/compounds-c-d/#cynaropicrin) (1 shared sources)
+- [Umbelliferone](/glossary/compounds-t-z/#umbelliferone) (1 shared sources)
 
 ### Luvangetin {#luvangetin}
 
@@ -331,19 +331,19 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Bilva](/nighantu/herb/bilva/)
-- [Bilwa Patra](/nighantu/herb/bilwa-patra/) — *Aegle marmelos (L.) Correa (leaves)*
-- [Kapittha](/nighantu/herb/kapittha/) — *Limonia acidissima Groff (syn. Feronia limonia (L.) Swingle)*
+- [Bilva](/herb/bilva/)
+- [Bilwa Patra](/herb/bilwa-patra/) — *Aegle marmelos (L.) Correa (leaves)*
+- [Kapittha](/herb/kapittha/) — *Limonia acidissima Groff (syn. Feronia limonia (L.) Swingle)*
 
 #### Often Found With
 
-- [Imperatorin](/nighantu/glossary/compounds-g-l/#imperatorin) (2 shared sources)
-- [Marmelosin](/nighantu/glossary/compounds-l-o/#marmelosin) (2 shared sources)
-- [Aegeline](/nighantu/glossary/compounds-1-a/#aegeline) (2 shared sources)
-- [Psoralen](/nighantu/glossary/compounds-o-q/#psoralen) (2 shared sources)
-- [Skimmianine](/nighantu/glossary/compounds-q-t/#skimmianine) (2 shared sources)
-- [Marmelide](/nighantu/glossary/compounds-l-o/#marmelide) (1 shared sources)
-- [Umbelliferone](/nighantu/glossary/compounds-t-z/#umbelliferone) (1 shared sources)
+- [Imperatorin](/glossary/compounds-g-l/#imperatorin) (2 shared sources)
+- [Marmelosin](/glossary/compounds-l-o/#marmelosin) (2 shared sources)
+- [Aegeline](/glossary/compounds-1-a/#aegeline) (2 shared sources)
+- [Psoralen](/glossary/compounds-o-q/#psoralen) (2 shared sources)
+- [Skimmianine](/glossary/compounds-q-t/#skimmianine) (2 shared sources)
+- [Marmelide](/glossary/compounds-l-o/#marmelide) (1 shared sources)
+- [Umbelliferone](/glossary/compounds-t-z/#umbelliferone) (1 shared sources)
 
 ### Madecassic acid {#madecassic-acid}
 
@@ -351,15 +351,15 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Mandukparni](/nighantu/herb/mandukparni/)
+- [Mandukparni](/herb/mandukparni/)
 
 #### Often Found With
 
-- [Asiatic acid](/nighantu/glossary/compounds-a-c/#asiatic-acid) (4 shared sources)
-- [Asiaticoside](/nighantu/glossary/compounds-a-c/#asiaticoside) (4 shared sources)
-- [Madecassoside](/nighantu/glossary/compounds-l-o/#madecassoside) (4 shared sources)
-- [Flavonoids](/nighantu/reference/flavonoids/) (1 shared sources)
-- [Volatile oils](/nighantu/glossary/compounds-t-z/#volatile-oils) (1 shared sources)
+- [Asiatic acid](/glossary/compounds-a-c/#asiatic-acid) (4 shared sources)
+- [Asiaticoside](/glossary/compounds-a-c/#asiaticoside) (4 shared sources)
+- [Madecassoside](/glossary/compounds-l-o/#madecassoside) (4 shared sources)
+- [Flavonoids](/reference/flavonoids/) (1 shared sources)
+- [Volatile oils](/glossary/compounds-t-z/#volatile-oils) (1 shared sources)
 
 ### Madecassoside {#madecassoside}
 
@@ -367,15 +367,15 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Mandukparni](/nighantu/herb/mandukparni/)
+- [Mandukparni](/herb/mandukparni/)
 
 #### Often Found With
 
-- [Asiatic acid](/nighantu/glossary/compounds-a-c/#asiatic-acid) (4 shared sources)
-- [Madecassic acid](/nighantu/glossary/compounds-l-o/#madecassic-acid) (4 shared sources)
-- [Asiaticoside](/nighantu/glossary/compounds-a-c/#asiaticoside) (4 shared sources)
-- [Flavonoids](/nighantu/reference/flavonoids/) (1 shared sources)
-- [Volatile oils](/nighantu/glossary/compounds-t-z/#volatile-oils) (1 shared sources)
+- [Asiatic acid](/glossary/compounds-a-c/#asiatic-acid) (4 shared sources)
+- [Madecassic acid](/glossary/compounds-l-o/#madecassic-acid) (4 shared sources)
+- [Asiaticoside](/glossary/compounds-a-c/#asiaticoside) (4 shared sources)
+- [Flavonoids](/reference/flavonoids/) (1 shared sources)
+- [Volatile oils](/glossary/compounds-t-z/#volatile-oils) (1 shared sources)
 
 ### Magnesium {#magnesium}
 
@@ -383,24 +383,24 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Guda](/nighantu/glossary/concepts-a-m/#guda)
-- [Kanmad Bhasma](/nighantu/herb/kanmad-bhasma/)
-- [Mukta Pishti](/nighantu/herb/mukta-pishti/)
-- [Narikela Jala](/nighantu/herb/narikela-jala/)
-- [Pravala Pishti](/nighantu/herb/pravala-pishti/)
-- [Saindhava Lavana](/nighantu/herb/saindhava-lavana/)
-- [Samudra Lavana](/nighantu/herb/samudra-lavana/)
-- [Souvarchala Lavana](/nighantu/herb/souvarchala-lavana/)
-- [Yavakshara](/nighantu/herb/yavakshara/)
+- [Guda](/glossary/concepts-a-m/#guda)
+- [Kanmad Bhasma](/herb/kanmad-bhasma/)
+- [Mukta Pishti](/herb/mukta-pishti/)
+- [Narikela Jala](/herb/narikela-jala/)
+- [Pravala Pishti](/herb/pravala-pishti/)
+- [Saindhava Lavana](/herb/saindhava-lavana/)
+- [Samudra Lavana](/herb/samudra-lavana/)
+- [Souvarchala Lavana](/herb/souvarchala-lavana/)
+- [Yavakshara](/herb/yavakshara/)
 
 #### Often Found With
 
-- [Calcium carbonate](/nighantu/glossary/compounds-a-c/#calcium-carbonate) (7 shared sources)
-- [Potassium](/nighantu/glossary/compounds-o-q/#potassium) (6 shared sources)
-- [Strontium](/nighantu/glossary/compounds-q-t/#strontium) (4 shared sources)
-- [Sodium chloride](/nighantu/glossary/compounds-q-t/#sodium-chloride) (3 shared sources)
-- [Manganese](/nighantu/glossary/compounds-l-o/#manganese) (3 shared sources)
-- [Iron oxide](/nighantu/glossary/compounds-g-l/#iron-oxide) (2 shared sources)
+- [Calcium carbonate](/glossary/compounds-a-c/#calcium-carbonate) (7 shared sources)
+- [Potassium](/glossary/compounds-o-q/#potassium) (6 shared sources)
+- [Strontium](/glossary/compounds-q-t/#strontium) (4 shared sources)
+- [Sodium chloride](/glossary/compounds-q-t/#sodium-chloride) (3 shared sources)
+- [Manganese](/glossary/compounds-l-o/#manganese) (3 shared sources)
+- [Iron oxide](/glossary/compounds-g-l/#iron-oxide) (2 shared sources)
 
 ### Magnesium oxide {#magnesium-oxide}
 
@@ -408,16 +408,16 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Abhraka Bhasma](/nighantu/herb/abhraka-bhasma/)
-- [Masi](/nighantu/herb/masi/)
-- [Shukti Bhasma](/nighantu/herb/shukti-bhasma/)
+- [Abhraka Bhasma](/herb/abhraka-bhasma/)
+- [Masi](/herb/masi/)
+- [Shukti Bhasma](/herb/shukti-bhasma/)
 
 #### Often Found With
 
-- [Iron oxide](/nighantu/glossary/compounds-g-l/#iron-oxide) (3 shared sources)
-- [Calcium oxide](/nighantu/glossary/compounds-a-c/#calcium-oxide) (2 shared sources)
-- [Silica](/nighantu/glossary/compounds-q-t/#silica) (2 shared sources)
-- [Aluminium oxide](/nighantu/glossary/compounds-1-a/#aluminium-oxide) (2 shared sources)
+- [Iron oxide](/glossary/compounds-g-l/#iron-oxide) (3 shared sources)
+- [Calcium oxide](/glossary/compounds-a-c/#calcium-oxide) (2 shared sources)
+- [Silica](/glossary/compounds-q-t/#silica) (2 shared sources)
+- [Aluminium oxide](/glossary/compounds-1-a/#aluminium-oxide) (2 shared sources)
 
 ### Magnoflorine {#magnoflorine}
 
@@ -425,24 +425,24 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Ambasthaki](/nighantu/herb/ambasthaki/) — *Cissampelos pareira L.*
-- [Amritarishta](/nighantu/formulation/amritarishta/)
-- [Guduchi](/nighantu/herb/guduchi/) — *Tinospora cordifolia*
-- [Guloochyadi Kashayam](/nighantu/formulation/guloochyadi-kashayam/)
-- [Mamsarohini](/nighantu/herb/mamsarohini/)
+- [Ambasthaki](/herb/ambasthaki/) — *Cissampelos pareira L.*
+- [Amritarishta](/formulation/amritarishta/)
+- [Guduchi](/herb/guduchi/) — *Tinospora cordifolia*
+- [Guloochyadi Kashayam](/formulation/guloochyadi-kashayam/)
+- [Mamsarohini](/herb/mamsarohini/)
 
 #### Often Found With
 
-- [Berberine](/nighantu/glossary/compounds-a-c/#berberine) (8 shared sources)
-- [Palmatine](/nighantu/glossary/compounds-o-q/#palmatine) (8 shared sources)
-- [Columbin](/nighantu/glossary/compounds-c-d/#columbin) (3 shared sources)
-- [Tinosporaside](/nighantu/glossary/compounds-t-z/#tinosporaside) (3 shared sources)
-- [Jatrorrhizine](/nighantu/glossary/compounds-g-l/#jatrorrhizine) (3 shared sources)
-- [Columbamine](/nighantu/glossary/compounds-c-d/#columbamine) (3 shared sources)
-- [Arabinogalactan](/nighantu/glossary/compounds-1-a/#arabinogalactan) (2 shared sources)
-- [Beta-sitosterol](/nighantu/glossary/compounds-a-c/#betasitosterol) (2 shared sources)
-- [Tinosporin](/nighantu/glossary/compounds-t-z/#tinosporin) (2 shared sources)
-- [Berberine](/nighantu/glossary/compounds-a-c/#berberine) (2 shared sources)
+- [Berberine](/glossary/compounds-a-c/#berberine) (8 shared sources)
+- [Palmatine](/glossary/compounds-o-q/#palmatine) (8 shared sources)
+- [Columbin](/glossary/compounds-c-d/#columbin) (3 shared sources)
+- [Tinosporaside](/glossary/compounds-t-z/#tinosporaside) (3 shared sources)
+- [Jatrorrhizine](/glossary/compounds-g-l/#jatrorrhizine) (3 shared sources)
+- [Columbamine](/glossary/compounds-c-d/#columbamine) (3 shared sources)
+- [Arabinogalactan](/glossary/compounds-1-a/#arabinogalactan) (2 shared sources)
+- [Beta-sitosterol](/glossary/compounds-a-c/#betasitosterol) (2 shared sources)
+- [Tinosporin](/glossary/compounds-t-z/#tinosporin) (2 shared sources)
+- [Berberine](/glossary/compounds-a-c/#berberine) (2 shared sources)
 
 ### Malic acid {#malic-acid}
 
@@ -450,25 +450,25 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Amlavetasa](/nighantu/herb/amlavetasa/) — *Garcinia pedunculata Roxb. ex Buch.-Ham. (primary); Rheum emodi Wall. ex Meissn. (substitute)*
-- [Madhukarkati](/nighantu/herb/madhukarkati/)
-- [Matulunga Rasa](/nighantu/herb/matulunga-rasa/)
-- [Narikela Jala](/nighantu/herb/narikela-jala/)
-- [Tintidika](/nighantu/herb/tintidika/)
-- [Vrikshamla Phala](/nighantu/herb/vrikshamla-phala/)
+- [Amlavetasa](/herb/amlavetasa/) — *Garcinia pedunculata Roxb. ex Buch.-Ham. (primary); Rheum emodi Wall. ex Meissn. (substitute)*
+- [Madhukarkati](/herb/madhukarkati/)
+- [Matulunga Rasa](/herb/matulunga-rasa/)
+- [Narikela Jala](/herb/narikela-jala/)
+- [Tintidika](/herb/tintidika/)
+- [Vrikshamla Phala](/herb/vrikshamla-phala/)
 
 #### Often Found With
 
-- [Citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid) (6 shared sources)
-- [Ursolic acid](/nighantu/reference/ursolic-acid/) (4 shared sources)
-- [Tartaric acid](/nighantu/glossary/compounds-t-z/#tartaric-acid) (3 shared sources)
-- [Chlorogenic acid](/nighantu/glossary/compounds-c-d/#chlorogenic-acid) (3 shared sources)
-- [Kaempferol](/nighantu/reference/kaempferol/) (3 shared sources)
-- [Succinic acid](/nighantu/glossary/compounds-q-t/#succinic-acid) (3 shared sources)
-- [Caffeic acid](/nighantu/glossary/compounds-a-c/#caffeic-acid) (3 shared sources)
-- [Garcinol](/nighantu/glossary/compounds-d-g/#garcinol) (2 shared sources)
-- [Linoleic acid](/nighantu/glossary/compounds-l-o/#linoleic-acid) (2 shared sources)
-- [Mucilage](/nighantu/glossary/compounds-l-o/#mucilage) (2 shared sources)
+- [Citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid) (6 shared sources)
+- [Ursolic acid](/reference/ursolic-acid/) (4 shared sources)
+- [Tartaric acid](/glossary/compounds-t-z/#tartaric-acid) (3 shared sources)
+- [Chlorogenic acid](/glossary/compounds-c-d/#chlorogenic-acid) (3 shared sources)
+- [Kaempferol](/reference/kaempferol/) (3 shared sources)
+- [Succinic acid](/glossary/compounds-q-t/#succinic-acid) (3 shared sources)
+- [Caffeic acid](/glossary/compounds-a-c/#caffeic-acid) (3 shared sources)
+- [Garcinol](/glossary/compounds-d-g/#garcinol) (2 shared sources)
+- [Linoleic acid](/glossary/compounds-l-o/#linoleic-acid) (2 shared sources)
+- [Mucilage](/glossary/compounds-l-o/#mucilage) (2 shared sources)
 
 ### Manganese {#manganese}
 
@@ -476,20 +476,20 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Gomeda Bhasma](/nighantu/herb/gomeda-bhasma/)
-- [Shrigataka](/nighantu/herb/shrigataka/) — *Trapa natans L. (syn. Trapa bispinosa Roxb.)*
-- [Souvarchala Lavana](/nighantu/herb/souvarchala-lavana/)
+- [Gomeda Bhasma](/herb/gomeda-bhasma/)
+- [Shrigataka](/herb/shrigataka/) — *Trapa natans L. (syn. Trapa bispinosa Roxb.)*
+- [Souvarchala Lavana](/herb/souvarchala-lavana/)
 
 #### Often Found With
 
-- [Magnesium](/nighantu/glossary/compounds-l-o/#magnesium) (3 shared sources)
-- [Silicon dioxide](/nighantu/glossary/compounds-q-t/#silicon-dioxide) (2 shared sources)
-- [Potassium](/nighantu/glossary/compounds-o-q/#potassium) (2 shared sources)
-- [Calcium carbonate](/nighantu/glossary/compounds-a-c/#calcium-carbonate) (2 shared sources)
-- [Zinc](/nighantu/glossary/compounds-t-z/#zinc) (2 shared sources)
-- [Quercetin](/nighantu/reference/quercetinquercetin/) (1 shared sources)
-- [Beta-sitosterol](/nighantu/glossary/compounds-a-c/#betasitosterol) (1 shared sources)
-- [Riboflavin](/nighantu/glossary/compounds-q-t/#riboflavin) (1 shared sources)
+- [Magnesium](/glossary/compounds-l-o/#magnesium) (3 shared sources)
+- [Silicon dioxide](/glossary/compounds-q-t/#silicon-dioxide) (2 shared sources)
+- [Potassium](/glossary/compounds-o-q/#potassium) (2 shared sources)
+- [Calcium carbonate](/glossary/compounds-a-c/#calcium-carbonate) (2 shared sources)
+- [Zinc](/glossary/compounds-t-z/#zinc) (2 shared sources)
+- [Quercetin](/reference/quercetinquercetin/) (1 shared sources)
+- [Beta-sitosterol](/glossary/compounds-a-c/#betasitosterol) (1 shared sources)
+- [Riboflavin](/glossary/compounds-q-t/#riboflavin) (1 shared sources)
 
 ### Mangiferin {#mangiferin}
 
@@ -497,23 +497,23 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Amra](/nighantu/herb/amra/) — *Mangifera indica L.*
-- [Chirayata](/nighantu/herb/chirayata/)
-- [Kiratatikta](/nighantu/herb/kiratatikta/)
-- [Mochras](/nighantu/herb/mochras/) — *Salmalia malabarica (DC.) Schott & Endl. (syn. Bombax ceiba L.) - resin exudate*
-- [Shalmali](/nighantu/herb/shalmali/)
+- [Amra](/herb/amra/) — *Mangifera indica L.*
+- [Chirayata](/herb/chirayata/)
+- [Kiratatikta](/herb/kiratatikta/)
+- [Mochras](/herb/mochras/) — *Salmalia malabarica (DC.) Schott & Endl. (syn. Bombax ceiba L.) - resin exudate*
+- [Shalmali](/herb/shalmali/)
 
 #### Often Found With
 
-- [Swertiamarin](/nighantu/glossary/compounds-q-t/#swertiamarin) (4 shared sources)
-- [Gallic acid](/nighantu/reference/gallic-acid/) (3 shared sources)
-- [Sweroside](/nighantu/glossary/compounds-q-t/#sweroside) (3 shared sources)
-- [Oleanolic acid](/nighantu/reference/oleanolic-acid/) (3 shared sources)
-- [Beta-sitosterol](/nighantu/glossary/compounds-a-c/#betasitosterol) (2 shared sources)
-- [Lupeol](/nighantu/reference/lupeol/) (2 shared sources)
-- [Flavonoids](/nighantu/reference/flavonoids/) (2 shared sources)
-- [Kaempferol](/nighantu/reference/kaempferol/) (2 shared sources)
-- [Ursolic acid](/nighantu/reference/ursolic-acid/) (2 shared sources)
+- [Swertiamarin](/glossary/compounds-q-t/#swertiamarin) (4 shared sources)
+- [Gallic acid](/reference/gallic-acid/) (3 shared sources)
+- [Sweroside](/glossary/compounds-q-t/#sweroside) (3 shared sources)
+- [Oleanolic acid](/reference/oleanolic-acid/) (3 shared sources)
+- [Beta-sitosterol](/glossary/compounds-a-c/#betasitosterol) (2 shared sources)
+- [Lupeol](/reference/lupeol/) (2 shared sources)
+- [Flavonoids](/reference/flavonoids/) (2 shared sources)
+- [Kaempferol](/reference/kaempferol/) (2 shared sources)
+- [Ursolic acid](/reference/ursolic-acid/) (2 shared sources)
 
 ### Mannitol {#mannitolmannitol}
 
@@ -521,16 +521,16 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Madanaphala](/nighantu/herb/madanaphala/) — *Randia dumetorum (Retz.) Lam. (syn. Randia spinosa, Catunaregam spinosa)*
+- [Madanaphala](/herb/madanaphala/) — *Randia dumetorum (Retz.) Lam. (syn. Randia spinosa, Catunaregam spinosa)*
 
 #### Often Found With
 
-- [Alginate](/nighantu/glossary/compounds-1-a/#alginate) (3 shared sources)
-- [Fucoidan](/nighantu/glossary/compounds-d-g/#fucoidanfucoidan) (3 shared sources)
-- [Iodine](/nighantu/glossary/compounds-g-l/#iodine) (3 shared sources)
-- [Fucoxanthin](/nighantu/glossary/compounds-d-g/#fucoxanthin) (2 shared sources)
-- [Coumarins](/nighantu/glossary/compounds-c-d/#coumarins) (2 shared sources)
-- [Polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides) (2 shared sources)
+- [Alginate](/glossary/compounds-1-a/#alginate) (3 shared sources)
+- [Fucoidan](/glossary/compounds-d-g/#fucoidanfucoidan) (3 shared sources)
+- [Iodine](/glossary/compounds-g-l/#iodine) (3 shared sources)
+- [Fucoxanthin](/glossary/compounds-d-g/#fucoxanthin) (2 shared sources)
+- [Coumarins](/glossary/compounds-c-d/#coumarins) (2 shared sources)
+- [Polysaccharides](/glossary/compounds-o-q/#polysaccharides) (2 shared sources)
 
 ### Marmelide {#marmelide}
 
@@ -538,20 +538,20 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Bilva](/nighantu/herb/bilva/)
-- [Bilva Majja](/nighantu/herb/bilva-majja/) — *Aegle marmelos (L.) Correa (fruit pulp)*
-- [Bilwadi Leha](/nighantu/formulation/bilwadi-leha/)
+- [Bilva](/herb/bilva/)
+- [Bilva Majja](/herb/bilva-majja/) — *Aegle marmelos (L.) Correa (fruit pulp)*
+- [Bilwadi Leha](/formulation/bilwadi-leha/)
 
 #### Often Found With
 
-- [Marmelosin](/nighantu/glossary/compounds-l-o/#marmelosin) (3 shared sources)
-- [Umbelliferone](/nighantu/glossary/compounds-t-z/#umbelliferone) (2 shared sources)
-- [Skimmianine](/nighantu/glossary/compounds-q-t/#skimmianine) (2 shared sources)
-- [Imperatorin](/nighantu/glossary/compounds-g-l/#imperatorin) (2 shared sources)
-- [Aegeline](/nighantu/glossary/compounds-1-a/#aegeline) (2 shared sources)
-- [Psoralen](/nighantu/glossary/compounds-o-q/#psoralen) (2 shared sources)
-- [Luvangetin](/nighantu/glossary/compounds-l-o/#luvangetin) (1 shared sources)
-- [Riboflavin](/nighantu/glossary/compounds-q-t/#riboflavin) (1 shared sources)
+- [Marmelosin](/glossary/compounds-l-o/#marmelosin) (3 shared sources)
+- [Umbelliferone](/glossary/compounds-t-z/#umbelliferone) (2 shared sources)
+- [Skimmianine](/glossary/compounds-q-t/#skimmianine) (2 shared sources)
+- [Imperatorin](/glossary/compounds-g-l/#imperatorin) (2 shared sources)
+- [Aegeline](/glossary/compounds-1-a/#aegeline) (2 shared sources)
+- [Psoralen](/glossary/compounds-o-q/#psoralen) (2 shared sources)
+- [Luvangetin](/glossary/compounds-l-o/#luvangetin) (1 shared sources)
+- [Riboflavin](/glossary/compounds-q-t/#riboflavin) (1 shared sources)
 
 ### Marmelosin {#marmelosin}
 
@@ -559,27 +559,27 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Bilva](/nighantu/herb/bilva/)
-- [Bilva Majja](/nighantu/herb/bilva-majja/) — *Aegle marmelos (L.) Correa (fruit pulp)*
-- [Bilwadi Leha](/nighantu/formulation/bilwadi-leha/)
-- [Dashamoola Katutraya Kashayam](/nighantu/formulation/dashamoola-katutraya-kashayam/)
-- [Dashamularishta](/nighantu/formulation/dashamularishta/)
-- [Dashmool Dashmoolarishta](/nighantu/formulation/dashmool-dashmoolarishta/)
-- [Dhanwantaram Kashayam](/nighantu/formulation/dhanwantaram-kashayam/)
-- [Indukantham Ghritam](/nighantu/formulation/indukantham-ghritam/)
-- [Kapittha](/nighantu/herb/kapittha/) — *Limonia acidissima Groff (syn. Feronia limonia (L.) Swingle)*
+- [Bilva](/herb/bilva/)
+- [Bilva Majja](/herb/bilva-majja/) — *Aegle marmelos (L.) Correa (fruit pulp)*
+- [Bilwadi Leha](/formulation/bilwadi-leha/)
+- [Dashamoola Katutraya Kashayam](/formulation/dashamoola-katutraya-kashayam/)
+- [Dashamularishta](/formulation/dashamularishta/)
+- [Dashmool Dashmoolarishta](/formulation/dashmool-dashmoolarishta/)
+- [Dhanwantaram Kashayam](/formulation/dhanwantaram-kashayam/)
+- [Indukantham Ghritam](/formulation/indukantham-ghritam/)
+- [Kapittha](/herb/kapittha/) — *Limonia acidissima Groff (syn. Feronia limonia (L.) Swingle)*
 
 #### Often Found With
 
-- [Lupeol](/nighantu/reference/lupeol/) (5 shared sources)
-- [Solasodine](/nighantu/glossary/compounds-q-t/#solasodine) (3 shared sources)
-- [Beta-sitosterol](/nighantu/glossary/compounds-a-c/#betasitosterol) (3 shared sources)
-- [Marmelide](/nighantu/glossary/compounds-l-o/#marmelide) (3 shared sources)
-- [Psoralen](/nighantu/glossary/compounds-o-q/#psoralen) (3 shared sources)
-- [Ursolic acid](/nighantu/reference/ursolic-acid/) (2 shared sources)
-- [Ephedrine](/nighantu/glossary/compounds-d-g/#ephedrine) (2 shared sources)
-- [6-Gingerol](/nighantu/glossary/compounds-1-a/#6gingerol) (2 shared sources)
-- [Umbelliferone](/nighantu/glossary/compounds-t-z/#umbelliferone) (2 shared sources)
+- [Lupeol](/reference/lupeol/) (5 shared sources)
+- [Solasodine](/glossary/compounds-q-t/#solasodine) (3 shared sources)
+- [Beta-sitosterol](/glossary/compounds-a-c/#betasitosterol) (3 shared sources)
+- [Marmelide](/glossary/compounds-l-o/#marmelide) (3 shared sources)
+- [Psoralen](/glossary/compounds-o-q/#psoralen) (3 shared sources)
+- [Ursolic acid](/reference/ursolic-acid/) (2 shared sources)
+- [Ephedrine](/glossary/compounds-d-g/#ephedrine) (2 shared sources)
+- [6-Gingerol](/glossary/compounds-1-a/#6gingerol) (2 shared sources)
+- [Umbelliferone](/glossary/compounds-t-z/#umbelliferone) (2 shared sources)
 
 ### Marsupsin {#marsupsin}
 
@@ -587,18 +587,18 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Asana](/nighantu/herb/asana/) — *Pterocarpus marsupium Roxb.*
-- [Asanadi Kwath](/nighantu/formulation/asanadi-kwath/)
-- [Vijaysar](/nighantu/herb/vijaysar/)
+- [Asana](/herb/asana/) — *Pterocarpus marsupium Roxb.*
+- [Asanadi Kwath](/formulation/asanadi-kwath/)
+- [Vijaysar](/herb/vijaysar/)
 
 #### Often Found With
 
-- [Liquiritigenin](/nighantu/glossary/compounds-l-o/#liquiritigenin) (3 shared sources)
-- [Pterostilbene](/nighantu/glossary/compounds-o-q/#pterostilbene) (3 shared sources)
-- [Epicatechin](/nighantu/glossary/compounds-d-g/#epicatechin) (3 shared sources)
-- [Pterosupin](/nighantu/glossary/compounds-o-q/#pterosupin) (3 shared sources)
-- [Isoliquiritigenin](/nighantu/glossary/compounds-g-l/#isoliquiritigenin) (2 shared sources)
-- [Pterocarpol](/nighantu/glossary/compounds-o-q/#pterocarpol) (2 shared sources)
+- [Liquiritigenin](/glossary/compounds-l-o/#liquiritigenin) (3 shared sources)
+- [Pterostilbene](/glossary/compounds-o-q/#pterostilbene) (3 shared sources)
+- [Epicatechin](/glossary/compounds-d-g/#epicatechin) (3 shared sources)
+- [Pterosupin](/glossary/compounds-o-q/#pterosupin) (3 shared sources)
+- [Isoliquiritigenin](/glossary/compounds-g-l/#isoliquiritigenin) (2 shared sources)
+- [Pterocarpol](/glossary/compounds-o-q/#pterocarpol) (2 shared sources)
 
 ### Matricin {#matricin}
 
@@ -606,10 +606,10 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Often Found With
 
-- [Chamazulene](/nighantu/glossary/compounds-c-d/#chamazulene) (3 shared sources)
-- [Coumarins](/nighantu/glossary/compounds-c-d/#coumarins) (2 shared sources)
-- [Flavonoids](/nighantu/reference/flavonoids/) (1 shared sources)
-- [Phenolic acids](/nighantu/glossary/compounds-o-q/#phenolic-acids) (1 shared sources)
+- [Chamazulene](/glossary/compounds-c-d/#chamazulene) (3 shared sources)
+- [Coumarins](/glossary/compounds-c-d/#coumarins) (2 shared sources)
+- [Flavonoids](/reference/flavonoids/) (1 shared sources)
+- [Phenolic acids](/glossary/compounds-o-q/#phenolic-acids) (1 shared sources)
 
 ### Medium chain triglycerides {#mediumchain-triglycerides}
 
@@ -617,21 +617,21 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Aja Dugdha](/nighantu/glossary/concepts-a-m/#aja-dugdha)
-- [Aja Dugdha Goat Milk](/nighantu/herb/aja-dugdha-goat-milk/)
-- [Coconut Oil](/nighantu/glossary/concepts-a-m/#coconut-oil)
-- [Coconut Oil Narikela Taila](/nighantu/formulation/coconut-oil-narikela-taila/)
+- [Aja Dugdha](/glossary/concepts-a-m/#aja-dugdha)
+- [Aja Dugdha Goat Milk](/herb/aja-dugdha-goat-milk/)
+- [Coconut Oil](/glossary/concepts-a-m/#coconut-oil)
+- [Coconut Oil Narikela Taila](/formulation/coconut-oil-narikela-taila/)
 
 #### Often Found With
 
-- [Myristic acid](/nighantu/glossary/compounds-l-o/#myristic-acid) (2 shared sources)
-- [Capric acid](/nighantu/glossary/compounds-a-c/#capric-acid) (2 shared sources)
-- [Lauric acid](/nighantu/glossary/compounds-g-l/#lauric-acid) (2 shared sources)
-- [Phosphorus](/nighantu/glossary/compounds-o-q/#phosphorus) (2 shared sources)
-- [A2 beta-casein](/nighantu/glossary/compounds-1-a/#a2-betacasein) (2 shared sources)
-- [Tocopherols](/nighantu/glossary/compounds-t-z/#tocopherols) (1 shared sources)
-- [Caprylic acid](/nighantu/glossary/compounds-a-c/#caprylic-acid) (1 shared sources)
-- [Phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols) (1 shared sources)
+- [Myristic acid](/glossary/compounds-l-o/#myristic-acid) (2 shared sources)
+- [Capric acid](/glossary/compounds-a-c/#capric-acid) (2 shared sources)
+- [Lauric acid](/glossary/compounds-g-l/#lauric-acid) (2 shared sources)
+- [Phosphorus](/glossary/compounds-o-q/#phosphorus) (2 shared sources)
+- [A2 beta-casein](/glossary/compounds-1-a/#a2-betacasein) (2 shared sources)
+- [Tocopherols](/glossary/compounds-t-z/#tocopherols) (1 shared sources)
+- [Caprylic acid](/glossary/compounds-a-c/#caprylic-acid) (1 shared sources)
+- [Phytosterols](/glossary/compounds-o-q/#phytosterols) (1 shared sources)
 
 ### Melittoside {#melittoside}
 
@@ -639,11 +639,11 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Often Found With
 
-- [Leonuride](/nighantu/glossary/compounds-g-l/#leonuride) (3 shared sources)
-- [Acteoside](/nighantu/glossary/compounds-1-a/#acteoside) (3 shared sources)
-- [Catalpol](/nighantu/glossary/compounds-c-d/#catalpol) (3 shared sources)
-- [Stachyose](/nighantu/glossary/compounds-q-t/#stachyose) (2 shared sources)
-- [5-Hydroxymethylfurfural](/nighantu/glossary/compounds-1-a/#5hydroxymethylfurfural) (1 shared sources)
+- [Leonuride](/glossary/compounds-g-l/#leonuride) (3 shared sources)
+- [Acteoside](/glossary/compounds-1-a/#acteoside) (3 shared sources)
+- [Catalpol](/glossary/compounds-c-d/#catalpol) (3 shared sources)
+- [Stachyose](/glossary/compounds-q-t/#stachyose) (2 shared sources)
+- [5-Hydroxymethylfurfural](/glossary/compounds-1-a/#5hydroxymethylfurfural) (1 shared sources)
 
 ### Menthol {#mentholmenthol}
 
@@ -651,19 +651,19 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Pudina](/nighantu/herb/pudina/) — *Mentha spicata*
+- [Pudina](/herb/pudina/) — *Mentha spicata*
 
 #### Often Found With
 
-- [Menthyl acetate](/nighantu/glossary/compounds-l-o/#menthyl-acetate) (4 shared sources)
-- [Pulegone](/nighantu/glossary/compounds-o-q/#pulegone) (4 shared sources)
-- [Menthone](/nighantu/glossary/compounds-l-o/#menthone) (4 shared sources)
-- [1,8-Cineole](/nighantu/glossary/compounds-1-a/#18cineole) (4 shared sources)
-- [Limonene](/nighantu/glossary/compounds-g-l/#limonene) (3 shared sources)
-- [Rosmarinic acid](/nighantu/glossary/compounds-q-t/#rosmarinic-acid) (2 shared sources)
-- [Isomenthone](/nighantu/glossary/compounds-g-l/#isomenthone) (2 shared sources)
-- [Flavonoids](/nighantu/reference/flavonoids/) (2 shared sources)
-- [Quercetin](/nighantu/reference/quercetinquercetin/) (1 shared sources)
+- [Menthyl acetate](/glossary/compounds-l-o/#menthyl-acetate) (4 shared sources)
+- [Pulegone](/glossary/compounds-o-q/#pulegone) (4 shared sources)
+- [Menthone](/glossary/compounds-l-o/#menthone) (4 shared sources)
+- [1,8-Cineole](/glossary/compounds-1-a/#18cineole) (4 shared sources)
+- [Limonene](/glossary/compounds-g-l/#limonene) (3 shared sources)
+- [Rosmarinic acid](/glossary/compounds-q-t/#rosmarinic-acid) (2 shared sources)
+- [Isomenthone](/glossary/compounds-g-l/#isomenthone) (2 shared sources)
+- [Flavonoids](/reference/flavonoids/) (2 shared sources)
+- [Quercetin](/reference/quercetinquercetin/) (1 shared sources)
 
 ### Menthone {#menthone}
 
@@ -671,19 +671,19 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Menthol](/nighantu/herb/menthol/)
-- [Pudina](/nighantu/herb/pudina/) — *Mentha spicata*
+- [Menthol](/herb/menthol/)
+- [Pudina](/herb/pudina/) — *Mentha spicata*
 
 #### Often Found With
 
-- [Isomenthone](/nighantu/glossary/compounds-g-l/#isomenthone) (5 shared sources)
-- [Menthyl acetate](/nighantu/glossary/compounds-l-o/#menthyl-acetate) (5 shared sources)
-- [Pulegone](/nighantu/glossary/compounds-o-q/#pulegone) (5 shared sources)
-- [Limonene](/nighantu/glossary/compounds-g-l/#limonene) (4 shared sources)
-- [1,8-Cineole](/nighantu/glossary/compounds-1-a/#18cineole) (4 shared sources)
-- [Menthol](/nighantu/herb/menthol/) (4 shared sources)
-- [Rosmarinic acid](/nighantu/glossary/compounds-q-t/#rosmarinic-acid) (2 shared sources)
-- [Flavonoids](/nighantu/reference/flavonoids/) (2 shared sources)
+- [Isomenthone](/glossary/compounds-g-l/#isomenthone) (5 shared sources)
+- [Menthyl acetate](/glossary/compounds-l-o/#menthyl-acetate) (5 shared sources)
+- [Pulegone](/glossary/compounds-o-q/#pulegone) (5 shared sources)
+- [Limonene](/glossary/compounds-g-l/#limonene) (4 shared sources)
+- [1,8-Cineole](/glossary/compounds-1-a/#18cineole) (4 shared sources)
+- [Menthol](/herb/menthol/) (4 shared sources)
+- [Rosmarinic acid](/glossary/compounds-q-t/#rosmarinic-acid) (2 shared sources)
+- [Flavonoids](/reference/flavonoids/) (2 shared sources)
 
 ### Menthyl acetate {#menthyl-acetate}
 
@@ -691,19 +691,19 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Menthol](/nighantu/herb/menthol/)
-- [Pudina](/nighantu/herb/pudina/) — *Mentha spicata*
+- [Menthol](/herb/menthol/)
+- [Pudina](/herb/pudina/) — *Mentha spicata*
 
 #### Often Found With
 
-- [Menthone](/nighantu/glossary/compounds-l-o/#menthone) (5 shared sources)
-- [Pulegone](/nighantu/glossary/compounds-o-q/#pulegone) (4 shared sources)
-- [1,8-Cineole](/nighantu/glossary/compounds-1-a/#18cineole) (4 shared sources)
-- [Menthol](/nighantu/herb/menthol/) (4 shared sources)
-- [Isomenthone](/nighantu/glossary/compounds-g-l/#isomenthone) (3 shared sources)
-- [Limonene](/nighantu/glossary/compounds-g-l/#limonene) (3 shared sources)
-- [Rosmarinic acid](/nighantu/glossary/compounds-q-t/#rosmarinic-acid) (2 shared sources)
-- [Flavonoids](/nighantu/reference/flavonoids/) (2 shared sources)
+- [Menthone](/glossary/compounds-l-o/#menthone) (5 shared sources)
+- [Pulegone](/glossary/compounds-o-q/#pulegone) (4 shared sources)
+- [1,8-Cineole](/glossary/compounds-1-a/#18cineole) (4 shared sources)
+- [Menthol](/herb/menthol/) (4 shared sources)
+- [Isomenthone](/glossary/compounds-g-l/#isomenthone) (3 shared sources)
+- [Limonene](/glossary/compounds-g-l/#limonene) (3 shared sources)
+- [Rosmarinic acid](/glossary/compounds-q-t/#rosmarinic-acid) (2 shared sources)
+- [Flavonoids](/reference/flavonoids/) (2 shared sources)
 
 ### Mercury sulfide {#mercury-sulfide}
 
@@ -711,30 +711,30 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Icchabhedi Rasa](/nighantu/herb/icchabhedi-rasa/)
-- [Krimi Kuthar Rasa](/nighantu/herb/krimi-kuthar-rasa/)
-- [Kshara Parpati](/nighantu/herb/kshara-parpati/)
-- [Laghu Sutshekhar Ras](/nighantu/herb/laghu-sutshekhar-ras/)
-- [Mahalakshmi Vilas Rasa](/nighantu/herb/mahalakshmi-vilas-rasa/)
-- [Nityananda Rasa](/nighantu/herb/nityananda-rasa/)
-- [Panchamrita Parpati](/nighantu/herb/panchamrita-parpati/)
-- [Sameer Pannag Rasa](/nighantu/herb/sameer-pannag-rasa/)
-- [Swarna Parpati](/nighantu/herb/swarna-parpati/)
-- [Swarna Vasant Malti Ras](/nighantu/herb/swarna-vasant-malti-ras/)
-- [Tribhuvan Kirti Rasa](/nighantu/herb/tribhuvan-kirti-rasa/)
-- [Vajrakapata Rasa](/nighantu/glossary/concepts-m-y/#vajrakapata-rasa)
-- [Vasant Kusumakar Rasa](/nighantu/herb/vasant-kusumakar-rasa/)
-- [Vatagajankush Rasa](/nighantu/herb/vatagajankush-rasa/)
+- [Icchabhedi Rasa](/herb/icchabhedi-rasa/)
+- [Krimi Kuthar Rasa](/herb/krimi-kuthar-rasa/)
+- [Kshara Parpati](/herb/kshara-parpati/)
+- [Laghu Sutshekhar Ras](/herb/laghu-sutshekhar-ras/)
+- [Mahalakshmi Vilas Rasa](/herb/mahalakshmi-vilas-rasa/)
+- [Nityananda Rasa](/herb/nityananda-rasa/)
+- [Panchamrita Parpati](/herb/panchamrita-parpati/)
+- [Sameer Pannag Rasa](/herb/sameer-pannag-rasa/)
+- [Swarna Parpati](/herb/swarna-parpati/)
+- [Swarna Vasant Malti Ras](/herb/swarna-vasant-malti-ras/)
+- [Tribhuvan Kirti Rasa](/herb/tribhuvan-kirti-rasa/)
+- [Vajrakapata Rasa](/glossary/concepts-m-y/#vajrakapata-rasa)
+- [Vasant Kusumakar Rasa](/herb/vasant-kusumakar-rasa/)
+- [Vatagajankush Rasa](/herb/vatagajankush-rasa/)
 
 #### Often Found With
 
-- [Iron oxide](/nighantu/glossary/compounds-g-l/#iron-oxide) (4 shared sources)
-- [Tin oxide](/nighantu/glossary/compounds-t-z/#tin-oxide) (4 shared sources)
-- [Sulfur compounds](/nighantu/glossary/compounds-q-t/#sulfur-compounds) (3 shared sources)
-- [Gold nanoparticles](/nighantu/glossary/compounds-g-l/#gold-nanoparticles) (3 shared sources)
-- [Lead oxide](/nighantu/glossary/compounds-g-l/#lead-oxide) (2 shared sources)
-- [Copper oxide](/nighantu/glossary/compounds-c-d/#copper-oxide) (1 shared sources)
-- [Vidanga](/nighantu/herb/vidanga/) saponins (1 shared sources)
+- [Iron oxide](/glossary/compounds-g-l/#iron-oxide) (4 shared sources)
+- [Tin oxide](/glossary/compounds-t-z/#tin-oxide) (4 shared sources)
+- [Sulfur compounds](/glossary/compounds-q-t/#sulfur-compounds) (3 shared sources)
+- [Gold nanoparticles](/glossary/compounds-g-l/#gold-nanoparticles) (3 shared sources)
+- [Lead oxide](/glossary/compounds-g-l/#lead-oxide) (2 shared sources)
+- [Copper oxide](/glossary/compounds-c-d/#copper-oxide) (1 shared sources)
+- [Vidanga](/herb/vidanga/) saponins (1 shared sources)
 
 ### Methyl chavicol {#methyl-chavicol}
 
@@ -742,18 +742,18 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Mishreya](/nighantu/herb/mishreya/) — *Foeniculum vulgare Mill.*
+- [Mishreya](/herb/mishreya/) — *Foeniculum vulgare Mill.*
 
 #### Often Found With
 
-- [P-cymene](/nighantu/glossary/compounds-o-q/#pcymene) (1 shared sources)
-- [Flavonoids](/nighantu/reference/flavonoids/) (1 shared sources)
-- [Alpha-pinene](/nighantu/glossary/compounds-1-a/#alphapinene) (1 shared sources)
-- [Trans-anethole](/nighantu/glossary/compounds-t-z/#transanethole) (1 shared sources)
-- [Phenolic acids](/nighantu/glossary/compounds-o-q/#phenolic-acids) (1 shared sources)
-- [Fenchone](/nighantu/glossary/compounds-d-g/#fenchone) (1 shared sources)
-- [Limonene](/nighantu/glossary/compounds-g-l/#limonene) (1 shared sources)
-- [Camphene](/nighantu/glossary/compounds-a-c/#camphene) (1 shared sources)
+- [P-cymene](/glossary/compounds-o-q/#pcymene) (1 shared sources)
+- [Flavonoids](/reference/flavonoids/) (1 shared sources)
+- [Alpha-pinene](/glossary/compounds-1-a/#alphapinene) (1 shared sources)
+- [Trans-anethole](/glossary/compounds-t-z/#transanethole) (1 shared sources)
+- [Phenolic acids](/glossary/compounds-o-q/#phenolic-acids) (1 shared sources)
+- [Fenchone](/glossary/compounds-d-g/#fenchone) (1 shared sources)
+- [Limonene](/glossary/compounds-g-l/#limonene) (1 shared sources)
+- [Camphene](/glossary/compounds-a-c/#camphene) (1 shared sources)
 
 ### Methyl eugenol {#methyl-eugenol}
 
@@ -761,20 +761,20 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Tilaparni](/nighantu/herb/tilaparni/)
-- [Tulsi](/nighantu/herb/tulsi/) — *Ocimum tenuiflorum (syn. O. sanctum)*
+- [Tilaparni](/herb/tilaparni/)
+- [Tulsi](/herb/tulsi/) — *Ocimum tenuiflorum (syn. O. sanctum)*
 
 #### Often Found With
 
-- [Eugenol](/nighantu/glossary/compounds-d-g/#eugenol) (6 shared sources)
-- [beta-Caryophyllene](/nighantu/glossary/compounds-a-c/#betacaryophyllene) (3 shared sources)
-- [Ursolic acid](/nighantu/reference/ursolic-acid/) (3 shared sources)
-- [Rosmarinic acid](/nighantu/glossary/compounds-q-t/#rosmarinic-acid) (3 shared sources)
-- [Linalool](/nighantu/glossary/compounds-l-o/#linalool) (2 shared sources)
-- [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin) (2 shared sources)
-- [Luteolin](/nighantu/glossary/compounds-l-o/#luteolin) (2 shared sources)
-- [Gallic acid](/nighantu/reference/gallic-acid/) (2 shared sources)
-- [Ocimene](/nighantu/glossary/compounds-l-o/#ocimene) (1 shared sources)
+- [Eugenol](/glossary/compounds-d-g/#eugenol) (6 shared sources)
+- [beta-Caryophyllene](/glossary/compounds-a-c/#betacaryophyllene) (3 shared sources)
+- [Ursolic acid](/reference/ursolic-acid/) (3 shared sources)
+- [Rosmarinic acid](/glossary/compounds-q-t/#rosmarinic-acid) (3 shared sources)
+- [Linalool](/glossary/compounds-l-o/#linalool) (2 shared sources)
+- [Apigenin](/glossary/compounds-1-a/#apigenin) (2 shared sources)
+- [Luteolin](/glossary/compounds-l-o/#luteolin) (2 shared sources)
+- [Gallic acid](/reference/gallic-acid/) (2 shared sources)
+- [Ocimene](/glossary/compounds-l-o/#ocimene) (1 shared sources)
 
 ### Methyl gallate {#methyl-gallate}
 
@@ -782,18 +782,18 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Amra Beeja](/nighantu/herb/amra-beeja/)
-- [Karkatashringi](/nighantu/herb/karkatashringi/) — *Pistacia integerrima J.L. Stewart ex Brandis*
+- [Amra Beeja](/herb/amra-beeja/)
+- [Karkatashringi](/herb/karkatashringi/) — *Pistacia integerrima J.L. Stewart ex Brandis*
 
 #### Often Found With
 
-- [Beta-sitosterol](/nighantu/glossary/compounds-a-c/#betasitosterol) (2 shared sources)
-- [Gallic acid](/nighantu/reference/gallic-acid/) (2 shared sources)
-- [Ellagic acid](/nighantu/reference/ellagic-acid/) (2 shared sources)
-- [Tannic acid](/nighantu/glossary/compounds-q-t/#tannic-acid) (1 shared sources)
-- [Alpha-pinene](/nighantu/glossary/compounds-1-a/#alphapinene) (1 shared sources)
-- [Aromadendrene](/nighantu/glossary/compounds-1-a/#aromadendrene) (1 shared sources)
-- [Beta-pinene](/nighantu/glossary/compounds-a-c/#betapinene) (1 shared sources)
+- [Beta-sitosterol](/glossary/compounds-a-c/#betasitosterol) (2 shared sources)
+- [Gallic acid](/reference/gallic-acid/) (2 shared sources)
+- [Ellagic acid](/reference/ellagic-acid/) (2 shared sources)
+- [Tannic acid](/glossary/compounds-q-t/#tannic-acid) (1 shared sources)
+- [Alpha-pinene](/glossary/compounds-1-a/#alphapinene) (1 shared sources)
+- [Aromadendrene](/glossary/compounds-1-a/#aromadendrene) (1 shared sources)
+- [Beta-pinene](/glossary/compounds-a-c/#betapinene) (1 shared sources)
 
 ### Methyl salicylate {#methyl-salicylate}
 
@@ -801,21 +801,21 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Bhurja](/nighantu/herb/bhurja/)
-- [Lavanga](/nighantu/herb/lavanga/)
-- [Vanapsa](/nighantu/herb/vanapsa/) — *Viola odorata L.*
+- [Bhurja](/herb/bhurja/)
+- [Lavanga](/herb/lavanga/)
+- [Vanapsa](/herb/vanapsa/) — *Viola odorata L.*
 
 #### Often Found With
 
-- [Kaempferol](/nighantu/reference/kaempferol/) (4 shared sources)
-- [Quercetin](/nighantu/reference/quercetinquercetin/) (3 shared sources)
-- [Rutin](/nighantu/glossary/compounds-q-t/#rutin) (3 shared sources)
-- [Eugenyl acetate](/nighantu/glossary/compounds-d-g/#eugenyl-acetate) (2 shared sources)
-- [Eugenol](/nighantu/glossary/compounds-d-g/#eugenol) (2 shared sources)
-- [Beta-sitosterol](/nighantu/glossary/compounds-a-c/#betasitosterol) (2 shared sources)
-- [Lupeol](/nighantu/reference/lupeol/) (2 shared sources)
-- [Betulin](/nighantu/glossary/compounds-a-c/#betulin) (2 shared sources)
-- [Betulinic acid](/nighantu/glossary/compounds-a-c/#betulinic-acid) (2 shared sources)
+- [Kaempferol](/reference/kaempferol/) (4 shared sources)
+- [Quercetin](/reference/quercetinquercetin/) (3 shared sources)
+- [Rutin](/glossary/compounds-q-t/#rutin) (3 shared sources)
+- [Eugenyl acetate](/glossary/compounds-d-g/#eugenyl-acetate) (2 shared sources)
+- [Eugenol](/glossary/compounds-d-g/#eugenol) (2 shared sources)
+- [Beta-sitosterol](/glossary/compounds-a-c/#betasitosterol) (2 shared sources)
+- [Lupeol](/reference/lupeol/) (2 shared sources)
+- [Betulin](/glossary/compounds-a-c/#betulin) (2 shared sources)
+- [Betulinic acid](/glossary/compounds-a-c/#betulinic-acid) (2 shared sources)
 
 ### Momordicin {#momordicin}
 
@@ -823,21 +823,21 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Bitter Gourd](/nighantu/herb/bitter-gourd/)
-- [Bitter Gourd Herb](/nighantu/herb/bitter-gourd-herb/)
-- [Karela](/nighantu/herb/karela/)
-- [Karvellaka](/nighantu/herb/karvellaka/)
-- [Patola](/nighantu/herb/patola/)
+- [Bitter Gourd](/herb/bitter-gourd/)
+- [Bitter Gourd Herb](/herb/bitter-gourd-herb/)
+- [Karela](/herb/karela/)
+- [Karvellaka](/herb/karvellaka/)
+- [Patola](/herb/patola/)
 
 #### Often Found With
 
-- [Vicine](/nighantu/glossary/compounds-t-z/#vicine) (5 shared sources)
-- [Charantin](/nighantu/glossary/compounds-c-d/#charantin) (4 shared sources)
-- [Gallic acid](/nighantu/reference/gallic-acid/) (4 shared sources)
-- [Polypeptide-p](/nighantu/glossary/compounds-o-q/#polypeptidep) (4 shared sources)
-- [Catechin](/nighantu/reference/catechin/) (2 shared sources)
-- [Beta-sitosterol](/nighantu/glossary/compounds-a-c/#betasitosterol) (2 shared sources)
-- [Cucurbitacin B](/nighantu/glossary/compounds-c-d/#cucurbitacin-b) (2 shared sources)
+- [Vicine](/glossary/compounds-t-z/#vicine) (5 shared sources)
+- [Charantin](/glossary/compounds-c-d/#charantin) (4 shared sources)
+- [Gallic acid](/reference/gallic-acid/) (4 shared sources)
+- [Polypeptide-p](/glossary/compounds-o-q/#polypeptidep) (4 shared sources)
+- [Catechin](/reference/catechin/) (2 shared sources)
+- [Beta-sitosterol](/glossary/compounds-a-c/#betasitosterol) (2 shared sources)
+- [Cucurbitacin B](/glossary/compounds-c-d/#cucurbitacin-b) (2 shared sources)
 
 ### Monoterpenes {#monoterpenes}
 
@@ -845,11 +845,11 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Often Found With
 
-- [Flavonoids](/nighantu/reference/flavonoids/) (2 shared sources)
-- [Phenylpropanoids](/nighantu/glossary/compounds-o-q/#phenylpropanoids) (1 shared sources)
-- [Lignans](/nighantu/glossary/compounds-g-l/#lignans) (1 shared sources)
-- [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) (1 shared sources)
-- [Valepotriates](/nighantu/glossary/compounds-t-z/#valepotriates) (1 shared sources)
+- [Flavonoids](/reference/flavonoids/) (2 shared sources)
+- [Phenylpropanoids](/glossary/compounds-o-q/#phenylpropanoids) (1 shared sources)
+- [Lignans](/glossary/compounds-g-l/#lignans) (1 shared sources)
+- [Alkaloids](/glossary/compounds-1-a/#alkaloids) (1 shared sources)
+- [Valepotriates](/glossary/compounds-t-z/#valepotriates) (1 shared sources)
 
 ### Montanin {#montanin}
 
@@ -857,16 +857,16 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Danti](/nighantu/herb/danti/) — *Baliospermum montanum (Willd.) Muell.-Arg.*
-- [Danti Moola](/nighantu/herb/danti-moola/)
-- [Nagadanti](/nighantu/herb/nagadanti/)
+- [Danti](/herb/danti/) — *Baliospermum montanum (Willd.) Muell.-Arg.*
+- [Danti Moola](/herb/danti-moola/)
+- [Nagadanti](/herb/nagadanti/)
 
 #### Often Found With
 
-- [Beta-sitosterol](/nighantu/glossary/compounds-a-c/#betasitosterol) (3 shared sources)
-- [Flavonoids](/nighantu/reference/flavonoids/) (1 shared sources)
-- [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) (1 shared sources)
-- [Tannins](/nighantu/reference/tannins/) (1 shared sources)
+- [Beta-sitosterol](/glossary/compounds-a-c/#betasitosterol) (3 shared sources)
+- [Flavonoids](/reference/flavonoids/) (1 shared sources)
+- [Alkaloids](/glossary/compounds-1-a/#alkaloids) (1 shared sources)
+- [Tannins](/reference/tannins/) (1 shared sources)
 
 ### Mucilage {#mucilage}
 
@@ -874,23 +874,23 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Bala](/nighantu/herb/bala/) — *Sida cordifolia*
-- [Bilva Majja](/nighantu/herb/bilva-majja/) — *Aegle marmelos (L.) Correa (fruit pulp)*
-- [Gangeruki](/nighantu/herb/gangeruki/) — *Grewia tenax (Forssk.) Fiori*
-- [Mahabala](/nighantu/herb/mahabala/) — *Sida rhombifolia L.*
+- [Bala](/herb/bala/) — *Sida cordifolia*
+- [Bilva Majja](/herb/bilva-majja/) — *Aegle marmelos (L.) Correa (fruit pulp)*
+- [Gangeruki](/herb/gangeruki/) — *Grewia tenax (Forssk.) Fiori*
+- [Mahabala](/herb/mahabala/) — *Sida rhombifolia L.*
 
 #### Often Found With
 
-- [Flavonoids](/nighantu/reference/flavonoids/) (5 shared sources)
-- [Tannins](/nighantu/reference/tannins/) (4 shared sources)
-- [Mucilage polysaccharides](/nighantu/glossary/compounds-l-o/#mucilage-polysaccharides) (3 shared sources)
-- [Beta-sitosterol](/nighantu/glossary/compounds-a-c/#betasitosterol) (3 shared sources)
-- [Phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols) (3 shared sources)
-- [Saponins](/nighantu/reference/saponins/) (2 shared sources)
-- [Stigmasterol](/nighantu/reference/stigmasterol/) (2 shared sources)
-- [Linoleic acid](/nighantu/glossary/compounds-l-o/#linoleic-acid) (2 shared sources)
-- [Malic acid](/nighantu/glossary/compounds-l-o/#malic-acid) (2 shared sources)
-- [Cyclotides](/nighantu/glossary/compounds-c-d/#cyclotides) (2 shared sources)
+- [Flavonoids](/reference/flavonoids/) (5 shared sources)
+- [Tannins](/reference/tannins/) (4 shared sources)
+- [Mucilage polysaccharides](/glossary/compounds-l-o/#mucilage-polysaccharides) (3 shared sources)
+- [Beta-sitosterol](/glossary/compounds-a-c/#betasitosterol) (3 shared sources)
+- [Phytosterols](/glossary/compounds-o-q/#phytosterols) (3 shared sources)
+- [Saponins](/reference/saponins/) (2 shared sources)
+- [Stigmasterol](/reference/stigmasterol/) (2 shared sources)
+- [Linoleic acid](/glossary/compounds-l-o/#linoleic-acid) (2 shared sources)
+- [Malic acid](/glossary/compounds-l-o/#malic-acid) (2 shared sources)
+- [Cyclotides](/glossary/compounds-c-d/#cyclotides) (2 shared sources)
 
 ### Mucilage and polysaccharides {#mucilage-and-polysaccharides}
 
@@ -898,18 +898,18 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Jivaka](/nighantu/herb/jivaka/) — *Malaxis muscifera (Lindl.) Kuntze / Malaxis acuminata D. Don*
-- [Senna](/nighantu/herb/senna/) — *Cassia angustifolia Vahl (syn. Senna alexandrina Mill.)*
+- [Jivaka](/herb/jivaka/) — *Malaxis muscifera (Lindl.) Kuntze / Malaxis acuminata D. Don*
+- [Senna](/herb/senna/) — *Cassia angustifolia Vahl (syn. Senna alexandrina Mill.)*
 
 #### Often Found With
 
-- [Flavonoids](/nighantu/reference/flavonoids/) (2 shared sources)
-- [Glycosides](/nighantu/glossary/compounds-g-l/#glycosides) (1 shared sources)
-- [Steroids](/nighantu/glossary/compounds-q-t/#steroids) (1 shared sources)
-- [Mucilage polysaccharides](/nighantu/glossary/compounds-l-o/#mucilage-polysaccharides) (1 shared sources)
-- [Phenolic compounds](/nighantu/glossary/compounds-o-q/#phenolic-compounds) (1 shared sources)
-- [Terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids) (1 shared sources)
-- [Rhein](/nighantu/glossary/compounds-q-t/#rhein) (1 shared sources)
+- [Flavonoids](/reference/flavonoids/) (2 shared sources)
+- [Glycosides](/glossary/compounds-g-l/#glycosides) (1 shared sources)
+- [Steroids](/glossary/compounds-q-t/#steroids) (1 shared sources)
+- [Mucilage polysaccharides](/glossary/compounds-l-o/#mucilage-polysaccharides) (1 shared sources)
+- [Phenolic compounds](/glossary/compounds-o-q/#phenolic-compounds) (1 shared sources)
+- [Terpenoids](/glossary/compounds-t-z/#terpenoids) (1 shared sources)
+- [Rhein](/glossary/compounds-q-t/#rhein) (1 shared sources)
 
 ### Mucilage polysaccharides {#mucilage-polysaccharides}
 
@@ -917,30 +917,30 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Atibala](/nighantu/herb/atibala/)
-- [Bala](/nighantu/herb/bala/) — *Sida cordifolia*
-- [Bilva Majja](/nighantu/herb/bilva-majja/) — *Aegle marmelos (L.) Correa (fruit pulp)*
-- [Chandrashura](/nighantu/herb/chandrashura/) — *Lepidium sativum L.*
-- [Ishabgula](/nighantu/herb/ishabgula/)
-- [Japa](/nighantu/herb/japa/)
-- [Jivaka](/nighantu/herb/jivaka/) — *Malaxis muscifera (Lindl.) Kuntze / Malaxis acuminata D. Don*
-- [Kakoli](/nighantu/herb/kakoli/) — *Roscoea purpurea Sm. (also identified with Fritillaria roylei)*
-- [Mahabala](/nighantu/herb/mahabala/) — *Sida rhombifolia L.*
-- [Nagabala](/nighantu/herb/nagabala/) — *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
-- [Riddhi](/nighantu/herb/riddhi/) — *Habenaria intermedia D. Don*
-- [Vanapsa](/nighantu/herb/vanapsa/) — *Viola odorata L.*
+- [Atibala](/herb/atibala/)
+- [Bala](/herb/bala/) — *Sida cordifolia*
+- [Bilva Majja](/herb/bilva-majja/) — *Aegle marmelos (L.) Correa (fruit pulp)*
+- [Chandrashura](/herb/chandrashura/) — *Lepidium sativum L.*
+- [Ishabgula](/herb/ishabgula/)
+- [Japa](/herb/japa/)
+- [Jivaka](/herb/jivaka/) — *Malaxis muscifera (Lindl.) Kuntze / Malaxis acuminata D. Don*
+- [Kakoli](/herb/kakoli/) — *Roscoea purpurea Sm. (also identified with Fritillaria roylei)*
+- [Mahabala](/herb/mahabala/) — *Sida rhombifolia L.*
+- [Nagabala](/herb/nagabala/) — *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
+- [Riddhi](/herb/riddhi/) — *Habenaria intermedia D. Don*
+- [Vanapsa](/herb/vanapsa/) — *Viola odorata L.*
 
 #### Often Found With
 
-- [Flavonoids](/nighantu/reference/flavonoids/) (7 shared sources)
-- [Beta-sitosterol](/nighantu/glossary/compounds-a-c/#betasitosterol) (6 shared sources)
-- [Tannins](/nighantu/reference/tannins/) (5 shared sources)
-- [Linoleic acid](/nighantu/glossary/compounds-l-o/#linoleic-acid) (4 shared sources)
-- [Kaempferol](/nighantu/reference/kaempferol/) (4 shared sources)
-- [Stigmasterol](/nighantu/reference/stigmasterol/) (4 shared sources)
-- [Mucilage](/nighantu/glossary/compounds-l-o/#mucilage) (3 shared sources)
-- [Quercetin](/nighantu/reference/quercetinquercetin/) (3 shared sources)
-- [Phenolic compounds](/nighantu/glossary/compounds-o-q/#phenolic-compounds) (3 shared sources)
+- [Flavonoids](/reference/flavonoids/) (7 shared sources)
+- [Beta-sitosterol](/glossary/compounds-a-c/#betasitosterol) (6 shared sources)
+- [Tannins](/reference/tannins/) (5 shared sources)
+- [Linoleic acid](/glossary/compounds-l-o/#linoleic-acid) (4 shared sources)
+- [Kaempferol](/reference/kaempferol/) (4 shared sources)
+- [Stigmasterol](/reference/stigmasterol/) (4 shared sources)
+- [Mucilage](/glossary/compounds-l-o/#mucilage) (3 shared sources)
+- [Quercetin](/reference/quercetinquercetin/) (3 shared sources)
+- [Phenolic compounds](/glossary/compounds-o-q/#phenolic-compounds) (3 shared sources)
 
 ### Myrcene {#myrcene}
 
@@ -948,24 +948,24 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Ajwain](/nighantu/herb/ajwain/) — *Trachyspermum ammi*
-- [Amra Haridra](/nighantu/herb/amra-haridra/)
-- [Bhanga](/nighantu/herb/bhanga/) — *Cannabis sativa L. / Cannabis indica Lam.*
-- [Ela](/nighantu/herb/ela/) — *Elettaria cardamomum*
-- [Talisa](/nighantu/herb/talisa/) — *Abies webbiana Lindl. (syn. Abies spectabilis (D. Don) Mirb.)*
+- [Ajwain](/herb/ajwain/) — *Trachyspermum ammi*
+- [Amra Haridra](/herb/amra-haridra/)
+- [Bhanga](/herb/bhanga/) — *Cannabis sativa L. / Cannabis indica Lam.*
+- [Ela](/herb/ela/) — *Elettaria cardamomum*
+- [Talisa](/herb/talisa/) — *Abies webbiana Lindl. (syn. Abies spectabilis (D. Don) Mirb.)*
 
 #### Often Found With
 
-- [Limonene](/nighantu/glossary/compounds-g-l/#limonene) (7 shared sources)
-- [Linalool](/nighantu/glossary/compounds-l-o/#linalool) (4 shared sources)
-- [1,8-Cineole](/nighantu/glossary/compounds-1-a/#18cineole) (3 shared sources)
-- [Citronellal](/nighantu/glossary/compounds-c-d/#citronellal) (3 shared sources)
-- [Beta-caryophyllene](/nighantu/glossary/compounds-a-c/#betacaryophyllene) (2 shared sources)
-- [Carvacrol](/nighantu/glossary/compounds-a-c/#carvacrol) (2 shared sources)
-- [Thymol](/nighantu/glossary/compounds-t-z/#thymol) (2 shared sources)
-- [alpha-Thujene](/nighantu/glossary/compounds-1-a/#alphathujene) (2 shared sources)
-- [Beta-pinene](/nighantu/glossary/compounds-a-c/#betapinene) (2 shared sources)
-- [gamma-Terpinene](/nighantu/glossary/compounds-d-g/#gammaterpinene) (2 shared sources)
+- [Limonene](/glossary/compounds-g-l/#limonene) (7 shared sources)
+- [Linalool](/glossary/compounds-l-o/#linalool) (4 shared sources)
+- [1,8-Cineole](/glossary/compounds-1-a/#18cineole) (3 shared sources)
+- [Citronellal](/glossary/compounds-c-d/#citronellal) (3 shared sources)
+- [Beta-caryophyllene](/glossary/compounds-a-c/#betacaryophyllene) (2 shared sources)
+- [Carvacrol](/glossary/compounds-a-c/#carvacrol) (2 shared sources)
+- [Thymol](/glossary/compounds-t-z/#thymol) (2 shared sources)
+- [alpha-Thujene](/glossary/compounds-1-a/#alphathujene) (2 shared sources)
+- [Beta-pinene](/glossary/compounds-a-c/#betapinene) (2 shared sources)
+- [gamma-Terpinene](/glossary/compounds-d-g/#gammaterpinene) (2 shared sources)
 
 ### Myricetin {#myricetin}
 
@@ -973,32 +973,32 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Ashwattha](/nighantu/herb/ashwattha/) — *Ficus religiosa L.*
-- [Dhataki](/nighantu/herb/dhataki/)
-- [Jamun Herb](/nighantu/glossary/concepts-a-m/#jamun-herb)
-- [Kadali Pushpa](/nighantu/herb/kadali-pushpa/) — *Musa paradisiaca L. (inflorescence/flower)*
-- [Katphala](/nighantu/herb/katphala/)
-- [Kumud](/nighantu/herb/kumud/)
-- [Kumuda](/nighantu/herb/kumuda/)
-- [Lata Kasturi](/nighantu/herb/lata-kasturi/)
-- [Madhuka](/nighantu/herb/madhuka/) — *Madhuca longifolia (J.Koenig ex L.) J.F.Macbr.*
-- [Madhuka Pushpa](/nighantu/herb/madhuka-pushpa/)
-- [Priyala](/nighantu/herb/priyala/)
-- [Rishabhaka](/nighantu/herb/rishabhaka/) — *Manilkara hexandra (Roxb.) Dubard*
-- [Talisapatra](/nighantu/herb/talisapatra/)
-- [Utpala](/nighantu/herb/utpala/)
+- [Ashwattha](/herb/ashwattha/) — *Ficus religiosa L.*
+- [Dhataki](/herb/dhataki/)
+- [Jamun Herb](/glossary/concepts-a-m/#jamun-herb)
+- [Kadali Pushpa](/herb/kadali-pushpa/) — *Musa paradisiaca L. (inflorescence/flower)*
+- [Katphala](/herb/katphala/)
+- [Kumud](/herb/kumud/)
+- [Kumuda](/herb/kumuda/)
+- [Lata Kasturi](/herb/lata-kasturi/)
+- [Madhuka](/herb/madhuka/) — *Madhuca longifolia (J.Koenig ex L.) J.F.Macbr.*
+- [Madhuka Pushpa](/herb/madhuka-pushpa/)
+- [Priyala](/herb/priyala/)
+- [Rishabhaka](/herb/rishabhaka/) — *Manilkara hexandra (Roxb.) Dubard*
+- [Talisapatra](/herb/talisapatra/)
+- [Utpala](/herb/utpala/)
 
 #### Often Found With
 
-- [Gallic acid](/nighantu/reference/gallic-acid/) (10 shared sources)
-- [Quercetin](/nighantu/reference/quercetinquercetin/) (8 shared sources)
-- [Quercetin](/nighantu/reference/quercetinquercetin/) (5 shared sources)
-- [Beta-sitosterol](/nighantu/glossary/compounds-a-c/#betasitosterol) (5 shared sources)
-- [Proanthocyanidins](/nighantu/glossary/compounds-o-q/#proanthocyanidins) (3 shared sources)
-- [Taraxerol](/nighantu/glossary/compounds-t-z/#taraxerol) (3 shared sources)
-- [Tannins](/nighantu/reference/tannins/) (3 shared sources)
-- [Kaempferol](/nighantu/reference/kaempferol/) (3 shared sources)
-- [Caffeic acid](/nighantu/glossary/compounds-a-c/#caffeic-acid) (3 shared sources)
+- [Gallic acid](/reference/gallic-acid/) (10 shared sources)
+- [Quercetin](/reference/quercetinquercetin/) (8 shared sources)
+- [Quercetin](/reference/quercetinquercetin/) (5 shared sources)
+- [Beta-sitosterol](/glossary/compounds-a-c/#betasitosterol) (5 shared sources)
+- [Proanthocyanidins](/glossary/compounds-o-q/#proanthocyanidins) (3 shared sources)
+- [Taraxerol](/glossary/compounds-t-z/#taraxerol) (3 shared sources)
+- [Tannins](/reference/tannins/) (3 shared sources)
+- [Kaempferol](/reference/kaempferol/) (3 shared sources)
+- [Caffeic acid](/glossary/compounds-a-c/#caffeic-acid) (3 shared sources)
 
 ### Myristic acid {#myristic-acid}
 
@@ -1006,23 +1006,23 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Coconut Oil](/nighantu/glossary/concepts-a-m/#coconut-oil)
-- [Coconut Oil Narikela Taila](/nighantu/formulation/coconut-oil-narikela-taila/)
-- [Jatiphala](/nighantu/herb/jatiphala/)
-- [Javitri](/nighantu/herb/javitri/)
-- [Narikela](/nighantu/herb/narikela/) — *Cocos nucifera L.*
+- [Coconut Oil](/glossary/concepts-a-m/#coconut-oil)
+- [Coconut Oil Narikela Taila](/formulation/coconut-oil-narikela-taila/)
+- [Jatiphala](/herb/jatiphala/)
+- [Javitri](/herb/javitri/)
+- [Narikela](/herb/narikela/) — *Cocos nucifera L.*
 
 #### Often Found With
 
-- [Capric acid](/nighantu/glossary/compounds-a-c/#capric-acid) (4 shared sources)
-- [Lauric acid](/nighantu/glossary/compounds-g-l/#lauric-acid) (4 shared sources)
-- [Caprylic acid](/nighantu/glossary/compounds-a-c/#caprylic-acid) (3 shared sources)
-- [Medium-chain triglycerides](/nighantu/glossary/compounds-l-o/#mediumchain-triglycerides) (2 shared sources)
-- [Polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) (2 shared sources)
-- [Alpha-pinene](/nighantu/glossary/compounds-1-a/#alphapinene) (2 shared sources)
-- [Safrole](/nighantu/glossary/compounds-q-t/#safrole) (2 shared sources)
-- [Myristicin](/nighantu/glossary/compounds-l-o/#myristicin) (2 shared sources)
-- [Sabinene](/nighantu/glossary/compounds-q-t/#sabinene) (2 shared sources)
+- [Capric acid](/glossary/compounds-a-c/#capric-acid) (4 shared sources)
+- [Lauric acid](/glossary/compounds-g-l/#lauric-acid) (4 shared sources)
+- [Caprylic acid](/glossary/compounds-a-c/#caprylic-acid) (3 shared sources)
+- [Medium-chain triglycerides](/glossary/compounds-l-o/#mediumchain-triglycerides) (2 shared sources)
+- [Polyphenols](/glossary/compounds-o-q/#polyphenols) (2 shared sources)
+- [Alpha-pinene](/glossary/compounds-1-a/#alphapinene) (2 shared sources)
+- [Safrole](/glossary/compounds-q-t/#safrole) (2 shared sources)
+- [Myristicin](/glossary/compounds-l-o/#myristicin) (2 shared sources)
+- [Sabinene](/glossary/compounds-q-t/#sabinene) (2 shared sources)
 
 ### Myristica fragrans {#myristica-fragrans}
 
@@ -1030,9 +1030,9 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Often Found With
 
-- [Terminalia chebula](/nighantu/glossary/compounds-t-z/#terminalia-chebula) (2 shared sources)
-- [Tsotel](/nighantu/glossary/compounds-t-z/#tsotel) (2 shared sources)
-- [Zingiber](/nighantu/herb/zingiber/) officinale (1 shared sources)
+- [Terminalia chebula](/glossary/compounds-t-z/#terminalia-chebula) (2 shared sources)
+- [Tsotel](/glossary/compounds-t-z/#tsotel) (2 shared sources)
+- [Zingiber](/herb/zingiber/) officinale (1 shared sources)
 
 ### Myristicin {#myristicin}
 
@@ -1040,23 +1040,23 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Ajmoda](/nighantu/herb/ajmoda/)
-- [Eladi Vati](/nighantu/formulation/eladi-vati/)
-- [Jatiphala](/nighantu/herb/jatiphala/)
-- [Javitri](/nighantu/herb/javitri/)
-- [Kanthasudharak Vati](/nighantu/formulation/kanthasudharak-vati/)
+- [Ajmoda](/herb/ajmoda/)
+- [Eladi Vati](/formulation/eladi-vati/)
+- [Jatiphala](/herb/jatiphala/)
+- [Javitri](/herb/javitri/)
+- [Kanthasudharak Vati](/formulation/kanthasudharak-vati/)
 
 #### Often Found With
 
-- [8-Cineole](/nighantu/glossary/compounds-1-a/#8cineole) (2 shared sources)
-- [Camphor](/nighantu/herb/camphor/) (2 shared sources)
-- [Alpha-pinene](/nighantu/glossary/compounds-1-a/#alphapinene) (2 shared sources)
-- [Safrole](/nighantu/glossary/compounds-q-t/#safrole) (2 shared sources)
-- [Myristic acid](/nighantu/glossary/compounds-l-o/#myristic-acid) (2 shared sources)
-- [Sabinene](/nighantu/glossary/compounds-q-t/#sabinene) (2 shared sources)
-- [Elemicin](/nighantu/glossary/compounds-d-g/#elemicin) (2 shared sources)
-- [Camphor](/nighantu/herb/camphor/) (1 shared sources)
-- [Cinnamaldehyde](/nighantu/glossary/compounds-c-d/#cinnamaldehyde) (1 shared sources)
+- [8-Cineole](/glossary/compounds-1-a/#8cineole) (2 shared sources)
+- [Camphor](/herb/camphor/) (2 shared sources)
+- [Alpha-pinene](/glossary/compounds-1-a/#alphapinene) (2 shared sources)
+- [Safrole](/glossary/compounds-q-t/#safrole) (2 shared sources)
+- [Myristic acid](/glossary/compounds-l-o/#myristic-acid) (2 shared sources)
+- [Sabinene](/glossary/compounds-q-t/#sabinene) (2 shared sources)
+- [Elemicin](/glossary/compounds-d-g/#elemicin) (2 shared sources)
+- [Camphor](/herb/camphor/) (1 shared sources)
+- [Cinnamaldehyde](/glossary/compounds-c-d/#cinnamaldehyde) (1 shared sources)
 
 ### Myrosinase {#myrosinase}
 
@@ -1064,17 +1064,17 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Rajika](/nighantu/herb/rajika/)
+- [Rajika](/herb/rajika/)
 
 #### Often Found With
 
-- [Sulforaphane](/nighantu/glossary/compounds-q-t/#sulforaphane) (2 shared sources)
-- [Sinapine](/nighantu/glossary/compounds-q-t/#sinapine) (1 shared sources)
-- [Oleic acid](/nighantu/glossary/compounds-l-o/#oleic-acid) (1 shared sources)
-- [Allyl isothiocyanate](/nighantu/glossary/compounds-1-a/#allyl-isothiocyanate) (1 shared sources)
-- [Erucic acid](/nighantu/glossary/compounds-d-g/#erucic-acid) (1 shared sources)
-- [Sinigrin](/nighantu/glossary/compounds-q-t/#sinigrin) (1 shared sources)
-- [Selenium](/nighantu/glossary/compounds-q-t/#selenium) (1 shared sources)
+- [Sulforaphane](/glossary/compounds-q-t/#sulforaphane) (2 shared sources)
+- [Sinapine](/glossary/compounds-q-t/#sinapine) (1 shared sources)
+- [Oleic acid](/glossary/compounds-l-o/#oleic-acid) (1 shared sources)
+- [Allyl isothiocyanate](/glossary/compounds-1-a/#allyl-isothiocyanate) (1 shared sources)
+- [Erucic acid](/glossary/compounds-d-g/#erucic-acid) (1 shared sources)
+- [Sinigrin](/glossary/compounds-q-t/#sinigrin) (1 shared sources)
+- [Selenium](/glossary/compounds-q-t/#selenium) (1 shared sources)
 
 ### Myrtenyl acetate {#myrtenyl-acetate}
 
@@ -1082,13 +1082,13 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Often Found With
 
-- [Alpha-pinene](/nighantu/glossary/compounds-1-a/#alphapinene) (2 shared sources)
-- [Linalool](/nighantu/glossary/compounds-l-o/#linalool) (2 shared sources)
-- [1,8-Cineole](/nighantu/glossary/compounds-1-a/#18cineole) (2 shared sources)
-- [Gallic acid and ellagic acid](/nighantu/glossary/compounds-d-g/#gallic-acid-and-ellagic-acid) (1 shared sources)
-- Myricetin and [quercetin](/nighantu/reference/quercetinquercetin/) (1 shared sources)
-- [Myricetin](/nighantu/glossary/compounds-l-o/#myricetin) (1 shared sources)
-- [Gallic acid](/nighantu/reference/gallic-acid/) (1 shared sources)
+- [Alpha-pinene](/glossary/compounds-1-a/#alphapinene) (2 shared sources)
+- [Linalool](/glossary/compounds-l-o/#linalool) (2 shared sources)
+- [1,8-Cineole](/glossary/compounds-1-a/#18cineole) (2 shared sources)
+- [Gallic acid and ellagic acid](/glossary/compounds-d-g/#gallic-acid-and-ellagic-acid) (1 shared sources)
+- Myricetin and [quercetin](/reference/quercetinquercetin/) (1 shared sources)
+- [Myricetin](/glossary/compounds-l-o/#myricetin) (1 shared sources)
+- [Gallic acid](/reference/gallic-acid/) (1 shared sources)
 
 ### N demethylricinine {#ndemethylricinine}
 
@@ -1096,21 +1096,21 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Eranda](/nighantu/herb/eranda/) — *Ricinus communis L.*
-- [Eranda Moola](/nighantu/herb/eranda-moola/)
-- [Eranda Patra](/nighantu/herb/eranda-patra/) — *Ricinus communis L. (leaves)*
+- [Eranda](/herb/eranda/) — *Ricinus communis L.*
+- [Eranda Moola](/herb/eranda-moola/)
+- [Eranda Patra](/herb/eranda-patra/) — *Ricinus communis L. (leaves)*
 
 #### Often Found With
 
-- [Beta-sitosterol](/nighantu/glossary/compounds-a-c/#betasitosterol) (3 shared sources)
-- [Ricinine](/nighantu/glossary/compounds-q-t/#ricinine) (3 shared sources)
-- [Quercetin](/nighantu/reference/quercetinquercetin/) (2 shared sources)
-- [Kaempferol](/nighantu/reference/kaempferol/) (2 shared sources)
-- [Stigmasterol](/nighantu/reference/stigmasterol/) (2 shared sources)
-- [Gallic acid](/nighantu/reference/gallic-acid/) (2 shared sources)
-- [Oleic acid](/nighantu/glossary/compounds-l-o/#oleic-acid) (1 shared sources)
-- [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin) (1 shared sources)
-- [Linoleic acid](/nighantu/glossary/compounds-l-o/#linoleic-acid) (1 shared sources)
+- [Beta-sitosterol](/glossary/compounds-a-c/#betasitosterol) (3 shared sources)
+- [Ricinine](/glossary/compounds-q-t/#ricinine) (3 shared sources)
+- [Quercetin](/reference/quercetinquercetin/) (2 shared sources)
+- [Kaempferol](/reference/kaempferol/) (2 shared sources)
+- [Stigmasterol](/reference/stigmasterol/) (2 shared sources)
+- [Gallic acid](/reference/gallic-acid/) (2 shared sources)
+- [Oleic acid](/glossary/compounds-l-o/#oleic-acid) (1 shared sources)
+- [Apigenin](/glossary/compounds-1-a/#apigenin) (1 shared sources)
+- [Linoleic acid](/glossary/compounds-l-o/#linoleic-acid) (1 shared sources)
 
 ### Nardosinone {#nardosinone}
 
@@ -1118,16 +1118,16 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Jatamansi](/nighantu/herb/jatamansi/)
-- [Jatamansi Herb](/nighantu/glossary/concepts-a-m/#jatamansi-herb)
+- [Jatamansi](/herb/jatamansi/)
+- [Jatamansi Herb](/glossary/concepts-a-m/#jatamansi-herb)
 
 #### Often Found With
 
-- [Jatamansone](/nighantu/glossary/compounds-g-l/#jatamansone) (2 shared sources)
-- [Ursolic acid](/nighantu/reference/ursolic-acid/) (2 shared sources)
-- [Chlorogenic acid](/nighantu/glossary/compounds-c-d/#chlorogenic-acid) (1 shared sources)
-- [Oleanolic acid](/nighantu/reference/oleanolic-acid/) (1 shared sources)
-- [Beta-sitosterol](/nighantu/glossary/compounds-a-c/#betasitosterol) (1 shared sources)
+- [Jatamansone](/glossary/compounds-g-l/#jatamansone) (2 shared sources)
+- [Ursolic acid](/reference/ursolic-acid/) (2 shared sources)
+- [Chlorogenic acid](/glossary/compounds-c-d/#chlorogenic-acid) (1 shared sources)
+- [Oleanolic acid](/reference/oleanolic-acid/) (1 shared sources)
+- [Beta-sitosterol](/glossary/compounds-a-c/#betasitosterol) (1 shared sources)
 
 ### Naringenin {#naringenin}
 
@@ -1135,17 +1135,17 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Padmaka](/nighantu/herb/padmaka/) — *Prunus cerasoides D. Don*
-- [Vetasa](/nighantu/herb/vetasa/)
+- [Padmaka](/herb/padmaka/) — *Prunus cerasoides D. Don*
+- [Vetasa](/herb/vetasa/)
 
 #### Often Found With
 
-- [Beta-sitosterol](/nighantu/glossary/compounds-a-c/#betasitosterol) (1 shared sources)
-- [Tannic acid](/nighantu/glossary/compounds-q-t/#tannic-acid) (1 shared sources)
-- [Ursolic acid](/nighantu/reference/ursolic-acid/) (1 shared sources)
-- [Genistein](/nighantu/glossary/compounds-d-g/#genistein) (1 shared sources)
-- [Stigmasterol](/nighantu/reference/stigmasterol/) (1 shared sources)
-- [Taxifolin](/nighantu/glossary/compounds-t-z/#taxifolin) (1 shared sources)
+- [Beta-sitosterol](/glossary/compounds-a-c/#betasitosterol) (1 shared sources)
+- [Tannic acid](/glossary/compounds-q-t/#tannic-acid) (1 shared sources)
+- [Ursolic acid](/reference/ursolic-acid/) (1 shared sources)
+- [Genistein](/glossary/compounds-d-g/#genistein) (1 shared sources)
+- [Stigmasterol](/reference/stigmasterol/) (1 shared sources)
+- [Taxifolin](/glossary/compounds-t-z/#taxifolin) (1 shared sources)
 
 ### Naringin {#naringin}
 
@@ -1153,22 +1153,22 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Bijapura](/nighantu/herb/bijapura/) — *Citrus medica L.*
-- [Matulunga](/nighantu/herb/matulunga/) — *Citrus medica L.*
-- [Matulunga Rasa](/nighantu/herb/matulunga-rasa/)
-- [Nimbu](/nighantu/herb/nimbu/) — *Citrus limon (L.) Osbeck*
+- [Bijapura](/herb/bijapura/) — *Citrus medica L.*
+- [Matulunga](/herb/matulunga/) — *Citrus medica L.*
+- [Matulunga Rasa](/herb/matulunga-rasa/)
+- [Nimbu](/herb/nimbu/) — *Citrus limon (L.) Osbeck*
 
 #### Often Found With
 
-- [Hesperidin](/nighantu/glossary/compounds-g-l/#hesperidin) (5 shared sources)
-- [Limonene](/nighantu/glossary/compounds-g-l/#limonene) (4 shared sources)
-- [Citral](/nighantu/glossary/compounds-c-d/#citral) (3 shared sources)
-- [Citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid) (3 shared sources)
-- [Ascorbic acid](/nighantu/glossary/compounds-1-a/#ascorbic-acid) (3 shared sources)
-- [Linalool](/nighantu/glossary/compounds-l-o/#linalool) (3 shared sources)
-- [Citric acid](/nighantu/glossary/compounds-c-d/#citric-acid) (3 shared sources)
-- [D-Limonene](/nighantu/glossary/compounds-c-d/#dlimonene) (2 shared sources)
-- [Pectin](/nighantu/glossary/compounds-o-q/#pectin) (2 shared sources)
+- [Hesperidin](/glossary/compounds-g-l/#hesperidin) (5 shared sources)
+- [Limonene](/glossary/compounds-g-l/#limonene) (4 shared sources)
+- [Citral](/glossary/compounds-c-d/#citral) (3 shared sources)
+- [Citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid) (3 shared sources)
+- [Ascorbic acid](/glossary/compounds-1-a/#ascorbic-acid) (3 shared sources)
+- [Linalool](/glossary/compounds-l-o/#linalool) (3 shared sources)
+- [Citric acid](/glossary/compounds-c-d/#citric-acid) (3 shared sources)
+- [D-Limonene](/glossary/compounds-c-d/#dlimonene) (2 shared sources)
+- [Pectin](/glossary/compounds-o-q/#pectin) (2 shared sources)
 
 ### Neferine {#neferine}
 
@@ -1176,19 +1176,19 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Aravindasava](/nighantu/formulation/aravindasava/)
-- [Kamala](/nighantu/herb/kamala/) — *Nelumbo nucifera Gaertn.*
-- [Kamalakanda](/nighantu/herb/kamalakanda/)
+- [Aravindasava](/formulation/aravindasava/)
+- [Kamala](/herb/kamala/) — *Nelumbo nucifera Gaertn.*
+- [Kamalakanda](/herb/kamalakanda/)
 
 #### Often Found With
 
-- [Liensinine](/nighantu/glossary/compounds-g-l/#liensinine) (4 shared sources)
-- [Nuciferine](/nighantu/glossary/compounds-l-o/#nuciferine) (4 shared sources)
-- [Isoliensinine](/nighantu/glossary/compounds-g-l/#isoliensinine) (3 shared sources)
-- [Hyperoside](/nighantu/glossary/compounds-g-l/#hyperoside) (2 shared sources)
-- [Quercetin](/nighantu/reference/quercetinquercetin/) (1 shared sources)
-- [Anthocyanins](/nighantu/glossary/compounds-1-a/#anthocyanins) (1 shared sources)
-- [Kaempferol-3-glucoside](/nighantu/glossary/compounds-g-l/#kaempferol3glucoside) (1 shared sources)
+- [Liensinine](/glossary/compounds-g-l/#liensinine) (4 shared sources)
+- [Nuciferine](/glossary/compounds-l-o/#nuciferine) (4 shared sources)
+- [Isoliensinine](/glossary/compounds-g-l/#isoliensinine) (3 shared sources)
+- [Hyperoside](/glossary/compounds-g-l/#hyperoside) (2 shared sources)
+- [Quercetin](/reference/quercetinquercetin/) (1 shared sources)
+- [Anthocyanins](/glossary/compounds-1-a/#anthocyanins) (1 shared sources)
+- [Kaempferol-3-glucoside](/glossary/compounds-g-l/#kaempferol3glucoside) (1 shared sources)
 
 ### Neoandrographolide {#neoandrographolide}
 
@@ -1196,14 +1196,14 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Bhunimba](/nighantu/herb/bhunimba/)
-- [Kalmegh](/nighantu/herb/kalmegh/)
+- [Bhunimba](/herb/bhunimba/)
+- [Kalmegh](/herb/kalmegh/)
 
 #### Often Found With
 
-- [Andrograpanin](/nighantu/glossary/compounds-1-a/#andrograpanin) (4 shared sources)
-- [Andrographolide](/nighantu/glossary/compounds-1-a/#andrographolide) (4 shared sources)
-- [Flavonoids](/nighantu/reference/flavonoids/) (1 shared sources)
+- [Andrograpanin](/glossary/compounds-1-a/#andrograpanin) (4 shared sources)
+- [Andrographolide](/glossary/compounds-1-a/#andrographolide) (4 shared sources)
+- [Flavonoids](/reference/flavonoids/) (1 shared sources)
 
 ### Neocnidilide {#neocnidilide}
 
@@ -1211,9 +1211,9 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Often Found With
 
-- [Ferulic acid](/nighantu/glossary/compounds-d-g/#ferulic-acid) (2 shared sources)
-- [Coumarins](/nighantu/glossary/compounds-c-d/#coumarins) (1 shared sources)
-- [Phenolic acids](/nighantu/glossary/compounds-o-q/#phenolic-acids) (1 shared sources)
+- [Ferulic acid](/glossary/compounds-d-g/#ferulic-acid) (2 shared sources)
+- [Coumarins](/glossary/compounds-c-d/#coumarins) (1 shared sources)
+- [Phenolic acids](/glossary/compounds-o-q/#phenolic-acids) (1 shared sources)
 
 ### Nerol {#nerol}
 
@@ -1221,19 +1221,19 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Taruni](/nighantu/herb/taruni/)
+- [Taruni](/herb/taruni/)
 
 #### Often Found With
 
-- [Geraniol](/nighantu/glossary/compounds-d-g/#geraniol) (5 shared sources)
-- [Linalool](/nighantu/glossary/compounds-l-o/#linalool) (4 shared sources)
-- [Citronellol](/nighantu/glossary/compounds-c-d/#citronellol) (3 shared sources)
-- [Gallic acid](/nighantu/reference/gallic-acid/) (2 shared sources)
-- [Kaempferol](/nighantu/reference/kaempferol/) (2 shared sources)
-- [Eugenol](/nighantu/glossary/compounds-d-g/#eugenol) (2 shared sources)
-- [Neryl acetate](/nighantu/glossary/compounds-l-o/#neryl-acetate) (2 shared sources)
-- [Linalyl acetate](/nighantu/glossary/compounds-l-o/#linalyl-acetate) (2 shared sources)
-- [Limonene](/nighantu/glossary/compounds-g-l/#limonene) (2 shared sources)
+- [Geraniol](/glossary/compounds-d-g/#geraniol) (5 shared sources)
+- [Linalool](/glossary/compounds-l-o/#linalool) (4 shared sources)
+- [Citronellol](/glossary/compounds-c-d/#citronellol) (3 shared sources)
+- [Gallic acid](/reference/gallic-acid/) (2 shared sources)
+- [Kaempferol](/reference/kaempferol/) (2 shared sources)
+- [Eugenol](/glossary/compounds-d-g/#eugenol) (2 shared sources)
+- [Neryl acetate](/glossary/compounds-l-o/#neryl-acetate) (2 shared sources)
+- [Linalyl acetate](/glossary/compounds-l-o/#linalyl-acetate) (2 shared sources)
+- [Limonene](/glossary/compounds-g-l/#limonene) (2 shared sources)
 
 ### Nerolidol {#nerolidol}
 
@@ -1241,13 +1241,13 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Often Found With
 
-- [Geraniol](/nighantu/glossary/compounds-d-g/#geraniol) (1 shared sources)
-- [Linalyl acetate](/nighantu/glossary/compounds-l-o/#linalyl-acetate) (1 shared sources)
-- [Linalool](/nighantu/glossary/compounds-l-o/#linalool) (1 shared sources)
-- [Nerol](/nighantu/glossary/compounds-l-o/#nerol) (1 shared sources)
-- [Limonene](/nighantu/glossary/compounds-g-l/#limonene) (1 shared sources)
-- [Borneol](/nighantu/glossary/compounds-a-c/#borneol) (1 shared sources)
-- [Camphor](/nighantu/herb/camphor/) (1 shared sources)
+- [Geraniol](/glossary/compounds-d-g/#geraniol) (1 shared sources)
+- [Linalyl acetate](/glossary/compounds-l-o/#linalyl-acetate) (1 shared sources)
+- [Linalool](/glossary/compounds-l-o/#linalool) (1 shared sources)
+- [Nerol](/glossary/compounds-l-o/#nerol) (1 shared sources)
+- [Limonene](/glossary/compounds-g-l/#limonene) (1 shared sources)
+- [Borneol](/glossary/compounds-a-c/#borneol) (1 shared sources)
+- [Camphor](/herb/camphor/) (1 shared sources)
 
 ### Neryl acetate {#neryl-acetate}
 
@@ -1255,12 +1255,12 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Often Found With
 
-- [Linalool](/nighantu/glossary/compounds-l-o/#linalool) (2 shared sources)
-- [Nerol](/nighantu/glossary/compounds-l-o/#nerol) (2 shared sources)
-- [Geraniol](/nighantu/glossary/compounds-d-g/#geraniol) (1 shared sources)
-- [Germacrene D](/nighantu/glossary/compounds-d-g/#germacrene-d) (1 shared sources)
-- [Linalyl acetate](/nighantu/glossary/compounds-l-o/#linalyl-acetate) (1 shared sources)
-- [alpha-Pinene](/nighantu/glossary/compounds-1-a/#alphapinene) (1 shared sources)
+- [Linalool](/glossary/compounds-l-o/#linalool) (2 shared sources)
+- [Nerol](/glossary/compounds-l-o/#nerol) (2 shared sources)
+- [Geraniol](/glossary/compounds-d-g/#geraniol) (1 shared sources)
+- [Germacrene D](/glossary/compounds-d-g/#germacrene-d) (1 shared sources)
+- [Linalyl acetate](/glossary/compounds-l-o/#linalyl-acetate) (1 shared sources)
+- [alpha-Pinene](/glossary/compounds-1-a/#alphapinene) (1 shared sources)
 
 ### Nigellidine {#nigellidine}
 
@@ -1268,21 +1268,21 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Kalajaji](/nighantu/herb/kalajaji/) — *Nigella sativa L.*
-- [Kalonji](/nighantu/herb/kalonji/) — *Nigella sativa*
-- [Krishna Jeeraka](/nighantu/herb/krishna-jeeraka/)
+- [Kalajaji](/herb/kalajaji/) — *Nigella sativa L.*
+- [Kalonji](/herb/kalonji/) — *Nigella sativa*
+- [Krishna Jeeraka](/herb/krishna-jeeraka/)
 
 #### Often Found With
 
-- [Nigellone](/nighantu/glossary/compounds-l-o/#nigellone) (3 shared sources)
-- [Thymohydroquinone](/nighantu/glossary/compounds-t-z/#thymohydroquinone) (3 shared sources)
-- [Carvacrol](/nighantu/glossary/compounds-a-c/#carvacrol) (3 shared sources)
-- [Thymoquinone](/nighantu/glossary/compounds-t-z/#thymoquinone) (3 shared sources)
-- [Thymol](/nighantu/glossary/compounds-t-z/#thymol) (3 shared sources)
-- [p-Cymene](/nighantu/glossary/compounds-o-q/#pcymene) (3 shared sources)
-- [Alpha-hederin](/nighantu/glossary/compounds-1-a/#alphahederin) (2 shared sources)
-- [Alpha-pinene](/nighantu/glossary/compounds-1-a/#alphapinene) (2 shared sources)
-- [P-cymene](/nighantu/glossary/compounds-o-q/#pcymene) (1 shared sources)
+- [Nigellone](/glossary/compounds-l-o/#nigellone) (3 shared sources)
+- [Thymohydroquinone](/glossary/compounds-t-z/#thymohydroquinone) (3 shared sources)
+- [Carvacrol](/glossary/compounds-a-c/#carvacrol) (3 shared sources)
+- [Thymoquinone](/glossary/compounds-t-z/#thymoquinone) (3 shared sources)
+- [Thymol](/glossary/compounds-t-z/#thymol) (3 shared sources)
+- [p-Cymene](/glossary/compounds-o-q/#pcymene) (3 shared sources)
+- [Alpha-hederin](/glossary/compounds-1-a/#alphahederin) (2 shared sources)
+- [Alpha-pinene](/glossary/compounds-1-a/#alphapinene) (2 shared sources)
+- [P-cymene](/glossary/compounds-o-q/#pcymene) (1 shared sources)
 
 ### Nigellone {#nigellone}
 
@@ -1290,21 +1290,21 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Kalajaji](/nighantu/herb/kalajaji/) — *Nigella sativa L.*
-- [Kalonji](/nighantu/herb/kalonji/) — *Nigella sativa*
-- [Krishna Jeeraka](/nighantu/herb/krishna-jeeraka/)
+- [Kalajaji](/herb/kalajaji/) — *Nigella sativa L.*
+- [Kalonji](/herb/kalonji/) — *Nigella sativa*
+- [Krishna Jeeraka](/herb/krishna-jeeraka/)
 
 #### Often Found With
 
-- [Thymohydroquinone](/nighantu/glossary/compounds-t-z/#thymohydroquinone) (5 shared sources)
-- [Carvacrol](/nighantu/glossary/compounds-a-c/#carvacrol) (5 shared sources)
-- [Thymoquinone](/nighantu/glossary/compounds-t-z/#thymoquinone) (5 shared sources)
-- [Thymol](/nighantu/glossary/compounds-t-z/#thymol) (4 shared sources)
-- [p-Cymene](/nighantu/glossary/compounds-o-q/#pcymene) (4 shared sources)
-- [Nigellidine](/nighantu/glossary/compounds-l-o/#nigellidine) (3 shared sources)
-- [Alpha-hederin](/nighantu/glossary/compounds-1-a/#alphahederin) (3 shared sources)
-- [Alpha-pinene](/nighantu/glossary/compounds-1-a/#alphapinene) (2 shared sources)
-- [P-cymene](/nighantu/glossary/compounds-o-q/#pcymene) (1 shared sources)
+- [Thymohydroquinone](/glossary/compounds-t-z/#thymohydroquinone) (5 shared sources)
+- [Carvacrol](/glossary/compounds-a-c/#carvacrol) (5 shared sources)
+- [Thymoquinone](/glossary/compounds-t-z/#thymoquinone) (5 shared sources)
+- [Thymol](/glossary/compounds-t-z/#thymol) (4 shared sources)
+- [p-Cymene](/glossary/compounds-o-q/#pcymene) (4 shared sources)
+- [Nigellidine](/glossary/compounds-l-o/#nigellidine) (3 shared sources)
+- [Alpha-hederin](/glossary/compounds-1-a/#alphahederin) (3 shared sources)
+- [Alpha-pinene](/glossary/compounds-1-a/#alphapinene) (2 shared sources)
+- [P-cymene](/glossary/compounds-o-q/#pcymene) (1 shared sources)
 
 ### Nimbidin {#nimbidin}
 
@@ -1312,18 +1312,18 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Nimba](/nighantu/herb/nimba/) — *Azadirachta indica A. Juss.*
-- [Nimba Taila](/nighantu/glossary/concepts-m-y/#nimba-taila)
+- [Nimba](/herb/nimba/) — *Azadirachta indica A. Juss.*
+- [Nimba Taila](/glossary/concepts-m-y/#nimba-taila)
 
 #### Often Found With
 
-- [Azadirachtin](/nighantu/glossary/compounds-a-c/#azadirachtin) (3 shared sources)
-- [Nimbin](/nighantu/glossary/compounds-l-o/#nimbin) (2 shared sources)
-- [Nimbidol](/nighantu/glossary/compounds-l-o/#nimbidol) (2 shared sources)
-- [Salannin](/nighantu/glossary/compounds-q-t/#salannin) (2 shared sources)
-- [Gedunin](/nighantu/glossary/compounds-d-g/#gedunin) (2 shared sources)
-- [Quercetin](/nighantu/reference/quercetinquercetin/) (1 shared sources)
-- [Gallic acid](/nighantu/reference/gallic-acid/) (1 shared sources)
+- [Azadirachtin](/glossary/compounds-a-c/#azadirachtin) (3 shared sources)
+- [Nimbin](/glossary/compounds-l-o/#nimbin) (2 shared sources)
+- [Nimbidol](/glossary/compounds-l-o/#nimbidol) (2 shared sources)
+- [Salannin](/glossary/compounds-q-t/#salannin) (2 shared sources)
+- [Gedunin](/glossary/compounds-d-g/#gedunin) (2 shared sources)
+- [Quercetin](/reference/quercetinquercetin/) (1 shared sources)
+- [Gallic acid](/reference/gallic-acid/) (1 shared sources)
 
 ### Nimbidol {#nimbidol}
 
@@ -1331,17 +1331,17 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Nimba](/nighantu/herb/nimba/) — *Azadirachta indica A. Juss.*
+- [Nimba](/herb/nimba/) — *Azadirachta indica A. Juss.*
 
 #### Often Found With
 
-- [Salannin](/nighantu/glossary/compounds-q-t/#salannin) (4 shared sources)
-- [Gedunin](/nighantu/glossary/compounds-d-g/#gedunin) (4 shared sources)
-- [Azadirachtin](/nighantu/glossary/compounds-a-c/#azadirachtin) (4 shared sources)
-- [Quercetin](/nighantu/reference/quercetinquercetin/) (2 shared sources)
-- [Gallic acid](/nighantu/reference/gallic-acid/) (2 shared sources)
-- [Quercetin](/nighantu/reference/quercetinquercetin/) and beta-sitosterol (2 shared sources)
-- [Nimbidin](/nighantu/glossary/compounds-l-o/#nimbidin) (1 shared sources)
+- [Salannin](/glossary/compounds-q-t/#salannin) (4 shared sources)
+- [Gedunin](/glossary/compounds-d-g/#gedunin) (4 shared sources)
+- [Azadirachtin](/glossary/compounds-a-c/#azadirachtin) (4 shared sources)
+- [Quercetin](/reference/quercetinquercetin/) (2 shared sources)
+- [Gallic acid](/reference/gallic-acid/) (2 shared sources)
+- [Quercetin](/reference/quercetinquercetin/) and beta-sitosterol (2 shared sources)
+- [Nimbidin](/glossary/compounds-l-o/#nimbidin) (1 shared sources)
 
 ### Nimbin {#nimbin}
 
@@ -1349,23 +1349,23 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Guggulutiktakam Ghritam](/nighantu/formulation/guggulutiktakam-ghritam/)
-- [Nimba](/nighantu/herb/nimba/) — *Azadirachta indica A. Juss.*
-- [Nimba Beeja](/nighantu/herb/nimba-beeja/)
-- [Nimba Taila](/nighantu/glossary/concepts-m-y/#nimba-taila)
+- [Guggulutiktakam Ghritam](/formulation/guggulutiktakam-ghritam/)
+- [Nimba](/herb/nimba/) — *Azadirachta indica A. Juss.*
+- [Nimba Beeja](/herb/nimba-beeja/)
+- [Nimba Taila](/glossary/concepts-m-y/#nimba-taila)
 
 #### Often Found With
 
-- [Azadirachtin](/nighantu/glossary/compounds-a-c/#azadirachtin) (4 shared sources)
-- [Salannin](/nighantu/glossary/compounds-q-t/#salannin) (3 shared sources)
-- [Gedunin](/nighantu/glossary/compounds-d-g/#gedunin) (3 shared sources)
-- [Gallic acid](/nighantu/reference/gallic-acid/) (2 shared sources)
-- [Nimbidin](/nighantu/glossary/compounds-l-o/#nimbidin) (2 shared sources)
-- [Nimbidol](/nighantu/glossary/compounds-l-o/#nimbidol) (2 shared sources)
-- [Z-Guggulsterone](/nighantu/glossary/compounds-t-z/#zguggulsterone) (1 shared sources)
-- [Berberine](/nighantu/glossary/compounds-a-c/#berberine) (1 shared sources)
-- [E-Guggulsterone](/nighantu/glossary/compounds-d-g/#eguggulsterone) (1 shared sources)
-- [Piperine](/nighantu/reference/piperine/) (1 shared sources)
+- [Azadirachtin](/glossary/compounds-a-c/#azadirachtin) (4 shared sources)
+- [Salannin](/glossary/compounds-q-t/#salannin) (3 shared sources)
+- [Gedunin](/glossary/compounds-d-g/#gedunin) (3 shared sources)
+- [Gallic acid](/reference/gallic-acid/) (2 shared sources)
+- [Nimbidin](/glossary/compounds-l-o/#nimbidin) (2 shared sources)
+- [Nimbidol](/glossary/compounds-l-o/#nimbidol) (2 shared sources)
+- [Z-Guggulsterone](/glossary/compounds-t-z/#zguggulsterone) (1 shared sources)
+- [Berberine](/glossary/compounds-a-c/#berberine) (1 shared sources)
+- [E-Guggulsterone](/glossary/compounds-d-g/#eguggulsterone) (1 shared sources)
+- [Piperine](/reference/piperine/) (1 shared sources)
 
 ### Nimbolide {#nimbolide}
 
@@ -1373,20 +1373,20 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Mahanimba](/nighantu/herb/mahanimba/)
-- [Nimba](/nighantu/herb/nimba/) — *Azadirachta indica A. Juss.*
-- [Nimba Patra](/nighantu/herb/nimba-patra/)
+- [Mahanimba](/herb/mahanimba/)
+- [Nimba](/herb/nimba/) — *Azadirachta indica A. Juss.*
+- [Nimba Patra](/herb/nimba-patra/)
 
 #### Often Found With
 
-- [Beta-sitosterol](/nighantu/glossary/compounds-a-c/#betasitosterol) (2 shared sources)
-- [Kaempferol](/nighantu/reference/kaempferol/) (2 shared sources)
-- [Nimbidol](/nighantu/glossary/compounds-l-o/#nimbidol) (2 shared sources)
-- [Gallic acid](/nighantu/reference/gallic-acid/) (2 shared sources)
-- [Catechin](/nighantu/reference/catechin/) (2 shared sources)
-- [Salannin](/nighantu/glossary/compounds-q-t/#salannin) (2 shared sources)
-- [Gedunin](/nighantu/glossary/compounds-d-g/#gedunin) (2 shared sources)
-- [Azadirachtin](/nighantu/glossary/compounds-a-c/#azadirachtin) (2 shared sources)
+- [Beta-sitosterol](/glossary/compounds-a-c/#betasitosterol) (2 shared sources)
+- [Kaempferol](/reference/kaempferol/) (2 shared sources)
+- [Nimbidol](/glossary/compounds-l-o/#nimbidol) (2 shared sources)
+- [Gallic acid](/reference/gallic-acid/) (2 shared sources)
+- [Catechin](/reference/catechin/) (2 shared sources)
+- [Salannin](/glossary/compounds-q-t/#salannin) (2 shared sources)
+- [Gedunin](/glossary/compounds-d-g/#gedunin) (2 shared sources)
+- [Azadirachtin](/glossary/compounds-a-c/#azadirachtin) (2 shared sources)
 
 ### Nobiletin {#nobiletin}
 
@@ -1394,18 +1394,18 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Matulunga](/nighantu/herb/matulunga/) — *Citrus medica L.*
+- [Matulunga](/herb/matulunga/) — *Citrus medica L.*
 
 #### Often Found With
 
-- [Hesperidin](/nighantu/glossary/compounds-g-l/#hesperidin) (3 shared sources)
-- [D-Limonene](/nighantu/glossary/compounds-c-d/#dlimonene) (2 shared sources)
-- [Naringin](/nighantu/glossary/compounds-l-o/#naringin) (2 shared sources)
-- [Limonin](/nighantu/glossary/compounds-l-o/#limonin) (2 shared sources)
-- [Citral](/nighantu/glossary/compounds-c-d/#citral) (1 shared sources)
-- [Citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid) (1 shared sources)
-- [Citronellal](/nighantu/glossary/compounds-c-d/#citronellal) (1 shared sources)
-- [Ascorbic acid](/nighantu/glossary/compounds-1-a/#ascorbic-acid) (1 shared sources)
+- [Hesperidin](/glossary/compounds-g-l/#hesperidin) (3 shared sources)
+- [D-Limonene](/glossary/compounds-c-d/#dlimonene) (2 shared sources)
+- [Naringin](/glossary/compounds-l-o/#naringin) (2 shared sources)
+- [Limonin](/glossary/compounds-l-o/#limonin) (2 shared sources)
+- [Citral](/glossary/compounds-c-d/#citral) (1 shared sources)
+- [Citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid) (1 shared sources)
+- [Citronellal](/glossary/compounds-c-d/#citronellal) (1 shared sources)
+- [Ascorbic acid](/glossary/compounds-1-a/#ascorbic-acid) (1 shared sources)
 
 ### Nuciferine {#nuciferine}
 
@@ -1413,20 +1413,20 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Aravindasava](/nighantu/formulation/aravindasava/)
-- [Kamala](/nighantu/herb/kamala/) — *Nelumbo nucifera Gaertn.*
-- [Kamala Kesara](/nighantu/herb/kamala-kesara/)
-- [Kamalakanda](/nighantu/herb/kamalakanda/)
+- [Aravindasava](/formulation/aravindasava/)
+- [Kamala](/herb/kamala/) — *Nelumbo nucifera Gaertn.*
+- [Kamala Kesara](/herb/kamala-kesara/)
+- [Kamalakanda](/herb/kamalakanda/)
 
 #### Often Found With
 
-- [Liensinine](/nighantu/glossary/compounds-g-l/#liensinine) (4 shared sources)
-- [Neferine](/nighantu/glossary/compounds-l-o/#neferine) (4 shared sources)
-- [Isoliensinine](/nighantu/glossary/compounds-g-l/#isoliensinine) (3 shared sources)
-- [Quercetin](/nighantu/reference/quercetinquercetin/) (2 shared sources)
-- [Hyperoside](/nighantu/glossary/compounds-g-l/#hyperoside) (2 shared sources)
-- [Anthocyanins](/nighantu/glossary/compounds-1-a/#anthocyanins) (1 shared sources)
-- [Kaempferol-3-glucoside](/nighantu/glossary/compounds-g-l/#kaempferol3glucoside) (1 shared sources)
+- [Liensinine](/glossary/compounds-g-l/#liensinine) (4 shared sources)
+- [Neferine](/glossary/compounds-l-o/#neferine) (4 shared sources)
+- [Isoliensinine](/glossary/compounds-g-l/#isoliensinine) (3 shared sources)
+- [Quercetin](/reference/quercetinquercetin/) (2 shared sources)
+- [Hyperoside](/glossary/compounds-g-l/#hyperoside) (2 shared sources)
+- [Anthocyanins](/glossary/compounds-1-a/#anthocyanins) (1 shared sources)
+- [Kaempferol-3-glucoside](/glossary/compounds-g-l/#kaempferol3glucoside) (1 shared sources)
 
 ### Nucleosides {#nucleosides}
 
@@ -1434,9 +1434,9 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Often Found With
 
-- [Ergosterol](/nighantu/glossary/compounds-d-g/#ergosterol) (2 shared sources)
-- [Adenosine](/nighantu/glossary/compounds-1-a/#adenosine) (2 shared sources)
-- [Polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides) (2 shared sources)
+- [Ergosterol](/glossary/compounds-d-g/#ergosterol) (2 shared sources)
+- [Adenosine](/glossary/compounds-1-a/#adenosine) (2 shared sources)
+- [Polysaccharides](/glossary/compounds-o-q/#polysaccharides) (2 shared sources)
 
 ### Ocimene {#ocimene}
 
@@ -1444,19 +1444,19 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Amra Haridra](/nighantu/herb/amra-haridra/)
-- [Tagetes](/nighantu/herb/tagetes/)
-- [Tilaparni](/nighantu/herb/tilaparni/)
+- [Amra Haridra](/herb/amra-haridra/)
+- [Tagetes](/herb/tagetes/)
+- [Tilaparni](/herb/tilaparni/)
 
 #### Often Found With
 
-- [Methyl eugenol](/nighantu/glossary/compounds-l-o/#methyl-eugenol) (1 shared sources)
-- [beta-Caryophyllene](/nighantu/glossary/compounds-a-c/#betacaryophyllene) (1 shared sources)
-- [Ursolic acid](/nighantu/reference/ursolic-acid/) (1 shared sources)
-- [Rosmarinic acid](/nighantu/glossary/compounds-q-t/#rosmarinic-acid) (1 shared sources)
-- [Linalool](/nighantu/glossary/compounds-l-o/#linalool) (1 shared sources)
-- [Eugenol](/nighantu/glossary/compounds-d-g/#eugenol) (1 shared sources)
-- [Zeaxanthin](/nighantu/glossary/compounds-t-z/#zeaxanthin) (1 shared sources)
+- [Methyl eugenol](/glossary/compounds-l-o/#methyl-eugenol) (1 shared sources)
+- [beta-Caryophyllene](/glossary/compounds-a-c/#betacaryophyllene) (1 shared sources)
+- [Ursolic acid](/reference/ursolic-acid/) (1 shared sources)
+- [Rosmarinic acid](/glossary/compounds-q-t/#rosmarinic-acid) (1 shared sources)
+- [Linalool](/glossary/compounds-l-o/#linalool) (1 shared sources)
+- [Eugenol](/glossary/compounds-d-g/#eugenol) (1 shared sources)
+- [Zeaxanthin](/glossary/compounds-t-z/#zeaxanthin) (1 shared sources)
 
 ### Ocimumosides A and B {#ocimumosides-a-and-b}
 
@@ -1464,19 +1464,19 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Holy Basil](/nighantu/herb/holy-basil/)
+- [Holy Basil](/herb/holy-basil/)
 
 #### Often Found With
 
-- [Ursolic acid](/nighantu/reference/ursolic-acid/) (4 shared sources)
-- [Rosmarinic acid](/nighantu/glossary/compounds-q-t/#rosmarinic-acid) (4 shared sources)
-- [Eugenol](/nighantu/glossary/compounds-d-g/#eugenol) (4 shared sources)
-- [Beta-caryophyllene](/nighantu/glossary/compounds-a-c/#betacaryophyllene) (3 shared sources)
-- [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin) (3 shared sources)
-- [Oleanolic acid](/nighantu/reference/oleanolic-acid/) (3 shared sources)
-- [Luteolin](/nighantu/glossary/compounds-l-o/#luteolin) (2 shared sources)
-- [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin) and luteolin (1 shared sources)
-- [Methyl eugenol](/nighantu/glossary/compounds-l-o/#methyl-eugenol) (1 shared sources)
+- [Ursolic acid](/reference/ursolic-acid/) (4 shared sources)
+- [Rosmarinic acid](/glossary/compounds-q-t/#rosmarinic-acid) (4 shared sources)
+- [Eugenol](/glossary/compounds-d-g/#eugenol) (4 shared sources)
+- [Beta-caryophyllene](/glossary/compounds-a-c/#betacaryophyllene) (3 shared sources)
+- [Apigenin](/glossary/compounds-1-a/#apigenin) (3 shared sources)
+- [Oleanolic acid](/reference/oleanolic-acid/) (3 shared sources)
+- [Luteolin](/glossary/compounds-l-o/#luteolin) (2 shared sources)
+- [Apigenin](/glossary/compounds-1-a/#apigenin) and luteolin (1 shared sources)
+- [Methyl eugenol](/glossary/compounds-l-o/#methyl-eugenol) (1 shared sources)
 
 ### Oleic acid {#oleic-acid}
 
@@ -1484,41 +1484,41 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Atasi](/nighantu/herb/atasi/) — *Linum usitatissimum L.*
-- [Badama Taila](/nighantu/formulation/badama-taila/)
-- [Eranda](/nighantu/herb/eranda/) — *Ricinus communis L.*
-- [Eranda Paka](/nighantu/herb/eranda-paka/) — *Ricinus communis L. (processed castor preparation)*
-- [Eranda Taila](/nighantu/formulation/eranda-taila/)
-- [Gavedhuka](/nighantu/herb/gavedhuka/)
-- [Jaitun Taila](/nighantu/glossary/concepts-a-m/#jaitun-taila)
-- [Jyotishmati](/nighantu/herb/jyotishmati/)
-- [Kakoli](/nighantu/herb/kakoli/) — *Roscoea purpurea Sm. (also identified with Fritillaria roylei)*
-- [Karanja](/nighantu/herb/karanja/) — *Millettia pinnata (L.) Panigrahi (syn. Pongamia pinnata (L.) Pierre)*
-- [Karpasa](/nighantu/herb/karpasa/)
-- [Koshamra](/nighantu/herb/koshamra/)
-- [Koshataki](/nighantu/herb/koshataki/)
-- [Kshirabala 101 Avarti](/nighantu/herb/kshirabala-101-avarti/)
-- [Kusumbha](/nighantu/herb/kusumbha/)
-- [Kusumbha Taila](/nighantu/glossary/concepts-a-m/#kusumbha-taila)
-- [Madhuka](/nighantu/herb/madhuka/) — *Madhuca longifolia (J.Koenig ex L.) J.F.Macbr.*
-- [Nimba Beeja](/nighantu/herb/nimba-beeja/)
-- [Priyala](/nighantu/herb/priyala/)
-- [Putranjivaka](/nighantu/herb/putranjivaka/)
-- [Rajika](/nighantu/herb/rajika/)
-- [Sesame Oil](/nighantu/glossary/concepts-m-y/#sesame-oil)
-- [Tila](/nighantu/herb/tila/) — *Sesamum indicum L.*
-- [Trapusha](/nighantu/herb/trapusha/)
-- [Vathada](/nighantu/herb/vathada/)
+- [Atasi](/herb/atasi/) — *Linum usitatissimum L.*
+- [Badama Taila](/formulation/badama-taila/)
+- [Eranda](/herb/eranda/) — *Ricinus communis L.*
+- [Eranda Paka](/herb/eranda-paka/) — *Ricinus communis L. (processed castor preparation)*
+- [Eranda Taila](/formulation/eranda-taila/)
+- [Gavedhuka](/herb/gavedhuka/)
+- [Jaitun Taila](/glossary/concepts-a-m/#jaitun-taila)
+- [Jyotishmati](/herb/jyotishmati/)
+- [Kakoli](/herb/kakoli/) — *Roscoea purpurea Sm. (also identified with Fritillaria roylei)*
+- [Karanja](/herb/karanja/) — *Millettia pinnata (L.) Panigrahi (syn. Pongamia pinnata (L.) Pierre)*
+- [Karpasa](/herb/karpasa/)
+- [Koshamra](/herb/koshamra/)
+- [Koshataki](/herb/koshataki/)
+- [Kshirabala 101 Avarti](/herb/kshirabala-101-avarti/)
+- [Kusumbha](/herb/kusumbha/)
+- [Kusumbha Taila](/glossary/concepts-a-m/#kusumbha-taila)
+- [Madhuka](/herb/madhuka/) — *Madhuca longifolia (J.Koenig ex L.) J.F.Macbr.*
+- [Nimba Beeja](/herb/nimba-beeja/)
+- [Priyala](/herb/priyala/)
+- [Putranjivaka](/herb/putranjivaka/)
+- [Rajika](/herb/rajika/)
+- [Sesame Oil](/glossary/concepts-m-y/#sesame-oil)
+- [Tila](/herb/tila/) — *Sesamum indicum L.*
+- [Trapusha](/herb/trapusha/)
+- [Vathada](/herb/vathada/)
 
 #### Often Found With
 
-- [Linoleic acid](/nighantu/glossary/compounds-l-o/#linoleic-acid) (29 shared sources)
-- [Beta-sitosterol](/nighantu/glossary/compounds-a-c/#betasitosterol) (13 shared sources)
-- [Palmitic acid](/nighantu/glossary/compounds-o-q/#palmitic-acid) (10 shared sources)
-- [Phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols) (6 shared sources)
-- [Stearic acid](/nighantu/glossary/compounds-q-t/#stearic-acidstearic-acid) (5 shared sources)
-- [Amygdalin](/nighantu/glossary/compounds-1-a/#amygdalin) (4 shared sources)
-- [Stigmasterol](/nighantu/reference/stigmasterol/) (4 shared sources)
-- [Flavonoids](/nighantu/reference/flavonoids/) (4 shared sources)
-- [Quercetin](/nighantu/reference/quercetinquercetin/) (4 shared sources)
-- [Glucosinolates](/nighantu/glossary/compounds-d-g/#glucosinolates) (4 shared sources)
+- [Linoleic acid](/glossary/compounds-l-o/#linoleic-acid) (29 shared sources)
+- [Beta-sitosterol](/glossary/compounds-a-c/#betasitosterol) (13 shared sources)
+- [Palmitic acid](/glossary/compounds-o-q/#palmitic-acid) (10 shared sources)
+- [Phytosterols](/glossary/compounds-o-q/#phytosterols) (6 shared sources)
+- [Stearic acid](/glossary/compounds-q-t/#stearic-acidstearic-acid) (5 shared sources)
+- [Amygdalin](/glossary/compounds-1-a/#amygdalin) (4 shared sources)
+- [Stigmasterol](/reference/stigmasterol/) (4 shared sources)
+- [Flavonoids](/reference/flavonoids/) (4 shared sources)
+- [Quercetin](/reference/quercetinquercetin/) (4 shared sources)
+- [Glucosinolates](/glossary/compounds-d-g/#glucosinolates) (4 shared sources)

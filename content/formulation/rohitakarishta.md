@@ -27,14 +27,14 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Rohitak
 
 ## Where is it described in the classical texts?
 
-Bhaishajya Ratnavali and Charaka Samhita. [Rohitaka](/nighantu/herb/rohitaka/) herb is classically prescribed for liver (Yakrit), blood (Rakta), and spleen (Pleeha) disorders. Also referenced in Sushruta Samhita.
+Bhaishajya Ratnavali and Charaka Samhita. [Rohitaka](/herb/rohitaka/) herb is classically prescribed for liver (Yakrit), blood (Rakta), and spleen (Pleeha) disorders. Also referenced in Sushruta Samhita.
 
 ## How does it work?
 
-- [Hepatoprotective](/nighantu/reference/hepatoprotective/) action through betulinic acid reduces liver enzyme elevation and promotes hepatocyte regeneration
+- [Hepatoprotective](/reference/hepatoprotective/) action through betulinic acid reduces liver enzyme elevation and promotes hepatocyte regeneration
 - Cholagogue action increases bile flow, protecting liver and gallbladder function
 - Spleno-protective action reduces inflammation and blockage in the enlarged spleen, restoring normal function
-- Synergistic action of [Trikatu](/nighantu/herb/trikatu/) (pungent trio) with [Rohitaka](/nighantu/herb/rohitaka/) enhances bioavailability and deepens tissue penetration
+- Synergistic action of [Trikatu](/herb/trikatu/) (pungent trio) with [Rohitaka](/herb/rohitaka/) enhances bioavailability and deepens tissue penetration
 
 ## Which traditional uses are supported by research?
 
@@ -77,7 +77,7 @@ Bhaishajya Ratnavali and Charaka Samhita. [Rohitaka](/nighantu/herb/rohitaka/) h
 
 **Storage:** Room temperature, tightly sealed, away from direct sunlight. Do not refrigerate.
 
-**Marker Compounds:** Rohitukine, [Lapachol](/nighantu/glossary/compounds-g-l/#lapachol)
+**Marker Compounds:** Rohitukine, [Lapachol](/glossary/compounds-g-l/#lapachol)
 
 **Quality Parameters:** Alcohol content 5-12% v/v, pH 3.0-4.5, specific gravity 1.01-1.08, total solids 15-25%, marker: Rohitukine, Lapachol
 
@@ -85,4 +85,4 @@ Bhaishajya Ratnavali and Charaka Samhita. [Rohitaka](/nighantu/herb/rohitaka/) h
 
 ### Synergistic Combinations
 
-- Key herbs: [Rohitaka](/nighantu/herb/rohitaka/) (Tecomella undulata), [Dhataki](/nighantu/herb/dhataki/); fermentation creates unique metabolite profile with enhanced therapeutic activity
+- Key herbs: [Rohitaka](/herb/rohitaka/) (Tecomella undulata), [Dhataki](/herb/dhataki/); fermentation creates unique metabolite profile with enhanced therapeutic activity

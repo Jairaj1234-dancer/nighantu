@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Lohas-Iron-Preparations/Sapt
 
 | Language | Name |
 |----------|------|
-| English | [Saptamrit Lauh](/nighantu/herb/saptamrit-lauh/) |
+| English | [Saptamrit Lauh](/herb/saptamrit-lauh/) |
 
 ## Where is it described in the classical texts?
 
@@ -31,17 +31,17 @@ Bhaishajya Ratnavali, Netra Rogadhikara (Eye Diseases Chapter); also referenced 
 
 ## How does it work?
 
-- [Loha Bhasma](/nighantu/herb/loha-bhasma/) provides bioavailable iron supporting hemoglobin synthesis and oxygen delivery to retinal tissues
-- [Triphala](/nighantu/herb/triphala/) ([Haritaki](/nighantu/herb/haritaki/) + Vibhitaki + Amalaki) provides potent [antioxidant](/nighantu/reference/antioxidant/) protection to retinal cells, reducing oxidative damage from free radicals in eye tissues
-- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (Glycyrrhiza glabra) has anti-inflammatory and [neuroprotective](/nighantu/reference/neuroprotective/) effects supporting optic nerve health
+- [Loha Bhasma](/herb/loha-bhasma/) provides bioavailable iron supporting hemoglobin synthesis and oxygen delivery to retinal tissues
+- [Triphala](/herb/triphala/) ([Haritaki](/herb/haritaki/) + Vibhitaki + Amalaki) provides potent [antioxidant](/reference/antioxidant/) protection to retinal cells, reducing oxidative damage from free radicals in eye tissues
+- [Yashtimadhu](/herb/yashtimadhu/) (Glycyrrhiza glabra) has anti-inflammatory and [neuroprotective](/reference/neuroprotective/) effects supporting optic nerve health
 - Amalaki specifically is rich in vitamin C and bioflavonoids that strengthen retinal capillaries, reducing hemorrhagic tendency
-- [Ghrita](/nighantu/herb/ghrita/) (ghee) as adjuvant acts as a lipid-based bioenhancer improving absorption of fat-soluble phytochemicals and providing nourishment to eye tissues (Netra Tarpana)
-- Combined [Rasayana](/nighantu/reference/rasayana/) (rejuvenative) effect improves microcirculation in the choroidal and retinal vasculature
+- [Ghrita](/herb/ghrita/) (ghee) as adjuvant acts as a lipid-based bioenhancer improving absorption of fat-soluble phytochemicals and providing nourishment to eye tissues (Netra Tarpana)
+- Combined [Rasayana](/reference/rasayana/) (rejuvenative) effect improves microcirculation in the choroidal and retinal vasculature
 
 ## Which traditional uses are supported by research?
 
 - Hemorrhagic retinopathies (diabetic and hypertensive) - validated by clinical study showing rapid hemorrhage absorption and reduced recurrence
-- Myopia and visual disorders (Timira) - validated by comparative clinical study showing improvement in visual acuity with [Saptamrit Lauh](/nighantu/herb/saptamrit-lauh/) therapy
+- Myopia and visual disorders (Timira) - validated by comparative clinical study showing improvement in visual acuity with [Saptamrit Lauh](/herb/saptamrit-lauh/) therapy
 
 ## What do recent clinical trials show?
 
@@ -57,7 +57,7 @@ Bhaishajya Ratnavali, Netra Rogadhikara (Eye Diseases Chapter); also referenced 
 - Generally considered safe when taken at prescribed doses (125-250 mg, 1-2 times daily) with honey and ghee
 - Prolonged use beyond prescribed duration may risk iron overload; periodic hemoglobin and serum ferritin monitoring recommended
 - Contraindicated in hemochromatosis, iron storage disorders, and patients on concurrent iron supplementation
-- Iron content is relatively modest in this formulation due to balance with 4 herbal ingredients plus adjuvants; lower iron overload risk than pure [Loha Bhasma](/nighantu/herb/loha-bhasma/)
+- Iron content is relatively modest in this formulation due to balance with 4 herbal ingredients plus adjuvants; lower iron overload risk than pure [Loha Bhasma](/herb/loha-bhasma/)
 - Heavy metal testing should confirm compliance with Ayurvedic Pharmacopoeia of India (API) limits; purchase only from licensed GMP-certified manufacturers
 
 ## What is it made of?
@@ -75,18 +75,18 @@ Bhaishajya Ratnavali, Netra Rogadhikara (Eye Diseases Chapter); also referenced 
 
 **Standard Dosage:** 250 mg twice daily
 
-**Bioavailability:** Enhanced; [Triphala](/nighantu/herb/triphala/) + [Yashtimadhu](/nighantu/herb/yashtimadhu/) + Loha synergy
+**Bioavailability:** Enhanced; [Triphala](/herb/triphala/) + [Yashtimadhu](/herb/yashtimadhu/) + Loha synergy
 
 **Optimal Timing:** With honey or ghee; morning and evening
 
-**Standardized Extract:** [Loha Bhasma](/nighantu/herb/loha-bhasma/) + [Triphala](/nighantu/herb/triphala/) + [Yashtimadhu](/nighantu/herb/yashtimadhu/) (Licorice) — seven ingredients total
+**Standardized Extract:** [Loha Bhasma](/herb/loha-bhasma/) + [Triphala](/herb/triphala/) + [Yashtimadhu](/herb/yashtimadhu/) (Licorice) — seven ingredients total
 
 **Shelf Life:** 3–5 years
 
 **Storage:** Airtight container
 
-**Marker Compounds:** Iron oxide, [Glycyrrhizin](/nighantu/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) (from Yashtimadhu), Triphala [tannins](/nighantu/reference/tannins/)
+**Marker Compounds:** Iron oxide, [Glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) (from Yashtimadhu), Triphala [tannins](/reference/tannins/)
 
 **Quality Parameters:** Iron content as labeled, standard tablet tests
 
-**Vehicle (Anupana):** Triphala Kwatha, honey, or ghee (Triphala [Ghrita](/nighantu/herb/ghrita/) for eye disorders)
+**Vehicle (Anupana):** Triphala Kwatha, honey, or ghee (Triphala [Ghrita](/herb/ghrita/) for eye disorders)

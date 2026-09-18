@@ -29,32 +29,32 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kulattha/meta-analysis.md"
 ## Key Phytochemical Constituents
 
 - Phenolic acids (gallic acid, caffeic acid, ferulic acid)
-- [Flavonoids](/nighantu/reference/flavonoids/) ([kaempferol](/nighantu/reference/kaempferol/), [quercetin](/nighantu/reference/quercetinquercetin/), [myricetin](/nighantu/glossary/compounds-l-o/#myricetin))
-- [Tannins](/nighantu/reference/tannins/) (condensed tannins)
+- [Flavonoids](/reference/flavonoids/) ([kaempferol](/reference/kaempferol/), [quercetin](/reference/quercetinquercetin/), [myricetin](/glossary/compounds-l-o/#myricetin))
+- [Tannins](/reference/tannins/) (condensed tannins)
 - Phytic acid
 - Dietary fiber (high content)
-- [Proteins](/nighantu/glossary/compounds-o-q/#proteins) (22-25%)
+- [Proteins](/glossary/compounds-o-q/#proteins) (22-25%)
 - Iron and calcium (high mineral content)
-- [Phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols)
-- [Saponins](/nighantu/reference/saponins/)
-- [Antioxidant](/nighantu/reference/antioxidant/) [peptides](/nighantu/glossary/compounds-o-q/#peptides)
+- [Phytosterols](/glossary/compounds-o-q/#phytosterols)
+- [Saponins](/reference/saponins/)
+- [Antioxidant](/reference/antioxidant/) [peptides](/glossary/compounds-o-q/#peptides)
 
 ## How does it work?
 
-- Antilithiatic (anti-kidney stone) mechanism through inhibition of calcium oxalate crystal nucleation and growth, with [diuretic](/nighantu/reference/diuretic/) action promoting stone fragment passage
-- [Antidiabetic](/nighantu/reference/antidiabetic/) action through alpha-amylase and alpha-glucosidase inhibition by [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols), combined with high fiber content slowing carbohydrate absorption
-- [Cardioprotective](/nighantu/reference/cardioprotective/) mechanism involving reduction of oxidative LDL modification and improvement of lipid profiles through phytosterol and fiber-mediated cholesterol reduction
+- Antilithiatic (anti-kidney stone) mechanism through inhibition of calcium oxalate crystal nucleation and growth, with [diuretic](/reference/diuretic/) action promoting stone fragment passage
+- [Antidiabetic](/reference/antidiabetic/) action through alpha-amylase and alpha-glucosidase inhibition by [polyphenols](/glossary/compounds-o-q/#polyphenols), combined with high fiber content slowing carbohydrate absorption
+- [Cardioprotective](/reference/cardioprotective/) mechanism involving reduction of oxidative LDL modification and improvement of lipid profiles through phytosterol and fiber-mediated cholesterol reduction
 
 ## Which traditional uses are supported by research?
 
 - Anti-urolithiatic (kidney stone dissolving) activity validated through in vitro and in vivo studies, confirming premier Ayurvedic use in Ashmari (renal calculi)
-- Antidiabetic potential confirmed through enzyme inhibition and in vivo blood [glucose](/nighantu/glossary/compounds-d-g/#glucose) studies, supporting traditional use in Prameha
+- Antidiabetic potential confirmed through enzyme inhibition and in vivo blood [glucose](/glossary/compounds-d-g/#glucose) studies, supporting traditional use in Prameha
 - Bronchodilatory and anti-asthmatic properties supported by preliminary studies, partially validating traditional use in Shwasa (respiratory conditions)
 
 ## What do recent clinical trials show?
 
 - Oli P, Joshi K, Punetha S 2024. [Traditional uses, phytochemistry, pharmacology, and nutraceutical potential of horse gram (Macrotyloma uniflorum): A systematic review](https://pubmed.ncbi.nlm.nih.gov/39656760/). *Journal of food science*. PMID [39656760](https://pubmed.ncbi.nlm.nih.gov/39656760/) · [doi:10.1111/1750-3841.17594](https://doi.org/10.1111/1750-3841.17594)  
-  Comprehensive systematic review documenting antioxidant, antidiabetic, anti-inflammatory, anticarcinogenic, [antimicrobial](/nighantu/reference/antimicrobial/), antidiarrheal, and [neuroprotective](/nighantu/reference/neuroprotective/) effects of horse gram bioactive compounds.
+  Comprehensive systematic review documenting antioxidant, antidiabetic, anti-inflammatory, anticarcinogenic, [antimicrobial](/reference/antimicrobial/), antidiarrheal, and [neuroprotective](/reference/neuroprotective/) effects of horse gram bioactive compounds.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
@@ -84,7 +84,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kulattha/meta-analysis.md"
 
 **Standard Dosage:** 20-40 g whole seeds for Yusha preparation; 5-10 g powder twice daily; 50-100 mL decoction; seed soup (200-300 mL) once daily
 
-**Bioavailability:** Polyphenols (gallic acid, [catechin](/nighantu/reference/catechin/), [epicatechin](/nighantu/glossary/compounds-d-g/#epicatechin)) show 20-35% oral bioavailability. Anti-nutritional factors (trypsin inhibitors, phytic acid) reduce protein and mineral bioavailability — traditional soaking and cooking methods (Yusha preparation) reduce these by 60-80%. [Isoflavones](/nighantu/glossary/compounds-g-l/#isoflavones) have moderate absorption enhanced by gut microbiome metabolism to equol. Iron and calcium bioavailability improved with ascorbic acid co-administration.
+**Bioavailability:** Polyphenols (gallic acid, [catechin](/reference/catechin/), [epicatechin](/glossary/compounds-d-g/#epicatechin)) show 20-35% oral bioavailability. Anti-nutritional factors (trypsin inhibitors, phytic acid) reduce protein and mineral bioavailability — traditional soaking and cooking methods (Yusha preparation) reduce these by 60-80%. [Isoflavones](/glossary/compounds-g-l/#isoflavones) have moderate absorption enhanced by gut microbiome metabolism to equol. Iron and calcium bioavailability improved with ascorbic acid co-administration.
 
 **Optimal Timing:** Yusha: at lunch (mid-day meal) for optimal digestion; decoction: morning on empty stomach for urinary calculi; powder: after meals
 
@@ -94,7 +94,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kulattha/meta-analysis.md"
 
 **Storage:** Whole seeds in airtight containers at 15-30°C, protected from moisture and insects. Powder in nitrogen-flushed packaging due to lipid oxidation. Cool, dry storage essential.
 
-**Marker Compounds:** Gallic acid, Catechin, Epicatechin, [Genistein](/nighantu/glossary/compounds-d-g/#genistein), [Daidzein](/nighantu/glossary/compounds-c-d/#daidzein), Phytic acid (to be minimized), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/nighantu/reference/stigmasterol/)
+**Marker Compounds:** Gallic acid, Catechin, Epicatechin, [Genistein](/glossary/compounds-d-g/#genistein), [Daidzein](/glossary/compounds-c-d/#daidzein), Phytic acid (to be minimized), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/reference/stigmasterol/)
 
 ### Extraction Methods
 
@@ -106,8 +106,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kulattha/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Yavakshara](/nighantu/herb/yavakshara/) ([potassium](/nighantu/glossary/compounds-o-q/#potassium) carbonate) for urinary calculi dissolution synergy
-- [Gokshura](/nighantu/herb/gokshura/) for comprehensive urinary health
-- [Varuna](/nighantu/herb/varuna/) for renal stone management
-- [Punarnava](/nighantu/herb/punarnava/) for kidney support
+- [Yavakshara](/herb/yavakshara/) ([potassium](/glossary/compounds-o-q/#potassium) carbonate) for urinary calculi dissolution synergy
+- [Gokshura](/herb/gokshura/) for comprehensive urinary health
+- [Varuna](/herb/varuna/) for renal stone management
+- [Punarnava](/herb/punarnava/) for kidney support
 - Pashanbheda for lithotriptic formulations

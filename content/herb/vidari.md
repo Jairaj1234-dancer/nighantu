@@ -36,21 +36,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vidari/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Kwatha (decoction), Capsule, Tablet, Lehyam (confection), [Ksheera](/nighantu/herb/ksheera/) Paka (milk decoction), Granules
+**Dosage Forms:** Churna (powder), Kwatha (decoction), Capsule, Tablet, Lehyam (confection), [Ksheera](/herb/ksheera/) Paka (milk decoction), Granules
 
 **Standard Dosage:** 3-6 g powder twice daily with milk; 50-100 mL decoction twice daily; 10-20 g lehyam daily
 
-**Bioavailability:** [Puerarin](/nighantu/glossary/compounds-o-q/#puerarin) (major isoflavonoid in Pueraria species) has moderate oral bioavailability (~25-35%) limited by poor aqueous solubility and P-glycoprotein efflux. Tuberosin shows moderate absorption. [Daidzein](/nighantu/glossary/compounds-c-d/#daidzein) and [genistein](/nighantu/glossary/compounds-d-g/#genistein) ([isoflavones](/nighantu/glossary/compounds-g-l/#isoflavones)) undergo extensive gut microbial metabolism to equol and other metabolites with prolonged half-lives. Milk as vehicle (traditional [Ksheera](/nighantu/herb/ksheera/) Paka) enhances absorption of lipophilic [isoflavonoids](/nighantu/glossary/compounds-g-l/#isoflavonoids) through casein micelle solubilization.
+**Bioavailability:** [Puerarin](/glossary/compounds-o-q/#puerarin) (major isoflavonoid in Pueraria species) has moderate oral bioavailability (~25-35%) limited by poor aqueous solubility and P-glycoprotein efflux. Tuberosin shows moderate absorption. [Daidzein](/glossary/compounds-c-d/#daidzein) and [genistein](/glossary/compounds-d-g/#genistein) ([isoflavones](/glossary/compounds-g-l/#isoflavones)) undergo extensive gut microbial metabolism to equol and other metabolites with prolonged half-lives. Milk as vehicle (traditional [Ksheera](/herb/ksheera/) Paka) enhances absorption of lipophilic [isoflavonoids](/glossary/compounds-g-l/#isoflavonoids) through casein micelle solubilization.
 
-**Optimal Timing:** After meals with warm milk for [Rasayana](/nighantu/reference/rasayana/) (rejuvenative) effect; morning and evening; Ksheera Paka at bedtime
+**Optimal Timing:** After meals with warm milk for [Rasayana](/reference/rasayana/) (rejuvenative) effect; morning and evening; Ksheera Paka at bedtime
 
-**Standardized Extract:** Tuber extract standardized to >5% puerarin by HPLC; >1% total isoflavones (daidzein + genistein); [starch](/nighantu/glossary/compounds-q-t/#starch) content characterization for excipient use
+**Standardized Extract:** Tuber extract standardized to >5% puerarin by HPLC; >1% total isoflavones (daidzein + genistein); [starch](/glossary/compounds-q-t/#starch) content characterization for excipient use
 
 **Shelf Life:** Dried tuber slices: 18-24 months; Powder: 12-18 months; Capsules/Tablets: 24-36 months; Lehyam: 18-24 months; Ksheera Paka: prepare fresh
 
 **Storage:** Dried material in airtight, moisture-proof containers at 15-25 deg C. Protect from insects (starchy material attracts pests). Include desiccant sachets in packaging.
 
-**Marker Compounds:** Puerarin, Daidzein, Genistein, Tuberosin, beta-[Sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/nighantu/reference/stigmasterol/), Pterocarpan, 4'-Methoxypuerarin
+**Marker Compounds:** Puerarin, Daidzein, Genistein, Tuberosin, beta-[Sitosterol](/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/reference/stigmasterol/), Pterocarpan, 4'-Methoxypuerarin
 
 ### Extraction Methods
 
@@ -62,8 +62,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vidari/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Ashwagandha](/nighantu/herb/ashwagandha/) - Balya (strength-giving) and Rasayana synergy
-- [Shatavari](/nighantu/herb/shatavari/) - female reproductive tonic combination
-- [Bala](/nighantu/herb/bala/) (Sida cordifolia) - muscle-building and strength-giving synergy
-- [Ghrita](/nighantu/herb/ghrita/)/milk as vehicle - enhanced absorption and Vata-pacifying action
+- [Ashwagandha](/herb/ashwagandha/) - Balya (strength-giving) and Rasayana synergy
+- [Shatavari](/herb/shatavari/) - female reproductive tonic combination
+- [Bala](/herb/bala/) (Sida cordifolia) - muscle-building and strength-giving synergy
+- [Ghrita](/herb/ghrita/)/milk as vehicle - enhanced absorption and Vata-pacifying action
 - Musali (Chlorophytum borivilianum) - vitality combination

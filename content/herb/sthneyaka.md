@@ -35,20 +35,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sthneyaka/meta-analysis.md"
 - 10-Deacetylbaccatin III
 - Cephalomannine (Taxol B)
 - Taxane diterpenoids
-- Bioflavonoids ([amentoflavone](/nighantu/glossary/compounds-1-a/#amentoflavone), ginkgetin)
-- [Phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols)
-- [Lignans](/nighantu/glossary/compounds-g-l/#lignans)
+- Bioflavonoids ([amentoflavone](/glossary/compounds-1-a/#amentoflavone), ginkgetin)
+- [Phytosterols](/glossary/compounds-o-q/#phytosterols)
+- [Lignans](/glossary/compounds-g-l/#lignans)
 
 ## How does it work?
 
 - Paclitaxel binds to beta-tubulin subunits of microtubules, stabilizing them against depolymerization and arresting cell division at metaphase, making it one of the most important anticancer drugs discovered from plants
-- Taxine B blocks cardiac sodium and calcium channels and disrupts sodium-[potassium](/nighantu/glossary/compounds-o-q/#potassium) transport (similar to digitalis [glycosides](/nighantu/glossary/compounds-g-l/#glycosides)), causing potentially lethal cardiac arrhythmias - this is the primary toxic mechanism
+- Taxine B blocks cardiac sodium and calcium channels and disrupts sodium-[potassium](/glossary/compounds-o-q/#potassium) transport (similar to digitalis [glycosides](/glossary/compounds-g-l/#glycosides)), causing potentially lethal cardiac arrhythmias - this is the primary toxic mechanism
 - Baccatin III serves as a semisynthetic precursor for paclitaxel production and exhibits independent anti-inflammatory effects through inhibition of NF-kB-mediated inflammatory gene transcription
 
 ## Which traditional uses are supported by research?
 
 - Anticancer activity spectacularly validated - paclitaxel is among the most successful plant-derived anticancer drugs, used globally for ovarian, breast, lung, and Kaposi's sarcoma treatment
-- Anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) properties validated in Ayurvedic context for regulated traditional use (under strict supervision), supporting kapha-pacifying indications described in classical texts
+- Anti-inflammatory and [analgesic](/reference/analgesic/) properties validated in Ayurvedic context for regulated traditional use (under strict supervision), supporting kapha-pacifying indications described in classical texts
 - Traditional use requires extreme caution: validated pharmacological activity exists but therapeutic window is extremely narrow, making unsupervised use potentially fatal
 
 ## What do recent clinical trials show?
@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sthneyaka/meta-analysis.md"
 ## Recent safety updates
 
 - EXTREMELY TOXIC: All parts except the fleshy aril are lethal; lethal dose is approximately 50g of yew needles or 3.0-6.5 mg taxines/kg body weight in humans; there is no known antidote
-- Taxine [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) cause fatal cardiac arrhythmias (diastolic cardiac arrest); symptoms include dizziness, mydriasis, nausea, vomiting, tachycardia progressing to bradycardia and death
+- Taxine [alkaloids](/glossary/compounds-1-a/#alkaloids) cause fatal cardiac arrhythmias (diastolic cardiac arrest); symptoms include dizziness, mydriasis, nausea, vomiting, tachycardia progressing to bradycardia and death
 - Paclitaxel as a pharmaceutical drug has its own extensive adverse effect profile (myelosuppression, peripheral neuropathy, hypersensitivity reactions) managed under oncology protocols; raw plant should NEVER be self-administered
 
 ## What is it made of?
@@ -98,7 +98,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sthneyaka/meta-analysis.md"
 
 **Storage:** Store below 25 deg C in airtight containers, protected from light and moisture.
 
-**Marker Compounds:** Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Gallic acid, Total phenolics, Total [flavonoids](/nighantu/reference/flavonoids/)
+**Marker Compounds:** Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Gallic acid, Total phenolics, Total [flavonoids](/reference/flavonoids/)
 
 ### Extraction Methods
 
@@ -109,6 +109,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sthneyaka/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Ashwagandha](/nighantu/herb/ashwagandha/) (Balya — strength-building combinations)
-- [Shatavari](/nighantu/herb/shatavari/) (nourishing formulations)
-- [Bala](/nighantu/herb/bala/) (Vatahara and tonic synergy)
+- [Ashwagandha](/herb/ashwagandha/) (Balya — strength-building combinations)
+- [Shatavari](/herb/shatavari/) (nourishing formulations)
+- [Bala](/herb/bala/) (Vatahara and tonic synergy)

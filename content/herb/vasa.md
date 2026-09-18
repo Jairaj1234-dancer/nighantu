@@ -29,30 +29,30 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vasa/meta-analysis.md"
 ## Key Phytochemical Constituents
 
 - Vasicine (quinazoline alkaloid)
-- [Vasicinone](/nighantu/glossary/compounds-t-z/#vasicinone)
-- [Vasicinol](/nighantu/glossary/compounds-t-z/#vasicinol)
+- [Vasicinone](/glossary/compounds-t-z/#vasicinone)
+- [Vasicinol](/glossary/compounds-t-z/#vasicinol)
 - 7-Hydroxyvasicine
 - Vasicolinone
-- [Deoxyvasicine](/nighantu/glossary/compounds-c-d/#deoxyvasicine)
-- [Adhatodine](/nighantu/glossary/compounds-1-a/#adhatodine)
-- [Anisotine](/nighantu/glossary/compounds-1-a/#anisotine)
+- [Deoxyvasicine](/glossary/compounds-c-d/#deoxyvasicine)
+- [Adhatodine](/glossary/compounds-1-a/#adhatodine)
+- [Anisotine](/glossary/compounds-1-a/#anisotine)
 
 ## How does it work?
 
 - Bronchodilatory: Vasicine and vasicinone relax bronchial smooth muscle through dual mechanism - beta-2 adrenergic agonism and muscarinic M3 receptor antagonism
-- [Expectorant](/nighantu/reference/expectorant/)/Mucolytic: Vasicine stimulates ciliary motility and enhances serous gland secretion, reducing mucus viscosity and promoting clearance
+- [Expectorant](/reference/expectorant/)/Mucolytic: Vasicine stimulates ciliary motility and enhances serous gland secretion, reducing mucus viscosity and promoting clearance
 - Uterotonic: Vasicine stimulates uterine smooth muscle contraction similar to oxytocin through prostaglandin synthesis pathway activation
 
 ## Which traditional uses are supported by research?
 
 - Bronchodilatory and antitussive use (Kasa-Shwasahara) extensively validated through clinical and pharmacological studies confirming vasicine's expectorant mechanism
-- [Hemostatic](/nighantu/glossary/pharmacology/#hemostatic) use (Raktapitta treatment) confirmed by vasoconstriction and platelet aggregation enhancement by vasicinone in bleeding models
-- [Antimicrobial](/nighantu/reference/antimicrobial/) use for respiratory infections supported by antibacterial activity against common respiratory pathogens (S. pneumoniae, H. influenzae)
+- [Hemostatic](/glossary/pharmacology/#hemostatic) use (Raktapitta treatment) confirmed by vasoconstriction and platelet aggregation enhancement by vasicinone in bleeding models
+- [Antimicrobial](/reference/antimicrobial/) use for respiratory infections supported by antibacterial activity against common respiratory pathogens (S. pneumoniae, H. influenzae)
 
 ## What do recent clinical trials show?
 
 - Rudrapal M, Vallinayagam S, Aldosari S and others 2023. [Valorization of Adhatoda vasica leaves: Extraction, in vitro analyses and in silico approaches](https://pubmed.ncbi.nlm.nih.gov/37063312/). *Frontiers in nutrition*. PMID [37063312](https://pubmed.ncbi.nlm.nih.gov/37063312/) · [doi:10.3389/fnut.2023.1161471](https://doi.org/10.3389/fnut.2023.1161471)  
-  In silico and in vitro studies validated vasicine as potent [bronchodilator](/nighantu/reference/bronchodilator/) with favorable binding to beta-2 adrenergic receptor and muscarinic M3 receptor antagonism.
+  In silico and in vitro studies validated vasicine as potent [bronchodilator](/reference/bronchodilator/) with favorable binding to beta-2 adrenergic receptor and muscarinic M3 receptor antagonism.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
@@ -63,7 +63,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vasa/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Svarasa (fresh leaf juice), Churna (powder), Kwatha (decoction), Capsule, Tablet, Syrup (Vasavaleha/Vasa [Haritaki](/nighantu/herb/haritaki/)), Avaleha, Ghana Vati (solid extract tablet)
+**Dosage Forms:** Svarasa (fresh leaf juice), Churna (powder), Kwatha (decoction), Capsule, Tablet, Syrup (Vasavaleha/Vasa [Haritaki](/herb/haritaki/)), Avaleha, Ghana Vati (solid extract tablet)
 
 **Standard Dosage:** 10-20 mL fresh juice with honey twice daily; 3-5 g powder twice daily; 50-100 mL decoction twice daily; 1-2 teaspoons Vasavaleha twice daily
 
@@ -77,7 +77,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vasa/meta-analysis.md"
 
 **Storage:** Dried leaves in airtight, light-resistant containers at 15-25 deg C. Fresh juice at 2-8 deg C. Syrup in amber glass. Monitor vasicine-to-vasicinone ratio during stability studies as indicator of oxidative degradation.
 
-**Marker Compounds:** Vasicine (peganine), Vasicinone, Vasicol, Vasicinol, Adhatodine, Deoxyvasicine, Maiontone, beta-[Sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+**Marker Compounds:** Vasicine (peganine), Vasicinone, Vasicol, Vasicinol, Adhatodine, Deoxyvasicine, Maiontone, beta-[Sitosterol](/glossary/compounds-q-t/#sitosterol)
 
 ### Extraction Methods
 
@@ -89,8 +89,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vasa/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Kantakari](/nighantu/herb/kantakari/) (Solanum surattense) - synergistic bronchodilator
-- [Tulsi](/nighantu/herb/tulsi/) - comprehensive respiratory formula
-- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (licorice) - demulcent + expectorant combination
-- [Pippali](/nighantu/herb/pippali/) - bioenhancer for respiratory [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids)
-- Haritaki - Vasa Haritaki Avaleha (classical respiratory [Rasayana](/nighantu/reference/rasayana/))
+- [Kantakari](/herb/kantakari/) (Solanum surattense) - synergistic bronchodilator
+- [Tulsi](/herb/tulsi/) - comprehensive respiratory formula
+- [Yashtimadhu](/herb/yashtimadhu/) (licorice) - demulcent + expectorant combination
+- [Pippali](/herb/pippali/) - bioenhancer for respiratory [alkaloids](/glossary/compounds-1-a/#alkaloids)
+- Haritaki - Vasa Haritaki Avaleha (classical respiratory [Rasayana](/reference/rasayana/))

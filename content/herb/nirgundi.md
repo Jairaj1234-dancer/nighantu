@@ -28,35 +28,35 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nirgundi/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Vitexin](/nighantu/glossary/compounds-t-z/#vitexin) (flavone glycoside)
-- [Isovitexin](/nighantu/glossary/compounds-g-l/#isovitexin)
-- [Agnuside](/nighantu/glossary/compounds-1-a/#agnuside) (iridoid glycoside)
+- [Vitexin](/glossary/compounds-t-z/#vitexin) (flavone glycoside)
+- [Isovitexin](/glossary/compounds-g-l/#isovitexin)
+- [Agnuside](/glossary/compounds-1-a/#agnuside) (iridoid glycoside)
 - Negundoside
-- [Casticin](/nighantu/glossary/compounds-c-d/#casticin) (flavonoid)
-- [Luteolin](/nighantu/glossary/compounds-l-o/#luteolin)-7-glucoside
-- [Aucubin](/nighantu/glossary/compounds-a-c/#aucubin)
+- [Casticin](/glossary/compounds-c-d/#casticin) (flavonoid)
+- [Luteolin](/glossary/compounds-l-o/#luteolin)-7-glucoside
+- [Aucubin](/glossary/compounds-a-c/#aucubin)
 - Nishindine (alkaloid)
 
 ## How does it work?
 
 - Anti-inflammatory: Casticin and vitexin inhibit COX-2, 5-LOX, and PGE2 synthesis; agnuside suppresses NF-kB-mediated inflammatory gene transcription
-- [Analgesic](/nighantu/reference/analgesic/): [Flavonoids](/nighantu/reference/flavonoids/) and iridoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) inhibit peripheral nociceptive signaling and centrally modulate opioidergic pathways
+- [Analgesic](/reference/analgesic/): [Flavonoids](/reference/flavonoids/) and iridoid [glycosides](/glossary/compounds-g-l/#glycosides) inhibit peripheral nociceptive signaling and centrally modulate opioidergic pathways
 - Anti-arthritic: Leaf extracts suppress synovial inflammation, reduce MMP expression, and inhibit osteoclastogenesis through RANKL suppression
 
 ## Which traditional uses are supported by research?
 
 - Anti-arthritic and anti-inflammatory use (Amavata treatment) extensively validated through carrageenan, formaldehyde, and adjuvant arthritis models
 - Analgesic use (Vedana-sthapana) confirmed through central and peripheral pain models (hot plate, acetic acid writhing, formalin test)
-- [Hepatoprotective](/nighantu/reference/hepatoprotective/) use validated by reduction of AST, ALT, and restoration of liver architecture in CCl4-induced hepatotoxicity models
+- [Hepatoprotective](/reference/hepatoprotective/) use validated by reduction of AST, ALT, and restoration of liver architecture in CCl4-induced hepatotoxicity models
 
 ## What do recent clinical trials show?
 
 - Phate PV, Patil AS 2026. [Vitex negundo Linn.: A decade of advances in phytochemistry, pharmacological activities, and biotechnological interventions (2015-2025) - A comprehensive review](https://pubmed.ncbi.nlm.nih.gov/41650524/). *Phytomedicine : international journal of phytotherapy and phytopharmacology*. PMID [41650524](https://pubmed.ncbi.nlm.nih.gov/41650524/) · [doi:10.1016/j.phymed.2026.157895](https://doi.org/10.1016/j.phymed.2026.157895)  
   Comprehensive 10-year review covering phytochemistry, pharmacology, analytical standardization, and biotechnological advancements; confirmed multi-target therapeutic potential.
 - Sharma D, Radha, Kumar M and others 2023. [Chemical Diversity and Medicinal Potential of Vitex negundo L.: From Traditional Knowledge to Modern Clinical Trials](https://pubmed.ncbi.nlm.nih.gov/37851484/). *Chemistry & biodiversity*. PMID [37851484](https://pubmed.ncbi.nlm.nih.gov/37851484/) · [doi:10.1002/cbdv.202301086](https://doi.org/10.1002/cbdv.202301086)  
-  Identified pharmacologically significant flavonoids (vitexin, casticin), iridoid glycosides (agnuside), [lignans](/nighantu/glossary/compounds-g-l/#lignans), and essential oils with validated analgesic and anti-inflammatory mechanisms.
+  Identified pharmacologically significant flavonoids (vitexin, casticin), iridoid glycosides (agnuside), [lignans](/glossary/compounds-g-l/#lignans), and essential oils with validated analgesic and anti-inflammatory mechanisms.
 - Kamal N, Mio Asni NS, Rozlan INA and others 2022. [Traditional Medicinal Uses, Phytochemistry, Biological Properties, and Health Applications of Vitex sp](https://pubmed.ncbi.nlm.nih.gov/35893648/). *Plants (Basel, Switzerland)*. PMID [35893648](https://pubmed.ncbi.nlm.nih.gov/35893648/) · [doi:10.3390/plants11151944](https://doi.org/10.3390/plants11151944)  
-  Broad review of Vitex genus confirming anti-inflammatory, [antipyretic](/nighantu/reference/antipyretic/), anti-arthritic, [antioxidant](/nighantu/reference/antioxidant/), antibacterial, [antitumor](/nighantu/glossary/pharmacology/#antitumor), [anxiolytic](/nighantu/reference/anxiolytic/), nephroprotective, and anti-HIV activities.
+  Broad review of Vitex genus confirming anti-inflammatory, [antipyretic](/reference/antipyretic/), anti-arthritic, [antioxidant](/reference/antioxidant/), antibacterial, [antitumor](/glossary/pharmacology/#antitumor), [anxiolytic](/reference/anxiolytic/), nephroprotective, and anti-HIV activities.
 
 ## Recent safety updates
 
@@ -67,9 +67,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nirgundi/meta-analysis.md"
 
 **Dosage Forms:** Tablet, Capsule, Kwatha (decoction), Taila (oil), Churna, Swarasa (juice), Poultice, Ointment/balm, Tincture
 
-**Standard Dosage:** 1-3 g leaf powder twice daily; 500-750 mg standardized extract twice daily; 10-20 mL decoction twice daily; [Nirgundi Taila](/nighantu/glossary/concepts-m-y/#nirgundi-taila) for external massage
+**Standard Dosage:** 1-3 g leaf powder twice daily; 500-750 mg standardized extract twice daily; 10-20 mL decoction twice daily; [Nirgundi Taila](/glossary/concepts-m-y/#nirgundi-taila) for external massage
 
-**Bioavailability:** Casticin and agnuside show moderate oral bioavailability (25-40%). Flavonoids benefit from lipid-based formulations. Volatile [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids) ([sabinene](/nighantu/glossary/compounds-q-t/#sabinene), beta-caryophyllene) are well absorbed but rapidly metabolized. Topical application of Nirgundi oil provides effective local delivery of anti-inflammatory actives with minimal systemic absorption. [Piperine](/nighantu/reference/piperine/) co-administration increases casticin bioavailability by ~30%.
+**Bioavailability:** Casticin and agnuside show moderate oral bioavailability (25-40%). Flavonoids benefit from lipid-based formulations. Volatile [terpenoids](/glossary/compounds-t-z/#terpenoids) ([sabinene](/glossary/compounds-q-t/#sabinene), beta-caryophyllene) are well absorbed but rapidly metabolized. Topical application of Nirgundi oil provides effective local delivery of anti-inflammatory actives with minimal systemic absorption. [Piperine](/reference/piperine/) co-administration increases casticin bioavailability by ~30%.
 
 **Optimal Timing:** Oral: after meals for systemic anti-inflammatory effect. Topical oil: warm oil massage before bath or at bedtime for joint/muscle pain. Poultice: apply warm to affected area for 20-30 minutes.
 
@@ -79,7 +79,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nirgundi/meta-analysis.md"
 
 **Storage:** Dried material: airtight containers, below 25 deg C, RH <60%. Essential oil: amber glass, 15-25 deg C, tightly sealed. Taila: amber glass or HDPE, room temperature, protect from light and moisture.
 
-**Marker Compounds:** Casticin, Agnuside, Vitexin, Isovitexin, Sabinene, Beta-caryophyllene, Alpha-pinene, 1,8-[Cineole](/nighantu/glossary/compounds-c-d/#cineole), Luteolin
+**Marker Compounds:** Casticin, Agnuside, Vitexin, Isovitexin, Sabinene, Beta-caryophyllene, Alpha-pinene, 1,8-[Cineole](/glossary/compounds-c-d/#cineole), Luteolin
 
 ### Extraction Methods
 
@@ -88,12 +88,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nirgundi/meta-analysis.md"
 - Traditional oil preparation (Taila Paka Vidhi)
 - Aqueous decoction
 - Supercritical CO2 extraction for volatile-rich fractions
-- Cold maceration in [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) base
+- Cold maceration in [sesame oil](/glossary/concepts-m-y/#tila-taila) base
 
 ### Synergistic Combinations
 
-- [Shallaki](/nighantu/herb/shallaki/)/Boswellia (joint pain and inflammation)
-- [Rasna](/nighantu/herb/rasna/) (rheumatic conditions and musculoskeletal pain)
-- [Eranda](/nighantu/herb/eranda/)/Castor oil (Vata disorders and joint stiffness)
-- [Ashwagandha](/nighantu/herb/ashwagandha/) (musculoskeletal strength and recovery)
-- [Guggulu](/nighantu/formulation/guggulu/) (anti-inflammatory and anti-arthritic combination)
+- [Shallaki](/herb/shallaki/)/Boswellia (joint pain and inflammation)
+- [Rasna](/herb/rasna/) (rheumatic conditions and musculoskeletal pain)
+- [Eranda](/herb/eranda/)/Castor oil (Vata disorders and joint stiffness)
+- [Ashwagandha](/herb/ashwagandha/) (musculoskeletal strength and recovery)
+- [Guggulu](/formulation/guggulu/) (anti-inflammatory and anti-arthritic combination)

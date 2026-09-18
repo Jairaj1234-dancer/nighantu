@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Panasa/meta-analysis.md"
 
 **Standard Dosage:** 100-200 g fresh fruit; 5-10 g seed powder daily; 500 mg - 1 g seed extract twice daily
 
-**Bioavailability:** [Carotenoids](/nighantu/glossary/compounds-a-c/#carotenoids) (beta-carotene, [lutein](/nighantu/glossary/compounds-l-o/#lutein)) from jackfruit flesh have moderate bioavailability (15-25%) enhanced by co-ingestion with fat. Jacalin (lectin from seeds) is degraded by digestive proteases with negligible systemic absorption. [Flavonoids](/nighantu/reference/flavonoids/) from fruit show 15-30% bioavailability. Seed [starch](/nighantu/glossary/compounds-q-t/#starch) provides slow-release carbohydrate energy. Artocarpanone from heartwood has limited data on human pharmacokinetics.
+**Bioavailability:** [Carotenoids](/glossary/compounds-a-c/#carotenoids) (beta-carotene, [lutein](/glossary/compounds-l-o/#lutein)) from jackfruit flesh have moderate bioavailability (15-25%) enhanced by co-ingestion with fat. Jacalin (lectin from seeds) is degraded by digestive proteases with negligible systemic absorption. [Flavonoids](/reference/flavonoids/) from fruit show 15-30% bioavailability. Seed [starch](/glossary/compounds-q-t/#starch) provides slow-release carbohydrate energy. Artocarpanone from heartwood has limited data on human pharmacokinetics.
 
 **Optimal Timing:** Fruit: as a meal or snack, not on empty stomach due to high sugar. Seed powder: with meals. Seed extract supplements: after meals.
 
@@ -63,8 +63,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Panasa/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- Amalaki (enhanced [antioxidant](/nighantu/reference/antioxidant/) and vitamin C combination)
-- [Haridra](/nighantu/herb/haridra/) (anti-inflammatory food combination)
+- Amalaki (enhanced [antioxidant](/reference/antioxidant/) and vitamin C combination)
+- [Haridra](/herb/haridra/) (anti-inflammatory food combination)
 - Ela (digestive and flavor enhancement)
-- [Nagakesara](/nighantu/herb/nagakesara/) (traditional Ayurvedic combination for digestive disorders)
+- [Nagakesara](/herb/nagakesara/) (traditional Ayurvedic combination for digestive disorders)
 - Coconut (complementary amino acid profile from seed)

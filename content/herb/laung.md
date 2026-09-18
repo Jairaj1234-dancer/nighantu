@@ -28,30 +28,30 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Laung/meta-analysis
 
 ## Key Phytochemical Constituents
 
-- [Eugenol](/nighantu/glossary/compounds-d-g/#eugenol) (85-95% of essential oil)
+- [Eugenol](/glossary/compounds-d-g/#eugenol) (85-95% of essential oil)
 - beta-Caryophyllene (13% of oil)
 - Eugenyl acetate
 - Gallic acid
 - Ellagic acid
 - alpha-Humulene
 - Oleanolic acid
-- [Vanillin](/nighantu/glossary/compounds-t-z/#vanillin)
+- [Vanillin](/glossary/compounds-t-z/#vanillin)
 
 ## How does it work?
 
-- Eugenol inhibits COX-2 and iNOS expression, reducing prostaglandin E2 and nitric oxide production for anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) effects
-- [Anticancer](/nighantu/reference/anticancer/) activity through multiple pathways: induction of apoptosis via mitochondrial dysfunction, cell cycle arrest at G2/M phase, and inhibition of NF-kB-mediated survival signaling
-- [Antimicrobial](/nighantu/reference/antimicrobial/) mechanism via disruption of bacterial cell membrane integrity, inhibition of protein synthesis, and interference with quorum sensing
+- Eugenol inhibits COX-2 and iNOS expression, reducing prostaglandin E2 and nitric oxide production for anti-inflammatory and [analgesic](/reference/analgesic/) effects
+- [Anticancer](/reference/anticancer/) activity through multiple pathways: induction of apoptosis via mitochondrial dysfunction, cell cycle arrest at G2/M phase, and inhibition of NF-kB-mediated survival signaling
+- [Antimicrobial](/reference/antimicrobial/) mechanism via disruption of bacterial cell membrane integrity, inhibition of protein synthesis, and interference with quorum sensing
 - Anesthetic/analgesic effect through inhibition of voltage-gated sodium channels and TRPV1 receptor modulation in nociceptive neurons
-- [Antioxidant](/nighantu/reference/antioxidant/) activity through phenolic compound-mediated free radical scavenging and upregulation of Nrf2-dependent antioxidant [enzymes](/nighantu/glossary/compounds-d-g/#enzymes)
+- [Antioxidant](/reference/antioxidant/) activity through phenolic compound-mediated free radical scavenging and upregulation of Nrf2-dependent antioxidant [enzymes](/glossary/compounds-d-g/#enzymes)
 
 ## Which traditional uses are supported by research?
 
 - Toothache and dental pain relief - extensively validated; eugenol is an established dental analgesic and antiseptic used worldwide in dental practice
 - Antimicrobial for oral infections and wound care - confirmed by in vitro and clinical studies showing broad-spectrum activity including against MDR bacteria
-- Digestive aid for flatulence, colic, and nausea - supported by pharmacological studies demonstrating [antispasmodic](/nighantu/glossary/pharmacology/#antispasmodic) and carminative effects
+- Digestive aid for flatulence, colic, and nausea - supported by pharmacological studies demonstrating [antispasmodic](/glossary/pharmacology/#antispasmodic) and carminative effects
 - Anti-inflammatory for joint and muscle pain - validated by studies showing COX-2 inhibition and reduced inflammatory markers
-- Respiratory relief for cough and sore throat - supported by [expectorant](/nighantu/reference/expectorant/) and antimicrobial studies relevant to upper respiratory infections
+- Respiratory relief for cough and sore throat - supported by [expectorant](/reference/expectorant/) and antimicrobial studies relevant to upper respiratory infections
 
 ## What do recent clinical trials show?
 
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Laung/meta-analysis
 - Kiki MJ 2023. [In Vitro Antiviral Potential, Antioxidant, and Chemical Composition of Clove (Syzygium aromaticum) Essential Oil](https://pubmed.ncbi.nlm.nih.gov/36985392/). *Molecules (Basel, Switzerland)*. PMID [36985392](https://pubmed.ncbi.nlm.nih.gov/36985392/) · [doi:10.3390/molecules28062421](https://doi.org/10.3390/molecules28062421)  
   Demonstrated antiviral activity of clove essential oil against multiple viral strains, along with potent antioxidant capacity, supporting its use in infection prevention.
 - Dibazar SP, Fateh S, Daneshmandi S 2014. [Clove (Syzygium aromaticum) ingredients affect lymphocyte subtypes expansion and cytokine profile responses: An in vitro evaluation](https://pubmed.ncbi.nlm.nih.gov/28911459/). *Journal of food and drug analysis*. PMID [28911459](https://pubmed.ncbi.nlm.nih.gov/28911459/) · [doi:10.1016/j.jfda.2014.04.005](https://doi.org/10.1016/j.jfda.2014.04.005)  
-  [Immunomodulatory](/nighantu/reference/immunomodulatory/) study showed clove essential oil and water-soluble ingredients influence T-cell and B-cell proliferation and cytokine profiles, suggesting immunoregulatory potential.
+  [Immunomodulatory](/reference/immunomodulatory/) study showed clove essential oil and water-soluble ingredients influence T-cell and B-cell proliferation and cytokine profiles, suggesting immunoregulatory potential.
 - Munteanu A, Gogulescu A, Șoica C and others 2024. [In Vitro and In Silico Evaluation of Syzygium aromaticum Essential Oil: Effects on Mitochondrial Function and Cytotoxic Potential Against Cancer Cells](https://pubmed.ncbi.nlm.nih.gov/39683236/). *Plants (Basel, Switzerland)*. PMID [39683236](https://pubmed.ncbi.nlm.nih.gov/39683236/) · [doi:10.3390/plants13233443](https://doi.org/10.3390/plants13233443)  
   Demonstrated cytotoxic effects against colon (HCT-116), breast (MCF-7), and liver (HepG2) cancer cell lines through mitochondrial dysfunction-mediated apoptosis.
 
@@ -103,7 +103,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Laung/meta-analysis
 
 **Storage:** Store whole cloves in airtight containers at room temperature. Essential oil in amber glass, tightly sealed, below 25 deg C. Ground powder rapidly loses potency - store in nitrogen-flushed, foil-lined sachets. Protect all forms from light and moisture.
 
-**Marker Compounds:** Eugenol, Eugenol acetate, Beta-caryophyllene, Alpha-humulene, Gallic acid, [Kaempferol](/nighantu/reference/kaempferol/), Oleanolic acid, Vanillin
+**Marker Compounds:** Eugenol, Eugenol acetate, Beta-caryophyllene, Alpha-humulene, Gallic acid, [Kaempferol](/reference/kaempferol/), Oleanolic acid, Vanillin
 
 ### Extraction Methods
 
@@ -117,7 +117,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Laung/meta-analysis
 ### Synergistic Combinations
 
 - Ela/Cardamom (digestive and carminative synergy)
-- [Dalchini](/nighantu/herb/twak-cinnamon/)/Cinnamon (warming digestive combination - [Trikatu](/nighantu/herb/trikatu/) variant)
-- [Haridra](/nighantu/herb/haridra/) (oral health combination)
-- [Pippali](/nighantu/herb/pippali/) (bioenhancer, respiratory synergy)
-- [Tulsi](/nighantu/herb/tulsi/) (antimicrobial oral care)
+- [Dalchini](/herb/twak-cinnamon/)/Cinnamon (warming digestive combination - [Trikatu](/herb/trikatu/) variant)
+- [Haridra](/herb/haridra/) (oral health combination)
+- [Pippali](/herb/pippali/) (bioenhancer, respiratory synergy)
+- [Tulsi](/herb/tulsi/) (antimicrobial oral care)

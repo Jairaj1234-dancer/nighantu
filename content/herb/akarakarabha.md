@@ -28,24 +28,24 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akarakarabha/meta-analysis.md
 
 ## Key Phytochemical Constituents
 
-- [Pellitorine](/nighantu/glossary/compounds-o-q/#pellitorine) (N-isobutylamide)
+- [Pellitorine](/glossary/compounds-o-q/#pellitorine) (N-isobutylamide)
 - Pyrethrin
 - Anacycline
-- [Sesamin](/nighantu/glossary/compounds-q-t/#sesamin)
-- [Inulin](/nighantu/glossary/compounds-g-l/#inulin) (fructans)
+- [Sesamin](/glossary/compounds-q-t/#sesamin)
+- [Inulin](/glossary/compounds-g-l/#inulin) (fructans)
 - Santolina alcohol (40.7% of essential oil)
-- Pyrrolo[3,2-g]isoquinoline [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) (12 newly described, 2024)
+- Pyrrolo[3,2-g]isoquinoline [alkaloids](/glossary/compounds-1-a/#alkaloids) (12 newly described, 2024)
 
 ## How does it work?
 
 - Anti-inflammatory activity through inhibition of nitric oxide (NO) production in macrophages via novel alkaloid compounds
-- [Aphrodisiac](/nighantu/glossary/pharmacology/#aphrodisiac) and testosterone-enhancing effect through modulation of hypothalamic-pituitary-gonadal axis
-- [Analgesic](/nighantu/reference/analgesic/) and sialagogue action via N-isobutylamide (pellitorine) stimulation of nerve endings
-- [Immunomodulatory](/nighantu/reference/immunomodulatory/) activity through modulation of innate and adaptive immune responses
+- [Aphrodisiac](/glossary/pharmacology/#aphrodisiac) and testosterone-enhancing effect through modulation of hypothalamic-pituitary-gonadal axis
+- [Analgesic](/reference/analgesic/) and sialagogue action via N-isobutylamide (pellitorine) stimulation of nerve endings
+- [Immunomodulatory](/reference/immunomodulatory/) activity through modulation of innate and adaptive immune responses
 
 ## Which traditional uses are supported by research?
 
-- Aphrodisiac and male fertility enhancer ([Vajikarana](/nighantu/glossary/pharmacology/#vajikarana)) - validated through studies showing increased testosterone and sperm parameters in animal models
+- Aphrodisiac and male fertility enhancer ([Vajikarana](/glossary/pharmacology/#vajikarana)) - validated through studies showing increased testosterone and sperm parameters in animal models
 - Oral health and toothache remedy (Dantavedanashaka) - confirmed analgesic properties of pellitorine on nerve endings
 - Cognitive enhancer and nervine tonic (Medhya) - supported by neuropharmacological studies showing memory enhancement
 - Anti-inflammatory and anti-rheumatic - validated by in vivo anti-inflammatory studies
@@ -55,7 +55,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akarakarabha/meta-analysis.md
 - Chen H, Aisa HA 2025. [Alkaloids from Anacyclus pyrethrum](https://pubmed.ncbi.nlm.nih.gov/39216630/). *Phytochemistry*. PMID [39216630](https://pubmed.ncbi.nlm.nih.gov/39216630/) · [doi:10.1016/j.phytochem.2024.114255](https://doi.org/10.1016/j.phytochem.2024.114255)  
   Twelve undescribed alkaloids including eight pyrrolo[3,2-g]isoquinoline and four pyrrolo[2,3-g]quinoline alkaloids were isolated from roots; some showed significant inhibition of NO production in LPS-induced RAW 264.7 cells.
 - Baz AE, Mrabti HN, Ashmawy NS and others 2024. [Phytochemical characterization, antimicrobial properties and in silico modeling perspectives of Anacyclus pyrethrum essential oil](https://pubmed.ncbi.nlm.nih.gov/39220961/). *Heliyon*. PMID [39220961](https://pubmed.ncbi.nlm.nih.gov/39220961/) · [doi:10.1016/j.heliyon.2024.e35079](https://doi.org/10.1016/j.heliyon.2024.e35079)  
-  Identified santolina alcohol as the major essential oil component (40.7%), followed by [germacrene-D](/nighantu/glossary/compounds-d-g/#germacrene-d) (8.9%); in silico molecular docking showed strong binding to bacterial target [proteins](/nighantu/glossary/compounds-o-q/#proteins).
+  Identified santolina alcohol as the major essential oil component (40.7%), followed by [germacrene-D](/glossary/compounds-d-g/#germacrene-d) (8.9%); in silico molecular docking showed strong binding to bacterial target [proteins](/glossary/compounds-o-q/#proteins).
 
 *1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
@@ -107,7 +107,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akarakarabha/meta-analysis.md
 
 ### Synergistic Combinations
 
-- With [Ashwagandha](/nighantu/herb/ashwagandha/) for nervous system toning and Vajikarana (aphrodisiac)
-- With [Jatiphala](/nighantu/herb/jatiphala/) (nutmeg) for stammering and speech disorders
-- With [Lavanga](/nighantu/herb/lavanga/) (clove) and Karpura ([camphor](/nighantu/herb/camphor/)) for toothache
-- With [Pippali](/nighantu/herb/pippali/) for bioenhancement and respiratory conditions
+- With [Ashwagandha](/herb/ashwagandha/) for nervous system toning and Vajikarana (aphrodisiac)
+- With [Jatiphala](/herb/jatiphala/) (nutmeg) for stammering and speech disorders
+- With [Lavanga](/herb/lavanga/) (clove) and Karpura ([camphor](/herb/camphor/)) for toothache
+- With [Pippali](/herb/pippali/) for bioenhancement and respiratory conditions

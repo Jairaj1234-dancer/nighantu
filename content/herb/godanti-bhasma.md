@@ -23,19 +23,19 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Godanti-Bhasma/meta-
 
 | Language | Name |
 |----------|------|
-| English | [Godanti Bhasma](/nighantu/herb/godanti-bhasma/) |
+| English | [Godanti Bhasma](/herb/godanti-bhasma/) |
 
 ## Key Phytochemical Constituents
 
 - Calcium sulfate (CaSO4) as primary constituent
 - Calcium oxide (CaO) from decomposition during calcination
-- [Silicon](/nighantu/glossary/compounds-q-t/#silicon) dioxide traces
-- [Magnesium](/nighantu/glossary/compounds-l-o/#magnesium), [strontium](/nighantu/glossary/compounds-q-t/#strontium) as trace elements
+- [Silicon](/glossary/compounds-q-t/#silicon) dioxide traces
+- [Magnesium](/glossary/compounds-l-o/#magnesium), [strontium](/glossary/compounds-q-t/#strontium) as trace elements
 - Organic residues from herbal processing media
 
 ## How does it work?
 
-- [Antipyretic](/nighantu/reference/antipyretic/) action through prostaglandin synthesis inhibition and thermoregulatory center modulation, effectively reducing yeast-induced hyperpyrexia in animal models
+- [Antipyretic](/reference/antipyretic/) action through prostaglandin synthesis inhibition and thermoregulatory center modulation, effectively reducing yeast-induced hyperpyrexia in animal models
 - Gastroprotective effect through acid neutralization by calcium compounds and cytoprotective enhancement of gastric mucosal barrier against stress and NSAID-induced ulceration
 - Calcium supplementation through bioavailable calcium sulfate providing elemental calcium for bone metabolism, muscle function, and nerve transmission
 - Pitta-shamaka (cooling) action through alkaline pH buffering and reduction of inflammatory heat, addressing Pitta-predominant conditions systemically

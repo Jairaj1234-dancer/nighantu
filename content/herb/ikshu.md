@@ -27,34 +27,34 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Ikshu/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Sucrose](/nighantu/glossary/compounds-q-t/#sucrose) (12-17% in juice)
-- [Polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols): chlorogenic acid, caffeic acid, cinnamic acid
-- [Flavonoids](/nighantu/reference/flavonoids/): [luteolin](/nighantu/glossary/compounds-l-o/#luteolin), [apigenin](/nighantu/glossary/compounds-1-a/#apigenin), [tricin](/nighantu/glossary/compounds-t-z/#tricin)
-- [Anthocyanins](/nighantu/glossary/compounds-1-a/#anthocyanins) (in colored varieties)
+- [Sucrose](/glossary/compounds-q-t/#sucrose) (12-17% in juice)
+- [Polyphenols](/glossary/compounds-o-q/#polyphenols): chlorogenic acid, caffeic acid, cinnamic acid
+- [Flavonoids](/reference/flavonoids/): [luteolin](/glossary/compounds-l-o/#luteolin), [apigenin](/glossary/compounds-1-a/#apigenin), [tricin](/glossary/compounds-t-z/#tricin)
+- [Anthocyanins](/glossary/compounds-1-a/#anthocyanins) (in colored varieties)
 - Policosanols (octacosanol)
-- [Phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols)
-- Minerals: [potassium](/nighantu/glossary/compounds-o-q/#potassium), calcium, [magnesium](/nighantu/glossary/compounds-l-o/#magnesium), iron, [manganese](/nighantu/glossary/compounds-l-o/#manganese)
-- [Vitamins](/nighantu/glossary/compounds-t-z/#vitamins): C, B1, B2, B3, B5, B6
-- Organic acids: aconitic, malic, [citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid)
+- [Phytosterols](/glossary/compounds-o-q/#phytosterols)
+- Minerals: [potassium](/glossary/compounds-o-q/#potassium), calcium, [magnesium](/glossary/compounds-l-o/#magnesium), iron, [manganese](/glossary/compounds-l-o/#manganese)
+- [Vitamins](/glossary/compounds-t-z/#vitamins): C, B1, B2, B3, B5, B6
+- Organic acids: aconitic, malic, [citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid)
 - Amino acids: asparagine, glutamine
 
 ## How does it work?
 
-- [Hepatoprotective](/nighantu/reference/hepatoprotective/): Flavonoids and phenolic acids protect hepatocytes through CYP2E1 inhibition, Keap1/Nrf2 [antioxidant](/nighantu/reference/antioxidant/) pathway activation, and NF-kB inflammatory cascade suppression
-- [Diuretic](/nighantu/reference/diuretic/) (Mutrala): High potassium content and natural sugars promote renal osmotic diuresis; alkaline minerals help flush urinary tract
+- [Hepatoprotective](/reference/hepatoprotective/): Flavonoids and phenolic acids protect hepatocytes through CYP2E1 inhibition, Keap1/Nrf2 [antioxidant](/reference/antioxidant/) pathway activation, and NF-kB inflammatory cascade suppression
+- [Diuretic](/reference/diuretic/) (Mutrala): High potassium content and natural sugars promote renal osmotic diuresis; alkaline minerals help flush urinary tract
 - Cooling and Pitta-pacifying: Sweet taste and cooling virya directly counteract Pitta-related heat, burning sensations, and acid conditions; phenolic antioxidants reduce oxidative heat
 - Policosanol-mediated cardiovascular benefit: Octacosanol and other long-chain alcohols in sugarcane wax lower LDL cholesterol and inhibit platelet aggregation
 
 ## Which traditional uses are supported by research?
 
-- [Kamala](/nighantu/herb/kamala/) (jaundice/liver disorders): Hepatoprotective polyphenols (chlorogenic acid, flavonoids) and the CYP2E1/Keap1/NF-kB pathway modulation validate traditional use of fresh sugarcane juice in jaundice treatment
+- [Kamala](/herb/kamala/) (jaundice/liver disorders): Hepatoprotective polyphenols (chlorogenic acid, flavonoids) and the CYP2E1/Keap1/NF-kB pathway modulation validate traditional use of fresh sugarcane juice in jaundice treatment
 - Mutrakricchra and Ashmari (dysuria and kidney stones): Diuretic and alkalinizing properties of sugarcane juice scientifically support traditional use in urinary disorders
 - Daha (burning sensation/Pitta conditions): Cooling virya, antioxidant polyphenols, and high potassium content validate traditional use as a Pitta-pacifying cooling agent
 
 ## What do recent clinical trials show?
 
 - Hewawansa UHAJ, Houghton MJ, Barber E and others 2024. [Flavonoids and phenolic acids from sugarcane: Distribution in the plant, changes during processing, and potential benefits to industry and health](https://pubmed.ncbi.nlm.nih.gov/38369931/). *Comprehensive reviews in food science and food safety*. PMID [38369931](https://pubmed.ncbi.nlm.nih.gov/38369931/) · [doi:10.1111/1541-4337.13307](https://doi.org/10.1111/1541-4337.13307)  
-  Comprehensive review identified six key polyphenol classes in sugarcane with antioxidant, anti-inflammatory, hepatoprotective, and [anticancer](/nighantu/reference/anticancer/) activities; processing significantly reduces polyphenol content, supporting Ayurvedic preference for fresh juice.
+  Comprehensive review identified six key polyphenol classes in sugarcane with antioxidant, anti-inflammatory, hepatoprotective, and [anticancer](/reference/anticancer/) activities; processing significantly reduces polyphenol content, supporting Ayurvedic preference for fresh juice.
 - Wang M, Zhao L, Wang Y and others 2025. [Sugarcane Molasses Polyphenol Extract Attenuates Alcohol-Induced Chronic Liver Damage via Antioxidant, Anti-Inflammatory, and CYP2E1/Keap1/NF-κB Pathway Modulation](https://pubmed.ncbi.nlm.nih.gov/40362898/). *Nutrients*. PMID [40362898](https://pubmed.ncbi.nlm.nih.gov/40362898/) · [doi:10.3390/nu17091589](https://doi.org/10.3390/nu17091589)  
   Sugarcane polyphenols mitigate alcoholic liver damage via antioxidant and anti-inflammatory mechanisms through CYP2E1/Keap1/NF-kB pathway modulation; novel strategy for hepatoprotection.
 
@@ -69,7 +69,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Ikshu/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Swarasa (fresh juice), Sharkara (sugar preparations), [Guda](/nighantu/glossary/concepts-a-m/#guda) (jaggery forms), Kashayam (decoction of root), Capsule (root extract)
+**Dosage Forms:** Swarasa (fresh juice), Sharkara (sugar preparations), [Guda](/glossary/concepts-a-m/#guda) (jaggery forms), Kashayam (decoction of root), Capsule (root extract)
 
 **Standard Dosage:** 50-100ml fresh sugarcane juice daily; 3-6g root powder; 10-20g jaggery as vehicle
 
@@ -83,7 +83,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Ikshu/meta-analysis.md"
 
 **Storage:** Fresh juice: refrigerate and consume within hours. Dried preparations: cool, dry place below 25°C. Jaggery: airtight containers, protect from moisture.
 
-**Marker Compounds:** Octacosanol, Triacontanol, Policosanols (C24-C34 fatty alcohols), Luteolin, [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin), Tricin
+**Marker Compounds:** Octacosanol, Triacontanol, Policosanols (C24-C34 fatty alcohols), Luteolin, [Apigenin](/glossary/compounds-1-a/#apigenin), Tricin
 
 ### Extraction Methods
 
@@ -95,5 +95,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Ikshu/meta-analysis.md"
 ### Synergistic Combinations
 
 - With Amalaki to reduce Pitta
-- With [Yashtimadhu](/nighantu/herb/yashtimadhu/) for soothing urinary tract
-- With [Draksha](/nighantu/herb/draksha/) (grape) for nutritive tonic action
+- With [Yashtimadhu](/herb/yashtimadhu/) for soothing urinary tract
+- With [Draksha](/herb/draksha/) (grape) for nutritive tonic action

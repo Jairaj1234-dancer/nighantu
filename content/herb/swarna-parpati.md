@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Swarna-Parpati/met
 
 | Language | Name |
 |----------|------|
-| English | [Swarna Parpati](/nighantu/herb/swarna-parpati/) |
+| English | [Swarna Parpati](/herb/swarna-parpati/) |
 
 ## Where is it described in the classical texts?
 
@@ -31,31 +31,31 @@ Rasa Tarangini, Chapter 27, Verses 45-47; also referenced in other Parpati Kalpa
 
 ## How does it work?
 
-- [Swarna Bhasma](/nighantu/herb/swarna-bhasma/) (gold nanoparticles) has potent [immunomodulatory](/nighantu/reference/immunomodulatory/) effects, enhancing T-cell and macrophage function - relevant to tuberculosis and chronic infections
-- Gold nanoparticles at Bhasma scale (~56-60 nm) have demonstrated anti-inflammatory and [antioxidant](/nighantu/reference/antioxidant/) properties protecting tissue from chronic disease damage
-- Parada-[Gandhaka](/nighantu/glossary/concepts-a-m/#gandhaka) Kajjali (HgS) acts as Yogavahi (catalytic carrier) enhancing tissue penetration and bioavailability of gold
-- [Rasayana](/nighantu/reference/rasayana/) (rejuvenative) effect of gold strengthens Ojas (vital essence/immunity) and promotes tissue regeneration in wasting diseases
+- [Swarna Bhasma](/herb/swarna-bhasma/) (gold nanoparticles) has potent [immunomodulatory](/reference/immunomodulatory/) effects, enhancing T-cell and macrophage function - relevant to tuberculosis and chronic infections
+- Gold nanoparticles at Bhasma scale (~56-60 nm) have demonstrated anti-inflammatory and [antioxidant](/reference/antioxidant/) properties protecting tissue from chronic disease damage
+- Parada-[Gandhaka](/glossary/concepts-a-m/#gandhaka) Kajjali (HgS) acts as Yogavahi (catalytic carrier) enhancing tissue penetration and bioavailability of gold
+- [Rasayana](/reference/rasayana/) (rejuvenative) effect of gold strengthens Ojas (vital essence/immunity) and promotes tissue regeneration in wasting diseases
 - Parpati Kalpana (flake form) ensures rapid GI dissolution and enhanced absorption compared to Bhasma form
 - Combined Agni Deepana (digestive fire enhancement) property improves nutrient absorption in malnourished patients with TB and chronic illness
 
 ## Which traditional uses are supported by research?
 
 - Rajayakshma (tuberculosis/chronic wasting diseases) - primary classical indication; supported by immunomodulatory and Rasayana properties of gold nanoparticles demonstrated in safety studies
-- Chronic bronchial diseases and respiratory conditions - traditional use supported by the anti-inflammatory and immunoenhancing properties of [Swarna Bhasma](/nighantu/herb/swarna-bhasma/) demonstrated in preclinical research
+- Chronic bronchial diseases and respiratory conditions - traditional use supported by the anti-inflammatory and immunoenhancing properties of [Swarna Bhasma](/herb/swarna-bhasma/) demonstrated in preclinical research
 
 ## What do recent clinical trials show?
 
 - Sharma DC, Jha J, Sharma P and others 2001. [Evaluation of safety and efficacy of a gold containing Ayurvedic drug](https://pubmed.ncbi.nlm.nih.gov/11831371/). *Indian journal of experimental biology*. PMID [11831371](https://pubmed.ncbi.nlm.nih.gov/11831371/)  
   Cumulative intake of 160 mg gold at 4 mg/day showed no toxic effects on human body as evidenced by clinical examination, stable body weight, absence of urinary pathology, and normal results on 30 biochemical and enzymatic tests
 - Paul W, Sharma CP 2011. [Blood compatibility studies of Swarna bhasma (gold bhasma), an Ayurvedic drug](https://pubmed.ncbi.nlm.nih.gov/21897638/). *International journal of Ayurveda research*. PMID [21897638](https://pubmed.ncbi.nlm.nih.gov/21897638/) · [doi:10.4103/0974-7788.83183](https://doi.org/10.4103/0974-7788.83183)  
-  [Swarna Bhasma](/nighantu/herb/swarna-bhasma/) found safe at all tested levels with no significant treatment-related clinical signs; demonstrated blood compatibility
+  [Swarna Bhasma](/herb/swarna-bhasma/) found safe at all tested levels with no significant treatment-related clinical signs; demonstrated blood compatibility
 
 *1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
 - Contains substantial mercury (Parada, 48 g) alongside gold - mercury toxicity is the primary safety concern despite traditional purification
-- Gold ([Swarna Bhasma](/nighantu/herb/swarna-bhasma/)) at therapeutic doses appears safe based on clinical evidence (160 mg cumulative without toxicity), but long-term effects of gold nanoparticle accumulation remain understudied
+- Gold ([Swarna Bhasma](/herb/swarna-bhasma/)) at therapeutic doses appears safe based on clinical evidence (160 mg cumulative without toxicity), but long-term effects of gold nanoparticle accumulation remain understudied
 - Mercury bioaccumulation and neurotoxicity risk requires strict dose limitation (125-250 mg, 1-2 times daily) and periodic blood mercury monitoring
 - Not recommended for prolonged use; traditional texts prescribe limited treatment courses
 - Iron overload is not a concern for this formulation as it contains no iron; primary concerns are mercury-related

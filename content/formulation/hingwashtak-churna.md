@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Hingwashtak-Churn
 
 | Language | Name |
 |----------|------|
-| English | [Hingwashtak Churna](/nighantu/formulation/hingwashtak-churna/) |
+| English | [Hingwashtak Churna](/formulation/hingwashtak-churna/) |
 
 ## Where is it described in the classical texts?
 
@@ -32,10 +32,10 @@ Bhaishajya Ratnavali (Agnimandya / Ajirna Rogadhikara). Also referenced in Yoga 
 ## How does it work?
 
 - Carminative action: Asafoetida (Hing) contains ferulic acid and volatile sulfur compounds that reduce intestinal gas formation and promote gas expulsion.
-- Digestive enzyme stimulation: [Trikatu](/nighantu/herb/trikatu/) ([black pepper](/nighantu/herb/black-pepper/), long pepper, [ginger](/nighantu/herb/ginger/)) stimulates secretion of digestive [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) including pepsin, lipase, and amylase.
-- [Antispasmodic](/nighantu/glossary/pharmacology/#antispasmodic) effect: Volatile oils from [cumin](/nighantu/herb/cumin/) and [ajwain](/nighantu/herb/ajwain/) relax intestinal smooth muscle, reducing cramping and colic.
-- [Antimicrobial](/nighantu/reference/antimicrobial/) action: Ferulic acid and [thymol](/nighantu/glossary/compounds-t-z/#thymol) (from [ajwain](/nighantu/herb/ajwain/)) provide broad-spectrum activity against gut pathogens (E. coli, S. aureus).
-- Gastroprotective mucosal defense: [Ginger](/nighantu/herb/ginger/) compounds protect gastric mucosa against NSAID-induced and ethanol-induced ulceration.
+- Digestive enzyme stimulation: [Trikatu](/herb/trikatu/) ([black pepper](/herb/black-pepper/), long pepper, [ginger](/herb/ginger/)) stimulates secretion of digestive [enzymes](/glossary/compounds-d-g/#enzymes) including pepsin, lipase, and amylase.
+- [Antispasmodic](/glossary/pharmacology/#antispasmodic) effect: Volatile oils from [cumin](/herb/cumin/) and [ajwain](/herb/ajwain/) relax intestinal smooth muscle, reducing cramping and colic.
+- [Antimicrobial](/reference/antimicrobial/) action: Ferulic acid and [thymol](/glossary/compounds-t-z/#thymol) (from [ajwain](/herb/ajwain/)) provide broad-spectrum activity against gut pathogens (E. coli, S. aureus).
+- Gastroprotective mucosal defense: [Ginger](/herb/ginger/) compounds protect gastric mucosa against NSAID-induced and ethanol-induced ulceration.
 
 ## Which traditional uses are supported by research?
 
@@ -53,7 +53,7 @@ Bhaishajya Ratnavali (Agnimandya / Ajirna Rogadhikara). Also referenced in Yoga 
 ## Recent safety updates
 
 - Generally safe at recommended doses. May cause stomach irritation in some patients, particularly those with gastric sensitivity.
-- Contains rock salt ([Saindhava Lavana](/nighantu/herb/saindhava-lavana/)); patients with hypertension and kidney-related diseases should use with caution and medical supervision.
+- Contains rock salt ([Saindhava Lavana](/herb/saindhava-lavana/)); patients with hypertension and kidney-related diseases should use with caution and medical supervision.
 - Not advised during pregnancy. Should not be taken without medical advice for prolonged periods. Those on blood pressure or cardiac medications should consult physician.
 
 ## What is it made of?
@@ -71,7 +71,7 @@ Bhaishajya Ratnavali (Agnimandya / Ajirna Rogadhikara). Also referenced in Yoga 
 
 **Standard Dosage:** 1-3 g twice daily with first morsel of food or before meals, as per AFI Part I
 
-**Bioavailability:** Identical to [Hingvashtak Churna](/nighantu/formulation/hingvashtak-churna/). Rapid-acting carminative and digestive stimulant with high bioavailability of volatile oil components.
+**Bioavailability:** Identical to [Hingvashtak Churna](/formulation/hingvashtak-churna/). Rapid-acting carminative and digestive stimulant with high bioavailability of volatile oil components.
 
 **Optimal Timing:** Immediately before meals or with first morsel of food
 
@@ -79,7 +79,7 @@ Bhaishajya Ratnavali (Agnimandya / Ajirna Rogadhikara). Also referenced in Yoga 
 
 **Storage:** Store in airtight containers in a cool, dry place. Sealed packaging due to strong aroma. Temperature not exceeding 30°C.
 
-**Marker Compounds:** [Piperine](/nighantu/reference/piperine/), 6-[Gingerol](/nighantu/glossary/compounds-d-g/#gingerol), [Cuminaldehyde](/nighantu/glossary/compounds-c-d/#cuminaldehyde), Ferulic acid, Thymol
+**Marker Compounds:** [Piperine](/reference/piperine/), 6-[Gingerol](/glossary/compounds-d-g/#gingerol), [Cuminaldehyde](/glossary/compounds-c-d/#cuminaldehyde), Ferulic acid, Thymol
 
 **Quality Parameters:** Loss on drying (<8%), total ash, acid-insoluble ash, particle size (pass sieve #85), piperine content by HPLC, cuminaldehyde, ferulic acid, volatile oil content, HPTLC fingerprint, microbial limits, heavy metals
 
@@ -87,7 +87,7 @@ Bhaishajya Ratnavali (Agnimandya / Ajirna Rogadhikara). Also referenced in Yoga 
 
 ### Synergistic Combinations
 
-- [Chitrakadi Vati](/nighantu/formulation/chitrakadi-vati/)
-- [Agnitundi Vati](/nighantu/formulation/agnitundi-vati/)
+- [Chitrakadi Vati](/formulation/chitrakadi-vati/)
+- [Agnitundi Vati](/formulation/agnitundi-vati/)
 - Lavanbhaskar Churna
-- [Shankha Vati](/nighantu/glossary/concepts-m-y/#shankha-vati)
+- [Shankha Vati](/glossary/concepts-m-y/#shankha-vati)

@@ -31,25 +31,25 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akshotaka/meta-analysis.md"
 - Juglone (5-hydroxy-1,4-naphthoquinone)
 - Ellagic acid
 - Gallic acid
-- [Quercetin](/nighantu/reference/quercetinquercetin/)
+- [Quercetin](/reference/quercetinquercetin/)
 - Alpha-linolenic acid (omega-3)
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 - Juglonol
 - Tellimagrandin I and II
-- [Catechin](/nighantu/reference/catechin/)
-- [Kaempferol](/nighantu/reference/kaempferol/)
+- [Catechin](/reference/catechin/)
+- [Kaempferol](/reference/kaempferol/)
 
 ## How does it work?
 
 - Juglone induces apoptosis in cancer cells through reactive oxygen species (ROS) generation and mitochondrial membrane depolarization, activating caspase-3 and caspase-9 pathways
-- Ellagic acid and gallic acid [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) inhibit NF-kB signaling and reduce COX-2/LOX expression, providing anti-inflammatory effects validated in multiple in vivo models
+- Ellagic acid and gallic acid [polyphenols](/glossary/compounds-o-q/#polyphenols) inhibit NF-kB signaling and reduce COX-2/LOX expression, providing anti-inflammatory effects validated in multiple in vivo models
 - Alpha-linolenic acid (ALA) reduces serum LDL-cholesterol and triglycerides via upregulation of hepatic LDL receptors and inhibition of HMG-CoA reductase, supporting cardiovascular protection
 
 ## Which traditional uses are supported by research?
 
-- [Antidiabetic](/nighantu/reference/antidiabetic/) effects validated through clinical and preclinical studies showing improved glycemic control consistent with traditional Ayurvedic use of Akshotaka for Prameha (diabetes)
+- [Antidiabetic](/reference/antidiabetic/) effects validated through clinical and preclinical studies showing improved glycemic control consistent with traditional Ayurvedic use of Akshotaka for Prameha (diabetes)
 - Anti-inflammatory and wound healing properties confirmed through in vitro and in vivo studies supporting traditional topical application of walnut bark and leaf preparations
-- [Neuroprotective](/nighantu/reference/neuroprotective/) and cognitive benefits validated through clinical studies showing walnut consumption improves memory and cognitive function in elderly populations
+- [Neuroprotective](/reference/neuroprotective/) and cognitive benefits validated through clinical studies showing walnut consumption improves memory and cognitive function in elderly populations
 
 ## What do recent clinical trials show?
 
@@ -72,7 +72,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akshotaka/meta-analysis.md"
 
 **Standard Dosage:** 3-6g kernel powder twice daily; 5-10ml oil internally; 1-2 walnut kernels daily as dietary supplement
 
-**Bioavailability:** Good bioavailability for lipid-soluble constituents (omega-3 ALA, [tocopherols](/nighantu/glossary/compounds-t-z/#tocopherols)). ALA conversion to EPA/DHA is limited (5-10%) but direct walnut matrix enhances overall polyphenol absorption. [Ellagitannins](/nighantu/glossary/compounds-d-g/#ellagitannins) are hydrolyzed to ellagic acid and then metabolized to urolithins by gut microbiota — urolithin bioavailability varies with individual microbiome composition (metabotype A vs B).
+**Bioavailability:** Good bioavailability for lipid-soluble constituents (omega-3 ALA, [tocopherols](/glossary/compounds-t-z/#tocopherols)). ALA conversion to EPA/DHA is limited (5-10%) but direct walnut matrix enhances overall polyphenol absorption. [Ellagitannins](/glossary/compounds-d-g/#ellagitannins) are hydrolyzed to ellagic acid and then metabolized to urolithins by gut microbiota — urolithin bioavailability varies with individual microbiome composition (metabotype A vs B).
 
 **Optimal Timing:** With meals or as snack. Oil taken in morning on empty stomach for general health. Kernel powder with warm milk at bedtime for brain nourishment.
 
@@ -82,7 +82,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akshotaka/meta-analysis.md"
 
 **Storage:** Kernels and powder in airtight containers, refrigerated or below 15°C. Oil in amber glass, nitrogen-flushed headspace, refrigerated after opening. Protect from heat, light, and oxygen.
 
-**Marker Compounds:** Alpha-linolenic acid (ALA), Ellagic acid, Juglone (hull), Gallic acid, Tellimagrandin, Gamma-tocopherol, [Pedunculagin](/nighantu/glossary/compounds-o-q/#pedunculagin)
+**Marker Compounds:** Alpha-linolenic acid (ALA), Ellagic acid, Juglone (hull), Gallic acid, Tellimagrandin, Gamma-tocopherol, [Pedunculagin](/glossary/compounds-o-q/#pedunculagin)
 
 ### Extraction Methods
 
@@ -93,7 +93,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akshotaka/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Brahmi](/nighantu/herb/brahmi/) for cognitive support (synergistic neuroprotection)
-- With [Ashwagandha](/nighantu/herb/ashwagandha/) for [adaptogenic](/nighantu/reference/adaptogenic/) and brain health
-- With Kesar ([saffron](/nighantu/herb/saffron/)) for mood and cognitive enhancement
-- With honey and ghee for [Rasayana](/nighantu/reference/rasayana/) (rejuvenation) therapy
+- With [Brahmi](/herb/brahmi/) for cognitive support (synergistic neuroprotection)
+- With [Ashwagandha](/herb/ashwagandha/) for [adaptogenic](/reference/adaptogenic/) and brain health
+- With Kesar ([saffron](/herb/saffron/)) for mood and cognitive enhancement
+- With honey and ghee for [Rasayana](/reference/rasayana/) (rejuvenation) therapy

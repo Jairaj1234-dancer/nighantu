@@ -19,7 +19,7 @@ productHints: []
 words: 239
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vamshalochana/meta-analysis.md"
 ---
-Siliceous exudate from the internodes of female bamboo (*Bambusa bambos* / *B. arundinacea*) — classical Ayurveda treats it as a cooling, astringent, medhya and kasahara dravya. It is a key **prakshep dravya** in classical Avaleha pharmacy, including [Chyawanprash](/nighantu/formulation/chyawanprash/) and related Rasayanas.
+Siliceous exudate from the internodes of female bamboo (*Bambusa bambos* / *B. arundinacea*) — classical Ayurveda treats it as a cooling, astringent, medhya and kasahara dravya. It is a key **prakshep dravya** in classical Avaleha pharmacy, including [Chyawanprash](/formulation/chyawanprash/) and related Rasayanas.
 
 ## Identification
 
@@ -34,7 +34,7 @@ Translucent to opaque whitish-grey siliceous nodules, hard and brittle, sourced 
 
 ## Use in Chyawanprash
 
-Added in the **Prakshep phase** (lukewarm, post-paka) along with [Pippali](/nighantu/herb/pippali/), [Twak](/nighantu/herb/twak-cinnamon/), [Ela](/nighantu/herb/ela/), [Tejpatra](/nighantu/herb/tejapatra/) and [Nagakesara](/nighantu/herb/nagakesara/). Provides the sweet-cooling balancing note and the classical medhya-rasayana signature. See Prakshep Dravya.
+Added in the **Prakshep phase** (lukewarm, post-paka) along with [Pippali](/herb/pippali/), [Twak](/herb/twak-cinnamon/), [Ela](/herb/ela/), [Tejpatra](/herb/tejapatra/) and [Nagakesara](/herb/nagakesara/). Provides the sweet-cooling balancing note and the classical medhya-rasayana signature. See Prakshep Dravya.
 
 ## Adulteration note
 

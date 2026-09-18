@@ -40,17 +40,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Talisapatra/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g of churna twice daily; 40-80 mL kwatha twice daily
 
-**Bioavailability:** Moderate bioavailability for volatile [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids); resinous matrix of leaf material provides slow release of active [monoterpenes](/nighantu/glossary/compounds-l-o/#monoterpenes) and sesquiterpenes in the GI tract. Lipophilic components benefit from co-administration with ghee or oil-based vehicles. First-pass metabolism reduces systemic levels of [taxifolin](/nighantu/glossary/compounds-t-z/#taxifolin) and related [flavonoids](/nighantu/reference/flavonoids/).
+**Bioavailability:** Moderate bioavailability for volatile [terpenoids](/glossary/compounds-t-z/#terpenoids); resinous matrix of leaf material provides slow release of active [monoterpenes](/glossary/compounds-l-o/#monoterpenes) and sesquiterpenes in the GI tract. Lipophilic components benefit from co-administration with ghee or oil-based vehicles. First-pass metabolism reduces systemic levels of [taxifolin](/glossary/compounds-t-z/#taxifolin) and related [flavonoids](/reference/flavonoids/).
 
 **Optimal Timing:** After meals with warm water or honey; preferably morning and evening for respiratory support
 
-**Standardized Extract:** Standardized to minimum 0.4% v/w volatile oil; hydroethanolic extract standardized to >1.5% total flavonoids (as [quercetin](/nighantu/reference/quercetinquercetin/) equivalent by UV spectrophotometry)
+**Standardized Extract:** Standardized to minimum 0.4% v/w volatile oil; hydroethanolic extract standardized to >1.5% total flavonoids (as [quercetin](/reference/quercetinquercetin/) equivalent by UV spectrophotometry)
 
 **Shelf Life:** Powder: 12 months; Tablets/Capsules: 24 months; Syrup: 18 months; Essential oil: 24 months
 
 **Storage:** Store in airtight, moisture-proof containers at 15-25 deg C, protected from light. Avoid storage near strong-smelling materials due to volatile cross-contamination.
 
-**Marker Compounds:** Taxifolin, alpha-Pinene, beta-Pinene, Bornyl acetate, [Limonene](/nighantu/glossary/compounds-g-l/#limonene), Quercetin, [Myricetin](/nighantu/glossary/compounds-l-o/#myricetin)
+**Marker Compounds:** Taxifolin, alpha-Pinene, beta-Pinene, Bornyl acetate, [Limonene](/glossary/compounds-g-l/#limonene), Quercetin, [Myricetin](/glossary/compounds-l-o/#myricetin)
 
 ### Extraction Methods
 
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Talisapatra/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Pippali](/nighantu/herb/pippali/) (Piper longum) - respiratory synergy, bioenhancer
-- Maricha (Piper nigrum) - [piperine](/nighantu/reference/piperine/)-mediated absorption enhancement
-- Ela (Elettaria cardamomum) - complementary [expectorant](/nighantu/reference/expectorant/)
-- [Madhu](/nighantu/herb/madhu/) (honey) - traditional anupana for Kapha conditions
+- [Pippali](/herb/pippali/) (Piper longum) - respiratory synergy, bioenhancer
+- Maricha (Piper nigrum) - [piperine](/reference/piperine/)-mediated absorption enhancement
+- Ela (Elettaria cardamomum) - complementary [expectorant](/reference/expectorant/)
+- [Madhu](/herb/madhu/) (honey) - traditional anupana for Kapha conditions

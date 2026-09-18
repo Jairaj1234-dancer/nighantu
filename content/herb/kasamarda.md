@@ -24,36 +24,36 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kasamarda/meta-analysis.md"
 | Language | Name |
 |----------|------|
 | English | Kasamarda |
-| Latin/Botanical | *Cassia occidentalis L. (syn. [Senna](/nighantu/herb/senna/) occidentalis)* |
+| Latin/Botanical | *Cassia occidentalis L. (syn. [Senna](/herb/senna/) occidentalis)* |
 
 ## Key Phytochemical Constituents
 
-- [Anthraquinones](/nighantu/glossary/compounds-1-a/#anthraquinones) ([chrysophanol](/nighantu/glossary/compounds-c-d/#chrysophanol), [physcion](/nighantu/glossary/compounds-o-q/#physcion), [emodin](/nighantu/glossary/compounds-d-g/#emodin), aloe-emodin)
+- [Anthraquinones](/glossary/compounds-1-a/#anthraquinones) ([chrysophanol](/glossary/compounds-c-d/#chrysophanol), [physcion](/glossary/compounds-o-q/#physcion), [emodin](/glossary/compounds-d-g/#emodin), aloe-emodin)
 - Achrosin (chromone)
 - Cassiollin (unique chromone)
 - Chrysophanic acid
 - Chrysarobin (anthrone)
-- [Chrysoeriol](/nighantu/glossary/compounds-c-d/#chrysoeriol) (flavone)
-- [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin) (flavone)
-- Aurantio-obtusin and related [glycosides](/nighantu/glossary/compounds-g-l/#glycosides)
+- [Chrysoeriol](/glossary/compounds-c-d/#chrysoeriol) (flavone)
+- [Apigenin](/glossary/compounds-1-a/#apigenin) (flavone)
+- Aurantio-obtusin and related [glycosides](/glossary/compounds-g-l/#glycosides)
 
 ## How does it work?
 
-- Anthraquinone-mediated fungal membrane disruption: Chrysophanol and emodin interact with [ergosterol](/nighantu/glossary/compounds-d-g/#ergosterol) in fungal cell membranes, causing structural damage and cell death - particularly effective against Candida albicans linked to common skin candidiasis
+- Anthraquinone-mediated fungal membrane disruption: Chrysophanol and emodin interact with [ergosterol](/glossary/compounds-d-g/#ergosterol) in fungal cell membranes, causing structural damage and cell death - particularly effective against Candida albicans linked to common skin candidiasis
 - Cassiollin chromone anti-inflammatory pathway: Unique chromone compound cassiollin modulates inflammatory signaling cascades, reducing skin inflammation and edema
 - Chrysophanic acid keratolytic action: Anthraquinone chrysophanic acid promotes gentle exfoliation of thickened, scaly skin in conditions like psoriasis and fungal infections
-- [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin) [antioxidant](/nighantu/reference/antioxidant/) skin protection: Flavone [apigenin](/nighantu/glossary/compounds-1-a/#apigenin) inhibits UV-induced oxidative damage, protects against DNA photodamage, and modulates inflammatory cytokine production in skin cells
+- [Apigenin](/glossary/compounds-1-a/#apigenin) [antioxidant](/reference/antioxidant/) skin protection: Flavone [apigenin](/glossary/compounds-1-a/#apigenin) inhibits UV-induced oxidative damage, protects against DNA photodamage, and modulates inflammatory cytokine production in skin cells
 
 ## Which traditional uses are supported by research?
 
 - Skin fungal infections (Dadru/Kushtha): Validated by 2024 study confirming antifungal activity of root extracts against Candida albicans, Rhodotorula glutinis, and Aspergillus niger
 - Anti-inflammatory skin conditions: Supported by demonstrated anti-inflammatory activity of chromone and flavone constituents
-- Wound healing: Traditional leaf poultice application supported by [antimicrobial](/nighantu/reference/antimicrobial/) and anti-inflammatory mechanisms
+- Wound healing: Traditional leaf poultice application supported by [antimicrobial](/reference/antimicrobial/) and anti-inflammatory mechanisms
 
 ## What do recent clinical trials show?
 
 - Bolatkyzy N, Shepilov D, Turmanov R and others 2025. [Medicinal Plants for Skin Disorders: Phytochemistry and Pharmacological Insights](https://pubmed.ncbi.nlm.nih.gov/40807461/). *Molecules (Basel, Switzerland)*. PMID [40807461](https://pubmed.ncbi.nlm.nih.gov/40807461/) · [doi:10.3390/molecules30153281](https://doi.org/10.3390/molecules30153281)  
-  Cassia occidentalis was identified among key medicinal plants for skin disorders, with documented antibacterial, antifungal, anti-diabetic, anti-inflammatory, anticancerous, antimutagenic, and [hepatoprotective](/nighantu/reference/hepatoprotective/) activities.
+  Cassia occidentalis was identified among key medicinal plants for skin disorders, with documented antibacterial, antifungal, anti-diabetic, anti-inflammatory, anticancerous, antimutagenic, and [hepatoprotective](/reference/hepatoprotective/) activities.
 - Yadav JP, Arya V, Yadav S and others 2010. [Cassia occidentalis L.: a review on its ethnobotany, phytochemical and pharmacological profile](https://pubmed.ncbi.nlm.nih.gov/19796670/). *Fitoterapia*. PMID [19796670](https://pubmed.ncbi.nlm.nih.gov/19796670/) · [doi:10.1016/j.fitote.2009.09.008](https://doi.org/10.1016/j.fitote.2009.09.008)  
   Comprehensive pharmacological review confirmed a wide range of biological activities including potent antifungal properties attributable to anthraquinone and chromone constituents.
 
@@ -72,7 +72,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kasamarda/meta-analysis.md"
 
 **Bioavailability:** Anthraquinone glycosides (chrysophanol, emodin) show moderate bioavailability with extensive hepatic conjugation (glucuronidation). Sennosides require colonic bacterial hydrolysis for activation — delayed onset of action (6-12 hours). Chrysophanol bioavailability enhanced through solid dispersion technology. Emodin shows improved absorption with phospholipid complexation.
 
-**Optimal Timing:** Before bedtime for [laxative](/nighantu/reference/laxative/) effect (sennoside activation takes 6-12 hours); after meals for hepatoprotective applications
+**Optimal Timing:** Before bedtime for [laxative](/reference/laxative/) effect (sennoside activation takes 6-12 hours); after meals for hepatoprotective applications
 
 **Standardized Extract:** Standardized to minimum 1.5% total anthraquinones (as chrysophanol) by HPLC; seed extract standardized after roasting process
 
@@ -80,7 +80,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kasamarda/meta-analysis.md"
 
 **Storage:** Store in airtight containers at 15-30°C. Protect from light (anthraquinones are photosensitive). Moisture content must be kept below 10% to prevent microbial growth.
 
-**Marker Compounds:** Chrysophanol, Emodin, Physcion, Sennoside A, Sennoside B, Cassiollin, Chryso-obtusin, [Galactomannan](/nighantu/glossary/compounds-d-g/#galactomannan)
+**Marker Compounds:** Chrysophanol, Emodin, Physcion, Sennoside A, Sennoside B, Cassiollin, Chryso-obtusin, [Galactomannan](/glossary/compounds-d-g/#galactomannan)
 
 ### Extraction Methods
 
@@ -93,6 +93,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kasamarda/meta-analysis.md"
 
 - Bhringaraj for hepatoprotective formulations
 - Kutki for liver disorders and hepatitis
-- [Haritaki](/nighantu/herb/haritaki/) for laxative synergy
-- [Bakuchi](/nighantu/herb/bakuchi/) for skin depigmentation disorders
-- [Nimba](/nighantu/herb/nimba/) for antifungal dermatological combinations
+- [Haritaki](/herb/haritaki/) for laxative synergy
+- [Bakuchi](/herb/bakuchi/) for skin depigmentation disorders
+- [Nimba](/herb/nimba/) for antifungal dermatological combinations

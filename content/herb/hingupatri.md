@@ -29,17 +29,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Hingupatri/meta-analysis.md"
 ## Key Phytochemical Constituents
 
 - Ferulic acid
-- [Umbelliferone](/nighantu/glossary/compounds-t-z/#umbelliferone) ([coumarin](/nighantu/glossary/compounds-c-d/#coumarin))
+- [Umbelliferone](/glossary/compounds-t-z/#umbelliferone) ([coumarin](/glossary/compounds-c-d/#coumarin))
 - Asaresinotannols A and B (resin fraction)
 - Organosulfides (diallyl sulfide, diallyl disulfide, dimethyl trisulfide)
 - Volatile essential oils (10-17%)
-- Sesquiterpene [coumarins](/nighantu/glossary/compounds-c-d/#coumarins)
+- Sesquiterpene [coumarins](/glossary/compounds-c-d/#coumarins)
 
 ## How does it work?
 
-- [Antispasmodic](/nighantu/glossary/pharmacology/#antispasmodic) activity through calcium channel blockade and smooth muscle relaxation in gastrointestinal tract
-- [Antimicrobial](/nighantu/reference/antimicrobial/) action via organosulfide-mediated disruption of microbial cell membranes
-- Cancer chemopreventive effects through ferulic acid-mediated inhibition of NF-kB and modulation of detoxification [enzymes](/nighantu/glossary/compounds-d-g/#enzymes)
+- [Antispasmodic](/glossary/pharmacology/#antispasmodic) activity through calcium channel blockade and smooth muscle relaxation in gastrointestinal tract
+- [Antimicrobial](/reference/antimicrobial/) action via organosulfide-mediated disruption of microbial cell membranes
+- Cancer chemopreventive effects through ferulic acid-mediated inhibition of NF-kB and modulation of detoxification [enzymes](/glossary/compounds-d-g/#enzymes)
 - Hypotensive effect via vasodilation mediated by sesquiterpene coumarins
 
 ## Which traditional uses are supported by research?
@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Hingupatri/meta-analysis.md"
 - Digestive and carminative (Deepana, Anulomana) - validated through confirmed antispasmodic and carminative properties
 - Anti-epileptic and nervine (Apasmara-hara) - partially supported by CNS-active sesquiterpene compounds
 - Anti-infectious and antimicrobial (Krimighna) - confirmed broad-spectrum antimicrobial activity of organosulfides
-- Respiratory conditions (Kasa-Shvasa) - validated [expectorant](/nighantu/reference/expectorant/) and bronchodilatory effects
+- Respiratory conditions (Kasa-Shvasa) - validated [expectorant](/reference/expectorant/) and bronchodilatory effects
 
 ## What do recent clinical trials show?
 
@@ -58,7 +58,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Hingupatri/meta-analysis.md"
 
 ## Recent safety updates
 
-- The leaf (Hingupatri) is generally milder than the resin ([Hingu](/nighantu/herb/hingu/)); however, it shares organosulfide compounds that may cause gastrointestinal irritation in sensitive individuals
+- The leaf (Hingupatri) is generally milder than the resin ([Hingu](/herb/hingu/)); however, it shares organosulfide compounds that may cause gastrointestinal irritation in sensitive individuals
 - Not recommended during pregnancy (traditional emmenagogue); may interact with anticoagulant medications; excessive use may cause methemoglobinemia in rare cases
 
 ## What is it made of?
@@ -83,7 +83,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Hingupatri/meta-analysis.md"
 
 **Standard Dosage:** 1-3g powder twice daily; 30-60ml decoction
 
-**Bioavailability:** Gardenia gummifera resin exudate contains [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids) and gum [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides). Limited modern pharmacokinetic data. Terpenoid components likely have moderate lipophilic absorption. Traditional decoction preparation facilitates extraction of water-soluble constituents. Gum fraction acts as a soluble fiber with prebiotic potential.
+**Bioavailability:** Gardenia gummifera resin exudate contains [terpenoids](/glossary/compounds-t-z/#terpenoids) and gum [polysaccharides](/glossary/compounds-o-q/#polysaccharides). Limited modern pharmacokinetic data. Terpenoid components likely have moderate lipophilic absorption. Traditional decoction preparation facilitates extraction of water-soluble constituents. Gum fraction acts as a soluble fiber with prebiotic potential.
 
 **Optimal Timing:** Before or with meals with warm water
 
@@ -93,7 +93,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Hingupatri/meta-analysis.md"
 
 **Storage:** Cool, dry place below 25°C. Gum-resin is hygroscopic; airtight containers with desiccant essential.
 
-**Marker Compounds:** Terpenoids (general TLC profiling), Gum polysaccharides (viscosity-based assay), [Isoflavones](/nighantu/glossary/compounds-g-l/#isoflavones) (tentative)
+**Marker Compounds:** Terpenoids (general TLC profiling), Gum polysaccharides (viscosity-based assay), [Isoflavones](/glossary/compounds-g-l/#isoflavones) (tentative)
 
 ### Extraction Methods
 
@@ -103,6 +103,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Hingupatri/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Hingu](/nighantu/herb/hingu/) for enhanced carminative effect
+- With [Hingu](/herb/hingu/) for enhanced carminative effect
 - With Chitraka for digestive fire stimulation
 - With Sunthi for anti-flatulent action

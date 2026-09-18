@@ -23,20 +23,20 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Elakanadi-Ka
 
 | Language | Name |
 |----------|------|
-| English | [Elakanadi Kashayam](/nighantu/formulation/elakanadi-kashayam/) |
+| English | [Elakanadi Kashayam](/formulation/elakanadi-kashayam/) |
 
 ## Key Ingredients
 
 - Ela (Elettaria cardamomum / Cardamom)
-- Kana/[Pippali](/nighantu/herb/pippali/) (Piper longum)
-- [Madhuka](/nighantu/herb/madhuka/)/[Yashtimadhu](/nighantu/herb/yashtimadhu/) (Glycyrrhiza glabra)
-- Nagara/Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale)
+- Kana/[Pippali](/herb/pippali/) (Piper longum)
+- [Madhuka](/herb/madhuka/)/[Yashtimadhu](/herb/yashtimadhu/) (Glycyrrhiza glabra)
+- Nagara/Shunthi ([Zingiber](/herb/zingiber/) officinale)
 - Abda/Musta (Cyperus rotundus)
-- [Vasa](/nighantu/herb/vasa/) (Adhatoda vasica)
-- [Nimba](/nighantu/herb/nimba/) (Azadirachta indica)
-- Amruta/[Guduchi](/nighantu/herb/guduchi/) (Tinospora cordifolia)
-- [Dashamoola](/nighantu/herb/dashamoola/) (group of ten roots)
-- Ambu/[Sariva](/nighantu/herb/sariva/) (Hemidesmus indicus)
+- [Vasa](/herb/vasa/) (Adhatoda vasica)
+- [Nimba](/herb/nimba/) (Azadirachta indica)
+- Amruta/[Guduchi](/herb/guduchi/) (Tinospora cordifolia)
+- [Dashamoola](/herb/dashamoola/) (group of ten roots)
+- Ambu/[Sariva](/herb/sariva/) (Hemidesmus indicus)
 
 ## Where is it described in the classical texts?
 
@@ -44,10 +44,10 @@ Sahasrayogam. Also referenced in commentaries of Charaka Samhita's Nighantu sect
 
 ## How does it work?
 
-- Bronchodilatory action from 1,8-[cineole](/nighantu/glossary/compounds-c-d/#cineole) and [Vasa](/nighantu/herb/vasa/) (Adhatoda vasica) relieves bronchospasm in asthma and bronchitis
-- Bioavailability enhancement by [piperine](/nighantu/reference/piperine/) (from [Pippali](/nighantu/herb/pippali/)) increases absorption of other active constituents
-- [Antiemetic](/nighantu/glossary/pharmacology/#antiemetic) properties of Ela (cardamom) relieve nausea, vomiting, and hiccups
-- [Immunomodulatory](/nighantu/reference/immunomodulatory/) and anti-inflammatory effects of [Guduchi](/nighantu/herb/guduchi/) and [Nimba](/nighantu/herb/nimba/) support respiratory immunity
+- Bronchodilatory action from 1,8-[cineole](/glossary/compounds-c-d/#cineole) and [Vasa](/herb/vasa/) (Adhatoda vasica) relieves bronchospasm in asthma and bronchitis
+- Bioavailability enhancement by [piperine](/reference/piperine/) (from [Pippali](/herb/pippali/)) increases absorption of other active constituents
+- [Antiemetic](/glossary/pharmacology/#antiemetic) properties of Ela (cardamom) relieve nausea, vomiting, and hiccups
+- [Immunomodulatory](/reference/immunomodulatory/) and anti-inflammatory effects of [Guduchi](/herb/guduchi/) and [Nimba](/herb/nimba/) support respiratory immunity
 
 ## Which traditional uses are supported by research?
 
@@ -65,7 +65,7 @@ Sahasrayogam. Also referenced in commentaries of Charaka Samhita's Nighantu sect
 ## Recent safety updates
 
 - No known side effects at standard dosage. Overdosage may cause gastritis. Generally considered safe for long-term use under physician supervision.
-- May potentiate [antidiabetic](/nighantu/reference/antidiabetic/) drugs and anticoagulants; blood sugar and clotting factors should be monitored closely. Large-scale RCTs and pharmacokinetic profiling still needed.
+- May potentiate [antidiabetic](/reference/antidiabetic/) drugs and anticoagulants; blood sugar and clotting factors should be monitored closely. Large-scale RCTs and pharmacokinetic profiling still needed.
 
 ## What is it made of?
 
@@ -90,7 +90,7 @@ Sahasrayogam. Also referenced in commentaries of Charaka Samhita's Nighantu sect
 
 **Storage:** Fresh: use same day. Concentrates: amber glass at room temperature. Tablets: airtight containers at room temperature.
 
-**Marker Compounds:** 1,8-Cineole, Alpha-terpinyl acetate, [Linalool](/nighantu/glossary/compounds-l-o/#linalool), Alpha-terpineol
+**Marker Compounds:** 1,8-Cineole, Alpha-terpinyl acetate, [Linalool](/glossary/compounds-l-o/#linalool), Alpha-terpineol
 
 **Quality Parameters:** pH, specific gravity, total solids, volatile oil content, 1,8-cineole content, extractive values, HPTLC fingerprint, microbial limits, heavy metals
 
@@ -98,7 +98,7 @@ Sahasrayogam. Also referenced in commentaries of Charaka Samhita's Nighantu sect
 
 ### Synergistic Combinations
 
-- [Eladi Vati](/nighantu/formulation/eladi-vati/)
-- [Sitopaladi Churna](/nighantu/formulation/sitopaladi-churna/)
-- [Talisadi Churna](/nighantu/formulation/talisadi-churna/)
+- [Eladi Vati](/formulation/eladi-vati/)
+- [Sitopaladi Churna](/formulation/sitopaladi-churna/)
+- [Talisadi Churna](/formulation/talisadi-churna/)
 - Dasamula Kashayam

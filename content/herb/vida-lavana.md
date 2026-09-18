@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Vida-Lavana/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | [Vida Lavana](/nighantu/herb/vida-lavana/) Black Salt |
+| English | [Vida Lavana](/herb/vida-lavana/) Black Salt |
 
 ## Key Phytochemical Constituents
 
@@ -34,7 +34,7 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Vida-Lavana/meta-analysis.md"
 - Sodium bisulfite (NaHSO3)
 - Iron sulfide (FeS) - responsible for dark color
 - Iron (Fe2+/Fe3+ compounds)
-- Calcium, [magnesium](/nighantu/glossary/compounds-l-o/#magnesium) (traces)
+- Calcium, [magnesium](/glossary/compounds-l-o/#magnesium) (traces)
 - Hydrogen sulfide (volatile, gives characteristic odor)
 
 ## How does it work?
@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Vida-Lavana/meta-analysis.md"
 - Digestive stimulation: Sulfur compounds stimulate gastric acid and bile production; alkaline processing creates compounds that buffer excess acidity while enhancing overall digestive function
 - Anti-flatulent: Sodium sulfide and hydrogen sulfide at low concentrations modulate gut motility and reduce gas formation by inhibiting fermentative bacteria
 - Mild anti-anemic: Iron compounds (Fe2+ from iron sulfide) contribute bioavailable iron when consumed regularly in food
-- Srotoshodhana (channel clearing): Light and sharp qualities clear obstructed channels; sulfur compounds have mild mucolytic and [expectorant](/nighantu/reference/expectorant/) action
+- Srotoshodhana (channel clearing): Light and sharp qualities clear obstructed channels; sulfur compounds have mild mucolytic and [expectorant](/reference/expectorant/) action
 
 ## Which traditional uses are supported by research?
 
@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Vida-Lavana/meta-analysis.md"
 - Daily consumption should not exceed 6 grams; excessive sulfide intake can cause gastrointestinal distress, nausea, and headache
 - Hydrogen sulfide is toxic at high concentrations; traditional preparation methods control sulfide levels to therapeutic range
 - Not recommended for individuals with sulfur sensitivity or sulfite allergies
-- Adulteration with synthetic food-grade additives (for color and smell) is common in commercial products; traditionally prepared [Vida Lavana](/nighantu/herb/vida-lavana/) preferred
+- Adulteration with synthetic food-grade additives (for color and smell) is common in commercial products; traditionally prepared [Vida Lavana](/herb/vida-lavana/) preferred
 
 ## What is it made of?
 

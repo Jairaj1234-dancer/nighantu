@@ -23,61 +23,61 @@ srcRel: "_Hub/Pharmacology/Bronchodilator.md"
 
 ## Ayurveda (44)
 
-- [Agastya Haritaki Rasayana](/nighantu/formulation/agastya-haritaki-rasayana/)
-- [Ajwain](/nighantu/herb/ajwain/) — *Trachyspermum ammi*
-- [Bhadra](/nighantu/herb/bhadra/) — *Aerva lanata (L.) Juss. ex Schult.*
-- [Brihati](/nighantu/herb/brihati/) — *Solanum indicum L.*
-- [Chitrakaharitaki](/nighantu/herb/chitrakaharitaki/) — *Polyherbal formulation: Plumbago zeylanica ([Chitrak](/nighantu/herb/chitrak/)) + Terminalia chebula ([Haritaki](/nighantu/herb/haritaki/)) as principal herbs*
-- [Dashamoola Katutraya Kashayam](/nighantu/formulation/dashamoola-katutraya-kashayam/)
-- [Devadaru](/nighantu/herb/devadaru/) — *Cedrus deodara (Roxb. ex D.Don) G.Don*
-- [Ela](/nighantu/herb/ela/) — *Elettaria cardamomum*
-- [Elakanadi Kashayam](/nighantu/formulation/elakanadi-kashayam/)
-- [Gandharvahastadi Kashayam](/nighantu/formulation/gandharvahastadi-kashayam/)
-- [Gojihvadi Kwath](/nighantu/glossary/concepts-a-m/#gojihvadi-kwath)
-- [Haratala Bhasma](/nighantu/herb/haratala-bhasma/)
-- [Hingu](/nighantu/herb/hingu/) — *Ferula asafoetida*
-- [Hinguleshwar Ras](/nighantu/herb/hinguleshwar-ras/)
-- [Hingupatri](/nighantu/herb/hingupatri/) — *Ferula spp. (leaf portion of Ferula assa-foetida L. or related Ferula species)*
-- [Kalonji](/nighantu/herb/kalonji/) — *Nigella sativa*
-- [Kantakari](/nighantu/herb/kantakari/) — *Solanum xanthocarpum Schrad. & Wendl. (syn. S. surattense Burm. f., S. virginianum L.)*
-- [Kapittha](/nighantu/herb/kapittha/) — *Limonia acidissima Groff (syn. Feronia limonia (L.) Swingle)*
-- [Karkatashringi](/nighantu/herb/karkatashringi/) — *Pistacia integerrima J.L. Stewart ex Brandis*
-- [Karpooradi Thailam](/nighantu/formulation/karpooradi-thailam/)
-- [Kharjura](/nighantu/herb/kharjura/) — *Phoenix dactylifera L.*
-- [Kshirabala Thailam](/nighantu/formulation/kshirabala-thailam/)
-- [Kulattha](/nighantu/herb/kulattha/) — *Macrotyloma uniflorum (Lam.) Verdc. (syn. Dolichos biflorus L.)*
-- [Mahabala](/nighantu/herb/mahabala/) — *Sida rhombifolia L.*
-- [Mahalakshmi Vilas Rasa](/nighantu/herb/mahalakshmi-vilas-rasa/)
-- [Mahasudarshan Churna](/nighantu/formulation/mahasudarshan-churna/)
-- [Meda](/nighantu/herb/meda/) — *Polygonatum verticillatum (L.) All. / Polygonatum cirrhifolium (Wall.) Royle*
-- [Parnayavani](/nighantu/herb/parnayavani/)
-- [Pippali](/nighantu/herb/pippali/) — *Piper longum*
-- [Pippali Khanda](/nighantu/formulation/pippali-khanda/)
-- [Pippali Moola](/nighantu/herb/pippali-moola/) — *Piper longum L. (root)*
-- [Pippalyasava](/nighantu/formulation/pippalyasava/)
-- [Pudina](/nighantu/herb/pudina/) — *Mentha spicata*
-- [Pushkarmool](/nighantu/herb/pushkarmool/) — *Inula racemosa Hook. f.*
-- [Sameer Pannag Rasa](/nighantu/herb/sameer-pannag-rasa/)
-- [Shati](/nighantu/herb/shati/) — *Hedychium spicatum Buch.-Ham. ex Sm.*
-- [Sitopaladi Churna](/nighantu/formulation/sitopaladi-churna/)
-- [Talisa](/nighantu/herb/talisa/) — *Abies webbiana Lindl. (syn. Abies spectabilis (D. Don) Mirb.)*
-- [Talisadi Churna](/nighantu/formulation/talisadi-churna/)
+- [Agastya Haritaki Rasayana](/formulation/agastya-haritaki-rasayana/)
+- [Ajwain](/herb/ajwain/) — *Trachyspermum ammi*
+- [Bhadra](/herb/bhadra/) — *Aerva lanata (L.) Juss. ex Schult.*
+- [Brihati](/herb/brihati/) — *Solanum indicum L.*
+- [Chitrakaharitaki](/herb/chitrakaharitaki/) — *Polyherbal formulation: Plumbago zeylanica ([Chitrak](/herb/chitrak/)) + Terminalia chebula ([Haritaki](/herb/haritaki/)) as principal herbs*
+- [Dashamoola Katutraya Kashayam](/formulation/dashamoola-katutraya-kashayam/)
+- [Devadaru](/herb/devadaru/) — *Cedrus deodara (Roxb. ex D.Don) G.Don*
+- [Ela](/herb/ela/) — *Elettaria cardamomum*
+- [Elakanadi Kashayam](/formulation/elakanadi-kashayam/)
+- [Gandharvahastadi Kashayam](/formulation/gandharvahastadi-kashayam/)
+- [Gojihvadi Kwath](/glossary/concepts-a-m/#gojihvadi-kwath)
+- [Haratala Bhasma](/herb/haratala-bhasma/)
+- [Hingu](/herb/hingu/) — *Ferula asafoetida*
+- [Hinguleshwar Ras](/herb/hinguleshwar-ras/)
+- [Hingupatri](/herb/hingupatri/) — *Ferula spp. (leaf portion of Ferula assa-foetida L. or related Ferula species)*
+- [Kalonji](/herb/kalonji/) — *Nigella sativa*
+- [Kantakari](/herb/kantakari/) — *Solanum xanthocarpum Schrad. & Wendl. (syn. S. surattense Burm. f., S. virginianum L.)*
+- [Kapittha](/herb/kapittha/) — *Limonia acidissima Groff (syn. Feronia limonia (L.) Swingle)*
+- [Karkatashringi](/herb/karkatashringi/) — *Pistacia integerrima J.L. Stewart ex Brandis*
+- [Karpooradi Thailam](/formulation/karpooradi-thailam/)
+- [Kharjura](/herb/kharjura/) — *Phoenix dactylifera L.*
+- [Kshirabala Thailam](/formulation/kshirabala-thailam/)
+- [Kulattha](/herb/kulattha/) — *Macrotyloma uniflorum (Lam.) Verdc. (syn. Dolichos biflorus L.)*
+- [Mahabala](/herb/mahabala/) — *Sida rhombifolia L.*
+- [Mahalakshmi Vilas Rasa](/herb/mahalakshmi-vilas-rasa/)
+- [Mahasudarshan Churna](/formulation/mahasudarshan-churna/)
+- [Meda](/herb/meda/) — *Polygonatum verticillatum (L.) All. / Polygonatum cirrhifolium (Wall.) Royle*
+- [Parnayavani](/herb/parnayavani/)
+- [Pippali](/herb/pippali/) — *Piper longum*
+- [Pippali Khanda](/formulation/pippali-khanda/)
+- [Pippali Moola](/herb/pippali-moola/) — *Piper longum L. (root)*
+- [Pippalyasava](/formulation/pippalyasava/)
+- [Pudina](/herb/pudina/) — *Mentha spicata*
+- [Pushkarmool](/herb/pushkarmool/) — *Inula racemosa Hook. f.*
+- [Sameer Pannag Rasa](/herb/sameer-pannag-rasa/)
+- [Shati](/herb/shati/) — *Hedychium spicatum Buch.-Ham. ex Sm.*
+- [Sitopaladi Churna](/formulation/sitopaladi-churna/)
+- [Talisa](/herb/talisa/) — *Abies webbiana Lindl. (syn. Abies spectabilis (D. Don) Mirb.)*
+- [Talisadi Churna](/formulation/talisadi-churna/)
 
 ## Related Body Systems
 
-- [Anti-inflammatory & Pain](/nighantu/reference/antiinflammatory-pain/)
-- [Brain & Nervous System](/nighantu/reference/brain-nervous-system/)
-- [Diabetes & Metabolism](/nighantu/reference/diabetes-metabolism/)
-- [Digestive Health](/nighantu/reference/digestive-health/)
-- [Eye Health](/nighantu/reference/eye-health/)
-- [Fever & Infection](/nighantu/reference/fever-infection/)
-- [Hair Health](/nighantu/glossary/body-systems/#hair-health)
-- [Heart & Cardiovascular](/nighantu/reference/heart-cardiovascular/)
-- [Immune System & Rasayana](/nighantu/reference/immune-system-rasayana/)
-- [Joint & Musculoskeletal](/nighantu/reference/joint-musculoskeletal/)
-- [Kidney & Urinary](/nighantu/reference/kidney-urinary/)
-- [Liver & Detoxification](/nighantu/reference/liver-detoxification/)
-- [Men's Health & Vitality](/nighantu/reference/mens-health-vitality/)
-- [Respiratory Health](/nighantu/reference/respiratory-health/)
-- [Skin & Beauty](/nighantu/reference/skin-beauty/)
-- [Women's Health](/nighantu/reference/womens-health/)
+- [Anti-inflammatory & Pain](/reference/antiinflammatory-pain/)
+- [Brain & Nervous System](/reference/brain-nervous-system/)
+- [Diabetes & Metabolism](/reference/diabetes-metabolism/)
+- [Digestive Health](/reference/digestive-health/)
+- [Eye Health](/reference/eye-health/)
+- [Fever & Infection](/reference/fever-infection/)
+- [Hair Health](/glossary/body-systems/#hair-health)
+- [Heart & Cardiovascular](/reference/heart-cardiovascular/)
+- [Immune System & Rasayana](/reference/immune-system-rasayana/)
+- [Joint & Musculoskeletal](/reference/joint-musculoskeletal/)
+- [Kidney & Urinary](/reference/kidney-urinary/)
+- [Liver & Detoxification](/reference/liver-detoxification/)
+- [Men's Health & Vitality](/reference/mens-health-vitality/)
+- [Respiratory Health](/reference/respiratory-health/)
+- [Skin & Beauty](/reference/skin-beauty/)
+- [Women's Health](/reference/womens-health/)

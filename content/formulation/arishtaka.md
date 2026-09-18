@@ -57,7 +57,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Arishta
 
 **Storage:** Store in well-closed amber glass or HDPE containers in a cool place. Protect from direct sunlight. Temperature not exceeding 30°C.
 
-**Marker Compounds:** Specific markers depend on primary herb used, Gallic acid, Ellagic acid, Flavonoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides)
+**Marker Compounds:** Specific markers depend on primary herb used, Gallic acid, Ellagic acid, Flavonoid [glycosides](/glossary/compounds-g-l/#glycosides)
 
 **Quality Parameters:** pH (3.0-4.5), specific gravity, self-generated alcohol content (5-12% v/v), total solids, total sugar, total acidity, microbial limits, heavy metals, HPTLC fingerprint, absence of methanol
 
@@ -65,7 +65,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Arishta
 
 ### Synergistic Combinations
 
-- [Dashamularishta](/nighantu/formulation/dashamularishta/)
-- [Ashwagandharishta](/nighantu/formulation/ashwagandharishta/)
-- [Draksharishta](/nighantu/formulation/draksharishta/)
+- [Dashamularishta](/formulation/dashamularishta/)
+- [Ashwagandharishta](/formulation/ashwagandharishta/)
+- [Draksharishta](/formulation/draksharishta/)
 - Supportive Churna formulations

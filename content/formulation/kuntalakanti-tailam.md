@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kuntalakant
 
 | Language | Name |
 |----------|------|
-| English | [Kuntalakanti Tailam](/nighantu/formulation/kuntalakanti-tailam/) |
+| English | [Kuntalakanti Tailam](/formulation/kuntalakanti-tailam/) |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kuntalakant
 
 **Standard Dosage:** External: sufficient quantity for scalp massage, 30-60 minutes before hair wash, 2-3 times weekly, as per traditional texts
 
-**Bioavailability:** Scalp has rich blood supply — topical application provides follicular penetration of [wedelolactone](/nighantu/glossary/compounds-t-z/#wedelolactone) and other hair-growth-promoting compounds. [Coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil) penetrates hair shaft (lauric acid has high affinity for hair protein). 30-60 minute pre-wash application provides optimal contact time.
+**Bioavailability:** Scalp has rich blood supply — topical application provides follicular penetration of [wedelolactone](/glossary/compounds-t-z/#wedelolactone) and other hair-growth-promoting compounds. [Coconut oil](/glossary/concepts-a-m/#coconut-oil) penetrates hair shaft (lauric acid has high affinity for hair protein). 30-60 minute pre-wash application provides optimal contact time.
 
 **Optimal Timing:** 30-60 minutes before hair wash, 2-3 times weekly. Overnight application once weekly for intensive treatment. Gentle scalp massage during application.
 
@@ -57,7 +57,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kuntalakant
 
 **Storage:** Store in HDPE or glass bottles in a cool, dry place. Temperature not exceeding 25°C. Protect from light.
 
-**Marker Compounds:** Wedelolactone (from Bhringaraja), Gallic acid (from Amalaki), [Quercetin](/nighantu/reference/quercetinquercetin/) (from Hibiscus), [Indigotin](/nighantu/glossary/compounds-g-l/#indigotin) (from [Nili](/nighantu/herb/nili/)), Lauric acid (from [coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil))
+**Marker Compounds:** Wedelolactone (from Bhringaraja), Gallic acid (from Amalaki), [Quercetin](/reference/quercetinquercetin/) (from Hibiscus), [Indigotin](/glossary/compounds-g-l/#indigotin) (from [Nili](/herb/nili/)), Lauric acid (from [coconut oil](/glossary/concepts-a-m/#coconut-oil))
 
 **Quality Parameters:** Acid value, peroxide value, saponification value, refractive index, specific gravity, wedelolactone content from Bhringaraja by HPLC, total phenolics, rancidity test negative, HPTLC fingerprint, microbial limits, heavy metals, colour (typically dark green-black)
 
@@ -67,5 +67,5 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kuntalakant
 
 - Bhringaraja Taila
 - Neelibhringadi Thailam
-- [Brahmi](/nighantu/herb/brahmi/) Taila (for scalp)
-- [Bhringaraja Svarasa](/nighantu/formulation/bhringaraja-svarasa/) (internal)
+- [Brahmi](/herb/brahmi/) Taila (for scalp)
+- [Bhringaraja Svarasa](/formulation/bhringaraja-svarasa/) (internal)

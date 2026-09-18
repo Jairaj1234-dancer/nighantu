@@ -23,25 +23,25 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Vyoshadi-Gug
 
 | Language | Name |
 |----------|------|
-| English | Vyoshadi [Guggulu](/nighantu/formulation/guggulu/)|Vyoshadi Guggulu |
+| English | Vyoshadi [Guggulu](/formulation/guggulu/)|Vyoshadi Guggulu |
 
 ## Where is it described in the classical texts?
 
-Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya Ratnavali (Kasa/Pratishyaya Chikitsa) and Chakradatta; described under the [guggulu](/nighantu/formulation/guggulu/) formulation group for Kapha-Vata disorders
+Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya Ratnavali (Kasa/Pratishyaya Chikitsa) and Chakradatta; described under the [guggulu](/formulation/guggulu/) formulation group for Kapha-Vata disorders
 
 ## How does it work?
 
-- Thyroid stimulation: Guggulsterones from [Guggulu](/nighantu/formulation/guggulu/) possess thyroid stimulating activity, increasing T3/T4 output and normalizing TSH levels through direct action on thyroid tissue
-- Anti-inflammatory cytokine inhibition: Guggulsterones inhibit pro-inflammatory cytokines (TNF-alpha, IL-6) while [Trikatu](/nighantu/herb/trikatu/) promotes GI absorption of these active compounds
-- Respiratory decongestant: Hot potency of [Trikatu](/nighantu/herb/trikatu/) and [Guggulu](/nighantu/formulation/guggulu/) targets Kapha stagnation in lungs, relieving nasal inflammation, congestion, discharge, and respiratory irritation
-- Mucosal tonicity: Terminalia fruit [tannins](/nighantu/reference/tannins/) (from [Triphala](/nighantu/herb/triphala/)) strengthen mucosal tissue in the respiratory tract, improving barrier function against pathogens
+- Thyroid stimulation: Guggulsterones from [Guggulu](/formulation/guggulu/) possess thyroid stimulating activity, increasing T3/T4 output and normalizing TSH levels through direct action on thyroid tissue
+- Anti-inflammatory cytokine inhibition: Guggulsterones inhibit pro-inflammatory cytokines (TNF-alpha, IL-6) while [Trikatu](/herb/trikatu/) promotes GI absorption of these active compounds
+- Respiratory decongestant: Hot potency of [Trikatu](/herb/trikatu/) and [Guggulu](/formulation/guggulu/) targets Kapha stagnation in lungs, relieving nasal inflammation, congestion, discharge, and respiratory irritation
+- Mucosal tonicity: Terminalia fruit [tannins](/reference/tannins/) (from [Triphala](/herb/triphala/)) strengthen mucosal tissue in the respiratory tract, improving barrier function against pathogens
 - Metabolic and lipid regulation: Guggulsterones reduce cholesterol through FXR antagonism, stimulate phagocytosis by increasing leukocyte activity, and enhance overall metabolic function
 
 ## Which traditional uses are supported by research?
 
 - Thyroid function support (Galaganda) validated in RCT showing 16.61% TSH reduction with no adverse effects over 60-day treatment
 - Respiratory congestion and common cold (Pratishyaya) management validated through 30% improvement in cough frequency in clinical study
-- Obesity management validated in prospective multicenter study confirming safety and efficacy of combined Vyoshadi [Guggulu](/nighantu/formulation/guggulu/)|Vyoshadi Guggulu with [Haritaki](/nighantu/herb/haritaki/) Churna
+- Obesity management validated in prospective multicenter study confirming safety and efficacy of combined Vyoshadi [Guggulu](/formulation/guggulu/)|Vyoshadi Guggulu with [Haritaki](/herb/haritaki/) Churna
 - Voice hoarseness and throat disorders validated through anti-inflammatory and mucosal-strengthening mechanisms of combined ingredients
 
 ## What do recent clinical trials show?
@@ -78,7 +78,7 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 
 **Storage:** Airtight container, cool dry place; guggulu preparations are hygroscopic
 
-**Marker Compounds:** Guggulsterone, [Piperine](/nighantu/reference/piperine/), [Gingerol](/nighantu/glossary/compounds-d-g/#gingerol)
+**Marker Compounds:** Guggulsterone, [Piperine](/reference/piperine/), [Gingerol](/glossary/compounds-d-g/#gingerol)
 
 **Quality Parameters:** Weight variation ±5%, disintegration <60 min, hardness 4-8 kP, assay: Guggulsterone, Piperine, Gingerol, guggulsterone content
 
@@ -86,4 +86,4 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 
 ### Synergistic Combinations
 
-- Key herbs: [Trikatu](/nighantu/herb/trikatu/) (Vyosha), Guggulu, [Triphala](/nighantu/herb/triphala/); guggulu potentiates anti-inflammatory and [hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic) actions
+- Key herbs: [Trikatu](/herb/trikatu/) (Vyosha), Guggulu, [Triphala](/herb/triphala/); guggulu potentiates anti-inflammatory and [hypolipidemic](/glossary/pharmacology/#hypolipidemic) actions

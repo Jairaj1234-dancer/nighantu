@@ -28,27 +28,27 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tamalaki/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Phyllanthin](/nighantu/glossary/compounds-o-q/#phyllanthin) (major lignan)
-- [Hypophyllanthin](/nighantu/glossary/compounds-g-l/#hypophyllanthin) (lignan)
+- [Phyllanthin](/glossary/compounds-o-q/#phyllanthin) (major lignan)
+- [Hypophyllanthin](/glossary/compounds-g-l/#hypophyllanthin) (lignan)
 - Phyltetralin (lignan)
 - Niranthin (lignan)
 - Gallic acid
 - Ellagic acid
-- [Quercetin](/nighantu/reference/quercetinquercetin/) and [rutin](/nighantu/glossary/compounds-q-t/#rutin)
+- [Quercetin](/reference/quercetinquercetin/) and [rutin](/glossary/compounds-q-t/#rutin)
 - Geraniin (ellagitannin)
-- [Corilagin](/nighantu/glossary/compounds-c-d/#corilagin)
-- [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) (securinine, norsecurinine)
+- [Corilagin](/glossary/compounds-c-d/#corilagin)
+- [Alkaloids](/glossary/compounds-1-a/#alkaloids) (securinine, norsecurinine)
 
 ## How does it work?
 
 - Antiviral mechanism: inhibition of hepatitis B virus DNA polymerase, preventing viral replication; also demonstrated activity against HIV reverse transcriptase
-- [Hepatoprotective](/nighantu/reference/hepatoprotective/) mechanism through Nrf2 pathway activation upregulating [antioxidant](/nighantu/reference/antioxidant/) defense [enzymes](/nighantu/glossary/compounds-d-g/#enzymes), combined with NF-kB and MAPK pathway modulation reducing hepatic inflammation
-- Antilithiatic mechanism through inhibition of calcium oxalate crystal formation and growth, combined with [diuretic](/nighantu/reference/diuretic/) and uricosuric actions reducing stone-forming potential
-- [Anticancer](/nighantu/reference/anticancer/) synergy: phyllanthin and hypophyllanthin modulate P-glycoprotein efflux and sensitize resistant cancer cells to chemotherapeutic agents
+- [Hepatoprotective](/reference/hepatoprotective/) mechanism through Nrf2 pathway activation upregulating [antioxidant](/reference/antioxidant/) defense [enzymes](/glossary/compounds-d-g/#enzymes), combined with NF-kB and MAPK pathway modulation reducing hepatic inflammation
+- Antilithiatic mechanism through inhibition of calcium oxalate crystal formation and growth, combined with [diuretic](/reference/diuretic/) and uricosuric actions reducing stone-forming potential
+- [Anticancer](/reference/anticancer/) synergy: phyllanthin and hypophyllanthin modulate P-glycoprotein efflux and sensitize resistant cancer cells to chemotherapeutic agents
 
 ## Which traditional uses are supported by research?
 
-- Antilithiatic (kidney stone breaking) activity validated through clinical trials showing reduced stone recurrence, confirming premier traditional use as [Pashanabheda](/nighantu/herb/pashanabheda/) (stone breaker)
+- Antilithiatic (kidney stone breaking) activity validated through clinical trials showing reduced stone recurrence, confirming premier traditional use as [Pashanabheda](/herb/pashanabheda/) (stone breaker)
 - Hepatoprotective and antiviral (Hepatitis B) properties extensively validated through in vitro and clinical studies, confirming traditional use in liver diseases (Yakrit Vikara)
 - Anti-inflammatory and diuretic properties validated through multiple pharmacological studies, confirming traditional Ayurvedic uses in urinary and inflammatory conditions
 
@@ -64,7 +64,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tamalaki/meta-analysis.md"
 ## Recent safety updates
 
 - Generally well-tolerated in clinical studies at doses up to 500 mg twice daily for 12 months; mild GI effects (nausea, diarrhea) reported occasionally; hypoglycemic potential requires monitoring in diabetic patients on medication
-- Rare reports of allergic reactions; should be used cautiously during pregnancy due to traditional abortifacient reputation of some Phyllanthus species; potential herb-drug interactions with anticoagulants and [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive) medications
+- Rare reports of allergic reactions; should be used cautiously during pregnancy due to traditional abortifacient reputation of some Phyllanthus species; potential herb-drug interactions with anticoagulants and [antihypertensive](/glossary/pharmacology/#antihypertensive) medications
 
 ## Dosage forms and preparation
 
@@ -72,7 +72,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tamalaki/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g powder twice daily; 50-100 mL decoction twice daily; 10-20 mL fresh juice once daily
 
-**Bioavailability:** Phyllanthin and hypophyllanthin show moderate oral bioavailability (~25-35%) due to moderate lipophilicity and significant hepatic first-pass metabolism via CYP3A4. Bioavailability improves with [piperine](/nighantu/reference/piperine/) co-administration (up to 1.5-fold increase). Lignans are well absorbed from GI tract but undergo extensive glucuronidation. [Tannins](/nighantu/reference/tannins/) may bind to [proteins](/nighantu/glossary/compounds-o-q/#proteins) reducing availability of co-administered compounds.
+**Bioavailability:** Phyllanthin and hypophyllanthin show moderate oral bioavailability (~25-35%) due to moderate lipophilicity and significant hepatic first-pass metabolism via CYP3A4. Bioavailability improves with [piperine](/reference/piperine/) co-administration (up to 1.5-fold increase). Lignans are well absorbed from GI tract but undergo extensive glucuronidation. [Tannins](/reference/tannins/) may bind to [proteins](/glossary/compounds-o-q/#proteins) reducing availability of co-administered compounds.
 
 **Optimal Timing:** Before meals on empty stomach for hepatoprotective effect; morning administration preferred for diuretic action
 
@@ -82,7 +82,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tamalaki/meta-analysis.md"
 
 **Storage:** Store in airtight containers at 15-25 deg C, protected from light and moisture. Fresh juice must be refrigerated at 2-8 deg C and used within 48 hours.
 
-**Marker Compounds:** Phyllanthin, Hypophyllanthin, Niranthin, Phyltetralin, Gallic acid, Ellagic acid, Corilagin, [Quercetin](/nighantu/reference/quercetinquercetin/)
+**Marker Compounds:** Phyllanthin, Hypophyllanthin, Niranthin, Phyltetralin, Gallic acid, Ellagic acid, Corilagin, [Quercetin](/reference/quercetinquercetin/)
 
 ### Extraction Methods
 
@@ -95,6 +95,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tamalaki/meta-analysis.md"
 ### Synergistic Combinations
 
 - Bhumi Amalaki (Phyllanthus niruri) - hepatoprotective synergy
-- [Katuki](/nighantu/herb/katuki/) (Picrorhiza kurroa) - enhanced hepatoprotection
-- [Guduchi](/nighantu/herb/guduchi/) (Tinospora cordifolia) - [immunomodulatory](/nighantu/reference/immunomodulatory/) potentiation
-- [Bhumyamalaki](/nighantu/herb/bhumyamalaki/) + [Kalmegh](/nighantu/herb/kalmegh/) (Andrographis) - complementary liver support
+- [Katuki](/herb/katuki/) (Picrorhiza kurroa) - enhanced hepatoprotection
+- [Guduchi](/herb/guduchi/) (Tinospora cordifolia) - [immunomodulatory](/reference/immunomodulatory/) potentiation
+- [Bhumyamalaki](/herb/bhumyamalaki/) + [Kalmegh](/herb/kalmegh/) (Andrographis) - complementary liver support

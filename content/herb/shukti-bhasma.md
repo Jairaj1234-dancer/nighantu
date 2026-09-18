@@ -23,13 +23,13 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Shukti-Bhasma/meta-a
 
 | Language | Name |
 |----------|------|
-| English | [Shukti Bhasma](/nighantu/herb/shukti-bhasma/) |
+| English | [Shukti Bhasma](/herb/shukti-bhasma/) |
 
 ## Key Phytochemical Constituents
 
 - Calcium carbonate (CaCO3) as predominant constituent
 - Calcium phosphate
-- [Magnesium](/nighantu/glossary/compounds-l-o/#magnesium) oxide (MgO)
+- [Magnesium](/glossary/compounds-l-o/#magnesium) oxide (MgO)
 - Aluminium oxide (Al2O3)
 - Organic matter (conchiolin protein matrix residues)
 

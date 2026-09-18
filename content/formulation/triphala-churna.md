@@ -23,33 +23,33 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Triphala-Churna/m
 
 | Language | Name |
 |----------|------|
-| English | [Triphala](/nighantu/herb/triphala/) Churna |
+| English | [Triphala](/herb/triphala/) Churna |
 
 ## Where is it described in the classical texts?
 
-Charaka Samhita (Sutra Sthana, Chapters 4 and 25; Chikitsa Sthana, Chapter 1 - [Rasayana](/nighantu/reference/rasayana/)); Sushruta Samhita; Ashtanga Hridayam; described as the foremost Rasayana (rejuvenative) combination in Ayurveda with over 1000 years of documented use
+Charaka Samhita (Sutra Sthana, Chapters 4 and 25; Chikitsa Sthana, Chapter 1 - [Rasayana](/reference/rasayana/)); Sushruta Samhita; Ashtanga Hridayam; described as the foremost Rasayana (rejuvenative) combination in Ayurveda with over 1000 years of documented use
 
 ## How does it work?
 
-- Gut microbiome modulation: [Triphala](/nighantu/herb/triphala/) [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) (gallic acid, ellagic acid, chebulagic acid) act as prebiotics promoting Bifidobacterium and Lactobacillus while inhibiting pathogens, restoring intestinal eubiosis
-- Digestive tract epithelial restoration: [Tannins](/nighantu/reference/tannins/) and polyphenols restore the epithelial lining of the digestive tract, improving barrier function and nutrient absorption
-- [Antioxidant](/nighantu/reference/antioxidant/) defense: Rich in vitamin C (from Amalaki), gallic acid, and ellagic acid that scavenge free radicals, reduce lipid peroxidation, and enhance endogenous antioxidant enzyme (SOD, catalase, GPx) activity
-- Mild prokinetic [laxative](/nighantu/reference/laxative/): Sennosides and [anthraquinones](/nighantu/glossary/compounds-1-a/#anthraquinones) gently stimulate colonic motility and facilitate passage of stool without dependency formation
+- Gut microbiome modulation: [Triphala](/herb/triphala/) [polyphenols](/glossary/compounds-o-q/#polyphenols) (gallic acid, ellagic acid, chebulagic acid) act as prebiotics promoting Bifidobacterium and Lactobacillus while inhibiting pathogens, restoring intestinal eubiosis
+- Digestive tract epithelial restoration: [Tannins](/reference/tannins/) and polyphenols restore the epithelial lining of the digestive tract, improving barrier function and nutrient absorption
+- [Antioxidant](/reference/antioxidant/) defense: Rich in vitamin C (from Amalaki), gallic acid, and ellagic acid that scavenge free radicals, reduce lipid peroxidation, and enhance endogenous antioxidant enzyme (SOD, catalase, GPx) activity
+- Mild prokinetic [laxative](/reference/laxative/): Sennosides and [anthraquinones](/glossary/compounds-1-a/#anthraquinones) gently stimulate colonic motility and facilitate passage of stool without dependency formation
 - Anti-inflammatory cascade: Polyphenols inhibit NF-kB pathway, reduce COX-2 expression, and suppress pro-inflammatory cytokines (TNF-alpha, IL-6) systemically
 
 ## Which traditional uses are supported by research?
 
 - Digestive regulation and detoxification (Anulomana, Ama Pachana) validated through demonstrated prebiotic, prokinetic, and epithelial-restorative mechanisms
-- Rasayana (rejuvenative) action validated through antioxidant, [immunomodulatory](/nighantu/reference/immunomodulatory/), and anti-aging mechanisms confirmed across multiple clinical and preclinical studies
-- Eye health ([Chakshushya](/nighantu/herb/chakshushya/)) supported by antioxidant and anti-inflammatory effects; clinical studies on anti-cataract potential ongoing
+- Rasayana (rejuvenative) action validated through antioxidant, [immunomodulatory](/reference/immunomodulatory/), and anti-aging mechanisms confirmed across multiple clinical and preclinical studies
+- Eye health ([Chakshushya](/herb/chakshushya/)) supported by antioxidant and anti-inflammatory effects; clinical studies on anti-cataract potential ongoing
 - Oral health (Kavala/Gandusha) validated through demonstrated antibacterial activity against dental caries pathogens and reduction of gingivitis in clinical trials
 
 ## What do recent clinical trials show?
 
 - Tarasiuk A, Mosińska P, Fichna J 2018. [Triphala: current applications and new perspectives on the treatment of functional gastrointestinal disorders](https://pubmed.ncbi.nlm.nih.gov/30034512/). *Chinese medicine*. PMID [30034512](https://pubmed.ncbi.nlm.nih.gov/30034512/) · [doi:10.1186/s13020-018-0197-6](https://doi.org/10.1186/s13020-018-0197-6)  
-  Research confirmed Triphala restores epithelial lining of the digestive tract, exhibits mild laxative properties facilitating colonic transit, and demonstrates free radical scavenging, antioxidant, anti-inflammatory, immunomodulating, antibacterial, and [anticancer](/nighantu/reference/anticancer/) effects.
+  Research confirmed Triphala restores epithelial lining of the digestive tract, exhibits mild laxative properties facilitating colonic transit, and demonstrates free radical scavenging, antioxidant, anti-inflammatory, immunomodulating, antibacterial, and [anticancer](/reference/anticancer/) effects.
 - Peterson CT, Denniston K, Chopra D 2017. [Therapeutic Uses of Triphala in Ayurvedic Medicine](https://pubmed.ncbi.nlm.nih.gov/28696777/). *Journal of alternative and complementary medicine (New York, N.Y.)*. PMID [28696777](https://pubmed.ncbi.nlm.nih.gov/28696777/) · [doi:10.1089/acm.2017.0083](https://doi.org/10.1089/acm.2017.0083)  
-  Validated therapeutic effects including appetite stimulation, gastric hyperacidity reduction, dental caries prevention, [antipyretic](/nighantu/reference/antipyretic/), [analgesic](/nighantu/reference/analgesic/), antibacterial, antimutagenic, wound healing, [hepatoprotective](/nighantu/reference/hepatoprotective/), chemoprotective, and radioprotective activities.
+  Validated therapeutic effects including appetite stimulation, gastric hyperacidity reduction, dental caries prevention, [antipyretic](/reference/antipyretic/), [analgesic](/reference/analgesic/), antibacterial, antimutagenic, wound healing, [hepatoprotective](/reference/hepatoprotective/), chemoprotective, and radioprotective activities.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 

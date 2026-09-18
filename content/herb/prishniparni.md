@@ -28,20 +28,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Prishniparni/meta-analysis.md
 
 ## Key Phytochemical Constituents
 
-- [Flavonoids](/nighantu/reference/flavonoids/) ([isoflavones](/nighantu/glossary/compounds-g-l/#isoflavones), flavone [glycosides](/nighantu/glossary/compounds-g-l/#glycosides))
-- [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids)
-- [Steroids](/nighantu/glossary/compounds-q-t/#steroids) and [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids)
+- [Flavonoids](/reference/flavonoids/) ([isoflavones](/glossary/compounds-g-l/#isoflavones), flavone [glycosides](/glossary/compounds-g-l/#glycosides))
+- [Alkaloids](/glossary/compounds-1-a/#alkaloids)
+- [Steroids](/glossary/compounds-q-t/#steroids) and [terpenoids](/glossary/compounds-t-z/#terpenoids)
 - Phenolic compounds
-- [Saponins](/nighantu/reference/saponins/)
-- [Tannins](/nighantu/reference/tannins/)
+- [Saponins](/reference/saponins/)
+- [Tannins](/reference/tannins/)
 - Glycosides
 - Uraricoside
 
 ## How does it work?
 
-- [Cardioprotective](/nighantu/reference/cardioprotective/) action through modulation of oxidative stress markers and improvement of cardiac enzyme profiles
-- Anti-inflammatory activity mediated by inhibition of pro-inflammatory cytokines and mediators, supporting its role in [Dashamoola](/nighantu/herb/dashamoola/) formulation
-- [Hepatoprotective](/nighantu/reference/hepatoprotective/) mechanism involving enhancement of liver [antioxidant](/nighantu/reference/antioxidant/) enzyme systems (SOD, CAT, GPx) and reduction of lipid peroxidation
+- [Cardioprotective](/reference/cardioprotective/) action through modulation of oxidative stress markers and improvement of cardiac enzyme profiles
+- Anti-inflammatory activity mediated by inhibition of pro-inflammatory cytokines and mediators, supporting its role in [Dashamoola](/herb/dashamoola/) formulation
+- [Hepatoprotective](/reference/hepatoprotective/) mechanism involving enhancement of liver [antioxidant](/reference/antioxidant/) enzyme systems (SOD, CAT, GPx) and reduction of lipid peroxidation
 
 ## Which traditional uses are supported by research?
 
@@ -57,7 +57,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Prishniparni/meta-analysis.md
 
 ## Recent safety updates
 
-- Generally considered safe when used as part of traditional [Dashamoola](/nighantu/herb/dashamoola/) formulations at recommended Ayurvedic doses; no significant toxicity reported in available literature
+- Generally considered safe when used as part of traditional [Dashamoola](/herb/dashamoola/) formulations at recommended Ayurvedic doses; no significant toxicity reported in available literature
 - Limited modern toxicological studies available; long-term safety data in humans needs further investigation through controlled clinical trials
 
 ## What is it made of?
@@ -77,11 +77,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Prishniparni/meta-analysis.md
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Kwatha (decoction), Capsule, Tablet, [Ghrita](/nighantu/herb/ghrita/), Taila
+**Dosage Forms:** Churna (powder), Kwatha (decoction), Capsule, Tablet, [Ghrita](/herb/ghrita/), Taila
 
 **Standard Dosage:** 3-6 g whole herb powder daily; 20-30 mL decoction twice daily; 500-750 mg standardized extract twice daily
 
-**Bioavailability:** Uraria picta (Prishniparni) contains flavonoids and terpenoids with moderate oral bioavailability (20-35%). [Isoflavonoids](/nighantu/glossary/compounds-g-l/#isoflavonoids) show absorption kinetics similar to soy isoflavones (20-40% bioavailability). Saponins undergo partial hydrolysis by gut bacteria. Part of Dashmool combination where synergistic absorption with other herbs may be enhanced.
+**Bioavailability:** Uraria picta (Prishniparni) contains flavonoids and terpenoids with moderate oral bioavailability (20-35%). [Isoflavonoids](/glossary/compounds-g-l/#isoflavonoids) show absorption kinetics similar to soy isoflavones (20-40% bioavailability). Saponins undergo partial hydrolysis by gut bacteria. Part of Dashmool combination where synergistic absorption with other herbs may be enhanced.
 
 **Optimal Timing:** As part of Dashmool Kwatha: morning and evening between meals. Single herb: after meals with warm water for Vata disorders.
 
@@ -91,7 +91,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Prishniparni/meta-analysis.md
 
 **Storage:** Dried material: airtight containers, below 25 deg C, RH <55%, protected from pest infestation. Extracts: amber containers, cool and dry.
 
-**Marker Compounds:** Uraripictin, [Genistein](/nighantu/glossary/compounds-d-g/#genistein), [Daidzein](/nighantu/glossary/compounds-c-d/#daidzein), Medicarpin, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Lupeol](/nighantu/reference/lupeol/), Oleanolic acid, Gallic acid
+**Marker Compounds:** Uraripictin, [Genistein](/glossary/compounds-d-g/#genistein), [Daidzein](/glossary/compounds-c-d/#daidzein), Medicarpin, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Lupeol](/reference/lupeol/), Oleanolic acid, Gallic acid
 
 ### Extraction Methods
 
@@ -105,6 +105,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Prishniparni/meta-analysis.md
 
 - Dashmool combination (key member of Laghu Panchamool group)
 - Shalaparni (paired herb in Dashmool formulation)
-- [Bilva](/nighantu/herb/bilva/) (anti-inflammatory and digestive synergy)
-- [Ashwagandha](/nighantu/herb/ashwagandha/) (strength and recovery)
-- [Guduchi](/nighantu/herb/guduchi/) (fever management combination)
+- [Bilva](/herb/bilva/) (anti-inflammatory and digestive synergy)
+- [Ashwagandha](/herb/ashwagandha/) (strength and recovery)
+- [Guduchi](/herb/guduchi/) (fever management combination)

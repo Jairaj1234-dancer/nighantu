@@ -23,18 +23,18 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Makaradhwaj-Vati/m
 
 | Language | Name |
 |----------|------|
-| English | [Makaradhwaj Vati](/nighantu/herb/makaradhwaj-vati/) |
+| English | [Makaradhwaj Vati](/herb/makaradhwaj-vati/) |
 
 ## How does it work?
 
 - Mercury sulfide (HgS) nanoparticles act as a bioavailable mineral complex that modulates cellular metabolism; the insoluble HgS form has dramatically reduced GI absorption compared to organic or ionic mercury, explaining reduced toxicity
-- Gold nanoparticles in the formulation act as immunostimulants and [Rasayana](/nighantu/reference/rasayana/) agents, enhancing immune cell function and tissue regeneration
+- Gold nanoparticles in the formulation act as immunostimulants and [Rasayana](/reference/rasayana/) agents, enhancing immune cell function and tissue regeneration
 - Acts as a catalytic agent at the cellular level, potentially activating calcium channels (shown to increase sperm count in related Rasasindura studies) and modulating mitochondrial function
 
 ## Which traditional uses are supported by research?
 
-- [Vajikarana](/nighantu/glossary/pharmacology/#vajikarana) ([aphrodisiac](/nighantu/glossary/pharmacology/#aphrodisiac)/vitality): Partially validated by Rasasindura studies showing activation of calcium channels, increased sperm count and motility, and rejuvenating effects in animal models
-- Rasayana (rejuvenation) and general debility: Animal studies confirm absence of toxicity at therapeutic doses and suggest [immunomodulatory](/nighantu/reference/immunomodulatory/) and metabolic-enhancing properties, consistent with traditional claims of life-enhancing effects
+- [Vajikarana](/glossary/pharmacology/#vajikarana) ([aphrodisiac](/glossary/pharmacology/#aphrodisiac)/vitality): Partially validated by Rasasindura studies showing activation of calcium channels, increased sperm count and motility, and rejuvenating effects in animal models
+- Rasayana (rejuvenation) and general debility: Animal studies confirm absence of toxicity at therapeutic doses and suggest [immunomodulatory](/reference/immunomodulatory/) and metabolic-enhancing properties, consistent with traditional claims of life-enhancing effects
 
 ## What do recent clinical trials show?
 
@@ -70,9 +70,9 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Makaradhwaj-Vati/m
 
 **Bioavailability:** Exceptional; gold-mercury-sulfur nanocomposite with superior tissue penetration
 
-**Optimal Timing:** With honey, ghee, or [Chyawanprash](/nighantu/formulation/chyawanprash/); morning and evening
+**Optimal Timing:** With honey, ghee, or [Chyawanprash](/formulation/chyawanprash/); morning and evening
 
-**Standardized Extract:** Makaradhwaj — Parada (mercury) + [Gandhaka](/nighantu/glossary/concepts-a-m/#gandhaka) (sulfur) + Swarna (gold) complex
+**Standardized Extract:** Makaradhwaj — Parada (mercury) + [Gandhaka](/glossary/concepts-a-m/#gandhaka) (sulfur) + Swarna (gold) complex
 
 **Shelf Life:** Indefinite
 
@@ -82,4 +82,4 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Makaradhwaj-Vati/m
 
 **Quality Parameters:** Gold content as specified, free mercury <1 ppm, characteristic red color (Sindura-varna), sublimation test pass
 
-**Vehicle (Anupana):** Honey + ghee (unequal parts), [Chyawanprash](/nighantu/formulation/chyawanprash/), or specific herbal vehicles
+**Vehicle (Anupana):** Honey + ghee (unequal parts), [Chyawanprash](/formulation/chyawanprash/), or specific herbal vehicles

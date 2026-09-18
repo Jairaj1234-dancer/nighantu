@@ -29,21 +29,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali/meta-analysis.md"
 ## Key Phytochemical Constituents
 
 - Sitoindoside IV
-- [Stigmasterol](/nighantu/reference/stigmasterol/)
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- [Stigmasterol](/reference/stigmasterol/)
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 - Cycloeucalenone
 - 24-Methylene-cycloartanol
-- [Leucocyanidin](/nighantu/glossary/compounds-g-l/#leucocyanidin)
-- [Serotonin](/nighantu/glossary/compounds-q-t/#serotonin)
+- [Leucocyanidin](/glossary/compounds-g-l/#leucocyanidin)
+- [Serotonin](/glossary/compounds-q-t/#serotonin)
 - Dopamine
 - Norepinephrine
-- [Pectin](/nighantu/glossary/compounds-o-q/#pectin)
+- [Pectin](/glossary/compounds-o-q/#pectin)
 
 ## How does it work?
 
 - Sitoindoside IV (acylsteryl glycoside from unripe fruit) exhibits anti-ulcerogenic activity by stimulating mucus secretion, strengthening mucosal barrier, and inhibiting gastric acid-pepsin secretion
-- Leucocyanidin and condensed [tannins](/nighantu/reference/tannins/) from unripe banana pulp exert antidiarrhoeal effects by reducing intestinal motility and enhancing electrolyte and water reabsorption in the colon
-- [Phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols) (stigmasterol, beta-sitosterol) reduce plasma cholesterol through competitive inhibition of intestinal cholesterol absorption and modulation of hepatic cholesterol metabolism
+- Leucocyanidin and condensed [tannins](/reference/tannins/) from unripe banana pulp exert antidiarrhoeal effects by reducing intestinal motility and enhancing electrolyte and water reabsorption in the colon
+- [Phytosterols](/glossary/compounds-o-q/#phytosterols) (stigmasterol, beta-sitosterol) reduce plasma cholesterol through competitive inhibition of intestinal cholesterol absorption and modulation of hepatic cholesterol metabolism
 
 ## Which traditional uses are supported by research?
 
@@ -63,7 +63,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali/meta-analysis.md"
 ## Recent safety updates
 
 - Banana is widely consumed as a staple food globally; GRAS status for food consumption with excellent safety profile
-- High [potassium](/nighantu/glossary/compounds-o-q/#potassium) content requires caution in patients with hyperkalemia or chronic kidney disease; may interact with potassium-sparing diuretics and ACE inhibitors
+- High [potassium](/glossary/compounds-o-q/#potassium) content requires caution in patients with hyperkalemia or chronic kidney disease; may interact with potassium-sparing diuretics and ACE inhibitors
 - Latex allergy cross-reactivity exists (banana-latex-avocado syndrome); individuals with latex allergy should be cautioned about potential allergic reactions to banana
 
 ## Dosage forms and preparation
@@ -72,7 +72,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali/meta-analysis.md"
 
 **Standard Dosage:** 20-40ml stem juice twice daily; 3-6g flower/fruit powder; 1-2g Kshara with water
 
-**Bioavailability:** Musa paradisiaca (banana/plantain) contains [flavonoids](/nighantu/reference/flavonoids/) (leucocyanidin), tannins, serotonin, dopamine, and potassium. Leucocyanidin has moderate oral bioavailability. Serotonin from banana is NOT orally bioavailable for CNS effects (does not cross BBB). Potassium and minerals are highly bioavailable. Resistant [starch](/nighantu/glossary/compounds-q-t/#starch) in unripe fruit acts as prebiotic. Stem juice [mucilage](/nighantu/glossary/compounds-l-o/#mucilage) acts locally in urinary tract.
+**Bioavailability:** Musa paradisiaca (banana/plantain) contains [flavonoids](/reference/flavonoids/) (leucocyanidin), tannins, serotonin, dopamine, and potassium. Leucocyanidin has moderate oral bioavailability. Serotonin from banana is NOT orally bioavailable for CNS effects (does not cross BBB). Potassium and minerals are highly bioavailable. Resistant [starch](/glossary/compounds-q-t/#starch) in unripe fruit acts as prebiotic. Stem juice [mucilage](/glossary/compounds-l-o/#mucilage) acts locally in urinary tract.
 
 **Optimal Timing:** Stem juice: morning on empty stomach for renal calculi. Flower powder: with buttermilk for menstrual disorders. Unripe fruit: as part of meals.
 
@@ -94,7 +94,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Gokshura](/nighantu/herb/gokshura/) for kidney stone management (stem juice)
-- With [Varuna](/nighantu/herb/varuna/) for urinary calculi
+- With [Gokshura](/herb/gokshura/) for kidney stone management (stem juice)
+- With [Varuna](/herb/varuna/) for urinary calculi
 - With Amalaki for gastric ulcer support
-- With [Yashtimadhu](/nighantu/herb/yashtimadhu/) for mucosal protection
+- With [Yashtimadhu](/herb/yashtimadhu/) for mucosal protection

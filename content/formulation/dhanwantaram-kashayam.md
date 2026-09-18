@@ -23,36 +23,36 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Dhanwantaram
 
 | Language | Name |
 |----------|------|
-| English | [Dhanwantaram Kashayam](/nighantu/formulation/dhanwantaram-kashayam/) |
+| English | [Dhanwantaram Kashayam](/formulation/dhanwantaram-kashayam/) |
 
 ## Key Ingredients
 
-- [Bala](/nighantu/herb/bala/) moola (Sida cordifolia root)
-- [Dashamoola](/nighantu/herb/dashamoola/) (group of ten anti-inflammatory roots)
-- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (Glycyrrhiza glabra)
-- [Vacha](/nighantu/herb/vacha/) (Acorus calamus)
-- [Triphala](/nighantu/herb/triphala/) ([Haritaki](/nighantu/herb/haritaki/), [Bibhitaki](/nighantu/herb/bibhitaki/), Amalaki)
-- [Ashwagandha](/nighantu/herb/ashwagandha/) (Withania somnifera)
-- [Shatavari](/nighantu/herb/shatavari/) (Asparagus racemosus)
-- [Devadaru](/nighantu/herb/devadaru/) (Cedrus deodara)
+- [Bala](/herb/bala/) moola (Sida cordifolia root)
+- [Dashamoola](/herb/dashamoola/) (group of ten anti-inflammatory roots)
+- [Yashtimadhu](/herb/yashtimadhu/) (Glycyrrhiza glabra)
+- [Vacha](/herb/vacha/) (Acorus calamus)
+- [Triphala](/herb/triphala/) ([Haritaki](/herb/haritaki/), [Bibhitaki](/herb/bibhitaki/), Amalaki)
+- [Ashwagandha](/herb/ashwagandha/) (Withania somnifera)
+- [Shatavari](/herb/shatavari/) (Asparagus racemosus)
+- [Devadaru](/herb/devadaru/) (Cedrus deodara)
 - Cow's milk (as a processing medium)
 
 ## Where is it described in the classical texts?
 
-Ashtanga Hridayam (Sutrasthana), named after Lord Dhanwantari. Also referenced in Yogaratnakara. Described as a premier postpartum tonic and [Vata-balancing](/nighantu/glossary/concepts-m-y/#vata-balancing) formulation with 42 herbs.
+Ashtanga Hridayam (Sutrasthana), named after Lord Dhanwantari. Also referenced in Yogaratnakara. Described as a premier postpartum tonic and [Vata-balancing](/glossary/concepts-m-y/#vata-balancing) formulation with 42 herbs.
 
 ## How does it work?
 
-- COX-2 and 5-LOX inhibition by [Dashamoola](/nighantu/herb/dashamoola/) provides potent anti-inflammatory action
-- Nervine tonic activity of [Bala](/nighantu/herb/bala/) (Sida cordifolia) strengthens neural tissue and balances Vata dosha
+- COX-2 and 5-LOX inhibition by [Dashamoola](/herb/dashamoola/) provides potent anti-inflammatory action
+- Nervine tonic activity of [Bala](/herb/bala/) (Sida cordifolia) strengthens neural tissue and balances Vata dosha
 - Uterine tonic action strengthens uterine muscles and supports postpartum recovery
-- [Neuroprotective](/nighantu/reference/neuroprotective/) effects through BDNF upregulation and reduction of neuroinflammatory markers
+- [Neuroprotective](/reference/neuroprotective/) effects through BDNF upregulation and reduction of neuroinflammatory markers
 
 ## Which traditional uses are supported by research?
 
 - Postpartum care and uterine tonic - validated by observational studies showing improved uterine involution
 - Vata disorders including joint pain and neuralgia - supported by COX-2/5-LOX inhibition studies
-- General weakness and debility after delivery - supported by nervine tonic action of [Bala](/nighantu/herb/bala/) and [Ashwagandha](/nighantu/herb/ashwagandha/)
+- General weakness and debility after delivery - supported by nervine tonic action of [Bala](/herb/bala/) and [Ashwagandha](/herb/ashwagandha/)
 - Gynecological disorders - traditional use corroborated by anti-inflammatory and hormonal support mechanisms
 
 ## What do recent clinical trials show?
@@ -81,7 +81,7 @@ Ashtanga Hridayam (Sutrasthana), named after Lord Dhanwantari. Also referenced i
 
 **Standard Dosage:** 15-30 mL or 2 tablets twice daily before meals, as per Sahasrayogam/AFI
 
-**Bioavailability:** Hot decoction form provides rapid GI absorption. Multi-herb synergy enhances overall bioactivity. [Trikatu](/nighantu/herb/trikatu/) components (if included) serve as bioenhancers.
+**Bioavailability:** Hot decoction form provides rapid GI absorption. Multi-herb synergy enhances overall bioactivity. [Trikatu](/herb/trikatu/) components (if included) serve as bioenhancers.
 
 **Optimal Timing:** Before meals, morning and evening, especially for Vata-predominant conditions
 
@@ -89,15 +89,15 @@ Ashtanga Hridayam (Sutrasthana), named after Lord Dhanwantari. Also referenced i
 
 **Storage:** Fresh: same day. Concentrates: amber glass at room temperature. Tablets: airtight containers at room temperature.
 
-**Marker Compounds:** [Ephedrine](/nighantu/glossary/compounds-d-g/#ephedrine) (from [Bala](/nighantu/herb/bala/)), Withanolide A, [Lupeol](/nighantu/reference/lupeol/), [Marmelosin](/nighantu/glossary/compounds-l-o/#marmelosin), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+**Marker Compounds:** [Ephedrine](/glossary/compounds-d-g/#ephedrine) (from [Bala](/herb/bala/)), Withanolide A, [Lupeol](/reference/lupeol/), [Marmelosin](/glossary/compounds-l-o/#marmelosin), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 
-**Quality Parameters:** pH, specific gravity, total solids, extractive values, HPTLC fingerprint for [Bala](/nighantu/herb/bala/) and [Dashamoola](/nighantu/herb/dashamoola/) markers, ephedrine equivalents, microbial limits, heavy metals
+**Quality Parameters:** pH, specific gravity, total solids, extractive values, HPTLC fingerprint for [Bala](/herb/bala/) and [Dashamoola](/herb/dashamoola/) markers, ephedrine equivalents, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Warm water (tablets); as is (liquid kashayam)
 
 ### Synergistic Combinations
 
-- [Dhanwantaram Thailam](/nighantu/formulation/dhanwantaram-thailam/)
-- [Dhanwantaram Gutika](/nighantu/formulation/dhanwantaram-gutika/)
-- [Balarishta](/nighantu/formulation/balarishta/)
-- [Dashamularishta](/nighantu/formulation/dashamularishta/)
+- [Dhanwantaram Thailam](/formulation/dhanwantaram-thailam/)
+- [Dhanwantaram Gutika](/formulation/dhanwantaram-gutika/)
+- [Balarishta](/formulation/balarishta/)
+- [Dashamularishta](/formulation/dashamularishta/)

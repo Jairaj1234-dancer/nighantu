@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Khadiradi-Vati/meta
 
 | Language | Name |
 |----------|------|
-| English | [Khadiradi Vati](/nighantu/formulation/khadiradi-vati/) |
+| English | [Khadiradi Vati](/formulation/khadiradi-vati/) |
 
 ## Where is it described in the classical texts?
 
@@ -31,18 +31,18 @@ Sharangdhara Samhita (Madhyama Khanda); described in various Samhitas and classi
 
 ## How does it work?
 
-- Oral antiseptic action: [Khadira](/nighantu/herb/khadira/) bark rich in [catechins](/nighantu/glossary/compounds-c-d/#catechins) ([flavonoids](/nighantu/reference/flavonoids/), [catechin](/nighantu/reference/catechin/), catechuic acid, pyrocatechin, [quercetin](/nighantu/reference/quercetinquercetin/)) provides astringent and [antimicrobial](/nighantu/reference/antimicrobial/) action against oral pathogens including Streptococcus mutans
-- Anti-inflammatory mucosal healing: [Yashtimadhu](/nighantu/herb/yashtimadhu/) ([glycyrrhizin](/nighantu/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin)) soothes inflamed oral and pharyngeal mucosa with cooling Virya (Madhura Rasa), while [Kankola](/nighantu/herb/kankola/) and [Lavanga](/nighantu/herb/lavanga/) reduce local inflammation
-- Bioavailability enhancement: [Pippali](/nighantu/herb/pippali/) ([piperine](/nighantu/reference/piperine/)) boosts bioavailability of active compounds and warms channels through Ushna Virya, clearing stagnation in respiratory and oral Srotas
-- Astringent tissue tonification: [Khadira](/nighantu/herb/khadira/)'s Kashaya Rasa (astringent taste) tightens gum tissue, reduces bleeding, and strengthens oral mucosal integrity
-- Antimicrobial and deodorant: [Camphor](/nighantu/herb/camphor/) (Kapoor) and [Lavanga](/nighantu/herb/lavanga/) ([eugenol](/nighantu/glossary/compounds-d-g/#eugenol)) provide broad-spectrum antimicrobial action and natural deodorant effect for halitosis management
+- Oral antiseptic action: [Khadira](/herb/khadira/) bark rich in [catechins](/glossary/compounds-c-d/#catechins) ([flavonoids](/reference/flavonoids/), [catechin](/reference/catechin/), catechuic acid, pyrocatechin, [quercetin](/reference/quercetinquercetin/)) provides astringent and [antimicrobial](/reference/antimicrobial/) action against oral pathogens including Streptococcus mutans
+- Anti-inflammatory mucosal healing: [Yashtimadhu](/herb/yashtimadhu/) ([glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin)) soothes inflamed oral and pharyngeal mucosa with cooling Virya (Madhura Rasa), while [Kankola](/herb/kankola/) and [Lavanga](/herb/lavanga/) reduce local inflammation
+- Bioavailability enhancement: [Pippali](/herb/pippali/) ([piperine](/reference/piperine/)) boosts bioavailability of active compounds and warms channels through Ushna Virya, clearing stagnation in respiratory and oral Srotas
+- Astringent tissue tonification: [Khadira](/herb/khadira/)'s Kashaya Rasa (astringent taste) tightens gum tissue, reduces bleeding, and strengthens oral mucosal integrity
+- Antimicrobial and deodorant: [Camphor](/herb/camphor/) (Kapoor) and [Lavanga](/herb/lavanga/) ([eugenol](/glossary/compounds-d-g/#eugenol)) provide broad-spectrum antimicrobial action and natural deodorant effect for halitosis management
 
 ## Which traditional uses are supported by research?
 
 - Oral health management (tonsillitis, gingivitis, stomatitis, mouth ulcers) validated through antimicrobial activity against Streptococcus and E. coli in in-vitro studies
 - Cough and sore throat relief validated in clinical trial showing 65% improvement in cough scores within two weeks
-- Halitosis (foul breath) management validated through combined antimicrobial and deodorant action of [camphor](/nighantu/herb/camphor/), clove, and cardamom
-- Voice clarity and hoarseness reduction validated through anti-inflammatory and mucosal-soothing actions of [Yashtimadhu](/nighantu/herb/yashtimadhu/) and [Khadira](/nighantu/herb/khadira/)
+- Halitosis (foul breath) management validated through combined antimicrobial and deodorant action of [camphor](/herb/camphor/), clove, and cardamom
+- Voice clarity and hoarseness reduction validated through anti-inflammatory and mucosal-soothing actions of [Yashtimadhu](/herb/yashtimadhu/) and [Khadira](/herb/khadira/)
 
 ## What do recent clinical trials show?
 
@@ -52,8 +52,8 @@ Sharangdhara Samhita (Madhyama Khanda); described in various Samhitas and classi
 
 ## Recent safety updates
 
-- Generally safe for oral use as a lozenge/dissolvable tablet; contains [Gairika](/nighantu/glossary/concepts-a-m/#gairika) (red ochre mineral) which is safe in traditional doses; avoid swallowing large quantities; not recommended for children under 5 years
-- [Camphor](/nighantu/herb/camphor/) component contraindicated in very young children (risk of seizures); avoid in known allergy to any ingredient; long-term continuous use may cause oral dryness due to astringent action; pregnancy and lactation - use under guidance
+- Generally safe for oral use as a lozenge/dissolvable tablet; contains [Gairika](/glossary/concepts-a-m/#gairika) (red ochre mineral) which is safe in traditional doses; avoid swallowing large quantities; not recommended for children under 5 years
+- [Camphor](/herb/camphor/) component contraindicated in very young children (risk of seizures); avoid in known allergy to any ingredient; long-term continuous use may cause oral dryness due to astringent action; pregnancy and lactation - use under guidance
 
 ## What is it made of?
 
@@ -70,7 +70,7 @@ Sharangdhara Samhita (Madhyama Khanda); described in various Samhitas and classi
 
 **Standard Dosage:** 1-2 tablets to be sucked slowly, 3-4 times daily, as per AFI Part I
 
-**Bioavailability:** Buccal dissolution provides direct delivery of catechin and [tannins](/nighantu/reference/tannins/) to oral mucosa. Catechin has astringent and antimicrobial action on oral tissues. [Camphor](/nighantu/herb/camphor/) and Ela volatiles provide immediate sensory effect. No first-pass metabolism for buccally absorbed compounds.
+**Bioavailability:** Buccal dissolution provides direct delivery of catechin and [tannins](/reference/tannins/) to oral mucosa. Catechin has astringent and antimicrobial action on oral tissues. [Camphor](/herb/camphor/) and Ela volatiles provide immediate sensory effect. No first-pass metabolism for buccally absorbed compounds.
 
 **Optimal Timing:** As needed for Mukha roga (oral diseases), throat irritation, or after meals for oral hygiene
 
@@ -78,15 +78,15 @@ Sharangdhara Samhita (Madhyama Khanda); described in various Samhitas and classi
 
 **Storage:** Store in airtight containers in a cool, dry place. Protect from moisture and heat. Temperature not exceeding 25°C. Individual wrapping recommended.
 
-**Marker Compounds:** Catechin, [Epicatechin](/nighantu/glossary/compounds-d-g/#epicatechin), [Camphor](/nighantu/herb/camphor/), Eugenol (from [Lavanga](/nighantu/herb/lavanga/)), 1,8-[Cineole](/nighantu/glossary/compounds-c-d/#cineole) (from Ela)
+**Marker Compounds:** Catechin, [Epicatechin](/glossary/compounds-d-g/#epicatechin), [Camphor](/herb/camphor/), Eugenol (from [Lavanga](/herb/lavanga/)), 1,8-[Cineole](/glossary/compounds-c-d/#cineole) (from Ela)
 
-**Quality Parameters:** Weight variation (±5%), hardness (moderate for buccal use), dissolution time (5-15 min buccal), moisture (<6%), catechin content from [Khadira](/nighantu/herb/khadira/) by HPLC, camphor content, volatile oil content, HPTLC fingerprint, microbial limits (oral product), heavy metals
+**Quality Parameters:** Weight variation (±5%), hardness (moderate for buccal use), dissolution time (5-15 min buccal), moisture (<6%), catechin content from [Khadira](/herb/khadira/) by HPLC, camphor content, volatile oil content, HPTLC fingerprint, microbial limits (oral product), heavy metals
 
 **Vehicle (Anupana):** Not applicable — sucked directly in mouth. Do not chew or swallow whole.
 
 ### Synergistic Combinations
 
-- [Eladi Vati](/nighantu/formulation/eladi-vati/)
-- [Irimedadi Taila](/nighantu/formulation/irimedadi-taila/)
-- [Triphala](/nighantu/herb/triphala/) Kwath (gargling)
+- [Eladi Vati](/formulation/eladi-vati/)
+- [Irimedadi Taila](/formulation/irimedadi-taila/)
+- [Triphala](/herb/triphala/) Kwath (gargling)
 - Dashana Samskara Churna

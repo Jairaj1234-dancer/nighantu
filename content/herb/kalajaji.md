@@ -28,33 +28,33 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kalajaji/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Thymoquinone](/nighantu/glossary/compounds-t-z/#thymoquinone)
-- [Thymohydroquinone](/nighantu/glossary/compounds-t-z/#thymohydroquinone)
-- Dithymoquinone ([nigellone](/nighantu/glossary/compounds-l-o/#nigellone))
+- [Thymoquinone](/glossary/compounds-t-z/#thymoquinone)
+- [Thymohydroquinone](/glossary/compounds-t-z/#thymohydroquinone)
+- Dithymoquinone ([nigellone](/glossary/compounds-l-o/#nigellone))
 - P-cymene
-- [Carvacrol](/nighantu/glossary/compounds-a-c/#carvacrol)
+- [Carvacrol](/glossary/compounds-a-c/#carvacrol)
 - Alpha-pinene
 - Alpha-hederin
-- [Thymol](/nighantu/glossary/compounds-t-z/#thymol)
+- [Thymol](/glossary/compounds-t-z/#thymol)
 - 4-Terpineol
-- [Kaempferol](/nighantu/reference/kaempferol/)
+- [Kaempferol](/reference/kaempferol/)
 
 ## How does it work?
 
-- Thymoquinone inhibits NF-kB nuclear translocation, suppresses COX-2 and iNOS expression, and modulates MAPK signaling pathways, providing broad-spectrum anti-inflammatory and [anticancer](/nighantu/reference/anticancer/) effects
+- Thymoquinone inhibits NF-kB nuclear translocation, suppresses COX-2 and iNOS expression, and modulates MAPK signaling pathways, providing broad-spectrum anti-inflammatory and [anticancer](/reference/anticancer/) effects
 - Alpha-hederin (triterpene saponin) disrupts cancer cell membranes through cholesterol binding and induces apoptosis via mitochondrial pathway activation (cytochrome c release, caspase-3/9 activation)
 - Thymoquinone protects pancreatic beta cells from oxidative damage and enhances insulin secretion through modulation of intracellular calcium homeostasis and AMPK pathway activation
 
 ## Which traditional uses are supported by research?
 
-- [Antidiabetic](/nighantu/reference/antidiabetic/) activity validated through multiple clinical trials demonstrating improved glycemic control in type 2 diabetes patients, confirming traditional use for blood sugar management
-- Anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) effects confirmed in clinical and preclinical studies supporting traditional use for rheumatic conditions and pain relief
-- [Immunomodulatory](/nighantu/reference/immunomodulatory/) effects validated through clinical evidence showing enhanced immune response, supporting the traditional Islamic medicine description as 'cure for everything except death'
+- [Antidiabetic](/reference/antidiabetic/) activity validated through multiple clinical trials demonstrating improved glycemic control in type 2 diabetes patients, confirming traditional use for blood sugar management
+- Anti-inflammatory and [analgesic](/reference/analgesic/) effects confirmed in clinical and preclinical studies supporting traditional use for rheumatic conditions and pain relief
+- [Immunomodulatory](/reference/immunomodulatory/) effects validated through clinical evidence showing enhanced immune response, supporting the traditional Islamic medicine description as 'cure for everything except death'
 
 ## What do recent clinical trials show?
 
 - Alberts A, Moldoveanu ET, Niculescu AG and others 2024. [Nigella sativa: A Comprehensive Review of Its Therapeutic Potential, Pharmacological Properties, and Clinical Applications](https://pubmed.ncbi.nlm.nih.gov/39769174/). *International journal of molecular sciences*. PMID [39769174](https://pubmed.ncbi.nlm.nih.gov/39769174/) · [doi:10.3390/ijms252413410](https://doi.org/10.3390/ijms252413410)  
-  Systematic evaluation confirming [antioxidant](/nighantu/reference/antioxidant/), anti-inflammatory, antibacterial, antifungal, antiviral, anticancer, antidiabetic, [neuroprotective](/nighantu/reference/neuroprotective/), and gastroprotective effects with 51 clinical trials identified on ClinicalTrials.gov.
+  Systematic evaluation confirming [antioxidant](/reference/antioxidant/), anti-inflammatory, antibacterial, antifungal, antiviral, anticancer, antidiabetic, [neuroprotective](/reference/neuroprotective/), and gastroprotective effects with 51 clinical trials identified on ClinicalTrials.gov.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kalajaji/meta-analysis.md"
 
 - Generally well tolerated; LD50 ranges from 28.8 mL/kg to 3,371 mg/kg in mice; subacute toxicity evaluations showed no toxicity at doses up to 6 g/kg of aqueous/methanol/chloroform extracts
 - Mild adverse effects reported in clinical trials include bloating, nausea, and burning sensation in dyspeptic patients; allergic contact dermatitis documented in case reports
-- Slight increase in kidney and liver [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) observed with prolonged use of oil and crushed seeds; chronic toxicity studies found 2 mL/kg fixed oil slightly toxic over extended periods
+- Slight increase in kidney and liver [enzymes](/glossary/compounds-d-g/#enzymes) observed with prolonged use of oil and crushed seeds; chronic toxicity studies found 2 mL/kg fixed oil slightly toxic over extended periods
 
 ## What is it made of?
 
@@ -87,7 +87,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kalajaji/meta-analysis.md"
 
 **Standard Dosage:** 1-3g seed powder twice daily; 2.5-5ml seed oil daily; 500mg extract twice daily; 200-500mg thymoquinone-standardized extract
 
-**Bioavailability:** Nigella sativa (Black [Cumin](/nighantu/herb/cumin/)|black cumin) contains thymoquinone (TQ) as primary active compound. TQ has moderate oral bioavailability (~58% in animal models) but is rapidly metabolized. TQ is lipophilic (logP 2.4); absorption is enhanced 3-5x when taken with fatty meals or in oil form. Nanostructured lipid carriers (NLC), SNEDDS, and cyclodextrin inclusion complexes significantly improve TQ bioavailability. Fixed oil form provides natural lipid carrier for TQ.
+**Bioavailability:** Nigella sativa (Black [Cumin](/herb/cumin/)|black cumin) contains thymoquinone (TQ) as primary active compound. TQ has moderate oral bioavailability (~58% in animal models) but is rapidly metabolized. TQ is lipophilic (logP 2.4); absorption is enhanced 3-5x when taken with fatty meals or in oil form. Nanostructured lipid carriers (NLC), SNEDDS, and cyclodextrin inclusion complexes significantly improve TQ bioavailability. Fixed oil form provides natural lipid carrier for TQ.
 
 **Optimal Timing:** With meals (especially fatty meals) for optimal absorption; morning and evening doses. Traditional: mixed with honey on empty stomach.
 
@@ -97,7 +97,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kalajaji/meta-analysis.md"
 
 **Storage:** Oil: amber glass bottles, nitrogen-flushed, below 25°C, protected from light. Seeds: cool, dry place. Soft gels: below 25°C, moisture-proof packaging.
 
-**Marker Compounds:** Thymoquinone, Thymohydroquinone, Thymol, Carvacrol, p-Cymene, Nigellone (dithymoquinone), Alpha-hederin, [Nigellidine](/nighantu/glossary/compounds-l-o/#nigellidine)
+**Marker Compounds:** Thymoquinone, Thymohydroquinone, Thymol, Carvacrol, p-Cymene, Nigellone (dithymoquinone), Alpha-hederin, [Nigellidine](/glossary/compounds-l-o/#nigellidine)
 
 ### Extraction Methods
 
@@ -110,7 +110,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kalajaji/meta-analysis.md"
 ### Synergistic Combinations
 
 - With Honey (traditional Prophetic medicine combination)
-- With [Haridra](/nighantu/herb/haridra/) for anti-inflammatory synergy
-- With [Methi](/nighantu/herb/methi/) for blood sugar management
+- With [Haridra](/herb/haridra/) for anti-inflammatory synergy
+- With [Methi](/herb/methi/) for blood sugar management
 - With Amalaki for immune support and antioxidant action
 - With Habbatus Sauda oil and honey for respiratory support

@@ -32,10 +32,10 @@ Charaka Samhita (Chikitsa Sthana) - Kutaja referenced for Pravahika (dysentery w
 ## How does it work?
 
 - Calcium channel blockade: Kutaja (Holarrhena antidysenterica) extract blocks calcium channels in intestinal smooth muscle, reducing cramping and motility.
-- [Potassium](/nighantu/glossary/compounds-o-q/#potassium) channel and nitric oxide pathway modulation: Antidiarrheal effect mediated through potassium channels and NO pathway (not alpha-2 adrenergic receptors).
+- [Potassium](/glossary/compounds-o-q/#potassium) channel and nitric oxide pathway modulation: Antidiarrheal effect mediated through potassium channels and NO pathway (not alpha-2 adrenergic receptors).
 - Bacterial adenylate cyclase inhibition: Conessine (major steroidal alkaloid) inhibits bacterial adenylate cyclase, directly reducing toxin-mediated secretory diarrhea.
 - Antisecretory action: Reduces excessive intestinal fluid secretion by modulating electrolyte transport across intestinal epithelium.
-- [Antimicrobial](/nighantu/reference/antimicrobial/) activity: [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) (conessine, kurchine) exhibit potent activity against enteric pathogens including E. histolytica, Shigella, and E. coli.
+- [Antimicrobial](/reference/antimicrobial/) activity: [Alkaloids](/glossary/compounds-1-a/#alkaloids) (conessine, kurchine) exhibit potent activity against enteric pathogens including E. histolytica, Shigella, and E. coli.
 
 ## Which traditional uses are supported by research?
 
@@ -87,4 +87,4 @@ Charaka Samhita (Chikitsa Sthana) - Kutaja referenced for Pravahika (dysentery w
 
 ### Synergistic Combinations
 
-- Key herbs: Kutaja (Holarrhena antidysenterica), [Dhataki](/nighantu/herb/dhataki/); fermentation creates unique metabolite profile with enhanced therapeutic activity
+- Key herbs: Kutaja (Holarrhena antidysenterica), [Dhataki](/herb/dhataki/); fermentation creates unique metabolite profile with enhanced therapeutic activity

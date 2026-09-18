@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Nimba-Patra/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | [Nimba](/nighantu/herb/nimba/) Patra |
+| English | [Nimba](/herb/nimba/) Patra |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -40,17 +40,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Nimba-Patra/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g dried leaf powder twice daily; 10-20 mL fresh leaf juice daily; 300-500 mg standardized leaf extract twice daily
 
-**Bioavailability:** [Quercetin](/nighantu/reference/quercetinquercetin/) and other [flavonoids](/nighantu/reference/flavonoids/) from [neem](/nighantu/herb/neem/) leaf show oral bioavailability of 15-25%; improved to 40-55% via phospholipid complexation or solid dispersion with PVP. [Nimbolide](/nighantu/glossary/compounds-l-o/#nimbolide) from leaf has rapid oral absorption (Tmax ~1.5 h) but undergoes significant first-pass metabolism. Leaf [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) show pH-dependent absorption with better uptake in alkaline intestinal environment.
+**Bioavailability:** [Quercetin](/reference/quercetinquercetin/) and other [flavonoids](/reference/flavonoids/) from [neem](/herb/neem/) leaf show oral bioavailability of 15-25%; improved to 40-55% via phospholipid complexation or solid dispersion with PVP. [Nimbolide](/glossary/compounds-l-o/#nimbolide) from leaf has rapid oral absorption (Tmax ~1.5 h) but undergoes significant first-pass metabolism. Leaf [polyphenols](/glossary/compounds-o-q/#polyphenols) show pH-dependent absorption with better uptake in alkaline intestinal environment.
 
 **Optimal Timing:** Early morning on empty stomach for blood purification (Swarasa). After meals for blood sugar management. Mouthwash: after brushing, twice daily.
 
-**Standardized Extract:** Standardized [neem](/nighantu/herb/neem/) leaf extract (10:1) with minimum [quercetin](/nighantu/reference/quercetinquercetin/) 2%, nimbolide 0.5%, and total phenolics >8% (GAE). Aqueous spray-dried extract with validated HPTLC fingerprint.
+**Standardized Extract:** Standardized [neem](/herb/neem/) leaf extract (10:1) with minimum [quercetin](/reference/quercetinquercetin/) 2%, nimbolide 0.5%, and total phenolics >8% (GAE). Aqueous spray-dried extract with validated HPTLC fingerprint.
 
 **Shelf Life:** Fresh juice: 6-8 hours (unpreserved); Dried powder: 12-18 months; Standardized extract: 24 months; Tablets/Capsules: 24-36 months
 
 **Storage:** Fresh leaves: refrigerated 2-8 deg C. Dried powder and extracts: airtight containers, below 25 deg C, RH <55%, protected from light. Avoid metal containers due to tannin-metal complexation.
 
-**Marker Compounds:** Quercetin, Nimbolide, [Kaempferol](/nighantu/reference/kaempferol/), [Rutin](/nighantu/glossary/compounds-q-t/#rutin), Gallic acid, [Catechin](/nighantu/reference/catechin/), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Nimbanene
+**Marker Compounds:** Quercetin, Nimbolide, [Kaempferol](/reference/kaempferol/), [Rutin](/glossary/compounds-q-t/#rutin), Gallic acid, [Catechin](/reference/catechin/), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Nimbanene
 
 ### Extraction Methods
 
@@ -62,8 +62,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Nimba-Patra/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Tulsi](/nighantu/herb/tulsi/) ([antimicrobial](/nighantu/reference/antimicrobial/) and [immunomodulatory](/nighantu/reference/immunomodulatory/) synergy)
-- [Haridra](/nighantu/herb/haridra/) (anti-inflammatory and [hepatoprotective](/nighantu/reference/hepatoprotective/))
-- [Guduchi](/nighantu/herb/guduchi/) (blood sugar management combination)
-- [Karanja](/nighantu/herb/karanja/) Patra (dermatological combination)
-- [Triphala](/nighantu/herb/triphala/) (comprehensive detox with neem leaf)
+- [Tulsi](/herb/tulsi/) ([antimicrobial](/reference/antimicrobial/) and [immunomodulatory](/reference/immunomodulatory/) synergy)
+- [Haridra](/herb/haridra/) (anti-inflammatory and [hepatoprotective](/reference/hepatoprotective/))
+- [Guduchi](/herb/guduchi/) (blood sugar management combination)
+- [Karanja](/herb/karanja/) Patra (dermatological combination)
+- [Triphala](/herb/triphala/) (comprehensive detox with neem leaf)

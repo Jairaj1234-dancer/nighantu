@@ -23,19 +23,19 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Vasant-Kusumakar-R
 
 | Language | Name |
 |----------|------|
-| English | [Vasant Kusumakar Rasa](/nighantu/herb/vasant-kusumakar-rasa/) |
+| English | [Vasant Kusumakar Rasa](/herb/vasant-kusumakar-rasa/) |
 
 ## How does it work?
 
-- Pancreatic beta-cell regeneration and insulin secretion enhancement through [Swarna Bhasma](/nighantu/herb/swarna-bhasma/)'s bioactive nanoparticles stimulating [glucose](/nighantu/glossary/compounds-d-g/#glucose) metabolism
-- [Antioxidant](/nighantu/reference/antioxidant/) and anti-inflammatory action: reduces oxidative stress markers (MDA, ROS) and inflammatory cytokines (TNF-alpha, IL-6, NF-kB) in target tissues including heart, brain, and retina
-- [Neuroprotective](/nighantu/reference/neuroprotective/) mechanism: modulates neurotransmitter levels ([serotonin](/nighantu/glossary/compounds-q-t/#serotonin), dopamine, acetylcholine) and reduces neuroinflammation in diabetic encephalopathy
-- [Cardioprotective](/nighantu/reference/cardioprotective/) action: improves hemodynamic parameters and reduces cardiac biomarkers (CK-MB, LDH, troponin-I) through reduction of myocardial oxidative damage
+- Pancreatic beta-cell regeneration and insulin secretion enhancement through [Swarna Bhasma](/herb/swarna-bhasma/)'s bioactive nanoparticles stimulating [glucose](/glossary/compounds-d-g/#glucose) metabolism
+- [Antioxidant](/reference/antioxidant/) and anti-inflammatory action: reduces oxidative stress markers (MDA, ROS) and inflammatory cytokines (TNF-alpha, IL-6, NF-kB) in target tissues including heart, brain, and retina
+- [Neuroprotective](/reference/neuroprotective/) mechanism: modulates neurotransmitter levels ([serotonin](/glossary/compounds-q-t/#serotonin), dopamine, acetylcholine) and reduces neuroinflammation in diabetic encephalopathy
+- [Cardioprotective](/reference/cardioprotective/) action: improves hemodynamic parameters and reduces cardiac biomarkers (CK-MB, LDH, troponin-I) through reduction of myocardial oxidative damage
 
 ## Which traditional uses are supported by research?
 
 - Anti-diabetic activity: Multiple preclinical studies (2020-2024) validate traditional use in Prameha (diabetes) showing dose-dependent blood glucose reduction, improved insulin sensitivity, and protection against diabetic complications including retinopathy, cardiomyopathy, and encephalopathy
-- Rejuvenative ([Rasayana](/nighantu/reference/rasayana/)) action: Traditional use as a rejuvenative tonic partially validated by studies showing antioxidant properties and multi-organ protective effects in diabetic animal models
+- Rejuvenative ([Rasayana](/reference/rasayana/)) action: Traditional use as a rejuvenative tonic partially validated by studies showing antioxidant properties and multi-organ protective effects in diabetic animal models
 
 ## What do recent clinical trials show?
 

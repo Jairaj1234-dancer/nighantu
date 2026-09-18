@@ -28,31 +28,31 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Palankya/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Lutein](/nighantu/glossary/compounds-l-o/#lutein) and [zeaxanthin](/nighantu/glossary/compounds-t-z/#zeaxanthin) ([carotenoids](/nighantu/glossary/compounds-a-c/#carotenoids))
+- [Lutein](/glossary/compounds-l-o/#lutein) and [zeaxanthin](/glossary/compounds-t-z/#zeaxanthin) ([carotenoids](/glossary/compounds-a-c/#carotenoids))
 - Beta-carotene
-- [Flavonoids](/nighantu/reference/flavonoids/) (patuletin, spinacetin, jaceidin [glycosides](/nighantu/glossary/compounds-g-l/#glycosides))
+- [Flavonoids](/reference/flavonoids/) (patuletin, spinacetin, jaceidin [glycosides](/glossary/compounds-g-l/#glycosides))
 - Phenolic acids (p-coumaric acid, ferulic acid)
-- [Ecdysterone](/nighantu/glossary/compounds-d-g/#ecdysterone) (phytoecdysteroid)
-- Oxalic acid, [folate](/nighantu/glossary/compounds-d-g/#folate), iron, and vitamin K
+- [Ecdysterone](/glossary/compounds-d-g/#ecdysterone) (phytoecdysteroid)
+- Oxalic acid, [folate](/glossary/compounds-d-g/#folate), iron, and vitamin K
 
 ## How does it work?
 
 - Ocular health through lutein and zeaxanthin accumulation in macula, filtering blue light and protecting against age-related macular degeneration
 - Anti-cancer activity via glycolipid-mediated inhibition of DNA polymerase and anti-proliferative effects on cancer cell lines
 - Anti-inflammatory mechanism through ecdysterone-mediated modulation of NF-kB pathway and phenolic acid-mediated COX inhibition
-- [Neuroprotective](/nighantu/reference/neuroprotective/) effects via carotenoid and flavonoid-mediated reduction of oxidative stress in neuronal tissue
+- [Neuroprotective](/reference/neuroprotective/) effects via carotenoid and flavonoid-mediated reduction of oxidative stress in neuronal tissue
 
 ## Which traditional uses are supported by research?
 
-- Cooling and pitta-pacifying (Pittahara) - validated through confirmed anti-inflammatory and [antioxidant](/nighantu/reference/antioxidant/) cooling properties
-- [Laxative](/nighantu/reference/laxative/) (Bhedana) - confirmed mild laxative effect through dietary fiber and [magnesium](/nighantu/glossary/compounds-l-o/#magnesium) content
+- Cooling and pitta-pacifying (Pittahara) - validated through confirmed anti-inflammatory and [antioxidant](/reference/antioxidant/) cooling properties
+- [Laxative](/reference/laxative/) (Bhedana) - confirmed mild laxative effect through dietary fiber and [magnesium](/glossary/compounds-l-o/#magnesium) content
 - Blood builder (Raktavardhaka) - supported by high folate and iron content for hemoglobin synthesis (though iron bioavailability reduced by oxalates)
-- Eye health ([Chakshushya](/nighantu/herb/chakshushya/)) - strongly validated through lutein and zeaxanthin's proven role in macular health and AMD prevention
+- Eye health ([Chakshushya](/herb/chakshushya/)) - strongly validated through lutein and zeaxanthin's proven role in macular health and AMD prevention
 
 ## What do recent clinical trials show?
 
 - Akbari F, Mollaei M, Argani P and others 2024. [Spinacia Oleracea: Exploring the Therapeutic Potential in Persian Medicine and Modern Pharmacology](https://pubmed.ncbi.nlm.nih.gov/38549540/). *Current drug discovery technologies*. PMID [38549540](https://pubmed.ncbi.nlm.nih.gov/38549540/) · [doi:10.2174/0115701638275971240201060710](https://doi.org/10.2174/0115701638275971240201060710)  
-  Bridged traditional Persian/Ayurvedic uses with modern pharmacology; confirmed cooling, laxative, anti-inflammatory, and [hepatoprotective](/nighantu/reference/hepatoprotective/) properties through scientific evidence.
+  Bridged traditional Persian/Ayurvedic uses with modern pharmacology; confirmed cooling, laxative, anti-inflammatory, and [hepatoprotective](/reference/hepatoprotective/) properties through scientific evidence.
 - Roberts JL, Moreau R 2016. [Functional properties of spinach (Spinacia oleracea L.) phytochemicals and bioactives](https://pubmed.ncbi.nlm.nih.gov/27353735/). *Food & function*. PMID [27353735](https://pubmed.ncbi.nlm.nih.gov/27353735/) · [doi:10.1039/c6fo00051g](https://doi.org/10.1039/c6fo00051g)  
   Documented functional properties of spinach glycolipids, carotenoids, and phenolics for prevention of inflammation, oxidative stress, and chronic diseases.
 
@@ -73,7 +73,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Palankya/meta-analysis.md"
 
 **Optimal Timing:** Morning or afternoon with meals containing fat for optimal carotenoid absorption. Avoid taking with calcium supplements or dairy simultaneously (oxalate interference). Co-administer with vitamin C source for iron absorption.
 
-**Standardized Extract:** Spray-dried spinach extract (20:1 from fresh) with minimum iron 3%, total [chlorophyll](/nighantu/glossary/compounds-c-d/#chlorophyll) >1%, lutein >0.5%. Low-oxalate processed extract with residual oxalate <200 mg/100g.
+**Standardized Extract:** Spray-dried spinach extract (20:1 from fresh) with minimum iron 3%, total [chlorophyll](/glossary/compounds-c-d/#chlorophyll) >1%, lutein >0.5%. Low-oxalate processed extract with residual oxalate <200 mg/100g.
 
 **Shelf Life:** Fresh juice: 4-6 hours refrigerated; Dried powder: 12-18 months; Spray-dried extract: 18-24 months; Capsules: 18-24 months
 
@@ -93,7 +93,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Palankya/meta-analysis.md"
 ### Synergistic Combinations
 
 - Amalaki (Vitamin C enhances iron absorption from spinach)
-- [Pippali](/nighantu/herb/pippali/) (bioenhancer for mineral absorption)
-- [Guduchi](/nighantu/herb/guduchi/) (blood building and immune combination)
+- [Pippali](/herb/pippali/) (bioenhancer for mineral absorption)
+- [Guduchi](/herb/guduchi/) (blood building and immune combination)
 - Mandoora Bhasma (iron supplementation synergy)
-- [Nimbu](/nighantu/herb/nimbu/)/Lemon juice ([citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid) reduces oxalate-iron binding)
+- [Nimbu](/herb/nimbu/)/Lemon juice ([citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid) reduces oxalate-iron binding)

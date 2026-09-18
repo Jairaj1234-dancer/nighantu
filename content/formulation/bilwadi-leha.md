@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Bilwadi-Le
 
 | Language | Name |
 |----------|------|
-| English | [Bilwadi Leha](/nighantu/formulation/bilwadi-leha/) |
+| English | [Bilwadi Leha](/formulation/bilwadi-leha/) |
 
 ## Where is it described in the classical texts?
 
@@ -33,16 +33,16 @@ Bhaishajya Ratnavali; Sharangadhara Samhita; Kerala Ayurveda tradition (medieval
 
 - Bilwa (Aegle marmelos) provides potent anti-diarrheal action through tannin-mediated astringent effect on intestinal mucosa
 - Musta (Cyperus rotundus) provides Grahi (absorbent) and Deepana (digestive stimulant) properties, normalizing stool consistency
-- [Trikatu](/nighantu/herb/trikatu/) stimulates Agni (digestive fire), correcting Mandagni (weak digestion) that underlies IBS pathogenesis in Ayurveda
-- Carminative spices ([cumin](/nighantu/herb/cumin/), [coriander](/nighantu/herb/coriander/), cardamom, caraway) reduce intestinal gas, bloating, and abdominal spasm
-- Jaggery base provides prebiotic support and mild [laxative](/nighantu/reference/laxative/) action, balancing the astringent herbs for normalized bowel function
+- [Trikatu](/herb/trikatu/) stimulates Agni (digestive fire), correcting Mandagni (weak digestion) that underlies IBS pathogenesis in Ayurveda
+- Carminative spices ([cumin](/herb/cumin/), [coriander](/herb/coriander/), cardamom, caraway) reduce intestinal gas, bloating, and abdominal spasm
+- Jaggery base provides prebiotic support and mild [laxative](/reference/laxative/) action, balancing the astringent herbs for normalized bowel function
 
 ## Which traditional uses are supported by research?
 
 - Grahani (IBS): clinical trial validates 67-100% improvement across all IBS symptoms including pain, bloating, diarrhea, and mucus passage
-- Atisara (diarrhea): anti-diarrheal action of Bilwa validated pharmacologically through astringent and [antimicrobial](/nighantu/reference/antimicrobial/) mechanisms
+- Atisara (diarrhea): anti-diarrheal action of Bilwa validated pharmacologically through astringent and [antimicrobial](/reference/antimicrobial/) mechanisms
 - Pravahika (dysentery): traditional use supported by antimicrobial and intestinal mucosal protective properties of Bael
-- Agnimandya (digestive weakness): [Trikatu](/nighantu/herb/trikatu/) and carminative spices confirmed to enhance digestive enzyme activity and reduce flatulence
+- Agnimandya (digestive weakness): [Trikatu](/herb/trikatu/) and carminative spices confirmed to enhance digestive enzyme activity and reduce flatulence
 
 ## What do recent clinical trials show?
 
@@ -72,7 +72,7 @@ Bhaishajya Ratnavali; Sharangadhara Samhita; Kerala Ayurveda tradition (medieval
 
 **Standard Dosage:** 6-12 g twice daily, as per AFI Part I
 
-**Bioavailability:** Avaleha base with sugar and ghee enhances absorption of [marmelosin](/nighantu/glossary/compounds-l-o/#marmelosin) and other [coumarins](/nighantu/glossary/compounds-c-d/#coumarins). Semi-solid matrix provides sustained-release properties. Honey (added when cool) provides enzymatic bioenhancement and preservative action.
+**Bioavailability:** Avaleha base with sugar and ghee enhances absorption of [marmelosin](/glossary/compounds-l-o/#marmelosin) and other [coumarins](/glossary/compounds-c-d/#coumarins). Semi-solid matrix provides sustained-release properties. Honey (added when cool) provides enzymatic bioenhancement and preservative action.
 
 **Optimal Timing:** After meals or between meals, twice daily, for chronic diarrhea and IBS-type conditions
 
@@ -80,7 +80,7 @@ Bhaishajya Ratnavali; Sharangadhara Samhita; Kerala Ayurveda tradition (medieval
 
 **Storage:** Store in wide-mouth glass or food-grade HDPE jars with airtight lids in a cool, dry place. Temperature not exceeding 25°C. Protect from moisture.
 
-**Marker Compounds:** Marmelosin, [Marmelide](/nighantu/glossary/compounds-l-o/#marmelide), Aegelin, [Skimmianine](/nighantu/glossary/compounds-q-t/#skimmianine), [Umbelliferone](/nighantu/glossary/compounds-t-z/#umbelliferone)
+**Marker Compounds:** Marmelosin, [Marmelide](/glossary/compounds-l-o/#marmelide), Aegelin, [Skimmianine](/glossary/compounds-q-t/#skimmianine), [Umbelliferone](/glossary/compounds-t-z/#umbelliferone)
 
 **Quality Parameters:** Total solids (minimum 65%), pH, moisture content (<25%), total sugar, total fat, ash value, marmelosin content from Bilwa by HPLC, microbial limits, heavy metals, HPTLC fingerprint, organoleptic evaluation
 
@@ -88,7 +88,7 @@ Bhaishajya Ratnavali; Sharangadhara Samhita; Kerala Ayurveda tradition (medieval
 
 ### Synergistic Combinations
 
-- [Kutajarishta](/nighantu/formulation/kutajarishta/)
-- [Gangadhara Churna](/nighantu/formulation/gangadhara-churna/)
+- [Kutajarishta](/formulation/kutajarishta/)
+- [Gangadhara Churna](/formulation/gangadhara-churna/)
 - Bilwa Churna
-- Dadimadi [Ghrita](/nighantu/herb/ghrita/)|Dadimadi Ghrita
+- Dadimadi [Ghrita](/herb/ghrita/)|Dadimadi Ghrita

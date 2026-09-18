@@ -23,34 +23,34 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Twak-Cinnamon/meta-
 
 | Language | Name |
 |----------|------|
-| English | [Twak Cinnamon](/nighantu/herb/twak-cinnamon/) |
+| English | [Twak Cinnamon](/herb/twak-cinnamon/) |
 | Latin/Botanical | *Cinnamomum verum* |
 
 ## Key Phytochemical Constituents
 
 - Cinnamaldehyde (65% of bark oil)
-- [Eugenol](/nighantu/glossary/compounds-d-g/#eugenol) (75-80% of leaf oil)
+- [Eugenol](/glossary/compounds-d-g/#eugenol) (75-80% of leaf oil)
 - Cinnamyl acetate
-- [Linalool](/nighantu/glossary/compounds-l-o/#linalool)
+- [Linalool](/glossary/compounds-l-o/#linalool)
 - Cinnamic acid (polyphenol)
-- [Coumarin](/nighantu/glossary/compounds-c-d/#coumarin) (trace amounts: 0.012-0.143 mg/g in Ceylon variety)
-- [Camphor](/nighantu/herb/camphor/)
+- [Coumarin](/glossary/compounds-c-d/#coumarin) (trace amounts: 0.012-0.143 mg/g in Ceylon variety)
+- [Camphor](/herb/camphor/)
 - Copane
 
 ## How does it work?
 
-- Cinnamaldehyde enhances insulin receptor phosphorylation and increases GLUT4 translocation, improving cellular [glucose](/nighantu/glossary/compounds-d-g/#glucose) uptake
+- Cinnamaldehyde enhances insulin receptor phosphorylation and increases GLUT4 translocation, improving cellular [glucose](/glossary/compounds-d-g/#glucose) uptake
 - Activation of AMPK (AMP-activated protein kinase) pathway leads to enhanced fatty acid oxidation and reduced lipogenesis
-- [Polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) (cinnamic acid, eugenol) inhibit alpha-glucosidase and alpha-amylase, slowing carbohydrate digestion and absorption
+- [Polyphenols](/glossary/compounds-o-q/#polyphenols) (cinnamic acid, eugenol) inhibit alpha-glucosidase and alpha-amylase, slowing carbohydrate digestion and absorption
 - Anti-inflammatory mechanism via suppression of NF-kB activation and reduction of pro-inflammatory cytokines (TNF-alpha, IL-6, CRP)
-- [Antioxidant](/nighantu/reference/antioxidant/) activity through direct free radical scavenging and upregulation of endogenous antioxidant [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) (SOD, catalase, GPx)
+- [Antioxidant](/reference/antioxidant/) activity through direct free radical scavenging and upregulation of endogenous antioxidant [enzymes](/glossary/compounds-d-g/#enzymes) (SOD, catalase, GPx)
 
 ## Which traditional uses are supported by research?
 
 - Blood sugar regulation in diabetes - extensively validated by multiple RCTs and meta-analyses showing significant glycemic and HbA1c improvements
 - Carminative and digestive aid for dyspepsia and flatulence - confirmed by ESCOP recommendations based on clinical evidence
 - Anti-inflammatory use for joint and muscle pain - supported by clinical evidence of reduced inflammatory markers (CRP, TNF-alpha, IL-6)
-- [Antimicrobial](/nighantu/reference/antimicrobial/) use for infections - validated by in vitro and in vivo studies showing broad-spectrum activity of cinnamaldehyde
+- [Antimicrobial](/reference/antimicrobial/) use for infections - validated by in vitro and in vivo studies showing broad-spectrum activity of cinnamaldehyde
 - Lipid-lowering for cardiovascular protection - confirmed by clinical trials showing reduced triglycerides, LDL-C, and total cholesterol
 
 ## What do recent clinical trials show?
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Twak-Cinnamon/meta-
 - Neto JCGL, Damasceno MMC, Ciol MA and others 2020. [Analysis of the effectiveness of cinnamon (Cinnamomum verum) in the reduction of glycemic and lipidic levels of adults with type 2 diabetes: A study protocol](https://pubmed.ncbi.nlm.nih.gov/31895796/). *Medicine*. PMID [31895796](https://pubmed.ncbi.nlm.nih.gov/31895796/) · [doi:10.1097/MD.0000000000018553](https://doi.org/10.1097/MD.0000000000018553)  
   Phase II double-blind, placebo-controlled trial of 3 grams/day Cinnamomum verum for 90 days showed significant reductions in glycemic and lipid levels in adults with type 2 diabetes.
 - Silva ML, Bernardo MA, Singh J and others 2022. [Cinnamon as a Complementary Therapeutic Approach for Dysglycemia and Dyslipidemia Control in Type 2 Diabetes Mellitus and Its Molecular Mechanism of Action: A Review](https://pubmed.ncbi.nlm.nih.gov/35807953/). *Nutrients*. PMID [35807953](https://pubmed.ncbi.nlm.nih.gov/35807953/) · [doi:10.3390/nu14132773](https://doi.org/10.3390/nu14132773)  
-  Reviewed molecular mechanisms of cinnamon's [antidiabetic](/nighantu/reference/antidiabetic/) activity: enhances insulin receptor signaling, increases GLUT4 translocation, activates AMPK pathway, and inhibits alpha-glucosidase.
+  Reviewed molecular mechanisms of cinnamon's [antidiabetic](/reference/antidiabetic/) activity: enhances insulin receptor signaling, increases GLUT4 translocation, activates AMPK pathway, and inhibits alpha-glucosidase.
 
 *1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
@@ -94,7 +94,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Twak-Cinnamon/meta-
 
 **Standard Dosage:** 1-3 g powder twice daily; 250-500 mg standardized extract twice daily; 1-2 drops essential oil in warm water
 
-**Bioavailability:** Trans-cinnamaldehyde (primary active) has good oral bioavailability (~50-60%) with rapid absorption and Tmax of 30-60 minutes; rapidly oxidized to cinnamic acid and conjugated to hippuric acid for renal excretion. Type-A [proanthocyanidins](/nighantu/glossary/compounds-o-q/#proanthocyanidins) (insulin-sensitizing fraction) have low oral bioavailability (<10%) but may act locally on GI epithelium. Coumarin (significant in Cinnamomum cassia, much lower in C. verum) has high bioavailability (~60-80%) but hepatotoxicity concern limits acceptable daily intake to <0.1 mg/kg/day (EFSA).
+**Bioavailability:** Trans-cinnamaldehyde (primary active) has good oral bioavailability (~50-60%) with rapid absorption and Tmax of 30-60 minutes; rapidly oxidized to cinnamic acid and conjugated to hippuric acid for renal excretion. Type-A [proanthocyanidins](/glossary/compounds-o-q/#proanthocyanidins) (insulin-sensitizing fraction) have low oral bioavailability (<10%) but may act locally on GI epithelium. Coumarin (significant in Cinnamomum cassia, much lower in C. verum) has high bioavailability (~60-80%) but hepatotoxicity concern limits acceptable daily intake to <0.1 mg/kg/day (EFSA).
 
 **Optimal Timing:** With or after meals for glycemic management; before meals for appetite stimulation; morning and evening dosing
 
@@ -117,7 +117,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Twak-Cinnamon/meta-
 ### Synergistic Combinations
 
 - Ela (cardamom) - digestive and flavor synergy
-- [Tejapatra](/nighantu/herb/tejapatra/) - closely related Cinnamomum species
+- [Tejapatra](/herb/tejapatra/) - closely related Cinnamomum species
 - Chromium picolinate - synergistic glycemic support
-- Fenugreek ([Methi](/nighantu/herb/methi/)) - complementary insulin-sensitizing action
-- [Gudmar](/nighantu/herb/gudmar/) (Gymnema) - blood sugar management combination
+- Fenugreek ([Methi](/herb/methi/)) - complementary insulin-sensitizing action
+- [Gudmar](/herb/gudmar/) (Gymnema) - blood sugar management combination

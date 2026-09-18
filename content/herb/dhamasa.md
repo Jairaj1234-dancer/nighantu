@@ -28,26 +28,26 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhamasa/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Flavonoids](/nighantu/reference/flavonoids/) ([isorhamnetin](/nighantu/glossary/compounds-g-l/#isorhamnetin) derivatives, [rutin](/nighantu/glossary/compounds-q-t/#rutin), [quercetin](/nighantu/reference/quercetinquercetin/))
-- [Diterpenes](/nighantu/glossary/compounds-d-g/#diterpenes)
-- Triterpene [saponins](/nighantu/reference/saponins/)
-- [Sterols](/nighantu/glossary/compounds-q-t/#sterols) (beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [stigmasterol](/nighantu/reference/stigmasterol/))
+- [Flavonoids](/reference/flavonoids/) ([isorhamnetin](/glossary/compounds-g-l/#isorhamnetin) derivatives, [rutin](/glossary/compounds-q-t/#rutin), [quercetin](/reference/quercetinquercetin/))
+- [Diterpenes](/glossary/compounds-d-g/#diterpenes)
+- Triterpene [saponins](/reference/saponins/)
+- [Sterols](/glossary/compounds-q-t/#sterols) (beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [stigmasterol](/reference/stigmasterol/))
 - Atricarpan B (pterocarpan - first report in genus)
 - Phenolic acids
-- [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids)
-- [Hederagenin](/nighantu/glossary/compounds-g-l/#hederagenin) [glycosides](/nighantu/glossary/compounds-g-l/#glycosides)
+- [Alkaloids](/glossary/compounds-1-a/#alkaloids)
+- [Hederagenin](/glossary/compounds-g-l/#hederagenin) [glycosides](/glossary/compounds-g-l/#glycosides)
 - Oleanolic acid derivatives
 
 ## How does it work?
 
 - Anti-inflammatory mechanism through dual COX-1/COX-2 inhibition (IC50 values of 26.51 and 13.02 microg/ml respectively), with selectivity favoring COX-2 inhibition
 - Antithrombotic action through saponin-mediated disruption of thrombus formation and anticoagulant effects, enhanced by liposomal delivery systems
-- [Antidiabetic](/nighantu/reference/antidiabetic/) mechanism through DPP-4 enzyme inhibition, prolonging incretin hormone activity and improving [glucose](/nighantu/glossary/compounds-d-g/#glucose)-dependent insulin secretion
+- [Antidiabetic](/reference/antidiabetic/) mechanism through DPP-4 enzyme inhibition, prolonging incretin hormone activity and improving [glucose](/glossary/compounds-d-g/#glucose)-dependent insulin secretion
 
 ## Which traditional uses are supported by research?
 
-- Anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) properties validated through COX inhibition studies and in vivo models, confirming traditional use in pain and inflammatory conditions
-- [Anticancer](/nighantu/reference/anticancer/)/cytotoxic activity validated against multiple cancer cell lines, supporting its extensive folk use as an anticancer remedy (particularly in Pakistan and India)
+- Anti-inflammatory and [analgesic](/reference/analgesic/) properties validated through COX inhibition studies and in vivo models, confirming traditional use in pain and inflammatory conditions
+- [Anticancer](/reference/anticancer/)/cytotoxic activity validated against multiple cancer cell lines, supporting its extensive folk use as an anticancer remedy (particularly in Pakistan and India)
 - Antithrombotic properties experimentally confirmed, supporting traditional use in blood-related disorders
 
 ## What do recent clinical trials show?
@@ -55,7 +55,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhamasa/meta-analysis.md"
 - Badawy SA, Hassan AR, Shafaa MW and others 2025. [Liposomal formulation of Fagonia arabica L. enhances antithrombotic efficacy: phytochemical, pharmacological, and computational investigations](https://pubmed.ncbi.nlm.nih.gov/41306891/). *RSC advances*. PMID [41306891](https://pubmed.ncbi.nlm.nih.gov/41306891/) · [doi:10.1039/d5ra06347g](https://doi.org/10.1039/d5ra06347g)  
   Developed liposomal nanoparticles of saponin-rich extract, enhancing bioavailability and confirming thrombolytic and anticoagulant potential through in vitro and computational molecular docking studies.
 - Mohamed EIA, Elwekeel AH, Mohamed DEA and others 2024. [Validating anti-inflammatory and cytotoxic properties of Fagonia cretica L. through metabolic, in vitro, and in silico profiling](https://pubmed.ncbi.nlm.nih.gov/39609685/). *BMC complementary medicine and therapies*. PMID [39609685](https://pubmed.ncbi.nlm.nih.gov/39609685/) · [doi:10.1186/s12906-024-04684-y](https://doi.org/10.1186/s12906-024-04684-y)  
-  Metabolic profiling by LC-HRMS identified 21 compounds (flavonoids, diterpenes, sterols, [triterpenes](/nighantu/glossary/compounds-t-z/#triterpenes)); demonstrated COX-1/COX-2 inhibition and cytotoxic activity against MCF-7, HepG2, and CACO2 cell lines.
+  Metabolic profiling by LC-HRMS identified 21 compounds (flavonoids, diterpenes, sterols, [triterpenes](/glossary/compounds-t-z/#triterpenes)); demonstrated COX-1/COX-2 inhibition and cytotoxic activity against MCF-7, HepG2, and CACO2 cell lines.
 
 *1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
@@ -70,17 +70,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhamasa/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction twice daily; 500mg extract capsule twice daily; 10-20ml fresh juice
 
-**Bioavailability:** Fagonia cretica (Dhamasa) contains saponins, flavonoids, and [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids). Water-soluble flavonoid glycosides have moderate oral bioavailability (20-40%). Saponins undergo hydrolysis in the gut, releasing aglycones with higher membrane permeability. Traditional decoction preparation optimizes extraction of glycosidic actives. Enhancement: phytosome complexation of flavonoid-rich fraction improves oral bioavailability 2-3 fold.
+**Bioavailability:** Fagonia cretica (Dhamasa) contains saponins, flavonoids, and [terpenoids](/glossary/compounds-t-z/#terpenoids). Water-soluble flavonoid glycosides have moderate oral bioavailability (20-40%). Saponins undergo hydrolysis in the gut, releasing aglycones with higher membrane permeability. Traditional decoction preparation optimizes extraction of glycosidic actives. Enhancement: phytosome complexation of flavonoid-rich fraction improves oral bioavailability 2-3 fold.
 
 **Optimal Timing:** Before meals with warm water for fever and blood purification; after meals for gastric conditions
 
-**Standardized Extract:** Aqueous extract standardized to NLT 2% total flavonoids (as [quercetin](/nighantu/reference/quercetinquercetin/) equivalent) by UV spectrophotometry. Extract ratio 8:1. HPTLC fingerprint with minimum 5 characteristic bands.
+**Standardized Extract:** Aqueous extract standardized to NLT 2% total flavonoids (as [quercetin](/reference/quercetinquercetin/) equivalent) by UV spectrophotometry. Extract ratio 8:1. HPTLC fingerprint with minimum 5 characteristic bands.
 
 **Shelf Life:** 2 years (powder); 2.5 years (tablet/capsule); 3 years (spray-dried extract in sealed container)
 
 **Storage:** Airtight containers below 25 deg C, protected from moisture and light. Flavonoid-rich extracts are photosensitive - use amber or opaque containers.
 
-**Marker Compounds:** [Quercetin](/nighantu/reference/quercetinquercetin/), [Kaempferol](/nighantu/reference/kaempferol/), Isorhamnetin glycosides, Oleanolic acid, Ursolic acid, Hederagenin saponins
+**Marker Compounds:** [Quercetin](/reference/quercetinquercetin/), [Kaempferol](/reference/kaempferol/), Isorhamnetin glycosides, Oleanolic acid, Ursolic acid, Hederagenin saponins
 
 ### Extraction Methods
 
@@ -91,7 +91,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhamasa/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Giloy](/nighantu/herb/guduchi/) (Tinospora) for immune-modulatory and [antipyretic](/nighantu/reference/antipyretic/) synergy
-- With Kutki (Picrorhiza) for [hepatoprotective](/nighantu/reference/hepatoprotective/) combination
-- With [Ashwagandha](/nighantu/herb/ashwagandha/) for [adaptogenic](/nighantu/reference/adaptogenic/) and hematopoietic support
-- With [Punarnava](/nighantu/herb/punarnava/) for anti-inflammatory and nephroprotective synergy
+- With [Giloy](/herb/guduchi/) (Tinospora) for immune-modulatory and [antipyretic](/reference/antipyretic/) synergy
+- With Kutki (Picrorhiza) for [hepatoprotective](/reference/hepatoprotective/) combination
+- With [Ashwagandha](/herb/ashwagandha/) for [adaptogenic](/reference/adaptogenic/) and hematopoietic support
+- With [Punarnava](/herb/punarnava/) for anti-inflammatory and nephroprotective synergy

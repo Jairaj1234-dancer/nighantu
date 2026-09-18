@@ -28,34 +28,34 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Jivanti/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 - Gamma-sitosterol
-- [Phytol](/nighantu/glossary/compounds-o-q/#phytol)
+- [Phytol](/glossary/compounds-o-q/#phytol)
 - Alpha-amyrin
 - Beta-amyrin
-- [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin)
+- [Apigenin](/glossary/compounds-1-a/#apigenin)
 - Reticulin
 - Deniculatin
 - Leptaculatin
 - Diosmetin
-- [Rutin](/nighantu/glossary/compounds-q-t/#rutin)
+- [Rutin](/glossary/compounds-q-t/#rutin)
 
 ## How does it work?
 
 - Reticulin and deniculatin modulate prolactin secretion through dopamine D2 receptor antagonism, enhancing lactogenesis - validated through in-silico molecular docking studies (2024)
-- Beta-amyrin and alpha-amyrin [triterpenes](/nighantu/glossary/compounds-t-z/#triterpenes) inhibit NF-kB and MAPK inflammatory signaling pathways, reducing pro-inflammatory cytokine expression and providing anti-inflammatory effects
-- [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin) and diosmetin exhibit [antioxidant](/nighantu/reference/antioxidant/)-mediated cytoprotective effects through Nrf2 pathway activation and upregulation of HO-1, protecting tissues from oxidative damage
+- Beta-amyrin and alpha-amyrin [triterpenes](/glossary/compounds-t-z/#triterpenes) inhibit NF-kB and MAPK inflammatory signaling pathways, reducing pro-inflammatory cytokine expression and providing anti-inflammatory effects
+- [Apigenin](/glossary/compounds-1-a/#apigenin) and diosmetin exhibit [antioxidant](/reference/antioxidant/)-mediated cytoprotective effects through Nrf2 pathway activation and upregulation of HO-1, protecting tissues from oxidative damage
 
 ## Which traditional uses are supported by research?
 
-- [Galactagogue](/nighantu/glossary/pharmacology/#galactagogue) (Stanyajanana) activity validated through pharmacological studies and molecular docking confirming prolactin-modulating mechanism, supporting traditional Ayurvedic use for enhancing lactation
-- [Rasayana](/nighantu/reference/rasayana/) (rejuvenating/[adaptogenic](/nighantu/reference/adaptogenic/)) properties partially validated through [immunomodulatory](/nighantu/reference/immunomodulatory/) and antioxidant studies supporting traditional classification as a life-giving (Jivanti) herb
+- [Galactagogue](/glossary/pharmacology/#galactagogue) (Stanyajanana) activity validated through pharmacological studies and molecular docking confirming prolactin-modulating mechanism, supporting traditional Ayurvedic use for enhancing lactation
+- [Rasayana](/reference/rasayana/) (rejuvenating/[adaptogenic](/reference/adaptogenic/)) properties partially validated through [immunomodulatory](/reference/immunomodulatory/) and antioxidant studies supporting traditional classification as a life-giving (Jivanti) herb
 - Anti-abortifacient activity validated through preclinical studies, supporting traditional use for prevention of threatened abortion and as a uterine tonic
 
 ## What do recent clinical trials show?
 
 - Kumari S, Saini R, Bhatnagar A and others 2024. [A comprehensive review on ayurvedic herb Leptadenia reticulata (Jeevanti): a phytochemistry and pharmacological perspective](https://pubmed.ncbi.nlm.nih.gov/37990540/). *Natural product research*. PMID [37990540](https://pubmed.ncbi.nlm.nih.gov/37990540/) · [doi:10.1080/14786419.2023.2282119](https://doi.org/10.1080/14786419.2023.2282119)  
-  Comprehensive review documenting diverse pharmacological activities including [antidiabetic](/nighantu/reference/antidiabetic/), [antimicrobial](/nighantu/reference/antimicrobial/), antioxidant, anti-abortifacient, [anticancer](/nighantu/reference/anticancer/), [antipyretic](/nighantu/reference/antipyretic/), [analgesic](/nighantu/reference/analgesic/), anti-inflammatory, and antiulcer properties.
+  Comprehensive review documenting diverse pharmacological activities including [antidiabetic](/reference/antidiabetic/), [antimicrobial](/reference/antimicrobial/), antioxidant, anti-abortifacient, [anticancer](/reference/anticancer/), [antipyretic](/reference/antipyretic/), [analgesic](/reference/analgesic/), anti-inflammatory, and antiulcer properties.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
@@ -67,11 +67,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Jivanti/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Kashayam (decoction), Capsule, Tablet, [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Swarasa (fresh juice)
+**Dosage Forms:** Churna (powder), Kashayam (decoction), Capsule, Tablet, [Ghrita](/herb/ghrita/) (medicated ghee), Swarasa (fresh juice)
 
 **Standard Dosage:** 3-6g powder twice daily; 500mg-1g extract; 50-100ml decoction; 10-20ml fresh juice
 
-**Bioavailability:** Leptadenia reticulata contains [flavonoids](/nighantu/reference/flavonoids/), [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids) ([stigmasterol](/nighantu/reference/stigmasterol/), beta-sitosterol), and pregnane [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) with moderate oral bioavailability. Beta-sitosterol has ~5% oral bioavailability limited by crystallinity and lipophilicity; micronization and lipid formulations improve absorption. Pregnane glycosides (leptadenol) are hydrolyzed by gut bacteria. Traditional Ghrita preparation (ghee base) enhances lipophilic compound absorption.
+**Bioavailability:** Leptadenia reticulata contains [flavonoids](/reference/flavonoids/), [triterpenoids](/glossary/compounds-t-z/#triterpenoids) ([stigmasterol](/reference/stigmasterol/), beta-sitosterol), and pregnane [glycosides](/glossary/compounds-g-l/#glycosides) with moderate oral bioavailability. Beta-sitosterol has ~5% oral bioavailability limited by crystallinity and lipophilicity; micronization and lipid formulations improve absorption. Pregnane glycosides (leptadenol) are hydrolyzed by gut bacteria. Traditional Ghrita preparation (ghee base) enhances lipophilic compound absorption.
 
 **Optimal Timing:** With warm milk for galactagogue effect (lactating mothers); before meals with water for general tonic use
 
@@ -93,7 +93,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Jivanti/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Shatavari](/nighantu/herb/shatavari/) for galactagogue (lactation-promoting) action
-- With [Ashwagandha](/nighantu/herb/ashwagandha/) for Rasayana (rejuvenative) effect
-- With [Bala](/nighantu/herb/bala/) for strength and Vata management
-- With [Yashtimadhu](/nighantu/herb/yashtimadhu/) for soothing and nutritive action
+- With [Shatavari](/herb/shatavari/) for galactagogue (lactation-promoting) action
+- With [Ashwagandha](/herb/ashwagandha/) for Rasayana (rejuvenative) effect
+- With [Bala](/herb/bala/) for strength and Vata management
+- With [Yashtimadhu](/herb/yashtimadhu/) for soothing and nutritive action

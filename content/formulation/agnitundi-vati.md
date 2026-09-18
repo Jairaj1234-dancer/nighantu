@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Agnitundi-Vati/meta
 
 | Language | Name |
 |----------|------|
-| English | [Agnitundi Vati](/nighantu/formulation/agnitundi-vati/) |
+| English | [Agnitundi Vati](/formulation/agnitundi-vati/) |
 
 ## Where is it described in the classical texts?
 
@@ -31,10 +31,10 @@ Yoga Ratnakara (Agnimandya/Ajirna Chikitsa); also described in Bhaishajya Ratnav
 
 ## How does it work?
 
-- Digestive fire kindling (Agni Deepana): [Trikatu](/nighantu/herb/trikatu/) and Chitraka stimulate gastric acid and digestive enzyme secretion; Katu Rasa (pungent taste) directly stimulates Jatharagni
+- Digestive fire kindling (Agni Deepana): [Trikatu](/herb/trikatu/) and Chitraka stimulate gastric acid and digestive enzyme secretion; Katu Rasa (pungent taste) directly stimulates Jatharagni
 - Carminative action: Hing (Ferula asafoetida) is a potent carminative reducing flatulence by calming Annavaha Srotas (digestive channels) and preventing gas accumulation
 - Ama mobilization: Ushna Virya (hot potency) penetrates deep tissues (Dhatus) to mobilize and digest accumulated metabolic toxins (Ama)
-- [Antispasmodic](/nighantu/glossary/pharmacology/#antispasmodic) effect: Combined herbal ingredients relax smooth muscle spasms in the GI tract, relieving cramping and colic pain
+- [Antispasmodic](/glossary/pharmacology/#antispasmodic) effect: Combined herbal ingredients relax smooth muscle spasms in the GI tract, relieving cramping and colic pain
 - Vata-Kapha correction: The formulation normalizes Vata (gas, bloating) and Kapha (heaviness, sluggish digestion) doshas in the digestive tract through hot, sharp, and dry qualities
 
 ## Which traditional uses are supported by research?
@@ -52,7 +52,7 @@ Yoga Ratnakara (Agnimandya/Ajirna Chikitsa); also described in Bhaishajya Ratnav
 
 ## Recent safety updates
 
-- Contains purified heavy metals (Hingula/cinnabar) and toxic materials ([Vatsanabha](/nighantu/herb/vatsanabha/)/aconite) - must be taken STRICTLY under qualified Ayurvedic physician supervision; self-medication dangerous; not for OTC use
+- Contains purified heavy metals (Hingula/cinnabar) and toxic materials ([Vatsanabha](/herb/vatsanabha/)/aconite) - must be taken STRICTLY under qualified Ayurvedic physician supervision; self-medication dangerous; not for OTC use
 - Contraindicated in pregnancy, lactation, and children below 7 years; avoid in Pitta-predominant conditions, gastric ulcer, and gastric hyperacidity; short-term therapeutic use only; long-term use requires periodic monitoring of mercury levels and organ function
 
 ## What is it made of?
@@ -70,7 +70,7 @@ Yoga Ratnakara (Agnimandya/Ajirna Chikitsa); also described in Bhaishajya Ratnav
 
 **Standard Dosage:** 125-250 mg twice daily before meals, as per AFI Part I
 
-**Bioavailability:** Vati form provides controlled release. Shodhana (purification) of [Vatsanabha](/nighantu/herb/vatsanabha/) reduces toxic aconitine [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) while retaining therapeutic activity. [Hingu](/nighantu/herb/hingu/) and [Pippali](/nighantu/herb/pippali/) enhance gastric absorption.
+**Bioavailability:** Vati form provides controlled release. Shodhana (purification) of [Vatsanabha](/herb/vatsanabha/) reduces toxic aconitine [alkaloids](/glossary/compounds-1-a/#alkaloids) while retaining therapeutic activity. [Hingu](/herb/hingu/) and [Pippali](/herb/pippali/) enhance gastric absorption.
 
 **Optimal Timing:** Before meals (Bhojana-purva), preferably 30 minutes before lunch and dinner
 
@@ -78,7 +78,7 @@ Yoga Ratnakara (Agnimandya/Ajirna Chikitsa); also described in Bhaishajya Ratnav
 
 **Storage:** Store in a cool, dry place in airtight glass or HDPE containers. Protect from moisture and light. Temperature not exceeding 30°C.
 
-**Marker Compounds:** [Piperine](/nighantu/reference/piperine/), 6-[Gingerol](/nighantu/glossary/compounds-d-g/#gingerol), Ferulic acid (from [Hingu](/nighantu/herb/hingu/))
+**Marker Compounds:** [Piperine](/reference/piperine/), 6-[Gingerol](/glossary/compounds-d-g/#gingerol), Ferulic acid (from [Hingu](/herb/hingu/))
 
 **Quality Parameters:** Weight variation (±5%), hardness, friability (<1%), disintegration time (<30 min), uniformity of content, moisture content (<6%), microbial limits, heavy metals, alkaloid content assay for aconitine equivalents (must be within safe limits post-Shodhana), HPTLC fingerprint
 
@@ -86,7 +86,7 @@ Yoga Ratnakara (Agnimandya/Ajirna Chikitsa); also described in Bhaishajya Ratnav
 
 ### Synergistic Combinations
 
-- [Hingwashtak Churna](/nighantu/formulation/hingwashtak-churna/)
-- [Shankha Vati](/nighantu/glossary/concepts-m-y/#shankha-vati)
+- [Hingwashtak Churna](/formulation/hingwashtak-churna/)
+- [Shankha Vati](/glossary/concepts-m-y/#shankha-vati)
 - Lavanbhaskar Churna
-- [Chitrakadi Vati](/nighantu/formulation/chitrakadi-vati/)
+- [Chitrakadi Vati](/formulation/chitrakadi-vati/)

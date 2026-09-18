@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tumburu/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g powder twice daily; 30-60 mL decoction twice daily; as mouthwash: 5-10 mL diluted and gargled
 
-**Bioavailability:** Hydroxy-alpha-sanshool and related alkylamides are rapidly absorbed from the GI tract with good bioavailability (~40-50%) and exhibit TRPV1 receptor agonism (tingling/numbing sensation). [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) ([chelerythrine](/nighantu/glossary/compounds-c-d/#chelerythrine), [sanguinarine](/nighantu/glossary/compounds-q-t/#sanguinarine)) have moderate bioavailability but are extensively metabolized hepatically. Essential oil terpenes ([limonene](/nighantu/glossary/compounds-g-l/#limonene), [linalool](/nighantu/glossary/compounds-l-o/#linalool)) are well absorbed but undergo rapid first-pass metabolism.
+**Bioavailability:** Hydroxy-alpha-sanshool and related alkylamides are rapidly absorbed from the GI tract with good bioavailability (~40-50%) and exhibit TRPV1 receptor agonism (tingling/numbing sensation). [Alkaloids](/glossary/compounds-1-a/#alkaloids) ([chelerythrine](/glossary/compounds-c-d/#chelerythrine), [sanguinarine](/glossary/compounds-q-t/#sanguinarine)) have moderate bioavailability but are extensively metabolized hepatically. Essential oil terpenes ([limonene](/glossary/compounds-g-l/#limonene), [linalool](/glossary/compounds-l-o/#linalool)) are well absorbed but undergo rapid first-pass metabolism.
 
 **Optimal Timing:** After meals for digestive support; mouthwash after meals for dental care; morning and evening dosing
 
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tumburu/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- Maricha ([black pepper](/nighantu/herb/black-pepper/)) - complementary bioenhancer action via different mechanisms
-- [Pippali](/nighantu/herb/pippali/) - combined alkylamide activity
-- [Lavanga](/nighantu/herb/lavanga/) (clove) - dental/oral care synergy
-- [Haridra](/nighantu/herb/haridra/) ([turmeric](/nighantu/herb/turmeric/)) - anti-inflammatory potentiation
+- Maricha ([black pepper](/herb/black-pepper/)) - complementary bioenhancer action via different mechanisms
+- [Pippali](/herb/pippali/) - combined alkylamide activity
+- [Lavanga](/herb/lavanga/) (clove) - dental/oral care synergy
+- [Haridra](/herb/haridra/) ([turmeric](/herb/turmeric/)) - anti-inflammatory potentiation

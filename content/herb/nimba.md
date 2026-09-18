@@ -28,33 +28,33 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nimba/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Azadirachtin](/nighantu/glossary/compounds-a-c/#azadirachtin) (limonoid - primary bioactive, 72-90% of biological activity)
-- [Nimbidin](/nighantu/glossary/compounds-l-o/#nimbidin) (bitter compound with anti-inflammatory activity)
-- [Nimbolide](/nighantu/glossary/compounds-l-o/#nimbolide) (cytotoxic tetranortriterpenoid)
-- [Nimbin](/nighantu/glossary/compounds-l-o/#nimbin) (triterpenoid)
-- [Gedunin](/nighantu/glossary/compounds-d-g/#gedunin) (limonoid)
-- [Salannin](/nighantu/glossary/compounds-q-t/#salannin) (tetranortriterpenoid)
-- [Quercetin](/nighantu/reference/quercetinquercetin/) (flavonoid [antioxidant](/nighantu/reference/antioxidant/))
-- [Nimbidol](/nighantu/glossary/compounds-l-o/#nimbidol) ([antimicrobial](/nighantu/reference/antimicrobial/) compound)
+- [Azadirachtin](/glossary/compounds-a-c/#azadirachtin) (limonoid - primary bioactive, 72-90% of biological activity)
+- [Nimbidin](/glossary/compounds-l-o/#nimbidin) (bitter compound with anti-inflammatory activity)
+- [Nimbolide](/glossary/compounds-l-o/#nimbolide) (cytotoxic tetranortriterpenoid)
+- [Nimbin](/glossary/compounds-l-o/#nimbin) (triterpenoid)
+- [Gedunin](/glossary/compounds-d-g/#gedunin) (limonoid)
+- [Salannin](/glossary/compounds-q-t/#salannin) (tetranortriterpenoid)
+- [Quercetin](/reference/quercetinquercetin/) (flavonoid [antioxidant](/reference/antioxidant/))
+- [Nimbidol](/glossary/compounds-l-o/#nimbidol) ([antimicrobial](/reference/antimicrobial/) compound)
 
 ## How does it work?
 
 - Nimbolide antimicrobial cell wall disruption: Nimbolide inhibits microbial cell wall synthesis and shows greatest zone of inhibition against S. epidermidis, S. aureus, P. aeruginosa, and K. pneumoniae - directly targeting acne and skin infection pathogens
-- Azadirachtin [immunomodulatory](/nighantu/reference/immunomodulatory/) activity: Modulates immune cell function including T-cell and macrophage activity, relevant to immune-mediated skin conditions like psoriasis and atopic dermatitis
+- Azadirachtin [immunomodulatory](/reference/immunomodulatory/) activity: Modulates immune cell function including T-cell and macrophage activity, relevant to immune-mediated skin conditions like psoriasis and atopic dermatitis
 - Limonoid anti-inflammatory cascade: Nimbidin and gedunin suppress prostaglandin synthesis and inhibit complement activation, reducing skin inflammation in eczema and dermatitis
-- Antifungal membrane disruption: [Neem](/nighantu/herb/neem/) compounds disrupt fungal cell membrane integrity, effective against dermatophytes (Trichophyton, Microsporum) and Malassezia species causing dandruff and tinea
+- Antifungal membrane disruption: [Neem](/herb/neem/) compounds disrupt fungal cell membrane integrity, effective against dermatophytes (Trichophyton, Microsporum) and Malassezia species causing dandruff and tinea
 
 ## Which traditional uses are supported by research?
 
-- Acne treatment (Yauvanpidika): Validated by clinical trial showing 79% of participants had reduced inflammatory acne with [neem](/nighantu/herb/neem/) face wash
+- Acne treatment (Yauvanpidika): Validated by clinical trial showing 79% of participants had reduced inflammatory acne with [neem](/herb/neem/) face wash
 - Antifungal skin infections (Dadru/Kushtha): Validated by demonstrated broad-spectrum antifungal activity against dermatophytes and Malassezia
-- Dandruff/scalp conditions: 2025 clinical study confirmed efficacy of [neem](/nighantu/herb/neem/) leaf paste for dandruff reduction
+- Dandruff/scalp conditions: 2025 clinical study confirmed efficacy of [neem](/herb/neem/) leaf paste for dandruff reduction
 - Wound healing and antiseptic use (Vrana): Supported by antimicrobial activity against major wound-infecting pathogens
 
 ## What do recent clinical trials show?
 
 - Gopinath H, Karthikeyan K 2021. [Neem in Dermatology: Shedding Light on the Traditional Panacea](https://pubmed.ncbi.nlm.nih.gov/35283494/). *Indian journal of dermatology*. PMID [35283494](https://pubmed.ncbi.nlm.nih.gov/35283494/) · [doi:10.4103/ijd.ijd_562_21](https://doi.org/10.4103/ijd.ijd_562_21)  
-  Comprehensive dermatology review confirmed [neem](/nighantu/herb/neem/)'s efficacy in treating acne, eczema, psoriasis, warts, and fungal infections through anti-inflammatory, antimicrobial, and antioxidant mechanisms, while noting the need for more rigorous clinical trials.
+  Comprehensive dermatology review confirmed [neem](/herb/neem/)'s efficacy in treating acne, eczema, psoriasis, warts, and fungal infections through anti-inflammatory, antimicrobial, and antioxidant mechanisms, while noting the need for more rigorous clinical trials.
 - Dani PB, Ghorpade VK 2025. [Effect of Neem Leaf Paste Application on Dandruff](https://pubmed.ncbi.nlm.nih.gov/40242687/). *Cureus*. PMID [40242687](https://pubmed.ncbi.nlm.nih.gov/40242687/) · [doi:10.7759/cureus.80685](https://doi.org/10.7759/cureus.80685)  
   Clinical study demonstrated neem leaf paste application significantly reduced dandruff symptoms, validating traditional antifungal use for scalp conditions caused by Malassezia species.
 
@@ -71,9 +71,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nimba/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g bark powder daily; 400-600 mg standardized bark extract twice daily; 10-20 mL Nimbarishta after meals; 10-15 mL fresh juice
 
-**Bioavailability:** Nimbidin from bark demonstrates oral bioavailability of ~30-38%. Limonoid [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids) are lipophilic (log P >3) and benefit significantly from lipid-based formulations. Bark [tannins](/nighantu/reference/tannins/) can complex with [proteins](/nighantu/glossary/compounds-o-q/#proteins) reducing absorption of co-administered compounds. Nimbolide shows rapid absorption (Tmax 1-2 hours) but extensive hepatic metabolism.
+**Bioavailability:** Nimbidin from bark demonstrates oral bioavailability of ~30-38%. Limonoid [triterpenoids](/glossary/compounds-t-z/#triterpenoids) are lipophilic (log P >3) and benefit significantly from lipid-based formulations. Bark [tannins](/reference/tannins/) can complex with [proteins](/glossary/compounds-o-q/#proteins) reducing absorption of co-administered compounds. Nimbolide shows rapid absorption (Tmax 1-2 hours) but extensive hepatic metabolism.
 
-**Optimal Timing:** Before meals for digestive and [hepatoprotective](/nighantu/reference/hepatoprotective/) benefits. Arishtam taken post-meal (15-20 mL with equal water).
+**Optimal Timing:** Before meals for digestive and [hepatoprotective](/reference/hepatoprotective/) benefits. Arishtam taken post-meal (15-20 mL with equal water).
 
 **Standardized Extract:** Nimba bark extract (8:1) standardized to minimum 3% total bitters (as nimbidin). Nimbarishta: self-generated alcohol 5-10%, total solids 15-25% w/v, pH 3.5-4.5.
 
@@ -81,7 +81,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nimba/meta-analysis.md"
 
 **Storage:** Dry powders and extracts: below 25 deg C, RH <60%, protected from light. Arishtam: amber glass bottles, room temperature, no refrigeration needed. Do not store in reactive metal containers.
 
-**Marker Compounds:** Nimbidin, Nimbolide, Nimbin, Nimbinin, Gallic acid, [Catechin](/nighantu/reference/catechin/), Margolone, Margolonone
+**Marker Compounds:** Nimbidin, Nimbolide, Nimbin, Nimbinin, Gallic acid, [Catechin](/reference/catechin/), Margolone, Margolonone
 
 ### Extraction Methods
 
@@ -94,7 +94,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nimba/meta-analysis.md"
 ### Synergistic Combinations
 
 - Kutaja (synergistic anti-diarrheal and anti-dysenteric)
-- [Patola](/nighantu/herb/patola/) (blood purification in Tikta Rasa formulations)
-- [Guduchi](/nighantu/herb/guduchi/) (hepatoprotective combination)
-- [Haridra](/nighantu/herb/haridra/) (anti-inflammatory and skin health)
-- [Triphala](/nighantu/herb/triphala/) (comprehensive detoxification)
+- [Patola](/herb/patola/) (blood purification in Tikta Rasa formulations)
+- [Guduchi](/herb/guduchi/) (hepatoprotective combination)
+- [Haridra](/herb/haridra/) (anti-inflammatory and skin health)
+- [Triphala](/herb/triphala/) (comprehensive detoxification)

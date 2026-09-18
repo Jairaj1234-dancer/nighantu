@@ -31,15 +31,15 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mochras/meta-analysis.md"
 - Shamimicin (unique compound)
 - Bombasin and bombamalone
 - Bombamaloside (glycoside)
-- [Tannins](/nighantu/reference/tannins/) (gallic acid, ellagic acid derivatives)
-- [Flavonoids](/nighantu/reference/flavonoids/)
-- [Lupeol](/nighantu/reference/lupeol/) and beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol) ([terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids)/[sterols](/nighantu/glossary/compounds-q-t/#sterols))
+- [Tannins](/reference/tannins/) (gallic acid, ellagic acid derivatives)
+- [Flavonoids](/reference/flavonoids/)
+- [Lupeol](/reference/lupeol/) and beta-[sitosterol](/glossary/compounds-q-t/#sitosterol) ([terpenoids](/glossary/compounds-t-z/#terpenoids)/[sterols](/glossary/compounds-q-t/#sterols))
 
 ## How does it work?
 
-- Styptic and [hemostatic](/nighantu/glossary/pharmacology/#hemostatic) action through tannin-mediated protein precipitation and vasoconstriction at wound sites
+- Styptic and [hemostatic](/glossary/pharmacology/#hemostatic) action through tannin-mediated protein precipitation and vasoconstriction at wound sites
 - Anti-inflammatory activity via flavonoid-mediated inhibition of COX and LOX pathways
-- [Antioxidant](/nighantu/reference/antioxidant/) mechanism through gallic acid and ellagic acid-mediated free radical scavenging
+- [Antioxidant](/reference/antioxidant/) mechanism through gallic acid and ellagic acid-mediated free radical scavenging
 - Anti-diarrheal effect through astringent tannins reducing intestinal secretion and motility
 
 ## Which traditional uses are supported by research?
@@ -47,12 +47,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mochras/meta-analysis.md"
 - Hemostatic and styptic (Raktastambhana) - validated through astringent tannin-mediated hemostatic action in wound care
 - Anti-diarrheal (Atisara-nashaka) - confirmed through tannin-mediated reduction of intestinal secretion and hypermotility
 - Bone and tissue regeneration (Asthi-Sandhanakara) - traditional reputation as bone setter supported by anti-inflammatory and wound healing data
-- [Aphrodisiac](/nighantu/glossary/pharmacology/#aphrodisiac) ([Vajikarana](/nighantu/glossary/pharmacology/#vajikarana)) - traditional use of [Shalmali](/nighantu/herb/shalmali/) resin for sexual health partially supported by nutritional and hormonal modulation studies
+- [Aphrodisiac](/glossary/pharmacology/#aphrodisiac) ([Vajikarana](/glossary/pharmacology/#vajikarana)) - traditional use of [Shalmali](/herb/shalmali/) resin for sexual health partially supported by nutritional and hormonal modulation studies
 
 ## What do recent clinical trials show?
 
 - Kumari N, Radha, Puri S and others 2025. [Exploring the Therapeutic Potential of Bombax ceiba L. Flowers as Source of Functional Food Development: A Review](https://pubmed.ncbi.nlm.nih.gov/40825150/). *Chemistry & biodiversity*. PMID [40825150](https://pubmed.ncbi.nlm.nih.gov/40825150/) · [doi:10.1002/cbdv.202500247](https://doi.org/10.1002/cbdv.202500247)  
-  Reviewed therapeutic potential of Bombax ceiba including flowers and resin for functional food development; documented antioxidant, anti-inflammatory, and [immunomodulatory](/nighantu/reference/immunomodulatory/) properties.
+  Reviewed therapeutic potential of Bombax ceiba including flowers and resin for functional food development; documented antioxidant, anti-inflammatory, and [immunomodulatory](/reference/immunomodulatory/) properties.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
@@ -77,7 +77,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mochras/meta-analysis.md"
 
 **Storage:** Gum resin in airtight containers at room temperature; hygroscopic, protect from moisture. Bark powder below 25 deg C. Capsules in blister packs with desiccant. Topical preparations at 15-25 deg C.
 
-**Marker Compounds:** Lupeol, Shamimicin, Gallic acid, [Mangiferin](/nighantu/glossary/compounds-l-o/#mangiferin), Bombax ceiba tannins, Beta-sitosterol, Hentriacontane, [Kaempferol](/nighantu/reference/kaempferol/)
+**Marker Compounds:** Lupeol, Shamimicin, Gallic acid, [Mangiferin](/glossary/compounds-l-o/#mangiferin), Bombax ceiba tannins, Beta-sitosterol, Hentriacontane, [Kaempferol](/reference/kaempferol/)
 
 ### Extraction Methods
 
@@ -89,8 +89,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mochras/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Lodhra](/nighantu/herb/lodhra/) (hemostatic and astringent synergy)
+- [Lodhra](/herb/lodhra/) (hemostatic and astringent synergy)
 - Nagkesara (hemostatic combination)
 - Praval Pishti (astringent and cooling for bleeding disorders)
-- [Ashoka](/nighantu/herb/ashoka/) (uterine tonic and menorrhagia)
+- [Ashoka](/herb/ashoka/) (uterine tonic and menorrhagia)
 - Kutaja (antidiarrheal combination)

@@ -31,23 +31,23 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nagabala/meta-analysis.md"
 - Vanillic acid (phenolic acid)
 - Syringic acid
 - Protocatechuic acid
-- [Kaempferol](/nighantu/reference/kaempferol/) (flavonol)
+- [Kaempferol](/reference/kaempferol/) (flavonol)
 - Melilotic acid
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
-- [Tannins](/nighantu/reference/tannins/)
-- [Saponins](/nighantu/reference/saponins/)
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
+- [Tannins](/reference/tannins/)
+- [Saponins](/reference/saponins/)
 
 ## How does it work?
 
-- Nervine tonic: Phenolic acids (vanillic, syringic) and [flavonoids](/nighantu/reference/flavonoids/) cross the blood-brain barrier and provide neuroprotection through [antioxidant](/nighantu/reference/antioxidant/) activity and BDNF upregulation
+- Nervine tonic: Phenolic acids (vanillic, syringic) and [flavonoids](/reference/flavonoids/) cross the blood-brain barrier and provide neuroprotection through [antioxidant](/reference/antioxidant/) activity and BDNF upregulation
 - Anti-inflammatory: Protocatechuic acid and kaempferol inhibit COX-2, iNOS, and NF-kB-mediated inflammatory gene expression
 - Cardiotonic: Beta-sitosterol and flavonoids improve cardiac function through positive inotropic effect and reduction of myocardial oxidative stress
 
 ## Which traditional uses are supported by research?
 
-- Nervine tonic (Medhya) use partially supported by antioxidant activity in brain tissue and [neuroprotective](/nighantu/reference/neuroprotective/) properties of phenolic constituents
-- [Aphrodisiac](/nighantu/glossary/pharmacology/#aphrodisiac) and rejuvenative ([Vajikarana](/nighantu/glossary/pharmacology/#vajikarana)-[Rasayana](/nighantu/reference/rasayana/)) use based on traditional clinical evidence; awaits modern clinical validation
-- Cardiac tonic (Hridya) use supported by preliminary evidence of positive inotropic effect and [cardioprotective](/nighantu/reference/cardioprotective/) antioxidant activity
+- Nervine tonic (Medhya) use partially supported by antioxidant activity in brain tissue and [neuroprotective](/reference/neuroprotective/) properties of phenolic constituents
+- [Aphrodisiac](/glossary/pharmacology/#aphrodisiac) and rejuvenative ([Vajikarana](/glossary/pharmacology/#vajikarana)-[Rasayana](/reference/rasayana/)) use based on traditional clinical evidence; awaits modern clinical validation
+- Cardiac tonic (Hridya) use supported by preliminary evidence of positive inotropic effect and [cardioprotective](/reference/cardioprotective/) antioxidant activity
 
 ## What do recent clinical trials show?
 
@@ -62,21 +62,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nagabala/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (root powder), Kwatha (decoction), Capsules, Tablets, Taila (medicated oil), [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Lehya/Avaleha
+**Dosage Forms:** Churna (root powder), Kwatha (decoction), Capsules, Tablets, Taila (medicated oil), [Ghrita](/herb/ghrita/) (medicated ghee), Lehya/Avaleha
 
 **Standard Dosage:** 3-6 g root powder per day; 50-100 mL decoction twice daily; 500-1000 mg extract capsules daily; external oil application as needed
 
-**Bioavailability:** Ecdysteroids (20-hydroxyecdysone) show limited but consistent oral bioavailability (~10-15%). [Ephedrine](/nighantu/glossary/compounds-d-g/#ephedrine)-type alkaloids (if present in the species) have high oral bioavailability (~85-95%). Mucilaginous [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides) provide local GI effects. Oil-based preparations (Taila, Ghrita) enhance absorption of lipophilic [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids) and steroids by 2-3 fold.
+**Bioavailability:** Ecdysteroids (20-hydroxyecdysone) show limited but consistent oral bioavailability (~10-15%). [Ephedrine](/glossary/compounds-d-g/#ephedrine)-type alkaloids (if present in the species) have high oral bioavailability (~85-95%). Mucilaginous [polysaccharides](/glossary/compounds-o-q/#polysaccharides) provide local GI effects. Oil-based preparations (Taila, Ghrita) enhance absorption of lipophilic [terpenoids](/glossary/compounds-t-z/#terpenoids) and steroids by 2-3 fold.
 
 **Optimal Timing:** Morning for tonic and strength-building effects; with warm milk for Rasayana; Taila massage in evening before bed for Vata pacification; Ghrita with meals
 
-**Standardized Extract:** Root extract (10:1 hydroalcoholic) standardized to minimum 0.3% [ecdysterone](/nighantu/glossary/compounds-d-g/#ecdysterone). [Mucilage](/nighantu/glossary/compounds-l-o/#mucilage)-free dry extract for capsule filling. Nagabala Taila prepared per classical Sneha Paka method. Ghrita meeting classical endpoint criteria.
+**Standardized Extract:** Root extract (10:1 hydroalcoholic) standardized to minimum 0.3% [ecdysterone](/glossary/compounds-d-g/#ecdysterone). [Mucilage](/glossary/compounds-l-o/#mucilage)-free dry extract for capsule filling. Nagabala Taila prepared per classical Sneha Paka method. Ghrita meeting classical endpoint criteria.
 
 **Shelf Life:** Root powder: 24 months. Capsules/tablets: 24 months. Taila: 36 months. Ghrita: 24 months. Avaleha: 24 months.
 
 **Storage:** Root powder below 25 deg C in airtight containers with desiccant (hygroscopic due to mucilage). Taila in amber glass at room temperature. Ghrita in clean glass containers. Protect all forms from moisture and light.
 
-**Marker Compounds:** 20-Hydroxyecdysone (ecdysterone), Beta-sitosterol, [Stigmasterol](/nighantu/reference/stigmasterol/), [Lupeol](/nighantu/reference/lupeol/), [Friedelin](/nighantu/glossary/compounds-d-g/#friedelin), Mucilage polysaccharides, Ephedrine (species-dependent, must be declared)
+**Marker Compounds:** 20-Hydroxyecdysone (ecdysterone), Beta-sitosterol, [Stigmasterol](/reference/stigmasterol/), [Lupeol](/reference/lupeol/), [Friedelin](/glossary/compounds-d-g/#friedelin), Mucilage polysaccharides, Ephedrine (species-dependent, must be declared)
 
 ### Extraction Methods
 
@@ -89,8 +89,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nagabala/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Bala](/nighantu/herb/bala/) and [Mahabala](/nighantu/herb/mahabala/) (graduated Bala triad - Bala < Nagabala < Mahabala)
-- [Ashwagandha](/nighantu/herb/ashwagandha/) (musculoskeletal and [adaptogenic](/nighantu/reference/adaptogenic/))
+- [Bala](/herb/bala/) and [Mahabala](/herb/mahabala/) (graduated Bala triad - Bala < Nagabala < Mahabala)
+- [Ashwagandha](/herb/ashwagandha/) (musculoskeletal and [adaptogenic](/reference/adaptogenic/))
 - Dashamula (anti-Vata polyherbal)
-- [Rasna](/nighantu/herb/rasna/) (joint health combination)
-- [Eranda](/nighantu/herb/eranda/) Taila (Vata-pacifying and joint care)
+- [Rasna](/herb/rasna/) (joint health combination)
+- [Eranda](/herb/eranda/) Taila (Vata-pacifying and joint care)

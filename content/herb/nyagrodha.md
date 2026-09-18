@@ -29,31 +29,31 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nyagrodha/meta-analysis.md"
 ## Key Phytochemical Constituents
 
 - Bengalinoside (glucoside)
-- [Leucocyanidin](/nighantu/glossary/compounds-g-l/#leucocyanidin)
+- [Leucocyanidin](/glossary/compounds-g-l/#leucocyanidin)
 - Leucopelargonidin
-- [Friedelin](/nighantu/glossary/compounds-d-g/#friedelin)
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
-- [Phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols)
+- [Friedelin](/glossary/compounds-d-g/#friedelin)
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
+- [Phytosterols](/glossary/compounds-o-q/#phytosterols)
 - Bengalenol
 - Bengalenoside
 - Triterpene (penfluridol)
-- [Quercetin](/nighantu/reference/quercetinquercetin/)
-- [Rutin](/nighantu/glossary/compounds-q-t/#rutin)
+- [Quercetin](/reference/quercetinquercetin/)
+- [Rutin](/glossary/compounds-q-t/#rutin)
 - Gallic acid
 
 ## How does it work?
 
-- [Antidiabetic](/nighantu/reference/antidiabetic/) activity through leucocyanidin-mediated beta-cell regeneration and enhancement of insulin secretion
-- [Hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic) effects via inhibition of HMG-CoA reductase and upregulation of hepatic LDL receptors
+- [Antidiabetic](/reference/antidiabetic/) activity through leucocyanidin-mediated beta-cell regeneration and enhancement of insulin secretion
+- [Hypolipidemic](/glossary/pharmacology/#hypolipidemic) effects via inhibition of HMG-CoA reductase and upregulation of hepatic LDL receptors
 - Anti-inflammatory action through suppression of TNF-alpha, IL-6, and prostaglandin synthesis
-- [Immunomodulatory](/nighantu/reference/immunomodulatory/) activity via enhancement of macrophage phagocytosis and lymphocyte proliferation
+- [Immunomodulatory](/reference/immunomodulatory/) activity via enhancement of macrophage phagocytosis and lymphocyte proliferation
 
 ## Which traditional uses are supported by research?
 
 - Antidiabetic use confirmed through multiple in vivo studies demonstrating significant hypoglycemic activity
-- Anti-diarrheal and dysentery treatment validated via castor oil-induced diarrhea models and [antimicrobial](/nighantu/reference/antimicrobial/) testing
+- Anti-diarrheal and dysentery treatment validated via castor oil-induced diarrhea models and [antimicrobial](/reference/antimicrobial/) testing
 - Wound healing confirmed through excision wound models with accelerated closure and collagen synthesis
-- [Analgesic](/nighantu/reference/analgesic/) properties validated in hot plate and tail flick animal models
+- [Analgesic](/reference/analgesic/) properties validated in hot plate and tail flick animal models
 
 ## What do recent clinical trials show?
 
@@ -89,7 +89,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nyagrodha/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g bark powder daily; 20-40 mL bark decoction twice daily; 500 mg - 1 g standardized extract twice daily; topical paste as directed
 
-**Bioavailability:** Leucocyanidin and leucopelargonidin (dimeric [flavonoids](/nighantu/reference/flavonoids/)) from banyan bark show limited oral bioavailability (10-20%) due to large molecular size and hydrolysis by gut microflora. [Tannins](/nighantu/reference/tannins/) provide local GI tract effects (astringent, anti-diarrheal) without requiring systemic absorption. Beta-sitosterol has oral bioavailability of 5-10% and benefits from micellar solubilization or phytosome technology.
+**Bioavailability:** Leucocyanidin and leucopelargonidin (dimeric [flavonoids](/reference/flavonoids/)) from banyan bark show limited oral bioavailability (10-20%) due to large molecular size and hydrolysis by gut microflora. [Tannins](/reference/tannins/) provide local GI tract effects (astringent, anti-diarrheal) without requiring systemic absorption. Beta-sitosterol has oral bioavailability of 5-10% and benefits from micellar solubilization or phytosome technology.
 
 **Optimal Timing:** Bark decoction: morning and evening, between meals. For diabetes management: 30 minutes before meals. Topical applications: as needed, clean wound area first.
 
@@ -105,14 +105,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nyagrodha/meta-analysis.md"
 
 - Aqueous decoction (traditional Kwatha)
 - Hydroalcoholic extraction (50-60% ethanol)
-- Acetone-water extraction for [proanthocyanidins](/nighantu/glossary/compounds-o-q/#proanthocyanidins)
+- Acetone-water extraction for [proanthocyanidins](/glossary/compounds-o-q/#proanthocyanidins)
 - Cold maceration for tannin-rich extracts
 - Hot water extraction with spray drying for powdered extract
 
 ### Synergistic Combinations
 
-- [Ashoka](/nighantu/herb/ashoka/) (uterine tonic combination)
-- [Lodhra](/nighantu/herb/lodhra/) (gynecological formulations, leucorrhea)
-- [Udumbara](/nighantu/herb/udumbara/) (anti-hemorrhagic synergy)
+- [Ashoka](/herb/ashoka/) (uterine tonic combination)
+- [Lodhra](/herb/lodhra/) (gynecological formulations, leucorrhea)
+- [Udumbara](/herb/udumbara/) (anti-hemorrhagic synergy)
 - Kutaja (anti-diarrheal combination)
-- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (wound healing paste)
+- [Yashtimadhu](/herb/yashtimadhu/) (wound healing paste)

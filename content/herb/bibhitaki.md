@@ -53,14 +53,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Bibhitaki/meta-analysis.md"
 ## Key Phytochemical Constituents
 
 - Bellericanin
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 - Gallic acid
 - Ellagic acid
-- [Lignans](/nighantu/glossary/compounds-g-l/#lignans)
+- [Lignans](/glossary/compounds-g-l/#lignans)
 
 ## Therapeutic Actions (Karma)
 
-- [Expectorant](/nighantu/reference/expectorant/)
+- [Expectorant](/reference/expectorant/)
 - Anti-tussive
 - Astringent
 - Anti-diarrheal
@@ -69,7 +69,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Bibhitaki/meta-analysis.md"
 
 ## How is it used traditionally?
 
-One of three fruits in [Triphala](/nighantu/herb/triphala/). Specifically acts on Kapha and is best for Kasa (cough) and Swara (voice). Used in eye disorders (Netra Roga) and hair formulations.
+One of three fruits in [Triphala](/herb/triphala/). Specifically acts on Kapha and is best for Kasa (cough) and Swara (voice). Used in eye disorders (Netra Roga) and hair formulations.
 
 ## Where is it described in the classical texts?
 
@@ -79,7 +79,7 @@ One of three fruits in [Triphala](/nighantu/herb/triphala/). Specifically acts o
 
 ## Recommended Dosage
 
-Fruit powder: 3-6g/day; As part of [Triphala](/nighantu/herb/triphala/): 2-4g/day
+Fruit powder: 3-6g/day; As part of [Triphala](/herb/triphala/): 2-4g/day
 
 ## Safety, contraindications and cautions
 
@@ -120,9 +120,9 @@ Fruit powder: 3-6g/day; As part of [Triphala](/nighantu/herb/triphala/): 2-4g/da
 
 **Dosage Forms:** Churna (powder), Tablet, Capsule, Kashayam (decoction), Kwath Ghana (solid extract), Avalehya (confection), Arishta (fermented)
 
-**Standard Dosage:** 3-6g powder twice daily; 500mg-1g standardized extract; 50-100ml decoction; as part of [Triphala](/nighantu/herb/triphala/) (equal parts with [Haritaki](/nighantu/herb/haritaki/) and Amalaki)
+**Standard Dosage:** 3-6g powder twice daily; 500mg-1g standardized extract; 50-100ml decoction; as part of [Triphala](/herb/triphala/) (equal parts with [Haritaki](/herb/haritaki/) and Amalaki)
 
-**Bioavailability:** Gallic acid shows good oral bioavailability (40-60%). Ellagic acid has lower bioavailability (10-15%) due to poor solubility, but gut microbial conversion to urolithins improves systemic availability. [Tannins](/nighantu/reference/tannins/) undergo partial hydrolysis in the gut, releasing absorbable phenolic acids. Belleric acid bioavailability enhanced by lipid co-administration. Hot water extraction (decoction) improves phenolic availability compared to cold preparations.
+**Bioavailability:** Gallic acid shows good oral bioavailability (40-60%). Ellagic acid has lower bioavailability (10-15%) due to poor solubility, but gut microbial conversion to urolithins improves systemic availability. [Tannins](/reference/tannins/) undergo partial hydrolysis in the gut, releasing absorbable phenolic acids. Belleric acid bioavailability enhanced by lipid co-administration. Hot water extraction (decoction) improves phenolic availability compared to cold preparations.
 
 **Optimal Timing:** At bedtime with warm water for bowel regulation; before meals for metabolic conditions; as Triphala, at bedtime or early morning
 
@@ -132,7 +132,7 @@ Fruit powder: 3-6g/day; As part of [Triphala](/nighantu/herb/triphala/): 2-4g/da
 
 **Storage:** Cool, dry place in airtight containers. Hygroscopic powder requires moisture protection. Whole dried fruits store best. Temperature below 30°C.
 
-**Marker Compounds:** Gallic acid, Ellagic acid, Belleric acid (bellericanin), Chebulagic acid, Beta-sitosterol, Ethyl gallate, Galloyl [glucose](/nighantu/glossary/compounds-d-g/#glucose), Lignans
+**Marker Compounds:** Gallic acid, Ellagic acid, Belleric acid (bellericanin), Chebulagic acid, Beta-sitosterol, Ethyl gallate, Galloyl [glucose](/glossary/compounds-d-g/#glucose), Lignans
 
 ### Extraction Methods
 
@@ -145,7 +145,7 @@ Fruit powder: 3-6g/day; As part of [Triphala](/nighantu/herb/triphala/): 2-4g/da
 ### Synergistic Combinations
 
 - With Haritaki and Amalaki in Triphala (synergistic Tridosha balancing)
-- With [Pippali](/nighantu/herb/pippali/) for respiratory Kapha conditions
-- With [Haridra](/nighantu/herb/haridra/) for lipid-lowering formulations
-- With [Guduchi](/nighantu/herb/guduchi/) for immunomodulation
-- With [Yashtimadhu](/nighantu/herb/yashtimadhu/) for voice and throat health
+- With [Pippali](/herb/pippali/) for respiratory Kapha conditions
+- With [Haridra](/herb/haridra/) for lipid-lowering formulations
+- With [Guduchi](/herb/guduchi/) for immunomodulation
+- With [Yashtimadhu](/herb/yashtimadhu/) for voice and throat health

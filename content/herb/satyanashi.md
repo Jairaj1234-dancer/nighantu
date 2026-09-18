@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Satyanashi/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g root/whole plant powder per day; 5-10 mL seed oil externally; 50-100 mL kwatha twice daily. Use cautiously — latex is toxic in large doses.
 
-**Bioavailability:** Isoquinoline [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) ([sanguinarine](/nighantu/glossary/compounds-q-t/#sanguinarine), [berberine](/nighantu/glossary/compounds-a-c/#berberine)) show moderate oral bioavailability (25-40%). Sanguinarine undergoes extensive hepatic metabolism. Seed oil fatty acids (linoleic, oleic) have high bioavailability (>70%). Argemone oil must be distinguished from mustard oil — adulteration causes epidemic dropsy.
+**Bioavailability:** Isoquinoline [alkaloids](/glossary/compounds-1-a/#alkaloids) ([sanguinarine](/glossary/compounds-q-t/#sanguinarine), [berberine](/glossary/compounds-a-c/#berberine)) show moderate oral bioavailability (25-40%). Sanguinarine undergoes extensive hepatic metabolism. Seed oil fatty acids (linoleic, oleic) have high bioavailability (>70%). Argemone oil must be distinguished from mustard oil — adulteration causes epidemic dropsy.
 
 **Optimal Timing:** External applications: twice daily on affected areas. Internal use (where permitted): after meals under medical supervision
 
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Satyanashi/meta-analysis.md"
 
 **Storage:** Store below 25 deg C. Seed oil in amber glass bottles, nitrogen-flushed. Keep away from food products to prevent accidental contamination. Clearly label as NOT FOR INTERNAL USE (for oil preparations).
 
-**Marker Compounds:** Sanguinarine, Dihydrosanguinarine, [Berberine](/nighantu/glossary/compounds-a-c/#berberine), [Protopine](/nighantu/glossary/compounds-o-q/#protopine), Argemone oil (fatty acid profile: linoleic acid >55%)
+**Marker Compounds:** Sanguinarine, Dihydrosanguinarine, [Berberine](/glossary/compounds-a-c/#berberine), [Protopine](/glossary/compounds-o-q/#protopine), Argemone oil (fatty acid profile: linoleic acid >55%)
 
 ### Extraction Methods
 
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Satyanashi/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Haridra](/nighantu/herb/haridra/) ([antimicrobial](/nighantu/reference/antimicrobial/)-anti-inflammatory synergy for skin conditions)
-- [Neem](/nighantu/herb/neem/) (dermatological formulations)
-- [Karanja](/nighantu/herb/karanja/) (external antimicrobial applications)
+- [Haridra](/herb/haridra/) ([antimicrobial](/reference/antimicrobial/)-anti-inflammatory synergy for skin conditions)
+- [Neem](/herb/neem/) (dermatological formulations)
+- [Karanja](/herb/karanja/) (external antimicrobial applications)
 - Snuhi (latex-based formulations for warts — external only)

@@ -28,32 +28,32 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Haridra/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Curcumin](/nighantu/herb/curcumin/) (diferuloylmethane - primary bioactive polyphenol)
-- [Demethoxycurcumin](/nighantu/glossary/compounds-c-d/#demethoxycurcumin)
-- [Bisdemethoxycurcumin](/nighantu/glossary/compounds-a-c/#bisdemethoxycurcumin)
-- [Turmerone](/nighantu/glossary/compounds-t-z/#turmerone) (ar-turmerone, alpha-turmerone, beta-turmerone)
-- Curcuminoids complex (1.5-5% of [turmeric](/nighantu/herb/turmeric/) rhizome)
-- [Zingiberene](/nighantu/glossary/compounds-t-z/#zingiberene) (sesquiterpene)
-- [Curlone](/nighantu/glossary/compounds-c-d/#curlone)
+- [Curcumin](/herb/curcumin/) (diferuloylmethane - primary bioactive polyphenol)
+- [Demethoxycurcumin](/glossary/compounds-c-d/#demethoxycurcumin)
+- [Bisdemethoxycurcumin](/glossary/compounds-a-c/#bisdemethoxycurcumin)
+- [Turmerone](/glossary/compounds-t-z/#turmerone) (ar-turmerone, alpha-turmerone, beta-turmerone)
+- Curcuminoids complex (1.5-5% of [turmeric](/herb/turmeric/) rhizome)
+- [Zingiberene](/glossary/compounds-t-z/#zingiberene) (sesquiterpene)
+- [Curlone](/glossary/compounds-c-d/#curlone)
 
 ## How does it work?
 
-- NF-kB pathway suppression: [Curcumin](/nighantu/herb/curcumin/) blocks NF-kB activation by inhibiting phosphorylase kinase, suppressing 200+ genes related to inflammatory cell proliferation, cell migration, and epidermal hyperproliferation in psoriasis and dermatitis
-- Tyrosinase inhibition and MITF regulation: [Curcumin](/nighantu/herb/curcumin/) suppresses melanogenesis through dual strategies - competitive tyrosinase binding to block catalytic activity AND disrupting MITF-TYR/TRP transcriptional axis for melanin synthesis inhibition
-- MMP-1/MMP-9 collagen protection via MAPK pathway: [Curcumin](/nighantu/herb/curcumin/) reduces MMP-1 expression by blocking JNK and p38 phosphorylation in the MAPK signaling pathway, preventing type I collagen degradation and protecting dermal extracellular matrix
-- Wound healing fibroblast stimulation: [Curcumin](/nighantu/herb/curcumin/) promotes fibroblast proliferation, enhances collagen synthesis and deposition, increases vascular density at wound sites, and modulates TGF-beta signaling for accelerated tissue repair
+- NF-kB pathway suppression: [Curcumin](/herb/curcumin/) blocks NF-kB activation by inhibiting phosphorylase kinase, suppressing 200+ genes related to inflammatory cell proliferation, cell migration, and epidermal hyperproliferation in psoriasis and dermatitis
+- Tyrosinase inhibition and MITF regulation: [Curcumin](/herb/curcumin/) suppresses melanogenesis through dual strategies - competitive tyrosinase binding to block catalytic activity AND disrupting MITF-TYR/TRP transcriptional axis for melanin synthesis inhibition
+- MMP-1/MMP-9 collagen protection via MAPK pathway: [Curcumin](/herb/curcumin/) reduces MMP-1 expression by blocking JNK and p38 phosphorylation in the MAPK signaling pathway, preventing type I collagen degradation and protecting dermal extracellular matrix
+- Wound healing fibroblast stimulation: [Curcumin](/herb/curcumin/) promotes fibroblast proliferation, enhances collagen synthesis and deposition, increases vascular density at wound sites, and modulates TGF-beta signaling for accelerated tissue repair
 
 ## Which traditional uses are supported by research?
 
 - Wound healing (Vranaropana): Validated by 2025 scoping review of multiple clinical trials confirming faster wound closure, enhanced collagen deposition, and increased vascular density
-- Psoriasis treatment (Ekakushtha): Validated by RCT showing 0.5% [curcumin](/nighantu/herb/curcumin/) microemulgel significantly improved PASI scores and quality of life
+- Psoriasis treatment (Ekakushtha): Validated by RCT showing 0.5% [curcumin](/herb/curcumin/) microemulgel significantly improved PASI scores and quality of life
 - Skin brightening and complexion (Varnya): Validated by demonstrated dual tyrosinase inhibition and MITF transcriptional regulation reducing melanin synthesis
-- Anti-aging and photoprotection: Validated by 2025 research confirming UV-photoaging prevention through MMP suppression, [antioxidant](/nighantu/reference/antioxidant/) protection, and anti-inflammatory mechanisms
+- Anti-aging and photoprotection: Validated by 2025 research confirming UV-photoaging prevention through MMP suppression, [antioxidant](/reference/antioxidant/) protection, and anti-inflammatory mechanisms
 
 ## What do recent clinical trials show?
 
 - Mo Z, Yuan J, Guan X and others 2024. [Advancements in Dermatological Applications of Curcumin: Clinical Efficacy and Mechanistic Insights in the Management of Skin Disorders](https://pubmed.ncbi.nlm.nih.gov/38765192/). *Clinical, cosmetic and investigational dermatology*. PMID [38765192](https://pubmed.ncbi.nlm.nih.gov/38765192/) · [doi:10.2147/CCID.S467442](https://doi.org/10.2147/CCID.S467442)  
-  Comprehensive review demonstrated [curcumin](/nighantu/herb/curcumin/)'s significant potential for atopic dermatitis, psoriasis, chronic wounds, skin cancer, and infections through anti-inflammatory, antioxidant, [anticancer](/nighantu/reference/anticancer/), and antimicrobial mechanisms with improved PASI scores in psoriasis patients.
+  Comprehensive review demonstrated [curcumin](/herb/curcumin/)'s significant potential for atopic dermatitis, psoriasis, chronic wounds, skin cancer, and infections through anti-inflammatory, antioxidant, [anticancer](/reference/anticancer/), and antimicrobial mechanisms with improved PASI scores in psoriasis patients.
 - Parvizi MM, Arefkia A, Dehghan Y and others 2025. [A Scoping Review of Clinical Trials on the Efficacy of Curcumin and Its Formulations for Wound Healing](https://pubmed.ncbi.nlm.nih.gov/41388841/). *Journal of cosmetic dermatology*. PMID [41388841](https://pubmed.ncbi.nlm.nih.gov/41388841/) · [doi:10.1111/jocd.70615](https://doi.org/10.1111/jocd.70615)  
   Scoping review of clinical trials confirmed curcumin reduces wound healing times, improves collagen deposition, increases fibroblast and vascular density in wounds, supporting its use as a wound healing agent.
 - Nie Y, Li Y 2025. [Curcumin: a potential anti-photoaging agent](https://pubmed.ncbi.nlm.nih.gov/40395726/). *Frontiers in pharmacology*. PMID [40395726](https://pubmed.ncbi.nlm.nih.gov/40395726/) · [doi:10.3389/fphar.2025.1559032](https://doi.org/10.3389/fphar.2025.1559032)  
@@ -64,7 +64,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Haridra/meta-analysis.md"
 ## Recent safety updates
 
 - Topical curcumin is generally well-tolerated with minimal adverse effects; may cause temporary yellow staining of skin. The 0.5% microemulgel formulation showed excellent tolerability in clinical trials with no significant side effects
-- Major limitation is low oral bioavailability; enhanced formulations (nano-curcumin, liposomal curcumin, [piperine](/nighantu/reference/piperine/) combinations) improve absorption. Oral curcumin at high doses (>8g/day) may cause GI disturbance. GRAS status by FDA for food use
+- Major limitation is low oral bioavailability; enhanced formulations (nano-curcumin, liposomal curcumin, [piperine](/reference/piperine/) combinations) improve absorption. Oral curcumin at high doses (>8g/day) may cause GI disturbance. GRAS status by FDA for food use
 
 ## What is it made of?
 
@@ -109,9 +109,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Haridra/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Pippali](/nighantu/herb/pippali/) (Piper longum) for 20x bioavailability enhancement via piperine
-- With Maricha ([black pepper](/nighantu/herb/black-pepper/)) for curcumin absorption
-- With [Guduchi](/nighantu/herb/guduchi/) for immune modulation
-- With [Neem](/nighantu/herb/neem/) for skin disorders
+- With [Pippali](/herb/pippali/) (Piper longum) for 20x bioavailability enhancement via piperine
+- With Maricha ([black pepper](/herb/black-pepper/)) for curcumin absorption
+- With [Guduchi](/herb/guduchi/) for immune modulation
+- With [Neem](/herb/neem/) for skin disorders
 - With Ghee or oil for lipid-mediated absorption
 - With Amalaki for antioxidant synergy

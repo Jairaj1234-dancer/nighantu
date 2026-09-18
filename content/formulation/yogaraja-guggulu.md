@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Yogaraja-Gug
 
 | Language | Name |
 |----------|------|
-| English | Yogaraja [Guggulu](/nighantu/formulation/guggulu/)|Yogaraja Guggulu |
+| English | Yogaraja [Guggulu](/formulation/guggulu/)|Yogaraja Guggulu |
 
 ## Where is it described in the classical texts?
 
@@ -31,18 +31,18 @@ Ashtanga Hridayam (Chikitsa Sthana, Chapter 21 - Vatarakta Chikitsa); also descr
 
 ## How does it work?
 
-- Anti-inflammatory action: Guggulsterones (E and Z) from [Guggulu](/nighantu/formulation/guggulu/) inhibit NF-kB pathway and suppress pro-inflammatory cytokines (TNF-alpha, IL-1beta), reducing joint inflammation and preventing cartilage degradation
-- Muscle tissue stimulation: [Plumbagin](/nighantu/glossary/compounds-o-q/#plumbagin), an alkaloid present in Chitraka (Plumbago zeylanica), is a known stimulant of muscle tissue that enhances musculoskeletal strength
-- Joint mobility enhancement: [Guggulu](/nighantu/formulation/guggulu/)'s oleo-gum resin exhibits significant anti-arthritic properties against carrageenan-induced paw edema and adjuvant arthritis, reducing stiffness and increasing joint mobility
+- Anti-inflammatory action: Guggulsterones (E and Z) from [Guggulu](/formulation/guggulu/) inhibit NF-kB pathway and suppress pro-inflammatory cytokines (TNF-alpha, IL-1beta), reducing joint inflammation and preventing cartilage degradation
+- Muscle tissue stimulation: [Plumbagin](/glossary/compounds-o-q/#plumbagin), an alkaloid present in Chitraka (Plumbago zeylanica), is a known stimulant of muscle tissue that enhances musculoskeletal strength
+- Joint mobility enhancement: [Guggulu](/formulation/guggulu/)'s oleo-gum resin exhibits significant anti-arthritic properties against carrageenan-induced paw edema and adjuvant arthritis, reducing stiffness and increasing joint mobility
 - Vata pacification: The warm potency (Ushna Virya) and pungent taste (Katu Rasa) of multiple ingredients collectively pacify Vata dosha, the primary driver of musculoskeletal disorders in Ayurveda
-- Digestive fire enhancement: Chitraka and [Trikatu](/nighantu/herb/trikatu/) ingredients kindle Agni, preventing Ama formation that contributes to joint inflammation
+- Digestive fire enhancement: Chitraka and [Trikatu](/herb/trikatu/) ingredients kindle Agni, preventing Ama formation that contributes to joint inflammation
 
 ## Which traditional uses are supported by research?
 
 - Osteoarthritis (Sandhivata) management validated through randomized clinical trials showing 35% pain reduction and significant functional improvement
 - Musculoskeletal and nervous system disorders validated across multiple clinical observations for joint pains, gout, and rheumatoid arthritis
 - Lumbar and cervical spondylosis relief supported by clinical prescribing data and patient outcome studies
-- Ankylosing spondylitis management supported by anti-inflammatory and [immunomodulatory](/nighantu/reference/immunomodulatory/) mechanisms validated in pharmacological research
+- Ankylosing spondylitis management supported by anti-inflammatory and [immunomodulatory](/reference/immunomodulatory/) mechanisms validated in pharmacological research
 
 ## What do recent clinical trials show?
 
@@ -53,7 +53,7 @@ Ashtanga Hridayam (Chikitsa Sthana, Chapter 21 - Vatarakta Chikitsa); also descr
 
 ## Recent safety updates
 
-- Generally well tolerated; mild GI discomfort reported in some patients; [guggulu](/nighantu/formulation/guggulu/) may interact with anticoagulant and thyroid medications; avoid in known allergy to any ingredient
+- Generally well tolerated; mild GI discomfort reported in some patients; [guggulu](/formulation/guggulu/) may interact with anticoagulant and thyroid medications; avoid in known allergy to any ingredient
 - Contraindicated in pregnancy and lactation; not recommended during acute diarrhea or GI bleeding; long-term use (>6 months) requires periodic liver and kidney function monitoring
 
 ## What is it made of?
@@ -71,7 +71,7 @@ Ashtanga Hridayam (Chikitsa Sthana, Chapter 21 - Vatarakta Chikitsa); also descr
 
 **Standard Dosage:** 2 tablets twice daily for Vata/musculoskeletal
 
-**Bioavailability:** [Guggulu](/nighantu/formulation/guggulu/) resin acts as natural bioenhancer; guggulsterones have moderate oral bioavailability (~40%); lipophilic matrix aids absorption of co-formulated herbs
+**Bioavailability:** [Guggulu](/formulation/guggulu/) resin acts as natural bioenhancer; guggulsterones have moderate oral bioavailability (~40%); lipophilic matrix aids absorption of co-formulated herbs
 
 **Optimal Timing:** After meals, twice daily
 
@@ -79,7 +79,7 @@ Ashtanga Hridayam (Chikitsa Sthana, Chapter 21 - Vatarakta Chikitsa); also descr
 
 **Storage:** Airtight container, cool dry place; guggulu preparations are hygroscopic
 
-**Marker Compounds:** Guggulsterone Z, Guggulsterone E, [Piperine](/nighantu/reference/piperine/), [Embelin](/nighantu/glossary/compounds-d-g/#embelin)
+**Marker Compounds:** Guggulsterone Z, Guggulsterone E, [Piperine](/reference/piperine/), [Embelin](/glossary/compounds-d-g/#embelin)
 
 **Quality Parameters:** Weight variation ±5%, disintegration <60 min, hardness 4-8 kP, assay: Guggulsterone Z, Guggulsterone E, Piperine, Embelin, guggulsterone content
 
@@ -87,4 +87,4 @@ Ashtanga Hridayam (Chikitsa Sthana, Chapter 21 - Vatarakta Chikitsa); also descr
 
 ### Synergistic Combinations
 
-- Key herbs: Guggulu, Chitraka, [Pippali](/nighantu/herb/pippali/), [Vidanga](/nighantu/herb/vidanga/), [Trikatu](/nighantu/herb/trikatu/) + 25 herbs; guggulu potentiates anti-inflammatory and [hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic) actions
+- Key herbs: Guggulu, Chitraka, [Pippali](/herb/pippali/), [Vidanga](/herb/vidanga/), [Trikatu](/herb/trikatu/) + 25 herbs; guggulu potentiates anti-inflammatory and [hypolipidemic](/glossary/pharmacology/#hypolipidemic) actions

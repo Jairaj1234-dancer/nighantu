@@ -44,13 +44,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sthuneyaka/meta-analysis.md"
 
 **Optimal Timing:** After meals with warm water or milk; taila for external application as needed
 
-**Standardized Extract:** Aqueous-ethanolic extract (5:1), characterized by HPTLC fingerprint; standardized to NLT 2% total phenolics and NLT 1% total [flavonoids](/nighantu/reference/flavonoids/)
+**Standardized Extract:** Aqueous-ethanolic extract (5:1), characterized by HPTLC fingerprint; standardized to NLT 2% total phenolics and NLT 1% total [flavonoids](/reference/flavonoids/)
 
 **Shelf Life:** 24 months for churna; 30 months for capsules; 24 months for taila
 
 **Storage:** Store below 25 deg C in airtight containers, protected from light and moisture. Taila in amber glass bottles.
 
-**Marker Compounds:** Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Lupeol](/nighantu/reference/lupeol/), Gallic acid, Total [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) (if present), Total flavonoids
+**Marker Compounds:** Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Lupeol](/reference/lupeol/), Gallic acid, Total [alkaloids](/glossary/compounds-1-a/#alkaloids) (if present), Total flavonoids
 
 ### Extraction Methods
 
@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sthuneyaka/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Bala](/nighantu/herb/bala/) (Vatahara combinations)
-- [Eranda](/nighantu/herb/eranda/) (anti-rheumatic formulations)
-- [Rasna](/nighantu/herb/rasna/) ([analgesic](/nighantu/reference/analgesic/) and anti-inflammatory synergy)
-- [Ashwagandha](/nighantu/herb/ashwagandha/) (Balya — strength-building formulations)
+- [Bala](/herb/bala/) (Vatahara combinations)
+- [Eranda](/herb/eranda/) (anti-rheumatic formulations)
+- [Rasna](/herb/rasna/) ([analgesic](/reference/analgesic/) and anti-inflammatory synergy)
+- [Ashwagandha](/herb/ashwagandha/) (Balya — strength-building formulations)

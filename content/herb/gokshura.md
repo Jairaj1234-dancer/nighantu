@@ -29,9 +29,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Mens-Health-Vitality/Gokshura/meta-analysis
 ## How does it work?
 
 - Nitric oxide/NOS pathway: enhances relaxation of corpus cavernosum via increased NO release from endothelium and nitrergic nerve endings.
-- [Protodioscin](/nighantu/glossary/compounds-o-q/#protodioscin) (dominant steroidal saponin) binds to androgen receptors and/or [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) that metabolize androgens.
-- Increases cyclic [adenosine](/nighantu/glossary/compounds-1-a/#adenosine) monophosphate (cAMP) levels, leading to augmented secretion of dehydroepiandrosterone (DHEA).
-- [Saponins](/nighantu/reference/saponins/) suppress angiotensin II-induced vascular smooth muscle cell proliferation via inhibition of intracellular ROS production (antihyperlipidemic/antiatherosclerotic effect).
+- [Protodioscin](/glossary/compounds-o-q/#protodioscin) (dominant steroidal saponin) binds to androgen receptors and/or [enzymes](/glossary/compounds-d-g/#enzymes) that metabolize androgens.
+- Increases cyclic [adenosine](/glossary/compounds-1-a/#adenosine) monophosphate (cAMP) levels, leading to augmented secretion of dehydroepiandrosterone (DHEA).
+- [Saponins](/reference/saponins/) suppress angiotensin II-induced vascular smooth muscle cell proliferation via inhibition of intracellular ROS production (antihyperlipidemic/antiatherosclerotic effect).
 - Saponins exhibit cytotoxic effects on cancer cell lines through multiple pathways.
 
 ## What do recent clinical trials show?
@@ -54,11 +54,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Mens-Health-Vitality/Gokshura/meta-analysis
 
 **Dosage Forms:** Churna (fruit powder), Kashayam (decoction), Ghana Vati (solid extract tablet), Capsule, Kwath Ghana, Taila (medicated oil), Component of Gokshuradi formulations
 
-**Standard Dosage:** 3-6g fruit powder twice daily; 50-100ml decoction twice daily; 500mg-1g extract capsule/tablet twice daily; Gokshuradi [Guggulu](/nighantu/formulation/guggulu/)|Gokshuradi Guggulu: 2-4 tablets twice daily
+**Standard Dosage:** 3-6g fruit powder twice daily; 50-100ml decoction twice daily; 500mg-1g extract capsule/tablet twice daily; Gokshuradi [Guggulu](/formulation/guggulu/)|Gokshuradi Guggulu: 2-4 tablets twice daily
 
-**Bioavailability:** Tribulus terrestris fruit contains steroidal saponins (protodioscin, protogracillin - collectively 'Tribulus saponins'), [flavonoids](/nighantu/reference/flavonoids/), and [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) (harmine, harmaline). Protodioscin has moderate oral bioavailability (15-30%) with conversion to [diosgenin](/nighantu/glossary/compounds-d-g/#diosgenin) by gut microbiota. Furostanol saponins are converted to spirostanol forms in the GI tract. The fruit spines contain concentrated saponins. Alkaloid fraction (harmine group) has good oral bioavailability but is present in small quantities. Enhancement: saponin-phospholipid complex (phytosome); co-administration with [Trikatu](/nighantu/herb/trikatu/); SNEDDS for saponin-rich fraction.
+**Bioavailability:** Tribulus terrestris fruit contains steroidal saponins (protodioscin, protogracillin - collectively 'Tribulus saponins'), [flavonoids](/reference/flavonoids/), and [alkaloids](/glossary/compounds-1-a/#alkaloids) (harmine, harmaline). Protodioscin has moderate oral bioavailability (15-30%) with conversion to [diosgenin](/glossary/compounds-d-g/#diosgenin) by gut microbiota. Furostanol saponins are converted to spirostanol forms in the GI tract. The fruit spines contain concentrated saponins. Alkaloid fraction (harmine group) has good oral bioavailability but is present in small quantities. Enhancement: saponin-phospholipid complex (phytosome); co-administration with [Trikatu](/herb/trikatu/); SNEDDS for saponin-rich fraction.
 
-**Optimal Timing:** Before meals with warm water for urinary conditions; with milk at bedtime for reproductive health and [Rasayana](/nighantu/reference/rasayana/) effect
+**Optimal Timing:** Before meals with warm water for urinary conditions; with milk at bedtime for reproductive health and [Rasayana](/reference/rasayana/) effect
 
 **Standardized Extract:** Standardized extract NLT 40% total saponins (as protodioscin) by HPLC for concentrated capsules; NLT 20% for standard-strength tablets. Furostanol:spirostanol ratio characterization. Extract ratio 10:1 to 20:1. Kwath Ghana: 8:1 ratio.
 
@@ -66,7 +66,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Mens-Health-Vitality/Gokshura/meta-analysis
 
 **Storage:** Airtight containers below 25 deg C, protected from moisture. Saponins are relatively stable under normal storage conditions. Protect extract from excessive humidity which can cause caking.
 
-**Marker Compounds:** Protodioscin, Protogracillin, Diosgenin (aglycone), Tribulosaponin A/B, [Kaempferol](/nighantu/reference/kaempferol/), [Quercetin](/nighantu/reference/quercetinquercetin/), Harmine (trace), Tribulusamide A/B
+**Marker Compounds:** Protodioscin, Protogracillin, Diosgenin (aglycone), Tribulosaponin A/B, [Kaempferol](/reference/kaempferol/), [Quercetin](/reference/quercetinquercetin/), Harmine (trace), Tribulusamide A/B
 
 ### Extraction Methods
 
@@ -78,9 +78,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Mens-Health-Vitality/Gokshura/meta-analysis
 
 ### Synergistic Combinations
 
-- With [Guggulu](/nighantu/formulation/guggulu/) in [Gokshuradi Guggulu](/nighantu/formulation/gokshuradi-guggulu/) for urinary and renal conditions
-- With [Punarnava](/nighantu/herb/punarnava/) for [diuretic](/nighantu/reference/diuretic/) and nephroprotective synergy
-- With [Ashwagandha](/nighantu/herb/ashwagandha/) for vitality and reproductive health
-- With [Shilajit](/nighantu/herb/shilajit/) for strength-building and [adaptogenic](/nighantu/reference/adaptogenic/) combination
-- With [Varuna](/nighantu/herb/varuna/) (Crataeva) for urinary stone management
+- With [Guggulu](/formulation/guggulu/) in [Gokshuradi Guggulu](/formulation/gokshuradi-guggulu/) for urinary and renal conditions
+- With [Punarnava](/herb/punarnava/) for [diuretic](/reference/diuretic/) and nephroprotective synergy
+- With [Ashwagandha](/herb/ashwagandha/) for vitality and reproductive health
+- With [Shilajit](/herb/shilajit/) for strength-building and [adaptogenic](/reference/adaptogenic/) combination
+- With [Varuna](/herb/varuna/) (Crataeva) for urinary stone management
 - With Kapikacchu (Mucuna) for reproductive and dopaminergic synergy

@@ -28,26 +28,26 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mudgaparni/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Flavonoids](/nighantu/reference/flavonoids/) and [isoflavonoids](/nighantu/glossary/compounds-g-l/#isoflavonoids)
-- [Tannins](/nighantu/reference/tannins/)
-- [Stigmasterol](/nighantu/reference/stigmasterol/)
+- [Flavonoids](/reference/flavonoids/) and [isoflavonoids](/glossary/compounds-g-l/#isoflavonoids)
+- [Tannins](/reference/tannins/)
+- [Stigmasterol](/reference/stigmasterol/)
 - Vitamin K
 - Vitamin C (ascorbic acid)
-- [Proteins](/nighantu/glossary/compounds-o-q/#proteins) (high content)
+- [Proteins](/glossary/compounds-o-q/#proteins) (high content)
 - Alpha-pinene
-- [Carvone](/nighantu/glossary/compounds-a-c/#carvone)
-- [Pulegone](/nighantu/glossary/compounds-o-q/#pulegone)
-- [Saponins](/nighantu/reference/saponins/)
+- [Carvone](/glossary/compounds-a-c/#carvone)
+- [Pulegone](/glossary/compounds-o-q/#pulegone)
+- [Saponins](/reference/saponins/)
 
 ## How does it work?
 
-- [Hepatoprotective](/nighantu/reference/hepatoprotective/) mechanism through reduction of oxidative stress in cholestatic liver injury by enhancing endogenous [antioxidant](/nighantu/reference/antioxidant/) enzyme systems
-- [Antidiabetic](/nighantu/reference/antidiabetic/) action involving improvement of insulin sensitivity and [glucose](/nighantu/glossary/compounds-d-g/#glucose) utilization, with flavonoid fraction contributing to alpha-glucosidase inhibition
-- [Antimicrobial](/nighantu/reference/antimicrobial/) mechanism through disruption of bacterial cell membrane integrity by phenolic and tannin constituents
+- [Hepatoprotective](/reference/hepatoprotective/) mechanism through reduction of oxidative stress in cholestatic liver injury by enhancing endogenous [antioxidant](/reference/antioxidant/) enzyme systems
+- [Antidiabetic](/reference/antidiabetic/) action involving improvement of insulin sensitivity and [glucose](/glossary/compounds-d-g/#glucose) utilization, with flavonoid fraction contributing to alpha-glucosidase inhibition
+- [Antimicrobial](/reference/antimicrobial/) mechanism through disruption of bacterial cell membrane integrity by phenolic and tannin constituents
 
 ## Which traditional uses are supported by research?
 
-- Hepatoprotective property validated through preclinical studies showing protection against chemically induced liver damage, confirming traditional use in [Kamala](/nighantu/herb/kamala/) (jaundice)
+- Hepatoprotective property validated through preclinical studies showing protection against chemically induced liver damage, confirming traditional use in [Kamala](/herb/kamala/) (jaundice)
 - Antidiabetic activity experimentally confirmed with significant blood glucose reduction, supporting traditional use as a nutritive and metabolic regulator
 - Anthelmintic traditional use supported by documented antimicrobial activities against various pathogens
 
@@ -59,26 +59,26 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mudgaparni/meta-analysis.md"
 
 ## Recent safety updates
 
-- Widely consumed as a pulse (Ranmoong) in tropical regions, indicating high dietary safety; used in [Chyawanprash](/nighantu/formulation/chyawanprash/) formulation historically
+- Widely consumed as a pulse (Ranmoong) in tropical regions, indicating high dietary safety; used in [Chyawanprash](/formulation/chyawanprash/) formulation historically
 - No adverse effects reported in animal studies at doses up to 400 mg/kg; comprehensive human clinical safety data still needed
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Kwatha (decoction), Capsules, Tablets, [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Taila (medicated oil)
+**Dosage Forms:** Churna (powder), Kwatha (decoction), Capsules, Tablets, [Ghrita](/herb/ghrita/) (medicated ghee), Taila (medicated oil)
 
 **Standard Dosage:** 3-6 g whole plant powder per day; 50-100 mL decoction twice daily; 500 mg standardized extract capsules twice daily
 
-**Bioavailability:** Isoflavonoids show moderate oral bioavailability (20-30%). [Phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols) are sparingly absorbed (3-5%) but therapeutically active at gut level for cholesterol management. [Polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides) act as prebiotics without systemic absorption. [Ghrita](/nighantu/herb/ghrita/) preparations enhance bioavailability of lipophilic components.
+**Bioavailability:** Isoflavonoids show moderate oral bioavailability (20-30%). [Phytosterols](/glossary/compounds-o-q/#phytosterols) are sparingly absorbed (3-5%) but therapeutically active at gut level for cholesterol management. [Polysaccharides](/glossary/compounds-o-q/#polysaccharides) act as prebiotics without systemic absorption. [Ghrita](/herb/ghrita/) preparations enhance bioavailability of lipophilic components.
 
-**Optimal Timing:** With meals for nutritive and tonic effects; morning with warm milk for [Rasayana](/nighantu/reference/rasayana/) benefits; Ghrita with meals for reproductive health
+**Optimal Timing:** With meals for nutritive and tonic effects; morning with warm milk for [Rasayana](/reference/rasayana/) benefits; Ghrita with meals for reproductive health
 
-**Standardized Extract:** Whole plant extract (8:1 hydroalcoholic) standardized to minimum 1% total isoflavonoids. Combined [Mashaparni](/nighantu/herb/mashaparni/)-Mudgaparni extract for Jivaniya formulations. Ghrita preparation per classical protocol.
+**Standardized Extract:** Whole plant extract (8:1 hydroalcoholic) standardized to minimum 1% total isoflavonoids. Combined [Mashaparni](/herb/mashaparni/)-Mudgaparni extract for Jivaniya formulations. Ghrita preparation per classical protocol.
 
 **Shelf Life:** Dried powder: 24 months. Capsules/tablets: 24 months. Ghrita: 24 months. Taila: 36 months.
 
 **Storage:** Below 25 deg C in airtight containers. Protect from moisture and light. Ghrita in glass containers at room temperature. Taila in amber glass bottles.
 
-**Marker Compounds:** [Genistein](/nighantu/glossary/compounds-d-g/#genistein), [Daidzein](/nighantu/glossary/compounds-c-d/#daidzein), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Stigmasterol, [Vitexin](/nighantu/glossary/compounds-t-z/#vitexin), [Isovitexin](/nighantu/glossary/compounds-g-l/#isovitexin), [Galactomannan](/nighantu/glossary/compounds-d-g/#galactomannan)
+**Marker Compounds:** [Genistein](/glossary/compounds-d-g/#genistein), [Daidzein](/glossary/compounds-c-d/#daidzein), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Stigmasterol, [Vitexin](/glossary/compounds-t-z/#vitexin), [Isovitexin](/glossary/compounds-g-l/#isovitexin), [Galactomannan](/glossary/compounds-d-g/#galactomannan)
 
 ### Extraction Methods
 
@@ -90,8 +90,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mudgaparni/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Mashaparni](/nighantu/herb/mashaparni/) (classical Jivaniya Gana pair)
-- [Bala](/nighantu/herb/bala/) (strength-building tonic)
-- [Shatavari](/nighantu/herb/shatavari/) (nutritive and reproductive health)
-- [Ashwagandha](/nighantu/herb/ashwagandha/) ([adaptogenic](/nighantu/reference/adaptogenic/) synergy)
-- [Vidari](/nighantu/herb/vidari/) (nutritive Rasayana combination)
+- [Mashaparni](/herb/mashaparni/) (classical Jivaniya Gana pair)
+- [Bala](/herb/bala/) (strength-building tonic)
+- [Shatavari](/herb/shatavari/) (nutritive and reproductive health)
+- [Ashwagandha](/herb/ashwagandha/) ([adaptogenic](/reference/adaptogenic/) synergy)
+- [Vidari](/herb/vidari/) (nutritive Rasayana combination)

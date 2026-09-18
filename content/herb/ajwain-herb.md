@@ -31,7 +31,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ajwain_Herb/meta-analysis.md"
 
 **Standard Dosage:** 10-20ml fresh leaf juice twice daily; 2-4g dried leaf powder twice daily; 500mg extract capsule
 
-**Bioavailability:** Moderate bioavailability. The leaf (Coleus aromaticus / Plectranthus amboinicus, sometimes called [Ajwain](/nighantu/herb/ajwain/) ka patta) contains [thymol](/nighantu/glossary/compounds-t-z/#thymol) and [carvacrol](/nighantu/glossary/compounds-a-c/#carvacrol) in lower concentrations than seed [Ajwain](/nighantu/herb/ajwain/) but has additional [flavonoids](/nighantu/reference/flavonoids/). Fresh juice preparations show better absorption profile than dried powder. [Mucilage](/nighantu/glossary/compounds-l-o/#mucilage) content may slow but prolong absorption.
+**Bioavailability:** Moderate bioavailability. The leaf (Coleus aromaticus / Plectranthus amboinicus, sometimes called [Ajwain](/herb/ajwain/) ka patta) contains [thymol](/glossary/compounds-t-z/#thymol) and [carvacrol](/glossary/compounds-a-c/#carvacrol) in lower concentrations than seed [Ajwain](/herb/ajwain/) but has additional [flavonoids](/reference/flavonoids/). Fresh juice preparations show better absorption profile than dried powder. [Mucilage](/glossary/compounds-l-o/#mucilage) content may slow but prolong absorption.
 
 **Optimal Timing:** Warm fresh juice with honey for cough/cold — 2-3 times daily between meals
 
@@ -41,7 +41,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ajwain_Herb/meta-analysis.md"
 
 **Storage:** Fresh leaves refrigerated (2-8°C). Dried herb in airtight containers away from light and moisture. Essential oil in amber glass at 15-25°C.
 
-**Marker Compounds:** Thymol, Carvacrol, Rosmarinic acid, [Eugenol](/nighantu/glossary/compounds-d-g/#eugenol), Beta-caryophyllene, Cirsimaritin
+**Marker Compounds:** Thymol, Carvacrol, Rosmarinic acid, [Eugenol](/glossary/compounds-d-g/#eugenol), Beta-caryophyllene, Cirsimaritin
 
 ### Extraction Methods
 
@@ -52,7 +52,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ajwain_Herb/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Tulsi](/nighantu/herb/tulsi/) for respiratory infections and cough
-- With Adrak ([ginger](/nighantu/herb/ginger/)) for cold and congestion
-- With [Madhu](/nighantu/herb/madhu/) (honey) as [expectorant](/nighantu/reference/expectorant/) combination
-- With [Haridra](/nighantu/herb/haridra/) for anti-inflammatory action
+- With [Tulsi](/herb/tulsi/) for respiratory infections and cough
+- With Adrak ([ginger](/herb/ginger/)) for cold and congestion
+- With [Madhu](/herb/madhu/) (honey) as [expectorant](/reference/expectorant/) combination
+- With [Haridra](/herb/haridra/) for anti-inflammatory action

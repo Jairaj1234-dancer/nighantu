@@ -29,23 +29,23 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Changeri/meta-analysis.md"
 ## Key Phytochemical Constituents
 
 - Oxalic acid and its salts
-- [Flavonoids](/nighantu/reference/flavonoids/) ([vitexin](/nighantu/glossary/compounds-t-z/#vitexin), [isovitexin](/nighantu/glossary/compounds-g-l/#isovitexin), vitexine-2-O-beta-D-glucopyranoside)
-- [Polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides)
+- [Flavonoids](/reference/flavonoids/) ([vitexin](/glossary/compounds-t-z/#vitexin), [isovitexin](/glossary/compounds-g-l/#isovitexin), vitexine-2-O-beta-D-glucopyranoside)
+- [Polysaccharides](/glossary/compounds-o-q/#polysaccharides)
 - Essential fatty acids (stearic, palmitic, linolenic, oleic acids)
-- [Tannins](/nighantu/reference/tannins/) and [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols)
+- [Tannins](/reference/tannins/) and [polyphenols](/glossary/compounds-o-q/#polyphenols)
 - Ascorbic acid
 
 ## How does it work?
 
-- [Antioxidant](/nighantu/reference/antioxidant/) activity via flavonoid-mediated (vitexin, isovitexin) free radical scavenging and metal chelation
-- Anti-inflammatory action through inhibition of cyclooxygenase (COX) [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) and reduction of pro-inflammatory cytokines
-- [Neuroprotective](/nighantu/reference/neuroprotective/) effects via polyphenol-mediated protection against oxidative stress-induced neuronal damage
-- [Antimicrobial](/nighantu/reference/antimicrobial/) activity through disruption of microbial cell membranes by organic acids and phenolic compounds
+- [Antioxidant](/reference/antioxidant/) activity via flavonoid-mediated (vitexin, isovitexin) free radical scavenging and metal chelation
+- Anti-inflammatory action through inhibition of cyclooxygenase (COX) [enzymes](/glossary/compounds-d-g/#enzymes) and reduction of pro-inflammatory cytokines
+- [Neuroprotective](/reference/neuroprotective/) effects via polyphenol-mediated protection against oxidative stress-induced neuronal damage
+- [Antimicrobial](/reference/antimicrobial/) activity through disruption of microbial cell membranes by organic acids and phenolic compounds
 
 ## Which traditional uses are supported by research?
 
 - Anti-inflammatory and wound healing (Shotha-hara) - validated through multiple in vivo anti-inflammatory studies
-- [Antipyretic](/nighantu/reference/antipyretic/) and cooling (Jvarahara, Pittahara) - confirmed through pharmacological studies showing significant fever reduction
+- [Antipyretic](/reference/antipyretic/) and cooling (Jvarahara, Pittahara) - confirmed through pharmacological studies showing significant fever reduction
 - Digestive disorders and diarrhea (Atisara-nashaka) - antimicrobial and astringent properties support traditional antidiarrheal use
 - Eye conditions (Netra-roga) - traditional eye drops use partially supported by anti-inflammatory and antimicrobial data
 
@@ -77,7 +77,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Changeri/meta-analysis.md"
 
 **Storage:** Fresh juice refrigerated at 2-8°C in glass containers. Dried material in airtight containers protected from moisture and light.
 
-**Marker Compounds:** Oxalic acid, Vitexin, Isovitexin, Ascorbic acid (vitamin C), Tartaric acid, [Citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Gallic acid
+**Marker Compounds:** Oxalic acid, Vitexin, Isovitexin, Ascorbic acid (vitamin C), Tartaric acid, [Citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Gallic acid
 
 ### Extraction Methods
 
@@ -90,7 +90,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Changeri/meta-analysis.md"
 ### Synergistic Combinations
 
 - With Amalaki for vitamin C synergy and Pitta pacification
-- With [Guduchi](/nighantu/herb/guduchi/) for fever management
-- With [Haridra](/nighantu/herb/haridra/) for anti-inflammatory formulations
+- With [Guduchi](/herb/guduchi/) for fever management
+- With [Haridra](/herb/haridra/) for anti-inflammatory formulations
 - With Kutaja for diarrhea management
-- With [Durva](/nighantu/herb/durva/) for bleeding disorders
+- With [Durva](/herb/durva/) for bleeding disorders

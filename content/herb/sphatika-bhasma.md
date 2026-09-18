@@ -23,21 +23,21 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Sphatika-Bhasma/meta
 
 | Language | Name |
 |----------|------|
-| English | [Sphatika Bhasma](/nighantu/herb/sphatika-bhasma/) |
+| English | [Sphatika Bhasma](/herb/sphatika-bhasma/) |
 
 ## Key Phytochemical Constituents
 
-- [Potassium](/nighantu/glossary/compounds-o-q/#potassium) aluminium sulfate (KAl(SO4)2) in dehydrated form
+- [Potassium](/glossary/compounds-o-q/#potassium) aluminium sulfate (KAl(SO4)2) in dehydrated form
 - Aluminium oxide (Al2O3) from thermal decomposition
 - Potassium sulfate (K2SO4)
-- Trace iron, [silica](/nighantu/glossary/compounds-q-t/#silica)
+- Trace iron, [silica](/glossary/compounds-q-t/#silica)
 - Residual water of crystallization in small amounts
 
 ## How does it work?
 
 - Astringent action through aluminium-mediated protein precipitation on tissue surfaces, causing contraction of blood vessels and mucous membranes to control bleeding
-- Broad-spectrum [antimicrobial](/nighantu/reference/antimicrobial/) effect through disruption of bacterial cell walls and inhibition of enzymatic processes; superior anti-biofilm activity compared to raw alum
-- Styptic ([hemostatic](/nighantu/glossary/pharmacology/#hemostatic)) action through local vasoconstriction and platelet aggregation promotion at wound sites, controlling hemorrhage
+- Broad-spectrum [antimicrobial](/reference/antimicrobial/) effect through disruption of bacterial cell walls and inhibition of enzymatic processes; superior anti-biofilm activity compared to raw alum
+- Styptic ([hemostatic](/glossary/pharmacology/#hemostatic)) action through local vasoconstriction and platelet aggregation promotion at wound sites, controlling hemorrhage
 - Kapha-reducing action through drying and astringent properties that reduce excessive secretions in respiratory and digestive tracts
 
 ## Which traditional uses are supported by research?

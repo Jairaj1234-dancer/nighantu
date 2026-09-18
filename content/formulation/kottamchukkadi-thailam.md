@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kottamchukk
 
 | Language | Name |
 |----------|------|
-| English | [Kottamchukkadi Thailam](/nighantu/formulation/kottamchukkadi-thailam/) |
+| English | [Kottamchukkadi Thailam](/formulation/kottamchukkadi-thailam/) |
 
 ## Where is it described in the classical texts?
 
@@ -32,8 +32,8 @@ Sahasrayogam (Taila Prakarana). A signature Kerala Ayurvedic formulation for Vat
 ## How does it work?
 
 - COX-2 enzyme inhibition by oil extract constituents leads to reduced prostaglandin formation and localized anti-inflammatory action at joint tissues
-- [Piperine](/nighantu/reference/piperine/) from [Pippali](/nighantu/herb/pippali/) (long pepper) acts as a bioenhancer, increasing transdermal absorption of other active constituents by up to 40% through disruption of keratinocyte lipid bilayer
-- Gingerols and shogaols from dry [ginger](/nighantu/herb/ginger/) inhibit leukotriene biosynthesis and TNF-alpha production, providing dual anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) effects
+- [Piperine](/reference/piperine/) from [Pippali](/herb/pippali/) (long pepper) acts as a bioenhancer, increasing transdermal absorption of other active constituents by up to 40% through disruption of keratinocyte lipid bilayer
+- Gingerols and shogaols from dry [ginger](/herb/ginger/) inhibit leukotriene biosynthesis and TNF-alpha production, providing dual anti-inflammatory and [analgesic](/reference/analgesic/) effects
 - Tamarind juice (acidic medium) and curd (lactic acid) lower the pH of the formulation, enhancing solubility and absorption of alkaloid compounds through the skin
 
 ## Which traditional uses are supported by research?
@@ -50,7 +50,7 @@ Sahasrayogam (Taila Prakarana). A signature Kerala Ayurvedic formulation for Vat
 
 ## Recent safety updates
 
-- Generally well-tolerated externally. May cause warming sensation or mild redness in sensitive individuals due to [ginger](/nighantu/herb/ginger/) and garlic content. Avoid application on open wounds, cuts, or broken skin. Patch test recommended before first use.
+- Generally well-tolerated externally. May cause warming sensation or mild redness in sensitive individuals due to [ginger](/herb/ginger/) and garlic content. Avoid application on open wounds, cuts, or broken skin. Patch test recommended before first use.
 - Not recommended for individuals with garlic or mustard allergies. Large-scale double-blind trials are lacking, particularly for diabetic neuropathy and fibromyalgia applications. Avoid in acute pitta-inflammatory skin conditions. Keep away from eyes and mucous membranes.
 
 ## What is it made of?
@@ -68,7 +68,7 @@ Sahasrayogam (Taila Prakarana). A signature Kerala Ayurvedic formulation for Vat
 
 **Standard Dosage:** External application: sufficient quantity for local massage, 1-2 times daily, as per Sahasrayogam
 
-**Bioavailability:** Oil base provides excellent transdermal delivery of [costunolide](/nighantu/glossary/compounds-c-d/#costunolide) (sesquiterpene lactone) and [gingerol](/nighantu/glossary/compounds-d-g/#gingerol)/shogaol derivatives. Counter-irritant effect of [ginger](/nighantu/herb/ginger/) compounds increases local blood flow enhancing drug penetration. Massage application further enhances absorption through mechanical action.
+**Bioavailability:** Oil base provides excellent transdermal delivery of [costunolide](/glossary/compounds-c-d/#costunolide) (sesquiterpene lactone) and [gingerol](/glossary/compounds-d-g/#gingerol)/shogaol derivatives. Counter-irritant effect of [ginger](/herb/ginger/) compounds increases local blood flow enhancing drug penetration. Massage application further enhances absorption through mechanical action.
 
 **Optimal Timing:** Morning and/or evening for joint pain, arthritis, and musculoskeletal conditions. Warm oil application preferred.
 
@@ -76,15 +76,15 @@ Sahasrayogam (Taila Prakarana). A signature Kerala Ayurvedic formulation for Vat
 
 **Storage:** Store in amber glass or HDPE bottles in a cool, dry place. Temperature not exceeding 25°C. Protect from light.
 
-**Marker Compounds:** Costunolide, Dehydrocostuslactone, 6-Shogaol, 6-Gingerol, [Sesamin](/nighantu/glossary/compounds-q-t/#sesamin), [Cedrene](/nighantu/glossary/compounds-c-d/#cedrene) (from [Devadaru](/nighantu/herb/devadaru/))
+**Marker Compounds:** Costunolide, Dehydrocostuslactone, 6-Shogaol, 6-Gingerol, [Sesamin](/glossary/compounds-q-t/#sesamin), [Cedrene](/glossary/compounds-c-d/#cedrene) (from [Devadaru](/herb/devadaru/))
 
-**Quality Parameters:** Acid value (<5), peroxide value (<10), saponification value, refractive index, specific gravity, costunolide content by HPLC, 6-shogaol content (from dried [ginger](/nighantu/herb/ginger/)), total sesquiterpene lactones, rancidity test negative, HPTLC fingerprint, microbial limits, heavy metals
+**Quality Parameters:** Acid value (<5), peroxide value (<10), saponification value, refractive index, specific gravity, costunolide content by HPLC, 6-shogaol content (from dried [ginger](/herb/ginger/)), total sesquiterpene lactones, rancidity test negative, HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Not applicable — external use only. Warm oil for massage.
 
 ### Synergistic Combinations
 
-- [Dhanwantaram Thailam](/nighantu/formulation/dhanwantaram-thailam/)
-- [Kshirabala Thailam](/nighantu/formulation/kshirabala-thailam/)
-- [Sahacharadi Thailam](/nighantu/formulation/sahacharadi-thailam/)
-- [Murivenna](/nighantu/formulation/murivenna/)
+- [Dhanwantaram Thailam](/formulation/dhanwantaram-thailam/)
+- [Kshirabala Thailam](/formulation/kshirabala-thailam/)
+- [Sahacharadi Thailam](/formulation/sahacharadi-thailam/)
+- [Murivenna](/formulation/murivenna/)

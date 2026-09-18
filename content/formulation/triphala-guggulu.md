@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Triphala-Gug
 
 | Language | Name |
 |----------|------|
-| English | Triphala [Guggulu](/nighantu/formulation/guggulu/)|[Triphala](/nighantu/herb/triphala/) Guggulu |
+| English | Triphala [Guggulu](/formulation/guggulu/)|[Triphala](/herb/triphala/) Guggulu |
 
 ## Where is it described in the classical texts?
 
@@ -31,18 +31,18 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also described in Sushruta Sa
 
 ## How does it work?
 
-- Adipogenesis inhibition: [Triphala](/nighantu/herb/triphala/) [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) suppress the PI3K/Akt signaling pathway and downregulate PPARG and C/EBPalpha transcription factors, inhibiting fat cell differentiation and proliferation
-- Lipid metabolism regulation: Guggulsterones act as FXR antagonists promoting bile acid synthesis and cholesterol excretion; [Triphala](/nighantu/herb/triphala/) components reduce LDL-C, total cholesterol, and triglycerides while increasing HDL
-- Anti-inflammatory and [antioxidant](/nighantu/reference/antioxidant/): Gallic acid, ellagic acid, and chebulagic acid from [Triphala](/nighantu/herb/triphala/) reduce IL-6, CRP, and MDA levels while enhancing SOD and adiponectin
-- Gut microbiome modulation: [Triphala](/nighantu/herb/triphala/) promotes growth of beneficial bacteria (Bifidobacterium, Lactobacillus) while inhibiting pathogenic bacteria, improving metabolic function
-- Neurotransmitter regulation: Animal studies show increased [serotonin](/nighantu/glossary/compounds-q-t/#serotonin) and dopamine levels, suggesting regulation of appetite and mood pathways relevant to obesity
+- Adipogenesis inhibition: [Triphala](/herb/triphala/) [polyphenols](/glossary/compounds-o-q/#polyphenols) suppress the PI3K/Akt signaling pathway and downregulate PPARG and C/EBPalpha transcription factors, inhibiting fat cell differentiation and proliferation
+- Lipid metabolism regulation: Guggulsterones act as FXR antagonists promoting bile acid synthesis and cholesterol excretion; [Triphala](/herb/triphala/) components reduce LDL-C, total cholesterol, and triglycerides while increasing HDL
+- Anti-inflammatory and [antioxidant](/reference/antioxidant/): Gallic acid, ellagic acid, and chebulagic acid from [Triphala](/herb/triphala/) reduce IL-6, CRP, and MDA levels while enhancing SOD and adiponectin
+- Gut microbiome modulation: [Triphala](/herb/triphala/) promotes growth of beneficial bacteria (Bifidobacterium, Lactobacillus) while inhibiting pathogenic bacteria, improving metabolic function
+- Neurotransmitter regulation: Animal studies show increased [serotonin](/glossary/compounds-q-t/#serotonin) and dopamine levels, suggesting regulation of appetite and mood pathways relevant to obesity
 
 ## Which traditional uses are supported by research?
 
 - Anti-obesity effects validated through systematic review and meta-analysis (2025) and molecular mechanism studies confirming PI3K/Akt pathway modulation
 - Lipid-lowering activity validated in multiple RCTs showing reduction in LDL-C, total cholesterol, and triglycerides in treated groups
-- Digestive regulation and Ama elimination validated through prebiotic effects on gut microbiome and [laxative](/nighantu/reference/laxative/) action
-- Metabolic syndrome management supported by demonstrated effects on [glucose](/nighantu/glossary/compounds-d-g/#glucose), leptin, adiponectin, and inflammatory markers in animal models
+- Digestive regulation and Ama elimination validated through prebiotic effects on gut microbiome and [laxative](/reference/laxative/) action
+- Metabolic syndrome management supported by demonstrated effects on [glucose](/glossary/compounds-d-g/#glucose), leptin, adiponectin, and inflammatory markers in animal models
 
 ## What do recent clinical trials show?
 
@@ -56,7 +56,7 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also described in Sushruta Sa
 ## Recent safety updates
 
 - No serious adverse events reported across clinical trials; mild GI symptoms (loose stools) may occur due to laxative effect of Triphala; avoid in pregnancy, lactation, and severe dehydration
-- Large well-designed RCTs still required to confirm long-term efficacy and safety; [guggulu](/nighantu/formulation/guggulu/) component may interact with anticoagulant and thyroid medications; discontinue 2 weeks before surgery
+- Large well-designed RCTs still required to confirm long-term efficacy and safety; [guggulu](/formulation/guggulu/) component may interact with anticoagulant and thyroid medications; discontinue 2 weeks before surgery
 
 ## What is it made of?
 
@@ -73,15 +73,15 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also described in Sushruta Sa
 
 **Standard Dosage:** 2 tablets twice daily
 
-**Bioavailability:** [Guggulu](/nighantu/formulation/guggulu/) resin acts as natural bioenhancer; guggulsterones have moderate oral bioavailability (~40%); lipophilic matrix aids absorption of co-formulated herbs
+**Bioavailability:** [Guggulu](/formulation/guggulu/) resin acts as natural bioenhancer; guggulsterones have moderate oral bioavailability (~40%); lipophilic matrix aids absorption of co-formulated herbs
 
 **Optimal Timing:** After meals, twice daily
 
-**Shelf Life:** 2 years ([guggulu](/nighantu/formulation/guggulu/) preparations per ASU); potency may decrease after 1 year
+**Shelf Life:** 2 years ([guggulu](/formulation/guggulu/) preparations per ASU); potency may decrease after 1 year
 
 **Storage:** Airtight container, cool dry place; guggulu preparations are hygroscopic
 
-**Marker Compounds:** Guggulsterone, Gallic acid, [Piperine](/nighantu/reference/piperine/)
+**Marker Compounds:** Guggulsterone, Gallic acid, [Piperine](/reference/piperine/)
 
 **Quality Parameters:** Weight variation ±5%, disintegration <60 min, hardness 4-8 kP, assay: Guggulsterone, Gallic acid, Piperine, guggulsterone content
 
@@ -89,4 +89,4 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also described in Sushruta Sa
 
 ### Synergistic Combinations
 
-- Key herbs: Triphala, Guggulu, [Pippali](/nighantu/herb/pippali/); guggulu potentiates anti-inflammatory and [hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic) actions
+- Key herbs: Triphala, Guggulu, [Pippali](/herb/pippali/); guggulu potentiates anti-inflammatory and [hypolipidemic](/glossary/pharmacology/#hypolipidemic) actions

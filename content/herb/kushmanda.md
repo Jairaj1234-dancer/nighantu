@@ -29,30 +29,30 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kushmanda/meta-analysis.md"
 ## Key Phytochemical Constituents
 
 - Bryonolic acid (pentacyclic triterpene)
-- [Lupeol](/nighantu/reference/lupeol/)
+- [Lupeol](/reference/lupeol/)
 - Alnusenol
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 - Isomultiflorenol
 - Multiflorenol
 - Hispidacin (flavonoid)
-- Volatile oils and [cucurbitacins](/nighantu/glossary/compounds-c-d/#cucurbitacins) (trace)
+- Volatile oils and [cucurbitacins](/glossary/compounds-c-d/#cucurbitacins) (trace)
 
 ## How does it work?
 
-- [Neuroprotective](/nighantu/reference/neuroprotective/): [Triterpenes](/nighantu/glossary/compounds-t-z/#triterpenes) and [flavonoids](/nighantu/reference/flavonoids/) restore acetylcholine, dopamine, and [serotonin](/nighantu/glossary/compounds-q-t/#serotonin) levels; reduce oxidative stress (MDA) and enhance [antioxidant](/nighantu/reference/antioxidant/) defenses (SOD, catalase, GSH) in neuronal tissue
+- [Neuroprotective](/reference/neuroprotective/): [Triterpenes](/glossary/compounds-t-z/#triterpenes) and [flavonoids](/reference/flavonoids/) restore acetylcholine, dopamine, and [serotonin](/glossary/compounds-q-t/#serotonin) levels; reduce oxidative stress (MDA) and enhance [antioxidant](/reference/antioxidant/) defenses (SOD, catalase, GSH) in neuronal tissue
 - Anti-inflammatory: Lupeol and bryonolic acid inhibit COX-2, iNOS, and NF-kB-mediated inflammatory cascades
-- Nephroprotective: Triterpenes and [sterols](/nighantu/glossary/compounds-q-t/#sterols) reduce renal oxidative stress, inhibit calcium oxalate crystallization, and protect tubular epithelium
+- Nephroprotective: Triterpenes and [sterols](/glossary/compounds-q-t/#sterols) reduce renal oxidative stress, inhibit calcium oxalate crystallization, and protect tubular epithelium
 
 ## Which traditional uses are supported by research?
 
 - Neuroprotective and Medhya (intellect-promoting) use validated through restoration of neurotransmitter levels in Alzheimer's disease animal model
 - Anti-ulcer use confirmed by gastroprotective activity through reduction of gastric acid secretion and enhancement of mucosal defense
-- [Diuretic](/nighantu/reference/diuretic/) and nephroprotective use (Mutrala) supported by increased urine output and renal stone dissolution activity
+- [Diuretic](/reference/diuretic/) and nephroprotective use (Mutrala) supported by increased urine output and renal stone dissolution activity
 
 ## What do recent clinical trials show?
 
 - Islam MT, Quispe C, El-Kersh DM and others 2021. [A Literature-Based Update on Benincasa hispida (Thunb.) Cogn.: Traditional Uses, Nutraceutical, and Phytopharmacological Profiles](https://pubmed.ncbi.nlm.nih.gov/34925698/). *Oxidative medicine and cellular longevity*. PMID [34925698](https://pubmed.ncbi.nlm.nih.gov/34925698/) · [doi:10.1155/2021/6349041](https://doi.org/10.1155/2021/6349041)  
-  Comprehensive review documenting antioxidant, anti-inflammatory, [analgesic](/nighantu/reference/analgesic/), anti-asthmatic, diuretic, nephroprotective, [antidiabetic](/nighantu/reference/antidiabetic/), [hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic), and [antimicrobial](/nighantu/reference/antimicrobial/) effects.
+  Comprehensive review documenting antioxidant, anti-inflammatory, [analgesic](/reference/analgesic/), anti-asthmatic, diuretic, nephroprotective, [antidiabetic](/reference/antidiabetic/), [hypolipidemic](/glossary/pharmacology/#hypolipidemic), and [antimicrobial](/reference/antimicrobial/) effects.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
@@ -63,21 +63,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kushmanda/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Swarasa (fresh juice), Avaleha ([Kushmanda Avaleha](/nighantu/glossary/concepts-a-m/#kushmanda-avaleha)/Rasayana), Churna (powder), Capsule, [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Peya (thin gruel)
+**Dosage Forms:** Swarasa (fresh juice), Avaleha ([Kushmanda Avaleha](/glossary/concepts-a-m/#kushmanda-avaleha)/Rasayana), Churna (powder), Capsule, [Ghrita](/herb/ghrita/) (medicated ghee), Peya (thin gruel)
 
 **Standard Dosage:** 20-40 mL fresh juice daily; 10-20 g Kushmanda Avaleha twice daily; 3-5 g powder; 5-10 g Ghrita
 
-**Bioavailability:** Cucurbitane [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids) have moderate oral bioavailability enhanced by lipid co-administration. Vitamin C and B-complex [vitamins](/nighantu/glossary/compounds-t-z/#vitamins) are readily absorbed. [Pectin](/nighantu/glossary/compounds-o-q/#pectin) and dietary fiber moderate glycemic response. Avaleha form (with ghee, sugar, honey) provides an optimized delivery matrix — ghee enhances lipophilic absorption, sugar acts as preservative, honey provides enzymatic activity. Alonusin and [isovitexin](/nighantu/glossary/compounds-g-l/#isovitexin) show improved bioavailability in Ghrita formulation.
+**Bioavailability:** Cucurbitane [triterpenoids](/glossary/compounds-t-z/#triterpenoids) have moderate oral bioavailability enhanced by lipid co-administration. Vitamin C and B-complex [vitamins](/glossary/compounds-t-z/#vitamins) are readily absorbed. [Pectin](/glossary/compounds-o-q/#pectin) and dietary fiber moderate glycemic response. Avaleha form (with ghee, sugar, honey) provides an optimized delivery matrix — ghee enhances lipophilic absorption, sugar acts as preservative, honey provides enzymatic activity. Alonusin and [isovitexin](/glossary/compounds-g-l/#isovitexin) show improved bioavailability in Ghrita formulation.
 
 **Optimal Timing:** Avaleha: morning on empty stomach or twice daily for Rasayana (rejuvenation) therapy; juice: morning; Ghrita: before meals with warm water
 
-**Standardized Extract:** Fruit extract standardized to minimum 0.5% cucurbitacins and 2% total [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols); Avaleha as per API specifications for Kushmanda Avaleha
+**Standardized Extract:** Fruit extract standardized to minimum 0.5% cucurbitacins and 2% total [polyphenols](/glossary/compounds-o-q/#polyphenols); Avaleha as per API specifications for Kushmanda Avaleha
 
 **Shelf Life:** 24 hours for fresh juice; 24 months for Avaleha (sugar-preserved); 18 months for powder; 12 months for Ghrita; 24 months for capsules
 
 **Storage:** Fresh fruit and juice require refrigeration (2-8°C). Avaleha in glass jars at 15-30°C (sugar acts as natural preservative). Ghrita in airtight glass containers at room temperature. Powder in moisture-proof containers.
 
-**Marker Compounds:** Alonusin, Isovitexin, Cucurbitacin B, Cucurbitacin E, [Luteolin](/nighantu/glossary/compounds-l-o/#luteolin)-7-glucoside, Vitamin C, Beta-carotene, Pectin
+**Marker Compounds:** Alonusin, Isovitexin, Cucurbitacin B, Cucurbitacin E, [Luteolin](/glossary/compounds-l-o/#luteolin)-7-glucoside, Vitamin C, Beta-carotene, Pectin
 
 ### Extraction Methods
 
@@ -89,8 +89,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kushmanda/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Brahmi](/nighantu/herb/brahmi/) for cognitive enhancement (Medhya Rasayana)
-- [Ashwagandha](/nighantu/herb/ashwagandha/) for comprehensive rejuvenation
-- [Yashtimadhu](/nighantu/herb/yashtimadhu/) for gastric ulcer protection
+- [Brahmi](/herb/brahmi/) for cognitive enhancement (Medhya Rasayana)
+- [Ashwagandha](/herb/ashwagandha/) for comprehensive rejuvenation
+- [Yashtimadhu](/herb/yashtimadhu/) for gastric ulcer protection
 - Amalaki for antioxidant potentiation
-- Shankhapushpi for [anxiolytic](/nighantu/reference/anxiolytic/) and [nootropic](/nighantu/glossary/pharmacology/#nootropic) synergy
+- Shankhapushpi for [anxiolytic](/reference/anxiolytic/) and [nootropic](/glossary/pharmacology/#nootropic) synergy

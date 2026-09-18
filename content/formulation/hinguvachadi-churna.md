@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Hinguvachadi-Chur
 
 | Language | Name |
 |----------|------|
-| English | [Hinguvachadi Churna](/nighantu/formulation/hinguvachadi-churna/) |
+| English | [Hinguvachadi Churna](/formulation/hinguvachadi-churna/) |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Hinguvachadi-Chur
 
 **Standard Dosage:** 1-3 g twice daily before meals with warm water, as per Sahasrayogam
 
-**Bioavailability:** [Hingu](/nighantu/herb/hingu/) volatile oils (ferulic acid esters) are rapidly absorbed and provide quick Vata-Kapha pacifying action. [Piperine](/nighantu/reference/piperine/) from [Trikatu](/nighantu/herb/trikatu/) enhances absorption. [Vacha](/nighantu/herb/vacha/) (calamus) beta-asarone crosses BBB but must be within safety limits.
+**Bioavailability:** [Hingu](/herb/hingu/) volatile oils (ferulic acid esters) are rapidly absorbed and provide quick Vata-Kapha pacifying action. [Piperine](/reference/piperine/) from [Trikatu](/herb/trikatu/) enhances absorption. [Vacha](/herb/vacha/) (calamus) beta-asarone crosses BBB but must be within safety limits.
 
 **Optimal Timing:** Before meals (Bhojana-purva), 15-30 minutes before food, for Agnimandya (poor digestion) and Adhmana (bloating)
 
@@ -57,7 +57,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Hinguvachadi-Chur
 
 **Storage:** Store in airtight containers in a cool, dry place. Strong aromatic odour — requires sealed packaging. Temperature not exceeding 30°C.
 
-**Marker Compounds:** Ferulic acid, Farnesiferol A-C (from [Hingu](/nighantu/herb/hingu/)), Beta-asarone (from [Vacha](/nighantu/herb/vacha/)), Piperine, 6-[Gingerol](/nighantu/glossary/compounds-d-g/#gingerol)
+**Marker Compounds:** Ferulic acid, Farnesiferol A-C (from [Hingu](/herb/hingu/)), Beta-asarone (from [Vacha](/herb/vacha/)), Piperine, 6-[Gingerol](/glossary/compounds-d-g/#gingerol)
 
 **Quality Parameters:** Loss on drying (<8%), total ash, acid-insoluble ash, particle size (pass sieve #85), ferulic acid content from Hingu by HPLC, beta-asarone from Vacha (within safety limits <10 mg/kg), piperine content, volatile oil content, HPTLC fingerprint, microbial limits, heavy metals
 
@@ -65,7 +65,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Hinguvachadi-Chur
 
 ### Synergistic Combinations
 
-- [Hingwashtak Churna](/nighantu/formulation/hingwashtak-churna/)
-- [Agnitundi Vati](/nighantu/formulation/agnitundi-vati/)
-- [Chitrakadi Vati](/nighantu/formulation/chitrakadi-vati/)
+- [Hingwashtak Churna](/formulation/hingwashtak-churna/)
+- [Agnitundi Vati](/formulation/agnitundi-vati/)
+- [Chitrakadi Vati](/formulation/chitrakadi-vati/)
 - Lavanbhaskar Churna

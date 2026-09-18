@@ -27,20 +27,20 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Saraswa
 
 ## Where is it described in the classical texts?
 
-Charaka Samhita and Sushruta Samhita. Originally classified as a Medhya [Rasayana](/nighantu/reference/rasayana/) (mind rejuvenator) from the Vedic period (circa 1000 BCE). Used in classical texts for neurological imbalances including neurosis, psychosis, epilepsy, and stuttering.
+Charaka Samhita and Sushruta Samhita. Originally classified as a Medhya [Rasayana](/reference/rasayana/) (mind rejuvenator) from the Vedic period (circa 1000 BCE). Used in classical texts for neurological imbalances including neurosis, psychosis, epilepsy, and stuttering.
 
 ## How does it work?
 
-- Cholinergic modulation by [Brahmi](/nighantu/herb/brahmi/) and Shankhapushpi enhances acetylcholine levels, improving memory and cognition
-- BDNF (Brain-Derived Neurotrophic Factor) boosting by [Ashwagandha](/nighantu/herb/ashwagandha/) supports synaptic plasticity and neuroprotection
-- GABAergic and serotonergic modulation by [Vacha](/nighantu/herb/vacha/) and [Brahmi](/nighantu/herb/brahmi/) produces [anxiolytic](/nighantu/reference/anxiolytic/) and anti-epileptic effects
-- [Neuroprotective](/nighantu/reference/neuroprotective/) action through [antioxidant](/nighantu/reference/antioxidant/) compounds reduces oxidative stress in neural tissue
+- Cholinergic modulation by [Brahmi](/herb/brahmi/) and Shankhapushpi enhances acetylcholine levels, improving memory and cognition
+- BDNF (Brain-Derived Neurotrophic Factor) boosting by [Ashwagandha](/herb/ashwagandha/) supports synaptic plasticity and neuroprotection
+- GABAergic and serotonergic modulation by [Vacha](/herb/vacha/) and [Brahmi](/herb/brahmi/) produces [anxiolytic](/reference/anxiolytic/) and anti-epileptic effects
+- [Neuroprotective](/reference/neuroprotective/) action through [antioxidant](/reference/antioxidant/) compounds reduces oxidative stress in neural tissue
 
 ## Which traditional uses are supported by research?
 
 - Memory enhancement and cognitive support - validated by mouse model studies and clinical trial (n=100)
 - Speech disorders and stuttering in children - traditional use supported by cholinergic modulation mechanisms
-- Anxiety and mental fatigue - corroborated by GABA/[serotonin](/nighantu/glossary/compounds-q-t/#serotonin) modulation studies
+- Anxiety and mental fatigue - corroborated by GABA/[serotonin](/glossary/compounds-q-t/#serotonin) modulation studies
 - Epilepsy (adjunct) - supported by network pharmacology identifying anticonvulsant pathways
 
 ## What do recent clinical trials show?
@@ -52,7 +52,7 @@ Charaka Samhita and Sushruta Samhita. Originally classified as a Medhya [Rasayan
 ## Recent safety updates
 
 - Contains 5-10% self-generated alcohol from fermentation. Should be used cautiously in children, pregnant women, and individuals with liver conditions.
-- [Vacha](/nighantu/herb/vacha/) (Acorus calamus) contains beta-asarone which has regulatory restrictions in some countries. Long-term use should be monitored by a qualified physician.
+- [Vacha](/herb/vacha/) (Acorus calamus) contains beta-asarone which has regulatory restrictions in some countries. Long-term use should be monitored by a qualified physician.
 
 ## What is it made of?
 
@@ -77,7 +77,7 @@ Charaka Samhita and Sushruta Samhita. Originally classified as a Medhya [Rasayan
 
 **Storage:** Room temperature, tightly sealed, away from direct sunlight. Do not refrigerate.
 
-**Marker Compounds:** Bacosides A+B, [Withanolides](/nighantu/glossary/compounds-t-z/#withanolides)
+**Marker Compounds:** Bacosides A+B, [Withanolides](/glossary/compounds-t-z/#withanolides)
 
 **Quality Parameters:** Alcohol content 5-12% v/v, pH 3.0-4.5, specific gravity 1.01-1.08, total solids 15-25%, marker: Bacosides A+B, Withanolides
 
@@ -85,4 +85,4 @@ Charaka Samhita and Sushruta Samhita. Originally classified as a Medhya [Rasayan
 
 ### Synergistic Combinations
 
-- Key herbs: [Brahmi](/nighantu/herb/brahmi/) (Bacopa), [Shatavari](/nighantu/herb/shatavari/), [Ashwagandha](/nighantu/herb/ashwagandha/), [Haritaki](/nighantu/herb/haritaki/), [Dhataki](/nighantu/herb/dhataki/); fermentation creates unique metabolite profile with enhanced therapeutic activity
+- Key herbs: [Brahmi](/herb/brahmi/) (Bacopa), [Shatavari](/herb/shatavari/), [Ashwagandha](/herb/ashwagandha/), [Haritaki](/herb/haritaki/), [Dhataki](/herb/dhataki/); fermentation creates unique metabolite profile with enhanced therapeutic activity

@@ -23,17 +23,17 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Kalyanaka
 
 | Language | Name |
 |----------|------|
-| English | Kalyanaka [Ghrita](/nighantu/herb/ghrita/)|Kalyanaka Ghrita [Mahakalyanaka Ghritam](/nighantu/glossary/concepts-a-m/#mahakalyanaka-ghritam) |
+| English | Kalyanaka [Ghrita](/herb/ghrita/)|Kalyanaka Ghrita [Mahakalyanaka Ghritam](/glossary/concepts-a-m/#mahakalyanaka-ghritam) |
 
 ## Where is it described in the classical texts?
 
-Ashtanga Hrudayam Uttarasthana 6/26-33 ([Mahakalyanaka Ghritam](/nighantu/glossary/concepts-a-m/#mahakalyanaka-ghritam)); Charaka Samhita (Kalyanaka [Ghrita](/nighantu/herb/ghrita/)|Kalyanaka Ghrita); Chakradatta (Ksheerakalyanaka [Ghrita](/nighantu/herb/ghrita/)); Bhaisajya Ratnavali; Sharangadhara Samhita; Sahasrayoga
+Ashtanga Hrudayam Uttarasthana 6/26-33 ([Mahakalyanaka Ghritam](/glossary/concepts-a-m/#mahakalyanaka-ghritam)); Charaka Samhita (Kalyanaka [Ghrita](/herb/ghrita/)|Kalyanaka Ghrita); Chakradatta (Ksheerakalyanaka [Ghrita](/herb/ghrita/)); Bhaisajya Ratnavali; Sharangadhara Samhita; Sahasrayoga
 
 ## How does it work?
 
-- Polyherbal synergy of 28+ plant extracts in lipid medium enhances bioavailability of [neuroprotective](/nighantu/reference/neuroprotective/) compounds
-- [Haridra](/nighantu/herb/haridra/) ([curcumin](/nighantu/herb/curcumin/)) provides anti-inflammatory and [antioxidant](/nighantu/reference/antioxidant/) effects on neural tissue, reducing neuroinflammation
-- [Sariva](/nighantu/herb/sariva/) and [Daruharidra](/nighantu/herb/daruharidra/) provide cooling, pitta-pacifying action that calms aggravated mental states
+- Polyherbal synergy of 28+ plant extracts in lipid medium enhances bioavailability of [neuroprotective](/reference/neuroprotective/) compounds
+- [Haridra](/herb/haridra/) ([curcumin](/herb/curcumin/)) provides anti-inflammatory and [antioxidant](/reference/antioxidant/) effects on neural tissue, reducing neuroinflammation
+- [Sariva](/herb/sariva/) and [Daruharidra](/herb/daruharidra/) provide cooling, pitta-pacifying action that calms aggravated mental states
 - Lipid-based ghee medium crosses the blood-brain barrier, delivering active compounds directly to CNS
 - Balances Tridosha with emphasis on Vata-Pitta pacification, restoring equilibrium in Manovaha Srotas (mental channels)
 
@@ -79,7 +79,7 @@ Ashtanga Hrudayam Uttarasthana 6/26-33 ([Mahakalyanaka Ghritam](/nighantu/glossa
 
 **Storage:** Store in airtight glass or tin containers in a cool, dry place. Temperature not exceeding 25°C. Protect from light and moisture.
 
-**Marker Compounds:** Bacoside A, Alpha-santalol, Beta-asarone (within limits), [Piperine](/nighantu/reference/piperine/), Gallic acid
+**Marker Compounds:** Bacoside A, Alpha-santalol, Beta-asarone (within limits), [Piperine](/reference/piperine/), Gallic acid
 
 **Quality Parameters:** Same as Kalyanaka Ghrita — acid value, peroxide value, saponification value, refractive index, moisture, rancidity test, multi-marker HPTLC, microbial limits, heavy metals
 
@@ -87,7 +87,7 @@ Ashtanga Hrudayam Uttarasthana 6/26-33 ([Mahakalyanaka Ghritam](/nighantu/glossa
 
 ### Synergistic Combinations
 
-- [Brahmi](/nighantu/herb/brahmi/) Ghritam
-- [Saraswatarishta](/nighantu/formulation/saraswatarishta/)
+- [Brahmi](/herb/brahmi/) Ghritam
+- [Saraswatarishta](/formulation/saraswatarishta/)
 - Manasamitra Vatakam
-- [Ashwagandha](/nighantu/herb/ashwagandha/) Churna
+- [Ashwagandha](/herb/ashwagandha/) Churna

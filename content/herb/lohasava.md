@@ -33,15 +33,15 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 10, Verses 34-38; also referenced
 
 - Fermentation process (Sandhana Kalpana) converts iron into highly bioavailable ionic/colloidal form within a self-generated alcohol medium (4-10%), markedly enhancing GI absorption
 - Self-generated alcohol acts as a natural preservative and delivery vehicle for both water-soluble and alcohol-soluble active herbal constituents
-- [Triphala](/nighantu/herb/triphala/) components provide vitamin C for iron absorption, [antioxidant](/nighantu/reference/antioxidant/) protection, and gentle hepatoprotection
-- [Trikatu](/nighantu/herb/trikatu/) enhances digestive fire (Agni) and bioavailability of iron and other nutrients through [piperine](/nighantu/reference/piperine/)-mediated absorption enhancement
-- [Dhataki](/nighantu/herb/dhataki/) Pushpa provides the yeast and [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) for controlled fermentation and has intrinsic [hemostatic](/nighantu/glossary/pharmacology/#hemostatic) properties
-- [Vidanga](/nighantu/herb/vidanga/) and Chitraka provide anthelmintic and digestive stimulant effects, addressing parasitic causes of anemia
+- [Triphala](/herb/triphala/) components provide vitamin C for iron absorption, [antioxidant](/reference/antioxidant/) protection, and gentle hepatoprotection
+- [Trikatu](/herb/trikatu/) enhances digestive fire (Agni) and bioavailability of iron and other nutrients through [piperine](/reference/piperine/)-mediated absorption enhancement
+- [Dhataki](/herb/dhataki/) Pushpa provides the yeast and [enzymes](/glossary/compounds-d-g/#enzymes) for controlled fermentation and has intrinsic [hemostatic](/glossary/pharmacology/#hemostatic) properties
+- [Vidanga](/herb/vidanga/) and Chitraka provide anthelmintic and digestive stimulant effects, addressing parasitic causes of anemia
 
 ## Which traditional uses are supported by research?
 
 - Iron deficiency anemia - validated by comparative study showing Lohasava was more effective than conventional iron therapy in improving hemoglobin and iron parameters
-- Liver and digestive disorders - traditional [hepatoprotective](/nighantu/reference/hepatoprotective/) and digestive claims supported by pharmacological actions of [Triphala](/nighantu/herb/triphala/) and [Trikatu](/nighantu/herb/trikatu/) components and the bioenhancing fermentation process
+- Liver and digestive disorders - traditional [hepatoprotective](/reference/hepatoprotective/) and digestive claims supported by pharmacological actions of [Triphala](/herb/triphala/) and [Trikatu](/herb/trikatu/) components and the bioenhancing fermentation process
 
 ## What do recent clinical trials show?
 
@@ -76,13 +76,13 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 10, Verses 34-38; also referenced
 
 **Optimal Timing:** After meals with equal water
 
-**Standardized Extract:** Fermented preparation with Loha (iron), [Triphala](/nighantu/herb/triphala/), and aromatic herbs
+**Standardized Extract:** Fermented preparation with Loha (iron), [Triphala](/herb/triphala/), and aromatic herbs
 
 **Shelf Life:** Indefinite (improves with age; 10+ year old Asavas are premium)
 
 **Storage:** Earthen or glass vessel; avoid direct sunlight; room temperature
 
-**Marker Compounds:** Iron complexes, Organic acids (from fermentation), [Polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) (from [Triphala](/nighantu/herb/triphala/)/[Dhataki](/nighantu/herb/dhataki/)), Self-generated alcohol (5–10%)
+**Marker Compounds:** Iron complexes, Organic acids (from fermentation), [Polyphenols](/glossary/compounds-o-q/#polyphenols) (from [Triphala](/herb/triphala/)/[Dhataki](/herb/dhataki/)), Self-generated alcohol (5–10%)
 
 **Quality Parameters:** Alcohol 5–12% v/v, iron content as labeled, pH 3.0–4.5, specific gravity 1.010–1.040, total acidity 0.5–1.5%
 

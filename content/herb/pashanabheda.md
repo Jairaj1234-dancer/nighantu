@@ -40,9 +40,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Pashanabheda/meta-analysis.m
 
 **Standard Dosage:** 3-6 g powder twice daily; 20-40 mL decoction twice daily; 500 mg - 1 g standardized extract twice daily
 
-**Bioavailability:** [Bergenin](/nighantu/glossary/compounds-a-c/#bergenin) from Bergenia ligulata (primary Pashanabheda source) has moderate oral bioavailability (30-45%) with Tmax of 1.5-2.5 hours. Gallic acid is well absorbed (~35-45%). [Arbutin](/nighantu/glossary/compounds-1-a/#arbutin) (if Saxifraga species source) is hydrolyzed by gut bacteria to hydroquinone which is the active metabolite; this conversion is variable between individuals (30-60% efficiency). [Catechin](/nighantu/reference/catechin/) shows 20-30% oral bioavailability.
+**Bioavailability:** [Bergenin](/glossary/compounds-a-c/#bergenin) from Bergenia ligulata (primary Pashanabheda source) has moderate oral bioavailability (30-45%) with Tmax of 1.5-2.5 hours. Gallic acid is well absorbed (~35-45%). [Arbutin](/glossary/compounds-1-a/#arbutin) (if Saxifraga species source) is hydrolyzed by gut bacteria to hydroquinone which is the active metabolite; this conversion is variable between individuals (30-60% efficiency). [Catechin](/reference/catechin/) shows 20-30% oral bioavailability.
 
-**Optimal Timing:** Between meals with plenty of water (minimum 250 mL) for urinary and lithotriptic effects. Morning dose preferred for [diuretic](/nighantu/reference/diuretic/) action.
+**Optimal Timing:** Between meals with plenty of water (minimum 250 mL) for urinary and lithotriptic effects. Morning dose preferred for [diuretic](/reference/diuretic/) action.
 
 **Standardized Extract:** Bergenia ligulata rhizome extract (8:1) standardized to bergenin >5%, gallic acid >2%, total phenolics >12% GAE. Validated HPTLC fingerprint confirming species identity.
 
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Pashanabheda/meta-analysis.m
 
 **Storage:** Dried rhizome and powder: airtight containers, below 25 deg C, RH <55%, protected from light and pest infestation. Extracts: amber containers, cool and dry. Asava: amber glass, room temperature, improves with age.
 
-**Marker Compounds:** Bergenin, Gallic acid, Catechin, Arbutin (species-dependent), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/nighantu/reference/stigmasterol/), Tannic acid, Paashanolactone
+**Marker Compounds:** Bergenin, Gallic acid, Catechin, Arbutin (species-dependent), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/reference/stigmasterol/), Tannic acid, Paashanolactone
 
 ### Extraction Methods
 
@@ -62,8 +62,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Pashanabheda/meta-analysis.m
 
 ### Synergistic Combinations
 
-- [Gokshura](/nighantu/herb/gokshura/) (urinary tract health and lithotriptic synergy)
-- [Varuna](/nighantu/herb/varuna/) (renal calculi management - Varunadi Kwatha)
-- [Punarnava](/nighantu/herb/punarnava/) (diuretic and renal protective combination)
-- [Shilajit](/nighantu/herb/shilajit/) (mineral supplementation and renal health)
+- [Gokshura](/herb/gokshura/) (urinary tract health and lithotriptic synergy)
+- [Varuna](/herb/varuna/) (renal calculi management - Varunadi Kwatha)
+- [Punarnava](/herb/punarnava/) (diuretic and renal protective combination)
+- [Shilajit](/herb/shilajit/) (mineral supplementation and renal health)
 - Kulatha/Horse gram (traditional lithotriptic combination)

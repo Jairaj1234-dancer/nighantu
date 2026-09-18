@@ -28,16 +28,16 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Murva/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- C21 steroidal [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) (tenacissoside A-P, marsdenoside A-M)
+- C21 steroidal [glycosides](/glossary/compounds-g-l/#glycosides) (tenacissoside A-P, marsdenoside A-M)
 - Tenacigenoside A-L
 - Tenacigenin A-D
-- Eudesmane [sesquiterpenoids](/nighantu/glossary/compounds-q-t/#sesquiterpenoids)
+- Eudesmane [sesquiterpenoids](/glossary/compounds-q-t/#sesquiterpenoids)
 - Nor-sesquiterpenoids
 - Pyrrole glycosides
 - Phenolic glycosides
 - Gallic acid
-- [Quercetin](/nighantu/reference/quercetinquercetin/)
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- [Quercetin](/reference/quercetinquercetin/)
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 
 ## How does it work?
 
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Murva/meta-analysis.md"
 
 - Anti-tumor and anti-cancer activity validated through extensive in vitro and in vivo studies showing inhibition of multiple cancer cell lines (A549, HepG2, Caco-2, K562)
 - Anti-HIV activity confirmed through laboratory studies demonstrating inhibition of viral replication
-- [Immunomodulatory](/nighantu/reference/immunomodulatory/) properties validated through polysaccharide-mediated activation of immune signaling pathways
+- [Immunomodulatory](/reference/immunomodulatory/) properties validated through polysaccharide-mediated activation of immune signaling pathways
 
 ## What do recent clinical trials show?
 
@@ -92,9 +92,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Murva/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g root powder per day; 50-100 mL decoction twice daily; 500-1000 mg extract capsules daily
 
-**Bioavailability:** Moderate bioavailability of [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) and [flavonoids](/nighantu/reference/flavonoids/). Periplocin (cardiac glycoside) shows variable oral absorption (20-40%) with significant individual variation. [Lupeol](/nighantu/reference/lupeol/) and other [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids) are better absorbed with lipid co-administration. Fiber components act locally in GI tract.
+**Bioavailability:** Moderate bioavailability of [alkaloids](/glossary/compounds-1-a/#alkaloids) and [flavonoids](/reference/flavonoids/). Periplocin (cardiac glycoside) shows variable oral absorption (20-40%) with significant individual variation. [Lupeol](/reference/lupeol/) and other [terpenoids](/glossary/compounds-t-z/#terpenoids) are better absorbed with lipid co-administration. Fiber components act locally in GI tract.
 
-**Optimal Timing:** Between meals for anti-inflammatory and [diuretic](/nighantu/reference/diuretic/) effects; morning for digestive stimulation; topical application twice daily
+**Optimal Timing:** Between meals for anti-inflammatory and [diuretic](/reference/diuretic/) effects; morning for digestive stimulation; topical application twice daily
 
 **Standardized Extract:** Root extract (10:1 hydroalcoholic) standardized to minimum 1% total alkaloids and controlled cardiac glycoside content (below 0.5% periplocin for safety). Fiber preparation for wound management applications. Aqueous extract for mild diuretic formulations.
 
@@ -114,8 +114,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Murva/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Guduchi](/nighantu/herb/guduchi/) (anti-inflammatory and immunomodulatory)
-- [Sariva](/nighantu/herb/sariva/) (blood purification and cooling)
+- [Guduchi](/herb/guduchi/) (anti-inflammatory and immunomodulatory)
+- [Sariva](/herb/sariva/) (blood purification and cooling)
 - Musta (digestive and anti-inflammatory)
-- [Punarnava](/nighantu/herb/punarnava/) (diuretic and anti-inflammatory)
-- [Gokshura](/nighantu/herb/gokshura/) (renal protective combination)
+- [Punarnava](/herb/punarnava/) (diuretic and anti-inflammatory)
+- [Gokshura](/herb/gokshura/) (renal protective combination)

@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Panchakola-Churna
 
 | Language | Name |
 |----------|------|
-| English | [Panchakola Churna](/nighantu/formulation/panchakola-churna/) |
+| English | [Panchakola Churna](/formulation/panchakola-churna/) |
 
 ## Where is it described in the classical texts?
 
@@ -31,16 +31,16 @@ Sushruta Samhita and Ashtanga Hridayam (as a group - Panchakola Gana); elaborate
 
 ## How does it work?
 
-- Digestive enzyme stimulation: [Piperine](/nighantu/reference/piperine/) from [Pippali](/nighantu/herb/pippali/) and [Chavya](/nighantu/herb/chavya/) enhances secretion of digestive [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) (lipase, amylase, trypsin) and stimulates gastric acid production
+- Digestive enzyme stimulation: [Piperine](/reference/piperine/) from [Pippali](/herb/pippali/) and [Chavya](/herb/chavya/) enhances secretion of digestive [enzymes](/glossary/compounds-d-g/#enzymes) (lipase, amylase, trypsin) and stimulates gastric acid production
 - Bioavailability enhancement (Yogavahi): Piperine enhances bioavailability of co-administered compounds by up to 30% through P-glycoprotein modulation and glucuronidation inhibition
 - Agni kindling (Deepana): Hot potency (Ushna Virya) and pungent taste (Katu Rasa) of all five ingredients collectively kindle digestive fire (Jatharagni) and correct Mandagni (weak digestive fire)
-- [Antimicrobial](/nighantu/reference/antimicrobial/) action in gut: [Plumbagin](/nighantu/glossary/compounds-o-q/#plumbagin) from Chitraka provides antimicrobial and anti-inflammatory action in gut mucosa, maintaining healthy intestinal environment
+- [Antimicrobial](/reference/antimicrobial/) action in gut: [Plumbagin](/glossary/compounds-o-q/#plumbagin) from Chitraka provides antimicrobial and anti-inflammatory action in gut mucosa, maintaining healthy intestinal environment
 - Srota clearing: Hot potency clears blockages in digestive channels (Annavaha Srotas), gently purgates Ama, and improves nutrient absorption
 
 ## Which traditional uses are supported by research?
 
 - Digestive fire stimulation (Agni Deepana) validated through pilot trial showing improved gastric motility and reduced flatulence
-- Fat digestion enhancement validated through in vitro studies showing significant lipase activation by [Chavya](/nighantu/herb/chavya/) and [Pippali](/nighantu/herb/pippali/) extracts
+- Fat digestion enhancement validated through in vitro studies showing significant lipase activation by [Chavya](/herb/chavya/) and [Pippali](/herb/pippali/) extracts
 - Bioavailability enhancement validated through piperine's demonstrated ability to increase absorption of co-administered compounds
 - Ama Pachana (toxin digestion) validated through the combined digestive enzyme stimulation and antimicrobial gut-cleansing mechanisms
 
@@ -79,7 +79,7 @@ Sushruta Samhita and Ashtanga Hridayam (as a group - Panchakola Gana); elaborate
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
-**Marker Compounds:** Piperine, [Gingerol](/nighantu/glossary/compounds-d-g/#gingerol), Plumbagin
+**Marker Compounds:** Piperine, [Gingerol](/glossary/compounds-d-g/#gingerol), Plumbagin
 
 **Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Piperine, Gingerol, Plumbagin
 

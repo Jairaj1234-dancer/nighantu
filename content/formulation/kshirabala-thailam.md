@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kshirabala-
 
 | Language | Name |
 |----------|------|
-| English | [Kshirabala Thailam](/nighantu/formulation/kshirabala-thailam/) |
+| English | [Kshirabala Thailam](/formulation/kshirabala-thailam/) |
 
 ## Where is it described in the classical texts?
 
@@ -31,16 +31,16 @@ Ashtanga Hridayam (Vatarakta Chikitsa chapter). The 101 Avarti (101 times proces
 
 ## How does it work?
 
-- [Ephedrine](/nighantu/glossary/compounds-d-g/#ephedrine) and [pseudoephedrine](/nighantu/glossary/compounds-o-q/#pseudoephedrine) [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) from [Bala](/nighantu/herb/bala/) (Sida cordifolia) provide [analgesic](/nighantu/reference/analgesic/), anti-inflammatory, and bronchodilatory effects via adrenergic receptor modulation
+- [Ephedrine](/glossary/compounds-d-g/#ephedrine) and [pseudoephedrine](/glossary/compounds-o-q/#pseudoephedrine) [alkaloids](/glossary/compounds-1-a/#alkaloids) from [Bala](/herb/bala/) (Sida cordifolia) provide [analgesic](/reference/analgesic/), anti-inflammatory, and bronchodilatory effects via adrenergic receptor modulation
 - Repeated processing (101 Avarti) concentrates lipophilic phytoconstituents and increases bioavailability of low molecular weight fatty acids facilitating transdermal and transmucosal absorption
-- Milk [proteins](/nighantu/glossary/compounds-o-q/#proteins) and fats act as emulsifiers that stabilize herbal extracts and enhance penetration through biological membranes, including nasal mucosa during Nasya administration
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol) and mucilaginous compounds from [Bala](/nighantu/herb/bala/) nourish nerve tissue (Majja Dhatu) and strengthen neuromuscular junctions
+- Milk [proteins](/glossary/compounds-o-q/#proteins) and fats act as emulsifiers that stabilize herbal extracts and enhance penetration through biological membranes, including nasal mucosa during Nasya administration
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol) and mucilaginous compounds from [Bala](/herb/bala/) nourish nerve tissue (Majja Dhatu) and strengthen neuromuscular junctions
 
 ## Which traditional uses are supported by research?
 
-- Neurological disorders (facial paralysis, hemiplegia, sciatica) - validated by clinical studies showing [neuroprotective](/nighantu/reference/neuroprotective/) activity and motor function improvement
+- Neurological disorders (facial paralysis, hemiplegia, sciatica) - validated by clinical studies showing [neuroprotective](/reference/neuroprotective/) activity and motor function improvement
 - Cervical and lumbar spondylosis - supported by randomized trials demonstrating significant pain and stiffness reduction comparable to conventional treatment
-- Insomnia and anxiety (Vata-related mental disorders) - supported by the nervine tonic and GABA-modulatory properties of [Bala](/nighantu/herb/bala/) alkaloids confirmed in pharmacological studies
+- Insomnia and anxiety (Vata-related mental disorders) - supported by the nervine tonic and GABA-modulatory properties of [Bala](/herb/bala/) alkaloids confirmed in pharmacological studies
 
 ## What do recent clinical trials show?
 
@@ -76,7 +76,7 @@ Ashtanga Hridayam (Vatarakta Chikitsa chapter). The 101 Avarti (101 times proces
 
 **Storage:** Store in amber glass bottles in a cool, dry place. Temperature not exceeding 25°C. Protect from light. Nasya variant requires enhanced microbial standards.
 
-**Marker Compounds:** Ephedrine, Pseudoephedrine, Beta-sitosterol, [Sesamin](/nighantu/glossary/compounds-q-t/#sesamin), [Sesamolin](/nighantu/glossary/compounds-q-t/#sesamolin), Phospholipid complexes (from milk processing)
+**Marker Compounds:** Ephedrine, Pseudoephedrine, Beta-sitosterol, [Sesamin](/glossary/compounds-q-t/#sesamin), [Sesamolin](/glossary/compounds-q-t/#sesamolin), Phospholipid complexes (from milk processing)
 
 **Quality Parameters:** Acid value (<5), peroxide value (<10), saponification value, refractive index, specific gravity, viscosity (increases with avartana number), HPTLC fingerprint (band intensity increases with avartana), ephedrine equivalents, total alkaloids, microbial limits (strict for Nasya variant), heavy metals
 
@@ -84,7 +84,7 @@ Ashtanga Hridayam (Vatarakta Chikitsa chapter). The 101 Avarti (101 times proces
 
 ### Synergistic Combinations
 
-- [Dhanwantaram Thailam](/nighantu/formulation/dhanwantaram-thailam/)
-- [Balarishta](/nighantu/formulation/balarishta/) (internal)
-- [Dashamularishta](/nighantu/formulation/dashamularishta/)
+- [Dhanwantaram Thailam](/formulation/dhanwantaram-thailam/)
+- [Balarishta](/formulation/balarishta/) (internal)
+- [Dashamularishta](/formulation/dashamularishta/)
 - Mahanarayana Taila

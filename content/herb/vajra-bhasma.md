@@ -23,21 +23,21 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Vajra-Bhasma/meta-an
 
 | Language | Name |
 |----------|------|
-| English | [Vajra Bhasma](/nighantu/herb/vajra-bhasma/) |
+| English | [Vajra Bhasma](/herb/vajra-bhasma/) |
 
 ## Key Phytochemical Constituents
 
 - Nano-diamond particles (carbon nanostructures)
 - Carbon in various allotropic forms post-calcination
-- Trace [silica](/nighantu/glossary/compounds-q-t/#silica) and alumina from processing
-- Organic compounds from rose water and [aloe vera](/nighantu/herb/aloe-vera/) media
+- Trace [silica](/glossary/compounds-q-t/#silica) and alumina from processing
+- Organic compounds from rose water and [aloe vera](/herb/aloe-vera/) media
 - Iron and other trace elements from crucible materials
 
 ## How does it work?
 
 - Anti-cancer activity through nanodiamond-mediated immunostimulation: activates natural killer cells, promotes tumor cell apoptosis, reduces angiogenesis, and inhibits metastatic spread
-- [Immunomodulatory](/nighantu/reference/immunomodulatory/) action through enhancement of both innate and adaptive immune responses, increasing phagocytic activity and lymphocyte proliferation
-- [Rasayana](/nighantu/reference/rasayana/) (rejuvenation) effect through carbon nanostructure-mediated cellular repair and [antioxidant](/nighantu/reference/antioxidant/) activity, supporting tissue regeneration and longevity
+- [Immunomodulatory](/reference/immunomodulatory/) action through enhancement of both innate and adaptive immune responses, increasing phagocytic activity and lymphocyte proliferation
+- [Rasayana](/reference/rasayana/) (rejuvenation) effect through carbon nanostructure-mediated cellular repair and [antioxidant](/reference/antioxidant/) activity, supporting tissue regeneration and longevity
 - Tridosha balancing through multi-system regulatory effects on Vata (nervous), Pitta (metabolic), and Kapha (structural) functions
 
 ## Which traditional uses are supported by research?

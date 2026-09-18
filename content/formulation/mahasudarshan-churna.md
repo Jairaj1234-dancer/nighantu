@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Mahasudarshan-Chu
 
 | Language | Name |
 |----------|------|
-| English | [Mahasudarshan Churna](/nighantu/formulation/mahasudarshan-churna/) |
+| English | [Mahasudarshan Churna](/formulation/mahasudarshan-churna/) |
 
 ## Where is it described in the classical texts?
 
@@ -31,30 +31,30 @@ Bhavaprakasha Nighantu (16th century, Sudarshan group of preparations); also des
 
 ## How does it work?
 
-- [Antipyretic](/nighantu/reference/antipyretic/) action: [Swertiamarin](/nighantu/glossary/compounds-q-t/#swertiamarin) and [amarogentin](/nighantu/glossary/compounds-1-a/#amarogentin) from Swertia chirata exert [immunomodulatory](/nighantu/reference/immunomodulatory/) and [hepatoprotective](/nighantu/reference/hepatoprotective/) actions; in vitro assays showed 60% inhibition of COX-2 by amarogentin providing molecular basis for anti-inflammatory and fever-reducing effects
-- [Antimicrobial](/nighantu/reference/antimicrobial/) defense: [Neem](/nighantu/herb/neem/) bark ([nimbidin](/nighantu/glossary/compounds-l-o/#nimbidin)) and [Daruharidra](/nighantu/herb/daruharidra/) ([berberine](/nighantu/glossary/compounds-a-c/#berberine)) provide broad-spectrum antimicrobial activity against gram-positive (S. aureus) and gram-negative (E. coli, K. pneumoniae) bacteria
-- Three-fold detoxification: Bitter-cool herbs ([Neem](/nighantu/herb/neem/), [Chirayata](/nighantu/herb/chirayata/)) clear Pitta excess and neutralize toxins; warming pungents (Shunthi, [Pippali](/nighantu/herb/pippali/)) kindle Agni to metabolize Ama; [Triphala](/nighantu/herb/triphala/) regulates bowel to prevent toxin reabsorption
-- Immunomodulation: [Guduchi](/nighantu/herb/guduchi/) (Tinospora cordifolia) enhances phagocytic activity and modulates innate immune response against pathogens
-- Mucolytic action: [Vasicine](/nighantu/glossary/compounds-t-z/#vasicine) from [Vasa](/nighantu/herb/vasa/) (Adhatoda vasica) promotes mucolytic and bronchodilatory responses, aiding respiratory symptoms during fever
+- [Antipyretic](/reference/antipyretic/) action: [Swertiamarin](/glossary/compounds-q-t/#swertiamarin) and [amarogentin](/glossary/compounds-1-a/#amarogentin) from Swertia chirata exert [immunomodulatory](/reference/immunomodulatory/) and [hepatoprotective](/reference/hepatoprotective/) actions; in vitro assays showed 60% inhibition of COX-2 by amarogentin providing molecular basis for anti-inflammatory and fever-reducing effects
+- [Antimicrobial](/reference/antimicrobial/) defense: [Neem](/herb/neem/) bark ([nimbidin](/glossary/compounds-l-o/#nimbidin)) and [Daruharidra](/herb/daruharidra/) ([berberine](/glossary/compounds-a-c/#berberine)) provide broad-spectrum antimicrobial activity against gram-positive (S. aureus) and gram-negative (E. coli, K. pneumoniae) bacteria
+- Three-fold detoxification: Bitter-cool herbs ([Neem](/herb/neem/), [Chirayata](/herb/chirayata/)) clear Pitta excess and neutralize toxins; warming pungents (Shunthi, [Pippali](/herb/pippali/)) kindle Agni to metabolize Ama; [Triphala](/herb/triphala/) regulates bowel to prevent toxin reabsorption
+- Immunomodulation: [Guduchi](/herb/guduchi/) (Tinospora cordifolia) enhances phagocytic activity and modulates innate immune response against pathogens
+- Mucolytic action: [Vasicine](/glossary/compounds-t-z/#vasicine) from [Vasa](/herb/vasa/) (Adhatoda vasica) promotes mucolytic and bronchodilatory responses, aiding respiratory symptoms during fever
 
 ## Which traditional uses are supported by research?
 
 - Antipyretic action (Jwaraghna) validated in pilot study showing 25% faster fever reduction compared to placebo
 - Antimicrobial activity validated against K. pneumoniae, E. coli, S. aureus, and P. vulgaris in disc diffusion assay
 - Immunomodulatory activity validated through anti-inflammatory and antihistamine pharmacological studies
-- Digestive improvement and appetite restoration validated through Agni-enhancing mechanisms of [Trikatu](/nighantu/herb/trikatu/) and bitter herbs
+- Digestive improvement and appetite restoration validated through Agni-enhancing mechanisms of [Trikatu](/herb/trikatu/) and bitter herbs
 
 ## What do recent clinical trials show?
 
 - Kaur P, Gupta RC, Dey A and others 2020. [Validation and quantification of major biomarkers in 'Mahasudarshan Churna'- an ayurvedic polyherbal formulation through high-performance thin-layer chromatography](https://pubmed.ncbi.nlm.nih.gov/32527318/). *BMC complementary medicine and therapies*. PMID [32527318](https://pubmed.ncbi.nlm.nih.gov/32527318/) · [doi:10.1186/s12906-020-02970-z](https://doi.org/10.1186/s12906-020-02970-z)  
-  Developed validated HPTLC method for quantification of [mangiferin](/nighantu/glossary/compounds-l-o/#mangiferin) (xanthonoid), oleanolic acid and ursolic acid ([triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids)), gallic acid, [quercetin](/nighantu/reference/quercetinquercetin/), and [curcumin](/nighantu/herb/curcumin/) as biomarkers in the formulation.
+  Developed validated HPTLC method for quantification of [mangiferin](/glossary/compounds-l-o/#mangiferin) (xanthonoid), oleanolic acid and ursolic acid ([triterpenoids](/glossary/compounds-t-z/#triterpenoids)), gallic acid, [quercetin](/reference/quercetinquercetin/), and [curcumin](/herb/curcumin/) as biomarkers in the formulation.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
 - Generally well tolerated for short-term use during acute febrile illness; bitter taste may cause nausea in sensitive individuals; avoid in patients with chronic diarrhea or dehydration
-- Caution in pregnancy and lactation due to multiple bitter and heating herbs; long-term use beyond the febrile episode not typically recommended; monitor blood [glucose](/nighantu/glossary/compounds-d-g/#glucose) as some ingredients have hypoglycemic potential
+- Caution in pregnancy and lactation due to multiple bitter and heating herbs; long-term use beyond the febrile episode not typically recommended; monitor blood [glucose](/glossary/compounds-d-g/#glucose) as some ingredients have hypoglycemic potential
 
 ## What is it made of?
 
@@ -79,9 +79,9 @@ Bhavaprakasha Nighantu (16th century, Sudarshan group of preparations); also des
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
-**Marker Compounds:** Swertimerin, [Berberine](/nighantu/glossary/compounds-a-c/#berberine), Kutkin
+**Marker Compounds:** Swertimerin, [Berberine](/glossary/compounds-a-c/#berberine), Kutkin
 
-**Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Swertimerin, [Berberine](/nighantu/glossary/compounds-a-c/#berberine), Kutkin
+**Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Swertimerin, [Berberine](/glossary/compounds-a-c/#berberine), Kutkin
 
 **Vehicle (Anupana):** Warm water or honey
 

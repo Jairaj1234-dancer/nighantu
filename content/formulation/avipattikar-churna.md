@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Avipattikar-Churn
 
 | Language | Name |
 |----------|------|
-| English | [Avipattikar](/nighantu/herb/avipattikar/) Churna |
+| English | [Avipattikar](/herb/avipattikar/) Churna |
 
 ## Where is it described in the classical texts?
 
@@ -34,14 +34,14 @@ Bhaishajya Ratnavali (Amlapitta Rogadhikara). Also referenced in Sharangdhara Sa
 - NF-kB signaling pathway suppression: Reduces TNF-alpha and IL-6 levels, decreasing inflammatory cell infiltration and promoting ulcer healing.
 - Acid neutralization: Sugar component directly neutralizes excess gastric acid.
 - Proton pump inhibition: Active compounds may inhibit gastric H+/K+ ATPase, reducing acid secretion.
-- [Antioxidant](/nighantu/reference/antioxidant/) cytoprotection: [Quercetin](/nighantu/reference/quercetinquercetin/), ellagic acid, and other [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) protect gastric mucosa from oxidative damage.
-- Carminative and [laxative](/nighantu/reference/laxative/) action: [Trivrit](/nighantu/herb/trivrit/) (Operculina turpethum) provides mild purgative effect; [Trikatu](/nighantu/herb/trikatu/) stimulates digestive fire (Agni).
+- [Antioxidant](/reference/antioxidant/) cytoprotection: [Quercetin](/reference/quercetinquercetin/), ellagic acid, and other [polyphenols](/glossary/compounds-o-q/#polyphenols) protect gastric mucosa from oxidative damage.
+- Carminative and [laxative](/reference/laxative/) action: [Trivrit](/herb/trivrit/) (Operculina turpethum) provides mild purgative effect; [Trikatu](/herb/trikatu/) stimulates digestive fire (Agni).
 
 ## Which traditional uses are supported by research?
 
 - Hyperacidity and peptic ulcer (validated by ranitidine-comparable anti-ulcerogenic studies and NF-kB pathway research)
-- Constipation relief (validated by mild laxative action of [Trivrit](/nighantu/herb/trivrit/) and [Triphala](/nighantu/herb/triphala/) components)
-- Digestive fire enhancement (validated by carminative properties of [Trikatu](/nighantu/herb/trikatu/))
+- Constipation relief (validated by mild laxative action of [Trivrit](/herb/trivrit/) and [Triphala](/herb/triphala/) components)
+- Digestive fire enhancement (validated by carminative properties of [Trikatu](/herb/trikatu/))
 - Gastric mucosal protection (validated by antioxidant cytoprotective studies)
 
 ## What do recent clinical trials show?
@@ -71,7 +71,7 @@ Bhaishajya Ratnavali (Amlapitta Rogadhikara). Also referenced in Sharangdhara Sa
 
 **Standard Dosage:** 3-6 g twice daily with warm water or sugar, as per AFI Part I
 
-**Bioavailability:** Fine particle size and [Trikatu](/nighantu/herb/trikatu/) (Shunthi, Maricha, [Pippali](/nighantu/herb/pippali/)) combination provides excellent bioenhancement through thermogenic and absorption-promoting effects. Piperine increases bioavailability of co-administered compounds by 20-30%.
+**Bioavailability:** Fine particle size and [Trikatu](/herb/trikatu/) (Shunthi, Maricha, [Pippali](/herb/pippali/)) combination provides excellent bioenhancement through thermogenic and absorption-promoting effects. Piperine increases bioavailability of co-administered compounds by 20-30%.
 
 **Optimal Timing:** After meals or at bedtime, especially for Amlapitta (hyperacidity)
 
@@ -79,9 +79,9 @@ Bhaishajya Ratnavali (Amlapitta Rogadhikara). Also referenced in Sharangdhara Sa
 
 **Storage:** Store in airtight containers in a cool, dry place. Protect from moisture (hygroscopic due to sugar). Temperature not exceeding 30°C. Use desiccant in packaging.
 
-**Marker Compounds:** Piperine, [Embelin](/nighantu/glossary/compounds-d-g/#embelin), Operculin (from [Trivrit](/nighantu/herb/trivrit/)), Eugenol (from [Lavanga](/nighantu/herb/lavanga/)), 1,8-[Cineole](/nighantu/glossary/compounds-c-d/#cineole) (from Ela), Gallic acid
+**Marker Compounds:** Piperine, [Embelin](/glossary/compounds-d-g/#embelin), Operculin (from [Trivrit](/herb/trivrit/)), Eugenol (from [Lavanga](/herb/lavanga/)), 1,8-[Cineole](/glossary/compounds-c-d/#cineole) (from Ela), Gallic acid
 
-**Quality Parameters:** Loss on drying (<8%), total ash, acid-insoluble ash, particle size (pass sieve #85), pH of 10% solution, HPTLC fingerprint for piperine, embelin, and operculin (from [Trivrit](/nighantu/herb/trivrit/)), heavy metals, microbial limits, aflatoxins, uniformity of content
+**Quality Parameters:** Loss on drying (<8%), total ash, acid-insoluble ash, particle size (pass sieve #85), pH of 10% solution, HPTLC fingerprint for piperine, embelin, and operculin (from [Trivrit](/herb/trivrit/)), heavy metals, microbial limits, aflatoxins, uniformity of content
 
 **Vehicle (Anupana):** Warm water, sugar water, or honey
 
@@ -89,5 +89,5 @@ Bhaishajya Ratnavali (Amlapitta Rogadhikara). Also referenced in Sharangdhara Sa
 
 - Kamadudha Rasa
 - Praval Pishti
-- [Shatavari](/nighantu/herb/shatavari/) Churna
-- [Yashtimadhu](/nighantu/herb/yashtimadhu/) Churna
+- [Shatavari](/herb/shatavari/) Churna
+- [Yashtimadhu](/herb/yashtimadhu/) Churna

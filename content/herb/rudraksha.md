@@ -40,9 +40,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Rudraksha/meta-analysi
 
 **Standard Dosage:** 500 mg - 2 g bead powder per day; 250-500 mg bhasma with honey or ghee twice daily
 
-**Bioavailability:** Low to moderate bioavailability for alkaloid constituents; rudrakine and related [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) show 15-25% oral bioavailability. Bhasma form may enhance mineral bioavailability through nano-particulate formation during incineration process. Polyphenolic fraction shows improved absorption with lipid co-administration.
+**Bioavailability:** Low to moderate bioavailability for alkaloid constituents; rudrakine and related [alkaloids](/glossary/compounds-1-a/#alkaloids) show 15-25% oral bioavailability. Bhasma form may enhance mineral bioavailability through nano-particulate formation during incineration process. Polyphenolic fraction shows improved absorption with lipid co-administration.
 
-**Optimal Timing:** Morning on empty stomach with water or honey for cardiovascular benefits; evening dose for [anxiolytic](/nighantu/reference/anxiolytic/) effects
+**Optimal Timing:** Morning on empty stomach with water or honey for cardiovascular benefits; evening dose for [anxiolytic](/reference/anxiolytic/) effects
 
 **Standardized Extract:** Aqueous extract of seed pulp (5:1), standardized to NLT 1.0% total alkaloids (as rudrakine equivalents); bhasma standardized for particle size (<100 nm by DLS) and elemental composition
 
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Rudraksha/meta-analysi
 
 **Storage:** Store in airtight containers below 25 deg C. Bhasma should be stored in glass or food-grade HDPE containers, protected from moisture. RH <45% for bhasma.
 
-**Marker Compounds:** Rudrakine, Elaeocarpine, Isoelaeocarpine, Elaeocarpidine, [Quercetin](/nighantu/reference/quercetinquercetin/), Gallic acid
+**Marker Compounds:** Rudrakine, Elaeocarpine, Isoelaeocarpine, Elaeocarpidine, [Quercetin](/reference/quercetinquercetin/), Gallic acid
 
 ### Extraction Methods
 
@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Rudraksha/meta-analysi
 
 ### Synergistic Combinations
 
-- [Ashwagandha](/nighantu/herb/ashwagandha/) (anxiolytic and [cardioprotective](/nighantu/reference/cardioprotective/) synergy)
-- [Brahmi](/nighantu/herb/brahmi/) (cognitive-calming combination)
-- [Jatamansi](/nighantu/herb/jatamansi/) (anti-anxiety formulations)
-- [Arjuna](/nighantu/herb/arjuna/) (cardiovascular support)
+- [Ashwagandha](/herb/ashwagandha/) (anxiolytic and [cardioprotective](/reference/cardioprotective/) synergy)
+- [Brahmi](/herb/brahmi/) (cognitive-calming combination)
+- [Jatamansi](/herb/jatamansi/) (anti-anxiety formulations)
+- [Arjuna](/herb/arjuna/) (cardiovascular support)

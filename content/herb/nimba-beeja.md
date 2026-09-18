@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Nimba-Beeja/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | [Nimba](/nighantu/herb/nimba/) Beeja |
+| English | [Nimba](/herb/nimba/) Beeja |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -38,9 +38,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Nimba-Beeja/meta-analysis.md"
 
 **Dosage Forms:** Seed oil (cold-pressed), Capsule (oil-filled soft gel), Tablet (de-oiled seed cake extract), Emulsifiable concentrate, Granule (for soil application), Cream/ointment (topical)
 
-**Standard Dosage:** 500-1000 mg [neem](/nighantu/herb/neem/) seed oil in soft gel capsules daily; 1-2 g de-oiled seed cake powder daily; topical oil application diluted 2-5% in carrier oil
+**Standard Dosage:** 500-1000 mg [neem](/herb/neem/) seed oil in soft gel capsules daily; 1-2 g de-oiled seed cake powder daily; topical oil application diluted 2-5% in carrier oil
 
-**Bioavailability:** [Azadirachtin](/nighantu/glossary/compounds-a-c/#azadirachtin) from seed has limited oral bioavailability (~10-20%) due to instability in gastric acid and poor membrane permeability. Self-emulsifying drug delivery systems (SEDDS) or nanoemulsions improve bioavailability 2-4 fold. [Neem](/nighantu/herb/neem/) seed oil fatty acids (oleic, stearic, palmitic) are well absorbed and may enhance co-absorption of lipophilic actives. Topical bioavailability depends on oil concentration and skin integrity.
+**Bioavailability:** [Azadirachtin](/glossary/compounds-a-c/#azadirachtin) from seed has limited oral bioavailability (~10-20%) due to instability in gastric acid and poor membrane permeability. Self-emulsifying drug delivery systems (SEDDS) or nanoemulsions improve bioavailability 2-4 fold. [Neem](/herb/neem/) seed oil fatty acids (oleic, stearic, palmitic) are well absorbed and may enhance co-absorption of lipophilic actives. Topical bioavailability depends on oil concentration and skin integrity.
 
 **Optimal Timing:** Oral: after meals with food to improve lipid-based absorption. Topical: evening application preferred; avoid sun exposure on treated areas due to photosensitivity potential.
 
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Nimba-Beeja/meta-analysis.md"
 
 **Storage:** Oil: amber glass or HDPE containers, below 25 deg C, nitrogen headspace to prevent oxidation. Powder/extract: airtight containers, below 25 deg C, RH <50%. Avoid direct sunlight and heat sources.
 
-**Marker Compounds:** Azadirachtin A, Azadirachtin B, [Nimbin](/nighantu/glossary/compounds-l-o/#nimbin), [Salannin](/nighantu/glossary/compounds-q-t/#salannin), Oleic acid, [Stearic acid](/nighantu/glossary/compounds-q-t/#stearic-acidstearic-acid), Palmitic acid, [Gedunin](/nighantu/glossary/compounds-d-g/#gedunin)
+**Marker Compounds:** Azadirachtin A, Azadirachtin B, [Nimbin](/glossary/compounds-l-o/#nimbin), [Salannin](/glossary/compounds-q-t/#salannin), Oleic acid, [Stearic acid](/glossary/compounds-q-t/#stearic-acidstearic-acid), Palmitic acid, [Gedunin](/glossary/compounds-d-g/#gedunin)
 
 ### Extraction Methods
 
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Nimba-Beeja/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Karanja](/nighantu/herb/karanja/) seed oil (synergistic biopesticide and skin care)
-- [Haridra](/nighantu/herb/haridra/) (enhanced [antimicrobial](/nighantu/reference/antimicrobial/) and [wound-healing](/nighantu/reference/wound-healing/) oil formulation)
-- [Coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil) (carrier oil with complementary antimicrobial activity)
+- [Karanja](/herb/karanja/) seed oil (synergistic biopesticide and skin care)
+- [Haridra](/herb/haridra/) (enhanced [antimicrobial](/reference/antimicrobial/) and [wound-healing](/reference/wound-healing/) oil formulation)
+- [Coconut oil](/glossary/concepts-a-m/#coconut-oil) (carrier oil with complementary antimicrobial activity)
 - Tea tree oil (synergistic antifungal for topical preparations)

@@ -29,22 +29,22 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ambasthaki/meta-analysis.md"
 ## Key Phytochemical Constituents
 
 - Pareirarine (new isoquinoline alkaloid)
-- [Magnoflorine](/nighantu/glossary/compounds-l-o/#magnoflorine)
+- [Magnoflorine](/glossary/compounds-l-o/#magnoflorine)
 - Magnocurarine
 - Salutaridine
 - Cissamine and hayatinine
-- [Flavonoids](/nighantu/reference/flavonoids/) and flavonoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides)
+- [Flavonoids](/reference/flavonoids/) and flavonoid [glycosides](/glossary/compounds-g-l/#glycosides)
 
 ## How does it work?
 
 - Antimalarial/antiplasmodial activity via isoquinoline alkaloid-mediated disruption of Plasmodium parasite metabolism
 - Anti-inflammatory action through inhibition of pro-inflammatory cytokines (TNF-alpha, IL-6) and NF-kB pathway modulation by magnoflorine
-- [Anticancer](/nighantu/reference/anticancer/) activity through induction of apoptosis and cell cycle arrest in cancer cell lines by alkaloid fractions
-- [Antidiabetic](/nighantu/reference/antidiabetic/) effect via alpha-glucosidase and alpha-amylase inhibition
+- [Anticancer](/reference/anticancer/) activity through induction of apoptosis and cell cycle arrest in cancer cell lines by alkaloid fractions
+- [Antidiabetic](/reference/antidiabetic/) effect via alpha-glucosidase and alpha-amylase inhibition
 
 ## Which traditional uses are supported by research?
 
-- Antimalarial and [antipyretic](/nighantu/reference/antipyretic/) (Jvara-nashaka) - strongly validated through identification of active antiplasmodial [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids)
+- Antimalarial and [antipyretic](/reference/antipyretic/) (Jvara-nashaka) - strongly validated through identification of active antiplasmodial [alkaloids](/glossary/compounds-1-a/#alkaloids)
 - Menstrual regulation and uterine tonic (Artava-janana) - partially validated through smooth muscle studies
 - Anti-inflammatory and antiarthritic (Shotha-hara) - confirmed through in vivo anti-inflammatory models
 - Snakebite antidote (Visha-nashaka) - partially validated through antivenom studies in folk medicine
@@ -84,7 +84,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ambasthaki/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction twice daily; 500mg-1g extract capsule
 
-**Bioavailability:** Moderate oral bioavailability. Cissampelos pareira ([Patha](/nighantu/herb/patha/)/Ambasthaki) contains bisbenzylisoquinoline alkaloids (hayatinine, cissampareine) with moderate lipophilicity and reasonable GI absorption. Alkaloid bioavailability enhanced by [piperine](/nighantu/reference/piperine/) co-administration. Traditional preparation with honey may improve mucosal absorption.
+**Bioavailability:** Moderate oral bioavailability. Cissampelos pareira ([Patha](/herb/patha/)/Ambasthaki) contains bisbenzylisoquinoline alkaloids (hayatinine, cissampareine) with moderate lipophilicity and reasonable GI absorption. Alkaloid bioavailability enhanced by [piperine](/reference/piperine/) co-administration. Traditional preparation with honey may improve mucosal absorption.
 
 **Optimal Timing:** Before meals with warm water or honey for urinary and digestive indications
 
@@ -94,7 +94,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ambasthaki/meta-analysis.md"
 
 **Storage:** Cool, dry place below 25°C. Protect from moisture and light. Airtight containers.
 
-**Marker Compounds:** Hayatinine, Cissampareine, Pareirine, Curine, Cycleanine, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+**Marker Compounds:** Hayatinine, Cissampareine, Pareirine, Curine, Cycleanine, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 
 ### Extraction Methods
 
@@ -105,7 +105,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ambasthaki/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Gokshura](/nighantu/herb/gokshura/) for urinary tract disorders
+- With [Gokshura](/herb/gokshura/) for urinary tract disorders
 - With Pashanbheda for renal calculi
-- With [Guduchi](/nighantu/herb/guduchi/) for fever management
+- With [Guduchi](/herb/guduchi/) for fever management
 - With Kutaja for diarrhea and dysentery

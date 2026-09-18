@@ -36,11 +36,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Rohisha/meta-analys
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Essential oil, Churna (powder), Kwatha (decoction), [Arka](/nighantu/herb/arka/) (distillate), Taila (medicated oil), Capsule
+**Dosage Forms:** Essential oil, Churna (powder), Kwatha (decoction), [Arka](/herb/arka/) (distillate), Taila (medicated oil), Capsule
 
-**Standard Dosage:** 1-3 g powder per day; 2-5 drops essential oil in carrier oil for external application; 10-20 mL [arka](/nighantu/herb/arka/) twice daily
+**Standard Dosage:** 1-3 g powder per day; 2-5 drops essential oil in carrier oil for external application; 10-20 mL [arka](/herb/arka/) twice daily
 
-**Bioavailability:** Essential oil constituents ([geraniol](/nighantu/glossary/compounds-d-g/#geraniol), [citral](/nighantu/glossary/compounds-c-d/#citral)) show rapid transdermal absorption with peak plasma levels at 1-2 hours. Oral bioavailability of monoterpenoids is moderate (35-55%) due to first-pass metabolism. Lipophilic [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids) benefit from lipid-based delivery systems.
+**Bioavailability:** Essential oil constituents ([geraniol](/glossary/compounds-d-g/#geraniol), [citral](/glossary/compounds-c-d/#citral)) show rapid transdermal absorption with peak plasma levels at 1-2 hours. Oral bioavailability of monoterpenoids is moderate (35-55%) due to first-pass metabolism. Lipophilic [terpenoids](/glossary/compounds-t-z/#terpenoids) benefit from lipid-based delivery systems.
 
 **Optimal Timing:** Morning or afternoon administration; avoid evening doses as aromatic constituents may be mildly stimulating
 
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Rohisha/meta-analys
 
 **Storage:** Essential oil: store at 15-25 deg C in amber glass, nitrogen-blanketed. Powder: airtight containers below 25 deg C, protect from light and moisture.
 
-**Marker Compounds:** Geraniol, Citral (geranial + neral), [Citronellol](/nighantu/glossary/compounds-c-d/#citronellol), [Linalool](/nighantu/glossary/compounds-l-o/#linalool), Geranyl acetate
+**Marker Compounds:** Geraniol, Citral (geranial + neral), [Citronellol](/glossary/compounds-c-d/#citronellol), [Linalool](/glossary/compounds-l-o/#linalool), Geranyl acetate
 
 ### Extraction Methods
 
@@ -63,5 +63,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Rohisha/meta-analys
 
 - Vetiver (cooling and aromatic synergy)
 - Sandalwood (urinary tract formulations)
-- [Gokshura](/nighantu/herb/gokshura/) ([diuretic](/nighantu/reference/diuretic/) combinations)
+- [Gokshura](/herb/gokshura/) ([diuretic](/reference/diuretic/) combinations)
 - Usheera (Pitta-pacifying blends)

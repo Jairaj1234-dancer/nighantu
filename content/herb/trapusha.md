@@ -40,9 +40,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Trapusha/meta-analysis.md"
 
 **Standard Dosage:** 50-100 mL fresh cucumber juice twice daily; 3-6 g seed powder twice daily
 
-**Bioavailability:** [Cucurbitacins](/nighantu/glossary/compounds-c-d/#cucurbitacins) (B, D, E) have moderate oral bioavailability (~20-30%) but very narrow therapeutic index; precise dosing is critical. [Flavonoids](/nighantu/reference/flavonoids/) ([vitexin](/nighantu/glossary/compounds-t-z/#vitexin), [orientin](/nighantu/glossary/compounds-o-q/#orientin)) show low to moderate bioavailability (10-20%). The high water content (>95%) of fresh fruit facilitates rapid dissolution and absorption of water-soluble constituents. Seed oil fatty acids (linoleic, oleic) are well absorbed.
+**Bioavailability:** [Cucurbitacins](/glossary/compounds-c-d/#cucurbitacins) (B, D, E) have moderate oral bioavailability (~20-30%) but very narrow therapeutic index; precise dosing is critical. [Flavonoids](/reference/flavonoids/) ([vitexin](/glossary/compounds-t-z/#vitexin), [orientin](/glossary/compounds-o-q/#orientin)) show low to moderate bioavailability (10-20%). The high water content (>95%) of fresh fruit facilitates rapid dissolution and absorption of water-soluble constituents. Seed oil fatty acids (linoleic, oleic) are well absorbed.
 
-**Optimal Timing:** Morning on empty stomach for [diuretic](/nighantu/reference/diuretic/) effect; between meals for cooling action; seed powder after meals
+**Optimal Timing:** Morning on empty stomach for [diuretic](/reference/diuretic/) effect; between meals for cooling action; seed powder after meals
 
 **Standardized Extract:** Seed extract standardized to >25% fatty acids (linoleic + oleic by GC); cucurbitacin B <0.01% (safety limit); total flavonoids >1% (as vitexin equivalent)
 
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Trapusha/meta-analysis.md"
 
 **Storage:** Fresh juice refrigerated at 2-8 deg C. Seed powder in airtight containers at 15-25 deg C with desiccant. Defatted powder at room temperature. Seed oil under nitrogen in dark glass at 2-8 deg C.
 
-**Marker Compounds:** Cucurbitacin B, Cucurbitacin E, Vitexin, Orientin, Linoleic acid, Oleic acid, beta-[Sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Tocopherols](/nighantu/glossary/compounds-t-z/#tocopherols)
+**Marker Compounds:** Cucurbitacin B, Cucurbitacin E, Vitexin, Orientin, Linoleic acid, Oleic acid, beta-[Sitosterol](/glossary/compounds-q-t/#sitosterol), [Tocopherols](/glossary/compounds-t-z/#tocopherols)
 
 ### Extraction Methods
 
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Trapusha/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Ushira](/nighantu/herb/ushira/) (Vetiveria zizanioides) - cooling and diuretic synergy
+- [Ushira](/herb/ushira/) (Vetiveria zizanioides) - cooling and diuretic synergy
 - Chandan (sandalwood) - Pitta-pacifying combination
-- [Draksha](/nighantu/herb/draksha/) (Vitis vinifera) - renal supportive combination
-- [Gokshura](/nighantu/herb/gokshura/) (Tribulus terrestris) - urinary tract supportive synergy
+- [Draksha](/herb/draksha/) (Vitis vinifera) - renal supportive combination
+- [Gokshura](/herb/gokshura/) (Tribulus terrestris) - urinary tract supportive synergy

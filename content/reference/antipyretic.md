@@ -23,61 +23,61 @@ srcRel: "_Hub/Pharmacology/Antipyretic.md"
 
 ## Ayurveda (60)
 
-- [Akhuparni](/nighantu/herb/akhuparni/) — *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
-- [Ambasthaki](/nighantu/herb/ambasthaki/) — *Cissampelos pareira L.*
-- [Amrita Ghrita](/nighantu/formulation/amrita-ghrita/)
-- [Amritottaram Kashayam](/nighantu/formulation/amritottaram-kashayam/)
-- [Aragwadha](/nighantu/herb/aragwadha/) — *Cassia fistula L.*
-- [Ashoka](/nighantu/herb/ashoka/)
-- [Bhunimba](/nighantu/herb/bhunimba/)
-- [Bilwa Patra](/nighantu/herb/bilwa-patra/) — *Aegle marmelos (L.) Correa (leaves)*
-- [Changeri](/nighantu/herb/changeri/) — *Oxalis corniculata L.*
-- [Chirayata](/nighantu/herb/chirayata/)
-- [Dhamasa](/nighantu/herb/dhamasa/) — *Fagonia cretica L. / Fagonia arabica L.*
-- [Dhanyaka](/nighantu/herb/dhanyaka/) — *Coriandrum sativum L.*
-- [Dronapushpi](/nighantu/herb/dronapushpi/)
-- [Gajapippali](/nighantu/herb/gajapippali/) — *Scindapsus officinalis (Roxb.) Schott*
-- [Giloy](/nighantu/herb/guduchi/) — *Tinospora cordifolia*
-- [Giloy Satva](/nighantu/herb/giloy-satva/) — *Tinospora cordifolia (Willd.) Miers (aqueous starch extract)*
-- [Godanti Bhasma](/nighantu/herb/godanti-bhasma/)
-- [Gojihva](/nighantu/herb/gojihva/) — *Onosma bracteatum Wall.*
-- [Gorochana](/nighantu/herb/gorochana/)
-- [Guduchi](/nighantu/herb/guduchi/) — *Tinospora cordifolia*
-- [Guloochyadi Kashayam](/nighantu/formulation/guloochyadi-kashayam/)
-- [Hamsapadi](/nighantu/glossary/concepts-a-m/#hamsapadi)
-- [Haratala Bhasma](/nighantu/herb/haratala-bhasma/)
-- [Jalapippali](/nighantu/glossary/concepts-a-m/#jalapippali)
-- [Jamun Herb](/nighantu/glossary/concepts-a-m/#jamun-herb)
-- [Jivanti](/nighantu/herb/jivanti/) — *Leptadenia reticulata (Retz.) Wight & Arn.*
-- [Kadamba](/nighantu/herb/kadamba/) — *Neolamarckia cadamba (Roxb.) Bosser*
-- [Kakajangha](/nighantu/glossary/concepts-a-m/#kakajangha)
-- [Kakatikta](/nighantu/herb/kakatikta/)
-- [Kalmegh](/nighantu/herb/kalmegh/)
-- [Kantakari](/nighantu/herb/kantakari/) — *Solanum xanthocarpum Schrad. & Wendl. (syn. S. surattense Burm. f., S. virginianum L.)*
-- [Kataka](/nighantu/herb/kataka/) — *Strychnos potatorum L.f.*
-- [Kiratatikta](/nighantu/herb/kiratatikta/)
-- [Kovidara](/nighantu/herb/kovidara/) — *Bauhinia purpurea L.*
-- [Lavangadi Vati](/nighantu/formulation/lavangadi-vati/)
-- [Madanaphala](/nighantu/herb/madanaphala/) — *Randia dumetorum (Retz.) Lam. (syn. Randia spinosa, Catunaregam spinosa)*
-- [Mahasudarshan Churna](/nighantu/formulation/mahasudarshan-churna/)
-- [Meda](/nighantu/herb/meda/) — *Polygonatum verticillatum (L.) All. / Polygonatum cirrhifolium (Wall.) Royle*
-- [Nagarmotha](/nighantu/herb/nagarmotha/) — *Cyperus rotundus*
+- [Akhuparni](/herb/akhuparni/) — *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
+- [Ambasthaki](/herb/ambasthaki/) — *Cissampelos pareira L.*
+- [Amrita Ghrita](/formulation/amrita-ghrita/)
+- [Amritottaram Kashayam](/formulation/amritottaram-kashayam/)
+- [Aragwadha](/herb/aragwadha/) — *Cassia fistula L.*
+- [Ashoka](/herb/ashoka/)
+- [Bhunimba](/herb/bhunimba/)
+- [Bilwa Patra](/herb/bilwa-patra/) — *Aegle marmelos (L.) Correa (leaves)*
+- [Changeri](/herb/changeri/) — *Oxalis corniculata L.*
+- [Chirayata](/herb/chirayata/)
+- [Dhamasa](/herb/dhamasa/) — *Fagonia cretica L. / Fagonia arabica L.*
+- [Dhanyaka](/herb/dhanyaka/) — *Coriandrum sativum L.*
+- [Dronapushpi](/herb/dronapushpi/)
+- [Gajapippali](/herb/gajapippali/) — *Scindapsus officinalis (Roxb.) Schott*
+- [Giloy](/herb/guduchi/) — *Tinospora cordifolia*
+- [Giloy Satva](/herb/giloy-satva/) — *Tinospora cordifolia (Willd.) Miers (aqueous starch extract)*
+- [Godanti Bhasma](/herb/godanti-bhasma/)
+- [Gojihva](/herb/gojihva/) — *Onosma bracteatum Wall.*
+- [Gorochana](/herb/gorochana/)
+- [Guduchi](/herb/guduchi/) — *Tinospora cordifolia*
+- [Guloochyadi Kashayam](/formulation/guloochyadi-kashayam/)
+- [Hamsapadi](/glossary/concepts-a-m/#hamsapadi)
+- [Haratala Bhasma](/herb/haratala-bhasma/)
+- [Jalapippali](/glossary/concepts-a-m/#jalapippali)
+- [Jamun Herb](/glossary/concepts-a-m/#jamun-herb)
+- [Jivanti](/herb/jivanti/) — *Leptadenia reticulata (Retz.) Wight & Arn.*
+- [Kadamba](/herb/kadamba/) — *Neolamarckia cadamba (Roxb.) Bosser*
+- [Kakajangha](/glossary/concepts-a-m/#kakajangha)
+- [Kakatikta](/herb/kakatikta/)
+- [Kalmegh](/herb/kalmegh/)
+- [Kantakari](/herb/kantakari/) — *Solanum xanthocarpum Schrad. & Wendl. (syn. S. surattense Burm. f., S. virginianum L.)*
+- [Kataka](/herb/kataka/) — *Strychnos potatorum L.f.*
+- [Kiratatikta](/herb/kiratatikta/)
+- [Kovidara](/herb/kovidara/) — *Bauhinia purpurea L.*
+- [Lavangadi Vati](/formulation/lavangadi-vati/)
+- [Madanaphala](/herb/madanaphala/) — *Randia dumetorum (Retz.) Lam. (syn. Randia spinosa, Catunaregam spinosa)*
+- [Mahasudarshan Churna](/formulation/mahasudarshan-churna/)
+- [Meda](/herb/meda/) — *Polygonatum verticillatum (L.) All. / Polygonatum cirrhifolium (Wall.) Royle*
+- [Nagarmotha](/herb/nagarmotha/) — *Cyperus rotundus*
 
 ## Related Body Systems
 
-- [Anti-inflammatory & Pain](/nighantu/reference/antiinflammatory-pain/)
-- [Brain & Nervous System](/nighantu/reference/brain-nervous-system/)
-- [Diabetes & Metabolism](/nighantu/reference/diabetes-metabolism/)
-- [Digestive Health](/nighantu/reference/digestive-health/)
-- [Eye Health](/nighantu/reference/eye-health/)
-- [Fever & Infection](/nighantu/reference/fever-infection/)
-- [Hair Health](/nighantu/glossary/body-systems/#hair-health)
-- [Heart & Cardiovascular](/nighantu/reference/heart-cardiovascular/)
-- [Immune System & Rasayana](/nighantu/reference/immune-system-rasayana/)
-- [Joint & Musculoskeletal](/nighantu/reference/joint-musculoskeletal/)
-- [Kidney & Urinary](/nighantu/reference/kidney-urinary/)
-- [Liver & Detoxification](/nighantu/reference/liver-detoxification/)
-- [Men's Health & Vitality](/nighantu/reference/mens-health-vitality/)
-- [Respiratory Health](/nighantu/reference/respiratory-health/)
-- [Skin & Beauty](/nighantu/reference/skin-beauty/)
-- [Women's Health](/nighantu/reference/womens-health/)
+- [Anti-inflammatory & Pain](/reference/antiinflammatory-pain/)
+- [Brain & Nervous System](/reference/brain-nervous-system/)
+- [Diabetes & Metabolism](/reference/diabetes-metabolism/)
+- [Digestive Health](/reference/digestive-health/)
+- [Eye Health](/reference/eye-health/)
+- [Fever & Infection](/reference/fever-infection/)
+- [Hair Health](/glossary/body-systems/#hair-health)
+- [Heart & Cardiovascular](/reference/heart-cardiovascular/)
+- [Immune System & Rasayana](/reference/immune-system-rasayana/)
+- [Joint & Musculoskeletal](/reference/joint-musculoskeletal/)
+- [Kidney & Urinary](/reference/kidney-urinary/)
+- [Liver & Detoxification](/reference/liver-detoxification/)
+- [Men's Health & Vitality](/reference/mens-health-vitality/)
+- [Respiratory Health](/reference/respiratory-health/)
+- [Skin & Beauty](/reference/skin-beauty/)
+- [Women's Health](/reference/womens-health/)

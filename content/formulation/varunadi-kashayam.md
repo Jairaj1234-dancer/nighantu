@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Varunadi-Kas
 
 | Language | Name |
 |----------|------|
-| English | [Varunadi Kashayam](/nighantu/formulation/varunadi-kashayam/) |
+| English | [Varunadi Kashayam](/formulation/varunadi-kashayam/) |
 
 ## Where is it described in the classical texts?
 
@@ -31,8 +31,8 @@ Chakradutta. Also referenced in Sushruta Samhita and Bhaishajya Ratnavali for Mu
 
 ## How does it work?
 
-- Lithotriptic action of [Varuna](/nighantu/herb/varuna/) and Aerua lanata breaks down urinary stones into small pieces for easy expulsion
-- Potent [diuretic](/nighantu/reference/diuretic/) effect increases urine output, flushing kidneys and bladder to aid stone passage
+- Lithotriptic action of [Varuna](/herb/varuna/) and Aerua lanata breaks down urinary stones into small pieces for easy expulsion
+- Potent [diuretic](/reference/diuretic/) effect increases urine output, flushing kidneys and bladder to aid stone passage
 - Anti-inflammatory activity inhibits pro-inflammatory cytokines, reducing urinary tract and renal inflammation
 - Anti-obesity and lipid-lowering effects through inhibition of adipogenic regulators in visceral adipose tissue
 
@@ -78,7 +78,7 @@ Chakradutta. Also referenced in Sushruta Samhita and Bhaishajya Ratnavali for Mu
 
 **Storage:** Fresh: refrigerate, use within 24h. Tablet/liquid: cool dry place, airtight
 
-**Marker Compounds:** [Lupeol](/nighantu/reference/lupeol/), Punarnavine, [Protodioscin](/nighantu/glossary/compounds-o-q/#protodioscin)
+**Marker Compounds:** [Lupeol](/reference/lupeol/), Punarnavine, [Protodioscin](/glossary/compounds-o-q/#protodioscin)
 
 **Quality Parameters:** pH 4.0-6.5, specific gravity 1.01-1.05, total solids 2-8%, marker assay: Lupeol, Punarnavine, Protodioscin
 
@@ -86,4 +86,4 @@ Chakradutta. Also referenced in Sushruta Samhita and Bhaishajya Ratnavali for Mu
 
 ### Synergistic Combinations
 
-- Classical combination of [Varuna](/nighantu/herb/varuna/) (Crataeva nurvala), [Punarnava](/nighantu/herb/punarnava/), [Gokshura](/nighantu/herb/gokshura/) provides synergistic therapeutic effect
+- Classical combination of [Varuna](/herb/varuna/) (Crataeva nurvala), [Punarnava](/herb/punarnava/), [Gokshura](/herb/gokshura/) provides synergistic therapeutic effect

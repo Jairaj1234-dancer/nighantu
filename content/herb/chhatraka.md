@@ -28,27 +28,27 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chhatraka/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Ergothioneine](/nighantu/glossary/compounds-d-g/#ergothioneineergothioneine)
+- [Ergothioneine](/glossary/compounds-d-g/#ergothioneineergothioneine)
 - Beta-glucans
-- [Ergosterol](/nighantu/glossary/compounds-d-g/#ergosterol) (provitamin D2)
+- [Ergosterol](/glossary/compounds-d-g/#ergosterol) (provitamin D2)
 - Tyrosinase
-- Vitamin B complex ([riboflavin](/nighantu/glossary/compounds-q-t/#riboflavin), niacin, pantothenic acid)
-- [Selenium](/nighantu/glossary/compounds-q-t/#selenium)
+- Vitamin B complex ([riboflavin](/glossary/compounds-q-t/#riboflavin), niacin, pantothenic acid)
+- [Selenium](/glossary/compounds-q-t/#selenium)
 - Polyphenoloxidase
-- [Lectins](/nighantu/glossary/compounds-g-l/#lectins)
+- [Lectins](/glossary/compounds-g-l/#lectins)
 - Conjugated linoleic acid
 - Trehalose
 
 ## How does it work?
 
 - Beta-glucans activate innate immune cells (macrophages, NK cells, dendritic cells) through binding to Dectin-1 and complement receptor 3 (CR3), enhancing immune surveillance
-- [Ergothioneine](/nighantu/glossary/compounds-d-g/#ergothioneineergothioneine) acts as a potent intracellular [antioxidant](/nighantu/reference/antioxidant/), accumulating in tissues via the organic cation transporter OCTN1, protecting mitochondria from oxidative damage
-- Lectins from A. campestris exhibit insulin-mimetic activity by activating insulin receptor substrate (IRS) phosphorylation and enhancing cellular [glucose](/nighantu/glossary/compounds-d-g/#glucose) uptake through GLUT4 translocation
+- [Ergothioneine](/glossary/compounds-d-g/#ergothioneineergothioneine) acts as a potent intracellular [antioxidant](/reference/antioxidant/), accumulating in tissues via the organic cation transporter OCTN1, protecting mitochondria from oxidative damage
+- Lectins from A. campestris exhibit insulin-mimetic activity by activating insulin receptor substrate (IRS) phosphorylation and enhancing cellular [glucose](/glossary/compounds-d-g/#glucose) uptake through GLUT4 translocation
 
 ## Which traditional uses are supported by research?
 
-- [Antidiabetic](/nighantu/reference/antidiabetic/) activity validated through pharmacological studies demonstrating insulin-releasing and insulin-like effects in diabetic animal models
-- [Immunomodulatory](/nighantu/reference/immunomodulatory/) and [rasayana](/nighantu/reference/rasayana/) (rejuvenating) properties partially validated through beta-glucan research supporting traditional Ayurvedic description as a strength-promoting food
+- [Antidiabetic](/reference/antidiabetic/) activity validated through pharmacological studies demonstrating insulin-releasing and insulin-like effects in diabetic animal models
+- [Immunomodulatory](/reference/immunomodulatory/) and [rasayana](/reference/rasayana/) (rejuvenating) properties partially validated through beta-glucan research supporting traditional Ayurvedic description as a strength-promoting food
 
 ## What do recent clinical trials show?
 
@@ -79,7 +79,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chhatraka/meta-analysis.md"
 
 **Storage:** Fresh mushrooms refrigerated (2-5°C). Dried material in airtight containers protected from moisture (highly hygroscopic). Temperature below 25°C. Protect from light if UV-treated for vitamin D2.
 
-**Marker Compounds:** Beta-glucans (1,3/1,6), Ergosterol, [Ergothioneine](/nighantu/glossary/compounds-d-g/#ergothioneineergothioneine), Lovastatin (trace, in certain species), Chitin, Lectins, Vitamin D2 (if UV-treated)
+**Marker Compounds:** Beta-glucans (1,3/1,6), Ergosterol, [Ergothioneine](/glossary/compounds-d-g/#ergothioneineergothioneine), Lovastatin (trace, in certain species), Chitin, Lectins, Vitamin D2 (if UV-treated)
 
 ### Extraction Methods
 
@@ -91,7 +91,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chhatraka/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Guduchi](/nighantu/herb/guduchi/) for immunomodulatory synergy
-- With [Ashwagandha](/nighantu/herb/ashwagandha/) for [adaptogenic](/nighantu/reference/adaptogenic/) and immune combination
+- With [Guduchi](/herb/guduchi/) for immunomodulatory synergy
+- With [Ashwagandha](/herb/ashwagandha/) for [adaptogenic](/reference/adaptogenic/) and immune combination
 - With Amalaki for antioxidant-immune formulations
-- With [Haridra](/nighantu/herb/haridra/) for anti-inflammatory immune support
+- With [Haridra](/herb/haridra/) for anti-inflammatory immune support

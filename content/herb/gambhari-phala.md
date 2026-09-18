@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gambhari-Phala/meta-analysis.
 
 | Language | Name |
 |----------|------|
-| English | [Gambhari](/nighantu/herb/gambhari/) Phala |
+| English | [Gambhari](/herb/gambhari/) Phala |
 | Latin/Botanical | *Gmelina arborea Roxb.* |
 
 ## Key Phytochemical Constituents
@@ -31,25 +31,25 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gambhari-Phala/meta-analysis.
 - Butyric acid
 - Tartaric acid
 - Arboreal
-- [Verbascoside](/nighantu/glossary/compounds-t-z/#verbascoside)
+- [Verbascoside](/glossary/compounds-t-z/#verbascoside)
 - Gmelinol
 - Isoarboreol
-- [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin)
-- [Umbelliferone](/nighantu/glossary/compounds-t-z/#umbelliferone)
+- [Apigenin](/glossary/compounds-1-a/#apigenin)
+- [Umbelliferone](/glossary/compounds-t-z/#umbelliferone)
 - Balanophonin
-- [Lignans](/nighantu/glossary/compounds-g-l/#lignans) (iridoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides))
+- [Lignans](/glossary/compounds-g-l/#lignans) (iridoid [glycosides](/glossary/compounds-g-l/#glycosides))
 
 ## How does it work?
 
-- Verbascoside ([acteoside](/nighantu/glossary/compounds-1-a/#acteoside)) exhibits potent [antioxidant](/nighantu/reference/antioxidant/) activity through direct radical scavenging and inhibition of lipid peroxidation; also shows anti-inflammatory effects by suppressing NF-kB and AP-1 transcription factor activation
-- Iridoid glycosides provide [hepatoprotective](/nighantu/reference/hepatoprotective/) effects by enhancing glutathione levels and superoxide dismutase activity while reducing malondialdehyde (MDA) levels in liver tissue
-- [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin) and umbelliferone exert [cardioprotective](/nighantu/reference/cardioprotective/) effects through inhibition of platelet aggregation and reduction of cardiac troponin levels in ischemia-reperfusion injury models
+- Verbascoside ([acteoside](/glossary/compounds-1-a/#acteoside)) exhibits potent [antioxidant](/reference/antioxidant/) activity through direct radical scavenging and inhibition of lipid peroxidation; also shows anti-inflammatory effects by suppressing NF-kB and AP-1 transcription factor activation
+- Iridoid glycosides provide [hepatoprotective](/reference/hepatoprotective/) effects by enhancing glutathione levels and superoxide dismutase activity while reducing malondialdehyde (MDA) levels in liver tissue
+- [Apigenin](/glossary/compounds-1-a/#apigenin) and umbelliferone exert [cardioprotective](/reference/cardioprotective/) effects through inhibition of platelet aggregation and reduction of cardiac troponin levels in ischemia-reperfusion injury models
 
 ## Which traditional uses are supported by research?
 
-- Raktasthambhaka ([hemostatic](/nighantu/glossary/pharmacology/#hemostatic)/anti-hemorrhagic) activity partially validated; Charaka Samhita states '[Gambhari](/nighantu/herb/gambhari/) fruit is best among substances useful in bleeding disorders' - supported by tannin and phenolic content
+- Raktasthambhaka ([hemostatic](/glossary/pharmacology/#hemostatic)/anti-hemorrhagic) activity partially validated; Charaka Samhita states '[Gambhari](/herb/gambhari/) fruit is best among substances useful in bleeding disorders' - supported by tannin and phenolic content
 - Brain tonic (Medhya) and nourishing properties supported by nutritional analysis showing significant protein, mineral, and vitamin content in fruit preparations
-- Anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) effects validated in preclinical models supporting traditional use for Shotha (inflammation) and Jwara (fever)
+- Anti-inflammatory and [analgesic](/reference/analgesic/) effects validated in preclinical models supporting traditional use for Shotha (inflammation) and Jwara (fever)
 
 ## What do recent clinical trials show?
 
@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gambhari-Phala/meta-analysis.
 
 **Standard Dosage:** 10-20g fresh fruit or fruit pulp; 3-6g dried fruit powder twice daily; 500mg extract capsule twice daily; 15-30ml fruit juice
 
-**Bioavailability:** Gmelina arborea fruit contains iridoid glycosides, flavonoids, organic acids, and natural sugars ([glucose](/nighantu/glossary/compounds-d-g/#glucose), [fructose](/nighantu/glossary/compounds-d-g/#fructose)). The fruit pulp provides a natural matrix that enhances dissolution and absorption of glycosidic actives. Sugar content aids osmotic absorption. Organic acids (citric, tartaric) may enhance mineral absorption. Fruit flavonoids have moderate bioavailability (15-30%). The sweet, mucilaginous fruit pulp serves as a natural sustained-release matrix. Enhancement generally not required for fruit preparations.
+**Bioavailability:** Gmelina arborea fruit contains iridoid glycosides, flavonoids, organic acids, and natural sugars ([glucose](/glossary/compounds-d-g/#glucose), [fructose](/glossary/compounds-d-g/#fructose)). The fruit pulp provides a natural matrix that enhances dissolution and absorption of glycosidic actives. Sugar content aids osmotic absorption. Organic acids (citric, tartaric) may enhance mineral absorption. Fruit flavonoids have moderate bioavailability (15-30%). The sweet, mucilaginous fruit pulp serves as a natural sustained-release matrix. Enhancement generally not required for fruit preparations.
 
 **Optimal Timing:** Fresh fruit or juice on empty stomach in the morning for nutritive tonic effect; Avaleha after meals; capsule twice daily with meals
 
@@ -80,7 +80,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gambhari-Phala/meta-analysis.
 
 **Storage:** Fresh fruit: refrigerate at 2-8 deg C. Dried fruit powder: airtight, moisture-proof containers below 25 deg C with desiccant. Avaleha: airtight glass containers at room temperature.
 
-**Marker Compounds:** Gmelinoside, Cerotic acid, Butyric acid, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin), Total sugar content, Vitamin C (ascorbic acid)
+**Marker Compounds:** Gmelinoside, Cerotic acid, Butyric acid, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Apigenin](/glossary/compounds-1-a/#apigenin), Total sugar content, Vitamin C (ascorbic acid)
 
 ### Extraction Methods
 
@@ -93,6 +93,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gambhari-Phala/meta-analysis.
 ### Synergistic Combinations
 
 - With Amalaki fruit for antioxidant and tonic synergy
-- With [Yashtimadhu](/nighantu/herb/yashtimadhu/) for cooling, soothing, and Pitta-pacifying combination
-- With [Guduchi](/nighantu/herb/guduchi/) for immune support and [Rasayana](/nighantu/reference/rasayana/)
-- With [Shatavari](/nighantu/herb/shatavari/) for nutritive and [galactagogue](/nighantu/glossary/pharmacology/#galactagogue) action
+- With [Yashtimadhu](/herb/yashtimadhu/) for cooling, soothing, and Pitta-pacifying combination
+- With [Guduchi](/herb/guduchi/) for immune support and [Rasayana](/reference/rasayana/)
+- With [Shatavari](/herb/shatavari/) for nutritive and [galactagogue](/glossary/pharmacology/#galactagogue) action

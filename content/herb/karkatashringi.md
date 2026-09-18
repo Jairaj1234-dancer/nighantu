@@ -30,23 +30,23 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Karkatashringi/meta-analysis.
 
 - Alpha-pinene
 - Beta-pinene
-- 1,8-[Cineole](/nighantu/glossary/compounds-c-d/#cineole) (eucalyptol)
+- 1,8-[Cineole](/glossary/compounds-c-d/#cineole) (eucalyptol)
 - Alpha-terpineol
-- [Aromadendrene](/nighantu/glossary/compounds-1-a/#aromadendrene)
+- [Aromadendrene](/glossary/compounds-1-a/#aromadendrene)
 - Pistagremic acid (triterpene)
 - Gallic acid
-- [Catechin](/nighantu/reference/catechin/)
+- [Catechin](/reference/catechin/)
 
 ## How does it work?
 
 - Bronchodilatory: Essential oil constituents (alpha-pinene, 1,8-cineole) relax bronchial smooth muscle and reduce airway inflammation through inhibition of PDE4
-- Anti-asthmatic: [Tannins](/nighantu/reference/tannins/) and [flavonoids](/nighantu/reference/flavonoids/) in galls stabilize mast cells and reduce [histamine](/nighantu/glossary/compounds-g-l/#histamine)-mediated bronchoconstriction
+- Anti-asthmatic: [Tannins](/reference/tannins/) and [flavonoids](/reference/flavonoids/) in galls stabilize mast cells and reduce [histamine](/glossary/compounds-g-l/#histamine)-mediated bronchoconstriction
 - Anticonvulsant: Alpha-pinene and terpineol modulate GABAergic neurotransmission, enhancing inhibitory signaling in CNS
 
 ## Which traditional uses are supported by research?
 
 - Anti-asthmatic use in children (Balaka Shwasa) supported by bronchial smooth muscle relaxation and mast cell stabilization in preclinical studies
-- Antitussive use (Kasa-hara) confirmed by reduction of cough frequency in SO2-induced cough model and [citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid)-induced cough model
+- Antitussive use (Kasa-hara) confirmed by reduction of cough frequency in SO2-induced cough model and [citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid)-induced cough model
 - Digestive use (Deepana) supported by enhancement of gastric enzyme secretion and carminative activity of essential oil components
 
 ## What do recent clinical trials show?
@@ -95,7 +95,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Karkatashringi/meta-analysis.
 
 **Storage:** Store in airtight containers at room temperature (15-30°C). Highly stable due to inherent tannin-mediated antioxidant activity. Protect from moisture to prevent caking.
 
-**Marker Compounds:** Gallic acid, Ellagic acid, Tannic acid, Methyl gallate, 1,2,3,4,6-Penta-O-galloyl-beta-D-[glucose](/nighantu/glossary/compounds-d-g/#glucose), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+**Marker Compounds:** Gallic acid, Ellagic acid, Tannic acid, Methyl gallate, 1,2,3,4,6-Penta-O-galloyl-beta-D-[glucose](/glossary/compounds-d-g/#glucose), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 
 ### Extraction Methods
 
@@ -106,8 +106,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Karkatashringi/meta-analysis.
 
 ### Synergistic Combinations
 
-- [Vasa](/nighantu/herb/vasa/) (Adhatoda vasica) for pediatric respiratory formulations
-- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (Licorice) for cough management
-- [Pippali](/nighantu/herb/pippali/) for bronchodilation synergy
-- [Tulsi](/nighantu/herb/tulsi/) for respiratory infections in children
-- [Sitopaladi Churna](/nighantu/formulation/sitopaladi-churna/) as a base respiratory formulation
+- [Vasa](/herb/vasa/) (Adhatoda vasica) for pediatric respiratory formulations
+- [Yashtimadhu](/herb/yashtimadhu/) (Licorice) for cough management
+- [Pippali](/herb/pippali/) for bronchodilation synergy
+- [Tulsi](/herb/tulsi/) for respiratory infections in children
+- [Sitopaladi Churna](/formulation/sitopaladi-churna/) as a base respiratory formulation

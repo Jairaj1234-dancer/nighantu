@@ -29,23 +29,23 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kankola/meta-analysis.md"
 ## Key Phytochemical Constituents
 
 - Cubebin (major lignan)
-- [Piperine](/nighantu/reference/piperine/)
-- [Sesamin](/nighantu/glossary/compounds-q-t/#sesamin) and hinokinin
+- [Piperine](/reference/piperine/)
+- [Sesamin](/glossary/compounds-q-t/#sesamin) and hinokinin
 - Cubebinionolide and cubebinone
 - Dihydrocubebin, yatein, clusin
-- Essential oil: [sabinene](/nighantu/glossary/compounds-q-t/#sabinene), alpha-copaene, delta-cadinene
+- Essential oil: [sabinene](/glossary/compounds-q-t/#sabinene), alpha-copaene, delta-cadinene
 
 ## How does it work?
 
 - Anti-inflammatory activity via cubebin-mediated inhibition of NF-kB pathway and suppression of pro-inflammatory cytokines
-- Antibacterial mechanism through disruption of bacterial cell membrane integrity by [lignans](/nighantu/glossary/compounds-g-l/#lignans) and essential oil components
-- [Antidiabetic](/nighantu/reference/antidiabetic/) effect through alpha-amylase and alpha-glucosidase enzyme inhibition reducing postprandial [glucose](/nighantu/glossary/compounds-d-g/#glucose) spikes
-- [Hepatoprotective](/nighantu/reference/hepatoprotective/) and nephroprotective activities through [antioxidant](/nighantu/reference/antioxidant/)-mediated protection against oxidative stress-induced organ damage
+- Antibacterial mechanism through disruption of bacterial cell membrane integrity by [lignans](/glossary/compounds-g-l/#lignans) and essential oil components
+- [Antidiabetic](/reference/antidiabetic/) effect through alpha-amylase and alpha-glucosidase enzyme inhibition reducing postprandial [glucose](/glossary/compounds-d-g/#glucose) spikes
+- [Hepatoprotective](/reference/hepatoprotective/) and nephroprotective activities through [antioxidant](/reference/antioxidant/)-mediated protection against oxidative stress-induced organ damage
 
 ## Which traditional uses are supported by research?
 
 - Digestive and carminative (Deepana-Pachana) - validated through confirmed stimulant and carminative properties
-- Respiratory disorders and cough (Kasa-hara) - supported by traditional [expectorant](/nighantu/reference/expectorant/) use; essential oil has [antimicrobial](/nighantu/reference/antimicrobial/) activity against respiratory pathogens
+- Respiratory disorders and cough (Kasa-hara) - supported by traditional [expectorant](/reference/expectorant/) use; essential oil has [antimicrobial](/reference/antimicrobial/) activity against respiratory pathogens
 - Urogenital health (Mutra-roga) - traditional use for urinary tract infections partially supported by antimicrobial data
 - Oral health freshener (Mukha-shodhana) - traditional oral care use supported by antibacterial activity
 
@@ -81,7 +81,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kankola/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g powder twice daily; 3-5 drops essential oil (diluted); as adjuvant in formulations
 
-**Bioavailability:** Essential oil constituents (1,8-[cineole](/nighantu/glossary/compounds-c-d/#cineole), [eugenol](/nighantu/glossary/compounds-d-g/#eugenol)) are readily absorbed through oral and transdermal routes. Volatile [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids) have good bioavailability but short plasma half-lives. Cyclodextrin inclusion complexes extend residence time. Co-administration with fats enhances absorption of sesquiterpenes.
+**Bioavailability:** Essential oil constituents (1,8-[cineole](/glossary/compounds-c-d/#cineole), [eugenol](/glossary/compounds-d-g/#eugenol)) are readily absorbed through oral and transdermal routes. Volatile [terpenoids](/glossary/compounds-t-z/#terpenoids) have good bioavailability but short plasma half-lives. Cyclodextrin inclusion complexes extend residence time. Co-administration with fats enhances absorption of sesquiterpenes.
 
 **Optimal Timing:** After meals for digestive support; before meals for appetite stimulation
 
@@ -104,6 +104,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kankola/meta-analysis.md"
 ### Synergistic Combinations
 
 - Ela (Cardamom) for digestive formulations
-- [Lavanga](/nighantu/herb/lavanga/) (Clove) for oral health preparations
-- [Jatiphala](/nighantu/herb/jatiphala/) (Nutmeg) for carminative synergy
-- Maricha ([Black pepper](/nighantu/herb/black-pepper/)) for bioavailability enhancement
+- [Lavanga](/herb/lavanga/) (Clove) for oral health preparations
+- [Jatiphala](/herb/jatiphala/) (Nutmeg) for carminative synergy
+- Maricha ([Black pepper](/herb/black-pepper/)) for bioavailability enhancement

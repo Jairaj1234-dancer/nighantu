@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Lohas-Iron-Preparations/Prad
 
 | Language | Name |
 |----------|------|
-| English | [Pradarantak Lauh](/nighantu/herb/pradarantak-lauh/) |
+| English | [Pradarantak Lauh](/herb/pradarantak-lauh/) |
 
 ## Where is it described in the classical texts?
 
@@ -31,12 +31,12 @@ Bhaishajya Ratnavali, Stri Rogadhikara (Gynecological Disorders Chapter), Verses
 
 ## How does it work?
 
-- [Loha Bhasma](/nighantu/herb/loha-bhasma/) provides bioavailable iron to correct anemia secondary to excessive menstrual blood loss
-- [Tamra Bhasma](/nighantu/herb/tamra-bhasma/) (copper calx) supports copper-dependent [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) essential for iron metabolism and ceruloplasmin synthesis
-- [Abhraka Bhasma](/nighantu/herb/abhraka-bhasma/) (mica calx) provides trace minerals and acts as a [Rasayana](/nighantu/reference/rasayana/) (rejuvenative), strengthening uterine tissue
-- [Trikatu](/nighantu/herb/trikatu/) (Shunthi + Maricha + [Pippali](/nighantu/herb/pippali/)) enhances absorption of mineral Bhasmas and stimulates Agni (digestive fire)
-- [Triphala](/nighantu/herb/triphala/) components provide [hemostatic](/nighantu/glossary/pharmacology/#hemostatic), anti-inflammatory, and [antioxidant](/nighantu/reference/antioxidant/) effects supporting uterine health
-- [Varatika Bhasma](/nighantu/herb/varatika-bhasma/) (cowrie shell calx) provides calcium and acts as a uterine tonic reducing excessive bleeding
+- [Loha Bhasma](/herb/loha-bhasma/) provides bioavailable iron to correct anemia secondary to excessive menstrual blood loss
+- [Tamra Bhasma](/herb/tamra-bhasma/) (copper calx) supports copper-dependent [enzymes](/glossary/compounds-d-g/#enzymes) essential for iron metabolism and ceruloplasmin synthesis
+- [Abhraka Bhasma](/herb/abhraka-bhasma/) (mica calx) provides trace minerals and acts as a [Rasayana](/reference/rasayana/) (rejuvenative), strengthening uterine tissue
+- [Trikatu](/herb/trikatu/) (Shunthi + Maricha + [Pippali](/herb/pippali/)) enhances absorption of mineral Bhasmas and stimulates Agni (digestive fire)
+- [Triphala](/herb/triphala/) components provide [hemostatic](/glossary/pharmacology/#hemostatic), anti-inflammatory, and [antioxidant](/reference/antioxidant/) effects supporting uterine health
+- [Varatika Bhasma](/herb/varatika-bhasma/) (cowrie shell calx) provides calcium and acts as a uterine tonic reducing excessive bleeding
 
 ## Which traditional uses are supported by research?
 
@@ -74,16 +74,16 @@ Bhaishajya Ratnavali, Stri Rogadhikara (Gynecological Disorders Chapter), Verses
 
 **Bioavailability:** Good; formulated specifically for gynecological iron delivery
 
-**Optimal Timing:** After meals with [Ashoka](/nighantu/herb/ashoka/) Kwatha or honey
+**Optimal Timing:** After meals with [Ashoka](/herb/ashoka/) Kwatha or honey
 
-**Standardized Extract:** [Loha Bhasma](/nighantu/herb/loha-bhasma/) with gynecological herbs
+**Standardized Extract:** [Loha Bhasma](/herb/loha-bhasma/) with gynecological herbs
 
 **Shelf Life:** 3–5 years
 
 **Storage:** Airtight container
 
-**Marker Compounds:** Iron oxide, [Ashoka](/nighantu/herb/ashoka/) [tannins](/nighantu/reference/tannins/), [Lodhra](/nighantu/herb/lodhra/) [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids)
+**Marker Compounds:** Iron oxide, [Ashoka](/herb/ashoka/) [tannins](/reference/tannins/), [Lodhra](/herb/lodhra/) [alkaloids](/glossary/compounds-1-a/#alkaloids)
 
 **Quality Parameters:** Iron content as labeled, standard tablet tests
 
-**Vehicle (Anupana):** Ashoka Kwatha, [Lodhra](/nighantu/herb/lodhra/) Kwatha, or rice water
+**Vehicle (Anupana):** Ashoka Kwatha, [Lodhra](/herb/lodhra/) Kwatha, or rice water

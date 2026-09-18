@@ -28,25 +28,25 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Nimbu/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- D-[Limonene](/nighantu/glossary/compounds-g-l/#limonene) (monoterpene)
-- [Hesperidin](/nighantu/glossary/compounds-g-l/#hesperidin) (flavanone glycoside)
+- D-[Limonene](/glossary/compounds-g-l/#limonene) (monoterpene)
+- [Hesperidin](/glossary/compounds-g-l/#hesperidin) (flavanone glycoside)
 - Diosmin
 - Eriocitrin
-- [Naringin](/nighantu/glossary/compounds-l-o/#naringin)
-- [Citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid)
+- [Naringin](/glossary/compounds-l-o/#naringin)
+- [Citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid)
 - Ascorbic acid (Vitamin C)
 - Beta-pinene
 - Gamma-terpinene
-- [Linalool](/nighantu/glossary/compounds-l-o/#linalool)
-- [Quercetin](/nighantu/reference/quercetinquercetin/)
+- [Linalool](/glossary/compounds-l-o/#linalool)
+- [Quercetin](/reference/quercetinquercetin/)
 - Ferulic acid
 
 ## How does it work?
 
-- [Antioxidant](/nighantu/reference/antioxidant/) activity via flavonoid-mediated (hesperidin, eriocitrin) free radical scavenging and metal chelation
+- [Antioxidant](/reference/antioxidant/) activity via flavonoid-mediated (hesperidin, eriocitrin) free radical scavenging and metal chelation
 - Anti-inflammatory action through diosmin and hesperidin-mediated inhibition of TNF-alpha, IL-6 and NF-kB signaling
-- [Anticancer](/nighantu/reference/anticancer/) potential via D-limonene-induced apoptosis, phase II enzyme induction, and inhibition of tumor angiogenesis
-- [Antimicrobial](/nighantu/reference/antimicrobial/) activity through essential oil [monoterpenes](/nighantu/glossary/compounds-l-o/#monoterpenes) disrupting bacterial and fungal cell membrane integrity
+- [Anticancer](/reference/anticancer/) potential via D-limonene-induced apoptosis, phase II enzyme induction, and inhibition of tumor angiogenesis
+- [Antimicrobial](/reference/antimicrobial/) activity through essential oil [monoterpenes](/glossary/compounds-l-o/#monoterpenes) disrupting bacterial and fungal cell membrane integrity
 
 ## Which traditional uses are supported by research?
 
@@ -58,16 +58,16 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Nimbu/meta-analysis.md"
 ## What do recent clinical trials show?
 
 - Klimek-Szczykutowicz M, Szopa A, Ekiert H 2020. [Citrus limon (Lemon) Phenomenon-A Review of the Chemistry, Pharmacological Properties, Applications in the Modern Pharmaceutical, Food, and Cosmetics Industries, and Biotechnological Studies](https://pubmed.ncbi.nlm.nih.gov/31963590/). *Plants (Basel, Switzerland)*. PMID [31963590](https://pubmed.ncbi.nlm.nih.gov/31963590/) · [doi:10.3390/plants9010119](https://doi.org/10.3390/plants9010119)  
-  Comprehensive review confirmed antioxidant, anti-inflammatory, antimicrobial, [antidiabetic](/nighantu/reference/antidiabetic/), anticancer and [hepatoprotective](/nighantu/reference/hepatoprotective/) activities attributed to [flavonoids](/nighantu/reference/flavonoids/), limonoids, [coumarins](/nighantu/glossary/compounds-c-d/#coumarins) and terpenes.
+  Comprehensive review confirmed antioxidant, anti-inflammatory, antimicrobial, [antidiabetic](/reference/antidiabetic/), anticancer and [hepatoprotective](/reference/hepatoprotective/) activities attributed to [flavonoids](/reference/flavonoids/), limonoids, [coumarins](/glossary/compounds-c-d/#coumarins) and terpenes.
 - Singh N, Yarla NS, Siddiqi NJ and others 2021. [Features, Pharmacological Chemistry, Molecular Mechanism and Health Benefits of Lemon](https://pubmed.ncbi.nlm.nih.gov/32901586/). *Medicinal chemistry (Shariqah (United Arab Emirates))*. PMID [32901586](https://pubmed.ncbi.nlm.nih.gov/32901586/) · [doi:10.2174/1573406416666200909104050](https://doi.org/10.2174/1573406416666200909104050)  
-  D-limonene demonstrated anticancer potential through induction of phase II detoxification [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) and inhibition of Ras-MAPK signaling pathway in cancer cell models.
+  D-limonene demonstrated anticancer potential through induction of phase II detoxification [enzymes](/glossary/compounds-d-g/#enzymes) and inhibition of Ras-MAPK signaling pathway in cancer cell models.
 
 *1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
 - Generally Recognized as Safe (GRAS) by FDA for food and flavoring use; lemon juice is safe at dietary levels
-- Excessive consumption may cause dental erosion due to [citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid) content; phototoxicity risk from [psoralen](/nighantu/glossary/compounds-o-q/#psoralen)/furanocoumarin compounds in peel essential oil upon UV exposure
+- Excessive consumption may cause dental erosion due to [citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid) content; phototoxicity risk from [psoralen](/glossary/compounds-o-q/#psoralen)/furanocoumarin compounds in peel essential oil upon UV exposure
 
 ## What is it made of?
 
@@ -92,11 +92,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Nimbu/meta-analysis.md"
 
 **Standard Dosage:** 10-30 mL fresh lemon juice with water daily; 1-3 g spray-dried juice powder; 2-5 drops essential oil for aromatherapy; topical gel 2-5% citrus extract
 
-**Bioavailability:** [Citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid) and ascorbic acid are rapidly and nearly completely absorbed (>90% bioavailability). Limonene from peel oil shows moderate oral bioavailability (~40-60%) with rapid absorption. Flavonoids (hesperidin, eriocitrin) have variable bioavailability (10-30%) improved by co-administration with [pectin](/nighantu/glossary/compounds-o-q/#pectin) or bioflavonoid complex. Vitamin C degrades rapidly in solution at pH >4 and elevated temperatures.
+**Bioavailability:** [Citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid) and ascorbic acid are rapidly and nearly completely absorbed (>90% bioavailability). Limonene from peel oil shows moderate oral bioavailability (~40-60%) with rapid absorption. Flavonoids (hesperidin, eriocitrin) have variable bioavailability (10-30%) improved by co-administration with [pectin](/glossary/compounds-o-q/#pectin) or bioflavonoid complex. Vitamin C degrades rapidly in solution at pH >4 and elevated temperatures.
 
 **Optimal Timing:** Morning on empty stomach with warm water for detoxification. Before meals as appetite stimulant. Post-meal for digestive comfort.
 
-**Standardized Extract:** Spray-dried lemon juice powder with minimum 8% citric acid and 2% ascorbic acid. Lemon peel extract standardized to hesperidin >5% and eriocitrin >2%. Essential oil: limonene >60%, [citral](/nighantu/glossary/compounds-c-d/#citral) 2-5%.
+**Standardized Extract:** Spray-dried lemon juice powder with minimum 8% citric acid and 2% ascorbic acid. Lemon peel extract standardized to hesperidin >5% and eriocitrin >2%. Essential oil: limonene >60%, [citral](/glossary/compounds-c-d/#citral) 2-5%.
 
 **Shelf Life:** Fresh juice: 24-48 hours refrigerated; Spray-dried powder: 12-18 months; Essential oil: 12-24 months; Effervescent tablets: 18-24 months
 
@@ -115,8 +115,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Nimbu/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- Adrak/[Ginger](/nighantu/herb/ginger/) (digestive and anti-nausea synergy)
-- [Madhu](/nighantu/herb/madhu/)/Honey (throat soothing and antimicrobial)
-- [Saindhava Lavana](/nighantu/herb/saindhava-lavana/) (electrolyte balance and digestive)
-- [Tulsi](/nighantu/herb/tulsi/) (immune support beverage)
-- [Haridra](/nighantu/herb/haridra/) (golden lemon anti-inflammatory preparation)
+- Adrak/[Ginger](/herb/ginger/) (digestive and anti-nausea synergy)
+- [Madhu](/herb/madhu/)/Honey (throat soothing and antimicrobial)
+- [Saindhava Lavana](/herb/saindhava-lavana/) (electrolyte balance and digestive)
+- [Tulsi](/herb/tulsi/) (immune support beverage)
+- [Haridra](/herb/haridra/) (golden lemon anti-inflammatory preparation)

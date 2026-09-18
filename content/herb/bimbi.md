@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Bimbi/meta-analysis.md"
 
 **Standard Dosage:** 10-20ml fresh juice twice daily; 3-6g powder; 50-100ml decoction; applied externally as paste for skin conditions
 
-**Bioavailability:** Limited pharmacokinetic data for Coccinia grandis/indica. [Triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids) (cephalandrin) show moderate oral bioavailability. Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol) is moderately absorbed (10-15%). [Pectin](/nighantu/glossary/compounds-o-q/#pectin) and fiber in the fruit may slow absorption. Fresh juice provides direct exposure of water-soluble insulin-like compounds to GI mucosa. Co-administration with lipids enhances triterpenoid absorption.
+**Bioavailability:** Limited pharmacokinetic data for Coccinia grandis/indica. [Triterpenoids](/glossary/compounds-t-z/#triterpenoids) (cephalandrin) show moderate oral bioavailability. Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol) is moderately absorbed (10-15%). [Pectin](/glossary/compounds-o-q/#pectin) and fiber in the fruit may slow absorption. Fresh juice provides direct exposure of water-soluble insulin-like compounds to GI mucosa. Co-administration with lipids enhances triterpenoid absorption.
 
 **Optimal Timing:** Early morning on empty stomach for blood sugar management; before meals for metabolic effects; juice ideally consumed fresh
 
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Bimbi/meta-analysis.md"
 
 **Storage:** Fresh juice refrigerated at 2-8°C. Dried preparations in airtight containers. Cool, dry place below 25°C.
 
-**Marker Compounds:** Cephalandrin A and B, Beta-sitosterol, Stigmast-7-en-3-one, [Taraxerol](/nighantu/glossary/compounds-t-z/#taraxerol), [Lupeol](/nighantu/reference/lupeol/), Cucurbitacin B, Ombuin
+**Marker Compounds:** Cephalandrin A and B, Beta-sitosterol, Stigmast-7-en-3-one, [Taraxerol](/glossary/compounds-t-z/#taraxerol), [Lupeol](/reference/lupeol/), Cucurbitacin B, Ombuin
 
 ### Extraction Methods
 
@@ -58,11 +58,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Bimbi/meta-analysis.md"
 - Hydroalcoholic extraction (60:40) for triterpenoid-rich fraction
 - Aqueous decoction for traditional preparation
 - Ethanol extraction (95%) for alkaloid-rich fractions
-- Petroleum ether extraction for lipophilic [sterols](/nighantu/glossary/compounds-q-t/#sterols)
+- Petroleum ether extraction for lipophilic [sterols](/glossary/compounds-q-t/#sterols)
 
 ### Synergistic Combinations
 
-- With Meshashringi (Gymnema) for [antidiabetic](/nighantu/reference/antidiabetic/) synergy
-- With [Karela](/nighantu/herb/karela/) ([bitter gourd](/nighantu/herb/bitter-gourd/)) for blood [glucose](/nighantu/glossary/compounds-d-g/#glucose) management
-- With [Haridra](/nighantu/herb/haridra/) for metabolic syndrome
-- With [Vijaysar](/nighantu/herb/vijaysar/) for diabetic formulations
+- With Meshashringi (Gymnema) for [antidiabetic](/reference/antidiabetic/) synergy
+- With [Karela](/herb/karela/) ([bitter gourd](/herb/bitter-gourd/)) for blood [glucose](/glossary/compounds-d-g/#glucose) management
+- With [Haridra](/herb/haridra/) for metabolic syndrome
+- With [Vijaysar](/herb/vijaysar/) for diabetic formulations

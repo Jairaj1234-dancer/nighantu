@@ -23,24 +23,24 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Maha-Naraya
 
 | Language | Name |
 |----------|------|
-| English | Maha [Narayana Thailam](/nighantu/formulation/narayana-thailam/)|Maha Narayana Thailam |
+| English | Maha [Narayana Thailam](/formulation/narayana-thailam/)|Maha Narayana Thailam |
 
 ## Where is it described in the classical texts?
 
-Bhaishajya Ratnavali (Vatavyadhi Chikitsa, verses 151-162) by Govind Das Sen. The 'Maha' (great) version is an expanded formulation of [Narayana Thailam](/nighantu/formulation/narayana-thailam/) with 50-56+ herbs including the rare Ashtavarga group. Also referenced in Sushruta Samhita commentaries.
+Bhaishajya Ratnavali (Vatavyadhi Chikitsa, verses 151-162) by Govind Das Sen. The 'Maha' (great) version is an expanded formulation of [Narayana Thailam](/formulation/narayana-thailam/) with 50-56+ herbs including the rare Ashtavarga group. Also referenced in Sushruta Samhita commentaries.
 
 ## How does it work?
 
-- [Withanolides](/nighantu/glossary/compounds-t-z/#withanolides) from [Ashwagandha](/nighantu/herb/ashwagandha/) suppress NF-kB pathway activation, reducing inflammatory cytokines (TNF-alpha, IL-6) at joint tissue level
-- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) base serves as a penetration enhancer, delivering lipophilic [saponins](/nighantu/reference/saponins/), [lignans](/nighantu/glossary/compounds-g-l/#lignans), and phenolics transdermally to deep musculoskeletal tissues
-- [Guduchi](/nighantu/herb/guduchi/)'s [berberine](/nighantu/glossary/compounds-a-c/#berberine) and tinosporine [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) provide [immunomodulatory](/nighantu/reference/immunomodulatory/) and anti-arthritic effects by modulating T-cell response and reducing rheumatoid factor
-- [Rasna](/nighantu/herb/rasna/)'s clerodane [diterpenes](/nighantu/glossary/compounds-d-g/#diterpenes) provide specific anti-inflammatory action on synovial membranes, reducing joint swelling and stiffness
+- [Withanolides](/glossary/compounds-t-z/#withanolides) from [Ashwagandha](/herb/ashwagandha/) suppress NF-kB pathway activation, reducing inflammatory cytokines (TNF-alpha, IL-6) at joint tissue level
+- [Sesame oil](/glossary/concepts-m-y/#tila-taila) base serves as a penetration enhancer, delivering lipophilic [saponins](/reference/saponins/), [lignans](/glossary/compounds-g-l/#lignans), and phenolics transdermally to deep musculoskeletal tissues
+- [Guduchi](/herb/guduchi/)'s [berberine](/glossary/compounds-a-c/#berberine) and tinosporine [alkaloids](/glossary/compounds-1-a/#alkaloids) provide [immunomodulatory](/reference/immunomodulatory/) and anti-arthritic effects by modulating T-cell response and reducing rheumatoid factor
+- [Rasna](/herb/rasna/)'s clerodane [diterpenes](/glossary/compounds-d-g/#diterpenes) provide specific anti-inflammatory action on synovial membranes, reducing joint swelling and stiffness
 
 ## Which traditional uses are supported by research?
 
 - Osteoarthritis and joint pain management - validated by AYU Journal study (2018) showing 68% symptom reduction with 21 days of Abhyanga treatment
-- Vata-vyadhi (neuromuscular disorders) including paralysis, muscular atrophy, and tremors - supported by pharmacological studies confirming [neuroprotective](/nighantu/reference/neuroprotective/) and anti-inflammatory compounds
-- Bone and joint strengthening (Asthi-Sandhi Balya) - supported by the identification of [phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols) and calcium-channel active compounds from [Dashamoola](/nighantu/herb/dashamoola/) and [Ashwagandha](/nighantu/herb/ashwagandha/)
+- Vata-vyadhi (neuromuscular disorders) including paralysis, muscular atrophy, and tremors - supported by pharmacological studies confirming [neuroprotective](/reference/neuroprotective/) and anti-inflammatory compounds
+- Bone and joint strengthening (Asthi-Sandhi Balya) - supported by the identification of [phytosterols](/glossary/compounds-o-q/#phytosterols) and calcium-channel active compounds from [Dashamoola](/herb/dashamoola/) and [Ashwagandha](/herb/ashwagandha/)
 
 ## What do recent clinical trials show?
 
@@ -64,11 +64,11 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa, verses 151-162) by Govind Das Sen. Th
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Thailam (medicated [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)), External application
+**Dosage Forms:** Thailam (medicated [sesame oil](/glossary/concepts-m-y/#tila-taila)), External application
 
 **Standard Dosage:** External massage or Basti (enema): 30-60ml
 
-**Bioavailability:** Oil base ([sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
+**Bioavailability:** Oil base ([sesame oil](/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
 
 **Optimal Timing:** External: before bath or at bedtime. Internal: before meals
 
@@ -76,7 +76,7 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa, verses 151-162) by Govind Das Sen. Th
 
 **Storage:** Airtight amber glass/HDPE container, room temperature, protected from light
 
-**Marker Compounds:** Withanolides, [Aegeline](/nighantu/glossary/compounds-1-a/#aegeline), [Sesamin](/nighantu/glossary/compounds-q-t/#sesamin)
+**Marker Compounds:** Withanolides, [Aegeline](/glossary/compounds-1-a/#aegeline), [Sesamin](/glossary/compounds-q-t/#sesamin)
 
 **Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Withanolides, Aegeline, Sesamin
 
@@ -84,4 +84,4 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa, verses 151-162) by Govind Das Sen. Th
 
 ### Synergistic Combinations
 
-- Key herbs: [Bilva](/nighantu/herb/bilva/), [Ashwagandha](/nighantu/herb/ashwagandha/), [Brihati](/nighantu/herb/brihati/), [Shatavari](/nighantu/herb/shatavari/) + 20 more herbs; oil base acts as lipid carrier for enhanced tissue penetration
+- Key herbs: [Bilva](/herb/bilva/), [Ashwagandha](/herb/ashwagandha/), [Brihati](/herb/brihati/), [Shatavari](/herb/shatavari/) + 20 more herbs; oil base acts as lipid carrier for enhanced tissue penetration

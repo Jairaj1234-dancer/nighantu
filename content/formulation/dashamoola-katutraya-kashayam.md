@@ -23,17 +23,17 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Dashamoola-K
 
 | Language | Name |
 |----------|------|
-| English | [Dashamoola](/nighantu/herb/dashamoola/) Katutraya Kashayam |
+| English | [Dashamoola](/herb/dashamoola/) Katutraya Kashayam |
 
 ## Where is it described in the classical texts?
 
-Ashtanga Hridaya ([Dashamoola](/nighantu/herb/dashamoola/) Kwatham section). Refined in the Travancore region and documented in Kerala Bhaishajya Ratnavali as Dashamoolakatutrayam Kashayam for stubborn coughs, chronic arthritis, and post-natal weakness.
+Ashtanga Hridaya ([Dashamoola](/herb/dashamoola/) Kwatham section). Refined in the Travancore region and documented in Kerala Bhaishajya Ratnavali as Dashamoolakatutrayam Kashayam for stubborn coughs, chronic arthritis, and post-natal weakness.
 
 ## How does it work?
 
-- COX-2 and 5-LOX inhibition by [Dashamoola](/nighantu/herb/dashamoola/) roots provides broad-spectrum anti-inflammatory action
-- Bioavailability enhancement by [Trikatu](/nighantu/herb/trikatu/) (especially [Pippali](/nighantu/herb/pippali/) and Maricha) increases systemic absorption of [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) by up to 50%
-- Bronchodilatory action from [Vasa](/nighantu/herb/vasa/) (Adhatoda vasica) and [Trikatu](/nighantu/herb/trikatu/) components improves respiratory function
+- COX-2 and 5-LOX inhibition by [Dashamoola](/herb/dashamoola/) roots provides broad-spectrum anti-inflammatory action
+- Bioavailability enhancement by [Trikatu](/herb/trikatu/) (especially [Pippali](/herb/pippali/) and Maricha) increases systemic absorption of [glycosides](/glossary/compounds-g-l/#glycosides) by up to 50%
+- Bronchodilatory action from [Vasa](/herb/vasa/) (Adhatoda vasica) and [Trikatu](/herb/trikatu/) components improves respiratory function
 - Deep tissue warming action from the Katutraya (three pungent herbs) penetrates and resolves chronic Vata-Kapha disorders
 
 ## Which traditional uses are supported by research?
@@ -51,7 +51,7 @@ Ashtanga Hridaya ([Dashamoola](/nighantu/herb/dashamoola/) Kwatham section). Ref
 
 ## Recent safety updates
 
-- Well-tolerated in clinical trials. The pungent herbs ([Trikatu](/nighantu/herb/trikatu/)) may aggravate Pitta dosha; use cautiously in hyperacidity and peptic ulcer.
+- Well-tolerated in clinical trials. The pungent herbs ([Trikatu](/herb/trikatu/)) may aggravate Pitta dosha; use cautiously in hyperacidity and peptic ulcer.
 - May potentiate anti-inflammatory and anticoagulant drugs. Monitor closely in patients on concurrent NSAID or blood-thinning therapy.
 
 ## What is it made of?
@@ -69,7 +69,7 @@ Ashtanga Hridaya ([Dashamoola](/nighantu/herb/dashamoola/) Kwatham section). Ref
 
 **Standard Dosage:** 15-30 mL or 2 tablets twice daily before meals, as per Sahasrayogam
 
-**Bioavailability:** Hot decoction provides rapid absorption. [Trikatu](/nighantu/herb/trikatu/) (Katutraya) serves dual purpose — therapeutic and bioenhancer. [Piperine](/nighantu/reference/piperine/) increases absorption of other Dashamoola constituents. Synergistic anti-inflammatory effect of combined roots.
+**Bioavailability:** Hot decoction provides rapid absorption. [Trikatu](/herb/trikatu/) (Katutraya) serves dual purpose — therapeutic and bioenhancer. [Piperine](/reference/piperine/) increases absorption of other Dashamoola constituents. Synergistic anti-inflammatory effect of combined roots.
 
 **Optimal Timing:** Before meals, morning and evening
 
@@ -77,15 +77,15 @@ Ashtanga Hridaya ([Dashamoola](/nighantu/herb/dashamoola/) Kwatham section). Ref
 
 **Storage:** Fresh: same day use. Concentrates: amber glass at room temperature. Tablets: airtight containers at room temperature.
 
-**Marker Compounds:** Piperine, 6-[Gingerol](/nighantu/glossary/compounds-d-g/#gingerol), [Lupeol](/nighantu/reference/lupeol/) (from Dashamoola), [Marmelosin](/nighantu/glossary/compounds-l-o/#marmelosin) (from Bilwa root), [Solasodine](/nighantu/glossary/compounds-q-t/#solasodine) (from [Brihati](/nighantu/herb/brihati/)/[Kantakari](/nighantu/herb/kantakari/))
+**Marker Compounds:** Piperine, 6-[Gingerol](/glossary/compounds-d-g/#gingerol), [Lupeol](/reference/lupeol/) (from Dashamoola), [Marmelosin](/glossary/compounds-l-o/#marmelosin) (from Bilwa root), [Solasodine](/glossary/compounds-q-t/#solasodine) (from [Brihati](/herb/brihati/)/[Kantakari](/herb/kantakari/))
 
-**Quality Parameters:** pH, specific gravity, total solids, extractive values, piperine content by HPLC, total [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids), HPTLC fingerprint showing Dashamoola and [Trikatu](/nighantu/herb/trikatu/) markers, microbial limits, heavy metals
+**Quality Parameters:** pH, specific gravity, total solids, extractive values, piperine content by HPLC, total [alkaloids](/glossary/compounds-1-a/#alkaloids), HPTLC fingerprint showing Dashamoola and [Trikatu](/herb/trikatu/) markers, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Warm water (for tablets); taken as is (liquid)
 
 ### Synergistic Combinations
 
-- [Dashamularishta](/nighantu/formulation/dashamularishta/)
-- [Rasnadi Kwath](/nighantu/glossary/concepts-m-y/#rasnadi-kwath)
-- [Guggulu](/nighantu/formulation/guggulu/) preparations
-- Yogaraja [Guggulu](/nighantu/formulation/guggulu/)|Yogaraja Guggulu
+- [Dashamularishta](/formulation/dashamularishta/)
+- [Rasnadi Kwath](/glossary/concepts-m-y/#rasnadi-kwath)
+- [Guggulu](/formulation/guggulu/) preparations
+- Yogaraja [Guggulu](/formulation/guggulu/)|Yogaraja Guggulu

@@ -23,28 +23,28 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gandhak-Rasayan/meta-analysis
 
 | Language | Name |
 |----------|------|
-| English | [Gandhak Rasayan](/nighantu/herb/gandhak-rasayan/) |
+| English | [Gandhak Rasayan](/herb/gandhak-rasayan/) |
 | Latin/Botanical | *Purified Sulfur (Shuddha Gandhak) - mineral preparation* |
 
 ## Key Phytochemical Constituents
 
 - Purified elemental sulfur (primary active)
 - Trace minerals from herbal processing media
-- Herbal bioactives from [Triphala](/nighantu/herb/triphala/) Kashaya (processing medium)
-- Cow's milk [proteins](/nighantu/glossary/compounds-o-q/#proteins) and lipids (processing medium residuals)
+- Herbal bioactives from [Triphala](/herb/triphala/) Kashaya (processing medium)
+- Cow's milk [proteins](/glossary/compounds-o-q/#proteins) and lipids (processing medium residuals)
 - Sulfur compounds formed during Shodhana purification
-- [Polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) from herbal decoction processing
+- [Polyphenols](/glossary/compounds-o-q/#polyphenols) from herbal decoction processing
 
 ## How does it work?
 
-- [Antimicrobial](/nighantu/reference/antimicrobial/) mechanism through sulfur's inherent keratolytic and antimicrobial action disrupting bacterial cell wall synthesis and fungal membrane integrity
-- [Immunomodulatory](/nighantu/reference/immunomodulatory/) mechanism through enhancement of immune cell function and modulation of inflammatory pathways, supported by polyphenol contribution from [Triphala](/nighantu/herb/triphala/) processing
+- [Antimicrobial](/reference/antimicrobial/) mechanism through sulfur's inherent keratolytic and antimicrobial action disrupting bacterial cell wall synthesis and fungal membrane integrity
+- [Immunomodulatory](/reference/immunomodulatory/) mechanism through enhancement of immune cell function and modulation of inflammatory pathways, supported by polyphenol contribution from [Triphala](/herb/triphala/) processing
 - Detoxification mechanism through sulfur's role in glutathione synthesis and hepatic phase II conjugation reactions, enhancing toxin elimination pathways
 
 ## Which traditional uses are supported by research?
 
 - Antimicrobial and skin disease applications validated through in vitro studies showing activity against Staphylococcus aureus and Candida species, confirming use in Kushtha (skin diseases)
-- [Rasayana](/nighantu/reference/rasayana/) (rejuvenation) properties partially validated through immunomodulatory studies and chronic toxicity safety data supporting long-term use
+- [Rasayana](/reference/rasayana/) (rejuvenation) properties partially validated through immunomodulatory studies and chronic toxicity safety data supporting long-term use
 - Detoxification role supported by sulfur biochemistry (glutathione metabolism) and improvement in skin hydration demonstrated in pilot clinical study for eczema
 
 ## What do recent clinical trials show?
@@ -74,7 +74,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gandhak-Rasayan/meta-analysis
 
 **Standard Dosage:** 250-500mg tablet twice daily with milk or warm water. Classical dose: 1-2 Vati (250mg each) twice daily. Use under practitioner supervision.
 
-**Bioavailability:** [Gandhak Rasayan](/nighantu/herb/gandhak-rasayan/) is a Shodhita Gandhak (purified sulfur) based Rasayana preparation. Elemental sulfur undergoes biotransformation in the GI tract by colonic bacteria to hydrogen sulfide and sulfate, which are systemically absorbed. The Shodhana process (purification through cow's milk, ghee, and specific herbal decoctions) converts sulfur into a more biocompatible and absorbable form with reduced GI irritation. Traditional processing with ghee and milk creates sulfur-protein/lipid complexes that modulate absorption rate and reduce toxicity. Bioavailability of sulfur from Shodhita Gandhak is significantly higher than crude sulfur.
+**Bioavailability:** [Gandhak Rasayan](/herb/gandhak-rasayan/) is a Shodhita Gandhak (purified sulfur) based Rasayana preparation. Elemental sulfur undergoes biotransformation in the GI tract by colonic bacteria to hydrogen sulfide and sulfate, which are systemically absorbed. The Shodhana process (purification through cow's milk, ghee, and specific herbal decoctions) converts sulfur into a more biocompatible and absorbable form with reduced GI irritation. Traditional processing with ghee and milk creates sulfur-protein/lipid complexes that modulate absorption rate and reduce toxicity. Bioavailability of sulfur from Shodhita Gandhak is significantly higher than crude sulfur.
 
 **Optimal Timing:** After meals with milk or warm water; traditionally taken in the morning and evening
 
@@ -84,18 +84,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gandhak-Rasayan/meta-analysis
 
 **Storage:** Airtight containers at room temperature. Protect from moisture. Sulfur is stable under normal storage conditions. Keep away from oxidizing agents and heat sources.
 
-**Marker Compounds:** Elemental sulfur (S8, primary active), Sulfur purity assay, Heavy metals (As, Pb, Hg, Cd - safety limits), Herbal marker from Bhavana medium (e.g., gallic acid from [Triphala](/nighantu/herb/triphala/), [berberine](/nighantu/glossary/compounds-a-c/#berberine) from [Daruharidra](/nighantu/herb/daruharidra/) if used)
+**Marker Compounds:** Elemental sulfur (S8, primary active), Sulfur purity assay, Heavy metals (As, Pb, Hg, Cd - safety limits), Herbal marker from Bhavana medium (e.g., gallic acid from [Triphala](/herb/triphala/), [berberine](/glossary/compounds-a-c/#berberine) from [Daruharidra](/herb/daruharidra/) if used)
 
 ### Extraction Methods
 
-- Shodhana of Gandhak (sulfur): heated and quenched repeatedly in cow's milk, [Triphala](/nighantu/herb/triphala/) Kashayam, Bhringaraj juice, and ghee as per Rasa Tarangini
+- Shodhana of Gandhak (sulfur): heated and quenched repeatedly in cow's milk, [Triphala](/herb/triphala/) Kashayam, Bhringaraj juice, and ghee as per Rasa Tarangini
 - Bhavana (trituration) with herbal juices
 - Final product is purified sulfur triturated with specific herbal media - no extraction per se
 
 ### Synergistic Combinations
 
-- With [Guduchi](/nighantu/herb/guduchi/) for skin disease and immune support
-- With [Haridra](/nighantu/herb/haridra/) for chronic skin conditions
-- With [Nimba](/nighantu/herb/nimba/) for antibacterial and dermatological synergy
-- With Triphala for internal cleansing and [antioxidant](/nighantu/reference/antioxidant/) support
+- With [Guduchi](/herb/guduchi/) for skin disease and immune support
+- With [Haridra](/herb/haridra/) for chronic skin conditions
+- With [Nimba](/herb/nimba/) for antibacterial and dermatological synergy
+- With Triphala for internal cleansing and [antioxidant](/reference/antioxidant/) support
 - With Amalaki juice as Bhavana medium for enhanced Rasayana effect

@@ -40,9 +40,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Fever-Infection/Saptaparna/meta-analysis.md
 
 **Standard Dosage:** 3-6 g bark powder per day; 50-100 mL kwatha twice daily; 15-30 mL Saptaparnasava twice daily after meals
 
-**Bioavailability:** Indole [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) (echitamine, alstonine) show moderate to good oral bioavailability (30-50%). Alkaloids are basic and well-absorbed in the alkaline environment of the small intestine. Extensive hepatic metabolism via CYP3A4 and CYP2D6. [Tannins](/nighantu/reference/tannins/) in the bark may partially inhibit alkaloid absorption if not separated.
+**Bioavailability:** Indole [alkaloids](/glossary/compounds-1-a/#alkaloids) (echitamine, alstonine) show moderate to good oral bioavailability (30-50%). Alkaloids are basic and well-absorbed in the alkaline environment of the small intestine. Extensive hepatic metabolism via CYP3A4 and CYP2D6. [Tannins](/reference/tannins/) in the bark may partially inhibit alkaloid absorption if not separated.
 
-**Optimal Timing:** After meals to reduce GI irritation from alkaloids; evening dose for [antipyretic](/nighantu/reference/antipyretic/) action (Jvaraghna)
+**Optimal Timing:** After meals to reduce GI irritation from alkaloids; evening dose for [antipyretic](/reference/antipyretic/) action (Jvaraghna)
 
 **Standardized Extract:** Bark extract (10:1 DER in 60% ethanol), standardized to NLT 1.5% total alkaloids (as echitamine equivalents by HPLC); Ghana (solid aqueous extract) for traditional vati formulations
 
@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Fever-Infection/Saptaparna/meta-analysis.md
 
 ### Synergistic Combinations
 
-- [Guduchi](/nighantu/herb/guduchi/) (antipyretic and [immunomodulatory](/nighantu/reference/immunomodulatory/) synergy)
-- [Kiratatikta](/nighantu/herb/kiratatikta/) (antimalarial formulations)
+- [Guduchi](/herb/guduchi/) (antipyretic and [immunomodulatory](/reference/immunomodulatory/) synergy)
+- [Kiratatikta](/herb/kiratatikta/) (antimalarial formulations)
 - Kutaja (antidiarrheal combinations)
-- [Neem](/nighantu/herb/neem/) ([antimicrobial](/nighantu/reference/antimicrobial/) broad-spectrum formulations)
+- [Neem](/herb/neem/) ([antimicrobial](/reference/antimicrobial/) broad-spectrum formulations)

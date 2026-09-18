@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Brahmi-Vati/meta-an
 
 | Language | Name |
 |----------|------|
-| English | [Brahmi](/nighantu/herb/brahmi/) Vati |
+| English | [Brahmi](/herb/brahmi/) Vati |
 
 ## Where is it described in the classical texts?
 
@@ -32,10 +32,10 @@ Rasaratna Samuchchaya (16th century); also described in Bhaishajya Ratnavali (Un
 ## How does it work?
 
 - Synaptic repair and neuronal synthesis: Bacosides A and B enhance nerve impulse transmission and promote repair of damaged neurons by upregulating neuronal synthesis, kinase activity, and restoring synaptic function
-- Neurotransmitter modulation: Bacopa influences synthesis and availability of [serotonin](/nighantu/glossary/compounds-q-t/#serotonin) (5-HT), acetylcholine, dopamine, and GABA, maintaining neurotransmitter balance critical for memory and mood
-- [Neuroprotective](/nighantu/reference/neuroprotective/) [antioxidant](/nighantu/reference/antioxidant/): Increases concentration of GSH and enzymatic antioxidants (SOD, CAT, GPx) and acts as free radical scavenging agent, protecting neurons from oxidative damage
+- Neurotransmitter modulation: Bacopa influences synthesis and availability of [serotonin](/glossary/compounds-q-t/#serotonin) (5-HT), acetylcholine, dopamine, and GABA, maintaining neurotransmitter balance critical for memory and mood
+- [Neuroprotective](/reference/neuroprotective/) [antioxidant](/reference/antioxidant/): Increases concentration of GSH and enzymatic antioxidants (SOD, CAT, GPx) and acts as free radical scavenging agent, protecting neurons from oxidative damage
 - Cholinergic enhancement: Inhibits acetylcholinesterase activity, increasing acetylcholine availability at synapses, improving cognitive function especially relevant in Alzheimer's pathology
-- Anti-anxiety (Medhya [Rasayana](/nighantu/reference/rasayana/)): Modulates GABAergic and serotonergic pathways, reducing anxiety and promoting calm cognitive clarity without sedation
+- Anti-anxiety (Medhya [Rasayana](/reference/rasayana/)): Modulates GABAergic and serotonergic pathways, reducing anxiety and promoting calm cognitive clarity without sedation
 
 ## Which traditional uses are supported by research?
 
@@ -49,16 +49,16 @@ Rasaratna Samuchchaya (16th century); also described in Bhaishajya Ratnavali (Un
 - Chaudhari KS, Tiwari NR, Tiwari RR and others 2017. [Neurocognitive Effect of Nootropic Drug Brahmi (Bacopa monnieri) in Alzheimer's Disease](https://pubmed.ncbi.nlm.nih.gov/28588366/). *Annals of neurosciences*. PMID [28588366](https://pubmed.ncbi.nlm.nih.gov/28588366/) · [doi:10.1159/000475900](https://doi.org/10.1159/000475900)  
   Bacosides enhance nerve impulse transmission, promote repair of damaged neurons by upregulating neuronal synthesis and kinase activity, and restore synaptic function.
 - Stough C, Singh H, Zangara A 2015. [Mechanisms, Efficacy, and Safety of Bacopa monnieri (Brahmi) for Cognitive and Brain Enhancement](https://pubmed.ncbi.nlm.nih.gov/26413128/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [26413128](https://pubmed.ncbi.nlm.nih.gov/26413128/) · [doi:10.1155/2015/717605](https://doi.org/10.1155/2015/717605)  
-  Evidence-based review confirmed [Brahmi](/nighantu/herb/brahmi/)'s pharmacological effects including memory boosting in Alzheimer's Disease, antiparkinson, antistroke, and anticonvulsant potentials through multiple neurotransmitter pathway modulation.
+  Evidence-based review confirmed [Brahmi](/herb/brahmi/)'s pharmacological effects including memory boosting in Alzheimer's Disease, antiparkinson, antistroke, and anticonvulsant potentials through multiple neurotransmitter pathway modulation.
 - Mathur D, Goyal K, Koul V and others 2016. [The Molecular Links of Re-Emerging Therapy: A Review of Evidence of Brahmi (Bacopa monniera)](https://pubmed.ncbi.nlm.nih.gov/26973531/). *Frontiers in pharmacology*. PMID [26973531](https://pubmed.ncbi.nlm.nih.gov/26973531/) · [doi:10.3389/fphar.2016.00044](https://doi.org/10.3389/fphar.2016.00044)  
-  Comprehensive molecular analysis identified bacosides, brahmine, herpestine, and [flavonoids](/nighantu/reference/flavonoids/) as key active compounds mediating neuroprotective, antioxidant, and anti-inflammatory mechanisms.
+  Comprehensive molecular analysis identified bacosides, brahmine, herpestine, and [flavonoids](/reference/flavonoids/) as key active compounds mediating neuroprotective, antioxidant, and anti-inflammatory mechanisms.
 
 *1 further claim previously listed here could not be traced to a published paper and has been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
-- Brahmi (Bacopa) alone has high therapeutic index and is generally well tolerated; most common side effects are GI (increased stool frequency, nausea, abdominal cramps); however, [Brahmi Vati](/nighantu/formulation/brahmi-vati/) contains Rasasindura (mercury compound) and potentially Suvarna Bhasma requiring strict physician supervision
-- Always check heavy metal compliance certificates when purchasing; contraindicated in pregnancy and lactation; the gold-containing variant (Suvarna [Brahmi Vati](/nighantu/formulation/brahmi-vati/)) is costlier and more potent - requires even stricter medical oversight; not for long-term unsupervised use due to mineral content
+- Brahmi (Bacopa) alone has high therapeutic index and is generally well tolerated; most common side effects are GI (increased stool frequency, nausea, abdominal cramps); however, [Brahmi Vati](/formulation/brahmi-vati/) contains Rasasindura (mercury compound) and potentially Suvarna Bhasma requiring strict physician supervision
+- Always check heavy metal compliance certificates when purchasing; contraindicated in pregnancy and lactation; the gold-containing variant (Suvarna [Brahmi Vati](/formulation/brahmi-vati/)) is costlier and more potent - requires even stricter medical oversight; not for long-term unsupervised use due to mineral content
 
 ## What is it made of?
 
@@ -75,7 +75,7 @@ Rasaratna Samuchchaya (16th century); also described in Bhaishajya Ratnavali (Un
 
 **Standard Dosage:** 125-250 mg twice daily with milk or water, as per AFI Part I
 
-**Bioavailability:** Tablet/vati form provides controlled oral delivery. Bhavana with Brahmi svarasa impregnates the powder matrix with additional bacosides. [Piperine](/nighantu/reference/piperine/) from [Pippali](/nighantu/herb/pippali/) enhances absorption. [Sarpagandha](/nighantu/herb/sarpagandha/) [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) are well-absorbed orally.
+**Bioavailability:** Tablet/vati form provides controlled oral delivery. Bhavana with Brahmi svarasa impregnates the powder matrix with additional bacosides. [Piperine](/reference/piperine/) from [Pippali](/herb/pippali/) enhances absorption. [Sarpagandha](/herb/sarpagandha/) [alkaloids](/glossary/compounds-1-a/#alkaloids) are well-absorbed orally.
 
 **Optimal Timing:** Morning and before bedtime, preferably with milk for Medhya (cognitive) effect
 
@@ -83,7 +83,7 @@ Rasaratna Samuchchaya (16th century); also described in Bhaishajya Ratnavali (Un
 
 **Storage:** Store in airtight containers in a cool, dry place. Protect from moisture and light. Temperature not exceeding 30°C.
 
-**Marker Compounds:** Bacoside A, [Reserpine](/nighantu/glossary/compounds-q-t/#reserpine) (from [Sarpagandha](/nighantu/herb/sarpagandha/)), [Ajmalicine](/nighantu/glossary/compounds-1-a/#ajmalicine), Beta-asarone (from [Vacha](/nighantu/herb/vacha/)), [Jatamansone](/nighantu/glossary/compounds-g-l/#jatamansone) (from [Jatamansi](/nighantu/herb/jatamansi/)), Piperine
+**Marker Compounds:** Bacoside A, [Reserpine](/glossary/compounds-q-t/#reserpine) (from [Sarpagandha](/herb/sarpagandha/)), [Ajmalicine](/glossary/compounds-1-a/#ajmalicine), Beta-asarone (from [Vacha](/herb/vacha/)), [Jatamansone](/glossary/compounds-g-l/#jatamansone) (from [Jatamansi](/herb/jatamansi/)), Piperine
 
 **Quality Parameters:** Weight variation (±5%), hardness (4-6 kg/cm²), friability (<1%), disintegration time (<30 min), moisture content (<6%), bacoside A content by HPLC, reserpine content from Sarpagandha (within therapeutic limits), HPTLC fingerprint, microbial limits, heavy metals
 
@@ -91,8 +91,8 @@ Rasaratna Samuchchaya (16th century); also described in Bhaishajya Ratnavali (Un
 
 ### Synergistic Combinations
 
-- [Brahmi Ghritam](/nighantu/formulation/brahmi-ghritam/)
-- [Saraswatarishta](/nighantu/formulation/saraswatarishta/)
-- [Ashwagandha](/nighantu/herb/ashwagandha/) Churna
+- [Brahmi Ghritam](/formulation/brahmi-ghritam/)
+- [Saraswatarishta](/formulation/saraswatarishta/)
+- [Ashwagandha](/herb/ashwagandha/) Churna
 - Shankhapushpi Syrup
-- [Jatamansi](/nighantu/herb/jatamansi/) Churna
+- [Jatamansi](/herb/jatamansi/) Churna

@@ -28,26 +28,26 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Kalonji/meta-analys
 
 ## Key Phytochemical Constituents
 
-- [Thymoquinone](/nighantu/glossary/compounds-t-z/#thymoquinone) (TQ, major bioactive in essential oil)
-- [Thymohydroquinone](/nighantu/glossary/compounds-t-z/#thymohydroquinone)
-- [Thymol](/nighantu/glossary/compounds-t-z/#thymol)
-- [Carvacrol](/nighantu/glossary/compounds-a-c/#carvacrol)
+- [Thymoquinone](/glossary/compounds-t-z/#thymoquinone) (TQ, major bioactive in essential oil)
+- [Thymohydroquinone](/glossary/compounds-t-z/#thymohydroquinone)
+- [Thymol](/glossary/compounds-t-z/#thymol)
+- [Carvacrol](/glossary/compounds-a-c/#carvacrol)
 - p-Cymene
 - alpha-Thujene
-- Nigellicine and [Nigellidine](/nighantu/glossary/compounds-l-o/#nigellidine) ([alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids))
+- Nigellicine and [Nigellidine](/glossary/compounds-l-o/#nigellidine) ([alkaloids](/glossary/compounds-1-a/#alkaloids))
 - alpha-Hederin (saponin)
 
 ## How does it work?
 
 - Thymoquinone inhibits NF-kB, MAPK, and JAK/STAT signaling pathways, suppressing pro-inflammatory cytokine production
-- Anti-asthmatic action through functional antagonism of muscarinic receptors, inhibition of [histamine](/nighantu/glossary/compounds-g-l/#histamine) H1 receptors, calcium channel blocking, [potassium](/nighantu/glossary/compounds-o-q/#potassium) channel opening, and beta-adrenergic receptor stimulation
-- [Anticancer](/nighantu/reference/anticancer/) activity via induction of apoptosis through mitochondrial pathway, cell cycle arrest, and inhibition of angiogenesis
-- [Antidiabetic](/nighantu/reference/antidiabetic/) mechanism through enhanced pancreatic beta-cell function, improved insulin sensitivity, and inhibition of hepatic gluconeogenesis
-- [Antimicrobial](/nighantu/reference/antimicrobial/) action through oxidative stress-induced cell apoptosis, efflux pump blockade, and enhanced membrane permeability in pathogens
+- Anti-asthmatic action through functional antagonism of muscarinic receptors, inhibition of [histamine](/glossary/compounds-g-l/#histamine) H1 receptors, calcium channel blocking, [potassium](/glossary/compounds-o-q/#potassium) channel opening, and beta-adrenergic receptor stimulation
+- [Anticancer](/reference/anticancer/) activity via induction of apoptosis through mitochondrial pathway, cell cycle arrest, and inhibition of angiogenesis
+- [Antidiabetic](/reference/antidiabetic/) mechanism through enhanced pancreatic beta-cell function, improved insulin sensitivity, and inhibition of hepatic gluconeogenesis
+- [Antimicrobial](/reference/antimicrobial/) action through oxidative stress-induced cell apoptosis, efflux pump blockade, and enhanced membrane permeability in pathogens
 
 ## Which traditional uses are supported by research?
 
-- Digestive aid and carminative for bowel and indigestion problems - validated by pharmacological studies confirming [antispasmodic](/nighantu/glossary/pharmacology/#antispasmodic) and carminative effects
+- Digestive aid and carminative for bowel and indigestion problems - validated by pharmacological studies confirming [antispasmodic](/glossary/pharmacology/#antispasmodic) and carminative effects
 - Anti-asthmatic and respiratory relief - validated by clinical trials showing bronchodilatory effects and improved lung function in asthma patients
 - Blood sugar control in diabetes - supported by year-long adjuvant clinical trial (114 patients, 2 g/day) showing improved glycemic control in type 2 diabetes
 - Lipid-lowering and cardiovascular protection - confirmed by meta-analyses showing significant improvements in lipid profiles
@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Kalonji/meta-analys
 
 - Phase I study established safe daily thymoquinone dosage below 48.6 mg per adult (based on NOAEL of 5 mg/kg in 90-day rat studies, converted to human equivalent dose)
 - Very low toxicity profile; two cases of contact dermatitis reported with topical use; no significant adverse effects on liver or kidney function with oral administration of seed extract or oil
-- Caution advised with concurrent use of antidiabetic, [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive), and immunosuppressive drugs due to potential synergistic effects; not recommended during pregnancy without medical supervision
+- Caution advised with concurrent use of antidiabetic, [antihypertensive](/glossary/pharmacology/#antihypertensive), and immunosuppressive drugs due to potential synergistic effects; not recommended during pregnancy without medical supervision
 
 ## What is it made of?
 
@@ -92,7 +92,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Kalonji/meta-analys
 
 **Standard Dosage:** 1-3g whole seeds daily; 2.5-5ml oil daily; 500mg-1g extract; commonly mixed with honey (1 tsp seeds + 1 tsp honey)
 
-**Bioavailability:** Nigella sativa (Kalonji is the Hindi/Urdu name, same as [Kalajaji](/nighantu/herb/kalajaji/)). Thymoquinone bioavailability ~58% in animal models. The oil form serves as a natural self-emulsifying delivery system, providing superior TQ absorption compared to powder form. Nigella oil taken with food shows 2-3x higher TQ plasma levels than fasted state. SNEDDS and nanoparticle formulations under active research for enhanced delivery.
+**Bioavailability:** Nigella sativa (Kalonji is the Hindi/Urdu name, same as [Kalajaji](/herb/kalajaji/)). Thymoquinone bioavailability ~58% in animal models. The oil form serves as a natural self-emulsifying delivery system, providing superior TQ absorption compared to powder form. Nigella oil taken with food shows 2-3x higher TQ plasma levels than fasted state. SNEDDS and nanoparticle formulations under active research for enhanced delivery.
 
 **Optimal Timing:** Morning on empty stomach with honey (traditional); with meals for digestive support; oil with fatty meal for enhanced absorption
 
@@ -102,7 +102,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Kalonji/meta-analys
 
 **Storage:** Seeds: cool, dry, airtight containers. Oil: amber glass, nitrogen-flushed, below 25°C. Protect from light and heat. Avoid plastic containers for oil storage.
 
-**Marker Compounds:** Thymoquinone, Thymohydroquinone, Thymol, Carvacrol, [Nigellone](/nighantu/glossary/compounds-l-o/#nigellone), p-Cymene, Alpha-hederin, Nigellidine, Nigellicine
+**Marker Compounds:** Thymoquinone, Thymohydroquinone, Thymol, Carvacrol, [Nigellone](/glossary/compounds-l-o/#nigellone), p-Cymene, Alpha-hederin, Nigellidine, Nigellicine
 
 ### Extraction Methods
 
@@ -115,6 +115,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Kalonji/meta-analys
 ### Synergistic Combinations
 
 - With Honey for immune support (Prophetic medicine tradition)
-- With [Haridra](/nighantu/herb/haridra/) for systemic anti-inflammatory action
-- With [Ajwain](/nighantu/herb/ajwain/) for digestive support
-- With [Methi](/nighantu/herb/methi/) seeds for metabolic syndrome management
+- With [Haridra](/herb/haridra/) for systemic anti-inflammatory action
+- With [Ajwain](/herb/ajwain/) for digestive support
+- With [Methi](/herb/methi/) seeds for metabolic syndrome management

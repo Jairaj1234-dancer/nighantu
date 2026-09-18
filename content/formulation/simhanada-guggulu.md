@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Simhanada-Gu
 
 | Language | Name |
 |----------|------|
-| English | Simhanada [Guggulu](/nighantu/formulation/guggulu/)|Simhanada Guggulu |
+| English | Simhanada [Guggulu](/formulation/guggulu/)|Simhanada Guggulu |
 
 ## Where is it described in the classical texts?
 
@@ -32,15 +32,15 @@ Bhaishajya Ratnavali (Amavata Chikitsa Prakarana, Chapter 29); also described in
 ## How does it work?
 
 - DMARD-like action: The combined ingredients function as Disease Modifying Anti-Rheumatic Drugs, modulating immune response and preventing progressive joint destruction in rheumatoid arthritis
-- Ama Pachana (toxin digestion): Shuddha [Gandhaka](/nighantu/glossary/concepts-a-m/#gandhaka) (purified sulphur) and castor oil act synergistically to digest metabolic toxins (Ama) that are considered the root cause of Amavata in Ayurvedic pathology
-- Anti-inflammatory and anti-gout: [Triphala](/nighantu/herb/triphala/) provides potent [antioxidant](/nighantu/reference/antioxidant/), anti-inflammatory, and anti-hyperuricemic effects; guggulsterones inhibit pro-inflammatory cytokine cascades
-- Mild purgative detoxification: Castor oil ([Eranda](/nighantu/herb/eranda/) Taila) provides gentle [laxative](/nighantu/reference/laxative/) effect that eliminates accumulated Ama from the GI tract, breaking the Ama-Vata cycle
-- Immunomodulation: [Guduchi](/nighantu/herb/guduchi/) (Tinospora cordifolia) modulates both innate and adaptive immune responses, reducing autoimmune-mediated joint destruction
+- Ama Pachana (toxin digestion): Shuddha [Gandhaka](/glossary/concepts-a-m/#gandhaka) (purified sulphur) and castor oil act synergistically to digest metabolic toxins (Ama) that are considered the root cause of Amavata in Ayurvedic pathology
+- Anti-inflammatory and anti-gout: [Triphala](/herb/triphala/) provides potent [antioxidant](/reference/antioxidant/), anti-inflammatory, and anti-hyperuricemic effects; guggulsterones inhibit pro-inflammatory cytokine cascades
+- Mild purgative detoxification: Castor oil ([Eranda](/herb/eranda/) Taila) provides gentle [laxative](/reference/laxative/) effect that eliminates accumulated Ama from the GI tract, breaking the Ama-Vata cycle
+- Immunomodulation: [Guduchi](/herb/guduchi/) (Tinospora cordifolia) modulates both innate and adaptive immune responses, reducing autoimmune-mediated joint destruction
 
 ## Which traditional uses are supported by research?
 
 - Rheumatoid arthritis (Amavata) management validated through multiple reviews confirming DMARD-like activity with significant reduction in inflammation, pain, and stiffness
-- Anti-gout and anti-hyperuricemic activity validated through [Triphala](/nighantu/herb/triphala/)'s demonstrated anti-hyperuricemic effects in pharmacological studies
+- Anti-gout and anti-hyperuricemic activity validated through [Triphala](/herb/triphala/)'s demonstrated anti-hyperuricemic effects in pharmacological studies
 - Joint flexibility improvement validated through clinical observations showing enhanced mobility and reduced swelling
 - Detoxification and Ama elimination validated through the laxative and digestive mechanisms of castor oil and purified sulphur combination
 
@@ -53,7 +53,7 @@ Bhaishajya Ratnavali (Amavata Chikitsa Prakarana, Chapter 29); also described in
 ## Recent safety updates
 
 - Contains purified sulphur which may cause mild GI discomfort in some patients; castor oil component may cause loose stools; avoid in patients with diarrhea or irritable bowel syndrome; not recommended during pregnancy and lactation
-- Long-term use should be monitored; [guggulu](/nighantu/formulation/guggulu/) may interact with anticoagulant drugs; avoid in patients with bleeding disorders; discontinue if skin rash or allergic reaction occurs
+- Long-term use should be monitored; [guggulu](/formulation/guggulu/) may interact with anticoagulant drugs; avoid in patients with bleeding disorders; discontinue if skin rash or allergic reaction occurs
 
 ## What is it made of?
 
@@ -70,7 +70,7 @@ Bhaishajya Ratnavali (Amavata Chikitsa Prakarana, Chapter 29); also described in
 
 **Standard Dosage:** 2 tablets at bedtime
 
-**Bioavailability:** [Guggulu](/nighantu/formulation/guggulu/) resin acts as natural bioenhancer; guggulsterones have moderate oral bioavailability (~40%); lipophilic matrix aids absorption of co-formulated herbs
+**Bioavailability:** [Guggulu](/formulation/guggulu/) resin acts as natural bioenhancer; guggulsterones have moderate oral bioavailability (~40%); lipophilic matrix aids absorption of co-formulated herbs
 
 **Optimal Timing:** After meals, twice daily
 
@@ -86,4 +86,4 @@ Bhaishajya Ratnavali (Amavata Chikitsa Prakarana, Chapter 29); also described in
 
 ### Synergistic Combinations
 
-- Key herbs: Guggulu, [Triphala](/nighantu/herb/triphala/), [Gandhaka](/nighantu/glossary/concepts-a-m/#gandhaka), [Eranda](/nighantu/herb/eranda/) taila; guggulu potentiates anti-inflammatory and [hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic) actions
+- Key herbs: Guggulu, [Triphala](/herb/triphala/), [Gandhaka](/glossary/concepts-a-m/#gandhaka), [Eranda](/herb/eranda/) taila; guggulu potentiates anti-inflammatory and [hypolipidemic](/glossary/pharmacology/#hypolipidemic) actions

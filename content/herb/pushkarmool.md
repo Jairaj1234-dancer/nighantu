@@ -28,20 +28,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Pushkarmool/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Alantolactone](/nighantu/glossary/compounds-1-a/#alantolactone) (sesquiterpene lactone)
-- [Isoalantolactone](/nighantu/glossary/compounds-g-l/#isoalantolactone)
-- [Inulin](/nighantu/glossary/compounds-g-l/#inulin) (10.1%)
+- [Alantolactone](/glossary/compounds-1-a/#alantolactone) (sesquiterpene lactone)
+- [Isoalantolactone](/glossary/compounds-g-l/#isoalantolactone)
+- [Inulin](/glossary/compounds-g-l/#inulin) (10.1%)
 - Roylene
 - Dihydroisoalantolactone
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
-- [Daucosterol](/nighantu/glossary/compounds-c-d/#daucosterol)
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
+- [Daucosterol](/glossary/compounds-c-d/#daucosterol)
 - Inulicin
 
 ## How does it work?
 
-- [Cardioprotective](/nighantu/reference/cardioprotective/): Alantolactone inhibits HMG-CoA reductase, reduces serum cholesterol, and protects against myocardial ischemia-reperfusion injury through Nrf2/HO-1 pathway activation
-- Anti-asthmatic: Sesquiterpene lactones relax bronchial smooth muscle, inhibit [histamine](/nighantu/glossary/compounds-g-l/#histamine) release, and suppress Th2-mediated airway inflammation
-- [Anticancer](/nighantu/reference/anticancer/): Alantolactone induces apoptosis via STAT3 inhibition and ROS generation; activates p53-dependent mitochondrial apoptotic pathway
+- [Cardioprotective](/reference/cardioprotective/): Alantolactone inhibits HMG-CoA reductase, reduces serum cholesterol, and protects against myocardial ischemia-reperfusion injury through Nrf2/HO-1 pathway activation
+- Anti-asthmatic: Sesquiterpene lactones relax bronchial smooth muscle, inhibit [histamine](/glossary/compounds-g-l/#histamine) release, and suppress Th2-mediated airway inflammation
+- [Anticancer](/reference/anticancer/): Alantolactone induces apoptosis via STAT3 inhibition and ROS generation; activates p53-dependent mitochondrial apoptotic pathway
 
 ## Which traditional uses are supported by research?
 
@@ -52,7 +52,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Pushkarmool/meta-analysis.md"
 ## What do recent clinical trials show?
 
 - Rathore S, Raj Y, Debnath P and others 2022. [Ethnopharmacology, phytochemistry, agrotechnology, and conservation of Inula racemosa Hook f. - A critically endangered medicinal plant of the western Himalaya](https://pubmed.ncbi.nlm.nih.gov/34600078/). *Journal of ethnopharmacology*. PMID [34600078](https://pubmed.ncbi.nlm.nih.gov/34600078/) · [doi:10.1016/j.jep.2021.114613](https://doi.org/10.1016/j.jep.2021.114613)  
-  Documented critically endangered status and proposed agrotechnology protocols; confirmed broad spectrum of anti-inflammatory, [antimicrobial](/nighantu/reference/antimicrobial/), and [hepatoprotective](/nighantu/reference/hepatoprotective/) activities.
+  Documented critically endangered status and proposed agrotechnology protocols; confirmed broad spectrum of anti-inflammatory, [antimicrobial](/reference/antimicrobial/), and [hepatoprotective](/reference/hepatoprotective/) activities.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
@@ -93,7 +93,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Pushkarmool/meta-analysis.md"
 
 **Storage:** Dried root: cool, dry, pest-proof containers, below 25 deg C. Powder and extracts: airtight, amber containers, below 25 deg C, RH <55%, protected from light. Avaleha: clean, dry glass or food-grade containers.
 
-**Marker Compounds:** Alantolactone, Isoalantolactone, Dihydroisoalantolactone, Inulin, [Friedelin](/nighantu/glossary/compounds-d-g/#friedelin), Beta-sitosterol, Daucosterol, Germacranolide
+**Marker Compounds:** Alantolactone, Isoalantolactone, Dihydroisoalantolactone, Inulin, [Friedelin](/glossary/compounds-d-g/#friedelin), Beta-sitosterol, Daucosterol, Germacranolide
 
 ### Extraction Methods
 
@@ -106,8 +106,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Pushkarmool/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Pippali](/nighantu/herb/pippali/) (respiratory and cardiac combination - Pushkaramooladi Churna)
-- [Arjuna](/nighantu/herb/arjuna/) (cardioprotective synergy)
-- [Vasa](/nighantu/herb/vasa/) ([bronchodilator](/nighantu/reference/bronchodilator/) and [expectorant](/nighantu/reference/expectorant/))
-- [Kantakari](/nighantu/herb/kantakari/) (respiratory and anti-asthmatic)
-- [Guggulu](/nighantu/formulation/guggulu/) (anti-inflammatory and lipid-lowering)
+- [Pippali](/herb/pippali/) (respiratory and cardiac combination - Pushkaramooladi Churna)
+- [Arjuna](/herb/arjuna/) (cardioprotective synergy)
+- [Vasa](/herb/vasa/) ([bronchodilator](/reference/bronchodilator/) and [expectorant](/reference/expectorant/))
+- [Kantakari](/herb/kantakari/) (respiratory and anti-asthmatic)
+- [Guggulu](/formulation/guggulu/) (anti-inflammatory and lipid-lowering)

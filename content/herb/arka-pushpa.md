@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Arka-Pushpa/meta-analysi
 
 | Language | Name |
 |----------|------|
-| English | [Arka](/nighantu/herb/arka/) Pushpa |
+| English | [Arka](/herb/arka/) Pushpa |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -36,11 +36,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Arka-Pushpa/meta-analysi
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (flower powder), Swarasa (flower juice), [Ghrita](/nighantu/herb/ghrita/) (flower-processed ghee), Tablet, Capsule
+**Dosage Forms:** Churna (flower powder), Swarasa (flower juice), [Ghrita](/herb/ghrita/) (flower-processed ghee), Tablet, Capsule
 
 **Standard Dosage:** 1-3g flower powder twice daily; 5-10ml flower juice with ghee; as component in formulations per classical texts
 
-**Bioavailability:** Flowers of Calotropis procera/gigantea contain lower cardenolide levels than latex or root bark but still have therapeutic activity. [Flavonoids](/nighantu/reference/flavonoids/) and [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids) in flowers have moderate oral bioavailability. The flower is traditionally considered the mildest part of [Arka](/nighantu/herb/arka/) and is used for digestive (Deepana) and respiratory applications. Ghee as anupana enhances lipophilic constituent absorption.
+**Bioavailability:** Flowers of Calotropis procera/gigantea contain lower cardenolide levels than latex or root bark but still have therapeutic activity. [Flavonoids](/reference/flavonoids/) and [triterpenoids](/glossary/compounds-t-z/#triterpenoids) in flowers have moderate oral bioavailability. The flower is traditionally considered the mildest part of [Arka](/herb/arka/) and is used for digestive (Deepana) and respiratory applications. Ghee as anupana enhances lipophilic constituent absorption.
 
 **Optimal Timing:** Before meals with ghee for digestive stimulation; morning for respiratory conditions
 
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Arka-Pushpa/meta-analysi
 
 **Storage:** Airtight containers, cool and dry place. Ghrita in glass containers at room temperature or refrigerated for longer storage.
 
-**Marker Compounds:** [Calotropin](/nighantu/glossary/compounds-a-c/#calotropin) (at lower levels than other plant parts), [Quercetin](/nighantu/reference/quercetinquercetin/), [Isorhamnetin](/nighantu/glossary/compounds-g-l/#isorhamnetin), [Kaempferol](/nighantu/reference/kaempferol/), Alpha-amyrin acetate, Uvaol
+**Marker Compounds:** [Calotropin](/glossary/compounds-a-c/#calotropin) (at lower levels than other plant parts), [Quercetin](/reference/quercetinquercetin/), [Isorhamnetin](/glossary/compounds-g-l/#isorhamnetin), [Kaempferol](/reference/kaempferol/), Alpha-amyrin acetate, Uvaol
 
 ### Extraction Methods
 
@@ -63,5 +63,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Arka-Pushpa/meta-analysi
 
 - With ghee for Deepana (digestive fire stimulation)
 - With Sunthi for cough and respiratory support
-- With [Haridra](/nighantu/herb/haridra/) for mild anti-inflammatory action
+- With [Haridra](/herb/haridra/) for mild anti-inflammatory action
 - With Jaggery for cough formulations (classical)

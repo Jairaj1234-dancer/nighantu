@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Panchagav
 
 | Language | Name |
 |----------|------|
-| English | Panchagavya [Ghrita](/nighantu/herb/ghrita/)|Panchagavya Ghrita |
+| English | Panchagavya [Ghrita](/herb/ghrita/)|Panchagavya Ghrita |
 
 ## Where is it described in the classical texts?
 
@@ -32,9 +32,9 @@ Sushruta Samhita (mania, epilepsy, fever, hepatitis); Charaka Samhita; Ashtanga 
 ## How does it work?
 
 - Panchagavya components provide ketogenic substrate through high-fat cow ghee content, mimicking ketogenic diet mechanism in epilepsy management
-- [Brahmi](/nighantu/herb/brahmi/) (bacosides) and Shankhapushpi provide [neuroprotective](/nighantu/reference/neuroprotective/) and anticonvulsant action via GABAergic pathway modulation
-- [Vacha](/nighantu/herb/vacha/) (Acorus calamus) provides CNS-active compounds that reduce neural excitability and seizure threshold
-- Phytochemical profile includes [proteins](/nighantu/glossary/compounds-o-q/#proteins), amino acids, [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids), [steroids](/nighantu/glossary/compounds-q-t/#steroids), phenolics, [tannins](/nighantu/reference/tannins/), and [flavonoids](/nighantu/reference/flavonoids/) with [antioxidant](/nighantu/reference/antioxidant/) action reducing oxidative stress in brain
+- [Brahmi](/herb/brahmi/) (bacosides) and Shankhapushpi provide [neuroprotective](/reference/neuroprotective/) and anticonvulsant action via GABAergic pathway modulation
+- [Vacha](/herb/vacha/) (Acorus calamus) provides CNS-active compounds that reduce neural excitability and seizure threshold
+- Phytochemical profile includes [proteins](/glossary/compounds-o-q/#proteins), amino acids, [alkaloids](/glossary/compounds-1-a/#alkaloids), [steroids](/glossary/compounds-q-t/#steroids), phenolics, [tannins](/reference/tannins/), and [flavonoids](/reference/flavonoids/) with [antioxidant](/reference/antioxidant/) action reducing oxidative stress in brain
 - Synergistic interaction with conventional anticonvulsants (phenytoin, carbamazepine) enables dose reduction and improved tolerability
 
 ## Which traditional uses are supported by research?
@@ -42,7 +42,7 @@ Sushruta Samhita (mania, epilepsy, fever, hepatitis); Charaka Samhita; Ashtanga 
 - Apasmara (epilepsy): clinical study shows 25% complete seizure freedom, and dose-dependent 16.6-100% seizure protection in animal models
 - Unmada (psychosis/mania): classical psychiatric indication supported by neuroprotective and GABAergic pharmacological evidence
 - Adjuvant anti-epileptic therapy: demonstrated synergistic interaction with phenytoin and carbamazepine enabling dose reduction
-- [Kamala](/nighantu/herb/kamala/) (jaundice/liver disorders): traditional [hepatoprotective](/nighantu/reference/hepatoprotective/) use referenced in Sushruta Samhita
+- [Kamala](/herb/kamala/) (jaundice/liver disorders): traditional [hepatoprotective](/reference/hepatoprotective/) use referenced in Sushruta Samhita
 
 ## What do recent clinical trials show?
 
@@ -67,7 +67,7 @@ Sushruta Samhita (mania, epilepsy, fever, hepatitis); Charaka Samhita; Ashtanga 
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Capsule (for convenience)
+**Dosage Forms:** [Ghrita](/herb/ghrita/) (medicated ghee), Capsule (for convenience)
 
 **Standard Dosage:** 6-12ml twice daily for neurological conditions
 
@@ -75,7 +75,7 @@ Sushruta Samhita (mania, epilepsy, fever, hepatitis); Charaka Samhita; Ashtanga 
 
 **Optimal Timing:** Before meals on empty stomach for best absorption
 
-**Shelf Life:** 2 years (as per ASU guidelines for [ghrita](/nighantu/herb/ghrita/) preparations); improves with aging (Purana Ghrita concept)
+**Shelf Life:** 2 years (as per ASU guidelines for [ghrita](/herb/ghrita/) preparations); improves with aging (Purana Ghrita concept)
 
 **Storage:** Airtight glass/stainless steel container, cool dry place, protected from light and moisture
 
@@ -87,4 +87,4 @@ Sushruta Samhita (mania, epilepsy, fever, hepatitis); Charaka Samhita; Ashtanga 
 
 ### Synergistic Combinations
 
-- Key herbs: 5 cow products: milk, curd, ghee, urine, dung + Kushtha, [Brahmi](/nighantu/herb/brahmi/); ghee enhances tissue penetration (yogavahi property)
+- Key herbs: 5 cow products: milk, curd, ghee, urine, dung + Kushtha, [Brahmi](/herb/brahmi/); ghee enhances tissue penetration (yogavahi property)

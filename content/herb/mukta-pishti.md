@@ -23,12 +23,12 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Mukta-Pishti/meta-an
 
 | Language | Name |
 |----------|------|
-| English | [Mukta Pishti](/nighantu/herb/mukta-pishti/) |
+| English | [Mukta Pishti](/herb/mukta-pishti/) |
 
 ## How does it work?
 
 - Acid-neutralizing and gastroprotective: Calcium carbonate (aragonite form) directly neutralizes gastric acid; the ultra-fine particle size from traditional trituration enhances surface area and buffering capacity
-- [Anxiolytic](/nighantu/reference/anxiolytic/) and cardiac calming: Conchiolin [peptides](/nighantu/glossary/compounds-o-q/#peptides) may cross the blood-brain barrier and modulate GABAergic and serotonergic neurotransmission; calcium supplementation stabilizes cardiac rhythm, reducing palpitations
+- [Anxiolytic](/reference/anxiolytic/) and cardiac calming: Conchiolin [peptides](/glossary/compounds-o-q/#peptides) may cross the blood-brain barrier and modulate GABAergic and serotonergic neurotransmission; calcium supplementation stabilizes cardiac rhythm, reducing palpitations
 - Pitta-pacifying cooling action: The high calcium content combined with organic pearl matrix provides systemic cooling effect; reduces cortisol (stress hormone) levels, attenuating stress and improving sleep
 - Bone mineralization support: Bioavailable calcium from aragonite form is absorbed and contributes to bone mineral density
 
@@ -40,13 +40,13 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Mukta-Pishti/meta-an
 ## What do recent clinical trials show?
 
 - Balkrishna A, Sinha S, Shukla S and others 2025. [Anti-ulcerogenic activity of the marine-pearl derived medicine mukta Pishti in Rat model of pylorus ligation-induced peptic ulcer](https://pubmed.ncbi.nlm.nih.gov/39828143/). *Journal of ethnopharmacology*. PMID [39828143](https://pubmed.ncbi.nlm.nih.gov/39828143/) · [doi:10.1016/j.jep.2025.119378](https://doi.org/10.1016/j.jep.2025.119378)  
-  [Mukta Pishti](/nighantu/herb/mukta-pishti/) treatment significantly reduced ulcer index in stomach region and protected against epithelial damages, hemorrhages, and edema induced by pylorus ligation. Demonstrated gastroprotective properties through multiple mechanisms.
+  [Mukta Pishti](/herb/mukta-pishti/) treatment significantly reduced ulcer index in stomach region and protected against epithelial damages, hemorrhages, and edema induced by pylorus ligation. Demonstrated gastroprotective properties through multiple mechanisms.
 
 *1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
-- GENERALLY SAFE: [Mukta Pishti](/nighantu/herb/mukta-pishti/) is one of the safest Ayurvedic mineral preparations as it contains no heavy metals (mercury, arsenic, lead) - it is essentially a processed natural calcium supplement
+- GENERALLY SAFE: [Mukta Pishti](/herb/mukta-pishti/) is one of the safest Ayurvedic mineral preparations as it contains no heavy metals (mercury, arsenic, lead) - it is essentially a processed natural calcium supplement
 - Likely safe in pregnancy at recommended doses; used traditionally for pregnancy-related Pitta conditions under physician guidance
 - Dose-dependent caution: Exceeding 250 mg twice daily may cause bloating, constipation, or calcium imbalance; maximum recommended daily dose should not exceed 500 mg
 - Quality control concern: Without proper Shodhana, impurities like aragonite microshards can damage GI lining - always use authenticated, laboratory-tested products from GMP-certified manufacturers
@@ -79,7 +79,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Mukta-Pishti/meta-an
 
 **Storage:** Airtight glass container; cool, dry place
 
-**Marker Compounds:** Calcium carbonate (aragonite 82–86%), Conchiolin protein (3–5%), [Magnesium](/nighantu/glossary/compounds-l-o/#magnesium), [Strontium](/nighantu/glossary/compounds-q-t/#strontium), Trace minerals
+**Marker Compounds:** Calcium carbonate (aragonite 82–86%), Conchiolin protein (3–5%), [Magnesium](/glossary/compounds-l-o/#magnesium), [Strontium](/glossary/compounds-q-t/#strontium), Trace minerals
 
 **Quality Parameters:** Calcium >30%, particle size <25 μm, nacre structure preserved (XRD verification), no synthetic pearl
 

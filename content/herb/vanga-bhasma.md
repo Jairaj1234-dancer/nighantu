@@ -23,37 +23,37 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Vanga-Bhasma/meta-an
 
 | Language | Name |
 |----------|------|
-| English | [Vanga Bhasma](/nighantu/herb/vanga-bhasma/) |
+| English | [Vanga Bhasma](/herb/vanga-bhasma/) |
 
 ## Key Phytochemical Constituents
 
 - Tin oxide (SnO2) as primary constituent
-- Tin sulfide from [Gandhaka](/nighantu/glossary/concepts-a-m/#gandhaka) processing
+- Tin sulfide from [Gandhaka](/glossary/concepts-a-m/#gandhaka) processing
 - Trace metals from processing equipment
 - Organic compounds from herbal media
-- [Silicon](/nighantu/glossary/compounds-q-t/#silicon) and aluminum as trace impurities
+- [Silicon](/glossary/compounds-q-t/#silicon) and aluminum as trace impurities
 
 ## How does it work?
 
-- [Vajikarana](/nighantu/glossary/pharmacology/#vajikarana) ([aphrodisiac](/nighantu/glossary/pharmacology/#aphrodisiac)) action through testicular regenerative potential, enhancing spermatogenesis and male reproductive function as demonstrated in animal studies
-- Pramehaghna (anti-diabetic) activity through pancreatic beta-cell support and improvement of insulin sensitivity, part of [Trivanga Bhasma](/nighantu/herb/trivanga-bhasma/)'s documented anti-diabetic mechanism
+- [Vajikarana](/glossary/pharmacology/#vajikarana) ([aphrodisiac](/glossary/pharmacology/#aphrodisiac)) action through testicular regenerative potential, enhancing spermatogenesis and male reproductive function as demonstrated in animal studies
+- Pramehaghna (anti-diabetic) activity through pancreatic beta-cell support and improvement of insulin sensitivity, part of [Trivanga Bhasma](/herb/trivanga-bhasma/)'s documented anti-diabetic mechanism
 - Medohara (anti-obesity) action through modulation of lipid metabolism pathways, reducing excessive adipose tissue accumulation
-- Mutravaha Srotas (urinary system) support through [diuretic](/nighantu/reference/diuretic/) and anti-lithiatic effects, helping manage urinary tract disorders
+- Mutravaha Srotas (urinary system) support through [diuretic](/reference/diuretic/) and anti-lithiatic effects, helping manage urinary tract disorders
 
 ## Which traditional uses are supported by research?
 
 - Male reproductive disorders (Vajikarana): Testicular regenerative potential demonstrated in animal studies, supporting aphrodisiac claims
-- Urinary disorders (Prameha/Mutra Roga): Traditional use partially validated through inclusion in [Trivanga Bhasma](/nighantu/herb/trivanga-bhasma/) studies showing urinary system benefits
-- Diabetes (Madhumeha): Anti-diabetic activity validated as component of [Trivanga Bhasma](/nighantu/herb/trivanga-bhasma/) in multiple animal studies
+- Urinary disorders (Prameha/Mutra Roga): Traditional use partially validated through inclusion in [Trivanga Bhasma](/herb/trivanga-bhasma/) studies showing urinary system benefits
+- Diabetes (Madhumeha): Anti-diabetic activity validated as component of [Trivanga Bhasma](/herb/trivanga-bhasma/) in multiple animal studies
 
 ## What do recent clinical trials show?
 
 - Nagaraju V, Joshi D, Aryya NC 1984. [TOXICITY STUDIES ON VANGA BHASMA (Part I - with special reference to G. I. T. Liver and Pancreas)](https://pubmed.ncbi.nlm.nih.gov/22557446/). *Ancient science of life*. PMID [22557446](https://pubmed.ncbi.nlm.nih.gov/22557446/)  
-  No significant toxicity attributable to [Vanga Bhasma](/nighantu/herb/vanga-bhasma/) observed even at 8 times higher dose than therapeutic dose on 10-day exposure. GIT, liver, and pancreas showed no pathological changes.
+  No significant toxicity attributable to [Vanga Bhasma](/herb/vanga-bhasma/) observed even at 8 times higher dose than therapeutic dose on 10-day exposure. GIT, liver, and pancreas showed no pathological changes.
 - Nagaraju V, Joshi D, Aryya NC 1985. [Study on the vrsya property (testicular regenerative potential) of vanga bhasma](https://pubmed.ncbi.nlm.nih.gov/22557499/). *Ancient science of life*. PMID [22557499](https://pubmed.ncbi.nlm.nih.gov/22557499/)  
-  [Vanga Bhasma](/nighantu/herb/vanga-bhasma/) demonstrated testicular regenerative potential in animal models, supporting traditional Ayurvedic use as Vajikarana (aphrodisiac) preparation.
+  [Vanga Bhasma](/herb/vanga-bhasma/) demonstrated testicular regenerative potential in animal models, supporting traditional Ayurvedic use as Vajikarana (aphrodisiac) preparation.
 - Liu J, Zhang F, Ravikanth V and others 2019. [Chemical Compositions of Metals in Bhasmas and Tibetan Zuotai Are a Major Determinant of Their Therapeutic Effects and Toxicity](https://pubmed.ncbi.nlm.nih.gov/30941186/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [30941186](https://pubmed.ncbi.nlm.nih.gov/30941186/) · [doi:10.1155/2019/1697804](https://doi.org/10.1155/2019/1697804)  
-  Chemical form of metals (oxide vs sulfide vs metallic) in Bhasmas is the major determinant of therapeutic effect vs toxicity. Properly prepared [Vanga Bhasma](/nighantu/herb/vanga-bhasma/) with tin in oxide form shows lower toxicity than metallic tin.
+  Chemical form of metals (oxide vs sulfide vs metallic) in Bhasmas is the major determinant of therapeutic effect vs toxicity. Properly prepared [Vanga Bhasma](/herb/vanga-bhasma/) with tin in oxide form shows lower toxicity than metallic tin.
 
 ## Recent safety updates
 
@@ -80,7 +80,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Vanga-Bhasma/meta-an
 
 **Bioavailability:** Good; tin oxide nanoparticles
 
-**Optimal Timing:** With honey or [Shilajit](/nighantu/herb/shilajit/); for Prameha: before meals
+**Optimal Timing:** With honey or [Shilajit](/herb/shilajit/); for Prameha: before meals
 
 **Standardized Extract:** Calcined tin bhasma
 
@@ -92,4 +92,4 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Vanga-Bhasma/meta-an
 
 **Quality Parameters:** Tin content >60%, free tin <1 ppm, standard bhasma tests
 
-**Vehicle (Anupana):** Honey, [Shilajit](/nighantu/herb/shilajit/), or Bangeshwar Rasa formulation
+**Vehicle (Anupana):** Honey, [Shilajit](/herb/shilajit/), or Bangeshwar Rasa formulation

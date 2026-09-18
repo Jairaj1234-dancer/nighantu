@@ -29,20 +29,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gangeruki/meta-analysis.md"
 ## Key Phytochemical Constituents
 
 - Lupenone
-- [Betulin](/nighantu/glossary/compounds-a-c/#betulin)
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- [Betulin](/glossary/compounds-a-c/#betulin)
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 - Beta-amyrin
 - Triacontan
-- Vitamin E ([tocopherols](/nighantu/glossary/compounds-t-z/#tocopherols))
+- Vitamin E ([tocopherols](/glossary/compounds-t-z/#tocopherols))
 - 6,6-Dideutero-nonen-1-ol-3
 - 3-Deoxy-d-mannoic lactone
 - Methyl furfural
-- [Phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols)
+- [Phytosterols](/glossary/compounds-o-q/#phytosterols)
 
 ## How does it work?
 
-- Betulin and lupenone [triterpenes](/nighantu/glossary/compounds-t-z/#triterpenes) exhibit [hepatoprotective](/nighantu/reference/hepatoprotective/) effects by reducing oxidative stress markers (MDA, SOD, catalase) and normalizing serum hepatic [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) (SGOT, SGPT, ALP) in CCl4-induced liver damage models
-- [Flavonoids](/nighantu/reference/flavonoids/) and phytosterols provide [antioxidant](/nighantu/reference/antioxidant/) and radioprotective effects through scavenging of free radicals and upregulation of cellular defense enzymes (glutathione peroxidase, superoxide dismutase)
+- Betulin and lupenone [triterpenes](/glossary/compounds-t-z/#triterpenes) exhibit [hepatoprotective](/reference/hepatoprotective/) effects by reducing oxidative stress markers (MDA, SOD, catalase) and normalizing serum hepatic [enzymes](/glossary/compounds-d-g/#enzymes) (SGOT, SGPT, ALP) in CCl4-induced liver damage models
+- [Flavonoids](/reference/flavonoids/) and phytosterols provide [antioxidant](/reference/antioxidant/) and radioprotective effects through scavenging of free radicals and upregulation of cellular defense enzymes (glutathione peroxidase, superoxide dismutase)
 - Fruit extract mediates gut relaxant effects through calcium channel blocking mechanism and modulation of intestinal smooth muscle contractility
 
 ## Which traditional uses are supported by research?
@@ -70,17 +70,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gangeruki/meta-analysis.md"
 
 **Standard Dosage:** 3-6g root powder twice daily; 50-100ml decoction twice daily; 500mg extract capsule twice daily
 
-**Bioavailability:** Grewia tenax / Grewia hirsuta (Gangeruki/Nagabalaa) root contains flavonoids, [tannins](/nighantu/reference/tannins/), and mucilaginous [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides). Flavonoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) have moderate bioavailability (15-25%). [Mucilage](/nighantu/glossary/compounds-l-o/#mucilage) components are not systemically absorbed but act as prebiotic in the colon and modulate GI absorption of other constituents. Traditional Kashayam preparation extracts both flavonoids and mucilage effectively. Limited modern pharmacokinetic data available. Enhancement: standard approaches for flavonoid-rich herbs (phospholipid complexation, [piperine](/nighantu/reference/piperine/) co-administration).
+**Bioavailability:** Grewia tenax / Grewia hirsuta (Gangeruki/Nagabalaa) root contains flavonoids, [tannins](/reference/tannins/), and mucilaginous [polysaccharides](/glossary/compounds-o-q/#polysaccharides). Flavonoid [glycosides](/glossary/compounds-g-l/#glycosides) have moderate bioavailability (15-25%). [Mucilage](/glossary/compounds-l-o/#mucilage) components are not systemically absorbed but act as prebiotic in the colon and modulate GI absorption of other constituents. Traditional Kashayam preparation extracts both flavonoids and mucilage effectively. Limited modern pharmacokinetic data available. Enhancement: standard approaches for flavonoid-rich herbs (phospholipid complexation, [piperine](/reference/piperine/) co-administration).
 
 **Optimal Timing:** Before meals with warm water for general tonic effect; Kashayam morning and evening
 
-**Standardized Extract:** Aqueous or hydroalcoholic root extract characterized by HPTLC fingerprint. Total flavonoid content NLT 1.5% (as [quercetin](/nighantu/reference/quercetinquercetin/) equivalent). Mucilage content NLT 5%. Extract ratio 5:1 to 8:1.
+**Standardized Extract:** Aqueous or hydroalcoholic root extract characterized by HPTLC fingerprint. Total flavonoid content NLT 1.5% (as [quercetin](/reference/quercetinquercetin/) equivalent). Mucilage content NLT 5%. Extract ratio 5:1 to 8:1.
 
 **Shelf Life:** 2 years (root powder); 2.5 years (tablet/capsule); 3 years (Kwath Ghana sealed)
 
 **Storage:** Airtight containers below 25 deg C, protected from moisture. Mucilaginous root powder is hygroscopic - use moisture-barrier packaging.
 
-**Marker Compounds:** Flavonoids (quercetin, [kaempferol](/nighantu/reference/kaempferol/) glycosides), Beta-sitosterol, Mucilage (polysaccharides), Tannins (total tannin content), [Friedelin](/nighantu/glossary/compounds-d-g/#friedelin)
+**Marker Compounds:** Flavonoids (quercetin, [kaempferol](/reference/kaempferol/) glycosides), Beta-sitosterol, Mucilage (polysaccharides), Tannins (total tannin content), [Friedelin](/glossary/compounds-d-g/#friedelin)
 
 ### Extraction Methods
 
@@ -91,7 +91,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gangeruki/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Bala](/nighantu/herb/bala/) (Sida cordifolia) for strength-building [Rasayana](/nighantu/reference/rasayana/)
-- With [Ashwagandha](/nighantu/herb/ashwagandha/) for [adaptogenic](/nighantu/reference/adaptogenic/) and tonic synergy
-- With [Gokshura](/nighantu/herb/gokshura/) for urinary and reproductive tonic combination
-- With [Shatavari](/nighantu/herb/shatavari/) for nutritive and rejuvenative formulation
+- With [Bala](/herb/bala/) (Sida cordifolia) for strength-building [Rasayana](/reference/rasayana/)
+- With [Ashwagandha](/herb/ashwagandha/) for [adaptogenic](/reference/adaptogenic/) and tonic synergy
+- With [Gokshura](/herb/gokshura/) for urinary and reproductive tonic combination
+- With [Shatavari](/herb/shatavari/) for nutritive and rejuvenative formulation

@@ -23,26 +23,26 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Bakuchi-Tai
 
 | Language | Name |
 |----------|------|
-| English | [Bakuchi](/nighantu/herb/bakuchi/) Taila |
+| English | [Bakuchi](/herb/bakuchi/) Taila |
 
 ## Key Ingredients
 
-- [Bakuchi](/nighantu/herb/bakuchi/) (Psoralea corylifolia / Babchi) seeds - primary ingredient
-- [Psoralen](/nighantu/glossary/compounds-o-q/#psoralen) - key active compound
-- [Isopsoralen](/nighantu/glossary/compounds-g-l/#isopsoralen) (Angelicin)
+- [Bakuchi](/herb/bakuchi/) (Psoralea corylifolia / Babchi) seeds - primary ingredient
+- [Psoralen](/glossary/compounds-o-q/#psoralen) - key active compound
+- [Isopsoralen](/glossary/compounds-g-l/#isopsoralen) (Angelicin)
 - Bakuchiol - bioactive meroterpene
-- Corylin, Psoralidin, Bavachin, Bavachinin - [flavonoids](/nighantu/reference/flavonoids/)
-- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) ([Tila](/nighantu/herb/tila/) taila) base
+- Corylin, Psoralidin, Bavachin, Bavachinin - [flavonoids](/reference/flavonoids/)
+- [Sesame oil](/glossary/concepts-m-y/#tila-taila) ([Tila](/herb/tila/) taila) base
 
 ## Where is it described in the classical texts?
 
-Charaka Samhita (Chikitsa Sthana - Kushtha Chikitsa); Sushruta Samhita; Bhaishajya Ratnavali. [Bakuchi](/nighantu/herb/bakuchi/) is classified under Kushtaghna (anti-dermatosis) drugs. Psoralea corylifolia is mentioned as an official drug in Ayurvedic Pharmacopoeia of India under the name '[Bakuchi](/nighantu/herb/bakuchi/)'.
+Charaka Samhita (Chikitsa Sthana - Kushtha Chikitsa); Sushruta Samhita; Bhaishajya Ratnavali. [Bakuchi](/herb/bakuchi/) is classified under Kushtaghna (anti-dermatosis) drugs. Psoralea corylifolia is mentioned as an official drug in Ayurvedic Pharmacopoeia of India under the name '[Bakuchi](/herb/bakuchi/)'.
 
 ## How does it work?
 
 - Psoralen intercalates into DNA of melanocytes and, upon UV exposure, crosslinks DNA strands, stimulating melanocyte proliferation and melanin production (photochemotherapy mechanism - PUVA therapy basis)
 - Bakuchiol activates melanogenesis-related genes (TYR, TYRP1, DCT) in melanocytes independent of UV exposure, providing melanin-stimulating effects even without phototherapy
-- Flavonoids (corylin, psoralidin) provide anti-inflammatory and [immunomodulatory](/nighantu/reference/immunomodulatory/) effects on depigmented skin, reducing autoimmune attack on melanocytes in vitiligo
+- Flavonoids (corylin, psoralidin) provide anti-inflammatory and [immunomodulatory](/reference/immunomodulatory/) effects on depigmented skin, reducing autoimmune attack on melanocytes in vitiligo
 - Psoralen enhances UV sensitivity of depigmented patches, promoting selective repigmentation when combined with controlled UV-B exposure therapy
 
 ## Which traditional uses are supported by research?
@@ -94,7 +94,7 @@ Charaka Samhita (Chikitsa Sthana - Kushtha Chikitsa); Sushruta Samhita; Bhaishaj
 
 ### Synergistic Combinations
 
-- [Khadira](/nighantu/herb/khadira/) (Acacia catechu) decoction
-- [Gandhaka](/nighantu/glossary/concepts-a-m/#gandhaka) [Rasayana](/nighantu/reference/rasayana/) (internal)
+- [Khadira](/herb/khadira/) (Acacia catechu) decoction
+- [Gandhaka](/glossary/concepts-a-m/#gandhaka) [Rasayana](/reference/rasayana/) (internal)
 - Mahamanjisthadi Kwath
 - Bakuchi Churna (internal)

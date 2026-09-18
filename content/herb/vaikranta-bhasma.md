@@ -23,22 +23,22 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Vaikranta-Bhasma/met
 
 | Language | Name |
 |----------|------|
-| English | [Vaikranta Bhasma](/nighantu/herb/vaikranta-bhasma/) |
+| English | [Vaikranta Bhasma](/herb/vaikranta-bhasma/) |
 
 ## Key Phytochemical Constituents
 
 - Iron oxide as major constituent (from iron tourmaline)
-- [Silicon](/nighantu/glossary/compounds-q-t/#silicon) dioxide (SiO2) as major constituent
+- [Silicon](/glossary/compounds-q-t/#silicon) dioxide (SiO2) as major constituent
 - Aluminium oxide (Al2O3)
 - Boron compounds (tourmaline contains boron)
-- Sodium, [potassium](/nighantu/glossary/compounds-o-q/#potassium), [magnesium](/nighantu/glossary/compounds-l-o/#magnesium) as trace elements
-- Sulfur compounds from processing with [Gandhaka](/nighantu/glossary/concepts-a-m/#gandhaka)
+- Sodium, [potassium](/glossary/compounds-o-q/#potassium), [magnesium](/glossary/compounds-l-o/#magnesium) as trace elements
+- Sulfur compounds from processing with [Gandhaka](/glossary/concepts-a-m/#gandhaka)
 
 ## How does it work?
 
-- [Rasayana](/nighantu/reference/rasayana/) (rejuvenation) action through multi-mineral supplementation providing essential trace elements (iron, [silica](/nighantu/glossary/compounds-q-t/#silica), boron) for cellular repair and anti-aging
-- [Vajikarana](/nighantu/glossary/pharmacology/#vajikarana) ([aphrodisiac](/nighantu/glossary/pharmacology/#aphrodisiac)) effect through mineral cofactor provision supporting reproductive hormone synthesis and gonadal function
-- Pramehaghna (anti-diabetic) action through mineral-mediated improvement of insulin sensitivity and [glucose](/nighantu/glossary/compounds-d-g/#glucose) metabolism regulation
+- [Rasayana](/reference/rasayana/) (rejuvenation) action through multi-mineral supplementation providing essential trace elements (iron, [silica](/glossary/compounds-q-t/#silica), boron) for cellular repair and anti-aging
+- [Vajikarana](/glossary/pharmacology/#vajikarana) ([aphrodisiac](/glossary/pharmacology/#aphrodisiac)) effect through mineral cofactor provision supporting reproductive hormone synthesis and gonadal function
+- Pramehaghna (anti-diabetic) action through mineral-mediated improvement of insulin sensitivity and [glucose](/glossary/compounds-d-g/#glucose) metabolism regulation
 - Tridosha balancing through complex multi-mineral composition addressing Vata (nervous), Pitta (metabolic), and Kapha (structural) imbalances simultaneously
 
 ## Which traditional uses are supported by research?
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Vaikranta-Bhasma/met
 ## What do recent clinical trials show?
 
 - Tripathi R, Rathore AS, Mehra BL and others 2013. [Physico-chemical study of Vaikrānta bhasma](https://pubmed.ncbi.nlm.nih.gov/24991067/). *Ancient science of life*. PMID [24991067](https://pubmed.ncbi.nlm.nih.gov/24991067/) · [doi:10.4103/0257-7941.131971](https://doi.org/10.4103/0257-7941.131971)  
-  SEM, EDX, FTIR, and ICP analysis confirmed [Vaikranta Bhasma](/nighantu/herb/vaikranta-bhasma/) as multi-mineral compound with iron and silica as major constituents. Established analytical parameters for standardization.
+  SEM, EDX, FTIR, and ICP analysis confirmed [Vaikranta Bhasma](/herb/vaikranta-bhasma/) as multi-mineral compound with iron and silica as major constituents. Established analytical parameters for standardization.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 

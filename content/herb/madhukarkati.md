@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Madhukarkati/meta-analys
 
 **Standard Dosage:** 5-10 g dried fruit powder per day; 50-100 mL juice daily; fresh fruit as dietary supplement as tolerated
 
-**Bioavailability:** Good bioavailability of cucurbitane-type [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids). [Cucurbitacins](/nighantu/glossary/compounds-c-d/#cucurbitacins) are lipophilic with moderate GI absorption improved by lipid co-administration. Tartaric and malic acids enhance mineral absorption. Fiber content may slow but prolong absorption of active compounds.
+**Bioavailability:** Good bioavailability of cucurbitane-type [triterpenoids](/glossary/compounds-t-z/#triterpenoids). [Cucurbitacins](/glossary/compounds-c-d/#cucurbitacins) are lipophilic with moderate GI absorption improved by lipid co-administration. Tartaric and malic acids enhance mineral absorption. Fiber content may slow but prolong absorption of active compounds.
 
 **Optimal Timing:** Morning on empty stomach for detoxification; between meals for digestive support; seed powder with meals
 
@@ -57,9 +57,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Madhukarkati/meta-analys
 
 **Shelf Life:** Fresh fruit: 5-7 days at 5-8 deg C. Freeze-dried powder: 24 months. Spray-dried powder: 18 months. Capsules/tablets: 24 months. Seed powder: 18 months.
 
-**Storage:** Fresh fruit at 5-8 deg C. All dried preparations in airtight containers below 25 deg C. Seed powder under nitrogen to prevent oil rancidity. Protect spray-dried powder from moisture with [silica](/nighantu/glossary/compounds-q-t/#silica) gel desiccant.
+**Storage:** Fresh fruit at 5-8 deg C. All dried preparations in airtight containers below 25 deg C. Seed powder under nitrogen to prevent oil rancidity. Protect spray-dried powder from moisture with [silica](/glossary/compounds-q-t/#silica) gel desiccant.
 
-**Marker Compounds:** Cucurbitacin B, Cucurbitacin E, Linoleic acid (in seed oil), Beta-carotene, Tartaric acid, Malic acid, [Adenosine](/nighantu/glossary/compounds-1-a/#adenosine)
+**Marker Compounds:** Cucurbitacin B, Cucurbitacin E, Linoleic acid (in seed oil), Beta-carotene, Tartaric acid, Malic acid, [Adenosine](/glossary/compounds-1-a/#adenosine)
 
 ### Extraction Methods
 
@@ -73,7 +73,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Madhukarkati/meta-analys
 ### Synergistic Combinations
 
 - Amalaki (digestive and vitamin C synergy)
-- [Haritaki](/nighantu/herb/haritaki/) (Tridosha balancing [laxative](/nighantu/reference/laxative/))
-- [Pippali](/nighantu/herb/pippali/) (bioenhancement and digestive fire)
+- [Haritaki](/herb/haritaki/) (Tridosha balancing [laxative](/reference/laxative/))
+- [Pippali](/herb/pippali/) (bioenhancement and digestive fire)
 - Shunthi (digestive and anti-nausea)
-- [Vidanga](/nighantu/herb/vidanga/) (anthelmintic combination)
+- [Vidanga](/herb/vidanga/) (anthelmintic combination)

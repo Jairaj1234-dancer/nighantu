@@ -23,22 +23,22 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Saindhava-Lavana/meta-analysis.md
 
 | Language | Name |
 |----------|------|
-| English | [Saindhava Lavana](/nighantu/herb/saindhava-lavana/) Rock Salt |
+| English | [Saindhava Lavana](/herb/saindhava-lavana/) Rock Salt |
 
 ## Key Phytochemical Constituents
 
 - Sodium chloride (NaCl) - 97-99%
 - Up to 84 trace minerals and elements
-- [Potassium](/nighantu/glossary/compounds-o-q/#potassium), [magnesium](/nighantu/glossary/compounds-l-o/#magnesium), calcium
+- [Potassium](/glossary/compounds-o-q/#potassium), [magnesium](/glossary/compounds-l-o/#magnesium), calcium
 - Iron (responsible for pink color in some varieties)
-- [Manganese](/nighantu/glossary/compounds-l-o/#manganese), zinc, chromium
+- [Manganese](/glossary/compounds-l-o/#manganese), zinc, chromium
 - Sulfate, bicarbonate
-- [Iodine](/nighantu/glossary/compounds-g-l/#iodine) (trace, variable)
-- [Selenium](/nighantu/glossary/compounds-q-t/#selenium), copper, fluoride (trace)
+- [Iodine](/glossary/compounds-g-l/#iodine) (trace, variable)
+- [Selenium](/glossary/compounds-q-t/#selenium), copper, fluoride (trace)
 
 ## How does it work?
 
-- Digestive stimulation: Stimulates salivary amylase and gastric acid secretion; mineral content activates digestive [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) and promotes bile flow without causing inflammatory heat
+- Digestive stimulation: Stimulates salivary amylase and gastric acid secretion; mineral content activates digestive [enzymes](/glossary/compounds-d-g/#enzymes) and promotes bile flow without causing inflammatory heat
 - Electrolyte homeostasis: Balanced mineral profile (Na, K, Mg, Ca) supports cellular osmotic balance, nerve impulse transmission, and muscle contraction without pure sodium overload
 - Tridosha balance: Unique cooling virya among salts prevents Pitta aggravation; slight sweetness and unctuousness pacify Vata; light quality prevents Kapha accumulation
 - Cardiac support: Balanced mineral profile and lower pure sodium concentration per weight compared to refined salt may support better cardiovascular function
@@ -46,7 +46,7 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Saindhava-Lavana/meta-analysis.md
 ## Which traditional uses are supported by research?
 
 - Agni Deepana (digestive stimulant): Validated by evidence showing rock salt stimulates salivary and gastric enzyme production and bile secretion without inflammatory side effects
-- Netra Hita (beneficial for eyes): Traditional eye wash preparations with Saindhava have [antimicrobial](/nighantu/reference/antimicrobial/) basis; trace minerals support ocular surface health
+- Netra Hita (beneficial for eyes): Traditional eye wash preparations with Saindhava have [antimicrobial](/reference/antimicrobial/) basis; trace minerals support ocular surface health
 - Hridya (cardiotonic): Balanced mineral profile and lower sodium-per-weight ratio compared to refined salt provide modest cardiovascular advantage, partially validating the classical claim
 
 ## What do recent clinical trials show?

@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Karpasasthy
 
 | Language | Name |
 |----------|------|
-| English | [Karpasasthyadi Thailam](/nighantu/formulation/karpasasthyadi-thailam/) |
+| English | [Karpasasthyadi Thailam](/formulation/karpasasthyadi-thailam/) |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Karpasasthy
 
 **Standard Dosage:** External: sufficient for Abhyanga/local massage. Internal: 5-10 mL with warm milk as directed, as per Sahasrayogam
 
-**Bioavailability:** Identical to [Karpas-Asthyadi-Thailam](/nighantu/formulation/karpas-asthyadi-thailam/). Oil-based transdermal delivery with enhanced penetration from milk-processed [phospholipids](/nighantu/glossary/compounds-o-q/#phospholipids).
+**Bioavailability:** Identical to [Karpas-Asthyadi-Thailam](/formulation/karpas-asthyadi-thailam/). Oil-based transdermal delivery with enhanced penetration from milk-processed [phospholipids](/glossary/compounds-o-q/#phospholipids).
 
 **Optimal Timing:** External: morning Abhyanga or as part of Panchakarma. Internal: before meals or at bedtime.
 
@@ -57,15 +57,15 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Karpasasthy
 
 **Storage:** Store in amber glass or HDPE bottles in a cool, dry place. Temperature not exceeding 25°C.
 
-**Marker Compounds:** [Gossypol](/nighantu/glossary/compounds-g-l/#gossypol) (safety monitoring), Withanolide A (from [Ashwagandha](/nighantu/herb/ashwagandha/)), [Ephedrine](/nighantu/glossary/compounds-d-g/#ephedrine) (from [Bala](/nighantu/herb/bala/)), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Sesamin](/nighantu/glossary/compounds-q-t/#sesamin)
+**Marker Compounds:** [Gossypol](/glossary/compounds-g-l/#gossypol) (safety monitoring), Withanolide A (from [Ashwagandha](/herb/ashwagandha/)), [Ephedrine](/glossary/compounds-d-g/#ephedrine) (from [Bala](/herb/bala/)), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Sesamin](/glossary/compounds-q-t/#sesamin)
 
-**Quality Parameters:** Same as [Karpas-Asthyadi-Thailam](/nighantu/formulation/karpas-asthyadi-thailam/). Acid value, peroxide value, saponification value, gossypol safety testing, withanolide markers, HPTLC fingerprint, microbial limits, heavy metals
+**Quality Parameters:** Same as [Karpas-Asthyadi-Thailam](/formulation/karpas-asthyadi-thailam/). Acid value, peroxide value, saponification value, gossypol safety testing, withanolide markers, HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** External: warm oil. Internal: warm milk.
 
 ### Synergistic Combinations
 
-- [Dhanwantaram Thailam](/nighantu/formulation/dhanwantaram-thailam/)
-- [Kshirabala Thailam](/nighantu/formulation/kshirabala-thailam/)
-- [Bala](/nighantu/herb/bala/) Taila
-- [Dashamularishta](/nighantu/formulation/dashamularishta/)
+- [Dhanwantaram Thailam](/formulation/dhanwantaram-thailam/)
+- [Kshirabala Thailam](/formulation/kshirabala-thailam/)
+- [Bala](/herb/bala/) Taila
+- [Dashamularishta](/formulation/dashamularishta/)

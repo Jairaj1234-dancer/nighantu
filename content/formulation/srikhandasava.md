@@ -31,16 +31,16 @@ Bhaishajya Ratnavali, Madatyaya Adhikara (chapter on intoxication/alcoholism). A
 
 ## How does it work?
 
-- Sheeta Virya (cooling potency) of [Chandana](/nighantu/herb/chandana/) and [Ushira](/nighantu/herb/ushira/) pacifies aggravated Pitta dosha and reduces burning sensations
-- Potent [antioxidant](/nighantu/reference/antioxidant/) activity (santalols, [flavonoids](/nighantu/reference/flavonoids/), phenolics) protects tissues from oxidative damage
-- [Antimicrobial](/nighantu/reference/antimicrobial/) action against S. aureus and E. coli supports traditional dermatological and urinary tract applications
-- Nervine calming effects of [Jatamansi](/nighantu/herb/jatamansi/) and [Ushira](/nighantu/herb/ushira/) address insomnia, irritability, and mental agitation from Pitta excess
+- Sheeta Virya (cooling potency) of [Chandana](/herb/chandana/) and [Ushira](/herb/ushira/) pacifies aggravated Pitta dosha and reduces burning sensations
+- Potent [antioxidant](/reference/antioxidant/) activity (santalols, [flavonoids](/reference/flavonoids/), phenolics) protects tissues from oxidative damage
+- [Antimicrobial](/reference/antimicrobial/) action against S. aureus and E. coli supports traditional dermatological and urinary tract applications
+- Nervine calming effects of [Jatamansi](/herb/jatamansi/) and [Ushira](/herb/ushira/) address insomnia, irritability, and mental agitation from Pitta excess
 
 ## Which traditional uses are supported by research?
 
 - Burning sensation (Daha) from Pitta aggravation - validated by cooling and anti-inflammatory studies
-- Adverse effects of alcohol/intoxication - traditional Madatyaya use supported by [hepatoprotective](/nighantu/reference/hepatoprotective/) and antioxidant mechanisms
-- Burning micturition and UTI - corroborated by antimicrobial activity and cooling [diuretic](/nighantu/reference/diuretic/) properties
+- Adverse effects of alcohol/intoxication - traditional Madatyaya use supported by [hepatoprotective](/reference/hepatoprotective/) and antioxidant mechanisms
+- Burning micturition and UTI - corroborated by antimicrobial activity and cooling [diuretic](/reference/diuretic/) properties
 - Skin conditions with burning and inflammation - supported by antioxidant and antimicrobial profiling
 
 ## What do recent clinical trials show?
@@ -86,4 +86,4 @@ Bhaishajya Ratnavali, Madatyaya Adhikara (chapter on intoxication/alcoholism). A
 
 ### Synergistic Combinations
 
-- Key herbs: [Chandana](/nighantu/herb/chandana/) (sandalwood), [Dhataki](/nighantu/herb/dhataki/), [Guda](/nighantu/glossary/concepts-a-m/#guda); fermentation creates unique metabolite profile with enhanced therapeutic activity
+- Key herbs: [Chandana](/herb/chandana/) (sandalwood), [Dhataki](/herb/dhataki/), [Guda](/glossary/concepts-a-m/#guda); fermentation creates unique metabolite profile with enhanced therapeutic activity

@@ -23,17 +23,17 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Jahar-Mohra-Pishti/m
 
 | Language | Name |
 |----------|------|
-| English | [Jahar Mohra Pishti](/nighantu/herb/jahar-mohra-pishti/) |
+| English | [Jahar Mohra Pishti](/herb/jahar-mohra-pishti/) |
 
 ## How does it work?
 
-- Cardiotonic action: [Magnesium](/nighantu/glossary/compounds-l-o/#magnesium) from the serpentine matrix is essential for cardiac muscle function, rhythm regulation, and blood pressure maintenance; magnesium supplementation is well-established for cardiac health
+- Cardiotonic action: [Magnesium](/glossary/compounds-l-o/#magnesium) from the serpentine matrix is essential for cardiac muscle function, rhythm regulation, and blood pressure maintenance; magnesium supplementation is well-established for cardiac health
 - Antacid and anti-emetic: Magnesium silicate has documented antacid properties similar to pharmaceutical magnesium-based antacids; acts as a natural buffer against excess gastric acid
 - Detoxifying (Vishahara): Traditionally considered an antidote to poisons; the magnesium silicate matrix may adsorb toxins in the GI tract similar to activated charcoal's mechanism
 
 ## Which traditional uses are supported by research?
 
-- Cardiac tonic (Hridya): Magnesium's well-established role in cardiac function provides strong mechanistic support for the traditional cardiotonic claim, though specific clinical trials on [Jahar Mohra Pishti](/nighantu/herb/jahar-mohra-pishti/) are lacking
+- Cardiac tonic (Hridya): Magnesium's well-established role in cardiac function provides strong mechanistic support for the traditional cardiotonic claim, though specific clinical trials on [Jahar Mohra Pishti](/herb/jahar-mohra-pishti/) are lacking
 - Antidote to poisons (Vishanashak) and anti-emetic: The magnesium silicate matrix's adsorptive properties provide a plausible mechanism for the traditional detoxifying/antidote claim
 
 ## What do recent clinical trials show?

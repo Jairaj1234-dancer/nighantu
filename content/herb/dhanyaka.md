@@ -28,22 +28,22 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhanyaka/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Linalool](/nighantu/glossary/compounds-l-o/#linalool) (60-80% of seed essential oil - primary active)
+- [Linalool](/glossary/compounds-l-o/#linalool) (60-80% of seed essential oil - primary active)
 - Gamma-terpinene
-- [Decanal](/nighantu/glossary/compounds-c-d/#decanal)
+- [Decanal](/glossary/compounds-c-d/#decanal)
 - Geranyl acetate
-- [Camphor](/nighantu/herb/camphor/)
-- [Quercetin](/nighantu/reference/quercetinquercetin/) and [rutin](/nighantu/glossary/compounds-q-t/#rutin) ([flavonoids](/nighantu/reference/flavonoids/))
+- [Camphor](/herb/camphor/)
+- [Quercetin](/reference/quercetinquercetin/) and [rutin](/glossary/compounds-q-t/#rutin) ([flavonoids](/reference/flavonoids/))
 - Caffeic acid and chlorogenic acid (phenolics)
-- [Coumarins](/nighantu/glossary/compounds-c-d/#coumarins)
-- [Tocopherols](/nighantu/glossary/compounds-t-z/#tocopherols)
+- [Coumarins](/glossary/compounds-c-d/#coumarins)
+- [Tocopherols](/glossary/compounds-t-z/#tocopherols)
 - Fatty acids (petroselinic acid - unique)
 
 ## How does it work?
 
-- [Anxiolytic](/nighantu/reference/anxiolytic/) and [neuroprotective](/nighantu/reference/neuroprotective/) mechanism through linalool-mediated modulation of GABAergic neurotransmission and glutamate receptor inhibition, reducing neuronal excitotoxicity
-- Hypoglycemic mechanism through stimulation of insulin secretion from pancreatic beta cells and enhancement of peripheral [glucose](/nighantu/glossary/compounds-d-g/#glucose) uptake, mediated by flavonoid and essential oil fractions
-- [Antimicrobial](/nighantu/reference/antimicrobial/) mechanism through linalool disruption of bacterial cell membrane integrity and inhibition of efflux pump activity, showing broad-spectrum activity
+- [Anxiolytic](/reference/anxiolytic/) and [neuroprotective](/reference/neuroprotective/) mechanism through linalool-mediated modulation of GABAergic neurotransmission and glutamate receptor inhibition, reducing neuronal excitotoxicity
+- Hypoglycemic mechanism through stimulation of insulin secretion from pancreatic beta cells and enhancement of peripheral [glucose](/glossary/compounds-d-g/#glucose) uptake, mediated by flavonoid and essential oil fractions
+- [Antimicrobial](/reference/antimicrobial/) mechanism through linalool disruption of bacterial cell membrane integrity and inhibition of efflux pump activity, showing broad-spectrum activity
 
 ## Which traditional uses are supported by research?
 
@@ -60,7 +60,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhanyaka/meta-analysis.md"
 
 ## Recent safety updates
 
-- Widely consumed spice with GRAS status; generally safe at culinary and traditional therapeutic doses; rare cases of contact dermatitis and photosensitivity reported with fresh [coriander](/nighantu/herb/coriander/) leaf handling
+- Widely consumed spice with GRAS status; generally safe at culinary and traditional therapeutic doses; rare cases of contact dermatitis and photosensitivity reported with fresh [coriander](/herb/coriander/) leaf handling
 - High-dose essential oil ingestion may cause hepatic or renal effects; potential interaction with antidiabetic medications due to hypoglycemic potential; contraindicated in known Apiaceae allergy
 
 ## What is it made of?
@@ -80,11 +80,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhanyaka/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Kashayam (decoction), Hima (cold infusion), Tablet, Capsule, Essential oil, [Arka](/nighantu/herb/arka/) (distillate)
+**Dosage Forms:** Churna (powder), Kashayam (decoction), Hima (cold infusion), Tablet, Capsule, Essential oil, [Arka](/herb/arka/) (distillate)
 
 **Standard Dosage:** 3-6g seed powder twice daily; 50-100ml decoction or cold infusion twice daily; 500mg extract capsule twice daily; essential oil: 1-3 drops in carrier
 
-**Bioavailability:** Coriandrum sativum seeds contain linalool (60-70% of essential oil), flavonoids, and coumarins. Linalool has good oral bioavailability (>60%) due to favorable lipophilicity and small molecular size. Flavonoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) (rutin, [quercetin](/nighantu/reference/quercetinquercetin/)-3-glucuronide) have moderate bioavailability (15-25%), improved by gut microbial deglycosylation. Cold infusion (Hima) preserves volatile constituents better than hot decoction. The traditional practice of light roasting (Bharjana) before use modifies volatile profile and may improve digestibility.
+**Bioavailability:** Coriandrum sativum seeds contain linalool (60-70% of essential oil), flavonoids, and coumarins. Linalool has good oral bioavailability (>60%) due to favorable lipophilicity and small molecular size. Flavonoid [glycosides](/glossary/compounds-g-l/#glycosides) (rutin, [quercetin](/reference/quercetinquercetin/)-3-glucuronide) have moderate bioavailability (15-25%), improved by gut microbial deglycosylation. Cold infusion (Hima) preserves volatile constituents better than hot decoction. The traditional practice of light roasting (Bharjana) before use modifies volatile profile and may improve digestibility.
 
 **Optimal Timing:** After meals as digestive aid; before meals for appetite stimulation; Hima (cold infusion) throughout the day for Pitta conditions and burning sensation
 
@@ -94,7 +94,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhanyaka/meta-analysis.md"
 
 **Storage:** Whole seeds in airtight containers at room temperature. Powder: airtight, moisture-proof containers below 25 deg C - use quickly after grinding. Essential oil: amber glass, cool place, nitrogen headspace.
 
-**Marker Compounds:** Linalool, [Geraniol](/nighantu/glossary/compounds-d-g/#geraniol), Geranyl acetate, [Camphor](/nighantu/herb/camphor/), Rutin, [Quercetin](/nighantu/reference/quercetinquercetin/), Coumarins
+**Marker Compounds:** Linalool, [Geraniol](/glossary/compounds-d-g/#geraniol), Geranyl acetate, [Camphor](/herb/camphor/), Rutin, [Quercetin](/reference/quercetinquercetin/), Coumarins
 
 ### Extraction Methods
 
@@ -106,8 +106,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhanyaka/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Jeeraka](/nighantu/herb/jeeraka/) ([cumin](/nighantu/herb/cumin/)) and Saunf ([fennel](/nighantu/herb/fennel/)) as digestive triad
-- With Sunthi ([ginger](/nighantu/herb/ginger/)) for enhanced carminative action
-- With [Guduchi](/nighantu/herb/guduchi/) for [antipyretic](/nighantu/reference/antipyretic/) combination
+- With [Jeeraka](/herb/jeeraka/) ([cumin](/herb/cumin/)) and Saunf ([fennel](/herb/fennel/)) as digestive triad
+- With Sunthi ([ginger](/herb/ginger/)) for enhanced carminative action
+- With [Guduchi](/herb/guduchi/) for [antipyretic](/reference/antipyretic/) combination
 - With Musta for diarrhea and dyspepsia
-- With [Mishreya](/nighantu/herb/mishreya/) ([fennel](/nighantu/herb/fennel/)) in Shadangapaniya for fever management
+- With [Mishreya](/herb/mishreya/) ([fennel](/herb/fennel/)) in Shadangapaniya for fever management

@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Dadimashtaka-Chur
 
 | Language | Name |
 |----------|------|
-| English | [Dadimashtaka Churna](/nighantu/formulation/dadimashtaka-churna/) |
+| English | [Dadimashtaka Churna](/formulation/dadimashtaka-churna/) |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Dadimashtaka-Chur
 
 **Standard Dosage:** 3-6 g twice daily with warm water or buttermilk, as per AFI Part I
 
-**Bioavailability:** Fine powder form with aromatic spices provides excellent GI absorption. [Piperine](/nighantu/reference/piperine/) from [Trikatu](/nighantu/herb/trikatu/) enhances bioavailability. Sugar matrix aids palatability and provides rapid energy. Pomegranate [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) are well-absorbed from powder form.
+**Bioavailability:** Fine powder form with aromatic spices provides excellent GI absorption. [Piperine](/reference/piperine/) from [Trikatu](/herb/trikatu/) enhances bioavailability. Sugar matrix aids palatability and provides rapid energy. Pomegranate [polyphenols](/glossary/compounds-o-q/#polyphenols) are well-absorbed from powder form.
 
 **Optimal Timing:** After meals, twice daily, for digestive conditions
 
@@ -57,7 +57,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Dadimashtaka-Chur
 
 **Storage:** Store in airtight containers in a cool, dry place. Protect from moisture (sugar component is hygroscopic). Temperature not exceeding 30°C.
 
-**Marker Compounds:** [Punicalagin](/nighantu/glossary/compounds-o-q/#punicalagin), Piperine, [Cinnamaldehyde](/nighantu/glossary/compounds-c-d/#cinnamaldehyde), 1,8-[Cineole](/nighantu/glossary/compounds-c-d/#cineole), 6-[Gingerol](/nighantu/glossary/compounds-d-g/#gingerol)
+**Marker Compounds:** [Punicalagin](/glossary/compounds-o-q/#punicalagin), Piperine, [Cinnamaldehyde](/glossary/compounds-c-d/#cinnamaldehyde), 1,8-[Cineole](/glossary/compounds-c-d/#cineole), 6-[Gingerol](/glossary/compounds-d-g/#gingerol)
 
 **Quality Parameters:** Loss on drying (<8%), total ash, acid-insoluble ash, particle size (pass sieve #85), pH of 10% solution, HPTLC fingerprint for piperine and punicalagin, volatile oil content, microbial limits, heavy metals, aflatoxins
 
@@ -65,7 +65,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Dadimashtaka-Chur
 
 ### Synergistic Combinations
 
-- Dadimadi [Ghrita](/nighantu/herb/ghrita/)|Dadimadi Ghrita
-- [Bilwadi Leha](/nighantu/formulation/bilwadi-leha/)
-- [Kutajarishta](/nighantu/formulation/kutajarishta/)
+- Dadimadi [Ghrita](/herb/ghrita/)|Dadimadi Ghrita
+- [Bilwadi Leha](/formulation/bilwadi-leha/)
+- [Kutajarishta](/formulation/kutajarishta/)
 - Lavanbhaskar Churna

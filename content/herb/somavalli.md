@@ -45,13 +45,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Somavalli/meta-analysi
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Kwatha (decoction), Swarasa (fresh juice), Capsule, [Ghrita](/nighantu/herb/ghrita/) (medicated ghee)
+**Dosage Forms:** Churna (powder), Kwatha (decoction), Swarasa (fresh juice), Capsule, [Ghrita](/herb/ghrita/) (medicated ghee)
 
 **Standard Dosage:** 3-6 g powder per day; 10-20 mL swarasa daily; 50-100 mL kwatha twice daily; 500 mg capsule twice daily
 
 **Bioavailability:** Limited pharmacokinetic data available for this rare herb. Estimated moderate bioavailability (20-35%) for alkaloid and glycoside constituents based on structural analogy. Traditional Ghrita (ghee) preparation enhances lipophilic compound absorption. Fresh juice (swarasa) provides maximum bioavailability for hydrophilic constituents.
 
-**Optimal Timing:** Morning on empty stomach for Medhya (cognitive) and [Rasayana](/nighantu/reference/rasayana/) (rejuvenative) effects; with ghee or honey as Anupana
+**Optimal Timing:** Morning on empty stomach for Medhya (cognitive) and [Rasayana](/reference/rasayana/) (rejuvenative) effects; with ghee or honey as Anupana
 
 **Standardized Extract:** Whole plant extract (5:1 in 50% ethanol), characterized by HPTLC fingerprint; standardized to total alkaloid content and total glycoside content (specifications to be established based on definitive botanical identification)
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Somavalli/meta-analysi
 
 **Storage:** Swarasa: refrigerate 2-8 deg C. Churna and capsules: below 25 deg C, airtight containers. Ghrita: glass jars at room temperature, protect from light.
 
-**Marker Compounds:** Species-dependent — requires definitive botanical identification, [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) (total), [Glycosides](/nighantu/glossary/compounds-g-l/#glycosides) (cardiac — if Sarcostemma), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Flavonoids](/nighantu/reference/flavonoids/) (total)
+**Marker Compounds:** Species-dependent — requires definitive botanical identification, [Alkaloids](/glossary/compounds-1-a/#alkaloids) (total), [Glycosides](/glossary/compounds-g-l/#glycosides) (cardiac — if Sarcostemma), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Flavonoids](/reference/flavonoids/) (total)
 
 ### Extraction Methods
 
@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Somavalli/meta-analysi
 
 ### Synergistic Combinations
 
-- [Brahmi](/nighantu/herb/brahmi/) (Medhya Rasayana — cognitive tonic combination)
-- [Shankhpushpi](/nighantu/herb/shankhpushpi/) (intellect-enhancing synergy)
-- [Guduchi](/nighantu/herb/guduchi/) ([adaptogenic](/nighantu/reference/adaptogenic/)-[immunomodulatory](/nighantu/reference/immunomodulatory/) formulations)
-- [Ashwagandha](/nighantu/herb/ashwagandha/) (rejuvenative combinations)
+- [Brahmi](/herb/brahmi/) (Medhya Rasayana — cognitive tonic combination)
+- [Shankhpushpi](/herb/shankhpushpi/) (intellect-enhancing synergy)
+- [Guduchi](/herb/guduchi/) ([adaptogenic](/reference/adaptogenic/)-[immunomodulatory](/reference/immunomodulatory/) formulations)
+- [Ashwagandha](/herb/ashwagandha/) (rejuvenative combinations)

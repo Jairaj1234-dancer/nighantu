@@ -23,18 +23,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Aloe-Vera/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | [aloe vera](/nighantu/herb/aloe-vera/) |
-| Latin/Botanical | *Aloe barbadensis Mill. (syn. [Aloe vera](/nighantu/herb/aloe-vera/) (L.) Burm.f.)* |
+| English | [aloe vera](/herb/aloe-vera/) |
+| Latin/Botanical | *Aloe barbadensis Mill. (syn. [Aloe vera](/herb/aloe-vera/) (L.) Burm.f.)* |
 
 ## How does it work?
 
-- [Acemannan](/nighantu/glossary/compounds-1-a/#acemannan) (primary bioactive polysaccharide) activates innate immune cells (macrophages, dendritic cells) producing IL-1, IL-6, IL-12, TNF-alpha, colony-stimulating factors, and stem cell factors.
+- [Acemannan](/glossary/compounds-1-a/#acemannan) (primary bioactive polysaccharide) activates innate immune cells (macrophages, dendritic cells) producing IL-1, IL-6, IL-12, TNF-alpha, colony-stimulating factors, and stem cell factors.
 - Acemannan induces IL-12 release, triggering natural killer cell activation and T cell proliferation/activation (adaptive immune response).
 - Breakage of acemannan chains into smaller fragments enhances biological effects; fragments boost vaccine efficacy via mannose receptor agonism of macrophages/dendritic cells.
 - Wound healing: activated macrophage cytokines (IL-1, IL-6, TNF-alpha) promote robust fibroblast proliferation and collagen synthesis.
 - Acemannan/chitosan combinations accelerate wound closure by promoting granular tissue formation.
-- Aloe-[emodin](/nighantu/glossary/compounds-d-g/#emodin) and other [anthraquinones](/nighantu/glossary/compounds-1-a/#anthraquinones) exhibit antiproliferative and proapoptotic effects on cancer cell lines.
-- [Barbaloin](/nighantu/glossary/compounds-a-c/#barbaloin) acts as a stimulant [laxative](/nighantu/reference/laxative/) by increasing colonic motility and water/electrolyte secretion.
+- Aloe-[emodin](/glossary/compounds-d-g/#emodin) and other [anthraquinones](/glossary/compounds-1-a/#anthraquinones) exhibit antiproliferative and proapoptotic effects on cancer cell lines.
+- [Barbaloin](/glossary/compounds-a-c/#barbaloin) acts as a stimulant [laxative](/reference/laxative/) by increasing colonic motility and water/electrolyte secretion.
 
 ## What do recent clinical trials show?
 
@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Aloe-Vera/meta-analysis.md"
 
 - 48 known moderate drug interactions documented (Drugs.com interaction checker).
 - Hepatotoxicity concern: 22 reported cases of liver injury attributed to Aloe vera preparations (17 women, 5 men, mean age 50). Hepatocellular injury most common manifestation (86.3%). Latency 3-24 weeks.
-- [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) in aloe vera enhance hepatic [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) and alcohol dehydrogenase activity, potentially interfering with detoxification mechanisms.
+- [Alkaloids](/glossary/compounds-1-a/#alkaloids) in aloe vera enhance hepatic [enzymes](/glossary/compounds-d-g/#enzymes) and alcohol dehydrogenase activity, potentially interfering with detoxification mechanisms.
 - Oral ingestion associated with diarrhea, hypokalemia, pseudomelanosis coli, and kidney failure.
 - Topical use may cause phototoxicity and hypersensitive reactions in susceptible individuals.
 - Anthraquinone-containing latex (aloin) is a potent laxative; chronic use may cause electrolyte imbalance and dependency.
@@ -58,11 +58,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Aloe-Vera/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Swarasa (fresh gel juice), Kumari Asava (fermented preparation), Capsule (freeze-dried gel), Tablet, Topical gel, [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Churna (dried powder)
+**Dosage Forms:** Swarasa (fresh gel juice), Kumari Asava (fermented preparation), Capsule (freeze-dried gel), Tablet, Topical gel, [Ghrita](/herb/ghrita/) (medicated ghee), Churna (dried powder)
 
-**Standard Dosage:** 15-30ml fresh juice twice daily; 15-30ml [Kumaryasava](/nighantu/formulation/kumaryasava/) after meals; 300-500mg dried extract capsule; topical gel application as needed
+**Standard Dosage:** 15-30ml fresh juice twice daily; 15-30ml [Kumaryasava](/formulation/kumaryasava/) after meals; 300-500mg dried extract capsule; topical gel application as needed
 
-**Bioavailability:** Acemannan (primary polysaccharide) has limited oral bioavailability but significant [immunomodulatory](/nighantu/reference/immunomodulatory/) action in the gut (Peyer's patches). Anthraquinone [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) (aloin A/B) have good oral absorption and undergo colonic bacterial metabolism to active aglycones. Aloe-emodin reaches peak plasma levels in 6-8 hours. Fresh gel matrix enhances absorption of co-administered nutrients. Decolorized inner fillet gel has better tolerability profile.
+**Bioavailability:** Acemannan (primary polysaccharide) has limited oral bioavailability but significant [immunomodulatory](/reference/immunomodulatory/) action in the gut (Peyer's patches). Anthraquinone [glycosides](/glossary/compounds-g-l/#glycosides) (aloin A/B) have good oral absorption and undergo colonic bacterial metabolism to active aglycones. Aloe-emodin reaches peak plasma levels in 6-8 hours. Fresh gel matrix enhances absorption of co-administered nutrients. Decolorized inner fillet gel has better tolerability profile.
 
 **Optimal Timing:** Fresh juice early morning on empty stomach for detox/digestive health. Kumaryasava after meals. Topical gel as needed. Avoid during pregnancy (uterine stimulant effect of anthraquinones).
 
@@ -72,7 +72,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Aloe-Vera/meta-analysis.md"
 
 **Storage:** Fresh gel: refrigerated 2-8°C, use within 48 hours. Dried extracts: cool, dry place below 25°C, airtight containers. Liquid products: avoid direct sunlight, store below 25°C. Kumaryasava: room temperature in amber glass.
 
-**Marker Compounds:** Acemannan, Aloin A (barbaloin), Aloin B (isobarbaloin), Aloe-emodin, [Aloesin](/nighantu/glossary/compounds-1-a/#aloesin), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Glucomannans
+**Marker Compounds:** Acemannan, Aloin A (barbaloin), Aloin B (isobarbaloin), Aloe-emodin, [Aloesin](/glossary/compounds-1-a/#aloesin), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Glucomannans
 
 ### Extraction Methods
 
@@ -84,8 +84,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Aloe-Vera/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Haridra](/nighantu/herb/haridra/) ([turmeric](/nighantu/herb/turmeric/)) for wound healing and anti-inflammatory action
-- With Kumari + [Guduchi](/nighantu/herb/guduchi/) in Kumaryasava for liver and uterine health
-- With [Shatavari](/nighantu/herb/shatavari/) for female reproductive health
+- With [Haridra](/herb/haridra/) ([turmeric](/herb/turmeric/)) for wound healing and anti-inflammatory action
+- With Kumari + [Guduchi](/herb/guduchi/) in Kumaryasava for liver and uterine health
+- With [Shatavari](/herb/shatavari/) for female reproductive health
 - With Ghrita (ghee) for Pitta pacification and internal lubrication
 - With Amalaki for digestive tract healing

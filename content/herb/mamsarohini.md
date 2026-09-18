@@ -45,11 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Mamsarohini/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Kwatha (decoction), Capsules, Tablets, Avaleha (confection), [Ghrita](/nighantu/herb/ghrita/) (medicated ghee)
+**Dosage Forms:** Churna (powder), Kwatha (decoction), Capsules, Tablets, Avaleha (confection), [Ghrita](/herb/ghrita/) (medicated ghee)
 
 **Standard Dosage:** 1-3 g rhizome powder per day; 30-50 mL decoction twice daily; 250-500 mg standardized extract twice daily
 
-**Bioavailability:** [Berberine](/nighantu/glossary/compounds-a-c/#berberine) and related protoberberine [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) have inherently low oral bioavailability (approximately 5% for [berberine](/nighantu/glossary/compounds-a-c/#berberine)). Significant intestinal and hepatic first-pass metabolism. P-glycoprotein efflux limits absorption. Co-administration with [piperine](/nighantu/reference/piperine/) inhibits P-gp and CYP3A4, increasing berberine bioavailability by 2-fold. [Ghrita](/nighantu/herb/ghrita/)-based preparations may improve lipophilic alkaloid absorption.
+**Bioavailability:** [Berberine](/glossary/compounds-a-c/#berberine) and related protoberberine [alkaloids](/glossary/compounds-1-a/#alkaloids) have inherently low oral bioavailability (approximately 5% for [berberine](/glossary/compounds-a-c/#berberine)). Significant intestinal and hepatic first-pass metabolism. P-glycoprotein efflux limits absorption. Co-administration with [piperine](/reference/piperine/) inhibits P-gp and CYP3A4, increasing berberine bioavailability by 2-fold. [Ghrita](/herb/ghrita/)-based preparations may improve lipophilic alkaloid absorption.
 
 **Optimal Timing:** Before meals for digestive and hepatic stimulant effects; empty stomach for maximum berberine absorption; evening dose for wound healing and tissue repair
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Mamsarohini/meta-analysis.md"
 
 **Storage:** Store below 25 deg C in airtight, light-resistant containers. Berberine is photosensitive - amber packaging mandatory. Protect from moisture. Ghrita in clean glass containers at room temperature.
 
-**Marker Compounds:** Berberine, [Palmatine](/nighantu/glossary/compounds-o-q/#palmatine), [Jatrorrhizine](/nighantu/glossary/compounds-g-l/#jatrorrhizine), [Columbamine](/nighantu/glossary/compounds-c-d/#columbamine), [Magnoflorine](/nighantu/glossary/compounds-l-o/#magnoflorine), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Lupeol](/nighantu/reference/lupeol/)
+**Marker Compounds:** Berberine, [Palmatine](/glossary/compounds-o-q/#palmatine), [Jatrorrhizine](/glossary/compounds-g-l/#jatrorrhizine), [Columbamine](/glossary/compounds-c-d/#columbamine), [Magnoflorine](/glossary/compounds-l-o/#magnoflorine), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Lupeol](/reference/lupeol/)
 
 ### Extraction Methods
 
@@ -71,8 +71,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Mamsarohini/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- Kutki ([hepatoprotective](/nighantu/reference/hepatoprotective/) and bitter tonic synergy)
-- [Haridra](/nighantu/herb/haridra/) (anti-inflammatory and [antimicrobial](/nighantu/reference/antimicrobial/))
-- [Daruharidra](/nighantu/herb/daruharidra/) (berberine-type alkaloid potentiation)
+- Kutki ([hepatoprotective](/reference/hepatoprotective/) and bitter tonic synergy)
+- [Haridra](/herb/haridra/) (anti-inflammatory and [antimicrobial](/reference/antimicrobial/))
+- [Daruharidra](/herb/daruharidra/) (berberine-type alkaloid potentiation)
 - Chirata (bitter tonic and febrifuge combination)
-- [Pippali](/nighantu/herb/pippali/) (bioenhancer for berberine absorption)
+- [Pippali](/herb/pippali/) (bioenhancer for berberine absorption)

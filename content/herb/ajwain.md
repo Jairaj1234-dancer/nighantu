@@ -31,27 +31,27 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Ajwain/meta-analysis.md"
 - Thymol (50-60% of essential oil)
 - gamma-Terpinene
 - p-Cymene
-- [Carvacrol](/nighantu/glossary/compounds-a-c/#carvacrol)
+- [Carvacrol](/glossary/compounds-a-c/#carvacrol)
 - alpha-Pinene and beta-Pinene
 - alpha-Thujene
-- [Myrcene](/nighantu/glossary/compounds-l-o/#myrcene)
-- 1,8-[Cineole](/nighantu/glossary/compounds-c-d/#cineole)
+- [Myrcene](/glossary/compounds-l-o/#myrcene)
+- 1,8-[Cineole](/glossary/compounds-c-d/#cineole)
 
 ## How does it work?
 
-- Thymol and carvacrol exert [antimicrobial](/nighantu/reference/antimicrobial/) action by disrupting bacterial cell membranes and inhibiting efflux pumps
+- Thymol and carvacrol exert [antimicrobial](/reference/antimicrobial/) action by disrupting bacterial cell membranes and inhibiting efflux pumps
 - Anti-inflammatory activity mediated through inhibition of COX-2 and pro-inflammatory cytokines (TNF-alpha, IL-6)
-- [Antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive) effect via calcium channel blocking and vasodilatory action
+- [Antihypertensive](/glossary/pharmacology/#antihypertensive) effect via calcium channel blocking and vasodilatory action
 - Bronchodilatory mechanism through relaxation of tracheal smooth muscle and anticholinergic effects
-- [Antidiabetic](/nighantu/reference/antidiabetic/) action through alpha-glucosidase inhibition and enhanced insulin sensitivity
+- [Antidiabetic](/reference/antidiabetic/) action through alpha-glucosidase inhibition and enhanced insulin sensitivity
 
 ## Which traditional uses are supported by research?
 
-- Carminative and anti-flatulence activity - validated through multiple pharmacological studies showing [antispasmodic](/nighantu/glossary/pharmacology/#antispasmodic) effects on gastrointestinal smooth muscle
+- Carminative and anti-flatulence activity - validated through multiple pharmacological studies showing [antispasmodic](/glossary/pharmacology/#antispasmodic) effects on gastrointestinal smooth muscle
 - Treatment of dyspepsia and digestive disorders - confirmed by modern research demonstrating enhanced digestive enzyme secretion
 - Bronchodilatory and antitussive use for respiratory conditions - validated by studies showing tracheal smooth muscle relaxation
 - Antimicrobial use for intestinal parasites and infections - confirmed by in vitro studies against multiple pathogens
-- Use as [analgesic](/nighantu/reference/analgesic/) for abdominal and dental pain - supported by antinociceptive studies in animal models
+- Use as [analgesic](/reference/analgesic/) for abdominal and dental pain - supported by antinociceptive studies in animal models
 
 ## What do recent clinical trials show?
 
@@ -79,9 +79,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Ajwain/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), [Arka](/nighantu/herb/arka/) (distillate/hydrosol), Taila (essential oil), Capsule, Tablet, Kashayam (decoction)
+**Dosage Forms:** Churna (powder), [Arka](/herb/arka/) (distillate/hydrosol), Taila (essential oil), Capsule, Tablet, Kashayam (decoction)
 
-**Standard Dosage:** 1-3g seed powder twice daily; 10-20ml [Arka](/nighantu/herb/arka/) twice daily; 500mg extract capsule; 1-2 drops essential oil in warm water (internal, short-term)
+**Standard Dosage:** 1-3g seed powder twice daily; 10-20ml [Arka](/herb/arka/) twice daily; 500mg extract capsule; 1-2 drops essential oil in warm water (internal, short-term)
 
 **Bioavailability:** High bioavailability of thymol (the primary active compound, 35-50% of essential oil). Thymol is rapidly absorbed from the GI tract with peak plasma levels in 1-2 hours. Self-emulsifying property of the volatile oil enhances absorption. The herb itself acts as a bioenhancer for co-administered compounds.
 
@@ -93,7 +93,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Ajwain/meta-analysis.md"
 
 **Storage:** Whole seeds in airtight containers at ambient temperature. Essential oil in amber glass, tightly sealed, at 15-25°C. Powder in nitrogen-flushed sealed packs. Keep away from direct sunlight.
 
-**Marker Compounds:** Thymol, p-Cymene, Gamma-terpinene, Carvacrol, Beta-pinene, [Limonene](/nighantu/glossary/compounds-g-l/#limonene), Terpinen-4-ol
+**Marker Compounds:** Thymol, p-Cymene, Gamma-terpinene, Carvacrol, Beta-pinene, [Limonene](/glossary/compounds-g-l/#limonene), Terpinen-4-ol
 
 ### Extraction Methods
 
@@ -105,8 +105,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Ajwain/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Hingu](/nighantu/herb/hingu/) (asafoetida) for carminative action and bloating
+- With [Hingu](/herb/hingu/) (asafoetida) for carminative action and bloating
 - With Sunthi for nausea and digestive stimulation
-- With [Saindhava lavana](/nighantu/herb/saindhava-lavana/) for colic relief
-- With [Ajmoda](/nighantu/herb/ajmoda/) for enhanced digestive action
-- With [Jeeraka](/nighantu/herb/jeeraka/) for post-meal digestive comfort
+- With [Saindhava lavana](/herb/saindhava-lavana/) for colic relief
+- With [Ajmoda](/herb/ajmoda/) for enhanced digestive action
+- With [Jeeraka](/herb/jeeraka/) for post-meal digestive comfort

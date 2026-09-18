@@ -35,7 +35,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Bakuchi/meta-analysis.md"
 - Bavachinin (flavanone)
 - Bakuchalcone (chalcone)
 - Corylifolin
-- [Bergapten](/nighantu/glossary/compounds-a-c/#bergapten) (5-methoxypsoralen)
+- [Bergapten](/glossary/compounds-a-c/#bergapten) (5-methoxypsoralen)
 
 ## How does it work?
 
@@ -56,7 +56,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Bakuchi/meta-analysis.md"
 - Dhaliwal S, Rybak I, Ellis SR and others 2019. [Prospective, randomized, double-blind assessment of topical bakuchiol and retinol for facial photoageing](https://pubmed.ncbi.nlm.nih.gov/29947134/). *The British journal of dermatology*. PMID [29947134](https://pubmed.ncbi.nlm.nih.gov/29947134/) · [doi:10.1111/bjd.16918](https://doi.org/10.1111/bjd.16918)  
   Bakuchiol is comparable with retinol in its ability to improve photoageing including wrinkles, pigmentation, elasticity, firmness, and overall photodamage, with significantly better tolerability and fewer side effects than retinol.
 - Bluemke A, Ring AP, Immeyer J and others 2022. [Multidirectional activity of bakuchiol against cellular mechanisms of facial ageing - Experimental evidence for a holistic treatment approach](https://pubmed.ncbi.nlm.nih.gov/35514037/). *International journal of cosmetic science*. PMID [35514037](https://pubmed.ncbi.nlm.nih.gov/35514037/) · [doi:10.1111/ics.12784](https://doi.org/10.1111/ics.12784)  
-  Bakuchiol demonstrated holistic anti-aging treatment through stimulation of collagen I, III and IV synthesis, MMP-1 suppression, [antioxidant](/nighantu/reference/antioxidant/) activity, and modulation of multiple skin aging pathways simultaneously.
+  Bakuchiol demonstrated holistic anti-aging treatment through stimulation of collagen I, III and IV synthesis, MMP-1 suppression, [antioxidant](/reference/antioxidant/) activity, and modulation of multiple skin aging pathways simultaneously.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
@@ -84,11 +84,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Bakuchi/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (seed powder), Taila (seed oil — topical), Capsule, Tablet, Lepa (seed paste — topical), [Bakuchi Taila](/nighantu/formulation/bakuchi-taila/) (for vitiligo), Ointment/cream
+**Dosage Forms:** Churna (seed powder), Taila (seed oil — topical), Capsule, Tablet, Lepa (seed paste — topical), [Bakuchi Taila](/formulation/bakuchi-taila/) (for vitiligo), Ointment/cream
 
 **Standard Dosage:** 500mg-2g seed powder twice daily (internal); Bakuchi oil applied topically to affected areas; 250-500mg extract capsule. CAUTION: phototoxic — photosensitivity management required.
 
-**Bioavailability:** Good oral bioavailability for psoralen (~60-70% absorbed) and isopsoralen/angelicin. Psoralen reaches peak plasma levels in 1-2 hours. Bakuchiol has excellent oral bioavailability (~70%) and is also well absorbed transdermally. Psoralen undergoes hepatic metabolism via CYP [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) and has a half-life of ~2 hours. Topical psoralen + UVA (PUVA) therapy principle: psoralen intercalates into DNA, UVA activates it — this is the basis of photochemotherapy for vitiligo and psoriasis.
+**Bioavailability:** Good oral bioavailability for psoralen (~60-70% absorbed) and isopsoralen/angelicin. Psoralen reaches peak plasma levels in 1-2 hours. Bakuchiol has excellent oral bioavailability (~70%) and is also well absorbed transdermally. Psoralen undergoes hepatic metabolism via CYP [enzymes](/glossary/compounds-d-g/#enzymes) and has a half-life of ~2 hours. Topical psoralen + UVA (PUVA) therapy principle: psoralen intercalates into DNA, UVA activates it — this is the basis of photochemotherapy for vitiligo and psoriasis.
 
 **Optimal Timing:** Internal: after meals to reduce GI irritation. Topical: apply oil to affected area 30-60 minutes before controlled sun exposure (morning sun, 10-15 minutes). Avoid application before prolonged sun exposure.
 
@@ -111,7 +111,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Bakuchi/meta-analysis.md"
 ### Synergistic Combinations
 
 - With Khadir (Acacia catechu) for leucoderma/vitiligo management
-- With [Haridra](/nighantu/herb/haridra/) for skin depigmentation disorders
-- With [Manjistha](/nighantu/herb/manjistha/) for comprehensive skin health
-- With [Nimba](/nighantu/herb/nimba/) for anti-psoriatic action
+- With [Haridra](/herb/haridra/) for skin depigmentation disorders
+- With [Manjistha](/herb/manjistha/) for comprehensive skin health
+- With [Nimba](/herb/nimba/) for anti-psoriatic action
 - Topical Bakuchi oil + controlled sun exposure (photochemotherapy principle)

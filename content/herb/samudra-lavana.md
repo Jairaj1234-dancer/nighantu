@@ -23,22 +23,22 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Samudra-Lavana/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | [Samudra Lavana](/nighantu/herb/samudra-lavana/) Sea Salt |
+| English | [Samudra Lavana](/herb/samudra-lavana/) Sea Salt |
 
 ## Key Phytochemical Constituents
 
 - Sodium chloride (NaCl) - 85-90%
-- [Magnesium](/nighantu/glossary/compounds-l-o/#magnesium) chloride and sulfate
+- [Magnesium](/glossary/compounds-l-o/#magnesium) chloride and sulfate
 - Calcium sulfate
-- [Potassium](/nighantu/glossary/compounds-o-q/#potassium) chloride
-- Trace minerals: iron, zinc, [manganese](/nighantu/glossary/compounds-l-o/#manganese), [iodine](/nighantu/glossary/compounds-g-l/#iodine)
+- [Potassium](/glossary/compounds-o-q/#potassium) chloride
+- Trace minerals: iron, zinc, [manganese](/glossary/compounds-l-o/#manganese), [iodine](/glossary/compounds-g-l/#iodine)
 - Bicarbonates
 - Bromide (trace)
-- [Strontium](/nighantu/glossary/compounds-q-t/#strontium) (trace)
+- [Strontium](/glossary/compounds-q-t/#strontium) (trace)
 
 ## How does it work?
 
-- [Laxative](/nighantu/reference/laxative/)/purgative action: Magnesium salts draw water into the intestinal lumen through osmotic effect, promoting bowel movements and relieving constipation
+- [Laxative](/reference/laxative/)/purgative action: Magnesium salts draw water into the intestinal lumen through osmotic effect, promoting bowel movements and relieving constipation
 - Digestive stimulation: Saline taste triggers gastric acid and enzyme secretion; slightly heating potency enhances Agni but may aggravate Pitta
 - Colic relief (Shula Prashamana): Magnesium sulfate component has smooth muscle relaxant effect on intestinal and biliary smooth muscle, relieving spasmodic pain
 - Mild alkali properties: Bicarbonate content provides mild antacid effect, neutralizing excess gastric acid

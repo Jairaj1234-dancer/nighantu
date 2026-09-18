@@ -23,31 +23,31 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shatavari-Ksheera/meta-analys
 
 | Language | Name |
 |----------|------|
-| English | Shatavari [Ksheera](/nighantu/herb/ksheera/)|[Shatavari](/nighantu/herb/shatavari/) Ksheera |
+| English | Shatavari [Ksheera](/herb/ksheera/)|[Shatavari](/herb/shatavari/) Ksheera |
 | Latin/Botanical | *Asparagus racemosus Willd.* |
 
 ## Key Phytochemical Constituents
 
-- Shatavarin I-VI (steroidal [saponins](/nighantu/reference/saponins/))
-- [Racemosol](/nighantu/glossary/compounds-q-t/#racemosol) (isoflavone)
+- Shatavarin I-VI (steroidal [saponins](/reference/saponins/))
+- [Racemosol](/glossary/compounds-q-t/#racemosol) (isoflavone)
 - Asparagamine A (polycyclic alkaloid)
 - Racemofuran (furanoid)
-- [Kaempferol](/nighantu/reference/kaempferol/)
-- [Quercetin](/nighantu/reference/quercetinquercetin/)
-- [Rutin](/nighantu/glossary/compounds-q-t/#rutin)
-- [Sarsasapogenin](/nighantu/glossary/compounds-q-t/#sarsasapogenin)
+- [Kaempferol](/reference/kaempferol/)
+- [Quercetin](/reference/quercetinquercetin/)
+- [Rutin](/glossary/compounds-q-t/#rutin)
+- [Sarsasapogenin](/glossary/compounds-q-t/#sarsasapogenin)
 
 ## How does it work?
 
-- [Galactagogue](/nighantu/glossary/pharmacology/#galactagogue): Steroidal saponins (shatavarins) stimulate prolactin secretion and mammary gland development, increasing breast milk production
-- [Adaptogenic](/nighantu/reference/adaptogenic/): Saponins modulate HPA axis, normalize cortisol levels, and enhance stress resilience through GABAergic neurotransmission modulation
-- [Immunomodulatory](/nighantu/reference/immunomodulatory/): Shatavarin IV activates NK cells and macrophages, enhances phagocytosis, and modulates Th1/Th2 cytokine balance
+- [Galactagogue](/glossary/pharmacology/#galactagogue): Steroidal saponins (shatavarins) stimulate prolactin secretion and mammary gland development, increasing breast milk production
+- [Adaptogenic](/reference/adaptogenic/): Saponins modulate HPA axis, normalize cortisol levels, and enhance stress resilience through GABAergic neurotransmission modulation
+- [Immunomodulatory](/reference/immunomodulatory/): Shatavarin IV activates NK cells and macrophages, enhances phagocytosis, and modulates Th1/Th2 cytokine balance
 
 ## Which traditional uses are supported by research?
 
 - Galactagogue use (Stanya-janana) validated through RCTs showing increased breast milk volume and prolactin levels in lactating women
 - Menopausal symptom relief confirmed by 2025 RCT demonstrating significant reduction in hot flushes and sleep disturbance
-- Adaptogenic-[Rasayana](/nighantu/reference/rasayana/) use supported by HPA axis modulation and improvement of stress biomarkers in clinical and preclinical studies
+- Adaptogenic-[Rasayana](/reference/rasayana/) use supported by HPA axis modulation and improvement of stress biomarkers in clinical and preclinical studies
 
 ## What do recent clinical trials show?
 
@@ -69,7 +69,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shatavari-Ksheera/meta-analys
 
 **Standard Dosage:** 100-200 mL prepared Ksheerapaka (milk decoction) once or twice daily; 500-1000 mg freeze-dried Ksheerapaka powder per day
 
-**Bioavailability:** Superior bioavailability compared to simple [Shatavari](/nighantu/herb/shatavari/) preparations due to milk lipid-mediated solubilization of steroidal saponins (2-3x enhancement). Casein micelles act as natural nanocarriers for lipophilic constituents. Calcium and [phospholipids](/nighantu/glossary/compounds-o-q/#phospholipids) in milk further enhance saponin absorption. This traditional formulation represents an ancient bioavailability enhancement technology.
+**Bioavailability:** Superior bioavailability compared to simple [Shatavari](/herb/shatavari/) preparations due to milk lipid-mediated solubilization of steroidal saponins (2-3x enhancement). Casein micelles act as natural nanocarriers for lipophilic constituents. Calcium and [phospholipids](/glossary/compounds-o-q/#phospholipids) in milk further enhance saponin absorption. This traditional formulation represents an ancient bioavailability enhancement technology.
 
 **Optimal Timing:** Warm, before bedtime for reproductive tonic and sleep-promoting effects; morning dose for galactagogue action in lactating mothers
 
@@ -79,7 +79,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shatavari-Ksheera/meta-analys
 
 **Storage:** Fresh: refrigerate at 2-8 deg C, consume within 48 hours. Dried powders: below 25 deg C, airtight containers with desiccant, protect from moisture. RH <40% for hygroscopic dried milk preparations.
 
-**Marker Compounds:** Shatavarin IV, Racemosol, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Milk fat content (as quality parameter), Total saponins
+**Marker Compounds:** Shatavarin IV, Racemosol, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Milk fat content (as quality parameter), Total saponins
 
 ### Extraction Methods
 
@@ -90,7 +90,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shatavari-Ksheera/meta-analys
 
 ### Synergistic Combinations
 
-- [Saffron](/nighantu/herb/saffron/) (premium reproductive tonic — Kesar-Shatavari Doodh)
-- [Ashwagandha](/nighantu/herb/ashwagandha/) (adaptogenic milk tonic)
+- [Saffron](/herb/saffron/) (premium reproductive tonic — Kesar-Shatavari Doodh)
+- [Ashwagandha](/herb/ashwagandha/) (adaptogenic milk tonic)
 - Cardamom + Cinnamon (flavor enhancement and digestive aid)
 - Jaggery/Mishri (traditional sweetener and iron source)

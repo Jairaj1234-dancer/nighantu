@@ -23,13 +23,13 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Sameer-Pannag-Rasa
 
 | Language | Name |
 |----------|------|
-| English | [Sameer Pannag Rasa](/nighantu/herb/sameer-pannag-rasa/) |
+| English | [Sameer Pannag Rasa](/herb/sameer-pannag-rasa/) |
 
 ## How does it work?
 
 - Anti-asthmatic action: Reduces eosinophil count and ESR, suggesting suppression of allergic inflammatory pathways; improves airway patency as measured by peak expiratory flow rate
 - The arsenic compounds (after Shodhana) may modulate immune responses through NF-kB pathway suppression - similar to the mechanism of arsenic trioxide in treating acute promyelocytic leukemia in modern oncology
-- [Abhraka Bhasma](/nighantu/herb/abhraka-bhasma/) (mica calx) provides trace minerals and acts as a synergistic carrier for the active mercurial and arsenical compounds, enhancing tissue distribution
+- [Abhraka Bhasma](/herb/abhraka-bhasma/) (mica calx) provides trace minerals and acts as a synergistic carrier for the active mercurial and arsenical compounds, enhancing tissue distribution
 
 ## Which traditional uses are supported by research?
 
@@ -68,7 +68,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Sameer-Pannag-Rasa
 
 **Bioavailability:** Good; multi-metal Rasaushadhi with respiratory-digestive tropism
 
-**Optimal Timing:** With honey and [ginger](/nighantu/herb/ginger/) juice
+**Optimal Timing:** With honey and [ginger](/herb/ginger/) juice
 
 **Standardized Extract:** Kajjali + Naga + Vanga + other metals with herbal processing
 
@@ -76,8 +76,8 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Sameer-Pannag-Rasa
 
 **Storage:** Airtight container
 
-**Marker Compounds:** Mercury sulfide, Lead oxide, Tin oxide, Herbal [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids)
+**Marker Compounds:** Mercury sulfide, Lead oxide, Tin oxide, Herbal [alkaloids](/glossary/compounds-1-a/#alkaloids)
 
 **Quality Parameters:** Standard Rasaushadhi tests, free metals below limits
 
-**Vehicle (Anupana):** Honey + [ginger](/nighantu/herb/ginger/) juice; Ardrak Khanda
+**Vehicle (Anupana):** Honey + [ginger](/herb/ginger/) juice; Ardrak Khanda

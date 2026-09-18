@@ -41,7 +41,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Mineral-Exudates/Shilajit/me
 - Stohs SJ 2014. [Safety and efficacy of shilajit (mumie, moomiyo)](https://pubmed.ncbi.nlm.nih.gov/23733436/). *Phytotherapy research : PTR*. PMID [23733436](https://pubmed.ncbi.nlm.nih.gov/23733436/) · [doi:10.1002/ptr.5018](https://doi.org/10.1002/ptr.5018)  
   PRISMA-guided systematic review of 15 clinical studies (1,254 participants) across chronic fatigue syndrome, high-altitude sickness, cognitive decline, and infertility. Generally mild adverse events (GI discomfort, headache); no serious adverse events reported.
 - Das SS, Ramkumar M, Singh H and others 2026. [Pre-clinical Evaluation of Shilajit in Cancer: A Systematic Review](https://pubmed.ncbi.nlm.nih.gov/41640940/). *Cureus*. PMID [41640940](https://pubmed.ncbi.nlm.nih.gov/41640940/) · [doi:10.7759/cureus.101736](https://doi.org/10.7759/cureus.101736)  
-  Systematic review found promising preclinical [anticancer](/nighantu/reference/anticancer/) evidence but no randomized controlled clinical trials or human studies evaluating Shilajit as a primary anticancer therapy.
+  Systematic review found promising preclinical [anticancer](/reference/anticancer/) evidence but no randomized controlled clinical trials or human studies evaluating Shilajit as a primary anticancer therapy.
 - Basavaraja D, Katkar R, Dhaka P and others 2025. [Chemical Analysis of Native Himalayan Shilajit: An Evaluation of an Ayurvedic Formulation](https://pubmed.ncbi.nlm.nih.gov/41404054/). *ACS omega*. PMID [41404054](https://pubmed.ncbi.nlm.nih.gov/41404054/) · [doi:10.1021/acsomega.5c05533](https://doi.org/10.1021/acsomega.5c05533)  
   ACS Omega publication providing detailed chemical characterization of Himalayan Shilajit identifying dibenzo-alpha-pyrones, fulvic acids, humic acids, trace minerals, and heavy metal profiles.
 
@@ -90,7 +90,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Mineral-Exudates/Shilajit/me
 
 **Quality Parameters:** Fulvic acid >50%, heavy metals (As <3 ppm, Hg <1 ppm, Pb <10 ppm, Cd <3 ppm), moisture <5%, ash 15–20%, no mycotoxins
 
-**Vehicle (Anupana):** Warm milk (premier vehicle); honey; [Ashwagandha](/nighantu/herb/ashwagandha/) Churna
+**Vehicle (Anupana):** Warm milk (premier vehicle); honey; [Ashwagandha](/herb/ashwagandha/) Churna
 
 ### Extraction Methods
 
@@ -99,10 +99,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Mineral-Exudates/Shilajit/me
 
 ### Synergistic Combinations
 
-- [Ashwagandha](/nighantu/herb/ashwagandha/) (Rasayana synergy)
-- [Loha Bhasma](/nighantu/herb/loha-bhasma/) (iron enhancement)
-- [Gokshura](/nighantu/herb/gokshura/) (kidney/reproductive support)
-- Safed Musli ([Vajikarana](/nighantu/glossary/pharmacology/#vajikarana))
+- [Ashwagandha](/herb/ashwagandha/) (Rasayana synergy)
+- [Loha Bhasma](/herb/loha-bhasma/) (iron enhancement)
+- [Gokshura](/herb/gokshura/) (kidney/reproductive support)
+- Safed Musli ([Vajikarana](/glossary/pharmacology/#vajikarana))
 
 ### Stability Notes
 

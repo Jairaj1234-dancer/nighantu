@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Lavanga/meta-analys
 
 **Standard Dosage:** 1-2 g powder per day; 250-500 mg extract capsules twice daily; 1-3 drops essential oil topically (diluted); 0.5-1 g in Avaleha formulations
 
-**Bioavailability:** [Eugenol](/nighantu/glossary/compounds-d-g/#eugenol) rapidly absorbed orally with approximately 50% bioavailability. Buccal absorption is rapid, useful in dental formulations. Beta-caryophyllene shows improved bioavailability in lipid vehicles. Glucuronidation is the primary metabolic pathway. Enteric coating can delay release for lower GI targeting.
+**Bioavailability:** [Eugenol](/glossary/compounds-d-g/#eugenol) rapidly absorbed orally with approximately 50% bioavailability. Buccal absorption is rapid, useful in dental formulations. Beta-caryophyllene shows improved bioavailability in lipid vehicles. Glucuronidation is the primary metabolic pathway. Enteric coating can delay release for lower GI targeting.
 
 **Optimal Timing:** After meals for digestive carminative action; before meals for appetite stimulation; as needed for dental analgesia
 
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Lavanga/meta-analys
 
 **Storage:** Essential oil: amber glass, tightly sealed, 15-25 deg C, away from direct sunlight. Dry extracts: airtight containers, below 25 deg C, RH below 60%. Clove buds whole: airtight at room temperature, up to 3 years.
 
-**Marker Compounds:** Eugenol, Beta-caryophyllene, Eugenyl acetate, Alpha-humulene, Methyl salicylate, [Kaempferol](/nighantu/reference/kaempferol/), Rhamnetin, Crategolic acid
+**Marker Compounds:** Eugenol, Beta-caryophyllene, Eugenyl acetate, Alpha-humulene, Methyl salicylate, [Kaempferol](/reference/kaempferol/), Rhamnetin, Crategolic acid
 
 ### Extraction Methods
 
@@ -64,7 +64,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Lavanga/meta-analys
 ### Synergistic Combinations
 
 - Ela/Cardamom (aromatic digestive)
-- Maricha/[Black pepper](/nighantu/herb/black-pepper/) ([Trikatu](/nighantu/herb/trikatu/)-type warming combination)
+- Maricha/[Black pepper](/herb/black-pepper/) ([Trikatu](/herb/trikatu/)-type warming combination)
 - Twak/Cinnamon (combined warming spice therapy)
-- [Jatiphala](/nighantu/herb/jatiphala/)/Nutmeg (digestive and carminative)
-- [Haridra](/nighantu/herb/haridra/) ([antimicrobial](/nighantu/reference/antimicrobial/) synergy)
+- [Jatiphala](/herb/jatiphala/)/Nutmeg (digestive and carminative)
+- [Haridra](/herb/haridra/) ([antimicrobial](/reference/antimicrobial/) synergy)

@@ -23,51 +23,51 @@ srcRel: "_Hub/Compounds/Ursolic-acid.md"
 
 ## Ayurveda
 
-- [Aivana](/nighantu/herb/aivana/) — *Salvia officinalis L.*
-- [Badara](/nighantu/herb/badara/)
-- [Bakula](/nighantu/herb/bakula/) — *Mimusops elengi L.*
-- [Bharangi](/nighantu/herb/bharangi/) — *Clerodendrum serratum (L.) Moon*
-- [Chirayata](/nighantu/herb/chirayata/)
-- [Dashamoola](/nighantu/herb/dashamoola/) — *Compound: 10 roots (5 large trees + 5 small plants)*
-- [Dashamularishta](/nighantu/formulation/dashamularishta/)
-- [Dashmool Dashmoolarishta](/nighantu/formulation/dashmool-dashmoolarishta/)
-- [Dhamasa](/nighantu/herb/dhamasa/) — *Fagonia cretica L. / Fagonia arabica L.*
-- [Gambhari](/nighantu/herb/gambhari/) — *Gmelina arborea Roxb.*
-- [Granthiparni](/nighantu/herb/granthiparni/)
-- [Holy Basil](/nighantu/herb/holy-basil/)
-- [Jatamansi Herb](/nighantu/glossary/concepts-a-m/#jatamansi-herb)
-- [Kadamba](/nighantu/herb/kadamba/) — *Neolamarckia cadamba (Roxb.) Bosser*
-- [Kalyanaka Ghrita](/nighantu/formulation/kalyanaka-ghrita/)
-- [Kiratatikta](/nighantu/herb/kiratatikta/)
-- [Lavali](/nighantu/herb/lavali/) — *Meyna spinosa Roxb. ex Link*
-- [Madanaphala](/nighantu/herb/madanaphala/) — *Randia dumetorum (Retz.) Lam. (syn. Randia spinosa, Catunaregam spinosa)*
-- [Padmaka](/nighantu/herb/padmaka/) — *Prunus cerasoides D. Don*
-- [Parnayavani](/nighantu/herb/parnayavani/)
-- [Parpataka](/nighantu/herb/parpataka/)
-- [Patola](/nighantu/herb/patola/)
-- [Prasarini](/nighantu/herb/prasarini/) — *Paederia foetida L.*
-- [Priyangu](/nighantu/herb/priyangu/) — *Callicarpa macrophylla Vahl.*
-- [Rishabhaka](/nighantu/herb/rishabhaka/) — *Manilkara hexandra (Roxb.) Dubard*
-- [Sala](/nighantu/herb/sala/) — *Shorea robusta Gaertn.f.*
-- [Sarja](/nighantu/herb/sarja/)
-- [Sarpaksi](/nighantu/herb/sarpaksi/)
-- [Shrigataka](/nighantu/herb/shrigataka/) — *Trapa natans L. (syn. Trapa bispinosa Roxb.)*
-- [Suryavarta](/nighantu/herb/suryavarta/)
-- [Tilaparni](/nighantu/herb/tilaparni/)
-- [Tinduka](/nighantu/herb/tinduka/) — *Diospyros peregrina (Gaertn.) Gurke (syn. D. embryopteris Pers., D. malabarica (Desr.) Kostel.)*
-- [Tulsi](/nighantu/herb/tulsi/) — *Ocimum tenuiflorum (syn. O. sanctum)*
-- [Utingana](/nighantu/herb/utingana/)
-- [Vyaghranakhi](/nighantu/herb/vyaghranakhi/)
+- [Aivana](/herb/aivana/) — *Salvia officinalis L.*
+- [Badara](/herb/badara/)
+- [Bakula](/herb/bakula/) — *Mimusops elengi L.*
+- [Bharangi](/herb/bharangi/) — *Clerodendrum serratum (L.) Moon*
+- [Chirayata](/herb/chirayata/)
+- [Dashamoola](/herb/dashamoola/) — *Compound: 10 roots (5 large trees + 5 small plants)*
+- [Dashamularishta](/formulation/dashamularishta/)
+- [Dashmool Dashmoolarishta](/formulation/dashmool-dashmoolarishta/)
+- [Dhamasa](/herb/dhamasa/) — *Fagonia cretica L. / Fagonia arabica L.*
+- [Gambhari](/herb/gambhari/) — *Gmelina arborea Roxb.*
+- [Granthiparni](/herb/granthiparni/)
+- [Holy Basil](/herb/holy-basil/)
+- [Jatamansi Herb](/glossary/concepts-a-m/#jatamansi-herb)
+- [Kadamba](/herb/kadamba/) — *Neolamarckia cadamba (Roxb.) Bosser*
+- [Kalyanaka Ghrita](/formulation/kalyanaka-ghrita/)
+- [Kiratatikta](/herb/kiratatikta/)
+- [Lavali](/herb/lavali/) — *Meyna spinosa Roxb. ex Link*
+- [Madanaphala](/herb/madanaphala/) — *Randia dumetorum (Retz.) Lam. (syn. Randia spinosa, Catunaregam spinosa)*
+- [Padmaka](/herb/padmaka/) — *Prunus cerasoides D. Don*
+- [Parnayavani](/herb/parnayavani/)
+- [Parpataka](/herb/parpataka/)
+- [Patola](/herb/patola/)
+- [Prasarini](/herb/prasarini/) — *Paederia foetida L.*
+- [Priyangu](/herb/priyangu/) — *Callicarpa macrophylla Vahl.*
+- [Rishabhaka](/herb/rishabhaka/) — *Manilkara hexandra (Roxb.) Dubard*
+- [Sala](/herb/sala/) — *Shorea robusta Gaertn.f.*
+- [Sarja](/herb/sarja/)
+- [Sarpaksi](/herb/sarpaksi/)
+- [Shrigataka](/herb/shrigataka/) — *Trapa natans L. (syn. Trapa bispinosa Roxb.)*
+- [Suryavarta](/herb/suryavarta/)
+- [Tilaparni](/herb/tilaparni/)
+- [Tinduka](/herb/tinduka/) — *Diospyros peregrina (Gaertn.) Gurke (syn. D. embryopteris Pers., D. malabarica (Desr.) Kostel.)*
+- [Tulsi](/herb/tulsi/) — *Ocimum tenuiflorum (syn. O. sanctum)*
+- [Utingana](/herb/utingana/)
+- [Vyaghranakhi](/herb/vyaghranakhi/)
 
 ## Often Found With
 
-- [Oleanolic acid](/nighantu/reference/oleanolic-acid/) (26 shared sources)
-- [Beta-sitosterol](/nighantu/glossary/compounds-a-c/#betasitosterol) (18 shared sources)
-- [Rosmarinic acid](/nighantu/glossary/compounds-q-t/#rosmarinic-acid) (11 shared sources)
-- [Gallic acid](/nighantu/reference/gallic-acid/) (10 shared sources)
-- [Quercetin](/nighantu/reference/quercetinquercetin/) (10 shared sources)
-- [Lupeol](/nighantu/reference/lupeol/) (9 shared sources)
-- [Chlorogenic acid](/nighantu/glossary/compounds-c-d/#chlorogenic-acid) (8 shared sources)
-- [Luteolin](/nighantu/glossary/compounds-l-o/#luteolin) (8 shared sources)
-- [Kaempferol](/nighantu/reference/kaempferol/) (8 shared sources)
-- [Flavonoids](/nighantu/reference/flavonoids/) (7 shared sources)
+- [Oleanolic acid](/reference/oleanolic-acid/) (26 shared sources)
+- [Beta-sitosterol](/glossary/compounds-a-c/#betasitosterol) (18 shared sources)
+- [Rosmarinic acid](/glossary/compounds-q-t/#rosmarinic-acid) (11 shared sources)
+- [Gallic acid](/reference/gallic-acid/) (10 shared sources)
+- [Quercetin](/reference/quercetinquercetin/) (10 shared sources)
+- [Lupeol](/reference/lupeol/) (9 shared sources)
+- [Chlorogenic acid](/glossary/compounds-c-d/#chlorogenic-acid) (8 shared sources)
+- [Luteolin](/glossary/compounds-l-o/#luteolin) (8 shared sources)
+- [Kaempferol](/reference/kaempferol/) (8 shared sources)
+- [Flavonoids](/reference/flavonoids/) (7 shared sources)

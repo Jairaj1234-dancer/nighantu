@@ -31,17 +31,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Trivrit/meta-analysis.md"
 - Alpha-turpethein (resin glycoside)
 - Beta-turpethein
 - Turpethinic acids A-E
-- [Scopoletin](/nighantu/glossary/compounds-q-t/#scopoletin) ([coumarin](/nighantu/glossary/compounds-c-d/#coumarin))
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
-- [Lupeol](/nighantu/reference/lupeol/)
-- [Betulin](/nighantu/glossary/compounds-a-c/#betulin)
+- [Scopoletin](/glossary/compounds-q-t/#scopoletin) ([coumarin](/glossary/compounds-c-d/#coumarin))
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
+- [Lupeol](/reference/lupeol/)
+- [Betulin](/glossary/compounds-a-c/#betulin)
 - Operculinosides A-D
 
 ## How does it work?
 
-- Purgative: Turpethein resin [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) stimulate intestinal peristalsis and fluid secretion by irritating colonic mucosa and activating enteric neurons
+- Purgative: Turpethein resin [glycosides](/glossary/compounds-g-l/#glycosides) stimulate intestinal peristalsis and fluid secretion by irritating colonic mucosa and activating enteric neurons
 - Anti-inflammatory: Scopoletin inhibits COX-2 and iNOS expression; lupeol suppresses NF-kB-mediated inflammatory signaling
-- [Hepatoprotective](/nighantu/reference/hepatoprotective/): Betulin and beta-sitosterol reduce hepatic oxidative stress and lipid peroxidation, restoring liver enzyme levels
+- [Hepatoprotective](/reference/hepatoprotective/): Betulin and beta-sitosterol reduce hepatic oxidative stress and lipid peroxidation, restoring liver enzyme levels
 
 ## Which traditional uses are supported by research?
 
@@ -52,7 +52,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Trivrit/meta-analysis.md"
 ## What do recent clinical trials show?
 
 - Gupta S, Ved A 2017. [Operculina turpethum (Linn.) Silva Manso as a Medicinal Plant Species: A Review on Bioactive Components and Pharmacological Properties](https://pubmed.ncbi.nlm.nih.gov/28989252/). *Pharmacognosy reviews*. PMID [28989252](https://pubmed.ncbi.nlm.nih.gov/28989252/) · [doi:10.4103/phrev.phrev_6_17](https://doi.org/10.4103/phrev.phrev_6_17)  
-  Documented [antimicrobial](/nighantu/reference/antimicrobial/), antihepatotoxic, antinephrotoxic, antiulcer, antidiarrheal, [antidiabetic](/nighantu/reference/antidiabetic/), cytotoxic, [analgesic](/nighantu/reference/analgesic/), anti-arthritic, and anti-inflammatory activities.
+  Documented [antimicrobial](/reference/antimicrobial/), antihepatotoxic, antinephrotoxic, antiulcer, antidiarrheal, [antidiabetic](/reference/antidiabetic/), cytotoxic, [analgesic](/reference/analgesic/), anti-arthritic, and anti-inflammatory activities.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
@@ -105,8 +105,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Trivrit/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Triphala](/nighantu/herb/triphala/) - combined for Virechana (therapeutic purgation) in Panchakarma
-- Shunthi ([ginger](/nighantu/herb/ginger/)) - reduces griping associated with purgation
-- Shatapushpa ([fennel](/nighantu/herb/fennel/)) - carminative to prevent colic during purgation
-- [Ghrita](/nighantu/herb/ghrita/) - vehicle for graduated purgation (milder action)
-- [Saindhava Lavana](/nighantu/herb/saindhava-lavana/) - enhances purgative action
+- [Triphala](/herb/triphala/) - combined for Virechana (therapeutic purgation) in Panchakarma
+- Shunthi ([ginger](/herb/ginger/)) - reduces griping associated with purgation
+- Shatapushpa ([fennel](/herb/fennel/)) - carminative to prevent colic during purgation
+- [Ghrita](/herb/ghrita/) - vehicle for graduated purgation (milder action)
+- [Saindhava Lavana](/herb/saindhava-lavana/) - enhances purgative action

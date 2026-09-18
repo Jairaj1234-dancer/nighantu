@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Lohas-Iron-Preparations/Shot
 
 | Language | Name |
 |----------|------|
-| English | [Shothari Loha](/nighantu/herb/shothari-loha/) |
+| English | [Shothari Loha](/herb/shothari-loha/) |
 
 ## Where is it described in the classical texts?
 
@@ -31,16 +31,16 @@ Bhaishajya Ratnavali, Shotharoga Adhikara (Inflammation/Edema Chapter), Verse 42
 
 ## How does it work?
 
-- [Loha Bhasma](/nighantu/herb/loha-bhasma/) (48 g, highest proportion) corrects anemia which can be both a cause and consequence of chronic edema/inflammation
-- [Trikatu](/nighantu/herb/trikatu/) (Shunthi + Maricha + [Pippali](/nighantu/herb/pippali/)) provides anti-inflammatory action through inhibition of prostaglandin synthesis and COX pathway modulation
-- [Yavakshara](/nighantu/herb/yavakshara/) ([potassium](/nighantu/glossary/compounds-o-q/#potassium) carbonate) acts as an alkalizing agent, promotes diuresis, and helps reduce fluid retention/edema
-- [Piperine](/nighantu/reference/piperine/) from Maricha and [Pippali](/nighantu/herb/pippali/) enhances bioavailability of iron and other active compounds through inhibition of hepatic and intestinal glucuronidation
-- Shunthi ([ginger](/nighantu/herb/ginger/)) has demonstrated anti-edema effects through inhibition of TNF-alpha and IL-6 inflammatory cytokines
+- [Loha Bhasma](/herb/loha-bhasma/) (48 g, highest proportion) corrects anemia which can be both a cause and consequence of chronic edema/inflammation
+- [Trikatu](/herb/trikatu/) (Shunthi + Maricha + [Pippali](/herb/pippali/)) provides anti-inflammatory action through inhibition of prostaglandin synthesis and COX pathway modulation
+- [Yavakshara](/herb/yavakshara/) ([potassium](/glossary/compounds-o-q/#potassium) carbonate) acts as an alkalizing agent, promotes diuresis, and helps reduce fluid retention/edema
+- [Piperine](/reference/piperine/) from Maricha and [Pippali](/herb/pippali/) enhances bioavailability of iron and other active compounds through inhibition of hepatic and intestinal glucuronidation
+- Shunthi ([ginger](/herb/ginger/)) has demonstrated anti-edema effects through inhibition of TNF-alpha and IL-6 inflammatory cytokines
 - Combined Kapha-reducing (Kapha hara) property reduces excess fluid accumulation (Kleda) in tissues according to Ayurvedic pharmacology
 
 ## Which traditional uses are supported by research?
 
-- Shotha (edema/swelling) - traditional use supported by known anti-edema and [diuretic](/nighantu/reference/diuretic/) properties of [Yavakshara](/nighantu/herb/yavakshara/) and anti-inflammatory effects of [Trikatu](/nighantu/herb/trikatu/)
+- Shotha (edema/swelling) - traditional use supported by known anti-edema and [diuretic](/reference/diuretic/) properties of [Yavakshara](/herb/yavakshara/) and anti-inflammatory effects of [Trikatu](/herb/trikatu/)
 - Anemia with associated inflammatory conditions - validated through clinical practice showing improvement in hemoglobin levels alongside reduction in inflammatory symptoms
 
 ## What do recent clinical trials show?
@@ -52,7 +52,7 @@ Bhaishajya Ratnavali, Shotharoga Adhikara (Inflammation/Edema Chapter), Verse 42
 ## Recent safety updates
 
 - Contains primarily iron and herbal ingredients without mercury or arsenic - relatively safer mineral profile
-- [Yavakshara](/nighantu/herb/yavakshara/) (potassium carbonate) may cause gastric irritation at high doses; should be taken with food or as directed
+- [Yavakshara](/herb/yavakshara/) (potassium carbonate) may cause gastric irritation at high doses; should be taken with food or as directed
 - Iron overload risk with prolonged unsupervised use; periodic serum ferritin and TIBC monitoring recommended beyond 6-8 weeks
 - Contraindicated in hemochromatosis, hyperkalemia, and active peptic ulcer disease
 - Should be used under medical supervision; self-medication not recommended for chronic inflammatory conditions
@@ -74,16 +74,16 @@ Bhaishajya Ratnavali, Shotharoga Adhikara (Inflammation/Edema Chapter), Verse 42
 
 **Bioavailability:** Good; anti-edema herbs enhance iron delivery to tissues
 
-**Optimal Timing:** After meals with [Punarnava](/nighantu/herb/punarnava/) Kwatha or warm water
+**Optimal Timing:** After meals with [Punarnava](/herb/punarnava/) Kwatha or warm water
 
-**Standardized Extract:** [Loha Bhasma](/nighantu/herb/loha-bhasma/) with anti-inflammatory and diuretic herbs
+**Standardized Extract:** [Loha Bhasma](/herb/loha-bhasma/) with anti-inflammatory and diuretic herbs
 
 **Shelf Life:** 3–5 years
 
 **Storage:** Airtight container
 
-**Marker Compounds:** Iron oxide, [Punarnava](/nighantu/herb/punarnava/) [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids), Diuretic compounds
+**Marker Compounds:** Iron oxide, [Punarnava](/herb/punarnava/) [alkaloids](/glossary/compounds-1-a/#alkaloids), Diuretic compounds
 
 **Quality Parameters:** Iron content as labeled, standard tablet tests
 
-**Vehicle (Anupana):** Punarnava Kwatha, [Gomutra](/nighantu/herb/gomutra/), or warm water
+**Vehicle (Anupana):** Punarnava Kwatha, [Gomutra](/herb/gomutra/), or warm water

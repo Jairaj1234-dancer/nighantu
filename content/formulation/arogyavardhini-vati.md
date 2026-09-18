@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Arogyavardhini-Vati
 
 | Language | Name |
 |----------|------|
-| English | [Arogyavardhini Vati](/nighantu/formulation/arogyavardhini-vati/) |
+| English | [Arogyavardhini Vati](/formulation/arogyavardhini-vati/) |
 
 ## Where is it described in the classical texts?
 
@@ -31,23 +31,23 @@ Rasa Ratna Samuchchaya (Chapter 20); also described in Rasendra Sara Sangraha an
 
 ## How does it work?
 
-- [Hepatoprotective](/nighantu/reference/hepatoprotective/) action: Kutki (Picrorhiza kurroa) containing kutkin and picroside protects hepatocytes from oxidative damage and reduces liver enzyme elevation via downregulation of NF-kB pathway
-- [Antioxidant](/nighantu/reference/antioxidant/) defense: [Triphala](/nighantu/herb/triphala/) components scavenge free radicals, reduce MDA concentration, and enhance endogenous antioxidant [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) (glutathione, SOD, catalase)
-- Lipid metabolism regulation: Guggulsterones from [Guggulu](/nighantu/formulation/guggulu/) modulate cholesterol metabolism via farnesoid X receptor (FXR) antagonism and bile acid regulation
-- Anti-inflammatory cascade: [Neem](/nighantu/herb/neem/) ([azadirachtin](/nighantu/glossary/compounds-a-c/#azadirachtin), [nimbidin](/nighantu/glossary/compounds-l-o/#nimbidin)) and Kutki suppress pro-inflammatory cytokines (TNF-alpha, IL-6) and inhibit COX-2 activity
+- [Hepatoprotective](/reference/hepatoprotective/) action: Kutki (Picrorhiza kurroa) containing kutkin and picroside protects hepatocytes from oxidative damage and reduces liver enzyme elevation via downregulation of NF-kB pathway
+- [Antioxidant](/reference/antioxidant/) defense: [Triphala](/herb/triphala/) components scavenge free radicals, reduce MDA concentration, and enhance endogenous antioxidant [enzymes](/glossary/compounds-d-g/#enzymes) (glutathione, SOD, catalase)
+- Lipid metabolism regulation: Guggulsterones from [Guggulu](/formulation/guggulu/) modulate cholesterol metabolism via farnesoid X receptor (FXR) antagonism and bile acid regulation
+- Anti-inflammatory cascade: [Neem](/herb/neem/) ([azadirachtin](/glossary/compounds-a-c/#azadirachtin), [nimbidin](/glossary/compounds-l-o/#nimbidin)) and Kutki suppress pro-inflammatory cytokines (TNF-alpha, IL-6) and inhibit COX-2 activity
 - Metallic bhasma bioenhancement: Processed iron, copper, and mica calx provide trace mineral supplementation and act as catalysts enhancing bioavailability of herbal constituents
 
 ## Which traditional uses are supported by research?
 
 - Hepatoprotective action in fatty liver disease (NAFLD/AFLD) validated through multiple clinical and preclinical studies showing dose-dependent liver protection
-- [Hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic) effects confirmed in clinical trials demonstrating reduction in total cholesterol, LDL, and triglycerides
+- [Hypolipidemic](/glossary/pharmacology/#hypolipidemic) effects confirmed in clinical trials demonstrating reduction in total cholesterol, LDL, and triglycerides
 - Skin disease management (kushtha) supported by anti-inflammatory and blood-purifying mechanisms confirmed in dermatological studies
 - Digestive fire enhancement (Agni deepana) validated through improved appetite and digestive enzyme secretion in clinical observations
 
 ## What do recent clinical trials show?
 
 - Jamadagni S, Jamadagni P, Angom B and others 2020. [Tissue distribution of mercury and copper after Aarogyavardhini Vati treatment in rat model of CCl(4) induced chronic hepatotoxicity](https://pubmed.ncbi.nlm.nih.gov/32035767/). *Journal of Ayurveda and integrative medicine*. PMID [32035767](https://pubmed.ncbi.nlm.nih.gov/32035767/) · [doi:10.1016/j.jaim.2019.09.005](https://doi.org/10.1016/j.jaim.2019.09.005)  
-  [Arogyavardhini Vati](/nighantu/formulation/arogyavardhini-vati/) did not exhibit biologically significant toxicity from mercury or copper content when administered for prolonged duration in rats with chronic hepatotoxicity, supporting traditional safety claims at recommended doses.
+  [Arogyavardhini Vati](/formulation/arogyavardhini-vati/) did not exhibit biologically significant toxicity from mercury or copper content when administered for prolonged duration in rats with chronic hepatotoxicity, supporting traditional safety claims at recommended doses.
 - Kumar G, Srivastava A, Sharma SK and others 2012. [Safety and efficacy evaluation of Ayurvedic treatment (Arjuna powder and Arogyavardhini Vati) in dyslipidemia patients: A pilot prospective cohort clinical study](https://pubmed.ncbi.nlm.nih.gov/23559790/). *Ayu*. PMID [23559790](https://pubmed.ncbi.nlm.nih.gov/23559790/) · [doi:10.4103/0974-8520.105238](https://doi.org/10.4103/0974-8520.105238)  
   Pilot prospective cohort study demonstrated hypolipidemic activity comparable to fenofibrate in Triton WR-1339-induced hyperlipidemic models.
 
@@ -74,7 +74,7 @@ Rasa Ratna Samuchchaya (Chapter 20); also described in Rasendra Sara Sangraha an
 
 **Standard Dosage:** 125-250 mg twice or thrice daily, as per AFI Part I (Rasa Shastra section)
 
-**Bioavailability:** Kajjali and Bhasma forms represent ancient nano-medicine — particle sizes of 50-100 nm provide high surface area and bioavailability. [Guggulu](/nighantu/formulation/guggulu/) acts as a yogavahi (carrier/bioenhancer). [Aloe vera](/nighantu/herb/aloe-vera/) juice bhavana improves hepatoprotective compound delivery.
+**Bioavailability:** Kajjali and Bhasma forms represent ancient nano-medicine — particle sizes of 50-100 nm provide high surface area and bioavailability. [Guggulu](/formulation/guggulu/) acts as a yogavahi (carrier/bioenhancer). [Aloe vera](/herb/aloe-vera/) juice bhavana improves hepatoprotective compound delivery.
 
 **Optimal Timing:** Before meals or after meals as directed, typically twice daily
 
@@ -82,15 +82,15 @@ Rasa Ratna Samuchchaya (Chapter 20); also described in Rasendra Sara Sangraha an
 
 **Storage:** Store in airtight amber glass containers in a cool, dry place. Protect from moisture. Temperature not exceeding 30°C. Metallic preparations are generally stable.
 
-**Marker Compounds:** Picroside I, Picroside II (Kutkin), HgS (cinnabar form in Kajjali), Gallic acid (from [Triphala](/nighantu/herb/triphala/)), Z-Guggulsterone, E-Guggulsterone
+**Marker Compounds:** Picroside I, Picroside II (Kutkin), HgS (cinnabar form in Kajjali), Gallic acid (from [Triphala](/herb/triphala/)), Z-Guggulsterone, E-Guggulsterone
 
-**Quality Parameters:** Weight variation (±5%), hardness, friability, disintegration time, free mercury content (must be nil), total mercury within limits, arsenic within limits, heavy metals panel, [Loha Bhasma](/nighantu/herb/loha-bhasma/) quality (Bhasma pariksha — rekhapurna, varitara, apunarbhava), particle size of Bhasma (nano-level), picroside I/II from Kutki by HPLC, microbial limits
+**Quality Parameters:** Weight variation (±5%), hardness, friability, disintegration time, free mercury content (must be nil), total mercury within limits, arsenic within limits, heavy metals panel, [Loha Bhasma](/herb/loha-bhasma/) quality (Bhasma pariksha — rekhapurna, varitara, apunarbhava), particle size of Bhasma (nano-level), picroside I/II from Kutki by HPLC, microbial limits
 
 **Vehicle (Anupana):** Warm water, buttermilk, or as directed based on specific condition
 
 ### Synergistic Combinations
 
-- [Kumaryasava](/nighantu/formulation/kumaryasava/)
+- [Kumaryasava](/formulation/kumaryasava/)
 - Punarnavadi Mandura
-- Triphala [Guggulu](/nighantu/formulation/guggulu/)|[Triphala](/nighantu/herb/triphala/) Guggulu
-- [Guduchi](/nighantu/herb/guduchi/) Satva
+- Triphala [Guggulu](/formulation/guggulu/)|[Triphala](/herb/triphala/) Guggulu
+- [Guduchi](/herb/guduchi/) Satva

@@ -28,20 +28,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Padmaka/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- beta-[Sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol) (phytosterol)
-- [Stigmasterol](/nighantu/reference/stigmasterol/) (steroid)
+- beta-[Sitosterol](/glossary/compounds-q-t/#sitosterol) (phytosterol)
+- [Stigmasterol](/reference/stigmasterol/) (steroid)
 - Ursolic acid (pentacyclic triterpenoid)
 - Prunetinoside (isoflavone glycoside)
 - Glucogenkwanin (flavone glycoside)
 - Neosakuranin (flavanone glycoside)
-- Puddumin-A and Puddumin-B ([flavonoids](/nighantu/reference/flavonoids/))
+- Puddumin-A and Puddumin-B ([flavonoids](/reference/flavonoids/))
 
 ## How does it work?
 
 - Ursolic acid anti-inflammatory pathway: Inhibits NF-kB nuclear translocation and suppresses COX-2 and iNOS expression, reducing skin inflammation and redness
 - Phytosterol skin barrier enhancement: beta-Sitosterol and stigmasterol integrate into skin lipid bilayers, strengthening the stratum corneum barrier, reducing transepidermal water loss, and improving skin hydration
-- Flavonoid [antioxidant](/nighantu/reference/antioxidant/) protection: Prunetinoside and neosakuranin scavenge free radicals and chelate metal ions, protecting skin from oxidative stress-induced aging and pigmentation
-- Astringent toning mechanism: Tannin-like compounds precipitate superficial skin [proteins](/nighantu/glossary/compounds-o-q/#proteins), reducing pore size and improving skin texture and complexion
+- Flavonoid [antioxidant](/reference/antioxidant/) protection: Prunetinoside and neosakuranin scavenge free radicals and chelate metal ions, protecting skin from oxidative stress-induced aging and pigmentation
+- Astringent toning mechanism: Tannin-like compounds precipitate superficial skin [proteins](/glossary/compounds-o-q/#proteins), reducing pore size and improving skin texture and complexion
 
 ## Which traditional uses are supported by research?
 
@@ -52,7 +52,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Padmaka/meta-analysis.md"
 ## What do recent clinical trials show?
 
 - Jyotshna, Shanker K 2025. [An Insight Review on Phytochemistry, Pharmacological Evidences, and Biosynthesis of Key Metabolites of Indian Himalayan Cherry (Prunus cerasoides Don.) with Emphasis on its Safety and Use in Tradtional Phytomedicine](https://pubmed.ncbi.nlm.nih.gov/39552266/). *Chemistry & biodiversity*. PMID [39552266](https://pubmed.ncbi.nlm.nih.gov/39552266/) · [doi:10.1002/cbdv.202401814](https://doi.org/10.1002/cbdv.202401814)  
-  Comprehensive review identified over fifty diverse phytochemicals including flavones, [isoflavones](/nighantu/glossary/compounds-g-l/#isoflavones), chalcones, [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids), [glycosides](/nighantu/glossary/compounds-g-l/#glycosides), and [sterols](/nighantu/glossary/compounds-q-t/#sterols), confirming significant pharmacological potential for antioxidant, [antimicrobial](/nighantu/reference/antimicrobial/), and anti-pyretic applications.
+  Comprehensive review identified over fifty diverse phytochemicals including flavones, [isoflavones](/glossary/compounds-g-l/#isoflavones), chalcones, [terpenoids](/glossary/compounds-t-z/#terpenoids), [glycosides](/glossary/compounds-g-l/#glycosides), and [sterols](/glossary/compounds-q-t/#sterols), confirming significant pharmacological potential for antioxidant, [antimicrobial](/reference/antimicrobial/), and anti-pyretic applications.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
@@ -82,7 +82,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Padmaka/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g heartwood powder twice daily; 500-750 mg standardized extract daily; 15-20 mL decoction twice daily
 
-**Bioavailability:** Padmaka (Prunus cerasoides) contains flavonoids and terpenoids with moderate oral bioavailability (20-35%). Sakuranetin and prunetin are absorbed in the small intestine with Tmax of 2-3 hours. [Tannins](/nighantu/reference/tannins/) may reduce absorption of co-administered nutrients. Lipid-based delivery or cyclodextrin inclusion complexes can improve flavonoid bioavailability by 40-60%.
+**Bioavailability:** Padmaka (Prunus cerasoides) contains flavonoids and terpenoids with moderate oral bioavailability (20-35%). Sakuranetin and prunetin are absorbed in the small intestine with Tmax of 2-3 hours. [Tannins](/reference/tannins/) may reduce absorption of co-administered nutrients. Lipid-based delivery or cyclodextrin inclusion complexes can improve flavonoid bioavailability by 40-60%.
 
 **Optimal Timing:** After meals for general use. For menstrual health: begin 5-7 days before expected menses. For skin conditions: morning and evening with meals.
 
@@ -92,7 +92,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Padmaka/meta-analysis.md"
 
 **Storage:** Store in airtight containers below 25 deg C, protected from light and moisture. Heartwood pieces can be stored longer (up to 5 years) in dry conditions.
 
-**Marker Compounds:** Sakuranetin, Prunetin, [Genistein](/nighantu/glossary/compounds-d-g/#genistein), [Naringenin](/nighantu/glossary/compounds-l-o/#naringenin), [Taxifolin](/nighantu/glossary/compounds-t-z/#taxifolin), Puddumin-A, Beta-sitosterol, Tannic acid
+**Marker Compounds:** Sakuranetin, Prunetin, [Genistein](/glossary/compounds-d-g/#genistein), [Naringenin](/glossary/compounds-l-o/#naringenin), [Taxifolin](/glossary/compounds-t-z/#taxifolin), Puddumin-A, Beta-sitosterol, Tannic acid
 
 ### Extraction Methods
 
@@ -104,8 +104,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Padmaka/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Ashoka](/nighantu/herb/ashoka/) (uterine health and menstrual regulation)
-- [Lodhra](/nighantu/herb/lodhra/) (leucorrhea and gynecological health)
-- [Chandana](/nighantu/herb/chandana/) (cooling and complexion-enhancing)
-- [Ushira](/nighantu/herb/ushira/) (anti-inflammatory and cooling combination)
-- [Manjistha](/nighantu/herb/manjistha/) (skin complexion and blood purification)
+- [Ashoka](/herb/ashoka/) (uterine health and menstrual regulation)
+- [Lodhra](/herb/lodhra/) (leucorrhea and gynecological health)
+- [Chandana](/herb/chandana/) (cooling and complexion-enhancing)
+- [Ushira](/herb/ushira/) (anti-inflammatory and cooling combination)
+- [Manjistha](/herb/manjistha/) (skin complexion and blood purification)

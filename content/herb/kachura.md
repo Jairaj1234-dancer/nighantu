@@ -28,26 +28,26 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kachura/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Curcumin](/nighantu/herb/curcumin/) and curcuminoids
+- [Curcumin](/herb/curcumin/) and curcuminoids
 - Curcuzedoalide (unique sesquiterpenoid)
-- [Germacrone](/nighantu/glossary/compounds-d-g/#germacrone) (sesquiterpenoid)
-- Essential oil (4%): [cineole](/nighantu/glossary/compounds-c-d/#cineole), [camphor](/nighantu/herb/camphor/), alpha-pinene, beta-pinene
-- Zedoarone and [furanodienone](/nighantu/glossary/compounds-d-g/#furanodienone)
-- [Starch](/nighantu/glossary/compounds-q-t/#starch), gums, and arabin
+- [Germacrone](/glossary/compounds-d-g/#germacrone) (sesquiterpenoid)
+- Essential oil (4%): [cineole](/glossary/compounds-c-d/#cineole), [camphor](/herb/camphor/), alpha-pinene, beta-pinene
+- Zedoarone and [furanodienone](/glossary/compounds-d-g/#furanodienone)
+- [Starch](/glossary/compounds-q-t/#starch), gums, and arabin
 
 ## How does it work?
 
-- [Anticancer](/nighantu/reference/anticancer/) activity via curcuzedoalide-mediated apoptosis induction and cell cycle arrest in gastric cancer cell lines
-- [Cardioprotective](/nighantu/reference/cardioprotective/) effects through germacrone-mediated attenuation of oxidative stress, NF-kB-driven inflammation, and anti-apoptotic pathway activation
-- Anti-inflammatory mechanism via [curcumin](/nighantu/herb/curcumin/)-mediated inhibition of COX-2, iNOS, and pro-inflammatory cytokines
-- [Antimicrobial](/nighantu/reference/antimicrobial/) activity through essential oil disruption of microbial cell membranes affecting Aspergillus niger, Bacillus subtilis, Candida albicans, and Klebsiella pneumoniae
+- [Anticancer](/reference/anticancer/) activity via curcuzedoalide-mediated apoptosis induction and cell cycle arrest in gastric cancer cell lines
+- [Cardioprotective](/reference/cardioprotective/) effects through germacrone-mediated attenuation of oxidative stress, NF-kB-driven inflammation, and anti-apoptotic pathway activation
+- Anti-inflammatory mechanism via [curcumin](/herb/curcumin/)-mediated inhibition of COX-2, iNOS, and pro-inflammatory cytokines
+- [Antimicrobial](/reference/antimicrobial/) activity through essential oil disruption of microbial cell membranes affecting Aspergillus niger, Bacillus subtilis, Candida albicans, and Klebsiella pneumoniae
 
 ## Which traditional uses are supported by research?
 
 - Digestive stimulant and carminative (Deepana) - validated through studies confirming carminative and digestive enzyme stimulation
-- Anti-flatulence (Anulomana) - confirmed through [antispasmodic](/nighantu/glossary/pharmacology/#antispasmodic) activity on gastrointestinal smooth muscle
+- Anti-flatulence (Anulomana) - confirmed through [antispasmodic](/glossary/pharmacology/#antispasmodic) activity on gastrointestinal smooth muscle
 - Anti-cancer adjunct (Arbuda-hara) - validated through multiple studies showing antiproliferative activity against gastric, ovarian, and breast cancer cells
-- Anti-inflammatory (Shotha-hara) - confirmed through [curcumin](/nighantu/herb/curcumin/) and germacrone-mediated anti-inflammatory pathways
+- Anti-inflammatory (Shotha-hara) - confirmed through [curcumin](/herb/curcumin/) and germacrone-mediated anti-inflammatory pathways
 
 ## What do recent clinical trials show?
 
@@ -81,7 +81,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kachura/meta-analysis.md"
 
 **Standard Dosage:** 1-3g rhizome powder twice daily; 250-500mg extract; 3-5 drops essential oil (external); paste as needed externally
 
-**Bioavailability:** Curcuma zedoaria (white [turmeric](/nighantu/herb/turmeric/)/zedoary) rhizome contains sesquiterpenes ([curzerenone](/nighantu/glossary/compounds-c-d/#curzerenone), curzerene, germacrone) and curcuminoids (in lower amounts than C. longa). Sesquiterpenes have moderate oral bioavailability with lipophilic absorption. Germacrone shows reasonable GI absorption. Essential oil components absorbed well via inhalation and transdermal routes. Co-administration with [Pippali](/nighantu/herb/pippali/) or lipids enhances absorption.
+**Bioavailability:** Curcuma zedoaria (white [turmeric](/herb/turmeric/)/zedoary) rhizome contains sesquiterpenes ([curzerenone](/glossary/compounds-c-d/#curzerenone), curzerene, germacrone) and curcuminoids (in lower amounts than C. longa). Sesquiterpenes have moderate oral bioavailability with lipophilic absorption. Germacrone shows reasonable GI absorption. Essential oil components absorbed well via inhalation and transdermal routes. Co-administration with [Pippali](/herb/pippali/) or lipids enhances absorption.
 
 **Optimal Timing:** Before or after meals with warm water; external paste as needed
 
@@ -91,7 +91,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kachura/meta-analysis.md"
 
 **Storage:** Cool, dry place below 25°C, protected from light. Essential oil in amber glass. Powder in airtight containers to preserve volatile content.
 
-**Marker Compounds:** Curzerenone, Curzerene, Germacrone, Furanodienone, [Curdione](/nighantu/glossary/compounds-c-d/#curdione), Dehydrocurdione, Zederone, [Curcumenol](/nighantu/glossary/compounds-c-d/#curcumenol)
+**Marker Compounds:** Curzerenone, Curzerene, Germacrone, Furanodienone, [Curdione](/glossary/compounds-c-d/#curdione), Dehydrocurdione, Zederone, [Curcumenol](/glossary/compounds-c-d/#curcumenol)
 
 ### Extraction Methods
 
@@ -99,11 +99,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kachura/meta-analysis.md"
 - Supercritical CO2 extraction for sesquiterpene-enriched fraction
 - Hydroalcoholic extraction (70:30 ethanol:water)
 - Aqueous extraction
-- Traditional processing in sesame/[coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil) for Taila
+- Traditional processing in sesame/[coconut oil](/glossary/concepts-a-m/#coconut-oil) for Taila
 
 ### Synergistic Combinations
 
-- With [Haridra](/nighantu/herb/haridra/) (turmeric) for enhanced anti-inflammatory action
-- With Sunthi ([ginger](/nighantu/herb/ginger/)) for digestive and anti-emetic synergy
+- With [Haridra](/herb/haridra/) (turmeric) for enhanced anti-inflammatory action
+- With Sunthi ([ginger](/herb/ginger/)) for digestive and anti-emetic synergy
 - With Pippali for bioavailability enhancement
-- With [Guggulu](/nighantu/formulation/guggulu/) for anti-arthritic formulations
+- With [Guggulu](/formulation/guggulu/) for anti-arthritic formulations

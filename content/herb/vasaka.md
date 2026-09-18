@@ -40,17 +40,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vasaka/meta-analysis.md"
 
 **Standard Dosage:** 10-20 mL fresh juice twice daily; 3-5 g powder twice daily; 50-100 mL decoction twice daily; standardized extract capsule 250-500 mg twice daily
 
-**Bioavailability:** Identical to [Vasa](/nighantu/herb/vasa/) (Adhatoda vasica) - [vasicine](/nighantu/glossary/compounds-t-z/#vasicine) bioavailability ~45-55%, [vasicinone](/nighantu/glossary/compounds-t-z/#vasicinone) ~40-50%. Note: [Vasa](/nighantu/herb/vasa/) and Vasaka are synonymous names for Adhatoda vasica in different Ayurvedic traditions. All pharmacokinetic parameters identical. See Vasa entry for complete bioavailability profile.
+**Bioavailability:** Identical to [Vasa](/herb/vasa/) (Adhatoda vasica) - [vasicine](/glossary/compounds-t-z/#vasicine) bioavailability ~45-55%, [vasicinone](/glossary/compounds-t-z/#vasicinone) ~40-50%. Note: [Vasa](/herb/vasa/) and Vasaka are synonymous names for Adhatoda vasica in different Ayurvedic traditions. All pharmacokinetic parameters identical. See Vasa entry for complete bioavailability profile.
 
 **Optimal Timing:** Before meals with honey for cough and respiratory conditions; morning and evening dosing
 
-**Standardized Extract:** Leaf extract standardized to >1.0% vasicine + >0.5% vasicinone by HPLC; total quinazoline [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) >2.5%; aqueous extract (Ghana) with >3.0% total alkaloids
+**Standardized Extract:** Leaf extract standardized to >1.0% vasicine + >0.5% vasicinone by HPLC; total quinazoline [alkaloids](/glossary/compounds-1-a/#alkaloids) >2.5%; aqueous extract (Ghana) with >3.0% total alkaloids
 
 **Shelf Life:** Fresh juice: 24-48 hours; Powder: 12-18 months; Capsules/Tablets: 24-36 months; Syrup: 18-24 months; Ghana Vati: 24-36 months
 
 **Storage:** Identical to Vasa. Airtight, light-resistant containers at 15-25 deg C. Monitor vasicine/vasicinone ratio. Protect from oxidation.
 
-**Marker Compounds:** Vasicine, Vasicinone, Vasicol, [Deoxyvasicine](/nighantu/glossary/compounds-c-d/#deoxyvasicine), [Adhatodine](/nighantu/glossary/compounds-1-a/#adhatodine), [Anisotine](/nighantu/glossary/compounds-1-a/#anisotine), [Vasicinol](/nighantu/glossary/compounds-t-z/#vasicinol), Maiontone
+**Marker Compounds:** Vasicine, Vasicinone, Vasicol, [Deoxyvasicine](/glossary/compounds-c-d/#deoxyvasicine), [Adhatodine](/glossary/compounds-1-a/#adhatodine), [Anisotine](/glossary/compounds-1-a/#anisotine), [Vasicinol](/glossary/compounds-t-z/#vasicinol), Maiontone
 
 ### Extraction Methods
 
@@ -63,8 +63,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vasaka/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Tulsi](/nighantu/herb/tulsi/) - respiratory support combination
-- Mulethi/[Yashtimadhu](/nighantu/herb/yashtimadhu/) - demulcent and [expectorant](/nighantu/reference/expectorant/) synergy
-- [Pippali](/nighantu/herb/pippali/) + [Madhu](/nighantu/herb/madhu/) (honey) - traditional respiratory formulation
-- [Kantakari](/nighantu/herb/kantakari/) + Vasaka - bronchospasm management
-- [Shirisha](/nighantu/herb/shirisha/) (Albizia lebbeck) - anti-allergic respiratory combination
+- [Tulsi](/herb/tulsi/) - respiratory support combination
+- Mulethi/[Yashtimadhu](/herb/yashtimadhu/) - demulcent and [expectorant](/reference/expectorant/) synergy
+- [Pippali](/herb/pippali/) + [Madhu](/herb/madhu/) (honey) - traditional respiratory formulation
+- [Kantakari](/herb/kantakari/) + Vasaka - bronchospasm management
+- [Shirisha](/herb/shirisha/) (Albizia lebbeck) - anti-allergic respiratory combination

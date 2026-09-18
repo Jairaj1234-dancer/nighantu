@@ -32,29 +32,29 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bhadra/meta-analysis.md"
 - Methylaervine
 - Aervoside
 - Ervolanine
-- [Kaempferol](/nighantu/reference/kaempferol/)
-- [Quercetin](/nighantu/reference/quercetinquercetin/)
-- [Isorhamnetin](/nighantu/glossary/compounds-g-l/#isorhamnetin)
-- [Lupeol](/nighantu/reference/lupeol/)
+- [Kaempferol](/reference/kaempferol/)
+- [Quercetin](/reference/quercetinquercetin/)
+- [Isorhamnetin](/glossary/compounds-g-l/#isorhamnetin)
+- [Lupeol](/reference/lupeol/)
 - Methyl grevillate
 - Beta-sitosteryl acetate
 
 ## How does it work?
 
-- Canthin-6-one [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) exhibit anti-urolithiatic activity by inhibiting calcium oxalate crystal nucleation and aggregation in renal tubules, preventing kidney stone formation
-- Kaempferol and [quercetin](/nighantu/reference/quercetinquercetin/) [flavonoids](/nighantu/reference/flavonoids/) provide nephroprotective effects through [antioxidant](/nighantu/reference/antioxidant/)-mediated reduction of oxidative stress and inhibition of NF-kB-driven inflammatory pathways in renal tissue
-- Beta-carboline alkaloids demonstrate [antimicrobial](/nighantu/reference/antimicrobial/) activity by intercalating with bacterial DNA and inhibiting topoisomerase II, disrupting cell division
+- Canthin-6-one [alkaloids](/glossary/compounds-1-a/#alkaloids) exhibit anti-urolithiatic activity by inhibiting calcium oxalate crystal nucleation and aggregation in renal tubules, preventing kidney stone formation
+- Kaempferol and [quercetin](/reference/quercetinquercetin/) [flavonoids](/reference/flavonoids/) provide nephroprotective effects through [antioxidant](/reference/antioxidant/)-mediated reduction of oxidative stress and inhibition of NF-kB-driven inflammatory pathways in renal tissue
+- Beta-carboline alkaloids demonstrate [antimicrobial](/reference/antimicrobial/) activity by intercalating with bacterial DNA and inhibiting topoisomerase II, disrupting cell division
 
 ## Which traditional uses are supported by research?
 
-- Anti-urolithiasis (kidney stone dissolution) activity validated through in vivo and in vitro studies confirming traditional Ayurvedic use of [Pashanabheda](/nighantu/herb/pashanabheda/) for Ashmari (urinary calculi)
-- [Diuretic](/nighantu/reference/diuretic/) activity confirmed through pharmacological studies supporting traditional use for strangury and urinary disorders in Ayurveda
+- Anti-urolithiasis (kidney stone dissolution) activity validated through in vivo and in vitro studies confirming traditional Ayurvedic use of [Pashanabheda](/herb/pashanabheda/) for Ashmari (urinary calculi)
+- [Diuretic](/reference/diuretic/) activity confirmed through pharmacological studies supporting traditional use for strangury and urinary disorders in Ayurveda
 - Anti-asthmatic and bronchodilatory effects validated in preclinical models consistent with traditional use for respiratory conditions
 
 ## What do recent clinical trials show?
 
 - Goyal M, Pareek A, Nagori BP and others 2011. [Aerva lanata: A review on phytochemistry and pharmacological aspects](https://pubmed.ncbi.nlm.nih.gov/22279378/). *Pharmacognosy reviews*. PMID [22279378](https://pubmed.ncbi.nlm.nih.gov/22279378/) · [doi:10.4103/0973-7847.91120](https://doi.org/10.4103/0973-7847.91120)  
-  Documented diuretic, anti-inflammatory, hypoglycemic, antiparasitic, antimicrobial, [hepatoprotective](/nighantu/reference/hepatoprotective/), anti-urolithiasis, and antifertility properties with identification of key alkaloids and flavonoids.
+  Documented diuretic, anti-inflammatory, hypoglycemic, antiparasitic, antimicrobial, [hepatoprotective](/reference/hepatoprotective/), anti-urolithiasis, and antifertility properties with identification of key alkaloids and flavonoids.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
@@ -88,7 +88,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bhadra/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction; 500mg extract capsule twice daily
 
-**Bioavailability:** Limited modern pharmacokinetic data available. Traditional texts recommend administration with warm water or honey to enhance absorption. Aromatic volatile constituents show rapid absorption but short half-life. Decoction form provides better bioavailability for water-soluble [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) than dry powder.
+**Bioavailability:** Limited modern pharmacokinetic data available. Traditional texts recommend administration with warm water or honey to enhance absorption. Aromatic volatile constituents show rapid absorption but short half-life. Decoction form provides better bioavailability for water-soluble [glycosides](/glossary/compounds-g-l/#glycosides) than dry powder.
 
 **Optimal Timing:** Before meals with warm water for digestive benefits; after meals for general health support
 
@@ -98,7 +98,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bhadra/meta-analysis.md"
 
 **Storage:** Cool, dry place away from light and moisture. Airtight packaging recommended.
 
-**Marker Compounds:** Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Betulin](/nighantu/glossary/compounds-a-c/#betulin), Gallic acid, Kaempferol, Flavonoid glycosides
+**Marker Compounds:** Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Betulin](/glossary/compounds-a-c/#betulin), Gallic acid, Kaempferol, Flavonoid glycosides
 
 ### Extraction Methods
 
@@ -110,6 +110,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bhadra/meta-analysis.md"
 ### Synergistic Combinations
 
 - With Musta (Cyperus rotundus) for digestive formulations
-- With [Haridra](/nighantu/herb/haridra/) for anti-inflammatory effects
-- With [Vacha](/nighantu/herb/vacha/) for cognitive enhancement
-- With [Pippali](/nighantu/herb/pippali/) for respiratory support
+- With [Haridra](/herb/haridra/) for anti-inflammatory effects
+- With [Vacha](/herb/vacha/) for cognitive enhancement
+- With [Pippali](/herb/pippali/) for respiratory support

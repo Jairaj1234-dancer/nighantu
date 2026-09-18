@@ -40,17 +40,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Mens-Health-Vitality/Varahikanda/meta-analy
 
 **Standard Dosage:** 3-6 g powder twice daily with milk or ghee; 50-100 mL decoction twice daily
 
-**Bioavailability:** [Diosgenin](/nighantu/glossary/compounds-d-g/#diosgenin) (steroidal sapogenin) has low oral bioavailability (~10-15%) due to poor aqueous solubility and extensive hepatic metabolism. However, it is a critical precursor for pharmaceutical steroid synthesis. Bioavailability is significantly enhanced (3-5 fold) by lipid-based delivery systems (SEDDS, nanoemulsions) or phospholipid complexation. [Dioscin](/nighantu/glossary/compounds-d-g/#dioscin) (glycosylated form) is hydrolyzed by gut bacteria to diosgenin, providing delayed absorption.
+**Bioavailability:** [Diosgenin](/glossary/compounds-d-g/#diosgenin) (steroidal sapogenin) has low oral bioavailability (~10-15%) due to poor aqueous solubility and extensive hepatic metabolism. However, it is a critical precursor for pharmaceutical steroid synthesis. Bioavailability is significantly enhanced (3-5 fold) by lipid-based delivery systems (SEDDS, nanoemulsions) or phospholipid complexation. [Dioscin](/glossary/compounds-d-g/#dioscin) (glycosylated form) is hydrolyzed by gut bacteria to diosgenin, providing delayed absorption.
 
-**Optimal Timing:** After meals with warm milk or ghee for [Rasayana](/nighantu/reference/rasayana/) (rejuvenative) effect; morning and evening dosing
+**Optimal Timing:** After meals with warm milk or ghee for [Rasayana](/reference/rasayana/) (rejuvenative) effect; morning and evening dosing
 
-**Standardized Extract:** Hydroethanolic extract standardized to >10% total [saponins](/nighantu/reference/saponins/) (as diosgenin equivalent by HPLC after acid hydrolysis); processed (Shodhit) tuber powder with documented detoxification protocol
+**Standardized Extract:** Hydroethanolic extract standardized to >10% total [saponins](/reference/saponins/) (as diosgenin equivalent by HPLC after acid hydrolysis); processed (Shodhit) tuber powder with documented detoxification protocol
 
 **Shelf Life:** Processed powder: 18-24 months; Capsules/Tablets: 24-36 months; Avaleha: 18-24 months
 
 **Storage:** Airtight, moisture-proof containers at 15-25 deg C. Protect from insects (starchy material attracts pests). Unprocessed tubers must be clearly labeled 'NOT FOR DIRECT CONSUMPTION - REQUIRES SHODHANA'.
 
-**Marker Compounds:** Diosgenin, Dioscin, Dioscorine (toxic - must be absent/below limit after Shodhana), beta-[Sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/nighantu/reference/stigmasterol/), [Kaempferol](/nighantu/reference/kaempferol/), [Quercetin](/nighantu/reference/quercetinquercetin/)
+**Marker Compounds:** Diosgenin, Dioscin, Dioscorine (toxic - must be absent/below limit after Shodhana), beta-[Sitosterol](/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/reference/stigmasterol/), [Kaempferol](/reference/kaempferol/), [Quercetin](/reference/quercetinquercetin/)
 
 ### Extraction Methods
 
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Mens-Health-Vitality/Varahikanda/meta-analy
 
 ### Synergistic Combinations
 
-- [Ashwagandha](/nighantu/herb/ashwagandha/) - [adaptogenic](/nighantu/reference/adaptogenic/) and anabolic synergy
-- [Shatavari](/nighantu/herb/shatavari/) - female reproductive tonic combination
+- [Ashwagandha](/herb/ashwagandha/) - [adaptogenic](/reference/adaptogenic/) and anabolic synergy
+- [Shatavari](/herb/shatavari/) - female reproductive tonic combination
 - Musali (Chlorophytum borivilianum) - vitality and vigor combination
-- [Ghrita](/nighantu/herb/ghrita/) (ghee) - lipid vehicle enhances diosgenin absorption
+- [Ghrita](/herb/ghrita/) (ghee) - lipid vehicle enhances diosgenin absorption

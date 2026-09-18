@@ -32,18 +32,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aivana/meta-analysis.md"
 - Ursolic acid
 - Alpha-thujone
 - Beta-thujone
-- 1,8-[Cineole](/nighantu/glossary/compounds-c-d/#cineole) (Eucalyptol)
-- [Camphor](/nighantu/herb/camphor/)
-- [Luteolin](/nighantu/glossary/compounds-l-o/#luteolin)
+- 1,8-[Cineole](/glossary/compounds-c-d/#cineole) (Eucalyptol)
+- [Camphor](/herb/camphor/)
+- [Luteolin](/glossary/compounds-l-o/#luteolin)
 - Salvianolic acids A and B
-- [Hispidulin](/nighantu/glossary/compounds-g-l/#hispidulin)
-- [Viridiflorol](/nighantu/glossary/compounds-t-z/#viridiflorol)
+- [Hispidulin](/glossary/compounds-g-l/#hispidulin)
+- [Viridiflorol](/glossary/compounds-t-z/#viridiflorol)
 
 ## How does it work?
 
 - Rosmarinic acid downregulates COX-2 expression and reduces pro-inflammatory cytokine production (TNF-alpha, IL-1beta, IL-6) in cell models, exerting potent anti-inflammatory effects
-- Ursolic acid inhibits NF-kB pathway activation and demonstrates [antimicrobial](/nighantu/reference/antimicrobial/) activity by disrupting bacterial membrane integrity against Staphylococcus aureus
-- Luteolin and hispidulin provide [neuroprotective](/nighantu/reference/neuroprotective/) effects by scavenging free radicals in neural tissues and modulating GABA receptor activity for [anxiolytic](/nighantu/reference/anxiolytic/) effects
+- Ursolic acid inhibits NF-kB pathway activation and demonstrates [antimicrobial](/reference/antimicrobial/) activity by disrupting bacterial membrane integrity against Staphylococcus aureus
+- Luteolin and hispidulin provide [neuroprotective](/reference/neuroprotective/) effects by scavenging free radicals in neural tissues and modulating GABA receptor activity for [anxiolytic](/reference/anxiolytic/) effects
 
 ## Which traditional uses are supported by research?
 
@@ -88,7 +88,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aivana/meta-analysis.md"
 
 **Standard Dosage:** 2-4g powder twice daily; 30-60ml decoction twice daily
 
-**Bioavailability:** Limited modern pharmacokinetic data. Traditional texts recommend administration with warm water or honey to optimize absorption. The herb's constituents are primarily water-soluble phenolics and [glycosides](/nighantu/glossary/compounds-g-l/#glycosides), suggesting reasonable aqueous-phase absorption.
+**Bioavailability:** Limited modern pharmacokinetic data. Traditional texts recommend administration with warm water or honey to optimize absorption. The herb's constituents are primarily water-soluble phenolics and [glycosides](/glossary/compounds-g-l/#glycosides), suggesting reasonable aqueous-phase absorption.
 
 **Optimal Timing:** Before meals with warm water for digestive indications
 
@@ -98,7 +98,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aivana/meta-analysis.md"
 
 **Storage:** Cool, dry place below 30°C, protected from direct light and moisture.
 
-**Marker Compounds:** Total phenolics (Folin-Ciocalteu method), Total [flavonoids](/nighantu/reference/flavonoids/), TLC fingerprint markers
+**Marker Compounds:** Total phenolics (Folin-Ciocalteu method), Total [flavonoids](/reference/flavonoids/), TLC fingerprint markers
 
 ### Extraction Methods
 
@@ -108,6 +108,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aivana/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Triphala](/nighantu/herb/triphala/) for gastrointestinal support
-- With [Guduchi](/nighantu/herb/guduchi/) for immune modulation
+- With [Triphala](/herb/triphala/) for gastrointestinal support
+- With [Guduchi](/herb/guduchi/) for immune modulation
 - With Musta for digestive disorders

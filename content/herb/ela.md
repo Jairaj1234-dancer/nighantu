@@ -28,26 +28,26 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Ela/meta-analysis.m
 
 ## Key Phytochemical Constituents
 
-- 1,8-[Cineole](/nighantu/glossary/compounds-c-d/#cineole) (eucalyptol, 45.6% of essential oil)
+- 1,8-[Cineole](/glossary/compounds-c-d/#cineole) (eucalyptol, 45.6% of essential oil)
 - alpha-Terpinyl acetate (33.7%)
-- [Sabinene](/nighantu/glossary/compounds-q-t/#sabinene) (3.8%)
+- [Sabinene](/glossary/compounds-q-t/#sabinene) (3.8%)
 - Terpinen-4-ol (2.4%)
-- [Myrcene](/nighantu/glossary/compounds-l-o/#myrcene) (2.2%)
-- [Limonene](/nighantu/glossary/compounds-g-l/#limonene)
-- [Quercetin](/nighantu/reference/quercetinquercetin/) and [Kaempferol](/nighantu/reference/kaempferol/) ([flavonoids](/nighantu/reference/flavonoids/))
-- [Rutin](/nighantu/glossary/compounds-q-t/#rutin) (flavonoid glycoside)
+- [Myrcene](/glossary/compounds-l-o/#myrcene) (2.2%)
+- [Limonene](/glossary/compounds-g-l/#limonene)
+- [Quercetin](/reference/quercetinquercetin/) and [Kaempferol](/reference/kaempferol/) ([flavonoids](/reference/flavonoids/))
+- [Rutin](/glossary/compounds-q-t/#rutin) (flavonoid glycoside)
 
 ## How does it work?
 
 - 1,8-Cineole (eucalyptol) exerts anti-inflammatory activity by inhibiting TNF-alpha, IL-1beta, and IL-6 production via NF-kB pathway suppression
-- [Antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive) mechanism through [diuretic](/nighantu/reference/diuretic/) action, calcium channel blocking, and ACE (angiotensin-converting enzyme) inhibition
-- [Antioxidant](/nighantu/reference/antioxidant/) activity via polyphenol-mediated free radical scavenging and enhancement of endogenous antioxidant defense systems (SOD, catalase)
-- [Anticancer](/nighantu/reference/anticancer/) mechanisms include induction of apoptosis, cell cycle arrest, and inhibition of cell migration through modulation of PI3K/Akt and MAPK pathways
+- [Antihypertensive](/glossary/pharmacology/#antihypertensive) mechanism through [diuretic](/reference/diuretic/) action, calcium channel blocking, and ACE (angiotensin-converting enzyme) inhibition
+- [Antioxidant](/reference/antioxidant/) activity via polyphenol-mediated free radical scavenging and enhancement of endogenous antioxidant defense systems (SOD, catalase)
+- [Anticancer](/reference/anticancer/) mechanisms include induction of apoptosis, cell cycle arrest, and inhibition of cell migration through modulation of PI3K/Akt and MAPK pathways
 - Antimicrobial action of 1,8-cineole and terpinen-4-ol through disruption of microbial cell membrane and interference with cellular respiration
 
 ## Which traditional uses are supported by research?
 
-- Digestive aid for nausea, flatulence, and indigestion - confirmed by pharmacological studies showing carminative and [antispasmodic](/nighantu/glossary/pharmacology/#antispasmodic) effects
+- Digestive aid for nausea, flatulence, and indigestion - confirmed by pharmacological studies showing carminative and [antispasmodic](/glossary/pharmacology/#antispasmodic) effects
 - Respiratory relief for asthma and bronchitis - validated by studies demonstrating bronchodilatory effects of 1,8-cineole (eucalyptol)
 - Oral health for teeth and gum infections - confirmed by RCTs showing antibacterial and anti-inflammatory activity against periodontal pathogens
 - Blood pressure lowering - validated by meta-analysis of RCTs showing significant reduction in both systolic and diastolic blood pressure
@@ -89,7 +89,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Ela/meta-analysis.m
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (seed powder), Essential oil, Tablet, Capsule, [Arka](/nighantu/herb/arka/) (distillate), Tincture, Confectionery/culinary preparations
+**Dosage Forms:** Churna (seed powder), Essential oil, Tablet, Capsule, [Arka](/herb/arka/) (distillate), Tincture, Confectionery/culinary preparations
 
 **Standard Dosage:** 1-3g seed powder twice daily; 500mg extract capsule twice daily; essential oil: 1-2 drops in warm water or carrier; 2-5ml tincture
 
@@ -103,20 +103,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Ela/meta-analysis.m
 
 **Storage:** Whole pods in airtight containers at room temperature - most stable form. Powder: airtight, nitrogen-flushed, opaque containers, use quickly. Essential oil: amber glass, cool dark place, tightly sealed. Avoid heat and light exposure.
 
-**Marker Compounds:** 1,8-Cineole (eucalyptol), Alpha-terpinyl acetate, [Linalool](/nighantu/glossary/compounds-l-o/#linalool), Linalyl acetate, Limonene, Alpha-terpineol, Myrcene
+**Marker Compounds:** 1,8-Cineole (eucalyptol), Alpha-terpinyl acetate, [Linalool](/glossary/compounds-l-o/#linalool), Linalyl acetate, Limonene, Alpha-terpineol, Myrcene
 
 ### Extraction Methods
 
 - Steam distillation of crushed seeds for essential oil
 - Supercritical CO2 extraction (superior quality, higher alpha-terpinyl acetate retention)
-- Hydrodistillation (traditional [Arka](/nighantu/herb/arka/))
+- Hydrodistillation (traditional [Arka](/herb/arka/))
 - Hydroalcoholic extraction (60:40) for non-volatile constituents
 - Cold-pressing of seeds (low yield)
 
 ### Synergistic Combinations
 
-- With Sunthi ([ginger](/nighantu/herb/ginger/)) and Twak (cinnamon) in [Trikatu](/nighantu/herb/trikatu/)-related digestive formulations
-- With [Yashtimadhu](/nighantu/herb/yashtimadhu/) for gastric soothing and carminative combination
-- With [Lavanga](/nighantu/herb/lavanga/) (clove) for oral care formulations
-- With [Jatiphala](/nighantu/herb/jatiphala/) (nutmeg) for digestive and anti-emetic synergy
+- With Sunthi ([ginger](/herb/ginger/)) and Twak (cinnamon) in [Trikatu](/herb/trikatu/)-related digestive formulations
+- With [Yashtimadhu](/herb/yashtimadhu/) for gastric soothing and carminative combination
+- With [Lavanga](/herb/lavanga/) (clove) for oral care formulations
+- With [Jatiphala](/herb/jatiphala/) (nutmeg) for digestive and anti-emetic synergy
 - As Prakshepa Dravya (flavoring agent) in many Ayurvedic formulations

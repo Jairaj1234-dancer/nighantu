@@ -23,13 +23,13 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Shankha-Bhasma/meta-
 
 | Language | Name |
 |----------|------|
-| English | [Shankha Bhasma](/nighantu/herb/shankha-bhasma/) |
+| English | [Shankha Bhasma](/herb/shankha-bhasma/) |
 
 ## Key Phytochemical Constituents
 
 - Calcium carbonate (CaCO3) as predominant constituent
 - Calcium oxide (CaO) formed during calcination
-- Trace [strontium](/nighantu/glossary/compounds-q-t/#strontium), [magnesium](/nighantu/glossary/compounds-l-o/#magnesium), sodium
+- Trace [strontium](/glossary/compounds-q-t/#strontium), [magnesium](/glossary/compounds-l-o/#magnesium), sodium
 - Marine-derived trace minerals
 - Organic matrix residues from shell protein (conchiolin)
 
@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Shankha-Bhasma/meta-
 
 ## Which traditional uses are supported by research?
 
-- Hyperacidity and GERD (Amlapitta): Clinical study confirmed significant GERD symptom resolution (p < 0.005) with lemon-purified [Shankha Bhasma](/nighantu/herb/shankha-bhasma/)
+- Hyperacidity and GERD (Amlapitta): Clinical study confirmed significant GERD symptom resolution (p < 0.005) with lemon-purified [Shankha Bhasma](/herb/shankha-bhasma/)
 - Digestive disorders (Agnimandya, Ajirna): High acid neutralization capacity validated traditional use as digestive aid and antacid
 - Calcium deficiency: Marine-derived bioavailable calcium content supports traditional use for bone health and Asthi Dhatu nourishment
 

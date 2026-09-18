@@ -23,17 +23,17 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Dhanwantara
 
 | Language | Name |
 |----------|------|
-| English | [Dhanwantaram Thailam](/nighantu/formulation/dhanwantaram-thailam/) |
+| English | [Dhanwantaram Thailam](/formulation/dhanwantaram-thailam/) |
 
 ## Where is it described in the classical texts?
 
-Ashtanga Hridayam (Sutrasthana); also referenced in Sahasrayogam (Taila Prakarana). Contains 28+ herbs processed in [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) with milk.
+Ashtanga Hridayam (Sutrasthana); also referenced in Sahasrayogam (Taila Prakarana). Contains 28+ herbs processed in [sesame oil](/glossary/concepts-m-y/#tila-taila) with milk.
 
 ## How does it work?
 
-- Sitosterols and [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) from [Dashamoola](/nighantu/herb/dashamoola/) provide [analgesic](/nighantu/reference/analgesic/) effects by inhibiting prostaglandin synthesis and COX-2 pathways
-- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) base (snighda, ushna properties) acts as a lipophilic vehicle carrying active herb constituents deep into srotas (tissue channels) via transdermal absorption
-- [Withanolides](/nighantu/glossary/compounds-t-z/#withanolides) from [Ashwagandha](/nighantu/herb/ashwagandha/) modulate GABA-ergic neurotransmission and reduce cortisol, supporting nervine tonic and Vata-pacifying action
+- Sitosterols and [alkaloids](/glossary/compounds-1-a/#alkaloids) from [Dashamoola](/herb/dashamoola/) provide [analgesic](/reference/analgesic/) effects by inhibiting prostaglandin synthesis and COX-2 pathways
+- [Sesame oil](/glossary/concepts-m-y/#tila-taila) base (snighda, ushna properties) acts as a lipophilic vehicle carrying active herb constituents deep into srotas (tissue channels) via transdermal absorption
+- [Withanolides](/glossary/compounds-t-z/#withanolides) from [Ashwagandha](/herb/ashwagandha/) modulate GABA-ergic neurotransmission and reduce cortisol, supporting nervine tonic and Vata-pacifying action
 - Oleic acid and linoleic acid in the formulation enhance skin barrier function and serve as penetration enhancers for phytoconstituents
 
 ## Which traditional uses are supported by research?
@@ -69,7 +69,7 @@ Ashtanga Hridayam (Sutrasthana); also referenced in Sahasrayogam (Taila Prakaran
 
 **Standard Dosage:** External: sufficient quantity for Abhyanga. Internal: 5-10 mL with warm milk, as per Sahasrayogam/AFI
 
-**Bioavailability:** Oil base provides excellent transdermal delivery during Abhyanga. Multi-avartana processing concentrates herb actives in oil matrix — 101-avartana is significantly more potent than single-avartana. Milk processing adds [phospholipids](/nighantu/glossary/compounds-o-q/#phospholipids) enhancing skin penetration. For internal use, [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) MCTs aid absorption.
+**Bioavailability:** Oil base provides excellent transdermal delivery during Abhyanga. Multi-avartana processing concentrates herb actives in oil matrix — 101-avartana is significantly more potent than single-avartana. Milk processing adds [phospholipids](/glossary/compounds-o-q/#phospholipids) enhancing skin penetration. For internal use, [sesame oil](/glossary/concepts-m-y/#tila-taila) MCTs aid absorption.
 
 **Optimal Timing:** External: morning before bath or as part of Panchakarma therapy. Internal: before meals or at bedtime.
 
@@ -77,15 +77,15 @@ Ashtanga Hridayam (Sutrasthana); also referenced in Sahasrayogam (Taila Prakaran
 
 **Storage:** Store in amber glass or HDPE bottles in a cool, dry place. Temperature not exceeding 25°C. Protect from light.
 
-**Marker Compounds:** [Sesamin](/nighantu/glossary/compounds-q-t/#sesamin), [Sesamolin](/nighantu/glossary/compounds-q-t/#sesamolin), [Ephedrine](/nighantu/glossary/compounds-d-g/#ephedrine), Withanolide A, [Lupeol](/nighantu/reference/lupeol/), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+**Marker Compounds:** [Sesamin](/glossary/compounds-q-t/#sesamin), [Sesamolin](/glossary/compounds-q-t/#sesamolin), [Ephedrine](/glossary/compounds-d-g/#ephedrine), Withanolide A, [Lupeol](/reference/lupeol/), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 
-**Quality Parameters:** Acid value (<5), peroxide value (<10), saponification value, [iodine](/nighantu/glossary/compounds-g-l/#iodine) value, refractive index, specific gravity, viscosity, rancidity test negative, HPTLC fingerprint, ephedrine/withanolide markers, microbial limits, heavy metals
+**Quality Parameters:** Acid value (<5), peroxide value (<10), saponification value, [iodine](/glossary/compounds-g-l/#iodine) value, refractive index, specific gravity, viscosity, rancidity test negative, HPTLC fingerprint, ephedrine/withanolide markers, microbial limits, heavy metals
 
 **Vehicle (Anupana):** For internal use: warm milk. External: warm oil applied during Abhyanga.
 
 ### Synergistic Combinations
 
-- [Dhanwantaram Kashayam](/nighantu/formulation/dhanwantaram-kashayam/) (internal)
-- [Kshirabala Thailam](/nighantu/formulation/kshirabala-thailam/)
-- [Balarishta](/nighantu/formulation/balarishta/)
-- [Dashamularishta](/nighantu/formulation/dashamularishta/)
+- [Dhanwantaram Kashayam](/formulation/dhanwantaram-kashayam/) (internal)
+- [Kshirabala Thailam](/formulation/kshirabala-thailam/)
+- [Balarishta](/formulation/balarishta/)
+- [Dashamularishta](/formulation/dashamularishta/)

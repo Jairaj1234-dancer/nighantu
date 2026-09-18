@@ -28,21 +28,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Lodhra/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Loturine](/nighantu/glossary/compounds-l-o/#loturine) (alkaloid, same as harman)
+- [Loturine](/glossary/compounds-l-o/#loturine) (alkaloid, same as harman)
 - Loturidine (alkaloid)
 - Colloturine (alkaloid)
 - Symplocoside (flavanol glucoside)
 - Ellagic acid
-- [Betulin](/nighantu/glossary/compounds-a-c/#betulin) (triterpenoid)
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- [Betulin](/glossary/compounds-a-c/#betulin) (triterpenoid)
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 - 19-alpha-hydroxyasiatic acid glucoside
 
 ## How does it work?
 
-- Astringent action: [Tannins](/nighantu/reference/tannins/) precipitate [proteins](/nighantu/glossary/compounds-o-q/#proteins) in mucosal lining and skin, tightening tissues and reducing exudation and bleeding.
+- Astringent action: [Tannins](/reference/tannins/) precipitate [proteins](/glossary/compounds-o-q/#proteins) in mucosal lining and skin, tightening tissues and reducing exudation and bleeding.
 - COX-2 inhibition: Lodhra tannins confirmed to inhibit cyclooxygenase-2, reducing prostaglandin-mediated inflammation.
-- Capillary permeability reduction: [Flavonoids](/nighantu/reference/flavonoids/) and tannins synergistically slow capillary permeability, explaining [hemostatic](/nighantu/glossary/pharmacology/#hemostatic) (bleeding-stopping) action.
-- [Antioxidant](/nighantu/reference/antioxidant/): Flavonoids scavenge free radicals, protecting tissues from oxidative damage.
+- Capillary permeability reduction: [Flavonoids](/reference/flavonoids/) and tannins synergistically slow capillary permeability, explaining [hemostatic](/glossary/pharmacology/#hemostatic) (bleeding-stopping) action.
+- [Antioxidant](/reference/antioxidant/): Flavonoids scavenge free radicals, protecting tissues from oxidative damage.
 - Estrogenic modulation: Bark extracts show phytoestrogenic activity, potentially explaining menstrual regulation effects.
 
 ## Which traditional uses are supported by research?
@@ -71,11 +71,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Lodhra/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g bark powder per day in divided doses; 50-100 mL decoction twice daily; 250-500 mg standardized extract twice daily
 
-**Bioavailability:** Moderate oral bioavailability of flavonoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides). Loturine and other alkaloids show reasonable GI absorption. High tannin content (15-20%) may self-limit absorption by precipitating proteins. [Proanthocyanidins](/nighantu/glossary/compounds-o-q/#proanthocyanidins) undergo colonic metabolism to bioavailable phenolic acids.
+**Bioavailability:** Moderate oral bioavailability of flavonoid [glycosides](/glossary/compounds-g-l/#glycosides). Loturine and other alkaloids show reasonable GI absorption. High tannin content (15-20%) may self-limit absorption by precipitating proteins. [Proanthocyanidins](/glossary/compounds-o-q/#proanthocyanidins) undergo colonic metabolism to bioavailable phenolic acids.
 
 **Optimal Timing:** Between meals for gynecological indications; after meals for diarrhea management; topical application morning and evening
 
-**Standardized Extract:** Standardized bark extract (10:1) with minimum 5% loturine alkaloids. Tannin-rich extract (minimum 15% tannins as [catechin](/nighantu/reference/catechin/) equivalents) for topical astringent products. Lodhrasava (fermented preparation) with 5-8% self-generated alcohol.
+**Standardized Extract:** Standardized bark extract (10:1) with minimum 5% loturine alkaloids. Tannin-rich extract (minimum 15% tannins as [catechin](/reference/catechin/) equivalents) for topical astringent products. Lodhrasava (fermented preparation) with 5-8% self-generated alcohol.
 
 **Shelf Life:** 30 months for bark powder; 36 months for tablets/capsules; 24 months for Asava/Arishta (improves with aging); 18 months for topical creams
 
@@ -93,8 +93,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Lodhra/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Ashoka](/nighantu/herb/ashoka/) (menorrhagia and uterine tonic synergy)
+- [Ashoka](/herb/ashoka/) (menorrhagia and uterine tonic synergy)
 - Nagkesara (hemostatic combination)
-- [Dhataki](/nighantu/herb/dhataki/) (Asava fermentation and uterine tonic)
-- [Manjishtha](/nighantu/herb/manjishtha/) (skin complexion and blood purification)
-- [Ushira](/nighantu/herb/ushira/) (cooling and hemostatic synergy)
+- [Dhataki](/herb/dhataki/) (Asava fermentation and uterine tonic)
+- [Manjishtha](/herb/manjishtha/) (skin complexion and blood purification)
+- [Ushira](/herb/ushira/) (cooling and hemostatic synergy)

@@ -29,32 +29,32 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Himsra/meta-analysis.md"
 ## Key Phytochemical Constituents
 
 - Glucocapparin (major aliphatic glucosinolate)
-- [Rutin](/nighantu/glossary/compounds-q-t/#rutin) and [quercetin](/nighantu/reference/quercetinquercetin/) ([flavonoids](/nighantu/reference/flavonoids/))
-- Spermidine [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) (in roots)
+- [Rutin](/glossary/compounds-q-t/#rutin) and [quercetin](/reference/quercetinquercetin/) ([flavonoids](/reference/flavonoids/))
+- Spermidine [alkaloids](/glossary/compounds-1-a/#alkaloids) (in roots)
 - Indole-3-acetonitrile (indole alkaloid)
-- [Stachydrine](/nighantu/glossary/compounds-q-t/#stachydrine) (proline [betaine](/nighantu/glossary/compounds-a-c/#betaine))
-- [Tocopherols](/nighantu/glossary/compounds-t-z/#tocopherols) and [carotenoids](/nighantu/glossary/compounds-a-c/#carotenoids)
+- [Stachydrine](/glossary/compounds-q-t/#stachydrine) (proline [betaine](/glossary/compounds-a-c/#betaine))
+- [Tocopherols](/glossary/compounds-t-z/#tocopherols) and [carotenoids](/glossary/compounds-a-c/#carotenoids)
 
 ## How does it work?
 
-- [Hepatoprotective](/nighantu/reference/hepatoprotective/) activity via rutin and [quercetin](/nighantu/reference/quercetinquercetin/)-mediated [antioxidant](/nighantu/reference/antioxidant/) protection and anti-inflammatory action - key ingredient in Liv.52 formulation
-- [Antidiabetic](/nighantu/reference/antidiabetic/) effect through reduction of fasting blood [glucose](/nighantu/glossary/compounds-d-g/#glucose), HbA1c, and triglycerides (clinically validated at 400 mg TID for 2 months)
+- [Hepatoprotective](/reference/hepatoprotective/) activity via rutin and [quercetin](/reference/quercetinquercetin/)-mediated [antioxidant](/reference/antioxidant/) protection and anti-inflammatory action - key ingredient in Liv.52 formulation
+- [Antidiabetic](/reference/antidiabetic/) effect through reduction of fasting blood [glucose](/glossary/compounds-d-g/#glucose), HbA1c, and triglycerides (clinically validated at 400 mg TID for 2 months)
 - Anti-inflammatory mechanism via glucosinolate-derived isothiocyanate modulation of NF-kB and MAPK pathways
-- [Neuroprotective](/nighantu/reference/neuroprotective/) activity through antioxidant and anti-inflammatory protection of neuronal cells
+- [Neuroprotective](/reference/neuroprotective/) activity through antioxidant and anti-inflammatory protection of neuronal cells
 
 ## Which traditional uses are supported by research?
 
 - Hepatoprotective (Yakrit-hara) - strongly validated as key ingredient in Liv.52; clinical studies confirm protection against drug-induced and alcoholic liver damage
 - Antidiabetic (Prameha-hara) - validated through clinical trial showing significant blood glucose and HbA1c reduction
-- Anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) (Vedana-sthapana) - confirmed through multiple preclinical anti-inflammatory models
+- Anti-inflammatory and [analgesic](/reference/analgesic/) (Vedana-sthapana) - confirmed through multiple preclinical anti-inflammatory models
 - Digestive stimulant (Rochana) - traditional appetizer use validated through clinical observations of improved appetite
 
 ## What do recent clinical trials show?
 
 - Alsharif B, Boylan F 2025. [Capparis L. (Capparaceae): A Scoping Review of Phytochemistry, Ethnopharmacology and Pharmacological Activities](https://pubmed.ncbi.nlm.nih.gov/41011598/). *Molecules (Basel, Switzerland)*. PMID [41011598](https://pubmed.ncbi.nlm.nih.gov/41011598/) · [doi:10.3390/molecules30183705](https://doi.org/10.3390/molecules30183705)  
-  Scoping review covering the entire genus documenting the diversity of bioactive compounds and their validated pharmacological activities including antidiabetic and [anticancer](/nighantu/reference/anticancer/) potential.
+  Scoping review covering the entire genus documenting the diversity of bioactive compounds and their validated pharmacological activities including antidiabetic and [anticancer](/reference/anticancer/) potential.
 - Yousefi E, Abedi M, Aghajanzadeh TA and others 2025. [Caper bush (Capparis spinosa L.) bioactive compounds and antioxidant capacity as affected by adaptation to harsh soils](https://pubmed.ncbi.nlm.nih.gov/40195406/). *Scientific reports*. PMID [40195406](https://pubmed.ncbi.nlm.nih.gov/40195406/) · [doi:10.1038/s41598-025-97298-4](https://doi.org/10.1038/s41598-025-97298-4)  
-  Demonstrated that caper plants adapted to harsh soil conditions maintain high levels of bioactive compounds including [glucosinolates](/nighantu/glossary/compounds-d-g/#glucosinolates), phenolics, and flavonoids with strong antioxidant capacity.
+  Demonstrated that caper plants adapted to harsh soil conditions maintain high levels of bioactive compounds including [glucosinolates](/glossary/compounds-d-g/#glucosinolates), phenolics, and flavonoids with strong antioxidant capacity.
 
 *1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
@@ -84,7 +84,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Himsra/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 250-500mg extract twice daily; 15-30ml decoction
 
-**Bioavailability:** Capparis spinosa (caper bush) contains flavonoids (rutin, [quercetin](/nighantu/reference/quercetinquercetin/)) and alkaloids (stachydrine) with moderate oral bioavailability. Rutin bioavailability is enhanced when deglycosylated to quercetin by gut microbiota. Stachydrine shows good water solubility and absorption. Lipid-based formulations may enhance flavonoid absorption.
+**Bioavailability:** Capparis spinosa (caper bush) contains flavonoids (rutin, [quercetin](/reference/quercetinquercetin/)) and alkaloids (stachydrine) with moderate oral bioavailability. Rutin bioavailability is enhanced when deglycosylated to quercetin by gut microbiota. Stachydrine shows good water solubility and absorption. Lipid-based formulations may enhance flavonoid absorption.
 
 **Optimal Timing:** Before meals with water for hepatoprotective action; twice daily for chronic liver support
 
@@ -94,7 +94,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Himsra/meta-analysis.md"
 
 **Storage:** Cool, dry place below 25°C, protected from light. Flavonoids degrade in light; amber containers recommended.
 
-**Marker Compounds:** Rutin, Quercetin, Stachydrine, p-Methoxy benzoic acid, [Kaempferol](/nighantu/reference/kaempferol/), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+**Marker Compounds:** Rutin, Quercetin, Stachydrine, p-Methoxy benzoic acid, [Kaempferol](/reference/kaempferol/), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 
 ### Extraction Methods
 
@@ -105,7 +105,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Himsra/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Kasani](/nighantu/herb/kasani/) (Cichorium) for hepatoprotective synergy (as in Liv.52)
+- With [Kasani](/herb/kasani/) (Cichorium) for hepatoprotective synergy (as in Liv.52)
 - With Bhringaraj for liver regeneration
-- With [Katuki](/nighantu/herb/katuki/) (Picrorhiza) for cholagogue activity
-- With [Kalmegh](/nighantu/herb/kalmegh/) for hepatic protection
+- With [Katuki](/herb/katuki/) (Picrorhiza) for cholagogue activity
+- With [Kalmegh](/herb/kalmegh/) for hepatic protection
