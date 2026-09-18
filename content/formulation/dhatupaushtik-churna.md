@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Dhatupaushtik-Chu
 
 | Language | Name |
 |----------|------|
-| English | [Dhatupaushtik Churna](/nighantu/formulation/dhatupaushtik-churna/) |
+| English | [Dhatupaushtik Churna](/formulation/dhatupaushtik-churna/) |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -49,23 +49,23 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Dhatupaushtik-Chu
 
 **Standard Dosage:** 3-6 g twice daily with warm milk, as per classical texts/AFI
 
-**Bioavailability:** Administration with warm milk (lipid + protein vehicle) enhances absorption of steroidal [saponins](/nighantu/reference/saponins/) and [withanolides](/nighantu/glossary/compounds-t-z/#withanolides). Fine particle size ensures rapid dissolution. Multiple [adaptogenic](/nighantu/reference/adaptogenic/) herbs provide synergistic bioactivity.
+**Bioavailability:** Administration with warm milk (lipid + protein vehicle) enhances absorption of steroidal [saponins](/reference/saponins/) and [withanolides](/glossary/compounds-t-z/#withanolides). Fine particle size ensures rapid dissolution. Multiple [adaptogenic](/reference/adaptogenic/) herbs provide synergistic bioactivity.
 
-**Optimal Timing:** Before bedtime with warm milk, or morning on empty stomach for [Rasayana](/nighantu/reference/rasayana/) effect
+**Optimal Timing:** Before bedtime with warm milk, or morning on empty stomach for [Rasayana](/reference/rasayana/) effect
 
 **Shelf Life:** 2 years from date of manufacture as per ASU guidelines for Churna
 
 **Storage:** Store in airtight containers in a cool, dry place. Temperature not exceeding 30°C. Protect from moisture.
 
-**Marker Compounds:** Withanolide A, Withaferin A, Shatavarin IV, L-DOPA (from Mucuna, within safe limits), Saponins (from Musali), [Protodioscin](/nighantu/glossary/compounds-o-q/#protodioscin) (from [Gokshura](/nighantu/herb/gokshura/))
+**Marker Compounds:** Withanolide A, Withaferin A, Shatavarin IV, L-DOPA (from Mucuna, within safe limits), Saponins (from Musali), [Protodioscin](/glossary/compounds-o-q/#protodioscin) (from [Gokshura](/herb/gokshura/))
 
-**Quality Parameters:** Loss on drying (<8%), total ash, acid-insoluble ash, particle size (pass sieve #85), withanolides from [Ashwagandha](/nighantu/herb/ashwagandha/) by HPLC, saponin content from Musali, total [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids), HPTLC fingerprint, microbial limits, heavy metals, aflatoxins
+**Quality Parameters:** Loss on drying (<8%), total ash, acid-insoluble ash, particle size (pass sieve #85), withanolides from [Ashwagandha](/herb/ashwagandha/) by HPLC, saponin content from Musali, total [alkaloids](/glossary/compounds-1-a/#alkaloids), HPTLC fingerprint, microbial limits, heavy metals, aflatoxins
 
 **Vehicle (Anupana):** Warm milk with ghee and sugar/honey
 
 ### Synergistic Combinations
 
-- [Ashwagandharishta](/nighantu/formulation/ashwagandharishta/)
+- [Ashwagandharishta](/formulation/ashwagandharishta/)
 - Musali Pak
 - Shilajatu
-- [Chyawanprash](/nighantu/formulation/chyawanprash/)
+- [Chyawanprash](/formulation/chyawanprash/)

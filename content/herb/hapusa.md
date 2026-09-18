@@ -36,11 +36,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Hapusa/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), [Arka](/nighantu/herb/arka/) (distillate), Taila (oil), Capsule, Tablet
+**Dosage Forms:** Churna (powder), [Arka](/herb/arka/) (distillate), Taila (oil), Capsule, Tablet
 
 **Standard Dosage:** 1-3g powder twice daily; 15-30ml Arka; 5-10 drops essential oil externally
 
-**Bioavailability:** Juniper berry (Juniperus communis) volatile oils are rapidly absorbed via GI tract. Essential oil components (alpha-pinene, [sabinene](/nighantu/glossary/compounds-q-t/#sabinene)) show good lipophilic absorption. Co-formulation with lipid-based carriers or self-emulsifying systems can enhance terpenoid bioavailability.
+**Bioavailability:** Juniper berry (Juniperus communis) volatile oils are rapidly absorbed via GI tract. Essential oil components (alpha-pinene, [sabinene](/glossary/compounds-q-t/#sabinene)) show good lipophilic absorption. Co-formulation with lipid-based carriers or self-emulsifying systems can enhance terpenoid bioavailability.
 
 **Optimal Timing:** After meals with warm water for digestive support; external oil application as needed
 
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Hapusa/meta-analysis.md"
 
 **Storage:** Cool, dry place away from light. Essential oil in amber glass bottles, tightly sealed, below 25°C
 
-**Marker Compounds:** Alpha-pinene, Sabinene, Beta-[myrcene](/nighantu/glossary/compounds-l-o/#myrcene), [Limonene](/nighantu/glossary/compounds-g-l/#limonene), Terpinen-4-ol
+**Marker Compounds:** Alpha-pinene, Sabinene, Beta-[myrcene](/glossary/compounds-l-o/#myrcene), [Limonene](/glossary/compounds-g-l/#limonene), Terpinen-4-ol
 
 ### Extraction Methods
 
@@ -61,6 +61,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Hapusa/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Gokshura](/nighantu/herb/gokshura/) for urinary tract support
-- With [Punarnava](/nighantu/herb/punarnava/) for [diuretic](/nighantu/reference/diuretic/) synergy
-- With [Eranda](/nighantu/herb/eranda/) (castor) oil for joint pain relief (external application)
+- With [Gokshura](/herb/gokshura/) for urinary tract support
+- With [Punarnava](/herb/punarnava/) for [diuretic](/reference/diuretic/) synergy
+- With [Eranda](/herb/eranda/) (castor) oil for joint pain relief (external application)

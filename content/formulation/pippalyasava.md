@@ -31,9 +31,9 @@ Classical Ayurvedic texts under Sandhana Kalpana (fermented preparations). Refer
 
 ## How does it work?
 
-- Bioavailability enhancement by [piperine](/nighantu/reference/piperine/) increases absorption of co-administered therapeutics by 30-200%
-- Agni (digestive fire) stimulation through [Trikatu](/nighantu/herb/trikatu/) and Chitraka improves digestive and absorptive capacity
-- Bronchodilatory and [expectorant](/nighantu/reference/expectorant/) action from [Pippali](/nighantu/herb/pippali/) addresses respiratory conditions including cough and asthma
+- Bioavailability enhancement by [piperine](/reference/piperine/) increases absorption of co-administered therapeutics by 30-200%
+- Agni (digestive fire) stimulation through [Trikatu](/herb/trikatu/) and Chitraka improves digestive and absorptive capacity
+- Bronchodilatory and [expectorant](/reference/expectorant/) action from [Pippali](/herb/pippali/) addresses respiratory conditions including cough and asthma
 - Tridosha balancing through the multi-herb fermented formulation addresses broad-spectrum digestive and respiratory disorders
 
 ## Which traditional uses are supported by research?
@@ -77,7 +77,7 @@ Classical Ayurvedic texts under Sandhana Kalpana (fermented preparations). Refer
 
 **Storage:** Room temperature, tightly sealed, away from direct sunlight. Do not refrigerate.
 
-**Marker Compounds:** Piperine, [Piperlongumine](/nighantu/glossary/compounds-o-q/#piperlongumine)
+**Marker Compounds:** Piperine, [Piperlongumine](/glossary/compounds-o-q/#piperlongumine)
 
 **Quality Parameters:** Alcohol content 5-12% v/v, pH 3.0-4.5, specific gravity 1.01-1.08, total solids 15-25%, marker: Piperine, Piperlongumine
 
@@ -85,4 +85,4 @@ Classical Ayurvedic texts under Sandhana Kalpana (fermented preparations). Refer
 
 ### Synergistic Combinations
 
-- Key herbs: [Pippali](/nighantu/herb/pippali/), [Chavya](/nighantu/herb/chavya/), Chitraka, [Dhataki](/nighantu/herb/dhataki/); fermentation creates unique metabolite profile with enhanced therapeutic activity
+- Key herbs: [Pippali](/herb/pippali/), [Chavya](/herb/chavya/), Chitraka, [Dhataki](/herb/dhataki/); fermentation creates unique metabolite profile with enhanced therapeutic activity

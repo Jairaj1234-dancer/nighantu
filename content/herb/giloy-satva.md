@@ -23,32 +23,32 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Giloy-Satva/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | [Giloy](/nighantu/herb/guduchi/) Satva |
+| English | [Giloy](/herb/guduchi/) Satva |
 | Latin/Botanical | *Tinospora cordifolia (Willd.) Miers (aqueous starch extract)* |
 
 ## Key Phytochemical Constituents
 
-- [Berberine](/nighantu/glossary/compounds-a-c/#berberine) (isoquinoline alkaloid)
-- [Palmatine](/nighantu/glossary/compounds-o-q/#palmatine) and [jatrorrhizine](/nighantu/glossary/compounds-g-l/#jatrorrhizine) ([alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids))
-- [Tinosporaside](/nighantu/glossary/compounds-t-z/#tinosporaside) (diterpenoid glycoside)
-- Cordifolisides A-E (diterpenoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides))
-- [Arabinogalactan](/nighantu/glossary/compounds-1-a/#arabinogalactan) polysaccharide (immunoactive)
+- [Berberine](/glossary/compounds-a-c/#berberine) (isoquinoline alkaloid)
+- [Palmatine](/glossary/compounds-o-q/#palmatine) and [jatrorrhizine](/glossary/compounds-g-l/#jatrorrhizine) ([alkaloids](/glossary/compounds-1-a/#alkaloids))
+- [Tinosporaside](/glossary/compounds-t-z/#tinosporaside) (diterpenoid glycoside)
+- Cordifolisides A-E (diterpenoid [glycosides](/glossary/compounds-g-l/#glycosides))
+- [Arabinogalactan](/glossary/compounds-1-a/#arabinogalactan) polysaccharide (immunoactive)
 - Giloin and giloinin (diterpenoid lactones)
 - Sinapic acid (phenolic)
-- [Columbin](/nighantu/glossary/compounds-c-d/#columbin) (bitter principle)
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- [Columbin](/glossary/compounds-c-d/#columbin) (bitter principle)
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 - Tinosporone (clerodane diterpene)
 
 ## How does it work?
 
-- [Immunomodulatory](/nighantu/reference/immunomodulatory/) mechanism through arabinogalactan polysaccharide-mediated polyclonal B-cell activation and enhancement of macrophage phagocytic activity, with NF-kB pathway modulation
-- [Hepatoprotective](/nighantu/reference/hepatoprotective/) mechanism through [berberine](/nighantu/glossary/compounds-a-c/#berberine) and sinapic acid inhibition of TNF-alpha-mediated pro-inflammatory pathways and enhancement of hepatocyte regeneration
-- [Antidiabetic](/nighantu/reference/antidiabetic/) mechanism involving isoquinoline alkaloid-mediated improvement of insulin sensitivity and reduction of hepatic [glucose](/nighantu/glossary/compounds-d-g/#glucose) output, with [antioxidant](/nighantu/reference/antioxidant/) protection of pancreatic beta cells
+- [Immunomodulatory](/reference/immunomodulatory/) mechanism through arabinogalactan polysaccharide-mediated polyclonal B-cell activation and enhancement of macrophage phagocytic activity, with NF-kB pathway modulation
+- [Hepatoprotective](/reference/hepatoprotective/) mechanism through [berberine](/glossary/compounds-a-c/#berberine) and sinapic acid inhibition of TNF-alpha-mediated pro-inflammatory pathways and enhancement of hepatocyte regeneration
+- [Antidiabetic](/reference/antidiabetic/) mechanism involving isoquinoline alkaloid-mediated improvement of insulin sensitivity and reduction of hepatic [glucose](/glossary/compounds-d-g/#glucose) output, with [antioxidant](/reference/antioxidant/) protection of pancreatic beta cells
 
 ## Which traditional uses are supported by research?
 
-- Immunomodulatory ([Rasayana](/nighantu/reference/rasayana/)) properties extensively validated through multiple preclinical and clinical studies, confirming premier use as Amrita (divine nectar) for immunity enhancement
-- [Antipyretic](/nighantu/reference/antipyretic/) activity validated through clinical studies in various febrile conditions, confirming traditional use in Jwara (fever) management including Vishama Jwara (intermittent/malarial fever)
+- Immunomodulatory ([Rasayana](/reference/rasayana/)) properties extensively validated through multiple preclinical and clinical studies, confirming premier use as Amrita (divine nectar) for immunity enhancement
+- [Antipyretic](/reference/antipyretic/) activity validated through clinical studies in various febrile conditions, confirming traditional use in Jwara (fever) management including Vishama Jwara (intermittent/malarial fever)
 - Antidiabetic activity validated through clinical trials showing improvement in glycemic parameters, confirming traditional use in Prameha (diabetes)
 
 ## What do recent clinical trials show?
@@ -56,14 +56,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Giloy-Satva/meta-analysis.md"
 - Singh J, Saxena E, Chaudhary AR and others 2025. [Immunomodulatory properties of Giloy (Tinospora cordifolia) leaves and its applications in value-added products](https://pubmed.ncbi.nlm.nih.gov/39758376/). *Heliyon*. PMID [39758376](https://pubmed.ncbi.nlm.nih.gov/39758376/) · [doi:10.1016/j.heliyon.2024.e40948](https://doi.org/10.1016/j.heliyon.2024.e40948)  
   Demonstrated immunomodulatory properties through NF-kB pathway modulation and interleukin regulation, with applications in functional food product development.
 - Gupta A, Gupta P, Bajpai G 2024. [Tinospora cordifolia (Giloy): An insight on the multifarious pharmacological paradigms of a most promising medicinal ayurvedic herb](https://pubmed.ncbi.nlm.nih.gov/38390130/). *Heliyon*. PMID [38390130](https://pubmed.ncbi.nlm.nih.gov/38390130/) · [doi:10.1016/j.heliyon.2024.e26125](https://doi.org/10.1016/j.heliyon.2024.e26125)  
-  Comprehensive review documenting significant immunomodulatory, antioxidant, anti-inflammatory, antidiabetic, hepatoprotective, antibacterial, [anticancer](/nighantu/reference/anticancer/), and [neuroprotective](/nighantu/reference/neuroprotective/) properties of the plant.
+  Comprehensive review documenting significant immunomodulatory, antioxidant, anti-inflammatory, antidiabetic, hepatoprotective, antibacterial, [anticancer](/reference/anticancer/), and [neuroprotective](/reference/neuroprotective/) properties of the plant.
 
 *1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
 - Generally considered safe at doses up to 2000 mg/kg in acute toxicity studies; 28-day repeated dose study (OECD-407 compliant under GLP) confirmed safety up to 1000 mg/kg/day with no mortality or toxicological manifestation
-- IMPORTANT: Post-COVID reports of [Giloy](/nighantu/herb/guduchi/)-associated hepatotoxicity emerged; however, evidence suggests the hepatotoxic species may be Tinospora crispa (not T. cordifolia) or contaminated/adulterated products; autoimmune hepatitis unmasking is a proposed mechanism in susceptible individuals; caution advised in patients with pre-existing liver conditions
+- IMPORTANT: Post-COVID reports of [Giloy](/herb/guduchi/)-associated hepatotoxicity emerged; however, evidence suggests the hepatotoxic species may be Tinospora crispa (not T. cordifolia) or contaminated/adulterated products; autoimmune hepatitis unmasking is a proposed mechanism in susceptible individuals; caution advised in patients with pre-existing liver conditions
 
 ## Dosage forms and preparation
 
@@ -71,17 +71,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Giloy-Satva/meta-analysis.md"
 
 **Standard Dosage:** 500mg-1g Satva with honey or warm water, twice daily; 500mg Satva tablet/capsule twice daily
 
-**Bioavailability:** [Giloy](/nighantu/herb/guduchi/) Satva is the aqueous starch extract of Tinospora cordifolia stem, primarily consisting of arabinogalactan and related polysaccharides with co-extracted diterpenoid lactones and alkaloids (trace). The polysaccharide fraction acts primarily through gut-associated lymphoid tissue (GALT) as an immunomodulator - systemic absorption of intact polysaccharides is minimal, but oligosaccharide fragments and co-extracted small molecules (columbin, [berberine](/nighantu/glossary/compounds-a-c/#berberine)) are absorbed. The starch matrix provides a natural slow-release system. Honey as traditional vehicle (Anupana) may enhance mucosal absorption and provide synergistic [antimicrobial](/nighantu/reference/antimicrobial/) activity. Pure Satva has different bioavailability profile than whole [Giloy](/nighantu/herb/guduchi/) preparations.
+**Bioavailability:** [Giloy](/herb/guduchi/) Satva is the aqueous starch extract of Tinospora cordifolia stem, primarily consisting of arabinogalactan and related polysaccharides with co-extracted diterpenoid lactones and alkaloids (trace). The polysaccharide fraction acts primarily through gut-associated lymphoid tissue (GALT) as an immunomodulator - systemic absorption of intact polysaccharides is minimal, but oligosaccharide fragments and co-extracted small molecules (columbin, [berberine](/glossary/compounds-a-c/#berberine)) are absorbed. The starch matrix provides a natural slow-release system. Honey as traditional vehicle (Anupana) may enhance mucosal absorption and provide synergistic [antimicrobial](/reference/antimicrobial/) activity. Pure Satva has different bioavailability profile than whole [Giloy](/herb/guduchi/) preparations.
 
 **Optimal Timing:** On empty stomach with honey in the morning for immune support; with warm water before meals for fever and debility
 
-**Standardized Extract:** [Giloy Satva](/nighantu/herb/giloy-satva/) is itself the extract. Specifications: total polysaccharide content NLT 70% (arabinogalactan), starch content NLT 80% by [iodine](/nighantu/glossary/compounds-g-l/#iodine) test, moisture NMT 5%, ash NMT 3%, bitter principle content (columbin) NLT 0.5%. Must pass microscopy for genuine Tinospora starch grains (oval, 5-15 microns).
+**Standardized Extract:** [Giloy Satva](/herb/giloy-satva/) is itself the extract. Specifications: total polysaccharide content NLT 70% (arabinogalactan), starch content NLT 80% by [iodine](/glossary/compounds-g-l/#iodine) test, moisture NMT 5%, ash NMT 3%, bitter principle content (columbin) NLT 0.5%. Must pass microscopy for genuine Tinospora starch grains (oval, 5-15 microns).
 
 **Shelf Life:** 3 years (properly dried Satva in moisture-proof container); 2 years (tablet/capsule)
 
 **Storage:** Extremely hygroscopic - store in double-sealed, moisture-proof containers with desiccant at below 25 deg C and below 40% RH. Once container is opened, use quickly and reseal tightly. Protect from moisture ingress which causes caking and microbial growth.
 
-**Marker Compounds:** Arabinogalactan polysaccharide, Columbin (co-extracted), [Berberine](/nighantu/glossary/compounds-a-c/#berberine) (trace), Tinosporaside (trace), Starch granule morphology (authentication)
+**Marker Compounds:** Arabinogalactan polysaccharide, Columbin (co-extracted), [Berberine](/glossary/compounds-a-c/#berberine) (trace), Tinosporaside (trace), Starch granule morphology (authentication)
 
 ### Extraction Methods
 
@@ -91,7 +91,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Giloy-Satva/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With honey ([Madhu](/nighantu/herb/madhu/)) as traditional Anupana for enhanced immune effect
-- With [Pippali](/nighantu/herb/pippali/) for bioenhancement of co-extracted alkaloids
-- With [Ashwagandha](/nighantu/herb/ashwagandha/) for comprehensive immune-[adaptogenic](/nighantu/reference/adaptogenic/) formulation
+- With honey ([Madhu](/herb/madhu/)) as traditional Anupana for enhanced immune effect
+- With [Pippali](/herb/pippali/) for bioenhancement of co-extracted alkaloids
+- With [Ashwagandha](/herb/ashwagandha/) for comprehensive immune-[adaptogenic](/reference/adaptogenic/) formulation
 - With Amalaki for antioxidant synergy

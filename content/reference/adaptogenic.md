@@ -23,62 +23,62 @@ srcRel: "_Hub/Pharmacology/Adaptogenic.md"
 
 ## Ayurveda (57)
 
-- [Akshotaka](/nighantu/herb/akshotaka/) — *Juglans regia L.*
-- [Amrita Ghrita](/nighantu/formulation/amrita-ghrita/)
-- [Arjunarishta](/nighantu/formulation/arjunarishta/)
-- [Ashwagandharishta](/nighantu/formulation/ashwagandharishta/)
-- [Atibala](/nighantu/herb/atibala/)
-- [Bala](/nighantu/herb/bala/) — *Sida cordifolia*
-- [Bala Mool](/nighantu/herb/bala-mool/)
-- [Balarishta](/nighantu/formulation/balarishta/)
-- [Balaswagandhadi Thailam](/nighantu/formulation/balaswagandhadi-thailam/)
-- [Brahma Rasayana](/nighantu/formulation/brahma-rasayana/)
-- [Chhatraka](/nighantu/herb/chhatraka/) — *Agaricus campestris L.*
-- [Chyawanprash](/nighantu/formulation/chyawanprash/)
-- [Dhamasa](/nighantu/herb/dhamasa/) — *Fagonia cretica L. / Fagonia arabica L.*
-- [Dhatupaushtik Churna](/nighantu/formulation/dhatupaushtik-churna/)
-- [Eranda Moola](/nighantu/herb/eranda-moola/)
-- [Gambhari](/nighantu/herb/gambhari/) — *Gmelina arborea Roxb.*
-- [Gangeruki](/nighantu/herb/gangeruki/) — *Grewia tenax (Forssk.) Fiori*
-- [Giloy](/nighantu/herb/guduchi/) — *Tinospora cordifolia*
-- [Giloy Satva](/nighantu/herb/giloy-satva/) — *Tinospora cordifolia (Willd.) Miers (aqueous starch extract)*
-- [Gokarna](/nighantu/herb/gokarna/) — *Clitoria ternatea L. (same species as [Aparajita](/nighantu/herb/aparajita/); Gokarna is a regional Ayurvedic synonym)*
-- [Gorakhmundi](/nighantu/herb/gorakhmundi/) — *Sphaeranthus indicus L.*
-- [Guduchi](/nighantu/herb/guduchi/) — *Tinospora cordifolia*
-- [Holy Basil](/nighantu/herb/holy-basil/)
-- [Jatamansi Herb](/nighantu/glossary/concepts-a-m/#jatamansi-herb)
-- [Jivaka](/nighantu/herb/jivaka/) — *Malaxis muscifera (Lindl.) Kuntze / Malaxis acuminata D. Don*
-- [Jivanti](/nighantu/herb/jivanti/) — *Leptadenia reticulata (Retz.) Wight & Arn.*
-- [Kokilaksha](/nighantu/herb/kokilaksha/)
-- [Lakshadi Thailam](/nighantu/formulation/lakshadi-thailam/)
-- [Lata Kasturi](/nighantu/herb/lata-kasturi/)
-- [Licorice Herb](/nighantu/herb/licorice-herb/)
-- [Mahabala](/nighantu/herb/mahabala/) — *Sida rhombifolia L.*
-- [Mandukparni](/nighantu/herb/mandukparni/)
-- [Matsyakshi](/nighantu/herb/matsyakshi/)
-- [Meda](/nighantu/herb/meda/) — *Polygonatum verticillatum (L.) All. / Polygonatum cirrhifolium (Wall.) Royle*
-- [Mudgaparni](/nighantu/herb/mudgaparni/) — *Phaseolus trilobus Ait. (syn. Vigna trilobata (L.) Verdc.)*
-- [Nagabala](/nighantu/herb/nagabala/) — *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
-- [Phala Ghrita](/nighantu/formulation/phala-ghrita/)
-- [Renuka](/nighantu/herb/renuka/) — *Vitex agnus-castus L.*
-- [Rishabhaka](/nighantu/herb/rishabhaka/) — *Manilkara hexandra (Roxb.) Dubard*
-- [Sanjivani Vati](/nighantu/formulation/sanjivani-vati/)
+- [Akshotaka](/herb/akshotaka/) — *Juglans regia L.*
+- [Amrita Ghrita](/formulation/amrita-ghrita/)
+- [Arjunarishta](/formulation/arjunarishta/)
+- [Ashwagandharishta](/formulation/ashwagandharishta/)
+- [Atibala](/herb/atibala/)
+- [Bala](/herb/bala/) — *Sida cordifolia*
+- [Bala Mool](/herb/bala-mool/)
+- [Balarishta](/formulation/balarishta/)
+- [Balaswagandhadi Thailam](/formulation/balaswagandhadi-thailam/)
+- [Brahma Rasayana](/formulation/brahma-rasayana/)
+- [Chhatraka](/herb/chhatraka/) — *Agaricus campestris L.*
+- [Chyawanprash](/formulation/chyawanprash/)
+- [Dhamasa](/herb/dhamasa/) — *Fagonia cretica L. / Fagonia arabica L.*
+- [Dhatupaushtik Churna](/formulation/dhatupaushtik-churna/)
+- [Eranda Moola](/herb/eranda-moola/)
+- [Gambhari](/herb/gambhari/) — *Gmelina arborea Roxb.*
+- [Gangeruki](/herb/gangeruki/) — *Grewia tenax (Forssk.) Fiori*
+- [Giloy](/herb/guduchi/) — *Tinospora cordifolia*
+- [Giloy Satva](/herb/giloy-satva/) — *Tinospora cordifolia (Willd.) Miers (aqueous starch extract)*
+- [Gokarna](/herb/gokarna/) — *Clitoria ternatea L. (same species as [Aparajita](/herb/aparajita/); Gokarna is a regional Ayurvedic synonym)*
+- [Gorakhmundi](/herb/gorakhmundi/) — *Sphaeranthus indicus L.*
+- [Guduchi](/herb/guduchi/) — *Tinospora cordifolia*
+- [Holy Basil](/herb/holy-basil/)
+- [Jatamansi Herb](/glossary/concepts-a-m/#jatamansi-herb)
+- [Jivaka](/herb/jivaka/) — *Malaxis muscifera (Lindl.) Kuntze / Malaxis acuminata D. Don*
+- [Jivanti](/herb/jivanti/) — *Leptadenia reticulata (Retz.) Wight & Arn.*
+- [Kokilaksha](/herb/kokilaksha/)
+- [Lakshadi Thailam](/formulation/lakshadi-thailam/)
+- [Lata Kasturi](/herb/lata-kasturi/)
+- [Licorice Herb](/herb/licorice-herb/)
+- [Mahabala](/herb/mahabala/) — *Sida rhombifolia L.*
+- [Mandukparni](/herb/mandukparni/)
+- [Matsyakshi](/herb/matsyakshi/)
+- [Meda](/herb/meda/) — *Polygonatum verticillatum (L.) All. / Polygonatum cirrhifolium (Wall.) Royle*
+- [Mudgaparni](/herb/mudgaparni/) — *Phaseolus trilobus Ait. (syn. Vigna trilobata (L.) Verdc.)*
+- [Nagabala](/herb/nagabala/) — *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
+- [Phala Ghrita](/formulation/phala-ghrita/)
+- [Renuka](/herb/renuka/) — *Vitex agnus-castus L.*
+- [Rishabhaka](/herb/rishabhaka/) — *Manilkara hexandra (Roxb.) Dubard*
+- [Sanjivani Vati](/formulation/sanjivani-vati/)
 
 ## Related Body Systems
 
-- [Anti-inflammatory & Pain](/nighantu/reference/antiinflammatory-pain/)
-- [Brain & Nervous System](/nighantu/reference/brain-nervous-system/)
-- [Diabetes & Metabolism](/nighantu/reference/diabetes-metabolism/)
-- [Digestive Health](/nighantu/reference/digestive-health/)
-- [Eye Health](/nighantu/reference/eye-health/)
-- [Fever & Infection](/nighantu/reference/fever-infection/)
-- [Hair Health](/nighantu/glossary/body-systems/#hair-health)
-- [Heart & Cardiovascular](/nighantu/reference/heart-cardiovascular/)
-- [Immune System & Rasayana](/nighantu/reference/immune-system-rasayana/)
-- [Joint & Musculoskeletal](/nighantu/reference/joint-musculoskeletal/)
-- [Kidney & Urinary](/nighantu/reference/kidney-urinary/)
-- [Liver & Detoxification](/nighantu/reference/liver-detoxification/)
-- [Men's Health & Vitality](/nighantu/reference/mens-health-vitality/)
-- [Respiratory Health](/nighantu/reference/respiratory-health/)
-- [Skin & Beauty](/nighantu/reference/skin-beauty/)
-- [Women's Health](/nighantu/reference/womens-health/)
+- [Anti-inflammatory & Pain](/reference/antiinflammatory-pain/)
+- [Brain & Nervous System](/reference/brain-nervous-system/)
+- [Diabetes & Metabolism](/reference/diabetes-metabolism/)
+- [Digestive Health](/reference/digestive-health/)
+- [Eye Health](/reference/eye-health/)
+- [Fever & Infection](/reference/fever-infection/)
+- [Hair Health](/glossary/body-systems/#hair-health)
+- [Heart & Cardiovascular](/reference/heart-cardiovascular/)
+- [Immune System & Rasayana](/reference/immune-system-rasayana/)
+- [Joint & Musculoskeletal](/reference/joint-musculoskeletal/)
+- [Kidney & Urinary](/reference/kidney-urinary/)
+- [Liver & Detoxification](/reference/liver-detoxification/)
+- [Men's Health & Vitality](/reference/mens-health-vitality/)
+- [Respiratory Health](/reference/respiratory-health/)
+- [Skin & Beauty](/reference/skin-beauty/)
+- [Women's Health](/reference/womens-health/)

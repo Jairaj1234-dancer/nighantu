@@ -28,25 +28,25 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akhuparni/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Scopoletin](/nighantu/glossary/compounds-q-t/#scopoletin) ([coumarin](/nighantu/glossary/compounds-c-d/#coumarin))
-- [Quercetin](/nighantu/reference/quercetinquercetin/) and [kaempferol](/nighantu/reference/kaempferol/) ([flavonoids](/nighantu/reference/flavonoids/))
+- [Scopoletin](/glossary/compounds-q-t/#scopoletin) ([coumarin](/glossary/compounds-c-d/#coumarin))
+- [Quercetin](/reference/quercetinquercetin/) and [kaempferol](/reference/kaempferol/) ([flavonoids](/reference/flavonoids/))
 - Caffeic acid, p-coumaric acid, ferulic acid, sinapic acid esters
-- [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids)
-- [Glycosides](/nighantu/glossary/compounds-g-l/#glycosides) and [steroids](/nighantu/glossary/compounds-q-t/#steroids)
+- [Alkaloids](/glossary/compounds-1-a/#alkaloids)
+- [Glycosides](/glossary/compounds-g-l/#glycosides) and [steroids](/glossary/compounds-q-t/#steroids)
 
 ## How does it work?
 
-- [Antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive) activity via ACE (angiotensin-converting enzyme) inhibitory action of scopoletin and flavonoids
+- [Antihypertensive](/glossary/pharmacology/#antihypertensive) activity via ACE (angiotensin-converting enzyme) inhibitory action of scopoletin and flavonoids
 - Nephroprotective effect through attenuation of oxidative stress (SOD, CAT upregulation) and inflammatory markers in diabetic kidneys
 - Anticonvulsant activity through GABAergic potentiation and modulation of ion channel conductance
-- [Anticancer](/nighantu/reference/anticancer/) activity via cytotoxicity against HeLa (cervical) and MCF-7 (breast) cancer cell lines through apoptosis induction
+- [Anticancer](/reference/anticancer/) activity via cytotoxicity against HeLa (cervical) and MCF-7 (breast) cancer cell lines through apoptosis induction
 
 ## Which traditional uses are supported by research?
 
 - Epilepsy and seizure management (Apasmara) - partially validated through anticonvulsant studies; leaf powder traditionally used as snuff during seizures
-- [Diuretic](/nighantu/reference/diuretic/) and kidney remedy (Mutrala) - supported by diuretic and nephroprotective pharmacological data
-- Fever reduction (Jvarahara) - confirmed [antipyretic](/nighantu/reference/antipyretic/) activity in preclinical models
-- [Hepatoprotective](/nighantu/reference/hepatoprotective/) (Yakrit Roga) - validated through studies showing liver protection against chemical toxins
+- [Diuretic](/reference/diuretic/) and kidney remedy (Mutrala) - supported by diuretic and nephroprotective pharmacological data
+- Fever reduction (Jvarahara) - confirmed [antipyretic](/reference/antipyretic/) activity in preclinical models
+- [Hepatoprotective](/reference/hepatoprotective/) (Yakrit Roga) - validated through studies showing liver protection against chemical toxins
 
 ## What do recent clinical trials show?
 
@@ -67,7 +67,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akhuparni/meta-analysis.md"
 
 **Bioavailability:** Limited modern pharmacokinetic data. This herb (Ipomoea reniformis / Merremia emarginata) contains glycosides and flavonoids with moderate oral bioavailability. Fresh juice preparation retains more bioactive compounds. Traditional anupana with honey or warm water is recommended for improved absorption.
 
-**Optimal Timing:** Early morning on empty stomach with honey for Medhya ([nootropic](/nighantu/glossary/pharmacology/#nootropic)) action; before meals for digestive complaints
+**Optimal Timing:** Early morning on empty stomach with honey for Medhya ([nootropic](/glossary/pharmacology/#nootropic)) action; before meals for digestive complaints
 
 **Standardized Extract:** Limited standardization data. Recommend development of HPTLC fingerprint as primary identity/quality tool. Aqueous extract yield 10-16%.
 
@@ -75,7 +75,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akhuparni/meta-analysis.md"
 
 **Storage:** Fresh material processed immediately. Dried material in airtight containers, cool and dry, below 25°C.
 
-**Marker Compounds:** Total flavonoids, Scopoletin (if present), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Emarginatine (species-specific)
+**Marker Compounds:** Total flavonoids, Scopoletin (if present), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Emarginatine (species-specific)
 
 ### Extraction Methods
 
@@ -86,7 +86,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akhuparni/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Brahmi](/nighantu/herb/brahmi/) for cognitive enhancement (Medhya [Rasayana](/nighantu/reference/rasayana/))
+- With [Brahmi](/herb/brahmi/) for cognitive enhancement (Medhya [Rasayana](/reference/rasayana/))
 - With Shankhapushpi for memory and intellect
-- With Mandukaparni for [neuroprotective](/nighantu/reference/neuroprotective/) action
-- With [Yashtimadhu](/nighantu/herb/yashtimadhu/) for voice and throat health
+- With Mandukaparni for [neuroprotective](/reference/neuroprotective/) action
+- With [Yashtimadhu](/herb/yashtimadhu/) for voice and throat health

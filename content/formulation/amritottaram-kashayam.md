@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Amritottaram
 
 | Language | Name |
 |----------|------|
-| English | [Amritottaram Kashayam](/nighantu/formulation/amritottaram-kashayam/) |
+| English | [Amritottaram Kashayam](/formulation/amritottaram-kashayam/) |
 
 ## Where is it described in the classical texts?
 
@@ -31,10 +31,10 @@ Sahasrayogam, Jwara Chikitsa (fever treatment section). Also referenced in Rasa 
 
 ## How does it work?
 
-- [Immunomodulatory](/nighantu/reference/immunomodulatory/) action through enhanced NK cell activity and macrophage phagocytosis ([Guduchi](/nighantu/herb/guduchi/))
-- Mild [antipyretic](/nighantu/reference/antipyretic/) action targeting root cause of fever by addressing AMA (metabolic toxins) or microbial infections
-- [Hepatoprotective](/nighantu/reference/hepatoprotective/) activity through reduction of ALT/AST [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) and hepatocyte regeneration ([Haritaki](/nighantu/herb/haritaki/), [Guduchi](/nighantu/herb/guduchi/))
-- Bioavailability enhancement by Shunthi ([ginger](/nighantu/herb/ginger/)) improves absorption of active compounds from [Guduchi](/nighantu/herb/guduchi/) and [Haritaki](/nighantu/herb/haritaki/)
+- [Immunomodulatory](/reference/immunomodulatory/) action through enhanced NK cell activity and macrophage phagocytosis ([Guduchi](/herb/guduchi/))
+- Mild [antipyretic](/reference/antipyretic/) action targeting root cause of fever by addressing AMA (metabolic toxins) or microbial infections
+- [Hepatoprotective](/reference/hepatoprotective/) activity through reduction of ALT/AST [enzymes](/glossary/compounds-d-g/#enzymes) and hepatocyte regeneration ([Haritaki](/herb/haritaki/), [Guduchi](/herb/guduchi/))
+- Bioavailability enhancement by Shunthi ([ginger](/herb/ginger/)) improves absorption of active compounds from [Guduchi](/herb/guduchi/) and [Haritaki](/herb/haritaki/)
 
 ## Which traditional uses are supported by research?
 
@@ -52,7 +52,7 @@ Sahasrayogam, Jwara Chikitsa (fever treatment section). Also referenced in Rasa 
 ## Recent safety updates
 
 - Well-tolerated with minimal side effects at recommended doses. All three ingredients have established safety profiles with immunomodulatory properties.
-- May potentiate immunosuppressant drugs; use cautiously in autoimmune conditions. [Ginger](/nighantu/herb/ginger/) component may interact with anticoagulant medications.
+- May potentiate immunosuppressant drugs; use cautiously in autoimmune conditions. [Ginger](/herb/ginger/) component may interact with anticoagulant medications.
 
 ## What is it made of?
 
@@ -77,15 +77,15 @@ Sahasrayogam, Jwara Chikitsa (fever treatment section). Also referenced in Rasa 
 
 **Storage:** Fresh kashayam: prepare and consume same day. Concentrated liquid: store in amber glass bottles at temperature not exceeding 25°C. Tablets: store in airtight containers at room temperature.
 
-**Marker Compounds:** [Berberine](/nighantu/glossary/compounds-a-c/#berberine), [Tinosporaside](/nighantu/glossary/compounds-t-z/#tinosporaside), 6-[Gingerol](/nighantu/glossary/compounds-d-g/#gingerol), 6-Shogaol
+**Marker Compounds:** [Berberine](/glossary/compounds-a-c/#berberine), [Tinosporaside](/glossary/compounds-t-z/#tinosporaside), 6-[Gingerol](/glossary/compounds-d-g/#gingerol), 6-Shogaol
 
-**Quality Parameters:** pH, specific gravity, total solids, extractive values (water-soluble, alcohol-soluble), HPTLC fingerprint for [berberine](/nighantu/glossary/compounds-a-c/#berberine) and gingerols, microbial limits, heavy metals, disintegration time (for tablets), dissolution profile
+**Quality Parameters:** pH, specific gravity, total solids, extractive values (water-soluble, alcohol-soluble), HPTLC fingerprint for [berberine](/glossary/compounds-a-c/#berberine) and gingerols, microbial limits, heavy metals, disintegration time (for tablets), dissolution profile
 
 **Vehicle (Anupana):** Warm water (for tablets); taken as is (for liquid kashayam)
 
 ### Synergistic Combinations
 
-- [Amritarishta](/nighantu/formulation/amritarishta/)
-- [Guduchi](/nighantu/herb/guduchi/) Satva
+- [Amritarishta](/formulation/amritarishta/)
+- [Guduchi](/herb/guduchi/) Satva
 - Sudarshana Churna
 - Vilvadi Gulika

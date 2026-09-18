@@ -29,29 +29,29 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Gorochana/meta-analysis.md"
 
 - Bile salts: cholate, deoxycholate, taurocholate, chenodeoxycholate
 - Bilirubin and biliverdin (responsible for color)
-- Amino acids: [taurine](/nighantu/glossary/compounds-t-z/#taurinetaurine), cysteine, leucine, isoleucine
-- Cholesterol and [phospholipids](/nighantu/glossary/compounds-o-q/#phospholipids)
+- Amino acids: [taurine](/glossary/compounds-t-z/#taurinetaurine), cysteine, leucine, isoleucine
+- Cholesterol and [phospholipids](/glossary/compounds-o-q/#phospholipids)
 - Calcium carbonate and calcium bilirubinate
-- Trace minerals: copper, iron, zinc, [manganese](/nighantu/glossary/compounds-l-o/#manganese)
+- Trace minerals: copper, iron, zinc, [manganese](/glossary/compounds-l-o/#manganese)
 - Fatty acids and carotenoid pigments
 
 ## How does it work?
 
-- Anticonvulsant/sedative: Bile acids and [taurine](/nighantu/glossary/compounds-t-z/#taurinetaurine) modulate GABA-A receptors and calcium channels in neurons, reducing neuronal excitability
-- Anti-inflammatory and [antipyretic](/nighantu/reference/antipyretic/): Bile salts inhibit NF-kB pathway and reduce prostaglandin synthesis; bilirubin acts as a potent [antioxidant](/nighantu/reference/antioxidant/)
-- [Cardioprotective](/nighantu/reference/cardioprotective/): [Taurine](/nighantu/glossary/compounds-t-z/#taurinetaurine) stabilizes cardiac membrane potential, protects against arrhythmias by modulating calcium homeostasis
-- Alexeteric (anti-poison): Bile salt chelation of toxic compounds and [hepatoprotective](/nighantu/reference/hepatoprotective/) activity enhance detoxification capacity
+- Anticonvulsant/sedative: Bile acids and [taurine](/glossary/compounds-t-z/#taurinetaurine) modulate GABA-A receptors and calcium channels in neurons, reducing neuronal excitability
+- Anti-inflammatory and [antipyretic](/reference/antipyretic/): Bile salts inhibit NF-kB pathway and reduce prostaglandin synthesis; bilirubin acts as a potent [antioxidant](/reference/antioxidant/)
+- [Cardioprotective](/reference/cardioprotective/): [Taurine](/glossary/compounds-t-z/#taurinetaurine) stabilizes cardiac membrane potential, protects against arrhythmias by modulating calcium homeostasis
+- Alexeteric (anti-poison): Bile salt chelation of toxic compounds and [hepatoprotective](/reference/hepatoprotective/) activity enhance detoxification capacity
 
 ## Which traditional uses are supported by research?
 
-- Apasmara (epilepsy/seizures): [Taurine](/nighantu/glossary/compounds-t-z/#taurinetaurine) and bile acid-mediated GABA modulation provides scientific basis for traditional anticonvulsant use in pediatric and adult seizure management
+- Apasmara (epilepsy/seizures): [Taurine](/glossary/compounds-t-z/#taurinetaurine) and bile acid-mediated GABA modulation provides scientific basis for traditional anticonvulsant use in pediatric and adult seizure management
 - Visha Chikitsa (toxicology/anti-poisoning): Bile salt chelation properties and hepatoprotective effects validate traditional use as a key ingredient in anti-poison formulations (Agada preparations)
 - Jwara and Unmada (fever and psychiatric disorders): Anti-inflammatory, antipyretic, and CNS-modulating effects of bile acids and bilirubin support classical indications
 
 ## What do recent clinical trials show?
 
 - Takahashi K, Azuma Y, Kobayashi S and others 2009. [Tool from traditional medicines is useful for health-medication: Bezoar Bovis and taurine](https://pubmed.ncbi.nlm.nih.gov/19239140/). *Advances in experimental medicine and biology*. PMID [19239140](https://pubmed.ncbi.nlm.nih.gov/19239140/) · [doi:10.1007/978-0-387-75681-3_10](https://doi.org/10.1007/978-0-387-75681-3_10)  
-  Water extract of Bezoar Bovis (BB) exhibited protection against arrhythmias produced by low and high Ca2+ environments; [taurine](/nighantu/glossary/compounds-t-z/#taurinetaurine), a major constituent, showed cardioprotective and hepatoprotective activity.
+  Water extract of Bezoar Bovis (BB) exhibited protection against arrhythmias produced by low and high Ca2+ environments; [taurine](/glossary/compounds-t-z/#taurinetaurine), a major constituent, showed cardioprotective and hepatoprotective activity.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 

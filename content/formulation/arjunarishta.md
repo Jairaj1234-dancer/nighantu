@@ -27,12 +27,12 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Arjunar
 
 ## Where is it described in the classical texts?
 
-Charaka Samhita (1st-2nd century CE) and Sushruta Samhita (3rd-4th century CE), where it is described as [Arjuna](/nighantu/herb/arjuna/) Asava for strengthening the heart and enhancing stamina. [Arjuna](/nighantu/herb/arjuna/) is praised as Hridya (cardiac tonic) in classical texts.
+Charaka Samhita (1st-2nd century CE) and Sushruta Samhita (3rd-4th century CE), where it is described as [Arjuna](/herb/arjuna/) Asava for strengthening the heart and enhancing stamina. [Arjuna](/herb/arjuna/) is praised as Hridya (cardiac tonic) in classical texts.
 
 ## How does it work?
 
-- [Cardioprotective](/nighantu/reference/cardioprotective/) action through [flavonoids](/nighantu/reference/flavonoids/), [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) ([arjunetin](/nighantu/glossary/compounds-1-a/#arjunetin), arjunolic acid), and coenzyme Q10 protecting myocardial cells
-- [Antioxidant](/nighantu/reference/antioxidant/) activity (ellagic acid, gallic acid, [quercetin](/nighantu/reference/quercetinquercetin/), [kaempferol](/nighantu/reference/kaempferol/)) prevents oxidative damage to cardiac tissue
+- [Cardioprotective](/reference/cardioprotective/) action through [flavonoids](/reference/flavonoids/), [glycosides](/glossary/compounds-g-l/#glycosides) ([arjunetin](/glossary/compounds-1-a/#arjunetin), arjunolic acid), and coenzyme Q10 protecting myocardial cells
+- [Antioxidant](/reference/antioxidant/) activity (ellagic acid, gallic acid, [quercetin](/reference/quercetinquercetin/), [kaempferol](/reference/kaempferol/)) prevents oxidative damage to cardiac tissue
 - Anti-hypertensive effect through mild ACE inhibition and vasodilation
 - Myocardial calcium channel stabilization provides antiarrhythmic effects and reduces left ventricle hypertrophy
 
@@ -41,7 +41,7 @@ Charaka Samhita (1st-2nd century CE) and Sushruta Samhita (3rd-4th century CE), 
 - Heart tonic (Hridya) - validated by cardioprotective studies showing reduced post-ischemic damage
 - Cardiac weakness and palpitations - supported by antiarrhythmic and calcium channel stabilization research
 - Hypertension management - corroborated by ACE inhibition and vasodilatory mechanisms
-- Hyperlipidemia - traditional use supported by antioxidant profile and lipid-lowering properties of [Arjuna](/nighantu/herb/arjuna/)
+- Hyperlipidemia - traditional use supported by antioxidant profile and lipid-lowering properties of [Arjuna](/herb/arjuna/)
 
 ## What do recent clinical trials show?
 
@@ -52,7 +52,7 @@ Charaka Samhita (1st-2nd century CE) and Sushruta Samhita (3rd-4th century CE), 
 ## Recent safety updates
 
 - Generally well-tolerated. Contains 5-10% self-generated alcohol. Should be used cautiously in patients on cardiac medications (digoxin, beta-blockers, calcium channel blockers) due to potential interactions.
-- May potentiate [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive) drugs leading to excessive blood pressure reduction. Patients with hypotension should use with caution. Not recommended during pregnancy.
+- May potentiate [antihypertensive](/glossary/pharmacology/#antihypertensive) drugs leading to excessive blood pressure reduction. Patients with hypotension should use with caution. Not recommended during pregnancy.
 
 ## What is it made of?
 
@@ -69,7 +69,7 @@ Charaka Samhita (1st-2nd century CE) and Sushruta Samhita (3rd-4th century CE), 
 
 **Standard Dosage:** 15-30 mL twice daily after meals with equal water, as per AFI Part I
 
-**Bioavailability:** Alcohol base enhances absorption of arjunic acid and arjungenin (triterpene [saponins](/nighantu/reference/saponins/)). Fermentation generates bioactive metabolites with improved cardiac bioavailability. [Tannins](/nighantu/reference/tannins/) provide sustained-release cardioprotective activity.
+**Bioavailability:** Alcohol base enhances absorption of arjunic acid and arjungenin (triterpene [saponins](/reference/saponins/)). Fermentation generates bioactive metabolites with improved cardiac bioavailability. [Tannins](/reference/tannins/) provide sustained-release cardioprotective activity.
 
 **Optimal Timing:** After meals, twice daily, preferably morning and evening for cardiac indications
 
@@ -85,7 +85,7 @@ Charaka Samhita (1st-2nd century CE) and Sushruta Samhita (3rd-4th century CE), 
 
 ### Synergistic Combinations
 
-- [Pushyanuga Churna](/nighantu/formulation/pushyanuga-churna/)
+- [Pushyanuga Churna](/formulation/pushyanuga-churna/)
 - Hridayarnava Rasa
 - Prabhakara Vati
-- [Ashwagandha](/nighantu/herb/ashwagandha/) Churna for cardio-[adaptogenic](/nighantu/reference/adaptogenic/) synergy
+- [Ashwagandha](/herb/ashwagandha/) Churna for cardio-[adaptogenic](/reference/adaptogenic/) synergy

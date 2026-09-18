@@ -49,11 +49,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Vetasa/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g bark powder twice daily; 50-100 mL decoction twice daily; 2-5 mL tincture three times daily
 
-**Bioavailability:** [Salicin](/nighantu/glossary/compounds-q-t/#salicin) (pro-drug) is well absorbed orally (~80-90%) and converted by gut bacteria and hepatic [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) to saligenin and subsequently to salicylic acid (the active anti-inflammatory metabolite). Onset of action is slower than synthetic aspirin (1-2 hours vs. 30 minutes) but duration is longer (6-8 hours). Salicylic acid from willow bark does not cause the same degree of gastric irritation as aspirin because salicin is hydrolyzed in the intestine, not the stomach. [Flavonoids](/nighantu/reference/flavonoids/) ([naringenin](/nighantu/glossary/compounds-l-o/#naringenin), [catechin](/nighantu/reference/catechin/)) have low systemic bioavailability.
+**Bioavailability:** [Salicin](/glossary/compounds-q-t/#salicin) (pro-drug) is well absorbed orally (~80-90%) and converted by gut bacteria and hepatic [enzymes](/glossary/compounds-d-g/#enzymes) to saligenin and subsequently to salicylic acid (the active anti-inflammatory metabolite). Onset of action is slower than synthetic aspirin (1-2 hours vs. 30 minutes) but duration is longer (6-8 hours). Salicylic acid from willow bark does not cause the same degree of gastric irritation as aspirin because salicin is hydrolyzed in the intestine, not the stomach. [Flavonoids](/reference/flavonoids/) ([naringenin](/glossary/compounds-l-o/#naringenin), [catechin](/reference/catechin/)) have low systemic bioavailability.
 
 **Optimal Timing:** With meals to minimize GI contact; 2-3 times daily for sustained anti-inflammatory effect
 
-**Standardized Extract:** Bark extract standardized to >15% salicin by HPLC (equivalent to ~240 mg salicin per daily dose for [analgesic](/nighantu/reference/analgesic/) indication); total [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) >5%
+**Standardized Extract:** Bark extract standardized to >15% salicin by HPLC (equivalent to ~240 mg salicin per daily dose for [analgesic](/reference/analgesic/) indication); total [polyphenols](/glossary/compounds-o-q/#polyphenols) >5%
 
 **Shelf Life:** Bark powder: 18-24 months; Capsules/Tablets: 24-36 months; Tincture: 36-48 months; Decoction: prepare fresh
 
@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Vetasa/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Guggulu](/nighantu/formulation/guggulu/) (Commiphora mukul) - anti-inflammatory and anti-arthritic synergy
-- [Shallaki](/nighantu/herb/shallaki/) (Boswellia serrata) - complementary anti-inflammatory via 5-LOX inhibition
-- [Nirgundi](/nighantu/herb/nirgundi/) (Vitex negundo) - analgesic combination for musculoskeletal pain
-- [Haridra](/nighantu/herb/haridra/) ([turmeric](/nighantu/herb/turmeric/)) - multi-target anti-inflammatory synergy
+- [Guggulu](/formulation/guggulu/) (Commiphora mukul) - anti-inflammatory and anti-arthritic synergy
+- [Shallaki](/herb/shallaki/) (Boswellia serrata) - complementary anti-inflammatory via 5-LOX inhibition
+- [Nirgundi](/herb/nirgundi/) (Vitex negundo) - analgesic combination for musculoskeletal pain
+- [Haridra](/herb/haridra/) ([turmeric](/herb/turmeric/)) - multi-target anti-inflammatory synergy

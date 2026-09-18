@@ -23,18 +23,18 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Anu-Taila/m
 
 | Language | Name |
 |----------|------|
-| English | [Anu Taila](/nighantu/formulation/anu-taila/) |
+| English | [Anu Taila](/formulation/anu-taila/) |
 
 ## Where is it described in the classical texts?
 
-Ashtanga Hridayam (Sutrasthana Chapter 20 - Nasya Vidhi) by Vagbhata. Described as the foremost Nasya oil for Dinacharya (daily regimen). Contains 25+ herbs infused in [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila). Also referenced in Charaka Samhita.
+Ashtanga Hridayam (Sutrasthana Chapter 20 - Nasya Vidhi) by Vagbhata. Described as the foremost Nasya oil for Dinacharya (daily regimen). Contains 25+ herbs infused in [sesame oil](/glossary/concepts-m-y/#tila-taila). Also referenced in Charaka Samhita.
 
 ## How does it work?
 
-- Transnasal drug delivery through olfactory neuroepithelium provides direct access to the CNS (nose-to-brain pathway), bypassing the blood-brain barrier for [neuroprotective](/nighantu/reference/neuroprotective/) herb constituents
-- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) base (Murchana-processed) increases saponification and refractive index while decreasing free fatty acids and peroxide levels, dramatically improving stability and bioavailability of low molecular weight fatty acids
-- Sandalwood's santalol and [Jatamansi](/nighantu/herb/jatamansi/)'s nardostachin provide anti-inflammatory and calming effects on nasal mucosa, reducing allergic rhinitis symptoms
-- [Glycyrrhizin](/nighantu/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) from Licorice provides mucosal protective and antiviral effects, creating a biological barrier in nasal epithelium against airborne pathogens
+- Transnasal drug delivery through olfactory neuroepithelium provides direct access to the CNS (nose-to-brain pathway), bypassing the blood-brain barrier for [neuroprotective](/reference/neuroprotective/) herb constituents
+- [Sesame oil](/glossary/concepts-m-y/#tila-taila) base (Murchana-processed) increases saponification and refractive index while decreasing free fatty acids and peroxide levels, dramatically improving stability and bioavailability of low molecular weight fatty acids
+- Sandalwood's santalol and [Jatamansi](/herb/jatamansi/)'s nardostachin provide anti-inflammatory and calming effects on nasal mucosa, reducing allergic rhinitis symptoms
+- [Glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) from Licorice provides mucosal protective and antiviral effects, creating a biological barrier in nasal epithelium against airborne pathogens
 
 ## Which traditional uses are supported by research?
 
@@ -47,7 +47,7 @@ Ashtanga Hridayam (Sutrasthana Chapter 20 - Nasya Vidhi) by Vagbhata. Described 
 - Vijay B, Diwan B, Devkumar P and others 2023. [Nasal application of sesame oil-based Anu taila as 'biological mask' for respiratory health during COVID-19](https://pubmed.ncbi.nlm.nih.gov/37660545/). *Journal of Ayurveda and integrative medicine*. PMID [37660545](https://pubmed.ncbi.nlm.nih.gov/37660545/) · [doi:10.1016/j.jaim.2023.100773](https://doi.org/10.1016/j.jaim.2023.100773)  
   Published in PMC/ScienceDirect, prophylactic nasal instillation of Anu oil in a hamster SARS-CoV2 challenge model exhibited reduced viral load in lungs, reduced body weight loss, and reduced pneumonitis with histopathological analysis revealing reduced lung pathology.
 - Vivera MJ, Gomersall JS 2016. [The effectiveness of ayurvedic oil-based nasal instillation (Nasya) medicines in the treatment of facial paralysis (Ardita): a systematic review](https://pubmed.ncbi.nlm.nih.gov/27532316/). *JBI database of systematic reviews and implementation reports*. PMID [27532316](https://pubmed.ncbi.nlm.nih.gov/27532316/) · [doi:10.11124/JBISRIR-2016-2402](https://doi.org/10.11124/JBISRIR-2016-2402)  
-  Systematic review found that participants receiving Nasya intervention with [Anu Taila](/nighantu/formulation/anu-taila/) had 78.2% to 90.9% relief from symptoms of facial pain, speech disorder, and earache, graded as marked improvement.
+  Systematic review found that participants receiving Nasya intervention with [Anu Taila](/formulation/anu-taila/) had 78.2% to 90.9% relief from symptoms of facial pain, speech disorder, and earache, graded as marked improvement.
 
 *1 further claim previously listed here could not be traced to a published paper and has been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
@@ -79,15 +79,15 @@ Ashtanga Hridayam (Sutrasthana Chapter 20 - Nasya Vidhi) by Vagbhata. Described 
 
 **Storage:** Store in amber glass bottles with dropper caps in a cool, dry place. Protect from light. Temperature not exceeding 25°C. Nasal preparations require enhanced microbial controls.
 
-**Marker Compounds:** [Sesamin](/nighantu/glossary/compounds-q-t/#sesamin), [Sesamolin](/nighantu/glossary/compounds-q-t/#sesamolin), Jivantine, [Cinnamaldehyde](/nighantu/glossary/compounds-c-d/#cinnamaldehyde) (from Tvak), Alpha-vetivone (from Usheera)
+**Marker Compounds:** [Sesamin](/glossary/compounds-q-t/#sesamin), [Sesamolin](/glossary/compounds-q-t/#sesamolin), Jivantine, [Cinnamaldehyde](/glossary/compounds-c-d/#cinnamaldehyde) (from Tvak), Alpha-vetivone (from Usheera)
 
-**Quality Parameters:** Acid value (<5), peroxide value (<10), saponification value, [iodine](/nighantu/glossary/compounds-g-l/#iodine) value, refractive index, specific gravity, viscosity, rancidity test (negative), sterility testing (for nasal use), particulate matter testing, HPTLC fingerprint, heavy metals, pesticide residues
+**Quality Parameters:** Acid value (<5), peroxide value (<10), saponification value, [iodine](/glossary/compounds-g-l/#iodine) value, refractive index, specific gravity, viscosity, rancidity test (negative), sterility testing (for nasal use), particulate matter testing, HPTLC fingerprint, heavy metals, pesticide residues
 
 **Vehicle (Anupana):** Not applicable — administered nasally. Warm oil (slightly above body temperature) preferred for Nasya.
 
 ### Synergistic Combinations
 
-- [Shadbindu Taila](/nighantu/formulation/shadbindu-taila/)
-- [Vacha](/nighantu/herb/vacha/) Churna
-- [Brahmi](/nighantu/herb/brahmi/) [Ghrita](/nighantu/herb/ghrita/)
+- [Shadbindu Taila](/formulation/shadbindu-taila/)
+- [Vacha](/herb/vacha/) Churna
+- [Brahmi](/herb/brahmi/) [Ghrita](/herb/ghrita/)
 - Nasya Karma procedures

@@ -28,33 +28,33 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ksheera/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- Casein [proteins](/nighantu/glossary/compounds-o-q/#proteins) (alpha-s1, alpha-s2, beta, kappa)
+- Casein [proteins](/glossary/compounds-o-q/#proteins) (alpha-s1, alpha-s2, beta, kappa)
 - Whey proteins (lactalbumin, lactoglobulin)
-- [Lactoferrin](/nighantu/glossary/compounds-g-l/#lactoferrin)
-- [Immunoglobulins](/nighantu/glossary/compounds-g-l/#immunoglobulins) (IgA, IgG, IgM)
+- [Lactoferrin](/glossary/compounds-g-l/#lactoferrin)
+- [Immunoglobulins](/glossary/compounds-g-l/#immunoglobulins) (IgA, IgG, IgM)
 - Conjugated linoleic acid (CLA)
-- Calcium and [phosphorus](/nighantu/glossary/compounds-o-q/#phosphorus)
+- Calcium and [phosphorus](/glossary/compounds-o-q/#phosphorus)
 - Vitamin D
 - Vitamin B12
 - Sphingomyelin
-- Opioid [peptides](/nighantu/glossary/compounds-o-q/#peptides) (casomorphins)
+- Opioid [peptides](/glossary/compounds-o-q/#peptides) (casomorphins)
 
 ## How does it work?
 
-- Lactoferrin exhibits [antimicrobial](/nighantu/reference/antimicrobial/) activity through iron sequestration (depriving pathogens of essential iron) and direct membrane disruption; also modulates innate immune response through TLR4 signaling
+- Lactoferrin exhibits [antimicrobial](/reference/antimicrobial/) activity through iron sequestration (depriving pathogens of essential iron) and direct membrane disruption; also modulates innate immune response through TLR4 signaling
 - Casein-derived bioactive peptides (casomorphins) bind to opioid mu-receptors in the gut, providing antidiarrheal effects and modulating gastrointestinal motility and secretion
 - Milk serves as a pharmaceutical vehicle (Anupana) enhancing bioavailability of lipophilic herbal compounds through emulsification with milk fat, and provides buffering action that moderates pungent/irritant properties of co-administered herbs
 
 ## Which traditional uses are supported by research?
 
-- [Rasayana](/nighantu/reference/rasayana/) (rejuvenating) and Ojas-enhancing properties validated through clinical nutrition studies confirming milk's role in improving immune function and tissue nourishment
+- [Rasayana](/reference/rasayana/) (rejuvenating) and Ojas-enhancing properties validated through clinical nutrition studies confirming milk's role in improving immune function and tissue nourishment
 - Use as a pharmaceutical vehicle (Anupana/Ksheera Paka) validated - milk-based processing of herbs enhances bioavailability of lipophilic compounds while reducing irritant properties
 - Ksheera Basti (milk enema) efficacy for Vataroga (neurological/musculoskeletal conditions) supported by clinical evidence for sciatica management
 
 ## What do recent clinical trials show?
 
 - Dube N, Nimgulkar C, Bharatraj DK 2017. [Validation of therapeutic anti-inflammatory potential of Arjuna Ksheera Paka - A traditional Ayurvedic formulation of Terminalia arjuna](https://pubmed.ncbi.nlm.nih.gov/29034188/). *Journal of traditional and complementary medicine*. PMID [29034188](https://pubmed.ncbi.nlm.nih.gov/29034188/) · [doi:10.1016/j.jtcme.2016.11.006](https://doi.org/10.1016/j.jtcme.2016.11.006)  
-  Milk-based processing (Ksheera Paka) of Terminalia [arjuna](/nighantu/herb/arjuna/) enhanced anti-inflammatory activity, validating the traditional Ayurvedic practice of using milk as a pharmaceutical vehicle/adjuvant.
+  Milk-based processing (Ksheera Paka) of Terminalia [arjuna](/herb/arjuna/) enhanced anti-inflammatory activity, validating the traditional Ayurvedic practice of using milk as a pharmaceutical vehicle/adjuvant.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
@@ -75,11 +75,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ksheera/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Liquid (plain milk), Ksheera Paka (medicated milk decoction), Ksheera Basti (milk enema), [Ghrita](/nighantu/herb/ghrita/) (clarified butter/Ghee derived from milk), [Takra](/nighantu/herb/takra/) (buttermilk), [Dadhi](/nighantu/herb/dadhi/) (curd/yogurt)
+**Dosage Forms:** Liquid (plain milk), Ksheera Paka (medicated milk decoction), Ksheera Basti (milk enema), [Ghrita](/herb/ghrita/) (clarified butter/Ghee derived from milk), [Takra](/herb/takra/) (buttermilk), [Dadhi](/herb/dadhi/) (curd/yogurt)
 
 **Standard Dosage:** 100-250 mL warm milk as Anupana (vehicle) for herbs; Ksheera Paka: 100-200 mL once daily; Ksheera Basti: 200-500 mL as per Panchakarma protocol
 
-**Bioavailability:** Milk serves as a superior bioavailability enhancer (Anupana) for lipophilic drugs due to fat content (3.5-6% for cow's milk). Casein micelles act as natural nanocarriers for hydrophobic compounds. Calcium and [phospholipids](/nighantu/glossary/compounds-o-q/#phospholipids) enhance absorption of fat-soluble [vitamins](/nighantu/glossary/compounds-t-z/#vitamins) and phytochemicals. Lactoferrin improves iron bioavailability. Ksheera Paka extraction concentrates herb actives in milk lipid fraction. A2 milk (A2 beta-casein) is traditionally preferred in Ayurveda.
+**Bioavailability:** Milk serves as a superior bioavailability enhancer (Anupana) for lipophilic drugs due to fat content (3.5-6% for cow's milk). Casein micelles act as natural nanocarriers for hydrophobic compounds. Calcium and [phospholipids](/glossary/compounds-o-q/#phospholipids) enhance absorption of fat-soluble [vitamins](/glossary/compounds-t-z/#vitamins) and phytochemicals. Lactoferrin improves iron bioavailability. Ksheera Paka extraction concentrates herb actives in milk lipid fraction. A2 milk (A2 beta-casein) is traditionally preferred in Ayurveda.
 
 **Optimal Timing:** Warm milk at bedtime for sleep and Vata pacification; Ksheera Paka morning or evening depending on herb used; Ksheera Basti as per Panchakarma schedule
 
@@ -100,8 +100,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ksheera/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Ashwagandha](/nighantu/herb/ashwagandha/) Ksheera Paka for rejuvenation and sleep
-- [Shatavari](/nighantu/herb/shatavari/) with milk for [galactagogue](/nighantu/glossary/pharmacology/#galactagogue) effect
-- [Haridra](/nighantu/herb/haridra/) Dugdha ([Turmeric](/nighantu/herb/turmeric/) milk) for anti-inflammatory and immune support
-- [Bala](/nighantu/herb/bala/) with milk for strength building
-- [Guduchi](/nighantu/herb/guduchi/) with milk for fever management
+- [Ashwagandha](/herb/ashwagandha/) Ksheera Paka for rejuvenation and sleep
+- [Shatavari](/herb/shatavari/) with milk for [galactagogue](/glossary/pharmacology/#galactagogue) effect
+- [Haridra](/herb/haridra/) Dugdha ([Turmeric](/herb/turmeric/) milk) for anti-inflammatory and immune support
+- [Bala](/herb/bala/) with milk for strength building
+- [Guduchi](/herb/guduchi/) with milk for fever management

@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Swarna-Bhasma/meta-a
 
 | Language | Name |
 |----------|------|
-| English | [Swarna Bhasma](/nighantu/herb/swarna-bhasma/) |
+| English | [Swarna Bhasma](/herb/swarna-bhasma/) |
 
 ## Key Phytochemical Constituents
 
@@ -31,29 +31,29 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Swarna-Bhasma/meta-a
 - Gold oxide phases
 - Trace organic compounds from herbal processing media
 - Iron, copper, and silver as trace elements from processing
-- Sulfur compounds from [Gandhaka](/nighantu/glossary/concepts-a-m/#gandhaka) (sulfur) used in Marana
+- Sulfur compounds from [Gandhaka](/glossary/concepts-a-m/#gandhaka) (sulfur) used in Marana
 
 ## How does it work?
 
 - Immunomodulation via regulation of T-cell and macrophage activity; increases white blood cell counts and activity, supporting adaptive and innate immune responses
 - Anti-inflammatory action through inhibition of NF-kappa B expression and subsequent inflammatory cascade suppression, reducing pro-inflammatory cytokine production
-- [Antioxidant](/nighantu/reference/antioxidant/) effect via inhibition of lipid peroxidation and ROS generation; restores anti-oxidant [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) (GSH, SOD, Catalase, GPx) to normal levels during hyperglycemia
+- [Antioxidant](/reference/antioxidant/) effect via inhibition of lipid peroxidation and ROS generation; restores anti-oxidant [enzymes](/glossary/compounds-d-g/#enzymes) (GSH, SOD, Catalase, GPx) to normal levels during hyperglycemia
 - Enhanced cellular uptake due to nano-particulate size (28-35 nm) facilitating penetration of biological barriers and targeted drug delivery to specific tissues
-- Nervine tonic activity through modulation of neurotransmitter pathways, contributing to anti-depressant and [analgesic](/nighantu/reference/analgesic/) effects observed in animal models
+- Nervine tonic activity through modulation of neurotransmitter pathways, contributing to anti-depressant and [analgesic](/reference/analgesic/) effects observed in animal models
 
 ## Which traditional uses are supported by research?
 
-- Immunomodulation and [Rasayana](/nighantu/reference/rasayana/) (rejuvenation): Validated by multiple studies showing enhanced immune cell activity, increased WBC counts, and improved adaptive immune responses in animal models
-- Anti-diabetic activity: Gold nanoparticles demonstrated profound control over anti-oxidant enzymes and blood [glucose](/nighantu/glossary/compounds-d-g/#glucose) in diabetic mice models, supporting traditional use in Prameha (diabetes)
+- Immunomodulation and [Rasayana](/reference/rasayana/) (rejuvenation): Validated by multiple studies showing enhanced immune cell activity, increased WBC counts, and improved adaptive immune responses in animal models
+- Anti-diabetic activity: Gold nanoparticles demonstrated profound control over anti-oxidant enzymes and blood [glucose](/glossary/compounds-d-g/#glucose) in diabetic mice models, supporting traditional use in Prameha (diabetes)
 - Rheumatoid arthritis management: Comprehensive review (2024) confirmed anti-inflammatory mechanisms via NF-kB pathway inhibition, validating traditional use in Amavata (joint inflammation)
 - Nervous system disorders: Behavioral assessment in zebrafish and rat models confirmed no neurotoxicity and showed analgesic and anti-depressant activities, supporting use in neurological conditions
 
 ## What do recent clinical trials show?
 
 - Kashani AS, Kuruvinashetti K, Beauet D and others 2018. [Enhanced Internalization of Indian Ayurvedic Swarna Bhasma (Gold Nanopowder) for Effective Interaction with Human Cells](https://pubmed.ncbi.nlm.nih.gov/29954495/). *Journal of nanoscience and nanotechnology*. PMID [29954495](https://pubmed.ncbi.nlm.nih.gov/29954495/) · [doi:10.1166/jnn.2018.15503](https://doi.org/10.1166/jnn.2018.15503)  
-  Gold ash particles showed no impact on cellular viability of HeLa and HFF-1 cells even at high concentrations or long incubation times. Gold nanoparticles in [Swarna Bhasma](/nighantu/herb/swarna-bhasma/) exhibited superior cellular internalization compared to chemically synthesized gold nanoparticles.
+  Gold ash particles showed no impact on cellular viability of HeLa and HFF-1 cells even at high concentrations or long incubation times. Gold nanoparticles in [Swarna Bhasma](/herb/swarna-bhasma/) exhibited superior cellular internalization compared to chemically synthesized gold nanoparticles.
 - Biswas S, Dhumal R, Selkar N and others 2020. [Physicochemical characterization of Suvarna Bhasma, its toxicity profiling in rat and behavioural assessment in zebrafish model](https://pubmed.ncbi.nlm.nih.gov/31730889/). *Journal of ethnopharmacology*. PMID [31730889](https://pubmed.ncbi.nlm.nih.gov/31730889/) · [doi:10.1016/j.jep.2019.112388](https://doi.org/10.1016/j.jep.2019.112388)  
-  Comprehensive toxicity profiling found [Swarna Bhasma](/nighantu/herb/swarna-bhasma/) safe at therapeutic and higher dose levels in rats. Zebrafish behavioral models showed no neurotoxic effects. Physicochemical analysis confirmed nano-particulate gold composition.
+  Comprehensive toxicity profiling found [Swarna Bhasma](/herb/swarna-bhasma/) safe at therapeutic and higher dose levels in rats. Zebrafish behavioral models showed no neurotoxic effects. Physicochemical analysis confirmed nano-particulate gold composition.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
@@ -83,7 +83,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Swarna-Bhasma/meta-a
 
 **Bioavailability:** Exceptional; gold nanoparticles (20–50 nm) with superior tissue distribution and immunomodulatory activity
 
-**Optimal Timing:** Morning; with honey, ghee, or [Chyawanprash](/nighantu/formulation/chyawanprash/)
+**Optimal Timing:** Morning; with honey, ghee, or [Chyawanprash](/formulation/chyawanprash/)
 
 **Standardized Extract:** Calcined gold bhasma — supreme Rasayana in Rasashastra
 
@@ -95,7 +95,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Swarna-Bhasma/meta-a
 
 **Quality Parameters:** Gold content >90%, particle size 20–50 nm (TEM validated), standard bhasma tests, no free metallic gold
 
-**Vehicle (Anupana):** Honey + ghee (unequal parts), [Chyawanprash](/nighantu/formulation/chyawanprash/), [Brahmi](/nighantu/herb/brahmi/) Swarasa, or as part of Swarna-containing formulations
+**Vehicle (Anupana):** Honey + ghee (unequal parts), [Chyawanprash](/formulation/chyawanprash/), [Brahmi](/herb/brahmi/) Swarasa, or as part of Swarna-containing formulations
 
 ### Stability Notes
 

@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Shadbindu-T
 
 | Language | Name |
 |----------|------|
-| English | [Shadbindu Taila](/nighantu/formulation/shadbindu-taila/) |
+| English | [Shadbindu Taila](/formulation/shadbindu-taila/) |
 
 ## Where is it described in the classical texts?
 
@@ -31,16 +31,16 @@ Ashtanga Hridayam (Sutrasthana); also referenced in Sharangadhara Samhita. The n
 
 ## How does it work?
 
-- [Kaempferol](/nighantu/reference/kaempferol/) (confirmed by HPTLC) acts as a potent anti-inflammatory and [antimicrobial](/nighantu/reference/antimicrobial/) agent on nasal and sinus mucosa, reducing chronic inflammatory changes
-- Valeric acid derivatives from [Tagara](/nighantu/herb/tagara/) (Valeriana) provide sedative and muscle-relaxant effects on nasal and sinus smooth muscle, promoting drainage of blocked sinuses
-- Shogaols from Shunthi ([ginger](/nighantu/herb/ginger/)) provide mucolytic and vasodilatory effects, breaking down thick mucus and improving nasal airflow
-- Rock salt ([Saindhava Lavana](/nighantu/herb/saindhava-lavana/)) provides osmotic action helping to draw out excess fluid from congested nasal tissues and has mild antimicrobial properties
+- [Kaempferol](/reference/kaempferol/) (confirmed by HPTLC) acts as a potent anti-inflammatory and [antimicrobial](/reference/antimicrobial/) agent on nasal and sinus mucosa, reducing chronic inflammatory changes
+- Valeric acid derivatives from [Tagara](/herb/tagara/) (Valeriana) provide sedative and muscle-relaxant effects on nasal and sinus smooth muscle, promoting drainage of blocked sinuses
+- Shogaols from Shunthi ([ginger](/herb/ginger/)) provide mucolytic and vasodilatory effects, breaking down thick mucus and improving nasal airflow
+- Rock salt ([Saindhava Lavana](/herb/saindhava-lavana/)) provides osmotic action helping to draw out excess fluid from congested nasal tissues and has mild antimicrobial properties
 
 ## Which traditional uses are supported by research?
 
 - Chronic sinusitis and nasal polyps - validated by clinical study (2019) showing 70% marked improvement in sinusitis symptoms after 30 days of Nasya treatment
-- Headache and migraine (Shirahshula) - supported by the [analgesic](/nighantu/reference/analgesic/) and anti-inflammatory actions of kaempferol and [Tagara](/nighantu/herb/tagara/)'s [valepotriates](/nighantu/glossary/compounds-t-z/#valepotriates) confirmed by HPTLC analysis
-- Hair loss prevention and premature greying - supported by the [Bhringraj](/nighantu/herb/bhringraj/) juice base providing established hair growth-promoting [wedelolactone](/nighantu/glossary/compounds-t-z/#wedelolactone) compounds via scalp and nasal administration
+- Headache and migraine (Shirahshula) - supported by the [analgesic](/reference/analgesic/) and anti-inflammatory actions of kaempferol and [Tagara](/herb/tagara/)'s [valepotriates](/glossary/compounds-t-z/#valepotriates) confirmed by HPTLC analysis
+- Hair loss prevention and premature greying - supported by the [Bhringraj](/herb/bhringraj/) juice base providing established hair growth-promoting [wedelolactone](/glossary/compounds-t-z/#wedelolactone) compounds via scalp and nasal administration
 
 ## What do recent clinical trials show?
 
@@ -52,7 +52,7 @@ Ashtanga Hridayam (Sutrasthana); also referenced in Sharangadhara Samhita. The n
 ## Recent safety updates
 
 - Found non-irritant on rabbit skin in standardization study. No heavy metals detected in properly manufactured formulations. Mild sneezing or nasal discharge may occur after instillation - this is considered a therapeutic response. Temporary burning or lacrimation possible.
-- Not recommended during acute nasal bleeding, fever, or immediately after meals. Avoid in children under 7 years without practitioner supervision. Preliminary safety data are positive but large-scale double-blind studies are still needed to fully characterize pharmacokinetics of herbal [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) in human nasal mucosa.
+- Not recommended during acute nasal bleeding, fever, or immediately after meals. Avoid in children under 7 years without practitioner supervision. Preliminary safety data are positive but large-scale double-blind studies are still needed to fully characterize pharmacokinetics of herbal [alkaloids](/glossary/compounds-1-a/#alkaloids) in human nasal mucosa.
 
 ## What is it made of?
 
@@ -65,11 +65,11 @@ Ashtanga Hridayam (Sutrasthana); also referenced in Sharangadhara Samhita. The n
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Thailam (medicated [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)), External application
+**Dosage Forms:** Thailam (medicated [sesame oil](/glossary/concepts-m-y/#tila-taila)), External application
 
 **Standard Dosage:** Nasya: 2-6 drops per nostril
 
-**Bioavailability:** Oil base ([sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
+**Bioavailability:** Oil base ([sesame oil](/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
 
 **Optimal Timing:** External: before bath or at bedtime. Internal: before meals
 
@@ -77,7 +77,7 @@ Ashtanga Hridayam (Sutrasthana); also referenced in Sharangadhara Samhita. The n
 
 **Storage:** Airtight amber glass/HDPE container, room temperature, protected from light
 
-**Marker Compounds:** Eclipta [saponins](/nighantu/reference/saponins/), Ricinoleic acid
+**Marker Compounds:** Eclipta [saponins](/reference/saponins/), Ricinoleic acid
 
 **Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Eclipta saponins, Ricinoleic acid
 
@@ -85,4 +85,4 @@ Ashtanga Hridayam (Sutrasthana); also referenced in Sharangadhara Samhita. The n
 
 ### Synergistic Combinations
 
-- Key herbs: Bhringaraj, [Eranda](/nighantu/herb/eranda/), Shunthi, [Tagara](/nighantu/herb/tagara/) for nasya; oil base acts as lipid carrier for enhanced tissue penetration
+- Key herbs: Bhringaraj, [Eranda](/herb/eranda/), Shunthi, [Tagara](/herb/tagara/) for nasya; oil base acts as lipid carrier for enhanced tissue penetration

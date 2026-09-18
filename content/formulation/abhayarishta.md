@@ -33,15 +33,15 @@ Bhaishajya Ratnavali, Arsha Rogadhikara (Piles treatment chapter). Also referenc
 
 - Cholagogue action increases bile secretion by the liver, stimulating intestinal peristalsis for smooth fecal passage
 - Venotonic effect reduces venous pressure in the hemorrhoidal plexus, shrinking piles
-- Mild [laxative](/nighantu/reference/laxative/) action of [Haritaki](/nighantu/herb/haritaki/) promotes regular bowel movements without dependency
-- Anti-inflammatory properties of [Vidanga](/nighantu/herb/vidanga/) and [Haritaki](/nighantu/herb/haritaki/) reduce swelling and pain in hemorrhoids
+- Mild [laxative](/reference/laxative/) action of [Haritaki](/herb/haritaki/) promotes regular bowel movements without dependency
+- Anti-inflammatory properties of [Vidanga](/herb/vidanga/) and [Haritaki](/herb/haritaki/) reduce swelling and pain in hemorrhoids
 
 ## Which traditional uses are supported by research?
 
 - Constipation (Vibandha) - validated by double-blind study showing significant relief in 4 weeks
-- Piles/Hemorrhoids (Arsha) - supported by venotonic and anti-inflammatory studies on [Haritaki](/nighantu/herb/haritaki/)
+- Piles/Hemorrhoids (Arsha) - supported by venotonic and anti-inflammatory studies on [Haritaki](/herb/haritaki/)
 - Abdominal distension and flatulence - corroborated by cholagogue mechanism increasing bile flow
-- Dysuria (difficult urination) - traditional use supported by [Gokshura](/nighantu/herb/gokshura/)'s [diuretic](/nighantu/reference/diuretic/) properties
+- Dysuria (difficult urination) - traditional use supported by [Gokshura](/herb/gokshura/)'s [diuretic](/reference/diuretic/) properties
 
 ## What do recent clinical trials show?
 
@@ -85,7 +85,7 @@ Bhaishajya Ratnavali, Arsha Rogadhikara (Piles treatment chapter). Also referenc
 
 ### Synergistic Combinations
 
-- [Triphala](/nighantu/herb/triphala/) Churna
-- [Kutajarishta](/nighantu/formulation/kutajarishta/)
+- [Triphala](/herb/triphala/) Churna
+- [Kutajarishta](/formulation/kutajarishta/)
 - Bilvadi Leha
 - Panchasakara Churna

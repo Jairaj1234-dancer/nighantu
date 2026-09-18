@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Guloochyadi-
 
 | Language | Name |
 |----------|------|
-| English | [Guloochyadi Kashayam](/nighantu/formulation/guloochyadi-kashayam/) |
+| English | [Guloochyadi Kashayam](/formulation/guloochyadi-kashayam/) |
 
 ## Where is it described in the classical texts?
 
@@ -31,16 +31,16 @@ Sharangdhara Samhita Madhyamakhanda 2/8; Astanga Hridayam. Earliest explicit men
 
 ## How does it work?
 
-- [Immunomodulatory](/nighantu/reference/immunomodulatory/) action through NK cell activation and enhanced non-specific immunity ([Guduchi](/nighantu/herb/guduchi/), [Nimba](/nighantu/herb/nimba/))
+- [Immunomodulatory](/reference/immunomodulatory/) action through NK cell activation and enhanced non-specific immunity ([Guduchi](/herb/guduchi/), [Nimba](/herb/nimba/))
 - Anti-inflammatory activity via suppression of pro-inflammatory cytokines and reduction of CRP levels
-- [Antipyretic](/nighantu/reference/antipyretic/) action through multiple pathways including prostaglandin synthesis inhibition
-- [Antioxidant](/nighantu/reference/antioxidant/), antibacterial, antiviral, and antimalarial activities from the synergistic herb combination
+- [Antipyretic](/reference/antipyretic/) action through multiple pathways including prostaglandin synthesis inhibition
+- [Antioxidant](/reference/antioxidant/), antibacterial, antiviral, and antimalarial activities from the synergistic herb combination
 
 ## Which traditional uses are supported by research?
 
 - Fever of various etiologies - validated by immunomodulatory and antipyretic studies
-- Burning sensation (Daha) - supported by cooling properties of Raktachandana and [Padmaka](/nighantu/herb/padmaka/)
-- Loss of appetite and nausea during fever - corroborated by digestive and [antiemetic](/nighantu/glossary/pharmacology/#antiemetic) properties
+- Burning sensation (Daha) - supported by cooling properties of Raktachandana and [Padmaka](/herb/padmaka/)
+- Loss of appetite and nausea during fever - corroborated by digestive and [antiemetic](/glossary/pharmacology/#antiemetic) properties
 - Infections with inflammatory component - supported by anti-inflammatory CRP reduction data
 
 ## What do recent clinical trials show?
@@ -52,7 +52,7 @@ Sharangdhara Samhita Madhyamakhanda 2/8; Astanga Hridayam. Earliest explicit men
 ## Recent safety updates
 
 - Generally well tolerated. No significant adverse effects reported in clinical trials. May cause mild gastrointestinal discomfort in sensitive individuals.
-- [Guduchi](/nighantu/herb/guduchi/) may lower blood sugar; diabetic patients on hypoglycemics should use with caution and monitor blood [glucose](/nighantu/glossary/compounds-d-g/#glucose) levels. [Neem](/nighantu/herb/neem/) ([Nimba](/nighantu/herb/nimba/)) should be used cautiously in pregnancy.
+- [Guduchi](/herb/guduchi/) may lower blood sugar; diabetic patients on hypoglycemics should use with caution and monitor blood [glucose](/glossary/compounds-d-g/#glucose) levels. [Neem](/herb/neem/) ([Nimba](/herb/nimba/)) should be used cautiously in pregnancy.
 
 ## What is it made of?
 
@@ -69,7 +69,7 @@ Sharangdhara Samhita Madhyamakhanda 2/8; Astanga Hridayam. Earliest explicit men
 
 **Standard Dosage:** 15-30 mL or 2 tablets twice daily before meals, as per Sahasrayogam
 
-**Bioavailability:** Hot decoction provides rapid absorption of [Guduchi](/nighantu/herb/guduchi/) [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) and [glycosides](/nighantu/glossary/compounds-g-l/#glycosides). [Berberine](/nighantu/glossary/compounds-a-c/#berberine) has moderate oral bioavailability (~5%) enhanced in hot aqueous medium. [Tinosporaside](/nighantu/glossary/compounds-t-z/#tinosporaside) and [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides) are well-absorbed from decoction.
+**Bioavailability:** Hot decoction provides rapid absorption of [Guduchi](/herb/guduchi/) [alkaloids](/glossary/compounds-1-a/#alkaloids) and [glycosides](/glossary/compounds-g-l/#glycosides). [Berberine](/glossary/compounds-a-c/#berberine) has moderate oral bioavailability (~5%) enhanced in hot aqueous medium. [Tinosporaside](/glossary/compounds-t-z/#tinosporaside) and [polysaccharides](/glossary/compounds-o-q/#polysaccharides) are well-absorbed from decoction.
 
 **Optimal Timing:** Before meals, morning and evening, especially for Jwara (fever) and immunomodulation
 
@@ -77,7 +77,7 @@ Sharangdhara Samhita Madhyamakhanda 2/8; Astanga Hridayam. Earliest explicit men
 
 **Storage:** Fresh: use same day. Concentrates: amber glass at room temperature. Tablets: airtight containers at room temperature.
 
-**Marker Compounds:** [Berberine](/nighantu/glossary/compounds-a-c/#berberine), Tinosporaside, [Columbin](/nighantu/glossary/compounds-c-d/#columbin), [Palmatine](/nighantu/glossary/compounds-o-q/#palmatine), [Magnoflorine](/nighantu/glossary/compounds-l-o/#magnoflorine), [Arabinogalactan](/nighantu/glossary/compounds-1-a/#arabinogalactan) (polysaccharide)
+**Marker Compounds:** [Berberine](/glossary/compounds-a-c/#berberine), Tinosporaside, [Columbin](/glossary/compounds-c-d/#columbin), [Palmatine](/glossary/compounds-o-q/#palmatine), [Magnoflorine](/glossary/compounds-l-o/#magnoflorine), [Arabinogalactan](/glossary/compounds-1-a/#arabinogalactan) (polysaccharide)
 
 **Quality Parameters:** pH, specific gravity, total solids, berberine content by HPLC, tinosporaside content, total alkaloids, HPTLC fingerprint, microbial limits, heavy metals
 
@@ -85,7 +85,7 @@ Sharangdhara Samhita Madhyamakhanda 2/8; Astanga Hridayam. Earliest explicit men
 
 ### Synergistic Combinations
 
-- [Amritarishta](/nighantu/formulation/amritarishta/)
-- [Guduchi](/nighantu/herb/guduchi/) Satva
+- [Amritarishta](/formulation/amritarishta/)
+- [Guduchi](/herb/guduchi/) Satva
 - Sudarshana Churna
 - Panchanimba Churna

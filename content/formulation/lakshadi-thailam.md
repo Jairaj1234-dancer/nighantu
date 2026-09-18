@@ -23,23 +23,23 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Lakshadi-Th
 
 | Language | Name |
 |----------|------|
-| English | [Lakshadi Thailam](/nighantu/formulation/lakshadi-thailam/) |
+| English | [Lakshadi Thailam](/formulation/lakshadi-thailam/) |
 
 ## Where is it described in the classical texts?
 
-Ashtanga Hridayam (Uttarasthana - Balopacharaneeya / Paediatric chapter). One of the most important classical formulations for paediatric care ([Bala](/nighantu/herb/bala/) Chikitsa) in Ayurveda, specifically mentioned for infant massage and child development.
+Ashtanga Hridayam (Uttarasthana - Balopacharaneeya / Paediatric chapter). One of the most important classical formulations for paediatric care ([Bala](/herb/bala/) Chikitsa) in Ayurveda, specifically mentioned for infant massage and child development.
 
 ## How does it work?
 
-- Lac resin ([Laksha](/nighantu/glossary/concepts-a-m/#laksha)) provides calcium-like compounds and promotes osteoblast activity, supporting bone mineralization and skeletal development in growing infants
-- [Withanolides](/nighantu/glossary/compounds-t-z/#withanolides) from [Ashwagandha](/nighantu/herb/ashwagandha/) provide [adaptogenic](/nighantu/reference/adaptogenic/) and tissue-nourishing effects, supporting neuromuscular development through enhanced protein synthesis
-- [Curcumin](/nighantu/herb/curcumin/) from [Turmeric](/nighantu/herb/turmeric/) and antibacterial compounds from [Nirgundi](/nighantu/herb/nirgundi/) and Nutgrass protect delicate infant skin from common bacterial and fungal infections
-- Dill (Shatapushpa) and Cedar ([Devadaru](/nighantu/herb/devadaru/)) volatile oils provide mild warming and decongestant properties, protecting infants from cold and respiratory issues through transdermal absorption
+- Lac resin ([Laksha](/glossary/concepts-a-m/#laksha)) provides calcium-like compounds and promotes osteoblast activity, supporting bone mineralization and skeletal development in growing infants
+- [Withanolides](/glossary/compounds-t-z/#withanolides) from [Ashwagandha](/herb/ashwagandha/) provide [adaptogenic](/reference/adaptogenic/) and tissue-nourishing effects, supporting neuromuscular development through enhanced protein synthesis
+- [Curcumin](/herb/curcumin/) from [Turmeric](/herb/turmeric/) and antibacterial compounds from [Nirgundi](/herb/nirgundi/) and Nutgrass protect delicate infant skin from common bacterial and fungal infections
+- Dill (Shatapushpa) and Cedar ([Devadaru](/herb/devadaru/)) volatile oils provide mild warming and decongestant properties, protecting infants from cold and respiratory issues through transdermal absorption
 
 ## Which traditional uses are supported by research?
 
-- Infant bone and skeletal strengthening - supported by in vitro evidence of osteogenic potential of Lac resin and by [Ashwagandha](/nighantu/herb/ashwagandha/)'s established adaptogenic properties promoting growth
-- Infant skin protection and nourishment - validated by [antimicrobial](/nighantu/reference/antimicrobial/) studies confirming activity of [Nirgundi](/nighantu/herb/nirgundi/), Nutgrass, and Licorice against common infant skin pathogens
+- Infant bone and skeletal strengthening - supported by in vitro evidence of osteogenic potential of Lac resin and by [Ashwagandha](/herb/ashwagandha/)'s established adaptogenic properties promoting growth
+- Infant skin protection and nourishment - validated by [antimicrobial](/reference/antimicrobial/) studies confirming activity of [Nirgundi](/herb/nirgundi/), Nutgrass, and Licorice against common infant skin pathogens
 - Childhood respiratory protection (cold, cough prevention) - supported by the volatile oil components from Dill and Cedar providing decongestant effects through transdermal absorption during massage
 
 ## What do recent clinical trials show?
@@ -64,11 +64,11 @@ Ashtanga Hridayam (Uttarasthana - Balopacharaneeya / Paediatric chapter). One of
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Thailam (medicated [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)), External application
+**Dosage Forms:** Thailam (medicated [sesame oil](/glossary/concepts-m-y/#tila-taila)), External application
 
 **Standard Dosage:** External massage for infants and children
 
-**Bioavailability:** Oil base ([sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
+**Bioavailability:** Oil base ([sesame oil](/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
 
 **Optimal Timing:** External: before bath or at bedtime. Internal: before meals
 
@@ -84,4 +84,4 @@ Ashtanga Hridayam (Uttarasthana - Balopacharaneeya / Paediatric chapter). One of
 
 ### Synergistic Combinations
 
-- Key herbs: [Laksha](/nighantu/glossary/concepts-a-m/#laksha), [Ashwagandha](/nighantu/herb/ashwagandha/), [Haridra](/nighantu/herb/haridra/); oil base acts as lipid carrier for enhanced tissue penetration
+- Key herbs: [Laksha](/glossary/concepts-a-m/#laksha), [Ashwagandha](/herb/ashwagandha/), [Haridra](/herb/haridra/); oil base acts as lipid carrier for enhanced tissue penetration

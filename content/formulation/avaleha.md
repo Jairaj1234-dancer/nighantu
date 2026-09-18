@@ -19,7 +19,7 @@ productHints: []
 words: 488
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Avaleha.md"
 ---
-**Avaleha** (Sanskrit: *ava-*lih, "to lick"), also called **Leha** or **Lehya**, is the classical Ayurvedic semi-solid confection pharmaceutical dosage form. It is the **kalpana** (preparation class) that encompasses [Chyawanprash](/nighantu/formulation/chyawanprash/), Vasa Avaleha, Kushmanda Avaleha, Agastya Haritaki, Bilwadi Leha, Manibhadra Guda and the full family of medicated jams, pastes and electuaries.
+**Avaleha** (Sanskrit: *ava-*lih, "to lick"), also called **Leha** or **Lehya**, is the classical Ayurvedic semi-solid confection pharmaceutical dosage form. It is the **kalpana** (preparation class) that encompasses [Chyawanprash](/formulation/chyawanprash/), Vasa Avaleha, Kushmanda Avaleha, Agastya Haritaki, Bilwadi Leha, Manibhadra Guda and the full family of medicated jams, pastes and electuaries.
 
 ## Definition
 
@@ -71,7 +71,7 @@ The dosage form solves four pharmacological problems classical practitioners fac
 
 ## Notable Avaleha formulations
 
-- [Chyawanprash](/nighantu/formulation/chyawanprash/) — the flagship Rasayana Avaleha (Charaka Chikitsasthana 1.1)
+- [Chyawanprash](/formulation/chyawanprash/) — the flagship Rasayana Avaleha (Charaka Chikitsasthana 1.1)
 - Chyawanprash Royale — the premium-provenance Chyawanprash variant
 - Vasa Avaleha — Kasahara (Vasaka-based, respiratory)
 - Kushmanda Avaleha — Medhya Rasayana (ash-gourd, cognitive)
@@ -84,11 +84,11 @@ The dosage form solves four pharmacological problems classical practitioners fac
 
 ## See also
 
-- [Chyawanprash](/nighantu/formulation/chyawanprash/)
+- [Chyawanprash](/formulation/chyawanprash/)
 - Chyawanprash Royale
-- [Rasayana](/nighantu/reference/rasayana/)
-- [Madhu](/nighantu/herb/madhu/)
-- [Ghrita](/nighantu/herb/ghrita/)
-- [Tila Taila](/nighantu/glossary/concepts-m-y/#tila-taila)
+- [Rasayana](/reference/rasayana/)
+- [Madhu](/herb/madhu/)
+- [Ghrita](/herb/ghrita/)
+- [Tila Taila](/glossary/concepts-m-y/#tila-taila)
 
 *Concept hub for the Avaleha kalpana family. Expand with manufacturing-process detail, API-wise shelf-life table, and per-formulation cross-links as the catalogue grows.*

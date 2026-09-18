@@ -28,42 +28,42 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kanchanar/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Kaempferol](/nighantu/reference/kaempferol/)
-- [Quercetin](/nighantu/reference/quercetinquercetin/)
-- [Isorhamnetin](/nighantu/glossary/compounds-g-l/#isorhamnetin)-3-O-beta-D-glucopyranoside
+- [Kaempferol](/reference/kaempferol/)
+- [Quercetin](/reference/quercetinquercetin/)
+- [Isorhamnetin](/glossary/compounds-g-l/#isorhamnetin)-3-O-beta-D-glucopyranoside
 - Ombuin
-- [Hesperidin](/nighantu/glossary/compounds-g-l/#hesperidin)
-- [Stigmasterol](/nighantu/reference/stigmasterol/)
+- [Hesperidin](/glossary/compounds-g-l/#hesperidin)
+- [Stigmasterol](/reference/stigmasterol/)
 - Protocatechuic acid (PCA)
 - Protocatechuic acid methyl ester
-- [Lupeol](/nighantu/reference/lupeol/)
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- [Lupeol](/reference/lupeol/)
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 - Triterpene caffeate
 
 ## How does it work?
 
-- Anti-goitrogenic activity through modulation of thyroid hormone synthesis and [iodine](/nighantu/glossary/compounds-g-l/#iodine) metabolism by [flavonoids](/nighantu/reference/flavonoids/)
-- Anti-inflammatory action via COX-2 and LOX inhibition and suppression of NF-kB pathway by kaempferol and [quercetin](/nighantu/reference/quercetinquercetin/)
-- [Antidiabetic](/nighantu/reference/antidiabetic/) activity through aldose reductase inhibition ([quercetin](/nighantu/reference/quercetinquercetin/) pentaacetate) preventing diabetic complications
-- [Hepatoprotective](/nighantu/reference/hepatoprotective/) effects via [antioxidant](/nighantu/reference/antioxidant/)-mediated restoration of SOD, catalase and glutathione levels
+- Anti-goitrogenic activity through modulation of thyroid hormone synthesis and [iodine](/glossary/compounds-g-l/#iodine) metabolism by [flavonoids](/reference/flavonoids/)
+- Anti-inflammatory action via COX-2 and LOX inhibition and suppression of NF-kB pathway by kaempferol and [quercetin](/reference/quercetinquercetin/)
+- [Antidiabetic](/reference/antidiabetic/) activity through aldose reductase inhibition ([quercetin](/reference/quercetinquercetin/) pentaacetate) preventing diabetic complications
+- [Hepatoprotective](/reference/hepatoprotective/) effects via [antioxidant](/reference/antioxidant/)-mediated restoration of SOD, catalase and glutathione levels
 
 ## Which traditional uses are supported by research?
 
 - Anti-goitrogenic and thyroid-supportive use validated through clinical case series showing improved TSH and thyroid hormone levels
-- Lymphadenitis (Gandamala) treatment confirmed through clinical observations and Kanchanar [Guggulu](/nighantu/formulation/guggulu/) studies
-- Anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) effects validated through carrageenan-induced paw edema model with 46-77% inhibition
-- [Hemostatic](/nighantu/glossary/pharmacology/#hemostatic) and anti-hemorrhagic use supported by astringent tannin content and clinical observations in menorrhagia
+- Lymphadenitis (Gandamala) treatment confirmed through clinical observations and Kanchanar [Guggulu](/formulation/guggulu/) studies
+- Anti-inflammatory and [analgesic](/reference/analgesic/) effects validated through carrageenan-induced paw edema model with 46-77% inhibition
+- [Hemostatic](/glossary/pharmacology/#hemostatic) and anti-hemorrhagic use supported by astringent tannin content and clinical observations in menorrhagia
 
 ## What do recent clinical trials show?
 
 - Kulkarni SP, Parwe S 2024. [Evaluation of Comparative Efficacy of Levothyroxine Versus Kshar Basti and Kanchanar Guggul in the Treatment of Hypothyroidism: Protocol for a Randomized Controlled Trial](https://pubmed.ncbi.nlm.nih.gov/39255475/). *JMIR research protocols*. PMID [39255475](https://pubmed.ncbi.nlm.nih.gov/39255475/) · [doi:10.2196/57287](https://doi.org/10.2196/57287)  
-  Registered RCT comparing Kanchanar [Guggulu](/nighantu/formulation/guggulu/) formulation with levothyroxine for hypothyroidism management, with enrollment from June 2024 to December 2025; recognizes growing clinical evidence.
+  Registered RCT comparing Kanchanar [Guggulu](/formulation/guggulu/) formulation with levothyroxine for hypothyroidism management, with enrollment from June 2024 to December 2025; recognizes growing clinical evidence.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
-- Kanchanar [Guggulu](/nighantu/formulation/guggulu/) formulation is widely used clinically in Ayurvedic practice with established safety profile at standard doses (1-2 tablets twice daily)
+- Kanchanar [Guggulu](/formulation/guggulu/) formulation is widely used clinically in Ayurvedic practice with established safety profile at standard doses (1-2 tablets twice daily)
 - Long-term safety data from controlled clinical trials is still being generated; caution advised in hyperthyroid patients due to anti-goitrogenic activity. Pregnancy use not well studied.
 
 ## What is it made of?
@@ -84,15 +84,15 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kanchanar/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Kwatha (decoction), Churna (powder), [Guggulu](/nighantu/formulation/guggulu/) formulation (Kanchanar Guggulu tablet), Capsule, Vati (tablet)
+**Dosage Forms:** Kwatha (decoction), Churna (powder), [Guggulu](/formulation/guggulu/) formulation (Kanchanar Guggulu tablet), Capsule, Vati (tablet)
 
 **Standard Dosage:** 3-6 g powder twice daily; 50-100 mL decoction twice daily; Kanchanar Guggulu: 2 tablets (500 mg each) twice daily
 
-**Bioavailability:** Flavonoids and [tannins](/nighantu/reference/tannins/) have moderate bioavailability. [Lectins](/nighantu/glossary/compounds-g-l/#lectins) (Bauhinia-specific) are partially degraded in GI tract. Guggulu-based formulations (Kanchanar Guggulu) show enhanced bioactivity due to guggulsterone-mediated metabolic activation. Phytosome technology improves flavonoid absorption 3-fold.
+**Bioavailability:** Flavonoids and [tannins](/reference/tannins/) have moderate bioavailability. [Lectins](/glossary/compounds-g-l/#lectins) (Bauhinia-specific) are partially degraded in GI tract. Guggulu-based formulations (Kanchanar Guggulu) show enhanced bioactivity due to guggulsterone-mediated metabolic activation. Phytosome technology improves flavonoid absorption 3-fold.
 
 **Optimal Timing:** Before meals for thyroid-related conditions; after meals for gastrointestinal applications; Kanchanar Guggulu best taken with warm water 30 minutes before meals
 
-**Standardized Extract:** Standardized to minimum 10% total tannins (as tannic acid equivalents) and 2% total flavonoids (as [quercetin](/nighantu/reference/quercetinquercetin/) equivalents)
+**Standardized Extract:** Standardized to minimum 10% total tannins (as tannic acid equivalents) and 2% total flavonoids (as [quercetin](/reference/quercetinquercetin/) equivalents)
 
 **Shelf Life:** 24 months for powder; 36 months for Kanchanar Guggulu tablets; 48 hours for freshly prepared decoction (refrigerated)
 
@@ -110,6 +110,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kanchanar/meta-analysis.md"
 ### Synergistic Combinations
 
 - Guggulu (Commiphora mukul) in Kanchanar Guggulu for thyroid and lymphatic disorders
-- [Triphala](/nighantu/herb/triphala/) for enhanced detoxification
-- [Varuna](/nighantu/herb/varuna/) (Crataeva nurvala) for urinary calculi
-- [Punarnava](/nighantu/herb/punarnava/) for lymphatic drainage
+- [Triphala](/herb/triphala/) for enhanced detoxification
+- [Varuna](/herb/varuna/) (Crataeva nurvala) for urinary calculi
+- [Punarnava](/herb/punarnava/) for lymphatic drainage

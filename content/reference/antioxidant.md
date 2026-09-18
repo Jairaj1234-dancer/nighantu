@@ -23,61 +23,61 @@ srcRel: "_Hub/Pharmacology/Antioxidant.md"
 
 ## Ayurveda (256)
 
-- [Abhraka Bhasma](/nighantu/herb/abhraka-bhasma/)
-- [Adhaki](/nighantu/herb/adhaki/) — *Cajanus cajan (L.) Millsp.*
-- [Agastya](/nighantu/herb/agastya/) — *Sesbania grandiflora (L.) Pers.*
-- [Agastya Haritaki Rasayana](/nighantu/formulation/agastya-haritaki-rasayana/)
-- [Agnikarna](/nighantu/herb/agnikarna/) — *Gloriosa superba L. ([Agnikumarika](/nighantu/herb/agnikumarika/)/Agnimukhi); also associated with Litsea species in some texts*
-- [Aivana](/nighantu/herb/aivana/) — *Salvia officinalis L.*
-- [Aja Dugdha Goat Milk](/nighantu/herb/aja-dugdha-goat-milk/)
-- [Ajwain](/nighantu/herb/ajwain/) — *Trachyspermum ammi*
-- [Akhuparni](/nighantu/herb/akhuparni/) — *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
-- [Akshotaka](/nighantu/herb/akshotaka/) — *Juglans regia L.*
-- [Alabu](/nighantu/herb/alabu/) — *Lagenaria siceraria (Molina) Standl.*
-- [Amalaka Rasayana](/nighantu/formulation/amalaka-rasayana/)
-- [Amalaki Rasayana](/nighantu/formulation/amalaki-rasayana/)
-- [Ambasthaki](/nighantu/herb/ambasthaki/) — *Cissampelos pareira L.*
-- [Amla](/nighantu/herb/amla/) — *Phyllanthus emblica (syn. Emblica officinalis)*
-- [Amlaparni](/nighantu/herb/amlaparni/) — *Oxalis corniculata L.*
-- [Amlavetasa](/nighantu/herb/amlavetasa/) — *Garcinia pedunculata Roxb. ex Buch.-Ham. (primary); Rheum emodi Wall. ex Meissn. (substitute)*
-- [Amra](/nighantu/herb/amra/) — *Mangifera indica L.*
-- [Amrita Ghrita](/nighantu/formulation/amrita-ghrita/)
-- [Ankola](/nighantu/herb/ankola/) — *Alangium salviifolium (L.f.) Wangerin*
-- [Aparajita](/nighantu/herb/aparajita/) — *Clitoria ternatea L.*
-- [Aragwadha](/nighantu/herb/aragwadha/) — *Cassia fistula L.*
-- [Arjunarishta](/nighantu/formulation/arjunarishta/)
-- [Arogyavardhini Vati](/nighantu/formulation/arogyavardhini-vati/)
-- [Asana](/nighantu/herb/asana/) — *Pterocarpus marsupium Roxb.*
-- [Ashoka](/nighantu/herb/ashoka/)
-- [Ashwagandharishta](/nighantu/formulation/ashwagandharishta/)
-- [Ashwattha](/nighantu/herb/ashwattha/) — *Ficus religiosa L.*
-- [Asthishrinkhala](/nighantu/herb/asthishrinkhala/) — *Cissus quadrangularis L.*
-- [Atasi](/nighantu/herb/atasi/) — *Linum usitatissimum L.*
-- [Avipattikar Churna](/nighantu/formulation/avipattikar-churna/)
-- [Babbula](/nighantu/herb/babbula/) — *Acacia nilotica (L.) Delile (syn. Vachellia nilotica)*
-- [Bakuchi](/nighantu/herb/bakuchi/) — *Psoralea corylifolia L. (syn. Cullen corylifolium)*
-- [Bakula](/nighantu/herb/bakula/) — *Mimusops elengi L.*
-- [Balarishta](/nighantu/formulation/balarishta/)
-- [Balaswagandhadi Thailam](/nighantu/formulation/balaswagandhadi-thailam/)
-- [Bhadra](/nighantu/herb/bhadra/) — *Aerva lanata (L.) Juss. ex Schult.*
-- [Bhringraj](/nighantu/herb/bhringraj/)
-- [Bijapura](/nighantu/herb/bijapura/) — *Citrus medica L.*
+- [Abhraka Bhasma](/herb/abhraka-bhasma/)
+- [Adhaki](/herb/adhaki/) — *Cajanus cajan (L.) Millsp.*
+- [Agastya](/herb/agastya/) — *Sesbania grandiflora (L.) Pers.*
+- [Agastya Haritaki Rasayana](/formulation/agastya-haritaki-rasayana/)
+- [Agnikarna](/herb/agnikarna/) — *Gloriosa superba L. ([Agnikumarika](/herb/agnikumarika/)/Agnimukhi); also associated with Litsea species in some texts*
+- [Aivana](/herb/aivana/) — *Salvia officinalis L.*
+- [Aja Dugdha Goat Milk](/herb/aja-dugdha-goat-milk/)
+- [Ajwain](/herb/ajwain/) — *Trachyspermum ammi*
+- [Akhuparni](/herb/akhuparni/) — *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
+- [Akshotaka](/herb/akshotaka/) — *Juglans regia L.*
+- [Alabu](/herb/alabu/) — *Lagenaria siceraria (Molina) Standl.*
+- [Amalaka Rasayana](/formulation/amalaka-rasayana/)
+- [Amalaki Rasayana](/formulation/amalaki-rasayana/)
+- [Ambasthaki](/herb/ambasthaki/) — *Cissampelos pareira L.*
+- [Amla](/herb/amla/) — *Phyllanthus emblica (syn. Emblica officinalis)*
+- [Amlaparni](/herb/amlaparni/) — *Oxalis corniculata L.*
+- [Amlavetasa](/herb/amlavetasa/) — *Garcinia pedunculata Roxb. ex Buch.-Ham. (primary); Rheum emodi Wall. ex Meissn. (substitute)*
+- [Amra](/herb/amra/) — *Mangifera indica L.*
+- [Amrita Ghrita](/formulation/amrita-ghrita/)
+- [Ankola](/herb/ankola/) — *Alangium salviifolium (L.f.) Wangerin*
+- [Aparajita](/herb/aparajita/) — *Clitoria ternatea L.*
+- [Aragwadha](/herb/aragwadha/) — *Cassia fistula L.*
+- [Arjunarishta](/formulation/arjunarishta/)
+- [Arogyavardhini Vati](/formulation/arogyavardhini-vati/)
+- [Asana](/herb/asana/) — *Pterocarpus marsupium Roxb.*
+- [Ashoka](/herb/ashoka/)
+- [Ashwagandharishta](/formulation/ashwagandharishta/)
+- [Ashwattha](/herb/ashwattha/) — *Ficus religiosa L.*
+- [Asthishrinkhala](/herb/asthishrinkhala/) — *Cissus quadrangularis L.*
+- [Atasi](/herb/atasi/) — *Linum usitatissimum L.*
+- [Avipattikar Churna](/formulation/avipattikar-churna/)
+- [Babbula](/herb/babbula/) — *Acacia nilotica (L.) Delile (syn. Vachellia nilotica)*
+- [Bakuchi](/herb/bakuchi/) — *Psoralea corylifolia L. (syn. Cullen corylifolium)*
+- [Bakula](/herb/bakula/) — *Mimusops elengi L.*
+- [Balarishta](/formulation/balarishta/)
+- [Balaswagandhadi Thailam](/formulation/balaswagandhadi-thailam/)
+- [Bhadra](/herb/bhadra/) — *Aerva lanata (L.) Juss. ex Schult.*
+- [Bhringraj](/herb/bhringraj/)
+- [Bijapura](/herb/bijapura/) — *Citrus medica L.*
 
 ## Related Body Systems
 
-- [Anti-inflammatory & Pain](/nighantu/reference/antiinflammatory-pain/)
-- [Brain & Nervous System](/nighantu/reference/brain-nervous-system/)
-- [Diabetes & Metabolism](/nighantu/reference/diabetes-metabolism/)
-- [Digestive Health](/nighantu/reference/digestive-health/)
-- [Eye Health](/nighantu/reference/eye-health/)
-- [Fever & Infection](/nighantu/reference/fever-infection/)
-- [Hair Health](/nighantu/glossary/body-systems/#hair-health)
-- [Heart & Cardiovascular](/nighantu/reference/heart-cardiovascular/)
-- [Immune System & Rasayana](/nighantu/reference/immune-system-rasayana/)
-- [Joint & Musculoskeletal](/nighantu/reference/joint-musculoskeletal/)
-- [Kidney & Urinary](/nighantu/reference/kidney-urinary/)
-- [Liver & Detoxification](/nighantu/reference/liver-detoxification/)
-- [Men's Health & Vitality](/nighantu/reference/mens-health-vitality/)
-- [Respiratory Health](/nighantu/reference/respiratory-health/)
-- [Skin & Beauty](/nighantu/reference/skin-beauty/)
-- [Women's Health](/nighantu/reference/womens-health/)
+- [Anti-inflammatory & Pain](/reference/antiinflammatory-pain/)
+- [Brain & Nervous System](/reference/brain-nervous-system/)
+- [Diabetes & Metabolism](/reference/diabetes-metabolism/)
+- [Digestive Health](/reference/digestive-health/)
+- [Eye Health](/reference/eye-health/)
+- [Fever & Infection](/reference/fever-infection/)
+- [Hair Health](/glossary/body-systems/#hair-health)
+- [Heart & Cardiovascular](/reference/heart-cardiovascular/)
+- [Immune System & Rasayana](/reference/immune-system-rasayana/)
+- [Joint & Musculoskeletal](/reference/joint-musculoskeletal/)
+- [Kidney & Urinary](/reference/kidney-urinary/)
+- [Liver & Detoxification](/reference/liver-detoxification/)
+- [Men's Health & Vitality](/reference/mens-health-vitality/)
+- [Respiratory Health](/reference/respiratory-health/)
+- [Skin & Beauty](/reference/skin-beauty/)
+- [Women's Health](/reference/womens-health/)

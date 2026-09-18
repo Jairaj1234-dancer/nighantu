@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Sitopaladi-Churna
 
 | Language | Name |
 |----------|------|
-| English | [Sitopaladi Churna](/nighantu/formulation/sitopaladi-churna/) |
+| English | [Sitopaladi Churna](/formulation/sitopaladi-churna/) |
 
 ## Where is it described in the classical texts?
 
@@ -31,11 +31,11 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 6. Also referenced in Chakradatta
 
 ## How does it work?
 
-- Mast cell stabilization: Inhibits mast cell degranulation (65-74% protection), preventing [histamine](/nighantu/glossary/compounds-g-l/#histamine) release and allergic responses in respiratory tissue.
-- [Bronchodilator](/nighantu/reference/bronchodilator/) action: [Piperine](/nighantu/reference/piperine/) and essential oils relax bronchial smooth muscle, improving airway patency.
+- Mast cell stabilization: Inhibits mast cell degranulation (65-74% protection), preventing [histamine](/glossary/compounds-g-l/#histamine) release and allergic responses in respiratory tissue.
+- [Bronchodilator](/reference/bronchodilator/) action: [Piperine](/reference/piperine/) and essential oils relax bronchial smooth muscle, improving airway patency.
 - Anti-inflammatory cytokine suppression: 45% inhibition of TNF-alpha in lung cell lines, reducing respiratory tract inflammation.
-- Bioavailability synergy: Piperine from [Pippali](/nighantu/herb/pippali/) enhances absorption of [cinnamaldehyde](/nighantu/glossary/compounds-c-d/#cinnamaldehyde) (from Tvak) by 30%, demonstrating classical formulation synergy.
-- [Antimicrobial](/nighantu/reference/antimicrobial/) activity: Active against S. aureus and S. pneumoniae, providing direct action against respiratory pathogens.
+- Bioavailability synergy: Piperine from [Pippali](/herb/pippali/) enhances absorption of [cinnamaldehyde](/glossary/compounds-c-d/#cinnamaldehyde) (from Tvak) by 30%, demonstrating classical formulation synergy.
+- [Antimicrobial](/reference/antimicrobial/) activity: Active against S. aureus and S. pneumoniae, providing direct action against respiratory pathogens.
 
 ## Which traditional uses are supported by research?
 
@@ -80,7 +80,7 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 6. Also referenced in Chakradatta
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
-**Marker Compounds:** Piperine, [Cineole](/nighantu/glossary/compounds-c-d/#cineole)
+**Marker Compounds:** Piperine, [Cineole](/glossary/compounds-c-d/#cineole)
 
 **Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Piperine, Cineole
 

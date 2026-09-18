@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Trikatu-Churna/me
 
 | Language | Name |
 |----------|------|
-| English | [Trikatu](/nighantu/herb/trikatu/) Churna |
+| English | [Trikatu](/herb/trikatu/) Churna |
 
 ## Where is it described in the classical texts?
 
@@ -31,10 +31,10 @@ Charaka Samhita (Sutra Sthana, Chapter 4); Sushruta Samhita; Ashtanga Hridayam; 
 
 ## How does it work?
 
-- Bioavailability enhancement: [Piperine](/nighantu/reference/piperine/) inhibits hepatic and intestinal glucuronidation (UDP-glucuronosyltransferase) and transiently modulates P-glycoprotein efflux transporters, dramatically increasing absorption of co-administered compounds by up to 2000%
+- Bioavailability enhancement: [Piperine](/reference/piperine/) inhibits hepatic and intestinal glucuronidation (UDP-glucuronosyltransferase) and transiently modulates P-glycoprotein efflux transporters, dramatically increasing absorption of co-administered compounds by up to 2000%
 - Digestive fire stimulation (Agni Deepana): Increases salivary amylase, gastric acid (HCl) secretion, and pancreatic enzyme (lipase, amylase, trypsin) activity, directly strengthening digestive fire
 - Thermogenic metabolism boost: Hot potency (Ushna Virya) and pungent taste (Katu Rasa) stimulate thermogenesis and metabolic rate through sympathetic nervous system activation and TRPV1 receptor agonism
-- Anti-inflammatory action: Gingerols and 6-shogaol from [ginger](/nighantu/herb/ginger/) inhibit COX-2 and LOX pathways; piperine suppresses NF-kB activation and pro-inflammatory cytokine production
+- Anti-inflammatory action: Gingerols and 6-shogaol from [ginger](/herb/ginger/) inhibit COX-2 and LOX pathways; piperine suppresses NF-kB activation and pro-inflammatory cytokine production
 
 ## Which traditional uses are supported by research?
 
@@ -77,7 +77,7 @@ Charaka Samhita (Sutra Sthana, Chapter 4); Sushruta Samhita; Ashtanga Hridayam; 
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
-**Marker Compounds:** Piperine, 6-[Gingerol](/nighantu/glossary/compounds-d-g/#gingerol), [Piperlongumine](/nighantu/glossary/compounds-o-q/#piperlongumine)
+**Marker Compounds:** Piperine, 6-[Gingerol](/glossary/compounds-d-g/#gingerol), [Piperlongumine](/glossary/compounds-o-q/#piperlongumine)
 
 **Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Piperine, 6-Gingerol, Piperlongumine
 

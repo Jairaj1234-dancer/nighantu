@@ -53,24 +53,24 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Joint-Musculoskeletal/Simhamoola/meta-analy
 
 **Optimal Timing:** After meals with warm water or milk for Vatahara (anti-Vata) action; taila for external application as needed
 
-**Standardized Extract:** Root extract (6:1 in 60% ethanol), characterized by HPTLC fingerprint; standardized to NLT 2% total phenolics (as gallic acid equivalents) and NLT 1.5% total [flavonoids](/nighantu/reference/flavonoids/)
+**Standardized Extract:** Root extract (6:1 in 60% ethanol), characterized by HPTLC fingerprint; standardized to NLT 2% total phenolics (as gallic acid equivalents) and NLT 1.5% total [flavonoids](/reference/flavonoids/)
 
 **Shelf Life:** 24 months for churna; 30 months for capsules; 24 months for taila
 
 **Storage:** Store below 25 deg C in airtight containers, protected from light and moisture. Taila in amber glass bottles.
 
-**Marker Compounds:** Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Lupeol](/nighantu/reference/lupeol/), Oleanolic acid, Gallic acid, [Quercetin](/nighantu/reference/quercetinquercetin/)
+**Marker Compounds:** Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Lupeol](/reference/lupeol/), Oleanolic acid, Gallic acid, [Quercetin](/reference/quercetinquercetin/)
 
 ### Extraction Methods
 
 - Aqueous decoction
 - Hydroalcoholic extraction (50-60% ethanol)
-- Cold maceration in [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) for taila preparation
+- Cold maceration in [sesame oil](/glossary/concepts-m-y/#tila-taila) for taila preparation
 - Percolation with graded ethanol
 
 ### Synergistic Combinations
 
-- [Eranda](/nighantu/herb/eranda/) (anti-rheumatic and Vatahara combinations)
-- [Rasna](/nighantu/herb/rasna/) (pain management formulations)
+- [Eranda](/herb/eranda/) (anti-rheumatic and Vatahara combinations)
+- [Rasna](/herb/rasna/) (pain management formulations)
 - Dashmool (anti-inflammatory combination)
-- [Nirgundi](/nighantu/herb/nirgundi/) (external pain relief applications)
+- [Nirgundi](/herb/nirgundi/) (external pain relief applications)

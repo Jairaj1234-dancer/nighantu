@@ -23,19 +23,19 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Talisadi-Churna/m
 
 | Language | Name |
 |----------|------|
-| English | [Talisadi Churna](/nighantu/formulation/talisadi-churna/) |
+| English | [Talisadi Churna](/formulation/talisadi-churna/) |
 
 ## Where is it described in the classical texts?
 
-Charaka Chikitsa Sthana 8/145-148. Sharangdhara Samhita, Madhyama Khanda 6/130-133. Essentially an extension of [Sitopaladi Churna](/nighantu/formulation/sitopaladi-churna/) with the addition of [Talisa](/nighantu/herb/talisa/) (Abies webbiana) as the primary differentiating herb.
+Charaka Chikitsa Sthana 8/145-148. Sharangdhara Samhita, Madhyama Khanda 6/130-133. Essentially an extension of [Sitopaladi Churna](/formulation/sitopaladi-churna/) with the addition of [Talisa](/herb/talisa/) (Abies webbiana) as the primary differentiating herb.
 
 ## How does it work?
 
-- [Bronchodilator](/nighantu/reference/bronchodilator/) action: [Piperine](/nighantu/reference/piperine/) and volatile oils from [Talisa](/nighantu/herb/talisa/) and [Pippali](/nighantu/herb/pippali/) relax bronchial smooth muscle, improving airflow.
-- Anti-inflammatory cytokine suppression: [Gingerol](/nighantu/glossary/compounds-d-g/#gingerol) (from Shunthi) and piperine inhibit IL-6 and TNF-alpha, reducing respiratory tract inflammation.
-- Mucolytic and [expectorant](/nighantu/reference/expectorant/) activity: Reduces sputum viscosity and promotes expectoration, clearing respiratory passages.
-- Bioavailability enhancement: Piperine enhances absorption of other active compounds ([cinnamaldehyde](/nighantu/glossary/compounds-c-d/#cinnamaldehyde), cardamom essential oils).
-- Digestive stimulation: [Trikatu](/nighantu/herb/trikatu/) components kindle digestive fire (Agni), addressing the Ayurvedic principle that respiratory conditions often stem from impaired digestion.
+- [Bronchodilator](/reference/bronchodilator/) action: [Piperine](/reference/piperine/) and volatile oils from [Talisa](/herb/talisa/) and [Pippali](/herb/pippali/) relax bronchial smooth muscle, improving airflow.
+- Anti-inflammatory cytokine suppression: [Gingerol](/glossary/compounds-d-g/#gingerol) (from Shunthi) and piperine inhibit IL-6 and TNF-alpha, reducing respiratory tract inflammation.
+- Mucolytic and [expectorant](/reference/expectorant/) activity: Reduces sputum viscosity and promotes expectoration, clearing respiratory passages.
+- Bioavailability enhancement: Piperine enhances absorption of other active compounds ([cinnamaldehyde](/glossary/compounds-c-d/#cinnamaldehyde), cardamom essential oils).
+- Digestive stimulation: [Trikatu](/herb/trikatu/) components kindle digestive fire (Agni), addressing the Ayurvedic principle that respiratory conditions often stem from impaired digestion.
 
 ## Which traditional uses are supported by research?
 
@@ -52,7 +52,7 @@ Charaka Chikitsa Sthana 8/145-148. Sharangdhara Samhita, Madhyama Khanda 6/130-1
 
 ## Recent safety updates
 
-- Likely safe and well-tolerated in most people within therapeutic dosage. Higher doses may cause burning sensation and gastritis due to hot potency of [Trikatu](/nighantu/herb/trikatu/) ingredients.
+- Likely safe and well-tolerated in most people within therapeutic dosage. Higher doses may cause burning sensation and gastritis due to hot potency of [Trikatu](/herb/trikatu/) ingredients.
 - Contains approximately 70% sugar content (Sharkara); patients with diabetes or high blood sugar should consult physician before use.
 - Some formulations may contain trace heavy metals (lead, mercury, arsenic); quality-tested products from reputable manufacturers recommended. Not recommended for prolonged unsupervised use.
 

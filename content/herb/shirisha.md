@@ -28,31 +28,31 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shirisha/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Catechin](/nighantu/reference/catechin/)
+- [Catechin](/reference/catechin/)
 - D-catechin
 - Melacacidin
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 - Albiziahexoside
 - Betulnic acid
-- Echinocystic acid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides)
-- Lebbekosides A-C ([saponins](/nighantu/reference/saponins/))
-- [Friedelin](/nighantu/glossary/compounds-d-g/#friedelin)
-- [Lupeol](/nighantu/reference/lupeol/)
-- [Tannins](/nighantu/reference/tannins/)
-- [Flavonoids](/nighantu/reference/flavonoids/) ([quercetin](/nighantu/reference/quercetinquercetin/) derivatives)
+- Echinocystic acid [glycosides](/glossary/compounds-g-l/#glycosides)
+- Lebbekosides A-C ([saponins](/reference/saponins/))
+- [Friedelin](/glossary/compounds-d-g/#friedelin)
+- [Lupeol](/reference/lupeol/)
+- [Tannins](/reference/tannins/)
+- [Flavonoids](/reference/flavonoids/) ([quercetin](/reference/quercetinquercetin/) derivatives)
 
 ## How does it work?
 
-- Anti-allergic activity via catechin-mediated mast cell stabilization (IC50 85 mcg/ml) and inhibition of [histamine](/nighantu/glossary/compounds-g-l/#histamine) release from IgE-sensitized mast cells
+- Anti-allergic activity via catechin-mediated mast cell stabilization (IC50 85 mcg/ml) and inhibition of [histamine](/glossary/compounds-g-l/#histamine) release from IgE-sensitized mast cells
 - Antihistaminic action through suppression of H1 receptor gene transcription and histidine decarboxylase enzyme activity in nasal mucosa
 - Anti-inflammatory effects via saponin-mediated (echinocystic acid) inhibition of COX-2, LOX and NF-kB signaling
-- [Neuroprotective](/nighantu/reference/neuroprotective/) mechanism through modulation of unfolded protein response (UPR) and reduction of ER stress-induced apoptosis
+- [Neuroprotective](/reference/neuroprotective/) mechanism through modulation of unfolded protein response (UPR) and reduction of ER stress-induced apoptosis
 
 ## Which traditional uses are supported by research?
 
 - Anti-allergic and anti-asthmatic use validated through mast cell stabilization, antihistaminic activity and clinical studies showing improved PEFR and reduced eosinophil count
 - Anti-inflammatory use confirmed in carrageenan-induced paw edema and adjuvant arthritis models
-- Vishaghna (anti-toxic) use supported by [hepatoprotective](/nighantu/reference/hepatoprotective/) and detoxification studies
+- Vishaghna (anti-toxic) use supported by [hepatoprotective](/reference/hepatoprotective/) and detoxification studies
 - Anti-diarrheal activity confirmed through castor oil-induced diarrhea models with significant reduction in frequency
 
 ## What do recent clinical trials show?
@@ -106,14 +106,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shirisha/meta-analysis.md"
 
 - Aqueous decoction
 - Hydroalcoholic extraction (60% ethanol)
-- Maceration in [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) for nasya preparation
+- Maceration in [sesame oil](/glossary/concepts-m-y/#tila-taila) for nasya preparation
 - Soxhlet extraction for saponin enrichment
 - Traditional avaleha preparation
 
 ### Synergistic Combinations
 
-- [Haridra](/nighantu/herb/haridra/) (potent anti-allergic synergy — Shirisha-Haridra combination for allergic rhinitis)
-- [Vasa](/nighantu/herb/vasa/) (asthma and respiratory allergy formulations)
-- [Pippali](/nighantu/herb/pippali/) (Shvasa-Kasa formulations)
-- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (anti-inflammatory and anti-allergic combination)
-- [Kantakari](/nighantu/herb/kantakari/) (comprehensive anti-asthma formulation)
+- [Haridra](/herb/haridra/) (potent anti-allergic synergy — Shirisha-Haridra combination for allergic rhinitis)
+- [Vasa](/herb/vasa/) (asthma and respiratory allergy formulations)
+- [Pippali](/herb/pippali/) (Shvasa-Kasa formulations)
+- [Yashtimadhu](/herb/yashtimadhu/) (anti-inflammatory and anti-allergic combination)
+- [Kantakari](/herb/kantakari/) (comprehensive anti-asthma formulation)

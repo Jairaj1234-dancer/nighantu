@@ -40,17 +40,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Tejapatra/meta-anal
 
 **Standard Dosage:** 1-3 g powder twice daily; 30-60 mL decoction twice daily; 1-2 drops essential oil in warm water
 
-**Bioavailability:** [Eugenol](/nighantu/glossary/compounds-d-g/#eugenol) (primary constituent) exhibits rapid oral absorption with bioavailability of approximately 45-55%. Undergoes hepatic glucuronidation and sulfation. [Cinnamaldehyde](/nighantu/glossary/compounds-c-d/#cinnamaldehyde), when present, has good absorption but is rapidly metabolized to cinnamic acid and subsequently to hippuric acid. [Proanthocyanidins](/nighantu/glossary/compounds-o-q/#proanthocyanidins) from the aqueous fraction have low oral bioavailability (<10%).
+**Bioavailability:** [Eugenol](/glossary/compounds-d-g/#eugenol) (primary constituent) exhibits rapid oral absorption with bioavailability of approximately 45-55%. Undergoes hepatic glucuronidation and sulfation. [Cinnamaldehyde](/glossary/compounds-c-d/#cinnamaldehyde), when present, has good absorption but is rapidly metabolized to cinnamic acid and subsequently to hippuric acid. [Proanthocyanidins](/glossary/compounds-o-q/#proanthocyanidins) from the aqueous fraction have low oral bioavailability (<10%).
 
 **Optimal Timing:** After meals for digestive benefits; morning and evening dosing
 
-**Standardized Extract:** Essential oil standardized to >55% eugenol by GC-FID; hydroethanolic extract standardized to >4% total [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols)
+**Standardized Extract:** Essential oil standardized to >55% eugenol by GC-FID; hydroethanolic extract standardized to >4% total [polyphenols](/glossary/compounds-o-q/#polyphenols)
 
 **Shelf Life:** Dried leaves: 12 months; Essential oil: 24-36 months; Capsules/Tablets: 24 months; Tincture: 36 months
 
 **Storage:** Airtight, light-resistant containers at 15-25 deg C. Essential oil in amber glass under inert atmosphere. Dried leaves away from moisture and strong odors.
 
-**Marker Compounds:** Eugenol, Cinnamaldehyde, [Linalool](/nighantu/glossary/compounds-l-o/#linalool), alpha-Phellandrene, p-Cymene, beta-Caryophyllene, Cinnamyl acetate
+**Marker Compounds:** Eugenol, Cinnamaldehyde, [Linalool](/glossary/compounds-l-o/#linalool), alpha-Phellandrene, p-Cymene, beta-Caryophyllene, Cinnamyl acetate
 
 ### Extraction Methods
 
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Tejapatra/meta-anal
 
 ### Synergistic Combinations
 
-- [Dalchini](/nighantu/herb/twak-cinnamon/) (Cinnamomum verum) - complementary glycemic-management volatile profiles
+- [Dalchini](/herb/twak-cinnamon/) (Cinnamomum verum) - complementary glycemic-management volatile profiles
 - Ela (cardamom) - digestive synergy
-- [Lavanga](/nighantu/herb/lavanga/) (clove) - overlapping eugenol potentiation
-- Maricha ([black pepper](/nighantu/herb/black-pepper/)) - absorption enhancement
+- [Lavanga](/herb/lavanga/) (clove) - overlapping eugenol potentiation
+- Maricha ([black pepper](/herb/black-pepper/)) - absorption enhancement

@@ -36,21 +36,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Cumin/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (seed powder), Kashayam (decoction), Essential oil, Capsule, Tablet, [Jeeraka](/nighantu/herb/jeeraka/) Arishta, Roasted seed preparation
+**Dosage Forms:** Churna (seed powder), Kashayam (decoction), Essential oil, Capsule, Tablet, [Jeeraka](/herb/jeeraka/) Arishta, Roasted seed preparation
 
 **Standard Dosage:** 3-6g seed powder; 500mg extract capsule; essential oil: 1-3 drops; as culinary spice: freely; Jeerakadyarishta: 15-30ml after meals
 
-**Bioavailability:** [Cuminaldehyde](/nighantu/glossary/compounds-c-d/#cuminaldehyde) (primary volatile, 25-35% of oil) shows excellent oral bioavailability (>80%). [Thymoquinone](/nighantu/glossary/compounds-t-z/#thymoquinone) (trace) is well absorbed. Cumin enhances the activity of digestive [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) (lipase, protease, amylase) improving overall nutrient bioavailability. Roasting enhances aroma but reduces cuminaldehyde content by 15-20%. Essential oil components are rapidly absorbed from the GI tract. Iron content in cumin (66mg/100g) has moderate bioavailability enhanced by native organic acids.
+**Bioavailability:** [Cuminaldehyde](/glossary/compounds-c-d/#cuminaldehyde) (primary volatile, 25-35% of oil) shows excellent oral bioavailability (>80%). [Thymoquinone](/glossary/compounds-t-z/#thymoquinone) (trace) is well absorbed. Cumin enhances the activity of digestive [enzymes](/glossary/compounds-d-g/#enzymes) (lipase, protease, amylase) improving overall nutrient bioavailability. Roasting enhances aroma but reduces cuminaldehyde content by 15-20%. Essential oil components are rapidly absorbed from the GI tract. Iron content in cumin (66mg/100g) has moderate bioavailability enhanced by native organic acids.
 
 **Optimal Timing:** With meals or after meals for digestive support; Jeerakadyarishta after meals; roasted cumin with buttermilk after meals for digestive comfort
 
-**Standardized Extract:** Essential oil standardized to cuminaldehyde NLT 25%; oleoresin with volatile oil NLT 12%. Seed extract standardized to total [flavonoids](/nighantu/reference/flavonoids/) NLT 2%.
+**Standardized Extract:** Essential oil standardized to cuminaldehyde NLT 25%; oleoresin with volatile oil NLT 12%. Seed extract standardized to total [flavonoids](/reference/flavonoids/) NLT 2%.
 
 **Shelf Life:** 3 years (whole seeds); 1 year (ground cumin); 3 years (essential oil); 5 years (Arishta)
 
 **Storage:** Whole seeds in airtight containers (very stable). Ground cumin in airtight packaging—loses aroma rapidly. Essential oil in amber glass, cool storage. Keep away from light and moisture.
 
-**Marker Compounds:** Cuminaldehyde, Gamma-terpinene, Beta-pinene, Para-cymene, [Cuminol](/nighantu/glossary/compounds-c-d/#cuminol), [Safranal](/nighantu/glossary/compounds-q-t/#safranal), Thymoquinone (trace), [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin), [Luteolin](/nighantu/glossary/compounds-l-o/#luteolin)
+**Marker Compounds:** Cuminaldehyde, Gamma-terpinene, Beta-pinene, Para-cymene, [Cuminol](/glossary/compounds-c-d/#cuminol), [Safranal](/glossary/compounds-q-t/#safranal), Thymoquinone (trace), [Apigenin](/glossary/compounds-1-a/#apigenin), [Luteolin](/glossary/compounds-l-o/#luteolin)
 
 ### Extraction Methods
 
@@ -63,8 +63,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Cumin/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Coriander](/nighantu/herb/coriander/) and [Fennel](/nighantu/herb/fennel/) in digestive triad (Jeeraka-[Dhanyaka](/nighantu/herb/dhanyaka/)-[Mishreya](/nighantu/herb/mishreya/))
-- With [Ajwain](/nighantu/herb/ajwain/) for carminative and [antispasmodic](/nighantu/glossary/pharmacology/#antispasmodic) synergy
+- With [Coriander](/herb/coriander/) and [Fennel](/herb/fennel/) in digestive triad (Jeeraka-[Dhanyaka](/herb/dhanyaka/)-[Mishreya](/herb/mishreya/))
+- With [Ajwain](/herb/ajwain/) for carminative and [antispasmodic](/glossary/pharmacology/#antispasmodic) synergy
 - With Sunthi for digestive fire enhancement
 - With Hing (asafoetida) for bloating and flatulence
-- With [Methi](/nighantu/herb/methi/) for metabolic syndrome management
+- With [Methi](/herb/methi/) for metabolic syndrome management

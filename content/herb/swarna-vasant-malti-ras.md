@@ -23,17 +23,17 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Swarna-Vasant-Malt
 
 | Language | Name |
 |----------|------|
-| English | [Swarna Vasant Malti Ras](/nighantu/herb/swarna-vasant-malti-ras/) |
+| English | [Swarna Vasant Malti Ras](/herb/swarna-vasant-malti-ras/) |
 
 ## How does it work?
 
-- [Swarna Bhasma](/nighantu/herb/swarna-bhasma/) (gold nanoparticles) acts as an immunomodulator and [Rasayana](/nighantu/reference/rasayana/), enhancing cellular immunity and tissue regeneration through interactions with immune cell receptors
-- Mukta Bhasma provides bioavailable calcium and conchiolin [peptides](/nighantu/glossary/compounds-o-q/#peptides) that exert cooling, anti-inflammatory and antacid effects, pacifying Pitta dosha
-- Gold preparation increases sperm motility and prostatic activity, suggesting a hormonal modulation mechanism relevant to its traditional use as a [Vajikarana](/nighantu/glossary/pharmacology/#vajikarana) ([aphrodisiac](/nighantu/glossary/pharmacology/#aphrodisiac))
+- [Swarna Bhasma](/herb/swarna-bhasma/) (gold nanoparticles) acts as an immunomodulator and [Rasayana](/reference/rasayana/), enhancing cellular immunity and tissue regeneration through interactions with immune cell receptors
+- Mukta Bhasma provides bioavailable calcium and conchiolin [peptides](/glossary/compounds-o-q/#peptides) that exert cooling, anti-inflammatory and antacid effects, pacifying Pitta dosha
+- Gold preparation increases sperm motility and prostatic activity, suggesting a hormonal modulation mechanism relevant to its traditional use as a [Vajikarana](/glossary/pharmacology/#vajikarana) ([aphrodisiac](/glossary/pharmacology/#aphrodisiac))
 
 ## Which traditional uses are supported by research?
 
-- Rejuvenative and [immunomodulatory](/nighantu/reference/immunomodulatory/): The clinical study confirmed systemic bioavailability of gold and absence of acute toxicity, partially supporting the traditional Rasayana (rejuvenative) claim, though large-scale controlled trials are needed
+- Rejuvenative and [immunomodulatory](/reference/immunomodulatory/): The clinical study confirmed systemic bioavailability of gold and absence of acute toxicity, partially supporting the traditional Rasayana (rejuvenative) claim, though large-scale controlled trials are needed
 - Chronic fever and respiratory conditions: Traditional use in Jirna Jwara (chronic fever), Kasa (cough), and Shwasa (asthma) is empirically supported by clinical practice but lacks rigorous clinical trial validation
 
 ## What do recent clinical trials show?
@@ -67,16 +67,16 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Swarna-Vasant-Malt
 
 **Bioavailability:** Excellent; gold-containing Rasaushadhi with broad-spectrum action
 
-**Optimal Timing:** Morning with honey and ghee; or with [Chyawanprash](/nighantu/formulation/chyawanprash/)
+**Optimal Timing:** Morning with honey and ghee; or with [Chyawanprash](/formulation/chyawanprash/)
 
-**Standardized Extract:** Kajjali + [Swarna Bhasma](/nighantu/herb/swarna-bhasma/) + Mukta Bhasma + potent Rasayana herbs
+**Standardized Extract:** Kajjali + [Swarna Bhasma](/herb/swarna-bhasma/) + Mukta Bhasma + potent Rasayana herbs
 
 **Shelf Life:** Indefinite
 
 **Storage:** Airtight, premium container
 
-**Marker Compounds:** Gold nanoparticles, Pearl calcium, Mercury sulfide, [Saffron](/nighantu/herb/saffron/) (Kesar)
+**Marker Compounds:** Gold nanoparticles, Pearl calcium, Mercury sulfide, [Saffron](/herb/saffron/) (Kesar)
 
 **Quality Parameters:** Gold content verified, pearl content, standard Rasaushadhi tests
 
-**Vehicle (Anupana):** Honey + ghee, [Chyawanprash](/nighantu/formulation/chyawanprash/), [Guduchi](/nighantu/herb/guduchi/) Swarasa, or milk
+**Vehicle (Anupana):** Honey + ghee, [Chyawanprash](/formulation/chyawanprash/), [Guduchi](/herb/guduchi/) Swarasa, or milk

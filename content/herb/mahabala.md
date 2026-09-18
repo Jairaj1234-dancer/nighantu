@@ -28,26 +28,26 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mahabala/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- Ephedrine and [pseudoephedrine](/nighantu/glossary/compounds-o-q/#pseudoephedrine) ([alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids))
+- Ephedrine and [pseudoephedrine](/glossary/compounds-o-q/#pseudoephedrine) ([alkaloids](/glossary/compounds-1-a/#alkaloids))
 - Cryptolepine
 - Ecdysteroids (including 20-hydroxyecdysone)
-- [Flavonoids](/nighantu/reference/flavonoids/) ([kaempferol](/nighantu/reference/kaempferol/), [quercetin](/nighantu/reference/quercetinquercetin/) derivatives)
+- [Flavonoids](/reference/flavonoids/) ([kaempferol](/reference/kaempferol/), [quercetin](/reference/quercetinquercetin/) derivatives)
 - Phenolic compounds
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
-- [Mucilage](/nighantu/glossary/compounds-l-o/#mucilage)
-- [Saponins](/nighantu/reference/saponins/)
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
+- [Mucilage](/glossary/compounds-l-o/#mucilage)
+- [Saponins](/reference/saponins/)
 - Fatty acids (linoleic, palmitic)
 
 ## How does it work?
 
 - Anti-inflammatory mechanism through inhibition of COX-2 and prostaglandin synthesis, with ecdysteroids contributing to tissue repair and regeneration
-- [Analgesic](/nighantu/reference/analgesic/) action through both central and peripheral pain pathway modulation, with alkaloid fraction (ephedrine-related compounds) contributing to bronchodilatory effects
+- [Analgesic](/reference/analgesic/) action through both central and peripheral pain pathway modulation, with alkaloid fraction (ephedrine-related compounds) contributing to bronchodilatory effects
 - Antimalarial mechanism involving disruption of Plasmodium parasite erythrocytic stages, with cryptolepine showing potent antiplasmodial activity
 
 ## Which traditional uses are supported by research?
 
 - Anti-inflammatory and analgesic properties validated through multiple in vivo models, confirming traditional use in Vataroga (joint and muscular conditions)
-- [Antimicrobial](/nighantu/reference/antimicrobial/) activity confirmed against bacteria and fungi, supporting traditional use in wound healing and infectious conditions
+- [Antimicrobial](/reference/antimicrobial/) activity confirmed against bacteria and fungi, supporting traditional use in wound healing and infectious conditions
 - Antimalaria activity validated against Plasmodium species, confirming ethnomedicinal use in fever and malaria treatment
 
 ## What do recent clinical trials show?
@@ -81,21 +81,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mahabala/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Kwatha (decoction), Taila (medicated oil), Capsules, Tablets, [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Basti preparations (enema)
+**Dosage Forms:** Churna (powder), Kwatha (decoction), Taila (medicated oil), Capsules, Tablets, [Ghrita](/herb/ghrita/) (medicated ghee), Basti preparations (enema)
 
 **Standard Dosage:** 3-6 g root powder per day; 50-100 mL decoction twice daily; Taila for external application as directed; 500-1000 mg extract capsules twice daily
 
-**Bioavailability:** Moderate oral bioavailability. Ephedrine-type alkaloids (in some Sida species) show good absorption with 85-95% oral bioavailability. Ecdysteroids show limited but consistent absorption (10-15%). Mucilaginous [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides) are not absorbed but exert prebiotic effects. Oil-based preparations (Taila, Ghrita) significantly enhance absorption of lipophilic [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids).
+**Bioavailability:** Moderate oral bioavailability. Ephedrine-type alkaloids (in some Sida species) show good absorption with 85-95% oral bioavailability. Ecdysteroids show limited but consistent absorption (10-15%). Mucilaginous [polysaccharides](/glossary/compounds-o-q/#polysaccharides) are not absorbed but exert prebiotic effects. Oil-based preparations (Taila, Ghrita) significantly enhance absorption of lipophilic [terpenoids](/glossary/compounds-t-z/#terpenoids).
 
 **Optimal Timing:** Morning for tonic and strength-building effects; before meals with warm water or milk; Taila application morning and evening with gentle massage; Basti as per Panchakarma schedule
 
-**Standardized Extract:** Root extract (8:1 hydroalcoholic) standardized to minimum 0.5% total alkaloids and 0.3% [ecdysterone](/nighantu/glossary/compounds-d-g/#ecdysterone). Mahabala Taila prepared per AFI guidelines. Mucilage-free extract for capsule filling.
+**Standardized Extract:** Root extract (8:1 hydroalcoholic) standardized to minimum 0.5% total alkaloids and 0.3% [ecdysterone](/glossary/compounds-d-g/#ecdysterone). Mahabala Taila prepared per AFI guidelines. Mucilage-free extract for capsule filling.
 
 **Shelf Life:** 24 months for root powder; 30 months for tablets/capsules; 36 months for Taila; 24 months for Ghrita preparations
 
 **Storage:** Root powder in airtight containers below 25 deg C. Taila in amber glass bottles, protected from light, at room temperature. Ghrita in clean, dry glass or stainless steel containers. All forms protected from moisture.
 
-**Marker Compounds:** Ecdysterone (20-hydroxyecdysone), Cryptolepine, Quindoline, Quindimine, Beta-sitosterol, [Stigmasterol](/nighantu/reference/stigmasterol/), Mucilage polysaccharides, Ephedrine (trace, species-dependent)
+**Marker Compounds:** Ecdysterone (20-hydroxyecdysone), Cryptolepine, Quindoline, Quindimine, Beta-sitosterol, [Stigmasterol](/reference/stigmasterol/), Mucilage polysaccharides, Ephedrine (trace, species-dependent)
 
 ### Extraction Methods
 
@@ -108,8 +108,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mahabala/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Bala](/nighantu/herb/bala/) (complementary strength-building)
-- [Ashwagandha](/nighantu/herb/ashwagandha/) ([adaptogenic](/nighantu/reference/adaptogenic/) and musculoskeletal synergy)
-- [Rasna](/nighantu/herb/rasna/) (anti-inflammatory for joint conditions)
+- [Bala](/herb/bala/) (complementary strength-building)
+- [Ashwagandha](/herb/ashwagandha/) ([adaptogenic](/reference/adaptogenic/) and musculoskeletal synergy)
+- [Rasna](/herb/rasna/) (anti-inflammatory for joint conditions)
 - Dashamula (anti-Vata polyherbal combination)
-- [Eranda](/nighantu/herb/eranda/) Taila (joint lubrication and anti-inflammatory)
+- [Eranda](/herb/eranda/) Taila (joint lubrication and anti-inflammatory)

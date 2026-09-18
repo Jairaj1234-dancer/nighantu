@@ -23,22 +23,22 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Rakta-Chandana/meta-analysis.md
 
 | Language | Name |
 |----------|------|
-| English | Rakta [Chandana](/nighantu/herb/chandana/)|Rakta Chandana |
+| English | Rakta [Chandana](/herb/chandana/)|Rakta Chandana |
 | Latin/Botanical | *Pterocarpus santalinus L.f.* |
 
 ## Key Phytochemical Constituents
 
-- [Pterostilbene](/nighantu/glossary/compounds-o-q/#pterostilbene) (stilbenoid - potent [antioxidant](/nighantu/reference/antioxidant/) and anti-aging agent)
+- [Pterostilbene](/glossary/compounds-o-q/#pterostilbene) (stilbenoid - potent [antioxidant](/reference/antioxidant/) and anti-aging agent)
 - Santalin A and Santalin B (red pigment compounds)
 - Savinin (lignan with UV-protective properties)
-- [Betulin](/nighantu/glossary/compounds-a-c/#betulin) (pentacyclic triterpenoid)
-- [Isoflavonoids](/nighantu/glossary/compounds-g-l/#isoflavonoids) (pterocarpan derivatives)
-- beta-[Sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
-- [Lupeol](/nighantu/reference/lupeol/) (triterpenoid)
+- [Betulin](/glossary/compounds-a-c/#betulin) (pentacyclic triterpenoid)
+- [Isoflavonoids](/glossary/compounds-g-l/#isoflavonoids) (pterocarpan derivatives)
+- beta-[Sitosterol](/glossary/compounds-q-t/#sitosterol)
+- [Lupeol](/reference/lupeol/) (triterpenoid)
 
 ## How does it work?
 
-- [Pterostilbene](/nighantu/glossary/compounds-o-q/#pterostilbene)-mediated Nrf2 activation: [Pterostilbene](/nighantu/glossary/compounds-o-q/#pterostilbene) activates the Nrf2/ARE antioxidant defense pathway, upregulating endogenous antioxidant [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) (SOD, catalase, glutathione peroxidase) to protect skin from oxidative damage and photoaging
+- [Pterostilbene](/glossary/compounds-o-q/#pterostilbene)-mediated Nrf2 activation: [Pterostilbene](/glossary/compounds-o-q/#pterostilbene) activates the Nrf2/ARE antioxidant defense pathway, upregulating endogenous antioxidant [enzymes](/glossary/compounds-d-g/#enzymes) (SOD, catalase, glutathione peroxidase) to protect skin from oxidative damage and photoaging
 - Selective NF-kB inflammatory gene suppression: Red sandalwood extract selectively inhibits pro-inflammatory gene expression (VCAM-1, E-selectin, IL-8) without broadly suppressing all NF-kB targets, providing targeted anti-inflammatory action
 - Collagen synthesis and wound healing: Betulin and triterpenoid constituents promote fibroblast proliferation and collagen deposition, accelerating wound closure and tissue regeneration
 - UV-B photoprotection via savinin: Lignan compound savinin absorbs UV-B radiation and protects keratinocytes from photodamage
@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Rakta-Chandana/meta-analysis.md
 
 - Wound healing (Vranaropana): Validated in animal models showing significantly accelerated healing of punch and burn wounds with enhanced collagen synthesis
 - Anti-inflammatory skin care (Daha-shamana): Validated by in vitro studies showing selective inhibition of pro-inflammatory genes in IL-1 stimulated cells
-- Complexion enhancement (Varnya): Traditional face pack use partially supported by antioxidant activity of [pterostilbene](/nighantu/glossary/compounds-o-q/#pterostilbene), though large-scale clinical trials are lacking
+- Complexion enhancement (Varnya): Traditional face pack use partially supported by antioxidant activity of [pterostilbene](/glossary/compounds-o-q/#pterostilbene), though large-scale clinical trials are lacking
 
 ## What do recent clinical trials show?
 
@@ -84,11 +84,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Rakta-Chandana/meta-analysis.md
 
 **Standard Dosage:** 1-3 g heartwood powder twice daily; 15-20 mL decoction twice daily; 500 mg standardized extract twice daily; topical paste as needed
 
-**Bioavailability:** [Pterostilbene](/nighantu/glossary/compounds-o-q/#pterostilbene) from Pterocarpus santalinus (Red Sandalwood) has good oral bioavailability (~60-80%), significantly better than its analog [resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol), due to two methoxy groups reducing glucuronidation. Santalin A and B (red pigments) have limited oral bioavailability due to large molecular size. Isoflavonoids show moderate absorption (20-35%). Topical application delivers bioactives effectively for skin conditions.
+**Bioavailability:** [Pterostilbene](/glossary/compounds-o-q/#pterostilbene) from Pterocarpus santalinus (Red Sandalwood) has good oral bioavailability (~60-80%), significantly better than its analog [resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol), due to two methoxy groups reducing glucuronidation. Santalin A and B (red pigments) have limited oral bioavailability due to large molecular size. Isoflavonoids show moderate absorption (20-35%). Topical application delivers bioactives effectively for skin conditions.
 
 **Optimal Timing:** Oral: after meals with warm water. Topical paste: apply for 20-30 minutes, wash off. Best applied in evening for facial preparations. Oil: massage at night.
 
-**Standardized Extract:** Rakta-[Chandana](/nighantu/herb/chandana/) heartwood extract (10:1) standardized to [pterostilbene](/nighantu/glossary/compounds-o-q/#pterostilbene) >1%, total santalins >5%, total isoflavonoids >3%. Fine powder (200 mesh) for cosmetic Lepa applications. CITES-compliant sourcing documentation mandatory.
+**Standardized Extract:** Rakta-[Chandana](/herb/chandana/) heartwood extract (10:1) standardized to [pterostilbene](/glossary/compounds-o-q/#pterostilbene) >1%, total santalins >5%, total isoflavonoids >3%. Fine powder (200 mesh) for cosmetic Lepa applications. CITES-compliant sourcing documentation mandatory.
 
 **Shelf Life:** Heartwood: 36-60 months (very stable); Powder: 24-36 months; Extract: 24-36 months; Capsules: 24-36 months; Taila: 24-36 months
 
@@ -107,8 +107,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Rakta-Chandana/meta-analysis.md
 
 ### Synergistic Combinations
 
-- [Chandana](/nighantu/herb/chandana/)/White sandalwood (combined sandalwood cooling formulation)
-- [Manjistha](/nighantu/herb/manjistha/) (blood purification and complexion)
-- [Padmaka](/nighantu/herb/padmaka/) (skin-brightening combination)
-- [Haridra](/nighantu/herb/haridra/) (anti-inflammatory paste for skin)
+- [Chandana](/herb/chandana/)/White sandalwood (combined sandalwood cooling formulation)
+- [Manjistha](/herb/manjistha/) (blood purification and complexion)
+- [Padmaka](/herb/padmaka/) (skin-brightening combination)
+- [Haridra](/herb/haridra/) (anti-inflammatory paste for skin)
 - Kumari/Aloe (moisturizing and skin-healing combination)

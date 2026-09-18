@@ -31,25 +31,25 @@ Bhaishajya Ratnavali (Agnimandya / Pandu Rogadhikara). Also referenced in Ayurve
 
 ## How does it work?
 
-- Peripheral [analgesic](/nighantu/reference/analgesic/) action: Grape-derived [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) ([resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol), [catechin](/nighantu/reference/catechin/), gallic acid) inhibit prostaglandin synthesis at peripheral inflammation sites.
+- Peripheral [analgesic](/reference/analgesic/) action: Grape-derived [polyphenols](/glossary/compounds-o-q/#polyphenols) ([resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol), [catechin](/reference/catechin/), gallic acid) inhibit prostaglandin synthesis at peripheral inflammation sites.
 - Anti-inflammatory pathway: Suppresses inflammatory pain through COX-mediated pathways (effective against carrageenan-induced inflammation but not neurogenic pain).
 - Digestive enzyme stimulation: Polyphenols and fermentation metabolites modulate pepsin, amylase, and lipase secretion, improving nutrient absorption.
-- [Antioxidant](/nighantu/reference/antioxidant/) protection: [Resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol) and catechin provide potent free radical scavenging, protecting tissues from oxidative stress during convalescence.
-- Fermentation-enhanced bioavailability: Self-generated alcohol and organic acids from [Dhataki](/nighantu/herb/dhataki/)-mediated fermentation improve solubility and absorption of lipophilic grape polyphenols.
+- [Antioxidant](/reference/antioxidant/) protection: [Resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol) and catechin provide potent free radical scavenging, protecting tissues from oxidative stress during convalescence.
+- Fermentation-enhanced bioavailability: Self-generated alcohol and organic acids from [Dhataki](/herb/dhataki/)-mediated fermentation improve solubility and absorption of lipophilic grape polyphenols.
 
 ## Which traditional uses are supported by research?
 
 - Anti-inflammatory and analgesic effects (validated by carrageenan-induced paw edema and acetic acid writhing models)
 - General debility and convalescence (validated by clinical observations of improved appetite and energy)
 - Digestive impairment (validated by emerging digestive enzyme modulation research)
-- Antioxidant tissue protection (validated by [resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol) and catechin biomarker identification in TLC profiling)
+- Antioxidant tissue protection (validated by [resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol) and catechin biomarker identification in TLC profiling)
 
 ## What do recent clinical trials show?
 
 - Kabir AU, Samad MB, D Costa NM and others 2012. [Investigation of the central and peripheral analgesic and anti-inflammatory activity of Draksharishta an Indian Ayurvedic formulation](https://pubmed.ncbi.nlm.nih.gov/24826047/). *Journal of basic and clinical pharmacy*. PMID [24826047](https://pubmed.ncbi.nlm.nih.gov/24826047/) · [doi:10.4103/0976-0105.105335](https://doi.org/10.4103/0976-0105.105335)  
   Carrageenan-induced paw edema and acetic acid writhing tests showed significant results (P < 0.05), indicating peripheral analgesic and anti-inflammatory action. DRK significantly suppressed inflammatory pain (P < 0.05) but not neurogenic pain.
 - Pillai D, Pandita N 2016. [Determination of Quality Standards for Draksharishta, a Polyherbal Ayurvedic Formulation](https://pubmed.ncbi.nlm.nih.gov/27168691/). *Indian journal of pharmaceutical sciences*. PMID [27168691](https://pubmed.ncbi.nlm.nih.gov/27168691/) · [doi:10.4103/0250-474x.180262](https://doi.org/10.4103/0250-474x.180262)  
-  TLC profiling identified gallic acid, catechin, and [resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol) as key bioactive markers. Established physicochemical quality standards including pH, specific gravity, alcohol content, total solids, and reducing sugars.
+  TLC profiling identified gallic acid, catechin, and [resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol) as key bioactive markers. Established physicochemical quality standards including pH, specific gravity, alcohol content, total solids, and reducing sugars.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
@@ -74,7 +74,7 @@ Bhaishajya Ratnavali (Agnimandya / Pandu Rogadhikara). Also referenced in Ayurve
 
 **Standard Dosage:** 15-30 mL twice daily after meals with equal water, as per AFI Part I
 
-**Bioavailability:** Fermentation enhances [resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol) and polyphenol extraction. Alcohol medium improves lipophilic polyphenol absorption. Natural grape sugars partially convert to alcohol during fermentation, generating novel bioactive esters. Superior polyphenol bioavailability compared to simple decoction.
+**Bioavailability:** Fermentation enhances [resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol) and polyphenol extraction. Alcohol medium improves lipophilic polyphenol absorption. Natural grape sugars partially convert to alcohol during fermentation, generating novel bioactive esters. Superior polyphenol bioavailability compared to simple decoction.
 
 **Optimal Timing:** After meals, twice daily. Useful as general tonic and for debility.
 
@@ -82,15 +82,15 @@ Bhaishajya Ratnavali (Agnimandya / Pandu Rogadhikara). Also referenced in Ayurve
 
 **Storage:** Store in well-closed amber glass or HDPE containers in a cool, dry place. Temperature not exceeding 30°C. Protect from sunlight.
 
-**Marker Compounds:** [Resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol), Trans-resveratrol, [Quercetin](/nighantu/reference/quercetinquercetin/), Gallic acid, Catechin, Tartaric acid
+**Marker Compounds:** [Resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol), Trans-resveratrol, [Quercetin](/reference/quercetinquercetin/), Gallic acid, Catechin, Tartaric acid
 
-**Quality Parameters:** pH (3.0-4.5), specific gravity (1.03-1.07), self-generated alcohol (5-12%), total solids, total sugar (higher than most Arishtas due to [Draksha](/nighantu/herb/draksha/)), total acidity, resveratrol content, total polyphenols, microbial limits, heavy metals, absence of methanol
+**Quality Parameters:** pH (3.0-4.5), specific gravity (1.03-1.07), self-generated alcohol (5-12%), total solids, total sugar (higher than most Arishtas due to [Draksha](/herb/draksha/)), total acidity, resveratrol content, total polyphenols, microbial limits, heavy metals, absence of methanol
 
 **Vehicle (Anupana):** Equal quantity of water
 
 ### Synergistic Combinations
 
-- [Abhayarishta](/nighantu/formulation/abhayarishta/)
-- [Lohasava](/nighantu/herb/lohasava/)
+- [Abhayarishta](/formulation/abhayarishta/)
+- [Lohasava](/herb/lohasava/)
 - Punarnavadi Mandura
-- [Dhatri Loha](/nighantu/herb/dhatri-loha/)
+- [Dhatri Loha](/herb/dhatri-loha/)

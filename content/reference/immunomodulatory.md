@@ -23,60 +23,60 @@ srcRel: "_Hub/Pharmacology/Immunomodulatory.md"
 
 ## Ayurveda (143)
 
-- [Abhraka Bhasma](/nighantu/herb/abhraka-bhasma/)
-- [Agastya Haritaki Rasayana](/nighantu/formulation/agastya-haritaki-rasayana/)
-- [Aja Dugdha Goat Milk](/nighantu/herb/aja-dugdha-goat-milk/)
-- [Akarakarabha](/nighantu/herb/akarakarabha/) — *Anacyclus pyrethrum (L.) Lag.*
-- [Alabu](/nighantu/herb/alabu/) — *Lagenaria siceraria (Molina) Standl.*
-- [Aloe Vera](/nighantu/herb/aloe-vera/) — *Aloe barbadensis Mill. (syn. [Aloe vera](/nighantu/herb/aloe-vera/) (L.) Burm.f.)*
-- [Amalaki Rasayana](/nighantu/formulation/amalaki-rasayana/)
-- [Amla](/nighantu/herb/amla/) — *Phyllanthus emblica (syn. Emblica officinalis)*
-- [Amra](/nighantu/herb/amra/) — *Mangifera indica L.*
-- [Amrita Ghrita](/nighantu/formulation/amrita-ghrita/)
-- [Amritottaram Kashayam](/nighantu/formulation/amritottaram-kashayam/)
-- [Aravindasava](/nighantu/formulation/aravindasava/)
-- [Ashwagandharishta](/nighantu/formulation/ashwagandharishta/)
-- [Badara](/nighantu/herb/badara/)
-- [Bakuchi Taila](/nighantu/formulation/bakuchi-taila/)
-- [Balarishta](/nighantu/formulation/balarishta/)
-- [Bhadra](/nighantu/herb/bhadra/) — *Aerva lanata (L.) Juss. ex Schult.*
-- [Bhunimba](/nighantu/herb/bhunimba/)
-- [Bitter Gourd Herb](/nighantu/herb/bitter-gourd-herb/)
-- [Brahma Rasayana](/nighantu/formulation/brahma-rasayana/)
-- [Chandrashura](/nighantu/herb/chandrashura/) — *Lepidium sativum L.*
-- [Chavika](/nighantu/herb/chavika/)
-- [Chhatraka](/nighantu/herb/chhatraka/) — *Agaricus campestris L.*
-- [Chitrakaharitaki](/nighantu/herb/chitrakaharitaki/) — *Polyherbal formulation: Plumbago zeylanica ([Chitrak](/nighantu/herb/chitrak/)) + Terminalia chebula ([Haritaki](/nighantu/herb/haritaki/)) as principal herbs*
-- [Chopchini](/nighantu/herb/chopchini/) — *Smilax china L.*
-- [Chyawanprash](/nighantu/formulation/chyawanprash/)
-- [Dadhi](/nighantu/herb/dadhi/)
-- [Danti](/nighantu/herb/danti/) — *Baliospermum montanum (Willd.) Muell.-Arg.*
-- [Dhatri Loha](/nighantu/herb/dhatri-loha/)
-- [Drakshavaleha](/nighantu/herb/drakshavaleha/)
-- [Elakanadi Kashayam](/nighantu/formulation/elakanadi-kashayam/)
-- [Eranda](/nighantu/herb/eranda/) — *Ricinus communis L.*
-- [Eranda Patra](/nighantu/herb/eranda-patra/) — *Ricinus communis L. (leaves)*
-- [Gambhari](/nighantu/herb/gambhari/) — *Gmelina arborea Roxb.*
-- [Gambhari Phala](/nighantu/herb/gambhari-phala/) — *Gmelina arborea Roxb.*
-- [Gandhak Rasayan](/nighantu/herb/gandhak-rasayan/) — *Purified Sulfur (Shuddha Gandhak) - mineral preparation*
-- [Giloy](/nighantu/herb/guduchi/) — *Tinospora cordifolia*
-- [Giloy Satva](/nighantu/herb/giloy-satva/) — *Tinospora cordifolia (Willd.) Miers (aqueous starch extract)*
+- [Abhraka Bhasma](/herb/abhraka-bhasma/)
+- [Agastya Haritaki Rasayana](/formulation/agastya-haritaki-rasayana/)
+- [Aja Dugdha Goat Milk](/herb/aja-dugdha-goat-milk/)
+- [Akarakarabha](/herb/akarakarabha/) — *Anacyclus pyrethrum (L.) Lag.*
+- [Alabu](/herb/alabu/) — *Lagenaria siceraria (Molina) Standl.*
+- [Aloe Vera](/herb/aloe-vera/) — *Aloe barbadensis Mill. (syn. [Aloe vera](/herb/aloe-vera/) (L.) Burm.f.)*
+- [Amalaki Rasayana](/formulation/amalaki-rasayana/)
+- [Amla](/herb/amla/) — *Phyllanthus emblica (syn. Emblica officinalis)*
+- [Amra](/herb/amra/) — *Mangifera indica L.*
+- [Amrita Ghrita](/formulation/amrita-ghrita/)
+- [Amritottaram Kashayam](/formulation/amritottaram-kashayam/)
+- [Aravindasava](/formulation/aravindasava/)
+- [Ashwagandharishta](/formulation/ashwagandharishta/)
+- [Badara](/herb/badara/)
+- [Bakuchi Taila](/formulation/bakuchi-taila/)
+- [Balarishta](/formulation/balarishta/)
+- [Bhadra](/herb/bhadra/) — *Aerva lanata (L.) Juss. ex Schult.*
+- [Bhunimba](/herb/bhunimba/)
+- [Bitter Gourd Herb](/herb/bitter-gourd-herb/)
+- [Brahma Rasayana](/formulation/brahma-rasayana/)
+- [Chandrashura](/herb/chandrashura/) — *Lepidium sativum L.*
+- [Chavika](/herb/chavika/)
+- [Chhatraka](/herb/chhatraka/) — *Agaricus campestris L.*
+- [Chitrakaharitaki](/herb/chitrakaharitaki/) — *Polyherbal formulation: Plumbago zeylanica ([Chitrak](/herb/chitrak/)) + Terminalia chebula ([Haritaki](/herb/haritaki/)) as principal herbs*
+- [Chopchini](/herb/chopchini/) — *Smilax china L.*
+- [Chyawanprash](/formulation/chyawanprash/)
+- [Dadhi](/herb/dadhi/)
+- [Danti](/herb/danti/) — *Baliospermum montanum (Willd.) Muell.-Arg.*
+- [Dhatri Loha](/herb/dhatri-loha/)
+- [Drakshavaleha](/herb/drakshavaleha/)
+- [Elakanadi Kashayam](/formulation/elakanadi-kashayam/)
+- [Eranda](/herb/eranda/) — *Ricinus communis L.*
+- [Eranda Patra](/herb/eranda-patra/) — *Ricinus communis L. (leaves)*
+- [Gambhari](/herb/gambhari/) — *Gmelina arborea Roxb.*
+- [Gambhari Phala](/herb/gambhari-phala/) — *Gmelina arborea Roxb.*
+- [Gandhak Rasayan](/herb/gandhak-rasayan/) — *Purified Sulfur (Shuddha Gandhak) - mineral preparation*
+- [Giloy](/herb/guduchi/) — *Tinospora cordifolia*
+- [Giloy Satva](/herb/giloy-satva/) — *Tinospora cordifolia (Willd.) Miers (aqueous starch extract)*
 
 ## Related Body Systems
 
-- [Anti-inflammatory & Pain](/nighantu/reference/antiinflammatory-pain/)
-- [Brain & Nervous System](/nighantu/reference/brain-nervous-system/)
-- [Diabetes & Metabolism](/nighantu/reference/diabetes-metabolism/)
-- [Digestive Health](/nighantu/reference/digestive-health/)
-- [Eye Health](/nighantu/reference/eye-health/)
-- [Fever & Infection](/nighantu/reference/fever-infection/)
-- [Hair Health](/nighantu/glossary/body-systems/#hair-health)
-- [Heart & Cardiovascular](/nighantu/reference/heart-cardiovascular/)
-- [Immune System & Rasayana](/nighantu/reference/immune-system-rasayana/)
-- [Joint & Musculoskeletal](/nighantu/reference/joint-musculoskeletal/)
-- [Kidney & Urinary](/nighantu/reference/kidney-urinary/)
-- [Liver & Detoxification](/nighantu/reference/liver-detoxification/)
-- [Men's Health & Vitality](/nighantu/reference/mens-health-vitality/)
-- [Respiratory Health](/nighantu/reference/respiratory-health/)
-- [Skin & Beauty](/nighantu/reference/skin-beauty/)
-- [Women's Health](/nighantu/reference/womens-health/)
+- [Anti-inflammatory & Pain](/reference/antiinflammatory-pain/)
+- [Brain & Nervous System](/reference/brain-nervous-system/)
+- [Diabetes & Metabolism](/reference/diabetes-metabolism/)
+- [Digestive Health](/reference/digestive-health/)
+- [Eye Health](/reference/eye-health/)
+- [Fever & Infection](/reference/fever-infection/)
+- [Hair Health](/glossary/body-systems/#hair-health)
+- [Heart & Cardiovascular](/reference/heart-cardiovascular/)
+- [Immune System & Rasayana](/reference/immune-system-rasayana/)
+- [Joint & Musculoskeletal](/reference/joint-musculoskeletal/)
+- [Kidney & Urinary](/reference/kidney-urinary/)
+- [Liver & Detoxification](/reference/liver-detoxification/)
+- [Men's Health & Vitality](/reference/mens-health-vitality/)
+- [Respiratory Health](/reference/respiratory-health/)
+- [Skin & Beauty](/reference/skin-beauty/)
+- [Women's Health](/reference/womens-health/)

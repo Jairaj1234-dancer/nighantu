@@ -23,38 +23,38 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bilwa-Patra/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | [Bilwa Patra](/nighantu/herb/bilwa-patra/) |
+| English | [Bilwa Patra](/herb/bilwa-patra/) |
 | Latin/Botanical | *Aegle marmelos (L.) Correa (leaves)* |
 
 ## Key Phytochemical Constituents
 
-- [Aegeline](/nighantu/glossary/compounds-1-a/#aegeline)
+- [Aegeline](/glossary/compounds-1-a/#aegeline)
 - Fragrine
 - Aegelenine
-- [Skimmianine](/nighantu/glossary/compounds-q-t/#skimmianine)
+- [Skimmianine](/glossary/compounds-q-t/#skimmianine)
 - Marmesin
-- [Rutin](/nighantu/glossary/compounds-q-t/#rutin)
-- [Eugenol](/nighantu/glossary/compounds-d-g/#eugenol)
+- [Rutin](/glossary/compounds-q-t/#rutin)
+- [Eugenol](/glossary/compounds-d-g/#eugenol)
 - Marmesinin
-- [Luvangetin](/nighantu/glossary/compounds-l-o/#luvangetin)
-- Essential oils ([cineole](/nighantu/glossary/compounds-c-d/#cineole), caryophyllene)
+- [Luvangetin](/glossary/compounds-l-o/#luvangetin)
+- Essential oils ([cineole](/glossary/compounds-c-d/#cineole), caryophyllene)
 
 ## How does it work?
 
-- Aegeline activates PPAR-gamma receptors in adipose and muscle tissue, enhancing insulin sensitivity and [glucose](/nighantu/glossary/compounds-d-g/#glucose) uptake, providing the mechanistic basis for hypoglycemic activity
-- Skimmianine and marmesin exhibit [antimicrobial](/nighantu/reference/antimicrobial/) activity through inhibition of bacterial DNA gyrase and disruption of fungal [ergosterol](/nighantu/glossary/compounds-d-g/#ergosterol) biosynthesis
-- Leaf essential oils (eugenol, cineole) provide anti-inflammatory effects through inhibition of COX-2 and LOX [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) and suppression of NF-kB nuclear translocation
+- Aegeline activates PPAR-gamma receptors in adipose and muscle tissue, enhancing insulin sensitivity and [glucose](/glossary/compounds-d-g/#glucose) uptake, providing the mechanistic basis for hypoglycemic activity
+- Skimmianine and marmesin exhibit [antimicrobial](/reference/antimicrobial/) activity through inhibition of bacterial DNA gyrase and disruption of fungal [ergosterol](/glossary/compounds-d-g/#ergosterol) biosynthesis
+- Leaf essential oils (eugenol, cineole) provide anti-inflammatory effects through inhibition of COX-2 and LOX [enzymes](/glossary/compounds-d-g/#enzymes) and suppression of NF-kB nuclear translocation
 
 ## Which traditional uses are supported by research?
 
-- Hypoglycemic/[antidiabetic](/nighantu/reference/antidiabetic/) activity of bael leaves validated through multiple in vivo studies and limited clinical evidence supporting traditional use for Prameha (diabetes) in Ayurveda
+- Hypoglycemic/[antidiabetic](/reference/antidiabetic/) activity of bael leaves validated through multiple in vivo studies and limited clinical evidence supporting traditional use for Prameha (diabetes) in Ayurveda
 - Antimicrobial and anti-infective properties confirmed in vitro against multiple pathogens, supporting traditional use of leaf paste/decoction for infectious diseases
-- Anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) effects validated in carrageenan-induced paw edema models, supporting traditional use for Shotha (inflammation) and pain conditions
+- Anti-inflammatory and [analgesic](/reference/analgesic/) effects validated in carrageenan-induced paw edema models, supporting traditional use for Shotha (inflammation) and pain conditions
 
 ## What do recent clinical trials show?
 
 - Sharma A, Gugulothu D, Virmani T and others 2025. [Ethnopharmacological Profile, Phytochemistry and Therapeutic Potential of Aegle marmelos L. for the Treatment of Neurological Disorders](https://pubmed.ncbi.nlm.nih.gov/40535825/). *Journal of nutrition and metabolism*. PMID [40535825](https://pubmed.ncbi.nlm.nih.gov/40535825/) · [doi:10.1155/jnme/2275526](https://doi.org/10.1155/jnme/2275526)  
-  Bioactive compounds from bael leaves including [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids), [flavonoids](/nighantu/reference/flavonoids/), and essential oils show therapeutic potential for neurological disorders through [neuroprotective](/nighantu/reference/neuroprotective/) and anti-neuroinflammatory mechanisms.
+  Bioactive compounds from bael leaves including [alkaloids](/glossary/compounds-1-a/#alkaloids), [flavonoids](/reference/flavonoids/), and essential oils show therapeutic potential for neurological disorders through [neuroprotective](/reference/neuroprotective/) and anti-neuroinflammatory mechanisms.
 - Dey M, Rao S, Pl R and others 2024. [Evaluation of the Effect of Aegle marmelos (Bael Leaf) Extract on Human Fibroblast Viability: An In Vitro Study](https://pubmed.ncbi.nlm.nih.gov/39600753/). *Cureus*. PMID [39600753](https://pubmed.ncbi.nlm.nih.gov/39600753/) · [doi:10.7759/cureus.72466](https://doi.org/10.7759/cureus.72466)  
   Bael leaf extract exhibited minimal cytotoxicity on gingival fibroblasts at low concentrations, supporting safety for potential dental applications.
 
@@ -72,7 +72,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bilwa-Patra/meta-analysis.md"
 
 **Standard Dosage:** 3-5g leaf powder twice daily; 10-20ml fresh juice; 50-100ml decoction; 500mg extract capsule twice daily
 
-**Bioavailability:** Leaf [coumarins](/nighantu/glossary/compounds-c-d/#coumarins) (marmesin, [imperatorin](/nighantu/glossary/compounds-g-l/#imperatorin)) show moderate to good oral bioavailability (35-50%). Skimmianine crosses the blood-brain barrier. Essential oil components ([limonene](/nighantu/glossary/compounds-g-l/#limonene), alpha-phellandrene) are rapidly absorbed. Caution: furanocoumarins can inhibit CYP3A4, potentially altering bioavailability of co-administered drugs. Fresh juice provides highest bioavailability of volatile constituents.
+**Bioavailability:** Leaf [coumarins](/glossary/compounds-c-d/#coumarins) (marmesin, [imperatorin](/glossary/compounds-g-l/#imperatorin)) show moderate to good oral bioavailability (35-50%). Skimmianine crosses the blood-brain barrier. Essential oil components ([limonene](/glossary/compounds-g-l/#limonene), alpha-phellandrene) are rapidly absorbed. Caution: furanocoumarins can inhibit CYP3A4, potentially altering bioavailability of co-administered drugs. Fresh juice provides highest bioavailability of volatile constituents.
 
 **Optimal Timing:** Morning on empty stomach for diabetic support; before meals with honey for respiratory conditions; fresh juice early morning
 
@@ -87,14 +87,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bilwa-Patra/meta-analysis.md"
 ### Extraction Methods
 
 - Aqueous decoction of dried leaves
-- Hydroalcoholic extraction (60:40) for alkaloid and [coumarin](/nighantu/glossary/compounds-c-d/#coumarin) enrichment
+- Hydroalcoholic extraction (60:40) for alkaloid and [coumarin](/glossary/compounds-c-d/#coumarin) enrichment
 - Steam distillation for leaf essential oil
 - Fresh juice expression (Swarasa)
 - Ethanol maceration for research-grade extracts
 
 ### Synergistic Combinations
 
-- With [Tulsi](/nighantu/herb/tulsi/) leaves for respiratory and [antipyretic](/nighantu/reference/antipyretic/) formulations
-- With [Neem](/nighantu/herb/neem/) leaves for antidiabetic synergy
-- With [Guduchi](/nighantu/herb/guduchi/) for Jwara (fever) management
-- With [Karela](/nighantu/herb/karela/) for blood sugar management
+- With [Tulsi](/herb/tulsi/) leaves for respiratory and [antipyretic](/reference/antipyretic/) formulations
+- With [Neem](/herb/neem/) leaves for antidiabetic synergy
+- With [Guduchi](/herb/guduchi/) for Jwara (fever) management
+- With [Karela](/herb/karela/) for blood sugar management

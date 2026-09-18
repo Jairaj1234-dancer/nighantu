@@ -28,38 +28,38 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Ashwattha/meta-analysis.
 
 ## Key Phytochemical Constituents
 
-- [Stigmasterol](/nighantu/reference/stigmasterol/)
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- [Stigmasterol](/reference/stigmasterol/)
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 - Methyl oleanolate
-- [Lanosterol](/nighantu/glossary/compounds-g-l/#lanosterol)
-- [Bergapten](/nighantu/glossary/compounds-a-c/#bergapten) (furanocoumarin)
+- [Lanosterol](/glossary/compounds-g-l/#lanosterol)
+- [Bergapten](/glossary/compounds-a-c/#bergapten) (furanocoumarin)
 - Caffeic acid
-- [Bergenin](/nighantu/glossary/compounds-a-c/#bergenin)
+- [Bergenin](/glossary/compounds-a-c/#bergenin)
 - Lupin-3-one
 - n-Octacosanol
 - Leucoanthocyanidins
-- [Quercetin](/nighantu/reference/quercetinquercetin/)
-- [Myricetin](/nighantu/glossary/compounds-l-o/#myricetin)
-- [Kaempferol](/nighantu/reference/kaempferol/)
+- [Quercetin](/reference/quercetinquercetin/)
+- [Myricetin](/glossary/compounds-l-o/#myricetin)
+- [Kaempferol](/reference/kaempferol/)
 
 ## How does it work?
 
-- [Antidiabetic](/nighantu/reference/antidiabetic/) action through alpha-glucosidase and alpha-amylase inhibition by [flavonoids](/nighantu/reference/flavonoids/) and phenolics
-- Anti-inflammatory activity via COX-2 inhibition and suppression of NF-kB signaling by bergapten and [quercetin](/nighantu/reference/quercetinquercetin/)
-- [Neuroprotective](/nighantu/reference/neuroprotective/) effects through acetylcholinesterase inhibition and [antioxidant](/nighantu/reference/antioxidant/)-mediated reduction of oxidative neuronal damage
+- [Antidiabetic](/reference/antidiabetic/) action through alpha-glucosidase and alpha-amylase inhibition by [flavonoids](/reference/flavonoids/) and phenolics
+- Anti-inflammatory activity via COX-2 inhibition and suppression of NF-kB signaling by bergapten and [quercetin](/reference/quercetinquercetin/)
+- [Neuroprotective](/reference/neuroprotective/) effects through acetylcholinesterase inhibition and [antioxidant](/reference/antioxidant/)-mediated reduction of oxidative neuronal damage
 - Wound healing via promotion of fibroblast proliferation, collagen synthesis and angiogenesis
 
 ## Which traditional uses are supported by research?
 
-- Antidiabetic activity confirmed in multiple in vivo studies showing significant blood [glucose](/nighantu/glossary/compounds-d-g/#glucose) reduction in alloxan-induced diabetic models
+- Antidiabetic activity confirmed in multiple in vivo studies showing significant blood [glucose](/glossary/compounds-d-g/#glucose) reduction in alloxan-induced diabetic models
 - Wound healing properties validated through preclinical studies demonstrating accelerated epithelialization and increased tensile strength
-- Anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) effects confirmed in carrageenan-induced paw edema and acetic acid-induced writhing models
-- [Antimicrobial](/nighantu/reference/antimicrobial/) activity against Staphylococcus aureus, E. coli, and Candida albicans validated via disc diffusion and MIC assays
+- Anti-inflammatory and [analgesic](/reference/analgesic/) effects confirmed in carrageenan-induced paw edema and acetic acid-induced writhing models
+- [Antimicrobial](/reference/antimicrobial/) activity against Staphylococcus aureus, E. coli, and Candida albicans validated via disc diffusion and MIC assays
 
 ## What do recent clinical trials show?
 
 - Chen M, Liu J, Zou S and others 2025. [A review on the ethnopharmacology, metabolites, pharmacological uses, and toxicology of Ficus hirta (Moraceae) Vahl](https://pubmed.ncbi.nlm.nih.gov/40385474/). *Frontiers in pharmacology*. PMID [40385474](https://pubmed.ncbi.nlm.nih.gov/40385474/) · [doi:10.3389/fphar.2025.1545348](https://doi.org/10.3389/fphar.2025.1545348)  
-  Identified novel phenolic sesquiterpenes, furanocoumarins and flavonoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) with potent anti-inflammatory and neuroprotective mechanisms across Ficus species including F. religiosa.
+  Identified novel phenolic sesquiterpenes, furanocoumarins and flavonoid [glycosides](/glossary/compounds-g-l/#glycosides) with potent anti-inflammatory and neuroprotective mechanisms across Ficus species including F. religiosa.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
@@ -89,7 +89,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Ashwattha/meta-analysis.
 
 **Standard Dosage:** 3-6g bark powder twice daily; 50-100ml decoction; 500mg-1g extract capsule; fruit powder 3-5g
 
-**Bioavailability:** Moderate oral bioavailability. Ficus religiosa bark contains bergapten (~45% bioavailability), [phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols) (moderate absorption, enhanced by bile salts), and tannins. Leaf [serotonin](/nighantu/glossary/compounds-q-t/#serotonin) content is notable but oral serotonin is largely degraded by MAO in gut wall and liver. Bark [sterols](/nighantu/glossary/compounds-q-t/#sterols) (beta-sitosterol, stigmasterol) show 5-10% absorption, enhanced by co-administration with lecithin. [Coumarin](/nighantu/glossary/compounds-c-d/#coumarin) compounds are well absorbed.
+**Bioavailability:** Moderate oral bioavailability. Ficus religiosa bark contains bergapten (~45% bioavailability), [phytosterols](/glossary/compounds-o-q/#phytosterols) (moderate absorption, enhanced by bile salts), and tannins. Leaf [serotonin](/glossary/compounds-q-t/#serotonin) content is notable but oral serotonin is largely degraded by MAO in gut wall and liver. Bark [sterols](/glossary/compounds-q-t/#sterols) (beta-sitosterol, stigmasterol) show 5-10% absorption, enhanced by co-administration with lecithin. [Coumarin](/glossary/compounds-c-d/#coumarin) compounds are well absorbed.
 
 **Optimal Timing:** Bark decoction morning and evening for diabetes and wounds. Fruit powder with honey before meals. Kshirapaka at bedtime.
 
@@ -99,7 +99,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Ashwattha/meta-analysis.
 
 **Storage:** Cool, dry place below 25°C. Airtight containers. Bark stores well due to high tannin content (natural preservative effect).
 
-**Marker Compounds:** Bergapten, Beta-sitosterol, Stigmasterol, Lanosterol, n-Octacosanol, Leucoanthocyanidin, [Leucocyanidin](/nighantu/glossary/compounds-g-l/#leucocyanidin), [Phytol](/nighantu/glossary/compounds-o-q/#phytol), Serotonin (leaves)
+**Marker Compounds:** Bergapten, Beta-sitosterol, Stigmasterol, Lanosterol, n-Octacosanol, Leucoanthocyanidin, [Leucocyanidin](/glossary/compounds-g-l/#leucocyanidin), [Phytol](/glossary/compounds-o-q/#phytol), Serotonin (leaves)
 
 ### Extraction Methods
 
@@ -110,7 +110,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Ashwattha/meta-analysis.
 
 ### Synergistic Combinations
 
-- With [Udumbara](/nighantu/herb/udumbara/) (Ficus glomerata) and [Nyagrodha](/nighantu/herb/nyagrodha/) (Ficus benghalensis) in Panchavalkala Kwatha
-- With [Lodhra](/nighantu/herb/lodhra/) for wound healing
-- With [Ashoka](/nighantu/herb/ashoka/) for female reproductive disorders
-- With [Haridra](/nighantu/herb/haridra/) for anti-diabetic applications
+- With [Udumbara](/herb/udumbara/) (Ficus glomerata) and [Nyagrodha](/herb/nyagrodha/) (Ficus benghalensis) in Panchavalkala Kwatha
+- With [Lodhra](/herb/lodhra/) for wound healing
+- With [Ashoka](/herb/ashoka/) for female reproductive disorders
+- With [Haridra](/herb/haridra/) for anti-diabetic applications

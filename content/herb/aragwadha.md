@@ -28,26 +28,26 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aragwadha/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Rhein](/nighantu/glossary/compounds-q-t/#rhein) (anthraquinone)
-- [Emodin](/nighantu/glossary/compounds-d-g/#emodin)
+- [Rhein](/glossary/compounds-q-t/#rhein) (anthraquinone)
+- [Emodin](/glossary/compounds-d-g/#emodin)
 - Fistulic acid
 - Sennosides A-D
-- [Quercetin](/nighantu/reference/quercetinquercetin/)
-- [Kaempferol](/nighantu/reference/kaempferol/)
+- [Quercetin](/reference/quercetinquercetin/)
+- [Kaempferol](/reference/kaempferol/)
 - Oxyanthraquinone
-- [Catechin](/nighantu/reference/catechin/)
+- [Catechin](/reference/catechin/)
 
 ## How does it work?
 
-- [Laxative](/nighantu/reference/laxative/): Sennosides and anthraquinone [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) stimulate colonic peristalsis by increasing Cl- secretion and inhibiting Na+/K+-ATPase in colonocytes
+- [Laxative](/reference/laxative/): Sennosides and anthraquinone [glycosides](/glossary/compounds-g-l/#glycosides) stimulate colonic peristalsis by increasing Cl- secretion and inhibiting Na+/K+-ATPase in colonocytes
 - Anti-inflammatory: Rhein and emodin suppress NF-kB activation and reduce COX-2 expression in inflammatory cells
-- [Antidiabetic](/nighantu/reference/antidiabetic/): [Flavonoids](/nighantu/reference/flavonoids/) ([quercetin](/nighantu/reference/quercetinquercetin/), kaempferol) inhibit alpha-amylase and alpha-glucosidase, reducing postprandial glycemic spikes
+- [Antidiabetic](/reference/antidiabetic/): [Flavonoids](/reference/flavonoids/) ([quercetin](/reference/quercetinquercetin/), kaempferol) inhibit alpha-amylase and alpha-glucosidase, reducing postprandial glycemic spikes
 
 ## Which traditional uses are supported by research?
 
 - Mild laxative (Mridu Virechana) validated by clinical trial showing comparable efficacy to lactulose in geriatric constipation
-- Skin disease treatment confirmed by [antimicrobial](/nighantu/reference/antimicrobial/) and antifungal activity of leaf and bark extracts against dermatophytes
-- [Antipyretic](/nighantu/reference/antipyretic/) use (Jwaraghna) supported by significant fever reduction in Brewer's yeast-induced pyrexia model
+- Skin disease treatment confirmed by [antimicrobial](/reference/antimicrobial/) and antifungal activity of leaf and bark extracts against dermatophytes
+- [Antipyretic](/reference/antipyretic/) use (Jwaraghna) supported by significant fever reduction in Brewer's yeast-induced pyrexia model
 
 ## What do recent clinical trials show?
 
@@ -87,13 +87,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aragwadha/meta-analysis.md"
 
 **Optimal Timing:** At bedtime with warm water or warm milk for laxative effect; morning empty stomach for skin conditions (internal detox); external paste anytime
 
-**Standardized Extract:** Fruit pulp extract standardized to minimum 2% total anthraquinones (as rhein equivalent). Bark extract standardized to minimum 3% total [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols). Fistulic acid content minimum 0.5%.
+**Standardized Extract:** Fruit pulp extract standardized to minimum 2% total anthraquinones (as rhein equivalent). Bark extract standardized to minimum 3% total [polyphenols](/glossary/compounds-o-q/#polyphenols). Fistulic acid content minimum 0.5%.
 
 **Shelf Life:** 2 years (powder/spray-dried pulp); 3 years (capsules/tablets); 6 months (fresh pulp extract, preserved); 18 months (decoction concentrate)
 
 **Storage:** Hygroscopic material — moisture-proof packaging essential. Cool, dry place below 25°C. Pods can be stored whole for up to 1 year at room temperature.
 
-**Marker Compounds:** Rhein, Fistulic acid, Sennosides (trace), [Chrysophanol](/nighantu/glossary/compounds-c-d/#chrysophanol), Kaempferol, Oxyanthraquinones, Fistucacidin
+**Marker Compounds:** Rhein, Fistulic acid, Sennosides (trace), [Chrysophanol](/glossary/compounds-c-d/#chrysophanol), Kaempferol, Oxyanthraquinones, Fistucacidin
 
 ### Extraction Methods
 
@@ -104,7 +104,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aragwadha/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Haritaki](/nighantu/herb/haritaki/) for gentle laxative action
-- With [Nimba](/nighantu/herb/nimba/) and [Haridra](/nighantu/herb/haridra/) in Aragwadhadi lepa for skin disorders
-- With [Guduchi](/nighantu/herb/guduchi/) for fever and skin diseases
-- With [Triphala](/nighantu/herb/triphala/) for digestive regulation
+- With [Haritaki](/herb/haritaki/) for gentle laxative action
+- With [Nimba](/herb/nimba/) and [Haridra](/herb/haridra/) in Aragwadhadi lepa for skin disorders
+- With [Guduchi](/herb/guduchi/) for fever and skin diseases
+- With [Triphala](/herb/triphala/) for digestive regulation

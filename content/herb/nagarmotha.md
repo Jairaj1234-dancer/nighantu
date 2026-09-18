@@ -52,18 +52,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Nagarmotha/meta-analysis.m
 
 ## Key Phytochemical Constituents
 
-- [Cyperene](/nighantu/glossary/compounds-c-d/#cyperene)
+- [Cyperene](/glossary/compounds-c-d/#cyperene)
 - Alpha-cyperone
-- [Rotundone](/nighantu/glossary/compounds-q-t/#rotundone)
+- [Rotundone](/glossary/compounds-q-t/#rotundone)
 - Mustakone
 
 ## Therapeutic Actions (Karma)
 
 - Digestive stimulant
 - Anti-diarrheal
-- [Antipyretic](/nighantu/reference/antipyretic/)
+- [Antipyretic](/reference/antipyretic/)
 - Anti-inflammatory
-- [Analgesic](/nighantu/reference/analgesic/)
+- [Analgesic](/reference/analgesic/)
 - Emmenagogue
 
 ## How is it used traditionally?
@@ -96,7 +96,7 @@ Tuber powder: 3-6g/day; Decoction: 50-100ml/day
 
 **Standard Dosage:** 3-6 g rhizome powder per day; 50-100 mL decoction twice daily; 500-1000 mg extract capsules daily; 1-3 drops essential oil (diluted)
 
-**Bioavailability:** Sesquiterpenes (cyperene, cyperotundone) have moderate oral bioavailability (~30-40%). Alpha-cyperone shows good GI absorption. Essential oil components are well absorbed via inhalation and topically. Rotundone has extremely low olfactory threshold making trace amounts organoleptically significant. [Flavonoids](/nighantu/reference/flavonoids/) undergo hepatic conjugation.
+**Bioavailability:** Sesquiterpenes (cyperene, cyperotundone) have moderate oral bioavailability (~30-40%). Alpha-cyperone shows good GI absorption. Essential oil components are well absorbed via inhalation and topically. Rotundone has extremely low olfactory threshold making trace amounts organoleptically significant. [Flavonoids](/reference/flavonoids/) undergo hepatic conjugation.
 
 **Optimal Timing:** Before meals for appetite stimulation and digestive fire enhancement; between meals for bloating and gas; morning for menstrual regulation; Arishta after meals
 
@@ -106,7 +106,7 @@ Tuber powder: 3-6g/day; Decoction: 50-100ml/day
 
 **Storage:** Whole rhizomes in well-ventilated, dry storage at room temperature. Powder in airtight containers below 25 deg C. Essential oil in amber glass, tightly sealed. Arishta at room temperature in glass containers. Protect all forms from moisture.
 
-**Marker Compounds:** Alpha-cyperone, Cyperene, Cyperotundone, Rotundone, Selinene, Cyperol, Isocyperol, [Patchoulenone](/nighantu/glossary/compounds-o-q/#patchoulenone)
+**Marker Compounds:** Alpha-cyperone, Cyperene, Cyperotundone, Rotundone, Selinene, Cyperol, Isocyperol, [Patchoulenone](/glossary/compounds-o-q/#patchoulenone)
 
 ### Extraction Methods
 
@@ -120,8 +120,8 @@ Tuber powder: 3-6g/day; Decoction: 50-100ml/day
 ### Synergistic Combinations
 
 - Shunthi (digestive stimulant combination - Deepana-Pachana)
-- [Pippali](/nighantu/herb/pippali/) (bioenhancer and digestive)
-- [Chitrak](/nighantu/herb/chitrak/) (Agni-deepana, gastric fire kindling)
-- [Haritaki](/nighantu/herb/haritaki/) (digestive and [laxative](/nighantu/reference/laxative/) combination)
-- [Ashoka](/nighantu/herb/ashoka/) (uterine tonic and menstrual regulation)
-- [Shatavari](/nighantu/herb/shatavari/) (female reproductive health)
+- [Pippali](/herb/pippali/) (bioenhancer and digestive)
+- [Chitrak](/herb/chitrak/) (Agni-deepana, gastric fire kindling)
+- [Haritaki](/herb/haritaki/) (digestive and [laxative](/reference/laxative/) combination)
+- [Ashoka](/herb/ashoka/) (uterine tonic and menstrual regulation)
+- [Shatavari](/herb/shatavari/) (female reproductive health)

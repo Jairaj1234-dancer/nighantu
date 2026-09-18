@@ -28,20 +28,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Senna/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- Sennosides A and B ([rhein](/nighantu/glossary/compounds-q-t/#rhein) dianthrone [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) - primary active)
-- Sennosides C and D (rhein-aloe-[emodin](/nighantu/glossary/compounds-d-g/#emodin) heterodianthrones)
+- Sennosides A and B ([rhein](/glossary/compounds-q-t/#rhein) dianthrone [glycosides](/glossary/compounds-g-l/#glycosides) - primary active)
+- Sennosides C and D (rhein-aloe-[emodin](/glossary/compounds-d-g/#emodin) heterodianthrones)
 - Rhein and rhein-anthrone (active metabolites)
 - Aloe-emodin
-- [Kaempferol](/nighantu/reference/kaempferol/) and its glycosides
-- [Isorhamnetin](/nighantu/glossary/compounds-g-l/#isorhamnetin)
-- [Chrysophanol](/nighantu/glossary/compounds-c-d/#chrysophanol)
-- [Mucilage](/nighantu/glossary/compounds-l-o/#mucilage) and [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides)
+- [Kaempferol](/reference/kaempferol/) and its glycosides
+- [Isorhamnetin](/glossary/compounds-g-l/#isorhamnetin)
+- [Chrysophanol](/glossary/compounds-c-d/#chrysophanol)
+- [Mucilage](/glossary/compounds-l-o/#mucilage) and [polysaccharides](/glossary/compounds-o-q/#polysaccharides)
 
 ## How does it work?
 
-- [Laxative](/nighantu/reference/laxative/) mechanism: sennosides are hydrolyzed by colonic bacteria to release rhein-anthrone, which acts as a local irritant stimulating colonic peristalsis and inhibiting water/electrolyte absorption
-- Anthraquinone-mediated [antimicrobial](/nighantu/reference/antimicrobial/) action through disruption of bacterial membrane integrity and interference with DNA/RNA synthesis
-- [Antioxidant](/nighantu/reference/antioxidant/) mechanism through phenolic and flavonoid constituent scavenging of free radicals, reducing oxidative cellular damage
+- [Laxative](/reference/laxative/) mechanism: sennosides are hydrolyzed by colonic bacteria to release rhein-anthrone, which acts as a local irritant stimulating colonic peristalsis and inhibiting water/electrolyte absorption
+- Anthraquinone-mediated [antimicrobial](/reference/antimicrobial/) action through disruption of bacterial membrane integrity and interference with DNA/RNA synthesis
+- [Antioxidant](/reference/antioxidant/) mechanism through phenolic and flavonoid constituent scavenging of free radicals, reducing oxidative cellular damage
 
 ## Which traditional uses are supported by research?
 
@@ -103,7 +103,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Senna/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Haritaki](/nighantu/herb/haritaki/) ([Triphala](/nighantu/herb/triphala/)-based laxative formulations)
-- [Fennel](/nighantu/herb/fennel/)/Saunf (carminative addition to reduce griping)
+- [Haritaki](/herb/haritaki/) ([Triphala](/herb/triphala/)-based laxative formulations)
+- [Fennel](/herb/fennel/)/Saunf (carminative addition to reduce griping)
 - Psyllium husk (bulk-forming + stimulant laxative combination)
-- [Ginger](/nighantu/herb/ginger/) (reduces nausea and griping associated with senna)
+- [Ginger](/herb/ginger/) (reduces nausea and griping associated with senna)

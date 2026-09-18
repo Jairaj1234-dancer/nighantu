@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tila-Patra/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | [Tila](/nighantu/herb/tila/) Patra |
+| English | [Tila](/herb/tila/) Patra |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -40,17 +40,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tila-Patra/meta-analysis.md"
 
 **Standard Dosage:** 3-5 g powder twice daily; 50-100 mL decoction twice daily; as needed externally as paste
 
-**Bioavailability:** [Flavonoids](/nighantu/reference/flavonoids/) and phenolic acids from sesame leaves show moderate oral bioavailability (15-25%). Mucilaginous [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides) are not systemically absorbed but act locally on GI mucosa with prebiotic effects. [Chlorophyll](/nighantu/glossary/compounds-c-d/#chlorophyll) derivatives and [carotenoids](/nighantu/glossary/compounds-a-c/#carotenoids) require lipid co-administration for meaningful absorption.
+**Bioavailability:** [Flavonoids](/reference/flavonoids/) and phenolic acids from sesame leaves show moderate oral bioavailability (15-25%). Mucilaginous [polysaccharides](/glossary/compounds-o-q/#polysaccharides) are not systemically absorbed but act locally on GI mucosa with prebiotic effects. [Chlorophyll](/glossary/compounds-c-d/#chlorophyll) derivatives and [carotenoids](/glossary/compounds-a-c/#carotenoids) require lipid co-administration for meaningful absorption.
 
 **Optimal Timing:** After meals for internal use; external application as needed, typically at night for dermatological conditions
 
-**Standardized Extract:** Hydroethanolic extract standardized to >2% total flavonoids (as [rutin](/nighantu/glossary/compounds-q-t/#rutin) equivalent by UV); [mucilage](/nighantu/glossary/compounds-l-o/#mucilage) content >10% by gravimetric method
+**Standardized Extract:** Hydroethanolic extract standardized to >2% total flavonoids (as [rutin](/glossary/compounds-q-t/#rutin) equivalent by UV); [mucilage](/glossary/compounds-l-o/#mucilage) content >10% by gravimetric method
 
 **Shelf Life:** Dried leaf powder: 12 months; Capsules: 24 months; Decoction: prepare fresh daily; External paste: prepare fresh
 
 **Storage:** Dried leaves in airtight, light-resistant containers at 15-25 deg C. Protect from moisture as mucilage is highly hygroscopic.
 
-**Marker Compounds:** Rutin, [Quercetin](/nighantu/reference/quercetinquercetin/), [Luteolin](/nighantu/glossary/compounds-l-o/#luteolin), [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin), Chlorogenic acid, Caffeic acid, beta-[Sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+**Marker Compounds:** Rutin, [Quercetin](/reference/quercetinquercetin/), [Luteolin](/glossary/compounds-l-o/#luteolin), [Apigenin](/glossary/compounds-1-a/#apigenin), Chlorogenic acid, Caffeic acid, beta-[Sitosterol](/glossary/compounds-q-t/#sitosterol)
 
 ### Extraction Methods
 
@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tila-Patra/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Tila](/nighantu/herb/tila/) (sesame seed oil) - comprehensive Sesamum-based formulation
-- [Nimba](/nighantu/herb/nimba/) ([neem](/nighantu/herb/neem/)) leaves - synergistic dermatological action
-- [Haridra](/nighantu/herb/haridra/) ([turmeric](/nighantu/herb/turmeric/)) - anti-inflammatory and [wound-healing](/nighantu/reference/wound-healing/) potentiation
-- [Ghrita](/nighantu/herb/ghrita/) (ghee) - vehicle for enhanced lipophilic compound absorption
+- [Tila](/herb/tila/) (sesame seed oil) - comprehensive Sesamum-based formulation
+- [Nimba](/herb/nimba/) ([neem](/herb/neem/)) leaves - synergistic dermatological action
+- [Haridra](/herb/haridra/) ([turmeric](/herb/turmeric/)) - anti-inflammatory and [wound-healing](/reference/wound-healing/) potentiation
+- [Ghrita](/herb/ghrita/) (ghee) - vehicle for enhanced lipophilic compound absorption

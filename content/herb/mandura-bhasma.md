@@ -23,20 +23,20 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Mandura-Bhasma/meta-
 
 | Language | Name |
 |----------|------|
-| English | [Mandura Bhasma](/nighantu/herb/mandura-bhasma/) |
+| English | [Mandura Bhasma](/herb/mandura-bhasma/) |
 
 ## Key Phytochemical Constituents
 
 - Ferric oxide (Fe2O3) as primary constituent (~40-45% elemental iron)
 - Magnetite (Fe3O4) phase
-- Calcium, [magnesium](/nighantu/glossary/compounds-l-o/#magnesium) from processing media
-- [Silica](/nighantu/glossary/compounds-q-t/#silica) and alumina traces
-- Vitamin C and [tannins](/nighantu/reference/tannins/) from Amalaki (gooseberry) processing
+- Calcium, [magnesium](/glossary/compounds-l-o/#magnesium) from processing media
+- [Silica](/glossary/compounds-q-t/#silica) and alumina traces
+- Vitamin C and [tannins](/reference/tannins/) from Amalaki (gooseberry) processing
 
 ## How does it work?
 
 - Hematopoietic iron supplementation through bioavailable iron oxide particles that support hemoglobin synthesis without the typical GI side effects of conventional iron salts
-- [Hepatoprotective](/nighantu/reference/hepatoprotective/) and spleen-supportive action through iron-mediated improvement of reticuloendothelial system function and blood filtration
+- [Hepatoprotective](/reference/hepatoprotective/) and spleen-supportive action through iron-mediated improvement of reticuloendothelial system function and blood filtration
 - Deepana-Pachana (digestive enhancement) through iron-catalyzed metabolic enzyme activation and improvement of nutrient absorption
 - Raktavardhaka (blood-building) action through combined iron supplementation and vitamin C (from Amalaki processing) synergy enhancing iron absorption
 
@@ -58,7 +58,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Mandura-Bhasma/meta-
 - SAFE AT 5X DOSE: No serious toxic effects at 55 mg/kg (5x therapeutic dose) for 60 days in rat studies
 - CLINICAL SAFETY CONFIRMED: No adverse drug reactions or events in clinical trials with Punarnavadi Mandura formulation
 - IRON OVERLOAD MONITORING: Excessive or long-term use without monitoring may lead to elevated serum ferritin and oxidative stress. Periodic hemoglobin and ferritin checks advised.
-- BETTER TOLERATED: Like [Loha Bhasma](/nighantu/herb/loha-bhasma/), [Mandura Bhasma](/nighantu/herb/mandura-bhasma/) causes fewer GI side effects than conventional iron supplements due to oxide nanoparticle form
+- BETTER TOLERATED: Like [Loha Bhasma](/herb/loha-bhasma/), [Mandura Bhasma](/herb/mandura-bhasma/) causes fewer GI side effects than conventional iron supplements due to oxide nanoparticle form
 
 ## What is it made of?
 
@@ -77,9 +77,9 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Mandura-Bhasma/meta-
 
 **Standard Dosage:** 250–500 mg twice daily
 
-**Bioavailability:** Good; iron oxide from natural rust/slag; gentler than [Loha Bhasma](/nighantu/herb/loha-bhasma/)
+**Bioavailability:** Good; iron oxide from natural rust/slag; gentler than [Loha Bhasma](/herb/loha-bhasma/)
 
-**Optimal Timing:** After meals with [Triphala](/nighantu/herb/triphala/) Kwatha or honey
+**Optimal Timing:** After meals with [Triphala](/herb/triphala/) Kwatha or honey
 
 **Standardized Extract:** Calcined iron rust/slag bhasma
 
@@ -87,8 +87,8 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Mandura-Bhasma/meta-
 
 **Storage:** Airtight container
 
-**Marker Compounds:** Iron oxide (Fe2O3), Silica, Trace [manganese](/nighantu/glossary/compounds-l-o/#manganese) and magnesium
+**Marker Compounds:** Iron oxide (Fe2O3), Silica, Trace [manganese](/glossary/compounds-l-o/#manganese) and magnesium
 
 **Quality Parameters:** Iron >40%, standard bhasma tests, no free metallic iron
 
-**Vehicle (Anupana):** [Triphala](/nighantu/herb/triphala/) Kwatha, honey, or as Mandura Vataka formulation
+**Vehicle (Anupana):** [Triphala](/herb/triphala/) Kwatha, honey, or as Mandura Vataka formulation

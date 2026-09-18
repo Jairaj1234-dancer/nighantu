@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nadi-Hingu/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Nadi [Hingu](/nighantu/herb/hingu/)|Nadi Hingu |
+| English | Nadi [Hingu](/herb/hingu/)|Nadi Hingu |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nadi-Hingu/meta-analysis.md"
 
 **Standard Dosage:** 250-500 mg resin powder per day; typically in combination formulations at 125-250 mg per dose; with warm water or buttermilk
 
-**Bioavailability:** Ferulic acid and farnesiferols have moderate to good oral bioavailability (30-50%). Volatile sulfur compounds are rapidly absorbed but also rapidly metabolized. Gum-resin matrix provides sustained release of active compounds in the GI tract. [Umbelliferone](/nighantu/glossary/compounds-t-z/#umbelliferone) shows good oral absorption (~45%).
+**Bioavailability:** Ferulic acid and farnesiferols have moderate to good oral bioavailability (30-50%). Volatile sulfur compounds are rapidly absorbed but also rapidly metabolized. Gum-resin matrix provides sustained release of active compounds in the GI tract. [Umbelliferone](/glossary/compounds-t-z/#umbelliferone) shows good oral absorption (~45%).
 
 **Optimal Timing:** Before meals for digestive stimulation; after meals for carminative effect; with warm water or buttermilk for enhanced action
 
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nadi-Hingu/meta-analysis.md"
 
 **Storage:** Store resin in airtight containers below 30 deg C (softens at higher temperatures). Protect from light. Volatile oil in amber glass, tightly sealed. All forms protected from moisture. Keep away from strong-smelling substances as resin can absorb odors.
 
-**Marker Compounds:** Ferulic acid, Umbelliferone, Farnesiferol, Isopimpinellin, Volatile sulfur compounds, Gum [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides), Sesquiterpene [coumarins](/nighantu/glossary/compounds-c-d/#coumarins)
+**Marker Compounds:** Ferulic acid, Umbelliferone, Farnesiferol, Isopimpinellin, Volatile sulfur compounds, Gum [polysaccharides](/glossary/compounds-o-q/#polysaccharides), Sesquiterpene [coumarins](/glossary/compounds-c-d/#coumarins)
 
 ### Extraction Methods
 
@@ -62,8 +62,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nadi-Hingu/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Hingu](/nighantu/herb/hingu/)/Asafoetida (digestive and carminative potentiation)
+- [Hingu](/herb/hingu/)/Asafoetida (digestive and carminative potentiation)
 - Shunthi (digestive and anti-spasmodic)
-- [Ajwain](/nighantu/herb/ajwain/) (carminative combination)
-- [Chitrak](/nighantu/herb/chitrak/) (digestive fire enhancement)
-- [Saindhava Lavana](/nighantu/herb/saindhava-lavana/) (digestive and mineral)
+- [Ajwain](/herb/ajwain/) (carminative combination)
+- [Chitrak](/herb/chitrak/) (digestive fire enhancement)
+- [Saindhava Lavana](/herb/saindhava-lavana/) (digestive and mineral)

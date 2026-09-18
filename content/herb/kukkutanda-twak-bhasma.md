@@ -23,20 +23,20 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kukkutanda-Twak-Bhas
 
 | Language | Name |
 |----------|------|
-| English | [Kukkutanda Twak Bhasma](/nighantu/herb/kukkutanda-twak-bhasma/) |
+| English | [Kukkutanda Twak Bhasma](/herb/kukkutanda-twak-bhasma/) |
 
 ## Key Phytochemical Constituents
 
 - Calcium (60.83%) - highest among similar preparations
 - Calcium oxide (CaO) nanoparticles after calcination
-- Copper, zinc, [magnesium](/nighantu/glossary/compounds-l-o/#magnesium) as trace minerals
-- [Strontium](/nighantu/glossary/compounds-q-t/#strontium) and [phosphorus](/nighantu/glossary/compounds-o-q/#phosphorus) traces
-- Organic matrix [proteins](/nighantu/glossary/compounds-o-q/#proteins) from eggshell membrane
+- Copper, zinc, [magnesium](/glossary/compounds-l-o/#magnesium) as trace minerals
+- [Strontium](/glossary/compounds-q-t/#strontium) and [phosphorus](/glossary/compounds-o-q/#phosphorus) traces
+- Organic matrix [proteins](/glossary/compounds-o-q/#proteins) from eggshell membrane
 
 ## How does it work?
 
 - Bioavailable calcium supplementation through CaO nanoparticles providing elemental calcium for bone mineralization, muscle contraction, nerve impulse transmission, and blood clotting
-- [Antimicrobial](/nighantu/reference/antimicrobial/) action through CaO nanoparticle-mediated disruption of microbial cell membranes; more effective as antifungal agent than antibacterial
+- [Antimicrobial](/reference/antimicrobial/) action through CaO nanoparticle-mediated disruption of microbial cell membranes; more effective as antifungal agent than antibacterial
 - Alkaline buffering through calcium oxide dissolution creating alkaline pH in stomach, neutralizing excess acid and providing gastroprotective effect
 - Bone density improvement through sustained release of bioavailable calcium with trace minerals (Mg, Zn) essential for optimal bone metabolism
 

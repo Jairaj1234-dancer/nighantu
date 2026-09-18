@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T10:11:06.891Z",
+  "generatedAt": "2026-09-18T07:05:12.819Z",
   "vault": "Herb-Catalogue",
   "counts": {
     "scanned": 3286,
@@ -144,7 +144,7 @@
       "part": 1,
       "partCount": 9,
       "entryCount": 73,
-      "url": "/nighantu/glossary/compounds-1-a/"
+      "url": "/glossary/compounds-1-a/"
     },
     {
       "slug": "compounds-a-c",
@@ -153,7 +153,7 @@
       "part": 2,
       "partCount": 9,
       "entryCount": 73,
-      "url": "/nighantu/glossary/compounds-a-c/"
+      "url": "/glossary/compounds-a-c/"
     },
     {
       "slug": "compounds-c-d",
@@ -162,7 +162,7 @@
       "part": 3,
       "partCount": 9,
       "entryCount": 73,
-      "url": "/nighantu/glossary/compounds-c-d/"
+      "url": "/glossary/compounds-c-d/"
     },
     {
       "slug": "compounds-d-g",
@@ -171,7 +171,7 @@
       "part": 4,
       "partCount": 9,
       "entryCount": 73,
-      "url": "/nighantu/glossary/compounds-d-g/"
+      "url": "/glossary/compounds-d-g/"
     },
     {
       "slug": "compounds-g-l",
@@ -180,7 +180,7 @@
       "part": 5,
       "partCount": 9,
       "entryCount": 73,
-      "url": "/nighantu/glossary/compounds-g-l/"
+      "url": "/glossary/compounds-g-l/"
     },
     {
       "slug": "compounds-l-o",
@@ -189,7 +189,7 @@
       "part": 6,
       "partCount": 9,
       "entryCount": 73,
-      "url": "/nighantu/glossary/compounds-l-o/"
+      "url": "/glossary/compounds-l-o/"
     },
     {
       "slug": "compounds-o-q",
@@ -198,7 +198,7 @@
       "part": 7,
       "partCount": 9,
       "entryCount": 73,
-      "url": "/nighantu/glossary/compounds-o-q/"
+      "url": "/glossary/compounds-o-q/"
     },
     {
       "slug": "compounds-q-t",
@@ -207,7 +207,7 @@
       "part": 8,
       "partCount": 9,
       "entryCount": 73,
-      "url": "/nighantu/glossary/compounds-q-t/"
+      "url": "/glossary/compounds-q-t/"
     },
     {
       "slug": "compounds-t-z",
@@ -216,7 +216,7 @@
       "part": 9,
       "partCount": 9,
       "entryCount": 65,
-      "url": "/nighantu/glossary/compounds-t-z/"
+      "url": "/glossary/compounds-t-z/"
     },
     {
       "slug": "pharmacology",
@@ -225,7 +225,7 @@
       "part": 1,
       "partCount": 1,
       "entryCount": 10,
-      "url": "/nighantu/glossary/pharmacology/"
+      "url": "/glossary/pharmacology/"
     },
     {
       "slug": "plant-families",
@@ -234,7 +234,7 @@
       "part": 1,
       "partCount": 1,
       "entryCount": 34,
-      "url": "/nighantu/glossary/plant-families/"
+      "url": "/glossary/plant-families/"
     },
     {
       "slug": "body-systems",
@@ -243,7 +243,7 @@
       "part": 1,
       "partCount": 1,
       "entryCount": 1,
-      "url": "/nighantu/glossary/body-systems/"
+      "url": "/glossary/body-systems/"
     },
     {
       "slug": "concepts-a-m",
@@ -252,7 +252,7 @@
       "part": 1,
       "partCount": 2,
       "entryCount": 62,
-      "url": "/nighantu/glossary/concepts-a-m/"
+      "url": "/glossary/concepts-a-m/"
     },
     {
       "slug": "concepts-m-y",
@@ -261,7 +261,7 @@
       "part": 2,
       "partCount": 2,
       "entryCount": 61,
-      "url": "/nighantu/glossary/concepts-m-y/"
+      "url": "/glossary/concepts-m-y/"
     }
   ],
   "pages": [
@@ -269,4441 +269,4441 @@
       "slug": "ashtanga-hridaya",
       "kind": "text",
       "title": "Ashtanga Hridaya",
-      "url": "/nighantu/text/ashtanga-hridaya/"
+      "url": "/text/ashtanga-hridaya/"
     },
     {
       "slug": "sharangadhara-samhita",
       "kind": "text",
       "title": "Sharangadhara Samhita",
-      "url": "/nighantu/text/sharangadhara-samhita/"
+      "url": "/text/sharangadhara-samhita/"
     },
     {
       "slug": "abhayarishta",
       "kind": "formulation",
       "title": "Abhayarishta",
-      "url": "/nighantu/formulation/abhayarishta/"
+      "url": "/formulation/abhayarishta/"
     },
     {
       "slug": "amritarishta",
       "kind": "formulation",
       "title": "Amritarishta",
-      "url": "/nighantu/formulation/amritarishta/"
+      "url": "/formulation/amritarishta/"
     },
     {
       "slug": "aravindasava",
       "kind": "formulation",
       "title": "Aravindasava",
-      "url": "/nighantu/formulation/aravindasava/"
+      "url": "/formulation/aravindasava/"
     },
     {
       "slug": "arishtaka",
       "kind": "formulation",
       "title": "Arishtaka",
-      "url": "/nighantu/formulation/arishtaka/"
+      "url": "/formulation/arishtaka/"
     },
     {
       "slug": "arjunarishta",
       "kind": "formulation",
       "title": "Arjunarishta",
-      "url": "/nighantu/formulation/arjunarishta/"
+      "url": "/formulation/arjunarishta/"
     },
     {
       "slug": "ashokarishta",
       "kind": "formulation",
       "title": "Ashokarishta",
-      "url": "/nighantu/formulation/ashokarishta/"
+      "url": "/formulation/ashokarishta/"
     },
     {
       "slug": "ashwagandharishta",
       "kind": "formulation",
       "title": "Ashwagandharishta",
-      "url": "/nighantu/formulation/ashwagandharishta/"
+      "url": "/formulation/ashwagandharishta/"
     },
     {
       "slug": "balarishta",
       "kind": "formulation",
       "title": "Balarishta",
-      "url": "/nighantu/formulation/balarishta/"
+      "url": "/formulation/balarishta/"
     },
     {
       "slug": "dashamularishta",
       "kind": "formulation",
       "title": "Dashamularishta",
-      "url": "/nighantu/formulation/dashamularishta/"
+      "url": "/formulation/dashamularishta/"
     },
     {
       "slug": "dashmool-dashmoolarishta",
       "kind": "formulation",
       "title": "Dashmool Dashmoolarishta",
-      "url": "/nighantu/formulation/dashmool-dashmoolarishta/"
+      "url": "/formulation/dashmool-dashmoolarishta/"
     },
     {
       "slug": "draksharishta",
       "kind": "formulation",
       "title": "Draksharishta",
-      "url": "/nighantu/formulation/draksharishta/"
+      "url": "/formulation/draksharishta/"
     },
     {
       "slug": "jeerakarishtam",
       "kind": "formulation",
       "title": "Jeerakarishtam",
-      "url": "/nighantu/formulation/jeerakarishtam/"
+      "url": "/formulation/jeerakarishtam/"
     },
     {
       "slug": "kumaryasava",
       "kind": "formulation",
       "title": "Kumaryasava",
-      "url": "/nighantu/formulation/kumaryasava/"
+      "url": "/formulation/kumaryasava/"
     },
     {
       "slug": "kutajarishta",
       "kind": "formulation",
       "title": "Kutajarishta",
-      "url": "/nighantu/formulation/kutajarishta/"
+      "url": "/formulation/kutajarishta/"
     },
     {
       "slug": "mustakarishta",
       "kind": "formulation",
       "title": "Mustakarishta",
-      "url": "/nighantu/formulation/mustakarishta/"
+      "url": "/formulation/mustakarishta/"
     },
     {
       "slug": "patrangasava",
       "kind": "formulation",
       "title": "Patrangasava",
-      "url": "/nighantu/formulation/patrangasava/"
+      "url": "/formulation/patrangasava/"
     },
     {
       "slug": "pippalyasava",
       "kind": "formulation",
       "title": "Pippalyasava",
-      "url": "/nighantu/formulation/pippalyasava/"
+      "url": "/formulation/pippalyasava/"
     },
     {
       "slug": "punarnavasava",
       "kind": "formulation",
       "title": "Punarnavasava",
-      "url": "/nighantu/formulation/punarnavasava/"
+      "url": "/formulation/punarnavasava/"
     },
     {
       "slug": "rohitakarishta",
       "kind": "formulation",
       "title": "Rohitakarishta",
-      "url": "/nighantu/formulation/rohitakarishta/"
+      "url": "/formulation/rohitakarishta/"
     },
     {
       "slug": "saraswatarishta",
       "kind": "formulation",
       "title": "Saraswatarishta",
-      "url": "/nighantu/formulation/saraswatarishta/"
+      "url": "/formulation/saraswatarishta/"
     },
     {
       "slug": "sarivadyasava",
       "kind": "formulation",
       "title": "Sarivadyasava",
-      "url": "/nighantu/formulation/sarivadyasava/"
+      "url": "/formulation/sarivadyasava/"
     },
     {
       "slug": "srikhandasava",
       "kind": "formulation",
       "title": "Srikhandasava",
-      "url": "/nighantu/formulation/srikhandasava/"
+      "url": "/formulation/srikhandasava/"
     },
     {
       "slug": "vidangarishta",
       "kind": "formulation",
       "title": "Vidangarishta",
-      "url": "/nighantu/formulation/vidangarishta/"
+      "url": "/formulation/vidangarishta/"
     },
     {
       "slug": "ajamoda-arka",
       "kind": "formulation",
       "title": "Ajamoda Arka",
-      "url": "/nighantu/formulation/ajamoda-arka/"
+      "url": "/formulation/ajamoda-arka/"
     },
     {
       "slug": "ajamodadi-churna",
       "kind": "formulation",
       "title": "Ajamodadi Churna",
-      "url": "/nighantu/formulation/ajamodadi-churna/"
+      "url": "/formulation/ajamodadi-churna/"
     },
     {
       "slug": "avipattikar-churna",
       "kind": "formulation",
       "title": "Avipattikar Churna",
-      "url": "/nighantu/formulation/avipattikar-churna/"
+      "url": "/formulation/avipattikar-churna/"
     },
     {
       "slug": "caturjata-churna",
       "kind": "formulation",
       "title": "Caturjata Churna",
-      "url": "/nighantu/formulation/caturjata-churna/"
+      "url": "/formulation/caturjata-churna/"
     },
     {
       "slug": "dadimashtaka-churna",
       "kind": "formulation",
       "title": "Dadimashtaka Churna",
-      "url": "/nighantu/formulation/dadimashtaka-churna/"
+      "url": "/formulation/dadimashtaka-churna/"
     },
     {
       "slug": "dhatupaushtik-churna",
       "kind": "formulation",
       "title": "Dhatupaushtik Churna",
-      "url": "/nighantu/formulation/dhatupaushtik-churna/"
+      "url": "/formulation/dhatupaushtik-churna/"
     },
     {
       "slug": "gangadhara-churna",
       "kind": "formulation",
       "title": "Gangadhara Churna",
-      "url": "/nighantu/formulation/gangadhara-churna/"
+      "url": "/formulation/gangadhara-churna/"
     },
     {
       "slug": "hinguvachadi-churna",
       "kind": "formulation",
       "title": "Hinguvachadi Churna",
-      "url": "/nighantu/formulation/hinguvachadi-churna/"
+      "url": "/formulation/hinguvachadi-churna/"
     },
     {
       "slug": "hingvashtak-churna",
       "kind": "formulation",
       "title": "Hingvashtak Churna",
-      "url": "/nighantu/formulation/hingvashtak-churna/"
+      "url": "/formulation/hingvashtak-churna/"
     },
     {
       "slug": "hingwashtak-churna",
       "kind": "formulation",
       "title": "Hingwashtak Churna",
-      "url": "/nighantu/formulation/hingwashtak-churna/"
+      "url": "/formulation/hingwashtak-churna/"
     },
     {
       "slug": "mahasudarshan-churna",
       "kind": "formulation",
       "title": "Mahasudarshan Churna",
-      "url": "/nighantu/formulation/mahasudarshan-churna/"
+      "url": "/formulation/mahasudarshan-churna/"
     },
     {
       "slug": "panchakola-churna",
       "kind": "formulation",
       "title": "Panchakola Churna",
-      "url": "/nighantu/formulation/panchakola-churna/"
+      "url": "/formulation/panchakola-churna/"
     },
     {
       "slug": "pushyanuga-churna",
       "kind": "formulation",
       "title": "Pushyanuga Churna",
-      "url": "/nighantu/formulation/pushyanuga-churna/"
+      "url": "/formulation/pushyanuga-churna/"
     },
     {
       "slug": "sitopaladi-churna",
       "kind": "formulation",
       "title": "Sitopaladi Churna",
-      "url": "/nighantu/formulation/sitopaladi-churna/"
+      "url": "/formulation/sitopaladi-churna/"
     },
     {
       "slug": "sudarshan-churna",
       "kind": "formulation",
       "title": "Sudarshan Churna",
-      "url": "/nighantu/formulation/sudarshan-churna/"
+      "url": "/formulation/sudarshan-churna/"
     },
     {
       "slug": "talisadi-churna",
       "kind": "formulation",
       "title": "Talisadi Churna",
-      "url": "/nighantu/formulation/talisadi-churna/"
+      "url": "/formulation/talisadi-churna/"
     },
     {
       "slug": "trikatu-churna",
       "kind": "formulation",
       "title": "Trikatu Churna",
-      "url": "/nighantu/formulation/trikatu-churna/"
+      "url": "/formulation/trikatu-churna/"
     },
     {
       "slug": "triphala-churna",
       "kind": "formulation",
       "title": "Triphala Churna",
-      "url": "/nighantu/formulation/triphala-churna/"
+      "url": "/formulation/triphala-churna/"
     },
     {
       "slug": "amrita-ghrita",
       "kind": "formulation",
       "title": "Amrita Ghrita",
-      "url": "/nighantu/formulation/amrita-ghrita/"
+      "url": "/formulation/amrita-ghrita/"
     },
     {
       "slug": "amritaprasha-ghrita",
       "kind": "formulation",
       "title": "Amritaprasha Ghrita",
-      "url": "/nighantu/formulation/amritaprasha-ghrita/"
+      "url": "/formulation/amritaprasha-ghrita/"
     },
     {
       "slug": "ashoka-ghrita",
       "kind": "formulation",
       "title": "Ashoka Ghrita",
-      "url": "/nighantu/formulation/ashoka-ghrita/"
+      "url": "/formulation/ashoka-ghrita/"
     },
     {
       "slug": "brahmi-ghritam",
       "kind": "formulation",
       "title": "Brahmi Ghritam",
-      "url": "/nighantu/formulation/brahmi-ghritam/"
+      "url": "/formulation/brahmi-ghritam/"
     },
     {
       "slug": "changeri-ghrita",
       "kind": "formulation",
       "title": "Changeri Ghrita",
-      "url": "/nighantu/formulation/changeri-ghrita/"
+      "url": "/formulation/changeri-ghrita/"
     },
     {
       "slug": "dadimadi-ghrita",
       "kind": "formulation",
       "title": "Dadimadi Ghrita",
-      "url": "/nighantu/formulation/dadimadi-ghrita/"
+      "url": "/formulation/dadimadi-ghrita/"
     },
     {
       "slug": "guggulutiktakam-ghritam",
       "kind": "formulation",
       "title": "Guggulutiktakam Ghritam",
-      "url": "/nighantu/formulation/guggulutiktakam-ghritam/"
+      "url": "/formulation/guggulutiktakam-ghritam/"
     },
     {
       "slug": "indukantham-ghritam",
       "kind": "formulation",
       "title": "Indukantham Ghritam",
-      "url": "/nighantu/formulation/indukantham-ghritam/"
+      "url": "/formulation/indukantham-ghritam/"
     },
     {
       "slug": "jatyadi-ghrita",
       "kind": "formulation",
       "title": "Jatyadi Ghrita",
-      "url": "/nighantu/formulation/jatyadi-ghrita/"
+      "url": "/formulation/jatyadi-ghrita/"
     },
     {
       "slug": "kalyanaka-ghrita",
       "kind": "formulation",
       "title": "Kalyanaka Ghrita",
-      "url": "/nighantu/formulation/kalyanaka-ghrita/"
+      "url": "/formulation/kalyanaka-ghrita/"
     },
     {
       "slug": "kalyanaka-ghritam",
       "kind": "formulation",
       "title": "Kalyanaka Ghritam",
-      "url": "/nighantu/formulation/kalyanaka-ghritam/"
+      "url": "/formulation/kalyanaka-ghritam/"
     },
     {
       "slug": "panchagavya-ghrita",
       "kind": "formulation",
       "title": "Panchagavya Ghrita",
-      "url": "/nighantu/formulation/panchagavya-ghrita/"
+      "url": "/formulation/panchagavya-ghrita/"
     },
     {
       "slug": "panchatikta-ghrita",
       "kind": "formulation",
       "title": "Panchatikta Ghrita",
-      "url": "/nighantu/formulation/panchatikta-ghrita/"
+      "url": "/formulation/panchatikta-ghrita/"
     },
     {
       "slug": "phala-ghrita",
       "kind": "formulation",
       "title": "Phala Ghrita",
-      "url": "/nighantu/formulation/phala-ghrita/"
+      "url": "/formulation/phala-ghrita/"
     },
     {
       "slug": "sukumaram-ghritam",
       "kind": "formulation",
       "title": "Sukumaram Ghritam",
-      "url": "/nighantu/formulation/sukumaram-ghritam/"
+      "url": "/formulation/sukumaram-ghritam/"
     },
     {
       "slug": "varanadi-ghritam",
       "kind": "formulation",
       "title": "Varanadi Ghritam",
-      "url": "/nighantu/formulation/varanadi-ghritam/"
+      "url": "/formulation/varanadi-ghritam/"
     },
     {
       "slug": "vidaryadi-ghrita",
       "kind": "formulation",
       "title": "Vidaryadi Ghrita",
-      "url": "/nighantu/formulation/vidaryadi-ghrita/"
+      "url": "/formulation/vidaryadi-ghrita/"
     },
     {
       "slug": "gokshuradi-guggulu",
       "kind": "formulation",
       "title": "Gokshuradi Guggulu",
-      "url": "/nighantu/formulation/gokshuradi-guggulu/"
+      "url": "/formulation/gokshuradi-guggulu/"
     },
     {
       "slug": "guggulu",
       "kind": "formulation",
       "title": "Guggulu",
-      "url": "/nighantu/formulation/guggulu/"
+      "url": "/formulation/guggulu/"
     },
     {
       "slug": "guggulu-herb",
       "kind": "formulation",
       "title": "Guggulu Herb",
-      "url": "/nighantu/formulation/guggulu-herb/"
+      "url": "/formulation/guggulu-herb/"
     },
     {
       "slug": "kaishore-guggul",
       "kind": "formulation",
       "title": "Kaishore Guggul",
-      "url": "/nighantu/formulation/kaishore-guggul/"
+      "url": "/formulation/kaishore-guggul/"
     },
     {
       "slug": "kanchanara-guggulu",
       "kind": "formulation",
       "title": "Kanchanara Guggulu",
-      "url": "/nighantu/formulation/kanchanara-guggulu/"
+      "url": "/formulation/kanchanara-guggulu/"
     },
     {
       "slug": "mahayograj-guggul",
       "kind": "formulation",
       "title": "Mahayograj Guggul",
-      "url": "/nighantu/formulation/mahayograj-guggul/"
+      "url": "/formulation/mahayograj-guggul/"
     },
     {
       "slug": "punarnavadi-guggulu",
       "kind": "formulation",
       "title": "Punarnavadi Guggulu",
-      "url": "/nighantu/formulation/punarnavadi-guggulu/"
+      "url": "/formulation/punarnavadi-guggulu/"
     },
     {
       "slug": "simhanada-guggulu",
       "kind": "formulation",
       "title": "Simhanada Guggulu",
-      "url": "/nighantu/formulation/simhanada-guggulu/"
+      "url": "/formulation/simhanada-guggulu/"
     },
     {
       "slug": "triphala-guggulu",
       "kind": "formulation",
       "title": "Triphala Guggulu",
-      "url": "/nighantu/formulation/triphala-guggulu/"
+      "url": "/formulation/triphala-guggulu/"
     },
     {
       "slug": "vyoshadi-guggulu",
       "kind": "formulation",
       "title": "Vyoshadi Guggulu",
-      "url": "/nighantu/formulation/vyoshadi-guggulu/"
+      "url": "/formulation/vyoshadi-guggulu/"
     },
     {
       "slug": "yogaraja-guggulu",
       "kind": "formulation",
       "title": "Yogaraja Guggulu",
-      "url": "/nighantu/formulation/yogaraja-guggulu/"
+      "url": "/formulation/yogaraja-guggulu/"
     },
     {
       "slug": "amritottaram-kashayam",
       "kind": "formulation",
       "title": "Amritottaram Kashayam",
-      "url": "/nighantu/formulation/amritottaram-kashayam/"
+      "url": "/formulation/amritottaram-kashayam/"
     },
     {
       "slug": "aragvadhadi-kwath",
       "kind": "formulation",
       "title": "Aragvadhadi Kwath",
-      "url": "/nighantu/formulation/aragvadhadi-kwath/"
+      "url": "/formulation/aragvadhadi-kwath/"
     },
     {
       "slug": "asanadi-kwath",
       "kind": "formulation",
       "title": "Asanadi Kwath",
-      "url": "/nighantu/formulation/asanadi-kwath/"
+      "url": "/formulation/asanadi-kwath/"
     },
     {
       "slug": "brihatyadi-kashayam",
       "kind": "formulation",
       "title": "Brihatyadi Kashayam",
-      "url": "/nighantu/formulation/brihatyadi-kashayam/"
+      "url": "/formulation/brihatyadi-kashayam/"
     },
     {
       "slug": "dashamoola-katutraya-kashayam",
       "kind": "formulation",
       "title": "Dashamoola Katutraya Kashayam",
-      "url": "/nighantu/formulation/dashamoola-katutraya-kashayam/"
+      "url": "/formulation/dashamoola-katutraya-kashayam/"
     },
     {
       "slug": "dashamula",
       "kind": "formulation",
       "title": "Dashamula",
-      "url": "/nighantu/formulation/dashamula/"
+      "url": "/formulation/dashamula/"
     },
     {
       "slug": "dhanwantaram-kashayam",
       "kind": "formulation",
       "title": "Dhanwantaram Kashayam",
-      "url": "/nighantu/formulation/dhanwantaram-kashayam/"
+      "url": "/formulation/dhanwantaram-kashayam/"
     },
     {
       "slug": "drakshadi-kashayam",
       "kind": "formulation",
       "title": "Drakshadi Kashayam",
-      "url": "/nighantu/formulation/drakshadi-kashayam/"
+      "url": "/formulation/drakshadi-kashayam/"
     },
     {
       "slug": "elakanadi-kashayam",
       "kind": "formulation",
       "title": "Elakanadi Kashayam",
-      "url": "/nighantu/formulation/elakanadi-kashayam/"
+      "url": "/formulation/elakanadi-kashayam/"
     },
     {
       "slug": "gandharvahastadi-kashayam",
       "kind": "formulation",
       "title": "Gandharvahastadi Kashayam",
-      "url": "/nighantu/formulation/gandharvahastadi-kashayam/"
+      "url": "/formulation/gandharvahastadi-kashayam/"
     },
     {
       "slug": "guloochyadi-kashayam",
       "kind": "formulation",
       "title": "Guloochyadi Kashayam",
-      "url": "/nighantu/formulation/guloochyadi-kashayam/"
+      "url": "/formulation/guloochyadi-kashayam/"
     },
     {
       "slug": "kulathadi-kwath",
       "kind": "formulation",
       "title": "Kulathadi Kwath",
-      "url": "/nighantu/formulation/kulathadi-kwath/"
+      "url": "/formulation/kulathadi-kwath/"
     },
     {
       "slug": "rasnasaptakam-kashayam",
       "kind": "formulation",
       "title": "Rasnasaptakam Kashayam",
-      "url": "/nighantu/formulation/rasnasaptakam-kashayam/"
+      "url": "/formulation/rasnasaptakam-kashayam/"
     },
     {
       "slug": "sukumara-kashayam",
       "kind": "formulation",
       "title": "Sukumara Kashayam",
-      "url": "/nighantu/formulation/sukumara-kashayam/"
+      "url": "/formulation/sukumara-kashayam/"
     },
     {
       "slug": "varunadi-kashayam",
       "kind": "formulation",
       "title": "Varunadi Kashayam",
-      "url": "/nighantu/formulation/varunadi-kashayam/"
+      "url": "/formulation/varunadi-kashayam/"
     },
     {
       "slug": "avaleha",
       "kind": "formulation",
       "title": "Avaleha",
-      "url": "/nighantu/formulation/avaleha/"
+      "url": "/formulation/avaleha/"
     },
     {
       "slug": "bilwadi-leha",
       "kind": "formulation",
       "title": "Bilwadi Leha",
-      "url": "/nighantu/formulation/bilwadi-leha/"
+      "url": "/formulation/bilwadi-leha/"
     },
     {
       "slug": "chyawanprash",
       "kind": "formulation",
       "title": "Chyawanprash",
-      "url": "/nighantu/formulation/chyawanprash/"
+      "url": "/formulation/chyawanprash/"
     },
     {
       "slug": "gulakanda",
       "kind": "formulation",
       "title": "Gulakanda",
-      "url": "/nighantu/formulation/gulakanda/"
+      "url": "/formulation/gulakanda/"
     },
     {
       "slug": "haridra-khanda",
       "kind": "formulation",
       "title": "Haridra Khanda",
-      "url": "/nighantu/formulation/haridra-khanda/"
+      "url": "/formulation/haridra-khanda/"
     },
     {
       "slug": "pippali-khanda",
       "kind": "formulation",
       "title": "Pippali Khanda",
-      "url": "/nighantu/formulation/pippali-khanda/"
+      "url": "/formulation/pippali-khanda/"
     },
     {
       "slug": "vasa-avaleha",
       "kind": "formulation",
       "title": "Vasa Avaleha",
-      "url": "/nighantu/formulation/vasa-avaleha/"
+      "url": "/formulation/vasa-avaleha/"
     },
     {
       "slug": "agastya-haritaki-rasayana",
       "kind": "formulation",
       "title": "Agastya Haritaki Rasayana",
-      "url": "/nighantu/formulation/agastya-haritaki-rasayana/"
+      "url": "/formulation/agastya-haritaki-rasayana/"
     },
     {
       "slug": "amalaka-rasayana",
       "kind": "formulation",
       "title": "Amalaka Rasayana",
-      "url": "/nighantu/formulation/amalaka-rasayana/"
+      "url": "/formulation/amalaka-rasayana/"
     },
     {
       "slug": "amalaki-rasayana",
       "kind": "formulation",
       "title": "Amalaki Rasayana",
-      "url": "/nighantu/formulation/amalaki-rasayana/"
+      "url": "/formulation/amalaki-rasayana/"
     },
     {
       "slug": "brahma-rasayana",
       "kind": "formulation",
       "title": "Brahma Rasayana",
-      "url": "/nighantu/formulation/brahma-rasayana/"
+      "url": "/formulation/brahma-rasayana/"
     },
     {
       "slug": "madhusnuhi-rasayana",
       "kind": "formulation",
       "title": "Madhusnuhi Rasayana",
-      "url": "/nighantu/formulation/madhusnuhi-rasayana/"
+      "url": "/formulation/madhusnuhi-rasayana/"
     },
     {
       "slug": "ardraka-svarasa",
       "kind": "formulation",
       "title": "Ardraka Svarasa",
-      "url": "/nighantu/formulation/ardraka-svarasa/"
+      "url": "/formulation/ardraka-svarasa/"
     },
     {
       "slug": "bhringaraja-svarasa",
       "kind": "formulation",
       "title": "Bhringaraja Svarasa",
-      "url": "/nighantu/formulation/bhringaraja-svarasa/"
+      "url": "/formulation/bhringaraja-svarasa/"
     },
     {
       "slug": "anu-taila",
       "kind": "formulation",
       "title": "Anu Taila",
-      "url": "/nighantu/formulation/anu-taila/"
+      "url": "/formulation/anu-taila/"
     },
     {
       "slug": "badama-taila",
       "kind": "formulation",
       "title": "Badama Taila",
-      "url": "/nighantu/formulation/badama-taila/"
+      "url": "/formulation/badama-taila/"
     },
     {
       "slug": "bakuchi-taila",
       "kind": "formulation",
       "title": "Bakuchi Taila",
-      "url": "/nighantu/formulation/bakuchi-taila/"
+      "url": "/formulation/bakuchi-taila/"
     },
     {
       "slug": "balaswagandhadi-thailam",
       "kind": "formulation",
       "title": "Balaswagandhadi Thailam",
-      "url": "/nighantu/formulation/balaswagandhadi-thailam/"
+      "url": "/formulation/balaswagandhadi-thailam/"
     },
     {
       "slug": "bhallataka-taila",
       "kind": "formulation",
       "title": "Bhallataka Taila",
-      "url": "/nighantu/formulation/bhallataka-taila/"
+      "url": "/formulation/bhallataka-taila/"
     },
     {
       "slug": "coconut-oil-narikela-taila",
       "kind": "formulation",
       "title": "Coconut Oil Narikela Taila",
-      "url": "/nighantu/formulation/coconut-oil-narikela-taila/"
+      "url": "/formulation/coconut-oil-narikela-taila/"
     },
     {
       "slug": "dhanwantaram-thailam",
       "kind": "formulation",
       "title": "Dhanwantaram Thailam",
-      "url": "/nighantu/formulation/dhanwantaram-thailam/"
+      "url": "/formulation/dhanwantaram-thailam/"
     },
     {
       "slug": "eladi-thailam",
       "kind": "formulation",
       "title": "Eladi Thailam",
-      "url": "/nighantu/formulation/eladi-thailam/"
+      "url": "/formulation/eladi-thailam/"
     },
     {
       "slug": "eranda-taila",
       "kind": "formulation",
       "title": "Eranda Taila",
-      "url": "/nighantu/formulation/eranda-taila/"
+      "url": "/formulation/eranda-taila/"
     },
     {
       "slug": "himasagara-thailam",
       "kind": "formulation",
       "title": "Himasagara Thailam",
-      "url": "/nighantu/formulation/himasagara-thailam/"
+      "url": "/formulation/himasagara-thailam/"
     },
     {
       "slug": "irimedadi-taila",
       "kind": "formulation",
       "title": "Irimedadi Taila",
-      "url": "/nighantu/formulation/irimedadi-taila/"
+      "url": "/formulation/irimedadi-taila/"
     },
     {
       "slug": "jatyadi-taila",
       "kind": "formulation",
       "title": "Jatyadi Taila",
-      "url": "/nighantu/formulation/jatyadi-taila/"
+      "url": "/formulation/jatyadi-taila/"
     },
     {
       "slug": "kapha-shirodhara-taila",
       "kind": "formulation",
       "title": "Kapha Shirodhara Taila",
-      "url": "/nighantu/formulation/kapha-shirodhara-taila/"
+      "url": "/formulation/kapha-shirodhara-taila/"
     },
     {
       "slug": "karanja-taila",
       "kind": "formulation",
       "title": "Karanja Taila",
-      "url": "/nighantu/formulation/karanja-taila/"
+      "url": "/formulation/karanja-taila/"
     },
     {
       "slug": "karpas-asthyadi-thailam",
       "kind": "formulation",
       "title": "Karpas Asthyadi Thailam",
-      "url": "/nighantu/formulation/karpas-asthyadi-thailam/"
+      "url": "/formulation/karpas-asthyadi-thailam/"
     },
     {
       "slug": "karpasasthyadi-thailam",
       "kind": "formulation",
       "title": "Karpasasthyadi Thailam",
-      "url": "/nighantu/formulation/karpasasthyadi-thailam/"
+      "url": "/formulation/karpasasthyadi-thailam/"
     },
     {
       "slug": "karpooradi-thailam",
       "kind": "formulation",
       "title": "Karpooradi Thailam",
-      "url": "/nighantu/formulation/karpooradi-thailam/"
+      "url": "/formulation/karpooradi-thailam/"
     },
     {
       "slug": "kottamchukkadi-thailam",
       "kind": "formulation",
       "title": "Kottamchukkadi Thailam",
-      "url": "/nighantu/formulation/kottamchukkadi-thailam/"
+      "url": "/formulation/kottamchukkadi-thailam/"
     },
     {
       "slug": "kshirabala-thailam",
       "kind": "formulation",
       "title": "Kshirabala Thailam",
-      "url": "/nighantu/formulation/kshirabala-thailam/"
+      "url": "/formulation/kshirabala-thailam/"
     },
     {
       "slug": "kumkumadi-tailam",
       "kind": "formulation",
       "title": "Kumkumadi Tailam",
-      "url": "/nighantu/formulation/kumkumadi-tailam/"
+      "url": "/formulation/kumkumadi-tailam/"
     },
     {
       "slug": "kumkumadi-thailam",
       "kind": "formulation",
       "title": "Kumkumadi Thailam",
-      "url": "/nighantu/formulation/kumkumadi-thailam/"
+      "url": "/formulation/kumkumadi-thailam/"
     },
     {
       "slug": "kuntalakanti-tailam",
       "kind": "formulation",
       "title": "Kuntalakanti Tailam",
-      "url": "/nighantu/formulation/kuntalakanti-tailam/"
+      "url": "/formulation/kuntalakanti-tailam/"
     },
     {
       "slug": "lakshadi-thailam",
       "kind": "formulation",
       "title": "Lakshadi Thailam",
-      "url": "/nighantu/formulation/lakshadi-thailam/"
+      "url": "/formulation/lakshadi-thailam/"
     },
     {
       "slug": "maha-narayana-thailam",
       "kind": "formulation",
       "title": "Maha Narayana Thailam",
-      "url": "/nighantu/formulation/maha-narayana-thailam/"
+      "url": "/formulation/maha-narayana-thailam/"
     },
     {
       "slug": "murivenna",
       "kind": "formulation",
       "title": "Murivenna",
-      "url": "/nighantu/formulation/murivenna/"
+      "url": "/formulation/murivenna/"
     },
     {
       "slug": "narayana-thailam",
       "kind": "formulation",
       "title": "Narayana Thailam",
-      "url": "/nighantu/formulation/narayana-thailam/"
+      "url": "/formulation/narayana-thailam/"
     },
     {
       "slug": "neelibringadi-thailam",
       "kind": "formulation",
       "title": "Neelibringadi Thailam",
-      "url": "/nighantu/formulation/neelibringadi-thailam/"
+      "url": "/formulation/neelibringadi-thailam/"
     },
     {
       "slug": "pinda-thailam",
       "kind": "formulation",
       "title": "Pinda Thailam",
-      "url": "/nighantu/formulation/pinda-thailam/"
+      "url": "/formulation/pinda-thailam/"
     },
     {
       "slug": "pitta-shirodhara-taila",
       "kind": "formulation",
       "title": "Pitta Shirodhara Taila",
-      "url": "/nighantu/formulation/pitta-shirodhara-taila/"
+      "url": "/formulation/pitta-shirodhara-taila/"
     },
     {
       "slug": "sahacharadi-thailam",
       "kind": "formulation",
       "title": "Sahacharadi Thailam",
-      "url": "/nighantu/formulation/sahacharadi-thailam/"
+      "url": "/formulation/sahacharadi-thailam/"
     },
     {
       "slug": "shadbindu-taila",
       "kind": "formulation",
       "title": "Shadbindu Taila",
-      "url": "/nighantu/formulation/shadbindu-taila/"
+      "url": "/formulation/shadbindu-taila/"
     },
     {
       "slug": "triphaladi-thailam",
       "kind": "formulation",
       "title": "Triphaladi Thailam",
-      "url": "/nighantu/formulation/triphaladi-thailam/"
+      "url": "/formulation/triphaladi-thailam/"
     },
     {
       "slug": "vata-shirodhara-taila",
       "kind": "formulation",
       "title": "Vata Shirodhara Taila",
-      "url": "/nighantu/formulation/vata-shirodhara-taila/"
+      "url": "/formulation/vata-shirodhara-taila/"
     },
     {
       "slug": "agnitundi-vati",
       "kind": "formulation",
       "title": "Agnitundi Vati",
-      "url": "/nighantu/formulation/agnitundi-vati/"
+      "url": "/formulation/agnitundi-vati/"
     },
     {
       "slug": "arogyavardhini-vati",
       "kind": "formulation",
       "title": "Arogyavardhini Vati",
-      "url": "/nighantu/formulation/arogyavardhini-vati/"
+      "url": "/formulation/arogyavardhini-vati/"
     },
     {
       "slug": "brahmi-vati",
       "kind": "formulation",
       "title": "Brahmi Vati",
-      "url": "/nighantu/formulation/brahmi-vati/"
+      "url": "/formulation/brahmi-vati/"
     },
     {
       "slug": "chandraprabha-vati",
       "kind": "formulation",
       "title": "Chandraprabha Vati",
-      "url": "/nighantu/formulation/chandraprabha-vati/"
+      "url": "/formulation/chandraprabha-vati/"
     },
     {
       "slug": "chitrakadi-vati",
       "kind": "formulation",
       "title": "Chitrakadi Vati",
-      "url": "/nighantu/formulation/chitrakadi-vati/"
+      "url": "/formulation/chitrakadi-vati/"
     },
     {
       "slug": "dhanwantaram-gutika",
       "kind": "formulation",
       "title": "Dhanwantaram Gutika",
-      "url": "/nighantu/formulation/dhanwantaram-gutika/"
+      "url": "/formulation/dhanwantaram-gutika/"
     },
     {
       "slug": "eladi-vati",
       "kind": "formulation",
       "title": "Eladi Vati",
-      "url": "/nighantu/formulation/eladi-vati/"
+      "url": "/formulation/eladi-vati/"
     },
     {
       "slug": "kanthasudharak-vati",
       "kind": "formulation",
       "title": "Kanthasudharak Vati",
-      "url": "/nighantu/formulation/kanthasudharak-vati/"
+      "url": "/formulation/kanthasudharak-vati/"
     },
     {
       "slug": "khadiradi-vati",
       "kind": "formulation",
       "title": "Khadiradi Vati",
-      "url": "/nighantu/formulation/khadiradi-vati/"
+      "url": "/formulation/khadiradi-vati/"
     },
     {
       "slug": "krimighna-vati",
       "kind": "formulation",
       "title": "Krimighna Vati",
-      "url": "/nighantu/formulation/krimighna-vati/"
+      "url": "/formulation/krimighna-vati/"
     },
     {
       "slug": "lavangadi-vati",
       "kind": "formulation",
       "title": "Lavangadi Vati",
-      "url": "/nighantu/formulation/lavangadi-vati/"
+      "url": "/formulation/lavangadi-vati/"
     },
     {
       "slug": "sanjivani-vati",
       "kind": "formulation",
       "title": "Sanjivani Vati",
-      "url": "/nighantu/formulation/sanjivani-vati/"
+      "url": "/formulation/sanjivani-vati/"
     },
     {
       "slug": "agnimantha",
       "kind": "herb",
       "title": "Agnimantha",
-      "url": "/nighantu/herb/agnimantha/"
+      "url": "/herb/agnimantha/"
     },
     {
       "slug": "kembuka",
       "kind": "herb",
       "title": "Kembuka",
-      "url": "/nighantu/herb/kembuka/"
+      "url": "/herb/kembuka/"
     },
     {
       "slug": "ahiphena",
       "kind": "herb",
       "title": "Ahiphena",
-      "url": "/nighantu/herb/ahiphena/"
+      "url": "/herb/ahiphena/"
     },
     {
       "slug": "bhanga",
       "kind": "herb",
       "title": "Bhanga",
-      "url": "/nighantu/herb/bhanga/"
+      "url": "/herb/bhanga/"
     },
     {
       "slug": "bhutakeshi",
       "kind": "herb",
       "title": "Bhutakeshi",
-      "url": "/nighantu/herb/bhutakeshi/"
+      "url": "/herb/bhutakeshi/"
     },
     {
       "slug": "brahmi",
       "kind": "herb",
       "title": "Brahmi",
-      "url": "/nighantu/herb/brahmi/"
+      "url": "/herb/brahmi/"
     },
     {
       "slug": "jatamansi",
       "kind": "herb",
       "title": "Jatamansi",
-      "url": "/nighantu/herb/jatamansi/"
+      "url": "/herb/jatamansi/"
     },
     {
       "slug": "jyotishmati",
       "kind": "herb",
       "title": "Jyotishmati",
-      "url": "/nighantu/herb/jyotishmati/"
+      "url": "/herb/jyotishmati/"
     },
     {
       "slug": "kapikachhu",
       "kind": "herb",
       "title": "Kapikachhu",
-      "url": "/nighantu/herb/kapikachhu/"
+      "url": "/herb/kapikachhu/"
     },
     {
       "slug": "mandukparni",
       "kind": "herb",
       "title": "Mandukparni",
-      "url": "/nighantu/herb/mandukparni/"
+      "url": "/herb/mandukparni/"
     },
     {
       "slug": "matsyakshi",
       "kind": "herb",
       "title": "Matsyakshi",
-      "url": "/nighantu/herb/matsyakshi/"
+      "url": "/herb/matsyakshi/"
     },
     {
       "slug": "rudraksha",
       "kind": "herb",
       "title": "Rudraksha",
-      "url": "/nighantu/herb/rudraksha/"
+      "url": "/herb/rudraksha/"
     },
     {
       "slug": "shankhini",
       "kind": "herb",
       "title": "Shankhini",
-      "url": "/nighantu/herb/shankhini/"
+      "url": "/herb/shankhini/"
     },
     {
       "slug": "shankhpushpi",
       "kind": "herb",
       "title": "Shankhpushpi",
-      "url": "/nighantu/herb/shankhpushpi/"
+      "url": "/herb/shankhpushpi/"
     },
     {
       "slug": "somavalli",
       "kind": "herb",
       "title": "Somavalli",
-      "url": "/nighantu/herb/somavalli/"
+      "url": "/herb/somavalli/"
     },
     {
       "slug": "tagara",
       "kind": "herb",
       "title": "Tagara",
-      "url": "/nighantu/herb/tagara/"
+      "url": "/herb/tagara/"
     },
     {
       "slug": "vacha",
       "kind": "herb",
       "title": "Vacha",
-      "url": "/nighantu/herb/vacha/"
+      "url": "/herb/vacha/"
     },
     {
       "slug": "vatsanabha",
       "kind": "herb",
       "title": "Vatsanabha",
-      "url": "/nighantu/herb/vatsanabha/"
+      "url": "/herb/vatsanabha/"
     },
     {
       "slug": "gudmar",
       "kind": "herb",
       "title": "Gudmar",
-      "url": "/nighantu/herb/gudmar/"
+      "url": "/herb/gudmar/"
     },
     {
       "slug": "isabgol",
       "kind": "herb",
       "title": "Isabgol",
-      "url": "/nighantu/herb/isabgol/"
+      "url": "/herb/isabgol/"
     },
     {
       "slug": "jamun",
       "kind": "herb",
       "title": "Jamun",
-      "url": "/nighantu/herb/jamun/"
+      "url": "/herb/jamun/"
     },
     {
       "slug": "karela",
       "kind": "herb",
       "title": "Karela",
-      "url": "/nighantu/herb/karela/"
+      "url": "/herb/karela/"
     },
     {
       "slug": "methi",
       "kind": "herb",
       "title": "Methi",
-      "url": "/nighantu/herb/methi/"
+      "url": "/herb/methi/"
     },
     {
       "slug": "vijaysar",
       "kind": "herb",
       "title": "Vijaysar",
-      "url": "/nighantu/herb/vijaysar/"
+      "url": "/herb/vijaysar/"
     },
     {
       "slug": "ajwain",
       "kind": "herb",
       "title": "Ajwain",
-      "url": "/nighantu/herb/ajwain/"
+      "url": "/herb/ajwain/"
     },
     {
       "slug": "bhutika",
       "kind": "herb",
       "title": "Bhutika",
-      "url": "/nighantu/herb/bhutika/"
+      "url": "/herb/bhutika/"
     },
     {
       "slug": "bilva",
       "kind": "herb",
       "title": "Bilva",
-      "url": "/nighantu/herb/bilva/"
+      "url": "/herb/bilva/"
     },
     {
       "slug": "changeri",
       "kind": "herb",
       "title": "Changeri",
-      "url": "/nighantu/herb/changeri/"
+      "url": "/herb/changeri/"
     },
     {
       "slug": "chitrak",
       "kind": "herb",
       "title": "Chitrak",
-      "url": "/nighantu/herb/chitrak/"
+      "url": "/herb/chitrak/"
     },
     {
       "slug": "gavedhuka",
       "kind": "herb",
       "title": "Gavedhuka",
-      "url": "/nighantu/herb/gavedhuka/"
+      "url": "/herb/gavedhuka/"
     },
     {
       "slug": "ginger",
       "kind": "herb",
       "title": "Ginger",
-      "url": "/nighantu/herb/ginger/"
+      "url": "/herb/ginger/"
     },
     {
       "slug": "grinjana",
       "kind": "herb",
       "title": "Grinjana",
-      "url": "/nighantu/herb/grinjana/"
+      "url": "/herb/grinjana/"
     },
     {
       "slug": "hingu",
       "kind": "herb",
       "title": "Hingu",
-      "url": "/nighantu/herb/hingu/"
+      "url": "/herb/hingu/"
     },
     {
       "slug": "ishabgula",
       "kind": "herb",
       "title": "Ishabgula",
-      "url": "/nighantu/herb/ishabgula/"
+      "url": "/herb/ishabgula/"
     },
     {
       "slug": "mulaka",
       "kind": "herb",
       "title": "Mulaka",
-      "url": "/nighantu/herb/mulaka/"
+      "url": "/herb/mulaka/"
     },
     {
       "slug": "nagarmotha",
       "kind": "herb",
       "title": "Nagarmotha",
-      "url": "/nighantu/herb/nagarmotha/"
+      "url": "/herb/nagarmotha/"
     },
     {
       "slug": "palandu",
       "kind": "herb",
       "title": "Palandu",
-      "url": "/nighantu/herb/palandu/"
+      "url": "/herb/palandu/"
     },
     {
       "slug": "parnayavani",
       "kind": "herb",
       "title": "Parnayavani",
-      "url": "/nighantu/herb/parnayavani/"
+      "url": "/herb/parnayavani/"
     },
     {
       "slug": "pippali",
       "kind": "herb",
       "title": "Pippali",
-      "url": "/nighantu/herb/pippali/"
+      "url": "/herb/pippali/"
     },
     {
       "slug": "tanduliyaka",
       "kind": "herb",
       "title": "Tanduliyaka",
-      "url": "/nighantu/herb/tanduliyaka/"
+      "url": "/herb/tanduliyaka/"
     },
     {
       "slug": "trapusha",
       "kind": "herb",
       "title": "Trapusha",
-      "url": "/nighantu/herb/trapusha/"
+      "url": "/herb/trapusha/"
     },
     {
       "slug": "trikatu",
       "kind": "herb",
       "title": "Trikatu",
-      "url": "/nighantu/herb/trikatu/"
+      "url": "/herb/trikatu/"
     },
     {
       "slug": "upodika",
       "kind": "herb",
       "title": "Upodika",
-      "url": "/nighantu/herb/upodika/"
+      "url": "/herb/upodika/"
     },
     {
       "slug": "vartaku",
       "kind": "herb",
       "title": "Vartaku",
-      "url": "/nighantu/herb/vartaku/"
+      "url": "/herb/vartaku/"
     },
     {
       "slug": "vidanga",
       "kind": "herb",
       "title": "Vidanga",
-      "url": "/nighantu/herb/vidanga/"
+      "url": "/herb/vidanga/"
     },
     {
       "slug": "yashtimadhu",
       "kind": "herb",
       "title": "Yashtimadhu",
-      "url": "/nighantu/herb/yashtimadhu/"
+      "url": "/herb/yashtimadhu/"
     },
     {
       "slug": "anjatraya",
       "kind": "herb",
       "title": "Anjatraya",
-      "url": "/nighantu/herb/anjatraya/"
+      "url": "/herb/anjatraya/"
     },
     {
       "slug": "chakshushya",
       "kind": "herb",
       "title": "Chakshushya",
-      "url": "/nighantu/herb/chakshushya/"
+      "url": "/herb/chakshushya/"
     },
     {
       "slug": "indrayava",
       "kind": "herb",
       "title": "Indrayava",
-      "url": "/nighantu/herb/indrayava/"
+      "url": "/herb/indrayava/"
     },
     {
       "slug": "katphala",
       "kind": "herb",
       "title": "Katphala",
-      "url": "/nighantu/herb/katphala/"
+      "url": "/herb/katphala/"
     },
     {
       "slug": "parpataka",
       "kind": "herb",
       "title": "Parpataka",
-      "url": "/nighantu/herb/parpataka/"
+      "url": "/herb/parpataka/"
     },
     {
       "slug": "saptaparna",
       "kind": "herb",
       "title": "Saptaparna",
-      "url": "/nighantu/herb/saptaparna/"
+      "url": "/herb/saptaparna/"
     },
     {
       "slug": "adhaki",
       "kind": "herb",
       "title": "Adhaki",
-      "url": "/nighantu/herb/adhaki/"
+      "url": "/herb/adhaki/"
     },
     {
       "slug": "agastya",
       "kind": "herb",
       "title": "Agastya",
-      "url": "/nighantu/herb/agastya/"
+      "url": "/herb/agastya/"
     },
     {
       "slug": "agnijara",
       "kind": "herb",
       "title": "Agnijara",
-      "url": "/nighantu/herb/agnijara/"
+      "url": "/herb/agnijara/"
     },
     {
       "slug": "agnikarna",
       "kind": "herb",
       "title": "Agnikarna",
-      "url": "/nighantu/herb/agnikarna/"
+      "url": "/herb/agnikarna/"
     },
     {
       "slug": "agnikumarika",
       "kind": "herb",
       "title": "Agnikumarika",
-      "url": "/nighantu/herb/agnikumarika/"
+      "url": "/herb/agnikumarika/"
     },
     {
       "slug": "aivana",
       "kind": "herb",
       "title": "Aivana",
-      "url": "/nighantu/herb/aivana/"
+      "url": "/herb/aivana/"
     },
     {
       "slug": "ajmoda",
       "kind": "herb",
       "title": "Ajmoda",
-      "url": "/nighantu/herb/ajmoda/"
+      "url": "/herb/ajmoda/"
     },
     {
       "slug": "ajwain-herb",
       "kind": "herb",
       "title": "Ajwain Herb",
-      "url": "/nighantu/herb/ajwain-herb/"
+      "url": "/herb/ajwain-herb/"
     },
     {
       "slug": "akarakarabha",
       "kind": "herb",
       "title": "Akarakarabha",
-      "url": "/nighantu/herb/akarakarabha/"
+      "url": "/herb/akarakarabha/"
     },
     {
       "slug": "akhuparni",
       "kind": "herb",
       "title": "Akhuparni",
-      "url": "/nighantu/herb/akhuparni/"
+      "url": "/herb/akhuparni/"
     },
     {
       "slug": "akshotaka",
       "kind": "herb",
       "title": "Akshotaka",
-      "url": "/nighantu/herb/akshotaka/"
+      "url": "/herb/akshotaka/"
     },
     {
       "slug": "alabu",
       "kind": "herb",
       "title": "Alabu",
-      "url": "/nighantu/herb/alabu/"
+      "url": "/herb/alabu/"
     },
     {
       "slug": "ambasthaki",
       "kind": "herb",
       "title": "Ambasthaki",
-      "url": "/nighantu/herb/ambasthaki/"
+      "url": "/herb/ambasthaki/"
     },
     {
       "slug": "amlaparni",
       "kind": "herb",
       "title": "Amlaparni",
-      "url": "/nighantu/herb/amlaparni/"
+      "url": "/herb/amlaparni/"
     },
     {
       "slug": "amlavetasa",
       "kind": "herb",
       "title": "Amlavetasa",
-      "url": "/nighantu/herb/amlavetasa/"
+      "url": "/herb/amlavetasa/"
     },
     {
       "slug": "ankola",
       "kind": "herb",
       "title": "Ankola",
-      "url": "/nighantu/herb/ankola/"
+      "url": "/herb/ankola/"
     },
     {
       "slug": "apamarga",
       "kind": "herb",
       "title": "Apamarga",
-      "url": "/nighantu/herb/apamarga/"
+      "url": "/herb/apamarga/"
     },
     {
       "slug": "aparajita",
       "kind": "herb",
       "title": "Aparajita",
-      "url": "/nighantu/herb/aparajita/"
+      "url": "/herb/aparajita/"
     },
     {
       "slug": "aragwadha",
       "kind": "herb",
       "title": "Aragwadha",
-      "url": "/nighantu/herb/aragwadha/"
+      "url": "/herb/aragwadha/"
     },
     {
       "slug": "aranya-jeeraka",
       "kind": "herb",
       "title": "Aranya Jeeraka",
-      "url": "/nighantu/herb/aranya-jeeraka/"
+      "url": "/herb/aranya-jeeraka/"
     },
     {
       "slug": "asthishrinkhala",
       "kind": "herb",
       "title": "Asthishrinkhala",
-      "url": "/nighantu/herb/asthishrinkhala/"
+      "url": "/herb/asthishrinkhala/"
     },
     {
       "slug": "atasi",
       "kind": "herb",
       "title": "Atasi",
-      "url": "/nighantu/herb/atasi/"
+      "url": "/herb/atasi/"
     },
     {
       "slug": "avipattikar",
       "kind": "herb",
       "title": "Avipattikar",
-      "url": "/nighantu/herb/avipattikar/"
+      "url": "/herb/avipattikar/"
     },
     {
       "slug": "avipattikar-herbs",
       "kind": "herb",
       "title": "Avipattikar Herbs",
-      "url": "/nighantu/herb/avipattikar-herbs/"
+      "url": "/herb/avipattikar-herbs/"
     },
     {
       "slug": "bala-mool",
       "kind": "herb",
       "title": "Bala Mool",
-      "url": "/nighantu/herb/bala-mool/"
+      "url": "/herb/bala-mool/"
     },
     {
       "slug": "bhadra",
       "kind": "herb",
       "title": "Bhadra",
-      "url": "/nighantu/herb/bhadra/"
+      "url": "/herb/bhadra/"
     },
     {
       "slug": "bharangi",
       "kind": "herb",
       "title": "Bharangi",
-      "url": "/nighantu/herb/bharangi/"
+      "url": "/herb/bharangi/"
     },
     {
       "slug": "bilva-majja",
       "kind": "herb",
       "title": "Bilva Majja",
-      "url": "/nighantu/herb/bilva-majja/"
+      "url": "/herb/bilva-majja/"
     },
     {
       "slug": "bilwa-patra",
       "kind": "herb",
       "title": "Bilwa Patra",
-      "url": "/nighantu/herb/bilwa-patra/"
+      "url": "/herb/bilwa-patra/"
     },
     {
       "slug": "bitter-gourd",
       "kind": "herb",
       "title": "Bitter Gourd",
-      "url": "/nighantu/herb/bitter-gourd/"
+      "url": "/herb/bitter-gourd/"
     },
     {
       "slug": "bitter-gourd-herb",
       "kind": "herb",
       "title": "Bitter Gourd Herb",
-      "url": "/nighantu/herb/bitter-gourd-herb/"
+      "url": "/herb/bitter-gourd-herb/"
     },
     {
       "slug": "brihati",
       "kind": "herb",
       "title": "Brihati",
-      "url": "/nighantu/herb/brihati/"
+      "url": "/herb/brihati/"
     },
     {
       "slug": "chakragaja",
       "kind": "herb",
       "title": "Chakragaja",
-      "url": "/nighantu/herb/chakragaja/"
+      "url": "/herb/chakragaja/"
     },
     {
       "slug": "chandrashura",
       "kind": "herb",
       "title": "Chandrashura",
-      "url": "/nighantu/herb/chandrashura/"
+      "url": "/herb/chandrashura/"
     },
     {
       "slug": "chavika",
       "kind": "herb",
       "title": "Chavika",
-      "url": "/nighantu/herb/chavika/"
+      "url": "/herb/chavika/"
     },
     {
       "slug": "chavya",
       "kind": "herb",
       "title": "Chavya",
-      "url": "/nighantu/herb/chavya/"
+      "url": "/herb/chavya/"
     },
     {
       "slug": "chhatraka",
       "kind": "herb",
       "title": "Chhatraka",
-      "url": "/nighantu/herb/chhatraka/"
+      "url": "/herb/chhatraka/"
     },
     {
       "slug": "chitraka-moola",
       "kind": "herb",
       "title": "Chitraka Moola",
-      "url": "/nighantu/herb/chitraka-moola/"
+      "url": "/herb/chitraka-moola/"
     },
     {
       "slug": "chitrakaharitaki",
       "kind": "herb",
       "title": "Chitrakaharitaki",
-      "url": "/nighantu/herb/chitrakaharitaki/"
+      "url": "/herb/chitrakaharitaki/"
     },
     {
       "slug": "coriander",
       "kind": "herb",
       "title": "Coriander",
-      "url": "/nighantu/herb/coriander/"
+      "url": "/herb/coriander/"
     },
     {
       "slug": "coriander-herb",
       "kind": "herb",
       "title": "Coriander Herb",
-      "url": "/nighantu/herb/coriander-herb/"
+      "url": "/herb/coriander-herb/"
     },
     {
       "slug": "cumin",
       "kind": "herb",
       "title": "Cumin",
-      "url": "/nighantu/herb/cumin/"
+      "url": "/herb/cumin/"
     },
     {
       "slug": "cumin-herb",
       "kind": "herb",
       "title": "Cumin Herb",
-      "url": "/nighantu/herb/cumin-herb/"
+      "url": "/herb/cumin-herb/"
     },
     {
       "slug": "dadima",
       "kind": "herb",
       "title": "Dadima",
-      "url": "/nighantu/herb/dadima/"
+      "url": "/herb/dadima/"
     },
     {
       "slug": "dadima-twak",
       "kind": "herb",
       "title": "Dadima Twak",
-      "url": "/nighantu/herb/dadima-twak/"
+      "url": "/herb/dadima-twak/"
     },
     {
       "slug": "danti",
       "kind": "herb",
       "title": "Danti",
-      "url": "/nighantu/herb/danti/"
+      "url": "/herb/danti/"
     },
     {
       "slug": "danti-moola",
       "kind": "herb",
       "title": "Danti Moola",
-      "url": "/nighantu/herb/danti-moola/"
+      "url": "/herb/danti-moola/"
     },
     {
       "slug": "dhamasa",
       "kind": "herb",
       "title": "Dhamasa",
-      "url": "/nighantu/herb/dhamasa/"
+      "url": "/herb/dhamasa/"
     },
     {
       "slug": "dhanyaka",
       "kind": "herb",
       "title": "Dhanyaka",
-      "url": "/nighantu/herb/dhanyaka/"
+      "url": "/herb/dhanyaka/"
     },
     {
       "slug": "dhanyamla",
       "kind": "herb",
       "title": "Dhanyamla",
-      "url": "/nighantu/herb/dhanyamla/"
+      "url": "/herb/dhanyamla/"
     },
     {
       "slug": "draksha",
       "kind": "herb",
       "title": "Draksha",
-      "url": "/nighantu/herb/draksha/"
+      "url": "/herb/draksha/"
     },
     {
       "slug": "drakshavaleha",
       "kind": "herb",
       "title": "Drakshavaleha",
-      "url": "/nighantu/herb/drakshavaleha/"
+      "url": "/herb/drakshavaleha/"
     },
     {
       "slug": "eranda",
       "kind": "herb",
       "title": "Eranda",
-      "url": "/nighantu/herb/eranda/"
+      "url": "/herb/eranda/"
     },
     {
       "slug": "eranda-moola",
       "kind": "herb",
       "title": "Eranda Moola",
-      "url": "/nighantu/herb/eranda-moola/"
+      "url": "/herb/eranda-moola/"
     },
     {
       "slug": "eranda-paka",
       "kind": "herb",
       "title": "Eranda Paka",
-      "url": "/nighantu/herb/eranda-paka/"
+      "url": "/herb/eranda-paka/"
     },
     {
       "slug": "eranda-patra",
       "kind": "herb",
       "title": "Eranda Patra",
-      "url": "/nighantu/herb/eranda-patra/"
+      "url": "/herb/eranda-patra/"
     },
     {
       "slug": "fennel",
       "kind": "herb",
       "title": "Fennel",
-      "url": "/nighantu/herb/fennel/"
+      "url": "/herb/fennel/"
     },
     {
       "slug": "fennel-herb",
       "kind": "herb",
       "title": "Fennel Herb",
-      "url": "/nighantu/herb/fennel-herb/"
+      "url": "/herb/fennel-herb/"
     },
     {
       "slug": "fenugreek-herb",
       "kind": "herb",
       "title": "Fenugreek Herb",
-      "url": "/nighantu/herb/fenugreek-herb/"
+      "url": "/herb/fenugreek-herb/"
     },
     {
       "slug": "gajapippali",
       "kind": "herb",
       "title": "Gajapippali",
-      "url": "/nighantu/herb/gajapippali/"
+      "url": "/herb/gajapippali/"
     },
     {
       "slug": "gambhari",
       "kind": "herb",
       "title": "Gambhari",
-      "url": "/nighantu/herb/gambhari/"
+      "url": "/herb/gambhari/"
     },
     {
       "slug": "gambhari-phala",
       "kind": "herb",
       "title": "Gambhari Phala",
-      "url": "/nighantu/herb/gambhari-phala/"
+      "url": "/herb/gambhari-phala/"
     },
     {
       "slug": "gandhak-rasayan",
       "kind": "herb",
       "title": "Gandhak Rasayan",
-      "url": "/nighantu/herb/gandhak-rasayan/"
+      "url": "/herb/gandhak-rasayan/"
     },
     {
       "slug": "gangeruki",
       "kind": "herb",
       "title": "Gangeruki",
-      "url": "/nighantu/herb/gangeruki/"
+      "url": "/herb/gangeruki/"
     },
     {
       "slug": "giloy-satva",
       "kind": "herb",
       "title": "Giloy Satva",
-      "url": "/nighantu/herb/giloy-satva/"
+      "url": "/herb/giloy-satva/"
     },
     {
       "slug": "gojihva",
       "kind": "herb",
       "title": "Gojihva",
-      "url": "/nighantu/herb/gojihva/"
+      "url": "/herb/gojihva/"
     },
     {
       "slug": "gokarna",
       "kind": "herb",
       "title": "Gokarna",
-      "url": "/nighantu/herb/gokarna/"
+      "url": "/herb/gokarna/"
     },
     {
       "slug": "gorakhmundi",
       "kind": "herb",
       "title": "Gorakhmundi",
-      "url": "/nighantu/herb/gorakhmundi/"
+      "url": "/herb/gorakhmundi/"
     },
     {
       "slug": "gudmar-herb",
       "kind": "herb",
       "title": "Gudmar Herb",
-      "url": "/nighantu/herb/gudmar-herb/"
+      "url": "/herb/gudmar-herb/"
     },
     {
       "slug": "haridra",
       "kind": "herb",
       "title": "Haridra",
-      "url": "/nighantu/herb/haridra/"
+      "url": "/herb/haridra/"
     },
     {
       "slug": "himsra",
       "kind": "herb",
       "title": "Himsra",
-      "url": "/nighantu/herb/himsra/"
+      "url": "/herb/himsra/"
     },
     {
       "slug": "hingupatri",
       "kind": "herb",
       "title": "Hingupatri",
-      "url": "/nighantu/herb/hingupatri/"
+      "url": "/herb/hingupatri/"
     },
     {
       "slug": "holy-basil",
       "kind": "herb",
       "title": "Holy Basil",
-      "url": "/nighantu/herb/holy-basil/"
+      "url": "/herb/holy-basil/"
     },
     {
       "slug": "indravaruni",
       "kind": "herb",
       "title": "Indravaruni",
-      "url": "/nighantu/herb/indravaruni/"
+      "url": "/herb/indravaruni/"
     },
     {
       "slug": "ishwari",
       "kind": "herb",
       "title": "Ishwari",
-      "url": "/nighantu/herb/ishwari/"
+      "url": "/herb/ishwari/"
     },
     {
       "slug": "jalavetasa",
       "kind": "herb",
       "title": "Jalavetasa",
-      "url": "/nighantu/herb/jalavetasa/"
+      "url": "/herb/jalavetasa/"
     },
     {
       "slug": "jambu",
       "kind": "herb",
       "title": "Jambu",
-      "url": "/nighantu/herb/jambu/"
+      "url": "/herb/jambu/"
     },
     {
       "slug": "jambu-beeja",
       "kind": "herb",
       "title": "Jambu Beeja",
-      "url": "/nighantu/herb/jambu-beeja/"
+      "url": "/herb/jambu-beeja/"
     },
     {
       "slug": "jayapala",
       "kind": "herb",
       "title": "Jayapala",
-      "url": "/nighantu/herb/jayapala/"
+      "url": "/herb/jayapala/"
     },
     {
       "slug": "jeeraka",
       "kind": "herb",
       "title": "Jeeraka",
-      "url": "/nighantu/herb/jeeraka/"
+      "url": "/herb/jeeraka/"
     },
     {
       "slug": "jivaka",
       "kind": "herb",
       "title": "Jivaka",
-      "url": "/nighantu/herb/jivaka/"
+      "url": "/herb/jivaka/"
     },
     {
       "slug": "kachura",
       "kind": "herb",
       "title": "Kachura",
-      "url": "/nighantu/herb/kachura/"
+      "url": "/herb/kachura/"
     },
     {
       "slug": "kadali",
       "kind": "herb",
       "title": "Kadali",
-      "url": "/nighantu/herb/kadali/"
+      "url": "/herb/kadali/"
     },
     {
       "slug": "kadali-pushpa",
       "kind": "herb",
       "title": "Kadali Pushpa",
-      "url": "/nighantu/herb/kadali-pushpa/"
+      "url": "/herb/kadali-pushpa/"
     },
     {
       "slug": "kakoli",
       "kind": "herb",
       "title": "Kakoli",
-      "url": "/nighantu/herb/kakoli/"
+      "url": "/herb/kakoli/"
     },
     {
       "slug": "kalajaji",
       "kind": "herb",
       "title": "Kalajaji",
-      "url": "/nighantu/herb/kalajaji/"
+      "url": "/herb/kalajaji/"
     },
     {
       "slug": "kampillaka",
       "kind": "herb",
       "title": "Kampillaka",
-      "url": "/nighantu/herb/kampillaka/"
+      "url": "/herb/kampillaka/"
     },
     {
       "slug": "kanchanar",
       "kind": "herb",
       "title": "Kanchanar",
-      "url": "/nighantu/herb/kanchanar/"
+      "url": "/herb/kanchanar/"
     },
     {
       "slug": "kankola",
       "kind": "herb",
       "title": "Kankola",
-      "url": "/nighantu/herb/kankola/"
+      "url": "/herb/kankola/"
     },
     {
       "slug": "kankshi",
       "kind": "herb",
       "title": "Kankshi",
-      "url": "/nighantu/herb/kankshi/"
+      "url": "/herb/kankshi/"
     },
     {
       "slug": "kantakari",
       "kind": "herb",
       "title": "Kantakari",
-      "url": "/nighantu/herb/kantakari/"
+      "url": "/herb/kantakari/"
     },
     {
       "slug": "karkatashringi",
       "kind": "herb",
       "title": "Karkatashringi",
-      "url": "/nighantu/herb/karkatashringi/"
+      "url": "/herb/karkatashringi/"
     },
     {
       "slug": "karmaranga",
       "kind": "herb",
       "title": "Karmaranga",
-      "url": "/nighantu/herb/karmaranga/"
+      "url": "/herb/karmaranga/"
     },
     {
       "slug": "karpura-camphor",
       "kind": "herb",
       "title": "Karpura Camphor",
-      "url": "/nighantu/herb/karpura-camphor/"
+      "url": "/herb/karpura-camphor/"
     },
     {
       "slug": "karvellaka",
       "kind": "herb",
       "title": "Karvellaka",
-      "url": "/nighantu/herb/karvellaka/"
+      "url": "/herb/karvellaka/"
     },
     {
       "slug": "kasani",
       "kind": "herb",
       "title": "Kasani",
-      "url": "/nighantu/herb/kasani/"
+      "url": "/herb/kasani/"
     },
     {
       "slug": "kataka",
       "kind": "herb",
       "title": "Kataka",
-      "url": "/nighantu/herb/kataka/"
+      "url": "/herb/kataka/"
     },
     {
       "slug": "kshavaka",
       "kind": "herb",
       "title": "Kshavaka",
-      "url": "/nighantu/herb/kshavaka/"
+      "url": "/herb/kshavaka/"
     },
     {
       "slug": "ksheera",
       "kind": "herb",
       "title": "Ksheera",
-      "url": "/nighantu/herb/ksheera/"
+      "url": "/herb/ksheera/"
     },
     {
       "slug": "kshirabala-101-avarti",
       "kind": "herb",
       "title": "Kshirabala 101 Avarti",
-      "url": "/nighantu/herb/kshirabala-101-avarti/"
+      "url": "/herb/kshirabala-101-avarti/"
     },
     {
       "slug": "kulattha",
       "kind": "herb",
       "title": "Kulattha",
-      "url": "/nighantu/herb/kulattha/"
+      "url": "/herb/kulattha/"
     },
     {
       "slug": "kumbhika",
       "kind": "herb",
       "title": "Kumbhika",
-      "url": "/nighantu/herb/kumbhika/"
+      "url": "/herb/kumbhika/"
     },
     {
       "slug": "kushmanda",
       "kind": "herb",
       "title": "Kushmanda",
-      "url": "/nighantu/herb/kushmanda/"
+      "url": "/herb/kushmanda/"
     },
     {
       "slug": "kusumbha",
       "kind": "herb",
       "title": "Kusumbha",
-      "url": "/nighantu/herb/kusumbha/"
+      "url": "/herb/kusumbha/"
     },
     {
       "slug": "lasuna",
       "kind": "herb",
       "title": "Lasuna",
-      "url": "/nighantu/herb/lasuna/"
+      "url": "/herb/lasuna/"
     },
     {
       "slug": "lasuna-ksheerapaka",
       "kind": "herb",
       "title": "Lasuna Ksheerapaka",
-      "url": "/nighantu/herb/lasuna-ksheerapaka/"
+      "url": "/herb/lasuna-ksheerapaka/"
     },
     {
       "slug": "lavali",
       "kind": "herb",
       "title": "Lavali",
-      "url": "/nighantu/herb/lavali/"
+      "url": "/herb/lavali/"
     },
     {
       "slug": "licorice-herb",
       "kind": "herb",
       "title": "Licorice Herb",
-      "url": "/nighantu/herb/licorice-herb/"
+      "url": "/herb/licorice-herb/"
     },
     {
       "slug": "lodhrasva",
       "kind": "herb",
       "title": "Lodhrasva",
-      "url": "/nighantu/herb/lodhrasva/"
+      "url": "/herb/lodhrasva/"
     },
     {
       "slug": "madanaphala",
       "kind": "herb",
       "title": "Madanaphala",
-      "url": "/nighantu/herb/madanaphala/"
+      "url": "/herb/madanaphala/"
     },
     {
       "slug": "mahabala",
       "kind": "herb",
       "title": "Mahabala",
-      "url": "/nighantu/herb/mahabala/"
+      "url": "/herb/mahabala/"
     },
     {
       "slug": "mahamanjishthadi",
       "kind": "herb",
       "title": "Mahamanjishthadi",
-      "url": "/nighantu/herb/mahamanjishthadi/"
+      "url": "/herb/mahamanjishthadi/"
     },
     {
       "slug": "mahanimba",
       "kind": "herb",
       "title": "Mahanimba",
-      "url": "/nighantu/herb/mahanimba/"
+      "url": "/herb/mahanimba/"
     },
     {
       "slug": "mashaparni",
       "kind": "herb",
       "title": "Mashaparni",
-      "url": "/nighantu/herb/mashaparni/"
+      "url": "/herb/mashaparni/"
     },
     {
       "slug": "masi",
       "kind": "herb",
       "title": "Masi",
-      "url": "/nighantu/herb/masi/"
+      "url": "/herb/masi/"
     },
     {
       "slug": "matulunga",
       "kind": "herb",
       "title": "Matulunga",
-      "url": "/nighantu/herb/matulunga/"
+      "url": "/herb/matulunga/"
     },
     {
       "slug": "matulunga-rasa",
       "kind": "herb",
       "title": "Matulunga Rasa",
-      "url": "/nighantu/herb/matulunga-rasa/"
+      "url": "/herb/matulunga-rasa/"
     },
     {
       "slug": "meda",
       "kind": "herb",
       "title": "Meda",
-      "url": "/nighantu/herb/meda/"
+      "url": "/herb/meda/"
     },
     {
       "slug": "medasaka",
       "kind": "herb",
       "title": "Medasaka",
-      "url": "/nighantu/herb/medasaka/"
+      "url": "/herb/medasaka/"
     },
     {
       "slug": "mishreya",
       "kind": "herb",
       "title": "Mishreya",
-      "url": "/nighantu/herb/mishreya/"
+      "url": "/herb/mishreya/"
     },
     {
       "slug": "mochras",
       "kind": "herb",
       "title": "Mochras",
-      "url": "/nighantu/herb/mochras/"
+      "url": "/herb/mochras/"
     },
     {
       "slug": "mudgaparni",
       "kind": "herb",
       "title": "Mudgaparni",
-      "url": "/nighantu/herb/mudgaparni/"
+      "url": "/herb/mudgaparni/"
     },
     {
       "slug": "murva",
       "kind": "herb",
       "title": "Murva",
-      "url": "/nighantu/herb/murva/"
+      "url": "/herb/murva/"
     },
     {
       "slug": "nadi-hingu",
       "kind": "herb",
       "title": "Nadi Hingu",
-      "url": "/nighantu/herb/nadi-hingu/"
+      "url": "/herb/nadi-hingu/"
     },
     {
       "slug": "nagabala",
       "kind": "herb",
       "title": "Nagabala",
-      "url": "/nighantu/herb/nagabala/"
+      "url": "/herb/nagabala/"
     },
     {
       "slug": "nikochaka",
       "kind": "herb",
       "title": "Nikochaka",
-      "url": "/nighantu/herb/nikochaka/"
+      "url": "/herb/nikochaka/"
     },
     {
       "slug": "nimba",
       "kind": "herb",
       "title": "Nimba",
-      "url": "/nighantu/herb/nimba/"
+      "url": "/herb/nimba/"
     },
     {
       "slug": "nirgundi",
       "kind": "herb",
       "title": "Nirgundi",
-      "url": "/nighantu/herb/nirgundi/"
+      "url": "/herb/nirgundi/"
     },
     {
       "slug": "nirgundi-herb",
       "kind": "herb",
       "title": "Nirgundi Herb",
-      "url": "/nighantu/herb/nirgundi-herb/"
+      "url": "/herb/nirgundi-herb/"
     },
     {
       "slug": "nyagrodha",
       "kind": "herb",
       "title": "Nyagrodha",
-      "url": "/nighantu/herb/nyagrodha/"
+      "url": "/herb/nyagrodha/"
     },
     {
       "slug": "palankya",
       "kind": "herb",
       "title": "Palankya",
-      "url": "/nighantu/herb/palankya/"
+      "url": "/herb/palankya/"
     },
     {
       "slug": "pippali-moola",
       "kind": "herb",
       "title": "Pippali Moola",
-      "url": "/nighantu/herb/pippali-moola/"
+      "url": "/herb/pippali-moola/"
     },
     {
       "slug": "prasarini",
       "kind": "herb",
       "title": "Prasarini",
-      "url": "/nighantu/herb/prasarini/"
+      "url": "/herb/prasarini/"
     },
     {
       "slug": "prishniparni",
       "kind": "herb",
       "title": "Prishniparni",
-      "url": "/nighantu/herb/prishniparni/"
+      "url": "/herb/prishniparni/"
     },
     {
       "slug": "pushkarmool",
       "kind": "herb",
       "title": "Pushkarmool",
-      "url": "/nighantu/herb/pushkarmool/"
+      "url": "/herb/pushkarmool/"
     },
     {
       "slug": "putikaranja",
       "kind": "herb",
       "title": "Putikaranja",
-      "url": "/nighantu/herb/putikaranja/"
+      "url": "/herb/putikaranja/"
     },
     {
       "slug": "putranjivaka",
       "kind": "herb",
       "title": "Putranjivaka",
-      "url": "/nighantu/herb/putranjivaka/"
+      "url": "/herb/putranjivaka/"
     },
     {
       "slug": "rasna",
       "kind": "herb",
       "title": "Rasna",
-      "url": "/nighantu/herb/rasna/"
+      "url": "/herb/rasna/"
     },
     {
       "slug": "rasona-garlic",
       "kind": "herb",
       "title": "Rasona Garlic",
-      "url": "/nighantu/herb/rasona-garlic/"
+      "url": "/herb/rasona-garlic/"
     },
     {
       "slug": "rasona-patra",
       "kind": "herb",
       "title": "Rasona Patra",
-      "url": "/nighantu/herb/rasona-patra/"
+      "url": "/herb/rasona-patra/"
     },
     {
       "slug": "renuka",
       "kind": "herb",
       "title": "Renuka",
-      "url": "/nighantu/herb/renuka/"
+      "url": "/herb/renuka/"
     },
     {
       "slug": "riddhi",
       "kind": "herb",
       "title": "Riddhi",
-      "url": "/nighantu/herb/riddhi/"
+      "url": "/herb/riddhi/"
     },
     {
       "slug": "rishabhaka",
       "kind": "herb",
       "title": "Rishabhaka",
-      "url": "/nighantu/herb/rishabhaka/"
+      "url": "/herb/rishabhaka/"
     },
     {
       "slug": "saptala",
       "kind": "herb",
       "title": "Saptala",
-      "url": "/nighantu/herb/saptala/"
+      "url": "/herb/saptala/"
     },
     {
       "slug": "sarpagandha",
       "kind": "herb",
       "title": "Sarpagandha",
-      "url": "/nighantu/herb/sarpagandha/"
+      "url": "/herb/sarpagandha/"
     },
     {
       "slug": "sarpaksi",
       "kind": "herb",
       "title": "Sarpaksi",
-      "url": "/nighantu/herb/sarpaksi/"
+      "url": "/herb/sarpaksi/"
     },
     {
       "slug": "senna",
       "kind": "herb",
       "title": "Senna",
-      "url": "/nighantu/herb/senna/"
+      "url": "/herb/senna/"
     },
     {
       "slug": "shallaki",
       "kind": "herb",
       "title": "Shallaki",
-      "url": "/nighantu/herb/shallaki/"
+      "url": "/herb/shallaki/"
     },
     {
       "slug": "shalmali",
       "kind": "herb",
       "title": "Shalmali",
-      "url": "/nighantu/herb/shalmali/"
+      "url": "/herb/shalmali/"
     },
     {
       "slug": "shalparni",
       "kind": "herb",
       "title": "Shalparni",
-      "url": "/nighantu/herb/shalparni/"
+      "url": "/herb/shalparni/"
     },
     {
       "slug": "shana",
       "kind": "herb",
       "title": "Shana",
-      "url": "/nighantu/herb/shana/"
+      "url": "/herb/shana/"
     },
     {
       "slug": "shatavari-ksheera",
       "kind": "herb",
       "title": "Shatavari Ksheera",
-      "url": "/nighantu/herb/shatavari-ksheera/"
+      "url": "/herb/shatavari-ksheera/"
     },
     {
       "slug": "shati",
       "kind": "herb",
       "title": "Shati",
-      "url": "/nighantu/herb/shati/"
+      "url": "/herb/shati/"
     },
     {
       "slug": "shirisha",
       "kind": "herb",
       "title": "Shirisha",
-      "url": "/nighantu/herb/shirisha/"
+      "url": "/herb/shirisha/"
     },
     {
       "slug": "shrigataka",
       "kind": "herb",
       "title": "Shrigataka",
-      "url": "/nighantu/herb/shrigataka/"
+      "url": "/herb/shrigataka/"
     },
     {
       "slug": "shvet-musli",
       "kind": "herb",
       "title": "Shvet Musli",
-      "url": "/nighantu/herb/shvet-musli/"
+      "url": "/herb/shvet-musli/"
     },
     {
       "slug": "shyonaka",
       "kind": "herb",
       "title": "Shyonaka",
-      "url": "/nighantu/herb/shyonaka/"
+      "url": "/herb/shyonaka/"
     },
     {
       "slug": "sitopalasav",
       "kind": "herb",
       "title": "Sitopalasav",
-      "url": "/nighantu/herb/sitopalasav/"
+      "url": "/herb/sitopalasav/"
     },
     {
       "slug": "soubhagya-shunthi",
       "kind": "herb",
       "title": "Soubhagya Shunthi",
-      "url": "/nighantu/herb/soubhagya-shunthi/"
+      "url": "/herb/soubhagya-shunthi/"
     },
     {
       "slug": "sthneyaka",
       "kind": "herb",
       "title": "Sthneyaka",
-      "url": "/nighantu/herb/sthneyaka/"
+      "url": "/herb/sthneyaka/"
     },
     {
       "slug": "sthuneyaka",
       "kind": "herb",
       "title": "Sthuneyaka",
-      "url": "/nighantu/herb/sthuneyaka/"
+      "url": "/herb/sthuneyaka/"
     },
     {
       "slug": "surana",
       "kind": "herb",
       "title": "Surana",
-      "url": "/nighantu/herb/surana/"
+      "url": "/herb/surana/"
     },
     {
       "slug": "suryavarta",
       "kind": "herb",
       "title": "Suryavarta",
-      "url": "/nighantu/herb/suryavarta/"
+      "url": "/herb/suryavarta/"
     },
     {
       "slug": "talisa",
       "kind": "herb",
       "title": "Talisa",
-      "url": "/nighantu/herb/talisa/"
+      "url": "/herb/talisa/"
     },
     {
       "slug": "talisapatra",
       "kind": "herb",
       "title": "Talisapatra",
-      "url": "/nighantu/herb/talisapatra/"
+      "url": "/herb/talisapatra/"
     },
     {
       "slug": "tamalaki",
       "kind": "herb",
       "title": "Tamalaki",
-      "url": "/nighantu/herb/tamalaki/"
+      "url": "/herb/tamalaki/"
     },
     {
       "slug": "tila",
       "kind": "herb",
       "title": "Tila",
-      "url": "/nighantu/herb/tila/"
+      "url": "/herb/tila/"
     },
     {
       "slug": "tila-patra",
       "kind": "herb",
       "title": "Tila Patra",
-      "url": "/nighantu/herb/tila-patra/"
+      "url": "/herb/tila-patra/"
     },
     {
       "slug": "tilaparni",
       "kind": "herb",
       "title": "Tilaparni",
-      "url": "/nighantu/herb/tilaparni/"
+      "url": "/herb/tilaparni/"
     },
     {
       "slug": "trivrit",
       "kind": "herb",
       "title": "Trivrit",
-      "url": "/nighantu/herb/trivrit/"
+      "url": "/herb/trivrit/"
     },
     {
       "slug": "tumburu",
       "kind": "herb",
       "title": "Tumburu",
-      "url": "/nighantu/herb/tumburu/"
+      "url": "/herb/tumburu/"
     },
     {
       "slug": "ushira",
       "kind": "herb",
       "title": "Ushira",
-      "url": "/nighantu/herb/ushira/"
+      "url": "/herb/ushira/"
     },
     {
       "slug": "ushirasva",
       "kind": "herb",
       "title": "Ushirasva",
-      "url": "/nighantu/herb/ushirasva/"
+      "url": "/herb/ushirasva/"
     },
     {
       "slug": "utingana",
       "kind": "herb",
       "title": "Utingana",
-      "url": "/nighantu/herb/utingana/"
+      "url": "/herb/utingana/"
     },
     {
       "slug": "vamsha",
       "kind": "herb",
       "title": "Vamsha",
-      "url": "/nighantu/herb/vamsha/"
+      "url": "/herb/vamsha/"
     },
     {
       "slug": "vamshalochana",
       "kind": "herb",
       "title": "Vamshalochana",
-      "url": "/nighantu/herb/vamshalochana/"
+      "url": "/herb/vamshalochana/"
     },
     {
       "slug": "vanapsa",
       "kind": "herb",
       "title": "Vanapsa",
-      "url": "/nighantu/herb/vanapsa/"
+      "url": "/herb/vanapsa/"
     },
     {
       "slug": "varshabhu",
       "kind": "herb",
       "title": "Varshabhu",
-      "url": "/nighantu/herb/varshabhu/"
+      "url": "/herb/varshabhu/"
     },
     {
       "slug": "vasa",
       "kind": "herb",
       "title": "Vasa",
-      "url": "/nighantu/herb/vasa/"
+      "url": "/herb/vasa/"
     },
     {
       "slug": "vasaka",
       "kind": "herb",
       "title": "Vasaka",
-      "url": "/nighantu/herb/vasaka/"
+      "url": "/herb/vasaka/"
     },
     {
       "slug": "vathada",
       "kind": "herb",
       "title": "Vathada",
-      "url": "/nighantu/herb/vathada/"
+      "url": "/herb/vathada/"
     },
     {
       "slug": "vidari",
       "kind": "herb",
       "title": "Vidari",
-      "url": "/nighantu/herb/vidari/"
+      "url": "/herb/vidari/"
     },
     {
       "slug": "vidarikand",
       "kind": "herb",
       "title": "Vidarikand",
-      "url": "/nighantu/herb/vidarikand/"
+      "url": "/herb/vidarikand/"
     },
     {
       "slug": "vyaghri-haritaki",
       "kind": "herb",
       "title": "Vyaghri Haritaki",
-      "url": "/nighantu/herb/vyaghri-haritaki/"
+      "url": "/herb/vyaghri-haritaki/"
     },
     {
       "slug": "water-hyssop",
       "kind": "herb",
       "title": "Water Hyssop",
-      "url": "/nighantu/herb/water-hyssop/"
+      "url": "/herb/water-hyssop/"
     },
     {
       "slug": "yavani",
       "kind": "herb",
       "title": "Yavani",
-      "url": "/nighantu/herb/yavani/"
+      "url": "/herb/yavani/"
     },
     {
       "slug": "yavasa",
       "kind": "herb",
       "title": "Yavasa",
-      "url": "/nighantu/herb/yavasa/"
+      "url": "/herb/yavasa/"
     },
     {
       "slug": "zingiber",
       "kind": "herb",
       "title": "Zingiber",
-      "url": "/nighantu/herb/zingiber/"
+      "url": "/herb/zingiber/"
     },
     {
       "slug": "bhringraj",
       "kind": "herb",
       "title": "Bhringraj",
-      "url": "/nighantu/herb/bhringraj/"
+      "url": "/herb/bhringraj/"
     },
     {
       "slug": "arjuna",
       "kind": "herb",
       "title": "Arjuna",
-      "url": "/nighantu/herb/arjuna/"
+      "url": "/herb/arjuna/"
     },
     {
       "slug": "arjuna-twak",
       "kind": "herb",
       "title": "Arjuna Twak",
-      "url": "/nighantu/herb/arjuna-twak/"
+      "url": "/herb/arjuna-twak/"
     },
     {
       "slug": "hrivera",
       "kind": "herb",
       "title": "Hrivera",
-      "url": "/nighantu/herb/hrivera/"
+      "url": "/herb/hrivera/"
     },
     {
       "slug": "madayantika",
       "kind": "herb",
       "title": "Madayantika",
-      "url": "/nighantu/herb/madayantika/"
+      "url": "/herb/madayantika/"
     },
     {
       "slug": "patala",
       "kind": "herb",
       "title": "Patala",
-      "url": "/nighantu/herb/patala/"
+      "url": "/herb/patala/"
     },
     {
       "slug": "raktamoola",
       "kind": "herb",
       "title": "Raktamoola",
-      "url": "/nighantu/herb/raktamoola/"
+      "url": "/herb/raktamoola/"
     },
     {
       "slug": "rohitaka",
       "kind": "herb",
       "title": "Rohitaka",
-      "url": "/nighantu/herb/rohitaka/"
+      "url": "/herb/rohitaka/"
     },
     {
       "slug": "dashamoola",
       "kind": "herb",
       "title": "Dashamoola",
-      "url": "/nighantu/herb/dashamoola/"
+      "url": "/herb/dashamoola/"
     },
     {
       "slug": "devadali",
       "kind": "herb",
       "title": "Devadali",
-      "url": "/nighantu/herb/devadali/"
+      "url": "/herb/devadali/"
     },
     {
       "slug": "dhava",
       "kind": "herb",
       "title": "Dhava",
-      "url": "/nighantu/herb/dhava/"
+      "url": "/herb/dhava/"
     },
     {
       "slug": "latakaranja",
       "kind": "herb",
       "title": "Latakaranja",
-      "url": "/nighantu/herb/latakaranja/"
+      "url": "/herb/latakaranja/"
     },
     {
       "slug": "mahanarayan",
       "kind": "herb",
       "title": "Mahanarayan",
-      "url": "/nighantu/herb/mahanarayan/"
+      "url": "/herb/mahanarayan/"
     },
     {
       "slug": "paribhadra",
       "kind": "herb",
       "title": "Paribhadra",
-      "url": "/nighantu/herb/paribhadra/"
+      "url": "/herb/paribhadra/"
     },
     {
       "slug": "simhamoola",
       "kind": "herb",
       "title": "Simhamoola",
-      "url": "/nighantu/herb/simhamoola/"
+      "url": "/herb/simhamoola/"
     },
     {
       "slug": "vriddhadaru",
       "kind": "herb",
       "title": "Vriddhadaru",
-      "url": "/nighantu/herb/vriddhadaru/"
+      "url": "/herb/vriddhadaru/"
     },
     {
       "slug": "vriddhi",
       "kind": "herb",
       "title": "Vriddhi",
-      "url": "/nighantu/herb/vriddhi/"
+      "url": "/herb/vriddhi/"
     },
     {
       "slug": "durva",
       "kind": "herb",
       "title": "Durva",
-      "url": "/nighantu/herb/durva/"
+      "url": "/herb/durva/"
     },
     {
       "slug": "ikshu",
       "kind": "herb",
       "title": "Ikshu",
-      "url": "/nighantu/herb/ikshu/"
+      "url": "/herb/ikshu/"
     },
     {
       "slug": "kasheruka",
       "kind": "herb",
       "title": "Kasheruka",
-      "url": "/nighantu/herb/kasheruka/"
+      "url": "/herb/kasheruka/"
     },
     {
       "slug": "kokilaksha",
       "kind": "herb",
       "title": "Kokilaksha",
-      "url": "/nighantu/herb/kokilaksha/"
+      "url": "/herb/kokilaksha/"
     },
     {
       "slug": "kusha",
       "kind": "herb",
       "title": "Kusha",
-      "url": "/nighantu/herb/kusha/"
+      "url": "/herb/kusha/"
     },
     {
       "slug": "pashanabheda",
       "kind": "herb",
       "title": "Pashanabheda",
-      "url": "/nighantu/herb/pashanabheda/"
+      "url": "/herb/pashanabheda/"
     },
     {
       "slug": "punarnava",
       "kind": "herb",
       "title": "Punarnava",
-      "url": "/nighantu/herb/punarnava/"
+      "url": "/herb/punarnava/"
     },
     {
       "slug": "shigru-patra",
       "kind": "herb",
       "title": "Shigru Patra",
-      "url": "/nighantu/herb/shigru-patra/"
+      "url": "/herb/shigru-patra/"
     },
     {
       "slug": "varuna",
       "kind": "herb",
       "title": "Varuna",
-      "url": "/nighantu/herb/varuna/"
+      "url": "/herb/varuna/"
     },
     {
       "slug": "black-pepper",
       "kind": "herb",
       "title": "Black Pepper",
-      "url": "/nighantu/herb/black-pepper/"
+      "url": "/herb/black-pepper/"
     },
     {
       "slug": "camphor",
       "kind": "herb",
       "title": "Camphor",
-      "url": "/nighantu/herb/camphor/"
+      "url": "/herb/camphor/"
     },
     {
       "slug": "ela",
       "kind": "herb",
       "title": "Ela",
-      "url": "/nighantu/herb/ela/"
+      "url": "/herb/ela/"
     },
     {
       "slug": "eucalyptus-herb",
       "kind": "herb",
       "title": "Eucalyptus Herb",
-      "url": "/nighantu/herb/eucalyptus-herb/"
+      "url": "/herb/eucalyptus-herb/"
     },
     {
       "slug": "jatiphala",
       "kind": "herb",
       "title": "Jatiphala",
-      "url": "/nighantu/herb/jatiphala/"
+      "url": "/herb/jatiphala/"
     },
     {
       "slug": "javitri",
       "kind": "herb",
       "title": "Javitri",
-      "url": "/nighantu/herb/javitri/"
+      "url": "/herb/javitri/"
     },
     {
       "slug": "kalonji",
       "kind": "herb",
       "title": "Kalonji",
-      "url": "/nighantu/herb/kalonji/"
+      "url": "/herb/kalonji/"
     },
     {
       "slug": "krishna-jeeraka",
       "kind": "herb",
       "title": "Krishna Jeeraka",
-      "url": "/nighantu/herb/krishna-jeeraka/"
+      "url": "/herb/krishna-jeeraka/"
     },
     {
       "slug": "laung",
       "kind": "herb",
       "title": "Laung",
-      "url": "/nighantu/herb/laung/"
+      "url": "/herb/laung/"
     },
     {
       "slug": "lavanga",
       "kind": "herb",
       "title": "Lavanga",
-      "url": "/nighantu/herb/lavanga/"
+      "url": "/herb/lavanga/"
     },
     {
       "slug": "menthol",
       "kind": "herb",
       "title": "Menthol",
-      "url": "/nighantu/herb/menthol/"
+      "url": "/herb/menthol/"
     },
     {
       "slug": "pudina",
       "kind": "herb",
       "title": "Pudina",
-      "url": "/nighantu/herb/pudina/"
+      "url": "/herb/pudina/"
     },
     {
       "slug": "rajika",
       "kind": "herb",
       "title": "Rajika",
-      "url": "/nighantu/herb/rajika/"
+      "url": "/herb/rajika/"
     },
     {
       "slug": "rohisha",
       "kind": "herb",
       "title": "Rohisha",
-      "url": "/nighantu/herb/rohisha/"
+      "url": "/herb/rohisha/"
     },
     {
       "slug": "svetamarica",
       "kind": "herb",
       "title": "Svetamarica",
-      "url": "/nighantu/herb/svetamarica/"
+      "url": "/herb/svetamarica/"
     },
     {
       "slug": "tagetes",
       "kind": "herb",
       "title": "Tagetes",
-      "url": "/nighantu/herb/tagetes/"
+      "url": "/herb/tagetes/"
     },
     {
       "slug": "tamalpatra",
       "kind": "herb",
       "title": "Tamalpatra",
-      "url": "/nighantu/herb/tamalpatra/"
+      "url": "/herb/tamalpatra/"
     },
     {
       "slug": "tejapatra",
       "kind": "herb",
       "title": "Tejapatra",
-      "url": "/nighantu/herb/tejapatra/"
+      "url": "/herb/tejapatra/"
     },
     {
       "slug": "twak-cinnamon",
       "kind": "herb",
       "title": "Twak Cinnamon",
-      "url": "/nighantu/herb/twak-cinnamon/"
+      "url": "/herb/twak-cinnamon/"
     },
     {
       "slug": "aloe-vera",
       "kind": "herb",
       "title": "Aloe Vera",
-      "url": "/nighantu/herb/aloe-vera/"
+      "url": "/herb/aloe-vera/"
     },
     {
       "slug": "bhumi-jambuka",
       "kind": "herb",
       "title": "Bhumi Jambuka",
-      "url": "/nighantu/herb/bhumi-jambuka/"
+      "url": "/herb/bhumi-jambuka/"
     },
     {
       "slug": "bhumyamalaki",
       "kind": "herb",
       "title": "Bhumyamalaki",
-      "url": "/nighantu/herb/bhumyamalaki/"
+      "url": "/herb/bhumyamalaki/"
     },
     {
       "slug": "bhunimba",
       "kind": "herb",
       "title": "Bhunimba",
-      "url": "/nighantu/herb/bhunimba/"
+      "url": "/herb/bhunimba/"
     },
     {
       "slug": "bibhitaki",
       "kind": "herb",
       "title": "Bibhitaki",
-      "url": "/nighantu/herb/bibhitaki/"
+      "url": "/herb/bibhitaki/"
     },
     {
       "slug": "chirayata",
       "kind": "herb",
       "title": "Chirayata",
-      "url": "/nighantu/herb/chirayata/"
+      "url": "/herb/chirayata/"
     },
     {
       "slug": "haritaki",
       "kind": "herb",
       "title": "Haritaki",
-      "url": "/nighantu/herb/haritaki/"
+      "url": "/herb/haritaki/"
     },
     {
       "slug": "kakamachi",
       "kind": "herb",
       "title": "Kakamachi",
-      "url": "/nighantu/herb/kakamachi/"
+      "url": "/herb/kakamachi/"
     },
     {
       "slug": "kakatikta",
       "kind": "herb",
       "title": "Kakatikta",
-      "url": "/nighantu/herb/kakatikta/"
+      "url": "/herb/kakatikta/"
     },
     {
       "slug": "kalmegh",
       "kind": "herb",
       "title": "Kalmegh",
-      "url": "/nighantu/herb/kalmegh/"
+      "url": "/herb/kalmegh/"
     },
     {
       "slug": "katuki",
       "kind": "herb",
       "title": "Katuki",
-      "url": "/nighantu/herb/katuki/"
+      "url": "/herb/katuki/"
     },
     {
       "slug": "kiratatikta",
       "kind": "herb",
       "title": "Kiratatikta",
-      "url": "/nighantu/herb/kiratatikta/"
+      "url": "/herb/kiratatikta/"
     },
     {
       "slug": "kutaj",
       "kind": "herb",
       "title": "Kutaj",
-      "url": "/nighantu/herb/kutaj/"
+      "url": "/herb/kutaj/"
     },
     {
       "slug": "makoy",
       "kind": "herb",
       "title": "Makoy",
-      "url": "/nighantu/herb/makoy/"
+      "url": "/herb/makoy/"
     },
     {
       "slug": "moringa",
       "kind": "herb",
       "title": "Moringa",
-      "url": "/nighantu/herb/moringa/"
+      "url": "/herb/moringa/"
     },
     {
       "slug": "morning-glory",
       "kind": "herb",
       "title": "Morning Glory",
-      "url": "/nighantu/herb/morning-glory/"
+      "url": "/herb/morning-glory/"
     },
     {
       "slug": "patha",
       "kind": "herb",
       "title": "Patha",
-      "url": "/nighantu/herb/patha/"
+      "url": "/herb/patha/"
     },
     {
       "slug": "patola",
       "kind": "herb",
       "title": "Patola",
-      "url": "/nighantu/herb/patola/"
+      "url": "/herb/patola/"
     },
     {
       "slug": "patola-patra",
       "kind": "herb",
       "title": "Patola Patra",
-      "url": "/nighantu/herb/patola-patra/"
+      "url": "/herb/patola-patra/"
     },
     {
       "slug": "triphala",
       "kind": "herb",
       "title": "Triphala",
-      "url": "/nighantu/herb/triphala/"
+      "url": "/herb/triphala/"
     },
     {
       "slug": "triphala-herbs",
       "kind": "herb",
       "title": "Triphala Herbs",
-      "url": "/nighantu/herb/triphala-herbs/"
+      "url": "/herb/triphala-herbs/"
     },
     {
       "slug": "gokshura",
       "kind": "herb",
       "title": "Gokshura",
-      "url": "/nighantu/herb/gokshura/"
+      "url": "/herb/gokshura/"
     },
     {
       "slug": "puga",
       "kind": "herb",
       "title": "Puga",
-      "url": "/nighantu/herb/puga/"
+      "url": "/herb/puga/"
     },
     {
       "slug": "saffron",
       "kind": "herb",
       "title": "Saffron",
-      "url": "/nighantu/herb/saffron/"
+      "url": "/herb/saffron/"
     },
     {
       "slug": "talamuli",
       "kind": "herb",
       "title": "Talamuli",
-      "url": "/nighantu/herb/talamuli/"
+      "url": "/herb/talamuli/"
     },
     {
       "slug": "varahikanda",
       "kind": "herb",
       "title": "Varahikanda",
-      "url": "/nighantu/herb/varahikanda/"
+      "url": "/herb/varahikanda/"
     },
     {
       "slug": "amla",
       "kind": "herb",
       "title": "Amla",
-      "url": "/nighantu/herb/amla/"
+      "url": "/herb/amla/"
     },
     {
       "slug": "ashwagandha",
       "kind": "herb",
       "title": "Ashwagandha",
-      "url": "/nighantu/herb/ashwagandha/"
+      "url": "/herb/ashwagandha/"
     },
     {
       "slug": "atibala",
       "kind": "herb",
       "title": "Atibala",
-      "url": "/nighantu/herb/atibala/"
+      "url": "/herb/atibala/"
     },
     {
       "slug": "bala",
       "kind": "herb",
       "title": "Bala",
-      "url": "/nighantu/herb/bala/"
+      "url": "/herb/bala/"
     },
     {
       "slug": "chandraprabha",
       "kind": "herb",
       "title": "Chandraprabha",
-      "url": "/nighantu/herb/chandraprabha/"
+      "url": "/herb/chandraprabha/"
     },
     {
       "slug": "guduchi",
       "kind": "herb",
       "title": "Guduchi",
-      "url": "/nighantu/herb/guduchi/"
+      "url": "/herb/guduchi/"
     },
     {
       "slug": "jivanti",
       "kind": "herb",
       "title": "Jivanti",
-      "url": "/nighantu/herb/jivanti/"
+      "url": "/herb/jivanti/"
     },
     {
       "slug": "priyala",
       "kind": "herb",
       "title": "Priyala",
-      "url": "/nighantu/herb/priyala/"
+      "url": "/herb/priyala/"
     },
     {
       "slug": "shatavari",
       "kind": "herb",
       "title": "Shatavari",
-      "url": "/nighantu/herb/shatavari/"
+      "url": "/herb/shatavari/"
     },
     {
       "slug": "arka",
       "kind": "herb",
       "title": "Arka",
-      "url": "/nighantu/herb/arka/"
+      "url": "/herb/arka/"
     },
     {
       "slug": "arka-ksheera",
       "kind": "herb",
       "title": "Arka Ksheera",
-      "url": "/nighantu/herb/arka-ksheera/"
+      "url": "/herb/arka-ksheera/"
     },
     {
       "slug": "arka-pushpa",
       "kind": "herb",
       "title": "Arka Pushpa",
-      "url": "/nighantu/herb/arka-pushpa/"
+      "url": "/herb/arka-pushpa/"
     },
     {
       "slug": "dronapushpi",
       "kind": "herb",
       "title": "Dronapushpi",
-      "url": "/nighantu/herb/dronapushpi/"
+      "url": "/herb/dronapushpi/"
     },
     {
       "slug": "eucalyptus",
       "kind": "herb",
       "title": "Eucalyptus",
-      "url": "/nighantu/herb/eucalyptus/"
+      "url": "/herb/eucalyptus/"
     },
     {
       "slug": "saireyaka",
       "kind": "herb",
       "title": "Saireyaka",
-      "url": "/nighantu/herb/saireyaka/"
+      "url": "/herb/saireyaka/"
     },
     {
       "slug": "shara",
       "kind": "herb",
       "title": "Shara",
-      "url": "/nighantu/herb/shara/"
+      "url": "/herb/shara/"
     },
     {
       "slug": "tulsi",
       "kind": "herb",
       "title": "Tulsi",
-      "url": "/nighantu/herb/tulsi/"
+      "url": "/herb/tulsi/"
     },
     {
       "slug": "amra-haridra",
       "kind": "herb",
       "title": "Amra Haridra",
-      "url": "/nighantu/herb/amra-haridra/"
+      "url": "/herb/amra-haridra/"
     },
     {
       "slug": "ananta-mool",
       "kind": "herb",
       "title": "Ananta Mool",
-      "url": "/nighantu/herb/ananta-mool/"
+      "url": "/herb/ananta-mool/"
     },
     {
       "slug": "bakuchi",
       "kind": "herb",
       "title": "Bakuchi",
-      "url": "/nighantu/herb/bakuchi/"
+      "url": "/herb/bakuchi/"
     },
     {
       "slug": "bimbi",
       "kind": "herb",
       "title": "Bimbi",
-      "url": "/nighantu/herb/bimbi/"
+      "url": "/herb/bimbi/"
     },
     {
       "slug": "chakramarda",
       "kind": "herb",
       "title": "Chakramarda",
-      "url": "/nighantu/herb/chakramarda/"
+      "url": "/herb/chakramarda/"
     },
     {
       "slug": "chandana",
       "kind": "herb",
       "title": "Chandana",
-      "url": "/nighantu/herb/chandana/"
+      "url": "/herb/chandana/"
     },
     {
       "slug": "chopchini",
       "kind": "herb",
       "title": "Chopchini",
-      "url": "/nighantu/herb/chopchini/"
+      "url": "/herb/chopchini/"
     },
     {
       "slug": "curcumin",
       "kind": "herb",
       "title": "Curcumin",
-      "url": "/nighantu/herb/curcumin/"
+      "url": "/herb/curcumin/"
     },
     {
       "slug": "dadrughna",
       "kind": "herb",
       "title": "Dadrughna",
-      "url": "/nighantu/herb/dadrughna/"
+      "url": "/herb/dadrughna/"
     },
     {
       "slug": "daruharidra",
       "kind": "herb",
       "title": "Daruharidra",
-      "url": "/nighantu/herb/daruharidra/"
+      "url": "/herb/daruharidra/"
     },
     {
       "slug": "dhataki",
       "kind": "herb",
       "title": "Dhataki",
-      "url": "/nighantu/herb/dhataki/"
+      "url": "/herb/dhataki/"
     },
     {
       "slug": "dugdhika",
       "kind": "herb",
       "title": "Dugdhika",
-      "url": "/nighantu/herb/dugdhika/"
+      "url": "/herb/dugdhika/"
     },
     {
       "slug": "jati",
       "kind": "herb",
       "title": "Jati",
-      "url": "/nighantu/herb/jati/"
+      "url": "/herb/jati/"
     },
     {
       "slug": "kamala",
       "kind": "herb",
       "title": "Kamala",
-      "url": "/nighantu/herb/kamala/"
+      "url": "/herb/kamala/"
     },
     {
       "slug": "kamala-kesara",
       "kind": "herb",
       "title": "Kamala Kesara",
-      "url": "/nighantu/herb/kamala-kesara/"
+      "url": "/herb/kamala-kesara/"
     },
     {
       "slug": "kamalakanda",
       "kind": "herb",
       "title": "Kamalakanda",
-      "url": "/nighantu/herb/kamalakanda/"
+      "url": "/herb/kamalakanda/"
     },
     {
       "slug": "kasamarda",
       "kind": "herb",
       "title": "Kasamarda",
-      "url": "/nighantu/herb/kasamarda/"
+      "url": "/herb/kasamarda/"
     },
     {
       "slug": "ketaki",
       "kind": "herb",
       "title": "Ketaki",
-      "url": "/nighantu/herb/ketaki/"
+      "url": "/herb/ketaki/"
     },
     {
       "slug": "khadira",
       "kind": "herb",
       "title": "Khadira",
-      "url": "/nighantu/herb/khadira/"
+      "url": "/herb/khadira/"
     },
     {
       "slug": "koshataki",
       "kind": "herb",
       "title": "Koshataki",
-      "url": "/nighantu/herb/koshataki/"
+      "url": "/herb/koshataki/"
     },
     {
       "slug": "kumud",
       "kind": "herb",
       "title": "Kumud",
-      "url": "/nighantu/herb/kumud/"
+      "url": "/herb/kumud/"
     },
     {
       "slug": "kumuda",
       "kind": "herb",
       "title": "Kumuda",
-      "url": "/nighantu/herb/kumuda/"
+      "url": "/herb/kumuda/"
     },
     {
       "slug": "kurabaka",
       "kind": "herb",
       "title": "Kurabaka",
-      "url": "/nighantu/herb/kurabaka/"
+      "url": "/herb/kurabaka/"
     },
     {
       "slug": "lata-kasturi",
       "kind": "herb",
       "title": "Lata Kasturi",
-      "url": "/nighantu/herb/lata-kasturi/"
+      "url": "/herb/lata-kasturi/"
     },
     {
       "slug": "lodhra",
       "kind": "herb",
       "title": "Lodhra",
-      "url": "/nighantu/herb/lodhra/"
+      "url": "/herb/lodhra/"
     },
     {
       "slug": "manjishtha",
       "kind": "herb",
       "title": "Manjishtha",
-      "url": "/nighantu/herb/manjishtha/"
+      "url": "/herb/manjishtha/"
     },
     {
       "slug": "manjistha",
       "kind": "herb",
       "title": "Manjistha",
-      "url": "/nighantu/herb/manjistha/"
+      "url": "/herb/manjistha/"
     },
     {
       "slug": "neem",
       "kind": "herb",
       "title": "Neem",
-      "url": "/nighantu/herb/neem/"
+      "url": "/herb/neem/"
     },
     {
       "slug": "nili",
       "kind": "herb",
       "title": "Nili",
-      "url": "/nighantu/herb/nili/"
+      "url": "/herb/nili/"
     },
     {
       "slug": "nimba-beeja",
       "kind": "herb",
       "title": "Nimba Beeja",
-      "url": "/nighantu/herb/nimba-beeja/"
+      "url": "/herb/nimba-beeja/"
     },
     {
       "slug": "nimba-patra",
       "kind": "herb",
       "title": "Nimba Patra",
-      "url": "/nighantu/herb/nimba-patra/"
+      "url": "/herb/nimba-patra/"
     },
     {
       "slug": "padmaka",
       "kind": "herb",
       "title": "Padmaka",
-      "url": "/nighantu/herb/padmaka/"
+      "url": "/herb/padmaka/"
     },
     {
       "slug": "pattanga",
       "kind": "herb",
       "title": "Pattanga",
-      "url": "/nighantu/herb/pattanga/"
+      "url": "/herb/pattanga/"
     },
     {
       "slug": "prapunnada",
       "kind": "herb",
       "title": "Prapunnada",
-      "url": "/nighantu/herb/prapunnada/"
+      "url": "/herb/prapunnada/"
     },
     {
       "slug": "priyangu",
       "kind": "herb",
       "title": "Priyangu",
-      "url": "/nighantu/herb/priyangu/"
+      "url": "/herb/priyangu/"
     },
     {
       "slug": "rakta-chandana",
       "kind": "herb",
       "title": "Rakta Chandana",
-      "url": "/nighantu/herb/rakta-chandana/"
+      "url": "/herb/rakta-chandana/"
     },
     {
       "slug": "sariva",
       "kind": "herb",
       "title": "Sariva",
-      "url": "/nighantu/herb/sariva/"
+      "url": "/herb/sariva/"
     },
     {
       "slug": "satyanashi",
       "kind": "herb",
       "title": "Satyanashi",
-      "url": "/nighantu/herb/satyanashi/"
+      "url": "/herb/satyanashi/"
     },
     {
       "slug": "sharapunkha",
       "kind": "herb",
       "title": "Sharapunkha",
-      "url": "/nighantu/herb/sharapunkha/"
+      "url": "/herb/sharapunkha/"
     },
     {
       "slug": "taruni",
       "kind": "herb",
       "title": "Taruni",
-      "url": "/nighantu/herb/taruni/"
+      "url": "/herb/taruni/"
     },
     {
       "slug": "turmeric",
       "kind": "herb",
       "title": "Turmeric",
-      "url": "/nighantu/herb/turmeric/"
+      "url": "/herb/turmeric/"
     },
     {
       "slug": "utpala",
       "kind": "herb",
       "title": "Utpala",
-      "url": "/nighantu/herb/utpala/"
+      "url": "/herb/utpala/"
     },
     {
       "slug": "vyaghranakhi",
       "kind": "herb",
       "title": "Vyaghranakhi",
-      "url": "/nighantu/herb/vyaghranakhi/"
+      "url": "/herb/vyaghranakhi/"
     },
     {
       "slug": "yuthika",
       "kind": "herb",
       "title": "Yuthika",
-      "url": "/nighantu/herb/yuthika/"
+      "url": "/herb/yuthika/"
     },
     {
       "slug": "amra",
       "kind": "herb",
       "title": "Amra",
-      "url": "/nighantu/herb/amra/"
+      "url": "/herb/amra/"
     },
     {
       "slug": "amra-beeja",
       "kind": "herb",
       "title": "Amra Beeja",
-      "url": "/nighantu/herb/amra-beeja/"
+      "url": "/herb/amra-beeja/"
     },
     {
       "slug": "asana",
       "kind": "herb",
       "title": "Asana",
-      "url": "/nighantu/herb/asana/"
+      "url": "/herb/asana/"
     },
     {
       "slug": "ashwattha",
       "kind": "herb",
       "title": "Ashwattha",
-      "url": "/nighantu/herb/ashwattha/"
+      "url": "/herb/ashwattha/"
     },
     {
       "slug": "babbula",
       "kind": "herb",
       "title": "Babbula",
-      "url": "/nighantu/herb/babbula/"
+      "url": "/herb/babbula/"
     },
     {
       "slug": "badara",
       "kind": "herb",
       "title": "Badara",
-      "url": "/nighantu/herb/badara/"
+      "url": "/herb/badara/"
     },
     {
       "slug": "bakula",
       "kind": "herb",
       "title": "Bakula",
-      "url": "/nighantu/herb/bakula/"
+      "url": "/herb/bakula/"
     },
     {
       "slug": "bhurja",
       "kind": "herb",
       "title": "Bhurja",
-      "url": "/nighantu/herb/bhurja/"
+      "url": "/herb/bhurja/"
     },
     {
       "slug": "bijapura",
       "kind": "herb",
       "title": "Bijapura",
-      "url": "/nighantu/herb/bijapura/"
+      "url": "/herb/bijapura/"
     },
     {
       "slug": "chirabilva",
       "kind": "herb",
       "title": "Chirabilva",
-      "url": "/nighantu/herb/chirabilva/"
+      "url": "/herb/chirabilva/"
     },
     {
       "slug": "devadaru",
       "kind": "herb",
       "title": "Devadaru",
-      "url": "/nighantu/herb/devadaru/"
+      "url": "/herb/devadaru/"
     },
     {
       "slug": "granthiparni",
       "kind": "herb",
       "title": "Granthiparni",
-      "url": "/nighantu/herb/granthiparni/"
+      "url": "/herb/granthiparni/"
     },
     {
       "slug": "hapusa",
       "kind": "herb",
       "title": "Hapusa",
-      "url": "/nighantu/herb/hapusa/"
+      "url": "/herb/hapusa/"
     },
     {
       "slug": "ingudi",
       "kind": "herb",
       "title": "Ingudi",
-      "url": "/nighantu/herb/ingudi/"
+      "url": "/herb/ingudi/"
     },
     {
       "slug": "kachnar",
       "kind": "herb",
       "title": "Kachnar",
-      "url": "/nighantu/herb/kachnar/"
+      "url": "/herb/kachnar/"
     },
     {
       "slug": "kadamba",
       "kind": "herb",
       "title": "Kadamba",
-      "url": "/nighantu/herb/kadamba/"
+      "url": "/herb/kadamba/"
     },
     {
       "slug": "kadara",
       "kind": "herb",
       "title": "Kadara",
-      "url": "/nighantu/herb/kadara/"
+      "url": "/herb/kadara/"
     },
     {
       "slug": "kankataka",
       "kind": "herb",
       "title": "Kankataka",
-      "url": "/nighantu/herb/kankataka/"
+      "url": "/herb/kankataka/"
     },
     {
       "slug": "kapittha",
       "kind": "herb",
       "title": "Kapittha",
-      "url": "/nighantu/herb/kapittha/"
+      "url": "/herb/kapittha/"
     },
     {
       "slug": "karanja",
       "kind": "herb",
       "title": "Karanja",
-      "url": "/nighantu/herb/karanja/"
+      "url": "/herb/karanja/"
     },
     {
       "slug": "karira",
       "kind": "herb",
       "title": "Karira",
-      "url": "/nighantu/herb/karira/"
+      "url": "/herb/karira/"
     },
     {
       "slug": "karnikara",
       "kind": "herb",
       "title": "Karnikara",
-      "url": "/nighantu/herb/karnikara/"
+      "url": "/herb/karnikara/"
     },
     {
       "slug": "karpasa",
       "kind": "herb",
       "title": "Karpasa",
-      "url": "/nighantu/herb/karpasa/"
+      "url": "/herb/karpasa/"
     },
     {
       "slug": "karpasa-moola",
       "kind": "herb",
       "title": "Karpasa Moola",
-      "url": "/nighantu/herb/karpasa-moola/"
+      "url": "/herb/karpasa-moola/"
     },
     {
       "slug": "kharjura",
       "kind": "herb",
       "title": "Kharjura",
-      "url": "/nighantu/herb/kharjura/"
+      "url": "/herb/kharjura/"
     },
     {
       "slug": "koshamra",
       "kind": "herb",
       "title": "Koshamra",
-      "url": "/nighantu/herb/koshamra/"
+      "url": "/herb/koshamra/"
     },
     {
       "slug": "kovidara",
       "kind": "herb",
       "title": "Kovidara",
-      "url": "/nighantu/herb/kovidara/"
+      "url": "/herb/kovidara/"
     },
     {
       "slug": "lakuca",
       "kind": "herb",
       "title": "Lakuca",
-      "url": "/nighantu/herb/lakuca/"
+      "url": "/herb/lakuca/"
     },
     {
       "slug": "madhuka",
       "kind": "herb",
       "title": "Madhuka",
-      "url": "/nighantu/herb/madhuka/"
+      "url": "/herb/madhuka/"
     },
     {
       "slug": "madhuka-pushpa",
       "kind": "herb",
       "title": "Madhuka Pushpa",
-      "url": "/nighantu/herb/madhuka-pushpa/"
+      "url": "/herb/madhuka-pushpa/"
     },
     {
       "slug": "madhukarkati",
       "kind": "herb",
       "title": "Madhukarkati",
-      "url": "/nighantu/herb/madhukarkati/"
+      "url": "/herb/madhukarkati/"
     },
     {
       "slug": "mayurashikha",
       "kind": "herb",
       "title": "Mayurashikha",
-      "url": "/nighantu/herb/mayurashikha/"
+      "url": "/herb/mayurashikha/"
     },
     {
       "slug": "narikela",
       "kind": "herb",
       "title": "Narikela",
-      "url": "/nighantu/herb/narikela/"
+      "url": "/herb/narikela/"
     },
     {
       "slug": "narikela-jala",
       "kind": "herb",
       "title": "Narikela Jala",
-      "url": "/nighantu/herb/narikela-jala/"
+      "url": "/herb/narikela-jala/"
     },
     {
       "slug": "nimbu",
       "kind": "herb",
       "title": "Nimbu",
-      "url": "/nighantu/herb/nimbu/"
+      "url": "/herb/nimbu/"
     },
     {
       "slug": "panasa",
       "kind": "herb",
       "title": "Panasa",
-      "url": "/nighantu/herb/panasa/"
+      "url": "/herb/panasa/"
     },
     {
       "slug": "parijata",
       "kind": "herb",
       "title": "Parijata",
-      "url": "/nighantu/herb/parijata/"
+      "url": "/herb/parijata/"
     },
     {
       "slug": "pilu",
       "kind": "herb",
       "title": "Pilu",
-      "url": "/nighantu/herb/pilu/"
+      "url": "/herb/pilu/"
     },
     {
       "slug": "plaksha",
       "kind": "herb",
       "title": "Plaksha",
-      "url": "/nighantu/herb/plaksha/"
+      "url": "/herb/plaksha/"
     },
     {
       "slug": "sala",
       "kind": "herb",
       "title": "Sala",
-      "url": "/nighantu/herb/sala/"
+      "url": "/herb/sala/"
     },
     {
       "slug": "sarja",
       "kind": "herb",
       "title": "Sarja",
-      "url": "/nighantu/herb/sarja/"
+      "url": "/herb/sarja/"
     },
     {
       "slug": "simsapa",
       "kind": "herb",
       "title": "Simsapa",
-      "url": "/nighantu/herb/simsapa/"
+      "url": "/herb/simsapa/"
     },
     {
       "slug": "tala",
       "kind": "herb",
       "title": "Tala",
-      "url": "/nighantu/herb/tala/"
+      "url": "/herb/tala/"
     },
     {
       "slug": "tinduka",
       "kind": "herb",
       "title": "Tinduka",
-      "url": "/nighantu/herb/tinduka/"
+      "url": "/herb/tinduka/"
     },
     {
       "slug": "tintidika",
       "kind": "herb",
       "title": "Tintidika",
-      "url": "/nighantu/herb/tintidika/"
+      "url": "/herb/tintidika/"
     },
     {
       "slug": "udumbara",
       "kind": "herb",
       "title": "Udumbara",
-      "url": "/nighantu/herb/udumbara/"
+      "url": "/herb/udumbara/"
     },
     {
       "slug": "vetasa",
       "kind": "herb",
       "title": "Vetasa",
-      "url": "/nighantu/herb/vetasa/"
+      "url": "/herb/vetasa/"
     },
     {
       "slug": "vrikshamla",
       "kind": "herb",
       "title": "Vrikshamla",
-      "url": "/nighantu/herb/vrikshamla/"
+      "url": "/herb/vrikshamla/"
     },
     {
       "slug": "vrikshamla-phala",
       "kind": "herb",
       "title": "Vrikshamla Phala",
-      "url": "/nighantu/herb/vrikshamla-phala/"
+      "url": "/herb/vrikshamla-phala/"
     },
     {
       "slug": "ashoka",
       "kind": "herb",
       "title": "Ashoka",
-      "url": "/nighantu/herb/ashoka/"
+      "url": "/herb/ashoka/"
     },
     {
       "slug": "bandhuka",
       "kind": "herb",
       "title": "Bandhuka",
-      "url": "/nighantu/herb/bandhuka/"
+      "url": "/herb/bandhuka/"
     },
     {
       "slug": "japa",
       "kind": "herb",
       "title": "Japa",
-      "url": "/nighantu/herb/japa/"
+      "url": "/herb/japa/"
     },
     {
       "slug": "lajjalu",
       "kind": "herb",
       "title": "Lajjalu",
-      "url": "/nighantu/herb/lajjalu/"
+      "url": "/herb/lajjalu/"
     },
     {
       "slug": "mamsarohini",
       "kind": "herb",
       "title": "Mamsarohini",
-      "url": "/nighantu/herb/mamsarohini/"
+      "url": "/herb/mamsarohini/"
     },
     {
       "slug": "nagadanti",
       "kind": "herb",
       "title": "Nagadanti",
-      "url": "/nighantu/herb/nagadanti/"
+      "url": "/herb/nagadanti/"
     },
     {
       "slug": "nagakesara",
       "kind": "herb",
       "title": "Nagakesara",
-      "url": "/nighantu/herb/nagakesara/"
+      "url": "/herb/nagakesara/"
     },
     {
       "slug": "palasha",
       "kind": "herb",
       "title": "Palasha",
-      "url": "/nighantu/herb/palasha/"
+      "url": "/herb/palasha/"
     },
     {
       "slug": "nadi-tarangini-ai-based-pulse-diagnostic-system",
       "kind": "device",
       "title": "Nadi Tarangini AI Based Pulse Diagnostic System",
-      "url": "/nighantu/device/nadi-tarangini-ai-based-pulse-diagnostic-system/"
+      "url": "/device/nadi-tarangini-ai-based-pulse-diagnostic-system/"
     },
     {
       "slug": "pulse-diagnosis-tools-traditional",
       "kind": "device",
       "title": "Pulse Diagnosis Tools Traditional",
-      "url": "/nighantu/device/pulse-diagnosis-tools-traditional/"
+      "url": "/device/pulse-diagnosis-tools-traditional/"
     },
     {
       "slug": "urine-examination-vessel-oil-drop-test",
       "kind": "device",
       "title": "Urine Examination Vessel Oil Drop Test",
-      "url": "/nighantu/device/urine-examination-vessel-oil-drop-test/"
+      "url": "/device/urine-examination-vessel-oil-drop-test/"
     },
     {
       "slug": "weighing-scales-for-dravya-medicinal-substances",
       "kind": "device",
       "title": "Weighing Scales for Dravya Medicinal Substances",
-      "url": "/nighantu/device/weighing-scales-for-dravya-medicinal-substances/"
+      "url": "/device/weighing-scales-for-dravya-medicinal-substances/"
     },
     {
       "slug": "agnikarma-thermal-cauterization-instruments",
       "kind": "device",
       "title": "Agnikarma Thermal Cauterization Instruments",
-      "url": "/nighantu/device/agnikarma-thermal-cauterization-instruments/"
+      "url": "/device/agnikarma-thermal-cauterization-instruments/"
     },
     {
       "slug": "medicated-alkaline-thread",
       "kind": "device",
       "title": "Medicated Alkaline Thread",
-      "url": "/nighantu/device/medicated-alkaline-thread/"
+      "url": "/device/medicated-alkaline-thread/"
     },
     {
       "slug": "cauterization-rod-thermal-cautery-instrument",
       "kind": "device",
       "title": "Cauterization Rod Thermal Cautery Instrument",
-      "url": "/nighantu/device/cauterization-rod-thermal-cautery-instrument/"
+      "url": "/device/cauterization-rod-thermal-cautery-instrument/"
     },
     {
       "slug": "kizhi-poultice-bags-bolus-bags",
       "kind": "device",
       "title": "Kizhi Poultice Bags Bolus Bags",
-      "url": "/nighantu/device/kizhi-poultice-bags-bolus-bags/"
+      "url": "/device/kizhi-poultice-bags-bolus-bags/"
     },
     {
       "slug": "lepa-paste-application-tools",
       "kind": "device",
       "title": "Lepa Paste Application Tools",
-      "url": "/nighantu/device/lepa-paste-application-tools/"
+      "url": "/device/lepa-paste-application-tools/"
     },
     {
       "slug": "pizhichil-equipment-oil-bath-apparatus",
       "kind": "device",
       "title": "Pizhichil Equipment Oil Bath Apparatus",
-      "url": "/nighantu/device/pizhichil-equipment-oil-bath-apparatus/"
+      "url": "/device/pizhichil-equipment-oil-bath-apparatus/"
     },
     {
       "slug": "udvartana-powder-massage-tools",
       "kind": "device",
       "title": "Udvartana Powder Massage Tools",
-      "url": "/nighantu/device/udvartana-powder-massage-tools/"
+      "url": "/device/udvartana-powder-massage-tools/"
     },
     {
       "slug": "copper-water-bottle",
       "kind": "device",
       "title": "Copper Water Bottle",
-      "url": "/nighantu/device/copper-water-bottle/"
+      "url": "/device/copper-water-bottle/"
     },
     {
       "slug": "ear-oiling-funnel-karna-purana-apparatus",
       "kind": "device",
       "title": "Ear Oiling Funnel Karna Purana Apparatus",
-      "url": "/nighantu/device/ear-oiling-funnel-karna-purana-apparatus/"
+      "url": "/device/ear-oiling-funnel-karna-purana-apparatus/"
     },
     {
       "slug": "eye-bath-frame-netra-bastitarpana-apparatus",
       "kind": "device",
       "title": "Eye Bath Frame Netra BastiTarpana Apparatus",
-      "url": "/nighantu/device/eye-bath-frame-netra-bastitarpana-apparatus/"
+      "url": "/device/eye-bath-frame-netra-bastitarpana-apparatus/"
     },
     {
       "slug": "kansa-bronze-foot-massage-bowl",
       "kind": "device",
       "title": "Kansa Bronze Foot Massage Bowl",
-      "url": "/nighantu/device/kansa-bronze-foot-massage-bowl/"
+      "url": "/device/kansa-bronze-foot-massage-bowl/"
     },
     {
       "slug": "kansa-wand-bronze-massage-tool",
       "kind": "device",
       "title": "Kansa Wand Bronze Massage Tool",
-      "url": "/nighantu/device/kansa-wand-bronze-massage-tool/"
+      "url": "/device/kansa-wand-bronze-massage-tool/"
     },
     {
       "slug": "marma-point-therapy-tools",
       "kind": "device",
       "title": "Marma Point Therapy Tools",
-      "url": "/nighantu/device/marma-point-therapy-tools/"
+      "url": "/device/marma-point-therapy-tools/"
     },
     {
       "slug": "neti-pot-nasal-irrigation-vessel",
       "kind": "device",
       "title": "Neti Pot Nasal Irrigation Vessel",
-      "url": "/nighantu/device/neti-pot-nasal-irrigation-vessel/"
+      "url": "/device/neti-pot-nasal-irrigation-vessel/"
     },
     {
       "slug": "oil-pulling-cup",
       "kind": "device",
       "title": "Oil Pulling Cup",
-      "url": "/nighantu/device/oil-pulling-cup/"
+      "url": "/device/oil-pulling-cup/"
     },
     {
       "slug": "tongue-scraper-tongue-cleaner",
       "kind": "device",
       "title": "Tongue Scraper Tongue Cleaner",
-      "url": "/nighantu/device/tongue-scraper-tongue-cleaner/"
+      "url": "/device/tongue-scraper-tongue-cleaner/"
     },
     {
       "slug": "basti-enema-equipment",
       "kind": "device",
       "title": "Basti Enema Equipment",
-      "url": "/nighantu/device/basti-enema-equipment/"
+      "url": "/device/basti-enema-equipment/"
     },
     {
       "slug": "nasya-dropper-nasya-administration-chair",
       "kind": "device",
       "title": "Nasya Dropper Nasya Administration Chair",
-      "url": "/nighantu/device/nasya-dropper-nasya-administration-chair/"
+      "url": "/device/nasya-dropper-nasya-administration-chair/"
     },
     {
       "slug": "shirodhara-pot-apparatus",
       "kind": "device",
       "title": "Shirodhara Pot Apparatus",
-      "url": "/nighantu/device/shirodhara-pot-apparatus/"
+      "url": "/device/shirodhara-pot-apparatus/"
     },
     {
       "slug": "sitz-bath-therapeutic-immersion-tub",
       "kind": "device",
       "title": "Sitz Bath Therapeutic Immersion Tub",
-      "url": "/nighantu/device/sitz-bath-therapeutic-immersion-tub/"
+      "url": "/device/sitz-bath-therapeutic-immersion-tub/"
     },
     {
       "slug": "steam-chamber-swedana-box",
       "kind": "device",
       "title": "Steam Chamber Swedana Box",
-      "url": "/nighantu/device/steam-chamber-swedana-box/"
+      "url": "/device/steam-chamber-swedana-box/"
     },
     {
       "slug": "vamana-emesis-basin-chair",
       "kind": "device",
       "title": "Vamana Emesis Basin Chair",
-      "url": "/nighantu/device/vamana-emesis-basin-chair/"
+      "url": "/device/vamana-emesis-basin-chair/"
     },
     {
       "slug": "cooking-vessel-boiling-pot-apparatus",
       "kind": "device",
       "title": "Cooking Vessel Boiling Pot Apparatus",
-      "url": "/nighantu/device/cooking-vessel-boiling-pot-apparatus/"
+      "url": "/device/cooking-vessel-boiling-pot-apparatus/"
     },
     {
       "slug": "damaru-taborhourglass-apparatus-sublimation-device",
       "kind": "device",
       "title": "Damaru TaborHourglass Apparatus Sublimation Device",
-      "url": "/nighantu/device/damaru-taborhourglass-apparatus-sublimation-device/"
+      "url": "/device/damaru-taborhourglass-apparatus-sublimation-device/"
     },
     {
       "slug": "distillation-apparatus-arkahydrosol-distiller",
       "kind": "device",
       "title": "Distillation Apparatus ArkaHydrosol Distiller",
-      "url": "/nighantu/device/distillation-apparatus-arkahydrosol-distiller/"
+      "url": "/device/distillation-apparatus-arkahydrosol-distiller/"
     },
     {
       "slug": "incineration-furnace-puta-calcination-apparatus",
       "kind": "device",
       "title": "Incineration Furnace Puta Calcination Apparatus",
-      "url": "/nighantu/device/incineration-furnace-puta-calcination-apparatus/"
+      "url": "/device/incineration-furnace-puta-calcination-apparatus/"
     },
     {
       "slug": "mortar-and-pestle",
       "kind": "device",
       "title": "Mortar and Pestle",
-      "url": "/nighantu/device/mortar-and-pestle/"
+      "url": "/device/mortar-and-pestle/"
     },
     {
       "slug": "sand-bath-apparatus",
       "kind": "device",
       "title": "Sand Bath Apparatus",
-      "url": "/nighantu/device/sand-bath-apparatus/"
+      "url": "/device/sand-bath-apparatus/"
     },
     {
       "slug": "swingsuspension-apparatus-water-bath",
       "kind": "device",
       "title": "SwingSuspension Apparatus Water Bath",
-      "url": "/nighantu/device/swingsuspension-apparatus-water-bath/"
+      "url": "/device/swingsuspension-apparatus-water-bath/"
     },
     {
       "slug": "medicinal-leech-hirudo-medicinalis-indian-species",
       "kind": "device",
       "title": "Medicinal Leech Hirudo medicinalis Indian species",
-      "url": "/nighantu/device/medicinal-leech-hirudo-medicinalis-indian-species/"
+      "url": "/device/medicinal-leech-hirudo-medicinalis-indian-species/"
     },
     {
       "slug": "brass-bronze-vessels-for-medicine-storage",
       "kind": "device",
       "title": "Brass Bronze Vessels for Medicine Storage",
-      "url": "/nighantu/device/brass-bronze-vessels-for-medicine-storage/"
+      "url": "/device/brass-bronze-vessels-for-medicine-storage/"
     },
     {
       "slug": "copper-water-tumbler-copper-vessel",
       "kind": "device",
       "title": "Copper Water Tumbler Copper Vessel",
-      "url": "/nighantu/device/copper-water-tumbler-copper-vessel/"
+      "url": "/device/copper-water-tumbler-copper-vessel/"
     },
     {
       "slug": "vijaysar-wood-tumbler",
       "kind": "device",
       "title": "Vijaysar Wood Tumbler",
-      "url": "/nighantu/device/vijaysar-wood-tumbler/"
+      "url": "/device/vijaysar-wood-tumbler/"
     },
     {
       "slug": "aja-dugdha-goat-milk",
       "kind": "herb",
       "title": "Aja Dugdha Goat Milk",
-      "url": "/nighantu/herb/aja-dugdha-goat-milk/"
+      "url": "/herb/aja-dugdha-goat-milk/"
     },
     {
       "slug": "dadhi",
       "kind": "herb",
       "title": "Dadhi",
-      "url": "/nighantu/herb/dadhi/"
+      "url": "/herb/dadhi/"
     },
     {
       "slug": "ghrita",
       "kind": "herb",
       "title": "Ghrita",
-      "url": "/nighantu/herb/ghrita/"
+      "url": "/herb/ghrita/"
     },
     {
       "slug": "godugdha",
       "kind": "herb",
       "title": "Godugdha",
-      "url": "/nighantu/herb/godugdha/"
+      "url": "/herb/godugdha/"
     },
     {
       "slug": "gomutra",
       "kind": "herb",
       "title": "Gomutra",
-      "url": "/nighantu/herb/gomutra/"
+      "url": "/herb/gomutra/"
     },
     {
       "slug": "gorochana",
       "kind": "herb",
       "title": "Gorochana",
-      "url": "/nighantu/herb/gorochana/"
+      "url": "/herb/gorochana/"
     },
     {
       "slug": "kasturi",
       "kind": "herb",
       "title": "Kasturi",
-      "url": "/nighantu/herb/kasturi/"
+      "url": "/herb/kasturi/"
     },
     {
       "slug": "madhu",
       "kind": "herb",
       "title": "Madhu",
-      "url": "/nighantu/herb/madhu/"
+      "url": "/herb/madhu/"
     },
     {
       "slug": "takra",
       "kind": "herb",
       "title": "Takra",
-      "url": "/nighantu/herb/takra/"
+      "url": "/herb/takra/"
     },
     {
       "slug": "yava",
       "kind": "herb",
       "title": "Yava",
-      "url": "/nighantu/herb/yava/"
+      "url": "/herb/yava/"
     },
     {
       "slug": "abhraka-bhasma",
       "kind": "herb",
       "title": "Abhraka Bhasma",
-      "url": "/nighantu/herb/abhraka-bhasma/"
+      "url": "/herb/abhraka-bhasma/"
     },
     {
       "slug": "godanti-bhasma",
       "kind": "herb",
       "title": "Godanti Bhasma",
-      "url": "/nighantu/herb/godanti-bhasma/"
+      "url": "/herb/godanti-bhasma/"
     },
     {
       "slug": "gomeda-bhasma",
       "kind": "herb",
       "title": "Gomeda Bhasma",
-      "url": "/nighantu/herb/gomeda-bhasma/"
+      "url": "/herb/gomeda-bhasma/"
     },
     {
       "slug": "hajrul-yahood-bhasma",
       "kind": "herb",
       "title": "Hajrul Yahood Bhasma",
-      "url": "/nighantu/herb/hajrul-yahood-bhasma/"
+      "url": "/herb/hajrul-yahood-bhasma/"
     },
     {
       "slug": "haratala-bhasma",
       "kind": "herb",
       "title": "Haratala Bhasma",
-      "url": "/nighantu/herb/haratala-bhasma/"
+      "url": "/herb/haratala-bhasma/"
     },
     {
       "slug": "kamsya-bhasma",
       "kind": "herb",
       "title": "Kamsya Bhasma",
-      "url": "/nighantu/herb/kamsya-bhasma/"
+      "url": "/herb/kamsya-bhasma/"
     },
     {
       "slug": "kanmad-bhasma",
       "kind": "herb",
       "title": "Kanmad Bhasma",
-      "url": "/nighantu/herb/kanmad-bhasma/"
+      "url": "/herb/kanmad-bhasma/"
     },
     {
       "slug": "kasis-bhasma",
       "kind": "herb",
       "title": "Kasis Bhasma",
-      "url": "/nighantu/herb/kasis-bhasma/"
+      "url": "/herb/kasis-bhasma/"
     },
     {
       "slug": "kukkutanda-twak-bhasma",
       "kind": "herb",
       "title": "Kukkutanda Twak Bhasma",
-      "url": "/nighantu/herb/kukkutanda-twak-bhasma/"
+      "url": "/herb/kukkutanda-twak-bhasma/"
     },
     {
       "slug": "loha-bhasma",
       "kind": "herb",
       "title": "Loha Bhasma",
-      "url": "/nighantu/herb/loha-bhasma/"
+      "url": "/herb/loha-bhasma/"
     },
     {
       "slug": "mandura-bhasma",
       "kind": "herb",
       "title": "Mandura Bhasma",
-      "url": "/nighantu/herb/mandura-bhasma/"
+      "url": "/herb/mandura-bhasma/"
     },
     {
       "slug": "mrigashringa-bhasma",
       "kind": "herb",
       "title": "Mrigashringa Bhasma",
-      "url": "/nighantu/herb/mrigashringa-bhasma/"
+      "url": "/herb/mrigashringa-bhasma/"
     },
     {
       "slug": "naga-bhasma",
       "kind": "herb",
       "title": "Naga Bhasma",
-      "url": "/nighantu/herb/naga-bhasma/"
+      "url": "/herb/naga-bhasma/"
     },
     {
       "slug": "raupya-bhasma",
       "kind": "herb",
       "title": "Raupya Bhasma",
-      "url": "/nighantu/herb/raupya-bhasma/"
+      "url": "/herb/raupya-bhasma/"
     },
     {
       "slug": "shankha-bhasma",
       "kind": "herb",
       "title": "Shankha Bhasma",
-      "url": "/nighantu/herb/shankha-bhasma/"
+      "url": "/herb/shankha-bhasma/"
     },
     {
       "slug": "shukti-bhasma",
       "kind": "herb",
       "title": "Shukti Bhasma",
-      "url": "/nighantu/herb/shukti-bhasma/"
+      "url": "/herb/shukti-bhasma/"
     },
     {
       "slug": "sphatika-bhasma",
       "kind": "herb",
       "title": "Sphatika Bhasma",
-      "url": "/nighantu/herb/sphatika-bhasma/"
+      "url": "/herb/sphatika-bhasma/"
     },
     {
       "slug": "swarna-bhasma",
       "kind": "herb",
       "title": "Swarna Bhasma",
-      "url": "/nighantu/herb/swarna-bhasma/"
+      "url": "/herb/swarna-bhasma/"
     },
     {
       "slug": "tamra-bhasma",
       "kind": "herb",
       "title": "Tamra Bhasma",
-      "url": "/nighantu/herb/tamra-bhasma/"
+      "url": "/herb/tamra-bhasma/"
     },
     {
       "slug": "tankana-bhasma",
       "kind": "herb",
       "title": "Tankana Bhasma",
-      "url": "/nighantu/herb/tankana-bhasma/"
+      "url": "/herb/tankana-bhasma/"
     },
     {
       "slug": "trivanga-bhasma",
       "kind": "herb",
       "title": "Trivanga Bhasma",
-      "url": "/nighantu/herb/trivanga-bhasma/"
+      "url": "/herb/trivanga-bhasma/"
     },
     {
       "slug": "vaikranta-bhasma",
       "kind": "herb",
       "title": "Vaikranta Bhasma",
-      "url": "/nighantu/herb/vaikranta-bhasma/"
+      "url": "/herb/vaikranta-bhasma/"
     },
     {
       "slug": "vajra-bhasma",
       "kind": "herb",
       "title": "Vajra Bhasma",
-      "url": "/nighantu/herb/vajra-bhasma/"
+      "url": "/herb/vajra-bhasma/"
     },
     {
       "slug": "vanga-bhasma",
       "kind": "herb",
       "title": "Vanga Bhasma",
-      "url": "/nighantu/herb/vanga-bhasma/"
+      "url": "/herb/vanga-bhasma/"
     },
     {
       "slug": "varatika-bhasma",
       "kind": "herb",
       "title": "Varatika Bhasma",
-      "url": "/nighantu/herb/varatika-bhasma/"
+      "url": "/herb/varatika-bhasma/"
     },
     {
       "slug": "yashada-bhasma",
       "kind": "herb",
       "title": "Yashada Bhasma",
-      "url": "/nighantu/herb/yashada-bhasma/"
+      "url": "/herb/yashada-bhasma/"
     },
     {
       "slug": "dhatri-loha",
       "kind": "herb",
       "title": "Dhatri Loha",
-      "url": "/nighantu/herb/dhatri-loha/"
+      "url": "/herb/dhatri-loha/"
     },
     {
       "slug": "lohasava",
       "kind": "herb",
       "title": "Lohasava",
-      "url": "/nighantu/herb/lohasava/"
+      "url": "/herb/lohasava/"
     },
     {
       "slug": "madhu-mandur",
       "kind": "herb",
       "title": "Madhu Mandur",
-      "url": "/nighantu/herb/madhu-mandur/"
+      "url": "/herb/madhu-mandur/"
     },
     {
       "slug": "navayasa-loha",
       "kind": "herb",
       "title": "Navayasa Loha",
-      "url": "/nighantu/herb/navayasa-loha/"
+      "url": "/herb/navayasa-loha/"
     },
     {
       "slug": "pradarantak-lauh",
       "kind": "herb",
       "title": "Pradarantak Lauh",
-      "url": "/nighantu/herb/pradarantak-lauh/"
+      "url": "/herb/pradarantak-lauh/"
     },
     {
       "slug": "saptamrit-lauh",
       "kind": "herb",
       "title": "Saptamrit Lauh",
-      "url": "/nighantu/herb/saptamrit-lauh/"
+      "url": "/herb/saptamrit-lauh/"
     },
     {
       "slug": "shothari-loha",
       "kind": "herb",
       "title": "Shothari Loha",
-      "url": "/nighantu/herb/shothari-loha/"
+      "url": "/herb/shothari-loha/"
     },
     {
       "slug": "tapyadi-loha",
       "kind": "herb",
       "title": "Tapyadi Loha",
-      "url": "/nighantu/herb/tapyadi-loha/"
+      "url": "/herb/tapyadi-loha/"
     },
     {
       "slug": "shilajit",
       "kind": "herb",
       "title": "Shilajit",
-      "url": "/nighantu/herb/shilajit/"
+      "url": "/herb/shilajit/"
     },
     {
       "slug": "akika-pishti",
       "kind": "herb",
       "title": "Akika Pishti",
-      "url": "/nighantu/herb/akika-pishti/"
+      "url": "/herb/akika-pishti/"
     },
     {
       "slug": "jahar-mohra-pishti",
       "kind": "herb",
       "title": "Jahar Mohra Pishti",
-      "url": "/nighantu/herb/jahar-mohra-pishti/"
+      "url": "/herb/jahar-mohra-pishti/"
     },
     {
       "slug": "kaharuba-pishti",
       "kind": "herb",
       "title": "Kaharuba Pishti",
-      "url": "/nighantu/herb/kaharuba-pishti/"
+      "url": "/herb/kaharuba-pishti/"
     },
     {
       "slug": "manikya-pishti",
       "kind": "herb",
       "title": "Manikya Pishti",
-      "url": "/nighantu/herb/manikya-pishti/"
+      "url": "/herb/manikya-pishti/"
     },
     {
       "slug": "mukta-pishti",
       "kind": "herb",
       "title": "Mukta Pishti",
-      "url": "/nighantu/herb/mukta-pishti/"
+      "url": "/herb/mukta-pishti/"
     },
     {
       "slug": "neelam-pishti",
       "kind": "herb",
       "title": "Neelam Pishti",
-      "url": "/nighantu/herb/neelam-pishti/"
+      "url": "/herb/neelam-pishti/"
     },
     {
       "slug": "panna-pishti",
       "kind": "herb",
       "title": "Panna Pishti",
-      "url": "/nighantu/herb/panna-pishti/"
+      "url": "/herb/panna-pishti/"
     },
     {
       "slug": "pravala-pishti",
       "kind": "herb",
       "title": "Pravala Pishti",
-      "url": "/nighantu/herb/pravala-pishti/"
+      "url": "/herb/pravala-pishti/"
     },
     {
       "slug": "hinguleshwar-ras",
       "kind": "herb",
       "title": "Hinguleshwar Ras",
-      "url": "/nighantu/herb/hinguleshwar-ras/"
+      "url": "/herb/hinguleshwar-ras/"
     },
     {
       "slug": "icchabhedi-rasa",
       "kind": "herb",
       "title": "Icchabhedi Rasa",
-      "url": "/nighantu/herb/icchabhedi-rasa/"
+      "url": "/herb/icchabhedi-rasa/"
     },
     {
       "slug": "krimi-kuthar-rasa",
       "kind": "herb",
       "title": "Krimi Kuthar Rasa",
-      "url": "/nighantu/herb/krimi-kuthar-rasa/"
+      "url": "/herb/krimi-kuthar-rasa/"
     },
     {
       "slug": "kshara-parpati",
       "kind": "herb",
       "title": "Kshara Parpati",
-      "url": "/nighantu/herb/kshara-parpati/"
+      "url": "/herb/kshara-parpati/"
     },
     {
       "slug": "laghu-sutshekhar-ras",
       "kind": "herb",
       "title": "Laghu Sutshekhar Ras",
-      "url": "/nighantu/herb/laghu-sutshekhar-ras/"
+      "url": "/herb/laghu-sutshekhar-ras/"
     },
     {
       "slug": "mahalakshmi-vilas-rasa",
       "kind": "herb",
       "title": "Mahalakshmi Vilas Rasa",
-      "url": "/nighantu/herb/mahalakshmi-vilas-rasa/"
+      "url": "/herb/mahalakshmi-vilas-rasa/"
     },
     {
       "slug": "makaradhwaj-vati",
       "kind": "herb",
       "title": "Makaradhwaj Vati",
-      "url": "/nighantu/herb/makaradhwaj-vati/"
+      "url": "/herb/makaradhwaj-vati/"
     },
     {
       "slug": "navaratna-raja-mriganka-rasa",
       "kind": "herb",
       "title": "Navaratna Raja Mriganka Rasa",
-      "url": "/nighantu/herb/navaratna-raja-mriganka-rasa/"
+      "url": "/herb/navaratna-raja-mriganka-rasa/"
     },
     {
       "slug": "nityananda-rasa",
       "kind": "herb",
       "title": "Nityananda Rasa",
-      "url": "/nighantu/herb/nityananda-rasa/"
+      "url": "/herb/nityananda-rasa/"
     },
     {
       "slug": "panchamrita-parpati",
       "kind": "herb",
       "title": "Panchamrita Parpati",
-      "url": "/nighantu/herb/panchamrita-parpati/"
+      "url": "/herb/panchamrita-parpati/"
     },
     {
       "slug": "rasamanikya",
       "kind": "herb",
       "title": "Rasamanikya",
-      "url": "/nighantu/herb/rasamanikya/"
+      "url": "/herb/rasamanikya/"
     },
     {
       "slug": "sameer-pannag-rasa",
       "kind": "herb",
       "title": "Sameer Pannag Rasa",
-      "url": "/nighantu/herb/sameer-pannag-rasa/"
+      "url": "/herb/sameer-pannag-rasa/"
     },
     {
       "slug": "siddha-makardhwaj",
       "kind": "herb",
       "title": "Siddha Makardhwaj",
-      "url": "/nighantu/herb/siddha-makardhwaj/"
+      "url": "/herb/siddha-makardhwaj/"
     },
     {
       "slug": "swarna-parpati",
       "kind": "herb",
       "title": "Swarna Parpati",
-      "url": "/nighantu/herb/swarna-parpati/"
+      "url": "/herb/swarna-parpati/"
     },
     {
       "slug": "swarna-vasant-malti-ras",
       "kind": "herb",
       "title": "Swarna Vasant Malti Ras",
-      "url": "/nighantu/herb/swarna-vasant-malti-ras/"
+      "url": "/herb/swarna-vasant-malti-ras/"
     },
     {
       "slug": "tribhuvan-kirti-rasa",
       "kind": "herb",
       "title": "Tribhuvan Kirti Rasa",
-      "url": "/nighantu/herb/tribhuvan-kirti-rasa/"
+      "url": "/herb/tribhuvan-kirti-rasa/"
     },
     {
       "slug": "vasant-kusumakar-rasa",
       "kind": "herb",
       "title": "Vasant Kusumakar Rasa",
-      "url": "/nighantu/herb/vasant-kusumakar-rasa/"
+      "url": "/herb/vasant-kusumakar-rasa/"
     },
     {
       "slug": "vatagajankush-rasa",
       "kind": "herb",
       "title": "Vatagajankush Rasa",
-      "url": "/nighantu/herb/vatagajankush-rasa/"
+      "url": "/herb/vatagajankush-rasa/"
     },
     {
       "slug": "saindhava-lavana",
       "kind": "herb",
       "title": "Saindhava Lavana",
-      "url": "/nighantu/herb/saindhava-lavana/"
+      "url": "/herb/saindhava-lavana/"
     },
     {
       "slug": "samudra-lavana",
       "kind": "herb",
       "title": "Samudra Lavana",
-      "url": "/nighantu/herb/samudra-lavana/"
+      "url": "/herb/samudra-lavana/"
     },
     {
       "slug": "souvarchala-lavana",
       "kind": "herb",
       "title": "Souvarchala Lavana",
-      "url": "/nighantu/herb/souvarchala-lavana/"
+      "url": "/herb/souvarchala-lavana/"
     },
     {
       "slug": "vida-lavana",
       "kind": "herb",
       "title": "Vida Lavana",
-      "url": "/nighantu/herb/vida-lavana/"
+      "url": "/herb/vida-lavana/"
     },
     {
       "slug": "yavakshara",
       "kind": "herb",
       "title": "Yavakshara",
-      "url": "/nighantu/herb/yavakshara/"
+      "url": "/herb/yavakshara/"
     },
     {
       "slug": "antiinflammatory-pain",
       "kind": "hub",
       "title": "Anti inflammatory & Pain",
-      "url": "/nighantu/reference/antiinflammatory-pain/"
+      "url": "/reference/antiinflammatory-pain/"
     },
     {
       "slug": "brain-nervous-system",
       "kind": "hub",
       "title": "Brain & Nervous System",
-      "url": "/nighantu/reference/brain-nervous-system/"
+      "url": "/reference/brain-nervous-system/"
     },
     {
       "slug": "diabetes-metabolism",
       "kind": "hub",
       "title": "Diabetes & Metabolism",
-      "url": "/nighantu/reference/diabetes-metabolism/"
+      "url": "/reference/diabetes-metabolism/"
     },
     {
       "slug": "digestive-health",
       "kind": "hub",
       "title": "Digestive Health",
-      "url": "/nighantu/reference/digestive-health/"
+      "url": "/reference/digestive-health/"
     },
     {
       "slug": "eye-health",
       "kind": "hub",
       "title": "Eye Health",
-      "url": "/nighantu/reference/eye-health/"
+      "url": "/reference/eye-health/"
     },
     {
       "slug": "fever-infection",
       "kind": "hub",
       "title": "Fever & Infection",
-      "url": "/nighantu/reference/fever-infection/"
+      "url": "/reference/fever-infection/"
     },
     {
       "slug": "heart-cardiovascular",
       "kind": "hub",
       "title": "Heart & Cardiovascular",
-      "url": "/nighantu/reference/heart-cardiovascular/"
+      "url": "/reference/heart-cardiovascular/"
     },
     {
       "slug": "immune-system-rasayana",
       "kind": "hub",
       "title": "Immune System & Rasayana",
-      "url": "/nighantu/reference/immune-system-rasayana/"
+      "url": "/reference/immune-system-rasayana/"
     },
     {
       "slug": "joint-musculoskeletal",
       "kind": "hub",
       "title": "Joint & Musculoskeletal",
-      "url": "/nighantu/reference/joint-musculoskeletal/"
+      "url": "/reference/joint-musculoskeletal/"
     },
     {
       "slug": "kidney-urinary",
       "kind": "hub",
       "title": "Kidney & Urinary",
-      "url": "/nighantu/reference/kidney-urinary/"
+      "url": "/reference/kidney-urinary/"
     },
     {
       "slug": "liver-detoxification",
       "kind": "hub",
       "title": "Liver & Detoxification",
-      "url": "/nighantu/reference/liver-detoxification/"
+      "url": "/reference/liver-detoxification/"
     },
     {
       "slug": "mens-health-vitality",
       "kind": "hub",
       "title": "Men's Health & Vitality",
-      "url": "/nighantu/reference/mens-health-vitality/"
+      "url": "/reference/mens-health-vitality/"
     },
     {
       "slug": "respiratory-health",
       "kind": "hub",
       "title": "Respiratory Health",
-      "url": "/nighantu/reference/respiratory-health/"
+      "url": "/reference/respiratory-health/"
     },
     {
       "slug": "skin-beauty",
       "kind": "hub",
       "title": "Skin & Beauty",
-      "url": "/nighantu/reference/skin-beauty/"
+      "url": "/reference/skin-beauty/"
     },
     {
       "slug": "womens-health",
       "kind": "hub",
       "title": "Women's Health",
-      "url": "/nighantu/reference/womens-health/"
+      "url": "/reference/womens-health/"
     },
     {
       "slug": "catechin",
       "kind": "hub",
       "title": "Catechin",
-      "url": "/nighantu/reference/catechin/"
+      "url": "/reference/catechin/"
     },
     {
       "slug": "ellagic-acid",
       "kind": "hub",
       "title": "Ellagic acid",
-      "url": "/nighantu/reference/ellagic-acid/"
+      "url": "/reference/ellagic-acid/"
     },
     {
       "slug": "flavonoids",
       "kind": "hub",
       "title": "Flavonoids",
-      "url": "/nighantu/reference/flavonoids/"
+      "url": "/reference/flavonoids/"
     },
     {
       "slug": "gallic-acid",
       "kind": "hub",
       "title": "Gallic acid",
-      "url": "/nighantu/reference/gallic-acid/"
+      "url": "/reference/gallic-acid/"
     },
     {
       "slug": "kaempferol",
       "kind": "hub",
       "title": "Kaempferol",
-      "url": "/nighantu/reference/kaempferol/"
+      "url": "/reference/kaempferol/"
     },
     {
       "slug": "lupeol",
       "kind": "hub",
       "title": "Lupeol",
-      "url": "/nighantu/reference/lupeol/"
+      "url": "/reference/lupeol/"
     },
     {
       "slug": "oleanolic-acid",
       "kind": "hub",
       "title": "Oleanolic acid",
-      "url": "/nighantu/reference/oleanolic-acid/"
+      "url": "/reference/oleanolic-acid/"
     },
     {
       "slug": "piperine",
       "kind": "hub",
       "title": "Piperine",
-      "url": "/nighantu/reference/piperine/"
+      "url": "/reference/piperine/"
     },
     {
       "slug": "quercetinquercetin",
       "kind": "hub",
       "title": "Quercetin",
-      "url": "/nighantu/reference/quercetinquercetin/"
+      "url": "/reference/quercetinquercetin/"
     },
     {
       "slug": "saponins",
       "kind": "hub",
       "title": "Saponins",
-      "url": "/nighantu/reference/saponins/"
+      "url": "/reference/saponins/"
     },
     {
       "slug": "stigmasterol",
       "kind": "hub",
       "title": "Stigmasterol",
-      "url": "/nighantu/reference/stigmasterol/"
+      "url": "/reference/stigmasterol/"
     },
     {
       "slug": "tannins",
       "kind": "hub",
       "title": "Tannins",
-      "url": "/nighantu/reference/tannins/"
+      "url": "/reference/tannins/"
     },
     {
       "slug": "ursolic-acid",
       "kind": "hub",
       "title": "Ursolic acid",
-      "url": "/nighantu/reference/ursolic-acid/"
+      "url": "/reference/ursolic-acid/"
     },
     {
       "slug": "antiinflammatory-pain-across-traditions",
       "kind": "hub",
       "title": "Anti inflammatory & Pain — Across Traditions",
-      "url": "/nighantu/reference/antiinflammatory-pain-across-traditions/"
+      "url": "/reference/antiinflammatory-pain-across-traditions/"
     },
     {
       "slug": "kidney-urinary-across-traditions",
       "kind": "hub",
       "title": "Kidney & Urinary — Across Traditions",
-      "url": "/nighantu/reference/kidney-urinary-across-traditions/"
+      "url": "/reference/kidney-urinary-across-traditions/"
     },
     {
       "slug": "fabaceae",
       "kind": "hub",
       "title": "Family: Fabaceae",
-      "url": "/nighantu/reference/fabaceae/"
+      "url": "/reference/fabaceae/"
     },
     {
       "slug": "rosaceae",
       "kind": "hub",
       "title": "Family: Rosaceae",
-      "url": "/nighantu/reference/rosaceae/"
+      "url": "/reference/rosaceae/"
     },
     {
       "slug": "zingiberaceae",
       "kind": "hub",
       "title": "Family: Zingiberaceae",
-      "url": "/nighantu/reference/zingiberaceae/"
+      "url": "/reference/zingiberaceae/"
     },
     {
       "slug": "adaptogenic",
       "kind": "hub",
       "title": "Adaptogenic Agents",
-      "url": "/nighantu/reference/adaptogenic/"
+      "url": "/reference/adaptogenic/"
     },
     {
       "slug": "analgesic",
       "kind": "hub",
       "title": "Analgesic Agents",
-      "url": "/nighantu/reference/analgesic/"
+      "url": "/reference/analgesic/"
     },
     {
       "slug": "anticancer",
       "kind": "hub",
       "title": "Anticancer Agents",
-      "url": "/nighantu/reference/anticancer/"
+      "url": "/reference/anticancer/"
     },
     {
       "slug": "antidiabetic",
       "kind": "hub",
       "title": "Antidiabetic Agents",
-      "url": "/nighantu/reference/antidiabetic/"
+      "url": "/reference/antidiabetic/"
     },
     {
       "slug": "antiinflammatory",
       "kind": "hub",
       "title": "Anti inflammatory Agents",
-      "url": "/nighantu/reference/antiinflammatory/"
+      "url": "/reference/antiinflammatory/"
     },
     {
       "slug": "antimicrobial",
       "kind": "hub",
       "title": "Antimicrobial Agents",
-      "url": "/nighantu/reference/antimicrobial/"
+      "url": "/reference/antimicrobial/"
     },
     {
       "slug": "antioxidant",
       "kind": "hub",
       "title": "Antioxidant Agents",
-      "url": "/nighantu/reference/antioxidant/"
+      "url": "/reference/antioxidant/"
     },
     {
       "slug": "antipyretic",
       "kind": "hub",
       "title": "Antipyretic Agents",
-      "url": "/nighantu/reference/antipyretic/"
+      "url": "/reference/antipyretic/"
     },
     {
       "slug": "anxiolytic",
       "kind": "hub",
       "title": "Anxiolytic Agents",
-      "url": "/nighantu/reference/anxiolytic/"
+      "url": "/reference/anxiolytic/"
     },
     {
       "slug": "bronchodilator",
       "kind": "hub",
       "title": "Bronchodilator Agents",
-      "url": "/nighantu/reference/bronchodilator/"
+      "url": "/reference/bronchodilator/"
     },
     {
       "slug": "cardioprotective",
       "kind": "hub",
       "title": "Cardioprotective Agents",
-      "url": "/nighantu/reference/cardioprotective/"
+      "url": "/reference/cardioprotective/"
     },
     {
       "slug": "diuretic",
       "kind": "hub",
       "title": "Diuretic Agents",
-      "url": "/nighantu/reference/diuretic/"
+      "url": "/reference/diuretic/"
     },
     {
       "slug": "expectorant",
       "kind": "hub",
       "title": "Expectorant Agents",
-      "url": "/nighantu/reference/expectorant/"
+      "url": "/reference/expectorant/"
     },
     {
       "slug": "hepatoprotective",
       "kind": "hub",
       "title": "Hepatoprotective Agents",
-      "url": "/nighantu/reference/hepatoprotective/"
+      "url": "/reference/hepatoprotective/"
     },
     {
       "slug": "immunomodulatory",
       "kind": "hub",
       "title": "Immunomodulatory Agents",
-      "url": "/nighantu/reference/immunomodulatory/"
+      "url": "/reference/immunomodulatory/"
     },
     {
       "slug": "laxative",
       "kind": "hub",
       "title": "Laxative Agents",
-      "url": "/nighantu/reference/laxative/"
+      "url": "/reference/laxative/"
     },
     {
       "slug": "medhya-nootropic",
       "kind": "hub",
       "title": "Medhya (Nootropic) Agents",
-      "url": "/nighantu/reference/medhya-nootropic/"
+      "url": "/reference/medhya-nootropic/"
     },
     {
       "slug": "neuroprotective",
       "kind": "hub",
       "title": "Neuroprotective Agents",
-      "url": "/nighantu/reference/neuroprotective/"
+      "url": "/reference/neuroprotective/"
     },
     {
       "slug": "rasayana",
       "kind": "hub",
       "title": "Rasayana Agents",
-      "url": "/nighantu/reference/rasayana/"
+      "url": "/reference/rasayana/"
     },
     {
       "slug": "wound-healing",
       "kind": "hub",
       "title": "Wound Healing Agents",
-      "url": "/nighantu/reference/wound-healing/"
+      "url": "/reference/wound-healing/"
     }
   ]
 }

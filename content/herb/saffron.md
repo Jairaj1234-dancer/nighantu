@@ -44,26 +44,26 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Mens-Health-Vitality/Saffron/meta-analysis.
 ## Key Phytochemical Constituents
 
 - Crocin
-- [Crocetin](/nighantu/glossary/compounds-c-d/#crocetin)
+- [Crocetin](/glossary/compounds-c-d/#crocetin)
 - Safranal
 - Picrocrocin
 
 ## Therapeutic Actions (Karma)
 
 - Antidepressant
-- [Antioxidant](/nighantu/reference/antioxidant/)
-- [Neuroprotective](/nighantu/reference/neuroprotective/)
+- [Antioxidant](/reference/antioxidant/)
+- [Neuroprotective](/reference/neuroprotective/)
 - Complexion enhancer
 - Emmenagogue
-- [Aphrodisiac](/nighantu/glossary/pharmacology/#aphrodisiac)
+- [Aphrodisiac](/glossary/pharmacology/#aphrodisiac)
 
 ## How does it work?
 
-- Crocin inhibits norepinephrine reuptake; safranal inhibits [serotonin](/nighantu/glossary/compounds-q-t/#serotonin) reuptake - dual monoamine reuptake inhibition underpins antidepressant activity.
+- Crocin inhibits norepinephrine reuptake; safranal inhibits [serotonin](/glossary/compounds-q-t/#serotonin) reuptake - dual monoamine reuptake inhibition underpins antidepressant activity.
 - Increases brain-derived neurotrophic factor (BDNF) levels crucial for neurogenesis and synaptic plasticity.
 - Crocin upregulates endogenous PACAP, activating ERK/CREB signaling cascade, improving synaptic plasticity and neuronal survival.
 - Modulates BDNF/CREB/ERK signaling cascade relevant to behavioral changes in depression.
-- NMDA receptor antagonism and GABA-A receptor agonism contribute to antidepressant and [anxiolytic](/nighantu/reference/anxiolytic/) effects.
+- NMDA receptor antagonism and GABA-A receptor agonism contribute to antidepressant and [anxiolytic](/reference/anxiolytic/) effects.
 - CYP3A4 enzyme inhibition affects drug metabolism pharmacokinetics.
 - Anti-inflammatory effects through suppression of pro-inflammatory cytokines.
 - Neuroprotective activity of crocin, crocetin, and safranal through combined neurotransmitter regulation, anti-inflammatory effects, and direct neuroprotection.
@@ -71,7 +71,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Mens-Health-Vitality/Saffron/meta-analysis.
 
 ## How is it used traditionally?
 
-Most precious spice in Ayurveda. Used for Varnya (complexion), Vishodhan (purification), and Yoniroga (gynecological disorders). [Kumkumadi Tailam](/nighantu/formulation/kumkumadi-tailam/) is a famous face oil.
+Most precious spice in Ayurveda. Used for Varnya (complexion), Vishodhan (purification), and Yoniroga (gynecological disorders). [Kumkumadi Tailam](/formulation/kumkumadi-tailam/) is a famous face oil.
 
 ## Where is it described in the classical texts?
 
@@ -172,9 +172,9 @@ DISCUSSION: Saffron demonstrates promise in improving ADHD symptoms, with an acc
 - Dai L, Chen L, Wang W 2020. [Safety and Efficacy of Saffron (Crocus sativus L.) for Treating Mild to Moderate Depression: A Systematic Review and Meta-analysis](https://pubmed.ncbi.nlm.nih.gov/32221179/). *The Journal of nervous and mental disease*. PMID [32221179](https://pubmed.ncbi.nlm.nih.gov/32221179/) · [doi:10.1097/NMD.0000000000001118](https://doi.org/10.1097/NMD.0000000000001118)  
   Meta-analysis found large effect size (M ES = 1.62, P < 0.001) for saffron vs. placebo in treating depressive symptoms. Null effect size (M ES = -0.15) vs. antidepressants, indicating comparable efficacy.
 - Bathaei P, Imenshahidi M, Vahdati-Mashhadian N and others 2025. [Effects of Crocus sativus and its active constituents on cytochrome P450: a review](https://pubmed.ncbi.nlm.nih.gov/40167627/). *Naunyn-Schmiedeberg's archives of pharmacology*. PMID [40167627](https://pubmed.ncbi.nlm.nih.gov/40167627/) · [doi:10.1007/s00210-024-03525-6](https://doi.org/10.1007/s00210-024-03525-6)  
-  Review cataloguing saffron and its constituents' (crocin, crocetin, safranal) effects on CYP [enzymes](/nighantu/glossary/compounds-d-g/#enzymes), particularly CYP3A4 inhibition, with implications for drug interaction prediction.
+  Review cataloguing saffron and its constituents' (crocin, crocetin, safranal) effects on CYP [enzymes](/glossary/compounds-d-g/#enzymes), particularly CYP3A4 inhibition, with implications for drug interaction prediction.
 - Ziani A, Bekkouch O, Ouahhoud S and others 2025. [Phytochemistry, Biological Activities, Molecular Mechanisms, and Toxicity of Saffron (Crocus sativus L.): A Comprehensive Overview](https://pubmed.ncbi.nlm.nih.gov/41462633/). *Antioxidants (Basel, Switzerland)*. PMID [41462633](https://pubmed.ncbi.nlm.nih.gov/41462633/) · [doi:10.3390/antiox14121433](https://doi.org/10.3390/antiox14121433)  
-  Comprehensive overview confirming saffron's anti-inflammatory, antioxidant, neuroprotective, and [anticancer](/nighantu/reference/anticancer/) properties with detailed toxicological profiling.
+  Comprehensive overview confirming saffron's anti-inflammatory, antioxidant, neuroprotective, and [anticancer](/reference/anticancer/) properties with detailed toxicological profiling.
 - Lu C, Ke L, Li J and others 2021. [Saffron (Crocus sativus L.) and health outcomes: a meta-research review of meta-analyses and an evidence mapping study](https://pubmed.ncbi.nlm.nih.gov/34419735/). *Phytomedicine : international journal of phytotherapy and phytopharmacology*. PMID [34419735](https://pubmed.ncbi.nlm.nih.gov/34419735/) · [doi:10.1016/j.phymed.2021.153699](https://doi.org/10.1016/j.phymed.2021.153699)  
   Meta-research review of meta-analyses mapping the full evidence landscape for saffron health outcomes across cardiovascular, metabolic, neurological, and other domains.
 
@@ -232,7 +232,7 @@ Stigma: 20-30mg/day (up to 1.5g/day in research); With milk: 2-3 strands
 
 **Storage:** Store at 15-25 deg C in airtight, light-protected containers (amber glass or aluminum blisters). Nitrogen atmosphere recommended. RH <40%. Whole stigmas in sealed tins away from light, heat, and moisture.
 
-**Marker Compounds:** Crocin-1 (trans-crocin-4), Crocin-2, Crocetin, Safranal, Picrocrocin, [Kaempferol](/nighantu/reference/kaempferol/)
+**Marker Compounds:** Crocin-1 (trans-crocin-4), Crocin-2, Crocetin, Safranal, Picrocrocin, [Kaempferol](/reference/kaempferol/)
 
 ### Extraction Methods
 
@@ -244,8 +244,8 @@ Stigma: 20-30mg/day (up to 1.5g/day in research); With milk: 2-3 strands
 
 ### Synergistic Combinations
 
-- [Ashwagandha](/nighantu/herb/ashwagandha/) (antidepressant synergy, clinically validated)
-- [Brahmi](/nighantu/herb/brahmi/) (cognitive enhancement)
-- [Turmeric](/nighantu/herb/turmeric/) (anti-inflammatory synergy)
-- [Piperine](/nighantu/reference/piperine/) (bioavailability enhancement for crocin)
+- [Ashwagandha](/herb/ashwagandha/) (antidepressant synergy, clinically validated)
+- [Brahmi](/herb/brahmi/) (cognitive enhancement)
+- [Turmeric](/herb/turmeric/) (anti-inflammatory synergy)
+- [Piperine](/reference/piperine/) (bioavailability enhancement for crocin)
 - Sandalwood (Pitta-pacifying luxury formulations)

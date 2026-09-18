@@ -32,22 +32,22 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agastya/meta-analysis.md"
 - Medicarpin
 - Sativan
 - Betulinic acid
-- [Kaempferol](/nighantu/reference/kaempferol/)
-- [Quercetin](/nighantu/reference/quercetinquercetin/)
+- [Kaempferol](/reference/kaempferol/)
+- [Quercetin](/reference/quercetinquercetin/)
 - Vomifoliol
 - Loliolide
 
 ## How does it work?
 
-- [Antioxidant](/nighantu/reference/antioxidant/): Phenolic compounds and [flavonoids](/nighantu/reference/flavonoids/) (kaempferol, [quercetin](/nighantu/reference/quercetinquercetin/)) scavenge ROS and inhibit lipid peroxidation
-- [Anticancer](/nighantu/reference/anticancer/): Flavonoids and [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) activate caspase cascades and induce apoptosis through mitochondrial pathway
+- [Antioxidant](/reference/antioxidant/): Phenolic compounds and [flavonoids](/reference/flavonoids/) (kaempferol, [quercetin](/reference/quercetinquercetin/)) scavenge ROS and inhibit lipid peroxidation
+- [Anticancer](/reference/anticancer/): Flavonoids and [alkaloids](/glossary/compounds-1-a/#alkaloids) activate caspase cascades and induce apoptosis through mitochondrial pathway
 - Anti-fibrotic: Leaf extracts modulate TGF-beta signaling and reduce collagen deposition in fibrotic tissue
 
 ## Which traditional uses are supported by research?
 
 - Anti-inflammatory use validated through inhibition of pro-inflammatory mediators and reduction of edema in animal models
-- [Hepatoprotective](/nighantu/reference/hepatoprotective/) traditional use confirmed by reduction of liver [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) (ALT, AST) in hepatotoxicity models
-- Alpha-glucosidase inhibitory activity of leaf flavonoids supports traditional [antidiabetic](/nighantu/reference/antidiabetic/) use
+- [Hepatoprotective](/reference/hepatoprotective/) traditional use confirmed by reduction of liver [enzymes](/glossary/compounds-d-g/#enzymes) (ALT, AST) in hepatotoxicity models
+- Alpha-glucosidase inhibitory activity of leaf flavonoids supports traditional [antidiabetic](/reference/antidiabetic/) use
 
 ## What do recent clinical trials show?
 
@@ -79,7 +79,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agastya/meta-analysis.md"
 
 **Storage:** Store in airtight containers away from light. Powder and capsules below 25°C, RH < 60%. Fresh preparations require refrigeration (2-8°C).
 
-**Marker Compounds:** Oleanolic acid, Kaempferol, [Quercetin](/nighantu/reference/quercetinquercetin/), Cyanidin [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) (red variety), Sesbanimide
+**Marker Compounds:** Oleanolic acid, Kaempferol, [Quercetin](/reference/quercetinquercetin/), Cyanidin [glycosides](/glossary/compounds-g-l/#glycosides) (red variety), Sesbanimide
 
 ### Extraction Methods
 
@@ -90,6 +90,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agastya/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Vasa](/nighantu/herb/vasa/) (Adhatoda) for respiratory conditions
-- With [Haridra](/nighantu/herb/haridra/) for anti-inflammatory synergy
-- With [Yashtimadhu](/nighantu/herb/yashtimadhu/) for bronchial support
+- With [Vasa](/herb/vasa/) (Adhatoda) for respiratory conditions
+- With [Haridra](/herb/haridra/) for anti-inflammatory synergy
+- With [Yashtimadhu](/herb/yashtimadhu/) for bronchial support

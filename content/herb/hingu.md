@@ -29,20 +29,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Hingu/meta-analysis.md"
 ## Key Phytochemical Constituents
 
 - Ferulic acid and its esters (resin fraction)
-- Sesquiterpene [coumarins](/nighantu/glossary/compounds-c-d/#coumarins) (e.g., farnesiferol)
+- Sesquiterpene [coumarins](/glossary/compounds-c-d/#coumarins) (e.g., farnesiferol)
 - Organosulfur compounds (sec-butyl propenyl disulfide)
-- [Umbelliferone](/nighantu/glossary/compounds-t-z/#umbelliferone) ([coumarin](/nighantu/glossary/compounds-c-d/#coumarin) derivative)
-- [Luteolin](/nighantu/glossary/compounds-l-o/#luteolin) and other [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids)
-- Gum [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides) ([glucose](/nighantu/glossary/compounds-d-g/#glucose), [galactose](/nighantu/glossary/compounds-d-g/#galactose), arabinose)
-- Volatile [monoterpenes](/nighantu/glossary/compounds-l-o/#monoterpenes) (alpha-pinene, beta-pinene)
+- [Umbelliferone](/glossary/compounds-t-z/#umbelliferone) ([coumarin](/glossary/compounds-c-d/#coumarin) derivative)
+- [Luteolin](/glossary/compounds-l-o/#luteolin) and other [terpenoids](/glossary/compounds-t-z/#terpenoids)
+- Gum [polysaccharides](/glossary/compounds-o-q/#polysaccharides) ([glucose](/glossary/compounds-d-g/#glucose), [galactose](/glossary/compounds-d-g/#galactose), arabinose)
+- Volatile [monoterpenes](/glossary/compounds-l-o/#monoterpenes) (alpha-pinene, beta-pinene)
 
 ## How does it work?
 
-- [Antispasmodic](/nighantu/glossary/pharmacology/#antispasmodic) action through relaxation of smooth muscle via calcium channel antagonism, particularly in the gastrointestinal tract
+- [Antispasmodic](/glossary/pharmacology/#antispasmodic) action through relaxation of smooth muscle via calcium channel antagonism, particularly in the gastrointestinal tract
 - Anti-inflammatory activity mediated by ferulic acid and sesquiterpene coumarins through inhibition of NF-kB and COX-2 pathways
-- Organosulfur compounds provide [antimicrobial](/nighantu/reference/antimicrobial/) activity by disrupting bacterial and fungal cell membrane integrity
-- Volatile oil components eliminated through the lungs provide [expectorant](/nighantu/reference/expectorant/) and bronchodilatory effects for respiratory conditions
-- [Antioxidant](/nighantu/reference/antioxidant/) mechanism via free radical scavenging by ferulic acid and polyphenolic compounds, protecting against oxidative stress in liver and kidney
+- Organosulfur compounds provide [antimicrobial](/reference/antimicrobial/) activity by disrupting bacterial and fungal cell membrane integrity
+- Volatile oil components eliminated through the lungs provide [expectorant](/reference/expectorant/) and bronchodilatory effects for respiratory conditions
+- [Antioxidant](/reference/antioxidant/) mechanism via free radical scavenging by ferulic acid and polyphenolic compounds, protecting against oxidative stress in liver and kidney
 
 ## Which traditional uses are supported by research?
 
@@ -57,7 +57,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Hingu/meta-analysis.md"
 - Mala KN, Thomas J, Syam DS and others 2018. [Safety and Efficacy of Ferula asafoetida in Functional Dyspepsia: A Randomized, Double-Blinded, Placebo-Controlled Study](https://pubmed.ncbi.nlm.nih.gov/30224930/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [30224930](https://pubmed.ncbi.nlm.nih.gov/30224930/) · [doi:10.1155/2018/4813601](https://doi.org/10.1155/2018/4813601)  
   In 43 subjects with functional dyspepsia, 81% of the asafoetida group showed significant improvement in overall symptom scores and quality of life compared to placebo over a 30-day period.
 - Thulluri SP, Selvaraj K, Yerraguntla DP and others 2025. [A Review of the Protective Effects of Ferula asafoetida on the Liver, Kidney, and Testes Against Formaldehyde-Induced Damage](https://pubmed.ncbi.nlm.nih.gov/40144445/). *Cureus*. PMID [40144445](https://pubmed.ncbi.nlm.nih.gov/40144445/) · [doi:10.7759/cureus.79545](https://doi.org/10.7759/cureus.79545)  
-  Demonstrated [hepatoprotective](/nighantu/reference/hepatoprotective/), nephroprotective, and reproductive-protective effects of asafoetida extract against formaldehyde-induced oxidative damage in animal models.
+  Demonstrated [hepatoprotective](/reference/hepatoprotective/), nephroprotective, and reproductive-protective effects of asafoetida extract against formaldehyde-induced oxidative damage in animal models.
 - Qasim M, Abdullah M, Ali Ashfaq U and others 2023. [Molecular mechanism of Ferula asafoetida for the treatment of asthma: Network pharmacology and molecular docking approach](https://pubmed.ncbi.nlm.nih.gov/36568408/). *Saudi journal of biological sciences*. PMID [36568408](https://pubmed.ncbi.nlm.nih.gov/36568408/) · [doi:10.1016/j.sjbs.2022.103527](https://doi.org/10.1016/j.sjbs.2022.103527)  
   Network pharmacology analysis identified key molecular targets and signaling pathways through which asafoetida components exert anti-asthmatic effects, validating traditional use for respiratory conditions.
 - Niazmand R, Razavizadeh BM 2021. [Ferula asafoetida: chemical composition, thermal behavior, antioxidant and antimicrobial activities of leaf and gum hydroalcoholic extracts](https://pubmed.ncbi.nlm.nih.gov/33967312/). *Journal of food science and technology*. PMID [33967312](https://pubmed.ncbi.nlm.nih.gov/33967312/) · [doi:10.1007/s13197-020-04724-8](https://doi.org/10.1007/s13197-020-04724-8)  
@@ -67,11 +67,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Hingu/meta-analysis.md"
 
 - Likely unsafe during pregnancy as it may cause miscarriage; a case of severe methemoglobinemia was reported in a 5-week-old infant following ingestion of glycerated asafoetida solution
 - Generally recognized as safe (GRAS) in food amounts; possible side effects at medicinal doses include gas, diarrhea, headache, mouth/lip swelling, and burping; animal studies suggest liver toxicity at high doses (200 mg/kg for 6 weeks)
-- May interact with anticoagulant and [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive) medications; individuals with bleeding disorders should exercise caution due to potential anticoagulant properties
+- May interact with anticoagulant and [antihypertensive](/glossary/pharmacology/#antihypertensive) medications; individuals with bleeding disorders should exercise caution due to potential anticoagulant properties
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Vati (pill/tablet), Capsule, [Arka](/nighantu/herb/arka/) (distillate), Bhasma (processed form)
+**Dosage Forms:** Churna (powder), Vati (pill/tablet), Capsule, [Arka](/herb/arka/) (distillate), Bhasma (processed form)
 
 **Standard Dosage:** 125-500mg powder with meals; 250-500mg Hingu Vati; typically used as culinary spice (pinch to 1/4 tsp)
 
@@ -96,7 +96,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Hingu/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Ajwain](/nighantu/herb/ajwain/) for carminative action
-- With Sunthi ([ginger](/nighantu/herb/ginger/)) for digestive stimulation
-- With [Jeeraka](/nighantu/herb/jeeraka/) ([cumin](/nighantu/herb/cumin/)) for flatulence relief
-- With [Saindhava Lavana](/nighantu/herb/saindhava-lavana/) for Vata disorders
+- With [Ajwain](/herb/ajwain/) for carminative action
+- With Sunthi ([ginger](/herb/ginger/)) for digestive stimulation
+- With [Jeeraka](/herb/jeeraka/) ([cumin](/herb/cumin/)) for flatulence relief
+- With [Saindhava Lavana](/herb/saindhava-lavana/) for Vata disorders

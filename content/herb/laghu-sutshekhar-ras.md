@@ -23,18 +23,18 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Laghu-Sutshekhar-R
 
 | Language | Name |
 |----------|------|
-| English | [Laghu Sutshekhar Ras](/nighantu/herb/laghu-sutshekhar-ras/) |
+| English | [Laghu Sutshekhar Ras](/herb/laghu-sutshekhar-ras/) |
 
 ## How does it work?
 
-- Acid-neutralizing action: [Shankha Bhasma](/nighantu/herb/shankha-bhasma/) (calcium carbonate from conch shell) directly neutralizes excess gastric acid, functioning as a natural antacid similar to pharmaceutical calcium carbonate preparations
-- Gastroprotective action: [Saffron](/nighantu/herb/saffron/) (Kesar) and [camphor](/nighantu/herb/camphor/) (Karpura) have demonstrated anti-inflammatory and mucosal protective properties; [piperine](/nighantu/reference/piperine/) from [Trikatu](/nighantu/herb/trikatu/) enhances bioavailability of other components
+- Acid-neutralizing action: [Shankha Bhasma](/herb/shankha-bhasma/) (calcium carbonate from conch shell) directly neutralizes excess gastric acid, functioning as a natural antacid similar to pharmaceutical calcium carbonate preparations
+- Gastroprotective action: [Saffron](/herb/saffron/) (Kesar) and [camphor](/herb/camphor/) (Karpura) have demonstrated anti-inflammatory and mucosal protective properties; [piperine](/reference/piperine/) from [Trikatu](/herb/trikatu/) enhances bioavailability of other components
 - Pitta-pacifying mechanism: The cooling properties of pearl, coral, and conch shell bhasmas collectively reduce excessive Pitta (heat/acid) in the GI tract per Ayurvedic pharmacology
 
 ## Which traditional uses are supported by research?
 
 - Hyperacidity and acid reflux (Amlapitta): Pilot clinical study (2019) showed 68% symptom relief in functional dyspepsia within 2 weeks, supporting traditional use as an antacid and digestive aid
-- Digestive disorders: The calcium carbonate content from [Shankha Bhasma](/nighantu/herb/shankha-bhasma/) has a well-established acid-neutralizing mechanism directly relevant to the traditional indication, providing strong mechanistic validation
+- Digestive disorders: The calcium carbonate content from [Shankha Bhasma](/herb/shankha-bhasma/) has a well-established acid-neutralizing mechanism directly relevant to the traditional indication, providing strong mechanistic validation
 
 ## What do recent clinical trials show?
 
@@ -68,13 +68,13 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Laghu-Sutshekhar-R
 
 **Optimal Timing:** Before meals with honey or Amalaki Swarasa
 
-**Standardized Extract:** Shuddha Parada (purified mercury) + [Gandhaka](/nighantu/glossary/concepts-a-m/#gandhaka) + cooling herbs
+**Standardized Extract:** Shuddha Parada (purified mercury) + [Gandhaka](/glossary/concepts-a-m/#gandhaka) + cooling herbs
 
 **Shelf Life:** Indefinite
 
 **Storage:** Airtight container
 
-**Marker Compounds:** Mercury sulfide, Sulfur compounds, Bhringaraj compounds, Amalaki [tannins](/nighantu/reference/tannins/)
+**Marker Compounds:** Mercury sulfide, Sulfur compounds, Bhringaraj compounds, Amalaki [tannins](/reference/tannins/)
 
 **Quality Parameters:** Free mercury <1 ppm, standard Rasaushadhi tests
 

@@ -23,49 +23,49 @@ srcRel: "_Hub/Compounds/Catechin.md"
 
 ## Ayurveda
 
-- [Akshotaka](/nighantu/herb/akshotaka/) — *Juglans regia L.*
-- [Amra](/nighantu/herb/amra/) — *Mangifera indica L.*
-- [Aragwadha](/nighantu/herb/aragwadha/) — *Cassia fistula L.*
-- [Ashoka](/nighantu/herb/ashoka/)
-- [Ashoka Ghrita](/nighantu/formulation/ashoka-ghrita/)
-- [Ashokarishta](/nighantu/formulation/ashokarishta/)
-- [Babbula](/nighantu/herb/babbula/) — *Acacia nilotica (L.) Delile (syn. Vachellia nilotica)*
-- [Bitter Gourd Herb](/nighantu/herb/bitter-gourd-herb/)
-- [Dadima Twak](/nighantu/herb/dadima-twak/) — *Punica granatum L. (fruit rind/pericarp)*
-- [Draksha](/nighantu/herb/draksha/)
-- [Drakshadi Kashayam](/nighantu/formulation/drakshadi-kashayam/)
-- [Draksharishta](/nighantu/formulation/draksharishta/)
-- [Irimedadi Taila](/nighantu/formulation/irimedadi-taila/)
-- [Jalavetasa](/nighantu/herb/jalavetasa/) — *Vallisneria spiralis L. (aquatic medicinal plant grouped under Jalaj Aushadhi)*
-- [Kadali Pushpa](/nighantu/herb/kadali-pushpa/) — *Musa paradisiaca L. (inflorescence/flower)*
-- [Kadara](/nighantu/herb/kadara/)
-- [Karela](/nighantu/herb/karela/)
-- [Karkatashringi](/nighantu/herb/karkatashringi/) — *Pistacia integerrima J.L. Stewart ex Brandis*
-- [Khadira](/nighantu/herb/khadira/) — *Acacia catechu (L.f.) Willd.*
-- [Khadiradi Vati](/nighantu/formulation/khadiradi-vati/)
-- [Koshamra](/nighantu/herb/koshamra/)
-- [Kulattha](/nighantu/herb/kulattha/) — *Macrotyloma uniflorum (Lam.) Verdc. (syn. Dolichos biflorus L.)*
-- [Mahamanjishthadi](/nighantu/herb/mahamanjishthadi/) — *Polyherbal formulation: Rubia cordifolia L. ([Manjistha](/nighantu/herb/manjistha/)) as principal herb with multiple supporting herbs*
-- [Nimba](/nighantu/herb/nimba/) — *Azadirachta indica A. Juss.*
-- [Nimba Patra](/nighantu/herb/nimba-patra/)
-- [Pashanabheda](/nighantu/herb/pashanabheda/)
-- [Puga](/nighantu/herb/puga/)
-- [Shirisha](/nighantu/herb/shirisha/) — *Albizia lebbeck (L.) Benth.*
-- [Shyonaka](/nighantu/herb/shyonaka/) — *Oroxylum indicum (L.) Kurz*
-- [Svalpa Khadiradi Vati](/nighantu/glossary/concepts-m-y/#svalpa-khadiradi-vati)
-- [Tamalpatra](/nighantu/herb/tamalpatra/)
-- [Vathada](/nighantu/herb/vathada/)
-- [Vetasa](/nighantu/herb/vetasa/)
+- [Akshotaka](/herb/akshotaka/) — *Juglans regia L.*
+- [Amra](/herb/amra/) — *Mangifera indica L.*
+- [Aragwadha](/herb/aragwadha/) — *Cassia fistula L.*
+- [Ashoka](/herb/ashoka/)
+- [Ashoka Ghrita](/formulation/ashoka-ghrita/)
+- [Ashokarishta](/formulation/ashokarishta/)
+- [Babbula](/herb/babbula/) — *Acacia nilotica (L.) Delile (syn. Vachellia nilotica)*
+- [Bitter Gourd Herb](/herb/bitter-gourd-herb/)
+- [Dadima Twak](/herb/dadima-twak/) — *Punica granatum L. (fruit rind/pericarp)*
+- [Draksha](/herb/draksha/)
+- [Drakshadi Kashayam](/formulation/drakshadi-kashayam/)
+- [Draksharishta](/formulation/draksharishta/)
+- [Irimedadi Taila](/formulation/irimedadi-taila/)
+- [Jalavetasa](/herb/jalavetasa/) — *Vallisneria spiralis L. (aquatic medicinal plant grouped under Jalaj Aushadhi)*
+- [Kadali Pushpa](/herb/kadali-pushpa/) — *Musa paradisiaca L. (inflorescence/flower)*
+- [Kadara](/herb/kadara/)
+- [Karela](/herb/karela/)
+- [Karkatashringi](/herb/karkatashringi/) — *Pistacia integerrima J.L. Stewart ex Brandis*
+- [Khadira](/herb/khadira/) — *Acacia catechu (L.f.) Willd.*
+- [Khadiradi Vati](/formulation/khadiradi-vati/)
+- [Koshamra](/herb/koshamra/)
+- [Kulattha](/herb/kulattha/) — *Macrotyloma uniflorum (Lam.) Verdc. (syn. Dolichos biflorus L.)*
+- [Mahamanjishthadi](/herb/mahamanjishthadi/) — *Polyherbal formulation: Rubia cordifolia L. ([Manjistha](/herb/manjistha/)) as principal herb with multiple supporting herbs*
+- [Nimba](/herb/nimba/) — *Azadirachta indica A. Juss.*
+- [Nimba Patra](/herb/nimba-patra/)
+- [Pashanabheda](/herb/pashanabheda/)
+- [Puga](/herb/puga/)
+- [Shirisha](/herb/shirisha/) — *Albizia lebbeck (L.) Benth.*
+- [Shyonaka](/herb/shyonaka/) — *Oroxylum indicum (L.) Kurz*
+- [Svalpa Khadiradi Vati](/glossary/concepts-m-y/#svalpa-khadiradi-vati)
+- [Tamalpatra](/herb/tamalpatra/)
+- [Vathada](/herb/vathada/)
+- [Vetasa](/herb/vetasa/)
 
 ## Often Found With
 
-- [Gallic acid](/nighantu/reference/gallic-acid/) (26 shared sources)
-- [Epicatechin](/nighantu/glossary/compounds-d-g/#epicatechin) (21 shared sources)
-- [Quercetin](/nighantu/reference/quercetinquercetin/) (14 shared sources)
-- [Beta-sitosterol](/nighantu/glossary/compounds-a-c/#betasitosterol) (11 shared sources)
-- [Ellagic acid](/nighantu/reference/ellagic-acid/) (8 shared sources)
-- [Kaempferol](/nighantu/reference/kaempferol/) (8 shared sources)
-- [Flavonoids](/nighantu/reference/flavonoids/) (4 shared sources)
-- [Tannins](/nighantu/reference/tannins/) (4 shared sources)
-- [Procyanidin B2](/nighantu/glossary/compounds-o-q/#procyanidin-b2) (3 shared sources)
-- [Leucocyanidin](/nighantu/glossary/compounds-g-l/#leucocyanidin) (3 shared sources)
+- [Gallic acid](/reference/gallic-acid/) (26 shared sources)
+- [Epicatechin](/glossary/compounds-d-g/#epicatechin) (21 shared sources)
+- [Quercetin](/reference/quercetinquercetin/) (14 shared sources)
+- [Beta-sitosterol](/glossary/compounds-a-c/#betasitosterol) (11 shared sources)
+- [Ellagic acid](/reference/ellagic-acid/) (8 shared sources)
+- [Kaempferol](/reference/kaempferol/) (8 shared sources)
+- [Flavonoids](/reference/flavonoids/) (4 shared sources)
+- [Tannins](/reference/tannins/) (4 shared sources)
+- [Procyanidin B2](/glossary/compounds-o-q/#procyanidin-b2) (3 shared sources)
+- [Leucocyanidin](/glossary/compounds-g-l/#leucocyanidin) (3 shared sources)

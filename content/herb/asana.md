@@ -28,43 +28,43 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Asana/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- (-)-[Epicatechin](/nighantu/glossary/compounds-d-g/#epicatechin)
-- [Pterostilbene](/nighantu/glossary/compounds-o-q/#pterostilbene) (stilbenoid)
-- [Marsupsin](/nighantu/glossary/compounds-l-o/#marsupsin)
-- [Pterosupin](/nighantu/glossary/compounds-o-q/#pterosupin) (dihydrochalcone)
-- [Liquiritigenin](/nighantu/glossary/compounds-l-o/#liquiritigenin)
-- [Isoliquiritigenin](/nighantu/glossary/compounds-g-l/#isoliquiritigenin)
+- (-)-[Epicatechin](/glossary/compounds-d-g/#epicatechin)
+- [Pterostilbene](/glossary/compounds-o-q/#pterostilbene) (stilbenoid)
+- [Marsupsin](/glossary/compounds-l-o/#marsupsin)
+- [Pterosupin](/glossary/compounds-o-q/#pterosupin) (dihydrochalcone)
+- [Liquiritigenin](/glossary/compounds-l-o/#liquiritigenin)
+- [Isoliquiritigenin](/glossary/compounds-g-l/#isoliquiritigenin)
 - Beta-eudesmol
 - Erythrodiol-3-monoacetate
 - Pseudobaptigenin (isoflavone)
-- [Pterocarpol](/nighantu/glossary/compounds-o-q/#pterocarpol) A and B
+- [Pterocarpol](/glossary/compounds-o-q/#pterocarpol) A and B
 - p-Hydroxybenzaldehyde
 - 5-Deoxykaempferol
 
 ## How does it work?
 
 - Antidiabetic activity via (-)-epicatechin-mediated regeneration of pancreatic beta cells and enhancement of insulin secretion
-- PTP1B inhibition by [pterostilbene](/nighantu/glossary/compounds-o-q/#pterostilbene) improving insulin signaling and [glucose](/nighantu/glossary/compounds-d-g/#glucose) uptake in peripheral tissues
+- PTP1B inhibition by [pterostilbene](/glossary/compounds-o-q/#pterostilbene) improving insulin signaling and [glucose](/glossary/compounds-d-g/#glucose) uptake in peripheral tissues
 - COX-2 selective inhibition by marsupsin and pterocarpol providing anti-inflammatory action without significant GI toxicity
-- [Cardioprotective](/nighantu/reference/cardioprotective/) effects via [pterostilbene](/nighantu/glossary/compounds-o-q/#pterostilbene)-mediated [antioxidant](/nighantu/reference/antioxidant/) protection, lipid lowering and endothelial function improvement
+- [Cardioprotective](/reference/cardioprotective/) effects via [pterostilbene](/glossary/compounds-o-q/#pterostilbene)-mediated [antioxidant](/reference/antioxidant/) protection, lipid lowering and endothelial function improvement
 
 ## Which traditional uses are supported by research?
 
 - Antidiabetic (Prameha) use validated through multiple preclinical studies and preliminary clinical trial confirming significant blood glucose reduction
 - Beta-cell regeneration by (-)-epicatechin validated in vitro and in STZ-induced diabetic models
 - Anti-inflammatory use confirmed through COX-2 selective inhibition studies
-- Wound healing and anti-hemorrhagic use (kino gum) validated through astringent and [antimicrobial](/nighantu/reference/antimicrobial/) property studies
+- Wound healing and anti-hemorrhagic use (kino gum) validated through astringent and [antimicrobial](/reference/antimicrobial/) property studies
 
 ## What do recent clinical trials show?
 
 - Irfan Dar M, Qureshi MI, Zahiruddin S and others 2022. [In Silico Analysis of PTP1B Inhibitors and TLC-MS Bioautography-Based Identification of Free Radical Scavenging and α-Amylase Inhibitory Compounds from Heartwood Extract of Pterocarpus marsupium](https://pubmed.ncbi.nlm.nih.gov/36570189/). *ACS omega*. PMID [36570189](https://pubmed.ncbi.nlm.nih.gov/36570189/) · [doi:10.1021/acsomega.2c04283](https://doi.org/10.1021/acsomega.2c04283)  
-  Identified [pterostilbene](/nighantu/glossary/compounds-o-q/#pterostilbene) and epicatechin as specific PTP1B inhibitors and alpha-amylase inhibitors through bioautography-guided isolation and molecular docking.
+  Identified [pterostilbene](/glossary/compounds-o-q/#pterostilbene) and epicatechin as specific PTP1B inhibitors and alpha-amylase inhibitors through bioautography-guided isolation and molecular docking.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
-- Heartwood water ([Vijaysar](/nighantu/herb/vijaysar/) tumbler water) is traditionally consumed daily for diabetes management and is considered safe; clinical safety established through widespread traditional use
+- Heartwood water ([Vijaysar](/herb/vijaysar/) tumbler water) is traditionally consumed daily for diabetes management and is considered safe; clinical safety established through widespread traditional use
 - Standardized extracts should be used under guidance for diabetic patients on concurrent hypoglycemic medications to avoid additive hypoglycemia risk. Kino gum is astringent and should be used cautiously in constipated patients.
 
 ## What is it made of?
@@ -90,9 +90,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Asana/meta-analysis.md"
 
 **Standard Dosage:** 3-6g heartwood powder twice daily; 50-100ml decoction twice daily; 500mg-1g extract capsule
 
-**Bioavailability:** Moderate oral bioavailability. Pterocarpus marsupium heartwood contains [pterostilbene](/nighantu/glossary/compounds-o-q/#pterostilbene) (dimethylated [resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol) analog) with significantly better bioavailability (~80%) compared to resveratrol (~20%). Epicatechin from heartwood has ~20% oral bioavailability. Marsupin and pterostilbene are well absorbed from GI tract. The traditional water-vessel preparation (Asana wood tumbler soaked with water overnight) represents a slow cold-extraction method.
+**Bioavailability:** Moderate oral bioavailability. Pterocarpus marsupium heartwood contains [pterostilbene](/glossary/compounds-o-q/#pterostilbene) (dimethylated [resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol) analog) with significantly better bioavailability (~80%) compared to resveratrol (~20%). Epicatechin from heartwood has ~20% oral bioavailability. Marsupin and pterostilbene are well absorbed from GI tract. The traditional water-vessel preparation (Asana wood tumbler soaked with water overnight) represents a slow cold-extraction method.
 
-**Optimal Timing:** Water soaked in [Vijaysar](/nighantu/herb/vijaysar/) tumbler overnight, consumed early morning empty stomach for diabetes. Powder/capsules before meals for glycemic control.
+**Optimal Timing:** Water soaked in [Vijaysar](/herb/vijaysar/) tumbler overnight, consumed early morning empty stomach for diabetes. Powder/capsules before meals for glycemic control.
 
 **Standardized Extract:** Heartwood extract (10:1) standardized to minimum 5% pterostilbene. Total polyphenol content minimum 20%. Epicatechin content minimum 3%. Marsupsin content minimum 1%.
 
@@ -113,7 +113,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Asana/meta-analysis.md"
 ### Synergistic Combinations
 
 - With Meshashringi (Gymnema) for diabetes management
-- With [Haridra](/nighantu/herb/haridra/) for anti-diabetic and anti-inflammatory synergy
+- With [Haridra](/herb/haridra/) for anti-diabetic and anti-inflammatory synergy
 - With Amalaki for antioxidant and glycemic control
 - With Vijaysar (synonym) water for pre-diabetic management
 - Part of Asanadi Kwatha for Prameha (diabetes)

@@ -30,13 +30,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Parijata/meta-analysis.m
 
 - Nyctanthin (iridoid glycoside)
 - Arbortristoside-A, B, C
-- D-[mannitol](/nighantu/glossary/compounds-l-o/#mannitolmannitol)
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
-- [Friedelin](/nighantu/glossary/compounds-d-g/#friedelin)
-- [Lupeol](/nighantu/reference/lupeol/)
+- D-[mannitol](/glossary/compounds-l-o/#mannitolmannitol)
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
+- [Friedelin](/glossary/compounds-d-g/#friedelin)
+- [Lupeol](/reference/lupeol/)
 - Oleanic acid
 - Tannic acid
-- [Carotenoids](/nighantu/glossary/compounds-a-c/#carotenoids) ([crocin](/nighantu/glossary/compounds-c-d/#crocin)-related)
+- [Carotenoids](/glossary/compounds-a-c/#carotenoids) ([crocin](/glossary/compounds-c-d/#crocin)-related)
 - Benzoic acid
 - Nyctanthic acid
 - Essential oils (methyl salicylate)
@@ -45,12 +45,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Parijata/meta-analysis.m
 
 - Antimalarial activity via arbortristosides disrupting plasmodium schizont maturation and erythrocytic stages
 - Anti-inflammatory action through inhibition of COX-2 and LOX pathways and suppression of TNF-alpha and IL-1beta
-- [Immunomodulatory](/nighantu/reference/immunomodulatory/) effects via stimulation of T-cell proliferation, NK cell activity and macrophage activation
-- [Hepatoprotective](/nighantu/reference/hepatoprotective/) mechanism through restoration of [antioxidant](/nighantu/reference/antioxidant/) enzyme levels and reduction of lipid peroxidation (MDA)
+- [Immunomodulatory](/reference/immunomodulatory/) effects via stimulation of T-cell proliferation, NK cell activity and macrophage activation
+- [Hepatoprotective](/reference/hepatoprotective/) mechanism through restoration of [antioxidant](/reference/antioxidant/) enzyme levels and reduction of lipid peroxidation (MDA)
 
 ## Which traditional uses are supported by research?
 
-- [Antipyretic](/nighantu/reference/antipyretic/) and antimalarial use for fevers validated through Plasmodium berghei-infected mouse models and clinical observations
+- [Antipyretic](/reference/antipyretic/) and antimalarial use for fevers validated through Plasmodium berghei-infected mouse models and clinical observations
 - Anti-arthritic use confirmed through adjuvant-induced arthritis models with significant reduction in paw edema and joint inflammation
 - Anthelmintic activity validated against Ascaridia galli and Pheretima posthuma in vitro
 - Hepatoprotective effects confirmed against paracetamol-induced liver damage in rodent models
@@ -58,7 +58,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Parijata/meta-analysis.m
 ## What do recent clinical trials show?
 
 - Aggarwal A, Mehta DK, Bhardwaj A and others 2026. [Nyctanthes arbor-tristis: A Multifaceted Medicinal Plant in Traditional and Contemporary Medicine](https://pubmed.ncbi.nlm.nih.gov/41213599/). *Planta medica*. PMID [41213599](https://pubmed.ncbi.nlm.nih.gov/41213599/) · [doi:10.1055/a-2706-7358](https://doi.org/10.1055/a-2706-7358)  
-  Comprehensive review confirmed [neuroprotective](/nighantu/reference/neuroprotective/), immunomodulatory, and hepatoprotective potential of arbortristosides and nyctanthin through modulation of oxidative stress and inflammatory cascades.
+  Comprehensive review confirmed [neuroprotective](/reference/neuroprotective/), immunomodulatory, and hepatoprotective potential of arbortristosides and nyctanthin through modulation of oxidative stress and inflammatory cascades.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
@@ -83,7 +83,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Parijata/meta-analysis.m
 
 **Storage:** Dried leaves: airtight containers, below 25 deg C, RH <55%, protected from light. Extracts: amber containers, below 25 deg C. Fresh juice: 2-8 deg C. Taila: room temperature, amber glass.
 
-**Marker Compounds:** Arbortristoside-A, Arbortristoside-C, Nyctanthic acid, Nyctanthin, Iridoid glycosides, D-[mannitol](/nighantu/glossary/compounds-l-o/#mannitolmannitol), Tannic acid, Beta-sitosterol, Oleanolic acid
+**Marker Compounds:** Arbortristoside-A, Arbortristoside-C, Nyctanthic acid, Nyctanthin, Iridoid glycosides, D-[mannitol](/glossary/compounds-l-o/#mannitolmannitol), Tannic acid, Beta-sitosterol, Oleanolic acid
 
 ### Extraction Methods
 
@@ -96,8 +96,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Parijata/meta-analysis.m
 
 ### Synergistic Combinations
 
-- [Guduchi](/nighantu/herb/guduchi/) (anti-pyretic and immune modulation synergy)
-- [Tulsi](/nighantu/herb/tulsi/) (antimicrobial and febrifuge combination)
-- [Chirayata](/nighantu/herb/chirayata/) (anti-malarial and bitter tonic)
-- [Pippali](/nighantu/herb/pippali/) (bioenhancer for improved absorption)
-- [Haridra](/nighantu/herb/haridra/) (anti-inflammatory and hepatoprotective)
+- [Guduchi](/herb/guduchi/) (anti-pyretic and immune modulation synergy)
+- [Tulsi](/herb/tulsi/) (antimicrobial and febrifuge combination)
+- [Chirayata](/herb/chirayata/) (anti-malarial and bitter tonic)
+- [Pippali](/herb/pippali/) (bioenhancer for improved absorption)
+- [Haridra](/herb/haridra/) (anti-inflammatory and hepatoprotective)

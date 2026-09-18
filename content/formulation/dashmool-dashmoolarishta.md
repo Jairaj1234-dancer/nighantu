@@ -23,25 +23,25 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Dashmoo
 
 | Language | Name |
 |----------|------|
-| English | [Dashmool Dashmoolarishta](/nighantu/formulation/dashmool-dashmoolarishta/) |
+| English | [Dashmool Dashmoolarishta](/formulation/dashmool-dashmoolarishta/) |
 
 ## Key Ingredients
 
-- Brihat Panchamoola (Five major roots): [Bilva](/nighantu/herb/bilva/) (Aegle marmelos), [Shyonaka](/nighantu/herb/shyonaka/) (Oroxylum indicum), [Gambhari](/nighantu/herb/gambhari/) (Gmelina arborea), [Patala](/nighantu/herb/patala/) (Stereospermum suaveolens), [Agnimantha](/nighantu/herb/agnimantha/) (Premna mucronata)
-- Laghu Panchamoola (Five minor roots): Shalaparni (Desmodium gangeticum), [Prishniparni](/nighantu/herb/prishniparni/) (Uraria picta), [Brihati](/nighantu/herb/brihati/) (Solanum indicum), [Kantakari](/nighantu/herb/kantakari/) (Solanum surattense), [Gokshura](/nighantu/herb/gokshura/) (Tribulus terrestris)
-- Additional arishta ingredients: Chitraka, [Lodhra](/nighantu/herb/lodhra/), Pushkarmoola, [Giloy](/nighantu/herb/guduchi/), [Dhataki](/nighantu/herb/dhataki/) (fermenting agent), Jaggery
+- Brihat Panchamoola (Five major roots): [Bilva](/herb/bilva/) (Aegle marmelos), [Shyonaka](/herb/shyonaka/) (Oroxylum indicum), [Gambhari](/herb/gambhari/) (Gmelina arborea), [Patala](/herb/patala/) (Stereospermum suaveolens), [Agnimantha](/herb/agnimantha/) (Premna mucronata)
+- Laghu Panchamoola (Five minor roots): Shalaparni (Desmodium gangeticum), [Prishniparni](/herb/prishniparni/) (Uraria picta), [Brihati](/herb/brihati/) (Solanum indicum), [Kantakari](/herb/kantakari/) (Solanum surattense), [Gokshura](/herb/gokshura/) (Tribulus terrestris)
+- Additional arishta ingredients: Chitraka, [Lodhra](/herb/lodhra/), Pushkarmoola, [Giloy](/herb/guduchi/), [Dhataki](/herb/dhataki/) (fermenting agent), Jaggery
 
 ## Where is it described in the classical texts?
 
-Charaka Samhita (Sutra Sthana, Shadvirechanashatashritiya Adhyaya) - [Dashamoola](/nighantu/herb/dashamoola/) is one of the Mahakashaya groups. Arishta preparation described in Sharangdhara Samhita (Madhyama Khanda) and Bhaishajya Ratnavali. The concept of ten roots is one of the oldest in Ayurveda, predating most individual formulations.
+Charaka Samhita (Sutra Sthana, Shadvirechanashatashritiya Adhyaya) - [Dashamoola](/herb/dashamoola/) is one of the Mahakashaya groups. Arishta preparation described in Sharangdhara Samhita (Madhyama Khanda) and Bhaishajya Ratnavali. The concept of ten roots is one of the oldest in Ayurveda, predating most individual formulations.
 
 ## How does it work?
 
-- Anti-inflammatory action: Phytochemical [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids), [flavonoids](/nighantu/reference/flavonoids/), [saponins](/nighantu/reference/saponins/), and [tannins](/nighantu/reference/tannins/) from the ten roots collectively inhibit inflammatory mediators (COX, LOX pathways).
-- [Analgesic](/nighantu/reference/analgesic/) effect: Central and peripheral pain modulation through prostaglandin synthesis inhibition.
+- Anti-inflammatory action: Phytochemical [alkaloids](/glossary/compounds-1-a/#alkaloids), [flavonoids](/reference/flavonoids/), [saponins](/reference/saponins/), and [tannins](/reference/tannins/) from the ten roots collectively inhibit inflammatory mediators (COX, LOX pathways).
+- [Analgesic](/reference/analgesic/) effect: Central and peripheral pain modulation through prostaglandin synthesis inhibition.
 - Anti-platelet activity: Prevents excessive platelet aggregation, potentially beneficial in inflammatory joint conditions.
 - Vata-pacifying action: In Ayurvedic pharmacology, the ten roots specifically balance Vata dosha, addressing neurological, musculoskeletal, and reproductive disorders.
-- Enhanced bioavailability: Self-generated alcohol (5-7%) from [Dhataki](/nighantu/herb/dhataki/)-mediated fermentation acts as a natural solvent, improving extraction and absorption of lipophilic bioactives.
+- Enhanced bioavailability: Self-generated alcohol (5-7%) from [Dhataki](/herb/dhataki/)-mediated fermentation acts as a natural solvent, improving extraction and absorption of lipophilic bioactives.
 
 ## Which traditional uses are supported by research?
 
@@ -53,7 +53,7 @@ Charaka Samhita (Sutra Sthana, Shadvirechanashatashritiya Adhyaya) - [Dashamoola
 ## What do recent clinical trials show?
 
 - Parekar RR, Bolegave SS, Marathe PA and others 2015. [Experimental evaluation of analgesic, anti-inflammatory and anti-platelet potential of Dashamoola](https://pubmed.ncbi.nlm.nih.gov/25878458/). *Journal of Ayurveda and integrative medicine*. PMID [25878458](https://pubmed.ncbi.nlm.nih.gov/25878458/) · [doi:10.4103/0975-9476.146565](https://doi.org/10.4103/0975-9476.146565)  
-  [Dashamoola](/nighantu/herb/dashamoola/) in arishta and kwath forms demonstrated significant analgesic, anti-inflammatory, and anti-platelet effects, validating traditional use in pain and arthritis management.
+  [Dashamoola](/herb/dashamoola/) in arishta and kwath forms demonstrated significant analgesic, anti-inflammatory, and anti-platelet effects, validating traditional use in pain and arthritis management.
 - Shetty YC, Godbharle S, Brahma S and others 2017. [Evaluation of oral multi-herbal preparation of Dashmoolarishta on mice model of osteoarthritis](https://pubmed.ncbi.nlm.nih.gov/29040066/). *Journal of basic and clinical physiology and pharmacology*. PMID [29040066](https://pubmed.ncbi.nlm.nih.gov/29040066/) · [doi:10.1515/jbcpp-2016-0141](https://doi.org/10.1515/jbcpp-2016-0141)  
   Significant improvement in pain parameters and pathological markers in MIA-induced osteoarthritis mouse model, with reduction in inflammatory mediators and cartilage preservation.
 
@@ -88,7 +88,7 @@ Charaka Samhita (Sutra Sthana, Shadvirechanashatashritiya Adhyaya) - [Dashamoola
 
 **Storage:** Arishta: well-closed amber containers at room temperature. Kwath Churna: airtight containers in cool, dry place. Temperature not exceeding 30°C.
 
-**Marker Compounds:** [Lupeol](/nighantu/reference/lupeol/), [Marmelosin](/nighantu/glossary/compounds-l-o/#marmelosin), Ursolic acid, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Solasodine](/nighantu/glossary/compounds-q-t/#solasodine), Pectolinarigenin
+**Marker Compounds:** [Lupeol](/reference/lupeol/), [Marmelosin](/glossary/compounds-l-o/#marmelosin), Ursolic acid, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Solasodine](/glossary/compounds-q-t/#solasodine), Pectolinarigenin
 
 **Quality Parameters:** For Arishta: pH, specific gravity, alcohol content, total solids. For Kwath Churna: loss on drying, total ash, extractive values, HPTLC for all ten root markers, microbial limits, heavy metals
 
@@ -96,7 +96,7 @@ Charaka Samhita (Sutra Sthana, Shadvirechanashatashritiya Adhyaya) - [Dashamoola
 
 ### Synergistic Combinations
 
-- [Balarishta](/nighantu/formulation/balarishta/)
-- [Ashwagandharishta](/nighantu/formulation/ashwagandharishta/)
-- [Rasnadi Kwath](/nighantu/glossary/concepts-m-y/#rasnadi-kwath)
+- [Balarishta](/formulation/balarishta/)
+- [Ashwagandharishta](/formulation/ashwagandharishta/)
+- [Rasnadi Kwath](/glossary/concepts-m-y/#rasnadi-kwath)
 - Maharasnadi Kwath

@@ -30,23 +30,23 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shati/meta-analysis.md"
 
 - Hedychenone (furanoid diterpene)
 - 7-Hydroxyhedychenone
-- Essential oil (4%): 1,8-[cineole](/nighantu/glossary/compounds-c-d/#cineole), [camphene](/nighantu/glossary/compounds-a-c/#camphene), beta-phellandrene, alpha-pinene
-- Gamma-terpinene, [limonene](/nighantu/glossary/compounds-g-l/#limonene), [myrcene](/nighantu/glossary/compounds-l-o/#myrcene), [sabinene](/nighantu/glossary/compounds-q-t/#sabinene)
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol) and its glucoside
-- [Linalool](/nighantu/glossary/compounds-l-o/#linalool) and beta-terpineol
+- Essential oil (4%): 1,8-[cineole](/glossary/compounds-c-d/#cineole), [camphene](/glossary/compounds-a-c/#camphene), beta-phellandrene, alpha-pinene
+- Gamma-terpinene, [limonene](/glossary/compounds-g-l/#limonene), [myrcene](/glossary/compounds-l-o/#myrcene), [sabinene](/glossary/compounds-q-t/#sabinene)
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol) and its glucoside
+- [Linalool](/glossary/compounds-l-o/#linalool) and beta-terpineol
 
 ## How does it work?
 
-- Anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) activity through terpenoid-mediated inhibition of prostaglandin synthesis and COX pathways
-- Anti-asthmatic effect via antihistaminic action and bronchodilation through 1,8-cineole and other [monoterpenes](/nighantu/glossary/compounds-l-o/#monoterpenes)
+- Anti-inflammatory and [analgesic](/reference/analgesic/) activity through terpenoid-mediated inhibition of prostaglandin synthesis and COX pathways
+- Anti-asthmatic effect via antihistaminic action and bronchodilation through 1,8-cineole and other [monoterpenes](/glossary/compounds-l-o/#monoterpenes)
 - CNS-depressant and tranquilizing activity through modulation of GABAergic neurotransmission
-- [Hepatoprotective](/nighantu/reference/hepatoprotective/) mechanism via [antioxidant](/nighantu/reference/antioxidant/) restoration and reduction of lipid peroxidation by hedychenone
+- [Hepatoprotective](/reference/hepatoprotective/) mechanism via [antioxidant](/reference/antioxidant/) restoration and reduction of lipid peroxidation by hedychenone
 
 ## Which traditional uses are supported by research?
 
-- Cough and respiratory disorders (Kasa-hara, Shvasa-hara) - validated through confirmed antihistaminic, bronchodilatory, and [expectorant](/nighantu/reference/expectorant/) properties
-- Fever reduction (Jvarahara) - confirmed [antipyretic](/nighantu/reference/antipyretic/) activity through anti-inflammatory mechanisms
-- Anti-emetic and nausea relief (Chhardi-nigrahana) - traditional digestive use supported by carminative and [antiemetic](/nighantu/glossary/pharmacology/#antiemetic) studies
+- Cough and respiratory disorders (Kasa-hara, Shvasa-hara) - validated through confirmed antihistaminic, bronchodilatory, and [expectorant](/reference/expectorant/) properties
+- Fever reduction (Jvarahara) - confirmed [antipyretic](/reference/antipyretic/) activity through anti-inflammatory mechanisms
+- Anti-emetic and nausea relief (Chhardi-nigrahana) - traditional digestive use supported by carminative and [antiemetic](/glossary/pharmacology/#antiemetic) studies
 - Anti-inflammatory (Shotha-hara) - validated through in vivo carrageenan-induced paw edema models
 
 ## What do recent clinical trials show?
@@ -58,7 +58,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shati/meta-analysis.md"
 ## Recent safety updates
 
 - Generally safe at recommended Ayurvedic doses; essential oil may cause skin sensitization in topical applications at high concentrations
-- Limited chronic toxicity data available; not recommended during pregnancy due to potential uterine effects of [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids)
+- Limited chronic toxicity data available; not recommended during pregnancy due to potential uterine effects of [terpenoids](/glossary/compounds-t-z/#terpenoids)
 
 ## What is it made of?
 
@@ -81,7 +81,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shati/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g rhizome powder per day; 50-100 mL kwatha twice daily; 5-10 g avaleha with honey twice daily; 500 mg capsule twice daily
 
-**Bioavailability:** Sesquiterpene lactones and essential oil constituents show moderate to good oral bioavailability (30-50%). Volatile compounds ([camphor](/nighantu/herb/camphor/), [borneol](/nighantu/glossary/compounds-a-c/#borneol)) are rapidly absorbed through both oral and inhalation routes. Cucurbitacin content (if present) has dose-dependent toxicity — bioavailability monitoring important.
+**Bioavailability:** Sesquiterpene lactones and essential oil constituents show moderate to good oral bioavailability (30-50%). Volatile compounds ([camphor](/herb/camphor/), [borneol](/glossary/compounds-a-c/#borneol)) are rapidly absorbed through both oral and inhalation routes. Cucurbitacin content (if present) has dose-dependent toxicity — bioavailability monitoring important.
 
 **Optimal Timing:** After meals for respiratory indications; avaleha with honey for cough (Kasa) management; inhalation as needed
 
@@ -103,8 +103,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shati/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Pippali](/nighantu/herb/pippali/) (Kasa-Shvasa formulations — respiratory disorders)
-- [Vasa](/nighantu/herb/vasa/) ([bronchodilator](/nighantu/reference/bronchodilator/) and expectorant synergy)
-- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (mucosal protective-expectorant combination)
-- [Pushkarmool](/nighantu/herb/pushkarmool/) (comprehensive respiratory formulation)
-- [Tulsi](/nighantu/herb/tulsi/) (antimicrobial-respiratory synergy)
+- [Pippali](/herb/pippali/) (Kasa-Shvasa formulations — respiratory disorders)
+- [Vasa](/herb/vasa/) ([bronchodilator](/reference/bronchodilator/) and expectorant synergy)
+- [Yashtimadhu](/herb/yashtimadhu/) (mucosal protective-expectorant combination)
+- [Pushkarmool](/herb/pushkarmool/) (comprehensive respiratory formulation)
+- [Tulsi](/herb/tulsi/) (antimicrobial-respiratory synergy)

@@ -70,5 +70,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agnijara/meta-analysis.md"
 ### Synergistic Combinations
 
 - With Praval Pishti for calcium supplementation
-- With [Giloy](/nighantu/herb/guduchi/) Satva for immune modulation
-- With [Mukta Pishti](/nighantu/herb/mukta-pishti/) for Pitta pacification
+- With [Giloy](/herb/guduchi/) Satva for immune modulation
+- With [Mukta Pishti](/herb/mukta-pishti/) for Pitta pacification

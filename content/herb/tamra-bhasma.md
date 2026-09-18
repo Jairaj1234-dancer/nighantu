@@ -23,20 +23,20 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Tamra-Bhasma/meta-an
 
 | Language | Name |
 |----------|------|
-| English | [Tamra Bhasma](/nighantu/herb/tamra-bhasma/) |
+| English | [Tamra Bhasma](/herb/tamra-bhasma/) |
 
 ## Key Phytochemical Constituents
 
 - Copper oxide (CuO) nanoparticles
-- Copper sulfide from [Gandhaka](/nighantu/glossary/concepts-a-m/#gandhaka) processing
+- Copper sulfide from [Gandhaka](/glossary/concepts-a-m/#gandhaka) processing
 - Trace iron and zinc from processing
-- [Silica](/nighantu/glossary/compounds-q-t/#silica) and organic residues from herbal media
+- [Silica](/glossary/compounds-q-t/#silica) and organic residues from herbal media
 - Sulfur compounds
 
 ## How does it work?
 
-- [Hepatoprotective](/nighantu/reference/hepatoprotective/) action at therapeutic doses through [antioxidant](/nighantu/reference/antioxidant/) enzyme modulation and free radical scavenging, protecting liver cells from oxidative damage
-- [Antimicrobial](/nighantu/reference/antimicrobial/) activity via copper ion release disrupting microbial cell membrane integrity and enzyme function, effective against both gram-positive and gram-negative bacteria
+- [Hepatoprotective](/reference/hepatoprotective/) action at therapeutic doses through [antioxidant](/reference/antioxidant/) enzyme modulation and free radical scavenging, protecting liver cells from oxidative damage
+- [Antimicrobial](/reference/antimicrobial/) activity via copper ion release disrupting microbial cell membrane integrity and enzyme function, effective against both gram-positive and gram-negative bacteria
 - Digestive fire (Agni) enhancement through stimulation of digestive enzyme secretion and improvement of metabolic processes in the GI tract
 - Anti-inflammatory effect through copper-mediated modulation of inflammatory cytokines and suppression of oxidative stress pathways
 
@@ -49,9 +49,9 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Tamra-Bhasma/meta-an
 ## What do recent clinical trials show?
 
 - Chaudhari SY, Nariya MB, Galib R and others 2016. [Acute and subchronic toxicity study of Tamra Bhasma (incinerated copper) prepared with and without Amritikarana](https://pubmed.ncbi.nlm.nih.gov/27297506/). *Journal of Ayurveda and integrative medicine*. PMID [27297506](https://pubmed.ncbi.nlm.nih.gov/27297506/) · [doi:10.1016/j.jaim.2015.11.001](https://doi.org/10.1016/j.jaim.2015.11.001)  
-  [Tamra Bhasma](/nighantu/herb/tamra-bhasma/) with Amritikarana showed improved safety profile. Without Amritikarana, higher doses showed hepatotoxic and nephrotoxic potential. The additional purification step significantly reduces residual toxicity.
+  [Tamra Bhasma](/herb/tamra-bhasma/) with Amritikarana showed improved safety profile. Without Amritikarana, higher doses showed hepatotoxic and nephrotoxic potential. The additional purification step significantly reduces residual toxicity.
 - Jagtap CY, Ashok BK, Patgiri BJ and others 2013. [Acute and Subchronic Toxicity Study of Tamra Bhasma (Incinerated Copper) prepared from Ashodhita (Unpurified) and Shodhita (Purified) Tamra in Rats](https://pubmed.ncbi.nlm.nih.gov/24082351/). *Indian journal of pharmaceutical sciences*. PMID [24082351](https://pubmed.ncbi.nlm.nih.gov/24082351/) · [doi:10.4103/0250-474X.117433](https://doi.org/10.4103/0250-474X.117433)  
-  CRITICAL: [Tamra Bhasma](/nighantu/herb/tamra-bhasma/) prepared from unpurified copper is toxic even at therapeutic equivalent dose. Properly purified copper Bhasma is safe at up to 5x therapeutic dose. At 10x dose, even purified form causes hepatotoxicity, nephrotoxicity, and gastric mucosal damage.
+  CRITICAL: [Tamra Bhasma](/herb/tamra-bhasma/) prepared from unpurified copper is toxic even at therapeutic equivalent dose. Properly purified copper Bhasma is safe at up to 5x therapeutic dose. At 10x dose, even purified form causes hepatotoxicity, nephrotoxicity, and gastric mucosal damage.
 - Chaudhari SY, Ruknuddin G, Biswajyoti JP and others 2014. [Effect of tamra bhasma (calcined copper) on ponderal and biochemical parameters](https://pubmed.ncbi.nlm.nih.gov/25253924/). *Toxicology international*. PMID [25253924](https://pubmed.ncbi.nlm.nih.gov/25253924/) · [doi:10.4103/0971-6580.139796](https://doi.org/10.4103/0971-6580.139796)  
   At therapeutic doses, Tamra Bhasma showed no significant adverse effects on body weight, organ weight, or biochemical parameters in experimental animals.
 
@@ -96,4 +96,4 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Tamra-Bhasma/meta-an
 
 **Quality Parameters:** Copper content >60%, free copper <1 ppm (critical), standard bhasma tests, Nischandratva
 
-**Vehicle (Anupana):** Honey, [Triphala](/nighantu/herb/triphala/) Kwatha, or as part of specific formulations
+**Vehicle (Anupana):** Honey, [Triphala](/herb/triphala/) Kwatha, or as part of specific formulations

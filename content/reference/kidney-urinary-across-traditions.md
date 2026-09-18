@@ -28,33 +28,33 @@ srcRel: "_Hub/Cross-Tradition/Kidney--Urinary-Across-Traditions.md"
 
 ## Ayurveda Approach
 
-- [Kushmanda](/nighantu/herb/kushmanda/) *Benincasa hispida (Thunb.) Cogn.*
+- [Kushmanda](/herb/kushmanda/) *Benincasa hispida (Thunb.) Cogn.*
   Actions: Antioxidant, Nootropic, Medhya (Nootropic)
-- [Akhuparni](/nighantu/herb/akhuparni/) *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
+- [Akhuparni](/herb/akhuparni/) *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
   Actions: Antioxidant, Anticancer, Nootropic
-- [Narikela](/nighantu/herb/narikela/) *Cocos nucifera L.*
+- [Narikela](/herb/narikela/) *Cocos nucifera L.*
   Actions: Antioxidant, Hepatoprotective, Wound Healing
-- [Bhadra](/nighantu/herb/bhadra/) *Aerva lanata (L.) Juss. ex Schult.*
+- [Bhadra](/herb/bhadra/) *Aerva lanata (L.) Juss. ex Schult.*
   Actions: Antioxidant, Hepatoprotective, Bronchodilator
-- [Kshavaka](/nighantu/herb/kshavaka/) *Amaranthus spinosus L.*
+- [Kshavaka](/herb/kshavaka/) *Amaranthus spinosus L.*
   Actions: Antioxidant, Hepatoprotective, Wound Healing
-- [Kulattha](/nighantu/herb/kulattha/) *Macrotyloma uniflorum (Lam.) Verdc. (syn. Dolichos biflorus L.)*
+- [Kulattha](/herb/kulattha/) *Macrotyloma uniflorum (Lam.) Verdc. (syn. Dolichos biflorus L.)*
   Actions: Antioxidant, Bronchodilator, Antidiabetic
-- [Tamalaki](/nighantu/herb/tamalaki/) *Phyllanthus niruri L. / Phyllanthus amarus Schum. & Thonn.*
+- [Tamalaki](/herb/tamalaki/) *Phyllanthus niruri L. / Phyllanthus amarus Schum. & Thonn.*
   Actions: Antioxidant, Anticancer, Antidiabetic
-- [Ushira](/nighantu/herb/ushira/) *Vetiveria zizanioides (L.) Nash (syn. Chrysopogon zizanioides (L.) Roberty)*
+- [Ushira](/herb/ushira/) *Vetiveria zizanioides (L.) Nash (syn. Chrysopogon zizanioides (L.) Roberty)*
   Actions: Antioxidant, Wound Healing, Nootropic
-- [Varshabhu](/nighantu/herb/varshabhu/) *Trianthema portulacastrum L. (primary identity); also associated with Boerhavia erecta L.*
+- [Varshabhu](/herb/varshabhu/) *Trianthema portulacastrum L. (primary identity); also associated with Boerhavia erecta L.*
   Actions: Antioxidant, Anticancer, Antidiabetic
-- [Gomutra](/nighantu/herb/gomutra/)
+- [Gomutra](/herb/gomutra/)
   Actions: Antioxidant, Anticancer, Hepatoprotective
-- [Hingu](/nighantu/herb/hingu/) *Ferula asafoetida*
+- [Hingu](/herb/hingu/) *Ferula asafoetida*
   Actions: Antioxidant, Bronchodilator, Antimicrobial
-- [Kankola](/nighantu/herb/kankola/) *Piper cubeba L.f.*
+- [Kankola](/herb/kankola/) *Piper cubeba L.f.*
   Actions: Antioxidant, Anticancer, Antidiabetic
-- [Kantakari](/nighantu/herb/kantakari/) *Solanum xanthocarpum Schrad. & Wendl. (syn. S. surattense Burm. f., S. virginianum L.)*
+- [Kantakari](/herb/kantakari/) *Solanum xanthocarpum Schrad. & Wendl. (syn. S. surattense Burm. f., S. virginianum L.)*
   Actions: Antioxidant, Bronchodilator, Anti-inflammatory
-- [Saptala](/nighantu/herb/saptala/) *Euphorbia dracunculoides Lam.*
+- [Saptala](/herb/saptala/) *Euphorbia dracunculoides Lam.*
   Actions: Antioxidant, Anticancer, Laxative
-- [Brihatyadi Kashayam](/nighantu/formulation/brihatyadi-kashayam/)
+- [Brihatyadi Kashayam](/formulation/brihatyadi-kashayam/)
   Actions: Antioxidant, Expectorant, Anti-inflammatory

@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Narayana-Th
 
 | Language | Name |
 |----------|------|
-| English | [Narayana Thailam](/nighantu/formulation/narayana-thailam/) |
+| English | [Narayana Thailam](/formulation/narayana-thailam/) |
 
 ## Where is it described in the classical texts?
 
@@ -31,10 +31,10 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa, verses 140-150) by Govind Das Sen. Th
 
 ## How does it work?
 
-- [Sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) lipid medium serves as a superior transdermal delivery vehicle for lipophilic [saponins](/nighantu/reference/saponins/), [lignans](/nighantu/glossary/compounds-g-l/#lignans), and phenolics, achieving therapeutic tissue concentrations at musculoskeletal sites
-- [Dashamoola](/nighantu/herb/dashamoola/)'s combined action of 10 root extracts provides broad-spectrum anti-inflammatory activity through simultaneous inhibition of multiple inflammatory pathways (COX, LOX, NF-kB)
-- [Tagara](/nighantu/herb/tagara/)'s [valepotriates](/nighantu/glossary/compounds-t-z/#valepotriates) and [Jatamansi](/nighantu/herb/jatamansi/)'s nardostachin provide dual nervine sedative and [antispasmodic](/nighantu/glossary/pharmacology/#antispasmodic) action, addressing both the pain and spasm components of Vata disorders
-- [Ashwagandha](/nighantu/herb/ashwagandha/)'s [withanolides](/nighantu/glossary/compounds-t-z/#withanolides) and [Bala](/nighantu/herb/bala/)'s [ephedrine](/nighantu/glossary/compounds-d-g/#ephedrine) [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) synergistically strengthen neuromuscular tissue while providing [analgesic](/nighantu/reference/analgesic/) effects
+- [Sesame oil](/glossary/concepts-m-y/#tila-taila) lipid medium serves as a superior transdermal delivery vehicle for lipophilic [saponins](/reference/saponins/), [lignans](/glossary/compounds-g-l/#lignans), and phenolics, achieving therapeutic tissue concentrations at musculoskeletal sites
+- [Dashamoola](/herb/dashamoola/)'s combined action of 10 root extracts provides broad-spectrum anti-inflammatory activity through simultaneous inhibition of multiple inflammatory pathways (COX, LOX, NF-kB)
+- [Tagara](/herb/tagara/)'s [valepotriates](/glossary/compounds-t-z/#valepotriates) and [Jatamansi](/herb/jatamansi/)'s nardostachin provide dual nervine sedative and [antispasmodic](/glossary/pharmacology/#antispasmodic) action, addressing both the pain and spasm components of Vata disorders
+- [Ashwagandha](/herb/ashwagandha/)'s [withanolides](/glossary/compounds-t-z/#withanolides) and [Bala](/herb/bala/)'s [ephedrine](/glossary/compounds-d-g/#ephedrine) [alkaloids](/glossary/compounds-1-a/#alkaloids) synergistically strengthen neuromuscular tissue while providing [analgesic](/reference/analgesic/) effects
 
 ## Which traditional uses are supported by research?
 
@@ -64,11 +64,11 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa, verses 140-150) by Govind Das Sen. Th
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Thailam (medicated [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)), External application
+**Dosage Forms:** Thailam (medicated [sesame oil](/glossary/concepts-m-y/#tila-taila)), External application
 
 **Standard Dosage:** External massage and Basti: 30-60ml
 
-**Bioavailability:** Oil base ([sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
+**Bioavailability:** Oil base ([sesame oil](/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
 
 **Optimal Timing:** External: before bath or at bedtime. Internal: before meals
 
@@ -84,4 +84,4 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa, verses 140-150) by Govind Das Sen. Th
 
 ### Synergistic Combinations
 
-- Key herbs: [Shatavari](/nighantu/herb/shatavari/), [Ashwagandha](/nighantu/herb/ashwagandha/), [Dashamoola](/nighantu/herb/dashamoola/); oil base acts as lipid carrier for enhanced tissue penetration
+- Key herbs: [Shatavari](/herb/shatavari/), [Ashwagandha](/herb/ashwagandha/), [Dashamoola](/herb/dashamoola/); oil base acts as lipid carrier for enhanced tissue penetration

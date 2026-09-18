@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Sukumaram
 
 | Language | Name |
 |----------|------|
-| English | [Sukumaram Ghritam](/nighantu/formulation/sukumaram-ghritam/) |
+| English | [Sukumaram Ghritam](/formulation/sukumaram-ghritam/) |
 
 ## Where is it described in the classical texts?
 
@@ -32,10 +32,10 @@ Ashtanga Hridayam (Vidaryadi group of herbs); Sahasrayogam (Saptavarti preparati
 ## How does it work?
 
 - Vidaryadi herbs provide Vata-pacifying action, relieving spasmodic pain in uterus and promoting smooth muscle relaxation
-- [Ashwagandha](/nighantu/herb/ashwagandha/) ([withanolides](/nighantu/glossary/compounds-t-z/#withanolides)) modulates hypothalamic-pituitary-ovarian axis, supporting hormonal balance and fertility
-- [Bala](/nighantu/herb/bala/) and [Shatavari](/nighantu/herb/shatavari/) provide phytoestrogenic support, nourishing the female reproductive system
-- [Dashamoola](/nighantu/herb/dashamoola/)'s anti-inflammatory action reduces pelvic inflammation and congestion
-- Ghee medium enhances absorption of lipid-soluble phytoestrogens and [adaptogenic](/nighantu/reference/adaptogenic/) compounds
+- [Ashwagandha](/herb/ashwagandha/) ([withanolides](/glossary/compounds-t-z/#withanolides)) modulates hypothalamic-pituitary-ovarian axis, supporting hormonal balance and fertility
+- [Bala](/herb/bala/) and [Shatavari](/herb/shatavari/) provide phytoestrogenic support, nourishing the female reproductive system
+- [Dashamoola](/herb/dashamoola/)'s anti-inflammatory action reduces pelvic inflammation and congestion
+- Ghee medium enhances absorption of lipid-soluble phytoestrogens and [adaptogenic](/reference/adaptogenic/) compounds
 
 ## Which traditional uses are supported by research?
 
@@ -67,7 +67,7 @@ Ashtanga Hridayam (Vidaryadi group of herbs); Sahasrayogam (Saptavarti preparati
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Capsule (for convenience)
+**Dosage Forms:** [Ghrita](/herb/ghrita/) (medicated ghee), Capsule (for convenience)
 
 **Standard Dosage:** 12-24ml for gynecological and abdominal conditions
 
@@ -75,7 +75,7 @@ Ashtanga Hridayam (Vidaryadi group of herbs); Sahasrayogam (Saptavarti preparati
 
 **Optimal Timing:** Before meals on empty stomach for best absorption
 
-**Shelf Life:** 2 years (as per ASU guidelines for [ghrita](/nighantu/herb/ghrita/) preparations); improves with aging (Purana Ghrita concept)
+**Shelf Life:** 2 years (as per ASU guidelines for [ghrita](/herb/ghrita/) preparations); improves with aging (Purana Ghrita concept)
 
 **Storage:** Airtight glass/stainless steel container, cool dry place, protected from light and moisture
 
@@ -87,4 +87,4 @@ Ashtanga Hridayam (Vidaryadi group of herbs); Sahasrayogam (Saptavarti preparati
 
 ### Synergistic Combinations
 
-- Key herbs: Sukumara herbs: [Eranda](/nighantu/herb/eranda/), [Shatavari](/nighantu/herb/shatavari/), [Triphala](/nighantu/herb/triphala/) in ghee; ghee enhances tissue penetration (yogavahi property)
+- Key herbs: Sukumara herbs: [Eranda](/herb/eranda/), [Shatavari](/herb/shatavari/), [Triphala](/herb/triphala/) in ghee; ghee enhances tissue penetration (yogavahi property)

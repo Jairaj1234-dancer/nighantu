@@ -24,30 +24,30 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chakragaja/meta-analysis.md"
 | Language | Name |
 |----------|------|
 | English | Chakragaja |
-| Latin/Botanical | *Cassia tora L. ([Senna](/nighantu/herb/senna/) tora) / Uncertain identification* |
+| Latin/Botanical | *Cassia tora L. ([Senna](/herb/senna/) tora) / Uncertain identification* |
 
 ## Key Phytochemical Constituents
 
-- [Chrysophanol](/nighantu/glossary/compounds-c-d/#chrysophanol)
-- [Emodin](/nighantu/glossary/compounds-d-g/#emodin)
-- [Physcion](/nighantu/glossary/compounds-o-q/#physcion)
+- [Chrysophanol](/glossary/compounds-c-d/#chrysophanol)
+- [Emodin](/glossary/compounds-d-g/#emodin)
+- [Physcion](/glossary/compounds-o-q/#physcion)
 - Obtusin
 - Chryso-obtusin
 - Rubrofusarin
 - Toralactone
 - Aurantio-obtusin
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
-- [Campesterol](/nighantu/glossary/compounds-a-c/#campesterol)
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
+- [Campesterol](/glossary/compounds-a-c/#campesterol)
 
 ## How does it work?
 
-- Anthraquinone [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) (chrysophanol, emodin) exert antifungal activity by inhibiting fungal mitochondrial electron transport chain and disrupting cell wall biosynthesis in dermatophytes
-- Emodin and physcion modulate hepatic lipid metabolism through activation of AMPK pathway and inhibition of HMG-CoA reductase, providing [hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic) effects
-- Obtusin and chryso-obtusin exhibit [laxative](/nighantu/reference/laxative/) effects by stimulating colonic peristalsis through activation of chloride channels and inhibition of Na+/K+-ATPase in intestinal epithelium
+- Anthraquinone [glycosides](/glossary/compounds-g-l/#glycosides) (chrysophanol, emodin) exert antifungal activity by inhibiting fungal mitochondrial electron transport chain and disrupting cell wall biosynthesis in dermatophytes
+- Emodin and physcion modulate hepatic lipid metabolism through activation of AMPK pathway and inhibition of HMG-CoA reductase, providing [hypolipidemic](/glossary/pharmacology/#hypolipidemic) effects
+- Obtusin and chryso-obtusin exhibit [laxative](/reference/laxative/) effects by stimulating colonic peristalsis through activation of chloride channels and inhibition of Na+/K+-ATPase in intestinal epithelium
 
 ## Which traditional uses are supported by research?
 
-- Antifungal activity against ringworm (Dadru) validated through in vitro studies against Trichophyton and Microsporum species, supporting the traditional Ayurvedic name '[Dadrughna](/nighantu/herb/dadrughna/)' (ringworm destroyer)
+- Antifungal activity against ringworm (Dadru) validated through in vitro studies against Trichophyton and Microsporum species, supporting the traditional Ayurvedic name '[Dadrughna](/herb/dadrughna/)' (ringworm destroyer)
 - Laxative effects confirmed pharmacologically, supporting traditional use as a mild purgative in Ayurveda
 
 ## What do recent clinical trials show?
@@ -58,7 +58,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chakragaja/meta-analysis.md"
 
 ## Recent safety updates
 
-- Note: Botanical identity of 'Chakragaja' is uncertain; most references associate it with Cassia tora ([Chakramarda](/nighantu/herb/chakramarda/)). Information provided based on best available identification
+- Note: Botanical identity of 'Chakragaja' is uncertain; most references associate it with Cassia tora ([Chakramarda](/herb/chakramarda/)). Information provided based on best available identification
 - Anthraquinone-containing laxatives should not be used continuously for more than 1-2 weeks due to risk of electrolyte imbalance and melanosis coli
 - Seeds should be roasted or processed before consumption as raw seeds may contain anti-nutritional factors; avoid during pregnancy due to potential uterotonic effects
 
@@ -96,7 +96,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chakragaja/meta-analysis.md"
 
 **Storage:** Cool, dry place in airtight containers. Follow general Ayurvedic herb storage guidelines.
 
-**Marker Compounds:** Beta-sitosterol, [Lupeol](/nighantu/reference/lupeol/), Gallic acid, Flavonoid glycosides
+**Marker Compounds:** Beta-sitosterol, [Lupeol](/reference/lupeol/), Gallic acid, Flavonoid glycosides
 
 ### Extraction Methods
 
@@ -107,7 +107,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chakragaja/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Haridra](/nighantu/herb/haridra/) for skin conditions
-- With [Triphala](/nighantu/herb/triphala/) for digestive health
-- With [Guduchi](/nighantu/herb/guduchi/) for immune support
-- With [Nimba](/nighantu/herb/nimba/) for dermatological applications
+- With [Haridra](/herb/haridra/) for skin conditions
+- With [Triphala](/herb/triphala/) for digestive health
+- With [Guduchi](/herb/guduchi/) for immune support
+- With [Nimba](/herb/nimba/) for dermatological applications

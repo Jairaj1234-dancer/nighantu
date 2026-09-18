@@ -30,33 +30,33 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Pudina/meta-analysi
 
 - Carvone (50-70% of essential oil)
 - Rosmarinic acid (88% of total phenolics in leaf extracts)
-- [Limonene](/nighantu/glossary/compounds-g-l/#limonene)
-- 1,8-[Cineole](/nighantu/glossary/compounds-c-d/#cineole)
-- [Naringenin](/nighantu/glossary/compounds-l-o/#naringenin) and [Naringin](/nighantu/glossary/compounds-l-o/#naringin) ([flavonoids](/nighantu/reference/flavonoids/))
-- [Quercetin](/nighantu/reference/quercetinquercetin/)
-- [Menthol](/nighantu/herb/menthol/) (trace amounts, <2%)
+- [Limonene](/glossary/compounds-g-l/#limonene)
+- 1,8-[Cineole](/glossary/compounds-c-d/#cineole)
+- [Naringenin](/glossary/compounds-l-o/#naringenin) and [Naringin](/glossary/compounds-l-o/#naringin) ([flavonoids](/reference/flavonoids/))
+- [Quercetin](/reference/quercetinquercetin/)
+- [Menthol](/herb/menthol/) (trace amounts, <2%)
 - Pulegone (<0.5%)
 
 ## How does it work?
 
 - Carvone inhibits pancreatic lipase activity, reducing dietary fat absorption relevant to obesity management
-- Rosmarinic acid provides potent [antioxidant](/nighantu/reference/antioxidant/) activity through free radical scavenging and metal chelation, with additional immunosuppressant and anti-inflammatory effects
-- [Anxiolytic](/nighantu/reference/anxiolytic/) and sedative effects mediated through GABAergic system modulation, enhancing GABA receptor activity
-- [Antimicrobial](/nighantu/reference/antimicrobial/) activity through disruption of bacterial cell membrane integrity and inhibition of biofilm formation (particularly against MRSA)
-- Anti-inflammatory mechanism via inhibition of lipoxygenase and cyclooxygenase [enzymes](/nighantu/glossary/compounds-d-g/#enzymes), reducing prostaglandin and leukotriene synthesis
+- Rosmarinic acid provides potent [antioxidant](/reference/antioxidant/) activity through free radical scavenging and metal chelation, with additional immunosuppressant and anti-inflammatory effects
+- [Anxiolytic](/reference/anxiolytic/) and sedative effects mediated through GABAergic system modulation, enhancing GABA receptor activity
+- [Antimicrobial](/reference/antimicrobial/) activity through disruption of bacterial cell membrane integrity and inhibition of biofilm formation (particularly against MRSA)
+- Anti-inflammatory mechanism via inhibition of lipoxygenase and cyclooxygenase [enzymes](/glossary/compounds-d-g/#enzymes), reducing prostaglandin and leukotriene synthesis
 
 ## Which traditional uses are supported by research?
 
 - Digestive aid for bloating, indigestion, and IBS - validated by double-blind clinical trial showing reduced bloating and discomfort with spearmint extract
-- Cooling and fever-reducing properties - supported by pharmacological studies confirming [antipyretic](/nighantu/reference/antipyretic/) activity
-- Respiratory relief for cough, cold, and asthma - confirmed through bronchodilatory and [expectorant](/nighantu/reference/expectorant/) studies
+- Cooling and fever-reducing properties - supported by pharmacological studies confirming [antipyretic](/reference/antipyretic/) activity
+- Respiratory relief for cough, cold, and asthma - confirmed through bronchodilatory and [expectorant](/reference/expectorant/) studies
 - Antimicrobial use for oral and skin infections - validated by studies showing activity against drug-resistant bacteria including MRSA
 - Anxiolytic and calming effects - supported by preclinical studies demonstrating significant anxiolytic and sedative activity through GABAergic modulation
 
 ## What do recent clinical trials show?
 
 - El Menyiy N, Mrabti HN, El Omari N and others 2022. [Medicinal Uses, Phytochemistry, Pharmacology, and Toxicology of Mentha spicata](https://pubmed.ncbi.nlm.nih.gov/35463088/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [35463088](https://pubmed.ncbi.nlm.nih.gov/35463088/) · [doi:10.1155/2022/7990508](https://doi.org/10.1155/2022/7990508)  
-  Comprehensive review confirming antibacterial, antifungal, antioxidant, [hepatoprotective](/nighantu/reference/hepatoprotective/), [antidiabetic](/nighantu/reference/antidiabetic/), cytotoxic, anti-inflammatory, larvicidal, antigenotoxic, and antiandrogenic activities of M. spicata extracts and essential oils.
+  Comprehensive review confirming antibacterial, antifungal, antioxidant, [hepatoprotective](/reference/hepatoprotective/), [antidiabetic](/reference/antidiabetic/), cytotoxic, anti-inflammatory, larvicidal, antigenotoxic, and antiandrogenic activities of M. spicata extracts and essential oils.
 - Mahendran G, Verma SK, Rahman LU 2021. [The traditional uses, phytochemistry and pharmacology of spearmint (Mentha spicata L.): A review](https://pubmed.ncbi.nlm.nih.gov/34087400/). *Journal of ethnopharmacology*. PMID [34087400](https://pubmed.ncbi.nlm.nih.gov/34087400/) · [doi:10.1016/j.jep.2021.114266](https://doi.org/10.1016/j.jep.2021.114266)  
   Identified 35 chemical constituents in spearmint; validated pharmacological properties support traditional uses including digestive, cooling, and toxin-clearing applications in Ayurveda.
 - Ali-Shtayeh MS, Jamous RM, Abu-Zaitoun SY and others 2019. [Biological Properties and Bioactive Components of Mentha spicata L. Essential Oil: Focus on Potential Benefits in the Treatment of Obesity, Alzheimer's Disease, Dermatophytosis, and Drug-Resistant Infections](https://pubmed.ncbi.nlm.nih.gov/31772594/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [31772594](https://pubmed.ncbi.nlm.nih.gov/31772594/) · [doi:10.1155/2019/3834265](https://doi.org/10.1155/2019/3834265)  
@@ -72,21 +72,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Pudina/meta-analysi
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Swarasa (fresh juice), Essential oil (oral capsule), Churna, Capsule, Tablet, Tea/infusion, Enteric-coated soft gel (peppermint oil), Lozenges, Cream/gel, [Arka](/nighantu/herb/arka/) (distillate)
+**Dosage Forms:** Swarasa (fresh juice), Essential oil (oral capsule), Churna, Capsule, Tablet, Tea/infusion, Enteric-coated soft gel (peppermint oil), Lozenges, Cream/gel, [Arka](/herb/arka/) (distillate)
 
 **Standard Dosage:** 1-2 g dried herb as tea, 2-3 times daily; 0.2-0.4 mL peppermint oil in enteric-coated capsule 3 times daily; 5-10 mL fresh juice; 2-3 drops essential oil for inhalation
 
-**Bioavailability:** [Menthol](/nighantu/herb/menthol/) has excellent oral bioavailability (>80%) with rapid absorption (Tmax 30-60 min). Undergoes hepatic glucuronidation and is excreted renally. Rosmarinic acid bioavailability is moderate (~25-35%). Enteric coating of peppermint oil capsules prevents premature release in stomach (which causes heartburn) and delivers oil to the small intestine and colon for IBS efficacy. Inhalation provides near-immediate systemic absorption of volatiles. Topical [menthol](/nighantu/herb/menthol/) activates TRPM8 cold receptors providing [analgesic](/nighantu/reference/analgesic/) and cooling sensation.
+**Bioavailability:** [Menthol](/herb/menthol/) has excellent oral bioavailability (>80%) with rapid absorption (Tmax 30-60 min). Undergoes hepatic glucuronidation and is excreted renally. Rosmarinic acid bioavailability is moderate (~25-35%). Enteric coating of peppermint oil capsules prevents premature release in stomach (which causes heartburn) and delivers oil to the small intestine and colon for IBS efficacy. Inhalation provides near-immediate systemic absorption of volatiles. Topical [menthol](/herb/menthol/) activates TRPM8 cold receptors providing [analgesic](/reference/analgesic/) and cooling sensation.
 
 **Optimal Timing:** Peppermint oil capsules: 30-60 minutes before meals for IBS. Tea/infusion: after meals for digestive comfort. Topical: as needed for headache, muscle pain. Inhalation: as needed for congestion.
 
-**Standardized Extract:** Peppermint essential oil (Mentha piperita) standardized to menthol 35-45%, [menthone](/nighantu/glossary/compounds-l-o/#menthone) 15-25%. Mentha arvensis oil (dementholized) with menthol 70-80%. Hydroalcoholic leaf extract with rosmarinic acid >5%.
+**Standardized Extract:** Peppermint essential oil (Mentha piperita) standardized to menthol 35-45%, [menthone](/glossary/compounds-l-o/#menthone) 15-25%. Mentha arvensis oil (dementholized) with menthol 70-80%. Hydroalcoholic leaf extract with rosmarinic acid >5%.
 
 **Shelf Life:** Fresh herb: 3-5 days refrigerated; Dried herb: 12-18 months; Essential oil: 24-36 months; Enteric-coated capsules: 24-36 months; Extract: 24 months
 
 **Storage:** Fresh herb: refrigerated 2-8 deg C in damp cloth. Dried herb: airtight, below 25 deg C, protect from light. Essential oil: amber glass, tightly sealed, 15-25 deg C. Enteric-coated capsules: blister packs, below 25 deg C, RH <60%.
 
-**Marker Compounds:** Menthol, Menthone, Menthyl acetate, 1,8-Cineole, Limonene, Rosmarinic acid, Eriocitrin, [Luteolin](/nighantu/glossary/compounds-l-o/#luteolin)-7-O-glucoside
+**Marker Compounds:** Menthol, Menthone, Menthyl acetate, 1,8-Cineole, Limonene, Rosmarinic acid, Eriocitrin, [Luteolin](/glossary/compounds-l-o/#luteolin)-7-O-glucoside
 
 ### Extraction Methods
 
@@ -99,8 +99,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Pudina/meta-analysi
 
 ### Synergistic Combinations
 
-- [Ajwain](/nighantu/herb/ajwain/) (carminative and digestive synergy)
-- Adrak/[Ginger](/nighantu/herb/ginger/) (anti-nausea and digestive combination)
-- Saunf/[Fennel](/nighantu/herb/fennel/) (IBS management formulation)
+- [Ajwain](/herb/ajwain/) (carminative and digestive synergy)
+- Adrak/[Ginger](/herb/ginger/) (anti-nausea and digestive combination)
+- Saunf/[Fennel](/herb/fennel/) (IBS management formulation)
 - Elaichi/Cardamom (digestive and breath freshener)
-- Jeera/[Cumin](/nighantu/herb/cumin/) (digestive spice combination)
+- Jeera/[Cumin](/herb/cumin/) (digestive spice combination)

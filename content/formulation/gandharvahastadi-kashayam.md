@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Gandharvahas
 
 | Language | Name |
 |----------|------|
-| English | [Gandharvahastadi Kashayam](/nighantu/formulation/gandharvahastadi-kashayam/) |
+| English | [Gandharvahastadi Kashayam](/formulation/gandharvahastadi-kashayam/) |
 
 ## Where is it described in the classical texts?
 
@@ -31,16 +31,16 @@ Bhaishajya Ratnavali and Sharangadhara Samhita, classified under Vata-Kapha bala
 
 ## How does it work?
 
-- Prostaglandin-mediated stimulation of intestinal motility by [Eranda](/nighantu/herb/eranda/) (castor root) promotes bowel evacuation
+- Prostaglandin-mediated stimulation of intestinal motility by [Eranda](/herb/eranda/) (castor root) promotes bowel evacuation
 - Agni (digestive fire) enhancement by Shunthi and Musta improves overall digestive capacity
-- Mild purgative action of [Haritaki](/nighantu/herb/haritaki/) and [Trivrit](/nighantu/herb/trivrit/) clears lower intestinal blockages without causing dependency
-- [Vata-balancing](/nighantu/glossary/concepts-m-y/#vata-balancing) properties of [Devadaru](/nighantu/herb/devadaru/) and [Daruharidra](/nighantu/herb/daruharidra/) relieve associated lower back pain and flatulence
+- Mild purgative action of [Haritaki](/herb/haritaki/) and [Trivrit](/herb/trivrit/) clears lower intestinal blockages without causing dependency
+- [Vata-balancing](/glossary/concepts-m-y/#vata-balancing) properties of [Devadaru](/herb/devadaru/) and [Daruharidra](/herb/daruharidra/) relieve associated lower back pain and flatulence
 
 ## Which traditional uses are supported by research?
 
 - Constipation - validated by case series showing effective bowel regulation over 21 days
 - Flatulence and bloating - supported by digestive fire (Agni) enhancement mechanism
-- Vata disorders with low back pain - corroborated by anti-inflammatory properties of [Devadaru](/nighantu/herb/devadaru/) and [Daruharidra](/nighantu/herb/daruharidra/)
+- Vata disorders with low back pain - corroborated by anti-inflammatory properties of [Devadaru](/herb/devadaru/) and [Daruharidra](/herb/daruharidra/)
 - Loss of appetite - supported by prokinetic action of Shunthi and Musta
 
 ## What do recent clinical trials show?
@@ -69,15 +69,15 @@ Bhaishajya Ratnavali and Sharangadhara Samhita, classified under Vata-Kapha bala
 
 **Standard Dosage:** 15-30 mL or 2 tablets twice daily before meals, as per Sahasrayogam/AFI
 
-**Bioavailability:** Hot decoction provides rapid absorption. When administered with [Eranda](/nighantu/herb/eranda/) Taila, lipid-mediated absorption is enhanced. Shunthi ([ginger](/nighantu/herb/ginger/)) acts as bioenhancer for other constituents.
+**Bioavailability:** Hot decoction provides rapid absorption. When administered with [Eranda](/herb/eranda/) Taila, lipid-mediated absorption is enhanced. Shunthi ([ginger](/herb/ginger/)) acts as bioenhancer for other constituents.
 
-**Optimal Timing:** Before meals, preferably at bedtime with [Eranda](/nighantu/herb/eranda/) Taila for Vatanulomana (normalizing Vata)
+**Optimal Timing:** Before meals, preferably at bedtime with [Eranda](/herb/eranda/) Taila for Vatanulomana (normalizing Vata)
 
 **Shelf Life:** Same day (fresh), 6 months (preserved), 3 years (tablet)
 
 **Storage:** Fresh: use same day. Concentrates: amber glass at room temperature. Tablets: airtight containers at room temperature.
 
-**Marker Compounds:** Ricinoleic acid derivatives, 6-[Gingerol](/nighantu/glossary/compounds-d-g/#gingerol) (from Shunthi), [Cedrene](/nighantu/glossary/compounds-c-d/#cedrene) (from [Devadaru](/nighantu/herb/devadaru/)), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+**Marker Compounds:** Ricinoleic acid derivatives, 6-[Gingerol](/glossary/compounds-d-g/#gingerol) (from Shunthi), [Cedrene](/glossary/compounds-c-d/#cedrene) (from [Devadaru](/herb/devadaru/)), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 
 **Quality Parameters:** pH, specific gravity, total solids, extractive values, ricinoleic acid derivatives, HPTLC fingerprint, 6-gingerol content (from Shunthi), microbial limits, heavy metals
 
@@ -88,4 +88,4 @@ Bhaishajya Ratnavali and Sharangadhara Samhita, classified under Vata-Kapha bala
 - Eranda Taila (castor oil — classical anupana)
 - Dashamula Kashayam
 - Rasnadi Kashayam
-- [Guggulu](/nighantu/formulation/guggulu/) preparations
+- [Guggulu](/formulation/guggulu/) preparations

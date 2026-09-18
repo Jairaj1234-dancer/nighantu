@@ -28,24 +28,24 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Brihati/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Solasodine](/nighantu/glossary/compounds-q-t/#solasodine) (steroidal alkaloid)
-- [Solanine](/nighantu/glossary/compounds-q-t/#solanine)
-- [Solamargine](/nighantu/glossary/compounds-q-t/#solamargine)
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
-- [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin)
-- [Luteolin](/nighantu/glossary/compounds-l-o/#luteolin)
-- [Diosgenin](/nighantu/glossary/compounds-d-g/#diosgenin)
-- Steroidal [glycosides](/nighantu/glossary/compounds-g-l/#glycosides)
+- [Solasodine](/glossary/compounds-q-t/#solasodine) (steroidal alkaloid)
+- [Solanine](/glossary/compounds-q-t/#solanine)
+- [Solamargine](/glossary/compounds-q-t/#solamargine)
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
+- [Apigenin](/glossary/compounds-1-a/#apigenin)
+- [Luteolin](/glossary/compounds-l-o/#luteolin)
+- [Diosgenin](/glossary/compounds-d-g/#diosgenin)
+- Steroidal [glycosides](/glossary/compounds-g-l/#glycosides)
 
 ## How does it work?
 
 - Anti-inflammatory: Steroidal glycosides and solasodine inhibit NF-kB-mediated production of TNF-alpha and IL-6 in macrophages
-- Respiratory: [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) exert bronchodilatory effect through muscarinic receptor antagonism and mast cell stabilization
-- [Anticancer](/nighantu/reference/anticancer/): Solamargine induces apoptosis in cancer cells via caspase-3 activation and mitochondrial membrane depolarization
+- Respiratory: [Alkaloids](/glossary/compounds-1-a/#alkaloids) exert bronchodilatory effect through muscarinic receptor antagonism and mast cell stabilization
+- [Anticancer](/reference/anticancer/): Solamargine induces apoptosis in cancer cells via caspase-3 activation and mitochondrial membrane depolarization
 
 ## Which traditional uses are supported by research?
 
-- Respiratory disorder treatment (Kasa-Shwasa) validated by bronchodilatory and anti-asthmatic activity in [histamine](/nighantu/glossary/compounds-g-l/#histamine)-induced bronchospasm models
+- Respiratory disorder treatment (Kasa-Shwasa) validated by bronchodilatory and anti-asthmatic activity in [histamine](/glossary/compounds-g-l/#histamine)-induced bronchospasm models
 - Anti-inflammatory use confirmed through significant reduction in carrageenan and formalin-induced edema in animal studies
 - Anthelmintic use (Krimighna) supported by in vitro activity against Pheretima posthuma and Ascaridia galli
 
@@ -77,21 +77,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Brihati/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Kashayam (decoction), Tablet, Capsule, Kwath Ghana (solid extract), As component of [Dashamoola](/nighantu/herb/dashamoola/)
+**Dosage Forms:** Churna (powder), Kashayam (decoction), Tablet, Capsule, Kwath Ghana (solid extract), As component of [Dashamoola](/herb/dashamoola/)
 
-**Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction; 500mg extract capsule; commonly used as part of [Dashamoola](/nighantu/herb/dashamoola/) formulation
+**Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction; 500mg extract capsule; commonly used as part of [Dashamoola](/herb/dashamoola/) formulation
 
-**Bioavailability:** Solasodine glycoalkaloids show moderate oral bioavailability (25-35%). Steroidal alkaloids are generally well absorbed due to lipophilicity. Diosgenin-related [saponins](/nighantu/reference/saponins/) undergo hydrolysis in the gut. Caffeic acid and chlorogenic acid show good oral absorption (40-60%). Decoction form provides better extraction of alkaloids than cold preparations.
+**Bioavailability:** Solasodine glycoalkaloids show moderate oral bioavailability (25-35%). Steroidal alkaloids are generally well absorbed due to lipophilicity. Diosgenin-related [saponins](/reference/saponins/) undergo hydrolysis in the gut. Caffeic acid and chlorogenic acid show good oral absorption (40-60%). Decoction form provides better extraction of alkaloids than cold preparations.
 
 **Optimal Timing:** Before meals with warm water for respiratory conditions; as Dashamoola Kashayam after meals for anti-inflammatory effects
 
-**Standardized Extract:** Root extract standardized to [solasonine](/nighantu/glossary/compounds-q-t/#solasonine) NLT 0.5%; total steroidal alkaloids NLT 1.5%. Fruit extract standardized to solasodine NLT 1%.
+**Standardized Extract:** Root extract standardized to [solasonine](/glossary/compounds-q-t/#solasonine) NLT 0.5%; total steroidal alkaloids NLT 1.5%. Fruit extract standardized to solasodine NLT 1%.
 
 **Shelf Life:** 2 years (powder); 3 years (tablet/capsule)
 
 **Storage:** Cool, dry place in airtight containers. Protect from moisture. Alkaloid content stable under proper storage conditions.
 
-**Marker Compounds:** Solasonine, Solamargine, Solasodine, Diosgenin, [Carpesterol](/nighantu/glossary/compounds-a-c/#carpesterol), Caffeic acid, Chlorogenic acid, Beta-sitosterol
+**Marker Compounds:** Solasonine, Solamargine, Solasodine, Diosgenin, [Carpesterol](/glossary/compounds-a-c/#carpesterol), Caffeic acid, Chlorogenic acid, Beta-sitosterol
 
 ### Extraction Methods
 
@@ -103,8 +103,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Brihati/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Kantakari](/nighantu/herb/kantakari/) as Brihati-[Kantakari](/nighantu/herb/kantakari/) Dvandva for respiratory disorders
-- With other Dashamoola herbs for anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) synergy
-- With [Vasa](/nighantu/herb/vasa/) for bronchial conditions
-- With [Pippali](/nighantu/herb/pippali/) for Kapha-Vata respiratory conditions
-- With [Guduchi](/nighantu/herb/guduchi/) for fever management
+- With [Kantakari](/herb/kantakari/) as Brihati-[Kantakari](/herb/kantakari/) Dvandva for respiratory disorders
+- With other Dashamoola herbs for anti-inflammatory and [analgesic](/reference/analgesic/) synergy
+- With [Vasa](/herb/vasa/) for bronchial conditions
+- With [Pippali](/herb/pippali/) for Kapha-Vata respiratory conditions
+- With [Guduchi](/herb/guduchi/) for fever management

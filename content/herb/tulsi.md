@@ -24,7 +24,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Tulsi/meta-analysis.md"
 | Language | Name |
 |----------|------|
 | English | Tulsi |
-| Common Names | [Holy Basil](/nighantu/herb/holy-basil/), Sacred Basil |
+| Common Names | [Holy Basil](/herb/holy-basil/), Sacred Basil |
 | Hindi | Tulsi |
 | Sanskrit | Tulasi, Surasa |
 | Latin/Botanical | *Ocimum tenuiflorum (syn. O. sanctum)* |
@@ -46,31 +46,31 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Tulsi/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Eugenol](/nighantu/glossary/compounds-d-g/#eugenol)
+- [Eugenol](/glossary/compounds-d-g/#eugenol)
 - Ursolic acid
 - Rosmarinic acid
-- [Linalool](/nighantu/glossary/compounds-l-o/#linalool)
+- [Linalool](/glossary/compounds-l-o/#linalool)
 - Ocimumosides A & B
 
 ## Therapeutic Actions (Karma)
 
-- [Antimicrobial](/nighantu/reference/antimicrobial/)
+- [Antimicrobial](/reference/antimicrobial/)
 - Adaptogen
 - Anti-inflammatory
 - Immunomodulator
-- [Expectorant](/nighantu/reference/expectorant/)
-- [Antipyretic](/nighantu/reference/antipyretic/)
-- [Antioxidant](/nighantu/reference/antioxidant/)
+- [Expectorant](/reference/expectorant/)
+- [Antipyretic](/reference/antipyretic/)
+- [Antioxidant](/reference/antioxidant/)
 
 ## How does it work?
 
-- Active compounds: Over 100 distinct compounds including eugenol, rosmarinic acid, various [flavonoids](/nighantu/reference/flavonoids/), phenolics, [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids), and fatty acid derivatives.
+- Active compounds: Over 100 distinct compounds including eugenol, rosmarinic acid, various [flavonoids](/reference/flavonoids/), phenolics, [terpenoids](/glossary/compounds-t-z/#terpenoids), and fatty acid derivatives.
 - NF-kB inhibition and Nrf2 activation: Provides potent anti-inflammatory and antioxidant responses.
 - Cancer pathways: Induces apoptosis via mitochondrial and PI3K/AKT pathways.
-- Metabolic regulation: Modulates [glucose](/nighantu/glossary/compounds-d-g/#glucose) and lipid metabolism through AMPK activation and HMG-CoA reductase inhibition.
+- Metabolic regulation: Modulates [glucose](/glossary/compounds-d-g/#glucose) and lipid metabolism through AMPK activation and HMG-CoA reductase inhibition.
 - Multi-pathway pharmacology: Alters functionality of NF-kB, ERK, p38, and MAPK pathways.
 - Antimicrobial: Unsaturated fatty acids (linolic and linoleic acid) destabilize microbial membranes by interfering with electron transport chain.
-- [Adaptogenic](/nighantu/reference/adaptogenic/): Modulates cortisol and stress-response hormones including salivary amylase.
+- [Adaptogenic](/reference/adaptogenic/): Modulates cortisol and stress-response hormones including salivary amylase.
 - Antiviral: Eugenol inhibits SARS-CoV-2 spike protein interaction with ACE2.
 
 ## How is it used traditionally?
@@ -98,7 +98,7 @@ Revered as sacred plant in Hinduism. Used for Kasa (cough), Shwasa (asthma), Jwa
 
 - Appears safe for up to 8 weeks of oral use; long-term safety (>8 weeks) not adequately studied.
 - Anticoagulant interaction: May slow blood clotting; increased bleeding risk with aspirin, clopidogrel, warfarin, heparin, enoxaparin, and similar drugs.
-- Sedative potentiation: [Holy basil](/nighantu/herb/holy-basil/) seed oil with pentobarbital may cause excessive drowsiness.
+- Sedative potentiation: [Holy basil](/herb/holy-basil/) seed oil with pentobarbital may cause excessive drowsiness.
 - Hypoglycemia risk: May lower blood sugar; caution with insulin and sulfonylureas.
 - Blood pressure: May lower blood pressure; monitor for hypotension-related symptoms.
 - Thyroid effects: May decrease thyroxine levels; could worsen hypothyroidism.
@@ -161,7 +161,7 @@ Fresh leaves: 5-10 leaves/day; Dried powder: 1-3g/day; Extract: 300-600mg/day
 
 **Bioavailability:** Eugenol (primary volatile) has good oral bioavailability (~45-55%) with Tmax of 30-60 minutes. Rosmarinic acid shows moderate bioavailability (~15-20%) limited by esterase hydrolysis and Phase II conjugation. Ursolic acid has very low oral bioavailability (<5%) due to extreme lipophilicity; phospholipid complexation (phytosome) improves this 3-5 fold. Ocimumosides A and B are moderately absorbed. Fresh juice provides highest bioavailability of water-soluble phenolics.
 
-**Optimal Timing:** Morning on empty stomach for adaptogenic/[Rasayana](/nighantu/reference/rasayana/) effect; after meals for digestive support; throughout the day as tea
+**Optimal Timing:** Morning on empty stomach for adaptogenic/[Rasayana](/reference/rasayana/) effect; after meals for digestive support; throughout the day as tea
 
 **Standardized Extract:** Hydroethanolic extract standardized to >2.5% ursolic acid and >1% rosmarinic acid by HPLC; essential oil standardized to >50% eugenol by GC-FID
 
@@ -169,7 +169,7 @@ Fresh leaves: 5-10 leaves/day; Dried powder: 1-3g/day; Extract: 300-600mg/day
 
 **Storage:** Airtight, light-resistant containers at 15-25 deg C. Essential oil in amber glass under nitrogen. Fresh leaves in perforated bags at 4-8 deg C for up to 5 days.
 
-**Marker Compounds:** Eugenol, Methyl eugenol, Rosmarinic acid, Ursolic acid, Oleanolic acid, Ocimumosides A, Ocimumosides B, beta-Caryophyllene, Linalool, [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin), [Luteolin](/nighantu/glossary/compounds-l-o/#luteolin), [Orientin](/nighantu/glossary/compounds-o-q/#orientin), Vicenin
+**Marker Compounds:** Eugenol, Methyl eugenol, Rosmarinic acid, Ursolic acid, Oleanolic acid, Ocimumosides A, Ocimumosides B, beta-Caryophyllene, Linalool, [Apigenin](/glossary/compounds-1-a/#apigenin), [Luteolin](/glossary/compounds-l-o/#luteolin), [Orientin](/glossary/compounds-o-q/#orientin), Vicenin
 
 ### Extraction Methods
 
@@ -182,8 +182,8 @@ Fresh leaves: 5-10 leaves/day; Dried powder: 1-3g/day; Extract: 300-600mg/day
 
 ### Synergistic Combinations
 
-- [Ashwagandha](/nighantu/herb/ashwagandha/) (Withania somnifera) - adaptogenic synergy for stress
-- [Brahmi](/nighantu/herb/brahmi/) (Bacopa monnieri) - cognitive enhancement combination
-- Shunthi ([ginger](/nighantu/herb/ginger/)) + Tulsi - respiratory and immune synergy
+- [Ashwagandha](/herb/ashwagandha/) (Withania somnifera) - adaptogenic synergy for stress
+- [Brahmi](/herb/brahmi/) (Bacopa monnieri) - cognitive enhancement combination
+- Shunthi ([ginger](/herb/ginger/)) + Tulsi - respiratory and immune synergy
 - Honey as anupana - enhances Kapha-reducing action
-- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (licorice) - soothing respiratory combination
+- [Yashtimadhu](/herb/yashtimadhu/) (licorice) - soothing respiratory combination

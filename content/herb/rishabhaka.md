@@ -30,31 +30,31 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rishabhaka/meta-analysis.md"
 
 - Protobassic acid
 - 16-alpha-hydroxyprotobassic acid
-- [Taraxerol](/nighantu/glossary/compounds-t-z/#taraxerol)
+- [Taraxerol](/glossary/compounds-t-z/#taraxerol)
 - Alpha-amyrin and beta-amyrin
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol) and its glucoside
-- [Quercetin](/nighantu/reference/quercetinquercetin/) and dihydroderivatives
-- [Myricetin](/nighantu/glossary/compounds-l-o/#myricetin)
-- [Quercitol](/nighantu/glossary/compounds-q-t/#quercitol)
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol) and its glucoside
+- [Quercetin](/reference/quercetinquercetin/) and dihydroderivatives
+- [Myricetin](/glossary/compounds-l-o/#myricetin)
+- [Quercitol](/glossary/compounds-q-t/#quercitol)
 - Ursolic acid
-- [Saponins](/nighantu/reference/saponins/) (novel triterpenoid saponins)
+- [Saponins](/reference/saponins/) (novel triterpenoid saponins)
 
 ## How does it work?
 
-- Anti-inflammatory mechanism involving inhibition of COX and LOX [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) by triterpenoid saponins, with novel saponin isolates showing dose-dependent activity
-- [Antidiabetic](/nighantu/reference/antidiabetic/) action through alpha-glucosidase and alpha-amylase inhibition by flavonoid constituents ([quercetin](/nighantu/reference/quercetinquercetin/), myricetin), reducing postprandial [glucose](/nighantu/glossary/compounds-d-g/#glucose) absorption
+- Anti-inflammatory mechanism involving inhibition of COX and LOX [enzymes](/glossary/compounds-d-g/#enzymes) by triterpenoid saponins, with novel saponin isolates showing dose-dependent activity
+- [Antidiabetic](/reference/antidiabetic/) action through alpha-glucosidase and alpha-amylase inhibition by flavonoid constituents ([quercetin](/reference/quercetinquercetin/), myricetin), reducing postprandial [glucose](/glossary/compounds-d-g/#glucose) absorption
 - Immunostimulatory mechanism involving activation of macrophages and enhancement of phagocytic activity, supporting its traditional use as a tonic
 
 ## Which traditional uses are supported by research?
 
-- [Aphrodisiac](/nighantu/glossary/pharmacology/#aphrodisiac) and tonic properties supported by preclinical studies demonstrating [adaptogenic](/nighantu/reference/adaptogenic/) effects, confirming traditional [Vajikarana](/nighantu/glossary/pharmacology/#vajikarana) use
+- [Aphrodisiac](/glossary/pharmacology/#aphrodisiac) and tonic properties supported by preclinical studies demonstrating [adaptogenic](/reference/adaptogenic/) effects, confirming traditional [Vajikarana](/glossary/pharmacology/#vajikarana) use
 - Antibacterial activity validated against multiple pathogenic strains, supporting traditional use in infectious and dental conditions
 - Antiulcer activity confirmed through gastroprotective studies in animal models, validating traditional use in digestive disorders
 
 ## What do recent clinical trials show?
 
 - Ibrahim AE, Saraya RE, Saleh H and others 2019. [Development and validation of eco-friendly micellar-HPLC and HPTLC-densitometry methods for the simultaneous determination of paritaprevir, ritonavir and ombitasvir in pharmaceutical dosage forms](https://pubmed.ncbi.nlm.nih.gov/31049430/). *Heliyon*. PMID [31049430](https://pubmed.ncbi.nlm.nih.gov/31049430/) · [doi:10.1016/j.heliyon.2019.e01518](https://doi.org/10.1016/j.heliyon.2019.e01518)  
-  Validated analytical methods for simultaneous estimation of myricetin and [quercetin](/nighantu/reference/quercetinquercetin/) as quality markers in leaf extract, following ICH guidelines for standardization.
+  Validated analytical methods for simultaneous estimation of myricetin and [quercetin](/reference/quercetinquercetin/) as quality markers in leaf extract, following ICH guidelines for standardization.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
@@ -97,7 +97,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rishabhaka/meta-analysis.md"
 
 **Storage:** Store below 25 deg C in airtight containers, protected from light and moisture. Relative humidity <60%.
 
-**Marker Compounds:** [Stigmasterol](/nighantu/reference/stigmasterol/), Beta-sitosterol, [Diosgenin](/nighantu/glossary/compounds-d-g/#diosgenin), Hecogenin, Saponins (total)
+**Marker Compounds:** [Stigmasterol](/reference/stigmasterol/), Beta-sitosterol, [Diosgenin](/glossary/compounds-d-g/#diosgenin), Hecogenin, Saponins (total)
 
 ### Extraction Methods
 
@@ -108,6 +108,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rishabhaka/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Ashwagandha](/nighantu/herb/ashwagandha/) (adaptogenic synergy)
-- [Shatavari](/nighantu/herb/shatavari/) (reproductive tonic combination)
-- [Vidari](/nighantu/herb/vidari/) (anabolic synergy for Balya formulations)
+- [Ashwagandha](/herb/ashwagandha/) (adaptogenic synergy)
+- [Shatavari](/herb/shatavari/) (reproductive tonic combination)
+- [Vidari](/herb/vidari/) (anabolic synergy for Balya formulations)

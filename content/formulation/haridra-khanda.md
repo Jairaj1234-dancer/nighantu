@@ -23,25 +23,25 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Haridra-Kh
 
 | Language | Name |
 |----------|------|
-| English | [Haridra](/nighantu/herb/haridra/) Khanda |
+| English | [Haridra](/herb/haridra/) Khanda |
 
 ## Where is it described in the classical texts?
 
-Charaka Samhita; Sushruta Samhita; Sharangadhara Samhita; Atharva Veda and Upanishads (earliest [turmeric](/nighantu/herb/turmeric/) therapeutic references); Bhaishajya Ratnavali
+Charaka Samhita; Sushruta Samhita; Sharangadhara Samhita; Atharva Veda and Upanishads (earliest [turmeric](/herb/turmeric/) therapeutic references); Bhaishajya Ratnavali
 
 ## How does it work?
 
-- [Curcumin](/nighantu/herb/curcumin/) modulates [histamine](/nighantu/glossary/compounds-g-l/#histamine) release and mast cell degranulation, providing direct anti-allergic action validated by LC-ESI-MS/MS
+- [Curcumin](/herb/curcumin/) modulates [histamine](/glossary/compounds-g-l/#histamine) release and mast cell degranulation, providing direct anti-allergic action validated by LC-ESI-MS/MS
 - Anti-inflammatory action through NF-kB pathway inhibition reduces allergic tissue inflammation and hypersensitivity reactions
-- Antipruritic properties of [turmeric](/nighantu/herb/turmeric/) combined with Lauha Bhasma provide relief from allergic itching and urticaria
-- Blood purifying (Rakta Shodhaka) action of [Haridra](/nighantu/herb/haridra/) with [Triphala](/nighantu/herb/triphala/) and [Vidanga](/nighantu/herb/vidanga/) clears toxins underlying chronic skin allergies
+- Antipruritic properties of [turmeric](/herb/turmeric/) combined with Lauha Bhasma provide relief from allergic itching and urticaria
+- Blood purifying (Rakta Shodhaka) action of [Haridra](/herb/haridra/) with [Triphala](/herb/triphala/) and [Vidanga](/herb/vidanga/) clears toxins underlying chronic skin allergies
 - Lauha Bhasma (iron calx) corrects anemia that may underlie chronic allergic conditions while providing mineral supplementation
 
 ## Which traditional uses are supported by research?
 
 - Sheetapitta (urticaria/allergic skin rash): clinical evaluation validates efficacy in managing allergic urticaria
 - Pratishyaya (allergic rhinitis): 2024 pharmacological study validates anti-histamine mechanism through LC-ESI-MS/MS in experimental models
-- Kushta (skin diseases): traditional blood-purifying and anti-allergic use supported by [curcumin](/nighantu/herb/curcumin/)'s anti-inflammatory pharmacology
+- Kushta (skin diseases): traditional blood-purifying and anti-allergic use supported by [curcumin](/herb/curcumin/)'s anti-inflammatory pharmacology
 - Kandu (pruritus/itching): antipruritic, antihistamine, and anti-inflammatory properties validated for itch relief
 
 ## What do recent clinical trials show?
@@ -71,7 +71,7 @@ Charaka Samhita; Sushruta Samhita; Sharangadhara Samhita; Atharva Veda and Upani
 
 **Standard Dosage:** 3-6 g twice daily with warm milk, as per AFI Part I
 
-**Bioavailability:** Ghee-frying of Haridra significantly enhances [curcumin](/nighantu/herb/curcumin/) bioavailability (curcuminoid-lipid complexation). [Piperine](/nighantu/reference/piperine/) from [Trikatu](/nighantu/herb/trikatu/) increases [curcumin](/nighantu/herb/curcumin/) bioavailability by up to 2000% (well-established pharmacokinetic interaction). Milk during processing forms curcumin-casein nanoparticles with enhanced absorption.
+**Bioavailability:** Ghee-frying of Haridra significantly enhances [curcumin](/herb/curcumin/) bioavailability (curcuminoid-lipid complexation). [Piperine](/reference/piperine/) from [Trikatu](/herb/trikatu/) increases [curcumin](/herb/curcumin/) bioavailability by up to 2000% (well-established pharmacokinetic interaction). Milk during processing forms curcumin-casein nanoparticles with enhanced absorption.
 
 **Optimal Timing:** After meals, twice daily, especially for Sheetapitta (urticaria) and allergic conditions
 
@@ -79,7 +79,7 @@ Charaka Samhita; Sushruta Samhita; Sharangadhara Samhita; Atharva Veda and Upani
 
 **Storage:** Store in airtight containers in a cool, dry place. Protect from moisture (sugar-based, hygroscopic). Temperature not exceeding 25°C.
 
-**Marker Compounds:** Curcumin, [Demethoxycurcumin](/nighantu/glossary/compounds-c-d/#demethoxycurcumin), [Bisdemethoxycurcumin](/nighantu/glossary/compounds-a-c/#bisdemethoxycurcumin), Piperine, [Embelin](/nighantu/glossary/compounds-d-g/#embelin) (from [Vidanga](/nighantu/herb/vidanga/)), [Turmerone](/nighantu/glossary/compounds-t-z/#turmerone)
+**Marker Compounds:** Curcumin, [Demethoxycurcumin](/glossary/compounds-c-d/#demethoxycurcumin), [Bisdemethoxycurcumin](/glossary/compounds-a-c/#bisdemethoxycurcumin), Piperine, [Embelin](/glossary/compounds-d-g/#embelin) (from [Vidanga](/herb/vidanga/)), [Turmerone](/glossary/compounds-t-z/#turmerone)
 
 **Quality Parameters:** Total solids, moisture content (<10%), curcumin content by HPLC (NLT 0.5%), total curcuminoids, piperine content, total sugar, total fat, HPTLC fingerprint, microbial limits, heavy metals
 
@@ -87,7 +87,7 @@ Charaka Samhita; Sushruta Samhita; Sharangadhara Samhita; Atharva Veda and Upani
 
 ### Synergistic Combinations
 
-- Kaishore [Guggulu](/nighantu/formulation/guggulu/)
+- Kaishore [Guggulu](/formulation/guggulu/)
 - Mahamanjisthadi Kwath
-- [Gandhaka](/nighantu/glossary/concepts-a-m/#gandhaka) [Rasayana](/nighantu/reference/rasayana/)
-- [Neem](/nighantu/herb/neem/) ([Nimba](/nighantu/herb/nimba/)) preparations
+- [Gandhaka](/glossary/concepts-a-m/#gandhaka) [Rasayana](/reference/rasayana/)
+- [Neem](/herb/neem/) ([Nimba](/herb/nimba/)) preparations

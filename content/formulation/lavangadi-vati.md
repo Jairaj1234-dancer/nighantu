@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Lavangadi-Vati/meta
 
 | Language | Name |
 |----------|------|
-| English | [Lavangadi Vati](/nighantu/formulation/lavangadi-vati/) |
+| English | [Lavangadi Vati](/formulation/lavangadi-vati/) |
 
 ## Where is it described in the classical texts?
 
@@ -31,17 +31,17 @@ Sharangdhara Samhita (Madhyama Khanda); also described in Bhaishajya Ratnavali (
 
 ## How does it work?
 
-- [Expectorant](/nighantu/reference/expectorant/) and mucolytic: [Eugenol](/nighantu/glossary/compounds-d-g/#eugenol) from [Lavanga](/nighantu/herb/lavanga/) (clove) and warming herbs dilute thick mucus in the lungs, soothe airways, and facilitate expectoration of respiratory secretions
-- Anti-inflammatory throat and lung action: Combined eugenol, gingerols, and [piperine](/nighantu/reference/piperine/) reduce inflammation in the throat, bronchi, and lung tissue, easing pain and preventing pus formation
-- [Antimicrobial](/nighantu/reference/antimicrobial/) defense: Eugenol, piperine, and [catechins](/nighantu/glossary/compounds-c-d/#catechins) from [Khadira](/nighantu/herb/khadira/) provide broad-spectrum antimicrobial activity against respiratory pathogens (Streptococcus mutans, Staphylococcus aureus)
-- Kapha dissolution: Hot potency (Ushna Virya) of [Trikatu](/nighantu/herb/trikatu/) and clove targets Kapha imbalances in the respiratory tract, easing cough, cold, and congestion
-- [Immunomodulatory](/nighantu/reference/immunomodulatory/) action: Combined ingredients demonstrate antiallergic and immunomodulatory properties, supporting immune defense against respiratory infections
+- [Expectorant](/reference/expectorant/) and mucolytic: [Eugenol](/glossary/compounds-d-g/#eugenol) from [Lavanga](/herb/lavanga/) (clove) and warming herbs dilute thick mucus in the lungs, soothe airways, and facilitate expectoration of respiratory secretions
+- Anti-inflammatory throat and lung action: Combined eugenol, gingerols, and [piperine](/reference/piperine/) reduce inflammation in the throat, bronchi, and lung tissue, easing pain and preventing pus formation
+- [Antimicrobial](/reference/antimicrobial/) defense: Eugenol, piperine, and [catechins](/glossary/compounds-c-d/#catechins) from [Khadira](/herb/khadira/) provide broad-spectrum antimicrobial activity against respiratory pathogens (Streptococcus mutans, Staphylococcus aureus)
+- Kapha dissolution: Hot potency (Ushna Virya) of [Trikatu](/herb/trikatu/) and clove targets Kapha imbalances in the respiratory tract, easing cough, cold, and congestion
+- [Immunomodulatory](/reference/immunomodulatory/) action: Combined ingredients demonstrate antiallergic and immunomodulatory properties, supporting immune defense against respiratory infections
 
 ## Which traditional uses are supported by research?
 
 - Cough and respiratory infection management validated through demonstrated antimicrobial activity against S. mutans and S. aureus and immunomodulatory properties
 - Throat irritation and sore throat relief validated through demulcent, anti-inflammatory, and expectorant mechanisms
-- Oral health (dental pain, oral infections) validated through eugenol's well-established [analgesic](/nighantu/reference/analgesic/) and antimicrobial properties
+- Oral health (dental pain, oral infections) validated through eugenol's well-established [analgesic](/reference/analgesic/) and antimicrobial properties
 - Kapha-related respiratory congestion validated through mucolytic and warming mechanisms of combined heating ingredients
 
 ## What do recent clinical trials show?
@@ -70,7 +70,7 @@ Sharangdhara Samhita (Madhyama Khanda); also described in Bhaishajya Ratnavali (
 
 **Standard Dosage:** 1-2 tablets to dissolve in mouth
 
-**Bioavailability:** Tablet/pill form provides controlled disintegration; some vatis use honey/[guggulu](/nighantu/formulation/guggulu/) as bioenhancing binders
+**Bioavailability:** Tablet/pill form provides controlled disintegration; some vatis use honey/[guggulu](/formulation/guggulu/) as bioenhancing binders
 
 **Optimal Timing:** Before or after meals as indicated
 
@@ -78,7 +78,7 @@ Sharangdhara Samhita (Madhyama Khanda); also described in Bhaishajya Ratnavali (
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
-**Marker Compounds:** Eugenol, [Cineole](/nighantu/glossary/compounds-c-d/#cineole)
+**Marker Compounds:** Eugenol, [Cineole](/glossary/compounds-c-d/#cineole)
 
 **Quality Parameters:** Weight variation ±5%, disintegration <30 min, friability <1%, marker: Eugenol, Cineole
 
@@ -86,4 +86,4 @@ Sharangdhara Samhita (Madhyama Khanda); also described in Bhaishajya Ratnavali (
 
 ### Synergistic Combinations
 
-- Key herbs: [Lavanga](/nighantu/herb/lavanga/) (clove), Karpura, [Jatiphala](/nighantu/herb/jatiphala/)
+- Key herbs: [Lavanga](/herb/lavanga/) (clove), Karpura, [Jatiphala](/herb/jatiphala/)

@@ -28,31 +28,31 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Sala/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Bergenin](/nighantu/glossary/compounds-a-c/#bergenin)
+- [Bergenin](/glossary/compounds-a-c/#bergenin)
 - Ursolic acid
-- [Lupeol](/nighantu/reference/lupeol/)
+- [Lupeol](/reference/lupeol/)
 - Beta-caryophyllene
 - Alpha-amyrin
 - Beta-amyrin
 - Caryophyllene oxide
-- Amyrins (pentacyclic [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids))
+- Amyrins (pentacyclic [triterpenoids](/glossary/compounds-t-z/#triterpenoids))
 - Ashoresinol
-- Hopeaphenol ([resveratrol](/nighantu/glossary/compounds-q-t/#resveratrolresveratrol) tetramer)
+- Hopeaphenol ([resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol) tetramer)
 - Shoreaphenol
-- [Stearic acid](/nighantu/glossary/compounds-q-t/#stearic-acidstearic-acid) (seed oil)
+- [Stearic acid](/glossary/compounds-q-t/#stearic-acidstearic-acid) (seed oil)
 
 ## How does it work?
 
 - Anti-inflammatory action via triterpenoid-mediated inhibition of NF-kB and reduction of pro-inflammatory cytokines (TNF-alpha, IL-6)
 - Wound healing through bergenin-mediated stimulation of collagen synthesis, fibroblast proliferation and angiogenesis
-- [Antidiabetic](/nighantu/reference/antidiabetic/) activity via alpha-amylase/alpha-glucosidase inhibition and enhancement of GLUT4 translocation by ursolic acid
-- [Immunomodulatory](/nighantu/reference/immunomodulatory/) effects through modulation of macrophage activation and cytokine balance
+- [Antidiabetic](/reference/antidiabetic/) activity via alpha-amylase/alpha-glucosidase inhibition and enhancement of GLUT4 translocation by ursolic acid
+- [Immunomodulatory](/reference/immunomodulatory/) effects through modulation of macrophage activation and cytokine balance
 
 ## Which traditional uses are supported by research?
 
 - Wound healing use validated through excision wound models with significantly accelerated closure and improved histological markers
 - Anti-inflammatory activity confirmed in carrageenan-induced paw edema and cotton pellet granuloma models
-- [Antipyretic](/nighantu/reference/antipyretic/) activity confirmed in Brewer's yeast-induced fever model in rodents
+- [Antipyretic](/reference/antipyretic/) activity confirmed in Brewer's yeast-induced fever model in rodents
 - Antibacterial properties validated against common wound pathogens including S. aureus and E. coli
 
 ## What do recent clinical trials show?
@@ -90,11 +90,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Sala/meta-analysis.md"
 - Aqueous decoction of bark
 - Resin collection by tapping (Sal resin/Ral)
 - Soxhlet extraction with ethyl acetate for triterpenoid enrichment
-- Cold maceration in [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)
+- Cold maceration in [sesame oil](/glossary/concepts-m-y/#tila-taila)
 
 ### Synergistic Combinations
 
-- [Lodhra](/nighantu/herb/lodhra/) (astringent synergy for gynecological conditions)
-- [Ashoka](/nighantu/herb/ashoka/) (uterine tonic formulations)
-- [Arjuna](/nighantu/herb/arjuna/) (wound healing combinations)
-- [Shallaki](/nighantu/herb/shallaki/) (anti-inflammatory and bone-support formulations)
+- [Lodhra](/herb/lodhra/) (astringent synergy for gynecological conditions)
+- [Ashoka](/herb/ashoka/) (uterine tonic formulations)
+- [Arjuna](/herb/arjuna/) (wound healing combinations)
+- [Shallaki](/herb/shallaki/) (anti-inflammatory and bone-support formulations)

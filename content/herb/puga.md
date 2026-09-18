@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Mens-Health-Vitality/Puga/meta-analysis.md"
 
 **Standard Dosage:** 1-2 g processed nut powder daily; 500 mg standardized extract daily; traditional chewing: small piece (1-2 g) after meals. CAUTION: restricted dose due to arecoline content
 
-**Bioavailability:** Arecoline (primary alkaloid) from Areca catechu (Puga/Supari) has high oral bioavailability (>70%) with rapid buccal and GI absorption. Arecoline is a muscarinic agonist with parasympathomimetic activity. [Tannins](/nighantu/reference/tannins/) ([catechin](/nighantu/reference/catechin/), [epicatechin](/nighantu/glossary/compounds-d-g/#epicatechin)) have moderate oral bioavailability (15-30%). [Procyanidins](/nighantu/glossary/compounds-o-q/#procyanidins) are partially absorbed and undergo colonic bacterial metabolism. Buccal absorption during chewing provides rapid onset of action.
+**Bioavailability:** Arecoline (primary alkaloid) from Areca catechu (Puga/Supari) has high oral bioavailability (>70%) with rapid buccal and GI absorption. Arecoline is a muscarinic agonist with parasympathomimetic activity. [Tannins](/reference/tannins/) ([catechin](/reference/catechin/), [epicatechin](/glossary/compounds-d-g/#epicatechin)) have moderate oral bioavailability (15-30%). [Procyanidins](/glossary/compounds-o-q/#procyanidins) are partially absorbed and undergo colonic bacterial metabolism. Buccal absorption during chewing provides rapid onset of action.
 
 **Optimal Timing:** Traditional: small piece after meals for digestive stimulation. Not recommended for regular/prolonged use. Any therapeutic use should be under qualified practitioner supervision.
 
@@ -62,8 +62,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Mens-Health-Vitality/Puga/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Lavanga](/nighantu/herb/lavanga/)/Clove (digestive and mouth freshener)
+- [Lavanga](/herb/lavanga/)/Clove (digestive and mouth freshener)
 - Ela/Cardamom (carminative combination)
-- [Khadira](/nighantu/herb/khadira/)/Catechu (astringent and oral health)
-- [Jatiphala](/nighantu/herb/jatiphala/)/Nutmeg (digestive after-meal combination)
-- [Haritaki](/nighantu/herb/haritaki/) (digestive and anthelmintic synergy)
+- [Khadira](/herb/khadira/)/Catechu (astringent and oral health)
+- [Jatiphala](/herb/jatiphala/)/Nutmeg (digestive after-meal combination)
+- [Haritaki](/herb/haritaki/) (digestive and anthelmintic synergy)

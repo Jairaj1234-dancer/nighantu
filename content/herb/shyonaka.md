@@ -28,37 +28,37 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shyonaka/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Baicalein](/nighantu/glossary/compounds-a-c/#baicalein)
-- [Chrysin](/nighantu/glossary/compounds-c-d/#chrysin)
+- [Baicalein](/glossary/compounds-a-c/#baicalein)
+- [Chrysin](/glossary/compounds-c-d/#chrysin)
 - Oroxylin A
 - Baicalein-7-O-diglucoside (Oroxylin B)
-- [Scutellarein](/nighantu/glossary/compounds-q-t/#scutellarein)
+- [Scutellarein](/glossary/compounds-q-t/#scutellarein)
 - Ellagic acid
-- [Biochanin-A](/nighantu/glossary/compounds-a-c/#biochanin-a)
+- [Biochanin-A](/glossary/compounds-a-c/#biochanin-a)
 - Tetuin
-- Aloe-[emodin](/nighantu/glossary/compounds-d-g/#emodin)
+- Aloe-[emodin](/glossary/compounds-d-g/#emodin)
 - Gallic acid
-- [Catechin](/nighantu/reference/catechin/)
+- [Catechin](/reference/catechin/)
 - Ferulic acid
-- [Quercetin](/nighantu/reference/quercetinquercetin/)
-- [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin)
+- [Quercetin](/reference/quercetinquercetin/)
+- [Apigenin](/glossary/compounds-1-a/#apigenin)
 
 ## How does it work?
 
-- [Neuroprotective](/nighantu/reference/neuroprotective/) mechanism through multi-target approach: inhibition of beta-amyloid aggregation, acetylcholinesterase inhibition, and modulation of tau phosphorylation pathways
+- [Neuroprotective](/reference/neuroprotective/) mechanism through multi-target approach: inhibition of beta-amyloid aggregation, acetylcholinesterase inhibition, and modulation of tau phosphorylation pathways
 - Anti-inflammatory activity mediated by baicalein and chrysin through suppression of NF-kB pathway and inhibition of COX-2 and pro-inflammatory cytokine expression
-- [Anticancer](/nighantu/reference/anticancer/) mechanism involving induction of apoptosis via mitochondrial pathway and inhibition of cell proliferation signaling cascades
+- [Anticancer](/reference/anticancer/) mechanism involving induction of apoptosis via mitochondrial pathway and inhibition of cell proliferation signaling cascades
 
 ## Which traditional uses are supported by research?
 
 - Anti-inflammatory and anti-arthritic properties confirmed through in vivo studies on both root bark and stem bark, validating classical use in Vataroga
-- [Hepatoprotective](/nighantu/reference/hepatoprotective/) activity validated through experimental models demonstrating restoration of liver [enzymes](/nighantu/glossary/compounds-d-g/#enzymes), supporting its traditional use in liver disorders
-- [Antimicrobial](/nighantu/reference/antimicrobial/) spectrum confirmed against multiple pathogens, validating traditional topical applications for wound infections and skin diseases
+- [Hepatoprotective](/reference/hepatoprotective/) activity validated through experimental models demonstrating restoration of liver [enzymes](/glossary/compounds-d-g/#enzymes), supporting its traditional use in liver disorders
+- [Antimicrobial](/reference/antimicrobial/) spectrum confirmed against multiple pathogens, validating traditional topical applications for wound infections and skin diseases
 
 ## What do recent clinical trials show?
 
 - Summat R, Waiwut P, Daodee S and others 2025. [Phytomedicine Potential of Oroxylum indicum Root and Its Constituents: Targeting Alzheimer's Disease](https://pubmed.ncbi.nlm.nih.gov/39861577/). *Plants (Basel, Switzerland)*. PMID [39861577](https://pubmed.ncbi.nlm.nih.gov/39861577/) · [doi:10.3390/plants14020223](https://doi.org/10.3390/plants14020223)  
-  Root extract and key constituents (baicalein, chrysin, oroxylin A) inhibited beta-amyloid aggregation and acetylcholinesterase activity, with potent [antioxidant](/nighantu/reference/antioxidant/) modulation of [proteins](/nighantu/glossary/compounds-o-q/#proteins) implicated in amyloidogenesis and tau phosphorylation.
+  Root extract and key constituents (baicalein, chrysin, oroxylin A) inhibited beta-amyloid aggregation and acetylcholinesterase activity, with potent [antioxidant](/reference/antioxidant/) modulation of [proteins](/glossary/compounds-o-q/#proteins) implicated in amyloidogenesis and tau phosphorylation.
 - Thrigulla SR, Singh G, Soni H and others 2024. [In-silico evaluation of Oroxylum indicum vent compounds in the plausible treatment and prevention of nasopharyngeal cancer](https://pubmed.ncbi.nlm.nih.gov/38805854/). *Journal of Ayurveda and integrative medicine*. PMID [38805854](https://pubmed.ncbi.nlm.nih.gov/38805854/) · [doi:10.1016/j.jaim.2024.100986](https://doi.org/10.1016/j.jaim.2024.100986)  
   Molecular docking studies identified promising compounds against nasopharyngeal carcinoma targets, including both Epstein-Barr virus and cancer cell proliferation pathways.
 
@@ -66,7 +66,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shyonaka/meta-analysis.md"
 
 ## Recent safety updates
 
-- Generally regarded as safe at traditional Ayurvedic doses; used extensively as part of [Dashamoola](/nighantu/herb/dashamoola/) for centuries with no documented serious adverse effects
+- Generally regarded as safe at traditional Ayurvedic doses; used extensively as part of [Dashamoola](/herb/dashamoola/) for centuries with no documented serious adverse effects
 - Preclinical toxicity data supports safety at therapeutic doses; baicalein and chrysin have favorable safety profiles in available studies, though human clinical trial data remains limited
 
 ## What is it made of?
@@ -90,17 +90,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shyonaka/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g bark powder per day; 50-100 mL kwatha twice daily; 500-1000 mg extract capsule twice daily; 15-30 mL arishta after meals
 
-**Bioavailability:** Flavonoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) (baicalein, chrysin, oroxylin A) show moderate to good oral bioavailability (30-45%). Baicalein has relatively high bioavailability due to favorable lipophilicity and minimal efflux by P-glycoprotein. Oroxylin A undergoes glucuronidation, but the glucuronide is bioactive. Co-administration with [piperine](/nighantu/reference/piperine/) enhances bioavailability by 1.5-2x.
+**Bioavailability:** Flavonoid [glycosides](/glossary/compounds-g-l/#glycosides) (baicalein, chrysin, oroxylin A) show moderate to good oral bioavailability (30-45%). Baicalein has relatively high bioavailability due to favorable lipophilicity and minimal efflux by P-glycoprotein. Oroxylin A undergoes glucuronidation, but the glucuronide is bioactive. Co-administration with [piperine](/reference/piperine/) enhances bioavailability by 1.5-2x.
 
 **Optimal Timing:** After meals with warm water; traditionally as part of Dashmool kwatha taken warm for Vata-Kapha disorders
 
-**Standardized Extract:** Bark extract (8:1 in 65% ethanol), standardized to NLT 5% total [flavonoids](/nighantu/reference/flavonoids/) (as baicalein equivalents by HPLC); NLT 1% oroxylin A; NLT 0.5% chrysin
+**Standardized Extract:** Bark extract (8:1 in 65% ethanol), standardized to NLT 5% total [flavonoids](/reference/flavonoids/) (as baicalein equivalents by HPLC); NLT 1% oroxylin A; NLT 0.5% chrysin
 
 **Shelf Life:** 24 months for churna; 36 months for standardized extract capsules; indefinite for properly fermented Arishta
 
 **Storage:** Store below 25 deg C in airtight, light-protected containers. Flavonoids are photosensitive — use amber packaging. Arishta in glass bottles.
 
-**Marker Compounds:** Baicalein, Oroxylin A, Chrysin, Biochanin A, Tetuin, Ellagic acid, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+**Marker Compounds:** Baicalein, Oroxylin A, Chrysin, Biochanin A, Tetuin, Ellagic acid, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 
 ### Extraction Methods
 
@@ -113,7 +113,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shyonaka/meta-analysis.md"
 ### Synergistic Combinations
 
 - Dashmool components (classical anti-inflammatory formulation)
-- [Bilva](/nighantu/herb/bilva/) (Vatahara and anti-diarrheal synergy)
-- [Gambhari](/nighantu/herb/gambhari/) (Brihat Panchamula formulation)
-- [Patala](/nighantu/herb/patala/) (complementary Dashmool herb)
-- [Agnimantha](/nighantu/herb/agnimantha/) (Brihat Panchamula — anti-inflammatory)
+- [Bilva](/herb/bilva/) (Vatahara and anti-diarrheal synergy)
+- [Gambhari](/herb/gambhari/) (Brihat Panchamula formulation)
+- [Patala](/herb/patala/) (complementary Dashmool herb)
+- [Agnimantha](/herb/agnimantha/) (Brihat Panchamula — anti-inflammatory)

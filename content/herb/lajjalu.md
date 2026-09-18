@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Lajjalu/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g powder per day in divided doses; 50-100 mL decoction twice daily; 10-20 mL fresh juice
 
-**Bioavailability:** Moderate oral bioavailability; [tannins](/nighantu/reference/tannins/) and [flavonoids](/nighantu/reference/flavonoids/) are absorbed in the upper GI tract. Mimosine undergoes partial hepatic first-pass metabolism. Co-administration with [piperine](/nighantu/reference/piperine/) or lipid-based carriers can improve absorption of flavonoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) by 25-40%.
+**Bioavailability:** Moderate oral bioavailability; [tannins](/reference/tannins/) and [flavonoids](/reference/flavonoids/) are absorbed in the upper GI tract. Mimosine undergoes partial hepatic first-pass metabolism. Co-administration with [piperine](/reference/piperine/) or lipid-based carriers can improve absorption of flavonoid [glycosides](/glossary/compounds-g-l/#glycosides) by 25-40%.
 
 **Optimal Timing:** Before meals for GI indications; with meals for systemic anti-inflammatory effects; topical application 2-3 times daily on affected area
 
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Lajjalu/meta-analysis.md"
 
 **Storage:** Store below 25 deg C in airtight, light-resistant containers. Protect from moisture (relative humidity below 60%). Liquid extracts require refrigeration at 2-8 deg C after opening.
 
-**Marker Compounds:** Mimosine, Gallic acid, [Quercetin](/nighantu/reference/quercetinquercetin/), [Stigmasterol](/nighantu/reference/stigmasterol/), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin), D-pinitol
+**Marker Compounds:** Mimosine, Gallic acid, [Quercetin](/reference/quercetinquercetin/), [Stigmasterol](/reference/stigmasterol/), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Apigenin](/glossary/compounds-1-a/#apigenin), D-pinitol
 
 ### Extraction Methods
 
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Lajjalu/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Ashwagandha](/nighantu/herb/ashwagandha/) (stress and wound healing)
-- [Haridra](/nighantu/herb/haridra/) (anti-inflammatory synergy)
-- [Guduchi](/nighantu/herb/guduchi/) ([immunomodulatory](/nighantu/reference/immunomodulatory/) potentiation)
-- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (gastroprotective combination)
+- [Ashwagandha](/herb/ashwagandha/) (stress and wound healing)
+- [Haridra](/herb/haridra/) (anti-inflammatory synergy)
+- [Guduchi](/herb/guduchi/) ([immunomodulatory](/reference/immunomodulatory/) potentiation)
+- [Yashtimadhu](/herb/yashtimadhu/) (gastroprotective combination)

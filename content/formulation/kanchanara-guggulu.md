@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Kanchanara-G
 
 | Language | Name |
 |----------|------|
-| English | Kanchanara [Guggulu](/nighantu/formulation/guggulu/)|Kanchanara Guggulu |
+| English | Kanchanara [Guggulu](/formulation/guggulu/)|Kanchanara Guggulu |
 
 ## Where is it described in the classical texts?
 
@@ -31,11 +31,11 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also described in Bhaishajya 
 
 ## How does it work?
 
-- Thyroid function modulation: Kanchanara bark contains [flavonoids](/nighantu/reference/flavonoids/) that balance Kapha dosha and reduce Medha Dhatu (adipose tissue), removing obstruction through Lekhana (scraping) action to normalize thyroid function
-- Anti-tumor and anti-proliferative: Guggulsterones and [quercetin](/nighantu/reference/quercetinquercetin/) derivatives inhibit cell proliferation pathways, showing potential against benign tumors, cysts, and abnormal tissue growths (Granthi)
-- Anti-inflammatory and decongestant: Combined action of [Triphala](/nighantu/herb/triphala/) antioxidants and guggulsterone-mediated NF-kB inhibition reduces glandular swelling and lymphatic congestion
-- Metabolic correction: [Trikatu](/nighantu/herb/trikatu/) enhances metabolic fire (Agni), while Kanchanara bark's Kashaya (astringent) properties reduce pathological tissue accumulation
-- Aldose reductase inhibition: [Quercetin](/nighantu/reference/quercetinquercetin/) pentaacetate identified via molecular docking shows strong inhibition of aldose reductase, relevant to metabolic and diabetic complications
+- Thyroid function modulation: Kanchanara bark contains [flavonoids](/reference/flavonoids/) that balance Kapha dosha and reduce Medha Dhatu (adipose tissue), removing obstruction through Lekhana (scraping) action to normalize thyroid function
+- Anti-tumor and anti-proliferative: Guggulsterones and [quercetin](/reference/quercetinquercetin/) derivatives inhibit cell proliferation pathways, showing potential against benign tumors, cysts, and abnormal tissue growths (Granthi)
+- Anti-inflammatory and decongestant: Combined action of [Triphala](/herb/triphala/) antioxidants and guggulsterone-mediated NF-kB inhibition reduces glandular swelling and lymphatic congestion
+- Metabolic correction: [Trikatu](/herb/trikatu/) enhances metabolic fire (Agni), while Kanchanara bark's Kashaya (astringent) properties reduce pathological tissue accumulation
+- Aldose reductase inhibition: [Quercetin](/reference/quercetinquercetin/) pentaacetate identified via molecular docking shows strong inhibition of aldose reductase, relevant to metabolic and diabetic complications
 
 ## Which traditional uses are supported by research?
 
@@ -47,7 +47,7 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also described in Bhaishajya 
 ## What do recent clinical trials show?
 
 - Kulkarni SP, Parwe S 2024. [Evaluation of Comparative Efficacy of Levothyroxine Versus Kshar Basti and Kanchanar Guggul in the Treatment of Hypothyroidism: Protocol for a Randomized Controlled Trial](https://pubmed.ncbi.nlm.nih.gov/39255475/). *JMIR research protocols*. PMID [39255475](https://pubmed.ncbi.nlm.nih.gov/39255475/) · [doi:10.2196/57287](https://doi.org/10.2196/57287)  
-  RCT protocol registered comparing [Kanchanar](/nighantu/herb/kanchanar/) Guggul with levothyroxine for hypothyroidism; enrollment began June 2024 with data analysis expected December 2025 and results by early 2026.
+  RCT protocol registered comparing [Kanchanar](/herb/kanchanar/) Guggul with levothyroxine for hypothyroidism; enrollment began June 2024 with data analysis expected December 2025 and results by early 2026.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
@@ -67,11 +67,11 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also described in Bhaishajya 
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** [Guggulu](/nighantu/formulation/guggulu/) (resinous pill/tablet), Modern compressed tablet, Capsule (modern)
+**Dosage Forms:** [Guggulu](/formulation/guggulu/) (resinous pill/tablet), Modern compressed tablet, Capsule (modern)
 
 **Standard Dosage:** 250-500 mg twice or thrice daily with warm water, as per AFI Part I
 
-**Bioavailability:** [Guggulu](/nighantu/formulation/guggulu/) acts as yogavahi enhancing systemic delivery of Kanchanara flavonoids and [Varuna](/nighantu/herb/varuna/) [lupeol](/nighantu/reference/lupeol/). [Piperine](/nighantu/reference/piperine/) from [Trikatu](/nighantu/herb/trikatu/) enhances absorption. Kanchanara bark [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) are well-absorbed in guggulu matrix. Targets thyroid and lymphatic tissues.
+**Bioavailability:** [Guggulu](/formulation/guggulu/) acts as yogavahi enhancing systemic delivery of Kanchanara flavonoids and [Varuna](/herb/varuna/) [lupeol](/reference/lupeol/). [Piperine](/reference/piperine/) from [Trikatu](/herb/trikatu/) enhances absorption. Kanchanara bark [polyphenols](/glossary/compounds-o-q/#polyphenols) are well-absorbed in guggulu matrix. Targets thyroid and lymphatic tissues.
 
 **Optimal Timing:** After meals, twice or thrice daily, for Galaganda (goiter/thyroid), Gandamala (lymph nodes), and Granthi (cysts/tumors)
 
@@ -79,7 +79,7 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also described in Bhaishajya 
 
 **Storage:** Store in airtight containers in a cool, dry place. Temperature not exceeding 30°C.
 
-**Marker Compounds:** Z-Guggulsterone, E-Guggulsterone, Lupeol (from [Varuna](/nighantu/herb/varuna/)), Gallic acid, Piperine, Kaempferol (from Kanchanara)
+**Marker Compounds:** Z-Guggulsterone, E-Guggulsterone, Lupeol (from [Varuna](/herb/varuna/)), Gallic acid, Piperine, Kaempferol (from Kanchanara)
 
 **Quality Parameters:** Weight variation (±5%), hardness, friability (<1%), disintegration time (<45 min), moisture (<6%), Z/E-guggulsterone content by HPLC, gallic acid, piperine, HPTLC fingerprint, microbial limits, heavy metals
 
@@ -87,7 +87,7 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also described in Bhaishajya 
 
 ### Synergistic Combinations
 
-- [Varunadi Kwath](/nighantu/glossary/concepts-m-y/#varunadi-kwath)
-- [Chandraprabha](/nighantu/herb/chandraprabha/) Vati
-- [Arogyavardhini Vati](/nighantu/formulation/arogyavardhini-vati/)
-- [Triphala](/nighantu/herb/triphala/) Guggulu
+- [Varunadi Kwath](/glossary/concepts-m-y/#varunadi-kwath)
+- [Chandraprabha](/herb/chandraprabha/) Vati
+- [Arogyavardhini Vati](/formulation/arogyavardhini-vati/)
+- [Triphala](/herb/triphala/) Guggulu

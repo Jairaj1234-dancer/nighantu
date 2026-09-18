@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jambu-Beeja/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | [Jambu](/nighantu/herb/jambu/) Beeja |
+| English | [Jambu](/herb/jambu/) Beeja |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -40,17 +40,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jambu-Beeja/meta-analysis.md"
 
 **Standard Dosage:** 3-6g seed kernel powder twice daily with water before meals; 500mg-1g standardized extract
 
-**Bioavailability:** Syzygium cumini seed kernel ([Jambu](/nighantu/herb/jambu/)-Beeja specifically refers to the seed/seed kernel). Active compounds including [jamboline](/nighantu/glossary/compounds-g-l/#jamboline), [ellagitannins](/nighantu/glossary/compounds-d-g/#ellagitannins), and gallic acid. Gallic acid has moderate bioavailability (~30%). Ellagitannins are converted to ellagic acid and subsequently to urolithins by gut microbiota. Seed kernel fractions show better blood [glucose](/nighantu/glossary/compounds-d-g/#glucose)-lowering activity than whole seed preparations, suggesting higher concentration of active principles.
+**Bioavailability:** Syzygium cumini seed kernel ([Jambu](/herb/jambu/)-Beeja specifically refers to the seed/seed kernel). Active compounds including [jamboline](/glossary/compounds-g-l/#jamboline), [ellagitannins](/glossary/compounds-d-g/#ellagitannins), and gallic acid. Gallic acid has moderate bioavailability (~30%). Ellagitannins are converted to ellagic acid and subsequently to urolithins by gut microbiota. Seed kernel fractions show better blood [glucose](/glossary/compounds-d-g/#glucose)-lowering activity than whole seed preparations, suggesting higher concentration of active principles.
 
 **Optimal Timing:** 30 minutes before meals with water for blood sugar management
 
-**Standardized Extract:** Seed kernel aqueous extract standardized to minimum 15% [tannins](/nighantu/reference/tannins/) (gallic acid equivalent); hydroalcoholic extract standardized to 1% ellagic acid
+**Standardized Extract:** Seed kernel aqueous extract standardized to minimum 15% [tannins](/reference/tannins/) (gallic acid equivalent); hydroalcoholic extract standardized to 1% ellagic acid
 
 **Shelf Life:** 2 years (powder); 3 years (standardized extract capsule/tablet)
 
 **Storage:** Cool, dry place below 25°C, protected from moisture. Airtight containers essential due to hygroscopic nature of tannins.
 
-**Marker Compounds:** Gallic acid, Ellagic acid, Jamboline, [Corilagin](/nighantu/glossary/compounds-c-d/#corilagin), 3,6-HHDP glucose, Chebulagic acid
+**Marker Compounds:** Gallic acid, Ellagic acid, Jamboline, [Corilagin](/glossary/compounds-c-d/#corilagin), 3,6-HHDP glucose, Chebulagic acid
 
 ### Extraction Methods
 
@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jambu-Beeja/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Gudmar](/nighantu/herb/gudmar/) for enhanced anti-hyperglycemic action
-- With [Methi](/nighantu/herb/methi/) (fenugreek) seeds for diabetes management
-- With [Neem](/nighantu/herb/neem/) for metabolic support
-- With [Vijaysar](/nighantu/herb/vijaysar/) for blood sugar regulation
+- With [Gudmar](/herb/gudmar/) for enhanced anti-hyperglycemic action
+- With [Methi](/herb/methi/) (fenugreek) seeds for diabetes management
+- With [Neem](/herb/neem/) for metabolic support
+- With [Vijaysar](/herb/vijaysar/) for blood sugar regulation

@@ -32,13 +32,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Devadaru/meta-analysis.m
 - Alpha-himachalene
 - Beta-himachalene
 - Gamma-himachalene
-- [Taxifolin](/nighantu/glossary/compounds-t-z/#taxifolin) (dihydroquercetin)
+- [Taxifolin](/glossary/compounds-t-z/#taxifolin) (dihydroquercetin)
 - Cedrusone A
 - Deodarin
 - Cedeodarin
 - Cedrin
 - Alpha-terpineol
-- [Limonene](/nighantu/glossary/compounds-g-l/#limonene)
+- [Limonene](/glossary/compounds-g-l/#limonene)
 - Isopimaric acid
 - Wikstromol (lignan)
 
@@ -46,26 +46,26 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Devadaru/meta-analysis.m
 
 - Spasmolytic activity of himachalol via non-specific smooth muscle relaxation similar to papaverine (calcium channel antagonism)
 - Anti-inflammatory action through flavonoid-mediated (taxifolin) inhibition of COX-2, LOX, and NF-kB signaling pathways
-- [Neuroprotective](/nighantu/reference/neuroprotective/) effects via [antioxidant](/nighantu/reference/antioxidant/)-mediated reduction of oxidative stress in neuronal cells and modulation of neurotransmitter levels
-- [Antimicrobial](/nighantu/reference/antimicrobial/) activity through essential oil [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids) disrupting microbial cell membrane integrity
+- [Neuroprotective](/reference/neuroprotective/) effects via [antioxidant](/reference/antioxidant/)-mediated reduction of oxidative stress in neuronal cells and modulation of neurotransmitter levels
+- [Antimicrobial](/reference/antimicrobial/) activity through essential oil [terpenoids](/glossary/compounds-t-z/#terpenoids) disrupting microbial cell membrane integrity
 
 ## Which traditional uses are supported by research?
 
 - Anti-inflammatory and anti-arthritic use validated in carrageenan-induced paw edema and Freund's adjuvant models
-- [Diuretic](/nighantu/reference/diuretic/) and antiurolithiatic effects confirmed in ethylene glycol-induced urolithiasis models in rats
+- [Diuretic](/reference/diuretic/) and antiurolithiatic effects confirmed in ethylene glycol-induced urolithiasis models in rats
 - Antifungal activity validated against Aspergillus fumigatus and dermatophyte species using essential oil
 - Respiratory ailment use supported by bronchodilatory and antiasthmatic activity in preclinical models
 
 ## What do recent clinical trials show?
 
 - Bisht A, Jain S, Misra A and others 2021. [Cedrus deodara (Roxb. ex D.Don) G.Don: A review of traditional use, phytochemical composition and pharmacology](https://pubmed.ncbi.nlm.nih.gov/34166738/). *Journal of ethnopharmacology*. PMID [34166738](https://pubmed.ncbi.nlm.nih.gov/34166738/) · [doi:10.1016/j.jep.2021.114361](https://doi.org/10.1016/j.jep.2021.114361)  
-  Confirmed taxifolin and deodarin as major bark [flavonoids](/nighantu/reference/flavonoids/) with potent antioxidant and anti-inflammatory properties; wood essential oil showed significant [analgesic](/nighantu/reference/analgesic/) effects.
+  Confirmed taxifolin and deodarin as major bark [flavonoids](/reference/flavonoids/) with potent antioxidant and anti-inflammatory properties; wood essential oil showed significant [analgesic](/reference/analgesic/) effects.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
-- Non-toxic and non-irritating to rabbit and sheep skin in dermal studies; no adverse effects on blood urea nitrogen or blood [glucose](/nighantu/glossary/compounds-d-g/#glucose) levels at tested doses
+- Non-toxic and non-irritating to rabbit and sheep skin in dermal studies; no adverse effects on blood urea nitrogen or blood [glucose](/glossary/compounds-d-g/#glucose) levels at tested doses
 - Mode of action, efficacy, optimal dose range and long-term safety in humans require further investigation; essential oil should be used in diluted form to avoid skin sensitization
 
 ## What is it made of?
@@ -96,7 +96,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Devadaru/meta-analysis.m
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction twice daily; 500mg extract capsule twice daily; Taila for external application
 
-**Bioavailability:** Cedrus deodara heartwood contains sesquiterpenes (himachalenes) and terpenoids with moderate lipophilicity. Oral bioavailability of sesquiterpenes is moderate (15-30%) with hepatic first-pass metabolism. Taila preparations enhance absorption of lipophilic terpenoids through lymphatic uptake. Volatile oil components absorbed well from GI tract but rapidly metabolized. Enhancement: cyclodextrin complexation improves aqueous solubility of himachalenes; co-administration with [Trikatu](/nighantu/herb/trikatu/) enhances absorption.
+**Bioavailability:** Cedrus deodara heartwood contains sesquiterpenes (himachalenes) and terpenoids with moderate lipophilicity. Oral bioavailability of sesquiterpenes is moderate (15-30%) with hepatic first-pass metabolism. Taila preparations enhance absorption of lipophilic terpenoids through lymphatic uptake. Volatile oil components absorbed well from GI tract but rapidly metabolized. Enhancement: cyclodextrin complexation improves aqueous solubility of himachalenes; co-administration with [Trikatu](/herb/trikatu/) enhances absorption.
 
 **Optimal Timing:** After meals with warm water for respiratory conditions; Taila application with gentle massage for joint disorders, preferably in the evening
 
@@ -118,8 +118,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Devadaru/meta-analysis.m
 
 ### Synergistic Combinations
 
-- With [Guggulu](/nighantu/formulation/guggulu/) for anti-inflammatory and anti-arthritic synergy
-- With [Rasna](/nighantu/herb/rasna/) for Vata-Kapha joint disorders
-- With [Eranda](/nighantu/herb/eranda/) Taila for external application in musculoskeletal pain
-- With [Nirgundi](/nighantu/herb/nirgundi/) for analgesic enhancement
-- With [Haridra](/nighantu/herb/haridra/) for anti-inflammatory potentiation
+- With [Guggulu](/formulation/guggulu/) for anti-inflammatory and anti-arthritic synergy
+- With [Rasna](/herb/rasna/) for Vata-Kapha joint disorders
+- With [Eranda](/herb/eranda/) Taila for external application in musculoskeletal pain
+- With [Nirgundi](/herb/nirgundi/) for analgesic enhancement
+- With [Haridra](/herb/haridra/) for anti-inflammatory potentiation

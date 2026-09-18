@@ -28,26 +28,26 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bharangi/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- D-[Mannitol](/nighantu/glossary/compounds-l-o/#mannitolmannitol)
-- [Hispidulin](/nighantu/glossary/compounds-g-l/#hispidulin)
-- [Acteoside](/nighantu/glossary/compounds-1-a/#acteoside) ([verbascoside](/nighantu/glossary/compounds-t-z/#verbascoside))
+- D-[Mannitol](/glossary/compounds-l-o/#mannitolmannitol)
+- [Hispidulin](/glossary/compounds-g-l/#hispidulin)
+- [Acteoside](/glossary/compounds-1-a/#acteoside) ([verbascoside](/glossary/compounds-t-z/#verbascoside))
 - Serratumin A
 - Oleanolic acid
-- [Scutellarein](/nighantu/glossary/compounds-q-t/#scutellarein)
-- Alpha-[spinasterol](/nighantu/glossary/compounds-q-t/#spinasterol)
+- [Scutellarein](/glossary/compounds-q-t/#scutellarein)
+- Alpha-[spinasterol](/glossary/compounds-q-t/#spinasterol)
 - Clerodermic acid
 
 ## How does it work?
 
-- Anti-asthmatic: [Saponins](/nighantu/reference/saponins/) and [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids) inhibit mast cell degranulation, reduce IgE levels, and suppress Th2 cytokine (IL-4, IL-5, IL-13) production
+- Anti-asthmatic: [Saponins](/reference/saponins/) and [terpenoids](/glossary/compounds-t-z/#terpenoids) inhibit mast cell degranulation, reduce IgE levels, and suppress Th2 cytokine (IL-4, IL-5, IL-13) production
 - Anti-inflammatory: Oleanolic acid and hispidulin inhibit 5-LOX and COX-2, reducing leukotriene and prostaglandin synthesis
-- [Hepatoprotective](/nighantu/reference/hepatoprotective/): Acteoside and [flavonoids](/nighantu/reference/flavonoids/) scavenge hepatic free radicals and restore glutathione levels in damaged liver tissue
+- [Hepatoprotective](/reference/hepatoprotective/): Acteoside and [flavonoids](/reference/flavonoids/) scavenge hepatic free radicals and restore glutathione levels in damaged liver tissue
 
 ## Which traditional uses are supported by research?
 
 - Anti-asthmatic use (Shwasa-Kasahara) validated through ovalbumin-induced asthma model showing reduction in bronchial inflammation and IgE
 - Anti-inflammatory use for joint disorders confirmed by significant inhibition of carrageenan-induced edema
-- Hepatoprotective traditional use supported by normalization of liver [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) in CCl4-induced hepatotoxicity models
+- Hepatoprotective traditional use supported by normalization of liver [enzymes](/glossary/compounds-d-g/#enzymes) in CCl4-induced hepatotoxicity models
 
 ## What do recent clinical trials show?
 
@@ -84,7 +84,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bharangi/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction; 500mg extract capsule; traditionally 1-3g with honey for respiratory conditions
 
-**Bioavailability:** Hispidulin and related flavonoids show moderate oral bioavailability (25-40%). Clerodane [diterpenes](/nighantu/glossary/compounds-d-g/#diterpenes) have good lipophilicity favoring absorption. Administration with honey (traditional Anupana for Kapha disorders) enhances mucosal absorption and provides additional [antimicrobial](/nighantu/reference/antimicrobial/) synergy. [Piperine](/nighantu/reference/piperine/) co-administration can enhance diterpene absorption.
+**Bioavailability:** Hispidulin and related flavonoids show moderate oral bioavailability (25-40%). Clerodane [diterpenes](/glossary/compounds-d-g/#diterpenes) have good lipophilicity favoring absorption. Administration with honey (traditional Anupana for Kapha disorders) enhances mucosal absorption and provides additional [antimicrobial](/reference/antimicrobial/) synergy. [Piperine](/reference/piperine/) co-administration can enhance diterpene absorption.
 
 **Optimal Timing:** Before meals with honey for respiratory conditions; with warm water for anti-inflammatory effects; twice daily for chronic conditions
 
@@ -94,7 +94,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bharangi/meta-analysis.md"
 
 **Storage:** Cool, dry place away from light. Airtight containers for powder. Tablets in blister packs to protect from moisture.
 
-**Marker Compounds:** Hispidulin, Scutellarein-7-glucuronide, Bharangin (clerodane diterpene), Clerosterol, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Ursolic acid, Oleanolic acid
+**Marker Compounds:** Hispidulin, Scutellarein-7-glucuronide, Bharangin (clerodane diterpene), Clerosterol, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Ursolic acid, Oleanolic acid
 
 ### Extraction Methods
 
@@ -105,8 +105,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bharangi/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Kantakari](/nighantu/herb/kantakari/) for bronchial asthma and respiratory disorders
-- With [Vasa](/nighantu/herb/vasa/) (Adhatoda) for productive cough
-- With [Tulsi](/nighantu/herb/tulsi/) for upper respiratory infections
-- With [Pippali](/nighantu/herb/pippali/) for enhanced bioavailability and Kapha reduction
-- With [Haridra](/nighantu/herb/haridra/) for anti-allergic formulations
+- With [Kantakari](/herb/kantakari/) for bronchial asthma and respiratory disorders
+- With [Vasa](/herb/vasa/) (Adhatoda) for productive cough
+- With [Tulsi](/herb/tulsi/) for upper respiratory infections
+- With [Pippali](/herb/pippali/) for enhanced bioavailability and Kapha reduction
+- With [Haridra](/herb/haridra/) for anti-allergic formulations

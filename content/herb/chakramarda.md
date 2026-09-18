@@ -24,29 +24,29 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Chakramarda/meta-analysis.md"
 | Language | Name |
 |----------|------|
 | English | Chakramarda |
-| Latin/Botanical | *Cassia tora L. (syn. [Senna](/nighantu/herb/senna/) tora)* |
+| Latin/Botanical | *Cassia tora L. (syn. [Senna](/herb/senna/) tora)* |
 
 ## Key Phytochemical Constituents
 
-- [Chrysophanol](/nighantu/glossary/compounds-c-d/#chrysophanol) (anthraquinone - primary antifungal)
-- [Emodin](/nighantu/glossary/compounds-d-g/#emodin) (anthraquinone with anti-inflammatory and antifungal activity)
-- [Physcion](/nighantu/glossary/compounds-o-q/#physcion) (anthraquinone)
-- Obtusin and aurantio-obtusin (anthraquinone [glycosides](/nighantu/glossary/compounds-g-l/#glycosides))
-- [Rhein](/nighantu/glossary/compounds-q-t/#rhein) (anthraquinone)
+- [Chrysophanol](/glossary/compounds-c-d/#chrysophanol) (anthraquinone - primary antifungal)
+- [Emodin](/glossary/compounds-d-g/#emodin) (anthraquinone with anti-inflammatory and antifungal activity)
+- [Physcion](/glossary/compounds-o-q/#physcion) (anthraquinone)
+- Obtusin and aurantio-obtusin (anthraquinone [glycosides](/glossary/compounds-g-l/#glycosides))
+- [Rhein](/glossary/compounds-q-t/#rhein) (anthraquinone)
 - 1-Desmethylaurantio-obtusin
 - Toralactone (naphtho-pyranone)
 - Rubrofusarin (naphthoquinone)
 
 ## How does it work?
 
-- Anthraquinone antifungal mechanism: Chrysophanol and emodin disrupt fungal cell membrane integrity by interfering with [ergosterol](/nighantu/glossary/compounds-d-g/#ergosterol) biosynthesis, leading to fungal cell lysis and death - particularly effective against ringworm (Microsporon, Trichophyton) species
+- Anthraquinone antifungal mechanism: Chrysophanol and emodin disrupt fungal cell membrane integrity by interfering with [ergosterol](/glossary/compounds-d-g/#ergosterol) biosynthesis, leading to fungal cell lysis and death - particularly effective against ringworm (Microsporon, Trichophyton) species
 - Emodin anti-inflammatory NF-kB pathway: Emodin suppresses NF-kB activation and reduces pro-inflammatory cytokine cascade, alleviating inflammatory skin conditions like eczema and dermatitis
-- Chrysophanol antibacterial action: Chrysophanol inhibits bacterial protein synthesis and damages bacterial DNA, providing broad-spectrum [antimicrobial](/nighantu/reference/antimicrobial/) activity against skin pathogens including S. aureus and S. epidermidis
-- Toralactone [antioxidant](/nighantu/reference/antioxidant/) protection: Naphtho-pyranone compounds scavenge free radicals and reduce oxidative stress in skin tissues, supporting overall skin health
+- Chrysophanol antibacterial action: Chrysophanol inhibits bacterial protein synthesis and damages bacterial DNA, providing broad-spectrum [antimicrobial](/reference/antimicrobial/) activity against skin pathogens including S. aureus and S. epidermidis
+- Toralactone [antioxidant](/reference/antioxidant/) protection: Naphtho-pyranone compounds scavenge free radicals and reduce oxidative stress in skin tissues, supporting overall skin health
 
 ## Which traditional uses are supported by research?
 
-- Ringworm treatment (Dadru): Validated by isolation of potent antifungal [anthraquinones](/nighantu/glossary/compounds-1-a/#anthraquinones) (chrysophanol, emodin, physcion) with 4-8 fold higher activity than crude extract against T. mentagrophyte
+- Ringworm treatment (Dadru): Validated by isolation of potent antifungal [anthraquinones](/glossary/compounds-1-a/#anthraquinones) (chrysophanol, emodin, physcion) with 4-8 fold higher activity than crude extract against T. mentagrophyte
 - Skin fungal infections (Kushtha): Validated by demonstrated broad-spectrum antifungal activity against Microsporon nanum, Candida albicans, and other dermatophytes
 - Eczema and inflammatory skin conditions: Supported by emodin-mediated anti-inflammatory NF-kB suppression
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Chakramarda/meta-analysis.md"
 
 ## Recent safety updates
 
-- Anthraquinone-containing preparations may cause contact dermatitis in sensitive individuals. Seeds contain anthraquinone glycosides with [laxative](/nighantu/reference/laxative/) effects - oral use should be dose-controlled to avoid gastrointestinal disturbance
+- Anthraquinone-containing preparations may cause contact dermatitis in sensitive individuals. Seeds contain anthraquinone glycosides with [laxative](/reference/laxative/) effects - oral use should be dose-controlled to avoid gastrointestinal disturbance
 - Limited formal toxicology data available for topical dermatological applications. Traditional use indicates safety for external application on skin fungal infections. Not recommended for prolonged internal use due to anthraquinone content
 
 ## What is it made of?
@@ -105,8 +105,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Chakramarda/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Karanja](/nighantu/herb/karanja/) (Pongamia) for antifungal skin formulations
-- With [Haridra](/nighantu/herb/haridra/) for ringworm and dermatophytosis
-- With [Daruharidra](/nighantu/herb/daruharidra/) for skin infections
-- With [Neem](/nighantu/herb/neem/) oil for comprehensive antifungal topicals
-- With [Bakuchi](/nighantu/herb/bakuchi/) for vitiligo and skin depigmentation
+- With [Karanja](/herb/karanja/) (Pongamia) for antifungal skin formulations
+- With [Haridra](/herb/haridra/) for ringworm and dermatophytosis
+- With [Daruharidra](/herb/daruharidra/) for skin infections
+- With [Neem](/herb/neem/) oil for comprehensive antifungal topicals
+- With [Bakuchi](/herb/bakuchi/) for vitiligo and skin depigmentation

@@ -29,22 +29,22 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Vrikshamla/meta-analysis
 ## Key Phytochemical Constituents
 
 - Hydroxycitric acid (HCA)
-- [Garcinol](/nighantu/glossary/compounds-d-g/#garcinol) (polyisoprenylated benzophenone)
+- [Garcinol](/glossary/compounds-d-g/#garcinol) (polyisoprenylated benzophenone)
 - Isogarcinol
 - Cyanidin-3-sambubioside
-- Cyanidin-3-glucoside ([anthocyanins](/nighantu/glossary/compounds-1-a/#anthocyanins))
+- Cyanidin-3-glucoside ([anthocyanins](/glossary/compounds-1-a/#anthocyanins))
 - Hydroxycitric acid lactone
-- [Citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid)
+- [Citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid)
 - Cambogic acid
 - Xanthochymol
-- Kokum butter ([stearic acid](/nighantu/glossary/compounds-q-t/#stearic-acidstearic-acid)-rich fat)
+- Kokum butter ([stearic acid](/glossary/compounds-q-t/#stearic-acidstearic-acid)-rich fat)
 
 ## How does it work?
 
 - Anti-obesity action via HCA-mediated inhibition of ATP-citrate lyase (ACL), blocking de novo fatty acid synthesis and suppressing appetite
-- [Anticancer](/nighantu/reference/anticancer/) activity via garcinol-mediated HAT inhibition, NF-kB suppression and induction of apoptosis through mitochondrial pathway
+- [Anticancer](/reference/anticancer/) activity via garcinol-mediated HAT inhibition, NF-kB suppression and induction of apoptosis through mitochondrial pathway
 - Anti-inflammatory effects through garcinol-mediated inhibition of COX-2, iNOS, NF-kB and STAT3 signaling cascades
-- [Cardioprotective](/nighantu/reference/cardioprotective/) action via [antioxidant](/nighantu/reference/antioxidant/) phenolics protecting against lipid peroxidation and endothelial dysfunction
+- [Cardioprotective](/reference/cardioprotective/) action via [antioxidant](/reference/antioxidant/) phenolics protecting against lipid peroxidation and endothelial dysfunction
 
 ## Which traditional uses are supported by research?
 
@@ -56,7 +56,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Vrikshamla/meta-analysis
 ## What do recent clinical trials show?
 
 - Lim SH, Lee HS, Lee CH and others 2021. [Pharmacological Activity of Garcinia indica (Kokum): An Updated Review](https://pubmed.ncbi.nlm.nih.gov/34959738/). *Pharmaceuticals (Basel, Switzerland)*. PMID [34959738](https://pubmed.ncbi.nlm.nih.gov/34959738/) · [doi:10.3390/ph14121338](https://doi.org/10.3390/ph14121338)  
-  Updated review confirmed antioxidant, anti-obesity, anti-arthritic, anti-inflammatory, antibacterial, [hepatoprotective](/nighantu/reference/hepatoprotective/), cardioprotective, antidepressant and [anxiolytic](/nighantu/reference/anxiolytic/) effects attributed to garcinol and HCA.
+  Updated review confirmed antioxidant, anti-obesity, anti-arthritic, anti-inflammatory, antibacterial, [hepatoprotective](/reference/hepatoprotective/), cardioprotective, antidepressant and [anxiolytic](/reference/anxiolytic/) effects attributed to garcinol and HCA.
 - van Breemen RB, Roe AL, Akhtar N 2025. [Hepatotoxicity of dietary supplements containing Garcinia gummi-gutta (L.) N. Robson](https://pubmed.ncbi.nlm.nih.gov/41262061/). *Pharmaceutical biology*. PMID [41262061](https://pubmed.ncbi.nlm.nih.gov/41262061/) · [doi:10.1080/13880209.2025.2591467](https://doi.org/10.1080/13880209.2025.2591467)  
   Systematic review identified 34 case reports of hepatotoxicity including 1 death and 9 liver transplants from Garcinia cambogia supplements; proposed HLA-B*35:01 genetic predisposition mechanism. Note: This primarily relates to G. cambogia but cross-contamination risk exists with G. indica.
 
@@ -93,7 +93,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Vrikshamla/meta-analysis
 
 **Standard Dosage:** 500 mg-1.5 g fruit rind powder or standardized extract twice daily before meals; 250-500 mg HCA (hydroxycitric acid) twice daily for weight management
 
-**Bioavailability:** (-)-Hydroxycitric acid (HCA), the primary bioactive, has good oral bioavailability (~50-60%) as a water-soluble organic acid. Calcium and [potassium](/nighantu/glossary/compounds-o-q/#potassium) salts of HCA have better stability and bioavailability than free HCA. HCA inhibits ATP-citrate lyase and is rapidly absorbed from the GI tract (Tmax 1-2 hours). Garcinol (polyisoprenylated benzophenone) has low oral bioavailability (<10%) due to poor solubility and extensive metabolism; nanoparticle formulations improve this 5-8 fold.
+**Bioavailability:** (-)-Hydroxycitric acid (HCA), the primary bioactive, has good oral bioavailability (~50-60%) as a water-soluble organic acid. Calcium and [potassium](/glossary/compounds-o-q/#potassium) salts of HCA have better stability and bioavailability than free HCA. HCA inhibits ATP-citrate lyase and is rapidly absorbed from the GI tract (Tmax 1-2 hours). Garcinol (polyisoprenylated benzophenone) has low oral bioavailability (<10%) due to poor solubility and extensive metabolism; nanoparticle formulations improve this 5-8 fold.
 
 **Optimal Timing:** 30-60 minutes before meals for weight management (HCA acts on appetite and lipogenesis); avoid on empty stomach if GI-sensitive
 
@@ -103,7 +103,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Vrikshamla/meta-analysis
 
 **Storage:** Store in airtight containers at 15-25 deg C, protected from moisture and heat. HCA salts more stable than free acid. Avoid storage above 30 deg C to prevent lactonization. Protect from humidity (HCA salts are hygroscopic).
 
-**Marker Compounds:** (-)-Hydroxycitric acid (HCA), Garcinol, Isogarcinol, Xanthochymol, Isoxanthochymol, [Citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid), Camboginol, Guttiferone
+**Marker Compounds:** (-)-Hydroxycitric acid (HCA), Garcinol, Isogarcinol, Xanthochymol, Isoxanthochymol, [Citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid), Camboginol, Guttiferone
 
 ### Extraction Methods
 
@@ -115,8 +115,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Vrikshamla/meta-analysis
 
 ### Synergistic Combinations
 
-- [Triphala](/nighantu/herb/triphala/) - digestive and metabolic synergy for weight management
-- [Guggulu](/nighantu/formulation/guggulu/) - lipid-lowering combination
-- Meshashringi/[Gudmar](/nighantu/herb/gudmar/) (Gymnema sylvestre) - appetite control and glycemic management
-- [Trikatu](/nighantu/herb/trikatu/) - bioenhancer and thermogenic combination
+- [Triphala](/herb/triphala/) - digestive and metabolic synergy for weight management
+- [Guggulu](/formulation/guggulu/) - lipid-lowering combination
+- Meshashringi/[Gudmar](/herb/gudmar/) (Gymnema sylvestre) - appetite control and glycemic management
+- [Trikatu](/herb/trikatu/) - bioenhancer and thermogenic combination
 - Green tea extract - complementary thermogenic and lipogenic inhibition

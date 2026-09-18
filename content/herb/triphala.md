@@ -47,12 +47,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Triphala/meta-analysis.md"
 - Chebulagic acid
 - Ellagic acid
 - Vitamin C
-- [Tannins](/nighantu/reference/tannins/)
+- [Tannins](/reference/tannins/)
 
 ## Therapeutic Actions (Karma)
 
-- Mild [laxative](/nighantu/reference/laxative/)
-- [Antioxidant](/nighantu/reference/antioxidant/)
+- Mild [laxative](/reference/laxative/)
+- [Antioxidant](/reference/antioxidant/)
 - Anti-inflammatory
 - Immunomodulator
 - Eye tonic
@@ -60,7 +60,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Triphala/meta-analysis.md"
 
 ## How does it work?
 
-- Rich in [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) (gallic acid, chebulagic acid, chebulinic acid, ellagic acid), vitamin C, and [flavonoids](/nighantu/reference/flavonoids/) providing antioxidant and anti-inflammatory effects.
+- Rich in [polyphenols](/glossary/compounds-o-q/#polyphenols) (gallic acid, chebulagic acid, chebulinic acid, ellagic acid), vitamin C, and [flavonoids](/reference/flavonoids/) providing antioxidant and anti-inflammatory effects.
 - Polyphenols modulate gut microbiota: promote Bifidobacterium and Lactobacillus, inhibit E. coli, lower Firmicutes-to-Bacteroidetes ratio, increase Akkermansia muciniphila.
 - Triphala-derived polyphenols (chebulinic/ellagic acids) are biotransformed by gut microbiota into urolithins, which modulate inflammation and prevent oxidative injury of enterocytes.
 - Activates phenylalanine, tyrosine, and tryptophan biosynthesis pathways regulating energy metabolism.
@@ -69,7 +69,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Triphala/meta-analysis.md"
 
 ## How is it used traditionally?
 
-Most famous Ayurvedic compound. Charaka says Triphala Rasayana can make one live 100 years free of disease. Each fruit corresponds to a dosha: [Haritaki](/nighantu/herb/haritaki/)=Vata, [Bibhitaki](/nighantu/herb/bibhitaki/)=Kapha, Amalaki=Pitta.
+Most famous Ayurvedic compound. Charaka says Triphala Rasayana can make one live 100 years free of disease. Each fruit corresponds to a dosha: [Haritaki](/herb/haritaki/)=Vata, [Bibhitaki](/herb/bibhitaki/)=Kapha, Amalaki=Pitta.
 
 ## Where is it described in the classical texts?
 
@@ -93,7 +93,7 @@ Most famous Ayurvedic compound. Charaka says Triphala Rasayana can make one live
 
 ## Recent safety updates
 
-- Triphala inhibits CYP1A and CYP3A [enzymes](/nighantu/glossary/compounds-d-g/#enzymes), increasing bioavailability of phenacetin and midazolam in rat studies. Primarily reversible inhibition.
+- Triphala inhibits CYP1A and CYP3A [enzymes](/glossary/compounds-d-g/#enzymes), increasing bioavailability of phenacetin and midazolam in rat studies. Primarily reversible inhibition.
 - May increase side effects of drugs metabolized by CYP3A4 and CYP2D6 enzymes.
 - Caution advised for patients on blood-thinning medications due to potential effects on platelet function.
 - Safe in clinical trials for durations of 25 days to 1 year, but long-term safety data remain limited.
@@ -123,7 +123,7 @@ Powder (Churna): 3-6g/day before bed with warm water; As eye wash: decoction
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Vati (tablet), Capsule, Kwatha (decoction), [Guggulu](/nighantu/formulation/guggulu/) ([Triphala Guggulu](/nighantu/formulation/triphala-guggulu/)), [Ghrita](/nighantu/herb/ghrita/) (Triphala Ghrita), Eye wash (Triphala Netra Prakshalana), Mouthwash
+**Dosage Forms:** Churna (powder), Vati (tablet), Capsule, Kwatha (decoction), [Guggulu](/formulation/guggulu/) ([Triphala Guggulu](/formulation/triphala-guggulu/)), [Ghrita](/herb/ghrita/) (Triphala Ghrita), Eye wash (Triphala Netra Prakshalana), Mouthwash
 
 **Standard Dosage:** 3-6 g powder at bedtime with warm water; 500 mg-1 g tablet/capsule twice daily; 50-100 mL decoction
 
@@ -137,7 +137,7 @@ Powder (Churna): 3-6g/day before bed with warm water; As eye wash: decoction
 
 **Storage:** Airtight, moisture-proof containers at 15-25 deg C, protected from light. Vitamin C content degrades faster at higher temperatures; cool storage preferred for premium products. Ghrita formulations in glass jars at room temperature.
 
-**Marker Compounds:** Gallic acid, Ellagic acid, Chebulagic acid, Chebulinic acid, [Corilagin](/nighantu/glossary/compounds-c-d/#corilagin), Emblicanin A, Emblicanin B, beta-Glucogallin, Bellericanin
+**Marker Compounds:** Gallic acid, Ellagic acid, Chebulagic acid, Chebulinic acid, [Corilagin](/glossary/compounds-c-d/#corilagin), Emblicanin A, Emblicanin B, beta-Glucogallin, Bellericanin
 
 ### Extraction Methods
 
@@ -151,6 +151,6 @@ Powder (Churna): 3-6g/day before bed with warm water; As eye wash: decoction
 
 - Guggulu (Commiphora mukul) - Triphala Guggulu for musculoskeletal and metabolic conditions
 - Ghrita (ghee) - Triphala Ghrita for ophthalmic applications
-- [Trikatu](/nighantu/herb/trikatu/) - combined digestive and metabolic formula
-- [Loha Bhasma](/nighantu/herb/loha-bhasma/) - Triphala with iron for hematinic action
+- [Trikatu](/herb/trikatu/) - combined digestive and metabolic formula
+- [Loha Bhasma](/herb/loha-bhasma/) - Triphala with iron for hematinic action
 - Honey + Triphala - Kapha-pacifying combination

@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Sanjivani-Vati/meta
 
 | Language | Name |
 |----------|------|
-| English | [Sanjivani Vati](/nighantu/formulation/sanjivani-vati/) |
+| English | [Sanjivani Vati](/formulation/sanjivani-vati/) |
 
 ## Where is it described in the classical texts?
 
@@ -32,17 +32,17 @@ Sharangdhara Samhita (Madhyama Khanda); also described in Charaka Samhita, Sushr
 ## How does it work?
 
 - Ama Pachana (toxin digestion): Katu (pungent) and Tikta (bitter) Rasa with light, sharp, dry qualities and warm potency collectively digest metabolic toxins (Ama) and prevent further formation by correcting Mandagni
-- Diaphoretic [antipyretic](/nighantu/reference/antipyretic/): The formulation induces perspiration, breaks the fever cycle, and reduces body temperature through peripheral vasodilation and enhanced heat dissipation
-- [Antimicrobial](/nighantu/reference/antimicrobial/) defense: [Vidanga](/nighantu/herb/vidanga/) ([embelin](/nighantu/glossary/compounds-d-g/#embelin)), [Vacha](/nighantu/herb/vacha/) (beta-asarone), and [Guduchi](/nighantu/herb/guduchi/) demonstrate activity against Salmonella typhi, H. pylori, and other enteric pathogens
-- Immunomodulation: [Guduchi](/nighantu/herb/guduchi/) (Tinospora cordifolia) as an adaptogen and immunomodulator enhances overall immunity and manages chronic fevers and infections through upregulation of phagocytic activity
-- Toxin neutralization (Vishaghna): Shuddha [Vatsanabha](/nighantu/herb/vatsanabha/) (processed aconite) in micro-doses acts as a powerful Vishaghna (antitoxin) while processed Bhallataka provides antirheumatic and immune-stimulant action
+- Diaphoretic [antipyretic](/reference/antipyretic/): The formulation induces perspiration, breaks the fever cycle, and reduces body temperature through peripheral vasodilation and enhanced heat dissipation
+- [Antimicrobial](/reference/antimicrobial/) defense: [Vidanga](/herb/vidanga/) ([embelin](/glossary/compounds-d-g/#embelin)), [Vacha](/herb/vacha/) (beta-asarone), and [Guduchi](/herb/guduchi/) demonstrate activity against Salmonella typhi, H. pylori, and other enteric pathogens
+- Immunomodulation: [Guduchi](/herb/guduchi/) (Tinospora cordifolia) as an adaptogen and immunomodulator enhances overall immunity and manages chronic fevers and infections through upregulation of phagocytic activity
+- Toxin neutralization (Vishaghna): Shuddha [Vatsanabha](/herb/vatsanabha/) (processed aconite) in micro-doses acts as a powerful Vishaghna (antitoxin) while processed Bhallataka provides antirheumatic and immune-stimulant action
 
 ## Which traditional uses are supported by research?
 
 - Fever management (Jwara Chikitsa) validated through demonstrated diaphoretic and antipyretic mechanisms breaking fever cycle
 - Toxin elimination (Ama Pachana/Vishaghna) validated through antimicrobial activity against Salmonella typhi and H. pylori and cellular-level metabolic correction
 - Gastro-enteritis (Visuchika) management validated through combined antimicrobial, anti-inflammatory, and digestive-correcting actions
-- Immunomodulation validated through [Guduchi](/nighantu/herb/guduchi/)'s demonstrated enhancement of phagocytic activity and adaptive immune response
+- Immunomodulation validated through [Guduchi](/herb/guduchi/)'s demonstrated enhancement of phagocytic activity and adaptive immune response
 
 ## What do recent clinical trials show?
 
@@ -52,7 +52,7 @@ Sharangdhara Samhita (Madhyama Khanda); also described in Charaka Samhita, Sushr
 
 ## Recent safety updates
 
-- Contains Shuddha [Vatsanabha](/nighantu/herb/vatsanabha/) (purified aconite) and Shuddha Bhallataka (purified marking nut) which are toxic in unpurified form - MUST be prepared strictly according to classical Shodhana protocols; use only under qualified Ayurvedic physician supervision
+- Contains Shuddha [Vatsanabha](/herb/vatsanabha/) (purified aconite) and Shuddha Bhallataka (purified marking nut) which are toxic in unpurified form - MUST be prepared strictly according to classical Shodhana protocols; use only under qualified Ayurvedic physician supervision
 - Contraindicated in pregnancy, lactation, and young children; avoid in Pitta-predominant conditions; therapeutic dose must be strictly adhered to; overdose can be dangerous; not for self-medication or OTC purchase; short-term use during acute conditions recommended
 
 ## What is it made of?
@@ -70,7 +70,7 @@ Sharangdhara Samhita (Madhyama Khanda); also described in Charaka Samhita, Sushr
 
 **Standard Dosage:** 1-2 tablets twice daily
 
-**Bioavailability:** Tablet/pill form provides controlled disintegration; some vatis use honey/[guggulu](/nighantu/formulation/guggulu/) as bioenhancing binders
+**Bioavailability:** Tablet/pill form provides controlled disintegration; some vatis use honey/[guggulu](/formulation/guggulu/) as bioenhancing binders
 
 **Optimal Timing:** Before or after meals as indicated
 
@@ -78,7 +78,7 @@ Sharangdhara Samhita (Madhyama Khanda); also described in Charaka Samhita, Sushr
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
-**Marker Compounds:** Embelin, [Tinosporin](/nighantu/glossary/compounds-t-z/#tinosporin), [Piperine](/nighantu/reference/piperine/)
+**Marker Compounds:** Embelin, [Tinosporin](/glossary/compounds-t-z/#tinosporin), [Piperine](/reference/piperine/)
 
 **Quality Parameters:** Weight variation ±5%, disintegration <30 min, friability <1%, marker: Embelin, Tinosporin, Piperine
 
@@ -86,4 +86,4 @@ Sharangdhara Samhita (Madhyama Khanda); also described in Charaka Samhita, Sushr
 
 ### Synergistic Combinations
 
-- Key herbs: [Vidanga](/nighantu/herb/vidanga/), [Guduchi](/nighantu/herb/guduchi/), Shunthi, [Pippali](/nighantu/herb/pippali/), [Vacha](/nighantu/herb/vacha/)
+- Key herbs: [Vidanga](/herb/vidanga/), [Guduchi](/herb/guduchi/), Shunthi, [Pippali](/herb/pippali/), [Vacha](/herb/vacha/)

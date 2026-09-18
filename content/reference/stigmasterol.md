@@ -23,66 +23,66 @@ srcRel: "_Hub/Compounds/Stigmasterol.md"
 
 ## Ayurveda
 
-- [Ashwattha](/nighantu/herb/ashwattha/) — *Ficus religiosa L.*
-- [Bala](/nighantu/herb/bala/) — *Sida cordifolia*
-- [Bala Mool](/nighantu/herb/bala-mool/)
-- [Bhringraj](/nighantu/herb/bhringraj/)
-- [Chitraka Moola](/nighantu/herb/chitraka-moola/)
-- [Chopchini](/nighantu/herb/chopchini/) — *Smilax china L.*
-- [Eranda](/nighantu/herb/eranda/) — *Ricinus communis L.*
-- [Eranda Moola](/nighantu/herb/eranda-moola/)
-- [Gavedhuka](/nighantu/herb/gavedhuka/)
-- [Gorakhmundi](/nighantu/herb/gorakhmundi/) — *Sphaeranthus indicus L.*
-- [Gudmar](/nighantu/herb/gudmar/)
-- [Gudmar Herb](/nighantu/herb/gudmar-herb/)
-- [Ingudi](/nighantu/herb/ingudi/) — *Balanites aegyptiaca (L.) Delile*
-- [Jalapippali](/nighantu/glossary/concepts-a-m/#jalapippali)
-- [Jivanti](/nighantu/herb/jivanti/) — *Leptadenia reticulata (Retz.) Wight & Arn.*
-- [Kadali](/nighantu/herb/kadali/) — *Musa paradisiaca L.*
-- [Kanchanar](/nighantu/herb/kanchanar/) — *Bauhinia variegata L.*
-- [Kapittha](/nighantu/herb/kapittha/) — *Limonia acidissima Groff (syn. Feronia limonia (L.) Swingle)*
-- [Kasheruka](/nighantu/herb/kasheruka/)
-- [Kembuka](/nighantu/herb/kembuka/)
-- [Kokilaksha](/nighantu/herb/kokilaksha/)
-- [Koshataki](/nighantu/herb/koshataki/)
-- [Kovidara](/nighantu/herb/kovidara/) — *Bauhinia purpurea L.*
-- [Kshavaka](/nighantu/herb/kshavaka/) — *Amaranthus spinosus L.*
-- [Kulattha](/nighantu/herb/kulattha/) — *Macrotyloma uniflorum (Lam.) Verdc. (syn. Dolichos biflorus L.)*
-- [Lajjalu](/nighantu/herb/lajjalu/)
-- [Mahabala](/nighantu/herb/mahabala/) — *Sida rhombifolia L.*
-- [Mashaparni](/nighantu/herb/mashaparni/) — *Teramnus labialis (L.f.) Spreng.*
-- [Matsyakshi](/nighantu/herb/matsyakshi/)
-- [Meda](/nighantu/herb/meda/) — *Polygonatum verticillatum (L.) All. / Polygonatum cirrhifolium (Wall.) Royle*
-- [Medasaka](/nighantu/herb/medasaka/)
-- [Mudgaparni](/nighantu/herb/mudgaparni/) — *Phaseolus trilobus Ait. (syn. Vigna trilobata (L.) Verdc.)*
-- [Nagabala](/nighantu/herb/nagabala/) — *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
-- [Nagadanti](/nighantu/herb/nagadanti/)
-- [Padmaka](/nighantu/herb/padmaka/) — *Prunus cerasoides D. Don*
-- [Pashanabheda](/nighantu/herb/pashanabheda/)
-- [Patala](/nighantu/herb/patala/)
-- [Patola](/nighantu/herb/patola/)
-- [Prasarini](/nighantu/herb/prasarini/) — *Paederia foetida L.*
-- [Putranjivaka](/nighantu/herb/putranjivaka/)
-- [Rasna](/nighantu/herb/rasna/) — *Pluchea lanceolata (DC.) Oliv. & Hiern / Alpinia galanga (L.) Willd.*
-- [Riddhi](/nighantu/herb/riddhi/) — *Habenaria intermedia D. Don*
-- [Rishabhaka](/nighantu/herb/rishabhaka/) — *Manilkara hexandra (Roxb.) Dubard*
-- [Satina](/nighantu/glossary/concepts-m-y/#satina)
-- [Shvet Musli](/nighantu/herb/shvet-musli/)
-- [Surana](/nighantu/herb/surana/) — *Amorphophallus campanulatus (Roxb.) Blume ex Decne. (syn. Amorphophallus paeoniifolius (Dennst.) Nicolson)*
-- [Udumbara](/nighantu/herb/udumbara/) — *Ficus racemosa Linn.*
-- [Varahikanda](/nighantu/herb/varahikanda/)
-- [Vidari](/nighantu/herb/vidari/)
-- [Vidarikand](/nighantu/herb/vidarikand/) — *Pueraria tuberosa (Willd.) DC.*
+- [Ashwattha](/herb/ashwattha/) — *Ficus religiosa L.*
+- [Bala](/herb/bala/) — *Sida cordifolia*
+- [Bala Mool](/herb/bala-mool/)
+- [Bhringraj](/herb/bhringraj/)
+- [Chitraka Moola](/herb/chitraka-moola/)
+- [Chopchini](/herb/chopchini/) — *Smilax china L.*
+- [Eranda](/herb/eranda/) — *Ricinus communis L.*
+- [Eranda Moola](/herb/eranda-moola/)
+- [Gavedhuka](/herb/gavedhuka/)
+- [Gorakhmundi](/herb/gorakhmundi/) — *Sphaeranthus indicus L.*
+- [Gudmar](/herb/gudmar/)
+- [Gudmar Herb](/herb/gudmar-herb/)
+- [Ingudi](/herb/ingudi/) — *Balanites aegyptiaca (L.) Delile*
+- [Jalapippali](/glossary/concepts-a-m/#jalapippali)
+- [Jivanti](/herb/jivanti/) — *Leptadenia reticulata (Retz.) Wight & Arn.*
+- [Kadali](/herb/kadali/) — *Musa paradisiaca L.*
+- [Kanchanar](/herb/kanchanar/) — *Bauhinia variegata L.*
+- [Kapittha](/herb/kapittha/) — *Limonia acidissima Groff (syn. Feronia limonia (L.) Swingle)*
+- [Kasheruka](/herb/kasheruka/)
+- [Kembuka](/herb/kembuka/)
+- [Kokilaksha](/herb/kokilaksha/)
+- [Koshataki](/herb/koshataki/)
+- [Kovidara](/herb/kovidara/) — *Bauhinia purpurea L.*
+- [Kshavaka](/herb/kshavaka/) — *Amaranthus spinosus L.*
+- [Kulattha](/herb/kulattha/) — *Macrotyloma uniflorum (Lam.) Verdc. (syn. Dolichos biflorus L.)*
+- [Lajjalu](/herb/lajjalu/)
+- [Mahabala](/herb/mahabala/) — *Sida rhombifolia L.*
+- [Mashaparni](/herb/mashaparni/) — *Teramnus labialis (L.f.) Spreng.*
+- [Matsyakshi](/herb/matsyakshi/)
+- [Meda](/herb/meda/) — *Polygonatum verticillatum (L.) All. / Polygonatum cirrhifolium (Wall.) Royle*
+- [Medasaka](/herb/medasaka/)
+- [Mudgaparni](/herb/mudgaparni/) — *Phaseolus trilobus Ait. (syn. Vigna trilobata (L.) Verdc.)*
+- [Nagabala](/herb/nagabala/) — *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
+- [Nagadanti](/herb/nagadanti/)
+- [Padmaka](/herb/padmaka/) — *Prunus cerasoides D. Don*
+- [Pashanabheda](/herb/pashanabheda/)
+- [Patala](/herb/patala/)
+- [Patola](/herb/patola/)
+- [Prasarini](/herb/prasarini/) — *Paederia foetida L.*
+- [Putranjivaka](/herb/putranjivaka/)
+- [Rasna](/herb/rasna/) — *Pluchea lanceolata (DC.) Oliv. & Hiern / Alpinia galanga (L.) Willd.*
+- [Riddhi](/herb/riddhi/) — *Habenaria intermedia D. Don*
+- [Rishabhaka](/herb/rishabhaka/) — *Manilkara hexandra (Roxb.) Dubard*
+- [Satina](/glossary/concepts-m-y/#satina)
+- [Shvet Musli](/herb/shvet-musli/)
+- [Surana](/herb/surana/) — *Amorphophallus campanulatus (Roxb.) Blume ex Decne. (syn. Amorphophallus paeoniifolius (Dennst.) Nicolson)*
+- [Udumbara](/herb/udumbara/) — *Ficus racemosa Linn.*
+- [Varahikanda](/herb/varahikanda/)
+- [Vidari](/herb/vidari/)
+- [Vidarikand](/herb/vidarikand/) — *Pueraria tuberosa (Willd.) DC.*
 
 ## Often Found With
 
-- [Beta-sitosterol](/nighantu/glossary/compounds-a-c/#betasitosterol) (48 shared sources)
-- [Gallic acid](/nighantu/reference/gallic-acid/) (11 shared sources)
-- [Quercetin](/nighantu/reference/quercetinquercetin/) (11 shared sources)
-- [Flavonoids](/nighantu/reference/flavonoids/) (11 shared sources)
-- [Diosgenin](/nighantu/glossary/compounds-d-g/#diosgenin) (10 shared sources)
-- [Lupeol](/nighantu/reference/lupeol/) (10 shared sources)
-- [Kaempferol](/nighantu/reference/kaempferol/) (10 shared sources)
-- [Saponins](/nighantu/reference/saponins/) (8 shared sources)
-- [Tannins](/nighantu/reference/tannins/) (7 shared sources)
-- [Linoleic acid](/nighantu/glossary/compounds-l-o/#linoleic-acid) (6 shared sources)
+- [Beta-sitosterol](/glossary/compounds-a-c/#betasitosterol) (48 shared sources)
+- [Gallic acid](/reference/gallic-acid/) (11 shared sources)
+- [Quercetin](/reference/quercetinquercetin/) (11 shared sources)
+- [Flavonoids](/reference/flavonoids/) (11 shared sources)
+- [Diosgenin](/glossary/compounds-d-g/#diosgenin) (10 shared sources)
+- [Lupeol](/reference/lupeol/) (10 shared sources)
+- [Kaempferol](/reference/kaempferol/) (10 shared sources)
+- [Saponins](/reference/saponins/) (8 shared sources)
+- [Tannins](/reference/tannins/) (7 shared sources)
+- [Linoleic acid](/glossary/compounds-l-o/#linoleic-acid) (6 shared sources)

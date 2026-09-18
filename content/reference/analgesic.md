@@ -23,59 +23,59 @@ srcRel: "_Hub/Pharmacology/Analgesic.md"
 
 ## Ayurveda (109)
 
-- [Agnikarna](/nighantu/herb/agnikarna/) — *Gloriosa superba L. ([Agnikumarika](/nighantu/herb/agnikumarika/)/Agnimukhi); also associated with Litsea species in some texts*
-- [Agnimantha](/nighantu/herb/agnimantha/) — *Premna integrifolia (syn. Clerodendrum phlomidis)*
-- [Ahiphena](/nighantu/herb/ahiphena/) — *Papaver somniferum L.*
-- [Ajwain](/nighantu/herb/ajwain/) — *Trachyspermum ammi*
-- [Akarakarabha](/nighantu/herb/akarakarabha/) — *Anacyclus pyrethrum (L.) Lag.*
-- [Akhuparni](/nighantu/herb/akhuparni/) — *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
-- [Ashoka](/nighantu/herb/ashoka/)
-- [Ashwattha](/nighantu/herb/ashwattha/) — *Ficus religiosa L.*
-- [Asthishrinkhala](/nighantu/herb/asthishrinkhala/) — *Cissus quadrangularis L.*
-- [Bakula](/nighantu/herb/bakula/) — *Mimusops elengi L.*
-- [Bala](/nighantu/herb/bala/) — *Sida cordifolia*
-- [Balarishta](/nighantu/formulation/balarishta/)
-- [Balaswagandhadi Thailam](/nighantu/formulation/balaswagandhadi-thailam/)
-- [Bhanga](/nighantu/herb/bhanga/) — *Cannabis sativa L. / Cannabis indica Lam.*
-- [Bharangi](/nighantu/herb/bharangi/) — *Clerodendrum serratum (L.) Moon*
-- [Bijapura](/nighantu/herb/bijapura/) — *Citrus medica L.*
-- [Bilwa Patra](/nighantu/herb/bilwa-patra/) — *Aegle marmelos (L.) Correa (leaves)*
-- [Brihati](/nighantu/herb/brihati/) — *Solanum indicum L.*
-- [Brihatyadi Kashayam](/nighantu/formulation/brihatyadi-kashayam/)
-- [Camphor](/nighantu/herb/camphor/)
-- [Chandrashura](/nighantu/herb/chandrashura/) — *Lepidium sativum L.*
-- [Dashamoola](/nighantu/herb/dashamoola/) — *Compound: 10 roots (5 large trees + 5 small plants)*
-- [Dashmool Dashmoolarishta](/nighantu/formulation/dashmool-dashmoolarishta/)
-- [Devadaru](/nighantu/herb/devadaru/) — *Cedrus deodara (Roxb. ex D.Don) G.Don*
-- [Dhamasa](/nighantu/herb/dhamasa/) — *Fagonia cretica L. / Fagonia arabica L.*
-- [Dhanwantaram Thailam](/nighantu/formulation/dhanwantaram-thailam/)
-- [Dhanyamla](/nighantu/herb/dhanyamla/) — *Fermented grain formulation (composite - Oryza sativa, Panicum sumatrense, Paspalum scrobiculatum, [Zingiber](/nighantu/herb/zingiber/) officinale, Citrus aurantifolia, etc.)*
-- [Draksharishta](/nighantu/formulation/draksharishta/)
-- [Eranda](/nighantu/herb/eranda/) — *Ricinus communis L.*
-- [Eranda Patra](/nighantu/herb/eranda-patra/) — *Ricinus communis L. (leaves)*
-- [Eucalyptus](/nighantu/herb/eucalyptus/)
-- [Gambhari Phala](/nighantu/herb/gambhari-phala/) — *Gmelina arborea Roxb.*
-- [Gojihva](/nighantu/herb/gojihva/) — *Onosma bracteatum Wall.*
-- [Himasagara Thailam](/nighantu/formulation/himasagara-thailam/)
-- [Himsra](/nighantu/herb/himsra/) — *Capparis spinosa L.*
-- [Hinguleshwar Ras](/nighantu/herb/hinguleshwar-ras/)
-- [Hingwashtak Churna](/nighantu/formulation/hingwashtak-churna/)
+- [Agnikarna](/herb/agnikarna/) — *Gloriosa superba L. ([Agnikumarika](/herb/agnikumarika/)/Agnimukhi); also associated with Litsea species in some texts*
+- [Agnimantha](/herb/agnimantha/) — *Premna integrifolia (syn. Clerodendrum phlomidis)*
+- [Ahiphena](/herb/ahiphena/) — *Papaver somniferum L.*
+- [Ajwain](/herb/ajwain/) — *Trachyspermum ammi*
+- [Akarakarabha](/herb/akarakarabha/) — *Anacyclus pyrethrum (L.) Lag.*
+- [Akhuparni](/herb/akhuparni/) — *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
+- [Ashoka](/herb/ashoka/)
+- [Ashwattha](/herb/ashwattha/) — *Ficus religiosa L.*
+- [Asthishrinkhala](/herb/asthishrinkhala/) — *Cissus quadrangularis L.*
+- [Bakula](/herb/bakula/) — *Mimusops elengi L.*
+- [Bala](/herb/bala/) — *Sida cordifolia*
+- [Balarishta](/formulation/balarishta/)
+- [Balaswagandhadi Thailam](/formulation/balaswagandhadi-thailam/)
+- [Bhanga](/herb/bhanga/) — *Cannabis sativa L. / Cannabis indica Lam.*
+- [Bharangi](/herb/bharangi/) — *Clerodendrum serratum (L.) Moon*
+- [Bijapura](/herb/bijapura/) — *Citrus medica L.*
+- [Bilwa Patra](/herb/bilwa-patra/) — *Aegle marmelos (L.) Correa (leaves)*
+- [Brihati](/herb/brihati/) — *Solanum indicum L.*
+- [Brihatyadi Kashayam](/formulation/brihatyadi-kashayam/)
+- [Camphor](/herb/camphor/)
+- [Chandrashura](/herb/chandrashura/) — *Lepidium sativum L.*
+- [Dashamoola](/herb/dashamoola/) — *Compound: 10 roots (5 large trees + 5 small plants)*
+- [Dashmool Dashmoolarishta](/formulation/dashmool-dashmoolarishta/)
+- [Devadaru](/herb/devadaru/) — *Cedrus deodara (Roxb. ex D.Don) G.Don*
+- [Dhamasa](/herb/dhamasa/) — *Fagonia cretica L. / Fagonia arabica L.*
+- [Dhanwantaram Thailam](/formulation/dhanwantaram-thailam/)
+- [Dhanyamla](/herb/dhanyamla/) — *Fermented grain formulation (composite - Oryza sativa, Panicum sumatrense, Paspalum scrobiculatum, [Zingiber](/herb/zingiber/) officinale, Citrus aurantifolia, etc.)*
+- [Draksharishta](/formulation/draksharishta/)
+- [Eranda](/herb/eranda/) — *Ricinus communis L.*
+- [Eranda Patra](/herb/eranda-patra/) — *Ricinus communis L. (leaves)*
+- [Eucalyptus](/herb/eucalyptus/)
+- [Gambhari Phala](/herb/gambhari-phala/) — *Gmelina arborea Roxb.*
+- [Gojihva](/herb/gojihva/) — *Onosma bracteatum Wall.*
+- [Himasagara Thailam](/formulation/himasagara-thailam/)
+- [Himsra](/herb/himsra/) — *Capparis spinosa L.*
+- [Hinguleshwar Ras](/herb/hinguleshwar-ras/)
+- [Hingwashtak Churna](/formulation/hingwashtak-churna/)
 
 ## Related Body Systems
 
-- [Anti-inflammatory & Pain](/nighantu/reference/antiinflammatory-pain/)
-- [Brain & Nervous System](/nighantu/reference/brain-nervous-system/)
-- [Diabetes & Metabolism](/nighantu/reference/diabetes-metabolism/)
-- [Digestive Health](/nighantu/reference/digestive-health/)
-- [Eye Health](/nighantu/reference/eye-health/)
-- [Fever & Infection](/nighantu/reference/fever-infection/)
-- [Hair Health](/nighantu/glossary/body-systems/#hair-health)
-- [Heart & Cardiovascular](/nighantu/reference/heart-cardiovascular/)
-- [Immune System & Rasayana](/nighantu/reference/immune-system-rasayana/)
-- [Joint & Musculoskeletal](/nighantu/reference/joint-musculoskeletal/)
-- [Kidney & Urinary](/nighantu/reference/kidney-urinary/)
-- [Liver & Detoxification](/nighantu/reference/liver-detoxification/)
-- [Men's Health & Vitality](/nighantu/reference/mens-health-vitality/)
-- [Respiratory Health](/nighantu/reference/respiratory-health/)
-- [Skin & Beauty](/nighantu/reference/skin-beauty/)
-- [Women's Health](/nighantu/reference/womens-health/)
+- [Anti-inflammatory & Pain](/reference/antiinflammatory-pain/)
+- [Brain & Nervous System](/reference/brain-nervous-system/)
+- [Diabetes & Metabolism](/reference/diabetes-metabolism/)
+- [Digestive Health](/reference/digestive-health/)
+- [Eye Health](/reference/eye-health/)
+- [Fever & Infection](/reference/fever-infection/)
+- [Hair Health](/glossary/body-systems/#hair-health)
+- [Heart & Cardiovascular](/reference/heart-cardiovascular/)
+- [Immune System & Rasayana](/reference/immune-system-rasayana/)
+- [Joint & Musculoskeletal](/reference/joint-musculoskeletal/)
+- [Kidney & Urinary](/reference/kidney-urinary/)
+- [Liver & Detoxification](/reference/liver-detoxification/)
+- [Men's Health & Vitality](/reference/mens-health-vitality/)
+- [Respiratory Health](/reference/respiratory-health/)
+- [Skin & Beauty](/reference/skin-beauty/)
+- [Women's Health](/reference/womens-health/)

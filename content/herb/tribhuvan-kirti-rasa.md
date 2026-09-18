@@ -23,18 +23,18 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Tribhuvan-Kirti-Ra
 
 | Language | Name |
 |----------|------|
-| English | [Tribhuvan Kirti Rasa](/nighantu/herb/tribhuvan-kirti-rasa/) |
+| English | [Tribhuvan Kirti Rasa](/herb/tribhuvan-kirti-rasa/) |
 
 ## How does it work?
 
-- [Antipyretic](/nighantu/reference/antipyretic/) action: [Trikatu](/nighantu/herb/trikatu/) ([ginger](/nighantu/herb/ginger/), [black pepper](/nighantu/herb/black-pepper/), long pepper) combination stimulates Agni (digestive fire) and has proven bioactive compounds (gingerols, [piperine](/nighantu/reference/piperine/)) with demonstrated antipyretic and anti-inflammatory effects through COX-2 inhibition
-- Immunostimulatory: [Tulsi](/nighantu/herb/tulsi/) (basil) juice provides [eugenol](/nighantu/glossary/compounds-d-g/#eugenol), ursolic acid, and rosmarinic acid with documented [immunomodulatory](/nighantu/reference/immunomodulatory/), antiviral, and antibacterial properties
-- Diaphoretic action: The combination induces sweating to reduce fever; [Vatsanabha](/nighantu/herb/vatsanabha/) (processed aconite) in micro-doses has [analgesic](/nighantu/reference/analgesic/) and anti-inflammatory effects by modulating sodium channel activity
+- [Antipyretic](/reference/antipyretic/) action: [Trikatu](/herb/trikatu/) ([ginger](/herb/ginger/), [black pepper](/herb/black-pepper/), long pepper) combination stimulates Agni (digestive fire) and has proven bioactive compounds (gingerols, [piperine](/reference/piperine/)) with demonstrated antipyretic and anti-inflammatory effects through COX-2 inhibition
+- Immunostimulatory: [Tulsi](/herb/tulsi/) (basil) juice provides [eugenol](/glossary/compounds-d-g/#eugenol), ursolic acid, and rosmarinic acid with documented [immunomodulatory](/reference/immunomodulatory/), antiviral, and antibacterial properties
+- Diaphoretic action: The combination induces sweating to reduce fever; [Vatsanabha](/herb/vatsanabha/) (processed aconite) in micro-doses has [analgesic](/reference/analgesic/) and anti-inflammatory effects by modulating sodium channel activity
 
 ## Which traditional uses are supported by research?
 
-- Antipyretic in all types of fever (Jvara): The [Trikatu](/nighantu/herb/trikatu/) and [Tulsi](/nighantu/herb/tulsi/) components have well-documented antipyretic and anti-inflammatory properties validated in multiple pharmacological studies; the combined formulation's efficacy in fever is empirically well-established in clinical practice
-- Respiratory infections (Pratishyaya - common cold): The diaphoretic, [antimicrobial](/nighantu/reference/antimicrobial/), and immunostimulatory properties of [Tulsi](/nighantu/herb/tulsi/), [Trikatu](/nighantu/herb/trikatu/), and processed aconite provide a plausible multi-target mechanism for traditional use in upper respiratory infections
+- Antipyretic in all types of fever (Jvara): The [Trikatu](/herb/trikatu/) and [Tulsi](/herb/tulsi/) components have well-documented antipyretic and anti-inflammatory properties validated in multiple pharmacological studies; the combined formulation's efficacy in fever is empirically well-established in clinical practice
+- Respiratory infections (Pratishyaya - common cold): The diaphoretic, [antimicrobial](/reference/antimicrobial/), and immunostimulatory properties of [Tulsi](/herb/tulsi/), [Trikatu](/herb/trikatu/), and processed aconite provide a plausible multi-target mechanism for traditional use in upper respiratory infections
 
 ## What do recent clinical trials show?
 
@@ -44,7 +44,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Tribhuvan-Kirti-Ra
 
 ## Recent safety updates
 
-- CRITICAL: Contains Aconitum ferox ([Vatsanabha](/nighantu/herb/vatsanabha/)), one of the most toxic plants known - even after Shodhana purification, overdose can cause fatal cardiac arrhythmias and neurotoxicity; strict dose adherence is essential
+- CRITICAL: Contains Aconitum ferox ([Vatsanabha](/herb/vatsanabha/)), one of the most toxic plants known - even after Shodhana purification, overdose can cause fatal cardiac arrhythmias and neurotoxicity; strict dose adherence is essential
 - Contains mercury as HgS from Kajjali and cinnabar; dual heavy metal and botanical toxicity risk makes this one of the more hazardous rasa shastra formulations
 - Self-medication is explicitly warned against due to aconite content; severe poisoning and death can result from overdose or improperly purified ingredients
 - No long-term safety clinical trials available; all safety claims are based on traditional practice and extrapolation from related formulation studies
@@ -67,16 +67,16 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Tribhuvan-Kirti-Ra
 
 **Bioavailability:** Good; standard Rasaushadhi with anti-pyretic and anti-infective action
 
-**Optimal Timing:** With honey and [Tulsi](/nighantu/herb/tulsi/) juice; or with Ardrak Swarasa
+**Optimal Timing:** With honey and [Tulsi](/herb/tulsi/) juice; or with Ardrak Swarasa
 
-**Standardized Extract:** Kajjali + Shuddha [Vatsanabha](/nighantu/herb/vatsanabha/) (purified aconite) + anti-infective herbs
+**Standardized Extract:** Kajjali + Shuddha [Vatsanabha](/herb/vatsanabha/) (purified aconite) + anti-infective herbs
 
 **Shelf Life:** Indefinite
 
 **Storage:** Airtight container
 
-**Marker Compounds:** Mercury sulfide, Aconitine derivatives (purified), Piperine, [Trikatu](/nighantu/herb/trikatu/) [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids)
+**Marker Compounds:** Mercury sulfide, Aconitine derivatives (purified), Piperine, [Trikatu](/herb/trikatu/) [alkaloids](/glossary/compounds-1-a/#alkaloids)
 
 **Quality Parameters:** Standard Rasaushadhi tests, free aconitine below safety limits, free mercury <1 ppm
 
-**Vehicle (Anupana):** Honey + [Tulsi](/nighantu/herb/tulsi/) juice (for fever); [ginger](/nighantu/herb/ginger/) juice (for cold)
+**Vehicle (Anupana):** Honey + [Tulsi](/herb/tulsi/) juice (for fever); [ginger](/herb/ginger/) juice (for cold)

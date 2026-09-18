@@ -28,30 +28,30 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Ingudi/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Diosgenin](/nighantu/glossary/compounds-d-g/#diosgenin) (steroidal sapogenin)
-- [Yamogenin](/nighantu/glossary/compounds-t-z/#yamogenin)
+- [Diosgenin](/glossary/compounds-d-g/#diosgenin) (steroidal sapogenin)
+- [Yamogenin](/glossary/compounds-t-z/#yamogenin)
 - Balanitin-6
 - Balanitin-7
-- Furostanol [saponins](/nighantu/reference/saponins/) (24 types identified)
+- Furostanol [saponins](/reference/saponins/) (24 types identified)
 - Phenolic acids
-- [Flavonoids](/nighantu/reference/flavonoids/) (14 identified)
-- [Coumarins](/nighantu/glossary/compounds-c-d/#coumarins)
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- [Flavonoids](/reference/flavonoids/) (14 identified)
+- [Coumarins](/glossary/compounds-c-d/#coumarins)
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 - Polysterols
 - Linoleic acid (seed oil, ~54% unsaturated)
 
 ## How does it work?
 
-- [Anticancer](/nighantu/reference/anticancer/) activity via steroidal saponin (balanitin)-mediated induction of apoptosis and cell cycle arrest in tumor cells
-- [Antidiabetic](/nighantu/reference/antidiabetic/) action through diosgenin-mediated enhancement of insulin sensitivity and beta-cell protection
+- [Anticancer](/reference/anticancer/) activity via steroidal saponin (balanitin)-mediated induction of apoptosis and cell cycle arrest in tumor cells
+- [Antidiabetic](/reference/antidiabetic/) action through diosgenin-mediated enhancement of insulin sensitivity and beta-cell protection
 - Molluscicidal activity through saponin-mediated disruption of snail cell membranes (bilharzia/schistosomiasis vector control)
 - Anti-inflammatory effects via phenolic acid and flavonoid-mediated inhibition of pro-inflammatory mediators
 
 ## Which traditional uses are supported by research?
 
 - Anthelmintic and antiparasitic use validated through molluscicidal and antischistosomal studies
-- Wound healing validated through [antimicrobial](/nighantu/reference/antimicrobial/) and tissue repair promotion studies
-- [Laxative](/nighantu/reference/laxative/) use confirmed through preclinical motility studies
+- Wound healing validated through [antimicrobial](/reference/antimicrobial/) and tissue repair promotion studies
+- [Laxative](/reference/laxative/) use confirmed through preclinical motility studies
 - Skin disease treatment (leprosy, leukoderma) supported by antimicrobial and anti-inflammatory preclinical evidence
 
 ## What do recent clinical trials show?
@@ -90,7 +90,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Ingudi/meta-analysis.md"
 
 **Standard Dosage:** 3-5g seed kernel powder; 5-10ml oil for external application; 1-3g purified seed powder internally
 
-**Bioavailability:** Balanites aegyptiaca (desert date) contains saponins (diosgenin-type), fixed oils, and flavonoids. Diosgenin has moderate oral bioavailability (~15-20%); co-administration with lipids enhances absorption. Saponin [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) are hydrolyzed by gut bacteria to absorbable aglycones. Oil fraction is well absorbed.
+**Bioavailability:** Balanites aegyptiaca (desert date) contains saponins (diosgenin-type), fixed oils, and flavonoids. Diosgenin has moderate oral bioavailability (~15-20%); co-administration with lipids enhances absorption. Saponin [glycosides](/glossary/compounds-g-l/#glycosides) are hydrolyzed by gut bacteria to absorbable aglycones. Oil fraction is well absorbed.
 
 **Optimal Timing:** External oil application morning and evening; internal use under physician guidance only, before meals
 
@@ -100,7 +100,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Ingudi/meta-analysis.md"
 
 **Storage:** Oil: cool place, away from light, in dark glass bottles. Powder: airtight container below 25°C.
 
-**Marker Compounds:** Diosgenin, Yamogenin, Balanitin, Beta-sitosterol, [Stigmasterol](/nighantu/reference/stigmasterol/)
+**Marker Compounds:** Diosgenin, Yamogenin, Balanitin, Beta-sitosterol, [Stigmasterol](/reference/stigmasterol/)
 
 ### Extraction Methods
 
@@ -111,6 +111,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Ingudi/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Eranda](/nighantu/herb/eranda/) Taila for joint pain (external)
-- With [Guggulu](/nighantu/formulation/guggulu/) for anti-inflammatory action
-- With [Nimba](/nighantu/herb/nimba/) for skin conditions
+- With [Eranda](/herb/eranda/) Taila for joint pain (external)
+- With [Guggulu](/formulation/guggulu/) for anti-inflammatory action
+- With [Nimba](/herb/nimba/) for skin conditions

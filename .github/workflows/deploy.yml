@@ -15,8 +15,8 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  ATLAS_SITE: https://jairaj1234-dancer.github.io
-  ATLAS_BASE: /nighantu
+  ATLAS_SITE: https://nighantu.ageayurveda.com
+  ATLAS_BASE: /
 
 jobs:
   build:

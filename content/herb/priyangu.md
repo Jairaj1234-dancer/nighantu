@@ -30,25 +30,25 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Priyangu/meta-analysis.md"
 
 - Calliterpenone (diterpenoid)
 - Calliterpenone monoacetate
-- [Luteolin](/nighantu/glossary/compounds-l-o/#luteolin)
-- [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin)
+- [Luteolin](/glossary/compounds-l-o/#luteolin)
+- [Apigenin](/glossary/compounds-1-a/#apigenin)
 - Ursolic acid
 - Betulinic acid
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 - Luteolin-7-O-glucuronide
 
 ## How does it work?
 
 - Anti-inflammatory: Calliterpenone and luteolin inhibit pro-inflammatory mediators; demonstrated in carrageenan-induced edema models.
 - Uterine tonic action: Traditional Garbhashaya Shodhana (uterine cleansing) attributed to combined terpenoid and flavonoid activity on uterine smooth muscle.
-- [Antipyretic](/nighantu/reference/antipyretic/): Reduces elevated body temperature through prostaglandin synthesis inhibition, comparable to paracetamol in animal models.
-- [Antimicrobial](/nighantu/reference/antimicrobial/): [Flavonoids](/nighantu/reference/flavonoids/) and [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids) disrupt microbial cell membranes; effective against both Gram-positive and Gram-negative bacteria.
-- [Antidiabetic](/nighantu/reference/antidiabetic/): Alpha-glucosidase inhibition and insulin-sensitizing effects demonstrated in preclinical diabetes models.
+- [Antipyretic](/reference/antipyretic/): Reduces elevated body temperature through prostaglandin synthesis inhibition, comparable to paracetamol in animal models.
+- [Antimicrobial](/reference/antimicrobial/): [Flavonoids](/reference/flavonoids/) and [terpenoids](/glossary/compounds-t-z/#terpenoids) disrupt microbial cell membranes; effective against both Gram-positive and Gram-negative bacteria.
+- [Antidiabetic](/reference/antidiabetic/): Alpha-glucosidase inhibition and insulin-sensitizing effects demonstrated in preclinical diabetes models.
 
 ## Which traditional uses are supported by research?
 
 - Anti-inflammatory activity confirmed in carrageenan-induced paw edema models.
-- [Analgesic](/nighantu/reference/analgesic/) activity validated and found comparable to standard analgesics.
+- [Analgesic](/reference/analgesic/) activity validated and found comparable to standard analgesics.
 - Antipyretic effects demonstrated in experimental fever models.
 - Antimicrobial activity confirmed against multiple pathogens.
 - Anti-arthritic potential validated in Freund's adjuvant arthritis model.
@@ -98,20 +98,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Priyangu/meta-analysis.md"
 
 **Storage:** Dried flowers: airtight containers, below 25 deg C, RH <50%, protected from light. Extracts: amber containers, cool and dry. Taila: amber glass, room temperature.
 
-**Marker Compounds:** Betulinic acid, Calliterpenone, [Lupeol](/nighantu/reference/lupeol/), Beta-sitosterol, Ursolic acid, [Quercetin](/nighantu/reference/quercetinquercetin/), [Kaempferol](/nighantu/reference/kaempferol/), Oleanolic acid
+**Marker Compounds:** Betulinic acid, Calliterpenone, [Lupeol](/reference/lupeol/), Beta-sitosterol, Ursolic acid, [Quercetin](/reference/quercetinquercetin/), [Kaempferol](/reference/kaempferol/), Oleanolic acid
 
 ### Extraction Methods
 
 - Hydroalcoholic extraction (60% ethanol) of flowers
 - Aqueous decoction of bark
 - Methanol extraction for betulinic acid isolation
-- Oil infusion of flowers in [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) base
+- Oil infusion of flowers in [sesame oil](/glossary/concepts-m-y/#tila-taila) base
 - Cold maceration for gentle extraction of heat-sensitive flower compounds
 
 ### Synergistic Combinations
 
-- [Ashoka](/nighantu/herb/ashoka/) (uterine health and menorrhagia management)
-- [Lodhra](/nighantu/herb/lodhra/) (astringent and gynecological synergy)
-- [Nagakesara](/nighantu/herb/nagakesara/) (hemorrhagic conditions)
-- [Chandana](/nighantu/herb/chandana/) (complexion-enhancing formulation)
-- [Manjistha](/nighantu/herb/manjistha/) (blood purification and skin health)
+- [Ashoka](/herb/ashoka/) (uterine health and menorrhagia management)
+- [Lodhra](/herb/lodhra/) (astringent and gynecological synergy)
+- [Nagakesara](/herb/nagakesara/) (hemorrhagic conditions)
+- [Chandana](/herb/chandana/) (complexion-enhancing formulation)
+- [Manjistha](/herb/manjistha/) (blood purification and skin health)

@@ -23,20 +23,20 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Hajrul-Yahood-Bhasma
 
 | Language | Name |
 |----------|------|
-| English | [Hajrul Yahood Bhasma](/nighantu/herb/hajrul-yahood-bhasma/) |
+| English | [Hajrul Yahood Bhasma](/herb/hajrul-yahood-bhasma/) |
 
 ## Key Phytochemical Constituents
 
 - Calcium silicate (CaSiO3) as primary constituent
 - Calcium oxide (CaO) from thermal decomposition
-- [Silicon](/nighantu/glossary/compounds-q-t/#silicon) dioxide (SiO2)
-- Trace [magnesium](/nighantu/glossary/compounds-l-o/#magnesium), iron, aluminum
+- [Silicon](/glossary/compounds-q-t/#silicon) dioxide (SiO2)
+- Trace [magnesium](/glossary/compounds-l-o/#magnesium), iron, aluminum
 - Organic compounds from radish/herbal trituration media
 
 ## How does it work?
 
 - Lithontriptic (stone-dissolving) action through calcium silicate-mediated chemical dissolution of calcium oxalate and calcium phosphate kidney stones
-- [Diuretic](/nighantu/reference/diuretic/) action through osmotic and ionic mechanisms, increasing urinary volume and flow to facilitate stone passage from kidneys through ureters
+- [Diuretic](/reference/diuretic/) action through osmotic and ionic mechanisms, increasing urinary volume and flow to facilitate stone passage from kidneys through ureters
 - Anodyne (pain-relieving) action reducing renal colic, observed clinically within 2-3 doses, likely through smooth muscle relaxation in urinary tract
 - Gastroprotective effect through acid neutralization and mucosal protection, demonstrated in clinical trial showing 72% ulcer healing rate
 
@@ -78,7 +78,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Hajrul-Yahood-Bhasma
 
 **Bioavailability:** Good; calcium carbonate form readily absorbed
 
-**Optimal Timing:** With meals; with [Shilajit](/nighantu/herb/shilajit/) or [Gokshura](/nighantu/herb/gokshura/) for urinary disorders
+**Optimal Timing:** With meals; with [Shilajit](/herb/shilajit/) or [Gokshura](/herb/gokshura/) for urinary disorders
 
 **Standardized Extract:** Calcined calcium carbonate (fossil stone) bhasma
 
@@ -86,8 +86,8 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Hajrul-Yahood-Bhasma
 
 **Storage:** Airtight, dry container
 
-**Marker Compounds:** Calcium carbonate, Calcium phosphate, [Silica](/nighantu/glossary/compounds-q-t/#silica)
+**Marker Compounds:** Calcium carbonate, Calcium phosphate, [Silica](/glossary/compounds-q-t/#silica)
 
 **Quality Parameters:** Calcium >30%, standard bhasma tests, no free calcium oxide
 
-**Vehicle (Anupana):** Honey, Gokshuradi Kwatha, or [Varuna](/nighantu/herb/varuna/) Kwatha for urinary calculi
+**Vehicle (Anupana):** Honey, Gokshuradi Kwatha, or [Varuna](/herb/varuna/) Kwatha for urinary calculi

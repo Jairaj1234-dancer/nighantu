@@ -29,21 +29,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mishreya/meta-analysis.md"
 ## Key Phytochemical Constituents
 
 - Trans-anethole (60-90% of essential oil - primary active)
-- [Fenchone](/nighantu/glossary/compounds-d-g/#fenchone)
+- [Fenchone](/glossary/compounds-d-g/#fenchone)
 - Estragole (methyl chavicol)
 - Alpha-pinene
-- [Limonene](/nighantu/glossary/compounds-g-l/#limonene)
-- Beta-[myrcene](/nighantu/glossary/compounds-l-o/#myrcene)
+- [Limonene](/glossary/compounds-g-l/#limonene)
+- Beta-[myrcene](/glossary/compounds-l-o/#myrcene)
 - P-cymene
-- [Camphene](/nighantu/glossary/compounds-a-c/#camphene)
-- [Flavonoids](/nighantu/reference/flavonoids/) ([quercetin](/nighantu/reference/quercetinquercetin/), [kaempferol](/nighantu/reference/kaempferol/))
+- [Camphene](/glossary/compounds-a-c/#camphene)
+- [Flavonoids](/reference/flavonoids/) ([quercetin](/reference/quercetinquercetin/), [kaempferol](/reference/kaempferol/))
 - Phenolic acids (rosmarinic acid, chlorogenic acid)
 
 ## How does it work?
 
-- [Antispasmodic](/nighantu/glossary/pharmacology/#antispasmodic) and carminative mechanism through trans-anethole blocking calcium channels in GI smooth muscle, reducing intestinal spasm and gas-related pain
-- Estrogenic activity mediated by trans-anethole and its polymers (dianethole, photoanethole) acting as weak estrogen receptor agonists, supporting [galactagogue](/nighantu/glossary/pharmacology/#galactagogue) and menstrual regulation properties
-- [Hepatoprotective](/nighantu/reference/hepatoprotective/) mechanism through [antioxidant](/nighantu/reference/antioxidant/)-mediated reduction of hepatic lipid peroxidation and enhancement of glutathione and catalase enzyme levels
+- [Antispasmodic](/glossary/pharmacology/#antispasmodic) and carminative mechanism through trans-anethole blocking calcium channels in GI smooth muscle, reducing intestinal spasm and gas-related pain
+- Estrogenic activity mediated by trans-anethole and its polymers (dianethole, photoanethole) acting as weak estrogen receptor agonists, supporting [galactagogue](/glossary/pharmacology/#galactagogue) and menstrual regulation properties
+- [Hepatoprotective](/reference/hepatoprotective/) mechanism through [antioxidant](/reference/antioxidant/)-mediated reduction of hepatic lipid peroxidation and enhancement of glutathione and catalase enzyme levels
 
 ## Which traditional uses are supported by research?
 
@@ -54,15 +54,15 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mishreya/meta-analysis.md"
 ## What do recent clinical trials show?
 
 - Zahi A, Rani A, Aktary N and others 2025. [Cardiovascular Effects, Phytochemistry, Drug Interactions, and Safety Profile of Foeniculum vulgare Mill. (Fennel): A Comprehensive Review](https://pubmed.ncbi.nlm.nih.gov/41305003/). *Pharmaceuticals (Basel, Switzerland)*. PMID [41305003](https://pubmed.ncbi.nlm.nih.gov/41305003/) · [doi:10.3390/ph18111761](https://doi.org/10.3390/ph18111761)  
-  Comprehensive review documenting [fennel](/nighantu/herb/fennel/)'s cardiovascular effects including [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive), [cardioprotective](/nighantu/reference/cardioprotective/), and vasorelaxant properties, along with detailed drug interaction profiling and safety assessment.
+  Comprehensive review documenting [fennel](/herb/fennel/)'s cardiovascular effects including [antihypertensive](/glossary/pharmacology/#antihypertensive), [cardioprotective](/reference/cardioprotective/), and vasorelaxant properties, along with detailed drug interaction profiling and safety assessment.
 - Badgujar SB, Patel VV, Bandivdekar AH 2014. [Foeniculum vulgare Mill: a review of its botany, phytochemistry, pharmacology, contemporary application, and toxicology](https://pubmed.ncbi.nlm.nih.gov/25162032/). *BioMed research international*. PMID [25162032](https://pubmed.ncbi.nlm.nih.gov/25162032/) · [doi:10.1155/2014/842674](https://doi.org/10.1155/2014/842674)  
-  Updated comprehensive review documenting antispasmodic, anti-inflammatory, [analgesic](/nighantu/reference/analgesic/), hepatoprotective, [diuretic](/nighantu/reference/diuretic/), antioxidant, and [anticancer](/nighantu/reference/anticancer/) activities across traditional medicine systems.
+  Updated comprehensive review documenting antispasmodic, anti-inflammatory, [analgesic](/reference/analgesic/), hepatoprotective, [diuretic](/reference/diuretic/), antioxidant, and [anticancer](/reference/anticancer/) activities across traditional medicine systems.
 
 *1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
-- GRAS (Generally Recognized as Safe) by FDA; however, estragole component has raised genotoxicity concerns - EMA recommends limiting estragole exposure; [fennel](/nighantu/herb/fennel/) products should be standardized for estragole content
+- GRAS (Generally Recognized as Safe) by FDA; however, estragole component has raised genotoxicity concerns - EMA recommends limiting estragole exposure; [fennel](/herb/fennel/) products should be standardized for estragole content
 - Phytoestrogenic effects warrant caution in hormone-sensitive conditions (breast cancer, endometriosis); potential interactions with anticoagulants and ciprofloxacin; allergic cross-reactivity possible in patients with celery/carrot/mugwort allergy (celery-birch-mugwort-spice syndrome)
 
 ## Dosage forms and preparation
@@ -94,9 +94,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mishreya/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Ajwain](/nighantu/herb/ajwain/) (digestive carminative combination)
-- Sunthi/[Ginger](/nighantu/herb/ginger/) (anti-nausea and digestive)
-- Jeera/[Cumin](/nighantu/herb/cumin/) (digestive trio with Ajwain)
+- [Ajwain](/herb/ajwain/) (digestive carminative combination)
+- Sunthi/[Ginger](/herb/ginger/) (anti-nausea and digestive)
+- Jeera/[Cumin](/herb/cumin/) (digestive trio with Ajwain)
 - Shatapushpa/Dill (galactagogue synergy)
-- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (antacid and demulcent)
-- [Pudina](/nighantu/herb/pudina/)/Mint (cooling digestive)
+- [Yashtimadhu](/herb/yashtimadhu/) (antacid and demulcent)
+- [Pudina](/herb/pudina/)/Mint (cooling digestive)

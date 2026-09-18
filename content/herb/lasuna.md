@@ -28,33 +28,33 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lasuna/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Allicin](/nighantu/glossary/compounds-1-a/#allicin) (diallyl thiosulfinate)
+- [Allicin](/glossary/compounds-1-a/#allicin) (diallyl thiosulfinate)
 - Diallyl disulfide (DADS)
 - Diallyl trisulfide (DATS)
-- [Ajoene](/nighantu/glossary/compounds-1-a/#ajoene) (E- and Z- forms)
+- [Ajoene](/glossary/compounds-1-a/#ajoene) (E- and Z- forms)
 - S-allyl cysteine (SAC)
-- [Alliin](/nighantu/glossary/compounds-1-a/#alliin) (S-allyl-L-cysteine sulfoxide)
-- [Selenium](/nighantu/glossary/compounds-q-t/#selenium) (micronutrient)
-- [Quercetin](/nighantu/reference/quercetinquercetin/)
+- [Alliin](/glossary/compounds-1-a/#alliin) (S-allyl-L-cysteine sulfoxide)
+- [Selenium](/glossary/compounds-q-t/#selenium) (micronutrient)
+- [Quercetin](/reference/quercetinquercetin/)
 
 ## How does it work?
 
-- Cardiovascular protective: Allicin and ajoene inhibit platelet aggregation, reduce LDL oxidation, and enhance NO-mediated vasodilation; DADS activates Nrf2-dependent [antioxidant](/nighantu/reference/antioxidant/) pathways
-- [Antimicrobial](/nighantu/reference/antimicrobial/): Allicin disrupts bacterial membranes and inhibits thiol-dependent [enzymes](/nighantu/glossary/compounds-d-g/#enzymes); effective against S. aureus, E. coli, P. aeruginosa, and H. pylori
-- [Anticancer](/nighantu/reference/anticancer/): DATS and ajoene induce G2/M cell cycle arrest, activate intrinsic apoptotic pathway, and inhibit angiogenesis through VEGF suppression
+- Cardiovascular protective: Allicin and ajoene inhibit platelet aggregation, reduce LDL oxidation, and enhance NO-mediated vasodilation; DADS activates Nrf2-dependent [antioxidant](/reference/antioxidant/) pathways
+- [Antimicrobial](/reference/antimicrobial/): Allicin disrupts bacterial membranes and inhibits thiol-dependent [enzymes](/glossary/compounds-d-g/#enzymes); effective against S. aureus, E. coli, P. aeruginosa, and H. pylori
+- [Anticancer](/reference/anticancer/): DATS and ajoene induce G2/M cell cycle arrest, activate intrinsic apoptotic pathway, and inhibit angiogenesis through VEGF suppression
 
 ## Which traditional uses are supported by research?
 
 - Cardiovascular protection (Hridya, Raktachapa-hara) extensively validated through clinical trials showing reduction in blood pressure, cholesterol, and platelet aggregation
 - Antimicrobial use (Krimighna) confirmed against broad spectrum of pathogens including antibiotic-resistant bacteria (MRSA)
-- [Antidiabetic](/nighantu/reference/antidiabetic/) use supported by clinical evidence of improved insulin sensitivity and reduced fasting blood [glucose](/nighantu/glossary/compounds-d-g/#glucose) in type 2 diabetes patients
+- [Antidiabetic](/reference/antidiabetic/) use supported by clinical evidence of improved insulin sensitivity and reduced fasting blood [glucose](/glossary/compounds-d-g/#glucose) in type 2 diabetes patients
 
 ## What do recent clinical trials show?
 
 - Jain M, Patil N, Mohammed A and others 2025. [Valorization of garlic (Allium sativum L.) byproducts: Bioactive compounds, biological properties, and applications](https://pubmed.ncbi.nlm.nih.gov/40135462/). *Journal of food science*. PMID [40135462](https://pubmed.ncbi.nlm.nih.gov/40135462/) · [doi:10.1111/1750-3841.70152](https://doi.org/10.1111/1750-3841.70152)  
   Identified bioactive compounds in garlic byproducts (skin, stem); documented novel applications in food preservation and pharmaceutical formulations.
 - Tudu CK, Dutta T, Ghorai M and others 2022. [Traditional uses, phytochemistry, pharmacology and toxicology of garlic (Allium sativum), a storehouse of diverse phytochemicals: A review of research from the last decade focusing on health and nutritional implications](https://pubmed.ncbi.nlm.nih.gov/36386956/). *Frontiers in nutrition*. PMID [36386956](https://pubmed.ncbi.nlm.nih.gov/36386956/) · [doi:10.3389/fnut.2022.929554](https://doi.org/10.3389/fnut.2022.929554)  
-  Decade-long review confirming garlic's multi-target pharmacological activities including antihyperlipidemic, [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive), anti-obesity, antimicrobial, and anti-Alzheimer activities.
+  Decade-long review confirming garlic's multi-target pharmacological activities including antihyperlipidemic, [antihypertensive](/glossary/pharmacology/#antihypertensive), anti-obesity, antimicrobial, and anti-Alzheimer activities.
 
 *1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
@@ -92,8 +92,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lasuna/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Haridra](/nighantu/herb/haridra/)/[Turmeric](/nighantu/herb/turmeric/) (cardiovascular and anti-inflammatory synergy)
-- [Guggulu](/nighantu/formulation/guggulu/) (lipid-lowering potentiation)
-- [Triphala](/nighantu/herb/triphala/) (GI and cardiovascular support)
-- [Arjuna](/nighantu/herb/arjuna/) ([cardioprotective](/nighantu/reference/cardioprotective/) combination)
-- [Pippali](/nighantu/herb/pippali/) (bioenhancer for allicin absorption)
+- [Haridra](/herb/haridra/)/[Turmeric](/herb/turmeric/) (cardiovascular and anti-inflammatory synergy)
+- [Guggulu](/formulation/guggulu/) (lipid-lowering potentiation)
+- [Triphala](/herb/triphala/) (GI and cardiovascular support)
+- [Arjuna](/herb/arjuna/) ([cardioprotective](/reference/cardioprotective/) combination)
+- [Pippali](/herb/pippali/) (bioenhancer for allicin absorption)

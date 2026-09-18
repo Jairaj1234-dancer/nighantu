@@ -24,28 +24,28 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agnikarna/meta-analysis.md"
 | Language | Name |
 |----------|------|
 | English | Agnikarna |
-| Latin/Botanical | *Gloriosa superba L. ([Agnikumarika](/nighantu/herb/agnikumarika/)/Agnimukhi); also associated with Litsea species in some texts* |
+| Latin/Botanical | *Gloriosa superba L. ([Agnikumarika](/herb/agnikumarika/)/Agnimukhi); also associated with Litsea species in some texts* |
 
 ## Key Phytochemical Constituents
 
 - Colchicine (major alkaloid, 0.1-0.8%)
 - Gloriosine
 - N-formyl-deacetylcolchicine
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 - Colchicine glycoside (new)
 - Beta- and gamma-lumicolchicines
 
 ## How does it work?
 
 - Anti-inflammatory and anti-gout action via colchicine-mediated disruption of microtubule assembly and inhibition of neutrophil migration
-- [Antitumor](/nighantu/glossary/pharmacology/#antitumor) activity through colchicine and gloriosine-mediated mitotic arrest (tubulin binding prevents spindle formation)
+- [Antitumor](/glossary/pharmacology/#antitumor) activity through colchicine and gloriosine-mediated mitotic arrest (tubulin binding prevents spindle formation)
 - Antithrombotic effect via inhibition of platelet aggregation and modulation of coagulation cascade
-- [Analgesic](/nighantu/reference/analgesic/) activity through peripheral and central pain modulation mechanisms
+- [Analgesic](/reference/analgesic/) activity through peripheral and central pain modulation mechanisms
 
 ## Which traditional uses are supported by research?
 
 - Anti-gout and anti-arthritic (Vatarakta) - strongly validated through colchicine's FDA-approved use for acute gout and familial Mediterranean fever
-- Wound healing and skin diseases (Kushtha) - partially validated through [antimicrobial](/nighantu/reference/antimicrobial/) and anti-inflammatory studies
+- Wound healing and skin diseases (Kushtha) - partially validated through [antimicrobial](/reference/antimicrobial/) and anti-inflammatory studies
 - Labor induction and uterine stimulant (Prasava-janana) - validated but dangerous; colchicine is a known uterine stimulant; use strictly contraindicated without medical supervision
 - Anthelmintic (Krimighna) - supported by in vitro studies showing antiparasitic activity
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agnikarna/meta-analysis.md"
 ## Recent safety updates
 
 - HIGHLY TOXIC - Classified as Upavisha (semi-poison) in Ayurveda; colchicine has a very narrow therapeutic index; fatal dose in adults is 0.8 mg/kg; symptoms of overdose include multi-organ failure
-- Mandatory Shodhana (purification by boiling in cow's milk - [Ksheera](/nighantu/herb/ksheera/) Swedana for 3 hours) before any Ayurvedic use; raw plant parts should never be consumed
+- Mandatory Shodhana (purification by boiling in cow's milk - [Ksheera](/herb/ksheera/) Swedana for 3 hours) before any Ayurvedic use; raw plant parts should never be consumed
 - FDA-approved colchicine (purified) used for gout treatment with strict dosing protocols; listed as endangered species (IUCN); poisoning cases reported from accidental ingestion and suicidal use
 
 ## Dosage forms and preparation
@@ -68,7 +68,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agnikarna/meta-analysis.md"
 
 **Standard Dosage:** 1-3g powder twice daily; 30-50ml decoction twice daily; external oil application as needed
 
-**Bioavailability:** Limited modern bioavailability data. Traditional texts suggest moderate absorption when taken with warm water or specific anupanas. The plant's alkaloid and terpenoid constituents suggest reasonable lipophilic absorption. Co-administration with [Trikatu](/nighantu/herb/trikatu/) may enhance absorption via [piperine](/nighantu/reference/piperine/)-mediated mechanisms.
+**Bioavailability:** Limited modern bioavailability data. Traditional texts suggest moderate absorption when taken with warm water or specific anupanas. The plant's alkaloid and terpenoid constituents suggest reasonable lipophilic absorption. Co-administration with [Trikatu](/herb/trikatu/) may enhance absorption via [piperine](/reference/piperine/)-mediated mechanisms.
 
 **Optimal Timing:** After meals with warm water for internal use; topical application as needed, typically twice daily
 
@@ -78,16 +78,16 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agnikarna/meta-analysis.md"
 
 **Storage:** Cool, dry place away from light and moisture. Temperature below 30°C, RH < 65%.
 
-**Marker Compounds:** [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) (total alkaloid content), [Tannins](/nighantu/reference/tannins/), [Flavonoids](/nighantu/reference/flavonoids/) (total flavonoid by UV spectrophotometry)
+**Marker Compounds:** [Alkaloids](/glossary/compounds-1-a/#alkaloids) (total alkaloid content), [Tannins](/reference/tannins/), [Flavonoids](/reference/flavonoids/) (total flavonoid by UV spectrophotometry)
 
 ### Extraction Methods
 
 - Aqueous decoction (classical Kashaya vidhi)
 - Hydroalcoholic extraction (50:50)
-- [Tila](/nighantu/herb/tila/) taila ([sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)) based extraction for external preparations
+- [Tila](/herb/tila/) taila ([sesame oil](/glossary/concepts-m-y/#tila-taila)) based extraction for external preparations
 
 ### Synergistic Combinations
 
-- With [Nimba](/nighantu/herb/nimba/) for skin conditions
-- With [Haridra](/nighantu/herb/haridra/) for anti-inflammatory applications
-- With [Eranda](/nighantu/herb/eranda/) taila for joint disorders
+- With [Nimba](/herb/nimba/) for skin conditions
+- With [Haridra](/herb/haridra/) for anti-inflammatory applications
+- With [Eranda](/herb/eranda/) taila for joint disorders

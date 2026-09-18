@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Pinda-Thail
 
 | Language | Name |
 |----------|------|
-| English | [Pinda Thailam](/nighantu/formulation/pinda-thailam/) |
+| English | [Pinda Thailam](/formulation/pinda-thailam/) |
 
 ## Where is it described in the classical texts?
 
@@ -31,14 +31,14 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa); also referenced in Sahasrayogam. A s
 
 ## How does it work?
 
-- Anthraquinones ([purpurin](/nighantu/glossary/compounds-o-q/#purpurin), munjistin) from [Manjistha](/nighantu/herb/manjistha/) provide potent anti-inflammatory and blood-purifying action, specifically targeting Rakta Dhatu (blood tissue) inflammation
-- [Sariva](/nighantu/herb/sariva/)'s hemidesmin and 2-hydroxy-4-methoxy [benzaldehyde](/nighantu/glossary/compounds-a-c/#benzaldehyde) provide cooling, blood-purifying action and reduce cutaneous inflammation through inhibition of pro-inflammatory cytokines
+- Anthraquinones ([purpurin](/glossary/compounds-o-q/#purpurin), munjistin) from [Manjistha](/herb/manjistha/) provide potent anti-inflammatory and blood-purifying action, specifically targeting Rakta Dhatu (blood tissue) inflammation
+- [Sariva](/herb/sariva/)'s hemidesmin and 2-hydroxy-4-methoxy [benzaldehyde](/glossary/compounds-a-c/#benzaldehyde) provide cooling, blood-purifying action and reduce cutaneous inflammation through inhibition of pro-inflammatory cytokines
 - Beeswax provides an occlusive barrier layer that holds the herbal constituents in contact with inflamed tissue for prolonged therapeutic action
-- Oleic and linoleic fatty acids from [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) act as anti-inflammatory lipid mediators and enhance transdermal penetration of active herbal compounds to deeper tissue layers
+- Oleic and linoleic fatty acids from [sesame oil](/glossary/concepts-m-y/#tila-taila) act as anti-inflammatory lipid mediators and enhance transdermal penetration of active herbal compounds to deeper tissue layers
 
 ## Which traditional uses are supported by research?
 
-- Inflammatory skin conditions (psoriasis, eczema) - validated by pharmacological confirmation of anti-inflammatory anthraquinones and [phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols) from [Manjistha](/nighantu/herb/manjistha/) and [Sariva](/nighantu/herb/sariva/)
+- Inflammatory skin conditions (psoriasis, eczema) - validated by pharmacological confirmation of anti-inflammatory anthraquinones and [phytosterols](/glossary/compounds-o-q/#phytosterols) from [Manjistha](/herb/manjistha/) and [Sariva](/herb/sariva/)
 - Gout and inflammatory joint conditions - validated by clinical study (2017) showing superior pain reduction in OA knees with oil-based therapy
 - Post-stroke rehabilitation (Pinda Sveda therapy) - validated by RCT (2019) demonstrating improved muscle strength in hemiparetic patients after 12 oil poultice sessions
 
@@ -64,11 +64,11 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa); also referenced in Sahasrayogam. A s
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Thailam (medicated [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)), External application
+**Dosage Forms:** Thailam (medicated [sesame oil](/glossary/concepts-m-y/#tila-taila)), External application
 
 **Standard Dosage:** External for wounds, burns, eczema
 
-**Bioavailability:** Oil base ([sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
+**Bioavailability:** Oil base ([sesame oil](/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
 
 **Optimal Timing:** External: before bath or at bedtime. Internal: before meals
 
@@ -76,7 +76,7 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa); also referenced in Sahasrayogam. A s
 
 **Storage:** Airtight amber glass/HDPE container, room temperature, protected from light
 
-**Marker Compounds:** [Alizarin](/nighantu/glossary/compounds-1-a/#alizarin), Purpurin
+**Marker Compounds:** [Alizarin](/glossary/compounds-1-a/#alizarin), Purpurin
 
 **Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Alizarin, Purpurin
 
@@ -84,4 +84,4 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa); also referenced in Sahasrayogam. A s
 
 ### Synergistic Combinations
 
-- Key herbs: [Manjistha](/nighantu/herb/manjistha/), Sarjarasa, [Sariva](/nighantu/herb/sariva/), beeswax; oil base acts as lipid carrier for enhanced tissue penetration
+- Key herbs: [Manjistha](/herb/manjistha/), Sarjarasa, [Sariva](/herb/sariva/), beeswax; oil base acts as lipid carrier for enhanced tissue penetration

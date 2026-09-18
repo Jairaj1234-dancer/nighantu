@@ -23,18 +23,18 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Panchatik
 
 | Language | Name |
 |----------|------|
-| English | Panchatikta [Ghrita](/nighantu/herb/ghrita/)|Panchatikta Ghrita Mahatiktaka [Ghrita](/nighantu/herb/ghrita/)|Mahatiktaka Ghrita |
+| English | Panchatikta [Ghrita](/herb/ghrita/)|Panchatikta Ghrita Mahatiktaka [Ghrita](/herb/ghrita/)|Mahatiktaka Ghrita |
 
 ## Where is it described in the classical texts?
 
-Bhaishajya Ratnavali Kushta Adhikara (Panchatikta [Ghrita](/nighantu/herb/ghrita/)|Panchatikta Ghrita); Ashtanga Hridayam (Mahatiktaka [Ghrita](/nighantu/herb/ghrita/)|Mahatiktaka Ghrita); Charaka Samhita Chikitsa Sthana; Sushruta Samhita
+Bhaishajya Ratnavali Kushta Adhikara (Panchatikta [Ghrita](/herb/ghrita/)|Panchatikta Ghrita); Ashtanga Hridayam (Mahatiktaka [Ghrita](/herb/ghrita/)|Mahatiktaka Ghrita); Charaka Samhita Chikitsa Sthana; Sushruta Samhita
 
 ## How does it work?
 
 - Five bitter herbs (Panchatikta) provide potent Pitta-Rakta pacification, reducing inflammatory cascades in blood and skin
-- [Neem](/nighantu/herb/neem/) ([nimbidin](/nighantu/glossary/compounds-l-o/#nimbidin), [azadirachtin](/nighantu/glossary/compounds-a-c/#azadirachtin)) delivers antibacterial, antifungal, and anti-inflammatory action targeting dermatological pathogens
-- [Guduchi](/nighantu/herb/guduchi/) acts as an immunomodulator, restoring balanced immune response in autoimmune skin conditions
-- [Turmeric](/nighantu/herb/turmeric/) ([curcumin](/nighantu/herb/curcumin/)) inhibits NF-kB pathway, reducing chronic inflammation in psoriasis and eczema
+- [Neem](/herb/neem/) ([nimbidin](/glossary/compounds-l-o/#nimbidin), [azadirachtin](/glossary/compounds-a-c/#azadirachtin)) delivers antibacterial, antifungal, and anti-inflammatory action targeting dermatological pathogens
+- [Guduchi](/herb/guduchi/) acts as an immunomodulator, restoring balanced immune response in autoimmune skin conditions
+- [Turmeric](/herb/turmeric/) ([curcumin](/herb/curcumin/)) inhibits NF-kB pathway, reducing chronic inflammation in psoriasis and eczema
 - Ghee base serves as Snehana (oleation) medium for Panchakarma preparatory procedures enhancing detoxification
 
 ## Which traditional uses are supported by research?
@@ -53,7 +53,7 @@ Bhaishajya Ratnavali Kushta Adhikara (Panchatikta [Ghrita](/nighantu/herb/ghrita
 ## Recent safety updates
 
 - Multicenter clinical trial confirms acceptable safety and tolerability in psoriasis patients over 12-week treatment period
-- [Mahatiktaka Ghrita](/nighantu/glossary/concepts-a-m/#mahatiktaka-ghrita) demonstrates excellent microbial stability for over 494 days without preservatives - inherent self-preserving quality
+- [Mahatiktaka Ghrita](/glossary/concepts-a-m/#mahatiktaka-ghrita) demonstrates excellent microbial stability for over 494 days without preservatives - inherent self-preserving quality
 - Due to bitter taste, may cause mild nausea in sensitive individuals; ghee content requires caution in hyperlipidemic and diabetic patients
 
 ## What is it made of?
@@ -79,7 +79,7 @@ Bhaishajya Ratnavali Kushta Adhikara (Panchatikta [Ghrita](/nighantu/herb/ghrita
 
 **Storage:** Airtight glass/stainless steel container, cool dry place, protected from light and moisture
 
-**Marker Compounds:** Kutkin, [Vasicine](/nighantu/glossary/compounds-t-z/#vasicine), [Tinosporin](/nighantu/glossary/compounds-t-z/#tinosporin)
+**Marker Compounds:** Kutkin, [Vasicine](/glossary/compounds-t-z/#vasicine), [Tinosporin](/glossary/compounds-t-z/#tinosporin)
 
 **Quality Parameters:** Acid value <4, peroxide value <5 meq/kg, moisture <0.5%, rancidity test negative, marker: Kutkin, Vasicine, Tinosporin
 
@@ -87,4 +87,4 @@ Bhaishajya Ratnavali Kushta Adhikara (Panchatikta [Ghrita](/nighantu/herb/ghrita
 
 ### Synergistic Combinations
 
-- Key herbs: 5 bitter herbs: [Nimba](/nighantu/herb/nimba/), [Guduchi](/nighantu/herb/guduchi/), [Vasa](/nighantu/herb/vasa/), [Katuki](/nighantu/herb/katuki/), [Patola](/nighantu/herb/patola/); ghee enhances tissue penetration (yogavahi property)
+- Key herbs: 5 bitter herbs: [Nimba](/herb/nimba/), [Guduchi](/herb/guduchi/), [Vasa](/herb/vasa/), [Katuki](/herb/katuki/), [Patola](/herb/patola/); ghee enhances tissue penetration (yogavahi property)

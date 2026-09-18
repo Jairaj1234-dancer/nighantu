@@ -50,20 +50,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Menthol/meta-analys
 
 **Storage:** Store menthol crystals in airtight glass containers at 15-25 deg C (sublimes at higher temperatures). Protect from heat and light. Essential oil in amber glass, tightly sealed. Topical products at room temperature. Lozenges in individually wrapped, moisture-proof packaging.
 
-**Marker Compounds:** L-Menthol, [Menthone](/nighantu/glossary/compounds-l-o/#menthone), Menthyl acetate, [Isomenthone](/nighantu/glossary/compounds-g-l/#isomenthone), Neomenthol, [Pulegone](/nighantu/glossary/compounds-o-q/#pulegone) (impurity, must be below 1%)
+**Marker Compounds:** L-Menthol, [Menthone](/glossary/compounds-l-o/#menthone), Menthyl acetate, [Isomenthone](/glossary/compounds-g-l/#isomenthone), Neomenthol, [Pulegone](/glossary/compounds-o-q/#pulegone) (impurity, must be below 1%)
 
 ### Extraction Methods
 
 - Fractional distillation of peppermint oil (Mentha piperita/M. arvensis)
 - Crystallization from cornmint oil at -22 deg C
-- Synthetic production from [thymol](/nighantu/glossary/compounds-t-z/#thymol) or [citronellal](/nighantu/glossary/compounds-c-d/#citronellal)
-- Semi-synthetic from natural d-[limonene](/nighantu/glossary/compounds-g-l/#limonene)
+- Synthetic production from [thymol](/glossary/compounds-t-z/#thymol) or [citronellal](/glossary/compounds-c-d/#citronellal)
+- Semi-synthetic from natural d-[limonene](/glossary/compounds-g-l/#limonene)
 - Freeze crystallization for pharmaceutical-grade crystals
 
 ### Synergistic Combinations
 
-- [Camphor](/nighantu/herb/camphor/) (counter-irritant [analgesic](/nighantu/reference/analgesic/) combination)
+- [Camphor](/herb/camphor/) (counter-irritant [analgesic](/reference/analgesic/) combination)
 - Methyl salicylate (pain relief synergy in balms)
-- [Eucalyptus](/nighantu/herb/eucalyptus/) oil (respiratory decongestant)
+- [Eucalyptus](/herb/eucalyptus/) oil (respiratory decongestant)
 - Capsaicin (hot-cold analgesic therapy)
 - Mentha piperita oil (complete peppermint spectrum)

@@ -28,7 +28,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Ahiphena/meta-analysis
 
 ## Which traditional uses are supported by research?
 
-- {'use': '[Analgesic](/nighantu/reference/analgesic/) and pain management', 'validation': 'Morphine remains the gold standard analgesic in modern medicine. WHO Essential Medicines List includes morphine for moderate to severe pain. Multiple systematic reviews confirm efficacy for cancer pain, post-surgical pain, and chronic pain management.'}
+- {'use': '[Analgesic](/reference/analgesic/) and pain management', 'validation': 'Morphine remains the gold standard analgesic in modern medicine. WHO Essential Medicines List includes morphine for moderate to severe pain. Multiple systematic reviews confirm efficacy for cancer pain, post-surgical pain, and chronic pain management.'}
 - {'use': 'Anti-diarrheal (Atisara/Pravahika)', 'validation': "Codeine and morphine's constipating effect via mu-receptor-mediated GI motility reduction is well-established. Loperamide (Imodium), a synthetic opioid derivative, is the standard OTC anti-diarrheal, validating the traditional use of opium for dysentery and diarrhea in Ayurveda."}
 - {'use': 'Antitussive (cough suppressant - Kasa)', 'validation': 'Codeine remains widely prescribed as an antitussive. Noscapine (narcotine) from opium is a non-addictive cough suppressant available OTC in many countries. WHO acknowledges codeine as effective antitussive.'}
 
@@ -78,6 +78,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Ahiphena/meta-analysis
 
 ### Synergistic Combinations
 
-- With [Jatiphala](/nighantu/herb/jatiphala/) (nutmeg) in Ahiphenasava for diarrhea (classical)
+- With [Jatiphala](/herb/jatiphala/) (nutmeg) in Ahiphenasava for diarrhea (classical)
 - With Sunthi and Maricha in small quantities for severe cough (under supervision)
 - With Tagar for severe insomnia (classical, restricted)

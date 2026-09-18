@@ -23,59 +23,59 @@ srcRel: "_Hub/Pharmacology/Cardioprotective.md"
 
 ## Ayurveda (37)
 
-- [Aja Dugdha Goat Milk](/nighantu/herb/aja-dugdha-goat-milk/)
-- [Alabu](/nighantu/herb/alabu/) — *Lagenaria siceraria (Molina) Standl.*
-- [Amalaki Rasayana](/nighantu/formulation/amalaki-rasayana/)
-- [Arjuna Twak](/nighantu/herb/arjuna-twak/)
-- [Arjunarishta](/nighantu/formulation/arjunarishta/)
-- [Asana](/nighantu/herb/asana/) — *Pterocarpus marsupium Roxb.*
-- [Atasi](/nighantu/herb/atasi/) — *Linum usitatissimum L.*
-- [Bakula](/nighantu/herb/bakula/) — *Mimusops elengi L.*
-- [Bijapura](/nighantu/herb/bijapura/) — *Citrus medica L.*
-- [Dadima Twak](/nighantu/herb/dadima-twak/) — *Punica granatum L. (fruit rind/pericarp)*
-- [Dhanyaka](/nighantu/herb/dhanyaka/) — *Coriandrum sativum L.*
-- [Gambhari](/nighantu/herb/gambhari/) — *Gmelina arborea Roxb.*
-- [Gambhari Phala](/nighantu/herb/gambhari-phala/) — *Gmelina arborea Roxb.*
-- [Gomeda Bhasma](/nighantu/herb/gomeda-bhasma/)
-- [Gorochana](/nighantu/herb/gorochana/)
-- [Kachura](/nighantu/herb/kachura/) — *Curcuma zedoaria (Christm.) Roscoe*
-- [Karkatashringi](/nighantu/herb/karkatashringi/) — *Pistacia integerrima J.L. Stewart ex Brandis*
-- [Kasturi](/nighantu/herb/kasturi/)
-- [Kulattha](/nighantu/herb/kulattha/) — *Macrotyloma uniflorum (Lam.) Verdc. (syn. Dolichos biflorus L.)*
-- [Kusumbha](/nighantu/herb/kusumbha/)
-- [Lasuna](/nighantu/herb/lasuna/) — *Allium sativum L.*
-- [Madhuka](/nighantu/herb/madhuka/) — *Madhuca longifolia (J.Koenig ex L.) J.F.Macbr.*
-- [Matulunga](/nighantu/herb/matulunga/) — *Citrus medica L.*
-- [Mishreya](/nighantu/herb/mishreya/) — *Foeniculum vulgare Mill.*
-- [Mrigashringa Bhasma](/nighantu/herb/mrigashringa-bhasma/)
-- [Nagabala](/nighantu/herb/nagabala/) — *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
-- [Narikela](/nighantu/herb/narikela/) — *Cocos nucifera L.*
-- [Prishniparni](/nighantu/herb/prishniparni/) — *Uraria picta (Jacq.) DC.*
-- [Pushkarmool](/nighantu/herb/pushkarmool/) — *Inula racemosa Hook. f.*
-- [Rasona Garlic](/nighantu/herb/rasona-garlic/) — *Allium sativum L.*
-- [Rudraksha](/nighantu/herb/rudraksha/)
-- [Shalparni](/nighantu/herb/shalparni/) — *Desmodium gangeticum (L.) DC.*
-- [Shatavari Ksheera](/nighantu/herb/shatavari-ksheera/) — *Asparagus racemosus Willd.*
-- [Tila](/nighantu/herb/tila/) — *Sesamum indicum L.*
-- [Vasant Kusumakar Rasa](/nighantu/herb/vasant-kusumakar-rasa/)
-- [Vidarikand](/nighantu/herb/vidarikand/) — *Pueraria tuberosa (Willd.) DC.*
-- [Vrikshamla](/nighantu/herb/vrikshamla/) — *Garcinia indica (Thouars) Choisy (also includes reference to Garcinia cambogia/gummi-gutta)*
+- [Aja Dugdha Goat Milk](/herb/aja-dugdha-goat-milk/)
+- [Alabu](/herb/alabu/) — *Lagenaria siceraria (Molina) Standl.*
+- [Amalaki Rasayana](/formulation/amalaki-rasayana/)
+- [Arjuna Twak](/herb/arjuna-twak/)
+- [Arjunarishta](/formulation/arjunarishta/)
+- [Asana](/herb/asana/) — *Pterocarpus marsupium Roxb.*
+- [Atasi](/herb/atasi/) — *Linum usitatissimum L.*
+- [Bakula](/herb/bakula/) — *Mimusops elengi L.*
+- [Bijapura](/herb/bijapura/) — *Citrus medica L.*
+- [Dadima Twak](/herb/dadima-twak/) — *Punica granatum L. (fruit rind/pericarp)*
+- [Dhanyaka](/herb/dhanyaka/) — *Coriandrum sativum L.*
+- [Gambhari](/herb/gambhari/) — *Gmelina arborea Roxb.*
+- [Gambhari Phala](/herb/gambhari-phala/) — *Gmelina arborea Roxb.*
+- [Gomeda Bhasma](/herb/gomeda-bhasma/)
+- [Gorochana](/herb/gorochana/)
+- [Kachura](/herb/kachura/) — *Curcuma zedoaria (Christm.) Roscoe*
+- [Karkatashringi](/herb/karkatashringi/) — *Pistacia integerrima J.L. Stewart ex Brandis*
+- [Kasturi](/herb/kasturi/)
+- [Kulattha](/herb/kulattha/) — *Macrotyloma uniflorum (Lam.) Verdc. (syn. Dolichos biflorus L.)*
+- [Kusumbha](/herb/kusumbha/)
+- [Lasuna](/herb/lasuna/) — *Allium sativum L.*
+- [Madhuka](/herb/madhuka/) — *Madhuca longifolia (J.Koenig ex L.) J.F.Macbr.*
+- [Matulunga](/herb/matulunga/) — *Citrus medica L.*
+- [Mishreya](/herb/mishreya/) — *Foeniculum vulgare Mill.*
+- [Mrigashringa Bhasma](/herb/mrigashringa-bhasma/)
+- [Nagabala](/herb/nagabala/) — *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
+- [Narikela](/herb/narikela/) — *Cocos nucifera L.*
+- [Prishniparni](/herb/prishniparni/) — *Uraria picta (Jacq.) DC.*
+- [Pushkarmool](/herb/pushkarmool/) — *Inula racemosa Hook. f.*
+- [Rasona Garlic](/herb/rasona-garlic/) — *Allium sativum L.*
+- [Rudraksha](/herb/rudraksha/)
+- [Shalparni](/herb/shalparni/) — *Desmodium gangeticum (L.) DC.*
+- [Shatavari Ksheera](/herb/shatavari-ksheera/) — *Asparagus racemosus Willd.*
+- [Tila](/herb/tila/) — *Sesamum indicum L.*
+- [Vasant Kusumakar Rasa](/herb/vasant-kusumakar-rasa/)
+- [Vidarikand](/herb/vidarikand/) — *Pueraria tuberosa (Willd.) DC.*
+- [Vrikshamla](/herb/vrikshamla/) — *Garcinia indica (Thouars) Choisy (also includes reference to Garcinia cambogia/gummi-gutta)*
 
 ## Related Body Systems
 
-- [Anti-inflammatory & Pain](/nighantu/reference/antiinflammatory-pain/)
-- [Brain & Nervous System](/nighantu/reference/brain-nervous-system/)
-- [Diabetes & Metabolism](/nighantu/reference/diabetes-metabolism/)
-- [Digestive Health](/nighantu/reference/digestive-health/)
-- [Eye Health](/nighantu/reference/eye-health/)
-- [Fever & Infection](/nighantu/reference/fever-infection/)
-- [Hair Health](/nighantu/glossary/body-systems/#hair-health)
-- [Heart & Cardiovascular](/nighantu/reference/heart-cardiovascular/)
-- [Immune System & Rasayana](/nighantu/reference/immune-system-rasayana/)
-- [Joint & Musculoskeletal](/nighantu/reference/joint-musculoskeletal/)
-- [Kidney & Urinary](/nighantu/reference/kidney-urinary/)
-- [Liver & Detoxification](/nighantu/reference/liver-detoxification/)
-- [Men's Health & Vitality](/nighantu/reference/mens-health-vitality/)
-- [Respiratory Health](/nighantu/reference/respiratory-health/)
-- [Skin & Beauty](/nighantu/reference/skin-beauty/)
-- [Women's Health](/nighantu/reference/womens-health/)
+- [Anti-inflammatory & Pain](/reference/antiinflammatory-pain/)
+- [Brain & Nervous System](/reference/brain-nervous-system/)
+- [Diabetes & Metabolism](/reference/diabetes-metabolism/)
+- [Digestive Health](/reference/digestive-health/)
+- [Eye Health](/reference/eye-health/)
+- [Fever & Infection](/reference/fever-infection/)
+- [Hair Health](/glossary/body-systems/#hair-health)
+- [Heart & Cardiovascular](/reference/heart-cardiovascular/)
+- [Immune System & Rasayana](/reference/immune-system-rasayana/)
+- [Joint & Musculoskeletal](/reference/joint-musculoskeletal/)
+- [Kidney & Urinary](/reference/kidney-urinary/)
+- [Liver & Detoxification](/reference/liver-detoxification/)
+- [Men's Health & Vitality](/reference/mens-health-vitality/)
+- [Respiratory Health](/reference/respiratory-health/)
+- [Skin & Beauty](/reference/skin-beauty/)
+- [Women's Health](/reference/womens-health/)

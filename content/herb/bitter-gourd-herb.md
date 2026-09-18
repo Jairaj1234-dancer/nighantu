@@ -31,7 +31,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bitter_Gourd_Herb/meta-analys
 
 **Standard Dosage:** 10-20ml leaf juice twice daily; 2-4g vine/leaf powder twice daily; 50-100ml decoction; external paste as needed for skin conditions
 
-**Bioavailability:** Aerial parts (leaves, stems, tendrils) contain similar but not identical phytochemical profile to fruit. [Momordicin](/nighantu/glossary/compounds-l-o/#momordicin) concentration is higher in leaves than fruit. Leaf [flavonoids](/nighantu/reference/flavonoids/) show moderate oral bioavailability (20-35%). [Chlorophyll](/nighantu/glossary/compounds-c-d/#chlorophyll)-rich fractions may provide additional [antioxidant](/nighantu/reference/antioxidant/) protection during GI transit. Juice from fresh leaves provides optimal bioavailability.
+**Bioavailability:** Aerial parts (leaves, stems, tendrils) contain similar but not identical phytochemical profile to fruit. [Momordicin](/glossary/compounds-l-o/#momordicin) concentration is higher in leaves than fruit. Leaf [flavonoids](/reference/flavonoids/) show moderate oral bioavailability (20-35%). [Chlorophyll](/glossary/compounds-c-d/#chlorophyll)-rich fractions may provide additional [antioxidant](/reference/antioxidant/) protection during GI transit. Juice from fresh leaves provides optimal bioavailability.
 
 **Optimal Timing:** Morning on empty stomach for metabolic benefits; leaf juice before meals; external paste applied to affected areas twice daily
 
@@ -41,7 +41,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bitter_Gourd_Herb/meta-analys
 
 **Storage:** Fresh juice refrigerated in glass containers. Dried material in airtight, light-protected containers. Cool, dry conditions below 25°C.
 
-**Marker Compounds:** Momordicin, [Vicine](/nighantu/glossary/compounds-t-z/#vicine), Rosmarinic acid, Gallic acid, Gentisic acid, Chlorogenic acid, [Catechin](/nighantu/reference/catechin/), [Epicatechin](/nighantu/glossary/compounds-d-g/#epicatechin)
+**Marker Compounds:** Momordicin, [Vicine](/glossary/compounds-t-z/#vicine), Rosmarinic acid, Gallic acid, Gentisic acid, Chlorogenic acid, [Catechin](/reference/catechin/), [Epicatechin](/glossary/compounds-d-g/#epicatechin)
 
 ### Extraction Methods
 
@@ -53,7 +53,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bitter_Gourd_Herb/meta-analys
 
 ### Synergistic Combinations
 
-- With [Neem](/nighantu/herb/neem/) leaves for skin and blood purification
-- With [Guduchi](/nighantu/herb/guduchi/) for [immunomodulatory](/nighantu/reference/immunomodulatory/) formulations
-- With [Haridra](/nighantu/herb/haridra/) for anti-inflammatory and [antimicrobial](/nighantu/reference/antimicrobial/) use
-- With [Karanja](/nighantu/herb/karanja/) leaves for dermatological applications
+- With [Neem](/herb/neem/) leaves for skin and blood purification
+- With [Guduchi](/herb/guduchi/) for [immunomodulatory](/reference/immunomodulatory/) formulations
+- With [Haridra](/herb/haridra/) for anti-inflammatory and [antimicrobial](/reference/antimicrobial/) use
+- With [Karanja](/herb/karanja/) leaves for dermatological applications

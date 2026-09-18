@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kankataka/meta-analysis.
 
 **Standard Dosage:** 2-4 g powder twice daily; 30-60 mL decoction twice daily
 
-**Bioavailability:** [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) and [flavonoids](/nighantu/reference/flavonoids/) show moderate oral absorption. Traditional co-processing with [Trikatu](/nighantu/herb/trikatu/) ([Pippali](/nighantu/herb/pippali/), Maricha, Shunthi) enhances bioavailability of active alkaloids. Emulsification with [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) improves lipophilic constituent delivery.
+**Bioavailability:** [Alkaloids](/glossary/compounds-1-a/#alkaloids) and [flavonoids](/reference/flavonoids/) show moderate oral absorption. Traditional co-processing with [Trikatu](/herb/trikatu/) ([Pippali](/herb/pippali/), Maricha, Shunthi) enhances bioavailability of active alkaloids. Emulsification with [sesame oil](/glossary/concepts-m-y/#tila-taila) improves lipophilic constituent delivery.
 
 **Optimal Timing:** After meals with warm water; for skin conditions, external application twice daily
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kankataka/meta-analysis.
 
 **Storage:** Store in airtight containers at ambient temperature (15-30°C). Protect from moisture and direct sunlight.
 
-**Marker Compounds:** Gallic acid, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Flavonoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides), [Tannins](/nighantu/reference/tannins/)
+**Marker Compounds:** Gallic acid, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Flavonoid [glycosides](/glossary/compounds-g-l/#glycosides), [Tannins](/reference/tannins/)
 
 ### Extraction Methods
 
@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kankataka/meta-analysis.
 
 ### Synergistic Combinations
 
-- [Guduchi](/nighantu/herb/guduchi/) for [immunomodulatory](/nighantu/reference/immunomodulatory/) enhancement
-- [Haridra](/nighantu/herb/haridra/) for anti-inflammatory synergy
-- Amalaki for [antioxidant](/nighantu/reference/antioxidant/) potentiation
-- [Nimba](/nighantu/herb/nimba/) for skin disorders
+- [Guduchi](/herb/guduchi/) for [immunomodulatory](/reference/immunomodulatory/) enhancement
+- [Haridra](/herb/haridra/) for anti-inflammatory synergy
+- Amalaki for [antioxidant](/reference/antioxidant/) potentiation
+- [Nimba](/herb/nimba/) for skin disorders

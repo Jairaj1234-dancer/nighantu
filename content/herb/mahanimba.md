@@ -40,17 +40,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mahanimba/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g bark powder per day; 50-100 mL decoction twice daily; 500-1000 mg standardized extract daily; external application as directed
 
-**Bioavailability:** Limonoids and quassinoids show moderate oral bioavailability (20-30%). Ailanthone undergoes significant hepatic first-pass metabolism. Quassinoids are better absorbed in fasting state. Bitter compounds stimulate bile secretion which paradoxically enhances absorption of subsequent doses. [Tannins](/nighantu/reference/tannins/) may reduce bioavailability of co-administered iron and [proteins](/nighantu/glossary/compounds-o-q/#proteins).
+**Bioavailability:** Limonoids and quassinoids show moderate oral bioavailability (20-30%). Ailanthone undergoes significant hepatic first-pass metabolism. Quassinoids are better absorbed in fasting state. Bitter compounds stimulate bile secretion which paradoxically enhances absorption of subsequent doses. [Tannins](/reference/tannins/) may reduce bioavailability of co-administered iron and [proteins](/glossary/compounds-o-q/#proteins).
 
-**Optimal Timing:** Before meals for antiparasitic and appetite-stimulating effects; after meals for [hepatoprotective](/nighantu/reference/hepatoprotective/) action; topical application twice daily
+**Optimal Timing:** Before meals for antiparasitic and appetite-stimulating effects; after meals for [hepatoprotective](/reference/hepatoprotective/) action; topical application twice daily
 
-**Standardized Extract:** Bark extract (10:1 hydroalcoholic) standardized to minimum 1% quassinoids (as ailanthone equivalents) and maximum 0.1% meliatoxins (safety limit). Leaf extract standardized to minimum 3% total [flavonoids](/nighantu/reference/flavonoids/).
+**Standardized Extract:** Bark extract (10:1 hydroalcoholic) standardized to minimum 1% quassinoids (as ailanthone equivalents) and maximum 0.1% meliatoxins (safety limit). Leaf extract standardized to minimum 3% total [flavonoids](/reference/flavonoids/).
 
 **Shelf Life:** 24 months for bark powder; 30 months for tablets/capsules; 18 months for liquid preparations; 24 months for topical oil
 
 **Storage:** Store below 25 deg C in airtight, light-resistant containers. Bark powder in moisture-proof containers. Topical oils in amber bottles at room temperature. Mark clearly as 'Not for unsupervised use' for internal formulations.
 
-**Marker Compounds:** Ailanthone, Melianone, [Nimbolide](/nighantu/glossary/compounds-l-o/#nimbolide), Meliatoxin (control for safety), [Vanillin](/nighantu/glossary/compounds-t-z/#vanillin), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Kaempferol](/nighantu/reference/kaempferol/), [Scopoletin](/nighantu/glossary/compounds-q-t/#scopoletin)
+**Marker Compounds:** Ailanthone, Melianone, [Nimbolide](/glossary/compounds-l-o/#nimbolide), Meliatoxin (control for safety), [Vanillin](/glossary/compounds-t-z/#vanillin), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Kaempferol](/reference/kaempferol/), [Scopoletin](/glossary/compounds-q-t/#scopoletin)
 
 ### Extraction Methods
 
@@ -63,8 +63,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mahanimba/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Nimba](/nighantu/herb/nimba/)/[Neem](/nighantu/herb/neem/) ([antimicrobial](/nighantu/reference/antimicrobial/) and antidermatosis synergy)
-- [Haridra](/nighantu/herb/haridra/) (anti-inflammatory combination)
-- [Khadira](/nighantu/herb/khadira/) (blood purification and skin diseases)
+- [Nimba](/herb/nimba/)/[Neem](/herb/neem/) ([antimicrobial](/reference/antimicrobial/) and antidermatosis synergy)
+- [Haridra](/herb/haridra/) (anti-inflammatory combination)
+- [Khadira](/herb/khadira/) (blood purification and skin diseases)
 - Kutaja (antidiarrheal and antiparasitic)
-- [Patola](/nighantu/herb/patola/) ([Pitta-balancing](/nighantu/glossary/concepts-m-y/#pitta-balancing) skin formulation)
+- [Patola](/herb/patola/) ([Pitta-balancing](/glossary/concepts-m-y/#pitta-balancing) skin formulation)

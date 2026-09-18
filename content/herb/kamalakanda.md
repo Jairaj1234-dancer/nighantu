@@ -40,17 +40,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kamalakanda/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g of powder twice daily; 10-20 mL fresh juice once daily; 50-100 mL decoction twice daily
 
-**Bioavailability:** Rhizome [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) ([nuciferine](/nighantu/glossary/compounds-l-o/#nuciferine), [neferine](/nighantu/glossary/compounds-l-o/#neferine)) show moderate bioavailability with significant first-pass metabolism. Co-administration with long pepper or [ginger](/nighantu/herb/ginger/) enhances absorption. Nanoparticle encapsulation improves delivery of aporphine alkaloids.
+**Bioavailability:** Rhizome [alkaloids](/glossary/compounds-1-a/#alkaloids) ([nuciferine](/glossary/compounds-l-o/#nuciferine), [neferine](/glossary/compounds-l-o/#neferine)) show moderate bioavailability with significant first-pass metabolism. Co-administration with long pepper or [ginger](/herb/ginger/) enhances absorption. Nanoparticle encapsulation improves delivery of aporphine alkaloids.
 
 **Optimal Timing:** Before meals on empty stomach for maximum alkaloid absorption; with meals for digestive applications
 
-**Standardized Extract:** Standardized to minimum 0.5% total alkaloids (as nuciferine equivalents) and 15% total [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides)
+**Standardized Extract:** Standardized to minimum 0.5% total alkaloids (as nuciferine equivalents) and 15% total [polysaccharides](/glossary/compounds-o-q/#polysaccharides)
 
 **Shelf Life:** 18 months for powder; 12 months for capsules; fresh juice must be consumed within 6 hours or lyophilized (24 months stability)
 
 **Storage:** Store in cool, dry place at 15-25°C in moisture-proof containers. Powder is hygroscopic and must be protected from humidity (RH < 55%).
 
-**Marker Compounds:** Nuciferine, Neferine, [Liensinine](/nighantu/glossary/compounds-g-l/#liensinine), [Isoliensinine](/nighantu/glossary/compounds-g-l/#isoliensinine), Armepavine, [Starch](/nighantu/glossary/compounds-q-t/#starch) polysaccharides
+**Marker Compounds:** Nuciferine, Neferine, [Liensinine](/glossary/compounds-g-l/#liensinine), [Isoliensinine](/glossary/compounds-g-l/#isoliensinine), Armepavine, [Starch](/glossary/compounds-q-t/#starch) polysaccharides
 
 ### Extraction Methods
 
@@ -62,6 +62,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kamalakanda/meta-analysis.md"
 ### Synergistic Combinations
 
 - Musta (Cyperus rotundus) for digestive disorders
-- [Vacha](/nighantu/herb/vacha/) (Acorus calamus) for cognitive enhancement
-- [Sariva](/nighantu/herb/sariva/) for blood purification
-- [Padmaka](/nighantu/herb/padmaka/) for cardiac support
+- [Vacha](/herb/vacha/) (Acorus calamus) for cognitive enhancement
+- [Sariva](/herb/sariva/) for blood purification
+- [Padmaka](/herb/padmaka/) for cardiac support

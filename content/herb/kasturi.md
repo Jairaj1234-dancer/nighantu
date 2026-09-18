@@ -30,29 +30,29 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Kasturi/meta-analysis.md"
 - Muscone (3-methylcyclopentadecanone) - primary active component
 - Muscopyridine and muscopyranol
 - Cholesterol and fatty acids
-- [Proteins](/nighantu/glossary/compounds-o-q/#proteins) and [peptides](/nighantu/glossary/compounds-o-q/#peptides)
-- Wax esters and [steroids](/nighantu/glossary/compounds-q-t/#steroids) (5-alpha-androst-16-en-3-one)
+- [Proteins](/glossary/compounds-o-q/#proteins) and [peptides](/glossary/compounds-o-q/#peptides)
+- Wax esters and [steroids](/glossary/compounds-q-t/#steroids) (5-alpha-androst-16-en-3-one)
 - Phenolic compounds
 - Ammonia and other volatile compounds
-- Mineral salts ([potassium](/nighantu/glossary/compounds-o-q/#potassium), calcium, sodium)
+- Mineral salts ([potassium](/glossary/compounds-o-q/#potassium), calcium, sodium)
 
 ## How does it work?
 
 - Neuroprotection: Muscone crosses blood-brain barrier, activates cAMP/PKA signaling, reduces neuroinflammation, and protects neurons against ischemia-reperfusion injury
 - Anti-inflammatory: Inhibits NF-kB pathway, reduces TNF-alpha, IL-1beta, and IL-6 production; suppresses microglial activation
-- [Cardioprotective](/nighantu/reference/cardioprotective/): Stimulates cardiac contractility, improves coronary blood flow, and exhibits antiarrhythmic properties through calcium channel modulation
-- [Anticancer](/nighantu/reference/anticancer/): Induces apoptosis in cancer cell lines through mitochondrial pathway and cell cycle arrest
+- [Cardioprotective](/reference/cardioprotective/): Stimulates cardiac contractility, improves coronary blood flow, and exhibits antiarrhythmic properties through calcium channel modulation
+- [Anticancer](/reference/anticancer/): Induces apoptosis in cancer cell lines through mitochondrial pathway and cell cycle arrest
 
 ## Which traditional uses are supported by research?
 
 - Hridya (cardiac tonic): Muscone's cardioprotective and inotropic effects validate traditional use in cardiac formulations including Kasturi Bhairava Rasa and Mrigamadasava
 - Unmada and Apasmara (psychiatric/neurological disorders): Muscone's ability to cross BBB and modulate neuroinflammation supports classical Ayurvedic use in stroke, seizures, and psychiatric conditions
-- Vishamjwara (intermittent fevers) and Sannipata: Anti-inflammatory and [immunomodulatory](/nighantu/reference/immunomodulatory/) properties provide basis for traditional use in severe febrile and toxic conditions
+- Vishamjwara (intermittent fevers) and Sannipata: Anti-inflammatory and [immunomodulatory](/reference/immunomodulatory/) properties provide basis for traditional use in severe febrile and toxic conditions
 
 ## What do recent clinical trials show?
 
 - Liu K, Xie L, Deng M and others 2021. [Zoology, chemical composition, pharmacology, quality control and future perspective of Musk (Moschus): a review](https://pubmed.ncbi.nlm.nih.gov/34147113/). *Chinese medicine*. PMID [34147113](https://pubmed.ncbi.nlm.nih.gov/34147113/) · [doi:10.1186/s13020-021-00457-8](https://doi.org/10.1186/s13020-021-00457-8)  
-  Comprehensive review confirmed muscone possesses potent anti-inflammatory, [neuroprotective](/nighantu/reference/neuroprotective/), anticancer, [antioxidant](/nighantu/reference/antioxidant/), and cardiovascular protective effects; muscone activates cAMP/PKA signaling pathway for neuroprotection.
+  Comprehensive review confirmed muscone possesses potent anti-inflammatory, [neuroprotective](/reference/neuroprotective/), anticancer, [antioxidant](/reference/antioxidant/), and cardiovascular protective effects; muscone activates cAMP/PKA signaling pathway for neuroprotection.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 

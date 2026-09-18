@@ -36,21 +36,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Mens-Health-Vitality/Talamuli/meta-analysis
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Kwatha (decoction), Swarasa (fresh juice), Capsule, [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Leha/Avaleha (confection)
+**Dosage Forms:** Churna (powder), Kwatha (decoction), Swarasa (fresh juice), Capsule, [Ghrita](/herb/ghrita/) (medicated ghee), Leha/Avaleha (confection)
 
 **Standard Dosage:** 3-6 g tuber powder per day; 10-20 mL swarasa twice daily; 50-100 mL kwatha twice daily; 500-1000 mg extract capsule twice daily
 
-**Bioavailability:** Steroidal [saponins](/nighantu/reference/saponins/) and sapogenins show moderate oral bioavailability (20-35%), enhanced by milk or ghee co-administration. Mucilaginous [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides) provide local GI effects (demulcent, prebiotic) rather than systemic absorption. [Diosgenin](/nighantu/glossary/compounds-d-g/#diosgenin) derivatives are lipophilic and benefit from lipid-based formulations. Traditional [Ghrita](/nighantu/herb/ghrita/) preparation enhances lipophilic constituent bioavailability by 2-3x.
+**Bioavailability:** Steroidal [saponins](/reference/saponins/) and sapogenins show moderate oral bioavailability (20-35%), enhanced by milk or ghee co-administration. Mucilaginous [polysaccharides](/glossary/compounds-o-q/#polysaccharides) provide local GI effects (demulcent, prebiotic) rather than systemic absorption. [Diosgenin](/glossary/compounds-d-g/#diosgenin) derivatives are lipophilic and benefit from lipid-based formulations. Traditional [Ghrita](/herb/ghrita/) preparation enhances lipophilic constituent bioavailability by 2-3x.
 
-**Optimal Timing:** With warm milk at bedtime for [Vajikarana](/nighantu/glossary/pharmacology/#vajikarana) action; morning dose with ghee for [Rasayana](/nighantu/reference/rasayana/) (rejuvenative) effects
+**Optimal Timing:** With warm milk at bedtime for [Vajikarana](/glossary/pharmacology/#vajikarana) action; morning dose with ghee for [Rasayana](/reference/rasayana/) (rejuvenative) effects
 
-**Standardized Extract:** Rhizome extract (8:1 in 60% ethanol), standardized to NLT 2% curculigoside by HPLC; total saponins NLT 10% by gravimetric method; [mucilage](/nighantu/glossary/compounds-l-o/#mucilage) content 15-25% for quality characterization
+**Standardized Extract:** Rhizome extract (8:1 in 60% ethanol), standardized to NLT 2% curculigoside by HPLC; total saponins NLT 10% by gravimetric method; [mucilage](/glossary/compounds-l-o/#mucilage) content 15-25% for quality characterization
 
 **Shelf Life:** 12 months for swarasa (refrigerated with preservative); 24 months for churna; 36 months for standardized extract capsules; 12 months for Ghrita
 
 **Storage:** Swarasa: refrigerate 2-8 deg C. Churna: below 25 deg C in airtight containers with desiccant — hygroscopic. Capsules: standard storage below 25 deg C. Ghrita: glass jars at room temperature, protect from light.
 
-**Marker Compounds:** Curculigoside, Curculigoside B, Curculigosaponin C, Curculigine, Diosgenin, Yuccagenin, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+**Marker Compounds:** Curculigoside, Curculigoside B, Curculigosaponin C, Curculigine, Diosgenin, Yuccagenin, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 
 ### Extraction Methods
 
@@ -62,8 +62,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Mens-Health-Vitality/Talamuli/meta-analysis
 
 ### Synergistic Combinations
 
-- [Shatavari](/nighantu/herb/shatavari/) (female reproductive tonic synergy)
-- [Vidari](/nighantu/herb/vidari/) (Brihana — nourishing and anabolic combination)
-- [Ashwagandha](/nighantu/herb/ashwagandha/) ([adaptogenic](/nighantu/reference/adaptogenic/) and Vajikarana synergy)
-- [Shvet-Musli](/nighantu/herb/shvet-musli/) (comprehensive Vajikarana formulation)
-- [Yashtimadhu](/nighantu/herb/yashtimadhu/) (mucosal protective and cooling combination)
+- [Shatavari](/herb/shatavari/) (female reproductive tonic synergy)
+- [Vidari](/herb/vidari/) (Brihana — nourishing and anabolic combination)
+- [Ashwagandha](/herb/ashwagandha/) ([adaptogenic](/reference/adaptogenic/) and Vajikarana synergy)
+- [Shvet-Musli](/herb/shvet-musli/) (comprehensive Vajikarana formulation)
+- [Yashtimadhu](/herb/yashtimadhu/) (mucosal protective and cooling combination)

@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Gavedhuka/meta-analysis.md
 
 **Standard Dosage:** 5-10g grain powder twice daily; 50-100ml decoction; Yavagu as directed (as dietary preparation); 500-1000mg extract capsule twice daily
 
-**Bioavailability:** Coix lacryma-jobi (Job's tears / Gavedhuka) seeds contain coixenolide, coixol, [stigmasterol](/nighantu/reference/stigmasterol/), and high-quality protein. Coixenolide has moderate oral bioavailability with good GI absorption. Coixol (a benzoxazinone) has moderate bioavailability (~30%). As a cereal grain, the [starch](/nighantu/glossary/compounds-q-t/#starch) matrix provides slow release of embedded bioactives. Cooking (as in Yavagu preparation) gelatinizes starch and improves digestibility and nutrient bioavailability. Lipid content (5-8%) provides a natural vehicle for lipophilic constituents. Enhancement: de-hulled seeds have higher bioactive accessibility than hulled.
+**Bioavailability:** Coix lacryma-jobi (Job's tears / Gavedhuka) seeds contain coixenolide, coixol, [stigmasterol](/reference/stigmasterol/), and high-quality protein. Coixenolide has moderate oral bioavailability with good GI absorption. Coixol (a benzoxazinone) has moderate bioavailability (~30%). As a cereal grain, the [starch](/glossary/compounds-q-t/#starch) matrix provides slow release of embedded bioactives. Cooking (as in Yavagu preparation) gelatinizes starch and improves digestibility and nutrient bioavailability. Lipid content (5-8%) provides a natural vehicle for lipophilic constituents. Enhancement: de-hulled seeds have higher bioactive accessibility than hulled.
 
 **Optimal Timing:** Yavagu (gruel) in the morning as breakfast or meal replacement; powder/capsule before meals with warm water; traditionally consumed as part of therapeutic diet
 
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Gavedhuka/meta-analysis.md
 
 **Storage:** Whole grain: cool, dry, ventilated area, protected from insects. Powder and extracts: airtight containers below 25 deg C. Seed oil: refrigerate after opening, use within 6 months. Protect from moisture and pest infestation.
 
-**Marker Compounds:** Coixenolide, Coixol, Stigmasterol, [Sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Oleic acid, Linoleic acid, Coixan A/B/C ([polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides))
+**Marker Compounds:** Coixenolide, Coixol, Stigmasterol, [Sitosterol](/glossary/compounds-q-t/#sitosterol), Oleic acid, Linoleic acid, Coixan A/B/C ([polysaccharides](/glossary/compounds-o-q/#polysaccharides))
 
 ### Extraction Methods
 
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Gavedhuka/meta-analysis.md
 
 ### Synergistic Combinations
 
-- With [Yava](/nighantu/herb/yava/) (barley) for [diuretic](/nighantu/reference/diuretic/) and nutritive gruel
-- With [Guduchi](/nighantu/herb/guduchi/) for immune support and fever management
+- With [Yava](/herb/yava/) (barley) for [diuretic](/reference/diuretic/) and nutritive gruel
+- With [Guduchi](/herb/guduchi/) for immune support and fever management
 - With Musta for digestive and anti-diarrheal combination
-- With [Bala](/nighantu/herb/bala/) for strength-building formulation
+- With [Bala](/herb/bala/) for strength-building formulation

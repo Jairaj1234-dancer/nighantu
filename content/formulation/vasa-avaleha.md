@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Vasa-Avale
 
 | Language | Name |
 |----------|------|
-| English | [Vasa](/nighantu/herb/vasa/) Avaleha |
+| English | [Vasa](/herb/vasa/) Avaleha |
 
 ## Where is it described in the classical texts?
 
@@ -31,17 +31,17 @@ Charaka Samhita (2500 BCE/1000 BCE); Sushruta Samhita (500 BCE); various Nighant
 
 ## How does it work?
 
-- [Vasicine](/nighantu/glossary/compounds-t-z/#vasicine) and [vasicinone](/nighantu/glossary/compounds-t-z/#vasicinone) [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) provide bronchodilatory action through smooth muscle relaxation in bronchial tree
-- Mucolytic and [expectorant](/nighantu/reference/expectorant/) properties help clear mucus from airways, reducing congestion and improving airflow
-- Raktastambhaka ([hemostatic](/nighantu/glossary/pharmacology/#hemostatic)) properties of [Vasa](/nighantu/herb/vasa/) provide vasoconstrictive and anti-hemorrhagic action for hemoptysis
+- [Vasicine](/glossary/compounds-t-z/#vasicine) and [vasicinone](/glossary/compounds-t-z/#vasicinone) [alkaloids](/glossary/compounds-1-a/#alkaloids) provide bronchodilatory action through smooth muscle relaxation in bronchial tree
+- Mucolytic and [expectorant](/reference/expectorant/) properties help clear mucus from airways, reducing congestion and improving airflow
+- Raktastambhaka ([hemostatic](/glossary/pharmacology/#hemostatic)) properties of [Vasa](/herb/vasa/) provide vasoconstrictive and anti-hemorrhagic action for hemoptysis
 - Anti-inflammatory action reduces bronchial mucosal edema and hyperreactivity in asthmatic patients
-- [Pippali](/nighantu/herb/pippali/) ([piperine](/nighantu/reference/piperine/)) enhances bioavailability of [Vasa](/nighantu/herb/vasa/) alkaloids and provides synergistic respiratory stimulation
+- [Pippali](/herb/pippali/) ([piperine](/reference/piperine/)) enhances bioavailability of [Vasa](/herb/vasa/) alkaloids and provides synergistic respiratory stimulation
 
 ## Which traditional uses are supported by research?
 
 - Tamaka Shwasa (bronchial asthma): randomized clinical study validates significant improvement in symptoms and lung function in 66 patients
-- Kasa (chronic cough/bronchitis): multicenter study confirms clinical efficacy with mucolytic and [bronchodilator](/nighantu/reference/bronchodilator/) properties
-- Raktapitta/hemoptysis (coughing blood): hemostatic (Raktastambhaka) action of [Vasa](/nighantu/herb/vasa/) validated for controlling respiratory hemorrhage
+- Kasa (chronic cough/bronchitis): multicenter study confirms clinical efficacy with mucolytic and [bronchodilator](/reference/bronchodilator/) properties
+- Raktapitta/hemoptysis (coughing blood): hemostatic (Raktastambhaka) action of [Vasa](/herb/vasa/) validated for controlling respiratory hemorrhage
 - Anti-allergic respiratory action: decreased eosinophil count in clinical study confirms anti-allergic mechanism
 
 ## What do recent clinical trials show?
@@ -79,7 +79,7 @@ Charaka Samhita (2500 BCE/1000 BCE); Sushruta Samhita (500 BCE); various Nighant
 
 **Storage:** Airtight container, cool place
 
-**Marker Compounds:** Vasicine, Vasicinone, [Deoxyvasicine](/nighantu/glossary/compounds-c-d/#deoxyvasicine)
+**Marker Compounds:** Vasicine, Vasicinone, [Deoxyvasicine](/glossary/compounds-c-d/#deoxyvasicine)
 
 **Quality Parameters:** Total sugar, moisture NMT 15%, vasicine content by HPLC
 
@@ -88,4 +88,4 @@ Charaka Samhita (2500 BCE/1000 BCE); Sushruta Samhita (500 BCE); various Nighant
 ### Synergistic Combinations
 
 - Honey enhances bronchodilatory action
-- With [Pippali](/nighantu/herb/pippali/) for enhanced respiratory effect
+- With [Pippali](/herb/pippali/) for enhanced respiratory effect

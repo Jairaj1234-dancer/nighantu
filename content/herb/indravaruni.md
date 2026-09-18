@@ -33,14 +33,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Indravaruni/meta-analysis.md"
 - Cucurbitacin I
 - Colocynthoside A and B
 - Colocynthin (glycoside)
-- [Quercetin](/nighantu/reference/quercetinquercetin/)
-- [Isovitexin](/nighantu/glossary/compounds-g-l/#isovitexin)
+- [Quercetin](/reference/quercetinquercetin/)
+- [Isovitexin](/glossary/compounds-g-l/#isovitexin)
 - Caffeic acid
 
 ## How does it work?
 
-- [Antidiabetic](/nighantu/reference/antidiabetic/): [Cucurbitacins](/nighantu/glossary/compounds-c-d/#cucurbitacins) and [flavonoids](/nighantu/reference/flavonoids/) stimulate insulin secretion, enhance [glucose](/nighantu/glossary/compounds-d-g/#glucose) uptake in peripheral tissues, and inhibit alpha-glucosidase
-- [Anticancer](/nighantu/reference/anticancer/): Cucurbitacin B and E inhibit STAT3 and JAK2/STAT3 signaling, induce G2/M cell cycle arrest, and activate caspase-mediated apoptosis
+- [Antidiabetic](/reference/antidiabetic/): [Cucurbitacins](/glossary/compounds-c-d/#cucurbitacins) and [flavonoids](/reference/flavonoids/) stimulate insulin secretion, enhance [glucose](/glossary/compounds-d-g/#glucose) uptake in peripheral tissues, and inhibit alpha-glucosidase
+- [Anticancer](/reference/anticancer/): Cucurbitacin B and E inhibit STAT3 and JAK2/STAT3 signaling, induce G2/M cell cycle arrest, and activate caspase-mediated apoptosis
 - Purgative: Colocynthin glycoside stimulates colonic motility through irritation of intestinal mucosa
 
 ## Which traditional uses are supported by research?
@@ -52,7 +52,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Indravaruni/meta-analysis.md"
 ## What do recent clinical trials show?
 
 - Cheng X, Qin M, Chen R and others 2023. [Citrullus colocynthis (L.) Schrad.: A Promising Pharmaceutical Resource for Multiple Diseases](https://pubmed.ncbi.nlm.nih.gov/37687049/). *Molecules (Basel, Switzerland)*. PMID [37687049](https://pubmed.ncbi.nlm.nih.gov/37687049/) · [doi:10.3390/molecules28176221](https://doi.org/10.3390/molecules28176221)  
-  Comprehensive review of biological activities particularly in antidiabetic, anticancer, anti-inflammatory, [antioxidant](/nighantu/reference/antioxidant/), insecticidal, and antibacterial applications.
+  Comprehensive review of biological activities particularly in antidiabetic, anticancer, anti-inflammatory, [antioxidant](/reference/antioxidant/), insecticidal, and antibacterial applications.
 - Li QY, Munawar M, Saeed M and others 2021. [Citrullus colocynthis (L.) Schrad (Bitter Apple Fruit): Promising Traditional Uses, Pharmacological Effects, Aspects, and Potential Applications](https://pubmed.ncbi.nlm.nih.gov/35145403/). *Frontiers in pharmacology*. PMID [35145403](https://pubmed.ncbi.nlm.nih.gov/35145403/) · [doi:10.3389/fphar.2021.791049](https://doi.org/10.3389/fphar.2021.791049)  
   Documented broad spectrum therapeutic properties; identified cucurbitacins as principal bioactive agents with significant anticancer mechanism through STAT3 and JAK inhibition.
 - Alemseged NM, Ibrahim MA, Sheikabdullahi MA 2025. [Colocynth induced multiorgan toxicity: a case report](https://pubmed.ncbi.nlm.nih.gov/41088384/). *Journal of medical case reports*. PMID [41088384](https://pubmed.ncbi.nlm.nih.gov/41088384/) · [doi:10.1186/s13256-025-05542-2](https://doi.org/10.1186/s13256-025-05542-2)  
@@ -60,7 +60,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Indravaruni/meta-analysis.md"
 
 ## Recent safety updates
 
-- UNSAFE when taken by mouth in uncontrolled doses; cucurbitacins cause severe GI irritation, bloody diarrhea, kidney damage; banned by US FDA in 1991 for OTC [laxative](/nighantu/reference/laxative/) use
+- UNSAFE when taken by mouth in uncontrolled doses; cucurbitacins cause severe GI irritation, bloody diarrhea, kidney damage; banned by US FDA in 1991 for OTC [laxative](/reference/laxative/) use
 - High doses can cause multiorgan toxicity (hepatorenal failure, electrolyte disturbance, hypoglycemia); must only be used in processed Ayurvedic preparations (Shodhita) under strict practitioner supervision
 
 ## Dosage forms and preparation
@@ -69,7 +69,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Indravaruni/meta-analysis.md"
 
 **Standard Dosage:** 1-3g fruit powder (use with caution due to purgative action); 250-500mg extract; external oil as directed
 
-**Bioavailability:** Citrullus colocynthis contains cucurbitacins (potent cytotoxic [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids)) with good oral absorption due to lipophilicity. Colocynthin glycoside is hydrolyzed in GI tract to active aglycone. Narrow therapeutic index; precise dosing is critical. Bioavailability enhancement is not typically sought given potency and toxicity concerns.
+**Bioavailability:** Citrullus colocynthis contains cucurbitacins (potent cytotoxic [triterpenoids](/glossary/compounds-t-z/#triterpenoids)) with good oral absorption due to lipophilicity. Colocynthin glycoside is hydrolyzed in GI tract to active aglycone. Narrow therapeutic index; precise dosing is critical. Bioavailability enhancement is not typically sought given potency and toxicity concerns.
 
 **Optimal Timing:** Under physician supervision only; typically at bedtime for purgative action; externally as needed for joint pain
 
@@ -90,6 +90,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Indravaruni/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Eranda](/nighantu/herb/eranda/) (castor oil) for purgative formulations
-- With [Haridra](/nighantu/herb/haridra/) to modulate inflammation
-- With [Triphala](/nighantu/herb/triphala/) for regulated bowel cleansing
+- With [Eranda](/herb/eranda/) (castor oil) for purgative formulations
+- With [Haridra](/herb/haridra/) to modulate inflammation
+- With [Triphala](/herb/triphala/) for regulated bowel cleansing

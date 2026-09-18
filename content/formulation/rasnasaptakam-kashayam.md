@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Rasnasaptaka
 
 | Language | Name |
 |----------|------|
-| English | [Rasnasaptakam Kashayam](/nighantu/formulation/rasnasaptakam-kashayam/) |
+| English | [Rasnasaptakam Kashayam](/formulation/rasnasaptakam-kashayam/) |
 
 ## Where is it described in the classical texts?
 
@@ -31,17 +31,17 @@ Earliest reference in Ashtanga Hridaya commentaries. Hints of formula in Vangase
 
 ## How does it work?
 
-- Anti-inflammatory activity through inhibition of pro-inflammatory cytokines (TNF-alpha, IL-6) by [Rasna](/nighantu/herb/rasna/) and [Guduchi](/nighantu/herb/guduchi/)
-- Ama (toxin) digestion by [Rasna](/nighantu/herb/rasna/)'s digestive action helps resolve metabolic waste contributing to joint inflammation
+- Anti-inflammatory activity through inhibition of pro-inflammatory cytokines (TNF-alpha, IL-6) by [Rasna](/herb/rasna/) and [Guduchi](/herb/guduchi/)
+- Ama (toxin) digestion by [Rasna](/herb/rasna/)'s digestive action helps resolve metabolic waste contributing to joint inflammation
 - Vata-Kapha balancing through the synergistic seven-herb combination reduces joint stiffness and swelling
-- [Analgesic](/nighantu/reference/analgesic/) action from [Devadaru](/nighantu/herb/devadaru/) and [Eranda](/nighantu/herb/eranda/) provides direct pain relief in musculoskeletal conditions
+- [Analgesic](/reference/analgesic/) action from [Devadaru](/herb/devadaru/) and [Eranda](/herb/eranda/) provides direct pain relief in musculoskeletal conditions
 
 ## Which traditional uses are supported by research?
 
 - Joint pain and rheumatoid arthritis - validated by clinical trial showing 35% improvement in pain scores
 - Chronic low back pain - supported by double-blind trial at Amrita Institute
-- Fever associated with body aches - supported by anti-inflammatory and [antipyretic](/nighantu/reference/antipyretic/) properties of [Guduchi](/nighantu/herb/guduchi/)
-- Sciatica and neuralgia - traditional use corroborated by analgesic mechanisms of [Devadaru](/nighantu/herb/devadaru/) and [Eranda](/nighantu/herb/eranda/)
+- Fever associated with body aches - supported by anti-inflammatory and [antipyretic](/reference/antipyretic/) properties of [Guduchi](/herb/guduchi/)
+- Sciatica and neuralgia - traditional use corroborated by analgesic mechanisms of [Devadaru](/herb/devadaru/) and [Eranda](/herb/eranda/)
 
 ## What do recent clinical trials show?
 
@@ -85,4 +85,4 @@ Earliest reference in Ashtanga Hridaya commentaries. Hints of formula in Vangase
 
 ### Synergistic Combinations
 
-- Classical combination of [Rasna](/nighantu/herb/rasna/) and 6 other herbs provides synergistic therapeutic effect
+- Classical combination of [Rasna](/herb/rasna/) and 6 other herbs provides synergistic therapeutic effect

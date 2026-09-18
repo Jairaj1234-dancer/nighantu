@@ -23,16 +23,16 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Pippali-Kh
 
 | Language | Name |
 |----------|------|
-| English | [Pippali](/nighantu/herb/pippali/) Khanda |
+| English | [Pippali](/herb/pippali/) Khanda |
 
 ## Key Ingredients
 
-- [Pippali](/nighantu/herb/pippali/) (Piper longum / Long pepper) - primary ingredient
-- [Ghrita](/nighantu/herb/ghrita/) (clarified cow butter)
-- [Madhu](/nighantu/herb/madhu/) (honey)
+- [Pippali](/herb/pippali/) (Piper longum / Long pepper) - primary ingredient
+- [Ghrita](/herb/ghrita/) (clarified cow butter)
+- [Madhu](/herb/madhu/) (honey)
 - Sharkara (sugar)
-- Shunthi ([Zingiber](/nighantu/herb/zingiber/) officinale / [Ginger](/nighantu/herb/ginger/))
-- Maricha (Piper nigrum / [Black pepper](/nighantu/herb/black-pepper/))
+- Shunthi ([Zingiber](/herb/zingiber/) officinale / [Ginger](/herb/ginger/))
+- Maricha (Piper nigrum / [Black pepper](/herb/black-pepper/))
 - Twak (Cinnamomum zeylanicum / Cinnamon)
 - Ela (Elettaria cardamomum / Cardamom)
 - Patra (Cinnamomum tamala / Bay leaf)
@@ -43,16 +43,16 @@ Charaka Samhita (earliest mention as Pippalimula, circa 100 BCE); Sushruta Samhi
 
 ## How does it work?
 
-- [Piperine](/nighantu/reference/piperine/) alkaloid provides potent bioavailability enhancement by inhibiting hepatic and intestinal glucuronidation [enzymes](/nighantu/glossary/compounds-d-g/#enzymes)
-- Volatile oils (pinene, [limonene](/nighantu/glossary/compounds-g-l/#limonene)) impart mucolytic and bronchodilatory actions, clearing respiratory passages and reducing congestion
+- [Piperine](/reference/piperine/) alkaloid provides potent bioavailability enhancement by inhibiting hepatic and intestinal glucuronidation [enzymes](/glossary/compounds-d-g/#enzymes)
+- Volatile oils (pinene, [limonene](/glossary/compounds-g-l/#limonene)) impart mucolytic and bronchodilatory actions, clearing respiratory passages and reducing congestion
 - Anti-inflammatory action of piperine reduces bronchial mucosal inflammation and hyperreactivity in chronic respiratory conditions
-- Resins and [tannins](/nighantu/reference/tannins/) provide mild astringent and anti-inflammatory properties supporting respiratory tissue healing
+- Resins and [tannins](/reference/tannins/) provide mild astringent and anti-inflammatory properties supporting respiratory tissue healing
 - Deepana-Pachana (digestive stimulation) corrects Mandagni and improves nutrient absorption, addressing debility underlying respiratory weakness
 
 ## Which traditional uses are supported by research?
 
 - Kasa-Shwasa (cough and asthma): 25% spasm reduction in tracheal tissue validates classical bronchodilatory use
-- Rasayana (rejuvenation): Vardhamana [Pippali](/nighantu/herb/pippali/) protocol for promoting strength, respiratory resilience, and slowing age-related decline - clinically observed
+- Rasayana (rejuvenation): Vardhamana [Pippali](/herb/pippali/) protocol for promoting strength, respiratory resilience, and slowing age-related decline - clinically observed
 - Agnimandya (digestive weakness): piperine-mediated enhancement of digestive enzyme activity well-validated pharmacologically
 - Pranavaha Srotas strengthening (respiratory channel health): volatile oil mucolytic and bronchodilatory actions confirmed experimentally
 
@@ -91,7 +91,7 @@ Charaka Samhita (earliest mention as Pippalimula, circa 100 BCE); Sushruta Samhi
 
 **Storage:** Airtight container
 
-**Marker Compounds:** Piperine, [Piperlongumine](/nighantu/glossary/compounds-o-q/#piperlongumine)
+**Marker Compounds:** Piperine, [Piperlongumine](/glossary/compounds-o-q/#piperlongumine)
 
 **Quality Parameters:** Moisture NMT 8%, piperine content NLT 0.5%, total ash
 

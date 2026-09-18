@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kasis-Bhasma/meta-an
 
 | Language | Name |
 |----------|------|
-| English | [Kasis Bhasma](/nighantu/herb/kasis-bhasma/) |
+| English | [Kasis Bhasma](/herb/kasis-bhasma/) |
 
 ## Key Phytochemical Constituents
 
@@ -31,13 +31,13 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kasis-Bhasma/meta-an
 - Residual sulfate compounds
 - Trace copper and zinc
 - Organic compounds from herbal processing
-- Calcium and [magnesium](/nighantu/glossary/compounds-l-o/#magnesium) from processing media
+- Calcium and [magnesium](/glossary/compounds-l-o/#magnesium) from processing media
 
 ## How does it work?
 
 - Enhanced iron supplementation through calcined ferrous sulfate with higher bioavailability than raw form, supporting hemoglobin synthesis without GI distress
 - Deepana (appetite stimulation) and Pachana (digestive fire strengthening) through iron-mediated metabolic enzyme activation in the gastrointestinal tract
-- [Hepatoprotective](/nighantu/reference/hepatoprotective/) action through [antioxidant](/nighantu/reference/antioxidant/) activity and cellular membrane stabilization, protecting liver cells from toxic damage (validated against CCl4 toxicity)
+- [Hepatoprotective](/reference/hepatoprotective/) action through [antioxidant](/reference/antioxidant/) activity and cellular membrane stabilization, protecting liver cells from toxic damage (validated against CCl4 toxicity)
 - Raktavardhaka (blood-enhancing) action through combined iron provision and improved intestinal absorption, addressing anemia at multiple levels
 
 ## Which traditional uses are supported by research?
@@ -54,8 +54,8 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kasis-Bhasma/meta-an
 
 ## Recent safety updates
 
-- SAFER THAN RAW FORM: Calcined [Kasis Bhasma](/nighantu/herb/kasis-bhasma/) is nontoxic compared to unpurified Kasisa. Shodhana and Marana processes essential for safety.
-- NO GI SIDE EFFECTS: Stomach discomfort, breathing difficulty, constipation, and diarrhea common with ferrous sulfate are NOT reported with [Kasis Bhasma](/nighantu/herb/kasis-bhasma/) use
+- SAFER THAN RAW FORM: Calcined [Kasis Bhasma](/herb/kasis-bhasma/) is nontoxic compared to unpurified Kasisa. Shodhana and Marana processes essential for safety.
+- NO GI SIDE EFFECTS: Stomach discomfort, breathing difficulty, constipation, and diarrhea common with ferrous sulfate are NOT reported with [Kasis Bhasma](/herb/kasis-bhasma/) use
 - PREGNANCY WARNING: POSSIBLY UNSAFE due to emmenagogue effects. Not recommended during pregnancy and breastfeeding.
 - LONG-TERM CAUTION: Like all iron preparations, prolonged unsupervised use may cause iron overload. Periodic monitoring recommended.
 
@@ -77,7 +77,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kasis-Bhasma/meta-an
 
 **Bioavailability:** Good; iron sulfate converted to bioavailable iron oxide nanoparticles
 
-**Optimal Timing:** With honey or [Triphala](/nighantu/herb/triphala/) Kwatha; after meals to reduce GI irritation
+**Optimal Timing:** With honey or [Triphala](/herb/triphala/) Kwatha; after meals to reduce GI irritation
 
 **Standardized Extract:** Calcined green vitriol (ferrous sulfate) bhasma
 
@@ -89,4 +89,4 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kasis-Bhasma/meta-an
 
 **Quality Parameters:** Iron content >50%, free sulfate <1%, standard bhasma tests, particle size <100 nm
 
-**Vehicle (Anupana):** Honey, [Triphala](/nighantu/herb/triphala/) Kwatha, or [Mandura Bhasma](/nighantu/herb/mandura-bhasma/) combination
+**Vehicle (Anupana):** Honey, [Triphala](/herb/triphala/) Kwatha, or [Mandura Bhasma](/herb/mandura-bhasma/) combination

@@ -28,33 +28,33 @@ srcRel: "_Hub/Cross-Tradition/Antiinflammatory--Pain-Across-Traditions.md"
 
 ## Ayurveda Approach
 
-- [Vidarikand](/nighantu/herb/vidarikand/) *Pueraria tuberosa (Willd.) DC.*
+- [Vidarikand](/herb/vidarikand/) *Pueraria tuberosa (Willd.) DC.*
   Actions: Antioxidant, Anticancer, Aphrodisiac
-- [Gambhari Phala](/nighantu/herb/gambhari-phala/) *Gmelina arborea Roxb.*
+- [Gambhari Phala](/herb/gambhari-phala/) *Gmelina arborea Roxb.*
   Actions: Antioxidant, Galactagogue, Wound Healing
-- [Kushmanda](/nighantu/herb/kushmanda/) *Benincasa hispida (Thunb.) Cogn.*
+- [Kushmanda](/herb/kushmanda/) *Benincasa hispida (Thunb.) Cogn.*
   Actions: Antioxidant, Nootropic, Medhya (Nootropic)
-- [Kharjura](/nighantu/herb/kharjura/) *Phoenix dactylifera L.*
+- [Kharjura](/herb/kharjura/) *Phoenix dactylifera L.*
   Actions: Antioxidant, Anticancer, Aphrodisiac
-- [Akhuparni](/nighantu/herb/akhuparni/) *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
+- [Akhuparni](/herb/akhuparni/) *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
   Actions: Antioxidant, Anticancer, Nootropic
-- [Jivanti](/nighantu/herb/jivanti/) *Leptadenia reticulata (Retz.) Wight & Arn.*
+- [Jivanti](/herb/jivanti/) *Leptadenia reticulata (Retz.) Wight & Arn.*
   Actions: Antioxidant, Anticancer, Galactagogue
-- [Madhuka](/nighantu/herb/madhuka/) *Madhuca longifolia (J.Koenig ex L.) J.F.Macbr.*
+- [Madhuka](/herb/madhuka/) *Madhuca longifolia (J.Koenig ex L.) J.F.Macbr.*
   Actions: Antioxidant, Anticancer, Galactagogue
-- [Triphala Churna](/nighantu/formulation/triphala-churna/)
+- [Triphala Churna](/formulation/triphala-churna/)
   Actions: Antioxidant, Anticancer, Wound Healing
-- [Ajwain](/nighantu/herb/ajwain/) *Trachyspermum ammi*
+- [Ajwain](/herb/ajwain/) *Trachyspermum ammi*
   Actions: Antioxidant, Bronchodilator, Antidiabetic
-- [Aparajita](/nighantu/herb/aparajita/) *Clitoria ternatea L.*
+- [Aparajita](/herb/aparajita/) *Clitoria ternatea L.*
   Actions: Antioxidant, Anticancer, Nootropic
-- [Gokarna](/nighantu/herb/gokarna/) *Clitoria ternatea L. (same species as [Aparajita](/nighantu/herb/aparajita/); Gokarna is a regional Ayurvedic synonym)*
+- [Gokarna](/herb/gokarna/) *Clitoria ternatea L. (same species as [Aparajita](/herb/aparajita/); Gokarna is a regional Ayurvedic synonym)*
   Actions: Antioxidant, Wound Healing, Nootropic
-- [Nagabala](/nighantu/herb/nagabala/) *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
+- [Nagabala](/herb/nagabala/) *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
   Actions: Antioxidant, Aphrodisiac, Medhya (Nootropic)
-- [Pippali Moola](/nighantu/herb/pippali-moola/) *Piper longum L. (root)*
+- [Pippali Moola](/herb/pippali-moola/) *Piper longum L. (root)*
   Actions: Antioxidant, Anticancer, Bronchodilator
-- [Shatavari Ksheera](/nighantu/herb/shatavari-ksheera/) *Asparagus racemosus Willd.*
+- [Shatavari Ksheera](/herb/shatavari-ksheera/) *Asparagus racemosus Willd.*
   Actions: Antioxidant, Anticancer, Galactagogue
-- [Shati](/nighantu/herb/shati/) *Hedychium spicatum Buch.-Ham. ex Sm.*
+- [Shati](/herb/shati/) *Hedychium spicatum Buch.-Ham. ex Sm.*
   Actions: Antioxidant, Bronchodilator, Antidiabetic

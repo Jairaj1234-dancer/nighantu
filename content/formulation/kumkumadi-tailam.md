@@ -24,15 +24,15 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kumkumadi-T
 | Language | Name |
 |----------|------|
 | English | Kumkumadi |
-| Latin/Botanical | *Polyherbal formulation ([Kumkumadi Tailam](/nighantu/formulation/kumkumadi-tailam/)) - primary ingredient: Crocus sativus L. ([Saffron](/nighantu/herb/saffron/)/Kumkuma)* |
+| Latin/Botanical | *Polyherbal formulation ([Kumkumadi Tailam](/formulation/kumkumadi-tailam/)) - primary ingredient: Crocus sativus L. ([Saffron](/herb/saffron/)/Kumkuma)* |
 
 ## Key Phytochemical Constituents
 
-- [Crocin](/nighantu/glossary/compounds-c-d/#crocin) (carotenoid pigment - skin brightening [antioxidant](/nighantu/reference/antioxidant/))
-- [Crocetin](/nighantu/glossary/compounds-c-d/#crocetin) (apocarotenoid - anti-UV and anti-wrinkle)
-- [Safranal](/nighantu/glossary/compounds-q-t/#safranal) (monoterpene aldehyde - aromatic, anti-inflammatory)
-- [Picrocrocin](/nighantu/glossary/compounds-o-q/#picrocrocin) (glycoside - bitter principle)
-- [Kaempferol](/nighantu/reference/kaempferol/) (flavonoid - anti-wrinkle and antioxidant)
+- [Crocin](/glossary/compounds-c-d/#crocin) (carotenoid pigment - skin brightening [antioxidant](/reference/antioxidant/))
+- [Crocetin](/glossary/compounds-c-d/#crocetin) (apocarotenoid - anti-UV and anti-wrinkle)
+- [Safranal](/glossary/compounds-q-t/#safranal) (monoterpene aldehyde - aromatic, anti-inflammatory)
+- [Picrocrocin](/glossary/compounds-o-q/#picrocrocin) (glycoside - bitter principle)
+- [Kaempferol](/reference/kaempferol/) (flavonoid - anti-wrinkle and antioxidant)
 - alpha-Santalol (from sandalwood oil in formulation)
 - Vitamin C and zinc (from supporting herbal ingredients)
 
@@ -45,7 +45,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kumkumadi-T
 
 ## Which traditional uses are supported by research?
 
-- Facial complexion enhancement (Varnya): Validated by clinical studies showing 75% participant improvement in skin tone with [saffron](/nighantu/herb/saffron/) application
+- Facial complexion enhancement (Varnya): Validated by clinical studies showing 75% participant improvement in skin tone with [saffron](/herb/saffron/) application
 - Skin brightening and anti-pigmentation (Vyanga Chikitsa): Validated by demonstrated anti-tyrosinase activity of crocin/crocetin reducing melanin synthesis
 - Anti-aging facial rejuvenation: Validated by double-blind trial showing 22% hydration improvement and visible anti-wrinkle effects
 - Skin redness and inflammation reduction: Supported by safranal-mediated anti-inflammatory activity in clinical observations
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kumkumadi-T
 ## Recent safety updates
 
 - Kumkumadi oil is generally well-tolerated topically; rare allergic reactions may occur due to individual sensitivity to saffron or other herbal constituents. Patch test recommended before first use
-- Saffron adulteration is a significant concern - safflower, [turmeric](/nighantu/herb/turmeric/), or synthetic dyes may be substituted. Authentic Crocus sativus saffron should be verified by crocin content analysis. High-quality formulations require standardized saffron inputs
+- Saffron adulteration is a significant concern - safflower, [turmeric](/herb/turmeric/), or synthetic dyes may be substituted. Authentic Crocus sativus saffron should be verified by crocin content analysis. High-quality formulations require standardized saffron inputs
 
 ## What is it made of?
 
@@ -82,7 +82,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kumkumadi-T
 
 **Standard Dosage:** External: 2-5 drops on face/skin, massage gently, once daily (usually at bedtime), as per Ashtanga Hridayam/Sahasrayogam
 
-**Bioavailability:** Facial skin is thin and highly vascular — topical actives are well-absorbed. Crocin and crocetin from saffron provide antioxidant activity directly in dermis. Sandalwood (alpha-santalol) has anti-inflammatory and anti-melanogenic activity via tyrosinase inhibition. [Manjishtha](/nighantu/herb/manjishtha/) ([purpurin](/nighantu/glossary/compounds-o-q/#purpurin), [alizarin](/nighantu/glossary/compounds-1-a/#alizarin)) provides additional depigmenting action.
+**Bioavailability:** Facial skin is thin and highly vascular — topical actives are well-absorbed. Crocin and crocetin from saffron provide antioxidant activity directly in dermis. Sandalwood (alpha-santalol) has anti-inflammatory and anti-melanogenic activity via tyrosinase inhibition. [Manjishtha](/herb/manjishtha/) ([purpurin](/glossary/compounds-o-q/#purpurin), [alizarin](/glossary/compounds-1-a/#alizarin)) provides additional depigmenting action.
 
 **Optimal Timing:** At bedtime (overnight application for maximum absorption and repair). Can also be applied in morning before makeup.
 
@@ -90,15 +90,15 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kumkumadi-T
 
 **Storage:** Store in dark amber glass bottles with dropper caps in a cool, dry place. Temperature not exceeding 25°C. Protect from light (crocin is photosensitive). Refrigeration extends shelf life.
 
-**Marker Compounds:** Crocin, Crocetin, Safranal, Picrocrocin (from Saffron), Alpha-santalol, Purpurin (from [Manjishtha](/nighantu/herb/manjishtha/)), Alizarin
+**Marker Compounds:** Crocin, Crocetin, Safranal, Picrocrocin (from Saffron), Alpha-santalol, Purpurin (from [Manjishtha](/herb/manjishtha/)), Alizarin
 
-**Quality Parameters:** Acid value (<5), peroxide value (<5 — stricter for facial oil), saponification value, refractive index, specific gravity, crocin content from saffron by HPLC, alpha-santalol from sandalwood, total [carotenoids](/nighantu/glossary/compounds-a-c/#carotenoids), rancidity test negative (critical for facial use), HPTLC multi-marker fingerprint, microbial limits (strict — facial application), heavy metals (strict limits), dermatological safety testing
+**Quality Parameters:** Acid value (<5), peroxide value (<5 — stricter for facial oil), saponification value, refractive index, specific gravity, crocin content from saffron by HPLC, alpha-santalol from sandalwood, total [carotenoids](/glossary/compounds-a-c/#carotenoids), rancidity test negative (critical for facial use), HPTLC multi-marker fingerprint, microbial limits (strict — facial application), heavy metals (strict limits), dermatological safety testing
 
 **Vehicle (Anupana):** Not applicable — topical facial use. Apply 2-5 drops, massage upward in circular motions.
 
 ### Synergistic Combinations
 
-- [Eladi Thailam](/nighantu/formulation/eladi-thailam/)
+- [Eladi Thailam](/formulation/eladi-thailam/)
 - Nalpamaradi Thailam
 - Chandanadi Thailam
 - Kumkumadi Lepam (paste)

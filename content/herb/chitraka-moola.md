@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chitraka-Moola/meta-analysis.
 
 | Language | Name |
 |----------|------|
-| English | [Chitraka Moola](/nighantu/herb/chitraka-moola/) |
+| English | [Chitraka Moola](/herb/chitraka-moola/) |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -36,13 +36,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chitraka-Moola/meta-analysis.
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (root powder), Tablet, Capsule, Kashayam (decoction), As component of [Chitrakaharitaki](/nighantu/herb/chitrakaharitaki/) and Chitrakadi formulations
+**Dosage Forms:** Churna (root powder), Tablet, Capsule, Kashayam (decoction), As component of [Chitrakaharitaki](/herb/chitrakaharitaki/) and Chitrakadi formulations
 
-**Standard Dosage:** 1-2g root powder twice daily; 250-500mg extract capsule; 30-50ml mild decoction. Same cautions as [Chitrak](/nighantu/herb/chitrak/)—root is the most potent part.
+**Standard Dosage:** 1-2g root powder twice daily; 250-500mg extract capsule; 30-50ml mild decoction. Same cautions as [Chitrak](/herb/chitrak/)—root is the most potent part.
 
-**Bioavailability:** Root (Moola) of Plumbago zeylanica contains the highest concentration of [plumbagin](/nighantu/glossary/compounds-o-q/#plumbagin) (1.5-3.5%). Bioavailability profile identical to [Chitrak](/nighantu/herb/chitrak/) but with higher active concentration per unit weight. Lipophilic plumbagin is rapidly absorbed; half-life approximately 4-6 hours. Root cortex (outer bark) has the highest plumbagin concentration; stele (inner wood) has lower levels. Precise extraction and dose standardization are even more critical for root-specific preparations.
+**Bioavailability:** Root (Moola) of Plumbago zeylanica contains the highest concentration of [plumbagin](/glossary/compounds-o-q/#plumbagin) (1.5-3.5%). Bioavailability profile identical to [Chitrak](/herb/chitrak/) but with higher active concentration per unit weight. Lipophilic plumbagin is rapidly absorbed; half-life approximately 4-6 hours. Root cortex (outer bark) has the highest plumbagin concentration; stele (inner wood) has lower levels. Precise extraction and dose standardization are even more critical for root-specific preparations.
 
-**Optimal Timing:** Before meals with warm milk or ghee to buffer GI irritation; traditional preparations ([Chitrakaharitaki](/nighantu/herb/chitrakaharitaki/)) after meals
+**Optimal Timing:** Before meals with warm milk or ghee to buffer GI irritation; traditional preparations ([Chitrakaharitaki](/herb/chitrakaharitaki/)) after meals
 
 **Standardized Extract:** Root extract standardized to plumbagin 1.5-2.5% (controlled range for safety); purified root extract (post Kshira Paka) with reduced free plumbagin.
 
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chitraka-Moola/meta-analysis.
 
 **Storage:** Airtight, light-protected containers. Cool storage below 25°C. Root material clearly labeled with caution warnings. Keep away from children. Separate from food-grade products.
 
-**Marker Compounds:** Plumbagin, Chitranone, Isoshinanolone, 3,3'-Biplumbagin, Plumbagic acid, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/nighantu/reference/stigmasterol/)
+**Marker Compounds:** Plumbagin, Chitranone, Isoshinanolone, 3,3'-Biplumbagin, Plumbagic acid, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/reference/stigmasterol/)
 
 ### Extraction Methods
 
@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chitraka-Moola/meta-analysis.
 
 ### Synergistic Combinations
 
-- With [Haritaki](/nighantu/herb/haritaki/) in classical Chitrakaharitaki Avaleha
-- With Shunthi and [Pippali](/nighantu/herb/pippali/) for Agni Deepana
+- With [Haritaki](/herb/haritaki/) in classical Chitrakaharitaki Avaleha
+- With Shunthi and [Pippali](/herb/pippali/) for Agni Deepana
 - With Musta for digestive formulations
-- With [Guduchi](/nighantu/herb/guduchi/) for immune support with digestive correction
+- With [Guduchi](/herb/guduchi/) for immune support with digestive correction

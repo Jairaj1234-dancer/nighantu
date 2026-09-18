@@ -40,28 +40,28 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Anti-inflammatory-Pain/Kembuka/meta-analysi
 
 **Standard Dosage:** 2-4 g powder twice daily; 40-80 mL decoction twice daily; paste for external application as needed
 
-**Bioavailability:** [Alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) and flavonoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) show moderate oral bioavailability. Traditional preparation with [Trikatu](/nighantu/herb/trikatu/) enhances absorption of lipophilic constituents. Decoction form provides hydrolyzed glycosides with improved absorption. Mucilaginous constituents slow but sustain absorption.
+**Bioavailability:** [Alkaloids](/glossary/compounds-1-a/#alkaloids) and flavonoid [glycosides](/glossary/compounds-g-l/#glycosides) show moderate oral bioavailability. Traditional preparation with [Trikatu](/herb/trikatu/) enhances absorption of lipophilic constituents. Decoction form provides hydrolyzed glycosides with improved absorption. Mucilaginous constituents slow but sustain absorption.
 
 **Optimal Timing:** After meals with warm water; for anti-inflammatory applications, twice daily at consistent intervals
 
-**Standardized Extract:** Standardized to minimum 2% [diosgenin](/nighantu/glossary/compounds-d-g/#diosgenin) by HPLC and 3% total [saponins](/nighantu/reference/saponins/) (as diosgenin equivalents)
+**Standardized Extract:** Standardized to minimum 2% [diosgenin](/glossary/compounds-d-g/#diosgenin) by HPLC and 3% total [saponins](/reference/saponins/) (as diosgenin equivalents)
 
 **Shelf Life:** 18 months for rhizome powder; 24 months for capsules; decoction consumed within 24 hours
 
 **Storage:** Store dried rhizome material in airtight containers at 15-30°C. High moisture content of raw rhizome (>70%) demands thorough drying to <10% moisture. Protect from humidity and insect infestation.
 
-**Marker Compounds:** Diosgenin, [Costunolide](/nighantu/glossary/compounds-c-d/#costunolide), Eremanthin, [Stigmasterol](/nighantu/reference/stigmasterol/), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Gracillin, Prosapogenin
+**Marker Compounds:** Diosgenin, [Costunolide](/glossary/compounds-c-d/#costunolide), Eremanthin, [Stigmasterol](/reference/stigmasterol/), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Gracillin, Prosapogenin
 
 ### Extraction Methods
 
 - Water decoction (traditional)
 - Hydroalcoholic extraction (50-60% ethanol)
-- Cold maceration for [mucilage](/nighantu/glossary/compounds-l-o/#mucilage)-rich preparations
+- Cold maceration for [mucilage](/glossary/compounds-l-o/#mucilage)-rich preparations
 - Infusion for volatile-rich fractions
 
 ### Synergistic Combinations
 
-- Shunthi ([Ginger](/nighantu/herb/ginger/)) for digestive and carminative synergy
-- [Haridra](/nighantu/herb/haridra/) for anti-inflammatory combinations
+- Shunthi ([Ginger](/herb/ginger/)) for digestive and carminative synergy
+- [Haridra](/herb/haridra/) for anti-inflammatory combinations
 - Musta for digestive disorders
-- [Eranda](/nighantu/herb/eranda/) for anti-arthritic formulations
+- [Eranda](/herb/eranda/) for anti-arthritic formulations

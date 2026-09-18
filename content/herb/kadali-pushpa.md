@@ -23,33 +23,33 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali-Pushpa/meta-analysis.m
 
 | Language | Name |
 |----------|------|
-| English | [Kadali](/nighantu/herb/kadali/) Pushpa |
+| English | [Kadali](/herb/kadali/) Pushpa |
 | Latin/Botanical | *Musa paradisiaca L. (inflorescence/flower)* |
 
 ## Key Phytochemical Constituents
 
-- [Anthocyanins](/nighantu/glossary/compounds-1-a/#anthocyanins) (cyanidin, delphinidin)
-- [Quercetin](/nighantu/reference/quercetinquercetin/)
-- [Catechin](/nighantu/reference/catechin/)
-- [Myricetin](/nighantu/glossary/compounds-l-o/#myricetin)
-- [Saponins](/nighantu/reference/saponins/)
-- [Tannins](/nighantu/reference/tannins/)
-- [Serotonin](/nighantu/glossary/compounds-q-t/#serotonin)
-- [Umbelliferone](/nighantu/glossary/compounds-t-z/#umbelliferone)
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- [Anthocyanins](/glossary/compounds-1-a/#anthocyanins) (cyanidin, delphinidin)
+- [Quercetin](/reference/quercetinquercetin/)
+- [Catechin](/reference/catechin/)
+- [Myricetin](/glossary/compounds-l-o/#myricetin)
+- [Saponins](/reference/saponins/)
+- [Tannins](/reference/tannins/)
+- [Serotonin](/glossary/compounds-q-t/#serotonin)
+- [Umbelliferone](/glossary/compounds-t-z/#umbelliferone)
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 - Ascorbic acid
 
 ## How does it work?
 
 - Anthocyanins (cyanidin, delphinidin) inhibit neutrophil activation through downregulation of TLR4/NF-kB signaling, reducing reactive oxygen species generation and inflammatory cytokine release
-- [Quercetin](/nighantu/reference/quercetinquercetin/) and myricetin exert anti-obesity effects by inhibiting adipogenesis through suppression of PPAR-gamma and C/EBP-alpha transcription factors in preadipocytes
-- Saponins and tannins reduce postprandial hyperglycemia by inhibiting alpha-amylase and alpha-glucosidase [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) in the digestive tract
+- [Quercetin](/reference/quercetinquercetin/) and myricetin exert anti-obesity effects by inhibiting adipogenesis through suppression of PPAR-gamma and C/EBP-alpha transcription factors in preadipocytes
+- Saponins and tannins reduce postprandial hyperglycemia by inhibiting alpha-amylase and alpha-glucosidase [enzymes](/glossary/compounds-d-g/#enzymes) in the digestive tract
 
 ## Which traditional uses are supported by research?
 
 - Anti-menorrhagic (reducing excessive menstrual bleeding) activity partially validated through traditional use documentation and supported by astringent tannin content and beta-sitosterol effects
 - Anti-inflammatory properties validated through in vivo acute lung injury models and in vitro studies, supporting traditional use of banana flower decoction for inflammatory conditions
-- [Antidiabetic](/nighantu/reference/antidiabetic/) effects supported by alpha-glucosidase inhibition studies, validating traditional use for blood sugar management
+- [Antidiabetic](/reference/antidiabetic/) effects supported by alpha-glucosidase inhibition studies, validating traditional use for blood sugar management
 
 ## What do recent clinical trials show?
 
@@ -72,7 +72,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali-Pushpa/meta-analysis.m
 
 **Standard Dosage:** 3-6g dried flower powder twice daily; 50-100ml decoction; 10-20ml fresh juice; as food preparation
 
-**Bioavailability:** Musa paradisiaca inflorescence (banana flower/blossom) contains [flavonoids](/nighantu/reference/flavonoids/), phenolic acids, tannins, saponins, and minerals. [Quercetin](/nighantu/reference/quercetinquercetin/) and [catechins](/nighantu/glossary/compounds-c-d/#catechins) from flower show ~5-10% oral bioavailability. Iron and zinc are moderately bioavailable. Fiber content supports local GI action. Traditional cooking of flowers in buttermilk may modulate mineral absorption.
+**Bioavailability:** Musa paradisiaca inflorescence (banana flower/blossom) contains [flavonoids](/reference/flavonoids/), phenolic acids, tannins, saponins, and minerals. [Quercetin](/reference/quercetinquercetin/) and [catechins](/glossary/compounds-c-d/#catechins) from flower show ~5-10% oral bioavailability. Iron and zinc are moderately bioavailable. Fiber content supports local GI action. Traditional cooking of flowers in buttermilk may modulate mineral absorption.
 
 **Optimal Timing:** With meals (traditional food preparation with buttermilk); supplement form before meals for gynecological benefits
 
@@ -82,7 +82,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali-Pushpa/meta-analysis.m
 
 **Storage:** Fresh: refrigerate, use within 24 hours. Dried preparations: cool, dry place below 25°C in airtight containers. Protect from moisture and light.
 
-**Marker Compounds:** [Quercetin](/nighantu/reference/quercetinquercetin/), Catechin, Gallic acid, Umbelliferone, Iron content (mineral assay), Saponins (hemolytic assay)
+**Marker Compounds:** [Quercetin](/reference/quercetinquercetin/), Catechin, Gallic acid, Umbelliferone, Iron content (mineral assay), Saponins (hemolytic assay)
 
 ### Extraction Methods
 
@@ -93,7 +93,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali-Pushpa/meta-analysis.m
 
 ### Synergistic Combinations
 
-- With [Ashoka](/nighantu/herb/ashoka/) bark for menstrual disorder management
-- With [Lodhra](/nighantu/herb/lodhra/) for leucorrhea
-- With [Shatavari](/nighantu/herb/shatavari/) for female reproductive health
-- With [Dadima](/nighantu/herb/dadima/) (pomegranate) for iron-rich blood tonic
+- With [Ashoka](/herb/ashoka/) bark for menstrual disorder management
+- With [Lodhra](/herb/lodhra/) for leucorrhea
+- With [Shatavari](/herb/shatavari/) for female reproductive health
+- With [Dadima](/herb/dadima/) (pomegranate) for iron-rich blood tonic

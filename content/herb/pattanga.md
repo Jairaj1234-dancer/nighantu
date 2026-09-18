@@ -30,7 +30,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Pattanga/meta-analysis.md"
 
 - Brazilin (neoflavonoid - primary bioactive compound)
 - Brazilein (oxidized form of brazilin)
-- Sappanone A and B ([homoisoflavonoids](/nighantu/glossary/compounds-g-l/#homoisoflavonoids))
+- Sappanone A and B ([homoisoflavonoids](/glossary/compounds-g-l/#homoisoflavonoids))
 - 4-O-Methylsappanol
 - Protosappanin A, B, C
 - Caesalpin (diterpene)
@@ -41,7 +41,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Pattanga/meta-analysis.md"
 
 - Brazilin melanin synthesis suppression: Brazilin inhibits forskolin-stimulated cAMP-mediated MITF expression, downregulating tyrosinase and TRP-1/TRP-2 transcription, directly reducing melanin production in melanocytes for skin brightening
 - Brazilin anti-inflammatory NO and PGE2 inhibition: Brazilin and protosappanins suppress iNOS and COX-2 expression, reducing nitric oxide and prostaglandin E2 production in activated macrophages, alleviating skin inflammation
-- Sappanone homoisoflavonoid [antioxidant](/nighantu/reference/antioxidant/) protection: Sappanone A and B scavenge superoxide and hydroxyl radicals, protecting skin cells from oxidative damage and preventing photoaging
+- Sappanone homoisoflavonoid [antioxidant](/reference/antioxidant/) protection: Sappanone A and B scavenge superoxide and hydroxyl radicals, protecting skin cells from oxidative damage and preventing photoaging
 - Collagen synthesis and wound closure promotion: Brazilin-rich extract stimulates fibroblast migration and proliferation, enhances collagen deposition, and accelerates wound epithelialization
 
 ## Which traditional uses are supported by research?
@@ -106,8 +106,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Pattanga/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- Rakta-[Chandana](/nighantu/herb/chandana/)|Rakta-Chandana (synergistic blood purification and cooling)
-- [Manjistha](/nighantu/herb/manjistha/) (skin complexion and Rakta Dhatu purification)
-- [Lodhra](/nighantu/herb/lodhra/) (gynecological health combination)
-- [Ashoka](/nighantu/herb/ashoka/) (uterine tonic synergy)
-- [Chandana](/nighantu/herb/chandana/) (cooling and complexion formula)
+- Rakta-[Chandana](/herb/chandana/)|Rakta-Chandana (synergistic blood purification and cooling)
+- [Manjistha](/herb/manjistha/) (skin complexion and Rakta Dhatu purification)
+- [Lodhra](/herb/lodhra/) (gynecological health combination)
+- [Ashoka](/herb/ashoka/) (uterine tonic synergy)
+- [Chandana](/herb/chandana/) (cooling and complexion formula)

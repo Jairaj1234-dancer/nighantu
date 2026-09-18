@@ -28,20 +28,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Apamarga/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Betaine](/nighantu/glossary/compounds-a-c/#betaine)
+- [Betaine](/glossary/compounds-a-c/#betaine)
 - Achyranthine (alkaloid)
 - Oleanolic acid
 - Saponin A and B
-- [Ecdysterone](/nighantu/glossary/compounds-d-g/#ecdysterone)
+- [Ecdysterone](/glossary/compounds-d-g/#ecdysterone)
 - Homovanillic acid
 - Biochanin A
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 
 ## How does it work?
 
-- Anti-inflammatory: Oleanolic acid and [saponins](/nighantu/reference/saponins/) inhibit pro-inflammatory cytokines (TNF-alpha, IL-1beta, IL-6) via NF-kB pathway suppression
+- Anti-inflammatory: Oleanolic acid and [saponins](/reference/saponins/) inhibit pro-inflammatory cytokines (TNF-alpha, IL-1beta, IL-6) via NF-kB pathway suppression
 - Wound healing: Biochanin A promotes fibroblast migration and collagen synthesis by modulating MMP-9 and TGF-beta signaling
-- [Diuretic](/nighantu/reference/diuretic/): Betaine and [potassium](/nighantu/glossary/compounds-o-q/#potassium)-rich alkaline compounds enhance renal sodium and water excretion
+- [Diuretic](/reference/diuretic/): Betaine and [potassium](/glossary/compounds-o-q/#potassium)-rich alkaline compounds enhance renal sodium and water excretion
 
 ## Which traditional uses are supported by research?
 
@@ -52,7 +52,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Apamarga/meta-analysis.md"
 ## What do recent clinical trials show?
 
 - Garg AK, Chouhan P, Sen B 2025. [High resolution-mass spectrometry (hR-MS) profiling of Apamarga Ksharodaka (herbal alkaline water from Achyranthes aspera Linn.) and computational screening of bioactive phytochemicals for wound healing applications](https://pubmed.ncbi.nlm.nih.gov/41085550/). *Natural product research*. PMID [41085550](https://pubmed.ncbi.nlm.nih.gov/41085550/) · [doi:10.1080/14786419.2025.2568949](https://doi.org/10.1080/14786419.2025.2568949)  
-  HR-MS identified 25 compounds in Apamarga Ksharodaka; Homovanillic acid and Biochanin A showed significant binding affinities to [wound-healing](/nighantu/reference/wound-healing/) targets (MMP-9, TGF-beta).
+  HR-MS identified 25 compounds in Apamarga Ksharodaka; Homovanillic acid and Biochanin A showed significant binding affinities to [wound-healing](/reference/wound-healing/) targets (MMP-9, TGF-beta).
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
@@ -84,7 +84,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Apamarga/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 0.5-1g Kshara with buttermilk/water; 50-100ml decoction
 
-**Bioavailability:** Moderate oral bioavailability. Achyranthes aspera contains saponins (achyranthine), [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids), and [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids). Oleanolic acid has moderate bioavailability (~5-7%) improved by micronization or lipid-based formulations. Kshara (alkaline ash preparation) contains water-soluble mineral salts with high bioavailability. Betaine is well absorbed (>90%).
+**Bioavailability:** Moderate oral bioavailability. Achyranthes aspera contains saponins (achyranthine), [alkaloids](/glossary/compounds-1-a/#alkaloids), and [triterpenoids](/glossary/compounds-t-z/#triterpenoids). Oleanolic acid has moderate bioavailability (~5-7%) improved by micronization or lipid-based formulations. Kshara (alkaline ash preparation) contains water-soluble mineral salts with high bioavailability. Betaine is well absorbed (>90%).
 
 **Optimal Timing:** Before meals with warm water for digestive indications; Kshara with buttermilk after meals for calculi; post-prandial for metabolic conditions
 
@@ -105,7 +105,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Apamarga/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Varuna](/nighantu/herb/varuna/) for urinary calculi (Kshara-based formulation)
-- With [Gokshura](/nighantu/herb/gokshura/) and Pashanbheda for kidney stones
-- With [Chitrak](/nighantu/herb/chitrak/) for digestive stimulation
+- With [Varuna](/herb/varuna/) for urinary calculi (Kshara-based formulation)
+- With [Gokshura](/herb/gokshura/) and Pashanbheda for kidney stones
+- With [Chitrak](/herb/chitrak/) for digestive stimulation
 - Apamarga Kshara in Kshara Sutra for fistula treatment

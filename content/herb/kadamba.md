@@ -32,26 +32,26 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kadamba/meta-analysis.md
 - Dihydrocadambine
 - Isodihydrocadambine
 - Isocadambine
-- Quinovic acid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides)
+- Quinovic acid [glycosides](/glossary/compounds-g-l/#glycosides)
 - Chlorogenic acid
 - 3-alpha-Dihydrocadambine
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 - Ursolic acid
 - Cadamine
-- [Saponins](/nighantu/reference/saponins/) (triterpene type)
+- [Saponins](/reference/saponins/) (triterpene type)
 
 ## How does it work?
 
-- Anti-inflammatory action via inhibition of NF-kB pathway and suppression of pro-inflammatory cytokines by cadambine [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids)
-- [Antidiabetic](/nighantu/reference/antidiabetic/) activity through alpha-amylase and alpha-glucosidase inhibition by chlorogenic acid and alkaloid fractions
+- Anti-inflammatory action via inhibition of NF-kB pathway and suppression of pro-inflammatory cytokines by cadambine [alkaloids](/glossary/compounds-1-a/#alkaloids)
+- [Antidiabetic](/reference/antidiabetic/) activity through alpha-amylase and alpha-glucosidase inhibition by chlorogenic acid and alkaloid fractions
 - Antimalarial activity via disruption of plasmodium cell membrane integrity by quinovic acid glycosides
-- [Hepatoprotective](/nighantu/reference/hepatoprotective/) effects through free radical scavenging and restoration of hepatic [antioxidant](/nighantu/reference/antioxidant/) [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) (SOD, catalase, GPx)
+- [Hepatoprotective](/reference/hepatoprotective/) effects through free radical scavenging and restoration of hepatic [antioxidant](/reference/antioxidant/) [enzymes](/glossary/compounds-d-g/#enzymes) (SOD, catalase, GPx)
 
 ## Which traditional uses are supported by research?
 
-- [Antimicrobial](/nighantu/reference/antimicrobial/) activity against wound-infecting pathogens validated through disc diffusion and MIC studies
+- [Antimicrobial](/reference/antimicrobial/) activity against wound-infecting pathogens validated through disc diffusion and MIC studies
 - Anti-diarrheal use confirmed in castor oil-induced diarrhea models with significant reduction in stool frequency
-- [Antipyretic](/nighantu/reference/antipyretic/) activity validated in Brewer's yeast-induced pyrexia model in rats
+- [Antipyretic](/reference/antipyretic/) activity validated in Brewer's yeast-induced pyrexia model in rats
 - Anti-inflammatory use confirmed through carrageenan-induced paw edema inhibition studies
 
 ## What do recent clinical trials show?
@@ -92,7 +92,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kadamba/meta-analysis.md
 
 **Standard Dosage:** 3-6g bark powder twice daily; 50-100ml decoction; external paste as needed
 
-**Bioavailability:** Neolamarckia cadamba (syn. Anthocephalus cadamba) bark contains indole alkaloids (cadambine, isocadambine), [triterpenes](/nighantu/glossary/compounds-t-z/#triterpenes), and [flavonoids](/nighantu/reference/flavonoids/). Indole alkaloids generally show moderate to good oral bioavailability due to lipophilicity. Cadambine is absorbed in the small intestine. Tannin fraction may reduce absorption of co-administered compounds.
+**Bioavailability:** Neolamarckia cadamba (syn. Anthocephalus cadamba) bark contains indole alkaloids (cadambine, isocadambine), [triterpenes](/glossary/compounds-t-z/#triterpenes), and [flavonoids](/reference/flavonoids/). Indole alkaloids generally show moderate to good oral bioavailability due to lipophilicity. Cadambine is absorbed in the small intestine. Tannin fraction may reduce absorption of co-administered compounds.
 
 **Optimal Timing:** Before meals with warm water for fever and diabetes; external paste for wounds morning and evening
 
@@ -113,7 +113,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kadamba/meta-analysis.md
 
 ### Synergistic Combinations
 
-- With [Lodhra](/nighantu/herb/lodhra/) for gynecological disorders
-- With [Ashoka](/nighantu/herb/ashoka/) for uterine tonic action
-- With [Nimba](/nighantu/herb/nimba/) for skin conditions and fever
-- With [Guduchi](/nighantu/herb/guduchi/) for anti-diabetic action
+- With [Lodhra](/herb/lodhra/) for gynecological disorders
+- With [Ashoka](/herb/ashoka/) for uterine tonic action
+- With [Nimba](/herb/nimba/) for skin conditions and fever
+- With [Guduchi](/herb/guduchi/) for anti-diabetic action

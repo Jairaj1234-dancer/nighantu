@@ -34,8 +34,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ankola/meta-analysis.md"
 - Alangicine
 - Salsoline
 - Salviifosides A
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
-- [Emodin](/nighantu/glossary/compounds-d-g/#emodin)
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
+- [Emodin](/glossary/compounds-d-g/#emodin)
 - Lamarckianin
 - Alangimarine
 
@@ -43,11 +43,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ankola/meta-analysis.md"
 
 - Salviifosides A exerts COX-2 inhibitory effects, providing anti-inflammatory activity through selective cyclooxygenase-2 inhibition and reduction of prostaglandin E2 synthesis
 - Tubulosine alkaloid demonstrates cytotoxic activity against cancer cells by inhibiting protein synthesis and inducing apoptosis through activation of intrinsic mitochondrial pathways
-- Alangine and related [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) exhibit [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive) effects through calcium channel blocking and ACE-inhibitory mechanisms in cardiovascular tissue
+- Alangine and related [alkaloids](/glossary/compounds-1-a/#alkaloids) exhibit [antihypertensive](/glossary/pharmacology/#antihypertensive) effects through calcium channel blocking and ACE-inhibitory mechanisms in cardiovascular tissue
 
 ## Which traditional uses are supported by research?
 
-- [Antidiabetic](/nighantu/reference/antidiabetic/) activity validated through in vivo studies showing significant blood [glucose](/nighantu/glossary/compounds-d-g/#glucose) reduction consistent with traditional Ayurvedic use for Prameha (diabetes)
+- [Antidiabetic](/reference/antidiabetic/) activity validated through in vivo studies showing significant blood [glucose](/glossary/compounds-d-g/#glucose) reduction consistent with traditional Ayurvedic use for Prameha (diabetes)
 - Antiarthritic and anti-inflammatory properties confirmed in preclinical models supporting traditional use for joint pain and rheumatism (Amavata) in Ayurveda
 - Antivenomous properties (traditional use as snakebite remedy) partially validated through in vitro studies showing neutralization of venom phospholipase activity
 
@@ -108,6 +108,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ankola/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Eranda](/nighantu/herb/eranda/) taila for Vata disorders (external)
-- With [Nirgundi](/nighantu/herb/nirgundi/) for joint pain (external application)
-- With [Haridra](/nighantu/herb/haridra/) for wound healing paste
+- With [Eranda](/herb/eranda/) taila for Vata disorders (external)
+- With [Nirgundi](/herb/nirgundi/) for joint pain (external application)
+- With [Haridra](/herb/haridra/) for wound healing paste

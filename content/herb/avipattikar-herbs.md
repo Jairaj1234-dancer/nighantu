@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Avipattikar-Herbs/meta-analys
 
 | Language | Name |
 |----------|------|
-| English | [Avipattikar](/nighantu/herb/avipattikar/) Herbs |
+| English | [Avipattikar](/herb/avipattikar/) Herbs |
 
 ## What is it made of?
 
@@ -40,17 +40,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Avipattikar-Herbs/meta-analys
 
 **Standard Dosage:** 3-6g compound churna twice daily before meals with warm water; 1-2 capsules (500mg each) twice daily
 
-**Bioavailability:** This refers to the herbal components of [Avipattikar](/nighantu/herb/avipattikar/) WITHOUT the sugar (Mishri) component — a modern adaptation for diabetic patients and sugar-conscious consumers. Bioavailability profile similar to standard [Avipattikar](/nighantu/herb/avipattikar/), with [Trikatu](/nighantu/herb/trikatu/) serving as built-in bioenhancer. Absence of sugar does not significantly affect bioavailability of active herbal constituents but changes the taste profile and may alter dissolution behavior.
+**Bioavailability:** This refers to the herbal components of [Avipattikar](/herb/avipattikar/) WITHOUT the sugar (Mishri) component — a modern adaptation for diabetic patients and sugar-conscious consumers. Bioavailability profile similar to standard [Avipattikar](/herb/avipattikar/), with [Trikatu](/herb/trikatu/) serving as built-in bioenhancer. Absence of sugar does not significantly affect bioavailability of active herbal constituents but changes the taste profile and may alter dissolution behavior.
 
 **Optimal Timing:** Before meals (30 minutes) with warm water for hyperacidity and digestive disorders
 
-**Standardized Extract:** Compound herb blend (sugar-free) standardized to [piperine](/nighantu/reference/piperine/) minimum 1.5% (higher than standard Avipattikar due to absence of sugar dilution), total [tannins](/nighantu/reference/tannins/) minimum 7%, volatile oil minimum 0.4%.
+**Standardized Extract:** Compound herb blend (sugar-free) standardized to [piperine](/reference/piperine/) minimum 1.5% (higher than standard Avipattikar due to absence of sugar dilution), total [tannins](/reference/tannins/) minimum 7%, volatile oil minimum 0.4%.
 
 **Shelf Life:** 2 years (churna); 3 years (capsules/tablets)
 
 **Storage:** Airtight container, cool and dry. Without sugar hygroscopicity is reduced — better storage stability. Temperature below 25°C.
 
-**Marker Compounds:** Piperine (from [Pippali](/nighantu/herb/pippali/)/Maricha), Gallic acid (from [Triphala](/nighantu/herb/triphala/)), [Embelin](/nighantu/glossary/compounds-d-g/#embelin) (from [Vidanga](/nighantu/herb/vidanga/)), [Eugenol](/nighantu/glossary/compounds-d-g/#eugenol) (from [Lavanga](/nighantu/herb/lavanga/)), 1,8-[Cineole](/nighantu/glossary/compounds-c-d/#cineole) (from Ela), [Cuminaldehyde](/nighantu/glossary/compounds-c-d/#cuminaldehyde) (from [Jeeraka](/nighantu/herb/jeeraka/) if present)
+**Marker Compounds:** Piperine (from [Pippali](/herb/pippali/)/Maricha), Gallic acid (from [Triphala](/herb/triphala/)), [Embelin](/glossary/compounds-d-g/#embelin) (from [Vidanga](/herb/vidanga/)), [Eugenol](/glossary/compounds-d-g/#eugenol) (from [Lavanga](/herb/lavanga/)), 1,8-[Cineole](/glossary/compounds-c-d/#cineole) (from Ela), [Cuminaldehyde](/glossary/compounds-c-d/#cuminaldehyde) (from [Jeeraka](/herb/jeeraka/) if present)
 
 ### Extraction Methods
 
@@ -62,5 +62,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Avipattikar-Herbs/meta-analys
 ### Synergistic Combinations
 
 - Internal synergies identical to Avipattikar compound
-- Sugar-free version can be combined with [Shatavari](/nighantu/herb/shatavari/) for diabetic patients with hyperacidity
-- With [Guduchi](/nighantu/herb/guduchi/) for metabolic support alongside digestive correction
+- Sugar-free version can be combined with [Shatavari](/herb/shatavari/) for diabetic patients with hyperacidity
+- With [Guduchi](/herb/guduchi/) for metabolic support alongside digestive correction

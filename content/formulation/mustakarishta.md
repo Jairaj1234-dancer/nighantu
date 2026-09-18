@@ -31,17 +31,17 @@ Sharangdhara Samhita and Bhavaprakasha. Referenced in Bhaishajya Ratnavali under
 
 ## How does it work?
 
-- Anti-diarrheal and astringent action of [Nagarmotha](/nighantu/herb/nagarmotha/) (Cyperus rotundus) reduces intestinal hypermotility and enhances water absorption
-- [Antimicrobial](/nighantu/reference/antimicrobial/) activity from [Thymol](/nighantu/glossary/compounds-t-z/#thymol), [Eugenol](/nighantu/glossary/compounds-d-g/#eugenol), and [Piperine](/nighantu/reference/piperine/) combats enteric pathogens causing diarrhea
-- Digestive stimulation through Agni-enhancing herbs (Chitraka, [Ajwain](/nighantu/herb/ajwain/), Shunthi) corrects Agnimandya
-- Anti-inflammatory and [antioxidant](/nighantu/reference/antioxidant/) compounds (alpha-Terpineol, 4H-Pyran-4-one) reduce intestinal inflammation
+- Anti-diarrheal and astringent action of [Nagarmotha](/herb/nagarmotha/) (Cyperus rotundus) reduces intestinal hypermotility and enhances water absorption
+- [Antimicrobial](/reference/antimicrobial/) activity from [Thymol](/glossary/compounds-t-z/#thymol), [Eugenol](/glossary/compounds-d-g/#eugenol), and [Piperine](/reference/piperine/) combats enteric pathogens causing diarrhea
+- Digestive stimulation through Agni-enhancing herbs (Chitraka, [Ajwain](/herb/ajwain/), Shunthi) corrects Agnimandya
+- Anti-inflammatory and [antioxidant](/reference/antioxidant/) compounds (alpha-Terpineol, 4H-Pyran-4-one) reduce intestinal inflammation
 
 ## Which traditional uses are supported by research?
 
 - Diarrhea (Atisara) - validated by anti-diarrheal studies on Cyperus rotundus extracts
 - Indigestion (Agnimandya) - supported by Agni-enhancing mechanisms of formulation components
 - Dysentery - corroborated by antimicrobial activity of Thymol, Eugenol, and Piperine identified by GC-MS
-- Abdominal pain and colic - traditional use supported by [antispasmodic](/nighantu/glossary/pharmacology/#antispasmodic) properties of Musta and [Ajwain](/nighantu/herb/ajwain/)
+- Abdominal pain and colic - traditional use supported by [antispasmodic](/glossary/pharmacology/#antispasmodic) properties of Musta and [Ajwain](/herb/ajwain/)
 
 ## What do recent clinical trials show?
 
@@ -77,7 +77,7 @@ Sharangdhara Samhita and Bhavaprakasha. Referenced in Bhaishajya Ratnavali under
 
 **Storage:** Room temperature, tightly sealed, away from direct sunlight. Do not refrigerate.
 
-**Marker Compounds:** [Cyperene](/nighantu/glossary/compounds-c-d/#cyperene), [Rotundone](/nighantu/glossary/compounds-q-t/#rotundone)
+**Marker Compounds:** [Cyperene](/glossary/compounds-c-d/#cyperene), [Rotundone](/glossary/compounds-q-t/#rotundone)
 
 **Quality Parameters:** Alcohol content 5-12% v/v, pH 3.0-4.5, specific gravity 1.01-1.08, total solids 15-25%, marker: Cyperene, Rotundone
 
@@ -85,4 +85,4 @@ Sharangdhara Samhita and Bhavaprakasha. Referenced in Bhaishajya Ratnavali under
 
 ### Synergistic Combinations
 
-- Key herbs: Musta (Cyperus rotundus), [Dhataki](/nighantu/herb/dhataki/), [Guda](/nighantu/glossary/concepts-a-m/#guda); fermentation creates unique metabolite profile with enhanced therapeutic activity
+- Key herbs: Musta (Cyperus rotundus), [Dhataki](/herb/dhataki/), [Guda](/glossary/concepts-a-m/#guda); fermentation creates unique metabolite profile with enhanced therapeutic activity

@@ -31,17 +31,17 @@ Sharangadharasamhita Madhyamakhanda. Also referenced in Bhavaprakasha Nighantu (
 
 ## How does it work?
 
-- [Embelin](/nighantu/glossary/compounds-d-g/#embelin) (from [Vidanga](/nighantu/herb/vidanga/)) exerts potent anthelmintic action by paralyzing intestinal parasites (roundworms, tapeworms)
+- [Embelin](/glossary/compounds-d-g/#embelin) (from [Vidanga](/herb/vidanga/)) exerts potent anthelmintic action by paralyzing intestinal parasites (roundworms, tapeworms)
 - Kutaja provides anti-dysenteric and anti-amoebic action complementing the antiparasitic activity
-- [Pippali](/nighantu/herb/pippali/)-mediated bioavailability enhancement increases systemic absorption of embelin and other active compounds
-- [Immunomodulatory](/nighantu/reference/immunomodulatory/) action of [Triphala](/nighantu/herb/triphala/) and [Rasna](/nighantu/herb/rasna/) strengthens host defense against parasitic reinfection
+- [Pippali](/herb/pippali/)-mediated bioavailability enhancement increases systemic absorption of embelin and other active compounds
+- [Immunomodulatory](/reference/immunomodulatory/) action of [Triphala](/herb/triphala/) and [Rasna](/herb/rasna/) strengthens host defense against parasitic reinfection
 
 ## Which traditional uses are supported by research?
 
 - Intestinal parasites (Krimi Roga) - validated by clinical pilot showing 78% worm load reduction
 - Abdominal bloating and flatulence - supported by digestive and carminative properties of formulation
 - Skin abscesses and boils - traditional use corroborated by antibacterial profiling studies
-- Urinary disorders and prostate enlargement - supported by anti-inflammatory and [diuretic](/nighantu/reference/diuretic/) properties of components
+- Urinary disorders and prostate enlargement - supported by anti-inflammatory and [diuretic](/reference/diuretic/) properties of components
 
 ## What do recent clinical trials show?
 
@@ -85,4 +85,4 @@ Sharangadharasamhita Madhyamakhanda. Also referenced in Bhavaprakasha Nighantu (
 
 ### Synergistic Combinations
 
-- Key herbs: [Vidanga](/nighantu/herb/vidanga/) (Embelia ribes), [Dhataki](/nighantu/herb/dhataki/), [Guda](/nighantu/glossary/concepts-a-m/#guda); fermentation creates unique metabolite profile with enhanced therapeutic activity
+- Key herbs: [Vidanga](/herb/vidanga/) (Embelia ribes), [Dhataki](/herb/dhataki/), [Guda](/glossary/concepts-a-m/#guda); fermentation creates unique metabolite profile with enhanced therapeutic activity

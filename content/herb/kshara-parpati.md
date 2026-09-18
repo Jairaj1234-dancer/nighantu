@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Kshara-Parpati/met
 
 | Language | Name |
 |----------|------|
-| English | [Kshara Parpati](/nighantu/herb/kshara-parpati/) |
+| English | [Kshara Parpati](/herb/kshara-parpati/) |
 
 ## Where is it described in the classical texts?
 
@@ -31,8 +31,8 @@ Siddha Yoga Sangraha, Ashmari Mutrakrichra Adhikara (Urinary Stones and Dysuria 
 
 ## How does it work?
 
-- Surya Kshara ([potassium](/nighantu/glossary/compounds-o-q/#potassium) nitrate) acts as a potent alkalizing agent, increasing urinary pH to dissolve uric acid and calcium oxalate stones
-- [Diuretic](/nighantu/reference/diuretic/) action of potassium nitrate increases urine volume, flushing out small calculi and preventing new stone formation
+- Surya Kshara ([potassium](/glossary/compounds-o-q/#potassium) nitrate) acts as a potent alkalizing agent, increasing urinary pH to dissolve uric acid and calcium oxalate stones
+- [Diuretic](/reference/diuretic/) action of potassium nitrate increases urine volume, flushing out small calculi and preventing new stone formation
 - Sphatika (alum) has astringent and antiseptic properties, reducing urinary tract inflammation and infection
 - Navasadara (ammonium chloride) has urine-acidifying properties at certain concentrations but in Parpati form acts synergistically as a balanced urinary modifier
 - Antacid-like action in the GI tract alleviates dyspepsia and acid-related digestive disorders
@@ -74,7 +74,7 @@ Siddha Yoga Sangraha, Ashmari Mutrakrichra Adhikara (Urinary Stones and Dysuria 
 
 **Bioavailability:** Enhanced; Parpati form (thin flake) has increased surface area for absorption
 
-**Optimal Timing:** With buttermilk ([Takra](/nighantu/herb/takra/)) or rice water (Tandulodaka)
+**Optimal Timing:** With buttermilk ([Takra](/herb/takra/)) or rice water (Tandulodaka)
 
 **Standardized Extract:** Kajjali melted with Kshara (alkaline substance) and poured on banana leaf
 
@@ -86,4 +86,4 @@ Siddha Yoga Sangraha, Ashmari Mutrakrichra Adhikara (Urinary Stones and Dysuria 
 
 **Quality Parameters:** Thin flake formation, uniform thickness, standard Parpati tests, free mercury <1 ppm
 
-**Vehicle (Anupana):** Buttermilk ([Takra](/nighantu/herb/takra/)) — classical combination
+**Vehicle (Anupana):** Buttermilk ([Takra](/herb/takra/)) — classical combination

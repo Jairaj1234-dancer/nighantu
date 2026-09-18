@@ -30,7 +30,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sarpagandha/meta-analysis.md"
 
 - Reserpine
 - Ajmaline
-- [Ajmalicine](/nighantu/glossary/compounds-1-a/#ajmalicine) (raubasine)
+- [Ajmalicine](/glossary/compounds-1-a/#ajmalicine) (raubasine)
 - Serpentine
 - Yohimbine
 - Rescinnamine
@@ -40,13 +40,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sarpagandha/meta-analysis.md"
 ## How does it work?
 
 - Antihypertensive: Reserpine irreversibly inhibits vesicular monoamine transporter 2 (VMAT2), depleting catecholamine (norepinephrine, dopamine) stores in sympathetic nerve terminals, reducing peripheral vascular resistance
-- Sedative/Antipsychotic: Central depletion of monoamines (dopamine, [serotonin](/nighantu/glossary/compounds-q-t/#serotonin), norepinephrine) produces tranquilizing effect; historically used before synthetic antipsychotics
+- Sedative/Antipsychotic: Central depletion of monoamines (dopamine, [serotonin](/glossary/compounds-q-t/#serotonin), norepinephrine) produces tranquilizing effect; historically used before synthetic antipsychotics
 - Anti-arrhythmic: Ajmaline blocks sodium channels (Class Ia antiarrhythmic), prolonging cardiac action potential and effective refractory period
 
 ## Which traditional uses are supported by research?
 
 - Antihypertensive use (Raktachapa-hara) extensively validated; reserpine was one of the first effective antihypertensive drugs used in Western medicine
-- Sedative and [anxiolytic](/nighantu/reference/anxiolytic/) use (Nidrajanana) confirmed through VMAT2 inhibition and central monoamine depletion mechanism
+- Sedative and [anxiolytic](/reference/anxiolytic/) use (Nidrajanana) confirmed through VMAT2 inhibition and central monoamine depletion mechanism
 - Anti-arrhythmic use validated: ajmaline is still used clinically in the Ajmaline test for diagnosis of Brugada syndrome
 
 ## What do recent clinical trials show?
@@ -103,7 +103,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sarpagandha/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Jatamansi](/nighantu/herb/jatamansi/) (antihypertensive synergy with anxiolytic benefit)
-- [Shankhpushpi](/nighantu/herb/shankhpushpi/) (calming and blood pressure-lowering combination)
-- [Brahmi](/nighantu/herb/brahmi/) (cognitive support with anti-anxiety action)
-- [Arjuna](/nighantu/herb/arjuna/) (comprehensive cardiovascular formulation)
+- [Jatamansi](/herb/jatamansi/) (antihypertensive synergy with anxiolytic benefit)
+- [Shankhpushpi](/herb/shankhpushpi/) (calming and blood pressure-lowering combination)
+- [Brahmi](/herb/brahmi/) (cognitive support with anti-anxiety action)
+- [Arjuna](/herb/arjuna/) (comprehensive cardiovascular formulation)

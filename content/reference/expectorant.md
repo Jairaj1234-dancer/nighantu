@@ -23,59 +23,59 @@ srcRel: "_Hub/Pharmacology/Expectorant.md"
 
 ## Ayurveda (37)
 
-- [Ajwain Herb](/nighantu/herb/ajwain-herb/)
-- [Brihatyadi Kashayam](/nighantu/formulation/brihatyadi-kashayam/)
-- [Chandrashura](/nighantu/herb/chandrashura/) — *Lepidium sativum L.*
-- [Chitrakaharitaki](/nighantu/herb/chitrakaharitaki/) — *Polyherbal formulation: Plumbago zeylanica ([Chitrak](/nighantu/herb/chitrak/)) + Terminalia chebula ([Haritaki](/nighantu/herb/haritaki/)) as principal herbs*
-- [Eucalyptus Herb](/nighantu/herb/eucalyptus-herb/)
-- [Gajapippali](/nighantu/herb/gajapippali/) — *Scindapsus officinalis (Roxb.) Schott*
-- [Hingu](/nighantu/herb/hingu/) — *Ferula asafoetida*
-- [Hinguleshwar Ras](/nighantu/herb/hinguleshwar-ras/)
-- [Hingupatri](/nighantu/herb/hingupatri/) — *Ferula spp. (leaf portion of Ferula assa-foetida L. or related Ferula species)*
-- [Kankola](/nighantu/herb/kankola/) — *Piper cubeba L.f.*
-- [Kanthasudharak Vati](/nighantu/formulation/kanthasudharak-vati/)
-- [Kharjura](/nighantu/herb/kharjura/) — *Phoenix dactylifera L.*
-- [Laung](/nighantu/herb/laung/) — *Syzygium aromaticum*
-- [Lavangadi Vati](/nighantu/formulation/lavangadi-vati/)
-- [Madanaphala](/nighantu/herb/madanaphala/) — *Randia dumetorum (Retz.) Lam. (syn. Randia spinosa, Catunaregam spinosa)*
-- [Mahalakshmi Vilas Rasa](/nighantu/herb/mahalakshmi-vilas-rasa/)
-- [Parnayavani](/nighantu/herb/parnayavani/)
-- [Pippalyasava](/nighantu/formulation/pippalyasava/)
-- [Pudina](/nighantu/herb/pudina/) — *Mentha spicata*
-- [Pushkarmool](/nighantu/herb/pushkarmool/) — *Inula racemosa Hook. f.*
-- [Shati](/nighantu/herb/shati/) — *Hedychium spicatum Buch.-Ham. ex Sm.*
-- [Sitopaladi Churna](/nighantu/formulation/sitopaladi-churna/)
-- [Souvarchala Lavana](/nighantu/herb/souvarchala-lavana/)
-- [Talisa](/nighantu/herb/talisa/) — *Abies webbiana Lindl. (syn. Abies spectabilis (D. Don) Mirb.)*
-- [Talisadi Churna](/nighantu/formulation/talisadi-churna/)
-- [Talisapatra](/nighantu/herb/talisapatra/)
-- [Tankana Bhasma](/nighantu/herb/tankana-bhasma/)
-- [Trikatu](/nighantu/herb/trikatu/) — *Compound: Piper longum + P. nigrum + [Zingiber](/nighantu/herb/zingiber/) officinale*
-- [Tulsi](/nighantu/herb/tulsi/) — *Ocimum tenuiflorum (syn. O. sanctum)*
-- [Vanapsa](/nighantu/herb/vanapsa/) — *Viola odorata L.*
-- [Vasa](/nighantu/herb/vasa/) — *Adhatoda vasica Nees (syn. Justicia adhatoda L.)*
-- [Vasa Avaleha](/nighantu/formulation/vasa-avaleha/)
-- [Vasaka](/nighantu/herb/vasaka/)
-- [Vida Lavana](/nighantu/herb/vida-lavana/)
-- [Vyaghri Haritaki](/nighantu/herb/vyaghri-haritaki/) — *Polyherbal formulation: Solanum surattense Burm.f. ([Kantakari](/nighantu/herb/kantakari/)/Vyaghri) + Terminalia chebula Retz. ([Haritaki](/nighantu/herb/haritaki/)) as principal herbs*
-- [Yashtimadhu](/nighantu/herb/yashtimadhu/)
-- [Yavani](/nighantu/herb/yavani/) — *Trachyspermum ammi (L.) Sprague*
+- [Ajwain Herb](/herb/ajwain-herb/)
+- [Brihatyadi Kashayam](/formulation/brihatyadi-kashayam/)
+- [Chandrashura](/herb/chandrashura/) — *Lepidium sativum L.*
+- [Chitrakaharitaki](/herb/chitrakaharitaki/) — *Polyherbal formulation: Plumbago zeylanica ([Chitrak](/herb/chitrak/)) + Terminalia chebula ([Haritaki](/herb/haritaki/)) as principal herbs*
+- [Eucalyptus Herb](/herb/eucalyptus-herb/)
+- [Gajapippali](/herb/gajapippali/) — *Scindapsus officinalis (Roxb.) Schott*
+- [Hingu](/herb/hingu/) — *Ferula asafoetida*
+- [Hinguleshwar Ras](/herb/hinguleshwar-ras/)
+- [Hingupatri](/herb/hingupatri/) — *Ferula spp. (leaf portion of Ferula assa-foetida L. or related Ferula species)*
+- [Kankola](/herb/kankola/) — *Piper cubeba L.f.*
+- [Kanthasudharak Vati](/formulation/kanthasudharak-vati/)
+- [Kharjura](/herb/kharjura/) — *Phoenix dactylifera L.*
+- [Laung](/herb/laung/) — *Syzygium aromaticum*
+- [Lavangadi Vati](/formulation/lavangadi-vati/)
+- [Madanaphala](/herb/madanaphala/) — *Randia dumetorum (Retz.) Lam. (syn. Randia spinosa, Catunaregam spinosa)*
+- [Mahalakshmi Vilas Rasa](/herb/mahalakshmi-vilas-rasa/)
+- [Parnayavani](/herb/parnayavani/)
+- [Pippalyasava](/formulation/pippalyasava/)
+- [Pudina](/herb/pudina/) — *Mentha spicata*
+- [Pushkarmool](/herb/pushkarmool/) — *Inula racemosa Hook. f.*
+- [Shati](/herb/shati/) — *Hedychium spicatum Buch.-Ham. ex Sm.*
+- [Sitopaladi Churna](/formulation/sitopaladi-churna/)
+- [Souvarchala Lavana](/herb/souvarchala-lavana/)
+- [Talisa](/herb/talisa/) — *Abies webbiana Lindl. (syn. Abies spectabilis (D. Don) Mirb.)*
+- [Talisadi Churna](/formulation/talisadi-churna/)
+- [Talisapatra](/herb/talisapatra/)
+- [Tankana Bhasma](/herb/tankana-bhasma/)
+- [Trikatu](/herb/trikatu/) — *Compound: Piper longum + P. nigrum + [Zingiber](/herb/zingiber/) officinale*
+- [Tulsi](/herb/tulsi/) — *Ocimum tenuiflorum (syn. O. sanctum)*
+- [Vanapsa](/herb/vanapsa/) — *Viola odorata L.*
+- [Vasa](/herb/vasa/) — *Adhatoda vasica Nees (syn. Justicia adhatoda L.)*
+- [Vasa Avaleha](/formulation/vasa-avaleha/)
+- [Vasaka](/herb/vasaka/)
+- [Vida Lavana](/herb/vida-lavana/)
+- [Vyaghri Haritaki](/herb/vyaghri-haritaki/) — *Polyherbal formulation: Solanum surattense Burm.f. ([Kantakari](/herb/kantakari/)/Vyaghri) + Terminalia chebula Retz. ([Haritaki](/herb/haritaki/)) as principal herbs*
+- [Yashtimadhu](/herb/yashtimadhu/)
+- [Yavani](/herb/yavani/) — *Trachyspermum ammi (L.) Sprague*
 
 ## Related Body Systems
 
-- [Anti-inflammatory & Pain](/nighantu/reference/antiinflammatory-pain/)
-- [Brain & Nervous System](/nighantu/reference/brain-nervous-system/)
-- [Diabetes & Metabolism](/nighantu/reference/diabetes-metabolism/)
-- [Digestive Health](/nighantu/reference/digestive-health/)
-- [Eye Health](/nighantu/reference/eye-health/)
-- [Fever & Infection](/nighantu/reference/fever-infection/)
-- [Hair Health](/nighantu/glossary/body-systems/#hair-health)
-- [Heart & Cardiovascular](/nighantu/reference/heart-cardiovascular/)
-- [Immune System & Rasayana](/nighantu/reference/immune-system-rasayana/)
-- [Joint & Musculoskeletal](/nighantu/reference/joint-musculoskeletal/)
-- [Kidney & Urinary](/nighantu/reference/kidney-urinary/)
-- [Liver & Detoxification](/nighantu/reference/liver-detoxification/)
-- [Men's Health & Vitality](/nighantu/reference/mens-health-vitality/)
-- [Respiratory Health](/nighantu/reference/respiratory-health/)
-- [Skin & Beauty](/nighantu/reference/skin-beauty/)
-- [Women's Health](/nighantu/reference/womens-health/)
+- [Anti-inflammatory & Pain](/reference/antiinflammatory-pain/)
+- [Brain & Nervous System](/reference/brain-nervous-system/)
+- [Diabetes & Metabolism](/reference/diabetes-metabolism/)
+- [Digestive Health](/reference/digestive-health/)
+- [Eye Health](/reference/eye-health/)
+- [Fever & Infection](/reference/fever-infection/)
+- [Hair Health](/glossary/body-systems/#hair-health)
+- [Heart & Cardiovascular](/reference/heart-cardiovascular/)
+- [Immune System & Rasayana](/reference/immune-system-rasayana/)
+- [Joint & Musculoskeletal](/reference/joint-musculoskeletal/)
+- [Kidney & Urinary](/reference/kidney-urinary/)
+- [Liver & Detoxification](/reference/liver-detoxification/)
+- [Men's Health & Vitality](/reference/mens-health-vitality/)
+- [Respiratory Health](/reference/respiratory-health/)
+- [Skin & Beauty](/reference/skin-beauty/)
+- [Women's Health](/reference/womens-health/)

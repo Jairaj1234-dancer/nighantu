@@ -29,28 +29,28 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Tinduka/meta-analysis.md
 ## Key Phytochemical Constituents
 
 - Betulinic acid
-- [Lupeol](/nighantu/reference/lupeol/)
+- [Lupeol](/reference/lupeol/)
 - Lup-20(29)-en-3alpha,27-diol (novel triterpene)
 - Myricyl alcohol
-- [Triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids) (various pentacyclic)
-- [Saponins](/nighantu/reference/saponins/)
-- [Tannins](/nighantu/reference/tannins/) (high content in unripe fruit)
-- [Flavonoids](/nighantu/reference/flavonoids/)
-- [Xanthones](/nighantu/glossary/compounds-t-z/#xanthones)
+- [Triterpenoids](/glossary/compounds-t-z/#triterpenoids) (various pentacyclic)
+- [Saponins](/reference/saponins/)
+- [Tannins](/reference/tannins/) (high content in unripe fruit)
+- [Flavonoids](/reference/flavonoids/)
+- [Xanthones](/glossary/compounds-t-z/#xanthones)
 - Gallic acid
 - Diospyrin (naphthoquinone)
 
 ## How does it work?
 
-- [Anticancer](/nighantu/reference/anticancer/) activity via betulinic acid and diospyrin-mediated induction of mitochondrial apoptosis and epigenetic modulation in tumor cells
-- [Immunomodulatory](/nighantu/reference/immunomodulatory/) effects through modulation of T-cell responses and natural killer cell activation in tumor microenvironment
+- [Anticancer](/reference/anticancer/) activity via betulinic acid and diospyrin-mediated induction of mitochondrial apoptosis and epigenetic modulation in tumor cells
+- [Immunomodulatory](/reference/immunomodulatory/) effects through modulation of T-cell responses and natural killer cell activation in tumor microenvironment
 - Astringent and anti-diarrheal action via tannin-mediated reduction of intestinal secretion and protection of mucosal membrane
-- Hypoglycemic activity through modulation of carbohydrate-metabolizing [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) and improvement of [glucose](/nighantu/glossary/compounds-d-g/#glucose) tolerance
+- Hypoglycemic activity through modulation of carbohydrate-metabolizing [enzymes](/glossary/compounds-d-g/#enzymes) and improvement of [glucose](/glossary/compounds-d-g/#glucose) tolerance
 
 ## Which traditional uses are supported by research?
 
 - Astringent and anti-diarrheal use validated through tannin content analysis and intestinal motility studies
-- Wound and ulcer treatment confirmed through [antimicrobial](/nighantu/reference/antimicrobial/) activity and healing promotion in preclinical models
+- Wound and ulcer treatment confirmed through [antimicrobial](/reference/antimicrobial/) activity and healing promotion in preclinical models
 - Anticancer potential validated through NSCLC immunotherapy studies and cytotoxicity assays
 - Oral health (gargle for sore throat) use supported by antimicrobial and astringent properties of fruit extracts
 
@@ -90,7 +90,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Tinduka/meta-analysis.md
 
 **Standard Dosage:** 3-6 g powder twice daily; 50-100 mL decoction twice daily; fruit pulp 10-20 g daily
 
-**Bioavailability:** Betulinic acid and lupeol (triterpenoids) have very low oral bioavailability (<5%) due to extreme hydrophobicity and poor aqueous solubility. Tannins (condensed and hydrolyzable) are poorly absorbed but exert local astringent effects on GI mucosa. Nanoparticle encapsulation or phospholipid complexation (phytosome) can improve triterpenoid bioavailability 4-8 fold. [Plumbagin](/nighantu/glossary/compounds-o-q/#plumbagin) (in bark) has moderate bioavailability but narrow therapeutic index.
+**Bioavailability:** Betulinic acid and lupeol (triterpenoids) have very low oral bioavailability (<5%) due to extreme hydrophobicity and poor aqueous solubility. Tannins (condensed and hydrolyzable) are poorly absorbed but exert local astringent effects on GI mucosa. Nanoparticle encapsulation or phospholipid complexation (phytosome) can improve triterpenoid bioavailability 4-8 fold. [Plumbagin](/glossary/compounds-o-q/#plumbagin) (in bark) has moderate bioavailability but narrow therapeutic index.
 
 **Optimal Timing:** Before meals for diarrhea and GI conditions; after meals for general astringent tonic effect
 
@@ -100,7 +100,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Tinduka/meta-analysis.md
 
 **Storage:** Store in airtight, moisture-proof containers at 15-25 deg C. Protect from humidity as tannins are hygroscopic. Avoid aluminium or iron containers due to tannin-metal complexation.
 
-**Marker Compounds:** Betulinic acid, Lupeol, Ursolic acid, Gallic acid, Ellagic acid, Plumbagin, beta-[Sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Diospyrin
+**Marker Compounds:** Betulinic acid, Lupeol, Ursolic acid, Gallic acid, Ellagic acid, Plumbagin, beta-[Sitosterol](/glossary/compounds-q-t/#sitosterol), Diospyrin
 
 ### Extraction Methods
 
@@ -112,7 +112,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Tinduka/meta-analysis.md
 
 ### Synergistic Combinations
 
-- [Haritaki](/nighantu/herb/haritaki/) (Terminalia chebula) - complementary astringent action
+- [Haritaki](/herb/haritaki/) (Terminalia chebula) - complementary astringent action
 - Amalaki (Emblica officinalis) - antioxidant synergy
-- [Lodhra](/nighantu/herb/lodhra/) (Symplocos racemosa) - synergistic astringent for gynecological conditions
+- [Lodhra](/herb/lodhra/) (Symplocos racemosa) - synergistic astringent for gynecological conditions
 - Kutaja (Holarrhena antidysenterica) - anti-diarrheal combination

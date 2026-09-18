@@ -23,23 +23,23 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Neelibringa
 
 | Language | Name |
 |----------|------|
-| English | [Neelibringadi Thailam](/nighantu/formulation/neelibringadi-thailam/) |
+| English | [Neelibringadi Thailam](/formulation/neelibringadi-thailam/) |
 
 ## Where is it described in the classical texts?
 
-Sahasrayogam (Taila Prakarana, 12th century CE Kerala tradition). One of the most celebrated Keshya (hair care) formulations in Kerala Ayurveda. Updated API formulations use [Daruharidra](/nighantu/herb/daruharidra/) stem extract instead of traditional Anjana (Lead Sulphide) for safety.
+Sahasrayogam (Taila Prakarana, 12th century CE Kerala tradition). One of the most celebrated Keshya (hair care) formulations in Kerala Ayurveda. Updated API formulations use [Daruharidra](/herb/daruharidra/) stem extract instead of traditional Anjana (Lead Sulphide) for safety.
 
 ## How does it work?
 
-- [Wedelolactone](/nighantu/glossary/compounds-t-z/#wedelolactone) and eclalbatin from [Bhringraj](/nighantu/herb/bhringraj/) promote hair follicle proliferation by activating Wnt/beta-catenin signaling pathway, extending the anagen (growth) phase of hair cycle
-- [Indirubin](/nighantu/glossary/compounds-g-l/#indirubin) from Neeli (Indigofera) provides anti-fungal activity against dermatophytes causing dandruff and inhibits premature greying through melanocyte stimulation
-- Gallic acid and vitamin C from [Amla](/nighantu/herb/amla/) provide potent [antioxidant](/nighantu/reference/antioxidant/) protection to hair follicles, neutralizing oxidative stress that causes premature greying and hair fall
-- Nardostachin from [Jatamansi](/nighantu/herb/jatamansi/) calms the nervous system and improves scalp microcirculation, reducing stress-related hair loss
+- [Wedelolactone](/glossary/compounds-t-z/#wedelolactone) and eclalbatin from [Bhringraj](/herb/bhringraj/) promote hair follicle proliferation by activating Wnt/beta-catenin signaling pathway, extending the anagen (growth) phase of hair cycle
+- [Indirubin](/glossary/compounds-g-l/#indirubin) from Neeli (Indigofera) provides anti-fungal activity against dermatophytes causing dandruff and inhibits premature greying through melanocyte stimulation
+- Gallic acid and vitamin C from [Amla](/herb/amla/) provide potent [antioxidant](/reference/antioxidant/) protection to hair follicles, neutralizing oxidative stress that causes premature greying and hair fall
+- Nardostachin from [Jatamansi](/herb/jatamansi/) calms the nervous system and improves scalp microcirculation, reducing stress-related hair loss
 
 ## Which traditional uses are supported by research?
 
 - Hair fall prevention and hair growth promotion - validated by clinical study (2018) showing 30% reduction in hair shedding after 12 weeks, and hair density study (2017) confirming significant increase over placebo
-- Premature greying prevention (Palitya) - supported by the melanocyte-stimulating properties of Neeli (Indigofera) indirubin compound and antioxidant protection from [Amla](/nighantu/herb/amla/)
+- Premature greying prevention (Palitya) - supported by the melanocyte-stimulating properties of Neeli (Indigofera) indirubin compound and antioxidant protection from [Amla](/herb/amla/)
 - Dandruff and scalp infections - validated by in vitro study (2020) demonstrating potent anti-dermatophyte activity of Neeli extract against Trichophyton strains
 
 ## What do recent clinical trials show?
@@ -50,7 +50,7 @@ Sahasrayogam (Taila Prakarana, 12th century CE Kerala tradition). One of the mos
 
 ## Recent safety updates
 
-- No side effects reported in medical literature. Modern formulations per API standards use [Daruharidra](/nighantu/herb/daruharidra/) (Berberis aristata) instead of traditional Anjana (Lead Sulphide), eliminating heavy metal concerns. Patch test recommended for first-time users as natural ingredients can cause allergic reactions in some individuals.
+- No side effects reported in medical literature. Modern formulations per API standards use [Daruharidra](/herb/daruharidra/) (Berberis aristata) instead of traditional Anjana (Lead Sulphide), eliminating heavy metal concerns. Patch test recommended for first-time users as natural ingredients can cause allergic reactions in some individuals.
 - Each batch tested for microbes per Ayurvedic Pharmacopoeia of India (API) standards. Avoid contact with eyes. Discontinue if scalp irritation, redness, or itching occurs. Safe for regular use on hair and scalp.
 
 ## What is it made of?
@@ -64,11 +64,11 @@ Sahasrayogam (Taila Prakarana, 12th century CE Kerala tradition). One of the mos
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Thailam (medicated [coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil)), External application
+**Dosage Forms:** Thailam (medicated [coconut oil](/glossary/concepts-a-m/#coconut-oil)), External application
 
 **Standard Dosage:** Scalp application: 10-15ml
 
-**Bioavailability:** Oil base ([coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
+**Bioavailability:** Oil base ([coconut oil](/glossary/concepts-a-m/#coconut-oil)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
 
 **Optimal Timing:** External: before bath or at bedtime. Internal: before meals
 
@@ -76,7 +76,7 @@ Sahasrayogam (Taila Prakarana, 12th century CE Kerala tradition). One of the mos
 
 **Storage:** Airtight amber glass/HDPE container, room temperature, protected from light
 
-**Marker Compounds:** Eclipta [saponins](/nighantu/reference/saponins/), Gallic acid, [Indigotin](/nighantu/glossary/compounds-g-l/#indigotin)
+**Marker Compounds:** Eclipta [saponins](/reference/saponins/), Gallic acid, [Indigotin](/glossary/compounds-g-l/#indigotin)
 
 **Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Eclipta saponins, Gallic acid, Indigotin
 

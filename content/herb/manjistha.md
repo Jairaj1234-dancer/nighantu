@@ -27,19 +27,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Manjistha/meta-analysis.md"
 
 ## How does it work?
 
-- [Anticancer](/nighantu/reference/anticancer/) (hexapeptides): Cyclic hexapeptides RA-V and RA-VII inhibit multiple cancer signaling pathways. Mollugin inhibits cell proliferation via suppression of HER2/Akt/SREBP-1c/FAS pathway in breast and ovarian cancer cells.
+- [Anticancer](/reference/anticancer/) (hexapeptides): Cyclic hexapeptides RA-V and RA-VII inhibit multiple cancer signaling pathways. Mollugin inhibits cell proliferation via suppression of HER2/Akt/SREBP-1c/FAS pathway in breast and ovarian cancer cells.
 - Anticancer (NF-kB): Mollugin suppresses NF-kB activation, thereby inhibiting HER2 expression in cancer cells.
 - Anti-inflammatory: Mollugin suppresses pro-inflammatory mediators including iNOS, COX-2, TNF-alpha, and IL-1beta in LPS-stimulated BV2 cells in a concentration-dependent manner.
-- [Antioxidant](/nighantu/reference/antioxidant/): [Anthraquinones](/nighantu/glossary/compounds-1-a/#anthraquinones) with hydroxyl substitutions modulate antioxidant activity through radical stabilization and metal chelation.
-- [Neuroprotective](/nighantu/reference/neuroprotective/): [Purpurin](/nighantu/glossary/compounds-o-q/#purpurin) exhibits neuroprotection through antioxidant mechanisms and DNA intercalation properties.
-- [Antimicrobial](/nighantu/reference/antimicrobial/): Structure-activity relationships of anthraquinones reveal antibacterial properties linked to hydroxyl group positioning.
+- [Antioxidant](/reference/antioxidant/): [Anthraquinones](/glossary/compounds-1-a/#anthraquinones) with hydroxyl substitutions modulate antioxidant activity through radical stabilization and metal chelation.
+- [Neuroprotective](/reference/neuroprotective/): [Purpurin](/glossary/compounds-o-q/#purpurin) exhibits neuroprotection through antioxidant mechanisms and DNA intercalation properties.
+- [Antimicrobial](/reference/antimicrobial/): Structure-activity relationships of anthraquinones reveal antibacterial properties linked to hydroxyl group positioning.
 - Gut microbiota modulation: Prebiotic-like effects demonstrated in human clinical trial via 16S rRNA profiling.
-- Key active constituents: [Alizarin](/nighantu/glossary/compounds-1-a/#alizarin), munjistin, rubiadin, purpurin, mollugin, cyclic hexapeptides (RA-V, RA-VII), and xanthopurpurin.
+- Key active constituents: [Alizarin](/glossary/compounds-1-a/#alizarin), munjistin, rubiadin, purpurin, mollugin, cyclic hexapeptides (RA-V, RA-VII), and xanthopurpurin.
 
 ## What do recent clinical trials show?
 
 - Wen M, Chen Q, Chen W and others 2022. [A comprehensive review of Rubia cordifolia L.: Traditional uses, phytochemistry, pharmacological activities, and clinical applications](https://pubmed.ncbi.nlm.nih.gov/36160419/). *Frontiers in pharmacology*. PMID [36160419](https://pubmed.ncbi.nlm.nih.gov/36160419/) · [doi:10.3389/fphar.2022.965390](https://doi.org/10.3389/fphar.2022.965390)  
-  Identified over 100 compounds including anthraquinones, naphthoquinones, bicyclic hexapeptides, [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids), and [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides). Established multiple pharmacological activities: neuroprotective, anti-tumor, antibacterial, anti-inflammatory, antioxidant, and immunosuppressive.
+  Identified over 100 compounds including anthraquinones, naphthoquinones, bicyclic hexapeptides, [triterpenoids](/glossary/compounds-t-z/#triterpenoids), and [polysaccharides](/glossary/compounds-o-q/#polysaccharides). Established multiple pharmacological activities: neuroprotective, anti-tumor, antibacterial, anti-inflammatory, antioxidant, and immunosuppressive.
 - Peterson CT, Pourang A, Dhaliwal S and others 2020. [Modulatory Effects of Triphala and Manjistha Dietary Supplementation on Human Gut Microbiota: A Double-Blind, Randomized, Placebo-Controlled Pilot Study](https://pubmed.ncbi.nlm.nih.gov/32955913/). *Journal of alternative and complementary medicine (New York, N.Y.)*. PMID [32955913](https://pubmed.ncbi.nlm.nih.gov/32955913/) · [doi:10.1089/acm.2020.0148](https://doi.org/10.1089/acm.2020.0148)  
   4-week RCT with 2000 mg/day Manjistha showed modulatory effects on gut microbiota composition evaluated through 16S rRNA profiling, suggesting prebiotic-like activity.
 - Balachandran P, Ibrahim MA, Zhang J and others 2021. [Crosstalk of Cancer Signaling Pathways by Cyclic Hexapeptides and Anthraquinones from Rubia cordifolia](https://pubmed.ncbi.nlm.nih.gov/33572569/). *Molecules (Basel, Switzerland)*. PMID [33572569](https://pubmed.ncbi.nlm.nih.gov/33572569/) · [doi:10.3390/molecules26030735](https://doi.org/10.3390/molecules26030735)  
@@ -69,7 +69,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Manjistha/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g root powder per day; 500-1000 mg standardized extract daily; 50-100 mL decoction twice daily; topical as directed
 
-**Bioavailability:** Same pharmacokinetic profile as [Manjishtha](/nighantu/herb/manjishtha/) (Rubia cordifolia). Anthraquinone [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) undergo colonic hydrolysis for absorption. Bioavailability of alizarin approximately 25-35%. Enhanced by lipid co-administration. Topical anthraquinone penetration is effective through stratum corneum.
+**Bioavailability:** Same pharmacokinetic profile as [Manjishtha](/herb/manjishtha/) (Rubia cordifolia). Anthraquinone [glycosides](/glossary/compounds-g-l/#glycosides) undergo colonic hydrolysis for absorption. Bioavailability of alizarin approximately 25-35%. Enhanced by lipid co-administration. Topical anthraquinone penetration is effective through stratum corneum.
 
 **Optimal Timing:** Morning on empty stomach for internal blood purification; topical application at night for skin repair and depigmentation (avoid sun exposure after topical anthraquinone application)
 
@@ -92,8 +92,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Manjistha/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- Kumkuma/[Saffron](/nighantu/herb/saffron/) (premium skin radiance formula)
-- [Chandana](/nighantu/herb/chandana/) (cooling and complexion)
-- [Ushira](/nighantu/herb/ushira/) (blood cooling and skin purification)
-- Anantamul/[Sariva](/nighantu/herb/sariva/) (lymphatic and blood cleansing)
-- [Haridra](/nighantu/herb/haridra/) + [Chandana](/nighantu/herb/chandana/) (Varnya combination for skin glow)
+- Kumkuma/[Saffron](/herb/saffron/) (premium skin radiance formula)
+- [Chandana](/herb/chandana/) (cooling and complexion)
+- [Ushira](/herb/ushira/) (blood cooling and skin purification)
+- Anantamul/[Sariva](/herb/sariva/) (lymphatic and blood cleansing)
+- [Haridra](/herb/haridra/) + [Chandana](/herb/chandana/) (Varnya combination for skin glow)

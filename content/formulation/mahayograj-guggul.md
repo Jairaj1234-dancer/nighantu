@@ -35,12 +35,12 @@ Bhaishajya Ratnavali (Amavata Chikitsa); also referenced in Sharangdhara Samhita
 - Ama digestion and metabolic correction: The formulation's primary action is on Ama (metabolic toxins); it digests Ama and prevents further formation by rectifying digestive processes and metabolic activities
 - Lipid metabolism modulation: Guggulsterones act as FXR antagonists, promoting bile acid synthesis and cholesterol excretion
 - Mineral supplementation via bhasma: Processed metallic calx (iron, tin) provide bioavailable trace minerals that support enzymatic processes and tissue repair in musculoskeletal system
-- Bioavailability enhancement: [Piperine](/nighantu/reference/piperine/) from [Trikatu](/nighantu/herb/trikatu/) inhibits hepatic and intestinal glucuronidation and P-glycoprotein efflux, enhancing absorption of all active phytoconstituents
+- Bioavailability enhancement: [Piperine](/reference/piperine/) from [Trikatu](/herb/trikatu/) inhibits hepatic and intestinal glucuronidation and P-glycoprotein efflux, enhancing absorption of all active phytoconstituents
 
 ## Which traditional uses are supported by research?
 
 - Rheumatoid arthritis (Amavata) management validated in double-blind clinical study showing 30% greater DAS28 score reduction than standard guggul extract
-- Comprehensive joint disorder relief validated through broad anti-inflammatory and [analgesic](/nighantu/reference/analgesic/) mechanisms across multiple pharmacological studies
+- Comprehensive joint disorder relief validated through broad anti-inflammatory and [analgesic](/reference/analgesic/) mechanisms across multiple pharmacological studies
 - Gout management supported by uric acid reduction and anti-inflammatory mechanisms validated in clinical observations
 - Neurological and musculoskeletal pain relief supported by Vata-pacifying and nervine properties confirmed in traditional prescribing data
 
@@ -70,11 +70,11 @@ Bhaishajya Ratnavali (Amavata Chikitsa); also referenced in Sharangdhara Samhita
 
 **Standard Dosage:** 2 tablets twice daily
 
-**Bioavailability:** [Guggulu](/nighantu/formulation/guggulu/) resin acts as natural bioenhancer; guggulsterones have moderate oral bioavailability (~40%); lipophilic matrix aids absorption of co-formulated herbs
+**Bioavailability:** [Guggulu](/formulation/guggulu/) resin acts as natural bioenhancer; guggulsterones have moderate oral bioavailability (~40%); lipophilic matrix aids absorption of co-formulated herbs
 
 **Optimal Timing:** After meals, twice daily
 
-**Shelf Life:** 2 years ([guggulu](/nighantu/formulation/guggulu/) preparations per ASU); potency may decrease after 1 year
+**Shelf Life:** 2 years ([guggulu](/formulation/guggulu/) preparations per ASU); potency may decrease after 1 year
 
 **Storage:** Airtight container, cool dry place; guggulu preparations are hygroscopic
 
@@ -86,4 +86,4 @@ Bhaishajya Ratnavali (Amavata Chikitsa); also referenced in Sharangdhara Samhita
 
 ### Synergistic Combinations
 
-- Key herbs: Guggulu with [Triphala](/nighantu/herb/triphala/), [Trikatu](/nighantu/herb/trikatu/), [Vidanga](/nighantu/herb/vidanga/) + 20 herbs and bhasmas; guggulu potentiates anti-inflammatory and [hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic) actions
+- Key herbs: Guggulu with [Triphala](/herb/triphala/), [Trikatu](/herb/trikatu/), [Vidanga](/herb/vidanga/) + 20 herbs and bhasmas; guggulu potentiates anti-inflammatory and [hypolipidemic](/glossary/pharmacology/#hypolipidemic) actions

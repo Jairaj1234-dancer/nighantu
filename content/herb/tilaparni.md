@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tilaparni/meta-analysis.md"
 
 **Standard Dosage:** 10-20 mL fresh juice twice daily; 2-4 g powder twice daily; 30-60 mL decoction twice daily
 
-**Bioavailability:** Essential oil components ([thymol](/nighantu/glossary/compounds-t-z/#thymol), [carvacrol](/nighantu/glossary/compounds-a-c/#carvacrol)-type compounds) show good oral bioavailability (>45%) with rapid GI absorption. Rosmarinic acid, a key phenolic, has oral bioavailability of approximately 15-20% due to esterase-mediated hydrolysis in the gut and extensive Phase II metabolism. Lipid-based formulations improve absorption of hydrophobic [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids).
+**Bioavailability:** Essential oil components ([thymol](/glossary/compounds-t-z/#thymol), [carvacrol](/glossary/compounds-a-c/#carvacrol)-type compounds) show good oral bioavailability (>45%) with rapid GI absorption. Rosmarinic acid, a key phenolic, has oral bioavailability of approximately 15-20% due to esterase-mediated hydrolysis in the gut and extensive Phase II metabolism. Lipid-based formulations improve absorption of hydrophobic [terpenoids](/glossary/compounds-t-z/#terpenoids).
 
 **Optimal Timing:** Before meals for digestive complaints; after meals with honey for respiratory conditions
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tilaparni/meta-analysis.md"
 
 **Storage:** Airtight, light-resistant containers at 15-25 deg C. Essential oil in amber glass. Fresh juice refrigerated at 2-8 deg C.
 
-**Marker Compounds:** [Eugenol](/nighantu/glossary/compounds-d-g/#eugenol), Methyl eugenol, Rosmarinic acid, Ursolic acid, [Linalool](/nighantu/glossary/compounds-l-o/#linalool), beta-Caryophyllene, [Ocimene](/nighantu/glossary/compounds-l-o/#ocimene)
+**Marker Compounds:** [Eugenol](/glossary/compounds-d-g/#eugenol), Methyl eugenol, Rosmarinic acid, Ursolic acid, [Linalool](/glossary/compounds-l-o/#linalool), beta-Caryophyllene, [Ocimene](/glossary/compounds-l-o/#ocimene)
 
 ### Extraction Methods
 
@@ -71,7 +71,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tilaparni/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Tulsi](/nighantu/herb/tulsi/) (Ocimum tenuiflorum) - overlapping Ocimum genus synergy
-- [Pudina](/nighantu/herb/pudina/) (Mentha) - digestive and carminative complementarity
-- Maricha ([black pepper](/nighantu/herb/black-pepper/)) - bioavailability enhancement
+- [Tulsi](/herb/tulsi/) (Ocimum tenuiflorum) - overlapping Ocimum genus synergy
+- [Pudina](/herb/pudina/) (Mentha) - digestive and carminative complementarity
+- Maricha ([black pepper](/herb/black-pepper/)) - bioavailability enhancement
 - Honey - traditional anupana for respiratory formulations

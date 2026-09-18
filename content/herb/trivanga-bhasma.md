@@ -23,20 +23,20 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Trivanga-Bhasma/meta
 
 | Language | Name |
 |----------|------|
-| English | [Trivanga Bhasma](/nighantu/herb/trivanga-bhasma/) |
+| English | [Trivanga Bhasma](/herb/trivanga-bhasma/) |
 
 ## Key Phytochemical Constituents
 
 - Lead oxide/sulfide (~31.67% lead content)
 - Tin oxide (~38.36% tin content)
 - Zinc oxide (~17.1% zinc content)
-- Sulfur compounds from [Gandhaka](/nighantu/glossary/concepts-a-m/#gandhaka) processing
+- Sulfur compounds from [Gandhaka](/glossary/concepts-a-m/#gandhaka) processing
 - Herbal organic residues from trituration media
 
 ## How does it work?
 
 - Anti-diabetic action through combined zinc-mediated insulin sensitivity enhancement and pancreatic beta-cell support, with synergistic effects from trimetallic composition
-- Urinary system regulation through [diuretic](/nighantu/reference/diuretic/) and anti-lithiatic effects of combined metals, supporting management of Prameha (urinary disorders)
+- Urinary system regulation through [diuretic](/reference/diuretic/) and anti-lithiatic effects of combined metals, supporting management of Prameha (urinary disorders)
 - Reproductive system support through tin (Vanga) mediated spermatogenesis enhancement and zinc-dependent reproductive hormone regulation
 - Metabolic regulation through multi-metal enzyme cofactor provision affecting carbohydrate, lipid, and protein metabolism pathways
 
@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Trivanga-Bhasma/meta
 - SAFE AT THERAPEUTIC DOSE IN ANIMALS: NOEL of 78 mg/kg in mice. No treatment effects up to 10x therapeutic dose except at highest level (liver/kidney toxicity).
 - LEAD ACCUMULATION RISK: Chronic use may lead to cumulative lead exposure. Blood lead level monitoring essential for any patient taking this preparation.
 - REGULATORY CONFLICT: While AYUSH permits its manufacture, FDA and WHO guidelines effectively prohibit lead-containing medicines. This creates a regulatory paradox.
-- SAFER ALTERNATIVES AVAILABLE: Zinc-only ([Yashada Bhasma](/nighantu/herb/yashada-bhasma/)) preparations provide similar anti-diabetic benefits without lead toxicity risk.
+- SAFER ALTERNATIVES AVAILABLE: Zinc-only ([Yashada Bhasma](/herb/yashada-bhasma/)) preparations provide similar anti-diabetic benefits without lead toxicity risk.
 
 ## What is it made of?
 
@@ -81,7 +81,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Trivanga-Bhasma/meta
 
 **Bioavailability:** Composite nanoparticles of three metals; synergistic bioavailability
 
-**Optimal Timing:** With honey or [Haridra](/nighantu/herb/haridra/) ([turmeric](/nighantu/herb/turmeric/)); before meals for Prameha
+**Optimal Timing:** With honey or [Haridra](/herb/haridra/) ([turmeric](/herb/turmeric/)); before meals for Prameha
 
 **Standardized Extract:** Composite bhasma of lead (Naga), tin (Vanga), and zinc (Yashada)
 
@@ -93,4 +93,4 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Trivanga-Bhasma/meta
 
 **Quality Parameters:** Free metals <1 ppm each (critical), standard bhasma tests, composite ratio verified
 
-**Vehicle (Anupana):** Honey, [Shilajit](/nighantu/herb/shilajit/), or [Guduchi](/nighantu/herb/guduchi/) Swarasa
+**Vehicle (Anupana):** Honey, [Shilajit](/herb/shilajit/), or [Guduchi](/herb/guduchi/) Swarasa

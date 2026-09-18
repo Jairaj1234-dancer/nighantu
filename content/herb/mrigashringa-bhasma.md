@@ -23,21 +23,21 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Mrigashringa-Bhasma/
 
 | Language | Name |
 |----------|------|
-| English | [Mrigashringa Bhasma](/nighantu/herb/mrigashringa-bhasma/) |
+| English | [Mrigashringa Bhasma](/herb/mrigashringa-bhasma/) |
 
 ## Key Phytochemical Constituents
 
 - Calcium (66%) as primary constituent
-- [Phosphorus](/nighantu/glossary/compounds-o-q/#phosphorus) (32.46%)
-- [Potassium](/nighantu/glossary/compounds-o-q/#potassium) (1.41%)
-- [Magnesium](/nighantu/glossary/compounds-l-o/#magnesium) and carbonates
-- Sulfates, chlorides, [tannins](/nighantu/reference/tannins/), and residual [proteins](/nighantu/glossary/compounds-o-q/#proteins)
+- [Phosphorus](/glossary/compounds-o-q/#phosphorus) (32.46%)
+- [Potassium](/glossary/compounds-o-q/#potassium) (1.41%)
+- [Magnesium](/glossary/compounds-l-o/#magnesium) and carbonates
+- Sulfates, chlorides, [tannins](/reference/tannins/), and residual [proteins](/glossary/compounds-o-q/#proteins)
 
 ## How does it work?
 
 - Calcium-phosphorus supplementation through natural ratio of Ca:P (approximately 2:1) optimal for bone mineralization and preventing calcium-phosphorus imbalance
 - Respiratory tract support through mucolytic and anti-inflammatory actions, facilitating expectoration and reducing bronchial inflammation in pneumonia and bronchitis
-- [Cardioprotective](/nighantu/reference/cardioprotective/) action through calcium and potassium provision supporting cardiac muscle contraction, electrical conduction, and rhythm regulation
+- [Cardioprotective](/reference/cardioprotective/) action through calcium and potassium provision supporting cardiac muscle contraction, electrical conduction, and rhythm regulation
 - Cartilage and joint repair through provision of calcium, phosphorus, and collagen-derived amino acids (from antler matrix) supporting connective tissue regeneration
 
 ## Which traditional uses are supported by research?
@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Mrigashringa-Bhasma/
 ## What do recent clinical trials show?
 
 - Faldu KG, Duvva H, Shah JS and others 2016. [An ayurvedic proprietary herbal preparation, Calci-7, prevents ovariectomy-induced osteoporosis in rats](https://pubmed.ncbi.nlm.nih.gov/29491679/). *Ayu*. PMID [29491679](https://pubmed.ncbi.nlm.nih.gov/29491679/) · [doi:10.4103/ayu.AYU_4_16](https://doi.org/10.4103/ayu.AYU_4_16)  
-  Calci-7 formulation containing [Mrigashringa Bhasma](/nighantu/herb/mrigashringa-bhasma/) prevented ovariectomy-induced osteoporosis in rat models. Demonstrated bone-protective effects through calcium and phosphorus supplementation.
+  Calci-7 formulation containing [Mrigashringa Bhasma](/herb/mrigashringa-bhasma/) prevented ovariectomy-induced osteoporosis in rat models. Demonstrated bone-protective effects through calcium and phosphorus supplementation.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 

@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Sahacharadi
 
 | Language | Name |
 |----------|------|
-| English | [Sahacharadi Thailam](/nighantu/formulation/sahacharadi-thailam/) |
+| English | [Sahacharadi Thailam](/formulation/sahacharadi-thailam/) |
 
 ## Where is it described in the classical texts?
 
@@ -31,10 +31,10 @@ Sahasrayogam (Taila Prakarana); also referenced in Ashtanga Hridayam. A signatur
 
 ## How does it work?
 
-- [Catechins](/nighantu/glossary/compounds-c-d/#catechins) and [tannins](/nighantu/reference/tannins/) from Sahachara inhibit prostaglandin synthesis, providing localized anti-inflammatory action on sciatic nerve and lower limb tissues
-- Curcuminoids (from [turmeric](/nighantu/herb/turmeric/) component) act as antioxidants and inhibit NF-kB inflammatory pathways, reducing neuroinflammation along the sciatic nerve pathway
-- [Manjistha](/nighantu/herb/manjistha/)'s [anthraquinones](/nighantu/glossary/compounds-1-a/#anthraquinones) ([purpurin](/nighantu/glossary/compounds-o-q/#purpurin)) provide blood-purifying action and mild analgesia, improving microcirculation in the affected lower extremities
-- [Gokshura](/nighantu/herb/gokshura/) and Shalaparni synergistically promote muscle health and reduce spasms through smooth muscle relaxation and [diuretic](/nighantu/reference/diuretic/) effects that reduce tissue edema
+- [Catechins](/glossary/compounds-c-d/#catechins) and [tannins](/reference/tannins/) from Sahachara inhibit prostaglandin synthesis, providing localized anti-inflammatory action on sciatic nerve and lower limb tissues
+- Curcuminoids (from [turmeric](/herb/turmeric/) component) act as antioxidants and inhibit NF-kB inflammatory pathways, reducing neuroinflammation along the sciatic nerve pathway
+- [Manjistha](/herb/manjistha/)'s [anthraquinones](/glossary/compounds-1-a/#anthraquinones) ([purpurin](/glossary/compounds-o-q/#purpurin)) provide blood-purifying action and mild analgesia, improving microcirculation in the affected lower extremities
+- [Gokshura](/herb/gokshura/) and Shalaparni synergistically promote muscle health and reduce spasms through smooth muscle relaxation and [diuretic](/reference/diuretic/) effects that reduce tissue edema
 
 ## Which traditional uses are supported by research?
 
@@ -64,11 +64,11 @@ Sahasrayogam (Taila Prakarana); also referenced in Ashtanga Hridayam. A signatur
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Thailam (medicated [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)), External application
+**Dosage Forms:** Thailam (medicated [sesame oil](/glossary/concepts-m-y/#tila-taila)), External application
 
 **Standard Dosage:** External massage for Vata/neurological conditions
 
-**Bioavailability:** Oil base ([sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
+**Bioavailability:** Oil base ([sesame oil](/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
 
 **Optimal Timing:** External: before bath or at bedtime. Internal: before meals
 
@@ -76,7 +76,7 @@ Sahasrayogam (Taila Prakarana); also referenced in Ashtanga Hridayam. A signatur
 
 **Storage:** Airtight amber glass/HDPE container, room temperature, protected from light
 
-**Marker Compounds:** [Sesamin](/nighantu/glossary/compounds-q-t/#sesamin), [Lupeol](/nighantu/reference/lupeol/)
+**Marker Compounds:** [Sesamin](/glossary/compounds-q-t/#sesamin), [Lupeol](/reference/lupeol/)
 
 **Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Sesamin, Lupeol
 
@@ -84,4 +84,4 @@ Sahasrayogam (Taila Prakarana); also referenced in Ashtanga Hridayam. A signatur
 
 ### Synergistic Combinations
 
-- Key herbs: Sahachara (Strobilanthes), [Devadaru](/nighantu/herb/devadaru/), [Eranda](/nighantu/herb/eranda/); oil base acts as lipid carrier for enhanced tissue penetration
+- Key herbs: Sahachara (Strobilanthes), [Devadaru](/herb/devadaru/), [Eranda](/herb/eranda/); oil base acts as lipid carrier for enhanced tissue penetration

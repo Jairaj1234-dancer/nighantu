@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kamsya-Bhasma/meta-a
 
 | Language | Name |
 |----------|------|
-| English | [Kamsya Bhasma](/nighantu/herb/kamsya-bhasma/) |
+| English | [Kamsya Bhasma](/herb/kamsya-bhasma/) |
 
 ## Key Phytochemical Constituents
 
@@ -36,7 +36,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kamsya-Bhasma/meta-a
 ## How does it work?
 
 - Krimighna (anti-parasitic) action through copper and tin oxide-mediated disruption of parasitic cell membranes and metabolic processes
-- Kushthahara (anti-dermatological) effect through combined [antimicrobial](/nighantu/reference/antimicrobial/) and anti-inflammatory properties of copper-tin oxide nanoparticles on skin lesions
+- Kushthahara (anti-dermatological) effect through combined [antimicrobial](/reference/antimicrobial/) and anti-inflammatory properties of copper-tin oxide nanoparticles on skin lesions
 - Netra Roga (eye disease) management through cooling (Sheeta Virya) properties of bronze compounds, reducing Pitta-mediated ocular inflammation
 - Medohara (anti-obesity) action through metabolic regulation and lipid metabolism modulation attributed to copper-zinc enzyme cofactor effects
 
@@ -89,4 +89,4 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kamsya-Bhasma/meta-a
 
 **Quality Parameters:** Standard bhasma tests, copper content within therapeutic range, no free metal
 
-**Vehicle (Anupana):** Honey or [Triphala](/nighantu/herb/triphala/) Kwatha
+**Vehicle (Anupana):** Honey or [Triphala](/herb/triphala/) Kwatha

@@ -27,11 +27,11 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Yavakshara/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Potassium](/nighantu/glossary/compounds-o-q/#potassium) carbonate (K2CO3) - primary component
+- [Potassium](/glossary/compounds-o-q/#potassium) carbonate (K2CO3) - primary component
 - Sodium carbonate (Na2CO3)
-- [Silica](/nighantu/glossary/compounds-q-t/#silica) (from barley plant epidermis)
+- [Silica](/glossary/compounds-q-t/#silica) (from barley plant epidermis)
 - Calcium carbonate (trace)
-- [Magnesium](/nighantu/glossary/compounds-l-o/#magnesium) (trace)
+- [Magnesium](/glossary/compounds-l-o/#magnesium) (trace)
 - Potassium chloride (trace)
 - Mineral microelements from barley ash
 
@@ -39,7 +39,7 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Yavakshara/meta-analysis.md"
 
 - Antacid action: Potassium carbonate and sodium carbonate directly neutralize excess hydrochloric acid in the stomach, providing rapid relief from hyperacidity and acid reflux
 - Anti-urolithiatic: Alkaline pH of urine after absorption dissolves calcium oxalate and uric acid crystals; potassium citrate formed in vivo inhibits new stone nucleation
-- Digestive enhancement: Despite alkaline nature, Ushna virya (hot potency) stimulates Agni (digestive [enzymes](/nighantu/glossary/compounds-d-g/#enzymes)) after initial acid neutralization, improving overall digestion
+- Digestive enhancement: Despite alkaline nature, Ushna virya (hot potency) stimulates Agni (digestive [enzymes](/glossary/compounds-d-g/#enzymes)) after initial acid neutralization, improving overall digestion
 - Srotoshodhana (channel clearing): Sharp and penetrating qualities clear obstructed srotas (channels), particularly in urinary and digestive tracts
 
 ## Which traditional uses are supported by research?
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Yavakshara/meta-analysis.md"
 - Must be used in strictly controlled doses (125-500 mg); excessive intake can cause alkalosis, electrolyte imbalance, and mucosal erosion
 - Contraindicated in patients with renal insufficiency (potassium accumulation risk) and alkalotic conditions
 - Long-term unsupervised use may lead to metabolic alkalosis, hypokalemia paradox, or sodium overload
-- Should be consumed with [Madhu](/nighantu/herb/madhu/) (honey) or warm water as Anupana to reduce mucosal irritation
+- Should be consumed with [Madhu](/herb/madhu/) (honey) or warm water as Anupana to reduce mucosal irritation
 
 ## What is it made of?
 
@@ -85,7 +85,7 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Yavakshara/meta-analysis.md"
 
 **Optimal Timing:** Before meals for Deepana; after meals for Pachana
 
-**Standardized Extract:** Barley ([Yava](/nighantu/herb/yava/)) ash alkaline extract — premier Kshara in Ayurveda
+**Standardized Extract:** Barley ([Yava](/herb/yava/)) ash alkaline extract — premier Kshara in Ayurveda
 
 **Shelf Life:** 12–18 months
 

@@ -23,18 +23,18 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Rasayanas-Rejuvenatives/Agastya-H
 
 | Language | Name |
 |----------|------|
-| English | Agastya [Haritaki](/nighantu/herb/haritaki/) Rasayana|[Agastya](/nighantu/herb/agastya/) [Haritaki](/nighantu/herb/haritaki/) Rasayana |
+| English | Agastya [Haritaki](/herb/haritaki/) Rasayana|[Agastya](/herb/agastya/) [Haritaki](/herb/haritaki/) Rasayana |
 
 ## Where is it described in the classical texts?
 
-Charaka Samhita, Chikitsa Sthana 17th chapter (Kasa Chikitsa: 57-62); Ashtanga Hridayam; attributed to sage [Agastya](/nighantu/herb/agastya/); Rasatarangini (17th century CE)
+Charaka Samhita, Chikitsa Sthana 17th chapter (Kasa Chikitsa: 57-62); Ashtanga Hridayam; attributed to sage [Agastya](/herb/agastya/); Rasatarangini (17th century CE)
 
 ## How does it work?
 
-- [Haritaki](/nighantu/herb/haritaki/) (chebulinic acid, gallic acid) provides [antioxidant](/nighantu/reference/antioxidant/), anti-inflammatory, and bronchodilatory effects on respiratory mucosa
+- [Haritaki](/herb/haritaki/) (chebulinic acid, gallic acid) provides [antioxidant](/reference/antioxidant/), anti-inflammatory, and bronchodilatory effects on respiratory mucosa
 - Dashamula group provides potent anti-inflammatory action, reducing bronchial inflammation and edema in chronic respiratory disease
-- [Bharangi](/nighantu/herb/bharangi/) (clerodendrin) acts as a specific [bronchodilator](/nighantu/reference/bronchodilator/), relaxing airway smooth muscle and reducing bronchospasm
-- Pushkaramoola ([inulin](/nighantu/glossary/compounds-g-l/#inulin), [alantolactone](/nighantu/glossary/compounds-1-a/#alantolactone)) provides direct anti-asthmatic action through mast cell stabilization
+- [Bharangi](/herb/bharangi/) (clerodendrin) acts as a specific [bronchodilator](/reference/bronchodilator/), relaxing airway smooth muscle and reducing bronchospasm
+- Pushkaramoola ([inulin](/glossary/compounds-g-l/#inulin), [alantolactone](/glossary/compounds-1-a/#alantolactone)) provides direct anti-asthmatic action through mast cell stabilization
 - Approximately 100 synergistic components work collectively for comprehensive respiratory support and Rasayana (rejuvenation) effects
 
 ## Which traditional uses are supported by research?
@@ -42,7 +42,7 @@ Charaka Samhita, Chikitsa Sthana 17th chapter (Kasa Chikitsa: 57-62); Ashtanga H
 - Tamaka Shwasa (bronchial asthma): critical review validates bronchodilatory and anti-inflammatory mechanisms for chronic asthma management
 - Kasa (chronic cough): primary classical indication from Charaka Samhita Kasa Chikitsa validated through pharmacological studies
 - Pranvaha Srotas health (respiratory channels): clinical study confirms measurable improvement in cardiorespiratory parameters
-- Pratishyaya (allergic rhinitis/sinusitis): traditional respiratory indication supported by [immunomodulatory](/nighantu/reference/immunomodulatory/) and anti-allergic properties
+- Pratishyaya (allergic rhinitis/sinusitis): traditional respiratory indication supported by [immunomodulatory](/reference/immunomodulatory/) and anti-allergic properties
 
 ## What do recent clinical trials show?
 
@@ -54,7 +54,7 @@ Charaka Samhita, Chikitsa Sthana 17th chapter (Kasa Chikitsa: 57-62); Ashtanga H
 
 - Considered very safe for long-term use compared to other Ayurvedic respiratory medicines; advantageous safety profile for chronic administration
 - Some formulations may contain trace heavy metals from botanical sources - appropriate quality control and testing recommended
-- Generally well-tolerated; excessive doses may cause mild loose stools due to Haritaki's [laxative](/nighantu/reference/laxative/) properties
+- Generally well-tolerated; excessive doses may cause mild loose stools due to Haritaki's [laxative](/reference/laxative/) properties
 
 ## What is it made of?
 
@@ -71,7 +71,7 @@ Charaka Samhita, Chikitsa Sthana 17th chapter (Kasa Chikitsa: 57-62); Ashtanga H
 
 **Standard Dosage:** 6-12 g twice daily, or as directed, as per AFI Part I
 
-**Bioavailability:** Ghee and sugar base enhances absorption of lipophilic actives. [Piperine](/nighantu/reference/piperine/) from [Pippali](/nighantu/herb/pippali/) acts as a natural bioenhancer increasing absorption of other phytoconstituents by up to 30%.
+**Bioavailability:** Ghee and sugar base enhances absorption of lipophilic actives. [Piperine](/reference/piperine/) from [Pippali](/herb/pippali/) acts as a natural bioenhancer increasing absorption of other phytoconstituents by up to 30%.
 
 **Optimal Timing:** Early morning on empty stomach and/or before bedtime
 
@@ -87,8 +87,8 @@ Charaka Samhita, Chikitsa Sthana 17th chapter (Kasa Chikitsa: 57-62); Ashtanga H
 
 ### Synergistic Combinations
 
-- [Sitopaladi Churna](/nighantu/formulation/sitopaladi-churna/)
-- [Talisadi Churna](/nighantu/formulation/talisadi-churna/)
+- [Sitopaladi Churna](/formulation/sitopaladi-churna/)
+- [Talisadi Churna](/formulation/talisadi-churna/)
 - Kanakasava
 - Vasarishta
-- [Dashamularishta](/nighantu/formulation/dashamularishta/)
+- [Dashamularishta](/formulation/dashamularishta/)

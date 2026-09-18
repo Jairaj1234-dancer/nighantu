@@ -31,32 +31,32 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shrigataka/meta-analysis.md"
 - Ellagic acid
 - Gallic acid
 - Chlorogenic acid
-- [Quercetin](/nighantu/reference/quercetinquercetin/)
+- [Quercetin](/reference/quercetinquercetin/)
 - Ursolic acid
 - Cycloucalenol
 - 2,3,23-Trihydroxy urs-12-en-28-oic acid
 - D-amylase
-- [Riboflavin](/nighantu/glossary/compounds-q-t/#riboflavin)
+- [Riboflavin](/glossary/compounds-q-t/#riboflavin)
 - Thiamine
 
 ## How does it work?
 
-- Ellagic acid and gallic acid [polyphenols](/nighantu/glossary/compounds-o-q/#polyphenols) inhibit alpha-glucosidase and alpha-amylase [enzymes](/nighantu/glossary/compounds-d-g/#enzymes), reducing postprandial [glucose](/nighantu/glossary/compounds-d-g/#glucose) absorption and providing [antidiabetic](/nighantu/reference/antidiabetic/) effects validated in myotube glucose uptake assays
+- Ellagic acid and gallic acid [polyphenols](/glossary/compounds-o-q/#polyphenols) inhibit alpha-glucosidase and alpha-amylase [enzymes](/glossary/compounds-d-g/#enzymes), reducing postprandial [glucose](/glossary/compounds-d-g/#glucose) absorption and providing [antidiabetic](/reference/antidiabetic/) effects validated in myotube glucose uptake assays
 - Water chestnut extract promotes M2 macrophage polarization (anti-inflammatory phenotype) through modulation of STAT6/PPAR-gamma signaling, reducing tissue inflammation and oxidative damage
-- Ursolic acid and hydrolyzable [tannins](/nighantu/reference/tannins/) from pericarp exhibit skin-protective effects by inhibiting tyrosinase, elastase, and hyaluronidase, supporting anti-aging and skin-whitening applications
+- Ursolic acid and hydrolyzable [tannins](/reference/tannins/) from pericarp exhibit skin-protective effects by inhibiting tyrosinase, elastase, and hyaluronidase, supporting anti-aging and skin-whitening applications
 
 ## Which traditional uses are supported by research?
 
-- Anti-inflammatory and cooling effects validated through macrophage polarization studies and [antioxidant](/nighantu/reference/antioxidant/) assays, supporting traditional Ayurvedic use as a Pittahara (Pitta-pacifying) food medicine
+- Anti-inflammatory and cooling effects validated through macrophage polarization studies and [antioxidant](/reference/antioxidant/) assays, supporting traditional Ayurvedic use as a Pittahara (Pitta-pacifying) food medicine
 - Antidiabetic activity validated through isolation of specific hypoglycemic constituents from pericarps that enhance cellular glucose uptake, supporting traditional use for Prameha (diabetes)
-- Nutritive and strength-promoting properties (Brimhana) supported by nutritional analysis showing high [starch](/nighantu/glossary/compounds-q-t/#starch), protein, mineral, and vitamin content
+- Nutritive and strength-promoting properties (Brimhana) supported by nutritional analysis showing high [starch](/glossary/compounds-q-t/#starch), protein, mineral, and vitamin content
 
 ## What do recent clinical trials show?
 
 - Matovic V, Ljujic B, Radojevic I and others 2025. [Trapa natans L. Extract Attenuates Inflammation and Oxidative Damage in Cisplatin-Induced Cardiotoxicity in Rats by Promoting M2 Macrophage Polarization](https://pubmed.ncbi.nlm.nih.gov/39886549/). *Mediators of inflammation*. PMID [39886549](https://pubmed.ncbi.nlm.nih.gov/39886549/) · [doi:10.1155/mi/6587305](https://doi.org/10.1155/mi/6587305)  
   Water chestnut extract attenuated cisplatin-induced cardiotoxicity by promoting M2 macrophage polarization, reducing inflammation and oxidative damage in cardiac tissue.
 - Rehman AU, Khan AU, Sohaib M and others 2024. [Comparative Analysis of Nutritional Properties, Phytochemical Profile, and Antioxidant Activities between Red and Green Water Chestnut (Trapa natans) Fruits](https://pubmed.ncbi.nlm.nih.gov/38928824/). *Foods (Basel, Switzerland)*. PMID [38928824](https://pubmed.ncbi.nlm.nih.gov/38928824/) · [doi:10.3390/foods13121883](https://doi.org/10.3390/foods13121883)  
-  Comprehensive review documenting [immunomodulatory](/nighantu/reference/immunomodulatory/), anti-inflammatory, antioxidant, [anticancer](/nighantu/reference/anticancer/), [analgesic](/nighantu/reference/analgesic/), anti-ulcer, antidiabetic, and [hepatoprotective](/nighantu/reference/hepatoprotective/) effects linked to phenolic compounds and [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids).
+  Comprehensive review documenting [immunomodulatory](/reference/immunomodulatory/), anti-inflammatory, antioxidant, [anticancer](/reference/anticancer/), [analgesic](/reference/analgesic/), anti-ulcer, antidiabetic, and [hepatoprotective](/reference/hepatoprotective/) effects linked to phenolic compounds and [triterpenoids](/glossary/compounds-t-z/#triterpenoids).
 - Huang HC, Chao CL, Liaw CC and others 2016. [Hypoglycemic Constituents Isolated from Trapa natans L. Pericarps](https://pubmed.ncbi.nlm.nih.gov/27115849/). *Journal of agricultural and food chemistry*. PMID [27115849](https://pubmed.ncbi.nlm.nih.gov/27115849/) · [doi:10.1021/acs.jafc.6b01208](https://doi.org/10.1021/acs.jafc.6b01208)  
   Hydrolyzable tannins, lignin, flavonoid, norlignan, and phenolic compounds from water chestnut pericarps enhanced glucose uptake activity in C2C12 myotubes, identifying specific antidiabetic constituents.
 
@@ -89,9 +89,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shrigataka/meta-analysis.md"
 
 **Standard Dosage:** 5-10 g fruit powder per day; 3-6 g kernel powder per day with milk; 500-1000 mg extract capsule twice daily
 
-**Bioavailability:** Starch (60-70% of dry weight) is highly digestible. Mineral content (iron, [manganese](/nighantu/glossary/compounds-l-o/#manganese), zinc) has moderate bioavailability (10-20%). Flavonoid [glycosides](/nighantu/glossary/compounds-g-l/#glycosides) show moderate absorption (25-35%). Protein content (10-15%) with moderate amino acid bioavailability. Traditional use with milk or ghee enhances lipophilic constituent absorption.
+**Bioavailability:** Starch (60-70% of dry weight) is highly digestible. Mineral content (iron, [manganese](/glossary/compounds-l-o/#manganese), zinc) has moderate bioavailability (10-20%). Flavonoid [glycosides](/glossary/compounds-g-l/#glycosides) show moderate absorption (25-35%). Protein content (10-15%) with moderate amino acid bioavailability. Traditional use with milk or ghee enhances lipophilic constituent absorption.
 
-**Optimal Timing:** After meals as nutritive supplement; with milk at bedtime for [Vajikarana](/nighantu/glossary/pharmacology/#vajikarana) (reproductive tonic) action
+**Optimal Timing:** After meals as nutritive supplement; with milk at bedtime for [Vajikarana](/glossary/pharmacology/#vajikarana) (reproductive tonic) action
 
 **Standardized Extract:** Fruit kernel extract (5:1), standardized to NLT 60% carbohydrates, NLT 10% protein content; total mineral content (ash) 2-4%; total phenolics NLT 1.5% as gallic acid equivalents
 
@@ -99,7 +99,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shrigataka/meta-analysis.md"
 
 **Storage:** Store below 25 deg C in airtight containers. Powder is hygroscopic — maintain RH <50%. Protect from insect infestation (high starch attracts pests); use nitrogen-flushed packaging.
 
-**Marker Compounds:** Gallic acid, Ellagic acid, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Starch (amylose:amylopectin ratio), Manganese (mineral marker)
+**Marker Compounds:** Gallic acid, Ellagic acid, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Starch (amylose:amylopectin ratio), Manganese (mineral marker)
 
 ### Extraction Methods
 
@@ -110,7 +110,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shrigataka/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Shatavari](/nighantu/herb/shatavari/) (nourishing and Brihana tonic synergy)
-- [Ashwagandha](/nighantu/herb/ashwagandha/) (strength-building combinations)
-- [Vidari](/nighantu/herb/vidari/) (Vajikarana formulations)
+- [Shatavari](/herb/shatavari/) (nourishing and Brihana tonic synergy)
+- [Ashwagandha](/herb/ashwagandha/) (strength-building combinations)
+- [Vidari](/herb/vidari/) (Vajikarana formulations)
 - Milk and ghee (traditional Anupana for nutritive action)

@@ -36,13 +36,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Durva/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Swarasa (fresh juice), Churna (powder), Kashayam (decoction), Tablet, Capsule, Lepa (paste for external use), [Ghrita](/nighantu/herb/ghrita/) (medicated ghee)
+**Dosage Forms:** Swarasa (fresh juice), Churna (powder), Kashayam (decoction), Tablet, Capsule, Lepa (paste for external use), [Ghrita](/herb/ghrita/) (medicated ghee)
 
 **Standard Dosage:** 10-20ml fresh juice twice daily; 3-6g powder twice daily; 50-100ml decoction twice daily; 500mg extract capsule twice daily
 
-**Bioavailability:** Cynodon dactylon (Bermuda grass / Durva) contains [flavonoids](/nighantu/reference/flavonoids/) ([apigenin](/nighantu/glossary/compounds-1-a/#apigenin), [luteolin](/nighantu/glossary/compounds-l-o/#luteolin), [orientin](/nighantu/glossary/compounds-o-q/#orientin), [vitexin](/nighantu/glossary/compounds-t-z/#vitexin)), [triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids), and [phytosterols](/nighantu/glossary/compounds-o-q/#phytosterols). Flavone C-[glycosides](/nighantu/glossary/compounds-g-l/#glycosides) (orientin, vitexin) are resistant to acid hydrolysis and absorbed intact through SGLT1 transporter with moderate bioavailability (20-35%). [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin) has moderate oral bioavailability (~25%) improved by lipid co-administration. Fresh juice provides labile enzyme and [chlorophyll](/nighantu/glossary/compounds-c-d/#chlorophyll) components lost during drying. Enhancement: self-microemulsifying delivery system (SMEDDS) for terpenoid fraction; cyclodextrin inclusion for flavonoid stabilization.
+**Bioavailability:** Cynodon dactylon (Bermuda grass / Durva) contains [flavonoids](/reference/flavonoids/) ([apigenin](/glossary/compounds-1-a/#apigenin), [luteolin](/glossary/compounds-l-o/#luteolin), [orientin](/glossary/compounds-o-q/#orientin), [vitexin](/glossary/compounds-t-z/#vitexin)), [triterpenoids](/glossary/compounds-t-z/#triterpenoids), and [phytosterols](/glossary/compounds-o-q/#phytosterols). Flavone C-[glycosides](/glossary/compounds-g-l/#glycosides) (orientin, vitexin) are resistant to acid hydrolysis and absorbed intact through SGLT1 transporter with moderate bioavailability (20-35%). [Apigenin](/glossary/compounds-1-a/#apigenin) has moderate oral bioavailability (~25%) improved by lipid co-administration. Fresh juice provides labile enzyme and [chlorophyll](/glossary/compounds-c-d/#chlorophyll) components lost during drying. Enhancement: self-microemulsifying delivery system (SMEDDS) for terpenoid fraction; cyclodextrin inclusion for flavonoid stabilization.
 
-**Optimal Timing:** Fresh juice on empty stomach in the morning for blood purification and [hemostatic](/nighantu/glossary/pharmacology/#hemostatic) effects; before meals for GI conditions; externally as needed
+**Optimal Timing:** Fresh juice on empty stomach in the morning for blood purification and [hemostatic](/glossary/pharmacology/#hemostatic) effects; before meals for GI conditions; externally as needed
 
 **Standardized Extract:** Aqueous or hydroalcoholic extract standardized to NLT 3% total flavonoids (as vitexin equivalent). Extract ratio 10:1. HPTLC fingerprint with characteristic orientin, vitexin, and luteolin bands.
 
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Durva/meta-analysis.md"
 
 **Storage:** Dried herb in airtight, light-resistant containers below 25 deg C. Fresh grass: refrigerate, process within 24 hours. Juice: refrigerate at 2-8 deg C. Green powder darkens on light exposure - use opaque packaging.
 
-**Marker Compounds:** Orientin, Vitexin, Luteolin, Apigenin, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Cynodin, Triterpenoids ([friedelin](/nighantu/glossary/compounds-d-g/#friedelin), beta-amyrin)
+**Marker Compounds:** Orientin, Vitexin, Luteolin, Apigenin, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Cynodin, Triterpenoids ([friedelin](/glossary/compounds-d-g/#friedelin), beta-amyrin)
 
 ### Extraction Methods
 
@@ -62,8 +62,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Durva/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Ushira](/nighantu/herb/ushira/) (vetiver) for hemostatic and Pitta-pacifying synergy
-- With [Lodhra](/nighantu/herb/lodhra/) for uterine tonic combination
-- With [Nagakesara](/nighantu/herb/nagakesara/) and [Ashoka](/nighantu/herb/ashoka/) for menorrhagia management
-- With [Chandana](/nighantu/herb/chandana/) (sandalwood) for cooling and hemostatic Pitta formulations
-- With Amalaki for [antioxidant](/nighantu/reference/antioxidant/) and [Rasayana](/nighantu/reference/rasayana/) synergy
+- With [Ushira](/herb/ushira/) (vetiver) for hemostatic and Pitta-pacifying synergy
+- With [Lodhra](/herb/lodhra/) for uterine tonic combination
+- With [Nagakesara](/herb/nagakesara/) and [Ashoka](/herb/ashoka/) for menorrhagia management
+- With [Chandana](/herb/chandana/) (sandalwood) for cooling and hemostatic Pitta formulations
+- With Amalaki for [antioxidant](/reference/antioxidant/) and [Rasayana](/reference/rasayana/) synergy

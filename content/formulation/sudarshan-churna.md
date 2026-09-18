@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Sudarshan-Churna/
 
 | Language | Name |
 |----------|------|
-| English | [Sudarshan Churna](/nighantu/formulation/sudarshan-churna/) |
+| English | [Sudarshan Churna](/formulation/sudarshan-churna/) |
 
 ## Where is it described in the classical texts?
 
@@ -31,17 +31,17 @@ Bhavaprakasha Nighantu (16th century); composed of 42 medicinal plants in the st
 
 ## How does it work?
 
-- [Antipyretic](/nighantu/reference/antipyretic/) pathway: Swertiamarin (terpenoid) in Swertia chirayita activates hypothalamic thermoregulatory centers and inhibits prostaglandin synthesis via COX-2 suppression, reducing fever
-- Antimalarial action: Chirayita and [Neem](/nighantu/herb/neem/) contain bitter compounds (swertiamarin, [nimbin](/nighantu/glossary/compounds-l-o/#nimbin)) with documented antiplasmodial activity against Plasmodium species
-- Diaphoretic and [diuretic](/nighantu/reference/diuretic/): The combination induces perspiration and promotes urination, eliminating metabolic toxins and breaking the fever cycle
-- Agni-Ama axis regulation: Bitter-cool herbs clear Pitta and neutralize toxins while warming pungents (Shunthi, [Pippali](/nighantu/herb/pippali/)) kindle Agni to metabolize Ama, restoring digestive equilibrium
+- [Antipyretic](/reference/antipyretic/) pathway: Swertiamarin (terpenoid) in Swertia chirayita activates hypothalamic thermoregulatory centers and inhibits prostaglandin synthesis via COX-2 suppression, reducing fever
+- Antimalarial action: Chirayita and [Neem](/herb/neem/) contain bitter compounds (swertiamarin, [nimbin](/glossary/compounds-l-o/#nimbin)) with documented antiplasmodial activity against Plasmodium species
+- Diaphoretic and [diuretic](/reference/diuretic/): The combination induces perspiration and promotes urination, eliminating metabolic toxins and breaking the fever cycle
+- Agni-Ama axis regulation: Bitter-cool herbs clear Pitta and neutralize toxins while warming pungents (Shunthi, [Pippali](/herb/pippali/)) kindle Agni to metabolize Ama, restoring digestive equilibrium
 
 ## Which traditional uses are supported by research?
 
 - Fever management (Jwara Chikitsa) validated through pilot study showing 25% faster fever resolution compared to placebo
-- Antimalarial activity validated through documented antiplasmodial properties of Swertia chirata and [Neem](/nighantu/herb/neem/)
-- [Antimicrobial](/nighantu/reference/antimicrobial/) activity validated against gram-positive and gram-negative bacteria in disc diffusion assays
-- Appetite restoration and digestive improvement validated through Agni-enhancing mechanisms of [Trikatu](/nighantu/herb/trikatu/) components
+- Antimalarial activity validated through documented antiplasmodial properties of Swertia chirata and [Neem](/herb/neem/)
+- [Antimicrobial](/reference/antimicrobial/) activity validated against gram-positive and gram-negative bacteria in disc diffusion assays
+- Appetite restoration and digestive improvement validated through Agni-enhancing mechanisms of [Trikatu](/herb/trikatu/) components
 
 ## What do recent clinical trials show?
 
@@ -77,9 +77,9 @@ Bhavaprakasha Nighantu (16th century); composed of 42 medicinal plants in the st
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
-**Marker Compounds:** Swertimerin, [Curcumin](/nighantu/herb/curcumin/), [Tinosporin](/nighantu/glossary/compounds-t-z/#tinosporin)
+**Marker Compounds:** Swertimerin, [Curcumin](/herb/curcumin/), [Tinosporin](/glossary/compounds-t-z/#tinosporin)
 
-**Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Swertimerin, [Curcumin](/nighantu/herb/curcumin/), Tinosporin
+**Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Swertimerin, [Curcumin](/herb/curcumin/), Tinosporin
 
 **Vehicle (Anupana):** Warm water
 

@@ -19,7 +19,7 @@ productHints: []
 words: 128
 srcRel: "Ayurveda/Medical-Devices/Panchakarma-Equipment/Sitz-Bath-Therapeutic-Immersion-Tub/device-info.md"
 ---
-A tub or trough (Droni) carved from a single piece of wood (traditionally [Neem](/nighantu/herb/neem/) or other medicinal wood) in which the patient sits immersed in warm medicated decoctions or oils.
+A tub or trough (Droni) carved from a single piece of wood (traditionally [Neem](/herb/neem/) or other medicinal wood) in which the patient sits immersed in warm medicated decoctions or oils.
 
 ## Where is it described in the classical texts?
 
@@ -31,7 +31,7 @@ Pelvic disorders, hemorrhoids (Arsha), fistula-in-ano (Bhagandara), urinary diso
 
 ## Traditional materials
 
-- [Neem](/nighantu/herb/neem/) wood ([Nimba](/nighantu/herb/nimba/) Daru)
+- [Neem](/herb/neem/) wood ([Nimba](/herb/nimba/) Daru)
 - Teak wood
 - Copper-lined wooden tub
 

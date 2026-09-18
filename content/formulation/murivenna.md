@@ -27,24 +27,24 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Murivenna/m
 
 ## Key Ingredients
 
-- [Karanja](/nighantu/herb/karanja/) patra (Pongamia pinnata leaves / Indian Beech)
-- Sigru patra ([Moringa](/nighantu/herb/moringa/) oleifera leaves / Drumstick)
-- Kanya (Aloe barbadensis / [Aloe vera](/nighantu/herb/aloe-vera/))
+- [Karanja](/herb/karanja/) patra (Pongamia pinnata leaves / Indian Beech)
+- Sigru patra ([Moringa](/herb/moringa/) oleifera leaves / Drumstick)
+- Kanya (Aloe barbadensis / [Aloe vera](/herb/aloe-vera/))
 - Tambula (Piper betle / Betel leaves)
-- [Palandu](/nighantu/herb/palandu/) (Allium cepa / Indian Shallots)
+- [Palandu](/herb/palandu/) (Allium cepa / Indian Shallots)
 - Tandulambu (Rice water / Tandulodaka)
-- [Coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil) ([Narikela](/nighantu/herb/narikela/) taila) base
+- [Coconut oil](/glossary/concepts-a-m/#coconut-oil) ([Narikela](/herb/narikela/) taila) base
 
 ## Where is it described in the classical texts?
 
-A signature Kerala Ayurvedic formulation (Chikitsamanjari / Kerala Vaidya tradition). The name 'Murivenna' literally means 'wound oil' in Malayalam. Referenced in Ayurveda Formulary of India (modified form). Unique in using [coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil) as base instead of [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila).
+A signature Kerala Ayurvedic formulation (Chikitsamanjari / Kerala Vaidya tradition). The name 'Murivenna' literally means 'wound oil' in Malayalam. Referenced in Ayurveda Formulary of India (modified form). Unique in using [coconut oil](/glossary/concepts-a-m/#coconut-oil) as base instead of [sesame oil](/glossary/concepts-m-y/#tila-taila).
 
 ## How does it work?
 
-- [Karanjin](/nighantu/glossary/compounds-g-l/#karanjin) and [pongamol](/nighantu/glossary/compounds-o-q/#pongamol) from [Karanja](/nighantu/herb/karanja/) leaves provide potent anti-inflammatory and [antimicrobial](/nighantu/reference/antimicrobial/) activity, inhibiting bacterial colonization at wound sites
-- [Acemannan](/nighantu/glossary/compounds-1-a/#acemannan) [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides) from [Aloe vera](/nighantu/herb/aloe-vera/) stimulate macrophage activation and fibroblast proliferation, accelerating wound closure and granulation tissue formation
-- [Moringa](/nighantu/herb/moringa/) leaf [isothiocyanates](/nighantu/glossary/compounds-g-l/#isothiocyanates) provide broad-spectrum antibacterial activity and reduce oxidative stress at wound sites through potent [antioxidant](/nighantu/reference/antioxidant/) action
-- [Coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil) base provides medium-chain fatty acids (lauric acid) with inherent antimicrobial properties, and superior wound moisture retention compared to [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila)
+- [Karanjin](/glossary/compounds-g-l/#karanjin) and [pongamol](/glossary/compounds-o-q/#pongamol) from [Karanja](/herb/karanja/) leaves provide potent anti-inflammatory and [antimicrobial](/reference/antimicrobial/) activity, inhibiting bacterial colonization at wound sites
+- [Acemannan](/glossary/compounds-1-a/#acemannan) [polysaccharides](/glossary/compounds-o-q/#polysaccharides) from [Aloe vera](/herb/aloe-vera/) stimulate macrophage activation and fibroblast proliferation, accelerating wound closure and granulation tissue formation
+- [Moringa](/herb/moringa/) leaf [isothiocyanates](/glossary/compounds-g-l/#isothiocyanates) provide broad-spectrum antibacterial activity and reduce oxidative stress at wound sites through potent [antioxidant](/reference/antioxidant/) action
+- [Coconut oil](/glossary/concepts-a-m/#coconut-oil) base provides medium-chain fatty acids (lauric acid) with inherent antimicrobial properties, and superior wound moisture retention compared to [sesame oil](/glossary/concepts-m-y/#tila-taila)
 
 ## Which traditional uses are supported by research?
 
@@ -60,8 +60,8 @@ A signature Kerala Ayurvedic formulation (Chikitsamanjari / Kerala Vaidya tradit
 
 ## Recent safety updates
 
-- Generally well-tolerated for external wound application. Mild stinging may occur on fresh wounds - this is transient. No significant adverse effects documented in clinical studies or traditional practice. Kerala Journal of Ayurveda (2018) found 75% faster wound closure compared to plain [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila).
-- Not for internal consumption. Avoid on deep infected wounds requiring surgical management. Those with [coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil) allergy should avoid this formulation. Not to be used as sole treatment for fractures - complementary to proper orthopedic management.
+- Generally well-tolerated for external wound application. Mild stinging may occur on fresh wounds - this is transient. No significant adverse effects documented in clinical studies or traditional practice. Kerala Journal of Ayurveda (2018) found 75% faster wound closure compared to plain [sesame oil](/glossary/concepts-m-y/#tila-taila).
+- Not for internal consumption. Avoid on deep infected wounds requiring surgical management. Those with [coconut oil](/glossary/concepts-a-m/#coconut-oil) allergy should avoid this formulation. Not to be used as sole treatment for fractures - complementary to proper orthopedic management.
 
 ## What is it made of?
 
@@ -74,11 +74,11 @@ A signature Kerala Ayurvedic formulation (Chikitsamanjari / Kerala Vaidya tradit
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Thailam (medicated [coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil)), External application
+**Dosage Forms:** Thailam (medicated [coconut oil](/glossary/concepts-a-m/#coconut-oil)), External application
 
 **Standard Dosage:** External application on wounds and fractures
 
-**Bioavailability:** Oil base ([coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
+**Bioavailability:** Oil base ([coconut oil](/glossary/concepts-a-m/#coconut-oil)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
 
 **Optimal Timing:** External: before bath or at bedtime. Internal: before meals
 
@@ -86,12 +86,12 @@ A signature Kerala Ayurvedic formulation (Chikitsamanjari / Kerala Vaidya tradit
 
 **Storage:** Airtight amber glass/HDPE container, room temperature, protected from light
 
-**Marker Compounds:** Karanjin, [Berberine](/nighantu/glossary/compounds-a-c/#berberine)
+**Marker Compounds:** Karanjin, [Berberine](/glossary/compounds-a-c/#berberine)
 
-**Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Karanjin, [Berberine](/nighantu/glossary/compounds-a-c/#berberine)
+**Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Karanjin, [Berberine](/glossary/compounds-a-c/#berberine)
 
 **Vehicle (Anupana):** External: massage into affected area. Internal: with warm water/milk
 
 ### Synergistic Combinations
 
-- Key herbs: Murivenna herbs: [Karanja](/nighantu/herb/karanja/), Sigru, [Daruharidra](/nighantu/herb/daruharidra/); oil base acts as lipid carrier for enhanced tissue penetration
+- Key herbs: Murivenna herbs: [Karanja](/herb/karanja/), Sigru, [Daruharidra](/herb/daruharidra/); oil base acts as lipid carrier for enhanced tissue penetration

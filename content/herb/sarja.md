@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Sarja/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g bark/resin powder per day; 50-100 mL kwatha twice daily; external application of oleoresin as needed
 
-**Bioavailability:** Triterpenoid and phenolic constituents have moderate bioavailability (20-35%). Oleoresin components are lipophilic and require lipid-based carriers for optimal absorption. [Tannins](/nighantu/reference/tannins/) reduce bioavailability of co-administered iron and [proteins](/nighantu/glossary/compounds-o-q/#proteins).
+**Bioavailability:** Triterpenoid and phenolic constituents have moderate bioavailability (20-35%). Oleoresin components are lipophilic and require lipid-based carriers for optimal absorption. [Tannins](/reference/tannins/) reduce bioavailability of co-administered iron and [proteins](/glossary/compounds-o-q/#proteins).
 
 **Optimal Timing:** After meals for internal use; externally as needed for wound care
 
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Sarja/meta-analysis.md"
 
 **Storage:** Below 25 deg C in airtight containers. Oleoresin in glass or coated metal containers. Protect from light and oxidation.
 
-**Marker Compounds:** Alpha-amyrin, Beta-amyrin, Ursolic acid, Gallic acid, Ellagic acid, [Bergenin](/nighantu/glossary/compounds-a-c/#bergenin)
+**Marker Compounds:** Alpha-amyrin, Beta-amyrin, Ursolic acid, Gallic acid, Ellagic acid, [Bergenin](/glossary/compounds-a-c/#bergenin)
 
 ### Extraction Methods
 
@@ -58,11 +58,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Sarja/meta-analysis.md"
 - Aqueous decoction
 - Oleoresin tapping and purification
 - Soxhlet extraction with ethyl acetate
-- Cold maceration in [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) for taila
+- Cold maceration in [sesame oil](/glossary/concepts-m-y/#tila-taila) for taila
 
 ### Synergistic Combinations
 
-- [Sala](/nighantu/herb/sala/) (astringent-wound healing synergy)
-- [Lodhra](/nighantu/herb/lodhra/) ([hemostatic](/nighantu/glossary/pharmacology/#hemostatic) formulations)
-- [Arjuna](/nighantu/herb/arjuna/) (cardiovascular and wound healing combinations)
-- [Shallaki](/nighantu/herb/shallaki/) (anti-inflammatory resin formulations)
+- [Sala](/herb/sala/) (astringent-wound healing synergy)
+- [Lodhra](/herb/lodhra/) ([hemostatic](/glossary/pharmacology/#hemostatic) formulations)
+- [Arjuna](/herb/arjuna/) (cardiovascular and wound healing combinations)
+- [Shallaki](/herb/shallaki/) (anti-inflammatory resin formulations)

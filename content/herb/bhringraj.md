@@ -27,20 +27,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Hair-Health/Bhringraj/meta-analysis.md"
 
 ## How does it work?
 
-- Hair growth: [Wedelolactone](/nighantu/glossary/compounds-t-z/#wedelolactone) activates Wnt/beta-catenin signaling pathway, increases dermal papilla cell proliferation, and binds VEGF receptor.
+- Hair growth: [Wedelolactone](/glossary/compounds-t-z/#wedelolactone) activates Wnt/beta-catenin signaling pathway, increases dermal papilla cell proliferation, and binds VEGF receptor.
 - Hair growth: Inhibits 5-alpha-reductase activity (similar to finasteride); inhibits TGF-beta1 expression, promoting hair matrix cell proliferation.
 - Hair growth: Promotes anagen phase induction and sustenance through regulation of FGF-7 (upregulation) and FGF-5 (downregulation).
-- Hepatoprotection: Wedelolactone and [demethylwedelolactone](/nighantu/glossary/compounds-c-d/#demethylwedelolactone) display hepatocyto-protective action, enabling liver cell regeneration and ameliorating hepatic injury from oxidative stress.
+- Hepatoprotection: Wedelolactone and [demethylwedelolactone](/glossary/compounds-c-d/#demethylwedelolactone) display hepatocyto-protective action, enabling liver cell regeneration and ameliorating hepatic injury from oxidative stress.
 - Hepatoprotection: Reduces fat deposition, mononuclear infiltration, and necrotic foci while stimulating hepatocyte regeneration.
-- Anti-inflammatory: Flavonoid constituents ([luteolin](/nighantu/glossary/compounds-l-o/#luteolin), [apigenin](/nighantu/glossary/compounds-1-a/#apigenin)) provide [antioxidant](/nighantu/reference/antioxidant/) and anti-inflammatory effects on scalp tissue.
-- [Antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive): Increases urine volume and modulates lipid metabolism markers.
+- Anti-inflammatory: Flavonoid constituents ([luteolin](/glossary/compounds-l-o/#luteolin), [apigenin](/glossary/compounds-1-a/#apigenin)) provide [antioxidant](/reference/antioxidant/) and anti-inflammatory effects on scalp tissue.
+- [Antihypertensive](/glossary/pharmacology/#antihypertensive): Increases urine volume and modulates lipid metabolism markers.
 
 ## What do recent clinical trials show?
 
 - Wang W, Wang H, Luo Y and others 2024. [Discovery of petroleum ether extract of eclipta targeting p53/Fas pathway for the treatment of chemotherapy-induced alopecia: Network pharmacology and experimental validation](https://pubmed.ncbi.nlm.nih.gov/38844249/). *Journal of ethnopharmacology*. PMID [38844249](https://pubmed.ncbi.nlm.nih.gov/38844249/) · [doi:10.1016/j.jep.2024.118405](https://doi.org/10.1016/j.jep.2024.118405)  
   Network pharmacology and experimental validation confirmed Eclipta extract modulates the p53/Fas pathway, promoting hair matrix cell proliferation by inhibiting TGF-beta1 expression.
 - Timalsina D, Devkota HP 2021. [Eclipta prostrata (L.) L. (Asteraceae): Ethnomedicinal Uses, Chemical Constituents, and Biological Activities](https://pubmed.ncbi.nlm.nih.gov/34827736/). *Biomolecules*. PMID [34827736](https://pubmed.ncbi.nlm.nih.gov/34827736/) · [doi:10.3390/biom11111738](https://doi.org/10.3390/biom11111738)  
-  Systematic review of over 100 studies confirmed hepatoprotective, anti-inflammatory, [antimicrobial](/nighantu/reference/antimicrobial/), antioxidant, and hair-growth-promoting activities. Identified wedelolactone, eclalbasaponins, ursolic acid, and luteolin as key bioactives.
+  Systematic review of over 100 studies confirmed hepatoprotective, anti-inflammatory, [antimicrobial](/reference/antimicrobial/), antioxidant, and hair-growth-promoting activities. Identified wedelolactone, eclalbasaponins, ursolic acid, and luteolin as key bioactives.
 
 *3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
@@ -64,13 +64,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Hair-Health/Bhringraj/meta-analysis.md"
 
 **Optimal Timing:** Morning on empty stomach for liver health; Taila application 30 minutes before hair wash; juice early morning for general rejuvenation
 
-**Standardized Extract:** Whole herb extract standardized to wedelolactone NLT 5%; ecliptasaponin NLT 1%. Hair oil: 10% w/v Bhringraj extract in sesame/[coconut oil](/nighantu/glossary/concepts-a-m/#coconut-oil) base.
+**Standardized Extract:** Whole herb extract standardized to wedelolactone NLT 5%; ecliptasaponin NLT 1%. Hair oil: 10% w/v Bhringraj extract in sesame/[coconut oil](/glossary/concepts-a-m/#coconut-oil) base.
 
 **Shelf Life:** 2 years (powder); 3 years (tablet/capsule); 3-5 years (Taila); 3 days (fresh juice, refrigerated)
 
 **Storage:** Powder and tablets in airtight containers away from light. Oil preparations in amber glass bottles. Fresh juice must be refrigerated and used within 72 hours.
 
-**Marker Compounds:** Wedelolactone, Demethylwedelolactone, Ecliptasaponin A-D, Eclalbatin, Luteolin, [Apigenin](/nighantu/glossary/compounds-1-a/#apigenin), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/nighantu/reference/stigmasterol/), Coumestan
+**Marker Compounds:** Wedelolactone, Demethylwedelolactone, Ecliptasaponin A-D, Eclalbatin, Luteolin, [Apigenin](/glossary/compounds-1-a/#apigenin), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/reference/stigmasterol/), Coumestan
 
 ### Extraction Methods
 
@@ -83,8 +83,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Hair-Health/Bhringraj/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Amla](/nighantu/herb/amla/) for hair growth and Keshya Taila formulations
-- With [Bhumyamalaki](/nighantu/herb/bhumyamalaki/) for hepatoprotective synergy
+- With [Amla](/herb/amla/) for hair growth and Keshya Taila formulations
+- With [Bhumyamalaki](/herb/bhumyamalaki/) for hepatoprotective synergy
 - With Kutki for liver disorders
-- With [Brahmi](/nighantu/herb/brahmi/) for hair oil and cognitive benefits
-- With coconut oil or [sesame oil](/nighantu/glossary/concepts-m-y/#tila-taila) as base for scalp application
+- With [Brahmi](/herb/brahmi/) for hair oil and cognitive benefits
+- With coconut oil or [sesame oil](/glossary/concepts-m-y/#tila-taila) as base for scalp application

@@ -23,25 +23,25 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Amrita-Gh
 
 | Language | Name |
 |----------|------|
-| English | Amrita [Ghrita](/nighantu/herb/ghrita/)|Amrita Ghrita Amritaprasha [Ghrita](/nighantu/herb/ghrita/)|Amritaprasha Ghrita |
+| English | Amrita [Ghrita](/herb/ghrita/)|Amrita Ghrita Amritaprasha [Ghrita](/herb/ghrita/)|Amritaprasha Ghrita |
 
 ## Where is it described in the classical texts?
 
-Bhavishya Ratnavali (Amrita [Ghrita](/nighantu/herb/ghrita/)|Amrita Ghrita); Rasaratna Samuccaya; Yogaratnakara (preparations for enhancing Ojas); Ashtanga Hridayam (Amritaprasha [Ghrita](/nighantu/herb/ghrita/)|Amritaprasha Ghrita)
+Bhavishya Ratnavali (Amrita [Ghrita](/herb/ghrita/)|Amrita Ghrita); Rasaratna Samuccaya; Yogaratnakara (preparations for enhancing Ojas); Ashtanga Hridayam (Amritaprasha [Ghrita](/herb/ghrita/)|Amritaprasha Ghrita)
 
 ## How does it work?
 
-- [Guduchi](/nighantu/herb/guduchi/) ([berberine](/nighantu/glossary/compounds-a-c/#berberine), [tinosporin](/nighantu/glossary/compounds-t-z/#tinosporin)) activates macrophages and enhances phagocytic activity, boosting innate immune response
-- Tinospora [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides) stimulate both humoral and cell-mediated immunity, increasing immunoglobulin production
+- [Guduchi](/herb/guduchi/) ([berberine](/glossary/compounds-a-c/#berberine), [tinosporin](/glossary/compounds-t-z/#tinosporin)) activates macrophages and enhances phagocytic activity, boosting innate immune response
+- Tinospora [polysaccharides](/glossary/compounds-o-q/#polysaccharides) stimulate both humoral and cell-mediated immunity, increasing immunoglobulin production
 - Jeevaniya Gana herbs collectively provide Ojas-building and tissue-nourishing action across all seven Dhatus
-- [Adaptogenic](/nighantu/reference/adaptogenic/) herbs ([Ashwagandha](/nighantu/herb/ashwagandha/), [Shatavari](/nighantu/herb/shatavari/), [Bala](/nighantu/herb/bala/)) modulate HPA axis, reducing stress-induced immunosuppression
+- [Adaptogenic](/reference/adaptogenic/) herbs ([Ashwagandha](/herb/ashwagandha/), [Shatavari](/herb/shatavari/), [Bala](/herb/bala/)) modulate HPA axis, reducing stress-induced immunosuppression
 - Ghee base delivers immunoactive compounds to deep tissues and enhances absorption of lipophilic phytochemicals
 
 ## Which traditional uses are supported by research?
 
-- Vyadhikshamatva (immunity enhancement): RCT validates 22% increase in serum [immunoglobulins](/nighantu/glossary/compounds-g-l/#immunoglobulins) in elderly subjects
-- [Rasayana](/nighantu/reference/rasayana/) (rejuvenation): [immunomodulatory](/nighantu/reference/immunomodulatory/) and adaptogenic activities confirmed in preclinical studies supporting classical rejuvenative claims
-- Jvara (fever management): [Guduchi](/nighantu/herb/guduchi/)'s immunostimulant and [antipyretic](/nighantu/reference/antipyretic/) activities well-validated pharmacologically
+- Vyadhikshamatva (immunity enhancement): RCT validates 22% increase in serum [immunoglobulins](/glossary/compounds-g-l/#immunoglobulins) in elderly subjects
+- [Rasayana](/reference/rasayana/) (rejuvenation): [immunomodulatory](/reference/immunomodulatory/) and adaptogenic activities confirmed in preclinical studies supporting classical rejuvenative claims
+- Jvara (fever management): [Guduchi](/herb/guduchi/)'s immunostimulant and [antipyretic](/reference/antipyretic/) activities well-validated pharmacologically
 - Ojas Vardhana (vital energy enhancement): traditional use for enhancing strength, immunity, and longevity supported by clinical evidence
 
 ## What do recent clinical trials show?
@@ -53,7 +53,7 @@ Bhavishya Ratnavali (Amrita [Ghrita](/nighantu/herb/ghrita/)|Amrita Ghrita); Ras
 ## Recent safety updates
 
 - Clinical study confirms safety in elderly participants with 22% immunoglobulin increase; no adverse effects at 5ml daily for 8 weeks
-- [Guduchi](/nighantu/herb/guduchi/) generally recognized as safe with well-established toxicological profile; rare reports of autoimmune exacerbation in predisposed individuals
+- [Guduchi](/herb/guduchi/) generally recognized as safe with well-established toxicological profile; rare reports of autoimmune exacerbation in predisposed individuals
 - Multiple ingredients require quality-assured sourcing; honey should not be heated above 40 degrees C per Ayurvedic principles
 
 ## What is it made of?
@@ -71,7 +71,7 @@ Bhavishya Ratnavali (Amrita [Ghrita](/nighantu/herb/ghrita/)|Amrita Ghrita); Ras
 
 **Standard Dosage:** 6-12 g (1-2 teaspoons) twice daily, as per AFI Part I
 
-**Bioavailability:** Ghee (lipid base) provides excellent absorption of both lipophilic and hydrophilic compounds via micelle formation. [Guduchi](/nighantu/herb/guduchi/) polysaccharides and [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids) show enhanced oral bioavailability in ghee matrix compared to aqueous extracts. Crosses blood-brain barrier more effectively in lipid medium.
+**Bioavailability:** Ghee (lipid base) provides excellent absorption of both lipophilic and hydrophilic compounds via micelle formation. [Guduchi](/herb/guduchi/) polysaccharides and [alkaloids](/glossary/compounds-1-a/#alkaloids) show enhanced oral bioavailability in ghee matrix compared to aqueous extracts. Crosses blood-brain barrier more effectively in lipid medium.
 
 **Optimal Timing:** On empty stomach in the morning, or as directed by physician
 
@@ -79,15 +79,15 @@ Bhavishya Ratnavali (Amrita [Ghrita](/nighantu/herb/ghrita/)|Amrita Ghrita); Ras
 
 **Storage:** Store in airtight glass or tin-coated containers in a cool, dry place. Protect from moisture and light. Temperature not exceeding 25°C. Ghrita preparations are sensitive to oxidation.
 
-**Marker Compounds:** [Berberine](/nighantu/glossary/compounds-a-c/#berberine), [Tinosporaside](/nighantu/glossary/compounds-t-z/#tinosporaside), [Columbin](/nighantu/glossary/compounds-c-d/#columbin), 20-beta-hydroxyecdysone, Palmarin
+**Marker Compounds:** [Berberine](/glossary/compounds-a-c/#berberine), [Tinosporaside](/glossary/compounds-t-z/#tinosporaside), [Columbin](/glossary/compounds-c-d/#columbin), 20-beta-hydroxyecdysone, Palmarin
 
-**Quality Parameters:** Acid value (<6), peroxide value (<10), saponification value, [iodine](/nighantu/glossary/compounds-g-l/#iodine) value, refractive index, rancidity test (Kreis test negative), moisture content (<0.5%), specific gravity, HPTLC for [berberine](/nighantu/glossary/compounds-a-c/#berberine) and tinosporaside, microbial limits, heavy metals
+**Quality Parameters:** Acid value (<6), peroxide value (<10), saponification value, [iodine](/glossary/compounds-g-l/#iodine) value, refractive index, rancidity test (Kreis test negative), moisture content (<0.5%), specific gravity, HPTLC for [berberine](/glossary/compounds-a-c/#berberine) and tinosporaside, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Warm water or warm milk
 
 ### Synergistic Combinations
 
-- [Amritarishta](/nighantu/formulation/amritarishta/)
-- [Guduchi](/nighantu/herb/guduchi/) Satva
+- [Amritarishta](/formulation/amritarishta/)
+- [Guduchi](/herb/guduchi/) Satva
 - Samshamani Vati
 - Sudarshana Churna

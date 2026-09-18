@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Brahmi-Gh
 
 | Language | Name |
 |----------|------|
-| English | [Brahmi](/nighantu/herb/brahmi/) Ghritam |
+| English | [Brahmi](/herb/brahmi/) Ghritam |
 
 ## Where is it described in the classical texts?
 
@@ -32,22 +32,22 @@ Charaka Samhita Chikitsa Sthana (Unmada and Apasmara Chikitsa); Ashtanga Hridaya
 ## How does it work?
 
 - Bacosides modulate cholinergic receptors and promote synaptic plasticity, enhancing memory and cognitive function
-- Sesquiterpenes from [Vacha](/nighantu/herb/vacha/) upregulate GABA activity, calming neural over-excitation and providing anticonvulsant effects
+- Sesquiterpenes from [Vacha](/herb/vacha/) upregulate GABA activity, calming neural over-excitation and providing anticonvulsant effects
 - Lipid-soluble ghee base facilitates transport of active compounds across the blood-brain barrier for enhanced CNS bioavailability
-- Combined [antioxidant](/nighantu/reference/antioxidant/) action revitalizes brain functions and repairs oxidative damage in neural tissue
+- Combined [antioxidant](/reference/antioxidant/) action revitalizes brain functions and repairs oxidative damage in neural tissue
 - Nourishes medha dhatu (brain tissue), improves srotas flow in rasa dhatu channels, and clears ama obstructions in neurological pathways
 
 ## Which traditional uses are supported by research?
 
 - Apasmara (epilepsy) management: validated through PTZ-induced seizure models showing significant anticonvulsant activity
 - Unmada (psychosis/psychiatric disorders): clinical reviews confirm efficacy in anxiety, depression, and ADHD in children
-- Smriti [Vriddhi](/nighantu/herb/vriddhi/) (memory enhancement): double-blind studies show 20-40% improvement in memory retention and attention
-- CNS depressant and [anxiolytic](/nighantu/reference/anxiolytic/) effects: experimental studies confirm anti-anxiety and calming properties
+- Smriti [Vriddhi](/herb/vriddhi/) (memory enhancement): double-blind studies show 20-40% improvement in memory retention and attention
+- CNS depressant and [anxiolytic](/reference/anxiolytic/) effects: experimental studies confirm anti-anxiety and calming properties
 
 ## What do recent clinical trials show?
 
 - Moon S, Raut N, Moon H and others 2024. [Organoleptic, physicochemical, phytochemical and pharmacological evaluation of six medicated ghee used for Ayurvedic management of Epilepsy](https://pubmed.ncbi.nlm.nih.gov/39644797/). *Journal of Ayurveda and integrative medicine*. PMID [39644797](https://pubmed.ncbi.nlm.nih.gov/39644797/) · [doi:10.1016/j.jaim.2024.100995](https://doi.org/10.1016/j.jaim.2024.100995)  
-  a licensed Indian manufacturer [Brahmi](/nighantu/herb/brahmi/) [Ghrita](/nighantu/herb/ghrita/) demonstrated superior protection against onset and duration of PTZ-induced convulsions in mice compared to other [Ghrita](/nighantu/herb/ghrita/) formulations evaluated
+  a licensed Indian manufacturer [Brahmi](/herb/brahmi/) [Ghrita](/herb/ghrita/) demonstrated superior protection against onset and duration of PTZ-induced convulsions in mice compared to other [Ghrita](/herb/ghrita/) formulations evaluated
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
@@ -68,19 +68,19 @@ Charaka Samhita Chikitsa Sthana (Unmada and Apasmara Chikitsa); Ashtanga Hridaya
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** [Ghrita](/nighantu/herb/ghrita/) (medicated ghee), Soft gelatin capsules (modern)
+**Dosage Forms:** [Ghrita](/herb/ghrita/) (medicated ghee), Soft gelatin capsules (modern)
 
 **Standard Dosage:** 6-12 g (1-2 teaspoons) twice daily, as per AFI Part I / Ashtanga Hridayam
 
-**Bioavailability:** Ghee provides optimal lipid matrix for absorption of bacosides (triterpenoid [saponins](/nighantu/reference/saponins/)) which are both water and lipid-soluble. Oral bioavailability of bacosides is enhanced 2-3 fold in ghee medium compared to aqueous extract. Ghee facilitates crossing of blood-brain barrier for CNS action.
+**Bioavailability:** Ghee provides optimal lipid matrix for absorption of bacosides (triterpenoid [saponins](/reference/saponins/)) which are both water and lipid-soluble. Oral bioavailability of bacosides is enhanced 2-3 fold in ghee medium compared to aqueous extract. Ghee facilitates crossing of blood-brain barrier for CNS action.
 
 **Optimal Timing:** Early morning on empty stomach and before bedtime for optimal cognitive benefit
 
-**Shelf Life:** 2 years from date of manufacture as per ASU guidelines for [Ghrita](/nighantu/herb/ghrita/) preparations
+**Shelf Life:** 2 years from date of manufacture as per ASU guidelines for [Ghrita](/herb/ghrita/) preparations
 
 **Storage:** Store in airtight glass or tin containers in a cool, dry place. Protect from moisture and light. Temperature not exceeding 25°C.
 
-**Marker Compounds:** Bacoside A, Bacoside B, Bacopasaponin C, Bacopaside I, Bacopaside II, [Jujubogenin](/nighantu/glossary/compounds-g-l/#jujubogenin)
+**Marker Compounds:** Bacoside A, Bacoside B, Bacopasaponin C, Bacopaside I, Bacopaside II, [Jujubogenin](/glossary/compounds-g-l/#jujubogenin)
 
 **Quality Parameters:** Acid value (<6), peroxide value (<10), saponification value, refractive index, moisture (<0.5%), rancidity test negative, bacoside A content by HPLC, total bacosides, HPTLC fingerprint, microbial limits, heavy metals
 
@@ -88,8 +88,8 @@ Charaka Samhita Chikitsa Sthana (Unmada and Apasmara Chikitsa); Ashtanga Hridaya
 
 ### Synergistic Combinations
 
-- [Brahma Rasayana](/nighantu/formulation/brahma-rasayana/)
-- [Brahmi](/nighantu/herb/brahmi/) Vati
-- [Saraswatarishta](/nighantu/formulation/saraswatarishta/)
-- Medhya [Rasayana](/nighantu/reference/rasayana/) herbs
+- [Brahma Rasayana](/formulation/brahma-rasayana/)
+- [Brahmi](/herb/brahmi/) Vati
+- [Saraswatarishta](/formulation/saraswatarishta/)
+- Medhya [Rasayana](/reference/rasayana/) herbs
 - Shankhapushpi Churna

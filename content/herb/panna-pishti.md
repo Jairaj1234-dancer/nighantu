@@ -23,12 +23,12 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Panna-Pishti/meta-an
 
 | Language | Name |
 |----------|------|
-| English | [Panna Pishti](/nighantu/herb/panna-pishti/) |
+| English | [Panna Pishti](/herb/panna-pishti/) |
 
 ## How does it work?
 
 - Beryllium and aluminum silicate matrix: The mineral composition may provide trace element supplementation; silicates have documented antacid and gastroprotective properties
-- Chromium trace content: Trace chromium from emerald may contribute to [glucose](/nighantu/glossary/compounds-d-g/#glucose) metabolism regulation, as chromium picolinate is an established dietary supplement for insulin sensitivity - potentially relevant to traditional use in Prameha (diabetes)
+- Chromium trace content: Trace chromium from emerald may contribute to [glucose](/glossary/compounds-d-g/#glucose) metabolism regulation, as chromium picolinate is an established dietary supplement for insulin sensitivity - potentially relevant to traditional use in Prameha (diabetes)
 - Pitta-pacifying: The cooling property of the gemstone matrix is attributed to its ability to reduce excess heat and inflammation, particularly in hepatic and digestive contexts per Ayurvedic pharmacology
 
 ## Which traditional uses are supported by research?
@@ -45,7 +45,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Panna-Pishti/meta-an
 ## Recent safety updates
 
 - BERYLLIUM CONCERN: Emerald contains beryllium (Be) - beryllium and its compounds are classified as Group 1 carcinogens by IARC (inhalation route); while oral toxicity is lower, chronic beryllium exposure through ingestion requires caution
-- Virtually no peer-reviewed safety studies exist specifically for [Panna Pishti](/nighantu/herb/panna-pishti/); the safety profile is based entirely on traditional clinical experience
+- Virtually no peer-reviewed safety studies exist specifically for [Panna Pishti](/herb/panna-pishti/); the safety profile is based entirely on traditional clinical experience
 - Very small recommended doses (62.5-125 mg) traditionally prescribed, reflecting awareness of potency
 - Must be taken under strict medical supervision; GMP-certified sourcing with heavy metal and beryllium content testing is essential
 

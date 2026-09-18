@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Chitrakadi-Vati/met
 
 | Language | Name |
 |----------|------|
-| English | [Chitrakadi Vati](/nighantu/formulation/chitrakadi-vati/) |
+| English | [Chitrakadi Vati](/formulation/chitrakadi-vati/) |
 
 ## Where is it described in the classical texts?
 
@@ -33,16 +33,16 @@ Chakradatta (Agnimandya/Ajirna Chikitsa); also described in Yoga Ratnakara, Bhai
 
 - Dual digestive action: Unique combination acts as an appetizer (Deepana) when taken before meals and as a digestive (Pachana) when taken after meals, demonstrating biphasic pharmacodynamic action
 - Pitta regulation: Increases Pitta and regulates Vata in the stomach, promoting proper secretion of digestive Pitta (gastric juices) while Amalaki's cooling Vipaka prevents Pitta excess and heartburn
-- [Plumbagin](/nighantu/glossary/compounds-o-q/#plumbagin)-mediated [antimicrobial](/nighantu/reference/antimicrobial/): Plumbagin from Chitraka provides antimicrobial activity in the gut, maintaining healthy microbial balance and preventing opportunistic infections
-- Carminative and antiflatulent: Hing (asafoetida) and Rock Salt ([Saindhava Lavana](/nighantu/herb/saindhava-lavana/)) reduce gas formation and aid electrolyte balance in the digestive tract
-- Bioavailability enhancement: [Piperine](/nighantu/reference/piperine/) from [Trikatu](/nighantu/herb/trikatu/) enhances absorption of all active phytoconstituents, increasing therapeutic efficacy
+- [Plumbagin](/glossary/compounds-o-q/#plumbagin)-mediated [antimicrobial](/reference/antimicrobial/): Plumbagin from Chitraka provides antimicrobial activity in the gut, maintaining healthy microbial balance and preventing opportunistic infections
+- Carminative and antiflatulent: Hing (asafoetida) and Rock Salt ([Saindhava Lavana](/herb/saindhava-lavana/)) reduce gas formation and aid electrolyte balance in the digestive tract
+- Bioavailability enhancement: [Piperine](/reference/piperine/) from [Trikatu](/herb/trikatu/) enhances absorption of all active phytoconstituents, increasing therapeutic efficacy
 
 ## Which traditional uses are supported by research?
 
 - Functional dyspepsia management validated in randomized trial showing 70% improvement rate
-- Heartburn and acid reflux relief validated through [Pitta-balancing](/nighantu/glossary/concepts-m-y/#pitta-balancing) mechanism with 60% symptom relief over 4 weeks
+- Heartburn and acid reflux relief validated through [Pitta-balancing](/glossary/concepts-m-y/#pitta-balancing) mechanism with 60% symptom relief over 4 weeks
 - Appetite stimulation (Deepana) and digestion enhancement (Pachana) validated through dual-action mechanism before and after meals
-- Flatulence and bloating relief validated through carminative properties of Hing and [Saindhava Lavana](/nighantu/herb/saindhava-lavana/) combination
+- Flatulence and bloating relief validated through carminative properties of Hing and [Saindhava Lavana](/herb/saindhava-lavana/) combination
 
 ## What do recent clinical trials show?
 
@@ -70,7 +70,7 @@ Chakradatta (Agnimandya/Ajirna Chikitsa); also described in Yoga Ratnakara, Bhai
 
 **Standard Dosage:** 250-500 mg twice daily before meals, as per AFI Part I
 
-**Bioavailability:** Plumbagin from Chitraka is a potent bioactive with high oral absorption. Five types of salts (pancha lavana) enhance gastric acid and improve dissolution. Piperine acts as bioenhancer. Lemon juice bhavana provides [citric acid](/nighantu/glossary/compounds-c-d/#citric-acidcitric-acid) matrix for improved disintegration.
+**Bioavailability:** Plumbagin from Chitraka is a potent bioactive with high oral absorption. Five types of salts (pancha lavana) enhance gastric acid and improve dissolution. Piperine acts as bioenhancer. Lemon juice bhavana provides [citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid) matrix for improved disintegration.
 
 **Optimal Timing:** Before meals (Bhojana-purva), 30 minutes before lunch and dinner for Agni deepana (appetite stimulation)
 
@@ -78,7 +78,7 @@ Chakradatta (Agnimandya/Ajirna Chikitsa); also described in Yoga Ratnakara, Bhai
 
 **Storage:** Store in airtight containers in a cool, dry place. Protect from moisture (contains multiple salts which are hygroscopic). Temperature not exceeding 30°C.
 
-**Marker Compounds:** Plumbagin, Piperine, 6-[Gingerol](/nighantu/glossary/compounds-d-g/#gingerol), [Chavicine](/nighantu/glossary/compounds-c-d/#chavicine)
+**Marker Compounds:** Plumbagin, Piperine, 6-[Gingerol](/glossary/compounds-d-g/#gingerol), [Chavicine](/glossary/compounds-c-d/#chavicine)
 
 **Quality Parameters:** Weight variation (±5%), hardness, friability (<1%), disintegration time (<30 min), moisture (<6%), plumbagin content by HPLC (within therapeutic range), piperine content, sodium content (from lavanas), HPTLC fingerprint, microbial limits, heavy metals
 
@@ -86,7 +86,7 @@ Chakradatta (Agnimandya/Ajirna Chikitsa); also described in Yoga Ratnakara, Bhai
 
 ### Synergistic Combinations
 
-- [Hingwashtak Churna](/nighantu/formulation/hingwashtak-churna/)
-- [Agnitundi Vati](/nighantu/formulation/agnitundi-vati/)
+- [Hingwashtak Churna](/formulation/hingwashtak-churna/)
+- [Agnitundi Vati](/formulation/agnitundi-vati/)
 - Lavanbhaskar Churna
-- [Shankha Vati](/nighantu/glossary/concepts-m-y/#shankha-vati)
+- [Shankha Vati](/glossary/concepts-m-y/#shankha-vati)

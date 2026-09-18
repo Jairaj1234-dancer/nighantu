@@ -68,7 +68,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ishwari/meta-analysis.md"
 
 **Standard Dosage:** 1-3g powder twice daily; 30-60ml decoction
 
-**Bioavailability:** Aristolochia indica root contains aristolochic acids (CAUTION: nephrotoxic and carcinogenic) and [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids). Aristolochic acids are well absorbed orally but are highly toxic. REGULATORY WARNING: Aristolochic acid-containing herbs are BANNED or restricted in many countries (USA, EU, UK, Australia). Modern formulations must demonstrate absence of aristolochic acids below detection limits or use aristolochic acid-free chemotypes if available.
+**Bioavailability:** Aristolochia indica root contains aristolochic acids (CAUTION: nephrotoxic and carcinogenic) and [terpenoids](/glossary/compounds-t-z/#terpenoids). Aristolochic acids are well absorbed orally but are highly toxic. REGULATORY WARNING: Aristolochic acid-containing herbs are BANNED or restricted in many countries (USA, EU, UK, Australia). Modern formulations must demonstrate absence of aristolochic acids below detection limits or use aristolochic acid-free chemotypes if available.
 
 **Optimal Timing:** Traditional use only under strict physician supervision; NOT recommended for modern formulation
 
@@ -78,7 +78,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ishwari/meta-analysis.md"
 
 **Storage:** If held for research purposes: controlled substance storage, clearly labeled as toxic/restricted material. Not for commercial distribution in most markets.
 
-**Marker Compounds:** Aristolochic acid I (toxic marker - must be below detection/regulatory limit), Aristolochic acid II (toxic marker), Aristolactam, Ceryl alcohol, Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+**Marker Compounds:** Aristolochic acid I (toxic marker - must be below detection/regulatory limit), Aristolochic acid II (toxic marker), Aristolactam, Ceryl alcohol, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 
 ### Extraction Methods
 
@@ -89,4 +89,4 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ishwari/meta-analysis.md"
 ### Synergistic Combinations
 
 - With Maricha for snakebite antidote (traditional use)
-- With [Pippali](/nighantu/herb/pippali/) for respiratory conditions (traditional use only)
+- With [Pippali](/herb/pippali/) for respiratory conditions (traditional use only)

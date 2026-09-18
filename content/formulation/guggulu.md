@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Guggulu/meta
 
 ## Therapeutic Actions (Karma)
 
-- [Hypolipidemic](/nighantu/glossary/pharmacology/#hypolipidemic)
+- [Hypolipidemic](/glossary/pharmacology/#hypolipidemic)
 - Anti-inflammatory
 - Thyroid stimulant
 - Anti-obesity
@@ -63,7 +63,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Guggulu/meta
 - Inhibits NF-kB pathway: blocks LPS/IL-1b-induced ICAM-1 expression, NF-kB transcriptional activity, IkB phosphorylation/degradation, NF-kB DNA-binding activity, and IKK activity.
 - Downregulates inflammatory gene products COX-2 and MMP-9 (key players in arthritis development).
 - Regulates multiple transcription factors: NF-kB, STAT3, C/EBPalpha, androgen receptor, and glucocorticoid receptors.
-- Complex resin composition includes volatile oils, terpenoid constituents, minerals, amino acids, [polysaccharides](/nighantu/glossary/compounds-o-q/#polysaccharides), and steroidal derivatives.
+- Complex resin composition includes volatile oils, terpenoid constituents, minerals, amino acids, [polysaccharides](/glossary/compounds-o-q/#polysaccharides), and steroidal derivatives.
 - Hypolipidemic action mediated through FXR antagonism affecting bile acid metabolism and cholesterol homeostasis.
 
 ## How is it used traditionally?
@@ -82,7 +82,7 @@ Sushruta Samhita has an entire chapter (Guggulu Kalpa) dedicated to it. Describe
 - Ganamurali N, Devarajan M, Sabarathinam S 2026. [Guggulsterone, a Classical Lipid-Lowering Phytosteroidal FXR Antagonist, as a Modulator of Lipid Signaling and Metabolic Reprogramming in Cancer](https://pubmed.ncbi.nlm.nih.gov/41326956/). *Lipids*. PMID [41326956](https://pubmed.ncbi.nlm.nih.gov/41326956/) · [doi:10.1002/lipd.70030](https://doi.org/10.1002/lipd.70030)  
   Guggulsterone identified as a classical lipid-lowering phytosteroidal FXR antagonist that modulates lipid signaling and metabolic reprogramming relevant to cancer treatment.
 - Donato F, Raffetti E, Toninelli G and others 2021. [Guggulu and Triphala for the Treatment of Hypercholesterolaemia: A Placebo-Controlled, Double-Blind, Randomised Trial](https://pubmed.ncbi.nlm.nih.gov/33242870/). *Complementary medicine research*. PMID [33242870](https://pubmed.ncbi.nlm.nih.gov/33242870/) · [doi:10.1159/000510985](https://doi.org/10.1159/000510985)  
-  Double-blind RCT evaluating guggulu and [triphala](/nighantu/herb/triphala/) combination for hypercholesterolemia management, providing modern clinical evidence for the traditional Ayurvedic application.
+  Double-blind RCT evaluating guggulu and [triphala](/herb/triphala/) combination for hypercholesterolemia management, providing modern clinical evidence for the traditional Ayurvedic application.
 - Passeri D, Carotti A, Pittol JMR and others 2019. [Dissecting the allosteric FXR modulation: a chemical biology approach using guggulsterone as a chemical tool](https://pubmed.ncbi.nlm.nih.gov/31673308/). *MedChemComm*. PMID [31673308](https://pubmed.ncbi.nlm.nih.gov/31673308/) · [doi:10.1039/c9md00264b](https://doi.org/10.1039/c9md00264b)  
   Guggulsterone acts as a peculiar FXR antagonist with gene-selective modulation capability, suggesting a nuanced pharmacological profile beyond simple receptor antagonism.
 
@@ -99,7 +99,7 @@ Sushruta Samhita has an entire chapter (Guggulu Kalpa) dedicated to it. Describe
 - Other reported side effects include headaches, nausea, vomiting, loose stools, diarrhea, belching, and hiccups.
 - Used safely in clinical trials up to 24 weeks, with some evidence of safety up to 75 weeks.
 - Commercial products often contain less or no claimed guggulsterone content - standardization of herbal products warranted.
-- Recommend rechecking lipids and liver [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) at 8-12 weeks when using therapeutically.
+- Recommend rechecking lipids and liver [enzymes](/glossary/compounds-d-g/#enzymes) at 8-12 weeks when using therapeutically.
 
 ## Recommended Dosage
 
@@ -145,11 +145,11 @@ Purified guggulu: 500mg-2g/day; Guggulsterones: 25mg three times daily
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** [Shuddha Guggulu](/nighantu/glossary/concepts-m-y/#shuddha-guggulu) (purified resin), Guggulu tablets, Capsules (modern)
+**Dosage Forms:** [Shuddha Guggulu](/glossary/concepts-m-y/#shuddha-guggulu) (purified resin), Guggulu tablets, Capsules (modern)
 
-**Standard Dosage:** 250-500 mg ([Shuddha Guggulu](/nighantu/glossary/concepts-m-y/#shuddha-guggulu)) twice daily, as per AFI Part I
+**Standard Dosage:** 250-500 mg ([Shuddha Guggulu](/glossary/concepts-m-y/#shuddha-guggulu)) twice daily, as per AFI Part I
 
-**Bioavailability:** Guggulsterones are lipophilic and moderately absorbed orally (~40-50%). Act as yogavahi (biocarrier) — enhance bioavailability of co-administered drugs. [Triphala](/nighantu/herb/triphala/) kwath Shodhana adds gallic acid and [tannins](/nighantu/reference/tannins/) that modulate absorption. Resin matrix provides sustained release.
+**Bioavailability:** Guggulsterones are lipophilic and moderately absorbed orally (~40-50%). Act as yogavahi (biocarrier) — enhance bioavailability of co-administered drugs. [Triphala](/herb/triphala/) kwath Shodhana adds gallic acid and [tannins](/reference/tannins/) that modulate absorption. Resin matrix provides sustained release.
 
 **Optimal Timing:** After meals, twice daily
 
@@ -165,6 +165,6 @@ Purified guggulu: 500mg-2g/day; Guggulsterones: 25mg three times daily
 
 ### Synergistic Combinations
 
-- [Triphala](/nighantu/herb/triphala/) Churna
-- [Trikatu](/nighantu/herb/trikatu/) Churna
-- Specific herbs depending on formulation (Kanchanara, [Gokshura](/nighantu/herb/gokshura/), Yogaraja, etc.)
+- [Triphala](/herb/triphala/) Churna
+- [Trikatu](/herb/trikatu/) Churna
+- Specific herbs depending on formulation (Kanchanara, [Gokshura](/herb/gokshura/), Yogaraja, etc.)

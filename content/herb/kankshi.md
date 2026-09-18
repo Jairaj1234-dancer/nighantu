@@ -29,30 +29,30 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kankshi/meta-analysis.md"
 ## Key Phytochemical Constituents
 
 - Abrin (toxic lectin - primarily in seed kernel, not seed coat)
-- [Glycyrrhizin](/nighantu/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) (sweetening compound)
-- Abrusoside A-D (triterpene [saponins](/nighantu/reference/saponins/))
+- [Glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) (sweetening compound)
+- Abrusoside A-D (triterpene [saponins](/reference/saponins/))
 - Abrusogenin
 - Abruquinones D, E, F (isoflavanquinones)
-- [Luteolin](/nighantu/glossary/compounds-l-o/#luteolin), [orientin](/nighantu/glossary/compounds-o-q/#orientin), [isoorientin](/nighantu/glossary/compounds-g-l/#isoorientin) ([flavonoids](/nighantu/reference/flavonoids/))
+- [Luteolin](/glossary/compounds-l-o/#luteolin), [orientin](/glossary/compounds-o-q/#orientin), [isoorientin](/glossary/compounds-g-l/#isoorientin) ([flavonoids](/reference/flavonoids/))
 
 ## How does it work?
 
-- [Antitumor](/nighantu/glossary/pharmacology/#antitumor) activity via abrin-mediated ribosome inactivation and inhibition of protein synthesis (ricin-like mechanism) - extremely narrow therapeutic window
-- Anti-inflammatory action through [glycyrrhizin](/nighantu/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin)-mediated inhibition of phospholipase A2 and 11-beta-hydroxysteroid dehydrogenase
-- [Immunomodulatory](/nighantu/reference/immunomodulatory/) effect through polysaccharide-mediated activation of macrophages and complement system
-- [Antimicrobial](/nighantu/reference/antimicrobial/) activity via abruquinone-mediated disruption of bacterial and fungal cell processes
+- [Antitumor](/glossary/pharmacology/#antitumor) activity via abrin-mediated ribosome inactivation and inhibition of protein synthesis (ricin-like mechanism) - extremely narrow therapeutic window
+- Anti-inflammatory action through [glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin)-mediated inhibition of phospholipase A2 and 11-beta-hydroxysteroid dehydrogenase
+- [Immunomodulatory](/reference/immunomodulatory/) effect through polysaccharide-mediated activation of macrophages and complement system
+- [Antimicrobial](/reference/antimicrobial/) activity via abruquinone-mediated disruption of bacterial and fungal cell processes
 
 ## Which traditional uses are supported by research?
 
-- Sweetener and demulcent (Madhura) - [glycyrrhizin](/nighantu/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) and abrusoside content validated as 30-100x sweeter than [sucrose](/nighantu/glossary/compounds-q-t/#sucrose) with potential pharmaceutical applications
-- Anti-inflammatory (Shotha-hara) - [glycyrrhizin](/nighantu/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin)-mediated anti-inflammatory action validated in multiple studies
+- Sweetener and demulcent (Madhura) - [glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) and abrusoside content validated as 30-100x sweeter than [sucrose](/glossary/compounds-q-t/#sucrose) with potential pharmaceutical applications
+- Anti-inflammatory (Shotha-hara) - [glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin)-mediated anti-inflammatory action validated in multiple studies
 - Hair care and external applications - traditional hair oil preparations using purified seeds supported by antimicrobial data
 - Contraceptive (Garbha-nirodha) - antifertility activity documented in animal studies but too toxic for safe human use
 
 ## What do recent clinical trials show?
 
 - Qian H, Wang L, Li Y and others 2022. [The traditional uses, phytochemistry and pharmacology of Abrus precatorius L.: A comprehensive review](https://pubmed.ncbi.nlm.nih.gov/35714881/). *Journal of ethnopharmacology*. PMID [35714881](https://pubmed.ncbi.nlm.nih.gov/35714881/) · [doi:10.1016/j.jep.2022.115463](https://doi.org/10.1016/j.jep.2022.115463)  
-  Identified over 166 chemical compounds covering flavonoids, phenolics, [terpenoids](/nighantu/glossary/compounds-t-z/#terpenoids), [alkaloids](/nighantu/glossary/compounds-1-a/#alkaloids), and [proteins](/nighantu/glossary/compounds-o-q/#proteins); documented wide range of pharmacological functions including antitumor, antimicrobial, and immunomodulatory activities.
+  Identified over 166 chemical compounds covering flavonoids, phenolics, [terpenoids](/glossary/compounds-t-z/#terpenoids), [alkaloids](/glossary/compounds-1-a/#alkaloids), and [proteins](/glossary/compounds-o-q/#proteins); documented wide range of pharmacological functions including antitumor, antimicrobial, and immunomodulatory activities.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
@@ -68,7 +68,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kankshi/meta-analysis.md"
 
 **Standard Dosage:** 500 mg - 2 g powder twice daily; 125-250 mg Kshara with honey or warm water
 
-**Bioavailability:** Mineral-rich alkaline preparation. Kshara form provides highly bioavailable [potassium](/nighantu/glossary/compounds-o-q/#potassium) and calcium salts. Absorption enhanced when taken with acidic media (lemon juice, Amalaki juice). Chelated mineral forms show superior absorption compared to raw mineral preparations.
+**Bioavailability:** Mineral-rich alkaline preparation. Kshara form provides highly bioavailable [potassium](/glossary/compounds-o-q/#potassium) and calcium salts. Absorption enhanced when taken with acidic media (lemon juice, Amalaki juice). Chelated mineral forms show superior absorption compared to raw mineral preparations.
 
 **Optimal Timing:** After meals with warm water or honey; Kshara formulations best taken between meals
 
@@ -78,7 +78,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kankshi/meta-analysis.md"
 
 **Storage:** Store in airtight, moisture-proof glass or HDPE containers. Kshara is highly hygroscopic — desiccant packets required. Keep at 15-30°C away from moisture.
 
-**Marker Compounds:** Potassium carbonate, Potassium hydroxide, Calcium carbonate, Sodium carbonate, Trace minerals (iron, zinc, [manganese](/nighantu/glossary/compounds-l-o/#manganese))
+**Marker Compounds:** Potassium carbonate, Potassium hydroxide, Calcium carbonate, Sodium carbonate, Trace minerals (iron, zinc, [manganese](/glossary/compounds-l-o/#manganese))
 
 ### Extraction Methods
 
@@ -89,7 +89,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kankshi/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Yavakshara](/nighantu/herb/yavakshara/) for urinary calculi dissolution
-- [Shankha Bhasma](/nighantu/herb/shankha-bhasma/) for acid-peptic disorders
-- [Apamarga](/nighantu/herb/apamarga/) Kshara for surgical applications (Kshara Sutra)
-- [Haritaki](/nighantu/herb/haritaki/) for digestive support
+- [Yavakshara](/herb/yavakshara/) for urinary calculi dissolution
+- [Shankha Bhasma](/herb/shankha-bhasma/) for acid-peptic disorders
+- [Apamarga](/herb/apamarga/) Kshara for surgical applications (Kshara Sutra)
+- [Haritaki](/herb/haritaki/) for digestive support

@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Grinjana/meta-analysis.md"
 
 **Standard Dosage:** Fresh root: 50-100g daily in diet; Dried powder: 3-6g twice daily; 50-100ml fresh juice; 500mg extract capsule twice daily
 
-**Bioavailability:** Daucus carota (carrot / Grinjana) root contains [carotenoids](/nighantu/glossary/compounds-a-c/#carotenoids) (beta-carotene, alpha-carotene, [lutein](/nighantu/glossary/compounds-l-o/#lutein)), [polyacetylenes](/nighantu/glossary/compounds-o-q/#polyacetylenes) (falcarinol, [falcarindiol](/nighantu/glossary/compounds-d-g/#falcarindiol)), and [anthocyanins](/nighantu/glossary/compounds-1-a/#anthocyanins) (in purple varieties). Beta-carotene bioavailability is highly dependent on food matrix and fat content: raw carrot (~3% absorption) vs cooked with oil (~30-40%). Carotenoids are fat-soluble - co-administration with lipids (ghee, oil) dramatically enhances absorption. Traditional Ayurvedic practice of cooking carrots with ghee aligns with modern bioavailability science. Polyacetylenes have moderate oral bioavailability. Enhancement: cooking and pureeing disrupts cell walls releasing carotenoids; oil-based formulations; nano-emulsions.
+**Bioavailability:** Daucus carota (carrot / Grinjana) root contains [carotenoids](/glossary/compounds-a-c/#carotenoids) (beta-carotene, alpha-carotene, [lutein](/glossary/compounds-l-o/#lutein)), [polyacetylenes](/glossary/compounds-o-q/#polyacetylenes) (falcarinol, [falcarindiol](/glossary/compounds-d-g/#falcarindiol)), and [anthocyanins](/glossary/compounds-1-a/#anthocyanins) (in purple varieties). Beta-carotene bioavailability is highly dependent on food matrix and fat content: raw carrot (~3% absorption) vs cooked with oil (~30-40%). Carotenoids are fat-soluble - co-administration with lipids (ghee, oil) dramatically enhances absorption. Traditional Ayurvedic practice of cooking carrots with ghee aligns with modern bioavailability science. Polyacetylenes have moderate oral bioavailability. Enhancement: cooking and pureeing disrupts cell walls releasing carotenoids; oil-based formulations; nano-emulsions.
 
 **Optimal Timing:** With meals containing fat/oil for maximum carotenoid absorption; fresh juice in the morning; Avaleha after meals as nutritive tonic
 
@@ -72,7 +72,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Grinjana/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Ghrita](/nighantu/herb/ghrita/) (ghee) for maximum carotenoid absorption
-- With Amalaki for [antioxidant](/nighantu/reference/antioxidant/) synergy (vitamin A + C)
-- With [Shatavari](/nighantu/herb/shatavari/) for nutritive and [Rasayana](/nighantu/reference/rasayana/) combination
-- With [Yashtimadhu](/nighantu/herb/yashtimadhu/) for eye health formulation
+- With [Ghrita](/herb/ghrita/) (ghee) for maximum carotenoid absorption
+- With Amalaki for [antioxidant](/reference/antioxidant/) synergy (vitamin A + C)
+- With [Shatavari](/herb/shatavari/) for nutritive and [Rasayana](/reference/rasayana/) combination
+- With [Yashtimadhu](/herb/yashtimadhu/) for eye health formulation

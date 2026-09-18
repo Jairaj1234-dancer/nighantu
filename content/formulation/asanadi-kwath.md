@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Asanadi-Kwat
 
 | Language | Name |
 |----------|------|
-| English | [Asanadi Kwath](/nighantu/formulation/asanadi-kwath/) |
+| English | [Asanadi Kwath](/formulation/asanadi-kwath/) |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Asanadi-Kwat
 
 **Standard Dosage:** 40-80 mL twice daily before meals, as per AFI
 
-**Bioavailability:** Aqueous decoction provides rapid absorption of water-soluble [pterostilbene](/nighantu/glossary/compounds-o-q/#pterostilbene) [glycosides](/nighantu/glossary/compounds-g-l/#glycosides). Hot administration enhances gastric absorption. [Pterostilbene](/nighantu/glossary/compounds-o-q/#pterostilbene) has moderate oral bioavailability (~50-80% in aqueous medium).
+**Bioavailability:** Aqueous decoction provides rapid absorption of water-soluble [pterostilbene](/glossary/compounds-o-q/#pterostilbene) [glycosides](/glossary/compounds-g-l/#glycosides). Hot administration enhances gastric absorption. [Pterostilbene](/glossary/compounds-o-q/#pterostilbene) has moderate oral bioavailability (~50-80% in aqueous medium).
 
 **Optimal Timing:** On empty stomach, morning and evening, especially for Prameha (metabolic conditions)
 
@@ -57,15 +57,15 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Asanadi-Kwat
 
 **Storage:** Fresh: prepare and use same day. Concentrates: amber glass bottles at room temperature with approved preservatives. Tablets: airtight containers at room temperature.
 
-**Marker Compounds:** Pterostilbene, [Marsupsin](/nighantu/glossary/compounds-l-o/#marsupsin), [Pterosupin](/nighantu/glossary/compounds-o-q/#pterosupin), [Epicatechin](/nighantu/glossary/compounds-d-g/#epicatechin), [Liquiritigenin](/nighantu/glossary/compounds-l-o/#liquiritigenin)
+**Marker Compounds:** Pterostilbene, [Marsupsin](/glossary/compounds-l-o/#marsupsin), [Pterosupin](/glossary/compounds-o-q/#pterosupin), [Epicatechin](/glossary/compounds-d-g/#epicatechin), [Liquiritigenin](/glossary/compounds-l-o/#liquiritigenin)
 
-**Quality Parameters:** pH, specific gravity, total solids, extractive values, pterostilbene content by HPLC, total phenolics, total [flavonoids](/nighantu/reference/flavonoids/), microbial limits, heavy metals
+**Quality Parameters:** pH, specific gravity, total solids, extractive values, pterostilbene content by HPLC, total phenolics, total [flavonoids](/reference/flavonoids/), microbial limits, heavy metals
 
 **Vehicle (Anupana):** Warm water or honey
 
 ### Synergistic Combinations
 
-- [Chandraprabha](/nighantu/herb/chandraprabha/) Vati
+- [Chandraprabha](/herb/chandraprabha/) Vati
 - Shilajatu
-- [Nyagrodha](/nighantu/herb/nyagrodha/)-[Udumbara](/nighantu/herb/udumbara/) Kwath
-- [Triphala](/nighantu/herb/triphala/) Churna
+- [Nyagrodha](/herb/nyagrodha/)-[Udumbara](/herb/udumbara/) Kwath
+- [Triphala](/herb/triphala/) Churna

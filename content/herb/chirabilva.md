@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Chirabilva/meta-analysis
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction; 500mg extract capsule. Traditional dosing per Vaidya guidance.
 
-**Bioavailability:** Holoptelea integrifolia—[triterpenoids](/nighantu/glossary/compounds-t-z/#triterpenoids) ([friedelin](/nighantu/glossary/compounds-d-g/#friedelin), [lupeol](/nighantu/reference/lupeol/)) show moderate oral bioavailability (15-25%) limited by poor water solubility. Lipid-based delivery enhances triterpenoid absorption. Bark [tannins](/nighantu/reference/tannins/) may reduce protein absorption if taken with meals. Decoction provides better bioavailability of water-soluble phenolics compared to powder.
+**Bioavailability:** Holoptelea integrifolia—[triterpenoids](/glossary/compounds-t-z/#triterpenoids) ([friedelin](/glossary/compounds-d-g/#friedelin), [lupeol](/reference/lupeol/)) show moderate oral bioavailability (15-25%) limited by poor water solubility. Lipid-based delivery enhances triterpenoid absorption. Bark [tannins](/reference/tannins/) may reduce protein absorption if taken with meals. Decoction provides better bioavailability of water-soluble phenolics compared to powder.
 
 **Optimal Timing:** Before meals with warm water for internal use; external paste applied twice daily on affected area; oil application at bedtime
 
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Chirabilva/meta-analysis
 
 **Storage:** Cool, dry place in airtight containers. Bark powder is relatively stable. Protect from moisture.
 
-**Marker Compounds:** Friedelin, Lupeol, Beta-amyrin, [Betulin](/nighantu/glossary/compounds-a-c/#betulin), Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol), Gallic acid, Ellagic acid, Holoptelin-A and B
+**Marker Compounds:** Friedelin, Lupeol, Beta-amyrin, [Betulin](/glossary/compounds-a-c/#betulin), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Gallic acid, Ellagic acid, Holoptelin-A and B
 
 ### Extraction Methods
 
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Chirabilva/meta-analysis
 
 ### Synergistic Combinations
 
-- With [Neem](/nighantu/herb/neem/) for skin and wound healing formulations
-- With [Haridra](/nighantu/herb/haridra/) for anti-inflammatory and [antimicrobial](/nighantu/reference/antimicrobial/) synergy
-- With [Khadira](/nighantu/herb/khadira/) for skin diseases (Kushtha)
-- With [Guduchi](/nighantu/herb/guduchi/) for immune modulation
+- With [Neem](/herb/neem/) for skin and wound healing formulations
+- With [Haridra](/herb/haridra/) for anti-inflammatory and [antimicrobial](/reference/antimicrobial/) synergy
+- With [Khadira](/herb/khadira/) for skin diseases (Kushtha)
+- With [Guduchi](/herb/guduchi/) for immune modulation

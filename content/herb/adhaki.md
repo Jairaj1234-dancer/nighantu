@@ -30,26 +30,26 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Adhaki/meta-analysis.md"
 
 - Cajanol
 - Cajaninstilbene acid
-- [Genistein](/nighantu/glossary/compounds-d-g/#genistein)
+- [Genistein](/glossary/compounds-d-g/#genistein)
 - Pinostrobin
 - Cajanuslactone
 - Longistylin A
 - Biochanin A
-- Beta-[sitosterol](/nighantu/glossary/compounds-q-t/#sitosterol)
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 - Isowighteone
-- [Vitexin](/nighantu/glossary/compounds-t-z/#vitexin)
+- [Vitexin](/glossary/compounds-t-z/#vitexin)
 
 ## How does it work?
 
-- [Isoflavonoids](/nighantu/glossary/compounds-g-l/#isoflavonoids) (cajanol, genistein) inhibit pro-inflammatory cytokines including IL-6 and reduce nitric oxide production via suppression of iNOS expression
-- Cajaninstilbene acid and longistylin derivatives exert [antioxidant](/nighantu/reference/antioxidant/) effects through free radical scavenging and upregulation of endogenous antioxidant [enzymes](/nighantu/glossary/compounds-d-g/#enzymes) (SOD, catalase)
+- [Isoflavonoids](/glossary/compounds-g-l/#isoflavonoids) (cajanol, genistein) inhibit pro-inflammatory cytokines including IL-6 and reduce nitric oxide production via suppression of iNOS expression
+- Cajaninstilbene acid and longistylin derivatives exert [antioxidant](/reference/antioxidant/) effects through free radical scavenging and upregulation of endogenous antioxidant [enzymes](/glossary/compounds-d-g/#enzymes) (SOD, catalase)
 - Prenylated isoflavonoids exhibit antibacterial activity against multidrug-resistant Staphylococcus aureus by disrupting bacterial cell membrane integrity
 
 ## Which traditional uses are supported by research?
 
-- [Antidiabetic](/nighantu/reference/antidiabetic/) activity validated through in vivo studies showing hypoglycemic effects consistent with traditional use for diabetes management
-- [Antimicrobial](/nighantu/reference/antimicrobial/) properties confirmed by bioassay-guided isolation of isoflavonoids, [anthraquinones](/nighantu/glossary/compounds-1-a/#anthraquinones), and pterocarpanoids effective against S. aureus including MDR strains
-- [Hepatoprotective](/nighantu/reference/hepatoprotective/) effects validated through safety assessment studies showing protection of liver and kidney function markers
+- [Antidiabetic](/reference/antidiabetic/) activity validated through in vivo studies showing hypoglycemic effects consistent with traditional use for diabetes management
+- [Antimicrobial](/reference/antimicrobial/) properties confirmed by bioassay-guided isolation of isoflavonoids, [anthraquinones](/glossary/compounds-1-a/#anthraquinones), and pterocarpanoids effective against S. aureus including MDR strains
+- [Hepatoprotective](/reference/hepatoprotective/) effects validated through safety assessment studies showing protection of liver and kidney function markers
 
 ## What do recent clinical trials show?
 
@@ -63,7 +63,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Adhaki/meta-analysis.md"
 ## Recent safety updates
 
 - 90-day subchronic toxicity study (2023) in Wistar rats at doses up to 1.0 g/kg body weight showed no adverse effects on behavior, organ weights, hematological parameters, or histopathology
-- Five soy [isoflavones](/nighantu/glossary/compounds-g-l/#isoflavones) (genistein, biochanin A, [daidzein](/nighantu/glossary/compounds-c-d/#daidzein), genistin, cajanol) identified in root extract demonstrated hepatorenal protective effects rather than toxicity
+- Five soy [isoflavones](/glossary/compounds-g-l/#isoflavones) (genistein, biochanin A, [daidzein](/glossary/compounds-c-d/#daidzein), genistin, cajanol) identified in root extract demonstrated hepatorenal protective effects rather than toxicity
 - Leaves are widely consumed as food/vegetable with long safety history; no significant drug interactions documented
 
 ## Dosage forms and preparation
@@ -72,7 +72,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Adhaki/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction twice daily
 
-**Bioavailability:** Moderate oral bioavailability due to presence of [flavonoids](/nighantu/reference/flavonoids/) and [tannins](/nighantu/reference/tannins/). Enhancement strategies include co-administration with [Pippali](/nighantu/herb/pippali/) (long pepper) or honey as anupana (vehicle). Tannin content may reduce absorption of co-administered drugs; stagger dosing recommended.
+**Bioavailability:** Moderate oral bioavailability due to presence of [flavonoids](/reference/flavonoids/) and [tannins](/reference/tannins/). Enhancement strategies include co-administration with [Pippali](/herb/pippali/) (long pepper) or honey as anupana (vehicle). Tannin content may reduce absorption of co-administered drugs; stagger dosing recommended.
 
 **Optimal Timing:** Before meals with warm water for digestive indications; after meals for general health
 
@@ -82,7 +82,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Adhaki/meta-analysis.md"
 
 **Storage:** Cool, dry place (below 25°C), away from direct light and moisture. Relative humidity below 60%.
 
-**Marker Compounds:** Cajanol, Cajanone, Pinostrobin, Vitexin, [Orientin](/nighantu/glossary/compounds-o-q/#orientin)
+**Marker Compounds:** Cajanol, Cajanone, Pinostrobin, Vitexin, [Orientin](/glossary/compounds-o-q/#orientin)
 
 ### Extraction Methods
 
@@ -92,6 +92,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Adhaki/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Haritaki](/nighantu/herb/haritaki/) for digestive disorders
-- With [Guduchi](/nighantu/herb/guduchi/) for anti-inflammatory action
+- With [Haritaki](/herb/haritaki/) for digestive disorders
+- With [Guduchi](/herb/guduchi/) for anti-inflammatory action
 - With Musta for diarrhea management

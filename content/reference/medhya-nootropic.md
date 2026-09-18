@@ -23,51 +23,51 @@ srcRel: "_Hub/Pharmacology/Medhya-Nootropic.md"
 
 ## Ayurveda (31)
 
-- [Akarakarabha](/nighantu/herb/akarakarabha/) — *Anacyclus pyrethrum (L.) Lag.*
-- [Akhuparni](/nighantu/herb/akhuparni/) — *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
-- [Aparajita](/nighantu/herb/aparajita/) — *Clitoria ternatea L.*
-- [Aravindasava](/nighantu/formulation/aravindasava/)
-- [Brahma Rasayana](/nighantu/formulation/brahma-rasayana/)
-- [Brahmi](/nighantu/herb/brahmi/) — *Bacopa monnieri*
-- [Brahmi Ghritam](/nighantu/formulation/brahmi-ghritam/)
-- [Brahmi Vati](/nighantu/formulation/brahmi-vati/)
-- [Chyawanprash](/nighantu/formulation/chyawanprash/)
-- [Gambhari Phala](/nighantu/herb/gambhari-phala/) — *Gmelina arborea Roxb.*
-- [Ghrita](/nighantu/herb/ghrita/)
-- [Giloy](/nighantu/herb/guduchi/) — *Tinospora cordifolia*
-- [Gokarna](/nighantu/herb/gokarna/) — *Clitoria ternatea L. (same species as [Aparajita](/nighantu/herb/aparajita/); Gokarna is a regional Ayurvedic synonym)*
-- [Guduchi](/nighantu/herb/guduchi/) — *Tinospora cordifolia*
-- [Jatamansi](/nighantu/herb/jatamansi/)
-- [Kalyanaka Ghrita](/nighantu/formulation/kalyanaka-ghrita/)
-- [Kalyanaka Ghritam](/nighantu/formulation/kalyanaka-ghritam/)
-- [Kushmanda](/nighantu/herb/kushmanda/) — *Benincasa hispida (Thunb.) Cogn.*
-- [Mandukparni](/nighantu/herb/mandukparni/)
-- [Nagabala](/nighantu/herb/nagabala/) — *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
-- [Raupya Bhasma](/nighantu/herb/raupya-bhasma/)
-- [Saraswatarishta](/nighantu/formulation/saraswatarishta/)
-- [Shankhini](/nighantu/herb/shankhini/)
-- [Shirisha](/nighantu/herb/shirisha/) — *Albizia lebbeck (L.) Benth.*
-- [Somavalli](/nighantu/herb/somavalli/)
-- [Swarna Bhasma](/nighantu/herb/swarna-bhasma/)
-- [Tagara](/nighantu/herb/tagara/)
-- [Ushira](/nighantu/herb/ushira/) — *Vetiveria zizanioides (L.) Nash (syn. Chrysopogon zizanioides (L.) Roberty)*
-- [Vacha](/nighantu/herb/vacha/)
-- [Vathada](/nighantu/herb/vathada/)
-- [Water Hyssop](/nighantu/herb/water-hyssop/)
+- [Akarakarabha](/herb/akarakarabha/) — *Anacyclus pyrethrum (L.) Lag.*
+- [Akhuparni](/herb/akhuparni/) — *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
+- [Aparajita](/herb/aparajita/) — *Clitoria ternatea L.*
+- [Aravindasava](/formulation/aravindasava/)
+- [Brahma Rasayana](/formulation/brahma-rasayana/)
+- [Brahmi](/herb/brahmi/) — *Bacopa monnieri*
+- [Brahmi Ghritam](/formulation/brahmi-ghritam/)
+- [Brahmi Vati](/formulation/brahmi-vati/)
+- [Chyawanprash](/formulation/chyawanprash/)
+- [Gambhari Phala](/herb/gambhari-phala/) — *Gmelina arborea Roxb.*
+- [Ghrita](/herb/ghrita/)
+- [Giloy](/herb/guduchi/) — *Tinospora cordifolia*
+- [Gokarna](/herb/gokarna/) — *Clitoria ternatea L. (same species as [Aparajita](/herb/aparajita/); Gokarna is a regional Ayurvedic synonym)*
+- [Guduchi](/herb/guduchi/) — *Tinospora cordifolia*
+- [Jatamansi](/herb/jatamansi/)
+- [Kalyanaka Ghrita](/formulation/kalyanaka-ghrita/)
+- [Kalyanaka Ghritam](/formulation/kalyanaka-ghritam/)
+- [Kushmanda](/herb/kushmanda/) — *Benincasa hispida (Thunb.) Cogn.*
+- [Mandukparni](/herb/mandukparni/)
+- [Nagabala](/herb/nagabala/) — *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
+- [Raupya Bhasma](/herb/raupya-bhasma/)
+- [Saraswatarishta](/formulation/saraswatarishta/)
+- [Shankhini](/herb/shankhini/)
+- [Shirisha](/herb/shirisha/) — *Albizia lebbeck (L.) Benth.*
+- [Somavalli](/herb/somavalli/)
+- [Swarna Bhasma](/herb/swarna-bhasma/)
+- [Tagara](/herb/tagara/)
+- [Ushira](/herb/ushira/) — *Vetiveria zizanioides (L.) Nash (syn. Chrysopogon zizanioides (L.) Roberty)*
+- [Vacha](/herb/vacha/)
+- [Vathada](/herb/vathada/)
+- [Water Hyssop](/herb/water-hyssop/)
 
 ## Related Body Systems
 
-- [Anti-inflammatory & Pain](/nighantu/reference/antiinflammatory-pain/)
-- [Brain & Nervous System](/nighantu/reference/brain-nervous-system/)
-- [Diabetes & Metabolism](/nighantu/reference/diabetes-metabolism/)
-- [Digestive Health](/nighantu/reference/digestive-health/)
-- [Eye Health](/nighantu/reference/eye-health/)
-- [Fever & Infection](/nighantu/reference/fever-infection/)
-- [Hair Health](/nighantu/glossary/body-systems/#hair-health)
-- [Heart & Cardiovascular](/nighantu/reference/heart-cardiovascular/)
-- [Immune System & Rasayana](/nighantu/reference/immune-system-rasayana/)
-- [Joint & Musculoskeletal](/nighantu/reference/joint-musculoskeletal/)
-- [Kidney & Urinary](/nighantu/reference/kidney-urinary/)
-- [Liver & Detoxification](/nighantu/reference/liver-detoxification/)
-- [Men's Health & Vitality](/nighantu/reference/mens-health-vitality/)
-- [Skin & Beauty](/nighantu/reference/skin-beauty/)
+- [Anti-inflammatory & Pain](/reference/antiinflammatory-pain/)
+- [Brain & Nervous System](/reference/brain-nervous-system/)
+- [Diabetes & Metabolism](/reference/diabetes-metabolism/)
+- [Digestive Health](/reference/digestive-health/)
+- [Eye Health](/reference/eye-health/)
+- [Fever & Infection](/reference/fever-infection/)
+- [Hair Health](/glossary/body-systems/#hair-health)
+- [Heart & Cardiovascular](/reference/heart-cardiovascular/)
+- [Immune System & Rasayana](/reference/immune-system-rasayana/)
+- [Joint & Musculoskeletal](/reference/joint-musculoskeletal/)
+- [Kidney & Urinary](/reference/kidney-urinary/)
+- [Liver & Detoxification](/reference/liver-detoxification/)
+- [Men's Health & Vitality](/reference/mens-health-vitality/)
+- [Skin & Beauty](/reference/skin-beauty/)

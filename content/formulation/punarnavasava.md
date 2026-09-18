@@ -31,10 +31,10 @@ Charaka Samhita and Bhaishajya Ratnavali (circa 400-200 BCE origin). The Arishta
 
 ## How does it work?
 
-- [Diuretic](/nighantu/reference/diuretic/) action of [Punarnava](/nighantu/herb/punarnava/) and [Gokshura](/nighantu/herb/gokshura/) promotes fluid excretion, reducing edema and ascites
-- [Hepatoprotective](/nighantu/reference/hepatoprotective/) activity through boeravinones (from [Punarnava](/nighantu/herb/punarnava/)) and chebulinic acid promotes liver cell regeneration
+- [Diuretic](/reference/diuretic/) action of [Punarnava](/herb/punarnava/) and [Gokshura](/herb/gokshura/) promotes fluid excretion, reducing edema and ascites
+- [Hepatoprotective](/reference/hepatoprotective/) activity through boeravinones (from [Punarnava](/herb/punarnava/)) and chebulinic acid promotes liver cell regeneration
 - Nephroprotective action supports kidney function and reduces fluid retention in chronic kidney disease
-- Anti-inflammatory synergy from Musta, Amalaki, and [Vidanga](/nighantu/herb/vidanga/) provides hepatoprotective and immune support
+- Anti-inflammatory synergy from Musta, Amalaki, and [Vidanga](/herb/vidanga/) provides hepatoprotective and immune support
 
 ## Which traditional uses are supported by research?
 
@@ -52,7 +52,7 @@ Charaka Samhita and Bhaishajya Ratnavali (circa 400-200 BCE origin). The Arishta
 ## Recent safety updates
 
 - Contains 5-10% self-generated alcohol. Generally safe at standard dosage. May cause excessive urination at higher doses; maintain adequate hydration.
-- Patients on diuretic or [antihypertensive](/nighantu/glossary/pharmacology/#antihypertensive) medications should use with medical supervision due to additive diuretic effects. Not recommended in severe hepatic or renal failure without physician guidance.
+- Patients on diuretic or [antihypertensive](/glossary/pharmacology/#antihypertensive) medications should use with medical supervision due to additive diuretic effects. Not recommended in severe hepatic or renal failure without physician guidance.
 
 ## What is it made of?
 
@@ -85,4 +85,4 @@ Charaka Samhita and Bhaishajya Ratnavali (circa 400-200 BCE origin). The Arishta
 
 ### Synergistic Combinations
 
-- Key herbs: [Punarnava](/nighantu/herb/punarnava/) (Boerhavia diffusa), [Dhataki](/nighantu/herb/dhataki/), [Guda](/nighantu/glossary/concepts-a-m/#guda); fermentation creates unique metabolite profile with enhanced therapeutic activity
+- Key herbs: [Punarnava](/herb/punarnava/) (Boerhavia diffusa), [Dhataki](/herb/dhataki/), [Guda](/glossary/concepts-a-m/#guda); fermentation creates unique metabolite profile with enhanced therapeutic activity
