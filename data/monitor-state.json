@@ -1118,19 +1118,20 @@
       "https://nighantu.ageayurveda.com/research/c/": "36127514c2c54e92",
       "https://nighantu.ageayurveda.com/research/d/": "5d785b585672a7c0",
       "https://nighantu.ageayurveda.com/reviewers/": "ebf4705bf235e942",
-      "https://nighantu.ageayurveda.com/shirodhara/": "3fcfafa97c5e1963",
-      "https://nighantu.ageayurveda.com/shirodhara/at-home-or-clinic/": "f0ded9fa2027bfc8",
-      "https://nighantu.ageayurveda.com/shirodhara/cautions/": "8a1aa974ee0ed5cd",
-      "https://nighantu.ageayurveda.com/shirodhara/choosing-equipment/": "9f9a21024c219d3b",
-      "https://nighantu.ageayurveda.com/shirodhara/choosing-the-oil/": "a779b149d15765c6",
-      "https://nighantu.ageayurveda.com/shirodhara/classical-basis/": "9ab368449f289d4f",
-      "https://nighantu.ageayurveda.com/shirodhara/equipment-and-setup/": "cf34fb906a878040",
-      "https://nighantu.ageayurveda.com/shirodhara/faq/": "80d226daf8182e4b",
-      "https://nighantu.ageayurveda.com/shirodhara/for-therapists/": "e243ea5894c3f69c",
-      "https://nighantu.ageayurveda.com/shirodhara/glossary/": "fcd6fdbe5c085826",
-      "https://nighantu.ageayurveda.com/shirodhara/pot-or-apparatus/": "d152afd18e9339a0",
-      "https://nighantu.ageayurveda.com/shirodhara/session-protocol/": "33826a46deb63432",
-      "https://nighantu.ageayurveda.com/shirodhara/temperature-and-duration/": "e3b7c3d088b3e2fa",
+      "https://nighantu.ageayurveda.com/shirodhara/": "8b4f6eca9f589771",
+      "https://nighantu.ageayurveda.com/shirodhara/at-home-or-clinic/": "6800810f98ac3907",
+      "https://nighantu.ageayurveda.com/shirodhara/cautions/": "2716dbfb52eb2edb",
+      "https://nighantu.ageayurveda.com/shirodhara/choosing-equipment/": "23949c711e400a2c",
+      "https://nighantu.ageayurveda.com/shirodhara/choosing-the-oil/": "c354ef2c26b279a9",
+      "https://nighantu.ageayurveda.com/shirodhara/classical-basis/": "beebd2f2a2e873ad",
+      "https://nighantu.ageayurveda.com/shirodhara/equipment-and-setup/": "3588ee4a15c6fd59",
+      "https://nighantu.ageayurveda.com/shirodhara/faq/": "d77545efcb2d56ea",
+      "https://nighantu.ageayurveda.com/shirodhara/for-therapists/": "73d55d735fe7be5c",
+      "https://nighantu.ageayurveda.com/shirodhara/glossary/": "b89711a98bbb4aac",
+      "https://nighantu.ageayurveda.com/shirodhara/medical-device-status/": "29585a3f4b47767a",
+      "https://nighantu.ageayurveda.com/shirodhara/pot-or-apparatus/": "79c0a91d31f32ddb",
+      "https://nighantu.ageayurveda.com/shirodhara/session-protocol/": "79c5c8b973239792",
+      "https://nighantu.ageayurveda.com/shirodhara/temperature-and-duration/": "3064977bccd7e734",
       "https://nighantu.ageayurveda.com/text/": "c691b31cf85819be",
       "https://nighantu.ageayurveda.com/text/ashtanga-hridaya/": "aa91741847a96445",
       "https://nighantu.ageayurveda.com/text/sharangadhara-samhita/": "19f4baf2f3ef7042",
@@ -1143,8 +1144,8 @@
       "https://nighantu.ageayurveda.com/verification/safety-pass4/": "68917bdfe8c2b7b9",
       "https://nighantu.ageayurveda.com/verification/safety-repair-02/": "5cd743f11cd022d2"
     },
-    "lastSubmittedAt": "2026-09-18T09:27:29.731Z",
-    "lastSubmittedCount": 15
+    "lastSubmittedAt": "2026-09-18T09:37:31.677Z",
+    "lastSubmittedCount": 14
   },
   "products": {
     "broken": 0,
@@ -1376,6 +1377,6 @@
     "seen": 31,
     "surfaced": 1
   },
-  "updatedAt": "2026-09-18T09:27:29.731Z",
+  "updatedAt": "2026-09-18T09:37:31.677Z",
   "version": 1
 }
