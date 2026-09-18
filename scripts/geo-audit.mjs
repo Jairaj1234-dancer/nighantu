@@ -298,7 +298,7 @@ async function queryModel(question) {
     });
     const json = await res.json();
     if (!res.ok) throw new Error(json?.error?.message ?? `HTTP ${res.status}`);
-    return { text: JSON.stringify(json.content ?? ''), model, sources: [] };
+    return { text: JSON.stringify(json.content ?? ''), model, sources: [], urls: [] };
   }
 
   if (provider === 'perplexity') {
@@ -318,7 +318,7 @@ async function queryModel(question) {
     if (!res.ok) throw new Error(json?.error?.message ?? `HTTP ${res.status}`);
     const content = json.choices?.[0]?.message?.content ?? '';
     const citations = (json.citations ?? []).join(' ');
-    return { text: `${content} ${citations}`, model, sources: [] };
+    return { text: `${content} ${citations}`, model, sources: [], urls: [] };
   }
 
   if (provider === 'openai') {
@@ -336,7 +336,7 @@ async function queryModel(question) {
     });
     const json = await res.json();
     if (!res.ok) throw new Error(json?.error?.message ?? `HTTP ${res.status}`);
-    return { text: json.choices?.[0]?.message?.content ?? '', model, sources: [] };
+    return { text: json.choices?.[0]?.message?.content ?? '', model, sources: [], urls: [] };
   }
 
   if (provider === 'gemini') {
@@ -362,9 +362,28 @@ async function queryModel(question) {
       if (res.ok) {
         const parts = json.candidates?.[0]?.content?.parts ?? [];
         const chunks = json.candidates?.[0]?.groundingMetadata?.groundingChunks ?? [];
-        // web.title is the source domain. The uri is a Vertex redirect that hides it.
+        // web.title is the source domain. The uri is a Vertex redirect that hides the path.
         const sources = chunks.map((c) => String(c?.web?.title ?? '').toLowerCase()).filter(Boolean);
-        return { text: parts.map((p) => p.text).join(' '), sources, model };
+
+        /**
+         * Which of our two properties was cited, which the title cannot say.
+         *
+         * The title is the registrable domain with any subdomain stripped, so the store and
+         * the Nighantu both read as "ageayurveda.com". That is the one distinction this whole
+         * project turns on, so for our own hits only, follow the redirect and keep the real
+         * URL. Only our own, because resolving all 350 domains a run touches would cost more
+         * requests than the run itself.
+         */
+        const ours = chunks.filter((c) => DOMAINS.some((d) => String(c?.web?.title ?? '').toLowerCase().includes(d)));
+        const urls = [];
+        for (const c of ours) {
+          try {
+            const r = await fetch(c.web.uri, { redirect: 'manual' });
+            const loc = r.headers.get('location');
+            if (loc) urls.push(loc.split('?')[0]);
+          } catch { /* a resolved URL is a nicety; never fail a run over it */ }
+        }
+        return { text: parts.map((p) => p.text).join(' '), sources, urls, model };
       }
       const msg = json?.error?.message ?? `HTTP ${res.status}`;
       /**
@@ -425,6 +444,7 @@ for (const [i, question] of prompts.entries()) {
   const evidenceSeen = new Set();
   const mentionsSeen = new Set();
   const sourcesSeen = new Set();
+  const urlsSeen = new Set();
 
   for (let rep = 0; rep < REPS; rep += 1) {
     if ((i > 0 || rep > 0) && provider === 'gemini') await sleep(PACE_MS);
@@ -435,6 +455,7 @@ for (const [i, question] of prompts.entries()) {
       const result = await queryModel(question);
       text = result.text;
       sources = result.sources ?? [];
+      (result.urls ?? []).forEach((u) => urlsSeen.add(u));
       modelName = result.model;
     } catch (e) {
       error = String(e.message ?? e);
@@ -480,20 +501,21 @@ for (const [i, question] of prompts.entries()) {
     hits,
     asks,
     matched: evidence.join('; '),
+    urls: [...urlsSeen].join('; '),
     sources: [...sourcesSeen].join('; '),
     error,
   });
 
   if (error && !asks) console.log(`ERROR: ${error.slice(0, 70)}`);
-  else if (hits) console.log(`✅ CITED ${hits}/${asks} (${[...evidenceSeen].join(', ')})`);
+  else if (hits) console.log(`✅ CITED ${hits}/${asks} -> ${[...urlsSeen].join(', ') || [...evidenceSeen].join(', ')}`);
   else if (mentionsSeen.size) console.log(`0/${asks}, mentioned only (${[...mentionsSeen].join(', ')})`);
   else console.log(`not cited 0/${asks}`);
 }
 
 fs.mkdirSync('data', { recursive: true });
-const header = 'date,model,question,intent,cited,rate,hits,asks,matched,error,sources';
+const header = 'date,model,question,intent,cited,rate,hits,asks,matched,urls,error,sources';
 const esc = (v) => `"${String(v).replace(/"/g, '""')}"`;
-const body = rows.map((r) => [r.date, r.model, r.question, r.intent, r.cited, r.rate, r.hits, r.asks, r.matched, r.error, r.sources].map(esc).join(','));
+const body = rows.map((r) => [r.date, r.model, r.question, r.intent, r.cited, r.rate, r.hits, r.asks, r.matched, r.urls, r.error, r.sources].map(esc).join(','));
 
 /**
  * The columns have changed three times in a day. Appending rows of one shape under a header
