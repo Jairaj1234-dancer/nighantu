@@ -195,12 +195,15 @@ if (resumeIdx !== -1) {
   const cutoff = new Date(Date.now() - days * 86400000).toISOString().slice(0, 10);
   const answered = new Set();
   try {
-    const rows = fs.readFileSync(LOG, 'utf8').split('\n').slice(1);
-    for (const line of rows) {
-      const cells = line.split('","').map((c) => c.replace(/^"|"$/g, ''));
-      if (cells.length < 6) continue;
-      const [date, , question, , , error] = cells;
-      if (date >= cutoff && !error.trim()) answered.add(question);
+    // Parsed by header name: the columns have changed once already, and an index that
+    // silently points at the wrong one would make resume skip prompts it never asked.
+    const lines = fs.readFileSync(LOG, 'utf8').trim().split('\n');
+    const cols = lines[0].split(',').map((c) => c.replace(/^"|"$/g, ''));
+    const at = (cells, name) => cells[cols.indexOf(name)] ?? '';
+    for (const line of lines.slice(1)) {
+      const cells = [...line.matchAll(/"((?:[^"]|"")*)"/g)].map((m) => m[1].replace(/""/g, '"'));
+      if (cells.length < cols.length) continue;
+      if (at(cells, 'date') >= cutoff && !at(cells, 'error').trim()) answered.add(at(cells, 'question'));
     }
   } catch { /* no log yet: ask everything */ }
   const before = prompts.length;
@@ -329,78 +332,118 @@ async function queryModel(question) {
 
 const rows = [];
 
+/**
+ * How many times each prompt is asked.
+ *
+ * Grounded search is not deterministic. Asking "Is a Shirodhara machine a medical device?"
+ * six times put ageayurveda.com in the source list twice, and the number of sources ranged
+ * from 1 to 18. A single pass therefore reports a coin flip as a fact, and a month-on-month
+ * move of one or two prompts would be read as progress when it is noise.
+ *
+ * So each prompt is asked REPS times and the row records how often we were cited rather than
+ * whether we were. Three is the smallest number that distinguishes "always", "sometimes" and
+ * "never", which is the distinction the work actually turns on.
+ */
+const REPS = Math.max(1, Number(process.env.GEO_AUDIT_REPS ?? 3));
+
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 // Pace the free tier: roughly ten requests a minute, which is what it allows.
 const PACE_MS = Number(process.env.GEO_AUDIT_PACE_MS ?? 6500);
 const RETRY_BASE_MS = 20_000;
 
+let stopped = false;
 for (const [i, question] of prompts.entries()) {
-  if (i > 0 && provider === 'gemini') await sleep(PACE_MS);
-  process.stdout.write(`[${i + 1}/${prompts.length}] ${question.slice(0, 50)}... `);
-  let text = '';
-  let sources = [];
+  if (stopped) break;
+  process.stdout.write(`[${i + 1}/${prompts.length}] ${question.slice(0, 46)}... `);
+
   let modelName = provider;
   let error = '';
+  let hits = 0;
+  let asks = 0;
+  const evidenceSeen = new Set();
+  const mentionsSeen = new Set();
+  const sourcesSeen = new Set();
 
-  try {
-    const result = await queryModel(question);
-    text = result.text;
-    sources = result.sources ?? [];
-    modelName = result.model;
-  } catch (e) {
-    error = String(e.message ?? e);
-    // A spent daily allowance will refuse every remaining prompt too. Recording 50 more
-    // "not cited" rows for questions that were never asked would read as a genuine zero
-    // when someone looks at this log in three months.
-    if (e.fatal) {
-      console.log('\n\nStopping: the daily allowance is spent. Nothing further was asked, and');
-      console.log('no row is recorded for the unasked prompts. Re-run after the quota resets.');
+  for (let rep = 0; rep < REPS; rep += 1) {
+    if ((i > 0 || rep > 0) && provider === 'gemini') await sleep(PACE_MS);
+    let text = '';
+    let sources = [];
+
+    try {
+      const result = await queryModel(question);
+      text = result.text;
+      sources = result.sources ?? [];
+      modelName = result.model;
+    } catch (e) {
+      error = String(e.message ?? e);
+      // A spent daily allowance will refuse every remaining prompt too. Recording 50 more
+      // "not cited" rows for questions that were never asked would read as a genuine zero
+      // when someone looks at this log in three months.
+      if (e.fatal) {
+        console.log('\n\nStopping: the daily allowance is spent. Nothing further was asked, and');
+        console.log('no row is recorded for the unasked prompts. Re-run after the quota resets.');
+        stopped = true;
+      }
       break;
     }
+
+    const hay = text.toLowerCase();
+    /**
+     * A brand word only means something if the model produced it unprompted. When the
+     * question already contains it, the answer repeats it whatever it cites.
+     */
+    const asked = question.toLowerCase();
+    const inSources = DOMAINS.filter((d) => sources.some((x) => x.includes(d)));
+    const inText = DOMAINS.filter((d) => hay.includes(d));
+
+    asks += 1;
+    if (inSources.length || inText.length) hits += 1;
+    inSources.forEach((d) => evidenceSeen.add(`source:${d}`));
+    inText.filter((d) => !inSources.includes(d)).forEach((d) => evidenceSeen.add(`text:${d}`));
+    BRAND.filter((b) => hay.includes(b) && !asked.includes(b)).forEach((b) => mentionsSeen.add(b));
+    // Who gets cited instead of us is the most useful thing in the log.
+    sources.forEach((x) => sourcesSeen.add(x));
   }
 
-  const hay = text.toLowerCase();
-  /**
-   * A brand word only means something if the model produced it unprompted. When the question
-   * already contains it, the answer will repeat it no matter what it cites.
-   */
-  const asked = question.toLowerCase();
-  const inSources = DOMAINS.filter((d) => sources.some((s) => s.includes(d)));
-  const inText = DOMAINS.filter((d) => hay.includes(d));
-  const mentions = BRAND.filter((b) => hay.includes(b) && !asked.includes(b));
-
-  const evidence = [
-    ...inSources.map((d) => `source:${d}`),
-    ...inText.filter((d) => !inSources.includes(d)).map((d) => `text:${d}`),
-    ...mentions.map((b) => `mention:${b}`),
-  ];
-  const isCited = inSources.length > 0 || inText.length > 0;
+  const rate = asks ? hits / asks : 0;
+  const evidence = [...evidenceSeen, ...[...mentionsSeen].map((m) => `mention:${m}`)];
 
   rows.push({
     date: new Date().toISOString().slice(0, 10),
     model: `${provider}:${modelName}`,
     question,
-    cited: isCited ? 'yes' : 'no',
+    cited: hits > 0 ? 'yes' : 'no',
+    rate: rate.toFixed(2),
+    hits,
+    asks,
     matched: evidence.join('; '),
-    sources: sources.join('; '),
+    sources: [...sourcesSeen].join('; '),
     error,
   });
 
-  if (error) console.log(`ERROR: ${error.slice(0, 80)}`);
-  else if (isCited) console.log(`✅ CITED (${evidence.join(', ')})`);
-  else if (mentions.length) console.log(`mentioned, not cited (${mentions.join(', ')})`);
-  else console.log('not cited');
+  if (error && !asks) console.log(`ERROR: ${error.slice(0, 70)}`);
+  else if (hits) console.log(`✅ CITED ${hits}/${asks} (${[...evidenceSeen].join(', ')})`);
+  else if (mentionsSeen.size) console.log(`0/${asks}, mentioned only (${[...mentionsSeen].join(', ')})`);
+  else console.log(`not cited 0/${asks}`);
 }
 
 fs.mkdirSync('data', { recursive: true });
-const header = 'date,model,question,cited,matched,error,sources';
+const header = 'date,model,question,cited,rate,hits,asks,matched,error,sources';
 const esc = (v) => `"${String(v).replace(/"/g, '""')}"`;
-const body = rows.map((r) => [r.date, r.model, r.question, r.cited, r.matched, r.error, r.sources].map(esc).join(','));
+const body = rows.map((r) => [r.date, r.model, r.question, r.cited, r.rate, r.hits, r.asks, r.matched, r.error, r.sources].map(esc).join(','));
 
 if (!fs.existsSync(LOG)) fs.writeFileSync(LOG, `${header}\n`);
 fs.appendFileSync(LOG, `${body.join('\n')}\n`);
 
 const citedCount = rows.filter((r) => r.cited === 'yes').length;
+const always = rows.filter((r) => r.asks && r.hits === r.asks).length;
 const errorCount = rows.filter((r) => r.error).length;
+const totalHits = rows.reduce((n, r) => n + r.hits, 0);
+const totalAsks = rows.reduce((n, r) => n + r.asks, 0);
 
-console.log(`\nResults: cited on ${citedCount}/${prompts.length} prompts (${errorCount} errors). Appended to ${LOG}`);
+console.log(`\nResults over ${REPS} repetition(s) of ${rows.length} prompt(s):`);
+console.log(`  cited at least once  ${citedCount}/${rows.length}`);
+console.log(`  cited every time     ${always}/${rows.length}`);
+console.log(`  overall hit rate     ${totalHits}/${totalAsks} (${totalAsks ? ((totalHits / totalAsks) * 100).toFixed(0) : 0}%)`);
+console.log(`  errors               ${errorCount}`);
+console.log(`Appended to ${LOG}`);

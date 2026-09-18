@@ -24,16 +24,27 @@ if (!fs.existsSync(LOG)) {
   process.exit(1);
 }
 
-const rows = fs.readFileSync(LOG, 'utf8').trim().split('\n').slice(1).filter(Boolean).map((line) => {
+// Read by header name rather than position. The log gained rate, hits and asks columns when
+// repeated sampling came in, and a fixed index would have quietly compared the wrong fields.
+const lines = fs.readFileSync(LOG, 'utf8').trim().split('\n');
+const cols = lines[0].split(',').map((c) => c.replace(/^"|"$/g, ''));
+const rows = lines.slice(1).filter(Boolean).map((line) => {
   const f = [...line.matchAll(/"((?:[^"]|"")*)"/g)].map((m) => m[1].replace(/""/g, '"'));
-  return { date: f[0], model: f[1], question: f[2], cited: f[3], matched: f[4] };
+  const get = (name) => f[cols.indexOf(name)] ?? '';
+  return {
+    date: get('date'), model: get('model'), question: get('question'), cited: get('cited'),
+    matched: get('matched'), hits: Number(get('hits') || 0), asks: Number(get('asks') || 0),
+  };
 });
 
 const runs = new Map();
 for (const r of rows) {
   const key = `${r.date}|${r.model}`;
-  const agg = runs.get(key) ?? { date: r.date, model: r.model, total: 0, cited: 0, hits: [] };
+  const agg = runs.get(key)
+    ?? { date: r.date, model: r.model, total: 0, cited: 0, hits: [], asked: 0, landed: 0 };
   agg.total += 1;
+  agg.asked += r.asks;
+  agg.landed += r.hits;
   if (r.cited === 'yes') { agg.cited += 1; agg.hits.push(r.question); }
   runs.set(key, agg);
 }
@@ -47,7 +58,15 @@ if (!latest) {
   process.exit(1);
 }
 
-const rate = (r) => `${r.cited}/${r.total} (${((r.cited / r.total) * 100).toFixed(0)}%)`;
+/**
+ * Two numbers, because one of them alone misleads.
+ *
+ * "cited on 6 of 54 prompts" counts a prompt we won once in three tries the same as one we
+ * win every time. The hit rate across every repetition is the stabler of the two, and the
+ * one to watch month on month.
+ */
+const rate = (r) => `${r.cited}/${r.total} prompts, ${r.landed}/${r.asked} asks `
+  + `(${r.asked ? ((r.landed / r.asked) * 100).toFixed(0) : 0}%)`;
 console.log(`latest    ${latest.date} ${latest.model}  ${rate(latest)}`);
 if (previous) console.log(`previous  ${previous.date} ${previous.model}  ${rate(previous)}`);
 
