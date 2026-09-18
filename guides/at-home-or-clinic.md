@@ -27,7 +27,9 @@ faq:
 - **Frequency.** The classical pattern is a course of consecutive daily sessions, not a single
   appointment. Very few people will book fourteen clinic sessions in a row, and a single
   session is the least representative version of the practice.
-- **Cost per session** falls sharply after the equipment is paid for.
+- **Cost per session** falls sharply after the equipment is paid for. What remains is the oil:
+  reused for at most three sessions and then discarded, which works out at roughly one 500 ml
+  bottle per session on a closed-loop vessel, plus laundry and consumables.
 - **Timing.** Evening sessions before sleep are the traditional slot and the hardest to book.
 
 ## The three real problems
