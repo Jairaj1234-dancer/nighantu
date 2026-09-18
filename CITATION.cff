@@ -11,6 +11,13 @@ authors:
     country: IN
 repository-code: https://github.com/Jairaj1234-dancer/nighantu
 identifiers:
+  # Wikidata items for the publisher and for this work, created 18 September 2026.
+  - type: other
+    value: Q141494735
+    description: Wikidata item for this reference work
+  - type: other
+    value: Q141494601
+    description: Wikidata item for the publisher, Age Ayurveda
   # The concept DOI always resolves to the newest release; cite this one unless you need
   # to pin the exact version you used.
   - type: doi

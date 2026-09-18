@@ -2,7 +2,7 @@
 import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import { KINDS, SECTION_META } from '../lib/collections';
-import { SITE_NAME, PUBLISHER, STORE, TAGLINE, abs, rel } from '../lib/site';
+import { SITE_NAME, PUBLISHER, STORE, TAGLINE, abs, rel, WIKIDATA_PUBLISHER} from '../lib/site';
 
 const counts: Record<string, number> = {};
 for (const k of KINDS) counts[k] = (await getCollection(k)).length;
@@ -68,7 +68,7 @@ const jsonld = [
     name: PUBLISHER,
     url: STORE,
     description: 'Ayurvedic products and equipment, and publisher of the Nighantu reference encyclopedia.',
-    sameAs: [STORE, abs('/')],
+    sameAs: [STORE, abs('/'), WIKIDATA_PUBLISHER],
   },
   {
     '@context': 'https://schema.org',

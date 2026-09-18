@@ -1,6 +1,18 @@
 export const SITE_NAME = 'Age Ayurveda Nighantu';
 export const PUBLISHER = 'Age Ayurveda';
 export const STORE = 'https://ageayurveda.com';
+
+/**
+ * Wikidata items for the publisher and for this work, created 18 September 2026.
+ *
+ * Until they existed, every page's JSON-LD named its publisher as a string, which an
+ * answer engine cannot resolve: "Age Ayurveda" is a name, not a thing. Emitting the item
+ * as sameAs turns the publisher into an entity that can be looked up and connected to the
+ * store, the DOI and this corpus. The slot was empty rather than wrong on purpose: the
+ * identifier that used to sit here belonged to Stemonurus cambodianus, a tree.
+ */
+export const WIKIDATA_PUBLISHER = 'https://www.wikidata.org/wiki/Q141494601';
+export const WIKIDATA_WORK = 'https://www.wikidata.org/wiki/Q141494735';
 export const TAGLINE = 'A nighantu is the classical Ayurvedic lexicon of medicinal substances. This is a modern one: a referenced encyclopedia of Ayurvedic herbs, classical formulations and instruments.';
 
 /** Absolute URL for a site-relative path, honouring the configured base. */

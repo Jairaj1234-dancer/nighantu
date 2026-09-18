@@ -9,6 +9,7 @@
       "logo": "https://ageayurveda.com/cdn/shop/files/age-logo.png",
       "description": "Pioneering classical and evidence-based Ayurvedic formulations, sustainable botanical sourcing, and the open-access Nighantu knowledge graph.",
       "sameAs": [
+        "https://www.wikidata.org/wiki/Q141494601",
         "https://www.instagram.com/ageayurveda"
       ],
       "knowsAbout": [
@@ -33,6 +34,7 @@
       "publisher": {
         "@id": "https://ageayurveda.com/#organization"
       },
+      "sameAs": "https://www.wikidata.org/wiki/Q141494735",
       "dataset": [
         {
           "@id": "https://nighantu.ageayurveda.com/datasets/#dravyaguna-parquet"
