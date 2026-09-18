@@ -95,7 +95,7 @@ not that the device lacks the feature.
 | AJ Engineer portable automatic | Powered | Rs 39,200 per piece | Digital controller, plus or minus 2 °C | Digital or manual | Stainless steel, 110/230 V, steady or oscillating dhara, flow control by valve, oil recirculation, wheeled |
 | Esteem Services fully automatic | Powered | Rs 45,800 per piece | Digital controller, plus a body heater for cold climates | | Filters used oil and reheats to constant temperature before pumping, oscillating vessel with adjustable swing width and speed, vessel can also be moved manually without power |
 | Cristalmind | Powered | CHF 897 | 36.5 to 38.5 °C | 20 to 60 minutes | Runs on 12 V via a 110 to 230 V, 50/60 Hz transformer, so it works on any mains supply. Two year parts and labour warranty. Oil use is via an optional conversion kit |
-| Surya Shirodhara | Gravity | RRP set by seller, USD 499 to 799 suggested | Set by the operator before the session | None | No electricity, no plumbing, no drainage. One litre closed-loop steel and brass alloy vessel with a 500 ml mode, collapsible ABS frame with integrated oil recollection, around 3.5 kg |
+| Surya Shirodhara | Gravity | RRP set by seller, USD 499 to 799 suggested | Set by the operator before the session | None | No electricity, no plumbing, no drainage. Two litre closed-loop steel and brass alloy vessel, about 1.5 litres per session, collapsible ABS frame with integrated oil recollection, around 3.5 kg |
 | Traditional dhara patra and stand | Gravity | Varies widely | Set by the operator | None | Earthen, brass or copper pot with a wick, on a fixed stand or ceiling suspension. The classical arrangement |
 
 </div>
@@ -144,7 +144,7 @@ freight from India but is weaker on paper than a two year parts and labour guara
 If a thermostat, a timer and an oscillating stream are what you want, buy a powered machine. One
 of the ones above will suit you better than ours will.
 
-What it is good at is narrower and real: it is a one litre closed-loop steel and brass alloy
+What it is good at is narrower and real: it is a two litre closed-loop steel and brass alloy
 vessel on a collapsible frame that runs on gravity alone, so it needs no power, no plumbing, no
 drainage and no fit-out, and it is built natively for oil rather than converted to it. It is the
 classical apparatus made portable. For the buyer who chose Shirodhara because it is a traditional
