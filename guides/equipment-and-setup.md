@@ -23,7 +23,8 @@ products: "shirodhara"
 
 ## Space and mess
 
-The honest numbers. A session puts half a litre to a litre of oil in circulation. Assume:
+The honest numbers. A hand-filled pot puts roughly half a litre to a litre of oil in
+circulation; a closed-loop vessel more, around 1.5 litres for the Surya. Either way, assume:
 
 - A floor area around the table that will get oil on it. Mat it, and use a mat you are willing
   to write off.

@@ -15,7 +15,7 @@ faq:
   - q: "Which oil is used for Shirodhara?"
     a: "A medicated sesame-based taila is the default. The specific formulation is matched to the presentation: warming and unctuous for a Vata-predominant picture, cooling and in a lighter base for Pitta, warming and penetrating with lekhana herbs for Kapha. Buttermilk, milk and decoctions are used in place of oil in some classical variants."
   - q: "How much oil does a Shirodhara session use?"
-    a: "Half a litre to a litre in circulation. Almost all of it is recovered and reused within the session; what is genuinely consumed is what soaks into hair, cloth and the catch basin."
+    a: "It depends on the apparatus. A traditional dhara patra filled by hand runs on roughly half a litre to a litre. A closed-loop vessel holds more by design, because it has to sustain the stream without a refill: the Surya Shirodhara takes about 1.5 litres per session, three 500 ml bottles, in a two litre vessel. Almost all of it is recovered and reused within the session; what is genuinely consumed is what soaks into hair, cloth and the catch basin."
   - q: "Can you do Shirodhara alone, without an assistant?"
     a: "Yes, with the right equipment. The obstacle is that oil cools while it runs and traditionally an assistant reheats and returns it. A closed-loop apparatus that catches the run-off and feeds it back keeps the returned oil warm, which is what makes single-operator sessions practical."
   - q: "Do you wash your hair after Shirodhara?"

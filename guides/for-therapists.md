@@ -24,7 +24,9 @@ A realistic slot is 90 minutes end to end for a 40-minute pour.
 
 Oil is the recurring cost and the one most often mis-modelled. The variables:
 
-- **Volume in circulation** per session, typically half a litre to a litre.
+- **Volume in circulation** per session. Roughly half a litre to a litre for a hand-filled
+  pot, around 1.5 litres for a closed-loop vessel such as the Surya, which holds two litres.
+  Model the one you actually use: the difference is most of a bottle per session.
 - **Loss per session**, what soaks into hair, cloth and the basin, rather than what is poured.
 - **Reuse policy.** Whether oil is carried between clients is the single biggest driver of
   cost per session, and it is a hygiene and consent decision before it is a financial one.
