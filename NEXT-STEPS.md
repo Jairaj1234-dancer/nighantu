@@ -203,9 +203,12 @@ Worth knowing before planning more of this:
 
 ## Still open
 
-- **A named reviewer.** `/reviewers/` states plainly that no practitioner has signed off. A named
-  vaidya credited for reviewing even one section would raise citation odds materially. Needs a
-  real person willing to be named.
+- ~~A named reviewer.~~ **Partly done, 18 September 2026.** Dr. Awadesh Pratap Singh, BAMS, of
+  the Shree Baidyanath Research Institute reviewed the Shirodhara guide and the practice
+  section, 56 pages, and passed them. Each carries his name and the date, and names him in its
+  structured data; `/reviewers/` states the scope and is the only page allowed to name the
+  institution, since the heritage gate blocks that framing everywhere else. **The ~800
+  monographs remain unreviewed** and are the open front.
 - **Chyawanprash facts.** The classical herb count is contested across sources and the Bhasma in
   pregnancy question is unresolved. Counts are redacted automatically until settled.
 - **The Surya one-pager** still carries the false "only portable Shirodhara device" claim.

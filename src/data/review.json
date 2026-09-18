@@ -1,0 +1,15 @@
+{
+  "_note": "A named practitioner's review. Written by hand, deliberately: this is the one claim on the site that cannot be derived from a script, and it must never be extended to pages the reviewer did not read. The scope here is exactly what was reviewed, and the components render nothing on any other page.",
+  "reviewer": {
+    "name": "Dr. Awadesh Pratap Singh",
+    "qualification": "BAMS",
+    "affiliation": "Shree Baidyanath Research Institute",
+    "affiliationShort": "SBRI"
+  },
+  "reviewedOn": "2026-09-18",
+  "outcome": "passed",
+  "scope": {
+    "kinds": ["practice", "guide"],
+    "description": "The Shirodhara guide and the practice section: 13 guide pages and 43 procedure pages."
+  }
+}

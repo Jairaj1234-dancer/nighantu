@@ -1,0 +1,45 @@
+---
+/**
+ * The review credit, shown only on pages a named practitioner actually read.
+ *
+ * This is the one claim on the site that no script can derive, and the one most worth
+ * making: answer engines and readers both weight named, credentialled review, and until
+ * 18 September 2026 this site had none and said so plainly at /reviewers/.
+ *
+ * It renders for the reviewed kinds and nothing else. Extending it to the monographs would
+ * be the exact dishonesty the reviewers page was written to avoid, so the scope lives in
+ * data and the component refuses anything outside it.
+ *
+ * The affiliation is deliberately not printed here. The compliance gate blocks heritage
+ * framing on every published page, and the narrow exemption granted for it covers the
+ * reviewers page alone, where the affiliation belongs as a credential a reader can check.
+ */
+import review from '../data/review.json';
+import { rel } from '../lib/site';
+
+interface Props { kind: string }
+const { kind } = Astro.props;
+
+const r = review as any;
+const applies = (r.scope?.kinds ?? []).includes(kind);
+const on = new Date(`${r.reviewedOn}T00:00:00Z`).toLocaleDateString('en-GB', {
+  day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC',
+});
+---
+{applies && (
+  <p class="reviewed">
+    Reviewed by <strong>{r.reviewer.name}</strong>, {r.reviewer.qualification}, on {on}.
+    <a href={rel('/reviewers/')}>What that review covered</a>.
+  </p>
+)}
+
+<style>
+  .reviewed {
+    margin: 1.75rem 0 0;
+    padding: .6rem 0 0;
+    border-top: 1px solid var(--rule);
+    font-size: .9rem;
+    color: var(--ink-soft);
+  }
+  .reviewed strong { color: var(--ink); font-weight: 600; }
+</style>

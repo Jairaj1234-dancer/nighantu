@@ -33,6 +33,19 @@ const CLAIM_VERBS = [
 ];
 // Heritage framing belongs on sales collateral, not on an editorial reference site.
 const HERITAGE_TERMS = ['baidyanath', 'house of baidyanath', 'est. 1917', 'since 1917'];
+/**
+ * One page may name the reviewer's institution.
+ *
+ * The heritage gate exists because that framing has a job on B2B sales collateral and
+ * undercuts the neutrality that earns citations on an editorial site. A named reviewer's
+ * affiliation is a different thing: it is the credential a reader checks, and a review
+ * credited to a person with no institution is weaker than one that says where they work.
+ *
+ * The exemption is one path, not a term: everywhere else, including every monograph and
+ * the practice pages that carry the review credit itself, the block still applies. Those
+ * pages name the reviewer and link here rather than repeating the affiliation.
+ */
+const HERITAGE_EXEMPT = ['reviewers/index.html'];
 // Names of traditions the site does not publish, used as a leak canary.
 const LEAK_TERMS = ['jie geng', 'dang shen', 'kabasura', 'sowa-rigpa', 'kampo designation'];
 
@@ -72,6 +85,10 @@ for (const f of files) {
 }
 
 // 4. Heritage framing.
+//
+// content/ is vault-derived and never exempt: no monograph may carry this framing. The
+// reviewers page is hand-authored and lives in src/pages, so it is not scanned here at
+// all; the exemption list below applies to the built-page scan further down.
 for (const f of files) {
   for (const t of HERITAGE_TERMS) {
     if (f.lower.includes(t)) fail('heritage-framing', `${f.rel} contains "${t}"`);
@@ -155,6 +172,23 @@ if (fs.existsSync(DIST)) {
   };
   walkDist(DIST);
   const MODULE = /<section[^>]*data-product-module[^>]*>([\s\S]*?)<\/section>/g;
+  /**
+   * Heritage framing, checked on the BUILT pages as well as on content/.
+   *
+   * The content scan above only sees vault-derived markdown, so a hand-authored page under
+   * src/pages could have carried this framing and no gate would have noticed. The reviewers
+   * page is the single exemption, because a named reviewer's institutional affiliation is a
+   * credential a reader checks rather than marketing, and it appears there alone: the 56
+   * pages he reviewed credit him by name and link to that page instead.
+   */
+  for (const p of htmlFiles) {
+    if (HERITAGE_EXEMPT.some((x) => p.replace(/\\/g, '/').endsWith(x))) continue;
+    const text = fs.readFileSync(p, 'utf8').toLowerCase();
+    for (const t of HERITAGE_TERMS) {
+      if (text.includes(t)) fail('heritage-framing', `${p} contains "${t}"`);
+    }
+  }
+
   for (const p of htmlFiles) {
     const html = fs.readFileSync(p, 'utf8');
     for (const m of html.matchAll(MODULE)) {

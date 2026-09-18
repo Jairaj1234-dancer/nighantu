@@ -1,5 +1,7 @@
 ---
 import Base from './Base.astro';
+import ReviewCredit from '../components/ReviewCredit.astro';
+import review from '../data/review.json';
 import ProductModule from '../components/ProductModule.astro';
 import CiteThis from '../components/CiteThis.astro';
 import Crumbs from '../components/Crumbs.astro';
@@ -29,6 +31,13 @@ const article = {
     inDefinedTermSet: { '@type': 'DefinedTermSet', name: SITE_NAME, url: abs('/') },
   },
   author: { '@type': 'Organization', name: PUBLISHER, url: abs('/') },
+  reviewedBy: {
+    '@type': 'Person',
+    name: review.reviewer.name,
+    honorificSuffix: review.reviewer.qualification,
+    // Affiliation lives on /reviewers/ only; see the note in the practice route.
+    url: abs('/reviewers/'),
+  },
   publisher: { '@id': `${abs('/')}#organization` },
 };
 
@@ -98,6 +107,8 @@ const breadcrumbs = {
     </nav>
 
     {d.products && <ProductModule slug={d.products} />}
+    <ReviewCredit kind="guide" />
+
     <CiteThis title={d.title} canonical={canonical} modified={modified} />
 
     <p class="disclaimer">

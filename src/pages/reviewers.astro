@@ -1,50 +1,92 @@
 ---
+/**
+ * The review position, stated exactly.
+ *
+ * This page promised, for months, to say "who, which section, and when" as soon as a named
+ * practitioner reviewed anything. That has now happened for the Shirodhara guide and the
+ * practice section, so the page says so, and it is equally explicit that the 800-odd
+ * monographs remain unreviewed. The temptation on a page like this is to let the good news
+ * blur the boundary; the boundary is the only thing that makes the good news worth anything.
+ *
+ * This is also the one page allowed to name the reviewer's institution: the compliance gate
+ * blocks heritage framing everywhere else, and an affiliation here is a credential rather
+ * than marketing. See scripts/audit.mjs.
+ */
 import Page from '../layouts/Page.astro';
+import review from '../data/review.json';
 import { rel } from '../lib/site';
+
+const r = review as any;
+const reviewedOn = new Date(`${r.reviewedOn}T00:00:00Z`).toLocaleDateString('en-GB', {
+  day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC',
+});
 ---
 <Page
   title="Reviewers"
-  description="The Nighantu review position, stated honestly: what has been checked, by what process, and what has not yet been reviewed by a named practitioner."
+  description="Who has reviewed the Nighantu, which sections they read, and what remains unreviewed by a named practitioner."
   canonical="/reviewers/"
-  lede="Where expert review currently stands. This page is deliberately unflattering."
+  lede="Where expert review stands. Stated exactly, including what it does not cover."
 >
 
-## The current position
+## What has been reviewed
 
-**No individually named practitioner has yet signed off the monograph set.** We are not going
-to invent one, and we are not going to use a vague phrase like "reviewed by our Ayurvedic
-team" to imply something that has not happened.
+**{r.reviewer.name}, {r.reviewer.qualification}, of the {r.reviewer.affiliation} ({r.reviewer.affiliationShort}),
+reviewed the Shirodhara guide and the practice section on {reviewedOn} and passed them.**
 
-What has been done:
+That covers 13 guide pages and 43 procedure pages: what each procedure is, who may perform
+it, its classical basis and its cautions. Each of those pages now carries his name and the
+date of review at the foot, and names him in its structured data.
 
-- Every monograph derives from sourced reference material rather than from generated prose,
-  and the sources are listed on each page.
-- Pharmacopoeial and regulatory status fields come from the named pharmacopoeias, not from
-  secondary summaries.
-- The <a href={rel('/shirodhara/')}>Shirodhara guide</a> pages are written from classical
-  sources and from practice knowledge held inside Age Ayurveda, and they distinguish
-  explicitly between what the Samhitas contain and what is later Kerala tradition.
-- Mechanical checks run on every build: no page may state the contested classical herb count
-  for Chyawanprash, no disease term may appear inside a product block, and restricted and
-  metallic preparations are excluded from publication entirely.
+It is the clinical half of this site, and it is the half where being wrong would matter
+most. A procedure page written as home instructions for something that requires a vaidya is
+the failure the practice section exists to avoid, and that judgement is now a practitioner's
+rather than an editor's.
 
-What has not been done:
+## What has not been reviewed
 
-- Line-by-line review of each monograph by a qualified vaidya.
+**The monographs have not been read by a named practitioner.** That is roughly 800 pages:
+every herb, every formulation, every instrument and every reference entry. Nothing on those
+pages carries a review credit, and this page will not imply otherwise.
+
+Also unreviewed:
+
 - Independent verification of every research summary against the original paper.
+- The safety records, which are gated by their own judge panel and schema rather than by a
+  practitioner's signature.
 
-## Why this page exists
+## What stands behind the unreviewed pages
 
-Search engines and answer engines both weight named, credentialled review, and it would be
-easy to write a page that gestures at expertise without committing to any. That page would be
-a lie, and a reference work that lies about its own provenance is worth nothing.
+Not expert review, and this is worth being plain about, because these are mechanical
+protections rather than clinical ones:
 
-When a named practitioner has reviewed a section, this page will say who, which section, and
-when. Until then it says this.
+- Every monograph derives from sourced reference material rather than generated prose, and
+  the sources are listed on each page.
+- Botanical identity is anchored to the Ayurvedic Pharmacopoeia of India where a monograph
+  exists, and left blank where the sources genuinely disagree.
+- Formulation compositions are transcribed from the Ayurvedic Formulary of India and checked
+  row by row against it.
+- Research claims carry a PubMed ID or a DOI, or they were deleted: 755 were.
+- Mechanical checks run on every build. No page may state the contested classical herb count
+  for Chyawanprash. No disease term may appear inside a product block. No dose or therapeutic
+  claim may appear in a page's opening summary. Restricted and metallic preparations are
+  excluded from publication entirely.
+
+The <a href={rel('/verification/')}>verification ledger</a> gives the rejection rate for
+every one of those passes, computed from the run records rather than typed in.
+
+## Why this page is written this way
+
+Search engines and answer engines both weight named, credentialled review, which makes a
+vague gesture at expertise tempting and cheap. "Reviewed by our Ayurvedic team" would cost
+nothing to write and would be worth nothing, because it commits to no one.
+
+So this page names a person, states his qualification and institution, gives the date, and
+draws the line around exactly what he read. When more sections are reviewed, this page will
+say so with the same precision.
 
 ## If you are qualified and want to help
 
-We are looking for a qualified Ayurvedic physician willing to be credited by name for
-reviewing sections of the Nighantu. Corrections from anyone, credentialled or not, are welcome
-at <a href={rel('/corrections/')}>corrections</a>.
+The monographs are the open front. We are looking for qualified Ayurvedic physicians willing
+to be credited by name for reviewing sections of them. Corrections from anyone, credentialled
+or not, are welcome at <a href={rel('/corrections/')}>corrections</a>.
 </Page>
