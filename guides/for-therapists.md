@@ -31,10 +31,18 @@ Oil is the recurring cost and the one most often mis-modelled. The variables:
 - **Reuse policy.** Whether oil is carried between clients is the single biggest driver of
   cost per session, and it is a hygiene and consent decision before it is a financial one.
   Decide it explicitly, write it down, and tell clients what your policy is.
-- **Reheat cycles** before oil is retired.
+- **Reheat cycles** before oil is retired. Our own policy is a maximum of three sessions on a
+  charge of oil, after which it is discarded rather than topped up indefinitely.
 
-Model these before pricing the treatment. A session priced on the assumption of full reuse and
-delivered on a single-use policy loses money quietly.
+Worked through, that gives a figure you can price against. A closed-loop vessel charged with
+1.5 litres, three 500 ml bottles, serves three sessions before it is emptied. That is about one
+500 ml bottle of oil per session, plus top-ups for what is lost to hair, cloth and the basin,
+so one bottle per session is the floor rather than the exact number. A hand-filled pot running
+on half a litre to a litre works out lower per session and costs more in labour, because
+somebody is reheating and returning the oil by hand throughout.
+
+Apply your own cost per bottle to that and you have the recurring cost. A session priced on
+the assumption of full reuse and delivered on a single-use policy loses money quietly.
 
 ## Hygiene
 
