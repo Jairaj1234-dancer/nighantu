@@ -1119,18 +1119,18 @@
       "https://nighantu.ageayurveda.com/research/d/": "5d785b585672a7c0",
       "https://nighantu.ageayurveda.com/reviewers/": "ebf4705bf235e942",
       "https://nighantu.ageayurveda.com/shirodhara/": "f47a1e0d965d4100",
-      "https://nighantu.ageayurveda.com/shirodhara/at-home-or-clinic/": "32a725e638cb7a67",
+      "https://nighantu.ageayurveda.com/shirodhara/at-home-or-clinic/": "d6ffc3ef660f58d2",
       "https://nighantu.ageayurveda.com/shirodhara/cautions/": "8a1aa974ee0ed5cd",
       "https://nighantu.ageayurveda.com/shirodhara/choosing-equipment/": "b68f321261f2d9ad",
       "https://nighantu.ageayurveda.com/shirodhara/choosing-the-oil/": "25668b153b99f3c8",
       "https://nighantu.ageayurveda.com/shirodhara/classical-basis/": "9ab368449f289d4f",
       "https://nighantu.ageayurveda.com/shirodhara/equipment-and-setup/": "c4d25ff9b323f955",
-      "https://nighantu.ageayurveda.com/shirodhara/faq/": "243f45b90da410b7",
+      "https://nighantu.ageayurveda.com/shirodhara/faq/": "7aef04e57dc14718",
       "https://nighantu.ageayurveda.com/shirodhara/for-therapists/": "52b428a77ab81438",
       "https://nighantu.ageayurveda.com/shirodhara/glossary/": "fcd6fdbe5c085826",
       "https://nighantu.ageayurveda.com/shirodhara/pot-or-apparatus/": "38c3864c62ac9de0",
-      "https://nighantu.ageayurveda.com/shirodhara/session-protocol/": "feb484a6a16bde96",
-      "https://nighantu.ageayurveda.com/shirodhara/temperature-and-duration/": "e7bb32837e29b387",
+      "https://nighantu.ageayurveda.com/shirodhara/session-protocol/": "36500d5c5941f03a",
+      "https://nighantu.ageayurveda.com/shirodhara/temperature-and-duration/": "ed8ed3ea65eeadfb",
       "https://nighantu.ageayurveda.com/text/": "c691b31cf85819be",
       "https://nighantu.ageayurveda.com/text/ashtanga-hridaya/": "aa91741847a96445",
       "https://nighantu.ageayurveda.com/text/sharangadhara-samhita/": "19f4baf2f3ef7042",
@@ -1143,8 +1143,8 @@
       "https://nighantu.ageayurveda.com/verification/safety-pass4/": "68917bdfe8c2b7b9",
       "https://nighantu.ageayurveda.com/verification/safety-repair-02/": "5cd743f11cd022d2"
     },
-    "lastSubmittedAt": "2026-09-18T09:01:06.114Z",
-    "lastSubmittedCount": 57
+    "lastSubmittedAt": "2026-09-18T09:07:19.771Z",
+    "lastSubmittedCount": 4
   },
   "products": {
     "broken": 0,
@@ -1376,6 +1376,6 @@
     "seen": 31,
     "surfaced": 1
   },
-  "updatedAt": "2026-09-18T09:01:06.114Z",
+  "updatedAt": "2026-09-18T09:07:19.771Z",
   "version": 1
 }
