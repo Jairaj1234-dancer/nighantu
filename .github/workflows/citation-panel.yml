@@ -4,9 +4,13 @@ name: Citation panel
 # Ayurveda or the Nighantu was cited. There is no analytics product that reports "you were
 # cited", so this is the only way to measure the thing this site exists to do.
 #
-# Gemini by default, because its free tier covers this: 54 grounded requests a month against
-# an allowance of 5,000, and Google Search grounding is the closest available proxy for
-# Google AI Overviews. ANTHROPIC_API_KEY still works if set and no Gemini key is present.
+# Gemini by default, because its free tier covers this and Google Search grounding is the
+# closest available proxy for Google AI Overviews. ANTHROPIC_API_KEY still works if set and
+# no Gemini key is present.
+#
+# Each prompt is asked three times, so a run is about 171 grounded requests rather than 57.
+# Grounding is not deterministic: the same prompt asked six times put us in the source list
+# twice. One pass reports a coin flip as a fact, so the row records a hit rate instead.
 #
 # Monthly is the right cadence, not weekly. On a new domain, movement takes 8 to 12 weeks,
 # so a single reading says nothing and the series is the measurement.
@@ -18,6 +22,16 @@ on:
     # 05:23 UTC on the 1st (10:53 IST). Off the hour and off midnight, which is the
     # single most congested slot on the Actions shared pool.
     - cron: '23 5 1 * *'
+    # One-off re-measure, 25 September 2026. On 18 September the panel named twelve buying
+    # and practical questions we were losing, and reading our own pages for them turned up
+    # eight real defects: a session length that contradicted itself inside one file, a
+    # contraindications FAQ that published less than the page carried, a running cost three
+    # pages promised and none gave. This run is the test of whether fixing them moved
+    # anything, once Google has had a week to recrawl.
+    #
+    # Cron cannot express "once", so this fires again on 25 September next year. Delete this
+    # line after reading the result; the monthly schedule above is the standing measurement.
+    - cron: '23 5 25 9 *'
   workflow_dispatch:
 
 permissions:
@@ -67,11 +81,13 @@ jobs:
           # The free tier limits requests per minute, and a grounded answer takes several
           # seconds. Unpaced, the run trips the limit two thirds of the way through and the
           # rest of the panel records quota errors instead of answers.
-          GEO_AUDIT_PACE_MS: '9000'
-        # 54 prompts at this pace take about ten minutes. The script now aborts as soon as
-        # a DAILY allowance is refused rather than backing off through it, so a run that
-        # cannot proceed ends in seconds instead of burning the timeout.
-        timeout-minutes: 25
+          GEO_AUDIT_PACE_MS: '6000'
+        # 57 prompts asked three times each is 171 requests, about 30 minutes at this pace.
+        # The old 25 minute timeout was set when a run was one pass of 54 and would now kill
+        # the job two thirds of the way through. The script aborts as soon as a DAILY
+        # allowance is refused rather than backing off through it, so a run that cannot
+        # proceed ends in seconds instead of burning the timeout.
+        timeout-minutes: 45
         # --resume skips prompts already answered in the last week, so a free-tier key that
         # allows about twenty grounded requests a day can finish the panel across sittings
         # instead of re-asking the same opening prompts every time and never reaching the end.
@@ -87,7 +103,7 @@ jobs:
           node scripts/citation-report.mjs --issue || true
           git config user.name  "nighantu-monitor[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/citation-log.csv data/DASHBOARD.md
+          git add data/citation-log*.csv data/DASHBOARD.md
           git commit -m "Citation panel $(date -u +%Y-%m)" || exit 0
           git pull --rebase --autostash origin main || true
           git push origin HEAD:main
