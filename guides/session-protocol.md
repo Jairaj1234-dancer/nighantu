@@ -3,7 +3,7 @@ title: "The Shirodhara session, step by step"
 slug: "session-protocol"
 order: 5
 description: "Preparation, the pour itself, and what happens after."
-answer: "A session runs in four parts: a short head and shoulder abhyanga to warm the tissue, the pour itself with the person supine and the stream falling on the forehead, a rest period with the oil left in the hair, and a delayed wash. The pour is the shortest part to describe and the longest to do well."
+answer: "A session runs in four parts: a short head and shoulder abhyanga to warm the tissue, the pour itself with the person supine and the stream falling on the forehead, a rest period with the oil left in the hair, and a delayed wash. The pour itself runs 30 to 45 minutes and is the shortest part to describe and the longest to do well."
 products: "shirodhara"
 ---
 
@@ -25,6 +25,11 @@ warms the tissue and settles the person before the stream begins.
 The vessel is suspended so the orifice sits roughly four finger-widths, about ten to twelve
 centimetres, above the forehead. Too high and the stream stings; too low and it pools rather
 than flows.
+
+The pour runs 30 to 45 minutes, adjusted to the presentation: nearer 40 to 45 for a
+Vata-predominant picture, 30 to 40 for Pitta, 25 to 30 for Kapha. That is the part of the
+session people underestimate, because holding a stream steady for forty minutes is harder than
+it sounds.
 
 The stream starts on the forehead at the point between the eyebrows. Some schools hold it
 there for the whole session. Others move it slowly side to side across the forehead in a

@@ -6,7 +6,7 @@ description: "When the practice is not appropriate, and what to check before boo
 answer: "Shirodhara is a warm oil application, and the ordinary cautions for external oleation apply: broken or inflamed skin on the scalp and forehead, fever, acute illness, and recent head or neck injury. Pregnancy, high or unstable blood pressure, and any neurological condition warrant clearance from a qualified practitioner first."
 faq:
   - q: "Who should not have Shirodhara?"
-    a: "Anyone with broken, inflamed or infected skin on the scalp or forehead, an acute fever or infection, or a recent head or neck injury should not have it. People who are pregnant, have unstable blood pressure, a neurological condition, or a history of fainting should get clearance from a qualified practitioner first. It is also skipped immediately after a heavy meal and during acute indigestion."
+    a: "Anyone with broken, inflamed or infected skin on the scalp or forehead, an acute fever or infection, or a recent head, neck or facial injury or surgery in that area should not have it. People who are pregnant, have unstable blood pressure, a neurological condition including seizure history, a history of fainting, or a known sensitivity to sesame or to any herb in the formulation should get clearance from a qualified practitioner first. It is also skipped immediately after a heavy meal and during acute indigestion."
   - q: "Is Shirodhara safe during pregnancy?"
     a: "It is not automatically ruled out, but it is not something to self-administer during pregnancy. Positioning, session length, oil selection and temperature all need adjusting, and some herbs used in shirodhara tailas are avoided. Ask a qualified Ayurvedic practitioner who knows your history."
 ---

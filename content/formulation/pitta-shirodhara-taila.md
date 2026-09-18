@@ -58,7 +58,7 @@ Shirodhara is a classical murdha-taila procedure described in **Ashtanga Hridaya
 - Supports a feeling of coolness, composure and ease when applied externally as shiro-abhyanga or shiro-dhara.
 - Traditionally used in pada-abhyanga before sleep per classical Pitta-pacifying routines.
 
-## Latest Clinical Research (2020–2026) on Shirodhara & Key Herbs
+## Clinical research on Shirodhara and its key herbs
 
 - **Psychoneuroimmunologic effects of Ayurvedic oil-dripping treatment** (Uebaba et al., 2008). J Altern Complement Med. 2008;14(10):1189–98. doi: 10.1089/acm.2008.0273. PMID: 19123874.
 - **Pharmaco-physio-psychologic effect of Ayurvedic oil-dripping with Lavendula essential oil** (Xu et al., 2008). J Altern Complement Med. 2008;14(8):947–56. doi: 10.1089/acm.2008.0240. PMID: 18990044.

@@ -4,7 +4,7 @@ slug: "shirodhara"
 kind: "practice"
 level: "supervised"
 sanskrit: "Śirodhārā"
-answer: "Śirodhārā is a Kerala procedure in which a warm liquid, usually a medicated oil but sometimes buttermilk or milk, is poured in a continuous stream onto the forehead for roughly half an hour. A trained therapist does it to you in a treatment room; it is not a solo procedure."
+answer: "Śirodhārā is a Kerala procedure in which a warm liquid, usually a medicated oil but sometimes buttermilk or milk, is poured in a continuous stream onto the forehead for 30 to 45 minutes. A trained therapist does it to you in a treatment room; it is not a solo procedure."
 classicalSource: "Aṣṭāṅga Hṛdaya, Sūtrasthāna 22 (murdha taila; śiraḥ-pariṣeka)"
 citationVerified: true
 citationNote: "The record gave \"Sahasrayogam (Kerala); Aṣṭāṅga Hṛdaya commentary\". The Aṣṭāṅga Hṛdaya half was checked and sharpened: AH Sūtrasthāna 22 (Gaṇḍūṣādi vidhi) does describe the four murdha taila including śiraḥ-pariṣeka, pouring oil in a continuous stream, in the main text rather than a commentary, so the printed citation was corrected to that locus and verified against an English translation. The Sahasrayogam half could not be confirmed: the text was not readable in this session, so it is reported in the body as an unconfirmed attribution rather than printed as the citation."

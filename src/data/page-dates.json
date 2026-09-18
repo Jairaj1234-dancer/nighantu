@@ -595,7 +595,7 @@
     "modified": "2026-09-18"
   },
   "formulation/kapha-shirodhara-taila": {
-    "hash": "2f343f55180932e2",
+    "hash": "658f8d3190065abe",
     "published": "2026-09-09",
     "modified": "2026-09-18"
   },
@@ -760,7 +760,7 @@
     "modified": "2026-09-18"
   },
   "formulation/pitta-shirodhara-taila": {
-    "hash": "d04662f0928d3095",
+    "hash": "0867e645a37e05c0",
     "published": "2026-09-09",
     "modified": "2026-09-18"
   },
@@ -885,7 +885,7 @@
     "modified": "2026-09-18"
   },
   "formulation/vata-shirodhara-taila": {
-    "hash": "676e45229b0b8fe6",
+    "hash": "38e8ed29197d214f",
     "published": "2026-09-09",
     "modified": "2026-09-18"
   },
@@ -1005,7 +1005,7 @@
     "modified": "2026-09-09"
   },
   "guide/equipment-and-setup": {
-    "hash": "4dda71ebb987a5b0",
+    "hash": "a2618a3b9bfe14e9",
     "published": "2026-09-09",
     "modified": "2026-09-18"
   },
@@ -1035,17 +1035,17 @@
     "modified": "2026-09-18"
   },
   "guide/session-protocol": {
-    "hash": "08613cdc2ac6009e",
+    "hash": "60bbffa1d464c587",
     "published": "2026-09-09",
-    "modified": "2026-09-09"
+    "modified": "2026-09-18"
   },
   "guide/shirodhara": {
-    "hash": "d68ba406a03028a3",
+    "hash": "d47ddd8d5ae0100d",
     "published": "2026-09-09",
-    "modified": "2026-09-09"
+    "modified": "2026-09-18"
   },
   "guide/temperature-and-duration": {
-    "hash": "2fbb7196afb38296",
+    "hash": "5529174f92ed90e2",
     "published": "2026-09-09",
     "modified": "2026-09-18"
   },
@@ -3755,9 +3755,9 @@
     "modified": "2026-09-16"
   },
   "practice/shirodhara": {
-    "hash": "24893c8cd57e92e1",
+    "hash": "0657b48b90e48014",
     "published": "2026-09-16",
-    "modified": "2026-09-16"
+    "modified": "2026-09-18"
   },
   "practice/snehapana": {
     "hash": "dab3c574de2c5f63",

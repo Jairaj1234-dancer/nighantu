@@ -7,7 +7,7 @@ answer: "A clinic gives you a trained operator, an assistant to keep the oil war
 products: "shirodhara"
 faq:
   - q: "Can you do Shirodhara at home?"
-    a: "Yes, and many people do, but not by hand. Pouring from a jug cannot hold an unbroken stream for thirty minutes, and a broken stream defeats the purpose. A home setup needs a suspended vessel with a controlled orifice and a way to catch and return the oil. The genuinely hard parts are keeping the oil at temperature without an assistant, and managing the oil afterwards."
+    a: "Yes, and many people do, but not by hand. Pouring from a jug cannot hold an unbroken stream for thirty minutes, and a broken stream defeats the purpose. A home setup needs a suspended vessel with a controlled orifice, a table with head support, a way to catch and return the oil, and a way to keep it warm. The genuinely hard parts are keeping the oil at temperature without an assistant, and managing the oil afterwards."
   - q: "Is home Shirodhara as good as a clinic session?"
     a: "For a first experience, no. A trained therapist reads the presentation, chooses the oil, controls the stream and manages the aftercare, and that is worth paying for. Home practice earns its value on repetition: a course of daily sessions is where the practice traditionally does its work, and few people will book fourteen consecutive clinic appointments."
 ---
