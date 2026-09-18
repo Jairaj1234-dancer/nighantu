@@ -50,11 +50,20 @@ clinic-grade equipment, but they are a convenience layer over the same procedure
 
 ## Regulatory position
 
-A Shirodhara apparatus is not separately classified as a medical device under India's CDSCO
-Medical Device Rules 2017; it sits under AYUSH guidance as Panchakarma therapy equipment.
-In the United States it would generally fall under the general wellness policy provided no
-medical claims are made, and in the EU it is not specifically classified unless it is
-marketed with therapeutic claims, which would pull it into the Medical Device Regulation.
-The practical consequence is that a Shirodhara device is sold as general wellness equipment,
-and this is a good reason to be sceptical of any vendor advertising it as a treatment for a
-named condition.
+CDSCO has published no classification for Shirodhara or other Panchakarma apparatus, and
+that is not the same as being outside the rules. Since notification S.O. 648(E) took effect
+on 1 April 2020, India's Medical Device Rules apply by intended purpose rather than by list
+membership, so what decides the position is the purpose a manufacturer states, not whether
+the category has been enumerated. There is no AYUSH standard for Panchakarma equipment
+either: the published literature describes that as a gap rather than a regime.
+
+In the United States such a device would generally fall under the FDA's general wellness
+policy, which is enforcement discretion rather than a finding that the product is not a
+device, and which requires both a wellness purpose and low risk. In the EU it stays outside
+the Medical Device Regulation while its manufacturer states no medical purpose. Everywhere, a therapeutic
+claim is what moves it: in India and the EU it brings a product inside medical device
+regulation, and in the United States it removes the FDA's forbearance.
+
+Nothing here is outside regulation altogether: general product safety law, electrical
+compliance and advertising law all still apply. A vendor advertising treatment of a named
+condition is the thing to be sceptical of.
