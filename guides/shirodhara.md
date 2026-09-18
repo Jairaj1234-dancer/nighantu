@@ -31,6 +31,14 @@ liquids, and the choice changes the character of the session:
 | Decoction | Kashaya dhara | Where a specific herbal decoction is indicated |
 | Water infusion | Jala dhara | Simple cooling applications |
 
+Sources disagree on how these map to the doshas, and it is worth knowing that rather than
+being handed one scheme as settled. Some describe buttermilk as the choice for a heated or
+sharp presentation and milk for a depleted one, which is the arrangement above. Others give
+milk for Pitta and buttermilk for Kapha. Medicated oil is the general case in all of them, and
+the formulation rather than the liquid is what is usually varied. Our
+[guide to choosing the oil](/shirodhara/choosing-the-oil/) takes the oil route throughout, and
+the [classical record](/practice/shirodhara/) sets out what the sources actually say.
+
 This guide covers taila dhara throughout, since that is what is practised and sold almost
 everywhere, and notes where the others differ.
 

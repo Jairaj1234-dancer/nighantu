@@ -18,7 +18,9 @@ are adjusted to the presentation.
 ## Temperature
 
 The target is comfortably above body temperature, not hot. The classical instruction is that
-the oil should be *sukhoshna*, pleasantly warm. In practice:
+the oil should be *sukhoshna*, pleasantly warm, and that is as far as the Samhitas go: the
+degree figures below are contemporary clinical convention, not a classical protocol. Treated
+as working ranges rather than as thresholds, they are what practice has settled on:
 
 | Presentation | Working range | Character |
 |---|---|---|

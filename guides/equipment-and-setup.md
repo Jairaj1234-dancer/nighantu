@@ -3,7 +3,7 @@ title: "Shirodhara equipment and setup"
 slug: "equipment-and-setup"
 order: 9
 description: "What a working setup actually needs, in space, kit and cleanup."
-answer: "A working setup needs five things: a vessel with a controlled orifice, a way to suspend it about ten centimetres above the forehead, a table with head support, a catch and return path for the oil, and a way to warm the oil. Everything else is comfort. Budget for the mess as seriously as for the kit."
+answer: "A working setup needs five things: a vessel with a controlled orifice, a way to suspend it ten to twelve centimetres above the forehead, a table with head support, a catch and return path for the oil, and a way to warm the oil. Everything else is comfort. Budget for the mess as seriously as for the kit."
 products: "shirodhara"
 ---
 
