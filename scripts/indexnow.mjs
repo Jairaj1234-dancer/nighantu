@@ -24,7 +24,15 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { loadState, saveState, hash } from './lib/state.mjs';
 
-const KEY = process.env.INDEXNOW_KEY || 'bf9a6ad9a651b9775c941d4fd074a13a';
+/**
+ * The key Bing issued for nighantu.ageayurveda.com when the property was added there.
+ *
+ * IndexNow keys are self-generated and a host may serve several: the previous key,
+ * bf9a6ad9a651b9775c941d4fd074a13a, is still served from public/ and still valid, and is
+ * left in place because the old github.io origin advertised it and anything holding that
+ * location keeps resolving. Submissions use the new one.
+ */
+const KEY = process.env.INDEXNOW_KEY || '48b00b5328104973bf7720049486b654';
 const SITE = (process.env.ATLAS_SITE || 'https://nighantu.ageayurveda.com').replace(/\/$/, '');
 const HOST = new URL(SITE).host;
 const KEY_LOCATION = process.env.INDEXNOW_KEY_LOCATION || `${SITE}/${KEY}.txt`;
