@@ -5,7 +5,7 @@ import Base from '../../layouts/Base.astro';
 // scraper. They were the only content pages carrying no product module at all.
 import ProductModule from '../../components/ProductModule.astro';
 import ReviewCredit from '../../components/ReviewCredit.astro';
-import review from '../../data/review.json';
+import { reviewer, reviewFor } from '../../lib/review';
 import Crumbs from '../../components/Crumbs.astro';
 import CiteThis from '../../components/CiteThis.astro';
 import { getCollection, render } from 'astro:content';
@@ -26,15 +26,15 @@ const canonical = `/practice/${d.slug}/`;
  * reviewedBy on a page a named practitioner actually read. Schema.org carries this and
  * consumers weight it; it is emitted only for the kinds named in src/data/review.json.
  */
-const reviewedBy = {
+const reviewEntry = reviewFor('practice', d.slug);
+const reviewedBy = reviewEntry ? {
   '@type': 'Person',
-  name: review.reviewer.name,
-  honorificSuffix: review.reviewer.qualification,
-  // The affiliation is NOT emitted here. It is heritage-framed, the compliance gate blocks
-  // that on every page but /reviewers/, and this url resolves a consumer to the page that
-  // states it in full along with the scope of what he actually read.
+  name: reviewer.name,
+  honorificSuffix: reviewer.qualification,
+  // The affiliation is NOT emitted here: it is heritage-framed and the compliance gate
+  // blocks that everywhere but /reviewers/, where it sits with the scope of what he read.
   url: abs('/reviewers/'),
-};
+} : undefined;
 
 const modified = (dates as any)[canonical]?.modified ?? (dates as any)[canonical]?.published ?? '';
 
@@ -145,7 +145,7 @@ const jsonld = [
     * do it at home, which is the exact reading the practice page refuses. Nasya is the
     * case in point: its own page says "the record does not support that reading".
     */}
-  <ReviewCredit kind="practice" />
+  <ReviewCredit kind="practice" slug={d.slug} />
 
   {d.level !== 'vaidya-only' && <ProductModule slug={d.slug} />}
 

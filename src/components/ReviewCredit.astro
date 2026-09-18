@@ -1,34 +1,26 @@
 ---
 /**
- * The review credit, shown only on pages a named practitioner actually read.
+ * The review credit, shown only on pages a named practitioner has actually read.
  *
- * This is the one claim on the site that no script can derive, and the one most worth
- * making: answer engines and readers both weight named, credentialled review, and until
- * 18 September 2026 this site had none and said so plainly at /reviewers/.
+ * Scope comes from src/data/review.json via src/lib/review.ts, which resolves a page
+ * against the recorded batches. A page outside every batch renders nothing at all: a herb
+ * page beginning with F has not been reviewed and must not look as though it has.
  *
- * It renders for the reviewed kinds and nothing else. Extending it to the monographs would
- * be the exact dishonesty the reviewers page was written to avoid, so the scope lives in
- * data and the component refuses anything outside it.
- *
- * The affiliation is deliberately not printed here. The compliance gate blocks heritage
- * framing on every published page, and the narrow exemption granted for it covers the
- * reviewers page alone, where the affiliation belongs as a credential a reader can check.
+ * The affiliation is deliberately absent here. The compliance gate blocks heritage framing
+ * on every page but /reviewers/, where it belongs as a credential a reader can check, so
+ * this names the reviewer and links there.
  */
-import review from '../data/review.json';
+import { reviewer, reviewFor, formatReviewDate } from '../lib/review';
 import { rel } from '../lib/site';
 
-interface Props { kind: string }
-const { kind } = Astro.props;
+interface Props { kind: string; slug: string }
+const { kind, slug } = Astro.props;
 
-const r = review as any;
-const applies = (r.scope?.kinds ?? []).includes(kind);
-const on = new Date(`${r.reviewedOn}T00:00:00Z`).toLocaleDateString('en-GB', {
-  day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC',
-});
+const entry = reviewFor(kind, slug);
 ---
-{applies && (
+{entry && (
   <p class="reviewed">
-    Reviewed by <strong>{r.reviewer.name}</strong>, {r.reviewer.qualification}, on {on}.
+    Reviewed by <strong>{reviewer.name}</strong>, {reviewer.qualification}, on {formatReviewDate(entry.reviewedOn)}.
     <a href={rel('/reviewers/')}>What that review covered</a>.
   </p>
 )}

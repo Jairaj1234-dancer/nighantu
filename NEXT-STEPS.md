@@ -203,12 +203,17 @@ Worth knowing before planning more of this:
 
 ## Still open
 
-- ~~A named reviewer.~~ **Partly done, 18 September 2026.** Dr. Awadesh Pratap Singh, BAMS, of
-  the Shree Baidyanath Research Institute reviewed the Shirodhara guide and the practice
-  section, 56 pages, and passed them. Each carries his name and the date, and names him in its
-  structured data; `/reviewers/` states the scope and is the only page allowed to name the
-  institution, since the heritage gate blocks that framing everywhere else. **The ~800
-  monographs remain unreviewed** and are the open front.
+- ~~A named reviewer.~~ **Under way, batch by batch.** Dr. Awadesh Pratap Singh, BAMS, of the
+  Shree Baidyanath Research Institute has passed the Shirodhara guide and the practice section
+  (56 pages) and the herb monographs A to E (125 pages), both on 18 September 2026. Each
+  reviewed page carries his name and the date, and names him in its structured data;
+  `/reviewers/` builds its table from `src/data/review.json` and is the only page allowed to
+  name the institution, since the heritage gate blocks that framing everywhere else.
+  **629 pages remain unreviewed**: 380 herb monographs from F onward, 143 formulations, 53
+  reference entries, 37 instruments, 16 glossary and text pages.
+  **To record the next batch:** add an entry to `src/data/review.json` (`kinds`, optional
+  `slugRange`, `label`, `detail`, `reviewedOn`, `outcome`) and update the unreviewed counts in
+  `src/pages/reviewers.astro`. Nothing else needs touching; the credits follow the data.
 - **Chyawanprash facts.** The classical herb count is contested across sources and the Bhasma in
   pregnancy question is unresolved. Counts are redacted automatically until settled.
 - **The Surya one-pager** still carries the false "only portable Shirodhara device" claim.

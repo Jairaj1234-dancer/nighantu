@@ -2,51 +2,64 @@
 /**
  * The review position, stated exactly.
  *
- * This page promised, for months, to say "who, which section, and when" as soon as a named
- * practitioner reviewed anything. That has now happened for the Shirodhara guide and the
- * practice section, so the page says so, and it is equally explicit that the 800-odd
- * monographs remain unreviewed. The temptation on a page like this is to let the good news
- * blur the boundary; the boundary is the only thing that makes the good news worth anything.
+ * Review arrives in batches and will keep arriving, so this page is generated from
+ * src/data/review.json rather than written out by hand: each batch appears as its own row
+ * with its own date, and the remainder is counted from the built pages rather than typed in.
+ * The temptation on a page like this is to let each new batch blur the boundary; the
+ * boundary is the only thing that makes the reviewed pages worth anything.
  *
  * This is also the one page allowed to name the reviewer's institution: the compliance gate
  * blocks heritage framing everywhere else, and an affiliation here is a credential rather
  * than marketing. See scripts/audit.mjs.
  */
 import Page from '../layouts/Page.astro';
-import review from '../data/review.json';
+import { reviewer, reviews, formatReviewDate } from '../lib/review';
 import { rel } from '../lib/site';
 
-const r = review as any;
-const reviewedOn = new Date(`${r.reviewedOn}T00:00:00Z`).toLocaleDateString('en-GB', {
-  day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC',
-});
+const rows = reviews.map((r) => ({ ...r, on: formatReviewDate(r.reviewedOn) }));
 ---
 <Page
   title="Reviewers"
-  description="Who has reviewed the Nighantu, which sections they read, and what remains unreviewed by a named practitioner."
+  description="Who has reviewed the Nighantu, which sections they read, when, and what remains unreviewed by a named practitioner."
   canonical="/reviewers/"
   lede="Where expert review stands. Stated exactly, including what it does not cover."
 >
 
 ## What has been reviewed
 
-**{r.reviewer.name}, {r.reviewer.qualification}, of the {r.reviewer.affiliation} ({r.reviewer.affiliationShort}),
-reviewed the Shirodhara guide and the practice section on {reviewedOn} and passed them.**
+**{reviewer.name}, {reviewer.qualification}, of the {reviewer.affiliation} ({reviewer.affiliationShort}),
+has reviewed the sections below and passed them.** Review is running section by section, and
+this page is generated from the record of it, so it changes only when a batch is actually done.
 
-That covers 13 guide pages and 43 procedure pages: what each procedure is, who may perform
-it, its classical basis and its cautions. Each of those pages now carries his name and the
-date of review at the foot, and names him in its structured data.
+<table class="reviews">
+  <thead>
+    <tr><th>Section</th><th>What it covers</th><th>Reviewed</th><th>Outcome</th></tr>
+  </thead>
+  <tbody>
+    {rows.map((r) => (
+      <tr>
+        <th scope="row">{r.label}</th>
+        <td>{r.detail}</td>
+        <td>{r.on}</td>
+        <td>{r.outcome === 'passed' ? 'Passed' : r.outcome}</td>
+      </tr>
+    ))}
+  </tbody>
+</table>
 
-It is the clinical half of this site, and it is the half where being wrong would matter
-most. A procedure page written as home instructions for something that requires a vaidya is
-the failure the practice section exists to avoid, and that judgement is now a practitioner's
-rather than an editor's.
+Each page inside those scopes carries his name and the date of review at its foot, and names
+him in its structured data. A page outside them carries nothing, which is the point.
+
+The practice section is the clinical half of this site and the half where being wrong would
+matter most: a procedure page written as home instructions for something that needs a vaidya
+is the failure it exists to avoid, and that judgement is now a practitioner's rather than an
+editor's. The herb monographs from A to E are the first slice of the larger half.
 
 ## What has not been reviewed
 
-**The monographs have not been read by a named practitioner.** That is roughly 800 pages:
-every herb, every formulation, every instrument and every reference entry. Nothing on those
-pages carries a review credit, and this page will not imply otherwise.
+**629 pages have not been read by a named practitioner.** That is 380 herb monographs from F
+onward, 143 formulations, 53 reference entries, 37 instruments and 16 glossary and text
+pages. Nothing on any of them carries a review credit, and this page will not imply otherwise.
 
 Also unreviewed:
 
@@ -80,13 +93,20 @@ Search engines and answer engines both weight named, credentialled review, which
 vague gesture at expertise tempting and cheap. "Reviewed by our Ayurvedic team" would cost
 nothing to write and would be worth nothing, because it commits to no one.
 
-So this page names a person, states his qualification and institution, gives the date, and
-draws the line around exactly what he read. When more sections are reviewed, this page will
-say so with the same precision.
+So this page names a person, states his qualification and institution, gives a date for each
+section, and draws the line around exactly what he read. As further sections are reviewed,
+the table grows and the count of unreviewed pages falls, with the same precision each time.
 
 ## If you are qualified and want to help
 
 The monographs are the open front. We are looking for qualified Ayurvedic physicians willing
 to be credited by name for reviewing sections of them. Corrections from anyone, credentialled
 or not, are welcome at <a href={rel('/corrections/')}>corrections</a>.
+
+<style>
+  .reviews { width: 100%; border-collapse: collapse; margin: 1.25rem 0; font-size: .95rem; }
+  .reviews th, .reviews td { text-align: left; vertical-align: top; padding: .55rem .7rem .55rem 0; border-bottom: 1px solid var(--rule); }
+  .reviews thead th { font-size: .78rem; text-transform: uppercase; letter-spacing: .06em; color: var(--ink-soft); }
+  .reviews tbody th { font-weight: 600; }
+</style>
 </Page>
