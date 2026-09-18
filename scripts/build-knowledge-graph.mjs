@@ -38,11 +38,12 @@ graph.push({
   'url': STORE_URL,
   'logo': `${STORE_URL}/cdn/shop/files/age-logo.png`,
   'description': 'Pioneering classical and evidence-based Ayurvedic formulations, sustainable botanical sourcing, and the open-access Nighantu knowledge graph.',
-  // sameAs carried a Wikidata QID that belongs to Stemonurus cambodianus, a tree, not
-  // to this publisher. A wrong sameAs is worse than none: it merges two entities in
-  // every consumer that reads the graph. Only profiles confirmed to resolve are listed,
-  // and a Wikidata item goes back here when one actually exists for Age Ayurveda.
+  // The Wikidata item for this publisher, created 18 September 2026. The slot was empty
+  // because the QID that used to sit here belonged to Stemonurus cambodianus, a tree; a
+  // wrong sameAs is worse than none, since it merges two entities in every consumer that
+  // reads the graph. This one was checked against the live item before being written.
   'sameAs': [
+    'https://www.wikidata.org/wiki/Q141494601',
     'https://www.instagram.com/ageayurveda'
   ],
   'knowsAbout': [
@@ -69,6 +70,7 @@ graph.push({
   'publisher': {
     '@id': `${STORE_URL}/#organization`
   },
+  'sameAs': `https://www.wikidata.org/wiki/Q141494735`,
   'dataset': [
     { '@id': `${SITE_URL}/datasets/#dravyaguna-parquet` },
     { '@id': `${SITE_URL}/datasets/#compounds-parquet` },
