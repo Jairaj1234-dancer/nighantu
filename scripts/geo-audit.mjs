@@ -157,6 +157,41 @@ if (sampleIdx !== -1 && process.argv[sampleIdx + 1]) {
   if (!isNaN(n)) prompts = PANEL.slice(0, n);
 }
 
+/**
+ * --resume [days]: skip prompts already answered recently, and carry on where the last run
+ * stopped.
+ *
+ * A free-tier key allows roughly twenty grounded requests a day, so a 54-prompt panel takes
+ * three sittings. Without this the second sitting spends its whole allowance re-asking the
+ * prompts the first one already answered, and the panel never finishes. A row counts as an
+ * answer only if it recorded no error, so a prompt refused on quota is asked again.
+ *
+ * The window matters: a reading is a snapshot of a moving index, and stitching one together
+ * from answers weeks apart would not be a snapshot at all. Seven days by default.
+ */
+const resumeIdx = process.argv.indexOf('--resume');
+if (resumeIdx !== -1) {
+  const days = parseInt(process.argv[resumeIdx + 1], 10) || 7;
+  const cutoff = new Date(Date.now() - days * 86400000).toISOString().slice(0, 10);
+  const answered = new Set();
+  try {
+    const rows = fs.readFileSync(LOG, 'utf8').split('\n').slice(1);
+    for (const line of rows) {
+      const cells = line.split('","').map((c) => c.replace(/^"|"$/g, ''));
+      if (cells.length < 6) continue;
+      const [date, , question, , , error] = cells;
+      if (date >= cutoff && !error.trim()) answered.add(question);
+    }
+  } catch { /* no log yet: ask everything */ }
+  const before = prompts.length;
+  prompts = prompts.filter((q) => !answered.has(q));
+  console.log(`resume: ${before - prompts.length} prompt(s) answered in the last ${days} days, ${prompts.length} left to ask`);
+  if (!prompts.length) {
+    console.log('The panel is complete for this window. Nothing to do.');
+    process.exit(0);
+  }
+}
+
 console.log(`Running GEO Citation Audit via [${provider.toUpperCase()}] across ${prompts.length} prompts...`);
 
 async function queryModel(question) {

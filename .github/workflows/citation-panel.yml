@@ -72,7 +72,10 @@ jobs:
         # a DAILY allowance is refused rather than backing off through it, so a run that
         # cannot proceed ends in seconds instead of burning the timeout.
         timeout-minutes: 25
-        run: node scripts/geo-audit.mjs
+        # --resume skips prompts already answered in the last week, so a free-tier key that
+        # allows about twenty grounded requests a day can finish the panel across sittings
+        # instead of re-asking the same opening prompts every time and never reaching the end.
+        run: node scripts/geo-audit.mjs --resume 7
 
       # Runs even when the panel step failed, because a partial panel still holds real
       # answers worth keeping, and the script records no row for a prompt it never asked.
