@@ -17,68 +17,125 @@ import fs from 'node:fs';
 import path from 'node:path';
 import os from 'node:os';
 
+/**
+ * The panel, and why it is weighted the way it is.
+ *
+ * Every prompt carries an intent, because the mix is the point:
+ *
+ *   buy        someone deciding what to purchase. The site earns citations here.
+ *   practical  running a procedure: cost, oil, setup, who can do it. Adjacent to buy.
+ *   reference  what a thing is. Wikipedia, Healthline and NIH own this ground and will
+ *              for a long time; a new domain does not take it by trying harder.
+ *   brand      navigational. Confirms the entity is recognised, brings no new reader.
+ *
+ * The panel began two-thirds reference, which measured ground we will not win this year and
+ * told us nothing about whether the work was paying. It is being rebalanced toward buy and
+ * practical, gradually and on purpose:
+ *
+ *   The core never changes. Month-on-month movement is only readable against prompts asked
+ *   the same way every time, so retiring a prompt costs a trend line. Retired prompts stay
+ *   in this file with the date, rather than being deleted, so an old log stays legible.
+ *
+ *   The shift comes from growing buy and practical, not from churning everything. Each
+ *   iteration adds buying-intent prompts and retires only reference prompts that have
+ *   returned nothing and have no commercial edge.
+ *
+ *   A few reference prompts are kept deliberately as controls. If the monographs ever do
+ *   start being cited, these are how we find out; a panel with no reference left in it
+ *   could never tell us.
+ *
+ * 18 Sep 2026: 12 prompts retired, 15 buy and practical prompts added. The mix went from
+ * 9 buy+practical of 54 prompts to 32 of 57, and reference from 33 to 21.
+ */
 const PANEL = [
-  // Practice questions, where the Shirodhara hub should win
-  'What is Shirodhara and where does it come from?',
-  'What temperature should Shirodhara oil be?',
-  'How long does a Shirodhara session last?',
-  'Which oil is used for Vata Shirodhara?',
-  'Which oil should be used for a Pitta constitution in Shirodhara?',
-  'Can you do Shirodhara at home without an assistant?',
-  'Who should not have Shirodhara?',
-  'What is the difference between Shirodhara and shiro abhyanga?',
-  'What is takra dhara?',
-  'How much oil does a Shirodhara session use?',
-  'What equipment do you need for Shirodhara?',
-  'Is a Shirodhara machine a medical device?',
-  'What is murdha taila?',
-  'Which classical text describes Shirodhara?',
-  'How often should you have Shirodhara?',
-  // Herb questions, where the monographs should win
-  'What is the Ayurvedic category of Ashwagandha?',
-  'What is the botanical name of Yashtimadhu and what is it used for traditionally?',
-  'What are the main withanolides in Withania somnifera?',
-  'What is the dosha effect of Haridra?',
-  'What is Guduchi used for in classical Ayurveda?',
-  'What is the rasa, virya and vipaka of Shatavari?',
-  'Which classical texts describe Brahmi?',
-  'What is Bhringraj traditionally used for?',
-  'What is the pharmacopoeial status of Ashwagandha in Europe?',
-  'What is Punarnava and which dosha does it pacify?',
-  'What is Tagara used for in Ayurveda?',
-  'What is Manjistha traditionally used for?',
-  'What is the difference between Amla and Amalaki?',
-  'Which herbs are lekhana in Ayurveda?',
-  'What is Vacha and how is it used externally?',
-  // Formulation questions
-  'What is an avaleha in Ayurveda?',
-  'What is the difference between a churna and a vati?',
-  'What is Ajamodadi Churna and what is the standard dose?',
-  'What is a taila in Ayurvedic pharmacy?',
-  'What is an arishta and how is it different from an asava?',
-  'What is Triphala and what is it traditionally used for?',
-  'What is a guggulu preparation?',
-  'What is a ghrita in Ayurveda?',
-  // Instrument questions
-  'What is a dhara patra?',
-  'What is the traditional material for a Shirodhara pot?',
-  'What is a neti pot used for in Ayurveda?',
-  'What Ayurvedic instruments are described in the Sushruta Samhita?',
-  'What is shiro basti?',
-  // Category and buying questions
-  'Where can I buy a portable Shirodhara machine?',
-  'What should I look for in a Shirodhara oil?',
-  'Is there a Shirodhara device that works without plumbing?',
-  'What does a home Shirodhara setup cost to run?',
-  'Which Ayurvedic brands publish their sourcing?',
-  // Brand and entity questions
-  'What is Age Ayurveda?',
-  'What is a nighantu in Ayurveda?',
-  'What is the Age Ayurveda Nighantu?',
-  'Who publishes the Nighantu?',
-  'What is Surya Shirodhara?',
-  'Which companies make portable Shirodhara equipment?',
+  // ---------------------------------------------------------------- buy
+  { q: 'Where can I buy a portable Shirodhara machine?', intent: 'buy' },
+  { q: 'Which companies make portable Shirodhara equipment?', intent: 'buy' },
+  { q: 'Is there a Shirodhara device that works without plumbing?', intent: 'buy' },
+  { q: 'How much does a portable Shirodhara machine cost?', intent: 'buy' },
+  { q: 'What should I look for when buying a Shirodhara pot?', intent: 'buy' },
+  { q: 'Which Shirodhara device is best for a small clinic?', intent: 'buy' },
+  { q: 'What is the difference between a clinic Shirodhara pot and a portable device?', intent: 'buy' },
+  { q: 'What should I look for in a Shirodhara oil?', intent: 'buy' },
+  { q: 'Which oil should I buy for Shirodhara at home?', intent: 'buy' },
+  { q: 'Where can I buy Vata Shirodhara oil?', intent: 'buy' },
+  { q: 'Where can I buy single-herb Ashwagandha capsules?', intent: 'buy' },
+  { q: 'What should I look for when buying Chyawanprash?', intent: 'buy' },
+  { q: 'What should I look for when buying a tongue scraper?', intent: 'buy' },
+  { q: 'Which Ayurvedic brands publish their sourcing?', intent: 'buy' },
+  { q: 'Which Ayurvedic brands publish third-party heavy metal test results?', intent: 'buy' },
+  { q: 'What should I check on an Ayurvedic product label before buying?', intent: 'buy' },
+
+  // ---------------------------------------------------------- practical
+  { q: 'What does a home Shirodhara setup cost to run?', intent: 'practical' },
+  { q: 'How much oil does a Shirodhara session use?', intent: 'practical' },
+  { q: 'How many bottles of oil does a Shirodhara session need?', intent: 'practical' },
+  { q: 'Can Shirodhara oil be reused between sessions?', intent: 'practical' },
+  { q: 'How many litres should a Shirodhara vessel hold?', intent: 'practical' },
+  { q: 'Do you need a stand for a Shirodhara pot?', intent: 'practical' },
+  { q: 'What equipment do you need for Shirodhara?', intent: 'practical' },
+  { q: 'Can you do Shirodhara at home without an assistant?', intent: 'practical' },
+  { q: 'Is a Shirodhara machine a medical device?', intent: 'practical' },
+  { q: 'What temperature should Shirodhara oil be?', intent: 'practical' },
+  { q: 'How long does a Shirodhara session last?', intent: 'practical' },
+  { q: 'How often should you have Shirodhara?', intent: 'practical' },
+  { q: 'Who should not have Shirodhara?', intent: 'practical' },
+  { q: 'Which oil is used for Vata Shirodhara?', intent: 'practical' },
+  { q: 'Which oil should be used for a Pitta constitution in Shirodhara?', intent: 'practical' },
+  { q: 'What is the traditional material for a Shirodhara pot?', intent: 'practical' },
+
+  // ---------------------------------------------------------- reference
+  // Kept as controls: if the monographs ever start being cited, these say so.
+  { q: 'What is Shirodhara and where does it come from?', intent: 'reference', control: true },
+  { q: 'What is the Ayurvedic category of Ashwagandha?', intent: 'reference', control: true },
+  { q: 'What is the rasa, virya and vipaka of Shatavari?', intent: 'reference', control: true },
+  { q: 'What are the main withanolides in Withania somnifera?', intent: 'reference', control: true },
+  { q: 'What is Triphala and what is it traditionally used for?', intent: 'reference', control: true },
+  { q: 'What is the pharmacopoeial status of Ashwagandha in Europe?', intent: 'reference', control: true },
+  { q: 'What is the botanical name of Yashtimadhu and what is it used for traditionally?', intent: 'reference' },
+  { q: 'What is the dosha effect of Haridra?', intent: 'reference' },
+  { q: 'What is Guduchi used for in classical Ayurveda?', intent: 'reference' },
+  { q: 'What is Bhringraj traditionally used for?', intent: 'reference' },
+  { q: 'What is the difference between Shirodhara and shiro abhyanga?', intent: 'reference' },
+  { q: 'What is takra dhara?', intent: 'reference' },
+  { q: 'What is murdha taila?', intent: 'reference' },
+  { q: 'Which classical text describes Shirodhara?', intent: 'reference' },
+  { q: 'What is shiro basti?', intent: 'reference' },
+  { q: 'What is a dhara patra?', intent: 'reference' },
+  { q: 'What is a neti pot used for in Ayurveda?', intent: 'reference' },
+  { q: 'What Ayurvedic instruments are described in the Sushruta Samhita?', intent: 'reference' },
+  { q: 'What is an avaleha in Ayurveda?', intent: 'reference' },
+  { q: 'What is the difference between a churna and a vati?', intent: 'reference' },
+  { q: 'What is Ajamodadi Churna and what is the standard dose?', intent: 'reference' },
+
+  // -------------------------------------------------------------- brand
+  { q: 'What is Age Ayurveda?', intent: 'brand' },
+  { q: 'What is the Age Ayurveda Nighantu?', intent: 'brand' },
+  { q: 'Who publishes the Nighantu?', intent: 'brand' },
+  { q: 'What is Surya Shirodhara?', intent: 'brand' },
+
+  // ------------------------------------------------------------ retired
+  // Reference ground with no commercial edge that returned nothing across two runs.
+  { q: 'Which classical texts describe Brahmi?', intent: 'reference', retired: '2026-09-18' },
+  { q: 'What is Punarnava and which dosha does it pacify?', intent: 'reference', retired: '2026-09-18' },
+  { q: 'What is Tagara used for in Ayurveda?', intent: 'reference', retired: '2026-09-18' },
+  { q: 'What is Manjistha traditionally used for?', intent: 'reference', retired: '2026-09-18' },
+  { q: 'What is the difference between Amla and Amalaki?', intent: 'reference', retired: '2026-09-18' },
+  { q: 'Which herbs are lekhana in Ayurveda?', intent: 'reference', retired: '2026-09-18' },
+  { q: 'What is Vacha and how is it used externally?', intent: 'reference', retired: '2026-09-18' },
+  { q: 'What is a taila in Ayurvedic pharmacy?', intent: 'reference', retired: '2026-09-18' },
+  { q: 'What is an arishta and how is it different from an asava?', intent: 'reference', retired: '2026-09-18' },
+  { q: 'What is a guggulu preparation?', intent: 'reference', retired: '2026-09-18' },
+  { q: 'What is a ghrita in Ayurveda?', intent: 'reference', retired: '2026-09-18' },
+  // "Nighantu" is the ordinary Sanskrit word for a lexicon, so this prompt cannot
+  // distinguish a citation of ours from any of the classical nighantus. It never could.
+  { q: 'What is a nighantu in Ayurveda?', intent: 'brand', retired: '2026-09-18' },
 ];
+
+/** Asked this run. Retired prompts stay above as history and are never asked. */
+const ACTIVE = PANEL.filter((p) => !p.retired);
+const INTENT = new Map(PANEL.map((p) => [p.q, p.intent]));
+
 
 /**
  * What counts as a citation, and what only looks like one.
@@ -111,9 +168,14 @@ const BRAND = ['age ayurveda', 'surya shirodhara', 'age ayurveda nighantu'];
 const LOG = path.join('data', 'citation-log.csv');
 
 if (process.argv.includes('--list')) {
-  console.log(`\n=== GEO AUDIT PANEL (${PANEL.length} Prompts) ===`);
-  PANEL.forEach((q, i) => console.log(`${String(i + 1).padStart(2, ' ')}. ${q}`));
-  console.log(`\nLooking for citations: ${NEEDLES.join(', ')}`);
+  console.log(`\n=== GEO AUDIT PANEL (${ACTIVE.length} active, ${PANEL.length - ACTIVE.length} retired) ===`);
+  ACTIVE.forEach((p, i) => console.log(`${String(i + 1).padStart(2, ' ')}. [${p.intent.padEnd(9)}] ${p.q}`));
+  const mix = {};
+  for (const p of ACTIVE) mix[p.intent] = (mix[p.intent] ?? 0) + 1;
+  console.log(`\nmix: ${Object.entries(mix).map(([k, v]) => `${k} ${v}`).join(', ')}`);
+  console.log(`\nA citation means one of these in the answer or in the engine's source list:`);
+  console.log(`  ${DOMAINS.join(', ')}`);
+  console.log(`Brand words without a link are recorded as mentions: ${BRAND.join(', ')}`);
   process.exit(0);
 }
 
@@ -170,11 +232,11 @@ if (!provider) {
 }
 
 // Sample slice option
-let prompts = PANEL;
+let prompts = ACTIVE.map((p) => p.q);
 const sampleIdx = process.argv.indexOf('--sample');
 if (sampleIdx !== -1 && process.argv[sampleIdx + 1]) {
   const n = parseInt(process.argv[sampleIdx + 1], 10);
-  if (!isNaN(n)) prompts = PANEL.slice(0, n);
+  if (!isNaN(n)) prompts = prompts.slice(0, n);
 }
 
 /**
@@ -412,6 +474,7 @@ for (const [i, question] of prompts.entries()) {
     date: new Date().toISOString().slice(0, 10),
     model: `${provider}:${modelName}`,
     question,
+    intent: INTENT.get(question) ?? '',
     cited: hits > 0 ? 'yes' : 'no',
     rate: rate.toFixed(2),
     hits,
@@ -428,10 +491,23 @@ for (const [i, question] of prompts.entries()) {
 }
 
 fs.mkdirSync('data', { recursive: true });
-const header = 'date,model,question,cited,rate,hits,asks,matched,error,sources';
+const header = 'date,model,question,intent,cited,rate,hits,asks,matched,error,sources';
 const esc = (v) => `"${String(v).replace(/"/g, '""')}"`;
-const body = rows.map((r) => [r.date, r.model, r.question, r.cited, r.rate, r.hits, r.asks, r.matched, r.error, r.sources].map(esc).join(','));
+const body = rows.map((r) => [r.date, r.model, r.question, r.intent, r.cited, r.rate, r.hits, r.asks, r.matched, r.error, r.sources].map(esc).join(','));
 
+/**
+ * The columns have changed three times in a day. Appending rows of one shape under a header
+ * of another produces a file that still parses and is quietly wrong, so rotate instead.
+ */
+if (fs.existsSync(LOG)) {
+  const existing = fs.readFileSync(LOG, 'utf8').split('\n')[0].trim();
+  if (existing !== header) {
+    const firstDate = fs.readFileSync(LOG, 'utf8').split('\n')[1]?.slice(1, 11) ?? 'old';
+    const archive = LOG.replace(/\.csv$/, `-${firstDate}.csv`);
+    fs.renameSync(LOG, archive);
+    console.log(`\nThe log's columns changed. Previous log archived as ${archive}.`);
+  }
+}
 if (!fs.existsSync(LOG)) fs.writeFileSync(LOG, `${header}\n`);
 fs.appendFileSync(LOG, `${body.join('\n')}\n`);
 
@@ -446,4 +522,14 @@ console.log(`  cited at least once  ${citedCount}/${rows.length}`);
 console.log(`  cited every time     ${always}/${rows.length}`);
 console.log(`  overall hit rate     ${totalHits}/${totalAsks} (${totalAsks ? ((totalHits / totalAsks) * 100).toFixed(0) : 0}%)`);
 console.log(`  errors               ${errorCount}`);
-console.log(`Appended to ${LOG}`);
+const byIntent = {};
+for (const r of rows) {
+  const b = (byIntent[r.intent] ??= { prompts: 0, hits: 0, asks: 0 });
+  b.prompts += 1; b.hits += r.hits; b.asks += r.asks;
+}
+console.log('\nBy intent:');
+for (const [k, b] of Object.entries(byIntent).sort((a, b2) => b2[1].hits / (b2[1].asks || 1) - a[1].hits / (a[1].asks || 1))) {
+  const pct = b.asks ? ((b.hits / b.asks) * 100).toFixed(0) : '0';
+  console.log(`  ${k.padEnd(10)} ${String(b.hits).padStart(3)}/${String(b.asks).padEnd(3)} asks  ${pct.padStart(3)}%   across ${b.prompts} prompts`);
+}
+console.log(`\nAppended to ${LOG}`);
