@@ -3,7 +3,7 @@ title: "Shirodhara at home or in a clinic"
 slug: "at-home-or-clinic"
 order: 7
 description: "An honest comparison, including the parts that are genuinely hard to do alone."
-answer: "A clinic gives you a trained operator, an assistant to keep the oil warm, and a room built for the mess. At home you get frequency and cost, but you take on three real problems: keeping the stream unbroken, keeping the oil at temperature, and handling half a litre of oil in a room that was not designed for it. Equipment solves the first, partly solves the second, and does not solve the third."
+answer: "A clinic gives you a trained operator, an assistant to keep the oil warm, and a room built for the mess. At home you get frequency and cost, but you take on three real problems: keeping the stream unbroken, keeping the oil at temperature, and handling a litre or more of oil in a room that was not designed for it. Equipment solves the first, partly solves the second, and does not solve the third."
 products: "shirodhara"
 faq:
   - q: "Can you do Shirodhara at home?"
@@ -42,7 +42,8 @@ you either accept a temperature drift over the session, warm the oil to the top 
 the start and let it fall through, or pause and reheat. Closed-loop recirculation helps, because
 the returned oil is still warm, but no manual setup holds a fixed temperature by itself.
 
-**The oil itself.** Half a litre to a litre of sesame oil, a person's hair full of it, a floor
+**The oil itself.** Between half a litre and 1.5 litres of sesame oil depending on the
+apparatus, a person's hair full of it, a floor
 around the table, towels that will need hot washing, and a room that will smell of it. This is
 the part nobody mentions and the part that stops most people repeating it. Plan the cleanup
 before the first session, not after.
