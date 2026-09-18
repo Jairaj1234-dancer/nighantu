@@ -80,13 +80,33 @@ const PANEL = [
   'Which companies make portable Shirodhara equipment?',
 ];
 
-const NEEDLES = [
-  'ageayurveda.com', 'age ayurveda', 'nighantu',
+/**
+ * What counts as a citation, and what only looks like one.
+ *
+ * The first version of this matched any of our words anywhere in the answer, including the
+ * bare word "nighantu". That is a generic Sanskrit term for an Ayurvedic lexicon, so
+ * "What is a nighantu in Ayurveda?" scored as a citation while the model was in fact quoting
+ * seven other sites and had never heard of us. The same trap catches any prompt that names
+ * the brand: ask "What is Age Ayurveda?" and the answer echoes "Age Ayurveda" whatever it
+ * cites. Two of eight recorded citations were this, and an inflated number is worse than no
+ * number, because it points the next month of work at the wrong thing.
+ *
+ * So evidence is now tiered, and only the first tier is a citation:
+ *
+ *   DOMAINS   the site was actually used as a source. Gemini returns its sources in
+ *             groundingMetadata.groundingChunks[].web.title, which holds the domain, so
+ *             this is checked against the source list and the answer text both.
+ *   BRAND     the brand was named in prose with no link. Real signal, but only when the
+ *             question did not hand the model the words, so it is scored per prompt below
+ *             and recorded as a mention rather than a citation.
+ */
+const DOMAINS = [
+  'ageayurveda.com', 'nighantu.ageayurveda.com',
   // The github.io host stays: a citation earned before the move is still a citation,
   // and anything that cached the old URL will keep quoting it for months.
-  'jairaj1234-dancer.github.io/nighantu', 'nighantu.ageayurveda.com',
-  'surya shirodhara',
+  'jairaj1234-dancer.github.io/nighantu',
 ];
+const BRAND = ['age ayurveda', 'surya shirodhara', 'age ayurveda nighantu'];
 
 const LOG = path.join('data', 'citation-log.csv');
 
@@ -213,7 +233,7 @@ async function queryModel(question) {
     });
     const json = await res.json();
     if (!res.ok) throw new Error(json?.error?.message ?? `HTTP ${res.status}`);
-    return { text: JSON.stringify(json.content ?? ''), model };
+    return { text: JSON.stringify(json.content ?? ''), model, sources: [] };
   }
 
   if (provider === 'perplexity') {
@@ -233,7 +253,7 @@ async function queryModel(question) {
     if (!res.ok) throw new Error(json?.error?.message ?? `HTTP ${res.status}`);
     const content = json.choices?.[0]?.message?.content ?? '';
     const citations = (json.citations ?? []).join(' ');
-    return { text: `${content} ${citations}`, model };
+    return { text: `${content} ${citations}`, model, sources: [] };
   }
 
   if (provider === 'openai') {
@@ -251,7 +271,7 @@ async function queryModel(question) {
     });
     const json = await res.json();
     if (!res.ok) throw new Error(json?.error?.message ?? `HTTP ${res.status}`);
-    return { text: json.choices?.[0]?.message?.content ?? '', model };
+    return { text: json.choices?.[0]?.message?.content ?? '', model, sources: [] };
   }
 
   if (provider === 'gemini') {
@@ -276,8 +296,10 @@ async function queryModel(question) {
       const json = await res.json();
       if (res.ok) {
         const parts = json.candidates?.[0]?.content?.parts ?? [];
-        const grounding = JSON.stringify(json.candidates?.[0]?.groundingMetadata ?? {});
-        return { text: `${parts.map((p) => p.text).join(' ')} ${grounding}`, model };
+        const chunks = json.candidates?.[0]?.groundingMetadata?.groundingChunks ?? [];
+        // web.title is the source domain. The uri is a Vertex redirect that hides it.
+        const sources = chunks.map((c) => String(c?.web?.title ?? '').toLowerCase()).filter(Boolean);
+        return { text: parts.map((p) => p.text).join(' '), sources, model };
       }
       const msg = json?.error?.message ?? `HTTP ${res.status}`;
       /**
@@ -316,12 +338,14 @@ for (const [i, question] of prompts.entries()) {
   if (i > 0 && provider === 'gemini') await sleep(PACE_MS);
   process.stdout.write(`[${i + 1}/${prompts.length}] ${question.slice(0, 50)}... `);
   let text = '';
+  let sources = [];
   let modelName = provider;
   let error = '';
 
   try {
     const result = await queryModel(question);
     text = result.text;
+    sources = result.sources ?? [];
     modelName = result.model;
   } catch (e) {
     error = String(e.message ?? e);
@@ -336,27 +360,42 @@ for (const [i, question] of prompts.entries()) {
   }
 
   const hay = text.toLowerCase();
-  const hits = NEEDLES.filter((n) => hay.includes(n));
-  const isCited = hits.length > 0;
+  /**
+   * A brand word only means something if the model produced it unprompted. When the question
+   * already contains it, the answer will repeat it no matter what it cites.
+   */
+  const asked = question.toLowerCase();
+  const inSources = DOMAINS.filter((d) => sources.some((s) => s.includes(d)));
+  const inText = DOMAINS.filter((d) => hay.includes(d));
+  const mentions = BRAND.filter((b) => hay.includes(b) && !asked.includes(b));
+
+  const evidence = [
+    ...inSources.map((d) => `source:${d}`),
+    ...inText.filter((d) => !inSources.includes(d)).map((d) => `text:${d}`),
+    ...mentions.map((b) => `mention:${b}`),
+  ];
+  const isCited = inSources.length > 0 || inText.length > 0;
 
   rows.push({
     date: new Date().toISOString().slice(0, 10),
     model: `${provider}:${modelName}`,
     question,
     cited: isCited ? 'yes' : 'no',
-    matched: hits.join('; '),
+    matched: evidence.join('; '),
+    sources: sources.join('; '),
     error,
   });
 
   if (error) console.log(`ERROR: ${error.slice(0, 80)}`);
-  else if (isCited) console.log(`✅ CITED (${hits.join(', ')})`);
+  else if (isCited) console.log(`✅ CITED (${evidence.join(', ')})`);
+  else if (mentions.length) console.log(`mentioned, not cited (${mentions.join(', ')})`);
   else console.log('not cited');
 }
 
 fs.mkdirSync('data', { recursive: true });
-const header = 'date,model,question,cited,matched,error';
+const header = 'date,model,question,cited,matched,error,sources';
 const esc = (v) => `"${String(v).replace(/"/g, '""')}"`;
-const body = rows.map((r) => [r.date, r.model, r.question, r.cited, r.matched, r.error].map(esc).join(','));
+const body = rows.map((r) => [r.date, r.model, r.question, r.cited, r.matched, r.error, r.sources].map(esc).join(','));
 
 if (!fs.existsSync(LOG)) fs.writeFileSync(LOG, `${header}\n`);
 fs.appendFileSync(LOG, `${body.join('\n')}\n`);
