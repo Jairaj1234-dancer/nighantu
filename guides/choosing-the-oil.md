@@ -29,7 +29,9 @@ formulation compounds *Ashwagandha* (Withania somnifera), *Bala* (Sida cordifoli
 sesame base, sometimes with olive oil as a supporting emollient.
 
 Traditionally used to help soothe a restless, over-active Vata mind, and to support a feeling
-of groundedness and settled prana when applied externally.
+of groundedness and settled prana when applied externally. The full record for this
+formulation, with the complete herb list and its sources, is at
+[Vata Shirodhara Taila](/formulation/vata-shirodhara-taila/).
 
 ### Pitta
 
@@ -40,7 +42,8 @@ Cooling, in a base moderated away from pure sesame. A representative formulation
 base.
 
 Traditionally used to help soothe a heated, sharp, over-focused Pitta mind, and to support a
-feeling of coolness and composure.
+feeling of coolness and composure. The full record is at
+[Pitta Shirodhara Taila](/formulation/pitta-shirodhara-taila/).
 
 ### Kapha
 
@@ -51,7 +54,8 @@ niruri), *Vacha* (Acorus calamus) and *Tulsi* in a sesame base, often with a cin
 aromatic such as eucalyptus.
 
 Traditionally used where the head feels heavy and the senses dull, to support a lighter,
-clearer state.
+clearer state. The full record is at
+[Kapha Shirodhara Taila](/formulation/kapha-shirodhara-taila/).
 
 ## A note on aromatics
 
