@@ -444,6 +444,22 @@ const rows = [];
  */
 const REPS = Math.max(1, Number(process.env.GEO_AUDIT_REPS ?? 3));
 
+/**
+ * A hard ceiling on grounded requests, because billing is capped at Rs 500 a month.
+ *
+ * The arithmetic says we are nowhere near it: grounding is free for the first 1,500 requests a
+ * day, a full 69-prompt run at three asks is 207, and the monthly panel plus a one-off
+ * re-measure comes to 414 in a month. Rs 500 is about $5.70, which at $35 per thousand buys
+ * 162 requests BEYOND the free allowance, so the cap is only reachable at roughly 1,662
+ * requests inside a single day. That is eight full panel runs in 24 hours.
+ *
+ * The guard is not for the expected case. It is for a resume loop, a bad --sample argument or a
+ * scheduled job that fires repeatedly, any of which could quietly run the panel dozens of times
+ * before anyone looked. A spend cap you have to notice is not a cap.
+ */
+const MAX_REQUESTS = Math.max(1, Number(process.env.GEO_AUDIT_MAX_REQUESTS ?? 900));
+let requestsMade = 0;
+
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 // Pace the free tier: roughly ten requests a minute, which is what it allows.
 const PACE_MS = Number(process.env.GEO_AUDIT_PACE_MS ?? 6500);
@@ -493,6 +509,14 @@ for (const [i, question] of prompts.entries()) {
   const urlsSeen = new Set();
 
   for (let rep = 0; rep < REPS; rep += 1) {
+    if (requestsMade >= MAX_REQUESTS) {
+      console.log(`\n\nStopping: hit the ${MAX_REQUESTS}-request ceiling for this run.`);
+      console.log('Rows already asked are on disk. Raise GEO_AUDIT_MAX_REQUESTS deliberately if');
+      console.log('this was intended, and check why a run wanted more than a full panel.');
+      stopped = true;
+      break;
+    }
+    requestsMade += 1;
     if ((i > 0 || rep > 0) && provider === 'gemini') await sleep(PACE_MS);
     let text = '';
     let sources = [];
@@ -536,6 +560,16 @@ for (const [i, question] of prompts.entries()) {
 
   const rate = asks ? hits / asks : 0;
   const evidence = [...evidenceSeen, ...[...mentionsSeen].map((m) => `mention:${m}`)];
+
+  /**
+   * A prompt the run never actually asked gets no row. Recording asks=0 as "not cited" would
+   * read, to anyone opening the log later, as a genuine zero rather than a question that was
+   * skipped when the ceiling or the daily quota stopped the run.
+   */
+  if (!asks && !error) {
+    console.log('skipped (request ceiling reached before asking)');
+    continue;
+  }
 
   rows.push({
     date: new Date().toISOString().slice(0, 10),
