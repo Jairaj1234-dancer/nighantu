@@ -1,0 +1,4001 @@
+{
+  "name": "contract-manufacturing",
+  "date": "2026-09-19",
+  "model": "gemini-2.5-flash",
+  "reps": 1,
+  "questionsAsked": 54,
+  "questionsTotal": 55,
+  "distinctDomains": 328,
+  "domains": [
+    {
+      "domain": "macbiosciences.com",
+      "n": 19,
+      "share": 0.352,
+      "questions": [
+        "Who are the best third party Ayurvedic manufacturers in India?",
+        "Which companies offer contract manufacturing of Ayurvedic products?",
+        "How do I find a third party manufacturer for Ayurvedic supplements?",
+        "What is third party manufacturing in the Ayurvedic industry?",
+        "How does private label Ayurvedic manufacturing work?",
+        "Can I start an Ayurvedic brand without my own factory?",
+        "How do I choose an Ayurvedic contract manufacturer?",
+        "What should I look for in an Ayurvedic contract manufacturing partner?",
+        "What questions should I ask an Ayurvedic manufacturer before signing?",
+        "What are the risks of third party Ayurvedic manufacturing?",
+        "What should be in an Ayurvedic contract manufacturing agreement?",
+        "How is quality controlled in third party Ayurvedic manufacturing?",
+        "What testing should an Ayurvedic manufacturer do on each batch?",
+        "Can a contract manufacturer develop a new Ayurvedic formulation for me?",
+        "Who manufactures Ayurvedic tablets on contract in India?",
+        "Which companies do contract manufacturing of Ayurvedic oils?",
+        "Who does contract manufacturing of Ayurvedic syrups in India?",
+        "Are there Ayurvedic contract manufacturers in Uttar Pradesh?",
+        "How do I compare quotes from Ayurvedic contract manufacturers?"
+      ]
+    },
+    {
+      "domain": "herbalhillswellness.com",
+      "n": 18,
+      "share": 0.333,
+      "questions": [
+        "How do I find a third party manufacturer for Ayurvedic supplements?",
+        "How does private label Ayurvedic manufacturing work?",
+        "Can I start an Ayurvedic brand without my own factory?",
+        "What does it cost to start an Ayurvedic supplement brand in India?",
+        "What should I look for in an Ayurvedic contract manufacturing partner?",
+        "What questions should I ask an Ayurvedic manufacturer before signing?",
+        "How do I verify that an Ayurvedic manufacturer is genuine?",
+        "How can I check if an Ayurvedic manufacturer is licensed?",
+        "How do I audit an Ayurvedic manufacturing facility?",
+        "What certifications should an Ayurvedic manufacturer have?",
+        "What is the minimum order quantity for Ayurvedic contract manufacturing?",
+        "How is quality controlled in third party Ayurvedic manufacturing?",
+        "What testing should an Ayurvedic manufacturer do on each batch?",
+        "How do I get my own Ayurvedic formulation manufactured?",
+        "Can a contract manufacturer develop a new Ayurvedic formulation for me?",
+        "Which Ayurvedic manufacturers export to Europe?",
+        "What is needed to export Ayurvedic supplements from India to the EU?",
+        "What does it take to export Ayurvedic products to the United States?"
+      ]
+    },
+    {
+      "domain": "alicantobiotech.in",
+      "n": 13,
+      "share": 0.241,
+      "questions": [
+        "Who are the best third party Ayurvedic manufacturers in India?",
+        "Which companies offer contract manufacturing of Ayurvedic products?",
+        "How do I find a third party manufacturer for Ayurvedic supplements?",
+        "What is third party manufacturing in the Ayurvedic industry?",
+        "Can I start an Ayurvedic brand without my own factory?",
+        "What should I look for in an Ayurvedic contract manufacturing partner?",
+        "How is pricing structured in Ayurvedic contract manufacturing?",
+        "How do I get my own Ayurvedic formulation manufactured?",
+        "Which manufacturers make Ayurvedic churna for other companies?",
+        "Who does contract manufacturing of Ayurvedic syrups in India?",
+        "Which Indian Ayurvedic manufacturers work with international brands?",
+        "Are there Ayurvedic contract manufacturers in Uttar Pradesh?",
+        "Where are Ayurvedic manufacturing hubs in India?"
+      ]
+    },
+    {
+      "domain": "zoicayurveda.com",
+      "n": 11,
+      "share": 0.204,
+      "questions": [
+        "Who are the best third party Ayurvedic manufacturers in India?",
+        "Can I start an Ayurvedic brand without my own factory?",
+        "What does it cost to start an Ayurvedic supplement brand in India?",
+        "What questions should I ask an Ayurvedic manufacturer before signing?",
+        "What are the risks of third party Ayurvedic manufacturing?",
+        "What certifications should an Ayurvedic manufacturer have?",
+        "How is pricing structured in Ayurvedic contract manufacturing?",
+        "What testing should an Ayurvedic manufacturer do on each batch?",
+        "Who can manufacture Chyawanprash for my brand?",
+        "Is it cheaper to manufacture Ayurvedic products in India?",
+        "What is the difference between an Ayurvedic drug licence and a food supplement licence?"
+      ]
+    },
+    {
+      "domain": "asmaherbals.co.in",
+      "n": 11,
+      "share": 0.204,
+      "questions": [
+        "Who are the best third party Ayurvedic manufacturers in India?",
+        "How do I find a third party manufacturer for Ayurvedic supplements?",
+        "Can I start an Ayurvedic brand without my own factory?",
+        "What is the minimum order quantity for Ayurvedic contract manufacturing?",
+        "What are typical lead times for Ayurvedic contract manufacturing?",
+        "How is quality controlled in third party Ayurvedic manufacturing?",
+        "Can a contract manufacturer develop a new Ayurvedic formulation for me?",
+        "Which Indian manufacturers make Ayurvedic capsules for other brands?",
+        "Who manufactures Ayurvedic tablets on contract in India?",
+        "Which manufacturers make Ayurvedic churna for other companies?",
+        "Who does contract manufacturing of Ayurvedic syrups in India?"
+      ]
+    },
+    {
+      "domain": "ayubalwellness.com",
+      "n": 11,
+      "share": 0.204,
+      "questions": [
+        "Who are the best third party Ayurvedic manufacturers in India?",
+        "Which companies offer contract manufacturing of Ayurvedic products?",
+        "How do I find a third party manufacturer for Ayurvedic supplements?",
+        "What is third party manufacturing in the Ayurvedic industry?",
+        "How does private label Ayurvedic manufacturing work?",
+        "How do I choose an Ayurvedic contract manufacturer?",
+        "What should I look for in an Ayurvedic contract manufacturing partner?",
+        "What questions should I ask an Ayurvedic manufacturer before signing?",
+        "How do I audit an Ayurvedic manufacturing facility?",
+        "How do I get my own Ayurvedic formulation manufactured?",
+        "How do I compare quotes from Ayurvedic contract manufacturers?"
+      ]
+    },
+    {
+      "domain": "polycareherbals.com",
+      "n": 9,
+      "share": 0.167,
+      "questions": [
+        "Which companies offer contract manufacturing of Ayurvedic products?",
+        "What is third party manufacturing in the Ayurvedic industry?",
+        "Can I start an Ayurvedic brand without my own factory?",
+        "What questions should I ask an Ayurvedic manufacturer before signing?",
+        "How do I verify that an Ayurvedic manufacturer is genuine?",
+        "What are the risks of third party Ayurvedic manufacturing?",
+        "How is pricing structured in Ayurvedic contract manufacturing?",
+        "What should be in an Ayurvedic contract manufacturing agreement?",
+        "How do I compare quotes from Ayurvedic contract manufacturers?"
+      ]
+    },
+    {
+      "domain": "alnabiotech.com",
+      "n": 9,
+      "share": 0.167,
+      "questions": [
+        "What is third party manufacturing in the Ayurvedic industry?",
+        "What should I look for in an Ayurvedic contract manufacturing partner?",
+        "What questions should I ask an Ayurvedic manufacturer before signing?",
+        "What are the risks of third party Ayurvedic manufacturing?",
+        "How do I audit an Ayurvedic manufacturing facility?",
+        "What should be in an Ayurvedic contract manufacturing agreement?",
+        "How is quality controlled in third party Ayurvedic manufacturing?",
+        "What testing should an Ayurvedic manufacturer do on each batch?",
+        "How do I compare quotes from Ayurvedic contract manufacturers?"
+      ]
+    },
+    {
+      "domain": "scribd.com",
+      "n": 9,
+      "share": 0.167,
+      "questions": [
+        "What does it cost to start an Ayurvedic supplement brand in India?",
+        "What should I look for in an Ayurvedic contract manufacturing partner?",
+        "What questions should I ask an Ayurvedic manufacturer before signing?",
+        "How do I audit an Ayurvedic manufacturing facility?",
+        "What certifications should an Ayurvedic manufacturer have?",
+        "What is Schedule T in Ayurvedic manufacturing?",
+        "What does a Form 25-D licence cover?",
+        "What should be in an Ayurvedic contract manufacturing agreement?",
+        "What is the difference between an Ayurvedic drug licence and a food supplement licence?"
+      ]
+    },
+    {
+      "domain": "nih.gov",
+      "n": 9,
+      "share": 0.167,
+      "questions": [
+        "What should I look for in an Ayurvedic contract manufacturing partner?",
+        "What are the risks of third party Ayurvedic manufacturing?",
+        "What goes wrong with contract manufacturing of herbal supplements?",
+        "What certifications should an Ayurvedic manufacturer have?",
+        "What should be in an Ayurvedic contract manufacturing agreement?",
+        "How do I get my own Ayurvedic formulation manufactured?",
+        "What does it take to export Ayurvedic products to the United States?",
+        "Is it cheaper to manufacture Ayurvedic products in India?",
+        "What is the difference between an Ayurvedic drug licence and a food supplement licence?"
+      ]
+    },
+    {
+      "domain": "ruhaniherbals.com",
+      "n": 9,
+      "share": 0.167,
+      "questions": [
+        "What should I look for in an Ayurvedic contract manufacturing partner?",
+        "How do I verify that an Ayurvedic manufacturer is genuine?",
+        "What certifications should an Ayurvedic manufacturer have?",
+        "What are typical lead times for Ayurvedic contract manufacturing?",
+        "What should be in an Ayurvedic contract manufacturing agreement?",
+        "How do I get my own Ayurvedic formulation manufactured?",
+        "Which companies do contract manufacturing of Ayurvedic oils?",
+        "Which manufacturers make Ayurvedic churna for other companies?",
+        "Where are Ayurvedic manufacturing hubs in India?"
+      ]
+    },
+    {
+      "domain": "avedaayur.com",
+      "n": 8,
+      "share": 0.148,
+      "questions": [
+        "How do I find a third party manufacturer for Ayurvedic supplements?",
+        "How does private label Ayurvedic manufacturing work?",
+        "How do I choose an Ayurvedic contract manufacturer?",
+        "What should I look for in an Ayurvedic contract manufacturing partner?",
+        "What questions should I ask an Ayurvedic manufacturer before signing?",
+        "What are the risks of third party Ayurvedic manufacturing?",
+        "What goes wrong with contract manufacturing of herbal supplements?",
+        "How do I compare quotes from Ayurvedic contract manufacturers?"
+      ]
+    },
+    {
+      "domain": "cultivatornatural.com",
+      "n": 8,
+      "share": 0.148,
+      "questions": [
+        "What is third party manufacturing in the Ayurvedic industry?",
+        "What does it cost to start an Ayurvedic supplement brand in India?",
+        "How do I verify that an Ayurvedic manufacturer is genuine?",
+        "How do I audit an Ayurvedic manufacturing facility?",
+        "How is pricing structured in Ayurvedic contract manufacturing?",
+        "Which Indian manufacturers make Ayurvedic capsules for other brands?",
+        "What does it take to export Ayurvedic products to the United States?",
+        "Which Indian Ayurvedic manufacturers work with international brands?"
+      ]
+    },
+    {
+      "domain": "ayurvationhealthcare.com",
+      "n": 8,
+      "share": 0.148,
+      "questions": [
+        "How does private label Ayurvedic manufacturing work?",
+        "How do I choose an Ayurvedic contract manufacturer?",
+        "What should I look for in an Ayurvedic contract manufacturing partner?",
+        "How do I verify that an Ayurvedic manufacturer is genuine?",
+        "How do I audit an Ayurvedic manufacturing facility?",
+        "What is the minimum order quantity for Ayurvedic contract manufacturing?",
+        "What testing should an Ayurvedic manufacturer do on each batch?",
+        "How do I compare quotes from Ayurvedic contract manufacturers?"
+      ]
+    },
+    {
+      "domain": "tryambakeayurveda.in",
+      "n": 7,
+      "share": 0.13,
+      "questions": [
+        "What is third party manufacturing in the Ayurvedic industry?",
+        "Can I start an Ayurvedic brand without my own factory?",
+        "How do I choose an Ayurvedic contract manufacturer?",
+        "What should I look for in an Ayurvedic contract manufacturing partner?",
+        "How is quality controlled in third party Ayurvedic manufacturing?",
+        "Who manufactures Ayurvedic tablets on contract in India?",
+        "How do I compare quotes from Ayurvedic contract manufacturers?"
+      ]
+    },
+    {
+      "domain": "ambicoayurvedic.com",
+      "n": 6,
+      "share": 0.111,
+      "questions": [
+        "What is third party manufacturing in the Ayurvedic industry?",
+        "How does private label Ayurvedic manufacturing work?",
+        "How do I choose an Ayurvedic contract manufacturer?",
+        "How is pricing structured in Ayurvedic contract manufacturing?",
+        "How do I get my own Ayurvedic formulation manufactured?",
+        "How do I compare quotes from Ayurvedic contract manufacturers?"
+      ]
+    },
+    {
+      "domain": "nkgabc.com",
+      "n": 6,
+      "share": 0.111,
+      "questions": [
+        "How does private label Ayurvedic manufacturing work?",
+        "How do I verify that an Ayurvedic manufacturer is genuine?",
+        "How do I audit an Ayurvedic manufacturing facility?",
+        "What certifications should an Ayurvedic manufacturer have?",
+        "What is a loan licence in Ayurvedic manufacturing?",
+        "How do I get my own Ayurvedic formulation manufactured?"
+      ]
+    },
+    {
+      "domain": "zoicpharmaceuticals.com",
+      "n": 6,
+      "share": 0.111,
+      "questions": [
+        "Can I start an Ayurvedic brand without my own factory?",
+        "Do I need an AYUSH licence to sell Ayurvedic products under my own brand?",
+        "How do I get my own Ayurvedic formulation manufactured?",
+        "Who can manufacture Chyawanprash for my brand?",
+        "Which manufacturers make Ayurvedic churna for other companies?",
+        "Are there Ayurvedic contract manufacturers in Uttar Pradesh?"
+      ]
+    },
+    {
+      "domain": "ayurwaylifecare.com",
+      "n": 6,
+      "share": 0.111,
+      "questions": [
+        "What should I look for in an Ayurvedic contract manufacturing partner?",
+        "What questions should I ask an Ayurvedic manufacturer before signing?",
+        "What certifications should an Ayurvedic manufacturer have?",
+        "What does GMP certification mean for Ayurvedic products?",
+        "What testing should an Ayurvedic manufacturer do on each batch?",
+        "Which Indian manufacturers make Ayurvedic capsules for other brands?"
+      ]
+    },
+    {
+      "domain": "slideshare.net",
+      "n": 6,
+      "share": 0.111,
+      "questions": [
+        "What should I look for in an Ayurvedic contract manufacturing partner?",
+        "What questions should I ask an Ayurvedic manufacturer before signing?",
+        "What is Schedule T in Ayurvedic manufacturing?",
+        "How is quality controlled in third party Ayurvedic manufacturing?",
+        "How are heavy metals tested in Ayurvedic products?",
+        "What does it take to export Ayurvedic products to the United States?"
+      ]
+    },
+    {
+      "domain": "firstauditor.com",
+      "n": 6,
+      "share": 0.111,
+      "questions": [
+        "How do I verify that an Ayurvedic manufacturer is genuine?",
+        "How can I check if an Ayurvedic manufacturer is licensed?",
+        "What certifications should an Ayurvedic manufacturer have?",
+        "What is an AYUSH manufacturing licence?",
+        "Do I need an AYUSH licence to sell Ayurvedic products under my own brand?",
+        "How long does it take to get an AYUSH manufacturing licence?"
+      ]
+    },
+    {
+      "domain": "kaiherbals.com",
+      "n": 5,
+      "share": 0.093,
+      "questions": [
+        "Which companies offer contract manufacturing of Ayurvedic products?",
+        "How is quality controlled in third party Ayurvedic manufacturing?",
+        "Which companies do contract manufacturing of Ayurvedic oils?",
+        "Who does contract manufacturing of Ayurvedic syrups in India?",
+        "Are there Ayurvedic contract manufacturers in Uttar Pradesh?"
+      ]
+    },
+    {
+      "domain": "nualterherbovet.in",
+      "n": 5,
+      "share": 0.093,
+      "questions": [
+        "What is third party manufacturing in the Ayurvedic industry?",
+        "What should I look for in an Ayurvedic contract manufacturing partner?",
+        "How is pricing structured in Ayurvedic contract manufacturing?",
+        "How is quality controlled in third party Ayurvedic manufacturing?",
+        "How do I compare quotes from Ayurvedic contract manufacturers?"
+      ]
+    },
+    {
+      "domain": "ayurveda-herbs.com",
+      "n": 5,
+      "share": 0.093,
+      "questions": [
+        "How does private label Ayurvedic manufacturing work?",
+        "What should I look for in an Ayurvedic contract manufacturing partner?",
+        "What questions should I ask an Ayurvedic manufacturer before signing?",
+        "How can I check if an Ayurvedic manufacturer is licensed?",
+        "What certifications should an Ayurvedic manufacturer have?"
+      ]
+    },
+    {
+      "domain": "kairaliproducts.in",
+      "n": 5,
+      "share": 0.093,
+      "questions": [
+        "Can I start an Ayurvedic brand without my own factory?",
+        "Which Indian manufacturers make Ayurvedic capsules for other brands?",
+        "Who manufactures Ayurvedic tablets on contract in India?",
+        "Which manufacturers make Ayurvedic churna for other companies?",
+        "Who does contract manufacturing of Ayurvedic syrups in India?"
+      ]
+    },
+    {
+      "domain": "corpbiz.io",
+      "n": 5,
+      "share": 0.093,
+      "questions": [
+        "How do I verify that an Ayurvedic manufacturer is genuine?",
+        "What certifications should an Ayurvedic manufacturer have?",
+        "What is a loan licence in Ayurvedic manufacturing?",
+        "Do I need an AYUSH licence to sell Ayurvedic products under my own brand?",
+        "What is the difference between an Ayurvedic drug licence and a food supplement licence?"
+      ]
+    },
+    {
+      "domain": "fdaconsults.com",
+      "n": 5,
+      "share": 0.093,
+      "questions": [
+        "How can I check if an Ayurvedic manufacturer is licensed?",
+        "What certifications should an Ayurvedic manufacturer have?",
+        "Does a US FDA registered facility mean an Ayurvedic product is FDA approved?",
+        "What does it take to export Ayurvedic products to the United States?",
+        "What is the difference between an Ayurvedic drug licence and a food supplement licence?"
+      ]
+    },
+    {
+      "domain": "ziviherbals.in",
+      "n": 4,
+      "share": 0.074,
+      "questions": [
+        "Which companies offer contract manufacturing of Ayurvedic products?",
+        "Can I start an Ayurvedic brand without my own factory?",
+        "How do I choose an Ayurvedic contract manufacturer?",
+        "How do I get my own Ayurvedic formulation manufactured?"
+      ]
+    },
+    {
+      "domain": "arogyaformulations.com",
+      "n": 4,
+      "share": 0.074,
+      "questions": [
+        "Which companies offer contract manufacturing of Ayurvedic products?",
+        "Can I start an Ayurvedic brand without my own factory?",
+        "What questions should I ask an Ayurvedic manufacturer before signing?",
+        "How is pricing structured in Ayurvedic contract manufacturing?"
+      ]
+    },
+    {
+      "domain": "quora.com",
+      "n": 4,
+      "share": 0.074,
+      "questions": [
+        "What is third party manufacturing in the Ayurvedic industry?",
+        "What is the difference between third party manufacturing and private label?",
+        "What does it cost to start an Ayurvedic supplement brand in India?",
+        "How do I get my own Ayurvedic formulation manufactured?"
+      ]
+    },
+    {
+      "domain": "himpharm.com",
+      "n": 4,
+      "share": 0.074,
+      "questions": [
+        "What is third party manufacturing in the Ayurvedic industry?",
+        "What is the minimum order quantity for Ayurvedic contract manufacturing?",
+        "What are typical lead times for Ayurvedic contract manufacturing?",
+        "How is quality controlled in third party Ayurvedic manufacturing?"
+      ]
+    },
+    {
+      "domain": "ambasthabiotech.com",
+      "n": 4,
+      "share": 0.074,
+      "questions": [
+        "What is third party manufacturing in the Ayurvedic industry?",
+        "How does private label Ayurvedic manufacturing work?",
+        "How is quality controlled in third party Ayurvedic manufacturing?",
+        "How do I get my own Ayurvedic formulation manufactured?"
+      ]
+    },
+    {
+      "domain": "bointernational.net",
+      "n": 4,
+      "share": 0.074,
+      "questions": [
+        "How does private label Ayurvedic manufacturing work?",
+        "Can I start an Ayurvedic brand without my own factory?",
+        "How do I get my own Ayurvedic formulation manufactured?",
+        "Which companies do contract manufacturing of Ayurvedic oils?"
+      ]
+    },
+    {
+      "domain": "asliayurveda.com",
+      "n": 4,
+      "share": 0.074,
+      "questions": [
+        "Can I start an Ayurvedic brand without my own factory?",
+        "How do I audit an Ayurvedic manufacturing facility?",
+        "Which Indian manufacturers make Ayurvedic capsules for other brands?",
+        "Who can manufacture Chyawanprash for my brand?"
+      ]
+    },
+    {
+      "domain": "setindiabiz.com",
+      "n": 4,
+      "share": 0.074,
+      "questions": [
+        "What does it cost to start an Ayurvedic supplement brand in India?",
+        "What is a loan licence in Ayurvedic manufacturing?",
+        "Do I need an AYUSH licence to sell Ayurvedic products under my own brand?",
+        "How long does it take to get an AYUSH manufacturing licence?"
+      ]
+    },
+    {
+      "domain": "enterslice.com",
+      "n": 4,
+      "share": 0.074,
+      "questions": [
+        "How do I verify that an Ayurvedic manufacturer is genuine?",
+        "How can I check if an Ayurvedic manufacturer is licensed?",
+        "What certifications should an Ayurvedic manufacturer have?",
+        "What is the difference between an Ayurvedic drug licence and a food supplement licence?"
+      ]
+    },
+    {
+      "domain": "fda.gov",
+      "n": 4,
+      "share": 0.074,
+      "questions": [
+        "How do I verify that an Ayurvedic manufacturer is genuine?",
+        "What certifications should an Ayurvedic manufacturer have?",
+        "Does a US FDA registered facility mean an Ayurvedic product is FDA approved?",
+        "What does it take to export Ayurvedic products to the United States?"
+      ]
+    },
+    {
+      "domain": "artofvedas.com",
+      "n": 4,
+      "share": 0.074,
+      "questions": [
+        "How do I verify that an Ayurvedic manufacturer is genuine?",
+        "What certifications should an Ayurvedic manufacturer have?",
+        "Which Ayurvedic manufacturers export to Europe?",
+        "What is needed to export Ayurvedic supplements from India to the EU?"
+      ]
+    },
+    {
+      "domain": "mapi.com",
+      "n": 4,
+      "share": 0.074,
+      "questions": [
+        "How do I verify that an Ayurvedic manufacturer is genuine?",
+        "How do I audit an Ayurvedic manufacturing facility?",
+        "What testing should an Ayurvedic manufacturer do on each batch?",
+        "How are heavy metals tested in Ayurvedic products?"
+      ]
+    },
+    {
+      "domain": "pharmafranchisehelp.com",
+      "n": 4,
+      "share": 0.074,
+      "questions": [
+        "How do I audit an Ayurvedic manufacturing facility?",
+        "What is Schedule T in Ayurvedic manufacturing?",
+        "What is the minimum order quantity for Ayurvedic contract manufacturing?",
+        "How is pricing structured in Ayurvedic contract manufacturing?"
+      ]
+    },
+    {
+      "domain": "indiamart.com",
+      "n": 4,
+      "share": 0.074,
+      "questions": [
+        "Who manufactures Ayurvedic tablets on contract in India?",
+        "Which companies do contract manufacturing of Ayurvedic oils?",
+        "Who can manufacture Chyawanprash for my brand?",
+        "Who does contract manufacturing of Ayurvedic syrups in India?"
+      ]
+    },
+    {
+      "domain": "thirdpartymanufacturers.in",
+      "n": 3,
+      "share": 0.056,
+      "questions": [
+        "Who are the best third party Ayurvedic manufacturers in India?",
+        "How do I choose an Ayurvedic contract manufacturer?",
+        "Who does contract manufacturing of Ayurvedic syrups in India?"
+      ]
+    },
+    {
+      "domain": "neutragenhealthcare.com",
+      "n": 3,
+      "share": 0.056,
+      "questions": [
+        "Which companies offer contract manufacturing of Ayurvedic products?",
+        "How do I find a third party manufacturer for Ayurvedic supplements?",
+        "Who manufactures Ayurvedic tablets on contract in India?"
+      ]
+    },
+    {
+      "domain": "mantrust.in",
+      "n": 3,
+      "share": 0.056,
+      "questions": [
+        "What is third party manufacturing in the Ayurvedic industry?",
+        "What are the risks of third party Ayurvedic manufacturing?",
+        "Who manufactures Ayurvedic tablets on contract in India?"
+      ]
+    },
+    {
+      "domain": "phytologix.in",
+      "n": 3,
+      "share": 0.056,
+      "questions": [
+        "What is third party manufacturing in the Ayurvedic industry?",
+        "What is the difference between third party manufacturing and private label?",
+        "Are there Ayurvedic contract manufacturers in Uttar Pradesh?"
+      ]
+    },
+    {
+      "domain": "vantagepointinc.net",
+      "n": 3,
+      "share": 0.056,
+      "questions": [
+        "What is third party manufacturing in the Ayurvedic industry?",
+        "What is an AYUSH manufacturing licence?",
+        "Do I need an AYUSH licence to sell Ayurvedic products under my own brand?"
+      ]
+    },
+    {
+      "domain": "legalcorner.org",
+      "n": 3,
+      "share": 0.056,
+      "questions": [
+        "What is third party manufacturing in the Ayurvedic industry?",
+        "How can I check if an Ayurvedic manufacturer is licensed?",
+        "Do I need an AYUSH licence to sell Ayurvedic products under my own brand?"
+      ]
+    },
+    {
+      "domain": "indofolkwellness.com",
+      "n": 3,
+      "share": 0.056,
+      "questions": [
+        "How does private label Ayurvedic manufacturing work?",
+        "How do I audit an Ayurvedic manufacturing facility?",
+        "What does it take to export Ayurvedic products to the United States?"
+      ]
+    },
+    {
+      "domain": "sageherbals.co",
+      "n": 3,
+      "share": 0.056,
+      "questions": [
+        "How does private label Ayurvedic manufacturing work?",
+        "How is pricing structured in Ayurvedic contract manufacturing?",
+        "What is needed to export Ayurvedic supplements from India to the EU?"
+      ]
+    },
+    {
+      "domain": "humanpharmaciainc.com",
+      "n": 3,
+      "share": 0.056,
+      "questions": [
+        "Can I start an Ayurvedic brand without my own factory?",
+        "What does it cost to start an Ayurvedic supplement brand in India?",
+        "How do I get my own Ayurvedic formulation manufactured?"
+      ]
+    },
+    {
+      "domain": "foodsure.co.in",
+      "n": 3,
+      "share": 0.056,
+      "questions": [
+        "What does it cost to start an Ayurvedic supplement brand in India?",
+        "What is needed to export Ayurvedic supplements from India to the EU?",
+        "What is the difference between an Ayurvedic drug licence and a food supplement licence?"
+      ]
+    },
+    {
+      "domain": "smallworldindia.com",
+      "n": 3,
+      "share": 0.056,
+      "questions": [
+        "What does it cost to start an Ayurvedic supplement brand in India?",
+        "What is needed to export Ayurvedic supplements from India to the EU?",
+        "Is it cheaper to manufacture Ayurvedic products in India?"
+      ]
+    },
+    {
+      "domain": "ayurvedrasayani.com",
+      "n": 3,
+      "share": 0.056,
+      "questions": [
+        "What should I look for in an Ayurvedic contract manufacturing partner?",
+        "What questions should I ask an Ayurvedic manufacturer before signing?",
+        "How is quality controlled in third party Ayurvedic manufacturing?"
+      ]
+    },
+    {
+      "domain": "supplysidesj.com",
+      "n": 3,
+      "share": 0.056,
+      "questions": [
+        "What should I look for in an Ayurvedic contract manufacturing partner?",
+        "What are the risks of third party Ayurvedic manufacturing?",
+        "What goes wrong with contract manufacturing of herbal supplements?"
+      ]
+    },
+    {
+      "domain": "bmj.com",
+      "n": 3,
+      "share": 0.056,
+      "questions": [
+        "How do I verify that an Ayurvedic manufacturer is genuine?",
+        "What certifications should an Ayurvedic manufacturer have?",
+        "What is needed to export Ayurvedic supplements from India to the EU?"
+      ]
+    },
+    {
+      "domain": "researchgate.net",
+      "n": 3,
+      "share": 0.056,
+      "questions": [
+        "What are the risks of third party Ayurvedic manufacturing?",
+        "How do I audit an Ayurvedic manufacturing facility?",
+        "How are heavy metals tested in Ayurvedic products?"
+      ]
+    },
+    {
+      "domain": "ijpsjournal.com",
+      "n": 3,
+      "share": 0.056,
+      "questions": [
+        "What are the risks of third party Ayurvedic manufacturing?",
+        "What goes wrong with contract manufacturing of herbal supplements?",
+        "How do I audit an Ayurvedic manufacturing facility?"
+      ]
+    },
+    {
+      "domain": "pharmadocx.com",
+      "n": 3,
+      "share": 0.056,
+      "questions": [
+        "How do I audit an Ayurvedic manufacturing facility?",
+        "What is Schedule T in Ayurvedic manufacturing?",
+        "What does a Form 25-D licence cover?"
+      ]
+    },
+    {
+      "domain": "cbi.eu",
+      "n": 3,
+      "share": 0.056,
+      "questions": [
+        "What certifications should an Ayurvedic manufacturer have?",
+        "Which Ayurvedic manufacturers export to Europe?",
+        "What is needed to export Ayurvedic supplements from India to the EU?"
+      ]
+    },
+    {
+      "domain": "kerala.gov.in",
+      "n": 3,
+      "share": 0.056,
+      "questions": [
+        "What does GMP certification mean for Ayurvedic products?",
+        "What does a Form 25-D licence cover?",
+        "What is a loan licence in Ayurvedic manufacturing?"
+      ]
+    },
+    {
+      "domain": "corpseed.com",
+      "n": 3,
+      "share": 0.056,
+      "questions": [
+        "What is an AYUSH manufacturing licence?",
+        "Do I need an AYUSH licence to sell Ayurvedic products under my own brand?",
+        "How long does it take to get an AYUSH manufacturing licence?"
+      ]
+    },
+    {
+      "domain": "ahpllabs.com",
+      "n": 3,
+      "share": 0.056,
+      "questions": [
+        "What is the minimum order quantity for Ayurvedic contract manufacturing?",
+        "How is pricing structured in Ayurvedic contract manufacturing?",
+        "Who can manufacture Chyawanprash for my brand?"
+      ]
+    },
+    {
+      "domain": "nbhealthcare.co.in",
+      "n": 3,
+      "share": 0.056,
+      "questions": [
+        "What is a typical MOQ for private label supplements in India?",
+        "Who can manufacture Chyawanprash for my brand?",
+        "Where are Ayurvedic manufacturing hubs in India?"
+      ]
+    },
+    {
+      "domain": "hcpwellness.in",
+      "n": 3,
+      "share": 0.056,
+      "questions": [
+        "What is a typical MOQ for private label supplements in India?",
+        "Which Indian manufacturers make Ayurvedic capsules for other brands?",
+        "Who does contract manufacturing of Ayurvedic syrups in India?"
+      ]
+    },
+    {
+      "domain": "nilindherbals.com",
+      "n": 3,
+      "share": 0.056,
+      "questions": [
+        "Which companies do contract manufacturing of Ayurvedic oils?",
+        "Which Indian Ayurvedic manufacturers work with international brands?",
+        "Where are Ayurvedic manufacturing hubs in India?"
+      ]
+    },
+    {
+      "domain": "komalherbals.com",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "How do I find a third party manufacturer for Ayurvedic supplements?",
+        "What is the minimum order quantity for Ayurvedic contract manufacturing?"
+      ]
+    },
+    {
+      "domain": "abiagaiety.com",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "What is third party manufacturing in the Ayurvedic industry?",
+        "What are the risks of third party Ayurvedic manufacturing?"
+      ]
+    },
+    {
+      "domain": "salasarherbotech.com",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "What is third party manufacturing in the Ayurvedic industry?",
+        "What does it cost to start an Ayurvedic supplement brand in India?"
+      ]
+    },
+    {
+      "domain": "alpexpharma.in",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "What is third party manufacturing in the Ayurvedic industry?",
+        "What is the difference between third party manufacturing and private label?"
+      ]
+    },
+    {
+      "domain": "baronblakeslee.net",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "What is third party manufacturing in the Ayurvedic industry?",
+        "What is the difference between third party manufacturing and private label?"
+      ]
+    },
+    {
+      "domain": "lawinsider.com",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "What is the difference between third party manufacturing and private label?",
+        "What should be in an Ayurvedic contract manufacturing agreement?"
+      ]
+    },
+    {
+      "domain": "pureoilsindia.com",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "How does private label Ayurvedic manufacturing work?",
+        "Which Indian Ayurvedic manufacturers work with international brands?"
+      ]
+    },
+    {
+      "domain": "phytovends.com",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "How does private label Ayurvedic manufacturing work?",
+        "How is pricing structured in Ayurvedic contract manufacturing?"
+      ]
+    },
+    {
+      "domain": "ayushudhnaturals.com",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "Can I start an Ayurvedic brand without my own factory?",
+        "What is the minimum order quantity for Ayurvedic contract manufacturing?"
+      ]
+    },
+    {
+      "domain": "ayuvends.com",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "What does it cost to start an Ayurvedic supplement brand in India?",
+        "Who does contract manufacturing of Ayurvedic syrups in India?"
+      ]
+    },
+    {
+      "domain": "bajajfinserv.in",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "What does it cost to start an Ayurvedic supplement brand in India?",
+        "What is an AYUSH manufacturing licence?"
+      ]
+    },
+    {
+      "domain": "opriyatrending.in",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "What does it cost to start an Ayurvedic supplement brand in India?",
+        "Do I need an AYUSH licence to sell Ayurvedic products under my own brand?"
+      ]
+    },
+    {
+      "domain": "youtube.com",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "What does it cost to start an Ayurvedic supplement brand in India?",
+        "What are the risks of third party Ayurvedic manufacturing?"
+      ]
+    },
+    {
+      "domain": "sanskarayush.in",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "What does it cost to start an Ayurvedic supplement brand in India?",
+        "Is it cheaper to manufacture Ayurvedic products in India?"
+      ]
+    },
+    {
+      "domain": "shelmaklifesciences.com",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "What does it cost to start an Ayurvedic supplement brand in India?",
+        "Who does contract manufacturing of Ayurvedic syrups in India?"
+      ]
+    },
+    {
+      "domain": "getwellbiocare.com",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "How do I choose an Ayurvedic contract manufacturer?",
+        "What should I look for in an Ayurvedic contract manufacturing partner?"
+      ]
+    },
+    {
+      "domain": "rigilhealthcare.com",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "How do I choose an Ayurvedic contract manufacturer?",
+        "What questions should I ask an Ayurvedic manufacturer before signing?"
+      ]
+    },
+    {
+      "domain": "gtbcosmetics.com",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "What should I look for in an Ayurvedic contract manufacturing partner?",
+        "How is quality controlled in third party Ayurvedic manufacturing?"
+      ]
+    },
+    {
+      "domain": "ijirl.com",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "What should I look for in an Ayurvedic contract manufacturing partner?",
+        "What are the risks of third party Ayurvedic manufacturing?"
+      ]
+    },
+    {
+      "domain": "expodite.in",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "What questions should I ask an Ayurvedic manufacturer before signing?",
+        "What certifications should an Ayurvedic manufacturer have?"
+      ]
+    },
+    {
+      "domain": "itclabs.com",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "How do I audit an Ayurvedic manufacturing facility?",
+        "What testing should an Ayurvedic manufacturer do on each batch?"
+      ]
+    },
+    {
+      "domain": "bscg.org",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "What does GMP certification mean for Ayurvedic products?",
+        "What is the difference between GMP and WHO-GMP certification?"
+      ]
+    },
+    {
+      "domain": "suncareformulations.com",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "What is the difference between GMP and WHO-GMP certification?",
+        "Which Indian Ayurvedic manufacturers work with international brands?"
+      ]
+    },
+    {
+      "domain": "cosmeticsregulatory.com",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "What is an AYUSH manufacturing licence?",
+        "How long does it take to get an AYUSH manufacturing licence?"
+      ]
+    },
+    {
+      "domain": "genzcfo.com",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "Do I need an AYUSH licence to sell Ayurvedic products under my own brand?",
+        "What is the difference between an Ayurvedic drug licence and a food supplement licence?"
+      ]
+    },
+    {
+      "domain": "bhattandjoshiassociates.com",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "Do I need an AYUSH licence to sell Ayurvedic products under my own brand?",
+        "What is the difference between an Ayurvedic drug licence and a food supplement licence?"
+      ]
+    },
+    {
+      "domain": "kairaliproducts.com",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "What is the minimum order quantity for Ayurvedic contract manufacturing?",
+        "How do I compare quotes from Ayurvedic contract manufacturers?"
+      ]
+    },
+    {
+      "domain": "jnhub.com",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "What is a typical MOQ for private label supplements in India?",
+        "Can a contract manufacturer develop a new Ayurvedic formulation for me?"
+      ]
+    },
+    {
+      "domain": "sarawestusa.com",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "What are typical lead times for Ayurvedic contract manufacturing?",
+        "Who owns the formulation in a contract manufacturing agreement?"
+      ]
+    },
+    {
+      "domain": "daeryunlaw.com",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "Who owns the formulation in a contract manufacturing agreement?",
+        "What should be in an Ayurvedic contract manufacturing agreement?"
+      ]
+    },
+    {
+      "domain": "pib.gov.in",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "What should be in an Ayurvedic contract manufacturing agreement?",
+        "What is the difference between an Ayurvedic drug licence and a food supplement licence?"
+      ]
+    },
+    {
+      "domain": "mohtawellness.com",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "How is quality controlled in third party Ayurvedic manufacturing?",
+        "What testing should an Ayurvedic manufacturer do on each batch?"
+      ]
+    },
+    {
+      "domain": "earthssoulayurveda.com",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "Which Indian manufacturers make Ayurvedic capsules for other brands?",
+        "Which companies do contract manufacturing of Ayurvedic oils?"
+      ]
+    },
+    {
+      "domain": "richberghealthcare.in",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "Who manufactures Ayurvedic tablets on contract in India?",
+        "Which manufacturers make Ayurvedic churna for other companies?"
+      ]
+    },
+    {
+      "domain": "petalhealthcare.org",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "Who manufactures Ayurvedic tablets on contract in India?",
+        "Where are Ayurvedic manufacturing hubs in India?"
+      ]
+    },
+    {
+      "domain": "netyex.com",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "Which Ayurvedic manufacturers export to Europe?",
+        "What is needed to export Ayurvedic supplements from India to the EU?"
+      ]
+    },
+    {
+      "domain": "foodresearchlab.com",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "How do I compare quotes from Ayurvedic contract manufacturers?",
+        "What is the difference between an Ayurvedic drug licence and a food supplement licence?"
+      ]
+    },
+    {
+      "domain": "easyayurveda.com",
+      "n": 2,
+      "share": 0.037,
+      "questions": [
+        "Is it cheaper to manufacture Ayurvedic products in India?",
+        "What is the difference between an Ayurvedic drug licence and a food supplement licence?"
+      ]
+    },
+    {
+      "domain": "wixsite.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Who are the best third party Ayurvedic manufacturers in India?"
+      ]
+    },
+    {
+      "domain": "inbiotaherbs.in",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Who are the best third party Ayurvedic manufacturers in India?"
+      ]
+    },
+    {
+      "domain": "biofrankpharma.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Who are the best third party Ayurvedic manufacturers in India?"
+      ]
+    },
+    {
+      "domain": "sadatan.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Who are the best third party Ayurvedic manufacturers in India?"
+      ]
+    },
+    {
+      "domain": "kudosayurveda.co.in",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Who are the best third party Ayurvedic manufacturers in India?"
+      ]
+    },
+    {
+      "domain": "botanicsupplements.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How do I find a third party manufacturer for Ayurvedic supplements?"
+      ]
+    },
+    {
+      "domain": "peakfinitylabs.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How do I find a third party manufacturer for Ayurvedic supplements?"
+      ]
+    },
+    {
+      "domain": "nutrikal.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How do I find a third party manufacturer for Ayurvedic supplements?"
+      ]
+    },
+    {
+      "domain": "wonnda.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How do I find a third party manufacturer for Ayurvedic supplements?"
+      ]
+    },
+    {
+      "domain": "natureland.eu",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How do I find a third party manufacturer for Ayurvedic supplements?"
+      ]
+    },
+    {
+      "domain": "evivita.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How do I find a third party manufacturer for Ayurvedic supplements?"
+      ]
+    },
+    {
+      "domain": "dronania.de",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How do I find a third party manufacturer for Ayurvedic supplements?"
+      ]
+    },
+    {
+      "domain": "tymk.world",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How do I find a third party manufacturer for Ayurvedic supplements?"
+      ]
+    },
+    {
+      "domain": "shahipharmaindia.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is third party manufacturing in the Ayurvedic industry?"
+      ]
+    },
+    {
+      "domain": "paranorma.in",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is third party manufacturing in the Ayurvedic industry?"
+      ]
+    },
+    {
+      "domain": "netsuite.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is the difference between third party manufacturing and private label?"
+      ]
+    },
+    {
+      "domain": "bigcommerce.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is the difference between third party manufacturing and private label?"
+      ]
+    },
+    {
+      "domain": "wikipedia.org",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is the difference between third party manufacturing and private label?"
+      ]
+    },
+    {
+      "domain": "restaurantware.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is the difference between third party manufacturing and private label?"
+      ]
+    },
+    {
+      "domain": "indeed.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is the difference between third party manufacturing and private label?"
+      ]
+    },
+    {
+      "domain": "awilkebranding.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How does private label Ayurvedic manufacturing work?"
+      ]
+    },
+    {
+      "domain": "purshveda.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Can I start an Ayurvedic brand without my own factory?"
+      ]
+    },
+    {
+      "domain": "haridevformulations.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Can I start an Ayurvedic brand without my own factory?"
+      ]
+    },
+    {
+      "domain": "vindcare.in",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Can I start an Ayurvedic brand without my own factory?"
+      ]
+    },
+    {
+      "domain": "ellanveda.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Can I start an Ayurvedic brand without my own factory?"
+      ]
+    },
+    {
+      "domain": "biofril.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What does it cost to start an Ayurvedic supplement brand in India?"
+      ]
+    },
+    {
+      "domain": "lebenformulation.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What does it cost to start an Ayurvedic supplement brand in India?"
+      ]
+    },
+    {
+      "domain": "registerkaro.in",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What does it cost to start an Ayurvedic supplement brand in India?"
+      ]
+    },
+    {
+      "domain": "flavorcatalyst.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What does it cost to start an Ayurvedic supplement brand in India?"
+      ]
+    },
+    {
+      "domain": "foodlicenseindia.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What does it cost to start an Ayurvedic supplement brand in India?"
+      ]
+    },
+    {
+      "domain": "bankbazaar.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What does it cost to start an Ayurvedic supplement brand in India?"
+      ]
+    },
+    {
+      "domain": "exportersindia.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What does it cost to start an Ayurvedic supplement brand in India?"
+      ]
+    },
+    {
+      "domain": "orisonpharmaceutical.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What should I look for in an Ayurvedic contract manufacturing partner?"
+      ]
+    },
+    {
+      "domain": "frontropharma.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What should I look for in an Ayurvedic contract manufacturing partner?"
+      ]
+    },
+    {
+      "domain": "livejournal.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What should I look for in an Ayurvedic contract manufacturing partner?"
+      ]
+    },
+    {
+      "domain": "jetir.org",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What should I look for in an Ayurvedic contract manufacturing partner?"
+      ]
+    },
+    {
+      "domain": "herbalchakra.in",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What should I look for in an Ayurvedic contract manufacturing partner?"
+      ]
+    },
+    {
+      "domain": "ovid.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What should I look for in an Ayurvedic contract manufacturing partner?"
+      ]
+    },
+    {
+      "domain": "abhijitbhand.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What should I look for in an Ayurvedic contract manufacturing partner?"
+      ]
+    },
+    {
+      "domain": "vedicventures.ca",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What questions should I ask an Ayurvedic manufacturer before signing?"
+      ]
+    },
+    {
+      "domain": "ayurvedaholic.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How do I verify that an Ayurvedic manufacturer is genuine?"
+      ]
+    },
+    {
+      "domain": "bellaallnatural.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How do I verify that an Ayurvedic manufacturer is genuine?"
+      ]
+    },
+    {
+      "domain": "hlsassociates.in",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How can I check if an Ayurvedic manufacturer is licensed?"
+      ]
+    },
+    {
+      "domain": "delltech.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How can I check if an Ayurvedic manufacturer is licensed?"
+      ]
+    },
+    {
+      "domain": "catie.ca",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How can I check if an Ayurvedic manufacturer is licensed?"
+      ]
+    },
+    {
+      "domain": "canada.ca",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How can I check if an Ayurvedic manufacturer is licensed?"
+      ]
+    },
+    {
+      "domain": "d4commerce.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How can I check if an Ayurvedic manufacturer is licensed?"
+      ]
+    },
+    {
+      "domain": "business-standard.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How can I check if an Ayurvedic manufacturer is licensed?"
+      ]
+    },
+    {
+      "domain": "kingsmead-service.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How can I check if an Ayurvedic manufacturer is licensed?"
+      ]
+    },
+    {
+      "domain": "parliament.uk",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How can I check if an Ayurvedic manufacturer is licensed?"
+      ]
+    },
+    {
+      "domain": "www.gov.uk",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How can I check if an Ayurvedic manufacturer is licensed?"
+      ]
+    },
+    {
+      "domain": "pharmastate.academy",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How can I check if an Ayurvedic manufacturer is licensed?"
+      ]
+    },
+    {
+      "domain": "hindujagruti.org",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What are the risks of third party Ayurvedic manufacturing?"
+      ]
+    },
+    {
+      "domain": "ayurvitewellness.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What are the risks of third party Ayurvedic manufacturing?"
+      ]
+    },
+    {
+      "domain": "monarkbiocare.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What are the risks of third party Ayurvedic manufacturing?"
+      ]
+    },
+    {
+      "domain": "pharmtech.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What are the risks of third party Ayurvedic manufacturing?"
+      ]
+    },
+    {
+      "domain": "jahm.co.in",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What are the risks of third party Ayurvedic manufacturing?"
+      ]
+    },
+    {
+      "domain": "healthwisepharma.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What are the risks of third party Ayurvedic manufacturing?"
+      ]
+    },
+    {
+      "domain": "advancedsupplements.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What goes wrong with contract manufacturing of herbal supplements?"
+      ]
+    },
+    {
+      "domain": "nutritionaloutlook.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What goes wrong with contract manufacturing of herbal supplements?"
+      ]
+    },
+    {
+      "domain": "contractpharma.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What goes wrong with contract manufacturing of herbal supplements?"
+      ]
+    },
+    {
+      "domain": "awglaw.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What goes wrong with contract manufacturing of herbal supplements?"
+      ]
+    },
+    {
+      "domain": "nutraceuticalsworld.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What goes wrong with contract manufacturing of herbal supplements?"
+      ]
+    },
+    {
+      "domain": "summitrxusa.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What goes wrong with contract manufacturing of herbal supplements?"
+      ]
+    },
+    {
+      "domain": "aurab2b.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What goes wrong with contract manufacturing of herbal supplements?"
+      ]
+    },
+    {
+      "domain": "biosereneinc.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What goes wrong with contract manufacturing of herbal supplements?"
+      ]
+    },
+    {
+      "domain": "pharmatutor.org",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How do I audit an Ayurvedic manufacturing facility?"
+      ]
+    },
+    {
+      "domain": "sanjivananusandhan.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How do I audit an Ayurvedic manufacturing facility?"
+      ]
+    },
+    {
+      "domain": "clicarity.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How do I audit an Ayurvedic manufacturing facility?"
+      ]
+    },
+    {
+      "domain": "northindialifesciences.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How do I audit an Ayurvedic manufacturing facility?"
+      ]
+    },
+    {
+      "domain": "prezi.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How do I audit an Ayurvedic manufacturing facility?"
+      ]
+    },
+    {
+      "domain": "gcrs.co.uk",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What certifications should an Ayurvedic manufacturer have?"
+      ]
+    },
+    {
+      "domain": "trustworksmfg.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What does GMP certification mean for Ayurvedic products?"
+      ]
+    },
+    {
+      "domain": "legalraasta.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What does GMP certification mean for Ayurvedic products?"
+      ]
+    },
+    {
+      "domain": "igmpi.ac.in",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What does GMP certification mean for Ayurvedic products?"
+      ]
+    },
+    {
+      "domain": "avnlifesciences.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is the difference between GMP and WHO-GMP certification?"
+      ]
+    },
+    {
+      "domain": "trainwithcobblestone.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is the difference between GMP and WHO-GMP certification?"
+      ]
+    },
+    {
+      "domain": "foodready.ai",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is the difference between GMP and WHO-GMP certification?"
+      ]
+    },
+    {
+      "domain": "cfpie.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is the difference between GMP and WHO-GMP certification?"
+      ]
+    },
+    {
+      "domain": "scotwinhealthcare.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is the difference between GMP and WHO-GMP certification?"
+      ]
+    },
+    {
+      "domain": "aprazerhealthcare.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is the difference between GMP and WHO-GMP certification?"
+      ]
+    },
+    {
+      "domain": "gmpguideline.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is the difference between GMP and WHO-GMP certification?"
+      ]
+    },
+    {
+      "domain": "rklifecare.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is the difference between GMP and WHO-GMP certification?"
+      ]
+    },
+    {
+      "domain": "drhpharma.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is the difference between GMP and WHO-GMP certification?"
+      ]
+    },
+    {
+      "domain": "intralabs.in",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is the difference between GMP and WHO-GMP certification?"
+      ]
+    },
+    {
+      "domain": "dkenterprises.in",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is the difference between GMP and WHO-GMP certification?"
+      ]
+    },
+    {
+      "domain": "pharmafranchisehelp.org",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is Schedule T in Ayurvedic manufacturing?"
+      ]
+    },
+    {
+      "domain": "ajptonline.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is Schedule T in Ayurvedic manufacturing?"
+      ]
+    },
+    {
+      "domain": "athwise.in",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is an AYUSH manufacturing licence?"
+      ]
+    },
+    {
+      "domain": "dfcojk.org",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What does a Form 25-D licence cover?"
+      ]
+    },
+    {
+      "domain": "wordpress.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What does a Form 25-D licence cover?"
+      ]
+    },
+    {
+      "domain": "parivahan.gov.in",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What does a Form 25-D licence cover?"
+      ]
+    },
+    {
+      "domain": "velnexmedicare.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is a loan licence in Ayurvedic manufacturing?"
+      ]
+    },
+    {
+      "domain": "certpedia.in",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is a loan licence in Ayurvedic manufacturing?"
+      ]
+    },
+    {
+      "domain": "servicesplus.in",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is a loan licence in Ayurvedic manufacturing?"
+      ]
+    },
+    {
+      "domain": "eltcorporate.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Do I need an AYUSH licence to sell Ayurvedic products under my own brand?"
+      ]
+    },
+    {
+      "domain": "advisocompliance.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Do I need an AYUSH licence to sell Ayurvedic products under my own brand?"
+      ]
+    },
+    {
+      "domain": "biatconsultant.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Do I need an AYUSH licence to sell Ayurvedic products under my own brand?"
+      ]
+    },
+    {
+      "domain": "vikaspedia.in",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Do I need an AYUSH licence to sell Ayurvedic products under my own brand?"
+      ]
+    },
+    {
+      "domain": "caanytime.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How long does it take to get an AYUSH manufacturing licence?"
+      ]
+    },
+    {
+      "domain": "ideagen.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is ISO 9001 certification worth for a supplement manufacturer?"
+      ]
+    },
+    {
+      "domain": "qualitymag.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is ISO 9001 certification worth for a supplement manufacturer?"
+      ]
+    },
+    {
+      "domain": "nutreebio.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is ISO 9001 certification worth for a supplement manufacturer?"
+      ]
+    },
+    {
+      "domain": "oemsupplementmaker.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is ISO 9001 certification worth for a supplement manufacturer?"
+      ]
+    },
+    {
+      "domain": "simpleque.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is ISO 9001 certification worth for a supplement manufacturer?"
+      ]
+    },
+    {
+      "domain": "americanglobal.org",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is ISO 9001 certification worth for a supplement manufacturer?"
+      ]
+    },
+    {
+      "domain": "p3logiq.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is ISO 9001 certification worth for a supplement manufacturer?"
+      ]
+    },
+    {
+      "domain": "alibaba.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is ISO 9001 certification worth for a supplement manufacturer?"
+      ]
+    },
+    {
+      "domain": "cloudtheapp.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Does a US FDA registered facility mean an Ayurvedic product is FDA approved?"
+      ]
+    },
+    {
+      "domain": "materialtruths.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Does a US FDA registered facility mean an Ayurvedic product is FDA approved?"
+      ]
+    },
+    {
+      "domain": "thefdaexpert.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Does a US FDA registered facility mean an Ayurvedic product is FDA approved?"
+      ]
+    },
+    {
+      "domain": "itbholdingsllc.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Does a US FDA registered facility mean an Ayurvedic product is FDA approved?"
+      ]
+    },
+    {
+      "domain": "fdaspecialist.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Does a US FDA registered facility mean an Ayurvedic product is FDA approved?"
+      ]
+    },
+    {
+      "domain": "uvbmedical.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Does a US FDA registered facility mean an Ayurvedic product is FDA approved?"
+      ]
+    },
+    {
+      "domain": "garg-law.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Does a US FDA registered facility mean an Ayurvedic product is FDA approved?"
+      ]
+    },
+    {
+      "domain": "registrarcorp.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Does a US FDA registered facility mean an Ayurvedic product is FDA approved?"
+      ]
+    },
+    {
+      "domain": "ayurvedanama.org",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Does a US FDA registered facility mean an Ayurvedic product is FDA approved?"
+      ]
+    },
+    {
+      "domain": "marketresearchfuture.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Does a US FDA registered facility mean an Ayurvedic product is FDA approved?"
+      ]
+    },
+    {
+      "domain": "eximnest.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is a typical MOQ for private label supplements in India?"
+      ]
+    },
+    {
+      "domain": "chkindustries.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is a typical MOQ for private label supplements in India?"
+      ]
+    },
+    {
+      "domain": "puresourcenutritions.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is a typical MOQ for private label supplements in India?"
+      ]
+    },
+    {
+      "domain": "privatelabelnutrition.in",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is a typical MOQ for private label supplements in India?"
+      ]
+    },
+    {
+      "domain": "infylifescience.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is a typical MOQ for private label supplements in India?"
+      ]
+    },
+    {
+      "domain": "inventoryready.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What are typical lead times for Ayurvedic contract manufacturing?"
+      ]
+    },
+    {
+      "domain": "uniwelllabs.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What are typical lead times for Ayurvedic contract manufacturing?"
+      ]
+    },
+    {
+      "domain": "cskbiotech.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What are typical lead times for Ayurvedic contract manufacturing?"
+      ]
+    },
+    {
+      "domain": "imarcgroup.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How is pricing structured in Ayurvedic contract manufacturing?"
+      ]
+    },
+    {
+      "domain": "privatelabelmanufacturing.biz",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How is pricing structured in Ayurvedic contract manufacturing?"
+      ]
+    },
+    {
+      "domain": "msl.io",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Who owns the formulation in a contract manufacturing agreement?"
+      ]
+    },
+    {
+      "domain": "healthandbeautypartners.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Who owns the formulation in a contract manufacturing agreement?"
+      ]
+    },
+    {
+      "domain": "freelanceformulations.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Who owns the formulation in a contract manufacturing agreement?"
+      ]
+    },
+    {
+      "domain": "epgdlaw.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Who owns the formulation in a contract manufacturing agreement?"
+      ]
+    },
+    {
+      "domain": "respectmanufacturing.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Who owns the formulation in a contract manufacturing agreement?"
+      ]
+    },
+    {
+      "domain": "deskera.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Who owns the formulation in a contract manufacturing agreement?"
+      ]
+    },
+    {
+      "domain": "gtsetu.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Who owns the formulation in a contract manufacturing agreement?"
+      ]
+    },
+    {
+      "domain": "westlaw.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Who owns the formulation in a contract manufacturing agreement?"
+      ]
+    },
+    {
+      "domain": "legalvision.com.au",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Who owns the formulation in a contract manufacturing agreement?"
+      ]
+    },
+    {
+      "domain": "sederlaw.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What should be in an Ayurvedic contract manufacturing agreement?"
+      ]
+    },
+    {
+      "domain": "leahai.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What should be in an Ayurvedic contract manufacturing agreement?"
+      ]
+    },
+    {
+      "domain": "nutraingredients.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What should be in an Ayurvedic contract manufacturing agreement?"
+      ]
+    },
+    {
+      "domain": "pandadoc.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What should be in an Ayurvedic contract manufacturing agreement?"
+      ]
+    },
+    {
+      "domain": "augustbrown.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What should be in an Ayurvedic contract manufacturing agreement?"
+      ]
+    },
+    {
+      "domain": "genieai.co",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What should be in an Ayurvedic contract manufacturing agreement?"
+      ]
+    },
+    {
+      "domain": "thomasnet.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What should be in an Ayurvedic contract manufacturing agreement?"
+      ]
+    },
+    {
+      "domain": "drewstevenslaw.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What should be in an Ayurvedic contract manufacturing agreement?"
+      ]
+    },
+    {
+      "domain": "eurofins.in",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What testing should an Ayurvedic manufacturer do on each batch?"
+      ]
+    },
+    {
+      "domain": "blissayurveda.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What testing should an Ayurvedic manufacturer do on each batch?"
+      ]
+    },
+    {
+      "domain": "banyanbotanicals.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What testing should an Ayurvedic manufacturer do on each batch?"
+      ]
+    },
+    {
+      "domain": "isspllab.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What testing should an Ayurvedic manufacturer do on each batch?"
+      ]
+    },
+    {
+      "domain": "mettexlab.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What testing should an Ayurvedic manufacturer do on each batch?"
+      ]
+    },
+    {
+      "domain": "lifeasible.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How are heavy metals tested in Ayurvedic products?"
+      ]
+    },
+    {
+      "domain": "aurigaresearch.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How are heavy metals tested in Ayurvedic products?"
+      ]
+    },
+    {
+      "domain": "aip.org",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How are heavy metals tested in Ayurvedic products?"
+      ]
+    },
+    {
+      "domain": "brandnutra.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is a certificate of analysis for a herbal supplement?"
+      ]
+    },
+    {
+      "domain": "infiniwell.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is a certificate of analysis for a herbal supplement?"
+      ]
+    },
+    {
+      "domain": "fantasticnutrition.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is a certificate of analysis for a herbal supplement?"
+      ]
+    },
+    {
+      "domain": "1stchineseherbs.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is a certificate of analysis for a herbal supplement?"
+      ]
+    },
+    {
+      "domain": "sacredplantco.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is a certificate of analysis for a herbal supplement?"
+      ]
+    },
+    {
+      "domain": "blueoceanregulatory.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is a certificate of analysis for a herbal supplement?"
+      ]
+    },
+    {
+      "domain": "herbalgoodnessco.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is a certificate of analysis for a herbal supplement?"
+      ]
+    },
+    {
+      "domain": "vitaminshoppe.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is a certificate of analysis for a herbal supplement?"
+      ]
+    },
+    {
+      "domain": "mountainroseherbs.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is a certificate of analysis for a herbal supplement?"
+      ]
+    },
+    {
+      "domain": "medium.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How do I get my own Ayurvedic formulation manufactured?"
+      ]
+    },
+    {
+      "domain": "repec.org",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How do I get my own Ayurvedic formulation manufactured?"
+      ]
+    },
+    {
+      "domain": "blisslifesciences.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Can a contract manufacturer develop a new Ayurvedic formulation for me?"
+      ]
+    },
+    {
+      "domain": "binexopharmaceuticals.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Which Indian manufacturers make Ayurvedic capsules for other brands?"
+      ]
+    },
+    {
+      "domain": "ivoticcosmetic.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Which companies do contract manufacturing of Ayurvedic oils?"
+      ]
+    },
+    {
+      "domain": "zocveda.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Who can manufacture Chyawanprash for my brand?"
+      ]
+    },
+    {
+      "domain": "shriindustry.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Which manufacturers make Ayurvedic churna for other companies?"
+      ]
+    },
+    {
+      "domain": "satyamhealthcare.co.in",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Which manufacturers make Ayurvedic churna for other companies?"
+      ]
+    },
+    {
+      "domain": "prlog.org",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Which manufacturers make Ayurvedic churna for other companies?"
+      ]
+    },
+    {
+      "domain": "marketdataforecast.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Which Ayurvedic manufacturers export to Europe?"
+      ]
+    },
+    {
+      "domain": "curoveda.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Which Ayurvedic manufacturers export to Europe?"
+      ]
+    },
+    {
+      "domain": "shakumbhrigroups.co.in",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Which Ayurvedic manufacturers export to Europe?"
+      ]
+    },
+    {
+      "domain": "sitaramayurveda.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Which Ayurvedic manufacturers export to Europe?"
+      ]
+    },
+    {
+      "domain": "divahealthcare.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Which Ayurvedic manufacturers export to Europe?"
+      ]
+    },
+    {
+      "domain": "shiveshinternational.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Which Ayurvedic manufacturers export to Europe?"
+      ]
+    },
+    {
+      "domain": "yurvida.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is needed to export Ayurvedic supplements from India to the EU?"
+      ]
+    },
+    {
+      "domain": "facebook.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is needed to export Ayurvedic supplements from India to the EU?"
+      ]
+    },
+    {
+      "domain": "pharma-expertise.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is needed to export Ayurvedic supplements from India to the EU?"
+      ]
+    },
+    {
+      "domain": "usda.gov",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is needed to export Ayurvedic supplements from India to the EU?"
+      ]
+    },
+    {
+      "domain": "eclear.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is needed to export Ayurvedic supplements from India to the EU?"
+      ]
+    },
+    {
+      "domain": "eij.news",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is needed to export Ayurvedic supplements from India to the EU?"
+      ]
+    },
+    {
+      "domain": "rizochem.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is needed to export Ayurvedic supplements from India to the EU?"
+      ]
+    },
+    {
+      "domain": "fqspharma.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is needed to export Ayurvedic supplements from India to the EU?"
+      ]
+    },
+    {
+      "domain": "probiotainnovations.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is needed to export Ayurvedic supplements from India to the EU?"
+      ]
+    },
+    {
+      "domain": "ecomundo.eu",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is needed to export Ayurvedic supplements from India to the EU?"
+      ]
+    },
+    {
+      "domain": "medicalbuyer.co.in",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is needed to export Ayurvedic supplements from India to the EU?"
+      ]
+    },
+    {
+      "domain": "indianexpress.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is needed to export Ayurvedic supplements from India to the EU?"
+      ]
+    },
+    {
+      "domain": "shipglobal.in",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What does it take to export Ayurvedic products to the United States?"
+      ]
+    },
+    {
+      "domain": "artherbsexport.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What does it take to export Ayurvedic products to the United States?"
+      ]
+    },
+    {
+      "domain": "upscalelegal.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What does it take to export Ayurvedic products to the United States?"
+      ]
+    },
+    {
+      "domain": "pharmayush.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What does it take to export Ayurvedic products to the United States?"
+      ]
+    },
+    {
+      "domain": "e-startupindia.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What does it take to export Ayurvedic products to the United States?"
+      ]
+    },
+    {
+      "domain": "ask-ayurveda.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What does it take to export Ayurvedic products to the United States?"
+      ]
+    },
+    {
+      "domain": "blueberryfm.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What does it take to export Ayurvedic products to the United States?"
+      ]
+    },
+    {
+      "domain": "aadhunikayurveda.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Which Indian Ayurvedic manufacturers work with international brands?"
+      ]
+    },
+    {
+      "domain": "nutriley.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Which Indian Ayurvedic manufacturers work with international brands?"
+      ]
+    },
+    {
+      "domain": "avnayurveda.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Which Indian Ayurvedic manufacturers work with international brands?"
+      ]
+    },
+    {
+      "domain": "zenveda.co.in",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Which Indian Ayurvedic manufacturers work with international brands?"
+      ]
+    },
+    {
+      "domain": "hanisan.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Which Indian Ayurvedic manufacturers work with international brands?"
+      ]
+    },
+    {
+      "domain": "wintrustltd.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Are there Ayurvedic contract manufacturers in Uttar Pradesh?"
+      ]
+    },
+    {
+      "domain": "mimanshaherbals.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Are there Ayurvedic contract manufacturers in Uttar Pradesh?"
+      ]
+    },
+    {
+      "domain": "mpillwellness.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Are there Ayurvedic contract manufacturers in Uttar Pradesh?"
+      ]
+    },
+    {
+      "domain": "himcure.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Are there Ayurvedic contract manufacturers in Uttar Pradesh?"
+      ]
+    },
+    {
+      "domain": "jagatpharma.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Where are Ayurvedic manufacturing hubs in India?"
+      ]
+    },
+    {
+      "domain": "unitedlabs.in",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Where are Ayurvedic manufacturing hubs in India?"
+      ]
+    },
+    {
+      "domain": "lezaaayurveda.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "How do I compare quotes from Ayurvedic contract manufacturers?"
+      ]
+    },
+    {
+      "domain": "amrepinspect.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Is it cheaper to manufacture Ayurvedic products in India?"
+      ]
+    },
+    {
+      "domain": "madefromindia.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Is it cheaper to manufacture Ayurvedic products in India?"
+      ]
+    },
+    {
+      "domain": "localandglobaleco.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Is it cheaper to manufacture Ayurvedic products in India?"
+      ]
+    },
+    {
+      "domain": "primeopenaccess.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Is it cheaper to manufacture Ayurvedic products in India?"
+      ]
+    },
+    {
+      "domain": "cii.in",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Is it cheaper to manufacture Ayurvedic products in India?"
+      ]
+    },
+    {
+      "domain": "matchlog.delivery",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Is it cheaper to manufacture Ayurvedic products in India?"
+      ]
+    },
+    {
+      "domain": "amicusllp.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Is it cheaper to manufacture Ayurvedic products in India?"
+      ]
+    },
+    {
+      "domain": "journalpressindia.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Is it cheaper to manufacture Ayurvedic products in India?"
+      ]
+    },
+    {
+      "domain": "substack.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Is it cheaper to manufacture Ayurvedic products in India?"
+      ]
+    },
+    {
+      "domain": "reddit.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Is it cheaper to manufacture Ayurvedic products in India?"
+      ]
+    },
+    {
+      "domain": "indiatimes.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "Is it cheaper to manufacture Ayurvedic products in India?"
+      ]
+    },
+    {
+      "domain": "cancer.gov",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is the difference between an Ayurvedic drug licence and a food supplement licence?"
+      ]
+    },
+    {
+      "domain": "varah.in",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is the difference between an Ayurvedic drug licence and a food supplement licence?"
+      ]
+    },
+    {
+      "domain": "synergialegal.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is the difference between an Ayurvedic drug licence and a food supplement licence?"
+      ]
+    },
+    {
+      "domain": "lawrbit.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is the difference between an Ayurvedic drug licence and a food supplement licence?"
+      ]
+    },
+    {
+      "domain": "globallinker.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is the difference between an Ayurvedic drug licence and a food supplement licence?"
+      ]
+    },
+    {
+      "domain": "mondaq.com",
+      "n": 1,
+      "share": 0.019,
+      "questions": [
+        "What is the difference between an Ayurvedic drug licence and a food supplement licence?"
+      ]
+    }
+  ],
+  "rows": [
+    {
+      "question": "Who are the best third party Ayurvedic manufacturers in India?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "alicantobiotech.in",
+        "wixsite.com",
+        "inbiotaherbs.in",
+        "biofrankpharma.com",
+        "zoicayurveda.com",
+        "macbiosciences.com",
+        "thirdpartymanufacturers.in",
+        "asmaherbals.co.in",
+        "sadatan.com",
+        "ayubalwellness.com",
+        "kudosayurveda.co.in"
+      ]
+    },
+    {
+      "question": "Which companies offer contract manufacturing of Ayurvedic products?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "ziviherbals.in",
+        "kaiherbals.com",
+        "ayubalwellness.com",
+        "macbiosciences.com",
+        "alicantobiotech.in",
+        "neutragenhealthcare.com",
+        "polycareherbals.com",
+        "arogyaformulations.com"
+      ]
+    },
+    {
+      "question": "How do I find a third party manufacturer for Ayurvedic supplements?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "alicantobiotech.in",
+        "ayubalwellness.com",
+        "neutragenhealthcare.com",
+        "asmaherbals.co.in",
+        "avedaayur.com",
+        "herbalhillswellness.com",
+        "botanicsupplements.com",
+        "peakfinitylabs.com",
+        "komalherbals.com",
+        "nutrikal.com",
+        "wonnda.com",
+        "natureland.eu",
+        "evivita.com",
+        "dronania.de",
+        "tymk.world",
+        "macbiosciences.com"
+      ]
+    },
+    {
+      "question": "What is third party manufacturing in the Ayurvedic industry?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "mantrust.in",
+        "ambicoayurvedic.com",
+        "shahipharmaindia.com",
+        "macbiosciences.com",
+        "alicantobiotech.in",
+        "abiagaiety.com",
+        "polycareherbals.com",
+        "salasarherbotech.com",
+        "quora.com",
+        "alpexpharma.in",
+        "baronblakeslee.net",
+        "phytologix.in",
+        "ayubalwellness.com",
+        "cultivatornatural.com",
+        "nualterherbovet.in",
+        "paranorma.in",
+        "alnabiotech.com",
+        "himpharm.com",
+        "ambasthabiotech.com",
+        "tryambakeayurveda.in",
+        "vantagepointinc.net",
+        "legalcorner.org"
+      ]
+    },
+    {
+      "question": "What is the difference between third party manufacturing and private label?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "quora.com",
+        "alpexpharma.in",
+        "baronblakeslee.net",
+        "lawinsider.com",
+        "phytologix.in",
+        "netsuite.com",
+        "bigcommerce.com",
+        "wikipedia.org",
+        "restaurantware.com",
+        "indeed.com"
+      ]
+    },
+    {
+      "question": "How does private label Ayurvedic manufacturing work?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "ayubalwellness.com",
+        "ayurvationhealthcare.com",
+        "avedaayur.com",
+        "bointernational.net",
+        "awilkebranding.com",
+        "ambasthabiotech.com",
+        "pureoilsindia.com",
+        "indofolkwellness.com",
+        "sageherbals.co",
+        "ayurveda-herbs.com",
+        "macbiosciences.com",
+        "herbalhillswellness.com",
+        "phytovends.com",
+        "nkgabc.com",
+        "ambicoayurvedic.com"
+      ]
+    },
+    {
+      "question": "Can I start an Ayurvedic brand without my own factory?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "arogyaformulations.com",
+        "macbiosciences.com",
+        "ziviherbals.in",
+        "tryambakeayurveda.in",
+        "purshveda.com",
+        "asmaherbals.co.in",
+        "haridevformulations.com",
+        "alicantobiotech.in",
+        "zoicpharmaceuticals.com",
+        "herbalhillswellness.com",
+        "kairaliproducts.in",
+        "polycareherbals.com",
+        "ayushudhnaturals.com",
+        "bointernational.net",
+        "vindcare.in",
+        "humanpharmaciainc.com",
+        "ellanveda.com",
+        "zoicayurveda.com",
+        "asliayurveda.com"
+      ]
+    },
+    {
+      "question": "What does it cost to start an Ayurvedic supplement brand in India?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "biofril.com",
+        "ayuvends.com",
+        "lebenformulation.com",
+        "registerkaro.in",
+        "setindiabiz.com",
+        "bajajfinserv.in",
+        "opriyatrending.in",
+        "scribd.com",
+        "cultivatornatural.com",
+        "flavorcatalyst.com",
+        "foodlicenseindia.com",
+        "foodsure.co.in",
+        "bankbazaar.com",
+        "youtube.com",
+        "herbalhillswellness.com",
+        "smallworldindia.com",
+        "zoicayurveda.com",
+        "salasarherbotech.com",
+        "sanskarayush.in",
+        "shelmaklifesciences.com",
+        "quora.com",
+        "humanpharmaciainc.com",
+        "exportersindia.com"
+      ]
+    },
+    {
+      "question": "How do I choose an Ayurvedic contract manufacturer?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "ayurvationhealthcare.com",
+        "ambicoayurvedic.com",
+        "tryambakeayurveda.in",
+        "macbiosciences.com",
+        "thirdpartymanufacturers.in",
+        "ziviherbals.in",
+        "getwellbiocare.com",
+        "rigilhealthcare.com",
+        "ayubalwellness.com",
+        "avedaayur.com"
+      ]
+    },
+    {
+      "question": "What should I look for in an Ayurvedic contract manufacturing partner?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "getwellbiocare.com",
+        "orisonpharmaceutical.com",
+        "nualterherbovet.in",
+        "macbiosciences.com",
+        "tryambakeayurveda.in",
+        "alnabiotech.com",
+        "ayurvationhealthcare.com",
+        "ayurwaylifecare.com",
+        "frontropharma.com",
+        "ayurveda-herbs.com",
+        "herbalhillswellness.com",
+        "nih.gov",
+        "ruhaniherbals.com",
+        "scribd.com",
+        "ayurvedrasayani.com",
+        "slideshare.net",
+        "alicantobiotech.in",
+        "livejournal.com",
+        "avedaayur.com",
+        "gtbcosmetics.com",
+        "supplysidesj.com",
+        "ayubalwellness.com",
+        "jetir.org",
+        "herbalchakra.in",
+        "ijirl.com",
+        "ovid.com",
+        "abhijitbhand.com"
+      ]
+    },
+    {
+      "question": "What questions should I ask an Ayurvedic manufacturer before signing?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "ayurwaylifecare.com",
+        "expodite.in",
+        "herbalhillswellness.com",
+        "polycareherbals.com",
+        "zoicayurveda.com",
+        "arogyaformulations.com",
+        "rigilhealthcare.com",
+        "ayurveda-herbs.com",
+        "ayubalwellness.com",
+        "alnabiotech.com",
+        "ayurvedrasayani.com",
+        "slideshare.net",
+        "avedaayur.com",
+        "scribd.com",
+        "macbiosciences.com",
+        "vedicventures.ca"
+      ]
+    },
+    {
+      "question": "How do I verify that an Ayurvedic manufacturer is genuine?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "firstauditor.com",
+        "nkgabc.com",
+        "enterslice.com",
+        "ayurvedaholic.com",
+        "corpbiz.io",
+        "herbalhillswellness.com",
+        "polycareherbals.com",
+        "ruhaniherbals.com",
+        "cultivatornatural.com",
+        "fda.gov",
+        "artofvedas.com",
+        "bmj.com",
+        "mapi.com",
+        "ayurvationhealthcare.com",
+        "bellaallnatural.com"
+      ]
+    },
+    {
+      "question": "How can I check if an Ayurvedic manufacturer is licensed?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "firstauditor.com",
+        "legalcorner.org",
+        "hlsassociates.in",
+        "enterslice.com",
+        "delltech.com",
+        "catie.ca",
+        "canada.ca",
+        "ayurveda-herbs.com",
+        "d4commerce.com",
+        "herbalhillswellness.com",
+        "fdaconsults.com",
+        "business-standard.com",
+        "kingsmead-service.com",
+        "parliament.uk",
+        "www.gov.uk",
+        "pharmastate.academy"
+      ]
+    },
+    {
+      "question": "What are the risks of third party Ayurvedic manufacturing?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "zoicayurveda.com",
+        "avedaayur.com",
+        "supplysidesj.com",
+        "hindujagruti.org",
+        "alnabiotech.com",
+        "researchgate.net",
+        "abiagaiety.com",
+        "polycareherbals.com",
+        "ijpsjournal.com",
+        "ayurvitewellness.com",
+        "monarkbiocare.com",
+        "pharmtech.com",
+        "ijirl.com",
+        "youtube.com",
+        "jahm.co.in",
+        "nih.gov",
+        "healthwisepharma.com",
+        "mantrust.in",
+        "macbiosciences.com"
+      ]
+    },
+    {
+      "question": "What goes wrong with contract manufacturing of herbal supplements?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "advancedsupplements.com",
+        "avedaayur.com",
+        "supplysidesj.com",
+        "nutritionaloutlook.com",
+        "ijpsjournal.com",
+        "nih.gov",
+        "contractpharma.com",
+        "awglaw.com",
+        "nutraceuticalsworld.com",
+        "summitrxusa.com",
+        "aurab2b.com",
+        "biosereneinc.com"
+      ]
+    },
+    {
+      "question": "How do I audit an Ayurvedic manufacturing facility?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "pharmatutor.org",
+        "nkgabc.com",
+        "pharmafranchisehelp.com",
+        "ijpsjournal.com",
+        "asliayurveda.com",
+        "scribd.com",
+        "herbalhillswellness.com",
+        "indofolkwellness.com",
+        "sanjivananusandhan.com",
+        "ayurvationhealthcare.com",
+        "researchgate.net",
+        "pharmadocx.com",
+        "ayubalwellness.com",
+        "clicarity.com",
+        "northindialifesciences.com",
+        "mapi.com",
+        "cultivatornatural.com",
+        "alnabiotech.com",
+        "itclabs.com",
+        "prezi.com"
+      ]
+    },
+    {
+      "question": "What certifications should an Ayurvedic manufacturer have?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "ayurveda-herbs.com",
+        "ayurwaylifecare.com",
+        "scribd.com",
+        "enterslice.com",
+        "ruhaniherbals.com",
+        "expodite.in",
+        "zoicayurveda.com",
+        "corpbiz.io",
+        "firstauditor.com",
+        "nkgabc.com",
+        "fdaconsults.com",
+        "fda.gov",
+        "nih.gov",
+        "artofvedas.com",
+        "cbi.eu",
+        "gcrs.co.uk",
+        "bmj.com",
+        "herbalhillswellness.com"
+      ]
+    },
+    {
+      "question": "What does GMP certification mean for Ayurvedic products?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "ayurwaylifecare.com",
+        "trustworksmfg.com",
+        "legalraasta.com",
+        "bscg.org",
+        "igmpi.ac.in",
+        "kerala.gov.in"
+      ]
+    },
+    {
+      "question": "What is the difference between GMP and WHO-GMP certification?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "avnlifesciences.com",
+        "trainwithcobblestone.com",
+        "bscg.org",
+        "foodready.ai",
+        "cfpie.com",
+        "scotwinhealthcare.com",
+        "suncareformulations.com",
+        "aprazerhealthcare.com",
+        "gmpguideline.com",
+        "rklifecare.com",
+        "drhpharma.com",
+        "intralabs.in",
+        "dkenterprises.in"
+      ]
+    },
+    {
+      "question": "What is Schedule T in Ayurvedic manufacturing?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "pharmadocx.com",
+        "pharmafranchisehelp.org",
+        "ajptonline.com",
+        "pharmafranchisehelp.com",
+        "slideshare.net",
+        "scribd.com"
+      ]
+    },
+    {
+      "question": "What is an AYUSH manufacturing licence?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "bajajfinserv.in",
+        "firstauditor.com",
+        "athwise.in",
+        "corpseed.com",
+        "cosmeticsregulatory.com",
+        "vantagepointinc.net"
+      ]
+    },
+    {
+      "question": "What does a Form 25-D licence cover?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "dfcojk.org",
+        "kerala.gov.in",
+        "scribd.com",
+        "pharmadocx.com",
+        "wordpress.com",
+        "parivahan.gov.in"
+      ]
+    },
+    {
+      "question": "What is a loan licence in Ayurvedic manufacturing?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "velnexmedicare.com",
+        "corpbiz.io",
+        "setindiabiz.com",
+        "certpedia.in",
+        "kerala.gov.in",
+        "nkgabc.com",
+        "servicesplus.in"
+      ]
+    },
+    {
+      "question": "What is the difference between Form 25-D and Form 25-E?",
+      "asked": 0,
+      "error": "fetch failed",
+      "domains": []
+    },
+    {
+      "question": "Do I need an AYUSH licence to sell Ayurvedic products under my own brand?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "genzcfo.com",
+        "legalcorner.org",
+        "eltcorporate.com",
+        "setindiabiz.com",
+        "zoicpharmaceuticals.com",
+        "firstauditor.com",
+        "advisocompliance.com",
+        "biatconsultant.com",
+        "vantagepointinc.net",
+        "corpseed.com",
+        "opriyatrending.in",
+        "bhattandjoshiassociates.com",
+        "corpbiz.io",
+        "vikaspedia.in"
+      ]
+    },
+    {
+      "question": "How long does it take to get an AYUSH manufacturing licence?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "firstauditor.com",
+        "setindiabiz.com",
+        "caanytime.com",
+        "corpseed.com",
+        "cosmeticsregulatory.com"
+      ]
+    },
+    {
+      "question": "What is ISO 9001 certification worth for a supplement manufacturer?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "ideagen.com",
+        "qualitymag.com",
+        "nutreebio.com",
+        "oemsupplementmaker.com",
+        "simpleque.com",
+        "americanglobal.org",
+        "p3logiq.com",
+        "alibaba.com"
+      ]
+    },
+    {
+      "question": "Does a US FDA registered facility mean an Ayurvedic product is FDA approved?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "cloudtheapp.com",
+        "materialtruths.com",
+        "thefdaexpert.com",
+        "fda.gov",
+        "itbholdingsllc.com",
+        "fdaspecialist.com",
+        "uvbmedical.com",
+        "garg-law.com",
+        "registrarcorp.com",
+        "ayurvedanama.org",
+        "fdaconsults.com",
+        "marketresearchfuture.com"
+      ]
+    },
+    {
+      "question": "What is the minimum order quantity for Ayurvedic contract manufacturing?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "himpharm.com",
+        "ahpllabs.com",
+        "kairaliproducts.com",
+        "asmaherbals.co.in",
+        "komalherbals.com",
+        "pharmafranchisehelp.com",
+        "herbalhillswellness.com",
+        "ayushudhnaturals.com",
+        "ayurvationhealthcare.com"
+      ]
+    },
+    {
+      "question": "What is a typical MOQ for private label supplements in India?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "nbhealthcare.co.in",
+        "eximnest.com",
+        "chkindustries.com",
+        "puresourcenutritions.com",
+        "privatelabelnutrition.in",
+        "hcpwellness.in",
+        "jnhub.com",
+        "infylifescience.com"
+      ]
+    },
+    {
+      "question": "What are typical lead times for Ayurvedic contract manufacturing?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "inventoryready.com",
+        "uniwelllabs.com",
+        "cskbiotech.com",
+        "sarawestusa.com",
+        "himpharm.com",
+        "ruhaniherbals.com",
+        "asmaherbals.co.in"
+      ]
+    },
+    {
+      "question": "How is pricing structured in Ayurvedic contract manufacturing?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "ambicoayurvedic.com",
+        "nualterherbovet.in",
+        "polycareherbals.com",
+        "alicantobiotech.in",
+        "cultivatornatural.com",
+        "phytovends.com",
+        "zoicayurveda.com",
+        "arogyaformulations.com",
+        "imarcgroup.com",
+        "pharmafranchisehelp.com",
+        "sageherbals.co",
+        "privatelabelmanufacturing.biz",
+        "ahpllabs.com"
+      ]
+    },
+    {
+      "question": "Who owns the formulation in a contract manufacturing agreement?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "msl.io",
+        "healthandbeautypartners.com",
+        "freelanceformulations.com",
+        "epgdlaw.com",
+        "respectmanufacturing.com",
+        "daeryunlaw.com",
+        "deskera.com",
+        "gtsetu.com",
+        "westlaw.com",
+        "sarawestusa.com",
+        "legalvision.com.au"
+      ]
+    },
+    {
+      "question": "What should be in an Ayurvedic contract manufacturing agreement?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "daeryunlaw.com",
+        "sederlaw.com",
+        "leahai.com",
+        "nutraingredients.com",
+        "alnabiotech.com",
+        "polycareherbals.com",
+        "ruhaniherbals.com",
+        "pib.gov.in",
+        "macbiosciences.com",
+        "pandadoc.com",
+        "lawinsider.com",
+        "nih.gov",
+        "scribd.com",
+        "augustbrown.com",
+        "genieai.co",
+        "thomasnet.com",
+        "drewstevenslaw.com"
+      ]
+    },
+    {
+      "question": "How is quality controlled in third party Ayurvedic manufacturing?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "alnabiotech.com",
+        "himpharm.com",
+        "nualterherbovet.in",
+        "asmaherbals.co.in",
+        "tryambakeayurveda.in",
+        "ayurvedrasayani.com",
+        "kaiherbals.com",
+        "gtbcosmetics.com",
+        "herbalhillswellness.com",
+        "ambasthabiotech.com",
+        "macbiosciences.com",
+        "mohtawellness.com",
+        "slideshare.net"
+      ]
+    },
+    {
+      "question": "What testing should an Ayurvedic manufacturer do on each batch?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "alnabiotech.com",
+        "ayurvationhealthcare.com",
+        "itclabs.com",
+        "ayurwaylifecare.com",
+        "eurofins.in",
+        "zoicayurveda.com",
+        "herbalhillswellness.com",
+        "mapi.com",
+        "blissayurveda.com",
+        "banyanbotanicals.com",
+        "isspllab.com",
+        "mohtawellness.com",
+        "macbiosciences.com",
+        "mettexlab.com"
+      ]
+    },
+    {
+      "question": "How are heavy metals tested in Ayurvedic products?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "mapi.com",
+        "slideshare.net",
+        "lifeasible.com",
+        "aurigaresearch.com",
+        "aip.org",
+        "researchgate.net"
+      ]
+    },
+    {
+      "question": "What is a certificate of analysis for a herbal supplement?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "brandnutra.com",
+        "infiniwell.com",
+        "fantasticnutrition.com",
+        "1stchineseherbs.com",
+        "sacredplantco.com",
+        "blueoceanregulatory.com",
+        "herbalgoodnessco.com",
+        "vitaminshoppe.com",
+        "mountainroseherbs.com"
+      ]
+    },
+    {
+      "question": "How do I get my own Ayurvedic formulation manufactured?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "ruhaniherbals.com",
+        "bointernational.net",
+        "ambasthabiotech.com",
+        "herbalhillswellness.com",
+        "medium.com",
+        "alicantobiotech.in",
+        "zoicpharmaceuticals.com",
+        "ambicoayurvedic.com",
+        "nkgabc.com",
+        "nih.gov",
+        "quora.com",
+        "repec.org",
+        "ayubalwellness.com",
+        "ziviherbals.in",
+        "humanpharmaciainc.com"
+      ]
+    },
+    {
+      "question": "Can a contract manufacturer develop a new Ayurvedic formulation for me?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "macbiosciences.com",
+        "blisslifesciences.com",
+        "herbalhillswellness.com",
+        "jnhub.com",
+        "asmaherbals.co.in"
+      ]
+    },
+    {
+      "question": "Which Indian manufacturers make Ayurvedic capsules for other brands?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "hcpwellness.in",
+        "asliayurveda.com",
+        "binexopharmaceuticals.com",
+        "kairaliproducts.in",
+        "earthssoulayurveda.com",
+        "asmaherbals.co.in",
+        "ayurwaylifecare.com",
+        "cultivatornatural.com"
+      ]
+    },
+    {
+      "question": "Who manufactures Ayurvedic tablets on contract in India?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "neutragenhealthcare.com",
+        "richberghealthcare.in",
+        "indiamart.com",
+        "macbiosciences.com",
+        "asmaherbals.co.in",
+        "kairaliproducts.in",
+        "petalhealthcare.org",
+        "mantrust.in",
+        "tryambakeayurveda.in"
+      ]
+    },
+    {
+      "question": "Which companies do contract manufacturing of Ayurvedic oils?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "bointernational.net",
+        "earthssoulayurveda.com",
+        "indiamart.com",
+        "ivoticcosmetic.com",
+        "nilindherbals.com",
+        "kaiherbals.com",
+        "ruhaniherbals.com",
+        "macbiosciences.com"
+      ]
+    },
+    {
+      "question": "Who can manufacture Chyawanprash for my brand?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "indiamart.com",
+        "asliayurveda.com",
+        "nbhealthcare.co.in",
+        "zoicayurveda.com",
+        "zoicpharmaceuticals.com",
+        "zocveda.com",
+        "ahpllabs.com"
+      ]
+    },
+    {
+      "question": "Which manufacturers make Ayurvedic churna for other companies?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "asmaherbals.co.in",
+        "ruhaniherbals.com",
+        "richberghealthcare.in",
+        "zoicpharmaceuticals.com",
+        "shriindustry.com",
+        "satyamhealthcare.co.in",
+        "prlog.org",
+        "kairaliproducts.in",
+        "alicantobiotech.in"
+      ]
+    },
+    {
+      "question": "Who does contract manufacturing of Ayurvedic syrups in India?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "hcpwellness.in",
+        "alicantobiotech.in",
+        "macbiosciences.com",
+        "ayuvends.com",
+        "thirdpartymanufacturers.in",
+        "asmaherbals.co.in",
+        "kaiherbals.com",
+        "indiamart.com",
+        "shelmaklifesciences.com",
+        "kairaliproducts.in"
+      ]
+    },
+    {
+      "question": "Which Ayurvedic manufacturers export to Europe?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "netyex.com",
+        "marketdataforecast.com",
+        "curoveda.com",
+        "shakumbhrigroups.co.in",
+        "herbalhillswellness.com",
+        "sitaramayurveda.com",
+        "divahealthcare.com",
+        "shiveshinternational.com",
+        "cbi.eu",
+        "artofvedas.com"
+      ]
+    },
+    {
+      "question": "What is needed to export Ayurvedic supplements from India to the EU?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "artofvedas.com",
+        "yurvida.com",
+        "netyex.com",
+        "cbi.eu",
+        "bmj.com",
+        "facebook.com",
+        "pharma-expertise.com",
+        "usda.gov",
+        "sageherbals.co",
+        "eclear.com",
+        "eij.news",
+        "herbalhillswellness.com",
+        "rizochem.com",
+        "foodsure.co.in",
+        "fqspharma.com",
+        "smallworldindia.com",
+        "probiotainnovations.com",
+        "ecomundo.eu",
+        "medicalbuyer.co.in",
+        "indianexpress.com"
+      ]
+    },
+    {
+      "question": "What does it take to export Ayurvedic products to the United States?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "cultivatornatural.com",
+        "fda.gov",
+        "shipglobal.in",
+        "nih.gov",
+        "artherbsexport.com",
+        "herbalhillswellness.com",
+        "fdaconsults.com",
+        "indofolkwellness.com",
+        "upscalelegal.com",
+        "pharmayush.com",
+        "slideshare.net",
+        "e-startupindia.com",
+        "ask-ayurveda.com",
+        "blueberryfm.com"
+      ]
+    },
+    {
+      "question": "Which Indian Ayurvedic manufacturers work with international brands?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "aadhunikayurveda.com",
+        "nutriley.com",
+        "nilindherbals.com",
+        "pureoilsindia.com",
+        "alicantobiotech.in",
+        "suncareformulations.com",
+        "avnayurveda.com",
+        "zenveda.co.in",
+        "cultivatornatural.com",
+        "hanisan.com"
+      ]
+    },
+    {
+      "question": "Are there Ayurvedic contract manufacturers in Uttar Pradesh?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "wintrustltd.com",
+        "kaiherbals.com",
+        "mimanshaherbals.com",
+        "alicantobiotech.in",
+        "phytologix.in",
+        "macbiosciences.com",
+        "mpillwellness.com",
+        "zoicpharmaceuticals.com",
+        "himcure.com"
+      ]
+    },
+    {
+      "question": "Where are Ayurvedic manufacturing hubs in India?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "jagatpharma.com",
+        "ruhaniherbals.com",
+        "nbhealthcare.co.in",
+        "alicantobiotech.in",
+        "unitedlabs.in",
+        "nilindherbals.com",
+        "petalhealthcare.org"
+      ]
+    },
+    {
+      "question": "How do I compare quotes from Ayurvedic contract manufacturers?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "avedaayur.com",
+        "tryambakeayurveda.in",
+        "alnabiotech.com",
+        "macbiosciences.com",
+        "ayurvationhealthcare.com",
+        "ambicoayurvedic.com",
+        "polycareherbals.com",
+        "nualterherbovet.in",
+        "ayubalwellness.com",
+        "lezaaayurveda.com",
+        "foodresearchlab.com",
+        "kairaliproducts.com"
+      ]
+    },
+    {
+      "question": "Is it cheaper to manufacture Ayurvedic products in India?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "smallworldindia.com",
+        "amrepinspect.com",
+        "madefromindia.com",
+        "sanskarayush.in",
+        "localandglobaleco.com",
+        "zoicayurveda.com",
+        "primeopenaccess.com",
+        "cii.in",
+        "easyayurveda.com",
+        "nih.gov",
+        "matchlog.delivery",
+        "amicusllp.com",
+        "journalpressindia.com",
+        "substack.com",
+        "reddit.com",
+        "indiatimes.com"
+      ]
+    },
+    {
+      "question": "What is the difference between an Ayurvedic drug licence and a food supplement licence?",
+      "asked": 1,
+      "error": "",
+      "domains": [
+        "pib.gov.in",
+        "easyayurveda.com",
+        "cancer.gov",
+        "varah.in",
+        "fdaconsults.com",
+        "genzcfo.com",
+        "foodresearchlab.com",
+        "synergialegal.com",
+        "scribd.com",
+        "zoicayurveda.com",
+        "lawrbit.com",
+        "enterslice.com",
+        "bhattandjoshiassociates.com",
+        "nih.gov",
+        "foodsure.co.in",
+        "globallinker.com",
+        "corpbiz.io",
+        "mondaq.com"
+      ]
+    }
+  ]
+}
