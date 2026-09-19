@@ -13,7 +13,7 @@ faq:
   - q: "Do I need a machine to do Shirodhara, or will a pot do?"
     a: "A pot with a controlled orifice, suspended at the right height and with a way to catch and return the oil, is a complete Shirodhara setup and is what the tradition used. What a machine adds is stable temperature across a long session and, on some models, an oscillating stream. If you work alone and run 40 minute sessions, that stability is the thing you are actually buying."
   - q: "Does a Shirodhara device use oil or water?"
-    a: "Both exist, and it matters when buying. The classical practice is taila dhara, oil. Some powered units are designed primarily for water and offer oil capability as an optional conversion. Oil is more viscous, harder to pump, and much harder to clean out of a machine, so check what a device is natively built for before ordering."
+    a: "Both, and neither is the whole answer. The classical practice runs several liquids: medicated oil as taila dhara, buttermilk as takra dhara, milk as ksheera dhara, a decoction as kashaya dhara, a water infusion as jala dhara. That matters when buying, because a pump and its tubing are specified for a fluid of one viscosity. Oil is thick and wears pumps; a decoction is nearly water and runs far faster through a circuit tuned for oil; buttermilk carries solids, separates and fouls what it sits in. A gravity vessel has no pump to mis-specify and no internal circuit to foul, so changing liquid is a matter of cleaning it. Ask any manufacturer which liquids their unit is rated for, not only which one it ships configured for."
 ---
 
 <p class="disclaimer" style="margin-top:0">
@@ -62,9 +62,29 @@ range and accept the drift, the problem is much smaller and so is the case for a
 
 ### Things buyers underestimate
 
-**Oil or water.** The classical practice is oil. Some powered units are designed primarily for
-water, with oil available as an optional conversion. Oil is viscous, it degrades pumps and
-tubing, and it is far harder to flush out. Check what a device is natively built for.
+**More than one liquid.** This is the point most buyers miss, and it is the one that decides
+whether a machine can do the whole practice or only part of it.
+
+Shirodhara is not only oil. The classical variants pour different liquids: taila dhara uses
+medicated oil, takra dhara buttermilk, ksheera dhara milk, kashaya dhara a herbal decoction,
+jala dhara a water infusion. They are set out in [the liquids table](/shirodhara/).
+
+A pump and its tubing are specified for a fluid of a given viscosity. Oil is thick and degrades
+pumps and tubing over time. A decoction is nearly water and will run far faster through a
+circuit tuned for oil. Buttermilk is worse than either: it carries solids, it separates, and it
+fouls anything it sits in. So a powered unit that meters oil correctly will not necessarily
+meter any of the others correctly, and some are built for water with oil offered as a
+conversion.
+
+Gravity does not have this problem in the same way. Flow through an orifice still changes with
+viscosity, so the operator adjusts, but that is an adjustment rather than a hardware limit, and
+there is no pump to mis-specify and no internal circuit to foul. Changing liquid is a matter of
+cleaning the vessel.
+
+The practical test before you buy: ask the manufacturer which liquids the unit is rated for,
+not just which one it ships configured for, and what changing between them requires. If you
+only ever intend to pour oil, this does not matter. If you intend to offer takra dhara or
+ksheera dhara, it decides the purchase.
 
 **Cleaning.** Every pump, heater and length of tubing that touches oil has to be cleaned between
 clients. A machine with an internal circuit is more to clean than a pot and a basin, and this is
