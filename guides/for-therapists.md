@@ -4,6 +4,17 @@ slug: "for-therapists"
 order: 11
 description: "Room setup, hygiene, oil economics and the practical shape of a working session."
 answer: "For a practising therapist the constraints are room turnaround, oil cost per session, hygiene policy on reuse, and whether the setup allows single-operator work. A portable closed-loop apparatus changes the economics most where a dedicated wet room is not available, because it removes the fit-out cost entirely."
+faq:
+  - q: "How long should I allow for a Shirodhara appointment?"
+    a: "Ninety minutes end to end for a 40-minute pour. That is 10 minutes of setup and oil warming, 30 to 45 minutes of pouring, 15 to 20 minutes of rest during which the room is occupied but you are not, and 15 minutes of strip-down, straining and surface cleaning. The limiting factor in a commercial setting is rarely the session itself, it is the turnaround."
+  - q: "How much does the oil cost per Shirodhara session?"
+    a: "Work it from how long a charge of oil lasts rather than from what the vessel holds. A closed-loop vessel takes about 1.5 litres, three 500 ml bottles, and on a three-session reuse policy that is roughly one 500 ml bottle per session, plus top-ups for what is lost to hair, cloth and the basin. Apply your own cost per bottle. A hand-filled pot uses less oil per session and more labour, because somebody is reheating and returning it by hand throughout."
+  - q: "How many times can Shirodhara oil be reused?"
+    a: "Our own policy is a maximum of three sessions on a charge of oil, after which it is discarded rather than topped up indefinitely, with straining through fine mesh after every session. Whether oil is carried between different clients is a hygiene and consent decision before it is a financial one. Decide it explicitly, write it down, and tell clients what your policy is."
+  - q: "Can one therapist deliver Shirodhara without an assistant?"
+    a: "Yes, with the right setup. Traditional Shirodhara assumes two people, one at the head and one managing oil, and the constraint when working alone is that you cannot leave the client to reheat and return oil mid-session. The options are to warm to the top of the appropriate range and accept a drift downward, to use a closed-loop apparatus so returned oil re-enters the vessel still warm, or to run shorter sessions."
+  - q: "What can a spa or clinic say when advertising Shirodhara?"
+    a: "Describe the practice and what people report, and let the tradition speak for itself. Shirodhara equipment is sold as general wellness equipment rather than as a medical device, and Ayurvedic oils are regulated products. Advertising a session as a treatment for a named condition is a regulatory exposure in most markets, whatever the classical texts say about indications."
 products: "shirodhara"
 ---
 
