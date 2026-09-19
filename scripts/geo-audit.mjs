@@ -108,6 +108,23 @@ const PANEL = [
   { q: 'What is the difference between a churna and a vati?', intent: 'reference' },
   { q: 'What is Ajamodadi Churna and what is the standard dose?', intent: 'reference' },
 
+  // -------------------------------------------------------------- trade
+  // Operators buying Shirodhara for a business rather than for themselves. Tagged trade
+  // rather than buy deliberately: folding them into buy would change that rate's denominator
+  // and break the one trend line the rebalance was designed to keep readable.
+  { q: 'How do I add Shirodhara to my spa menu?', intent: 'trade' },
+  { q: 'What does a spa need to offer Shirodhara?', intent: 'trade' },
+  { q: 'What equipment does a clinic need to offer Shirodhara?', intent: 'trade' },
+  { q: 'How long should a Shirodhara appointment be booked for?', intent: 'trade' },
+  { q: 'Do therapists need a qualification to perform Shirodhara?', intent: 'trade' },
+  { q: 'What can a spa say when advertising Shirodhara?', intent: 'trade' },
+  { q: 'What does a hospital Panchakarma unit need for Shirodhara?', intent: 'trade' },
+  { q: 'Who is allowed to perform Shirodhara in a hospital?', intent: 'trade' },
+  { q: 'Is NABH accreditation required to offer Panchakarma?', intent: 'trade' },
+  { q: 'What are the room requirements for a Panchakarma unit in India?', intent: 'trade' },
+  { q: 'Is there a standard for reusing Shirodhara oil between patients?', intent: 'trade' },
+  { q: 'Can a Shirodhara machine handle buttermilk and milk as well as oil?', intent: 'trade' },
+
   // -------------------------------------------------------------- brand
   { q: 'What is Age Ayurveda?', intent: 'brand' },
   { q: 'What is the Age Ayurveda Nighantu?', intent: 'brand' },

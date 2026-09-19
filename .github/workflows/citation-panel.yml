@@ -8,7 +8,7 @@ name: Citation panel
 # closest available proxy for Google AI Overviews. ANTHROPIC_API_KEY still works if set and
 # no Gemini key is present.
 #
-# Each prompt is asked three times, so a run is about 171 grounded requests rather than 57.
+# Each prompt is asked three times, so a run is about 207 grounded requests rather than 69.
 # Grounding is not deterministic: the same prompt asked six times put us in the source list
 # twice. One pass reports a coin flip as a fact, so the row records a hit rate instead.
 #
@@ -82,12 +82,14 @@ jobs:
           # seconds. Unpaced, the run trips the limit two thirds of the way through and the
           # rest of the panel records quota errors instead of answers.
           GEO_AUDIT_PACE_MS: '6000'
-        # 57 prompts asked three times each is 171 requests, about 30 minutes at this pace.
-        # The old 25 minute timeout was set when a run was one pass of 54 and would now kill
-        # the job two thirds of the way through. The script aborts as soon as a DAILY
-        # allowance is refused rather than backing off through it, so a run that cannot
-        # proceed ends in seconds instead of burning the timeout.
-        timeout-minutes: 45
+        # 69 prompts asked three times each is 207 requests, about 35 minutes at this pace.
+        # The timeout has been raised twice as the panel grew: once when repetition took a run
+        # from 54 requests to 171, and again when the trade prompts took it to 207. Headroom
+        # matters more than precision here, because a run killed two thirds of the way through
+        # commits a partial log that reads as a real collapse in citations rather than as a
+        # truncated job. The script aborts as soon as a DAILY allowance is refused rather than
+        # backing off through it, so a run that cannot proceed ends in seconds either way.
+        timeout-minutes: 60
         # --resume skips prompts already answered in the last week, so a free-tier key that
         # allows about twenty grounded requests a day can finish the panel across sittings
         # instead of re-asking the same opening prompts every time and never reaching the end.
