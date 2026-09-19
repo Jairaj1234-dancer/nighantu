@@ -8,7 +8,7 @@ faq:
   - q: "How do I add Shirodhara to my spa menu?"
     a: "Work backwards from the room rather than forwards from the equipment. You need a surface you are willing to get oil on and a drainage or catch arrangement, a 90 minute booking slot for a 40 minute pour, about one 500 ml bottle of oil per session as a recurring cost, and a therapist trained in the pour. Equipment ranges from a traditional pot and stand to a powered machine, and it is usually the smallest decision of the four."
   - q: "What does a spa need to offer Shirodhara?"
-    a: "A vessel with a controlled orifice suspended ten to twelve centimetres above the forehead, a table with head support, a way to catch and return the oil, a way to keep the oil warm, and a room whose floor and linen you have accepted will take oil. A closed-loop vessel removes the plumbing requirement, which is what usually decides whether an existing treatment room can be used without a fit-out."
+    a: "A vessel with a controlled orifice suspended ten to twelve centimetres above the forehead, a table with head support, a way to catch and return the oil, a way to keep the oil warm, and a room whose floor and linen you have accepted will take oil. A self-contained vessel with its own collection base removes the plumbing requirement, which is what usually decides whether an existing treatment room can be used without a fit-out."
   - q: "How long should a Shirodhara appointment be?"
     a: "Ninety minutes end to end for a 40 minute pour, including setup, the rest period afterwards and cleaning down. Booking it as a 60 minute treatment is the most common mistake: the room stays occupied through the client's rest whether or not the therapist is in it."
   - q: "Do therapists need a qualification to perform Shirodhara?"
@@ -38,8 +38,8 @@ What the room needs:
 - A surface you have accepted will take oil. A mat you are willing to write off is cheaper
   than protecting a floor you care about.
 - Somewhere to catch the run-off. This is the point at which a fixed installation and a
-  portable vessel genuinely diverge: a plumbed dhara room needs a fit-out, and a closed-loop
-  vessel does not.
+  portable vessel genuinely diverge: a plumbed dhara room needs a fit-out, and a vessel that
+  catches its own run-off in its base does not.
 - Linen that goes through a hot wash with degreaser. Sesame oil does not come out on a cold
   cycle, and this is a laundry cost rather than a one-off.
 - Air. The room will hold the smell of warm sesame oil for a day.
@@ -65,7 +65,7 @@ turnaround through in more detail.
 ## Consumables
 
 Oil is the recurring cost, and it is set by how long a charge lasts rather than by how much the
-vessel holds. On a three-session reuse policy, a closed-loop vessel charged with 1.5 litres,
+vessel holds. On a three-session reuse policy, a two litre vessel charged with 1.5 litres,
 three 500 ml bottles, works out at roughly one 500 ml bottle per session. A hand-filled pot
 uses less oil and more labour.
 
@@ -77,9 +77,10 @@ one, and it is worth deciding explicitly and telling clients what you decided.
 ## Staffing
 
 Traditional Shirodhara assumes two people, one at the head and one keeping the oil warm and
-returning it. A single therapist can run a session if the apparatus returns warm oil by itself,
-which is what closed-loop recirculation is for, or by accepting a temperature drift across the
-session.
+returning it. A single therapist can run a session on a vessel that holds the
+whole session's oil, because nothing then has to be refilled or returned while the stream is
+running: the run-off collects in the base and is recovered afterwards. The trade is temperature,
+which drifts down across the session unless the unit is powered and heated.
 
 Whether a qualification is required depends on where you are, and you should ask your own
 regulator rather than rely on a general answer. In India, Panchakarma in a clinical setting

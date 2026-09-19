@@ -36,9 +36,14 @@ there for the whole session. Others move it slowly side to side across the foreh
 gentle oscillation, returning to centre. Both are taught; consistency within a session matters
 more than which is chosen.
 
-Throughout, the oil that runs off is caught in a basin below the head, strained, rewarmed and
-returned to the vessel. In a two-person setup an assistant does this continuously. In a
-one-person setup a closed-loop apparatus does it mechanically.
+Throughout, the oil that runs off is caught in a basin below the head. In a two-person setup an
+assistant strains, rewarms and returns it to the vessel continuously, which is how the classical
+method holds temperature. A powered machine does the same thing with a pump.
+
+Working alone without a pump, the third option is a vessel large enough to hold the whole
+session's oil, so nothing has to be returned while the pour is running. The oil is caught in the
+base and recovered afterwards rather than during. The trade is temperature: it drifts down across
+the session, so the oil is warmed to the top of the range at the start.
 
 ## After
 
