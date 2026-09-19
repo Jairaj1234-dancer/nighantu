@@ -35,8 +35,11 @@ a dedicated wet room. A frame that folds is a frame that can live in a cupboard 
 in a treatment room, a hotel spa or a bedroom.
 
 **The oil return.** Traditionally the oil falls into a basin and an assistant strains and
-returns it. Closed-loop designs catch the run-off in an integrated base and feed it back to
-the vessel, which is what makes single-operator sessions practical.
+returns it through the session. A powered machine does the same with a pump. A manual vessel
+with an integrated base recollects the run-off instead, for straining and reuse after the
+session rather than during it, and holds enough oil to run the whole session unrefilled. That
+is what makes single-operator sessions practical, at the cost of a temperature that drifts
+down as the session goes on.
 
 **Flow control.** A wick works but is imprecise. Modern vessels use a valve or a shaped
 orifice for a repeatable stream.
