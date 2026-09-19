@@ -42,7 +42,10 @@ is what makes single-operator sessions practical, at the cost of a temperature t
 down as the session goes on.
 
 **Flow control.** A wick works but is imprecise. Modern vessels use a valve or a shaped
-orifice for a repeatable stream.
+orifice for a repeatable stream. An orifice also takes whatever liquid you put through it:
+oil, buttermilk, milk or a decoction all run, at different rates that the operator sets. A
+pumped circuit is specified for one viscosity and is the part that limits which of the
+classical dhara variants a powered machine can actually perform.
 
 For what is actually on sale today, and how the powered and gravity approaches compare on
 published specifications, see [comparing Shirodhara equipment](../choosing-equipment/).

@@ -39,6 +39,11 @@ the formulation rather than the liquid is what is usually varied. Our
 [guide to choosing the oil](/shirodhara/choosing-the-oil/) takes the oil route throughout, and
 the [classical record](/practice/shirodhara/) sets out what the sources actually say.
 
+If you are buying equipment, this table is also a specification. A pump is built for a fluid of
+one viscosity, and buttermilk, milk, oil and a watery decoction are not interchangeable to it.
+Which of these liquids you intend to pour therefore constrains what to buy, which
+[choosing equipment](/shirodhara/choosing-equipment/) works through.
+
 This guide covers taila dhara throughout, since that is what is practised and sold almost
 everywhere, and notes where the others differ.
 

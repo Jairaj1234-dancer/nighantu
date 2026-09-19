@@ -137,6 +137,13 @@ The standards above assume a fixed installation: a dedicated room, a dharapatra 
 droni. That is the right arrangement for an accredited inpatient unit and we would not argue
 otherwise.
 
+One specification point is easy to miss at procurement and expensive afterwards. A unit
+offering the full range runs more than taila dhara: takra dhara pours buttermilk, ksheera
+dhara milk, kashaya dhara a decoction. A pump and its tubing are specified for a fluid of one
+viscosity, and buttermilk in particular carries solids, separates and fouls a circuit it sits
+in. Ask which liquids a powered unit is rated for rather than which it ships configured for. A
+gravity vessel has no pumped circuit, so the question does not arise in the same form.
+
 A self-contained vessel is a different case and it is worth being straight about which. It
 suits an outpatient clinic that cannot commit a plumbed room, a unit adding the procedure
 before committing capital to it, a department that needs the therapy to move between rooms, or
