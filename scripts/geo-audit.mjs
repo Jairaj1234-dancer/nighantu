@@ -449,6 +449,35 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const PACE_MS = Number(process.env.GEO_AUDIT_PACE_MS ?? 6500);
 const RETRY_BASE_MS = 20_000;
 
+/**
+ * Write each row the moment it exists, rather than the whole file at the end.
+ *
+ * A run of 69 prompts at three asks is 207 grounded requests and the better part of an hour.
+ * On 19 September one was killed at prompt 61 and wrote nothing at all, because the writer only
+ * ran after the loop: 183 requests and forty minutes of quota, lost to a process that did not
+ * reach its last line. Appending per prompt costs nothing and caps that loss at one prompt.
+ *
+ * It also makes --resume work the way it was always supposed to. Resume reads this file, so a
+ * run that dies now leaves a file its successor can skip past.
+ */
+fs.mkdirSync('data', { recursive: true });
+const header = 'date,model,question,intent,cited,rate,hits,asks,matched,urls,error,sources';
+const esc = (v) => `"${String(v).replace(/"/g, '""')}"`;
+const toLine = (r) => [r.date, r.model, r.question, r.intent, r.cited, r.rate, r.hits, r.asks,
+  r.matched, r.urls, r.error, r.sources].map(esc).join(',');
+
+// Rotate before the first append rather than after the last row, for the same reason.
+if (fs.existsSync(LOG)) {
+  const existingHeader = fs.readFileSync(LOG, 'utf8').split('\n')[0].trim();
+  if (existingHeader !== header) {
+    const firstDate = fs.readFileSync(LOG, 'utf8').split('\n')[1]?.slice(1, 11) ?? 'old';
+    const archive = LOG.replace(/\.csv$/, `-${firstDate}.csv`);
+    fs.renameSync(LOG, archive);
+    console.log(`The log's columns changed. Previous log archived as ${archive}.`);
+  }
+}
+if (!fs.existsSync(LOG)) fs.writeFileSync(LOG, `${header}\n`);
+
 let stopped = false;
 for (const [i, question] of prompts.entries()) {
   if (stopped) break;
@@ -522,6 +551,7 @@ for (const [i, question] of prompts.entries()) {
     sources: [...sourcesSeen].join('; '),
     error,
   });
+  fs.appendFileSync(LOG, `${toLine(rows[rows.length - 1])}\n`);
 
   if (error && !asks) console.log(`ERROR: ${error.slice(0, 70)}`);
   else if (hits) console.log(`✅ CITED ${hits}/${asks} -> ${[...urlsSeen].join(', ') || [...evidenceSeen].join(', ')}`);
@@ -530,25 +560,7 @@ for (const [i, question] of prompts.entries()) {
 }
 
 fs.mkdirSync('data', { recursive: true });
-const header = 'date,model,question,intent,cited,rate,hits,asks,matched,urls,error,sources';
-const esc = (v) => `"${String(v).replace(/"/g, '""')}"`;
-const body = rows.map((r) => [r.date, r.model, r.question, r.intent, r.cited, r.rate, r.hits, r.asks, r.matched, r.urls, r.error, r.sources].map(esc).join(','));
-
-/**
- * The columns have changed three times in a day. Appending rows of one shape under a header
- * of another produces a file that still parses and is quietly wrong, so rotate instead.
- */
-if (fs.existsSync(LOG)) {
-  const existing = fs.readFileSync(LOG, 'utf8').split('\n')[0].trim();
-  if (existing !== header) {
-    const firstDate = fs.readFileSync(LOG, 'utf8').split('\n')[1]?.slice(1, 11) ?? 'old';
-    const archive = LOG.replace(/\.csv$/, `-${firstDate}.csv`);
-    fs.renameSync(LOG, archive);
-    console.log(`\nThe log's columns changed. Previous log archived as ${archive}.`);
-  }
-}
-if (!fs.existsSync(LOG)) fs.writeFileSync(LOG, `${header}\n`);
-fs.appendFileSync(LOG, `${body.join('\n')}\n`);
+// Rows were appended as they were produced; nothing left to write here.
 
 const citedCount = rows.filter((r) => r.cited === 'yes').length;
 const always = rows.filter((r) => r.asks && r.hits === r.asks).length;
