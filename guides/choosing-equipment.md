@@ -42,7 +42,8 @@ slowly across the forehead, and most add a timer.
 **A gravity vessel** is the classical apparatus: a pot with a small orifice, suspended about ten
 to twelve centimetres above the forehead, flow governed by head pressure and the orifice, often
 with a wick to keep the stream from breaking into drips. The operator warms the oil before the
-session and the run-off is caught and returned, either by an assistant or by a closed-loop base.
+session and the run-off is caught below the head, to be returned by an assistant, pumped back by
+a powered unit, or recovered after the session from the vessel's own base.
 
 The trade is straightforward. Powered machines solve temperature drift, which is the single
 hardest problem in a solo session. Gravity vessels need no electricity, have nothing electronic
@@ -96,7 +97,7 @@ not that the device lacks the feature.
 | AJ Engineer portable automatic | Powered | Rs 39,200 per piece | Digital controller, plus or minus 2 °C | Digital or manual | Stainless steel, 110/230 V, steady or oscillating dhara, flow control by valve, oil recirculation, wheeled |
 | Esteem Services fully automatic | Powered | Rs 45,800 per piece | Digital controller, plus a body heater for cold climates | | Filters used oil and reheats to constant temperature before pumping, oscillating vessel with adjustable swing width and speed, vessel can also be moved manually without power |
 | Cristalmind | Powered | CHF 897 | 36.5 to 38.5 °C | 20 to 60 minutes | Runs on 12 V via a 110 to 230 V, 50/60 Hz transformer, so it works on any mains supply. Two year parts and labour warranty. Oil use is via an optional conversion kit |
-| Surya Shirodhara | Gravity | RRP set by seller, USD 499 to 799 suggested | Set by the operator before the session | None | No electricity, no plumbing, no drainage. Two litre closed-loop steel and brass alloy vessel, about 1.5 litres per session, collapsible ABS frame with integrated oil recollection, around 3.5 kg |
+| Surya Shirodhara | Gravity | RRP set by seller, USD 499 to 799 suggested | Set by the operator before the session | None | No electricity, no plumbing, no drainage. Two litre steel and brass alloy vessel, about 1.5 litres per session so it runs unrefilled, collapsible ABS frame with oil collection in the base, single operator, around 3.5 kg |
 | Traditional dhara patra and stand | Gravity | Varies widely | Set by the operator | None | Earthen, brass or copper pot with a wick, on a fixed stand or ceiling suspension. The classical arrangement |
 
 </div>
@@ -112,9 +113,11 @@ reservoir and a timer earns its price in consistency and in one less thing to th
 a session. The oscillating models are worth trying before buying, because not every school of
 practice uses an oscillating stream.
 
-**You work alone and want long sessions.** Temperature stability is your binding constraint.
-Either a powered unit, or a gravity setup with closed-loop recovery so returned oil re-enters
-the vessel still warm, plus a decision to warm to the top of the range at the start.
+**You work alone and want long sessions.** Temperature stability is your binding constraint,
+and it is the one thing a gravity vessel cannot solve. A powered unit with a heated reservoir
+holds temperature; a gravity vessel does not, so the honest answer there is a vessel that holds
+the whole session's oil, warmed to the top of the range at the start, and an accepted drift
+downward across the session. If that drift is unacceptable to you, buy a powered machine.
 
 **You want the classical practice, or you work where power is not guaranteed.** A gravity vessel
 is the right object and not a compromise. Retreats, outdoor and off-grid settings, and places
@@ -145,10 +148,21 @@ freight from India but is weaker on paper than a two year parts and labour guara
 If a thermostat, a timer and an oscillating stream are what you want, buy a powered machine. One
 of the ones above will suit you better than ours will.
 
-What it is good at is narrower and real: it is a two litre closed-loop steel and brass alloy
-vessel on a collapsible frame that runs on gravity alone, so it needs no power, no plumbing, no
-drainage and no fit-out, and it is built natively for oil rather than converted to it. It is the
-classical apparatus made portable. For the buyer who chose Shirodhara because it is a traditional
+What it is good at is narrower and real: it is a two litre steel and brass alloy vessel on a
+collapsible frame that runs on gravity alone, so it needs no power, no plumbing, no drainage and
+no fit-out, and it is built natively for oil rather than converted to it. It holds a whole
+session's oil, and catches the run-off in its base for recovery afterwards, which is what lets
+one person run a session without an assistant. There is no pump, and that is deliberate rather
+than a saving: a motor running beside the table for forty minutes is at odds with what the
+procedure is for.
+
+Two consequences are worth stating because they are the practical case for it. It is a
+one-person device, not a two-person procedure made to work with one, which changes the staffing
+cost of every session you book. And a fixed orifice fed by gravity delivers a more repeatable
+stream than a hand-poured pot does, so the pour is easier to standardise between therapists and
+between sessions. Neither of those is a clinical claim; both are just what the mechanism does.
+
+It is the classical apparatus made portable. For the buyer who chose Shirodhara because it is a traditional
 practice, that is the argument. For the buyer who wants a machine, it is not.
 
 ## Corrections

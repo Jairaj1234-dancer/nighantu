@@ -15,8 +15,9 @@ products: "shirodhara"
    adjustable, and stable enough not to drift or swing.
 3. **A table with head support.** The neck must be neutral and the forehead level. A bed will
    not do this; the head needs to overhang slightly so oil runs off rather than pooling.
-4. **A catch and return path.** A basin below the head at minimum. A closed-loop base that
-   returns oil to the vessel if you are working alone.
+4. **A catch path.** A basin below the head at minimum, or a vessel with a collection base.
+   Returning oil to the vessel mid-session needs either an assistant or a pump; working alone
+   without either, the answer is a vessel that holds the whole session's oil to begin with.
 5. **A way to warm the oil.** A water bath is the traditional method and still the most
    controllable. Never direct heat, and never a microwave, which heats unevenly and creates
    hot spots you cannot feel until they are on someone's forehead.
@@ -24,7 +25,8 @@ products: "shirodhara"
 ## Space and mess
 
 The honest numbers. A hand-filled pot puts roughly half a litre to a litre of oil in
-circulation; a closed-loop vessel more, around 1.5 litres for the Surya. Either way, assume:
+circulation; a vessel that runs a whole session unrefilled more, around 1.5 litres for the
+Surya. Either way, assume:
 
 - A floor area around the table that will get oil on it. Mat it, and use a mat you are willing
   to write off.

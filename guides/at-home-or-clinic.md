@@ -29,7 +29,7 @@ faq:
   session is the least representative version of the practice.
 - **Cost per session** falls sharply after the equipment is paid for. What remains is the oil:
   reused for at most three sessions and then discarded, which works out at roughly one 500 ml
-  bottle per session on a closed-loop vessel, plus laundry and consumables.
+  bottle per session on a vessel that holds a full session's oil, plus laundry and consumables.
 - **Timing.** Evening sessions before sleep are the traditional slot and the hardest to book.
 
 ## The three real problems
@@ -41,8 +41,10 @@ the non-negotiable piece of equipment.
 
 **Keeping the oil warm.** Oil cools while it runs. With an assistant you swap and reheat. Alone
 you either accept a temperature drift over the session, warm the oil to the top of the range at
-the start and let it fall through, or pause and reheat. Closed-loop recirculation helps, because
-the returned oil is still warm, but no manual setup holds a fixed temperature by itself.
+the start and let it fall through, or pause and reheat. A vessel holding the whole session's oil
+removes the need to stop and refill, which is the main reason solo sessions are workable at all,
+but no gravity setup holds a fixed temperature by itself. Only a powered unit with a heated
+reservoir does that.
 
 **The oil itself.** Between half a litre and 1.5 litres of sesame oil depending on the
 apparatus, a person's hair full of it, a floor

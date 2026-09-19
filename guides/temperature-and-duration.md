@@ -63,9 +63,8 @@ rather than consumed. How much depends on the apparatus, and the two numbers in 
 are often quoted as though they were one.
 
 A traditional dhara patra, filled and refilled by hand, runs on roughly half a litre to a
-litre. A closed-loop vessel holds more by design, because it has to keep a continuous stream
-running without a refill: the Surya Shirodhara takes about 1.5 litres per session, three
-500 ml bottles, in a two litre vessel.
+litre. A vessel built to run a whole session without a refill holds more by design: the Surya
+Shirodhara takes about 1.5 litres per session, three 500 ml bottles, in a two litre vessel.
 
 Either way almost all of it is recovered. The loss per session is what soaks into hair, cloth
 and the catch basin, not what is poured.
