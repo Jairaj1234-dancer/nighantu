@@ -1,13 +1,13 @@
 {
   "community": {
-    "checkedAt": "2026-09-22T06:48:00.715Z",
+    "checkedAt": "2026-09-23T06:39:15.918Z",
     "feeds": 4,
     "matched": 1,
     "scanned": 25
   },
   "competitors": {
     "ajengineer": {
-      "checkedAt": "2026-09-22T06:47:17.782Z",
+      "checkedAt": "2026-09-23T06:39:12.642Z",
       "hash": "c8f0221ba8baca99",
       "signals": [
         "12 liter",
@@ -18,7 +18,7 @@
       "url": "https://www.ajengineer.co.in/ayurvedic-therapy-machine.html"
     },
     "ananda": {
-      "checkedAt": "2026-09-22T06:47:59.966Z",
+      "checkedAt": "2026-09-23T06:39:15.420Z",
       "hash": "4e12cc6bfe5dcfa5",
       "signals": [
         "$120",
@@ -27,7 +27,7 @@
       "url": "https://www.anandashirodhara.com/product-page/ananda-automatic-shirodhara-equipment"
     },
     "cristalmind": {
-      "checkedAt": "2026-09-22T06:47:17.048Z",
+      "checkedAt": "2026-09-23T06:39:12.184Z",
       "hash": "7b99df66ba52e31d",
       "signals": [
         "2-3 minutes",
@@ -37,13 +37,13 @@
       "url": "https://www.cristalmind.com/"
     },
     "esteem": {
-      "checkedAt": "2026-09-22T06:47:18.687Z",
+      "checkedAt": "2026-09-23T06:39:13.696Z",
       "hash": "e3b0c44298fc1c14",
       "signals": [],
       "url": "https://www.esteemservices.in/fully-automatic-shirodhara-machine.htm"
     },
     "kawachi": {
-      "checkedAt": "2026-09-21T07:10:00.757Z",
+      "checkedAt": "2026-09-23T06:39:15.235Z",
       "hash": "d51abf5a796bd560",
       "signals": [
         "₹8,999"
@@ -52,7 +52,7 @@
     }
   },
   "competitorSummary": {
-    "checkedAt": "2026-09-22T06:47:59.966Z",
+    "checkedAt": "2026-09-23T06:39:15.420Z",
     "items": [
       {
         "id": "cristalmind",
@@ -76,7 +76,7 @@
         "id": "kawachi",
         "name": "Kawachi",
         "signals": 1,
-        "status": 0
+        "status": 200
       },
       {
         "id": "ananda",
@@ -110,7 +110,7 @@
   },
   "feeds": {
     "r-ayurveda": {
-      "checkedAt": "2026-09-22T06:48:00.507Z",
+      "checkedAt": "2026-09-23T06:39:15.848Z",
       "seenIds": [
         "t3_1wbhvk6",
         "t3_1waw2la",
@@ -223,18 +223,22 @@
         "t3_1wmjtd1",
         "t3_1wmddco",
         "t3_1wm69nj",
-        "t3_1wm5urz"
+        "t3_1wm5urz",
+        "t3_1wnh9iv",
+        "t3_1wnf677",
+        "t3_1wn77nd",
+        "t3_1wn4j99"
       ]
     }
   },
   "freshness": {
-    "checkedAt": "2026-09-22T06:47:59.968Z",
+    "checkedAt": "2026-09-23T06:39:15.422Z",
     "oldest": [],
     "overdue": 0,
     "total": 815
   },
   "health": {
-    "checkedAt": "2026-09-22T06:47:04.657Z",
+    "checkedAt": "2026-09-23T06:38:52.872Z",
     "failing": 0,
     "failingUrls": [],
     "total": 15
@@ -248,7 +252,7 @@
       "note": "no webmaster tool and no submission route exists",
       "status": "unknown"
     },
-    "checkedAt": "2026-09-22T06:49:44.602Z",
+    "checkedAt": "2026-09-23T06:40:33.316Z",
     "commonCrawl": {
       "checked": [
         "CC-MAIN-2026-39",
@@ -267,7 +271,9 @@
       "taskStatus": "succeeded"
     },
     "wayback": {
-      "status": "absent"
+      "status": "present",
+      "timestamp": "20260918112656",
+      "url": "http://web.archive.org/web/20260918112656/https://nighantu.ageayurveda.com/"
     }
   },
   "indexnow": {
@@ -1184,7 +1190,7 @@
   "products": {
     "broken": 0,
     "brokenHandles": [],
-    "checkedAt": "2026-09-22T06:47:14.281Z",
+    "checkedAt": "2026-09-23T06:39:09.397Z",
     "total": 21
   },
   "search": {},
@@ -1219,6 +1225,11 @@
       "firstSeen": "2026-09-22T06:49:44.603Z",
       "lastSeen": "2026-09-22T06:49:44.603Z"
     },
+    "community:digest:2026-09-23": {
+      "count": 1,
+      "firstSeen": "2026-09-23T06:40:33.316Z",
+      "lastSeen": "2026-09-23T06:40:33.316Z"
+    },
     "competitor:changed:ajengineer:c8f0221ba8baca99": {
       "count": 1,
       "firstSeen": "2026-09-09T12:28:19.438Z",
@@ -1235,9 +1246,9 @@
       "lastSeen": "2026-09-19T06:38:35.633Z"
     },
     "indexation:wayback:present": {
-      "count": 1,
+      "count": 2,
       "firstSeen": "2026-09-11T06:39:30.628Z",
-      "lastSeen": "2026-09-11T06:39:30.628Z"
+      "lastSeen": "2026-09-23T06:40:33.316Z"
     },
     "threads:2026-09-11": {
       "count": 1,
@@ -1278,10 +1289,15 @@
       "count": 1,
       "firstSeen": "2026-09-22T06:49:44.603Z",
       "lastSeen": "2026-09-22T06:49:44.603Z"
+    },
+    "threads:2026-09-23": {
+      "count": 1,
+      "firstSeen": "2026-09-23T06:40:33.316Z",
+      "lastSeen": "2026-09-23T06:40:33.316Z"
     }
   },
   "threads": {
-    "checkedAt": "2026-09-22T06:49:14.361Z",
+    "checkedAt": "2026-09-23T06:40:28.612Z",
     "seenIds": [
       "t5_2skvk",
       "t5_jtmsek",
@@ -1456,19 +1472,21 @@
       "t3_1wmjtd1",
       "t3_1wmddco",
       "t3_1wm69nj",
-      "t3_1wm5urz"
+      "t3_1wm5urz",
+      "t3_1wlpcxe",
+      "t3_1wlh1oq"
     ]
   },
   "threadStats": {
     "blocked": 12,
-    "checkedAt": "2026-09-22T06:49:14.361Z",
-    "fresh": 9,
+    "checkedAt": "2026-09-23T06:40:28.612Z",
+    "fresh": 2,
     "note": "Reddit blocks empty or generic user agents; lib/fetch.mjs sends a descriptive one.",
     "qualified": 1,
     "requests": 13,
-    "seen": 25,
+    "seen": 4,
     "surfaced": 1
   },
-  "updatedAt": "2026-09-22T06:49:49.833Z",
+  "updatedAt": "2026-09-23T06:40:35.566Z",
   "version": 1
 }
