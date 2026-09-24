@@ -1,13 +1,13 @@
 {
   "community": {
-    "checkedAt": "2026-09-23T06:39:15.918Z",
+    "checkedAt": "2026-09-24T06:45:41.953Z",
     "feeds": 4,
     "matched": 1,
     "scanned": 25
   },
   "competitors": {
     "ajengineer": {
-      "checkedAt": "2026-09-23T06:39:12.642Z",
+      "checkedAt": "2026-09-24T06:44:55.809Z",
       "hash": "c8f0221ba8baca99",
       "signals": [
         "12 liter",
@@ -18,7 +18,7 @@
       "url": "https://www.ajengineer.co.in/ayurvedic-therapy-machine.html"
     },
     "ananda": {
-      "checkedAt": "2026-09-23T06:39:15.420Z",
+      "checkedAt": "2026-09-24T06:45:41.115Z",
       "hash": "4e12cc6bfe5dcfa5",
       "signals": [
         "$120",
@@ -27,7 +27,7 @@
       "url": "https://www.anandashirodhara.com/product-page/ananda-automatic-shirodhara-equipment"
     },
     "cristalmind": {
-      "checkedAt": "2026-09-23T06:39:12.184Z",
+      "checkedAt": "2026-09-24T06:44:55.322Z",
       "hash": "7b99df66ba52e31d",
       "signals": [
         "2-3 minutes",
@@ -37,7 +37,7 @@
       "url": "https://www.cristalmind.com/"
     },
     "esteem": {
-      "checkedAt": "2026-09-23T06:39:13.696Z",
+      "checkedAt": "2026-09-24T06:44:56.752Z",
       "hash": "e3b0c44298fc1c14",
       "signals": [],
       "url": "https://www.esteemservices.in/fully-automatic-shirodhara-machine.htm"
@@ -52,7 +52,7 @@
     }
   },
   "competitorSummary": {
-    "checkedAt": "2026-09-23T06:39:15.420Z",
+    "checkedAt": "2026-09-24T06:45:41.115Z",
     "items": [
       {
         "id": "cristalmind",
@@ -76,7 +76,7 @@
         "id": "kawachi",
         "name": "Kawachi",
         "signals": 1,
-        "status": 200
+        "status": 522
       },
       {
         "id": "ananda",
@@ -110,7 +110,7 @@
   },
   "feeds": {
     "r-ayurveda": {
-      "checkedAt": "2026-09-23T06:39:15.848Z",
+      "checkedAt": "2026-09-24T06:45:41.661Z",
       "seenIds": [
         "t3_1wbhvk6",
         "t3_1waw2la",
@@ -227,18 +227,23 @@
         "t3_1wnh9iv",
         "t3_1wnf677",
         "t3_1wn77nd",
-        "t3_1wn4j99"
+        "t3_1wn4j99",
+        "t3_1wop2f5",
+        "t3_1wolkx7",
+        "t3_1woe676",
+        "t3_1wo8oq4",
+        "t3_1wnz3sp"
       ]
     }
   },
   "freshness": {
-    "checkedAt": "2026-09-23T06:39:15.422Z",
+    "checkedAt": "2026-09-24T06:45:41.117Z",
     "oldest": [],
     "overdue": 0,
     "total": 815
   },
   "health": {
-    "checkedAt": "2026-09-23T06:38:52.872Z",
+    "checkedAt": "2026-09-24T06:44:42.421Z",
     "failing": 0,
     "failingUrls": [],
     "total": 15
@@ -252,7 +257,7 @@
       "note": "no webmaster tool and no submission route exists",
       "status": "unknown"
     },
-    "checkedAt": "2026-09-23T06:40:33.316Z",
+    "checkedAt": "2026-09-24T06:46:59.734Z",
     "commonCrawl": {
       "checked": [
         "CC-MAIN-2026-39",
@@ -1190,7 +1195,7 @@
   "products": {
     "broken": 0,
     "brokenHandles": [],
-    "checkedAt": "2026-09-23T06:39:09.397Z",
+    "checkedAt": "2026-09-24T06:44:52.860Z",
     "total": 21
   },
   "search": {},
@@ -1229,6 +1234,11 @@
       "count": 1,
       "firstSeen": "2026-09-23T06:40:33.316Z",
       "lastSeen": "2026-09-23T06:40:33.316Z"
+    },
+    "community:digest:2026-09-24": {
+      "count": 1,
+      "firstSeen": "2026-09-24T06:46:59.734Z",
+      "lastSeen": "2026-09-24T06:46:59.734Z"
     },
     "competitor:changed:ajengineer:c8f0221ba8baca99": {
       "count": 1,
@@ -1297,7 +1307,7 @@
     }
   },
   "threads": {
-    "checkedAt": "2026-09-23T06:40:28.612Z",
+    "checkedAt": "2026-09-24T06:46:55.334Z",
     "seenIds": [
       "t5_2skvk",
       "t5_jtmsek",
@@ -1474,19 +1484,25 @@
       "t3_1wm69nj",
       "t3_1wm5urz",
       "t3_1wlpcxe",
-      "t3_1wlh1oq"
+      "t3_1wlh1oq",
+      "t3_1wlux59",
+      "t3_1wkibyh",
+      "t3_1wj9j89",
+      "t3_1wity98",
+      "t3_1witxph",
+      "t3_1witvbh"
     ]
   },
   "threadStats": {
     "blocked": 12,
-    "checkedAt": "2026-09-23T06:40:28.612Z",
-    "fresh": 2,
+    "checkedAt": "2026-09-24T06:46:55.334Z",
+    "fresh": 6,
     "note": "Reddit blocks empty or generic user agents; lib/fetch.mjs sends a descriptive one.",
-    "qualified": 1,
+    "qualified": 0,
     "requests": 13,
-    "seen": 4,
-    "surfaced": 1
+    "seen": 9,
+    "surfaced": 0
   },
-  "updatedAt": "2026-09-23T06:40:35.566Z",
+  "updatedAt": "2026-09-24T06:47:05.542Z",
   "version": 1
 }
