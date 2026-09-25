@@ -29,6 +29,7 @@ _Bing Webmaster not configured. Add `BING_API_KEY` to enable._
 
 | Date | Source | Cited | Of | Rate |
 | --- | --- | --- | --- | --- |
+| 2026-09-25 | gemini:gemini-2.5-flash | 0 | 2 | 0% |
 | 2026-09-19 | gemini:gemini-2.5-flash | 0 | 68 | 0% |
 | 2026-09-19 | gemini:gemini | 0 | 1 | 0% |
 
