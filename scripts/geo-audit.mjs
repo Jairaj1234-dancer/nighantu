@@ -182,7 +182,13 @@ const DOMAINS = [
 ];
 const BRAND = ['age ayurveda', 'surya shirodhara', 'age ayurveda nighantu'];
 
-const LOG = path.join('data', 'citation-log.csv');
+/**
+ * The standing monthly series lives in citation-log.csv. A focused probe at higher repetition
+ * must not be written into it: mixing rows asked three times with rows asked nine times makes
+ * the per-intent series incomparable, and the whole point of the series is comparability.
+ * GEO_AUDIT_LOG sends a one-off measurement somewhere else.
+ */
+const LOG = process.env.GEO_AUDIT_LOG || path.join('data', 'citation-log.csv');
 
 if (process.argv.includes('--list')) {
   console.log(`\n=== GEO AUDIT PANEL (${ACTIVE.length} active, ${PANEL.length - ACTIVE.length} retired) ===`);
@@ -250,6 +256,34 @@ if (!provider) {
 
 // Sample slice option
 let prompts = ACTIVE.map((p) => p.q);
+
+/**
+ * --only <file>: ask just the prompts named in a file, one per line.
+ *
+ * For re-measuring a specific set, typically the prompts whose pages we have just changed, at
+ * a repetition high enough to tell an intervention from sampling noise. Three asks cannot
+ * distinguish those; at three asks a prompt that genuinely cites half the time reads as 3/3 or
+ * 0/3 often enough to mislead, which is exactly what happened to the cost-to-run prompt
+ * between the September and October readings.
+ *
+ * A name that matches no prompt in the panel is a hard error rather than a silent skip: a typo
+ * that quietly measures nine prompts instead of ten is worse than a run that refuses to start.
+ */
+const onlyIdx = process.argv.indexOf('--only');
+if (onlyIdx !== -1 && process.argv[onlyIdx + 1]) {
+  const wanted = fs.readFileSync(process.argv[onlyIdx + 1], 'utf8')
+    .split(/\r?\n/).map((l) => l.trim()).filter(Boolean);
+  const known = new Set(prompts);
+  const missing = wanted.filter((w) => !known.has(w));
+  if (missing.length) {
+    console.error(`--only names ${missing.length} prompt(s) not in the active panel:`);
+    missing.forEach((m) => console.error(`  ${m}`));
+    process.exit(1);
+  }
+  prompts = wanted;
+  console.log(`--only: asking ${prompts.length} named prompt(s)`);
+}
+
 const sampleIdx = process.argv.indexOf('--sample');
 if (sampleIdx !== -1 && process.argv[sampleIdx + 1]) {
   const n = parseInt(process.argv[sampleIdx + 1], 10);
