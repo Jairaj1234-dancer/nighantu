@@ -18,135 +18,98 @@ import path from 'node:path';
 import os from 'node:os';
 
 /**
- * The panel, and why it is weighted the way it is.
+ * The panel, rebuilt 5 October 2026 around what actually earns citations.
  *
- * Every prompt carries an intent, because the mix is the point:
+ * Bing's AI performance report settled a question the panel could not. In fifteen days the
+ * Nighantu earned 144 AI citations across 26 pages, and every single one went to a herb
+ * monograph or a formulation page. Not one went to a Shirodhara guide, a practice page, a
+ * device page, or either of the operator pages written in September.
  *
- *   buy        someone deciding what to purchase. The site earns citations here.
- *   practical  running a procedure: cost, oil, setup, who can do it. Adjacent to buy.
- *   reference  what a thing is. Wikipedia, Healthline and NIH own this ground and will
- *              for a long time; a new domain does not take it by trying harder.
- *   brand      navigational. Confirms the entity is recognised, brings no new reader.
+ * The old panel was 42 Shirodhara prompts out of 81, and only 4 of the 26 pages earning
+ * citations were mentioned in it at all. The best-performing page on the whole site,
+ * Talisapatra at 32 citations, was never asked about once. So the measurement was built around
+ * the commercial thesis and was blind to the actual asset: a panel can only report on ground it
+ * covers, and this one covered the wrong ground for six weeks.
  *
- * The panel began two-thirds reference, which measured ground we will not win this year and
- * told us nothing about whether the work was paying. It is being rebalanced toward buy and
- * practical, gradually and on purpose:
+ * What the winning pages have in common is worth stating, because it should shape the next
+ * five hundred: an obscure classical substance, named precisely, with botanical identity,
+ * dravyaguna properties and composition set out as structured fact. Almost nobody else writes
+ * these, so competition is thin and specificity is high. They are not commercial pages and
+ * they do not read as commercial pages.
  *
- *   The core never changes. Month-on-month movement is only readable against prompts asked
- *   the same way every time, so retiring a prompt costs a trend line. Retired prompts stay
- *   in this file with the date, rather than being deleted, so an old log stays legible.
+ * Intents here:
+ *   monograph   identity and traditional use of a substance. The proven ground.
+ *   property    rasa, virya, vipaka, botanical name. The structured fields the pages carry.
+ *   composition what a classical formulation contains.
+ *   shirodhara  retained as a NEGATIVE control, not as a hope. Known to earn nothing on
+ *               either engine, so it tells us if something has changed rather than nothing.
+ *   brand       navigational.
  *
- *   The shift comes from growing buy and practical, not from churning everything. Each
- *   iteration adds buying-intent prompts and retires only reference prompts that have
- *   returned nothing and have no commercial edge.
- *
- *   A few reference prompts are kept deliberately as controls. If the monographs ever do
- *   start being cited, these are how we find out; a panel with no reference left in it
- *   could never tell us.
- *
- * 18 Sep 2026: 12 prompts retired, 15 buy and practical prompts added. The mix went from
- * 9 buy+practical of 54 prompts to 32 of 57, and reference from 33 to 21.
+ * Run against both engines so they are directly comparable on the pages that matter:
+ *   GEO_AUDIT_PROVIDER=gemini ... GEO_AUDIT_LOG=data/citation-log.csv
+ *   GEO_AUDIT_PROVIDER=openai ... GEO_AUDIT_LOG=data/citation-log-openai.csv
  */
 const PANEL = [
-  // ---------------------------------------------------------------- buy
-  { q: 'Where can I buy a portable Shirodhara machine?', intent: 'buy' },
-  { q: 'Which companies make portable Shirodhara equipment?', intent: 'buy' },
-  { q: 'Is there a Shirodhara device that works without plumbing?', intent: 'buy' },
-  { q: 'How much does a portable Shirodhara machine cost?', intent: 'buy' },
-  { q: 'What should I look for when buying a Shirodhara pot?', intent: 'buy' },
-  { q: 'Which Shirodhara device is best for a small clinic?', intent: 'buy' },
-  { q: 'What is the difference between a clinic Shirodhara pot and a portable device?', intent: 'buy' },
-  { q: 'What should I look for in a Shirodhara oil?', intent: 'buy' },
-  { q: 'Which oil should I buy for Shirodhara at home?', intent: 'buy' },
-  { q: 'Where can I buy Vata Shirodhara oil?', intent: 'buy' },
-  { q: 'Where can I buy single-herb Ashwagandha capsules?', intent: 'buy' },
-  { q: 'What should I look for when buying Chyawanprash?', intent: 'buy' },
-  { q: 'What should I look for when buying a tongue scraper?', intent: 'buy' },
-  { q: 'Which Ayurvedic brands publish their sourcing?', intent: 'buy' },
-  { q: 'Which Ayurvedic brands publish third-party heavy metal test results?', intent: 'buy' },
-  { q: 'What should I check on an Ayurvedic product label before buying?', intent: 'buy' },
+  // ------------------------------------------------- monograph (proven ground)
+  { q: 'What is Talisapatra and what is it used for in Ayurveda?', intent: 'monograph' },
+  { q: 'What is Narikela and what is it used for in Ayurveda?', intent: 'monograph' },
+  { q: 'What is Karvellaka and what is it used for in Ayurveda?', intent: 'monograph' },
+  { q: 'What is Nagakesara and what is it used for in Ayurveda?', intent: 'monograph' },
+  { q: 'What is Bala and what is it used for in Ayurveda?', intent: 'monograph' },
+  { q: 'What is Bilwa Patra and what is it used for in Ayurveda?', intent: 'monograph' },
+  { q: 'What is Ikshu and what is it used for in Ayurveda?', intent: 'monograph' },
+  { q: 'What is Grinjana and what is it used for in Ayurveda?', intent: 'monograph' },
+  { q: 'What is Haridra and what is it used for in Ayurveda?', intent: 'monograph' },
+  { q: 'What is Kshirabala 101 Avarti and what is it used for in Ayurveda?', intent: 'monograph' },
+  { q: 'What is Matulunga and what is it used for in Ayurveda?', intent: 'monograph' },
+  { q: 'What is Guduchi and what is it used for in Ayurveda?', intent: 'monograph' },
+  { q: 'What is Nimbu and what is it used for in Ayurveda?', intent: 'monograph' },
 
-  // ---------------------------------------------------------- practical
-  { q: 'What does a home Shirodhara setup cost to run?', intent: 'practical' },
-  { q: 'How much oil does a Shirodhara session use?', intent: 'practical' },
-  { q: 'How many bottles of oil does a Shirodhara session need?', intent: 'practical' },
-  { q: 'Can Shirodhara oil be reused between sessions?', intent: 'practical' },
-  { q: 'How many litres should a Shirodhara vessel hold?', intent: 'practical' },
-  { q: 'Do you need a stand for a Shirodhara pot?', intent: 'practical' },
-  { q: 'What equipment do you need for Shirodhara?', intent: 'practical' },
-  { q: 'Can you do Shirodhara at home without an assistant?', intent: 'practical' },
-  { q: 'Is a Shirodhara machine a medical device?', intent: 'practical' },
-  { q: 'What temperature should Shirodhara oil be?', intent: 'practical' },
-  { q: 'How long does a Shirodhara session last?', intent: 'practical' },
-  { q: 'How often should you have Shirodhara?', intent: 'practical' },
-  { q: 'Who should not have Shirodhara?', intent: 'practical' },
-  { q: 'Which oil is used for Vata Shirodhara?', intent: 'practical' },
-  { q: 'Which oil should be used for a Pitta constitution in Shirodhara?', intent: 'practical' },
-  { q: 'What is the traditional material for a Shirodhara pot?', intent: 'practical' },
+  // ----------------------------------------------- composition (proven ground)
+  { q: 'What is Sitopaladi Churna and what does it contain?', intent: 'composition' },
+  { q: 'What is Karpooradi Thailam and what does it contain?', intent: 'composition' },
+  { q: 'What is Ashokarishta and what does it contain?', intent: 'composition' },
+  { q: 'What is Chyawanprash and what does it contain?', intent: 'composition' },
+  { q: 'What is Guggulu and what does it contain?', intent: 'composition' },
+  { q: 'What is Bakuchi Taila and what does it contain?', intent: 'composition' },
+  { q: 'What is Hingwashtak Churna and what does it contain?', intent: 'composition' },
+  { q: 'What is Anu Taila and what does it contain?', intent: 'composition' },
+  { q: 'What is Gandharvahastadi Kashayam and what does it contain?', intent: 'composition' },
+  { q: 'What is Amritottaram Kashayam and what does it contain?', intent: 'composition' },
+  { q: 'What is Karpasasthyadi Thailam and what does it contain?', intent: 'composition' },
+  { q: 'What is Punarnavadi Guggulu and what does it contain?', intent: 'composition' },
+  { q: 'What is Neelibringadi Thailam and what does it contain?', intent: 'composition' },
 
-  // ---------------------------------------------------------- reference
-  // Kept as controls: if the monographs ever start being cited, these say so.
-  { q: 'What is Shirodhara and where does it come from?', intent: 'reference', control: true },
-  { q: 'What is the Ayurvedic category of Ashwagandha?', intent: 'reference', control: true },
-  { q: 'What is the rasa, virya and vipaka of Shatavari?', intent: 'reference', control: true },
-  { q: 'What are the main withanolides in Withania somnifera?', intent: 'reference', control: true },
-  { q: 'What is Triphala and what is it traditionally used for?', intent: 'reference', control: true },
-  { q: 'What is the pharmacopoeial status of Ashwagandha in Europe?', intent: 'reference', control: true },
-  { q: 'What is the botanical name of Yashtimadhu and what is it used for traditionally?', intent: 'reference' },
-  { q: 'What is the dosha effect of Haridra?', intent: 'reference' },
-  { q: 'What is Guduchi used for in classical Ayurveda?', intent: 'reference' },
-  { q: 'What is Bhringraj traditionally used for?', intent: 'reference' },
-  { q: 'What is the difference between Shirodhara and shiro abhyanga?', intent: 'reference' },
-  { q: 'What is takra dhara?', intent: 'reference' },
-  { q: 'What is murdha taila?', intent: 'reference' },
-  { q: 'Which classical text describes Shirodhara?', intent: 'reference' },
-  { q: 'What is shiro basti?', intent: 'reference' },
-  { q: 'What is a dhara patra?', intent: 'reference' },
-  { q: 'What is a neti pot used for in Ayurveda?', intent: 'reference' },
-  { q: 'What Ayurvedic instruments are described in the Sushruta Samhita?', intent: 'reference' },
-  { q: 'What is an avaleha in Ayurveda?', intent: 'reference' },
-  { q: 'What is the difference between a churna and a vati?', intent: 'reference' },
-  { q: 'What is Ajamodadi Churna and what is the standard dose?', intent: 'reference' },
+  // ------------------------------------- property: the structured fields pages carry
+  { q: 'What is the botanical name of Talisapatra?', intent: 'property' },
+  { q: 'What is the botanical name of Narikela?', intent: 'property' },
+  { q: 'What is the botanical name of Karvellaka?', intent: 'property' },
+  { q: 'What is the botanical name of Nagakesara?', intent: 'property' },
+  { q: 'What is the botanical name of Bala?', intent: 'property' },
+  { q: 'What is the botanical name of Bilwa Patra?', intent: 'property' },
+  { q: 'What is the botanical name of Ikshu?', intent: 'property' },
+  { q: 'What is the rasa, virya and vipaka of Talisapatra?', intent: 'property' },
+  { q: 'What is the rasa, virya and vipaka of Narikela?', intent: 'property' },
+  { q: 'What is the rasa, virya and vipaka of Karvellaka?', intent: 'property' },
+  { q: 'What is the rasa, virya and vipaka of Nagakesara?', intent: 'property' },
+  { q: 'What is the rasa, virya and vipaka of Bala?', intent: 'property' },
+  { q: 'What is the rasa, virya and vipaka of Bilwa Patra?', intent: 'property' },
+  { q: 'What is the Ayurvedic category of Ashwagandha?', intent: 'property' },
+  { q: 'What is the dosha effect of Haridra?', intent: 'property' },
 
-  // -------------------------------------------------------------- trade
-  // Operators buying Shirodhara for a business rather than for themselves. Tagged trade
-  // rather than buy deliberately: folding them into buy would change that rate's denominator
-  // and break the one trend line the rebalance was designed to keep readable.
-  { q: 'How do I add Shirodhara to my spa menu?', intent: 'trade' },
-  { q: 'What does a spa need to offer Shirodhara?', intent: 'trade' },
-  { q: 'What equipment does a clinic need to offer Shirodhara?', intent: 'trade' },
-  { q: 'How long should a Shirodhara appointment be booked for?', intent: 'trade' },
-  { q: 'Do therapists need a qualification to perform Shirodhara?', intent: 'trade' },
-  { q: 'What can a spa say when advertising Shirodhara?', intent: 'trade' },
-  { q: 'What does a hospital Panchakarma unit need for Shirodhara?', intent: 'trade' },
-  { q: 'Who is allowed to perform Shirodhara in a hospital?', intent: 'trade' },
-  { q: 'Is NABH accreditation required to offer Panchakarma?', intent: 'trade' },
-  { q: 'What are the room requirements for a Panchakarma unit in India?', intent: 'trade' },
-  { q: 'Is there a standard for reusing Shirodhara oil between patients?', intent: 'trade' },
-  { q: 'Can a Shirodhara machine handle buttermilk and milk as well as oil?', intent: 'trade' },
+  // ------------------------------------------- shirodhara: NEGATIVE control, 6 prompts
+  // Known to earn nothing on Gemini across ~900 asks and nothing on Bing across 15 days.
+  // Kept so that a change would be visible, not because a change is expected.
+  { q: 'Where can I buy a portable Shirodhara machine?', intent: 'shirodhara' },
+  { q: 'What does a home Shirodhara setup cost to run?', intent: 'shirodhara' },
+  { q: 'Is a Shirodhara machine a medical device?', intent: 'shirodhara' },
+  { q: 'What temperature should Shirodhara oil be?', intent: 'shirodhara' },
+  { q: 'How do I add Shirodhara to my spa menu?', intent: 'shirodhara' },
+  { q: 'What does a hospital Panchakarma unit need for Shirodhara?', intent: 'shirodhara' },
 
-  // -------------------------------------------------------------- brand
-  { q: 'What is Age Ayurveda?', intent: 'brand' },
+  // ------------------------------------------------------------------------ brand
   { q: 'What is the Age Ayurveda Nighantu?', intent: 'brand' },
-  { q: 'Who publishes the Nighantu?', intent: 'brand' },
   { q: 'What is Surya Shirodhara?', intent: 'brand' },
-
-  // ------------------------------------------------------------ retired
-  // Reference ground with no commercial edge that returned nothing across two runs.
-  { q: 'Which classical texts describe Brahmi?', intent: 'reference', retired: '2026-09-18' },
-  { q: 'What is Punarnava and which dosha does it pacify?', intent: 'reference', retired: '2026-09-18' },
-  { q: 'What is Tagara used for in Ayurveda?', intent: 'reference', retired: '2026-09-18' },
-  { q: 'What is Manjistha traditionally used for?', intent: 'reference', retired: '2026-09-18' },
-  { q: 'What is the difference between Amla and Amalaki?', intent: 'reference', retired: '2026-09-18' },
-  { q: 'Which herbs are lekhana in Ayurveda?', intent: 'reference', retired: '2026-09-18' },
-  { q: 'What is Vacha and how is it used externally?', intent: 'reference', retired: '2026-09-18' },
-  { q: 'What is a taila in Ayurvedic pharmacy?', intent: 'reference', retired: '2026-09-18' },
-  { q: 'What is an arishta and how is it different from an asava?', intent: 'reference', retired: '2026-09-18' },
-  { q: 'What is a guggulu preparation?', intent: 'reference', retired: '2026-09-18' },
-  { q: 'What is a ghrita in Ayurveda?', intent: 'reference', retired: '2026-09-18' },
-  // "Nighantu" is the ordinary Sanskrit word for a lexicon, so this prompt cannot
-  // distinguish a citation of ours from any of the classical nighantus. It never could.
-  { q: 'What is a nighantu in Ayurveda?', intent: 'brand', retired: '2026-09-18' },
 ];
 
 /** Asked this run. Retired prompts stay above as history and are never asked. */
