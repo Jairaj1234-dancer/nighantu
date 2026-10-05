@@ -373,8 +373,26 @@ async function queryModel(question) {
   }
 
   if (provider === 'openai') {
+    /**
+     * This must use web search, and the previous version did not.
+     *
+     * It called chat/completions with no tool, which asks the model what it remembers rather
+     * than what it can find. For a site six weeks old that measures nothing: a static model
+     * has never seen it, so every prompt would have returned "not cited" and the run would
+     * have read as a confident zero. That is the worst kind of wrong number, and it is why
+     * this branch had to be rewritten before it was ever scheduled.
+     *
+     * The Responses API with the web_search tool is the path that actually searches, and it
+     * returns url_citation annotations, which are the counterpart of Gemini's groundingChunks.
+     *
+     * CAVEAT, recorded deliberately: the exact annotation shape below has NOT been observed
+     * against a live key, because none is configured yet. The extractor therefore reads several
+     * plausible locations and, when it finds none, prints the response keys so the first real
+     * run tells us the shape instead of silently reporting zero citations. Do not trust the
+     * first run's numbers until that diagnostic has been read.
+     */
     const model = process.env.GEO_AUDIT_MODEL || 'gpt-4o';
-    const res = await fetch('https://api.openai.com/v1/chat/completions', {
+    const res = await fetch('https://api.openai.com/v1/responses', {
       method: 'POST',
       headers: {
         'content-type': 'application/json',
@@ -382,12 +400,41 @@ async function queryModel(question) {
       },
       body: JSON.stringify({
         model,
-        messages: [{ role: 'user', content: question }],
+        tools: [{ type: 'web_search' }],
+        input: question,
       }),
     });
     const json = await res.json();
     if (!res.ok) throw new Error(json?.error?.message ?? `HTTP ${res.status}`);
-    return { text: json.choices?.[0]?.message?.content ?? '', model, sources: [], urls: [] };
+
+    // Text: prefer the convenience field, fall back to walking the output items.
+    let text = json.output_text ?? '';
+    if (!text) {
+      for (const item of json.output ?? []) {
+        for (const part of item?.content ?? []) if (part?.text) text += `${part.text} `;
+      }
+    }
+
+    // Citations: url_citation annotations are the documented shape; the rest are belt and braces.
+    const urls = new Set();
+    for (const item of json.output ?? []) {
+      for (const part of item?.content ?? []) {
+        for (const ann of part?.annotations ?? []) {
+          const u = ann?.url ?? ann?.url_citation?.url;
+          if (u) urls.add(String(u).split('?')[0]);
+        }
+      }
+    }
+    if (!urls.size && !process.env.GEO_AUDIT_QUIET) {
+      // Not an error: an answer can legitimately cite nothing. But if it is ALWAYS empty the
+      // extractor is wrong, and this line is how we find that out rather than trusting a zero.
+      console.log(`[no citations extracted; response keys: ${Object.keys(json).join(',')}]`);
+    }
+    const sources = [...urls].map((u) => {
+      try { return new URL(u).hostname.replace(/^www\./, '').toLowerCase(); } catch { return ''; }
+    }).filter(Boolean);
+
+    return { text, model, sources, urls: [...urls] };
   }
 
   if (provider === 'gemini') {

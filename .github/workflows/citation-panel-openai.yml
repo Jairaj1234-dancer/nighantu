@@ -1,0 +1,87 @@
+name: Citation panel (ChatGPT)
+
+# The same 69 prompts, asked of ChatGPT with web search instead of Gemini with Google Search.
+#
+# Why a second workflow rather than a flag on the first. ChatGPT search runs on Bing's index,
+# which is a wholly separate index from Google's. A page can be in one and not the other, so a
+# single-engine reading cannot tell a content problem from a discovery problem on the other
+# channel. Every number this project has produced so far came from Gemini alone, and the
+# OpenAI code path had never once been executed.
+#
+# This runs on the 8th rather than the 1st, a week after the Gemini panel, for three reasons:
+# the two never contend for a runner, the logs stay separate and attributable, and a week's gap
+# means a page edited after one reading is crawled before the other.
+#
+# Skips itself cleanly when no key is set, so it can sit committed without one.
+
+on:
+  schedule:
+    # 05:41 UTC on the 8th (11:11 IST). Off the hour, and off the 1st and 25th which the
+    # Gemini panel uses.
+    - cron: '41 5 8 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: monitors
+  cancel-in-progress: false
+
+jobs:
+  panel:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Check for an OpenAI key
+        id: key
+        run: |
+          if [ -n "${{ secrets.OPENAI_API_KEY }}" ]; then
+            echo "present=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "present=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::No OPENAI_API_KEY. Skipping the ChatGPT panel."
+          fi
+
+      - uses: actions/setup-node@v5
+        if: steps.key.outputs.present == 'true'
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+        if: steps.key.outputs.present == 'true'
+
+      - name: Run the panel against ChatGPT
+        if: steps.key.outputs.present == 'true'
+        env:
+          # Passed as env vars, never interpolated into a shell string, so they cannot reach
+          # the run log.
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GEO_AUDIT_PROVIDER: openai
+          # Its own log. Mixing engines in one file would make the per-intent series
+          # meaningless, and comparing them is the entire reason this exists.
+          GEO_AUDIT_LOG: data/citation-log-openai.csv
+          # No documented free allowance here, unlike Gemini. A 69-prompt run at three asks is
+          # 207 searched requests; the ceiling is the backstop against a loop, since billing is
+          # capped at Rs 500 a month across everything.
+          GEO_AUDIT_MAX_REQUESTS: '260'
+          GEO_AUDIT_PACE_MS: '3000'
+        # 207 requests at this pace is roughly 25 minutes. Headroom over that, because a run
+        # killed part way through commits a partial log that reads as a collapse rather than as
+        # a truncated job.
+        timeout-minutes: 50
+        run: node scripts/geo-audit.mjs --resume 7
+
+      # Runs even on failure: rows are appended as they are produced, so a partial run still
+      # holds real answers worth keeping.
+      - name: Commit the log
+        if: always() && steps.key.outputs.present == 'true'
+        run: |
+          git config user.name  "nighantu-monitor[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/citation-log-openai.csv || true
+          git commit -m "ChatGPT citation panel $(date -u +%Y-%m)" || exit 0
+          git pull --rebase --autostash origin main || true
+          git push origin HEAD:main
