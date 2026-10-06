@@ -98,22 +98,92 @@ for (const [bi, mono] of synonymBlocks.entries()) {
   const synAt = mono.synAt;
   const stop = bi + 1 < synonymBlocks.length ? synonymBlocks[bi + 1].line : lines.length;
 
-  // Collect the label run. Blank lines inside it are OCR spacing, not a break.
-  const labels = [];
+  /**
+   * Walk the SYNONYMS region once, recording each label and whatever follows it.
+   *
+   * The OCR produced three layouts and this loop has to tolerate all of them, because
+   * breaking out of the scan at the first unexpected line is what hid two of the three.
+   *
+   *   1. inline        "Hindi : Gokhru"                       value on the label's own line
+   *   2. interleaved   "Hindi :" / "" / "Patsan, Patna"       value on the next content line,
+   *                    with an em dash standing in for "this language has no name"
+   *   3. column-split  all fifteen labels, then all fifteen values further down the page
+   *
+   * The first version stopped collecting labels as soon as it met a non-label line, so in
+   * layout 2 it found one label (Sanskrit), then hit the em dash and gave up: 96 monographs
+   * with a complete, explicitly gap-marked synonym list were recorded as having no values at
+   * all. Layout 2 is in fact the easiest of the three, because it marks its own gaps.
+   */
+  const EMPTY_MARK = /^[—–\-_]{1,3}$/;
+
+  /**
+   * Read the region as a sequence of tokens first, then decide the layout from its shape.
+   *
+   * Deciding layout while scanning does not work, and got Gokshura's Sanskrit synonyms
+   * published as Urdu. That monograph is layout 3 with colon-less labels: fifteen bare
+   * language names, then the values. A scan that treats the first non-label line as "the
+   * previous label's value" hands Sanskrit's names to Urdu, the label it happens to have
+   * read last, and then stops. Thirty-four monographs came out that way.
+   *
+   * The shape is what distinguishes the layouts, so collect `L` and `V` tokens and look at
+   * the run of labels: if every label arrives before any value, the values are a separate
+   * column block and position is the only link. If labels and values alternate, each value
+   * belongs to the label immediately before it.
+   */
+  const tokens = [];
   let j = synAt + 1;
   let blanks = 0;
-  while (j < stop && labels.length < 20) {
+  while (j < stop && tokens.length < 48) {
     const t = lines[j].trim();
-    if (!t) { blanks += 1; if (blanks > 4) break; j += 1; continue; }
-    const lab = labelOf(t);
-    if (!lab) break;
+    if (!t) { blanks += 1; if (blanks > 6) break; j += 1; continue; }
+    if (SECTION.test(t)) break;
     blanks = 0;
-    labels.push(lab);
+    const lab = labelOf(t);
+    if (lab) tokens.push({ kind: 'L', lab, line: j });
+    else tokens.push({ kind: 'V', text: t, line: j });
     j += 1;
   }
+
+  const labels = tokens.filter((t) => t.kind === 'L').map((t) => t.lab);
   if (!labels.length) { stats.noSynonyms += 1; continue; }
 
+  // Alternating iff at least one value token sits between two label tokens.
+  const firstV = tokens.findIndex((t) => t.kind === 'V');
+  const lastL = tokens.reduce((a, t, i) => (t.kind === 'L' ? i : a), -1);
+  const interleaved = firstV !== -1 && firstV < lastL;
+
+  if (interleaved) {
+    // Each value attaches to the label immediately preceding it. An em dash is the source
+    // saying this language has no name, so it leaves the label empty rather than being
+    // recorded as a name.
+    let current = null;
+    for (const t of tokens) {
+      if (t.kind === 'L') { current = t.lab; continue; }
+      if (!current || current.value) continue;
+      if (!EMPTY_MARK.test(t.text)) current.value = t.text;
+    }
+    // Advance j past the region so the column-split branch below is never reached.
+    j = tokens.length ? tokens[tokens.length - 1].line + 1 : j;
+  } else {
+    j = lastL === -1 ? j : tokens[lastL].line + 1;
+  }
+
   const withInline = labels.filter((l) => l.value);
+
+  // Layout 2 resolves completely here: every label took the value that followed it, and the
+  // ones that took nothing genuinely have no name in the source. Record it as inline, since
+  // no alignment was inferred, and keep the blank languages as evidence of that.
+  if (interleaved) {
+    stats.inline += 1;
+    records.push({
+      heading: mono.heading, part: mono.part, sourceLine: mono.line + 1,
+      alignment: 'inline',
+      layout: 'interleaved',
+      blankLabels: labels.filter((l) => !l.value).map((l) => l.lang),
+      names: withInline.map((l) => ({ lang: l.lang, code: l.code, value: l.value })),
+    });
+    continue;
+  }
 
   // Case A: OCR kept values on their label lines. Exact, nothing inferred.
   //
@@ -146,16 +216,31 @@ for (const [bi, mono] of synonymBlocks.entries()) {
     && !/per cent|Appendix|Not more than|Foreign matter|Total Ash|insoluble|Extractive|Moisture|Loss on drying/i.test(t)
     && !/[.;:]\s*$/.test(t);
 
-  const values = [];
-  for (let k = j; k < stop && values.length < labels.length; k += 1) {
+  /**
+   * Take the longest contiguous run of name-shaped lines, not the first one.
+   *
+   * The value column does not always follow the labels directly. OCR often emitted the
+   * monograph's description prose first and the name column after it, sometimes a page
+   * later, so a scan that stopped at the first non-name line found nothing at all for 87
+   * monographs. Blank lines and page numbers sit inside the run and do not end it; a line of
+   * prose does.
+   */
+  const runs = [];
+  let run = [];
+  for (let k = j; k < stop; k += 1) {
     const t = lines[k].trim();
-    if (!t) continue;
-    if (NOISE(t)) continue;
-    // Stop at the first content line that is not name-shaped: the names are contiguous, so
-    // a prose line means the run has ended and anything beyond it is description text.
-    if (!isNameLine(t)) break;
-    values.push({ text: t, line: k });
+    if (!t || NOISE(t)) continue;           // spacing and page furniture: run continues
+    if (isNameLine(t)) { run.push({ text: t, line: k }); continue; }
+    if (run.length) runs.push(run);
+    run = [];
   }
+  if (run.length) runs.push(run);
+
+  // An exact-length run is the one the labels belong to. Otherwise take the longest, which
+  // is the best evidence available, and let the count mismatch route it to adjudication.
+  const values = runs.find((r) => r.length === labels.length)
+    ?? runs.sort((a, b) => b.length - a.length)[0]
+    ?? [];
 
   if (values.length === labels.length) {
     stats.positional += 1;
