@@ -20433,6 +20433,536 @@
           "structural": false
         }
       ]
+    },
+    "chyawanprash": {
+      "afiPart": "I",
+      "entryNumber": "3:11",
+      "entryHeading": "CYAVANAPRASA",
+      "classicalSource": "Carakasamhita, Cikitsasthana, Adhyaya 1 (1); 62-69",
+      "sourceUrl": "https://archive.org/details/b32232184",
+      "reconstructed": "This entry's table came out of the scan in four separate column blocks and was rejoined. Rows marked rejoined had their name and their part in different blocks. Four adversarial verification passes refused earlier versions of this table; what they found is applied here and recorded per row.",
+      "counts": {
+        "numberedRows": 48,
+        "distinctIngredients": 46,
+        "rowsListedTwice": [
+          "pippali",
+          "ela"
+        ],
+        "notPlantMaterial": [
+          "38. Water for decoction",
+          "39. Ghrta",
+          "42. Madhu"
+        ],
+        "distinctPlantIngredients": 43,
+        "decoctionRangeAsPrinted": "Ingredients 1 to 38 are coarsely powdered",
+        "decoctionRangeCaveat": "Quote only. Row 38 is the water itself and row 37 amalaka is bundled in cloth and suspended whole rather than powdered, so the printed range cannot be restated as a count of decoction drugs.",
+        "reconcilesWith45": "A count of 45 is this same entry under a different rule: 46 distinct ingredients less the water, or 48 rows less water, ghee and honey. It is not a rival source.",
+        "doesNotReconcile": "Neither 50 nor 18 is reachable from this entry under any rule, so both belong to a different recension or a commercial label and must be attributed, not blended in."
+      },
+      "rows": [
+        {
+          "n": 1,
+          "name": "Bilva",
+          "gloss": null,
+          "part": "Rt./St.Bk.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 2,
+          "name": "Agnimantha",
+          "gloss": null,
+          "part": "Rt./St.Bk.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 3,
+          "name": "Syonaka",
+          "gloss": null,
+          "part": "Rt./St.Bk.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 4,
+          "name": "Kasmari (gambhari)",
+          "gloss": null,
+          "part": "Rt./St.Bk.",
+          "quantity": "48 g",
+          "ocrCorrected": "as printed \"Kasmari (gambhar1)\": 1 read as i",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 5,
+          "name": "Patali (patala)",
+          "gloss": null,
+          "part": "Rt./St.Bk.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 6,
+          "name": "Bala",
+          "gloss": null,
+          "part": "Pl.",
+          "quantity": "48 g",
+          "partOcr": "?1.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 7,
+          "name": "Salaparni",
+          "gloss": null,
+          "part": "Pl.",
+          "quantity": "48 g",
+          "partOcr": "?1.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 8,
+          "name": "Prsniparni",
+          "gloss": null,
+          "part": "Pl.",
+          "quantity": "48 g",
+          "partOcr": "P1.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 9,
+          "name": "Mudgaparni",
+          "gloss": null,
+          "part": "Pl.",
+          "quantity": "48 g",
+          "partOcr": "?.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 10,
+          "name": "Masaparni",
+          "gloss": null,
+          "part": "Pl.",
+          "quantity": "48 g",
+          "partOcr": "?1.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 11,
+          "name": "Pippali",
+          "gloss": null,
+          "part": "Fr.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 12,
+          "name": "Svadamstra (goksura)",
+          "gloss": null,
+          "part": "Pl.",
+          "quantity": "48 g",
+          "ocrCorrected": "as printed \"Svadanistra(goksura)\": read as \"Svadamstra\" (verse at line 7079 reads श्वदष्ट्रा)",
+          "partOcr": "?1.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 13,
+          "name": "Brhati",
+          "gloss": null,
+          "part": "Pl.",
+          "quantity": "48 g",
+          "partOcr": "?1.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 14,
+          "name": "Kantakari",
+          "gloss": null,
+          "part": "Pl.",
+          "quantity": "48 g",
+          "partOcr": "PL",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 15,
+          "name": "Srngi (karkatasrngi)",
+          "gloss": null,
+          "part": "Gl.",
+          "quantity": "48 g",
+          "ocrCorrected": "as printed \"Srigi (karkatasrngi)\": read as \"Srngi\" (verse at line 7080 reads शृंगी)",
+          "partOcr": "(1.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 16,
+          "name": "Tamalaki",
+          "gloss": null,
+          "part": "Pl.",
+          "quantity": "48 g",
+          "partOcr": "?1.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 17,
+          "name": "Draksa",
+          "gloss": null,
+          "part": "Dr. Fr.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 18,
+          "name": "Jivanti",
+          "gloss": null,
+          "part": "Rt.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 19,
+          "name": "Puskara",
+          "gloss": null,
+          "part": "Rt.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 20,
+          "name": "Agaru",
+          "gloss": null,
+          "part": "Ht.Wd.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 21,
+          "name": "Abhaya (haritaki)",
+          "gloss": null,
+          "part": "P.",
+          "quantity": "48 g",
+          "ocrCorrected": "as printed \"Abhaya (haritak1)\": 1 read as i",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 22,
+          "name": "Amrta (guduci)",
+          "gloss": null,
+          "part": "St.",
+          "quantity": "48 g",
+          "ocrCorrected": "as printed \"Amrta (परत्र)\": read as \"(guduci)\" (the book prints this gloss as guduci elsewhere)",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 23,
+          "name": "Rddhi",
+          "gloss": null,
+          "part": "Sub. Rt. Tr.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 24,
+          "name": "Jivaka",
+          "gloss": null,
+          "part": "Rt. Tr.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 25,
+          "name": "Rsabhaka",
+          "gloss": null,
+          "part": "Rt. Tr.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 26,
+          "name": "Sati",
+          "gloss": null,
+          "part": "Rz.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 27,
+          "name": "Musta",
+          "gloss": null,
+          "part": "Rz.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 28,
+          "name": "Punarnava (rakta punarnava)",
+          "gloss": null,
+          "part": "Pl.",
+          "quantity": "48 g",
+          "partOcr": "P1.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 29,
+          "name": "Meda",
+          "gloss": null,
+          "part": "Rt. Tr.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 30,
+          "name": "Ela (suksmaila)",
+          "gloss": null,
+          "part": "Sd.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 31,
+          "name": "Candana (Sveta candana)",
+          "gloss": null,
+          "part": "Ht.Wd.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 32,
+          "name": "Utpala",
+          "gloss": null,
+          "part": "Pl.",
+          "quantity": "48 g",
+          "partOcr": "?1.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 33,
+          "name": "Vidari",
+          "gloss": null,
+          "part": "Rt. Tr.",
+          "quantity": "48 g.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        },
+        {
+          "n": 34,
+          "name": "Vrsamula (vasa)",
+          "gloss": null,
+          "part": "Rt.",
+          "quantity": "48 g.",
+          "ocrCorrected": "as printed \"Vrsamiula (vasa)\": read as \"Vrsamula\" (verse at line 7087 reads वृषमूलानि)",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        },
+        {
+          "n": 35,
+          "name": "Kakoli",
+          "gloss": null,
+          "part": "Sub.Rt.",
+          "quantity": "48 g.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        },
+        {
+          "n": 36,
+          "name": "Kakanasika",
+          "gloss": null,
+          "part": "Fr.",
+          "quantity": "48 g.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        },
+        {
+          "n": 37,
+          "name": "Amalaka (amalaki)",
+          "gloss": null,
+          "part": "Fr.",
+          "quantity": "500 in number",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        },
+        {
+          "n": 38,
+          "name": "Water for decoction",
+          "gloss": null,
+          "part": "",
+          "quantity": "12.288 l.",
+          "reduction": "reduced to 3.072 l.",
+          "reductionNote": "The scan reads \"5.072\". The book prints 3.072 l for this reduction in nine other entries, the method text specifies a reduction to one fourth, and one fourth of 12.288 l is 3.072 l, so the 5 is a misread 3.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        },
+        {
+          "n": 39,
+          "name": "Ghrta",
+          "gloss": null,
+          "part": "",
+          "quantity": "288 g.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        },
+        {
+          "n": 40,
+          "name": "Taila (tila)",
+          "gloss": null,
+          "part": "Ol.",
+          "quantity": "288 g.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        },
+        {
+          "n": 41,
+          "name": "Matsyandika",
+          "gloss": null,
+          "part": "",
+          "quantity": "2.400 kg.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        },
+        {
+          "n": 42,
+          "name": "Madhu",
+          "gloss": null,
+          "part": "",
+          "quantity": "288 g.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        },
+        {
+          "n": 43,
+          "name": "Tugaksiri (vamsa)",
+          "gloss": null,
+          "part": "S.C.",
+          "quantity": "192 g.",
+          "ocrCorrected": "as printed \"Tugaksiri (vanisa) iS)\": read as \"(vamsa)\" (the book prints vamsa elsewhere); the part is printed \"iS)\" in the scan and is read as \"S.C.\"",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        },
+        {
+          "n": 44,
+          "name": "Pippali",
+          "gloss": null,
+          "part": "Fr.",
+          "quantity": "96 g.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        },
+        {
+          "n": 45,
+          "name": "Tvak",
+          "gloss": null,
+          "part": "St. Bk.",
+          "quantity": "48 g.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        },
+        {
+          "n": 46,
+          "name": "Ela (suksmaila)",
+          "gloss": null,
+          "part": "Sd.",
+          "quantity": "48 g.",
+          "ocrCorrected": "as printed \"Ela (stksmaila)\": read as \"(suksmaila)\" (row 30 of this table prints suksmaila)",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        },
+        {
+          "n": 47,
+          "name": "Patra (tejapatra)",
+          "gloss": null,
+          "part": "Lf.",
+          "quantity": "48 g.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        },
+        {
+          "n": 48,
+          "name": "Kesara (nagakesara)",
+          "gloss": null,
+          "part": "Stmn.",
+          "quantity": "48 g.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        }
+      ]
     }
   }
 }

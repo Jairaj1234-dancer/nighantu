@@ -327,6 +327,10 @@ footer.site nav { display: flex; gap: 1rem; flex-wrap: wrap; margin-bottom: .75r
 /* The Formulary's dose line: body-weight text so the figure reads as a fact on the page,
    with its caveat in the softer note colour alongside. */
 .composition-dose { margin: .9rem 0 0; font-size: .95rem; }
+/* The derived-count block: body text for the figures, note colour for the rules. */
+.composition-counts { margin: .9rem 0 0; }
+.composition-counts > p { margin: 0 0 .5rem; font-size: .95rem; }
+.composition-counts > p:last-child { margin-bottom: 0; }
 .composition-dose strong { font-weight: 600; }
 .composition .ocrnote { color: var(--ink-soft); cursor: help; }
 .composition .illegible { color: var(--ink-soft); font-size: .88em; }
