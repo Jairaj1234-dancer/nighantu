@@ -71,8 +71,20 @@ function localFileFor(url) {
 
 const state = loadState();
 const previous = state.indexnow.hashes ?? {};
+/**
+ * Which URLs have actually been POSTed, as distinct from which have been hashed.
+ *
+ * Bing's SEO report flagged "some important pages weren't submitted via IndexNow" on
+ * 6 October, and the cause was this gap. The old state recorded a hash for every URL in the
+ * sitemap whenever any submission succeeded, so a URL whose hash was first recorded by a
+ * --baseline run, or by a run in which it was not among the changed set, looked permanently
+ * "already known". It would never be submitted unless its content later changed. The hash
+ * answered "has this page changed?" and nothing answered "has this page ever been sent?".
+ */
+const submitted = new Set(state.indexnow.submitted ?? []);
 const current = {};
 const changed = [];
+const neverSent = [];
 
 for (const url of urls) {
   const file = localFileFor(url);
@@ -80,21 +92,36 @@ for (const url of urls) {
   const h = hash(fs.readFileSync(file, 'utf8'));
   current[url] = h;
   if (ALL || previous[url] !== h) changed.push(url);
+  else if (!submitted.has(url)) neverSent.push(url);
 }
+
+/**
+ * Catch-up is rate-limited on purpose. IndexNow's FAQ warns against bulk resubmission and
+ * throttles hosts that do it, so a backlog of ~900 never-sent URLs is cleared a slice at a
+ * time across successive deploys rather than in one POST that looks like exactly the abuse
+ * the protocol is guarding against.
+ */
+const CATCHUP = Math.max(0, Number(process.env.INDEXNOW_CATCHUP ?? 200));
+const catchUp = neverSent.slice(0, CATCHUP);
+const toSubmit = [...new Set([...changed, ...catchUp])];
 
 const missing = urls.length - Object.keys(current).length;
 console.log(`host        ${HOST}`);
 console.log(`keyLocation ${KEY_LOCATION}`);
 console.log(`urls        ${urls.length} in sitemap${missing ? `, ${missing} with no local file` : ''}`);
 console.log(`changed     ${changed.length}${ALL ? ' (--all: change detection bypassed)' : ''}`);
+console.log(`never sent  ${neverSent.length}${neverSent.length > catchUp.length ? `, submitting ${catchUp.length} this run` : ''}`);
+console.log(`to submit   ${toSubmit.length}`);
 
 if (DRY) {
-  changed.slice(0, 10).forEach((u) => console.log(`  ${u}`));
-  if (changed.length > 10) console.log(`  ... and ${changed.length - 10} more`);
+  toSubmit.slice(0, 10).forEach((u) => console.log(`  ${u}`));
+  if (toSubmit.length > 10) console.log(`  ... and ${toSubmit.length - 10} more`);
   process.exit(0);
 }
 
 if (BASELINE) {
+  // Deliberately does NOT populate `submitted`: a baseline records what the pages currently
+  // look like, not a claim that anyone sent them. Asserting otherwise is what caused the gap.
   state.indexnow.hashes = current;
   state.indexnow.lastSubmittedAt = state.indexnow.lastSubmittedAt ?? new Date().toISOString();
   saveState(state);
@@ -102,7 +129,7 @@ if (BASELINE) {
   process.exit(0);
 }
 
-if (!changed.length) {
+if (!toSubmit.length) {
   // Still record hashes: a first run on an existing site establishes the baseline
   // without submitting, which is correct rather than a missed opportunity.
   state.indexnow.hashes = current;
@@ -120,8 +147,8 @@ if (!probe?.ok) {
 const ENDPOINTS = ['https://api.indexnow.org/IndexNow', 'https://www.bing.com/IndexNow'];
 let anyOk = false;
 
-for (let i = 0; i < changed.length; i += MAX_BATCH) {
-  const batch = changed.slice(i, i + MAX_BATCH);
+for (let i = 0; i < toSubmit.length; i += MAX_BATCH) {
+  const batch = toSubmit.slice(i, i + MAX_BATCH);
   const body = JSON.stringify({ host: HOST, key: KEY, keyLocation: KEY_LOCATION, urlList: batch });
 
   for (const endpoint of ENDPOINTS) {
@@ -148,11 +175,13 @@ for (let i = 0; i < changed.length; i += MAX_BATCH) {
 // Only advance the baseline on success, so a failed submission is retried next run
 // rather than silently forgotten.
 if (anyOk) {
+  toSubmit.forEach((u) => submitted.add(u));
   state.indexnow.hashes = current;
+  state.indexnow.submitted = [...submitted].sort();
   state.indexnow.lastSubmittedAt = new Date().toISOString();
-  state.indexnow.lastSubmittedCount = changed.length;
+  state.indexnow.lastSubmittedCount = toSubmit.length;
   saveState(state);
-  console.log(`\nsubmitted ${changed.length} changed URL(s); baseline updated`);
+  console.log(`\nsubmitted ${toSubmit.length} URL(s) (${changed.length} changed, ${catchUp.length} catch-up); ${neverSent.length - catchUp.length} still never sent`);
 } else {
   console.error('\nNo endpoint accepted the submission. Baseline NOT advanced; will retry next run.');
 }
