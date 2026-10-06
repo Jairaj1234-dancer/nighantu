@@ -1,0 +1,115 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import research from '../../data/research.json';
+import { TIER_ORDER, TIER_LABEL, TIER_NOTE, PAPERS_PER_PAGE } from '../../lib/tiers';
+import { SITE_NAME, abs, rel } from '../../lib/site';
+
+/**
+ * Paginated, because two of these tiers were shipping as single enormous pages.
+ *
+ * Tier D rendered all 1,587 papers at once: 1,036 KB of HTML and 6,441 links on one URL,
+ * which Bing flags as too long and which is a crawl-budget sink on a site whose index is
+ * already frozen. Tier C was 687 KB.
+ *
+ * Page one keeps the bare URL it already has, so /research/d/ does not move. That matters
+ * because /research/a/ is currently the best-ranking non-monograph page on the site, at
+ * position 6, and moving a URL that works to fix a page-size warning would be a bad trade.
+ */
+export async function getStaticPaths() {
+  const { summary, papers } = research as any;
+  const out: any[] = [];
+  for (const t of TIER_ORDER.filter((x) => summary.byTier[x])) {
+    const n = Math.max(1, Math.ceil(papers.filter((p: any) => p.tier === t).length / PAPERS_PER_PAGE));
+    for (let i = 1; i <= n; i += 1) {
+      out.push({
+        params: { tier: i === 1 ? t.toLowerCase() : `${t.toLowerCase()}/${i}` },
+        props: { tier: t, page: i, pages: n },
+      });
+    }
+  }
+  return out;
+}
+
+const { tier, page, pages } = Astro.props;
+const everything = (research as any).papers.filter((p: any) => p.tier === tier);
+const label = TIER_LABEL[tier];
+const base = `/research/${tier.toLowerCase()}/`;
+const canonical = page === 1 ? base : `${base}${page}/`;
+
+// Newest first within a tier: recency is the useful secondary sort for a bibliography.
+everything.sort((a: any, b: any) => (b.year ?? 0) - (a.year ?? 0) || a.title.localeCompare(b.title));
+const all = everything.slice((page - 1) * PAPERS_PER_PAGE, page * PAPERS_PER_PAGE);
+
+const description = `${everything.length} ${label.toLowerCase()} concerning Ayurvedic materia medica, `
+  + 'each with a PubMed identifier and the herbs or formulations it concerns.'
+  + (pages > 1 ? ` Page ${page} of ${pages}.` : '');
+
+const fmtAuthors = (a: string[] = []) =>
+  (!a.length ? '' : a.length <= 3 ? a.join(', ') : `${a.slice(0, 3).join(', ')} and others`);
+
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: `${label} · ${SITE_NAME}`,
+  description,
+  url: abs(canonical),
+  isPartOf: { '@id': `${abs('/research/')}#dataset` },
+};
+---
+<Base title={page === 1 ? `${label} · ${SITE_NAME}` : `${label}, page ${page} · ${SITE_NAME}`} description={description} canonical={canonical} jsonld={jsonld} wide>
+  <Crumbs trail={[{ label: 'Research index', href: '/research/' }, { label }]} />
+  <h1>{label}</h1>
+  <p class="answer">{description} {TIER_NOTE[tier]}</p>
+
+  <ul class="az">
+    {TIER_ORDER.filter((t) => (research as any).summary.byTier[t]).map((t) => (
+      <li>
+        <a href={rel(`/research/${t.toLowerCase()}/`)} aria-current={t === tier ? 'page' : undefined}>
+          {TIER_LABEL[t]} ({(research as any).summary.byTier[t]})
+        </a>
+      </li>
+    ))}
+  </ul>
+
+  <ol class="reflist papers">
+    {all.map((p: any) => (
+      <li>
+        {fmtAuthors(p.authors) && <span class="refauthors">{fmtAuthors(p.authors)}. </span>}
+        {p.year && <span class="refyear">{p.year}. </span>}
+        <a href={p.url} rel="noopener">{p.title}</a>
+        {p.journal && <span class="refjournal"> {p.journal}.</span>}
+        <span class="refids">
+          {' '}PMID <a href={p.url} rel="noopener">{p.pmid}</a>
+          {p.doi && <> &middot; <a href={`https://doi.org/${p.doi}`} rel="noopener">doi:{p.doi}</a></>}
+        </span>
+        <div class="subjects">
+          {p.subjects.map((s: any, i: number) => (
+            <>{i > 0 && ' · '}<a href={rel(`/${s.kind}/${s.slug}/`)}>{s.title}</a></>
+          ))}
+        </div>
+      </li>
+    ))}
+  </ol>
+
+  {pages > 1 && (
+    <nav class="az" aria-label="Pages of this tier" style="margin-top:2rem">
+      <ul class="az">
+        {Array.from({ length: pages }, (_, i) => i + 1).map((n) => (
+          <li>
+            <a
+              href={rel(n === 1 ? base : `${base}${n}/`)}
+              aria-current={n === page ? 'page' : undefined}
+            >Page {n}</a>
+          </li>
+        ))}
+      </ul>
+    </nav>
+  )}
+
+  <p style="margin-top:2rem">
+    <a href={rel('/research/')}>Back to the research index</a> ·
+    download the whole set as <a href={rel('/research.json')}>JSON</a> or
+    <a href={rel('/research.csv')}>CSV</a>.
+  </p>
+</Base>

@@ -8,6 +8,30 @@ interface Props {
   jsonld?: Record<string, unknown> | Record<string, unknown>[];
 }
 const { title, description, canonical, jsonld } = Astro.props;
+
+/**
+ * Drop the site-name suffix from a title that is too long to survive a result page.
+ *
+ * Every page composes its own title as "Page name · Age Ayurveda Nighantu". That suffix is
+ * 24 characters, so any page name over about forty is pushed past the length a search engine
+ * will show, and Bing flags it. Twenty-five pages were over sixty-five characters, the worst
+ * at eighty-eight.
+ *
+ * The suffix is the part that goes, because it is the part a reader least needs: the result
+ * already shows the domain, and a truncated title loses the words that identify the page. The
+ * site name stays in `og:site_name` either way, which is where a platform reads it from.
+ *
+ * Trimming here rather than at twenty-odd call sites keeps one rule in one place, and keeps a
+ * long new page title from quietly reintroducing the problem.
+ */
+const SUFFIX = ` · ${SITE_NAME}`;
+const MAX = 65;
+const pageTitle = (() => {
+  const t = String(title ?? '');
+  if (t.length <= MAX || !t.endsWith(SUFFIX)) return t;
+  const trimmed = t.slice(0, -SUFFIX.length);
+  return trimmed.length ? trimmed : t;
+})();
 const url = abs(canonical);
 
 const organization = {
@@ -30,11 +54,11 @@ const blocks = [
   ...(Array.isArray(jsonld) ? jsonld : jsonld ? [jsonld] : []),
 ];
 ---
-<title>{title}</title>
+<title>{pageTitle}</title>
 <meta name="description" content={description} />
 <link rel="canonical" href={url} />
 <meta property="og:type" content="article" />
-<meta property="og:title" content={title} />
+<meta property="og:title" content={pageTitle} />
 <meta property="og:description" content={description} />
 <meta property="og:url" content={url} />
 <meta property="og:site_name" content={SITE_NAME} />
