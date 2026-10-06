@@ -109,6 +109,30 @@ export function toIAST(input) {
  * types: someone looking for `bilva` will not type `bilvá`, and someone who heard "churna"
  * types churna, choorna or churn. Used only for deduplication and matching, never displayed.
  */
+/**
+ * A consonant-skeleton key, for recognising two romanisations of ONE name.
+ *
+ * The Pharmacopoeia prints every romanisation it has: Adhaki's Tamil row is "Tovarai,
+ * Thovary, Adagi Tuvari, Thuvarai, Tuvarai, Thovarai", which is one name spelled five ways
+ * and a second name. Showing all of them is noise, and a reader scanning for the Tamil name
+ * cannot tell which of six to use.
+ *
+ * Vowels and aspiration are exactly what varies between transliterators, so dropping both
+ * leaves the part that identifies the name: thovarai, tovarai, thuvarai and tuvarai all
+ * reduce to tvr, while adagi tuvari reduces to dgtvr and stays separate.
+ *
+ * Only safe WITHIN one language's list for one drug. Two entries there that share a skeleton
+ * are spelling variants; across drugs the same collapse would merge unrelated names, which is
+ * why page-level matching uses the stricter asciiKey.
+ */
+export function skeletonKey(s) {
+  return asciiKey(s)
+    .replace(/([kgtdpbcjs])h/g, '$1')
+    .replace(/w/g, 'v')
+    .replace(/[aeiou]/g, '')
+    .replace(/(.)\1+/g, '$1');
+}
+
 export function asciiKey(s) {
   return String(s ?? '')
     .normalize('NFD')
