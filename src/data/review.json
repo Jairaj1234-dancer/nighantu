@@ -1,5 +1,5 @@
 {
-  "_note": "Named-practitioner review, recorded batch by batch as it happens. Written by hand, deliberately: this is the one claim on the site no script can derive, and it must never extend to a page the reviewer has not read. Each entry's scope is exactly what was reviewed; the components render a credit only where a page matches one, and /reviewers/ states the remainder from the same data.",
+  "_note": "Named-practitioner review. Written by hand, deliberately: this is the one claim on the site no script can derive. It was recorded batch by batch while review was in progress; on 6 October 2026 the reviewer confirmed he had read the whole work, so the two scoped entries were replaced by a single full-corpus entry. If review ever narrows again, go back to scoped entries rather than editing this one, because a credit on a page nobody read is the exact dishonesty /reviewers/ exists to prevent.",
   "reviewer": {
     "name": "Dr. Awadesh Pratap Singh",
     "qualification": "BAMS",
@@ -8,21 +8,41 @@
   },
   "reviews": [
     {
-      "id": "practice-and-guide",
-      "kinds": ["practice", "guide"],
-      "label": "The Shirodhara guide and the practice section",
-      "detail": "13 guide pages and 43 procedure pages: what each procedure is, who may perform it, its classical basis and its cautions.",
-      "reviewedOn": "2026-09-18",
-      "outcome": "passed"
-    },
-    {
-      "id": "herbs-a-e",
-      "kinds": ["herb"],
-      "slugRange": { "from": "a", "to": "e" },
-      "label": "Herb monographs, A to E",
-      "detail": "125 single-herb pages whose name begins A to E.",
-      "reviewedOn": "2026-09-18",
-      "outcome": "passed"
+      "id": "full-corpus",
+      "kinds": [
+        "herb",
+        "formulation",
+        "device",
+        "reference",
+        "practice",
+        "guide",
+        "glossary",
+        "text",
+        "choosing",
+        "hub"
+      ],
+      "label": "The whole reference work",
+      "detail": "All published pages: 505 single-herb monographs, 143 classical formulations, 53 reference entries, 43 procedure pages, 37 instruments, the 13-page Shirodhara guide, and the glossary and text entries.",
+      "reviewedOn": "2026-10-06",
+      "outcome": "passed",
+      "supersedes": [
+        "practice-and-guide",
+        "herbs-a-e"
+      ],
+      "history": [
+        {
+          "id": "practice-and-guide",
+          "label": "The Shirodhara guide and the practice section",
+          "reviewedOn": "2026-09-18",
+          "outcome": "passed"
+        },
+        {
+          "id": "herbs-a-e",
+          "label": "Herb monographs, A to E",
+          "reviewedOn": "2026-09-18",
+          "outcome": "passed"
+        }
+      ]
     }
   ]
 }

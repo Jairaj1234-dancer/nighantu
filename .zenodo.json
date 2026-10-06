@@ -1,6 +1,6 @@
 {
   "title": "Age Ayurveda Nighantu: a referenced encyclopedia of Ayurvedic materia medica",
-  "description": "<p>A <em>nighantu</em> is the classical Ayurvedic lexicon of medicinal substances. This is a modern one: single-herb monographs, classical formulations and Ayurvedic instruments, each opening with a definitional summary, stating identification and pharmacology as structured facts, citing the classical texts it draws on, and reporting published research with dates attached. It also includes a practice guide to Shirodhara.</p><p><strong>Provenance:</strong> the monographs are not original prose. They are restructured and extended derivatives incorporating material from the Amidha Ayurveda Herb Database under CC BY 4.0, with classical citations and editorial layers added by Age Ayurveda. See PROVENANCE.md in the repository for the full statement, including known limitations.</p><p><strong>Not clinically reviewed.</strong> No practitioner has reviewed the monographs line by line. This is educational reference material, not medical advice.</p>",
+  "description": "<p>A <em>nighantu</em> is the classical Ayurvedic lexicon of medicinal substances. This is a modern one: single-herb monographs, classical formulations and Ayurvedic instruments, each opening with a definitional summary, stating identification and pharmacology as structured facts, citing the classical texts it draws on, and reporting published research with dates attached. It also includes a practice guide to Shirodhara.</p><p><strong>Provenance:</strong> the monographs are not original prose. They are restructured and extended derivatives incorporating material from the Amidha Ayurveda Herb Database under CC BY 4.0, with classical citations and editorial layers added by Age Ayurveda. See PROVENANCE.md in the repository for the full statement, including known limitations.</p><p><strong>Review status, stated precisely.</strong> Dr. Awadesh Pratap Singh, BAMS, of the Shree Baidyanath Research Institute, reviewed and passed the Shirodhara practice guide and the practice section (56 pages) and the herb monographs whose names begin A to E (125 pages) on 18 September 2026. The remaining pages, including 380 herb monographs from F onward, 143 formulations, 53 reference entries and 37 instruments, have not been read by a named practitioner. Reviewed pages name the reviewer and the date in their structured data; pages outside a reviewed scope carry no review credit. This is educational reference material, not medical advice.</p>",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "cc-by-4.0",
@@ -41,5 +41,12 @@
       "resource_type": "dataset"
     }
   ],
-  "notes": "Dual-licensed: content CC BY 4.0, code MIT. Product names, brand marks and product photography are excluded from the licence grant. Third-party material keeps its own licence and is NOT covered by the CC BY 4.0 grant: WHO ICD-11 terms, codes and category titles (in src/data/icd-tm2.json, data/enrichment/icd-tm2.json and data/sources/icd-tm2-crosswalk.json) are reproduced unaltered from the WHO classification under CC BY-ND 3.0 IGO. See LICENSES.md."
+  "notes": "Dual-licensed: content CC BY 4.0, code MIT. Product names, brand marks and product photography are excluded from the licence grant. Third-party material keeps its own licence and is NOT covered by the CC BY 4.0 grant: WHO ICD-11 terms, codes and category titles (in src/data/icd-tm2.json, data/enrichment/icd-tm2.json and data/sources/icd-tm2-crosswalk.json) are reproduced unaltered from the WHO classification under CC BY-ND 3.0 IGO. See LICENSES.md.",
+  "contributors": [
+    {
+      "name": "Singh, Awadesh Pratap",
+      "affiliation": "Shree Baidyanath Research Institute",
+      "type": "Researcher"
+    }
+  ]
 }
