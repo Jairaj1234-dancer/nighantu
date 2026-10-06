@@ -29,10 +29,17 @@ const PARTS: Record<string, string> = {
   'Dr. Fr.': 'dry fruit', 'Dr. Sd.': 'dry seed', 'Ifl.': 'inflorescence', 'Gl.': 'gall',
   'Stmn.': 'stamens', 'Fl. Bd.': 'flower bud', 'Rt. Tr.': 'root tuber', 'St. Tr.': 'stem tuber',
   'Fr. R.': 'fruit rind', 'Enm.': 'endosperm',
+  // From the same key, needed by the Cyavanaprasa entry: the brhat pancamula are taken as
+  // either root or stem bark, and tugaksiri is bamboo's silicaceous concretion.
+  'Rt./St.Bk.': 'root or stem bark', 'Rt./St. Bk.': 'root or stem bark',
+  'S.C.': 'silicaceous concretion',
 };
 const norm = (p: string) => p.replace(/\s+/g, ' ').replace(/\s*\.\s*/g, '. ').trim().replace(/\s$/, '');
 const partLabel = (p: string | null) => {
   if (!p) return '';
+  // Raw first. `norm` inserts a space after every full stop, which turns "Rt./St.Bk." into
+  // "Rt. /St. Bk." and "S.C." into "S. C.", so multi-stop abbreviations never matched a key.
+  if (PARTS[p]) return PARTS[p];
   const k = norm(p);
   return PARTS[k] ?? PARTS[k.replace(/\.$/, '') + '.'] ?? p;
 };
@@ -111,7 +118,15 @@ const quantityCell = (v: any) => (marked(v) || v == null || String(v).trim() ===
                   {r.ocrCorrected && <span class="ocrnote" title={r.ocrCorrected}> *</span>}
                 </td>
                 <td>{partCell(r.part).damaged ? <em class="illegible">illegible</em> : partCell(r.part).text}</td>
-                <td>{quantityCell(r.quantity).damaged ? <em class="illegible">illegible</em> : quantityCell(r.quantity).text}</td>
+                <td>
+                  {quantityCell(r.quantity).damaged ? <em class="illegible">illegible</em> : quantityCell(r.quantity).text}
+                  {/*
+                    * The decoction's reduction, printed by the book on its own line. Without
+                    * it the row states only the volume the water starts at, not the volume
+                    * the formula uses, which understates what the entry specifies.
+                    */}
+                  {r.reduction && <><br /><span class="composition-note">{r.reduction}</span></>}
+                </td>
               </tr>
             );
           })}
@@ -126,6 +141,47 @@ const quantityCell = (v: any) => (marked(v) || v == null || String(v).trim() ===
     )}
     {rec.rows.some((r: any) => r.ocrCorrected) && (
       <p class="composition-note">* The scanned text was damaged at this row and the name was read from the entry's own Sanskrit verse.</p>
+    )}
+
+    {/*
+      * How many ingredients, with the rule named in the same sentence as the number.
+      *
+      * This exists because of Chyawanprash, where the site refused to print a count at all on
+      * the grounds that sources said 45, 50 and 18. Verification showed that framing was
+      * wrong: 45 is not a rival source, it is this same Formulary entry counted under a
+      * different rule. The dispute was never between books, it was between people counting
+      * rows, ingredients or plants and all calling the answer "ingredients".
+      *
+      * So a bare total is exactly what must not be published here, and scripts/audit.mjs
+      * still blocks one in page prose. Every figure below carries its rule.
+      */}
+    {rec.counts && (
+      <div class="composition-counts">
+        <p>
+          This entry lists <strong>{rec.counts.numberedRows} numbered rows</strong>, which are
+          {' '}<strong>{rec.counts.distinctIngredients} distinct ingredients</strong>: {rec.counts.rowsListedTwice?.length === 2
+            ? `${rec.counts.rowsListedTwice.join(' and ')} are each listed twice, added at different stages.`
+            : 'some are listed twice, added at different stages.'}
+          {' '}{rec.counts.notPlantMaterial?.length} of them are not plant material
+          ({rec.counts.notPlantMaterial.map((x: string) => x.replace(/^\d+\.\s*/, '').toLowerCase()).join(', ')}),
+          leaving <strong>{rec.counts.distinctPlantIngredients} distinct plant ingredients</strong>.
+        </p>
+        <p class="composition-note">
+          A count of 45 that you may see elsewhere is this same formula under a different rule,
+          not a different source: the distinct ingredients less the water, or the rows less
+          water, ghee and honey. Counts of 50 or 18 do not correspond to this entry at all.
+          The Formulary prints no total of its own, so every figure here is a derived count and
+          only means anything with its rule attached.
+        </p>
+        {rec.counts.decoctionRangeAsPrinted && (
+          <p class="composition-note">
+            The preparation note reads “{rec.counts.decoctionRangeAsPrinted}”. That is a
+            row range as printed, not a count of powdered herbs: row 38 is the decoction water
+            itself, and the amalaka of row 37 is suspended whole in a cloth bundle rather than
+            powdered.
+          </p>
+        )}
+      </div>
     )}
 
     {/*
