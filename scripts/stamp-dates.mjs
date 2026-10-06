@@ -39,6 +39,64 @@ if (fs.existsSync('guides')) {
   }
 }
 
+/**
+ * A page's content is its markdown AND the data records that render into it.
+ *
+ * This used to hash the markdown body alone, which made the ledger blind to every change
+ * that arrives through src/data. On 6 October a names table in up to fifteen languages
+ * appeared on 271 monographs, dose and anupana on 62 formulations, and a 48-row ingredient
+ * table on Chyawanprash. A reader sees all of that, and the ledger recorded no change, so the
+ * sitemap kept telling Google nothing had been modified since 19 September while Google had
+ * indexed nothing since 19 September.
+ *
+ * review.json is deliberately NOT in here. The practitioner credit is a byline, not a
+ * revision of the page's content, and treating it as one would have bumped all 815 pages for
+ * the addition of one line. That is the freshness-faking this script exists to prevent, and
+ * the distinction between "the page now says more" and "the page now says who read it" is the
+ * whole reason the two cases are separated.
+ */
+const DATA = Object.fromEntries(
+  ['names', 'composition', 'citations', 'identity']
+    .map((n) => [n, path.join('src', 'data', `${n}.json`)])
+    .filter(([, p]) => fs.existsSync(p))
+    .map(([n, p]) => [n, JSON.parse(fs.readFileSync(p, 'utf8'))]),
+);
+
+/** Stable stringify, so a key reordering in a data file is not read as a content change. */
+const stable = (v) => {
+  if (v === null || typeof v !== 'object') return JSON.stringify(v) ?? 'null';
+  if (Array.isArray(v)) return `[${v.map(stable).join(',')}]`;
+  return `{${Object.keys(v).sort().map((k) => `${JSON.stringify(k)}:${stable(v[k])}`).join(',')}}`;
+};
+
+function dataFor(key, slug) {
+  const parts = [
+    DATA.names?.pages?.[key],
+    DATA.citations?.pages?.[key],
+    DATA.composition?.records?.[slug],
+    DATA.identity?.records?.[slug],
+  ].filter((x) => x !== undefined);
+  return parts.length ? stable(parts) : '';
+}
+
+/**
+ * The one-time migration, and why it is not a mass bump.
+ *
+ * Widening the hash changes every page's hash at once, so a plain run would mark all 815 as
+ * revised today, which is precisely the false signal being avoided. Instead, --migrate
+ * records the new hashes and advances `modified` ONLY for the pages that demonstrably gained
+ * content in the three commits of 6 October: the 271 with a names entry, the 62 with a dose
+ * or anupana, and Chyawanprash. Every other page keeps the date it already had.
+ */
+const MIGRATE = process.argv.includes('--migrate');
+const genuinelyChangedToday = new Set();
+if (MIGRATE) {
+  for (const k of Object.keys(DATA.names?.pages ?? {})) genuinelyChangedToday.add(k);
+  for (const [slug, rec] of Object.entries(DATA.composition?.records ?? {})) {
+    if (rec.dose || rec.anupana || rec.counts) genuinelyChangedToday.add(`formulation/${slug}`);
+  }
+}
+
 const previous = fs.existsSync(LEDGER) ? JSON.parse(fs.readFileSync(LEDGER, 'utf8')) : {};
 const next = {};
 let added = 0;
@@ -49,12 +107,22 @@ for (const { key, file } of sources) {
   // Hash the body and the meaningful frontmatter, not the whole file, so a
   // formatting-only reserialisation of frontmatter does not read as a revision.
   const { data, body } = parseFrontmatter(raw);
-  const h = hash(`${data.title ?? ''} ${data.answer ?? ''} ${body.trim()}`);
+  const slug = key.slice(key.indexOf('/') + 1);
+  const h = hash(`${data.title ?? ''} ${data.answer ?? ''} ${body.trim()} ${dataFor(key, slug)}`);
 
   const prev = previous[key];
   if (!prev) {
     next[key] = { hash: h, published: TODAY, modified: TODAY };
     added += 1;
+  } else if (MIGRATE) {
+    // Record the wider hash, but only date the pages that actually gained content today.
+    const changed = genuinelyChangedToday.has(key);
+    next[key] = {
+      hash: h,
+      published: prev.published ?? TODAY,
+      modified: changed ? TODAY : prev.modified,
+    };
+    if (changed) revised += 1;
   } else if (prev.hash !== h) {
     next[key] = { hash: h, published: prev.published ?? TODAY, modified: TODAY };
     revised += 1;
