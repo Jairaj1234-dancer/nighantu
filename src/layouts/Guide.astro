@@ -1,7 +1,7 @@
 ---
 import Base from './Base.astro';
 import ReviewCredit from '../components/ReviewCredit.astro';
-import { reviewer, reviewFor } from '../lib/review';
+import { reviewPageNode } from '../lib/review';
 import ProductModule from '../components/ProductModule.astro';
 import CiteThis from '../components/CiteThis.astro';
 import Crumbs from '../components/Crumbs.astro';
@@ -31,16 +31,12 @@ const article = {
     inDefinedTermSet: { '@type': 'DefinedTermSet', name: SITE_NAME, url: abs('/') },
   },
   author: { '@type': 'Organization', name: PUBLISHER, url: abs('/') },
-  ...(reviewFor('guide', d.slug) ? {
-    reviewedBy: {
-      '@type': 'Person',
-      name: reviewer.name,
-      honorificSuffix: reviewer.qualification,
-      url: abs('/reviewers/'),
-    },
-  } : {}),
   publisher: { '@id': `${abs('/')}#organization` },
 };
+
+const webPage = reviewPageNode(
+  'guide', d.slug, abs(canonical), `${abs(canonical)}#article`, abs('/reviewers/'),
+);
 
 const faqSchema = d.faq.length
   ? {
@@ -70,7 +66,7 @@ const breadcrumbs = {
   title={`${d.title} · ${SITE_NAME}`}
   description={d.description ?? d.answer}
   canonical={canonical}
-  jsonld={[article, breadcrumbs, ...(faqSchema ? [faqSchema] : [])]}
+  jsonld={[article, ...(webPage ? [webPage] : []), breadcrumbs, ...(faqSchema ? [faqSchema] : [])]}
 >
   <article>
     <Crumbs

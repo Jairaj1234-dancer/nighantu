@@ -12,11 +12,11 @@ import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import CiteThis from '../../components/CiteThis.astro';
 import ReviewCredit from '../../components/ReviewCredit.astro';
-import { reviewer, reviewFor } from '../../lib/review';
+import { reviewPageNode } from '../../lib/review';
 import ProductModule from '../../components/ProductModule.astro';
 import { getCollection, render } from 'astro:content';
 import { SITE_NAME, PUBLISHER, abs, rel } from '../../lib/site';
-import dates from '../../data/page-dates.json';
+import { pageDates } from '../../lib/dates';
 
 export async function getStaticPaths() {
   const entries = await getCollection('choosing');
@@ -27,8 +27,9 @@ const { entry } = Astro.props;
 const { Content } = await render(entry);
 const d = entry.data;
 const canonical = `/choosing/${d.slug}/`;
-const published = (dates as any)[canonical]?.published ?? '';
-const modified = (dates as any)[canonical]?.modified ?? published;
+// pageDates, not a direct ledger read: the ledger is keyed `choosing/<slug>`, and looking it
+// up by URL path matched nothing, so these pages shipped with empty dates in their JSON-LD.
+const { published, modified } = pageDates('choosing', d.slug);
 
 const jsonld: Record<string, unknown>[] = [
   {
@@ -47,6 +48,11 @@ const jsonld: Record<string, unknown>[] = [
     license: 'https://creativecommons.org/licenses/by/4.0/',
   },
 ];
+
+const webPage = reviewPageNode(
+  'choosing', d.slug, abs(canonical), `${abs(canonical)}#article`, abs('/reviewers/'),
+);
+if (webPage) jsonld.push(webPage);
 if (d.faq.length) {
   jsonld.push({
     '@context': 'https://schema.org',

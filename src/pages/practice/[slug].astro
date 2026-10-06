@@ -5,12 +5,12 @@ import Base from '../../layouts/Base.astro';
 // scraper. They were the only content pages carrying no product module at all.
 import ProductModule from '../../components/ProductModule.astro';
 import ReviewCredit from '../../components/ReviewCredit.astro';
-import { reviewer, reviewFor } from '../../lib/review';
+import { reviewPageNode } from '../../lib/review';
 import Crumbs from '../../components/Crumbs.astro';
 import CiteThis from '../../components/CiteThis.astro';
 import { getCollection, render } from 'astro:content';
 import { SITE_NAME, abs, rel } from '../../lib/site';
-import dates from '../../data/page-dates.json';
+import { pageDates } from '../../lib/dates';
 
 export async function getStaticPaths() {
   const entries = await getCollection('practice');
@@ -22,21 +22,18 @@ const { Content } = await render(entry);
 const d = entry.data;
 const canonical = `/practice/${d.slug}/`;
 
-/**
- * reviewedBy on a page a named practitioner actually read. Schema.org carries this and
- * consumers weight it; it is emitted only for the kinds named in src/data/review.json.
- */
-const reviewEntry = reviewFor('practice', d.slug);
-const reviewedBy = reviewEntry ? {
-  '@type': 'Person',
-  name: reviewer.name,
-  honorificSuffix: reviewer.qualification,
-  // The affiliation is NOT emitted here: it is heritage-framed and the compliance gate
-  // blocks that everywhere but /reviewers/, where it sits with the scope of what he read.
-  url: abs('/reviewers/'),
-} : undefined;
+// The review goes on a WebPage node, which is the type schema.org defines reviewedBy and
+// lastReviewed on. See src/lib/review.ts.
+const webPage = reviewPageNode(
+  'practice', d.slug, abs(canonical), `${abs(canonical)}#article`, abs('/reviewers/'),
+);
 
-const modified = (dates as any)[canonical]?.modified ?? (dates as any)[canonical]?.published ?? '';
+// pageDates, not a hand-rolled ledger lookup. This read the ledger with the page's URL
+// (`/practice/nasya/`) where the ledger is keyed by kind and slug (`practice/nasya`), so it
+// matched nothing and every one of these pages shipped with no datePublished and no
+// dateModified at all. The one helper that knows the key shape is the only thing that
+// should be computing this.
+const { published, modified } = pageDates('practice', d.slug);
 
 const LEVEL = {
   'self-care': {
@@ -67,9 +64,10 @@ const jsonld = [
     isPartOf: { '@id': `${abs('/')}#website` },
     publisher: { '@id': `${abs('/')}#organization` },
     mainEntityOfPage: abs(canonical),
-    reviewedBy,
-    ...(modified ? { dateModified: modified } : {}),
+    datePublished: published,
+    dateModified: modified,
   },
+  ...(webPage ? [webPage] : []),
   ...(d.faq.length ? [{
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
