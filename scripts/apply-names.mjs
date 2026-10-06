@@ -79,13 +79,37 @@ function add(kind, slug, code, raw, source, preferred) {
     const name = part.trim().replace(/\s+/g, ' ');
     if (!name || name.length > 60) continue;
     const iast = toIAST(name);
-    const key = asciiKey(iast || name);
+    /**
+     * The dedup key falls back to the name itself for scripts with no ASCII form.
+     *
+     * asciiKey strips Devanagari (which toIAST has already converted) but every other
+     * non-Latin script is left for the final [^a-z0-9] pass to remove, so a Tamil name
+     * reduced to an empty key and was silently skipped. That dropped all 148 verified Tamil
+     * names on the floor and the only symptom was a Tamil count that looked too low.
+     */
+    const key = asciiKey(iast || name) || name.normalize('NFC');
     if (!key) continue;
 
-    const existing = page.names[code].find((n) => asciiKey(n.iast || n.name) === key);
+    const existing = page.names[code].find((n) => (asciiKey(n.iast || n.name) || n.name.normalize('NFC')) === key);
     if (existing) {
       if (preferred) existing.preferred = true;
       if (source && !existing.sources.includes(source)) existing.sources.push(source);
+      /**
+       * Same name, two scripts: show it in its own script.
+       *
+       * The Pharmacopoeia romanises everything ("Tuvari") and Wikidata gives Devanagari
+       * ("तुवरी"), so the same Sanskrit name arrives twice and merges on one key. Whichever
+       * landed first used to win, which meant the Pharmacopoeia pass always buried the
+       * Devanagari, and a Sanskrit row read "Tuvari" to a reader who can read the script it
+       * is actually written in. The native script is the better display form; the romanised
+       * one survives as the IAST beside it.
+       */
+      if (/[ऀ-ॿ]/.test(name) && !/[ऀ-ॿ]/.test(existing.name)) {
+        if (!existing.iast) existing.iast = existing.name;
+        existing.name = name;
+        const better = toIAST(name);
+        if (better) existing.iast = better;
+      }
       counts.duplicate += 1;
       continue;
     }
