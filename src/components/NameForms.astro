@@ -1,0 +1,81 @@
+---
+/**
+ * The drug's name in Sanskrit and the Indian languages, from src/data/names.json.
+ *
+ * Why this is a table of its own rather than more rows in Key facts. Key facts answers "what
+ * is this", in one glance, and fifteen name rows would bury the botanical name and the
+ * pharmacopoeial status under a wall of transliterations. This answers a different question,
+ * asked by a different reader: someone who knows the drug by one name and needs to know it is
+ * the same thing. That reader arrives often enough to show up in search logs, and until now
+ * every monograph had an empty Sanskrit field and a names section with a single English row.
+ *
+ * The source is named in the table, not in a footnote, because the whole value of a name here
+ * is that it is the statutory one rather than someone's recollection. A row whose name came
+ * from somewhere other than the Pharmacopoeia says so.
+ *
+ * No `preferred` highlighting. The Pharmacopoeia prints its synonyms in its own order and
+ * does not nominate a primary, so marking one would be our editorial addition dressed as the
+ * source's. The order inside a language is the order the source gave.
+ */
+import names from '../data/names.json';
+import { rel } from '../lib/site';
+
+interface Props { kind: string; slug: string }
+const { kind, slug } = Astro.props;
+
+const data = names as any;
+const entry = data.pages?.[`${kind}/${slug}`] as Record<string, { name: string; iast?: string; sources: string[] }[]> | undefined;
+
+const order: string[] = data.languageOrder ?? [];
+const rows = entry
+  ? Object.entries(entry)
+      .sort(([a], [b]) => {
+        const i = order.indexOf(a); const j = order.indexOf(b);
+        return (i === -1 ? 99 : i) - (j === -1 ? 99 : j);
+      })
+      .map(([code, forms]) => ({ code, label: data.languages?.[code] ?? code, forms }))
+  : [];
+
+/** Every distinct source behind this page's names, so the attribution is specific to it. */
+const sources = [...new Set(rows.flatMap((r) => r.forms.flatMap((f) => f.sources ?? [])))].sort();
+---
+{rows.length > 0 && (
+  <section class="nameforms">
+    <table class="facts">
+      <caption>Names in other languages</caption>
+      <tbody>
+        {rows.map((r) => (
+          <tr>
+            <th scope="row">{r.label}</th>
+            <td>
+              {r.forms.map((f, i) => (
+                <>
+                  {i > 0 && ', '}
+                  <span class="nf">{f.name}</span>
+                  {f.iast && f.iast !== f.name && <span class="nf-iast"> ({f.iast})</span>}
+                </>
+              ))}
+            </td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+    {sources.length > 0 && (
+      <p class="nf-source">
+        {sources.length === 1 ? 'Source: ' : 'Sources: '}{sources.join('; ')}.
+        {' '}<a href={rel('/how-we-source/')}>How we source</a>.
+      </p>
+    )}
+  </section>
+)}
+
+<style>
+  .nameforms { margin: 0 0 1.75rem; }
+  .nameforms .facts { margin-bottom: .5rem; }
+  .nf-iast { color: var(--ink-soft); font-size: .88rem; }
+  .nf-source {
+    margin: 0;
+    font-size: .84rem;
+    color: var(--ink-soft);
+  }
+</style>

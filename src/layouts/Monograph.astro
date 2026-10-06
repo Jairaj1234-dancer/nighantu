@@ -5,6 +5,7 @@ import ProductModule from '../components/ProductModule.astro';
 import References from '../components/References.astro';
 import Safety from '../components/Safety.astro';
 import ReviewCredit from '../components/ReviewCredit.astro';
+import NameForms from '../components/NameForms.astro';
 import { reviewPageNode } from '../lib/review';
 import Composition from '../components/Composition.astro';
 import CiteThis from '../components/CiteThis.astro';
@@ -100,6 +101,8 @@ const breadcrumbs = {
       whoStatus={d.whoStatus}
       aliases={d.aliases}
     />
+
+    <NameForms kind={d.kind} slug={d.slug} />
 
     {aliasOf && (
       <p class="aliasnote">
