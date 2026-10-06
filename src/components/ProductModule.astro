@@ -20,7 +20,20 @@ const items = handles
     <ul>
       {items.map((p) => (
         <li>
-          <img src={p.image} alt="" loading="lazy" width="68" height="68" />
+          {/*
+            * Real alt text, not an empty one.
+            *
+            * These 129 thumbnails all carried alt="", which Bing flags across 67 pages. An
+            * empty alt is the correct markup for a decorative image, and a product photograph
+            * next to a named product is not decorative: it is the only part of this row a
+            * sighted reader gets and a screen reader user does not.
+            *
+            * The product name alone, deliberately. The alt sits inside data-product-module,
+            * which scripts/audit.mjs scans for disease terms and claim verbs, so anything
+            * describing what the product is for would both fail that gate and be a claim made
+            * in alt text where no reader can check it.
+            */}
+          <img src={p.image} alt={`${p.title}, product photograph`} loading="lazy" width="68" height="68" />
           <div>
             <a
               class="pname"
