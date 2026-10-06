@@ -35,30 +35,30 @@
     "ks"
   ],
   "summary": {
-    "pages": 249,
-    "names": 1787,
-    "fromPharmacopoeia": 472,
-    "fromWikidataCorroborated": 410,
-    "foundDirectlyInASource": 568,
+    "pages": 257,
+    "names": 2531,
+    "fromPharmacopoeia": 967,
+    "fromWikidataCorroborated": 405,
+    "foundDirectlyInASource": 566,
     "wikidataRejected": 220,
     "misattributedToAnotherPlant": 66,
-    "duplicatesMerged": 75,
+    "duplicatesMerged": 199,
     "byLanguage": {
-      "Sanskrit": 500,
-      "Hindi": 394,
-      "English": 36,
-      "Tamil": 332,
-      "Malayalam": 48,
-      "Telugu": 42,
-      "Kannada": 77,
-      "Marathi": 47,
-      "Bengali": 49,
-      "Gujarati": 63,
-      "Urdu": 34,
-      "Punjabi": 53,
-      "Oriya": 35,
-      "Assamese": 43,
-      "Kashmiri": 34
+      "Sanskrit": 509,
+      "Hindi": 466,
+      "English": 83,
+      "Tamil": 399,
+      "Malayalam": 111,
+      "Telugu": 108,
+      "Kannada": 151,
+      "Marathi": 109,
+      "Bengali": 104,
+      "Gujarati": 125,
+      "Urdu": 81,
+      "Punjabi": 102,
+      "Oriya": 68,
+      "Assamese": 74,
+      "Kashmiri": 41
     }
   },
   "rejected": [
@@ -795,11 +795,25 @@
           ]
         },
         {
+          "name": "Arhar",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
           "name": "तूवर",
           "iast": "tūvara",
           "sources": [
             "MMPND Cajanus page lists Hindi \"Toor, Tuur, Tur, Tuvar, Tuver\" (the Tuur/Toor forms carry the long vowel); Flowers of India 'Arhar' page prints the Hindi form as तुवर (Tuvar).",
             "Flowers of India, 'Arhar' page: \"Hindi: अरहर (Arhar), तुवर (Tuvar)\" — Devanagari."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Pigeon Pea",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ],
@@ -812,9 +826,113 @@
           ]
         },
         {
+          "name": "Adagi Tuvari",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Thuvarai",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Tuvarai",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
           "name": "ஆடகி",
           "sources": [
             "Flowers of India, 'Arhar' page: \"Tamil: ஆடகி (Adhaki), இருப்புலி (Iruppuli), காய்ச்சி (Kaycci), துவரை (Tuvarai)\" — Tamil script."
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Thuvara",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Kandulu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Togari",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Toor",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Arhar",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Tuver",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ur": [
+        {
+          "name": "Arhar",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Arhar",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "or": [
+        {
+          "name": "Harada",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kandulagachha",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "as": [
+        {
+          "name": "Ruharmah",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -1070,6 +1188,146 @@
         }
       ]
     },
+    "herb/ambasthaki": {
+      "hi": [
+        {
+          "name": "Patna",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Patsan",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Jamaican Sorrel",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ta": [
+        {
+          "name": "Pulichikire",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Pariccakam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Pulicheera",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Gongura",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Pundikura",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Kempu Pundrike Pullichekir",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Pudisoppu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Lalambari",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Masts Pal",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Mesta",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Ambodi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ur": [
+        {
+          "name": "Patsan",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Kolada",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "or": [
+        {
+          "name": "Kaunria",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Khataa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Tak Bhend",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ]
+    },
     "herb/amla": {
       "sa": [
         {
@@ -1181,7 +1439,19 @@
       ],
       "kn": [
         {
+          "name": "Bela nelli",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
           "name": "Nellikayi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Pottadenollikayi",
           "sources": [
             "Ayurvedic Pharmacopoeia of India"
           ]
@@ -1363,14 +1633,29 @@
       "hi": [
         {
           "name": "आम",
-          "iast": "āma",
-          "preferred": true,
           "sources": [
+            "Ayurvedic Pharmacopoeia of India",
             "Flowers of India, 'Mango' page (Mangifera indica): \"Hindi: Am (आम)\" — Devanagari, exact match; MMPND Mangifera page: Hindi \"आम Āma (aam)\"."
+          ],
+          "preferred": true,
+          "iast": "āma"
+        }
+      ],
+      "en": [
+        {
+          "name": "Mango",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ],
       "ta": [
+        {
+          "name": "Mamaram",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
         {
           "name": "மா",
           "sources": [
@@ -1381,6 +1666,98 @@
           "name": "மாங்காய்",
           "sources": [
             "MMPND Mangifera page, Tamil list: \"மாங்காய் Māṅkāy (Maangai)\" — Tamil script; Flowers of India gives the Kannada cognates ಮಾ Maa, ಮಾವು Maavu."
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Mavu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Amaramu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Mavu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Amba",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Am",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Ama",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Ambo",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ur": [
+        {
+          "name": "Aam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Amb",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "or": [
+        {
+          "name": "Am",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Amba",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "as": [
+        {
+          "name": "Aam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -1533,10 +1910,30 @@
           ]
         },
         {
+          "name": "Chirchira",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
           "name": "चिरचिरा",
           "iast": "ciracirā",
           "sources": [
             "Flowers of India, 'Prickly Chaff Flower' page: Hindi \"चिरचिरा (Chirchira)\" — Devanagari; the same page gives Urdu چرچرا Chirchira."
+          ]
+        },
+        {
+          "name": "Latjira",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Prickly Chaff Flower",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ],
@@ -1546,6 +1943,96 @@
           "preferred": true,
           "sources": [
             "MMPND Achyranthes page: Tamil \"Naayuruvi, Naayuruvi vaer\"; Kerala State Medicinal Plants Board (smpbkerala.in), Achyranthes aspera: Tamil \"Nayurivi, Naagarkaai\"."
+          ]
+        },
+        {
+          "name": "Nayuruvi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Kadaledee",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Uttareni",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Uttarane",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Uttaren",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Anghada",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Apang",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Aghedo",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ur": [
+        {
+          "name": "Chirchita",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Lattajeera",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Puthakanda",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "as": [
+        {
+          "name": "Chirchita",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -2449,9 +2936,55 @@
           ]
         },
         {
+          "name": "Arara",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Arasamaram",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Arasan",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Arasu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Ashwarthan",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
           "name": "அரசு",
           "sources": [
             "Tamil Lexicon p.118: \"அரசு aracu: 01 1. Pipal, l. tr. Ficus religiosa\"; API Vol I, AŚVATTHA, Tamil: Arasu; Pandanus, Tamil: aracu, acuvattam"
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Arayal",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Ravichettu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ],
@@ -2494,6 +3027,26 @@
         },
         {
           "name": "Ranji",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Pimpal",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Pipal",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Pippal",
           "sources": [
             "Ayurvedic Pharmacopoeia of India"
           ]
@@ -2545,9 +3098,39 @@
           ]
         }
       ],
+      "pa": [
+        {
+          "name": "Pipal",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Pippal",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "or": [
+        {
+          "name": "Aswatha",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
       "as": [
         {
           "name": "Ahant",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ks": [
+        {
+          "name": "Bad",
           "sources": [
             "Ayurvedic Pharmacopoeia of India"
           ]
@@ -3369,6 +3952,12 @@
           ]
         },
         {
+          "name": "Sriphala",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
           "name": "श्रीफलः",
           "iast": "śrīphalaḥ",
           "sources": [
@@ -3379,10 +3968,17 @@
       "hi": [
         {
           "name": "बेल",
-          "iast": "bela",
-          "preferred": true,
           "sources": [
+            "Ayurvedic Pharmacopoeia of India",
             "DDSA A Practical Hindi-English Dictionary (via wisdomlib): 'Bela (बेल) [Also spelled bel]:—(nm) wood-apple— Aegle marmelos; -[patra] leaves of wood-apple'."
+          ],
+          "preferred": true,
+          "iast": "bela"
+        },
+        {
+          "name": "Bel",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         },
         {
@@ -3398,6 +3994,26 @@
           "sources": [
             "Apte (DDSA Practical Sanskrit-English): 'Śrīphala (श्रीफल).—the Bilva tree. (-lam) the Bilva fruit'; Śabda-Sāgara: 'A fruit tree, (Ægle marmelos)'; Wisdom Library biology entry: 'Shriphala in India is the name of a plant defined with Aegle marmelos'."
           ]
+        },
+        {
+          "name": "Sriphal",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Bael fruit",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Bengal Quince",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
         }
       ],
       "ta": [
@@ -3406,6 +4022,130 @@
           "preferred": true,
           "sources": [
             "DDSA: University of Madras Tamil Lexicon, Vilvam (வில்வம்): '1. Bael, medium tree Aegle marmelos' (Patārtta Kuṇa Cintāmaṇi 448); Wisdom Library 'Local Names of Plants and Drugs': 'Vilvam in the Tamil language is the name of a plant identified with Aegle marmelos (L.) Correa'."
+          ]
+        },
+        {
+          "name": "Vilvam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Koovalam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Maredu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Bilva",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Baela",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Bel",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Bela",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Bilva",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Bill",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Bilum",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Bilvaphal",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ur": [
+        {
+          "name": "Bel",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Bil",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "or": [
+        {
+          "name": "Bela",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "as": [
+        {
+          "name": "Bael",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Vael",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ks": [
+        {
+          "name": "Bel",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -3559,6 +4299,26 @@
           "sources": [
             "Wisdom Library 'Local Names of Plants and Drugs': 'Kundru [कुन्द्रू] in the Hindi language … identified with Coccinia grandis (L.) Voigt'; Flowers of India (Ivy Gourd): 'Hindi: कुन्द्रू Kundru'; Rāja Nighaṇṭu 3.64-65 glosses Tiktatuṇḍī as 'commonly known in Hindi as Kundarū'."
           ]
+        },
+        {
+          "name": "Kunduru",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kunru",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Ivy gourd",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
         }
       ],
       "ta": [
@@ -3570,9 +4330,143 @@
           ]
         },
         {
+          "name": "Kovai",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
           "name": "கோவை",
           "sources": [
             "Flowers of India (Ivy Gourd): 'Tamil: கோவை Kovai'; Rāja Nighaṇṭu 3.64-65 (via wisdomlib) gives the Tamil as Kovaikaī."
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Kova",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Koval",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Nallakova",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Donda tige",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Tonde balli",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Tondlee",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Bimbu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Tela Kuccha",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Ghilodi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Gholam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kadavi Ghilodi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Tindoran",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ur": [
+        {
+          "name": "Kunduru",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Kunduri",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kunduru",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "or": [
+        {
+          "name": "Bano Kundri",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kainchi kakudi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "as": [
+        {
+          "name": "Kanabhaturi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -3720,10 +4614,24 @@
           ]
         },
         {
+          "name": "Manduka Parni",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
           "name": "नीरब्राह्मी",
           "iast": "nīrabrāhmī",
           "sources": [
             "'Names of Plants in India' Hindi list for Bacopa monnieri: नीरब्राह्मी; the same page gives Marathi जलब्राह्मी / नीर ब्राह्मी and Kannada ಜಲ ಬ್ರಾಹ್ಮಿ / ನೀರು ಬ್ರಾಹ್ಮಿ."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Thyme Leaved Gratiola",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ],
@@ -3736,9 +4644,135 @@
           ]
         },
         {
+          "name": "Brahmi vazhukkai",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Nirabrahmi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
           "name": "பிரமி",
           "sources": [
             "'Names of Plants in India' Tamil list for Bacopa monnieri: நீர்ப்பிரமி, பிரமி, பிரமியம், தராய்."
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Bhahmi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Sambarenu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Sambrani",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Mandukaparni",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Nirubrahmi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Ondelaga",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Valabrahmi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Birami",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Brahmi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Jalnam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Bamanevari",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Neerbrahmi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ur": [
+        {
+          "name": "Brahmi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Brahmibuti",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "or": [
+        {
+          "name": "Brahmi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "as": [
+        {
+          "name": "Brahmi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -3819,6 +4853,12 @@
           ]
         },
         {
+          "name": "Candrika",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
           "name": "रक्तराजी",
           "iast": "raktarājī",
           "sources": [
@@ -3835,10 +4875,24 @@
           ]
         },
         {
+          "name": "Chansur",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
           "name": "हालिम",
           "iast": "hālima",
           "sources": [
             "'Names of Plants in India' Hindi entry for Lepidium sativum: हालिम (halim)."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Common Cress",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ],
@@ -3851,9 +4905,145 @@
           ]
         },
         {
+          "name": "Allivirai",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
           "name": "ஆளி",
           "sources": [
             "'Names of Plants in India' and Flowers of India (Garden Cress), Tamil entry for Lepidium sativum: ஆளி (Ali)."
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Asali",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Aadalu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Adityalu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Allibija",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kapila",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Ahaliva",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Haliv",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Chand Shura",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Halim",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Aseliyo",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Aseriya",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ur": [
+        {
+          "name": "Halim",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Holon",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Taratej",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "or": [
+        {
+          "name": "Chandasara",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Chandasura",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "as": [
+        {
+          "name": "Halim",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ks": [
+        {
+          "name": "Alian",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -4080,6 +5270,140 @@
       "sa": [
         {
           "name": "Cavika",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "hi": [
+        {
+          "name": "Chavya",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Cubeb",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ta": [
+        {
+          "name": "Chavyam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Chevuyam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Kattumulaku",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kattumulakunveru",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Chevy amu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Chavya",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kadumenasinaballi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Chavaka",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Chei",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Chavaka",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Chavka",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ur": [
+        {
+          "name": "Kababah",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Peepal Chab",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Chabak",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "or": [
+        {
+          "name": "Chainkath",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "as": [
+        {
+          "name": "Chepaan",
           "sources": [
             "Ayurvedic Pharmacopoeia of India"
           ]
@@ -4312,6 +5636,122 @@
             "Ayurvedic Pharmacopoeia of India"
           ]
         }
+      ],
+      "hi": [
+        {
+          "name": "Danti",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Wild Croton",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ta": [
+        {
+          "name": "Danti",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Konda Amudamu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Dantti",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Neervalam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Konda Amudamu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Kadu Haralu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Danti",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Danti",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Danti",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ur": [
+        {
+          "name": "Danti",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Danti",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "or": [
+        {
+          "name": "Danti",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "as": [
+        {
+          "name": "Danti",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
       ]
     },
     "herb/daruharidra": {
@@ -4333,6 +5773,24 @@
       ],
       "hi": [
         {
+          "name": "Chitraa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Daaruhaldi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Darhald",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
           "name": "दारुहल्दी",
           "iast": "dāruhaldī",
           "sources": [
@@ -4344,6 +5802,120 @@
           "iast": "rasauta",
           "sources": [
             "Daruharidra market-sample study, PMC3566491: Hindi 'chitra, dar-hald, rasaut, kashmal'; the same paper notes 'the decoction of root or stem of Berberis is known as Rasaut'."
+          ]
+        },
+        {
+          "name": "Zarishka (Fruit)",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Indian barberry",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Maradarisina",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Maramaanjal",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Manupasupu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Daaruhalada",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Daaruharidraa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Darhaldi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Daaruhaldar",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ur": [
+        {
+          "name": "Zarishk",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Chitra",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Daarhaldi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kasmal",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Simlu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Sumlu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "or": [
+        {
+          "name": "Daaruhaldi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -4382,6 +5954,44 @@
             "India Flora Online (IISc) herbsheet for Cedrus deodara: Tamil 'Devadaram' (alongside Kannada 'Devadaru', Sanskrit 'Devdar')."
           ]
         }
+      ],
+      "ur": [
+        {
+          "name": "Amaradaru",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Bhadradaru",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Daru",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Devakastha",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Surabhuruha",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Suradaru",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
       ]
     },
     "herb/dhanyaka": {
@@ -4395,20 +6005,53 @@
           ]
         },
         {
+          "name": "Dhanika",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Dhanya",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
           "name": "कुस्तुम्बरी",
           "iast": "kustumbarī",
           "sources": [
             "Monier-Williams Sanskrit-English Dictionary: 'the plant coriander, [Suśruta]'; Apte/DDSA: 'The धान्याक plant', quoting Suśruta आर्द्रां कुस्तुम्बरीं कुर्यात्."
+          ]
+        },
+        {
+          "name": "Kustumburu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Vitunnaka",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ],
       "hi": [
         {
           "name": "धनिया",
-          "iast": "dhaniyā",
-          "preferred": true,
           "sources": [
+            "Ayurvedic Pharmacopoeia of India",
             "Wisdom Library 'Local Names of Plants and Drugs': 'Dhaniya [धनिया] in the Hindi language is the name of a plant identified with Coriandrum sativum from the Apiaceae (Carrot) family'; DDSA Practical Hindi-English Dictionary: 'Dhaniyā (nm) coriander'."
+          ],
+          "preferred": true,
+          "iast": "dhaniyā"
+        }
+      ],
+      "en": [
+        {
+          "name": "Coriander fruit",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ],
@@ -4418,6 +6061,136 @@
           "preferred": true,
           "sources": [
             "University of Madras Tamil Lexicon: 'Coriander, Coriandrum sativum'; Winslow: 'Coriander seed, Coriandrum sativum, L.'; Fabricius; India Flora Online Tamil 'Kotthamalli'."
+          ]
+        },
+        {
+          "name": "Dhaniya",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kottamalli virai",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Kothampatayari",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Malli",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Dhaniyalu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Havija",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kothambari bija",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Dhane",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kothimbir",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Dhane",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Dhania",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Dhana",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ur": [
+        {
+          "name": "Kishneez",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Dhania",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "or": [
+        {
+          "name": "Dhania",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "as": [
+        {
+          "name": "Dhaniya",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ks": [
+        {
+          "name": "Dhanawal",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Dhaniwal",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -4461,6 +6234,18 @@
       ],
       "hi": [
         {
+          "name": "Baakali",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Dhaavaa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
           "name": "धौरा",
           "iast": "dhaurā",
           "sources": [
@@ -4468,10 +6253,118 @@
           ]
         },
         {
+          "name": "Dhauraa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Dhav",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
           "name": "धावड़ा",
           "iast": "dhāvaṛā",
           "sources": [
             "hellobanswara.com Hindi article on Anogeissus latifolia: 'धावड़ा को धौरा, धव, धावडो, धमोडा आदि नामों से जाना जाता है'."
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Axle wood",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ta": [
+        {
+          "name": "Vellanagai",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Vellanamai",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Malukkanniram",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Vellanava",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Chirimaanu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Dhaauyaa gaachh",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Dinduge",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Dhaavdaa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Dhaval",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Dhaauyaa gaachh",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Dhaavado",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "or": [
+        {
+          "name": "Dhaau",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -4517,6 +6410,146 @@
           "iast": "gūmā",
           "sources": [
             "Raj Nighantu 5.137-138 via wisdomlib: the common Hindi designation for Droṇapuṣpī (Leucas cephalotes) is given as 'Gūmā or Droṇapuṣpī'."
+          ]
+        }
+      ]
+    },
+    "herb/durva": {
+      "sa": [
+        {
+          "name": "r —",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "hi": [
+        {
+          "name": "Doob",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Conch Grass",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Creeping Cynodon",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ta": [
+        {
+          "name": "Aruvam Pullu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Koruka Pullu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Garika",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Pacchgaddi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Garike Hullu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Doorva",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Hariyalee",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Harlee",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Durva",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Dhro",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Khadodhro",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Lilidhro",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ur": [
+        {
+          "name": "Doob",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Doob Ghas",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Dubada",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -4649,6 +6682,12 @@
           ]
         },
         {
+          "name": "Andu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
           "name": "Arand",
           "sources": [
             "Ayurvedic Pharmacopoeia of India"
@@ -4669,6 +6708,12 @@
         },
         {
           "name": "Rend",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Rendee",
           "sources": [
             "Ayurvedic Pharmacopoeia of India"
           ]
@@ -4699,6 +6744,12 @@
       ],
       "ml": [
         {
+          "name": "Ambanakka",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
           "name": "Avanakku",
           "sources": [
             "Ayurvedic Pharmacopoeia of India"
@@ -4707,7 +6758,19 @@
       ],
       "te": [
         {
+          "name": "Amudanu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
           "name": "Amudapu veru",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Amudmuchetu",
           "sources": [
             "Ayurvedic Pharmacopoeia of India"
           ]
@@ -4716,6 +6779,12 @@
       "kn": [
         {
           "name": "Haralu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Harlu",
           "sources": [
             "Ayurvedic Pharmacopoeia of India"
           ]
@@ -4730,6 +6799,12 @@
       "mr": [
         {
           "name": "Erand",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Erandee",
           "sources": [
             "Ayurvedic Pharmacopoeia of India"
           ]
@@ -4769,6 +6844,12 @@
           "sources": [
             "Ayurvedic Pharmacopoeia of India"
           ]
+        },
+        {
+          "name": "Erand",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
         }
       ],
       "pa": [
@@ -4777,9 +6858,21 @@
           "sources": [
             "Ayurvedic Pharmacopoeia of India"
           ]
+        },
+        {
+          "name": "Erand",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
         }
       ],
       "or": [
+        {
+          "name": "Bheranda",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
         {
           "name": "Gaba",
           "sources": [
@@ -4802,6 +6895,12 @@
         },
         {
           "name": "Era",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Erri",
           "sources": [
             "Ayurvedic Pharmacopoeia of India"
           ]
@@ -5108,6 +7207,120 @@
             "Ayurvedic Pharmacopoeia of India"
           ]
         }
+      ],
+      "hi": [
+        {
+          "name": "Garahedu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Gargari",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Garheduaa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kasai",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Adlay",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Jobs tears",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ta": [
+        {
+          "name": "Kaattukuntumani",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Kaakkappalunku",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kaatugotampu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Adaviguruginja",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Manjutti",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Kasai",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Dedhaan",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Devaan",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Gadagad",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Kasai",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
       ]
     },
     "herb/giloy-satva": {
@@ -5207,30 +7420,6 @@
           ]
         },
         {
-          "name": "Goksuraka",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        },
-        {
-          "name": "Svadamstra",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        },
-        {
-          "name": "Traikantaka",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        },
-        {
-          "name": "Trikanta",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        },
-        {
           "name": "त्रिकण्टक",
           "iast": "trikaṇṭaka",
           "sources": [
@@ -5246,20 +7435,6 @@
           "sources": [
             "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 25 GOKṢURA (root of Tribulus terrestris Linn.) — Hindi: Gokhru; Punjabi: Bhakhra, Gokhru. Flowers of India (Puncture Vine) gives Hindi 'गोखुरू Gokhuru, गोक्षुर Gokshura' and the same word गोखरू under Marathi and Rajasthani."
           ]
-        },
-        {
-          "name": "Gokhru",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        }
-      ],
-      "en": [
-        {
-          "name": "Caltrops root",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
         }
       ],
       "ta": [
@@ -5268,166 +7443,6 @@
           "preferred": true,
           "sources": [
             "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 25 GOKṢURA — Tamil: Nerinjil, Nerunjil; Flowers of India (Puncture Vine) in Tamil script: 'நெருஞ்சி Nerunci'."
-          ]
-        },
-        {
-          "name": "Nerinjil",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        },
-        {
-          "name": "Nerunjil",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        }
-      ],
-      "ml": [
-        {
-          "name": "Nerinjil",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        }
-      ],
-      "te": [
-        {
-          "name": "Palleruveru",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        }
-      ],
-      "kn": [
-        {
-          "name": "Neggilamullu",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        },
-        {
-          "name": "Neggilu",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        },
-        {
-          "name": "Sannanaggilu",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        }
-      ],
-      "mr": [
-        {
-          "name": "Gokharu",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        },
-        {
-          "name": "Sarate",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        }
-      ],
-      "bn": [
-        {
-          "name": "Gokhri",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        },
-        {
-          "name": "Gokshura",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        }
-      ],
-      "gu": [
-        {
-          "name": "Be tha gokharu",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        },
-        {
-          "name": "Mithogokharu",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        },
-        {
-          "name": "Nana gokharu",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        }
-      ],
-      "ur": [
-        {
-          "name": "Khar-e-Khasak Khurd",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        }
-      ],
-      "pa": [
-        {
-          "name": "Bhakhra",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        },
-        {
-          "name": "Gokhru",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        }
-      ],
-      "or": [
-        {
-          "name": "Gokhyura",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        },
-        {
-          "name": "Gukhura",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        }
-      ],
-      "as": [
-        {
-          "name": "Gokshura",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        },
-        {
-          "name": "Gukhurkata",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        }
-      ],
-      "ks": [
-        {
-          "name": "Michirkand",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        },
-        {
-          "name": "Pakhda",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -5777,16 +7792,36 @@
         },
         {
           "name": "अभया",
-          "iast": "abhayā",
           "sources": [
+            "Ayurvedic Pharmacopoeia of India",
             "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 31 HARĪTAKĪ (Terminalia chebula Retz.) — Sanskrit: Abhayā, Kāyasthā, Śivā, Pathyā, Vijayā (with the note 'Not Bhaṅgā')"
+          ],
+          "iast": "abhayā"
+        },
+        {
+          "name": "Kayastha",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         },
         {
           "name": "पथ्या",
-          "iast": "pathyā",
           "sources": [
+            "Ayurvedic Pharmacopoeia of India",
             "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 31 HARĪTAKĪ — Sanskrit: Abhayā, Kāyasthā, Śivā, Pathyā, Vijayā"
+          ],
+          "iast": "pathyā"
+        },
+        {
+          "name": "Siva",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Vijaya (Not Bhanga)",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ],
@@ -5800,6 +7835,18 @@
           ]
         },
         {
+          "name": "Harad",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Harar",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
           "name": "हरीतकी",
           "iast": "harītakī",
           "sources": [
@@ -5808,9 +7855,18 @@
         },
         {
           "name": "हर्रे",
-          "iast": "harre",
           "sources": [
+            "Ayurvedic Pharmacopoeia of India",
             "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 31 HARĪTAKĪ — Hindi: Harre, Harad, Harar; 'जड़ीबूटियों द्वारा चिकित्सा' (AWGP) likewise: 'हिन्दी में इसे हरड़ और हर्रे भी कहा जाता है'."
+          ],
+          "iast": "harre"
+        }
+      ],
+      "en": [
+        {
+          "name": "Myrobalan",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ],
@@ -5820,6 +7876,142 @@
           "preferred": true,
           "sources": [
             "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 31 HARĪTAKĪ — Tamil: Kadukkai; Madras Tamil Lexicon and DSAL s.v. கடுக்காய்: 'Gall-nut, one of the tiri-palai' and 'Chebulic myrobalan, m. tr., Terminalia chebula'."
+          ]
+        },
+        {
+          "name": "Kadukkai",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Katukka",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Karaka",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Karakkaya",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Alalekai",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Harda",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Haritaki",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Hirda",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Hireda",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Haritaki",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Himaja",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Hirdo",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Pulo-harda",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ur": [
+        {
+          "name": "Halela",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Halela",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Harar",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "or": [
+        {
+          "name": "Harida",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "as": [
+        {
+          "name": "Shilikha",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ks": [
+        {
+          "name": "Halela",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -6554,6 +8746,166 @@
         }
       ]
     },
+    "herb/jayapala": {
+      "sa": [
+        {
+          "name": "Mukula",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Tintidiphala.",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "hi": [
+        {
+          "name": "Jamalgota",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Croton",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ta": [
+        {
+          "name": "Neervalam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Nervalam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Valam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Neervalam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Nervalam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Nepalamu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Japal beej",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Japala",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Nepal",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Nervala",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Japal",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Jepal",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Jaipala",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Jamalagota",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Nepalo",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ur": [
+        {
+          "name": "Jamalgota",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Japolota",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "as": [
+        {
+          "name": "Kanibish",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ]
+    },
     "herb/jeeraka": {
       "sa": [
         {
@@ -6601,6 +8953,90 @@
           "name": "ஜீரகம்",
           "sources": [
             "MMPND 'Sorting Cuminum names', Cuminum cyminum, Tamil in Tamil script: ஜீரகம் (Jirakam) alongside சீரகம்."
+          ]
+        }
+      ]
+    },
+    "herb/jivanti": {
+      "hi": [
+        {
+          "name": "Dodi Shak",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Jivanti",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Cork Swallow-wort",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ta": [
+        {
+          "name": "Palalkkodi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Atapatiyan",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Mukkutummudu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Palatige",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Kharkhoda",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kheerakhodee",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Jiwanti",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Dodee",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -6704,7 +9140,18 @@
           "sources": [
             "Monier-Williams and the Practical Sanskrit-English Dictionary via wisdomlib: नीप = 'The Kadamba tree, Nauclea Cadamba'; Narahari's Rāja Nighaṇṭu gives Nīpa as a synonym of Dhārākadamba, a variety of Kadamba (Neolamarckia cadamba)."
           ]
-        },
+        }
+      ],
+      "hi": [
+        {
+          "name": "कदंब",
+          "iast": "kadaṃba",
+          "sources": [
+            "efloraofindia Neolamarckia cadamba page and 'Names of Plants in India': Hindi कदम्ब (kadamb), Marathi कदंब, read in Devanagari."
+          ]
+        }
+      ],
+      "ta": [
         {
           "name": "Priyka",
           "sources": [
@@ -6716,62 +9163,6 @@
           "sources": [
             "Ayurvedic Pharmacopoeia of India"
           ]
-        }
-      ],
-      "hi": [
-        {
-          "name": "कदंब",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India",
-            "efloraofindia Neolamarckia cadamba page and 'Names of Plants in India': Hindi कदम्ब (kadamb), Marathi कदंब, read in Devanagari."
-          ],
-          "iast": "kadaṃba"
-        },
-        {
-          "name": "Kadamba mara",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        },
-        {
-          "name": "Kadavala",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        },
-        {
-          "name": "Neirumavinamara",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        }
-      ],
-      "en": [
-        {
-          "name": "Kadam",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        },
-        {
-          "name": "Kadamb",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        }
-      ],
-      "ta": [
-        {
-          "name": "Kadimi Chettu",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        },
-        {
-          "name": "Telugu : Kadamb amu",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
         },
         {
           "name": "வெள்ளைக் கடம்பு",
@@ -6780,133 +9171,15 @@
           ]
         }
       ],
-      "ml": [
+      "te": [
         {
-          "name": "Holiptiya",
+          "name": "Kadamb amu",
           "sources": [
             "Ayurvedic Pharmacopoeia of India"
           ]
         },
         {
-          "name": "Kadamba Nipo",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        },
-        {
-          "name": "Kadambal",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        }
-      ],
-      "kn": [
-        {
-          "name": "Attutekka",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        },
-        {
-          "name": "Katampu",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        }
-      ],
-      "mr": [
-        {
-          "name": "Kadamb",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        }
-      ],
-      "bn": [
-        {
-          "name": "Kadam",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        }
-      ],
-      "gu": [
-        {
-          "name": "Kadam",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        },
-        {
-          "name": "Kadamba",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        }
-      ],
-      "pa": [
-        {
-          "name": "Kadambu Needam",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        },
-        {
-          "name": "Vellai Kadambu",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        }
-      ],
-      "or": [
-        {
-          "name": "Arattam",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        },
-        {
-          "name": "Indulam",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        },
-        {
-          "name": "Kadappai",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        },
-        {
-          "name": "Vellai Kadambam",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        },
-        {
-          "name": "Vellaikhadambu",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        }
-      ],
-      "as": [
-        {
-          "name": "Kadam",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        },
-        {
-          "name": "Roghu",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        }
-      ],
-      "ks": [
-        {
-          "name": "Kadamb",
+          "name": "Kadimi Chettu",
           "sources": [
             "Ayurvedic Pharmacopoeia of India"
           ]
@@ -8540,7 +10813,19 @@
       ],
       "hi": [
         {
+          "name": "Keora",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
           "name": "Kevada",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kevadaa",
           "sources": [
             "Ayurvedic Pharmacopoeia of India"
           ]
@@ -8551,9 +10836,27 @@
           "sources": [
             "Flowers of India, Kewda page: Hindi \"गगण धूल (gagan-dhul), केओड़ा (keora), केतकी (ketaki), केंवड़ा (kevara)\"."
           ]
+        },
+        {
+          "name": "Kewda",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
         }
       ],
       "en": [
+        {
+          "name": "Caldera Bush",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Fragrant Screwpine",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
         {
           "name": "Screw pine",
           "sources": [
@@ -8562,6 +10865,18 @@
         }
       ],
       "ta": [
+        {
+          "name": "Talai",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Tazampu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
         {
           "name": "Tazhai",
           "sources": [
@@ -8593,11 +10908,29 @@
           "sources": [
             "Ayurvedic Pharmacopoeia of India"
           ]
+        },
+        {
+          "name": "Taalampu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Tazha",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
         }
       ],
       "te": [
         {
           "name": "Mogali",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Mogili",
           "sources": [
             "Ayurvedic Pharmacopoeia of India"
           ]
@@ -8611,13 +10944,43 @@
           ]
         },
         {
+          "name": "Kedage",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kiyarige",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Mundige",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
           "name": "Talehuvu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Thaale hou",
           "sources": [
             "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ],
       "mr": [
+        {
+          "name": "Kevdaa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
         {
           "name": "Kewda",
           "sources": [
@@ -8631,11 +10994,37 @@
           "sources": [
             "Ayurvedic Pharmacopoeia of India"
           ]
+        },
+        {
+          "name": "Keori",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Keya",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
         }
       ],
       "gu": [
         {
           "name": "Kevado",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kewado",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ur": [
+        {
+          "name": "Kewdaa",
           "sources": [
             "Ayurvedic Pharmacopoeia of India"
           ]
@@ -8647,11 +11036,23 @@
           "sources": [
             "Ayurvedic Pharmacopoeia of India"
           ]
+        },
+        {
+          "name": "Kevda",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
         }
       ],
       "or": [
         {
           "name": "Ketaki",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Ketoki",
           "sources": [
             "Ayurvedic Pharmacopoeia of India"
           ]
@@ -8985,13 +11386,129 @@
           "sources": [
             "MMPND \"Sorting Luffa names\" lists for Luffa acutangula, Hindi: \"Peerkankai, Jhinga torooee, Jhingli torai, Kali, Torai (Torooee), Turai, Hireballi.\""
           ]
+        },
+        {
+          "name": "Satputia",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Turai",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Ribbed Gourd",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
         }
       ],
       "ta": [
         {
+          "name": "Peerkku",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
           "name": "பேய்ப்பீர்க்கு",
           "sources": [
             "efloraofindia, Luffa acutangula: Tamil \"ஆகாசவேணி akaca-veni, பேய்ப்பீர்க்கு pey-p-pirkku\"; Herbarium JCB gives \"Akaca-veni, Pey-p-pirkku, Tittakocataki\"."
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Peerkam Kai",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Beera",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Chedu beeha",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Varri beera",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Hire-Valli",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Dodka Turiya",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Zinga",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Kadawa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Turiya",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ur": [
+        {
+          "name": "Turai",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Turiya",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "or": [
+        {
+          "name": "Tarada",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -9120,13 +11637,245 @@
           "sources": [
             "Flowers of India / \"Names of Plants in India\" Safflower page gives Hindi \"कुसुम Kusum\", Sanskrit \"कुसुम्भ Kusumbh\", Tamil \"குஸும்ப Kusumba\", Bengali কুসুম, Kannada ಕುಸುಬೆ."
           ]
+        },
+        {
+          "name": "Barre",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kusum",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kusumb",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Bastard saffron. Safflower",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Parrot seed. Bastard saffron",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Safflower",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
         }
       ],
       "ta": [
         {
+          "name": "Kartum",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kusam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kusumb",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Senturkam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
           "name": "குஸும்ப",
           "sources": [
             "Flowers of India, Safflower page: Tamil \"குஸும்ப Kusumba\"."
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Chendurakam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Chentukam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kuyimpu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Kusumbaa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kusumulu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Sendurakam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Senturakam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Kasube",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kusubbi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kusubeegida",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kusumekalu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Kardai",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kardi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Barre",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kusum",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kusum phool",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Karad",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kusumbi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kusumbo",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ur": [
+        {
+          "name": "Kusum",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kusuma",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Kusum",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "or": [
+        {
+          "name": "Kusum",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "as": [
+        {
+          "name": "Akharij",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Jhartam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -9331,6 +12080,172 @@
             "Ayurvedic Pharmacopoeia of India"
           ]
         }
+      ],
+      "hi": [
+        {
+          "name": "Laung",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Lavanga",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Clove",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ta": [
+        {
+          "name": "Kirambu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Lavangam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Grampu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Karampu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Karayampoovu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Lavangalu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Lavanga",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Lavang",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Lavang",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Lavang",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Laving",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ur": [
+        {
+          "name": "Laung",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Qarnful",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Laung",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Long",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "or": [
+        {
+          "name": "Labanga",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "as": [
+        {
+          "name": "Lan",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Lavang",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Long",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ks": [
+        {
+          "name": "Rung",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
       ]
     },
     "herb/madayantika": {
@@ -9370,6 +12285,124 @@
           "name": "மருதோன்றி",
           "sources": [
             "Tamil Heritage Foundation's plant CMS carries a page for Lawsonia inermis headed மருதோன்றி; the India Biodiversity Portal record for Lawsonia inermis lists Tamil names including maruthonri, maruthaani, alavam and aivanam."
+          ]
+        }
+      ]
+    },
+    "herb/madhu": {
+      "hi": [
+        {
+          "name": "Madhu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Sahad",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Honey",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ta": [
+        {
+          "name": "Then",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Then",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Tene",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Jentuppa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Madh",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Madhu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Mau",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Madh",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ur": [
+        {
+          "name": "Sahad",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Sahad",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "or": [
+        {
+          "name": "Mahu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "as": [
+        {
+          "name": "Mahu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -9748,13 +12781,123 @@
           "sources": [
             "Ayurvedic Pharmacopoeia of India, MANJISTHA monograph, Hindi \"Manjitha, Manjit\"; MMPND Rubia page, Hindi \"Majith, Manjit\"."
           ]
+        },
+        {
+          "name": "Manjit",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Manjitha",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Indian Maddar",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
         }
       ],
       "ta": [
         {
+          "name": "Manjitte",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
           "name": "மஞ்சிட்டி",
           "sources": [
             "efloraofindia, Rubia cordifolia page, Tamil \"மஞ்சிட்டி (mancitti)\"; Ayurvedic Pharmacopoeia of India, MANJISTHA monograph, Tamil \"Manjitte\"."
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Manjatti",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Manjishtha",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Manjustha",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Manjihtha",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Manjistha",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Manjith",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Manjitha",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ur": [
+        {
+          "name": "Majeeth",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Manjistha",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Manjit",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "as": [
+        {
+          "name": "Phuvva",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -9819,6 +12962,88 @@
           "name": "கடரநாரத்தை",
           "sources": [
             "MMPND Citrus medica page, Tamil line \"Campalam, Campiram, எலுமிச்சை Elumiccai, கடரநாரத்தை Kaṭāranārattai, கொம்மட்டிமாதுளை Kommatti-matulai\"; Ayurvedic Pharmacopoeia of India, BIJAPURA monograph, Tamil \"Kadarangai, Turunji Pazham\"."
+          ]
+        }
+      ]
+    },
+    "herb/meda": {
+      "hi": [
+        {
+          "name": "Medaa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Meda",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Meda",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Medhaa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Meda",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Meda",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Meda",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Meda",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "or": [
+        {
+          "name": "Meda",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "as": [
+        {
+          "name": "Meda",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -10215,18 +13440,118 @@
       ],
       "hi": [
         {
+          "name": "Dikaamaali",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
           "name": "डिकामाली",
           "iast": "ḍikāmālī",
           "sources": [
             "Ayurvedic Pharmacopoeia of India, NADIHINGU monograph, Hindi \"Naadihingu, Dikaamaali\"."
           ]
+        },
+        {
+          "name": "Naadihingu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Gummy Gardenia",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
         }
       ],
       "ta": [
         {
+          "name": "Tikka malli",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
           "name": "திக்கமல்லி",
           "sources": [
             "Ayurvedic Pharmacopoeia of India, NADIHINGU (Exudate) monograph on Gardenia gummifera, Tamil \"Tikka malli\"; flowersofindia Gummy Gardenia entry, Tamil \"kambil, sirukkambil, tikkamalli\"."
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Gandharaajan",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Somanaadikaayam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Karinguva",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Tellamanga",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Dikkaamalli",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Dikemaali",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Dikamali",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Dikaamaari",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Maaladi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Dikaamaali",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -10697,6 +14022,20 @@
             "efloraofindia, Alangium salviifolium Tamil list: அங்கோலம் ankolam"
           ]
         }
+      ],
+      "ur": [
+        {
+          "name": "Chilgoza pine. Edible pine",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Neosa pine",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
       ]
     },
     "herb/nili": {
@@ -10737,6 +14076,20 @@
           "sources": [
             "efloraofindia, Indigofera tinctoria page: Hindi \"नील (neel), नीलिका (nilika)\""
           ]
+        },
+        {
+          "name": "Nili",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Indigo Plant",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
         }
       ],
       "ta": [
@@ -10748,9 +14101,117 @@
           ]
         },
         {
+          "name": "Avuri",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
           "name": "நீலி",
           "sources": [
             "efloraofindia, Indigofera tinctoria Tamil list: நீலி nili"
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Amari",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Avuri",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Kondannili",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Nili",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Kadu Nili",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Nili",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Neel",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Nili",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Nil",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Gali",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Nil",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ur": [
+        {
+          "name": "Neel",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Neel",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "as": [
+        {
+          "name": "Nilbam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -10810,6 +14271,50 @@
           "sources": [
             "efloraofindia, Azadirachta indica: Hindi \"नीम (nim)\""
           ]
+        },
+        {
+          "name": "Neem",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Nim",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Nimb",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Indian Lilac",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Margosa Tree",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Margosa Trees",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Neem Tree",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
         }
       ],
       "ta": [
@@ -10818,6 +14323,236 @@
           "preferred": true,
           "sources": [
             "efloraofindia, Azadirachta indica: Tamil \"வேம்பு (vempu)\""
+          ]
+        },
+        {
+          "name": "Vembu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Vempu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Veppai",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Veppu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Aaruveppu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Aruveppu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Aryaveppu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Veppu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Vemu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Vepa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Bevu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Chikkabevu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Huchchabevu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kahibevu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Nimba",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Oilevevu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Turakbevu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Balantanimba",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kadunimb",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kadunimba",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Limba",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Nimb",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Nim",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Nimgaachh",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Nimgacha",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Kadvo Limbdo",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Leemado",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ur": [
+        {
+          "name": "Neem",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Bakam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Nim",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Nimb",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Nimba",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "or": [
+        {
+          "name": "Neemo",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Nimba",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "as": [
+        {
+          "name": "Mahanim",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -11086,10 +14821,36 @@
       ],
       "hi": [
         {
+          "name": "Bada",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Badra",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
           "name": "बरगद",
           "iast": "baragada",
           "sources": [
             "efloraofindia, Ficus benghalensis Hindi list: बरगद bargad, बड़/बर bar, वट vat"
+          ]
+        },
+        {
+          "name": "Bargad",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Banyan tree",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ],
@@ -11099,6 +14860,148 @@
           "preferred": true,
           "sources": [
             "efloraofindia, Ficus benghalensis: Tamil \"ஆல் (aal)\" listed first, with வடம், நிக்குரோதம், கோளி"
+          ]
+        },
+        {
+          "name": "Aalam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Aalamaram",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Peraal",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Marri",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Aala",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Aladamara",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Vata",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Vad",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Bot",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Vad",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Vadalo",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ur": [
+        {
+          "name": "Bad",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Bargad",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Bhaur",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "or": [
+        {
+          "name": "Bara",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Bata",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "as": [
+        {
+          "name": "Ahat",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Vat",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Vatgach",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ks": [
+        {
+          "name": "Bad",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -11193,10 +15096,23 @@
       "hi": [
         {
           "name": "कटहल",
-          "iast": "kaṭahala",
-          "preferred": true,
           "sources": [
+            "Ayurvedic Pharmacopoeia of India",
             "efloraofindia and Flowers of India, Artocarpus heterophyllus: Hindi \"कटहल (kat-hal)\", FoI \"कटहल Katahal, कठल Kathal\""
+          ],
+          "preferred": true,
+          "iast": "kaṭahala"
+        },
+        {
+          "name": "Kathal",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kathar",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         },
         {
@@ -11207,12 +15123,148 @@
           ]
         }
       ],
+      "en": [
+        {
+          "name": "Indian Jack fruit",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Jack-fruit tree",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
       "ta": [
         {
           "name": "பலா",
           "preferred": true,
           "sources": [
             "Flowers of India, Artocarpus heterophyllus: Tamil \"பலா Palaa\""
+          ]
+        },
+        {
+          "name": "Pala",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Chakka",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Panasa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Alasa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Halasu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Hebba alasu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Phanasa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Kantal",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Katal",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kathal",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Phanas",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Phanus",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ur": [
+        {
+          "name": "Katahal",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Katahala",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "or": [
+        {
+          "name": "Panasa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Ponoso",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "as": [
+        {
+          "name": "Kanthal",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -11253,9 +15305,41 @@
           "sources": [
             "Flowers of India, Erythrina variegata: Hindi \"पंगार Pangara\"; efloraofindia Hindi list: पांगरा pangra, मन्दार mandar, महामेद mahamed, पारिभद्र paribhadra"
           ]
+        },
+        {
+          "name": "Pangara",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Pharahada",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Coral tree",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
         }
       ],
       "ta": [
+        {
+          "name": "Kalyanamurongai",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Mulmurun",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
         {
           "name": "கல்யாண முருங்கை",
           "sources": [
@@ -11266,6 +15350,66 @@
           "name": "முள்ளுமுருக்கு",
           "sources": [
             "efloraofindia, Erythrina variegata Tamil list: முள்ளுமுருக்கு mullu-murukku; Wiktionary derives it as முள்ளு + முருக்கு for Erythrina variegata"
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Murrikku",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Badisa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Varifamu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Halivanadamar",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Hongar",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Pangara",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Pattemadar",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Panderavo",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -11330,6 +15474,22 @@
           "name": "பவளமல்லிகை",
           "sources": [
             "efloraofindia, Nyctanthes arbor-tristis Tamil list: பவளமல்லிகை pavala-mallikai, with சேடல் cetal, பாரிசாதம் paricatam"
+          ]
+        }
+      ]
+    },
+    "herb/parnayavani": {
+      "te": [
+        {
+          "name": "Paatharchur",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Paterchur",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -11496,9 +15656,18 @@
         },
         {
           "name": "पिपरामूल",
-          "iast": "piparāmūla",
           "sources": [
+            "Ayurvedic Pharmacopoeia of India",
             "Ayurvedic Pharmacopoeia of India Part I, PIPPALIMULA (Stem) = Piper longum Linn., Hindi: 'Piparamula'"
+          ],
+          "iast": "piparāmūla"
+        }
+      ],
+      "en": [
+        {
+          "name": "Piper root",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ],
@@ -11508,6 +15677,146 @@
           "preferred": true,
           "sources": [
             "Ayurvedic Pharmacopoeia of India Part I, PIPPALI (Fruit) = Piper longum, Tamil: 'Arisi Tippali, Thippili'. Also eFloraofIndia Tamil திப்பிலீ."
+          ]
+        },
+        {
+          "name": "Ambinadi Desavaram",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kanda Tippili",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Kattuthippaliver",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Tippaliveru",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Madikatta",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Modi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Hippali",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Modi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Modikaddi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Tippali",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Pimplimula",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Pipulmul",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Ganthoda",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Gantoda",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ur": [
+        {
+          "name": "Filfll Daraz",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Magha",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Pippalimula",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "or": [
+        {
+          "name": "Bana Pippalimula",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Pippalimula",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "as": [
+        {
+          "name": "Kulekhara",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -12114,6 +16423,120 @@
             "Ayurvedic Pharmacopoeia of India"
           ]
         }
+      ],
+      "hi": [
+        {
+          "name": "Banchillaa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Chilbil",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kanju",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Paapari",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Indian elm",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ta": [
+        {
+          "name": "Aapa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Avali",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Avil",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Nettavil",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Nemalinara",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Tapasi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Tapasigida",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Baavalaa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Charela",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kanajho",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Chirbil",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
       ]
     },
     "herb/rakta-chandana": {
@@ -12159,6 +16582,32 @@
           "sources": [
             "Ayurvedic Pharmacopoeia of India Part I, RAKTACANDANA (Heart Wood) = Pterocarpus santalinus Linn. f., Hindi: 'Raktachandanam, Lalchandana'; Punjabi 'Lal Chandan', Gujarati 'Ratanjali, Lalchandan'"
           ]
+        },
+        {
+          "name": "Lalchandana",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Raktachandanam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Red Sandal Wood",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Red Sanders",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
         }
       ],
       "ta": [
@@ -12167,6 +16616,96 @@
           "preferred": true,
           "sources": [
             "Ayurvedic Pharmacopoeia of India Part I, RAKTACANDANA = Pterocarpus santalinus, Tamil: 'Sanchandanam' (printed with OCR loss for Senchandanam, i.e. செஞ்சந்தனம், 'red sandal')."
+          ]
+        },
+        {
+          "name": "Sanchandanam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Rakta Chandanam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Erra Chandanamu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Raktha Chandanam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Rakta Chandana",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Raktachandana",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Lalchandan",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Ratanjali",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ur": [
+        {
+          "name": "Sandal Surkh",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Lai Chandan",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "as": [
+        {
+          "name": "Sandal Ahmar",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Sandale",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -12313,6 +16852,90 @@
           "sources": [
             "Ayurvedic Pharmacopoeia of India Part I, ROHITAKA (Stem Bark) = Tecomella undulata (Sm.) Seem., Regional Language Names, Hindi: 'Roheda'; Gujarati 'Rohido', Marathi 'Rohida', Punjabi 'Rohira'."
           ]
+        },
+        {
+          "name": "Roheda",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Rohituka tree",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ta": [
+        {
+          "name": "Malampulvan",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Chemmaram",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Rohitaka",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Mullumuntala",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Rohida",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Harinahada",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Roda rayana",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Rohido",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Rohira",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
         }
       ]
     },
@@ -12332,12 +16955,94 @@
           ]
         }
       ],
+      "hi": [
+        {
+          "name": "Rudraki",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
       "ta": [
         {
           "name": "உருத்திராட்சம்",
           "preferred": true,
           "sources": [
             "University of Madras Tamil Lexicon (via agarathi.com), உருத்திராட்சம்: 'rudra-kṣa. 1. Olive-fruited linden, Eloeocarpus ... 2. Rudrāk, l. tr., Eloeocarpus ganitrus'. Corroborated by API Part I, RUDRAKSA (Seed) = Elaeocarpus sphaericus Gaertn., Tamil: 'Rudraksha'."
+          ]
+        },
+        {
+          "name": "Rudraksha",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Rudraksha",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Rudraksha",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Rudraksh",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Rudrakshi mara",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Rudraksha",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Rudrakya",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Rudraksh",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Rudraksha",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Rudraksha",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -12409,6 +17114,14 @@
           "name": "குங்கிலியம்",
           "sources": [
             "eFloraofIndia, Shorea robusta, Tamil: attam, venkungiliyam, kungiliyam (i.e. குங்கிலியம், வெண்குங்கிலியம்)."
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Shaalgaach",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -12561,10 +17274,22 @@
           ]
         },
         {
+          "name": "Chhotaa Chaand",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
           "name": "छोटा चांद",
           "iast": "choṭā cāṃda",
           "sources": [
             "eFloraofIndia / Names of Plants in India, Rauvolfia serpentina, Hindi: चन्द्रभाग, छोटा चांद, नाकुली, सर्पगंधा. Corroborated by API SARPAGANDHA Hindi 'Chhotaa Chaand, Dhavalbaruaa'"
+          ]
+        },
+        {
+          "name": "Dhavalbaruaa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         },
         {
@@ -12575,12 +17300,100 @@
           ]
         }
       ],
+      "en": [
+        {
+          "name": "Rauvolfia Root",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Serpentina Root",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
       "ta": [
         {
           "name": "சர்பகந்தி",
           "preferred": true,
           "sources": [
             "Ayurvedic Pharmacopoeia of India Part I, SARPAGANDHA (Root) = Rauwolfia serpentina, Tamil: 'Sarppaganti'."
+          ]
+        },
+        {
+          "name": "Sarppaganti",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Amalpori",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Sarpagandhi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Sutranaabhu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Adkai",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Chandra",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Chaandar",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Amelpodee",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "or": [
+        {
+          "name": "Dhanbarua",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Sanochado",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -13513,6 +18326,176 @@
         }
       ]
     },
+    "herb/tinduka": {
+      "hi": [
+        {
+          "name": "Gaabh",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Maakaatendu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Tendu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Indian Gaub",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Persimon",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ta": [
+        {
+          "name": "Kattatti",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kavikattai",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Paanicikaa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Tumbi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Tumbika",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Panachchi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Panachi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Pananchi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Gaara",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Tumiki",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Holetupare",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Kusharta",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "T emburni",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Gab",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Temru",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Timbaravo",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ur": [
+        {
+          "name": "Tendu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "or": [
+        {
+          "name": "Kendu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "as": [
+        {
+          "name": "Kendu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ]
+    },
     "herb/trapusha": {
       "sa": [
         {
@@ -14369,6 +19352,12 @@
     "herb/vasa": {
       "sa": [
         {
+          "name": "Atarusa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
           "name": "अटरूषः",
           "iast": "aṭarūṣaḥ",
           "sources": [
@@ -14395,6 +19384,18 @@
           "sources": [
             "MMPND Sorting Justicia names, Justicia adhatoda: 'Sanskrit: ... वासा Vasa, वासक Vasaka, Vasika'; wisdomlib's Vasaka entry gives वासक for Adhatoda vasica citing Rāj Nighaṇṭu"
           ]
+        },
+        {
+          "name": "Vasaka",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Vrsa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
         }
       ],
       "hi": [
@@ -14412,6 +19413,26 @@
           "sources": [
             "MMPND Sorting Justicia names, Justicia adhatoda Hindi list: 'अडुळसा Adulsa, अडुसा Adusa, अर्शा Arusa'"
           ]
+        },
+        {
+          "name": "Aduss",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Arusa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Vasaka",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
         }
       ],
       "ta": [
@@ -14420,6 +19441,190 @@
           "preferred": true,
           "sources": [
             "MMPND Sorting Justicia names, Justicia adhatoda entry, Tamil: 'ஆடாதோடை Adatodai, Adhatodai, Adotodai, Pavatai, Pavettai'"
+          ]
+        },
+        {
+          "name": "Adathodai",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Vasambu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "Atalotakam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Attalatakam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Addasaramu",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "Adasale",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Adsale",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Adsole",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Adusoge",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Atarusha",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Adulsa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Vasa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Baksa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Vasaka",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Adulso",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Aduso",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Ardusi",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ur": [
+        {
+          "name": "Adusa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Basa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Arusa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Bhekar",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Vansa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "or": [
+        {
+          "name": "Basanga",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "as": [
+        {
+          "name": "Bahak",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Titabahak",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        },
+        {
+          "name": "Vachaka",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ks": [
+        {
+          "name": "Vasa",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
@@ -14537,12 +19742,6 @@
           ]
         },
         {
-          "name": "Gumadigida",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        },
-        {
           "name": "विदारी",
           "iast": "vidārī",
           "sources": [
@@ -14558,20 +19757,6 @@
           "sources": [
             "Planet Ayurveda and IAFA monographs for Pueraria tuberosa DC., which give 'Hindi: विदारीकंद Vidarikanda, बनकुमड़ा Bankumara' and 'Sanskrit: भूमिकुष्माण्ड Bhumikusmanda, विदारी Vidari, स्वादुकन्दा Svadukanda, गजवाजिप्रिया Gajavajipriya, कन्दपलाश Kandapalash, इक्षुगन्धा Ikshugandha'"
           ]
-        },
-        {
-          "name": "Punjabi",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        }
-      ],
-      "en": [
-        {
-          "name": "Marathi",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
         }
       ],
       "ta": [
@@ -14584,31 +19769,27 @@
       ],
       "kn": [
         {
-          "name": "Tamil",
+          "name": "Gumadigida",
           "sources": [
             "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ],
-      "bn": [
+      "ur": [
         {
-          "name": "Malayalam",
+          "name": "Bhumikusmanda",
           "sources": [
             "Ayurvedic Pharmacopoeia of India"
           ]
-        }
-      ],
-      "gu": [
+        },
         {
-          "name": "Oriya",
+          "name": "Vidari",
           "sources": [
             "Ayurvedic Pharmacopoeia of India"
           ]
-        }
-      ],
-      "as": [
+        },
         {
-          "name": "Kashmiri",
+          "name": "Vidarika",
           "sources": [
             "Ayurvedic Pharmacopoeia of India"
           ]
@@ -14759,6 +19940,12 @@
           "sources": [
             "ayushvedah.com Yava (Hordeum vulgare) monograph, Sanskrit vernacular names: \"aksata, akshata, dhanyaraja, divya\"."
           ]
+        },
+        {
+          "name": "MAHAMEDA (Rhizome and",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
         }
       ],
       "hi": [
@@ -14776,6 +19963,20 @@
           "sources": [
             "ayushvedah.com Yava (Hordeum vulgare) monograph, vernacular names table, Hindi: \"जव (jav), जौ (jau)\"."
           ]
+        },
+        {
+          "name": "Smilax china Linn",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "MADHUSNUHI (Tuberous",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
         }
       ],
       "ta": [
@@ -14784,6 +19985,100 @@
           "preferred": true,
           "sources": [
             "University of Madras Tamil Lexicon (via agarathi.com): \"Barley cereal, Hordeum vulgare; கோதுமைவகை\" (a kind of wheat-grain)."
+          ]
+        },
+        {
+          "name": "MESAS RNGI (Root)",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ml": [
+        {
+          "name": "MEDASAKAH (Wood)",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "te": [
+        {
+          "name": "Gymnema sylvestre R.Br",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "kn": [
+        {
+          "name": "MEDASAKAH (Stem Bark)",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "mr": [
+        {
+          "name": "Listea chinensis Lam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "bn": [
+        {
+          "name": "Polygonatum cirrhifolium Royle",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "gu": [
+        {
+          "name": "Root)",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ur": [
+        {
+          "name": "NANDI (Root)",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "pa": [
+        {
+          "name": "Gymnema sylvestre R.Br",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "or": [
+        {
+          "name": "MESASRNGI (Leaf)",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "as": [
+        {
+          "name": "Root)",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
+          ]
+        }
+      ],
+      "ks": [
+        {
+          "name": "Listea chinensis Lam",
+          "sources": [
+            "Ayurvedic Pharmacopoeia of India"
           ]
         }
       ]
