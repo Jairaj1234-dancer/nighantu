@@ -4,7 +4,7 @@ import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import CiteThis from '../../components/CiteThis.astro';
 import ReviewCredit from '../../components/ReviewCredit.astro';
-import { reviewer, reviewFor } from '../../lib/review';
+import { reviewPageNode } from '../../lib/review';
 import { SITE_NAME, abs, rel } from '../../lib/site';
 import { pageDates } from '../../lib/dates';
 
@@ -27,14 +27,19 @@ const siblings = (await getCollection('glossary'))
 const jsonld = {
   '@context': 'https://schema.org',
   '@type': 'DefinedTermSet',
+  '@id': `${abs(canonical)}#termset`,
   name: d.title,
   description: d.answer,
   url: abs(canonical),
   inLanguage: 'en',
   publisher: { '@id': `${abs('/')}#organization` },
 };
+
+const webPage = reviewPageNode(
+  'glossary', d.slug, abs(canonical), `${abs(canonical)}#termset`, abs('/reviewers/'),
+);
 ---
-<Base title={`${d.title} · ${SITE_NAME}`} description={d.answer} canonical={canonical} jsonld={jsonld}>
+<Base title={`${d.title} · ${SITE_NAME}`} description={d.answer} canonical={canonical} jsonld={[jsonld, ...(webPage ? [webPage] : [])]}>
   <Crumbs trail={[{ label: 'Glossary', href: '/glossary/' }, { label: d.title }]} />
   <h1>{d.title}</h1>
   <p class="answer">{d.answer}</p>
