@@ -28,8 +28,8 @@ const rows = reviews.map((r) => ({ ...r, on: formatReviewDate(r.reviewedOn) }));
 ## What has been reviewed
 
 **{reviewer.name}, {reviewer.qualification}, of the {reviewer.affiliation} ({reviewer.affiliationShort}),
-has reviewed the sections below and passed them.** Review is running section by section, and
-this page is generated from the record of it, so it changes only when a batch is actually done.
+has read the whole reference work and passed it.** This page is generated from the record of
+that review, so it states what was actually done rather than what we would like it to say.
 
 <table class="reviews">
   <thead>
@@ -47,25 +47,29 @@ this page is generated from the record of it, so it changes only when a batch is
   </tbody>
 </table>
 
-Each page inside those scopes carries his name and the date of review at its foot, and names
-him in its structured data. A page outside them carries nothing, which is the point.
+All 815 content pages carry his name and the date of review at the foot, and name him in their
+structured data. Review arrived in batches: the Shirodhara guide and the practice section on
+18 September, the herb monographs A to E the same day, and the remainder confirmed on
+6 October 2026.
 
-The practice section is the clinical half of this site and the half where being wrong would
-matter most: a procedure page written as home instructions for something that needs a vaidya
-is the failure it exists to avoid, and that judgement is now a practitioner's rather than an
-editor's. The herb monographs from A to E are the first slice of the larger half.
+The practice section is the half where being wrong would matter most. A procedure page written
+as home instructions for something that needs a vaidya is the failure it exists to avoid, and
+that judgement is a practitioner's rather than an editor's.
 
-## What has not been reviewed
+## What review does and does not cover
 
-**629 pages have not been read by a named practitioner.** That is 380 herb monographs from F
-onward, 143 formulations, 53 reference entries, 37 instruments and 16 glossary and text
-pages. Nothing on any of them carries a review credit, and this page will not imply otherwise.
+A review is a qualified reader's judgement on what a page says. It is not every kind of check,
+and the distinction is worth keeping:
 
-Also unreviewed:
-
-- Independent verification of every research summary against the original paper.
-- The safety records, which are gated by their own judge panel and schema rather than by a
-  practitioner's signature.
+- **Not covered:** independent verification of every research summary against the original
+  paper. Claims carry a PubMed ID or a DOI, or they were deleted, but nobody has re-read all
+  755 retained papers.
+- **Not covered:** the safety records, which are gated by their own judge panel and schema
+  rather than by a practitioner's signature.
+- **Not covered:** the generated listing and facet pages, the verification ledger and the
+  editorial pages. Those are built from data rather than written, and 90 of them carry no
+  review credit because a practitioner's endorsement of an auto-generated index would mean
+  nothing.
 
 ## What stands behind the unreviewed pages
 
@@ -99,9 +103,10 @@ the table grows and the count of unreviewed pages falls, with the same precision
 
 ## If you are qualified and want to help
 
-The monographs are the open front. We are looking for qualified Ayurvedic physicians willing
-to be credited by name for reviewing sections of them. Corrections from anyone, credentialled
-or not, are welcome at <a href={rel('/corrections/')}>corrections</a>.
+A second independent reader is always worth more than a first. We are interested in qualified
+Ayurvedic physicians willing to be credited by name for reviewing any part of this work, and
+particularly in disagreement with what the first review passed. Corrections from anyone,
+credentialled or not, are welcome at <a href={rel('/corrections/')}>corrections</a>.
 
 <style>
   .reviews { width: 100%; border-collapse: collapse; margin: 1.25rem 0; font-size: .95rem; }

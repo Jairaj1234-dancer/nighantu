@@ -3,6 +3,8 @@ import { getCollection, render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import CiteThis from '../../components/CiteThis.astro';
+import ReviewCredit from '../../components/ReviewCredit.astro';
+import { reviewer, reviewFor } from '../../lib/review';
 import { SITE_NAME, abs, rel } from '../../lib/site';
 import { pageDates } from '../../lib/dates';
 
@@ -50,5 +52,7 @@ const jsonld = {
   )}
 
   <div class="prose"><Content /></div>
+  <ReviewCredit kind="glossary" slug={d.slug} />
+
   <CiteThis title={d.title} canonical={canonical} modified={modified} />
 </Base>

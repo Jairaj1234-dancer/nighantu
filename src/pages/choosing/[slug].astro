@@ -11,6 +11,8 @@
 import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import CiteThis from '../../components/CiteThis.astro';
+import ReviewCredit from '../../components/ReviewCredit.astro';
+import { reviewer, reviewFor } from '../../lib/review';
 import ProductModule from '../../components/ProductModule.astro';
 import { getCollection, render } from 'astro:content';
 import { SITE_NAME, PUBLISHER, abs, rel } from '../../lib/site';
@@ -85,7 +87,9 @@ if (d.faq.length) {
     )}
 
     <ProductModule slug={d.slug} />
-    <CiteThis title={d.title} canonical={canonical} modified={modified} />
+    <ReviewCredit kind="choosing" slug={d.slug} />
+
+  <CiteThis title={d.title} canonical={canonical} modified={modified} />
 
     <p class="disclaimer">
       <strong>Consult a qualified vaidya before acting on anything here.</strong> This page is
