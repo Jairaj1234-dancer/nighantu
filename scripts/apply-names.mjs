@@ -20,21 +20,24 @@
  * a different plant are written into the output alongside what was kept.
  *
  *   node scripts/apply-names.mjs                        # Pharmacopoeia only
- *   node scripts/apply-names.mjs --verdicts <file.json> # plus corroborated Wikidata names
+ *   node scripts/apply-names.mjs --adjudicated <file.json>   # plus reconstructed alignments
+ *   node scripts/apply-names.mjs --verdicts <file.json>      # plus corroborated Wikidata names
  *   node scripts/apply-names.mjs --dry
  */
 import fs from 'node:fs';
 import path from 'node:path';
-import { toIAST, asciiKey } from './lib/devanagari.mjs';
+import { toIAST, asciiKey, skeletonKey } from './lib/devanagari.mjs';
 
 const API_IN = path.join('data', 'name-candidates-api.json');
 const WD_IN = path.join('data', 'name-candidates.json');
 const OUT = path.join('src', 'data', 'names.json');
 const DRY = process.argv.includes('--dry');
-const VERDICTS = (() => {
-  const i = process.argv.indexOf('--verdicts');
+const arg = (flag) => {
+  const i = process.argv.indexOf(flag);
   return i === -1 ? null : process.argv[i + 1];
-})();
+};
+const VERDICTS = arg('--verdicts');
+const ADJUDICATED = arg('--adjudicated');
 
 /**
  * Display order, not alphabetical. Sanskrit first because it is the name the classical texts
@@ -59,7 +62,7 @@ const ensure = (kind, slug) => {
   return pages.get(key);
 };
 
-const counts = { api: 0, apiRecords: 0, corroborated: 0, discovered: 0, rejected: 0, duplicate: 0 };
+const counts = { api: 0, apiRecords: 0, adjudicated: 0, adjudicatedRecords: 0, adjudicationDeclined: 0, corroborated: 0, discovered: 0, rejected: 0, duplicate: 0, variantsCollapsed: 0 };
 const rejected = [];
 
 /**
@@ -141,6 +144,59 @@ if (fs.existsSync(API_IN)) {
   console.log(`Pharmacopoeia  ${API_IN} not found, skipping`);
 }
 
+// ---- 1b. Pharmacopoeia blocks whose alignment was adjudicated ------------------------
+
+/**
+ * Names from blocks where OCR left the labels and values in separate columns of unequal
+ * length, with the gap placed by workflows/adjudicate-names.js.
+ *
+ * These are still Pharmacopoeia names and the source credit says so, with a note that the
+ * label-to-name alignment was reconstructed rather than read directly. That distinction
+ * belongs on the page: the name is the Pharmacopoeia's, the decision that it is the Malayalam
+ * one rather than the Kashmiri one is ours.
+ *
+ * Only alignments the workflow marked `accepted` are used. It checks its own arithmetic
+ * first: the languages called blank plus the names placed have to account for every label,
+ * so an agent that claims alignment while placing ten names against fifteen labels is
+ * dropped before it reaches here.
+ */
+if (ADJUDICATED) {
+  if (!fs.existsSync(ADJUDICATED)) {
+    console.error(`Adjudication file not found: ${ADJUDICATED}`);
+    process.exit(1);
+  }
+  const labelToCode = Object.fromEntries(LANGS.map(([c, label]) => [label.toLowerCase(), c]));
+  // The Pharmacopoeia's own spelling, which differs from the display label.
+  labelToCode.gujrati = 'gu';
+
+  const pageFor = new Map();
+  if (fs.existsSync(API_IN)) {
+    for (const r of JSON.parse(fs.readFileSync(API_IN, 'utf8')).records) {
+      if (r.page) pageFor.set(r.page.slug, r.page);
+    }
+  }
+
+  const adj = JSON.parse(fs.readFileSync(ADJUDICATED, 'utf8'));
+  let placed = 0;
+  let declined = 0;
+  for (const r of adj.accepted ?? []) {
+    const page = pageFor.get(r.slug);
+    if (!page) continue;
+    for (const a of r.assignments ?? []) {
+      const code = labelToCode[String(a.lang ?? '').trim().toLowerCase()];
+      if (!code) continue;
+      if (add(page.kind, page.slug, code, a.value, `${API_SOURCE} (column alignment reconstructed)`, false)) placed += 1;
+    }
+    counts.adjudicatedRecords += 1;
+  }
+  for (const r of adj.records ?? []) if (!r.aligned) declined += 1;
+  counts.adjudicated = placed;
+  counts.adjudicationDeclined = declined;
+  console.log(`Adjudicated    ${counts.adjudicatedRecords} monographs aligned, ${placed} names, ${declined} declined as ambiguous`);
+} else {
+  console.log('Adjudicated    no --adjudicated given, unaligned blocks stay unpublished');
+}
+
 // ---- 2. Wikidata, only where corroborated --------------------------------------------
 
 if (VERDICTS) {
@@ -182,8 +238,47 @@ if (VERDICTS) {
 
 // ---- 3. Order, prune, write -----------------------------------------------------------
 
+/**
+ * Collapse romanisation variants of one name, within one language on one page.
+ *
+ * Without this, Adhaki's Tamil row reads "துவரை, Adagi Tuvari, Thovarai, Thovary, Thuvarai,
+ * Tovarai, Tuvarai, ஆடகி": eight entries for two names, because the Pharmacopoeia prints
+ * every romanisation it holds and Wikidata adds the native script. A reader scanning for the
+ * Tamil name cannot tell which to use.
+ *
+ * The survivor is chosen, not arbitrary: native script first, since that is the name as
+ * written; otherwise the shortest spelling, which is the one least loaded with a
+ * transliterator's conventions. Dropped variants hand their sources to the survivor, so the
+ * attribution stays complete.
+ */
+function collapseVariants(forms) {
+  const groups = new Map();
+  for (const f of forms) {
+    const k = skeletonKey(f.iast || f.name) || f.name.normalize('NFC');
+    if (!groups.has(k)) groups.set(k, []);
+    groups.get(k).push(f);
+  }
+  const out = [];
+  for (const group of groups.values()) {
+    if (group.length === 1) { out.push(group[0]); continue; }
+    const native = group.filter((f) => !/^[\x20-\x7E]*$/.test(f.name));
+    const pool = native.length ? native : group;
+    const winner = pool.reduce((a, b) => (b.name.length < a.name.length ? b : a));
+    for (const f of group) {
+      if (f === winner) continue;
+      for (const s of f.sources ?? []) if (!winner.sources.includes(s)) winner.sources.push(s);
+      if (f.preferred) winner.preferred = true;
+      if (!winner.iast && f.iast) winner.iast = f.iast;
+    }
+    counts.variantsCollapsed += group.length - 1;
+    out.push(winner);
+  }
+  return out;
+}
+
 for (const page of pages.values()) {
   for (const code of Object.keys(page.names)) {
+    page.names[code] = collapseVariants(page.names[code]);
     if (!page.names[code].length) { delete page.names[code]; continue; }
     const pref = page.names[code].filter((n) => n.preferred);
     pref.slice(1).forEach((n) => { delete n.preferred; });
@@ -223,11 +318,15 @@ const payload = {
     pages: withNames.length,
     names: total,
     fromPharmacopoeia: counts.api,
+    fromPharmacopoeiaAdjudicated: counts.adjudicated,
+    adjudicatedMonographs: counts.adjudicatedRecords,
+    adjudicationDeclined: counts.adjudicationDeclined,
     fromWikidataCorroborated: counts.corroborated,
     foundDirectlyInASource: counts.discovered,
     wikidataRejected: counts.rejected,
     misattributedToAnotherPlant: rejected.filter((r) => r.denotesInstead).length,
     duplicatesMerged: counts.duplicate,
+    romanisationVariantsCollapsed: counts.variantsCollapsed,
     byLanguage,
   },
   rejected: rejected.sort((a, b) => a.slug.localeCompare(b.slug)),
