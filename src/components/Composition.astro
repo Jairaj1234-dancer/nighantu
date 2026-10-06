@@ -127,6 +127,43 @@ const quantityCell = (v: any) => (marked(v) || v == null || String(v).trim() ===
     {rec.rows.some((r: any) => r.ocrCorrected) && (
       <p class="composition-note">* The scanned text was damaged at this row and the name was read from the entry's own Sanskrit verse.</p>
     )}
+
+    {/*
+      * The Formulary's own dose and anupana for this entry.
+      *
+      * Attributed in the sentence rather than in a footnote, and that is the whole point. A
+      * dose printed bare by a company that sells the substance is prescribing; the same
+      * figure reported as the Formulary's, next to the entry number it came from, is
+      * reference. scripts/audit.mjs bars a dose from the answer block for exactly this
+      * reason and allows it in the body, where the framing travels with it.
+      *
+      * Anupana is given untranslated because it has no English equivalent: it is the vehicle
+      * a preparation is taken with, and calling it a "carrier" or "with" loses that it is
+      * part of the prescription rather than a serving suggestion.
+      */}
+    {(rec.dose || rec.anupana) && (
+      <p class="composition-dose">
+        {rec.dose && (
+          <>
+            The Formulary gives the dose as <strong>{rec.dose}</strong>
+            {rec.doseOcrNote && <span class="composition-note"> ({rec.doseOcrNote})</span>}
+          </>
+        )}
+        {rec.dose && rec.anupana && ', with '}
+        {!rec.dose && rec.anupana && 'The Formulary gives the anupana, the vehicle it is taken with, as '}
+        {rec.anupana && (
+          <>
+            {rec.dose && <>anupana, the vehicle it is taken with, of </>}
+            <strong>{rec.anupana}</strong>
+          </>
+        )}
+        {'. '}
+        <span class="composition-note">
+          This is what the Formulary records for the classical preparation. It is not a dose
+          for any product, and not advice to take anything.
+        </span>
+      </p>
+    )}
     <p class="composition-note"><a href={rec.sourceUrl} rel="noopener">Source scan of the formulary</a></p>
   </section>
 )}

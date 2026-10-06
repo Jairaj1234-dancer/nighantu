@@ -324,6 +324,10 @@ footer.site nav { display: flex; gap: 1rem; flex-wrap: wrap; margin-bottom: .75r
 .composition table { font-size: .92rem; }
 .composition th, .composition td { text-align: left; padding: .4rem .7rem; border-top: 1px solid var(--rule); vertical-align: top; }
 .composition-note { font-size: .86rem; color: var(--ink-soft); }
+/* The Formulary's dose line: body-weight text so the figure reads as a fact on the page,
+   with its caveat in the softer note colour alongside. */
+.composition-dose { margin: .9rem 0 0; font-size: .95rem; }
+.composition-dose strong { font-weight: 600; }
 .composition .ocrnote { color: var(--ink-soft); cursor: help; }
 .composition .illegible { color: var(--ink-soft); font-size: .88em; }
 .composition tr.structural td { color: var(--ink-soft); }
