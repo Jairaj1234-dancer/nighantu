@@ -80,7 +80,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kumkumadi-T
 
 **Dosage Forms:** Tailam (medicated oil for facial/skin use), Serum (modern), Cream (modern)
 
-**Standard Dosage:** External: 2-5 drops on face/skin, massage gently, once daily (usually at bedtime), as per Ashtanga Hridayam/Sahasrayogam
+**Standard Dosage:** External: 2-5 drops on face/skin, massage gently, once daily (usually at bedtime). The Ayurvedic Formulary of India attributes this formula to Yogaratnakara, Ksudrarogadhikara; Page 740.
 
 **Bioavailability:** Facial skin is thin and highly vascular — topical actives are well-absorbed. Crocin and crocetin from saffron provide antioxidant activity directly in dermis. Sandalwood (alpha-santalol) has anti-inflammatory and anti-melanogenic activity via tyrosinase inhibition. [Manjishtha](/herb/manjishtha/) ([purpurin](/glossary/compounds-o-q/#purpurin), [alizarin](/glossary/compounds-1-a/#alizarin)) provides additional depigmenting action.
 

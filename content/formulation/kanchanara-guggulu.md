@@ -69,7 +69,7 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also described in Bhaishajya 
 
 **Dosage Forms:** [Guggulu](/formulation/guggulu/) (resinous pill/tablet), Modern compressed tablet, Capsule (modern)
 
-**Standard Dosage:** 250-500 mg twice or thrice daily with warm water, as per AFI Part I
+**Standard Dosage:** 250-500 mg twice or thrice daily with warm water. The Ayurvedic Formulary of India gives a dose of 3 g and attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 7; 95-98.
 
 **Bioavailability:** [Guggulu](/formulation/guggulu/) acts as yogavahi enhancing systemic delivery of Kanchanara flavonoids and [Varuna](/herb/varuna/) [lupeol](/reference/lupeol/). [Piperine](/reference/piperine/) from [Trikatu](/herb/trikatu/) enhances absorption. Kanchanara bark [polyphenols](/glossary/compounds-o-q/#polyphenols) are well-absorbed in guggulu matrix. Targets thyroid and lymphatic tissues.
 

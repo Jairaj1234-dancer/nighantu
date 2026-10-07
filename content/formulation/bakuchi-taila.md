@@ -76,7 +76,7 @@ Charaka Samhita (Chikitsa Sthana - Kushtha Chikitsa); Sushruta Samhita; Bhaishaj
 
 **Dosage Forms:** Taila (medicated oil for external use), Ointment (modern), Cream (modern)
 
-**Standard Dosage:** External application on affected skin areas, twice daily, as per AFI
+**Standard Dosage:** External application on affected skin areas, twice daily.
 
 **Bioavailability:** Topical oil base provides excellent dermal penetration of psoralen and isopsoralen. Furanocoumarins intercalate with DNA in presence of UV light (phototherapy mechanism). Oil vehicle maintains psoralen at skin surface for sustained photosensitization.
 

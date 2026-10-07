@@ -71,7 +71,7 @@ Charaka Samhita Chikitsa Sthana ([Rasayana](/reference/rasayana/) Adhyaya - two 
 
 **Dosage Forms:** Avaleha/Rasayana (semi-solid confection), Capsules (modern), Granules (modern)
 
-**Standard Dosage:** 6-12 g twice daily on empty stomach with milk, as per Charaka Samhita Chikitsa Sthana
+**Standard Dosage:** 6-12 g twice daily on empty stomach with milk. The Ayurvedic Formulary of India gives a dose of 12 g and attributes this formula to Astangahrdaya, Uttarasthana, Adhyaya 39; 15-19½.
 
 **Bioavailability:** Multi-lipid base (ghee + [sesame oil](/glossary/concepts-m-y/#tila-taila)) provides excellent absorption of both lipophilic (bacosides, withanolides) and hydrophilic (gallic acid, ascorbic acid) actives. [Piperine](/reference/piperine/) from [Pippali](/herb/pippali/) enhances bioavailability by 25-40%. Medhya Rasayana herbs cross the blood-brain barrier more effectively in lipid matrix.
 

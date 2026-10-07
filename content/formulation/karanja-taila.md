@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Karanja-Tai
 
 **Dosage Forms:** Taila (medicated oil for external use), Ointment (modern), Cream (modern)
 
-**Standard Dosage:** External application on affected skin, 1-2 times daily, as per AFI
+**Standard Dosage:** External application on affected skin, 1-2 times daily.
 
 **Bioavailability:** Topical application provides direct dermal delivery of [karanjin](/glossary/compounds-g-l/#karanjin) and [pongamol](/glossary/compounds-o-q/#pongamol) ([furanoflavonoids](/glossary/compounds-d-g/#furanoflavonoids)). Oil base ensures sustained contact with skin. Karanjin has UV-absorbing properties providing photoprotective effect. Penetrates stratum corneum effectively.
 

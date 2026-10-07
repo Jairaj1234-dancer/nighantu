@@ -69,7 +69,7 @@ Charaka Samhita, Chikitsa Sthana 17th chapter (Kasa Chikitsa: 57-62); Ashtanga H
 
 **Dosage Forms:** Avaleha/Lehya (semi-solid confection), Capsules (modern), Granules (modern)
 
-**Standard Dosage:** 6-12 g twice daily, or as directed, as per AFI Part I
+**Standard Dosage:** 6-12 g twice daily, or as directed. The Ayurvedic Formulary of India attributes this formula to Astangahrdaya, Cikitsasthana, Adhyaya 3; 125-128.
 
 **Bioavailability:** Ghee and sugar base enhances absorption of lipophilic actives. [Piperine](/reference/piperine/) from [Pippali](/herb/pippali/) acts as a natural bioenhancer increasing absorption of other phytoconstituents by up to 30%.
 

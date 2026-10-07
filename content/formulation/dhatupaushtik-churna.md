@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Dhatupaushtik-Chu
 
 **Dosage Forms:** Churna (fine powder), Capsules (modern), Tablets (modern)
 
-**Standard Dosage:** 3-6 g twice daily with warm milk, as per classical texts/AFI
+**Standard Dosage:** 3-6 g twice daily with warm milk.
 
 **Bioavailability:** Administration with warm milk (lipid + protein vehicle) enhances absorption of steroidal [saponins](/reference/saponins/) and [withanolides](/glossary/compounds-t-z/#withanolides). Fine particle size ensures rapid dissolution. Multiple [adaptogenic](/reference/adaptogenic/) herbs provide synergistic bioactivity.
 

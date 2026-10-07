@@ -71,7 +71,7 @@ Chakradatta (12th century CE) - earliest clear mention; Sushruta Samhita (wound 
 
 **Dosage Forms:** [Ghrita](/herb/ghrita/) (medicated ghee for topical application), Ointment (modern), Cream (modern)
 
-**Standard Dosage:** Topical application on wounds, ulcers, burns — thin layer 1-2 times daily, as per AFI Part I
+**Standard Dosage:** Topical application on wounds, ulcers, burns — thin layer 1-2 times daily. The Ayurvedic Formulary of India attributes this formula to Astangahrdaya, Uttarasthana, Adhyaya 25; 67-68.
 
 **Bioavailability:** Topical ghee base provides excellent wound-bed penetration. Lipid matrix protects active compounds from wound exudate degradation. [Berberine](/glossary/compounds-a-c/#berberine), [curcumin](/herb/curcumin/), and [azadirachtin](/glossary/compounds-a-c/#azadirachtin) provide [antimicrobial](/reference/antimicrobial/) activity directly at wound site. Ghee base provides occlusive barrier promoting moist wound healing.
 

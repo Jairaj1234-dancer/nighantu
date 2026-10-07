@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Dhanwantaram-Gutika
 
 **Dosage Forms:** Gutika (pill/tablet), Modern compressed tablet, Capsule (modern)
 
-**Standard Dosage:** 1-2 tablets (250-500 mg each) twice daily, as per Ashtanga Hridayam/Sahasrayogam
+**Standard Dosage:** 1-2 tablets (250-500 mg each) twice daily. The Ayurvedic Formulary of India attributes this formula to Sahasrayoga, Gutikaprakarana, 56.
 
 **Bioavailability:** Gutika form provides controlled oral release. Multi-herb combination provides broad-spectrum activity. Bhavana with kashayas enhances potency through phytochemical impregnation.
 

@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Drakshadi-Ka
 
 **Dosage Forms:** Kashayam (decoction), Kashayam tablet (modern), Concentrated liquid (modern)
 
-**Standard Dosage:** 15-30 mL or 2 tablets twice daily before meals, as per Sahasrayogam
+**Standard Dosage:** 15-30 mL or 2 tablets twice daily before meals. The Ayurvedic Formulary of India gives a dose of 48 g and attributes this formula to Astangahrdaya, Cikitsasthana, Adhyaya 1; 55-57.
 
 **Bioavailability:** Natural sugars from [Draksha](/herb/draksha/) aid palatability and provide quick energy. [Resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol) has moderate oral bioavailability (~20-30%) — enhanced in hot aqueous medium. [Polyphenols](/glossary/compounds-o-q/#polyphenols) are rapidly absorbed from decoction form.
 

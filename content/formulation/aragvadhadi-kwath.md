@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Aragvadhadi-
 
 **Dosage Forms:** Kwath/Kashayam (decoction), Kashayam tablet (modern), Concentrated liquid (modern)
 
-**Standard Dosage:** 40-80 mL twice daily, as per AFI
+**Standard Dosage:** 40-80 mL twice daily.
 
 **Bioavailability:** Hot aqueous decoction provides immediate absorption of water-soluble constituents. Anthraquinone [glycosides](/glossary/compounds-g-l/#glycosides) from Aragvadha are hydrolyzed in the gut to active aglycones. [Curcumin](/herb/curcumin/) absorption is limited without lipid co-administration.
 

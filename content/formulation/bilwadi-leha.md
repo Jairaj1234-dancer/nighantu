@@ -70,7 +70,7 @@ Bhaishajya Ratnavali; Sharangadhara Samhita; Kerala Ayurveda tradition (medieval
 
 **Dosage Forms:** Avaleha/Leha (semi-solid confection), Granules (modern), Capsules (modern)
 
-**Standard Dosage:** 6-12 g twice daily, as per AFI Part I
+**Standard Dosage:** 6-12 g twice daily. The Ayurvedic Formulary of India attributes this formula to Sahasrayoga, Lehaprakarana; 1.
 
 **Bioavailability:** Avaleha base with sugar and ghee enhances absorption of [marmelosin](/glossary/compounds-l-o/#marmelosin) and other [coumarins](/glossary/compounds-c-d/#coumarins). Semi-solid matrix provides sustained-release properties. Honey (added when cool) provides enzymatic bioenhancement and preservative action.
 

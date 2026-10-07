@@ -67,7 +67,7 @@ Bhavaprakasha (circa 16th century CE) and Sharangadhara Samhita. Described as a 
 
 **Dosage Forms:** Arishta (fermented decoction), Capsules (modern), Syrup (modern)
 
-**Standard Dosage:** 15-30 mL twice daily after meals with equal water, as per AFI Part I
+**Standard Dosage:** 15-30 mL twice daily after meals with equal water. The Ayurvedic Formulary of India attributes this formula to Bhaisajyaratnavali, Mirccha ra; 13-17.
 
 **Bioavailability:** Fermentation enhances extraction and bioavailability of withanolides (particularly withanolide A and withaferin A). Alcohol medium improves lipophilic withanolide absorption. Honey addition (pre-fermentation) provides additional enzymatic bioconversion of [glycosides](/glossary/compounds-g-l/#glycosides).
 

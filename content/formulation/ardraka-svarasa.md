@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Svarasas-Fresh-Juices/Ardraka-Sva
 
 **Dosage Forms:** Svarasa (fresh juice), Preserved juice (modern), Capsules with dried juice (modern)
 
-**Standard Dosage:** 5-10 mL twice daily, as per AFI
+**Standard Dosage:** 5-10 mL twice daily.
 
 **Bioavailability:** Svarasa (fresh juice) provides highest bioavailability of gingerols compared to dried forms. 6-[Gingerol](/glossary/compounds-d-g/#gingerol) is absorbed rapidly with peak plasma levels at 1-2 hours. Fresh juice retains volatile compounds that enhance absorption and first-pass metabolism modulation.
 

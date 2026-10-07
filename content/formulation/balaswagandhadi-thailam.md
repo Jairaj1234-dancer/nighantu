@@ -78,7 +78,7 @@ Sahasrayogam (Taila Prakarana). A classic Brimhana (nourishing/strengthening) fo
 
 **Dosage Forms:** Thailam (medicated oil for external use), Capsules (modern, for internal use variant)
 
-**Standard Dosage:** External: sufficient quantity for Abhyanga (body massage). Internal: 5-10 mL as per physician direction. As per AFI/Sahasrayogam.
+**Standard Dosage:** External: sufficient quantity for Abhyanga (body massage). Internal: 5-10 mL as per physician direction.
 
 **Bioavailability:** Oil base provides excellent transdermal absorption during Abhyanga (massage). Massage enhances blood flow and promotes deeper penetration of actives. Withanolides are lipophilic and absorb well through skin. Milk processing enriches with [phospholipids](/glossary/compounds-o-q/#phospholipids) that enhance skin penetration.
 

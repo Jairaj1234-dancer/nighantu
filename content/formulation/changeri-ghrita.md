@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Changeri-
 
 **Dosage Forms:** [Ghrita](/herb/ghrita/) (medicated ghee), Soft gelatin capsules (modern)
 
-**Standard Dosage:** 6-12 g twice daily or as directed, as per AFI
+**Standard Dosage:** 6-12 g twice daily or as directed. The Ayurvedic Formulary of India attributes this formula to Bhaisajyaratnavali, Grahanirogadhikara; 190-191.
 
 **Bioavailability:** Ghee base enhances absorption of [flavonoids](/reference/flavonoids/) and phenolic acids from [Changeri](/herb/changeri/). Lipid matrix protects acid-sensitive compounds from gastric degradation. Oxalic acid content is moderated by ghee processing.
 

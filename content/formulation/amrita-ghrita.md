@@ -69,7 +69,7 @@ Bhavishya Ratnavali (Amrita [Ghrita](/herb/ghrita/)|Amrita Ghrita); Rasaratna Sa
 
 **Dosage Forms:** Ghrita (medicated ghee), Soft gelatin capsules (modern)
 
-**Standard Dosage:** 6-12 g (1-2 teaspoons) twice daily, as per AFI Part I
+**Standard Dosage:** 6-12 g (1-2 teaspoons) twice daily. The Ayurvedic Formulary of India attributes this formula to Cakradatta, Amavatacikitsa; 58.
 
 **Bioavailability:** Ghee (lipid base) provides excellent absorption of both lipophilic and hydrophilic compounds via micelle formation. [Guduchi](/herb/guduchi/) polysaccharides and [alkaloids](/glossary/compounds-1-a/#alkaloids) show enhanced oral bioavailability in ghee matrix compared to aqueous extracts. Crosses blood-brain barrier more effectively in lipid medium.
 

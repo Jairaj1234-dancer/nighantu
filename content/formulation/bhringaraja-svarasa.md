@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Svarasas-Fresh-Juices/Bhringaraja
 
 **Dosage Forms:** Svarasa (fresh juice), Preserved juice (modern), Capsules (modern), Hair oil base (external)
 
-**Standard Dosage:** 10-20 mL twice daily for internal use; externally as hair oil base, as per AFI
+**Standard Dosage:** 10-20 mL twice daily for internal use; externally as hair oil base.
 
 **Bioavailability:** Fresh svarasa provides highest bioavailability of [wedelolactone](/glossary/compounds-t-z/#wedelolactone) (coumestan) and eclalbatin. Rapid oral absorption with peak plasma levels at 1-2 hours. [Hepatoprotective](/reference/hepatoprotective/) activity is superior in fresh juice form compared to dried extracts.
 

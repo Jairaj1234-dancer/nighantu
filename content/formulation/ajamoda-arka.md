@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arkas-Distillates/Ajamoda-Arka/me
 
 **Dosage Forms:** [Arka](/herb/arka/) (distillate), Liquid drops (modern)
 
-**Standard Dosage:** 15-30 mL twice daily after meals, as per AFI
+**Standard Dosage:** 15-30 mL twice daily after meals. The Ayurvedic Formulary of India gives a dose of 12 to 24 ml and attributes this formula to Arkaprakasa, Sataka 3: 7.
 
 **Bioavailability:** [Arka](/herb/arka/) (distillate) form provides rapid absorption of volatile aromatic compounds through GI tract. Nano-dispersed volatile oils in aqueous medium enhance bioavailability compared to crude drug.
 

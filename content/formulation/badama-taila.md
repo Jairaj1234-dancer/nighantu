@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Badama-Tail
 
 **Dosage Forms:** Taila (oil for external/internal use), Capsules (modern), Topical formulations (modern)
 
-**Standard Dosage:** 5-10 mL orally once daily; externally as required, as per AFI/classical texts
+**Standard Dosage:** 5-10 mL orally once daily; externally as required.
 
 **Bioavailability:** Rich in oleic acid (omega-9) which provides excellent absorption. Fat-soluble [vitamins](/glossary/compounds-t-z/#vitamins) (E, A) are readily bioavailable. Topical application provides direct dermal absorption of [tocopherols](/glossary/compounds-t-z/#tocopherols) and fatty acids. Oral consumption provides systemic lipid nutrition.
 

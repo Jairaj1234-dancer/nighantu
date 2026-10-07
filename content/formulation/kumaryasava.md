@@ -68,7 +68,7 @@ Charaka Samhita and Ashtanga Hridaya. Chavannapalli's commentary on Madhava Nida
 
 **Dosage Forms:** Asava (fermented infusion), Syrup (modern), Capsules (modern)
 
-**Standard Dosage:** 15-30 mL twice daily after meals with equal water, as per AFI Part I
+**Standard Dosage:** 15-30 mL twice daily after meals with equal water. The Ayurvedic Formulary of India attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 10; 18-24½.
 
 **Bioavailability:** Fermentation converts aloe [polysaccharides](/glossary/compounds-o-q/#polysaccharides) to simpler sugars and generates novel metabolites. Alcohol enhances absorption of [anthraquinones](/glossary/compounds-1-a/#anthraquinones) and [Loha Bhasma](/herb/loha-bhasma/) iron. Iron from Bhasma form is nano-particulate and highly bioavailable — superior to conventional iron supplements. Fermentation medium provides ideal environment for iron absorption.
 

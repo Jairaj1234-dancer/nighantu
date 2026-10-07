@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Dashamu
 
 **Dosage Forms:** Arishta (fermented decoction), Capsules (modern), Syrup (modern)
 
-**Standard Dosage:** 15-30 mL twice daily after meals with equal water, as per AFI Part I
+**Standard Dosage:** 15-30 mL twice daily after meals with equal water. The Ayurvedic Formulary of India attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 10; 78-89.
 
 **Bioavailability:** Fermented medium enhances extraction and bioavailability of [triterpenes](/glossary/compounds-t-z/#triterpenes), [alkaloids](/glossary/compounds-1-a/#alkaloids), and [glycosides](/glossary/compounds-g-l/#glycosides) from all ten roots. Self-generated alcohol provides preservative and bioenhancing action. Post-fermentation metabolites show enhanced anti-inflammatory activity.
 

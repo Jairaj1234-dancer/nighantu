@@ -70,7 +70,7 @@ Charaka Samhita Chikitsa Sthana (Unmada and Apasmara Chikitsa); Ashtanga Hridaya
 
 **Dosage Forms:** [Ghrita](/herb/ghrita/) (medicated ghee), Soft gelatin capsules (modern)
 
-**Standard Dosage:** 6-12 g (1-2 teaspoons) twice daily, as per AFI Part I / Ashtanga Hridayam
+**Standard Dosage:** 6-12 g (1-2 teaspoons) twice daily. The Ayurvedic Formulary of India attributes this formula to Astangahrdaya, Uttarasthana, Adhyaya 6; 23-24.
 
 **Bioavailability:** Ghee provides optimal lipid matrix for absorption of bacosides (triterpenoid [saponins](/reference/saponins/)) which are both water and lipid-soluble. Oral bioavailability of bacosides is enhanced 2-3 fold in ghee medium compared to aqueous extract. Ghee facilitates crossing of blood-brain barrier for CNS action.
 

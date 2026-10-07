@@ -79,7 +79,7 @@ Ashtanga Hridayam (Sutrasthana), named after Lord Dhanwantari. Also referenced i
 
 **Dosage Forms:** Kashayam (decoction), Kashayam tablet (modern), Concentrated liquid (modern)
 
-**Standard Dosage:** 15-30 mL or 2 tablets twice daily before meals, as per Sahasrayogam/AFI
+**Standard Dosage:** 15-30 mL or 2 tablets twice daily before meals.
 
 **Bioavailability:** Hot decoction form provides rapid GI absorption. Multi-herb synergy enhances overall bioactivity. [Trikatu](/herb/trikatu/) components (if included) serve as bioenhancers.
 

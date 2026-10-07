@@ -75,7 +75,7 @@ Ashtangahrudayam Chikitsasthana, Mutraghata Adhyaya 11/35. Also referenced in Ch
 
 **Dosage Forms:** Kashayam (decoction), Kashayam tablet (modern), Concentrated liquid (modern)
 
-**Standard Dosage:** 15-30 mL (liquid) or 2 tablets twice daily before meals, as per Sahasrayogam/AFI
+**Standard Dosage:** 15-30 mL (liquid) or 2 tablets twice daily before meals.
 
 **Bioavailability:** Hot decoction form provides rapid absorption of steroidal [alkaloids](/glossary/compounds-1-a/#alkaloids) ([solasodine](/glossary/compounds-q-t/#solasodine)) and [saponins](/reference/saponins/). Oral bioavailability of solasodine is moderate — enhanced by hot aqueous medium.
 

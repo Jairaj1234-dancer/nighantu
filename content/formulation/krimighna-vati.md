@@ -78,7 +78,7 @@ Charaka Samhita (Vimana Sthana, Chapter 7 - Krimighna Gana/Dashemani); also refe
 
 **Dosage Forms:** Vati (tablet/pill), Modern compressed tablet, Capsule (modern)
 
-**Standard Dosage:** 250-500 mg twice or thrice daily with warm water, as per AFI Part I
+**Standard Dosage:** 250-500 mg twice or thrice daily with warm water.
 
 **Bioavailability:** Embelin (from [Vidanga](/herb/vidanga/)) is well-absorbed orally with anthelmintic activity at therapeutic doses. Rottlerin from [Kampillaka](/herb/kampillaka/) acts as contact anthelmintic in the GI tract — does not need systemic absorption for action. Combined oral and luminal activity provides comprehensive anthelmintic effect.
 

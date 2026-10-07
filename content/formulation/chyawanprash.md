@@ -90,7 +90,7 @@ Charaka Samhita Chikitsasthana ([Rasayana](/reference/rasayana/) Adhyaya) - olde
 
 **Dosage Forms:** Avaleha (semi-solid confection/jam), Granules (modern), Capsules (modern), Chewable tablets (modern)
 
-**Standard Dosage:** 10-20 g (1-2 tablespoons) once or twice daily, as per AFI Part I / Charaka Samhita
+**Standard Dosage:** 10-20 g (1-2 tablespoons) once or twice daily. The Ayurvedic Formulary of India attributes this formula to Carakasamhita, Cikitsasthana, Adhyaya 1 (1); 62-69.
 
 **Bioavailability:** Ghee and [sesame oil](/glossary/concepts-m-y/#tila-taila) base provides lipid-mediated absorption of fat-soluble actives ([withanolides](/glossary/compounds-t-z/#withanolides), piperine). Honey (added cool) provides enzymatic bioenhancement. Piperine increases bioavailability of curcuminoids and other phenolics by 20-2000%. Amalaki tannin-vitamin C complex provides sustained antioxidant release over 6-8 hours.
 

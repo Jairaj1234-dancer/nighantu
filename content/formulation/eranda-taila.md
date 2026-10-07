@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Eranda-Tail
 
 **Dosage Forms:** Taila (castor oil), Capsules (modern), Topical preparations
 
-**Standard Dosage:** 5-15 mL at bedtime with warm water or milk for purgation; 2-5 mL for regular use, as per AFI Part I
+**Standard Dosage:** 5-15 mL at bedtime with warm water or milk for purgation; 2-5 mL for regular use.
 
 **Bioavailability:** Ricinoleic acid is released from triglycerides by intestinal lipase, activating EP3 prostanoid receptors for [laxative](/reference/laxative/) effect. Onset 2-6 hours after ingestion. Topical absorption is good due to hydroxyl group enhancing skin penetration. Acts as excellent carrier for other drugs in topical formulations.
 

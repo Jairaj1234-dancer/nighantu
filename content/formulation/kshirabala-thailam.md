@@ -66,7 +66,7 @@ Ashtanga Hridayam (Vatarakta Chikitsa chapter). The 101 Avarti (101 times proces
 
 **Dosage Forms:** Thailam (medicated oil for external/internal use), Capsules (modern), Nasal drops (for Nasya)
 
-**Standard Dosage:** External: sufficient for Abhyanga. Internal: 5-15 mL with warm milk. Nasya: 2-6 drops per nostril. As per Sahasrayogam/AFI
+**Standard Dosage:** External: sufficient for Abhyanga. Internal: 5-15 mL with warm milk. Nasya: 2-6 drops per nostril. The Ayurvedic Formulary of India gives a dose of 12 g and attributes this formula to Astangahrdaya, Vataraktacikitsa, Adhyaya 22; 44.
 
 **Bioavailability:** Oil-milk processing creates unique liposomal-like phospholipid complexes enhancing dermal and mucosal absorption. Multi-avartana processing concentrates actives — 101 avartana oil is significantly more potent per drop. Nasya route provides direct CNS access. Internal use provides systemic distribution via lipid absorption pathway.
 

@@ -66,7 +66,7 @@ Sahasrayogam (Taila Prakarana). A signature Kerala Ayurvedic formulation for Vat
 
 **Dosage Forms:** Thailam (medicated oil for external use), Cream (modern), Gel (modern)
 
-**Standard Dosage:** External application: sufficient quantity for local massage, 1-2 times daily, as per Sahasrayogam
+**Standard Dosage:** External application: sufficient quantity for local massage, 1-2 times daily. The Ayurvedic Formulary of India attributes this formula to Sahasrayoga, Tailaprakarana; 12.
 
 **Bioavailability:** Oil base provides excellent transdermal delivery of [costunolide](/glossary/compounds-c-d/#costunolide) (sesquiterpene lactone) and [gingerol](/glossary/compounds-d-g/#gingerol)/shogaol derivatives. Counter-irritant effect of [ginger](/herb/ginger/) compounds increases local blood flow enhancing drug penetration. Massage application further enhances absorption through mechanical action.
 

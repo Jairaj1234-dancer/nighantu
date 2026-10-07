@@ -66,7 +66,7 @@ Bhaishajya Ratnavali (Kshudra Roga Chikitsa chapter); also documented in Ashtang
 
 **Dosage Forms:** Thailam (medicated oil for facial/skin use), Serum (modern), Cream (modern)
 
-**Standard Dosage:** External: 2-5 drops on face/skin, once daily at bedtime, as per Sahasrayogam
+**Standard Dosage:** External: 2-5 drops on face/skin, once daily at bedtime. The Ayurvedic Formulary of India attributes this formula to Yogaratnakara, Ksudrarogadhikara; Page 740.
 
 **Bioavailability:** Identical to [Kumkumadi Tailam](/formulation/kumkumadi-tailam/). If [coconut oil](/glossary/concepts-a-m/#coconut-oil) base is used (Kerala variant), lauric acid provides enhanced [antimicrobial](/reference/antimicrobial/) activity on facial skin.
 

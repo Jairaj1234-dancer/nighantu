@@ -68,7 +68,7 @@ Sharangdhara Samhita (Madhyama Khanda); described in various Samhitas and classi
 
 **Dosage Forms:** Vati (lozenge), Modern lozenges, Mouth-dissolving tablets (modern)
 
-**Standard Dosage:** 1-2 tablets to be sucked slowly, 3-4 times daily, as per AFI Part I
+**Standard Dosage:** 1-2 tablets to be sucked slowly, 3-4 times daily. The Ayurvedic Formulary of India gives a dose of 2 g and attributes this formula to Carakasamhita, Cikitsasthana, Adhyaya 26; 206-210½.
 
 **Bioavailability:** Buccal dissolution provides direct delivery of catechin and [tannins](/reference/tannins/) to oral mucosa. Catechin has astringent and antimicrobial action on oral tissues. [Camphor](/herb/camphor/) and Ela volatiles provide immediate sensory effect. No first-pass metabolism for buccally absorbed compounds.
 

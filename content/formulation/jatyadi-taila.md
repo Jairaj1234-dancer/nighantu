@@ -69,7 +69,7 @@ Sushruta Samhita (Chikitsa Sthana) and Ashtanga Hridayam. One of the premier Vra
 
 **Dosage Forms:** Taila (medicated oil for topical application), Spray (modern), Gel (modern)
 
-**Standard Dosage:** Topical application on wounds, ulcers, fistula — sufficient quantity 1-2 times daily, as per AFI Part I
+**Standard Dosage:** Topical application on wounds, ulcers, fistula — sufficient quantity 1-2 times daily. The Ayurvedic Formulary of India attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 9; 168-170.
 
 **Bioavailability:** [Sesame oil](/glossary/concepts-m-y/#tila-taila) base provides excellent wound penetration. [Sesamin](/glossary/compounds-q-t/#sesamin) and [sesamolin](/glossary/compounds-q-t/#sesamolin) from [sesame oil](/glossary/concepts-m-y/#tila-taila) add inherent anti-inflammatory activity. Oil vehicle maintains moist wound environment promoting granulation. Direct delivery of antimicrobials ([berberine](/glossary/compounds-a-c/#berberine), azadirachtin, [curcumin](/herb/curcumin/)) to wound bed.
 

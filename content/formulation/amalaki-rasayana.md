@@ -79,7 +79,7 @@ Charaka Samhita Chikitsa Sthana (Rasayana Adhyaya) - described as Vayasthapana R
 
 **Dosage Forms:** Rasayana/Avaleha (semi-solid), Churna (powder), Capsules (modern), Tablets (modern)
 
-**Standard Dosage:** 3-6 g twice daily or 10-20 g as Avaleha, as per AFI/API
+**Standard Dosage:** 3-6 g twice daily or 10-20 g as Avaleha.
 
 **Bioavailability:** Tannin-ascorbic acid complex provides slow-release antioxidant activity with 6-8 hour sustained action. Bhavana processing with self-juice (swarasa bhavana) enhances particle-level impregnation of phytoconstituents.
 

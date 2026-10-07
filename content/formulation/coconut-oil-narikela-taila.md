@@ -86,7 +86,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Coconut-Oil
 
 **Dosage Forms:** Taila (base oil for external/internal use), Capsules (modern), Topical preparations
 
-**Standard Dosage:** 5-15 mL orally; externally as required for Abhyanga, Shirodhara, and as base oil, as per AFI/classical texts
+**Standard Dosage:** 5-15 mL orally; externally as required for Abhyanga, Shirodhara, and as base oil.
 
 **Bioavailability:** Rich in medium-chain triglycerides (MCTs) — lauric acid is rapidly absorbed and converted to monolaurin in the body. MCTs bypass normal lipid absorption pathway, going directly to liver via portal vein for rapid energy. Superior carrier oil for transdermal delivery of lipophilic drugs.
 
