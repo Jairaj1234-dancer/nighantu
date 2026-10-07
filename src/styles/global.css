@@ -324,6 +324,15 @@ footer.site nav { display: flex; gap: 1rem; flex-wrap: wrap; margin-bottom: .75r
 .composition table { font-size: .92rem; }
 .composition th, .composition td { text-align: left; padding: .4rem .7rem; border-top: 1px solid var(--rule); vertical-align: top; }
 .composition-note { font-size: .86rem; color: var(--ink-soft); }
+/* A name discrepancy between the page and the formulary entry it shows. Kept in the note's size
+   but at body ink with a rule beside it: softer than a warning, firmer than a footnote, because
+   a reader deciding whether this table describes the drug they came for has to actually read it. */
+.composition-warn {
+  color: var(--ink);
+  border-left: 2px solid var(--rule);
+  padding-left: .7rem;
+  margin-top: .6rem;
+}
 /* The Formulary's dose line: body-weight text so the figure reads as a fact on the page,
    with its caveat in the softer note colour alongside. */
 .composition-dose { margin: .9rem 0 0; font-size: .95rem; }

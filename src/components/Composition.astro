@@ -88,6 +88,16 @@ const quantityCell = (v: any) => (marked(v) || v == null || String(v).trim() ===
       Names, parts and quantities are transcribed as printed and checked row by row against the
       book. Manufacturers' versions of a classical formulation can differ from the formulary.
     </p>
+    {/*
+      Said in the same breath as the attribution, not in a footnote. Where the formulary has no
+      entry under this page's name, a reader who is told only "entry 7:35 (SUDARSANA CURNA)" can
+      reasonably take that for the formulary's romanisation of the page's subject. On a
+      maha-prefixed page it is more likely a different formulation, so the page has to say so
+      where the claim is made. Written by scripts/check-afi-naming.mjs.
+    */}
+    {rec.entryNameNote && (
+      <p class="composition-note composition-warn">{rec.entryNameNote}</p>
+    )}
     <div class="table-scroll">
       <table>
         <thead><tr><th scope="col">#</th><th scope="col">Ingredient</th><th scope="col">Part</th><th scope="col">Quantity</th></tr></thead>
