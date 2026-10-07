@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Asanadi-Kwat
 
 **Dosage Forms:** Kwath/Kashayam (decoction), Kashayam tablet (modern), Concentrated liquid (modern)
 
-**Standard Dosage:** 40-80 mL twice daily before meals, as per AFI
+**Standard Dosage:** 40-80 mL twice daily before meals.
 
 **Bioavailability:** Aqueous decoction provides rapid absorption of water-soluble [pterostilbene](/glossary/compounds-o-q/#pterostilbene) [glycosides](/glossary/compounds-g-l/#glycosides). Hot administration enhances gastric absorption. [Pterostilbene](/glossary/compounds-o-q/#pterostilbene) has moderate oral bioavailability (~50-80% in aqueous medium).
 

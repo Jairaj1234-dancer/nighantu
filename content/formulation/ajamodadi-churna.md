@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Ajamodadi-Churna/
 
 **Dosage Forms:** Churna (fine powder), Capsules (modern), Sachets (modern)
 
-**Standard Dosage:** 3-6 g twice daily with warm water before meals, as per AFI Part I
+**Standard Dosage:** 3-6 g twice daily with warm water before meals. The Ayurvedic Formulary of India attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 6; 113-115.
 
 **Bioavailability:** Fine particle size enhances surface area for dissolution and absorption. [Piperine](/reference/piperine/) from [Pippali](/herb/pippali/) and Maricha acts as bioenhancer. Volatile oils from Ajamoda and [Hingu](/herb/hingu/) promote gastric motility and absorption.
 

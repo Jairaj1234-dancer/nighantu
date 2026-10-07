@@ -70,7 +70,7 @@ Sahasrayogam (ancient classical Ayurvedic text from Kerala tradition); mentioned
 
 **Dosage Forms:** [Ghrita](/herb/ghrita/) (medicated ghee), Soft gelatin capsules (modern)
 
-**Standard Dosage:** 6-12 g twice daily on empty stomach, as per Sahasrayogam/Ashtanga Hridayam
+**Standard Dosage:** 6-12 g twice daily on empty stomach. The Ayurvedic Formulary of India attributes this formula to Sahasrayoga, Ghrtaprakarana; 5.
 
 **Bioavailability:** Ghee matrix enhances absorption of [Dashamoola](/herb/dashamoola/) [triterpenes](/glossary/compounds-t-z/#triterpenes) and [Bala](/herb/bala/) [alkaloids](/glossary/compounds-1-a/#alkaloids). Lipid vehicle facilitates CNS penetration for Vata-pacifying action. Superior bioavailability compared to kashayam form for lipophilic compounds.
 

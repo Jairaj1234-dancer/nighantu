@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Jeeraka
 
 **Dosage Forms:** Arishta (fermented decoction), Syrup (modern)
 
-**Standard Dosage:** 15-30 mL twice daily after meals with equal water, as per Sahasrayogam/AFI
+**Standard Dosage:** 15-30 mL twice daily after meals with equal water. The Ayurvedic Formulary of India attributes this formula to Bhaisajyaratnavali, Strirogadhikara; 492-494.
 
 **Bioavailability:** Fermentation enhances extraction of [cumin](/herb/cumin/) volatile oils and converts them to bioactive metabolites. Alcohol medium improves absorption of [cuminaldehyde](/glossary/compounds-c-d/#cuminaldehyde) and other [terpenoids](/glossary/compounds-t-z/#terpenoids). Classically used as post-partum restorative — good absorption during lactation.
 

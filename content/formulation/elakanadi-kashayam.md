@@ -80,7 +80,7 @@ Sahasrayogam. Also referenced in commentaries of Charaka Samhita's Nighantu sect
 
 **Dosage Forms:** Kashayam (decoction), Kashayam tablet (modern), Concentrated liquid (modern)
 
-**Standard Dosage:** 15-30 mL or 2 tablets twice daily before meals, as per Sahasrayogam
+**Standard Dosage:** 15-30 mL or 2 tablets twice daily before meals.
 
 **Bioavailability:** Hot decoction provides rapid absorption of volatile and non-volatile constituents. Aromatic components from Ela enhance gastric motility and absorption.
 

@@ -68,7 +68,7 @@ Chakradatta (Agnimandya/Ajirna Chikitsa); also described in Yoga Ratnakara, Bhai
 
 **Dosage Forms:** Vati (tablet/pill), Modern compressed tablet
 
-**Standard Dosage:** 250-500 mg twice daily before meals, as per AFI Part I
+**Standard Dosage:** 250-500 mg twice daily before meals. The Ayurvedic Formulary of India attributes this formula to Carakasamhita, Cikitsasthana, Adhyaya 15, 96-96½.
 
 **Bioavailability:** Plumbagin from Chitraka is a potent bioactive with high oral absorption. Five types of salts (pancha lavana) enhance gastric acid and improve dissolution. Piperine acts as bioenhancer. Lemon juice bhavana provides [citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid) matrix for improved disintegration.
 

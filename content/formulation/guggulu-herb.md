@@ -38,7 +38,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Guggulu_Herb
 
 **Dosage Forms:** Raw resin (for processing), Shuddha [Guggulu](/formulation/guggulu/)|Shuddha Guggulu (purified), Powder, Capsules (modern)
 
-**Standard Dosage:** Only as Shuddha (purified) form: 250-500 mg twice daily, as per API/AFI
+**Standard Dosage:** Only as Shuddha (purified) form: 250-500 mg twice daily.
 
 **Bioavailability:** Raw resin has poor bioavailability and contains irritant fractions. Shodhana processing removes irritant oleoresin components while retaining guggulsterones. Purified [guggulu](/formulation/guggulu/) has significantly improved safety and moderate oral bioavailability of guggulsterones.
 

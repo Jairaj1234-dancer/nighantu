@@ -69,7 +69,7 @@ Ashtanga Hridaya (Brihat Trayi compendia, 1st century CE); Charaka Samhita; Sush
 
 **Dosage Forms:** [Ghrita](/herb/ghrita/) (medicated ghee), Soft gelatin capsules (modern)
 
-**Standard Dosage:** 6-12 g twice daily, as per AFI Part I
+**Standard Dosage:** 6-12 g twice daily. The Ayurvedic Formulary of India attributes this formula to Astangahrdaya, Cikitsasthana, Adhyaya 16; 2-2½.
 
 **Bioavailability:** Ghee matrix enhances absorption of pomegranate polyphenols ([punicalagin](/glossary/compounds-o-q/#punicalagin), ellagic acid). Lipid base protects [ellagitannins](/glossary/compounds-d-g/#ellagitannins) from gastric degradation, enabling colonic conversion to urolithins (bioactive metabolites).
 

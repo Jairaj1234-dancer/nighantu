@@ -69,7 +69,7 @@ Ashtanga Hridayam (Sutrasthana Chapter 20 - Nasya Vidhi) by Vagbhata. Described 
 
 **Dosage Forms:** Taila (medicated oil for nasal administration/Nasya), Nasal drops (modern)
 
-**Standard Dosage:** 2-6 drops in each nostril (Pratimarsha Nasya) or 6-8 drops (Marsha Nasya), as per AFI Part I
+**Standard Dosage:** 2-6 drops in each nostril (Pratimarsha Nasya) or 6-8 drops (Marsha Nasya). The Ayurvedic Formulary of India attributes this formula to Astangahrdaya, Sutrasthana, Adhyaya 20; 37-38.
 
 **Bioavailability:** Nasal route (Nasya) provides direct access to CNS via olfactory and trigeminal nerve pathways, bypassing first-pass metabolism. Oil base provides sustained release of lipophilic actives on nasal mucosa. Absorption is rapid — onset within 5-15 minutes.
 

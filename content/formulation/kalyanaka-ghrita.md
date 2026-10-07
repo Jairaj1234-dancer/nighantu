@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Kalyanaka
 
 **Dosage Forms:** [Ghrita](/herb/ghrita/) (medicated ghee), Soft gelatin capsules (modern)
 
-**Standard Dosage:** 6-12 g twice daily on empty stomach with warm water/milk, as per Ashtanga Hridayam/AFI
+**Standard Dosage:** 6-12 g twice daily on empty stomach with warm water/milk. The Ayurvedic Formulary of India gives a dose of 12 g and attributes this formula to Astangahrdaya, Uttarasthana, Adhyaya 6; 26-28½.
 
 **Bioavailability:** Ghee base provides optimal vehicle for 30+ herbs with diverse solubility profiles. Lipid matrix enhances BBB penetration of Medhya ([nootropic](/glossary/pharmacology/#nootropic)) compounds. Multi-compound synergy provides broad-spectrum activity with individual compound bioavailability enhanced by ghee matrix.
 

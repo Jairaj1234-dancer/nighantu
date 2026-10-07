@@ -67,7 +67,7 @@ Sahasrayogam and Bhaishajya Ratnavali, categorized under Raktaprasadana [Rasayan
 
 **Dosage Forms:** Asava (fermented infusion), Syrup (modern)
 
-**Standard Dosage:** 5-10 mL (pediatric) to 15-25 mL (adult) twice daily after meals with equal water, as per AFI Part I
+**Standard Dosage:** 5-10 mL (pediatric) to 15-25 mL (adult) twice daily after meals with equal water. The Ayurvedic Formulary of India attributes this formula to Bhaisajyaratnavali, Balarogadhikara; 185-188.
 
 **Bioavailability:** Self-generated alcohol and honey base enhance absorption. Cold infusion process preserves heat-sensitive actives better than Arishta process. Fermentation converts [glycosides](/glossary/compounds-g-l/#glycosides) to bioactive aglycones.
 

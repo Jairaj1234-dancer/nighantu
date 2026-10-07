@@ -69,7 +69,7 @@ Charaka Samhita; Sushruta Samhita; Sharangadhara Samhita; Atharva Veda and Upani
 
 **Dosage Forms:** Khanda (granular confection), Churna variant, Capsules (modern), Tablets (modern)
 
-**Standard Dosage:** 3-6 g twice daily with warm milk, as per AFI Part I
+**Standard Dosage:** 3-6 g twice daily with warm milk. The Ayurvedic Formulary of India attributes this formula to Bhaisajyaratnavali, Sitapittodardakothadhikara; 12-14.
 
 **Bioavailability:** Ghee-frying of Haridra significantly enhances [curcumin](/herb/curcumin/) bioavailability (curcuminoid-lipid complexation). [Piperine](/reference/piperine/) from [Trikatu](/herb/trikatu/) increases [curcumin](/herb/curcumin/) bioavailability by up to 2000% (well-established pharmacokinetic interaction). Milk during processing forms curcumin-casein nanoparticles with enhanced absorption.
 

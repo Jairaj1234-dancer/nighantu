@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Amritapra
 
 **Dosage Forms:** [Ghrita](/herb/ghrita/) (medicated ghee), Avaleha form, Soft gelatin capsules (modern)
 
-**Standard Dosage:** 6-12 g twice daily, as per AFI
+**Standard Dosage:** 6-12 g twice daily. The Ayurvedic Formulary of India attributes this formula to Astangahrdaya, Cikitsasthana, Adhyaya 3; 93-97.
 
 **Bioavailability:** Lipid matrix of ghee enables superior absorption of fat-soluble [withanolides](/glossary/compounds-t-z/#withanolides) (from [Ashwagandha](/herb/ashwagandha/)) and steroidal [saponins](/reference/saponins/) (from [Shatavari](/herb/shatavari/)). Multi-herb synergy provides broad-spectrum bioactive delivery. Ghee base facilitates crossing of biological membranes.
 

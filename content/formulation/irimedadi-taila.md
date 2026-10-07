@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Irimedadi-T
 
 **Dosage Forms:** Taila (medicated oil for oral/dental use), Mouthwash (modern), Oral gel (modern)
 
-**Standard Dosage:** For Gandusha/Kavala (oil pulling): 15-20 mL held in mouth for 5-15 minutes, then spat out. For local application: apply to gums with finger or cotton, as per Sahasrayogam/AFI
+**Standard Dosage:** For Gandusha/Kavala (oil pulling): 15-20 mL held in mouth for 5-15 minutes, then spat out. For local application: apply to gums with finger or cotton.
 
 **Bioavailability:** Buccal/gingival absorption provides direct delivery to oral mucosa. Oil pulling (Gandusha) allows 5-15 minutes of mucosal contact time. [Tannins](/reference/tannins/) from [Khadira](/herb/khadira/) and [Bakula](/herb/bakula/) have astringent action on gingival tissues. [Sesame oil](/glossary/concepts-m-y/#tila-taila) base has inherent [antimicrobial](/reference/antimicrobial/) properties (sesaminol).
 

@@ -81,7 +81,7 @@ Sahasrayogam (Taila Prakarana), specifically referencing the Eladi Gana - a trad
 
 **Dosage Forms:** Thailam (medicated oil for external use), Cream (modern), Lotion (modern)
 
-**Standard Dosage:** External application: sufficient quantity on affected area, twice daily, as per Sahasrayogam/AFI
+**Standard Dosage:** External application: sufficient quantity on affected area, twice daily.
 
 **Bioavailability:** [Coconut oil](/glossary/concepts-a-m/#coconut-oil) base (rich in lauric acid and MCTs) provides excellent transdermal penetration. Aromatic compounds from Ela and Agaru are rapidly absorbed through skin. Direct dermal delivery bypasses first-pass metabolism for local skin conditions.
 

@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Amritar
 
 **Dosage Forms:** Arishta (fermented decoction), Capsules (modern)
 
-**Standard Dosage:** 15-30 mL twice daily after meals with equal quantity of water, as per AFI Part I
+**Standard Dosage:** 15-30 mL twice daily after meals with equal quantity of water. The Ayurvedic Formulary of India attributes this formula to Bhaisajyaratnavali, Jvaradhikara; 690-692.
 
 **Bioavailability:** Self-generated alcohol (5-12%) acts as preservative and bioenhancer, enabling extraction and absorption of [alkaloids](/glossary/compounds-1-a/#alkaloids) and [glycosides](/glossary/compounds-g-l/#glycosides). Fermentation produces novel bioactive metabolites not present in the original decoction. Rapid oral absorption of water-alcohol soluble fraction.
 

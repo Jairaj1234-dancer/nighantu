@@ -69,7 +69,7 @@ Bhaishajya Ratnavali (Amlapitta Rogadhikara). Also referenced in Sharangdhara Sa
 
 **Dosage Forms:** Churna (fine powder), Tablets (modern), Capsules (modern)
 
-**Standard Dosage:** 3-6 g twice daily with warm water or sugar, as per AFI Part I
+**Standard Dosage:** 3-6 g twice daily with warm water or sugar. The Ayurvedic Formulary of India gives a dose of 3 to 6 g and attributes this formula to Bhaisajyaratnavali, Amlapittadhikara; 24-25.
 
 **Bioavailability:** Fine particle size and [Trikatu](/herb/trikatu/) (Shunthi, Maricha, [Pippali](/herb/pippali/)) combination provides excellent bioenhancement through thermogenic and absorption-promoting effects. Piperine increases bioavailability of co-administered compounds by 20-30%.
 

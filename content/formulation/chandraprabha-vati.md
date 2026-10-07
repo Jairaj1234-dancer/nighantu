@@ -69,7 +69,7 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 7 (Vatika Adhikara). Also describ
 
 **Dosage Forms:** Vati (tablet/pill), Modern compressed tablet, Capsule (modern)
 
-**Standard Dosage:** 250-500 mg twice daily with warm water or milk, as per AFI Part I
+**Standard Dosage:** 250-500 mg twice daily with warm water or milk. The Ayurvedic Formulary of India attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 7; 40-44.
 
 **Bioavailability:** [Guggulu](/formulation/guggulu/) acts as yogavahi (bioenhancer), carrying active compounds to target tissues. Shilajatu (fulvic acid) enhances mineral absorption. Bhasma nano-particles (50-100 nm) provide high bioavailability. [Piperine](/reference/piperine/) from [Trikatu](/herb/trikatu/) enhances absorption of all co-ingredients.
 

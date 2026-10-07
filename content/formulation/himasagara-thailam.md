@@ -83,7 +83,7 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa). The name 'Himasagara' means 'cool as
 
 **Dosage Forms:** Thailam (medicated oil for external use), Balm (modern), Roll-on (modern)
 
-**Standard Dosage:** External application: sufficient quantity on affected area, 2-3 times daily, as per Sahasrayogam
+**Standard Dosage:** External application: sufficient quantity on affected area, 2-3 times daily.
 
 **Bioavailability:** Topical application provides direct dermal absorption of [camphor](/herb/camphor/) and cooling volatiles. [Camphor](/herb/camphor/) activates TRPM8 cold receptors producing cooling sensation. Alpha-santalol from sandalwood has anti-inflammatory activity via transdermal delivery. [Coconut oil](/glossary/concepts-a-m/#coconut-oil) MCTs enhance skin penetration.
 

@@ -70,7 +70,7 @@ Ashtanga Hridayam (written circa 750 CE by Vagbhata); also known as Pancatikta [
 
 **Dosage Forms:** [Ghrita](/herb/ghrita/) (medicated ghee), Soft gelatin capsules (modern)
 
-**Standard Dosage:** 6-12 g (1-2 teaspoons) twice daily on empty stomach, as per Ashtanga Hridayam/AFI
+**Standard Dosage:** 6-12 g (1-2 teaspoons) twice daily on empty stomach. The Ayurvedic Formulary of India gives a dose of 12 g and attributes this formula to Astangahrdaya, Cikitsasthana, Adhyaya 21; 57-58 14.
 
 **Bioavailability:** Ghee matrix provides superior absorption of both lipophilic guggulsterones and hydrophilic bitter principles. [Guggulu](/formulation/guggulu/) acts as yogavahi further enhancing bioavailability of co-ingredients. Tikta rasa (bitter taste) stimulates hepatobiliary function, improving systemic absorption. Excellent vehicle for bone and joint conditions.
 

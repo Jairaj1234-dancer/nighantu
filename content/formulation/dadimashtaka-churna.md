@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Dadimashtaka-Chur
 
 **Dosage Forms:** Churna (fine powder), Capsules (modern), Sachets (modern)
 
-**Standard Dosage:** 3-6 g twice daily with warm water or buttermilk, as per AFI Part I
+**Standard Dosage:** 3-6 g twice daily with warm water or buttermilk.
 
 **Bioavailability:** Fine powder form with aromatic spices provides excellent GI absorption. [Piperine](/reference/piperine/) from [Trikatu](/herb/trikatu/) enhances bioavailability. Sugar matrix aids palatability and provides rapid energy. Pomegranate [polyphenols](/glossary/compounds-o-q/#polyphenols) are well-absorbed from powder form.
 

@@ -67,7 +67,7 @@ Sahasrayogam, Jwara Chikitsa (fever treatment section). Also referenced in Rasa 
 
 **Dosage Forms:** Kashayam (decoction), Kashayam tablets (modern), Concentrated liquid (modern)
 
-**Standard Dosage:** 15-30 mL (liquid) or 2 tablets twice daily before meals, as per AFI
+**Standard Dosage:** 15-30 mL (liquid) or 2 tablets twice daily before meals. The Ayurvedic Formulary of India attributes this formula to Sahasrayoga, kasayaprakarana; 30.
 
 **Bioavailability:** Hot decoction form provides rapid absorption. Gingerols from Shunthi act as bioenhancers and improve gastric motility for faster absorption. Tablet form may have slightly delayed onset compared to fresh kashayam.
 

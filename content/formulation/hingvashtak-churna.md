@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Hingvashtak-Churn
 
 **Dosage Forms:** Churna (fine powder), Capsules (modern), Tablets (modern)
 
-**Standard Dosage:** 1-3 g twice daily with first morsel of food or before meals, as per AFI Part I
+**Standard Dosage:** 1-3 g twice daily with first morsel of food or before meals. The Ayurvedic Formulary of India gives a dose of 1 to 2 g and attributes this formula to Bhaisajyaratnavali, Agnimandyadirogadhikara; 37.
 
 **Bioavailability:** One of the most effective Agni-deepana formulations. [Piperine](/reference/piperine/) enhances bioavailability of all co-ingredients. [Cumin](/herb/cumin/) volatile oils stimulate gastric secretion within minutes. [Hingu](/herb/hingu/) (asafoetida) volatile oils are rapidly absorbed providing immediate carminative effect. Classical instruction to take with first morsel ensures mixing with food for optimal digestive action.
 

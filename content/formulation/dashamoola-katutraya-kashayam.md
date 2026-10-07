@@ -67,7 +67,7 @@ Ashtanga Hridaya ([Dashamoola](/herb/dashamoola/) Kwatham section). Refined in t
 
 **Dosage Forms:** Kashayam (decoction), Kashayam tablet (modern), Concentrated liquid (modern)
 
-**Standard Dosage:** 15-30 mL or 2 tablets twice daily before meals, as per Sahasrayogam
+**Standard Dosage:** 15-30 mL or 2 tablets twice daily before meals. The Ayurvedic Formulary of India gives a dose of 48 g and attributes this formula to Sahasrayoga, Kasayaprakarana; 107.
 
 **Bioavailability:** Hot decoction provides rapid absorption. [Trikatu](/herb/trikatu/) (Katutraya) serves dual purpose — therapeutic and bioenhancer. [Piperine](/reference/piperine/) increases absorption of other Dashamoola constituents. Synergistic anti-inflammatory effect of combined roots.
 

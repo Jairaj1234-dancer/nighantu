@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Gangadhara-Churna
 
 **Dosage Forms:** Churna (fine powder), Capsules (modern), Tablets (modern)
 
-**Standard Dosage:** 3-6 g twice daily with warm water or buttermilk, as per AFI
+**Standard Dosage:** 3-6 g twice daily with warm water or buttermilk.
 
 **Bioavailability:** Fine powder form provides rapid dissolution and absorption. Shunthi acts as bioenhancer. Ativisha [alkaloids](/glossary/compounds-1-a/#alkaloids) (post-Shodhana) are well-absorbed orally with onset within 30-60 minutes.
 

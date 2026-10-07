@@ -72,7 +72,7 @@ Sahasrayogam (Taila Prakarana). A characteristically simple 3-ingredient formula
 
 **Dosage Forms:** Thailam (medicated oil for external use), Balm (modern), Roll-on (modern)
 
-**Standard Dosage:** External application: sufficient quantity on affected area, 2-3 times daily, as per Sahasrayogam
+**Standard Dosage:** External application: sufficient quantity on affected area, 2-3 times daily.
 
 **Bioavailability:** Topical application provides rapid transdermal absorption of camphor. Camphor activates TRPM8 and TRPV3 receptors producing alternating cool-warm sensation. Counter-irritant mechanism increases local blood flow. Eucalyptol (if included) provides additional anti-inflammatory action via COX-2 inhibition.
 

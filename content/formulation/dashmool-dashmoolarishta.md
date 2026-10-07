@@ -78,7 +78,7 @@ Charaka Samhita (Sutra Sthana, Shadvirechanashatashritiya Adhyaya) - [Dashamoola
 
 **Dosage Forms:** Arishta (fermented decoction), Kwath Churna (decoction powder), Capsules (modern)
 
-**Standard Dosage:** 15-30 mL (Arishta) or 3-6 g kwath churna twice daily, as per AFI
+**Standard Dosage:** 15-30 mL (Arishta) or 3-6 g kwath churna twice daily.
 
 **Bioavailability:** Arishta form provides superior bioavailability due to alcohol-mediated extraction and absorption. Kwath (decoction) provides rapid absorption of water-soluble components. The ten roots provide broad-spectrum anti-inflammatory and analgesic activity through multiple absorption pathways.
 

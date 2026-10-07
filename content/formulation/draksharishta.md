@@ -72,7 +72,7 @@ Bhaishajya Ratnavali (Agnimandya / Pandu Rogadhikara). Also referenced in Ayurve
 
 **Dosage Forms:** Arishta (fermented decoction), Syrup (modern)
 
-**Standard Dosage:** 15-30 mL twice daily after meals with equal water, as per AFI Part I
+**Standard Dosage:** 15-30 mL twice daily after meals with equal water. The Ayurvedic Formulary of India attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 10; 69-71.
 
 **Bioavailability:** Fermentation enhances [resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol) and polyphenol extraction. Alcohol medium improves lipophilic polyphenol absorption. Natural grape sugars partially convert to alcohol during fermentation, generating novel bioactive esters. Superior polyphenol bioavailability compared to simple decoction.
 

@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Rasayanas-Rejuvenatives/Amalaka-R
 
 **Dosage Forms:** [Rasayana](/reference/rasayana/)/Avaleha (semi-solid), Churna form, Capsules (modern)
 
-**Standard Dosage:** 10-20 g daily, or as per classical text directions, as per Charaka Samhita
+**Standard Dosage:** 10-20 g daily, or as per classical text directions.
 
 **Bioavailability:** Ascorbic acid from Amalaki is stabilized by [tannins](/reference/tannins/), providing sustained-release [antioxidant](/reference/antioxidant/) activity. Ghee base enhances absorption of fat-soluble [polyphenols](/glossary/compounds-o-q/#polyphenols). Honey (added when cool) provides enzymatic enhancement of bioavailability.
 
