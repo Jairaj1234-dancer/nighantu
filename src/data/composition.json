@@ -14253,7 +14253,8 @@
       ],
       "dose": "2 to 4 g",
       "doseSource": "Ayurvedic Formulary of India, Part I, entry 7:35",
-      "anupana": "warm water"
+      "anupana": "warm water",
+      "entryNameNote": "The formulary has no entry under the name of this page. Its entry 7:35 is SUDARSANA CURNA, and a search of the formulary text finds nothing under maha-. In Ayurvedic naming a maha- prefix usually marks a different formulation rather than a different spelling, so the composition above should be read as the formulary's SUDARSANA CURNA and not assumed to be this page's subject."
     },
     "mahayograj-guggul": {
       "afiPart": "I",
