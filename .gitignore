@@ -21,6 +21,11 @@ public/compounds.csv
 public/taxonomy.json
 public/chemistry.json
 
+# Collected from other companies' own pages, plus the per-host permission survey that gates the
+# collection. Kept locally as evidence; this repository is public and is the wrong place for a
+# report on anyone else's posture. scripts/brand-catalogue.mjs regenerates all of it.
+data/brands/
+
 # Market-map output: a ranked table of which domains an answer engine cites for a given set of
 # questions. The prompt sets are committed, because the questions are the method; the results name
 # other companies' positions and are analysis, which this repository is the wrong place for.

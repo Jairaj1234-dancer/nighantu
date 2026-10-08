@@ -71,6 +71,10 @@ jobs:
         run: node scripts/test/safety.test.mjs
       - name: Identifier grammar tests
         run: node scripts/test/identifiers.test.mjs
+      # The only code here that decides whether to fetch a page belonging to someone else. Its
+      # negative cases are the shapes where a careless parser answers yes to a file that said no.
+      - name: robots.txt parser tests
+        run: node scripts/test/robots.test.mjs
       # Deterministic anti-hallucination checks for generated prose. Models auditing
       # models has already failed on this project once; these do not have a bad day.
       - name: Grounding checks
