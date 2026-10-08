@@ -20,21 +20,30 @@
  *    contact URL in it, used consistently, so a site owner who wants to exclude us can.
  *  - It will not hammer a host: one request in flight per host and a delay between them.
  *
- * TWO STAGES SO FAR. `--robots` surveys permission and stops. Without it, the survey runs and
- * then discovery walks each permitted host's own sitemaps and matches product slugs against the
- * formulations transcribed here, so a candidate is identified BEFORE any product page is read and
- * no page is fetched on the chance that it might be relevant. Reading each candidate's label is
- * the next stage and is not written yet.
+ * THREE STAGES, each of which can be the last. `--robots` surveys permission and stops.
+ * `--discover` adds a walk of each permitted host's own sitemaps, matching product slugs against
+ * the formulations transcribed here, so a candidate is identified BEFORE any product page is read
+ * and no page is fetched on the chance that it might be relevant. Without either flag, collection
+ * then reads each candidate and records what the page states.
+ *
+ * COLLECTION RECORDS FACTS ABOUT THE PAGE, NOT JUDGEMENTS. Whether a stated composition matches
+ * the formulary entry is a separate step that needs a model. What this records is whether the page
+ * names its ingredients at all, whether it gives any of them a quantity, whether it states a dose,
+ * and whether it cites any authority, each with the text it was read from. The distinction between
+ * a page that publishes no composition and a page this code could not read is kept throughout,
+ * because only the first is a claim about the company.
  *
  *   node scripts/brand-catalogue.mjs --robots          # permission survey only, nothing fetched
  *   node scripts/brand-catalogue.mjs --robots --json   # same, machine-readable
- *   node scripts/brand-catalogue.mjs                   # survey, then sitemap discovery
+ *   node scripts/brand-catalogue.mjs --discover        # survey and discovery, no product read
+ *   node scripts/brand-catalogue.mjs                   # survey, discovery, then collection
  */
 import fs from 'node:fs';
 import path from 'node:path';
 import { fetchRobots, groupFor, isAllowed } from './lib/robots.mjs';
 import { Fetcher, parseSitemap } from './lib/fetcher.mjs';
 import { buildMatcher } from './lib/formulation-names.mjs';
+import { extractProduct } from './lib/product-extract.mjs';
 
 const ROBOTS_ONLY = process.argv.includes('--robots');
 const AS_JSON = process.argv.includes('--json');
@@ -304,6 +313,78 @@ fs.writeFileSync(out, `${JSON.stringify({
   formulationsLookedFor: FORMULATIONS.length,
   brands: discovery,
 }, null, 2)}\n`);
+
+if (process.argv.includes('--discover')) {
+  console.log('\n--discover: candidate discovery only. No product page was read.');
+}
+
+// ---------------------------------------------------------------------------------------------
+// Collection. Read each candidate and record what the page states, as facts about the page.
+// ---------------------------------------------------------------------------------------------
+
+const products = [];
+
+if (!process.argv.includes('--discover')) {
+  console.log('\n--- collection: reading each candidate product page ---\n');
+  for (const b of discovery) {
+    const cands = b.candidates ?? [];
+    if (!cands.length) continue;
+    // One record per (product URL, formulation), because a combo pack genuinely names two.
+    for (const c of cands) {
+      const res = await fetcher.get(c.url);
+      if (res.refused) { products.push({ brand: b.id, ...c, outcome: 'refused', detail: res.refused }); continue; }
+      if (!res.body || res.status !== 200) { products.push({ brand: b.id, ...c, outcome: 'unavailable', status: res.status ?? null, detail: res.error ?? null }); continue; }
+      const x = extractProduct(res.body);
+      products.push({
+        brand: b.id,
+        brandName: b.name,
+        formulation: c.slug,
+        url: c.url,
+        matchedOn: c.matchedOn,
+        outcome: 'read',
+        fetchedAt: res.fetchedAt,
+        httpStatus: res.status,
+        // Carried on every record: a figure here is only usable if we can still say the page
+        // permitted being read at the moment it was read.
+        robots: res.robots ?? null,
+        ...x,
+      });
+    }
+    const read = products.filter((p) => p.brand === b.id && p.outcome === 'read');
+    const found = read.filter((p) => p.composition.state === 'found');
+    const withQty = read.filter((p) => p.quantityCount > 0);
+    const unreadable = read.filter((p) => p.composition.state === 'unreadable');
+    console.log(`${pad(b.id, 16)}${pad(`${read.length} read`, 10)}${pad(`${found.length} with a composition`, 24)}${pad(`${withQty.length} with a quantity`, 22)}${unreadable.length ? `${unreadable.length} render client-side` : ''}`);
+  }
+
+  const outP = path.join('data', 'brands', 'products.json');
+  fs.writeFileSync(outP, `${JSON.stringify({
+    agent: UA,
+    collectedOn: new Date().toLocaleDateString('en-CA'),
+    note: 'Facts about each page as it was served to this agent on the date recorded. A composition '
+      + 'state of "absent" means the page carried substantial readable text and no composition in it; '
+      + '"unreadable" means the page carried almost no text, which on these sites means it renders '
+      + 'client-side. The two are never merged, because only the first is a claim about the company.',
+    products,
+  }, null, 2)}\n`);
+
+  const read = products.filter((p) => p.outcome === 'read');
+  const found = read.filter((p) => p.composition.state === 'found');
+  const withQty = read.filter((p) => p.quantityCount > 0);
+  const citesAfi = read.filter((p) => (p.authorities ?? []).some((a) => a.id === 'afi'));
+  const citesAny = read.filter((p) => (p.authorities ?? []).length > 0);
+  const doseFound = read.filter((p) => p.dose.state === 'found');
+
+  console.log('');
+  console.log(`read                       ${read.length} of ${products.length} candidate pages`);
+  console.log(`name their ingredients     ${found.length}`);
+  console.log(`state any quantity         ${withQty.length}`);
+  console.log(`state a dose               ${doseFound.length}`);
+  console.log(`cite the formulary         ${citesAfi.length}`);
+  console.log(`cite any authority at all  ${citesAny.length}`);
+  console.log(`fetch stats: ${fetcher.stats.fetched} fetched, ${fetcher.stats.cached} from cache, ${fetcher.stats.refused} refused, ${fetcher.stats.failed} failed`);
+  console.log(`\nwrote ${outP}`);
+}
 
 const total = discovery.reduce((a, b) => a + (b.candidates?.length ?? 0), 0);
 const byFormulation = new Map();

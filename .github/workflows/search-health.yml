@@ -19,8 +19,11 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  ATLAS_SITE: https://jairaj1234-dancer.github.io
-  ATLAS_BASE: /nighantu
+# The site moved to its own domain. This still pointed at the github.io path, so BING_SITE_URL
+# defaulted to a URL that is not the property verified in Bing Webmaster, and every API call
+# would have come back empty however good the key was.
+  ATLAS_SITE: https://nighantu.ageayurveda.com
+  ATLAS_BASE: ''
 
 jobs:
   bing:
