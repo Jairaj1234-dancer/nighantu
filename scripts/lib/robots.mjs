@@ -57,9 +57,16 @@ export function parseRobots(text) {
     const value = line.slice(colon + 1).trim();
 
     if (field === 'user-agent') {
-      if (!current || !expectingAgents) { current = { agents: [], rules: [] }; groups.push(current); }
+      if (!current || !expectingAgents) { current = { agents: [], rules: [], crawlDelay: null }; groups.push(current); }
       current.agents.push(value.toLowerCase());
       expectingAgents = true;
+      continue;
+    }
+    // Crawl-delay is not a permission, so it does not end the agent block and is kept on the
+    // group for a caller that wants to honour it. A site that asks for ten seconds is asking.
+    if (field === 'crawl-delay') {
+      const secs = Number.parseFloat(value);
+      if (current && Number.isFinite(secs) && secs >= 0) current.crawlDelay = secs;
       continue;
     }
     if (field !== 'allow' && field !== 'disallow') continue;

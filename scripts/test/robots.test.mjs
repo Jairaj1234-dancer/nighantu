@@ -58,6 +58,13 @@ const withExtras = 'User-agent: *\nCrawl-delay: 10\nSitemap: https://x/s.xml\nDi
 check('unknown fields do not break the group', allows(withExtras, 'b', '/secret/a'), false);
 check('unknown fields leave the rest open', allows(withExtras, 'b', '/open'), true);
 
+// Crawl-delay is captured for a caller to honour, and must not end the agent's rule block.
+const cd = parseRobots('User-agent: *\nCrawl-delay: 10\nDisallow: /x\n');
+check('crawl-delay captured', cd[0].crawlDelay, 10);
+check('crawl-delay is not a permission', allows('User-agent: *\nCrawl-delay: 10\n', 'b', '/x'), true);
+check('a fractional crawl-delay parses', parseRobots('User-agent: *\nCrawl-delay: 0.5\n')[0].crawlDelay, 0.5);
+check('a junk crawl-delay is ignored', parseRobots('User-agent: *\nCrawl-delay: soon\n')[0].crawlDelay, null);
+
 // An unknown verdict must be read as closed by the caller, so the option exists and works.
 check('defaultAllow false closes an empty group', isAllowed(null, '/x', { defaultAllow: false }), false);
 

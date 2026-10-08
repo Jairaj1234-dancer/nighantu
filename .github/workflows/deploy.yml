@@ -75,6 +75,11 @@ jobs:
       # negative cases are the shapes where a careless parser answers yes to a file that said no.
       - name: robots.txt parser tests
         run: node scripts/test/robots.test.mjs
+      # Decides which formulation a manufacturer's product name refers to. A miss loses a product
+      # from a comparison; a false match puts one formulation's composition beside another's
+      # label, which is the failure that matters, so most of the cases are negative.
+      - name: Formulation name matcher tests
+        run: node scripts/test/formulation-names.test.mjs
       # Deterministic anti-hallucination checks for generated prose. Models auditing
       # models has already failed on this project once; these do not have a bad day.
       - name: Grounding checks
