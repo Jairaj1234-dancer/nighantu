@@ -10,12 +10,15 @@
  * passage it claims to render.
  *
  * WHAT IS NOT HERE. The concept records, which cover the theory of health and disease as wholes
- * rather than term by term. They exist, they hold 408 quoted classical citations, and not one of
- * those citations has been checked against its source yet. The terms earned the word verified by
- * paying for it; publishing the concepts beside them would borrow it.
+ * rather than term by term. When this page was written they held 408 quoted classical citations
+ * with not one checked against its source, and publishing them beside the terms would have
+ * borrowed the word verified. They have since paid for it: 207 citations read against their
+ * sources, 29 refuted, 33 repairs applied, and they now publish at /concept/, with the four
+ * records whose repairs are unsettled still held back. Component terms cross-link both ways.
  */
 import Page from '../../layouts/Page.astro';
 import lexicon from '../../data/lexicon.json';
+import conceptsData from '../../data/concepts.json';
 import { abs, rel } from '../../lib/site';
 
 const data = lexicon as any;
@@ -35,6 +38,7 @@ const byFamily = families.map((f) => ({
   items: records.filter((r) => r.family === f.id).sort((a, b) => a.slug.localeCompare(b.slug)),
 }));
 const unplaced = records.filter((r) => !r.family);
+const con = (conceptsData as any).summary;
 
 /** Terms whose renderings disagree with each other, which are the interesting ones. */
 const contested = records
@@ -130,6 +134,17 @@ const jsonld = [
     these citations do not carry, so they escaped it, and an unchecked quotation is not something
     this site will stand behind. The address and the characterisation still publish, because a
     reader can follow an address to a library.
+  </p>
+
+  <h2>The companion set: where the theory disagrees with itself</h2>
+  <p>
+    A term entry answers what a word means. It does not answer whether the thing the word names is
+    settled, and often it is not. The
+    <a href={rel('/concept/')}>concept records</a> hold {n(con.contestedQuestions)} questions on
+    which the classical sources genuinely disagree, with {n(con.attributedPositions)} competing
+    positions attributed to the sources that hold them, plus {n(con.notKnownStatements)} explicit
+    statements of what is not established. {n(con.componentsLinkedToLexicon)} of the terms here are
+    named as components of one of those concepts and link both ways.
   </p>
 
   <h2>Terms whose renderings disagree most</h2>

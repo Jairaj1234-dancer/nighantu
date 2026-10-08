@@ -11,6 +11,8 @@ dist/
 # if you add another generated download here, add the matching step there too.
 public/lexicon.json
 public/lexicon.csv
+public/concepts.json
+public/concepts.csv
 public/composition.json
 public/composition.csv
 public/research.json

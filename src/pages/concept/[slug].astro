@@ -1,0 +1,310 @@
+---
+/**
+ * One page per Ayurvedic concept, built around the question rather than the essay.
+ *
+ * WHY THE ORDER OF THIS PAGE IS WHAT IT IS. The measurement on this site says long-form guides do
+ * not earn citations: 144 Bing citations went to herb monographs and formulation pages and not one
+ * to a Shirodhara guide, and the Shirodhara prompts score zero across roughly 900 asks. A concept
+ * record is a long-form theory essay, so publishing it as one would repeat that.
+ *
+ * What a concept record also holds, and what almost nobody else publishes, is a set of CONTESTED
+ * QUESTIONS with attributed competing answers, and a list of what is NOT known. "Is agni identical
+ * with pitta, or distinct from it?" is a question an answer engine is asked, and the honest answer
+ * is that the texts disagree and here is who says what. So the page leads with how much weight the
+ * concept bears, then the disagreements, then the gaps, and only then the exposition.
+ *
+ * The contested questions are also emitted as FAQPage structured data, because that is what they
+ * are: a question with answers, marked up as one.
+ */
+import Page from '../../layouts/Page.astro';
+import concepts from '../../data/concepts.json';
+import { abs, rel } from '../../lib/site';
+
+export function getStaticPaths() {
+  return ((concepts as any).records as any[]).map((r) => ({ params: { slug: r.slug }, props: { r } }));
+}
+
+const { r } = Astro.props as { r: any };
+const data = concepts as any;
+const domain = (data.domains as any[]).find((d) => d.id === r.domainGroup) ?? null;
+
+const title = r.title;
+
+/**
+ * The meta description: whole sentences off the front of the summary, never a hard slice.
+ *
+ * Two things went wrong with the obvious version. The summaries are multi-paragraph, so a plain
+ * character slice cut agni's off mid-word at "and that the perio"; and samprapti's second sentence
+ * ends at a paragraph break, so the newline travelled into the attribute and crawl-audit, which
+ * reads the tag off one line, reported the page as having no description at all. So: collapse the
+ * whitespace first, then take complete sentences while they fit.
+ *
+ * The sentence split deliberately requires a capital after the stop, because these summaries are
+ * full of addresses like "Ni. 1/6" and "Su. Su. 21" that a bare ". " split would break on.
+ */
+const LIMIT = 300;
+const leadSentences = (text: string) => {
+  const flat = String(text ?? '').replace(/\s+/g, ' ').trim();
+  if (!flat) return '';
+  const parts = flat.split(/(?<=[.!?])\s+(?=[A-Z("])/);
+  let out = '';
+  for (const p of parts) {
+    if (out && `${out} ${p}`.length > LIMIT) break;
+    // Several summaries enumerate their sections, so the sentence after the opening is often a
+    // bare heading like "(1) Charaka's samprapti." Appended to a description it reads as a stray
+    // fragment, so a short one is dropped once there is already a sentence in hand.
+    if (out && p.length < 45) break;
+    out = out ? `${out} ${p}` : p;
+    if (out.length >= LIMIT) break;
+  }
+  // A single opening sentence longer than the limit still has to be cut, but on a word boundary.
+  return out.length > LIMIT ? `${out.slice(0, LIMIT).replace(/\s+\S*$/, '')}...` : out;
+};
+
+const description = leadSentences(r.summary)
+  || `${r.title}: what the concept claims, what the classical texts say, and what is contested.`;
+const canonical = `/concept/${r.slug}/`;
+
+const address = (c: any) => [c.sthana, [c.chapter, c.verse].filter(Boolean).join(':')].filter(Boolean).join(' ');
+const withText = (r.classical ?? []).filter((c: any) => c.quote || c.sanskrit || c.translation);
+
+const jsonld: any[] = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'DefinedTerm',
+    '@id': `${abs(canonical)}#concept`,
+    name: r.title,
+    description: r.summary ?? undefined,
+    url: abs(canonical),
+    inDefinedTermSet: { '@type': 'DefinedTermSet', '@id': `${abs('/concept/')}#set`, name: 'Ayurvedic concepts', url: abs('/concept/') },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Nighantu', item: abs('/') },
+      { '@type': 'ListItem', position: 2, name: 'Concepts', item: abs('/concept/') },
+      { '@type': 'ListItem', position: 3, name: r.title, item: abs(canonical) },
+    ],
+  },
+];
+
+/**
+ * FAQPage, built from the contested questions.
+ *
+ * The answer is NOT a pick: it is the disagreement itself, with each position attributed as the
+ * record states it. A question whose honest answer is "the texts disagree, and here is who says
+ * what" is still a question with an answer, and pretending to a single one would be the failure
+ * mode this whole corpus is built against.
+ */
+if ((r.contested ?? []).length) {
+  jsonld.push({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    '@id': `${abs(canonical)}#contested`,
+    mainEntity: r.contested.map((c: any) => ({
+      '@type': 'Question',
+      name: c.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: `This is contested. ${(c.positions ?? []).join(' ')}`.slice(0, 1800),
+      },
+    })),
+  });
+}
+---
+<Page title={title} description={description} canonical={canonical} jsonld={jsonld}>
+  {r.evidenceState && (
+    <p class="answer">
+      <strong>How much weight this concept bears.</strong> {r.evidenceState}
+    </p>
+  )}
+
+  {r.summary && <p class="lede">{r.summary}</p>}
+
+  <table class="facts">
+    <caption>At a glance</caption>
+    <tbody>
+      {domain && <tr><th scope="row">Subject area</th><td><a href={rel('/concept/')}>{domain.label}</a></td></tr>}
+      {r.domain && <tr><th scope="row">Domain, as recorded</th><td>{r.domain}</td></tr>}
+      <tr><th scope="row">Contested questions</th><td>{(r.contested ?? []).length}</td></tr>
+      <tr><th scope="row">Stated as not known</th><td>{(r.notKnown ?? []).length}</td></tr>
+      <tr><th scope="row">Classical citations</th><td>{(r.classical ?? []).length}, {withText.length} quoting the text</td></tr>
+      <tr><th scope="row">Research papers assessed</th><td>{(r.modern ?? []).length}</td></tr>
+      {r.verifiedOn && <tr><th scope="row">Citations checked</th><td>{r.verifiedOn}</td></tr>}
+    </tbody>
+  </table>
+
+  {(r.contested ?? []).length > 0 && (
+    <>
+      <h2>What is contested, and by whom</h2>
+      <p>
+        These are the questions on which the sources genuinely disagree. Each position is given as
+        its source states it. No position is presented as the settled answer, because none of them
+        is.
+      </p>
+      {r.contested.map((c: any) => (
+        <div class="contested">
+          <h3>{c.question}</h3>
+          {/*
+            This line is here so the FAQPage answer below is visible text on the page, which is
+            what that markup requires. The answer it asserts is "This is contested." followed by
+            the positions, and both halves are now on the page in that order.
+          */}
+          <p class="contested-answer">This is contested.</p>
+          <ol class="positions">
+            {(c.positions ?? []).map((p: string) => <li>{p}</li>)}
+          </ol>
+        </div>
+      ))}
+    </>
+  )}
+
+  {(r.notKnown ?? []).length > 0 && (
+    <>
+      <h2>What is not known</h2>
+      <p>
+        Stated rather than left out. Where a negative has actually been searched for rather than
+        assumed, the entry says so.
+      </p>
+      <ul class="notknown">
+        {r.notKnown.map((x: any) => <li>{typeof x === 'string' ? x : (x.question ?? JSON.stringify(x))}</li>)}
+      </ul>
+    </>
+  )}
+
+  {(r.components ?? []).length > 0 && (
+    <>
+      <h2>The terms this concept is built from</h2>
+      <p>
+        Each is a technical term in its own right. Where this site holds a lexicon entry for one,
+        it is linked.
+      </p>
+      <div class="table-scroll">
+        <table>
+          <thead><tr><th>Term</th><th>What it names</th></tr></thead>
+          <tbody>
+            {r.components.map((c: any) => (
+              <tr>
+                <td class="term">
+                  {c.lexicon ? <a href={rel(`/lexicon/${c.lexicon}/`)}>{c.term}</a> : c.term}
+                </td>
+                <td>{c.gloss}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </>
+  )}
+
+  {(r.classical ?? []).length > 0 && (
+    <>
+      <h2>The classical passages</h2>
+      <p>
+        Each citation gives its address so a reader can check it in a printed edition, our account
+        of what it establishes, and the result of reading it against its source.
+      </p>
+      {r.classical.map((c: any) => (
+        <div class="citation">
+          <p class="cite-head">
+            <cite>{c.text}</cite>{address(c) && <> {address(c)}</>}
+            {c.checked && <> · <span class="verdict">{c.checked}</span></>}
+          </p>
+          {c.sanskrit && <blockquote class="deva"><p>{c.sanskrit}</p><footer>Sanskrit <i>mūla</i></footer></blockquote>}
+          {c.translation && (
+            <blockquote>
+              <p>{c.translation}</p>
+              <footer>{c.translator ? <>tr. {c.translator}</> : 'translation'}</footer>
+            </blockquote>
+          )}
+          {c.quote && (
+            <blockquote>
+              <p>{c.quote}</p>
+              <footer>{c.translator ? <>tr. {c.translator}</> : <>Sanskrit <i>mūla</i></>}</footer>
+            </blockquote>
+          )}
+          {c.withheld && (
+            <p class="withheld"><strong>Quotation withheld:</strong> {c.withheld}.
+              {c.sourceUrl && <> The passage is at <a href={c.sourceUrl} rel="noopener">this address</a>.</>}
+            </p>
+          )}
+          {c.partWithheld && <p class="withheld">The English rendering is not reproduced: {c.partWithheld}.</p>}
+          {c.establishes && <p class="establishes">{c.establishes}</p>}
+          {c.sourceUrl && !c.withheld && <p class="src"><a href={c.sourceUrl} rel="noopener">source</a></p>}
+        </div>
+      ))}
+    </>
+  )}
+
+  {(r.modern ?? []).length > 0 && (
+    <>
+      <h2>What the research actually shows</h2>
+      <p>
+        Every paper located for this concept, with what it measured and what it does and does not
+        establish. The assessment is ours.
+      </p>
+      {r.modern.map((m: any) => (
+        <div class="paper">
+          <p class="cite-head">
+            {m.title ?? 'Untitled'}
+            {m.journal && <> · <em>{m.journal}</em></>}
+            {m.year && <> · {m.year}</>}
+            {m.pmid && <> · PMID <a href={`https://pubmed.ncbi.nlm.nih.gov/${m.pmid}/`} rel="noopener">{m.pmid}</a></>}
+            {!m.pmid && m.doi && <> · <a href={`https://doi.org/${m.doi}`} rel="noopener">doi:{m.doi}</a></>}
+            {m.design && <> · {m.design}</>}
+            {m.n && <> · n = {m.n}</>}
+          </p>
+          {m.establishes && <p class="establishes">{m.establishes}</p>}
+          {m.quality && <p class="quality"><strong>How much it shows.</strong> {m.quality}</p>}
+          {m.quote && <blockquote><p>{m.quote}</p></blockquote>}
+        </div>
+      ))}
+    </>
+  )}
+
+  {(r.openQuestions ?? []).length > 0 && (
+    <>
+      <h2>Open questions on this record</h2>
+      <p>Recorded rather than resolved: what this entry cannot currently settle.</p>
+      <ul>
+        {r.openQuestions.map((q: any) => <li>{typeof q === 'string' ? q : (q.question ?? JSON.stringify(q))}</li>)}
+      </ul>
+    </>
+  )}
+
+  <h2>How to cite this entry</h2>
+  <p>
+    Age Ayurveda Nighantu, <q>{r.title}</q>, <a href={rel(canonical)}>{abs(canonical)}</a>,
+    CC BY 4.0. The whole set is downloadable from the <a href={rel('/concept/')}>concept index</a>.
+  </p>
+  <p class="disclaimer">
+    Educational reference only. This page describes what a body of theory claims and how well it is
+    evidenced. Nothing here is advice, and nothing here describes how any condition should be
+    treated.
+  </p>
+</Page>
+
+<style>
+  .contested { margin: 1.3rem 0; }
+  .contested h3 { margin: 0 0 .4rem; font-size: 1.1rem; }
+  .contested-answer { margin: 0 0 .4rem; font-weight: 600; font-size: .95rem; }
+  .positions { margin: 0; padding-left: 1.3rem; display: flex; flex-direction: column; gap: .5rem; }
+  .positions li { font-size: .96rem; }
+  .notknown li { margin-bottom: .55rem; font-size: .96rem; }
+  .table-scroll { overflow-x: auto; margin: 1.2rem 0; }
+  .table-scroll th, .table-scroll td { text-align: left; padding: .45rem .7rem; border-top: 1px solid var(--rule); vertical-align: top; font-size: .93rem; }
+  .table-scroll td.term { font-weight: 600; white-space: nowrap; }
+  .citation, .paper { margin: 1.4rem 0; }
+  .cite-head { margin: 0 0 .3rem; font-size: .92rem; color: var(--ink-soft); }
+  .cite-head cite { font-style: normal; font-weight: 600; color: var(--ink); }
+  .verdict { font-variant: small-caps; }
+  blockquote { margin: .3rem 0 .5rem; padding-left: .9rem; border-left: 3px solid var(--rule); }
+  blockquote p { margin: 0 0 .25rem; }
+  blockquote footer { font-size: .85rem; color: var(--ink-soft); }
+  blockquote.deva p { font-size: 1.02em; }
+  .withheld { font-size: .92rem; background: var(--surface-2, #f4f6f8); padding: .5rem .7rem; border-radius: 3px; }
+  .establishes { margin: .3rem 0 0; font-size: .95rem; }
+  .quality { margin: .35rem 0 0; font-size: .92rem; color: var(--ink-soft); }
+  .src { margin: .2rem 0 0; font-size: .85rem; }
+</style>

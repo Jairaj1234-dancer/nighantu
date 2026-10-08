@@ -100,6 +100,7 @@ const RECORD_URL = {
   // entry off the same slug the route is built from, so there is nothing to infer here.
   composition: (r) => r.page ?? null,
   lexicon: (r) => r.page ?? null,
+  concepts: (r) => r.page ?? null,
   compounds: () => '/compounds/',
   chemistry: () => '/compounds/',
   /**

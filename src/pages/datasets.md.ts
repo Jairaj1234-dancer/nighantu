@@ -6,6 +6,7 @@ import { abs } from '../lib/site';
 import compounds from '../data/compounds.json';
 import compositionSummary from '../data/composition-summary.json';
 import lexicon from '../data/lexicon.json';
+import conceptsData from '../data/concepts.json';
 import dravyaguna from '../data/dravyaguna.json';
 import research from '../data/research.json';
 import taxonomy from '../data/taxonomy.json';
@@ -16,6 +17,7 @@ export const GET: APIRoute = async () => {
   const taxa = ((taxonomy as any).taxa ?? []).length;
   const comp = compositionSummary as any;
   const lex = (lexicon as any).summary;
+  const con = (conceptsData as any).summary;
 
   const body = [
     '# Open Ayurvedic Datasets',
@@ -28,6 +30,11 @@ export const GET: APIRoute = async () => {
     'says so rather than dropping the caveat.',
     '',
     '## Available datasets',
+    '',
+    `- **Contested questions in Ayurvedic theory**: ${n(con.contestedQuestions)} questions on which the classical sources genuinely disagree, across ${n(con.records)} concepts, with ${n(con.attributedPositions)} positions given as their sources state them and none presented as the settled answer. Plus ${n(con.notKnownStatements)} statements of what is not established, ${n(con.classicalCitations)} classical citations and ${n(con.researchItems)} research papers assessed.`,
+    `  - JSON: ${abs('/concepts.json')}`,
+    `  - CSV: ${abs('/concepts.csv')} (one row per attributed position)`,
+    `  - Browse: ${abs('/concept/')}`,
     '',
     `- **Ayurvedic terminology lexicon**: ${n(lex.records)} technical terms and ${n(lex.renderings)} English renderings, each with its source and our assessment of whether it holds. ${n(lex.quotesPublished)} classical quotations, every one checked against its source. Renderings from NoDerivs-licensed sources are on the pages and not in this download.`,
     `  - JSON: ${abs('/lexicon.json')}`,

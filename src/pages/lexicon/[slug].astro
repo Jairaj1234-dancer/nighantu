@@ -15,7 +15,9 @@
  */
 import Page from '../../layouts/Page.astro';
 import lexicon from '../../data/lexicon.json';
+import conceptsData from '../../data/concepts.json';
 import { abs, rel } from '../../lib/site';
+import { conceptLinksFor } from '../../lib/concept-links';
 
 export function getStaticPaths() {
   return ((lexicon as any).records as any[]).map((r) => ({ params: { slug: r.slug }, props: { r } }));
@@ -54,6 +56,14 @@ const description = first
 const canonical = `/lexicon/${r.slug}/`;
 
 const address = (c: any) => [c.sthana, [c.chapter, c.verse].filter(Boolean).join(':')].filter(Boolean).join(' ');
+
+/**
+ * The concept records that are about this term, and those that merely use it. See
+ * src/lib/concept-links.ts for why the two are kept apart and how each is established.
+ */
+const termSlugs = new Set(((lexicon as any).records as any[]).map((x) => x.slug));
+const { subject: subjectConcepts, components: usedInConcepts } =
+  conceptLinksFor(r.slug, (conceptsData as any).records as any[], termSlugs);
 
 const jsonld = [
   {
@@ -164,13 +174,49 @@ const jsonld = [
           )}
           {!c.quote && c.quoteWithheld && (
             <p class="withheld">
-              <strong>Quotation withheld.</strong> {c.quoteWithheld}.
+              <strong>Quotation withheld:</strong> {c.quoteWithheld}.
               {c.sourceUrl && <> The passage is at <a href={c.sourceUrl} rel="noopener">this address</a>.</>}
             </p>
           )}
           {c.establishes && <p class="establishes">{c.establishes}</p>}
         </div>
       ))}
+    </>
+  )}
+
+  {subjectConcepts.length > 0 && (
+    <>
+      <h2>The concept record for this term</h2>
+      <p>
+        A term entry answers what the word means. It does not answer whether the thing the word
+        names is settled, and often it is not. That is what the concept record is for: it sets out
+        the questions on which the sources disagree about this term, with each position attributed,
+        and states what is not established.
+      </p>
+      <ul>
+        {subjectConcepts.map((u) => (
+          <li><a href={rel(`/concept/${u.slug}/`)}>{u.title}</a></li>
+        ))}
+      </ul>
+    </>
+  )}
+
+  {usedInConcepts.length > 0 && (
+    <>
+      <h2>Where this term does work in the theory</h2>
+      <p>
+        {usedInConcepts.length === 1
+          ? 'One concept record names this term as one of its components, and glosses it there as follows.'
+          : `${usedInConcepts.length} concept records name this term as one of their components. Each gloss is that record's own.`}
+      </p>
+      <dl class="distinguish">
+        {usedInConcepts.map((u) => (
+          <>
+            <dt><a href={rel(`/concept/${u.slug}/`)}>{u.title}</a>{u.term !== name && <> <span class="as">as {u.term}</span></>}</dt>
+            <dd>{u.gloss}</dd>
+          </>
+        ))}
+      </dl>
     </>
   )}
 
@@ -240,4 +286,5 @@ const jsonld = [
   .establishes { margin: .3rem 0 0; font-size: .95rem; }
   .distinguish dt { font-weight: 600; margin-top: .7rem; }
   .distinguish dd { margin: .15rem 0 0; font-size: .95rem; }
+  .distinguish dt .as { font-weight: 400; color: var(--ink-soft); font-size: .88em; }
 </style>

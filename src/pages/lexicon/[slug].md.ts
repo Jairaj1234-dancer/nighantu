@@ -7,7 +7,9 @@
  */
 import type { APIRoute } from 'astro';
 import lexicon from '../../data/lexicon.json';
+import conceptsData from '../../data/concepts.json';
 import { abs } from '../../lib/site';
+import { conceptLinksFor } from '../../lib/concept-links';
 
 export function getStaticPaths() {
   return ((lexicon as any).records as any[]).map((r) => ({ params: { slug: r.slug }, props: { r } }));
@@ -78,11 +80,38 @@ export const GET: APIRoute = ({ props }) => {
         out.push(`> ${String(c.quote).replace(/\n/g, '\n> ')}`, '',
           `${c.translator ? `tr. ${c.translator}` : 'Sanskrit mūla'}${c.sourceUrl ? ` · ${c.sourceUrl}` : ''}`, '');
       } else if (c.quoteWithheld) {
-        out.push(`**Quotation withheld.** ${c.quoteWithheld}.`
+        out.push(`**Quotation withheld:** ${c.quoteWithheld}.`
           + `${c.sourceUrl ? ` The passage is at ${c.sourceUrl}` : ''}`, '');
       }
       if (c.establishes) out.push(c.establishes, '');
     }
+  }
+
+  // See src/lib/concept-links.ts: a record ABOUT this term, versus one that merely uses it.
+  const termSlugs = new Set(((lexicon as any).records as any[]).map((x: any) => x.slug));
+  const { subject: subjectConcepts, components: usedInConcepts } =
+    conceptLinksFor(r.slug, (conceptsData as any).records as any[], termSlugs);
+
+  if (subjectConcepts.length) {
+    out.push('## The concept record for this term', '',
+      'A term entry answers what the word means. It does not answer whether the thing the word',
+      'names is settled, and often it is not. That is what the concept record is for: it sets out',
+      'the questions on which the sources disagree about this term, with each position attributed,',
+      'and states what is not established.', '');
+    for (const u of subjectConcepts) out.push(`- [${u.title}](${abs(`/concept/${u.slug}/`)})`);
+    out.push('');
+  }
+
+  if (usedInConcepts.length) {
+    out.push('## Where this term does work in the theory', '',
+      usedInConcepts.length === 1
+        ? 'One concept record names this term as one of its components, and glosses it there as follows.'
+        : `${usedInConcepts.length} concept records name this term as one of their components. Each gloss is that record's own.`, '');
+    for (const u of usedInConcepts) {
+      out.push(`- **[${u.title}](${abs(`/concept/${u.slug}/`)})**`
+        + `${u.term !== name ? ` (as ${u.term})` : ''}: ${u.gloss ?? ''}`);
+    }
+    out.push('');
   }
 
   if ((r.distinguishFrom ?? []).length) {
