@@ -1,0 +1,11 @@
+{
+  "note": "Freshness record for public/parquet/composition.parquet. The parquet file is committed rather than built in CI, so scripts/check-parquet.mjs compares this against src/data/composition.json on every build and fails if they have parted.",
+  "builtFrom": "src/data/composition.json",
+  "sourceSha256": "5f43c05b1cef4fb385044007847a8e682c3bee146e4222acddded78eea14ce6c",
+  "rows": 1985,
+  "formulations": 101,
+  "rowsWithAParsedQuantity": 1917,
+  "rowsIllegibleInScan": 31,
+  "rowsStatingAQuantity": 1928,
+  "rowsWhoseUnitTheScanLost": 27
+}

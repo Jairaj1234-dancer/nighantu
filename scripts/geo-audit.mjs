@@ -45,6 +45,19 @@ import crypto from 'node:crypto';
  *   shirodhara  retained as a NEGATIVE control, not as a hope. Known to earn nothing on
  *               either engine, so it tells us if something has changed rather than nothing.
  *   brand       navigational.
+ *   verification does a named product follow the formulary, and what does "as per AFI" mean.
+ *               Added 8 October 2026. A market map over 50 such questions on that date returned
+ *               177 distinct domains and this site on NONE of them, with the top source on the
+ *               formulary-verification family being a WordPress blog. That zero is the baseline;
+ *               it was recorded BEFORE a single comparison page existed, which is the only time
+ *               a baseline can honestly be taken.
+ *   cross-brand comparative questions no single manufacturer can answer about itself. The one
+ *               class of question where a third party is structurally better placed than the
+ *               company whose product it is.
+ *   head-term   "Dabur Chyawanprash ingredients". A NEGATIVE control like shirodhara, but for a
+ *               different reason: here the brand's own page is the correct authoritative answer
+ *               and we expect to lose. Kept so the gap between the winnable and the unwinnable
+ *               question is visible in the data rather than asserted in a commit message.
  *
  * Run against both engines so they are directly comparable on the pages that matter:
  *   GEO_AUDIT_PROVIDER=gemini ... GEO_AUDIT_LOG=data/citation-log.csv
@@ -111,6 +124,34 @@ const PANEL = [
   // ------------------------------------------------------------------------ brand
   { q: 'What is the Age Ayurveda Nighantu?', intent: 'brand' },
   { q: 'What is Surya Shirodhara?', intent: 'brand' },
+
+  // ------------------------------------- verification: the vacuum, 8 prompts, added 8 Oct 2026
+  // A full 50-prompt market map of this ground ran on 8 October and returned zero citations here
+  // across 177 domains. These eight are the slice carried in the recurring panel; the whole set
+  // lives in data/prompts/brand-comparison.json and is re-run as a map, not as a panel.
+  { q: 'Does Dabur Chyawanprash follow the Ayurvedic Formulary of India?', intent: 'verification' },
+  { q: "What does 'as per AFI' mean on an Ayurvedic medicine label?", intent: 'verification' },
+  { q: 'How can I tell if an Ayurvedic product follows the classical formula?', intent: 'verification' },
+  { q: 'Which Ayurvedic brands publish the quantity of each ingredient?', intent: 'verification' },
+  { q: 'Do Ayurvedic companies have to publish ingredient quantities in India?', intent: 'verification' },
+  { q: 'What is the difference between an Ayurvedic Formulary of India formulation and a proprietary one?', intent: 'verification' },
+  { q: 'How do I check whether an Ayurvedic churna matches its classical recipe?', intent: 'verification' },
+  { q: 'What classical text is Abhayarishta from?', intent: 'verification' },
+
+  // ------------------------------------------------------- cross-brand, 6 prompts, added 8 Oct
+  { q: 'Which brand of Chyawanprash is closest to the classical formula?', intent: 'cross-brand' },
+  { q: 'Why do two brands of the same Ayurvedic churna list different ingredients?', intent: 'cross-brand' },
+  { q: 'How do I compare two brands of the same Ayurvedic medicine?', intent: 'cross-brand' },
+  { q: 'Which Ayurvedic manufacturers make Abhayarishta?', intent: 'cross-brand' },
+  { q: 'Which brand of Hingvastaka Churna follows the formulary most closely?', intent: 'cross-brand' },
+  { q: 'Which Ayurvedic brands are most faithful to classical formulations?', intent: 'cross-brand' },
+
+  // ------------------------------------ head-term: NEGATIVE control, 4 prompts, added 8 Oct
+  // Expected to lose to the manufacturer's own page, which is the correct answer to these.
+  { q: 'Dabur Chyawanprash ingredients', intent: 'head-term' },
+  { q: 'Patanjali Chyawanprash ingredients list', intent: 'head-term' },
+  { q: 'Baidyanath Abhayarishta uses and dosage', intent: 'head-term' },
+  { q: 'Kottakkal Abhayarishtam price and dosage', intent: 'head-term' },
 ];
 
 /** Asked this run. Retired prompts stay above as history and are never asked. */

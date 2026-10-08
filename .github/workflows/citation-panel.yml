@@ -82,16 +82,18 @@ jobs:
           # seconds. Unpaced, the run trips the limit two thirds of the way through and the
           # rest of the panel records quota errors instead of answers.
           GEO_AUDIT_PACE_MS: '6000'
-        # 49 prompts asked three times each is 147 requests, about 25 minutes at this pace.
-        # The timeout has been raised twice as the panel grew: once when repetition took a run
-        # from 54 requests to 171, then to 207 with the trade prompts, and back to 147 when the
-        # panel was rebuilt on 5 October 2026. The figure here has been wrong after every one of
-        # those changes, which is why the panel size is now stamped into the log itself. Headroom
-        # matters more than precision here, because a run killed two thirds of the way through
-        # commits a partial log that reads as a real collapse in citations rather than as a
-        # truncated job. The script aborts as soon as a DAILY allowance is refused rather than
-        # backing off through it, so a run that cannot proceed ends in seconds either way.
-        timeout-minutes: 60
+        # 67 prompts asked three times each is 201 requests, about 35 minutes at this pace, after
+        # the brand-comparison intents were added on 8 October 2026.
+        #
+        # This figure has been wrong after every single panel change: 54 requests, then 171 when
+        # repetition came in, then 207 with the trade prompts, then 147 at the 5 October rebuild,
+        # now 201. That is why the panel's size and identity are stamped into the log itself
+        # rather than tracked here. Headroom matters more than precision: a run killed two thirds
+        # of the way through commits a partial log that reads as a real collapse in citations
+        # rather than as a truncated job. The script aborts as soon as a DAILY allowance is
+        # refused rather than backing off through it, so a run that cannot proceed ends in
+        # seconds either way.
+        timeout-minutes: 75
         # --resume skips prompts already answered in the last week, so a free-tier key that
         # allows about twenty grounded requests a day can finish the panel across sittings
         # instead of re-asking the same opening prompts every time and never reaching the end.

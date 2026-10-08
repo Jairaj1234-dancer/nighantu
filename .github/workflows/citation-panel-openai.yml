@@ -66,12 +66,15 @@ jobs:
           # No documented free allowance here, unlike Gemini. A 69-prompt run at three asks is
           # 147 searched requests; the ceiling is the backstop against a loop, since billing is
           # capped at Rs 500 a month across everything.
-          GEO_AUDIT_MAX_REQUESTS: '190'
+          # 67 prompts at three asks each is 201 requests. This was 190, sized on a panel that
+          # no longer exists, so a full run would have been cut eleven requests short and the
+          # truncation would have landed in the log as a drop in citations.
+          GEO_AUDIT_MAX_REQUESTS: '260'
           GEO_AUDIT_PACE_MS: '3000'
         # 147 requests at this pace is roughly 18 minutes. Headroom over that, because a run
         # killed part way through commits a partial log that reads as a collapse rather than as
         # a truncated job.
-        timeout-minutes: 50
+        timeout-minutes: 70
         run: node scripts/geo-audit.mjs --resume 7
 
       # Runs even on failure: rows are appended as they are produced, so a partial run still

@@ -30,6 +30,8 @@ export const GET: APIRoute = async () => {
     `- **Classical formulation compositions**: ${n(comp.ingredientRows)} ingredient rows across ${n(comp.formulations)} formulations as printed in the Ayurvedic Formulary of India, ${n(comp.rowsWithQuantity)} of them with the quantity the formulary states, each with the plant part and the formulary entry number it came from.`,
     `  - JSON: ${abs('/composition.json')}`,
     `  - CSV: ${abs('/composition.csv')}`,
+    `  - Parquet: ${abs('/parquet/composition.parquet')}`,
+    `  - Browse: ${abs('/afi/')}`,
     '',
     `- **Dravyaguna properties**: ${n((dravyaguna as any).summary.entries)} monographs with rasa, guna, virya, vipaka and prabhava.`,
     `  - JSON: ${abs('/dravyaguna.json')}`,
