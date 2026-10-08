@@ -68,7 +68,7 @@ Bhaishajya Ratnavali, Madatyaya Adhikara (chapter on intoxication/alcoholism). A
 
 **Dosage Forms:** Arishta/Asava (fermented liquid), Syrup (modern adaptation)
 
-**Standard Dosage:** 15-30ml with equal water
+**Standard Dosage:** 12 to 24 ml with equal water, as given in the Ayurvedic Formulary of India, Part I, entry 1:35. This replaces a previously stated 15-30ml, which carried no source. The formulary attributes this formula to Bhaisajyaratnavali, Madatyayadhikara; 24-264. (Devanagari line: भैषज्यरत्नावली, मदात्ययाधिकारः 24-26.
 
 **Bioavailability:** Self-generated alcohol enhances extraction and absorption of both water-soluble and fat-soluble compounds; fermentation produces bioactive metabolites not present in raw herbs
 

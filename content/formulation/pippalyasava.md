@@ -67,7 +67,7 @@ Classical Ayurvedic texts under Sandhana Kalpana (fermented preparations). Refer
 
 **Dosage Forms:** Arishta/Asava (fermented liquid), Syrup (modern adaptation)
 
-**Standard Dosage:** 15-30ml with equal water
+**Standard Dosage:** 12 to 24 ml with equal water, as given in the Ayurvedic Formulary of India, Part I, entry 1:22. This replaces a previously stated 15-30ml, which carried no source. The formulary attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 10; 28-32.
 
 **Bioavailability:** Self-generated alcohol enhances extraction and absorption of both water-soluble and fat-soluble compounds; fermentation produces bioactive metabolites not present in raw herbs
 

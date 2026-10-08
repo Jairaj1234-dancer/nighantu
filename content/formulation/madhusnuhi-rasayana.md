@@ -69,7 +69,7 @@ Sahasrayogam (under Lehya Kalpana); 15th-16th century texts describe it as maste
 
 **Dosage Forms:** Rasayana (rejuvenative confection)
 
-**Standard Dosage:** 6-12g twice daily
+**Standard Dosage:** 12 g twice daily, as given in the Ayurvedic Formulary of India, Part I, entry 3:19. This replaces a previously stated 6-12g, which carried no source. The formulary attributes this formula to Sahasrayoga, Lehaprakarana; 41.
 
 **Bioavailability:** Confection base with jaggery aids sustained absorption
 

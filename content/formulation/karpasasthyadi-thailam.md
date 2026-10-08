@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Karpasasthy
 
 **Dosage Forms:** Thailam (medicated oil for external use), Internal use variant, Capsules (modern)
 
-**Standard Dosage:** External: sufficient for Abhyanga/local massage. Internal: 5-10 mL with warm milk as directed. The Ayurvedic Formulary of India gives a dose of 12 g and attributes this formula to Sahasrayoga, Tailaprakarana, 11.
+**Standard Dosage:** External: sufficient for Abhyanga/local massage. Internal: 5-10 mL with warm milk as directed. The Ayurvedic Formulary of India, Part I, entry 8:6 states a dose of 12 g; that is a different unit from the figure above and the two cannot be compared without knowing the preparation's density or tablet mass. The formulary's anupana: warm water, milk. The formulary attributes this formula to Sahasrayoga, Tailaprakarana, 11.
 
 **Bioavailability:** Identical to [Karpas-Asthyadi-Thailam](/formulation/karpas-asthyadi-thailam/). Oil-based transdermal delivery with enhanced penetration from milk-processed [phospholipids](/glossary/compounds-o-q/#phospholipids).
 

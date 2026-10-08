@@ -68,7 +68,7 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 
 **Dosage Forms:** [Guggulu](/formulation/guggulu/) (resinous pill/tablet), Modern compressed tablet, Capsule (modern)
 
-**Standard Dosage:** 250-500 mg twice or thrice daily with warm water. The Ayurvedic Formulary of India gives a dose of 3 g and attributes this formula to Bhaisajyaratnavali, Vataraktadhikara; 97-101.
+**Standard Dosage:** 250-500 mg twice or thrice daily with warm water. The Ayurvedic Formulary of India, Part I, entry 5:2 states a dose of 3 g; that is a different unit from the figure above and the two cannot be compared without knowing the preparation's density or tablet mass. The formulary's anupana: Mudga yusa,milk,sugandhijala. The formulary attributes this formula to Bhaisajyaratnavali, Vataraktadhikara; 97-101.
 
 **Bioavailability:** [Guggulu](/formulation/guggulu/) resin acts as yogavahi — enhances delivery of anti-inflammatory compounds to joints and blood. Piperine from [Trikatu](/herb/trikatu/) significantly enhances absorption of [berberine](/glossary/compounds-a-c/#berberine) and guggulsterones. Multi-herb synergy provides broad anti-inflammatory action with high tissue bioavailability.
 

@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Ashoka-Gh
 
 **Dosage Forms:** [Ghrita](/herb/ghrita/) (medicated ghee), Soft gelatin capsules (modern)
 
-**Standard Dosage:** 6-12 g twice daily. The Ayurvedic Formulary of India gives a dose of 12 g and attributes this formula to Bhaisajyaratnavali, Strirogadhikara; 17 - 20.
+**Standard Dosage:** 12 g twice daily, as given in the Ayurvedic Formulary of India, Part I, entry 6:4. The formulary's anupana: warm water, warm milk. This replaces a previously stated 6-12 g, which carried no source. The formulary attributes this formula to Bhaisajyaratnavali, Strirogadhikara; 17 - 20.
 
 **Bioavailability:** Ghee matrix enhances absorption of lipophilic [flavonoids](/reference/flavonoids/) and [catechins](/glossary/compounds-c-d/#catechins) from [Ashoka](/herb/ashoka/) bark. Fat-soluble fraction crosses intestinal membrane more efficiently. Sustained release of uterotonic compounds over 4-6 hours.
 

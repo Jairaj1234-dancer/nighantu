@@ -78,7 +78,7 @@ Ashtanga Hrudayam Uttarasthana 6/26-33 ([Mahakalyanaka Ghritam](/glossary/concep
 
 **Dosage Forms:** [Ghrita](/herb/ghrita/) (medicated ghee), Soft gelatin capsules (modern)
 
-**Standard Dosage:** 6-12 g twice daily on empty stomach with warm water/milk. The Ayurvedic Formulary of India gives a dose of 12 g and attributes this formula to Astangahrdaya, Uttarasthana, Adhyaya 6; 26-28½.
+**Standard Dosage:** 12 g twice daily on empty stomach with warm water/milk, as given in the Ayurvedic Formulary of India, Part I, entry 6:7. The formulary's anupana: warm milk, warm water. This replaces a previously stated 6-12 g, which carried no source. The formulary attributes this formula to Astangahrdaya, Uttarasthana, Adhyaya 6; 26-28½.
 
 **Bioavailability:** Ghee base provides optimal vehicle for 30+ herbs with diverse solubility profiles. Lipid matrix enhances BBB penetration of Medhya ([nootropic](/glossary/pharmacology/#nootropic)) compounds. Multi-compound synergy provides broad-spectrum activity with individual compound bioavailability enhanced by ghee matrix.
 

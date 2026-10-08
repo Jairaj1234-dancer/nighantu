@@ -76,6 +76,43 @@ for (const file of fs.readdirSync(CONTENT).filter((f) => f.endsWith('.md'))) {
   const afiSource = rec?.classicalSource ?? null;
 
   /**
+   * FORM-AGNOSTIC CHECK FIRST, because chasing the wording does not work.
+   *
+   * This gate has now been blinded twice by content it polices. It was written against "as per
+   * Sahasrayogam", went silent when the fix replaced that with "The Ayurvedic Formulary of India
+   * ... attributes this formula to", was taught that sentence, and went half-blind again when the
+   * dose-column fix introduced "as given in the ... Part I, entry 20:4", "specifies 48 g of the
+   * kvatha curna" and "states a dose of 3 g". It reported 29 of 50 rewritten pages and a clean
+   * pass. A gate that only recognises the phrasings it was told about will keep failing this way,
+   * and silently.
+   *
+   * So the stable assertion is not a sentence shape: it is that a page for which we hold a
+   * formulary entry must NAME that entry in its dosage line. The entry number is the thing a
+   * reader follows to the book, it does not change when an editor rewords a sentence, and it is
+   * wrong in exactly the case worth catching.
+   */
+  /**
+   * Only where a formulary DOSE is held. A record can carry an entry number with no dose field,
+   * and those 50 pages were never rewritten to cite an entry because there was no figure to
+   * source; requiring it of them reported 50 contradictions that are nothing of the kind. The
+   * assertion is about pages whose dose figure now rests on the formulary.
+   */
+  if (rec?.entryNumber && rec?.dose) {
+    const names = doseLine.includes(`entry ${rec.entryNumber}`)
+      || doseLine.includes(rec.entryNumber);
+    if (!names) {
+      contradicted.push({
+        slug,
+        text: 'the AFI',
+        attribution: 'the dosage line does not name the formulary entry held for this formulation',
+        afiSource: rec.entryNumber,
+        afiNames: `entry ${rec.entryNumber} (${rec.entryHeading ?? '?'}) is held here but not cited on the page`,
+      });
+      continue;
+    }
+  }
+
+  /**
    * The corrected sentence form, which this gate must also police.
    *
    * After scripts/fix-dose-attributions.mjs ran, the pages no longer say "as per Sahasrayogam"

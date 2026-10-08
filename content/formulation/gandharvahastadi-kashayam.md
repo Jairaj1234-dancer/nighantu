@@ -67,7 +67,7 @@ Bhaishajya Ratnavali and Sharangadhara Samhita, classified under Vata-Kapha bala
 
 **Dosage Forms:** Kashayam (decoction), Kashayam tablet (modern), Concentrated liquid (modern)
 
-**Standard Dosage:** 15-30 mL or 2 tablets twice daily before meals. The Ayurvedic Formulary of India gives a dose of 48 g and attributes this formula to Sahasrayoga, kasayaprakarana; 394.
+**Standard Dosage:** 15-30 mL or 2 tablets twice daily before meals. The Ayurvedic Formulary of India, Part I, entry 4:5 specifies 48 g of the kvatha curna to prepare the decoction, which is a quantity of drug rather than a dose taken, so it is not comparable with the volume above. The formulary attributes this formula to Sahasrayoga, kasayaprakarana; 394.
 
 **Bioavailability:** Hot decoction provides rapid absorption. When administered with [Eranda](/herb/eranda/) Taila, lipid-mediated absorption is enhanced. Shunthi ([ginger](/herb/ginger/)) acts as bioenhancer for other constituents.
 

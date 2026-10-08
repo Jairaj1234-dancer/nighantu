@@ -66,7 +66,7 @@ Sahasrayogam (Taila Prakarana); also referenced in Ashtanga Hridayam. A signatur
 
 **Dosage Forms:** Thailam (medicated [sesame oil](/glossary/concepts-m-y/#tila-taila)), External application
 
-**Standard Dosage:** External massage for Vata/neurological conditions
+**Standard Dosage:** 6 to 12 g, as given in the Ayurvedic Formulary of India, Part I, entry 8:59. External massage for Vata/neurological conditions. The formulary attributes this formula to Astangahrdaya, Cikitsasthana, Adhyaya 21; 66 - 67½.
 
 **Bioavailability:** Oil base ([sesame oil](/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
 

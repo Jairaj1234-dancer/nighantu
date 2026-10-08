@@ -69,7 +69,7 @@ Bhaishajya Ratnavali (Agnimandya / Ajirna Rogadhikara). Also referenced in Yoga 
 
 **Dosage Forms:** Churna (fine powder), Capsules (modern), Tablets (modern)
 
-**Standard Dosage:** 1-3 g twice daily with first morsel of food or before meals. The Ayurvedic Formulary of India gives a dose of 1 to 2 g and attributes this formula to Bhaisajyaratnavali, Agnimandyadirogadhikara; 37.
+**Standard Dosage:** 1 to 2 g twice daily with first morsel of food or before meals, as given in the Ayurvedic Formulary of India, Part I, entry 7:37. The formulary's anupana: ghee. This replaces a previously stated 1-3 g, which carried no source. The formulary attributes this formula to Bhaisajyaratnavali, Agnimandyadirogadhikara; 37.
 
 **Bioavailability:** Identical to [Hingvashtak Churna](/formulation/hingvashtak-churna/). Rapid-acting carminative and digestive stimulant with high bioavailability of volatile oil components.
 

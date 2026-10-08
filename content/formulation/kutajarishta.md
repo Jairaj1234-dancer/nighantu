@@ -69,7 +69,7 @@ Charaka Samhita (Chikitsa Sthana) - Kutaja referenced for Pravahika (dysentery w
 
 **Dosage Forms:** Arishta/Asava (fermented liquid), Syrup (modern adaptation)
 
-**Standard Dosage:** 15-30ml with equal water after meals
+**Standard Dosage:** 12 to 24 ml with equal water after meals, as given in the Ayurvedic Formulary of India, Part I, entry 1:11. This replaces a previously stated 15-30ml, which carried no source. The formulary attributes this formula to Bhaisajyaratnavali, Atisaradhikara; 97-98½.
 
 **Bioavailability:** Self-generated alcohol enhances extraction and absorption of both water-soluble and fat-soluble compounds; fermentation produces bioactive metabolites not present in raw herbs
 

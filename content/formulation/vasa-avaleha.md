@@ -69,7 +69,7 @@ Charaka Samhita (2500 BCE/1000 BCE); Sushruta Samhita (500 BCE); various Nighant
 
 **Dosage Forms:** Avaleha (confection), Syrup
 
-**Standard Dosage:** 6-12g twice daily with honey
+**Standard Dosage:** 6-12g twice daily with honey, as given in the Ayurvedic Formulary of India, Part I, entry 3:26. The formulary's anupana: milk,water. The formulary attributes this formula to Bhaisajyaratnavali, Rajayaksmadhikara; 82-821.
 
 **Bioavailability:** Sugar-base matrix with honey provides sustained release of alkaloids
 

@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Hinguvachadi-Chur
 
 **Dosage Forms:** Churna (fine powder), Capsules (modern), Tablets (modern)
 
-**Standard Dosage:** 1-3 g twice daily before meals with warm water. The Ayurvedic Formulary of India gives a dose of 2 to 4 g and attributes this formula to Astangahrdaya, Cikitsasthana, Adhyaya 14; 31-32.
+**Standard Dosage:** 2 to 4 g twice daily before meals with warm water, as given in the Ayurvedic Formulary of India, Part I, entry 7:39. The formulary's anupana: warm water, butter milk. This replaces a previously stated 1-3 g, which carried no source. The formulary attributes this formula to Astangahrdaya, Cikitsasthana, Adhyaya 14; 31-32.
 
 **Bioavailability:** [Hingu](/herb/hingu/) volatile oils (ferulic acid esters) are rapidly absorbed and provide quick Vata-Kapha pacifying action. [Piperine](/reference/piperine/) from [Trikatu](/herb/trikatu/) enhances absorption. [Vacha](/herb/vacha/) (calamus) beta-asarone crosses BBB but must be within safety limits.
 

@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Eladi-Vati/meta-ana
 
 **Dosage Forms:** Vati (lozenge/tablet), Modern lozenges, Mouth-dissolving tablets (modern)
 
-**Standard Dosage:** 1-2 tablets to be sucked/chewed, 2-3 times daily. The Ayurvedic Formulary of India gives a dose of 2 to 4 g and attributes this formula to Bhaisajyaratnavali, Raktapittadhikara; 32-33.
+**Standard Dosage:** 2 to 4 g, as given in the Ayurvedic Formulary of India, Part I, entry 12:3. 1-2 tablets to be sucked/chewed, 2-3 times daily. The page's tablet count and this weight relate only through the mass of a tablet, which the formulary does not state. The formulary's anupana: honey. The formulary attributes this formula to Bhaisajyaratnavali, Raktapittadhikara; 32-33.
 
 **Bioavailability:** Buccal/sublingual route provides rapid absorption of volatile oils bypassing first-pass metabolism. Direct action on oropharyngeal mucosa. [Camphor](/herb/camphor/) and [menthol](/herb/menthol/) provide immediate sensory and therapeutic response. Onset of action within minutes.
 

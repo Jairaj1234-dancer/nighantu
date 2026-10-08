@@ -67,7 +67,7 @@ Bhavaprakasha Nighantu (16th century); composed of 42 medicinal plants in the st
 
 **Dosage Forms:** Churna (fine powder), Capsule, Tablet
 
-**Standard Dosage:** 3-6g with warm water for fever
+**Standard Dosage:** 2 to 4 g with warm water for fever, as given in the Ayurvedic Formulary of India, Part I, entry 7:35. The formulary's anupana: warm water. This replaces a previously stated 3-6g, which carried no source. The formulary attributes this formula to Bhaisajyaratnavali, Jvaradhikara; 308-312.
 
 **Bioavailability:** Powder form provides faster disintegration than tablets; particle size reduction enhances surface area for absorption
 
