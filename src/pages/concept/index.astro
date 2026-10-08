@@ -1,0 +1,224 @@
+---
+/**
+ * The concept index, which is really a question index.
+ *
+ * The 28 concept records hold 147 questions on which the Ayurvedic sources genuinely disagree, with
+ * 461 attributed positions between them, and 384 statements of what is not established. That is
+ * the citable asset here, not the 28 essays, and this page is built to put it in front of a reader
+ * and a crawler in one place.
+ *
+ * Why that ordering rather than a tidy list of concepts: the site's own measurement says a
+ * long-form guide earns nothing, while a precisely named thing with structured fact earns
+ * citations. A sourced disagreement is structured fact. "Is agni identical with pitta, or distinct
+ * from it?" is a real query with a real answer, and the answer is that the texts disagree.
+ */
+import Page from '../../layouts/Page.astro';
+import concepts from '../../data/concepts.json';
+import { abs, rel } from '../../lib/site';
+
+const data = concepts as any;
+const records = data.records as any[];
+const domains = data.domains as { id: string; label: string }[];
+const sum = data.summary;
+
+const title = 'Where Ayurvedic theory disagrees with itself';
+const description = `${sum.contestedQuestions} questions on which the classical Ayurvedic sources `
+  + `genuinely disagree, with ${sum.attributedPositions} positions given as their sources state them, `
+  + `across ${sum.records} concepts. Plus ${sum.notKnownStatements} statements of what is not known.`;
+const canonical = '/concept/';
+
+const n = (x: number) => x.toLocaleString('en-GB');
+
+/** Every contested question, with the concept it belongs to. */
+const questions = records.flatMap((r) => (r.contested ?? []).map((c: any) => ({
+  question: c.question,
+  positions: c.positions ?? [],
+  slug: r.slug,
+  concept: r.title,
+})));
+
+const byDomain = domains.map((d) => ({
+  ...d,
+  items: records.filter((r) => r.domainGroup === d.id).sort((a, b) => a.title.localeCompare(b.title)),
+}));
+const unplaced = records.filter((r) => !r.domainGroup);
+
+const jsonld: any[] = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'DefinedTermSet',
+    '@id': `${abs(canonical)}#set`,
+    name: 'Ayurvedic concepts',
+    description,
+    url: abs(canonical),
+    license: 'https://creativecommons.org/licenses/by/4.0/',
+    creator: { '@id': `${abs('/')}#organization` },
+    publisher: { '@id': `${abs('/')}#organization` },
+    hasDefinedTerm: records.map((r) => ({
+      '@type': 'DefinedTerm',
+      '@id': `${abs(`/concept/${r.slug}/`)}#concept`,
+      name: r.title,
+      url: abs(`/concept/${r.slug}/`),
+      inDefinedTermSet: { '@id': `${abs(canonical)}#set` },
+    })),
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Dataset',
+    '@id': `${abs(canonical)}#dataset`,
+    name: data.name,
+    description: data.description,
+    url: abs(canonical),
+    license: 'https://creativecommons.org/licenses/by/4.0/',
+    isAccessibleForFree: true,
+    creator: { '@id': `${abs('/')}#organization` },
+    publisher: { '@id': `${abs('/')}#organization` },
+    variableMeasured: ['concept', 'contested question', 'attributed position', 'what is not known', 'classical citation', 'research assessment'],
+    distribution: [
+      { '@type': 'DataDownload', name: 'JSON', encodingFormat: 'application/json', contentUrl: abs('/concepts.json') },
+      { '@type': 'DataDownload', name: 'CSV', encodingFormat: 'text/csv', contentUrl: abs('/concepts.csv') },
+    ],
+  },
+  /**
+   * The contested questions as an ItemList, NOT as an FAQPage, and the distinction matters.
+   *
+   * FAQPage requires the answer to be visible on the page carrying the markup. This index shows
+   * the questions and sends the reader to the concept that holds the answer; the positions
+   * themselves are on those pages, where each per-concept page emits its own FAQPage over its own
+   * visible content. Marking this page up as an FAQPage would have asserted 147 answers it does
+   * not display, and would have duplicated every one of them against the page that does.
+   *
+   * So this is what the page actually is: an ordered index of questions, each pointing at the
+   * page that answers it. The `item` is a Question with no acceptedAnswer, because the answer is
+   * at the url, not here.
+   */
+  {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    '@id': `${abs(canonical)}#questions`,
+    name: 'Contested questions in Ayurvedic theory',
+    description: `${sum.contestedQuestions} questions on which the classical Ayurvedic sources `
+      + 'disagree. Each is answered on the concept page it belongs to, by setting out the competing '
+      + 'positions as their sources state them rather than by picking one.',
+    numberOfItems: questions.length,
+    itemListOrder: 'https://schema.org/ItemListUnordered',
+    itemListElement: questions.map((q, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      url: abs(`/concept/${q.slug}/`),
+      item: {
+        '@type': 'Question',
+        name: q.question,
+        answerCount: q.positions.length,
+        url: abs(`/concept/${q.slug}/`),
+        isPartOf: { '@id': `${abs(`/concept/${q.slug}/`)}#concept` },
+      },
+    })),
+  },
+];
+---
+<Page title={title} description={description} canonical={canonical} jsonld={jsonld}>
+  <p class="answer">
+    Ayurvedic theory is usually written about as though it were settled. It is not. These
+    {n(sum.records)} concept records hold <strong>{n(sum.contestedQuestions)} questions on which the
+    sources genuinely disagree</strong>, with {n(sum.attributedPositions)} positions given as their
+    sources state them, and <strong>{n(sum.notKnownStatements)} statements of what is not
+    established</strong>. Where Charaka and Sushruta differ, this says so and says which is which.
+  </p>
+
+  <p class="lede">
+    No question below is answered with a pick. The answer to a contested question is the
+    disagreement, attributed. Where a concept has no established physical referent, the record says
+    that in those words rather than implying one.
+  </p>
+
+  <table class="facts">
+    <caption>What is here</caption>
+    <tbody>
+      <tr><th scope="row">Concepts</th><td>{n(sum.records)}{sum.recordsWithheld > 0 && <>, with {sum.recordsWithheld} withheld as not yet verified</>}</td></tr>
+      <tr><th scope="row">Contested questions</th><td>{n(sum.contestedQuestions)}</td></tr>
+      <tr><th scope="row">Attributed positions</th><td>{n(sum.attributedPositions)}</td></tr>
+      <tr><th scope="row">Stated as not known</th><td>{n(sum.notKnownStatements)}</td></tr>
+      <tr><th scope="row">Classical citations</th><td>{n(sum.classicalCitations)}, {n(sum.quotesPublished)} quoting the text</td></tr>
+      <tr><th scope="row">Research papers assessed</th><td>{n(sum.researchItems)}</td></tr>
+      <tr><th scope="row">Component terms</th><td>{n(sum.components)}, {n(sum.componentsLinkedToLexicon)} cross-linked to the <a href={rel('/lexicon/')}>terminology lexicon</a></td></tr>
+    </tbody>
+  </table>
+
+  <h2>Every contested question</h2>
+  <p>
+    Each links to the concept that holds it, where the competing positions are set out with their
+    sources.
+  </p>
+  {byDomain.filter((d) => d.items.length).map((d) => (
+    <>
+      <h3>{d.label}</h3>
+      <ul class="qlist">
+        {d.items.flatMap((r) => (r.contested ?? []).map((c: any) => (
+          <li>
+            <a href={rel(`/concept/${r.slug}/`)}>{c.question}</a>
+            <span class="in"> · {r.title}, {c.positions.length} positions</span>
+          </li>
+        )))}
+      </ul>
+    </>
+  ))}
+
+  <h2>The concepts themselves</h2>
+  <p>
+    Each page states how much weight the concept bears before it explains the concept, because that
+    is the thing a reader most needs and least often gets.
+  </p>
+  {byDomain.filter((d) => d.items.length).map((d) => (
+    <>
+      <h3>{d.label} <span class="count">{d.items.length}</span></h3>
+      <ul class="grid">
+        {d.items.map((r) => (
+          <li class="card">
+            <a href={rel(`/concept/${r.slug}/`)}>{r.title}</a>
+            <p>
+              <strong>{(r.contested ?? []).length}</strong> contested,
+              <strong> {(r.notKnown ?? []).length}</strong> stated unknown,
+              <strong> {(r.modern ?? []).length}</strong> papers assessed.
+            </p>
+          </li>
+        ))}
+      </ul>
+    </>
+  ))}
+  {unplaced.length > 0 && (
+    <>
+      <h3>Not yet placed in a subject area <span class="count">{unplaced.length}</span></h3>
+      <p class="qlist">
+        {unplaced.map((r, i) => (<>{i > 0 && ' · '}<a href={rel(`/concept/${r.slug}/`)}>{r.title}</a></>))}
+      </p>
+    </>
+  )}
+
+  <h2>What is withheld, and why</h2>
+  <p>
+    A concept publishes here only when every quoted classical citation in it has been read against
+    its source and carries a verdict, and no refutation against it is outstanding.
+    {sum.recordsWithheld > 0 && <> {sum.recordsWithheld} records are held back on that rule: three because a repair came back needing a human judgement, and one because part of its citation set has not been read yet.</>}
+    {' '}A quotation is withheld if it cannot be cleared for publication or if nobody has checked
+    it, and the citation still publishes its address and our account of it, because an address a
+    reader can follow to a library is most of the value.
+  </p>
+
+  <h2>Download</h2>
+  <p>
+    <a href={rel('/concepts.json')}>concepts.json</a> and
+    <a href={rel('/concepts.csv')}>concepts.csv</a>, CC BY 4.0. The JSON keeps the record
+    structure. The CSV is one row per attributed position, {n(sum.attributedPositions)} of them,
+    because the position is the atom: group the rows by question to get the per-question view back.
+  </p>
+
+  <p class="meta">Exported {data.updatedAt} from the concept corpus, so this cannot drift from it.</p>
+</Page>
+
+<style>
+  .qlist { list-style: none; margin: 0 0 1.4rem; padding: 0; }
+  .qlist li { margin-bottom: .5rem; font-size: .96rem; }
+  .qlist .in { color: var(--ink-soft); font-size: .86em; }
+  .count { color: var(--ink-soft); font-weight: 400; font-size: .8em; }
+</style>

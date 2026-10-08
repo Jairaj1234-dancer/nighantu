@@ -4,6 +4,7 @@ import { abs, rel } from '../lib/site';
 import compounds from '../data/compounds.json';
 import compositionSummary from '../data/composition-summary.json';
 import lexicon from '../data/lexicon.json';
+import conceptsData from '../data/concepts.json';
 import dravyaguna from '../data/dravyaguna.json';
 import research from '../data/research.json';
 import taxonomy from '../data/taxonomy.json';
@@ -24,8 +25,20 @@ const canonical = '/datasets/';
 
 const composition = compositionSummary as any;
 const lex = (lexicon as any).summary;
+const con = (conceptsData as any).summary;
 
 const datasets = [
+  {
+    id: 'concepts',
+    name: 'Contested Questions in Ayurvedic Theory',
+    description: `${n(con.contestedQuestions)} questions on which the classical Ayurvedic sources genuinely disagree, across ${n(con.records)} concepts, with ${n(con.attributedPositions)} competing positions given as their sources state them and no position presented as the settled answer. Plus ${n(con.notKnownStatements)} explicit statements of what is not established, ${n(con.classicalCitations)} classical citations of which ${n(con.quotesPublished)} quote the text, and ${n(con.researchItems)} research papers with what each does and does not show. A quotation nobody has read against its source is withheld with the reason stated and the address kept.`,
+    rowCount: `${n(con.attributedPositions)} attributed positions across ${n(con.contestedQuestions)} questions · ${n(con.notKnownStatements)} statements of what is not known`,
+    browse: '/concept/',
+    formats: [
+      { ext: 'JSON', path: '/concepts.json', mime: 'application/json' },
+      { ext: 'CSV', path: '/concepts.csv', mime: 'text/csv' }
+    ]
+  },
   {
     id: 'lexicon',
     name: 'Ayurvedic Terminology Lexicon',

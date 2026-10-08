@@ -56,6 +56,12 @@ jobs:
       # India lists appear on the pages and not in the CC BY 4.0 downloads. See LICENSES.md.
       - name: Generate the terminology lexicon dataset
         run: node scripts/lexicon-dataset.mjs
+      # src/data/concepts.json is likewise committed, exported from the same local-only repository.
+      # This step reshapes it and runs two refusals before writing: no quotation of a modern paper
+      # past sixty words, and no citation carrying both a withholding notice and the text it
+      # withholds. Generated, not committed, so it must run before the build.
+      - name: Generate the concept dataset
+        run: node scripts/concepts-dataset.mjs
       - name: Generate the constituent graph
         run: node scripts/compounds.mjs
       - name: Generate the reading-links dataset
