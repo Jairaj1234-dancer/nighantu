@@ -50,9 +50,12 @@ not reproduced. Which class a rendering belongs to is stamped on it as `licence`
 
 Two consequences worth stating plainly. A locator in the downloads is reduced to its identifier,
 because `ITA-9.8.7` is a pointer and the definition printed after it is not. And an `assessment` is
-this project's own critical prose, offered under CC BY 4.0, but where it quotes a source briefly in
-order to discuss it those quoted words stay under their own licence and are not granted here:
-quotation for comment is not a derivative work, and sub-licensing someone else's wording would be.
+this project's own critical prose, as are `distinguishFrom`, `mistranslations` and `openQuestions`.
+All four are offered under CC BY 4.0, but where any of them quotes a source briefly in order to
+discuss it those quoted words stay under their own licence and are not granted here: quotation for
+comment is not a derivative work, and sub-licensing someone else's wording would be. That is a
+claim, so it is checked: `scripts/lexicon-dataset.mjs` refuses to write the downloads if a
+twenty-word run of any NoDerivs or uncleared definition appears inside those fields.
 
 **WHO ICD-11 terms and titles are CC BY-ND 3.0 IGO**, not CC BY 4.0. The crosswalk at
 `/icd-tm2/` reproduces WHO's Ayurvedic index terms, codes and category titles unaltered,
