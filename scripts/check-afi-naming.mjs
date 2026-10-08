@@ -65,8 +65,24 @@ for (const [slug, rec] of Object.entries(records)) {
   }
 }
 
+/**
+ * A mismatch that has been looked at and decided is not an outstanding finding.
+ *
+ * This gate exists to surface a page showing another formulation's composition, and
+ * mahasudarshan-churna is the one case. It has since been examined and settled: the table stays,
+ * the page states the discrepancy where the claim is made, and the reasoning plus an explicit
+ * do-not-do list sit in `entryNameDecision` on the record. Continuing to report it as wanting a
+ * decision would be the review-queue failure this project has already had once, where a list of
+ * mostly-settled items taught the reader to skim it and the one live item went unfixed for two
+ * waves. So a decided case is reported as decided and the gate passes; an undecided one fails.
+ */
+const decided = mismatched.filter((x) => x.rec.entryNameDecision && x.rec.entryNameNote);
+const undecided = mismatched.filter((x) => !(x.rec.entryNameDecision && x.rec.entryNameNote));
+
 console.log(`records carrying a distinguishing prefix   ${mismatched.length + controls.length}`);
 console.log(`prefix absent from the AFI entry heading   ${mismatched.length}`);
+console.log(`  of those, examined and decided           ${decided.length}`);
+console.log(`  of those, still undecided                ${undecided.length}`);
 
 for (const x of mismatched) {
   console.log(`\n  ${x.slug}`);
@@ -79,14 +95,22 @@ if (controls.length) {
   for (const c of controls) console.log(`    ${c.slug} -> ${c.heading}`);
 }
 
+if (decided.length) {
+  console.log('\nDECIDED, carried deliberately:');
+  for (const d of decided) {
+    console.log(`  ${d.slug}: ${d.rec.entryNameDecision.decision}`);
+    console.log(`    decided ${d.rec.entryNameDecision.decidedOn}`);
+  }
+}
+
 if (!WRITE) {
-  console.log(`\n${mismatched.length ? 'FINDING' : 'PASS'}: ${mismatched.length} record(s) want a note or a decision.`);
-  console.log('Pass --write to stamp entryNameNote onto them.');
-  process.exit(0);
+  console.log(`\n${undecided.length ? 'FINDING' : 'PASS'}: ${undecided.length} record(s) want a note or a decision.`);
+  if (undecided.length) console.log('Pass --write to stamp entryNameNote onto them.');
+  process.exit(undecided.length ? 1 : 0);
 }
 
 let stamped = 0;
-for (const x of mismatched) {
+for (const x of undecided) {
   const note = `The formulary has no entry under the name of this page. Its entry ${x.entry} is `
     + `${x.heading}, and a search of the formulary text finds nothing under ${x.prefix}-. In `
     + `Ayurvedic naming a ${x.prefix}- prefix usually marks a different formulation rather than a `

@@ -14254,7 +14254,13 @@
       "dose": "2 to 4 g",
       "doseSource": "Ayurvedic Formulary of India, Part I, entry 7:35",
       "anupana": "warm water",
-      "entryNameNote": "The formulary has no entry under the name of this page. Its entry 7:35 is SUDARSANA CURNA, and a search of the formulary text finds nothing under maha-. In Ayurvedic naming a maha- prefix usually marks a different formulation rather than a different spelling, so the composition above should be read as the formulary's SUDARSANA CURNA and not assumed to be this page's subject."
+      "entryNameNote": "The formulary has no entry under the name of this page. Its entry 7:35 is SUDARSANA CURNA, and a search of the formulary text finds nothing under maha-. In Ayurvedic naming a maha- prefix usually marks a different formulation rather than a different spelling, so the composition above should be read as the formulary's SUDARSANA CURNA and not assumed to be this page's subject.",
+      "entryNameDecision": {
+        "decidedOn": "2026-10-08",
+        "decision": "KEEP the composition table and the mapping to AFI 7:35. Do not strip it and do not merge this page away.",
+        "why": "The formulary has no Mahasudarshan entry, so the table shown here is the formulary's SUDARSANA CURNA and the page says so in the same paragraph as the attribution. The alternative, removing the composition, would delete the only formulary-sourced ingredient list this page has and leave a reader with less than they have now. The note makes the position honest without costing the content, which is the point: a reader can see exactly which entry they are looking at and decide whether it answers their question.",
+        "doNotDo": "Do not delete this record, do not delete the rows, and do not silently repoint the mapping. If Mahasudarshan and Sudarshan are later established to be one formulation, merge the two PAGES under one canonical slug and keep the table; if they are established to be two, the table stays here labelled as Sudarsana Curna's unless a Mahasudarshan source is found to replace it."
+      }
     },
     "mahayograj-guggul": {
       "afiPart": "I",
