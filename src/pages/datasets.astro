@@ -29,9 +29,11 @@ const datasets = [
     name: 'Classical Formulation Composition Dataset',
     description: `The ingredient composition of ${n(composition.formulations)} classical formulations as printed in the Ayurvedic Formulary of India: ${n(composition.ingredientRows)} ingredient rows, ${n(composition.rowsWithQuantity)} of them carrying the quantity the formulary states, each with the plant part used and cited to its formulary part and entry number. A cell that was illegible in the scan is published as illegible rather than guessed, and ${n(composition.rowsWithAnOcrCorrection)} rows carry a correction flagged as the transcriber's rather than the book's.`,
     rowCount: `${n(composition.ingredientRows)} ingredient rows across ${n(composition.formulations)} formulations · ${n(composition.rowsIllegibleInScan)} cells illegible in the scan`,
+    browse: '/afi/',
     formats: [
       { ext: 'JSON', path: '/composition.json', mime: 'application/json' },
-      { ext: 'CSV', path: '/composition.csv', mime: 'text/csv' }
+      { ext: 'CSV', path: '/composition.csv', mime: 'text/csv' },
+      { ext: 'Parquet', path: '/parquet/composition.parquet', mime: 'application/vnd.apache.parquet' }
     ]
   },
   {
@@ -135,6 +137,9 @@ const jsonld = [
       <h3 style="margin-top: 0;">{d.name}</h3>
       <p>{d.description}</p>
       <p><strong>Coverage:</strong> {d.rowCount}</p>
+      {(d as any).browse && (
+        <p><strong>Browse it:</strong> <a href={rel((d as any).browse)}>{(d as any).browse}</a></p>
+      )}
       <div style="display: flex; gap: 0.75rem; align-items: center;">
         <strong>Direct Downloads:</strong>
         {d.formats.map((f) => (

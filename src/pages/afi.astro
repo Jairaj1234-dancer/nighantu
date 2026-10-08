@@ -1,0 +1,279 @@
+---
+/**
+ * Every formulary entry transcribed here, in one place.
+ *
+ * The compositions were already on 101 individual pages and published as a dataset, and there was
+ * no page that simply listed them. So the question "which formulations does the Ayurvedic
+ * Formulary of India contain, and what does each one specify" had no single answer here to cite,
+ * which is the shape of question this site is for.
+ *
+ * TWO THINGS THIS PAGE DELIBERATELY DOES NOT DO.
+ *
+ * It does not claim to be the formulary's own table of contents. 101 entries are transcribed and
+ * the book holds far more, so the coverage figure is stated rather than implied, and the heading
+ * says what is held here.
+ *
+ * It does not name the formulary's chapters. The entry numbers carry a chapter number, and
+ * guessing a title for each chapter from the entries that happen to be transcribed from it would
+ * be wrong: Part I chapter 12 and chapter 20 both hold vati entries here, so the chapter is not
+ * the dosage form. Entries are grouped instead by the preparation each entry's OWN name states,
+ * which is a property of the entry and is labelled as derived from the name.
+ */
+import Page from '../layouts/Page.astro';
+import composition from '../data/composition.json';
+import summary from '../data/composition-summary.json';
+import { abs, rel } from '../lib/site';
+
+const title = 'The Ayurvedic Formulary of India, entry by entry';
+const description = 'Every formulation transcribed from the Ayurvedic Formulary of India on this site, '
+  + 'with its formulary part and entry number, the classical text the formulary cites for it, its '
+  + 'ingredient count and whether quantities are stated.';
+const canonical = '/afi/';
+
+const sum = summary as any;
+const records = (composition as any).records ?? {};
+
+/**
+ * The preparation an entry's name states.
+ *
+ * Read off the entry's own name and nothing else. The order matters: `triphala-guggulu` has to be
+ * tested for guggulu before churna or the longer name would fall through to a form it is not, and
+ * `panchatikta-ghrita-guggulu` is a guggulu rather than a ghrita for the same reason.
+ */
+const FORMS: { id: string; label: string; gloss: string; test: RegExp }[] = [
+  { id: 'guggulu', label: 'Guggulu', gloss: 'pills bound with guggulu resin', test: /guggul/i },
+  { id: 'arishta', label: 'Asava and Arishta', gloss: 'fermented preparations', test: /arishta|arista|asava|asavam|yasava/i },
+  { id: 'taila', label: 'Taila', gloss: 'medicated oils', test: /taila|tailam|thailam/i },
+  { id: 'ghrita', label: 'Ghrita', gloss: 'medicated ghee', test: /ghrita|ghritam|ghrit/i },
+  { id: 'churna', label: 'Churna', gloss: 'powders', test: /churna|curna/i },
+  { id: 'kashaya', label: 'Kashaya and Kwatha', gloss: 'decoctions and decoction powders', test: /kashayam|kashaya|kwath|kvatha/i },
+  { id: 'vati', label: 'Vati and Gutika', gloss: 'pills and tablets', test: /vati|gutika|vatika/i },
+  { id: 'avaleha', label: 'Avaleha, Khanda and Rasayana', gloss: 'confections and rasayanas', test: /avaleha|leha|khanda|rasayana|prash/i },
+  { id: 'arka', label: 'Arka', gloss: 'distillates', test: /arka/i },
+];
+
+const formOf = (slug: string, heading: string) => {
+  const hay = `${slug} ${heading}`;
+  return FORMS.find((f) => f.test.test(hay)) ?? null;
+};
+
+type Entry = {
+  slug: string; part: string; chapter: string; number: string; heading: string;
+  classical: string | null; dose: string | null; ingredients: number; quantified: number;
+  illegible: number; note: string | null; form: string | null;
+};
+
+const entries: Entry[] = Object.entries(records).map(([slug, r]: [string, any]) => {
+  const rows = (r.rows ?? []).filter((x: any) => !x.structural);
+  const marked = (v: unknown) => /^\[illegible/i.test(String(v ?? ''));
+  const number = String(r.entryNumber ?? '');
+  return {
+    slug,
+    part: String(r.afiPart ?? ''),
+    chapter: number.split(':')[0] ?? '',
+    number,
+    heading: String(r.entryHeading ?? '').trim() || slug.replace(/-/g, ' '),
+    classical: r.classicalSource ?? null,
+    dose: r.dose ?? null,
+    ingredients: rows.length,
+    quantified: rows.filter((x: any) => x.quantity && !marked(x.quantity)).length,
+    illegible: rows.filter((x: any) => marked(x.quantity) || marked(x.part) || marked(x.name)).length,
+    note: r.entryNameNote ?? null,
+    form: formOf(slug, String(r.entryHeading ?? ''))?.id ?? null,
+  };
+});
+
+/** Part, then chapter as a number, then entry as a number: the order the book prints them in. */
+const entryKey = (e: Entry) => {
+  const [ch, no] = e.number.split(':');
+  return [e.part, Number.parseFloat(ch) || 0, Number.parseFloat(no) || 0] as const;
+};
+entries.sort((a, b) => {
+  const [pa, ca, na] = entryKey(a);
+  const [pb, cb, nb] = entryKey(b);
+  return pa.localeCompare(pb) || ca - cb || na - nb || a.slug.localeCompare(b.slug);
+});
+
+const parts = [...new Set(entries.map((e) => e.part))].sort();
+const byForm = FORMS
+  .map((f) => ({ ...f, items: entries.filter((e) => e.form === f.id) }))
+  .filter((f) => f.items.length);
+const unformed = entries.filter((e) => !e.form);
+const citing = entries.filter((e) => e.classical);
+const withDose = entries.filter((e) => e.dose);
+const fullyQuantified = entries.filter((e) => e.ingredients > 0 && e.quantified === e.ingredients);
+
+const jsonld = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    '@id': `${abs(canonical)}#entries`,
+    name: title,
+    description,
+    url: abs(canonical),
+    numberOfItems: entries.length,
+    itemListOrder: 'https://schema.org/ItemListOrderAscending',
+    itemListElement: entries.map((e, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: `${e.heading} (AFI ${e.part} ${e.number})`,
+      url: abs(`/formulation/${e.slug}/`),
+    })),
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Dataset',
+    '@id': `${abs(canonical)}#dataset`,
+    name: 'Formulary compositions',
+    description,
+    url: abs(canonical),
+    license: 'https://creativecommons.org/licenses/by/4.0/',
+    isAccessibleForFree: true,
+    inLanguage: 'en',
+    creator: { '@id': `${abs('/')}#organization` },
+    publisher: { '@id': `${abs('/')}#organization` },
+    variableMeasured: ['formulary part', 'entry number', 'ingredient', 'plant part', 'quantity', 'classical source', 'dose'],
+    distribution: [
+      { '@type': 'DataDownload', name: 'JSON', encodingFormat: 'application/json', contentUrl: abs('/composition.json') },
+      { '@type': 'DataDownload', name: 'CSV', encodingFormat: 'text/csv', contentUrl: abs('/composition.csv') },
+    ],
+  },
+];
+
+const n = (x: number) => x.toLocaleString('en-GB');
+---
+<Page title={title} description={description} canonical={canonical} jsonld={jsonld}>
+  <p class="answer">
+    The Ayurvedic Formulary of India is the Government of India's official formulary of classical
+    Ayurvedic preparations: for each entry it prints the ingredients, the part of each plant used,
+    the quantity of each, the method, the dose and the classical text the formula comes from. This
+    page lists the <strong>{n(entries.length)} entries transcribed on this site</strong>, each
+    linking to its full composition. The formulary itself contains more; what is held here is
+    stated below rather than implied.
+  </p>
+
+  <p class="lede">
+    Every figure was read off the page images of the book, row by row. A cell that was illegible in
+    the scan is published as illegible rather than guessed at, and a correction to the scan's own
+    text is marked as the transcriber's rather than the book's.
+  </p>
+
+  <table class="facts">
+    <caption>What is transcribed here</caption>
+    <tbody>
+      <tr><th scope="row">Entries</th><td>{n(entries.length)}, across {parts.length} formulary parts</td></tr>
+      <tr><th scope="row">Ingredient rows</th><td>{n(sum.ingredientRows)}</td></tr>
+      <tr><th scope="row">Rows with a stated quantity</th><td>{n(sum.rowsWithQuantity)}</td></tr>
+      <tr><th scope="row">Entries quantified throughout</th><td>{n(fullyQuantified.length)}</td></tr>
+      <tr><th scope="row">Entries naming a classical source</th><td>{n(citing.length)}</td></tr>
+      <tr><th scope="row">Entries with the formulary's own dose</th><td>{n(withDose.length)}</td></tr>
+      <tr><th scope="row">Cells illegible in the scan</th><td>{n(sum.rowsIllegibleInScan)}</td></tr>
+      <tr><th scope="row">Rows carrying a transcription correction</th><td>{n(sum.rowsWithAnOcrCorrection)}</td></tr>
+    </tbody>
+  </table>
+
+  <h2>How an entry number reads</h2>
+  <p>
+    An entry is cited as a part, a chapter and a number within that chapter. <code>I 1:1</code> is
+    Part I, chapter 1, first entry, which is Abhayarishta. That is the address to quote when
+    checking a label against the formulary, and it is the address every composition on this site
+    carries.
+  </p>
+  <p>
+    The chapter number is printed here as the book prints it and is not given a title. The chapters
+    group preparations by kind, but not cleanly enough to name from the entries transcribed here:
+    Part I chapters 12 and 20 both contribute vati entries to this set, so a title inferred from
+    these entries would be wrong. The grouping below is therefore taken from each entry's own
+    name, which is a fact about the entry.
+  </p>
+
+  <h2>By preparation, read from the entry's name</h2>
+  <p>
+    Derived from the name each entry carries, not from the formulary's chapter structure.
+    {unformed.length > 0 && (
+      <>{' '}{n(unformed.length)} {unformed.length === 1 ? 'entry whose name states no preparation is' : 'entries whose names state no preparation are'} listed
+      in the full table below and left out of these groups rather than assigned to a nearest fit.</>
+    )}
+  </p>
+  <ul class="grid">
+    {byForm.map((f) => (
+      <li class="card">
+        <strong>{f.label}</strong>
+        <p>{f.gloss}. <strong>{n(f.items.length)}</strong> {f.items.length === 1 ? 'entry' : 'entries'}.</p>
+        <p class="formlist">
+          {f.items.map((e, i) => (
+            <>{i > 0 && ', '}<a href={rel(`/formulation/${e.slug}/`)}>{e.heading}</a></>
+          ))}
+        </p>
+      </li>
+    ))}
+  </ul>
+
+  {parts.map((part) => (
+    <>
+      <h2>Part {part}</h2>
+      <div class="table-scroll">
+        <table>
+          <thead>
+            <tr>
+              <th>Entry</th>
+              <th>Formulation</th>
+              <th>Ingredients</th>
+              <th>Dose, as the formulary states it</th>
+              <th>Classical source the formulary cites</th>
+            </tr>
+          </thead>
+          <tbody>
+            {entries.filter((e) => e.part === part).map((e) => (
+              <tr>
+                <td class="num">{part} {e.number}</td>
+                <td>
+                  <a href={rel(`/formulation/${e.slug}/`)}>{e.heading}</a>
+                  {e.note && <><br /><em class="caveat">entry name differs from the product name</em></>}
+                </td>
+                <td class="num">
+                  {e.ingredients}
+                  {e.quantified < e.ingredients && <> <em class="caveat">({e.quantified} quantified)</em></>}
+                  {e.illegible > 0 && <> <em class="caveat">({e.illegible} illegible in the scan)</em></>}
+                </td>
+                <td>{e.dose ?? <em class="caveat">not stated in the entry</em>}</td>
+                <td>{e.classical ?? <em class="caveat">none printed</em>}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </>
+  ))}
+
+  <h2>The whole thing as data</h2>
+  <p>
+    Every row above, plus each ingredient with its plant part and quantity, is published as
+    <a href={rel('/composition.json')}>composition.json</a> and
+    <a href={rel('/composition.csv')}>composition.csv</a> under CC BY 4.0. The CSV is one row per
+    ingredient, which is the shape anyone checking a product label against the formulary wants.
+    Both are listed in the <a href={rel('/datasets/')}>dataset catalogue</a>.
+  </p>
+
+  <h2>Where the text came from</h2>
+  <p>
+    The Ayurvedic Formulary of India, Government of India, Ministry of AYUSH. Transcribed from the
+    scans at <a href="https://archive.org/details/b32232184" rel="noopener">archive.org/details/b32232184</a>
+    and <a href="https://archive.org/details/b32232172" rel="noopener">archive.org/details/b32232172</a>,
+    working from the page images rather than the optical character recognition, because the OCR of
+    these tables misreads digits often enough to be unusable for quantities.
+  </p>
+  <p class="disclaimer">
+    Educational reference only. A formulary entry states what a preparation is made of; it is not a
+    prescription, and the dose printed in the formulary is reported here as the formulary's figure
+    rather than offered as advice.
+  </p>
+</Page>
+
+<style>
+  .table-scroll { overflow-x: auto; margin: 1.5rem 0; }
+  .table-scroll th, .table-scroll td { text-align: left; padding: .4rem .7rem; border-top: 1px solid var(--rule); vertical-align: top; font-size: .93rem; }
+  .table-scroll td.num { font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .caveat { color: var(--ink-soft); font-size: .88em; font-style: italic; }
+  .formlist { font-size: .9rem; line-height: 1.7; }
+</style>
