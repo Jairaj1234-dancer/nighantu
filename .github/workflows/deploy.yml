@@ -90,6 +90,18 @@ jobs:
       - name: Crawlability and indexability
         run: node scripts/crawl-audit.mjs
 
+      # The dose figure is the most consequential claim on a formulation page and was, until
+      # 8 October, the least sourced: of 51 formulations where the Ayurvedic Formulary of India's
+      # own dose is held, three page figures matched it and none named a source. These two gates
+      # keep that from drifting back, and they are here rather than only on a developer's machine
+      # because a gate outside the pipeline is documentation.
+      - name: Dose provenance
+        run: node scripts/dose-provenance.mjs
+      # Catches a page showing an AFI entry for a DIFFERENT formulation than its own name, which
+      # mahasudarshan-churna was doing: the formulary carries Sudarsana Curna and no maha- entry.
+      - name: Formulary entry naming
+        run: node scripts/check-afi-naming.mjs
+
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

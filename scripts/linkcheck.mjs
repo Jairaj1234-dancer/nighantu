@@ -37,7 +37,26 @@ for (const file of html) {
   const src = fs.readFileSync(file, 'utf8');
   if (src.includes('[[') || /\]\]/.test(src)) artifacts++;
   for (const m of src.matchAll(/(?:href|src)="([^"]+)"/g)) {
-    const raw = m[1];
+    let raw = m[1];
+
+    /**
+     * An absolute link to our OWN origin is internal and must be checked.
+     *
+     * In-content links are emitted absolute by src/lib/rehype-base-links.mjs, so that a page
+     * copied onto someone else's domain still links back here instead of resolving against
+     * theirs. That is worth having, and it very nearly cost the gate: the external-link test
+     * below matches any URL scheme, so every one of those links would have been skipped and
+     * tens of thousands of internal links would have stopped being checked, silently, while
+     * this script went on reporting a pass.
+     *
+     * So the origin is stripped first and the link checked as the site-relative path it is.
+     * Anything pointing at another host is still external and still skipped.
+     */
+    const SELF = (process.env.ATLAS_SITE ?? 'https://nighantu.ageayurveda.com').replace(/\/$/, '');
+    if (raw.startsWith(`${SELF}/`) || raw === SELF) {
+      raw = raw.slice(SELF.length) || '/';
+    }
+
     if (/^(?:[a-z]+:|\/\/|#|mailto:|data:)/i.test(raw)) continue;
 
     let clean = raw.split('#')[0].split('?')[0];
