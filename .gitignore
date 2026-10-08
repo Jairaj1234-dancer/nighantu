@@ -31,3 +31,6 @@ data/runs/records3/
 data/runs/procedures/
 public/access.json
 sources-private/
+
+# The canary ledger proves which published records are ours. Private by definition.
+measurement/
