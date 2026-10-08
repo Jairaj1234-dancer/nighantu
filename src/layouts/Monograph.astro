@@ -37,7 +37,9 @@ const selfUrl = `${sectionHref}${d.slug}/`;
 const aliasOf = (duplicates as any).aliases?.[d.slug];
 const primaryUrl = aliasOf ? `${sectionHref}${aliasOf.primary}/` : '';
 const canonical = primaryUrl || selfUrl;
-const { published, modified } = pageDates(d.kind, d.slug);
+// entry.collection is the content directory, which is exactly how the ledger is keyed.
+// d.kind is the record's own label and does not always match: reference records say "hub".
+const { published, modified } = pageDates(entry.collection ?? d.kind, d.slug);
 
 const jsonld = {
   '@context': 'https://schema.org',

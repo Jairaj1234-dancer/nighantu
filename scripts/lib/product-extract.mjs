@@ -153,6 +153,17 @@ const COMPOSITION_LABELS = [
  * composition whose text was "About Us | button". A claim of absence is the whole point of this
  * exercise, so a false claim of PRESENCE is the error that quietly destroys the result.
  */
+/**
+ * Shop furniture: price, pack selector, rating, stock. Never part of a dose or a composition.
+ *
+ * Four dose fields came back as price text. One read "Sale price / 261 / Regular price 275 5% off
+ * / (4.9)", which is not a dose, and another began correctly with "Use 2-3 drops or as advised by
+ * the Vaidya" and then ran on into the pack selector because the block cap swept it up. A price
+ * published as a dose on a reference page is the kind of error that is worse than publishing
+ * nothing.
+ */
+const COMMERCE_LINE = /(?:^|\s)(?:sale\s+price|regular\s+price|mrp\b|\d+%\s*off|add\s+to\s+cart|buy\s+it\s+now|sold\s+out|in\s+stock|out\s+of\s+stock|pack\s+of\s+\d|\bsize\b|inclusive\s+of\s+all\s+taxes|₹|\bRs\.?\s*\d)/i;
+
 const NAV_LINE = new RegExp([
   'skip\\s+to\\s+(?:main\\s+)?content',
   'table\\s+of\\s+contents',
@@ -263,6 +274,8 @@ const blockAfter = (text, re, { maxLines = 40, maxChars = 4000, from = 0 } = {})
       const line = lines[j];
       if (!line.trim()) { blanks += 1; if (body.length && blanks >= 2) break; continue; }
       blanks = 0;
+      // Shop furniture ends the block rather than joining it.
+      if (COMMERCE_LINE.test(line)) { if (body.length) break; continue; }
       // Stop at the next section heading, which on these pages is a short line with no digits
       // and no comma, immediately after content has been collected.
       if (body.length >= 1 && line.length < 40 && !/[\d,]/.test(line) && /^[A-Z]/.test(line)) break;
@@ -518,7 +531,11 @@ export const extractProduct = (html, { minReadableChars = 600 } = {}) => {
       if (fields.dose) return { state: 'found', via: `json field "${fields.dose.field}"`, label: fields.dose.field, text: fields.dose.text };
       for (const re of DOSE_LABELS) {
         const d = blockAfter(haystack, re, { maxLines: 8, maxChars: 600 });
-        if (d) return { state: 'found', via: 'heading', label: d.label, text: d.text };
+        // A block with no instruction left in it once the shop furniture is gone was never a
+        // dose. The label matched something that happened to sit above a price.
+        if (d && d.text.split('\n').some((l) => l.trim() && !COMMERCE_LINE.test(l))) {
+          return { state: 'found', via: 'heading', label: d.label, text: d.text };
+        }
       }
       return { state: readable && !loadingShell ? 'absent' : 'unreadable', via: null, label: null, text: null };
     })(),

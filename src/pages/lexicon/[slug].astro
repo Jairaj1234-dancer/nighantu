@@ -27,10 +27,25 @@ const families = data.families as { id: string; label: string }[];
 const family = families.find((f) => f.id === r.family) ?? null;
 
 const name = r.iast ?? r.slug;
+
+/**
+ * Two records can share a transliteration and mean different things.
+ *
+ * `karma` is a padartha, one of the six categories of being, and `karma` is also a dravyaguna
+ * term for the action of a substance. Both records carry iast "karma" and Devanagari कर्म, so both
+ * pages took the identical title and competed with each other for the same query. A retrieval
+ * index presented with two identical titles picks one without asking which was meant.
+ *
+ * So where a transliteration is not unique, the family it is filed under disambiguates it. The
+ * page body already explains the sense; this is only about making the title say which page it is.
+ */
+const sharesName = (lexicon as any).records.filter((x: any) => (x.iast ?? x.slug) === name).length > 1;
+const qualifier = sharesName ? (family?.label ?? r.category ?? null) : null;
+const displayName = qualifier ? `${name} (${String(qualifier).toLowerCase().split(':')[0]})` : name;
 const first = r.renderings?.[0]?.english ?? null;
 const distinct = [...new Set((r.renderings ?? []).map((x: any) => String(x.english ?? '').toLowerCase().trim()).filter(Boolean))];
 
-const title = `${name}: what the term means and how it is translated`;
+const title = `${displayName}: what the term means and how it is translated`;
 const description = first
   ? `${name}${r.devanagari ? ` (${r.devanagari})` : ''} is rendered into English as "${first}"`
     + `${distinct.length > 1 ? ` and ${distinct.length - 1} other way${distinct.length > 2 ? 's' : ''}` : ''}. `

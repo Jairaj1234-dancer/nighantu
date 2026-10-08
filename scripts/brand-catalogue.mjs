@@ -61,6 +61,16 @@ export const UA = 'NighantuBot/1.0 (+https://nighantu.ageayurveda.com/about/)';
  * input to it, and belongs in the report rather than in a list of targets.
  */
 export const BRANDS = [
+  /**
+   * Our own store is FIRST and is measured by exactly the same instrument as everyone else.
+   *
+   * A survey of what other companies publish, run by a company that sells into the same category
+   * and exempted itself from the survey, would be worthless. So Age Ayurveda is a row like any
+   * other, its pages are read the same way, and whatever the measurement says about it is what
+   * gets published. It currently publishes no composition for its Chyawanprash, which is the same
+   * finding the survey records against several of the companies below.
+   */
+  { id: 'ageayurveda', name: 'Age Ayurveda', origin: 'https://ageayurveda.com', ours: true },
   { id: 'dabur', name: 'Dabur', origin: 'https://www.dabur.com' },
   { id: 'patanjali', name: 'Patanjali Ayurved', origin: 'https://www.patanjaliayurved.net' },
   { id: 'baidyanath', name: 'Baidyanath', origin: 'https://www.baidyanathayurved.com' },
