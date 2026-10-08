@@ -20,12 +20,21 @@
  *    contact URL in it, used consistently, so a site owner who wants to exclude us can.
  *  - It will not hammer a host: one request in flight per host and a delay between them.
  *
- *   node scripts/brand-catalogue.mjs --robots          # permission survey only, no product fetches
+ * TWO STAGES SO FAR. `--robots` surveys permission and stops. Without it, the survey runs and
+ * then discovery walks each permitted host's own sitemaps and matches product slugs against the
+ * formulations transcribed here, so a candidate is identified BEFORE any product page is read and
+ * no page is fetched on the chance that it might be relevant. Reading each candidate's label is
+ * the next stage and is not written yet.
+ *
+ *   node scripts/brand-catalogue.mjs --robots          # permission survey only, nothing fetched
  *   node scripts/brand-catalogue.mjs --robots --json   # same, machine-readable
+ *   node scripts/brand-catalogue.mjs                   # survey, then sitemap discovery
  */
 import fs from 'node:fs';
 import path from 'node:path';
 import { fetchRobots, groupFor, isAllowed } from './lib/robots.mjs';
+import { Fetcher, parseSitemap } from './lib/fetcher.mjs';
+import { buildMatcher } from './lib/formulation-names.mjs';
 
 const ROBOTS_ONLY = process.argv.includes('--robots');
 const AS_JSON = process.argv.includes('--json');
@@ -70,6 +79,7 @@ const PROBES = [
  *  answer engines has made a choice, and the choice is the finding. */
 const OTHER_AGENTS = ['Googlebot', 'bingbot', 'GPTBot', 'ClaudeBot', 'CCBot', 'PerplexityBot'];
 
+const pad = (s, n) => String(s).padEnd(n);
 const survey = [];
 
 for (const brand of BRANDS) {
@@ -110,7 +120,6 @@ if (AS_JSON) {
 }
 
 console.log(`agent  ${UA}\n`);
-const pad = (s, n) => String(s).padEnd(n);
 console.log(`${pad('brand', 16)}${pad('robots', 10)}${pad('us', 12)}${pad('catalogue', 11)}AI agents the file names`);
 for (const b of survey) {
   const us = b.robots.verdict === 'unknown' ? 'CLOSED' : (b.allowed['/'] ? 'allowed' : 'DISALLOWED');
@@ -135,4 +144,179 @@ if (ROBOTS_ONLY) {
   process.exit(0);
 }
 
-console.log('\nProduct collection is not implemented yet. Run with --robots.');
+// ---------------------------------------------------------------------------------------------
+// Discovery. Candidate product URLs come from each host's OWN sitemap and from nowhere else.
+// ---------------------------------------------------------------------------------------------
+
+/**
+ * The formulations to look for: every entry with a transcribed composition, under its page title
+ * and its aliases. All 101, not a hand-picked shortlist, because which of them a company actually
+ * sells is a finding and should not be assumed on the way in.
+ */
+const loadFormulations = () => {
+  const comp = JSON.parse(fs.readFileSync(path.join('src', 'data', 'composition.json'), 'utf8'));
+  const out = [];
+  for (const slug of Object.keys(comp.records ?? {})) {
+    const file = path.join('content', 'formulation', `${slug}.md`);
+    const names = new Set();
+    if (fs.existsSync(file)) {
+      const fm = fs.readFileSync(file, 'utf8');
+      const title = fm.match(/^title:\s*"([^"]+)"/m)?.[1];
+      if (title) names.add(title);
+      const aliases = fm.match(/^aliases:\s*(\[[^\]]*\])/m)?.[1];
+      if (aliases) { try { for (const a of JSON.parse(aliases)) names.add(a); } catch { /* ignore */ } }
+    }
+    // The slug is a name too, and sometimes the only one that carries the regional spelling.
+    names.add(slug.replace(/-/g, ' '));
+    out.push({ slug, names: [...names] });
+  }
+  return out;
+};
+
+const FORMULATIONS = loadFormulations();
+const matchName = buildMatcher(FORMULATIONS);
+
+/**
+ * What kind of page a URL is, from its path alone.
+ *
+ * This filter exists because the first discovery run matched 25 Dabur press releases and 41 blog
+ * posts: "akshay-kumar-new-face-dabur-chyawanprash" names the formulation and is a campaign
+ * announcement, not a product page, and a composition read off it would be a composition read off
+ * a press release. Editorial pages are counted and dropped, not silently skipped.
+ *
+ *   product    the page that carries the label: /products/x, /product/a/b/x, and Dabur's
+ *              /our-brand/x, which is where Dabur puts a product's ingredients
+ *   collection a category or listing page: real, but it holds no single product's composition
+ *   editorial  a blog post, press release, article or static page
+ */
+export const urlKind = (u) => {
+  const p = new URL(u).pathname.toLowerCase();
+  if (/(^|\/)(blogs?|blog-detail|press-releases?|news|articles?|media|stories|pages)(\/|$)/.test(p)) return 'editorial';
+  if (/~n\d+$/.test(p)) return 'editorial';
+  if (/(^|\/)(collections?|category|categories|shop)(\/|$)/.test(p)) return 'collection';
+  if (/(^|\/)(products?|our-brand|item)(\/|$)/.test(p)) return 'product';
+  return 'other';
+};
+
+/**
+ * Walk a host's sitemaps breadth-first and return every page URL found.
+ *
+ * Bounded three ways, because a sitemap index can point at hundreds of sitemaps and this is
+ * someone else's bandwidth: a cap on how many sitemap documents are read per host, a depth cap
+ * on nesting, and a refusal to leave the host. Whatever the caps cut is reported, not hidden.
+ */
+const walkSitemaps = async (fetcher, origin, { maxDocs = 40, maxDepth = 3 } = {}) => {
+  const host = new URL(origin).hostname.replace(/^www\./, '');
+  const seen = new Set();
+  const pages = new Set();
+  const notes = [];
+
+  // Seeds: the Sitemap: lines in robots.txt first, because that is where the host says to look,
+  // then the two conventional paths.
+  const seeds = [];
+  const rob = await fetchRobots(origin, UA);
+  if (rob.verdict === 'unknown') return { pages: [], docs: 0, notes: [`robots.txt unreadable: ${rob.note}`] };
+  const robTxt = await fetcher.get(`${origin}/robots.txt`);
+  for (const m of String(robTxt.body ?? '').matchAll(/^\s*sitemap:\s*(\S+)/gim)) seeds.push(m[1]);
+  seeds.push(`${origin}/sitemap.xml`, `${origin}/sitemap_index.xml`);
+
+  let queue = [...new Set(seeds)].map((u) => ({ url: u, depth: 0 }));
+  let docs = 0;
+
+  while (queue.length && docs < maxDocs) {
+    const { url, depth } = queue.shift();
+    if (seen.has(url)) continue;
+    seen.add(url);
+    let u;
+    try { u = new URL(url); } catch { continue; }
+    if (u.hostname.replace(/^www\./, '') !== host) { notes.push(`off-host sitemap not followed: ${url}`); continue; }
+    if (/\.gz$/i.test(u.pathname)) { notes.push(`gzipped sitemap not read: ${url}`); continue; }
+
+    const res = await fetcher.get(url);
+    docs += 1;
+    if (res.refused) { notes.push(`refused: ${url} (${res.refused})`); continue; }
+    if (!res.body || res.status !== 200) { notes.push(`${res.status ?? res.error}: ${url}`); continue; }
+    if (!/<(?:urlset|sitemapindex)/i.test(res.body)) { notes.push(`not a sitemap: ${url}`); continue; }
+
+    const { isIndex, locs } = parseSitemap(res.body);
+    if (isIndex) {
+      if (depth >= maxDepth) { notes.push(`depth cap reached at ${url}, ${locs.length} child sitemaps not read`); continue; }
+      // Catalogue sitemaps first: on a Shopify or WooCommerce host the product sitemap says so in
+      // its name, and reading it before the blog archive means the caps bite on the blog.
+      const ranked = locs.sort((a, b) => (/(product|collection|catalog|shop|item)/i.test(b) ? 1 : 0) - (/(product|collection|catalog|shop|item)/i.test(a) ? 1 : 0));
+      for (const l of ranked) queue.push({ url: l, depth: depth + 1 });
+    } else {
+      for (const l of locs) pages.add(l);
+    }
+  }
+  if (queue.length) notes.push(`document cap reached, ${queue.length} sitemaps not read`);
+  return { pages: [...pages], docs, notes };
+};
+
+console.log('\n--- discovery: candidate products from each host\'s own sitemap ---\n');
+
+const fetcher = new Fetcher({ ua: UA, cacheDir: path.join('data', 'brands', 'cache') });
+const discovery = [];
+
+for (const b of survey) {
+  if (b.robots.verdict === 'unknown' || !b.catalogueReadable) {
+    discovery.push({ ...b, skipped: 'robots.txt does not permit the catalogue', pages: 0, candidates: [] });
+    console.log(`${pad(b.id, 16)}skipped, ${b.robots.verdict === 'unknown' ? 'robots.txt unreadable' : 'catalogue disallowed'}`);
+    continue;
+  }
+  const { pages, docs, notes } = await walkSitemaps(fetcher, b.origin);
+  const candidates = [];
+  const dropped = [];
+  for (const url of pages) {
+    // Match on the URL's last NAME-BEARING path segment. A product's slug carries its name on
+    // every platform these hosts use, and matching the slug rather than the page's own title
+    // means a candidate is identified BEFORE it is fetched, so no page is fetched on the chance
+    // that it might be relevant.
+    //
+    // The segment is not always the last one. Patanjali's product URLs end in a numeric id
+    // (/product/.../patanjali-divya-triphala-churna/4345), and taking the last segment read 1,411
+    // of their product pages as the number 4345 and matched three of them. So a purely numeric
+    // tail is stepped over.
+    const segs = decodeURIComponent(new URL(url).pathname).split('/').filter(Boolean);
+    while (segs.length && /^\d+$/.test(segs[segs.length - 1])) segs.pop();
+    const seg = segs[segs.length - 1] ?? '';
+    const hits = matchName(seg);
+    if (!hits.length) continue;
+    const kind = urlKind(url);
+    for (const h of hits) {
+      const row = { url, slug: h.slug, matchedOn: seg, via: h.matched, kind };
+      if (kind === 'product') candidates.push(row); else dropped.push(row);
+    }
+  }
+  const distinct = new Set(candidates.map((c) => c.slug));
+  const droppedBy = {};
+  for (const d of dropped) droppedBy[d.kind] = (droppedBy[d.kind] ?? 0) + 1;
+  discovery.push({ ...b, pages: pages.length, sitemapDocs: docs, notes, candidates, droppedNonProduct: droppedBy });
+  const dropNote = Object.entries(droppedBy).map(([k, v]) => `${v} ${k}`).join(', ');
+  console.log(`${pad(b.id, 16)}${pad(`${pages.length} urls`, 12)}${pad(`${docs} sitemaps`, 13)}${pad(`${candidates.length} products / ${distinct.size} formulations`, 34)}${dropNote ? `dropped ${dropNote}` : ''}`);
+  for (const note of notes.slice(0, 3)) console.log(`${' '.repeat(16)}note: ${note}`);
+}
+
+const out = path.join('data', 'brands', 'discovery.json');
+fs.writeFileSync(out, `${JSON.stringify({
+  agent: UA,
+  discoveredOn: new Date().toLocaleDateString('en-CA'),
+  formulationsLookedFor: FORMULATIONS.length,
+  brands: discovery,
+}, null, 2)}\n`);
+
+const total = discovery.reduce((a, b) => a + (b.candidates?.length ?? 0), 0);
+const byFormulation = new Map();
+for (const b of discovery) for (const c of b.candidates ?? []) {
+  if (!byFormulation.has(c.slug)) byFormulation.set(c.slug, new Set());
+  byFormulation.get(c.slug).add(b.id);
+}
+const ranked = [...byFormulation.entries()].sort((a, b) => b[1].size - a[1].size);
+
+console.log(`\n${total} candidate product pages across ${byFormulation.size} of ${FORMULATIONS.length} formulations.`);
+console.log(`fetch stats: ${fetcher.stats.fetched} fetched, ${fetcher.stats.cached} from cache, ${fetcher.stats.refused} refused, ${fetcher.stats.failed} failed\n`);
+console.log('Formulations carried by the most companies, which are the ones a comparison can cover:');
+for (const [slug, brands] of ranked.slice(0, 30)) {
+  console.log(`  ${pad(slug, 30)}${brands.size}  ${[...brands].join(' ')}`);
+}
+console.log(`\nwrote ${out}`);
