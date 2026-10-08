@@ -8,7 +8,7 @@
  * most of these cases are about.
  */
 import assert from 'node:assert/strict';
-import { htmlToText, extractProduct, quantities, isPackSize, authorities, productNode } from '../lib/product-extract.mjs';
+import { htmlToText, extractProduct, quantities, isPackSize, isBasis, isDoseFigure, authorities, productNode } from '../lib/product-extract.mjs';
 
 let n = 0;
 const eq = (label, a, b) => { assert.equal(a, b, `${label}: got ${JSON.stringify(a)}, want ${JSON.stringify(b)}`); n += 1; };
@@ -104,13 +104,120 @@ eq('the json-ld description is searched too', d.composition.state, 'found');
 eq('and its quantities counted', d.quantityCount, 3);
 
 // A broken JSON-LD block must not take the page down with it.
-const broken = `<html><body>${filler}<script type="application/ld+json">{ not json</script><p>Ingredients: Haritaki.</p></body></html>`;
+const broken = `<html><body>${filler}<script type="application/ld+json">{ not json</script><p>Ingredients: Haritaki, Amalaki, Bibhitaki.</p></body></html>`;
 eq('a broken json-ld block is skipped', extractProduct(broken).composition.state, 'found');
 eq('and no product node is claimed', productNode(broken), null);
 
-// --- the cap that stops an unstructured page returning its whole body ---
-const sprawl = `<html><body><p>Contains</p>${'<p>line of prose that is not an ingredient</p>'.repeat(90)}</body></html>`;
-const e = extractProduct(sprawl);
-eq('the block is capped', e.composition.text.split('\n').length <= 40, true);
+// --- a heading is not enough: what follows has to read as a list ---
+// This is the error that would quietly destroy the result. "Skip to main content" carries the
+// word `content`, sits two lines into a Dabur page, and had three products recorded as
+// publishing a composition whose text was "About Us | button". A false claim of PRESENCE is
+// worse than a miss, because the finding being built is a claim of absence.
+const navTrap = `<html><head><title>Sitopaladi Churna</title></head><body>
+<p>Skip to main content</p><p>About Us</p><p>button</p>${filler}
+<h2>Benefits</h2><p>Traditionally taken for cough.</p></body></html>`;
+const nt = extractProduct(navTrap);
+eq('skip-to-main-content is not a composition', nt.composition.state, 'absent');
+eq('and nothing was claimed from it', nt.composition.text, null);
+
+// Prose that happens to follow the word is not a list either, and the fact that a heading
+// matched is recorded rather than silently dropped.
+const prose = `<html><body>${filler}<h3>Ingredients</h3>
+<p>This formulation comes from a classical recipe and has been made the same way for decades.</p>
+</body></html>`;
+const pr = extractProduct(prose);
+eq('prose after the heading is not a composition', pr.composition.state, 'absent');
+ok('but the heading is recorded for review', pr.composition.labelSeenButNoList);
+
+// Repeated boilerplate has one distinct item however many lines it runs to.
+const sprawl = `<html><body>${filler}<p>Contains</p>${'<p>line of prose that is not an ingredient</p>'.repeat(90)}</body></html>`;
+eq('repeated boilerplate is not a list', extractProduct(sprawl).composition.state, 'absent');
+
+// --- the repeated-heading layout, where the word precedes EVERY ingredient ---
+// Reading only the first block returns one ingredient out of five and makes a page that does
+// name its ingredients look almost bare.
+const repeated = `<html><body>${filler}
+<h4>INGREDIENTS</h4><p>Amla</p><p>Richest source of Vitamin C and a classical rasayana drug.</p>
+<h4>INGREDIENTS</h4><p>Bilva</p><p>Valued for its root, fruit and leaves.</p>
+<h4>INGREDIENTS</h4><p>Brahmi</p><p>Recognised as an intellect promoter.</p>
+<h4>INGREDIENTS</h4><p>Pippali</p><p>Contains piperine.</p>
+<h4>INGREDIENTS</h4><p>Yashtimadhu</p><p>Considered strength promoting.</p>
+</body></html>`;
+const rp = extractProduct(repeated);
+eq('the repeated-heading layout is read', rp.composition.state, 'found');
+eq('and recorded as that layout', rp.composition.layout, 'repeated-heading');
+eq('all five ingredients, not one', rp.composition.text.split('\n').length, 5);
+ok('the last one is there', /Yashtimadhu/.test(rp.composition.text));
+eq('and no quantity is invented', rp.quantityCount, 0);
+
+// A real table still takes the ordinary path.
+eq('an ordinary table is a block, not a repeated heading', a.composition.layout, 'block');
+
+// The block cap still holds on a real list.
+const longList = `<html><body>${filler}<h3>Composition</h3>${Array.from({ length: 80 }, (_, i) => `<p>Dravya number ${i} 1.5 g</p>`).join('')}</body></html>`;
+eq('the block is capped', extractProduct(longList).composition.text.split('\n').length <= 40, true);
+
+// --- a framework payload: data shipped in the HTML but not rendered as HTML ---
+// Shree Dhootapapeshwar's pages are 72 KB of HTML rendering 73 characters of text, and the
+// composition, with a milligram figure for every ingredient, is in the React flight stream the
+// response already carried. Reading it needs no second request and no JavaScript.
+const flight = `<html><head><title>Aravindasava</title></head><body><div id="__next">Loading...</div>
+<script>self.__next_f.push([1,"{\\"product\\":{\\"name\\":\\"Aravindasava\\",\\"ingredients\\":\\"Each 10 ml contains extract derived from Kamala (Nelumbium speciosum) Fl., Ushira (Vetiveria zizanioides) Rt. each 16.293 mg, Draksha (Vitis vinifera) Fr. 325.866 mg, Dhataki (Woodfordia fruticosa) Fl. 260.692 mg and Sharkara 1629.328 mg.\\",\\"dosage\\":\\"3 - 12 ml twice a day or as directed by the Physician.\\",\\"indication\\":\\"Agnimandya as in Bhaishajya Ratnavali.\\"}}"])</script>
+</body></html>`;
+const fl = extractProduct(flight);
+eq('a framework payload is read, not called unreadable', fl.composition.state, 'found');
+eq('and attributed to the field the site named', fl.composition.via, 'json field "ingredients"');
+eq('the basis is separated from the ingredients', fl.basis, '10 ml');
+eq('four ingredient quantities, not five', fl.quantityCount, 4);
+eq('the dose comes from its own field', fl.dose.state, 'found');
+ok('and carries the figure', /3 - 12 ml/.test(fl.dose.text));
+eq('the classical source in the payload is seen', fl.authorities[0].id, 'classical');
+
+// Attribution is measured from the previous figure on the line, not from the start of it.
+const oneLine = quantities('Kamala Fl., Ushira Rt. each 16.293 mg, Draksha Fr. 325.866 mg, Dhataki Fl. 260.692 mg');
+eq('three figures on one line', oneLine.length, 3);
+eq('the second is attributed to Draksha alone', oneLine[1].attachedTo, 'Draksha Fr.');
+eq('the third to Dhataki alone', oneLine[2].attachedTo, 'Dhataki Fl.');
+
+// The basis figure is excluded, and a bare "each" is never an ingredient.
+eq('a basis figure is not an ingredient', isPackSize(quantities('Each 10 ml')[0]), true);
+eq('and is identified as the basis', isBasis(quantities('Each 10 ml')[0]), true);
+// "prepared from" introduces the list the same way "contains" does, so a figure hanging off it
+// is still the basis and not a component.
+eq('prepared from introduces, it does not compose', isBasis(quantities('Each 100 ml prepared from 50 ml')[1]), true);
+// A real ingredient after the basis is kept.
+const afterBasis = extractProduct(`<html><body>${filler}<h3>Each 100 ml prepared from</h3>
+<p>Water 1600 ml</p><p>Godugdha 200 ml</p><p>Haritaki 44.44 g</p></body></html>`);
+eq('ingredients after the basis are counted', afterBasis.quantityCount, 3);
+
+// An empty or null field is not a composition.
+const emptyField = `<html><body>${filler}<script>self.__next_f.push([1,"{\\"ingredients\\":\\"\\"}"])</script></body></html>`;
+eq('an empty ingredients field is not a composition', extractProduct(emptyField).composition.state, 'absent');
+
+// --- a prose heading is not a composition heading ---
+// "MODE OF ACTION: (X contains the following ingredients)" is seventy characters, so a length
+// test passed it, and the paragraph of pharmacology under it split on commas into short
+// fragments and validated as a list. Function-word counting separates a heading from a sentence.
+const modeOfAction = `<html><body>${filler}
+<h3>MODE OF ACTION: (Avipattikar Churna contains the following ingredients)</h3>
+<p>Amla acts as antioxidant, immunomodulatory, rejuvenating and anti-ageing property.</p>
+<p>Nisoth is useful in the management of constipation.</p>
+<p>Mustak supports healthy digestive system.</p></body></html>`;
+eq('a prose heading is rejected', extractProduct(modeOfAction).composition.state, 'absent');
+
+// A real heading with one function word still works.
+const realHeading = `<html><body>${filler}<h3>Each 100 ml prepared from</h3>
+<p>Water 1600 ml</p><p>Godugdha 200 ml</p><p>Haritaki 44.44 g</p></body></html>`;
+eq('a real heading with one function word is kept', extractProduct(realHeading).composition.state, 'found');
+
+// --- a dose printed inside the composition block is not an ingredient quantity ---
+const doseInBlock = `<html><body>${filler}<h3>Ingredients</h3>
+<p>Hing, Sontha, Mirch, Pipal, Ajowan, Saindhava namak.</p>
+<p>Dosage: 3 g twice a day</p></body></html>`;
+const dib = extractProduct(doseInBlock);
+eq('the ingredients are read', dib.composition.state, 'found');
+eq('and the dose figure is not counted as a quantity', dib.quantityCount, 0);
+eq('a dose figure is identified as one', isDoseFigure(quantities('Dosage: 3 g')[0]), true);
+eq('an ingredient figure is not', isDoseFigure(quantities('Haritaki 4.8 g')[0]), false);
 
 console.log(`PASS: ${n} product-extraction cases`);
