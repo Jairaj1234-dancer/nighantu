@@ -20,10 +20,18 @@ Last run: **2026-10-08**  ·  Site: https://nighantu.ageayurveda.com
 | Metric | Value |
 | --- | --- |
 | URLs tracked | 922 |
-| Last IndexNow submission | 2026-10-06 |
-| URLs in that submission | 109 |
+| Last IndexNow submission | 2026-10-08 |
+| URLs in that submission | 2 |
 
-_Bing Webmaster not configured. Add `BING_API_KEY` to enable._
+### Bing Webmaster
+
+| Metric | Value |
+| --- | --- |
+| Daily submission quota | 100 |
+| Quota remaining | 100 |
+| Impressions (last period) | 40 |
+| Clicks (last period) | 0 |
+| Checked | 2026-10-08 |
 
 ## Citation panel
 
