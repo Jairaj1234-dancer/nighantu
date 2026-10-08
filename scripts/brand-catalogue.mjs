@@ -376,6 +376,16 @@ if (!process.argv.includes('--discover')) {
   const doseFound = read.filter((p) => p.dose.state === 'found');
 
   console.log('');
+  // A host dropped for an unreadable robots.txt makes the whole dataset smaller, and a smaller
+  // dataset that does not announce itself is how a transient failure becomes a published number.
+  const dropped = survey.filter((b) => b.robots.verdict === 'unknown');
+  if (dropped.length) {
+    console.log('');
+    console.log(`WARNING: ${dropped.length} host(s) were skipped because robots.txt could not be read, so this`);
+    console.log('run covers less than the last one did. Re-run before using the result:');
+    for (const b of dropped) console.log(`  ${b.id}: ${b.robots.note}`);
+    console.log('');
+  }
   console.log(`read                       ${read.length} of ${products.length} candidate pages`);
   console.log(`name their ingredients     ${found.length}`);
   console.log(`state any quantity         ${withQty.length}`);

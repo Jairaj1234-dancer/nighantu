@@ -119,7 +119,21 @@ export function isAllowed(group, pathname, { defaultAllow = true } = {}) {
  * for us), `rules` (rules exist and were parsed), or `unknown` (the host would not tell us). A
  * caller must treat `unknown` as closed; see the note at the top of this file.
  */
-export async function fetchRobots(origin, ua, { timeoutMs = 15000 } = {}) {
+export async function fetchRobots(origin, ua, { timeoutMs = 15000, attempts = 3 } = {}) {
+  // Retried, because `unknown` is treated as disallowed and a single network blip therefore
+  // removes a whole host from the run. That happened once: a timeout on one robots.txt dropped
+  // 53 product pages out of the dataset, and the run reported a smaller result with no error.
+  // Closed-on-unknown is the right rule; reaching that verdict on one failed request is not.
+  let last = null;
+  for (let i = 0; i < attempts; i += 1) {
+    last = await fetchRobotsOnce(origin, ua, { timeoutMs });
+    if (last.verdict !== 'unknown') return last;
+    if (i < attempts - 1) await new Promise((r) => setTimeout(r, 800 * (i + 1)));
+  }
+  return { ...last, note: `${last.note} (after ${attempts} attempts)` };
+}
+
+async function fetchRobotsOnce(origin, ua, { timeoutMs }) {
   const url = `${origin.replace(/\/$/, '')}/robots.txt`;
   const ac = new AbortController();
   const timer = setTimeout(() => ac.abort(), timeoutMs);
