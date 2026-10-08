@@ -49,6 +49,34 @@ const ROBOTS_ONLY = process.argv.includes('--robots');
 const AS_JSON = process.argv.includes('--json');
 
 /**
+ * WAVE 2: the whole product range, not only the formulary names.
+ *
+ * Wave 1 identifies a candidate by matching the product's URL slug against the 101 formulary
+ * entries transcribed here, which is the right way to fetch nothing on the chance that it might
+ * be relevant. It also makes the resulting measurement a sample of one kind of product, and the
+ * disclosure comparison states figures like "a list on 48 of 53 pages" that read as facts about a
+ * company when they are facts about its classical range.
+ *
+ * Two things wave 2 answers that wave 1 structurally cannot:
+ *
+ *   1. Of EVERYTHING a company sells, how much does it document? A company may publish a full
+ *      composition for a classical arishta and nothing for its proprietary syrup, or the reverse,
+ *      and wave 1 cannot tell the difference.
+ *   2. How much does the slug matcher miss? A classical preparation whose URL spells its name a
+ *      way the matcher does not reach is invisible to wave 1 and uncounted. Reading the range and
+ *      matching on the page's own composition text measures the matcher's recall instead of
+ *      assuming it.
+ *
+ * This is thousands of pages belonging to other people, so the caps are tighter rather than
+ * looser: `--limit` bounds the pages read PER HOST, the per-host delay and Crawl-delay are
+ * unchanged, and whatever a cap cuts is reported rather than hidden. `--wave2 --discover` counts
+ * the population and fetches no product page at all.
+ */
+const WAVE2 = process.argv.includes('--wave2');
+const limitIdx = process.argv.indexOf('--limit');
+const PER_HOST_LIMIT = limitIdx > -1 ? Number(process.argv[limitIdx + 1]) : Infinity;
+
+/**
  * One agent string, honestly named, with somewhere to complain to. Not a browser string: a site
  * that wants to exclude this needs something to write in its robots.txt, and "Mozilla/5.0" gives
  * it nothing.
@@ -307,7 +335,24 @@ for (const b of survey) {
       if (kind === 'product') candidates.push(row); else dropped.push(row);
     }
   }
-  const distinct = new Set(candidates.map((c) => c.slug));
+  /**
+   * In wave 2 every product-kind URL is a candidate, whether or not its slug matched a formulary
+   * name. The slug match is kept on the rows that have one, because knowing which pages wave 1
+   * would also have found is what makes the two waves comparable.
+   */
+  if (WAVE2) {
+    const already = new Set(candidates.map((c) => c.url));
+    for (const url of pages) {
+      if (already.has(url)) continue;
+      if (urlKind(url) !== 'product') continue;
+      const segs = decodeURIComponent(new URL(url).pathname).split('/').filter(Boolean);
+      while (segs.length && /^\d+$/.test(segs[segs.length - 1])) segs.pop();
+      candidates.push({ url, slug: null, matchedOn: segs[segs.length - 1] ?? '', via: null, kind: 'product' });
+      already.add(url);
+    }
+  }
+
+  const distinct = new Set(candidates.map((c) => c.slug).filter(Boolean));
   const droppedBy = {};
   for (const d of dropped) droppedBy[d.kind] = (droppedBy[d.kind] ?? 0) + 1;
   discovery.push({ ...b, pages: pages.length, sitemapDocs: docs, notes, candidates, droppedNonProduct: droppedBy });
@@ -337,8 +382,18 @@ const products = [];
 if (!process.argv.includes('--discover')) {
   console.log('\n--- collection: reading each candidate product page ---\n');
   for (const b of discovery) {
-    const cands = b.candidates ?? [];
-    if (!cands.length) continue;
+    const all = b.candidates ?? [];
+    if (!all.length) continue;
+    /**
+     * The per-host cap, applied so that a formulary-name match is never the thing it cuts: those
+     * are what the published comparison rests on, and a wave-2 run that silently dropped some of
+     * them would move figures already on a page. Everything else follows in sitemap order.
+     */
+    const ranked = [...all].sort((x, y) => (y.slug ? 1 : 0) - (x.slug ? 1 : 0));
+    const cands = Number.isFinite(PER_HOST_LIMIT) ? ranked.slice(0, PER_HOST_LIMIT) : ranked;
+    if (cands.length < all.length) {
+      console.log(`${' '.repeat(16)}note: per-host limit cut ${all.length - cands.length} of ${all.length} pages, all of them unmatched by name`);
+    }
     // One record per (product URL, formulation), because a combo pack genuinely names two.
     for (const c of cands) {
       const res = await fetcher.get(c.url);
@@ -349,6 +404,7 @@ if (!process.argv.includes('--discover')) {
         brand: b.id,
         brandName: b.name,
         formulation: c.slug,
+        matchedByName: Boolean(c.slug),
         url: c.url,
         matchedOn: c.matchedOn,
         outcome: 'read',
@@ -367,11 +423,23 @@ if (!process.argv.includes('--discover')) {
     console.log(`${pad(b.id, 16)}${pad(`${read.length} read`, 10)}${pad(`${found.length} with a composition`, 24)}${pad(`${withQty.length} with a quantity`, 22)}${unreadable.length ? `${unreadable.length} render client-side` : ''}`);
   }
 
-  const outP = path.join('data', 'brands', 'products.json');
+  /**
+   * Wave 2 writes its own file. products.json is what src/data/brand-disclosure.json was reduced
+   * from and what the published comparison's figures trace to, and a wave-2 run has a different
+   * population in it: overwriting would silently change the denominator of a number already on a
+   * public page naming other companies.
+   */
+  const outP = path.join('data', 'brands', WAVE2 ? 'products-wave2.json' : 'products.json');
   fs.writeFileSync(outP, `${JSON.stringify({
     agent: UA,
+    wave: WAVE2 ? 2 : 1,
+    perHostLimit: Number.isFinite(PER_HOST_LIMIT) ? PER_HOST_LIMIT : null,
     collectedOn: new Date().toLocaleDateString('en-CA'),
-    note: 'Facts about each page as it was served to this agent on the date recorded. A composition '
+    note: (WAVE2
+      ? 'Wave 2: every product-kind page on each permitted host, not only those whose slug matched '
+        + 'a formulary name. A record with a null `formulation` is one wave 1 would not have found. '
+      : '')
+      + 'Facts about each page as it was served to this agent on the date recorded. A composition '
       + 'state of "absent" means the page carried substantial readable text and no composition in it; '
       + '"unreadable" means the page carried almost no text, which on these sites means it renders '
       + 'client-side. The two are never merged, because only the first is a claim about the company.',
@@ -414,7 +482,8 @@ for (const b of discovery) for (const c of b.candidates ?? []) {
 }
 const ranked = [...byFormulation.entries()].sort((a, b) => b[1].size - a[1].size);
 
-console.log(`\n${total} candidate product pages across ${byFormulation.size} of ${FORMULATIONS.length} formulations.`);
+console.log(`\n${total} candidate product pages across ${byFormulation.size} of ${FORMULATIONS.length} formulations`
+  + (WAVE2 ? `, of which ${discovery.reduce((a, b) => a + (b.candidates ?? []).filter((c) => !c.slug).length, 0)} matched no formulary name.` : '.'));
 console.log(`fetch stats: ${fetcher.stats.fetched} fetched, ${fetcher.stats.cached} from cache, ${fetcher.stats.refused} refused, ${fetcher.stats.failed} failed\n`);
 console.log('Formulations carried by the most companies, which are the ones a comparison can cover:');
 for (const [slug, brands] of ranked.slice(0, 30)) {

@@ -3,24 +3,28 @@ title: "Which Ayurvedic manufacturers publish what is in the bottle"
 slug: "who-publishes-the-composition"
 kind: "choosing"
 order: 3
-description: "A classical Ayurvedic preparation has an official composition. Whether you can check a product against it depends entirely on which company made it. Measured on 210 product pages across seven companies."
-answer: "Classical Ayurvedic preparations have an official composition in the Ayurvedic Formulary of India, which fixes both the ingredients and their quantities. Whether you can check one against it depends on who made it. On 210 product pages read in October 2026, Patanjali Ayurved published an ingredient list on 48 of 53, Shree Dhootapapeshwar on 28 of 32, Baidyanath on 4 of 59 and Maharishi Ayurveda on 1 of 54. This measures disclosure, not quality."
+description: "A classical Ayurvedic preparation has an official composition. Whether you can check a product against it depends entirely on which company made it. Measured on 2,979 product pages across nine companies."
+answer: "Classical Ayurvedic preparations have an official composition in the Ayurvedic Formulary of India, which fixes both the ingredients and their quantities. Whether a manufacturer publishes enough for you to check one varies enormously. Across 2,979 product pages on nine companies, Shree Dhootapapeshwar named ingredients on 89% and Patanjali Ayurved on 54%, against 6% for Baidyanath and 1% for Charak Pharma. Quantities are rarer than lists. This measures disclosure, not quality."
 ownMeasurement: true
 grounding:
   - "The formulary compositions this page compares against are the transcriptions published on this site, each checked row by row against the Ayurvedic Formulary of India and cited to part and entry number."
   - "The per-company figures are counts of what each company's own product pages carried when this crawler read them on 8 October 2026, recorded in src/data/brand-disclosure.json with the page URL against every count. No figure published by any company is restated here."
   - "Every host's robots.txt was fetched and parsed before any product page, and a host that declined was not fetched. The permission result travels with each record."
+  - "Two populations are counted and kept apart: every product on each permitted host, and the subset sold under one of the 101 formulary names transcribed here. Each table says which it is."
 faq:
   - q: "Do Ayurvedic companies have to publish the ingredients of a classical preparation?"
-    a: "The label is regulated, and that is a different surface from the website. Nothing requires a manufacturer to publish the composition on its product page, and this measurement found that most of the pages read did not. It also found that two companies publish the full composition with a quantity against each ingredient, so it is clearly possible to do."
+    a: "The label is regulated, and that is a different surface from the website. Nothing requires a manufacturer to publish the composition on its product page, and 1,507 of the 2,979 pages read did not. It is clearly possible to do: one company named ingredients on 89% of its range and gave a quantity against each on 76%."
   - q: "Which Ayurvedic brand lists the most ingredient information online?"
-    a: "Of the seven companies whose pages could be read on 8 October 2026, Shree Dhootapapeshwar was the most consistent: every one of its 28 pages that carried an ingredient list also carried a quantity against each ingredient. Patanjali Ayurved published a list on the most pages in absolute terms, 48 of 53. Neither fact says anything about the quality of either company's products."
+    a: "Of the nine companies whose pages could be read on 8 October 2026, Shree Dhootapapeshwar published the most: an ingredient list on 243 of its 272 product pages and a quantity against each ingredient on 208 of them. Patanjali Ayurved published quantities on the most pages in absolute terms, 449. Neither fact says anything about the quality of either company's products."
   - q: "If a company publishes no ingredient list, is the product worse?"
     a: "No, and this page is careful not to imply it. Disclosure and quality are separate. A company that publishes nothing may make an excellent preparation and a company that publishes everything may not. What disclosure changes is whether you, or a pharmacist, or an answer engine, can check a product against the formulary entry it claims."
   - q: "Why can some Ayurvedic products not be found by AI assistants at all?"
     a: "Some manufacturers' robots.txt files decline AI crawlers. One of the twelve companies surveyed here declines every AI crawler tested while allowing Googlebot, which means no answer engine can read its product pages and therefore none can cite it for its own products. That is a choice each company makes, and it has the consequence that a third party becomes the only citable source about their catalogue."
   - q: "What does 'as per AFI' mean if the ingredients are not published?"
-    a: "It claims that the recipe and method are the formulary's. Without a published ingredient list there is nothing on the page to check that claim against, so it has to be taken on trust. The formulary entry itself is public, and this site publishes its transcription, so the comparison is available as soon as a manufacturer publishes its own side of it."
+    a: "It claims that the recipe and method are the formulary's. Without a published ingredient list there is nothing on the page to check that claim against, so it has to be taken on trust. It is worth knowing how seldom the claim is even made on a product page: 3 of the 2,979 pages read name the Ayurvedic Formulary of India, and 41 cite any authority at all."
+  - q: "Do Ayurvedic product pages say how much to take?"
+    a: "Far more often than they say what is in it. Of 2,979 pages read, 2,406 stated a dose and 1,472 named their ingredients. A reader is roughly 60% more likely to be told how much of something to take than what that something contains."
+
 ---
 
 <p class="disclaimer" style="margin-top:0">
@@ -45,11 +49,19 @@ This page measures whether they do.
 
 Every company's `robots.txt` was fetched and parsed first. Where it declined this crawler, nothing
 was fetched and the refusal was recorded. Where it allowed, the catalogue was enumerated from the
-sitemap and every product whose name matched one of the 101 formulary entries transcribed on this
-site was read once.
+company's own sitemap and each product page was read once, with a gap of at least a second and a
+half between requests to any one host and any stated `Crawl-delay` honoured.
 
-Each page then falls into one of three states, and the distinction between the second and the
-third is the whole point:
+**Two populations, counted separately, because they answer different questions.** The first is
+every product on each permitted host, classical and proprietary alike: 2,979 pages read of 2,993
+attempted. That is the figure that is a fact about a company. The second is the subset sold under
+one of the 101 formulary names transcribed on this site: 210 pages. That is the figure that bears
+on whether a product can be checked against the entry it claims, which is what this page is about.
+For most companies the two agree closely. For two of them they do not, and the tables below show
+both rather than picking one.
+
+Each page falls into one of four states, and the distinction between the second and the third is
+the whole point:
 
 - **Ingredients and quantities.** The page lists what is in the preparation and how much of each.
   This is the only state in which a reader can check the product against the formulary entry.
@@ -57,36 +69,63 @@ third is the whole point:
   whether an ingredient is present or absent; you cannot see whether the proportions are the
   formulary's.
 - **Neither.** The page carried substantial readable text and no ingredient list in it.
+- **Could not be read.** The page served almost no text, which means its content renders in the
+  browser rather than in the HTML. That is a fact about a company's stack and not about its
+  disclosure, so it is never merged into the one above. Ten pages on one host are in this state.
 
-A page that served almost no text would be a fourth state, because that means the content renders
-in the browser rather than in the HTML, which is a fact about a company's stack rather than about
-its disclosure. Nothing in this survey ended up there, and the two are kept apart in the data so
-that a later run cannot quietly merge them.
+Fourteen pages of the 2,993 could not be fetched at all: timeouts and failed connections across
+three hosts, none of them refusals. They are excluded from every count rather than counted as
+publishing nothing.
 
 <!-- BEGIN generated by scripts/brand-disclosure.mjs -->
 
-### What each company published, by company
+### Everything each company sells
+
+The whole product range on each host that permitted it, classical and proprietary alike.
+This is the figure that is a fact about the company.
 
 <div class="tablewrap wide-table">
 
-| Company | Product pages read | Ingredients and quantities | Ingredient list only | Neither |
-| --- | --- | --- | --- | --- |
-| Baidyanath | 59 | 0 | 4 | 55 |
-| Maharishi Ayurveda | 54 | 1 | 0 | 53 |
-| Patanjali Ayurved | 53 | 15 | 33 | 5 |
-| Shree Dhootapapeshwar | 32 | 28 | 0 | 4 |
-| Dabur | 8 | 0 | 4 | 4 |
-| Zandu | 3 | 1 | 2 | 0 |
-| Age Ayurveda (ours) | 1 | 0 | 0 | 1 |
+| Company | Product pages read | Ingredients and quantities | Ingredient list only | Neither | Could not be read |
+| --- | --- | --- | --- | --- | --- |
+| Patanjali Ayurved | 1394 | 449 | 301 | 644 | 0 |
+| Himalaya Wellness | 441 | 44 | 237 | 160 | 0 |
+| Shree Dhootapapeshwar | 272 | 208 | 35 | 19 | 10 |
+| Maharishi Ayurveda | 248 | 7 | 10 | 231 | 0 |
+| Baidyanath | 246 | 1 | 14 | 231 | 0 |
+| Zandu | 134 | 45 | 58 | 31 | 0 |
+| Charak Pharma | 113 | 0 | 1 | 112 | 0 |
+| Dabur | 102 | 1 | 57 | 44 | 0 |
+| Age Ayurveda (ours) | 29 | 3 | 1 | 25 | 0 |
 
 </div>
 
-Five further companies were surveyed and
+### Only the products sold under a formulary name
+
+The same companies, counting only products whose name is one of the 101 formulary entries
+transcribed on this site. This is the figure that bears on whether a product can be checked
+against the entry it claims, and for two companies it is markedly higher than the first table.
+
+<div class="tablewrap wide-table">
+
+| Company | Product pages read | Ingredients and quantities | Ingredient list only | Neither | Could not be read |
+| --- | --- | --- | --- | --- | --- |
+| Patanjali Ayurved | 53 | 15 | 33 | 5 | 0 |
+| Himalaya Wellness | none: sells nothing under a formulary name | | | | |
+| Shree Dhootapapeshwar | 32 | 28 | 0 | 4 | 0 |
+| Maharishi Ayurveda | 54 | 1 | 0 | 53 | 0 |
+| Baidyanath | 59 | 0 | 4 | 55 | 0 |
+| Zandu | 3 | 1 | 2 | 0 | 0 |
+| Charak Pharma | none: sells nothing under a formulary name | | | | |
+| Dabur | 8 | 0 | 4 | 4 | 0 |
+| Age Ayurveda (ours) | 1 | 0 | 0 | 1 | 0 |
+
+</div>
+
+Three further companies were surveyed and
 contributed no measured page. Each reason is itself a finding.
 
 - **Arya Vaidya Sala Kottakkal**: its robots.txt declines this crawler, and declines every AI crawler tested except Googlebot, so nothing was fetched.
-- **Charak Pharma**: its catalogue was readable and carried no product under any of the formulary names looked for.
-- **Himalaya Wellness**: its catalogue was readable and carried no product under any of the formulary names looked for.
 - **Unjha Pharmacy**: no readable sitemap was found, so its catalogue could not be enumerated.
 - **Vaidyaratnam Oushadhasala**: no readable sitemap was found, so its catalogue could not be enumerated.
 
@@ -136,6 +175,29 @@ state for that preparation, not that the preparation lacks the figure.
 
 <!-- END generated by scripts/brand-disclosure.mjs -->
 
+## What the whole range shows that the classical range does not
+
+**A product page is far likelier to tell you how much to take than what it is.** Of the 2,979
+pages read, **2,406 stated a dose** and **1,472 named their ingredients**. A reader is about 60%
+more likely to be told how much of something to take than what that something contains.
+
+**Almost nobody cites the standard they are following.** Three pages of 2,979 name the Ayurvedic
+Formulary of India. Forty-one cite any authority at all, classical text or pharmacopoeia included.
+"As per AFI" is a phrase that appears on packaging and in trade copy; on these product pages it is
+very nearly absent, which means there is usually no claim on the page to check in the first place.
+
+**Two companies document their classical range markedly better than the rest of what they sell.**
+Patanjali Ayurved named ingredients on 91% of its formulary-name pages and 54% of its whole range;
+Zandu on all three of its formulary-name pages and 77% of its 134. Read only the second table and
+you would conclude these companies document their products well. Read only the first and you would
+conclude the opposite. Both are true of different things, which is why both are here.
+
+**And two companies that wave one could say nothing about are now measurable.** Himalaya Wellness
+and Charak Pharma sell nothing under a formulary name, so an earlier version of this page listed
+them as contributing no measured page, beside a company that had refused to be read. That was a
+statement about our own list of names and it read as a statement about them. Their whole ranges
+were read instead: Himalaya names ingredients on 281 of 441 pages, Charak on 1 of 113.
+
 ## What this does not measure
 
 **It is not a quality comparison, and it is not a ranking.** Disclosure and quality are separate
@@ -156,6 +218,19 @@ figure mis-attributed to a named company is the one error a page like this must 
 of theirs is printed and nothing above depends on the parse being right. Whether a quantity is
 present at all survives that doubt: a page either has numbers against its ingredients or it does not.
 
+**A percentage of a range is not a percentage of a catalogue.** The denominator is the product
+pages this crawler found in a company's own sitemap and was permitted to read, which is not
+necessarily everything it sells. A company with 1,394 readable product pages and one with 29 are
+not being compared on equal ground, and nothing here should be read as "x% of this company's
+products", only as "x% of the pages read".
+
+**The name matching has a measured blind spot, and it is small.** A product is identified as a
+formulary preparation by its URL slug, so one whose URL spells the name a way the matcher does not
+reach would be missed. That blind spot was unmeasured until the whole range was read. Running the
+same matcher against each page's own title instead, on the 2,769 pages whose slug matched nothing,
+finds a formulary name on 18 of them. So the second table's population is about 0.6% short, which
+does not move any figure in it materially.
+
 **One run, one date.** These pages change. Everything above was read on 8 October 2026 and is
 re-measured when the survey is re-run, with the date moving with it.
 
@@ -165,31 +240,48 @@ It is worth recording, because it is the kind of claim repeated confidently in t
 it did not survive measurement.
 
 The expectation going in was that almost no Ayurvedic manufacturer publishes per-ingredient
-quantities, so that a third party would be the only place to find them. That is false. Patanjali
-Ayurved publishes a full composition with a figure against each ingredient per 100 g on a large
-share of its pages, and Shree Dhootapapeshwar does it on every page of its range that carries a
-list at all. Neither was visible in casual searching, which is how the wrong premise survived: one
-of them renders a part of its catalogue in a way that a quick look does not reach.
+quantities, so that a third party would be the only place to find them. That is false. Shree
+Dhootapapeshwar gives a quantity against each ingredient on 208 of its 272 product pages, and
+Patanjali Ayurved on 449 of its 1,394, stated per 100 g. Neither was visible in casual searching,
+which is how the wrong premise survived: ten of Shree Dhootapapeshwar's pages render their
+composition in the browser rather than in the HTML, so a quick look does not reach it.
 
-What is true is the spread. Between a company that publishes a full composition on nine pages in
-ten and one that publishes none on fifty-four, the difference is not a detail of web design. It
-decides whether the official standard for that preparation is of any practical use to the person
-holding the bottle.
+A second claim on an earlier version of this page has also been corrected by measurement. It said
+that Shree Dhootapapeshwar gave a quantity on every page of its range that carried a list at all.
+That was true of the 28 formulary-name pages it was measured on and is not true of the company:
+across the whole range, 243 pages carry a list and 208 of those carry quantities.
+
+What is true throughout is the spread. Shree Dhootapapeshwar names ingredients on 89% of the pages
+read from it and Charak Pharma on 1%, and that difference is not a detail of web design. It decides
+whether the official standard for a preparation is of any practical use to the person holding the
+bottle.
 
 ## Where our own products lose
 
 We sell under the Age Ayurveda name, so this section exists to be useful rather than flattering.
 
-Age Ayurveda sells **one** product bearing a classical formulary name, a Chyawanprash, and its
-product page publishes **no ingredient list and no quantities**. On the measurement above we are
-the worst-disclosing company on this page. Every other company read here publishes an ingredient
-list on at least one page; we publish one on none. The page discusses ingredients in prose, which
-is not the same thing and is not a substitute for it: prose about Ashtavarga does not let anyone
-check the preparation against Part I of the formulary.
+On the whole-range measurement we are in the **bottom half of the nine companies read**: an
+ingredient list on 4 of our 29 product pages, 14%, with quantities on 3. Three companies document
+less of their range than we do, Charak Pharma at 1%, Baidyanath at 6% and Maharishi Ayurveda at
+7%. Five document more: Patanjali Ayurved 54%, Dabur 57%, Himalaya Wellness 64%, Zandu 77% and
+Shree Dhootapapeshwar 89%.
+
+On the measurement this page is actually about, we are **last outright**. Age Ayurveda sells one
+product bearing a classical formulary name, a Chyawanprash, and its product page publishes **no
+ingredient list and no quantities**. Every other company here that sells a formulary-name product
+publishes a list on at least one of them; we publish one on none of ours, because we have only the
+one and it carries nothing. The page discusses ingredients in prose, which is not the same thing and is not a
+substitute for it: prose about Ashtavarga does not let anyone check the preparation against Part I
+of the formulary.
+
+An earlier version of this page said we publish an ingredient list on no page at all. That was read
+from a single product and reading the rest of our range corrected it: we do publish compositions,
+on four products, just not on the one with a formulary name on it. The correction makes us look
+slightly better and is recorded here for the same reason any other would be.
 
 That is a straightforward failure to meet the standard this page measures other companies against,
-and the honest thing is to say so in the same table rather than to exclude ourselves from it. It is
-being fixed. Until it is, a reader who wants to check an Age Ayurveda Chyawanprash against the
+and the honest thing is to say so in the same tables rather than to exclude ourselves from them. It
+is being fixed. Until it is, a reader who wants to check an Age Ayurveda Chyawanprash against the
 formulary entry cannot, for exactly the reason this page criticises in others.
 
 ## Why a blocked catalogue is a finding
@@ -201,9 +293,10 @@ those product pages, so none can cite that company for its own products. Asked w
 them, an assistant will answer from somewhere else or not at all.
 
 Two more companies publish no readable sitemap, so their catalogues could not be enumerated at all.
-Two others were readable and carried no product under any of the formulary names we looked for,
-their ranges being proprietary branded formulations rather than classical ones. That last case is a
-finding about our list as much as about them, and is recorded as such.
+That is the whole of what could not be read. Two others, whose ranges are proprietary branded
+formulations rather than classical ones, carried no product under any of the formulary names we
+looked for; rather than leave them described by an absence in our own list of names, their whole
+ranges were read and they are in the first table above.
 
 ## Corrections
 
