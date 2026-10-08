@@ -328,14 +328,15 @@
   "indexnow": {
     "hashes": {
       "https://nighantu.ageayurveda.com/": "1d9150fa8b977b9a",
-      "https://nighantu.ageayurveda.com/about/": "7c4b4a7c5c05af5c",
+      "https://nighantu.ageayurveda.com/about/": "dad89137fc48ebed",
+      "https://nighantu.ageayurveda.com/afi/": "15feea0d2df97e36",
       "https://nighantu.ageayurveda.com/choosing/": "56903abec66b320a",
       "https://nighantu.ageayurveda.com/choosing/one-herb-several-names/": "dd340685b90f4a6c",
       "https://nighantu.ageayurveda.com/choosing/reading-a-formulation-label/": "05c0c1aa3387affe",
       "https://nighantu.ageayurveda.com/cite/": "5f3329e419355fc6",
       "https://nighantu.ageayurveda.com/compounds/": "d50e1b2fa578cda4",
-      "https://nighantu.ageayurveda.com/corrections/": "bc33022c683d07c5",
-      "https://nighantu.ageayurveda.com/datasets/": "bb3381fa3b07262f",
+      "https://nighantu.ageayurveda.com/corrections/": "7593efa25d53cb0b",
+      "https://nighantu.ageayurveda.com/datasets/": "2d486bb1dfd46b2c",
       "https://nighantu.ageayurveda.com/device/": "d55f66022d47c1e5",
       "https://nighantu.ageayurveda.com/device/agnikarma-thermal-cauterization-instruments/": "ceb6e67026d7bf57",
       "https://nighantu.ageayurveda.com/device/basti-enema-equipment/": "f469b8627588fbf3",
@@ -391,7 +392,7 @@
       "https://nighantu.ageayurveda.com/dravyaguna/vipaka-madhura/": "1f7d4574fe66c719",
       "https://nighantu.ageayurveda.com/dravyaguna/virya-sheeta/": "c25d4b1184714cc6",
       "https://nighantu.ageayurveda.com/dravyaguna/virya-ushna/": "c36bbe7d868455ac",
-      "https://nighantu.ageayurveda.com/editorial-standards/": "627c20feb012e7f6",
+      "https://nighantu.ageayurveda.com/editorial-standards/": "b979dea0ad859783",
       "https://nighantu.ageayurveda.com/family/": "35a1e9b65efc02d2",
       "https://nighantu.ageayurveda.com/family/acanthaceae/": "7ca929603c1a7375",
       "https://nighantu.ageayurveda.com/family/amaranthaceae/": "01e6aa96790a1bcf",
@@ -1250,11 +1251,12 @@
       "https://nighantu.ageayurveda.com/verification/safety-pass4/": "590ac8320b1c3fd6",
       "https://nighantu.ageayurveda.com/verification/safety-repair-02/": "b09efd0b1834a8a3"
     },
-    "lastSubmittedAt": "2026-10-08T06:53:23.167Z",
-    "lastSubmittedCount": 2,
+    "lastSubmittedAt": "2026-10-08T08:18:54.254Z",
+    "lastSubmittedCount": 5,
     "submitted": [
       "https://nighantu.ageayurveda.com/",
       "https://nighantu.ageayurveda.com/about/",
+      "https://nighantu.ageayurveda.com/afi/",
       "https://nighantu.ageayurveda.com/choosing/",
       "https://nighantu.ageayurveda.com/choosing/one-herb-several-names/",
       "https://nighantu.ageayurveda.com/choosing/reading-a-formulation-label/",
@@ -2705,6 +2707,6 @@
     "seen": 10,
     "surfaced": 0
   },
-  "updatedAt": "2026-10-08T08:00:23.238Z",
+  "updatedAt": "2026-10-08T08:18:54.254Z",
   "version": 1
 }
