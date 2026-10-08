@@ -47,7 +47,7 @@ Charaka Samhita Chikitsa Sthana (Unmada and Apasmara Chikitsa); Ashtanga Hridaya
 ## What do recent clinical trials show?
 
 - Moon S, Raut N, Moon H and others 2024. [Organoleptic, physicochemical, phytochemical and pharmacological evaluation of six medicated ghee used for Ayurvedic management of Epilepsy](https://pubmed.ncbi.nlm.nih.gov/39644797/). *Journal of Ayurveda and integrative medicine*. PMID [39644797](https://pubmed.ncbi.nlm.nih.gov/39644797/) · [doi:10.1016/j.jaim.2024.100995](https://doi.org/10.1016/j.jaim.2024.100995)  
-  a licensed Indian manufacturer [Brahmi](/herb/brahmi/) [Ghrita](/herb/ghrita/) demonstrated superior protection against onset and duration of PTZ-induced convulsions in mice compared to other [Ghrita](/herb/ghrita/) formulations evaluated
+  Of the six medicated ghees evaluated, Baidyanath's [Brahmi](/herb/brahmi/) [Ghrita](/herb/ghrita/) showed the greatest protection against the onset and duration of PTZ-induced convulsions in mice. This is the study's finding about the specific commercial sample it tested, not a general claim about the formulation
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
