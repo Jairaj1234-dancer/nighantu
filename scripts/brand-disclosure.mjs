@@ -127,6 +127,20 @@ if (!RENDER_ONLY && !CHECK) {
     }
     if (!b.catalogueReadable || b.pages === 0) return 'no readable sitemap was found, so its catalogue could not be enumerated';
     /**
+     * A readable sitemap with no individual product page in it, which is a different finding from
+     * having no sitemap and from publishing no composition.
+     *
+     * Nagarjuna Herbal Concentrates lists 298 pages and not one is a product: the catalogue is
+     * reached through category listings only. So there is no page for any single product of theirs
+     * to publish a composition ON, and no answer engine can cite them for one. Recording this as
+     * "publishes nothing" would be wrong in a way that matters: the company has not declined to
+     * state a composition, it has not published a page where a composition would go.
+     */
+    if ((b.pages ?? 0) > 0 && !(b.candidates ?? []).length) {
+      return 'its sitemap is readable and lists no individual product page at all, only category '
+        + 'listings, so there is no product page of theirs for a composition to appear on';
+    }
+    /**
      * Wave 2 split this case in two, and the distinction matters to the company.
      *
      * Before it, "carried no product under a formulary name" was the end of the sentence and the
@@ -385,12 +399,81 @@ if (begin < 0 || end < 0) {
 }
 const next = current.slice(0, begin) + block + current.slice(end + END.length);
 
+/**
+ * THE PROSE FIGURES, which the generated block does not cover and which are the real drift risk.
+ *
+ * The tables are injected and `--check` already fails if they disagree with the measurement. The
+ * hand-written prose around them carries 42 distinct figures: "2,979 product pages", "2,406 state
+ * a dose", "18 of them", "ten pages on one host". Those are typed by a person, and the way this
+ * page goes quietly wrong is that the survey is re-run, the tables update themselves, and a
+ * sentence three paragraphs down still states last month's total about a named company.
+ *
+ * So each load-bearing total must appear SOMEWHERE in the prose. If the measurement moves and the
+ * sentence was not rewritten, the new value is absent and this fails. It does not prove the
+ * sentence is right, which no check can; it proves the sentence was revisited.
+ *
+ * Small numbers are matched as digits or as words, because "fourteen pages" reads better than
+ * "14 pages" and the prose should not be bent to suit the gate.
+ */
+const WORD = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten',
+  'eleven', 'twelve', 'thirteen', 'fourteen', 'fifteen', 'sixteen', 'seventeen', 'eighteen',
+  'nineteen', 'twenty'];
+
+const proseOf = (text) => {
+  const b = text.indexOf(BEGIN);
+  const e = text.indexOf(END);
+  return b < 0 || e < 0 ? text : text.slice(0, b) + text.slice(e + END.length);
+};
+
+const figureChecks = () => {
+  const w = data.wholeRange;
+  const read = data.companies.filter((c) => c.range).length;
+  const checks = [
+    ['companies whose pages were read', read],
+    ['companies surveyed', data.companies.length],
+    ['preparations compared', data.preparations.length],
+  ];
+  if (w) {
+    checks.push(
+      ['pages read across the whole range', w.pagesRead],
+      ['pages attempted', w.pagesAttempted],
+      ['pages that could not be read', w.pagesThatCouldNotBeRead],
+      ['pages rendering client-side', w.pagesRenderingClientSide],
+      ['pages stating a dose', w.pagesStatingADose],
+      ['pages naming ingredients', w.pagesNamingIngredients],
+      ['pages citing the formulary', w.pagesCitingTheFormulary],
+      ['pages citing any authority', w.pagesCitingAnyAuthority],
+      ['pages with no formulary name in the slug', w.pagesWithNoFormularyNameInTheSlug],
+      ['slug-matcher misses found by title', w.slugMatcherMissesFoundByTitle],
+    );
+  }
+  return checks;
+};
+
 if (CHECK) {
   if (next !== current) {
     console.error(`FAIL: ${PAGE} does not match ${OUT}.`);
     console.error('Run `node scripts/brand-disclosure.mjs --render` and commit the result.');
     process.exit(1);
   }
+
+  const prose = proseOf(current);
+  const missing = [];
+  for (const [label, value] of figureChecks()) {
+    const forms = [String(value), Number(value).toLocaleString('en-GB')];
+    if (value <= 20) forms.push(WORD[value]);
+    if (!forms.some((f) => new RegExp(`(?<![\\w,.])${f.replace(/[.*+?^$()|[\]\\]/g, '\\$&')}(?![\\w%])`, 'i').test(prose))) {
+      missing.push(`${label}: ${forms[1]} appears nowhere in the prose`);
+    }
+  }
+  if (missing.length) {
+    console.error(`FAIL: ${missing.length} figure(s) from the measurement are absent from the page's prose.`);
+    console.error('The survey has moved and the sentences around the tables have not. Each of these');
+    console.error('needs a sentence that states it, or a sentence that no longer should be there:');
+    for (const m of missing) console.error(`  ${m}`);
+    process.exit(1);
+  }
+  console.log(`prose figures      ${figureChecks().length} load-bearing totals all present`);
   console.log(`${PAGE} agrees with ${OUT}: ${data.preparations.length} preparations, `
     + `${data.companies.filter((c) => c.pagesMeasured).length} companies, measured ${data.measuredOn}.`);
   process.exit(0);
