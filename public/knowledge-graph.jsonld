@@ -37,16 +37,22 @@
       "sameAs": "https://www.wikidata.org/wiki/Q141494735",
       "dataset": [
         {
-          "@id": "https://nighantu.ageayurveda.com/datasets/#dravyaguna-parquet"
+          "@id": "https://nighantu.ageayurveda.com/datasets/#composition"
         },
         {
-          "@id": "https://nighantu.ageayurveda.com/datasets/#compounds-parquet"
+          "@id": "https://nighantu.ageayurveda.com/datasets/#dravyaguna"
         },
         {
-          "@id": "https://nighantu.ageayurveda.com/datasets/#research-parquet"
+          "@id": "https://nighantu.ageayurveda.com/datasets/#compounds"
         },
         {
-          "@id": "https://nighantu.ageayurveda.com/datasets/#taxonomy-parquet"
+          "@id": "https://nighantu.ageayurveda.com/datasets/#research"
+        },
+        {
+          "@id": "https://nighantu.ageayurveda.com/datasets/#taxonomy"
+        },
+        {
+          "@id": "https://nighantu.ageayurveda.com/datasets/#verification"
         }
       ]
     },

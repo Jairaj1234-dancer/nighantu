@@ -2,6 +2,7 @@
 import Page from '../layouts/Page.astro';
 import { abs, rel } from '../lib/site';
 import compounds from '../data/compounds.json';
+import compositionSummary from '../data/composition-summary.json';
 import dravyaguna from '../data/dravyaguna.json';
 import research from '../data/research.json';
 import taxonomy from '../data/taxonomy.json';
@@ -20,7 +21,19 @@ const title = 'Open Ayurvedic Datasets';
 const description = 'Downloadable machine-readable datasets of classical Ayurvedic pharmacology, Dravyaguna properties, phytochemical constituents, and botanical taxonomy under CC BY 4.0.';
 const canonical = '/datasets/';
 
+const composition = compositionSummary as any;
+
 const datasets = [
+  {
+    id: 'composition',
+    name: 'Classical Formulation Composition Dataset',
+    description: `The ingredient composition of ${n(composition.formulations)} classical formulations as printed in the Ayurvedic Formulary of India: ${n(composition.ingredientRows)} ingredient rows, ${n(composition.rowsWithQuantity)} of them carrying the quantity the formulary states, each with the plant part used and cited to its formulary part and entry number. A cell that was illegible in the scan is published as illegible rather than guessed, and ${n(composition.rowsWithAnOcrCorrection)} rows carry a correction flagged as the transcriber's rather than the book's.`,
+    rowCount: `${n(composition.ingredientRows)} ingredient rows across ${n(composition.formulations)} formulations · ${n(composition.rowsIllegibleInScan)} cells illegible in the scan`,
+    formats: [
+      { ext: 'JSON', path: '/composition.json', mime: 'application/json' },
+      { ext: 'CSV', path: '/composition.csv', mime: 'text/csv' }
+    ]
+  },
   {
     id: 'dravyaguna',
     name: 'Ayurvedic Dravyaguna Pharmacological Dataset',

@@ -9,6 +9,8 @@ dist/
 # Generated at build time from committed sources, so they are never committed.
 # The deploy workflow regenerates each one before astro copies public/ into dist/;
 # if you add another generated download here, add the matching step there too.
+public/composition.json
+public/composition.csv
 public/research.json
 public/research.csv
 public/dravyaguna.json
@@ -18,6 +20,11 @@ public/compounds.json
 public/compounds.csv
 public/taxonomy.json
 public/chemistry.json
+
+# Market-map output: a ranked table of which domains an answer engine cites for a given set of
+# questions. The prompt sets are committed, because the questions are the method; the results name
+# other companies' positions and are analysis, which this repository is the wrong place for.
+data/market-map-brand-comparison-*.json
 
 # Full verification-run output: agent prose, record bodies and complete verdicts.
 # Kept locally as evidence, never published. scripts/slim-runs.mjs writes the
