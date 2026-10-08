@@ -5,6 +5,19 @@
   "agent": "NighantuBot/1.0 (+https://nighantu.ageayurveda.com/about/)",
   "measuringStick": "src/data/composition.json, this project's transcription of the Ayurvedic Formulary of India, checked row by row against the book and cited to part and entry number.",
   "minCompaniesForAPreparationRow": 3,
+  "wholeRange": {
+    "measuredOn": "2026-10-08",
+    "pagesAttempted": 2993,
+    "pagesRead": 2979,
+    "pagesThatCouldNotBeRead": 14,
+    "pagesRenderingClientSide": 10,
+    "pagesStatingADose": 2406,
+    "pagesNamingIngredients": 1472,
+    "pagesCitingTheFormulary": 3,
+    "pagesCitingAnyAuthority": 41,
+    "slugMatcherMissesFoundByTitle": 18,
+    "pagesWithNoFormularyNameInTheSlug": 2769
+  },
   "companies": [
     {
       "id": "baidyanath",
@@ -17,7 +30,19 @@
       "pagesWithQuantities": 0,
       "pagesWithListOnly": 4,
       "pagesWithNeither": 55,
-      "preparationsSold": 27
+      "pagesUnreadable": 0,
+      "preparationsSold": 27,
+      "range": {
+        "pagesRead": 246,
+        "pagesAttempted": 246,
+        "pagesWithQuantities": 1,
+        "pagesWithListOnly": 14,
+        "pagesWithNeither": 231,
+        "pagesUnreadable": 0,
+        "pagesStatingADose": 12,
+        "pagesCitingTheFormulary": 0,
+        "pagesCitingAnyAuthority": 0
+      }
     },
     {
       "id": "maharishi",
@@ -30,7 +55,19 @@
       "pagesWithQuantities": 1,
       "pagesWithListOnly": 0,
       "pagesWithNeither": 53,
-      "preparationsSold": 47
+      "pagesUnreadable": 0,
+      "preparationsSold": 47,
+      "range": {
+        "pagesRead": 248,
+        "pagesAttempted": 251,
+        "pagesWithQuantities": 7,
+        "pagesWithListOnly": 10,
+        "pagesWithNeither": 231,
+        "pagesUnreadable": 0,
+        "pagesStatingADose": 222,
+        "pagesCitingTheFormulary": 1,
+        "pagesCitingAnyAuthority": 5
+      }
     },
     {
       "id": "patanjali",
@@ -43,7 +80,19 @@
       "pagesWithQuantities": 15,
       "pagesWithListOnly": 33,
       "pagesWithNeither": 5,
-      "preparationsSold": 42
+      "pagesUnreadable": 0,
+      "preparationsSold": 42,
+      "range": {
+        "pagesRead": 1394,
+        "pagesAttempted": 1400,
+        "pagesWithQuantities": 449,
+        "pagesWithListOnly": 301,
+        "pagesWithNeither": 644,
+        "pagesUnreadable": 0,
+        "pagesStatingADose": 1129,
+        "pagesCitingTheFormulary": 0,
+        "pagesCitingAnyAuthority": 0
+      }
     },
     {
       "id": "sdl",
@@ -56,7 +105,19 @@
       "pagesWithQuantities": 28,
       "pagesWithListOnly": 0,
       "pagesWithNeither": 4,
-      "preparationsSold": 31
+      "pagesUnreadable": 0,
+      "preparationsSold": 31,
+      "range": {
+        "pagesRead": 272,
+        "pagesAttempted": 277,
+        "pagesWithQuantities": 208,
+        "pagesWithListOnly": 35,
+        "pagesWithNeither": 19,
+        "pagesUnreadable": 10,
+        "pagesStatingADose": 261,
+        "pagesCitingTheFormulary": 2,
+        "pagesCitingAnyAuthority": 25
+      }
     },
     {
       "id": "dabur",
@@ -69,7 +130,19 @@
       "pagesWithQuantities": 0,
       "pagesWithListOnly": 4,
       "pagesWithNeither": 4,
-      "preparationsSold": 7
+      "pagesUnreadable": 0,
+      "preparationsSold": 7,
+      "range": {
+        "pagesRead": 102,
+        "pagesAttempted": 102,
+        "pagesWithQuantities": 1,
+        "pagesWithListOnly": 57,
+        "pagesWithNeither": 44,
+        "pagesUnreadable": 0,
+        "pagesStatingADose": 82,
+        "pagesCitingTheFormulary": 0,
+        "pagesCitingAnyAuthority": 4
+      }
     },
     {
       "id": "zandu",
@@ -82,7 +155,19 @@
       "pagesWithQuantities": 1,
       "pagesWithListOnly": 2,
       "pagesWithNeither": 0,
-      "preparationsSold": 2
+      "pagesUnreadable": 0,
+      "preparationsSold": 2,
+      "range": {
+        "pagesRead": 134,
+        "pagesAttempted": 134,
+        "pagesWithQuantities": 45,
+        "pagesWithListOnly": 58,
+        "pagesWithNeither": 31,
+        "pagesUnreadable": 0,
+        "pagesStatingADose": 134,
+        "pagesCitingTheFormulary": 0,
+        "pagesCitingAnyAuthority": 2
+      }
     },
     {
       "id": "ageayurveda",
@@ -95,7 +180,19 @@
       "pagesWithQuantities": 0,
       "pagesWithListOnly": 0,
       "pagesWithNeither": 1,
-      "preparationsSold": 1
+      "pagesUnreadable": 0,
+      "preparationsSold": 1,
+      "range": {
+        "pagesRead": 29,
+        "pagesAttempted": 29,
+        "pagesWithQuantities": 3,
+        "pagesWithListOnly": 1,
+        "pagesWithNeither": 25,
+        "pagesUnreadable": 0,
+        "pagesStatingADose": 29,
+        "pagesCitingTheFormulary": 0,
+        "pagesCitingAnyAuthority": 4
+      }
     },
     {
       "id": "aryavaidyasala",
@@ -108,33 +205,59 @@
       "pagesWithQuantities": 0,
       "pagesWithListOnly": 0,
       "pagesWithNeither": 0,
-      "preparationsSold": 0
+      "pagesUnreadable": 0,
+      "preparationsSold": 0,
+      "range": null
     },
     {
       "id": "charak",
       "name": "Charak Pharma",
       "origin": "https://charak.com",
       "ours": false,
-      "access": "its catalogue was readable and carried no product under any of the formulary names looked for",
+      "access": "read in full: its catalogue carried no product under any of the formulary names looked for, so it has no formulary-name figures, and its whole range was read instead",
       "pagesInCatalogue": 532,
       "pagesMeasured": 0,
       "pagesWithQuantities": 0,
       "pagesWithListOnly": 0,
       "pagesWithNeither": 0,
-      "preparationsSold": 0
+      "pagesUnreadable": 0,
+      "preparationsSold": 0,
+      "range": {
+        "pagesRead": 113,
+        "pagesAttempted": 113,
+        "pagesWithQuantities": 0,
+        "pagesWithListOnly": 1,
+        "pagesWithNeither": 112,
+        "pagesUnreadable": 0,
+        "pagesStatingADose": 108,
+        "pagesCitingTheFormulary": 0,
+        "pagesCitingAnyAuthority": 0
+      }
     },
     {
       "id": "himalaya",
       "name": "Himalaya Wellness",
       "origin": "https://himalayawellness.in",
       "ours": false,
-      "access": "its catalogue was readable and carried no product under any of the formulary names looked for",
+      "access": "read in full: its catalogue carried no product under any of the formulary names looked for, so it has no formulary-name figures, and its whole range was read instead",
       "pagesInCatalogue": 842,
       "pagesMeasured": 0,
       "pagesWithQuantities": 0,
       "pagesWithListOnly": 0,
       "pagesWithNeither": 0,
-      "preparationsSold": 0
+      "pagesUnreadable": 0,
+      "preparationsSold": 0,
+      "range": {
+        "pagesRead": 441,
+        "pagesAttempted": 441,
+        "pagesWithQuantities": 44,
+        "pagesWithListOnly": 237,
+        "pagesWithNeither": 160,
+        "pagesUnreadable": 0,
+        "pagesStatingADose": 429,
+        "pagesCitingTheFormulary": 0,
+        "pagesCitingAnyAuthority": 1
+      }
     },
     {
       "id": "unjha",
@@ -147,7 +270,9 @@
       "pagesWithQuantities": 0,
       "pagesWithListOnly": 0,
       "pagesWithNeither": 0,
-      "preparationsSold": 0
+      "pagesUnreadable": 0,
+      "preparationsSold": 0,
+      "range": null
     },
     {
       "id": "vaidyaratnam",
@@ -160,7 +285,9 @@
       "pagesWithQuantities": 0,
       "pagesWithListOnly": 0,
       "pagesWithNeither": 0,
-      "preparationsSold": 0
+      "pagesUnreadable": 0,
+      "preparationsSold": 0,
+      "range": null
     }
   ],
   "preparations": [

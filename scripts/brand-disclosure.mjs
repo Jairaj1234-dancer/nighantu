@@ -68,6 +68,23 @@ if (!RENDER_ONLY && !CHECK) {
   }
   const products = JSON.parse(fs.readFileSync(path.join(SURVEY, 'products.json'), 'utf8'));
   const discovery = JSON.parse(fs.readFileSync(path.join(SURVEY, 'discovery.json'), 'utf8'));
+  /**
+   * Wave 2, the whole product range, read separately and kept separate.
+   *
+   * Wave 1 identifies a product by matching its URL slug against the formulary names, which is
+   * the right way to fetch nothing on the chance it might be relevant, and which makes the result
+   * a measurement of each company's CLASSICAL range. Stated without that qualification it reads
+   * as a fact about the company, and for two companies it is materially different: Patanjali
+   * documents 91% of its formulary-name pages and 54% of its whole range, Zandu 100% of three and
+   * 77% of 134.
+   *
+   * So both populations publish, side by side, and the page says which is which. Collapsing them
+   * to one number would lose a real difference in both directions, and restating only one
+   * company on the better-sampled population, ours, would be the self-serving move the page's
+   * whole disclosure discipline exists to prevent.
+   */
+  const w2Path = path.join(SURVEY, 'products-wave2.json');
+  const wave2 = fs.existsSync(w2Path) ? JSON.parse(fs.readFileSync(w2Path, 'utf8')) : null;
   const afi = JSON.parse(fs.readFileSync(COMPOSITION, 'utf8')).records;
 
   /**
@@ -104,11 +121,24 @@ if (!RENDER_ONLY && !CHECK) {
    * the page says so: a catalogue no answer engine may read is a catalogue no answer engine can
    * cite for its own products.
    */
-  const accessOf = (b, measured) => {
+  const accessOf = (b, measured, rangeMeasured) => {
     if (b.robots?.verdict === 'rules' && b.allowed && b.allowed['/products/'] === false) {
       return 'its robots.txt declines this crawler, and declines every AI crawler tested except Googlebot, so nothing was fetched';
     }
     if (!b.catalogueReadable || b.pages === 0) return 'no readable sitemap was found, so its catalogue could not be enumerated';
+    /**
+     * Wave 2 split this case in two, and the distinction matters to the company.
+     *
+     * Before it, "carried no product under a formulary name" was the end of the sentence and the
+     * company sat in a list of companies we could say nothing about. Two companies were in it,
+     * and one of them, Charak Pharma, turns out to document 1 of its 113 product pages. That is a
+     * measured fact about a named company and it belongs in the table, not in a footnote about
+     * our own name list.
+     */
+    if (!measured && rangeMeasured) {
+      return 'read in full: its catalogue carried no product under any of the formulary names '
+        + 'looked for, so it has no formulary-name figures, and its whole range was read instead';
+    }
     if (!measured) return 'its catalogue was readable and carried no product under any of the formulary names looked for';
     return 'allowed by its robots.txt and read';
   };
@@ -118,6 +148,8 @@ if (!RENDER_ONLY && !CHECK) {
 
   for (const b of discovery.brands) {
     const mine = products.products.filter((p) => p.brand === b.id);
+    const w2All = wave2 ? wave2.products.filter((p) => p.brand === b.id) : [];
+    const w2Mine = w2All.filter((p) => p.outcome === 'read');
     const byPrep = new Map();
     for (const p of mine) {
       if (!byPrep.has(p.formulation)) byPrep.set(p.formulation, []);
@@ -129,13 +161,27 @@ if (!RENDER_ONLY && !CHECK) {
       name: b.name,
       origin: b.origin,
       ours: Boolean(b.ours),
-      access: accessOf(b, mine.length),
+      access: accessOf(b, mine.length, w2Mine.length),
       pagesInCatalogue: b.pages ?? 0,
+      // The formulary-name population: wave 1.
       pagesMeasured: mine.length,
       pagesWithQuantities: mine.filter((p) => stateOf(p) === 'quantities').length,
       pagesWithListOnly: mine.filter((p) => stateOf(p) === 'list').length,
       pagesWithNeither: mine.filter((p) => stateOf(p) === 'neither').length,
+      pagesUnreadable: mine.filter((p) => stateOf(p) === 'unreadable').length,
       preparationsSold: byPrep.size,
+      // The whole range: wave 2. Null where wave 2 has not read this company at all.
+      range: w2Mine.length ? {
+        pagesRead: w2Mine.length,
+        pagesAttempted: w2All.length,
+        pagesWithQuantities: w2Mine.filter((p) => stateOf(p) === 'quantities').length,
+        pagesWithListOnly: w2Mine.filter((p) => stateOf(p) === 'list').length,
+        pagesWithNeither: w2Mine.filter((p) => stateOf(p) === 'neither').length,
+        pagesUnreadable: w2Mine.filter((p) => stateOf(p) === 'unreadable').length,
+        pagesStatingADose: w2Mine.filter((p) => (p.dose ?? {}).state === 'found').length,
+        pagesCitingTheFormulary: w2Mine.filter((p) => (p.authorities ?? []).some((a) => a.id === 'afi')).length,
+        pagesCitingAnyAuthority: w2Mine.filter((p) => (p.authorities ?? []).length > 0).length,
+      } : null,
     });
 
     for (const [slug, pages] of byPrep) {
@@ -184,6 +230,31 @@ if (!RENDER_ONLY && !CHECK) {
     measuringStick: 'src/data/composition.json, this project\'s transcription of the Ayurvedic '
       + 'Formulary of India, checked row by row against the book and cited to part and entry number.',
     minCompaniesForAPreparationRow: MIN_COMPANIES,
+    /**
+     * The method's own limits, measured rather than asserted. Each of these is something the page
+     * says about itself, and each was a guess until wave 2.
+     */
+    wholeRange: wave2 ? {
+      measuredOn: wave2.collectedOn,
+      pagesAttempted: wave2.products.length,
+      pagesRead: wave2.products.filter((p) => p.outcome === 'read').length,
+      // All transient: timeouts and failed connections across three hosts, no refusals.
+      pagesThatCouldNotBeRead: wave2.products.filter((p) => p.outcome !== 'read').length,
+      pagesRenderingClientSide: wave2.products.filter((p) => p.outcome === 'read' && stateOf(p) === 'unreadable').length,
+      pagesStatingADose: wave2.products.filter((p) => p.outcome === 'read' && (p.dose ?? {}).state === 'found').length,
+      pagesNamingIngredients: wave2.products.filter((p) => p.outcome === 'read' && (p.composition ?? {}).state === 'found').length,
+      pagesCitingTheFormulary: wave2.products.filter((p) => p.outcome === 'read' && (p.authorities ?? []).some((a) => a.id === 'afi')).length,
+      pagesCitingAnyAuthority: wave2.products.filter((p) => p.outcome === 'read' && (p.authorities ?? []).length > 0).length,
+      /**
+       * How much the slug matcher missed, which was the other thing wave 2 existed to find out.
+       * The matcher is re-run against each page's own TITLE on the pages whose URL slug it did
+       * not match: a different spelling of the same name, written by the same company. 18 hits
+       * across 2,769 unmatched pages, so wave 1's sample was not quietly missing a classical
+       * range. See scripts/brand-wave2-report.mjs, which is where that is computed.
+       */
+      slugMatcherMissesFoundByTitle: 18,
+      pagesWithNoFormularyNameInTheSlug: wave2.products.filter((p) => p.outcome === 'read' && !p.matchedByName).length,
+    } : null,
     companies: companies.sort((a, b) => b.pagesMeasured - a.pagesMeasured || a.name.localeCompare(b.name)),
     preparations,
   };
@@ -215,19 +286,57 @@ const inState = (prep, state) => Object.entries(prep.companies)
 
 const lines = [];
 
-lines.push('### What each company published, by company', '');
-// Wrapped so five columns scroll at phone width rather than squeezing. The blank lines are
+/**
+ * One table per population, the same shape in both, so a reader can set them beside each other.
+ *
+ * The "neither" and "could not be read" columns stay apart, because only the first is a claim
+ * about the company. The page said nothing in the survey had landed in the second; wave 2 found
+ * ten pages that do, all on one host, so the column is now real and is shown.
+ */
+const stateCols = '| Company | Product pages read | Ingredients and quantities | Ingredient list only | Neither | Could not be read |';
+const stateRule = '| --- | --- | --- | --- | --- | --- |';
+
+/**
+ * One row order, used by BOTH tables, so they can be read side by side.
+ *
+ * Sorting each table by its own size would reorder the rows between them and make the comparison
+ * the tables exist for into a puzzle. Ordered by the size of the range read, which is a fact about
+ * the survey rather than a judgement about the company.
+ */
+const inRangeOrder = data.companies.filter((x) => x.range)
+  .sort((a, b) => b.range.pagesRead - a.range.pagesRead);
+
+lines.push('### Everything each company sells', '');
+lines.push('The whole product range on each host that permitted it, classical and proprietary alike.',
+  'This is the figure that is a fact about the company.', '');
+// Wrapped so six columns scroll at phone width rather than squeezing. The blank lines are
 // load-bearing: without them remark treats the table as raw HTML and never renders it.
 lines.push('<div class="tablewrap wide-table">', '');
-lines.push('| Company | Product pages read | Ingredients and quantities | Ingredient list only | Neither |');
-lines.push('| --- | --- | --- | --- | --- |');
-for (const c of data.companies.filter((x) => x.pagesMeasured > 0)) {
-  lines.push(`| ${esc(c.name)}${c.ours ? ' (ours)' : ''} | ${c.pagesMeasured} `
-    + `| ${c.pagesWithQuantities} | ${c.pagesWithListOnly} | ${c.pagesWithNeither} |`);
+lines.push(stateCols, stateRule);
+for (const c of inRangeOrder) {
+  const r = c.range;
+  lines.push(`| ${esc(c.name)}${c.ours ? ' (ours)' : ''} | ${r.pagesRead} `
+    + `| ${r.pagesWithQuantities} | ${r.pagesWithListOnly} | ${r.pagesWithNeither} | ${r.pagesUnreadable} |`);
 }
 lines.push('', '</div>', '');
 
-const noPages = data.companies.filter((c) => c.pagesMeasured === 0);
+lines.push('### Only the products sold under a formulary name', '');
+lines.push('The same companies, counting only products whose name is one of the 101 formulary entries',
+  'transcribed on this site. This is the figure that bears on whether a product can be checked',
+  'against the entry it claims, and for two companies it is markedly higher than the first table.', '');
+lines.push('<div class="tablewrap wide-table">', '');
+lines.push(stateCols, stateRule);
+for (const c of inRangeOrder) {
+  if (!c.pagesMeasured) {
+    lines.push(`| ${esc(c.name)}${c.ours ? ' (ours)' : ''} | none: sells nothing under a formulary name | | | | |`);
+    continue;
+  }
+  lines.push(`| ${esc(c.name)}${c.ours ? ' (ours)' : ''} | ${c.pagesMeasured} `
+    + `| ${c.pagesWithQuantities} | ${c.pagesWithListOnly} | ${c.pagesWithNeither} | ${c.pagesUnreadable} |`);
+}
+lines.push('', '</div>', '');
+
+const noPages = data.companies.filter((c) => c.pagesMeasured === 0 && !c.range);
 if (noPages.length) {
   const WORDS = ['no', 'One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight'];
   lines.push(`${WORDS[noPages.length] ?? noPages.length} further compan${noPages.length === 1 ? 'y was' : 'ies were'} surveyed and`,
