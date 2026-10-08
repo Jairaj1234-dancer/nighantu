@@ -442,6 +442,17 @@ if (DRY) {
  * nothing re-ingested between that section landing and now. Any future hand-authored
  * section must be added here, or ingest will eat it.
  */
+/**
+ * Sections ingest does not own. Everything else under content/ is wiped and rebuilt.
+ *
+ * NOTE for anything that edits generated content: a transform applied to content/formulation/ by
+ * hand is destroyed by the next run of this script. The dose-provenance corrections of 8 October
+ * 2026 touched 50 formulation pages and would have been lost exactly that way, so they are now
+ * re-applied by `npm run ingest`, which runs scripts/fix-dose-attributions.mjs and
+ * scripts/fix-dose-column.mjs after this script. Both are idempotent and driven by
+ * src/data/composition.json, so they are transforms rather than edits. If you add another
+ * transform over generated content, add it to that chain too, or it will vanish.
+ */
 const NOT_GENERATED_HERE = new Set(['practice', 'choosing']);
 for (const e of fs.existsSync(OUT) ? fs.readdirSync(OUT, { withFileTypes: true }) : []) {
   if (e.isDirectory() && NOT_GENERATED_HERE.has(e.name)) continue;

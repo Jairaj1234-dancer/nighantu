@@ -27,8 +27,13 @@ if (!fs.existsSync(LOG)) {
 // Read by header name rather than position. The log gained rate, hits and asks columns when
 // repeated sampling came in, and a fixed index would have quietly compared the wrong fields.
 const lines = fs.readFileSync(LOG, 'utf8').trim().split('\n');
-const cols = lines[0].split(',').map((c) => c.replace(/^"|"$/g, ''));
-const rows = lines.slice(1).filter(Boolean).map((line) => {
+// Find the header line rather than assuming line 0: geo-audit.mjs writes a `# panel <hash>`
+// comment above it, so that a change of panel rotates the log instead of splicing two different
+// instruments into one series. Taking line 0 would parse the comment as the header.
+const cols = (lines.find((l) => l.startsWith('date,')) ?? '').split(',').map((c) => c.replace(/^"|"$/g, ''));
+// Data rows only, selected rather than counted: a `# panel` comment line above the header makes
+// slice(1) hand back the header itself, which parses to a row with every field empty.
+const rows = lines.filter((line) => line.startsWith('"')).map((line) => {
   const f = [...line.matchAll(/"((?:[^"]|"")*)"/g)].map((m) => m[1].replace(/""/g, '"'));
   const get = (name) => f[cols.indexOf(name)] ?? '';
   return {
@@ -49,7 +54,19 @@ for (const r of rows) {
   runs.set(key, agg);
 }
 
-const ordered = [...runs.values()].sort((a, b) => a.date.localeCompare(b.date));
+/**
+ * A run where nothing was successfully asked is not a reading.
+ *
+ * When every attempt for a prompt fails, geo-audit writes a row with asks=0 and a model name that
+ * degraded to `gemini:gemini` because no response was parsed to resolve it. Grouping by
+ * date|model then makes that single row its own "run", and because it is the last one in date
+ * order it becomes `latest`: the report said "cited count moved down: 4 -> 0" off one fetch
+ * failure, and `--issue` would have filed a GitHub issue about a decline that never happened.
+ * Both logs contain exactly one such row.
+ */
+const ordered = [...runs.values()]
+  .filter((r) => r.asked > 0)
+  .sort((a, b) => a.date.localeCompare(b.date));
 const latest = ordered[ordered.length - 1];
 const previous = ordered.length > 1 ? ordered[ordered.length - 2] : null;
 

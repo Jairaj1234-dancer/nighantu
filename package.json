@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "ingest": "node scripts/ingest.mjs",
+    "ingest": "node scripts/ingest.mjs && node scripts/fix-dose-attributions.mjs --write && node scripts/fix-dose-column.mjs --write",
     "ingest:dry": "node scripts/ingest.mjs --dry-run",
     "stamp": "node scripts/stamp-dates.mjs",
     "audit": "node scripts/audit.mjs",

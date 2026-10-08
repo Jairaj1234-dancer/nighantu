@@ -88,11 +88,19 @@ export const CONTESTED_COUNT = {
 // to the standalone replacement, so a manufacturer list does not end up reading
 // "(Dabur, Kottakkal, a licensed Indian manufacturer)".
 export const REDACTIONS = [
-  { pattern: /\bShri Baidyanath Ayurved Bhawan\b/gi, replacement: 'a licensed Indian manufacturer' },
-  { pattern: /,\s*Baidyanath\b/gi, replacement: '' },
-  { pattern: /\bBaidyanath\s*,\s*/gi, replacement: '' },
-  { pattern: /\(\s*Baidyanath\s*\)/gi, replacement: '' },
-  { pattern: /\bBaidyanath\b/gi, replacement: 'a licensed Indian manufacturer' },
+  /*
+   * The company NAME is no longer redacted; only the heritage framing is.
+   *
+   * These five patterns stripped "Baidyanath" out of every published line, and the last of them
+   * fired mid-sentence on a study finding, leaving "a licensed Indian manufacturer Brahmi Ghrita
+   * demonstrated superior protection against ... convulsions" in content/formulation/
+   * brahmi-ghritam.md: a broken sentence making an unattributed superiority claim about a product
+   * no reader could identify. The site names Dabur, Kottakkal, AVP and four others freely, so
+   * redacting one company was a gap in the comparison rather than neutrality. The framing is
+   * still blocked, by HERITAGE_TERMS in scripts/audit.mjs and by the pattern below.
+   */
+  { pattern: /\bHouse of Baidyanath\b/gi, replacement: 'Baidyanath' },
+  { pattern: /\bShri Baidyanath Ayurved Bhawan\b/gi, replacement: 'Baidyanath' },
 ];
 
 // Leaf filenames whose identity is the parent folder name, not the filename.

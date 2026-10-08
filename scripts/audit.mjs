@@ -32,7 +32,25 @@ const CLAIM_VERBS = [
   'relieves', 'prevents', 'reverses', 'eliminates',
 ];
 // Heritage framing belongs on sales collateral, not on an editorial reference site.
-const HERITAGE_TERMS = ['baidyanath', 'house of baidyanath', 'est. 1917', 'since 1917'];
+/**
+ * Block the heritage FRAMING, not the company name.
+ *
+ * This list began with the bare word `baidyanath` in it, which blocked the framing and the name
+ * together. The framing is what the gate is for: "House of Baidyanath, est. 1917" sells a lineage
+ * and undercuts the neutrality that earns citations. The bare name is a fact about a manufacturer,
+ * and the site already names Dabur, Kottakkal, AVP, Kerala Ayurveda, Nagarjuna, Vaidyaratnam and
+ * Sitaram the same way, in unranked parenthetical lists attached to a verifiable regulatory
+ * status. Blocking one company's name while naming seven others was not neutrality; it was a gap
+ * in the comparison, and it cost something concrete: with the name also stripped at ingest,
+ * content/formulation/brahmi-ghritam.md read "a licensed Indian manufacturer Brahmi Ghrita
+ * demonstrated superior protection against ... convulsions", an unattributed superiority claim
+ * about an anonymised product, which is worse in every way than naming the maker of the ghrita a
+ * published study tested.
+ *
+ * So: the name is allowed and the framing is still blocked. 'house of baidyanath' stays, because
+ * that phrase is the framing rather than the name.
+ */
+const HERITAGE_TERMS = ['house of baidyanath', 'est. 1917', 'since 1917'];
 /**
  * One page may name the reviewer's institution.
  *

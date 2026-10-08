@@ -100,8 +100,23 @@ for (const file of fs.readdirSync(CONTENT).filter((f) => f.endsWith('.md'))) {
 
   const whole = m[0];
   const body = m[2];
-  // The clinical half is everything before the sentence this project added about the formulary.
-  const clinical = body.split('The Ayurvedic Formulary')[0].trim().replace(/[.,]\s*$/, '');
+
+  /**
+   * ALREADY PROCESSED? Then leave it alone. This script must be idempotent, because the pages it
+   * edits live in content/formulation/, which scripts/ingest.mjs wipes and regenerates, so it has
+   * to be safe to re-run after every ingest.
+   *
+   * It was not. `clinical` was extracted by splitting on the literal "The Ayurvedic Formulary",
+   * and the sentences this script writes say "as given in the Ayurvedic Formulary" — lowercase
+   * "the", mid-sentence. The split therefore matched nothing on a second pass, the whole line
+   * including the attribution was treated as clinical text, and the formulary sentence would have
+   * been appended a second time. A dry run showed 36 pages queued for exactly that.
+   */
+  if (/Ayurvedic Formulary of India/i.test(body)) { skipped.push(slug); continue; }
+
+  // The clinical half is everything before any sentence this project added about the formulary.
+  const clinical = body.split(/\.\s*The (?:Ayurvedic Formulary|formulary)|,\s*as given in the Ayurvedic Formulary/i)[0]
+    .trim().replace(/[.,]\s*$/, '');
   const afiSource = rec.classicalSource && !refuseSource(rec.classicalSource)
     ? sanitiseSource(rec.classicalSource) : null;
   const attribution = `Ayurvedic Formulary of India, Part ${rec.afiPart}, entry ${rec.entryNumber}`;

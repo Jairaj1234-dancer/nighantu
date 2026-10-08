@@ -16,6 +16,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import os from 'node:os';
+import crypto from 'node:crypto';
 
 /**
  * The panel, rebuilt 5 October 2026 around what actually earns citations.
@@ -526,17 +527,50 @@ const esc = (v) => `"${String(v).replace(/"/g, '""')}"`;
 const toLine = (r) => [r.date, r.model, r.question, r.intent, r.cited, r.rate, r.hits, r.asks,
   r.matched, r.urls, r.error, r.sources].map(esc).join(',');
 
-// Rotate before the first append rather than after the last row, for the same reason.
+/**
+ * Rotate on a change of COLUMNS or of PANEL. Columns alone is not enough.
+ *
+ * The panel was rebuilt on 5 October from 69 prompts to a different 49, with the schema unchanged,
+ * so the header matched, no rotation fired, and data/citation-log-rebuilt.csv had to be written by
+ * hand to keep the two series apart. The next scheduled run would have appended 49 new-panel rows
+ * straight onto the 138-row old-panel series in data/citation-log.csv, and citation-report.mjs,
+ * which groups by date|model and compares the two most recent runs, would have reported the panel
+ * change as a real fall in citations. A measurement series that silently splices two different
+ * instruments together is worse than one that stops.
+ *
+ * So the panel's identity goes in the file. `panel` is a short hash of the active questions, which
+ * changes when a prompt is added, removed or retired and does not change when a run is resumed or
+ * sampled. It is written as a comment line, which every reader here skips: citation-report.mjs and
+ * lib/dashboard.mjs both index by header name and parse data rows by the quoted matcher, and a
+ * comment line yields no quoted fields.
+ */
+const panelId = crypto.createHash('sha256')
+  .update(ACTIVE.map((p) => p.q).join('\n')).digest('hex').slice(0, 12);
+const stamp = `# panel ${panelId} (${ACTIVE.length} prompts)`;
+
 if (fs.existsSync(LOG)) {
-  const existingHeader = fs.readFileSync(LOG, 'utf8').split('\n')[0].trim();
-  if (existingHeader !== header) {
-    const firstDate = fs.readFileSync(LOG, 'utf8').split('\n')[1]?.slice(1, 11) ?? 'old';
+  const existing = fs.readFileSync(LOG, 'utf8').split('\n');
+  const existingHeader = existing.find((l) => l.startsWith('date,'))?.trim() ?? '';
+  const existingPanel = existing.find((l) => l.startsWith('# panel '))?.trim() ?? '';
+  const columnsChanged = existingHeader !== header;
+  // An older log predating this stamp has no panel line; that is not a panel change in itself.
+  const panelChanged = existingPanel !== '' && existingPanel !== stamp;
+  if (columnsChanged || panelChanged) {
+    const firstDate = existing.find((l) => l.startsWith('"'))?.slice(1, 11) ?? 'old';
     const archive = LOG.replace(/\.csv$/, `-${firstDate}.csv`);
     fs.renameSync(LOG, archive);
-    console.log(`The log's columns changed. Previous log archived as ${archive}.`);
+    console.log(columnsChanged
+      ? `The log's columns changed. Previous log archived as ${archive}.`
+      : `The panel changed (${existingPanel} -> ${stamp}). Previous log archived as ${archive}.`);
   }
 }
-if (!fs.existsSync(LOG)) fs.writeFileSync(LOG, `${header}\n`);
+if (!fs.existsSync(LOG)) fs.writeFileSync(LOG, `${stamp}\n${header}\n`);
+// A log written before the stamp existed gets one, so the next panel change is detectable.
+else if (!fs.readFileSync(LOG, 'utf8').includes('# panel ')) {
+  const body = fs.readFileSync(LOG, 'utf8');
+  fs.writeFileSync(LOG, `${stamp}\n${body}`);
+  console.log(`Stamped the existing log with ${stamp} so a future panel change rotates it.`);
+}
 
 let stopped = false;
 for (const [i, question] of prompts.entries()) {

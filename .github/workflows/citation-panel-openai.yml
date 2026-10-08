@@ -1,6 +1,6 @@
 name: Citation panel (ChatGPT)
 
-# The same 69 prompts, asked of ChatGPT with web search instead of Gemini with Google Search.
+# The same 49 prompts, asked of ChatGPT with web search instead of Gemini with Google Search.
 #
 # Why a second workflow rather than a flag on the first. ChatGPT search runs on Bing's index,
 # which is a wholly separate index from Google's. A page can be in one and not the other, so a
@@ -64,11 +64,11 @@ jobs:
           # meaningless, and comparing them is the entire reason this exists.
           GEO_AUDIT_LOG: data/citation-log-openai.csv
           # No documented free allowance here, unlike Gemini. A 69-prompt run at three asks is
-          # 207 searched requests; the ceiling is the backstop against a loop, since billing is
+          # 147 searched requests; the ceiling is the backstop against a loop, since billing is
           # capped at Rs 500 a month across everything.
-          GEO_AUDIT_MAX_REQUESTS: '260'
+          GEO_AUDIT_MAX_REQUESTS: '190'
           GEO_AUDIT_PACE_MS: '3000'
-        # 207 requests at this pace is roughly 25 minutes. Headroom over that, because a run
+        # 147 requests at this pace is roughly 18 minutes. Headroom over that, because a run
         # killed part way through commits a partial log that reads as a collapse rather than as
         # a truncated job.
         timeout-minutes: 50

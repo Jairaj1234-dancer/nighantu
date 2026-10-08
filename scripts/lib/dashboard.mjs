@@ -6,24 +6,76 @@ const OUT = path.join('data', 'DASHBOARD.md');
 const fmtDate = (iso) => (iso ? iso.slice(0, 10) : 'never');
 const tick = (ok) => (ok ? 'ok' : 'FAIL');
 
+/**
+ * Read the citation log BY HEADER NAME, not by position.
+ *
+ * This read `cited` from field 3 and the log gained an `intent` column at field 3, so it has been
+ * reading the intent string and comparing it to 'yes' ever since. That is never true, so
+ * data/DASHBOARD.md has reported a flat `0 | 67 | 0%` on every run while the log actually held 10
+ * of 67 prompts cited and 24 of 201 asks. The dashboard's own footer, "a flat zero for the first
+ * 8 to 12 weeks on a new domain is expected", made the false zero look like a finding rather than
+ * a parsing bug, which is why it survived three months.
+ *
+ * scripts/citation-report.mjs:27-37 already parses by header name and records why: "The log gained
+ * rate, hits and asks columns when repeated sampling came in, and a fixed index would have quietly
+ * compared the wrong fields." That warning was written about this file's failure mode and this
+ * file never got the fix.
+ */
 function citationSummary() {
   const p = path.join('data', 'citation-log.csv');
   if (!fs.existsSync(p)) return null;
-  const lines = fs.readFileSync(p, 'utf8').trim().split('\n').slice(1).filter(Boolean);
-  const rows = lines.map((l) => {
-    // Fields are quoted with "" doubling; a light parse is enough for date/cited.
-    const f = [...l.matchAll(/"((?:[^"]|"")*)"/g)].map((m) => m[1].replace(/""/g, '"'));
-    return { date: f[0], model: f[1], question: f[2], cited: f[3] };
-  });
+  const all = fs.readFileSync(p, 'utf8').trim().split('\n').filter(Boolean);
+  if (all.length < 2) return null;
+
+  /*
+   * The header is UNQUOTED and the data rows are quoted, so they need different parsers. Using the
+   * quoted matcher on the header returns an empty array, every column index comes back -1, and the
+   * whole log reads as unrecognised: the first version of this fix replaced a false 0% with a false
+   * "no runs logged", which is a quieter wrong answer but still a wrong one. Same split as
+   * scripts/citation-report.mjs:30-32, deliberately, so there is one convention and not two.
+   */
+  const cells = (l) => [...l.matchAll(/"((?:[^"]|"")*)"/g)].map((m) => m[1].replace(/""/g, '"'));
+  /*
+   * FIND the header line; do not assume it is the first. geo-audit.mjs now writes a
+   * `# panel <hash>` comment above it so a panel change rotates the log, and a reader that took
+   * line 0 would parse that comment as the header and silently read every field as empty.
+   */
+  const headerLine = all.find((l) => l.startsWith('date,')) ?? '';
+  const header = headerLine.split(',').map((c) => c.replace(/^"|"$/g, '').trim());
+  const col = (name) => header.indexOf(name);
+  const iDate = col('date');
+  const iModel = col('model');
+  const iCited = col('cited');
+  const iHits = col('hits');
+  const iAsks = col('asks');
+  // A log whose header this does not recognise is reported as absent rather than as zeros.
+  if (iDate < 0 || iModel < 0 || iCited < 0) return null;
+
   const byRun = new Map();
-  for (const r of rows) {
-    const key = `${r.date} ${r.model}`;
-    const agg = byRun.get(key) ?? { date: r.date, model: r.model, total: 0, cited: 0 };
+  /*
+   * Select the DATA rows rather than skipping a fixed number of lines. `slice(1)` was right when
+   * the header was line 0 and became wrong the moment a `# panel` comment went above it: line 1 is
+   * then the header, which yields no quoted fields, so every column reads undefined and the sort
+   * throws on localeCompare. Every data row is fully quoted, so starting with a quote is the test.
+   */
+  for (const line of all.filter((l) => l.startsWith('"'))) {
+    const f = cells(line);
+    const key = `${f[iDate]} ${f[iModel]}`;
+    const agg = byRun.get(key)
+      ?? { date: f[iDate], model: f[iModel], total: 0, cited: 0, hits: 0, asks: 0 };
     agg.total += 1;
-    if (r.cited === 'yes') agg.cited += 1;
+    if (f[iCited] === 'yes') agg.cited += 1;
+    // Asks are the honest denominator: each prompt is asked REPS times and a prompt cited once in
+    // three is not the same result as one cited three times in three.
+    if (iHits >= 0) agg.hits += Number(f[iHits]) || 0;
+    if (iAsks >= 0) agg.asks += Number(f[iAsks]) || 0;
     byRun.set(key, agg);
   }
-  return [...byRun.values()].sort((a, b) => b.date.localeCompare(a.date));
+  // Same exclusion as scripts/citation-report.mjs: a run with no successful ask is not a reading,
+  // and one fetch failure should not appear in the table as a 0% run.
+  return [...byRun.values()]
+    .filter((r) => r.asks > 0)
+    .sort((a, b) => b.date.localeCompare(a.date));
 }
 
 export function renderDashboard(state, { site }) {
@@ -93,13 +145,25 @@ export function renderDashboard(state, { site }) {
 
   lines.push('## Citation panel', '');
   if (runs?.length) {
-    lines.push('| Date | Source | Cited | Of | Rate |', '| --- | --- | --- | --- | --- |');
+    // Prompts cited AND asks landed. A prompt cited once in three asks is a weaker result than one
+    // cited three times in three, and the prompt column alone cannot tell them apart.
+    lines.push('| Date | Source | Prompts cited | Of | Asks landed | Of | Ask rate |',
+      '| --- | --- | --- | --- | --- | --- | --- |');
     for (const r of runs.slice(0, 12)) {
-      lines.push(`| ${r.date} | ${r.model} | ${r.cited} | ${r.total} | ${((r.cited / r.total) * 100).toFixed(0)}% |`);
+      const askRate = r.asks ? `${((r.hits / r.asks) * 100).toFixed(0)}%` : '-';
+      lines.push(`| ${r.date} | ${r.model} | ${r.cited} | ${r.total} | ${r.hits || '-'} | ${r.asks || '-'} | ${askRate} |`);
     }
-    lines.push('', '_A flat zero for the first 8 to 12 weeks on a new domain is expected, not failure._', '');
+    /*
+     * The old footer read "a flat zero for the first 8 to 12 weeks on a new domain is expected,
+     * not failure." It was removed because for three months the zero was a parsing bug, not a
+     * measurement, and that sentence is exactly what stopped anyone looking. A reassurance
+     * attached to a number nobody has verified is worse than no footer.
+     */
+    lines.push('',
+      '_Every citation recorded so far has gone to the Shopify store, not to this site._',
+      '');
   } else {
-    lines.push('_No runs logged._', '');
+    lines.push('_No runs logged, or the log header was not recognised._', '');
   }
 
   lines.push('## Content freshness', '');
