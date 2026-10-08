@@ -102,6 +102,21 @@ jobs:
       - name: Formulary entry naming
         run: node scripts/check-afi-naming.mjs
 
+      # Last thing before the artifact is uploaded, and it has to be last: it reads the built
+      # research pages to find which bucket each paper is displayed in, so dist must exist, and
+      # it writes into dist rather than public/ because public/chemistry.json is committed and
+      # canary tokens have no business in version control.
+      #
+      # The datasets are CC BY 4.0, so attribution is already required; what was missing was
+      # evidence. Every record gets the URL of the page it is displayed on, which survives the
+      # partial copies that are the normal kind. The canary token, which is the layer that
+      # actually proves origin, is written only when the secret is set and is skipped silently
+      # otherwise, because a token keyed to nothing would be decoration.
+      - name: Stamp datasets with attribution and canaries
+        run: node scripts/stamp-datasets.mjs --write
+        env:
+          ATLAS_CANARY_SECRET: ${{ secrets.ATLAS_CANARY_SECRET }}
+
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
