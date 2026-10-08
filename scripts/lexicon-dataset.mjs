@@ -142,10 +142,13 @@ fs.writeFileSync(path.join('public', 'lexicon.json'), JSON.stringify({
     + 'offered for modification. A locator is reduced to its identifier, which is a pointer rather '
     + 'than expression. The English equivalent and the source name are facts about usage and are '
     + 'present throughout, and the full text is on the term page named in `page`. THE CARVE-OUT: '
-    + 'an `assessment` is this project\'s own critical prose and is CC BY 4.0, but where it quotes '
-    + 'a source briefly in order to discuss it, those quoted words remain under their own licence '
-    + 'and are not granted by this one. Quotation for comment is not a derivative work; '
-    + 'sub-licensing someone else\'s wording would be.',
+    + 'the fields holding this project\'s own critical prose, which are `assessment`, '
+    + '`distinguishFrom`, `mistranslations` and `openQuestions`, are CC BY 4.0, but where any of '
+    + 'them quotes a source briefly in order to discuss it, those quoted words remain under their '
+    + 'own licence and are not granted by this one. Quotation for comment is not a derivative '
+    + 'work; sub-licensing someone else\'s wording would be. A build-time check refuses to write '
+    + 'this file if a twenty-word run of any NoDerivs or uncleared DEFINITION appears in those '
+    + 'fields, so what remains are short quotations and not republication.',
   description: data.description,
   license: 'https://creativecommons.org/licenses/by/4.0/',
   updatedAt: data.updatedAt,
@@ -154,6 +157,49 @@ fs.writeFileSync(path.join('public', 'lexicon.json'), JSON.stringify({
   summary,
   entries,
 }));
+
+/**
+ * The gate behind the carve-out above.
+ *
+ * The downloads publish this project's own prose wholesale, which is right: it is ours. But our
+ * prose quotes the sources it criticises, so "ours" is not by itself a guarantee that nothing
+ * else rides along. The claim being made in the licence note is that what rides along is short
+ * quotation and not republication, and a claim in a licence note that nothing checks is just a
+ * hope. So this checks it: for every rendering whose licence bars a dataset, if its definition is
+ * long enough to probe, a twenty-word run from the middle of it must not appear in any of our
+ * prose fields. Short quotation passes; a definition reproduced whole does not.
+ */
+const PROBE_WORDS = 20;
+const runOf = (text) => {
+  const w = String(text ?? '').replace(/\s+/g, ' ').trim().split(' ').filter(Boolean);
+  if (w.length < 25) return null;
+  const start = Math.floor((w.length - PROBE_WORDS) / 2);
+  return w.slice(start, start + PROBE_WORDS).join(' ');
+};
+
+const republished = [];
+for (const e of entries) {
+  const ourProse = [
+    (e.distinguishFrom ?? []).map((x) => x.why).join(' '),
+    JSON.stringify(e.mistranslations ?? []),
+    JSON.stringify(e.openQuestions ?? []),
+    (e.renderings ?? []).map((x) => x.assessment).join(' '),
+  ].join(' ').replace(/\s+/g, ' ');
+  for (const x of e.renderings ?? []) {
+    if (x.downloadable !== false) continue;
+    for (const field of ['english', 'locator']) {
+      const run = runOf(x[field]);
+      if (run && ourProse.includes(run)) republished.push({ slug: e.slug, field, licence: x.licence, run });
+    }
+  }
+}
+if (republished.length) {
+  console.error(`\nREFUSING TO WRITE: ${republished.length} definition(s) this file may not carry are`);
+  console.error('reproduced inside our own prose fields, which the download publishes in full.');
+  for (const x of republished.slice(0, 6)) console.error(`  ${x.slug}.${x.field} (${x.licence}): ${x.run.slice(0, 80)}`);
+  process.exit(1);
+}
+console.log('republication check         clean: no barred definition is reproduced inside our own prose');
 
 const cell = (v) => (v == null || v === '' ? '' : `"${String(v).replace(/"/g, '""').replace(/\r?\n/g, ' ')}"`);
 const rows = [[
