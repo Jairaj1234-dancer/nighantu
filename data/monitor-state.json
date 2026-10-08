@@ -332,7 +332,7 @@
       "https://nighantu.ageayurveda.com/cite/": "5f3329e419355fc6",
       "https://nighantu.ageayurveda.com/compounds/": "d50e1b2fa578cda4",
       "https://nighantu.ageayurveda.com/corrections/": "bc33022c683d07c5",
-      "https://nighantu.ageayurveda.com/datasets/": "c665990ee5eb92a6",
+      "https://nighantu.ageayurveda.com/datasets/": "bb3381fa3b07262f",
       "https://nighantu.ageayurveda.com/device/": "d55f66022d47c1e5",
       "https://nighantu.ageayurveda.com/device/agnikarma-thermal-cauterization-instruments/": "ceb6e67026d7bf57",
       "https://nighantu.ageayurveda.com/device/basti-enema-equipment/": "f469b8627588fbf3",
@@ -463,7 +463,7 @@
       "https://nighantu.ageayurveda.com/formulation/bhringaraja-svarasa/": "965117c17a6be7da",
       "https://nighantu.ageayurveda.com/formulation/bilwadi-leha/": "6aca94885f2986d2",
       "https://nighantu.ageayurveda.com/formulation/brahma-rasayana/": "004baa9ced94012b",
-      "https://nighantu.ageayurveda.com/formulation/brahmi-ghritam/": "ab9e30e35b8e0716",
+      "https://nighantu.ageayurveda.com/formulation/brahmi-ghritam/": "6b846c84ba62edbd",
       "https://nighantu.ageayurveda.com/formulation/brahmi-vati/": "b5fc7aeedd1ed3d0",
       "https://nighantu.ageayurveda.com/formulation/brihatyadi-kashayam/": "7c7154f37c31ae9e",
       "https://nighantu.ageayurveda.com/formulation/caturjata-churna/": "137ab3c82453d41a",
@@ -1247,8 +1247,8 @@
       "https://nighantu.ageayurveda.com/verification/safety-pass4/": "590ac8320b1c3fd6",
       "https://nighantu.ageayurveda.com/verification/safety-repair-02/": "b09efd0b1834a8a3"
     },
-    "lastSubmittedAt": "2026-10-08T05:56:27.794Z",
-    "lastSubmittedCount": 922,
+    "lastSubmittedAt": "2026-10-08T06:53:23.167Z",
+    "lastSubmittedCount": 2,
     "submitted": [
       "https://nighantu.ageayurveda.com/",
       "https://nighantu.ageayurveda.com/about/",
@@ -2686,6 +2686,6 @@
     "seen": 9,
     "surfaced": 2
   },
-  "updatedAt": "2026-10-08T06:23:21.312Z",
+  "updatedAt": "2026-10-08T06:53:23.167Z",
   "version": 1
 }
