@@ -12,11 +12,31 @@
  * correct under any base and a legacy "/nighantu/herb/haritaki/" is repaired on the way out.
  *
  * External links, anchors, mailto and protocol-relative URLs are left alone.
+ *
+ * IN-CONTENT LINKS ARE ALSO MADE ABSOLUTE, and that is deliberate.
+ *
+ * When a page of this site is copied wholesale, which is the normal fate of a reference corpus,
+ * every relative link in the copy resolves against the COPYIST'S domain. The stolen page then
+ * links to pages the thief does not have, so the theft costs us the link equity and costs them
+ * nothing but a few 404s. Absolute in-content links invert that: a copied monograph arrives on
+ * their site carrying forty-odd links back here, and a reader who follows any of them lands on
+ * the original. It is the oldest trick publishers have and it needs no script, which matters
+ * because crawl-audit.mjs fails the build on any script that is not JSON-LD.
+ *
+ * It only applies to MARKDOWN BODY links, because that is the part that gets copied. Navigation,
+ * stylesheets and layout chrome keep their relative paths: they are rewritten by the layouts, not
+ * here, and a copyist takes the article rather than the furniture.
+ *
+ * Same-origin absolute links are neutral for the site's own readers and for search engines. The
+ * one real cost is that scripts/linkcheck.mjs skipped anything matching a URL scheme as external,
+ * so this change would have silently removed 40,000-odd internal links from the deploy gate. That
+ * script now recognises its own origin and checks them, which had to land in the same change.
  */
 const LEGACY_BASES = ['/nighantu'];
 
 export function rehypeBaseLinks() {
   const base = (import.meta.env?.BASE_URL ?? process.env.ATLAS_BASE ?? '').replace(/\/$/, '');
+  const site = (process.env.ATLAS_SITE ?? 'https://nighantu.ageayurveda.com').replace(/\/$/, '');
 
   return (tree) => {
     const visit = (node) => {
@@ -28,7 +48,7 @@ export function rehypeBaseLinks() {
           for (const legacy of LEGACY_BASES) {
             if (path === legacy || path.startsWith(`${legacy}/`)) path = path.slice(legacy.length) || '/';
           }
-          node.properties[key] = `${base}${path}`;
+          node.properties[key] = `${site}${base}${path}`;
         }
       }
       for (const child of node.children ?? []) visit(child);
