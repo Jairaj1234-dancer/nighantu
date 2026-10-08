@@ -1,4 +1,5 @@
 import review from '../data/review.json';
+import { pageDates } from './dates';
 
 /**
  * Which pages a named practitioner has actually read.
@@ -28,13 +29,39 @@ export const reviewer = data.reviewer as {
 };
 export const reviews: ReviewEntry[] = data.reviews ?? [];
 
-export function reviewFor(kind: string, slug: string): ReviewEntry | null {
+/**
+ * A review cannot cover a page that did not exist when it happened.
+ *
+ * The scopes in review.json are by kind and by slug range, which is the right shape while
+ * review is catching up with a fixed corpus. It is the wrong shape as soon as the corpus grows
+ * PAST a review: the full-corpus entry is dated 6 October 2026 and claims the kind `choosing`,
+ * so a choosing page first published on 8 October inherited the credit, byline, date and
+ * `lastReviewed` of a review that could not have read it. The page it happened to was the
+ * composition comparison, which names seven companies and is the last page on this site that
+ * should carry a credential it has not earned.
+ *
+ * review.json's own note says a credit on a page nobody read is the exact dishonesty
+ * /reviewers/ exists to prevent. So the page's first-published date is part of the match, and an
+ * entry older than the page is skipped.
+ *
+ * The date is resolved HERE rather than threaded in from six call sites, so that the next page
+ * kind added to the site cannot forget to pass it. `publishedOn` stays as an explicit override
+ * for a caller that already knows, and for tests.
+ *
+ * On a ledger miss pageDates returns the OLDEST date it knows, which is older than any review,
+ * so a miss leaves the credit in place rather than stripping it from every page at once. That is
+ * the right direction to fail in: site-audit catches a stamp that disagrees with the ledger.
+ */
+export function reviewFor(kind: string, slug: string, publishedOn?: string | null): ReviewEntry | null {
+  const first = publishedOn ?? pageDates(kind, slug).published;
   for (const r of reviews) {
     if (!r.kinds.includes(kind)) continue;
     if (r.slugRange) {
-      const first = String(slug ?? '').trim().toLowerCase().charAt(0);
-      if (!first || first < r.slugRange.from || first > r.slugRange.to) continue;
+      const initial = String(slug ?? '').trim().toLowerCase().charAt(0);
+      if (!initial || initial < r.slugRange.from || initial > r.slugRange.to) continue;
     }
+    // Same-day is allowed: a page published on the day of the review may well have been in it.
+    if (first && r.reviewedOn && first > r.reviewedOn) continue;
     return r;
   }
   return null;
@@ -58,8 +85,9 @@ export function reviewFor(kind: string, slug: string): ReviewEntry | null {
  */
 export function reviewPageNode(
   kind: string, slug: string, pageUrl: string, articleId: string, reviewersUrl: string,
+  publishedOn?: string | null,
 ) {
-  const entry = reviewFor(kind, slug);
+  const entry = reviewFor(kind, slug, publishedOn);
   if (!entry) return null;
   return {
     '@context': 'https://schema.org',

@@ -86,6 +86,16 @@ const choosingSchema = z.object({
   answer: z.string(),
   description: z.string(),
   grounding: z.array(z.string()).default([]),
+  /**
+   * Set where the page's content IS a measurement of this project's own making, rather than a
+   * restatement of material verified elsewhere on the site.
+   *
+   * The grounding section otherwise closes with "Nothing on this page is a new factual claim",
+   * which is the right thing to say about a page explaining what the formulary fixes and a false
+   * thing to say about one reporting what seven named companies published on their own websites.
+   * A page that states a new claim has to say so where it says where its material comes from.
+   */
+  ownMeasurement: z.boolean().default(false),
   faq: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
 });
 

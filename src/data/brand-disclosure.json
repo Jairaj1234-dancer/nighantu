@@ -1,0 +1,1504 @@
+{
+  "note": "What each company published on its own product pages, as those pages were served to this crawler on the date recorded. A state of \"neither\" means the page carried substantial readable text and no ingredient list in it. No figure published by any company is restated here, and no wording of theirs is reproduced. See the page named in `page` for what this is for and what it does not measure.",
+  "page": "/choosing/who-publishes-the-composition/",
+  "measuredOn": "2026-10-08",
+  "agent": "NighantuBot/1.0 (+https://nighantu.ageayurveda.com/about/)",
+  "measuringStick": "src/data/composition.json, this project's transcription of the Ayurvedic Formulary of India, checked row by row against the book and cited to part and entry number.",
+  "minCompaniesForAPreparationRow": 3,
+  "companies": [
+    {
+      "id": "baidyanath",
+      "name": "Baidyanath",
+      "origin": "https://www.baidyanathayurved.com",
+      "ours": false,
+      "access": "allowed by its robots.txt and read",
+      "pagesInCatalogue": 559,
+      "pagesMeasured": 59,
+      "pagesWithQuantities": 0,
+      "pagesWithListOnly": 4,
+      "pagesWithNeither": 55,
+      "preparationsSold": 27
+    },
+    {
+      "id": "maharishi",
+      "name": "Maharishi Ayurveda",
+      "origin": "https://maharishiayurvedaindia.com",
+      "ours": false,
+      "access": "allowed by its robots.txt and read",
+      "pagesInCatalogue": 898,
+      "pagesMeasured": 54,
+      "pagesWithQuantities": 1,
+      "pagesWithListOnly": 0,
+      "pagesWithNeither": 53,
+      "preparationsSold": 47
+    },
+    {
+      "id": "patanjali",
+      "name": "Patanjali Ayurved",
+      "origin": "https://www.patanjaliayurved.net",
+      "ours": false,
+      "access": "allowed by its robots.txt and read",
+      "pagesInCatalogue": 1576,
+      "pagesMeasured": 53,
+      "pagesWithQuantities": 15,
+      "pagesWithListOnly": 33,
+      "pagesWithNeither": 5,
+      "preparationsSold": 42
+    },
+    {
+      "id": "sdl",
+      "name": "Shree Dhootapapeshwar",
+      "origin": "https://www.sdlindia.com",
+      "ours": false,
+      "access": "allowed by its robots.txt and read",
+      "pagesInCatalogue": 395,
+      "pagesMeasured": 32,
+      "pagesWithQuantities": 28,
+      "pagesWithListOnly": 0,
+      "pagesWithNeither": 4,
+      "preparationsSold": 31
+    },
+    {
+      "id": "dabur",
+      "name": "Dabur",
+      "origin": "https://www.dabur.com",
+      "ours": false,
+      "access": "allowed by its robots.txt and read",
+      "pagesInCatalogue": 1167,
+      "pagesMeasured": 8,
+      "pagesWithQuantities": 0,
+      "pagesWithListOnly": 4,
+      "pagesWithNeither": 4,
+      "preparationsSold": 7
+    },
+    {
+      "id": "zandu",
+      "name": "Zandu",
+      "origin": "https://zanducare.com",
+      "ours": false,
+      "access": "allowed by its robots.txt and read",
+      "pagesInCatalogue": 890,
+      "pagesMeasured": 3,
+      "pagesWithQuantities": 1,
+      "pagesWithListOnly": 2,
+      "pagesWithNeither": 0,
+      "preparationsSold": 2
+    },
+    {
+      "id": "ageayurveda",
+      "name": "Age Ayurveda",
+      "origin": "https://ageayurveda.com",
+      "ours": true,
+      "access": "allowed by its robots.txt and read",
+      "pagesInCatalogue": 69,
+      "pagesMeasured": 1,
+      "pagesWithQuantities": 0,
+      "pagesWithListOnly": 0,
+      "pagesWithNeither": 1,
+      "preparationsSold": 1
+    },
+    {
+      "id": "aryavaidyasala",
+      "name": "Arya Vaidya Sala Kottakkal",
+      "origin": "https://www.aryavaidyasala.com",
+      "ours": false,
+      "access": "its robots.txt declines this crawler, and declines every AI crawler tested except Googlebot, so nothing was fetched",
+      "pagesInCatalogue": 0,
+      "pagesMeasured": 0,
+      "pagesWithQuantities": 0,
+      "pagesWithListOnly": 0,
+      "pagesWithNeither": 0,
+      "preparationsSold": 0
+    },
+    {
+      "id": "charak",
+      "name": "Charak Pharma",
+      "origin": "https://charak.com",
+      "ours": false,
+      "access": "its catalogue was readable and carried no product under any of the formulary names looked for",
+      "pagesInCatalogue": 532,
+      "pagesMeasured": 0,
+      "pagesWithQuantities": 0,
+      "pagesWithListOnly": 0,
+      "pagesWithNeither": 0,
+      "preparationsSold": 0
+    },
+    {
+      "id": "himalaya",
+      "name": "Himalaya Wellness",
+      "origin": "https://himalayawellness.in",
+      "ours": false,
+      "access": "its catalogue was readable and carried no product under any of the formulary names looked for",
+      "pagesInCatalogue": 842,
+      "pagesMeasured": 0,
+      "pagesWithQuantities": 0,
+      "pagesWithListOnly": 0,
+      "pagesWithNeither": 0,
+      "preparationsSold": 0
+    },
+    {
+      "id": "unjha",
+      "name": "Unjha Pharmacy",
+      "origin": "https://unjhapharmacy.com",
+      "ours": false,
+      "access": "no readable sitemap was found, so its catalogue could not be enumerated",
+      "pagesInCatalogue": 0,
+      "pagesMeasured": 0,
+      "pagesWithQuantities": 0,
+      "pagesWithListOnly": 0,
+      "pagesWithNeither": 0,
+      "preparationsSold": 0
+    },
+    {
+      "id": "vaidyaratnam",
+      "name": "Vaidyaratnam Oushadhasala",
+      "origin": "https://vaidyaratnam.com",
+      "ours": false,
+      "access": "no readable sitemap was found, so its catalogue could not be enumerated",
+      "pagesInCatalogue": 0,
+      "pagesMeasured": 0,
+      "pagesWithQuantities": 0,
+      "pagesWithListOnly": 0,
+      "pagesWithNeither": 0,
+      "preparationsSold": 0
+    }
+  ],
+  "preparations": [
+    {
+      "slug": "chyawanprash",
+      "name": "Chyawanprash",
+      "formularyHeading": "CYAVANAPRASA",
+      "page": "/formulation/chyawanprash/",
+      "afiPart": "I",
+      "entryNumber": "3:11",
+      "ingredientCount": 48,
+      "ingredientsWithAQuantity": 48,
+      "companies": {
+        "ageayurveda": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://ageayurveda.com/products/chyawanprash"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "baidyanath": {
+          "state": "neither",
+          "pages": 16,
+          "pagesInThatState": 16,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/baidyanath-chyawanprash-jaggery-750gm",
+            "https://www.baidyanathayurved.com/products/baidyanath-kesari-kalp-royal-chyawanprash-500-g",
+            "https://www.baidyanathayurved.com/products/baidyanath-kesari-kalp-royal-chyawanprash-1-kg",
+            "https://www.baidyanathayurved.com/products/baidyanath-chyawanprash-special-combo-1-kg-500-gm",
+            "https://www.baidyanathayurved.com/products/baidyanath-healthy-gift-pack-combo-aloe-vera-juice-1-ltr-kesari-kalp-chyawanprash-500-g-panch-tulsi-drops-30-ml",
+            "https://www.baidyanathayurved.com/products/baidyanath-chyawanprash-special-1kg",
+            "https://www.baidyanathayurved.com/products/baidyanath-chyawanprash-special-500-gm-with-75-gram-extra",
+            "https://www.baidyanathayurved.com/products/ayush-kwath-churn-chaywanprash-spl-giloy-tulsi-juice",
+            "https://www.baidyanathayurved.com/products/baidyanath-sugarfree-chyawan-vit-chyawanprash-specially-formulated-chyawanprash-with-no-added-sugar-with-benefits-of-amla-ashwagandha-and-almonds",
+            "https://www.baidyanathayurved.com/products/baidyanath-ayurved-kesari-kalp-sugar-free-royal-chyawanprash-1kg-promotes-vitality-strength-stamina-in-adults-and-elderly-revitalizer-enriched-with-gold-and-saffron",
+            "https://www.baidyanathayurved.com/products/baidyanath-ayurved-chyawanprash-avleha-1-kg-ayurvedic-immunity-booster-for-adults-and-elders-builds-energy-strength-and-stamina",
+            "https://www.baidyanathayurved.com/products/baidyanath-chyawanprash-special-2-kg-with-400-gram-extra-2400g",
+            "https://www.baidyanathayurved.com/products/baidyanath-sugarfree-chyawan-chyawanprash-vit-2-kg-with-no-added-sugar-with-benefits-of-amla-ashwagandha-and-almonds-ayurvedic-immunity-booster-copy",
+            "https://www.baidyanathayurved.com/products/baidyanath-chyawanprash-special-1-kg-enriched-with-52-essential-herbs-minerals-excellent-immunity-enhancer-energy-stamina-for-the-entire-family",
+            "https://www.baidyanathayurved.com/products/baidyanath-jaggery-chyawanprash-1-kg",
+            "https://www.baidyanathayurved.com/products/baidyanath-ayurved-giloy-tulsi-juice-1l-and-chyawanprash-special-1kg"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "dabur": {
+          "state": "list",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://www.dabur.com/our-brand/dabur-chyawanprash",
+            "https://www.dabur.com/our-brand/dabur-chyawanprash-sharangdhar-samhita"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "quantities",
+          "pages": 7,
+          "pagesInThatState": 5,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/combo-offers/combos/combo-special-chyawanprash-1-kg-pack-of-2/7067",
+            "https://www.patanjaliayurved.net/product/natural-food-products/biscuits-and-cookies/chyawanprash-cookies/7124",
+            "https://www.patanjaliayurved.net/product/natural-health-care/chyawanprash/patanjali-special-chyawanprash/708",
+            "https://www.patanjaliayurved.net/product/natural-health-care/health-and-wellness/patanjali-special-chyawanprash-free-hing-10g/6985",
+            "https://www.patanjaliayurved.net/product/natural-health-care/chyawanprash/patanjali-chyawanprash/707",
+            "https://www.patanjaliayurved.net/product/natural-health-care/chyawanprash/patanjali-jaggery-gur-chyavanprash/3700",
+            "https://www.patanjaliayurved.net/product/natural-health-care/chyawanprash/patanjali-special-chyawanprash-1-kg-free-honey-100-g/3350"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/chyavanprash-ashtavarga"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "zandu": {
+          "state": "list",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://zanducare.com/products/zandu-chyavanprash-avaleha-900g-pack-of-2",
+            "https://zanducare.com/products/zandu-chyavanprash-avaleha-jaggery-gur900gpack-of-2"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "abhayarishta",
+      "name": "Abhayarishta",
+      "formularyHeading": "ABHAYARISTA",
+      "page": "/formulation/abhayarishta/",
+      "afiPart": "I",
+      "entryNumber": "1:1",
+      "ingredientCount": 16,
+      "ingredientsWithAQuantity": 16,
+      "companies": {
+        "baidyanath": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/baidyanath-abhayarisht-450-ml",
+            "https://www.baidyanathayurved.com/products/kabz-har-abhyarishta-triphala-juice"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "dabur": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.dabur.com/our-brand/dabur-abhyarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/abhyarishta-for-treatment-of-constipation-450ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/arishta/divya-abhayarista-new/2"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/abhayarishta"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "ashokarishta",
+      "name": "Ashokarishta",
+      "formularyHeading": "ASOKARISTA",
+      "page": "/formulation/ashokarishta/",
+      "afiPart": "I",
+      "entryNumber": "1:5",
+      "ingredientCount": 16,
+      "ingredientsWithAQuantity": 16,
+      "companies": {
+        "baidyanath": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/baidyanath-ashokarishta-450-ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "dabur": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.dabur.com/our-brand/dabur-ashokarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/ashokarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/arishta/divya-asokarista/20"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/ashokarishta"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "dashamularishta",
+      "name": "Dashamularishta",
+      "formularyHeading": "DASAMULARISTA",
+      "page": "/formulation/dashamularishta/",
+      "afiPart": "I",
+      "entryNumber": "1:18",
+      "ingredientCount": 72,
+      "ingredientsWithAQuantity": 72,
+      "companies": {
+        "baidyanath": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/dashmularishta-450ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "dabur": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.dabur.com/our-brand/dabur-dashmularishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/dashmoolarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/arishta/divya-dasamularista/34"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/dashamoolarishta"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "sitopaladi-churna",
+      "name": "Sitopaladi Churna",
+      "formularyHeading": "SITOPALADI CURNA",
+      "page": "/formulation/sitopaladi-churna/",
+      "afiPart": "I",
+      "entryNumber": "7:34",
+      "ingredientCount": 5,
+      "ingredientsWithAQuantity": 5,
+      "companies": {
+        "baidyanath": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/baidyanath-sitopaladi-churna-60-g-pack-of-2"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "dabur": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.dabur.com/our-brand/dabur-sitopaladi-churna"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/sitopaladi-churna"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/churna/divya-sitopaladi-churna/176"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/sitopaladi-choorna"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "arjunarishta",
+      "name": "Arjunarishta",
+      "formularyHeading": "PARTHADYARISTA (Synonym : Arjunarista)",
+      "page": "/formulation/arjunarishta/",
+      "afiPart": "I",
+      "entryNumber": "1:21",
+      "ingredientCount": 6,
+      "ingredientsWithAQuantity": 6,
+      "companies": {
+        "baidyanath": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/arjunarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/arjunarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/arishta/divya-arjunarista/12"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/arjunarishta-parthadyarishta"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "ashwagandharishta",
+      "name": "Ashwagandharishta",
+      "formularyHeading": "ASVAGANDHADYARISTA",
+      "page": "/formulation/ashwagandharishta/",
+      "afiPart": "I",
+      "entryNumber": "1:6",
+      "ingredientCount": 29,
+      "ingredientsWithAQuantity": 29,
+      "companies": {
+        "baidyanath": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/ashwagandharishta-450-ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "dabur": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.dabur.com/our-brand/dabur-ashwagandharishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/ashwagandharishta-for-stress-and-anxiety-450ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/ashvagandharishta"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "avipattikar-churna",
+      "name": "Avipattikar Churna",
+      "formularyHeading": "AVIPATTIKARA CURNA",
+      "page": "/formulation/avipattikar-churna/",
+      "afiPart": "I",
+      "entryNumber": "7:2",
+      "ingredientCount": 14,
+      "ingredientsWithAQuantity": 14,
+      "companies": {
+        "baidyanath": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/baidyanath-avipattikar-churna-60gm-pack-of-2",
+            "https://www.baidyanathayurved.com/products/baidyanath-avipattikar-churna-120-g"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/avipattikar-churna"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/churna/divya-avipattikar-churna/23"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/avipattikar-choorna"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "haridra-khanda",
+      "name": "Haridra Khanda",
+      "formularyHeading": "HARIDRA KHANDA",
+      "page": "/formulation/haridra-khanda/",
+      "afiPart": "I",
+      "entryNumber": "3:31",
+      "ingredientCount": 18,
+      "ingredientsWithAQuantity": 17,
+      "companies": {
+        "baidyanath": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/baidyanath-haridra-khand-brihat"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/haridra-khand"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/churna/divya-haridrakhanda/55"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/haridrakhanda-choorna"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "hingvashtak-churna",
+      "name": "Hingvashtak Churna",
+      "formularyHeading": "HINGVASTAKA CURNA",
+      "page": "/formulation/hingvashtak-churna/",
+      "afiPart": "I",
+      "entryNumber": "7:37",
+      "ingredientCount": 8,
+      "ingredientsWithAQuantity": 7,
+      "companies": {
+        "baidyanath": {
+          "state": "list",
+          "pages": 4,
+          "pagesInThatState": 3,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/baidyanath-hingwashtak-churna-60-g-pack-of-2",
+            "https://www.baidyanathayurved.com/products/baidyanath-hingwashtak-churna-120-g",
+            "https://www.baidyanathayurved.com/products/baidyanath-hingwashtak-churna-120-g-pack-of-2",
+            "https://www.baidyanathayurved.com/products/baidyanath-gas-flatulence-care-combo-gaisantak-bati-100-gm-hingwashtak-churna-120-gm-pack-of-2"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/hingwastak-churna-50gms"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/churna/divya-hingvashtak-churna/1586"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/hingwashtak-choorna"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "kaishore-guggul",
+      "name": "Kaishore Guggul",
+      "formularyHeading": "KAISORA GUGGULU",
+      "page": "/formulation/kaishore-guggul/",
+      "afiPart": "I",
+      "entryNumber": "5:2",
+      "ingredientCount": 17,
+      "ingredientsWithAQuantity": 17,
+      "companies": {
+        "baidyanath": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/baidyanath-kaishore-guggulu-pack-of-2-80-tablets",
+            "https://www.baidyanathayurved.com/products/baidyanath-kaishore-guggulu-160-tablets"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/kaishore-guggulu",
+            "https://maharishiayurvedaindia.com/products/kaishora-guggulu"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/guggul/divya-kaishore-guggul/64"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/kaishor-guggul"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "kanchanara-guggulu",
+      "name": "Kanchanara Guggulu",
+      "formularyHeading": "KANCANARA GUGGULU",
+      "page": "/formulation/kanchanara-guggulu/",
+      "afiPart": "I",
+      "entryNumber": "5:1",
+      "ingredientCount": 12,
+      "ingredientsWithAQuantity": 12,
+      "companies": {
+        "baidyanath": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/baidyanath-kanchnar-guggulu-160-tablets",
+            "https://www.baidyanathayurved.com/products/baidyanath-kanchnar-guggulu-pack-of-2-80-tablets"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/kanchnar-guggulu-100-tabs"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/guggul/divya-kanchnar-guggul/68"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/kanchanar-guggul"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "kutajarishta",
+      "name": "Kutajarishta",
+      "formularyHeading": "KUTAJARISTA",
+      "page": "/formulation/kutajarishta/",
+      "afiPart": "I",
+      "entryNumber": "1:11",
+      "ingredientCount": 7,
+      "ingredientsWithAQuantity": 7,
+      "companies": {
+        "baidyanath": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/kutajarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/kutjarishta-for-irritable-bowel-syndrome-management-450ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/arishta/divya-kutajarista/85"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/kutajarishta"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "mahayograj-guggul",
+      "name": "Mahayograj Guggul",
+      "formularyHeading": "MAHA YOGARAJA GUGGULU",
+      "page": "/formulation/mahayograj-guggul/",
+      "afiPart": "I",
+      "entryNumber": "5:6",
+      "ingredientCount": 31,
+      "ingredientsWithAQuantity": 29,
+      "companies": {
+        "baidyanath": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/mahayograj-guggulu-40-tb"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/mahayograj-guggulu"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/guggul/divya-mahayograj-guggul-60-n/113",
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/guggul/divya-mahayograj-guggul-120-n/114"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/mahayogaraj-guggul"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "triphala-churna",
+      "name": "Triphala Churna",
+      "formularyHeading": "TRIPHALA CURNA",
+      "page": "/formulation/triphala-churna/",
+      "afiPart": "I",
+      "entryNumber": "7:15",
+      "ingredientCount": 3,
+      "ingredientsWithAQuantity": 3,
+      "companies": {
+        "baidyanath": {
+          "state": "neither",
+          "pages": 3,
+          "pagesInThatState": 3,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/triphala-churna-240-gm-pack-of-2",
+            "https://www.baidyanathayurved.com/products/triphala-churna",
+            "https://www.baidyanathayurved.com/products/baidyanath-triphala-churna-500-gm"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "dabur": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.dabur.com/our-brand/dabur-triphala-churna"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/combo-offers/combos/combo-triphala-churna-100g-pack-of-2/6997",
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/churna/divya-triphala-churna/199"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/triphala-choorna"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "yogaraja-guggulu",
+      "name": "Yogaraja Guggulu",
+      "formularyHeading": "YOGARAJA GUGGULU",
+      "page": "/formulation/yogaraja-guggulu/",
+      "afiPart": "I",
+      "entryNumber": "5:7",
+      "ingredientCount": 29,
+      "ingredientsWithAQuantity": 27,
+      "companies": {
+        "baidyanath": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/baidyanath-yograj-guggulu-200-tablets",
+            "https://www.baidyanathayurved.com/products/baidyanath-yograj-guggulu-120-tablets-pack-of-2"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/yograj-guggulu"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/guggul/divya-yograj-guggul/219"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/yogaraj-guggul"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "amritarishta",
+      "name": "Amritarishta",
+      "formularyHeading": "AMRTARISTA",
+      "page": "/formulation/amritarishta/",
+      "afiPart": "I",
+      "entryNumber": "1:2",
+      "ingredientCount": 24,
+      "ingredientsWithAQuantity": 24,
+      "companies": {
+        "baidyanath": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/baidyanath-amritarishta-450-ml",
+            "https://www.baidyanathayurved.com/products/typhoid-care-combo-amritarishta-mahasudarshan-kwath"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/amritarista-450-ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/amrutarishta"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "anu-taila",
+      "name": "Anu Taila",
+      "formularyHeading": "ANU TAILA",
+      "page": "/formulation/anu-taila/",
+      "afiPart": "I",
+      "entryNumber": "8:1",
+      "ingredientCount": 30,
+      "ingredientsWithAQuantity": 29,
+      "companies": {
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/anu-taila"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/oil/divya-anu-taila/1645"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/anu-taila"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "aravindasava",
+      "name": "Aravindasava",
+      "formularyHeading": "ARAVINDASAVA",
+      "page": "/formulation/aravindasava/",
+      "afiPart": "I",
+      "entryNumber": "1:4",
+      "ingredientCount": 28,
+      "ingredientsWithAQuantity": 27,
+      "companies": {
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/arvindasava-tonic-for-children-200ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/asava/divya-aravindasava/17"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/aravindasava"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "arogyavardhini-vati",
+      "name": "Arogyavardhini Vati",
+      "formularyHeading": "AROGYAVARDHINI GUTIKA",
+      "page": "/formulation/arogyavardhini-vati/",
+      "afiPart": "I",
+      "entryNumber": "20:4",
+      "ingredientCount": 13,
+      "ingredientsWithAQuantity": 12,
+      "companies": {
+        "baidyanath": {
+          "state": "neither",
+          "pages": 3,
+          "pagesInThatState": 3,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/baidyanath-arogya-vardhini-bati-80-tablets",
+            "https://www.baidyanathayurved.com/products/baidyanath-arogya-vardhini-bati-80-tablets-pack-of-2",
+            "https://www.baidyanathayurved.com/products/baidyanath-arogya-vardhini-bati-40-tablets-pack-of-2"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/arogya-vardhini-vati"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/vati/divya-arogyavardhini-vati/13"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "chandraprabha-vati",
+      "name": "Chandraprabha Vati",
+      "formularyHeading": "CANDRAPRABHA VATI",
+      "page": "/formulation/chandraprabha-vati/",
+      "afiPart": "I",
+      "entryNumber": "12:10",
+      "ingredientCount": 37,
+      "ingredientsWithAQuantity": 37,
+      "companies": {
+        "baidyanath": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/baidyanath-chandraprabha-bati-80-tb-pack-of-2",
+            "https://www.baidyanathayurved.com/products/baidyanath-chandraprabha-bat-160-tablets"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/chandraprabha-vati"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/vati/divya-chandraprabha-vati/30"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "dashamula",
+      "name": "Dashamula",
+      "formularyHeading": "DASAMULA KVATHA CURNA",
+      "page": "/formulation/dashamula/",
+      "afiPart": "I",
+      "entryNumber": "4:10",
+      "ingredientCount": 10,
+      "ingredientsWithAQuantity": 10,
+      "companies": {
+        "baidyanath": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/baidyanath-dashmool-kadha"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 4,
+          "pagesInThatState": 4,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/dashmoola-taila-for-headaches-50ml",
+            "https://maharishiayurvedaindia.com/products/dashmoola-kashaya",
+            "https://maharishiayurvedaindia.com/products/dashmoola-katutrayadi-kashayam",
+            "https://maharishiayurvedaindia.com/products/dashmool-kashaya"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/combo-offers/combos/combo-divya-dashmool-kwath-100g-pack-of-2/7064",
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/kwath/divya-dashmool-kwath/35"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "gokshuradi-guggulu",
+      "name": "Gokshuradi Guggulu",
+      "formularyHeading": "GOKSURADI GUGGULU",
+      "page": "/formulation/gokshuradi-guggulu/",
+      "afiPart": "I",
+      "entryNumber": "5:3",
+      "ingredientCount": 10,
+      "ingredientsWithAQuantity": 10,
+      "companies": {
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/goksuradi-guggulu-60-tablets"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/guggul/divya-gokshuradi-guggul/51"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/gokshuradi-guggul"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "pushyanuga-churna",
+      "name": "Pushyanuga Churna",
+      "formularyHeading": "PUSYANUGA CURNA",
+      "page": "/formulation/pushyanuga-churna/",
+      "afiPart": "I",
+      "entryNumber": "7:23",
+      "ingredientCount": 26,
+      "ingredientsWithAQuantity": 26,
+      "companies": {
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/pushyanuga-churna-for-womens-health-25-gms"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/churna/divya-pushyanug-churna/147"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/pushyanuga-choorna"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "rohitakarishta",
+      "name": "Rohitakarishta",
+      "formularyHeading": "ROHITAKARISTA",
+      "page": "/formulation/rohitakarishta/",
+      "afiPart": "I",
+      "entryNumber": "1:31",
+      "ingredientCount": 15,
+      "ingredientsWithAQuantity": 15,
+      "companies": {
+        "baidyanath": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/baidyanath-rohitkarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/rohitkarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/rohitakarishta"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "saraswatarishta",
+      "name": "Saraswatarishta",
+      "formularyHeading": "SARASVATARISTA",
+      "page": "/formulation/saraswatarishta/",
+      "afiPart": "I",
+      "entryNumber": "1:36",
+      "ingredientCount": 24,
+      "ingredientsWithAQuantity": 23,
+      "companies": {
+        "maharishi": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/saraswatarishta-brain-tonic-50ml",
+            "https://maharishiayurvedaindia.com/products/saraswatarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/arishta/divya-sarasvatarista/161"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/saraswatarishta"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "triphala-guggulu",
+      "name": "Triphala Guggulu",
+      "formularyHeading": "TRIPHALA GUGGULU",
+      "page": "/formulation/triphala-guggulu/",
+      "afiPart": "I",
+      "entryNumber": "5:5",
+      "ingredientCount": 5,
+      "ingredientsWithAQuantity": 5,
+      "companies": {
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/triphala-guggulu"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/guggul/divya-triphala-guggul-80n/201",
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/guggul/divya-triphala-guggul-40n/200"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/triphala-guggul"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "vidangarishta",
+      "name": "Vidangarishta",
+      "formularyHeading": "VIDANGARISTA",
+      "page": "/formulation/vidangarishta/",
+      "afiPart": "I",
+      "entryNumber": "1:34",
+      "ingredientCount": 20,
+      "ingredientsWithAQuantity": 20,
+      "companies": {
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/vidangarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/asava/divya-vidangasava-vidangarista/212"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/vidangarishta"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    }
+  ]
+}

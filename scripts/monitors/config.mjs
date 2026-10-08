@@ -48,6 +48,35 @@ export const COMPETITORS = [
   { id: 'ananda', name: 'Ananda', url: 'https://www.anandashirodhara.com/product-page/ananda-automatic-shirodhara-equipment' },
 ];
 
+/**
+ * The seven companies named in the composition-disclosure comparison.
+ *
+ * That page states what each company's own product pages published on the date they were read,
+ * and offers to correct an error including where the correction favours a competitor. Those
+ * pages change and our figures do not, so the promise rots unless something watches. One
+ * representative page per company, with the state we recorded against it, is enough to tell us
+ * the survey has gone stale; re-running all 210 fetches is a scheduled job, not a monitor.
+ *
+ * `expect` is the state the page claims, not the state we saw last run, so a change is reported
+ * as "the page is now wrong" on the first pass rather than needing two. Each URL is one that was
+ * itself in that state, not merely one of several pages aggregated into it.
+ *
+ * Age Ayurveda is in this list on the same terms as everyone else. We are the company the
+ * comparison records as publishing nothing, so a monitor that skipped us would be measuring only
+ * other people's drift.
+ */
+export const DISCLOSURE_AGENT = 'NighantuBot';
+
+export const DISCLOSURE_WATCH = [
+  { id: 'patanjali', company: 'Patanjali Ayurved', url: 'https://www.patanjaliayurved.net/product/combo-offers/combos/combo-special-chyawanprash-1-kg-pack-of-2/7067', expect: 'quantities' },
+  { id: 'sdl', company: 'Shree Dhootapapeshwar', url: 'https://www.sdlindia.com/products/chyavanprash-ashtavarga', expect: 'quantities' },
+  { id: 'dabur', company: 'Dabur', url: 'https://www.dabur.com/our-brand/dabur-chyawanprash', expect: 'list' },
+  { id: 'zandu', company: 'Zandu', url: 'https://zanducare.com/products/zandu-chyavanprash-avaleha-900g-pack-of-2', expect: 'list' },
+  { id: 'baidyanath', company: 'Baidyanath', url: 'https://www.baidyanathayurved.com/products/baidyanath-chyawanprash-jaggery-750gm', expect: 'neither' },
+  { id: 'maharishi', company: 'Maharishi Ayurveda', url: 'https://maharishiayurvedaindia.com/products/abhyarishta-for-treatment-of-constipation-450ml', expect: 'neither' },
+  { id: 'ageayurveda', company: 'Age Ayurveda', url: 'https://ageayurveda.com/products/chyawanprash', expect: 'neither' },
+];
+
 /** Numbers and spec words worth noticing a change in. */
 export const COMPETITOR_SIGNALS = [
   /(?:₹|rs\.?|inr)\s?[\d,]{3,}/gi,
