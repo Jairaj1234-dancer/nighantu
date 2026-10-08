@@ -2741,6 +2741,236 @@
     "checkedAt": "2026-10-08T07:58:31.816Z",
     "total": 21
   },
+  "safetyRefresh": {
+    "lastRunAt": "2026-10-08T11:23:39.890Z",
+    "sources": {
+      "bhanga:ayu-bhanga-trial": {
+        "checkedAt": "2026-10-08T11:22:51.879Z",
+        "hash": "9f8c28d41fab7b02",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6891996/"
+      },
+      "bhanga:fda-cannabis-preg": {
+        "checkedAt": "2026-10-08T11:22:57.399Z",
+        "hash": "7ddb072ef3d30358",
+        "url": "https://www.fda.gov/consumers/consumer-updates/what-you-should-know-about-using-cannabis-including-cbd-when-pregnant-or-breastfeeding"
+      },
+      "bhanga:lactmed-cannabis": {
+        "checkedAt": "2026-10-08T11:22:59.064Z",
+        "hash": "658667ec3e8df544",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501587/"
+      },
+      "bhanga:msk-cannabis": {
+        "checkedAt": "2026-10-08T11:23:02.478Z",
+        "hash": "24aa1cbd3978f995",
+        "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/cannabis"
+      },
+      "bhanga:nccih-cannabis": {
+        "checkedAt": "2026-10-08T11:22:55.701Z",
+        "hash": "19bab0edc07e21f6",
+        "url": "https://www.nccih.nih.gov/health/cannabis-marijuana-and-cannabinoids-what-you-need-to-know"
+      },
+      "bhanga:sodhana-review": {
+        "checkedAt": "2026-10-08T11:22:53.833Z",
+        "hash": "ccb59d3dbaf45a3c",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4535066/"
+      },
+      "kamsya-bhasma:bhalla2022": {
+        "checkedAt": "2026-10-08T11:22:28.237Z",
+        "hash": "03c517d95de47711",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8882783/"
+      },
+      "kamsya-bhasma:fda2025": {
+        "checkedAt": "2026-10-08T11:22:35.008Z",
+        "hash": "83d4ab5b66791d89",
+        "url": "https://www.fda.gov/drugs/fraudulent-products/fda-warns-about-heavy-metal-poisoning-associated-certain-unapproved-ayurvedic-drug-products"
+      },
+      "kamsya-bhasma:liu2019": {
+        "checkedAt": "2026-10-08T11:22:23.365Z",
+        "hash": "02243621fdacbeb6",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6421027/"
+      },
+      "kamsya-bhasma:mikulski2018": {
+        "checkedAt": "2026-10-08T11:22:26.645Z",
+        "hash": "03c517d95de47711",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6060866/"
+      },
+      "kamsya-bhasma:nccih": {
+        "checkedAt": "2026-10-08T11:22:36.899Z",
+        "hash": "1200cc36fb70b232",
+        "url": "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth"
+      },
+      "kamsya-bhasma:saper2008": {
+        "checkedAt": "2026-10-08T11:22:25.042Z",
+        "hash": "5d690d716e4f5e97",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2755247/"
+      },
+      "kamsya-bhasma:sarkar2010": {
+        "checkedAt": "2026-10-08T11:22:29.830Z",
+        "hash": "03c517d95de47711",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3336294/"
+      },
+      "kamsya-bhasma:who_lead": {
+        "checkedAt": "2026-10-08T11:22:31.764Z",
+        "hash": "d661adb603113dee",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/lead-poisoning-and-health"
+      },
+      "kamsya-bhasma:who_mercury": {
+        "checkedAt": "2026-10-08T11:22:33.306Z",
+        "hash": "1b44f000821746a8",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/mercury-and-health"
+      },
+      "mrigashringa-bhasma:angers2009": {
+        "checkedAt": "2026-10-08T11:23:08.928Z",
+        "hash": "03c517d95de47711",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2687044/"
+      },
+      "mrigashringa-bhasma:brown2000": {
+        "checkedAt": "2026-10-08T11:23:14.015Z",
+        "hash": "8788dd2c5525f51f",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC16254/"
+      },
+      "mrigashringa-bhasma:cdc2012": {
+        "checkedAt": "2026-10-08T11:23:24.458Z",
+        "hash": "de824fe30b780928",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22914225/"
+      },
+      "mrigashringa-bhasma:fda2025": {
+        "checkedAt": "2026-10-08T11:23:18.899Z",
+        "hash": "83d4ab5b66791d89",
+        "url": "https://www.fda.gov/drugs/fraudulent-products/fda-warns-about-heavy-metal-poisoning-associated-certain-unapproved-ayurvedic-drug-products"
+      },
+      "mrigashringa-bhasma:mikulski2018": {
+        "checkedAt": "2026-10-08T11:23:17.202Z",
+        "hash": "03c517d95de47711",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6060866/"
+      },
+      "mrigashringa-bhasma:nccih": {
+        "checkedAt": "2026-10-08T11:23:20.858Z",
+        "hash": "1200cc36fb70b232",
+        "url": "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth"
+      },
+      "mrigashringa-bhasma:pal2014": {
+        "checkedAt": "2026-10-08T11:23:07.343Z",
+        "hash": "03c517d95de47711",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3960793/"
+      },
+      "mrigashringa-bhasma:pritzkow2022": {
+        "checkedAt": "2026-10-08T11:23:10.668Z",
+        "hash": "0c7cadd2c537555d",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9316268/"
+      },
+      "mrigashringa-bhasma:rajasekaran2002": {
+        "checkedAt": "2026-10-08T11:23:05.766Z",
+        "hash": "03c517d95de47711",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3331042/"
+      },
+      "mrigashringa-bhasma:sakudo2022": {
+        "checkedAt": "2026-10-08T11:23:12.339Z",
+        "hash": "16bba17c9991ef9a",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9499420/"
+      },
+      "mrigashringa-bhasma:saper2008": {
+        "checkedAt": "2026-10-08T11:23:15.613Z",
+        "hash": "03c517d95de47711",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2755247/"
+      },
+      "mrigashringa-bhasma:sharma2019cp": {
+        "checkedAt": "2026-10-08T11:23:04.170Z",
+        "hash": "a240f982c64b421c",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6571565/"
+      },
+      "mrigashringa-bhasma:who2025lead": {
+        "checkedAt": "2026-10-08T11:23:22.832Z",
+        "hash": "d661adb603113dee",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/lead-poisoning-and-health"
+      },
+      "neelam-pishti:fda2025": {
+        "checkedAt": "2026-10-08T11:22:46.673Z",
+        "hash": "83d4ab5b66791d89",
+        "url": "https://www.fda.gov/drugs/fraudulent-products/fda-warns-about-heavy-metal-poisoning-associated-certain-unapproved-ayurvedic-drug-products"
+      },
+      "neelam-pishti:hore2022": {
+        "checkedAt": "2026-10-08T11:22:45.052Z",
+        "hash": "de824fe30b780928",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36179284/"
+      },
+      "neelam-pishti:jagtap2024": {
+        "checkedAt": "2026-10-08T11:22:38.560Z",
+        "hash": "de824fe30b780928",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39615446/"
+      },
+      "neelam-pishti:joshi2020": {
+        "checkedAt": "2026-10-08T11:22:50.118Z",
+        "hash": "de824fe30b780928",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35813362/"
+      },
+      "neelam-pishti:mikulski2018": {
+        "checkedAt": "2026-10-08T11:22:43.483Z",
+        "hash": "03c517d95de47711",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6060866/"
+      },
+      "neelam-pishti:nccih": {
+        "checkedAt": "2026-10-08T11:22:48.438Z",
+        "hash": "1200cc36fb70b232",
+        "url": "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth"
+      },
+      "neelam-pishti:saper2004": {
+        "checkedAt": "2026-10-08T11:22:41.847Z",
+        "hash": "de824fe30b780928",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15598918/"
+      },
+      "neelam-pishti:saper2008": {
+        "checkedAt": "2026-10-08T11:22:40.280Z",
+        "hash": "de824fe30b780928",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18728265/"
+      },
+      "varatika-bhasma:v1": {
+        "checkedAt": "2026-10-08T11:23:26.150Z",
+        "hash": "e43fd9c3b7ee78d6",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3960793/"
+      },
+      "varatika-bhasma:v2": {
+        "checkedAt": "2026-10-08T11:23:27.745Z",
+        "hash": "03c517d95de47711",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4147483/"
+      },
+      "varatika-bhasma:v3": {
+        "checkedAt": "2026-10-08T11:23:29.341Z",
+        "hash": "03c517d95de47711",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7685255/"
+      },
+      "varatika-bhasma:v4": {
+        "checkedAt": "2026-10-08T11:23:30.999Z",
+        "hash": "5d690d716e4f5e97",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2755247/"
+      },
+      "varatika-bhasma:v5": {
+        "checkedAt": "2026-10-08T11:23:32.623Z",
+        "hash": "ed40717dca40165d",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8882783/"
+      },
+      "varatika-bhasma:v6": {
+        "checkedAt": "2026-10-08T11:23:34.200Z",
+        "hash": "83d4ab5b66791d89",
+        "url": "https://www.fda.gov/drugs/fraudulent-products/fda-warns-about-heavy-metal-poisoning-associated-certain-unapproved-ayurvedic-drug-products"
+      },
+      "varatika-bhasma:v7": {
+        "checkedAt": "2026-10-08T11:23:36.076Z",
+        "hash": "1200cc36fb70b232",
+        "url": "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth"
+      },
+      "varatika-bhasma:v8": {
+        "checkedAt": "2026-10-08T11:23:38.145Z",
+        "hash": "d661adb603113dee",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/lead-poisoning-and-health"
+      },
+      "varatika-bhasma:v9": {
+        "checkedAt": "2026-10-08T11:23:39.890Z",
+        "hash": "3eda333659d6f47a",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5411861/"
+      }
+    }
+  },
   "search": {
     "bing": {
       "checkedAt": "2026-10-08T07:37:12.351Z",
@@ -3263,6 +3493,6 @@
     "seen": 10,
     "surfaced": 0
   },
-  "updatedAt": "2026-10-08T09:48:09.320Z",
+  "updatedAt": "2026-10-08T11:23:39.890Z",
   "version": 1
 }
