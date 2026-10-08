@@ -55,7 +55,7 @@ _Every citation recorded so far has gone to the Shopify store, not to this site.
 | Kawachi | ok 200 | 1 |
 | Ananda | ok 200 | 2 |
 
-_Checked 2026-10-07. Feeds the comparison table's accuracy promise._
+_Checked 2026-10-08. Feeds the comparison table's accuracy promise._
 
 ## Indexation
 
@@ -78,11 +78,11 @@ Wayback and Software Heritage all publish free, documented APIs._
 | --- | --- |
 | Feeds queried | 13 |
 | Rate-limited | 12 |
-| Posts seen | 9 |
-| New since last run | 9 |
-| Met the bar | 2 |
-| Surfaced to you | 2 |
-| Checked | 2026-10-07 |
+| Posts seen | 10 |
+| New since last run | 6 |
+| Met the bar | 0 |
+| Surfaced to you | 0 |
+| Checked | 2026-10-08 |
 
 _A thread only qualifies if it names something the Nighantu has a page about._
 _Read-only. Nothing is posted to any platform._

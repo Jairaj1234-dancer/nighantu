@@ -1,13 +1,13 @@
 {
   "community": {
-    "checkedAt": "2026-10-07T07:43:05.908Z",
+    "checkedAt": "2026-10-08T07:58:44.335Z",
     "feeds": 4,
     "matched": 0,
     "scanned": 25
   },
   "competitors": {
     "ajengineer": {
-      "checkedAt": "2026-10-07T07:42:57.408Z",
+      "checkedAt": "2026-10-08T07:58:34.941Z",
       "hash": "c8f0221ba8baca99",
       "signals": [
         "12 liter",
@@ -18,7 +18,7 @@
       "url": "https://www.ajengineer.co.in/ayurvedic-therapy-machine.html"
     },
     "ananda": {
-      "checkedAt": "2026-10-07T07:43:05.031Z",
+      "checkedAt": "2026-10-08T07:58:43.708Z",
       "hash": "4e12cc6bfe5dcfa5",
       "signals": [
         "$120",
@@ -27,7 +27,7 @@
       "url": "https://www.anandashirodhara.com/product-page/ananda-automatic-shirodhara-equipment"
     },
     "cristalmind": {
-      "checkedAt": "2026-10-07T07:42:56.765Z",
+      "checkedAt": "2026-10-08T07:58:34.421Z",
       "hash": "7b99df66ba52e31d",
       "signals": [
         "2-3 minutes",
@@ -37,13 +37,13 @@
       "url": "https://www.cristalmind.com/"
     },
     "esteem": {
-      "checkedAt": "2026-10-07T07:42:58.221Z",
+      "checkedAt": "2026-10-08T07:58:35.847Z",
       "hash": "e3b0c44298fc1c14",
       "signals": [],
       "url": "https://www.esteemservices.in/fully-automatic-shirodhara-machine.htm"
     },
     "kawachi": {
-      "checkedAt": "2026-10-07T07:43:00.123Z",
+      "checkedAt": "2026-10-08T07:58:38.622Z",
       "hash": "d51abf5a796bd560",
       "signals": [
         "₹8,999"
@@ -52,7 +52,7 @@
     }
   },
   "competitorSummary": {
-    "checkedAt": "2026-10-07T07:43:05.031Z",
+    "checkedAt": "2026-10-08T07:58:43.708Z",
     "items": [
       {
         "id": "cristalmind",
@@ -110,7 +110,7 @@
   },
   "feeds": {
     "r-ayurveda": {
-      "checkedAt": "2026-10-07T07:43:05.640Z",
+      "checkedAt": "2026-10-08T07:58:44.149Z",
       "seenIds": [
         "t3_1wbhvk6",
         "t3_1waw2la",
@@ -273,18 +273,21 @@
         "t3_1wy26kx",
         "t3_1wy1y7n",
         "t3_1wys1h9",
-        "t3_1wzje9a"
+        "t3_1wzje9a",
+        "t3_1x0isqz",
+        "t3_1x0cgbz",
+        "t3_1wztx6z"
       ]
     }
   },
   "freshness": {
-    "checkedAt": "2026-10-07T07:43:05.033Z",
+    "checkedAt": "2026-10-08T07:58:43.710Z",
     "oldest": [],
     "overdue": 0,
     "total": 815
   },
   "health": {
-    "checkedAt": "2026-10-07T07:42:45.906Z",
+    "checkedAt": "2026-10-08T07:58:22.551Z",
     "failing": 0,
     "failingUrls": [],
     "total": 15
@@ -298,7 +301,7 @@
       "note": "no webmaster tool and no submission route exists",
       "status": "unknown"
     },
-    "checkedAt": "2026-10-07T07:44:24.880Z",
+    "checkedAt": "2026-10-08T08:00:23.238Z",
     "commonCrawl": {
       "checked": [
         "CC-MAIN-2026-39",
@@ -2177,7 +2180,7 @@
   "products": {
     "broken": 0,
     "brokenHandles": [],
-    "checkedAt": "2026-10-07T07:42:54.542Z",
+    "checkedAt": "2026-10-08T07:58:31.816Z",
     "total": 21
   },
   "search": {
@@ -2369,7 +2372,7 @@
     }
   },
   "threads": {
-    "checkedAt": "2026-10-07T07:44:19.700Z",
+    "checkedAt": "2026-10-08T07:59:57.551Z",
     "seenIds": [
       "t5_2skvk",
       "t5_jtmsek",
@@ -2683,19 +2686,25 @@
       "t3_1wxja0f",
       "t3_1wxiw4x",
       "t3_1wxbggv",
-      "t3_1wwqshp"
+      "t3_1wwqshp",
+      "t3_1wzxdu3",
+      "t3_1wxt8gf",
+      "t3_1wxt6fe",
+      "t3_1wxsw1y",
+      "t3_1wxkq22",
+      "t3_1wvu0yk"
     ]
   },
   "threadStats": {
     "blocked": 12,
-    "checkedAt": "2026-10-07T07:44:19.700Z",
-    "fresh": 9,
+    "checkedAt": "2026-10-08T07:59:57.551Z",
+    "fresh": 6,
     "note": "Reddit blocks empty or generic user agents; lib/fetch.mjs sends a descriptive one.",
-    "qualified": 2,
+    "qualified": 0,
     "requests": 13,
-    "seen": 9,
-    "surfaced": 2
+    "seen": 10,
+    "surfaced": 0
   },
-  "updatedAt": "2026-10-08T07:54:50.755Z",
+  "updatedAt": "2026-10-08T08:00:23.238Z",
   "version": 1
 }
