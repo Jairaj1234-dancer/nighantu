@@ -80,6 +80,11 @@ jobs:
       # label, which is the failure that matters, so most of the cases are negative.
       - name: Formulation name matcher tests
         run: node scripts/test/formulation-names.test.mjs
+      # Reads what a manufacturer's page states. The finding it feeds is mostly about ABSENCE,
+      # so the cases that matter are the ones separating "this page publishes no composition"
+      # from "this code could not read the page", and keeping a pack size off the ingredient list.
+      - name: Product extraction tests
+        run: node scripts/test/product-extract.test.mjs
       # Deterministic anti-hallucination checks for generated prose. Models auditing
       # models has already failed on this project once; these do not have a bad day.
       - name: Grounding checks
