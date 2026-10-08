@@ -75,6 +75,7 @@ graph.push({
   // `#dravyaguna-parquet` and so on until 8 October, which resolved to nothing: the catalogue
   // page keys its nodes on the dataset, not on one of its distributions.
   'dataset': [
+    { '@id': `${SITE_URL}/datasets/#lexicon` },
     { '@id': `${SITE_URL}/datasets/#composition` },
     { '@id': `${SITE_URL}/datasets/#dravyaguna` },
     { '@id': `${SITE_URL}/datasets/#compounds` },

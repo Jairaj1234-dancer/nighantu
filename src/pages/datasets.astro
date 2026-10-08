@@ -3,6 +3,7 @@ import Page from '../layouts/Page.astro';
 import { abs, rel } from '../lib/site';
 import compounds from '../data/compounds.json';
 import compositionSummary from '../data/composition-summary.json';
+import lexicon from '../data/lexicon.json';
 import dravyaguna from '../data/dravyaguna.json';
 import research from '../data/research.json';
 import taxonomy from '../data/taxonomy.json';
@@ -22,8 +23,20 @@ const description = 'Downloadable machine-readable datasets of classical Ayurved
 const canonical = '/datasets/';
 
 const composition = compositionSummary as any;
+const lex = (lexicon as any).summary;
 
 const datasets = [
+  {
+    id: 'lexicon',
+    name: 'Ayurvedic Terminology Lexicon',
+    description: `${n(lex.records)} Ayurvedic technical terms and ${n(lex.renderings)} English renderings between them: for each term, every equivalent found in the WHO standard terminologies, the published Samhita translations and the secondary literature, each with its source and an assessment of whether the rendering survives the classical passage it claims to render. ${n(lex.quotesPublished)} classical quotations, every one checked against its source. Renderings from NoDerivs-licensed sources appear on the pages and not in this download; see the licence note inside the file.`,
+    rowCount: `${n(lex.renderings)} renderings across ${n(lex.records)} terms · ${n(lex.citations)} classical citations`,
+    browse: '/lexicon/',
+    formats: [
+      { ext: 'JSON', path: '/lexicon.json', mime: 'application/json' },
+      { ext: 'CSV', path: '/lexicon.csv', mime: 'text/csv' }
+    ]
+  },
   {
     id: 'composition',
     name: 'Classical Formulation Composition Dataset',

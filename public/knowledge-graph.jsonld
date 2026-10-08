@@ -37,6 +37,9 @@
       "sameAs": "https://www.wikidata.org/wiki/Q141494735",
       "dataset": [
         {
+          "@id": "https://nighantu.ageayurveda.com/datasets/#lexicon"
+        },
+        {
           "@id": "https://nighantu.ageayurveda.com/datasets/#composition"
         },
         {

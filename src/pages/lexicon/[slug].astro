@@ -1,0 +1,228 @@
+---
+/**
+ * One page per Ayurvedic term.
+ *
+ * The order of the page is the argument it makes. Renderings first, because the disagreement
+ * between them is why the page exists. Then the classical passages that bear on the term, each
+ * with our account of what it establishes and the verdict from checking it against its source.
+ * Then what the term must not be confused with, and finally the renderings that are simply wrong
+ * and why.
+ *
+ * A withheld quotation is shown as a withheld quotation, with its address and the reason. It is
+ * never silently dropped: a reader who can see that a passage exists and that we could not quote
+ * it is better served than one who cannot tell the difference between an absent citation and a
+ * citation whose words we may not reproduce.
+ */
+import Page from '../../layouts/Page.astro';
+import lexicon from '../../data/lexicon.json';
+import { abs, rel } from '../../lib/site';
+
+export function getStaticPaths() {
+  return ((lexicon as any).records as any[]).map((r) => ({ params: { slug: r.slug }, props: { r } }));
+}
+
+const { r } = Astro.props as { r: any };
+const data = lexicon as any;
+const families = data.families as { id: string; label: string }[];
+const family = families.find((f) => f.id === r.family) ?? null;
+
+const name = r.iast ?? r.slug;
+const first = r.renderings?.[0]?.english ?? null;
+const distinct = [...new Set((r.renderings ?? []).map((x: any) => String(x.english ?? '').toLowerCase().trim()).filter(Boolean))];
+
+const title = `${name}: what the term means and how it is translated`;
+const description = first
+  ? `${name}${r.devanagari ? ` (${r.devanagari})` : ''} is rendered into English as "${first}"`
+    + `${distinct.length > 1 ? ` and ${distinct.length - 1} other way${distinct.length > 2 ? 's' : ''}` : ''}. `
+    + `${(r.classical ?? []).length} classical citation${(r.classical ?? []).length === 1 ? '' : 's'}, each checked against its source.`
+  : `${name}${r.devanagari ? ` (${r.devanagari})` : ''}, an Ayurvedic technical term, with the classical passages that bear on it.`;
+const canonical = `/lexicon/${r.slug}/`;
+
+const address = (c: any) => [c.sthana, [c.chapter, c.verse].filter(Boolean).join(':')].filter(Boolean).join(' ');
+
+const jsonld = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'DefinedTerm',
+    '@id': `${abs(canonical)}#term`,
+    name,
+    alternateName: [r.devanagari, ...(r.alternates ?? [])].filter(Boolean),
+    description: first ?? undefined,
+    url: abs(canonical),
+    inDefinedTermSet: { '@type': 'DefinedTermSet', '@id': `${abs('/lexicon/')}#termset`, name: 'Age Ayurveda Nighantu Ayurvedic terminology lexicon', url: abs('/lexicon/') },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Nighantu', item: abs('/') },
+      { '@type': 'ListItem', position: 2, name: 'Lexicon', item: abs('/lexicon/') },
+      { '@type': 'ListItem', position: 3, name, item: abs(canonical) },
+    ],
+  },
+];
+---
+<Page title={title} description={description} canonical={canonical} jsonld={jsonld}>
+  <p class="answer">
+    <strong>{name}</strong>{r.devanagari && <> <span class="deva">{r.devanagari}</span></>} is an
+    Ayurvedic technical term.
+    {distinct.length === 1 && <> It is rendered into English as "{r.renderings[0].english}".</>}
+    {distinct.length > 1 && <> It is rendered into English in {distinct.length} different ways, which is the reason this page exists: the renderings do not agree, and the difference between them changes what the term is taken to mean.</>}
+    {distinct.length === 0 && <> No published English rendering was found for it.</>}
+  </p>
+
+  <table class="facts">
+    <caption>Identification</caption>
+    <tbody>
+      <tr><th scope="row">Transliteration</th><td>{r.iast ?? '—'}</td></tr>
+      {r.devanagari && <tr><th scope="row">Devanagari</th><td class="deva">{r.devanagari}</td></tr>}
+      {(r.alternates ?? []).length > 0 && <tr><th scope="row">Also written</th><td>{r.alternates.join(', ')}</td></tr>}
+      {r.category && <tr><th scope="row">Category, as gathered</th><td>{r.category}</td></tr>}
+      {family && <tr><th scope="row">Grouped here under</th><td><a href={rel('/lexicon/')}>{family.label}</a></td></tr>}
+      <tr><th scope="row">Classical citations</th><td>{(r.classical ?? []).length}</td></tr>
+      {r.verifiedOn && <tr><th scope="row">Citations checked</th><td>{r.verifiedOn}</td></tr>}
+    </tbody>
+  </table>
+
+  {r.nameAttestation && (
+    <>
+      <h2>Is the name itself classical?</h2>
+      <p><strong>{r.nameAttestation.finding}</strong></p>
+      <p>{r.nameAttestation.detail}</p>
+    </>
+  )}
+
+  {(r.renderings ?? []).length > 0 && (
+    <>
+      <h2>How it is translated, and whether the translation holds</h2>
+      <p>
+        Each rendering is given with the source that uses it. The assessment is ours.
+      </p>
+      {r.renderings.map((x: any) => (
+        <div class="rendering">
+          <p class="english"><strong>{x.english}</strong></p>
+          <p class="src">
+            {x.sourceName}
+            {x.locator && <> · {x.locator}</>}
+            {x.locatorWithheld && <> · <em>the source's own wording is not reproduced here: {x.locatorWithheld}</em></>}
+            {x.sourceKind && <> · <span class="kind">{x.sourceKind}</span></>}
+            {x.verbatim === false && <> · <em>our paraphrase of the source, not its words</em></>}
+          </p>
+          {x.englishWithheld && (
+            <p class="src"><em>The source's rendering runs to a full definition and is not reproduced: {x.englishWithheld}.</em></p>
+          )}
+          {x.assessment && <p class="assess">{x.assessment}</p>}
+          {x.licence === 'nd-attribution' && (
+            <p class="nd">
+              Reproduced unaltered and attributed from {x.licenceNote}, which is what that licence
+              permits. It is deliberately absent from the
+              <a href={rel('/lexicon.json')}>downloadable dataset</a>, which is offered under
+              CC BY 4.0 and invites the modification a NoDerivs licence forbids.
+            </p>
+          )}
+        </div>
+      ))}
+    </>
+  )}
+
+  {(r.classical ?? []).length > 0 && (
+    <>
+      <h2>The classical passages</h2>
+      <p>
+        Each citation gives its address so a reader can check it in a printed edition, our account
+        of what the passage establishes, and the result of reading it against its source.
+      </p>
+      {r.classical.map((c: any) => (
+        <div class="citation">
+          <p class="cite-head">
+            <cite>{c.text}</cite>{address(c) && <> {address(c)}</>}
+            {c.checked && <> · <span class="verdict">{c.checked}</span></>}
+          </p>
+          {c.quote && (
+            <blockquote>
+              <p>{c.quote}</p>
+              <footer>
+                {c.translator ? <>tr. {c.translator}</> : <>Sanskrit <i>mūla</i></>}
+                {c.sourceUrl && <> · <a href={c.sourceUrl} rel="noopener">source</a></>}
+              </footer>
+            </blockquote>
+          )}
+          {!c.quote && c.quoteWithheld && (
+            <p class="withheld">
+              <strong>Quotation withheld.</strong> {c.quoteWithheld}.
+              {c.sourceUrl && <> The passage is at <a href={c.sourceUrl} rel="noopener">this address</a>.</>}
+            </p>
+          )}
+          {c.establishes && <p class="establishes">{c.establishes}</p>}
+        </div>
+      ))}
+    </>
+  )}
+
+  {(r.distinguishFrom ?? []).length > 0 && (
+    <>
+      <h2>Not to be confused with</h2>
+      <dl class="distinguish">
+        {r.distinguishFrom.map((d: any) => (
+          <>
+            <dt>{d.term}</dt>
+            <dd>{d.why}</dd>
+          </>
+        ))}
+      </dl>
+    </>
+  )}
+
+  {(r.mistranslations ?? []).length > 0 && (
+    <>
+      <h2>Renderings that do not hold</h2>
+      <ul>
+        {r.mistranslations.map((m: any) => (
+          <li>{typeof m === 'string' ? m : <>{m.rendering && <strong>{m.rendering}. </strong>}{m.why ?? m.problem ?? JSON.stringify(m)}</>}</li>
+        ))}
+      </ul>
+    </>
+  )}
+
+  {(r.openQuestions ?? []).length > 0 && (
+    <>
+      <h2>Open questions</h2>
+      <p>Recorded rather than resolved. Each one is something this entry cannot currently settle.</p>
+      <ul>
+        {r.openQuestions.map((q: any) => <li>{typeof q === 'string' ? q : (q.question ?? JSON.stringify(q))}</li>)}
+      </ul>
+    </>
+  )}
+
+  <h2>How to cite this entry</h2>
+  <p>
+    Age Ayurveda Nighantu, <q>{name}</q>, <a href={rel(canonical)}>{abs(canonical)}</a>, CC BY 4.0.
+    The whole lexicon is downloadable from the <a href={rel('/lexicon/')}>index</a>.
+  </p>
+  <p class="disclaimer">
+    Educational reference only. A term entry explains what a word means and how it has been
+    translated. Nothing here is advice, and nothing here describes how any condition should be
+    treated.
+  </p>
+</Page>
+
+<style>
+  .deva { font-size: 1.05em; }
+  .rendering { border-left: 2px solid var(--rule); padding: .1rem 0 .1rem .9rem; margin: 1rem 0; }
+  .rendering .english { margin: 0 0 .15rem; }
+  .rendering .src { margin: 0 0 .35rem; font-size: .88rem; color: var(--ink-soft); }
+  .rendering .kind { font-variant: small-caps; }
+  .rendering .assess { margin: 0; font-size: .95rem; }
+  .rendering .nd { margin: .35rem 0 0; font-size: .82rem; color: var(--ink-soft); }
+  .citation { margin: 1.4rem 0; }
+  .cite-head { margin: 0 0 .3rem; font-size: .92rem; color: var(--ink-soft); }
+  .cite-head cite { font-style: normal; font-weight: 600; color: var(--ink); }
+  .verdict { font-variant: small-caps; }
+  .citation blockquote { margin: .3rem 0 .5rem; padding-left: .9rem; border-left: 3px solid var(--rule); }
+  .citation blockquote p { margin: 0 0 .25rem; }
+  .citation blockquote footer { font-size: .85rem; color: var(--ink-soft); }
+  .withheld { font-size: .92rem; background: var(--surface-2, #f4f6f8); padding: .5rem .7rem; border-radius: 3px; }
+  .establishes { margin: .3rem 0 0; font-size: .95rem; }
+  .distinguish dt { font-weight: 600; margin-top: .7rem; }
+  .distinguish dd { margin: .15rem 0 0; font-size: .95rem; }
+</style>

@@ -50,6 +50,12 @@ jobs:
       # dataset nowhere. Generated, not committed, so this must run before the build.
       - name: Generate the formulary composition dataset
         run: node scripts/composition-dataset.mjs
+      # src/data/lexicon.json is committed, exported from the local-only lexicon repository by its
+      # own script, so this step only reshapes what is already here. It is also the step that
+      # applies the licence split: renderings from the WHO terminologies and the Government of
+      # India lists appear on the pages and not in the CC BY 4.0 downloads. See LICENSES.md.
+      - name: Generate the terminology lexicon dataset
+        run: node scripts/lexicon-dataset.mjs
       - name: Generate the constituent graph
         run: node scripts/compounds.mjs
       - name: Generate the reading-links dataset

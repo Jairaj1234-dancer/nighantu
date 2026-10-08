@@ -99,6 +99,7 @@ const RECORD_URL = {
   // The only dataset that already knows where it is displayed: the generator writes `page` per
   // entry off the same slug the route is built from, so there is nothing to infer here.
   composition: (r) => r.page ?? null,
+  lexicon: (r) => r.page ?? null,
   compounds: () => '/compounds/',
   chemistry: () => '/compounds/',
   /**

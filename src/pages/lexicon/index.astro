@@ -1,0 +1,192 @@
+---
+/**
+ * The terminology lexicon index.
+ *
+ * WHAT THIS IS FOR. Ayurvedic technical terms are rendered into English inconsistently, and the
+ * inconsistency is not a translation quibble: `doṣa` as "humour" imports a Galenic theory that is
+ * not what the word means, and `praśamana` as "pacifying" conceals that the endpoint is
+ * equilibrium rather than reduction. So each term here carries every rendering found for it, with
+ * the source that uses it and an assessment of whether the rendering survives the classical
+ * passage it claims to render.
+ *
+ * WHAT IS NOT HERE. The concept records, which cover the theory of health and disease as wholes
+ * rather than term by term. They exist, they hold 408 quoted classical citations, and not one of
+ * those citations has been checked against its source yet. The terms earned the word verified by
+ * paying for it; publishing the concepts beside them would borrow it.
+ */
+import Page from '../../layouts/Page.astro';
+import lexicon from '../../data/lexicon.json';
+import { abs, rel } from '../../lib/site';
+
+const data = lexicon as any;
+const records = data.records as any[];
+const families = data.families as { id: string; label: string }[];
+const sum = data.summary;
+
+const title = 'Ayurvedic terminology: how each term is rendered into English';
+const description = `${records.length} Ayurvedic technical terms with every English rendering found `
+  + 'for each, the source that uses it, an assessment of whether the rendering holds, and the '
+  + 'classical passages that bear on the term. Every quoted classical citation checked against its source.';
+const canonical = '/lexicon/';
+
+const n = (x: number) => x.toLocaleString('en-GB');
+const byFamily = families.map((f) => ({
+  ...f,
+  items: records.filter((r) => r.family === f.id).sort((a, b) => a.slug.localeCompare(b.slug)),
+}));
+const unplaced = records.filter((r) => !r.family);
+
+/** Terms whose renderings disagree with each other, which are the interesting ones. */
+const contested = records
+  .map((r) => ({ r, distinct: new Set(r.renderings.map((x: any) => String(x.english ?? '').toLowerCase().trim())).size }))
+  .filter((x) => x.distinct >= 4)
+  .sort((a, b) => b.distinct - a.distinct)
+  .slice(0, 24);
+
+const withMistranslations = records.filter((r) => (r.mistranslations ?? []).length);
+
+const jsonld = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'DefinedTermSet',
+    '@id': `${abs(canonical)}#termset`,
+    name: title,
+    description,
+    url: abs(canonical),
+    license: 'https://creativecommons.org/licenses/by/4.0/',
+    inLanguage: ['en', 'sa'],
+    creator: { '@id': `${abs('/')}#organization` },
+    publisher: { '@id': `${abs('/')}#organization` },
+    hasDefinedTerm: records.map((r) => ({
+      '@type': 'DefinedTerm',
+      '@id': `${abs(`/lexicon/${r.slug}/`)}#term`,
+      name: r.iast ?? r.slug,
+      alternateName: [r.devanagari, ...(r.alternates ?? [])].filter(Boolean),
+      description: r.renderings?.[0]?.english ?? undefined,
+      url: abs(`/lexicon/${r.slug}/`),
+      inDefinedTermSet: { '@id': `${abs(canonical)}#termset` },
+    })),
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Dataset',
+    '@id': `${abs(canonical)}#dataset`,
+    name: data.name,
+    description: data.description,
+    url: abs(canonical),
+    license: 'https://creativecommons.org/licenses/by/4.0/',
+    isAccessibleForFree: true,
+    creator: { '@id': `${abs('/')}#organization` },
+    publisher: { '@id': `${abs('/')}#organization` },
+    variableMeasured: ['term', 'English rendering', 'rendering source', 'assessment', 'classical citation'],
+    distribution: [
+      { '@type': 'DataDownload', name: 'JSON', encodingFormat: 'application/json', contentUrl: abs('/lexicon.json') },
+      { '@type': 'DataDownload', name: 'CSV', encodingFormat: 'text/csv', contentUrl: abs('/lexicon.csv') },
+    ],
+  },
+];
+---
+<Page title={title} description={description} canonical={canonical} jsonld={jsonld}>
+  <p class="answer">
+    Ayurvedic technical terms are rendered into English inconsistently, and the inconsistency
+    changes the meaning. This lexicon holds <strong>{n(records.length)} terms</strong> with
+    <strong>{n(sum.renderings)} renderings</strong> between them: for each term, every English
+    equivalent found in the WHO standard terminologies, the published Samhita translations and the
+    secondary literature, each with the source that uses it and an assessment of whether it
+    survives the classical passage it claims to render.
+  </p>
+
+  <p class="lede">
+    The point is not to pick a winner. It is that a reader meeting "humour" for
+    <i>doṣa</i> or "pacifying" for <i>praśamana</i> should be able to see what the word carries
+    that the English does not.
+  </p>
+
+  <table class="facts">
+    <caption>What is here</caption>
+    <tbody>
+      <tr><th scope="row">Terms</th><td>{n(records.length)}</td></tr>
+      <tr><th scope="row">English renderings recorded</th><td>{n(sum.renderings)}</td></tr>
+      <tr><th scope="row">Classical citations</th><td>{n(sum.citations)}</td></tr>
+      <tr><th scope="row">Quotations published</th><td>{n(sum.quotesPublished)}</td></tr>
+      <tr><th scope="row">Quotations withheld</th><td>{n(sum.quotesWithheld)}, each saying why on the citation</td></tr>
+      <tr><th scope="row">Citations that are an address only</th><td>{n(sum.citationsThatAreAddressOnly)}</td></tr>
+      <tr><th scope="row">Terms with a recorded mistranslation</th><td>{n(withMistranslations.length)}</td></tr>
+    </tbody>
+  </table>
+
+  <h2>Which quotations are published, and which are not</h2>
+  <p>
+    A classical quotation appears here only if it is Sanskrit <i>mūla</i>, which is ancient and
+    carries no licence question, or an English translation this project has cleared:
+    Kaviratna's <cite>Charaka</cite> of 1896 to 1913, or Bhishagratna's <cite>Sushruta</cite> of
+    1907 to 1916. Anything else is published as an address and our own account of what the passage
+    establishes, with the quoted words withheld and the reason stated on the citation itself.
+    {sum.quotesWithheld} of {n(sum.citations)} citations are in that position.
+  </p>
+  <p>
+    A quotation is also withheld if nobody has read it against its source, whatever its licence
+    says. That accounts for most of the withheld ones: the verification pass keyed on a field that
+    these citations do not carry, so they escaped it, and an unchecked quotation is not something
+    this site will stand behind. The address and the characterisation still publish, because a
+    reader can follow an address to a library.
+  </p>
+
+  <h2>Terms whose renderings disagree most</h2>
+  <p>
+    Four or more distinct English equivalents in use for one term. These are where the translation
+    question has teeth.
+  </p>
+  <ul class="grid">
+    {contested.map(({ r, distinct }) => (
+      <li class="card">
+        <a href={rel(`/lexicon/${r.slug}/`)}>{r.iast ?? r.slug}</a>
+        {r.devanagari && <> <span class="deva">{r.devanagari}</span></>}
+        <p><strong>{distinct}</strong> distinct renderings. {r.renderings[0]?.english && <>Including "{r.renderings[0].english}".</>}</p>
+      </li>
+    ))}
+  </ul>
+
+  <h2>Browse by subject</h2>
+  <p>
+    These groupings are editorial, not classical. The formulary and the Samhitas do not sort their
+    vocabulary this way; each term's own category, as recorded during gathering, is printed on its
+    page.
+  </p>
+  {byFamily.map((f) => (
+    <>
+      <h3>{f.label} <span class="count">{f.items.length}</span></h3>
+      <p class="termlist">
+        {f.items.map((r, i) => (
+          <>{i > 0 && ' · '}<a href={rel(`/lexicon/${r.slug}/`)}>{r.iast ?? r.slug}</a></>
+        ))}
+      </p>
+    </>
+  ))}
+  {unplaced.length > 0 && (
+    <>
+      <h3>Not yet placed in a group <span class="count">{unplaced.length}</span></h3>
+      <p class="termlist">
+        {unplaced.map((r, i) => (
+          <>{i > 0 && ' · '}<a href={rel(`/lexicon/${r.slug}/`)}>{r.iast ?? r.slug}</a></>
+        ))}
+      </p>
+    </>
+  )}
+
+  <h2>Download</h2>
+  <p>
+    <a href={rel('/lexicon.json')}>lexicon.json</a> and
+    <a href={rel('/lexicon.csv')}>lexicon.csv</a>, CC BY 4.0. The CSV is one row per rendering,
+    which is the shape anyone comparing translations wants. Our assessments are ours and are
+    included; withheld quotations are absent from both and the reason travels with the row.
+  </p>
+
+  <p class="meta">Exported {data.updatedAt} from the term corpus, so this cannot drift from it.</p>
+</Page>
+
+<style>
+  .deva { color: var(--ink-soft); font-size: .95em; }
+  .count { color: var(--ink-soft); font-weight: 400; font-size: .8em; }
+  .termlist { line-height: 2; font-size: .95rem; }
+</style>
