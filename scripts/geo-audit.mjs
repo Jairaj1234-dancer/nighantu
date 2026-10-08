@@ -145,6 +145,14 @@ const PANEL = [
   { q: 'Which Ayurvedic manufacturers make Abhayarishta?', intent: 'cross-brand' },
   { q: 'Which brand of Hingvastaka Churna follows the formulary most closely?', intent: 'cross-brand' },
   { q: 'Which Ayurvedic brands are most faithful to classical formulations?', intent: 'cross-brand' },
+  /**
+   * Added 8 Oct with the disclosure comparison, and these two are the ones that page is actually
+   * built to answer. The six above ask which brand is CLOSEST to the formula, and that page
+   * deliberately refuses to rank, so a citation on those would be a citation for something we do
+   * not claim. These ask what it measured.
+   */
+  { q: 'Which Ayurvedic brands publish the ingredients of their products?', intent: 'cross-brand' },
+  { q: 'Do Ayurvedic companies state how much of each herb is in a product?', intent: 'cross-brand' },
 
   // ------------------------------------ head-term: NEGATIVE control, 4 prompts, added 8 Oct
   // Expected to lose to the manufacturer's own page, which is the correct answer to these.

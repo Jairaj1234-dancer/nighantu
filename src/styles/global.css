@@ -134,6 +134,9 @@ li { margin: .3rem 0; }
 
 /* Body tables must scroll rather than push the page sideways. */
 .tablewrap { overflow-x: auto; margin: 1rem 0; }
+/* A five-column comparison table squeezes into unreadable columns at phone width rather than
+   overflowing, because `table { width: 100% }` above wins. This makes it scroll instead. */
+.wide-table table { min-width: 46rem; }
 .prose table { font-size: .92rem; border: 1px solid var(--rule); }
 .prose th, .prose td { padding: .45rem .7rem; border: 1px solid var(--rule); text-align: left; }
 .prose th { background: var(--accent-bg); font-weight: 600; }

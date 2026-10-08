@@ -84,11 +84,22 @@ if (d.faq.length) {
       <section class="grounding">
         <h2>Where this comes from</h2>
         <ul>{d.grounding.map((g: string) => (<li>{g}</li>))}</ul>
-        <p>
-          Nothing on this page is a new factual claim. Where it states a composition or a
-          botanical identity, that statement is published on the page it links to, with the
-          source it was checked against. See <a href={rel('/verification/')}>verification</a>.
-        </p>
+        {d.ownMeasurement ? (
+          <p>
+            This page does make a new factual claim: the measurement above is this project's own,
+            and nobody else published it. So it carries its method, its date and the source of
+            every figure, and it names the page each figure was read from so that anyone it
+            describes can check it one page at a time and tell us where we are wrong. The
+            formulary compositions it compares against are not new, and are published with their
+            sources on the pages they link to. See <a href={rel('/verification/')}>verification</a>.
+          </p>
+        ) : (
+          <p>
+            Nothing on this page is a new factual claim. Where it states a composition or a
+            botanical identity, that statement is published on the page it links to, with the
+            source it was checked against. See <a href={rel('/verification/')}>verification</a>.
+          </p>
+        )}
       </section>
     )}
 

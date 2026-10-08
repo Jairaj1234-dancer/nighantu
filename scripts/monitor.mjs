@@ -18,12 +18,13 @@ import { SITE, BASE, SEEN_EXPIRY_DAYS } from './monitors/config.mjs';
 import * as health from './monitors/health.mjs';
 import * as products from './monitors/products.mjs';
 import * as competitors from './monitors/competitors.mjs';
+import * as disclosure from './monitors/disclosure.mjs';
 import * as freshness from './monitors/freshness.mjs';
 import * as community from './monitors/community.mjs';
 import * as threads from './monitors/threads.mjs';
 import * as indexation from './monitors/indexation.mjs';
 
-const MONITORS = [health, products, competitors, freshness, community, threads, indexation];
+const MONITORS = [health, products, competitors, disclosure, freshness, community, threads, indexation];
 
 const DRY = process.argv.includes('--dry-run');
 const onlyIdx = process.argv.indexOf('--only');

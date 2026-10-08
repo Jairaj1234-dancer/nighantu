@@ -62,6 +62,12 @@ jobs:
       # withholds. Generated, not committed, so it must run before the build.
       - name: Generate the concept dataset
         run: node scripts/concepts-dataset.mjs
+      # The composition-disclosure comparison names seven companies and states what each of their
+      # own pages published. data/brands/ holds the raw survey and is gitignored, so this checks
+      # the page's tables against the committed measurement rather than re-crawling: a page that
+      # names a competitor must not drift away from the figures it claims to report.
+      - name: Composition-disclosure tables agree with the measurement
+        run: node scripts/brand-disclosure.mjs --check
       - name: Generate the constituent graph
         run: node scripts/compounds.mjs
       - name: Generate the reading-links dataset
