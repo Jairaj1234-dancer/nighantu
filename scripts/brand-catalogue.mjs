@@ -110,6 +110,34 @@ export const BRANDS = [
   { id: 'vaidyaratnam', name: 'Vaidyaratnam Oushadhasala', origin: 'https://vaidyaratnam.com' },
   { id: 'sdl', name: 'Shree Dhootapapeshwar', origin: 'https://www.sdlindia.com' },
   { id: 'unjha', name: 'Unjha Pharmacy', origin: 'https://unjhapharmacy.com' },
+
+  /**
+   * WAVE 3: the classical pharmacies, added because the survey was measuring the wrong industry.
+   *
+   * The twelve above are mostly consumer FMCG houses. Four of them are classical pharmacies and
+   * three of those produced nothing: Arya Vaidya Sala declined the crawler, Vaidyaratnam and Unjha
+   * publish no readable sitemap. So the entire classical-pharmacy segment rested on Shree
+   * Dhootapapeshwar, which is also the best discloser in the survey by a wide margin, at 89%.
+   *
+   * One data point cannot carry that, and it is the segment where the measurement matters most:
+   * a company whose proposition IS the classical formulation is the company a reader most wants to
+   * check against the formulary entry. A survey that reads six consumer brands and one classical
+   * pharmacy and then says something about "Ayurvedic manufacturers" is describing the first group
+   * and implying the second.
+   *
+   * Every origin here was confirmed against the company's own site before being added, because
+   * publishing "this company publishes nothing" about a lookalike domain would be worse than not
+   * publishing at all. Oushadhi is owned by the Government of Kerala and states roughly 450
+   * formulations, which makes it the single most interesting catalogue in the survey.
+   */
+  { id: 'avp', name: 'The Arya Vaidya Pharmacy, Coimbatore', origin: 'https://avpayurveda.com' },
+  { id: 'oushadhi', name: 'Oushadhi', origin: 'https://www.oushadhi.org' },
+  { id: 'keralaayurveda', name: 'Kerala Ayurveda', origin: 'https://keralaayurveda.com' },
+  { id: 'nagarjuna', name: 'Nagarjuna Herbal Concentrates', origin: 'https://www.nagarjunaayurveda.com' },
+  { id: 'sitaram', name: 'Sitaram Ayurveda', origin: 'https://sitaramayurveda.com' },
+  { id: 'sna', name: 'SNA Oushadhasala', origin: 'https://www.snaoushadhasala.com' },
+  { id: 'avn', name: 'AVN Ayurveda', origin: 'https://www.avnayurveda.com' },
+  { id: 'sandu', name: 'Sandu Pharmaceuticals', origin: 'https://sandu.in' },
 ];
 
 /**
