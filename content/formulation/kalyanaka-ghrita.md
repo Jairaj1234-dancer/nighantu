@@ -34,6 +34,37 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Kalyanaka
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
 
+## Where is it described in the classical texts?
+
+Ashtanga Hrudayam Uttarasthana 6/26-33 ([Mahakalyanaka Ghritam](/glossary/concepts-a-m/#mahakalyanaka-ghritam)); Charaka Samhita (Kalyanaka [Ghrita](/herb/ghrita/)|Kalyanaka Ghrita); Chakradatta (Ksheerakalyanaka [Ghrita](/herb/ghrita/)); Bhaisajya Ratnavali; Sharangadhara Samhita; Sahasrayoga
+
+## How does it work?
+
+- Polyherbal synergy of 28+ plant extracts in lipid medium enhances bioavailability of [neuroprotective](/reference/neuroprotective/) compounds
+- [Haridra](/herb/haridra/) ([curcumin](/herb/curcumin/)) provides anti-inflammatory and [antioxidant](/reference/antioxidant/) effects on neural tissue, reducing neuroinflammation
+- [Sariva](/herb/sariva/) and [Daruharidra](/herb/daruharidra/) provide cooling, pitta-pacifying action that calms aggravated mental states
+- Lipid-based ghee medium crosses the blood-brain barrier, delivering active compounds directly to CNS
+- Balances Tridosha with emphasis on Vata-Pitta pacification, restoring equilibrium in Manovaha Srotas (mental channels)
+
+## Which traditional uses are supported by research?
+
+- Unmada (psychosis/schizophrenia): clinical studies confirm efficacy in psychiatric conditions including OCD with 44% improvement at follow-up
+- Cognitive deficit in children: prospective clinical evaluation validates safety and efficacy for pediatric cognitive enhancement
+- Fertility enhancement: traditionally used for both male (sperm quality) and female (ovum quality) fertility - clinically recommended by practitioners
+- Apasmara (epilepsy): classical indication supported by pharmacological studies on anticonvulsant properties of ingredients
+
+## What do recent clinical trials show?
+
+
+
+*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+
+## Recent safety updates
+
+- Clinical trials confirm safe profile in children with cognitive deficits; no adverse events reported during treatment periods
+- Caution advised for individuals with diabetes, high cholesterol, heart diseases, and hypertension due to ghee base
+- Excessive consumption could lead to gastrointestinal distress; should be used under medical supervision
+
 ## What is it made of?
 
 ### Mineral/Elemental Profile

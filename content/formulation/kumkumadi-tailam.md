@@ -36,6 +36,10 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kumkumadi-T
 - alpha-Santalol (from sandalwood oil in formulation)
 - Vitamin C and zinc (from supporting herbal ingredients)
 
+## Where is it described in the classical texts?
+
+Bhaishajya Ratnavali (Kshudra Roga Chikitsa chapter); also documented in Ashtanga Hridayam. Formulation contains 21+ herbs for Varnya (complexion-enhancing) therapy. Referenced in Indian Pharmacopoeia Commission volumes 3 and 4.
+
 ## How does it work?
 
 - Crocin and crocetin anti-tyrosinase activity: Directly inhibit tyrosinase enzyme, reducing melanin biosynthesis and promoting even skin tone for pigmentation correction
