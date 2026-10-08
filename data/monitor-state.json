@@ -330,10 +330,10 @@
       "https://nighantu.ageayurveda.com/": "7ee535f0d51ec9b8",
       "https://nighantu.ageayurveda.com/about/": "94c989cdac5ef60b",
       "https://nighantu.ageayurveda.com/afi/": "d90f7d677e6067de",
-      "https://nighantu.ageayurveda.com/choosing/": "633041a43aa80de4",
+      "https://nighantu.ageayurveda.com/choosing/": "8000d47baf674ec8",
       "https://nighantu.ageayurveda.com/choosing/one-herb-several-names/": "f72d167a5b6e01dc",
       "https://nighantu.ageayurveda.com/choosing/reading-a-formulation-label/": "f97151d859160682",
-      "https://nighantu.ageayurveda.com/choosing/who-publishes-the-composition/": "0a3d6c0bb4a3ea5b",
+      "https://nighantu.ageayurveda.com/choosing/who-publishes-the-composition/": "7c369d55ee2d48d5",
       "https://nighantu.ageayurveda.com/cite/": "00dab326f310d86a",
       "https://nighantu.ageayurveda.com/compounds/": "a3172814ac1eb25b",
       "https://nighantu.ageayurveda.com/concept/": "ba7e6aedb2e4b354",
@@ -1559,8 +1559,8 @@
       "https://nighantu.ageayurveda.com/verification/safety-pass4/": "1bf221f544f3a78a",
       "https://nighantu.ageayurveda.com/verification/safety-repair-02/": "67c37029ef9f5beb"
     },
-    "lastSubmittedAt": "2026-10-08T13:13:09.241Z",
-    "lastSubmittedCount": 1231,
+    "lastSubmittedAt": "2026-10-08T14:46:37.735Z",
+    "lastSubmittedCount": 2,
     "submitted": [
       "https://nighantu.ageayurveda.com/",
       "https://nighantu.ageayurveda.com/about/",
@@ -3553,6 +3553,6 @@
     "seen": 10,
     "surfaced": 0
   },
-  "updatedAt": "2026-10-08T13:13:09.241Z",
+  "updatedAt": "2026-10-08T14:46:37.736Z",
   "version": 1
 }
