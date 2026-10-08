@@ -4,6 +4,7 @@
 import type { APIRoute } from 'astro';
 import { abs } from '../lib/site';
 import compounds from '../data/compounds.json';
+import compositionSummary from '../data/composition-summary.json';
 import dravyaguna from '../data/dravyaguna.json';
 import research from '../data/research.json';
 import taxonomy from '../data/taxonomy.json';
@@ -12,6 +13,7 @@ export const GET: APIRoute = async () => {
   const n = (x: number) => x.toLocaleString('en-GB');
   const c = (compounds as any).summary;
   const taxa = ((taxonomy as any).taxa ?? []).length;
+  const comp = compositionSummary as any;
 
   const body = [
     '# Open Ayurvedic Datasets',
@@ -24,6 +26,10 @@ export const GET: APIRoute = async () => {
     'says so rather than dropping the caveat.',
     '',
     '## Available datasets',
+    '',
+    `- **Classical formulation compositions**: ${n(comp.ingredientRows)} ingredient rows across ${n(comp.formulations)} formulations as printed in the Ayurvedic Formulary of India, ${n(comp.rowsWithQuantity)} of them with the quantity the formulary states, each with the plant part and the formulary entry number it came from.`,
+    `  - JSON: ${abs('/composition.json')}`,
+    `  - CSV: ${abs('/composition.csv')}`,
     '',
     `- **Dravyaguna properties**: ${n((dravyaguna as any).summary.entries)} monographs with rasa, guna, virya, vipaka and prabhava.`,
     `  - JSON: ${abs('/dravyaguna.json')}`,

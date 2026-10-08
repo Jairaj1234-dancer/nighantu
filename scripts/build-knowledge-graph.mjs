@@ -71,11 +71,16 @@ graph.push({
     '@id': `${STORE_URL}/#organization`
   },
   'sameAs': `https://www.wikidata.org/wiki/Q141494735`,
+  // These are the @ids /datasets/ actually mints for its schema.org Dataset nodes. They read
+  // `#dravyaguna-parquet` and so on until 8 October, which resolved to nothing: the catalogue
+  // page keys its nodes on the dataset, not on one of its distributions.
   'dataset': [
-    { '@id': `${SITE_URL}/datasets/#dravyaguna-parquet` },
-    { '@id': `${SITE_URL}/datasets/#compounds-parquet` },
-    { '@id': `${SITE_URL}/datasets/#research-parquet` },
-    { '@id': `${SITE_URL}/datasets/#taxonomy-parquet` }
+    { '@id': `${SITE_URL}/datasets/#composition` },
+    { '@id': `${SITE_URL}/datasets/#dravyaguna` },
+    { '@id': `${SITE_URL}/datasets/#compounds` },
+    { '@id': `${SITE_URL}/datasets/#research` },
+    { '@id': `${SITE_URL}/datasets/#taxonomy` },
+    { '@id': `${SITE_URL}/datasets/#verification` }
   ]
 });
 

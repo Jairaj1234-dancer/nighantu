@@ -96,6 +96,9 @@ const researchUrl = (r) => {
 /** Which page a record of each dataset came from, so the source URL is real and resolvable. */
 const RECORD_URL = {
   dravyaguna: (r) => (r.kind && r.slug ? `/${r.kind}/${r.slug}/` : null),
+  // The only dataset that already knows where it is displayed: the generator writes `page` per
+  // entry off the same slug the route is built from, so there is nothing to infer here.
+  composition: (r) => r.page ?? null,
   compounds: () => '/compounds/',
   chemistry: () => '/compounds/',
   /**
