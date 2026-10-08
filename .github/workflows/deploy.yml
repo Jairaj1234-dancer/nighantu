@@ -125,6 +125,13 @@ jobs:
       # mahasudarshan-churna was doing: the formulary carries Sudarsana Curna and no maha- entry.
       - name: Formulary entry naming
         run: node scripts/check-afi-naming.mjs
+      # The blunt question the other gates do not ask: is any page on this site broken. It found
+      # 53 reference pages stamping build time into dateModified because the ledger lookup used
+      # the record's `kind` where the ledger is keyed by directory, and two lexicon pages sharing
+      # a title. Both passed all six existing gates.
+      - name: Site sweep
+        run: node scripts/site-audit.mjs
+
       # composition.parquet is committed rather than built here, because converting it needs
       # Python and pyarrow. That trade is only defensible with a freshness check: a committed
       # derived file with no test is one that eventually states what the source no longer says.

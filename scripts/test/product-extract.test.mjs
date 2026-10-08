@@ -220,4 +220,35 @@ eq('and the dose figure is not counted as a quantity', dib.quantityCount, 0);
 eq('a dose figure is identified as one', isDoseFigure(quantities('Dosage: 3 g')[0]), true);
 eq('an ingredient figure is not', isDoseFigure(quantities('Haritaki 4.8 g')[0]), false);
 
+// --- a price is never a dose, and never an ingredient quantity ---
+// Four dose fields came back as price text, one of them reading "Sale price 261 Regular price
+// 275 5% off (4.9)". A price published as a dose on a reference page is worse than publishing
+// nothing at all.
+const priceAsDose = `<html><body>${filler}
+<h3>Overnight relief, works in 6 to 8 hours</h3>
+<p>Sale price</p><p>₹261</p><p>Regular price ₹275 5% off</p><p>(4.9)</p>
+</body></html>`;
+eq('a price block is not a dose', extractProduct(priceAsDose).dose.state, 'absent');
+
+// A real dose followed by the pack selector keeps the dose and drops the furniture.
+const doseThenShop = `<html><body>${filler}
+<h3>Dosage</h3>
+<p>Use 2 to 3 drops or as advised by the Vaidya.</p>
+<p>size</p><p>Pack of 1</p><p>₹ 152</p>
+</body></html>`;
+const dts = extractProduct(doseThenShop);
+eq('the real dose is kept', dts.dose.state, 'found');
+ok('and carries the instruction', /2 to 3 drops/.test(dts.dose.text));
+ok('and not the price', !/152/.test(dts.dose.text));
+
+// The same rule protects a composition from a price list below it.
+const compThenShop = `<html><body>${filler}
+<h3>Ingredients</h3>
+<p>Amla 41.65 g</p><p>Sugar 55.54 g</p><p>Ghrit 4.86 g</p>
+<p>MRP ₹ 450</p><p>Pack of 2</p>
+</body></html>`;
+const cts = extractProduct(compThenShop);
+eq('three ingredient quantities', cts.quantityCount, 3);
+ok('and no price among them', !cts.quantities.some((q) => /450/.test(q.raw)));
+
 console.log(`PASS: ${n} product-extraction cases`);
