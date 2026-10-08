@@ -5,6 +5,7 @@ import type { APIRoute } from 'astro';
 import { abs } from '../lib/site';
 import compounds from '../data/compounds.json';
 import compositionSummary from '../data/composition-summary.json';
+import lexicon from '../data/lexicon.json';
 import dravyaguna from '../data/dravyaguna.json';
 import research from '../data/research.json';
 import taxonomy from '../data/taxonomy.json';
@@ -14,6 +15,7 @@ export const GET: APIRoute = async () => {
   const c = (compounds as any).summary;
   const taxa = ((taxonomy as any).taxa ?? []).length;
   const comp = compositionSummary as any;
+  const lex = (lexicon as any).summary;
 
   const body = [
     '# Open Ayurvedic Datasets',
@@ -26,6 +28,11 @@ export const GET: APIRoute = async () => {
     'says so rather than dropping the caveat.',
     '',
     '## Available datasets',
+    '',
+    `- **Ayurvedic terminology lexicon**: ${n(lex.records)} technical terms and ${n(lex.renderings)} English renderings, each with its source and our assessment of whether it holds. ${n(lex.quotesPublished)} classical quotations, every one checked against its source. Renderings from NoDerivs-licensed sources are on the pages and not in this download.`,
+    `  - JSON: ${abs('/lexicon.json')}`,
+    `  - CSV: ${abs('/lexicon.csv')}`,
+    `  - Browse: ${abs('/lexicon/')}`,
     '',
     `- **Classical formulation compositions**: ${n(comp.ingredientRows)} ingredient rows across ${n(comp.formulations)} formulations as printed in the Ayurvedic Formulary of India, ${n(comp.rowsWithQuantity)} of them with the quantity the formulary states, each with the plant part and the formulary entry number it came from.`,
     `  - JSON: ${abs('/composition.json')}`,

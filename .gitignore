@@ -9,6 +9,8 @@ dist/
 # Generated at build time from committed sources, so they are never committed.
 # The deploy workflow regenerates each one before astro copies public/ into dist/;
 # if you add another generated download here, add the matching step there too.
+public/lexicon.json
+public/lexicon.csv
 public/composition.json
 public/composition.csv
 public/research.json

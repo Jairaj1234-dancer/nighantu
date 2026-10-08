@@ -37,6 +37,23 @@ the reference text, not the brand.
 part of this repository. Do not assume this repository's licence extends to it. See
 [PROVENANCE.md](PROVENANCE.md).
 
+**The terminology lexicon quotes sources under several licences.** `/lexicon/` and
+`src/data/lexicon.json` carry 1,631 English renderings of Ayurvedic terms, and the renderings do
+not share one licence. 523 are from Kaviratna's *Charaka* or Bhishagratna's *Sushruta* and are
+public domain. 595 are from the WHO International Standard Terminologies on Ayurveda, the NIA
+Jaipur / WHO-APW draft, ICD-11, or the Government of India NAMASTE lists, and are reproduced on
+the pages unaltered, attributed and linked, and are deliberately absent from
+`public/lexicon.json` and `public/lexicon.csv` on the same reasoning as ICD-11 below. 300 are from
+journals, modern textbooks and commercial sites, which are not cleared for quotation at all: the
+English equivalent each one uses is reported as a fact about usage and the source's own wording is
+not reproduced. Which class a rendering belongs to is stamped on it as `licence`.
+
+Two consequences worth stating plainly. A locator in the downloads is reduced to its identifier,
+because `ITA-9.8.7` is a pointer and the definition printed after it is not. And an `assessment` is
+this project's own critical prose, offered under CC BY 4.0, but where it quotes a source briefly in
+order to discuss it those quoted words stay under their own licence and are not granted here:
+quotation for comment is not a derivative work, and sub-licensing someone else's wording would be.
+
 **WHO ICD-11 terms and titles are CC BY-ND 3.0 IGO**, not CC BY 4.0. The crosswalk at
 `/icd-tm2/` reproduces WHO's Ayurvedic index terms, codes and category titles unaltered,
 attributed and linked, which is what the NoDerivs licence permits. They are deliberately
