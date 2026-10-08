@@ -67,7 +67,7 @@ Bhaishajya Ratnavali (13th century CE), where it was called Baladwaya Arishta or
 
 **Dosage Forms:** Arishta (fermented decoction), Syrup (modern), Capsules (modern)
 
-**Standard Dosage:** 15-30 mL twice daily after meals with equal water. The Ayurvedic Formulary of India gives a dose of 12 to 24 ml and attributes this formula to Bhaisajyaratnavali, Vatavyadhyadhikara; 569-571.
+**Standard Dosage:** 12 to 24 ml twice daily after meals with equal water, as given in the Ayurvedic Formulary of India, Part I, entry 1:24. This replaces a previously stated 15-30 mL, which carried no source. The formulary attributes this formula to Bhaisajyaratnavali, Vatavyadhyadhikara; 569-571.
 
 **Bioavailability:** Alcohol medium enhances extraction and absorption of [Bala](/herb/bala/) alkaloids and [phytosterols](/glossary/compounds-o-q/#phytosterols). Fermentation produces novel metabolites. Adaptogenic compounds from [Ashwagandha](/herb/ashwagandha/) synergize in the fermented medium.
 

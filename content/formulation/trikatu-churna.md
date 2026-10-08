@@ -67,7 +67,7 @@ Charaka Samhita (Sutra Sthana, Chapter 4); Sushruta Samhita; Ashtanga Hridayam; 
 
 **Dosage Forms:** Churna (fine powder), Capsule, Tablet
 
-**Standard Dosage:** 1-3g before meals
+**Standard Dosage:** 3 g before meals, as given in the Ayurvedic Formulary of India, Part I, entry 7:14. The formulary's anupana: honey, warm water. This replaces a previously stated 1-3g, which carried no source. The formulary attributes this formula to Bhaisajyaratnavali, Paribhasaprakarana; 16.
 
 **Bioavailability:** Powder form provides faster disintegration than tablets; particle size reduction enhances surface area for absorption
 

@@ -68,7 +68,7 @@ Yoga Ratnakara (Agnimandya/Ajirna Chikitsa); also described in Bhaishajya Ratnav
 
 **Dosage Forms:** Vati (tablet), Modern compressed tablet
 
-**Standard Dosage:** 125-250 mg twice daily before meals. The Ayurvedic Formulary of India gives a dose of 125 to 250 mg and attributes this formula to Bhaisajyaratnavali, Agnimandyadirogadhikara; 117-118.
+**Standard Dosage:** 125-250 mg twice daily before meals, as given in the Ayurvedic Formulary of India, Part I, entry 12:1. The formulary's anupana: lime juice, warm water. The formulary attributes this formula to Bhaisajyaratnavali, Agnimandyadirogadhikara; 117-118.
 
 **Bioavailability:** Vati form provides controlled release. Shodhana (purification) of [Vatsanabha](/herb/vatsanabha/) reduces toxic aconitine [alkaloids](/glossary/compounds-1-a/#alkaloids) while retaining therapeutic activity. [Hingu](/herb/hingu/) and [Pippali](/herb/pippali/) enhance gastric absorption.
 

@@ -1,0 +1,181 @@
+{
+  "note": "Dose figures replaced by the Ayurvedic Formulary of India's own figure because they carried no source. Kept so the change is reversible and auditable; nothing here is published.",
+  "updatedAt": "2026-10-08",
+  "replaced": [
+    {
+      "slug": "abhayarishta",
+      "supersededFigure": "15-30 mL",
+      "replacedWith": "12 to 24 ml",
+      "entry": "1:1",
+      "on": "2026-10-08"
+    },
+    {
+      "slug": "ajamoda-arka",
+      "supersededFigure": "15-30 mL",
+      "replacedWith": "12 to 24 ml",
+      "entry": "2:1",
+      "on": "2026-10-08"
+    },
+    {
+      "slug": "arjunarishta",
+      "supersededFigure": "15-30 mL",
+      "replacedWith": "12 to 24 ml",
+      "entry": "1:21",
+      "on": "2026-10-08"
+    },
+    {
+      "slug": "arogyavardhini-vati",
+      "supersededFigure": "125-250 mg",
+      "replacedWith": "250 to 500 mg",
+      "entry": "20:4",
+      "on": "2026-10-08"
+    },
+    {
+      "slug": "ashoka-ghrita",
+      "supersededFigure": "6-12 g",
+      "replacedWith": "12 g",
+      "entry": "6:4",
+      "on": "2026-10-08"
+    },
+    {
+      "slug": "ashokarishta",
+      "supersededFigure": "15-30 mL",
+      "replacedWith": "12 to 24 ml",
+      "entry": "1:5",
+      "on": "2026-10-08"
+    },
+    {
+      "slug": "balarishta",
+      "supersededFigure": "15-30 mL",
+      "replacedWith": "12 to 24 ml",
+      "entry": "1:24",
+      "on": "2026-10-08"
+    },
+    {
+      "slug": "brahma-rasayana",
+      "supersededFigure": "6-12 g",
+      "replacedWith": "12 g",
+      "entry": "3:20",
+      "on": "2026-10-08"
+    },
+    {
+      "slug": "caturjata-churna",
+      "supersededFigure": "1-3 g",
+      "replacedWith": "2 to 4 g",
+      "entry": "7:10",
+      "on": "2026-10-08"
+    },
+    {
+      "slug": "guggulutiktakam-ghritam",
+      "supersededFigure": "6-12 g",
+      "replacedWith": "12 g",
+      "entry": "6:27",
+      "on": "2026-10-08"
+    },
+    {
+      "slug": "hinguvachadi-churna",
+      "supersededFigure": "1-3 g",
+      "replacedWith": "2 to 4 g",
+      "entry": "7:39",
+      "on": "2026-10-08"
+    },
+    {
+      "slug": "hingvashtak-churna",
+      "supersededFigure": "1-3 g",
+      "replacedWith": "1 to 2 g",
+      "entry": "7:37",
+      "on": "2026-10-08"
+    },
+    {
+      "slug": "hingwashtak-churna",
+      "supersededFigure": "1-3 g",
+      "replacedWith": "1 to 2 g",
+      "entry": "7:37",
+      "on": "2026-10-08"
+    },
+    {
+      "slug": "kalyanaka-ghrita",
+      "supersededFigure": "6-12 g",
+      "replacedWith": "12 g",
+      "entry": "6:7",
+      "on": "2026-10-08"
+    },
+    {
+      "slug": "kalyanaka-ghritam",
+      "supersededFigure": "6-12 g",
+      "replacedWith": "12 g",
+      "entry": "6:7",
+      "on": "2026-10-08"
+    },
+    {
+      "slug": "kutajarishta",
+      "supersededFigure": "15-30ml",
+      "replacedWith": "12 to 24 ml",
+      "entry": "1:11",
+      "on": "2026-10-08"
+    },
+    {
+      "slug": "madhusnuhi-rasayana",
+      "supersededFigure": "6-12g",
+      "replacedWith": "12 g",
+      "entry": "3:19",
+      "on": "2026-10-08"
+    },
+    {
+      "slug": "mustakarishta",
+      "supersededFigure": "15-30ml",
+      "replacedWith": "12 to 24 ml",
+      "entry": "1:26",
+      "on": "2026-10-08"
+    },
+    {
+      "slug": "pippalyasava",
+      "supersededFigure": "15-30ml",
+      "replacedWith": "12 to 24 ml",
+      "entry": "1:22",
+      "on": "2026-10-08"
+    },
+    {
+      "slug": "saraswatarishta",
+      "supersededFigure": "15-30ml",
+      "replacedWith": "12 to 24 ml",
+      "entry": "1:36",
+      "on": "2026-10-08"
+    },
+    {
+      "slug": "sarivadyasava",
+      "supersededFigure": "15-30ml",
+      "replacedWith": "12 to 24 ml",
+      "entry": "1:37",
+      "on": "2026-10-08"
+    },
+    {
+      "slug": "srikhandasava",
+      "supersededFigure": "15-30ml",
+      "replacedWith": "12 to 24 ml",
+      "entry": "1:35",
+      "on": "2026-10-08"
+    },
+    {
+      "slug": "sudarshan-churna",
+      "supersededFigure": "3-6g",
+      "replacedWith": "2 to 4 g",
+      "entry": "7:35",
+      "on": "2026-10-08"
+    },
+    {
+      "slug": "talisadi-churna",
+      "supersededFigure": "1-3g",
+      "replacedWith": "3 g",
+      "entry": "7:13",
+      "on": "2026-10-08"
+    },
+    {
+      "slug": "trikatu-churna",
+      "supersededFigure": "1-3g",
+      "replacedWith": "3 g",
+      "entry": "7:14",
+      "on": "2026-10-08"
+    }
+  ]
+}

@@ -73,7 +73,7 @@ Rasaratna Samuchchaya (16th century); also described in Bhaishajya Ratnavali (Un
 
 **Dosage Forms:** Vati (tablet/pill), Modern compressed tablet, Capsule (modern)
 
-**Standard Dosage:** 125-250 mg twice daily with milk or water. The Ayurvedic Formulary of India gives a dose of 125 to 250 mg and attributes this formula to Siddhayogasangraha, Vatarogadhikara.
+**Standard Dosage:** 125-250 mg twice daily with milk or water, as given in the Ayurvedic Formulary of India, Part II, entry 16:45. The formulary attributes this formula to Siddhayogasangraha, Vatarogadhikara.
 
 **Bioavailability:** Tablet/vati form provides controlled oral delivery. Bhavana with Brahmi svarasa impregnates the powder matrix with additional bacosides. [Piperine](/reference/piperine/) from [Pippali](/herb/pippali/) enhances absorption. [Sarpagandha](/herb/sarpagandha/) [alkaloids](/glossary/compounds-1-a/#alkaloids) are well-absorbed orally.
 

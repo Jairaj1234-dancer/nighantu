@@ -67,7 +67,7 @@ Charaka Samhita (1st-2nd century CE) and Sushruta Samhita (3rd-4th century CE), 
 
 **Dosage Forms:** Arishta (fermented decoction), Capsules (modern), Syrup (modern)
 
-**Standard Dosage:** 15-30 mL twice daily after meals with equal water. The Ayurvedic Formulary of India gives a dose of 12 to 24 ml and attributes this formula to Bhaisajyaratnavali, Hrdrogadhikara; 73-74½.
+**Standard Dosage:** 12 to 24 ml twice daily after meals with equal water, as given in the Ayurvedic Formulary of India, Part I, entry 1:21. This replaces a previously stated 15-30 mL, which carried no source. The formulary attributes this formula to Bhaisajyaratnavali, Hrdrogadhikara; 73-74½.
 
 **Bioavailability:** Alcohol base enhances absorption of arjunic acid and arjungenin (triterpene [saponins](/reference/saponins/)). Fermentation generates bioactive metabolites with improved cardiac bioavailability. [Tannins](/reference/tannins/) provide sustained-release cardioprotective activity.
 

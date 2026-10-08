@@ -67,7 +67,7 @@ Charaka Samhita and Sushruta Samhita. Originally classified as a Medhya [Rasayan
 
 **Dosage Forms:** Arishta/Asava (fermented liquid), Syrup (modern adaptation)
 
-**Standard Dosage:** 15-30ml with equal water for brain health
+**Standard Dosage:** 12 to 24 ml with equal water for brain health, as given in the Ayurvedic Formulary of India, Part I, entry 1:36. This replaces a previously stated 15-30ml, which carried no source. The formulary attributes this formula to Bhaisajyaratnavali, Rasayanadhikara; 178-184.
 
 **Bioavailability:** Self-generated alcohol enhances extraction and absorption of both water-soluble and fat-soluble compounds; fermentation produces bioactive metabolites not present in raw herbs
 

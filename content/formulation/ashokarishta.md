@@ -72,7 +72,7 @@ Bhaishajya Ratnavali (Stree Rogadhikara / Female disorders chapter). Also descri
 
 **Dosage Forms:** Arishta (fermented decoction), Capsules (modern), Syrup (modern)
 
-**Standard Dosage:** 15-30 mL twice daily after meals with equal water. The Ayurvedic Formulary of India gives a dose of 12 to 24 ml and attributes this formula to Bhaisajyaratnavali, Strirogadhikara; 114-116.
+**Standard Dosage:** 12 to 24 ml twice daily after meals with equal water, as given in the Ayurvedic Formulary of India, Part I, entry 1:5. This replaces a previously stated 15-30 mL, which carried no source. The formulary attributes this formula to Bhaisajyaratnavali, Strirogadhikara; 114-116.
 
 **Bioavailability:** Alcohol from fermentation enhances solubility and absorption of [catechins](/glossary/compounds-c-d/#catechins) and [tannins](/reference/tannins/) from [Ashoka](/herb/ashoka/). Fermentation generates oestrogenic isoflavone metabolites with improved bioavailability compared to simple decoction.
 

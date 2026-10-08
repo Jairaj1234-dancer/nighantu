@@ -70,7 +70,7 @@ Ashtanga Hridayam by Acharya Vagbhata (for genital and reproductive disorders); 
 
 **Dosage Forms:** Ghrita (medicated ghee), Capsule (for convenience)
 
-**Standard Dosage:** 12-24ml for reproductive health
+**Standard Dosage:** 12-24ml for reproductive health. The Ayurvedic Formulary of India, Part I, entry 6:30 states a dose of 12 g; that is a different unit from the figure above and the two cannot be compared without knowing the preparation's density or tablet mass. The formulary's anupana: warm water. The formulary attributes this formula to Astangahrdaya, Uttarasthana, Adhyaya 34; 63-64½.
 
 **Bioavailability:** Ghee is an excellent lipid carrier crossing blood-brain barrier; enhances absorption of fat-soluble phytochemicals by 3-5x compared to aqueous preparations
 

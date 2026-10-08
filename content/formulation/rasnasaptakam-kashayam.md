@@ -67,7 +67,7 @@ Earliest reference in Ashtanga Hridaya commentaries. Hints of formula in Vangase
 
 **Dosage Forms:** Kashayam (decoction), Kashayam tablet, Concentrated liquid
 
-**Standard Dosage:** 15-30ml twice daily
+**Standard Dosage:** 15-30ml twice daily. The Ayurvedic Formulary of India, Part II, entry 4:20 specifies 10 to 50 g of the kvatha curna to prepare the decoction, which is a quantity of drug rather than a dose taken, so it is not comparable with the volume above. The formulary attributes this formula to Bhaisajyaratnavali, Amavatadhikara; 9.
 
 **Bioavailability:** Aqueous decoction provides good bioavailability for water-soluble compounds; concentration step may reduce volatile components
 

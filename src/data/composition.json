@@ -14254,12 +14254,13 @@
       "dose": "2 to 4 g",
       "doseSource": "Ayurvedic Formulary of India, Part I, entry 7:35",
       "anupana": "warm water",
-      "entryNameNote": "The formulary has no entry under the name of this page. Its entry 7:35 is SUDARSANA CURNA, and a search of the formulary text finds nothing under maha-. In Ayurvedic naming a maha- prefix usually marks a different formulation rather than a different spelling, so the composition above should be read as the formulary's SUDARSANA CURNA and not assumed to be this page's subject.",
+      "entryNameNote": "This table is NOT this formulation's composition. It is the Ayurvedic Formulary of India's entry 7:35, SUDARSANA CURNA, and the formulary carries no entry under any maha- name. Mahasudarshan Churna is a different, larger formulation, so the rows below are shown for COMPARISON with the formulary's shorter Sudarsana Curna and should not be read as a list of what Mahasudarshan Churna contains. No published formulary composition for this formulation is held here.",
       "entryNameDecision": {
         "decidedOn": "2026-10-08",
-        "decision": "KEEP the composition table and the mapping to AFI 7:35. Do not strip it and do not merge this page away.",
-        "why": "The formulary has no Mahasudarshan entry, so the table shown here is the formulary's SUDARSANA CURNA and the page says so in the same paragraph as the attribution. The alternative, removing the composition, would delete the only formulary-sourced ingredient list this page has and leave a reader with less than they have now. The note makes the position honest without costing the content, which is the point: a reader can see exactly which entry they are looking at and decide whether it answers their question.",
-        "doNotDo": "Do not delete this record, do not delete the rows, and do not silently repoint the mapping. If Mahasudarshan and Sudarshan are later established to be one formulation, merge the two PAGES under one canonical slug and keep the table; if they are established to be two, the table stays here labelled as Sudarsana Curna's unless a Mahasudarshan source is found to replace it."
+        "decision": "The two are DIFFERENT formulations. Keep the table, labelled as a comparison with the formulary's Sudarsana Curna, and do not present it as this page's own composition.",
+        "why": "Jairaj confirmed they are different. The formulary has no maha- entry, so there is no formulary composition for this formulation to publish. Removing the table would delete the only formulary-sourced comparison the page has and leave a reader with less; presenting it unlabelled would tell them a different drug's ingredient list is this one's. Labelling it as a comparison is the only option that neither loses the content nor misstates it.",
+        "doNotDo": "Do not delete this record or its rows. Do not register mahasudarshan-churna as an alias of sudarshan-churna in duplicates.json: they are different formulations and must not share a canonical. Do not restore the \"Listed in Ayurvedic Formulary of India\" claim to the page, which was removed because the formulary does not list it.",
+        "wanted": "A published composition for Mahasudarshan Churna from a source that actually covers it, which would replace this comparison table with the page's own."
       }
     },
     "mahayograj-guggul": {

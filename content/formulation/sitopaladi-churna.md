@@ -70,7 +70,7 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 6. Also referenced in Chakradatta
 
 **Dosage Forms:** Churna (fine powder), Capsule, Tablet
 
-**Standard Dosage:** 1-3g with honey 3-4 times daily
+**Standard Dosage:** 1-3g with honey 3-4 times daily, as given in the Ayurvedic Formulary of India, Part I, entry 7:34. The formulary's anupana: ghee, honey. The formulary attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 6; 134-135 4.
 
 **Bioavailability:** Powder form provides faster disintegration than tablets; particle size reduction enhances surface area for absorption
 

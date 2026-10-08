@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Caturjata-Churna/
 
 **Dosage Forms:** Churna (fine powder), Capsules (modern), Sachets (modern)
 
-**Standard Dosage:** 1-3 g twice daily with honey or warm water. The Ayurvedic Formulary of India gives a dose of 2 to 4 g and attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 6; 144.
+**Standard Dosage:** 2 to 4 g twice daily with honey or warm water, as given in the Ayurvedic Formulary of India, Part I, entry 7:10. The formulary's anupana: honey, ghee, water. This replaces a previously stated 1-3 g, which carried no source. The formulary attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 6; 144.
 
 **Bioavailability:** Volatile oils ([cinnamaldehyde](/glossary/compounds-c-d/#cinnamaldehyde), 1,8-[cineole](/glossary/compounds-c-d/#cineole)) are rapidly absorbed through GI mucosa. Aromatic compounds enhance gastric motility and improve absorption of co-administered formulations. Acts as a bioavailability enhancer when used as adjuvant.
 

@@ -67,7 +67,7 @@ Sharangdhara Samhita Madhyamakhanda 2/8; Astanga Hridayam. Earliest explicit men
 
 **Dosage Forms:** Kashayam (decoction), Kashayam tablet (modern), Concentrated liquid (modern)
 
-**Standard Dosage:** 15-30 mL or 2 tablets twice daily before meals. The Ayurvedic Formulary of India gives a dose of 48 g and attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 2; 8½.
+**Standard Dosage:** 15-30 mL or 2 tablets twice daily before meals. The Ayurvedic Formulary of India, Part II, entry 4:6 specifies 48 g of the kvatha curna to prepare the decoction, which is a quantity of drug rather than a dose taken, so it is not comparable with the volume above. The formulary attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 2; 8½.
 
 **Bioavailability:** Hot decoction provides rapid absorption of [Guduchi](/herb/guduchi/) [alkaloids](/glossary/compounds-1-a/#alkaloids) and [glycosides](/glossary/compounds-g-l/#glycosides). [Berberine](/glossary/compounds-a-c/#berberine) has moderate oral bioavailability (~5%) enhanced in hot aqueous medium. [Tinosporaside](/glossary/compounds-t-z/#tinosporaside) and [polysaccharides](/glossary/compounds-o-q/#polysaccharides) are well-absorbed from decoction.
 

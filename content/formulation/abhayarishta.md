@@ -67,7 +67,7 @@ Bhaishajya Ratnavali, Arsha Rogadhikara (Piles treatment chapter). Also referenc
 
 **Dosage Forms:** Arishta (fermented liquid), Capsules (modern), Syrup (modern)
 
-**Standard Dosage:** 15-30 mL twice daily after meals with equal quantity of water. The Ayurvedic Formulary of India gives a dose of 12 to 24 ml and attributes this formula to Bhaisajyaratnavali, Arsorogadhikara; 105-107.
+**Standard Dosage:** 12 to 24 ml twice daily after meals with equal quantity of water, as given in the Ayurvedic Formulary of India, Part I, entry 1:1. This replaces a previously stated 15-30 mL, which carried no source. The formulary attributes this formula to Bhaisajyaratnavali, Arsorogadhikara; 105-107.
 
 **Bioavailability:** Self-generated alcohol (5-12%) acts as a bio-enhancer and preservative, improving absorption of active phytoconstituents. Fermentation yields novel metabolites with enhanced bioavailability compared to simple decoctions.
 

@@ -6,12 +6,12 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Churnas-Powders"
-answer: "Mahasudarshan Churna is a classical Ayurvedic churna, a fine herbal powder. Listed in Ayurvedic Formulary of India (AFI) Part I; biomarker standards validated through HPTLC (2020); Swertia chirata individually monographed in API Part I and Indian Pharmacopoeia."
+answer: "Mahasudarshan Churna is a classical Ayurvedic churna, a fine herbal powder. NOT listed under this name in the Ayurvedic Formulary of India, which carries Sudarsana Curna (entry 7:35) and no maha- entry; Swertia chirata individually monographed in API Part I and Indian Pharmacopoeia."
 botanical: ""
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in Ayurvedic Formulary of India (AFI) Part I; biomarker standards validated through HPTLC (2020); Swertia chirata individually monographed in API Part I and Indian Pharmacopoeia"
+whoStatus: "NOT listed under this name in the Ayurvedic Formulary of India, which carries Sudarsana Curna (entry 7:35) and no maha- entry; Swertia chirata individually monographed in API Part I and Indian Pharmacopoeia"
 aliases: ["Mahasudarshan Churna", "MahasudarshanChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
@@ -69,7 +69,7 @@ Bhavaprakasha Nighantu (16th century, Sudarshan group of preparations); also des
 
 **Dosage Forms:** Churna (fine powder), Capsule, Tablet
 
-**Standard Dosage:** 3-6g twice daily
+**Standard Dosage:** 3-6g twice daily. The formulary has no entry for this formulation, so no formulary dose is available for it; its entry 7:35 (SUDARSANA CURNA) is a different drug and its dose of 2 to 4 g does not apply here. The figure above carries no published source.
 
 **Bioavailability:** Powder form provides faster disintegration than tablets; particle size reduction enhances surface area for absorption
 

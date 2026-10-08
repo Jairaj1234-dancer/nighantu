@@ -71,7 +71,7 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also described in Sushruta Sa
 
 **Dosage Forms:** Vati (pill/tablet), Capsule
 
-**Standard Dosage:** 2 tablets twice daily
+**Standard Dosage:** 3 g, as given in the Ayurvedic Formulary of India, Part I, entry 5:5. 2 tablets twice daily. The page's tablet count and this weight relate only through the mass of a tablet, which the formulary does not state. The formulary's anupana: Warm water.
 
 **Bioavailability:** [Guggulu](/formulation/guggulu/) resin acts as natural bioenhancer; guggulsterones have moderate oral bioavailability (~40%); lipophilic matrix aids absorption of co-formulated herbs
 

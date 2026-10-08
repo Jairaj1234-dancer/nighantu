@@ -67,7 +67,7 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 
 **Dosage Forms:** Guggulu (resinous pill/tablet), Modern compressed tablet, Capsule (modern)
 
-**Standard Dosage:** 250-500 mg twice or thrice daily with warm water. The Ayurvedic Formulary of India gives a dose of 3 g and attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 7; 84-86.
+**Standard Dosage:** 250-500 mg twice or thrice daily with warm water. The Ayurvedic Formulary of India, Part I, entry 5:3 states a dose of 3 g; that is a different unit from the figure above and the two cannot be compared without knowing the preparation's density or tablet mass. The formulary's anupana: musta kvatha; pasanabheda kvatha; usira. The formulary attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 7; 84-86.
 
 **Bioavailability:** Guggulu resin acts as yogavahi — enhances bioavailability of co-formulated herbs. Guggulsterones are well-absorbed orally. [Piperine](/reference/piperine/) from [Trikatu](/herb/trikatu/) further enhances absorption. Protodioscin from [Gokshura](/herb/gokshura/) has moderate oral bioavailability enhanced by guggulu matrix.
 

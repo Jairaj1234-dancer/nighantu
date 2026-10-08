@@ -68,7 +68,7 @@ Sharangdhara Samhita (Madhyama Khanda); also described in Bhaishajya Ratnavali (
 
 **Dosage Forms:** Vati (pill/tablet), Capsule
 
-**Standard Dosage:** 1-2 tablets to dissolve in mouth
+**Standard Dosage:** 1 g, as given in the Ayurvedic Formulary of India, Part I, entry 12:26. 1-2 tablets to dissolve in mouth. The page's tablet count and this weight relate only through the mass of a tablet, which the formulary does not state. The formulary's anupana: warm water. The formulary attributes this formula to Vaidyajivanam, kasasvasacikitsa, 7.
 
 **Bioavailability:** Tablet/pill form provides controlled disintegration; some vatis use honey/[guggulu](/formulation/guggulu/) as bioenhancing binders
 

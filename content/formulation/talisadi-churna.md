@@ -69,7 +69,7 @@ Charaka Chikitsa Sthana 8/145-148. Sharangdhara Samhita, Madhyama Khanda 6/130-1
 
 **Dosage Forms:** Churna (fine powder), Capsule, Tablet
 
-**Standard Dosage:** 1-3g with honey
+**Standard Dosage:** 3 g with honey, as given in the Ayurvedic Formulary of India, Part I, entry 7:13. This replaces a previously stated 1-3g, which carried no source. The formulary attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 6; 130-131.
 
 **Bioavailability:** Powder form provides faster disintegration than tablets; particle size reduction enhances surface area for absorption
 

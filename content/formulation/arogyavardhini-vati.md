@@ -72,7 +72,7 @@ Rasa Ratna Samuchchaya (Chapter 20); also described in Rasendra Sara Sangraha an
 
 **Dosage Forms:** Vati (tablet/pill), Modern compressed tablet, Capsule (modern)
 
-**Standard Dosage:** 125-250 mg twice or thrice daily. The Ayurvedic Formulary of India gives a dose of 250 to 500 mg and attributes this formula to Rasaratnasamuccaya, Visarpadicikitsa; Adhyaya 20; 106-108.
+**Standard Dosage:** 250 to 500 mg twice or thrice daily, as given in the Ayurvedic Formulary of India, Part I, entry 20:4. The formulary's anupana: ardraka svarasa, honey, nimba svarasa, water. This replaces a previously stated 125-250 mg, which carried no source. The formulary attributes this formula to Rasaratnasamuccaya, Visarpadicikitsa; Adhyaya 20; 106-108.
 
 **Bioavailability:** Kajjali and Bhasma forms represent ancient nano-medicine — particle sizes of 50-100 nm provide high surface area and bioavailability. [Guggulu](/formulation/guggulu/) acts as a yogavahi (carrier/bioenhancer). [Aloe vera](/herb/aloe-vera/) juice bhavana improves hepatoprotective compound delivery.
 
