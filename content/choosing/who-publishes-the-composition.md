@@ -3,19 +3,19 @@ title: "Which Ayurvedic manufacturers publish what is in the bottle"
 slug: "who-publishes-the-composition"
 kind: "choosing"
 order: 3
-description: "A classical Ayurvedic preparation has an official composition. Whether you can check a product against it depends entirely on which company made it. Measured on 6,097 product pages across 16 companies."
-answer: "Classical Ayurvedic preparations have an official composition in the Ayurvedic Formulary of India, which fixes both the ingredients and their quantities. Whether a manufacturer publishes enough for you to check one depends entirely on which company made it. Across 6,097 product pages on 16 companies, Shree Dhootapapeshwar named ingredients on 89% and Zandu on 77%, against 3% for SNA Oushadhasala and none at all for Sandu Pharmaceuticals. This measures disclosure, not quality."
+description: "A classical Ayurvedic preparation has an official composition. Whether you can check a product against it depends entirely on which company made it. Measured on 6,097 product pages across 16 of the 20 companies surveyed."
+answer: "Classical Ayurvedic preparations have an official composition in the Ayurvedic Formulary of India, which fixes both the ingredients and their quantities. Whether you can check one against it depends on who made it. Across 6,097 product pages on 16 of the 20 companies surveyed, Shree Dhootapapeshwar named ingredients on 89% and Zandu on 77%, against 3% for SNA Oushadhasala and none for Sandu Pharmaceuticals. This measures disclosure, not quality."
 ownMeasurement: true
 grounding:
   - "The formulary compositions this page compares against are the transcriptions published on this site, each checked row by row against the Ayurvedic Formulary of India and cited to part and entry number."
   - "The per-company figures are counts of what each company's own product pages carried when this crawler read them, published in full at /brand-disclosure.json, with the page URL recorded against every count so any company named here can check its own row. No figure published by any company is restated here."
   - "Every host's robots.txt was fetched and parsed before any product page, and a host that declined was not fetched. The permission result travels with each record."
-  - "Two populations are counted and kept apart: every product on each permitted host, read on 9 October 2026, and the subset sold under one of the 101 formulary names transcribed here, read on 8 October 2026. Each table says which it is."
+  - "Two populations are counted and kept apart, both read on 9 October 2026: every product on each permitted host, and the subset sold under one of the 101 formulary names transcribed here. Each table says which it is."
 faq:
   - q: "Do Ayurvedic companies have to publish the ingredients of a classical preparation?"
     a: "The label is regulated, and that is a different surface from the website. Nothing requires a manufacturer to publish the composition on its product page, and 4,166 of the 6,097 pages read did not. It is clearly possible to do: one company named ingredients on 89% of its range and gave a quantity against each on 76%."
   - q: "Which Ayurvedic brand lists the most ingredient information online?"
-    a: "Of the 16 companies whose pages could be read, Shree Dhootapapeshwar published the most as a share of its range: an ingredient list on 246 of its 277 product pages and a quantity against each ingredient on 211. Patanjali Ayurved published quantities on the most pages in absolute terms, 449 of 1,400. Oushadhi, owned by the Government of Kerala, is the only company that gave a quantity on every page where it gave a list at all, 66 of 66. Neither fact says anything about the quality of any of these companies' products."
+    a: "Of the 16 companies, out of 20 surveyed, whose pages could be read, Shree Dhootapapeshwar published the most as a share of its range: an ingredient list on 246 of its 277 product pages and a quantity against each ingredient on 211. Patanjali Ayurved published quantities on the most pages in absolute terms, 449 of 1,400. Oushadhi, owned by the Government of Kerala, is the only company that gave a quantity on every page where it gave a list at all, 66 of 66. Neither fact says anything about the quality of any of these companies' products."
   - q: "If a company publishes no ingredient list, is the product worse?"
     a: "No, and this page is careful not to imply it. Disclosure and quality are separate. A company that publishes nothing may make an excellent preparation and a company that publishes everything may not. What disclosure changes is whether you, or a pharmacist, or an answer engine, can check a product against the formulary entry it claims."
   - q: "Do the old classical Ayurvedic pharmacies document their products better than the consumer brands?"
@@ -54,12 +54,18 @@ was fetched and the refusal was recorded. Where it allowed, the catalogue was en
 company's own sitemap and each product page was read once, with a gap of at least a second and a
 half between requests to any one host and any stated `Crawl-delay` honoured.
 
-**Two populations, counted separately, because they answer different questions.** The first is
-every product on each permitted host, classical and proprietary alike: **6,097 pages read of 6,099
-attempted**. That is the figure that is a fact about a company. The second is
-the subset sold under one of the 101 formulary names transcribed on this site, **503 pages**. That is the figure that bears on whether a product can be checked against the
-entry it claims, which is what this page is about. For most companies the two agree closely. For
-two of them they do not, and the tables below show both rather than picking one.
+**Two populations, counted separately, because they answer different questions. Both were read on
+9 October 2026.** The first is every product on each permitted host, classical and proprietary
+alike: **6,097 pages read of 6,099 attempted**, across 16 of the 20 companies surveyed. That is
+the figure that is a fact about a company. The second is the subset sold under one of the 101
+formulary names transcribed on this site, **503 pages across 14 companies**. That is the figure
+that bears on whether a product can be checked against the entry it claims, which is what this
+page is about. For most companies the two agree closely. For two of them they do not, and the
+tables below show both rather than picking one.
+
+The four companies with no measured range, and the reason for each, are listed under the tables.
+Two of those four are findings about them; one is a finding about the limits of our own matching;
+one is a crawler refusal we obeyed.
 
 Each page falls into one of four states, and the distinction between the second and the third is
 the whole point:
@@ -282,7 +288,7 @@ same matcher against each page's own title instead, on the 5,594 pages whose slu
 finds a formulary name on 31 of them. So the second table's population is about half a percent
 short, which does not move any figure in it materially.
 
-**One run, one date.** These pages change. Everything above was read on 8 October 2026 and is
+**One run, one date.** These pages change. Everything above was read on 9 October 2026 and is
 re-measured when the survey is re-run, with the date moving with it.
 
 ## Two premises this page started from were wrong
