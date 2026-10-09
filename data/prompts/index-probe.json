@@ -1,0 +1,15 @@
+{
+  "name": "index-probe",
+  "note": "NOT a citation panel. This asks whether Google can retrieve the newest pages at all, which is a different question from whether they earn citations on queries people actually type.\n\nHow it works, and why the answer means something. Gemini's grounding runs on Google Search: a page that is not in Google's index cannot be surfaced by it. So every question here is written to be answerable ONLY from a page published on this site in the last two days, using a figure or a relation that exists nowhere else. Nobody else has counted how many of 6,097 Ayurvedic product pages state a dose quantity, or measured how many Indian Ayurvedic manufacturers name an AI crawler in robots.txt, or published the verse-offset between Kaviratna's Charaka and the standard editions.\n\nREAD THE RESULT ASYMMETRICALLY. A citation to nighantu.ageayurveda.com proves the page is indexed and retrievable. Silence proves nothing on its own, because a page can be indexed and still not selected. And an answer that states our figures WITHOUT citing us is the most interesting outcome of the three: it means the content was retrieved and used unattributed.\n\nThe repo's own indexation monitor refuses to check Google membership because doing so means either an account or scraping a results page against the engine's terms. This is the third option: a documented API, used as intended, asking a question whose answer is a fact about our own corpus.",
+  "ours": ["nighantu.ageayurveda.com", "ageayurveda.com"],
+  "prompts": [
+    "How many Indian Ayurvedic manufacturers name an AI crawler such as GPTBot or ClaudeBot in their robots.txt?",
+    "Of Ayurvedic product pages surveyed online, how many state a dose quantity versus naming their ingredients?",
+    "Which Ayurvedic companies state a dose identical to the Ayurvedic Formulary of India for the preparations they sell?",
+    "What is the verse numbering difference between Kaviratna's English Charaka Samhita and the standard Trikamji editions?",
+    "Why can a verse read in a public domain translation of the Charaka Samhita not be cited in the standard form?",
+    "Is there a public register of Indian Ayurvedic manufacturers and what their websites allow crawlers to read?",
+    "How many Sanskrit ingredient names does the Ayurvedic Formulary of India use across its entries, and how many resolve to a botanical identity?",
+    "Which Ayurvedic manufacturers sell a classical preparation in tablet form without stating what one tablet weighs?"
+  ]
+}
