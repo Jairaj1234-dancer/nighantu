@@ -111,6 +111,13 @@ export const GET: APIRoute = ({ props }) => {
   const body = [
     `# ${d.title}`,
     '',
+    // The canonical URL sits here, in the first four lines, and not only in the footer where it
+    // used to live alone. A consumer that truncates a long document to fit a context window keeps
+    // the opening and discards the end, so on a 200-line monograph the one line that says where
+    // this text came from was the line most likely to be dropped. A twin an engine can quote but
+    // cannot attribute is worse for this site than no twin at all.
+    `Canonical version of this page: ${canonical}`,
+    '',
     `> ${d.answer}`,
     '',
     ...(facts.length ? ['## Key facts', '', ...facts.map(([k, v]) => `- **${k}:** ${v}`), ''] : []),
