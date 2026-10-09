@@ -278,13 +278,25 @@ const DOSE_LABELS = [
  * in Hindi: Patanjali's cattle-medicine pages say "100 मि.ली. से 200 मि.ली.", which a Latin-only
  * pattern scores as no quantity on a page that plainly states one.
  */
-const DOSE_UNIT = String.raw`ml|mls|millilitres?|milliliters?|g|gm|gms|grams?|mg|mgs|milligrams?|l|litres?|liters?`
+/**
+ * The units are in two groups because the word boundary is not the same for both.
+ *
+ * `\b` is defined on ASCII word characters. A Devanagari letter is not one, so there is no word
+ * boundary beside it and `/मि\.?ली\.?\b/` matches nothing at all: the Hindi units were in this
+ * pattern, the comment above said they were handled, and every Hindi dose was being scored as
+ * stating no amount. Found by a test case taken off a real Patanjali cattle-medicine page.
+ *
+ * The ASCII group keeps `\b`, because it must: a bare `g` without one matches the g in "gold", and
+ * `l` matches the l in "lukewarm". The Devanagari group takes no trailing assertion.
+ */
+const DOSE_UNIT_ASCII = String.raw`ml|mls|millilitres?|milliliters?|g|gm|gms|grams?|mg|mgs|milligrams?|l|litres?|liters?`
   + String.raw`|tsp|tsps|tsf|teaspoons?|teaspoonfuls?|tbsp|tbsps|tablespoons?|tablespoonfuls?|spoons?|spoonfuls?`
-  + String.raw`|drops?|tabs?|tablets?|capsules?|caps|vatis?|pills?|gutikas?|sachets?|cups?|glass|glasses|pinch|pinches`
-  + String.raw`|मि\.?ली\.?|ग्राम|मि\.?ग्रा\.?|बूंदे?|चम्मच|गोली(?:याँ|यां)?`;
+  + String.raw`|drops?|tabs?|tablets?|capsules?|caps|vatis?|pills?|gutikas?|sachets?|cups?|glass|glasses|pinch|pinches`;
+const DOSE_UNIT_DEVANAGARI = String.raw`मि\.?ली\.?|मि\.?ग्रा\.?|ग्राम|बूंदे?|चम्मच|गोली(?:याँ|यां)?`;
+const FIGURE = String.raw`(?:\d+(?:[.,]\d+)?|[०-९]+|one|two|three|four|five|six|ten|half|quarter)`
+  + String.raw`\s*(?:[-–—/]|to|or|se|से)?\s*(?:\d+(?:[.,]\d+)?|[०-९]+)?\s*`;
 const QUANTITY = new RegExp(
-  String.raw`(?:\d+(?:[.,]\d+)?|[०-९]+|one|two|three|four|five|six|ten|half|quarter)`
-  + String.raw`\s*(?:[-–—]|to|or|se|से)?\s*(?:\d+(?:[.,]\d+)?|[०-९]+)?\s*(?:${DOSE_UNIT})\b`, 'i');
+  `(?:${FIGURE}(?:${DOSE_UNIT_ASCII})\\b)|(?:${FIGURE}(?:${DOSE_UNIT_DEVANAGARI}))`, 'i');
 const INSTRUCTION = /\b(?:take|use|used|apply|applied|consume|ingest|administer|massage|rub|dab|anoint|instil|instill|sip|chew|swallow|dissolve|gargle|rinse|inhale|lather|sprinkle|brush|wash|as\s+(?:directed|advised|specified|prescribed|per\s+the\s+advice)|under\s+medical\s+supervision|consult\s+(?:your|a|an)\s+(?:physician|doctor|vaidya))\b/i;
 
 /**

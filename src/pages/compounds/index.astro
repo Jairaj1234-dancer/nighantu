@@ -3,7 +3,7 @@ import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import data from '../../data/compounds.json';
 import chemistry from '../../data/chemistry.json';
-import { SITE_NAME, abs, rel } from '../../lib/site';
+import { SITE_NAME, abs, rel, datasetIdentity } from '../../lib/site';
 
 const { summary, compounds, updatedAt } = data as any;
 
@@ -15,6 +15,7 @@ const jsonld = [
   {
     '@context': 'https://schema.org',
     '@type': 'Dataset',
+    ...datasetIdentity(),
     '@id': `${abs('/compounds/')}#dataset`,
     name: 'Age Ayurveda Nighantu phytochemical co-occurrence graph',
     description,

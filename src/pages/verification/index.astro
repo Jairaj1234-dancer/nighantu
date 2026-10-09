@@ -2,7 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import verification from '../../data/verification.json';
-import { SITE_NAME, abs, rel } from '../../lib/site';
+import { SITE_NAME, abs, rel, datasetIdentity } from '../../lib/site';
 
 const { runs, updatedAt } = verification as any;
 
@@ -13,6 +13,7 @@ const jsonld = [
   {
     '@context': 'https://schema.org',
     '@type': 'Dataset',
+    ...datasetIdentity(),
     '@id': `${abs('/verification/')}#dataset`,
     name: 'Age Ayurveda Nighantu verification ledger',
     description,
@@ -72,7 +73,7 @@ function headline(r: any) {
     <table>
       <caption>Verification runs</caption>
       <thead>
-        <tr><th>What was checked</th><th style="text-align:right">Examined</th><th style="text-align:right">Published</th><th style="text-align:right">Rejected</th></tr>
+        <tr><th scope="col">What was checked</th><th scope="col" style="text-align:right">Examined</th><th scope="col" style="text-align:right">Published</th><th scope="col" style="text-align:right">Rejected</th></tr>
       </thead>
       <tbody>
         {runs.map((r: any) => {

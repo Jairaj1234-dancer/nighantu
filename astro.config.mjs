@@ -1,6 +1,7 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import { rehypeBaseLinks } from './src/lib/rehype-base-links.mjs';
+import { rehypeTableScope } from './src/lib/rehype-table-scope.mjs';
 import PAGE_DATES from './src/data/page-dates.json' with { type: 'json' };
 
 const SITE = process.env.ATLAS_SITE || 'https://nighantu.ageayurveda.com';
@@ -49,6 +50,6 @@ export default defineConfig({
     // Hand-authored pages write links as "/herb/haritaki/" and this applies whatever base
     // the build is using, repairing the legacy "/nighantu" prefix on the way. See the
     // module for why hardcoding the base broke ten links the day the subdomain went live.
-    rehypePlugins: [rehypeBaseLinks],
+    rehypePlugins: [rehypeBaseLinks, rehypeTableScope],
   },
 });

@@ -1,0 +1,238 @@
+---
+/**
+ * Who manufactures Ayurvedic medicine in India, and what their websites permit.
+ *
+ * WHY THIS PAGE EXISTS. No public register joins these facts. AYUSH manufacturing licences are
+ * issued by state licensing authorities and the registers are state-held, largely offline and not
+ * joined to one another; the trade associations publish member lists as PDFs or not at all. So
+ * "who makes Ashokarishta" and "which Ayurvedic manufacturers can an answer engine read" are both
+ * unanswerable from anything published, and the second one this project can measure exactly.
+ *
+ * WHY IT IS SHAPED AS A TABLE OF PERMISSIONS RATHER THAN A DIRECTORY. A directory of Indian
+ * manufacturers would be a commodity and mostly unverifiable: addresses, licence numbers and
+ * product ranges change, and this project has no standing to assert them. What it can assert, from
+ * one fetch per host, is what each site itself says about being read. That is a fact with a
+ * timestamp and a method, and it answers the question the rest of this site keeps running into.
+ *
+ * THE RESULT RAN AGAINST THE EXPECTATION. The plan behind this work assumed the opening was
+ * largest where companies BLOCK AI crawlers, because then nothing can cite them for their own
+ * products. Almost nobody blocks: 152 of 164 allow GPTBot, ClaudeBot and CCBot, and only 4 name an
+ * AI crawler at all. The sector is wide open and still absent from answer engines, which means the
+ * barrier is not permission. It is that there is nothing on most of these pages worth citing.
+ */
+import Page from '../layouts/Page.astro';
+import register from '../data/manufacturer-register.json';
+import { abs, datasetIdentity } from '../lib/site';
+
+const data = register as any;
+const s = data.summary;
+const companies = (data.companies as any[]);
+
+const title = 'Who manufactures Ayurvedic medicine in India, and what their sites allow';
+const description = `${s.companies} Ayurvedic manufacturers across ${s.states} Indian states, each `
+  + `with the website it publishes and what its robots.txt permits, measured one host at a time on `
+  + `${data.measuredOn}. ${s.catalogueReadable} publish a catalogue a crawler may read; only `
+  + `${s.nameAnyAiCrawler} address an AI crawler at all.`;
+const canonical = '/manufacturers/';
+
+const n = (x: number) => x.toLocaleString('en-GB');
+const AI = ['GPTBot', 'ClaudeBot', 'CCBot', 'PerplexityBot'];
+
+/** By state, then by name, because the state is the one axis a reader navigates this by. */
+const byState = new Map<string, any[]>();
+for (const c of companies) {
+  const k = c.state ?? 'State not established';
+  if (!byState.has(k)) byState.set(k, []);
+  byState.get(k)!.push(c);
+}
+const states = [...byState.entries()]
+  .map(([state, list]) => ({ state, list: list.slice().sort((a, b) => String(a.name).localeCompare(String(b.name))) }))
+  .sort((a, b) => b.list.length - a.list.length || a.state.localeCompare(b.state));
+
+const named = companies.filter((c) => (c.aiAgentsNamed ?? []).length > 0);
+const blocks = companies.filter((c) => c.permits && AI.some((a) => c.permits[a] === false));
+const unreadable = companies.filter((c) => c.robots?.verdict === 'unknown');
+const permitCount = (agent: string) => companies.filter((c) => c.permits?.[agent] === true).length;
+
+const jsonld = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Dataset',
+    ...datasetIdentity(),
+    '@id': `${abs(canonical)}#dataset`,
+    name: data.name,
+    description: data.description,
+    url: abs(canonical),
+    license: 'https://creativecommons.org/licenses/by/4.0/',
+    isAccessibleForFree: true,
+    creator: { '@id': `${abs('/')}#organization` },
+    publisher: { '@id': `${abs('/')}#organization` },
+    dateModified: data.measuredOn,
+    variableMeasured: ['manufacturer name', 'website host', 'state', 'robots.txt status',
+      'robots.txt verdict', 'catalogue readable', 'AI crawlers named', 'per-crawler permission'],
+    spatialCoverage: { '@type': 'Place', name: 'India' },
+    distribution: [
+      { '@type': 'DataDownload', name: 'JSON', encodingFormat: 'application/json', contentUrl: abs('/manufacturer-register.json') },
+      { '@type': 'DataDownload', name: 'CSV', encodingFormat: 'text/csv', contentUrl: abs('/manufacturer-register.csv') },
+    ],
+  },
+];
+---
+<Page title={title} description={description} canonical={canonical} updated={data.measuredOn}
+  trail={[{ label: 'Ayurvedic manufacturers in India' }]} jsonld={jsonld}>
+  <p class="answer">
+    There is no public register of who manufactures Ayurvedic medicine in India. Licences are issued
+    by state authorities and held by them, and the trade bodies publish little. This is
+    <strong>{n(s.companies)} manufacturers across {n(s.states)} states</strong>, each with the site
+    it publishes and what that site permits a crawler to read, measured one host at a time on
+    {data.measuredOn}.
+  </p>
+
+  <p class="lede">
+    The measurement was made expecting to find companies shutting answer engines out. They are not.
+    <strong>{n(permitCount('GPTBot'))} of {n(s.companies)} allow GPTBot, ClaudeBot and CCBot</strong>,
+    {n(s.catalogueReadable)} publish a catalogue this crawler may read, and only
+    {n(s.nameAnyAiCrawler)} address an AI crawler by name at all. Permission is not the barrier.
+  </p>
+
+  <table class="facts">
+    <caption>What was measured</caption>
+    <tbody>
+      <tr><th scope="row">Manufacturers</th><td>{n(s.companies)}, in {n(s.states)} states and union territories</td></tr>
+      <tr><th scope="row">Selling classical preparations</th><td>{n(s.sellClassicalPreparations)}, by their own description</td></tr>
+      <tr><th scope="row">robots.txt with rules</th><td>{n(s.robotsVerdicts.rules ?? 0)}</td></tr>
+      <tr><th scope="row">robots.txt absent or empty</th><td>{n(s.robotsVerdicts.open ?? 0)}, which permits everything</td></tr>
+      <tr><th scope="row">robots.txt unreadable</th><td>{n(s.robotsVerdicts.unknown ?? 0)}, treated as closed and left alone</td></tr>
+      <tr><th scope="row">Catalogue readable by this crawler</th><td>{n(s.catalogueReadable)}</td></tr>
+      <tr><th scope="row">Naming any AI crawler</th><td>{n(s.nameAnyAiCrawler)}</td></tr>
+      <tr><th scope="row">Blocking at least one</th><td>{n(s.blockAtLeastOneAiCrawler)}</td></tr>
+      <tr><th scope="row">Candidates held back</th><td>{n(s.unverifiedCandidatesHeldBack)}, unverified, names not published</td></tr>
+    </tbody>
+  </table>
+
+  <h2>What each crawler is allowed</h2>
+  <p>
+    One robots.txt per host, parsed per agent, for the path <code>/products/</code>. A host whose
+    robots.txt could not be fetched counts as refusing, which is what RFC 9309 requires and what
+    this project does everywhere.
+  </p>
+  <div class="tablewrap">
+    <table>
+      <thead><tr><th>Crawler</th><th>Allowed</th><th>Refused</th><th>Could not be established</th></tr></thead>
+      <tbody>
+        {['Googlebot', 'bingbot', ...AI].map((a) => (
+          <tr>
+            <td class="term">{a}</td>
+            <td>{n(companies.filter((c) => c.permits?.[a] === true).length)}</td>
+            <td>{n(companies.filter((c) => c.permits?.[a] === false).length)}</td>
+            <td>{n(unreadable.length)}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+
+  <h2>The four that addressed AI crawlers, and what they decided</h2>
+  <p>
+    Worth naming individually because there are so few of them, and because two of the four made a
+    distinction the rest of the industry has not: search engines yes, training crawlers no.
+  </p>
+  <div class="tablewrap">
+    <table>
+      <thead><tr><th>Company</th><th>Site</th><th>Googlebot</th><th>GPTBot</th><th>ClaudeBot</th><th>CCBot</th></tr></thead>
+      <tbody>
+        {named.map((c) => (
+          <tr>
+            <td class="term">{c.name}</td>
+            <td><code>{c.host}</code></td>
+            {['Googlebot', 'GPTBot', 'ClaudeBot', 'CCBot'].map((a) => (
+              <td>{c.permits?.[a] === true ? 'allowed' : c.permits?.[a] === false ? 'refused' : 'unknown'}</td>
+            ))}
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p>
+    None of them is a large company. Every manufacturer in this register with a nationally known
+    name leaves the question unaddressed, which is the more interesting half of the result: the
+    decision about whether an answer engine may read a product catalogue is currently being taken,
+    where it is taken at all, by the smallest firms in the industry.
+  </p>
+
+  <h2>The register</h2>
+  <p>
+    By state, then alphabetically. "Classical" means the company describes itself as making
+    shastrokta preparations, which is its own claim and not a verification of it. "Catalogue" is
+    whether this crawler may read a product path, which is a fact about permission and not about
+    whether anything useful is published there.
+  </p>
+  {states.map(({ state, list }) => (
+    <section class="state">
+      <h3>{state} <span class="count">{list.length}</span></h3>
+      <div class="tablewrap">
+        <table>
+          <thead><tr><th>Company</th><th>Site</th><th>Classical</th><th>robots.txt</th><th>Catalogue</th></tr></thead>
+          <tbody>
+            {list.map((c) => (
+              <tr>
+                <td class="term">{c.name}</td>
+                <td><code>{c.host}</code></td>
+                <td>{c.sellsClassical ? 'yes' : ''}</td>
+                <td>{c.robots?.verdict === 'unknown' ? 'unreadable' : c.robots?.verdict}</td>
+                <td>{c.catalogueReadable ? 'readable' : 'no'}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+  ))}
+
+  <h2>How this was built, and what it is not</h2>
+  <p>
+    Candidates were found by research agents working from association rosters, government
+    directories and trade listings. That work is <strong>not trusted</strong>, and the reason is
+    concrete: the same passes proposed a gambling site, a parked domain, a betting blog, two wrong
+    legal entities and one company already counted under another name.
+    {n((data.excluded as any[]).length)} candidates are excluded here with the reason recorded
+    against each, and {n(s.unverifiedCandidatesHeldBack)} more are held back entirely with their
+    names unpublished, because the verification pass that should have checked them did not complete.
+    A list of real companies published on one agent's say-so is exactly the thing this site refuses
+    elsewhere.
+  </p>
+  <p>
+    Every permission field above comes from this project fetching that host's robots.txt once,
+    1.2 seconds apart, identified as <code>NighantuBot</code> with a URL explaining itself. No
+    product page was fetched for this register. It therefore records what each site says about being
+    read and nothing about what it publishes, the quality of anything it makes, or whether it holds
+    a current licence. A manufacturer absent from this register is not absent from the industry:
+    there are several thousand licensed Ayurvedic manufacturing units in India and this is
+    {n(s.companies)} of them.
+  </p>
+
+  <h2>Download</h2>
+  <p>
+    <a href="/manufacturer-register.json">manufacturer-register.json</a> and
+    <a href="/manufacturer-register.csv">manufacturer-register.csv</a>, CC BY 4.0. The CSV is one
+    row per company with the per-crawler permissions as columns, which is the shape for anyone
+    wanting to count or filter. If a row here is wrong about your company, including the state or
+    whether we read your robots.txt correctly, tell us and we will correct it.
+  </p>
+
+  <p class="meta">
+    Measured {data.measuredOn}. Related: <a href="/choosing/who-publishes-the-composition/">which of
+    these companies publish what is in the bottle</a>, and <a
+    href="/choosing/label-dose-against-the-formulary/">how their stated doses compare to the
+    formulary</a>.
+  </p>
+</Page>
+
+<style>
+  .tablewrap th, .tablewrap td { text-align: left; padding: .4rem .7rem; border-top: 1px solid var(--rule); font-size: .93rem; }
+  .tablewrap td.term { font-weight: 600; }
+  .tablewrap code { font-size: .86rem; color: var(--ink-soft); }
+  .state { margin: 1.6rem 0; }
+  .state h3 { margin: 0 0 .3rem; font-size: 1.05rem; }
+  .state h3 .count { font-weight: 400; color: var(--ink-soft); font-size: .9rem; }
+</style>

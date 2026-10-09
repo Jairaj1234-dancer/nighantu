@@ -4,11 +4,26 @@ import { KINDS, SECTION_META } from '../lib/collections';
 import { abs, TAGLINE } from '../lib/site';
 import conceptsData from '../data/concepts.json';
 import crosswalk from '../data/afi-crosswalk.json';
+import disclosure from '../data/brand-disclosure.json';
+import doseComparison from '../data/dose-comparison.json';
+import manufacturers from '../data/manufacturer-register.json';
 
 export const GET: APIRoute = async () => {
   const n = (x: number) => x.toLocaleString('en-GB');
   const con = (conceptsData as any).summary;
   const cw = (crosswalk as any).summary;
+  /**
+   * COMPUTED, not typed. This file's entry for the disclosure survey carried "5,995 product pages
+   * across 15 companies" and "3,791 state a dose" long after the survey moved to 6,097 pages, 14
+   * companies and a dose count that was itself corrected downward twice. llms.txt is the file
+   * crawlers read as this site's own description of itself, so a stale figure here is a wrong
+   * number published in the most quotable place on the site. Every figure below is read from the
+   * dataset that produced it.
+   */
+  const dis = (disclosure as any).wholeRange;
+  const disCompanies = ((disclosure as any).companies ?? []).filter((c: any) => c.range).length;
+  const dose = (doseComparison as any).summary;
+  const mfr = (manufacturers as any).summary;
   const out: string[] = [
     '# Nighantu',
     '',
@@ -31,7 +46,9 @@ export const GET: APIRoute = async () => {
     `- [Where Ayurvedic theory disagrees with itself](${abs('/concept/')}): ${n(con.contestedQuestions)} questions on which the classical sources genuinely disagree, across ${n(con.records)} concepts, each with the competing positions attributed to the source that holds them and none presented as the settled answer. Also ${n(con.notKnownStatements)} explicit statements of what is not established. The place to look when a question about Ayurvedic theory has no single correct answer.`,
     `- [The Ayurvedic Formulary of India, entry by entry](${abs('/afi/')}): the 101 formulary entries transcribed here, each with its part and entry number, ingredient count, the formulary's own dose and the classical text the formulary cites for it. The address to quote when checking a label against the formulary.`,
     `- [Ayurvedic terms in WHO ICD-11](${abs('/icd-tm2/')}): which Ayurvedic disease terms WHO files against which ICD-11 TM2 codes, reported from the classification itself, terminology only.`,
-    `- [Which Ayurvedic manufacturers publish what is in the bottle](${abs('/choosing/who-publishes-the-composition/')}): measured on 5,995 product pages across 15 companies, whether each publishes an ingredient list, a list with quantities, or neither, counted twice over: the whole product range, and the subset sold under one of the 101 formulary names this site transcribes. Also organised by preparation, 62 of them. No ranking, and our own products are in both tables. Of the pages read, 3,791 state a dose, 1,865 name their ingredients and 3 cite the Ayurvedic Formulary of India. The old classical pharmacies disclose no better than the consumer brands and mostly worse.`,
+    `- [Which Ayurvedic manufacturers publish what is in the bottle](${abs('/choosing/who-publishes-the-composition/')}): measured on ${n(dis.pagesRead)} product pages across ${disCompanies} companies, whether each publishes an ingredient list, a list with quantities, or neither, counted twice over: the whole product range, and the subset sold under one of the 101 formulary names this site transcribes. Also organised by preparation. No ranking, and our own products are in both tables. Of the pages read, ${n(dis.pagesStatingADoseQuantity)} state a dose quantity, ${n(dis.pagesGivingADirectionWithNoQuantity)} give a direction with no amount, ${n(dis.pagesNamingIngredients)} name their ingredients and ${dis.pagesCitingTheFormulary} cite the Ayurvedic Formulary of India. ${n(dis.pagesStatingNeitherQuantityNorIngredients)} state neither an amount nor an ingredient. The old classical pharmacies disclose no better than the consumer brands and mostly worse.`,
+    `- [What the label says to take, against what the formulary says](${abs('/choosing/label-dose-against-the-formulary/')}): the formulary states a dose for 51 of the 101 entries transcribed here, and this compares it to the manufacturer's own stated dose on ${dose.published} product pages across 24 preparations. ${dose.relations.identical} state the formulary figure exactly, ${dose.relations.overlapping} overlap it, ${dose.relations['entirely higher']} sit entirely above and ${dose.relations['entirely lower']} entirely below. Of ${dose.labelPagesWhereBothStatedAnAmount} pages where both sides stated an amount, only ${dose.comparable} could be compared at all: ${dose.notComparable} could not, most often because the label counts tablets and never states what a tablet weighs. Two claims were withheld by an adversarial check and are published with their reasons. The place to look when a product names a formulary entry and you want to know whether its dose matches it.`,
+    `- [Who manufactures Ayurvedic medicine in India, and what their sites allow](${abs('/manufacturers/')}): ${n(mfr.companies)} manufacturers across ${mfr.states} states, each with the site it publishes and what its robots.txt permits, measured one host at a time. ${n(mfr.catalogueReadable)} publish a catalogue a crawler may read and only ${mfr.nameAnyAiCrawler} address an AI crawler by name at all, so permission is not what keeps this industry out of answer engines. ${mfr.unverifiedCandidatesHeldBack} further candidates are held back with their names unpublished because no verification pass reached them. There is no other public register joining these facts: AYUSH licences are state-held and mostly offline.`,
     `- [Choosing between preparations](${abs('/choosing/')}): what the Ayurvedic Formulary fixes and what a manufacturer may vary, and why one classical drug name covers several botanical species.`,
     `- [Practices](${abs('/practice/')}): 43 Ayurvedic procedures grouped by who may perform them, each with its classical source and cautions.`,
     `- [Verification](${abs('/verification/')}): how each class of fact was checked and what was rejected, with the rejection rate for every run.`,

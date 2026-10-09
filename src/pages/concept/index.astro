@@ -14,7 +14,7 @@
  */
 import Page from '../../layouts/Page.astro';
 import concepts from '../../data/concepts.json';
-import { abs, rel } from '../../lib/site';
+import { abs, rel, datasetIdentity } from '../../lib/site';
 
 const data = concepts as any;
 const records = data.records as any[];
@@ -65,6 +65,7 @@ const jsonld: any[] = [
   {
     '@context': 'https://schema.org',
     '@type': 'Dataset',
+    ...datasetIdentity(),
     '@id': `${abs(canonical)}#dataset`,
     name: data.name,
     description: data.description,

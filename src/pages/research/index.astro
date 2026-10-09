@@ -3,7 +3,7 @@ import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import research from '../../data/research.json';
 import { TIER_ORDER, TIER_LABEL, TIER_NOTE } from '../../lib/tiers';
-import { SITE_NAME, PUBLISHER, abs, rel } from '../../lib/site';
+import { SITE_NAME, PUBLISHER, abs, rel, datasetIdentity } from '../../lib/site';
 
 const { summary } = research as any;
 const [minY, maxY] = summary.yearRange;
@@ -16,6 +16,7 @@ const jsonld = [
   {
     '@context': 'https://schema.org',
     '@type': 'Dataset',
+    ...datasetIdentity(),
     '@id': `${abs('/research/')}#dataset`,
     name: 'Age Ayurveda Nighantu research index',
     description,

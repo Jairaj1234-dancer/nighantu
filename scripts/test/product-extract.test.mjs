@@ -251,4 +251,61 @@ const cts = extractProduct(compThenShop);
 eq('three ingredient quantities', cts.quantityCount, 3);
 ok('and no price among them', !cts.quantities.some((q) => /450/.test(q.raw)));
 
+/**
+ * --- THE DOSE TIERS, every case here taken from a real page that was scored wrongly ---
+ *
+ * The single "does this text look like a dose" test was wrong in public twice, over 793 pages the
+ * first time. These are the exact inputs that broke it, in both directions: furniture counted as
+ * disclosure, and real doses missed because a pattern failed on a plural.
+ */
+const dosePage = (text) => extractProduct(`<html><body>${filler}<h3>Dosage</h3><p>${text}</p></body></html>`);
+
+// Not a dose, however much it looks like text in a dose field.
+for (const junk of [
+  '.',
+  'Coming Soon',
+  'STEP 1',
+  'Pack sizes',
+  '(4.9)',
+  'Use before 24 months from the date of manufacturing.',
+  'Manufactured by: Himalaya Wellness Company, Makali, Bengaluru - 562162, Karnataka, India',
+  '100% Natural 80+ years of legacy',
+]) {
+  eq(`not a dose: ${JSON.stringify(junk)}`, dosePage(junk).dose.state, 'absent');
+}
+
+// A quantity: a figure beside a unit. Each of these was MISSED by an earlier pattern.
+for (const [text, why] of [
+  ['1-2 tablets twice daily with warm water', 'plural "tablets"'],
+  ['Adult: 15-20 gms in divided doses over a day', 'plural "gms"'],
+  ['Use 2-3 drops or as advised by the Vaidya.', 'plural "drops"'],
+  ['Ingest 1-2 teaspoonfuls with lukewarm water twice a day', '"teaspoonfuls"'],
+  ['1 tab 2 times a day.', 'abbreviated "tab"'],
+  ['1/2-1 g with honey or lukewarm water twice daily', 'a fraction, not a range of 2 to 1'],
+  ['For Adults: 15 ml to 25 ml twice daily after meals', 'the unit repeated after both bounds'],
+  ['12 to 24 ml or as directed by the physician.', 'the plain formulary form'],
+  ['मात्रा : 100 मि.ली. से 200 मि.ली. प्रतिदिन पिलायें।', 'Devanagari units'],
+]) {
+  eq(`states a quantity (${why})`, dosePage(text).dose.states, 'quantity');
+}
+
+// A direction with no amount is a real thing for a page to say, and it is not a dose quantity.
+for (const text of [
+  'Apply on head.',
+  'As directed by the Physician.',
+  'Take the required quantity in a small bowl and warm it gently.',
+  'Dab it directly on the face with a cotton pad or mix it in your face pack',
+]) {
+  eq(`direction, no quantity: ${JSON.stringify(text.slice(0, 28))}`, dosePage(text).dose.states, 'instruction');
+}
+
+// Markup and template sentinels never reach a consumer as a stated dose.
+const messy = extractProduct(`<html><body>${filler}<h3>Dosage</h3>
+<div>? <ul><li>Usage: Adults: 2 tablets twice daily after food with lukewarm water</li></ul>ttt</div>
+</body></html>`);
+eq('markup is stripped from the dose text', /<[^>]*>|\bttt\b/.test(messy.dose.text), false);
+eq('and it is still scored a quantity', messy.dose.states, 'quantity');
+ok('leading template "?" is gone', !messy.dose.text.startsWith('?'));
+
+
 console.log(`PASS: ${n} product-extraction cases`);

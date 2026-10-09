@@ -25,7 +25,7 @@ faq:
   - q: "What does 'as per AFI' mean if the ingredients are not published?"
     a: "It claims that the recipe and method are the formulary's. Without a published ingredient list there is nothing on the page to check that claim against, so it has to be taken on trust. It is worth knowing how seldom the claim is even made on a product page: 3 of the 6,097 pages read name the Ayurvedic Formulary of India, and 312 cite any authority at all."
   - q: "Do Ayurvedic product pages say how much to take?"
-    a: "About as often as they say what is in it, and on most pages they do neither. Counting only pages that give an actual amount, a figure beside a unit such as '12 to 24 ml' or '1-2 tablets': 1,925 of the 6,097 pages read state a dose quantity and 1,931 name their ingredients. A further 932 give a direction with no amount, such as 'apply on head' or 'as directed by the physician'. 3,262 pages, 53% of them, state neither an amount nor an ingredient."
+    a: "About as often as they say what is in it, and on most pages they do neither. Counting only pages that give an actual amount, a figure beside a unit such as '12 to 24 ml' or '1-2 tablets': 1,934 of the 6,097 pages read state a dose quantity and 1,931 name their ingredients. A further 932 give a direction with no amount, such as 'apply on head' or 'as directed by the physician'. 3,258 pages, 53% of them, state neither an amount nor an ingredient."
 
 ---
 
@@ -234,20 +234,20 @@ state for that preparation, not that the preparation lacks the figure.
 ## What the whole range shows that the classical range does not
 
 **Stating a dose and naming the ingredients turn out to be almost exactly as rare as each other.**
-Of the 6,097 pages read, **1,925 state a dose quantity** and **1,931 name their ingredients**. Six
+Of the 6,097 pages read, **1,934 state a dose quantity** and **1,931 name their ingredients**. Three
 pages apart out of six thousand. This page previously said a product page was about twice as likely
 to give the dose as the contents, which was wrong, and the correction is recorded at the foot of
 the page.
 
 Counting a dose needs a definition, so here is the one used. A page is counted as stating a dose
 only where it gives **an amount**: a figure beside a unit, as in "12 to 24 ml", "1-2 tablets",
-"3 - 5 gram twice a day with milk". **2,857 pages** had real text under a dose or directions
-heading, and of those, 1,925 gave an amount while **932 gave only a direction** with no amount at
+"3 - 5 gram twice a day with milk". **2,866 pages** had real text under a dose or directions
+heading, and of those, 1,934 gave an amount while **932 gave only a direction** with no amount at
 all: "Apply on head", "Take the required quantity in a small bowl", "as directed by the physician".
 A direction is a real thing for a page to say and it is not a dose, so it is counted separately and
 never added in.
 
-**3,262 of the 6,097 pages state neither an amount nor an ingredient.** That is 53%, and it is the
+**3,258 of the 6,097 pages state neither an amount nor an ingredient.** That is 53%, and it is the
 single figure that best describes this corpus.
 
 One honest qualification on all of the above, which cuts against the force of it. These are whole
@@ -413,8 +413,8 @@ each produced a figure that needed correcting again, and each one also missed re
 a word-boundary pattern for "tablet" does not match "tablets" and one for "gm" does not match
 "gms". So the measure was split in two, and neither half is a judgement: a page states a dose
 quantity if it gives a figure beside a unit, and gives a direction if it says to do something with
-no amount. 1,925 and 932 respectively, against the single wrong 3,792. The claim that one kind of
-disclosure is twice as common as the other does not survive: 1,925 against 1,931.
+no amount. 1,934 and 932 respectively, against the single wrong 3,792. The claim that one kind of
+disclosure is twice as common as the other does not survive: 1,934 against 1,931.
 
 It was found while building a comparison of label doses against the formulary's own doses, which
 required reading the values rather than counting them.
