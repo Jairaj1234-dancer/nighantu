@@ -28,8 +28,16 @@ export default defineConfig({
    * distrust the field.
    */
   integrations: [sitemap({
-    changefreq: 'monthly',
-    priority: 0.7,
+    /**
+     * No changefreq and no priority, because both engines that matter say in writing that they
+     * ignore them. Bing stated flatly on 31 July 2025 that "changefreq and priority are ignored by
+     * Bing", and Google's sitemap documentation says the same of both. They were set here to
+     * 'monthly' and 0.7 on all 1,234 URLs, which told every crawler the same uninformative thing
+     * about every page and made the file larger for nothing.
+     *
+     * lastmod is the one field both engines document reading, and it is set per URL below from the
+     * committed date ledger.
+     */
     serialize(item) {
       const base = BASE.replace(/\/$/, '');
       let p = new URL(item.url).pathname;
