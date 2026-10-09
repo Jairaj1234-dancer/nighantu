@@ -250,6 +250,60 @@ const DOSE_LABELS = [
 ];
 
 /**
+ * WHY A DOSE IS SCORED IN TWO TIERS AND NOT ONE.
+ *
+ * The first version of this asked one question, "is there text here", and answered it by looking
+ * for a figure or a verb. That counted ".", "Coming Soon", "STEP 1" and "Pack sizes" as a company
+ * publishing its dose, and the published comparison inherited the error on 793 pages.
+ *
+ * Tightening the single test was the wrong repair, and three successive attempts at it each
+ * produced a number that needed correcting, because "is this text a dose" is a judgement and a
+ * pattern list is not a judge. Worse, each list failed on plurals: `tablet` with a word boundary
+ * does not match "tablets", `gm` does not match "gms", `teaspoon` does not match "teaspoonfuls",
+ * so every version quietly undercounted the real doses while overcounting the junk.
+ *
+ * So the measure is split, and neither half needs a judgement:
+ *
+ *   QUANTITY is a figure beside a unit of measure. "12 to 24 ml", "1-2 tablets", "2-3 drops".
+ *   Mechanically checkable, and it is what a reader can actually act on.
+ *
+ *   INSTRUCTION is a direction to do something with the product, with no amount given. "Apply on
+ *   the affected area", "As directed by the physician". That is a real thing a page can say and
+ *   it is not a dose, so it is reported as its own class rather than folded into one total.
+ *
+ * Both are published per page, so the site states how many pages give an amount and how many give
+ * only a direction, and the stronger claim never rests on the weaker class.
+ *
+ * Devanagari units are matched because these are Indian manufacturers and some state the dose only
+ * in Hindi: Patanjali's cattle-medicine pages say "100 मि.ली. से 200 मि.ली.", which a Latin-only
+ * pattern scores as no quantity on a page that plainly states one.
+ */
+const DOSE_UNIT = String.raw`ml|mls|millilitres?|milliliters?|g|gm|gms|grams?|mg|mgs|milligrams?|l|litres?|liters?`
+  + String.raw`|tsp|tsps|tsf|teaspoons?|teaspoonfuls?|tbsp|tbsps|tablespoons?|tablespoonfuls?|spoons?|spoonfuls?`
+  + String.raw`|drops?|tabs?|tablets?|capsules?|caps|vatis?|pills?|gutikas?|sachets?|cups?|glass|glasses|pinch|pinches`
+  + String.raw`|मि\.?ली\.?|ग्राम|मि\.?ग्रा\.?|बूंदे?|चम्मच|गोली(?:याँ|यां)?`;
+const QUANTITY = new RegExp(
+  String.raw`(?:\d+(?:[.,]\d+)?|[०-९]+|one|two|three|four|five|six|ten|half|quarter)`
+  + String.raw`\s*(?:[-–—]|to|or|se|से)?\s*(?:\d+(?:[.,]\d+)?|[०-९]+)?\s*(?:${DOSE_UNIT})\b`, 'i');
+const INSTRUCTION = /\b(?:take|use|used|apply|applied|consume|ingest|administer|massage|rub|dab|anoint|instil|instill|sip|chew|swallow|dissolve|gargle|rinse|inhale|lather|sprinkle|brush|wash|as\s+(?:directed|advised|specified|prescribed|per\s+the\s+advice)|under\s+medical\s+supervision|consult\s+(?:your|a|an)\s+(?:physician|doctor|vaidya))\b/i;
+
+/**
+ * Markup reaches these values on hosts that put HTML inside a JSON field: 176 of the pages counted
+ * as stating a dose carried tags, and Kerala Ayurveda's carried a literal `ttt` sentinel and a
+ * leading `?` from the same template. Left in, a public comparison table would print `? <ul><li>`
+ * as a manufacturer's stated dose. Stripped here so every consumer of this record sees the text
+ * the page shows a reader.
+ */
+const doseText = (t) => String(t ?? '')
+  .replace(/<[^>]*>/g, ' ')
+  .replace(/&nbsp;/gi, ' ')
+  .replace(/&amp;/gi, '&')
+  .replace(/\bttt\b/g, ' ')
+  .replace(/^[\s?]+/, '')
+  .replace(/\s+/g, ' ')
+  .trim();
+
+/**
  * The block of text a label introduces.
  *
  * Takes the lines after the label up to a blank line or the next label-looking line, capped. The
@@ -544,16 +598,32 @@ export const extractProduct = (html, { minReadableChars = 600 } = {}) => {
        * passes. "Drip it" does not, and should not.
        */
       const plausibleDose = (t) => {
-        const s = String(t ?? '').replace(/\s+/g, ' ').trim();
+        const s = doseText(t);
         if (s.length < 12) return false;
         if (/^[\s.,;:!?()\[\]{}<>\/\\|_-]*$/.test(s)) return false;
         if (/^(coming soon|n\/?a|tbd|step\s*\d|pack sizes?|select|loading)\b/i.test(s)) return false;
-        return /\d/.test(s)
-          || /\b(take|use|apply|consume|administer|massage|instil|instill|as directed|as advised|consult|sip|chew|dissolve|mix)\b/i.test(s);
+        // Three classes that carry a figure or a verb and are still not about taking anything.
+        // Each was found by reading the values rather than counting them, and each was being
+        // counted as disclosure: a shelf-life line, a statutory address block, and marketing copy.
+        if (/\b(?:before \d+ months|date of manufactur|best before|use by|expir)/i.test(s)) return false;
+        if (/\b(?:manufactured|marketed|packed) (?:by|for|at)\b/i.test(s) && !QUANTITY.test(s)) return false;
+        if (!QUANTITY.test(s) && !INSTRUCTION.test(s)) return false;
+        return QUANTITY.test(s) || INSTRUCTION.test(s);
+      };
+
+      // `states` is the field a count should use. 'quantity' means an amount a reader can act on;
+      // 'instruction' means a direction with no amount. Both are 'found', because the page did
+      // say something under its own dose heading, and the distinction is what gets reported.
+      const scored = (via, label, raw) => {
+        const text = doseText(raw);
+        return {
+          state: 'found', via, label, text,
+          states: QUANTITY.test(text) ? 'quantity' : 'instruction',
+        };
       };
 
       if (fields.dose && plausibleDose(fields.dose.text)) {
-        return { state: 'found', via: `json field "${fields.dose.field}"`, label: fields.dose.field, text: fields.dose.text };
+        return scored(`json field "${fields.dose.field}"`, fields.dose.field, fields.dose.text);
       }
       for (const re of DOSE_LABELS) {
         const d = blockAfter(haystack, re, { maxLines: 8, maxChars: 600 });
@@ -561,7 +631,7 @@ export const extractProduct = (html, { minReadableChars = 600 } = {}) => {
         // dose. The label matched something that happened to sit above a price.
         if (d && d.text.split('\n').some((l) => l.trim() && !COMMERCE_LINE.test(l))
           && plausibleDose(d.text)) {
-          return { state: 'found', via: 'heading', label: d.label, text: d.text };
+          return scored('heading', d.label, d.text);
         }
       }
       return { state: readable && !loadingShell ? 'absent' : 'unreadable', via: null, label: null, text: null };

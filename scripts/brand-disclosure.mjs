@@ -296,8 +296,21 @@ if (!RENDER_ONLY && !CHECK) {
       // All transient: timeouts and failed connections across three hosts, no refusals.
       pagesThatCouldNotBeRead: wave2.products.filter((p) => p.outcome !== 'read').length,
       pagesRenderingClientSide: wave2.products.filter((p) => p.outcome === 'read' && stateOf(p) === 'unreadable').length,
+      /**
+       * Dose disclosure in two tiers, because one number here was wrong in public for a day.
+       *
+       * The single figure this replaces counted any text sitting under a dose heading, which on
+       * 793 pages was shop furniture, and the page built a headline on it. The tiers are now
+       * what product-extract.mjs scores per page: a quantity is a figure beside a unit, a
+       * direction is an instruction with no amount. The second is a real thing a page can say
+       * and is not a dose, so it is counted separately and never added into the first.
+       */
       pagesStatingADose: wave2.products.filter((p) => p.outcome === 'read' && (p.dose ?? {}).state === 'found').length,
+      pagesStatingADoseQuantity: wave2.products.filter((p) => p.outcome === 'read' && (p.dose ?? {}).states === 'quantity').length,
+      pagesGivingADirectionWithNoQuantity: wave2.products.filter((p) => p.outcome === 'read' && (p.dose ?? {}).states === 'instruction').length,
       pagesNamingIngredients: wave2.products.filter((p) => p.outcome === 'read' && (p.composition ?? {}).state === 'found').length,
+      pagesStatingNeitherQuantityNorIngredients: wave2.products.filter((p) => p.outcome === 'read'
+        && (p.dose ?? {}).states !== 'quantity' && (p.composition ?? {}).state !== 'found').length,
       pagesCitingTheFormulary: wave2.products.filter((p) => p.outcome === 'read' && (p.authorities ?? []).some((a) => a.id === 'afi')).length,
       pagesCitingAnyAuthority: wave2.products.filter((p) => p.outcome === 'read' && (p.authorities ?? []).length > 0).length,
       /**
@@ -526,7 +539,10 @@ const figureChecks = () => {
       ['pages attempted', w.pagesAttempted],
       ['pages that could not be read', w.pagesThatCouldNotBeRead],
       ['pages rendering client-side', w.pagesRenderingClientSide],
-      ['pages stating a dose', w.pagesStatingADose],
+      ['pages whose dose heading held real text', w.pagesStatingADose],
+      ['pages stating a dose quantity', w.pagesStatingADoseQuantity],
+      ['pages giving a direction with no quantity', w.pagesGivingADirectionWithNoQuantity],
+      ['pages stating neither a quantity nor ingredients', w.pagesStatingNeitherQuantityNorIngredients],
       ['pages naming ingredients', w.pagesNamingIngredients],
       ['pages citing the formulary', w.pagesCitingTheFormulary],
       ['pages citing any authority', w.pagesCitingAnyAuthority],

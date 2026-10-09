@@ -25,7 +25,7 @@ faq:
   - q: "What does 'as per AFI' mean if the ingredients are not published?"
     a: "It claims that the recipe and method are the formulary's. Without a published ingredient list there is nothing on the page to check that claim against, so it has to be taken on trust. It is worth knowing how seldom the claim is even made on a product page: 3 of the 6,097 pages read name the Ayurvedic Formulary of India, and 312 cite any authority at all."
   - q: "Do Ayurvedic product pages say how much to take?"
-    a: "More often than they say what is in it, but not on most of them. Of 6,097 pages read, 2,999 stated a dose and 1,931 named their ingredients. 2,636 pages, 43% of them, stated neither: no dose and no ingredient list on the manufacturer's own page for the product."
+    a: "About as often as they say what is in it, and on most pages they do neither. Counting only pages that give an actual amount, a figure beside a unit such as '12 to 24 ml' or '1-2 tablets': 1,925 of the 6,097 pages read state a dose quantity and 1,931 name their ingredients. A further 932 give a direction with no amount, such as 'apply on head' or 'as directed by the physician'. 3,262 pages, 53% of them, state neither an amount nor an ingredient."
 
 ---
 
@@ -233,14 +233,31 @@ state for that preparation, not that the preparation lacks the figure.
 
 ## What the whole range shows that the classical range does not
 
-**On 43% of these pages you learn neither what is in the product nor how much to take.** Of the
-6,097 pages read, **2,999 stated a dose** and **1,931 named their ingredients**, so a page is about
-one and a half times as likely to tell you the dose as the contents. But the two are not the same
-pages, and crossing them is the finding: 1,469 pages gave both, 1,530 the dose alone, 462 the
-ingredients alone, and **2,636 gave neither**. 4,166 pages named no ingredient at all.
+**Stating a dose and naming the ingredients turn out to be almost exactly as rare as each other.**
+Of the 6,097 pages read, **1,925 state a dose quantity** and **1,931 name their ingredients**. Six
+pages apart out of six thousand. This page previously said a product page was about twice as likely
+to give the dose as the contents, which was wrong, and the correction is recorded at the foot of
+the page.
 
-The dose figure here is lower than the one this page carried until 9 October 2026, and the
-correction is recorded at the foot of the page.
+Counting a dose needs a definition, so here is the one used. A page is counted as stating a dose
+only where it gives **an amount**: a figure beside a unit, as in "12 to 24 ml", "1-2 tablets",
+"3 - 5 gram twice a day with milk". **2,857 pages** had real text under a dose or directions
+heading, and of those, 1,925 gave an amount while **932 gave only a direction** with no amount at
+all: "Apply on head", "Take the required quantity in a small bowl", "as directed by the physician".
+A direction is a real thing for a page to say and it is not a dose, so it is counted separately and
+never added in.
+
+**3,262 of the 6,097 pages state neither an amount nor an ingredient.** That is 53%, and it is the
+single figure that best describes this corpus.
+
+One honest qualification on all of the above, which cuts against the force of it. These are whole
+product ranges, not medicine ranges, and these companies sell a great deal that is not medicine.
+At least 1,169 of the 6,097 pages are soap, face wash, toothpaste, flour, biscuits, honey, incense,
+cattle feed or fertiliser, counted by name and so certainly an undercount. A face wash has no dose
+and needs none, and much of the 932-page direction-only class is exactly that. The 53% figure is
+therefore a statement about these catalogues as published, not a claim that half of Indian
+Ayurvedic medicines are undocumented. The table above, restricted to products sold under a
+formulary name, is the medicine-only reading.
 
 **Almost nobody cites the standard they are following.** Three pages of 6,097 name the Ayurvedic
 Formulary of India. 312 cite any authority at all, classical text or pharmacopoeia included. "As
@@ -384,10 +401,20 @@ one page at a time: the whole measurement is published at
 
 **Corrected 9 October 2026, against this page's own argument.** This page previously stated that
 3,792 of the 6,097 pages stated a dose, and drew from it the headline that a product page is about
-twice as likely to tell you the dose as the ingredients. Both were wrong. Our extractor accepted
-any value held in a page field named dose, dosage, directions or how-to-use without checking that
-the value was a dose, so shop furniture was counted as disclosure: ".", "Coming Soon", "STEP 1",
-"Pack sizes", "(4.9)". 793 pages were counted as stating a dose that state none. The corrected
-figure is 2,999, the ratio is about one and a half rather than two, and the error flattered every
-company it touched. It was found while building a comparison of label doses against the formulary's
-own doses, which required looking at the values rather than counting them.
+twice as likely to tell you the dose as the ingredients. Both were wrong.
+
+Our extractor accepted any value held in a page field named dose, dosage, directions or how-to-use
+without checking that the value was a dose, so shop furniture was counted as disclosure: ".",
+"Coming Soon", "STEP 1", "Pack sizes", "(4.9)", and in a few cases a shelf-life line or a
+manufacturer's address. The error flattered every company it touched.
+
+The repair that mattered was not a better guess at what counts as a dose. Three attempts at that
+each produced a figure that needed correcting again, and each one also missed real doses, because
+a word-boundary pattern for "tablet" does not match "tablets" and one for "gm" does not match
+"gms". So the measure was split in two, and neither half is a judgement: a page states a dose
+quantity if it gives a figure beside a unit, and gives a direction if it says to do something with
+no amount. 1,925 and 932 respectively, against the single wrong 3,792. The claim that one kind of
+disclosure is twice as common as the other does not survive: 1,925 against 1,931.
+
+It was found while building a comparison of label doses against the formulary's own doses, which
+required reading the values rather than counting them.
