@@ -1,27 +1,66 @@
 {
- "checkedAt": "2026-09-12",
- "papersChecked": 2906,
+ "checkedAt": "2026-10-09",
+ "papersChecked": 2892,
+ "note": "Cumulative. This list only grows: a paper already dropped from the corpus is no longer cited, so a later run cannot rediscover it, and overwriting would un-block it.",
+ "byKind": {
+  "erratum-notice": 3,
+  "retracted-publication": 12,
+  "retraction-notice": 3
+ },
  "flagged": [
   {
-   "pmid": "35819514",
-   "kind": "retracted-publication",
-   "title": "Biotechnological interventions and indole alkaloid production in Rauvolfia serpentina.",
-   "journal": "Applied microbiology and biotechnology",
-   "year": "2022",
-   "pubtype": "Journal Article; Review; Retracted Publication",
+   "pmid": "30156019",
+   "kind": "erratum-notice",
+   "title": "Corrigendum.",
+   "journal": "The New phytologist",
+   "year": "2018",
+   "pubtype": "Published Erratum",
    "subjects": [
-    "herb/sarpagandha"
+    "herb/yava"
    ]
   },
   {
-   "pmid": "34457017",
-   "kind": "retracted-publication",
-   "title": "Chemical Composition, Pharmacological, and Toxicological Effects of Betel Nut.",
-   "journal": "Evidence-based complementary and alternative medicine : eCAM",
+   "pmid": "34888297",
+   "kind": "erratum-notice",
+   "title": "Corrigendum: Coronarin K and L: Two Novel Labdane Diterpenes From Roscoea purpurea: An Ayurvedic Crude Drug.",
+   "journal": "Frontiers in chemistry",
    "year": "2021",
-   "pubtype": "Journal Article; Review; Retracted Publication",
+   "pubtype": "Published Erratum",
    "subjects": [
-    "herb/puga"
+    "herb/kakoli"
+   ]
+  },
+  {
+   "pmid": "36507453",
+   "kind": "erratum-notice",
+   "title": "Corrigendum: Calliterpenone, a natural plant growth promoter from a medicinal plant Callicarpa macrophylla, sustainably enhances the yield and productivity of crops.",
+   "journal": "Frontiers in plant science",
+   "year": "2022",
+   "pubtype": "Published Erratum",
+   "subjects": [
+    "herb/priyangu"
+   ]
+  },
+  {
+   "pmid": "28243309",
+   "kind": "retracted-publication",
+   "title": "Assessment of Toxicity and Beneficiary Effects of Garcinia pedunculata on the Hematological, Biochemical, and Histological Homeostasis in Rats.",
+   "journal": "Evidence-based complementary and alternative medicine : eCAM",
+   "year": "2017",
+   "pubtype": "Journal Article; Retracted Publication",
+   "subjects": [
+    "herb/amlavetasa"
+   ]
+  },
+  {
+   "pmid": "29234381",
+   "kind": "retracted-publication",
+   "title": "Antihyperglycemic, Antidiabetic, and Antioxidant Effects of Garcinia pedunculata in Rats.",
+   "journal": "Evidence-based complementary and alternative medicine : eCAM",
+   "year": "2017",
+   "pubtype": "Journal Article; Retracted Publication",
+   "subjects": [
+    "herb/amlavetasa"
    ]
   },
   {
@@ -36,25 +75,69 @@
    ]
   },
   {
-   "pmid": "41963067",
-   "kind": "retraction-notice",
-   "title": "Retraction notice to \"Immunomodulatory Role of Diospyros peregrina Fruit Preparation in Breast Cancer by Utilizing Macrophage Mediated Antigen Presentation and T Helper Cell (Th) Differentiation\" [Clinical Breast Cancer 23 (2023) e95-e102].",
-   "journal": "Clinical breast cancer",
-   "year": "2026",
-   "pubtype": "Journal Article; Retraction Notice",
+   "pmid": "31832027",
+   "kind": "retracted-publication",
+   "title": "Dose-Dependent, Antidepressant, and Anxiolytic Effects of a Traditional Medicinal Plant for the Management of Behavioral Dysfunctions in Animal Models.",
+   "journal": "Dose-response : a publication of International Hormesis Society",
+   "year": "2019",
+   "pubtype": "Journal Article; Retracted Publication",
    "subjects": [
-    "herb/tinduka"
+    "herb/gojihva"
    ]
   },
   {
-   "pmid": "39170771",
-   "kind": "retraction-notice",
-   "title": "Retraction Note: Ameliorative potential of Operculina turpethum against streptozotocin-induced diabetes in rats: biochemical and histopathological studies.",
+   "pmid": "33419120",
+   "kind": "retracted-publication",
+   "title": "RETRACTED: Myricitrin, a Glycosyloxyflavone in Myrica esculenta Bark Ameliorates Diabetic Nephropathy via Improving Glycemic Status, Reducing Oxidative Stress, and Suppressing Inflammation.",
+   "journal": "Molecules (Basel, Switzerland)",
+   "year": "2021",
+   "pubtype": "Journal Article; Retracted Publication",
+   "subjects": [
+    "herb/katphala"
+   ]
+  },
+  {
+   "pmid": "34194901",
+   "kind": "retracted-publication",
+   "title": "Ameliorative potential of Operculina turpethum against streptozotocin-induced diabetes in rats: biochemical and histopathological studies.",
    "journal": "3 Biotech",
-   "year": "2024",
-   "pubtype": "Retraction Notice",
+   "year": "2021",
+   "pubtype": "Journal Article; Retracted Publication",
    "subjects": [
     "herb/trivrit"
+   ]
+  },
+  {
+   "pmid": "34457017",
+   "kind": "retracted-publication",
+   "title": "Chemical Composition, Pharmacological, and Toxicological Effects of Betel Nut.",
+   "journal": "Evidence-based complementary and alternative medicine : eCAM",
+   "year": "2021",
+   "pubtype": "Journal Article; Review; Retracted Publication",
+   "subjects": [
+    "herb/puga"
+   ]
+  },
+  {
+   "pmid": "35613105",
+   "kind": "retracted-publication",
+   "title": "Role of biochar and compost in cadmium immobilization and on the growth of Spinacia oleracea.",
+   "journal": "PloS one",
+   "year": "2022",
+   "pubtype": "Journal Article; Retracted Publication",
+   "subjects": [
+    "herb/palankya"
+   ]
+  },
+  {
+   "pmid": "35819514",
+   "kind": "retracted-publication",
+   "title": "Biotechnological interventions and indole alkaloid production in Rauvolfia serpentina.",
+   "journal": "Applied microbiology and biotechnology",
+   "year": "2022",
+   "pubtype": "Journal Article; Review; Retracted Publication",
+   "subjects": [
+    "herb/sarpagandha"
    ]
   },
   {
@@ -80,36 +163,15 @@
    ]
   },
   {
-   "pmid": "35613105",
+   "pmid": "40434025",
    "kind": "retracted-publication",
-   "title": "Role of biochar and compost in cadmium immobilization and on the growth of Spinacia oleracea.",
-   "journal": "PloS one",
-   "year": "2022",
-   "pubtype": "Journal Article; Retracted Publication",
+   "title": "A Standardized Asparagus Racemosus Root Extract Improves Hormonal Balance and Menstrual Health and Reduces Vasomotor Symptoms in Perimenopausal Women: A Randomized, Double-Blind, Placebo-Controlled Study.",
+   "journal": "Journal of the American Nutrition Association",
+   "year": "2025",
+   "pubtype": "Journal Article; Randomized Controlled Trial; Research Support, Non-U.S. Gov't; Retracted Publication",
    "subjects": [
-    "herb/palankya"
-   ]
-  },
-  {
-   "pmid": "34194901",
-   "kind": "retracted-publication",
-   "title": "Ameliorative potential of Operculina turpethum against streptozotocin-induced diabetes in rats: biochemical and histopathological studies.",
-   "journal": "3 Biotech",
-   "year": "2021",
-   "pubtype": "Journal Article; Retracted Publication",
-   "subjects": [
-    "herb/trivrit"
-   ]
-  },
-  {
-   "pmid": "33419120",
-   "kind": "retracted-publication",
-   "title": "RETRACTED: Myricitrin, a Glycosyloxyflavone in Myrica esculenta Bark Ameliorates Diabetic Nephropathy via Improving Glycemic Status, Reducing Oxidative Stress, and Suppressing Inflammation.",
-   "journal": "Molecules (Basel, Switzerland)",
-   "year": "2021",
-   "pubtype": "Journal Article; Retracted Publication",
-   "subjects": [
-    "herb/katphala"
+    "herb/shatavari-ksheera",
+    "herb/shatavari"
    ]
   },
   {
@@ -124,36 +186,25 @@
    ]
   },
   {
-   "pmid": "31832027",
-   "kind": "retracted-publication",
-   "title": "Dose-Dependent, Antidepressant, and Anxiolytic Effects of a Traditional Medicinal Plant for the Management of Behavioral Dysfunctions in Animal Models.",
-   "journal": "Dose-response : a publication of International Hormesis Society",
-   "year": "2019",
-   "pubtype": "Journal Article; Retracted Publication",
+   "pmid": "39170771",
+   "kind": "retraction-notice",
+   "title": "Retraction Note: Ameliorative potential of Operculina turpethum against streptozotocin-induced diabetes in rats: biochemical and histopathological studies.",
+   "journal": "3 Biotech",
+   "year": "2024",
+   "pubtype": "Retraction Notice",
    "subjects": [
-    "herb/gojihva"
+    "herb/trivrit"
    ]
   },
   {
-   "pmid": "29234381",
-   "kind": "retracted-publication",
-   "title": "Antihyperglycemic, Antidiabetic, and Antioxidant Effects of Garcinia pedunculata in Rats.",
-   "journal": "Evidence-based complementary and alternative medicine : eCAM",
-   "year": "2017",
-   "pubtype": "Journal Article; Retracted Publication",
+   "pmid": "41963067",
+   "kind": "retraction-notice",
+   "title": "Retraction notice to \"Immunomodulatory Role of Diospyros peregrina Fruit Preparation in Breast Cancer by Utilizing Macrophage Mediated Antigen Presentation and T Helper Cell (Th) Differentiation\" [Clinical Breast Cancer 23 (2023) e95-e102].",
+   "journal": "Clinical breast cancer",
+   "year": "2026",
+   "pubtype": "Journal Article; Retraction Notice",
    "subjects": [
-    "herb/amlavetasa"
-   ]
-  },
-  {
-   "pmid": "28243309",
-   "kind": "retracted-publication",
-   "title": "Assessment of Toxicity and Beneficiary Effects of Garcinia pedunculata on the Hematological, Biochemical, and Histological Homeostasis in Rats.",
-   "journal": "Evidence-based complementary and alternative medicine : eCAM",
-   "year": "2017",
-   "pubtype": "Journal Article; Retracted Publication",
-   "subjects": [
-    "herb/amlavetasa"
+    "herb/tinduka"
    ]
   }
  ]

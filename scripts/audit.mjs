@@ -11,7 +11,7 @@ import { walk, parseFrontmatter } from './lib.mjs';
 import { validateRecord, HEAVY_METAL_REQUIRED } from './lib/safety.mjs';
 import { checkSources } from './lib/sources.mjs';
 import { validateIdentifiers } from './lib/identifiers.mjs';
-import { loadRetracted } from './lib/retractions.mjs';
+import { loadBlocklist, kindOf } from './lib/retractions.mjs';
 
 const failures = [];
 const fail = (check, detail) => failures.push({ check, detail });
@@ -406,7 +406,7 @@ if (fs.existsSync(DIST)) {
 // across 2,906 cited papers the first time anyone asked, and two pages were citing both
 // a retracted paper and its own retraction notice.
 {
-  const retracted = loadRetracted();
+  const retracted = loadBlocklist();
   if (retracted.size) {
     const cits = (() => {
       const f = path.join('src', 'data', 'citations.json');

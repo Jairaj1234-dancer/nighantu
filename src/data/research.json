@@ -1,19 +1,19 @@
 {
  "updatedAt": "2026-09-10T09:57:31.071Z",
  "summary": {
-  "papers": 2892,
-  "withDoi": 2757,
+  "papers": 2888,
+  "withDoi": 2753,
   "subjectsCovered": 394,
-  "citedByMultiple": 525,
+  "citedByMultiple": 524,
   "byTier": {
    "A": 149,
-   "B": 90,
+   "B": 89,
    "C": 1066,
-   "D": 1587
+   "D": 1584
   },
   "byDecade": {
-   "2020s": 1742,
-   "2010s": 935,
+   "2020s": 1739,
+   "2010s": 934,
    "2000s": 163,
    "1990s": 25,
    "1980s": 15,
@@ -4168,35 +4168,6 @@
      "slug": "pudina",
      "title": "Pudina",
      "binomial": "mentha spicata"
-    }
-   ]
-  },
-  {
-   "pmid": "40434025",
-   "doi": "10.1080/27697061.2025.2510474",
-   "title": "A Standardized Asparagus Racemosus Root Extract Improves Hormonal Balance and Menstrual Health and Reduces Vasomotor Symptoms in Perimenopausal Women: A Randomized, Double-Blind, Placebo-Controlled Study",
-   "journal": "Journal of the American Nutrition Association",
-   "year": 2025,
-   "authors": [
-    "Yadav P",
-    "Yadav S",
-    "Vedururu SS",
-    "Kumari G"
-   ],
-   "tier": "B",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/40434025/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "shatavari-ksheera",
-     "title": "Shatavari Ksheera",
-     "binomial": "asparagus racemosus"
-    },
-    {
-     "kind": "herb",
-     "slug": "shatavari",
-     "title": "Shatavari",
-     "binomial": "asparagus racemosus"
     }
    ]
   },
@@ -50608,33 +50579,6 @@
    ]
   },
   {
-   "pmid": "36507453",
-   "doi": "10.3389/fpls.2022.1055825",
-   "title": "Corrigendum: Calliterpenone, a natural plant growth promoter from a medicinal plant Callicarpa macrophylla, sustainably enhances the yield and productivity of crops",
-   "journal": "Frontiers in plant science",
-   "year": 2022,
-   "authors": [
-    "Pandey P",
-    "Pandey SS",
-    "Awasthi A",
-    "Tripathi A",
-    "Singh HP",
-    "Singh AK",
-    "Tandon S",
-    "Kalra A"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/36507453/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "priyangu",
-     "title": "Priyangu",
-     "binomial": "callicarpa macrophylla"
-    }
-   ]
-  },
-  {
    "pmid": "36311091",
    "doi": "10.3389/fpls.2022.951660",
    "title": "CRISPR/Cas9-mediated genome editing of RsGL1a and RsGL1b in radish (Raphanus sativus L.)",
@@ -55736,32 +55680,6 @@
    ],
    "tier": "D",
    "url": "https://pubmed.ncbi.nlm.nih.gov/33968897/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "kakoli",
-     "title": "Kakoli",
-     "binomial": "roscoea purpurea"
-    }
-   ]
-  },
-  {
-   "pmid": "34888297",
-   "doi": "10.3389/fchem.2021.798461",
-   "title": "Corrigendum: Coronarin K and L: Two Novel Labdane Diterpenes From Roscoea purpurea: An Ayurvedic Crude Drug",
-   "journal": "Frontiers in chemistry",
-   "year": 2021,
-   "authors": [
-    "Singamaneni V",
-    "Lone B",
-    "Singh J",
-    "Kumar P",
-    "Gairola S",
-    "Singh S",
-    "Gupta P"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/34888297/",
    "subjects": [
     {
      "kind": "herb",
@@ -62865,24 +62783,6 @@
      "slug": "upodika",
      "title": "Upodika",
      "binomial": "basella alba"
-    }
-   ]
-  },
-  {
-   "pmid": "30156019",
-   "doi": "10.1111/nph.15402",
-   "title": "Corrigendum",
-   "journal": "The New phytologist",
-   "year": 2018,
-   "authors": [],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/30156019/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "yava",
-     "title": "Yava",
-     "binomial": "hordeum vulgare"
     }
    ]
   },

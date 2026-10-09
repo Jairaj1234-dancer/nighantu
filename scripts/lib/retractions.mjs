@@ -1,5 +1,12 @@
 /**
- * The retracted-paper blocklist.
+ * The do-not-cite blocklist.
+ *
+ * NAMED FOR WHAT IT IS, after it stopped being only about retractions. It now also carries
+ * correction notices: a "Corrigendum: <original title>" record that a citation harvester matched
+ * instead of the article it corrects. Those are not retracted, and three of them were sitting in
+ * the corpus as tier D papers. Calling the test `isRetracted` would have made it return true for a
+ * perfectly sound journal record, which is a falsehood this project would eventually publish in a
+ * log line or a comment. `kindOf` says which reason applies.
  *
  * A citation to a retracted paper is worse than a citation to a paper that does not
  * exist. The fabricated one fails the moment anyone follows it; the retracted one
@@ -19,14 +26,18 @@ import path from 'node:path';
 
 const FILE = path.join('data', 'retractions.json');
 let cache = null;
+const kinds = new Map();
 
-export function loadRetracted() {
+export function loadBlocklist() {
   if (cache) return cache;
   cache = new Set();
   if (!fs.existsSync(FILE)) return cache;
   try {
     const d = JSON.parse(fs.readFileSync(FILE, 'utf8'));
-    for (const f of d.flagged ?? []) cache.add(String(f.pmid));
+    for (const f of d.flagged ?? []) {
+      cache.add(String(f.pmid));
+      kinds.set(String(f.pmid), f.kind ?? 'unknown');
+    }
   } catch (e) {
     // A missing or broken list must not silently disable the filter, because the
     // failure mode is publishing retracted science.
@@ -35,12 +46,18 @@ export function loadRetracted() {
   return cache;
 }
 
-export const isRetracted = (pmid) => loadRetracted().has(String(pmid));
+export const isBlocked = (pmid) => loadBlocklist().has(String(pmid));
 
-/** Strip retracted papers from a citation list, reporting what went. */
-export function dropRetracted(citations = []) {
+/** Why a PMID is blocked: 'retracted-publication', 'retraction-notice' or 'erratum-notice'. */
+export function kindOf(pmid) {
+  loadBlocklist();
+  return kinds.get(String(pmid)) ?? null;
+}
+
+/** Strip blocked papers from a citation list, reporting what went and why. */
+export function dropBlocked(citations = []) {
   const kept = [];
   const dropped = [];
-  for (const c of citations) (isRetracted(c.pmid) ? dropped : kept).push(c);
-  return { kept, dropped };
+  for (const c of citations) (isBlocked(c.pmid) ? dropped : kept).push(c);
+  return { kept, dropped: dropped.map((c) => ({ ...c, blockedBecause: kindOf(c.pmid) })) };
 }

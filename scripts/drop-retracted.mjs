@@ -1,6 +1,10 @@
 #!/usr/bin/env node
 /**
- * Remove retracted papers from the published citation data.
+ * Remove blocked papers from the published citation data.
+ *
+ * Blocked covers two different reasons, and the log says which applies to each: a retracted paper,
+ * whose finding has been withdrawn, and a correction notice, which is not a study at all and whose
+ * right replacement is the article it corrects.
  *
  * Runs against src/data/citations.json and src/data/research.json rather than the
  * content files, because that is where citations actually live: the pages render from
@@ -10,12 +14,12 @@
  */
 import fs from 'node:fs';
 import path from 'node:path';
-import { loadRetracted, dropRetracted } from './lib/retractions.mjs';
+import { loadBlocklist, dropBlocked } from './lib/retractions.mjs';
 
 const DRY = process.argv.includes('--dry-run');
-const retracted = loadRetracted();
-console.log(`retracted PMIDs on the blocklist: ${retracted.size}`);
-if (!retracted.size) { console.log('nothing to do'); process.exit(0); }
+const blocked = loadBlocklist();
+console.log(`PMIDs on the do-not-cite blocklist: ${blocked.size}`);
+if (!blocked.size) { console.log('nothing to do'); process.exit(0); }
 
 const citPath = path.join('src', 'data', 'citations.json');
 const cit = JSON.parse(fs.readFileSync(citPath, 'utf8'));
@@ -23,12 +27,14 @@ const cit = JSON.parse(fs.readFileSync(citPath, 'utf8'));
 let removed = 0;
 const emptied = [];
 for (const [key, page] of Object.entries(cit.pages ?? {})) {
-  const { kept, dropped } = dropRetracted(page.citations ?? []);
+  const { kept, dropped } = dropBlocked(page.citations ?? []);
   if (!dropped.length) continue;
   removed += dropped.length;
   page.citations = kept;
-  for (const d of dropped) console.log(`  ${key}: dropped PMID ${d.pmid} — ${String(d.title).slice(0, 60)}`);
-  // A page whose evidence was entirely retracted should say so rather than look
+  for (const d of dropped) {
+    console.log(`  ${key}: dropped PMID ${d.pmid} [${d.blockedBecause}] — ${String(d.title).slice(0, 56)}`);
+  }
+  // A page whose evidence was entirely withdrawn should say so rather than look
   // as though it was never researched.
   if (!kept.length) emptied.push(key);
 }
