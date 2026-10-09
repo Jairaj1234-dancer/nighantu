@@ -1452,7 +1452,7 @@
       "https://nighantu.ageayurveda.com/lexicon/vyayama-shakti/": "479a4cabad661c1a",
       "https://nighantu.ageayurveda.com/lexicon/yapya/": "5ddc6f920f8d585e",
       "https://nighantu.ageayurveda.com/lexicon/yukti-vyapashraya/": "70429d18f7645a3b",
-      "https://nighantu.ageayurveda.com/manufacturers/": "5c61aa6609cef1ff",
+      "https://nighantu.ageayurveda.com/manufacturers/": "e9b43915f1748d83",
       "https://nighantu.ageayurveda.com/practice/": "3579eb855d2dd64f",
       "https://nighantu.ageayurveda.com/practice/agnikarma/": "71181f174c10e0a1",
       "https://nighantu.ageayurveda.com/practice/akshitarpana/": "790f54e1529f2c56",
@@ -1603,8 +1603,8 @@
       "https://nighantu.ageayurveda.com/verification/safety-pass4/": "1bf221f544f3a78a",
       "https://nighantu.ageayurveda.com/verification/safety-repair-02/": "67c37029ef9f5beb"
     },
-    "lastSubmittedAt": "2026-10-09T12:15:55.339Z",
-    "lastSubmittedCount": 377,
+    "lastSubmittedAt": "2026-10-09T17:30:54.082Z",
+    "lastSubmittedCount": 1,
     "submitted": [
       "https://nighantu.ageayurveda.com/",
       "https://nighantu.ageayurveda.com/about/",
@@ -3609,6 +3609,6 @@
     "seen": 5,
     "surfaced": 0
   },
-  "updatedAt": "2026-10-09T16:23:44.597Z",
+  "updatedAt": "2026-10-09T17:30:54.082Z",
   "version": 1
 }
