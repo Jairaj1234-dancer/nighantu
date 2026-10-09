@@ -13,6 +13,8 @@ public/lexicon.json
 public/lexicon.csv
 public/concepts.json
 public/concepts.csv
+public/afi-crosswalk.json
+public/afi-crosswalk.csv
 public/composition.json
 public/composition.csv
 public/research.json

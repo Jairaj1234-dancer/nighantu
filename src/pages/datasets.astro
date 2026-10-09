@@ -5,6 +5,7 @@ import compounds from '../data/compounds.json';
 import compositionSummary from '../data/composition-summary.json';
 import lexicon from '../data/lexicon.json';
 import conceptsData from '../data/concepts.json';
+import crosswalk from '../data/afi-crosswalk.json';
 import dravyaguna from '../data/dravyaguna.json';
 import research from '../data/research.json';
 import taxonomy from '../data/taxonomy.json';
@@ -26,8 +27,20 @@ const canonical = '/datasets/';
 const composition = compositionSummary as any;
 const lex = (lexicon as any).summary;
 const con = (conceptsData as any).summary;
+const cw = (crosswalk as any).summary;
 
 const datasets = [
+  {
+    id: 'crosswalk',
+    name: 'Ayurvedic Formulary of India Ingredient Name Crosswalk',
+    description: `The formulary states every official composition in Sanskrit and does not use one name per drug: ${n(cw.ingredientRows)} ingredient rows across the 101 entries transcribed here use ${n(cw.distinctNames)} distinct spellings. Abhaya and Pathya are both haritaki; Marica is black pepper. This resolves ${n(cw.namesResolved)} of those names to a botanical identity, ${n(cw.rowsResolvedViaAPrintedGloss)} rows of it on glosses the book itself prints, and states the basis on every row. ${n(cw.namesAmbiguous)} names the formulary uses for more than one drug are published as ambiguous rather than collapsed, and ${n(cw.namesUnresolved)} as unresolved rather than guessed.`,
+    rowCount: `${n(cw.ingredientRows)} ingredient rows · ${n(cw.distinctNames)} distinct names · ${n(cw.plantRowsResolved)} of ${n(cw.plantRows)} plant rows resolved`,
+    browse: '/crosswalk/',
+    formats: [
+      { ext: 'JSON', path: '/afi-crosswalk.json', mime: 'application/json' },
+      { ext: 'CSV', path: '/afi-crosswalk.csv', mime: 'text/csv' }
+    ]
+  },
   {
     id: 'concepts',
     name: 'Contested Questions in Ayurvedic Theory',
