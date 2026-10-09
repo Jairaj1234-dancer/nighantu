@@ -369,7 +369,8 @@
       "https://nighantu.ageayurveda.com/": "2eee33a997bd7d9f",
       "https://nighantu.ageayurveda.com/about/": "91eb86a4e9ce6c66",
       "https://nighantu.ageayurveda.com/afi/": "456909e537ebe425",
-      "https://nighantu.ageayurveda.com/choosing/": "1db3774cf2854157",
+      "https://nighantu.ageayurveda.com/choosing/": "fcd7c3b608219443",
+      "https://nighantu.ageayurveda.com/choosing/citing-the-classical-texts/": "5d4597c1d4525923",
       "https://nighantu.ageayurveda.com/choosing/label-dose-against-the-formulary/": "3f80f507fd88304b",
       "https://nighantu.ageayurveda.com/choosing/one-herb-several-names/": "f72d167a5b6e01dc",
       "https://nighantu.ageayurveda.com/choosing/reading-a-formulation-label/": "f97151d859160682",
@@ -407,7 +408,7 @@
       "https://nighantu.ageayurveda.com/concept/vyadhikshamatva/": "fedf8a84f1347023",
       "https://nighantu.ageayurveda.com/corrections/": "91d73848567c6d59",
       "https://nighantu.ageayurveda.com/crosswalk/": "73b649ad9b80814f",
-      "https://nighantu.ageayurveda.com/datasets/": "b73696b177d32df1",
+      "https://nighantu.ageayurveda.com/datasets/": "5aa059bcbad92a7a",
       "https://nighantu.ageayurveda.com/device/": "e0fa2605e8c53842",
       "https://nighantu.ageayurveda.com/device/agnikarma-thermal-cauterization-instruments/": "2f141fb164a9bb4e",
       "https://nighantu.ageayurveda.com/device/basti-enema-equipment/": "7909f9d22cdf047e",
@@ -1601,13 +1602,14 @@
       "https://nighantu.ageayurveda.com/verification/safety-pass4/": "1bf221f544f3a78a",
       "https://nighantu.ageayurveda.com/verification/safety-repair-02/": "67c37029ef9f5beb"
     },
-    "lastSubmittedAt": "2026-10-09T09:52:21.613Z",
-    "lastSubmittedCount": 1,
+    "lastSubmittedAt": "2026-10-09T10:12:26.032Z",
+    "lastSubmittedCount": 3,
     "submitted": [
       "https://nighantu.ageayurveda.com/",
       "https://nighantu.ageayurveda.com/about/",
       "https://nighantu.ageayurveda.com/afi/",
       "https://nighantu.ageayurveda.com/choosing/",
+      "https://nighantu.ageayurveda.com/choosing/citing-the-classical-texts/",
       "https://nighantu.ageayurveda.com/choosing/label-dose-against-the-formulary/",
       "https://nighantu.ageayurveda.com/choosing/one-herb-several-names/",
       "https://nighantu.ageayurveda.com/choosing/reading-a-formulation-label/",
@@ -3604,6 +3606,6 @@
     "seen": 5,
     "surfaced": 0
   },
-  "updatedAt": "2026-10-09T09:52:21.613Z",
+  "updatedAt": "2026-10-09T10:12:26.032Z",
   "version": 1
 }
