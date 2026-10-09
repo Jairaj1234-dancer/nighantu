@@ -6,6 +6,7 @@ import References from '../components/References.astro';
 import Safety from '../components/Safety.astro';
 import ReviewCredit from '../components/ReviewCredit.astro';
 import NameForms from '../components/NameForms.astro';
+import EvidenceSummary from '../components/EvidenceSummary.astro';
 import { reviewPageNode } from '../lib/review';
 import Composition from '../components/Composition.astro';
 import CiteThis from '../components/CiteThis.astro';
@@ -125,6 +126,7 @@ const breadcrumbs = {
 };
 ---
 <Base
+  twins={`/${entry.collection}/${d.slug}`}
   title={`${d.title} · ${SITE_NAME}`}
   description={d.answer}
   canonical={canonical}
@@ -149,6 +151,13 @@ const breadcrumbs = {
     />
 
     <NameForms kind={d.kind} slug={d.slug} />
+
+    {/*
+      Placed directly after Key facts and the names, which is still inside the first screen on a
+      monograph, because that is where the measurement says cited passages come from: 44.2% of
+      cited passages in a study of 18,012 AI citations fell in the first 30% of the page.
+    */}
+    <EvidenceSummary kind={d.kind} slug={d.slug} />
 
     {aliasOf && (
       <p class="aliasnote">
