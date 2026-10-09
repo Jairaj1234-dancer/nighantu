@@ -39,59 +39,21 @@ jobs:
 
       # public/research.{json,csv} are generated, not committed, so they must exist
       # before astro copies public/ into dist/.
-      - name: Generate the research downloads
-        run: node scripts/research-index.mjs
-      # Same reason: generated, not committed, and must exist before the build.
-      - name: Generate the Dravyaguna dataset
-        run: node scripts/dravyaguna.mjs
-      - name: Generate the verification ledger
-        run: node scripts/verification.mjs
-      # The formulary compositions were rendering on 101 formulation pages and published as a
-      # dataset nowhere. Generated, not committed, so this must run before the build.
-      - name: Generate the formulary composition dataset
-        run: node scripts/composition-dataset.mjs
-      # src/data/lexicon.json is committed, exported from the local-only lexicon repository by its
-      # own script, so this step only reshapes what is already here. It is also the step that
-      # applies the licence split: renderings from the WHO terminologies and the Government of
-      # India lists appear on the pages and not in the CC BY 4.0 downloads. See LICENSES.md.
-      - name: Generate the terminology lexicon dataset
-        run: node scripts/lexicon-dataset.mjs
-      # src/data/concepts.json is likewise committed, exported from the same local-only repository.
-      # This step reshapes it and runs two refusals before writing: no quotation of a modern paper
-      # past sixty words, and no citation carrying both a withholding notice and the text it
-      # withholds. Generated, not committed, so it must run before the build.
-      - name: Generate the concept dataset
-        run: node scripts/concepts-dataset.mjs
-      # src/data/afi-crosswalk.json is committed, built by scripts/afi-crosswalk.mjs from the
-      # formulary transcription and the monographs. This reshapes it and refuses to write if any
-      # resolution has lost the basis that justifies it.
-      - name: Generate the formulary crosswalk dataset
-        run: node scripts/crosswalk-dataset.mjs
-      # The composition-disclosure comparison names seven companies and states what each of their
-      # own pages published. data/brands/ holds the raw survey and is gitignored, so this checks
-      # the page's tables against the committed measurement rather than re-crawling: a page that
-      # names a competitor must not drift away from the figures it claims to report.
-      # Regenerates public/brand-disclosure.json, the evidence file the comparison page cites and
-      # offers to any company it names, then checks the page's tables and prose against it.
-      - name: Publish the composition-disclosure evidence
-        run: node scripts/brand-disclosure.mjs --render
+      # One list, shared with the citation refresh workflow, because this step list previously
+      # lived only here and every other workflow that built the site carried a partial copy of it.
+      # scripts/build-downloads.sh has the per-step logging this block used to give.
+      - name: Generate every download
+        run: ./scripts/build-downloads.sh
+
       - name: Composition-disclosure tables agree with the measurement
         run: node scripts/brand-disclosure.mjs --check
-      - name: Generate the constituent graph
-        run: node scripts/compounds.mjs
-      - name: Generate the reading-links dataset
-        run: node scripts/enrich-access.mjs
-      # Reads the committed cache in data/enrichment/, so this makes no network
-      # requests in CI and cannot fail on a provider outage.
-      - name: Generate the taxonomy dataset
-        run: node scripts/enrich-taxonomy.mjs
-      # Order matters: the constituent graph is built, enriched, then rebuilt, because
-      # the second pass merges nodes that PubChem says are the same structure. Both
-      # enrichment steps read the committed cache and make no network requests here.
-      - name: Resolve constituent chemistry
-        run: node scripts/enrich-compounds.mjs
-      - name: Rebuild the constituent graph with merged structures
-        run: node scripts/compounds.mjs
+
+      - name: Dose comparison agrees with its dataset
+        run: node scripts/dose-comparison.mjs --check
+
+      - name: Verse-numbering crosswalk agrees with its dataset
+        run: node scripts/verse-numbering.mjs --check
+
       # The safety schema is the gate on the highest-consequence content on the site,
       # so its negative tests run in CI rather than only on a developer's machine.
       - name: Safety schema tests

@@ -2,7 +2,7 @@
  "name": "Age Ayurveda Nighantu constituent chemistry",
  "description": "Phytochemical constituents named in this reference, resolved against PubChem to a CID, molecular formula, weight, InChIKey and SMILES. Names that resolve to nothing are retained and marked unresolved: many are classes of compound rather than compounds.",
  "license": "https://creativecommons.org/licenses/by/4.0/",
- "updatedAt": "2026-09-17",
+ "updatedAt": "2026-10-09",
  "source": "PubChem PUG-REST, https://pubchem.ncbi.nlm.nih.gov/",
  "summary": {
   "constituents": 838,

@@ -53,7 +53,7 @@ What Indian Ayurvedic manufacturers publish about their own products, measured a
 Constituents resolved against PubChem to a CID, molecular formula, weight and InChIKey, kept apart from compounds.json because an unresolved constituent is a different fact from a resolved one.
 
 - 0.20 MB
-- sha256 `eecee3d960adf83de5d89a115f5dce55d348c3b4b6c6a6444f1f55c5e100c5ec`
+- sha256 `249a6087931898a6f3b440099884aa7ede27b850e711e56ca064e1db0ca74668`
 - live copy: https://nighantu.ageayurveda.com/chemistry.json
 
 ### `composition.csv`
@@ -69,23 +69,23 @@ The composition tables flattened to one row per ingredient.
 The ingredient composition of the classical formulations transcribed from the Ayurvedic Formulary of India, with the quantity the formulary states, the plant part, and the part and entry number it was transcribed from. A cell illegible in the scan is published as illegible.
 
 - 0.54 MB
-- sha256 `8000f2a25bc2f69f0b271887123c3d2bbc7fc9d149df7e72f0ec382732026ecc`
+- sha256 `1dd8fae677847af8fbe97e9e8fd5efd68341143db8eadeffb589adec0ac9eeee`
 - live copy: https://nighantu.ageayurveda.com/composition.json
 
 ### `compounds.csv`
 
 The constituents as a table, one row per constituent per monograph.
 
-- 0.31 MB, 838 data rows
-- sha256 `8f64639c62a1f4a59537ef4a8aadb6ba0a6ae3ca90d0e0c2716aac7a2416a32b`
+- 0.32 MB, 849 data rows
+- sha256 `ccc7157fa6349ff8424437adfaa646e84e109e2e780c656b1320ffa95e8ef720`
 - live copy: https://nighantu.ageayurveda.com/compounds.csv
 
 ### `compounds.json`
 
 Phytochemical constituents named across the monographs, resolved to PubChem where an identifier exists, with a co-occurrence network computed from the pages themselves.
 
-- 1.33 MB
-- sha256 `014f4ee5a229698b9506c75b3adb70badb5a4f9fe4b94d52b1ca8290da0a6c79`
+- 1.81 MB
+- sha256 `a0bace6f6d30bd7bd6b8339d3f2df968e88abf552326b0e6e9e23d654d95c794`
 - live copy: https://nighantu.ageayurveda.com/compounds.json
 
 ### `concepts.csv`
@@ -132,8 +132,8 @@ The dravyaguna properties as a table.
 
 Rasa, guna, virya, vipaka and prabhava per monograph, parsed from the published pages so every value can be checked against the page it came from.
 
-- 0.07 MB
-- sha256 `40778e839366e7d4fa5b482903f7752703031c43d1acc9f8576ee96305d4b1c5`
+- 0.08 MB
+- sha256 `96af142efe9c6d512ffb28cdd5cd35430ef7e97ea65136a655d4580a9fd9dbd9`
 - live copy: https://nighantu.ageayurveda.com/dravyaguna.json
 
 ### `lexicon.csv`
@@ -236,8 +236,8 @@ Research papers cited across the site, each with its PubMed ID or DOI, the monog
 
 Botanical names resolved against GBIF, each carrying the match type so a fuzzy hit is never read as an exact one.
 
-- 0.17 MB
-- sha256 `315a9dc0aba243521ae0a3dbe11f12a8aaf90fefd789693bad93ffac233ffe27`
+- 0.19 MB
+- sha256 `9fa553c445153ce2f7ad5d5357d2f7164bf2bc2bf8ede14e2f83384f4008f7fb`
 - live copy: https://nighantu.ageayurveda.com/taxonomy.json
 
 ### `verification.json`
@@ -245,7 +245,7 @@ Botanical names resolved against GBIF, each carrying the match type so a fuzzy h
 The editorial verification ledger: what was checked, by what method, and what was rejected, with the counts computed from the run artefacts rather than stated.
 
 - 0.03 MB
-- sha256 `80014003aa21744d7547f919bfe9b15b9397b09dbbff045b58058b805f385bba`
+- sha256 `5ab20b4dadc1d91bc35d99788041e4b5d5982cef23aa7331f9956f85b04b00c2`
 - live copy: https://nighantu.ageayurveda.com/verification.json
 
 ### `verse-numbering.csv`
