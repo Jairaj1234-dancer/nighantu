@@ -78,6 +78,100 @@ const composition = JSON.parse(fs.readFileSync(path.join('src', 'data', 'composi
 const verifyOf = new Map(verify.map((v) => [v.formulation, v]));
 
 /**
+ * THE RELATION IS ARITHMETIC, SO IT IS COMPUTED HERE AND NOT TAKEN FROM THE JUDGEMENT PASS.
+ *
+ * Extracting an amount out of a sentence is a judgement and belongs to an agent. Comparing two
+ * numeric ranges is not, and leaving that to the agent produced a vocabulary too coarse for the
+ * data: "overlapping" was published for ranges sharing a single endpoint. The adversarial pass
+ * caught one instance, and counting the rest found nine of 71 overlapping rows meeting at exactly
+ * one value, some of which were not overlap at all but containment. A label stating 125 mg against
+ * a formulary range of 125 to 250 mg sits inside it.
+ *
+ * ORDER MATTERS, and getting it wrong is easy. The containment tests must run BEFORE the
+ * single-point tests, because a degenerate range satisfies both. And a label whose FLOOR rests on
+ * the formulary's CEILING is the higher of the two, so `lo === ahi` is touching above: the first
+ * version had those two names inverted. Both faults were found by running the nine real rows
+ * through it and reading the answers rather than trusting the shape of the code.
+ *
+ * The agent's own relation is kept as `relationClaimed` and every disagreement is published,
+ * because a disagreement means one of the two read the numbers differently.
+ */
+/**
+ * UNITS ARE CONVERTED BEFORE ANYTHING IS COMPARED, and the first version of this did not do that.
+ *
+ * It read the bare numbers, so a label stating "2 to 5 g" against a formulary "250 to 500 mg" was
+ * computed as entirely BELOW the formulary range. It is eight to ten times above it. That would
+ * have published a precise, confident, false statement about a named company, and it was caught
+ * only because the judgement pass disagreed and said "entirely higher": the agent had read the
+ * units and the arithmetic had not.
+ *
+ * So each side is reduced to a base unit, milligrams for mass and millilitres for volume, and a
+ * relation is computed ONLY where both sides are in the same dimension. A mass against a volume
+ * has no relation to state, and returning one would be inventing a comparison the sources cannot
+ * support.
+ */
+const MASS_MG = { mg: 1, mgs: 1, milligram: 1, milligrams: 1, g: 1000, gm: 1000, gms: 1000, gram: 1000, grams: 1000 };
+const VOLUME_ML = { ml: 1, mls: 1, millilitre: 1, millilitres: 1, milliliter: 1, milliliters: 1, l: 1000, litre: 1000, litres: 1000, liter: 1000, liters: 1000 };
+
+const dimensionOf = (unit) => {
+  const u = String(unit ?? '').toLowerCase().replace(/[^a-z]/g, '');
+  if (MASS_MG[u]) return { dimension: 'mass', factor: MASS_MG[u] };
+  if (VOLUME_ML[u]) return { dimension: 'volume', factor: VOLUME_ML[u] };
+  return null;
+};
+
+/** The formulary's printed dose, as a range plus the unit it is printed in. */
+const afiRange = (printed) => {
+  const t = String(printed ?? '');
+  const unit = (t.match(/\b(mg|mgs|milligrams?|g|gm|gms|grams?|ml|mls|millilitres?|milliliters?|l|litres?|liters?)\b/i) ?? [])[1];
+  const dim = dimensionOf(unit);
+  const span = t.match(/(\d+(?:\.\d+)?)\s*(?:to|-|\u2013)\s*(\d+(?:\.\d+)?)/);
+  const pair = span
+    ? [Number(span[1]), Number(span[2])]
+    : (() => { const one = t.match(/(\d+(?:\.\d+)?)/); return one ? [Number(one[1]), Number(one[1])] : null; })();
+  if (!pair || !dim) return null;
+  return { lo: pair[0] * dim.factor, hi: pair[1] * dim.factor, dimension: dim.dimension, unit };
+};
+
+const relationOf = (lo, hi, labelUnit, afi) => {
+  if (!afi || lo == null || hi == null) return null;
+  const d = dimensionOf(labelUnit);
+  // No dimension, or a different one: there is no relation to state between a mass and a volume.
+  if (!d || d.dimension !== afi.dimension) return null;
+  const alo = afi.lo;
+  const ahi = afi.hi;
+  lo *= d.factor;
+  hi *= d.factor;
+  if (lo === alo && hi === ahi) return 'identical';
+  if (hi < alo) return 'entirely below';
+  if (lo > ahi) return 'entirely above';
+  if (lo >= alo && hi <= ahi) return 'within';
+  if (lo <= alo && hi >= ahi) return 'contains';
+  if (lo === ahi) return 'touching above';
+  if (hi === alo) return 'touching below';
+  return 'overlapping';
+};
+
+/**
+ * The judgement pass was asked for "entirely higher" and "entirely lower"; the arithmetic says
+ * "entirely above" and "entirely below". Those are the same statement in different words, and
+ * counting them as disagreements reported 49 when only the substantive ones matter. Normalised
+ * before comparing so a disagreement means the two actually read the numbers differently.
+ */
+const SAME_MEANING = {
+  'entirely higher': 'entirely above',
+  'entirely lower': 'entirely below',
+  higher: 'entirely above',
+  lower: 'entirely below',
+  above: 'entirely above',
+  below: 'entirely below',
+};
+const normaliseRelation = (r) => SAME_MEANING[String(r ?? '').toLowerCase().trim()]
+  ?? String(r ?? '').toLowerCase().trim();
+
+const disagreements = [];
+
+/**
  * A claim survives only if the adversarial pass named its brand as confirmed.
  *
  * Not "was not refuted": NAMED as confirmed. The difference matters where a verifier returned for
@@ -110,9 +204,24 @@ for (const c of compare) {
       continue;
     }
     published++;
+    const afi = afiRange(rec?.dose);
+    const computed = relationOf(l.adultLow ?? null, l.adultHigh ?? null, l.unit, afi);
+    if (computed && l.relation && computed !== normaliseRelation(l.relation)) {
+      disagreements.push({
+        formulation: c.formulation,
+        brand: l.brand,
+        label: `${l.adultLow} to ${l.adultHigh} ${l.unit ?? ''}`.trim(),
+        formulary: rec?.dose ?? null,
+        computed,
+        claimedByTheJudgementPass: l.relation,
+      });
+    }
     labels.push({ brand: l.brand, url: l.url, population: l.population ?? 'unstated',
       low: l.adultLow ?? null, high: l.adultHigh ?? null, unit: l.unit ?? null,
-      quote: l.quote ?? null, relation: l.relation ?? null });
+      quote: l.quote ?? null,
+      relation: computed ?? l.relation ?? null,
+      relationClaimed: l.relation ?? null,
+      relationComputed: Boolean(computed) });
   }
   if (!labels.length && !notComparable.some((n) => n.formulation === c.formulation)) continue;
   preparations.push({
@@ -137,6 +246,13 @@ console.log(`  published after check    ${published}`);
 console.log(`  withheld on the check    ${withheld}`);
 console.log(`  not comparable           ${notComparable.length}`);
 console.log(`relations published        ${JSON.stringify(rel)}`);
+if (disagreements.length) {
+  console.log(`\nrelation disagreements     ${disagreements.length}, computed here and published as computed:`);
+  for (const d of disagreements.slice(0, 12)) {
+    console.log(`  ${d.formulation} / ${d.brand}: label ${d.label} vs formulary ${d.formulary}`);
+    console.log(`     judgement pass said "${d.claimedByTheJudgementPass}", arithmetic says "${d.computed}"`);
+  }
+}
 for (const w of withheldRows) console.log(`  withheld: ${w.formulation} / ${w.brand}`);
 
 /**

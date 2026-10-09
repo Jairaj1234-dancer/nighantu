@@ -108,16 +108,16 @@ Ayurvedic concept records: contested questions with the competing positions attr
 
 The dose comparison, one row per compared product page.
 
-- 0.02 MB, 60 data rows
-- sha256 `51658787754f18cbb780b45f6c3aa9418c46786eac8574ffea29be944b2ff152`
+- 0.03 MB, 129 data rows
+- sha256 `1f54a334ca632a7dda98371517404936015aaa7fc8007b20070bd9efc82a2700`
 - live copy: https://nighantu.ageayurveda.com/dose-comparison.csv
 
 ### `dose-comparison.json`
 
 Manufacturers' stated doses against the dose the Ayurvedic Formulary of India states for the same classical preparation, with each manufacturer's own wording and the page it was read from. Includes the claims withheld on an adversarial check, with reasons.
 
-- 0.07 MB
-- sha256 `2d50b446dfe60c3f98cc83f67c74d0ead7b4fab9dfb32caba2103571adc8ec9c`
+- 0.12 MB
+- sha256 `73343639981c669869fa8d88b753361ecb3f4ee0862562386dd00f412214c665`
 - live copy: https://nighantu.ageayurveda.com/dose-comparison.json
 
 ### `dravyaguna.csv`
