@@ -1,0 +1,120 @@
+name: Index probe
+
+# CAN GOOGLE RETRIEVE THE NEWEST PAGES AT ALL. That is a different question from whether they earn
+# citations, and conflating the two wasted a panel run: the comparative intents scored 0 of 20 on
+# content that had been submitted to IndexNow the same hour, which measured indexing lag and
+# nothing else.
+#
+# Gemini's grounding runs on Google Search, so a page absent from Google's index cannot be
+# surfaced by it. data/prompts/index-probe.json asks eight questions answerable only from this
+# site, using figures published nowhere else. A citation therefore proves retrievability.
+#
+# WHY A SEPARATE WORKFLOW FROM market-map.yml, which runs the same script. That one is dispatch
+# only on purpose: it is a decision instrument, run when there is a decision to make, and putting
+# it on a schedule would spend quota producing readings nobody asked for. This is the opposite
+# shape. It is cheap, 8 questions at 2 asks is 16 requests, and its whole value is in repetition
+# until the answer changes.
+#
+# NOTIFY ON THE TRANSITION, NOT THE STATE. An issue is opened only when a citation appears, which
+# is the moment indexing is confirmed and the moment worth interrupting someone for. A weekly
+# "still not indexed" issue trains you to ignore the label, which is the rule scripts/monitors/
+# indexation.mjs already states in its own comment.
+
+on:
+  schedule:
+    # 07:29 UTC on Thursdays. Off the hour, and on a different day from the Monday jobs so a
+    # 16-request probe never queues behind a 141-request panel.
+    - cron: '29 7 * * 4'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: index-probe
+  cancel-in-progress: false
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+
+      - name: Probe
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node scripts/market-map.mjs --prompts data/prompts/index-probe.json --reps 2 | tee /tmp/probe.txt
+
+      - name: Put the reading in the run summary
+        run: |
+          {
+            echo "## Index probe $(date -u +%Y-%m-%d)"
+            echo ""
+            echo '```'
+            cat /tmp/probe.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      # Read the JSON rather than grepping the printed report, so the test is against the data the
+      # script recorded and not against its formatting.
+      - name: Decide whether anything changed
+        id: verdict
+        run: |
+          node -e '
+            const fs = require("fs");
+            const spec = JSON.parse(fs.readFileSync("data/prompts/index-probe.json", "utf8"));
+            const ours = (spec.ours ?? []).map((d) => d.toLowerCase());
+            const f = fs.readdirSync("data")
+              .filter((x) => /^market-map-index-probe-.*\.json$/.test(x))
+              .sort()
+              .pop();
+            if (!f) { console.error("no reading was written"); process.exit(1); }
+            const d = JSON.parse(fs.readFileSync("data/" + f, "utf8"));
+            const mine = (d.domains ?? []).filter((x) => ours.some((o) => x.domain.includes(o)));
+            const total = d.questionsAsked ?? 0;
+            const out = mine.length
+              ? `cited=true\nsummary=${mine.map((m) => `${m.domain} on ${m.n} of ${total}`).join(", ")}\n`
+              : `cited=false\nsummary=not cited on any of ${total} questions\n`;
+            fs.appendFileSync(process.env.GITHUB_OUTPUT, out);
+            console.log(out.trim());
+          '
+
+      # Only a hit is worth an issue. Silence is the expected state until Google crawls, and an
+      # issue every Thursday saying so would be noise that buries the one week it matters.
+      - name: Open an issue when retrievability is confirmed
+        if: steps.verdict.outputs.cited == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          {
+            echo "The index probe cited this site for the first time."
+            echo ""
+            echo "${{ steps.verdict.outputs.summary }}"
+            echo ""
+            echo "These questions are answerable only from pages on this site, and Gemini grounds"
+            echo "on Google Search, so this confirms Google has indexed and can retrieve them."
+            echo ""
+            echo "What this unblocks: the citation panel's comparative intents can now be read as a"
+            echo "measurement of whether the content earns citations, rather than of indexing lag."
+            echo "The last reading before this was 0 of 20 on content submitted the same hour."
+            echo ""
+            echo "Full reading in the run summary: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          } > /tmp/body.md
+          gh issue create \
+            --title "Index probe: the Nighantu is retrievable $(date -u +%Y-%m-%d)" \
+            --body-file /tmp/body.md || true
+
+      - name: Upload the reading
+        uses: actions/upload-artifact@v4
+        with:
+          name: index-probe-${{ github.run_id }}
+          path: data/market-map-index-probe-*.json
+          retention-days: 90
+          if-no-files-found: error
