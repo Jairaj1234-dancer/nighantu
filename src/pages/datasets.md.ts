@@ -7,6 +7,7 @@ import compounds from '../data/compounds.json';
 import compositionSummary from '../data/composition-summary.json';
 import lexicon from '../data/lexicon.json';
 import conceptsData from '../data/concepts.json';
+import crosswalk from '../data/afi-crosswalk.json';
 import dravyaguna from '../data/dravyaguna.json';
 import research from '../data/research.json';
 import taxonomy from '../data/taxonomy.json';
@@ -18,6 +19,7 @@ export const GET: APIRoute = async () => {
   const comp = compositionSummary as any;
   const lex = (lexicon as any).summary;
   const con = (conceptsData as any).summary;
+  const cw = (crosswalk as any).summary;
 
   const body = [
     '# Open Ayurvedic Datasets',
@@ -30,6 +32,11 @@ export const GET: APIRoute = async () => {
     'says so rather than dropping the caveat.',
     '',
     '## Available datasets',
+    '',
+    `- **Formulary ingredient name crosswalk**: the ${n(cw.distinctNames)} Sanskrit ingredient names used across the 101 formulary entries transcribed here, ${n(cw.namesResolved)} resolved to a botanical identity with the basis stated on every row, ${n(cw.namesAmbiguous)} published as ambiguous and ${n(cw.namesUnresolved)} as unresolved. The crosswalk nobody else publishes between what the formulary calls a drug and what a label calls it.`,
+    `  - JSON: ${abs('/afi-crosswalk.json')}`,
+    `  - CSV: ${abs('/afi-crosswalk.csv')} (one row per ingredient row)`,
+    `  - Browse: ${abs('/crosswalk/')}`,
     '',
     `- **Contested questions in Ayurvedic theory**: ${n(con.contestedQuestions)} questions on which the classical sources genuinely disagree, across ${n(con.records)} concepts, with ${n(con.attributedPositions)} positions given as their sources state them and none presented as the settled answer. Plus ${n(con.notKnownStatements)} statements of what is not established, ${n(con.classicalCitations)} classical citations and ${n(con.researchItems)} research papers assessed.`,
     `  - JSON: ${abs('/concepts.json')}`,

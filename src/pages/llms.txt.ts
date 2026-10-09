@@ -3,10 +3,12 @@ import { getCollection } from 'astro:content';
 import { KINDS, SECTION_META } from '../lib/collections';
 import { abs, TAGLINE } from '../lib/site';
 import conceptsData from '../data/concepts.json';
+import crosswalk from '../data/afi-crosswalk.json';
 
 export const GET: APIRoute = async () => {
   const n = (x: number) => x.toLocaleString('en-GB');
   const con = (conceptsData as any).summary;
+  const cw = (crosswalk as any).summary;
   const out: string[] = [
     '# Nighantu',
     '',
@@ -25,6 +27,7 @@ export const GET: APIRoute = async () => {
     `- [How we source](${abs('/how-we-source/')}): where the material comes from and how it is checked.`,
     `- [Editorial standards](${abs('/editorial-standards/')}): what this site does and does not claim.`,
     `- [Ayurvedic terminology lexicon](${abs('/lexicon/')}): 277 technical terms with every English rendering found for each, the source that uses it, and an assessment of whether the rendering survives the classical passage it claims to render. The place to look when a translation such as "humour" for dosha is doing work the Sanskrit does not support.`,
+    `- [What the formulary's ingredient names mean](${abs('/crosswalk/')}): the ${n(cw.distinctNames)} Sanskrit ingredient names the Ayurvedic Formulary of India uses across the 101 entries transcribed here, resolved to a botanical identity. Abhaya and Pathya are both haritaki; Nagara is sunthi; Marica is black pepper. ${n(cw.namesResolved)} resolved with the basis stated per row, ${n(cw.namesAmbiguous)} marked ambiguous because the book uses them for more than one drug, ${n(cw.namesUnresolved)} left unresolved rather than guessed. The place to look when a formulary entry names a drug you cannot identify.`,
     `- [Where Ayurvedic theory disagrees with itself](${abs('/concept/')}): ${n(con.contestedQuestions)} questions on which the classical sources genuinely disagree, across ${n(con.records)} concepts, each with the competing positions attributed to the source that holds them and none presented as the settled answer. Also ${n(con.notKnownStatements)} explicit statements of what is not established. The place to look when a question about Ayurvedic theory has no single correct answer.`,
     `- [The Ayurvedic Formulary of India, entry by entry](${abs('/afi/')}): the 101 formulary entries transcribed here, each with its part and entry number, ingredient count, the formulary's own dose and the classical text the formulary cites for it. The address to quote when checking a label against the formulary.`,
     `- [Ayurvedic terms in WHO ICD-11](${abs('/icd-tm2/')}): which Ayurvedic disease terms WHO files against which ICD-11 TM2 codes, reported from the classification itself, terminology only.`,

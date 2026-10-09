@@ -62,6 +62,11 @@ jobs:
       # withholds. Generated, not committed, so it must run before the build.
       - name: Generate the concept dataset
         run: node scripts/concepts-dataset.mjs
+      # src/data/afi-crosswalk.json is committed, built by scripts/afi-crosswalk.mjs from the
+      # formulary transcription and the monographs. This reshapes it and refuses to write if any
+      # resolution has lost the basis that justifies it.
+      - name: Generate the formulary crosswalk dataset
+        run: node scripts/crosswalk-dataset.mjs
       # The composition-disclosure comparison names seven companies and states what each of their
       # own pages published. data/brands/ holds the raw survey and is gitignored, so this checks
       # the page's tables against the committed measurement rather than re-crawling: a page that

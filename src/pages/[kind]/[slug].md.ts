@@ -2,6 +2,7 @@ import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
 import { KINDS } from '../../lib/collections';
 import safety from '../../data/safety.json';
+import names from '../../data/names.json';
 import { abs } from '../../lib/site';
 
 /**
@@ -65,12 +66,55 @@ export const GET: APIRoute = ({ props }) => {
 
   const canonical = abs(`/${entry.collection}/${d.slug}/`);
 
+  /**
+   * THE NAMES IN THE INDIAN LANGUAGES, which this twin was silently dropping.
+   *
+   * src/data/names.json holds 3,761 name forms across fifteen languages for 270 monographs, with a
+   * source cited per name, and NameForms.astro renders the whole table on the HTML page. The
+   * markdown twin carried none of it: a survey in October 2026 found Devanagari in 1 of roughly 650
+   * herb and formulation twins, and in that one only by accident.
+   *
+   * That matters more than a missing section usually would, because llms.txt tells AI crawlers the
+   * twin is the canonical plain-text version of the page. A crawler that takes the route this site
+   * recommends was being handed a page with the multilingual table removed, which is the one part
+   * of a monograph a reader who knows the drug by another name actually needs. The lexicon's twins
+   * already carry their Devanagari and IAST forms; this copies that.
+   *
+   * The source is carried per language rather than per name to keep the block readable, and the
+   * script forms are given before the transliterations because the script is the identifying thing.
+   */
+  const nameBlock: string[] = [];
+  const nameRec = (names as any).pages?.[`${entry.collection}/${d.slug}`];
+  if (nameRec) {
+    const labels: Record<string, string> = (names as any).languages ?? {};
+    const order: string[] = (names as any).languageOrder ?? Object.keys(nameRec);
+    const lines: string[] = [];
+    for (const lang of order) {
+      const arr = nameRec[lang];
+      if (!Array.isArray(arr) || !arr.length) continue;
+      const forms = arr
+        .map((x: any) => [x.name, x.iast && x.iast !== x.name ? `(${x.iast})` : null].filter(Boolean).join(' '))
+        .filter(Boolean);
+      if (!forms.length) continue;
+      lines.push(`| ${labels[lang] ?? lang} | ${forms.join(', ').replace(/\|/g, '\\|')} |`);
+    }
+    if (lines.length) {
+      nameBlock.push(
+        '## Names in the Indian languages', '',
+        'Every name form this project holds for this drug, with the script form first and the',
+        'transliteration after it. Sources per name are on the canonical page.', '',
+        '| Language | Names |', '| --- | --- |', ...lines, '',
+      );
+    }
+  }
+
   const body = [
     `# ${d.title}`,
     '',
     `> ${d.answer}`,
     '',
     ...(facts.length ? ['## Key facts', '', ...facts.map(([k, v]) => `- **${k}:** ${v}`), ''] : []),
+    ...nameBlock,
     entry.body?.trim() ?? '',
     '',
     ...safetyLines,

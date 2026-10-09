@@ -1,0 +1,203 @@
+---
+/**
+ * The formulary's ingredient vocabulary, resolved.
+ *
+ * WHY THIS PAGE EXISTS AND WHY IT IS SHAPED LIKE A TABLE. The formulary names its ingredients in
+ * Sanskrit and uses several names for the same drug: 1,973 ingredient rows across 638 distinct
+ * spellings. A label names the same drug in Hindi or by binomial. Nothing published connects the
+ * two, which means the official standard for a classical preparation cannot be mechanically
+ * checked by anyone who does not already read Sanskrit pharmacognosy.
+ *
+ * The measured reason for the shape: this site's own panel found long-form guides earn no
+ * citations while precisely-named things set out as structured fact do. "What is Marica" and "what
+ * does Nagara mean in a formulary entry" are precisely-named questions, so each name is a row with
+ * its answer and its evidence beside it, and the ambiguous and unresolved ones are rows too.
+ */
+import Page from '../layouts/Page.astro';
+import crosswalk from '../data/afi-crosswalk.json';
+import { abs, rel } from '../lib/site';
+
+const data = crosswalk as any;
+const s = data.summary;
+const vocab = (data.vocabulary as any[]);
+
+const title = 'What the formulary\'s ingredient names mean';
+const description = `The ${s.distinctNames} Sanskrit ingredient names used across the 101 Ayurvedic `
+  + `Formulary of India entries transcribed here, resolved to a botanical identity where one could `
+  + `be established. ${s.namesAmbiguous} names the formulary uses for more than one drug are marked `
+  + `ambiguous; ${s.namesUnresolved} are published as unresolved rather than guessed.`;
+const canonical = '/crosswalk/';
+
+const n = (x: number) => x.toLocaleString('en-GB');
+const resolved = vocab.filter((v) => v.status === 'resolved');
+const ambiguous = vocab.filter((v) => v.status === 'ambiguous');
+const unresolved = vocab.filter((v) => v.status === 'unresolved');
+const plantGaps = unresolved.filter((v) => v.substanceClass === 'plant');
+
+const jsonld = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Dataset',
+    '@id': `${abs(canonical)}#dataset`,
+    name: data.name,
+    description: data.description,
+    url: abs(canonical),
+    license: 'https://creativecommons.org/licenses/by/4.0/',
+    isAccessibleForFree: true,
+    creator: { '@id': `${abs('/')}#organization` },
+    publisher: { '@id': `${abs('/')}#organization` },
+    variableMeasured: ['formulary ingredient name', 'printed gloss', 'botanical identity', 'substance class', 'basis of resolution'],
+    distribution: [
+      { '@type': 'DataDownload', name: 'JSON', encodingFormat: 'application/json', contentUrl: abs('/afi-crosswalk.json') },
+      { '@type': 'DataDownload', name: 'CSV', encodingFormat: 'text/csv', contentUrl: abs('/afi-crosswalk.csv') },
+    ],
+  },
+  /**
+   * Each resolved name as a DefinedTerm carrying the botanical identity, so the answer to "what is
+   * Marica" is in the markup and not only in a table cell. The ambiguous and unresolved names are
+   * deliberately not emitted as DefinedTerms: a term whose definition this project does not have
+   * should not be asserted as defined.
+   */
+  {
+    '@context': 'https://schema.org',
+    '@type': 'DefinedTermSet',
+    '@id': `${abs(canonical)}#vocabulary`,
+    name: 'Ayurvedic Formulary of India ingredient names',
+    description: 'Sanskrit ingredient names as the formulary prints them, each resolved to a botanical identity.',
+    url: abs(canonical),
+    license: 'https://creativecommons.org/licenses/by/4.0/',
+    hasDefinedTerm: resolved.map((v) => ({
+      '@type': 'DefinedTerm',
+      name: v.name,
+      description: `${v.name} in the Ayurvedic Formulary of India is ${v.resolvesTo[0].binomial ?? 'a drug this project holds a monograph for'}`
+        + `, used in ${v.formularyRows} ingredient row${v.formularyRows === 1 ? '' : 's'}.`,
+      ...(v.resolvesTo[0].binomial ? { alternateName: v.resolvesTo[0].binomial } : {}),
+      url: abs(v.resolvesTo[0].monograph),
+      inDefinedTermSet: { '@id': `${abs(canonical)}#vocabulary` },
+    })),
+  },
+];
+---
+<Page title={title} description={description} canonical={canonical} updated={data.updatedAt}
+  trail={[{ label: 'Formulary ingredient names' }]} jsonld={jsonld}>
+  <p class="answer">
+    The Ayurvedic Formulary of India names its ingredients in Sanskrit, and it does not use one name
+    per drug. Across the 101 entries transcribed on this site, <strong>{n(s.ingredientRows)} ingredient
+    rows use {n(s.distinctNames)} distinct spellings</strong>. <i>Abhaya</i> and <i>Pathya</i> are both
+    haritaki. <i>Nagara</i> is sunthi. <i>Marica</i> is black pepper. This resolves each name to a
+    botanical identity where one could be established, and says plainly where one could not.
+  </p>
+
+  <p class="lede">
+    A label names its ingredients in Hindi or by binomial; the formulary names them in Sanskrit.
+    Without a crosswalk between the two, the official standard for a classical preparation cannot be
+    checked by anyone who does not already read Sanskrit pharmacognosy. That is what this is for.
+  </p>
+
+  <table class="facts">
+    <caption>What is here</caption>
+    <tbody>
+      <tr><th scope="row">Ingredient rows covered</th><td>{n(s.ingredientRows)}, across 101 formulary entries</td></tr>
+      <tr><th scope="row">Distinct names</th><td>{n(s.distinctNames)}</td></tr>
+      <tr><th scope="row">Resolved to a botanical identity</th><td>{n(s.namesResolved)} names, {n(s.rowsResolved)} rows</td></tr>
+      <tr><th scope="row">Of the plant rows</th><td>{n(s.plantRowsResolved)} of {n(s.plantRows)}</td></tr>
+      <tr><th scope="row">Resolved by a gloss the book itself prints</th><td>{n(s.rowsResolvedViaAPrintedGloss)} rows</td></tr>
+      <tr><th scope="row">Used for more than one drug</th><td>{n(s.namesAmbiguous)} names, marked ambiguous rather than collapsed</td></tr>
+      <tr><th scope="row">Unresolved</th><td>{n(s.namesUnresolved)} names, published as unresolved rather than guessed</td></tr>
+    </tbody>
+  </table>
+
+  <h2>How a name was resolved, and why that is stated on every row</h2>
+  <p>
+    The strongest evidence is the formulary's own: it prints a gloss against an ingredient on 722
+    rows, so where it says <i>Abhaya (haritaki)</i> that is the book telling you which drug it
+    means. Those glosses are used per row and never chained, because a gloss is true of the row it
+    is printed on: an early version of this work chained them and produced
+    <i>Madhuka = Madhu = Maksika</i> resolved to arjuna, merging liquorice, honey and a mineral
+    calcine across 47 rows.
+  </p>
+  <p>
+    Otherwise a name is matched against the herb monographs published here, which carry
+    GBIF-resolved binomials. An exact name match wins outright and an approximate one is flagged:
+    {n(s.rowsResolvedOnAnApproximateName)} rows rest on an approximate match. That distinction is
+    not pedantry. <i>Pippali</i> is <i>Piper longum</i> and <i>Pippala</i> is <i>Ficus religiosa</i>,
+    one vowel apart and unrelated, and a matcher built for product names called the most-used
+    ingredient in the formulary a sacred fig across 40 rows before exact matches were made to win.
+  </p>
+
+  <h2>Names the formulary uses for more than one drug</h2>
+  <p>
+    Reported rather than resolved. These are facts about the vocabulary, and a crosswalk that
+    silently picked one reading would be wrong a predictable share of the time while looking
+    complete.
+  </p>
+  <div class="tablewrap">
+    <table>
+      <thead><tr><th>Name</th><th>Rows</th><th>Resolves to</th></tr></thead>
+      <tbody>
+        {ambiguous.map((v) => (
+          <tr>
+            <td class="term">{v.name}</td>
+            <td>{v.formularyRows}</td>
+            <td>
+              {v.resolvesTo.map((r: any, i: number) => (
+                <>{i > 0 && ' · '}<a href={rel(r.monograph)}>{r.binomial ?? r.monograph}</a> ({r.rows})</>
+              ))}
+            </td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+
+  <h2>Every resolved name</h2>
+  <p>
+    Ordered by how often the formulary uses it, because the commonest names are the ones a reader
+    checking a label will meet first.
+  </p>
+  <div class="tablewrap">
+    <table>
+      <thead><tr><th>Formulary name</th><th>Rows</th><th>Botanical identity</th></tr></thead>
+      <tbody>
+        {resolved.map((v) => (
+          <tr>
+            <td class="term">{v.name}</td>
+            <td>{v.formularyRows}</td>
+            <td><a href={rel(v.resolvesTo[0].monograph)}>{v.resolvesTo[0].binomial ?? v.resolvesTo[0].monograph}</a></td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+
+  <h2>What is still unresolved</h2>
+  <p>
+    {n(unresolved.length)} names, {n(plantGaps.length)} of them plant drugs this project holds no
+    monograph for, and the rest vehicles, sweeteners, salts, fats and mineral preparations that have
+    no botanical identity to resolve. They are listed so the gap is visible and someone can close it
+    with a source.
+  </p>
+  <p class="termlist">
+    {unresolved.map((v, i) => (<>{i > 0 && ' · '}<span>{v.name}</span>{v.formularyRows > 1 && <> ({v.formularyRows})</>}</>))}
+  </p>
+
+  <h2>Download</h2>
+  <p>
+    <a href={rel('/afi-crosswalk.json')}>afi-crosswalk.json</a> and
+    <a href={rel('/afi-crosswalk.csv')}>afi-crosswalk.csv</a>, CC BY 4.0. The CSV is one row per
+    ingredient row, {n(s.ingredientRows)} of them, carrying the formulation, the formulary entry
+    number, the name as printed, the gloss the book printed beside it, what it resolves to and on
+    what basis. That is the join anyone checking a label against the formulary actually needs.
+  </p>
+
+  <p class="meta">
+    Built {data.updatedAt} from the formulary transcription and the monographs on this site, so it
+    cannot drift from either. The formulary entries themselves are at <a href={rel('/afi/')}>/afi/</a>.
+  </p>
+</Page>
+
+<style>
+  .tablewrap th, .tablewrap td { text-align: left; padding: .4rem .7rem; border-top: 1px solid var(--rule); font-size: .93rem; }
+  .tablewrap td.term { font-weight: 600; white-space: nowrap; }
+  .termlist { font-size: .92rem; color: var(--ink-soft); line-height: 1.8; }
+</style>
