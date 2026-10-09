@@ -33,8 +33,16 @@ on:
 permissions:
   contents: write
 
+# Its OWN group, not the shared `monitors` one.
+#
+# The first dispatch of this workflow blocked a scheduled citation refresh that had queued behind
+# it, and GitHub cancelled the pending run rather than holding it. A dispatch-only job with a
+# 45-minute timeout has no business sitting in the same queue as the scheduled monitors: the map is
+# run when someone wants an answer, and the monitors run whether anyone is watching or not. Keyed
+# by prompt set so two maps of the same space cannot overlap and burn quota twice, while maps of
+# different spaces can run together.
 concurrency:
-  group: monitors
+  group: market-map-${{ inputs.prompts }}
   cancel-in-progress: false
 
 jobs:
