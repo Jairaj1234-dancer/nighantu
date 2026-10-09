@@ -1,0 +1,95 @@
+name: Market map
+
+# WHAT THIS ANSWERS, and why it is not the citation panel.
+#
+# The citation panel asks whether this site is cited. This asks the prior question: who IS, and
+# whether their hold is defensible. The distinction the script records is the one that decides
+# whether a space is worth entering at all. A domain cited on forty questions because it SELLS the
+# thing is displaced by outranking a vendor. One cited on forty because it EXPLAINS the thing is
+# displaced only by writing something better, which is the game this site can play.
+#
+# WHY IT RUNS IN CI RATHER THAN LOCALLY. GEMINI_API_KEY is a repository secret and is deliberately
+# not on anyone's laptop. Running here means the key is never handled by a person and the result is
+# committed with the run that produced it.
+#
+# WHY IT IS DISPATCH-ONLY. This is a decision instrument, not a monitor. It is run when there is a
+# decision to make about entering a space, and its output is read rather than trended. Putting it
+# on a schedule would spend quota producing readings nobody asked for.
+
+on:
+  workflow_dispatch:
+    inputs:
+      prompts:
+        description: 'Prompt set under data/prompts/ (without the .json)'
+        required: true
+        default: 'brand-comparison'
+        type: string
+      reps:
+        description: 'Asks per question. More reps, steadier reading, more quota.'
+        required: false
+        default: '2'
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: monitors
+  cancel-in-progress: false
+
+jobs:
+  map:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+
+      - name: Refuse unless the prompt set exists
+        run: |
+          f="data/prompts/${{ inputs.prompts }}.json"
+          if [ ! -f "$f" ]; then
+            echo "No prompt set at $f. Available:"
+            ls data/prompts/
+            exit 1
+          fi
+          node -e "
+            const d = require('./' + '$f');
+            if (!Array.isArray(d.prompts) || !d.prompts.length) {
+              console.error('$f has no prompts array'); process.exit(1);
+            }
+            console.log('$f: ' + d.prompts.length + ' prompts, ours=' + JSON.stringify(d.ours));
+          "
+
+      - name: Run the map
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          node scripts/market-map.mjs \
+            --prompts "data/prompts/${{ inputs.prompts }}.json" \
+            --reps "${{ inputs.reps }}" | tee /tmp/map.txt
+
+      # The report is the deliverable, so it goes into the run summary where it can be read without
+      # cloning anything. The JSON is committed alongside for the next run to compare against.
+      - name: Put the report in the run summary
+        run: |
+          {
+            echo "## Market map: ${{ inputs.prompts }}"
+            echo ""
+            echo '```'
+            cat /tmp/map.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit the reading
+        run: |
+          git config user.name  "nighantu-monitor[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/market-map-*.json
+          git commit -m "Market map: ${{ inputs.prompts }} $(date -u +%Y-%m-%d)" || exit 0
+          git pull --rebase --autostash origin main || true
+          git push origin HEAD:main

@@ -19,9 +19,9 @@ Last run: **2026-10-09**  ·  Site: https://nighantu.ageayurveda.com
 
 | Metric | Value |
 | --- | --- |
-| URLs tracked | 1231 |
-| Last IndexNow submission | 2026-10-08 |
-| URLs in that submission | 2 |
+| URLs tracked | 1235 |
+| Last IndexNow submission | 2026-10-09 |
+| URLs in that submission | 28 |
 
 ### Bing Webmaster
 
@@ -35,7 +35,17 @@ Last run: **2026-10-09**  ·  Site: https://nighantu.ageayurveda.com
 
 ## Citation panel
 
-_No runs logged, or the log header was not recognised._
+| Date | Source | Panel | Prompts cited | Of | Asks landed | Of | Ask rate |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-05 | gemini:gemini-2.5-flash | `caa78c34` | 4 | 48 | 9 | 144 | 6% |
+| 2026-10-01 | gemini:gemini-2.5-flash | `unlabell` | 10 | 67 | 24 | 201 | 12% |
+| 2026-09-25 | gemini:gemini-2.5-flash | `unlabell` | 0 | 2 | - | 6 | 0% |
+| 2026-09-19 | gemini:gemini-2.5-flash | `unlabell` | 11 | 68 | 26 | 203 | 13% |
+| 2026-09-18 | gemini:gemini-2.5-flash | `unlabell` | 6 | 54 | 16 | 162 | 10% |
+
+_2 different panels appear above. Rows with different panel hashes are different instruments; do not read across them as a trend._
+
+_Every citation recorded so far has gone to the Shopify store, not to this site._
 
 ## Content freshness
 

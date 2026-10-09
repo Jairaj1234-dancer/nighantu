@@ -21,61 +21,110 @@ const tick = (ok) => (ok ? 'ok' : 'FAIL');
  * compared the wrong fields." That warning was written about this file's failure mode and this
  * file never got the fix.
  */
+/**
+ * EVERY citation log, not the one fixed filename, because rotation moved the data out of it.
+ *
+ * This read data/citation-log.csv and nothing else. When the panel was rebuilt, geo-audit rotated
+ * the old series into data/citation-log-<date>.csv and left the fixed name holding a single
+ * `# panel <hash>` comment and no rows. The length test then returned null and the dashboard has
+ * reported "No runs logged" ever since, while data/citation-log-2026-10-05.csv held a full 49-row
+ * run showing 0 of 41 reference-intent prompts cited and every citation landing on the Shopify
+ * store instead of this site.
+ *
+ * That is the third distinct way this one function has reported a false zero: a positional parse
+ * that read the wrong column, a quoted-matcher applied to an unquoted header, and now a filename
+ * that rotation emptied. The pattern is that the failure always looks like a measurement, so the
+ * fix is to read every log present and to label runs by PANEL as well as by date. A panel change
+ * is a change of instrument, and showing two panels in one undifferentiated column is how a
+ * rebuild gets read as a collapse.
+ */
+function citationLogs() {
+  const dir = 'data';
+  if (!fs.existsSync(dir)) return [];
+  return fs.readdirSync(dir)
+    .filter((f) => /^citation-log.*\.csv$/.test(f) && !/probe/.test(f))
+    .map((f) => path.join(dir, f))
+    .sort();
+}
+
 function citationSummary() {
-  const p = path.join('data', 'citation-log.csv');
-  if (!fs.existsSync(p)) return null;
-  const all = fs.readFileSync(p, 'utf8').trim().split('\n').filter(Boolean);
-  if (all.length < 2) return null;
+  const files = citationLogs();
+  if (!files.length) return null;
 
   /*
    * The header is UNQUOTED and the data rows are quoted, so they need different parsers. Using the
    * quoted matcher on the header returns an empty array, every column index comes back -1, and the
-   * whole log reads as unrecognised: the first version of this fix replaced a false 0% with a false
-   * "no runs logged", which is a quieter wrong answer but still a wrong one. Same split as
-   * scripts/citation-report.mjs:30-32, deliberately, so there is one convention and not two.
+   * whole log reads as unrecognised. Same split as scripts/citation-report.mjs, deliberately, so
+   * there is one convention and not two.
    */
   const cells = (l) => [...l.matchAll(/"((?:[^"]|"")*)"/g)].map((m) => m[1].replace(/""/g, '"'));
-  /*
-   * FIND the header line; do not assume it is the first. geo-audit.mjs now writes a
-   * `# panel <hash>` comment above it so a panel change rotates the log, and a reader that took
-   * line 0 would parse that comment as the header and silently read every field as empty.
-   */
-  const headerLine = all.find((l) => l.startsWith('date,')) ?? '';
-  const header = headerLine.split(',').map((c) => c.replace(/^"|"$/g, '').trim());
-  const col = (name) => header.indexOf(name);
-  const iDate = col('date');
-  const iModel = col('model');
-  const iCited = col('cited');
-  const iHits = col('hits');
-  const iAsks = col('asks');
-  // A log whose header this does not recognise is reported as absent rather than as zeros.
-  if (iDate < 0 || iModel < 0 || iCited < 0) return null;
 
-  const byRun = new Map();
-  /*
-   * Select the DATA rows rather than skipping a fixed number of lines. `slice(1)` was right when
-   * the header was line 0 and became wrong the moment a `# panel` comment went above it: line 1 is
-   * then the header, which yields no quoted fields, so every column reads undefined and the sort
-   * throws on localeCompare. Every data row is fully quoted, so starting with a quote is the test.
+  /**
+   * EACH FILE IS PARSED WITH ITS OWN HEADER. This is not a stylistic choice.
+   *
+   * The logs do not share a column order. data/citation-log-2026-09-18.csv has
+   * `date,model,question,cited,...` and every later log has `date,model,question,intent,cited,...`,
+   * because the panel gained an intent column. So `cited` is field 3 in the September log and
+   * field 4 in the others. A single header taken from the first file and applied to rows from all
+   * of them reads the question text as the cited flag on one file or the intent string on the
+   * rest, and the answer is a confident zero either way.
+   *
+   * That is the same fault this function was already fixed for once, at the level of one file. The
+   * first attempt at reading every log reintroduced it at the level of every file, and reported
+   * 0 cited of 48 for a run that has 4 cited of 49. Hence per-file parsing and no shared index.
    */
-  for (const line of all.filter((l) => l.startsWith('"'))) {
-    const f = cells(line);
-    const key = `${f[iDate]} ${f[iModel]}`;
-    const agg = byRun.get(key)
-      ?? { date: f[iDate], model: f[iModel], total: 0, cited: 0, hits: 0, asks: 0 };
-    agg.total += 1;
-    if (f[iCited] === 'yes') agg.cited += 1;
-    // Asks are the honest denominator: each prompt is asked REPS times and a prompt cited once in
-    // three is not the same result as one cited three times in three.
-    if (iHits >= 0) agg.hits += Number(f[iHits]) || 0;
-    if (iAsks >= 0) agg.asks += Number(f[iAsks]) || 0;
-    byRun.set(key, agg);
+  const byRun = new Map();
+  let recognised = 0;
+  for (const file of files) {
+    const text = fs.readFileSync(file, 'utf8').trim();
+    if (!text) continue;
+    const lines = text.split('\n').filter(Boolean);
+    const panel = /^#\s*panel\s+(\S+)/m.exec(text)?.[1] ?? 'unlabelled';
+
+    /*
+     * FIND the header line; do not assume it is the first. geo-audit.mjs writes a `# panel <hash>`
+     * comment above it so a panel change rotates the log, and a reader that took line 0 would
+     * parse that comment as the header and silently read every field as empty.
+     */
+    const headerLine = lines.find((l) => l.startsWith('date,'));
+    if (!headerLine) continue;
+    const header = headerLine.split(',').map((c) => c.replace(/^"|"$/g, '').trim());
+    const col = (name) => header.indexOf(name);
+    const iDate = col('date');
+    const iModel = col('model');
+    const iCited = col('cited');
+    const iHits = col('hits');
+    const iAsks = col('asks');
+    // A log whose header this does not recognise is skipped rather than read as zeros.
+    if (iDate < 0 || iModel < 0 || iCited < 0) continue;
+    recognised += 1;
+
+    /*
+     * Select the DATA rows rather than skipping a fixed number of lines. Every data row is fully
+     * quoted, so starting with a quote is the test; `slice(1)` was right when the header was line 0
+     * and became wrong the moment a `# panel` comment went above it.
+     */
+    for (const line of lines.filter((l) => l.startsWith('"'))) {
+      const f = cells(line);
+      const key = `${f[iDate]} ${f[iModel]} ${panel}`;
+      const agg = byRun.get(key)
+        ?? { date: f[iDate], model: f[iModel], panel, total: 0, cited: 0, hits: 0, asks: 0 };
+      agg.total += 1;
+      if (f[iCited] === 'yes') agg.cited += 1;
+      // Asks are the honest denominator: each prompt is asked REPS times and a prompt cited once
+      // in three is not the same result as one cited three times in three.
+      if (iHits >= 0) agg.hits += Number(f[iHits]) || 0;
+      if (iAsks >= 0) agg.asks += Number(f[iAsks]) || 0;
+      byRun.set(key, agg);
+    }
   }
+  if (!recognised) return null;
+
   // Same exclusion as scripts/citation-report.mjs: a run with no successful ask is not a reading,
   // and one fetch failure should not appear in the table as a 0% run.
   return [...byRun.values()]
     .filter((r) => r.asks > 0)
-    .sort((a, b) => b.date.localeCompare(a.date));
+    .sort((a, b) => b.date.localeCompare(a.date) || String(a.model).localeCompare(String(b.model)));
 }
 
 export function renderDashboard(state, { site }) {
@@ -147,11 +196,22 @@ export function renderDashboard(state, { site }) {
   if (runs?.length) {
     // Prompts cited AND asks landed. A prompt cited once in three asks is a weaker result than one
     // cited three times in three, and the prompt column alone cannot tell them apart.
-    lines.push('| Date | Source | Prompts cited | Of | Asks landed | Of | Ask rate |',
-      '| --- | --- | --- | --- | --- | --- | --- |');
+    lines.push('| Date | Source | Panel | Prompts cited | Of | Asks landed | Of | Ask rate |',
+      '| --- | --- | --- | --- | --- | --- | --- | --- |');
     for (const r of runs.slice(0, 12)) {
       const askRate = r.asks ? `${((r.hits / r.asks) * 100).toFixed(0)}%` : '-';
-      lines.push(`| ${r.date} | ${r.model} | ${r.cited} | ${r.total} | ${r.hits || '-'} | ${r.asks || '-'} | ${askRate} |`);
+      lines.push(`| ${r.date} | ${r.model} | \`${String(r.panel).slice(0, 8)}\` | ${r.cited} `
+        + `| ${r.total} | ${r.hits || '-'} | ${r.asks || '-'} | ${askRate} |`);
+    }
+    /*
+     * The panel column exists so a rebuild cannot be misread as a drop. Two rows with different
+     * panel hashes are two different instruments and their numbers are not a trend.
+     */
+    const panels = new Set(runs.slice(0, 12).map((r) => r.panel));
+    if (panels.size > 1) {
+      lines.push('',
+        `_${panels.size} different panels appear above. Rows with different panel hashes are `
+        + 'different instruments; do not read across them as a trend._');
     }
     /*
      * The old footer read "a flat zero for the first 8 to 12 weeks on a new domain is expected,

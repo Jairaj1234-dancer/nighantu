@@ -64,6 +64,23 @@ import crypto from 'node:crypto';
  *   GEO_AUDIT_PROVIDER=openai ... GEO_AUDIT_LOG=data/citation-log-openai.csv
  */
 const PANEL = [
+  /*
+   * REWEIGHTED 9 October 2026. The reference block was 41 of 69 prompts and had scored 0 across
+   * every run; the comparative block was 20 and had never been exercised at all, because it was
+   * added after the last run. Every citation this panel has ever recorded went to the Shopify
+   * store, and "What is the Age Ayurveda Nighantu?" was not cited when asked by name.
+   *
+   * 22 reference prompts were dropped. The principle was redundancy, not pessimism: the same seven
+   * herbs were being asked three ways, as a monograph question, a botanical-name question and a
+   * rasa question, which is three prompts testing one page. One question form per subject keeps the
+   * same subject coverage at a third of the cost. The two property prompts with the longest series,
+   * Ashwagandha's category and Haridra's dosha effect, are kept because they are the only
+   * continuous measurement this panel has.
+   *
+   * What remains: enough reference prompts to detect a non-zero if one appears, the full
+   * comparative set, and the controls. The head-term controls stay deliberately, so the difference
+   * between the winnable and the unwinnable question stays visible in the data.
+   */
   // ------------------------------------------------- monograph (proven ground)
   { q: 'What is Talisapatra and what is it used for in Ayurveda?', intent: 'monograph' },
   { q: 'What is Narikela and what is it used for in Ayurveda?', intent: 'monograph' },
@@ -72,12 +89,6 @@ const PANEL = [
   { q: 'What is Bala and what is it used for in Ayurveda?', intent: 'monograph' },
   { q: 'What is Bilwa Patra and what is it used for in Ayurveda?', intent: 'monograph' },
   { q: 'What is Ikshu and what is it used for in Ayurveda?', intent: 'monograph' },
-  { q: 'What is Grinjana and what is it used for in Ayurveda?', intent: 'monograph' },
-  { q: 'What is Haridra and what is it used for in Ayurveda?', intent: 'monograph' },
-  { q: 'What is Kshirabala 101 Avarti and what is it used for in Ayurveda?', intent: 'monograph' },
-  { q: 'What is Matulunga and what is it used for in Ayurveda?', intent: 'monograph' },
-  { q: 'What is Guduchi and what is it used for in Ayurveda?', intent: 'monograph' },
-  { q: 'What is Nimbu and what is it used for in Ayurveda?', intent: 'monograph' },
 
   // ----------------------------------------------- composition (proven ground)
   { q: 'What is Sitopaladi Churna and what does it contain?', intent: 'composition' },
@@ -85,29 +96,13 @@ const PANEL = [
   { q: 'What is Ashokarishta and what does it contain?', intent: 'composition' },
   { q: 'What is Chyawanprash and what does it contain?', intent: 'composition' },
   { q: 'What is Guggulu and what does it contain?', intent: 'composition' },
-  { q: 'What is Bakuchi Taila and what does it contain?', intent: 'composition' },
   { q: 'What is Hingwashtak Churna and what does it contain?', intent: 'composition' },
   { q: 'What is Anu Taila and what does it contain?', intent: 'composition' },
-  { q: 'What is Gandharvahastadi Kashayam and what does it contain?', intent: 'composition' },
-  { q: 'What is Amritottaram Kashayam and what does it contain?', intent: 'composition' },
-  { q: 'What is Karpasasthyadi Thailam and what does it contain?', intent: 'composition' },
-  { q: 'What is Punarnavadi Guggulu and what does it contain?', intent: 'composition' },
-  { q: 'What is Neelibringadi Thailam and what does it contain?', intent: 'composition' },
 
   // ------------------------------------- property: the structured fields pages carry
-  { q: 'What is the botanical name of Talisapatra?', intent: 'property' },
-  { q: 'What is the botanical name of Narikela?', intent: 'property' },
-  { q: 'What is the botanical name of Karvellaka?', intent: 'property' },
-  { q: 'What is the botanical name of Nagakesara?', intent: 'property' },
-  { q: 'What is the botanical name of Bala?', intent: 'property' },
-  { q: 'What is the botanical name of Bilwa Patra?', intent: 'property' },
-  { q: 'What is the botanical name of Ikshu?', intent: 'property' },
   { q: 'What is the rasa, virya and vipaka of Talisapatra?', intent: 'property' },
   { q: 'What is the rasa, virya and vipaka of Narikela?', intent: 'property' },
   { q: 'What is the rasa, virya and vipaka of Karvellaka?', intent: 'property' },
-  { q: 'What is the rasa, virya and vipaka of Nagakesara?', intent: 'property' },
-  { q: 'What is the rasa, virya and vipaka of Bala?', intent: 'property' },
-  { q: 'What is the rasa, virya and vipaka of Bilwa Patra?', intent: 'property' },
   { q: 'What is the Ayurvedic category of Ashwagandha?', intent: 'property' },
   { q: 'What is the dosha effect of Haridra?', intent: 'property' },
 
