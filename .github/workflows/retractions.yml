@@ -1,0 +1,114 @@
+name: Check for retractions
+
+# WHY THIS IS ITS OWN WORKFLOW AND NOT A STEP IN ANOTHER ONE.
+#
+# This check already ran, monthly, as a step inside the citation refresh. It had never once
+# completed: that workflow failed at a later step, every time, because it built the site and ran
+# linkcheck without generating six of the datasets the site links to. So the retraction check sat
+# green on the calendar and did nothing, which is the worst shape for a safety check to be in.
+#
+# The lesson is not only that the bug needed fixing. It is that a check guarding against citing
+# withdrawn medical findings should not be able to be silenced by an unrelated failure in a heavier
+# job. It gets its own workflow, its own schedule, and its own failure surface.
+#
+# WHY WEEKLY RATHER THAN MONTHLY. A paper can be retracted on any day, and nothing about our copy of
+# the citation changes when it is. Monthly means up to thirty days of presenting a withdrawn finding
+# as evidence. The check itself costs about fifteen unauthenticated PubMed calls, so the frequency is
+# limited by politeness rather than cost, and weekly is comfortably polite.
+#
+# This is not hypothetical. The run that prompted this workflow found PMID 40434025, a retracted
+# paper on hormonal balance and menstrual health, live on two herb pages, plus three correction
+# notices being cited as though they were studies.
+
+on:
+  schedule:
+    # 03:19 UTC on Mondays. Off the hour, off midnight, and away from the 1st, 3rd and 8th which
+    # the citation panels and the citation refresh already use.
+    - cron: '19 3 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: monitors
+  cancel-in-progress: false
+
+env:
+  ATLAS_SITE: https://nighantu.ageayurveda.com
+  ATLAS_BASE: ''
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+
+      # The blocklist is cumulative and merges rather than overwrites. It has to be: this check only
+      # sees PMIDs that are currently cited, so once a retracted paper has been dropped it stops
+      # being cited and a later run cannot rediscover it. An overwriting version of this script
+      # would have shrunk a 14-entry blocklist to 4 and un-blocked ten retracted papers.
+      - name: Check every cited paper against PubMed
+        run: node scripts/check-retractions.mjs
+
+      - name: Remove anything newly blocked
+        run: node scripts/drop-retracted.mjs
+
+      # A removal changes the citation data, so everything derived from it is rebuilt and gated
+      # before the result is committed. Without this the job would commit a corpus it had not
+      # checked, which is how the original failure went unnoticed for a month.
+      - name: Generate every download
+        run: ./scripts/build-downloads.sh
+
+      - name: Rebuild and gate
+        run: |
+          node scripts/stamp-dates.mjs
+          node scripts/audit.mjs
+          npx astro build
+          node scripts/linkcheck.mjs
+          node scripts/crawl-audit.mjs
+
+      # A dropped citation must be visible as more than a bot commit, because it means a page that
+      # cited evidence no longer does and somebody may want to find replacement evidence.
+      - name: Open an issue if anything was dropped
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet src/data/citations.json; then
+            echo "no citation changed"
+            exit 0
+          fi
+          node -e '
+            const fs = require("fs");
+            const d = JSON.parse(fs.readFileSync("data/retractions.json", "utf8"));
+            const byKind = d.byKind ?? {};
+            const lines = (d.flagged ?? []).slice(-12).map((f) =>
+              `- PMID ${f.pmid} [${f.kind}] ${String(f.title).slice(0, 90)}`);
+            fs.writeFileSync("/tmp/body.md",
+              `The weekly PubMed check removed one or more citations from the corpus.\n\n`
+              + `Blocklist now holds ${(d.flagged ?? []).length} entries: `
+              + `${JSON.stringify(byKind)}\n\n`
+              + `Most recent entries:\n\n${lines.join("\n")}\n\n`
+              + `A retracted paper means the finding was withdrawn. An erratum notice means the `
+              + `record was never a study, and the right citation is the article it corrects, so `
+              + `those are worth replacing rather than just removing.\n`);
+          '
+          gh issue create \
+            --title "Citations removed by the retraction check $(date -u +%Y-%m-%d)" \
+            --body-file /tmp/body.md \
+            --label "data" || true
+
+      - name: Commit
+        run: |
+          git config user.name  "nighantu-monitor[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/citations.json src/data/research.json src/data/page-dates.json data/retractions.json
+          git commit -m "Retraction check $(date -u +%Y-%m-%d)" || exit 0
+          git pull --rebase --autostash origin main || true
+          git push origin HEAD:main

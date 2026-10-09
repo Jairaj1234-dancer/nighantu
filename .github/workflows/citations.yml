@@ -46,14 +46,25 @@ jobs:
       # acquire later, and nothing about our copy of the citation changes when it does.
       # So this has to run on the schedule, not once. 14 retracted papers were being
       # cited as evidence the first time anyone asked, across 2,906.
+      #
+      # This is deliberately ALSO run here, as well as weekly in retractions.yml. The step above
+      # has just added newly published papers, and checking those straight away beats waiting up
+      # to a week. Running the check twice is safe because the blocklist merges rather than
+      # overwrites and the drop is idempotent. The weekly workflow exists because a safety check
+      # should not be silenceable by an unrelated failure in a heavier job, which is exactly what
+      # happened to this one: it failed at a later step every month and the check never completed.
       - name: Check every cited paper for retraction
         run: node scripts/check-retractions.mjs
 
       - name: Remove any newly retracted paper
         run: node scripts/drop-retracted.mjs
 
-      - name: Rebuild the research index
-        run: node scripts/research-index.mjs
+      # Every download the site advertises, not just the research index. This workflow used to
+      # regenerate only the research index and then run linkcheck, which failed on six dataset
+      # links it had never generated. The retraction check above was therefore scheduled from the
+      # start and had never completed a single run.
+      - name: Generate every download
+        run: ./scripts/build-downloads.sh
 
       - name: Rebuild and gate
         run: |
@@ -61,6 +72,10 @@ jobs:
           node scripts/audit.mjs
           npx astro build
           node scripts/linkcheck.mjs
+          node scripts/crawl-audit.mjs
+          node scripts/brand-disclosure.mjs --check
+          node scripts/dose-comparison.mjs --check
+          node scripts/verse-numbering.mjs --check
 
       - name: Report what changed
         env:
