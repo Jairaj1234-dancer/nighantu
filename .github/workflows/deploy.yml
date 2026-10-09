@@ -66,6 +66,10 @@ jobs:
       # own pages published. data/brands/ holds the raw survey and is gitignored, so this checks
       # the page's tables against the committed measurement rather than re-crawling: a page that
       # names a competitor must not drift away from the figures it claims to report.
+      # Regenerates public/brand-disclosure.json, the evidence file the comparison page cites and
+      # offers to any company it names, then checks the page's tables and prose against it.
+      - name: Publish the composition-disclosure evidence
+        run: node scripts/brand-disclosure.mjs --render
       - name: Composition-disclosure tables agree with the measurement
         run: node scripts/brand-disclosure.mjs --check
       - name: Generate the constituent graph

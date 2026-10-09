@@ -78,15 +78,6 @@ const jsonld: any[] = [
     url: abs(canonical),
     inDefinedTermSet: { '@type': 'DefinedTermSet', '@id': `${abs('/concept/')}#set`, name: 'Ayurvedic concepts', url: abs('/concept/') },
   },
-  {
-    '@context': 'https://schema.org',
-    '@type': 'BreadcrumbList',
-    itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Nighantu', item: abs('/') },
-      { '@type': 'ListItem', position: 2, name: 'Concepts', item: abs('/concept/') },
-      { '@type': 'ListItem', position: 3, name: r.title, item: abs(canonical) },
-    ],
-  },
 ];
 
 /**
@@ -113,7 +104,8 @@ if ((r.contested ?? []).length) {
   });
 }
 ---
-<Page title={title} description={description} canonical={canonical} jsonld={jsonld}>
+<Page title={title} description={description} canonical={canonical} updated={data.updatedAt}
+  trail={[{ label: 'Concepts', href: '/concept/' }, { label: r.title }]} jsonld={jsonld}>
   {r.evidenceState && (
     <p class="answer">
       <strong>How much weight this concept bears.</strong> {r.evidenceState}
@@ -277,6 +269,8 @@ if ((r.contested ?? []).length) {
   <p>
     Age Ayurveda Nighantu, <q>{r.title}</q>, <a href={rel(canonical)}>{abs(canonical)}</a>,
     CC BY 4.0. The whole set is downloadable from the <a href={rel('/concept/')}>concept index</a>.
+    Machine-readable source: <a href={rel(`/concept/${r.slug}.md`)}>Markdown</a>.
+    Data exported {data.updatedAt}.
   </p>
   <p class="disclaimer">
     Educational reference only. This page describes what a body of theory claims and how well it is

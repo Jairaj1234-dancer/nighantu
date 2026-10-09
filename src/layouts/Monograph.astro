@@ -10,6 +10,7 @@ import { reviewPageNode } from '../lib/review';
 import Composition from '../components/Composition.astro';
 import CiteThis from '../components/CiteThis.astro';
 import duplicates from '../data/duplicates.json';
+import taxonomy from '../data/taxonomy.json';
 import Crumbs from '../components/Crumbs.astro';
 import { SITE_NAME, PUBLISHER, abs, rel } from '../lib/site';
 import { pageDates } from '../lib/dates';
@@ -17,6 +18,31 @@ import { pageDates } from '../lib/dates';
 interface Props { entry: any; sectionLabel: string; sectionHref: string }
 const { entry, sectionLabel, sectionHref } = Astro.props;
 const d = entry.data;
+
+/**
+ * External identifiers for this page's subject, read from the committed GBIF crosswalk.
+ *
+ * Only exact or near-exact matches are carried. taxonomy.json records a `matchType` for every
+ * resolution precisely so a fuzzy hit is never read as a fact, and asserting `sameAs` is a much
+ * stronger claim than printing a match type in a table: it says these two URIs denote the same
+ * thing. A FUZZY match must not become a sameAs.
+ */
+const externalIds = (() => {
+  const sameAs: string[] = [];
+  const identifier: { '@type': string; propertyID: string; value: string }[] = [];
+  if (!d.botanical) return { sameAs, identifier };
+  const taxa = (taxonomy as any).taxa ?? [];
+  const t = taxa.find((x: any) => x.pages?.some((p: any) => p.kind === d.kind && p.slug === d.slug))
+    ?? taxa.find((x: any) => String(x.query ?? '').toLowerCase() === String(d.botanical).toLowerCase());
+  if (!t) return { sameAs, identifier };
+  const exact = /^(EXACT|ACCEPTED)$/i.test(String(t.matchType ?? ''));
+  if (t.wikidata) { sameAs.push(`https://www.wikidata.org/wiki/${t.wikidata}`); identifier.push({ '@type': 'PropertyValue', propertyID: 'Wikidata', value: t.wikidata }); }
+  if (t.gbifKey && exact) { sameAs.push(`https://www.gbif.org/species/${t.gbifKey}`); identifier.push({ '@type': 'PropertyValue', propertyID: 'GBIF', value: String(t.gbifKey) }); }
+  // The field is ncbiTaxid, lower-case d. Spelled ncbiTaxId first, which silently produced zero
+  // of these across 334 pages: a wrong key name reads as absent data, not as an error.
+  if (t.ncbiTaxid) identifier.push({ '@type': 'PropertyValue', propertyID: 'NCBI:txid', value: String(t.ncbiTaxid) });
+  return { sameAs, identifier };
+})();
 /**
  * Where this page's canonical points.
  *
@@ -56,8 +82,26 @@ const jsonld = {
   // about a substance, not a claim about treating anything.
   about: {
     '@type': 'DefinedTerm',
+    /**
+     * The SAME @id the knowledge graph already mints for this page's subject, so the page and the
+     * graph describe one entity rather than two.
+     *
+     * A sweep of the reference sites that AI engines measurably cite found this to be the one
+     * technical habit they all share and this site did not: identity wired into the page's own
+     * markup. Wikipedia puts sameAs and mainEntity pointing at the Wikidata entity URI directly in
+     * its page JSON-LD; PubChem advertises a per-record JSON endpoint from a link rel=alternate;
+     * PubMed carries the PMID, PMCID and DOI in citation_* meta. Meanwhile this site printed
+     * "GBIF 2928840 · Wikidata Q852660 · NCBI Taxonomy 126910" in the visible body, held the whole
+     * crosswalk in taxonomy.json, and already emitted a Plant node at this exact #entity id inside
+     * knowledge-graph.jsonld with sameAs to Wikidata and GBIF, and the page's own structured data
+     * pointed at none of it. Nothing new is being asserted here: the identifiers were already
+     * published, just not where a parser of this page would look.
+     */
+    '@id': `${abs(selfUrl)}#entity`,
     name: d.title,
     ...(d.botanical ? { alternateName: d.botanical } : {}),
+    ...(externalIds.sameAs.length ? { sameAs: externalIds.sameAs } : {}),
+    ...(externalIds.identifier.length ? { identifier: externalIds.identifier } : {}),
     inDefinedTermSet: { '@type': 'DefinedTermSet', name: SITE_NAME, url: abs('/') },
   },
   author: { '@type': 'Organization', name: PUBLISHER, url: abs('/') },

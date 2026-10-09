@@ -190,6 +190,42 @@ if (fs.existsSync(DIST)) {
   };
   walkDist(DIST);
   const MODULE = /<section[^>]*data-product-module[^>]*>([\s\S]*?)<\/section>/g;
+
+  /**
+   * A SCHEDULED TERM AND A PRODUCT MODULE MUST NEVER SHARE A PAGE.
+   *
+   * The Drugs and Magic Remedies (Objectionable Advertisements) Act 1954 s.3 prohibits
+   * ADVERTISING a drug for its scheduled conditions, and s.3(b) covers "the maintenance or
+   * improvement of the capacity of human beings for sexual pleasure". The Consumer Protection Act
+   * 2019 s.2(1) makes a website an advertisement. Reference material is exempt under s.14(b) as a
+   * treatise "from a bona fide scientific or social standpoint", so the encyclopedia entry is not
+   * the problem; a module selling the drug beside it is what turns the page into an advertisement.
+   *
+   * src/components/ProductModule.astro refuses to render on such a page, which is the fix. This is
+   * the gate that keeps it fixed: content/ is regenerated from the vault on every ingest, so the
+   * karma list on any monograph can acquire one of these terms again at any time, and the only
+   * reason this was ever found was a research pass rather than a check. One page was in this state
+   * when it was found, the Ashwagandha monograph, which is among the most visited on the site.
+   *
+   * The terms are deliberately the ones the statute names, not a judgement about what is risky.
+   */
+  const SCHEDULED_TERMS = [
+    'aphrodisiac', 'vajikarana', 'sexual pleasure', 'sexual vigour', 'sexual vigor',
+    'libido', 'impotence', 'erectile', 'premature ejaculation', 'spermatogenic',
+    'abortifacient', 'miscarriage',
+  ];
+  for (const f of htmlFiles) {
+    const html = fs.readFileSync(f, 'utf8');
+    if (!/data-product-module/.test(html)) continue;
+    const text = html.toLowerCase();
+    const hit = SCHEDULED_TERMS.filter((t) => text.includes(t));
+    if (hit.length) {
+      fail('scheduled-term-with-commerce',
+        `${path.relative(DIST, f)} carries a product module and the scheduled term(s) ${hit.join(', ')}. `
+        + 'DMR Act 1954 s.3 bars advertising a drug for these; the reference text is exempt under '
+        + 's.14(b) but the module is not. Remove the module from this page, not the scholarship.');
+    }
+  }
   /**
    * Heritage framing, checked on the BUILT pages as well as on content/.
    *

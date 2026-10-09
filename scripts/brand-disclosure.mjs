@@ -44,6 +44,8 @@
  */
 import fs from 'node:fs';
 import path from 'node:path';
+import { buildMatcher } from './lib/formulation-names.mjs';
+import { DISCLOSURE_WATCH } from './monitors/config.mjs';
 
 const RENDER_ONLY = process.argv.includes('--render');
 const CHECK = process.argv.includes('--check');
@@ -141,6 +143,22 @@ if (!RENDER_ONLY && !CHECK) {
         + 'listings, so there is no product page of theirs for a composition to appear on';
     }
     /**
+     * A catalogue that is unreachable from the company's own site, which is a sharper finding than
+     * either having no sitemap or publishing no composition.
+     *
+     * Unjha Pharmacy publishes no sitemap at any conventional path, and the two catalogue links on
+     * its own home page, /products/ and /patent-products/, both return 404. So there is no route
+     * to its catalogue from its front door. Recorded for two runs as a company that "carried no
+     * product under any of the formulary names looked for", which read as a fact about its range
+     * when it is a fact about its site being broken.
+     */
+    const deadListing = (b.notes ?? []).filter((n) => /^404: .*\/(products?|shop|collections?|product-category|catalogue|catalog|patent-products)\/?$/.test(String(n)));
+    if (deadListing.length && !measured && !rangeMeasured) {
+      return `no sitemap was found, and ${deadListing.length === 1 ? 'the catalogue link' : `all ${deadListing.length} catalogue links`} `
+        + 'on its own home page return 404, so its catalogue cannot be reached from its own site';
+    }
+
+    /**
      * Wave 2 split this case in two, and the distinction matters to the company.
      *
      * Before it, "carried no product under a formulary name" was the end of the sentence and the
@@ -149,6 +167,11 @@ if (!RENDER_ONLY && !CHECK) {
      * measured fact about a named company and it belongs in the table, not in a footnote about
      * our own name list.
      */
+    if (!measured && !rangeMeasured && (b.candidates ?? []).length) {
+      return 'its catalogue lists its products as top-level page names that cannot be told apart '
+        + 'from its ordinary site pages, so its individual product pages could not be identified '
+        + 'here. This is a limit of our own matching, not a statement about what it publishes';
+    }
     if (!measured && rangeMeasured) {
       return 'read in full: its catalogue carried no product under any of the formulary names '
         + 'looked for, so it has no formulary-name figures, and its whole range was read instead';
@@ -164,6 +187,13 @@ if (!RENDER_ONLY && !CHECK) {
     const mine = products.products.filter((p) => p.brand === b.id);
     const w2All = wave2 ? wave2.products.filter((p) => p.brand === b.id) : [];
     const w2Mine = w2All.filter((p) => p.outcome === 'read');
+    const isListingPath = (u) => {
+      try {
+        const segs = String(u).replace(/^https?:\/\/[^/]+/, '').split('?')[0].split('/').filter(Boolean);
+        return segs.length <= 1 && (!segs.length || /^(products?|shop|collections?|catalogue|catalog)$/i.test(segs[0]));
+      } catch { return false; }
+    };
+    const w2Product = w2Mine.filter((p) => !isListingPath(p.url));
     const byPrep = new Map();
     for (const p of mine) {
       if (!byPrep.has(p.formulation)) byPrep.set(p.formulation, []);
@@ -175,7 +205,9 @@ if (!RENDER_ONLY && !CHECK) {
       name: b.name,
       origin: b.origin,
       ours: Boolean(b.ours),
-      access: accessOf(b, mine.length, w2Mine.length),
+      // w2Product, not w2Mine: a listing page is not a measured range, and passing the wider
+      // count made Vaidyaratnam report that its whole range had been read when nothing of it was.
+      access: accessOf(b, mine.length, w2Product.length),
       pagesInCatalogue: b.pages ?? 0,
       // The formulary-name population: wave 1.
       pagesMeasured: mine.length,
@@ -184,17 +216,26 @@ if (!RENDER_ONLY && !CHECK) {
       pagesWithNeither: mine.filter((p) => stateOf(p) === 'neither').length,
       pagesUnreadable: mine.filter((p) => stateOf(p) === 'unreadable').length,
       preparationsSold: byPrep.size,
-      // The whole range: wave 2. Null where wave 2 has not read this company at all.
-      range: w2Mine.length ? {
-        pagesRead: w2Mine.length,
+      /**
+       * The whole range: wave 2. Null where no INDIVIDUAL PRODUCT page of theirs was read.
+       *
+       * Vaidyaratnam's only readable candidate is its own /products listing, because its products
+       * are served as top-level slugs that nothing here can distinguish from /clinics or /about-us.
+       * Counted as a range that gives a row reading "0 of 1, 0%", which is a false impression of a
+       * company with roughly forty products: it says they publish nothing when the truth is we
+       * could not find their product pages. A listing page is not a product, so a company whose
+       * only read page is one has no measured range and goes to the explained group instead.
+       */
+      range: w2Product.length ? {
+        pagesRead: w2Product.length,
         pagesAttempted: w2All.length,
-        pagesWithQuantities: w2Mine.filter((p) => stateOf(p) === 'quantities').length,
-        pagesWithListOnly: w2Mine.filter((p) => stateOf(p) === 'list').length,
-        pagesWithNeither: w2Mine.filter((p) => stateOf(p) === 'neither').length,
-        pagesUnreadable: w2Mine.filter((p) => stateOf(p) === 'unreadable').length,
-        pagesStatingADose: w2Mine.filter((p) => (p.dose ?? {}).state === 'found').length,
-        pagesCitingTheFormulary: w2Mine.filter((p) => (p.authorities ?? []).some((a) => a.id === 'afi')).length,
-        pagesCitingAnyAuthority: w2Mine.filter((p) => (p.authorities ?? []).length > 0).length,
+        pagesWithQuantities: w2Product.filter((p) => stateOf(p) === 'quantities').length,
+        pagesWithListOnly: w2Product.filter((p) => stateOf(p) === 'list').length,
+        pagesWithNeither: w2Product.filter((p) => stateOf(p) === 'neither').length,
+        pagesUnreadable: w2Product.filter((p) => stateOf(p) === 'unreadable').length,
+        pagesStatingADose: w2Product.filter((p) => (p.dose ?? {}).state === 'found').length,
+        pagesCitingTheFormulary: w2Product.filter((p) => (p.authorities ?? []).some((a) => a.id === 'afi')).length,
+        pagesCitingAnyAuthority: w2Product.filter((p) => (p.authorities ?? []).length > 0).length,
       } : null,
     });
 
@@ -260,13 +301,22 @@ if (!RENDER_ONLY && !CHECK) {
       pagesCitingTheFormulary: wave2.products.filter((p) => p.outcome === 'read' && (p.authorities ?? []).some((a) => a.id === 'afi')).length,
       pagesCitingAnyAuthority: wave2.products.filter((p) => p.outcome === 'read' && (p.authorities ?? []).length > 0).length,
       /**
-       * How much the slug matcher missed, which was the other thing wave 2 existed to find out.
-       * The matcher is re-run against each page's own TITLE on the pages whose URL slug it did
-       * not match: a different spelling of the same name, written by the same company. 18 hits
-       * across 2,769 unmatched pages, so wave 1's sample was not quietly missing a classical
-       * range. See scripts/brand-wave2-report.mjs, which is where that is computed.
+       * How much the slug matcher missed, COMPUTED rather than typed in.
+       *
+       * The matcher is re-run against each page's own TITLE on the pages whose URL slug matched
+       * nothing: a different spelling of the same name, written by the same company, so a hit is
+       * a page wave 1 should have had. This figure was hardcoded at first, which is precisely the
+       * drift the prose gate below exists to catch and the one place that gate cannot look: it
+       * reads this file as the truth. A number that the check trusts has to be derived.
        */
-      slugMatcherMissesFoundByTitle: 18,
+      slugMatcherMissesFoundByTitle: (() => {
+        const match = buildMatcher(Object.entries(afi).map(([slug, r]) => ({
+          slug,
+          names: [slug.replace(/-/g, ' '), r.entryHeading].filter(Boolean),
+        })));
+        return wave2.products.filter((p) => p.outcome === 'read' && !p.matchedByName
+          && match(String(p.productName ?? '')).length).length;
+      })(),
       pagesWithNoFormularyNameInTheSlug: wave2.products.filter((p) => p.outcome === 'read' && !p.matchedByName).length,
     } : null,
     companies: companies.sort((a, b) => b.pagesMeasured - a.pagesMeasured || a.name.localeCompare(b.name)),
@@ -274,6 +324,7 @@ if (!RENDER_ONLY && !CHECK) {
   };
 
   fs.writeFileSync(OUT, `${JSON.stringify(payload, null, 2)}\n`);
+
   console.log(`companies surveyed          ${payload.companies.length}`);
   console.log(`companies with pages read   ${payload.companies.filter((c) => c.pagesMeasured).length}`);
   console.log(`product pages measured      ${payload.companies.reduce((a, c) => a + c.pagesMeasured, 0)}`);
@@ -283,6 +334,26 @@ if (!RENDER_ONLY && !CHECK) {
 
 // --------------------------------------------------------------------------- render
 const data = JSON.parse(fs.readFileSync(OUT, 'utf8'));
+
+/**
+ * PUBLISH THE EVIDENCE, because the page promises it and a promise behind a repo path is not one.
+ *
+ * /choosing/who-publishes-the-composition/ states counts about twenty named companies and offers
+ * to correct an error including where the correction favours a competitor. The CCPA guidelines
+ * require a comparison on objectively ascertainable facts to be "capable of substantiation", and
+ * plain fairness requires that a company being counted can see its own row and the page URL each
+ * count came from. The grounding note used to cite `src/data/brand-disclosure.json`, a path inside
+ * a source repository, and the obvious public URL 404'd.
+ *
+ * Written here rather than in the measure stage above, because data/brands/ is gitignored and the
+ * measure stage therefore cannot run in CI. This copies the committed measurement, which is the
+ * same file the page's figures are checked against.
+ */
+if (!CHECK) {
+  fs.mkdirSync('public', { recursive: true });
+  fs.writeFileSync(path.join('public', 'brand-disclosure.json'), `${JSON.stringify(data, null, 2)}\n`);
+  console.log(`published          public/brand-disclosure.json (${(JSON.stringify(data).length / 1024).toFixed(0)} KB)`);
+}
 const byId = Object.fromEntries(data.companies.map((c) => [c.id, c]));
 const nameOf = (id) => byId[id]?.name ?? id;
 const esc = (s) => String(s).replace(/\|/g, '\\|');
@@ -372,8 +443,24 @@ for (const p of data.preparations) {
     + (p.ingredientsWithAQuantity === p.ingredientCount
       ? 'a quantity for every one'
       : `a quantity for ${p.ingredientsWithAQuantity}`);
-  // The heading stays in the book's own capitals, as /afi/ prints it: this column is a citation.
-  const stick = [addr && `**${esc(addr)}**`, p.formularyHeading && esc(p.formularyHeading), counts]
+  /**
+   * The heading stays in the book's own capitals, as /afi/ prints it: this column is a citation.
+   *
+   * But it is TRUNCATED AT THE FIRST PARENTHESIS, because the transcription stores editorial notes
+   * in that field. Jeerakarishtam's heading carries a 230-character note about which line of the
+   * book prints which spelling and which should be page aliases, and it was rendering inside a
+   * public table that names competing companies. A "(Synonym : ...)" is legitimately part of the
+   * book's heading, so the cut keeps a short parenthetical and drops a long one, which is the only
+   * distinction available without re-keying the transcription.
+   */
+  const heading = (() => {
+    const h = String(p.formularyHeading ?? '');
+    if (!h) return null;
+    const i = h.indexOf('(');
+    if (i < 0) return h;
+    return h.length - i > 60 ? h.slice(0, i).trim() : h;
+  })();
+  const stick = [addr && `**${esc(addr)}**`, heading && esc(heading), counts]
     .filter(Boolean).join('. ');
   const cell = (s) => {
     const xs = inState(p, s);
@@ -474,6 +561,32 @@ if (CHECK) {
     process.exit(1);
   }
   console.log(`prose figures      ${figureChecks().length} load-bearing totals all present`);
+
+  /**
+   * Every company the page names must be watched, or the correction promise is decoration.
+   *
+   * The page tells each named company that a wrong figure will be corrected, and
+   * scripts/monitors/disclosure.mjs is what keeps that from rotting. The watch list sat at seven
+   * companies while the page named fifteen, which is worse than not watching at all: it has the
+   * shape of a kept promise and keeps it for under half of them. Widening the survey and widening
+   * the watch are one change, and nothing was checking that both halves happened.
+   */
+  const watched = new Set(DISCLOSURE_WATCH.map((w) => w.id));
+  const unwatched = data.companies.filter((c) => c.range && !watched.has(c.id));
+  const stale = DISCLOSURE_WATCH.filter((w) => !data.companies.some((c) => c.id === w.id && c.range));
+  if (unwatched.length || stale.length) {
+    console.error('FAIL: the disclosure monitor does not match the companies this page names.');
+    if (unwatched.length) {
+      console.error(`  ${unwatched.length} named with no watch entry: ${unwatched.map((c) => c.id).join(', ')}`);
+      console.error('  Each of these is told on the page that we will correct an error about it.');
+    }
+    if (stale.length) {
+      console.error(`  ${stale.length} watched and no longer named: ${stale.map((w) => w.id).join(', ')}`);
+    }
+    console.error('  Add or remove entries in DISCLOSURE_WATCH in scripts/monitors/config.mjs.');
+    process.exit(1);
+  }
+  console.log(`monitor coverage   all ${data.companies.filter((c) => c.range).length} named companies are watched`);
   console.log(`${PAGE} agrees with ${OUT}: ${data.preparations.length} preparations, `
     + `${data.companies.filter((c) => c.pagesMeasured).length} companies, measured ${data.measuredOn}.`);
   process.exit(0);

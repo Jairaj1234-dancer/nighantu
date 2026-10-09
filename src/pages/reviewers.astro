@@ -14,15 +14,60 @@
  */
 import Page from '../layouts/Page.astro';
 import { reviewer, reviews, formatReviewDate } from '../lib/review';
-import { rel } from '../lib/site';
+import { rel, abs } from '../lib/site';
 
 const rows = reviews.map((r) => ({ ...r, on: formatReviewDate(r.reviewedOn) }));
+const latest = [...reviews].map((r) => r.reviewedOn).sort().pop() ?? null;
+
+/**
+ * ProfilePage, which is the one piece of markup research into this actually supports.
+ *
+ * The finding that prompted it, from a sweep of primary documentation in October 2026: Google
+ * documents consuming `Person` name, description and sameAs on a ProfilePage, and documents
+ * nothing at all that consumes `reviewedBy` or `lastReviewed`, which this site has been emitting
+ * on every reviewed page. Those stay, because they are true and cost nothing, but the credential
+ * a rater or a model can actually check belongs on the reviewer's own page as a Person node.
+ *
+ * The same sweep is why there is no `sameAs` here. Google's structured-data rules forbid marking
+ * up information that is not visible on the page, and the quality guidelines tell raters to
+ * research a creator's reputation OFF the site rather than believe its own claims. A sameAs
+ * pointing at a registry entry, council registration or publication record would be the useful
+ * thing, and inventing or guessing one would be worse than omitting it. It goes in when there is
+ * a real URL to put in it.
+ *
+ * Also from that sweep, recorded because it is counter-intuitive: a 2026 study of 615 citations
+ * in ChatGPT health answers found 64.7% of the cited pages carried no author attribution at all
+ * and 70.4% no review statement. Named review is not what gets a page cited. It is still worth
+ * doing, for the reader and because the quality guidelines ask who produced the content, but it
+ * should not be mistaken for a retrieval lever.
+ */
+const jsonld = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'ProfilePage',
+    '@id': `${abs('/reviewers/')}#profile`,
+    url: abs('/reviewers/'),
+    ...(latest ? { dateModified: latest } : {}),
+    mainEntity: {
+      '@type': 'Person',
+      '@id': `${abs('/reviewers/')}#reviewer`,
+      name: reviewer.name,
+      honorificSuffix: reviewer.qualification,
+      description: `${reviewer.qualification}. Reviewing practitioner for the Age Ayurveda Nighantu, `
+        + `affiliated with the ${reviewer.affiliation}.`,
+      affiliation: { '@type': 'Organization', name: reviewer.affiliation },
+      knowsAbout: ['Ayurveda', 'Ayurvedic pharmacology', 'Dravyaguna', 'Classical Ayurvedic formulations'],
+    },
+  },
+];
 ---
 <Page
   title="Reviewers"
   description="Who has reviewed the Nighantu, which sections they read, when, and what remains unreviewed by a named practitioner."
   canonical="/reviewers/"
   lede="Where expert review stands. Stated exactly, including what it does not cover."
+  updated={latest ?? undefined}
+  jsonld={jsonld}
 >
 
 ## What has been reviewed

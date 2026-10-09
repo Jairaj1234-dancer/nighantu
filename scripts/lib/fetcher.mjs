@@ -141,10 +141,45 @@ export class Fetcher {
           return { url, status: res.status, finalUrl: res.url, body: null, refused: `redirected to a path ${after.reason}`, fetchedAt: new Date().toISOString(), fromCache: false };
         }
       }
-      const buf = Buffer.from(await res.arrayBuffer());
-      if (buf.length > this.maxBytes) {
+      /**
+       * The size cap has to be enforced WHILE reading, not after.
+       *
+       * This was `Buffer.from(await res.arrayBuffer())` followed by a length check, which reads
+       * as a cap and is not one: arrayBuffer() decompresses and buffers the whole body first, so
+       * by the time the check runs the allocation has already happened. A wave-2 run died of
+       * JavaScript heap exhaustion at 2 GB, 48 minutes and roughly 2,000 pages into a crawl of
+       * other people's servers, inside a Brotli decompression callback, and produced no output at
+       * all. The cap was 5 MB the whole time.
+       *
+       * So: refuse on a declared Content-Length before reading a byte, then stream and abort the
+       * moment the running total passes the cap. `ac.abort()` stops the transfer rather than
+       * politely finishing a download that is already being thrown away.
+       */
+      const declared = Number(res.headers.get('content-length') ?? 0);
+      if (declared > this.maxBytes) {
+        ac.abort();
         this.stats.failed += 1;
-        return { url, status: res.status, body: null, error: `body ${buf.length} bytes exceeds the cap`, fetchedAt: new Date().toISOString(), fromCache: false };
+        return { url, status: res.status, body: null, error: `declared ${declared} bytes, over the ${this.maxBytes} cap, not read`, fetchedAt: new Date().toISOString(), fromCache: false };
+      }
+
+      let buf;
+      if (!res.body) {
+        buf = Buffer.alloc(0);
+      } else {
+        const chunks = [];
+        let size = 0;
+        let over = false;
+        for await (const chunk of res.body) {
+          size += chunk.length;
+          if (size > this.maxBytes) { over = true; break; }
+          chunks.push(Buffer.from(chunk));
+        }
+        if (over) {
+          ac.abort();
+          this.stats.failed += 1;
+          return { url, status: res.status, body: null, error: `body passed the ${this.maxBytes} byte cap while streaming, abandoned`, fetchedAt: new Date().toISOString(), fromCache: false };
+        }
+        buf = Buffer.concat(chunks);
       }
       const record = {
         url,

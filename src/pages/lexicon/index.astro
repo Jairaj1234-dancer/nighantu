@@ -90,7 +90,8 @@ const jsonld = [
   },
 ];
 ---
-<Page title={title} description={description} canonical={canonical} jsonld={jsonld}>
+<Page title={title} description={description} canonical={canonical} updated={data.updatedAt}
+  trail={[{ label: 'Lexicon' }]} jsonld={jsonld}>
   <p class="answer">
     Ayurvedic technical terms are rendered into English inconsistently, and the inconsistency
     changes the meaning. This lexicon holds <strong>{n(records.length)} terms</strong> with
@@ -197,7 +198,10 @@ const jsonld = [
     included; withheld quotations are absent from both and the reason travels with the row.
   </p>
 
-  <p class="meta">Exported {data.updatedAt} from the term corpus, so this cannot drift from it.</p>
+  <p class="meta">
+    Exported {data.updatedAt} from the term corpus, so this cannot drift from it.
+    Machine-readable twin of every term page: append <code>.md</code> to its URL.
+  </p>
 </Page>
 
 <style>

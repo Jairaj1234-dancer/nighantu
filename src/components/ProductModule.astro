@@ -1,11 +1,47 @@
 ---
 import data from '../data/products.json';
+import { getCollection } from 'astro:content';
 import { STORE } from '../lib/site';
 
 interface Props { slug: string }
 const { slug } = Astro.props;
 
-const handles: string[] = (data.map as Record<string, string[]>)[slug] ?? [];
+/**
+ * THE MODULE REFUSES TO RENDER ON A PAGE CARRYING A SCHEDULED TERM, and this is a legal
+ * constraint rather than an editorial preference.
+ *
+ * The Drugs and Magic Remedies (Objectionable Advertisements) Act 1954 s.3 prohibits
+ * ADVERTISING a drug for the conditions in its schedule and, in s.3(b), for "the maintenance or
+ * improvement of the capacity of human beings for sexual pleasure". The Consumer Protection Act
+ * 2019 s.2(1) defines an advertisement to include a website, and the Delhi High Court has applied
+ * the DMR Act to web content. Reference material is a different thing: s.14(b) exempts "any
+ * treatise or book dealing with any of the matters specified in section 3 from a bona fide
+ * scientific or social standpoint", which is precisely what an encyclopedia entry is.
+ *
+ * So the scholarship is not the problem and is not touched. What converts a protected treatise
+ * into an advertisement is a commercial module selling the drug on the same page. A research pass
+ * in October 2026 found 24 pages listing "Aphrodisiac" among the classical karma and 32 pages
+ * carrying this module, with exactly one page in both: the Ashwagandha monograph, which is also
+ * among the most visited on the site. 91% of the 1,249 Ayurvedic advertisements ASCI referred to
+ * the Ministry of AYUSH in 2023-24 were s.3(b) cases.
+ *
+ * Dropping the module is the correct half to drop. It also happens to be what the site already
+ * promises on /editorial-standards/: no page exists because a product needed one.
+ */
+const SCHEDULED_TERMS = [
+  // s.3(b), the sexual-pleasure limb, which is the bulk of enforcement.
+  'aphrodisiac', 'vajikarana', 'sexual pleasure', 'sexual vigour', 'sexual vigor',
+  'libido', 'impotence', 'erectile', 'premature ejaculation', 'spermatogenic',
+  // s.3(a) and (c): procurement of miscarriage, and correction of menstrual disorders.
+  'abortifacient', 'miscarriage',
+];
+
+const entries = await getCollection('herb').catch(() => []);
+const self = (entries as any[]).find((e) => e.data?.slug === slug);
+const haystack = `${self?.body ?? ''} ${JSON.stringify(self?.data ?? {})}`.toLowerCase();
+const scheduled = SCHEDULED_TERMS.filter((t) => haystack.includes(t));
+
+const handles: string[] = scheduled.length ? [] : ((data.map as Record<string, string[]>)[slug] ?? []);
 const items = handles
   .map((h) => ({ handle: h, ...(data.products as Record<string, any>)[h] }))
   .filter((p) => p.title);

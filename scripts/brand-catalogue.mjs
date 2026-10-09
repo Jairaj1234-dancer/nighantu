@@ -107,7 +107,13 @@ export const BRANDS = [
   { id: 'zandu', name: 'Zandu', origin: 'https://zanducare.com' },
   { id: 'charak', name: 'Charak Pharma', origin: 'https://charak.com' },
   { id: 'aryavaidyasala', name: 'Arya Vaidya Sala Kottakkal', origin: 'https://www.aryavaidyasala.com' },
-  { id: 'vaidyaratnam', name: 'Vaidyaratnam Oushadhasala', origin: 'https://vaidyaratnam.com' },
+  /**
+   * vaidyaratnam.com 301-redirects to vaidyaratnammooss.com, and the survey had been reading the
+   * redirect stub: 64 bytes, no sitemap, so the company was published for two runs as one whose
+   * "catalogue could not be enumerated". The real domain allows everything (`Disallow:` with an
+   * empty value) and serves a working sitemap. The finding was about our own list of origins.
+   */
+  { id: 'vaidyaratnam', name: 'Vaidyaratnam Oushadhasala', origin: 'https://vaidyaratnammooss.com' },
   { id: 'sdl', name: 'Shree Dhootapapeshwar', origin: 'https://www.sdlindia.com' },
   { id: 'unjha', name: 'Unjha Pharmacy', origin: 'https://unjhapharmacy.com' },
 
@@ -264,12 +270,41 @@ const matchName = buildMatcher(FORMULATIONS);
  *   collection a category or listing page: real, but it holds no single product's composition
  *   editorial  a blog post, press release, article or static page
  */
+/**
+ * Two kinds added after two published figures came out wrong, both against the company.
+ *
+ *   asset      A stylesheet, script, font or image is not a product, and it reached the candidate
+ *              set because a catalogue page links to its own CSS. Vaidyaratnam was credited with
+ *              four stylesheets among "44 products".
+ *   furniture  About, contact, privacy, careers, login: every site has them and none of them is a
+ *              product. Of Vaidyaratnam's 44 candidates, not one was a product and most were
+ *              these; of Oushadhi's 142, fifty-five were, which turned 76% quantity disclosure
+ *              into 47% by padding the denominator.
+ *
+ * Both are classified ahead of everything else, because the point is that no later rule can
+ * promote them. The checks are cheap and they are the ones that have actually fired: hand
+ * inspection caught both of these, and hand inspection does not scale past about twenty companies.
+ */
+const ASSET_EXT = /\.(css|js|mjs|json|xml|txt|png|jpe?g|gif|svg|webp|avif|ico|woff2?|ttf|eot|pdf|zip|mp4|webm|mp3)$/i;
+const FURNITURE = new RegExp('(^|/)(' + [
+  'about', 'about-us', 'contact', 'contact-us', 'privacy', 'privacy-policy', 'terms',
+  'terms-conditions', 'refund_returns', 'shipping-policy', 'career', 'careers', 'jobs',
+  'login', 'register', 'signin', 'sign-in', 'account', 'cart', 'checkout', 'search',
+  'gallery', 'photo-gallery', 'testimonials', 'awards', 'awards-and-recognitions',
+  'services', 'clinics', 'hospital', 'doctors', 'tenders', 'downloads', 'rti-act',
+  'quality-policy', 'publications', 'research', 'research-institute', 'academic', 'museum',
+  'manufacturing', 'directors', 'officers', 'departments', 'notice-board', 'newsletter',
+  'sitemap', 'faq', 'franchise', 'dealers', 'distributors', 'vendorlogin', 'consultonline',
+].join('|') + ')(/|$)', 'i');
+
 export const urlKind = (u) => {
   const p = new URL(u).pathname.toLowerCase();
+  if (ASSET_EXT.test(p)) return 'asset';
   if (/(^|\/)(blogs?|blog-detail|press-releases?|news|articles?|media|stories|pages)(\/|$)/.test(p)) return 'editorial';
   if (/~n\d+$/.test(p)) return 'editorial';
   if (/(^|\/)(collections?|category|categories|shop)(\/|$)/.test(p)) return 'collection';
   if (/(^|\/)(products?|our-brand|item)(\/|$)/.test(p)) return 'product';
+  if (FURNITURE.test(p)) return 'furniture';
   return 'other';
 };
 
@@ -328,6 +363,103 @@ const walkSitemaps = async (fetcher, origin, { maxDocs = 40, maxDepth = 3 } = {}
   return { pages: [...pages], docs, notes };
 };
 
+/**
+ * When a host publishes no sitemap, walk its own links instead, bounded hard.
+ *
+ * Three companies in this survey publish nothing a sitemap walk can read, and they were recorded
+ * for two runs as catalogues that "could not be enumerated". One of those was our own stale
+ * origin. The other two are real: Oushadhi 302-redirects every sitemap path to a soft 404, and
+ * Unjha Pharmacy 404s all of them. Oushadhi is owned by the Government of Kerala and states
+ * roughly 450 formulations, which makes it the single catalogue in this survey most worth reading,
+ * and "they have no sitemap" is a fact about their web stack rather than a reason to say nothing
+ * about them.
+ *
+ * So: start at the home page, follow only links that look like a catalogue listing, and collect
+ * same-host URLs. Bounded three ways, because this is a crawl of someone else's site without the
+ * map they would have given us if they had one: a cap on pages FETCHED, a depth cap, and
+ * same-host only. Whatever a cap cuts is reported. The per-host delay and robots check are the
+ * Fetcher's and are unchanged, so this is not a faster or looser crawl, only a blinder one.
+ */
+const LISTING = /(^|\/)(products?|shop|collections?|product-category|catalogue|catalog|medicines?|patent-products|s-products)(\/|$)/i;
+
+const walkLinks = async (fetcher, origin, { maxFetch = 120, maxDepth = 3 } = {}) => {
+  const host = new URL(origin).hostname.replace(/^www\./, '');
+  const pages = new Set();
+  /**
+   * URLs found on a page that is itself a catalogue listing. This is the only reliable way to know
+   * a product page when the URL does not say so: a company's catalogue is what its catalogue page
+   * links to. Vaidyaratnam serves proprietary products as top-level slugs (/wormivos-tablets,
+   * /trigonil-tablet) with no formulary name to match on and no /product/ segment to classify by,
+   * so neither the name matcher nor urlKind can see them. Its /products page can.
+   */
+  const fromListing = new Set();
+  const seen = new Set();
+  const notes = [];
+  let queue = [{ url: origin.replace(/\/$/, '') + '/', depth: 0 }];
+  let fetched = 0;
+
+  while (queue.length && fetched < maxFetch) {
+    const { url, depth } = queue.shift();
+    if (seen.has(url)) continue;
+    seen.add(url);
+
+    const res = await fetcher.get(url);
+    fetched += 1;
+    if (res.refused) { notes.push(`refused: ${url} (${res.refused})`); continue; }
+    if (!res.body || res.status !== 200) { notes.push(`${res.status ?? res.error}: ${url}`); continue; }
+
+    const next = [];
+    for (const m of res.body.matchAll(/href\s*=\s*["']([^"'#]+)["']/gi)) {
+      let u;
+      try { u = new URL(m[1], url); } catch { continue; }
+      if (u.protocol !== 'https:' && u.protocol !== 'http:') continue;
+      if (u.hostname.replace(/^www\./, '') !== host) continue;
+      u.hash = '';
+      u.search = '';
+      const clean = u.toString();
+      pages.add(clean);
+      // Linked FROM a listing page, and not itself one, so it is a leaf of the catalogue.
+      if (LISTING.test(new URL(url).pathname) && !LISTING.test(u.pathname)) fromListing.add(clean);
+      if (depth < maxDepth && LISTING.test(u.pathname) && !seen.has(clean)) next.push({ url: clean, depth: depth + 1 });
+    }
+    // Listing pages first, so the fetch cap is spent on the catalogue rather than on the About page.
+    queue = [...queue, ...next];
+  }
+  if (queue.length) notes.push(`link-crawl fetch cap reached after ${fetched} pages, ${queue.length} listing page(s) not followed`);
+  notes.push(`link crawl: ${pages.size} url(s) from ${fetched} page(s) fetched, `
+    + `${fromListing.size} of them linked from a catalogue listing`);
+  return { pages: [...pages], fromListing, docs: fetched, notes };
+};
+
+/**
+ * GUARD: a survey that cannot read a quarter of its hosts is a BROKEN RUN, not a finding.
+ *
+ * "Unknown reads as closed" is the right politeness rule and it is kept. What it must not do is
+ * combine with "write whatever you collected" to destroy a good dataset. On one run 13 of 20
+ * hosts returned an unreadable robots.txt for transient reasons, every one of them was correctly
+ * closed, the collection therefore had nothing to read, and the script wrote `complete: true` with
+ * zero records over a complete 6,099-record file. Each step behaved as designed and the result was
+ * data loss.
+ *
+ * The likely cause is worth recording too: three research workflows were running at the same time,
+ * roughly 38 agents fetching Ayurvedic company sites through their own HTTP client, which does not
+ * share this Fetcher's per-host delay. Do not run the collector and a fetching workflow against the
+ * same estate at once.
+ */
+const UNREADABLE_LIMIT = 0.25;
+const unreadable = survey.filter((b) => b.robots.verdict === 'unknown');
+if (unreadable.length > survey.length * UNREADABLE_LIMIT) {
+  console.error('');
+  console.error(`ABORTING: robots.txt was unreadable for ${unreadable.length} of ${survey.length} hosts.`);
+  console.error('That is a transport failure, not a set of refusals, and a run that proceeds from here');
+  console.error('collects almost nothing and would overwrite the previous dataset with it.');
+  for (const b of unreadable.slice(0, 8)) console.error(`  ${b.id}: ${b.robots.note ?? 'unreadable'}`);
+  console.error('');
+  console.error('Check connectivity, make sure no fetching workflow is running against these hosts,');
+  console.error('and re-run. Nothing was written.');
+  process.exit(1);
+}
+
 console.log('\n--- discovery: candidate products from each host\'s own sitemap ---\n');
 
 const fetcher = new Fetcher({ ua: UA, cacheDir: path.join('data', 'brands', 'cache') });
@@ -339,7 +471,41 @@ for (const b of survey) {
     console.log(`${pad(b.id, 16)}skipped, ${b.robots.verdict === 'unknown' ? 'robots.txt unreadable' : 'catalogue disallowed'}`);
     continue;
   }
-  const { pages, docs, notes } = await walkSitemaps(fetcher, b.origin);
+  let { pages, docs, notes } = await walkSitemaps(fetcher, b.origin);
+  /**
+   * The link crawl runs when the sitemap gave us no PRODUCT, not only when it gave us no page.
+   *
+   * Vaidyaratnam's sitemap lists 216 URLs and classifies as one product, because its products are
+   * top-level slugs. Reporting that as a one-product company would have been our classifier's
+   * limitation published as a fact about them, which is the same mistake the Nagarjuna case was
+   * nearly recorded as. So where the sitemap yields nothing product-shaped, the catalogue page is
+   * asked instead, and the two sets are unioned.
+   */
+  /**
+   * PROMOTING A LISTING'S LINKS TO PRODUCTS WAS A MISTAKE, and it is recorded rather than quietly
+   * removed, because it produced wrong figures about two named companies before it was caught.
+   *
+   * The idea was that a company's catalogue is whatever its catalogue page links to, which is true
+   * of a catalogue page and false of the page a catalogue link actually lands on. A `/products`
+   * page links to its navigation, its stylesheets and its dosage-form categories as well. Promoted
+   * wholesale, Vaidyaratnam acquired 44 "products" of which not one was a product: /about-us,
+   * /clinics, /privacy, and four CSS files. Oushadhi acquired 55 pieces of furniture alongside its
+   * 87 real ones, which pushed its quantity disclosure from 76% of its product pages down to 47%
+   * of a denominator full of favicons. Both errors ran against the company.
+   *
+   * What survives, and is enough: the link crawl as a way to DISCOVER urls where no sitemap exists.
+   * Oushadhi's product pages live under /product/, which urlKind already recognises, so discovery
+   * was the only thing missing. Vaidyaratnam serves its products as top-level slugs that nothing
+   * here can tell apart from /clinics or /about-us, so its individual product pages stay
+   * unidentified and the page says so instead of publishing a number built out of its navigation.
+   */
+  if (!pages.some((u) => urlKind(u) === 'product')) {
+    const viaLinks = await walkLinks(fetcher, b.origin);
+    pages = [...new Set([...pages, ...viaLinks.pages])];
+    docs += viaLinks.docs;
+    notes = [...notes, ...viaLinks.notes];
+  }
+
   const candidates = [];
   const dropped = [];
   for (const url of pages) {
@@ -357,7 +523,23 @@ for (const b of survey) {
     const seg = segs[segs.length - 1] ?? '';
     const hits = matchName(seg);
     if (!hits.length) continue;
-    const kind = urlKind(url);
+    let kind = urlKind(url);
+    /**
+     * A product page that lives at the site root, which `urlKind` cannot recognise and which is
+     * not the same situation as a company having no product pages at all.
+     *
+     * Vaidyaratnam serves every product as a top-level slug: /thrunapanchamooladi-kashayam,
+     * /vyoshadigulgulu-tablet. No /product/ segment anywhere, so all of them classified as "other"
+     * and the company was reported as selling one product out of a 216-URL sitemap. Nagarjuna
+     * genuinely has no product pages; this is our classifier failing to see them, and the two must
+     * not read the same in the output.
+     *
+     * The promotion is deliberately narrow, because the kind filter exists to stop a blog post
+     * that merely mentions a formulation being read as a product. It applies only where the slug
+     * ALREADY matched a formulary name and the path is a single segment. Vaidyaratnam's 170 blog
+     * posts live under /blog/ and so cannot qualify, and a page like /ayurveda matches no name.
+     */
+    if (kind === 'other' && hits.length && segs.length === 1) kind = 'product';
     for (const h of hits) {
       const row = { url, slug: h.slug, matchedOn: seg, via: h.matched, kind };
       if (kind === 'product') candidates.push(row); else dropped.push(row);
@@ -389,7 +571,28 @@ for (const b of survey) {
   for (const note of notes.slice(0, 3)) console.log(`${' '.repeat(16)}note: ${note}`);
 }
 
+/**
+ * The same collapse guard as the products file, because the failed run took this one too.
+ *
+ * discovery.json carries each host's page count, candidate list and the notes that brand-disclosure
+ * turns into the sentence a reader sees explaining why a company has no measured page. When the
+ * aborted run wrote zeros here, Nagarjuna's row changed from "its sitemap lists no individual
+ * product page" to "no readable sitemap was found" — a different and false statement about a named
+ * company, produced with no code change at all. Guarding only the products file was half a fix.
+ */
 const out = path.join('data', 'brands', 'discovery.json');
+const previousPages = fs.existsSync(out)
+  ? (() => { try { return (JSON.parse(fs.readFileSync(out, 'utf8')).brands ?? []).reduce((a, b) => a + (b.pages ?? 0), 0); } catch { return 0; } })()
+  : 0;
+const thisPages = discovery.reduce((a, b) => a + (b.pages ?? 0), 0);
+if (previousPages && thisPages < previousPages * 0.5 && !process.argv.includes('--force')) {
+  console.error('');
+  console.error(`REFUSING TO WRITE ${out}: this run enumerated ${thisPages} pages; the file holds ${previousPages}.`);
+  console.error('A drop that size means hosts were unreachable, not that their catalogues shrank. The');
+  console.error('existing file is untouched. Investigate, or pass --force if the drop is real.');
+  process.exit(1);
+}
+
 fs.writeFileSync(out, `${JSON.stringify({
   agent: UA,
   discoveredOn: new Date().toLocaleDateString('en-CA'),
@@ -407,11 +610,108 @@ if (process.argv.includes('--discover')) {
 
 const products = [];
 
+/**
+ * The output path and the writer, hoisted so collection can checkpoint after every host.
+ *
+ * A wave-2 run died of heap exhaustion 48 minutes and nine hosts into a crawl of other people's
+ * servers, and because the file was written once at the end, every one of those nine hosts was
+ * lost and had to be read again. The cost of being wrong here is not our time, it is their
+ * bandwidth. So the file is rewritten after each host: a crash now costs the host in flight.
+ */
+const outP = path.join('data', 'brands', WAVE2 ? 'products-wave2.json' : 'products.json');
+/**
+ * The checkpoint write has to be ATOMIC, because hosts now finish concurrently.
+ *
+ * writeProducts runs after each host completes, and with 16 hosts in flight two of them can finish
+ * inside the same tick. Two overlapping writeFileSync calls on one path can leave a half-written
+ * file on disk, and the whole point of checkpointing is that a crash leaves something valid. So
+ * the payload goes to a temp file and is renamed over the target: rename is atomic on this
+ * filesystem, so a reader sees either the previous complete file or the new one, never a partial.
+ */
+/**
+ * GUARD: never replace a dataset with a drastically smaller one without being told to.
+ *
+ * The companion to the abort above, and the one that would have saved the file regardless of why
+ * the run went wrong. A published figure's denominator lives in this file; a run that collects a
+ * fraction of the last one has either lost hosts or lost its mind, and in both cases the right
+ * move is to keep what is known and say so.
+ */
+const PREVIOUS = fs.existsSync(outP)
+  ? (() => { try { return JSON.parse(fs.readFileSync(outP, 'utf8')).products?.length ?? 0; } catch { return 0; } })()
+  : 0;
+const COLLAPSE_LIMIT = 0.5;
+const FORCE = process.argv.includes('--force');
+
+const writeProducts = (complete) => {
+  if (complete && PREVIOUS && products.length < PREVIOUS * COLLAPSE_LIMIT && !FORCE) {
+    console.error('');
+    console.error(`REFUSING TO WRITE: this run collected ${products.length} records; ${outP} already holds ${PREVIOUS}.`);
+    console.error('A collapse that size means hosts were lost, not that the industry shrank.');
+    console.error('The existing file is untouched. Investigate, or pass --force if the drop is real.');
+    process.exitCode = 1;
+    return;
+  }
+  const tmp = `${outP}.tmp`;
+  fs.writeFileSync(tmp, `${JSON.stringify({
+    agent: UA,
+    wave: WAVE2 ? 2 : 1,
+    perHostLimit: Number.isFinite(PER_HOST_LIMIT) ? PER_HOST_LIMIT : null,
+    collectedOn: new Date().toLocaleDateString('en-CA'),
+    // Set only when the run reached the end. A consumer must be able to tell a complete survey
+    // from one that stopped partway, because the difference is a denominator.
+    complete,
+    brandsCollected: [...new Set(products.map((p) => p.brand))],
+    note: (WAVE2
+      ? 'Wave 2: every product-kind page on each permitted host, not only those whose slug matched '
+        + 'a formulary name. A record with a null `formulation` is one wave 1 would not have found. '
+      : '')
+      + 'Facts about each page as it was served to this agent on the date recorded. A composition '
+      + 'state of "absent" means the page carried substantial readable text and no composition in it; '
+      + '"unreadable" means the page carried almost no text, which on these sites means it renders '
+      + 'client-side. The two are never merged, because only the first is a claim about the company.',
+    products,
+  }, null, 2)}\n`);
+  fs.renameSync(tmp, outP);
+};
+
+/**
+ * ACROSS HOSTS IN PARALLEL, within each host still one request at a time.
+ *
+ * The per-host floor is the politeness guarantee and it is untouched: Fetcher keeps `lastAt` per
+ * ORIGIN, and each host is handled by exactly one task here, so no origin ever has two requests in
+ * flight and the stated Crawl-delay still governs. What changes is only that different companies'
+ * servers are read at the same time, which is no different from two people browsing two shops.
+ *
+ * The reason is arithmetic. 20 companies took about 75 minutes sequentially; 70 would be most of a
+ * day in one process, and a crawl that long is one that gets interrupted, which is how two runs
+ * already produced nothing. The cap is deliberately well under the host count so the machine is
+ * not opening seventy sockets at once.
+ *
+ * This is NOT a licence to raise the rate. If a future change makes two tasks share an origin, the
+ * guarantee breaks silently, so the assertion below exists: one task per origin, checked.
+ */
+const HOST_CONCURRENCY = 16;
+
+const mapHosts = async (items, worker) => {
+  const origins = items.map((b) => new URL(b.origin).origin);
+  if (new Set(origins).size !== origins.length) {
+    throw new Error('two brands share an origin, so parallel hosts would double that host\'s rate');
+  }
+  const queue = [...items];
+  const runners = Array.from({ length: Math.min(HOST_CONCURRENCY, queue.length) }, async () => {
+    while (queue.length) {
+      const b = queue.shift();
+      if (b) await worker(b);
+    }
+  });
+  await Promise.all(runners);
+};
+
 if (!process.argv.includes('--discover')) {
-  console.log('\n--- collection: reading each candidate product page ---\n');
-  for (const b of discovery) {
+  console.log(`\n--- collection: reading each candidate product page, ${HOST_CONCURRENCY} hosts at a time ---\n`);
+  await mapHosts(discovery, async (b) => {
     const all = b.candidates ?? [];
-    if (!all.length) continue;
+    if (!all.length) return;
     /**
      * The per-host cap, applied so that a formulary-name match is never the thing it cuts: those
      * are what the published comparison rests on, and a wave-2 run that silently dropped some of
@@ -427,7 +727,20 @@ if (!process.argv.includes('--discover')) {
       const res = await fetcher.get(c.url);
       if (res.refused) { products.push({ brand: b.id, ...c, outcome: 'refused', detail: res.refused }); continue; }
       if (!res.body || res.status !== 200) { products.push({ brand: b.id, ...c, outcome: 'unavailable', status: res.status ?? null, detail: res.error ?? null }); continue; }
-      const x = extractProduct(res.body);
+      /**
+       * FLATTEN the extracted strings, or the whole crawl is held in memory.
+       *
+       * Everything extractProduct returns is a substring of the page: the composition snippet,
+       * each quantity's `raw` context, the product name. V8 represents those as sliced strings,
+       * which keep a pointer to the ENTIRE parent. So one 15-character product name holds its
+       * 500 KB of HTML alive, and the array of them holds every page ever read.
+       *
+       * This is why two wave-2 runs died of heap exhaustion at 2 GB while the records they had
+       * accumulated measured 4.2 MB on disk. Measured, not guessed: 30 ten-character slices of
+       * 2 MB strings retain 58 MB. A JSON round-trip builds fresh flat strings and drops every
+       * parent reference, and it is the whole fix.
+       */
+      const x = JSON.parse(JSON.stringify(extractProduct(res.body)));
       products.push({
         brand: b.id,
         brandName: b.name,
@@ -449,30 +762,12 @@ if (!process.argv.includes('--discover')) {
     const withQty = read.filter((p) => p.quantityCount > 0);
     const unreadable = read.filter((p) => p.composition.state === 'unreadable');
     console.log(`${pad(b.id, 16)}${pad(`${read.length} read`, 10)}${pad(`${found.length} with a composition`, 24)}${pad(`${withQty.length} with a quantity`, 22)}${unreadable.length ? `${unreadable.length} render client-side` : ''}`);
-  }
+    writeProducts(false);
+    // Printed per host so heap growth is visible during the run rather than inferred from a crash.
+    console.log(`${' '.repeat(16)}heap ${(process.memoryUsage().heapUsed / 1e6).toFixed(0)} MB after ${products.length} records`);
+  });
 
-  /**
-   * Wave 2 writes its own file. products.json is what src/data/brand-disclosure.json was reduced
-   * from and what the published comparison's figures trace to, and a wave-2 run has a different
-   * population in it: overwriting would silently change the denominator of a number already on a
-   * public page naming other companies.
-   */
-  const outP = path.join('data', 'brands', WAVE2 ? 'products-wave2.json' : 'products.json');
-  fs.writeFileSync(outP, `${JSON.stringify({
-    agent: UA,
-    wave: WAVE2 ? 2 : 1,
-    perHostLimit: Number.isFinite(PER_HOST_LIMIT) ? PER_HOST_LIMIT : null,
-    collectedOn: new Date().toLocaleDateString('en-CA'),
-    note: (WAVE2
-      ? 'Wave 2: every product-kind page on each permitted host, not only those whose slug matched '
-        + 'a formulary name. A record with a null `formulation` is one wave 1 would not have found. '
-      : '')
-      + 'Facts about each page as it was served to this agent on the date recorded. A composition '
-      + 'state of "absent" means the page carried substantial readable text and no composition in it; '
-      + '"unreadable" means the page carried almost no text, which on these sites means it renders '
-      + 'client-side. The two are never merged, because only the first is a claim about the company.',
-    products,
-  }, null, 2)}\n`);
+  writeProducts(true);
 
   const read = products.filter((p) => p.outcome === 'read');
   const found = read.filter((p) => p.composition.state === 'found');
