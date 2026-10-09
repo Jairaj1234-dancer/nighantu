@@ -79,6 +79,11 @@ jobs:
       - name: Grounding checks
         run: node scripts/test/grounding.test.mjs
 
+      # The instrument that says whether this project works. It had no test and had reported a
+      # false zero four separate times; each of those four log shapes is now a case.
+      - name: Citation-log reader tests
+        run: node scripts/test/dashboard.test.mjs
+
       # The audit gates the build: a compliance violation fails the deploy.
       - name: Compliance audit (pre-build)
         run: node scripts/audit.mjs

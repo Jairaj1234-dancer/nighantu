@@ -73,8 +73,35 @@ const AS_JSON = process.argv.includes('--json');
  * the population and fetches no product page at all.
  */
 const WAVE2 = process.argv.includes('--wave2');
+
+/**
+ * --extended surveys the verified manufacturer register instead of BRANDS.
+ *
+ * BRANDS is twenty companies and must stay twenty. The composition-disclosure page states "20
+ * companies surveyed" and "6,097 pages read" and its drift gate holds the prose against those
+ * figures, so quietly growing that list would silently restate a published measurement about named
+ * companies. The register is a different population with a different purpose: 197 hosts verified
+ * one at a time, of which the ones that sell classical preparations and permit their catalogue are
+ * worth reading for a dose comparison.
+ *
+ * So the two never share a file. Extended runs read from the register and write to
+ * *-extended.json, and the twenty-company survey is untouched by anything done here.
+ */
+const EXTENDED = process.argv.includes('--extended');
+const REGISTER = path.join('src', 'data', 'manufacturer-register.json');
 const limitIdx = process.argv.indexOf('--limit');
 const PER_HOST_LIMIT = limitIdx > -1 ? Number(process.argv[limitIdx + 1]) : Infinity;
+
+/**
+ * --hosts N caps how many HOSTS an extended run surveys, which is a different cap from --limit.
+ *
+ * --limit bounds pages per host, so it protects one server. This bounds how many servers are
+ * contacted at all, which is what matters when a run grows from twenty hosts to a hundred and
+ * thirteen. Worth having as its own flag: the first version of this reached for `LIMIT`, which
+ * does not exist, and would have thrown a ReferenceError inside an IIFE before touching anybody.
+ */
+const hostsIdx = process.argv.indexOf('--hosts');
+const HOST_LIMIT = hostsIdx > -1 ? Number(process.argv[hostsIdx + 1]) : Infinity;
 
 /**
  * One agent string, honestly named, with somewhere to complain to. Not a browser string: a site
@@ -163,7 +190,66 @@ const OTHER_AGENTS = ['Googlebot', 'bingbot', 'GPTBot', 'ClaudeBot', 'CCBot', 'P
 const pad = (s, n) => String(s).padEnd(n);
 const survey = [];
 
-for (const brand of BRANDS) {
+/**
+ * The hosts this run will survey. BRANDS by default; the register's eligible rows under --extended.
+ *
+ * Eligibility is deliberately narrow. A company that does not describe itself as making classical
+ * preparations has nothing for a formulary comparison to compare, and a host whose robots.txt
+ * could not be read counts as refusing, so neither is worth a request. robots is re-fetched below
+ * regardless of what the register recorded: a permission read an hour ago is not a permission now,
+ * and this script never relies on a cached verdict to justify a fetch.
+ */
+const TARGETS = (() => {
+  if (!EXTENDED) return BRANDS;
+  if (!fs.existsSync(REGISTER)) {
+    console.error(`--extended needs ${REGISTER}. Run scripts/manufacturer-register.mjs first.`);
+    process.exit(2);
+  }
+  const reg = JSON.parse(fs.readFileSync(REGISTER, 'utf8')).companies ?? [];
+  const already = new Set(BRANDS.map((b) => {
+    const m = String(b.origin).match(/^(?:https?:\/\/)?(?:www\.)?([^/?#:]+)/i);
+    return m ? m[1].toLowerCase() : null;
+  }).filter(Boolean));
+  const eligible = reg.filter((c) => c.sellsClassical
+    && c.catalogueReadable
+    && c.robots?.verdict !== 'unknown'
+    && !already.has(c.host));
+  const picked = eligible.map((c) => ({
+    id: c.host.replace(/\.[a-z.]+$/, '').replace(/[^a-z0-9]+/gi, '-').toLowerCase(),
+    name: c.name,
+    origin: `https://${c.host}`,
+    state: c.state ?? null,
+  }));
+  console.log(`--extended: ${picked.length} of ${reg.length} register hosts are eligible `
+    + `(sell classical preparations, permit their catalogue, robots readable, not already in BRANDS)`);
+  return Number.isFinite(HOST_LIMIT) ? picked.slice(0, HOST_LIMIT) : picked;
+})();
+
+/**
+ * NOTHING BELOW THIS LINE MAY RUN FROM AN `import`.
+ *
+ * This file crawls other people's servers at module scope, and it exports BRANDS and urlKind, so
+ * `import('./scripts/brand-catalogue.mjs')` to reach a constant starts a crawl instead. That has
+ * now happened twice in this project, both times from a one-line `node -e` written to inspect
+ * something, and both times only cache saved it from making thousands of unintended requests.
+ * scripts/manufacturer-register.mjs works around it by redeclaring the user-agent string rather
+ * than importing it, with a comment explaining why, which is a warning rather than a fix.
+ *
+ * The guard sits here rather than at the top of the file so the exports stay importable: a caller
+ * that wants BRANDS or urlKind gets them, and a caller that reaches this point without having been
+ * run as a program gets an error instead of somebody else's bandwidth.
+ */
+const { pathToFileURL } = await import('node:url');
+const RUN_DIRECTLY = Boolean(process.argv[1])
+  && import.meta.url === pathToFileURL(process.argv[1]).href;
+if (!RUN_DIRECTLY) {
+  throw new Error(
+    'scripts/brand-catalogue.mjs crawls third-party hosts at module scope and must be run as a '
+    + 'program, not imported. Import it only for BRANDS or urlKind, which are defined above this '
+    + 'point; to collect, run `node scripts/brand-catalogue.mjs`.');
+}
+
+for (const brand of TARGETS) {
   const r = await fetchRobots(brand.origin, UA);
   const group = r.groups ? groupFor(r.groups, UA) : null;
   // Unknown is closed. See the note at the top of lib/robots.mjs.
@@ -194,7 +280,7 @@ for (const brand of BRANDS) {
 }
 
 if (AS_JSON) {
-  const out = path.join('data', 'brands', 'robots-survey.json');
+  const out = path.join('data', 'brands', EXTENDED ? 'robots-survey-extended.json' : 'robots-survey.json');
   fs.mkdirSync(path.dirname(out), { recursive: true });
   fs.writeFileSync(out, `${JSON.stringify({ agent: UA, surveyedOn: new Date().toLocaleDateString('en-CA'), brands: survey }, null, 2)}\n`);
   console.log(`wrote ${out}`);
@@ -297,8 +383,28 @@ const FURNITURE = new RegExp('(^|/)(' + [
   'sitemap', 'faq', 'franchise', 'dealers', 'distributors', 'vendorlogin', 'consultonline',
 ].join('|') + ')(/|$)', 'i');
 
-export const urlKind = (u) => {
-  const p = new URL(u).pathname.toLowerCase();
+/**
+ * The kind of thing a URL points at, from its path alone.
+ *
+ * TAKES AN OPTIONAL BASE, because sitemaps are not all well formed. `new URL(u)` with no base
+ * throws on a relative `<loc>`, and that is exactly what killed a 113-host discovery run on the
+ * input "/muniojus-tablet/". All twenty hosts this was built against publish absolute URLs in
+ * their sitemaps, so the crash waited until the survey widened to find a host that does not. The
+ * sitemap spec requires absolute URLs; plenty of real sitemaps ignore it.
+ *
+ * An unparseable URL returns 'other' rather than throwing. A collector reading other people's
+ * servers must not die of one malformed line in one file: the run before this lost 113 hosts of
+ * work to a single bad path, and 'other' simply means the path is not classified, which is the
+ * honest answer when it cannot be read.
+ */
+export const urlKind = (u, base) => {
+  let parsed;
+  try {
+    parsed = base ? new URL(u, base) : new URL(u);
+  } catch {
+    try { parsed = new URL(u, 'https://invalid.invalid'); } catch { return 'other'; }
+  }
+  const p = parsed.pathname.toLowerCase();
   if (ASSET_EXT.test(p)) return 'asset';
   if (/(^|\/)(blogs?|blog-detail|press-releases?|news|articles?|media|stories|pages)(\/|$)/.test(p)) return 'editorial';
   if (/~n\d+$/.test(p)) return 'editorial';
@@ -319,6 +425,7 @@ const walkSitemaps = async (fetcher, origin, { maxDocs = 40, maxDepth = 3 } = {}
   const host = new URL(origin).hostname.replace(/^www\./, '');
   const seen = new Set();
   const pages = new Set();
+  let skippedLocs = 0;
   const notes = [];
 
   // Seeds: the Sitemap: lines in robots.txt first, because that is where the host says to look,
@@ -356,10 +463,26 @@ const walkSitemaps = async (fetcher, origin, { maxDocs = 40, maxDepth = 3 } = {}
       const ranked = locs.sort((a, b) => (/(product|collection|catalog|shop|item)/i.test(b) ? 1 : 0) - (/(product|collection|catalog|shop|item)/i.test(a) ? 1 : 0));
       for (const l of ranked) queue.push({ url: l, depth: depth + 1 });
     } else {
-      for (const l of locs) pages.add(l);
+      /**
+       * ABSOLUTE, resolved against the sitemap that listed them.
+       *
+       * The sitemap protocol requires absolute URLs and real sitemaps routinely ignore it. One
+       * host among the register's 113 lists "/muniojus-tablet/", and every consumer downstream
+       * calls `new URL(u)` with no base, so a 113-host discovery run died on that single line
+       * after mapping the preceding hosts. Normalising here rather than defending at each of the
+       * four call sites means there is one place that can be wrong instead of four.
+       *
+       * Resolved against the SITEMAP's own url rather than the host origin, because a sitemap may
+       * live in a subdirectory and a relative path in it is relative to the sitemap, not the root.
+       */
+      for (const l of locs) {
+        try { pages.add(new URL(l, url).href); } catch { skippedLocs += 1; }
+      }
     }
   }
   if (queue.length) notes.push(`document cap reached, ${queue.length} sitemaps not read`);
+  // Reported rather than swallowed: a sitemap line this cannot resolve is a fact about the host.
+  if (skippedLocs) notes.push(`${skippedLocs} sitemap url(s) could not be resolved and were skipped`);
   return { pages: [...pages], docs, notes };
 };
 
@@ -499,7 +622,7 @@ for (const b of survey) {
    * here can tell apart from /clinics or /about-us, so its individual product pages stay
    * unidentified and the page says so instead of publishing a number built out of its navigation.
    */
-  if (!pages.some((u) => urlKind(u) === 'product')) {
+  if (!pages.some((u) => urlKind(u, b.origin) === 'product')) {
     const viaLinks = await walkLinks(fetcher, b.origin);
     pages = [...new Set([...pages, ...viaLinks.pages])];
     docs += viaLinks.docs;
@@ -580,7 +703,7 @@ for (const b of survey) {
  * product page" to "no readable sitemap was found" — a different and false statement about a named
  * company, produced with no code change at all. Guarding only the products file was half a fix.
  */
-const out = path.join('data', 'brands', 'discovery.json');
+const out = path.join('data', 'brands', EXTENDED ? 'discovery-extended.json' : 'discovery.json');
 const previousPages = fs.existsSync(out)
   ? (() => { try { return (JSON.parse(fs.readFileSync(out, 'utf8')).brands ?? []).reduce((a, b) => a + (b.pages ?? 0), 0); } catch { return 0; } })()
   : 0;
@@ -618,7 +741,9 @@ const products = [];
  * lost and had to be read again. The cost of being wrong here is not our time, it is their
  * bandwidth. So the file is rewritten after each host: a crash now costs the host in flight.
  */
-const outP = path.join('data', 'brands', WAVE2 ? 'products-wave2.json' : 'products.json');
+const outP = path.join('data', 'brands',
+  EXTENDED ? (WAVE2 ? 'products-extended-wave2.json' : 'products-extended.json')
+    : (WAVE2 ? 'products-wave2.json' : 'products.json'));
 /**
  * The checkpoint write has to be ATOMIC, because hosts now finish concurrently.
  *
