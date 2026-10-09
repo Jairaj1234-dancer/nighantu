@@ -20,8 +20,8 @@ source tree rather than the data. This version deposits each dataset as its own 
 
 For every cited paper, the most openly readable copy that could be found: open-access full text where it exists, then PubMed Central, then the DOI.
 
-- 3.18 MB
-- sha256 `bdda2c09701117e15d781d8f31d1b0ceabb611333aeb260ee11e5479d0c2d1f6`
+- 3.17 MB
+- sha256 `7c8ed08f5f25aa8b2f7cfe3422ff6a6179afad1cc73d9b20f40736059275d05a`
 - live copy: https://nighantu.ageayurveda.com/access.json
 
 ### `afi-crosswalk.csv`
@@ -220,8 +220,8 @@ The botanical taxonomy as Parquet.
 
 The research index as a table.
 
-- 0.86 MB, 2,892 data rows
-- sha256 `781c3482b8a7798182011ef86152fb91240eb5e48eec3d046539770be0b39259`
+- 0.86 MB, 2,888 data rows
+- sha256 `071e3404438e7b501f1f478ef70a030459f748478719343b90e7b1989b242707`
 - live copy: https://nighantu.ageayurveda.com/research.csv
 
 ### `research.json`
@@ -229,7 +229,7 @@ The research index as a table.
 Research papers cited across the site, each with its PubMed ID or DOI, the monographs that cite it, and a tier recording what kind of study it is rather than a verdict on it.
 
 - 1.71 MB
-- sha256 `0871c6c5b151aaf2bd53fa1586fcd1ea97a4375bfa32c06049f77e08f60fa39d`
+- sha256 `f91c32893e1be7dc5ec35b23def4687823fca932ddea4d22290973275d24b3fc`
 - live copy: https://nighantu.ageayurveda.com/research.json
 
 ### `taxonomy.json`

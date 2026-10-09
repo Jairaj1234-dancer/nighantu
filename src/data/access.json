@@ -7,14 +7,14 @@
  ],
  "note": "Each paper resolved to the most openly readable link available, with the rung recorded. Descriptions are the opening of the paper’s own abstract, quoted, never generated.",
  "summary": {
-  "papers": 2892,
+  "papers": 2888,
   "byRung": {
-   "doi-publisher": 1184,
-   "open-access-full-text": 1147,
+   "doi-publisher": 1182,
+   "open-access-full-text": 1145,
    "paywalled": 100,
    "pubmed-central": 461
   },
-  "withDescription": 2850
+  "withDescription": 2847
  },
  "papers": [
   {
@@ -5747,42 +5747,6 @@
     }
    ],
    "investigates": "We have evaluated the efficacy and tolerability of two food supplements (FS) containing flavonoids (naringin and hesperidin); same doses of B3, B6, B9 and B12 vitamins, and two different doses of a blend of Mentha spicata leaf extract and Amaranthus caudatus seed flour, in subjects with borderline high total (TC) and low-density lipoprotein cholesterol (LDL-C) levels."
-  },
-  {
-   "pmid": "40434025",
-   "doi": "10.1080/27697061.2025.2510474",
-   "title": "A Standardized Asparagus Racemosus Root Extract Improves Hormonal Balance and Menstrual Health and Reduces Vasomotor Symptoms in Perimenopausal Women: A Randomized, Double-Blind, Placebo-Controlled Study",
-   "journal": "Journal of the American Nutrition Association",
-   "year": 2025,
-   "authors": [
-    "Yadav P",
-    "Yadav S",
-    "Vedururu SS",
-    "Kumari G"
-   ],
-   "tier": "B",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "shatavari-ksheera",
-     "title": "Shatavari Ksheera",
-     "binomial": "asparagus racemosus"
-    },
-    {
-     "kind": "herb",
-     "slug": "shatavari",
-     "title": "Shatavari",
-     "binomial": "asparagus racemosus"
-    }
-   ],
-   "access": {
-    "rung": "doi-publisher",
-    "url": "https://doi.org/10.1080/27697061.2025.2510474",
-    "note": "publisher page via DOI, subscription likely required",
-    "paywalled": true
-   },
-   "alternates": [],
-   "investigates": "Perimenopausal women often experience dysmenorrhea, menstrual cramps, hormonal imbalances and vasomotor symptoms (VMS), significantly affecting their quality of life. In Ayurveda, Asparagus racemosus (Shatavari) root extract has been used for female reproductive health."
   },
   {
    "pmid": "40085302",
@@ -73155,52 +73119,6 @@
    "investigates": "Although World Health Organization-approved emergency vaccines are available in many countries, the mortality rate from COVID-19 remains high due to the fourth or fifth wave and the delta variant of the coronavirus."
   },
   {
-   "pmid": "36507453",
-   "doi": "10.3389/fpls.2022.1055825",
-   "title": "Corrigendum: Calliterpenone, a natural plant growth promoter from a medicinal plant Callicarpa macrophylla, sustainably enhances the yield and productivity of crops",
-   "journal": "Frontiers in plant science",
-   "year": 2022,
-   "authors": [
-    "Pandey P",
-    "Pandey SS",
-    "Awasthi A",
-    "Tripathi A",
-    "Singh HP",
-    "Singh AK",
-    "Tandon S",
-    "Kalra A"
-   ],
-   "tier": "D",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "priyangu",
-     "title": "Priyangu",
-     "binomial": "callicarpa macrophylla"
-    }
-   ],
-   "access": {
-    "rung": "open-access-full-text",
-    "url": "https://www.frontiersin.org/articles/10.3389/fpls.2022.1055825/pdf",
-    "note": "gold open access, publisher"
-   },
-   "alternates": [
-    {
-     "host": "publisher",
-     "url": "https://www.frontiersin.org/articles/10.3389/fpls.2022.1055825/pdf"
-    },
-    {
-     "host": "repository",
-     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/9733420"
-    },
-    {
-     "host": "repository",
-     "url": "https://doaj.org/article/972c9ec4b7d54c099428d2b5f9046fd9"
-    }
-   ],
-   "investigates": "[This corrects the article DOI: 10.3389/fpls.2022.960717.]."
-  },
-  {
    "pmid": "36311091",
    "doi": "10.3389/fpls.2022.951660",
    "title": "CRISPR/Cas9-mediated genome editing of RsGL1a and RsGL1b in radish (Raphanus sativus L.)",
@@ -81001,51 +80919,6 @@
     }
    ],
    "investigates": "The main objective of cancer treatment with chemotherapy is to kill the cancerous cells without affecting the healthy normal cells."
-  },
-  {
-   "pmid": "34888297",
-   "doi": "10.3389/fchem.2021.798461",
-   "title": "Corrigendum: Coronarin K and L: Two Novel Labdane Diterpenes From Roscoea purpurea: An Ayurvedic Crude Drug",
-   "journal": "Frontiers in chemistry",
-   "year": 2021,
-   "authors": [
-    "Singamaneni V",
-    "Lone B",
-    "Singh J",
-    "Kumar P",
-    "Gairola S",
-    "Singh S",
-    "Gupta P"
-   ],
-   "tier": "D",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "kakoli",
-     "title": "Kakoli",
-     "binomial": "roscoea purpurea"
-    }
-   ],
-   "access": {
-    "rung": "open-access-full-text",
-    "url": "https://www.frontiersin.org/articles/10.3389/fchem.2021.798461/pdf",
-    "note": "gold open access, publisher"
-   },
-   "alternates": [
-    {
-     "host": "publisher",
-     "url": "https://www.frontiersin.org/articles/10.3389/fchem.2021.798461/pdf"
-    },
-    {
-     "host": "repository",
-     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8650711"
-    },
-    {
-     "host": "repository",
-     "url": "https://doaj.org/article/6d406f56b2454a4a9e9c1d923adab44f"
-    }
-   ],
-   "investigates": "[This corrects the article DOI: 10.3389/fchem.2021.642073.]."
   },
   {
    "pmid": "33572569",
@@ -91727,31 +91600,6 @@
     }
    ],
    "investigates": "Formation of glutathionic conjugates with quinonoid forms generated through oxidation of betanidin and gomphrenin obtained from fruits of Basella alba L. was studied by high-performance liquid chromatography coupled with triple quadrupole tandem mass spectrometry (HPLC-DAD-ESI-MS/MS) and ion-trap time-of-flight high-resolution mass spectrometry (LCMS-IT-TOF)."
-  },
-  {
-   "pmid": "30156019",
-   "doi": "10.1111/nph.15402",
-   "title": "Corrigendum",
-   "journal": "The New phytologist",
-   "year": 2018,
-   "authors": [],
-   "tier": "D",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "yava",
-     "title": "Yava",
-     "binomial": "hordeum vulgare"
-    }
-   ],
-   "access": {
-    "rung": "doi-publisher",
-    "url": "https://doi.org/10.1111/nph.15402",
-    "note": "publisher page via DOI, subscription likely required",
-    "paywalled": true
-   },
-   "alternates": [],
-   "investigates": ""
   },
   {
    "pmid": "29904686",
