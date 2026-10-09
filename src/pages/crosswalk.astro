@@ -15,7 +15,7 @@
  */
 import Page from '../layouts/Page.astro';
 import crosswalk from '../data/afi-crosswalk.json';
-import { abs, rel } from '../lib/site';
+import { abs, rel, datasetIdentity } from '../lib/site';
 
 const data = crosswalk as any;
 const s = data.summary;
@@ -38,6 +38,7 @@ const jsonld = [
   {
     '@context': 'https://schema.org',
     '@type': 'Dataset',
+    ...datasetIdentity(),
     '@id': `${abs(canonical)}#dataset`,
     name: data.name,
     description: data.description,

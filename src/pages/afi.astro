@@ -22,7 +22,7 @@
 import Page from '../layouts/Page.astro';
 import composition from '../data/composition.json';
 import summary from '../data/composition-summary.json';
-import { abs, rel } from '../lib/site';
+import { abs, rel, datasetIdentity } from '../lib/site';
 
 const title = 'The Ayurvedic Formulary of India, entry by entry';
 const description = 'Every formulation transcribed from the Ayurvedic Formulary of India on this site, '
@@ -123,6 +123,7 @@ const jsonld = [
   {
     '@context': 'https://schema.org',
     '@type': 'Dataset',
+    ...datasetIdentity(),
     '@id': `${abs(canonical)}#dataset`,
     name: 'Formulary compositions',
     description,

@@ -2,7 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import dg from '../../data/dravyaguna.json';
-import { SITE_NAME, abs, rel } from '../../lib/site';
+import { SITE_NAME, abs, rel, datasetIdentity } from '../../lib/site';
 
 const { summary, entries, english, updatedAt } = dg as any;
 
@@ -13,6 +13,7 @@ const jsonld = [
   {
     '@context': 'https://schema.org',
     '@type': 'Dataset',
+    ...datasetIdentity(),
     '@id': `${abs('/dravyaguna/')}#dataset`,
     name: 'Age Ayurveda Nighantu Dravyaguna dataset',
     description,
@@ -123,7 +124,7 @@ const guna = facet('guna', summary.byGuna);
   <div class="tablewrap">
     <table>
       <thead>
-        <tr><th>Entry</th><th>Rasa</th><th>Virya</th><th>Vipaka</th><th>Guna</th></tr>
+        <tr><th scope="col">Entry</th><th scope="col">Rasa</th><th scope="col">Virya</th><th scope="col">Vipaka</th><th scope="col">Guna</th></tr>
       </thead>
       <tbody>
         {entries.map((e: any) => (

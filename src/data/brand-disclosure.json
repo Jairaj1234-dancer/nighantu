@@ -11,11 +11,11 @@
     "pagesRead": 6097,
     "pagesThatCouldNotBeRead": 2,
     "pagesRenderingClientSide": 11,
-    "pagesStatingADose": 2857,
-    "pagesStatingADoseQuantity": 1925,
+    "pagesStatingADose": 2866,
+    "pagesStatingADoseQuantity": 1934,
     "pagesGivingADirectionWithNoQuantity": 932,
     "pagesNamingIngredients": 1931,
-    "pagesStatingNeitherQuantityNorIngredients": 3262,
+    "pagesStatingNeitherQuantityNorIngredients": 3258,
     "pagesCitingTheFormulary": 3,
     "pagesCitingAnyAuthority": 312,
     "slugMatcherMissesFoundByTitle": 31,
@@ -142,7 +142,7 @@
         "pagesWithListOnly": 301,
         "pagesWithNeither": 650,
         "pagesUnreadable": 0,
-        "pagesStatingADose": 830,
+        "pagesStatingADose": 839,
         "pagesCitingTheFormulary": 0,
         "pagesCitingAnyAuthority": 0
       }

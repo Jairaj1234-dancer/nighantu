@@ -44,3 +44,30 @@ export const CRAWLERS = [
   'Google-Extended', 'Googlebot', 'Bingbot', 'Applebot', 'Applebot-Extended',
   'CCBot', 'Amazonbot', 'meta-externalagent', 'DuckAssistBot', 'cohere-ai',
 ];
+
+/**
+ * The project's persistent identifier, and what it actually identifies.
+ *
+ * This is a Zenodo CONCEPT DOI: it resolves to the deposit titled "Age Ayurveda Nighantu: a
+ * referenced encyclopedia of Ayurvedic materia medica", v1.0.0, whose single file is a 7.5 MB
+ * archive of the repository. So it identifies the WORK that contains every dataset here, not any
+ * one of them, and no dataset on this site has a DOI minted for it alone. That distinction is why
+ * `datasetIdentity` below emits the DOI alongside `isPartOf` pointing at the catalogue, rather
+ * than letting `identifier` imply a per-dataset mint it has not earned.
+ *
+ * Google's Dataset documentation names `identifier` as where to "attach any relevant Digital
+ * Object identifiers", and its documented consumers are Dataset Search, DataCite Commons and
+ * OpenAlex. Nine Dataset nodes on this site carried no identifier at all while the DOI sat on one
+ * page, which is the gap this closes.
+ */
+export const ZENODO_CONCEPT_DOI = '10.5281/zenodo.22805684';
+export const DOI_URL = `https://doi.org/${ZENODO_CONCEPT_DOI}`;
+
+/** The identity block every Dataset node on this site should carry. */
+export function datasetIdentity() {
+  return {
+    identifier: DOI_URL,
+    sameAs: DOI_URL,
+    isPartOf: { '@type': 'DataCatalog', '@id': `${abs('/datasets/')}#catalog` },
+  };
+}

@@ -2,7 +2,7 @@
 import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import { KINDS, SECTION_META } from '../lib/collections';
-import { SITE_NAME, PUBLISHER, STORE, TAGLINE, abs, rel, WIKIDATA_PUBLISHER} from '../lib/site';
+import { SITE_NAME, PUBLISHER, STORE, TAGLINE, abs, rel, WIKIDATA_PUBLISHER, datasetIdentity } from '../lib/site';
 
 const counts: Record<string, number> = {};
 for (const k of KINDS) counts[k] = (await getCollection(k)).length;
@@ -19,6 +19,7 @@ const jsonld = [
     // markup is the submission.
     '@context': 'https://schema.org',
     '@type': 'Dataset',
+    ...datasetIdentity(),
     '@id': `${abs('/')}#dataset`,
     name: 'Age Ayurveda Nighantu: a referenced encyclopedia of Ayurvedic materia medica',
     description:
