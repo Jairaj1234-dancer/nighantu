@@ -371,7 +371,7 @@
       "https://nighantu.ageayurveda.com/afi/": "456909e537ebe425",
       "https://nighantu.ageayurveda.com/choosing/": "f580af3e51fb64f1",
       "https://nighantu.ageayurveda.com/choosing/citing-the-classical-texts/": "5d4597c1d4525923",
-      "https://nighantu.ageayurveda.com/choosing/label-dose-against-the-formulary/": "817782a99876f358",
+      "https://nighantu.ageayurveda.com/choosing/label-dose-against-the-formulary/": "7260fb17b8c0c8a8",
       "https://nighantu.ageayurveda.com/choosing/one-herb-several-names/": "f72d167a5b6e01dc",
       "https://nighantu.ageayurveda.com/choosing/reading-a-formulation-label/": "f97151d859160682",
       "https://nighantu.ageayurveda.com/choosing/who-publishes-the-composition/": "8f2d83433829966d",
@@ -1603,8 +1603,8 @@
       "https://nighantu.ageayurveda.com/verification/safety-pass4/": "1bf221f544f3a78a",
       "https://nighantu.ageayurveda.com/verification/safety-repair-02/": "67c37029ef9f5beb"
     },
-    "lastSubmittedAt": "2026-10-09T19:45:29.318Z",
-    "lastSubmittedCount": 2,
+    "lastSubmittedAt": "2026-10-09T20:28:21.944Z",
+    "lastSubmittedCount": 1,
     "submitted": [
       "https://nighantu.ageayurveda.com/",
       "https://nighantu.ageayurveda.com/about/",
@@ -3609,6 +3609,6 @@
     "seen": 5,
     "surfaced": 0
   },
-  "updatedAt": "2026-10-09T19:45:29.319Z",
+  "updatedAt": "2026-10-09T20:28:21.944Z",
   "version": 1
 }
