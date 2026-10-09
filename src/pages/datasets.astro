@@ -11,6 +11,7 @@ import research from '../data/research.json';
 import taxonomy from '../data/taxonomy.json';
 import verification from '../data/verification.json';
 import safety from '../data/safety.json';
+import verseNumbering from '../data/verse-numbering.json';
 
 /**
  * Counts come from the datasets themselves. Typed-in figures on this page were already
@@ -37,6 +38,8 @@ const taxaCount = ((taxonomy as any).taxa ?? []).length;
  * that no permitted source covers this drug, which is a finding worth publishing and not an empty
  * profile.
  */
+const vn = (verseNumbering as any).summary;
+const vnOffsets = ((verseNumbering as any).offsetsObserved ?? []) as any[];
 const safetyAll = Object.values(((safety as any).records ?? {})) as any[];
 const safetySubstantive = safetyAll.filter((r) => !r.insufficientData).length;
 const safetyInsufficient = safetyAll.filter((r) => r.insufficientData).length;
@@ -51,6 +54,17 @@ const con = (conceptsData as any).summary;
 const cw = (crosswalk as any).summary;
 
 const datasets = [
+  {
+    id: 'verse-numbering',
+    name: 'Kaviratna and Bhishagratna Verse Numbering against the Standard Editions',
+    description: `The only public-domain English Charaka Samhita is Kaviratna's (1896-1913) and the only public-domain English Sushruta is Bhishagratna's (1907-1916). Both number their verses differently from the modern editions every paper cites, and the modern numbering is still in copyright, so a passage read in a free translation cannot be cited in the form scholars use. This records ${vn.publishedAsNumericPairs} verse equivalences between the two, every one of them a statement a source on this site already makes rather than a conversion computed here. There is no formula to replace it: across ${vnOffsets.length} chapters the difference runs from plus six to minus thirteen, two chapters are not internally constant, and some relations map several translator aphorisms onto one standard sutra.`,
+    rowCount: `${vn.publishedAsNumericPairs} verse equivalences · ${vnOffsets.length} chapters · ${vn.publishedAsHedged} further equivalences the sources state too loosely to number`,
+    browse: '/choosing/citing-the-classical-texts/',
+    formats: [
+      { ext: 'JSON', path: '/verse-numbering.json', mime: 'application/json' },
+      { ext: 'CSV', path: '/verse-numbering.csv', mime: 'text/csv' }
+    ]
+  },
   {
     id: 'crosswalk',
     name: 'Ayurvedic Formulary of India Ingredient Name Crosswalk',
