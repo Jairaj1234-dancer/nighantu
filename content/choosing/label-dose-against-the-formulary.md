@@ -519,6 +519,19 @@ dose and where the manufacturer states one in a comparable form, which is 129 pa
 fraction of what these companies sell. It reads product pages and not labels, and a printed label
 may state something the website does not.
 
+**And the coverage is limited by our own instrument, not only by what companies publish.** Products
+are found by matching the 101 formulary names against a product page's URL, so a company selling
+Abhayarishta at `/product/12345` is invisible to it. That is measured rather than assumed: of 53
+surveyed hosts whose URLs named no formulary preparation at all, 34 could be sampled further, and on
+**7 of those 34 a page title named a preparation the URL did not**. Lama Pharmaceuticals sells
+Sariwadyasav and Triphala Guggulu, Everest Ayurveda sells Amrutharishta, SKM sells Chyavanaprasham,
+and none of those URLs say so.
+
+So the right reading of a company's absence from this page is "we did not find its formulary
+products", never "it has none". The miss rate is roughly one host in five, the full test is in
+[/manufacturer-register.json](/manufacturer-register.json)'s companion check, and the regional
+spellings are a large part of why: Abhayarist, Sariwadyasav, Khadiradi Bati, Kanchnar Guggul.
+
 And it rests on a transcription. The formulary figures come from this project's own reading of the
 Ayurvedic Formulary of India, cited to part and entry so anyone can check them against the book.
 

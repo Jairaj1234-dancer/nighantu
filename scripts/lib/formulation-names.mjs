@@ -1,3 +1,6 @@
+import fs from 'node:fs';
+import path from 'node:path';
+
 /**
  * Recognise a classical formulation by the name a manufacturer happens to print.
  *
@@ -187,6 +190,35 @@ export const findRun = (candidateTokens, targetTokens, candidateStems = candidat
  * position 1, and the product would appear on two pages with two different compositions, one of
  * them wrong. This project has already had to correct a page for exactly that confusion.
  */
+/**
+ * The 101 formulary slugs with every name each is known by, which is what buildMatcher consumes.
+ *
+ * MOVED HERE from scripts/brand-catalogue.mjs. It lived in the collector, which now refuses to run
+ * from an import because importing it to reach a constant starts a crawl. That guard is right, and
+ * the consequence is that anything two scripts both need belongs in this directory instead. A
+ * second script needed exactly this loader and the matcher it feeds, and duplicating it would have
+ * given the two callers different ideas of what counts as a formulary name.
+ */
+export const loadFormulations = () => {
+  const comp = JSON.parse(fs.readFileSync(path.join('src', 'data', 'composition.json'), 'utf8'));
+  const out = [];
+  for (const slug of Object.keys(comp.records ?? {})) {
+    const file = path.join('content', 'formulation', `${slug}.md`);
+    const names = new Set();
+    if (fs.existsSync(file)) {
+      const fm = fs.readFileSync(file, 'utf8');
+      const title = fm.match(/^title:\s*"([^"]+)"/m)?.[1];
+      if (title) names.add(title);
+      const aliases = fm.match(/^aliases:\s*(\[[^\]]*\])/m)?.[1];
+      if (aliases) { try { for (const a of JSON.parse(aliases)) names.add(a); } catch { /* ignore */ } }
+    }
+    // The slug is a name too, and sometimes the only one that carries the regional spelling.
+    names.add(slug.replace(/-/g, ' '));
+    out.push({ slug, names: [...names] });
+  }
+  return out;
+};
+
 export const buildMatcher = (formulations) => {
   const targets = [];
   for (const f of formulations) {

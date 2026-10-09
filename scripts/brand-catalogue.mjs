@@ -42,7 +42,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fetchRobots, groupFor, isAllowed } from './lib/robots.mjs';
 import { Fetcher, parseSitemap } from './lib/fetcher.mjs';
-import { buildMatcher } from './lib/formulation-names.mjs';
+import { buildMatcher, loadFormulations } from './lib/formulation-names.mjs';
 import { extractProduct } from './lib/product-extract.mjs';
 
 const ROBOTS_ONLY = process.argv.includes('--robots');
@@ -320,25 +320,6 @@ if (ROBOTS_ONLY) {
  * and its aliases. All 101, not a hand-picked shortlist, because which of them a company actually
  * sells is a finding and should not be assumed on the way in.
  */
-const loadFormulations = () => {
-  const comp = JSON.parse(fs.readFileSync(path.join('src', 'data', 'composition.json'), 'utf8'));
-  const out = [];
-  for (const slug of Object.keys(comp.records ?? {})) {
-    const file = path.join('content', 'formulation', `${slug}.md`);
-    const names = new Set();
-    if (fs.existsSync(file)) {
-      const fm = fs.readFileSync(file, 'utf8');
-      const title = fm.match(/^title:\s*"([^"]+)"/m)?.[1];
-      if (title) names.add(title);
-      const aliases = fm.match(/^aliases:\s*(\[[^\]]*\])/m)?.[1];
-      if (aliases) { try { for (const a of JSON.parse(aliases)) names.add(a); } catch { /* ignore */ } }
-    }
-    // The slug is a name too, and sometimes the only one that carries the regional spelling.
-    names.add(slug.replace(/-/g, ' '));
-    out.push({ slug, names: [...names] });
-  }
-  return out;
-};
 
 const FORMULATIONS = loadFormulations();
 const matchName = buildMatcher(FORMULATIONS);
