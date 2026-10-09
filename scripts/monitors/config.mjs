@@ -49,32 +49,54 @@ export const COMPETITORS = [
 ];
 
 /**
- * The seven companies named in the composition-disclosure comparison.
+ * The fifteen companies named in the composition-disclosure comparison.
  *
  * That page states what each company's own product pages published on the date they were read,
- * and offers to correct an error including where the correction favours a competitor. Those
- * pages change and our figures do not, so the promise rots unless something watches. One
- * representative page per company, with the state we recorded against it, is enough to tell us
- * the survey has gone stale; re-running all 210 fetches is a scheduled job, not a monitor.
+ * and offers to correct an error including where the correction favours a competitor. Those pages
+ * change and our figures do not, so the promise rots unless something watches. One representative
+ * page per company is enough to tell us the survey has gone stale; re-reading all 5,995 is a
+ * scheduled job, not a monitor.
  *
- * `expect` is the state the page claims, not the state we saw last run, so a change is reported
- * as "the page is now wrong" on the first pass rather than needing two. Each URL is one that was
- * itself in that state, not merely one of several pages aggregated into it.
+ * This list covered SEVEN companies while the page named fifteen, which is worse than not watching
+ * at all: it looks like the promise is kept and keeps it for under half of them. Widening the
+ * survey and not widening the watch was one change, and I made only half of it.
+ *
+ * THE WATCHED PAGE IS ONE IN THE COMPANY'S MODAL STATE, meaning whatever it does on most of its
+ * pages. That is the thing that would change if the company changed how it publishes, and it makes
+ * the probe informative in both directions: Shree Dhootapapeshwar is watched on a page carrying
+ * quantities, so we hear if it stops, and Patanjali on one carrying nothing, so we hear if it
+ * starts. A formulary-name product is preferred where the company sells one. Five of these
+ * companies sell none, so their watched page is necessarily a proprietary product; that is a
+ * limitation of the probe and not of the company.
+ *
+ * `expect` is the state the page claims, not the state we saw last run, so a change is reported as
+ * "the page is now wrong" on the first pass rather than needing two.
  *
  * Age Ayurveda is in this list on the same terms as everyone else. We are the company the
- * comparison records as publishing nothing, so a monitor that skipped us would be measuring only
- * other people's drift.
+ * comparison records as publishing nothing against a formulary name, so a monitor that skipped us
+ * would be measuring only other people's drift.
  */
 export const DISCLOSURE_AGENT = 'NighantuBot';
 
 export const DISCLOSURE_WATCH = [
-  { id: 'patanjali', company: 'Patanjali Ayurved', url: 'https://www.patanjaliayurved.net/product/combo-offers/combos/combo-special-chyawanprash-1-kg-pack-of-2/7067', expect: 'quantities' },
+  { id: 'sna', company: 'SNA Oushadhasala', url: 'https://www.snaoushadhasala.com/product/pindatailam-cream-kN7vak', expect: 'neither' },
+  { id: 'patanjali', company: 'Patanjali Ayurved', url: 'https://www.patanjaliayurved.net/product/ayurvedic-medicine/arishta/divya-kutajarista/85', expect: 'neither' },
+  { id: 'himalaya', company: 'Himalaya Wellness', url: 'https://himalayawellness.in/products/complete-care-toothpaste', expect: 'list' },
+  { id: 'avp', company: 'The Arya Vaidya Pharmacy, Coimbatore', url: 'https://avpayurveda.com/products/dhanwantharam-thailam-balm-to-relieve-joint-and-muscle-pain', expect: 'neither' },
+  { id: 'sitaram', company: 'Sitaram Ayurveda', url: 'https://sitaramayurveda.com/products/abhayarishtam', expect: 'neither' },
+  { id: 'avn', company: 'AVN Ayurveda', url: 'https://www.avnayurveda.com/product/chyavanaprasam/', expect: 'neither' },
   { id: 'sdl', company: 'Shree Dhootapapeshwar', url: 'https://www.sdlindia.com/products/chyavanprash-ashtavarga', expect: 'quantities' },
-  { id: 'dabur', company: 'Dabur', url: 'https://www.dabur.com/our-brand/dabur-chyawanprash', expect: 'list' },
-  { id: 'zandu', company: 'Zandu', url: 'https://zanducare.com/products/zandu-chyavanprash-avaleha-900g-pack-of-2', expect: 'list' },
-  { id: 'baidyanath', company: 'Baidyanath', url: 'https://www.baidyanathayurved.com/products/baidyanath-chyawanprash-jaggery-750gm', expect: 'neither' },
   { id: 'maharishi', company: 'Maharishi Ayurveda', url: 'https://maharishiayurvedaindia.com/products/abhyarishta-for-treatment-of-constipation-450ml', expect: 'neither' },
+  { id: 'keralaayurveda', company: 'Kerala Ayurveda', url: 'https://keralaayurveda.com/products/abhayarishta', expect: 'list' },
+  { id: 'baidyanath', company: 'Baidyanath', url: 'https://www.baidyanathayurved.com/products/baidyanath-kanchnar-guggulu-160-tablets', expect: 'neither' },
+  { id: 'zandu', company: 'Zandu', url: 'https://zanducare.com/products/zandu-chyavanprash-avaleha-900g-pack-of-2', expect: 'list' },
+  { id: 'charak', company: 'Charak Pharma', url: 'https://charak.com/products/extrammune-syrup', expect: 'neither' },
+  { id: 'sandu', company: 'Sandu Pharmaceuticals', url: 'https://sandu.in/product/msk-plus-450ml-amritarishtha-450ml/', expect: 'neither' },
+  { id: 'dabur', company: 'Dabur', url: 'https://www.dabur.com/our-brand/dabur-ashokarishta', expect: 'list' },
   { id: 'ageayurveda', company: 'Age Ayurveda', url: 'https://ageayurveda.com/products/chyawanprash', expect: 'neither' },
+  // Added with wave 3. Oushadhi is the Government of Kerala manufacturer and the third most
+  // forthcoming company in the survey, so its modal page is one that carries quantities.
+  { id: 'oushadhi', company: 'Oushadhi', url: 'https://www.oushadhi.org/product/abhayarishtam', expect: 'quantities' },
 ];
 
 /** Numbers and spec words worth noticing a change in. */

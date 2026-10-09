@@ -169,8 +169,28 @@ for (const p of pages) {
      * the same class of error as the one this check exists to find.
      */
     const dir = segs.length > 1 ? segs[segs.length - 2] : '';
-    const entry = LEDGER[`${dir}/${pslug}`]
-      ?? Object.entries(LEDGER).filter(([k]) => k.endsWith(`/${pslug}`)).map(([, v]) => v)[0];
+
+    /**
+     * Routes DATED FROM THEIR DATASET, which the ledger does not key and must not be compared to.
+     *
+     * The ledger covers content/ and guides/, the hand-written material. /lexicon/ and /concept/
+     * are generated from corpora that record their own export date, so they stamp that date and
+     * have no ledger entry at all. The endsWith fallback below then resolved `/lexicon/amla/` to
+     * the ledger entry for `herb/amla` — a different page that happens to share a slug — and
+     * accused five lexicon pages of a mismatch they could not have. Precisely the error this check
+     * exists to find, committed by the check itself, for the second time: the brahma-rasayana and
+     * shirodhara collisions above are the same shape.
+     *
+     * The fallback cannot simply go, because it is load-bearing for the guides: /shirodhara/x/ is
+     * keyed `guide/x` and its directory never matches. So the data-dated directories are named
+     * instead, which is the honest statement of where the ledger's authority ends.
+     */
+    const DATA_DATED = new Set(['lexicon', 'concept']);
+
+    const entry = DATA_DATED.has(dir)
+      ? null
+      : LEDGER[`${dir}/${pslug}`]
+        ?? Object.entries(LEDGER).filter(([k]) => k.endsWith(`/${pslug}`)).map(([, v]) => v)[0];
     const candidates = Object.entries(LEDGER).filter(([k]) => k.endsWith(`/${pslug}`));
     // Only assert when the key is unambiguous or the directory resolved it.
     if (entry && (LEDGER[`${dir}/${pslug}`] || candidates.length === 1)

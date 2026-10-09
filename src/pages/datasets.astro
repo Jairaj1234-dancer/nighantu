@@ -116,11 +116,25 @@ const datasets = [
   }
 ];
 
+/**
+ * The concept DOI, stated once and used in both the prose and the markup.
+ *
+ * Two independent research passes in October 2026 found the same defect: the page claimed a
+ * "persistent research DOI" and never printed it, and no Dataset node carried an `identifier`.
+ * Google's Dataset documentation says to "use the identifier property to attach any relevant
+ * Digital Object identifiers", and the documented consumers of that are Dataset Search, DataCite
+ * Commons and OpenAlex. It is one of the few things in this whole area with a named consumer
+ * rather than a vendor assertion behind it.
+ */
+const ZENODO_CONCEPT_DOI = '10.5281/zenodo.22805684';
+
 const jsonld = [
   {
     '@context': 'https://schema.org',
     '@type': 'DataCatalog',
     '@id': `${abs('/datasets/')}#catalog`,
+    identifier: `https://doi.org/${ZENODO_CONCEPT_DOI}`,
+    sameAs: `https://doi.org/${ZENODO_CONCEPT_DOI}`,
     name: 'Age Ayurveda Nighantu Data Catalog',
     description,
     url: abs('/datasets/'),
@@ -134,6 +148,9 @@ const jsonld = [
       '@id': `${abs('/datasets/')}#${d.id}`,
       name: d.name,
       description: d.description,
+      url: abs((d as any).browse ?? '/datasets/'),
+      identifier: `https://doi.org/${ZENODO_CONCEPT_DOI}`,
+      isAccessibleForFree: true,
       license: 'https://creativecommons.org/licenses/by/4.0/',
       creator: {
         '@type': 'Organization',
@@ -177,15 +194,27 @@ const jsonld = [
     </section>
   ))}
 
-  <h2>Hugging Face & Zenodo Access</h2>
+  <h2>Archive, identifier and licence</h2>
   <p>
-    The consolidated corpus is also hosted in Apache Parquet format on the Hugging Face Hub and archived with a persistent Concept DOI on Zenodo.
+    The corpus is archived on Zenodo under a concept DOI, which always resolves to the newest
+    deposit. Cite that one unless you need a specific version.
   </p>
   <ul>
-    <li><strong>Hugging Face Dataset:</strong> <code>ageayurveda/nighantu</code> (supports direct streaming with <code>datasets.load_dataset("ageayurveda/nighantu")</code>)</li>
-    <li><strong>Zenodo Archive:</strong> Persistent research DOI archive under Concept DOI versioning.</li>
+    <li>
+      <strong>Concept DOI:</strong>
+      <a href={`https://doi.org/${ZENODO_CONCEPT_DOI}`} rel="noopener">{ZENODO_CONCEPT_DOI}</a>
+      (all versions)
+    </li>
     <li><strong>Licensing:</strong> Creative Commons Attribution 4.0 International (CC BY 4.0). Derived in part from the Amidha Ayurveda Herb Database.</li>
   </ul>
+  <p class="disclaimer">
+    An earlier version of this page advertised a Hugging Face dataset at
+    <code>ageayurveda/nighantu</code> and a <code>load_dataset</code> call for it. That repository
+    is not public: the request returns 401, so the call never worked for anyone but us. The claim
+    is removed rather than left standing, because a dataset page that misstates how to get the
+    data is the one thing a data consumer tests first. The files above are the whole corpus and
+    need no account.
+  </p>
 
   <h2>What is in every record</h2>
   <p>
@@ -206,11 +235,20 @@ const jsonld = [
   <h2>Citation & Academic Attribution</h2>
   <p>If you use these datasets in academic research, AI model training, or retrieval-augmented generation systems, please cite:</p>
   <pre style="padding: 1rem; background: var(--surface-2, #f7fafc); border-radius: 6px; overflow-x: auto;"><code>@dataset&#123;age_ayurveda_nighantu_2026,
-  author       = &#123;Age Ayurveda Research Panel and Amidha Ayurveda&#125;,
+  author       = &#123;Age Ayurveda&#125;,
   title        = &#123;Age Ayurveda Nighantu: Open Classical Materia Medica and Dravyaguna Dataset&#125;,
   year         = 2026,
-  publisher    = &#123;Age Ayurveda / Zenodo / Hugging Face&#125;,
+  publisher    = &#123;Zenodo&#125;,
+  doi          = &#123;{ZENODO_CONCEPT_DOI}&#125;,
   license      = &#123;CC BY 4.0&#125;,
   url          = &#123;https://nighantu.ageayurveda.com/datasets/&#125;
 &#125;</code></pre>
+  <p class="disclaimer">
+    Three things in this citation were wrong and are corrected. It named Hugging Face as a
+    publisher of a repository that is not public. It omitted the DOI, which is the only part of a
+    dataset citation that is designed to keep working. And it credited "Age Ayurveda Research Panel
+    and Amidha Ayurveda" as authors, while the Zenodo record and CITATION.cff both say
+    "Age Ayurveda": Amidha is an upstream CC BY source this work attributes, not an author of it.
+    One creator string now, matching the archive.
+  </p>
 </Page>

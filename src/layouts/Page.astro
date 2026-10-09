@@ -1,14 +1,77 @@
 ---
+/**
+ * The layout for hand-built hub pages: /concept/, /lexicon/, /afi/ and the rest.
+ *
+ * TWO SIGNALS WERE MISSING HERE AND PRESENT ON THE MONOGRAPHS, which is the wrong way round: these
+ * are the pages a reader or an engine lands on first.
+ *
+ *   BreadcrumbList. The visible breadcrumb was rendered by Crumbs and never described in JSON-LD,
+ *   so the hierarchy a reader could see was invisible to anything parsing the page. The monograph
+ *   layout emitted it; this one did not. It is derived from the same `trail` that renders, so the
+ *   two cannot disagree.
+ *
+ *   dateModified. A reference work's whole claim is that its material is dated and sourced, and
+ *   this site keeps a whole committed ledger to avoid stamping build-time dates. These pages
+ *   stamped nothing at all, which is the opposite failure: not a false date, but no date, on pages
+ *   generated from datasets that know exactly when they were exported. `updated` takes that date.
+ */
 import Base from './Base.astro';
 import Crumbs from '../components/Crumbs.astro';
-import { SITE_NAME } from '../lib/site';
+import { SITE_NAME, abs } from '../lib/site';
 
-interface Props { title: string; description: string; canonical: string; lede?: string; jsonld?: Record<string, unknown> | Record<string, unknown>[] }
-const { title, description, canonical, lede, jsonld } = Astro.props;
+interface Props {
+  title: string;
+  description: string;
+  canonical: string;
+  lede?: string;
+  /** Breadcrumb trail, excluding the site root. Defaults to this page alone. */
+  trail?: { label: string; href?: string }[];
+  /** The date the data behind this page was last exported, as YYYY-MM-DD. */
+  updated?: string;
+  jsonld?: Record<string, unknown> | Record<string, unknown>[];
+}
+const { title, description, canonical, lede, trail, updated, jsonld } = Astro.props;
+
+const crumbs = trail ?? [{ label: title }];
+
+const nodes: Record<string, unknown>[] = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    '@id': `${abs(canonical)}#breadcrumbs`,
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Nighantu', item: abs('/') },
+      ...crumbs.map((t, i) => ({
+        '@type': 'ListItem',
+        position: i + 2,
+        name: t.label,
+        ...(t.href ? { item: abs(t.href) } : { item: abs(canonical) }),
+      })),
+    ],
+  },
+];
+
+if (updated) {
+  nodes.push({
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    '@id': `${abs(canonical)}#webpage`,
+    url: abs(canonical),
+    name: title,
+    description,
+    dateModified: updated,
+    inLanguage: 'en',
+    isPartOf: { '@id': `${abs('/')}#website` },
+    publisher: { '@id': `${abs('/')}#organization` },
+    license: 'https://creativecommons.org/licenses/by/4.0/',
+  });
+}
+
+const all = [...nodes, ...(Array.isArray(jsonld) ? jsonld : jsonld ? [jsonld] : [])];
 ---
-<Base title={`${title} · ${SITE_NAME}`} description={description} canonical={canonical} jsonld={jsonld}>
+<Base title={`${title} · ${SITE_NAME}`} description={description} canonical={canonical} jsonld={all}>
   <article>
-    <Crumbs trail={[{ label: title }]} />
+    <Crumbs trail={crumbs} />
     <h1>{title}</h1>
     {lede && <p class="lede">{lede}</p>}
     <div class="prose"><slot /></div>

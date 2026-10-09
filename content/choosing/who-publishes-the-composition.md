@@ -3,27 +3,29 @@ title: "Which Ayurvedic manufacturers publish what is in the bottle"
 slug: "who-publishes-the-composition"
 kind: "choosing"
 order: 3
-description: "A classical Ayurvedic preparation has an official composition. Whether you can check a product against it depends entirely on which company made it. Measured on 2,979 product pages across nine companies."
-answer: "Classical Ayurvedic preparations have an official composition in the Ayurvedic Formulary of India, which fixes both the ingredients and their quantities. Whether a manufacturer publishes enough for you to check one varies enormously. Across 2,979 product pages on nine companies, Shree Dhootapapeshwar named ingredients on 89% and Patanjali Ayurved on 54%, against 6% for Baidyanath and 1% for Charak Pharma. Quantities are rarer than lists. This measures disclosure, not quality."
+description: "A classical Ayurvedic preparation has an official composition. Whether you can check a product against it depends entirely on which company made it. Measured on 6,097 product pages across 16 companies."
+answer: "Classical Ayurvedic preparations have an official composition in the Ayurvedic Formulary of India, which fixes both the ingredients and their quantities. Whether a manufacturer publishes enough for you to check one depends entirely on which company made it. Across 6,097 product pages on 16 companies, Shree Dhootapapeshwar named ingredients on 89% and Zandu on 77%, against 3% for SNA Oushadhasala and none at all for Sandu Pharmaceuticals. This measures disclosure, not quality."
 ownMeasurement: true
 grounding:
   - "The formulary compositions this page compares against are the transcriptions published on this site, each checked row by row against the Ayurvedic Formulary of India and cited to part and entry number."
-  - "The per-company figures are counts of what each company's own product pages carried when this crawler read them on 8 October 2026, recorded in src/data/brand-disclosure.json with the page URL against every count. No figure published by any company is restated here."
+  - "The per-company figures are counts of what each company's own product pages carried when this crawler read them, published in full at /brand-disclosure.json, with the page URL recorded against every count so any company named here can check its own row. No figure published by any company is restated here."
   - "Every host's robots.txt was fetched and parsed before any product page, and a host that declined was not fetched. The permission result travels with each record."
-  - "Two populations are counted and kept apart: every product on each permitted host, and the subset sold under one of the 101 formulary names transcribed here. Each table says which it is."
+  - "Two populations are counted and kept apart: every product on each permitted host, read on 9 October 2026, and the subset sold under one of the 101 formulary names transcribed here, read on 8 October 2026. Each table says which it is."
 faq:
   - q: "Do Ayurvedic companies have to publish the ingredients of a classical preparation?"
-    a: "The label is regulated, and that is a different surface from the website. Nothing requires a manufacturer to publish the composition on its product page, and 1,507 of the 2,979 pages read did not. It is clearly possible to do: one company named ingredients on 89% of its range and gave a quantity against each on 76%."
+    a: "The label is regulated, and that is a different surface from the website. Nothing requires a manufacturer to publish the composition on its product page, and 4,166 of the 6,097 pages read did not. It is clearly possible to do: one company named ingredients on 89% of its range and gave a quantity against each on 76%."
   - q: "Which Ayurvedic brand lists the most ingredient information online?"
-    a: "Of the nine companies whose pages could be read on 8 October 2026, Shree Dhootapapeshwar published the most: an ingredient list on 243 of its 272 product pages and a quantity against each ingredient on 208 of them. Patanjali Ayurved published quantities on the most pages in absolute terms, 449. Neither fact says anything about the quality of either company's products."
+    a: "Of the 16 companies whose pages could be read, Shree Dhootapapeshwar published the most as a share of its range: an ingredient list on 246 of its 277 product pages and a quantity against each ingredient on 211. Patanjali Ayurved published quantities on the most pages in absolute terms, 449 of 1,400. Oushadhi, owned by the Government of Kerala, is the only company that gave a quantity on every page where it gave a list at all, 66 of 66. Neither fact says anything about the quality of any of these companies' products."
   - q: "If a company publishes no ingredient list, is the product worse?"
     a: "No, and this page is careful not to imply it. Disclosure and quality are separate. A company that publishes nothing may make an excellent preparation and a company that publishes everything may not. What disclosure changes is whether you, or a pharmacist, or an answer engine, can check a product against the formulary entry it claims."
+  - q: "Do the old classical Ayurvedic pharmacies document their products better than the consumer brands?"
+    a: "No, and this measurement was run expecting the opposite. The classical houses whose whole proposition is the formulary preparation are among the least forthcoming: The Arya Vaidya Pharmacy published an ingredient list on 1 of 413 product pages, SNA Oushadhasala on 12 of 473, Sandu Pharmaceuticals on none of 123, AVN Ayurveda on 15 of 289. Shree Dhootapapeshwar and Oushadhi, also classical pharmacies, are the two most forthcoming companies in the survey by quantity disclosure. So disclosure tracks the individual company and not the segment."
   - q: "Why can some Ayurvedic products not be found by AI assistants at all?"
-    a: "Some manufacturers' robots.txt files decline AI crawlers. One of the twelve companies surveyed here declines every AI crawler tested while allowing Googlebot, which means no answer engine can read its product pages and therefore none can cite it for its own products. That is a choice each company makes, and it has the consequence that a third party becomes the only citable source about their catalogue."
+    a: "Some manufacturers decline AI crawlers in robots.txt. One of the 20 companies surveyed here declines every AI crawler tested while allowing Googlebot, so no answer engine can read its product pages and none can cite it for its own products. Another, Kerala Ayurveda, names the same crawlers in order to allow them explicitly. Two more are unreachable for duller reasons: one publishes no individual product pages at all, and one has no sitemap and both catalogue links on its own home page return 404."
   - q: "What does 'as per AFI' mean if the ingredients are not published?"
-    a: "It claims that the recipe and method are the formulary's. Without a published ingredient list there is nothing on the page to check that claim against, so it has to be taken on trust. It is worth knowing how seldom the claim is even made on a product page: 3 of the 2,979 pages read name the Ayurvedic Formulary of India, and 41 cite any authority at all."
+    a: "It claims that the recipe and method are the formulary's. Without a published ingredient list there is nothing on the page to check that claim against, so it has to be taken on trust. It is worth knowing how seldom the claim is even made on a product page: 3 of the 6,097 pages read name the Ayurvedic Formulary of India, and 312 cite any authority at all."
   - q: "Do Ayurvedic product pages say how much to take?"
-    a: "Far more often than they say what is in it. Of 2,979 pages read, 2,406 stated a dose and 1,472 named their ingredients. A reader is roughly 60% more likely to be told how much of something to take than what that something contains."
+    a: "Far more often than they say what is in it. Of 6,097 pages read, 3,792 stated a dose and 1,931 named their ingredients. A reader is about twice as likely to be told how much of something to take than what that something contains."
 
 ---
 
@@ -53,12 +55,11 @@ company's own sitemap and each product page was read once, with a gap of at leas
 half between requests to any one host and any stated `Crawl-delay` honoured.
 
 **Two populations, counted separately, because they answer different questions.** The first is
-every product on each permitted host, classical and proprietary alike: 2,979 pages read of 2,993
-attempted. That is the figure that is a fact about a company. The second is the subset sold under
-one of the 101 formulary names transcribed on this site: 210 pages. That is the figure that bears
-on whether a product can be checked against the entry it claims, which is what this page is about.
-For most companies the two agree closely. For two of them they do not, and the tables below show
-both rather than picking one.
+every product on each permitted host, classical and proprietary alike: **6,097 pages read of 6,099
+attempted**. That is the figure that is a fact about a company. The second is
+the subset sold under one of the 101 formulary names transcribed on this site, **503 pages**. That is the figure that bears on whether a product can be checked against the
+entry it claims, which is what this page is about. For most companies the two agree closely. For
+two of them they do not, and the tables below show both rather than picking one.
 
 Each page falls into one of four states, and the distinction between the second and the third is
 the whole point:
@@ -71,11 +72,10 @@ the whole point:
 - **Neither.** The page carried substantial readable text and no ingredient list in it.
 - **Could not be read.** The page served almost no text, which means its content renders in the
   browser rather than in the HTML. That is a fact about a company's stack and not about its
-  disclosure, so it is never merged into the one above. Ten pages on one host are in this state.
+  disclosure, so it is never merged into the one above. 11 pages on two hosts are in this state.
 
-Fourteen pages of the 2,993 could not be fetched at all: timeouts and failed connections across
-three hosts, none of them refusals. They are excluded from every count rather than counted as
-publishing nothing.
+Two pages of the 6,099 could not be fetched at all. They are excluded from every count rather than
+counted as publishing nothing.
 
 <!-- BEGIN generated by scripts/brand-disclosure.mjs -->
 
@@ -88,14 +88,21 @@ This is the figure that is a fact about the company.
 
 | Company | Product pages read | Ingredients and quantities | Ingredient list only | Neither | Could not be read |
 | --- | --- | --- | --- | --- | --- |
-| Patanjali Ayurved | 1394 | 449 | 301 | 644 | 0 |
+| Patanjali Ayurved | 1400 | 449 | 301 | 650 | 0 |
+| SNA Oushadhasala | 473 | 10 | 2 | 461 | 0 |
 | Himalaya Wellness | 441 | 44 | 237 | 160 | 0 |
-| Shree Dhootapapeshwar | 272 | 208 | 35 | 19 | 10 |
-| Maharishi Ayurveda | 248 | 7 | 10 | 231 | 0 |
+| The Arya Vaidya Pharmacy, Coimbatore | 413 | 0 | 1 | 412 | 0 |
+| Sitaram Ayurveda | 383 | 4 | 184 | 195 | 0 |
+| AVN Ayurveda | 289 | 12 | 3 | 274 | 0 |
+| Shree Dhootapapeshwar | 277 | 211 | 35 | 20 | 11 |
+| Maharishi Ayurveda | 251 | 7 | 10 | 234 | 0 |
+| Kerala Ayurveda | 248 | 4 | 170 | 74 | 0 |
 | Baidyanath | 246 | 1 | 14 | 231 | 0 |
 | Zandu | 134 | 45 | 58 | 31 | 0 |
+| Sandu Pharmaceuticals | 123 | 0 | 0 | 123 | 0 |
 | Charak Pharma | 113 | 0 | 1 | 112 | 0 |
 | Dabur | 102 | 1 | 57 | 44 | 0 |
+| Oushadhi | 88 | 66 | 0 | 22 | 0 |
 | Age Ayurveda (ours) | 29 | 3 | 1 | 25 | 0 |
 
 </div>
@@ -111,80 +118,123 @@ against the entry it claims, and for two companies it is markedly higher than th
 | Company | Product pages read | Ingredients and quantities | Ingredient list only | Neither | Could not be read |
 | --- | --- | --- | --- | --- | --- |
 | Patanjali Ayurved | 53 | 15 | 33 | 5 | 0 |
+| SNA Oushadhasala | 36 | 1 | 0 | 35 | 0 |
 | Himalaya Wellness | none: sells nothing under a formulary name | | | | |
+| The Arya Vaidya Pharmacy, Coimbatore | 66 | 0 | 0 | 66 | 0 |
+| Sitaram Ayurveda | 68 | 0 | 34 | 34 | 0 |
+| AVN Ayurveda | 47 | 0 | 0 | 47 | 0 |
 | Shree Dhootapapeshwar | 32 | 28 | 0 | 4 | 0 |
 | Maharishi Ayurveda | 54 | 1 | 0 | 53 | 0 |
+| Kerala Ayurveda | 36 | 0 | 30 | 6 | 0 |
 | Baidyanath | 59 | 0 | 4 | 55 | 0 |
 | Zandu | 3 | 1 | 2 | 0 | 0 |
+| Sandu Pharmaceuticals | 30 | 0 | 0 | 30 | 0 |
 | Charak Pharma | none: sells nothing under a formulary name | | | | |
 | Dabur | 8 | 0 | 4 | 4 | 0 |
+| Oushadhi | 10 | 8 | 0 | 2 | 0 |
 | Age Ayurveda (ours) | 1 | 0 | 0 | 1 | 0 |
 
 </div>
 
-Three further companies were surveyed and
+Four further companies were surveyed and
 contributed no measured page. Each reason is itself a finding.
 
 - **Arya Vaidya Sala Kottakkal**: its robots.txt declines this crawler, and declines every AI crawler tested except Googlebot, so nothing was fetched.
-- **Unjha Pharmacy**: no readable sitemap was found, so its catalogue could not be enumerated.
-- **Vaidyaratnam Oushadhasala**: no readable sitemap was found, so its catalogue could not be enumerated.
+- **Nagarjuna Herbal Concentrates**: its sitemap is readable and lists no individual product page at all, only category listings, so there is no product page of theirs for a composition to appear on.
+- **Unjha Pharmacy**: no sitemap was found, and all 2 catalogue links on its own home page return 404, so its catalogue cannot be reached from its own site.
+- **Vaidyaratnam Oushadhasala**: its catalogue lists its products as top-level page names that cannot be told apart from its ordinary site pages, so its individual product pages could not be identified here. This is a limit of our own matching, not a statement about what it publishes.
 
 ### What each company published, by preparation
 
 Only the preparations sold under a formulary name by three or more of the companies read,
-which is 28 of them. The second column is the formulary entry itself, as transcribed
+which is 63 of them. The second column is the formulary entry itself, as transcribed
 and published on this site, which is the thing any of these products can be checked against.
 
 <div class="tablewrap wide-table">
 
 | Preparation | The formulary entry | Publishes ingredients and quantities | Publishes an ingredient list only | Publishes neither |
 | --- | --- | --- | --- | --- |
-| [Chyawanprash](/formulation/chyawanprash/) | **Part I, 3:11**. CYAVANAPRASA. 48 ingredients, a quantity for every one | Patanjali Ayurved (on 5 of its 7 pages); Shree Dhootapapeshwar | Dabur; Zandu | Age Ayurveda; Baidyanath |
-| [Abhayarishta](/formulation/abhayarishta/) | **Part I, 1:1**. ABHAYARISTA. 16 ingredients, a quantity for every one | Shree Dhootapapeshwar | Patanjali Ayurved | Baidyanath; Dabur; Maharishi Ayurveda |
-| [Ashokarishta](/formulation/ashokarishta/) | **Part I, 1:5**. ASOKARISTA. 16 ingredients, a quantity for every one | Shree Dhootapapeshwar | Dabur; Patanjali Ayurved | Baidyanath; Maharishi Ayurveda |
-| [Dashamularishta](/formulation/dashamularishta/) | **Part I, 1:18**. DASAMULARISTA. 72 ingredients, a quantity for every one | Shree Dhootapapeshwar | Dabur; Patanjali Ayurved | Baidyanath; Maharishi Ayurveda |
+| [Abhayarishta](/formulation/abhayarishta/) | **Part I, 1:1**. ABHAYARISTA. 16 ingredients, a quantity for every one | Oushadhi; Shree Dhootapapeshwar | Kerala Ayurveda; Patanjali Ayurved | AVN Ayurveda; Baidyanath; Dabur; Maharishi Ayurveda; Sandu Pharmaceuticals; Sitaram Ayurveda; SNA Oushadhasala; The Arya Vaidya Pharmacy, Coimbatore |
+| [Chyawanprash](/formulation/chyawanprash/) | **Part I, 3:11**. CYAVANAPRASA. 48 ingredients, a quantity for every one | Oushadhi; Patanjali Ayurved (on 5 of its 7 pages); Shree Dhootapapeshwar | Dabur; Sitaram Ayurveda; Zandu | Age Ayurveda; AVN Ayurveda; Baidyanath; Kerala Ayurveda; The Arya Vaidya Pharmacy, Coimbatore |
+| [Dashamularishta](/formulation/dashamularishta/) | **Part I, 1:18**. DASAMULARISTA. 72 ingredients, a quantity for every one | Shree Dhootapapeshwar | Dabur; Kerala Ayurveda; Patanjali Ayurved | AVN Ayurveda; Baidyanath; Maharishi Ayurveda; Sandu Pharmaceuticals; Sitaram Ayurveda; SNA Oushadhasala; The Arya Vaidya Pharmacy, Coimbatore |
+| [Amritarishta](/formulation/amritarishta/) | **Part I, 1:2**. AMRTARISTA. 24 ingredients, a quantity for every one | Oushadhi; Shree Dhootapapeshwar | Kerala Ayurveda | AVN Ayurveda; Baidyanath; Maharishi Ayurveda; Sandu Pharmaceuticals; Sitaram Ayurveda; SNA Oushadhasala; The Arya Vaidya Pharmacy, Coimbatore |
+| [Ashokarishta](/formulation/ashokarishta/) | **Part I, 1:5**. ASOKARISTA. 16 ingredients, a quantity for every one | Shree Dhootapapeshwar | Dabur; Kerala Ayurveda; Patanjali Ayurved | AVN Ayurveda; Baidyanath; Maharishi Ayurveda; Sandu Pharmaceuticals; Sitaram Ayurveda; The Arya Vaidya Pharmacy, Coimbatore |
+| [Ashwagandharishta](/formulation/ashwagandharishta/) | **Part I, 1:6**. ASVAGANDHADYARISTA. 29 ingredients, a quantity for every one | Shree Dhootapapeshwar | Kerala Ayurveda; Sitaram Ayurveda | AVN Ayurveda; Baidyanath; Dabur; Maharishi Ayurveda; Sandu Pharmaceuticals; SNA Oushadhasala; The Arya Vaidya Pharmacy, Coimbatore |
+| [Kutajarishta](/formulation/kutajarishta/) | **Part I, 1:11**. KUTAJARISTA. 7 ingredients, a quantity for every one | Shree Dhootapapeshwar | Kerala Ayurveda | AVN Ayurveda; Baidyanath; Maharishi Ayurveda; Patanjali Ayurved; Sandu Pharmaceuticals; Sitaram Ayurveda; SNA Oushadhasala; The Arya Vaidya Pharmacy, Coimbatore |
+| [Aravindasava](/formulation/aravindasava/) | **Part I, 1:4**. ARAVINDASAVA. 28 ingredients, a quantity for 27 | Oushadhi; Shree Dhootapapeshwar | Patanjali Ayurved | AVN Ayurveda; Maharishi Ayurveda; Sandu Pharmaceuticals; Sitaram Ayurveda; SNA Oushadhasala; The Arya Vaidya Pharmacy, Coimbatore |
+| [Dashamula](/formulation/dashamula/) | **Part I, 4:10**. DASAMULA KVATHA CURNA. 10 ingredients, a quantity for every one | none | Baidyanath; Kerala Ayurveda (on 1 of its 2 pages); Patanjali Ayurved; Sitaram Ayurveda (on 4 of its 5 pages) | AVN Ayurveda; Maharishi Ayurveda; Sandu Pharmaceuticals; SNA Oushadhasala; The Arya Vaidya Pharmacy, Coimbatore |
+| [Saraswatarishta](/formulation/saraswatarishta/) | **Part I, 1:36**. SARASVATARISTA. 24 ingredients, a quantity for 23 | Shree Dhootapapeshwar; SNA Oushadhasala | Kerala Ayurveda; Patanjali Ayurved; Sitaram Ayurveda | AVN Ayurveda; Maharishi Ayurveda; Sandu Pharmaceuticals; The Arya Vaidya Pharmacy, Coimbatore |
+| [Triphala Churna](/formulation/triphala-churna/) | **Part I, 7:15**. TRIPHALA CURNA. 3 ingredients, a quantity for every one | Shree Dhootapapeshwar | Kerala Ayurveda | Baidyanath; Dabur; Oushadhi; Patanjali Ayurved; Sandu Pharmaceuticals; Sitaram Ayurveda; SNA Oushadhasala |
+| [Anu Taila](/formulation/anu-taila/) | **Part I, 8:1**. ANU TAILA. 30 ingredients, a quantity for 29 | Oushadhi; Patanjali Ayurved | none | AVN Ayurveda; Kerala Ayurveda; Maharishi Ayurveda; Shree Dhootapapeshwar; Sitaram Ayurveda; The Arya Vaidya Pharmacy, Coimbatore |
+| [Balarishta](/formulation/balarishta/) | **Part I, 1:24**. BALARISTA. 13 ingredients, a quantity for every one | Shree Dhootapapeshwar | Kerala Ayurveda | AVN Ayurveda; Maharishi Ayurveda; Sitaram Ayurveda; SNA Oushadhasala; The Arya Vaidya Pharmacy, Coimbatore |
+| [Haridra Khanda](/formulation/haridra-khanda/) | **Part I, 3:31**. HARIDRA KHANDA. 18 ingredients, a quantity for 17 | Shree Dhootapapeshwar | Patanjali Ayurved | Baidyanath; Maharishi Ayurveda; Sitaram Ayurveda; SNA Oushadhasala; The Arya Vaidya Pharmacy, Coimbatore |
+| [Kshirabala Thailam](/formulation/kshirabala-thailam/) | **Part I, 8:11**. KSIRABALA TAILA. 5 ingredients, a quantity for every one | Patanjali Ayurved | Kerala Ayurveda; Sitaram Ayurveda | AVN Ayurveda; Maharishi Ayurveda; SNA Oushadhasala; The Arya Vaidya Pharmacy, Coimbatore |
+| [Punarnavasava](/formulation/punarnavasava/) | **Part I, 1:23**. PUNARNAVASAVA. 25 ingredients, a quantity for 7 | Shree Dhootapapeshwar | Kerala Ayurveda | AVN Ayurveda; Sandu Pharmaceuticals; Sitaram Ayurveda; SNA Oushadhasala; The Arya Vaidya Pharmacy, Coimbatore |
+| [Arjunarishta](/formulation/arjunarishta/) | **Part I, 1:21**. PARTHADYARISTA (Synonym : Arjunarista). 6 ingredients, a quantity for every one | Shree Dhootapapeshwar | Patanjali Ayurved | Baidyanath; Maharishi Ayurveda; Sandu Pharmaceuticals; Sitaram Ayurveda |
+| [Draksharishta](/formulation/draksharishta/) | **Part I, 1:20**. DRAKSARISTA. 12 ingredients, a quantity for every one | none | Kerala Ayurveda; Sitaram Ayurveda | AVN Ayurveda; Maharishi Ayurveda; SNA Oushadhasala; The Arya Vaidya Pharmacy, Coimbatore |
+| [Kanchanara Guggulu](/formulation/kanchanara-guggulu/) | **Part I, 5:1**. KANCANARA GUGGULU. 12 ingredients, a quantity for every one | Maharishi Ayurveda; Shree Dhootapapeshwar | Kerala Ayurveda; Patanjali Ayurved; Sitaram Ayurveda | Baidyanath |
+| [Kumaryasava](/formulation/kumaryasava/) | **Part I, 1:12**. KUMARYASAVA (A). 46 ingredients, a quantity for 42 | none | Kerala Ayurveda; Patanjali Ayurved | AVN Ayurveda; Maharishi Ayurveda; Sitaram Ayurveda; The Arya Vaidya Pharmacy, Coimbatore |
+| [Kumkumadi Tailam](/formulation/kumkumadi-tailam/) | **Part I, 8:8**. KUNKUMADI TAILA. 29 ingredients, a quantity for every one | Zandu | none | AVN Ayurveda; Maharishi Ayurveda; Sitaram Ayurveda; SNA Oushadhasala; The Arya Vaidya Pharmacy, Coimbatore |
+| [Pushyanuga Churna](/formulation/pushyanuga-churna/) | **Part I, 7:23**. PUSYANUGA CURNA. 26 ingredients, a quantity for every one | Shree Dhootapapeshwar | Patanjali Ayurved | AVN Ayurveda; Maharishi Ayurveda; Sitaram Ayurveda; The Arya Vaidya Pharmacy, Coimbatore |
+| [Amritottaram Kashayam](/formulation/amritottaram-kashayam/) | **Part I, 4:1**. AMRTOTTARA KVATHA CURNA (Synonym : Nagaradi Kvatha Curna). 4 ingredients, a quantity for 3 | Oushadhi (on 2 of its 3 pages) | none | AVN Ayurveda; Sitaram Ayurveda; SNA Oushadhasala; The Arya Vaidya Pharmacy, Coimbatore |
+| [Brahmi Ghritam](/formulation/brahmi-ghritam/) | **Part I, 6:32**. BRAHMI GHRTA. 12 ingredients, a quantity for 11 | Patanjali Ayurved | Kerala Ayurveda | AVN Ayurveda; SNA Oushadhasala; The Arya Vaidya Pharmacy, Coimbatore |
+| [Chandraprabha Vati](/formulation/chandraprabha-vati/) | **Part I, 12:10**. CANDRAPRABHA VATI. 37 ingredients, a quantity for every one | none | Patanjali Ayurved | Baidyanath; Maharishi Ayurveda; Sandu Pharmaceuticals; The Arya Vaidya Pharmacy, Coimbatore |
+| [Dhanwantaram Thailam](/formulation/dhanwantaram-thailam/) | **Part I, 8:22**. DHANVANTARA TAILA (Synonym : Bala taila). 49 ingredients, a quantity for every one | none | Kerala Ayurveda | AVN Ayurveda; Maharishi Ayurveda; Sitaram Ayurveda; The Arya Vaidya Pharmacy, Coimbatore |
+| [Gandharvahastadi Kashayam](/formulation/gandharvahastadi-kashayam/) | **Part I, 4:5**. GANDHARVAHASTADI KVATHA CURNA. 8 ingredients, a quantity for every one | none | none | AVN Ayurveda; Maharishi Ayurveda; Sitaram Ayurveda; SNA Oushadhasala; The Arya Vaidya Pharmacy, Coimbatore |
+| [Gokshuradi Guggulu](/formulation/gokshuradi-guggulu/) | **Part I, 5:3**. GOKSURADI GUGGULU. 10 ingredients, a quantity for every one | Shree Dhootapapeshwar | Patanjali Ayurved | Maharishi Ayurveda; Sandu Pharmaceuticals; The Arya Vaidya Pharmacy, Coimbatore |
+| [Hinguvachadi Churna](/formulation/hinguvachadi-churna/) | **Part I, 7:39**. HINGUVACADI CURNA (Hingvadi Curna). 24 ingredients, a quantity for every one | none | Sitaram Ayurveda | AVN Ayurveda; Kerala Ayurveda; SNA Oushadhasala; The Arya Vaidya Pharmacy, Coimbatore |
+| [Kaishore Guggul](/formulation/kaishore-guggul/) | **Part I, 5:2**. KAISORA GUGGULU. 17 ingredients, a quantity for every one | Shree Dhootapapeshwar | Patanjali Ayurved; Sitaram Ayurveda | Baidyanath; Maharishi Ayurveda |
+| [Kottamchukkadi Thailam](/formulation/kottamchukkadi-thailam/) | **Part I, 8:10**. KOTTAMCUKKADI TAILA. 12 ingredients, a quantity for 11 | none | Kerala Ayurveda | AVN Ayurveda; Sitaram Ayurveda; SNA Oushadhasala; The Arya Vaidya Pharmacy, Coimbatore |
+| [Pinda Thailam](/formulation/pinda-thailam/) | **Part I, 8:28**. PINDA TAILA. 6 ingredients, a quantity for 4 | none | Kerala Ayurveda; Sitaram Ayurveda | AVN Ayurveda; SNA Oushadhasala; The Arya Vaidya Pharmacy, Coimbatore |
+| [Pippalyasava](/formulation/pippalyasava/) | **Part I, 1:22**. PIPPALYADYASAVA. 27 ingredients, a quantity for every one | none | none | AVN Ayurveda; Baidyanath; Kerala Ayurveda; Sitaram Ayurveda; The Arya Vaidya Pharmacy, Coimbatore |
+| [Rasnasaptakam Kashayam](/formulation/rasnasaptakam-kashayam/) | **Part II, 4:20**. RASNASAPTAKA KVATHA CURNA. 7 ingredients, a quantity for 0 | none | Sitaram Ayurveda | AVN Ayurveda; Maharishi Ayurveda; SNA Oushadhasala; The Arya Vaidya Pharmacy, Coimbatore |
+| [Sahacharadi Thailam](/formulation/sahacharadi-thailam/) | **Part I, 8:59**. SAHACARADI TAILA. 33 ingredients, a quantity for 31 | Patanjali Ayurved | Kerala Ayurveda; Sitaram Ayurveda | AVN Ayurveda; The Arya Vaidya Pharmacy, Coimbatore |
 | [Sitopaladi Churna](/formulation/sitopaladi-churna/) | **Part I, 7:34**. SITOPALADI CURNA. 5 ingredients, a quantity for every one | Shree Dhootapapeshwar | Patanjali Ayurved | Baidyanath; Dabur; Maharishi Ayurveda |
-| [Arjunarishta](/formulation/arjunarishta/) | **Part I, 1:21**. PARTHADYARISTA (Synonym : Arjunarista). 6 ingredients, a quantity for every one | Shree Dhootapapeshwar | Patanjali Ayurved | Baidyanath; Maharishi Ayurveda |
-| [Ashwagandharishta](/formulation/ashwagandharishta/) | **Part I, 1:6**. ASVAGANDHADYARISTA. 29 ingredients, a quantity for every one | Shree Dhootapapeshwar | none | Baidyanath; Dabur; Maharishi Ayurveda |
+| [Varunadi Kashayam](/formulation/varunadi-kashayam/) | **Part II, 4:22**. VARUNADI KVATHA CURNA. 5 ingredients, a quantity for every one | none | Sitaram Ayurveda | AVN Ayurveda; Maharishi Ayurveda; SNA Oushadhasala; The Arya Vaidya Pharmacy, Coimbatore |
+| [Yogaraja Guggulu](/formulation/yogaraja-guggulu/) | **Part I, 5:7**. YOGARAJA GUGGULU. 29 ingredients, a quantity for 27 | none | Kerala Ayurveda; Patanjali Ayurved | Baidyanath; Maharishi Ayurveda; Shree Dhootapapeshwar |
 | [Avipattikar Churna](/formulation/avipattikar-churna/) | **Part I, 7:2**. AVIPATTIKARA CURNA. 14 ingredients, a quantity for every one | Shree Dhootapapeshwar | Patanjali Ayurved | Baidyanath; Maharishi Ayurveda |
-| [Haridra Khanda](/formulation/haridra-khanda/) | **Part I, 3:31**. HARIDRA KHANDA. 18 ingredients, a quantity for 17 | Shree Dhootapapeshwar | Patanjali Ayurved | Baidyanath; Maharishi Ayurveda |
+| [Brahma Rasayana](/formulation/brahma-rasayana/) | **Part I, 3:20**. BRAHMA RASAYANA. 46 ingredients, a quantity for every one | none | none | AVN Ayurveda; Sitaram Ayurveda; SNA Oushadhasala; The Arya Vaidya Pharmacy, Coimbatore |
+| [Dadimadi Ghrita](/formulation/dadimadi-ghrita/) | **Part I, 6:19**. DADIMADI GHRTA. 7 ingredients, a quantity for every one | none | none | AVN Ayurveda; Sitaram Ayurveda; SNA Oushadhasala; The Arya Vaidya Pharmacy, Coimbatore |
+| [Drakshadi Kashayam](/formulation/drakshadi-kashayam/) | **Part I, 4:13**. DRAKSADI KVATHA CURNA. 17 ingredients, a quantity for every one | none | Sitaram Ayurveda | AVN Ayurveda; Maharishi Ayurveda; The Arya Vaidya Pharmacy, Coimbatore |
 | [Hingvashtak Churna](/formulation/hingvashtak-churna/) | **Part I, 7:37**. HINGVASTAKA CURNA. 8 ingredients, a quantity for 7 | Shree Dhootapapeshwar | Baidyanath (on 3 of its 4 pages); Patanjali Ayurved | Maharishi Ayurveda |
-| [Kaishore Guggul](/formulation/kaishore-guggul/) | **Part I, 5:2**. KAISORA GUGGULU. 17 ingredients, a quantity for every one | Shree Dhootapapeshwar | Patanjali Ayurved | Baidyanath; Maharishi Ayurveda |
-| [Kanchanara Guggulu](/formulation/kanchanara-guggulu/) | **Part I, 5:1**. KANCANARA GUGGULU. 12 ingredients, a quantity for every one | Maharishi Ayurveda; Shree Dhootapapeshwar | Patanjali Ayurved | Baidyanath |
-| [Kutajarishta](/formulation/kutajarishta/) | **Part I, 1:11**. KUTAJARISTA. 7 ingredients, a quantity for every one | Shree Dhootapapeshwar | none | Baidyanath; Maharishi Ayurveda; Patanjali Ayurved |
+| [Indukantham Ghritam](/formulation/indukantham-ghritam/) | **Part I, 6:5**. INDUKANTA GHRTA. 21 ingredients, a quantity for every one | none | Kerala Ayurveda; Sitaram Ayurveda | AVN Ayurveda; The Arya Vaidya Pharmacy, Coimbatore |
+| [Jeerakarishtam](/formulation/jeerakarishtam/) | **Part I, 1:16**. JIRAKADYARISTA. 14 ingredients, a quantity for every one | none | Kerala Ayurveda; Sitaram Ayurveda | AVN Ayurveda; SNA Oushadhasala |
+| [Karpasasthyadi Thailam](/formulation/karpasasthyadi-thailam/) | **Part I, 8:6**. KARPASASTHYADI TAILA. 18 ingredients, a quantity for every one | none | Kerala Ayurveda | AVN Ayurveda; Sitaram Ayurveda; The Arya Vaidya Pharmacy, Coimbatore |
+| [Madhusnuhi Rasayana](/formulation/madhusnuhi-rasayana/) | **Part I, 3:19**. MADHUSNUHI RASAYANA. 32 ingredients, a quantity for every one | none | none | AVN Ayurveda; Sitaram Ayurveda; SNA Oushadhasala; The Arya Vaidya Pharmacy, Coimbatore |
+| [Maha Narayana Thailam](/formulation/maha-narayana-thailam/) | **Part I, 8:45**. MAHA NARAYANA TAILA. 59 ingredients, a quantity for every one | Patanjali Ayurved | Kerala Ayurveda; Sitaram Ayurveda | SNA Oushadhasala |
 | [Mahayograj Guggul](/formulation/mahayograj-guggul/) | **Part I, 5:6**. MAHA YOGARAJA GUGGULU. 31 ingredients, a quantity for 29 | none | Patanjali Ayurved | Baidyanath; Maharishi Ayurveda; Shree Dhootapapeshwar |
-| [Triphala Churna](/formulation/triphala-churna/) | **Part I, 7:15**. TRIPHALA CURNA. 3 ingredients, a quantity for every one | Shree Dhootapapeshwar | none | Baidyanath; Dabur; Patanjali Ayurved |
-| [Yogaraja Guggulu](/formulation/yogaraja-guggulu/) | **Part I, 5:7**. YOGARAJA GUGGULU. 29 ingredients, a quantity for 27 | none | Patanjali Ayurved | Baidyanath; Maharishi Ayurveda; Shree Dhootapapeshwar |
-| [Amritarishta](/formulation/amritarishta/) | **Part I, 1:2**. AMRTARISTA. 24 ingredients, a quantity for every one | Shree Dhootapapeshwar | none | Baidyanath; Maharishi Ayurveda |
-| [Anu Taila](/formulation/anu-taila/) | **Part I, 8:1**. ANU TAILA. 30 ingredients, a quantity for 29 | Patanjali Ayurved | none | Maharishi Ayurveda; Shree Dhootapapeshwar |
-| [Aravindasava](/formulation/aravindasava/) | **Part I, 1:4**. ARAVINDASAVA. 28 ingredients, a quantity for 27 | Shree Dhootapapeshwar | Patanjali Ayurved | Maharishi Ayurveda |
+| [Narayana Thailam](/formulation/narayana-thailam/) | **Part I, 8:23**. NARAYANA TAILA. 34 ingredients, a quantity for every one | none | none | AVN Ayurveda; Sitaram Ayurveda; SNA Oushadhasala; The Arya Vaidya Pharmacy, Coimbatore |
+| [Panchakola Churna](/formulation/panchakola-churna/) | **Part II, 7.10**. PANCHKOLA CURNA. 5 ingredients, a quantity for every one | none | Sitaram Ayurveda | Patanjali Ayurved; SNA Oushadhasala; The Arya Vaidya Pharmacy, Coimbatore |
+| [Rohitakarishta](/formulation/rohitakarishta/) | **Part I, 1:31**. ROHITAKARISTA. 15 ingredients, a quantity for every one | Shree Dhootapapeshwar | none | Baidyanath; Maharishi Ayurveda; Sandu Pharmaceuticals |
+| [Sukumaram Ghritam](/formulation/sukumaram-ghritam/) | **Part I, 6:44**. SUKUMARA GHRTA. 34 ingredients, a quantity for every one | none | Kerala Ayurveda | AVN Ayurveda; Sitaram Ayurveda; The Arya Vaidya Pharmacy, Coimbatore |
+| [Vidangarishta](/formulation/vidangarishta/) | **Part I, 1:34**. VIDANGARISTA. 20 ingredients, a quantity for every one | Shree Dhootapapeshwar | Patanjali Ayurved | Maharishi Ayurveda; Sandu Pharmaceuticals |
+| [Ajamodadi Churna](/formulation/ajamodadi-churna/) | **Part I, 7:1**. AJAMODADI CURNA. 12 ingredients, a quantity for every one | Oushadhi | Patanjali Ayurved | Maharishi Ayurveda |
 | [Arogyavardhini Vati](/formulation/arogyavardhini-vati/) | **Part I, 20:4**. AROGYAVARDHINI GUTIKA. 13 ingredients, a quantity for 12 | none | Patanjali Ayurved | Baidyanath; Maharishi Ayurveda |
-| [Chandraprabha Vati](/formulation/chandraprabha-vati/) | **Part I, 12:10**. CANDRAPRABHA VATI. 37 ingredients, a quantity for every one | none | Patanjali Ayurved | Baidyanath; Maharishi Ayurveda |
-| [Dashamula](/formulation/dashamula/) | **Part I, 4:10**. DASAMULA KVATHA CURNA. 10 ingredients, a quantity for every one | none | Baidyanath; Patanjali Ayurved | Maharishi Ayurveda |
-| [Gokshuradi Guggulu](/formulation/gokshuradi-guggulu/) | **Part I, 5:3**. GOKSURADI GUGGULU. 10 ingredients, a quantity for every one | Shree Dhootapapeshwar | Patanjali Ayurved | Maharishi Ayurveda |
-| [Pushyanuga Churna](/formulation/pushyanuga-churna/) | **Part I, 7:23**. PUSYANUGA CURNA. 26 ingredients, a quantity for every one | Shree Dhootapapeshwar | Patanjali Ayurved | Maharishi Ayurveda |
-| [Rohitakarishta](/formulation/rohitakarishta/) | **Part I, 1:31**. ROHITAKARISTA. 15 ingredients, a quantity for every one | Shree Dhootapapeshwar | none | Baidyanath; Maharishi Ayurveda |
-| [Saraswatarishta](/formulation/saraswatarishta/) | **Part I, 1:36**. SARASVATARISTA. 24 ingredients, a quantity for 23 | Shree Dhootapapeshwar | Patanjali Ayurved | Maharishi Ayurveda |
+| [Jatyadi Ghrita](/formulation/jatyadi-ghrita/) | **Part I, 6:11**. JATYADI GHRTA (Synonym : Vrana Sodhanadi ghrta). 15 ingredients, a quantity for every one | Patanjali Ayurved | none | Maharishi Ayurveda; The Arya Vaidya Pharmacy, Coimbatore |
+| [Kalyanaka Ghrita](/formulation/kalyanaka-ghrita/) | **Part I, 6:7**. KALYANAKA GHRTA. 29 ingredients, a quantity for 28 | none | Kerala Ayurveda | Sitaram Ayurveda; The Arya Vaidya Pharmacy, Coimbatore |
+| [Lakshadi Thailam](/formulation/lakshadi-thailam/) | **Part I, 8:49**. LAKSADI TAILA. 5 ingredients, a quantity for every one | none | Sitaram Ayurveda | Maharishi Ayurveda; The Arya Vaidya Pharmacy, Coimbatore |
+| [Panchagavya Ghrita](/formulation/panchagavya-ghrita/) | **Part I, 6:25**. PANCAGAVYA GHRTA. 5 ingredients, a quantity for 3 | none | Kerala Ayurveda | Sitaram Ayurveda; The Arya Vaidya Pharmacy, Coimbatore |
+| [Shadbindu Taila](/formulation/shadbindu-taila/) | **Part I, 8:58**. SADBINDU TAILA. 13 ingredients, a quantity for every one | Patanjali Ayurved | none | Maharishi Ayurveda; Sitaram Ayurveda |
 | [Triphala Guggulu](/formulation/triphala-guggulu/) | **Part I, 5:5**. TRIPHALA GUGGULU. 5 ingredients, a quantity for every one | Shree Dhootapapeshwar | Patanjali Ayurved | Maharishi Ayurveda |
-| [Vidangarishta](/formulation/vidangarishta/) | **Part I, 1:34**. VIDANGARISTA. 20 ingredients, a quantity for every one | Shree Dhootapapeshwar | Patanjali Ayurved | Maharishi Ayurveda |
+| [Triphaladi Thailam](/formulation/triphaladi-thailam/) | **Part I, 8:21**. TRIPHALADI TAILA. 38 ingredients, a quantity for 37 | Patanjali Ayurved | none | Kerala Ayurveda; Sitaram Ayurveda |
 
 </div>
 
-Every cell was read on 2026-10-08. "None" means no company read here was in that
+Every cell was read on 2026-10-09. "None" means no company read here was in that
 state for that preparation, not that the preparation lacks the figure.
 
 <!-- END generated by scripts/brand-disclosure.mjs -->
 
 ## What the whole range shows that the classical range does not
 
-**A product page is far likelier to tell you how much to take than what it is.** Of the 2,979
-pages read, **2,406 stated a dose** and **1,472 named their ingredients**. A reader is about 60%
-more likely to be told how much of something to take than what that something contains.
+**A product page is about twice as likely to tell you how much to take as what it is.** Of the
+6,097 pages read, **3,792 stated a dose** and **1,931 named their ingredients**. 4,166 pages named
+no ingredient at all.
 
-**Almost nobody cites the standard they are following.** Three pages of 2,979 name the Ayurvedic
-Formulary of India. Forty-one cite any authority at all, classical text or pharmacopoeia included.
-"As per AFI" is a phrase that appears on packaging and in trade copy; on these product pages it is
-very nearly absent, which means there is usually no claim on the page to check in the first place.
+**Almost nobody cites the standard they are following.** Three pages of 6,097 name the Ayurvedic
+Formulary of India. 312 cite any authority at all, classical text or pharmacopoeia included. "As
+per AFI" is a phrase that appears on packaging and in trade copy; on these product pages it is very
+nearly absent, which means there is usually no claim on the page to check in the first place.
 
 **Two companies document their classical range markedly better than the rest of what they sell.**
 Patanjali Ayurved named ingredients on 91% of its formulary-name pages and 54% of its whole range;
@@ -192,11 +242,12 @@ Zandu on all three of its formulary-name pages and 77% of its 134. Read only the
 you would conclude these companies document their products well. Read only the first and you would
 conclude the opposite. Both are true of different things, which is why both are here.
 
-**And two companies that wave one could say nothing about are now measurable.** Himalaya Wellness
-and Charak Pharma sell nothing under a formulary name, so an earlier version of this page listed
-them as contributing no measured page, beside a company that had refused to be read. That was a
-statement about our own list of names and it read as a statement about them. Their whole ranges
-were read instead: Himalaya names ingredients on 281 of 441 pages, Charak on 1 of 113.
+**Quantities are three companies, not an industry practice.** Of the 503 pages sold under a
+formulary name, covering 63 preparations that three or more of these companies all sell, 54 give a
+quantity against an ingredient, and 51 of those 54 are Shree Dhootapapeshwar, Patanjali Ayurved
+and Oushadhi. Eleven of the fourteen companies selling under a formulary name give a quantity on
+one page or none. Widening the survey from seven companies to sixteen did not dilute that
+finding, it sharpened it.
 
 ## What this does not measure
 
@@ -227,80 +278,95 @@ products", only as "x% of the pages read".
 **The name matching has a measured blind spot, and it is small.** A product is identified as a
 formulary preparation by its URL slug, so one whose URL spells the name a way the matcher does not
 reach would be missed. That blind spot was unmeasured until the whole range was read. Running the
-same matcher against each page's own title instead, on the 2,769 pages whose slug matched nothing,
-finds a formulary name on 18 of them. So the second table's population is about 0.6% short, which
-does not move any figure in it materially.
+same matcher against each page's own title instead, on the 5,594 pages whose slug matched nothing,
+finds a formulary name on 31 of them. So the second table's population is about half a percent
+short, which does not move any figure in it materially.
 
 **One run, one date.** These pages change. Everything above was read on 8 October 2026 and is
 re-measured when the survey is re-run, with the date moving with it.
 
-## The premise this page started from was wrong
+## Two premises this page started from were wrong
 
-It is worth recording, because it is the kind of claim repeated confidently in this industry and
-it did not survive measurement.
+Both are recorded because they are the kind of claim repeated confidently in this industry, and
+neither survived measurement.
 
-The expectation going in was that almost no Ayurvedic manufacturer publishes per-ingredient
-quantities, so that a third party would be the only place to find them. That is false. Shree
-Dhootapapeshwar gives a quantity against each ingredient on 208 of its 272 product pages, and
-Patanjali Ayurved on 449 of its 1,394, stated per 100 g. Neither was visible in casual searching,
-which is how the wrong premise survived: ten of Shree Dhootapapeshwar's pages render their
+**That almost no Ayurvedic manufacturer publishes per-ingredient quantities.** False. Shree
+Dhootapapeshwar gives a quantity against each ingredient on 211 of its 277 product pages, and
+Patanjali Ayurved on 449 of its 1,400, stated per 100 g. Neither was visible in casual searching,
+which is how the wrong premise survived: eleven of Shree Dhootapapeshwar's pages render their
 composition in the browser rather than in the HTML, so a quick look does not reach it.
 
-A second claim on an earlier version of this page has also been corrected by measurement. It said
-that Shree Dhootapapeshwar gave a quantity on every page of its range that carried a list at all.
-That was true of the 28 formulary-name pages it was measured on and is not true of the company:
-across the whole range, 243 pages carry a list and 208 of those carry quantities.
+**That the old classical pharmacies would document better than the consumer brands.** This survey
+was widened specifically to test that, on the reasoning that a house whose entire proposition is
+the formulary preparation has the most reason to show its working. The opposite is the case. The
+Arya Vaidya Pharmacy published an ingredient list on **1 of 413** product pages. SNA Oushadhasala on **12 of 473**. Sandu Pharmaceuticals on **none of
+112**. AVN Ayurveda on 15 of 289. Sitaram and Kerala Ayurveda publish lists on roughly half and
+two thirds of their ranges and quantities on 4 pages each.
 
-What is true throughout is the spread. Shree Dhootapapeshwar names ingredients on 89% of the pages
-read from it and Charak Pharma on 1%, and that difference is not a detail of web design. It decides
-whether the official standard for a preparation is of any practical use to the person holding the
-bottle.
+And Shree Dhootapapeshwar, the most forthcoming company in the entire survey, is also a classical
+pharmacy. So disclosure does not track the segment at all. It tracks the individual company, and
+almost nobody does it.
+
+A third claim on an earlier version of this page was corrected the same way. It said Shree
+Dhootapapeshwar gave a quantity on every page of its range that carried a list. That was true of
+the 28 formulary-name pages it was measured on and is not true of the company: across the whole
+range, 246 pages carry a list and 211 of those carry quantities.
 
 ## Where our own products lose
 
 We sell under the Age Ayurveda name, so this section exists to be useful rather than flattering.
 
-On the whole-range measurement we are in the **bottom half of the nine companies read**: an
-ingredient list on 4 of our 29 product pages, 14%, with quantities on 3. Three companies document
-less of their range than we do, Charak Pharma at 1%, Baidyanath at 6% and Maharishi Ayurveda at
-7%. Five document more: Patanjali Ayurved 54%, Dabur 57%, Himalaya Wellness 64%, Zandu 77% and
-Shree Dhootapapeshwar 89%.
+On the whole-range measurement we publish an ingredient list on **4 of our 29 product pages**, 14%,
+with quantities on 3. Six of the fifteen companies read document less of their range than we do and
+eight document more. Being in the middle of that table is not a defence: the middle of it is very
+low, and the company at the top of it publishes a list on 89% of its range.
 
 On the measurement this page is actually about, we are **last outright**. Age Ayurveda sells one
 product bearing a classical formulary name, a Chyawanprash, and its product page publishes **no
-ingredient list and no quantities**. Every other company here that sells a formulary-name product
-publishes a list on at least one of them; we publish one on none of ours, because we have only the
-one and it carries nothing. The page discusses ingredients in prose, which is not the same thing and is not a
-substitute for it: prose about Ashtavarga does not let anyone check the preparation against Part I
-of the formulary.
+ingredient list and no quantities**. We are the only company here that sells a formulary-name
+product and publishes a list on none of them. The page discusses ingredients in prose, which is not
+the same thing and is not a substitute for it: prose about Ashtavarga does not let anyone check the
+preparation against Part I of the formulary.
 
-An earlier version of this page said we publish an ingredient list on no page at all. That was read
-from a single product and reading the rest of our range corrected it: we do publish compositions,
-on four products, just not on the one with a formulary name on it. The correction makes us look
-slightly better and is recorded here for the same reason any other would be.
+Two earlier versions of this page were wrong about us and both corrections are recorded. The first
+said we publish an ingredient list on no page at all, which was read from a single product; reading
+the rest of our range showed we publish compositions on four. The second called us second worst of
+nine when we were fourth from the bottom. Both corrections make us look better, and they are here
+for the same reason a correction favouring a competitor would be.
 
 That is a straightforward failure to meet the standard this page measures other companies against,
 and the honest thing is to say so in the same tables rather than to exclude ourselves from them. It
 is being fixed. Until it is, a reader who wants to check an Age Ayurveda Chyawanprash against the
 formulary entry cannot, for exactly the reason this page criticises in others.
 
-## Why a blocked catalogue is a finding
+## Why a blocked catalogue is a finding, and why an opened one is too
 
-One of the twelve companies surveyed declines this crawler in its `robots.txt`, and declines every
-AI crawler tested, while allowing Googlebot. We did not fetch its pages, which is what that file is
+One of the 20 companies surveyed declines this crawler in its `robots.txt`, and declines every AI
+crawler tested, while allowing Googlebot. We did not fetch its pages, which is what that file is
 for. The consequence is worth stating plainly, because it is not obvious: no answer engine can read
 those product pages, so none can cite that company for its own products. Asked what is in one of
 them, an assistant will answer from somewhere else or not at all.
 
-Two more companies publish no readable sitemap, so their catalogues could not be enumerated at all.
-That is the whole of what could not be read. Two others, whose ranges are proprietary branded
-formulations rather than classical ones, carried no product under any of the formulary names we
-looked for; rather than leave them described by an absence in our own list of names, their whole
-ranges were read and they are in the first table above.
+**One company has made the opposite choice explicitly.** Kerala Ayurveda names GPTBot, ClaudeBot,
+PerplexityBot, CCBot and Google-Extended in its `robots.txt` in order to write `Allow: /` against
+each of them. Most sites say nothing about these crawlers and admit them by default; naming them to
+permit them is a decision, and it is the other end of the same spectrum.
+
+Three more companies publish no readable sitemap, so their catalogues could not be enumerated at
+all. One, Nagarjuna Herbal Concentrates, has a readable sitemap listing 298 pages of which **not one
+is an individual product page**: the catalogue is reached only through category listings. That is a
+different finding from publishing no composition. There is no page where a composition would go, so
+no answer engine can cite them for any single product, whatever they would be willing to disclose.
+
+Two companies were readable and carried no product under any of the formulary names we looked for,
+their ranges being proprietary branded formulations rather than classical ones. Rather than leave
+them described by an absence in our own list of names, their whole ranges were read instead and
+they are in the first table above.
 
 ## Corrections
 
 If you work for any company named on this page and a count is wrong, out of date, or reads the
 wrong page of your site, write to us and we will correct it, including where the correction favours
 you over us. Every count has the page URL it came from recorded against it, so it can be checked
-one page at a time. Details are on our [corrections page](../../corrections/).
+one page at a time: the whole measurement is published at
+[/brand-disclosure.json](/brand-disclosure.json). Details are on our [corrections page](../../corrections/).

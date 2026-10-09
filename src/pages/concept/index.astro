@@ -117,7 +117,8 @@ const jsonld: any[] = [
   },
 ];
 ---
-<Page title={title} description={description} canonical={canonical} jsonld={jsonld}>
+<Page title={title} description={description} canonical={canonical} updated={data.updatedAt}
+  trail={[{ label: 'Concepts' }]} jsonld={jsonld}>
   <p class="answer">
     Ayurvedic theory is usually written about as though it were settled. It is not. These
     {n(sum.records)} concept records hold <strong>{n(sum.contestedQuestions)} questions on which the
@@ -213,7 +214,10 @@ const jsonld: any[] = [
     because the position is the atom: group the rows by question to get the per-question view back.
   </p>
 
-  <p class="meta">Exported {data.updatedAt} from the concept corpus, so this cannot drift from it.</p>
+  <p class="meta">
+    Exported {data.updatedAt} from the concept corpus, so this cannot drift from it.
+    Machine-readable twin of every concept page: append <code>.md</code> to its URL.
+  </p>
 </Page>
 
 <style>

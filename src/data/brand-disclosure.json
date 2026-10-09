@@ -1,24 +1,74 @@
 {
   "note": "What each company published on its own product pages, as those pages were served to this crawler on the date recorded. A state of \"neither\" means the page carried substantial readable text and no ingredient list in it. No figure published by any company is restated here, and no wording of theirs is reproduced. See the page named in `page` for what this is for and what it does not measure.",
   "page": "/choosing/who-publishes-the-composition/",
-  "measuredOn": "2026-10-08",
+  "measuredOn": "2026-10-09",
   "agent": "NighantuBot/1.0 (+https://nighantu.ageayurveda.com/about/)",
   "measuringStick": "src/data/composition.json, this project's transcription of the Ayurvedic Formulary of India, checked row by row against the book and cited to part and entry number.",
   "minCompaniesForAPreparationRow": 3,
   "wholeRange": {
-    "measuredOn": "2026-10-08",
-    "pagesAttempted": 2993,
-    "pagesRead": 2979,
-    "pagesThatCouldNotBeRead": 14,
-    "pagesRenderingClientSide": 10,
-    "pagesStatingADose": 2406,
-    "pagesNamingIngredients": 1472,
+    "measuredOn": "2026-10-09",
+    "pagesAttempted": 6099,
+    "pagesRead": 6097,
+    "pagesThatCouldNotBeRead": 2,
+    "pagesRenderingClientSide": 11,
+    "pagesStatingADose": 3792,
+    "pagesNamingIngredients": 1931,
     "pagesCitingTheFormulary": 3,
-    "pagesCitingAnyAuthority": 41,
-    "slugMatcherMissesFoundByTitle": 18,
-    "pagesWithNoFormularyNameInTheSlug": 2769
+    "pagesCitingAnyAuthority": 312,
+    "slugMatcherMissesFoundByTitle": 31,
+    "pagesWithNoFormularyNameInTheSlug": 5594
   },
   "companies": [
+    {
+      "id": "sitaram",
+      "name": "Sitaram Ayurveda",
+      "origin": "https://sitaramayurveda.com",
+      "ours": false,
+      "access": "allowed by its robots.txt and read",
+      "pagesInCatalogue": 597,
+      "pagesMeasured": 68,
+      "pagesWithQuantities": 0,
+      "pagesWithListOnly": 34,
+      "pagesWithNeither": 34,
+      "pagesUnreadable": 0,
+      "preparationsSold": 53,
+      "range": {
+        "pagesRead": 383,
+        "pagesAttempted": 383,
+        "pagesWithQuantities": 4,
+        "pagesWithListOnly": 184,
+        "pagesWithNeither": 195,
+        "pagesUnreadable": 0,
+        "pagesStatingADose": 373,
+        "pagesCitingTheFormulary": 0,
+        "pagesCitingAnyAuthority": 104
+      }
+    },
+    {
+      "id": "avp",
+      "name": "The Arya Vaidya Pharmacy, Coimbatore",
+      "origin": "https://avpayurveda.com",
+      "ours": false,
+      "access": "allowed by its robots.txt and read",
+      "pagesInCatalogue": 580,
+      "pagesMeasured": 66,
+      "pagesWithQuantities": 0,
+      "pagesWithListOnly": 0,
+      "pagesWithNeither": 66,
+      "pagesUnreadable": 0,
+      "preparationsSold": 48,
+      "range": {
+        "pagesRead": 413,
+        "pagesAttempted": 413,
+        "pagesWithQuantities": 0,
+        "pagesWithListOnly": 1,
+        "pagesWithNeither": 412,
+        "pagesUnreadable": 0,
+        "pagesStatingADose": 251,
+        "pagesCitingTheFormulary": 0,
+        "pagesCitingAnyAuthority": 7
+      }
+    },
     {
       "id": "baidyanath",
       "name": "Baidyanath",
@@ -58,13 +108,13 @@
       "pagesUnreadable": 0,
       "preparationsSold": 47,
       "range": {
-        "pagesRead": 248,
+        "pagesRead": 251,
         "pagesAttempted": 251,
         "pagesWithQuantities": 7,
         "pagesWithListOnly": 10,
-        "pagesWithNeither": 231,
+        "pagesWithNeither": 234,
         "pagesUnreadable": 0,
-        "pagesStatingADose": 222,
+        "pagesStatingADose": 225,
         "pagesCitingTheFormulary": 1,
         "pagesCitingAnyAuthority": 5
       }
@@ -83,15 +133,90 @@
       "pagesUnreadable": 0,
       "preparationsSold": 42,
       "range": {
-        "pagesRead": 1394,
+        "pagesRead": 1400,
         "pagesAttempted": 1400,
         "pagesWithQuantities": 449,
         "pagesWithListOnly": 301,
-        "pagesWithNeither": 644,
+        "pagesWithNeither": 650,
         "pagesUnreadable": 0,
-        "pagesStatingADose": 1129,
+        "pagesStatingADose": 1132,
         "pagesCitingTheFormulary": 0,
         "pagesCitingAnyAuthority": 0
+      }
+    },
+    {
+      "id": "avn",
+      "name": "AVN Ayurveda",
+      "origin": "https://www.avnayurveda.com",
+      "ours": false,
+      "access": "allowed by its robots.txt and read",
+      "pagesInCatalogue": 474,
+      "pagesMeasured": 47,
+      "pagesWithQuantities": 0,
+      "pagesWithListOnly": 0,
+      "pagesWithNeither": 47,
+      "pagesUnreadable": 0,
+      "preparationsSold": 39,
+      "range": {
+        "pagesRead": 289,
+        "pagesAttempted": 290,
+        "pagesWithQuantities": 12,
+        "pagesWithListOnly": 3,
+        "pagesWithNeither": 274,
+        "pagesUnreadable": 0,
+        "pagesStatingADose": 34,
+        "pagesCitingTheFormulary": 0,
+        "pagesCitingAnyAuthority": 0
+      }
+    },
+    {
+      "id": "keralaayurveda",
+      "name": "Kerala Ayurveda",
+      "origin": "https://keralaayurveda.com",
+      "ours": false,
+      "access": "allowed by its robots.txt and read",
+      "pagesInCatalogue": 526,
+      "pagesMeasured": 36,
+      "pagesWithQuantities": 0,
+      "pagesWithListOnly": 30,
+      "pagesWithNeither": 6,
+      "pagesUnreadable": 0,
+      "preparationsSold": 34,
+      "range": {
+        "pagesRead": 248,
+        "pagesAttempted": 248,
+        "pagesWithQuantities": 4,
+        "pagesWithListOnly": 170,
+        "pagesWithNeither": 74,
+        "pagesUnreadable": 0,
+        "pagesStatingADose": 242,
+        "pagesCitingTheFormulary": 0,
+        "pagesCitingAnyAuthority": 23
+      }
+    },
+    {
+      "id": "sna",
+      "name": "SNA Oushadhasala",
+      "origin": "https://www.snaoushadhasala.com",
+      "ours": false,
+      "access": "allowed by its robots.txt and read",
+      "pagesInCatalogue": 1589,
+      "pagesMeasured": 36,
+      "pagesWithQuantities": 1,
+      "pagesWithListOnly": 0,
+      "pagesWithNeither": 35,
+      "pagesUnreadable": 0,
+      "preparationsSold": 30,
+      "range": {
+        "pagesRead": 473,
+        "pagesAttempted": 1558,
+        "pagesWithQuantities": 10,
+        "pagesWithListOnly": 2,
+        "pagesWithNeither": 461,
+        "pagesUnreadable": 0,
+        "pagesStatingADose": 463,
+        "pagesCitingTheFormulary": 0,
+        "pagesCitingAnyAuthority": 135
       }
     },
     {
@@ -108,15 +233,65 @@
       "pagesUnreadable": 0,
       "preparationsSold": 31,
       "range": {
-        "pagesRead": 272,
+        "pagesRead": 277,
         "pagesAttempted": 277,
-        "pagesWithQuantities": 208,
+        "pagesWithQuantities": 211,
         "pagesWithListOnly": 35,
-        "pagesWithNeither": 19,
-        "pagesUnreadable": 10,
-        "pagesStatingADose": 261,
+        "pagesWithNeither": 20,
+        "pagesUnreadable": 11,
+        "pagesStatingADose": 265,
         "pagesCitingTheFormulary": 2,
-        "pagesCitingAnyAuthority": 25
+        "pagesCitingAnyAuthority": 26
+      }
+    },
+    {
+      "id": "sandu",
+      "name": "Sandu Pharmaceuticals",
+      "origin": "https://sandu.in",
+      "ours": false,
+      "access": "allowed by its robots.txt and read",
+      "pagesInCatalogue": 423,
+      "pagesMeasured": 30,
+      "pagesWithQuantities": 0,
+      "pagesWithListOnly": 0,
+      "pagesWithNeither": 30,
+      "pagesUnreadable": 0,
+      "preparationsSold": 17,
+      "range": {
+        "pagesRead": 123,
+        "pagesAttempted": 123,
+        "pagesWithQuantities": 0,
+        "pagesWithListOnly": 0,
+        "pagesWithNeither": 123,
+        "pagesUnreadable": 0,
+        "pagesStatingADose": 13,
+        "pagesCitingTheFormulary": 0,
+        "pagesCitingAnyAuthority": 1
+      }
+    },
+    {
+      "id": "oushadhi",
+      "name": "Oushadhi",
+      "origin": "https://www.oushadhi.org",
+      "ours": false,
+      "access": "allowed by its robots.txt and read",
+      "pagesInCatalogue": 146,
+      "pagesMeasured": 10,
+      "pagesWithQuantities": 8,
+      "pagesWithListOnly": 0,
+      "pagesWithNeither": 2,
+      "pagesUnreadable": 0,
+      "preparationsSold": 8,
+      "range": {
+        "pagesRead": 88,
+        "pagesAttempted": 89,
+        "pagesWithQuantities": 66,
+        "pagesWithListOnly": 0,
+        "pagesWithNeither": 22,
+        "pagesUnreadable": 0,
+        "pagesStatingADose": 0,
+        "pagesCitingTheFormulary": 0,
+        "pagesCitingAnyAuthority": 0
       }
     },
     {
@@ -260,12 +435,27 @@
       }
     },
     {
+      "id": "nagarjuna",
+      "name": "Nagarjuna Herbal Concentrates",
+      "origin": "https://www.nagarjunaayurveda.com",
+      "ours": false,
+      "access": "its sitemap is readable and lists no individual product page at all, only category listings, so there is no product page of theirs for a composition to appear on",
+      "pagesInCatalogue": 316,
+      "pagesMeasured": 0,
+      "pagesWithQuantities": 0,
+      "pagesWithListOnly": 0,
+      "pagesWithNeither": 0,
+      "pagesUnreadable": 0,
+      "preparationsSold": 0,
+      "range": null
+    },
+    {
       "id": "unjha",
       "name": "Unjha Pharmacy",
       "origin": "https://unjhapharmacy.com",
       "ours": false,
-      "access": "no readable sitemap was found, so its catalogue could not be enumerated",
-      "pagesInCatalogue": 0,
+      "access": "no sitemap was found, and all 2 catalogue links on its own home page return 404, so its catalogue cannot be reached from its own site",
+      "pagesInCatalogue": 96,
       "pagesMeasured": 0,
       "pagesWithQuantities": 0,
       "pagesWithListOnly": 0,
@@ -277,10 +467,10 @@
     {
       "id": "vaidyaratnam",
       "name": "Vaidyaratnam Oushadhasala",
-      "origin": "https://vaidyaratnam.com",
+      "origin": "https://vaidyaratnammooss.com",
       "ours": false,
-      "access": "no readable sitemap was found, so its catalogue could not be enumerated",
-      "pagesInCatalogue": 0,
+      "access": "its catalogue lists its products as top-level page names that cannot be told apart from its ordinary site pages, so its individual product pages could not be identified here. This is a limit of our own matching, not a statement about what it publishes",
+      "pagesInCatalogue": 216,
       "pagesMeasured": 0,
       "pagesWithQuantities": 0,
       "pagesWithListOnly": 0,
@@ -291,6 +481,128 @@
     }
   ],
   "preparations": [
+    {
+      "slug": "abhayarishta",
+      "name": "Abhayarishta",
+      "formularyHeading": "ABHAYARISTA",
+      "page": "/formulation/abhayarishta/",
+      "afiPart": "I",
+      "entryNumber": "1:1",
+      "ingredientCount": 16,
+      "ingredientsWithAQuantity": 16,
+      "companies": {
+        "avn": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.avnayurveda.com/product/abhayarishtam/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://avpayurveda.com/products/abhayarishtam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "baidyanath": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/baidyanath-abhayarisht-450-ml",
+            "https://www.baidyanathayurved.com/products/kabz-har-abhyarishta-triphala-juice"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "dabur": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.dabur.com/our-brand/dabur-abhyarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "keralaayurveda": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://keralaayurveda.com/products/abhayarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/abhyarishta-for-treatment-of-constipation-450ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "oushadhi": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.oushadhi.org/product/abhayarishtam"
+          ],
+          "readOn": "2026-10-09"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/arishta/divya-abhayarista-new/2"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sandu": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://sandu.in/abhayarishta-benefits-ayurvedic-support-for-digestive-wellness/",
+            "https://sandu.in/product/sandu-abhayarishta/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/abhayarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/abhayarishtam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sna": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.snaoushadhasala.com/product/abhayaarishtam"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
     {
       "slug": "chyawanprash",
       "name": "Chyawanprash",
@@ -307,6 +619,27 @@
           "pagesInThatState": 1,
           "urls": [
             "https://ageayurveda.com/products/chyawanprash"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avn": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.avnayurveda.com/product/chyavanaprasam/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 4,
+          "pagesInThatState": 4,
+          "urls": [
+            "https://avpayurveda.com/products/chyavanaprasam-an-age-defying-formula-250-gms",
+            "https://avpayurveda.com/products/chyavanaprasam-200-gms",
+            "https://avpayurveda.com/products/chyavanaprasam-400-gms",
+            "https://avpayurveda.com/products/chyavanaprasam-500-gms-an-age-defying-formula-immunity-booster-enhanced-energy-levels"
           ],
           "readOn": "2026-10-08"
         },
@@ -344,6 +677,24 @@
           ],
           "readOn": "2026-10-08"
         },
+        "keralaayurveda": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://keralaayurveda.com/products/chyavanprash"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "oushadhi": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.oushadhi.org/product/oushadhi-chyavanaprasam-chocolate-flavour"
+          ],
+          "readOn": "2026-10-09"
+        },
         "patanjali": {
           "state": "quantities",
           "pages": 7,
@@ -368,6 +719,17 @@
           ],
           "readOn": "2026-10-08"
         },
+        "sitaram": {
+          "state": "list",
+          "pages": 3,
+          "pagesInThatState": 3,
+          "urls": [
+            "https://sitaramayurveda.com/products/chyavanaprasam-kashayam",
+            "https://sitaramayurveda.com/products/chyavanaprasa-kashaya-tablet",
+            "https://sitaramayurveda.com/products/chyavanaprasa"
+          ],
+          "readOn": "2026-10-08"
+        },
         "zandu": {
           "state": "list",
           "pages": 2,
@@ -375,121 +737,6 @@
           "urls": [
             "https://zanducare.com/products/zandu-chyavanprash-avaleha-900g-pack-of-2",
             "https://zanducare.com/products/zandu-chyavanprash-avaleha-jaggery-gur900gpack-of-2"
-          ],
-          "readOn": "2026-10-08"
-        }
-      }
-    },
-    {
-      "slug": "abhayarishta",
-      "name": "Abhayarishta",
-      "formularyHeading": "ABHAYARISTA",
-      "page": "/formulation/abhayarishta/",
-      "afiPart": "I",
-      "entryNumber": "1:1",
-      "ingredientCount": 16,
-      "ingredientsWithAQuantity": 16,
-      "companies": {
-        "baidyanath": {
-          "state": "neither",
-          "pages": 2,
-          "pagesInThatState": 2,
-          "urls": [
-            "https://www.baidyanathayurved.com/products/baidyanath-abhayarisht-450-ml",
-            "https://www.baidyanathayurved.com/products/kabz-har-abhyarishta-triphala-juice"
-          ],
-          "readOn": "2026-10-08"
-        },
-        "dabur": {
-          "state": "neither",
-          "pages": 1,
-          "pagesInThatState": 1,
-          "urls": [
-            "https://www.dabur.com/our-brand/dabur-abhyarishta"
-          ],
-          "readOn": "2026-10-08"
-        },
-        "maharishi": {
-          "state": "neither",
-          "pages": 1,
-          "pagesInThatState": 1,
-          "urls": [
-            "https://maharishiayurvedaindia.com/products/abhyarishta-for-treatment-of-constipation-450ml"
-          ],
-          "readOn": "2026-10-08"
-        },
-        "patanjali": {
-          "state": "list",
-          "pages": 1,
-          "pagesInThatState": 1,
-          "urls": [
-            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/arishta/divya-abhayarista-new/2"
-          ],
-          "readOn": "2026-10-08"
-        },
-        "sdl": {
-          "state": "quantities",
-          "pages": 1,
-          "pagesInThatState": 1,
-          "urls": [
-            "https://www.sdlindia.com/products/abhayarishta"
-          ],
-          "readOn": "2026-10-08"
-        }
-      }
-    },
-    {
-      "slug": "ashokarishta",
-      "name": "Ashokarishta",
-      "formularyHeading": "ASOKARISTA",
-      "page": "/formulation/ashokarishta/",
-      "afiPart": "I",
-      "entryNumber": "1:5",
-      "ingredientCount": 16,
-      "ingredientsWithAQuantity": 16,
-      "companies": {
-        "baidyanath": {
-          "state": "neither",
-          "pages": 1,
-          "pagesInThatState": 1,
-          "urls": [
-            "https://www.baidyanathayurved.com/products/baidyanath-ashokarishta-450-ml"
-          ],
-          "readOn": "2026-10-08"
-        },
-        "dabur": {
-          "state": "list",
-          "pages": 1,
-          "pagesInThatState": 1,
-          "urls": [
-            "https://www.dabur.com/our-brand/dabur-ashokarishta"
-          ],
-          "readOn": "2026-10-08"
-        },
-        "maharishi": {
-          "state": "neither",
-          "pages": 1,
-          "pagesInThatState": 1,
-          "urls": [
-            "https://maharishiayurvedaindia.com/products/ashokarishta"
-          ],
-          "readOn": "2026-10-08"
-        },
-        "patanjali": {
-          "state": "list",
-          "pages": 1,
-          "pagesInThatState": 1,
-          "urls": [
-            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/arishta/divya-asokarista/20"
-          ],
-          "readOn": "2026-10-08"
-        },
-        "sdl": {
-          "state": "quantities",
-          "pages": 1,
-          "pagesInThatState": 1,
-          "urls": [
-            "https://www.sdlindia.com/products/ashokarishta"
           ],
           "readOn": "2026-10-08"
         }
@@ -505,6 +752,24 @@
       "ingredientCount": 72,
       "ingredientsWithAQuantity": 72,
       "companies": {
+        "avn": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.avnayurveda.com/product/dasamoolarishtam/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://avpayurveda.com/products/dasamoolarishtam"
+          ],
+          "readOn": "2026-10-08"
+        },
         "baidyanath": {
           "state": "neither",
           "pages": 1,
@@ -520,6 +785,15 @@
           "pagesInThatState": 1,
           "urls": [
             "https://www.dabur.com/our-brand/dabur-dashmularishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "keralaayurveda": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://keralaayurveda.com/products/dasamoolarishta"
           ],
           "readOn": "2026-10-08"
         },
@@ -541,12 +815,2398 @@
           ],
           "readOn": "2026-10-08"
         },
+        "sandu": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://sandu.in/how-ayurvedic-pain-killers-like-dashmularishta-ease-pain-naturally/",
+            "https://sandu.in/product/sandu-dashmularishta/"
+          ],
+          "readOn": "2026-10-08"
+        },
         "sdl": {
           "state": "quantities",
           "pages": 1,
           "pagesInThatState": 1,
           "urls": [
             "https://www.sdlindia.com/products/dashamoolarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/dasamoolarishtam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sna": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.snaoushadhasala.com/product/dashamoolaarishtam"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "amritarishta",
+      "name": "Amritarishta",
+      "formularyHeading": "AMRTARISTA",
+      "page": "/formulation/amritarishta/",
+      "afiPart": "I",
+      "entryNumber": "1:2",
+      "ingredientCount": 24,
+      "ingredientsWithAQuantity": 24,
+      "companies": {
+        "avn": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.avnayurveda.com/amrutharishtam/"
+          ],
+          "readOn": "2026-10-09"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://avpayurveda.com/products/amrutharishtam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "baidyanath": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/baidyanath-amritarishta-450-ml",
+            "https://www.baidyanathayurved.com/products/typhoid-care-combo-amritarishta-mahasudarshan-kwath"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "keralaayurveda": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://keralaayurveda.com/products/amrutharishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/amritarista-450-ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "oushadhi": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.oushadhi.org/product/amrutharishtam"
+          ],
+          "readOn": "2026-10-09"
+        },
+        "sandu": {
+          "state": "neither",
+          "pages": 3,
+          "pagesInThatState": 3,
+          "urls": [
+            "https://sandu.in/boost-immunity-naturally-with-mskplus-and-amritarishtha-combo/",
+            "https://sandu.in/product/msk-plus-450ml-amritarishtha-450ml/",
+            "https://sandu.in/product/sandu-amritarishta/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/amrutarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/amrutharishtam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sna": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.snaoushadhasala.com/product/amrutaarishtam"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "ashokarishta",
+      "name": "Ashokarishta",
+      "formularyHeading": "ASOKARISTA",
+      "page": "/formulation/ashokarishta/",
+      "afiPart": "I",
+      "entryNumber": "1:5",
+      "ingredientCount": 16,
+      "ingredientsWithAQuantity": 16,
+      "companies": {
+        "avn": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.avnayurveda.com/product/asokarishtam/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://avpayurveda.com/products/asokarishtam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "baidyanath": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/baidyanath-ashokarishta-450-ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "dabur": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.dabur.com/our-brand/dabur-ashokarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "keralaayurveda": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://keralaayurveda.com/products/asokarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/ashokarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/arishta/divya-asokarista/20"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sandu": {
+          "state": "neither",
+          "pages": 3,
+          "pagesInThatState": 3,
+          "urls": [
+            "https://sandu.in/ashokarishta-syrup-uses-and-benefits-for-womens-health/",
+            "https://sandu.in/ashokarishta-the-ayurvedic-medicine-for-womens-health/",
+            "https://sandu.in/product/sandu-ashokarishta/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/ashokarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/ashokarishtam"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "ashwagandharishta",
+      "name": "Ashwagandharishta",
+      "formularyHeading": "ASVAGANDHADYARISTA",
+      "page": "/formulation/ashwagandharishta/",
+      "afiPart": "I",
+      "entryNumber": "1:6",
+      "ingredientCount": 29,
+      "ingredientsWithAQuantity": 29,
+      "companies": {
+        "avn": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.avnayurveda.com/product/aswagandharishtam/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://avpayurveda.com/products/aswagandharishtam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "baidyanath": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/ashwagandharishta-450-ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "dabur": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.dabur.com/our-brand/dabur-ashwagandharishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "keralaayurveda": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://keralaayurveda.com/products/aswagandharishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/ashwagandharishta-for-stress-and-anxiety-450ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sandu": {
+          "state": "neither",
+          "pages": 4,
+          "pagesInThatState": 4,
+          "urls": [
+            "https://sandu.in/stay-energetic-this-monsoon-with-ashwagandharishta/",
+            "https://sandu.in/product/sandu-ashwagandharishta-450-ml-sandu-vimfix-60-tabs/",
+            "https://sandu.in/product/sandu-ashwagandharishta-450-ml-stresan-30-tabs/",
+            "https://sandu.in/product/sandu-ashwagandharishta/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/ashvagandharishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/aswagandharishtam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sna": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.snaoushadhasala.com/product/ashwagandhaarishtam"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "kutajarishta",
+      "name": "Kutajarishta",
+      "formularyHeading": "KUTAJARISTA",
+      "page": "/formulation/kutajarishta/",
+      "afiPart": "I",
+      "entryNumber": "1:11",
+      "ingredientCount": 7,
+      "ingredientsWithAQuantity": 7,
+      "companies": {
+        "avn": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.avnayurveda.com/product/kutajarishtam/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://avpayurveda.com/products/kutajarishtam-450-ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "baidyanath": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/kutajarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "keralaayurveda": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://keralaayurveda.com/products/kutajarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/kutjarishta-for-irritable-bowel-syndrome-management-450ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/arishta/divya-kutajarista/85"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sandu": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://sandu.in/how-kutajarishta-supports-digestive-health-and-stops-diarrhoea-naturally/",
+            "https://sandu.in/product/sandu-kutajarishta/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/kutajarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/kutajarishtam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sna": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.snaoushadhasala.com/product/kutajaarishtam"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "aravindasava",
+      "name": "Aravindasava",
+      "formularyHeading": "ARAVINDASAVA",
+      "page": "/formulation/aravindasava/",
+      "afiPart": "I",
+      "entryNumber": "1:4",
+      "ingredientCount": 28,
+      "ingredientsWithAQuantity": 27,
+      "companies": {
+        "avn": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.avnayurveda.com/product/aravindasavam/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://avpayurveda.com/products/aravindasavam-450-ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/arvindasava-tonic-for-children-200ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "oushadhi": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.oushadhi.org/product/aravindasavam"
+          ],
+          "readOn": "2026-10-09"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/asava/divya-aravindasava/17"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sandu": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sandu.in/product/sandu-arvindasav-classical-paediatric-tonic-450-ml/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/aravindasava"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/aravindasavam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sna": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.snaoushadhasala.com/product/aravindaasavam"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "dashamula",
+      "name": "Dashamula",
+      "formularyHeading": "DASAMULA KVATHA CURNA",
+      "page": "/formulation/dashamula/",
+      "afiPart": "I",
+      "entryNumber": "4:10",
+      "ingredientCount": 10,
+      "ingredientsWithAQuantity": 10,
+      "companies": {
+        "avn": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://www.avnayurveda.com/product/dasamoolam-kashayam/",
+            "https://www.avnayurveda.com/product/dasamoolam-kashayam-tablet/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://avpayurveda.com/products/dasamoolam-kashayam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "baidyanath": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/baidyanath-dashmool-kadha"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "keralaayurveda": {
+          "state": "list",
+          "pages": 2,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://keralaayurveda.com/products/dasamoolam-kwath",
+            "https://keralaayurveda.com/products/dasamoola-rasayanam-100-gm"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 4,
+          "pagesInThatState": 4,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/dashmoola-taila-for-headaches-50ml",
+            "https://maharishiayurvedaindia.com/products/dashmoola-kashaya",
+            "https://maharishiayurvedaindia.com/products/dashmoola-katutrayadi-kashayam",
+            "https://maharishiayurvedaindia.com/products/dashmool-kashaya"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/combo-offers/combos/combo-divya-dashmool-kwath-100g-pack-of-2/7064",
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/kwath/divya-dashmool-kwath/35"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sandu": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sandu.in/product/sandu-dashmool-kadha-no-1-450ml/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "list",
+          "pages": 5,
+          "pagesInThatState": 4,
+          "urls": [
+            "https://sitaramayurveda.com/products/dasamool-cough-syrup",
+            "https://sitaramayurveda.com/products/dasamoola-rasayanam-100-gm",
+            "https://sitaramayurveda.com/products/dasamoola-kashaya",
+            "https://sitaramayurveda.com/products/dasamoola-kashayam-tablet-50-nos",
+            "https://sitaramayurveda.com/products/rasna-dashamoola-kashayam-200-ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sna": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://www.snaoushadhasala.com/product/dashamoolam",
+            "https://www.snaoushadhasala.com/product/dashamoola-tailam"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "saraswatarishta",
+      "name": "Saraswatarishta",
+      "formularyHeading": "SARASVATARISTA",
+      "page": "/formulation/saraswatarishta/",
+      "afiPart": "I",
+      "entryNumber": "1:36",
+      "ingredientCount": 24,
+      "ingredientsWithAQuantity": 23,
+      "companies": {
+        "avn": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.avnayurveda.com/product/saraswatarishtam/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://avpayurveda.com/products/saraswatharistham-with-gold"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "keralaayurveda": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://keralaayurveda.com/products/saraswatharishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/saraswatarishta-brain-tonic-50ml",
+            "https://maharishiayurvedaindia.com/products/saraswatarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/arishta/divya-sarasvatarista/161"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sandu": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://sandu.in/saraswatarishta-uses-and-benefits-for-memory-and-focus/",
+            "https://sandu.in/product/sandu-saraswatarishta/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/saraswatarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/saraswatharishtam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sna": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.snaoushadhasala.com/product/saaraswataarishtam"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "triphala-churna",
+      "name": "Triphala Churna",
+      "formularyHeading": "TRIPHALA CURNA",
+      "page": "/formulation/triphala-churna/",
+      "afiPart": "I",
+      "entryNumber": "7:15",
+      "ingredientCount": 3,
+      "ingredientsWithAQuantity": 3,
+      "companies": {
+        "baidyanath": {
+          "state": "neither",
+          "pages": 3,
+          "pagesInThatState": 3,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/triphala-churna-240-gm-pack-of-2",
+            "https://www.baidyanathayurved.com/products/triphala-churna",
+            "https://www.baidyanathayurved.com/products/baidyanath-triphala-churna-500-gm"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "dabur": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.dabur.com/our-brand/dabur-triphala-churna"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "keralaayurveda": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://keralaayurveda.com/products/triphala-choornam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "oushadhi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.oushadhi.org/product/thriphala-churnam-ed"
+          ],
+          "readOn": "2026-10-09"
+        },
+        "patanjali": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/combo-offers/combos/combo-triphala-churna-100g-pack-of-2/6997",
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/churna/divya-triphala-churna/199"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sandu": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://sandu.in/understanding-triphala-churna-and-isabgol-in-ayurveda/",
+            "https://sandu.in/product/sandu-triphala-churna-100-g-pack-of-2/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/triphala-choorna"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/triphala-choornam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sna": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.snaoushadhasala.com/product/triphalaa-choornam-%28varaa-choornam%29"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "anu-taila",
+      "name": "Anu Taila",
+      "formularyHeading": "ANU TAILA",
+      "page": "/formulation/anu-taila/",
+      "afiPart": "I",
+      "entryNumber": "8:1",
+      "ingredientCount": 30,
+      "ingredientsWithAQuantity": 29,
+      "companies": {
+        "avn": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.avnayurveda.com/product/anu-tailam/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://avpayurveda.com/products/anu-thailam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "keralaayurveda": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://keralaayurveda.com/products/anu-thailam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/anu-taila"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "oushadhi": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.oushadhi.org/product/anuthailam"
+          ],
+          "readOn": "2026-10-09"
+        },
+        "patanjali": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/oil/divya-anu-taila/1645"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/anu-taila"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/anutailam"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "balarishta",
+      "name": "Balarishta",
+      "formularyHeading": "BALARISTA",
+      "page": "/formulation/balarishta/",
+      "afiPart": "I",
+      "entryNumber": "1:24",
+      "ingredientCount": 13,
+      "ingredientsWithAQuantity": 13,
+      "companies": {
+        "avn": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.avnayurveda.com/product/balarishtam/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://avpayurveda.com/products/balarishtam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "keralaayurveda": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://keralaayurveda.com/products/balarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/balarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/balarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/balarishtam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sna": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.snaoushadhasala.com/product/balaarishtam"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "haridra-khanda",
+      "name": "Haridra Khanda",
+      "formularyHeading": "HARIDRA KHANDA",
+      "page": "/formulation/haridra-khanda/",
+      "afiPart": "I",
+      "entryNumber": "3:31",
+      "ingredientCount": 18,
+      "ingredientsWithAQuantity": 17,
+      "companies": {
+        "avp": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://avpayurveda.com/products/haridrakhandam-anti-allergy-ayurvedic-medicine",
+            "https://avpayurveda.com/products/haridrakhandam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "baidyanath": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/baidyanath-haridra-khand-brihat"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/haridra-khand"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/churna/divya-haridrakhanda/55"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/haridrakhanda-choorna"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/haridrakhandam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sna": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.snaoushadhasala.com/product/haridraakhandam"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "kshirabala-thailam",
+      "name": "Kshirabala Thailam",
+      "formularyHeading": "KSIRABALA TAILA",
+      "page": "/formulation/kshirabala-thailam/",
+      "afiPart": "I",
+      "entryNumber": "8:11",
+      "ingredientCount": 5,
+      "ingredientsWithAQuantity": 5,
+      "companies": {
+        "avn": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.avnayurveda.com/product/ksheerabala-tailam/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://avpayurveda.com/products/ksheerabala-thailam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "keralaayurveda": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://keralaayurveda.com/products/ksheerabala-thailam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/ksheerbala-taila"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/oil/divya-ksirabala-taila/81"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/ksheerabala-thailam-200-ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sna": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.snaoushadhasala.com/product/ksheerabalaatailam"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "punarnavasava",
+      "name": "Punarnavasava",
+      "formularyHeading": "PUNARNAVASAVA",
+      "page": "/formulation/punarnavasava/",
+      "afiPart": "I",
+      "entryNumber": "1:23",
+      "ingredientCount": 25,
+      "ingredientsWithAQuantity": 7,
+      "companies": {
+        "avn": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.avnayurveda.com/product/punarnavasavam/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://avpayurveda.com/products/punarnavasavam-450-ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "keralaayurveda": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://keralaayurveda.com/products/punarnavasava"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sandu": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sandu.in/product/sandu-punarnavasav/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/punarnavasav"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/punarnavasavam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sna": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.snaoushadhasala.com/product/punarnavaasavam"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "arjunarishta",
+      "name": "Arjunarishta",
+      "formularyHeading": "PARTHADYARISTA (Synonym : Arjunarista)",
+      "page": "/formulation/arjunarishta/",
+      "afiPart": "I",
+      "entryNumber": "1:21",
+      "ingredientCount": 6,
+      "ingredientsWithAQuantity": 6,
+      "companies": {
+        "baidyanath": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/arjunarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/arjunarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/arishta/divya-arjunarista/12"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sandu": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://sandu.in/arjunarishta-vs-modern-heart-medications-a-comparative-insight/",
+            "https://sandu.in/product/sandu-arjunarishta/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/arjunarishta-parthadyarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/arjunarishtam-partharishtam"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "draksharishta",
+      "name": "Draksharishta",
+      "formularyHeading": "DRAKSARISTA",
+      "page": "/formulation/draksharishta/",
+      "afiPart": "I",
+      "entryNumber": "1:20",
+      "ingredientCount": 12,
+      "ingredientsWithAQuantity": 12,
+      "companies": {
+        "avn": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.avnayurveda.com/product/draksharishtam/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://avpayurveda.com/products/draksharishtam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "keralaayurveda": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://keralaayurveda.com/products/draksharishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/draksharishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/draksharishtam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sna": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.snaoushadhasala.com/product/draakshaarishtam"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "kanchanara-guggulu",
+      "name": "Kanchanara Guggulu",
+      "formularyHeading": "KANCANARA GUGGULU",
+      "page": "/formulation/kanchanara-guggulu/",
+      "afiPart": "I",
+      "entryNumber": "5:1",
+      "ingredientCount": 12,
+      "ingredientsWithAQuantity": 12,
+      "companies": {
+        "baidyanath": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/baidyanath-kanchnar-guggulu-160-tablets",
+            "https://www.baidyanathayurved.com/products/baidyanath-kanchnar-guggulu-pack-of-2-80-tablets"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "keralaayurveda": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://keralaayurveda.com/products/kanchanar-guggulu"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/kanchnar-guggulu-100-tabs"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/guggul/divya-kanchnar-guggul/68"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/kanchanar-guggul"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/kanchanara-guggulu-tablets-60-nos"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "kumaryasava",
+      "name": "Kumaryasava",
+      "formularyHeading": "KUMARYASAVA (A)",
+      "page": "/formulation/kumaryasava/",
+      "afiPart": "I",
+      "entryNumber": "1:12",
+      "ingredientCount": 46,
+      "ingredientsWithAQuantity": 42,
+      "companies": {
+        "avn": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.avnayurveda.com/product/kumaryasavam/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://avpayurveda.com/products/kumaryasavam-450-ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "keralaayurveda": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://keralaayurveda.com/products/kumaryasava"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/kumaryasava"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/asava/divya-kumaryasava/84"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/kumaryasavam"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "kumkumadi-tailam",
+      "name": "Kumkumadi Tailam",
+      "formularyHeading": "KUNKUMADI TAILA",
+      "page": "/formulation/kumkumadi-tailam/",
+      "afiPart": "I",
+      "entryNumber": "8:8",
+      "ingredientCount": 29,
+      "ingredientsWithAQuantity": 29,
+      "companies": {
+        "avn": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.avnayurveda.com/product/kumkumadi-tailam/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://avpayurveda.com/products/kumkumadi-thailam",
+            "https://avpayurveda.com/products/kumkumadi-thailam-night-face-serum-skin-recovery-prevents-pigmentation-even-skin-tone-copy"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/kumkumadi-tailam-for-radiant-skin-10ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/kumkumadi-tailam-10-ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sna": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://www.snaoushadhasala.com/product/kumkumaadi-thailam-cream-pDHdjh",
+            "https://www.snaoushadhasala.com/product/kumkumaaditailam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "zandu": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://zanducare.com/products/zandu-kumkumadi-taila-30ml"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "pushyanuga-churna",
+      "name": "Pushyanuga Churna",
+      "formularyHeading": "PUSYANUGA CURNA",
+      "page": "/formulation/pushyanuga-churna/",
+      "afiPart": "I",
+      "entryNumber": "7:23",
+      "ingredientCount": 26,
+      "ingredientsWithAQuantity": 26,
+      "companies": {
+        "avn": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.avnayurveda.com/product/pushyanugam-choornam/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://avpayurveda.com/products/pushyanuga-choornam-25-gms"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/pushyanuga-churna-for-womens-health-25-gms"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/churna/divya-pushyanug-churna/147"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/pushyanuga-choorna"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/pushyanuga-churna-50-gm"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "amritottaram-kashayam",
+      "name": "Amritottaram Kashayam",
+      "formularyHeading": "AMRTOTTARA KVATHA CURNA (Synonym : Nagaradi Kvatha Curna)",
+      "page": "/formulation/amritottaram-kashayam/",
+      "afiPart": "I",
+      "entryNumber": "4:1",
+      "ingredientCount": 4,
+      "ingredientsWithAQuantity": 3,
+      "companies": {
+        "avn": {
+          "state": "neither",
+          "pages": 3,
+          "pagesInThatState": 3,
+          "urls": [
+            "https://www.avnayurveda.com/product/amrutotaram-kashayam/",
+            "https://www.avnayurveda.com/product/amrutotaram-kashayam-tablet-copy/",
+            "https://www.avnayurveda.com/product/amrutotaram-kashayam-tablet/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://avpayurveda.com/products/amruthotharam-kashayam-100-tablets"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "oushadhi": {
+          "state": "quantities",
+          "pages": 3,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://www.oushadhi.org/product/amruthotharam-kashaya-sookshma-choornam",
+            "https://www.oushadhi.org/product/amruthotharam-kashayam-2",
+            "https://www.oushadhi.org/product/amruthotharam-kashayam-tablet"
+          ],
+          "readOn": "2026-10-09"
+        },
+        "sitaram": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://sitaramayurveda.com/products/amruthotharam-kashaya",
+            "https://sitaramayurveda.com/products/amruthotharam-kashayam-tablet"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sna": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://www.snaoushadhasala.com/product/amruthotharam-kashayam-tablet",
+            "https://www.snaoushadhasala.com/product/amrutottaram-kashayam"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "brahmi-ghritam",
+      "name": "Brahmi Ghritam",
+      "formularyHeading": "BRAHMI GHRTA",
+      "page": "/formulation/brahmi-ghritam/",
+      "afiPart": "I",
+      "entryNumber": "6:32",
+      "ingredientCount": 12,
+      "ingredientsWithAQuantity": 11,
+      "companies": {
+        "avn": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.avnayurveda.com/product/brahmi-ghritam/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://avpayurveda.com/products/brahmi-gritham-capsules-100-tablets-box",
+            "https://avpayurveda.com/products/brahmi-gritham-150g"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "keralaayurveda": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://keralaayurveda.com/products/brahmi-ghritham"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/kwath/divya-brahmi-ghrita/1589"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sna": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.snaoushadhasala.com/product/brahmeeghrutam"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "chandraprabha-vati",
+      "name": "Chandraprabha Vati",
+      "formularyHeading": "CANDRAPRABHA VATI",
+      "page": "/formulation/chandraprabha-vati/",
+      "afiPart": "I",
+      "entryNumber": "12:10",
+      "ingredientCount": 37,
+      "ingredientsWithAQuantity": 37,
+      "companies": {
+        "avp": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://avpayurveda.com/products/chandraprabha-vatika-100-tabs"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "baidyanath": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/baidyanath-chandraprabha-bati-80-tb-pack-of-2",
+            "https://www.baidyanathayurved.com/products/baidyanath-chandraprabha-bat-160-tablets"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/chandraprabha-vati"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/vati/divya-chandraprabha-vati/30"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sandu": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sandu.in/chandraprabha-vati-uses-in-ayurveda-benefits-and-ingredients/"
+          ],
+          "readOn": "2026-10-09"
+        }
+      }
+    },
+    {
+      "slug": "dhanwantaram-thailam",
+      "name": "Dhanwantaram Thailam",
+      "formularyHeading": "DHANVANTARA TAILA (Synonym : Bala taila)",
+      "page": "/formulation/dhanwantaram-thailam/",
+      "afiPart": "I",
+      "entryNumber": "8:22",
+      "ingredientCount": 49,
+      "ingredientsWithAQuantity": 49,
+      "companies": {
+        "avn": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.avnayurveda.com/product/dhanwantaram-tailam/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 7,
+          "pagesInThatState": 7,
+          "urls": [
+            "https://avpayurveda.com/products/dhanwantharam-thailam-balm-to-relieve-joint-and-muscle-pain",
+            "https://avpayurveda.com/products/dhanwantharam-thailam-nerve-and-muscle-relief",
+            "https://avpayurveda.com/products/dhanwantharam-thailam",
+            "https://avpayurveda.com/products/dhanwantharam-thailam-5ltr",
+            "https://avpayurveda.com/products/dhanwantaram-101-thailam-25ml-10ml",
+            "https://avpayurveda.com/products/dhanwantharam-thailam-mezhupakam-200-ml",
+            "https://avpayurveda.com/products/dhanwantharam-thailam-100-ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "keralaayurveda": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://keralaayurveda.com/products/dhanwantharam-thailam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/dhanvantar-taila-200-ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/dhanwantharam-thailam-200-ml"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "gandharvahastadi-kashayam",
+      "name": "Gandharvahastadi Kashayam",
+      "formularyHeading": "GANDHARVAHASTADI KVATHA CURNA",
+      "page": "/formulation/gandharvahastadi-kashayam/",
+      "afiPart": "I",
+      "entryNumber": "4:5",
+      "ingredientCount": 8,
+      "ingredientsWithAQuantity": 8,
+      "companies": {
+        "avn": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://www.avnayurveda.com/product/gandharvahastadi-kashayam-tablet/",
+            "https://www.avnayurveda.com/product/gandharvahastadi-kashayam/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://avpayurveda.com/products/gandharvahasthadi-kashayam-200-ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/gandharvhastadi-kashayam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://sitaramayurveda.com/products/gandharvahastadi-kashaya",
+            "https://sitaramayurveda.com/products/gandharvahastadi-kashayam-tablet-50-nos"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sna": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.snaoushadhasala.com/product/gandharvahastaadi-kashayam"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "gokshuradi-guggulu",
+      "name": "Gokshuradi Guggulu",
+      "formularyHeading": "GOKSURADI GUGGULU",
+      "page": "/formulation/gokshuradi-guggulu/",
+      "afiPart": "I",
+      "entryNumber": "5:3",
+      "ingredientCount": 10,
+      "ingredientsWithAQuantity": 10,
+      "companies": {
+        "avp": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://avpayurveda.com/products/gokshuradi-guggulu-tablet-100-tabs-2"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/goksuradi-guggulu-60-tablets"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/guggul/divya-gokshuradi-guggul/51"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sandu": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sandu.in/product/sandu-gokshuradi-guggul-25-tabs/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/gokshuradi-guggul"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "hinguvachadi-churna",
+      "name": "Hinguvachadi Churna",
+      "formularyHeading": "HINGUVACADI CURNA (Hingvadi Curna)",
+      "page": "/formulation/hinguvachadi-churna/",
+      "afiPart": "I",
+      "entryNumber": "7:39",
+      "ingredientCount": 24,
+      "ingredientsWithAQuantity": 24,
+      "companies": {
+        "avn": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.avnayurveda.com/product/hinguvachadi-choornam/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://avpayurveda.com/products/hinguvachadi-choornam-gulika-10-nos-strip",
+            "https://avpayurveda.com/products/hinguvachadi-choornam-25-gms"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "keralaayurveda": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://keralaayurveda.com/products/hinguvachadi-choornam-50-gm"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/hinguvachadi-choornam-50-gm"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sna": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.snaoushadhasala.com/product/hinguvachaadi-choornam"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "kaishore-guggul",
+      "name": "Kaishore Guggul",
+      "formularyHeading": "KAISORA GUGGULU",
+      "page": "/formulation/kaishore-guggul/",
+      "afiPart": "I",
+      "entryNumber": "5:2",
+      "ingredientCount": 17,
+      "ingredientsWithAQuantity": 17,
+      "companies": {
+        "baidyanath": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/baidyanath-kaishore-guggulu-pack-of-2-80-tablets",
+            "https://www.baidyanathayurved.com/products/baidyanath-kaishore-guggulu-160-tablets"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/kaishore-guggulu",
+            "https://maharishiayurvedaindia.com/products/kaishora-guggulu"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/guggul/divya-kaishore-guggul/64"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/kaishor-guggul"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/kaishora-guggulu-gulika-tablet-50-nos"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "kottamchukkadi-thailam",
+      "name": "Kottamchukkadi Thailam",
+      "formularyHeading": "KOTTAMCUKKADI TAILA",
+      "page": "/formulation/kottamchukkadi-thailam/",
+      "afiPart": "I",
+      "entryNumber": "8:10",
+      "ingredientCount": 12,
+      "ingredientsWithAQuantity": 11,
+      "companies": {
+        "avn": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.avnayurveda.com/product/kottamchukkadi-tailam/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://avpayurveda.com/products/kottamchukkadi-thailam-200-ml",
+            "https://avpayurveda.com/products/kottamchukkadi-thailam-450-ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "keralaayurveda": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://keralaayurveda.com/products/kottamchukkadi-thailam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/kottamchukkadi-tailam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sna": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.snaoushadhasala.com/product/kottamchukkaadi-thailam-cream-ByZhV9"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "pinda-thailam",
+      "name": "Pinda Thailam",
+      "formularyHeading": "PINDA TAILA",
+      "page": "/formulation/pinda-thailam/",
+      "afiPart": "I",
+      "entryNumber": "8:28",
+      "ingredientCount": 6,
+      "ingredientsWithAQuantity": 4,
+      "companies": {
+        "avn": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.avnayurveda.com/product/pinda-tailam/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://avpayurveda.com/products/pinda-thailam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "keralaayurveda": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://keralaayurveda.com/products/pinda-thailam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/pinda-thailam-200-ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sna": {
+          "state": "neither",
+          "pages": 3,
+          "pagesInThatState": 3,
+          "urls": [
+            "https://www.snaoushadhasala.com/product/pindatailam-cream-kN7vak",
+            "https://www.snaoushadhasala.com/product/khajitha-pindatailam",
+            "https://www.snaoushadhasala.com/product/pinda-tailam"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "pippalyasava",
+      "name": "Pippalyasava",
+      "formularyHeading": "PIPPALYADYASAVA",
+      "page": "/formulation/pippalyasava/",
+      "afiPart": "I",
+      "entryNumber": "1:22",
+      "ingredientCount": 27,
+      "ingredientsWithAQuantity": 27,
+      "companies": {
+        "avn": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.avnayurveda.com/product/pippalyasavam/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://avpayurveda.com/products/pippalyasavam-450-ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "baidyanath": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/baidyanath-pipplyasava"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "keralaayurveda": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://keralaayurveda.com/products/pippalyasavam-450-ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/pippalyasavam"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "rasnasaptakam-kashayam",
+      "name": "Rasnasaptakam Kashayam",
+      "formularyHeading": "RASNASAPTAKA KVATHA CURNA",
+      "page": "/formulation/rasnasaptakam-kashayam/",
+      "afiPart": "II",
+      "entryNumber": "4:20",
+      "ingredientCount": 7,
+      "ingredientsWithAQuantity": 0,
+      "companies": {
+        "avn": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://www.avnayurveda.com/product/rasnasaptakam-kashayam/",
+            "https://www.avnayurveda.com/product/rasnasaptakam-kashayam-tablet/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://avpayurveda.com/products/rasnasapthakam-kashayam-200-ml",
+            "https://avpayurveda.com/products/rasnasapthakam-kashayam-tablets-10-nos-strip"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/rasnasaptak-kashayam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "list",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://sitaramayurveda.com/products/rasnasaptakam-kashaya",
+            "https://sitaramayurveda.com/products/rasnasaptakam-kashayam-tablet"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sna": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://www.snaoushadhasala.com/product/raasnaasaptakam-kashayam-tablet",
+            "https://www.snaoushadhasala.com/product/raasnaasaptakam-kashayam"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "sahacharadi-thailam",
+      "name": "Sahacharadi Thailam",
+      "formularyHeading": "SAHACARADI TAILA",
+      "page": "/formulation/sahacharadi-thailam/",
+      "afiPart": "I",
+      "entryNumber": "8:59",
+      "ingredientCount": 33,
+      "ingredientsWithAQuantity": 31,
+      "companies": {
+        "avn": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.avnayurveda.com/product/sahacharadi-tailam-b/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://avpayurveda.com/products/sahacharadi-thailam-big"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "keralaayurveda": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://keralaayurveda.com/products/sahacharadi-thailam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/oil/divya-sahacharadi-taila/154"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/sahacharadi-tailam"
           ],
           "readOn": "2026-10-08"
         }
@@ -610,21 +3270,31 @@
       }
     },
     {
-      "slug": "arjunarishta",
-      "name": "Arjunarishta",
-      "formularyHeading": "PARTHADYARISTA (Synonym : Arjunarista)",
-      "page": "/formulation/arjunarishta/",
-      "afiPart": "I",
-      "entryNumber": "1:21",
-      "ingredientCount": 6,
-      "ingredientsWithAQuantity": 6,
+      "slug": "varunadi-kashayam",
+      "name": "Varunadi Kashayam",
+      "formularyHeading": "VARUNADI KVATHA CURNA",
+      "page": "/formulation/varunadi-kashayam/",
+      "afiPart": "II",
+      "entryNumber": "4:22",
+      "ingredientCount": 5,
+      "ingredientsWithAQuantity": 5,
       "companies": {
-        "baidyanath": {
+        "avn": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://www.avnayurveda.com/product/varanadi-kashayam-tablet/",
+            "https://www.avnayurveda.com/product/varanadi-kashayam/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
           "state": "neither",
           "pages": 1,
           "pagesInThatState": 1,
           "urls": [
-            "https://www.baidyanathayurved.com/products/arjunarishta"
+            "https://avpayurveda.com/products/varanadi-kashayam-200ml"
           ],
           "readOn": "2026-10-08"
         },
@@ -633,7 +3303,66 @@
           "pages": 1,
           "pagesInThatState": 1,
           "urls": [
-            "https://maharishiayurvedaindia.com/products/arjunarishta"
+            "https://maharishiayurvedaindia.com/products/varunadi-kashaya"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "list",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://sitaramayurveda.com/products/varanadi-kashaya",
+            "https://sitaramayurveda.com/products/varanadi-kashaya-tablet"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sna": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.snaoushadhasala.com/product/varanaadi-kashayam-tablet"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "yogaraja-guggulu",
+      "name": "Yogaraja Guggulu",
+      "formularyHeading": "YOGARAJA GUGGULU",
+      "page": "/formulation/yogaraja-guggulu/",
+      "afiPart": "I",
+      "entryNumber": "5:7",
+      "ingredientCount": 29,
+      "ingredientsWithAQuantity": 27,
+      "companies": {
+        "baidyanath": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://www.baidyanathayurved.com/products/baidyanath-yograj-guggulu-200-tablets",
+            "https://www.baidyanathayurved.com/products/baidyanath-yograj-guggulu-120-tablets-pack-of-2"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "keralaayurveda": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://keralaayurveda.com/products/yogaraja-guggulu-tablet"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/yograj-guggulu"
           ],
           "readOn": "2026-10-08"
         },
@@ -642,64 +3371,16 @@
           "pages": 1,
           "pagesInThatState": 1,
           "urls": [
-            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/arishta/divya-arjunarista/12"
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/guggul/divya-yograj-guggul/219"
           ],
           "readOn": "2026-10-08"
         },
         "sdl": {
-          "state": "quantities",
-          "pages": 1,
-          "pagesInThatState": 1,
-          "urls": [
-            "https://www.sdlindia.com/products/arjunarishta-parthadyarishta"
-          ],
-          "readOn": "2026-10-08"
-        }
-      }
-    },
-    {
-      "slug": "ashwagandharishta",
-      "name": "Ashwagandharishta",
-      "formularyHeading": "ASVAGANDHADYARISTA",
-      "page": "/formulation/ashwagandharishta/",
-      "afiPart": "I",
-      "entryNumber": "1:6",
-      "ingredientCount": 29,
-      "ingredientsWithAQuantity": 29,
-      "companies": {
-        "baidyanath": {
           "state": "neither",
           "pages": 1,
           "pagesInThatState": 1,
           "urls": [
-            "https://www.baidyanathayurved.com/products/ashwagandharishta-450-ml"
-          ],
-          "readOn": "2026-10-08"
-        },
-        "dabur": {
-          "state": "neither",
-          "pages": 1,
-          "pagesInThatState": 1,
-          "urls": [
-            "https://www.dabur.com/our-brand/dabur-ashwagandharishta"
-          ],
-          "readOn": "2026-10-08"
-        },
-        "maharishi": {
-          "state": "neither",
-          "pages": 1,
-          "pagesInThatState": 1,
-          "urls": [
-            "https://maharishiayurvedaindia.com/products/ashwagandharishta-for-stress-and-anxiety-450ml"
-          ],
-          "readOn": "2026-10-08"
-        },
-        "sdl": {
-          "state": "quantities",
-          "pages": 1,
-          "pagesInThatState": 1,
-          "urls": [
-            "https://www.sdlindia.com/products/ashvagandharishta"
+            "https://www.sdlindia.com/products/yogaraj-guggul"
           ],
           "readOn": "2026-10-08"
         }
@@ -755,21 +3436,127 @@
       }
     },
     {
-      "slug": "haridra-khanda",
-      "name": "Haridra Khanda",
-      "formularyHeading": "HARIDRA KHANDA",
-      "page": "/formulation/haridra-khanda/",
+      "slug": "brahma-rasayana",
+      "name": "Brahma Rasayana",
+      "formularyHeading": "BRAHMA RASAYANA",
+      "page": "/formulation/brahma-rasayana/",
       "afiPart": "I",
-      "entryNumber": "3:31",
-      "ingredientCount": 18,
-      "ingredientsWithAQuantity": 17,
+      "entryNumber": "3:20",
+      "ingredientCount": 46,
+      "ingredientsWithAQuantity": 46,
       "companies": {
-        "baidyanath": {
+        "avn": {
           "state": "neither",
           "pages": 1,
           "pagesInThatState": 1,
           "urls": [
-            "https://www.baidyanathayurved.com/products/baidyanath-haridra-khand-brihat"
+            "https://www.avnayurveda.com/product/brahmarasayanam/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://avpayurveda.com/products/brahmarasayanam-200-gms"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/brahma-rasaayanam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sna": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.snaoushadhasala.com/product/braahmarasaayanam"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "dadimadi-ghrita",
+      "name": "Dadimadi Ghrita",
+      "formularyHeading": "DADIMADI GHRTA",
+      "page": "/formulation/dadimadi-ghrita/",
+      "afiPart": "I",
+      "entryNumber": "6:19",
+      "ingredientCount": 7,
+      "ingredientsWithAQuantity": 7,
+      "companies": {
+        "avn": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.avnayurveda.com/product/dadimadi-ghritam/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://avpayurveda.com/products/dadimadi-gritham"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/dadimadi-ghrita-150-gm"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sna": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.snaoushadhasala.com/product/daadeemaadighrutam"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "drakshadi-kashayam",
+      "name": "Drakshadi Kashayam",
+      "formularyHeading": "DRAKSADI KVATHA CURNA",
+      "page": "/formulation/drakshadi-kashayam/",
+      "afiPart": "I",
+      "entryNumber": "4:13",
+      "ingredientCount": 17,
+      "ingredientsWithAQuantity": 17,
+      "companies": {
+        "avn": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://www.avnayurveda.com/product/drakshadi-kashayam-tablet/",
+            "https://www.avnayurveda.com/product/drakshadi-kashayam/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://avpayurveda.com/products/drakshadi-kashayam"
           ],
           "readOn": "2026-10-08"
         },
@@ -778,25 +3565,17 @@
           "pages": 1,
           "pagesInThatState": 1,
           "urls": [
-            "https://maharishiayurvedaindia.com/products/haridra-khand"
+            "https://maharishiayurvedaindia.com/products/drakshadi-kashaya"
           ],
           "readOn": "2026-10-08"
         },
-        "patanjali": {
+        "sitaram": {
           "state": "list",
-          "pages": 1,
-          "pagesInThatState": 1,
+          "pages": 2,
+          "pagesInThatState": 2,
           "urls": [
-            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/churna/divya-haridrakhanda/55"
-          ],
-          "readOn": "2026-10-08"
-        },
-        "sdl": {
-          "state": "quantities",
-          "pages": 1,
-          "pagesInThatState": 1,
-          "urls": [
-            "https://www.sdlindia.com/products/haridrakhanda-choorna"
+            "https://sitaramayurveda.com/products/drakshadi-kashayam-200-ml",
+            "https://sitaramayurveda.com/products/drakshadi-kashayam-tablet"
           ],
           "readOn": "2026-10-08"
         }
@@ -854,147 +3633,242 @@
       }
     },
     {
-      "slug": "kaishore-guggul",
-      "name": "Kaishore Guggul",
-      "formularyHeading": "KAISORA GUGGULU",
-      "page": "/formulation/kaishore-guggul/",
+      "slug": "indukantham-ghritam",
+      "name": "Indukantham Ghritam",
+      "formularyHeading": "INDUKANTA GHRTA",
+      "page": "/formulation/indukantham-ghritam/",
       "afiPart": "I",
-      "entryNumber": "5:2",
-      "ingredientCount": 17,
-      "ingredientsWithAQuantity": 17,
+      "entryNumber": "6:5",
+      "ingredientCount": 21,
+      "ingredientsWithAQuantity": 21,
       "companies": {
-        "baidyanath": {
+        "avn": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.avnayurveda.com/product/indukantam-ghritam/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
           "state": "neither",
           "pages": 2,
           "pagesInThatState": 2,
           "urls": [
-            "https://www.baidyanathayurved.com/products/baidyanath-kaishore-guggulu-pack-of-2-80-tablets",
-            "https://www.baidyanathayurved.com/products/baidyanath-kaishore-guggulu-160-tablets"
+            "https://avpayurveda.com/products/indukantha-gritham",
+            "https://avpayurveda.com/products/indukantha-gritham-capsule"
           ],
           "readOn": "2026-10-08"
         },
-        "maharishi": {
-          "state": "neither",
+        "keralaayurveda": {
+          "state": "list",
           "pages": 2,
           "pagesInThatState": 2,
           "urls": [
-            "https://maharishiayurvedaindia.com/products/kaishore-guggulu",
-            "https://maharishiayurvedaindia.com/products/kaishora-guggulu"
+            "https://keralaayurveda.com/products/indukantha-ghritham",
+            "https://keralaayurveda.com/products/indukantha-gritham-capsule"
           ],
           "readOn": "2026-10-08"
         },
-        "patanjali": {
+        "sitaram": {
           "state": "list",
           "pages": 1,
           "pagesInThatState": 1,
           "urls": [
-            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/guggul/divya-kaishore-guggul/64"
-          ],
-          "readOn": "2026-10-08"
-        },
-        "sdl": {
-          "state": "quantities",
-          "pages": 1,
-          "pagesInThatState": 1,
-          "urls": [
-            "https://www.sdlindia.com/products/kaishor-guggul"
+            "https://sitaramayurveda.com/products/indukantha-gritham-150-gm"
           ],
           "readOn": "2026-10-08"
         }
       }
     },
     {
-      "slug": "kanchanara-guggulu",
-      "name": "Kanchanara Guggulu",
-      "formularyHeading": "KANCANARA GUGGULU",
-      "page": "/formulation/kanchanara-guggulu/",
+      "slug": "jeerakarishtam",
+      "name": "Jeerakarishtam",
+      "formularyHeading": "JIRAKADYARISTA (the entry's own body heading, line 4211: \"1 : 16 JIRAKADYARISTA\". The book's contents list, line 2923, and its alphabetical index, line 47244, print \"Jirakarista\" for the same entry 1:16; both spellings are the book's own and both should be carried as page aliases.)",
+      "page": "/formulation/jeerakarishtam/",
       "afiPart": "I",
-      "entryNumber": "5:1",
-      "ingredientCount": 12,
-      "ingredientsWithAQuantity": 12,
+      "entryNumber": "1:16",
+      "ingredientCount": 14,
+      "ingredientsWithAQuantity": 14,
       "companies": {
-        "baidyanath": {
+        "avn": {
           "state": "neither",
-          "pages": 2,
-          "pagesInThatState": 2,
-          "urls": [
-            "https://www.baidyanathayurved.com/products/baidyanath-kanchnar-guggulu-160-tablets",
-            "https://www.baidyanathayurved.com/products/baidyanath-kanchnar-guggulu-pack-of-2-80-tablets"
-          ],
-          "readOn": "2026-10-08"
-        },
-        "maharishi": {
-          "state": "quantities",
           "pages": 1,
           "pagesInThatState": 1,
           "urls": [
-            "https://maharishiayurvedaindia.com/products/kanchnar-guggulu-100-tabs"
+            "https://www.avnayurveda.com/product/jeerakarishtam/"
           ],
           "readOn": "2026-10-08"
         },
-        "patanjali": {
+        "keralaayurveda": {
           "state": "list",
           "pages": 1,
           "pagesInThatState": 1,
           "urls": [
-            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/guggul/divya-kanchnar-guggul/68"
+            "https://keralaayurveda.com/products/jeerakarishta"
           ],
           "readOn": "2026-10-08"
         },
-        "sdl": {
-          "state": "quantities",
+        "sitaram": {
+          "state": "list",
           "pages": 1,
           "pagesInThatState": 1,
           "urls": [
-            "https://www.sdlindia.com/products/kanchanar-guggul"
+            "https://sitaramayurveda.com/products/jeerakarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sna": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.snaoushadhasala.com/product/jeerakaarishtam"
           ],
           "readOn": "2026-10-08"
         }
       }
     },
     {
-      "slug": "kutajarishta",
-      "name": "Kutajarishta",
-      "formularyHeading": "KUTAJARISTA",
-      "page": "/formulation/kutajarishta/",
+      "slug": "karpasasthyadi-thailam",
+      "name": "Karpasasthyadi Thailam",
+      "formularyHeading": "KARPASASTHYADI TAILA",
+      "page": "/formulation/karpasasthyadi-thailam/",
       "afiPart": "I",
-      "entryNumber": "1:11",
-      "ingredientCount": 7,
-      "ingredientsWithAQuantity": 7,
+      "entryNumber": "8:6",
+      "ingredientCount": 18,
+      "ingredientsWithAQuantity": 18,
       "companies": {
-        "baidyanath": {
+        "avn": {
           "state": "neither",
           "pages": 1,
           "pagesInThatState": 1,
           "urls": [
-            "https://www.baidyanathayurved.com/products/kutajarishta"
+            "https://www.avnayurveda.com/product/karpasastyadi-tailam/"
           ],
           "readOn": "2026-10-08"
         },
-        "maharishi": {
+        "avp": {
           "state": "neither",
           "pages": 1,
           "pagesInThatState": 1,
           "urls": [
-            "https://maharishiayurvedaindia.com/products/kutjarishta-for-irritable-bowel-syndrome-management-450ml"
+            "https://avpayurveda.com/products/karpasasthyadi-thailam-200-ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "keralaayurveda": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://keralaayurveda.com/products/karpasasthyadi-thailam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/karpasasthyadi-tailam"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "madhusnuhi-rasayana",
+      "name": "Madhusnuhi Rasayana",
+      "formularyHeading": "MADHUSNUHI RASAYANA",
+      "page": "/formulation/madhusnuhi-rasayana/",
+      "afiPart": "I",
+      "entryNumber": "3:19",
+      "ingredientCount": 32,
+      "ingredientsWithAQuantity": 32,
+      "companies": {
+        "avn": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.avnayurveda.com/product/madhusnuhi-rasayanam-b/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://avpayurveda.com/products/madhusnuhirasayanam-small-200-gms"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/cheriya-madhusnuhi-rasayanam-250-gm"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sna": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.snaoushadhasala.com/product/madhusnuheerasaayanam"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "maha-narayana-thailam",
+      "name": "Maha Narayana Thailam",
+      "formularyHeading": "MAHA NARAYANA TAILA",
+      "page": "/formulation/maha-narayana-thailam/",
+      "afiPart": "I",
+      "entryNumber": "8:45",
+      "ingredientCount": 59,
+      "ingredientsWithAQuantity": 59,
+      "companies": {
+        "keralaayurveda": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://keralaayurveda.com/products/mahanarayana-thailam"
           ],
           "readOn": "2026-10-08"
         },
         "patanjali": {
-          "state": "neither",
-          "pages": 1,
-          "pagesInThatState": 1,
-          "urls": [
-            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/arishta/divya-kutajarista/85"
-          ],
-          "readOn": "2026-10-08"
-        },
-        "sdl": {
           "state": "quantities",
           "pages": 1,
           "pagesInThatState": 1,
           "urls": [
-            "https://www.sdlindia.com/products/kutajarishta"
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/oil/divya-maha-narayan-taila/96"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/mahanarayana-thailam-200-ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sna": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.snaoushadhasala.com/product/mahanarayana-tailam"
           ],
           "readOn": "2026-10-08"
         }
@@ -1050,73 +3924,118 @@
       }
     },
     {
-      "slug": "triphala-churna",
-      "name": "Triphala Churna",
-      "formularyHeading": "TRIPHALA CURNA",
-      "page": "/formulation/triphala-churna/",
+      "slug": "narayana-thailam",
+      "name": "Narayana Thailam",
+      "formularyHeading": "NARAYANA TAILA",
+      "page": "/formulation/narayana-thailam/",
       "afiPart": "I",
-      "entryNumber": "7:15",
-      "ingredientCount": 3,
-      "ingredientsWithAQuantity": 3,
+      "entryNumber": "8:23",
+      "ingredientCount": 34,
+      "ingredientsWithAQuantity": 34,
       "companies": {
-        "baidyanath": {
-          "state": "neither",
-          "pages": 3,
-          "pagesInThatState": 3,
-          "urls": [
-            "https://www.baidyanathayurved.com/products/triphala-churna-240-gm-pack-of-2",
-            "https://www.baidyanathayurved.com/products/triphala-churna",
-            "https://www.baidyanathayurved.com/products/baidyanath-triphala-churna-500-gm"
-          ],
-          "readOn": "2026-10-08"
-        },
-        "dabur": {
+        "avn": {
           "state": "neither",
           "pages": 1,
           "pagesInThatState": 1,
           "urls": [
-            "https://www.dabur.com/our-brand/dabur-triphala-churna"
+            "https://www.avnayurveda.com/product/narayana-tailam-b/"
           ],
           "readOn": "2026-10-08"
         },
-        "patanjali": {
+        "avp": {
           "state": "neither",
           "pages": 2,
           "pagesInThatState": 2,
           "urls": [
-            "https://www.patanjaliayurved.net/product/combo-offers/combos/combo-triphala-churna-100g-pack-of-2/6997",
-            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/churna/divya-triphala-churna/199"
+            "https://avpayurveda.com/products/narayana-thailam-big-balm-to-relieve-joint-and-muscle-pain",
+            "https://avpayurveda.com/products/narayana-thailam-big-without-musk-200-ml"
           ],
           "readOn": "2026-10-08"
         },
-        "sdl": {
-          "state": "quantities",
+        "sitaram": {
+          "state": "neither",
           "pages": 1,
           "pagesInThatState": 1,
           "urls": [
-            "https://www.sdlindia.com/products/triphala-choorna"
+            "https://sitaramayurveda.com/products/narayana-thailam-200-ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sna": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.snaoushadhasala.com/product/naaraayana-tailam"
           ],
           "readOn": "2026-10-08"
         }
       }
     },
     {
-      "slug": "yogaraja-guggulu",
-      "name": "Yogaraja Guggulu",
-      "formularyHeading": "YOGARAJA GUGGULU",
-      "page": "/formulation/yogaraja-guggulu/",
+      "slug": "panchakola-churna",
+      "name": "Panchakola Churna",
+      "formularyHeading": "PANCHKOLA CURNA",
+      "page": "/formulation/panchakola-churna/",
+      "afiPart": "II",
+      "entryNumber": "7.10",
+      "ingredientCount": 5,
+      "ingredientsWithAQuantity": 5,
+      "companies": {
+        "avp": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://avpayurveda.com/products/panchakola-choornam-25-gms"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/churna/divya-panchkol-churna/130"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/panchakola-choornam"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sna": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.snaoushadhasala.com/product/panchakolachoornam"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "rohitakarishta",
+      "name": "Rohitakarishta",
+      "formularyHeading": "ROHITAKARISTA",
+      "page": "/formulation/rohitakarishta/",
       "afiPart": "I",
-      "entryNumber": "5:7",
-      "ingredientCount": 29,
-      "ingredientsWithAQuantity": 27,
+      "entryNumber": "1:31",
+      "ingredientCount": 15,
+      "ingredientsWithAQuantity": 15,
       "companies": {
         "baidyanath": {
           "state": "neither",
-          "pages": 2,
-          "pagesInThatState": 2,
+          "pages": 1,
+          "pagesInThatState": 1,
           "urls": [
-            "https://www.baidyanathayurved.com/products/baidyanath-yograj-guggulu-200-tablets",
-            "https://www.baidyanathayurved.com/products/baidyanath-yograj-guggulu-120-tablets-pack-of-2"
+            "https://www.baidyanathayurved.com/products/baidyanath-rohitkarishta"
           ],
           "readOn": "2026-10-08"
         },
@@ -1125,7 +4044,94 @@
           "pages": 1,
           "pagesInThatState": 1,
           "urls": [
-            "https://maharishiayurvedaindia.com/products/yograj-guggulu"
+            "https://maharishiayurvedaindia.com/products/rohitkarishta"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sandu": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sandu.in/product/sandu-rohitakarishta-200-ml/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sdl": {
+          "state": "quantities",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.sdlindia.com/products/rohitakarishta"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "sukumaram-ghritam",
+      "name": "Sukumaram Ghritam",
+      "formularyHeading": "SUKUMARA GHRTA",
+      "page": "/formulation/sukumaram-ghritam/",
+      "afiPart": "I",
+      "entryNumber": "6:44",
+      "ingredientCount": 34,
+      "ingredientsWithAQuantity": 34,
+      "companies": {
+        "avn": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://www.avnayurveda.com/product/sukumara-ghritam/"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "avp": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://avpayurveda.com/products/sukumara-gritham-capsule"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "keralaayurveda": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://keralaayurveda.com/products/sukumara-ghritham"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/sukumara-ghrita-150-gm"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "vidangarishta",
+      "name": "Vidangarishta",
+      "formularyHeading": "VIDANGARISTA",
+      "page": "/formulation/vidangarishta/",
+      "afiPart": "I",
+      "entryNumber": "1:34",
+      "ingredientCount": 20,
+      "ingredientsWithAQuantity": 20,
+      "companies": {
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/vidangarishta"
           ],
           "readOn": "2026-10-08"
         },
@@ -1134,47 +4140,16 @@
           "pages": 1,
           "pagesInThatState": 1,
           "urls": [
-            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/guggul/divya-yograj-guggul/219"
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/asava/divya-vidangasava-vidangarista/212"
           ],
           "readOn": "2026-10-08"
         },
-        "sdl": {
+        "sandu": {
           "state": "neither",
           "pages": 1,
           "pagesInThatState": 1,
           "urls": [
-            "https://www.sdlindia.com/products/yogaraj-guggul"
-          ],
-          "readOn": "2026-10-08"
-        }
-      }
-    },
-    {
-      "slug": "amritarishta",
-      "name": "Amritarishta",
-      "formularyHeading": "AMRTARISTA",
-      "page": "/formulation/amritarishta/",
-      "afiPart": "I",
-      "entryNumber": "1:2",
-      "ingredientCount": 24,
-      "ingredientsWithAQuantity": 24,
-      "companies": {
-        "baidyanath": {
-          "state": "neither",
-          "pages": 2,
-          "pagesInThatState": 2,
-          "urls": [
-            "https://www.baidyanathayurved.com/products/baidyanath-amritarishta-450-ml",
-            "https://www.baidyanathayurved.com/products/typhoid-care-combo-amritarishta-mahasudarshan-kwath"
-          ],
-          "readOn": "2026-10-08"
-        },
-        "maharishi": {
-          "state": "neither",
-          "pages": 1,
-          "pagesInThatState": 1,
-          "urls": [
-            "https://maharishiayurvedaindia.com/products/amritarista-450-ml"
+            "https://sandu.in/product/sandu-vidangarishta/"
           ],
           "readOn": "2026-10-08"
         },
@@ -1183,85 +4158,46 @@
           "pages": 1,
           "pagesInThatState": 1,
           "urls": [
-            "https://www.sdlindia.com/products/amrutarishta"
+            "https://www.sdlindia.com/products/vidangarishta"
           ],
           "readOn": "2026-10-08"
         }
       }
     },
     {
-      "slug": "anu-taila",
-      "name": "Anu Taila",
-      "formularyHeading": "ANU TAILA",
-      "page": "/formulation/anu-taila/",
+      "slug": "ajamodadi-churna",
+      "name": "Ajamodadi Churna",
+      "formularyHeading": "AJAMODADI CURNA",
+      "page": "/formulation/ajamodadi-churna/",
       "afiPart": "I",
-      "entryNumber": "8:1",
-      "ingredientCount": 30,
-      "ingredientsWithAQuantity": 29,
+      "entryNumber": "7:1",
+      "ingredientCount": 12,
+      "ingredientsWithAQuantity": 12,
       "companies": {
         "maharishi": {
           "state": "neither",
           "pages": 1,
           "pagesInThatState": 1,
           "urls": [
-            "https://maharishiayurvedaindia.com/products/anu-taila"
+            "https://maharishiayurvedaindia.com/products/ajmodadi-churna-50gms"
           ],
           "readOn": "2026-10-08"
         },
-        "patanjali": {
+        "oushadhi": {
           "state": "quantities",
           "pages": 1,
           "pagesInThatState": 1,
           "urls": [
-            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/oil/divya-anu-taila/1645"
+            "https://www.oushadhi.org/product/ajamodadi-choornam"
           ],
-          "readOn": "2026-10-08"
-        },
-        "sdl": {
-          "state": "neither",
-          "pages": 1,
-          "pagesInThatState": 1,
-          "urls": [
-            "https://www.sdlindia.com/products/anu-taila"
-          ],
-          "readOn": "2026-10-08"
-        }
-      }
-    },
-    {
-      "slug": "aravindasava",
-      "name": "Aravindasava",
-      "formularyHeading": "ARAVINDASAVA",
-      "page": "/formulation/aravindasava/",
-      "afiPart": "I",
-      "entryNumber": "1:4",
-      "ingredientCount": 28,
-      "ingredientsWithAQuantity": 27,
-      "companies": {
-        "maharishi": {
-          "state": "neither",
-          "pages": 1,
-          "pagesInThatState": 1,
-          "urls": [
-            "https://maharishiayurvedaindia.com/products/arvindasava-tonic-for-children-200ml"
-          ],
-          "readOn": "2026-10-08"
+          "readOn": "2026-10-09"
         },
         "patanjali": {
           "state": "list",
           "pages": 1,
           "pagesInThatState": 1,
           "urls": [
-            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/asava/divya-aravindasava/17"
-          ],
-          "readOn": "2026-10-08"
-        },
-        "sdl": {
-          "state": "quantities",
-          "pages": 1,
-          "pagesInThatState": 1,
-          "urls": [
-            "https://www.sdlindia.com/products/aravindasava"
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/churna/divya-ajmodadi-churna/5"
           ],
           "readOn": "2026-10-08"
         }
@@ -1309,182 +4245,21 @@
       }
     },
     {
-      "slug": "chandraprabha-vati",
-      "name": "Chandraprabha Vati",
-      "formularyHeading": "CANDRAPRABHA VATI",
-      "page": "/formulation/chandraprabha-vati/",
+      "slug": "jatyadi-ghrita",
+      "name": "Jatyadi Ghrita",
+      "formularyHeading": "JATYADI GHRTA (Synonym : Vrana Sodhanadi ghrta)",
+      "page": "/formulation/jatyadi-ghrita/",
       "afiPart": "I",
-      "entryNumber": "12:10",
-      "ingredientCount": 37,
-      "ingredientsWithAQuantity": 37,
-      "companies": {
-        "baidyanath": {
-          "state": "neither",
-          "pages": 2,
-          "pagesInThatState": 2,
-          "urls": [
-            "https://www.baidyanathayurved.com/products/baidyanath-chandraprabha-bati-80-tb-pack-of-2",
-            "https://www.baidyanathayurved.com/products/baidyanath-chandraprabha-bat-160-tablets"
-          ],
-          "readOn": "2026-10-08"
-        },
-        "maharishi": {
-          "state": "neither",
-          "pages": 1,
-          "pagesInThatState": 1,
-          "urls": [
-            "https://maharishiayurvedaindia.com/products/chandraprabha-vati"
-          ],
-          "readOn": "2026-10-08"
-        },
-        "patanjali": {
-          "state": "list",
-          "pages": 1,
-          "pagesInThatState": 1,
-          "urls": [
-            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/vati/divya-chandraprabha-vati/30"
-          ],
-          "readOn": "2026-10-08"
-        }
-      }
-    },
-    {
-      "slug": "dashamula",
-      "name": "Dashamula",
-      "formularyHeading": "DASAMULA KVATHA CURNA",
-      "page": "/formulation/dashamula/",
-      "afiPart": "I",
-      "entryNumber": "4:10",
-      "ingredientCount": 10,
-      "ingredientsWithAQuantity": 10,
-      "companies": {
-        "baidyanath": {
-          "state": "list",
-          "pages": 1,
-          "pagesInThatState": 1,
-          "urls": [
-            "https://www.baidyanathayurved.com/products/baidyanath-dashmool-kadha"
-          ],
-          "readOn": "2026-10-08"
-        },
-        "maharishi": {
-          "state": "neither",
-          "pages": 4,
-          "pagesInThatState": 4,
-          "urls": [
-            "https://maharishiayurvedaindia.com/products/dashmoola-taila-for-headaches-50ml",
-            "https://maharishiayurvedaindia.com/products/dashmoola-kashaya",
-            "https://maharishiayurvedaindia.com/products/dashmoola-katutrayadi-kashayam",
-            "https://maharishiayurvedaindia.com/products/dashmool-kashaya"
-          ],
-          "readOn": "2026-10-08"
-        },
-        "patanjali": {
-          "state": "list",
-          "pages": 2,
-          "pagesInThatState": 2,
-          "urls": [
-            "https://www.patanjaliayurved.net/product/combo-offers/combos/combo-divya-dashmool-kwath-100g-pack-of-2/7064",
-            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/kwath/divya-dashmool-kwath/35"
-          ],
-          "readOn": "2026-10-08"
-        }
-      }
-    },
-    {
-      "slug": "gokshuradi-guggulu",
-      "name": "Gokshuradi Guggulu",
-      "formularyHeading": "GOKSURADI GUGGULU",
-      "page": "/formulation/gokshuradi-guggulu/",
-      "afiPart": "I",
-      "entryNumber": "5:3",
-      "ingredientCount": 10,
-      "ingredientsWithAQuantity": 10,
-      "companies": {
-        "maharishi": {
-          "state": "neither",
-          "pages": 1,
-          "pagesInThatState": 1,
-          "urls": [
-            "https://maharishiayurvedaindia.com/products/goksuradi-guggulu-60-tablets"
-          ],
-          "readOn": "2026-10-08"
-        },
-        "patanjali": {
-          "state": "list",
-          "pages": 1,
-          "pagesInThatState": 1,
-          "urls": [
-            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/guggul/divya-gokshuradi-guggul/51"
-          ],
-          "readOn": "2026-10-08"
-        },
-        "sdl": {
-          "state": "quantities",
-          "pages": 1,
-          "pagesInThatState": 1,
-          "urls": [
-            "https://www.sdlindia.com/products/gokshuradi-guggul"
-          ],
-          "readOn": "2026-10-08"
-        }
-      }
-    },
-    {
-      "slug": "pushyanuga-churna",
-      "name": "Pushyanuga Churna",
-      "formularyHeading": "PUSYANUGA CURNA",
-      "page": "/formulation/pushyanuga-churna/",
-      "afiPart": "I",
-      "entryNumber": "7:23",
-      "ingredientCount": 26,
-      "ingredientsWithAQuantity": 26,
-      "companies": {
-        "maharishi": {
-          "state": "neither",
-          "pages": 1,
-          "pagesInThatState": 1,
-          "urls": [
-            "https://maharishiayurvedaindia.com/products/pushyanuga-churna-for-womens-health-25-gms"
-          ],
-          "readOn": "2026-10-08"
-        },
-        "patanjali": {
-          "state": "list",
-          "pages": 1,
-          "pagesInThatState": 1,
-          "urls": [
-            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/churna/divya-pushyanug-churna/147"
-          ],
-          "readOn": "2026-10-08"
-        },
-        "sdl": {
-          "state": "quantities",
-          "pages": 1,
-          "pagesInThatState": 1,
-          "urls": [
-            "https://www.sdlindia.com/products/pushyanuga-choorna"
-          ],
-          "readOn": "2026-10-08"
-        }
-      }
-    },
-    {
-      "slug": "rohitakarishta",
-      "name": "Rohitakarishta",
-      "formularyHeading": "ROHITAKARISTA",
-      "page": "/formulation/rohitakarishta/",
-      "afiPart": "I",
-      "entryNumber": "1:31",
+      "entryNumber": "6:11",
       "ingredientCount": 15,
       "ingredientsWithAQuantity": 15,
       "companies": {
-        "baidyanath": {
+        "avp": {
           "state": "neither",
           "pages": 1,
           "pagesInThatState": 1,
           "urls": [
-            "https://www.baidyanathayurved.com/products/baidyanath-rohitkarishta"
+            "https://avpayurveda.com/products/jathyadhigritham-150-gms"
           ],
           "readOn": "2026-10-08"
         },
@@ -1493,56 +4268,173 @@
           "pages": 1,
           "pagesInThatState": 1,
           "urls": [
-            "https://maharishiayurvedaindia.com/products/rohitkarishta"
+            "https://maharishiayurvedaindia.com/products/jatyadighrit"
           ],
           "readOn": "2026-10-08"
         },
-        "sdl": {
+        "patanjali": {
           "state": "quantities",
           "pages": 1,
           "pagesInThatState": 1,
           "urls": [
-            "https://www.sdlindia.com/products/rohitakarishta"
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/kwath/divya-jatyadi-ghrit/1590"
           ],
           "readOn": "2026-10-08"
         }
       }
     },
     {
-      "slug": "saraswatarishta",
-      "name": "Saraswatarishta",
-      "formularyHeading": "SARASVATARISTA",
-      "page": "/formulation/saraswatarishta/",
+      "slug": "kalyanaka-ghrita",
+      "name": "Kalyanaka Ghrita",
+      "formularyHeading": "KALYANAKA GHRTA",
+      "page": "/formulation/kalyanaka-ghrita/",
       "afiPart": "I",
-      "entryNumber": "1:36",
-      "ingredientCount": 24,
-      "ingredientsWithAQuantity": 23,
+      "entryNumber": "6:7",
+      "ingredientCount": 29,
+      "ingredientsWithAQuantity": 28,
       "companies": {
-        "maharishi": {
+        "avp": {
           "state": "neither",
           "pages": 2,
           "pagesInThatState": 2,
           "urls": [
-            "https://maharishiayurvedaindia.com/products/saraswatarishta-brain-tonic-50ml",
-            "https://maharishiayurvedaindia.com/products/saraswatarishta"
+            "https://avpayurveda.com/products/kallyanaka-gritham-150-g",
+            "https://avpayurveda.com/products/kalyanaka-gritham-capsule"
           ],
           "readOn": "2026-10-08"
         },
-        "patanjali": {
+        "keralaayurveda": {
           "state": "list",
           "pages": 1,
           "pagesInThatState": 1,
           "urls": [
-            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/arishta/divya-sarasvatarista/161"
+            "https://keralaayurveda.com/products/kalyanaka-ghritham"
           ],
           "readOn": "2026-10-08"
         },
-        "sdl": {
+        "sitaram": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/kalyanaka-ghrita-150-gm"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "lakshadi-thailam",
+      "name": "Lakshadi Thailam",
+      "formularyHeading": "LAKSADI TAILA",
+      "page": "/formulation/lakshadi-thailam/",
+      "afiPart": "I",
+      "entryNumber": "8:49",
+      "ingredientCount": 5,
+      "ingredientsWithAQuantity": 5,
+      "companies": {
+        "avp": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://avpayurveda.com/products/balaswagandhadi-thailam-balaswagandha-lakshadi-thailam-200-ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/bala-ashwagandha-lakshadi-taila-for-muscle-strength-200ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/chandanbala-lakshadi-tail-200-ml"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "panchagavya-ghrita",
+      "name": "Panchagavya Ghrita",
+      "formularyHeading": "PANCAGAVYA GHRTA",
+      "page": "/formulation/panchagavya-ghrita/",
+      "afiPart": "I",
+      "entryNumber": "6:25",
+      "ingredientCount": 5,
+      "ingredientsWithAQuantity": 3,
+      "companies": {
+        "avp": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://avpayurveda.com/products/panchagavyam-gritham-big-capsule"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "keralaayurveda": {
+          "state": "list",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://keralaayurveda.com/products/panchagavya-ghritham"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/panchagavyam-ghrtam"
+          ],
+          "readOn": "2026-10-08"
+        }
+      }
+    },
+    {
+      "slug": "shadbindu-taila",
+      "name": "Shadbindu Taila",
+      "formularyHeading": "SADBINDU TAILA",
+      "page": "/formulation/shadbindu-taila/",
+      "afiPart": "I",
+      "entryNumber": "8:58",
+      "ingredientCount": 13,
+      "ingredientsWithAQuantity": 13,
+      "companies": {
+        "maharishi": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://maharishiayurvedaindia.com/products/shadbindu-taila-box-10ml"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "patanjali": {
           "state": "quantities",
           "pages": 1,
           "pagesInThatState": 1,
           "urls": [
-            "https://www.sdlindia.com/products/saraswatarishta"
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/oil/divya-sadbindu-taila/4075"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "neither",
+          "pages": 1,
+          "pagesInThatState": 1,
+          "urls": [
+            "https://sitaramayurveda.com/products/shadbindu-taila-10-ml"
           ],
           "readOn": "2026-10-08"
         }
@@ -1589,39 +4481,40 @@
       }
     },
     {
-      "slug": "vidangarishta",
-      "name": "Vidangarishta",
-      "formularyHeading": "VIDANGARISTA",
-      "page": "/formulation/vidangarishta/",
+      "slug": "triphaladi-thailam",
+      "name": "Triphaladi Thailam",
+      "formularyHeading": "TRIPHALADI TAILA",
+      "page": "/formulation/triphaladi-thailam/",
       "afiPart": "I",
-      "entryNumber": "1:34",
-      "ingredientCount": 20,
-      "ingredientsWithAQuantity": 20,
+      "entryNumber": "8:21",
+      "ingredientCount": 38,
+      "ingredientsWithAQuantity": 37,
       "companies": {
-        "maharishi": {
+        "keralaayurveda": {
           "state": "neither",
           "pages": 1,
           "pagesInThatState": 1,
           "urls": [
-            "https://maharishiayurvedaindia.com/products/vidangarishta"
+            "https://keralaayurveda.com/products/thriphaladi-thailam-100-ml"
           ],
           "readOn": "2026-10-08"
         },
         "patanjali": {
-          "state": "list",
-          "pages": 1,
-          "pagesInThatState": 1,
-          "urls": [
-            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/asava/divya-vidangasava-vidangarista/212"
-          ],
-          "readOn": "2026-10-08"
-        },
-        "sdl": {
           "state": "quantities",
           "pages": 1,
           "pagesInThatState": 1,
           "urls": [
-            "https://www.sdlindia.com/products/vidangarishta"
+            "https://www.patanjaliayurved.net/product/ayurvedic-medicine/oil/divya-triphaladi-taila/202"
+          ],
+          "readOn": "2026-10-08"
+        },
+        "sitaram": {
+          "state": "neither",
+          "pages": 2,
+          "pagesInThatState": 2,
+          "urls": [
+            "https://sitaramayurveda.com/products/triphaladi-thailam-200-ml",
+            "https://sitaramayurveda.com/products/triphaladi-thailam-200-ml-2"
           ],
           "readOn": "2026-10-08"
         }
