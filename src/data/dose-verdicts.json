@@ -1,0 +1,1840 @@
+{
+ "compare": [
+  {
+   "formulation": "kutajarishta",
+   "afiDoseMeans": "dose taken",
+   "classNote": "Kutajarishta is an arishta (fermented liquid), so the formulary figure of 12 to 24 ml (AFI Part I, entry 1:11, KUTAJARISTA) is the volume swallowed and is directly comparable to a label volume in millilitres.",
+   "labels": [
+    {
+     "brand": "patanjali",
+     "url": "https://www.patanjaliayurved.net/product/ayurvedic-medicine/arishta/divya-kutajarista/85",
+     "comparable": true,
+     "relation": "identical",
+     "adultLow": 12,
+     "adultHigh": 24,
+     "unit": "ml",
+     "population": "unstated",
+     "quote": "Take 12-24ml or as directed by the physician."
+    },
+    {
+     "brand": "maharishi",
+     "url": "https://maharishiayurvedaindia.com/products/kutjarishta-for-irritable-bowel-syndrome-management-450ml",
+     "comparable": false,
+     "relation": "not comparable",
+     "notComparableReason": "The label states only teaspoons (1-2 teaspoon) with no millilitre equivalent of its own, so no volume can be set against the formulary figure without converting.",
+     "unit": "teaspoon",
+     "population": "unstated",
+     "quote": "1-2 teaspoon daily after meals or as directed by the physician."
+    },
+    {
+     "brand": "keralaayurveda",
+     "url": "https://keralaayurveda.com/products/kutajarishta",
+     "comparable": true,
+     "relation": "overlapping",
+     "adultLow": 15,
+     "adultHigh": 25,
+     "unit": "ml",
+     "population": "both",
+     "quote": "15 to 25 ml for adults and 5 to 15 ml for children"
+    },
+    {
+     "brand": "sdl",
+     "url": "https://www.sdlindia.com/products/kutajarishta",
+     "comparable": true,
+     "relation": "overlapping",
+     "adultLow": 10,
+     "adultHigh": 20,
+     "unit": "ml",
+     "population": "unstated",
+     "quote": "2 to 4 tsf (10 to 20 ml) 2-3 times a day",
+     "notComparableReason": "Comparison uses the label's own stated millilitre equivalent (10 to 20 ml), not the teaspoon figure."
+    },
+    {
+     "brand": "sna",
+     "url": "https://www.snaoushadhasala.com/product/kutajaarishtam",
+     "comparable": true,
+     "relation": "overlapping",
+     "adultLow": 10,
+     "adultHigh": 30,
+     "unit": "ml",
+     "population": "unstated",
+     "quote": "10-30 ml, twice daily after food"
+    },
+    {
+     "brand": "sitaram",
+     "url": "https://sitaramayurveda.com/products/kutajarishtam",
+     "comparable": true,
+     "relation": "entirely higher",
+     "adultLow": 25,
+     "adultHigh": 30,
+     "unit": "mL",
+     "population": "both",
+     "quote": "Adult: 25-30 mL twice or thrice daily after food."
+    }
+   ]
+  },
+  {
+   "formulation": "triphala-churna",
+   "afiDoseMeans": "dose taken",
+   "classNote": "A churna's formulary figure (AFI Part I, 7:15, Triphala Curna, \"3 to 6 g\") is the weight of powder taken per dose, so label figures stated in grams are directly comparable.",
+   "labels": [
+    {
+     "brand": "sdl",
+     "url": "https://www.sdlindia.com/products/triphala-choorna",
+     "comparable": true,
+     "relation": "overlapping",
+     "adultLow": 5,
+     "adultHigh": 10,
+     "unit": "g",
+     "population": "unstated",
+     "quote": "1 tsf. to 2 tsf. (5 to 10 gm) once or twice a day",
+     "notComparableReason": "Label states teaspoons but gives its own gram equivalent (5 to 10 gm), which is the figure used. 5-10 g overlaps the formulary's 3-6 g at 5-6 g; the label figure is per dose, taken once or twice a day."
+    },
+    {
+     "brand": "patanjali",
+     "url": "https://www.patanjaliayurved.net/product/combo-offers/combos/combo-triphala-churna-100g-pack-of-2/6997",
+     "comparable": true,
+     "relation": "overlapping",
+     "adultLow": 2,
+     "adultHigh": 5,
+     "unit": "g",
+     "population": "unstated",
+     "quote": "2-5 g with lukewarm water or milk",
+     "notComparableReason": "2-5 g overlaps the formulary's 3-6 g at 3-5 g; the label's lower bound (2 g) sits below the formulary range. Frequency not stated."
+    },
+    {
+     "brand": "dabur",
+     "url": "https://www.dabur.com/our-brand/dabur-triphala-churna",
+     "comparable": true,
+     "relation": "overlapping",
+     "adultLow": 5,
+     "adultHigh": 5,
+     "unit": "g",
+     "population": "unstated",
+     "quote": "5gm twice a day, post meals",
+     "notComparableReason": "Single per-dose figure of 5 g falls within the formulary's 3-6 g range; label specifies twice a day."
+    },
+    {
+     "brand": "patanjali",
+     "url": "https://www.patanjaliayurved.net/product/ayurvedic-medicine/churna/divya-triphala-churna/199",
+     "comparable": true,
+     "relation": "overlapping",
+     "adultLow": 2,
+     "adultHigh": 5,
+     "unit": "g",
+     "population": "unstated",
+     "quote": "2-5 g with lukewarm water or milk",
+     "notComparableReason": "Same stated dose as the other Patanjali page: 2-5 g overlaps the formulary's 3-6 g at 3-5 g; lower bound (2 g) sits below the formulary range. Frequency not stated."
+    },
+    {
+     "brand": "sitaram",
+     "url": "https://sitaramayurveda.com/products/triphala-choornam",
+     "comparable": true,
+     "relation": "overlapping",
+     "adultLow": 5,
+     "adultHigh": 10,
+     "unit": "g",
+     "population": "adult",
+     "quote": "Adult: 5-10 gms Triphala Choornam based on the purpose for which it is administered",
+     "notComparableReason": "Adult dose used (page also states a child dose of 3-7 gms, not compared). 5-10 g overlaps the formulary's 3-6 g at 5-6 g; label notes the amount varies by purpose and gives no single general figure beyond this range."
+    }
+   ]
+  },
+  {
+   "formulation": "ashokarishta",
+   "afiDoseMeans": "dose taken",
+   "classNote": "Asokarista (AFI Part I, 1:5) is an arishta, a fermented liquid preparation, so the formulary figure \"12 to 24 ml\" is the volume swallowed per dose and is directly comparable to a label volume stated in millilitres.",
+   "labels": [
+    {
+     "brand": "dabur",
+     "url": "https://www.dabur.com/our-brand/dabur-ashokarishta",
+     "comparable": true,
+     "relation": "overlapping",
+     "adultLow": 15,
+     "adultHigh": 30,
+     "unit": "ml",
+     "population": "unstated",
+     "quote": "1 to 2 tablespoonful (15 to 30ml) with equal quantity of water after meals",
+     "notComparableReason": "Label gives tablespoons but states its own millilitre equivalent (15 to 30 ml), which is the figure used. Population not stated; treated as the general dose. Range 15 to 30 ml overlaps the formulary 12 to 24 ml at 15 to 24 ml."
+    },
+    {
+     "brand": "keralaayurveda",
+     "url": "https://keralaayurveda.com/products/asokarishta",
+     "comparable": true,
+     "relation": "overlapping",
+     "adultLow": 15,
+     "adultHigh": 25,
+     "unit": "ml",
+     "population": "both",
+     "quote": "The recommended dosage for adults is 15 to 25 ml and 5 to 15 ml for children.",
+     "notComparableReason": "Page states both an adult and a child dose; the adult figure (15 to 25 ml) was used and the child figure (5 to 15 ml) was not compared. Adult range overlaps the formulary 12 to 24 ml at 15 to 24 ml."
+    },
+    {
+     "brand": "patanjali",
+     "url": "https://www.patanjaliayurved.net/product/ayurvedic-medicine/arishta/divya-asokarista/20",
+     "comparable": true,
+     "relation": "identical",
+     "adultLow": 12,
+     "adultHigh": 24,
+     "unit": "ml",
+     "population": "unstated",
+     "quote": "12-24 ml or as directed by the physician.",
+     "notComparableReason": "Population not stated; treated as the general dose. Range 12 to 24 ml matches the formulary figure exactly."
+    },
+    {
+     "brand": "sitaram",
+     "url": "https://sitaramayurveda.com/products/ashokarishtam",
+     "comparable": true,
+     "relation": "entirely higher",
+     "adultLow": 25,
+     "adultHigh": 30,
+     "unit": "ml",
+     "population": "both",
+     "quote": "Adult: 25-30 ml Asokarishtam twice or thrice daily after food.",
+     "notComparableReason": "Page states both an adult and a child dose; the adult figure (25 to 30 ml) was used and the child figure (10 to 15 ml) was not compared. The adult lower bound 25 ml sits above the formulary upper bound 24 ml, so the two stated per-dose ranges do not overlap. This is a relation between two published figures only; frequency differs and no inference is drawn from it."
+    },
+    {
+     "brand": "sdl",
+     "url": "https://www.sdlindia.com/products/ashokarishta",
+     "comparable": true,
+     "relation": "overlapping",
+     "adultLow": 10,
+     "adultHigh": 20,
+     "unit": "ml",
+     "population": "unstated",
+     "quote": "2 to 4 tsf (10 to 20 ml) 2-3 times a day with equal quantity of lukewarm water",
+     "notComparableReason": "Label gives teaspoonfuls but states its own millilitre equivalent (10 to 20 ml), which is the figure used. Population not stated; treated as the general dose. Range 10 to 20 ml overlaps the formulary 12 to 24 ml at 12 to 20 ml."
+    },
+    {
+     "brand": "maharishi",
+     "url": "https://maharishiayurvedaindia.com/products/ashokarishta",
+     "comparable": false,
+     "relation": "not comparable",
+     "unit": "teaspoon",
+     "population": "unstated",
+     "quote": "1-2 teaspoon daily after meals or as directed by the physician.",
+     "notComparableReason": "The label states the dose only in teaspoons and gives no millilitre equivalent of its own, so there is no stated volume to set against the formulary's 12 to 24 ml. No conversion was made."
+    }
+   ]
+  },
+  {
+   "formulation": "saraswatarishta",
+   "afiDoseMeans": "dose taken",
+   "classNote": "Sarasvatarista (AFI Part I, entry 1:36) is an arishta, a fermented liquid, so the formulary figure of 12 to 24 ml is the volume swallowed and label volumes in ml are directly comparable to it.",
+   "labels": [
+    {
+     "brand": "sna",
+     "url": "https://www.snaoushadhasala.com/product/saaraswataarishtam",
+     "comparable": true,
+     "relation": "entirely lower",
+     "quote": "5-10 ml, twice daily",
+     "adultLow": 5,
+     "adultHigh": 10,
+     "unit": "ml",
+     "population": "unstated",
+     "notComparableReason": ""
+    },
+    {
+     "brand": "maharishi",
+     "url": "https://maharishiayurvedaindia.com/products/saraswatarishta-brain-tonic-50ml",
+     "comparable": true,
+     "relation": "overlapping",
+     "quote": "Take 3 to 12 ml Twice a day",
+     "adultLow": 3,
+     "adultHigh": 12,
+     "unit": "ml",
+     "population": "unstated",
+     "notComparableReason": "Label range 3-12 ml meets the formulary range 12-24 ml only at the shared endpoint of 12 ml."
+    },
+    {
+     "brand": "maharishi",
+     "url": "https://maharishiayurvedaindia.com/products/saraswatarishta",
+     "comparable": false,
+     "relation": "not comparable",
+     "quote": "1-2 teaspoon daily after meals",
+     "population": "unstated",
+     "unit": "teaspoon",
+     "notComparableReason": "The label states teaspoons only and gives no ml equivalent of its own, so no volume can be compared without converting an amount the page does not state."
+    },
+    {
+     "brand": "keralaayurveda",
+     "url": "https://keralaayurveda.com/products/saraswatharishta",
+     "comparable": true,
+     "relation": "identical",
+     "quote": "Adults: 12 to 24 ml.",
+     "adultLow": 12,
+     "adultHigh": 24,
+     "unit": "ml",
+     "population": "both",
+     "notComparableReason": "Adult figure used; the page also states a child dose of 3 to 12 ml, which was not compared."
+    },
+    {
+     "brand": "sdl",
+     "url": "https://www.sdlindia.com/products/saraswatarishta",
+     "comparable": true,
+     "relation": "overlapping",
+     "quote": "2 to 4 tsf (10 to 20 ml) 2 times a day",
+     "adultLow": 10,
+     "adultHigh": 20,
+     "unit": "ml",
+     "population": "unstated",
+     "notComparableReason": "The label's own ml equivalent in brackets was used, not the teaspoon count."
+    },
+    {
+     "brand": "patanjali",
+     "url": "https://www.patanjaliayurved.net/product/ayurvedic-medicine/arishta/divya-sarasvatarista/161",
+     "comparable": true,
+     "relation": "identical",
+     "quote": "12-24 ml or u se as directed by the physician.",
+     "adultLow": 12,
+     "adultHigh": 24,
+     "unit": "ml",
+     "population": "unstated",
+     "notComparableReason": ""
+    },
+    {
+     "brand": "sitaram",
+     "url": "https://sitaramayurveda.com/products/saraswatharishtam",
+     "comparable": true,
+     "relation": "entirely higher",
+     "quote": "Adult: 25-30 ml Saraswatharishtam twice or thrice daily after food.",
+     "adultLow": 25,
+     "adultHigh": 30,
+     "unit": "ml",
+     "population": "both",
+     "notComparableReason": "Adult figure used; the page also states a child dose of 10-15 ml, which was not compared."
+    }
+   ]
+  },
+  {
+   "formulation": "abhayarishta",
+   "afiDoseMeans": "dose taken",
+   "classNote": "Abhayarishta is an arishta (fermented liquid), so the formulary figure of 12 to 24 ml is the volume swallowed per dose and a label volume in millilitres is directly comparable to it.",
+   "labels": [
+    {
+     "brand": "dabur",
+     "url": "https://www.dabur.com/our-brand/dabur-abhyarishta",
+     "quote": "1 to 2 tablespoon with equal quantity of water, twice a day after meals",
+     "population": "unstated",
+     "comparable": false,
+     "relation": "not comparable",
+     "notComparableReason": "The label states the dose only in tablespoons and gives no millilitre equivalent of its own, so it cannot be set against the formulary's 12 to 24 ml without converting an amount the page does not state."
+    },
+    {
+     "brand": "maharishi",
+     "url": "https://maharishiayurvedaindia.com/products/abhyarishta-for-treatment-of-constipation-450ml",
+     "quote": "1-2 teaspoon daily after meals or as directed by the physician.",
+     "population": "unstated",
+     "comparable": false,
+     "relation": "not comparable",
+     "notComparableReason": "The label states the dose only in teaspoons and gives no millilitre equivalent of its own, so it cannot be set against the formulary's 12 to 24 ml without converting an amount the page does not state."
+    },
+    {
+     "brand": "keralaayurveda",
+     "url": "https://keralaayurveda.com/products/abhayarishta",
+     "quote": "Adults (18+): Take 3-5 teaspoons ( 15-25ml) twice daily after food.",
+     "population": "both",
+     "adultLow": 15,
+     "adultHigh": 25,
+     "unit": "ml",
+     "comparable": true,
+     "relation": "overlapping",
+     "notComparableReason": "Comparable using the label's own millilitre equivalent (15-25 ml) for the adult dose; the child dose (1 teaspoon, 5 ml) was not used. The label's 15-25 ml overlaps the formulary's 12-24 ml, with the label's upper bound 1 ml above it."
+    },
+    {
+     "brand": "sitaram",
+     "url": "https://sitaramayurveda.com/products/abhayarishtam",
+     "quote": "Adult: 25-30 ml of Abhayarishtam twice or thrice daily after food.",
+     "population": "both",
+     "adultLow": 25,
+     "adultHigh": 30,
+     "unit": "ml",
+     "comparable": true,
+     "relation": "entirely higher",
+     "notComparableReason": "Adult dose used; the child dose (10-15 ml) was not compared. The label's 25-30 ml per dose lies entirely above the formulary's 12-24 ml range."
+    },
+    {
+     "brand": "sna",
+     "url": "https://www.snaoushadhasala.com/product/abhayaarishtam",
+     "quote": "15-30 ml twice daily after food or as directed by the physician.",
+     "population": "unstated",
+     "adultLow": 15,
+     "adultHigh": 30,
+     "unit": "ml",
+     "comparable": true,
+     "relation": "overlapping",
+     "notComparableReason": "Population not stated on the label; treated as the general dose. The label's 15-30 ml overlaps the formulary's 12-24 ml and extends above it."
+    },
+    {
+     "brand": "sdl",
+     "url": "https://www.sdlindia.com/products/abhayarishta",
+     "quote": "2 to 4 tsf. 2 times a day with equal quantity of lukewarm water.",
+     "population": "unstated",
+     "comparable": false,
+     "relation": "not comparable",
+     "notComparableReason": "The label states the dose only in teaspoonfuls (tsf) and gives no millilitre equivalent of its own, so it cannot be set against the formulary's 12 to 24 ml without converting an amount the page does not state."
+    },
+    {
+     "brand": "patanjali",
+     "url": "https://www.patanjaliayurved.net/product/ayurvedic-medicine/arishta/divya-abhayarista-new/2",
+     "quote": "12-24 ml or as directed by the physician .",
+     "population": "unstated",
+     "adultLow": 12,
+     "adultHigh": 24,
+     "unit": "ml",
+     "comparable": true,
+     "relation": "identical",
+     "notComparableReason": "Population not stated on the label; treated as the general dose. The label's 12-24 ml matches the formulary's 12 to 24 ml exactly."
+    }
+   ]
+  },
+  {
+   "formulation": "dashamula",
+   "afiDoseMeans": "weight of drug used to prepare",
+   "classNote": "AFI I 4:10 is DASAMULA KVATHA CURNA (a kvatha churna) and its 48 g figure is the weight of coarse powder taken to prepare the decoction, so only labels that state a weight of kwath powder used for preparation are in the same dimension; ready-made kashayam volumes, tablets, rasayanam (lehya) weights, syrups and tailam are different classes or dimensions and are not comparable.",
+   "labels": [
+    {
+     "brand": "patanjali",
+     "url": "https://www.patanjaliayurved.net/product/combo-offers/combos/combo-divya-dashmool-kwath-100g-pack-of-2/7064",
+     "comparable": true,
+     "relation": "entirely lower",
+     "adultLow": 5,
+     "adultHigh": 10,
+     "unit": "g",
+     "population": "unstated",
+     "quote": "Take 5-10g kwath powder in 400ml water and boil it till 100ml mixture left",
+     "notComparableReason": "",
+     "detail": "Label states weight of kwath powder used to prepare one decoction, which is the same dimension as the AFI 48 g figure; the label repeats the preparation twice daily and does not state a population."
+    },
+    {
+     "brand": "maharishi",
+     "url": "https://maharishiayurvedaindia.com/products/dashmoola-taila-for-headaches-50ml",
+     "comparable": false,
+     "relation": "not comparable",
+     "population": "unstated",
+     "unit": "drops",
+     "quote": "Use 2-3 drops or as advised by the Vaidya.",
+     "notComparableReason": "A taila (oil) given in drops; different preparation class and dimension from the AFI weight of kvatha drug."
+    },
+    {
+     "brand": "sna",
+     "url": "https://www.snaoushadhasala.com/product/dashamoolam",
+     "comparable": false,
+     "relation": "not comparable",
+     "population": "unstated",
+     "unit": "ml",
+     "quote": "15-20 ml with three times lukewarm water twice daily",
+     "notComparableReason": "Volume of ready-made kashayam swallowed; the AFI figure is the weight of drug used to prepare the decoction, a different dimension."
+    },
+    {
+     "brand": "sitaram",
+     "url": "https://sitaramayurveda.com/products/dasamool-cough-syrup",
+     "comparable": false,
+     "relation": "not comparable",
+     "population": "adult",
+     "unit": "teaspoon",
+     "quote": "Adults: half to one teaspoon of Dasamool Cough Syrup 2 to 3 times a day",
+     "notComparableReason": "A syrup, a different preparation class, stated only in teaspoons with no ml equivalent on the label; the child dose (5 to 10 drops) was not used."
+    },
+    {
+     "brand": "sitaram",
+     "url": "https://sitaramayurveda.com/products/dasamoola-rasayanam-100-gm",
+     "comparable": false,
+     "relation": "not comparable",
+     "population": "adult",
+     "unit": "g",
+     "quote": "Adult: 15-20 gms Dasamoola Rasayanam in divided doses over a day",
+     "notComparableReason": "A rasayanam (lehya) weight taken, a different preparation class from a kvatha churna; the AFI figure is the weight of raw drug used to prepare a decoction. Child dose (10-15 gms) not used."
+    },
+    {
+     "brand": "sitaram",
+     "url": "https://sitaramayurveda.com/products/dasamoola-kashaya",
+     "comparable": false,
+     "relation": "not comparable",
+     "population": "adult",
+     "unit": "ml",
+     "quote": "Adult: 15-20 ml of Dasamoolam Kashayam mixed with 45-60 ml of boiled and cooled water, twice daily",
+     "notComparableReason": "Volume of ready-made kashayam swallowed versus AFI weight of drug used to prepare the decoction; different dimension. Child dose (10-15 ml) not used."
+    },
+    {
+     "brand": "sitaram",
+     "url": "https://sitaramayurveda.com/products/dasamoola-kashayam-tablet-50-nos",
+     "comparable": false,
+     "relation": "not comparable",
+     "population": "adult",
+     "unit": "tablets",
+     "quote": "Adult: 2-3 tablets of Dasamoolam Kashayam twice daily on empty stomach.",
+     "notComparableReason": "Tablet count with no weight per tablet stated on the label; cannot be placed in grams. Child dose (1-2 Tablets) not used."
+    },
+    {
+     "brand": "keralaayurveda",
+     "url": "https://keralaayurveda.com/products/dasamoola-rasayanam-100-gm",
+     "comparable": false,
+     "relation": "not comparable",
+     "population": "unstated",
+     "unit": "g",
+     "quote": "Take 5–10 grams of Dasamoola Rasayanam once or twice daily after meals",
+     "notComparableReason": "A rasayanam (lehya) weight taken, a different preparation class from a kvatha churna; the AFI figure is the weight of raw drug used to prepare a decoction."
+    },
+    {
+     "brand": "patanjali",
+     "url": "https://www.patanjaliayurved.net/product/ayurvedic-medicine/kwath/divya-dashmool-kwath/35",
+     "comparable": true,
+     "relation": "entirely lower",
+     "adultLow": 5,
+     "adultHigh": 10,
+     "unit": "g",
+     "population": "unstated",
+     "quote": "Take 5-10g kwath powder in 400ml water and boil it till 100ml mixture left",
+     "notComparableReason": "",
+     "detail": "Label states weight of kwath powder used to prepare one decoction, the same dimension as the AFI 48 g figure; the label repeats the preparation twice daily and does not state a population."
+    },
+    {
+     "brand": "maharishi",
+     "url": "https://maharishiayurvedaindia.com/products/dashmoola-kashaya",
+     "comparable": false,
+     "relation": "not comparable",
+     "population": "unstated",
+     "unit": "ml",
+     "quote": "10 to 20 ml twice a day with equal amount of water",
+     "notComparableReason": "Volume of ready-made kashayam swallowed versus AFI weight of drug used to prepare the decoction; different dimension."
+    },
+    {
+     "brand": "maharishi",
+     "url": "https://maharishiayurvedaindia.com/products/dashmoola-katutrayadi-kashayam",
+     "comparable": false,
+     "relation": "not comparable",
+     "population": "adult",
+     "unit": "ml",
+     "quote": "Adults - 5 to 15 ml twice a day with 4 times water before meals.",
+     "notComparableReason": "Volume of ready-made kashayam swallowed, and the product is Dashmoola Katutrayadi, a different formulation from Dasamula Kvatha Curna."
+    },
+    {
+     "brand": "sitaram",
+     "url": "https://sitaramayurveda.com/products/rasna-dashamoola-kashayam-200-ml",
+     "comparable": false,
+     "relation": "not comparable",
+     "population": "adult",
+     "unit": "ml",
+     "quote": "Adult: 15-20 ml of Rasna Dashamoola Kashayam mixed with 45-60 ml of boiled and cooled water, twice daily",
+     "notComparableReason": "Volume of ready-made kashayam swallowed, and the product is Rasna Dashamoola, a different formulation from Dasamula Kvatha Curna. Child dose (10-15 ml) not used."
+    }
+   ]
+  },
+  {
+   "formulation": "arjunarishta",
+   "afiDoseMeans": "dose taken",
+   "classNote": "Arjunarishta (AFI Part I, 1:21, Parthadyarista) is an arishta, a fermented liquid, so the formulary figure of 12 to 24 ml is the volume swallowed per dose and a label volume in ml is directly comparable to it.",
+   "labels": [
+    {
+     "brand": "sitaram",
+     "url": "https://sitaramayurveda.com/products/arjunarishtam-partharishtam",
+     "comparable": true,
+     "relation": "entirely higher",
+     "adultLow": 25,
+     "adultHigh": 30,
+     "unit": "ml",
+     "population": "both",
+     "quote": "Adult: 25-30 ml Arjunarishta syrup twice or thrice daily after food.",
+     "notComparableReason": ""
+    },
+    {
+     "brand": "sdl",
+     "url": "https://www.sdlindia.com/products/arjunarishta-parthadyarishta",
+     "comparable": true,
+     "relation": "overlapping",
+     "adultLow": 10,
+     "adultHigh": 20,
+     "unit": "ml",
+     "population": "unstated",
+     "quote": "2 to 4 tsf (10 to 20 ml) 2 times a day",
+     "notComparableReason": "Label's own ml equivalent (10 to 20 ml) used; the teaspoon figure itself was not converted."
+    },
+    {
+     "brand": "maharishi",
+     "url": "https://maharishiayurvedaindia.com/products/arjunarishta",
+     "comparable": false,
+     "relation": "not comparable",
+     "population": "unstated",
+     "unit": "teaspoon",
+     "quote": "1-2 teaspoon daily after meals",
+     "notComparableReason": "Label states only teaspoons with no ml equivalent of its own, so there is no volume figure to compare to the formulary's 12 to 24 ml."
+    },
+    {
+     "brand": "patanjali",
+     "url": "https://www.patanjaliayurved.net/product/ayurvedic-medicine/arishta/divya-arjunarista/12",
+     "comparable": true,
+     "relation": "identical",
+     "adultLow": 12,
+     "adultHigh": 24,
+     "unit": "ml",
+     "population": "unstated",
+     "quote": "12-24 ml or as directed by the physician.",
+     "notComparableReason": ""
+    }
+   ]
+  },
+  {
+   "formulation": "balarishta",
+   "afiDoseMeans": "dose taken",
+   "classNote": "Balarishta is an arishta (fermented liquid), so the AFI figure of 12 to 24 ml (Part I, entry 1:24, BALARISTA) is the volume swallowed and a label volume in ml is directly comparable to it.",
+   "labels": [
+    {
+     "brand": "sitaram",
+     "url": "https://sitaramayurveda.com/products/balarishtam",
+     "comparable": true,
+     "relation": "entirely higher",
+     "adultLow": 25,
+     "adultHigh": 30,
+     "unit": "ml",
+     "population": "both",
+     "quote": "Adult: 25-30 ml Balarishtam twice or thrice daily after food.",
+     "notComparableReason": ""
+    },
+    {
+     "brand": "sna",
+     "url": "https://www.snaoushadhasala.com/product/balaarishtam",
+     "comparable": true,
+     "relation": "overlapping",
+     "adultLow": 15,
+     "adultHigh": 30,
+     "unit": "ml",
+     "population": "unstated",
+     "quote": "15-30 ml, twice or thrice daily or as directed by the physician.",
+     "notComparableReason": ""
+    },
+    {
+     "brand": "keralaayurveda",
+     "url": "https://keralaayurveda.com/products/balarishta",
+     "comparable": true,
+     "relation": "overlapping",
+     "adultLow": 15,
+     "adultHigh": 25,
+     "unit": "ml",
+     "population": "both",
+     "quote": "For Adults: 15 ml to 25 ml twice daily after meals with equal water",
+     "notComparableReason": ""
+    },
+    {
+     "brand": "sdl",
+     "url": "https://www.sdlindia.com/products/balarishta",
+     "comparable": true,
+     "relation": "overlapping",
+     "adultLow": 15,
+     "adultHigh": 30,
+     "unit": "ml",
+     "population": "unstated",
+     "quote": "3 to 6 tsf (15 to 30 ml) twice a day with lukewarm water",
+     "notComparableReason": ""
+    }
+   ]
+  },
+  {
+   "formulation": "rasnasaptakam-kashayam",
+   "afiDoseMeans": "weight of drug used to prepare",
+   "classNote": "The formulary entry (AFI Part II, 4:20) is RASNASAPTAKA KVATHA CURNA, a coarse powder for decoction, and its printed \"10 to 50 g\" is the weight of powder used to prepare the kvatha, not an amount swallowed, so neither a label volume in ml nor a tablet count is comparable to it.",
+   "labels": [
+    {
+     "brand": "sna",
+     "url": "https://www.snaoushadhasala.com/product/raasnaasaptakam-kashayam-tablet",
+     "comparable": false,
+     "relation": "not comparable",
+     "population": "unstated",
+     "quote": "2 tablets twice daily",
+     "adultLow": 2,
+     "adultHigh": 2,
+     "unit": "tablets",
+     "notComparableReason": "Label states a tablet count with no weight per tablet; the formulary figure (10 to 50 g) is the weight of kvatha curna used to prepare the decoction. No population is stated."
+    },
+    {
+     "brand": "sna",
+     "url": "https://www.snaoushadhasala.com/product/raasnaasaptakam-kashayam",
+     "comparable": false,
+     "relation": "not comparable",
+     "population": "unstated",
+     "quote": "15 -20 ml with 3 times lukewarm water twice daily",
+     "adultLow": 15,
+     "adultHigh": 20,
+     "unit": "ml",
+     "notComparableReason": "Label states a liquid volume (15 to 20 ml); the formulary figure (10 to 50 g) is the weight of kvatha curna used to prepare the decoction, a different dimension. No population is stated."
+    },
+    {
+     "brand": "maharishi",
+     "url": "https://maharishiayurvedaindia.com/products/rasnasaptak-kashayam",
+     "comparable": false,
+     "relation": "not comparable",
+     "population": "unstated",
+     "quote": "10 to 20 ml mixed with equal amount of water before food",
+     "adultLow": 10,
+     "adultHigh": 20,
+     "unit": "ml",
+     "notComparableReason": "Label states a liquid volume (10 to 20 ml); the formulary figure (10 to 50 g) is the weight of kvatha curna used to prepare the decoction, a different dimension. No population is stated."
+    },
+    {
+     "brand": "sitaram",
+     "url": "https://sitaramayurveda.com/products/rasnasaptakam-kashaya",
+     "comparable": false,
+     "relation": "not comparable",
+     "population": "both",
+     "quote": "Adult: 15-20 ml of Rasnasaptakam Kashayam mixed with 45-60 ml of boiled and cooled water, twice daily",
+     "adultLow": 15,
+     "adultHigh": 20,
+     "unit": "ml",
+     "notComparableReason": "Adult figure used (child dose 10-15 ml ignored). Label states a liquid volume; the formulary figure (10 to 50 g) is the weight of kvatha curna used to prepare the decoction, a different dimension."
+    },
+    {
+     "brand": "sitaram",
+     "url": "https://sitaramayurveda.com/products/rasnasaptakam-kashayam-tablet",
+     "comparable": false,
+     "relation": "not comparable",
+     "population": "both",
+     "quote": "Adult: 2-3 Tablets of Rasnasaptakam Kashayam twice daily",
+     "adultLow": 2,
+     "adultHigh": 3,
+     "unit": "tablets",
+     "notComparableReason": "Adult figure used (child dose 1-2 tablets ignored). Label states a tablet count with no weight per tablet; the formulary figure (10 to 50 g) is the weight of kvatha curna used to prepare the decoction."
+    }
+   ]
+  },
+  {
+   "formulation": "kanchanara-guggulu",
+   "afiDoseMeans": "dose taken",
+   "classNote": "Kancanara Guggulu (AFI Part I, 5:1) is a guggulu preparation taken internally, so the printed 3 g is a weight of the preparation swallowed; it would be comparable to a label weight, but every label here states only a tablet count with no weight per tablet, so none can be compared.",
+   "labels": [
+    {
+     "brand": "keralaayurveda",
+     "url": "https://keralaayurveda.com/products/kanchanar-guggulu",
+     "comparable": false,
+     "relation": "not comparable",
+     "population": "adult",
+     "quote": "Adults: 2 tablets twice daily after food with lukewarm water",
+     "unit": "tablets",
+     "notComparableReason": "Label states a tablet count (2 tablets twice daily) but does not state the weight per tablet, so it cannot be set against the formulary's 3 g."
+    },
+    {
+     "brand": "maharishi",
+     "url": "https://maharishiayurvedaindia.com/products/kanchnar-guggulu-100-tabs",
+     "comparable": false,
+     "relation": "not comparable",
+     "population": "unstated",
+     "quote": "1-2 tablets twice a day with water after meals",
+     "unit": "tablets",
+     "notComparableReason": "Label states a tablet count (1-2 tablets twice a day) with no weight per tablet; population not stated."
+    },
+    {
+     "brand": "sitaram",
+     "url": "https://sitaramayurveda.com/products/kanchanara-guggulu-tablets-60-nos",
+     "comparable": false,
+     "relation": "not comparable",
+     "population": "both",
+     "quote": "Adult: 1-2 tablets of Kanchanara Guggulu twice daily",
+     "unit": "tablets",
+     "notComparableReason": "Adult dose used (child dose of 1/2 - 1 tablet ignored). Label states a tablet count with no weight per tablet, so it cannot be set against the formulary's 3 g."
+    },
+    {
+     "brand": "patanjali",
+     "url": "https://www.patanjaliayurved.net/product/ayurvedic-medicine/guggul/divya-kanchnar-guggul/68",
+     "comparable": false,
+     "relation": "not comparable",
+     "population": "unstated",
+     "quote": "1-2 Tablet twice daily with lukewarm water",
+     "unit": "tablets",
+     "notComparableReason": "Label states a tablet count (1-2 tablets twice daily) with no weight per tablet; population not stated."
+    }
+   ]
+  },
+  {
+   "formulation": "gandharvahastadi-kashayam",
+   "afiDoseMeans": "weight of drug used to prepare",
+   "classNote": "The formulary entry (AFI Part I, 4:5) is GANDHARVAHASTADI KVATHA CURNA and its printed figure \"48 g\" is the weight of coarse powder used to prepare the decoction, not a volume swallowed, so no label stating a millilitre, teaspoon or tablet quantity of finished kashayam can be compared to it.",
+   "labels": [
+    {
+     "brand": "maharishi",
+     "url": "https://maharishiayurvedaindia.com/products/gandharvhastadi-kashayam",
+     "comparable": false,
+     "relation": "not comparable",
+     "population": "unstated",
+     "quote": "1-2 teaspoon daily after meals",
+     "unit": "teaspoon",
+     "notComparableReason": "The formulary figure of 48 g is the weight of drug used to prepare the decoction, not an amount swallowed. The label also states only teaspoons with no gram or millilitre equivalent of its own."
+    },
+    {
+     "brand": "sna",
+     "url": "https://www.snaoushadhasala.com/product/gandharvahastaadi-kashayam",
+     "comparable": false,
+     "relation": "not comparable",
+     "population": "unstated",
+     "quote": "15-20 ml with three times lukewarm water twice daily",
+     "adultLow": 15,
+     "adultHigh": 20,
+     "unit": "ml",
+     "notComparableReason": "The label states a volume of finished kashayam (15-20 ml per dose), while the formulary figure of 48 g is the weight of drug used to prepare the decoction; a volume cannot be compared to a preparation weight."
+    },
+    {
+     "brand": "sitaram",
+     "url": "https://sitaramayurveda.com/products/gandharvahastadi-kashaya",
+     "comparable": false,
+     "relation": "not comparable",
+     "population": "both",
+     "quote": "15-20 ml of Gandharvahastadi Kashayam mixed with 45-60 ml of boiled and cooled water, twice daily",
+     "adultLow": 15,
+     "adultHigh": 20,
+     "unit": "ml",
+     "notComparableReason": "The adult figure used is 15-20 ml (the page also states a child dose of 10-15 ml, which was not used). This is a volume of finished kashayam, while the formulary figure of 48 g is the weight of drug used to prepare the decoction, so the two are in different dimensions."
+    },
+    {
+     "brand": "sitaram",
+     "url": "https://sitaramayurveda.com/products/gandharvahastadi-kashayam-tablet-50-nos",
+     "comparable": false,
+     "relation": "not comparable",
+     "population": "both",
+     "quote": "2-3 Tablets of Gandharvahastadi Kashayam twice daily",
+     "adultLow": 2,
+     "adultHigh": 3,
+     "unit": "tablets",
+     "notComparableReason": "The adult figure is 2-3 tablets (the page also states a child dose of 1-2 tablets, which was not used). The label gives no weight per tablet, and the formulary figure of 48 g is in any case the weight of drug used to prepare the decoction, not an amount taken."
+    }
+   ]
+  },
+  {
+   "formulation": "gokshuradi-guggulu",
+   "afiDoseMeans": "dose taken",
+   "classNote": "A guggulu is a solid preparation taken orally, so the formulary's 3 g is the weight swallowed per dose; it is comparable only to a label that states its own weight per tablet, and none of these four labels does.",
+   "labels": [
+    {
+     "brand": "maharishi",
+     "url": "https://maharishiayurvedaindia.com/products/goksuradi-guggulu-60-tablets",
+     "quote": "1-2 tablets twice a day with water after meals",
+     "unit": "tablets",
+     "adultLow": 1,
+     "adultHigh": 2,
+     "population": "unstated",
+     "comparable": false,
+     "relation": "not comparable",
+     "notComparableReason": "Label gives a tablet count only and does not state the weight per tablet, so it cannot be set against the formulary's 3 g."
+    },
+    {
+     "brand": "sandu",
+     "url": "https://sandu.in/product/sandu-gokshuradi-guggul-25-tabs/",
+     "quote": "1-2 tablets 2-3 times a day after meals",
+     "unit": "tablets",
+     "adultLow": 1,
+     "adultHigh": 2,
+     "population": "unstated",
+     "comparable": false,
+     "relation": "not comparable",
+     "notComparableReason": "Label gives a tablet count only and does not state the weight per tablet, so it cannot be set against the formulary's 3 g."
+    },
+    {
+     "brand": "avp",
+     "url": "https://avpayurveda.com/products/gokshuradi-guggulu-tablet-100-tabs-2",
+     "quote": "One tablet twice daily after food",
+     "unit": "tablets",
+     "adultLow": 1,
+     "adultHigh": 1,
+     "population": "unstated",
+     "comparable": false,
+     "relation": "not comparable",
+     "notComparableReason": "Label gives a tablet count only and does not state the weight per tablet, so it cannot be set against the formulary's 3 g."
+    },
+    {
+     "brand": "patanjali",
+     "url": "https://www.patanjaliayurved.net/product/ayurvedic-medicine/guggul/divya-gokshuradi-guggul/51",
+     "quote": "1-1 Tablet twice daily with water",
+     "unit": "tablets",
+     "adultLow": 1,
+     "adultHigh": 1,
+     "population": "unstated",
+     "comparable": false,
+     "relation": "not comparable",
+     "notComparableReason": "Label gives a tablet count only (printed as \"1-1 Tablet\", read as one tablet) and does not state the weight per tablet, so it cannot be set against the formulary's 3 g."
+    }
+   ]
+  },
+  {
+   "formulation": "hingvashtak-churna",
+   "afiDoseMeans": "dose taken",
+   "classNote": "Hingvastaka Curna (AFI Part I, 7:37) is a churna, so the formulary figure \"1 to 2 g\" is the weight of powder taken per dose and a label stated in grams is directly comparable to it.",
+   "labels": [
+    {
+     "brand": "sdl",
+     "url": "https://www.sdlindia.com/products/hingwashtak-choorna",
+     "comparable": true,
+     "relation": "entirely higher",
+     "quote": "1 tsf. to 2 tsf. (5 to 10 gm.) 2 times a day",
+     "adultLow": 5,
+     "adultHigh": 10,
+     "unit": "g",
+     "population": "unstated",
+     "notComparableReason": "Compared using the label's own gram equivalent (5 to 10 gm.) for the teaspoon range; per-dose figure, twice daily. Page does not state a separate child dose."
+    },
+    {
+     "brand": "patanjali",
+     "url": "https://www.patanjaliayurved.net/product/ayurvedic-medicine/churna/divya-hingvashtak-churna/1586",
+     "comparable": true,
+     "relation": "entirely higher",
+     "quote": "3 g twice a day with lukewarm water",
+     "adultLow": 3,
+     "adultHigh": 3,
+     "unit": "g",
+     "population": "unstated",
+     "notComparableReason": "Single per-dose figure of 3 g, above the formulary range of 1 to 2 g. Page does not state a separate child dose."
+    },
+    {
+     "brand": "maharishi",
+     "url": "https://maharishiayurvedaindia.com/products/hingwastak-churna-50gms",
+     "comparable": true,
+     "relation": "identical",
+     "quote": "1 to 2 grams with lukewarm water after meals",
+     "adultLow": 1,
+     "adultHigh": 2,
+     "unit": "g",
+     "population": "unstated",
+     "notComparableReason": "Label range 1 to 2 g matches the formulary figure exactly. Page does not state a separate child dose."
+    }
+   ]
+  },
+  {
+   "formulation": "sitopaladi-churna",
+   "afiDoseMeans": "dose taken",
+   "classNote": "Sitopaladi is a churna, so the formulary figure (AFI Part I, 7:34, \"1 to 3 g\") is the weight of powder taken, and label doses stated in grams are directly comparable to it.",
+   "labels": [
+    {
+     "brand": "sdl",
+     "url": "https://www.sdlindia.com/products/sitopaladi-choorna",
+     "comparable": true,
+     "relation": "entirely higher",
+     "adultLow": 5,
+     "adultHigh": 10,
+     "unit": "g",
+     "population": "unstated",
+     "quote": "1 tsf. to 2 tsf. (5 to 10 gm) twice or thrice a day",
+     "notComparableReason": "Comparable: the label states teaspoons but gives its own gram equivalent (5 to 10 gm), which is the figure used. Label range 5-10 g sits wholly above the formulary 1-3 g. No adult or child population is stated."
+    },
+    {
+     "brand": "maharishi",
+     "url": "https://maharishiayurvedaindia.com/products/sitopaladi-churna",
+     "comparable": true,
+     "relation": "overlapping",
+     "adultLow": 3,
+     "adultHigh": 6,
+     "unit": "g",
+     "population": "unstated",
+     "quote": "Take 3 to 6 grams daily with water",
+     "notComparableReason": "Comparable: label 3-6 g meets the formulary 1-3 g only at the shared 3 g endpoint. Note the label frames its figure as a daily amount; the formulary entry does not state a frequency. No adult or child population is stated."
+    },
+    {
+     "brand": "patanjali",
+     "url": "https://www.patanjaliayurved.net/product/ayurvedic-medicine/churna/divya-sitopaladi-churna/176",
+     "comparable": true,
+     "relation": "identical",
+     "adultLow": 1,
+     "adultHigh": 3,
+     "unit": "g",
+     "population": "unstated",
+     "quote": "1-3 g with honey and ghee",
+     "notComparableReason": "Comparable: label 1-3 g matches the formulary 1-3 g exactly, and the stated anupana (honey and ghee) matches the formulary's. No adult or child population is stated."
+    }
+   ]
+  },
+  {
+   "formulation": "kaishore-guggul",
+   "afiDoseMeans": "dose taken",
+   "classNote": "A guggulu is a solid compound taken orally, so the formulary's \"3 g\" is the weight of preparation taken, and a label is comparable only if it states tablet weight; none of these three labels does.",
+   "labels": [
+    {
+     "brand": "maharishi",
+     "url": "https://maharishiayurvedaindia.com/products/kaishore-guggulu",
+     "comparable": false,
+     "relation": "not comparable",
+     "population": "unstated",
+     "quote": "1 tablet twice a day with water after a meal",
+     "unit": "tablet",
+     "notComparableReason": "The label gives a count of tablets with no weight per tablet, so it cannot be set against the formulary's 3 g."
+    },
+    {
+     "brand": "patanjali",
+     "url": "https://www.patanjaliayurved.net/product/ayurvedic-medicine/guggul/divya-kaishore-guggul/64",
+     "comparable": false,
+     "relation": "not comparable",
+     "population": "unstated",
+     "quote": "1-4 Tablets twice daily with milk or water",
+     "unit": "tablet",
+     "notComparableReason": "The label gives a count of tablets (1 to 4) with no weight per tablet, so it cannot be set against the formulary's 3 g."
+    },
+    {
+     "brand": "sitaram",
+     "url": "https://sitaramayurveda.com/products/kaishora-guggulu-gulika-tablet-50-nos",
+     "comparable": false,
+     "relation": "not comparable",
+     "population": "adult",
+     "quote": "Adult: 2 tablets twice daily after food",
+     "unit": "tablet",
+     "notComparableReason": "The adult dose (used, not the child dose of 1 tablet) is a count of tablets with no weight per tablet, so it cannot be set against the formulary's 3 g."
+    }
+   ]
+  },
+  {
+   "formulation": "triphala-guggulu",
+   "afiDoseMeans": "dose taken",
+   "classNote": "Triphala Guggulu is a guggulu (vati/tablet-class) preparation, so the formulary's 3 g is the weight of the preparation taken per dose and would be comparable to a label only if that label states tablet count together with weight per tablet; none of these three does.",
+   "labels": [
+    {
+     "brand": "maharishi",
+     "url": "https://maharishiayurvedaindia.com/products/triphala-guggulu",
+     "comparable": false,
+     "relation": "not comparable",
+     "notComparableReason": "The label states a tablet count only (\"1 tablet twice a day\") with no weight per tablet, so there is no gram figure to set against the formulary's 3 g.",
+     "population": "unstated",
+     "quote": "1 tablet twice a day with water after a meal",
+     "unit": "tablet"
+    },
+    {
+     "brand": "patanjali",
+     "url": "https://www.patanjaliayurved.net/product/ayurvedic-medicine/guggul/divya-triphala-guggul-80n/201",
+     "comparable": false,
+     "relation": "not comparable",
+     "notComparableReason": "The label states a tablet count only (\"1-2 tablets twice a day\") with no weight per tablet, so there is no gram figure to set against the formulary's 3 g.",
+     "population": "unstated",
+     "quote": "1-2 tablets twice a day after meal",
+     "unit": "tablet"
+    },
+    {
+     "brand": "patanjali",
+     "url": "https://www.patanjaliayurved.net/product/ayurvedic-medicine/guggul/divya-triphala-guggul-40n/200",
+     "comparable": false,
+     "relation": "not comparable",
+     "notComparableReason": "The label states a tablet count only (\"1-2 tablets twice daily\") with no weight per tablet, so there is no gram figure to set against the formulary's 3 g.",
+     "population": "unstated",
+     "quote": "1-2 tablets twice daily after meal with water or milk",
+     "unit": "tablet"
+    }
+   ]
+  },
+  {
+   "formulation": "avipattikar-churna",
+   "afiDoseMeans": "dose taken",
+   "classNote": "A churna is a powder taken orally, so the formulary figure \"3 to 6 g\" (AFI Part I, 7:2, Avipattikara Curna) is the weight of powder swallowed per dose and is directly comparable to label figures stated in grams.",
+   "labels": [
+    {
+     "brand": "sdl",
+     "url": "https://www.sdlindia.com/products/avipattikar-choorna",
+     "comparable": true,
+     "relation": "overlapping",
+     "quote": "1 tsf. to 2 tsf. (5 to 10 gm.) twice or thrice a day with lukewarm water.",
+     "adultLow": 5,
+     "adultHigh": 10,
+     "unit": "g",
+     "population": "unstated",
+     "notComparableReason": "Comparison uses the label's own gram equivalent (5 to 10 gm) for the teaspoon figure, as the label itself states it. The label gives a per-dose range of 5 to 10 g against the formulary's 3 to 6 g; the ranges overlap at 5 to 6 g, with the label's upper bound above the formulary's. The label also states a frequency (twice or thrice a day) that the formulary entry does not; only the per-dose figures are compared. No adult or child population is stated."
+    },
+    {
+     "brand": "patanjali",
+     "url": "https://www.patanjaliayurved.net/product/ayurvedic-medicine/churna/divya-avipattikar-churna/23",
+     "comparable": true,
+     "relation": "identical",
+     "quote": "3-6 g before meals with water or as directed by the physician.",
+     "adultLow": 3,
+     "adultHigh": 6,
+     "unit": "g",
+     "population": "unstated",
+     "notComparableReason": "The label's 3-6 g matches the formulary's 3 to 6 g exactly. No adult or child population is stated; the single stated figure is taken as the general dose."
+    },
+    {
+     "brand": "maharishi",
+     "url": "https://maharishiayurvedaindia.com/products/avipattikar-churna",
+     "comparable": true,
+     "relation": "identical",
+     "quote": "3-6 grams daily with water or warm milk or as directed by the Vaidya.",
+     "adultLow": 3,
+     "adultHigh": 6,
+     "unit": "g",
+     "population": "unstated",
+     "notComparableReason": "The label's 3-6 grams matches the formulary's 3 to 6 g exactly. The label says \"daily\" and the formulary prints a per-dose figure without frequency; only the gram figures are compared. No adult or child population is stated."
+    }
+   ]
+  },
+  {
+   "formulation": "brahmi-vati",
+   "afiDoseMeans": "dose taken",
+   "classNote": "Brahmi Vati is a vati (tablet/pill) preparation, so the formulary figure of 125 to 250 mg is the weight swallowed and would be comparable to a label stating a weight, but every label here gives only a tablet count with no weight per tablet.",
+   "labels": [
+    {
+     "brand": "sdl",
+     "url": "https://www.sdlindia.com/products/brahmi-vati-buddhivardhak",
+     "comparable": false,
+     "relation": "not comparable",
+     "population": "unstated",
+     "quote": "1 t o 2 tablets twice a day",
+     "notComparableReason": "Label states a tablet count only; the text gives no weight per tablet, so it cannot be set against the formulary figure in milligrams. Anupana stated as Saraswatarishta, Dashamoolarishta or milk; formulary prints none."
+    },
+    {
+     "brand": "sdl",
+     "url": "https://www.sdlindia.com/products/brahmi-vati-suvarnayukta",
+     "comparable": false,
+     "relation": "not comparable",
+     "population": "unstated",
+     "quote": "1 to 2 tablets 2-3 times a day",
+     "notComparableReason": "Label states a tablet count only; the text gives no weight per tablet, so it cannot be set against the formulary figure in milligrams. This is the Suvarnayukta (gold-containing) variant, a different preparation strength from the plain formulary entry."
+    },
+    {
+     "brand": "maharishi",
+     "url": "https://maharishiayurvedaindia.com/products/brahmi-vati",
+     "comparable": false,
+     "relation": "not comparable",
+     "population": "unstated",
+     "quote": "1-2 tablets twice a day with water after meals",
+     "notComparableReason": "Label states a tablet count only; the text gives no weight per tablet, so it cannot be set against the formulary figure in milligrams."
+    }
+   ]
+  },
+  {
+   "formulation": "hinguvachadi-churna",
+   "afiDoseMeans": "dose taken",
+   "classNote": "A churna is a powder swallowed by weight, so the formulary figure of 2 to 4 g (AFI Part I, 7:39, Hinguvacadi Curna) is the amount taken and is directly comparable to any label that states a dose in grams.",
+   "labels": [
+    {
+     "brand": "sna",
+     "url": "https://www.snaoushadhasala.com/product/hinguvachaadi-choornam",
+     "comparable": true,
+     "relation": "entirely higher",
+     "adultLow": 5,
+     "adultHigh": 10,
+     "unit": "g",
+     "population": "unstated",
+     "quote": "5-10 gms Or As directed by the physician.",
+     "notComparableReason": ""
+    },
+    {
+     "brand": "keralaayurveda",
+     "url": "https://keralaayurveda.com/products/hinguvachadi-choornam-50-gm",
+     "comparable": true,
+     "relation": "overlapping",
+     "adultLow": 1,
+     "adultHigh": 3,
+     "unit": "g",
+     "population": "unstated",
+     "quote": "Take 1–3 grams of Hinguvachadi Choornam once or twice daily after meals",
+     "notComparableReason": ""
+    },
+    {
+     "brand": "sitaram",
+     "url": "https://sitaramayurveda.com/products/hinguvachadi-choornam-50-gm",
+     "comparable": true,
+     "relation": "entirely higher",
+     "adultLow": 5,
+     "adultHigh": 8,
+     "unit": "g",
+     "population": "both",
+     "quote": "Adult: 5-8 gms Hinguvachadi Choornam once or twice daily with a suitable adjuvant.",
+     "notComparableReason": ""
+    }
+   ]
+  },
+  {
+   "formulation": "talisadi-churna",
+   "afiDoseMeans": "dose taken",
+   "classNote": "Talisadya Curna (AFI Part I, 7:13) is a churna, so the formulary figure of 3 g is the weight of powder taken per dose and is directly comparable to a label weight in grams.",
+   "labels": [
+    {
+     "brand": "sdl",
+     "url": "https://www.sdlindia.com/products/taleesadi-choorna",
+     "comparable": true,
+     "relation": "entirely higher",
+     "adultLow": 5,
+     "adultHigh": 10,
+     "unit": "g",
+     "population": "unstated",
+     "quote": "1 tsf. to 2 tsf. (5 to 10 gm) twice or thrice a day",
+     "notComparableReason": "",
+     "relationNote": "Label gives teaspoons but states its own gram equivalent (5 to 10 gm), which is used here. Range 5-10 g per dose sits entirely above the formulary's 3 g. Population not stated on the label; treated as the general adult dose."
+    },
+    {
+     "brand": "maharishi",
+     "url": "https://maharishiayurvedaindia.com/products/talishadi-churna-50gms",
+     "comparable": true,
+     "relation": "identical",
+     "adultLow": 3,
+     "adultHigh": 3,
+     "unit": "g",
+     "population": "unstated",
+     "quote": "Take 3 grams twice a day with honey",
+     "notComparableReason": "",
+     "relationNote": "Label states 3 grams per dose, identical to the formulary's 3 g. Population not stated on the label; treated as the general adult dose."
+    }
+   ]
+  },
+  {
+   "formulation": "brahma-rasayana",
+   "afiDoseMeans": "dose taken",
+   "classNote": "Brahma Rasayana is an avaleha (lehya, a semi-solid confection), so the formulary figure of 12 g is the weight of the preparation taken per dose and a label stating grams is directly comparable.",
+   "labels": [
+    {
+     "brand": "sitaram",
+     "url": "https://sitaramayurveda.com/products/brahma-rasaayanam",
+     "comparable": true,
+     "relation": "overlapping",
+     "adultLow": 10,
+     "adultHigh": 15,
+     "unit": "g",
+     "population": "both",
+     "quote": "Adults: 10-15 gms or 1 tbsp Brahma Rasaayanam at bedtime.",
+     "notComparableReason": ""
+    },
+    {
+     "brand": "sna",
+     "url": "https://www.snaoushadhasala.com/product/braahmarasaayanam",
+     "comparable": true,
+     "relation": "overlapping",
+     "adultLow": 10,
+     "adultHigh": 20,
+     "unit": "g",
+     "population": "unstated",
+     "quote": "10-20 gms Or As directed by the physician.",
+     "notComparableReason": ""
+    }
+   ]
+  },
+  {
+   "formulation": "arogyavardhini-vati",
+   "afiDoseMeans": "dose taken",
+   "classNote": "Arogyavardhini Gutika is a tablet (gutika/vati) preparation, so the formulary figure of 250 to 500 mg is the weight of tablet mass taken per dose and is directly comparable to any label that states a weight; labels stating only a tablet count without a per-tablet weight are not comparable.",
+   "labels": [
+    {
+     "brand": "maharishi",
+     "url": "https://maharishiayurvedaindia.com/products/arogya-vardhini-vati",
+     "quote": "1-2 tablets twice a day with water after meals",
+     "population": "unstated",
+     "unit": "tablets",
+     "comparable": false,
+     "relation": "not comparable",
+     "notComparableReason": "The label states a tablet count only and does not state the weight per tablet, so it cannot be compared to the formulary figure of 250 to 500 mg."
+    },
+    {
+     "brand": "baidyanath",
+     "url": "https://www.baidyanathayurved.com/products/baidyanath-arogya-vardhini-bati-40-tablets-pack-of-2",
+     "quote": "2 tablets twice a day, with water or milk",
+     "population": "unstated",
+     "unit": "tablets",
+     "comparable": false,
+     "relation": "not comparable",
+     "notComparableReason": "The label states a tablet count only and does not state the weight per tablet, so it cannot be compared to the formulary figure of 250 to 500 mg. The page also notes the dosage depends on the individual's health and age."
+    },
+    {
+     "brand": "patanjali",
+     "url": "https://www.patanjaliayurved.net/product/ayurvedic-medicine/vati/divya-arogyavardhini-vati/13",
+     "quote": "250 to 500 mg with Ardraka svarasa, Honey ,Nimba, Svarasa, water or milk twice daily",
+     "population": "unstated",
+     "unit": "mg",
+     "adultLow": 250,
+     "adultHigh": 500,
+     "comparable": true,
+     "relation": "identical",
+     "notComparableReason": ""
+    }
+   ]
+  },
+  {
+   "formulation": "kshirabala-thailam",
+   "afiDoseMeans": "dose taken",
+   "classNote": "Ksirabala Taila is a medicated oil, but AFI Part I 8:11 prints its 12 g figure with an anupana (milk, warm water), so the figure is an internal dose taken, not a preparation weight; a label stating an internal amount in grams is comparable, while a label stating drops for topical or nasal use is not.",
+   "labels": [
+    {
+     "brand": "maharishi",
+     "url": "https://maharishiayurvedaindia.com/products/ksheerbala-taila",
+     "quote": "Use 2-3 drops or as advised by the Vaidya.",
+     "population": "unstated",
+     "unit": "drops",
+     "comparable": false,
+     "relation": "not comparable",
+     "notComparableReason": "The label states an amount in drops with no gram or millilitre equivalent, so it is not in the same dimension as the formulary's 12 g internal dose; the text does not state an adult internal amount."
+    },
+    {
+     "brand": "patanjali",
+     "url": "https://www.patanjaliayurved.net/product/ayurvedic-medicine/oil/divya-ksirabala-taila/81",
+     "quote": "12 g with milk or warm water",
+     "population": "unstated",
+     "unit": "g",
+     "adultLow": 12,
+     "adultHigh": 12,
+     "comparable": true,
+     "relation": "identical",
+     "notComparableReason": ""
+    }
+   ]
+  },
+  {
+   "formulation": "khadiradi-vati",
+   "afiDoseMeans": "dose taken",
+   "classNote": "Khadiradi Gutika (AFI Part I, 12:6) is a vati/gutika, a pill taken by mouth, so the printed \"2 g\" is the weight of pills taken; a label is comparable only if it states the tablet weight, and neither of these labels does.",
+   "labels": [
+    {
+     "brand": "maharishi",
+     "url": "https://maharishiayurvedaindia.com/products/khadiradi-vati-40-tabs",
+     "comparable": false,
+     "relation": "not comparable",
+     "notComparableReason": "Label states a tablet count only (1-2 tablets twice a day) and does not give the weight per tablet, so it cannot be set against the formulary's 2 g.",
+     "population": "unstated",
+     "quote": "1-2 tablets twice a day with water after meals",
+     "unit": "tablets"
+    },
+    {
+     "brand": "patanjali",
+     "url": "https://www.patanjaliayurved.net/product/ayurvedic-medicine/vati/divya-khadiradi-vati/79",
+     "comparable": false,
+     "relation": "not comparable",
+     "notComparableReason": "Label states a tablet count only (1 tablet chewed 4-5 times daily) and does not give the weight per tablet, so it cannot be set against the formulary's 2 g.",
+     "population": "unstated",
+     "quote": "1-1 tablet chew 4-5 times daily",
+     "unit": "tablets"
+    }
+   ]
+  },
+  {
+   "formulation": "dashamoola-katutraya-kashayam",
+   "afiDoseMeans": "weight of drug used to prepare",
+   "classNote": "The formulary entry (AFI Part I, 4:9, DASAMULA KATUTRAYA KVATHA CURNA) prints \"48 g\", which for a kvatha curna is the weight of coarse powder used to prepare the decoction, not an amount swallowed, so neither a label volume in ml nor a tablet count can be compared to it.",
+   "labels": [
+    {
+     "brand": "sitaram",
+     "url": "https://sitaramayurveda.com/products/dasamoolakatutraya-kashaya-tablet",
+     "comparable": false,
+     "relation": "not comparable",
+     "notComparableReason": "Label gives a tablet count (adult 2-3 tablets twice daily) with no weight per tablet, and the formulary figure of 48 g is the weight of drug used to prepare the decoction, so the two are in different dimensions. The child dose (1-2 tablets) was not used.",
+     "population": "both",
+     "quote": "Adult: 2-3 Tablets of Dasamoolakaduthrayam Kashayam twice daily on empty stomach.",
+     "unit": "tablets"
+    },
+    {
+     "brand": "sitaram",
+     "url": "https://sitaramayurveda.com/products/dasamoolakatutraya-kashaya-tablet-2",
+     "comparable": false,
+     "relation": "not comparable",
+     "notComparableReason": "Label states a volume swallowed (adult 15-20 ml twice daily, diluted), while the formulary figure of 48 g is the weight of drug used to prepare the decoction; a volume is not comparable to a preparation weight. The child dose (10-15 ml) was not used.",
+     "population": "both",
+     "quote": "Adult: 15-20 ml mixed with 45-60 ml of boiled and cooled water, twice daily on empty stomach.",
+     "unit": "ml"
+    }
+   ]
+  },
+  {
+   "formulation": "trikatu-churna",
+   "afiDoseMeans": "dose taken",
+   "classNote": "Trikatu Curna (AFI Part I, 7:14) is a churna, so the formulary figure of 3 g is the weight of powder taken per dose and is directly comparable to a label dose stated in grams.",
+   "labels": [
+    {
+     "brand": "maharishi",
+     "url": "https://maharishiayurvedaindia.com/products/trikatu-churna-25gms",
+     "comparable": true,
+     "relation": "overlapping",
+     "adultLow": 3,
+     "adultHigh": 6,
+     "unit": "g",
+     "population": "unstated",
+     "quote": "Take 3 to 6 gram twice a day with honey/lukewarm water",
+     "notComparableReason": ""
+    },
+    {
+     "brand": "patanjali",
+     "url": "https://www.patanjaliayurved.net/product/ayurvedic-medicine/churna/divya-trikatu-churna/197",
+     "comparable": true,
+     "relation": "entirely lower",
+     "adultLow": 0.5,
+     "adultHigh": 1,
+     "unit": "g",
+     "population": "unstated",
+     "quote": "1/2-1 g with honey or lukewarm water twice daily",
+     "notComparableReason": ""
+    }
+   ]
+  },
+  {
+   "formulation": "drakshadi-kashayam",
+   "afiDoseMeans": "weight of drug used to prepare",
+   "classNote": "The formulary entry (AFI Part I, 4:13) is a Kvatha Curna and its \"48 g\" figure is the weight of coarse powder used to prepare the decoction, so neither a label volume of ready-made kashayam nor a tablet count is in the same dimension and no label here is comparable.",
+   "labels": [
+    {
+     "brand": "sitaram",
+     "url": "https://sitaramayurveda.com/products/drakshadi-kashayam-200-ml",
+     "comparable": false,
+     "relation": "not comparable",
+     "notComparableReason": "Label states a volume of prepared kashayam swallowed (15-20 ml, adult); the formulary's 48 g is the weight of drug used to prepare the decoction, a different dimension. The label's child dose (10-15 ml) was not used.",
+     "population": "both",
+     "quote": "Adult: 15-20 ml of Drakshadi Kashayam mixed with 45-60 ml of boiled and cooled water, twice daily",
+     "adultLow": 15,
+     "adultHigh": 20,
+     "unit": "ml"
+    },
+    {
+     "brand": "sitaram",
+     "url": "https://sitaramayurveda.com/products/drakshadi-kashayam-tablet",
+     "comparable": false,
+     "relation": "not comparable",
+     "notComparableReason": "Label states a tablet count (2-3 tablets, adult) with no weight per tablet, and the formulary's 48 g is the weight of drug used to prepare the decoction, so the two share no dimension. The label's child dose (1-2 tablets) was not used.",
+     "population": "both",
+     "quote": "Adult: 2-3 Tablets of Drakshadi Kashayam twice daily on empty stomach",
+     "adultLow": 2,
+     "adultHigh": 3,
+     "unit": "tablets"
+    }
+   ]
+  },
+  {
+   "formulation": "lavangadi-vati",
+   "afiDoseMeans": "dose taken",
+   "classNote": "Lavangadi Vati is a vati (tablet/pill), so the formulary figure of 1 g is the weight of the preparation taken per dose; a label is comparable only if it states a weight, not just a tablet count.",
+   "labels": [
+    {
+     "brand": "patanjali",
+     "url": "https://www.patanjaliayurved.net/product/ayurvedic-medicine/vati/divya-lavangadi-vati/91",
+     "quote": "1-2 tablets thrice daily chew or with lukewarm water",
+     "population": "unstated",
+     "unit": "tablets",
+     "comparable": false,
+     "relation": "not comparable",
+     "notComparableReason": "The label states a tablet count (1-2 tablets) with no weight per tablet, so it cannot be set against the formulary's 1 g without converting an amount the page does not state. The anupana (lukewarm water) matches the formulary's warm water."
+    }
+   ]
+  },
+  {
+   "formulation": "phala-ghrita",
+   "afiDoseMeans": "dose taken",
+   "classNote": "Phala Ghrita is a medicated ghee taken internally, and the formulary prints its figure (12 g, with warm water as anupana) as the amount taken per dose, so a label weight per dose is directly comparable; only an externally used ghrita would fall into the weight-of-drug trap, and that does not apply here.",
+   "labels": [
+    {
+     "brand": "maharishi",
+     "url": "https://maharishiayurvedaindia.com/products/phal-ghrit-promotes-fertility",
+     "quote": "Take 6 gram twice a day with milk",
+     "population": "unstated",
+     "unit": "g",
+     "adultLow": 6,
+     "adultHigh": 6,
+     "comparable": true,
+     "relation": "entirely lower",
+     "notComparableReason": "Per-dose figure 6 g is below the formulary's 12 g; the label's twice-daily frequency would total 12 g per day, but the formulary figure is per dose, so the per-dose comparison is reported. Label anupana is milk, formulary prints warm water."
+    },
+    {
+     "brand": "patanjali",
+     "url": "https://www.patanjaliayurved.net/product/ayurvedic-medicine/kwath/divya-phala-ghrita/137",
+     "quote": "12 g with warm water",
+     "population": "unstated",
+     "unit": "g",
+     "adultLow": 12,
+     "adultHigh": 12,
+     "comparable": true,
+     "relation": "identical",
+     "notComparableReason": ""
+    }
+   ]
+  },
+  {
+   "formulation": "agnitundi-vati",
+   "afiDoseMeans": "dose taken",
+   "classNote": "Agnitundi Vati is a vati (tablet/pill), so the formulary figure of 125 to 250 mg is the weight of the pill taken and would be directly comparable to a label that states the weight per tablet; the one label here gives only a tablet count.",
+   "labels": [
+    {
+     "brand": "sdl",
+     "url": "https://www.sdlindia.com/products/agnitundi-vati",
+     "comparable": false,
+     "relation": "not comparable",
+     "notComparableReason": "Label states a tablet count (1 to 2 tablets, 2 times a day) without the weight per tablet, so no milligram amount can be set against the formulary's 125 to 250 mg.",
+     "population": "unstated",
+     "quote": "1 to 2 tablets 2 times a day",
+     "unit": "tablets"
+    }
+   ]
+  },
+  {
+   "formulation": "sarivadyasava",
+   "afiDoseMeans": "dose taken",
+   "classNote": "Sarivadyasava is an asava, a self-fermented liquid preparation, so the formulary figure of 12 to 24 ml is the volume swallowed per dose and a label volume in millilitres is directly comparable to it.",
+   "labels": [
+    {
+     "brand": "sdl",
+     "url": "https://www.sdlindia.com/products/sarivadyasava",
+     "comparable": true,
+     "relation": "identical",
+     "adultLow": 12,
+     "adultHigh": 24,
+     "unit": "ml",
+     "population": "unstated",
+     "quote": "12 - 24 ml (2 - 4 teaspoonful) twice a day",
+     "notComparableReason": ""
+    }
+   ]
+  },
+  {
+   "formulation": "vasa-avaleha",
+   "afiDoseMeans": "dose taken",
+   "classNote": "An avaleha is a semi-solid confection taken by weight, so the formulary figure (AFI Part I, 3:26 Vasavaleha, \"6 to 12 g\") is the amount swallowed and a label weight in grams is directly comparable to it.",
+   "labels": [
+    {
+     "brand": "maharishi",
+     "url": "https://maharishiayurvedaindia.com/products/vasavaleha-200-gms",
+     "comparable": true,
+     "relation": "identical",
+     "adultLow": 6,
+     "adultHigh": 12,
+     "unit": "g",
+     "population": "both",
+     "quote": "Adults: 6–12 g once or twice daily",
+     "notComparableReason": ""
+    }
+   ]
+  },
+  {
+   "formulation": "madhusnuhi-rasayana",
+   "afiDoseMeans": "dose taken",
+   "classNote": "Madhusnuhi Rasayana is a rasayana (a semi-solid confection of the avaleha class) swallowed as a weighed amount, so the formulary figure of 12 g is the dose taken and a label figure in grams is directly comparable.",
+   "labels": [
+    {
+     "brand": "sna",
+     "url": "https://www.snaoushadhasala.com/product/madhusnuheerasaayanam",
+     "comparable": true,
+     "relation": "overlapping",
+     "adultLow": 5,
+     "adultHigh": 15,
+     "unit": "g",
+     "population": "unstated",
+     "quote": "5-15 gms followed by milk",
+     "notComparableReason": ""
+    }
+   ]
+  },
+  {
+   "formulation": "guloochyadi-kashayam",
+   "afiDoseMeans": "weight of drug used to prepare",
+   "classNote": "The formulary entry (AFI Part II, 4:6, GUDUCYADI GANA KVATHA CURNA) prints \"48 g\", which for a kvatha curna is the weight of coarse powder used to prepare the decoction, not a volume swallowed, so a label stated in millilitres of ready-made kashayam is not comparable to it.",
+   "labels": [
+    {
+     "brand": "sitaram",
+     "url": "https://sitaramayurveda.com/products/guloochyadi-kashayam-200-ml",
+     "comparable": false,
+     "relation": "not comparable",
+     "notComparableReason": "The label states a volume of prepared kashayam (15-20 ml, diluted with water) while the formulary figure of 48 g is the weight of kvatha curna used to prepare the decoction; the two are in different dimensions (ml of liquid vs g of raw drug), so no numeric relation can be stated.",
+     "population": "adult",
+     "quote": "Adult: 15-20 ml of Guloochyadi Kashayam mixed with 45-60 ml of boiled and cooled water, twice daily",
+     "adultLow": 15,
+     "adultHigh": 20,
+     "unit": "ml"
+    }
+   ]
+  },
+  {
+   "formulation": "kalyanaka-ghrita",
+   "afiDoseMeans": "dose taken",
+   "classNote": "Kalyanaka Ghrita is a medicated ghee for internal use (the formulary prints an anupana of warm milk or warm water), so the AFI figure of 12 g is an amount taken rather than a preparation weight; however the only label states its dose by volume (ml) with no gram equivalent, so the two figures are in different dimensions and cannot be compared without a conversion the page does not state.",
+   "labels": [
+    {
+     "brand": "sitaram",
+     "url": "https://sitaramayurveda.com/products/kalyanaka-ghrita-150-gm",
+     "comparable": false,
+     "relation": "not comparable",
+     "notComparableReason": "Label states the adult dose in millilitres (10-15 ml) while the formulary prints grams (12 g); the page gives no gram equivalent and no conversion is permitted. The page also states a separate child dose (5-7 ml), which was not used.",
+     "population": "both",
+     "quote": "Adult: 10-15 ml, early morning on empty stomach, or at bedtime",
+     "unit": "ml",
+     "adultLow": 10,
+     "adultHigh": 15
+    }
+   ]
+  },
+  {
+   "formulation": "maha-narayana-thailam",
+   "afiDoseMeans": "dose taken",
+   "classNote": "A thailam can be used externally, in which case a printed figure is not a swallowed dose, but here the formulary prints 6 g together with an anupana (milk, warm water), which marks it as an internal dose taken, so a label that states its own gram amount with the same anupana is comparable.",
+   "labels": [
+    {
+     "brand": "patanjali",
+     "url": "https://www.patanjaliayurved.net/product/ayurvedic-medicine/oil/divya-maha-narayan-taila/96",
+     "comparable": true,
+     "relation": "identical",
+     "adultLow": 6,
+     "adultHigh": 6,
+     "unit": "g",
+     "population": "unstated",
+     "quote": "6 g with milk or warm water",
+     "notComparableReason": "The label gives a single figure (6 g with milk or warm water) that matches the formulary's 6 g with milk or warm water. The label additionally notes external use for Nasya, Abhyanga and Anuvasana, for which no amount is stated; the general internal figure was used. No adult/child split is stated."
+    }
+   ]
+  },
+  {
+   "formulation": "pippalyasava",
+   "afiDoseMeans": "dose taken",
+   "classNote": "Pippalyadyasava (AFI Part I, 1:22) is an asava, a fermented liquid preparation, so the formulary figure \"12 to 24 ml\" is the volume swallowed per dose and a label volume in millilitres is directly comparable to it.",
+   "labels": [
+    {
+     "brand": "sitaram",
+     "url": "https://sitaramayurveda.com/products/pippalyasavam",
+     "comparable": true,
+     "relation": "entirely higher",
+     "adultLow": 25,
+     "adultHigh": 30,
+     "unit": "ml",
+     "population": "adult",
+     "quote": "Adult: 25-30 ml Pippalyasavam twice or thrice daily after food.",
+     "notComparableReason": ""
+    }
+   ]
+  },
+  {
+   "formulation": "sudarshan-churna",
+   "afiDoseMeans": "dose taken",
+   "classNote": "Sudarsana Curna is a churna (AFI Part I, 7:35), so the formulary figure \"2 to 4 g\" is the weight of powder taken per dose, and a label figure in grams of churna per dose is directly comparable.",
+   "labels": [
+    {
+     "brand": "sitaram",
+     "url": "https://sitaramayurveda.com/products/sudarshan-churna-50-gm",
+     "comparable": true,
+     "relation": "identical",
+     "adultLow": 2,
+     "adultHigh": 4,
+     "unit": "g",
+     "population": "both",
+     "quote": "A decoction made from 2 to 4 grams of Sudarshana Churna can be taken thrice daily.",
+     "notComparableReason": "Compared as adult dose. The page also states a child dose (500 mg to 2 g twice a day), which was not used. Note the label frames the 2 to 4 g as the churna weight used to make a decoction taken thrice daily, whereas the formulary states the powder dose with warm water; the quantity of churna per dose is the same on both sides."
+    }
+   ]
+  }
+ ],
+ "verify": [
+  {
+   "formulation": "kutajarishta",
+   "refuted": [],
+   "confirmedBrands": [
+    "patanjali",
+    "keralaayurveda",
+    "sdl",
+    "sna",
+    "sitaram"
+   ],
+   "note": "Formulary figure 12 to 24 ml (AFI Part I, 1:11, KUTAJARISTA) is a swallowed liquid volume, so ml-to-ml comparison is legitimate. Checked each claim against labels[].statedDose: patanjali \"Take 12-24ml...\" is verbatim and identical (12-24 = 12-24). keralaayurveda quote is a verbatim substring; 15-25 is the adult figure (5-15 is children), overlaps 12-24. sdl quote verbatim; 10-20 ml (label's own conversion of 2-4 tsf) overlaps 12-24; population unstated is correct. sna quote verbatim; 10-30 overlaps 12-24 (contains it, still \"overlapping\"). sitaram \"Adult: 25-30 mL twice or thrice daily after food.\" verbatim; 25 > 24 so entirely higher; child 10-15 correctly not used. No claim carries a safety or therapeutic implication. Observation only: the file also holds a maharishi label (\"1-2 teaspoon daily after meals\") that the comparing agent did not claim; it is a teaspoon count with no ml conversion on the label, so leaving it out was correct."
+  },
+  {
+   "formulation": "triphala-churna",
+   "refuted": [],
+   "confirmedBrands": [
+    "sdl",
+    "patanjali",
+    "dabur",
+    "sitaram"
+   ],
+   "note": "Checked against the dose-candidates.json object (afiDose \"3 to 6 g\", AFI Part I 7:15). Dimensional basis holds: a churna figure is grams of powder per dose, and all five labels state grams per dose, so comparison is legitimate. sdl: raw text \"(5 to 10 gm)\" read digit by digit, quote verbatim, 5-10 overlaps 3-6, population genuinely unstated. patanjali: two identical label records (two URLs, same statedDose); \"2-5 g\" verbatim, 2-5 overlaps 3-6, population unstated; both claims are the same and both hold, so the brand is listed once. dabur: \"5gm twice a day, post meals\" verbatim; single 5 g per dose (the twice-daily frequency is not a per-dose figure and was correctly not folded in); 5 lies inside 3-6 so \"overlapping\" is arithmetically true, though \"within\" would be the tighter description if the relation vocabulary has that category. sitaram: adult figure correctly selected (child 3-7 g ignored), quote verbatim, 5-10 overlaps 3-6. No claim carries a safety or therapeutic implication."
+  },
+  {
+   "formulation": "ashokarishta",
+   "refuted": [],
+   "confirmedBrands": [
+    "dabur",
+    "keralaayurveda",
+    "patanjali",
+    "sitaram",
+    "sdl"
+   ],
+   "note": "Checked against dose-candidates.json only. Formulary figure for ASOKARISTA (AFI Part I, 1:5) is \"12 to 24 ml\"; an arishta is a fermented liquid, so the figure is a swallowed volume and ml-to-ml comparison is dimensionally legitimate for all five labels. Per-brand: dabur raw text \"1 to 2 tablespoonful (15 to 30ml) with equal quantity of water after meals or as directed by the physician.\" contains the quote verbatim (truncated before \"or as directed\", which is acceptable), 15 to 30 read correctly, 1-2 tablespoon is consistent with 15-30 ml, no adult/child split so \"unstated\" is right, 15-30 vs 12-24 overlaps on 15-24. keralaayurveda quote is verbatim, 15 to 25 ml is explicitly the adult figure (children 5-15 correctly excluded), \"both\" is right, 15-25 vs 12-24 overlaps on 15-24 with 25 exceeding the ceiling, so \"overlapping\" is right. patanjali quote is verbatim, 12-24 equals the formulary figure exactly, no population stated, \"identical\" is right. sitaram quote is verbatim, 25-30 ml is the Adult line (Child 10-15 correctly excluded), \"both\" is right, 25 is greater than 24 so \"entirely higher\" is right; the \"twice or thrice daily\" is frequency and does not change the per-dose volume. sdl raw text is exactly the quoted string, 10 to 20 ml read correctly, 2-4 tsf at 5 ml is consistent with 10-20 ml, no population stated, 10-20 vs 12-24 overlaps on 12-20, \"overlapping\" is right. None of the five claims carries a safety or therapeutic implication; the relation words are purely arithmetic. The sixth label in the file (maharishi, \"1-2 teaspoon daily\", no ml stated) was not among the claims and is correctly left out, since converting teaspoons to ml would be an inference rather than a stated figure."
+  },
+  {
+   "formulation": "abhayarishta",
+   "refuted": [],
+   "confirmedBrands": [
+    "keralaayurveda",
+    "sitaram",
+    "sna",
+    "patanjali"
+   ],
+   "note": "Checked against dose-candidates.json only. afiDose is \"12 to 24 ml\"; Abhayarishta is an arishta so the formulary figure is a swallowed liquid volume and ml-to-ml comparison is dimensionally legitimate. keralaayurveda: quote is verbatim, \"( 15-25ml)\" reads 15 to 25, it is the Adults (18+) line (Kids 5 ml is separate), 15-25 vs 12-24 overlaps, \"both\" correct since adult and kid doses are both stated. sitaram: quote verbatim, \"25-30 ml\" is the Adult line (Child 10-15 ml separate), 25 > 24 so \"entirely higher\" is right, \"both\" correct. sna: quote verbatim, 15-30 ml, no population stated, overlaps 12-24. patanjali: quote verbatim including the stray space before the full stop, 12-24 ml matches the formulary exactly, no population stated, \"identical\" correct. None of the four claims carries a safety or therapeutic implication. The three unclaimed labels (dabur, maharishi, sdl) state doses in tablespoons/teaspoons/tsf with no ml figure and were correctly left out of the ml comparison."
+  },
+  {
+   "formulation": "dashamula",
+   "refuted": [],
+   "confirmedBrands": [
+    "patanjali"
+   ],
+   "note": "Checked against the dashamula object in dose-candidates.json (afiDose \"48 g\", AFI I 4:10 DASAMULA KVATHA CURNA). The two Patanjali claims are duplicates: both Patanjali labels (combo page /7064 and kwath page /35) carry byte-identical statedDose text, so one confirmed brand covers both. (1) Digits: raw text reads \"5-10g kwath powder\" = five to ten grams, as claimed. (2) The quote \"Take 5-10g kwath powder in 400ml water and boil it till 100ml mixture left\" is a verbatim prefix of the raw text. (3) The label states no child dose and no separate indication; \"population unstated\" is the honest reading. (4) Arithmetic: 5 g and 10 g are both below 48 g, so \"entirely lower\" holds; it would still hold even if read per day (label says repeat morning and evening, i.e. 10-20 g of powder per day, still below 48 g). The comparison should stay per-preparation, matching how the formulary figure is stated. (5) Dimension: the label figure is a weight of kwath powder boiled down to make the decoction, the same dimension the comparing agent assigned to the 48 g formulary figure, so the comparison is legitimate. The other labels (SNA, Sitaram, Maharishi, Kerala Ayurveda: ready-made kashayam ml, tablets, rasayanam g, cough syrup, tailam drops) were correctly left out of the claims as different classes or dimensions. (6) Neither the claim nor the quoted text carries a safety or therapeutic implication. One caution for the published wording: do not render \"entirely lower\" in a way that implies Patanjali's product is under-dosed; the formulary 48 g is a classical single-preparation quantity and modern labels routinely state smaller per-preparation weights."
+  },
+  {
+   "formulation": "saraswatarishta",
+   "refuted": [
+    {
+     "brand": "maharishi",
+     "problem": "The file holds two Maharishi Ayurveda pages with conflicting doses: the 50 ml page says 'Take 3 to 12 ml Twice a day', the other says '1-2 teaspoon daily after meals' (roughly 5 to 10 ml once daily). The claim reports only the first as the brand's dose and ignores the second. Separately, the relation 'overlapping' rests on a single shared endpoint: [3, 12] and the formulary's [12, 24] meet only at 12 ml, so the Maharishi range sits at or below the formulary minimum rather than genuinely overlapping it. Population is unstated on both pages; note that 3 to 12 ml is exactly the range Kerala Ayurveda labels as the children's dose, so treating it as an adult figure is unsupported by the raw text.",
+     "correction": "Either publish both Maharishi figures (3 to 12 ml twice a day on one page; 1 to 2 teaspoon daily on another) with the relation described as 'at or below the formulary minimum, touching 12 ml', or drop the brand from the comparison until a single authoritative label is settled."
+    }
+   ],
+   "confirmedBrands": [
+    "sna",
+    "keralaayurveda",
+    "sdl",
+    "patanjali",
+    "sitaram"
+   ],
+   "note": "Formulary figure (AFI Part I, 1:36, 12 to 24 ml) is a swallowed liquid volume for an arishta, so ml-to-ml comparison is dimensionally legitimate for every label. Verified against /private/tmp/claude-501/-Users-jairajsharma/589b5c5f-a178-4158-af7d-0eea2e12a9be/scratchpad/dose-candidates.json. sna: '5-10 ml, twice daily' verbatim, 10 < 12 so entirely lower, population unstated. keralaayurveda: 'Adults: 12 to 24 ml.' verbatim, identical, children stated separately so 'both' is right. sdl: '2 to 4 tsf (10 to 20 ml) 2 times a day' verbatim, overlap on 12 to 20 ml, population unstated. patanjali: '12-24 ml or u se as directed by the physician.' verbatim including the 'u se' typo, identical, population unstated. sitaram: 'Adult: 25-30 ml Saraswatharishtam twice or thrice daily after food.' verbatim, 25 > 24 so entirely higher, child dose stated separately so 'both' is right. No claim carries a safety or therapeutic implication."
+  },
+  {
+   "formulation": "arjunarishta",
+   "refuted": [],
+   "confirmedBrands": [
+    "sitaram",
+    "sdl",
+    "patanjali"
+   ],
+   "note": "Checked against dose-candidates.json only (afiDose \"12 to 24 ml\", AFI Part I 1:21 Parthadyarista). Dimensional basis holds: an arishta dose in the formulary is a swallowed volume, so label ml figures are directly comparable. sitaram: raw text reads \"Adult: 25-30 ml Arjunarishta syrup twice or thrice daily after food. Child: 10-15 ml ...\" so the quote is verbatim, 25-30 is the explicitly adult figure (child figure not used), population \"both\" is correct, and 25 > 24 makes \"entirely higher\" arithmetically right. sdl: raw text is exactly \"2 to 4 tsf (10 to 20 ml) 2 times a day with equal quantity of lukewarm water.\" so the quoted fragment is verbatim, 10-20 vs 12-24 overlaps, no adult/child split so \"unstated\" is correct. patanjali: raw text is exactly \"12-24 ml or as directed by the physician.\" so quote verbatim, 12-24 equals 12-24 (\"identical\"), population unstated. None of the three claims carries a safety or therapeutic implication; they are purely numeric comparisons. The fourth label in the file (maharishi, \"1-2 teaspoon daily\") was correctly not claimed since it gives no ml figure."
+  },
+  {
+   "formulation": "hingvashtak-churna",
+   "refuted": [],
+   "confirmedBrands": [
+    "sdl",
+    "patanjali",
+    "maharishi"
+   ],
+   "note": "Formulary figure in file: afiDose \"1 to 2 g\" (AFI Part I, 7:37, Hingvastaka Curna). It is a churna, so the figure is a per-dose weight of powder and gram-stated labels are dimensionally comparable; the comparing agent's \"dose taken\" reading is accepted. sdl: raw text is \"1 tsf. to 2 tsf. (5 to 10 gm.) 2 times a day with cow ghee along with first morsel of food or with lukewarm water.\" Digits re-read: 5 and 10 (not 1/2 or 0.5), quote is a verbatim substring, no child or alternate-indication dose present, 5 to 10 g lies entirely above 1 to 2 g, grams vs grams, no safety wording. Confirmed. patanjali: raw text is \"3 g twice a day with lukewarm water or as directed by the physician.\" Quote verbatim, single value 3 g (claim renders it as the degenerate range \"3 to 3 g\", numerically correct), adult-unstated with no child dose, 3 > 2 so entirely higher, grams vs grams, no safety wording. Confirmed. maharishi: raw text is \"1 to 2 grams with lukewarm water after meals.\" Quote verbatim, 1 to 2 g equals the formulary range exactly so \"identical\" is right, grams vs grams, no safety wording. Confirmed. Non-blocking observation only: the AFI anupana is ghee while Patanjali and Maharishi state lukewarm water; this concerns the vehicle, not the dose, and does not affect any claim."
+  },
+  {
+   "formulation": "balarishta",
+   "refuted": [],
+   "confirmedBrands": [
+    "sitaram",
+    "sna",
+    "keralaayurveda",
+    "sdl"
+   ],
+   "note": "Checked against /private/tmp/claude-501/-Users-jairajsharma/589b5c5f-a178-4158-af7d-0eea2e12a9be/scratchpad/dose-candidates.json, formulation \"balarishta\", afiDose \"12 to 24 ml\" (Part I, 1:24, BALARISTA). Dimensional check: arishta is a fermented liquid and every label gives a volume in ml, so label ml vs formulary ml is a like-for-like \"dose taken\" comparison. Per brand: sitaram raw text \"Adult: 25-30 ml Balarishtam twice or thrice daily after food.\" (child 10-15 ml also stated, so population \"both\" is right); 25 > 24 so \"entirely higher\" holds. sna raw text \"15-30 ml, twice or thrice daily or as directed by the physician.\" with no adult/child split, so \"unstated\" is right; 15-30 overlaps 12-24 on 15-24. keralaayurveda raw text \"For Adults: 15 ml to 25 ml twice daily after meals with equal water or as directed by the physician.\" (children 5-15 ml also stated, so \"both\"); 15-25 overlaps 12-24. sdl raw text \"3 to 6 tsf (15 to 30 ml) twice a day with lukewarm water or as directed by the physician\", no population split; 15-30 overlaps 12-24. All quotes are verbatim substrings of the stored statedDose. None of the claims carries a safety or therapeutic implication. Note the sitaram statedDose begins with the stray fragment \"and Instructions \" before \"Adult:\", a scrape artefact, not a dose issue."
+  },
+  {
+   "formulation": "talisadi-churna",
+   "refuted": [],
+   "confirmedBrands": [
+    "sdl",
+    "maharishi"
+   ],
+   "note": "Formulary figure (AFI Part I, 7:13, Talisadya Curna) is \"3 g\" of churna, i.e. a weight of powder per dose, so gram-for-gram comparison with label weights is dimensionally legitimate. sdl: raw text \"1 tsf. to 2 tsf. (5 to 10 gm) twice or thrice a day alongwith honey, Ardrak Swarasa or lukewarm water.\" contains the quoted fragment verbatim; digits 5 and 10 read correctly; no child or alternate-indication dose on the label, so this is the only (adult) dose; 5 g > 3 g so the whole 5-10 g range is above the formulary figure (\"entirely higher\" is correct); no safety or therapeutic implication. maharishi: raw text \"Take 3 grams twice a day with honey before or after meals or as directed by the Vaidya.\" contains the quoted fragment verbatim; 3 g = 3 g so \"identical\" is correct per dose; single adult dose, no child dose; no safety or therapeutic implication. Both claims compare per-dose weight only; the labels' stated frequencies (twice/thrice daily) are not part of the AFI figure and were not claimed as such."
+  },
+  {
+   "formulation": "hinguvachadi-churna",
+   "refuted": [],
+   "confirmedBrands": [
+    "sna",
+    "keralaayurveda",
+    "sitaram"
+   ],
+   "note": "Checked against dose-candidates.json only. afiDose is \"2 to 4 g\" (AFI Part I, 7:39, Hinguvacadi Curna); the \"dose taken\" reading is sound for a churna, so gram-to-gram comparison is dimensionally legitimate. sna: raw text \"5-10 gms Or As directed by the physician.\" matches the quote exactly; digits 5 and 10; no population stated; 5 > 4 so entirely higher. keralaayurveda: quote is a verbatim leading substring of the raw text (en dash \"1–3\" preserved); digits 1 and 3; no population stated; 1-3 overlaps 2-4 on 2-3 so overlapping. sitaram: quote is verbatim in the raw text; label gives both Adult (5-8 gms) and Child (3-7 gms), claim correctly uses the adult figure and population \"both\"; 5 > 4 so entirely higher. All three labels give per-dose grams with \"once or twice daily\" or similar, so they are compared per-dose like the formulary figure. No claim carries a safety or therapeutic implication. Minor caution for the publisher: the sitaram raw text begins with a scraping fragment \"and Instructions\", which the claim correctly omits."
+  },
+  {
+   "formulation": "avipattikar-churna",
+   "refuted": [],
+   "confirmedBrands": [
+    "sdl",
+    "patanjali",
+    "maharishi"
+   ],
+   "note": "All three quotes are character-for-character present in labels[].statedDose in dose-candidates.json; all three numbers match; relations are arithmetically correct against the formulary \"3 to 6 g\" (sdl 5-10 g overlaps at 5-6 g; patanjali and maharishi 3-6 g identical); grams-to-grams comparison is dimensionally legitimate for a churna; no label text carries a safety or therapeutic implication. One wording caution for publication, not a refutation: Maharishi's label says \"3-6 grams daily\" while SDL's says \"twice or thrice a day\", so the frequencies differ even where the per-administration amount matches the formulary. The comparison is correct as a per-dose comparison; do not let the published text imply the daily totals are identical."
+  },
+  {
+   "formulation": "brahma-rasayana",
+   "refuted": [],
+   "confirmedBrands": [
+    "sitaram",
+    "sna"
+   ],
+   "note": "Formulary figure 12 g for an avaleha is a weight of preparation taken, so gram labels are directly comparable. sitaram: quote verbatim, digits 10-15, explicitly the Adults line (child figures 5-7 g and 8-10 g correctly excluded), 12 g falls inside the range, population \"both\" matches the label's adult+children sections. sna: quote is the entire raw text, digits 10-20, no population stated so \"unstated\" is correct, 12 g falls inside the range. Neither claim carries a safety or therapeutic implication."
+  },
+  {
+   "formulation": "arogyavardhini-vati",
+   "refuted": [],
+   "confirmedBrands": [
+    "patanjali"
+   ],
+   "note": "Checked against /private/tmp/claude-501/-Users-jairajsharma/589b5c5f-a178-4158-af7d-0eea2e12a9be/scratchpad/dose-candidates.json. afiDose is \"250 to 500 mg\". Patanjali raw statedDose: \"250 to 500 mg with Ardraka svarasa, Honey ,Nimba, Svarasa, water or milk twice daily or as directed by the physician.\" (1) digits 250 and 500 mg present exactly; (2) the quoted fragment is a verbatim substring, truncated only before \"or as directed by the physician\", which does not change the dose; (3) no child or alternate-indication dose on the label, population correctly reported as unstated; (4) 250-500 mg vs 250-500 mg is identical; (5) both are weights of tablet mass, dimensionally legitimate; (6) no safety or therapeutic implication. Caveat for the editor, not a refutation: the Patanjali text reproduces the AFI entry nearly word for word (same dose, same anupana list), so \"identical\" may reflect the company copying the formulary rather than an independently stated product dose. Maharishi (1-2 tablets) and Baidyanath (2 tablets) were not claimed and are correctly non-comparable since no per-tablet weight is given."
+  },
+  {
+   "formulation": "sitopaladi-churna",
+   "confirmedBrands": [
+    "sdl",
+    "patanjali"
+   ],
+   "refuted": [
+    {
+     "brand": "maharishi",
+     "problem": "The label states a DAILY amount (\"Take 3 to 6 grams daily\"), while the formulary figure (AFI Part I 7:34, \"1 to 3 g\") is a per-dose weight of powder. The relation \"overlapping\" is only reached by treating the daily total as a single-administration dose; if the 3 to 6 g is divided across the day (as churna doses normally are), the per-dose amount falls within 1 to 3 g, which would change the relation. Additionally, 3-6 g and 1-3 g share only the single endpoint 3 g, which is boundary contact rather than an overlapping range. Digits (3, 6) and the quote are correctly transcribed from the raw text; the fault is the frequency basis and the relation label, not the number.",
+     "correction": "Report the Maharishi figure as \"3 to 6 g daily (frequency unstated)\" and do not assign a relation against the per-dose formulary figure; if a relation must be given, state that the daily total of 3 to 6 g equals a per-dose range of 1.5 to 3 g if taken twice daily (within the formulary range) or 3 to 6 g if taken once daily (touching the upper bound at 3 g), and that the label does not say which."
+    }
+   ],
+   "note": "Formulary figure is a per-dose powder weight, so gram-for-gram comparison is dimensionally legitimate for per-dose label figures. sdl: \"1 tsf. to 2 tsf. (5 to 10 gm) twice or thrice a day\" is a per-administration dose; 5 > 3 so \"entirely higher\" is correct; quote verbatim; no child dose or safety implication. patanjali: \"1-3 g with honey and ghee\" verbatim; identical to 1 to 3 g; no child dose or safety implication. maharishi refuted on frequency basis (daily vs per-dose) and the single-point \"overlap\" at 3 g. None of the three claims carried therapeutic or safety language. Checked only against /private/tmp/claude-501/-Users-jairajsharma/589b5c5f-a178-4158-af7d-0eea2e12a9be/scratchpad/dose-candidates.json."
+  },
+  {
+   "formulation": "kshirabala-thailam",
+   "refuted": [],
+   "confirmedBrands": [
+    "patanjali"
+   ],
+   "note": "Patanjali passes all six checks: raw statedDose begins verbatim with \"12 g with milk or warm water\"; digits are 12 g (single figure, so 12 to 12 g is correct); no age/population stated; 12 g vs AFI 12 g is identical; both are internal mass doses with an anupana, so the comparison is dimensionally legitimate under the \"dose taken\" reading; no safety or therapeutic implication. Two observations for the publisher, not refutations: (a) the Patanjali wording closely mirrors the AFI text itself, so \"identical\" may reflect the label copying the formulary rather than an independent dosing decision; (b) the same label also lists abhyanga and nasya uses with no quantity, which the quote correctly excludes. Maharishi (\"Use 2-3 drops\") was not claimed and correctly so, since drops for topical use are not comparable to a 12 g internal dose."
+  },
+  {
+   "formulation": "trikatu-churna",
+   "refuted": [],
+   "confirmedBrands": [
+    "maharishi",
+    "patanjali"
+   ],
+   "note": "AFI Part I 7:14 Trikatu Curna, afiDose \"3 g\" (a churna powder weight, so gram-to-gram comparison is dimensionally legitimate). Maharishi raw text: \"Take 3 to 6 gram twice a day with honey/lukewarm water or as directed by the Vaidya.\" Quote is a verbatim substring; 3 to 6 g read correctly; no child or alternate-indication dose present (population unstated is accurate); 3 g formulary figure falls at the lower bound of 3-6 g, so \"overlapping\" is arithmetically right; no safety or therapeutic language in the claim. Patanjali raw text: \"1/2-1 g with honey or lukewarm water twice daily or as directed by physician.\" Quote verbatim; \"1/2-1 g\" correctly read as 0.5 to 1 g; population unstated is accurate; 1 g upper bound is below 3 g so \"entirely lower\" is right; no safety or therapeutic implication. Both claims survive all six checks."
+  },
+  {
+   "formulation": "phala-ghrita",
+   "refuted": [],
+   "confirmedBrands": [
+    "maharishi",
+    "patanjali"
+   ],
+   "note": "Checked against /private/tmp/claude-501/-Users-jairajsharma/589b5c5f-a178-4158-af7d-0eea2e12a9be/scratchpad/dose-candidates.json (afiDose \"12 g\", anupana warm water). Maharishi raw text: \"Take 6 gram twice a day with milk or as directed by Vaidya.\" Quote is a verbatim prefix; digits 6 and 6 match; no child or alternate-indication dose present; 6 g < 12 g so \"entirely lower\" is correct per dose; grams vs grams, and a medicated ghee taken internally makes the \"dose taken\" reading sound. Patanjali raw text: \"12 g with warm water or as directed by the Physician.\" Quote verbatim; 12 = 12 so \"identical\" is correct; same dimension. Neither claim carries a safety or therapeutic implication. Two things worth being aware of when publishing, not grounds for refutation: (1) Maharishi says \"twice a day\", so its 6 g is a per-dose figure and the daily total (12 g) coincides with the formulary's single-dose figure; the formulary prints no frequency, so the per-dose comparison is the only legitimate one and the claim is right, but phrasing should say \"per dose\". (2) Maharishi's anupana is milk, not warm water; this does not affect the gram comparison."
+  },
+  {
+   "formulation": "sarivadyasava",
+   "refuted": [],
+   "confirmedBrands": [
+    "sdl"
+   ],
+   "note": "Checked against dose-candidates.json only. afiDose = \"12 to 24 ml\". sdl statedDose raw text = \"12 - 24 ml (2 - 4 teaspoonful) twice a day or as directed by the Physician.\" (1) Digits re-read: one-two dash two-four ml, i.e. 12 to 24 ml; matches the claim. (2) The quoted string \"12 - 24 ml (2 - 4 teaspoonful) twice a day\" is a verbatim substring of the raw text (it omits only the trailing \"or as directed by the Physician.\"). (3) No child or alternate-indication dose appears on the label; population is correctly recorded as unstated. (4) 12 to 24 ml vs 12 to 24 ml is exactly identical on both bounds; the parenthetical 2 to 4 teaspoonfuls is internally consistent at ~6 ml per teaspoon. (5) Sarivadyasava is an asava (fermented liquid); the AFI figure is a swallowed volume in ml, so a label volume in ml is directly comparable; the comparing agent's \"dose taken\" reading is sound. (6) The claim carries no safety or therapeutic implication. One caution for the published copy: the label's \"twice a day\" is a frequency the AFI figure does not state, so the \"identical\" relation should be presented as per-dose quantity only, not as identical frequency."
+  },
+  {
+   "formulation": "vasa-avaleha",
+   "refuted": [],
+   "confirmedBrands": [
+    "maharishi"
+   ],
+   "note": "Checked against dose-candidates.json only. afiDose = \"6 to 12 g\" (AFI Part I, 3:26 VASAVALEHA). Maharishi raw statedDose: \"Children: 1–5 g, Adults: 6–12 g once or twice daily, or as advised by the Vaidya. Adjuvants: Honey, warm water, or milk.\" (1) Digits 6 and 12 with unit g read exactly as claimed. (2) The quote \"Adults: 6–12 g once or twice daily\" is a verbatim substring, en-dash included. (3) The figure is explicitly labelled Adults; the child figure (1–5 g) is separate and was not used. (4) 6–12 g against 6 to 12 g is identical. (5) Avaleha is a semi-solid taken by weight, so gram-to-gram is dimensionally legitimate; the \"once or twice daily\" frequency is not part of the per-dose comparison and does not affect it. (6) No safety or therapeutic implication in the claim. \"Population: both\" is consistent with the label giving both child and adult figures."
+  },
+  {
+   "formulation": "madhusnuhi-rasayana",
+   "refuted": [],
+   "confirmedBrands": [
+    "sna"
+   ],
+   "note": "Checked against /private/tmp/claude-501/-Users-jairajsharma/589b5c5f-a178-4158-af7d-0eea2e12a9be/scratchpad/dose-candidates.json only (no web). afiDose = \"12 g\". SNA statedDose raw text = \"5-15 gms followed by milk Or As directed by the physician.\" (1) Digits re-read: \"5-15 gms\" is five to fifteen grams; claim \"5 to 15 g\" matches. (2) Quote \"5-15 gms followed by milk\" is a verbatim substring of the raw text (the trailing \"Or As directed by the physician.\" is omitted from the quote, which is acceptable). (3) Raw text states no population, no child dose, no alternate indication; claim population \"unstated\" is honest. (4) 12 g falls inside 5-15 g, so \"overlapping\" is arithmetically correct (the label range in fact contains the formulary figure). (5) Both figures are a weight in grams of the semi-solid rasayana swallowed, so the comparison is dimensionally legitimate; the comparing agent's \"dose taken\" reading is consistent with the file. (6) No safety or therapeutic implication in the claim; \"followed by milk\" is an anupana note, not a claim."
+  },
+  {
+   "formulation": "maha-narayana-thailam",
+   "refuted": [],
+   "confirmedBrands": [
+    "patanjali"
+   ],
+   "note": "Checked against dose-candidates.json only. afiDose = \"6 g\", afiAnupana = \"milk, warm water\". Patanjali statedDose raw text = \"6 g with milk or warm water, Used externally for Nasya,Abhyanga and Anuvasana also or as directed by the physician.\" (1) Digit check: the only figure is \"6 g\", a single point value, so \"6 to 6 g\" is a faithful reading. (2) The quoted string \"6 g with milk or warm water\" is verbatim in the raw text. (3) No population is named on the label and no child or alternate-indication amount appears, so \"unstated\" is correct and the 6 g is not a child figure. (4) 6 g vs 6 g = identical. (5) Dimensionally legitimate: both figures are weights, and the label pairs its gram amount with the same anupana the formulary prints, marking it as the internal dose taken; the label's trailing clause about external use (Nasya, Abhyanga, Anuvasana) is a separate route and carries no competing number, so it does not contaminate the comparison. (6) The claim states only a numeric relation and carries no safety or therapeutic implication. Minor caveat for the publisher, not a refutation: the label mentions external routes, so any published line should quote only the internal-dose clause, as the claim already does."
+  },
+  {
+   "formulation": "pippalyasava",
+   "refuted": [],
+   "confirmedBrands": [
+    "sitaram"
+   ],
+   "note": "Sitaram claim verified against dose-candidates.json: raw statedDose contains verbatim \"Adult: 25-30 ml Pippalyasavam twice or thrice daily after food.\"; adult figure (not the 10-15 ml child figure); 25-30 ml vs AFI 12 to 24 ml gives 25 > 24 so \"entirely higher\" is arithmetically right; both figures are swallowed volumes (asava), so the comparison is dimensionally legitimate; no safety or therapeutic implication. One caveat outside the six checks: the AFI heading in the file is PIPPALYADYASAVA (Part I, 1:22) while the Sitaram product is named Pippalyasavam; the file treats them as the same formulation and I did not verify that identity mapping (web was out of scope). If the publish copy names the AFI entry, keep it as \"Pippalyadyasava\" so the reader can see the name difference."
+  },
+  {
+   "formulation": "sudarshan-churna",
+   "refuted": [],
+   "confirmedBrands": [
+    "sitaram"
+   ],
+   "note": "Checked against dose-candidates.json only. afiDose = \"2 to 4 g\" (Sudarsana Curna, AFI Part I, 7:35). Sitaram raw statedDose contains, verbatim, \"A decoction made from 2 to 4 grams of Sudarshana Churna can be taken thrice daily.\" Digits re-read: \"2 to 4 grams\" = two to four grams, matching the formulary range exactly, so relation \"identical\" is arithmetically right. This is the adult figure; the raw text gives a separate children's figure (\"500 mg to 2g ... twice a day\") which the claim does not use, so population \"both\" is accurate (both adult and child doses present on the page). Dimensionally legitimate: the formulary figure is weight of churna per dose and the label figure is weight of churna (2 to 4 g) per dose; both are drug weight, not a swallowed volume. One nuance for the editor, not a refutation: Sitaram's page directs the churna to be made into a decoction rather than taken as powder with warm water (AFI anupana), so the administration form differs while the drug weight per dose is the same. The claim quotes a dosing instruction only and carries no safety or therapeutic implication."
+  }
+ ]
+}
