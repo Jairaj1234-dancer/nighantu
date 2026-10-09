@@ -62,8 +62,25 @@ const concepts = JSON.parse(fs.readFileSync(path.join('src', 'data', 'concepts.j
 const published = new Set((concepts.records ?? []).map((r) => r.slug));
 const titleOf = Object.fromEntries((concepts.records ?? []).map((r) => [r.slug, r.title]));
 
-/** The corpus-wide shape of the problem, counted over the published records only. */
+/**
+ * The corpus-wide shape of the problem, counted over the published records only.
+ *
+ * COUNTED FROM THE LEXICON WHEN IT IS PRESENT, READ BACK FROM THE COMMITTED DATASET WHEN IT IS NOT.
+ *
+ * The concept records live in a separate local-only repository, so CI has no copy of them. The
+ * first version of this just skipped the count when that directory was absent, which left the four
+ * totals at zero, rendered a table of zeros, and failed `--check` in CI against a page built from
+ * real numbers. A gate that can only pass on one laptop is not a gate.
+ *
+ * So generation reads the source and checking reads the artefact. The counts are written into
+ * src/data/verse-numbering.json, which is committed, and recovered from there when the source is
+ * unavailable. If neither is available the script refuses rather than reporting zeros, because
+ * zero here is a claim about the corpus and absence is not.
+ */
 const LEXICON = path.join(process.env.HOME ?? '', 'Projects', 'ayurveda-lexicon', 'data', 'concepts');
+const priorSummary = fs.existsSync(OUT)
+  ? (JSON.parse(fs.readFileSync(OUT, 'utf8')).summary ?? null)
+  : null;
 let citations = 0;
 let withStandardMarker = 0;
 let translatorOnly = 0;
@@ -83,6 +100,19 @@ if (fs.existsSync(LEXICON)) {
       else neitherMarker += 1;
     }
   }
+}
+
+if (!citations) {
+  if (!priorSummary?.classicalCitations) {
+    console.error(`No concept records at ${LEXICON} and no counts in ${OUT} to fall back on.`);
+    console.error('Run this once where the lexicon is available, and commit the result.');
+    process.exit(2);
+  }
+  citations = priorSummary.classicalCitations;
+  withStandardMarker = priorSummary.citationsMentioningAStandardEquivalent;
+  translatorOnly = priorSummary.citationsInTranslatorNumberingOnly;
+  neitherMarker = priorSummary.citationsWithNeitherMarker;
+  console.log(`concept records unavailable; corpus counts read back from ${OUT}`);
 }
 
 /**
