@@ -528,12 +528,39 @@ export const extractProduct = (html, { minReadableChars = 600 } = {}) => {
     basis: basis ? `${basis.amount} ${basis.unit}` : null,
     packSizesIgnored: qtyAll.length - qty.length,
     dose: (() => {
-      if (fields.dose) return { state: 'found', via: `json field "${fields.dose.field}"`, label: fields.dose.field, text: fields.dose.text };
+      /**
+       * A DOSE MUST LOOK LIKE AN INSTRUCTION, on both paths.
+       *
+       * The heading path below already drops a block that is nothing but shop furniture. The JSON
+       * field path above it had no such check and trusted any value of a field named `dose`,
+       * `dosage`, `howToUse` or `directions`, so a field whose value was "." came back as a stated
+       * dose. 533 of 3,792 pages, 14%, were in that state: ".", "Coming Soon", "STEP 1",
+       * "Pack sizes", "(4.9)", "Drip it". It was not evenly spread either, 239 on one company's
+       * pages, 129 on another's, so it moved per-company figures and not just a total.
+       *
+       * The bar is deliberately low, because the question this answers is only whether the page
+       * says anything about how much to take, not whether the instruction is good: real text, and
+       * either a figure or an instruction verb in it. "Use 2-3 drops or as advised by the Vaidya"
+       * passes. "Drip it" does not, and should not.
+       */
+      const plausibleDose = (t) => {
+        const s = String(t ?? '').replace(/\s+/g, ' ').trim();
+        if (s.length < 12) return false;
+        if (/^[\s.,;:!?()\[\]{}<>\/\\|_-]*$/.test(s)) return false;
+        if (/^(coming soon|n\/?a|tbd|step\s*\d|pack sizes?|select|loading)\b/i.test(s)) return false;
+        return /\d/.test(s)
+          || /\b(take|use|apply|consume|administer|massage|instil|instill|as directed|as advised|consult|sip|chew|dissolve|mix)\b/i.test(s);
+      };
+
+      if (fields.dose && plausibleDose(fields.dose.text)) {
+        return { state: 'found', via: `json field "${fields.dose.field}"`, label: fields.dose.field, text: fields.dose.text };
+      }
       for (const re of DOSE_LABELS) {
         const d = blockAfter(haystack, re, { maxLines: 8, maxChars: 600 });
         // A block with no instruction left in it once the shop furniture is gone was never a
         // dose. The label matched something that happened to sit above a price.
-        if (d && d.text.split('\n').some((l) => l.trim() && !COMMERCE_LINE.test(l))) {
+        if (d && d.text.split('\n').some((l) => l.trim() && !COMMERCE_LINE.test(l))
+          && plausibleDose(d.text)) {
           return { state: 'found', via: 'heading', label: d.label, text: d.text };
         }
       }
