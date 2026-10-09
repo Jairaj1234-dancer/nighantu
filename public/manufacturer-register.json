@@ -1,277 +1,35 @@
 {
   "name": "Indian Ayurvedic manufacturers and what their websites permit",
-  "description": "164 Ayurvedic manufacturers in India, each with the website it publishes, the state it operates from, and what its robots.txt permits, measured one host at a time.",
+  "description": "197 Ayurvedic manufacturers in India, each with the website it publishes, the state it operates from, and what its robots.txt permits, measured one host at a time.",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "agent": "NighantuBot/1.0 (+https://nighantu.ageayurveda.com/about/)",
   "measuredOn": "2026-10-09",
   "method": "Candidates were found by research agents working from association rosters, government directories and trade listings, and are not trusted: that work also proposed a gambling site, a parked domain and two wrong legal entities. Every permission field here was measured by one robots.txt fetch per host, 1.2 seconds apart, identified as NighantuBot. No product page was fetched. A host whose robots.txt could not be read is recorded as closed.",
-  "limits": "This records what each site permits, not what it publishes or the quality of anything it makes. A company absent from this register is not absent from the industry. 57 further candidates are held back because no verification pass reached them.",
+  "limits": "This records what each site permits, not what it publishes or the quality of anything it makes. A company absent from this register is not absent from the industry. 0 further candidates are held back because no verification pass reached them.",
   "summary": {
-    "companies": 164,
-    "states": 23,
+    "companies": 197,
+    "states": 24,
     "robotsVerdicts": {
-      "rules": 130,
-      "open": 25,
-      "unknown": 9
+      "rules": 18,
+      "open": 13,
+      "unknown": 1
     },
-    "catalogueReadable": 154,
-    "nameAnyAiCrawler": 4,
-    "blockAtLeastOneAiCrawler": 3,
-    "sellClassicalPreparations": 99,
-    "unverifiedCandidatesHeldBack": 57
+    "catalogueReadable": 187,
+    "nameAnyAiCrawler": 1,
+    "blockAtLeastOneAiCrawler": 0,
+    "sellClassicalPreparations": 119,
+    "unverifiedCandidatesHeldBack": 0
   },
   "companies": [
     {
-      "name": "Uma Ayurvedics Pvt. Ltd.",
-      "host": "umaayurvedics.com",
-      "state": "Uttar Pradesh",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "V.R. Atharvaveda Pharmaceuticals Pvt. Ltd.",
-      "host": "atharvaveda.org.in",
-      "state": "Uttar Pradesh",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Bhavya Pharmacy",
-      "host": "bhavyapharmacy.co.in",
-      "state": "Uttar Pradesh",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Atharv Pharmaceuticals",
-      "host": "atharvayurvedicpharma.com",
-      "state": "Uttar Pradesh",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Rasraj Ayurvedic Pharmacy",
-      "host": "rasrajayurvedipharmacy.com",
-      "state": "Rajasthan",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Ayurveda Rasashala",
-      "host": "ayurvedarasashala.com",
-      "state": "Maharashtra",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Ayurved Rasayani",
-      "host": "ayurvedrasayani.com",
-      "state": "Maharashtra",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Shri Ganga Pharmacy",
-      "host": "shrigangapharmacy.com",
-      "state": "Uttarakhand",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Bhartiya Ayurvedic Pharmacy",
-      "host": "bhartiyaayurvedicpharmacy.in",
-      "state": "Haryana",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Ayukalp UAP Pharma Pvt. Ltd.",
-      "host": "ayukalpuappharma.com",
-      "state": "Gujarat",
+      "name": "Abirami Labs",
+      "host": "abiramilabs.com",
+      "state": "Puducherry",
       "sellsClassical": false,
       "robots": {
         "status": 200,
         "verdict": "rules",
         "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Ayursun Pharma",
-      "host": "ayursun.in",
-      "state": "Gujarat",
-      "sellsClassical": false,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 6
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Wilson Drugs & Pharmaceuticals Private Limited",
-      "host": "wilsondrugs.com",
-      "state": "Himachal Pradesh",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
         "groups": 2
       },
       "catalogueReadable": true,
@@ -286,478 +44,8 @@
       }
     },
     {
-      "name": "Shree Shanker Ayurvedic Pharmacy",
-      "host": "shreeshankerayurvedicpharmacy.com",
-      "state": "Gujarat",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 2
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "BAPS Swaminarayan Herbal Care (BAPS Amrut)",
-      "host": "herbal.baps.org",
-      "state": "Gujarat",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 2
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Orient Ayurvedic Pharmacy",
-      "host": "orientayurvedicpharmecy.in",
-      "state": "Gujarat",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Vyas Pharmaceuticals",
-      "host": "vyaspharma.com",
-      "state": "Madhya Pradesh",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Sharangdhar Pharmaceuticals Pvt. Ltd.",
-      "host": "sharangdhar.in",
-      "state": "Maharashtra",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Multani Pharmaceuticals Limited",
-      "host": "multani.org",
-      "state": "Delhi",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 2
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Dindayal Aushadhi (Dindayal Industries Ltd)",
-      "host": "dindayalaushadhi.com",
-      "state": "Madhya Pradesh",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Satyam Health Care",
-      "host": "satyamhealthcare.co.in",
-      "state": "Gujarat",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "North India Life Sciences Pvt. Ltd.",
-      "host": "northindiagroup.com",
-      "state": "Haryana",
-      "sellsClassical": false,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Sri Dharmasthala Manjunatheshwara (SDM) Ayurveda Pharmacy",
-      "host": "sdmayupharmacy.com",
-      "state": "Karnataka",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 2
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Dhanwanthari Vaidyasala",
-      "host": "dhanwanthari.org",
-      "state": "Kerala",
-      "sellsClassical": true,
-      "robots": {
-        "status": 404,
-        "verdict": "open",
-        "note": "no robots.txt (404)",
-        "groups": 0
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Arya Vaidya Kalpashala Pvt Ltd (AVK)",
-      "host": "aryavaidyakalpashala.com",
-      "state": "Maharashtra",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Binexo Pharmaceuticals",
-      "host": "binexopharmaceuticals.com",
-      "state": "Haryana",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Shesha Ayurveda",
-      "host": "sheshaayurveda.com",
-      "state": "Kerala",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 17
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [
-        "google-extended",
-        "gptbot",
-        "chatgpt-user",
-        "claudebot",
-        "anthropic-ai",
-        "perplexitybot",
-        "meta-externalagent"
-      ],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Haritha Pharmaceuticals",
-      "host": "harithagroup.com",
-      "state": "Kerala",
-      "sellsClassical": false,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Nupal Remedies (New Udaya Pharmacy Ayurvedic Laboratories)",
-      "host": "nupalremedies.com",
-      "state": "Kerala",
-      "sellsClassical": false,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Basic Ayurveda Limited",
-      "host": "basicayurvedalimited.com",
-      "state": "Uttar Pradesh",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 2
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Tansukh Herbals Private Limited",
-      "host": "tansukhherbals.com",
-      "state": "Uttar Pradesh",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 2
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Uma Ayurvedics Private Limited",
-      "host": "umaayurvedics.in",
-      "state": "Uttar Pradesh",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 6
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Girko Healthcare Pvt. Ltd. (Kotia Drug House)",
-      "host": "girkohealthcare.com",
-      "state": "Uttar Pradesh",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Virgo Uap Pharma Pvt. Ltd.",
-      "host": "virgouappharma.in",
-      "state": "Gujarat",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Sanskar Ayush Medicare Pvt. Ltd.",
-      "host": "sanskarayush.in",
+      "name": "Adarsh Ayurvedic Pharmacy",
+      "host": "adarshayurvedicpharmacy.com",
       "state": "Uttarakhand",
       "sellsClassical": false,
       "robots": {
@@ -778,9 +66,9 @@
       }
     },
     {
-      "name": "BACFO Pharmaceuticals (India) Ltd.",
-      "host": "bacfo.com",
-      "state": "Uttar Pradesh",
+      "name": "Ajanta Medicals Pvt. Ltd.",
+      "host": "adusol.com",
+      "state": "Goa",
       "sellsClassical": false,
       "robots": {
         "status": 404,
@@ -800,141 +88,9 @@
       }
     },
     {
-      "name": "Pam Labs India Health Care Pvt. Ltd.",
-      "host": "pamlabshealthcare.com",
+      "name": "Ahalia Ayurveda Medicine Manufacturing Unit (Ahalia International Foundation)",
+      "host": "ahalia.in",
       "state": "Kerala",
-      "sellsClassical": false,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Haridev Formulations",
-      "host": "haridevformulations.com",
-      "state": "Kerala",
-      "sellsClassical": false,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Baijnath Pharmaceuticals",
-      "host": "baijnathpharmaceuticals.com",
-      "state": "Himachal Pradesh",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Sricure Herbs (India) Private Limited",
-      "host": "sricureherbs.in",
-      "state": "Haryana",
-      "sellsClassical": false,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Rajasthan Aushdhalaya Pvt. Ltd. (Rajasthan Herbal)",
-      "host": "rajasthanherbal.com",
-      "state": "Maharashtra",
-      "sellsClassical": false,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Vasu Healthcare Pvt. Ltd.",
-      "host": "vasuhealthcare.com",
-      "state": "Gujarat",
-      "sellsClassical": false,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Yamuna Pharmacy",
-      "host": "yamunapharmacy.com",
-      "state": "Haryana",
       "sellsClassical": false,
       "robots": {
         "status": 200,
@@ -976,207 +132,9 @@
       }
     },
     {
-      "name": "Nisarga Herbs (Nisarga Biotech Pvt. Ltd.)",
-      "host": "nisargaherbs.com",
-      "state": "Maharashtra",
-      "sellsClassical": false,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 8
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Rajvaidya Shital Prasad & Sons",
-      "host": "rajvaidya.com",
-      "state": "Delhi",
-      "sellsClassical": true,
-      "robots": {
-        "status": 404,
-        "verdict": "open",
-        "note": "no robots.txt (404)",
-        "groups": 0
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Sharangdhar Pharmaceuticals Pvt. Ltd.",
-      "host": "sharangdhar.com",
-      "state": "Maharashtra",
-      "sellsClassical": false,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 2
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Ayulabs Pvt. Ltd.",
-      "host": "ayulabs.com",
-      "state": "Gujarat",
-      "sellsClassical": false,
-      "robots": {
-        "status": 404,
-        "verdict": "open",
-        "note": "no robots.txt (404)",
-        "groups": 0
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Jagat Pharma",
-      "host": "jagatpharma.com",
+      "name": "Amar Pharmaceuticals & Labs (India) Private Limited",
+      "host": "amarpharma.in",
       "state": "Uttar Pradesh",
-      "sellsClassical": false,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 2
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "E.T.M Oushadhasala (India) Ltd (Thaikkattu Mooss)",
-      "host": "etmoushadhasala.com",
-      "state": "Kerala",
-      "sellsClassical": true,
-      "robots": {
-        "status": null,
-        "verdict": "unknown",
-        "note": "TypeError: fetch failed (after 3 attempts)",
-        "groups": 0
-      },
-      "catalogueReadable": false,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": null,
-        "bingbot": null,
-        "GPTBot": null,
-        "ClaudeBot": null,
-        "CCBot": null,
-        "PerplexityBot": null
-      }
-    },
-    {
-      "name": "Sreeram Herbal Remedies (P) Ltd",
-      "host": "sreeramherbals.com",
-      "state": "Kerala",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "open",
-        "note": "robots.txt served HTML, treated as absent",
-        "groups": 0
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "The Ayurvedeeya Arkashala Ltd",
-      "host": "ayurvedeeyaarkashala.com",
-      "state": "Maharashtra",
-      "sellsClassical": true,
-      "robots": {
-        "status": 404,
-        "verdict": "open",
-        "note": "no robots.txt (404)",
-        "groups": 0
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Rajasthan Aushdhalaya Pvt Ltd",
-      "host": "raplgroup.in",
-      "state": "Maharashtra",
-      "sellsClassical": false,
-      "robots": {
-        "status": null,
-        "verdict": "unknown",
-        "note": "TypeError: fetch failed (after 3 attempts)",
-        "groups": 0
-      },
-      "catalogueReadable": false,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": null,
-        "bingbot": null,
-        "GPTBot": null,
-        "ClaudeBot": null,
-        "CCBot": null,
-        "PerplexityBot": null
-      }
-    },
-    {
-      "name": "Dindayal Ayurveda (Dindayal Industries Ltd)",
-      "host": "dindayalayurveda.com",
-      "state": "Madhya Pradesh",
       "sellsClassical": true,
       "robots": {
         "status": 200,
@@ -1196,125 +154,15 @@
       }
     },
     {
-      "name": "J & J Dechane Labs Pvt Ltd",
-      "host": "dechane.com",
-      "state": "Telangana",
-      "sellsClassical": false,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 2
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Dhathri Ayurveda Pvt Ltd",
-      "host": "dhathriayurveda.in",
-      "state": "Kerala",
-      "sellsClassical": false,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 2
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "KLE Ayurveda Pharmacy (KAHER's Shri B. M. Kankanawadi Ayurveda Mahavidyalaya)",
-      "host": "kleayurworld.edu.in",
-      "state": "Karnataka",
+      "name": "Ambastha Biotech",
+      "host": "ambasthabiotech.com",
+      "state": "Haryana",
       "sellsClassical": false,
       "robots": {
         "status": 200,
         "verdict": "rules",
         "note": null,
         "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Muniyal Ayurveda (Muniyal Institute of Ayurveda Medical Sciences)",
-      "host": "muniyalayurveda.com",
-      "state": "Karnataka",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Aushadhi Bhavan (Ayurved Seva Sangh, Nashik)",
-      "host": "aushadhibhavan.com",
-      "state": "Maharashtra",
-      "sellsClassical": true,
-      "robots": {
-        "status": null,
-        "verdict": "unknown",
-        "note": "TypeError: fetch failed (after 3 attempts)",
-        "groups": 0
-      },
-      "catalogueReadable": false,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": null,
-        "bingbot": null,
-        "GPTBot": null,
-        "ClaudeBot": null,
-        "CCBot": null,
-        "PerplexityBot": null
-      }
-    },
-    {
-      "name": "Gurukul Ayurved Pharmacy (formerly Gurukul Mahavidyalaya Jwalapur Pharmacy)",
-      "host": "gurukulayurved.in",
-      "state": "Uttarakhand",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 2
       },
       "catalogueReadable": true,
       "aiAgentsNamed": [],
@@ -1350,9 +198,9 @@
       }
     },
     {
-      "name": "DAV Pharmacy (Dayanand Ayurvedic College, Jalandhar)",
-      "host": "davpharmacy.com",
-      "state": "Punjab",
+      "name": "Arogya Formulations Pvt. Ltd.",
+      "host": "arogyaformulations.com",
+      "state": "Uttarakhand",
       "sellsClassical": true,
       "robots": {
         "status": 200,
@@ -1372,8 +220,52 @@
       }
     },
     {
-      "name": "Indian Medical Practitioners' Co-operative Pharmacy and Stores Ltd (IMPCOPS)",
-      "host": "impcops.org",
+      "name": "Arya Aushadhi Pharmaceutical Works",
+      "host": "aryaaushadhi.com",
+      "state": "Maharashtra",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 6
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Arya Vaidya Kalpashala Pvt Ltd (AVK)",
+      "host": "aryavaidyakalpashala.com",
+      "state": "Maharashtra",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "ASHTANGA Ayurvedics (K.S. Varier's Ashtanga Ayurvedics (P) Ltd)",
+      "host": "ashtangam.com",
       "state": "Tamil Nadu",
       "sellsClassical": true,
       "robots": {
@@ -1416,9 +308,9 @@
       }
     },
     {
-      "name": "Vindhya Herbals - M.P. State Minor Forest Produce (Trading & Development) Co-operative Federation Ltd",
-      "host": "vindhyaherbals.in",
-      "state": "Madhya Pradesh",
+      "name": "Dr. Asma Herbals",
+      "host": "asmaherbals.co.in",
+      "state": "Punjab",
       "sellsClassical": true,
       "robots": {
         "status": 200,
@@ -1438,14 +330,168 @@
       }
     },
     {
-      "name": "Shree Swami Atmanand Saraswati Ayurvedic Co-operative Pharmacy Ltd (ASFA)",
-      "host": "swamiasfa.com",
-      "state": "Gujarat",
+      "name": "Atharva Nature Healthcare Pvt. Ltd. (Atharva Ayurveda)",
+      "host": "atharva-ayurved.com",
+      "state": "Maharashtra",
       "sellsClassical": true,
       "robots": {
         "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "V.R. Atharvaveda Pharmaceuticals Pvt. Ltd.",
+      "host": "atharvaveda.org.in",
+      "state": "Uttar Pradesh",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Atharv Pharmaceuticals",
+      "host": "atharvayurvedicpharma.com",
+      "state": "Uttar Pradesh",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Aushadhi Bhavan (Ayurved Seva Sangh, Nashik)",
+      "host": "aushadhibhavan.com",
+      "state": "Maharashtra",
+      "sellsClassical": true,
+      "robots": {
+        "status": null,
+        "verdict": "unknown",
+        "note": "TypeError: fetch failed (after 3 attempts)",
+        "groups": 0
+      },
+      "catalogueReadable": false,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": null,
+        "bingbot": null,
+        "GPTBot": null,
+        "ClaudeBot": null,
+        "CCBot": null,
+        "PerplexityBot": null
+      }
+    },
+    {
+      "name": "Ayurved Vikas Sansthan",
+      "host": "avsherbals.com",
+      "state": "Uttar Pradesh",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Arya Vaidya Vilasini Vaidya Sala (AVVVS)",
+      "host": "avvvs.com",
+      "state": "Kerala",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Ayukalp UAP Pharma Pvt. Ltd.",
+      "host": "ayukalpuappharma.com",
+      "state": "Gujarat",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Ayulabs Pvt. Ltd.",
+      "host": "ayulabs.com",
+      "state": "Gujarat",
+      "sellsClassical": false,
+      "robots": {
+        "status": 404,
         "verdict": "open",
-        "note": "robots.txt served HTML, treated as absent",
+        "note": "no robots.txt (404)",
         "groups": 0
       },
       "catalogueReadable": true,
@@ -1460,9 +506,53 @@
       }
     },
     {
-      "name": "Ayushakti Ayurved Private Limited",
-      "host": "ayushakti.com",
-      "state": "Maharashtra",
+      "name": "Ayumed Pharma Private Limited",
+      "host": "ayumedayurveda.com",
+      "state": "Rajasthan",
+      "sellsClassical": false,
+      "robots": {
+        "status": 404,
+        "verdict": "open",
+        "note": "no robots.txt (404)",
+        "groups": 0
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Cochin Arya Vaidya Sala",
+      "host": "ayurcochin.in",
+      "state": "Kerala",
+      "sellsClassical": false,
+      "robots": {
+        "status": null,
+        "verdict": "unknown",
+        "note": "TypeError: fetch failed (after 3 attempts)",
+        "groups": 0
+      },
+      "catalogueReadable": false,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": null,
+        "bingbot": null,
+        "GPTBot": null,
+        "ClaudeBot": null,
+        "CCBot": null,
+        "PerplexityBot": null
+      }
+    },
+    {
+      "name": "Ayursun Pharma",
+      "host": "ayursun.in",
+      "state": "Gujarat",
       "sellsClassical": false,
       "robots": {
         "status": 200,
@@ -1482,15 +572,81 @@
       }
     },
     {
-      "name": "Welex Laboratories Private Limited",
-      "host": "welexcare.com",
-      "state": "Maharashtra",
+      "name": "KVM Research Laboratories",
+      "host": "ayurvedaforyou.in",
+      "state": "Puducherry",
       "sellsClassical": false,
       "robots": {
         "status": 200,
         "verdict": "rules",
         "note": null,
+        "groups": 4
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Ayurveda Rasashala",
+      "host": "ayurvedarasashala.com",
+      "state": "Maharashtra",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Muniyal Ayurveda (Muniyal Herbals & Ayurvedic Remedies Ltd)",
+      "host": "ayurvedas.com",
+      "state": "Karnataka",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
         "groups": 2
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "The Ayurvedeeya Arkashala Ltd",
+      "host": "ayurvedeeyaarkashala.com",
+      "state": "Maharashtra",
+      "sellsClassical": true,
+      "robots": {
+        "status": 404,
+        "verdict": "open",
+        "note": "no robots.txt (404)",
+        "groups": 0
       },
       "catalogueReadable": true,
       "aiAgentsNamed": [],
@@ -1526,74 +682,8 @@
       }
     },
     {
-      "name": "Arogya Formulations Pvt. Ltd.",
-      "host": "arogyaformulations.com",
-      "state": "Uttarakhand",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Navayur Herbals Pvt. Ltd.",
-      "host": "navayurherbals.com",
-      "state": "Chandigarh",
-      "sellsClassical": false,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 2
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Fidalgo Health Care",
-      "host": "fidalgohealthcare.in",
-      "state": "Punjab",
-      "sellsClassical": false,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Shriji Herbal Products",
-      "host": "shrijiherbalproducts.net",
+      "name": "Ayurved Rasayani",
+      "host": "ayurvedrasayani.com",
       "state": "Maharashtra",
       "sellsClassical": true,
       "robots": {
@@ -1614,37 +704,15 @@
       }
     },
     {
-      "name": "Indian Herbo Pharma",
-      "host": "indianherbo.com",
-      "state": "Punjab",
-      "sellsClassical": false,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Pitambari Products Private Limited",
-      "host": "pitambari.com",
+      "name": "Ayushakti Ayurved Private Limited",
+      "host": "ayushakti.com",
       "state": "Maharashtra",
       "sellsClassical": false,
       "robots": {
         "status": 200,
         "verdict": "rules",
         "note": null,
-        "groups": 1
+        "groups": 6
       },
       "catalogueReadable": true,
       "aiAgentsNamed": [],
@@ -1658,151 +726,9 @@
       }
     },
     {
-      "name": "K.V.G. Ayurveda Medical College & Hospital (KVG Ayurveda Pharmacy)",
-      "host": "kvgamch.org",
-      "state": "Karnataka",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Ahalia Ayurveda Medicine Manufacturing Unit (Ahalia International Foundation)",
-      "host": "ahalia.in",
-      "state": "Kerala",
-      "sellsClassical": false,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Dr. Sajikumar's Gayathri Medical Institutions Pvt. Ltd. (Gayathri Ayurvedics)",
-      "host": "gayathriayurvedics.in",
-      "state": "Kerala",
-      "sellsClassical": false,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Sundar Ayurved Pharmacy, J. S. Ayurveda Mahavidyalaya (Mahagujarat Medical Society)",
-      "host": "nadiadayurveda.org",
-      "state": "Gujarat",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Sri Sankara Ayur Pharmacy, Sri Jayendra Saraswathi Ayurveda College & Hospital",
-      "host": "sjsach.org.in",
-      "state": "Tamil Nadu",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Swargashram Trust Aushadhalaya and Nirmaan Shala",
-      "host": "swargashram.org",
-      "state": "Uttarakhand",
-      "sellsClassical": false,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 20
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [
-        "applebot-extended",
-        "bytespider",
-        "ccbot",
-        "claudebot",
-        "google-extended",
-        "gptbot",
-        "meta-externalagent",
-        "claude-user",
-        "perplexitybot"
-      ],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": false,
-        "ClaudeBot": false,
-        "CCBot": false,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Vishnu Ayurveda College Pharmacy",
-      "host": "vishnuayurvedacollege.in",
-      "state": "Kerala",
+      "name": "Ayushraj Enterprises Pvt Ltd",
+      "host": "ayushraj.com",
+      "state": "Rajasthan",
       "sellsClassical": false,
       "robots": {
         "status": 404,
@@ -1822,351 +748,31 @@
       }
     },
     {
-      "name": "Shri Dhanwantri Ayurvedic Medical College & Research Centre Pharmacy",
-      "host": "shridhanwantrigroup.com",
+      "name": "Ayusri Health Products Ltd",
+      "host": "ayusri.com",
+      "state": "West Bengal",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 2
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "BACFO Pharmaceuticals (India) Ltd.",
+      "host": "bacfo.com",
       "state": "Uttar Pradesh",
-      "sellsClassical": false,
-      "robots": {
-        "status": 200,
-        "verdict": "open",
-        "note": null,
-        "groups": 0
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Madhava Pharmacy (Madhava Ayurvedic Group, Madhavam Ayurveda Hospital)",
-      "host": "madhavapharmacy.org",
-      "state": "Kerala",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "MVR Ayurveda Medical College Hospital Pharmacy (MVR Charitable Trust)",
-      "host": "mvrayurvedahospital.com",
-      "state": "Kerala",
-      "sellsClassical": false,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Sahyadri Ayurvedic Pharmaceuticals",
-      "host": "sahyadriayurveda.com",
-      "state": "Kerala",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 13
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [
-        "chatgpt-user",
-        "perplexitybot",
-        "claude-searchbot",
-        "claude-user",
-        "google-extended",
-        "applebot-extended",
-        "gptbot",
-        "claudebot",
-        "meta-externalagent",
-        "ccbot",
-        "bytespider"
-      ],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": false,
-        "ClaudeBot": false,
-        "CCBot": false,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Inducare Pharma Pvt. Ltd.",
-      "host": "inducarepharma.com",
-      "state": "Maharashtra",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Shivayu Ayurved Limited",
-      "host": "shivayuayurved.com",
-      "state": "Maharashtra",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Bhaskara Vilasam Vaidyasala",
-      "host": "bhaskaravilasam.com",
-      "state": "Kerala",
-      "sellsClassical": true,
-      "robots": {
-        "status": null,
-        "verdict": "unknown",
-        "note": "TypeError: fetch failed (after 3 attempts)",
-        "groups": 0
-      },
-      "catalogueReadable": false,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": null,
-        "bingbot": null,
-        "GPTBot": null,
-        "ClaudeBot": null,
-        "CCBot": null,
-        "PerplexityBot": null
-      }
-    },
-    {
-      "name": "Jamna Pharmaceuticals (Jamna Herbal)",
-      "host": "jamnaherbal.com",
-      "state": "Madhya Pradesh",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 2
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Nagarjun Pharmaceuticals Pvt. Ltd.",
-      "host": "nagarjunpharma.com",
-      "state": "Gujarat",
-      "sellsClassical": true,
-      "robots": {
-        "status": null,
-        "verdict": "unknown",
-        "note": "AbortError: This operation was aborted (after 3 attempts)",
-        "groups": 0
-      },
-      "catalogueReadable": false,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": null,
-        "bingbot": null,
-        "GPTBot": null,
-        "ClaudeBot": null,
-        "CCBot": null,
-        "PerplexityBot": null
-      }
-    },
-    {
-      "name": "SDP Remedies & Research Centre (SDP Ayurveda)",
-      "host": "sdpayurveda.com",
-      "state": "Karnataka",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Revinto Life Science Pvt. Ltd.",
-      "host": "revinto.in",
-      "state": "Karnataka",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 2
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "North India Life Sciences Pvt. Ltd.",
-      "host": "northindialifesciences.com",
-      "state": "Haryana",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Meghdoot Gramodyog Sewa Sansthan (Meghdoot Herbal)",
-      "host": "meghdootherbal.com",
-      "state": "Uttar Pradesh",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Swadeshi Ayurved",
-      "host": "swadeshiayurved.com",
-      "state": "Uttarakhand",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 2
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "La Grande Herbs And Pharma Ltd.",
-      "host": "lagrandeherbs.co.in",
-      "state": "Uttarakhand",
-      "sellsClassical": false,
-      "robots": {
-        "status": null,
-        "verdict": "unknown",
-        "note": "TypeError: fetch failed (after 3 attempts)",
-        "groups": 0
-      },
-      "catalogueReadable": false,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": null,
-        "bingbot": null,
-        "GPTBot": null,
-        "ClaudeBot": null,
-        "CCBot": null,
-        "PerplexityBot": null
-      }
-    },
-    {
-      "name": "Karnani Pharmaceuticals Pvt. Ltd.",
-      "host": "karnani.co.in",
-      "state": "Maharashtra",
       "sellsClassical": false,
       "robots": {
         "status": 404,
@@ -2186,9 +792,9 @@
       }
     },
     {
-      "name": "HLL Lifecare Limited",
-      "host": "lifecarehll.com",
-      "state": "Kerala",
+      "name": "Baijnath Pharmaceuticals",
+      "host": "baijnathpharmaceuticals.com",
+      "state": "Himachal Pradesh",
       "sellsClassical": true,
       "robots": {
         "status": 200,
@@ -2208,36 +814,14 @@
       }
     },
     {
-      "name": "Sushila Herbal",
-      "host": "sushilaherbal.com",
-      "state": "Madhya Pradesh",
+      "name": "Shri Bajrang Ayurved Bhawan",
+      "host": "bajrangayurved.com",
+      "state": "Assam",
       "sellsClassical": true,
       "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 2
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Unijules Life Sciences Ltd",
-      "host": "unijules.com",
-      "state": "Maharashtra",
-      "sellsClassical": false,
-      "robots": {
-        "status": 200,
+        "status": 404,
         "verdict": "open",
-        "note": "robots.txt served HTML, treated as absent",
+        "note": "no robots.txt (404)",
         "groups": 0
       },
       "catalogueReadable": true,
@@ -2252,169 +836,15 @@
       }
     },
     {
-      "name": "Shri Jwala Ayurved Bhawan",
-      "host": "jwalaayurvedic.com",
+      "name": "Basic Ayurveda Limited",
+      "host": "basicayurvedalimited.com",
       "state": "Uttar Pradesh",
       "sellsClassical": true,
       "robots": {
         "status": 200,
         "verdict": "rules",
         "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "S. G. Phyto Pharma Pvt. Ltd.",
-      "host": "sgphyto.com",
-      "state": "Maharashtra",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
         "groups": 2
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Patiala Ayurvedic Pharmacy",
-      "host": "patialaayurvedic.com",
-      "state": "Punjab",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Dr. Asma Herbals",
-      "host": "asmaherbals.co.in",
-      "state": "Punjab",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Nirmaya Life Science Pvt. Ltd.",
-      "host": "nirmayalife.com",
-      "state": "Gujarat",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Zoic Pharmaceuticals",
-      "host": "zoicpharmaceuticals.com",
-      "state": "Punjab",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 2
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Neutragen Healthcare LLP",
-      "host": "neutragenhealthcare.com",
-      "state": "Haryana",
-      "sellsClassical": false,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 2
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Jayabharatham Arya Vaidyasala",
-      "host": "jbharathayurvedics.com",
-      "state": "Kerala",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
       },
       "catalogueReadable": true,
       "aiAgentsNamed": [],
@@ -2462,9 +892,31 @@
       }
     },
     {
-      "name": "Yajurvid Ayurveda (Yajurvid Pharma)",
-      "host": "yajurvidayurveda.com",
-      "state": "Rajasthan",
+      "name": "Best Research Pharma",
+      "host": "bestayush.com",
+      "state": "Tamil Nadu",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 2
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "BG Pharmaceuticals",
+      "host": "bgpharma.in",
+      "state": "Odisha",
       "sellsClassical": false,
       "robots": {
         "status": 200,
@@ -2484,10 +936,32 @@
       }
     },
     {
-      "name": "Phyto Specialities Pvt. Ltd.",
-      "host": "phytospecialities.net",
-      "state": "Tamil Nadu",
-      "sellsClassical": false,
+      "name": "Bhartiya Ayurvedic Pharmacy",
+      "host": "bhartiyaayurvedicpharmacy.in",
+      "state": "Haryana",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Bhaskara Vilasam Vaidyasala",
+      "host": "bhaskaravilasam.com",
+      "state": "Kerala",
+      "sellsClassical": true,
       "robots": {
         "status": null,
         "verdict": "unknown",
@@ -2506,184 +980,8 @@
       }
     },
     {
-      "name": "K P Namboodiri's Ayurvedics",
-      "host": "kpnamboodiris.com",
-      "state": "Kerala",
-      "sellsClassical": false,
-      "robots": {
-        "status": 404,
-        "verdict": "open",
-        "note": "no robots.txt (404)",
-        "groups": 0
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Ajanta Medicals Pvt. Ltd.",
-      "host": "adusol.com",
-      "state": "Goa",
-      "sellsClassical": false,
-      "robots": {
-        "status": 404,
-        "verdict": "open",
-        "note": "no robots.txt (404)",
-        "groups": 0
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Quinta Essentia Organic LLP",
-      "host": "quintaessentiaorganic.com",
-      "state": "Goa",
-      "sellsClassical": false,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 2
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Jammu Institute of Ayurveda & Research (JIAR Pharmacy)",
-      "host": "jiarjammu.in",
-      "state": "Jammu and Kashmir",
-      "sellsClassical": false,
-      "robots": {
-        "status": 404,
-        "verdict": "open",
-        "note": "no robots.txt (404)",
-        "groups": 0
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Abirami Labs",
-      "host": "abiramilabs.com",
-      "state": "Puducherry",
-      "sellsClassical": false,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 2
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "KVM Research Laboratories",
-      "host": "ayurvedaforyou.in",
-      "state": "Puducherry",
-      "sellsClassical": false,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 4
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Gujarat State Forest Development Corporation Ltd (Dhanvantri Ayurvedic unit, Por, Vadodara)",
-      "host": "gsfdcltd.co.in",
-      "state": "Gujarat",
-      "sellsClassical": true,
-      "robots": {
-        "status": 404,
-        "verdict": "open",
-        "note": "no robots.txt (404)",
-        "groups": 0
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Ayushraj Enterprises Pvt Ltd",
-      "host": "ayushraj.com",
-      "state": "Rajasthan",
-      "sellsClassical": false,
-      "robots": {
-        "status": 404,
-        "verdict": "open",
-        "note": "no robots.txt (404)",
-        "groups": 0
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Amar Pharmaceuticals & Labs (India) Private Limited",
-      "host": "amarpharma.in",
+      "name": "Bhavya Pharmacy",
+      "host": "bhavyapharmacy.co.in",
       "state": "Uttar Pradesh",
       "sellsClassical": true,
       "robots": {
@@ -2704,81 +1002,59 @@
       }
     },
     {
-      "name": "Pharmaveda (India) Private Limited",
-      "host": "pharmaveda.com",
-      "state": "Maharashtra",
+      "name": "Binexo Pharmaceuticals",
+      "host": "binexopharmaceuticals.com",
+      "state": "Haryana",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Sadvaidyasala Pvt. Ltd. (B.V. Pundit's)",
+      "host": "bvpundit.com",
+      "state": "Karnataka",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Capro Labs Exports India Pvt. Ltd.",
+      "host": "caprolabs.com",
+      "state": "Karnataka",
       "sellsClassical": false,
       "robots": {
         "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Keraleeya Ayurveda Samajam",
-      "host": "samajamonline.com",
-      "state": "Kerala",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Kandamkulathy Vaidyasala",
-      "host": "kandamkulathy.com",
-      "state": "Kerala",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 4
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Sreedhareeyam Farmherbs India Private Limited",
-      "host": "sreedhareeyam.com",
-      "state": "Kerala",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
+        "verdict": "open",
+        "note": "robots.txt served HTML, treated as absent",
+        "groups": 0
       },
       "catalogueReadable": true,
       "aiAgentsNamed": [],
@@ -2836,185 +1112,9 @@
       }
     },
     {
-      "name": "Vaidyamadham Vaidyasala & Nursing Home",
-      "host": "vaidyamadham.com",
-      "state": "Kerala",
-      "sellsClassical": false,
-      "robots": {
-        "status": 404,
-        "verdict": "open",
-        "note": "no robots.txt (404)",
-        "groups": 0
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Itoozhi Ayurveda",
-      "host": "itoozhiayurveda.in",
-      "state": "Kerala",
-      "sellsClassical": false,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Kairali Ayurvedic Products Pvt. Ltd.",
-      "host": "kairaliproducts.in",
-      "state": "Kerala",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 6
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Everest Ayurveda",
-      "host": "everestayurveda.com",
-      "state": "Kerala",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 17
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Shri Bajrang Ayurved Bhawan",
-      "host": "bajrangayurved.com",
-      "state": "Assam",
-      "sellsClassical": true,
-      "robots": {
-        "status": 404,
-        "verdict": "open",
-        "note": "no robots.txt (404)",
-        "groups": 0
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "BG Pharmaceuticals",
-      "host": "bgpharma.in",
-      "state": "Odisha",
-      "sellsClassical": false,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Khatore Pharmaceuticals (P) Ltd.",
-      "host": "khatorepharma.com",
-      "state": "Odisha",
-      "sellsClassical": false,
-      "robots": {
-        "status": null,
-        "verdict": "unknown",
-        "note": "TypeError: fetch failed (after 3 attempts)",
-        "groups": 0
-      },
-      "catalogueReadable": false,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": null,
-        "bingbot": null,
-        "GPTBot": null,
-        "ClaudeBot": null,
-        "CCBot": null,
-        "PerplexityBot": null
-      }
-    },
-    {
-      "name": "HempCann Solutions Pvt. Ltd. (Vedi Herbals)",
-      "host": "hempcann.in",
-      "state": "Odisha",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Ayusri Health Products Ltd",
-      "host": "ayusri.com",
-      "state": "West Bengal",
+      "name": "Curoveda Herbals",
+      "host": "curoveda.com",
+      "state": "Punjab",
       "sellsClassical": true,
       "robots": {
         "status": 200,
@@ -3034,15 +1134,59 @@
       }
     },
     {
-      "name": "Eucon Pharma (Eucon Pharmaceuticals)",
-      "host": "euconpharma.com",
-      "state": "West Bengal",
+      "name": "DAV Pharmacy (Dayanand Ayurvedic College, Jalandhar)",
+      "host": "davpharmacy.com",
+      "state": "Punjab",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "J & J Dechane Labs Pvt Ltd",
+      "host": "dechane.com",
+      "state": "Telangana",
       "sellsClassical": false,
       "robots": {
-        "status": 404,
-        "verdict": "open",
-        "note": "no robots.txt (404)",
-        "groups": 0
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 2
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Deseeya Ayurvedic Pharmacy",
+      "host": "deseeyaayurveda.com",
+      "state": "Kerala",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 2
       },
       "catalogueReadable": true,
       "aiAgentsNamed": [],
@@ -3078,9 +1222,9 @@
       }
     },
     {
-      "name": "Rasraj Ayurvedic Pharmacy",
-      "host": "rasrajayurved.com",
-      "state": "Rajasthan",
+      "name": "Dhanvantari Guj. Herb",
+      "host": "dhanvantari.co.in",
+      "state": "Gujarat",
       "sellsClassical": true,
       "robots": {
         "status": 200,
@@ -3100,54 +1244,10 @@
       }
     },
     {
-      "name": "Shree Dhanwantri Herbals",
-      "host": "shreedhanwantri.com",
-      "state": "Punjab",
+      "name": "Dhanwanthari Vaidyasala",
+      "host": "dhanwanthari.org",
+      "state": "Kerala",
       "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Adarsh Ayurvedic Pharmacy",
-      "host": "adarshayurvedicpharmacy.com",
-      "state": "Uttarakhand",
-      "sellsClassical": false,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 1
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "Ayumed Pharma Private Limited",
-      "host": "ayumedayurveda.com",
-      "state": "Rajasthan",
-      "sellsClassical": false,
       "robots": {
         "status": 404,
         "verdict": "open",
@@ -3166,8 +1266,162 @@
       }
     },
     {
-      "name": "Vaid Dhanvantari Ayurveda",
-      "host": "vaiddhanvantariayurveda.com",
+      "name": "Dhathri Ayurveda Pvt Ltd",
+      "host": "dhathriayurveda.in",
+      "state": "Kerala",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 2
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Dindayal Aushadhi (Dindayal Industries Ltd)",
+      "host": "dindayalaushadhi.com",
+      "state": "Madhya Pradesh",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Dindayal Ayurveda (Dindayal Industries Ltd)",
+      "host": "dindayalayurveda.com",
+      "state": "Madhya Pradesh",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Dr. P. Alikutty's Ayurveda Pharmaceuticals",
+      "host": "drpalikuttyspharma.com",
+      "state": "Kerala",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "open",
+        "note": null,
+        "groups": 0
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "E.T.M Oushadhasala (India) Ltd (Thaikkattu Mooss)",
+      "host": "etmoushadhasala.com",
+      "state": "Kerala",
+      "sellsClassical": true,
+      "robots": {
+        "status": null,
+        "verdict": "unknown",
+        "note": "TypeError: fetch failed (after 3 attempts)",
+        "groups": 0
+      },
+      "catalogueReadable": false,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": null,
+        "bingbot": null,
+        "GPTBot": null,
+        "ClaudeBot": null,
+        "CCBot": null,
+        "PerplexityBot": null
+      }
+    },
+    {
+      "name": "Eucon Pharma (Eucon Pharmaceuticals)",
+      "host": "euconpharma.com",
+      "state": "West Bengal",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "open",
+        "note": "robots.txt served HTML, treated as absent",
+        "groups": 0
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Everest Ayurveda",
+      "host": "everestayurveda.com",
+      "state": "Kerala",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 17
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Fidalgo Health Care",
+      "host": "fidalgohealthcare.in",
       "state": "Punjab",
       "sellsClassical": false,
       "robots": {
@@ -3188,15 +1442,191 @@
       }
     },
     {
-      "name": "Atharva Nature Healthcare Pvt. Ltd. (Atharva Ayurveda)",
-      "host": "atharva-ayurved.com",
-      "state": "Maharashtra",
+      "name": "Dr. Sajikumar's Gayathri Medical Institutions Pvt. Ltd. (Gayathri Ayurvedics)",
+      "host": "gayathriayurvedics.in",
+      "state": "Kerala",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Gayatri Pharmaceuticals",
+      "host": "gayatripharmaceuticals.com",
+      "state": "Gujarat",
       "sellsClassical": true,
       "robots": {
         "status": 200,
         "verdict": "rules",
         "note": null,
         "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Girko Healthcare Pvt. Ltd. (Kotia Drug House)",
+      "host": "girkohealthcare.com",
+      "state": "Uttar Pradesh",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Gujarat State Forest Development Corporation Ltd (Dhanvantri Ayurvedic unit, Por, Vadodara)",
+      "host": "gsfdcltd.co.in",
+      "state": "Gujarat",
+      "sellsClassical": true,
+      "robots": {
+        "status": 404,
+        "verdict": "open",
+        "note": "no robots.txt (404)",
+        "groups": 0
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Gurukul Ayurved Pharmacy (formerly Gurukul Mahavidyalaya Jwalapur Pharmacy)",
+      "host": "gurukulayurved.in",
+      "state": "Uttarakhand",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 2
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Haridev Formulations",
+      "host": "haridevformulations.com",
+      "state": "Kerala",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Haritha Pharmaceuticals",
+      "host": "harithagroup.com",
+      "state": "Kerala",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "HempCann Solutions Pvt. Ltd. (Vedi Herbals)",
+      "host": "hempcann.in",
+      "state": "Odisha",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "BAPS Swaminarayan Herbal Care (BAPS Amrut)",
+      "host": "herbal.baps.org",
+      "state": "Gujarat",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 2
       },
       "catalogueReadable": true,
       "aiAgentsNamed": [],
@@ -3232,9 +1662,207 @@
       }
     },
     {
-      "name": "Trilochan Ayurveda",
-      "host": "trilochanayurveda.com",
+      "name": "Hetal Pharmaceuticals",
+      "host": "hetalpharma.com",
       "state": "Gujarat",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "open",
+        "note": "robots.txt served HTML, treated as absent",
+        "groups": 0
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Hind Herbal Pharmacy Pvt. Ltd.",
+      "host": "hindherbalpharmacy.com",
+      "state": "Uttarakhand",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Hishimo Pharmaceuticals Pvt. Ltd.",
+      "host": "hishimo.com",
+      "state": "Rajasthan",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Indian Medical Practitioners' Co-operative Pharmacy and Stores Ltd (IMPCOPS)",
+      "host": "impcops.org",
+      "state": "Tamil Nadu",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Indian Herbo Pharma",
+      "host": "indianherbo.com",
+      "state": "Punjab",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Inducare Pharma Pvt. Ltd.",
+      "host": "inducarepharma.com",
+      "state": "Maharashtra",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Itoozhi Ayurveda",
+      "host": "itoozhiayurveda.in",
+      "state": "Kerala",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Jagat Pharma",
+      "host": "jagatpharma.com",
+      "state": "Uttar Pradesh",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 2
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Jayguru Ayurved Mandir",
+      "host": "jamayur.com",
+      "state": "Jharkhand",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Jamna Pharmaceuticals (Jamna Herbal)",
+      "host": "jamnaherbal.com",
+      "state": "Madhya Pradesh",
       "sellsClassical": true,
       "robots": {
         "status": 200,
@@ -3276,15 +1904,257 @@
       }
     },
     {
-      "name": "Param Ayurvedics",
-      "host": "paramayur.com",
-      "state": "Gujarat",
+      "name": "Jayabharatham Arya Vaidyasala",
+      "host": "jbharathayurvedics.com",
+      "state": "Kerala",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Jammu Institute of Ayurveda & Research (JIAR Pharmacy)",
+      "host": "jiarjammu.in",
+      "state": "Jammu and Kashmir",
+      "sellsClassical": false,
+      "robots": {
+        "status": 404,
+        "verdict": "open",
+        "note": "no robots.txt (404)",
+        "groups": 0
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Shri Jwala Ayurved Bhawan",
+      "host": "jwalaayurvedic.com",
+      "state": "Uttar Pradesh",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Kairali Ayurvedic Products Pvt. Ltd.",
+      "host": "kairaliproducts.in",
+      "state": "Kerala",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 6
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Kalan Pharmaceuticals",
+      "host": "kalanpharmaceuticals.com",
+      "state": "Kerala",
+      "sellsClassical": true,
+      "robots": {
+        "status": 404,
+        "verdict": "open",
+        "note": "no robots.txt (404)",
+        "groups": 0
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Kandamkulathy Vaidyasala",
+      "host": "kandamkulathy.com",
+      "state": "Kerala",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 4
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Karnani Pharmaceuticals Pvt. Ltd.",
+      "host": "karnani.co.in",
+      "state": "Maharashtra",
+      "sellsClassical": false,
+      "robots": {
+        "status": 404,
+        "verdict": "open",
+        "note": "no robots.txt (404)",
+        "groups": 0
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Kesari Kuteeram Private Limited",
+      "host": "kesarikuteeram.in",
+      "state": "Tamil Nadu",
+      "sellsClassical": true,
+      "robots": {
+        "status": null,
+        "verdict": "unknown",
+        "note": "TypeError: fetch failed (after 3 attempts)",
+        "groups": 0
+      },
+      "catalogueReadable": false,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": null,
+        "bingbot": null,
+        "GPTBot": null,
+        "ClaudeBot": null,
+        "CCBot": null,
+        "PerplexityBot": null
+      }
+    },
+    {
+      "name": "Khatore Pharmaceuticals (P) Ltd.",
+      "host": "khatorepharma.com",
+      "state": "Odisha",
+      "sellsClassical": false,
+      "robots": {
+        "status": null,
+        "verdict": "unknown",
+        "note": "TypeError: fetch failed (after 3 attempts)",
+        "groups": 0
+      },
+      "catalogueReadable": false,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": null,
+        "bingbot": null,
+        "GPTBot": null,
+        "ClaudeBot": null,
+        "CCBot": null,
+        "PerplexityBot": null
+      }
+    },
+    {
+      "name": "KLE Ayurveda Pharmacy (KAHER's Shri B. M. Kankanawadi Ayurveda Mahavidyalaya)",
+      "host": "kleayurworld.edu.in",
+      "state": "Karnataka",
       "sellsClassical": false,
       "robots": {
         "status": 200,
         "verdict": "rules",
         "note": null,
         "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "K.M.N. Vaidyasala",
+      "host": "kmnvaidyasala.com",
+      "state": "Kerala",
+      "sellsClassical": true,
+      "robots": {
+        "status": 404,
+        "verdict": "open",
+        "note": "no robots.txt (404)",
+        "groups": 0
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "K P Namboodiri's Ayurvedics",
+      "host": "kpnamboodiris.com",
+      "state": "Kerala",
+      "sellsClassical": false,
+      "robots": {
+        "status": 404,
+        "verdict": "open",
+        "note": "no robots.txt (404)",
+        "groups": 0
       },
       "catalogueReadable": true,
       "aiAgentsNamed": [],
@@ -3320,6 +2190,186 @@
       }
     },
     {
+      "name": "Kunnath Pharmaceuticals",
+      "host": "kunnathpharma.com",
+      "state": "Kerala",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "open",
+        "note": null,
+        "groups": 0
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "K.V.G. Ayurveda Medical College & Hospital (KVG Ayurveda Pharmacy)",
+      "host": "kvgamch.org",
+      "state": "Karnataka",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "La Grande Herbs And Pharma Ltd.",
+      "host": "lagrandeherbs.co.in",
+      "state": "Uttarakhand",
+      "sellsClassical": false,
+      "robots": {
+        "status": null,
+        "verdict": "unknown",
+        "note": "TypeError: fetch failed (after 3 attempts)",
+        "groups": 0
+      },
+      "catalogueReadable": false,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": null,
+        "bingbot": null,
+        "GPTBot": null,
+        "ClaudeBot": null,
+        "CCBot": null,
+        "PerplexityBot": null
+      }
+    },
+    {
+      "name": "Lama Pharmaceuticals",
+      "host": "lamapharma.com",
+      "state": "West Bengal",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Lavanya Healthcare Limited",
+      "host": "lavanyahealthcarelimited.com",
+      "state": "Punjab",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 5
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [
+        "gptbot",
+        "chatgpt-user",
+        "google-extended"
+      ],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "HLL Lifecare Limited",
+      "host": "lifecarehll.com",
+      "state": "Kerala",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Maa Ayurvedic",
+      "host": "maaayurvedic.com",
+      "state": "Maharashtra",
+      "sellsClassical": false,
+      "robots": {
+        "status": 404,
+        "verdict": "open",
+        "note": "no robots.txt (404)",
+        "groups": 0
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Madhava Pharmacy (Madhava Ayurvedic Group, Madhavam Ayurveda Hospital)",
+      "host": "madhavapharmacy.org",
+      "state": "Kerala",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
       "name": "Maheshwari Ayurved Pvt Ltd",
       "host": "maheshwariayurved.co.in",
       "state": "Uttar Pradesh",
@@ -3342,8 +2392,8 @@
       }
     },
     {
-      "name": "Uma Ayurvedics Pvt Ltd (Uma Ayurveda)",
-      "host": "umaayurveda.com",
+      "name": "Meghdoot Gramodyog Sewa Sansthan (Meghdoot Herbal)",
+      "host": "meghdootherbal.com",
       "state": "Uttar Pradesh",
       "sellsClassical": true,
       "robots": {
@@ -3386,6 +2436,358 @@
       }
     },
     {
+      "name": "Multani Pharmaceuticals Limited",
+      "host": "multani.org",
+      "state": "Delhi",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 2
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Muniyal Ayurveda (Muniyal Institute of Ayurveda Medical Sciences)",
+      "host": "muniyalayurveda.com",
+      "state": "Karnataka",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "MVR Ayurveda Medical College Hospital Pharmacy (MVR Charitable Trust)",
+      "host": "mvrayurvedahospital.com",
+      "state": "Kerala",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Sundar Ayurved Pharmacy, J. S. Ayurveda Mahavidyalaya (Mahagujarat Medical Society)",
+      "host": "nadiadayurveda.org",
+      "state": "Gujarat",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Nagarjun Pharmaceuticals Pvt. Ltd.",
+      "host": "nagarjunpharma.com",
+      "state": "Gujarat",
+      "sellsClassical": true,
+      "robots": {
+        "status": null,
+        "verdict": "unknown",
+        "note": "AbortError: This operation was aborted (after 3 attempts)",
+        "groups": 0
+      },
+      "catalogueReadable": false,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": null,
+        "bingbot": null,
+        "GPTBot": null,
+        "ClaudeBot": null,
+        "CCBot": null,
+        "PerplexityBot": null
+      }
+    },
+    {
+      "name": "Navayur Herbals Pvt. Ltd.",
+      "host": "navayurherbals.com",
+      "state": "Chandigarh",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 2
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Neutragen Healthcare LLP",
+      "host": "neutragenhealthcare.com",
+      "state": "Haryana",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 2
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Nirmaya Life Science Pvt. Ltd.",
+      "host": "nirmayalife.com",
+      "state": "Gujarat",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Nisarga Herbs (Nisarga Biotech Pvt. Ltd.)",
+      "host": "nisargaherbs.com",
+      "state": "Maharashtra",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 8
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "North India Life Sciences Pvt. Ltd.",
+      "host": "northindiagroup.com",
+      "state": "Haryana",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "North India Life Sciences Pvt. Ltd.",
+      "host": "northindialifesciences.com",
+      "state": "Haryana",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Nupal Remedies (New Udaya Pharmacy Ayurvedic Laboratories)",
+      "host": "nupalremedies.com",
+      "state": "Kerala",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Orient Ayurvedic Pharmacy",
+      "host": "orientayurvedicpharmecy.in",
+      "state": "Gujarat",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Pam Labs India Health Care Pvt. Ltd.",
+      "host": "pamlabshealthcare.com",
+      "state": "Kerala",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Param Ayurvedics",
+      "host": "paramayur.com",
+      "state": "Gujarat",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Patiala Ayurvedic Pharmacy",
+      "host": "patialaayurvedic.com",
+      "state": "Punjab",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
       "name": "Patna Ayurvedia Pharmacy Private Limited",
       "host": "patnaayurvediapharmacy.com",
       "state": "Bihar",
@@ -3408,9 +2810,63 @@
       }
     },
     {
-      "name": "Jayguru Ayurved Mandir",
-      "host": "jamayur.com",
-      "state": "Jharkhand",
+      "name": "Pentacare Ayurpharma",
+      "host": "pentacare.in",
+      "state": "Karnataka",
+      "sellsClassical": true,
+      "robots": {
+        "status": 404,
+        "verdict": "open",
+        "note": "no robots.txt (404)",
+        "groups": 0
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Pharmacon Remedies & Research Pvt Ltd",
+      "host": "pharmaconremedies.com",
+      "state": "Kerala",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 18
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [
+        "google-extended",
+        "gptbot",
+        "claude-searchbot",
+        "claudebot",
+        "perplexitybot",
+        "meta-externalagent",
+        "applebot-extended",
+        "bytespider",
+        "ccbot"
+      ],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": false,
+        "ClaudeBot": false,
+        "CCBot": false,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Pharmaveda (India) Private Limited",
+      "host": "pharmaveda.com",
+      "state": "Maharashtra",
       "sellsClassical": false,
       "robots": {
         "status": 200,
@@ -3430,8 +2886,394 @@
       }
     },
     {
-      "name": "Sadvaidyasala Pvt. Ltd. (B.V. Pundit's)",
-      "host": "bvpundit.com",
+      "name": "Phyto Specialities Pvt. Ltd.",
+      "host": "phytospecialities.net",
+      "state": "Tamil Nadu",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Pitambari Products Private Limited",
+      "host": "pitambari.com",
+      "state": "Maharashtra",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Pravek Kalp Pvt Ltd",
+      "host": "pravek.com",
+      "state": "Uttar Pradesh",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 2
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "ProEarth Ayurveda Pvt. Ltd.",
+      "host": "proearth.co.in",
+      "state": "Uttar Pradesh",
+      "sellsClassical": true,
+      "robots": {
+        "status": 404,
+        "verdict": "open",
+        "note": "no robots.txt (404)",
+        "groups": 0
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Quinta Essentia Organic LLP",
+      "host": "quintaessentiaorganic.com",
+      "state": "Goa",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 2
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Rajasthan Aushdhalaya Pvt. Ltd. (Rajasthan Herbal)",
+      "host": "rajasthanherbal.com",
+      "state": "Maharashtra",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Rajvaidya Shital Prasad & Sons",
+      "host": "rajvaidya.com",
+      "state": "Delhi",
+      "sellsClassical": true,
+      "robots": {
+        "status": 404,
+        "verdict": "open",
+        "note": "no robots.txt (404)",
+        "groups": 0
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "R.A. Pharmaceutical",
+      "host": "rapharmaceutical.com",
+      "state": "Uttar Pradesh",
+      "sellsClassical": false,
+      "robots": {
+        "status": 404,
+        "verdict": "open",
+        "note": "no robots.txt (404)",
+        "groups": 0
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Rajasthan Aushdhalaya Pvt Ltd",
+      "host": "raplgroup.in",
+      "state": "Maharashtra",
+      "sellsClassical": false,
+      "robots": {
+        "status": null,
+        "verdict": "unknown",
+        "note": "TypeError: fetch failed (after 3 attempts)",
+        "groups": 0
+      },
+      "catalogueReadable": false,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": null,
+        "bingbot": null,
+        "GPTBot": null,
+        "ClaudeBot": null,
+        "CCBot": null,
+        "PerplexityBot": null
+      }
+    },
+    {
+      "name": "Rasraj Ayurvedic Pharmacy",
+      "host": "rasrajayurved.com",
+      "state": "Rajasthan",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Rasraj Ayurvedic Pharmacy",
+      "host": "rasrajayurvedipharmacy.com",
+      "state": "Rajasthan",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Revinto Life Science Pvt. Ltd.",
+      "host": "revinto.in",
+      "state": "Karnataka",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 2
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Sahyadri Ayurvedic Pharmaceuticals",
+      "host": "sahyadriayurveda.com",
+      "state": "Kerala",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 13
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [
+        "chatgpt-user",
+        "perplexitybot",
+        "claude-searchbot",
+        "claude-user",
+        "google-extended",
+        "applebot-extended",
+        "gptbot",
+        "claudebot",
+        "meta-externalagent",
+        "ccbot",
+        "bytespider"
+      ],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": false,
+        "ClaudeBot": false,
+        "CCBot": false,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Keraleeya Ayurveda Samajam",
+      "host": "samajamonline.com",
+      "state": "Kerala",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Sanskar Ayush Medicare Pvt. Ltd.",
+      "host": "sanskarayush.in",
+      "state": "Uttarakhand",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Satyam Health Care",
+      "host": "satyamhealthcare.co.in",
+      "state": "Gujarat",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Sri Dharmasthala Manjunatheshwara (SDM) Ayurveda Pharmacy",
+      "host": "sdmayupharmacy.com",
+      "state": "Karnataka",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 2
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "SDP Remedies & Research Centre (SDP Ayurveda)",
+      "host": "sdpayurveda.com",
       "state": "Karnataka",
       "sellsClassical": true,
       "robots": {
@@ -3439,6 +3281,366 @@
         "verdict": "rules",
         "note": null,
         "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "S. G. Phyto Pharma Pvt. Ltd.",
+      "host": "sgphyto.com",
+      "state": "Maharashtra",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 2
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Shakumbhri Groups",
+      "host": "shakumbhrigroups.co.in",
+      "state": "Madhya Pradesh",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Sharangdhar Pharmaceuticals Pvt. Ltd.",
+      "host": "sharangdhar.com",
+      "state": "Maharashtra",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 2
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Sharangdhar Pharmaceuticals Pvt. Ltd.",
+      "host": "sharangdhar.in",
+      "state": "Maharashtra",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Shesha Ayurveda",
+      "host": "sheshaayurveda.com",
+      "state": "Kerala",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 17
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [
+        "google-extended",
+        "gptbot",
+        "chatgpt-user",
+        "claudebot",
+        "anthropic-ai",
+        "perplexitybot",
+        "meta-externalagent"
+      ],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Shivayu Ayurved Limited",
+      "host": "shivayuayurved.com",
+      "state": "Maharashtra",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Shree Dhanwantri Herbals",
+      "host": "shreedhanwantri.com",
+      "state": "Punjab",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Shree Shanker Ayurvedic Pharmacy",
+      "host": "shreeshankerayurvedicpharmacy.com",
+      "state": "Gujarat",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 2
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Shri Dhanwantri Ayurvedic Medical College & Research Centre Pharmacy",
+      "host": "shridhanwantrigroup.com",
+      "state": "Uttar Pradesh",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "open",
+        "note": null,
+        "groups": 0
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Shri Ganga Pharmacy",
+      "host": "shrigangapharmacy.com",
+      "state": "Uttarakhand",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Shriji Herbal Products",
+      "host": "shrijiherbalproducts.net",
+      "state": "Maharashtra",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Sidheswara Drugs",
+      "host": "sidheswaradrugs.com",
+      "state": "Kerala",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Sree Sitaraghava Vaidyasala",
+      "host": "sitaraghava.com",
+      "state": "Karnataka",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 2
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Sri Sankara Ayur Pharmacy, Sri Jayendra Saraswathi Ayurveda College & Hospital",
+      "host": "sjsach.org.in",
+      "state": "Tamil Nadu",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "SKM Siddha and Ayurvedha Company (India) Limited",
+      "host": "skmsiddha.com",
+      "state": "Tamil Nadu",
+      "sellsClassical": true,
+      "robots": {
+        "status": 404,
+        "verdict": "open",
+        "note": "no robots.txt (404)",
+        "groups": 0
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "SMV Herbal Remedies Private Limited",
+      "host": "smvherbals.com",
+      "state": "Kerala",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "open",
+        "note": null,
+        "groups": 0
       },
       "catalogueReadable": true,
       "aiAgentsNamed": [],
@@ -3474,31 +3676,9 @@
       }
     },
     {
-      "name": "Muniyal Ayurveda (Muniyal Herbals & Ayurvedic Remedies Ltd)",
-      "host": "ayurvedas.com",
-      "state": "Karnataka",
-      "sellsClassical": true,
-      "robots": {
-        "status": 200,
-        "verdict": "rules",
-        "note": null,
-        "groups": 2
-      },
-      "catalogueReadable": true,
-      "aiAgentsNamed": [],
-      "permits": {
-        "Googlebot": true,
-        "bingbot": true,
-        "GPTBot": true,
-        "ClaudeBot": true,
-        "CCBot": true,
-        "PerplexityBot": true
-      }
-    },
-    {
-      "name": "ASHTANGA Ayurvedics (K.S. Varier's Ashtanga Ayurvedics (P) Ltd)",
-      "host": "ashtangam.com",
-      "state": "Tamil Nadu",
+      "name": "Sreedhareeyam Farmherbs India Private Limited",
+      "host": "sreedhareeyam.com",
+      "state": "Kerala",
       "sellsClassical": true,
       "robots": {
         "status": 200,
@@ -3518,32 +3698,54 @@
       }
     },
     {
-      "name": "Kesari Kuteeram Private Limited",
-      "host": "kesarikuteeram.in",
-      "state": "Tamil Nadu",
+      "name": "Sreeram Herbal Remedies (P) Ltd",
+      "host": "sreeramherbals.com",
+      "state": "Kerala",
       "sellsClassical": true,
       "robots": {
-        "status": null,
-        "verdict": "unknown",
-        "note": "TypeError: fetch failed (after 3 attempts)",
+        "status": 200,
+        "verdict": "open",
+        "note": "robots.txt served HTML, treated as absent",
         "groups": 0
       },
-      "catalogueReadable": false,
+      "catalogueReadable": true,
       "aiAgentsNamed": [],
       "permits": {
-        "Googlebot": null,
-        "bingbot": null,
-        "GPTBot": null,
-        "ClaudeBot": null,
-        "CCBot": null,
-        "PerplexityBot": null
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
       }
     },
     {
-      "name": "Best Research Pharma",
-      "host": "bestayush.com",
-      "state": "Tamil Nadu",
+      "name": "Sricure Herbs (India) Private Limited",
+      "host": "sricureherbs.in",
+      "state": "Haryana",
       "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Sushila Herbal",
+      "host": "sushilaherbal.com",
+      "state": "Madhya Pradesh",
+      "sellsClassical": true,
       "robots": {
         "status": 200,
         "verdict": "rules",
@@ -3562,14 +3764,156 @@
       }
     },
     {
-      "name": "Dhanvantari Guj. Herb",
-      "host": "dhanvantari.co.in",
+      "name": "Swadeshi Ayurved",
+      "host": "swadeshiayurved.com",
+      "state": "Uttarakhand",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 2
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Shree Swami Atmanand Saraswati Ayurvedic Co-operative Pharmacy Ltd (ASFA)",
+      "host": "swamiasfa.com",
+      "state": "Gujarat",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "open",
+        "note": "robots.txt served HTML, treated as absent",
+        "groups": 0
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Swargashram Trust Aushadhalaya and Nirmaan Shala",
+      "host": "swargashram.org",
+      "state": "Uttarakhand",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 20
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [
+        "applebot-extended",
+        "bytespider",
+        "ccbot",
+        "claudebot",
+        "google-extended",
+        "gptbot",
+        "meta-externalagent",
+        "claude-user",
+        "perplexitybot"
+      ],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": false,
+        "ClaudeBot": false,
+        "CCBot": false,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Swasthya Vardhak Pharmacy Pvt. Ltd.",
+      "host": "swasthyavardhak.com",
+      "state": "Uttar Pradesh",
+      "sellsClassical": true,
+      "robots": {
+        "status": 404,
+        "verdict": "open",
+        "note": "no robots.txt (404)",
+        "groups": 0
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Tansukh Herbals Private Limited",
+      "host": "tansukhherbals.com",
+      "state": "Uttar Pradesh",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 2
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Trilochan Ayurveda",
+      "host": "trilochanayurveda.com",
       "state": "Gujarat",
       "sellsClassical": true,
       "robots": {
         "status": 200,
         "verdict": "rules",
         "note": null,
+        "groups": 2
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Uma Ayurvedics Pvt Ltd (Uma Ayurveda)",
+      "host": "umaayurveda.com",
+      "state": "Uttar Pradesh",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
         "groups": 1
       },
       "catalogueReadable": true,
@@ -3584,15 +3928,235 @@
       }
     },
     {
-      "name": "Arya Aushadhi Pharmaceutical Works",
-      "host": "aryaaushadhi.com",
-      "state": "Maharashtra",
+      "name": "Uma Ayurvedics Pvt. Ltd.",
+      "host": "umaayurvedics.com",
+      "state": "Uttar Pradesh",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Uma Ayurvedics Private Limited",
+      "host": "umaayurvedics.in",
+      "state": "Uttar Pradesh",
       "sellsClassical": true,
       "robots": {
         "status": 200,
         "verdict": "rules",
         "note": null,
         "groups": 6
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Unijules Life Sciences Ltd",
+      "host": "unijules.com",
+      "state": "Maharashtra",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "open",
+        "note": "robots.txt served HTML, treated as absent",
+        "groups": 0
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "United Pharma",
+      "host": "unitedpharma.co.in",
+      "state": "Uttar Pradesh",
+      "sellsClassical": false,
+      "robots": {
+        "status": 404,
+        "verdict": "open",
+        "note": "no robots.txt (404)",
+        "groups": 0
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Vaid Dhanvantari Ayurveda",
+      "host": "vaiddhanvantariayurveda.com",
+      "state": "Punjab",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Vaidyamadham Vaidyasala & Nursing Home",
+      "host": "vaidyamadham.com",
+      "state": "Kerala",
+      "sellsClassical": false,
+      "robots": {
+        "status": 404,
+        "verdict": "open",
+        "note": "no robots.txt (404)",
+        "groups": 0
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Venkateswara Ayurveda Nilayam Ltd",
+      "host": "vanchintaluru.com",
+      "state": "Andhra Pradesh",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Vasishta Pharmaceuticals",
+      "host": "vasishtapharma.com",
+      "state": "Karnataka",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Vasu Healthcare Pvt. Ltd.",
+      "host": "vasuhealthcare.com",
+      "state": "Gujarat",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Vedic Pharmacy",
+      "host": "vedicpharmacy.in",
+      "state": "Uttar Pradesh",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Vedi Herbals (HempCann Solutions Pvt. Ltd.)",
+      "host": "vediherbals.com",
+      "state": "Odisha",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 2
       },
       "catalogueReadable": true,
       "aiAgentsNamed": [],
@@ -3628,14 +4192,58 @@
       }
     },
     {
-      "name": "Dr. P. Alikutty's Ayurveda Pharmaceuticals",
-      "host": "drpalikuttyspharma.com",
-      "state": "Kerala",
+      "name": "Vindhya Herbals - M.P. State Minor Forest Produce (Trading & Development) Co-operative Federation Ltd",
+      "host": "vindhyaherbals.in",
+      "state": "Madhya Pradesh",
       "sellsClassical": true,
       "robots": {
         "status": 200,
-        "verdict": "open",
+        "verdict": "rules",
         "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Virgo Uap Pharma Pvt. Ltd.",
+      "host": "virgouappharma.in",
+      "state": "Gujarat",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Vishnu Ayurveda College Pharmacy",
+      "host": "vishnuayurvedacollege.in",
+      "state": "Kerala",
+      "sellsClassical": false,
+      "robots": {
+        "status": 404,
+        "verdict": "open",
+        "note": "no robots.txt (404)",
         "groups": 0
       },
       "catalogueReadable": true,
@@ -3650,9 +4258,141 @@
       }
     },
     {
-      "name": "Vedi Herbals (HempCann Solutions Pvt. Ltd.)",
-      "host": "vediherbals.com",
-      "state": "Odisha",
+      "name": "Vishwachaitanya Ayurvediya Rasashala",
+      "host": "vishwachaitanya.com",
+      "state": "Maharashtra",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Vyas Pharmaceuticals",
+      "host": "vyaspharma.com",
+      "state": "Madhya Pradesh",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Welex Laboratories Private Limited",
+      "host": "welexcare.com",
+      "state": "Maharashtra",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 2
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Wilson Drugs & Pharmaceuticals Private Limited",
+      "host": "wilsondrugs.com",
+      "state": "Himachal Pradesh",
+      "sellsClassical": true,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 2
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Yajurvid Ayurveda (Yajurvid Pharma)",
+      "host": "yajurvidayurveda.com",
+      "state": "Rajasthan",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Yamuna Pharmacy",
+      "host": "yamunapharmacy.com",
+      "state": "Haryana",
+      "sellsClassical": false,
+      "robots": {
+        "status": 200,
+        "verdict": "rules",
+        "note": null,
+        "groups": 1
+      },
+      "catalogueReadable": true,
+      "aiAgentsNamed": [],
+      "permits": {
+        "Googlebot": true,
+        "bingbot": true,
+        "GPTBot": true,
+        "ClaudeBot": true,
+        "CCBot": true,
+        "PerplexityBot": true
+      }
+    },
+    {
+      "name": "Zoic Pharmaceuticals",
+      "host": "zoicpharmaceuticals.com",
+      "state": "Punjab",
       "sellsClassical": true,
       "robots": {
         "status": 200,
@@ -3672,76 +4412,5 @@
       }
     }
   ],
-  "excluded": [
-    {
-      "host": "uniraylifesciences.co.in",
-      "name": "Uniray Lifesciences",
-      "why": "finding agents recorded status \"squatted\""
-    },
-    {
-      "host": "jssamch.org",
-      "name": "JSS Ayur (JSS Ayurveda Hospital drug manufacturing unit)",
-      "why": "finding agents recorded status \"squatted\""
-    },
-    {
-      "host": "impclmohan.nic.in",
-      "name": "Indian Medicines Pharmaceutical Corporation Limited (IMPCL)",
-      "why": "finding agents recorded status \"unreachable\""
-    },
-    {
-      "host": "davayurveda.com",
-      "name": "Dayanand Ayurvedic College Hospital and Pharmacy (DAV Pharmacy)",
-      "why": "finding agents recorded status \"not-ayurvedic\""
-    },
-    {
-      "host": "somatheeram.org",
-      "name": "Somatheeram Ayurvedic Hospital & Yoga Centre Pvt. Ltd.",
-      "why": "finding agents recorded status \"not-ayurvedic\""
-    },
-    {
-      "host": "gynoveda.com",
-      "name": "Gynoveda Femtech Pvt. Ltd.",
-      "why": "finding agents recorded status \"not-ayurvedic\""
-    },
-    {
-      "host": "upkaranpharmaceuticals.com",
-      "name": "Upkaran Pharmaceuticals",
-      "why": "finding agents recorded status \"not-ayurvedic\""
-    },
-    {
-      "host": "amsar.com",
-      "name": "Amsar Goa Private Limited",
-      "why": "finding agents recorded status \"not-ayurvedic\""
-    },
-    {
-      "host": "paprolaayurved.org",
-      "name": "Charak Ayurved Pharmacy, Paprola",
-      "why": "finding agents recorded status \"wrong-entity\""
-    },
-    {
-      "host": "chhattisgarhherbal.com",
-      "name": "Chhattisgarh State Minor Forest Produce (Trading & Development) Co-operative Federation Ltd (brand: Chhattisgarh Herbals)",
-      "why": "finding agents recorded status \"not-ayurvedic\""
-    },
-    {
-      "host": "vasudeva.com",
-      "name": "Vasudeva Vilasam",
-      "why": "finding agents recorded status \"not-ayurvedic\""
-    },
-    {
-      "host": "pulamantholemooss.com",
-      "name": "Pulamanthole Mooss",
-      "why": "demonstration site, carries a Wichita, Kansas address"
-    },
-    {
-      "host": "banlabs.com",
-      "name": "Ban Labs Pvt. Ltd. (Ban Group)",
-      "why": "wrong legal entity for the company it was proposed as"
-    },
-    {
-      "host": "dhathri.com",
-      "name": "Dhathri Ayurveda",
-      "why": "finding agents recorded status \"duplicate\""
-    }
-  ]
+  "excluded": []
 }
