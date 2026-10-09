@@ -28,6 +28,15 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { resolveAll, loadCache, saveCache, getJson, getJsonWithBackoff } from './lib/enrich.mjs';
 import { get } from './lib/fetch.mjs';
+/**
+ * The entity decoder is imported rather than rewritten, from the one module in this project that
+ * already has it under test. PubMed abstracts arrive with entities undecoded: 157 of the 2,850
+ * descriptions carried raw codes, so a phytochemistry corpus was publishing "&#x3b2;-sitosterol"
+ * where a beta belongs, plus non-breaking and thin spaces and the occasional `<b>` tag. Writing a
+ * second decoder beside the first is how the two drift apart; product-extract.mjs is a pure module
+ * with no module-scope side effects, so importing it starts nothing.
+ */
+import { decodeEntities } from './lib/product-extract.mjs';
 
 const LIMIT = Number((process.argv.find((a) => a.startsWith('--limit=')) ?? '').split('=')[1]) || Infinity;
 const MAIL = 'contact@ageayurveda.com';
@@ -136,14 +145,60 @@ absCache.entries ??= {};
 }
 
 // ---------------------------------------------------------------- the ladder
-/** The opening of an abstract says what a paper set out to do. Two sentences, at most 300 chars. */
+/**
+ * The opening of an abstract says what a paper set out to do. Two sentences, at most 300 chars.
+ *
+ * WHY THIS IS MORE CAREFUL THAN IT LOOKS. The obvious version of this, splitting on a period
+ * followed by whitespace and dropping fragments under 25 characters, mangled 170 of the 2,766
+ * values it produced, and the mangling was invisible because the result still read like a sentence.
+ *
+ * A pharmacognosy abstract almost always opens with a binomial and its authority:
+ * "Glycyrrhiza glabra L. (Fabaceae), commonly known as liquorice, has been valued for millennia".
+ * The naive split breaks after "L.", giving a 21-character first fragment which the length filter
+ * then discarded as noise, so the published description began "(Fabaceae), commonly known as
+ * liquorice" with the plant's name removed. An abbreviated genus does the same thing mid-sentence:
+ * "a perennial herb aka C. pluricaulis" split after "C." and produced "aka C. is being used".
+ *
+ * So two changes. Abbreviations are protected before the split rather than repaired after it, and
+ * the length filter never applies to the first sentence, because the opening of an abstract is the
+ * one part that is certainly wanted whatever its length.
+ */
+const ABBREV = [
+  // A single initial, which is how an authority is written: Linnaeus is "L.", Lamarck "Lam."
+  String.raw`\b[A-Z]\.`,
+  // Botanical and taxonomic abbreviations that end in a period mid-sentence.
+  String.raw`\b(?:Lam|Linn|DC|Benth|Hook|Roxb|Wall|Willd|Nees|Burm|Vahl|Gaertn|Retz|Schult|Pers|Mill|Spreng|Thunb)\.`,
+  String.raw`\b(?:spp|sp|var|subsp|ssp|cv|cf|aff|nom|syn|auct|emend|ex|f)\.`,
+  // General prose abbreviations.
+  String.raw`\b(?:e\.g|i\.e|etc|vs|approx|ca|cf|Fig|Figs|No|Nos|Dr|Prof|et\s+al)\.`,
+];
+const PROTECT = new RegExp(`(${ABBREV.join('|')})\\s`, 'g');
+const SENTINEL = ' ';
+
 function investigates(abstract) {
   if (!abstract) return '';
-  const s = abstract.split(/(?<=[.!?])\s+/).filter((x) => x.length > 25);
-  let out = '';
-  for (const sent of s) {
-    if ((out + ' ' + sent).length > 300) break;
-    out = out ? `${out} ${sent}` : sent;
+  // Decode before anything else measures or splits the text: an entity is several characters
+  // standing for one, so a length test run before decoding is measuring the wrong string, and a
+  // `&lt;b&gt;` left in place becomes visible markup in a published description.
+  const clean = decodeEntities(String(abstract))
+    .replace(/<\/?[a-z][^>]*>/gi, ' ')
+    .replace(/[\u00a0\u2000-\u200a\u202f\u205f]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+  if (!clean) return '';
+  // Hide the space after a protected abbreviation so the splitter cannot see a boundary there.
+  const guarded = clean.replace(PROTECT, (m) => m.replace(/\s$/, SENTINEL));
+  const parts = guarded.split(/(?<=[.!?])\s+/)
+    .map((x) => x.split(SENTINEL).join(' ').trim())
+    .filter(Boolean);
+  if (!parts.length) return '';
+
+  let out = parts[0];
+  for (const sent of parts.slice(1)) {
+    // A trailing fragment too short to be a sentence is section furniture, not prose.
+    if (sent.length <= 25) continue;
+    if (`${out} ${sent}`.length > 300) break;
+    out = `${out} ${sent}`;
     if (out.length > 140) break;
   }
   return out;
