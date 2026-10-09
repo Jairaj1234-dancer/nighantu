@@ -20,8 +20,8 @@ source tree rather than the data. This version deposits each dataset as its own 
 
 For every cited paper, the most openly readable copy that could be found: open-access full text where it exists, then PubMed Central, then the DOI.
 
-- 2.77 MB
-- sha256 `d8392b0b36a6c8f12f25cf02fc2c9b8db30b92dd6de4cf6968375fc4cff0f0a5`
+- 3.18 MB
+- sha256 `bdda2c09701117e15d781d8f31d1b0ceabb611333aeb260ee11e5479d0c2d1f6`
 - live copy: https://nighantu.ageayurveda.com/access.json
 
 ### `afi-crosswalk.csv`

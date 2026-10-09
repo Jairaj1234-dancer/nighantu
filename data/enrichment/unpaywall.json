@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-09-12",
- "count": 2743,
+ "updatedAt": "2026-10-09",
+ "count": 2757,
  "entries": {
   "10.1001/jama.294.18.2342": {
    "status": "ok",
@@ -3630,6 +3630,18 @@
    "locations": [],
    "checkedAt": "2026-09-12"
   },
+  "10.1007/s00253-023-12695-x": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Applied Microbiology and Biotechnology",
+   "publisher": "Springer Science and Business Media LLC",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-09"
+  },
   "10.1007/s00299-011-1087-x": {
    "status": "ok",
    "isOa": false,
@@ -5166,6 +5178,18 @@
    "locations": [],
    "checkedAt": "2026-09-12"
   },
+  "10.1007/s11655-021-3353-2": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Chinese Journal of Integrative Medicine",
+   "publisher": "Springer Science and Business Media LLC",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-09"
+  },
   "10.1007/s11655-023-3563-x": {
    "status": "ok",
    "isOa": false,
@@ -5535,6 +5559,18 @@
    "bestLanding": "",
    "locations": [],
    "checkedAt": "2026-09-12"
+  },
+  "10.1007/s12032-024-02379-5": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Medical Oncology",
+   "publisher": "Springer Science and Business Media LLC",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-09"
   },
   "10.1007/s12038-011-9106-1": {
    "status": "ok",
@@ -10157,6 +10193,43 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.1016/j.heliyon.2022.e10220": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Heliyon",
+   "publisher": "Elsevier BV",
+   "bestHost": "publisher",
+   "bestPdf": "http://www.cell.com/article/S2405844022015080/pdf",
+   "bestLanding": "https://doi.org/10.1016/j.heliyon.2022.e10220",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "http://www.cell.com/article/S2405844022015080/pdf",
+     "landing": "https://doi.org/10.1016/j.heliyon.2022.e10220"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/9424961"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://scholarworks.utrgv.edu/chem_fac/284"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/0554907963ad43d5a18700c6c83df14e"
+    }
+   ],
+   "checkedAt": "2026-10-09"
   },
   "10.1016/j.heliyon.2022.e12586": {
    "status": "ok",
@@ -22897,6 +22970,18 @@
    "locations": [],
    "checkedAt": "2026-09-12"
   },
+  "10.1089/acm.2021.0083": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "The Journal of Alternative and Complementary Medicine",
+   "publisher": "SAGE Publications",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-09"
+  },
   "10.1089/cbr.2018.2532": {
    "status": "ok",
    "isOa": false,
@@ -27545,6 +27630,74 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.1155/2022/5359669": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "hybrid",
+   "journal": "Evidence-based Complementary and Alternative Medicine",
+   "publisher": "Wiley",
+   "bestHost": "publisher",
+   "bestPdf": "https://downloads.hindawi.com/journals/ecam/2022/5359669.pdf",
+   "bestLanding": "https://doi.org/10.1155/2022/5359669",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://downloads.hindawi.com/journals/ecam/2022/5359669.pdf",
+     "landing": "https://doi.org/10.1155/2022/5359669"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/9050289"
+    }
+   ],
+   "checkedAt": "2026-10-09"
+  },
+  "10.1155/2022/6025900": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "hybrid",
+   "journal": "Oxidative Medicine and Cellular Longevity",
+   "publisher": "Wiley",
+   "bestHost": "publisher",
+   "bestPdf": "https://downloads.hindawi.com/journals/omcl/2022/6025900.pdf",
+   "bestLanding": "https://doi.org/10.1155/2022/6025900",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://downloads.hindawi.com/journals/omcl/2022/6025900.pdf",
+     "landing": "https://doi.org/10.1155/2022/6025900"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "https://repositorio.ufro.cl/files/original/17d0d659919a1281c7b737bbdaabf04dd27e67d4.pdf",
+     "landing": "https://repositorio.ufro.cl/s/repositorio-ufro/item/7252"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/8837466"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/f2758b2a27a040eabe205b973b6a0320"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://hdl.handle.net/2318/1881431"
+    }
+   ],
+   "checkedAt": "2026-10-09"
+  },
   "10.1155/2022/6449550": {
    "status": "ok",
    "isOa": true,
@@ -28575,6 +28728,37 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.1177/11786388221095223": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Nutrition and Metabolic Insights",
+   "publisher": "SAGE Publications",
+   "bestHost": "publisher",
+   "bestPdf": "",
+   "bestLanding": "https://doi.org/10.1177/11786388221095223",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "",
+     "landing": "https://doi.org/10.1177/11786388221095223"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/9335478"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/4e92a820b4ea4f01a4c1e414613041cf"
+    }
+   ],
+   "checkedAt": "2026-10-09"
   },
   "10.1177/1534735410376068": {
    "status": "ok",
@@ -34426,6 +34610,18 @@
    "locations": [],
    "checkedAt": "2026-09-12"
   },
+  "10.2174/1386207324666210813121431": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Combinatorial Chemistry & High Throughput Screening",
+   "publisher": "Bentham Science Publishers Ltd.",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-09"
+  },
   "10.2174/1386207325666220428105255": {
    "status": "ok",
    "isOa": false,
@@ -36450,6 +36646,37 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.3389/fendo.2023.1269781": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Frontiers in Endocrinology",
+   "publisher": "Frontiers Media SA",
+   "bestHost": "publisher",
+   "bestPdf": "https://www.frontiersin.org/articles/10.3389/fendo.2023.1269781/pdf?isPublishedV2=False",
+   "bestLanding": "https://doi.org/10.3389/fendo.2023.1269781",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://www.frontiersin.org/articles/10.3389/fendo.2023.1269781/pdf?isPublishedV2=False",
+     "landing": "https://doi.org/10.3389/fendo.2023.1269781"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10702745/pdf/fendo-14-1269781.pdf",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/10702745"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/2b78e19a0d754e6a9e3d50b74fb01e7f"
+    }
+   ],
+   "checkedAt": "2026-10-09"
+  },
   "10.3389/fimmu.2022.891822": {
    "status": "ok",
    "isOa": true,
@@ -37292,6 +37519,37 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.3389/fnut.2022.965130": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Frontiers in Nutrition",
+   "publisher": "Frontiers Media SA",
+   "bestHost": "publisher",
+   "bestPdf": "https://www.frontiersin.org/articles/10.3389/fnut.2022.965130/pdf",
+   "bestLanding": "https://doi.org/10.3389/fnut.2022.965130",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://www.frontiersin.org/articles/10.3389/fnut.2022.965130/pdf",
+     "landing": "https://doi.org/10.3389/fnut.2022.965130"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/9524226"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/2245bbf06d3f4e57aac8e22bdc60a50f"
+    }
+   ],
+   "checkedAt": "2026-10-09"
   },
   "10.3389/fnut.2022.998929": {
    "status": "ok",
@@ -38302,6 +38560,37 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.3389/fphar.2022.965390": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Frontiers in Pharmacology",
+   "publisher": "Frontiers Media SA",
+   "bestHost": "publisher",
+   "bestPdf": "https://www.frontiersin.org/articles/10.3389/fphar.2022.965390/pdf",
+   "bestLanding": "https://doi.org/10.3389/fphar.2022.965390",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://www.frontiersin.org/articles/10.3389/fphar.2022.965390/pdf",
+     "landing": "https://doi.org/10.3389/fphar.2022.965390"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/9500525"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/5a5f89a933df43d8a835498d4f4d154f"
+    }
+   ],
+   "checkedAt": "2026-10-09"
   },
   "10.3389/fphar.2024.1288382": {
    "status": "ok",
@@ -42998,6 +43287,31 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.3390/ijms241914561": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "International Journal of Molecular Sciences",
+   "publisher": "MDPI AG",
+   "bestHost": "publisher",
+   "bestPdf": "https://www.mdpi.com/1422-0067/24/19/14561/pdf?version=1695713846",
+   "bestLanding": "https://doi.org/10.3390/ijms241914561",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://www.mdpi.com/1422-0067/24/19/14561/pdf?version=1695713846",
+     "landing": "https://doi.org/10.3390/ijms241914561"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10572432/pdf/ijms-24-14561.pdf",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/10572432"
+    }
+   ],
+   "checkedAt": "2026-10-09"
+  },
   "10.3390/ijms242015444": {
    "status": "ok",
    "isOa": true,
@@ -46201,6 +46515,37 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.3390/molecules27206940": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Molecules",
+   "publisher": "MDPI AG",
+   "bestHost": "publisher",
+   "bestPdf": "https://www.mdpi.com/1420-3049/27/20/6940/pdf?version=1665912553",
+   "bestLanding": "https://doi.org/10.3390/molecules27206940",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://www.mdpi.com/1420-3049/27/20/6940/pdf?version=1665912553",
+     "landing": "https://doi.org/10.3390/molecules27206940"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/9610210"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/0b0ec095b37c4fa496cb3bbfaf80d3bc"
+    }
+   ],
+   "checkedAt": "2026-10-09"
   },
   "10.3390/molecules27206964": {
    "status": "ok",
