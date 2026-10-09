@@ -7,7 +7,7 @@
   "site": "https://nighantu.ageayurveda.com",
   "datasetsPage": "https://nighantu.ageayurveda.com/datasets/",
   "fileCount": 31,
-  "totalBytes": 19453272,
+  "totalBytes": 19533999,
   "files": [
     {
       "file": "access.json",
@@ -111,17 +111,17 @@
     {
       "file": "dose-comparison.csv",
       "sourcePath": "dose-comparison.csv",
-      "bytes": 17399,
-      "sha256": "51658787754f18cbb780b45f6c3aa9418c46786eac8574ffea29be944b2ff152",
-      "csvRows": 60,
+      "bytes": 36427,
+      "sha256": "1f54a334ca632a7dda98371517404936015aaa7fc8007b20070bd9efc82a2700",
+      "csvRows": 129,
       "describes": "The dose comparison, one row per compared product page.",
       "liveAt": "https://nighantu.ageayurveda.com/dose-comparison.csv"
     },
     {
       "file": "dose-comparison.json",
       "sourcePath": "dose-comparison.json",
-      "bytes": 68197,
-      "sha256": "2d50b446dfe60c3f98cc83f67c74d0ead7b4fab9dfb32caba2103571adc8ec9c",
+      "bytes": 129896,
+      "sha256": "73343639981c669869fa8d88b753361ecb3f4ee0862562386dd00f412214c665",
       "csvRows": null,
       "describes": "Manufacturers' stated doses against the dose the Ayurvedic Formulary of India states for the same classical preparation, with each manufacturer's own wording and the page it was read from. Includes the claims withheld on an adversarial check, with reasons.",
       "liveAt": "https://nighantu.ageayurveda.com/dose-comparison.json"
