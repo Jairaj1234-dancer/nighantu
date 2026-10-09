@@ -22,6 +22,24 @@
  * publish themselves. The review URL is printed at the end. Nothing here is irreversible: a draft
  * can be discarded.
  *
+ * WHY RELEASES NO LONGER ARCHIVE THEMSELVES, which is a deliberate change and not a lapse.
+ *
+ * This repository had a Zenodo webhook firing on `release`, and that webhook is what created the
+ * zip-only deposit in the first place. Leaving it armed would have undone this on the next release:
+ * a new version containing one repository archive, becoming the newest version, so the concept DOI
+ * would resolve to a zip again and the fix would silently expire. The webhook (id 680623506) was
+ * therefore disabled on 9 October 2026, by `gh api -X PATCH .../hooks/680623506 -F active=false`.
+ * It is disabled rather than deleted, so re-enabling it is one call if that turns out to be wrong.
+ *
+ * Nothing is lost by disabling it, and this was checked rather than assumed. The source is archived
+ * independently by Software Heritage, through a second webhook that fires on PUSH rather than on
+ * release: at the time of writing that origin has 108 visits with full snapshots, the most recent
+ * the same day. So the division is now the one the record types already imply. Software Heritage
+ * holds the code, continuously. Zenodo holds the data, under a DOI typed `dataset`.
+ *
+ * The consequence to remember: depositing is now a deliberate act. Run this script when the
+ * datasets have moved enough to be worth a new version, and expect nothing to happen on its own.
+ *
  *   node scripts/zenodo-deposit.mjs                    report what would be deposited, contact nobody
  *   node scripts/zenodo-deposit.mjs --manifest         write the manifest and README into public/
  *   ZENODO_TOKEN=... node scripts/zenodo-deposit.mjs --deposit    create the draft and upload
