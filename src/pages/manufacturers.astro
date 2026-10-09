@@ -51,6 +51,20 @@ const states = [...byState.entries()]
 
 const named = companies.filter((c) => (c.aiAgentsNamed ?? []).length > 0);
 const blocks = companies.filter((c) => c.permits && AI.some((a) => c.permits[a] === false));
+/**
+ * A CONSIDERED decision, which is narrower than "blocks something".
+ *
+ * `blocks` counts any host refusing any AI crawler, and that set includes one with a blanket
+ * `Disallow: /` which refuses Googlebot too. A site closed to everything has not made a decision
+ * about AI; it has made no decision about anything. The interesting group is the one that named
+ * these crawlers AND refused the training ones AND kept the search engines, because that is a
+ * distinction somebody sat down and drew. The page said "two of the four" when the register held
+ * 164, then rendered "4 of the 6" from `blocks` when it grew, which is how a count drifts into a
+ * claim it was never measuring.
+ */
+const TRAINING = ['GPTBot', 'ClaudeBot', 'CCBot'];
+const considered = named.filter((c) => TRAINING.some((a) => c.permits?.[a] === false)
+  && c.permits?.Googlebot === true);
 const unreadable = companies.filter((c) => c.robots?.verdict === 'unknown');
 const permitCount = (agent: string) => companies.filter((c) => c.permits?.[agent] === true).length;
 
@@ -132,10 +146,12 @@ const jsonld = [
     </table>
   </div>
 
-  <h2>The four that addressed AI crawlers, and what they decided</h2>
+  <h2>The {named.length} that addressed AI crawlers, and what they decided</h2>
   <p>
-    Worth naming individually because there are so few of them, and because two of the four made a
-    distinction the rest of the industry has not: search engines yes, training crawlers no.
+    Worth naming individually because there are so few of them, and because {considered.length} of
+    the {named.length} drew a distinction the rest of the industry has not: they refuse GPTBot,
+    ClaudeBot and CCBot while keeping Googlebot. Counted rather than typed, because this moves every
+    time the register grows and a hardcoded "four" was already wrong once.
   </p>
   <div class="tablewrap">
     <table>

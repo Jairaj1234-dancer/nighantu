@@ -156,16 +156,16 @@ Ayurvedic technical terms with every English rendering found for each, the sourc
 
 The manufacturer register as a table, with per-crawler permissions as columns.
 
-- 0.02 MB, 164 data rows
-- sha256 `cb2724acba927ded45845a56c954499f0da3abae1b3e40b976149cad4351d724`
+- 0.03 MB, 197 data rows
+- sha256 `b312ddf3de9abca1319904e83dd30f11c58617fefd0a6287c046500345231c13`
 - live copy: https://nighantu.ageayurveda.com/manufacturer-register.csv
 
 ### `manufacturer-register.json`
 
 A register of Indian Ayurvedic manufacturers with the website each publishes, the state it operates from, and what its robots.txt permits, measured one host at a time.
 
-- 0.09 MB
-- sha256 `cb16533ccfac5b5d5d9833b98ec4c19497b17805dbdfb03c6f0303b7946d06b4`
+- 0.10 MB
+- sha256 `2d44225db5aa85fe57fd1ae7f0499f0d64733367f762ad592b77f62567f5f840`
 - live copy: https://nighantu.ageayurveda.com/manufacturer-register.json
 
 ### `parquet_composition.parquet`
@@ -220,16 +220,16 @@ The botanical taxonomy as Parquet.
 
 The research index as a table.
 
-- 0.86 MB, 2,888 data rows
-- sha256 `071e3404438e7b501f1f478ef70a030459f748478719343b90e7b1989b242707`
+- 0.88 MB, 2,927 data rows
+- sha256 `704b968a3b6dcf14b26461e49a6a87920ee092562a4794ecfc4ceeec4d205a0f`
 - live copy: https://nighantu.ageayurveda.com/research.csv
 
 ### `research.json`
 
 Research papers cited across the site, each with its PubMed ID or DOI, the monographs that cite it, and a tier recording what kind of study it is rather than a verdict on it.
 
-- 1.71 MB
-- sha256 `f91c32893e1be7dc5ec35b23def4687823fca932ddea4d22290973275d24b3fc`
+- 1.73 MB
+- sha256 `7224b332f560f7721d50b5649e607a2b109b0c9de3efa70a1b323417c92a9a0c`
 - live copy: https://nighantu.ageayurveda.com/research.json
 
 ### `taxonomy.json`

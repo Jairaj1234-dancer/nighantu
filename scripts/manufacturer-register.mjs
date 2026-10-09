@@ -229,6 +229,44 @@ console.log(`  block at least one     ${blocksAnyAi.length}`);
 console.log(`  states represented     ${new Set(rows.map((r) => r.state).filter(Boolean)).size}`);
 
 
+/**
+ * THE REGISTER IS MERGED, NEVER REPLACED.
+ *
+ * This wrote `companies: rows`, so running it with a candidates file containing only newly
+ * verified hosts replaced the whole register with those hosts. Measuring 32 newly confirmed leads
+ * therefore deleted the 164 already in it, and the only reason nothing was lost is that
+ * src/data/manufacturer-register.json is committed and the previous version was one `git show`
+ * away. data/brands/register.json is gitignored and had no such safety net.
+ *
+ * That is the second instance of exactly this fault in one day: check-retractions had the same
+ * shape, where a later run could only see currently-cited papers and overwriting would have
+ * un-blocked ten retracted ones. The lesson is the same both times. A file that accumulates
+ * measurements must merge on its key and refuse to shrink, because the natural way to write it is
+ * to write what this run produced, and the natural way to run it is on a subset.
+ *
+ * A host measured again is refreshed in place, so re-measuring is how a stale row is updated. A
+ * host absent from this run keeps the measurement it had, with the date it was taken.
+ */
+const priorRows = fs.existsSync(OUT)
+  ? (JSON.parse(fs.readFileSync(OUT, 'utf8')).companies ?? [])
+  : [];
+const mergedRows = new Map(priorRows.map((r) => [r.host, r]));
+let freshlyMeasured = 0;
+let refreshedRows = 0;
+for (const r of rows) {
+  if (mergedRows.has(r.host)) refreshedRows += 1; else freshlyMeasured += 1;
+  mergedRows.set(r.host, { ...r, measuredOn: new Date().toLocaleDateString('en-CA') });
+}
+if (mergedRows.size < priorRows.length) {
+  console.error(`\nREFUSING TO WRITE: the merged register (${mergedRows.size}) is smaller than the`);
+  console.error(`one on disk (${priorRows.length}). A register must never shrink.`);
+  process.exit(1);
+}
+rows = [...mergedRows.values()].sort((a, b) => String(a.host).localeCompare(String(b.host)));
+console.log('');
+console.log(`register merged          ${rows.length} hosts `
+  + `(${freshlyMeasured} new, ${refreshedRows} refreshed, ${rows.length - freshlyMeasured - refreshedRows} retained)`);
+
 fs.mkdirSync(path.dirname(OUT), { recursive: true });
 fs.writeFileSync(OUT, `${JSON.stringify({
   agent: UA,
