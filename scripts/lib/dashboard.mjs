@@ -38,8 +38,7 @@ const tick = (ok) => (ok ? 'ok' : 'FAIL');
  * is a change of instrument, and showing two panels in one undifferentiated column is how a
  * rebuild gets read as a collapse.
  */
-function citationLogs() {
-  const dir = 'data';
+function citationLogs(dir = 'data') {
   if (!fs.existsSync(dir)) return [];
   return fs.readdirSync(dir)
     .filter((f) => /^citation-log.*\.csv$/.test(f) && !/probe/.test(f))
@@ -47,8 +46,22 @@ function citationLogs() {
     .sort();
 }
 
-function citationSummary() {
-  const files = citationLogs();
+/**
+ * EXPORTED, AND THE DIRECTORY IS AN ARGUMENT, so this can be tested.
+ *
+ * This function has reported a confident false zero four separate times: a positional parse that
+ * read the question text where `cited` belonged, a quoted-field matcher applied to an unquoted
+ * header, a hardcoded filename that log rotation emptied, and one header taken from the first file
+ * and applied to files with a different column order. Each failure looked like a measurement
+ * rather than a bug, and one survived three months because the dashboard's own footer explained
+ * the zero away as normal for a new domain.
+ *
+ * Every other load-bearing parser in this project is tested. The one measuring whether the project
+ * works was not, because it read a hardcoded path and was not exported, so there was nothing a
+ * test could hold. Both of those are now arguments rather than assumptions.
+ */
+export function citationSummary(dir = 'data') {
+  const files = citationLogs(dir);
   if (!files.length) return null;
 
   /*
