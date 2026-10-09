@@ -10,8 +10,10 @@ interface Props {
   canonical: string;
   jsonld?: Record<string, unknown> | Record<string, unknown>[];
   wide?: boolean;
+  /** Path without extension where this page's .md and .jsonld twins live, if it has them. */
+  twins?: string;
 }
-const { title, description, canonical, jsonld, wide = false } = Astro.props;
+const { title, description, canonical, jsonld, wide = false , twins } = Astro.props;
 // From the content ledger, not the clock: a build-time year would rewrite every
 // page on 1 January and trigger a full, pointless resubmission.
 const year = Math.max(
@@ -32,6 +34,23 @@ const year = Math.max(
     />
     <link rel="sitemap" href={rel('/sitemap-index.xml')} />
     <link rel="alternate" type="application/rss+xml" title={SITE_NAME} href={rel('/rss.xml')} />
+    {/*
+      ADVERTISE THE MACHINE TWINS FROM THE HEAD, which is how every cited reference database does
+      it and how this site did not. The markdown twin existed and was mentioned only in llms.txt
+      and as a footer link; the JSON-LD record did not exist at all. PubChem advertises its
+      per-compound JSON with exactly this element, and a consumer should not have to read a
+      separate file to learn the convention.
+
+      Emitted only where the twins are actually built, which is the content collections: a hub
+      page like /datasets/ has no .md or .jsonld and must not claim one, or site-audit would
+      rightly report an advertised-but-absent URL.
+    */}
+    {twins && (
+      <>
+        <link rel="alternate" type="text/markdown" title={`${SITE_NAME} (Markdown)`} href={rel(`${twins}.md`)} />
+        <link rel="alternate" type="application/ld+json" title={`${SITE_NAME} (JSON-LD record)`} href={rel(`${twins}.jsonld`)} />
+      </>
+    )}
     <Seo title={title} description={description} canonical={canonical} jsonld={jsonld} />
   </head>
   <body>

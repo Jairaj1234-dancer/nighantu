@@ -1,0 +1,71 @@
+---
+/**
+ * The evidence on this drug, counted and placed near the top.
+ *
+ * WHY HERE AND NOT FURTHER DOWN. Two separate measurements point the same way. Examine.com, one of
+ * the most-cited supplement references, puts a research roll-up in the first screen: "145
+ * references on this page, 3,023 participants in 36 trials, Evidence Grades A/B/C/D". And a study
+ * of 18,012 AI citations found 44.2% of cited passages came from the first 30% of the page, with
+ * definitions and numeric density the strongest content predictors.
+ *
+ * This site had the data and buried it. research.json links 2,892 papers to 394 pages with a tier
+ * on each, and a monograph's trial counts appeared only inside individual study summaries at around
+ * character offset 4,600. Nothing aggregated them anywhere, so the one sentence a reader or a model
+ * most wants, how much evidence exists and of what kind, was the one sentence the page never said.
+ *
+ * WHAT IT DOES NOT DO. It states no conclusion. Counting papers is not weighing them, a tier is a
+ * study design and not a verdict, and tier D is explicitly labelled as not showing an effect in
+ * people. The site's claims gate would reject a summary that read as a finding, and it should.
+ */
+import research from '../data/research.json';
+import { TIER_ORDER, TIER_LABEL } from '../lib/tiers';
+import { rel } from '../lib/site';
+
+interface Props { kind: string; slug: string }
+const { kind, slug } = Astro.props;
+
+const papers = ((research as any).papers ?? []).filter((p: any) =>
+  (p.subjects ?? []).some((s: any) => s.kind === kind && s.slug === slug));
+
+const byTier = Object.fromEntries(TIER_ORDER.map((t) => [t, papers.filter((p: any) => p.tier === t).length]));
+const years = papers.map((p: any) => p.year).filter(Boolean) as number[];
+const withDoi = papers.filter((p: any) => p.doi).length;
+const strongest = TIER_ORDER.find((t) => byTier[t] > 0) ?? null;
+---
+{papers.length > 0 && (
+  <section class="evidence-summary" aria-labelledby="evidence-summary-heading">
+    <h2 id="evidence-summary-heading">The evidence at a glance</h2>
+    <p class="count">
+      <strong>{papers.length}</strong> {papers.length === 1 ? 'paper' : 'papers'} on this site for
+      this drug{years.length > 1 && <>, published {Math.min(...years)} to {Math.max(...years)}</>}
+      {withDoi === papers.length
+        ? <>, every one with a DOI</>
+        : <>, {withDoi} with a DOI</>}.
+    </p>
+    <ul class="tiers">
+      {TIER_ORDER.filter((t) => byTier[t] > 0).map((t) => (
+        <li>
+          <strong>{byTier[t]}</strong> <span class="label">{TIER_LABEL[t]}</span>
+        </li>
+      ))}
+    </ul>
+    <p class="caveat">
+      A count is not a conclusion and a tier is a study design, not a verdict.
+      {byTier.D > 0 && byTier.A === 0 && byTier.B === 0 && (
+        <> Everything listed here is laboratory or animal work, which does not show an effect in people.</>
+      )}
+      {strongest === 'D' || <> Each paper is listed with what it measured on the page below.</>}
+      {' '}See <a href={rel('/research/')}>the research index</a> for how papers are tiered.
+    </p>
+  </section>
+)}
+
+<style>
+  .evidence-summary { margin: 1.5rem 0; padding: .9rem 1.1rem; border: 1px solid var(--rule); border-radius: 4px; }
+  .evidence-summary h2 { margin: 0 0 .5rem; font-size: 1.02rem; }
+  .evidence-summary .count { margin: 0 0 .5rem; font-size: .97rem; }
+  .tiers { list-style: none; margin: 0 0 .6rem; padding: 0; display: flex; flex-wrap: wrap; gap: .35rem 1.2rem; }
+  .tiers li { font-size: .92rem; }
+  .tiers .label { color: var(--ink-soft); }
+  .caveat { margin: 0; font-size: .86rem; color: var(--ink-soft); }
+</style>
