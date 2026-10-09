@@ -11,7 +11,7 @@
     "pagesRead": 6097,
     "pagesThatCouldNotBeRead": 2,
     "pagesRenderingClientSide": 11,
-    "pagesStatingADose": 3792,
+    "pagesStatingADose": 2999,
     "pagesNamingIngredients": 1931,
     "pagesCitingTheFormulary": 3,
     "pagesCitingAnyAuthority": 312,
@@ -39,7 +39,7 @@
         "pagesWithListOnly": 184,
         "pagesWithNeither": 195,
         "pagesUnreadable": 0,
-        "pagesStatingADose": 373,
+        "pagesStatingADose": 303,
         "pagesCitingTheFormulary": 0,
         "pagesCitingAnyAuthority": 104
       }
@@ -64,7 +64,7 @@
         "pagesWithListOnly": 1,
         "pagesWithNeither": 412,
         "pagesUnreadable": 0,
-        "pagesStatingADose": 251,
+        "pagesStatingADose": 12,
         "pagesCitingTheFormulary": 0,
         "pagesCitingAnyAuthority": 7
       }
@@ -139,7 +139,7 @@
         "pagesWithListOnly": 301,
         "pagesWithNeither": 650,
         "pagesUnreadable": 0,
-        "pagesStatingADose": 1132,
+        "pagesStatingADose": 920,
         "pagesCitingTheFormulary": 0,
         "pagesCitingAnyAuthority": 0
       }
@@ -164,7 +164,7 @@
         "pagesWithListOnly": 3,
         "pagesWithNeither": 274,
         "pagesUnreadable": 0,
-        "pagesStatingADose": 34,
+        "pagesStatingADose": 26,
         "pagesCitingTheFormulary": 0,
         "pagesCitingAnyAuthority": 0
       }
@@ -189,7 +189,7 @@
         "pagesWithListOnly": 170,
         "pagesWithNeither": 74,
         "pagesUnreadable": 0,
-        "pagesStatingADose": 242,
+        "pagesStatingADose": 229,
         "pagesCitingTheFormulary": 0,
         "pagesCitingAnyAuthority": 23
       }
@@ -214,7 +214,7 @@
         "pagesWithListOnly": 2,
         "pagesWithNeither": 461,
         "pagesUnreadable": 0,
-        "pagesStatingADose": 463,
+        "pagesStatingADose": 462,
         "pagesCitingTheFormulary": 0,
         "pagesCitingAnyAuthority": 135
       }
@@ -239,7 +239,7 @@
         "pagesWithListOnly": 35,
         "pagesWithNeither": 20,
         "pagesUnreadable": 11,
-        "pagesStatingADose": 265,
+        "pagesStatingADose": 221,
         "pagesCitingTheFormulary": 2,
         "pagesCitingAnyAuthority": 26
       }
@@ -314,7 +314,7 @@
         "pagesWithListOnly": 57,
         "pagesWithNeither": 44,
         "pagesUnreadable": 0,
-        "pagesStatingADose": 82,
+        "pagesStatingADose": 50,
         "pagesCitingTheFormulary": 0,
         "pagesCitingAnyAuthority": 4
       }
@@ -339,7 +339,7 @@
         "pagesWithListOnly": 58,
         "pagesWithNeither": 31,
         "pagesUnreadable": 0,
-        "pagesStatingADose": 134,
+        "pagesStatingADose": 95,
         "pagesCitingTheFormulary": 0,
         "pagesCitingAnyAuthority": 2
       }
@@ -404,7 +404,7 @@
         "pagesWithListOnly": 1,
         "pagesWithNeither": 112,
         "pagesUnreadable": 0,
-        "pagesStatingADose": 108,
+        "pagesStatingADose": 4,
         "pagesCitingTheFormulary": 0,
         "pagesCitingAnyAuthority": 0
       }
@@ -429,7 +429,7 @@
         "pagesWithListOnly": 237,
         "pagesWithNeither": 160,
         "pagesUnreadable": 0,
-        "pagesStatingADose": 429,
+        "pagesStatingADose": 398,
         "pagesCitingTheFormulary": 0,
         "pagesCitingAnyAuthority": 1
       }

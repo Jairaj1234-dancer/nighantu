@@ -25,7 +25,7 @@ faq:
   - q: "What does 'as per AFI' mean if the ingredients are not published?"
     a: "It claims that the recipe and method are the formulary's. Without a published ingredient list there is nothing on the page to check that claim against, so it has to be taken on trust. It is worth knowing how seldom the claim is even made on a product page: 3 of the 6,097 pages read name the Ayurvedic Formulary of India, and 312 cite any authority at all."
   - q: "Do Ayurvedic product pages say how much to take?"
-    a: "Far more often than they say what is in it. Of 6,097 pages read, 3,792 stated a dose and 1,931 named their ingredients. A reader is about twice as likely to be told how much of something to take than what that something contains."
+    a: "More often than they say what is in it, but not on most of them. Of 6,097 pages read, 2,999 stated a dose and 1,931 named their ingredients. 2,636 pages, 43% of them, stated neither: no dose and no ingredient list on the manufacturer's own page for the product."
 
 ---
 
@@ -233,9 +233,14 @@ state for that preparation, not that the preparation lacks the figure.
 
 ## What the whole range shows that the classical range does not
 
-**A product page is about twice as likely to tell you how much to take as what it is.** Of the
-6,097 pages read, **3,792 stated a dose** and **1,931 named their ingredients**. 4,166 pages named
-no ingredient at all.
+**On 43% of these pages you learn neither what is in the product nor how much to take.** Of the
+6,097 pages read, **2,999 stated a dose** and **1,931 named their ingredients**, so a page is about
+one and a half times as likely to tell you the dose as the contents. But the two are not the same
+pages, and crossing them is the finding: 1,469 pages gave both, 1,530 the dose alone, 462 the
+ingredients alone, and **2,636 gave neither**. 4,166 pages named no ingredient at all.
+
+The dose figure here is lower than the one this page carried until 9 October 2026, and the
+correction is recorded at the foot of the page.
 
 **Almost nobody cites the standard they are following.** Three pages of 6,097 name the Ayurvedic
 Formulary of India. 312 cite any authority at all, classical text or pharmacopoeia included. "As
@@ -376,3 +381,13 @@ wrong page of your site, write to us and we will correct it, including where the
 you over us. Every count has the page URL it came from recorded against it, so it can be checked
 one page at a time: the whole measurement is published at
 [/brand-disclosure.json](/brand-disclosure.json). Details are on our [corrections page](../../corrections/).
+
+**Corrected 9 October 2026, against this page's own argument.** This page previously stated that
+3,792 of the 6,097 pages stated a dose, and drew from it the headline that a product page is about
+twice as likely to tell you the dose as the ingredients. Both were wrong. Our extractor accepted
+any value held in a page field named dose, dosage, directions or how-to-use without checking that
+the value was a dose, so shop furniture was counted as disclosure: ".", "Coming Soon", "STEP 1",
+"Pack sizes", "(4.9)". 793 pages were counted as stating a dose that state none. The corrected
+figure is 2,999, the ratio is about one and a half rather than two, and the error flattered every
+company it touched. It was found while building a comparison of label doses against the formulary's
+own doses, which required looking at the values rather than counting them.
