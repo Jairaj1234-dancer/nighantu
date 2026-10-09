@@ -30,8 +30,9 @@ on:
         default: '2'
         type: string
 
+# Read-only: this job no longer pushes anything, it uploads an artifact.
 permissions:
-  contents: write
+  contents: read
 
 # Its OWN group, not the shared `monitors` one.
 #
@@ -93,11 +94,19 @@ jobs:
             echo '```'
           } >> "$GITHUB_STEP_SUMMARY"
 
-      - name: Commit the reading
-        run: |
-          git config user.name  "nighantu-monitor[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/market-map-*.json
-          git commit -m "Market map: ${{ inputs.prompts }} $(date -u +%Y-%m-%d)" || exit 0
-          git pull --rebase --autostash origin main || true
-          git push origin HEAD:main
+      # UPLOADED, NOT COMMITTED. The first version of this committed the reading and failed,
+      # correctly: data/market-map-*.json is gitignored on purpose. This repository is public, and a
+      # ranked list of which competitors own which queries is exactly the kind of analysis that does
+      # not belong in it. `git add` on an ignored path also exits 1, which under `bash -e` killed the
+      # step before the `|| exit 0` could forgive it, so the job reported failure for a run whose
+      # measurement had completely succeeded.
+      #
+      # An artifact keeps the reading retrievable without publishing it. The ranked report is
+      # already in the run summary above, which is where it actually gets read.
+      - name: Upload the reading
+        uses: actions/upload-artifact@v4
+        with:
+          name: market-map-${{ inputs.prompts }}
+          path: data/market-map-*.json
+          retention-days: 90
+          if-no-files-found: error
