@@ -128,8 +128,23 @@ function sitemapUrls() {
   return [...fs.readFileSync(f, 'utf8').matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1]);
 }
 
+/**
+ * THE SAMPLE MUST BE THE SAME URLS NEXT TIME, or the comparison is worthless.
+ *
+ * stratify() is deterministic, but it samples the CURRENT sitemap, and the sitemap changes as
+ * pages are added. Re-running it in a week would draw a different set, so a change in the
+ * known-to-Bing count could be the index moving or could be the sample moving, with no way to
+ * tell which. That is the same confound that made the first run's output meaningless, arriving by
+ * a different route.
+ *
+ * So the chosen URLs are written out, and --urls re-asks exactly that list.
+ */
 const all = sitemapUrls();
-const sample = stratify(all, SAMPLE);
+const URLS_FILE = argOf('--urls', null);
+const sample = URLS_FILE
+  ? fs.readFileSync(URLS_FILE, 'utf8').split('\n').map((l) => l.trim()).filter(Boolean)
+  : stratify(all, SAMPLE);
+if (URLS_FILE) console.log(`Re-asking the ${sample.length} URLs listed in ${URLS_FILE}.`);
 console.log(`Site publishes ${all.length} URLs. Asking Bing about ${sample.length} of them.\n`);
 
 // ---- what the crawler met when it came -------------------------------------------------------
@@ -281,4 +296,12 @@ fs.writeFileSync(out, `${redact(JSON.stringify({
   crawlStats: crawl.data ?? null,
   rows,
 }, null, 2))}\n`);
+
+// The URL list, so the next run can ask the same questions rather than new ones.
+const samplePath = path.join(OUT_DIR, 'sample.txt');
+if (!URLS_FILE) {
+  fs.writeFileSync(samplePath, `${sample.join('\n')}\n`);
+  console.log(`\nSample URLs written to ${samplePath}.`);
+  console.log(`Re-run against the same set with:  --urls ${samplePath}`);
+}
 console.log(`\nWritten to ${out} (gitignored).`);

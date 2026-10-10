@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Weekly Bing index-coverage read. A user LaunchAgent, not a system daemon: it runs as you, only
+  while you are logged in, and touches nothing outside this repository.
+
+  Friday 09:17 is deliberate. Bing's GetCrawlStats series lags by about a week, so a Friday read
+  reflects the preceding week rather than the current day; 09:17 rather than 09:00 so it is not
+  competing with every other job on the hour.
+
+  RunAtLoad is false on purpose. Loading this should not fire an API call as a side effect.
+
+  Install:    launchctl load -w ~/Library/LaunchAgents/com.ageayurveda.bing-coverage.plist
+  Check:      launchctl list | grep bing-coverage
+  Remove:     launchctl unload -w ~/Library/LaunchAgents/com.ageayurveda.bing-coverage.plist
+-->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.ageayurveda.bing-coverage</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>-lc</string>
+    <string>/Users/jairajsharma/Projects/ayurveda-atlas/infra/bing-coverage-weekly.sh</string>
+  </array>
+
+  <!-- -lc above loads the login shell so node is on PATH; launchd's own PATH is minimal. -->
+
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Weekday</key><integer>5</integer>
+    <key>Hour</key><integer>9</integer>
+    <key>Minute</key><integer>17</integer>
+  </dict>
+
+  <key>RunAtLoad</key>
+  <false/>
+
+  <key>WorkingDirectory</key>
+  <string>/Users/jairajsharma/Projects/ayurveda-atlas</string>
+
+  <!-- The script keeps its own dated log per run; these catch anything that escapes it. -->
+  <key>StandardOutPath</key>
+  <string>/Users/jairajsharma/Projects/ayurveda-atlas/data/coverage/launchd.out.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/jairajsharma/Projects/ayurveda-atlas/data/coverage/launchd.err.log</string>
+</dict>
+</plist>
