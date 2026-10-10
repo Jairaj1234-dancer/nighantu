@@ -63,18 +63,19 @@ jobs:
       # The script refuses to run unless every file it would upload has a sentence describing it,
       # creates a NEW VERSION of the existing record rather than a new deposition, removes the
       # inherited repository zip, uploads the data files with a manifest, and stops at a draft.
-      # ZENODO BLOCKS GITHUB ACTIONS IP RANGES, so this step is expected to fail here.
+      # THE EARLIER 403 WAS A MISSING USER-AGENT, NOT AN IP BLOCK. Correcting the record, because
+      # this comment previously asserted the wrong cause as fact.
       #
-      # The first run returned an HTML block page, not an API error: "Access to this resource has
-      # been restricted due to unusual traffic from your network." That is Zenodo rate-limiting the
-      # shared runner address space, and no token fixes it. The deposit therefore has to run from a
-      # machine with an ordinary address, which means locally:
+      # Zenodo's edge refuses requests with no User-Agent and returns an HTML page reading "access
+      # to this resource has been restricted due to unusual traffic from your network". That
+      # wording invites an address-range explanation and got one here: the first failure was
+      # attributed to GitHub Actions IP ranges and the deposit was declared impossible from CI.
       #
-      #   ZENODO_TOKEN=... node scripts/zenodo-deposit.mjs --deposit
-      #
-      # The step is kept rather than deleted because the block may lift and because the steps above
-      # it are the valuable part: they generate every download and report exactly what would be
-      # deposited, which is worth having even when the upload cannot proceed from here.
+      # It was never tested. The same URL returns 403 from a Node fetch with no User-Agent and 200
+      # with one, from the same machine on the same network. Node's fetch sends none by default,
+      # and scripts/zenodo-deposit.mjs was the one fetcher in this project that did not set it:
+      # lib/fetcher.mjs, the robots survey and the register all identify themselves, which is why
+      # none of them ever hit this.
       #
       # `set -o pipefail` IS LOAD-BEARING. Without it the pipe to tee made the step's exit status
       # tee's, so the first run reported SUCCESS while the script threw a 403 and deposited

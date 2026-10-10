@@ -283,7 +283,30 @@ if (!TOKEN) {
   process.exit(2);
 }
 
-const auth = { Authorization: `Bearer ${TOKEN}` };
+/**
+ * EVERY REQUEST IDENTIFIES ITSELF, which is both this project's rule and the reason the first
+ * attempts failed.
+ *
+ * Node's fetch sends no User-Agent unless told to, and Zenodo's edge refuses those with a 403 and
+ * an HTML page reading "access to this resource has been restricted due to unusual traffic from
+ * your network". That wording invites an IP-address explanation, and it got one: two runs were
+ * attributed to GitHub Actions address ranges, and that was written into a workflow comment and a
+ * commit message as established fact. It was never tested.
+ *
+ * Testing it took three requests. The same URL returns 403 from a Node fetch with no User-Agent
+ * and 200 with one, from the same machine on the same network. The block was about the missing
+ * header all along, and the error message pointed away from it.
+ *
+ * Every other fetcher in this project already sends this string, which is why none of them hit
+ * this. scripts/lib/fetcher.mjs, the robots survey and the register all identify themselves with a
+ * URL that explains who is calling. This one was written without it.
+ */
+const UA = 'NighantuBot/1.0 (+https://nighantu.ageayurveda.com/about/)';
+const auth = {
+  Authorization: `Bearer ${TOKEN}`,
+  'User-Agent': UA,
+  Accept: 'application/json',
+};
 const api = async (url, opts = {}) => {
   const r = await fetch(url.startsWith('http') ? url : `${API}${url}`, {
     ...opts,
