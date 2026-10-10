@@ -30,34 +30,69 @@
  */
 import fs from 'node:fs';
 import path from 'node:path';
-import { walk, parseFrontmatter, dropMineralPlaceholder } from './lib.mjs';
+import { walk, parseFrontmatter } from './lib.mjs';
 
 const WRITE = process.argv.includes('--write');
 const MARKER = /Primary component:\*{0,2}\s*Mineral-derived preparation/i;
 
 
 /**
- * Drop any heading with nothing inside it: no prose, no subheading.
+ * Remove the placeholder block and, in the same pass, the heading it emptied.
  *
- * Deliberately conservative about what counts as inside. A heading followed by a DEEPER heading
- * still has content, because the subsection belongs to it; a heading followed by one at the same or
- * a higher level has nothing of its own.
+ * TWO FAILED ATTEMPTS BEFORE THIS ONE, both caught by measurement rather than by reading.
+ *
+ * The first swept the whole document for headings whose next heading was at the same or a
+ * shallower level. On the glossary pages that is true of a heading doing real work, because those
+ * files nest INVERTED: "#### What is it made of?" (level 4) followed by "### Isoflavones"
+ * (level 3). That h4 is the scope marker telling scripts/compounds.mjs which bullets are
+ * constituents, so deleting it orphaned 224 compounds, 13 with resolved PubChem CIDs. The deploy's
+ * enrich-regression guard caught it.
+ *
+ * The second compared the document before and after and located headings with indexOf on the
+ * heading TEXT. content/glossary/concepts-a-m.md contains 48 identical "What is it made of?"
+ * headings, so every lookup found the first one, and the comparison was meaningless: it started
+ * stripping blocks from the mineral and rasa-shastra pages that are supposed to keep them.
+ *
+ * So this is one pass over the lines with no diffing and no text lookups. It finds the placeholder
+ * block by position, removes it, and removes the heading immediately above only when that heading
+ * is left with nothing before the next heading of any level. Position is the only identity used.
  */
-function dropEmptySections(src) {
-  const lines = src.split('\n');
-  const drop = new Set();
+const PLACEHOLDER_HEAD = /^#{2,6}\s+Mineral\/Elemental Profile\s*$/i;
+const PLACEHOLDER_BODY = /Primary component:\*{0,2}\s*Mineral-derived preparation/i;
+
+function stripPlaceholder(body) {
+  const lines = body.split('\n');
+  const kill = new Set();
+
   for (let i = 0; i < lines.length; i += 1) {
-    const m = /^(#{2,6})\s+(.+)$/.exec(lines[i]);
-    if (!m) continue;
-    const level = m[1].length;
-    let j = i + 1;
-    while (j < lines.length && !lines[j].trim()) j += 1;
-    if (j >= lines.length) { drop.add(i); continue; }
-    const next = /^(#{1,6})\s/.exec(lines[j]);
-    if (next && next[1].length <= level) drop.add(i);
+    if (!PLACEHOLDER_HEAD.test(lines[i])) continue;
+    // The block runs to the next heading of any level.
+    let end = i + 1;
+    while (end < lines.length && !/^#{1,6}\s/.test(lines[end])) end += 1;
+    const block = lines.slice(i, end).join('\n');
+    if (!PLACEHOLDER_BODY.test(block)) continue;   // a real elemental profile; leave it
+    for (let k = i; k < end; k += 1) kill.add(k);
+
+    // The heading immediately above, by position. Is anything else under it?
+    let h = i - 1;
+    while (h >= 0 && !/^#{1,6}\s/.test(lines[h])) {
+      if (lines[h].trim()) { h = -1; break; }        // real content sits between: keep the heading
+      h -= 1;
+    }
+    if (h < 0) continue;
+    // Walk forward from that heading, skipping what we are about to delete, to the next heading.
+    let j = h + 1;
+    let survives = false;
+    while (j < lines.length) {
+      if (/^#{1,6}\s/.test(lines[j]) && !kill.has(j)) break;
+      if (!kill.has(j) && lines[j].trim()) { survives = true; break; }
+      j += 1;
+    }
+    if (!survives) kill.add(h);
   }
-  if (!drop.size) return src;
-  return lines.filter((_, i) => !drop.has(i)).join('\n').replace(/\n{3,}/g, '\n\n');
+
+  if (!kill.size) return body;
+  return lines.filter((_, i) => !kill.has(i)).join('\n').replace(/\n{3,}/g, '\n\n');
 }
 
 const changed = [];
@@ -74,10 +109,10 @@ for (const rel of walk('content')) {
   if (!split) { kept.push([rel, 'frontmatter did not parse']); continue; }
   const [, front, body] = split;
 
-  let next = dropMineralPlaceholder(body, {
-    subcategory: data.subcategory ?? '',
-    group: data.group ?? '',
-  });
+  // The folder decides whether the block belongs at all; a mineral or rasa-shastra entry keeps it.
+  const filedAsMineral = /Mineral|Metal|Rasa-Shastra|Salt|Bhasma|Pishti/i
+    .test(`${data.subcategory ?? ''} ${data.group ?? ''}`);
+  let next = filedAsMineral ? body : stripPlaceholder(body);
 
   /**
    * AND REMOVE THE PARENT HEADING IF IT IS NOW EMPTY.
@@ -92,7 +127,6 @@ for (const rel of walk('content')) {
    * An empty section is worse than no section: it tells a reader the page has something to say
    * about composition and then says nothing.
    */
-  next = dropEmptySections(next);
 
   if (next === body) {
     kept.push([rel, `filed ${data.subcategory || '(none)'}, block is correct here`]);

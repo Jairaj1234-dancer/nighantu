@@ -1,6 +1,6 @@
 {
  "updatedAt": "2026-10-10",
- "count": 3713,
+ "count": 3849,
  "entries": {
   "10.1001/jama.294.18.2342": {
    "status": "ok",
@@ -1210,6 +1210,25 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.1002/cbf.2979": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "bronze",
+   "journal": "Cell Biochemistry and Function",
+   "publisher": "Wiley",
+   "bestHost": "publisher",
+   "bestPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cbf.2979",
+   "bestLanding": "https://doi.org/10.1002/cbf.2979",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cbf.2979",
+     "landing": "https://doi.org/10.1002/cbf.2979"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.1002/cbic.201500225": {
    "status": "ok",
    "isOa": false,
@@ -2163,6 +2182,18 @@
    "locations": [],
    "checkedAt": "2026-09-12"
   },
+  "10.1002/jcp.27615": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Journal of Cellular Physiology",
+   "publisher": "Wiley",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
+  },
   "10.1002/jemt.24091": {
    "status": "ok",
    "isOa": false,
@@ -2423,6 +2454,18 @@
    "locations": [],
    "checkedAt": "2026-09-12"
   },
+  "10.1002/jssc.202100935": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Journal of Separation Science",
+   "publisher": "Wiley",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
+  },
   "10.1002/lipd.70030": {
    "status": "ok",
    "isOa": false,
@@ -2539,6 +2582,18 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.1002/pca.1052": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Phytochemical Analysis",
+   "publisher": "Wiley",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
   },
   "10.1002/pca.2899": {
    "status": "ok",
@@ -3188,6 +3243,18 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.1002/ptr.6054": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Phytotherapy Research",
+   "publisher": "Wiley",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
   },
   "10.1002/ptr.6066": {
    "status": "ok",
@@ -3846,6 +3913,18 @@
    "bestLanding": "",
    "locations": [],
    "checkedAt": "2026-09-12"
+  },
+  "10.1007/978-0-387-46401-5_16": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Springer eBooks",
+   "publisher": "Springer US",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
   },
   "10.1007/978-0-387-75681-3_10": {
    "status": "ok",
@@ -5618,6 +5697,18 @@
    "locations": [],
    "checkedAt": "2026-09-12"
   },
+  "10.1007/s11010-019-03637-1": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Molecular and Cellular Biochemistry",
+   "publisher": "Springer Science and Business Media LLC",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
+  },
   "10.1007/s11010-022-04654-3": {
    "status": "ok",
    "isOa": true,
@@ -5757,6 +5848,18 @@
    "bestLanding": "",
    "locations": [],
    "checkedAt": "2026-09-12"
+  },
+  "10.1007/s11033-020-05766-z": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Molecular Biology Reports",
+   "publisher": "Springer Science and Business Media LLC",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
   },
   "10.1007/s11033-021-06236-w": {
    "status": "ok",
@@ -7204,6 +7307,18 @@
    "locations": [],
    "checkedAt": "2026-10-09"
   },
+  "10.1007/s12038-007-0075-3": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Journal of Biosciences",
+   "publisher": "Springer Science and Business Media LLC",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
+  },
   "10.1007/s12038-011-9042-0": {
    "status": "ok",
    "isOa": false,
@@ -7228,6 +7343,49 @@
    "locations": [],
    "checkedAt": "2026-09-12"
   },
+  "10.1007/s12038-015-9521-9": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Journal of Biosciences",
+   "publisher": "Springer Science and Business Media LLC",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
+  },
+  "10.1007/s12038-016-9641-x": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "Journal of Biosciences",
+   "publisher": "Springer Science and Business Media LLC",
+   "bestHost": "repository",
+   "bestPdf": "https://www.biorxiv.org/content/biorxiv/early/2016/05/04/050476.full.pdf",
+   "bestLanding": "https://doi.org/10.1101/050476",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "acceptedVersion",
+     "pdf": "https://www.biorxiv.org/content/biorxiv/early/2016/05/04/050476.full.pdf",
+     "landing": "https://doi.org/10.1101/050476"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
+  "10.1007/s12038-017-9692-7": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Journal of Biosciences",
+   "publisher": "Springer Science and Business Media LLC",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
+  },
   "10.1007/s12088-011-0213-3": {
    "status": "ok",
    "isOa": true,
@@ -7249,6 +7407,31 @@
      "version": "submittedVersion",
      "pdf": "",
      "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3386430"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
+  "10.1007/s12088-012-0325-4": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "bronze",
+   "journal": "Indian Journal of Microbiology",
+   "publisher": "Springer Science and Business Media LLC",
+   "bestHost": "publisher",
+   "bestPdf": "https://link.springer.com/content/pdf/10.1007/s12088-012-0325-4.pdf",
+   "bestLanding": "https://doi.org/10.1007/s12088-012-0325-4",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://link.springer.com/content/pdf/10.1007/s12088-012-0325-4.pdf",
+     "landing": "https://doi.org/10.1007/s12088-012-0325-4"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3587512"
     }
    ],
    "checkedAt": "2026-10-10"
@@ -8638,6 +8821,25 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.1007/s40200-020-00655-5": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "Journal of Diabetes & Metabolic Disorders",
+   "publisher": "Springer Science and Business Media LLC",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/7843830",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/7843830"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.1007/s40200-022-00989-2": {
    "status": "ok",
    "isOa": true,
@@ -9096,6 +9298,18 @@
    "locations": [],
    "checkedAt": "2026-09-12"
   },
+  "10.1016/B978-0-12-800173-8.00003-9": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Profiles of drug substances, excipients, and related methodology",
+   "publisher": "Elsevier",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
+  },
   "10.1016/S0022-0302(23)00819-6": {
    "status": "ok",
    "isOa": true,
@@ -9533,6 +9747,18 @@
    "bestLanding": "",
    "locations": [],
    "checkedAt": "2026-09-12"
+  },
+  "10.1016/S2095-4964(16)60272-8": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Journal of Chinese Integrative Medicine",
+   "publisher": "Elsevier BV",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
   },
   "10.1016/S2095-4964(16)60274-1": {
    "status": "ok",
@@ -9981,6 +10207,37 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.1016/j.bbrep.2020.100755": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Biochemistry and Biophysics Reports",
+   "publisher": "Elsevier BV",
+   "bestHost": "publisher",
+   "bestPdf": "https://www.sciencedirect.com/science/article/pii/S2405580820300649/pdf",
+   "bestLanding": "https://doi.org/10.1016/j.bbrep.2020.100755",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://www.sciencedirect.com/science/article/pii/S2405580820300649/pdf",
+     "landing": "https://doi.org/10.1016/j.bbrep.2020.100755"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/7186759"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/570c77bca22548e593b58ad8d24afbe9"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.1016/j.bioorg.2018.11.017": {
    "status": "ok",
    "isOa": false,
@@ -10308,6 +10565,18 @@
    "locations": [],
    "checkedAt": "2026-09-12"
   },
+  "10.1016/j.biopha.2018.07.028": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Biomedicine & Pharmacotherapy",
+   "publisher": "Elsevier BV",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
+  },
   "10.1016/j.biopha.2018.08.039": {
    "status": "ok",
    "isOa": false,
@@ -10463,6 +10732,31 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.1016/j.biopha.2022.112711": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Biomedicine & Pharmacotherapy",
+   "publisher": "Elsevier BV",
+   "bestHost": "publisher",
+   "bestPdf": "https://www.sciencedirect.com/science/article/pii/S0753332222000993/pdf",
+   "bestLanding": "https://doi.org/10.1016/j.biopha.2022.112711",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://www.sciencedirect.com/science/article/pii/S0753332222000993/pdf",
+     "landing": "https://doi.org/10.1016/j.biopha.2022.112711"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/f4432b64a1d74a898e4e5e7b8d9114ae"
+    }
+   ],
+   "checkedAt": "2026-10-10"
   },
   "10.1016/j.biopha.2022.113256": {
    "status": "ok",
@@ -10930,6 +11224,18 @@
    "locations": [],
    "checkedAt": "2026-09-12"
   },
+  "10.1016/j.cbi.2016.09.003": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Chemico-Biological Interactions",
+   "publisher": "Elsevier BV",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
+  },
   "10.1016/j.cbi.2017.12.026": {
    "status": "ok",
    "isOa": false,
@@ -10965,6 +11271,18 @@
    "bestLanding": "",
    "locations": [],
    "checkedAt": "2026-09-12"
+  },
+  "10.1016/j.cellimm.2013.12.002": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Cellular Immunology",
+   "publisher": "Elsevier BV",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
   },
   "10.1016/j.chemosphere.2023.139584": {
    "status": "ok",
@@ -12025,6 +12343,25 @@
    "bestLanding": "",
    "locations": [],
    "checkedAt": "2026-09-12"
+  },
+  "10.1016/j.exger.2026.113229": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Experimental Gerontology",
+   "publisher": "Elsevier BV",
+   "bestHost": "publisher",
+   "bestPdf": "",
+   "bestLanding": "https://doi.org/10.1016/j.exger.2026.113229",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "",
+     "landing": "https://doi.org/10.1016/j.exger.2026.113229"
+    }
+   ],
+   "checkedAt": "2026-10-10"
   },
   "10.1016/j.explore.2024.02.008": {
    "status": "ok",
@@ -14967,6 +15304,18 @@
    "locations": [],
    "checkedAt": "2026-09-12"
   },
+  "10.1016/j.ijbiomac.2020.01.121": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "International Journal of Biological Macromolecules",
+   "publisher": "Elsevier BV",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
+  },
   "10.1016/j.ijbiomac.2020.12.189": {
    "status": "ok",
    "isOa": false,
@@ -15726,6 +16075,31 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.1016/j.jaim.2017.02.001": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Journal of Ayurveda and Integrative Medicine",
+   "publisher": "Elsevier BV",
+   "bestHost": "publisher",
+   "bestPdf": "https://www.sciencedirect.com/science/article/pii/S0975947616304235/pdf",
+   "bestLanding": "https://doi.org/10.1016/j.jaim.2017.02.001",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://www.sciencedirect.com/science/article/pii/S0975947616304235/pdf",
+     "landing": "https://doi.org/10.1016/j.jaim.2017.02.001"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/5607387"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.1016/j.jaim.2017.02.002": {
    "status": "ok",
    "isOa": true,
@@ -15750,6 +16124,111 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.1016/j.jaim.2017.04.001": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Journal of Ayurveda and Integrative Medicine",
+   "publisher": "Elsevier BV",
+   "bestHost": "publisher",
+   "bestPdf": "https://www.sciencedirect.com/science/article/pii/S0975947616303357/pdf",
+   "bestLanding": "https://doi.org/10.1016/j.jaim.2017.04.001",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://www.sciencedirect.com/science/article/pii/S0975947616303357/pdf",
+     "landing": "https://doi.org/10.1016/j.jaim.2017.04.001"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/6938844"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/6938844"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
+  "10.1016/j.jaim.2017.06.006": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Journal of Ayurveda and Integrative Medicine",
+   "publisher": "Elsevier BV",
+   "bestHost": "publisher",
+   "bestPdf": "https://www.sciencedirect.com/science/article/pii/S0975947617300360/pdf",
+   "bestLanding": "https://doi.org/10.1016/j.jaim.2017.06.006",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://www.sciencedirect.com/science/article/pii/S0975947617300360/pdf",
+     "landing": "https://doi.org/10.1016/j.jaim.2017.06.006"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/5884173"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/5884173"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/aa11698c893b4c7db8173a902104dbc6"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
+  "10.1016/j.jaim.2017.07.004": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Journal of Ayurveda and Integrative Medicine",
+   "publisher": "Elsevier BV",
+   "bestHost": "publisher",
+   "bestPdf": "https://www.sciencedirect.com/science/article/pii/S0975947616302479/pdf",
+   "bestLanding": "https://doi.org/10.1016/j.jaim.2017.07.004",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://www.sciencedirect.com/science/article/pii/S0975947616302479/pdf",
+     "landing": "https://doi.org/10.1016/j.jaim.2017.07.004"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/5884182"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/5884182"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/297d744e17164641b0c63dff4a799813"
+    }
+   ],
+   "checkedAt": "2026-10-10"
   },
   "10.1016/j.jaim.2017.07.012": {
    "status": "ok",
@@ -15818,6 +16297,37 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.1016/j.jaim.2019.04.006": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Journal of Ayurveda and Integrative Medicine",
+   "publisher": "Elsevier BV",
+   "bestHost": "publisher",
+   "bestPdf": "https://www.sciencedirect.com/science/article/pii/S0975947619300336/pdf",
+   "bestLanding": "https://doi.org/10.1016/j.jaim.2019.04.006",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://www.sciencedirect.com/science/article/pii/S0975947619300336/pdf",
+     "landing": "https://doi.org/10.1016/j.jaim.2019.04.006"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/8039356"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/bba79ab84237494eb01a5067f02d82c3"
+    }
+   ],
+   "checkedAt": "2026-10-10"
   },
   "10.1016/j.jaim.2019.09.005": {
    "status": "ok",
@@ -16011,6 +16521,31 @@
    ],
    "checkedAt": "2026-10-10"
   },
+  "10.1016/j.jaim.2022.100552": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Journal of Ayurveda and Integrative Medicine",
+   "publisher": "Elsevier BV",
+   "bestHost": "publisher",
+   "bestPdf": "https://www.sciencedirect.com/science/article/pii/S0975947622000110/pdf",
+   "bestLanding": "https://doi.org/10.1016/j.jaim.2022.100552",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://www.sciencedirect.com/science/article/pii/S0975947622000110/pdf",
+     "landing": "https://doi.org/10.1016/j.jaim.2022.100552"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/8943402"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.1016/j.jaim.2022.100558": {
    "status": "ok",
    "isOa": true,
@@ -16103,6 +16638,37 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.1016/j.jaim.2022.100636": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Journal of Ayurveda and Integrative Medicine",
+   "publisher": "Elsevier BV",
+   "bestHost": "publisher",
+   "bestPdf": "https://www.sciencedirect.com/science/article/pii/S097594762200095X/pdf",
+   "bestLanding": "https://doi.org/10.1016/j.jaim.2022.100636",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://www.sciencedirect.com/science/article/pii/S097594762200095X/pdf",
+     "landing": "https://doi.org/10.1016/j.jaim.2022.100636"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/9700303"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/40f78c5d804e46b6b34d92b493fe6ee7"
+    }
+   ],
+   "checkedAt": "2026-10-10"
   },
   "10.1016/j.jaim.2023.100690": {
    "status": "ok",
@@ -16228,6 +16794,68 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.1016/j.jaim.2023.100780": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Journal of Ayurveda and Integrative Medicine",
+   "publisher": "Elsevier BV",
+   "bestHost": "publisher",
+   "bestPdf": "",
+   "bestLanding": "https://doi.org/10.1016/j.jaim.2023.100780",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "",
+     "landing": "https://doi.org/10.1016/j.jaim.2023.100780"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477795/pdf/main.pdf",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/10477795"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/8a721f6100254c86b2efad7e3c64a14a"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
+  "10.1016/j.jaim.2023.100786": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Journal of Ayurveda and Integrative Medicine",
+   "publisher": "Elsevier BV",
+   "bestHost": "publisher",
+   "bestPdf": "",
+   "bestLanding": "https://doi.org/10.1016/j.jaim.2023.100786",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "",
+     "landing": "https://doi.org/10.1016/j.jaim.2023.100786"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10415758/pdf/main.pdf",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/10415758"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/f1b16800a70242f181c25c1086b4f009"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.1016/j.jaim.2023.100819": {
    "status": "ok",
    "isOa": true,
@@ -16258,6 +16886,37 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.1016/j.jaim.2023.100827": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Journal of Ayurveda and Integrative Medicine",
+   "publisher": "Elsevier BV",
+   "bestHost": "publisher",
+   "bestPdf": "",
+   "bestLanding": "https://doi.org/10.1016/j.jaim.2023.100827",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "",
+     "landing": "https://doi.org/10.1016/j.jaim.2023.100827"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10755534/pdf/main.pdf",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/10755534"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/027765a03d974505b9a4baa36ba82e9f"
+    }
+   ],
+   "checkedAt": "2026-10-10"
   },
   "10.1016/j.jaim.2024.100902": {
    "status": "ok",
@@ -16470,6 +17129,62 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.1016/j.jaim.2024.101022": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Journal of Ayurveda and Integrative Medicine",
+   "publisher": "Elsevier BV",
+   "bestHost": "publisher",
+   "bestPdf": "",
+   "bestLanding": "https://doi.org/10.1016/j.jaim.2024.101022",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "",
+     "landing": "https://doi.org/10.1016/j.jaim.2024.101022"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11663963/pdf/main.pdf",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/11663963"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
+  "10.1016/j.jaim.2024.101033": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Journal of Ayurveda and Integrative Medicine",
+   "publisher": "Elsevier BV",
+   "bestHost": "publisher",
+   "bestPdf": "",
+   "bestLanding": "https://doi.org/10.1016/j.jaim.2024.101033",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "",
+     "landing": "https://doi.org/10.1016/j.jaim.2024.101033"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11652770/pdf/main.pdf",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/11652770"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/8588d86e238f4b4bbdf53c350f547849"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.1016/j.jaim.2024.101046": {
    "status": "ok",
    "isOa": true,
@@ -16525,6 +17240,37 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.1016/j.jaim.2025.101160": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Journal of Ayurveda and Integrative Medicine",
+   "publisher": "Elsevier BV",
+   "bestHost": "publisher",
+   "bestPdf": "",
+   "bestLanding": "https://doi.org/10.1016/j.jaim.2025.101160",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "",
+     "landing": "https://doi.org/10.1016/j.jaim.2025.101160"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12274825/pdf/main.pdf",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/12274825"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/109a0f1a831e41478c4fcec0dbf49bab"
+    }
+   ],
+   "checkedAt": "2026-10-10"
   },
   "10.1016/j.jaim.2025.101188": {
    "status": "ok",
@@ -16619,6 +17365,62 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.1016/j.jaim.2026.101338": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Journal of Ayurveda and Integrative Medicine",
+   "publisher": "Elsevier BV",
+   "bestHost": "publisher",
+   "bestPdf": "",
+   "bestLanding": "https://doi.org/10.1016/j.jaim.2026.101338",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "",
+     "landing": "https://doi.org/10.1016/j.jaim.2026.101338"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/badcd49aca534a05bc31b10ac9fd17d7"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13217850/"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
+  "10.1016/j.jaim.2026.101358": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Journal of Ayurveda and Integrative Medicine",
+   "publisher": "Elsevier BV",
+   "bestHost": "publisher",
+   "bestPdf": "",
+   "bestLanding": "https://doi.org/10.1016/j.jaim.2026.101358",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "",
+     "landing": "https://doi.org/10.1016/j.jaim.2026.101358"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13420479/pdf/main.pdf",
+     "landing": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13420479/"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.1016/j.jaim.2026.101370": {
    "status": "ok",
    "isOa": true,
@@ -16712,6 +17514,18 @@
    "checkedAt": "2026-09-12"
   },
   "10.1016/j.jchromb.2018.05.021": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Journal of Chromatography B",
+   "publisher": "Elsevier BV",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
+  },
+  "10.1016/j.jchromb.2022.123334": {
    "status": "ok",
    "isOa": false,
    "oaStatus": "closed",
@@ -16855,6 +17669,18 @@
    "bestLanding": "",
    "locations": [],
    "checkedAt": "2026-09-12"
+  },
+  "10.1016/j.jep.2003.12.027": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Journal of Ethnopharmacology",
+   "publisher": "Elsevier BV",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
   },
   "10.1016/j.jep.2004.04.014": {
    "status": "ok",
@@ -17343,6 +18169,18 @@
    "locations": [],
    "checkedAt": "2026-09-12"
   },
+  "10.1016/j.jep.2012.01.004": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Journal of Ethnopharmacology",
+   "publisher": "Elsevier BV",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
+  },
   "10.1016/j.jep.2012.04.007": {
    "status": "ok",
    "isOa": false,
@@ -17487,6 +18325,18 @@
    "locations": [],
    "checkedAt": "2026-09-12"
   },
+  "10.1016/j.jep.2013.10.025": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Journal of Ethnopharmacology",
+   "publisher": "Elsevier BV",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
+  },
   "10.1016/j.jep.2013.10.062": {
    "status": "ok",
    "isOa": false,
@@ -17546,6 +18396,18 @@
    "bestLanding": "",
    "locations": [],
    "checkedAt": "2026-09-12"
+  },
+  "10.1016/j.jep.2014.03.023": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Journal of Ethnopharmacology",
+   "publisher": "Elsevier BV",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
   },
   "10.1016/j.jep.2014.03.071": {
    "status": "ok",
@@ -17829,6 +18691,18 @@
    "bestLanding": "",
    "locations": [],
    "checkedAt": "2026-09-12"
+  },
+  "10.1016/j.jep.2016.06.062": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Journal of Ethnopharmacology",
+   "publisher": "Elsevier BV",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
   },
   "10.1016/j.jep.2016.07.064": {
    "status": "ok",
@@ -18672,6 +19546,18 @@
    "locations": [],
    "checkedAt": "2026-09-12"
   },
+  "10.1016/j.jep.2022.115671": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Journal of Ethnopharmacology",
+   "publisher": "Elsevier BV",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
+  },
   "10.1016/j.jep.2022.115714": {
    "status": "ok",
    "isOa": false,
@@ -18750,6 +19636,18 @@
    "bestLanding": "",
    "locations": [],
    "checkedAt": "2026-09-12"
+  },
+  "10.1016/j.jep.2022.116080": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Journal of Ethnopharmacology",
+   "publisher": "Elsevier BV",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
   },
   "10.1016/j.jep.2022.116082": {
    "status": "ok",
@@ -19601,6 +20499,18 @@
    "locations": [],
    "checkedAt": "2026-10-10"
   },
+  "10.1016/j.jep.2026.122089": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Journal of Ethnopharmacology",
+   "publisher": "Elsevier BV",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
+  },
   "10.1016/j.jes.2016.06.021": {
    "status": "ok",
    "isOa": true,
@@ -19972,6 +20882,18 @@
    "bestLanding": "",
    "locations": [],
    "checkedAt": "2026-09-12"
+  },
+  "10.1016/j.jpba.2006.08.005": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Journal of Pharmaceutical and Biomedical Analysis",
+   "publisher": "Elsevier BV",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
   },
   "10.1016/j.jpba.2009.07.027": {
    "status": "ok",
@@ -20607,6 +21529,37 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.1016/j.jtcme.2020.04.006": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Journal of Traditional and Complementary Medicine",
+   "publisher": "Elsevier BV",
+   "bestHost": "publisher",
+   "bestPdf": "",
+   "bestLanding": "https://doi.org/10.1016/j.jtcme.2020.04.006",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "",
+     "landing": "https://doi.org/10.1016/j.jtcme.2020.04.006"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/8116770"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/1ac8bb907e4e4970a942a9065cd78400"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.1016/j.jtcme.2023.02.011": {
    "status": "ok",
    "isOa": true,
@@ -20724,6 +21677,31 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.1016/j.jyp.2013.09.001": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "hybrid",
+   "journal": "Journal of Young Pharmacists",
+   "publisher": "Manuscript Technomedia LLP",
+   "bestHost": "publisher",
+   "bestPdf": "https://www.jyoungpharm.org/sites/default/files/10.1016_j.jyp_.2013.09.001.pdf",
+   "bestLanding": "https://doi.org/10.1016/j.jyp.2013.09.001",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://www.jyoungpharm.org/sites/default/files/10.1016_j.jyp_.2013.09.001.pdf",
+     "landing": "https://doi.org/10.1016/j.jyp.2013.09.001"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3812882"
+    }
+   ],
+   "checkedAt": "2026-10-10"
   },
   "10.1016/j.metop.2025.100407": {
    "status": "ok",
@@ -22438,6 +23416,18 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.1016/j.semcancer.2017.04.002": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Seminars in Cancer Biology",
+   "publisher": "Elsevier BV",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
+  },
   "10.1016/j.sjbs.2013.09.002": {
    "status": "ok",
    "isOa": true,
@@ -23355,6 +24345,18 @@
    ],
    "checkedAt": "2026-10-10"
   },
+  "10.1016/j.yebeh.2017.12.040": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Epilepsy & Behavior",
+   "publisher": "Elsevier BV",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
+  },
   "10.1016/j.yrtph.2016.09.020": {
    "status": "ok",
    "isOa": false,
@@ -23608,6 +24610,18 @@
    "bestLanding": "",
    "locations": [],
    "checkedAt": "2026-09-12"
+  },
+  "10.1016/s0378-8741(98)00127-5": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Journal of Ethnopharmacology",
+   "publisher": "Elsevier BV",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
   },
   "10.1016/s0378-8741(98)00160-3": {
    "status": "ok",
@@ -24439,6 +25453,18 @@
    "bestLanding": "",
    "locations": [],
    "checkedAt": "2026-09-12"
+  },
+  "10.1021/mp700113r": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Molecular Pharmaceutics",
+   "publisher": "American Chemical Society (ACS)",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
   },
   "10.1021/np010186v": {
    "status": "ok",
@@ -26726,6 +27752,44 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.1038/s41598-026-60293-4": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Scientific Reports",
+   "publisher": "Springer Science and Business Media LLC",
+   "bestHost": "publisher",
+   "bestPdf": "https://www.nature.com/articles/s41598-026-60293-4_reference.pdf",
+   "bestLanding": "https://doi.org/10.1038/s41598-026-60293-4",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://www.nature.com/articles/s41598-026-60293-4_reference.pdf",
+     "landing": "https://doi.org/10.1038/s41598-026-60293-4"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
+  "10.1038/s41598-026-60864-5": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Scientific Reports",
+   "publisher": "Springer Science and Business Media LLC",
+   "bestHost": "publisher",
+   "bestPdf": "https://www.nature.com/articles/s41598-026-60864-5_reference.pdf",
+   "bestLanding": "https://doi.org/10.1038/s41598-026-60864-5",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://www.nature.com/articles/s41598-026-60864-5_reference.pdf",
+     "landing": "https://doi.org/10.1038/s41598-026-60864-5"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.1038/srep06466": {
    "status": "ok",
    "isOa": true,
@@ -27250,6 +28314,18 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.1039/d4mo00156g": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Molecular Omics",
+   "publisher": "Oxford University Press (OUP)",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
   },
   "10.1039/d4ra03461a": {
    "status": "ok",
@@ -28102,6 +29178,18 @@
    "locations": [],
    "checkedAt": "2026-09-12"
   },
+  "10.1080/01480545.2021.1894725": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Drug and Chemical Toxicology",
+   "publisher": "Informa UK Limited",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
+  },
   "10.1080/01480545.2021.1926476": {
    "status": "ok",
    "isOa": false,
@@ -28428,6 +29516,18 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.1080/08982104.2022.2086567": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Journal of Liposome Research",
+   "publisher": "Informa UK Limited",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
   },
   "10.1080/09168451.2014.980217": {
    "status": "ok",
@@ -29101,6 +30201,18 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.1080/10799893.2026.2689329": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Journal of Receptors and Signal Transduction",
+   "publisher": "Informa UK Limited",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
   },
   "10.1080/10826068.2022.2062773": {
    "status": "ok",
@@ -29961,6 +31073,18 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.1080/14786419.2020.1799364": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Natural Product Research",
+   "publisher": "Informa UK Limited",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
+  },
   "10.1080/14786419.2020.1808640": {
    "status": "ok",
    "isOa": true,
@@ -30533,6 +31657,18 @@
    "isOa": false,
    "oaStatus": "closed",
    "journal": "Natural Product Research",
+   "publisher": "Informa UK Limited",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
+  },
+  "10.1080/14787210.2020.1730815": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Expert Review of Anti-infective Therapy",
    "publisher": "Informa UK Limited",
    "bestHost": "",
    "bestPdf": "",
@@ -31505,6 +32641,18 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.1089/acm.2019.0124": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "The Journal of Alternative and Complementary Medicine",
+   "publisher": "SAGE Publications",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
+  },
   "10.1089/acm.2020.0148": {
    "status": "ok",
    "isOa": false,
@@ -31968,6 +33116,18 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.1093/chromsci/bmaa070": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Journal of Chromatographic Science",
+   "publisher": "Oxford University Press (OUP)",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
+  },
   "10.1093/chromsci/bmaa091": {
    "status": "ok",
    "isOa": false,
@@ -31979,6 +33139,18 @@
    "bestLanding": "",
    "locations": [],
    "checkedAt": "2026-09-12"
+  },
+  "10.1093/chromsci/bmag008": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Journal of Chromatographic Science",
+   "publisher": "Oxford University Press (OUP)",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
   },
   "10.1093/dnares/dsaa023": {
    "status": "ok",
@@ -32035,6 +33207,43 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.1093/ecam/nel116": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "hybrid",
+   "journal": "Evidence-based Complementary and Alternative Medicine",
+   "publisher": "Wiley",
+   "bestHost": "publisher",
+   "bestPdf": "https://downloads.hindawi.com/journals/ecam/2008/983171.pdf",
+   "bestLanding": "https://doi.org/10.1093/ecam/nel116",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://downloads.hindawi.com/journals/ecam/2008/983171.pdf",
+     "landing": "https://doi.org/10.1093/ecam/nel116"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/2249737"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/2249737"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/08adf36b82da42a78d8a2cbc2d7fc7ec"
+    }
+   ],
+   "checkedAt": "2026-10-10"
   },
   "10.1093/ecam/nep080": {
    "status": "ok",
@@ -32527,6 +33736,18 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.1093/lambio/ovad014": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Letters in Applied Microbiology",
+   "publisher": "Oxford University Press (OUP)",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
+  },
   "10.1093/nutrit/nuae214": {
    "status": "ok",
    "isOa": false,
@@ -32892,6 +34113,37 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.1097/MD.0000000000043449": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Medicine",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "bestHost": "publisher",
+   "bestPdf": "",
+   "bestLanding": "https://doi.org/10.1097/md.0000000000043449",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "",
+     "landing": "https://doi.org/10.1097/md.0000000000043449"
+    },
+    {
+     "host": "repository",
+     "version": "publishedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/12282775"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/12282775"
+    }
+   ],
+   "checkedAt": "2026-10-10"
   },
   "10.1097/MD.0000000000045666": {
    "status": "ok",
@@ -33322,6 +34574,18 @@
    "bestLanding": "",
    "locations": [],
    "checkedAt": "2026-09-12"
+  },
+  "10.1111/1756-185X.12535": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "International Journal of Rheumatic Diseases",
+   "publisher": "Wiley",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
   },
   "10.1111/1756-185X.12625": {
    "status": "ok",
@@ -33846,6 +35110,30 @@
    "bestLanding": "",
    "locations": [],
    "checkedAt": "2026-09-12"
+  },
+  "10.1111/j.2042-7158.1994.tb03871.x": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Journal of Pharmacy and Pharmacology",
+   "publisher": "Oxford University Press (OUP)",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
+  },
+  "10.1111/jam.15451": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Journal of Applied Microbiology",
+   "publisher": "Oxford University Press (OUP)",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
   },
   "10.1111/jan.14297": {
    "status": "ok",
@@ -37854,6 +39142,31 @@
    ],
    "checkedAt": "2026-10-10"
   },
+  "10.1155/2022/9106415": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "hybrid",
+   "journal": "Evidence-based Complementary and Alternative Medicine",
+   "publisher": "Wiley",
+   "bestHost": "publisher",
+   "bestPdf": "https://downloads.hindawi.com/journals/ecam/2022/9106415.pdf",
+   "bestLanding": "https://doi.org/10.1155/2022/9106415",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://downloads.hindawi.com/journals/ecam/2022/9106415.pdf",
+     "landing": "https://doi.org/10.1155/2022/9106415"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/11387087"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.1155/2022/9810099": {
    "status": "ok",
    "isOa": true,
@@ -39707,6 +41020,37 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.1186/1471-2180-11-152": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "BMC Microbiology",
+   "publisher": "Springer Science and Business Media LLC",
+   "bestHost": "publisher",
+   "bestPdf": "https://bmcmicrobiol.biomedcentral.com/counter/pdf/10.1186/1471-2180-11-152",
+   "bestLanding": "https://doi.org/10.1186/1471-2180-11-152",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://bmcmicrobiol.biomedcentral.com/counter/pdf/10.1186/1471-2180-11-152",
+     "landing": "https://doi.org/10.1186/1471-2180-11-152"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3145568"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3145568"
+    }
+   ],
+   "checkedAt": "2026-10-10"
   },
   "10.1186/1472-6882-10-56": {
    "status": "ok",
@@ -43477,6 +44821,31 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.12998/wjcc.v2.i10.534": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "hybrid",
+   "journal": "World Journal of Clinical Cases",
+   "publisher": "Baishideng Publishing Group Inc.",
+   "bestHost": "publisher",
+   "bestPdf": "https://www.wjgnet.com/2307-8960/full/v2/i10/534.htm",
+   "bestLanding": "https://doi.org/10.12998/wjcc.v2.i10.534",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://www.wjgnet.com/2307-8960/full/v2/i10/534.htm",
+     "landing": "https://doi.org/10.12998/wjcc.v2.i10.534"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/4198406"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.1371/journal.pone.0071672": {
    "status": "ok",
    "isOa": true,
@@ -46502,6 +47871,25 @@
    ],
    "checkedAt": "2026-10-10"
   },
+  "10.2131/jts.34.99": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "bronze",
+   "journal": "The Journal of Toxicological Sciences",
+   "publisher": "Japanese Society of Toxicology",
+   "bestHost": "publisher",
+   "bestPdf": "https://www.jstage.jst.go.jp/article/jts/34/1/34_1_99/_pdf",
+   "bestLanding": "https://doi.org/10.2131/jts.34.99",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://www.jstage.jst.go.jp/article/jts/34/1/34_1_99/_pdf",
+     "landing": "https://doi.org/10.2131/jts.34.99"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.21315/tlsr2020.31.1.4": {
    "status": "ok",
    "isOa": true,
@@ -47722,6 +49110,18 @@
    "bestLanding": "",
    "locations": [],
    "checkedAt": "2026-09-12"
+  },
+  "10.2174/092986732102131206115810": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Current Medicinal Chemistry",
+   "publisher": "Bentham Science Publishers Ltd.",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
   },
   "10.2174/0929867324666170116125731": {
    "status": "ok",
@@ -48999,6 +50399,43 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.2196/63063": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "JMIR Research Protocols",
+   "publisher": "JMIR Publications Inc.",
+   "bestHost": "publisher",
+   "bestPdf": "https://www.researchprotocols.org/2025/1/e63063/PDF",
+   "bestLanding": "https://doi.org/10.2196/63063",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://www.researchprotocols.org/2025/1/e63063/PDF",
+     "landing": "https://doi.org/10.2196/63063"
+    },
+    {
+     "host": "",
+     "version": "acceptedVersion",
+     "pdf": "",
+     "landing": "https://doi.org/10.2196/preprints.63063"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/11833261"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/3abc81b262494049b75c37737dedb395"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.2202/1553-3840.1216": {
    "status": "ok",
    "isOa": false,
@@ -49208,6 +50645,10 @@
   "10.26355/eurrev_201812_16554": {
    "status": "not-found",
    "checkedAt": "2026-09-12"
+  },
+  "10.26355/eurrev_202212_30484": {
+   "status": "not-found",
+   "checkedAt": "2026-10-10"
   },
   "10.26574/maedica.2019.14.3.254": {
    "status": "ok",
@@ -49660,6 +51101,25 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.3109/13880209.2010.489904": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "bronze",
+   "journal": "Pharmaceutical Biology",
+   "publisher": "Informa UK Limited",
+   "bestHost": "publisher",
+   "bestPdf": "https://www.tandfonline.com/doi/pdf/10.3109/13880209.2010.489904?needAccess=true",
+   "bestLanding": "https://doi.org/10.3109/13880209.2010.489904",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://www.tandfonline.com/doi/pdf/10.3109/13880209.2010.489904?needAccess=true",
+     "landing": "https://doi.org/10.3109/13880209.2010.489904"
+    }
+   ],
+   "checkedAt": "2026-10-10"
   },
   "10.3109/13880209.2010.500295": {
    "status": "ok",
@@ -50763,6 +52223,68 @@
      "version": "submittedVersion",
      "pdf": "",
      "landing": "https://doaj.org/article/4a520143112e47c8bb542e3c6daba823"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
+  "10.3389/fmed.2026.1726247": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Frontiers in Medicine",
+   "publisher": "Frontiers Media SA",
+   "bestHost": "publisher",
+   "bestPdf": "https://public-pages-files-2025.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1726247/pdf",
+   "bestLanding": "https://doi.org/10.3389/fmed.2026.1726247",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://public-pages-files-2025.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1726247/pdf",
+     "landing": "https://doi.org/10.3389/fmed.2026.1726247"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/372551dfc68d4f73b830944dac1bb897"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12907173/"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
+  "10.3389/fmed.2026.1796572": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Frontiers in Medicine",
+   "publisher": "Frontiers Media SA",
+   "bestHost": "publisher",
+   "bestPdf": "https://public-pages-files-2025.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1796572/pdf",
+   "bestLanding": "https://doi.org/10.3389/fmed.2026.1796572",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://public-pages-files-2025.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1796572/pdf",
+     "landing": "https://doi.org/10.3389/fmed.2026.1796572"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13141307/pdf/fmed-13-1796572.pdf",
+     "landing": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13141307/"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/c423333dac38473f9778abd7ba2c1801"
     }
    ],
    "checkedAt": "2026-10-10"
@@ -52087,6 +53609,43 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.3389/fphar.2017.00472": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Frontiers in Pharmacology",
+   "publisher": "Frontiers Media SA",
+   "bestHost": "publisher",
+   "bestPdf": "https://www.frontiersin.org/articles/10.3389/fphar.2017.00472/pdf",
+   "bestLanding": "https://doi.org/10.3389/fphar.2017.00472",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://www.frontiersin.org/articles/10.3389/fphar.2017.00472/pdf",
+     "landing": "https://doi.org/10.3389/fphar.2017.00472"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/5513973"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://digitalcommons.chapman.edu/scs_articles/506"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/060e01ea5ee74225bb0337bc4e432a2f"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.3389/fphar.2017.00658": {
    "status": "ok",
    "isOa": true,
@@ -52321,6 +53880,37 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.3389/fphar.2021.662000": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Frontiers in Pharmacology",
+   "publisher": "Frontiers Media SA",
+   "bestHost": "publisher",
+   "bestPdf": "https://www.frontiersin.org/articles/10.3389/fphar.2021.662000/pdf",
+   "bestLanding": "https://doi.org/10.3389/fphar.2021.662000",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://www.frontiersin.org/articles/10.3389/fphar.2021.662000/pdf",
+     "landing": "https://doi.org/10.3389/fphar.2021.662000"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/8211421"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/1adee5fad5694dc58e9d313dd568f906"
+    }
+   ],
+   "checkedAt": "2026-10-10"
   },
   "10.3389/fphar.2021.699899": {
    "status": "ok",
@@ -52969,6 +54559,37 @@
      "version": "submittedVersion",
      "pdf": "",
      "landing": "https://doaj.org/article/d920a838d51040119c4aa94f6f30e72a"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
+  "10.3389/fphar.2023.1148790": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Frontiers in Pharmacology",
+   "publisher": "Frontiers Media SA",
+   "bestHost": "publisher",
+   "bestPdf": "https://www.frontiersin.org/articles/10.3389/fphar.2023.1148790/pdf",
+   "bestLanding": "https://doi.org/10.3389/fphar.2023.1148790",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://www.frontiersin.org/articles/10.3389/fphar.2023.1148790/pdf",
+     "landing": "https://doi.org/10.3389/fphar.2023.1148790"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10063798/pdf/fphar-14-1148790.pdf",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/10063798"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/a55d9ac06dbd41f7941b09dab5d80558"
     }
    ],
    "checkedAt": "2026-10-10"
@@ -56656,6 +58277,49 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.3390/biom9050161": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Biomolecules",
+   "publisher": "MDPI AG",
+   "bestHost": "publisher",
+   "bestPdf": "https://www.mdpi.com/2218-273X/9/5/161/pdf?version=1556936096",
+   "bestLanding": "https://doi.org/10.3390/biom9050161",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://www.mdpi.com/2218-273X/9/5/161/pdf?version=1556936096",
+     "landing": "https://doi.org/10.3390/biom9050161"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/6571565"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/6571565"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/67f7cd7c828b4caa82ed1ce633c042ed"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://hdl.handle.net/10216/136343"
+    }
+   ],
+   "checkedAt": "2026-10-10"
   },
   "10.3390/biom9080357": {
    "status": "ok",
@@ -63177,6 +64841,37 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.3390/molecules27144400": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Molecules",
+   "publisher": "MDPI AG",
+   "bestHost": "publisher",
+   "bestPdf": "https://www.mdpi.com/1420-3049/27/14/4400/pdf?version=1657695373",
+   "bestLanding": "https://doi.org/10.3390/molecules27144400",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://www.mdpi.com/1420-3049/27/14/4400/pdf?version=1657695373",
+     "landing": "https://doi.org/10.3390/molecules27144400"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/9319031"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/0cb33737067a4f1ca55902adb9c28afe"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.3390/molecules27154697": {
    "status": "ok",
    "isOa": true,
@@ -65332,6 +67027,37 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.3390/nu11102426": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Nutrients",
+   "publisher": "MDPI AG",
+   "bestHost": "publisher",
+   "bestPdf": "https://www.mdpi.com/2072-6643/11/10/2426/pdf?version=1571735419",
+   "bestLanding": "https://doi.org/10.3390/nu11102426",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://www.mdpi.com/2072-6643/11/10/2426/pdf?version=1571735419",
+     "landing": "https://doi.org/10.3390/nu11102426"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/6835970"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/5a523e9ccfea4ef783d4e262a18a8f6b"
+    }
+   ],
+   "checkedAt": "2026-10-10"
   },
   "10.3390/nu12030672": {
    "status": "ok",
@@ -70705,6 +72431,37 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.34172/bi.30568": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Bioimpacts",
+   "publisher": "Maad Rayan Publishing Company",
+   "bestHost": "publisher",
+   "bestPdf": "https://bi.tbzmed.ac.ir/PDF/bi-15-30568.pdf",
+   "bestLanding": "https://doi.org/10.34172/bi.30568",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://bi.tbzmed.ac.ir/PDF/bi-15-30568.pdf",
+     "landing": "https://doi.org/10.34172/bi.30568"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/12204778"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/12204778"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.3732/apps.1500001": {
    "status": "ok",
    "isOa": true,
@@ -71375,6 +73132,37 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.3831/KPI.2023.26.3.257": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Journal of pharmacopuncture",
+   "publisher": "Korean Pharmacopuncture Institute",
+   "bestHost": "publisher",
+   "bestPdf": "",
+   "bestLanding": "https://doi.org/10.3831/kpi.2023.26.3.257",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "",
+     "landing": "https://doi.org/10.3831/kpi.2023.26.3.257"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/10547820"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/a162d253507c40668454c859118f17e5"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.3831/KPI.2023.26.4.298": {
    "status": "ok",
    "isOa": true,
@@ -71691,6 +73479,18 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.3923/pjbs.2008.2036.2039": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Pakistan Journal of Biological Sciences",
+   "publisher": "Science Alert",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
+   "checkedAt": "2026-10-10"
   },
   "10.3923/pjbs.2012.408.417": {
    "status": "ok",
@@ -72129,6 +73929,31 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.4103/0250-474X.57286": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "Indian Journal of Pharmaceutical Sciences",
+   "publisher": "OMICS Publishing Group",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/2865809",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/2865809"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/2865809"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.4103/0250-474X.57302": {
    "status": "ok",
    "isOa": true,
@@ -72282,6 +74107,31 @@
      "version": "submittedVersion",
      "pdf": "",
      "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3178976"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
+  "10.4103/0250-474x.151600": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "Indian Journal of Pharmaceutical Sciences",
+   "publisher": "OMICS Publishing Group",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/4355876",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/4355876"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/4355876"
     }
    ],
    "checkedAt": "2026-10-10"
@@ -72568,6 +74418,37 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.4103/0253-7613.182881": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "hybrid",
+   "journal": "Indian Journal of Pharmacology",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "bestHost": "publisher",
+   "bestPdf": "",
+   "bestLanding": "https://doi.org/10.4103/0253-7613.182881",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "",
+     "landing": "https://doi.org/10.4103/0253-7613.182881"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/4900004"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/4900004"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.4103/0253-7613.194853": {
    "status": "ok",
    "isOa": true,
@@ -72723,6 +74604,25 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.4103/0253-7613.55209": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "Indian Journal of Pharmacology",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/2861811",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/2861811"
+    }
+   ],
+   "checkedAt": "2026-10-10"
   },
   "10.4103/0253-7613.62405": {
    "status": "ok",
@@ -72887,6 +74787,37 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.4103/0257-7941.103187": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Ancient Science of Life",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "bestHost": "publisher",
+   "bestPdf": "",
+   "bestLanding": "https://doi.org/10.4103/0257-7941.103187",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "",
+     "landing": "https://doi.org/10.4103/0257-7941.103187"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3530334"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3530334"
+    }
+   ],
+   "checkedAt": "2026-10-10"
   },
   "10.4103/0257-7941.113790": {
    "status": "ok",
@@ -73367,6 +75298,25 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.4103/0973-1296.157696": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "Pharmacognosy Magazine",
+   "publisher": "SAGE Publications",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/4461971",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/4461971"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.4103/0973-1296.168944": {
    "status": "ok",
    "isOa": true,
@@ -73413,6 +75363,44 @@
      "version": "submittedVersion",
      "pdf": "",
      "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/5407111"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
+  "10.4103/0973-1482.113363": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Journal of Cancer Research and Therapeutics",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "bestHost": "publisher",
+   "bestPdf": "",
+   "bestLanding": "https://doi.org/10.4103/0973-1482.113363",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "",
+     "landing": "https://doi.org/10.4103/0973-1482.113363"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
+  "10.4103/0973-1482.151931": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Journal of Cancer Research and Therapeutics",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "bestHost": "publisher",
+   "bestPdf": "",
+   "bestLanding": "https://doi.org/10.4103/0973-1482.151931",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "",
+     "landing": "https://doi.org/10.4103/0973-1482.151931"
     }
    ],
    "checkedAt": "2026-10-10"
@@ -73697,6 +75685,31 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.4103/0974-7788.76793": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "International Journal of Ayurveda Research",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/3059452",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3059452"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3059452"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.4103/0974-7788.83183": {
    "status": "ok",
    "isOa": true,
@@ -73965,6 +75978,31 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.4103/0974-8490.62957": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "hybrid",
+   "journal": "Pharmacognosy Research",
+   "publisher": "Manuscript Technomedia LLP",
+   "bestHost": "publisher",
+   "bestPdf": "https://www.phcogres.com/sites/default/files/PharmacognRes-2-2-98%20%281%29.pdf",
+   "bestLanding": "https://doi.org/10.4103/0974-8490.62957",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://www.phcogres.com/sites/default/files/PharmacognRes-2-2-98%20%281%29.pdf",
+     "landing": "https://doi.org/10.4103/0974-8490.62957"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3140114"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.4103/0974-8490.65509": {
    "status": "ok",
    "isOa": true,
@@ -74077,6 +76115,69 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.4103/0974-8520.100321": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "AYU (An International Quarterly Journal of Research in Ayurveda)",
+   "publisher": "Medknow",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/3456872",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3456872"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3456872"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
+  "10.4103/0974-8520.100327": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "AYU (An International Quarterly Journal of Research in Ayurveda)",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/3456848",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3456848"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
+  "10.4103/0974-8520.100331": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "AYU (An International Quarterly Journal of Research in Ayurveda)",
+   "publisher": "Medknow",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/3456852",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3456852"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.4103/0974-8520.105238": {
    "status": "ok",
    "isOa": true,
@@ -74101,6 +76202,56 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.4103/0974-8520.105246": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "AYU (An International Quarterly Journal of Research in Ayurveda)",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "http://europepmc.org/articles/PMC3611626",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "http://europepmc.org/articles/PMC3611626"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3611626"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
+  "10.4103/0974-8520.105254": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "AYU (An International Quarterly Journal of Research in Ayurveda)",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "http://europepmc.org/articles/PMC3611637",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "http://europepmc.org/articles/PMC3611637"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3611637"
+    }
+   ],
+   "checkedAt": "2026-10-10"
   },
   "10.4103/0974-8520.105257": {
    "status": "ok",
@@ -74277,6 +76428,31 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.4103/0974-8520.115453": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "AYU (An International Quarterly Journal of Research in Ayurveda)",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/3764886",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3764886"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3764886"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.4103/0974-8520.119686": {
    "status": "ok",
    "isOa": true,
@@ -74326,6 +76502,31 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.4103/0974-8520.123130": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "AYU (An International Quarterly Journal of Research in Ayurveda)",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "http://europepmc.org/articles/PMC3902597",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "http://europepmc.org/articles/PMC3902597"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3902597"
+    }
+   ],
+   "checkedAt": "2026-10-10"
   },
   "10.4103/0974-8520.127692": {
    "status": "ok",
@@ -74421,6 +76622,25 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.4103/0974-8520.146225": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "AYU (An International Quarterly Journal of Research in Ayurveda)",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/4279320",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/4279320"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.4103/0974-8520.146236": {
    "status": "ok",
    "isOa": true,
@@ -74458,6 +76678,31 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.4103/0974-8520.153755": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "AYU (An International Quarterly Journal of Research in Ayurveda)",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/4649568",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/4649568"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/4649568"
+    }
+   ],
+   "checkedAt": "2026-10-10"
   },
   "10.4103/0974-8520.153788": {
    "status": "ok",
@@ -74509,6 +76754,56 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.4103/0974-8520.175552": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "AYU (An International Quarterly Journal of Research in Ayurveda)",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/4784122",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/4784122"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/4784122"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
+  "10.4103/0974-8520.182748": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "AYU (An International Quarterly Journal of Research in Ayurveda)",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/4895760",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/4895760"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/4895760"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.4103/0974-8520.182753": {
    "status": "ok",
    "isOa": true,
@@ -74559,6 +76854,31 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.4103/0974-8520.182761": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "AYU (An International Quarterly Journal of Research in Ayurveda)",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/4895756",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/4895756"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/4895756"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.4103/0974-8520.68195": {
    "status": "ok",
    "isOa": true,
@@ -74596,6 +76916,169 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.4103/0974-8520.82027": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "AYU (An International Quarterly Journal of Research in Ayurveda)",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/3202258",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3202258"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3202258"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
+  "10.4103/0974-8520.82033": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "AYU (An International Quarterly Journal of Research in Ayurveda)",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/3202259",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3202259"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3202259"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
+  "10.4103/0974-8520.85724": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "AYU (An International Quarterly Journal of Research in Ayurveda)",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/3215416",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3215416"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
+  "10.4103/0974-8520.85736": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "AYU (An International Quarterly Journal of Research in Ayurveda)",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/3215424",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3215424"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
+  "10.4103/0974-8520.92572": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "AYU (An International Quarterly Journal of Research in Ayurveda)",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/3296339",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3296339"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3296339"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
+  "10.4103/0974-8520.93914": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "AYU (An International Quarterly Journal of Research in Ayurveda)",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/3326882",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3326882"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3326882"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
+  "10.4103/0974-8520.93916": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "AYU (An International Quarterly Journal of Research in Ayurveda)",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/3326884",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3326884"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3326884"
+    }
+   ],
+   "checkedAt": "2026-10-10"
   },
   "10.4103/0974-8520.93921": {
    "status": "ok",
@@ -74808,6 +77291,37 @@
    ],
    "checkedAt": "2026-10-10"
   },
+  "10.4103/0975-9476.113887": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "Journal of Ayurveda and Integrative Medicine",
+   "publisher": "Elsevier BV",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/3737442",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3737442"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3737442"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/346d4c1b522b4781b87a4c1bc72139f9"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.4103/0975-9476.118697": {
    "status": "ok",
    "isOa": true,
@@ -74838,6 +77352,37 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.4103/0975-9476.118707": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "Journal of Ayurveda and Integrative Medicine",
+   "publisher": "Elsevier BV",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/3821191",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3821191"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3821191"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/5f8d39662ce542a38a0079c15019fc26"
+    }
+   ],
+   "checkedAt": "2026-10-10"
   },
   "10.4103/0975-9476.128853": {
    "status": "ok",
@@ -74900,6 +77445,31 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.4103/0975-9476.140469": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "Journal of Ayurveda and Integrative Medicine",
+   "publisher": "Elsevier BV",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/4204283",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/4204283"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/3807a1788bf14e2f95da6bd85ab7100c"
+    }
+   ],
+   "checkedAt": "2026-10-10"
   },
   "10.4103/0975-9476.146540": {
    "status": "ok",
@@ -74982,6 +77552,37 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.4103/0975-9476.59826": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "Journal of Ayurveda and Integrative Medicine",
+   "publisher": "Elsevier BV",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/3149391",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3149391"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3149391"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/cff276f435ee476196b8409704d0837c"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.4103/0975-9476.72620": {
    "status": "ok",
    "isOa": true,
@@ -75043,6 +77644,37 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.4103/0975-9476.93946": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "Journal of Ayurveda and Integrative Medicine",
+   "publisher": "Elsevier BV",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/3326793",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3326793"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3326793"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://doaj.org/article/bb433d7668064d23956ff7ed5258e77a"
+    }
+   ],
+   "checkedAt": "2026-10-10"
   },
   "10.4103/0976-0105.105335": {
    "status": "ok",
@@ -75405,6 +78037,31 @@
    ],
    "checkedAt": "2026-10-10"
   },
+  "10.4103/ayu.AYU_117_15": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "AYU (An International Quarterly Journal of Research in Ayurveda)",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/6369605",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/6369605"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/6369605"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.4103/ayu.AYU_155_19": {
    "status": "ok",
    "isOa": true,
@@ -75423,6 +78080,25 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.4103/ayu.AYU_156_16": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "AYU (An International Quarterly Journal of Research in Ayurveda)",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/9261991",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/9261991"
+    }
+   ],
+   "checkedAt": "2026-10-10"
   },
   "10.4103/ayu.AYU_198_19": {
    "status": "ok",
@@ -75493,6 +78169,50 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.4103/ayu.AYU_237_17": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "AYU (An International Quarterly Journal of Research in Ayurveda)",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/6454907",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/6454907"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/6454907"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
+  "10.4103/ayu.AYU_244_18": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "AYU (An International Quarterly Journal of Research in Ayurveda)",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/6891997",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/6891997"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.4103/ayu.AYU_264_20": {
    "status": "ok",
    "isOa": true,
@@ -75517,6 +78237,25 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.4103/ayu.AYU_274_20": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "AYU (An International Quarterly Journal of Research in Ayurveda)",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/8966763",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/8966763"
+    }
+   ],
+   "checkedAt": "2026-10-10"
   },
   "10.4103/ayu.AYU_299_20": {
    "status": "ok",
@@ -75586,6 +78325,31 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.4103/ayu.AYU_44_18": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "AYU (An International Quarterly Journal of Research in Ayurveda)",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/6287407",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/6287407"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/6287407"
+    }
+   ],
+   "checkedAt": "2026-10-10"
   },
   "10.4103/ayu.AYU_45_15": {
    "status": "ok",
@@ -75668,6 +78432,25 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.4103/ayu.AYU_91_14": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "green",
+   "journal": "AYU (An International Quarterly Journal of Research in Ayurveda)",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "bestHost": "repository",
+   "bestPdf": "",
+   "bestLanding": "https://www.ncbi.nlm.nih.gov/pmc/articles/5822979",
+   "locations": [
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/5822979"
+    }
+   ],
+   "checkedAt": "2026-10-10"
   },
   "10.4103/ayu.ayu_229_21": {
    "status": "ok",
@@ -76725,6 +79508,31 @@
    "status": "not-found",
    "checkedAt": "2026-09-12"
   },
+  "10.4142/jvs.2008.9.1.25": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Journal of Veterinary Science",
+   "publisher": "XMLink",
+   "bestHost": "publisher",
+   "bestPdf": "",
+   "bestLanding": "https://doi.org/10.4142/jvs.2008.9.1.25",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "",
+     "landing": "https://doi.org/10.4142/jvs.2008.9.1.25"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/2839109"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.4155/fmc-2017-0198": {
    "status": "ok",
    "isOa": false,
@@ -76942,6 +79750,31 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.4314/ajtcam.v10i3.1": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "African Journal of Traditional Complementary and Alternative Medicines",
+   "publisher": "African Journals Online (AJOL)",
+   "bestHost": "publisher",
+   "bestPdf": "https://www.ajol.info/index.php/ajtcam/article/download/88121/77758",
+   "bestLanding": "https://doi.org/10.4314/ajtcam.v10i3.1",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://www.ajol.info/index.php/ajtcam/article/download/88121/77758",
+     "landing": "https://doi.org/10.4314/ajtcam.v10i3.1"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/3777576"
+    }
+   ],
+   "checkedAt": "2026-10-10"
   },
   "10.4314/ajtcam.v10i4.23": {
    "status": "ok",
@@ -77813,6 +80646,18 @@
      "landing": "https://doi.org/10.5740/jaoacint.18-0337"
     }
    ],
+   "checkedAt": "2026-10-10"
+  },
+  "10.5740/jaoacint.18-0380": {
+   "status": "ok",
+   "isOa": false,
+   "oaStatus": "closed",
+   "journal": "Journal of AOAC International",
+   "publisher": "Oxford University Press (OUP)",
+   "bestHost": "",
+   "bestPdf": "",
+   "bestLanding": "",
+   "locations": [],
    "checkedAt": "2026-10-10"
   },
   "10.5812/ijpr-134938": {
@@ -78697,6 +81542,31 @@
    ],
    "checkedAt": "2026-09-12"
   },
+  "10.7759/cureus.107376": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Cureus",
+   "publisher": "Springer Science and Business Media LLC",
+   "bestHost": "publisher",
+   "bestPdf": "https://www.cureus.com/articles/481530-network-pharmacology-perspectives-on-cerebral-palsy-mechanistic-insights-from-ayurvedic-formulations-with-emphasis-on-kalyanaka-ghritam.pdf",
+   "bestLanding": "https://doi.org/10.7759/cureus.107376",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://www.cureus.com/articles/481530-network-pharmacology-perspectives-on-cerebral-palsy-mechanistic-insights-from-ayurvedic-formulations-with-emphasis-on-kalyanaka-ghritam.pdf",
+     "landing": "https://doi.org/10.7759/cureus.107376"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "",
+     "landing": "https://pubmed.ncbi.nlm.nih.gov/42170139/"
+    }
+   ],
+   "checkedAt": "2026-10-10"
+  },
   "10.7759/cureus.22278": {
    "status": "ok",
    "isOa": true,
@@ -78796,6 +81666,31 @@
     }
    ],
    "checkedAt": "2026-09-12"
+  },
+  "10.7759/cureus.47555": {
+   "status": "ok",
+   "isOa": true,
+   "oaStatus": "gold",
+   "journal": "Cureus",
+   "publisher": "Springer Science and Business Media LLC",
+   "bestHost": "publisher",
+   "bestPdf": "https://assets.cureus.com/uploads/review_article/pdf/190566/20231024-30613-etrdi9.pdf",
+   "bestLanding": "https://doi.org/10.7759/cureus.47555",
+   "locations": [
+    {
+     "host": "publisher",
+     "version": "publishedVersion",
+     "pdf": "https://assets.cureus.com/uploads/review_article/pdf/190566/20231024-30613-etrdi9.pdf",
+     "landing": "https://doi.org/10.7759/cureus.47555"
+    },
+    {
+     "host": "repository",
+     "version": "submittedVersion",
+     "pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10665970/pdf/cureus-0015-00000047555.pdf",
+     "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/10665970"
+    }
+   ],
+   "checkedAt": "2026-10-10"
   },
   "10.7759/cureus.47703": {
    "status": "ok",

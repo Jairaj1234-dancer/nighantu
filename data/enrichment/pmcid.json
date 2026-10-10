@@ -1,6 +1,6 @@
 {
  "updatedAt": "2026-10-10",
- "count": 3891,
+ "count": 4051,
  "entries": {
   "570877": {
    "status": "not-found"
@@ -108,6 +108,9 @@
   "7197579": {
    "status": "not-found"
   },
+  "7529306": {
+   "status": "not-found"
+  },
   "7649665": {
    "status": "not-found"
   },
@@ -132,6 +135,9 @@
    "status": "not-found"
   },
   "8450317": {
+   "status": "not-found"
+  },
+  "9357172": {
    "status": "not-found"
   },
   "9363906": {
@@ -167,6 +173,9 @@
   "9914511": {
    "status": "not-found"
   },
+  "10363842": {
+   "status": "not-found"
+  },
   "10374905": {
    "status": "not-found"
   },
@@ -200,10 +209,22 @@
   "10904144": {
    "status": "not-found"
   },
+  "10927868": {
+   "status": "not-found"
+  },
   "10967448": {
    "status": "not-found"
   },
+  "11211574": {
+   "status": "not-found"
+  },
   "11243714": {
+   "status": "not-found"
+  },
+  "11484978": {
+   "status": "not-found"
+  },
+  "11510128": {
    "status": "not-found"
   },
   "11560822": {
@@ -228,6 +249,9 @@
    "status": "not-found"
   },
   "11864768": {
+   "status": "not-found"
+  },
+  "11906115": {
    "status": "not-found"
   },
   "11939104": {
@@ -341,6 +365,9 @@
   "15092455": {
    "status": "not-found"
   },
+  "15120451": {
+   "status": "not-found"
+  },
   "15133217": {
    "status": "not-found"
   },
@@ -391,6 +418,9 @@
   "15707762": {
    "status": "not-found"
   },
+  "15724840": {
+   "status": "not-found"
+  },
   "15837100": {
    "status": "not-found"
   },
@@ -431,6 +461,9 @@
    "status": "not-found"
   },
   "16289604": {
+   "status": "not-found"
+  },
+  "16295744": {
    "status": "not-found"
   },
   "16360930": {
@@ -497,6 +530,9 @@
   "16910120": {
    "status": "not-found"
   },
+  "16971083": {
+   "status": "not-found"
+  },
   "17015972": {
    "status": "not-found"
   },
@@ -513,6 +549,9 @@
    "status": "not-found"
   },
   "17196767": {
+   "status": "not-found"
+  },
+  "17228520": {
    "status": "not-found"
   },
   "17236178": {
@@ -560,6 +599,9 @@
   "17566912": {
    "status": "not-found"
   },
+  "17569220": {
+   "status": "not-found"
+  },
   "17575660": {
    "status": "not-found"
   },
@@ -567,6 +609,9 @@
    "status": "not-found"
   },
   "17613130": {
+   "status": "not-found"
+  },
+  "17762148": {
    "status": "not-found"
   },
   "17900835": {
@@ -579,6 +624,9 @@
    "status": "not-found"
   },
   "17987447": {
+   "status": "not-found"
+  },
+  "17999464": {
    "status": "not-found"
   },
   "18001713": {
@@ -606,11 +654,24 @@
    "pmcid": "PMC2259050",
    "live": true
   },
+  "18197597": {
+   "status": "not-found"
+  },
   "18210204": {
    "status": "not-found"
   },
   "18219597": {
    "status": "not-found"
+  },
+  "18296885": {
+   "status": "ok",
+   "pmcid": "PMC2839109",
+   "live": true
+  },
+  "18317552": {
+   "status": "ok",
+   "pmcid": "PMC2249737",
+   "live": true
   },
   "18327685": {
    "status": "not-found"
@@ -675,6 +736,9 @@
   "18931935": {
    "status": "not-found"
   },
+  "18980135": {
+   "status": "not-found"
+  },
   "19040391": {
    "status": "not-found"
   },
@@ -689,12 +753,18 @@
   "19126292": {
    "status": "not-found"
   },
+  "19182439": {
+   "status": "not-found"
+  },
   "19191039": {
    "status": "ok",
    "pmcid": "PMC2682367",
    "live": true
   },
   "19239140": {
+   "status": "not-found"
+  },
+  "19266913": {
    "status": "not-found"
   },
   "19296381": {
@@ -846,6 +916,14 @@
   "20430092": {
    "status": "not-found"
   },
+  "20433076": {
+   "status": "not-found"
+  },
+  "20442818": {
+   "status": "ok",
+   "pmcid": "PMC2861811",
+   "live": true
+  },
   "20448847": {
    "status": "ok",
    "pmcid": "PMC2816464",
@@ -853,6 +931,11 @@
   },
   "20473583": {
    "status": "not-found"
+  },
+  "20502543": {
+   "status": "ok",
+   "pmcid": "PMC2865809",
+   "live": true
   },
   "20502559": {
    "status": "ok",
@@ -926,6 +1009,9 @@
    "status": "not-found"
   },
   "20738174": {
+   "status": "not-found"
+  },
+  "20738179": {
    "status": "not-found"
   },
   "20818926": {
@@ -1075,6 +1161,11 @@
    "pmcid": "PMC3062122",
    "live": true
   },
+  "21455457": {
+   "status": "ok",
+   "pmcid": "PMC3059452",
+   "live": true
+  },
   "21469598": {
    "status": "not-found"
   },
@@ -1118,6 +1209,11 @@
   "21654091": {
    "status": "not-found"
   },
+  "21707995": {
+   "status": "ok",
+   "pmcid": "PMC3145568",
+   "live": true
+  },
   "21709432": {
    "status": "not-found"
   },
@@ -1154,6 +1250,11 @@
    "pmcid": "PMC3140110",
    "live": true
   },
+  "21808548": {
+   "status": "ok",
+   "pmcid": "PMC3140114",
+   "live": true
+  },
   "21808558": {
    "status": "ok",
    "pmcid": "PMC3141306",
@@ -1174,6 +1275,11 @@
   },
   "21820807": {
    "status": "not-found"
+  },
+  "21829300": {
+   "status": "ok",
+   "pmcid": "PMC3149391",
+   "live": true
   },
   "21843623": {
    "status": "not-found"
@@ -1264,6 +1370,16 @@
   "22038488": {
    "status": "not-found"
   },
+  "22048531": {
+   "status": "ok",
+   "pmcid": "PMC3202258",
+   "live": true
+  },
+  "22048534": {
+   "status": "ok",
+   "pmcid": "PMC3202259",
+   "live": true
+  },
   "22069699": {
    "status": "ok",
    "pmcid": "PMC3210461",
@@ -1291,6 +1407,16 @@
   "22131708": {
    "status": "ok",
    "pmcid": "PMC3215362",
+   "live": true
+  },
+  "22131757": {
+   "status": "ok",
+   "pmcid": "PMC3215416",
+   "live": true
+  },
+  "22131763": {
+   "status": "ok",
+   "pmcid": "PMC3215424",
    "live": true
   },
   "22171302": {
@@ -1329,6 +1455,9 @@
    "pmcid": "PMC3281365",
    "live": true
   },
+  "22265750": {
+   "status": "not-found"
+  },
   "22272107": {
    "status": "ok",
    "pmcid": "PMC3257104",
@@ -1361,6 +1490,11 @@
   "22362056": {
    "status": "not-found"
   },
+  "22408301": {
+   "status": "ok",
+   "pmcid": "PMC3296339",
+   "live": true
+  },
   "22416728": {
    "status": "not-found"
   },
@@ -1382,14 +1516,54 @@
   "22522493": {
    "status": "not-found"
   },
+  "22529652": {
+   "status": "ok",
+   "pmcid": "PMC3326884",
+   "live": true
+  },
   "22529657": {
    "status": "ok",
    "pmcid": "PMC3326889",
    "live": true
   },
+  "22529678": {
+   "status": "ok",
+   "pmcid": "PMC3326793",
+   "live": true
+  },
+  "22556544": {
+   "status": "ok",
+   "pmcid": "PMC3331289",
+   "live": true
+  },
+  "22556614": {
+   "status": "ok",
+   "pmcid": "PMC3336554",
+   "live": true
+  },
+  "22556623": {
+   "status": "ok",
+   "pmcid": "PMC3336569",
+   "live": true
+  },
+  "22556766": {
+   "status": "ok",
+   "pmcid": "PMC3331133",
+   "live": true
+  },
+  "22556860": {
+   "status": "ok",
+   "pmcid": "PMC3331117",
+   "live": true
+  },
   "22556885": {
    "status": "ok",
    "pmcid": "PMC3331076",
+   "live": true
+  },
+  "22556971": {
+   "status": "ok",
+   "pmcid": "PMC3336745",
    "live": true
   },
   "22557062": {
@@ -1417,9 +1591,24 @@
    "pmcid": "PMC3330976",
    "live": true
   },
+  "22557143": {
+   "status": "ok",
+   "pmcid": "PMC3330916",
+   "live": true
+  },
   "22557192": {
    "status": "ok",
    "pmcid": "PMC3330905",
+   "live": true
+  },
+  "22557215": {
+   "status": "ok",
+   "pmcid": "PMC3335213",
+   "live": true
+  },
+  "22557317": {
+   "status": "ok",
+   "pmcid": "PMC3336325",
    "live": true
   },
   "22557334": {
@@ -1445,6 +1634,21 @@
   "22557499": {
    "status": "ok",
    "pmcid": "PMC3331434",
+   "live": true
+  },
+  "22557532": {
+   "status": "ok",
+   "pmcid": "PMC3331475",
+   "live": true
+  },
+  "22557554": {
+   "status": "ok",
+   "pmcid": "PMC3331401",
+   "live": true
+  },
+  "22557637": {
+   "status": "ok",
+   "pmcid": "PMC3331359",
    "live": true
   },
   "22562235": {
@@ -1495,6 +1699,11 @@
   "22736886": {
    "status": "ok",
    "pmcid": "PMC3377038",
+   "live": true
+  },
+  "22736910": {
+   "status": "ok",
+   "pmcid": "PMC3326882",
    "live": true
   },
   "22754928": {
@@ -1587,6 +1796,21 @@
   "23045387": {
    "status": "not-found"
   },
+  "23049191": {
+   "status": "ok",
+   "pmcid": "PMC3456872",
+   "live": true
+  },
+  "23049195": {
+   "status": "ok",
+   "pmcid": "PMC3456848",
+   "live": true
+  },
+  "23049199": {
+   "status": "ok",
+   "pmcid": "PMC3456852",
+   "live": true
+  },
   "23055640": {
    "status": "ok",
    "pmcid": "PMC3459456",
@@ -1643,6 +1867,11 @@
   "23284206": {
    "status": "ok",
    "pmcid": "PMC3530268",
+   "live": true
+  },
+  "23284216": {
+   "status": "ok",
+   "pmcid": "PMC3530334",
    "live": true
   },
   "23286236": {
@@ -1708,6 +1937,16 @@
    "pmcid": "PMC3611635",
    "live": true
   },
+  "23559798": {
+   "status": "ok",
+   "pmcid": "PMC3611626",
+   "live": true
+  },
+  "23559806": {
+   "status": "ok",
+   "pmcid": "PMC3611637",
+   "live": true
+  },
   "23559809": {
    "status": "ok",
    "pmcid": "PMC3611640",
@@ -1735,6 +1974,9 @@
    "status": "ok",
    "pmcid": "PMC3609369",
    "live": true
+  },
+  "23590716": {
+   "status": "not-found"
   },
   "23597204": {
    "status": "not-found"
@@ -1768,6 +2010,9 @@
    "status": "ok",
    "pmcid": "PMC6270224",
    "live": true
+  },
+  "23674350": {
+   "status": "not-found"
   },
   "23682780": {
    "status": "not-found"
@@ -1812,6 +2057,9 @@
    "status": "not-found"
   },
   "23768323": {
+   "status": "not-found"
+  },
+  "23771364": {
    "status": "not-found"
   },
   "23772108": {
@@ -1873,6 +2121,11 @@
    "pmcid": "PMC3733200",
    "live": true
   },
+  "23930043": {
+   "status": "ok",
+   "pmcid": "PMC3737442",
+   "live": true
+  },
   "23954323": {
    "status": "not-found"
   },
@@ -1900,6 +2153,11 @@
    "pmcid": "PMC3848768",
    "live": true
   },
+  "24049410": {
+   "status": "ok",
+   "pmcid": "PMC3764886",
+   "live": true
+  },
   "24049414": {
    "status": "ok",
    "pmcid": "PMC3764865",
@@ -1914,6 +2172,9 @@
    "status": "ok",
    "pmcid": "PMC3716979",
    "live": true
+  },
+  "24072152": {
+   "status": "not-found"
   },
   "24073857": {
    "status": "not-found"
@@ -1946,6 +2207,11 @@
   "24143122": {
    "status": "ok",
    "pmcid": "PMC3798099",
+   "live": true
+  },
+  "24146464": {
+   "status": "ok",
+   "pmcid": "PMC3777576",
    "live": true
   },
   "24146515": {
@@ -1994,6 +2260,9 @@
   "24200497": {
    "status": "not-found"
   },
+  "24211394": {
+   "status": "not-found"
+  },
   "24215061": {
    "status": "not-found"
   },
@@ -2016,6 +2285,11 @@
   "24250144": {
    "status": "ok",
    "pmcid": "PMC3821189",
+   "live": true
+  },
+  "24250146": {
+   "status": "ok",
+   "pmcid": "PMC3821191",
    "live": true
   },
   "24250512": {
@@ -2073,8 +2347,16 @@
    "pmcid": "PMC3547440",
    "live": true
   },
+  "24394943": {
+   "status": "not-found"
+  },
   "24395464": {
    "status": "not-found"
+  },
+  "24396246": {
+   "status": "ok",
+   "pmcid": "PMC3812882",
+   "live": true
   },
   "24397264": {
    "status": "not-found"
@@ -2087,6 +2369,11 @@
   },
   "24418343": {
    "status": "not-found"
+  },
+  "24426073": {
+   "status": "ok",
+   "pmcid": "PMC3587512",
+   "live": true
   },
   "24431523": {
    "status": "ok",
@@ -2109,6 +2396,11 @@
   },
   "24498803": {
    "status": "not-found"
+  },
+  "24501526": {
+   "status": "ok",
+   "pmcid": "PMC3902597",
+   "live": true
   },
   "24511547": {
    "status": "ok",
@@ -2175,6 +2467,9 @@
    "pmcid": "PMC3934095",
    "live": true
   },
+  "24690772": {
+   "status": "not-found"
+  },
   "24695458": {
    "status": "ok",
    "pmcid": "PMC3969657",
@@ -2218,6 +2513,9 @@
    "live": true
   },
   "24783775": {
+   "status": "not-found"
+  },
+  "24794906": {
    "status": "not-found"
   },
   "24811803": {
@@ -2459,6 +2757,16 @@
    "pmcid": "PMC4209046",
    "live": true
   },
+  "25325064": {
+   "status": "ok",
+   "pmcid": "PMC4198406",
+   "live": true
+  },
+  "25336844": {
+   "status": "ok",
+   "pmcid": "PMC4204283",
+   "live": true
+  },
   "25364195": {
    "status": "ok",
    "pmcid": "PMC4213962",
@@ -2565,6 +2873,9 @@
   "25543018": {
    "status": "not-found"
   },
+  "25546349": {
+   "status": "not-found"
+  },
   "25549060": {
    "status": "ok",
    "pmcid": "PMC6272286",
@@ -2575,6 +2886,11 @@
   },
   "25554990": {
    "status": "not-found"
+  },
+  "25558159": {
+   "status": "ok",
+   "pmcid": "PMC4279320",
+   "live": true
   },
   "25558162": {
    "status": "ok",
@@ -2677,6 +2993,11 @@
   "25760294": {
    "status": "not-found"
   },
+  "25767329": {
+   "status": "ok",
+   "pmcid": "PMC4355876",
+   "live": true
+  },
   "25776008": {
    "status": "not-found"
   },
@@ -2769,6 +3090,9 @@
   "25960237": {
    "status": "not-found"
   },
+  "25963257": {
+   "status": "not-found"
+  },
   "25966965": {
    "status": "not-found"
   },
@@ -2845,6 +3169,11 @@
   },
   "26109164": {
    "status": "not-found"
+  },
+  "26109777": {
+   "status": "ok",
+   "pmcid": "PMC4461971",
+   "live": true
   },
   "26110519": {
    "status": "not-found"
@@ -3064,6 +3393,11 @@
    "pmcid": "PMC4649782",
    "live": true
   },
+  "26664242": {
+   "status": "ok",
+   "pmcid": "PMC4649568",
+   "live": true
+  },
   "26664243": {
    "status": "ok",
    "pmcid": "PMC4649570",
@@ -3226,6 +3560,11 @@
    "pmcid": "PMC4779831",
    "live": true
   },
+  "27011713": {
+   "status": "ok",
+   "pmcid": "PMC4784122",
+   "live": true
+  },
   "27011723": {
    "status": "ok",
    "pmcid": "PMC4784132",
@@ -3347,6 +3686,11 @@
    "pmcid": "PMC4910297",
    "live": true
   },
+  "27298501": {
+   "status": "ok",
+   "pmcid": "PMC4900004",
+   "live": true
+  },
   "27303599": {
    "status": "ok",
    "pmcid": "PMC4892330",
@@ -3355,6 +3699,16 @@
   "27313413": {
    "status": "ok",
    "pmcid": "PMC4895753",
+   "live": true
+  },
+  "27313416": {
+   "status": "ok",
+   "pmcid": "PMC4895756",
+   "live": true
+  },
+  "27313420": {
+   "status": "ok",
+   "pmcid": "PMC4895760",
    "live": true
   },
   "27313424": {
@@ -3379,6 +3733,9 @@
    "status": "not-found"
   },
   "27353735": {
+   "status": "not-found"
+  },
+  "27364038": {
    "status": "not-found"
   },
   "27377339": {
@@ -3445,6 +3802,9 @@
    "pmcid": "PMC4962484",
    "live": true
   },
+  "27461610": {
+   "status": "not-found"
+  },
   "27462552": {
    "status": "ok",
    "pmcid": "PMC4930536",
@@ -3490,6 +3850,9 @@
    "status": "not-found"
   },
   "27607232": {
+   "status": "not-found"
+  },
+  "27613480": {
    "status": "not-found"
   },
   "27616795": {
@@ -3614,6 +3977,9 @@
   "27854196": {
    "status": "not-found"
   },
+  "27854199": {
+   "status": "not-found"
+  },
   "27884524": {
    "status": "not-found"
   },
@@ -3632,6 +3998,9 @@
    "status": "ok",
    "pmcid": "PMC5152807",
    "live": true
+  },
+  "27966490": {
+   "status": "not-found"
   },
   "27984799": {
    "status": "not-found"
@@ -3850,6 +4219,9 @@
   "28390831": {
    "status": "not-found"
   },
+  "28392463": {
+   "status": "not-found"
+  },
   "28399663": {
    "status": "not-found"
   },
@@ -4059,6 +4431,11 @@
   "28748871": {
    "status": "not-found"
   },
+  "28757225": {
+   "status": "ok",
+   "pmcid": "PMC5607387",
+   "live": true
+  },
   "28757226": {
    "status": "ok",
    "pmcid": "PMC5607384",
@@ -4066,6 +4443,11 @@
   },
   "28764037": {
    "status": "not-found"
+  },
+  "28769802": {
+   "status": "ok",
+   "pmcid": "PMC5513973",
+   "live": true
   },
   "28803055": {
    "status": "not-found"
@@ -4209,6 +4591,11 @@
    "pmcid": "PMC5623721",
    "live": true
   },
+  "29031949": {
+   "status": "ok",
+   "pmcid": "PMC5884173",
+   "live": true
+  },
   "29034188": {
    "status": "ok",
    "pmcid": "PMC5634724",
@@ -4298,6 +4685,11 @@
   "29237302": {
    "status": "not-found"
   },
+  "29242090": {
+   "status": "ok",
+   "pmcid": "PMC6938844",
+   "live": true
+  },
   "29243333": {
    "status": "ok",
    "pmcid": "PMC7167735",
@@ -4305,6 +4697,11 @@
   },
   "29248515": {
    "status": "not-found"
+  },
+  "29249636": {
+   "status": "ok",
+   "pmcid": "PMC5884182",
+   "live": true
   },
   "29251355": {
    "status": "not-found"
@@ -4378,6 +4775,9 @@
   "29353202": {
    "status": "not-found"
   },
+  "29358550": {
+   "status": "not-found"
+  },
   "29358959": {
    "status": "ok",
    "pmcid": "PMC5735686",
@@ -4423,6 +4823,9 @@
   "29411658": {
    "status": "not-found"
   },
+  "29414544": {
+   "status": "not-found"
+  },
   "29427465": {
    "status": "not-found"
   },
@@ -4453,12 +4856,20 @@
   "29473499": {
    "status": "not-found"
   },
+  "29480523": {
+   "status": "not-found"
+  },
   "29484653": {
    "status": "not-found"
   },
   "29491630": {
    "status": "ok",
    "pmcid": "PMC5822497",
+   "live": true
+  },
+  "29491671": {
+   "status": "ok",
+   "pmcid": "PMC5822979",
    "live": true
   },
   "29491675": {
@@ -4847,6 +5258,9 @@
   "30118879": {
    "status": "not-found"
   },
+  "30119257": {
+   "status": "not-found"
+  },
   "30134897": {
    "status": "ok",
    "pmcid": "PMC6103858",
@@ -4955,6 +5369,9 @@
   "30312165": {
    "status": "not-found"
   },
+  "30317632": {
+   "status": "not-found"
+  },
   "30324614": {
    "status": "not-found"
   },
@@ -5045,6 +5462,9 @@
   "30556896": {
    "status": "not-found"
   },
+  "30563588": {
+   "status": "not-found"
+  },
   "30573271": {
    "status": "not-found"
   },
@@ -5062,6 +5482,11 @@
   "30595628": {
    "status": "ok",
    "pmcid": "PMC6287402",
+   "live": true
+  },
+  "30595632": {
+   "status": "ok",
+   "pmcid": "PMC6287407",
    "live": true
   },
   "30600708": {
@@ -5160,6 +5585,11 @@
   },
   "30782253": {
    "status": "not-found"
+  },
+  "30783359": {
+   "status": "ok",
+   "pmcid": "PMC6369605",
+   "live": true
   },
   "30783472": {
    "status": "ok",
@@ -5269,6 +5699,11 @@
   "30980598": {
    "status": "not-found"
   },
+  "31000995": {
+   "status": "ok",
+   "pmcid": "PMC6454907",
+   "live": true
+  },
   "31002692": {
    "status": "ok",
    "pmcid": "PMC6474626",
@@ -5291,6 +5726,11 @@
   "31031464": {
    "status": "ok",
    "pmcid": "PMC6444833",
+   "live": true
+  },
+  "31035513": {
+   "status": "ok",
+   "pmcid": "PMC6571565",
    "live": true
   },
   "31049430": {
@@ -5501,6 +5941,9 @@
   "31456283": {
    "status": "not-found"
   },
+  "31460771": {
+   "status": "not-found"
+  },
   "31463888": {
    "status": "not-found"
   },
@@ -5572,8 +6015,16 @@
   "31586607": {
    "status": "not-found"
   },
+  "31595424": {
+   "status": "not-found"
+  },
   "31605258": {
    "status": "not-found"
+  },
+  "31614630": {
+   "status": "ok",
+   "pmcid": "PMC6835970",
+   "live": true
   },
   "31637496": {
    "status": "not-found"
@@ -5617,6 +6068,11 @@
   },
   "31704129": {
    "status": "not-found"
+  },
+  "31708331": {
+   "status": "ok",
+   "pmcid": "PMC8039356",
+   "live": true
   },
   "31726325": {
    "status": "not-found"
@@ -5681,6 +6137,11 @@
   "31830977": {
    "status": "ok",
    "pmcid": "PMC6909592",
+   "live": true
+  },
+  "31831969": {
+   "status": "ok",
+   "pmcid": "PMC6891997",
    "live": true
   },
   "31838017": {
@@ -5759,6 +6220,9 @@
    "pmcid": "PMC6942801",
    "live": true
   },
+  "31945445": {
+   "status": "not-found"
+  },
   "31952579": {
    "status": "not-found"
   },
@@ -5818,6 +6282,9 @@
    "live": true
   },
   "32064656": {
+   "status": "not-found"
+  },
+  "32067524": {
    "status": "not-found"
   },
   "32074987": {
@@ -6026,6 +6493,11 @@
   "32365899": {
    "status": "ok",
    "pmcid": "PMC7277375",
+   "live": true
+  },
+  "32368622": {
+   "status": "ok",
+   "pmcid": "PMC7186759",
    "live": true
   },
   "32368975": {
@@ -6249,6 +6721,9 @@
   "32770526": {
    "status": "not-found"
   },
+  "32772709": {
+   "status": "not-found"
+  },
   "32777485": {
    "status": "not-found"
   },
@@ -6301,6 +6776,9 @@
    "live": true
   },
   "32878453": {
+   "status": "not-found"
+  },
+  "32885365": {
    "status": "not-found"
   },
   "32889769": {
@@ -6418,6 +6896,9 @@
    "status": "not-found"
   },
   "33011371": {
+   "status": "not-found"
+  },
+  "33015709": {
    "status": "not-found"
   },
   "33023434": {
@@ -6812,6 +7293,11 @@
   "33548771": {
    "status": "not-found"
   },
+  "33553031": {
+   "status": "ok",
+   "pmcid": "PMC7843830",
+   "live": true
+  },
   "33562414": {
    "status": "ok",
    "pmcid": "PMC7914952",
@@ -6934,6 +7420,9 @@
    "live": true
   },
   "33682999": {
+   "status": "not-found"
+  },
+  "33685313": {
    "status": "not-found"
   },
   "33688190": {
@@ -7148,6 +7637,11 @@
    "pmcid": "PMC8126721",
    "live": true
   },
+  "34012869": {
+   "status": "ok",
+   "pmcid": "PMC8116770",
+   "live": true
+  },
   "34017975": {
    "status": "ok",
    "pmcid": "PMC8202067",
@@ -7256,6 +7750,11 @@
   "34147113": {
    "status": "ok",
    "pmcid": "PMC8214773",
+   "live": true
+  },
+  "34149415": {
+   "status": "ok",
+   "pmcid": "PMC8211421",
    "live": true
   },
   "34153940": {
@@ -8003,6 +8502,9 @@
   "35015221": {
    "status": "not-found"
   },
+  "35025137": {
+   "status": "not-found"
+  },
   "35027089": {
    "status": "ok",
    "pmcid": "PMC8765733",
@@ -8107,6 +8609,9 @@
    "pmcid": "PMC8822042",
    "live": true
   },
+  "35152549": {
+   "status": "not-found"
+  },
   "35154569": {
    "status": "ok",
    "pmcid": "PMC8837466",
@@ -8143,6 +8648,9 @@
    "live": true
   },
   "35166368": {
+   "status": "not-found"
+  },
+  "35168075": {
    "status": "not-found"
   },
   "35170677": {
@@ -8350,6 +8858,11 @@
   "35325515": {
    "status": "not-found"
   },
+  "35325682": {
+   "status": "ok",
+   "pmcid": "PMC8943402",
+   "live": true
+  },
   "35328765": {
    "status": "ok",
    "pmcid": "PMC8952215",
@@ -8394,6 +8907,11 @@
   },
   "35363847": {
    "status": "not-found"
+  },
+  "35370378": {
+   "status": "ok",
+   "pmcid": "PMC8966763",
+   "live": true
   },
   "35370380": {
    "status": "ok",
@@ -8715,6 +9233,12 @@
    "pmcid": "PMC9182856",
    "live": true
   },
+  "35696981": {
+   "status": "not-found"
+  },
+  "35699160": {
+   "status": "not-found"
+  },
   "35703442": {
    "status": "not-found"
   },
@@ -8832,6 +9356,11 @@
   "35809281": {
    "status": "not-found"
   },
+  "35813359": {
+   "status": "ok",
+   "pmcid": "PMC9261991",
+   "live": true
+  },
   "35813362": {
    "status": "ok",
    "pmcid": "PMC9261990",
@@ -8928,6 +9457,11 @@
   "35883850": {
    "status": "ok",
    "pmcid": "PMC9311956",
+   "live": true
+  },
+  "35889273": {
+   "status": "ok",
+   "pmcid": "PMC9319031",
    "live": true
   },
   "35893648": {
@@ -9119,6 +9653,9 @@
    "live": true
   },
   "36053420": {
+   "status": "not-found"
+  },
+  "36055476": {
    "status": "not-found"
   },
   "36061345": {
@@ -9573,6 +10110,11 @@
   "36433663": {
    "status": "not-found"
   },
+  "36436297": {
+   "status": "ok",
+   "pmcid": "PMC9700303",
+   "live": true
+  },
   "36437466": {
    "status": "ok",
    "pmcid": "PMC9703800",
@@ -9655,6 +10197,9 @@
    "status": "not-found"
   },
   "36515031": {
+   "status": "not-found"
+  },
+  "36524912": {
    "status": "not-found"
   },
   "36535329": {
@@ -9763,6 +10308,9 @@
    "status": "not-found"
   },
   "36591966": {
+   "status": "not-found"
+  },
+  "36603787": {
    "status": "not-found"
   },
   "36611693": {
@@ -9883,6 +10431,9 @@
    "status": "not-found"
   },
   "36707989": {
+   "status": "not-found"
+  },
+  "36708174": {
    "status": "not-found"
   },
   "36713743": {
@@ -10253,6 +10804,11 @@
   },
   "37005516": {
    "status": "not-found"
+  },
+  "37007039": {
+   "status": "ok",
+   "pmcid": "PMC10063798",
+   "live": true
   },
   "37009042": {
    "status": "ok",
@@ -10906,6 +11462,11 @@
   "37528638": {
    "status": "not-found"
   },
+  "37531707": {
+   "status": "ok",
+   "pmcid": "PMC10415758",
+   "live": true
+  },
   "37533252": {
    "status": "not-found"
   },
@@ -11054,6 +11615,11 @@
   },
   "37639378": {
    "status": "not-found"
+  },
+  "37651756": {
+   "status": "ok",
+   "pmcid": "PMC10477795",
+   "live": true
   },
   "37653856": {
    "status": "ok",
@@ -11230,6 +11796,11 @@
   "37799174": {
    "status": "ok",
    "pmcid": "PMC10548253",
+   "live": true
+  },
+  "37799617": {
+   "status": "ok",
+   "pmcid": "PMC10547820",
    "live": true
   },
   "37801762": {
@@ -11499,6 +12070,11 @@
    "pmcid": "PMC10683784",
    "live": true
   },
+  "38021581": {
+   "status": "ok",
+   "pmcid": "PMC10665970",
+   "live": true
+  },
   "38021797": {
    "status": "ok",
    "pmcid": "PMC10674109",
@@ -11552,6 +12128,11 @@
   },
   "38069602": {
    "status": "not-found"
+  },
+  "38070240": {
+   "status": "ok",
+   "pmcid": "PMC10755534",
+   "live": true
   },
   "38075075": {
    "status": "ok",
@@ -13223,6 +13804,11 @@
    "pmcid": "PMC11422726",
    "live": true
   },
+  "39258271": {
+   "status": "ok",
+   "pmcid": "PMC11387087",
+   "live": true
+  },
   "39262243": {
    "status": "not-found"
   },
@@ -13634,6 +14220,16 @@
   "39626000": {
    "status": "not-found"
   },
+  "39626587": {
+   "status": "ok",
+   "pmcid": "PMC11652770",
+   "live": true
+  },
+  "39631219": {
+   "status": "ok",
+   "pmcid": "PMC11663963",
+   "live": true
+  },
   "39638094": {
    "status": "not-found"
   },
@@ -13752,6 +14348,9 @@
    "status": "ok",
    "pmcid": "PMC11688334",
    "live": true
+  },
+  "39744844": {
+   "status": "not-found"
   },
   "39745060": {
    "status": "ok",
@@ -13927,6 +14526,11 @@
   },
   "39894234": {
    "status": "not-found"
+  },
+  "39899833": {
+   "status": "ok",
+   "pmcid": "PMC11833261",
+   "live": true
   },
   "39903188": {
    "status": "not-found"
@@ -14401,6 +15005,11 @@
   "40582718": {
    "status": "not-found"
   },
+  "40584908": {
+   "status": "ok",
+   "pmcid": "PMC12204778",
+   "live": true
+  },
   "40585333": {
    "status": "ok",
    "pmcid": "PMC12206434",
@@ -14442,6 +15051,11 @@
   },
   "40628690": {
    "status": "not-found"
+  },
+  "40633355": {
+   "status": "ok",
+   "pmcid": "PMC12274825",
+   "live": true
   },
   "40633549": {
    "status": "not-found"
@@ -14498,6 +15112,11 @@
   "40689394": {
    "status": "ok",
    "pmcid": "PMC12274098",
+   "live": true
+  },
+  "40696577": {
+   "status": "ok",
+   "pmcid": "PMC12282775",
    "live": true
   },
   "40699827": {
@@ -15225,6 +15844,11 @@
    "pmcid": "PMC12905648",
    "live": true
   },
+  "41704690": {
+   "status": "ok",
+   "pmcid": "PMC12907173",
+   "live": true
+  },
   "41752424": {
    "status": "ok",
    "pmcid": "PMC12943631",
@@ -15248,6 +15872,9 @@
    "status": "ok",
    "pmcid": "PMC12985525",
    "live": true
+  },
+  "41838863": {
+   "status": "not-found"
   },
   "41863239": {
    "status": "not-found"
@@ -15320,6 +15947,21 @@
   "42067720": {
    "status": "not-found"
   },
+  "42094960": {
+   "status": "ok",
+   "pmcid": "PMC13141307",
+   "live": true
+  },
+  "42170139": {
+   "status": "ok",
+   "pmcid": "PMC13187882",
+   "live": true
+  },
+  "42172813": {
+   "status": "ok",
+   "pmcid": "PMC13217850",
+   "live": true
+  },
   "42230481": {
    "status": "not-found"
   },
@@ -15347,6 +15989,12 @@
   "42316568": {
    "status": "not-found"
   },
+  "42322259": {
+   "status": "not-found"
+  },
+  "42331198": {
+   "status": "not-found"
+  },
   "42360317": {
    "status": "not-found"
   },
@@ -15359,6 +16007,15 @@
    "live": true
   },
   "42392203": {
+   "status": "not-found"
+  },
+  "42399366": {
+   "status": "not-found"
+  },
+  "42401269": {
+   "status": "not-found"
+  },
+  "42410094": {
    "status": "not-found"
   },
   "42422073": {
@@ -15381,6 +16038,11 @@
   },
   "42490011": {
    "status": "not-found"
+  },
+  "42497785": {
+   "status": "ok",
+   "pmcid": "PMC13420479",
+   "live": true
   },
   "42503226": {
    "status": "ok",

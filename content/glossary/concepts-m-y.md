@@ -69,6 +69,8 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
 
+#### What is it made of?
+
 ### Phenolics
 
 - Vitexin
@@ -131,6 +133,8 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 | **Guna** (Quality) | Guru | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
+
+#### What is it made of?
 
 ### Mineral/Elemental Profile
 
@@ -1210,6 +1214,8 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 |----------|------|
 | English | [Sesame Oil](/glossary/concepts-m-y/#tila-taila) |
 
+#### What is it made of?
+
 ### Key Active Markers
 
 - Derived from constituent herbs (see individual herb profiles)
@@ -1306,6 +1312,8 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 | Language | Name |
 |----------|------|
 | English | Shallaki_Herb |
+
+#### What is it made of?
 
 ### Key Active Markers
 
@@ -2065,6 +2073,8 @@ Slow evaporation, gentle drying, and low-temperature processing of sensitive Ras
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
 
+#### What is it made of?
+
 ### Mineral/Elemental Profile
 
 - **Primary component:** Mercury-based preparation (Parada) with herbal processing
@@ -2317,6 +2327,8 @@ Complex distillation and sublimation of mercury compounds and other volatile met
 |----------|------|
 | English | Vite_React_Shadcn_Ts |
 
+#### What is it made of?
+
 ### Flavonoids
 
 - Quercetin
@@ -2482,6 +2494,8 @@ Complex distillation and sublimation of mercury compounds and other volatile met
 | **Guna** (Quality) | Snigdha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
+
+#### What is it made of?
 
 ### Mineral/Elemental Profile
 
