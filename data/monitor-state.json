@@ -419,7 +419,7 @@
       "https://nighantu.ageayurveda.com/choosing/reading-a-formulation-label/": "4dc81cf1af257b01",
       "https://nighantu.ageayurveda.com/choosing/who-publishes-the-composition/": "5ac925fab6704497",
       "https://nighantu.ageayurveda.com/cite/": "bf6fd0ae783a338d",
-      "https://nighantu.ageayurveda.com/compounds/": "0e06dd15aca52cf2",
+      "https://nighantu.ageayurveda.com/compounds/": "44752e90361cad21",
       "https://nighantu.ageayurveda.com/concept/": "070be28c61916a8e",
       "https://nighantu.ageayurveda.com/concept/agni-and-digestion/": "41ca7e0ca418e48b",
       "https://nighantu.ageayurveda.com/concept/ahara-vidhi/": "ae6be5b8495d7ea0",
@@ -451,7 +451,7 @@
       "https://nighantu.ageayurveda.com/concept/vyadhikshamatva/": "35110b1278a55f36",
       "https://nighantu.ageayurveda.com/corrections/": "06ed16bfc6c9cda3",
       "https://nighantu.ageayurveda.com/crosswalk/": "b277274120ce1f98",
-      "https://nighantu.ageayurveda.com/datasets/": "4b147dce2370137f",
+      "https://nighantu.ageayurveda.com/datasets/": "bc8f093c2bee0996",
       "https://nighantu.ageayurveda.com/device/": "904a44e7daa79694",
       "https://nighantu.ageayurveda.com/device/agnikarma-thermal-cauterization-instruments/": "16de9a68fe45a6a2",
       "https://nighantu.ageayurveda.com/device/basti-enema-equipment/": "b244484e7eacd7d9",
@@ -919,7 +919,7 @@
       "https://nighantu.ageayurveda.com/herb/kankshi/": "8a8364328e88088d",
       "https://nighantu.ageayurveda.com/herb/kanmad-bhasma/": "c0d52ef77de8c3ed",
       "https://nighantu.ageayurveda.com/herb/kantakari/": "e9eefed4a184bba0",
-      "https://nighantu.ageayurveda.com/herb/kapikachhu/": "7676f80b8fdf6e11",
+      "https://nighantu.ageayurveda.com/herb/kapikachhu/": "bb06d4fbe26e8eca",
       "https://nighantu.ageayurveda.com/herb/kapittha/": "a9b7aedb7cf1ac57",
       "https://nighantu.ageayurveda.com/herb/karanja/": "fba2f51fa6ce3797",
       "https://nighantu.ageayurveda.com/herb/karela/": "4ae695817732ec2a",
@@ -1649,8 +1649,8 @@
       "https://nighantu.ageayurveda.com/verification/safety-pass4/": "e61eb0d043c13093",
       "https://nighantu.ageayurveda.com/verification/safety-repair-02/": "513da4a970197564"
     },
-    "lastSubmittedAt": "2026-10-10T12:40:55.799Z",
-    "lastSubmittedCount": 38,
+    "lastSubmittedAt": "2026-10-10T13:39:34.302Z",
+    "lastSubmittedCount": 3,
     "submitted": [
       "https://nighantu.ageayurveda.com/",
       "https://nighantu.ageayurveda.com/about/",
@@ -3651,6 +3651,6 @@
     "seen": 13,
     "surfaced": 0
   },
-  "updatedAt": "2026-10-10T13:22:10.802Z",
+  "updatedAt": "2026-10-10T13:39:34.302Z",
   "version": 1
 }
