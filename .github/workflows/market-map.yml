@@ -77,7 +77,11 @@ jobs:
       - name: Run the map
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        # pipefail, because a pipe to tee otherwise hands the step tee's exit status. A Zenodo
+        # deposit workflow reported SUCCESS on a script that threw a 403 and uploaded nothing,
+        # which is how a broken measurement gets read as a finished one.
         run: |
+          set -o pipefail
           node scripts/market-map.mjs \
             --prompts "data/prompts/${{ inputs.prompts }}.json" \
             --reps "${{ inputs.reps }}" | tee /tmp/map.txt

@@ -50,7 +50,11 @@ jobs:
       - name: Probe
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: node scripts/market-map.mjs --prompts data/prompts/index-probe.json --reps 2 | tee /tmp/probe.txt
+        # pipefail: without it the step takes tee's exit status and a crashed probe reads as a
+        # clean "not cited", which is the one wrong answer this workflow must never give.
+        run: |
+          set -o pipefail
+          node scripts/market-map.mjs --prompts data/prompts/index-probe.json --reps 2 | tee /tmp/probe.txt
 
       - name: Put the reading in the run summary
         run: |

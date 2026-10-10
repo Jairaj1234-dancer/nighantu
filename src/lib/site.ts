@@ -63,11 +63,18 @@ export const CRAWLERS = [
 export const ZENODO_CONCEPT_DOI = '10.5281/zenodo.22805684';
 export const DOI_URL = `https://doi.org/${ZENODO_CONCEPT_DOI}`;
 
-/** The identity block every Dataset node on this site should carry. */
+/**
+ * The identity block every Dataset node on this site should carry.
+ *
+ * `sameAs` names both the DOI and the Wikidata item, because they answer different questions. The
+ * DOI resolves to an archived deposit; the Wikidata item is what lets an engine treat this corpus
+ * as an entity it already knows rather than a page it has just met. Q141494735 is verified as this
+ * corpus by its own official-website and DOI claims, which match this site exactly.
+ */
 export function datasetIdentity() {
   return {
     identifier: DOI_URL,
-    sameAs: DOI_URL,
+    sameAs: [DOI_URL, WIKIDATA_WORK],
     isPartOf: { '@type': 'DataCatalog', '@id': `${abs('/datasets/')}#catalog` },
   };
 }
