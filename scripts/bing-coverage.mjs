@@ -189,8 +189,31 @@ if (crawl.error) {
 console.log();
 
 // ---- does Bing have a record of each page ----------------------------------------------------
+/**
+ * A CHECKPOINT, because this runs unattended every Friday and the machine kills long processes.
+ *
+ * On 10 October this machine reclaimed memory twice and killed a Google reader mid-run. That reader
+ * had a checkpoint by then and lost nothing; this one did not, and it is the one on a schedule. An
+ * unattended run that is killed and writes nothing is indistinguishable from a run that never
+ * fired, which is the worst failure mode for a measurement whose whole point is the series.
+ *
+ * Bing also throttles per host, so re-asking what was already answered is not free.
+ */
+const CKPT = path.join(OUT_DIR, 'bing-coverage.partial.json');
+fs.mkdirSync(OUT_DIR, { recursive: true });
+const RESUME = process.argv.includes('--resume');
+// Only ANSWERS are resumable. Keying errors too would skip exactly the URLs that need re-asking,
+// which is the bug the Google reader shipped with and had to have fixed before its first resume.
+const already = RESUME && fs.existsSync(CKPT)
+  ? new Map(JSON.parse(fs.readFileSync(CKPT, 'utf8'))
+      .filter((r) => !r.error && (r.lastCrawled || r.known !== undefined))
+      .map((r) => [r.url, r]))
+  : new Map();
+if (already.size) console.log(`Resuming: ${already.size} URLs already answered.\n`);
+
 const rows = [];
 for (const [i, url] of sample.entries()) {
+  if (already.has(url)) { rows.push(already.get(url)); continue; }
   const r = await call('GetUrlInfo', { url });
   if (r.error) {
     rows.push({ url, error: r.error });
@@ -208,10 +231,14 @@ for (const [i, url] of sample.entries()) {
       known: hasRealRecord(d),
     });
   }
-  if ((i + 1) % 10 === 0) console.log(`  ...${i + 1}/${sample.length}`);
+  if ((i + 1) % 10 === 0) {
+    console.log(`  ...${i + 1}/${sample.length}`);
+    fs.writeFileSync(CKPT, `${JSON.stringify(rows)}\n`);
+  }
   if (i < sample.length - 1) await sleep(GAP_MS);
 }
 
+fs.writeFileSync(CKPT, `${JSON.stringify(rows)}\n`);
 const errored = rows.filter((r) => r.error);
 const known = rows.filter((r) => !r.error && r.known);
 const unknown = rows.filter((r) => !r.error && !r.known);

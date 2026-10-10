@@ -43,7 +43,10 @@ fi
   echo "[$STAMP] asking Bing about the fixed sample"
   # --gap 4500 because Bing throttles per host and the first run of this script learned that the
   # hard way: 63 of 83 calls came back ErrorCode 5 and the report was meaningless.
-  node --env-file=.env scripts/bing-coverage.mjs --urls "$OUT/sample.txt" --gap 4500
+  # --resume so a run killed by memory pressure continues rather than restarting. This machine
+  # killed two long processes on 10 October; an unattended weekly run that silently writes nothing
+  # is indistinguishable from one that never fired.
+  node --env-file=.env scripts/bing-coverage.mjs --urls "$OUT/sample.txt" --gap 4500 --resume
 
   # Keep every answer under its own date. The whole point is the series, not the latest reading.
   if [ -f "$OUT/bing-coverage.json" ]; then
