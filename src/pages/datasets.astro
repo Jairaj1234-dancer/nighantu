@@ -1,6 +1,6 @@
 ---
 import Page from '../layouts/Page.astro';
-import { abs, rel } from '../lib/site';
+import { abs, rel, WIKIDATA_WORK, DOI_URL } from '../lib/site';
 import compounds from '../data/compounds.json';
 import compositionSummary from '../data/composition-summary.json';
 import lexicon from '../data/lexicon.json';
@@ -174,6 +174,7 @@ const datasets = [
  * Commons and OpenAlex. It is one of the few things in this whole area with a named consumer
  * rather than a vendor assertion behind it.
  */
+// Kept local for the prose below; DOI_URL in lib/site.ts is the same value for the markup.
 const ZENODO_CONCEPT_DOI = '10.5281/zenodo.22805684';
 
 const jsonld = [
@@ -182,7 +183,10 @@ const jsonld = [
     '@type': 'DataCatalog',
     '@id': `${abs('/datasets/')}#catalog`,
     identifier: `https://doi.org/${ZENODO_CONCEPT_DOI}`,
-    sameAs: `https://doi.org/${ZENODO_CONCEPT_DOI}`,
+    // Both identities: the DOI resolves to the archived deposit, the Wikidata item is what lets an
+    // engine treat this corpus as an entity it already knows. Q141494735 is verified as this
+    // corpus by its own official-website and DOI claims.
+    sameAs: [`https://doi.org/${ZENODO_CONCEPT_DOI}`, WIKIDATA_WORK],
     name: 'Age Ayurveda Nighantu Data Catalog',
     description,
     url: abs('/datasets/'),
@@ -198,6 +202,7 @@ const jsonld = [
       description: d.description,
       url: abs((d as any).browse ?? '/datasets/'),
       identifier: `https://doi.org/${ZENODO_CONCEPT_DOI}`,
+      sameAs: [`https://doi.org/${ZENODO_CONCEPT_DOI}`, WIKIDATA_WORK],
       isAccessibleForFree: true,
       license: 'https://creativecommons.org/licenses/by/4.0/',
       creator: {

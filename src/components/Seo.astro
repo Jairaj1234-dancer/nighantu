@@ -1,5 +1,5 @@
 ---
-import { SITE_NAME, PUBLISHER, STORE, abs, WIKIDATA_PUBLISHER} from '../lib/site';
+import { SITE_NAME, PUBLISHER, STORE, abs, WIKIDATA_PUBLISHER, WIKIDATA_WORK } from '../lib/site';
 
 interface Props {
   title: string;
@@ -50,6 +50,19 @@ const blocks = [
     name: SITE_NAME,
     url: abs('/'),
     publisher: organization,
+    /**
+     * The corpus's own Wikidata entity, which existed and was linked from nowhere.
+     *
+     * WIKIDATA_PUBLISHER has been on every page for months, so the COMPANY was resolvable and the
+     * WORK was not. That is the wrong way round for a reference corpus: asked "what is the Age
+     * Ayurveda Nighantu", a panel run on 9 October did not cite this site, and an encyclopedia with
+     * no entity record is invisible as a thing rather than as a page.
+     *
+     * Q141494735 is verified as this corpus and not a near-match: it carries official website
+     * https://nighantu.ageayurveda.com/ and DOI 10.5281/zenodo.22805684, both exactly ours. The
+     * generic Wikidata item for the nighantu GENRE is Q3630449 and must never be used here.
+     */
+    sameAs: WIKIDATA_WORK,
   },
   ...(Array.isArray(jsonld) ? jsonld : jsonld ? [jsonld] : []),
 ];

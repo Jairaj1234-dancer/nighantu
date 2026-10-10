@@ -63,10 +63,27 @@ jobs:
       # The script refuses to run unless every file it would upload has a sentence describing it,
       # creates a NEW VERSION of the existing record rather than a new deposition, removes the
       # inherited repository zip, uploads the data files with a manifest, and stops at a draft.
+      # ZENODO BLOCKS GITHUB ACTIONS IP RANGES, so this step is expected to fail here.
+      #
+      # The first run returned an HTML block page, not an API error: "Access to this resource has
+      # been restricted due to unusual traffic from your network." That is Zenodo rate-limiting the
+      # shared runner address space, and no token fixes it. The deposit therefore has to run from a
+      # machine with an ordinary address, which means locally:
+      #
+      #   ZENODO_TOKEN=... node scripts/zenodo-deposit.mjs --deposit
+      #
+      # The step is kept rather than deleted because the block may lift and because the steps above
+      # it are the valuable part: they generate every download and report exactly what would be
+      # deposited, which is worth having even when the upload cannot proceed from here.
+      #
+      # `set -o pipefail` IS LOAD-BEARING. Without it the pipe to tee made the step's exit status
+      # tee's, so the first run reported SUCCESS while the script threw a 403 and deposited
+      # nothing. A failed deposit that looks like a successful run is worse than no workflow.
       - name: Deposit
         env:
           ZENODO_TOKEN: ${{ secrets.ZENODO_TOKEN }}
         run: |
+          set -o pipefail
           if [ -z "${ZENODO_TOKEN:-}" ]; then
             echo "ZENODO_TOKEN is not set as a repository secret."
             echo "Set it with: gh secret set ZENODO_TOKEN"
