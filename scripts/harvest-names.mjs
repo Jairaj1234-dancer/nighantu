@@ -61,7 +61,24 @@ async function fetchEntities(ids) {
     formatversion: '2',
   });
   for (let attempt = 1; attempt <= 3; attempt += 1) {
-    const res = await fetch(url, { headers: { 'User-Agent': UA, 'Accept': 'application/json' } });
+    let res;
+    try {
+      res = await fetch(url, {
+        headers: { 'User-Agent': UA, 'Accept': 'application/json' },
+        signal: AbortSignal.timeout(30000),
+      });
+    } catch (e) {
+      /**
+       * A THROWN FETCH IS THE SAME EVENT AS A 503, and this retry loop used to handle only one of
+       * them. scripts/gsc-coverage.mjs lost a 1,239-call run to exactly this: it retried HTTP
+       * status codes and let a `read ETIMEDOUT` throw straight out of the loop and kill the
+       * process. The shape of the bug is a retry loop that believes failure only arrives with a
+       * status attached.
+       */
+      if (attempt === 3) throw new Error(`wikidata network: ${e.cause?.code ?? e.message}`);
+      await sleep(attempt * 2000);
+      continue;
+    }
     if (res.ok) {
       const json = await res.json();
       if (json.error) throw new Error(`wikidata: ${json.error.info ?? 'unknown error'}`);
