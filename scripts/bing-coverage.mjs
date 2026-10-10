@@ -137,17 +137,37 @@ const crawl = await call('GetCrawlStats');
 if (crawl.error) {
   console.log(`GetCrawlStats: ${crawl.error}`);
 } else if (Array.isArray(crawl.data) && crawl.data.length) {
-  const recent = crawl.data.slice(-7);
-  const sum = (k) => recent.reduce((n, r) => n + (r[k] ?? 0), 0);
-  console.log('Crawl, last 7 reported days');
-  console.log(`  crawled pages     ${sum('CrawledPages')}`);
-  console.log(`  in the index      ${sum('InIndex')}`);
-  console.log(`  200 responses     ${sum('Code2xx')}`);
-  console.log(`  301 / 302         ${sum('Code301')} / ${sum('Code302')}`);
-  console.log(`  4xx / 5xx         ${sum('Code4xx')} / ${sum('Code5xx')}`);
-  console.log(`  blocked by robots ${sum('BlockedByRobotsTxt')}`);
-  console.log(`  dns failures      ${sum('DnsFailures')}`);
-  console.log(`  timeouts          ${sum('ConnTimeout')}`);
+  /**
+   * SOME OF THESE FIELDS ARE DAILY COUNTS AND SOME ARE RUNNING TOTALS. Summing the wrong ones
+   * invents numbers.
+   *
+   * An earlier version summed all of them over seven days and reported "in the index 2045" for a
+   * site with 1,239 pages, and "4xx/5xx 0/7" as though there were a server error every day.
+   * Reading the series settles it: CrawledPages fluctuates day to day, so it is a daily count;
+   * InIndex, Code2xx and Code5xx only ever climb or hold, so they are cumulative. The real
+   * figures were 513 in the index and ONE 5xx, on 25 September, carried forward ever since.
+   *
+   * So each field is reported the way it is kept, and the report says which is which. The dates
+   * are printed too, because Bing's series lags by about a week and a stale figure read as current
+   * is its own kind of wrong answer.
+   */
+  const CUMULATIVE = ['InIndex', 'Code2xx', 'Code301', 'Code302', 'Code4xx', 'Code5xx',
+    'BlockedByRobotsTxt', 'DnsFailures', 'ConnectionTimeout', 'AllOtherCodes'];
+  const rows = crawl.data;
+  const latest = rows[rows.length - 1];
+  const dayOf = (v) => {
+    const m = /\/Date\((-?\d+)/.exec(String(v));
+    return m ? new Date(Number(m[1])).toISOString().slice(0, 10) : '?';
+  };
+  const last7 = rows.slice(-7);
+  console.log(`Crawl, as Bing last reported it (${dayOf(rows[0].Date)} to ${dayOf(latest.Date)})`);
+  console.log(`  pages crawled, sum of the last 7 days   ${last7.reduce((n, r) => n + (r.CrawledPages ?? 0), 0)}`);
+  console.log('  the rest are running totals, not daily:');
+  for (const k of CUMULATIVE) {
+    if (latest[k] === undefined) continue;
+    console.log(`    ${k.padEnd(20)} ${latest[k]}`);
+  }
+  console.log(`  NOTE: that series ends ${dayOf(latest.Date)}, so it is not today's position.`);
 } else {
   console.log('GetCrawlStats: no rows. Bing has no crawl history for this site url.');
 }
