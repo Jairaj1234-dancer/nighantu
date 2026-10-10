@@ -512,7 +512,7 @@
       "https://nighantu.ageayurveda.com/formulation/agnitundi-vati/": "8a4fa26fdf1807ee",
       "https://nighantu.ageayurveda.com/formulation/ajamoda-arka/": "1984c4723144971a",
       "https://nighantu.ageayurveda.com/formulation/ajamodadi-churna/": "08821501fee667bb",
-      "https://nighantu.ageayurveda.com/formulation/amalaka-rasayana/": "3d75d2816abe66e0",
+      "https://nighantu.ageayurveda.com/formulation/amalaka-rasayana/": "5bfa76bbf85afe91",
       "https://nighantu.ageayurveda.com/formulation/amalaki-rasayana/": "1d0f07bd45863eb3",
       "https://nighantu.ageayurveda.com/formulation/amrita-ghrita/": "7a8bdf83ae092165",
       "https://nighantu.ageayurveda.com/formulation/amritaprasha-ghrita/": "777383bc039b180d",
@@ -1606,8 +1606,8 @@
       "https://nighantu.ageayurveda.com/verification/safety-pass4/": "e61eb0d043c13093",
       "https://nighantu.ageayurveda.com/verification/safety-repair-02/": "513da4a970197564"
     },
-    "lastSubmittedAt": "2026-10-10T05:52:37.053Z",
-    "lastSubmittedCount": 32,
+    "lastSubmittedAt": "2026-10-10T06:18:32.599Z",
+    "lastSubmittedCount": 1,
     "submitted": [
       "https://nighantu.ageayurveda.com/",
       "https://nighantu.ageayurveda.com/about/",
@@ -3614,6 +3614,6 @@
     "seen": 5,
     "surfaced": 0
   },
-  "updatedAt": "2026-10-10T05:52:37.053Z",
+  "updatedAt": "2026-10-10T06:18:32.599Z",
   "version": 1
 }
