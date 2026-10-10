@@ -215,8 +215,33 @@ for (const p of pages) {
 
 // ------------------------------------------- source 3: fresh PubMed for thin pages
 if (!NO_FETCH && !DRY) {
+  /**
+   * THE BINOMIAL FILTER EXCLUDES EVERY FORMULATION PAGE, and did so silently.
+   *
+   * A formulation is a multi-herb preparation with no single botanical name: 142 of 143 formulation
+   * pages have an empty `botanical` field, so `p.binomial` is falsy and this step has never queried
+   * one of them. The result is that 102 of 143 hold no literature at all, against a median of 12
+   * per herb page.
+   *
+   * It is NOT fixed by dropping the filter. A binomial query cannot match the wrong plant; a
+   * formulation-name query can match the wrong thing entirely, because "Guggulu" returns the
+   * pharmacology of a resin that says nothing about Punarnavadi Guggulu. Precision there needs a
+   * generic-name skip list, orthographic variants that cannot change which drug is named, and a
+   * check that each record actually names the formulation.
+   *
+   * That belongs in its own script with its own review step, and it has one:
+   * scripts/formulation-research.mjs, which reports candidates and writes nothing. This filter
+   * stays as it is, now stated rather than implied, and the count below says what it skips so the
+   * exclusion is visible in every run's output instead of hiding in a predicate.
+   */
   const thin = pages.filter((p) => p.binomial && result[`${p.kind}/${p.slug}`].citations.length < 6);
+  const skippedNoBinomial = pages.filter(
+    (p) => !p.binomial && result[`${p.kind}/${p.slug}`].citations.length < 6,
+  );
+  const skippedFormulations = skippedNoBinomial.filter((p) => p.kind === 'formulation').length;
   console.log(`\nquerying PubMed for ${thin.length} pages with a binomial and thin coverage`);
+  console.log(`  skipping ${skippedNoBinomial.length} thin pages with no binomial, of which ` +
+    `${skippedFormulations} are formulations: see scripts/formulation-research.mjs`);
   let n = 0;
   for (const p of thin) {
     n += 1;
