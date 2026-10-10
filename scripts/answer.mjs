@@ -1,16 +1,50 @@
 import { stripMarkup, wordCount } from './lib.mjs';
 
 // What may never enter an answer block, and why: scripts/lib/answer-safety.mjs.
-import { isDose, isDiseaseClaim } from './lib/answer-safety.mjs';
+import { isDose, isDiseaseClaim, isBibliographic } from './lib/answer-safety.mjs';
 
-const sentenceList = (text) => stripMarkup(
-  text
-    .replace(/^#+.*$/gm, '')
-    .replace(/^\|.*$/gm, '')       // tables carry no prose
-    .replace(/^[-*]\s+/gm, ''),
-)
+/**
+ * Candidate sentences, bibliography excluded.
+ *
+ * THE ORDER HERE IS THE WHOLE POINT. This used to call stripMarkup on the text and split the
+ * result, which meant every candidate reached the filters with its markup already gone and nothing
+ * downstream could tell a sentence about the drug from a citation line. 60 pages therefore opened
+ * with a study title, because the richest source of candidates, "Which traditional uses are
+ * supported by research?", is the one section lib/claims.mjs fills with citations.
+ *
+ * So: split the raw text, discard the bibliographic pieces while they are still recognisable, and
+ * only then strip markup from what survives.
+ */
+const sentenceList = (text) => text
+  .replace(/^#+.*$/gm, '')
+  .replace(/^\|.*$/gm, '')       // tables carry no prose
+  .replace(/^[-*]\s+/gm, '')
+  /**
+   * A LINE that is nothing but an emphasised span is editorial apparatus, not prose.
+   *
+   * claims.mjs shortfallNote emits exactly one such line: "*2 further claims previously listed here
+   * could not be traced to a published paper and have been removed. An absence here means we could
+   * not identify the source, not that no work exists.*" It holds an internal sentence boundary, so
+   * splitting cuts it in half, neither half is wholly emphasised any more, and both became
+   * candidates. Five answer blocks are currently apologising to searchers for claims they no longer
+   * make.
+   *
+   * THIS IS LINE-SCOPED BECAUSE EMPHASIS IS NOT A REGULAR LANGUAGE. The first attempt matched an
+   * italic span across the whole text with /\*[^*]+[.!?]\s[^*]+\*/, which cannot tell which
+   * asterisks pair: on a cited section it opened at the CLOSING asterisk of "*Journal of Ayurveda
+   * and integrative medicine*" and closed at the OPENING asterisk of the note, deleting the two
+   * sentences between them. Scoped to one line there is only one span to find, which is the same
+   * reason lib.mjs redact() is line-scoped.
+   *
+   * It also leaves "*Mucuna pruriens*" alone, since that is never a whole line, and leaves
+   * `**bold**` labels alone via the guards.
+   */
+  .split('\n')
+  .filter((line) => !/^\s*(?<!\*)\*(?!\*)[^*]+\*(?!\*)[.\s]*$/.test(line))
+  .join('\n')
   .split(/(?<=[.!?])\s+/)
-  .map((x) => x.trim())
+  .filter((x) => !isBibliographic(x))
+  .map((x) => stripMarkup(x).trim())
   .filter((x) => x.length > 30 && x.length < 320 && /[a-z]/.test(x))
   .filter((x) => !isDose(x) && !isDiseaseClaim(x));
 

@@ -760,104 +760,8 @@
    "unresolved": true
   },
   {
-   "name": "[Ajwain] Trachyspermum ammi",
+   "name": "Ajwain Trachyspermum ammi",
    "slug": "ajwain-trachyspermum-ammi",
-   "count": 2,
-   "unresolved": true
-  },
-  {
-   "name": "[Amlaparni] Oxalis corniculata L",
-   "slug": "amlaparni-oxalis-corniculata-l",
-   "count": 2,
-   "unresolved": true
-  },
-  {
-   "name": "[Aragwadha] Cassia fistula L",
-   "slug": "aragwadha-cassia-fistula-l",
-   "count": 2,
-   "unresolved": true
-  },
-  {
-   "name": "[Bijapura] Citrus medica L",
-   "slug": "bijapura-citrus-medica-l",
-   "count": 2,
-   "unresolved": true
-  },
-  {
-   "name": "[Coconut Oil Narikela Taila]",
-   "slug": "coconut-oil-narikela-taila",
-   "count": 2,
-   "unresolved": true
-  },
-  {
-   "name": "[Coconut Oil]",
-   "slug": "coconut-oil",
-   "count": 2,
-   "unresolved": true
-  },
-  {
-   "name": "[Danti] Baliospermum montanum Muell.-Arg",
-   "slug": "danti-baliospermum-montanum-muell-arg",
-   "count": 2,
-   "unresolved": true
-  },
-  {
-   "name": "[Devadaru] Cedrus deodara G.Don",
-   "slug": "devadaru-cedrus-deodara-g-don",
-   "count": 2,
-   "unresolved": true
-  },
-  {
-   "name": "[Himasagara Thailam]",
-   "slug": "himasagara-thailam",
-   "count": 2,
-   "unresolved": true
-  },
-  {
-   "name": "[Jatamansi]",
-   "slug": "jatamansi",
-   "count": 2,
-   "unresolved": true
-  },
-  {
-   "name": "[Laung] Syzygium aromaticum",
-   "slug": "laung-syzygium-aromaticum",
-   "count": 2,
-   "unresolved": true
-  },
-  {
-   "name": "[Madhuka] Madhuca longifolia J.F.Macbr",
-   "slug": "madhuka-madhuca-longifolia-j-f-macbr",
-   "count": 2,
-   "unresolved": true
-  },
-  {
-   "name": "[Mahasudarshan Churna]",
-   "slug": "mahasudarshan-churna",
-   "count": 2,
-   "unresolved": true
-  },
-  {
-   "name": "[Mishreya] Foeniculum vulgare Mill",
-   "slug": "mishreya-foeniculum-vulgare-mill",
-   "count": 2,
-   "unresolved": true
-  },
-  {
-   "name": "[Pudina] Mentha spicata",
-   "slug": "pudina-mentha-spicata",
-   "count": 2,
-   "unresolved": true
-  },
-  {
-   "name": "[Vidarikand] Pueraria tuberosa DC",
-   "slug": "vidarikand-pueraria-tuberosa-dc",
-   "count": 2,
-   "unresolved": true
-  },
-  {
-   "name": "[Yashtimadhu]",
-   "slug": "yashtimadhu",
    "count": 2,
    "unresolved": true
   },
@@ -882,6 +786,12 @@
    "inchikey": "WUOACPNHFRMFPN-UHFFFAOYSA-N",
    "smiles": "CC1=CCC(CC1)C(C)(C)O",
    "iupacName": "2-(4-methylcyclohex-3-en-1-yl)propan-2-ol"
+  },
+  {
+   "name": "Amlaparni Oxalis corniculata L",
+   "slug": "amlaparni-oxalis-corniculata-l",
+   "count": 2,
+   "unresolved": true
   },
   {
    "name": "Anthocyanins",
@@ -925,6 +835,12 @@
   {
    "name": "Arabinogalactan",
    "slug": "arabinogalactan",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Aragwadha Cassia fistula L",
+   "slug": "aragwadha-cassia-fistula-l",
    "count": 2,
    "unresolved": true
   },
@@ -1028,6 +944,12 @@
    "iupacName": "(1R,3aS,5aR,5bR,7aR,9S,11aR,11bR,13aR,13bR)-3a-(hydroxymethyl)-5a,5b,8,8,11a-pentamethyl-1-prop-1-en-2-yl-1,2,3,4,5,6,7,7a,9,10,11,11b,12,13,13a,13b-hexadecahydrocyclopenta[a]chrysen-9-ol"
   },
   {
+   "name": "Bijapura Citrus medica L",
+   "slug": "bijapura-citrus-medica-l",
+   "count": 2,
+   "unresolved": true
+  },
+  {
    "name": "Calcium",
    "slug": "calcium",
    "count": 2,
@@ -1072,6 +994,18 @@
    "iupacName": "(2S)-2-[(3S,4S)-3-carboxy-5,6,7-trihydroxy-1-oxo-3,4-dihydroisochromen-4-yl]butanedioic acid"
   },
   {
+   "name": "Coconut Oil",
+   "slug": "coconut-oil",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Coconut Oil Narikela Taila",
+   "slug": "coconut-oil-narikela-taila",
+   "count": 2,
+   "unresolved": true
+  },
+  {
    "name": "Cold maceration",
    "slug": "cold-maceration",
    "count": 2,
@@ -1110,6 +1044,18 @@
    "inchikey": "SEBIKDIMAPSUBY-RTJKDTQDSA-N",
    "smiles": "CC(=CC=CC=C(C)C=CC=C(C)C(=O)OC1C(C(C(C(O1)COC2C(C(C(C(O2)CO)O)O)O)O)O)O)C=CC=C(C)C(=O)OC3C(C(C(C(O3)COC4C(C(C(C(O4)CO)O)O)O)O)O)O",
    "iupacName": "bis[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-[[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]oxan-2-yl] (2E,4E,6E,8E,10E,12E,14E)-2,6,11,15-tetramethylhexadeca-2,4,6,8,10,12,14-heptaenedioate"
+  },
+  {
+   "name": "Danti Baliospermum montanum Muell.-Arg",
+   "slug": "danti-baliospermum-montanum-muell-arg",
+   "count": 2,
+   "unresolved": true
+  },
+  {
+   "name": "Devadaru Cedrus deodara G.Don",
+   "slug": "devadaru-cedrus-deodara-g-don",
+   "count": 2,
+   "unresolved": true
   },
   {
    "name": "Dietary fiber",
@@ -1158,6 +1104,12 @@
    "iupacName": "(1S,3Z,5R,7R)-3-[(3,4-dihydroxyphenyl)-hydroxymethylidene]-6,6-dimethyl-5,7-bis(3-methylbut-2-enyl)-1-[(2S)-5-methyl-2-prop-1-en-2-ylhex-4-enyl]bicyclo[3.3.1]nonane-2,4,9-trione"
   },
   {
+   "name": "Haritaki",
+   "slug": "haritaki",
+   "count": 2,
+   "unresolved": true
+  },
+  {
    "name": "Hesperidin",
    "slug": "hesperidin",
    "count": 2,
@@ -1167,6 +1119,12 @@
    "inchikey": "QUQPHWDTPGMPEX-QJBIFVCTSA-N",
    "smiles": "CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC(=C(C=C5)OC)O)O)O)O)O)O)O)O",
    "iupacName": "(2S)-5-hydroxy-2-(3-hydroxy-4-methoxyphenyl)-7-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-[[(2R,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxymethyl]oxan-2-yl]oxy-2,3-dihydrochromen-4-one"
+  },
+  {
+   "name": "Himasagara Thailam",
+   "slug": "himasagara-thailam",
+   "count": 2,
+   "unresolved": true
   },
   {
    "name": "Hispidulin",
@@ -1247,6 +1205,12 @@
    "iupacName": "2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one"
   },
   {
+   "name": "Jatamansi",
+   "slug": "jatamansi",
+   "count": 2,
+   "unresolved": true
+  },
+  {
    "name": "Jatrorrhizine",
    "slug": "jatrorrhizine",
    "count": 2,
@@ -1267,6 +1231,12 @@
    "inchikey": "CAHGCLMLTWQZNJ-BQNIITSRSA-N",
    "smiles": "CC(CCC=C(C)C)C1CCC2(C1(CCC3=C2CCC4C3(CCC(C4(C)C)O)C)C)C",
    "iupacName": "(3S,5R,10S,13R,14R,17R)-4,4,10,13,14-pentamethyl-17-[(2R)-6-methylhept-5-en-2-yl]-2,3,5,6,7,11,12,15,16,17-decahydro-1H-cyclopenta[a]phenanthren-3-ol"
+  },
+  {
+   "name": "Laung Syzygium aromaticum",
+   "slug": "laung-syzygium-aromaticum",
+   "count": 2,
+   "unresolved": true
   },
   {
    "name": "Lauric acid",
@@ -1291,6 +1261,12 @@
    "iupacName": "(9Z,12Z)-octadeca-9,12-dienoic acid"
   },
   {
+   "name": "Madhuka Madhuca longifolia J.F.Macbr",
+   "slug": "madhuka-madhuca-longifolia-j-f-macbr",
+   "count": 2,
+   "unresolved": true
+  },
+  {
    "name": "Magnoflorine",
    "slug": "magnoflorine",
    "count": 2,
@@ -1302,6 +1278,12 @@
    "iupacName": "(6aS)-2,10-dimethoxy-6,6-dimethyl-5,6,6a,7-tetrahydro-4H-dibenzo[de,g]quinolin-6-ium-1,11-diol"
   },
   {
+   "name": "Mahasudarshan Churna",
+   "slug": "mahasudarshan-churna",
+   "count": 2,
+   "unresolved": true
+  },
+  {
    "name": "Mannitol",
    "slug": "mannitol",
    "count": 2,
@@ -1311,6 +1293,12 @@
    "inchikey": "FBPFZTCFMRRESA-KVTDHHQDSA-N",
    "smiles": "C(C(C(C(C(CO)O)O)O)O)O",
    "iupacName": "(2R,3R,4R,5R)-hexane-1,2,3,4,5,6-hexol"
+  },
+  {
+   "name": "Mishreya Foeniculum vulgare Mill",
+   "slug": "mishreya-foeniculum-vulgare-mill",
+   "count": 2,
+   "unresolved": true
   },
   {
    "name": "Palmatine",
@@ -1423,6 +1411,12 @@
    "inchikey": "VLEUZFDZJKSGMX-ONEGZZNKSA-N",
    "smiles": "COC1=CC(=CC(=C1)C=CC2=CC=C(C=C2)O)OC",
    "iupacName": "4-[(E)-2-(3,5-dimethoxyphenyl)ethenyl]phenol"
+  },
+  {
+   "name": "Pudina Mentha spicata",
+   "slug": "pudina-mentha-spicata",
+   "count": 2,
+   "unresolved": true
   },
   {
    "name": "Punicalagin",
@@ -1618,6 +1612,12 @@
    "iupacName": "4-hydroxy-3-methoxybenzoic acid"
   },
   {
+   "name": "Vidarikand Pueraria tuberosa DC",
+   "slug": "vidarikand-pueraria-tuberosa-dc",
+   "count": 2,
+   "unresolved": true
+  },
+  {
    "name": "Vitamin C",
    "slug": "vitamin-c",
    "count": 2,
@@ -1635,6 +1635,12 @@
    "unresolved": true
   },
   {
+   "name": "Yashtimadhu",
+   "slug": "yashtimadhu",
+   "count": 2,
+   "unresolved": true
+  },
+  {
    "name": "Zingiberene",
    "slug": "zingiberene",
    "count": 2,
@@ -1644,822 +1650,6 @@
    "inchikey": "KKOXKGNSUHTUBV-LSDHHAIUSA-N",
    "smiles": "CC1=CCC(C=C1)C(C)CCC=C(C)C",
    "iupacName": "(5R)-2-methyl-5-[(2S)-6-methylhept-5-en-2-yl]cyclohexa-1,3-diene"
-  },
-  {
-   "name": "[Adhaki] Cajanus cajan Millsp",
-   "slug": "adhaki-cajanus-cajan-millsp",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Aivana] Salvia officinalis L",
-   "slug": "aivana-salvia-officinalis-l",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Akarakarabha] Anacyclus pyrethrum Lag",
-   "slug": "akarakarabha-anacyclus-pyrethrum-lag",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Akika Pishti]",
-   "slug": "akika-pishti",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Akshotaka] Juglans regia L",
-   "slug": "akshotaka-juglans-regia-l",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Ambasthaki] Cissampelos pareira L",
-   "slug": "ambasthaki-cissampelos-pareira-l",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Amla] Phyllanthus emblica",
-   "slug": "amla-phyllanthus-emblica",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Amra] Mangifera indica L",
-   "slug": "amra-mangifera-indica-l",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Amritarishta]",
-   "slug": "amritarishta",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Ankola] Alangium salviifolium Wangerin",
-   "slug": "ankola-alangium-salviifolium-wangerin",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Aparajita] Clitoria ternatea L",
-   "slug": "aparajita-clitoria-ternatea-l",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Ashoka]",
-   "slug": "ashoka",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Ashwagandha] combinations)",
-   "slug": "ashwagandha-combinations",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Ashwagandha] extract",
-   "slug": "ashwagandha-extract",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Atasi] Linum usitatissimum L",
-   "slug": "atasi-linum-usitatissimum-l",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Avipattikar] Churna",
-   "slug": "avipattikar-churna",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Bakuchi Taila]",
-   "slug": "bakuchi-taila",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Bakula] Mimusops elengi L",
-   "slug": "bakula-mimusops-elengi-l",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Balarishta]",
-   "slug": "balarishta",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Bhringaraja Svarasa]",
-   "slug": "bhringaraja-svarasa",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Bhringraj]",
-   "slug": "bhringraj",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Brahmi] extract",
-   "slug": "brahmi-extract",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Chandrashura] Lepidium sativum L",
-   "slug": "chandrashura-lepidium-sativum-l",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Changeri] Oxalis corniculata L",
-   "slug": "changeri-oxalis-corniculata-l",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Chhatraka] Agaricus campestris L",
-   "slug": "chhatraka-agaricus-campestris-l",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Chitrak] Plumbago zeylanica L",
-   "slug": "chitrak-plumbago-zeylanica-l",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Chyawanprash]",
-   "slug": "chyawanprash",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Coriander Herb]",
-   "slug": "coriander-herb",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Coriander]",
-   "slug": "coriander",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Daruharidra] Berberis aristata DC",
-   "slug": "daruharidra-berberis-aristata-dc",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Dashmool Dashmoolarishta]",
-   "slug": "dashmool-dashmoolarishta",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Dhanwantaram Thailam]",
-   "slug": "dhanwantaram-thailam",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Dhanyaka] Coriandrum sativum L",
-   "slug": "dhanyaka-coriandrum-sativum-l",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Dhataki]",
-   "slug": "dhataki",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Draksharishta]",
-   "slug": "draksharishta",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Durva]",
-   "slug": "durva",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Eranda Moola]",
-   "slug": "eranda-moola",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Eranda]",
-   "slug": "eranda",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Eranda] Ricinus communis L",
-   "slug": "eranda-ricinus-communis-l",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Giloy] Tinospora cordifolia",
-   "slug": "giloy-tinospora-cordifolia",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Godanti Bhasma]",
-   "slug": "godanti-bhasma",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Gomutra]",
-   "slug": "gomutra",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Guduchi] combinations)",
-   "slug": "guduchi-combinations",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Guduchi] preparations",
-   "slug": "guduchi-preparations",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Guduchi] Tinospora cordifolia",
-   "slug": "guduchi-tinospora-cordifolia",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Guggulu]",
-   "slug": "guggulu",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Haritaki] formulations)",
-   "slug": "haritaki-formulations",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Hingu] Ferula asafoetida",
-   "slug": "hingu-ferula-asafoetida",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Hrivera]",
-   "slug": "hrivera",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Ikshu]",
-   "slug": "ikshu",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Indukantham Ghritam]",
-   "slug": "indukantham-ghritam",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Jati]",
-   "slug": "jati",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Jyotishmati]",
-   "slug": "jyotishmati",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Kalajaji] Nigella sativa L",
-   "slug": "kalajaji-nigella-sativa-l",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Kalyanaka Ghritam]",
-   "slug": "kalyanaka-ghritam",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Kasturi]",
-   "slug": "kasturi",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Kataka] Strychnos potatorum L.f",
-   "slug": "kataka-strychnos-potatorum-l-f",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Kharjura] Phoenix dactylifera L",
-   "slug": "kharjura-phoenix-dactylifera-l",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Kovidara] Bauhinia purpurea L",
-   "slug": "kovidara-bauhinia-purpurea-l",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Kshavaka] Amaranthus spinosus L",
-   "slug": "kshavaka-amaranthus-spinosus-l",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Kshirabala Thailam]",
-   "slug": "kshirabala-thailam",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Kumbhika]",
-   "slug": "kumbhika",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Kumud]",
-   "slug": "kumud",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Kumuda]",
-   "slug": "kumuda",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Kushmanda Khanda]",
-   "slug": "kushmanda-khanda",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Kushmanda] Benincasa hispida Cogn",
-   "slug": "kushmanda-benincasa-hispida-cogn",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Kusumbha]",
-   "slug": "kusumbha",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Laghu Sutshekhar Ras]",
-   "slug": "laghu-sutshekhar-ras",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Lasuna Ksheerapaka]",
-   "slug": "lasuna-ksheerapaka",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Lasuna] Allium sativum L",
-   "slug": "lasuna-allium-sativum-l",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Lodhra] Symplocos racemosa Roxb",
-   "slug": "lodhra-symplocos-racemosa-roxb",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Madayantika]",
-   "slug": "madayantika",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Maha Narayana Thailam]",
-   "slug": "maha-narayana-thailam",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Mahabala] Sida rhombifolia L",
-   "slug": "mahabala-sida-rhombifolia-l",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Mahayograj Guggul]",
-   "slug": "mahayograj-guggul",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Mamsarohini]",
-   "slug": "mamsarohini",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Mandukparni]",
-   "slug": "mandukparni",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Matulunga] Citrus medica L",
-   "slug": "matulunga-citrus-medica-l",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Mukta Pishti]",
-   "slug": "mukta-pishti",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Nagakesara]",
-   "slug": "nagakesara",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Nagarmotha] Cyperus rotundus",
-   "slug": "nagarmotha-cyperus-rotundus",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Narayana Thailam]",
-   "slug": "narayana-thailam",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Narikela] Cocos nucifera L",
-   "slug": "narikela-cocos-nucifera-l",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Neelibringadi Thailam]",
-   "slug": "neelibringadi-thailam",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Nili] Indigofera tinctoria L",
-   "slug": "nili-indigofera-tinctoria-l",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Nirgundi]",
-   "slug": "nirgundi",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Nirgundi] Vitex negundo L",
-   "slug": "nirgundi-vitex-negundo-l",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Nyagrodha] Ficus benghalensis L",
-   "slug": "nyagrodha-ficus-benghalensis-l",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Palankya] Spinacia oleracea L",
-   "slug": "palankya-spinacia-oleracea-l",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Panchatikta Ghrita]",
-   "slug": "panchatikta-ghrita",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Panna Pishti]",
-   "slug": "panna-pishti",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Parijata] Nyctanthes arbor-tristis L",
-   "slug": "parijata-nyctanthes-arbor-tristis-l",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Phanita]",
-   "slug": "phanita",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Pitta-Balancing Herbs]",
-   "slug": "pitta-balancing-herbs",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Plaksha] Ficus lacor Buch.-Ham",
-   "slug": "plaksha-ficus-lacor-buch-ham",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Pradarantak Lauh]",
-   "slug": "pradarantak-lauh",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Prapunnada]",
-   "slug": "prapunnada",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Pravala Pishti]",
-   "slug": "pravala-pishti",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Priyangu] Callicarpa macrophylla Vahl",
-   "slug": "priyangu-callicarpa-macrophylla-vahl",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Pushyanuga Churna]",
-   "slug": "pushyanuga-churna",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Rishabhaka] Manilkara hexandra Dubard",
-   "slug": "rishabhaka-manilkara-hexandra-dubard",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Rohisha]",
-   "slug": "rohisha",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Saffron] — Crocus sativus",
-   "slug": "saffron-crocus-sativus",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Saireyaka]",
-   "slug": "saireyaka",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Sala] Shorea robusta Gaertn.f",
-   "slug": "sala-shorea-robusta-gaertn-f",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Sariva] — Hemidesmus indicus",
-   "slug": "sariva-hemidesmus-indicus",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Shadbindu Taila]",
-   "slug": "shadbindu-taila",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Shankha Bhasma]",
-   "slug": "shankha-bhasma",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Sharapunkha]",
-   "slug": "sharapunkha",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Shatavari]",
-   "slug": "shatavari",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Shatavari] extract",
-   "slug": "shatavari-extract",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Shirisha] Albizia lebbeck Benth",
-   "slug": "shirisha-albizia-lebbeck-benth",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Simhanada Guggulu]",
-   "slug": "simhanada-guggulu",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Sita]",
-   "slug": "sita",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Sitopaladi Churna]",
-   "slug": "sitopaladi-churna",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Srikhandasava]",
-   "slug": "srikhandasava",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Sukumaram Ghritam]",
-   "slug": "sukumaram-ghritam",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Swarna Bhasma]",
-   "slug": "swarna-bhasma",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Talisadi Churna]",
-   "slug": "talisadi-churna",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Tapyadi Loha]",
-   "slug": "tapyadi-loha",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Taruni]",
-   "slug": "taruni",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Tila] Sesamum indicum L",
-   "slug": "tila-sesamum-indicum-l",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Trapusha]",
-   "slug": "trapusha",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Triphala Churna]",
-   "slug": "triphala-churna",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Triphala Herbs]",
-   "slug": "triphala-herbs",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Triphaladi Thailam]",
-   "slug": "triphaladi-thailam",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Utpala]",
-   "slug": "utpala",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Vacha]",
-   "slug": "vacha",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Vanapsa] Viola odorata L",
-   "slug": "vanapsa-viola-odorata-l",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Vasa] Adhatoda vasica Nees",
-   "slug": "vasa-adhatoda-vasica-nees",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Vata-Balancing Herbs]",
-   "slug": "vata-balancing-herbs",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Vatagajankush Rasa]",
-   "slug": "vatagajankush-rasa",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Vathada]",
-   "slug": "vathada",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Vidari]",
-   "slug": "vidari",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Vriddhadaru]",
-   "slug": "vriddhadaru",
-   "count": 1,
-   "unresolved": true
-  },
-  {
-   "name": "[Yashada Bhasma]",
-   "slug": "yashada-bhasma",
-   "count": 1,
-   "unresolved": true
   },
   {
    "name": "10-Deacetylbaccatin III",
@@ -2546,6 +1736,12 @@
    "iupacName": "[(2R,3R,4R,5R,6R)-6-[2-(3,4-dihydroxyphenyl)ethoxy]-5-hydroxy-2-(hydroxymethyl)-4-[(2S,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-3-yl] (E)-3-(3,4-dihydroxyphenyl)prop-2-enoate"
   },
   {
+   "name": "Adhaki Cajanus cajan Millsp",
+   "slug": "adhaki-cajanus-cajan-millsp",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Aervine",
    "slug": "aervine",
    "count": 1,
@@ -2569,6 +1765,12 @@
    "iupacName": "[(1S,4aR,5S,7aS)-5-hydroxy-1-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-1,4a,5,7a-tetrahydrocyclopenta[c]pyran-7-yl]methyl 4-hydroxybenzoate"
   },
   {
+   "name": "Aivana Salvia officinalis L",
+   "slug": "aivana-salvia-officinalis-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Ajmalicine",
    "slug": "ajmalicine",
    "count": 1,
@@ -2589,6 +1791,24 @@
    "inchikey": "CJDRUOGAGYHKKD-RQBLFBSQSA-N",
    "smiles": "CCC1C2CC3C4C5(CC(C2C5O)N3C1O)C6=CC=CC=C6N4C",
    "iupacName": "(1R,9R,10S,12R,13S,14R,16S,17S,18R)-13-ethyl-8-methyl-8,15-diazahexacyclo[14.2.1.01,9.02,7.010,15.012,17]nonadeca-2,4,6-triene-14,18-diol"
+  },
+  {
+   "name": "Akarakarabha Anacyclus pyrethrum Lag",
+   "slug": "akarakarabha-anacyclus-pyrethrum-lag",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Akika Pishti",
+   "slug": "akika-pishti",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Akshotaka Juglans regia L",
+   "slug": "akshotaka-juglans-regia-l",
+   "count": 1,
+   "unresolved": true
   },
   {
    "name": "Alangicine",
@@ -2791,14 +2011,14 @@
    "unresolved": true
   },
   {
-   "name": "Amalaki Churna )",
-   "slug": "amalaki-churna",
+   "name": "Amalaki",
+   "slug": "amalaki",
    "count": 1,
    "unresolved": true
   },
   {
-   "name": "Amalaki synergy)",
-   "slug": "amalaki-synergy",
+   "name": "Amalaki Churna",
+   "slug": "amalaki-churna",
    "count": 1,
    "unresolved": true
   },
@@ -2814,6 +2034,12 @@
    "iupacName": "(2S)-5-[(2S,3R,4S,5S,6R)-3-[(2R,3R,4S,5S,6S)-6-carboxy-3,4,5-trihydroxyoxan-2-yl]oxy-4,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-1-[(2E)-2-(2,6-dicarboxy-2,3-dihydro-1H-pyridin-4-ylidene)ethylidene]-6-hydroxy-2,3-dihydroindol-1-ium-2-carboxylate"
   },
   {
+   "name": "Ambasthaki Cissampelos pareira L",
+   "slug": "ambasthaki-cissampelos-pareira-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Amentoflavone",
    "slug": "amentoflavone",
    "count": 1,
@@ -2827,6 +2053,24 @@
   {
    "name": "Amla",
    "slug": "amla",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Amla Phyllanthus emblica",
+   "slug": "amla-phyllanthus-emblica",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Amra Mangifera indica L",
+   "slug": "amra-mangifera-indica-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Amritarishta",
+   "slug": "amritarishta",
    "count": 1,
    "unresolved": true
   },
@@ -2865,6 +2109,12 @@
    "iupacName": "(5S,8R,9S,10S,13R,14S)-10,13-dimethyl-1,2,4,5,6,7,8,9,11,12,14,15-dodecahydrocyclopenta[a]phenanthren-3-one"
   },
   {
+   "name": "Ankola Alangium salviifolium Wangerin",
+   "slug": "ankola-alangium-salviifolium-wangerin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Ankorine",
    "slug": "ankorine",
    "count": 1,
@@ -2874,6 +2124,12 @@
    "inchikey": "UYQRWUWLBSTWCM-XEZPLFJOSA-N",
    "smiles": "CCC1CN2CCC3=C(C(=C(C=C3C2CC1CCO)OC)OC)O",
    "iupacName": "(2R,3R,11bS)-3-ethyl-2-(2-hydroxyethyl)-9,10-dimethoxy-2,3,4,6,7,11b-hexahydro-1H-benzo[a]quinolizin-8-ol"
+  },
+  {
+   "name": "Aparajita Clitoria ternatea L",
+   "slug": "aparajita-clitoria-ternatea-l",
+   "count": 1,
+   "unresolved": true
   },
   {
    "name": "Aqueous decoction of bark/leaves",
@@ -2954,6 +2210,24 @@
    "unresolved": true
   },
   {
+   "name": "Ashoka",
+   "slug": "ashoka",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Ashwagandha",
+   "slug": "ashwagandha",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Ashwagandha extract",
+   "slug": "ashwagandha-extract",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Asparagamine A",
    "slug": "asparagamine-a",
    "count": 1,
@@ -2962,6 +2236,12 @@
   {
    "name": "Asparanin A-D",
    "slug": "asparanin-a-d",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Atasi Linum usitatissimum L",
+   "slug": "atasi-linum-usitatissimum-l",
    "count": 1,
    "unresolved": true
   },
@@ -2986,6 +2266,12 @@
    "inchikey": "RNXZPKOEJUFJON-UHFFFAOYSA-N",
    "smiles": "CC1=CC2=C(C(=C1O)OC)C(=O)C3=C(C(=C(C=C3C2=O)O)OC)O",
    "iupacName": "1,3,7-trihydroxy-2,8-dimethoxy-6-methylanthracene-9,10-dione"
+  },
+  {
+   "name": "Avipattikar Churna",
+   "slug": "avipattikar-churna",
+   "count": 1,
+   "unresolved": true
   },
   {
    "name": "Azadirachtin",
@@ -3071,6 +2357,12 @@
    "iupacName": "(E)-1-[4-hydroxy-2-(2-hydroxypropan-2-yl)-2,3-dihydro-1-benzofuran-5-yl]-3-(4-hydroxyphenyl)prop-2-en-1-one"
   },
   {
+   "name": "Bakuchi Taila",
+   "slug": "bakuchi-taila",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Bakuchiol",
    "slug": "bakuchiol",
    "count": 1,
@@ -3080,6 +2372,12 @@
    "inchikey": "LFYJSSARVMHQJB-QIXNEVBVSA-N",
    "smiles": "CC(=CCCC(C)(C=C)C=CC1=CC=C(C=C1)O)C",
    "iupacName": "4-[(1E,3S)-3-ethenyl-3,7-dimethylocta-1,6-dienyl]phenol"
+  },
+  {
+   "name": "Bakula Mimusops elengi L",
+   "slug": "bakula-mimusops-elengi-l",
+   "count": 1,
+   "unresolved": true
   },
   {
    "name": "Balanitin-6",
@@ -3102,6 +2400,12 @@
    "inchikey": "DYAJQSYEQXVRFW-RAEGJVERSA-N",
    "smiles": "CC1CCC2(C(C3C(O2)CC4C3(CCC5C4CC=C6C5(CCC(C6)OC7C(C(C(C(O7)CO)OC8C(C(C(C(O8)CO)O)OC9C(C(C(CO9)O)O)O)O)O)OC2C(C(C(C(O2)C)O)O)O)C)C)C)OC1",
    "iupacName": "(2S,3R,4R,5R,6S)-2-[(2R,3R,4S,5S,6R)-5-[(2S,3R,4S,5R,6R)-3,5-dihydroxy-6-(hydroxymethyl)-4-[(2S,3R,4S,5R)-3,4,5-trihydroxyoxan-2-yl]oxyoxan-2-yl]oxy-4-hydroxy-6-(hydroxymethyl)-2-[(1S,2S,4S,5'S,6R,7S,8R,9S,12S,13R,16S)-5',7,9,13-tetramethylspiro[5-oxapentacyclo[10.8.0.02,9.04,8.013,18]icos-18-ene-6,2'-oxane]-16-yl]oxyoxan-3-yl]oxy-6-methyloxane-3,4,5-triol"
+  },
+  {
+   "name": "Balarishta",
+   "slug": "balarishta",
+   "count": 1,
+   "unresolved": true
   },
   {
    "name": "Bavachinin",
@@ -3243,6 +2547,18 @@
    "unresolved": true
   },
   {
+   "name": "Bhringaraja Svarasa",
+   "slug": "bhringaraja-svarasa",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Bhringraj",
+   "slug": "bhringraj",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Bioflavonoids",
    "slug": "bioflavonoids",
    "count": 1,
@@ -3251,6 +2567,12 @@
   {
    "name": "Blood-letting lancets",
    "slug": "blood-letting-lancets",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Brahmi extract",
+   "slug": "brahmi-extract",
    "count": 1,
    "unresolved": true
   },
@@ -3507,6 +2829,18 @@
    "iupacName": "[(1S,4R,5R,6S)-4-(1,3-benzodioxol-5-yl)-5-[(E)-2-(1,3-benzodioxol-5-yl)ethenyl]-6-(piperidine-1-carbonyl)cyclohex-2-en-1-yl]-piperidin-1-ylmethanone"
   },
   {
+   "name": "Chandrashura Lepidium sativum L",
+   "slug": "chandrashura-lepidium-sativum-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Changeri Oxalis corniculata L",
+   "slug": "changeri-oxalis-corniculata-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Chebulinic acid",
    "slug": "chebulinic-acid",
    "count": 1,
@@ -3529,8 +2863,20 @@
    "iupacName": "(4R)-4-[(3R,5S,7R,8R,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-17-yl]pentanoic acid"
   },
   {
+   "name": "Chhatraka Agaricus campestris L",
+   "slug": "chhatraka-agaricus-campestris-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Chitrak",
    "slug": "chitrak",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Chitrak Plumbago zeylanica L",
+   "slug": "chitrak-plumbago-zeylanica-l",
    "count": 1,
    "unresolved": true
   },
@@ -3640,6 +2986,12 @@
    "iupacName": "2-hydroxy-1,6,7,8-tetramethoxy-3-methylanthracene-9,10-dione"
   },
   {
+   "name": "Chyawanprash",
+   "slug": "chyawanprash",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Cinnamaldehyde",
    "slug": "cinnamaldehyde",
    "count": 1,
@@ -3731,6 +3083,18 @@
   {
    "name": "Cordifolioside A-E",
    "slug": "cordifolioside-a-e",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Coriander",
+   "slug": "coriander",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Coriander Herb",
+   "slug": "coriander-herb",
    "count": 1,
    "unresolved": true
   },
@@ -3920,6 +3284,18 @@
    "unresolved": true
   },
   {
+   "name": "Daruharidra Berberis aristata DC",
+   "slug": "daruharidra-berberis-aristata-dc",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Dashmool Dashmoolarishta",
+   "slug": "dashmool-dashmoolarishta",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Daucosterol",
    "slug": "daucosterol",
    "count": 1,
@@ -3984,6 +3360,24 @@
    "inchikey": "CEAWIMABVSITMV-UHFFFAOYSA-N",
    "smiles": "CC1(C=CC2=C(C3=C(C=C2O1)OCC4C3OC5=CC(=C(C=C45)OC)O)OC)C",
    "iupacName": "7,21-dimethoxy-17,17-dimethyl-3,12,16-trioxapentacyclo[11.8.0.02,10.04,9.015,20]henicosa-1(13),4,6,8,14,18,20-heptaen-6-ol"
+  },
+  {
+   "name": "Dhanwantaram Thailam",
+   "slug": "dhanwantaram-thailam",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Dhanyaka Coriandrum sativum L",
+   "slug": "dhanyaka-coriandrum-sativum-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Dhataki",
+   "slug": "dhataki",
+   "count": 1,
+   "unresolved": true
   },
   {
    "name": "Dihydrocadambine",
@@ -4076,6 +3470,18 @@
    "unresolved": true
   },
   {
+   "name": "Draksharishta",
+   "slug": "draksharishta",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Dried bottle gourd",
+   "slug": "dried-bottle-gourd",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Droserone",
    "slug": "droserone",
    "count": 1,
@@ -4089,6 +3495,12 @@
   {
    "name": "Dumetoronins A-F",
    "slug": "dumetoronins-a-f",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Durva",
+   "slug": "durva",
    "count": 1,
    "unresolved": true
   },
@@ -4203,6 +3615,24 @@
   {
    "name": "Epigallocatechin-7-gallate",
    "slug": "epigallocatechin-7-gallate",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Eranda",
+   "slug": "eranda",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Eranda Moola",
+   "slug": "eranda-moola",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Eranda Ricinus communis L",
+   "slug": "eranda-ricinus-communis-l",
    "count": 1,
    "unresolved": true
   },
@@ -4488,6 +3918,12 @@
    "unresolved": true
   },
   {
+   "name": "Giloy Tinospora cordifolia",
+   "slug": "giloy-tinospora-cordifolia",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Ginger",
    "slug": "ginger",
    "count": 1,
@@ -4546,14 +3982,44 @@
    "iupacName": "[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl] (1E)-2-phenyl-N-sulfooxyethanimidothioate"
   },
   {
+   "name": "Godanti Bhasma",
+   "slug": "godanti-bhasma",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Gold-plated vessels",
    "slug": "gold-plated-vessels",
    "count": 1,
    "unresolved": true
   },
   {
+   "name": "Gomutra",
+   "slug": "gomutra",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Gourd",
    "slug": "gourd",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Guduchi",
+   "slug": "guduchi",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Guduchi preparations",
+   "slug": "guduchi-preparations",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Guduchi Tinospora cordifolia",
+   "slug": "guduchi-tinospora-cordifolia",
    "count": 1,
    "unresolved": true
   },
@@ -4570,6 +4036,12 @@
    "unresolved": true
   },
   {
+   "name": "Guggulu",
+   "slug": "guggulu",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Guineensine",
    "slug": "guineensine",
    "count": 1,
@@ -4579,12 +4051,6 @@
    "inchikey": "FPMPOFBEYSSYDQ-AUVZEZIHSA-N",
    "smiles": "CC(C)CNC(=O)C=CC=CCCCCCCC=CC1=CC2=C(C=C1)OCO2",
    "iupacName": "(2E,4E,12E)-13-(1,3-benzodioxol-5-yl)-N-(2-methylpropyl)trideca-2,4,12-trienamide"
-  },
-  {
-   "name": "Haritaki",
-   "slug": "haritaki",
-   "count": 1,
-   "unresolved": true
   },
   {
    "name": "Hedychenone",
@@ -4643,6 +4109,12 @@
    "iupacName": "(4aR,5R,9aS)-2,5,9,9-tetramethyl-4,4a,6,7,8,9a-hexahydro-3H-benzo[7]annulen-5-ol"
   },
   {
+   "name": "Hingu Ferula asafoetida",
+   "slug": "hingu-ferula-asafoetida",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Hippuric acid",
    "slug": "hippuric-acid",
    "count": 1,
@@ -4673,6 +4145,12 @@
   {
    "name": "Honey",
    "slug": "honey",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Hrivera",
+   "slug": "hrivera",
    "count": 1,
    "unresolved": true
   },
@@ -4714,6 +4192,12 @@
    "inchikey": "JUUBCHWRXWPFFH-UHFFFAOYSA-N",
    "smiles": "C1=CC(=C(C=C1CCO)O)O",
    "iupacName": "4-(2-hydroxyethyl)benzene-1,2-diol"
+  },
+  {
+   "name": "Ikshu",
+   "slug": "ikshu",
+   "count": 1,
+   "unresolved": true
   },
   {
    "name": "Incensole acetate",
@@ -4764,6 +4248,12 @@
    "inchikey": "JNLNPCNGMHKCKO-UHFFFAOYSA-N",
    "smiles": "C1=CC=C2C(=C1)C(=C(N2)O)C3=NC4=CC=CC=C4C3=O",
    "iupacName": "2-(2-hydroxy-1H-indol-3-yl)indol-3-one"
+  },
+  {
+   "name": "Indukantham Ghritam",
+   "slug": "indukantham-ghritam",
+   "count": 1,
+   "unresolved": true
   },
   {
    "name": "Ingenol esters",
@@ -4962,8 +4452,32 @@
    "iupacName": "(1S,2S,5S,6S,7R,10S)-2-formyl-10-hydroxy-6-(hydroxymethyl)-6-methyltricyclo[5.3.1.01,5]undec-8-ene-8-carboxylic acid"
   },
   {
+   "name": "Jati",
+   "slug": "jati",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Jujubogenin glycosides",
    "slug": "jujubogenin-glycosides",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Jyotishmati",
+   "slug": "jyotishmati",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Kalajaji Nigella sativa L",
+   "slug": "kalajaji-nigella-sativa-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Kalyanaka Ghritam",
+   "slug": "kalyanaka-ghritam",
    "count": 1,
    "unresolved": true
   },
@@ -5013,8 +4527,80 @@
    "iupacName": "3-methoxy-2-phenylfuro[2,3-h]chromen-4-one"
   },
   {
+   "name": "Kasturi",
+   "slug": "kasturi",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Kataka Strychnos potatorum L.f",
+   "slug": "kataka-strychnos-potatorum-l-f",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Kharjura Phoenix dactylifera L",
+   "slug": "kharjura-phoenix-dactylifera-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Kokum butter",
    "slug": "kokum-butter",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Kovidara Bauhinia purpurea L",
+   "slug": "kovidara-bauhinia-purpurea-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Kshavaka Amaranthus spinosus L",
+   "slug": "kshavaka-amaranthus-spinosus-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Kshirabala Thailam",
+   "slug": "kshirabala-thailam",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Kumbhika",
+   "slug": "kumbhika",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Kumud",
+   "slug": "kumud",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Kumuda",
+   "slug": "kumuda",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Kushmanda Benincasa hispida Cogn",
+   "slug": "kushmanda-benincasa-hispida-cogn",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Kushmanda Khanda",
+   "slug": "kushmanda-khanda",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Kusumbha",
+   "slug": "kusumbha",
    "count": 1,
    "unresolved": true
   },
@@ -5048,8 +4634,26 @@
    "iupacName": "(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2R)-2-[[(2S,3R)-2-[[(2S,3S)-2-[[(2S)-2-[[[(2S)-1-[(2S)-2-[[2-[[(2S)-2-[[(2S)-6-amino-2-[[(2S)-6-amino-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2R)-2-[[(2S)-6-amino-2-[[(2S)-2-amino-1-hydroxy-3-phenylpropylidene]amino]-1-hydroxyhexylidene]amino]-1-hydroxy-3-sulfanylpropylidene]amino]-5-carbamimidamido-1-hydroxypentylidene]amino]-5-carbamimidamido-1-hydroxypentylidene]amino]-1-hydroxy-3-(1H-indol-3-yl)propylidene]amino]-1,5-dihydroxy-5-iminopentylidene]amino]-1-hydroxy-3-(1H-indol-3-yl)propylidene]amino]-5-carbamimidamido-1-hydroxypentylidene]amino]-1-hydroxy-4-methylsulfanylbutylidene]amino]-1-hydroxyhexylidene]amino]-1-hydroxyhexylidene]amino]-1-hydroxy-4-methylpentylidene]amino]-1-hydroxyethylidene]amino]propanoyl]pyrrolidin-2-yl]-hydroxymethylidene]amino]-1,3-dihydroxypropylidene]amino]-1-hydroxy-3-methylpentylidene]amino]-1,3-dihydroxybutylidene]amino]-1-hydroxy-3-sulfanylpropylidene]amino]-1-hydroxy-3-methylbutylidene]amino]-5-carbamimidamido-1-hydroxypentylidene]amino]-5-carbamimidamido-1-hydroxypentylidene]amino]-1-hydroxypropylidene]amino]-3-phenylpropanoic acid"
   },
   {
+   "name": "Laghu Sutshekhar Ras",
+   "slug": "laghu-sutshekhar-ras",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Lamarckianin",
    "slug": "lamarckianin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Lasuna Allium sativum L",
+   "slug": "lasuna-allium-sativum-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Lasuna Ksheerapaka",
+   "slug": "lasuna-ksheerapaka",
    "count": 1,
    "unresolved": true
   },
@@ -5126,6 +4730,12 @@
    "iupacName": "(2S)-7-hydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one"
   },
   {
+   "name": "Lodhra Symplocos racemosa Roxb",
+   "slug": "lodhra-symplocos-racemosa-roxb",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Lup-20",
    "slug": "lup-20",
    "count": 1,
@@ -5165,6 +4775,12 @@
    "iupacName": "6-[2-(3,4-dihydroxyphenyl)-5-hydroxy-4-oxochromen-7-yl]oxy-3,4,5-trihydroxyoxane-2-carboxylic acid"
   },
   {
+   "name": "Madayantika",
+   "slug": "madayantika",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Magnocurarine",
    "slug": "magnocurarine",
    "count": 1,
@@ -5174,6 +4790,24 @@
    "inchikey": "CLWOXNLVWMXBRD-QGZVFWFLSA-O",
    "smiles": "C[N+]1(CCC2=CC(=C(C=C2C1CC3=CC=C(C=C3)O)O)OC)C",
    "iupacName": "(1R)-1-[(4-hydroxyphenyl)methyl]-6-methoxy-2,2-dimethyl-3,4-dihydro-1H-isoquinolin-2-ium-7-ol"
+  },
+  {
+   "name": "Maha Narayana Thailam",
+   "slug": "maha-narayana-thailam",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Mahabala Sida rhombifolia L",
+   "slug": "mahabala-sida-rhombifolia-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Mahayograj Guggul",
+   "slug": "mahayograj-guggul",
+   "count": 1,
+   "unresolved": true
   },
   {
    "name": "Mahmoodin",
@@ -5195,6 +4829,18 @@
   {
    "name": "Mallotucin D",
    "slug": "mallotucin-d",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Mamsarohini",
+   "slug": "mamsarohini",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Mandukparni",
+   "slug": "mandukparni",
    "count": 1,
    "unresolved": true
   },
@@ -5231,6 +4877,12 @@
    "inchikey": "IQTGAKWQIFFPQX-UHFFFAOYSA-N",
    "smiles": "COC1=CC(=CC2=C1C(=O)C(O2)(CC3=CC=C(C=C3)O)O)O",
    "iupacName": "2,6-dihydroxy-2-[(4-hydroxyphenyl)methyl]-4-methoxy-1-benzofuran-3-one"
+  },
+  {
+   "name": "Matulunga Citrus medica L",
+   "slug": "matulunga-citrus-medica-l",
+   "count": 1,
+   "unresolved": true
   },
   {
    "name": "Medical-grade silicone nasal catheters",
@@ -5336,6 +4988,12 @@
    "unresolved": true
   },
   {
+   "name": "Mukta Pishti",
+   "slug": "mukta-pishti",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Multi-stage glass distillation apparatus",
    "slug": "multi-stage-glass-distillation-apparatus",
    "count": 1,
@@ -5403,6 +5061,30 @@
    "iupacName": "(4aS,5R,6R,8aS)-6-hydroxy-5-[(3E,7E,11E)-13-hydroxy-4,8,12-trimethyltrideca-3,7,11-trienyl]-1,1,4a,6-tetramethyl-3,4,5,7,8,8a-hexahydronaphthalen-2-one"
   },
   {
+   "name": "Nagakesara",
+   "slug": "nagakesara",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Nagarmotha Cyperus rotundus",
+   "slug": "nagarmotha-cyperus-rotundus",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Narayana Thailam",
+   "slug": "narayana-thailam",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Narikela Cocos nucifera L",
+   "slug": "narikela-cocos-nucifera-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Naringin",
    "slug": "naringin",
    "count": 1,
@@ -5412,6 +5094,12 @@
    "inchikey": "DFPMSGMNTNDNHN-ZPHOTFPESA-N",
    "smiles": "CC1C(C(C(C(O1)OC2C(C(C(OC2OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O",
    "iupacName": "(2S)-7-[(2S,3R,4S,5S,6R)-4,5-dihydroxy-6-(hydroxymethyl)-3-[(2S,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-2-yl]oxy-5-hydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one"
+  },
+  {
+   "name": "Neelibringadi Thailam",
+   "slug": "neelibringadi-thailam",
+   "count": 1,
+   "unresolved": true
   },
   {
    "name": "Neferine",
@@ -5473,6 +5161,12 @@
    "inchikey": "FPRGRROJPRIHJP-UHFFFAOYSA-N",
    "smiles": "CC(C)C1=CC(=O)C2(C(C1=O)C3(C2C(=O)C(=CC3=O)C(C)C)C)C",
    "iupacName": "4b,8b-dimethyl-3,7-di(propan-2-yl)-4a,8a-dihydrobiphenylene-1,4,5,8-tetrone"
+  },
+  {
+   "name": "Nili Indigofera tinctoria L",
+   "slug": "nili-indigofera-tinctoria-l",
+   "count": 1,
+   "unresolved": true
   },
   {
    "name": "Niloticane",
@@ -5555,6 +5249,18 @@
    "iupacName": "(3S,8S,9S,10R,13R,14S,17R)-17-[(2R,5R)-5-ethyl-6-methylheptan-2-yl]-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-ol"
   },
   {
+   "name": "Nirgundi",
+   "slug": "nirgundi",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Nirgundi Vitex negundo L",
+   "slug": "nirgundi-vitex-negundo-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Nor-sesquiterpenoids",
    "slug": "nor-sesquiterpenoids",
    "count": 1,
@@ -5585,6 +5291,12 @@
   {
    "name": "Nujiangbiflavone A",
    "slug": "nujiangbiflavone-a",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Nyagrodha Ficus benghalensis L",
+   "slug": "nyagrodha-ficus-benghalensis-l",
    "count": 1,
    "unresolved": true
   },
@@ -5723,6 +5435,24 @@
    "iupacName": "[(1S,2S,3R,4S,7R,9S,10S,12R,15S)-4,12-diacetyloxy-15-[(2R,3S)-3-benzamido-2-hydroxy-3-phenylpropanoyl]oxy-1,9-dihydroxy-10,14,17,17-tetramethyl-11-oxo-6-oxatetracyclo[11.3.1.03,10.04,7]heptadec-13-en-2-yl] benzoate"
   },
   {
+   "name": "Palankya Spinacia oleracea L",
+   "slug": "palankya-spinacia-oleracea-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Panchatikta Ghrita",
+   "slug": "panchatikta-ghrita",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Panna Pishti",
+   "slug": "panna-pishti",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Para-cymene",
    "slug": "para-cymene",
    "count": 1,
@@ -5743,6 +5473,12 @@
    "inchikey": "FATHTIKRRBRTFD-UHFFFAOYSA-O",
    "smiles": "C[N+]1(COC2=CC(=C(C=C2C1CC3=CC(=C(C=C3)O)OC)OC)OC)C",
    "iupacName": "4-[(6,7-dimethoxy-3,3-dimethyl-2,4-dihydro-1,3-benzoxazin-3-ium-4-yl)methyl]-2-methoxyphenol"
+  },
+  {
+   "name": "Parijata Nyctanthes arbor-tristis L",
+   "slug": "parijata-nyctanthes-arbor-tristis-l",
+   "count": 1,
+   "unresolved": true
   },
   {
    "name": "Pedunculagin",
@@ -5780,6 +5516,12 @@
   {
    "name": "Percolation with graded alcohol",
    "slug": "percolation-with-graded-alcohol",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Phanita",
+   "slug": "phanita",
    "count": 1,
    "unresolved": true
   },
@@ -5853,6 +5595,18 @@
    "unresolved": true
   },
   {
+   "name": "Pitta-Balancing Herbs",
+   "slug": "pitta-balancing-herbs",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Plaksha Ficus lacor Buch.-Ham",
+   "slug": "plaksha-ficus-lacor-buch-ham",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Pluviatilol",
    "slug": "pluviatilol",
    "count": 1,
@@ -5912,6 +5666,30 @@
    "inchikey": "WCUXLLCKKVVCTQ-UHFFFAOYSA-M",
    "smiles": "[Cl-].[K+]",
    "iupacName": "potassium chloride"
+  },
+  {
+   "name": "Pradarantak Lauh",
+   "slug": "pradarantak-lauh",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Prapunnada",
+   "slug": "prapunnada",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Pravala Pishti",
+   "slug": "pravala-pishti",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Priyangu Callicarpa macrophylla Vahl",
+   "slug": "priyangu-callicarpa-macrophylla-vahl",
+   "count": 1,
+   "unresolved": true
   },
   {
    "name": "Proanthocyanidins",
@@ -6079,6 +5857,12 @@
    "inchikey": "BBNQQADTFFCFGB-UHFFFAOYSA-N",
    "smiles": "C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=C(C=C3O)O)O",
    "iupacName": "1,2,4-trihydroxyanthracene-9,10-dione"
+  },
+  {
+   "name": "Pushyanuga Churna",
+   "slug": "pushyanuga-churna",
+   "count": 1,
+   "unresolved": true
   },
   {
    "name": "Pyrethrin",
@@ -6267,6 +6051,18 @@
    "iupacName": "(Z,12R)-12-hydroxyoctadec-9-enoic acid"
   },
   {
+   "name": "Rishabhaka Manilkara hexandra Dubard",
+   "slug": "rishabhaka-manilkara-hexandra-dubard",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Rohisha",
+   "slug": "rohisha",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Rotary evaporators",
    "slug": "rotary-evaporators",
    "count": 1,
@@ -6309,6 +6105,24 @@
   {
    "name": "Rutherfordin",
    "slug": "rutherfordin",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Saffron — Crocus sativus",
+   "slug": "saffron-crocus-sativus",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Saireyaka",
+   "slug": "saireyaka",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Sala Shorea robusta Gaertn.f",
+   "slug": "sala-shorea-robusta-gaertn-f",
    "count": 1,
    "unresolved": true
   },
@@ -6394,6 +6208,12 @@
   {
    "name": "Sappanone A and B",
    "slug": "sappanone-a-and-b",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Sariva — Hemidesmus indicus",
+   "slug": "sariva-hemidesmus-indicus",
    "count": 1,
    "unresolved": true
   },
@@ -6523,6 +6343,36 @@
    "unresolved": true
   },
   {
+   "name": "Shadbindu Taila",
+   "slug": "shadbindu-taila",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Shankha Bhasma",
+   "slug": "shankha-bhasma",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Sharapunkha",
+   "slug": "sharapunkha",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Shatavari",
+   "slug": "shatavari",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Shatavari extract",
+   "slug": "shatavari-extract",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Shatavarin I-IV",
    "slug": "shatavarin-i-iv",
    "count": 1,
@@ -6540,14 +6390,20 @@
    "iupacName": "(1S,2R,5S,6S,7R,10S)-10-hydroxy-6-(hydroxymethyl)-6-methyltricyclo[5.3.1.01,5]undec-8-ene-2,8-dicarboxylic acid"
   },
   {
+   "name": "Shirisha Albizia lebbeck Benth",
+   "slug": "shirisha-albizia-lebbeck-benth",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Shogaols",
    "slug": "shogaols",
    "count": 1,
    "unresolved": true
   },
   {
-   "name": "Shunthi combination)",
-   "slug": "shunthi-combination",
+   "name": "Shunthi",
+   "slug": "shunthi",
    "count": 1,
    "unresolved": true
   },
@@ -6571,6 +6427,18 @@
   {
    "name": "Silver-coated copper vessels",
    "slug": "silver-coated-copper-vessels",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Simhanada Guggulu",
+   "slug": "simhanada-guggulu",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Sita",
+   "slug": "sita",
    "count": 1,
    "unresolved": true
   },
@@ -6611,6 +6479,12 @@
   {
    "name": "Sitoindosides VII-X",
    "slug": "sitoindosides-vii-x",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Sitopaladi Churna",
+   "slug": "sitopaladi-churna",
    "count": 1,
    "unresolved": true
   },
@@ -6736,6 +6610,12 @@
    "iupacName": "N'-(3-aminopropyl)butane-1,4-diamine"
   },
   {
+   "name": "Srikhandasava",
+   "slug": "srikhandasava",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Stachydrine",
    "slug": "stachydrine",
    "count": 1,
@@ -6804,6 +6684,12 @@
    "unresolved": true
   },
   {
+   "name": "Sukumaram Ghritam",
+   "slug": "sukumaram-ghritam",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Sulforaphane",
    "slug": "sulforaphane",
    "count": 1,
@@ -6826,6 +6712,24 @@
    "iupacName": "sulfane"
   },
   {
+   "name": "Swarna Bhasma",
+   "slug": "swarna-bhasma",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Talisadi Churna",
+   "slug": "talisadi-churna",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Tapyadi Loha",
+   "slug": "tapyadi-loha",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Taraxerone",
    "slug": "taraxerone",
    "count": 1,
@@ -6846,6 +6750,12 @@
    "inchikey": "FEWJPZIEWOKRBE-JCYAYHJZSA-N",
    "smiles": "C(C(C(=O)O)O)(C(=O)O)O",
    "iupacName": "(2R,3R)-2,3-dihydroxybutanedioic acid"
+  },
+  {
+   "name": "Taruni",
+   "slug": "taruni",
+   "count": 1,
+   "unresolved": true
   },
   {
    "name": "Taxane diterpenoids",
@@ -6988,6 +6898,12 @@
    "iupacName": "2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol"
   },
   {
+   "name": "Tila Sesamum indicum L",
+   "slug": "tila-sesamum-indicum-l",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Tinosporaside",
    "slug": "tinosporaside",
    "count": 1,
@@ -7035,6 +6951,30 @@
   {
    "name": "Traditional Ghani",
    "slug": "traditional-ghani",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Trapusha",
+   "slug": "trapusha",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Triphala Churna",
+   "slug": "triphala-churna",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Triphala Herbs",
+   "slug": "triphala-herbs",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Triphaladi Thailam",
+   "slug": "triphaladi-thailam",
    "count": 1,
    "unresolved": true
   },
@@ -7162,8 +7102,26 @@
    "unresolved": true
   },
   {
+   "name": "Utpala",
+   "slug": "utpala",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Vacha",
+   "slug": "vacha",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Vacuum pump cupping sets",
    "slug": "vacuum-pump-cupping-sets",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Vanapsa Viola odorata L",
+   "slug": "vanapsa-viola-odorata-l",
    "count": 1,
    "unresolved": true
   },
@@ -7179,8 +7137,32 @@
    "iupacName": "4-hydroxy-3-methoxybenzaldehyde"
   },
   {
+   "name": "Vasa Adhatoda vasica Nees",
+   "slug": "vasa-adhatoda-vasica-nees",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Vasarishta",
    "slug": "vasarishta",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Vata-Balancing Herbs",
+   "slug": "vata-balancing-herbs",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Vatagajankush Rasa",
+   "slug": "vatagajankush-rasa",
+   "count": 1,
+   "unresolved": true
+  },
+  {
+   "name": "Vathada",
+   "slug": "vathada",
    "count": 1,
    "unresolved": true
   },
@@ -7205,6 +7187,12 @@
    "inchikey": "FIAAVMJLAGNUKW-VQVVXJKKSA-N",
    "smiles": "C1=CC(=CC=C1C2=CC(=O)C3=C(C(=C(C(=C3O2)C4C(C(C(C(O4)CO)O)O)O)O)C5C(C(C(C(O5)CO)O)O)O)O)O",
    "iupacName": "5,7-dihydroxy-2-(4-hydroxyphenyl)-6,8-bis[(2S,3R,4R,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]chromen-4-one"
+  },
+  {
+   "name": "Vidari",
+   "slug": "vidari",
+   "count": 1,
+   "unresolved": true
   },
   {
    "name": "Vilangin",
@@ -7269,6 +7257,12 @@
    "unresolved": true
   },
   {
+   "name": "Vriddhadaru",
+   "slug": "vriddhadaru",
+   "count": 1,
+   "unresolved": true
+  },
+  {
    "name": "Vrihimukha Shastra",
    "slug": "vrihimukha-shastra",
    "count": 1,
@@ -7298,7 +7292,7 @@
    "iupacName": "(3R,4R)-3-hydroxy-3,4-bis[(4-hydroxy-3-methoxyphenyl)methyl]oxolan-2-one"
   },
   {
-   "name": "With [Triphala] for detoxification",
+   "name": "With Triphala for detoxification",
    "slug": "with-triphala-for-detoxification",
    "count": 1,
    "unresolved": true
@@ -7396,6 +7390,12 @@
    "inchikey": "WQLVFSAGQJTQCK-CAKNJAFZSA-N",
    "smiles": "CC1CCC2(C(C3C(O2)CC4C3(CCC5C4CC=C6C5(CCC(C6)O)C)C)C)OC1",
    "iupacName": "(1S,2S,4S,5'S,6R,7S,8R,9S,12S,13R,16S)-5',7,9,13-tetramethylspiro[5-oxapentacyclo[10.8.0.02,9.04,8.013,18]icos-18-ene-6,2'-oxane]-16-ol"
+  },
+  {
+   "name": "Yashada Bhasma",
+   "slug": "yashada-bhasma",
+   "count": 1,
+   "unresolved": true
   },
   {
    "name": "Yohimbine",

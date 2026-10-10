@@ -61,7 +61,7 @@ What Indian Ayurvedic manufacturers publish about their own products, measured a
 Constituents resolved against PubChem to a CID, molecular formula, weight and InChIKey, kept apart from compounds.json because an unresolved constituent is a different fact from a resolved one.
 
 - 0.21 MB
-- sha256 `1ec3f96c1466270d729e938a0634df8cd9f2f412ff986f159109ea0a1d696fba`
+- sha256 `3af1869aa09ae02e8f336a5054e7752f7f1cc0e2532c5071aeb8d07cff347e41`
 - live copy: https://nighantu.ageayurveda.com/chemistry.json
 
 ### `composition.csv`
@@ -84,16 +84,16 @@ The ingredient composition of the classical formulations transcribed from the Ay
 
 The constituents as a table, one row per constituent per monograph.
 
-- 0.31 MB, 838 data rows
-- sha256 `8f64639c62a1f4a59537ef4a8aadb6ba0a6ae3ca90d0e0c2716aac7a2416a32b`
+- 0.30 MB, 838 data rows
+- sha256 `9f6be05f8b8e475aadb7e02dd7ac2d3eef3cb43d9ecb4c719c3baecdbc859ee7`
 - live copy: https://nighantu.ageayurveda.com/compounds.csv
 
 ### `compounds.json`
 
 Phytochemical constituents named across the monographs, resolved to PubChem where an identifier exists, with a co-occurrence network computed from the pages themselves.
 
-- 1.80 MB
-- sha256 `7fc8aa46208611984e534bb39b5819c970d8ba6530f0ab04647d8fbd9751708b`
+- 1.77 MB
+- sha256 `db039f5306c4e5e196b23302b43002aeed91ef8e1a62a9afbe969d79ca335d97`
 - live copy: https://nighantu.ageayurveda.com/compounds.json
 
 ### `concepts.csv`

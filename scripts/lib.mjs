@@ -96,6 +96,17 @@ export function stripMarkup(s) {
   return String(s)
     .replace(/\[\[([^\]|]*)\|([^\]]*)\]\]/g, '$2')
     .replace(/\[\[([^\]]*)\]\]/g, '$1')
+    /**
+     * A STANDARD MARKDOWN LINK, which this function did not handle for the whole life of the
+     * corpus. It knew Obsidian wikilinks, bold, italic and code, and the one markup form the body
+     * uses most often, the inline citation link lib/claims.mjs writes, passed through untouched.
+     *
+     * 60 answer blocks therefore shipped `[Study title](https://pubmed...)` as their meta
+     * description, under answer.mjs's comment "Nothing resembling markup may reach the answer
+     * block". The link text is kept, because a reader of stripped text wants the label and not the
+     * URL; an answer block wants neither, and scripts/fix-answer-citations.mjs is why.
+     */
+    .replace(/\[([^\]]*)\]\(\s*[^)]*\)/g, '$1')
     // malformed and nested vault links, e.g. "Ghrita|Amritaprasha Ghrita]]"
     .replace(/\[{2,}([^\[\]|]*)(?:\|([^\[\]]*))?\]{0,2}/g, (_a, t, l) => (l ?? t))
     .replace(/([^\s|]*)\|([^|\]]*)\]\]/g, '$2')
