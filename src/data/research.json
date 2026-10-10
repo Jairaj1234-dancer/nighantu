@@ -4,7 +4,7 @@
   "papers": 3491,
   "withDoi": 3314,
   "subjectsCovered": 466,
-  "citedByMultiple": 634,
+  "citedByMultiple": 635,
   "byTier": {
    "A": 158,
    "B": 105,
@@ -7866,6 +7866,12 @@
    "tier": "C",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42170139/",
    "subjects": [
+    {
+     "kind": "formulation",
+     "slug": "kalyanaka-ghrita",
+     "title": "Kalyanaka Ghrita",
+     "binomial": ""
+    },
     {
      "kind": "formulation",
      "slug": "kalyanaka-ghritam",
