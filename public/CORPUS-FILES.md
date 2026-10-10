@@ -40,6 +40,14 @@ The Ayurvedic Formulary of India ingredient-name crosswalk: every Sanskrit ingre
 - sha256 `d6249321c663b7ecdde6993325ca44d53105d2f6385487c6cec2c8e537bb8b24`
 - live copy: https://nighantu.ageayurveda.com/afi-crosswalk.json
 
+### `afi-crosswalk.pdf`
+
+The formulary ingredient crosswalk as a typeset document, generated from afi-crosswalk.json so it cannot disagree with it. Published to test a measured hypothesis: two probes of what answer engines cite on formulary composition questions put a document host above every publisher, so format may be part of what gets selected in this niche. It carries the canonical address, the DOI and the Wikidata entity on page one.
+
+- 0.24 MB
+- sha256 `2f98d875b973e764923d0270fd1a838c5cccca67eda50a92cedcf12d5830d137`
+- live copy: https://nighantu.ageayurveda.com/afi-crosswalk.pdf
+
 ### `brand-disclosure.json`
 
 What Indian Ayurvedic manufacturers publish about their own products, measured across their product pages: whether each page names its ingredients, gives a quantity against them, states a dose amount, or cites an authority. Every count carries the page URL it came from.

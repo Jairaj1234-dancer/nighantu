@@ -100,6 +100,11 @@ const DESCRIBED = {
   'dose-comparison.csv': 'The dose comparison, one row per compared product page.',
   'manufacturer-register.json': 'A register of Indian Ayurvedic manufacturers with the website each publishes, the state it operates from, and what its robots.txt permits, measured one host at a time.',
   'manufacturer-register.csv': 'The manufacturer register as a table, with per-crawler permissions as columns.',
+  'afi-crosswalk.pdf': 'The formulary ingredient crosswalk as a typeset document, generated from '
+    + 'afi-crosswalk.json so it cannot disagree with it. Published to test a measured hypothesis: '
+    + 'two probes of what answer engines cite on formulary composition questions put a document '
+    + 'host above every publisher, so format may be part of what gets selected in this niche. It '
+    + 'carries the canonical address, the DOI and the Wikidata entity on page one.',
 };
 
 const walk = (dir) => fs.readdirSync(dir, { withFileTypes: true })
@@ -119,7 +124,7 @@ const walk = (dir) => fs.readdirSync(dir, { withFileTypes: true })
 const GENERATED = new Set(['MANIFEST.json', 'CORPUS-FILES.md']);
 
 const files = walk(PUB)
-  .filter((f) => /\.(json|csv|parquet)$/.test(f))
+  .filter((f) => /\.(json|csv|parquet|pdf)$/.test(f))
   .map((f) => path.relative(PUB, f))
   .filter((rel) => !rel.startsWith('_') && !GENERATED.has(rel))
   .sort();

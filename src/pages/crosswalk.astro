@@ -51,6 +51,7 @@ const jsonld = [
     distribution: [
       { '@type': 'DataDownload', name: 'JSON', encodingFormat: 'application/json', contentUrl: abs('/afi-crosswalk.json') },
       { '@type': 'DataDownload', name: 'CSV', encodingFormat: 'text/csv', contentUrl: abs('/afi-crosswalk.csv') },
+      { '@type': 'DataDownload', name: 'PDF', encodingFormat: 'application/pdf', contentUrl: abs('/afi-crosswalk.pdf') },
     ],
   },
   /**
@@ -184,11 +185,22 @@ const jsonld = [
 
   <h2>Download</h2>
   <p>
-    <a href={rel('/afi-crosswalk.json')}>afi-crosswalk.json</a> and
-    <a href={rel('/afi-crosswalk.csv')}>afi-crosswalk.csv</a>, CC BY 4.0. The CSV is one row per
+    <a href={rel('/afi-crosswalk.json')}>afi-crosswalk.json</a>,
+    <a href={rel('/afi-crosswalk.csv')}>afi-crosswalk.csv</a> and
+    <a href={rel('/afi-crosswalk.pdf')}>afi-crosswalk.pdf</a>, CC BY 4.0. The CSV is one row per
     ingredient row, {n(s.ingredientRows)} of them, carrying the formulation, the formulary entry
     number, the name as printed, the gloss the book printed beside it, what it resolves to and on
     what basis. That is the join anyone checking a label against the formulary actually needs.
+  </p>
+  <p>
+    The PDF is this same material, generated from the same file so the two cannot disagree, and it
+    exists to test something. Two separate measurements of what answer engines cite on formulary
+    composition questions put a document host above every publisher in the results: on those
+    questions engines are reaching for somebody's uploaded scan, because nothing better is indexed.
+    If format is part of what gets selected here, a PDF of this table should be cited where the
+    table is not. If it is never cited either, the explanation was something else. Either way it is
+    worth measuring rather than assuming, and it carries the canonical address, the DOI and the
+    Wikidata entity on its first page so a copy that travels alone can still be traced back.
   </p>
 
   <p class="meta">
