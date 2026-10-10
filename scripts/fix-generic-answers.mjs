@@ -83,17 +83,43 @@ for (const rel of walk('content')) {
       alsoCalled.push(title(v));
     }
   }
-  const family = (/^family:\s*"([^"]+)"/m.exec(raw) ?? [, ''])[1].trim();
+  /**
+   * A PLACEHOLDER IS NOT A FAMILY. The `family` field carries literal "Unknown" on some pages, and
+   * the first run of this composed "Nikochaka (Alangium salviifolium) is a plant drug, from the
+   * Unknown family", which states a non-fact in the sentence a searcher is shown. Exactly the
+   * error class this whole pass exists to remove, reintroduced by the fix for it.
+   */
+  const famRaw = (/^family:\s*"([^"]+)"/m.exec(raw) ?? [, ''])[1].trim();
+  const family = /^(unknown|n\/?a|none|tbd|-{1,2}|\?)$/i.test(famRaw) ? '' : famRaw;
 
   if (!family && !alsoCalled.length) {
     skipped.push([key, 'no family and no classical names: a filler opener beats an invented one']);
     continue;
   }
 
-  // Rewrite only the opener. Everything else the answer says is left alone.
+  // Rewrite only the opener. Everything else the answer says is left alone, with one exception
+  // below: a family clause already in the text that names a placeholder rather than a family.
   let next = m[1].replace(GENERIC, 'is a plant drug');
+  /**
+   * STRIP a pre-existing placeholder family clause as well as declining to add one.
+   *
+   * The first run left "Nikochaka (Alangium salviifolium) is a plant drug, also called Ankolah,
+   * Akola and Nikocaka, from the Unknown family." The guard stopped this script ADDING that clause
+   * and did nothing about the one already in the sentence, which the generator had written from the
+   * same placeholder. Declining to introduce a non-fact is not the same as removing it.
+   */
+  next = next.replace(/,?\s*from the (?:unknown|n\/?a|none|tbd)\s+family/gi, '');
   const clause = [];
-  if (family && !new RegExp(`${family}\\s+family`, 'i').test(next)) clause.push(`from the ${family} family`);
+  /**
+   * A PLAIN STRING TEST, not a regex, because the family name is data and data is not a pattern.
+   * "Asteraceae (Compositae)" interpolated into a regex compiles its parentheses as a capture
+   * group, so the guard never matched and the clause would have been written twice: "is a plant
+   * drug, from the Asteraceae (Compositae) family, also called ..., from the Asteraceae
+   * (Compositae) family." Caught in the dry run, which is what the dry run is for.
+   */
+  if (family && !next.toLowerCase().includes(`${family.toLowerCase()} family`)) {
+    clause.push(`from the ${family} family`);
+  }
   if (alsoCalled.length) {
     const list = alsoCalled.slice(0, 3);
     clause.push(`also called ${list.length > 1
