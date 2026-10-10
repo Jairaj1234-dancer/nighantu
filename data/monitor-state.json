@@ -583,7 +583,7 @@
       "https://nighantu.ageayurveda.com/formulation/jatyadi-taila/": "840da5b2e572b177",
       "https://nighantu.ageayurveda.com/formulation/jeerakarishtam/": "f9612373dab37879",
       "https://nighantu.ageayurveda.com/formulation/kaishore-guggul/": "93c4b432442d6b76",
-      "https://nighantu.ageayurveda.com/formulation/kalyanaka-ghrita/": "532ba39a9afde2e1",
+      "https://nighantu.ageayurveda.com/formulation/kalyanaka-ghrita/": "02f002f02da295b9",
       "https://nighantu.ageayurveda.com/formulation/kalyanaka-ghritam/": "556bd325c19e82a2",
       "https://nighantu.ageayurveda.com/formulation/kanchanara-guggulu/": "9c53c7a17623eead",
       "https://nighantu.ageayurveda.com/formulation/kanthasudharak-vati/": "8c8131821e4d9f44",
@@ -1551,11 +1551,11 @@
       "https://nighantu.ageayurveda.com/reference/womens-health/": "c1e35ddceb2837de",
       "https://nighantu.ageayurveda.com/reference/wound-healing/": "cb20588b9673e7f7",
       "https://nighantu.ageayurveda.com/reference/zingiberaceae/": "515f12f950aeb9f5",
-      "https://nighantu.ageayurveda.com/research/": "031fe2abad6339f9",
+      "https://nighantu.ageayurveda.com/research/": "5b5cc6047ca873de",
       "https://nighantu.ageayurveda.com/research/a/": "40b32f44793dfe4a",
       "https://nighantu.ageayurveda.com/research/a/2/": "90b6865826a8290e",
       "https://nighantu.ageayurveda.com/research/b/": "9f239804c2e9d99c",
-      "https://nighantu.ageayurveda.com/research/c/": "fbb4171aabf35da8",
+      "https://nighantu.ageayurveda.com/research/c/": "85a8cd2df5e1b0ba",
       "https://nighantu.ageayurveda.com/research/c/2/": "ae59ea6984306740",
       "https://nighantu.ageayurveda.com/research/c/3/": "76db6e39ec6abb9b",
       "https://nighantu.ageayurveda.com/research/c/4/": "7b1c20d9e2cba077",
@@ -1606,8 +1606,8 @@
       "https://nighantu.ageayurveda.com/verification/safety-pass4/": "e61eb0d043c13093",
       "https://nighantu.ageayurveda.com/verification/safety-repair-02/": "513da4a970197564"
     },
-    "lastSubmittedAt": "2026-10-10T05:00:28.490Z",
-    "lastSubmittedCount": 76,
+    "lastSubmittedAt": "2026-10-10T05:10:31.493Z",
+    "lastSubmittedCount": 3,
     "submitted": [
       "https://nighantu.ageayurveda.com/",
       "https://nighantu.ageayurveda.com/about/",
@@ -3614,6 +3614,6 @@
     "seen": 5,
     "surfaced": 0
   },
-  "updatedAt": "2026-10-10T05:00:28.491Z",
+  "updatedAt": "2026-10-10T05:10:31.493Z",
   "version": 1
 }
